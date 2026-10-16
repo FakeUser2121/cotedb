@@ -30,6 +30,7 @@ import hashlib
 import json
 import posixpath
 import re
+import shutil
 import sqlite3
 import sys
 import zipfile
@@ -754,18 +755,33 @@ def make_zip():
     return h
 
 
+def make_docs():
+    """share/site/ → docs/ (GitHub Pages serves /docs from main)."""
+    docs = ROOT / "docs"
+    if docs.exists():
+        shutil.rmtree(docs)
+    shutil.copytree(SITE, docs)
+    n = sum(1 for _ in docs.rglob("*") if _.is_file())
+    print(f"docs: {n} files → docs/ (md5 {md5_tree(docs)})")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--md5", action="store_true",
                     help="print md5 of the site tree and exit")
     ap.add_argument("--zip", action="store_true",
                     help="zip share/site into share/cote-kb-share.zip")
+    ap.add_argument("--docs", action="store_true",
+                    help="copy share/site into docs/ for GitHub Pages")
     args = ap.parse_args()
     if args.md5:
         print(md5_tree(SITE))
         return 0
     if args.zip:
         make_zip()
+        return 0
+    if args.docs:
+        make_docs()
         return 0
 
     SITE.mkdir(parents=True, exist_ok=True)

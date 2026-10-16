@@ -25,10 +25,14 @@ import sys
 from html.parser import HTMLParser
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from build_share_site import md5_tree  # noqa: E402
+
 ROOT = Path(__file__).resolve().parent.parent
 SITE = ROOT / "share" / "site"
 PRINT = ROOT / "share" / "print"
 PDFS = SITE / "pdfs"
+DOCS = ROOT / "docs"
 HREF_RE = re.compile(r'(?:href|src)="([^"]+)"')
 EXPECTED_SITE = 83
 EXPECTED_PRINT = 6
@@ -136,6 +140,12 @@ def main():
             if not (SITE / "assets" / f if f.endswith((".css", ".js"))
                     else SITE / f).exists():
                 errors.append(f"missing asset: {f}")
+        if DOCS.exists():
+            if md5_tree(DOCS) != md5_tree(SITE):
+                errors.append("docs/ out of sync with share/site "
+                              "(run build_share_site.py --docs)")
+            else:
+                notes.append("docs/: in sync with share/site")
 
     if args.prn or run_all:
         print_files = sorted(PRINT.glob("*.html"))
