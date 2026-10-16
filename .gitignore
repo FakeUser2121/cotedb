@@ -1,0 +1,13 @@
+# never commit the corpus or extracted PDFs (copyrighted source)
+text/
+gdrive_download/
+
+# databases are local build state (regenerate with kb/ scripts)
+cote_kb.db
+search.db
+*.sqlite
+*.sqlite3
+
+# python noise
+__pycache__/
+*.pyc

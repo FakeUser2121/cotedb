@@ -1,0 +1,181 @@
+# External seed list — Wattpad "Classroom of the Elite: Classes and students"
+# by unknwnmanskaya (pages 2 & 3 + "Every student Part 2")
+# Scope per author: Volume 1 - Y2V3 (+ anime filler page 3)
+# Source: https://www.wattpad.com (user-pasted 2026-10-16)
+# Status: EXTERNAL, unverified — every entry must be verified against corpus.
+# Format: class<TAB>gender<TAB>name (Family, Given) or surname-only
+
+Class 1-A	F	Sakayanagi, Arisu
+Class 1-A	F	Kamuro, Masumi
+Class 1-A	F	Nishikawa, Ryouko
+Class 1-A	F	Yano, Koharu
+Class 1-A	F	Nishi, Haruka
+Class 1-A	F	Motodoi, Chikako
+Class 1-A	F	Rokkaku, Momoe
+Class 1-A	F	Tamiya, Emi
+Class 1-A	F	Tsukaji, Shihori
+Class 1-A	F	Tanihara, Mao
+Class 1-A	F	Fukuyama, Shinobu
+Class 1-A	F	Nakajima, Riko
+Class 1-A	F	Yamamura, Miki
+Class 1-A	M	Katsuragi, Kohei
+Class 1-A	M	Totsuka, Yahiko
+Class 1-A	M	Machida, Kouji
+Class 1-A	M	Hashimoto, Masayoshi
+Class 1-A	M	Kitou, Hayato
+Class 1-A	M	Morishige, Takurou
+Class 1-A	M	Takemoto, Shigeru
+Class 1-A	M	Yoshida, Kenta
+Class 1-A	M	Shimizu, Naoki
+Class 1-A	M	Matoba, Shinji
+Class 1-A	M	Sawada, Yasumi
+Class 1-A	M	Shimazaki, Ikkei
+Class 1-A	M	Tsukakasi, Taiga
+Class 1-A	M	Toba, Shigeru
+Class 1-A	M	Satonaka, Satoru
+Class 1-A	M	Sugio, Hiroshi
+Class 1-A	M	Ishida, Yuusuke
+
+Class 1-B	F	Ichinose, Honami
+Class 1-B	F	Shiranami, Chihiro
+Class 1-B	F	Kobashi, Yume
+Class 1-B	F	Amikura, Mako
+Class 1-B	F	Tsukabe, Hitomi
+Class 1-B	F	Andou, Sayo
+Class 1-B	F	Minamikata, Kozue
+Class 1-B	F	Ninomiya, Yui
+Class 1-B	F	Tsube, Hitomi
+Class 1-B	F	Asako
+Class 1-B	M	Kanzaki, Ryuuji
+Class 1-B	M	Shibata, Sou
+Class 1-B	M	Beppu, Ryouta
+Class 1-B	M	Hamaguchi, Tetsuya
+Class 1-B	M	Watanabe, Norihito
+Class 1-B	M	Tokitou
+Class 1-B	M	Sumida, Makoto
+Class 1-B	M	Moriyama
+Class 1-B	M	Yonezu, Haruto
+Class 1-B	M	Nakanishi
+
+Class 1-C	M	Ryuuen, Kakeru
+Class 1-C	F	Ibuki, Mio
+Class 1-C	F	Shiina, Hiyori
+Class 1-C	F	Manabe, Shiho
+Class 1-C	F	Nishino, Takeko
+Class 1-C	F	Yamashita, Saki
+Class 1-C	F	Yabu, Nanami
+Class 1-C	F	Morofuji, Rika
+Class 1-C	F	Kinoshita, Minori
+Class 1-C	F	Yajima, Mariko
+Class 1-C	F	Kishita
+Class 1-C	M	Yamada, Albert
+Class 1-C	M	Ishizaki, Daichi
+Class 1-C	M	Kaneda, Satoru
+Class 1-C	M	Komiya, Kyogo
+Class 1-C	M	Kondou, Reo
+Class 1-C	M	Sonoda, Masashi
+Class 1-C	M	Oda, Takumi
+Class 1-C	M	Suzuki, Hidetoshi
+Class 1-C	M	Tokitou, Hiroya
+Class 1-C	M	Nomura, Yuuji
+Class 1-C	M	Yoshimoto, Kousetsu
+
+Class 1-D	M	Ayanokouji, Kiyotaka
+Class 1-D	M	Hirata, Yousuke
+Class 1-D	M	Ike, Kanji
+Class 1-D	M	Sudou, Ken
+Class 1-D	M	Yukimura, Teruhiko
+Class 1-D	M	Kouenji, Rokusuke
+Class 1-D	M	Miyake, Akito
+Class 1-D	M	Sotomura, Hideo
+Class 1-D	M	Yamauchi, Haruki
+Class 1-D	M	Okitani, Kyousuke
+Class 1-D	M	Hondou, Ryoutaro
+Class 1-D	M	Ijuuin, Wataru
+Class 1-D	M	Miyamoto, Soshi
+Class 1-D	M	Minami, Hakuo
+Class 1-D	M	Minami, Setsuya
+Class 1-D	M	Makida, Susumu
+Class 1-D	M	Okiya, Kyousuke
+Class 1-D	F	Horikita, Suzune
+Class 1-D	F	Hasebe, Haruka
+Class 1-D	F	Karuizawa, Kei
+Class 1-D	F	Kushida, Kikyo
+Class 1-D	F	Matsushita, Chiaki
+Class 1-D	F	Sakura, Airi
+Class 1-D	F	Satou, Maya
+Class 1-D	F	Shinohara, Satsuki
+Class 1-D	F	Wang, Mei-Yu
+Class 1-D	F	Onodera, Kayano
+Class 1-D	F	Inogashira, Kokoro
+Class 1-D	F	Mori, Nene
+Class 1-D	F	Maezono
+Class 1-D	F	Ishikura, Kayoko
+Class 1-D	F	Sonoda, Chiyo
+Class 1-D	F	Ichihashi, Ruri
+Class 1-D	F	Azuma, Sana
+Class 1-D	F	Nishimura, Ryuuko
+Class 1-D	F	Onizuka
+Class 1-D	F	Rino
+
+Class 2-A	M	Nagumo, Miyabi
+Class 2-A	F	Asahina, Nazuna
+
+Class 2-B	M	Kiriyama, Ikuto
+Class 2-B	F	Kiryuin, Fuuka
+
+Unknown	Tonokawa
+Unknown	Mizowaki
+
+Class 3-A	M	Horikita, Manabu
+Class 3-A	F	Tachibana, Akane
+Class 3-A	M	Fujimaki
+
+Class 3-B	M	Ikari
+Class 3-B	F	Onodera
+Class 3-B	M	Tsunoda
+Class 3-B	M	Ishikura
+
+Faculty	M	Tsukishiro
+Faculty	M	Sakayanagi (Mr.)
+Faculty	M	(unnamed headmaster)
+Faculty	M	Mashima, Tomonari
+Faculty	F	Hoshinomiya, Chie
+Faculty	M	Sakagami
+Faculty	F	Chabashira, Sae
+Faculty	M	Shiba, Katsunori
+
+Other	M	Sugimura
+Other	M	Matsuo
+Other	M	Matsuo, Eiichirou
+Other	F	Katsuragi's sister
+Other	F	Ichinose's sister
+Other	F	Ichinose's mother
+
+Year2-1-A	F	Amasawa, Ichika
+Year2-1-A	M	Takahashi, Osamu
+Year2-1-A	F	Mitsui, Ayumi
+Year2-1-B	M	Yagami, Takuya
+Year2-1-B	F	Dogami, Mitsuko
+Year2-1-B	Shimazaki (Kei's partner)
+Year2-1-C	F	Tsubaki, Sakurako
+Year2-1-C	M	Utomiya, Riku
+Year2-1-D	F	Nanase, Tsubasa
+Year2-1-D	M	Housen, Kazuomi
+Year2-1-D	M	Makita, Takashige
+
+Part2-1-A	Y2	Ishigami, Kyou
+Part2-1-A	Y2	Kurihara, Kasuga
+Part2-1-A	Y2	Konishi, Tetsuko
+Part2-1-C	Y2	Hatano
+Part2-1-D	Y2	Kaga
+Part2-1-D	Y2	Mikami
+Part2-1-D	Y2	Shiratori
+Part2-1-D	Y2	Kajiwara
+Part2-firstY2	Oshio
+Part2-thirdY2	F	Tomioka
+Part2-thirdY2	F	Tokunaga
+Part2-thirdY2	Masuwaka
+Part2-thirdY2	Mizoe
+Part2-thirdY2	Ochiai
+Part2-thirdY2	Kuronaga
