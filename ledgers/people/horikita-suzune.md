@@ -1,0 +1,359 @@
+# Horikita Suzune — walk ledger
+
+char_id: horikita-suzune · class: Class 1-D (enrolled April 2015) · status: main
+aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
+
+## y1v1
+
+<!-- walk: y1v1 → start -->
+
+### y1v1 p.16–18 — Classroom coercion (Ch.2 opening, present late May)
+[scene] Class 1-D classroom after final bell. Ayanokōji is feigning sleep ("Sleeping Strategy") pondering society. Horikita approaches his desk and stands over him like an intimidating presence (described as a "devil" to Shostakovich's Symphony No. 11).
+[says] (p.16) “Ayanokouji-kun, do you have a moment?”
+[says] (p.16) “If you do not awaken within three seconds, I will bestow additional punishment upon you.”
+[says] (p.16) “See, you are awake after all, aren’t you?”
+[says] (p.16) “Glad to hear it. Well then, may I have a little of your time?”
+[says] (p.17) “Well, even though you have no right to veto such a decision, I suppose I would be exceptionally displeased.”
+[says] (p.17) “And when I am displeased, then I will prove a major obstacle to your school life, Ayanokouji-kun. For example, I might set a great number of thumbtacks on your chair. Or, when you go to the toilet, I might splash water on you from above. Or stab you with the needle of my mathematical compass. Those kinds of obstacles, I suppose.”
+[says] (p.17) “Don’t worry. That was only a joke. I wouldn’t splash water on you from above.” (after his harassment protest)
+[says] (p.17) “Evidence?” (she asked)
+[says] (p.17) “What about the evidence? Did you decide I’m the culprit without evidence?” (demands proof when accused of previously stabbing his arm with a drawing compass)
+[says] (p.17–18) “Ayanokouji-kun. Would you prefer to regret while you suffer or regret while you despair? Which would you like more? Because if you refuse me and force my hand, it will be your responsibility.”
+[says:ayanokouji-kiyotaka] (p.18) “All right, then. What am I supposed to do?” (agrees under duress, filled with trepidation; the narrative then flashes back two months to the entrance ceremony — the favor itself is named only later, at p.150: “I need your help, Ayanokouji-kun.”)
+[action] (p.16–17) Physical intimidation; stands directly over him; uses cold countdowns; completely denies physical violence (compass stab) on strict legalistic grounds (lack of evidence).
+[trait] (p.16–18) Dominant, uncompromising, highly articulate, ruthlessly practical, utilizes psychological pressure and legalistic deflection.
+[voice] (p.16–18) Formal, polite yet chillingly authoritative diction (keigo combined with overt threats: "bestow additional punishment", "undeniable reality", "regret while you suffer").
+[rel:ayanokouji-kiyotaka] (p.16–18) Master-slave / coerced partner dynamic; views him as someone she can leverage for assistance through relentless pressure; already comfortable threatening physical harm.
+
+### y1v1 p.20–25 — Entrance ceremony bus & rock gate confrontation (Ch.2 flashback, April)
+[scene] Crowded city bus heading to ANHS on entrance ceremony day. An elderly woman stands shaking in the aisle. Kushida appeals to passengers; Kōenji haughtily refuses to yield his priority seat.
+[action] (p.24) Sits beside Ayanokōji near the elderly woman. Unlike the hesitant or ignoring passengers, she remains completely stone-faced and expressionless, completely immune to the surrounding emotional pressure.
+[rel:ayanokouji-kiyotaka] (p.24) Eyes lock with Ayanokōji across the aisle for an instant; shared silent mutual recognition that neither sees any reason to sacrifice their seat.
+[scene] Natural rock school gate outside ANHS. As students disembark, Horikita immediately intercepts Ayanokōji before he enters.
+[action] (p.25) Confronts him directly; narrows her sharp eyes in suspicion.
+[says] (p.25) “Wait!” (calls out to him as he approaches the gate)
+[says] (p.25) “You were looking at me. Why?” (she asked, narrowing her eyes)
+[says] (p.25) “That’s right. I didn’t consider giving it up. Is there something wrong with that?”
+[says] (p.25) “You dislike trouble? Then I don’t think you and I are anything alike. I didn’t give up my seat because I thought it would be pointless. That’s all.”
+[says] (p.25) “Perhaps. I’m simply acting according to my own beliefs. That’s different from someone who just dislikes trouble, like you. I don’t want to spend any time around people like you.”
+[trait] (p.25) Principle-driven individualism; fierce distinction between her rational convictions ("pointless") and mere apathy (disliking trouble); openly hostile to people she deems weak-willed or apathetic.
+[rel:ayanokouji-kiyotaka] (p.25) Mutual dismissal; establishes deep boundary ("don't want to spend any time around people like you"); walks off with identical mutual sigh.
+
+### y1v1 p.27–29 — Classroom Day 1: assigned neighbors & favor exchange
+[scene] Class 1-D classroom before ceremony. Horikita sits down at the desk directly to Ayanokōji's left (window column, rear).
+[says] (p.27) “That’s quite a heavy sigh, considering the school year has only begun. Meeting you again makes me want to sigh.”
+[says] (p.28) “You just went ahead and introduced yourself?”
+[says] (p.28) “Do you mind if I refuse?” (she asked, when he introduces himself)
+[says] (p.28) “You’re a curious one, aren’t you? You won’t find talking to me very interesting, though.” (replies when AK asks if she has friends in another class or enrolled alone)
+[says] (p.28) “I’m Horikita Suzune.” (introduces herself only after sighing and changing her mind)
+[says] (p.29) “Spoken just like someone who avoids trouble. I don’t think I could ever like such a person,” (her verdict on AK’s self-description; adds “I pray this will be my only upset.”)
+[trait] (p.28–29) Deeply guarded and transactional; refuses engagement outright (“Do you mind if I refuse?”), performs self-introduction only under social pressure, and delivers a cutting verdict on AK’s “avoids trouble” persona; openly states she doesn’t want to spend time around people like him.
+[voice] (p.29) Clinical, dismissive boundary-setting; wraps rejection in pseudo-clinical judgments (“Spoken just like someone who avoids trouble”).
+[rel:ayanokouji-kiyotaka] (p.28–29) Formally exchanges full names after visible reluctance; ends the exchange with mutual disdain (“I don’t want to spend any time around people like you” / “I feel the same way”).
+
+### y1v1 p.37 — Rejection of Hirata's introductions
+[scene] Class 1-D classroom after Chiyabashira leaves. Hirata attempts class-wide self-introductions.
+[action] (p.37) When Sudō and others rebel and storm out, Horikita stands up from her desk without speaking a single word of introduction. She glances briefly at Ayanokōji, sees he isn't moving, and walks straight out the classroom door, completely unbothered by collective class harmony.
+[trait] (p.37) Utter disregard for peer pressure, social cohesion, or performative harmony.
+
+### y1v1 p.41–45 — Convenience store observation & pushover lecture
+[scene] Campus convenience store on entrance afternoon. Horikita stands reading a book in the aisle.
+[says] (p.42–43) Dryly critiques Ayanokōji's botched class introduction: notes his self-introduction was painful to watch and achieved the exact opposite of making friends.
+[action] (p.46–51) Stays quiet during Sudō's altercation with the two mocking second-years.
+[action] (p.51–52) Observes Ayanokōji stoop down and clean up Sudō's spilled instant ramen cup from the floor outside the store.
+[says] (p.52) Berates Ayanokōji for his submissive nature; tells him cleaning up another student's mess makes him look like a hopeless pushover and doormat.
+[trait] (p.52) Critical of passivity; views unrewarded, self-effacing kindness as weak and illogical.
+[rel:ayanokouji-kiyotaka] (p.42–52) Continued observation of his contradictory behavior; disdainful of his conflict-averse actions while remaining tethered to his vicinity.
+
+### y1v1 p.54–56 — Lunchtime mockery of Ayanokōji's isolation
+[scene] Class 1-D classroom at lunch on Day 2. Ayanokōji is sitting alone, wishing someone would invite him to eat.
+[action] (p.54–55) Laughs derisively at Ayanokōji from the adjacent desk.
+[says] (p.54) “How pathetic.”
+[says] (p.54) “‘I want someone to invite me along. I want to eat with someone!’ Your thoughts are like an open book.”
+[says] (p.54) “That’s right. I prefer to be alone... Why don’t you stop worrying about me and instead think about yourself?”
+[action] (p.55) Watches Hirata invite the class to the cafeteria and get swarmed by girls (including Karuizawa Kei). Horikita scoffs at Ayanokōji's outstretched, unreciprocated hand.
+[says] (p.55) “How tragic.”
+[action] (p.56) Gives Ayanokōji one final pitying look before departing the classroom alone to eat in private.
+[trait] (p.54–55) Fiercely defends solitude as a deliberate preference rather than a social defeat; observant of others' insecurities, uses sharp mockery as a defense mechanism.
+
+### y1v1 p.59–62 — The club-fair invitation & the violence justification
+[scene] Classroom 1-D afternoon lunch (AK returns with convenience-store bread); later, walking to the gymnasium.
+[says] (p.59) “I’m not interested in joining a club.” (cuts AK off before he can even ask)
+[says] (p.59) “Ayanokouji-kun, do you have dementia, or are you just an idiot? Didn’t I just tell you that I’m not interested?”
+[says] (p.60) “You don’t really have any friends, do you?” (she asked)
+[says] (p.60) “Listen, don’t count me as one of your friends.”
+[says] (p.60) “You don’t plan to join a club, but you want to go to the club fair? How odd. Do you plan to use this as a pretext for talking to people and making friends?”
+[action] (p.61) Karate-chops Ayanokōji in the side when he presses her with a “mean-spirited” question, then delivers a grand speech justifying it: violence is the human race’s most effective means of resolution, older than recorded history, wielded even by police.
+[says] (p.61) “Ayanokouji-kun. I’ve warned you thoroughly, but it would appear that you haven’t been listening. I think I may have to dole out rather merciless punishment to you later.”
+[says] (p.61) “Oh, really? Violence has existed since the dawn of time. Violence has historically proven to be the human race’s most effective means of achieving resolution. Violence is the most reliable method to make others listen, or safely deny their demands. Not to mention that, in many countries, the police who enforce the law use handguns and batons, wielding violence as a tool to make arrests.”
+[says] (p.62) “Well, if it’s only for a little while after school, I’ll go with you,” she said. (concedes to accompany him to the club fair strictly as an observer)
+[says] (p.62) “Watching you flail about as you fail to make friends sounds somewhat interesting.”
+[trait] (p.59–62) Sharp-tongued and combative; justifies physical aggression with cold rationalization; concedes ground only when logic permits, framing every concession as her own limited choice.
+[rel:ayanokouji-kiyotaka] (p.59–62) Despite constant rejection, she repeatedly ends up accompanying him when reasoned with — on her terms only.
+
+### y1v1 p.67–71 — The Student Council President's speech: frozen shock
+[scene] Gymnasium club fair. Student council president Horikita Manabu takes the stage.
+[action] (p.67–68) As Manabu commands absolute silence across hundreds of students and delivers his stern manifesto against naive candidates, Suzune freezes completely.
+[action] (p.68) Remains “still as a statue”, completely paralyzed; her eyes stay locked forward, and she gives no sign of hearing Ayanokōji speaking right next to her.
+[action] (p.71) While Ayanokōji is distracted exchanging contact info with Sudō, Ike, and Yamauchi, Suzune slips silently into the departing crowd and disappears alone.
+[rel:horikita-manabu] (p.67–68) Visceral, overwhelming psychological reaction to her brother's presence; completely immobilizes her razor-sharp composure, reducing her to silence and flight.
+
+### y1v1 p.73–74, 78 — Friendship boundary & swimming performance
+[scene] Classroom 1-D (morning before PE); then indoor swimming pool.
+[action] (p.73) Arrives at class and catches Ayanokōji eyeing the boys' group conversation. Scorns his hesitation (*"Pathetic"*).
+[says] (p.73) “From what I’ve seen, you don’t seem to be unsociable or lacking in communication skills, though.”
+[says] (p.73) “Wait just a minute. I already warned you not to, but you wouldn’t be thinking of me as your friend, would you?”
+[action] (p.73) Steps backward in visible disgust when asking if he considers her a friend. When Ayanokōji replies that no matter how low he sinks he'd never dream of being her friend, she visibly relaxes.
+[says] (p.73) “I see. I feel a little relieved.”
+[feat] (p.78) Competes in the first girls' heat of 50m swimming; finishes in **approximately 28 seconds** with sharp, disciplined form.
+[trait] (p.73, 78) Strong athletic competence; steadfast commitment to solitary status; deeply relieved when social boundaries are affirmed.
+
+### y1v1 p.89–90, 94–100 — Café trap unmasked & the ninth year alone
+[scene] Classroom 1-D; then Palate Café in Keyaki Mall.
+[action] (p.89) Packing textbook into her bag at the end of class. When Kushida approaches with a bright smile to invite her to a café, Horikita rejects her flatly without hesitation.
+[says] (p.89) “Not interested.”
+[says] (p.89) “Don’t invite me again. It’s a bother.”
+[action] (p.89–90) Overhears other girls in the doorway whispering they hate her; remains completely indifferent.
+[scene] Palate Café. Ayanokōji invites her under the guise of thanking her for advice, seating them at a four-person table and ordering a caramel latte. When Kushida suddenly arrives pretending it is a coincidence, Horikita dismantles the scheme instantly.
+[action] (p.98) Glares with razor-sharp deduction; exposes the setup before Kushida can even sit down.
+[says] (p.98) “I don’t like this. What are you plotting?” (icy look, the moment she sits down)
+[says] (p.98) “I thought as much. I thought this whole thing was a little suspicious right from the start.”
+[says] (p.98) “Also, we came straight here after classes ended. No matter how much those girls rushed, they could only have been here for about one to two minutes at the most. It was far too early for them to get up and leave. Am I wrong?” (dismantles the timing of the “coincidental” encounter)
+[says] (p.98) “I’ve already said this many times. I want you to leave me alone. I have no intention of becoming friends with anyone in class. Can you not understand that?” (to Kushida, after “Please be my friend!”)
+[says] (p.99) “I wouldn’t deny you your wish, but it’s wrong to try forcing people into something against their will. Being alone doesn’t make me sad.”
+[says] (p.99) “Besides, do you think that I would be happy if you forced me to become your friend? Do you think that feelings of trust would arise out of something forced?”
+[says] (p.98–99) “It’s my fault for not being clear enough with you, so I don’t blame you this time. But if you try this again, please keep in mind that I will not forgive you.”
+[action] (p.99) Takes her untouched latte and stands up to leave.
+[action] (p.99) When Kushida murmurs that she feels they have met before, Horikita brutally cuts her off.
+[says] (p.99) “This is a waste of time. I find everything you’re saying unpleasant.”
+[action] (p.99–100) Ayanokōji tries to mediate, warning her that spending three years without friends will be painful. Horikita nonchalantly drops a staggering revelation about her past.
+[says] (p.100) “It will be my ninth year in a row of being alone, so I’ll be fine. Oh, and if you include kindergarten, it would actually be slightly longer.”
+[says] (p.100) “Kushida-san, if you don’t try to force me into anything, I won’t be rude. I promise. You’re not stupid, so you understand what I’m telling you, right?”
+[action] (p.100) Gives a cold, final parting and walks out into Keyaki Mall alone.
+[back] (p.100) Total lifelong isolation: has lived without a single friend for over nine consecutive years (since elementary and kindergarten); solitary existence is her normal state.
+[feat] (p.98) Keen deductive perception: catches subtle environmental tells (table sizing, eye movements) instantly.
+[rel:kushida-kikyou] (p.89, 99–100) Utter refusal to entertain her overtures; finds her performative cheerfulness unpleasant; warns her against forced familiarity.
+[rel:ayanokouji-kiyotaka] (p.98–99) Catches him conspiring with Kushida; issues a firm, chilling warning that she will not forgive a second deception.
+
+<!-- walk: y1v1 ch5 → p.101 -->
+
+### y1v1 p.124–126, 132–136 — The S-System shock & rejection of class cooperation
+[scene] Classroom 1-D. Morning homeroom on May 1st.
+[action] (p.124) Quietly tallies up the 98 absences/lates and 391 talking infractions in her notebook as Chabashira announces Class D's conduct breakdown.
+[action] (p.125) Correctly deduces the newly posted poster displays the evaluation results and point rankings across all four classes (A: 940, B: 650, C: 490, D: 0).
+[action] (p.126) Face stiffens in sheer disbelief and revolt when Chabashira announces Class D is sorted by incompetence and branded "defective" (corpus: "You're defective. This is just the result of you being defective.")
+[feat] (p.128, 143) Scores near the top of Class D on the diagnostic short test; held the 3rd highest entrance exam score among the entire first-year grade.
+[action] (p.132) Notices Ayanokōji photographing the class point totals board with his phone and questions what he is doing; impatiently points out investigating infractions cannot undo the class's established habit of talking and tardiness.
+[says] (p.132) “Wouldn’t it be difficult to figure out those details at this stage? Besides, I don’t think you can resolve this simply by investigating. Everyone in our class arrived late and talked too often.”
+[says] (p.133) “Points are just a byproduct of our performance, though. Not having points won’t hinder our lives here at school. We have free options at almost every turn, right?”
+[says] (p.133) “While unfortunate, they’ve simply reaped what they’ve sown.”
+[action] (p.135–136) When Hirata steps down from the podium and invites her and Ayanokōji to join a class cooperation discussion to raise points, Horikita shuts him down with icy disdain.
+[says] (p.135) “I’m sorry, can you ask someone else? I’m not particularly good at discussing things with others,” (her first refusal)
+[says] (p.135) “I’m sorry, but I have no interest in something meaningless.”
+[says] (p.135) “I refuse. I won’t participate.” (her words were stern, yet composed — final rejection)
+[says] (p.136) “That’s one perspective, yes. If we could easily solve this by talking, then that’d be fine. However, if an unintelligent student tries to lead the discussion, the group will fall further into chaos, to the point where there’s no hope of salvaging anything. Besides, I can’t meekly accept my current situation.” (post-rejection rationale to Ayanokōji)
+[trait] (p.133, 136) Absolute meritocratic elitism; total contempt for collective failure; views social compromise as a toxic liability.
+[rel:hirata-yousuke] (p.135–136) Rebuffs his leadership outright; views his idealistic consensus-building as weak and futile.
+
+### y1v1 p.142–148 — Faculty office protest & the all-50s revelation
+[scene] Guidance office adjacent to faculty staff room.
+[action] (p.142–143) Marches into the faculty guidance office to directly confront Chabashira over her placement in Class D.
+[says] (p.142) “I will be frank. Why was I sorted into Class D?”
+[says] (p.143) “I solved nearly every problem on the entrance examination. I made no substantial mistakes on the interview, either. At the very least, I shouldn’t have been sorted into Class D.”
+[says] (p.143) “Who could be happy with an incorrect evaluation? Furthermore, the class rankings greatly impact our future prospects. Of course I’m dissatisfied.”
+[action] (p.144) When Chabashira counters that common sense created Japan's flawed hereditary succession and that academic ability alone does not define superiority, Horikita falters but refuses to concede.
+[says] (p.144) “You still haven’t given me an explanation. Was I honestly sorted into Class D? Did anything go wrong with the grading? Please double-check.”
+[says] (p.145) “Is that so? Then I will ask the school again, at another time.”
+[says] (p.145) “I can’t imagine it will be easy, though. Forget overtaking Class A; how in the world could those immature Class D misfits gain more points? I can’t see how it’s possible.”
+[action] (p.146) Gasps as Chabashira reveals Ayanokōji hiding in the kitchenette and produces his entrance examination answer sheets, showing exactly 50 out of 100 in Japanese, Math, English, Social Studies, and Science, plus 50 on the short test.
+[says] (p.146) “This is a rather frightening coincidence.”
+[action] (p.147) Flinches visibly when Chabashira points out AK solved a 3%-success-rate math problem with an advanced formula while botching a 76%-success problem, and warns her that AK may be more intelligent than she is.
+[says] (p.147) “Why do you pretend not to know?”
+[says] (p.147) “What other reasons do you have?”
+[trait] (p.143, 147) Extreme academic pride; shaken to her core when confronted with an enigmatic peer who can manipulate test outcomes at will.
+
+### y1v1 p.148–151 — Stairwell confrontation & the pawn offer
+[scene] School corridor stairs.
+[action] (p.148) Follows Ayanokōji out of the office and confronts him on the stairs, grilling him about his true motives.
+[says] (p.148) “Was your score…really just a coincidence?”
+[says] (p.148) “I don’t, but…I also don’t understand, Ayanokouji-kun. You said that you like to avoid trouble, but you don’t seem to be interested in Class A.”
+[says] (p.148) “When I entered this school, I thought graduation was my only goal. But the reality is different. I’m not even at the starting line.”
+[action] (p.149) Delivers a sharp karate chop to Ayanokōji's ribs when he tells her not to act so proud.
+[says] (p.149) “No. You’re right that no lone individual can solve this problem. We won’t even make it to the starting line without everyone’s help.”
+[says] (p.150) “We have three major, immediate issues. Tardiness and talking during class are the first two. Third, we must make sure no one fails the midterm exam.”
+[says] (p.150) “I need your help, Ayanokouji-kun.”
+[action] (p.150) When Ayanokōji flatly refuses ("I refuse"), she completely ignores him with unnerving composure.
+[says] (p.150) “I always knew you’d help, Ayanokouji-kun. I’m grateful.”
+[says] (p.150) “No, I heard the voice inside your head. You said you’d help.”
+[says] (p.151) “Don’t worry. I don’t require your brain power, Ayanokouji-kun. Leave the planning to me, and act as I tell you.”
+[says] (p.151) “Unfortunately, no one else in Class D is nearly as easy to manipulate as you.”
+[action] (p.151) When Ayanokōji suggests she recruit Hirata instead, Horikita drops her iconic shogi metaphor, exposing her ruthless utilitarian mindset.
+[says] (p.151) “He’s no good. Even if he has some talent and ability, I can’t use him. To use an analogy, think about the pieces in shogi. Right now, I don’t need a gold or silver general. I want a pawn.”
+[says] (p.151) “An interesting answer, but you don’t seem like the type to make that effort, Ayanokouji-kun. Besides, haven’t you been thinking, ‘I’ve always been a pawn, I don’t want to advance,’ all along?”
+[says] (p.151) “Well, contact me once you’ve given it some thought. I look forward to hearing from you.”
+[rel:ayanokouji-kiyotaka] (p.146–151) Discovers his deliberate 50-point sandbagging; views him not as an equal partner or strategist, but as an easily disposable, obedient "pawn" to execute her directives while keeping his abilities hidden.
+
+<!-- walk: y1v1 ch7 → p.151 -->
+
+### y1v1 p.152–157, 167–169 — Compass stabbing, cafeteria recruitment, & Kushida veto
+[scene] Classroom 1-D; school cafeteria; dorm phone call.
+[action] (p.152) When Ayanokōji begins nodding off in class before lunch, drives the sharp metal needle of her drawing compass directly into his right arm to wake him.
+[says] (p.152) “Are you angry with me?”
+[says] (p.152) “What? When did I stab with you a compass needle, Ayanokouji-kun?”
+[says] (p.152) “So, just because I’m holding something means I stabbed you?”
+[says] (p.153) “Be careful. If you get caught sleeping, that would undoubtedly lead to a loss in points.”
+[action] (p.154–157) Invites Ayanokōji to lunch and treats him to an expensive cafeteria meal set to negotiate his assistance in gathering the failing students (Sudō, Ike, Yamauchi) for a midterm study group.
+[action] (p.167–169) Calls Ayanokōji late at night, furious upon learning he enlisted Kushida Kikyō to assemble the boys.
+[says] (p.167) “I don’t quite understand the message you just sent me… Not that part. The part about Kushida. I didn’t know about that.”
+[says] (p.167) “I don’t remember giving you permission to do that. Her grades aren’t even failing.”
+[says] (p.168) “I don’t like it. Shouldn’t you have sought my approval first?”
+[says] (p.168) “I understand. I suppose anything worth doing requires sacrifice. However, Kushida may only help gather the students. She’s not allowed to join the study group.”
+[says] (p.168) “I will not allow her into our study group. I refuse to budge on this.”
+[says] (p.168) “This has nothing to do with that. She didn’t fail the test. Inviting extra people will only mean more time spent and greater confusion.”
+[says] (p.168) “Don’t you feel uncomfortable sitting next to someone you hate?”
+[action] (p.168–169) Abruptly hangs up the phone on Ayanokōji to avoid further compromise.
+
+### y1v1 p.173–180 — Library collapse & "getting rid of dead weight"
+[scene] School library, after school.
+[action] (p.173) Arrives at the library with immaculate, meticulously organized study materials, but rigidly demands absolute silence, instantly suffocating the study group.
+[action] (p.176) Mercilessly ridicules Sudō when he struggles with elementary fraction arithmetic.
+[says] (p.176) “I’m sorry, you’re far too ignorant and incompetent,” (said by Horikita, who’d been silent until now)
+[says] (p.176) “If you can’t solve this problem, I seriously shiver at the thought of what the future will bring.”
+[says] (p.176) “You’re right. This has nothing to do with me. Your suffering won’t influence me at all. I just pity you. You must have spent your whole life running from anything that presented a challenge,” (after Sudō slams the desk)
+[action] (p.177) When Sudō slams the desk and threatens violence, she challenges him with unflinching, cold mockery.
+[says] (p.177) “So, you lack the courage to hit me? Don’t use my gender as an excuse.”
+[action] (p.178) When Ike quits in protest against her condescension, Horikita shoots back with venomous indifference.
+[says] (p.178) “I don’t care if you get expelled. Do what you want.”
+[says] (p.178) “Interesting. Didn’t you come here because you can’t study?”
+[action] (p.178) Formulates her cold, elitist conclusion as the boys walk out.
+[says] (p.178) “I was certainly mistaken. Even if I’d helped them avoid failure this time, we would’ve faced a similar dilemma soon after. We’d have to go through this irritation all over again. Eventually, they’ll fail. I finally understand how unproductive this was. I don’t have the time for it.”
+[says] (p.178) “I mean that it’s better to get rid of the dead weight.”
+[action] (p.179) Directly antagonizes Kushida, accusing her of faking her sympathy for the failing boys.
+[says] (p.179) “Even if that was how you truly felt, I wouldn’t particularly care. But I don’t think that you actually want to save them.”
+[action] (p.179–180) Offers to tutor Ayanokōji alone in the empty library, calling him "somewhat better than those worthless idiots," and calls AK cruel for passively watching his friends get expelled.
+[says] (p.179) “I suppose you were the only one who understood me, Ayanokouji-kun. You’re at least somewhat better than those worthless idiots. If there’s some subject you’re struggling with, I could teach you.”
+[says] (p.180) “There’s nothing to be gained from associating with people who’ll likely be expelled soon.”
+[says] (p.180) “How incredibly selfish. You call them your friends, yet you simply stand by and watch as they’re expelled. From my point of view, you’re cruel.”
+
+### y1v1 p.192–202 — Night assault by Manabu, the equality debate, & the devil's handshake
+[scene] Pathway outside dormitories, late night.
+[action] (p.192–193) Follows her older brother Horikita Manabu into the darkness; completely paralyzed by fear and reverence. Submits powerlessly when he grabs her wrist and pins her against the concrete wall.
+[says] (p.192) “Hmph. I’m far different from the useless girl you once knew, niisan. I came here to catch you.”
+[says] (p.192) “That’s… You’re wrong about that. I’ll show you. I’ll reach Class A right away, then—”
+[says] (p.193) “I-I can’t do that… I will definitely reach Class A. I’ll show you!”
+[says] (p.193) “Niisan, I…”
+[action] (p.194) Gasps in strained shock as Ayanokōji physically intercepts her brother's throw.
+[says] (p.194) “A-Ayanokouji-kun?!”
+[says] (p.194) “Stop it, Ayanokouji-kun.”
+[action] (p.196) Stunned by Ayanokōji evading her brother’s lethal strikes; denies to her brother that AK is her friend.
+[says] (p.196) “He’s…not my friend. Just my classmate.”
+[says] (p.196) “I’m going to drag myself up to Class A even if it kills me.”
+[action] (p.196–197) Sits slumped against the concrete wall in dejection; reveals Manabu’s formidable martial arts ranks.
+[says] (p.196) “He’s ranked fifth dan in karate and fourth dan in aikido.”
+[says] (p.197) “You also practice martial arts, don’t you, Ayanokouji-kun? You must hold a dan rank.”
+[says] (p.197) “You purposefully get lower test scores, and you say that you studied piano and calligraphy. I really don’t understand you.”
+[action] (p.199–201) Debates the nature of merit and human ability with Ayanokōji under the night sky. Defends absolute meritocracy.
+[says] (p.199) “Even if there are potential unknown negatives, it’s better for the future of our class to abandon the failing students. Wouldn’t you regret not abandoning them when we do finally increase our points? Right now, it’s a risk that we should take.”
+[says] (p.199) “Yes. Really. I’m at a complete loss as to why you’re so desperate to save them.”
+[says] (p.200) “Is that bad? People are calculating creatures, for the most part. If you sell goods, you receive money. If you do someone a favor, that debt of gratitude will be repaid. By giving up a seat, you gain the joy of contributing to society. Am I wrong?”
+[says] (p.200) “Who do you think you are? Do you even have the ability to find fault with me?”
+[action] (p.200–201) Stumbles when Ayanokōji diagnoses her fatal flaw: she isolates herself because she considers everyone else inferior baggage, blinding her to others' unique strengths (Sudō's athletics, Ike's communication) where she herself would drag down the class.
+[says] (p.200) “It’s almost as if you’re saying I’m the same as Sudou-kun and his group.”
+[says] (p.201) “This is all pure conjecture. It’s nothing more than armchair speculation.”
+[action] (p.201) Forced to concede the argument; shaken by Ayanokōji’s logic.
+[says] (p.201) “It’s frustrating, but what you said was basically correct. You’ve persuaded me; I have to concede that point. However, I still don’t understand you. What do you want? What is this school to you? Why did you work so hard to convince me?”
+[says] (p.202) “Cut the crap. I want to know the real reason. Is it for points? To rise up, even by one class level? Or is it to save your friends?”
+[action] (p.202) When Ayanokōji answers that he wants to understand true merit and equality, she extends her arm to seal an alliance.
+[says] (p.202) “There’s no way that you could fool me into believing you, Ayanokouji-kun.”
+[says] (p.202) “I’ll look after Sudou-kun and the others, but for my own sake. I’ll make sure that they don’t get left behind, but only as a strategic means of securing an advantage for our future. Okay?”
+[says] (p.202) “We’ve come to an arrangement, then.”
+[trait] (p.192–196, 202) Devastating inferiority complex regarding her brother Manabu; fiercely stubborn yet fundamentally logical—can be persuaded by undeniable rational evidence; formalizes an explicit utilitarian pact with Ayanokōji.
+[rel:horikita-manabu] (p.192–196) Her primary psychological driver; desperate for his acknowledgment, but rendered completely docile and helpless in his presence.
+[rel:ayanokouji-kiyotaka] (p.194–202) Witnesses him deflect her brother’s lethal strikes; accepts his philosophical critique of her arrogance; seals the alliance (his narration: "made a deal with the devil").
+
+<!-- walk: y1v1 ch8 → p.202 -->
+
+### y1v1 p.203–211 — The reunion campaign: honesty, "I hate you," and the in-class study plan
+[action] (p.203) One and a half months in: smacks Ayanokōji awake mid-thought, checks him for fever, and dispatches him to re-recruit the fallen study group — while grumbling that "Sacrifices are inevitable" over needing Kushida again.
+[says] (p.204) “Here, look at this written contract.” (produces a ludicrous written contract making AK her workhorse until Class A; he tears it up)
+[action] (p.204) Personally invites Kushida to lunch at Palate and treats her to a drink — the site of her earlier fury — then answers Kushida's motive probe with total honesty.
+[says] (p.204) “No. This is for me.”
+[says] (p.205) “I’m going to do it. Definitely,” (declaring Class A within earshot of Kushida's doubts)
+[says] (p.205) “Fine. If everything goes well with the study group, I’ll accept your help moving forward,” (conditionally admitting Kushida into the wider Class A project)
+[action] (p.207) When Sudou demands a sincere apology for the library insults, refuses point-blank — then detonates the opposite move.
+[says] (p.207) “I hate you, Sudou-kun.”
+[says] (p.207) “However, our mutual abhorrence is trivial right now. I will teach you for my own sake. You will do your best for your own sake. Am I wrong?”
+[says] (p.207) “Yes, exactly. Otherwise, why would anyone willingly involve you?”
+[action] (p.208–210) Unveils her notebook schedule: exploit the six wasted hours of class time instead of scarce after-school hours; AK/Kushida/Horikita each tutor one-on-one in ten-minute breaks; memorize, don't take notes.
+[says] (p.210) “There are no shortcuts or cheap tricks when it comes to studying. You just have to spend your time carefully.” (turns his own basketball logic against him)
+[says] (p.210) “Put in the effort so that you can continue to play basketball at this school. Don’t throw away your own potential.”
+[action] (p.211) Accepts Ayanokōji's manufactured date-stakes incentive as her own: "boys are the simplest creatures on earth."
+[trait] (p.203–211) Practical honesty as a weapon (confesses selfish motives to win Kushida); refuses performative apology; engineering instinct — restructures time itself rather than demanding willpower.
+[rel:kushida-kikyou] (p.204–205) Major compromise: tolerates Kushida's proximity for capability, granting conditional entry to the Class A project.
+
+<!-- walk: y1v1 ch9 → p.235 -->
+
+### y1v1 p.237–245 — The hate confirmation & the basketball apology
+[action] (p.237) Gives Kushida genuine, unprompted praise for the old-test distribution — including precise analysis of why announcing it after class protected everyone's motivation.
+[says] (p.238) “Really, thank you for everything you’ve done. If you weren’t here, the study group would not have succeeded.”
+[action] (p.238) Stops Kushida at the door for the one confirmation she needs before trusting the partnership.
+[says] (p.238) “You hate me, don’t you?”
+[says] (p.238) “You’re not answering my question because it’s true. Right?”
+[says] (p.238) “No. That’s unnecessary. Knowing that is good enough. I can continue working with you without hesitation.” (hearing "I really hate you" changes nothing — pure utility logic)
+[action] (p.240) Glances at Ayanokōji and shuts down his swimsuit-daydream with one word.
+[says] (p.240) “Pervert.”
+[action] (p.241) During the break, leaps to Sudou's side and triages his ten-minute English crisis with tactical advice.
+[says] (p.241) “Sudou-kun, memorize the problems that are worth a lot of points and those with the shortest answers.”
+[action] (p.244) Steps in front of sulking Sudou after the exam and delivers her first genuine encouragement.
+[says] (p.244) “It was certainly your fault for not reviewing the old test’s final section. However, as you said, you did everything that you could with the time that you had. You didn’t cut any corners or give up. Considering how much effort you put in, I think you should hold your head high and feel proud.”
+[says] (p.244) “Comfort? I’m speaking the truth. When I look at how far you’ve come, I understand how hard studying is for you, Sudou.”
+[action] (p.244–245) Amends her earlier scorn for his professional-basketball dream — having researched the actual career path — and bows her head in a formal apology.
+[says] (p.245) “I never thought I needed to understand anyone except for myself. So when you first told me that you wanted to play basketball, I insulted you. However, I now regret that. Someone who doesn’t understand how difficult, how arduous basketball is has no right to dismiss that dream as foolish.”
+[says] (p.245) “Sudou-kun, don’t forget the hard work and effort that you poured into studying. Apply that diligence to basketball. If you do, you might be able to go pro. At least, that’s how I feel.”
+[says] (p.245) “I’m sorry for what I said back then. Well. Now that I’ve said my piece, I’ll be going.”
+[trait] (p.238, 244–245) Growth arc: converts hate into explicitly acknowledged working distrust; capable of researched, bow-level apology when her earlier judgment is proven wrong — delivered in her usual aloof manner but unmistakable.
+[rel:kushida-kikyou] (p.237–238) Trusts utility over affection: proceeds "without hesitation" on a confirmed mutual hatred.
+[rel:sudou-ken] (p.241, 244–245) From library tormentor to coach and apologizer — the pivot that fully wins his loyalty.
+
+<!-- walk: y1v1 ch10 → p.245 -->
+
+### y1v1 p.249–255 — The 51-point sacrifice & "defective, not trash"
+[action] (p.249) Breaks her lifelong pattern: raises her hand and speaks voluntarily for the first time all year, shocking Chabashira and the class.
+[says] (p.249) “Earlier, you said that the previous test had a passing grade of thirty-two points. You arrived at that number by the same formula you showed us today. Were there no mistakes in calculating the passing grade for the last test?” (avg 64.4 ÷ 2 = 32.2 → they set 32: decimal dropped — inconsistency trap)
+[action] (p.249) The class realizes the truth: she scored **perfect in four subjects but deliberately botched English to 51** — dragging the English average down so Sudou's 39 would clear the threshold.
+[action] (p.250) After Chabashira's rounding kill destroys the counter-argument, mutters her apology to Sudou.
+[says] (p.250) “I’m sorry. I should have tried to lower my score just a little more,”
+[says] (p.250) “Don’t misunderstand. I did this for my own sake. It was all for nothing, though.” (to Sudou's "You said that you hated me")
+[action] (p.253) Appears behind Ayanokōji in the faculty-room hallway and backs the point-buying play without a second's hesitation.
+[says] (p.253) “I’ll pay, too,” (joining her ID card to AK's for the 100,000-point purchase)
+[says] (p.254) “I wonder. When I look at him, all I see is a disagreeable student.” (answering Chabashira's talent question — lists his deliberate low scores, stolen credit, and test-point purchase)
+[says] (p.254) “I don’t know about him, but I most definitely will.” (on reaching higher classes)
+[action] (p.254) Returns Chabashira's gaze and delivers her transformed class philosophy.
+[says] (p.254) “Honestly, maybe the students in Class D are defective. However, that doesn’t mean they’re trash.”
+[says] (p.254) “The difference is paper thin. However, with repairs, a defective product may become a superior article.”
+[action] (p.255) Chops Ayanokōji in the side as they return — "For whatever."
+[trait] (p.249–255) Willing to burn her own exam score for a student who hates her (utility-framed as self-interest); publicly redefines her class from baggage to repairable material — the transformation Chabashira visibly registers.
+[rel:sudou-ken] (p.249–250) Secretly gambles her English grade to save him; frames it as "for my own sake."
+[rel:chabashira-sae] (p.249, 254) Bests her once (forcing the rounding confession), loses the round, then wins her approval with the trash/repairs answer.
+[rel:ayanokouji-kiyotaka] (p.253) Wordlessly joins the 100,000-point risk — the pact operating in practice.
+
+<!-- walk: y1v1 ch11 → p.255 -->
+
+### y1v1 p.256–262 — The victory party: attending, deflecting, enlisting
+[action] (p.256–257) Attends the celebration in Ayanokōji's dorm room — sitting outside the circle, quietly reading a novel; narration flags her mere presence as progress the old Horikita would never have allowed.
+[says] (p.257) “I did it for my own sake. If someone had been expelled, Class D’s evaluation would’ve worsened.” (her answer to the party's thanks)
+[says] (p.257) “It’d be fine with me if you didn’t.” (rejecting Ike's plea to just pretend she cares)
+[action] (p.257) When the party asks how the expulsion was reversed, plays total ignorance — preserving the point-purchase secret.
+[says] (p.257) “Hmm, I don’t really remember.”
+[says] (p.257) “Our next challenge is the final exam. We should expect those questions to be even more difficult than the ones today. In addition, we still need to find a way to increase our points.” (drags celebration back to strategy)
+[says] (p.258) “Did you not see Class D’s average score? We were the lowest of all of the classes by far. If you think that we’ll get points for that, then I think you need to open your eyes.”
+[says] (p.258) “I think you should learn to live a more modest life and give up on points.”
+[says] (p.258) “Studying isn’t the sole factor in deciding who goes into what class, though. Right?” (planting the non-academic path)
+[says] (p.261) “I guess if you combined all three of their test scores, you’d get one normal person’s grade.” (systematically knocking down every morale boost Kushida builds)
+[says] (p.261) “I never wanted your help, Sudou-kun. Besides, I have a hard time imagining how you’ll be useful in the first place.”
+[says] (p.261) “Thank you. I appreciate your words of praise.” (to Sudou's "You're a really annoying girl")
+[says] (p.262) “In this school, ability is paramount. I’m positive that our competition will grow even more severe moving forward. If you say you’ll work with us, know that you can’t do so half-heartedly. Otherwise you’ll be a burden.”
+[says] (p.262) “I really can’t expect anything from you at all.” (to Sudou's physical-ability volunteering)
+[trait] (p.256–262) Progress without softening: attends, jokes-in-her-own-way, guards the secret, and converts a party into a war council — her will to Class A declared unshakeable.
+
+<!-- walk: y1v1 ch12 → p.262 -->

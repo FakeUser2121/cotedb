@@ -48,6 +48,8 @@ VOLUMES = [
     ("y2v12",   "COTE Y2 V12",  23.0,  "main"),
     ("y2v12.5", "COTE Y2 V12.5", 23.5, "interquad"),
     ("y3v1",    "COTE Y3 V1",   24.0,  "main"),
+    ("y3v2",    "COTE Y3 V2",   25.0,  "main"),
+    ("y3v3",    "COTE Y3 V3",   26.0,  "main"),
 ]
 
 PAGE_RE = re.compile(r"^--- page (\d+) ---$", re.M)
