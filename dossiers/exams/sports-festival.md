@@ -1,8 +1,8 @@
 # Sports Festival
 
-**event** · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_exam_dossiers.py`)
+**event**
 
-`326 mentions · 18 vols · 2 runs · 1 claims`
+`327 mentions · 19 vols · 2 runs · 1 claims`
 
 ## Rules
 
@@ -26,8 +26,8 @@ School-run PE event; homeroom and PE staff coordinate.
 
 ## Footprint
 
-- **Span:** y1v2 → y2v9.5
-- **Anchored mentions by vol:** y1v2 ×1, y1v5 ×81, y1v6 ×37, y1v7 ×8, y1v7.5 ×4, y1v8 ×10, y1v9 ×1, y1v10 ×1, y1v11 ×1, y1v11.5 ×1, y2v2 ×6, y2v4.5 ×2, y2v5 ×21, y2v6 ×128, y2v7 ×17, y2v8 ×5, y2v9 ×1, y2v9.5 ×1
+- **Span:** y1v2 → y3v2
+- **Anchored mentions by vol:** y1v2 ×1, y1v5 ×81, y1v6 ×37, y1v7 ×8, y1v7.5 ×4, y1v8 ×10, y1v9 ×1, y1v10 ×1, y1v11 ×1, y1v11.5 ×1, y2v2 ×6, y2v4.5 ×2, y2v5 ×21, y2v6 ×128, y2v7 ×17, y2v8 ×5, y2v9 ×1, y2v9.5 ×1, y3v2 ×1
 
 ## Runs
 

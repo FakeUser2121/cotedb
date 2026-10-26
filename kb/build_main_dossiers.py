@@ -129,11 +129,10 @@ def render(db, cid):
     lines = [
         f"# {name}",
         "",
-        "**main** · tier 1 · generated view (source: `cote_kb.db`; "
-        "regenerate with `python3 kb/build_main_dossiers.py`)",
+        "**Main character**",
         "",
-        f"`char_id {cid} · {sum(n for _v, n in fp)} mentions · "
-        f"{qcount} attributed lines · {scenes} scenes`",
+        f"`{sum(n for _v, n in fp):,} mentions · "
+        f"{qcount:,} attributed lines · {scenes} scenes`",
         "",
         "## Identity",
         "",
@@ -313,8 +312,8 @@ def main():
             f.write(render(db, cid))
         n += 1
     idx = ["# Main Characters", "",
-           "Generated index — regenerate with "
-           "`python3 kb/build_main_dossiers.py`.", ""]
+           "The main cast of the story — open any name for the full "
+           "profile.", ""]
     for cid, name in chars:
         idx.append(f"- [{name}]({cid}.md)")
     idx.append("")

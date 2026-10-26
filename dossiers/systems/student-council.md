@@ -1,8 +1,8 @@
 # Student Council
 
-**governance** · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_exam_dossiers.py`)
+**governance**
 
-`1189 mentions · 28 vols · 3 claims`
+`1259 mentions · 29 vols · 3 claims`
 
 ## Function
 
@@ -14,8 +14,8 @@ Manabu Horikita's presidency opens the series (y1v1 p.64-67); the mid-October el
 
 ## Footprint
 
-- **Span:** y0 → y3v1
-- **Anchored mentions by vol:** y0 ×14, y1v1 ×10, y1v2 ×50, y1v3 ×2, y1v4.5 ×45, y1v5 ×17, y1v6 ×30, y1v7 ×29, y1v7.5 ×58, y1v8 ×38, y1v9 ×75, y1v10 ×16, y1v11 ×3, y1v11.5 ×32, y2v1 ×8, y2v2 ×77, y2v3 ×5, y2v4 ×12, y2v4.5 ×35, y2v5 ×3, y2v6 ×43, y2v7 ×173, y2v8 ×5, y2v9 ×383, y2v9.5 ×4, y2v11 ×10, y2v12.5 ×2, y3v1 ×10
+- **Span:** y0 → y3v2
+- **Anchored mentions by vol:** y0 ×16, y1v1 ×10, y1v2 ×50, y1v3 ×2, y1v4.5 ×45, y1v5 ×17, y1v6 ×30, y1v7 ×29, y1v7.5 ×58, y1v8 ×38, y1v9 ×75, y1v10 ×16, y1v11 ×3, y1v11.5 ×32, y2v1 ×8, y2v2 ×77, y2v3 ×5, y2v4 ×12, y2v4.5 ×35, y2v5 ×3, y2v6 ×43, y2v7 ×173, y2v8 ×5, y2v9 ×383, y2v9.5 ×4, y2v11 ×10, y2v12.5 ×2, y3v1 ×10, y3v2 ×68
 
 ## Claims
 
@@ -43,4 +43,4 @@ council service and contributions through club activities.
 ## Evidence anchors
 
 
-y0 p.5, y0 p.6, y0 p.6, y0 p.17, y0 p.20, y0 p.21, y0 p.28, y0 p.31
+y0 p.11, y0 p.11, y0 p.11, y0 p.11, y0 p.11, y0 p.26, y0 p.30, y0 p.30

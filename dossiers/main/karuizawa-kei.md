@@ -1,8 +1,8 @@
 # Karuizawa Kei
 
-**main** · tier 1 · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_main_dossiers.py`)
+**Main character**
 
-`char_id karuizawa-kei · 2927 mentions · 251 attributed lines · 171 scenes`
+`2,980 mentions · 251 attributed lines · 171 scenes`
 
 ## Identity
 
@@ -11,8 +11,8 @@
 ## Footprint
 
 - **Spoken in (24 vols):** y1v1, y1v3, y1v4, y1v4.5, y1v5, y1v6, y1v7, y1v7.5, y1v8, y1v9, y1v10, y1v11.5, y1v11.75, y2v2, y2v4.5, y2v5, y2v6, y2v7, y2v8, y2v9, y2v10, y2v11, y2v12, y3v1
-- **Gap queue (mentioned, no attributed line):** y0, y1v2, y1v11, y2v1, y2v3, y2v4, y2v9.5, y2v9.75, y2v10.25, y2v12.5
-- **Top mentions:** y1v4 ×406, y1v7.5 ×236, y1v7 ×199, y2v9.5 ×155, y2v10 ×142, y2v9 ×137, y2v6 ×131, y1v6 ×121, y1v11.5 ×114, y1v9 ×112 (+24 more vols)
+- **Gap queue (mentioned, no attributed line):** y0, y1v2, y1v11, y2v1, y2v3, y2v4, y2v9.5, y2v9.75, y2v10.25, y2v12.5, y3v2, y3v3
+- **Top mentions:** y1v4 ×406, y1v7.5 ×236, y1v7 ×199, y2v9.5 ×155, y2v10 ×142, y2v9 ×137, y2v6 ×131, y1v6 ×121, y1v11.5 ×114, y1v9 ×112 (+26 more vols)
 - **Arc timeline (scenes per vol):** y1v1 ×2, y1v3 ×4, y1v4 ×26, y1v4.5 ×18, y1v5 ×14, y1v6 ×14, y1v7 ×11, y1v7.5 ×45, y1v8 ×4, y1v9 ×2, y1v10 ×1, y1v11.5 ×3, y1v11.75 ×1, y2v2 ×1, y2v4.5 ×1, y2v5 ×4, y2v6 ×3, y2v7 ×3, y2v8 ×1, y2v9 ×3, y2v10 ×1, y2v11 ×5, y2v12 ×1, y3v1 ×3
 
 ## Arc

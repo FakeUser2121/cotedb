@@ -1,19 +1,18 @@
 # Yagami Takuya
 
-**rivals** · tier 2 · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_mid_dossiers.py`)
+**rivals**
 
-`552 mentions · 14 quoted lines · 21 scenes`
+`588 mentions · 14 quoted lines · 21 scenes`
 
 ## Identity
 
-- **char_id:** `yagami-takuya`
 - **Aliases:** Yagami, Yagami Takuya, Takuya
 
 ## Footprint
 
 - **Spoken in:** y2v2, y2v4.5, y2v5, y2v7
-- **Gap queue (mentioned, no attributed line):** y2v1, y2v3, y2v4, y2v6, y2v8, y2v9, y2v9.5, y2v11, y2v12, y2v12.5, y3v1
-- **Top mentions:** y2v7 ×182, y2v2 ×100, y2v4 ×51, y2v3 ×48, y2v8 ×48, y2v4.5 ×37, y2v1 ×31, y2v5 ×18 (+7 more vols)
+- **Gap queue (mentioned, no attributed line):** y2v1, y2v3, y2v4, y2v6, y2v8, y2v9, y2v9.5, y2v11, y2v12, y2v12.5, y3v1, y3v2, y3v3
+- **Top mentions:** y2v7 ×182, y2v2 ×100, y2v4 ×51, y2v3 ×48, y2v8 ×48, y2v4.5 ×37, y3v2 ×34, y2v1 ×31 (+9 more vols)
 - **Arc timeline (scenes per vol):** y2v2 ×7, y2v4.5 ×1, y2v5 ×1, y2v7 ×12
 
 ## Recurring scene partners

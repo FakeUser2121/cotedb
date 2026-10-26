@@ -188,9 +188,8 @@ def main():
     lines = [
         "# Background Characters",
         "",
-        "Generated view — source of truth `cote_kb.db`; regenerate with "
-        "`python3 kb/build_background.py`. Verbatim quotes are cited with "
-        "volume + PDF page.",
+        "One-line profiles for minor and background roles. Every quote "
+        "is verbatim, cited with volume and page.",
         "",
         f"**{len(chars)} characters** · {total_m:,} total mentions",
         "",

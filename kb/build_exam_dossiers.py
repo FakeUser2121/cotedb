@@ -29,10 +29,6 @@ ROOT = Path(__file__).resolve().parent.parent
 OUT_EXAMS = ROOT / "dossiers" / "exams"
 OUT_SYSTEMS = ROOT / "dossiers" / "systems"
 
-GEN = ("generated view (source: `cote_kb.db`; regenerate with "
-       "`python3 kb/build_exam_dossiers.py`)")
-
-
 def _footprint(con, table, col, ent, chrono_idx, first, last):
     by_vol = con.execute(
         f"SELECT vol_id, count(*) FROM {table} WHERE {col}=? "
@@ -72,7 +68,7 @@ def one_exam(con, exam, chrono_idx):
 
     L = []
     L.append(f"# {name}\n")
-    L.append(f"**{kind}** · {GEN}\n")
+    L.append(f"**{kind}**\n")
     L.append(f"`{total} mentions · {vols_n} vols · {len(runs)} runs · "
              f"{len(claims)} claims`\n")
     L.append("## Rules\n")
@@ -135,7 +131,7 @@ def one_system(con, sys_row, chrono_idx):
 
     L = []
     L.append(f"# {name}\n")
-    L.append(f"**{kind}** · {GEN}\n")
+    L.append(f"**{kind}**\n")
     L.append(f"`{total} mentions · {vols_n} vols · {len(claims)} claims`\n")
     L.append("## Function\n")
     L.append(f"{func}\n")
@@ -174,8 +170,9 @@ def exam_index(con):
     claims_n = dict(con.execute(
         "SELECT exam_id, count(*) FROM exam_claims GROUP BY exam_id"
     ).fetchall())
-    L = ["# Exams Index\n",
-         f"{len(rows)} exams · {GEN}\n"]
+    L = ["# All Exams\n",
+         f"{len(rows)} exams — rules, points, conditions, and every run "
+         f"with evidence\n"]
     kind = None
     for exam_id, name, k, first, last in rows:
         if k != kind:
@@ -202,8 +199,9 @@ def system_index(con):
     claims_n = dict(con.execute(
         "SELECT sys_id, count(*) FROM system_claims GROUP BY sys_id"
     ).fetchall())
-    L = ["# Systems Index\n",
-         f"{len(rows)} systems · {GEN}\n"]
+    L = ["# All Systems\n",
+         f"{len(rows)} systems — how the school runs: points, council, "
+         f"clubs, expulsion\n"]
     kind = None
     for sys_id, name, k, first, last in rows:
         if k != kind:
@@ -224,7 +222,8 @@ def chronology(con, chrono_idx):
         "JOIN exams e ON e.exam_id = i.exam_id").fetchall()
     rows.sort(key=lambda r: (chrono_idx[r[0]], r[1], r[3], r[2]))
     L = ["# Master Chronology\n",
-         f"{len(rows)} runs · {GEN}\n"]
+         f"{len(rows)} exam runs in story order — volume and page for "
+         f"every attempt\n"]
     vol = None
     for v, page, seq, name, chron, conf in rows:
         if v != vol:

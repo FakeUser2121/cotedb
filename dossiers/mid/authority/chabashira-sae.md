@@ -1,19 +1,18 @@
 # Chabashira Sae
 
-**authority** · tier 2 · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_mid_dossiers.py`)
+**authority**
 
-`1302 mentions · 14 quoted lines · 149 scenes`
+`1,317 mentions · 14 quoted lines · 149 scenes`
 
 ## Identity
 
-- **char_id:** `chabashira-sae`
 - **Aliases:** Chabashira, Chabashira Sae, Sae, Chabasira, Chabishira, Chibashira, Chiyabashira
 
 ## Footprint
 
 - **Spoken in:** y1v1, y1v2, y1v3, y1v4, y1v5, y1v6, y1v7, y1v8, y1v10, y1v11, y1v11.5, y2v1, y2v2, y2v3, y2v4.5, y2v5, y2v6, y2v7, y2v8, y2v9.5, y2v10, y2v11, y2v12.5, y3v1
-- **Gap queue (mentioned, no attributed line):** y1v4.5, y1v7.5, y1v9, y2v4, y2v9, y2v12
-- **Top mentions:** y2v12.5 ×115, y1v6 ×89, y1v1 ×86, y1v2 ×78, y2v5 ×77, y1v11.5 ×64, y1v7 ×62, y2v4.5 ×61 (+22 more vols)
+- **Gap queue (mentioned, no attributed line):** y1v4.5, y1v7.5, y1v9, y2v4, y2v9, y2v12, y3v2
+- **Top mentions:** y2v12.5 ×115, y1v6 ×89, y1v1 ×86, y1v2 ×78, y2v5 ×77, y1v11.5 ×64, y1v7 ×62, y2v4.5 ×61 (+23 more vols)
 - **Arc timeline (scenes per vol):** y1v1 ×10, y1v2 ×15, y1v3 ×5, y1v4 ×2, y1v5 ×16, y1v6 ×24, y1v7 ×13, y1v8 ×20, y1v10 ×5, y1v11 ×2, y1v11.5 ×3, y2v1 ×2, y2v2 ×3, y2v3 ×2, y2v4.5 ×1, y2v5 ×9, y2v6 ×2, y2v7 ×2, y2v8 ×3, y2v9.5 ×1, y2v10 ×1, y2v11 ×3, y2v12.5 ×3, y3v1 ×2
 
 ## Recurring scene partners

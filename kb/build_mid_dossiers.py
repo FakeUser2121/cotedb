@@ -74,15 +74,13 @@ def render(db, cid, name, mtype, notes, mention_total, ev):
     lines = [
         f"# {name}",
         "",
-        f"**{mtype}** · tier 2 · generated view (source: `cote_kb.db`; "
-        "regenerate with `python3 kb/build_mid_dossiers.py`)",
+        f"**{mtype}**",
         "",
-        f"`{mention_total} mentions · {len(qrows)} quoted lines · "
+        f"`{mention_total:,} mentions · {len(qrows):,} quoted lines · "
         f"{scenes} scenes`",
         "",
         "## Identity",
         "",
-        f"- **char_id:** `{cid}`",
     ]
     if aliases:
         shown = ", ".join(aliases[:12])
@@ -163,8 +161,8 @@ def main():
             f.write(body)
         n += 1
     idx = ["# Mid Characters", "",
-           "Generated index — regenerate with "
-           "`python3 kb/build_mid_dossiers.py`.", ""]
+           "Supporting cast, grouped by relationship — open any name "
+           "for the full profile.", ""]
     for mt in TYPES:
         rows = [c for c in chars if c[3] == mt]
         if not rows:

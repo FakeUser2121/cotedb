@@ -1,8 +1,8 @@
 # End-of-Year Special Exam
 
-**special** · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_exam_dossiers.py`)
+**special**
 
-`86 mentions · 5 vols · 1 runs · 1 claims`
+`88 mentions · 7 vols · 1 runs · 1 claims`
 
 ## Rules
 
@@ -26,8 +26,8 @@ School-run; Chairman Sakayanagi presides with homeroom teachers; sitting Prime M
 
 ## Footprint
 
-- **Span:** y1v11.5 → y3v1
-- **Anchored mentions by vol:** y1v11.5 ×2, y2v11 ×4, y2v12 ×44, y2v12.5 ×32, y3v1 ×4
+- **Span:** y1v11.5 → y3v3
+- **Anchored mentions by vol:** y1v11.5 ×2, y2v11 ×4, y2v12 ×44, y2v12.5 ×32, y3v1 ×4, y3v2 ×1, y3v3 ×1
 
 ## Runs
 

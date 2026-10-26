@@ -28,10 +28,6 @@ from roster_mine import DB_PATH  # noqa: E402
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "dossiers" / "world"
 
-GEN = ("generated view (source: `cote_kb.db`; regenerate with "
-       "`python3 kb/build_world_dossiers.py`)")
-
-
 def one(con, loc, chrono_idx):
     loc_id, name, kind, func, notes, first, last = loc
     total = con.execute(
@@ -74,7 +70,7 @@ def one(con, loc, chrono_idx):
 
     L = []
     L.append(f"# {name}\n")
-    L.append(f"**{kind}** · {GEN}\n")
+    L.append(f"**{kind}**\n")
     L.append(f"`{total} mentions · {len(vols)} vols · "
              f"{scenes} co-paged scenes · {len(claims)} claims`\n")
     L.append("## Function\n")
@@ -120,8 +116,9 @@ def index(con, chrono_idx):
     claims_n = dict(con.execute(
         "SELECT loc_id, count(*) FROM location_claims "
         "GROUP BY loc_id").fetchall())
-    L = ["# World / Locations Index\n",
-         f"{len(rows)} locations · {GEN}\n"]
+    L = ["# All Locations\n",
+         f"{len(rows)} locations — layout, narrative role, and the "
+         f"scenes that happen there\n"]
     kind = None
     for loc_id, name, k, first, last in rows:
         if k != kind:

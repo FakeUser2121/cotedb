@@ -1,8 +1,8 @@
 # Student Council Room
 
-**campus-building** · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_world_dossiers.py`)
+**campus-building**
 
-`113 mentions · 13 vols · 33 co-paged scenes · 1 claims`
+`135 mentions · 14 vols · 34 co-paged scenes · 1 claims`
 
 ## Function
 
@@ -14,12 +14,12 @@ Both 'room' (98) and 'office' (15) forms are the same venue. First big use y1v2 
 
 ## Footprint
 
-- **Span:** y1v2 → y3v1
-- **Anchored mentions by vol:** y1v2 ×16, y1v4.5 ×7, y1v6 ×1, y1v9 ×6, y2v1 ×1, y2v2 ×2, y2v5 ×1, y2v6 ×9, y2v7 ×38, y2v8 ×3, y2v9 ×24, y2v12.5 ×1, y3v1 ×4
+- **Span:** y1v2 → y3v2
+- **Anchored mentions by vol:** y1v2 ×16, y1v4.5 ×7, y1v6 ×1, y1v9 ×6, y2v1 ×1, y2v2 ×2, y2v5 ×1, y2v6 ×9, y2v7 ×38, y2v8 ×3, y2v9 ×24, y2v12.5 ×1, y3v1 ×4, y3v2 ×22
 
 ## Scene partners (co-paged dialogue)
 
-Ayanokouji Kiyotaka (6), Katsuragi Kouhei (6), Horikita Suzune (5), Yagami Takuya (5), Nagumo Miyabi (3), Chabashira Sae (2), Kiryuin Fuuka (2), Amasawa Ichika (1), Ichinose Honami (1), Kiriyama Ikuto (1), Kushida Kikyou (1), Sudou Ken (1)
+Ayanokouji Kiyotaka (6), Katsuragi Kouhei (6), Horikita Suzune (5), Yagami Takuya (5), Nagumo Miyabi (3), Chabashira Sae (2), Kiryuin Fuuka (2), Amasawa Ichika (1), Ibuki Mio (1), Ichinose Honami (1), Kiriyama Ikuto (1), Kushida Kikyou (1) (+1 more)
 
 ## Claims
 

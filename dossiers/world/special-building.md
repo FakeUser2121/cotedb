@@ -1,8 +1,8 @@
 # Special Building
 
-**campus-building** · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_world_dossiers.py`)
+**campus-building**
 
-`57 mentions · 9 vols · 21 co-paged scenes · 1 claims`
+`60 mentions · 10 vols · 22 co-paged scenes · 1 claims`
 
 ## Function
 
@@ -14,12 +14,12 @@ y1v2 investigation: characters weigh who 'went to the special building on the da
 
 ## Footprint
 
-- **Span:** y1v2 → y2v12
-- **Anchored mentions by vol:** y1v2 ×22, y1v5 ×2, y1v6 ×1, y1v10 ×7, y1v11 ×5, y2v5 ×4, y2v7 ×7, y2v9 ×1, y2v12 ×8
+- **Span:** y1v2 → y3v2
+- **Anchored mentions by vol:** y1v2 ×22, y1v5 ×2, y1v6 ×1, y1v10 ×7, y1v11 ×5, y2v5 ×4, y2v7 ×7, y2v9 ×1, y2v12 ×8, y3v2 ×3
 
 ## Scene partners (co-paged dialogue)
 
-Ayanokouji Kiyotaka (9), Horikita Suzune (5), Sakura Airi (3), Sudou Ken (2), Chabashira Sae (1), Hoshinomiya Chie (1), Ichinose Honami (1), Ike Kanji (1), Kushida Kikyou (1), Mashima Tomonari (1), Sakagami (1), Sakayanagi Arisu (1) (+1 more)
+Ayanokouji Kiyotaka (9), Horikita Suzune (5), Sakura Airi (3), Sudou Ken (2), Chabashira Sae (1), Hoshinomiya Chie (1), Ichinose Honami (1), Ike Kanji (1), Kushida Kikyou (1), Mashima Tomonari (1), Nanase Tsubasa (1), Sakagami (1) (+2 more)
 
 ## Claims
 

@@ -1,19 +1,18 @@
 # Nagumo Miyabi
 
-**rivals** · tier 2 · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_mid_dossiers.py`)
+**rivals**
 
-`1752 mentions · 14 quoted lines · 65 scenes`
+`1,763 mentions · 14 quoted lines · 65 scenes`
 
 ## Identity
 
-- **char_id:** `nagumo-miyabi`
 - **Aliases:** Nagumo, Nagumo Miyabi, Miyabi
 
 ## Footprint
 
 - **Spoken in:** y1v5, y1v7.5, y1v8, y1v9, y1v10, y1v11.5, y2v2, y2v4, y2v4.5, y2v7, y2v9, y2v11
-- **Gap queue (mentioned, no attributed line):** y1v4.5, y1v6, y1v7, y2v1, y2v3, y2v5, y2v6, y2v8, y2v9.5, y2v10, y2v12, y2v12.5
-- **Top mentions:** y2v9 ×280, y1v8 ×269, y2v7 ×169, y2v11 ×144, y2v4 ×125, y2v2 ×109, y1v7.5 ×107, y1v9 ×106 (+16 more vols)
+- **Gap queue (mentioned, no attributed line):** y1v4.5, y1v6, y1v7, y2v1, y2v3, y2v5, y2v6, y2v8, y2v9.5, y2v10, y2v12, y2v12.5, y3v2
+- **Top mentions:** y2v9 ×280, y1v8 ×269, y2v7 ×169, y2v11 ×144, y2v4 ×125, y2v2 ×109, y1v7.5 ×107, y1v9 ×106 (+17 more vols)
 - **Arc timeline (scenes per vol):** y1v5 ×5, y1v7.5 ×5, y1v8 ×28, y1v9 ×5, y1v10 ×1, y1v11.5 ×2, y2v2 ×3, y2v4 ×3, y2v4.5 ×2, y2v7 ×2, y2v9 ×3, y2v11 ×6
 
 ## Recurring scene partners

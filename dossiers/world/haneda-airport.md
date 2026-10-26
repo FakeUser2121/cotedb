@@ -1,6 +1,6 @@
 # Haneda Airport
 
-**off-site** · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_world_dossiers.py`)
+**off-site**
 
 `4 mentions · 1 vols · 2 co-paged scenes · 0 claims`
 

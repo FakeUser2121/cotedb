@@ -2,7 +2,7 @@
 
 *Horikita Suzune is the deuteragonist of Classroom of the Elite and Ayanokōji Kiyotaka's principal partner in Year 1. A first-year student in Class 1-D — sorted there despite the third-highest entrance exam score in her grade — she is a fiercely proud, socially isolated meritocrat whose entire strategy for Class A runs through the one classmate she initially despised. Year 1 charts her transformation from a girl who calls struggling classmates "dead weight" to one who gambles her own exam score to save them and publicly declares her class repairable rather than trash.*
 
-> **Spoiler scope:** this page covers **Year 1, Volume 1** only. Later volumes are excluded by your reading setting.
+> **Spoiler scope:** this page covers **Year 1, Volume 1** only — nothing from later volumes.
 
 ---
 
@@ -14,7 +14,7 @@
 | School year | 1st year (enrolled April, in-story year 2015) |
 | Class | 1-D (homeroom: Chiyabashira Sae) |
 | Family | Elder brother: Horikita Manabu, student council president |
-| Entry score | 3rd-highest entrance exam in the first-year grade; solved nearly every problem, no interview mistakes (y1v1 p.143) |
+| Entry score | 3rd-highest entrance exam in the first-year grade; solved nearly every problem, no interview mistakes (Vol. 1, p.143) |
 | Diagnostic | Near top of Class D on the placement short test (p.128, 143) |
 | Midterm result | Perfect in four subjects; English deliberately scored 51 to lower the class average (p.249–250) |
 | POV status | Supporting viewpoint (her scenes filtered through Ayanokōji's narration) |
@@ -85,7 +85,7 @@ Chiyabashira's read of her partnership with Ayanokōji: *"Perhaps the pair of yo
 
 ## Transcript
 
-Full scene-ordered transcript for this volume: [horikita-suzune · y1v1 transcript](horikita-suzune.y1v1.transcript.md) — every ledgered speech line, narration beat, and inner monologue with page anchors.
+Full scene-by-scene transcript of Volume 1: [Horikita Suzune — Volume 1 transcript](horikita-suzune.y1v1.transcript.md) — every speech line, narration beat, and inner monologue in order, each with its page number.
 
 ## Trivia
 
@@ -96,7 +96,7 @@ Full scene-ordered transcript for this volume: [horikita-suzune · y1v1 transcri
 
 ## Sources
 
-- Classroom of the Elite, Year 1 Volume 1 (Kinugasa Syougo; art. Tomose Shunsaku) — walk ledger `ledgers/people/horikita-suzune.md`, 264/264 pages, 2026-10-17.
+- Classroom of the Elite, Year 1 Volume 1 (Kinugasa Syougo; art. Tomose Shunsaku). Every claim on this page comes from that volume and cites its page (e.g. p.247).
 
 ## Categories
 

@@ -1,8 +1,8 @@
 # Cruise Ship
 
-**exam-venue** · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_world_dossiers.py`)
+**exam-venue**
 
-`78 mentions · 16 vols · 47 co-paged scenes · 1 claims`
+`80 mentions · 17 vols · 47 co-paged scenes · 1 claims`
 
 ## Function
 
@@ -14,8 +14,8 @@ Passenger liner: second week of the first-year island trip and the Cruise Ship S
 
 ## Footprint
 
-- **Span:** y1v3 → y2v5
-- **Anchored mentions by vol:** y1v3 ×4, y1v4 ×3, y1v4.5 ×4, y1v5 ×11, y1v6 ×10, y1v7 ×4, y1v7.5 ×3, y1v8 ×3, y1v9 ×2, y1v10 ×2, y1v11 ×1, y2v2 ×3, y2v3 ×7, y2v4 ×1, y2v4.5 ×19, y2v5 ×1
+- **Span:** y1v3 → y3v3
+- **Anchored mentions by vol:** y1v3 ×4, y1v4 ×3, y1v4.5 ×4, y1v5 ×11, y1v6 ×10, y1v7 ×4, y1v7.5 ×3, y1v8 ×3, y1v9 ×2, y1v10 ×2, y1v11 ×1, y2v2 ×3, y2v3 ×7, y2v4 ×1, y2v4.5 ×19, y2v5 ×1, y3v3 ×2
 
 ## Scene partners (co-paged dialogue)
 

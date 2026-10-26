@@ -1,19 +1,18 @@
 # Housen Kazuomi
 
-**rivals** · tier 2 · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_mid_dossiers.py`)
+**rivals**
 
-`891 mentions · 10 quoted lines · 8 scenes`
+`908 mentions · 10 quoted lines · 8 scenes`
 
 ## Identity
 
-- **char_id:** `housen-kazuomi`
 - **Aliases:** Housen, Housen Kazuomi, Kazuomi
 
 ## Footprint
 
 - **Spoken in:** y2v1, y2v2, y2v4, y2v7, y3v1
-- **Gap queue (mentioned, no attributed line):** y2v3, y2v4.5, y2v6, y2v8, y2v9, y2v9.5, y2v11, y2v12
-- **Top mentions:** y2v1 ×352, y2v4 ×218, y2v2 ×143, y2v6 ×43, y2v3 ×36, y2v11 ×33, y2v9.5 ×19, y3v1 ×17 (+5 more vols)
+- **Gap queue (mentioned, no attributed line):** y2v3, y2v4.5, y2v6, y2v8, y2v9, y2v9.5, y2v11, y2v12, y3v2
+- **Top mentions:** y2v1 ×352, y2v4 ×218, y2v2 ×143, y2v6 ×43, y2v3 ×36, y2v11 ×33, y2v9.5 ×19, y3v1 ×17 (+6 more vols)
 - **Arc timeline (scenes per vol):** y2v1 ×2, y2v2 ×3, y2v4 ×1, y2v7 ×1, y3v1 ×1
 
 ## Recurring scene partners

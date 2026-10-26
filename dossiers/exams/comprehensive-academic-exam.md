@@ -1,8 +1,8 @@
 # Comprehensive Academic Ability Exam
 
-**special** · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_exam_dossiers.py`)
+**special**
 
-`2 mentions · 1 vols · 1 runs · 1 claims`
+`3 mentions · 2 vols · 1 runs · 1 claims`
 
 ## Rules
 
@@ -26,8 +26,8 @@ School-run third-year written special.
 
 ## Footprint
 
-- **Span:** y3v1 → y3v1
-- **Anchored mentions by vol:** y3v1 ×2
+- **Span:** y3v1 → y3v2
+- **Anchored mentions by vol:** y3v1 ×2, y3v2 ×1
 
 ## Runs
 
@@ -53,4 +53,4 @@ A written exam composed of ra”
 ## Evidence anchors
 
 
-y3v1 p.9, y3v1 p.100
+y3v1 p.9, y3v1 p.100, y3v2 p.47

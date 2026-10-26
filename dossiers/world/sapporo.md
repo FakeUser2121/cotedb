@@ -1,6 +1,6 @@
 # Sapporo
 
-**city** · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_world_dossiers.py`)
+**city**
 
 `9 mentions · 1 vols · 0 co-paged scenes · 0 claims`
 

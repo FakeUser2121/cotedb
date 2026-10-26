@@ -1,8 +1,8 @@
 # Library
 
-**campus-building** · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_world_dossiers.py`)
+**campus-building**
 
-`130 mentions · 15 vols · 42 co-paged scenes · 1 claims`
+`168 mentions · 16 vols · 43 co-paged scenes · 1 claims`
 
 ## Function
 
@@ -14,12 +14,12 @@ Quiet study venue: the original study-group home and tutoring site.
 
 ## Footprint
 
-- **Span:** y1v1 → y3v1
-- **Anchored mentions by vol:** y1v1 ×11, y1v2 ×3, y1v6 ×16, y1v7 ×13, y1v9 ×5, y1v10 ×10, y1v11 ×4, y1v11.5 ×5, y2v1 ×21, y2v6 ×2, y2v7 ×3, y2v8 ×1, y2v9.5 ×32, y2v10 ×3, y3v1 ×1
+- **Span:** y1v1 → y3v2
+- **Anchored mentions by vol:** y1v1 ×11, y1v2 ×3, y1v6 ×16, y1v7 ×13, y1v9 ×5, y1v10 ×10, y1v11 ×4, y1v11.5 ×5, y2v1 ×21, y2v6 ×2, y2v7 ×3, y2v8 ×1, y2v9.5 ×32, y2v10 ×3, y3v1 ×1, y3v2 ×38
 
 ## Scene partners (co-paged dialogue)
 
-Ayanokouji Kiyotaka (19), Horikita Suzune (13), Kushida Kikyou (6), Shiina Hiyori (6), Ichinose Honami (5), Miyake Akito (2), Satou Maya (2), Hasebe Haruka (1), Hashimoto Masayoshi (1), Ike Kanji (1), Karuizawa Kei (1), Nanase Tsubasa (1) (+6 more)
+Ayanokouji Kiyotaka (19), Horikita Suzune (13), Kushida Kikyou (6), Shiina Hiyori (6), Ichinose Honami (5), Hashimoto Masayoshi (2), Miyake Akito (2), Satou Maya (2), Hasebe Haruka (1), Ike Kanji (1), Karuizawa Kei (1), Nanase Tsubasa (1) (+6 more)
 
 ## Claims
 

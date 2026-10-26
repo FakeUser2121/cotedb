@@ -1,8 +1,8 @@
 # Class Points
 
-**points** · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_exam_dossiers.py`)
+**points**
 
-`616 mentions · 30 vols · 3 claims`
+`640 mentions · 32 vols · 3 claims`
 
 ## Function
 
@@ -14,8 +14,8 @@ Intake baseline 1000 points — 'We had been given 1000 class points when we fir
 
 ## Footprint
 
-- **Span:** y1v2 → y3v1
-- **Anchored mentions by vol:** y1v2 ×26, y1v3 ×7, y1v4 ×12, y1v4.5 ×3, y1v5 ×5, y1v6 ×2, y1v7 ×16, y1v7.5 ×1, y1v8 ×18, y1v9 ×3, y1v10 ×2, y1v11 ×28, y1v11.5 ×20, y1v11.75 ×1, y2v1 ×33, y2v2 ×58, y2v3 ×3, y2v4 ×6, y2v4.5 ×17, y2v5 ×154, y2v6 ×21, y2v7 ×38, y2v8 ×8, y2v9 ×23, y2v9.5 ×5, y2v10 ×20, y2v11 ×5, y2v12 ×40, y2v12.5 ×25, y3v1 ×16
+- **Span:** y1v2 → y3v3
+- **Anchored mentions by vol:** y1v2 ×26, y1v3 ×7, y1v4 ×12, y1v4.5 ×3, y1v5 ×5, y1v6 ×2, y1v7 ×16, y1v7.5 ×1, y1v8 ×18, y1v9 ×3, y1v10 ×2, y1v11 ×28, y1v11.5 ×20, y1v11.75 ×1, y2v1 ×33, y2v2 ×58, y2v3 ×3, y2v4 ×6, y2v4.5 ×17, y2v5 ×154, y2v6 ×21, y2v7 ×38, y2v8 ×8, y2v9 ×23, y2v9.5 ×5, y2v10 ×20, y2v11 ×5, y2v12 ×40, y2v12.5 ×25, y3v1 ×16, y3v2 ×14, y3v3 ×10
 
 ## Claims
 

@@ -2,7 +2,7 @@
 
 *Ayanokōji Kiyotaka is the principal narrator and central figure of Classroom of the Elite. A first-year student placed in Class 1-D at Tokyo Metropolitan Advanced Nurturing High School, he outwardly presents as an unremarkable, trouble-averse loner while concealing exceptional academic and physical abilities developed in the White Room. Year 1 chronicles his gradual, reluctant entanglement with classmates — above all Horikita Suzune and Kushida Kikyō — as he probes the school's true nature and his own stalled development as a person.*
 
-> **Spoiler scope:** this page covers **Year 1, Volume 1** only. Later volumes are excluded by your reading setting.
+> **Spoiler scope:** this page covers **Year 1, Volume 1** only — nothing from later volumes.
 
 ---
 
@@ -14,14 +14,14 @@
 | School year | 1st year (enrolled April, in-story year 2015) |
 | Class | 1-D (homeroom: Chiyabashira Sae) |
 | Dorm | Private single room, dormitory building, room 401 |
-| Entry score | Entrance exam 50/50/50/50/50 across five subjects; placement short test also all 50s (y1v1 p.146) |
+| Entry score | Entrance exam 50/50/50/50/50 across five subjects; placement short test also all 50s (Vol. 1, p.146) |
 | Known aliases | Ayano, Ayanon, Kiyopon (school-internal nicknames; not yet used in-volume) |
 | POV status | First-person narrator of the main series |
 | Narrative role | Observer-participant; class strategist in training |
 
 ## Personality & voice
 
-Ayanokōji narrates in a dry, analytical register, treating his own life as a dataset. His opening thesis — "No, we are not equal. To be human is to be unequal" (y1v1 p.14) — frames every later interaction: he sorts people by capability and sorts himself just as coldly. He is conflict-avoidant on the surface ("letting sleeping dogs lie," p.25), yet the volume repeatedly shows him choosing the hard, people-facing path once someone he has begun to care for is at risk (Sudou's expulsion, p.250–254).
+Ayanokōji narrates in a dry, analytical register, treating his own life as a dataset. His opening thesis — "No, we are not equal. To be human is to be unequal" (Vol. 1, p.14) — frames every later interaction: he sorts people by capability and sorts himself just as coldly. He is conflict-avoidant on the surface ("letting sleeping dogs lie," p.25), yet the volume repeatedly shows him choosing the hard, people-facing path once someone he has begun to care for is at risk (Sudou's expulsion, p.250–254).
 
 Socially he is inexperienced rather than shy. He rehearses friend-making scripts the night before day one (p.26), engineers belonging through small purchases and group-chat participation (p.74, p.69), and reads social mechanics with clinical precision while failing at ordinary banter (the razor joke, p.44). His inner voice mocks his own compliance ("filled with trepidation," p.16) and registers attraction instantly before suppressing it for stability (p.79, p.83).
 
@@ -36,7 +36,7 @@ Every feat below is sandbagged or concealed in-world; the school's records do no
 
 | Feat | Evidence | Cover story |
 |---|---|---|
-| Entrance exam scored exactly 50 in all five subjects; solved a problem only 3% of examinees solved while failing an easy one | y1v1 p.146–147 | "Coincidence"; Chiyabashira: "He did it intentionally." |
+| Entrance exam scored exactly 50 in all five subjects; solved a problem only 3% of examinees solved while failing an easy one | Vol. 1, p.146–147 | "Coincidence"; Chiyabashira: "He did it intentionally." |
 | Muscle development read as "above average" from forearms and back despite clubless lifestyle | p.81 | "My parents blessed me with good genes?" |
 | Swim race finished mid-pack (36s, 10th of 16) by design — only requirement was not last | p.85 | Ordinary student |
 | Combat: intercepts and grapples with Horikita Manabu (5th-dan karate, 4th-dan aikido); evades backhand and kick, slaps away probing hand — "Good reflexes… Have you been taught?" | p.193–194 | Piano and calligraphy (inconsistent on purpose) |
@@ -79,7 +79,7 @@ Chiyabashira's assessment after the purchase: not special, not a deviant — "di
 
 ## Transcript
 
-Full scene-ordered transcript for this volume: [ayanokouji-kiyotaka · y1v1 transcript](ayanokouji-kiyotaka.y1v1.transcript.md) — every ledgered speech line, narration beat, and inner monologue with page anchors.
+Full scene-by-scene transcript of Volume 1: [Ayanokōji Kiyotaka — Volume 1 transcript](ayanokouji-kiyotaka.y1v1.transcript.md) — every speech line, narration beat, and inner monologue in order, each with its page number.
 
 ## Trivia
 
@@ -90,7 +90,7 @@ Full scene-ordered transcript for this volume: [ayanokouji-kiyotaka · y1v1 tran
 
 ## Sources
 
-- Classroom of the Elite, Year 1 Volume 1 (Kinugasa Syougo; art. Tomose Shunsaku) — walk ledger `ledgers/people/ayanokouji-kiyotaka.md`, 264/264 pages, 2026-10-17.
+- Classroom of the Elite, Year 1 Volume 1 (Kinugasa Syougo; art. Tomose Shunsaku). Every claim on this page comes from that volume and cites its page (e.g. p.247).
 
 ## Categories
 

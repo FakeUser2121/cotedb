@@ -1,8 +1,8 @@
 # Background Characters
 
-Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/build_background.py`. Verbatim quotes are cited with volume + PDF page.
+One-line profiles for minor and background roles. Every quote is verbatim, cited with volume and page.
 
-**226 characters** · 22,261 total mentions
+**226 characters** · 24,145 total mentions
 
 ## Contents
 
@@ -11,135 +11,135 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - [Ibuki Mio](#ibuki-mio)
 - [Yukimura Teruhiko](#yukimura-teruhiko)
 - [Amasawa Ichika](#amasawa-ichika)
-- [Yamauchi Haruki](#yamauchi-haruki)
 - [Kanzaki Ryuuji](#kanzaki-ryuuji)
+- [Yamauchi Haruki](#yamauchi-haruki)
 - [Satou Maya](#satou-maya)
+- [Yamamura Miki](#yamamura-miki)
 - [Shinohara Satsuki](#shinohara-satsuki)
 - [Miyake Akito](#miyake-akito)
-- [Yamamura Miki](#yamamura-miki)
+- [Morishita Ai](#morishita-ai)
 - [Kamuro Masumi](#kamuro-masumi)
 - [Kitou Hayato](#kitou-hayato)
-- [Kiryuin Fuuka](#kiryuin-fuuka)
 - [Wang Mei-Yu](#wang-mei-yu)
+- [Kiryuin Fuuka](#kiryuin-fuuka)
 - [Kiriyama Ikuto](#kiriyama-ikuto)
-- [Morishita Ai](#morishita-ai)
+- [Shiraishi Asuka](#shiraishi-asuka)
 - [Matsushita Chiaki](#matsushita-chiaki)
-- [Amikura Mako](#amikura-mako)
 - [Komiya Kyogo](#komiya-kyogo)
+- [Amikura Mako](#amikura-mako)
 - [Watanabe Norihito](#watanabe-norihito)
-- [Yamada Albert](#yamada-albert)
+- [Utomiya Riku](#utomiya-riku)
 - [Hasebe Haruka](#hasebe-haruka)
 - [Naoe](#naoe)
-- [Manabe Shiho](#manabe-shiho)
-- [Tokitou Hiroya](#tokitou-hiroya)
-- [Utomiya Riku](#utomiya-riku)
+- [Yamada Albert](#yamada-albert)
 - [Himeno Yuki](#himeno-yuki)
+- [Tokitou Hiroya](#tokitou-hiroya)
+- [Manabe Shiho](#manabe-shiho)
 - [Maezono](#maezono)
 - [Tokitou Katsumi](#tokitou-katsumi)
+- [Shimazaki Ikkei](#shimazaki-ikkei)
 - [Onodera Kayano](#onodera-kayano)
+- [Yoshida Kenta](#yoshida-kenta)
+- [Kaneda Satoru](#kaneda-satoru)
 - [Nishino Takeko](#nishino-takeko)
 - [Kinoshita Minori](#kinoshita-minori)
 - [Tachibana Akane](#tachibana-akane)
 - [Totsuka Yahiko](#totsuka-yahiko)
-- [Asahina Nazuna](#asahina-nazuna)
-- [Hamaguchi Tetsuya](#hamaguchi-tetsuya)
 - [Hondou Ryoutaro](#hondou-ryoutaro)
-- [Machida Kouji](#machida-kouji)
+- [Hamaguchi Tetsuya](#hamaguchi-tetsuya)
+- [Asahina Nazuna](#asahina-nazuna)
 - [Ishigami Kyou](#ishigami-kyou)
-- [Kaneda Satoru](#kaneda-satoru)
+- [Machida Kouji](#machida-kouji)
 - [Sanada Kousei](#sanada-kousei)
 - [Kijima](#kijima)
-- [Shiraishi Asuka](#shiraishi-asuka)
 - [Kamogawa Toshizou](#kamogawa-toshizou)
+- [Nishikawa Ryouko](#nishikawa-ryouko)
 - [Kamogawa](#kamogawa)
 - [Shiranami Chihiro](#shiranami-chihiro)
-- [Shimizu Naoki](#shimizu-naoki)
-- [Matsuo Eiichirou](#matsuo-eiichirou)
-- [Yamanaka Ikuko](#yamanaka-ikuko)
 - [Morofuji Rika](#morofuji-rika)
-- [Shimazaki Ikkei](#shimazaki-ikkei)
+- [Matsuo Eiichirou](#matsuo-eiichirou)
+- [Matoba Shinji](#matoba-shinji)
+- [Shimizu Naoki](#shimizu-naoki)
+- [Yamanaka Ikuko](#yamanaka-ikuko)
 - [Shiba Katsunori](#shiba-katsunori)
-- [Suzukake Tanji](#suzukake-tanji)
-- [Yoshida Kenta](#yoshida-kenta)
 - [Yuki](#yuki)
+- [Suzukake Tanji](#suzukake-tanji)
+- [Takemoto Shigeru](#takemoto-shigeru)
+- [Kobashi Yume](#kobashi-yume)
 - [Ishikura Kayoko](#ishikura-kayoko)
 - [Mikitani](#mikitani)
-- [Kobashi Yume](#kobashi-yume)
-- [Mika](#mika)
+- [Kondou Reo](#kondou-reo)
 - [Takahashi Osamu](#takahashi-osamu)
 - [Inogashira Kokoro](#inogashira-kokoro)
+- [Matsuo](#matsuo)
+- [Mika](#mika)
 - [Ishikura](#ishikura)
+- [Miyamoto Soshi](#miyamoto-soshi)
 - [Sotomura Hideo](#sotomura-hideo)
 - [Ishida Yuusuke](#ishida-yuusuke)
-- [Matsuo](#matsuo)
-- [Miyamoto Soshi](#miyamoto-soshi)
 - [Kurachi](#kurachi)
-- [Matoba Shinji](#matoba-shinji)
-- [Nishikawa Ryouko](#nishikawa-ryouko)
 - [Mori Nene](#mori-nene)
 - [Ninomiya Yui](#ninomiya-yui)
-- [Okitani Kyousuke](#okitani-kyousuke)
-- [Souya](#souya)
-- [Yabu Nanami](#yabu-nanami)
-- [Kondou Reo](#kondou-reo)
 - [Rokkaku Momoe](#rokkaku-momoe)
+- [Okitani Kyousuke](#okitani-kyousuke)
+- [Yabu Nanami](#yabu-nanami)
+- [Souya](#souya)
+- [Oda Takumi](#oda-takumi)
+- [Yamashita Saki](#yamashita-saki)
 - [Tabuchi](#tabuchi)
 - [Fukuyama Shinobu](#fukuyama-shinobu)
+- [Morishige Takurou](#morishige-takurou)
+- [Motodoi Chikako](#motodoi-chikako)
+- [Sawada Yasumi](#sawada-yasumi)
 - [Azuma Sana](#azuma-sana)
 - [Fujimaki](#fujimaki)
 - [Ichihashi Ruri](#ichihashi-ruri)
-- [Morishige Takurou](#morishige-takurou)
-- [Oda Takumi](#oda-takumi)
+- [Nomura Yuuji](#nomura-yuuji)
+- [Satonaka Satoru](#satonaka-satoru)
 - [Shiratori](#shiratori)
-- [Sawada Yasumi](#sawada-yasumi)
-- [Takemoto Shigeru](#takemoto-shigeru)
 - [Tatebayashi](#tatebayashi)
 - [Tsube Hitomi](#tsube-hitomi)
-- [Motodoi Chikako](#motodoi-chikako)
-- [Nomura Yuuji](#nomura-yuuji)
-- [Shiro](#shiro)
-- [Ikari Momoko](#ikari-momoko)
-- [Nishimura Ryuuko](#nishimura-ryuuko)
-- [Nogi](#nogi)
-- [Isomaru](#isomaru)
-- [Sonoda Masashi](#sonoda-masashi)
-- [Suzuki Hidetoshi](#suzuki-hidetoshi)
-- [Tomose Shunsaku](#tomose-shunsaku)
-- [Nakanishi](#nakanishi)
-- [Tamiya Emi](#tamiya-emi)
-- [Yamashita Saki](#yamashita-saki)
 - [Sugio Hiroshi](#sugio-hiroshi)
+- [Suzuki Hidetoshi](#suzuki-hidetoshi)
+- [Yamawaki](#yamawaki)
+- [Beppu Ryouta](#beppu-ryouta)
+- [Ikari Momoko](#ikari-momoko)
+- [Tamiya Emi](#tamiya-emi)
+- [Nakanishi](#nakanishi)
+- [Nishimura Ryuuko](#nishimura-ryuuko)
+- [Sonoda Masashi](#sonoda-masashi)
 - [Tsukasaki Taiga](#tsukasaki-taiga)
+- [Isomaru](#isomaru)
+- [Moriyama](#moriyama)
+- [Nogi](#nogi)
+- [Shiro](#shiro)
+- [Tomose Shunsaku](#tomose-shunsaku)
+- [Yano Koharu](#yano-koharu)
+- [Akiyama](#akiyama)
 - [Yajima Mariko](#yajima-mariko)
 - [Fuji](#fuji)
 - [Nakaizumi Shouhei](#nakaizumi-shouhei)
-- [Satonaka Satoru](#satonaka-satoru)
 - [Sugimura](#sugimura)
-- [Yano Koharu](#yano-koharu)
-- [Akiyama](#akiyama)
+- [Andou Sayo](#andou-sayo)
 - [Makida Susumu](#makida-susumu)
 - [Minami Hakuo](#minami-hakuo)
-- [Yamawaki](#yamawaki)
-- [Andou Sayo](#andou-sayo)
-- [Beppu Ryouta](#beppu-ryouta)
-- [Katagiri](#katagiri)
 - [Sumida Makoto](#sumida-makoto)
-- [Moriyama](#moriyama)
+- [Ijuin Kou](#ijuin-kou)
+- [Katagiri](#katagiri)
+- [Toba Shigeru](#toba-shigeru)
 - [Tatara](#tatara)
 - [Toyohashi Goro](#toyohashi-goro)
+- [Yoshimoto Kosetsu](#yoshimoto-kosetsu)
 - [Tsunoda](#tsunoda)
 - [Asama](#asama)
 - [Kimura](#kimura)
 - [Moeka](#moeka)
+- [Nishi Haruka](#nishi-haruka)
 - [Tanihara Mao](#tanihara-mao)
-- [Yoshimoto Kosetsu](#yoshimoto-kosetsu)
-- [Toba Shigeru](#toba-shigeru)
+- [Isoyama Nagisa](#isoyama-nagisa)
 - [Tokunaga](#tokunaga)
 - [Hatano](#hatano)
-- [Isoyama Nagisa](#isoyama-nagisa)
 - [Kikuchi](#kikuchi)
-- [Nishi Haruka](#nishi-haruka)
-- [Ijuin Kou](#ijuin-kou)
 - [Onizuka](#onizuka)
 - [Makita Takashige](#makita-takashige)
 - [Kuronaga](#kuronaga)
@@ -148,23 +148,23 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - [Asakura Mako](#asakura-mako)
 - [Ikari-sensei](#ikari-sensei)
 - [Sonoda Chiyo](#sonoda-chiyo)
+- [Ijuin Wataru](#ijuin-wataru)
 - [Minami Setsuya](#minami-setsuya)
 - [Shintoku Taro](#shintoku-taro)
+- [Nakajima Riko](#nakajima-riko)
+- [Tsukaji Shihori](#tsukaji-shihori)
+- [Minamikata Kozue](#minamikata-kozue)
 - [Okabe Fuyu](#okabe-fuyu)
 - [Yanagi Yasuhisa](#yanagi-yasuhisa)
 - [Enoshima Midoriko](#enoshima-midoriko)
-- [Ijuin Wataru](#ijuin-wataru)
-- [Minamikata Kozue](#minamikata-kozue)
-- [Ohba](#ohba)
 - [Hatsukawa Maho](#hatsukawa-maho)
 - [Kisarazu](#kisarazu)
-- [Tsukaji Shihori](#tsukaji-shihori)
+- [Mikuru](#mikuru)
+- [Takanashi Kō](#takanashi-k)
 - [Yonezu Haruto](#yonezu-haruto)
 - [Anazai](#anazai)
 - [Ichino Yuyu](#ichino-yuyu)
 - [Inoue Toa](#inoue-toa)
-- [Mikuru](#mikuru)
-- [Takanashi Kō](#takanashi-k)
 - [Takarajima Miko](#takarajima-miko)
 - [Asagaya Mai](#asagaya-mai)
 - [Chiba](#chiba)
@@ -175,6 +175,7 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - [Sasaki](#sasaki)
 - [Taguri](#taguri)
 - [Takato](#takato)
+- [Yanagibashi Motofumi](#yanagibashi-motofumi)
 - [Aga](#aga)
 - [Ayase Natsu](#ayase-natsu)
 - [Dogami Mitsuko](#dogami-mitsuko)
@@ -185,7 +186,6 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - [Konishi Tetsuko](#konishi-tetsuko)
 - [Kosumi Dan](#kosumi-dan)
 - [Kurihara Kasuga](#kurihara-kasuga)
-- [Nakajima Riko](#nakajima-riko)
 - [Negishi](#negishi)
 - [Obokata Yukiki](#obokata-yukiki)
 - [Okiya Kyousuke](#okiya-kyousuke)
@@ -195,7 +195,6 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - [Tomioka](#tomioka)
 - [Tonokawa](#tonokawa)
 - [Toudou Rin](#toudou-rin)
-- [Yanagibashi Motofumi](#yanagibashi-motofumi)
 - [Aragaki Itsuki](#aragaki-itsuki)
 - [Dodo Michimichi](#dodo-michimichi)
 - [Fukuchi Hinano](#fukuchi-hinano)
@@ -232,14 +231,15 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - [Tanaka](#tanaka)
 - [Ukon](#ukon)
 - [Yamaga](#yamaga)
+- [Ohba](#ohba)
 
 ### Shibata Sou
 
-`tier 3 · 2528 mentions · 6 quoted lines · 35 scene(s)`
+`tier 3 · 2682 mentions · 6 quoted lines · 35 scene(s)`
 
 - **Aliases:** Shibata, Shibata Sou, Sou
 - **Spoken in:** y1v1, y1v4, y1v4.5, y1v5, y1v6, y1v7, y1v7.5, y1v8, y1v9, y1v10, y1v11, y2v2, y2v3, y2v4.5, y2v8, y2v12.5, y3v1
-- **Gap queue (mentioned, no attributed line):** y0, y1v2, y1v3, y1v11.5, y1v11.75, y2v1, y2v4, y2v5, y2v6, y2v7, y2v9, y2v9.5, y2v9.75, y2v10, y2v10.25, y2v11, y2v12
+- **Gap queue (mentioned, no attributed line):** y0, y1v2, y1v3, y1v11.5, y1v11.75, y2v1, y2v4, y2v5, y2v6, y2v7, y2v9, y2v9.5, y2v9.75, y2v10, y2v10.25, y2v11, y2v12, y3v2, y3v3
 - **Notes:** seed: Class 1-B | corpus surname hits 176 | [P2-band]
 - **Claim:** “Shibata was a member of the soccer club just like Hirata.” (y1v11 p.171)
 - **Claim:** “Shibata was the most surprised.” (y2v12.5 p.186)
@@ -252,11 +252,11 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 
 ### Ike Kanji
 
-`tier 3 · 1537 mentions · 6 quoted lines · 163 scene(s)`
+`tier 3 · 1568 mentions · 6 quoted lines · 163 scene(s)`
 
 - **Aliases:** Ike, Ike Kanji, Kanji
 - **Spoken in:** y1v1, y1v2, y1v3, y1v4.5, y1v5, y1v6, y1v7, y1v7.5, y1v8, y1v9, y1v10, y1v11, y2v1, y2v3, y2v4.5, y2v9, y2v9.5, y3v1
-- **Gap queue (mentioned, no attributed line):** y0, y1v4, y1v11.5, y2v2, y2v4, y2v5, y2v6, y2v7, y2v8, y2v10, y2v11, y2v12, y2v12.5
+- **Gap queue (mentioned, no attributed line):** y1v4, y1v11.5, y2v2, y2v4, y2v5, y2v6, y2v7, y2v8, y2v10, y2v11, y2v12, y2v12.5, y3v2, y3v3
 - **Claim:** “Ike was the most surprised and flustered by this.” (y1v1 p.75)
 - **Claim:** “Ike was the first to talk.” (y1v2 p.41)
 - **Claim:** “Ike was the first one to agree.” (y1v4.5 p.182)
@@ -270,26 +270,26 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 
 ### Ibuki Mio
 
-`tier 3 · 1436 mentions · 6 quoted lines · 119 scene(s)`
+`tier 3 · 1511 mentions · 6 quoted lines · 121 scene(s)`
 
 - **Aliases:** Ibuki, Ibuki Mio, Mio
-- **Spoken in:** y1v3, y1v4, y1v4.5, y1v6, y1v7, y1v7.5, y1v10, y1v11, y1v11.5, y2v2, y2v4, y2v4.5, y2v6, y2v7, y2v8, y2v11, y3v1
-- **Gap queue (mentioned, no attributed line):** y1v5, y1v8, y1v9, y2v1, y2v3, y2v5, y2v9.75, y2v10, y2v12, y2v12.5
+- **Spoken in:** y1v3, y1v4, y1v4.5, y1v6, y1v7, y1v7.5, y1v10, y1v11, y1v11.5, y2v2, y2v4, y2v4.5, y2v6, y2v7, y2v8, y2v11, y3v1, y3v2
+- **Gap queue (mentioned, no attributed line):** y1v5, y1v8, y1v9, y2v1, y2v3, y2v5, y2v9.75, y2v10, y2v12, y2v12.5, y3v3
 - **Claim:** “Ibuki was the sole holdout, her arms crossed as they had been since the beginning of the test.” (y1v4 p.88)
 - **Quote:** “I’m…Ibuki,” (y1v3 p.82)
 - **Quote:** “No matter what I do, the mood always seems to turn sour. Understand?” (y1v4.5 p.24)
 - **Quote:** “If you can deal with being in a sauna, sure,” (y1v4.5 p.42)
-- **Quote:** “I won’t be complicit in this. It’s too risky,” (y1v7 p.133)
-- **Quote:** “Stop screwing around! Why would you entrust your points to me?!” (y1v7 p.194)
-- **Quote:** “Ah, come on. Why?” (y1v7.5 p.62)
+- **Quote:** “Look, I’ve got problems of my own. Sorry,” (y1v7 p.133)
+- **Quote:** “Are…are you really okay with that?” (y1v7 p.195)
+- **Quote:** “You’re the strongest person I’ve ever seen. Stronger than any adult. How’d you get that strong?” (y1v7.5 p.62)
 
 ### Yukimura Teruhiko
 
-`tier 3 · 1104 mentions · 6 quoted lines · 125 scene(s)`
+`tier 3 · 1113 mentions · 6 quoted lines · 125 scene(s)`
 
 - **Aliases:** Yukimura, Yukimura Teruhiko, Teruhiko, Keisei, yukimu
 - **Spoken in:** y1v1, y1v3, y1v4, y1v5, y1v6, y1v7, y1v8, y1v9, y1v10, y1v11, y1v11.5, y2v2, y2v4.5, y2v5, y2v12, y2v12.5, y3v1
-- **Gap queue (mentioned, no attributed line):** y1v2, y1v7.5, y2v1, y2v6, y2v7, y2v8, y2v9, y2v10, y2v11
+- **Gap queue (mentioned, no attributed line):** y1v2, y1v7.5, y2v1, y2v6, y2v7, y2v8, y2v9, y2v10, y2v11, y3v2, y3v3
 - **Claim:** “Keisei was the first to respond.” (y1v10 p.57)
 - **Claim:** “Keisei was the first person to raise their hand.” (y1v11 p.140)
 - **Quote:** “Don’t you feel dissatisfied being in Class D, Kouenji?” (y1v1 p.129)
@@ -301,25 +301,41 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 
 ### Amasawa Ichika
 
-`tier 3 · 959 mentions · 6 quoted lines · 35 scene(s)`
+`tier 3 · 999 mentions · 6 quoted lines · 34 scene(s)`
 
 - **Aliases:** Amasawa, Amasawa Ichika, Ichika
-- **Spoken in:** y0, y2v1, y2v2, y2v3, y2v4, y2v4.5, y2v6, y2v7, y2v8, y2v9, y2v11, y2v12, y3v1
-- **Gap queue (mentioned, no attributed line):** y2v5, y2v9.5, y2v12.5
-- **Quote:** “In the first place, she’s a baby that was made in a test tube, so I don't even feel like she’s my own child.” (y0 p.183)
-- **Quote:** “I’m fine with doing it later tonight though. Would that work for you two?” (y2v1 p.139)
+- **Spoken in:** y2v1, y2v2, y2v3, y2v4, y2v4.5, y2v6, y2v7, y2v8, y2v9, y2v11, y2v12, y3v1
+- **Gap queue (mentioned, no attributed line):** y0, y2v5, y2v9.5, y2v12.5, y3v2
+- **Quote:** “If you’re gonna go for the top spot, how ‘bout partnering up with me?” (y2v1 p.126)
+- **Quote:** “Me? Not at all. I’m not the type to just whip up a meal on my own. I’m the kinda girl who’d rather let others cook for me than make things for myself.” (y2v1 p.170)
 - **Quote:** “Thank you, Karuizawa-senpai~” (y2v2 p.106)
-- **Quote:** “Can’t you understand that what I’m doing right now is the minimum requirement of violence?” (y2v4.5 p.256)
+- **Quote:** “Hiya Senpaaii. I came to hang out!” (y2v6 p.162)
 - **Quote:** “Well, well, don't worry about the details. Please continue with the recruitment efforts.” (y2v9 p.49)
 - **Quote:** “You're bluffing. I've heard that you lost in the previous special exam and ended up at the bottom.” (y2v11 p.112)
 
+### Kanzaki Ryuuji
+
+`tier 3 · 885 mentions · 6 quoted lines · 28 scene(s)`
+
+- **Aliases:** Kanzaki, Kanzaki Ryuuji, Ryuuji
+- **Spoken in:** y0, y1v2, y1v3, y1v4, y1v4.5, y1v5, y1v8, y1v10, y1v11.5, y2v4.5, y2v5, y2v7, y2v8, y2v9, y2v12, y2v12.5
+- **Gap queue (mentioned, no attributed line):** y1v6, y1v9, y1v11, y2v1, y2v2, y2v4, y2v10, y2v11, y3v1, y3v2, y3v3
+- **Claim:** “Kanzaki was the only one who didn’t speak up, perhaps because he was in agreement with the three of them.” (y2v9 p.91)
+- **Claim:** “Kanzaki was the only person present who immediately thought of Ayanokōji when hearing that expression.” (y2v12.5 p.185)
+- **Quote:** “You look quite stern, what happened?” (y0 p.231)
+- **Quote:** “Well, it’s true that we only have a few opportunities to socialize with students from other classes. Shibata and the others seem happy,” (y1v4.5 p.177)
+- **Quote:** “It’s scary.” (y1v5 p.98)
+- **Quote:** “This is a pretty unusual combination of people,” (y1v8 p.128)
+- **Quote:** “Does that mean you’re going to vote in favour on... the next vote?” (y2v5 p.131)
+- **Quote:** “I have no intention of getting involved with Ishigami-kun, so I'd appreciate it if it stayed that way.” (y2v8 p.183)
+
 ### Yamauchi Haruki
 
-`tier 3 · 870 mentions · 6 quoted lines · 65 scene(s)`
+`tier 3 · 877 mentions · 6 quoted lines · 65 scene(s)`
 
 - **Aliases:** Yamauchi, Yamauchi Haruki, Haruki
 - **Spoken in:** y1v1, y1v2, y1v3, y1v4, y1v4.5, y1v5, y1v6, y1v7, y1v7.5, y1v8, y1v9, y1v10
-- **Gap queue (mentioned, no attributed line):** y1v11, y1v11.5, y2v2, y2v5, y2v6, y2v7, y2v8, y2v12.5, y3v1
+- **Gap queue (mentioned, no attributed line):** y1v11, y1v11.5, y2v2, y2v5, y2v6, y2v7, y2v8, y2v12.5, y3v1, y3v2
 - **Claim:** “Yamauchi was the mastermind, and Sakayanagi was the one pulling the strings behind him.” (y1v10 p.229)
 - **Quote:** “Ike, don’t be sad! Come on, there are still tons of girls out there for us!” (y1v1 p.78)
 - **Quote:** “H-hey, Ayanokouji. I got something that I want you to keep just between us,” (y1v3 p.76)
@@ -328,29 +344,13 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Quote:** “A-all right, I’ll go wake him up,” (y1v4.5 p.167)
 - **Quote:** “Wh-what do we win?” (y1v8 p.23)
 
-### Kanzaki Ryuuji
-
-`tier 3 · 823 mentions · 6 quoted lines · 30 scene(s)`
-
-- **Aliases:** Kanzaki, Kanzaki Ryuuji, Ryuuji
-- **Spoken in:** y0, y1v2, y1v3, y1v4, y1v4.5, y1v5, y1v8, y1v10, y1v11.5, y2v4.5, y2v5, y2v7, y2v8, y2v9, y2v12, y2v12.5
-- **Gap queue (mentioned, no attributed line):** y1v6, y1v9, y1v11, y2v1, y2v2, y2v4, y2v10, y2v11, y3v1
-- **Claim:** “Kanzaki was the only one who didn’t speak up, perhaps because he was in agreement with the three of them.” (y2v9 p.91)
-- **Claim:** “Kanzaki was the only person present who immediately thought of Ayanokōji when hearing that expression.” (y2v12.5 p.185)
-- **Quote:** “I'm not lying...” (y0 p.186)
-- **Quote:** “Maybe from your perspective. You’re casting a wide net right now, and gathering information. Haven’t you ever dreamed of rising up to Class B?” (y1v4 p.147)
-- **Quote:** “When you think of it as a strategy, it’s not completely meaningless,” (y1v5 p.98)
-- **Quote:** “I think we’re better off ignoring them. Once five minutes have passed, no one will want to join their group. They’ll be back,” (y1v8 p.38)
-- **Quote:** “Wait a minute. Sure, we could always pass a unanimous vote by dissent, I guess. But can we really say with certainty that it’s the right thing to do, to keep choosing to protect our classmates?” (y2v5 p.128)
-- **Quote:** “But in fact, it was different. Himeno herself is questioning the state of the class.” (y2v7 p.64)
-
 ### Satou Maya
 
-`tier 3 · 799 mentions · 6 quoted lines · 64 scene(s)`
+`tier 3 · 813 mentions · 6 quoted lines · 64 scene(s)`
 
 - **Aliases:** Satou, Satou Maya, Maya
 - **Spoken in:** y1v6, y1v7, y1v7.5, y1v11.5, y2v1, y2v4.5, y2v5, y2v7, y2v9
-- **Gap queue (mentioned, no attributed line):** y1v1, y1v3, y1v8, y1v9, y1v10, y1v11, y2v6, y2v8, y2v9.5, y2v10, y2v11, y2v12, y2v12.5, y3v1
+- **Gap queue (mentioned, no attributed line):** y1v1, y1v3, y1v8, y1v9, y1v10, y1v11, y2v6, y2v8, y2v9.5, y2v10, y2v11, y2v12, y2v12.5, y3v1, y3v3
 - **Claim:** “Satou was a particularly high-spirited girl in our class.” (y1v1 p.189)
 - **Quote:** “If you’re okay with starting out as friends, then… Well, how about we exchange phone numbers?” (y1v6 p.19)
 - **Quote:** “Okay. Well, see you later, Ayanokouji-kun,” (y1v6 p.188)
@@ -359,13 +359,28 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Quote:** “I agree,” (y1v7.5 p.118)
 - **Quote:** “I’m sorry about this turning into a double date and all,” (y1v7.5 p.139)
 
+### Yamamura Miki
+
+`tier 3 · 624 mentions · 6 quoted lines · 13 scene(s)`
+
+- **Aliases:** Yamamura, Yamamura Miki, Miki
+- **Spoken in:** y2v8, y2v9.5, y2v11, y2v12.5
+- **Gap queue (mentioned, no attributed line):** y1v11, y2v4, y2v4.5, y2v10, y2v12, y3v1, y3v2, y3v3
+- **Claim:** “Yamamura was a student from Class A and a friend of Sakayanagi.” (y2v9.5 p.129)
+- **Quote:** “The only ones left are Kitō and Yamamura,” (y2v8 p.50)
+- **Quote:** “I don't like myself at all. It's impossible.” (y2v8 p.102)
+- **Quote:** “Ah, it seems so.” (y2v8 p.165)
+- **Quote:** “I can't right now, but... I'll think about it for a bit.” (y2v8 p.169)
+- **Quote:** “It's not like that...” (y2v9.5 p.130)
+- **Quote:** “Yes, I suppose so.” (y2v11 p.30)
+
 ### Shinohara Satsuki
 
-`tier 3 · 560 mentions · 6 quoted lines · 15 scene(s)`
+`tier 3 · 567 mentions · 6 quoted lines · 15 scene(s)`
 
 - **Aliases:** Shinohara, Shinohara Satsuki, Satsuki
 - **Spoken in:** y1v3, y1v5, y1v7.5, y1v11.5, y2v2, y2v3, y2v5, y2v6, y2v9.5, y3v1
-- **Gap queue (mentioned, no attributed line):** y1v4, y1v4.5, y1v7, y1v8, y1v9, y1v10, y1v11, y2v4, y2v4.5, y2v7, y2v8, y2v9, y2v10, y2v11, y2v12, y2v12.5
+- **Gap queue (mentioned, no attributed line):** y1v4, y1v4.5, y1v7, y1v8, y1v9, y1v10, y1v11, y2v4, y2v4.5, y2v7, y2v8, y2v9, y2v10, y2v11, y2v12, y2v12.5, y3v2, y3v3
 - **Claim:** “Shinohara was the first to object.” (y1v5 p.40)
 - **Claim:** “Shinohara Satsuki was the first target of the myriad of spears aimed at the large number of girls.” (y2v5 p.206)
 - **Claim:** “Shinohara was the first to counter Horikita’s words.” (y2v6 p.41)
@@ -378,11 +393,11 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 
 ### Miyake Akito
 
-`tier 3 · 527 mentions · 6 quoted lines · 63 scene(s)`
+`tier 3 · 532 mentions · 6 quoted lines · 63 scene(s)`
 
 - **Aliases:** Miyake, Miyake Akito, Akito, Miyatchi, Miyaki, miyacchi, miyachi
 - **Spoken in:** y1v5, y1v6, y1v7, y1v8, y1v9, y1v10, y1v11, y2v4.5, y2v6, y2v7, y3v1
-- **Gap queue (mentioned, no attributed line):** y1v3, y1v11.5, y2v1, y2v2, y2v3, y2v5, y2v8, y2v10, y2v12
+- **Gap queue (mentioned, no attributed line):** y1v3, y1v11.5, y2v1, y2v2, y2v3, y2v5, y2v8, y2v10, y2v12, y3v2, y3v3
 - **Claim:** “Akito was the quick-witted one in our group.” (y1v7 p.50)
 - **Claim:** “Miyake was an honor student, and Norihito wasn’t.” (y2v12 p.121)
 - **Quote:** “You will, Ayanokouji?” (y1v5 p.182)
@@ -392,20 +407,20 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Quote:** “We don’t know whether or not that person exists,” (y1v7 p.51)
 - **Quote:** “A LLOW ME to suggest something. The problem we’re facing right now is Ryuuen. We’re fighting over which group to put him in, right? In that case, I’d be willing to act as a group’s representative in exchange for that …” (y1v8 p.50)
 
-### Yamamura Miki
+### Morishita Ai
 
-`tier 3 · 477 mentions · 6 quoted lines · 13 scene(s)`
+`tier 3 · 475 mentions · 6 quoted lines · 11 scene(s)`
 
-- **Aliases:** Yamamura, Yamamura Miki, Miki
-- **Spoken in:** y2v8, y2v9.5, y2v11, y2v12.5
-- **Gap queue (mentioned, no attributed line):** y1v11, y2v4, y2v4.5, y2v10, y2v12, y3v1
-- **Claim:** “Yamamura was a student from Class A and a friend of Sakayanagi.” (y2v9.5 p.129)
-- **Quote:** “The only ones left are Kitō and Yamamura,” (y2v8 p.50)
-- **Quote:** “I don't like myself at all. It's impossible.” (y2v8 p.102)
-- **Quote:** “Ah, it seems so.” (y2v8 p.165)
-- **Quote:** “I can't right now, but... I'll think about it for a bit.” (y2v8 p.169)
-- **Quote:** “It's not like that...” (y2v9.5 p.130)
-- **Quote:** “Yes, I suppose so.” (y2v11 p.30)
+- **Aliases:** Ai, Morishita
+- **Spoken in:** y2v9.5, y2v10, y2v11, y2v12.5, y3v1, y3v3
+- **Gap queue (mentioned, no attributed line):** y2v5, y2v12, y3v2
+- **Notes:** P1 shell merge: keys morishita, ai (family+given shells of one person) | [P2-band10]
+- **Quote:** “It's too conspicuous here. Let's change the place a bit.” (y2v9.5 p.178)
+- **Quote:** “Is that so? I didn't notice...” (y2v9.5 p.192)
+- **Quote:** “I thought I would excel even if I was inexperienced, given my talent. After all, it was not a confirmation of whether I was good at it or not, but a one-to-five evaluation of whether I had confidence, right? So, it's …” (y2v11 p.136)
+- **Quote:** “The alliance with Ichinose Honami's class… So you were serious.” (y3v1 p.57)
+- **Quote:** “Is it really okay to let someone who might betray us in on our strategy?” (y3v1 p.111)
+- **Quote:** “Was there something about those first-year students?” (y3v1 p.120)
 
 ### Kamuro Masumi
 
@@ -423,24 +438,39 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 
 ### Kitou Hayato
 
-`tier 3 · 391 mentions · 5 quoted lines · 4 scene(s)`
+`tier 3 · 422 mentions · 6 quoted lines · 5 scene(s)`
 
 - **Aliases:** Kitou, Kitou Hayato, Hayato
-- **Spoken in:** y1v7, y1v9, y2v8, y2v12
-- **Gap queue (mentioned, no attributed line):** y1v10, y1v11, y1v11.5, y2v1, y2v2, y2v3, y2v4, y2v4.5, y2v6, y2v9, y2v9.5, y2v10, y2v11, y2v12.5, y3v1
+- **Spoken in:** y1v7, y1v9, y2v8, y2v12, y3v2
+- **Gap queue (mentioned, no attributed line):** y1v10, y1v11, y1v11.5, y2v1, y2v2, y2v3, y2v4, y2v4.5, y2v6, y2v9, y2v9.5, y2v10, y2v11, y2v12.5, y3v1, y3v3
 - **Quote:** “Knock it off, Kouenji,” (y1v7 p.116)
 - **Quote:** “Allow me to correct this boy’s behavior,” (y1v7 p.116)
 - **Quote:** “You sure… you aren’t misunderstanding something there, right?” (y1v9 p.164)
 - **Quote:** “Ayanokōji, if you have a weakness, feel free to tell me.” (y2v8 p.113)
 - **Quote:** “Not at all. It’s true that I’m here to defeat you, but unlike Kitō, I don’t intend to fight with my personal feelings at the forefront. This is a team battle.” (y2v12 p.130)
+- **Quote:** “I have no interest in other people's OAA ratings.” (y3v2 p.58)
+
+### Wang Mei-Yu
+
+`tier 3 · 394 mentions · 6 quoted lines · 14 scene(s)`
+
+- **Aliases:** Wang, Wang Mei-Yu, Mei-Yu, mei, Wan, Mii
+- **Spoken in:** y1v9, y1v10, y1v11, y1v11.5, y2v6, y2v7, y2v9.5, y2v10
+- **Gap queue (mentioned, no attributed line):** y1v3, y1v8, y2v1, y2v2, y2v4.5, y2v5, y2v8, y2v9, y2v11, y2v12.5, y3v1, y3v2, y3v3
+- **Quote:** “By the way, are the two of you… friends?” (y1v9 p.64)
+- **Quote:** “I don’t want that, but… but if hating me makes Hirata-kun feel like he isn’t alone, even if it’s just a little… even if he hates me forever… then I’m fine with being hated!” (y1v11 p.150)
+- **Quote:** “No, I am all right. Thank you very much for your concern.” (y2v6 p.155)
+- **Quote:** “What do you think, Satō-san?” (y2v7 p.15)
+- **Quote:** “Hard to deal with? Why?” (y2v9.5 p.68)
+- **Quote:** “Please tell me.” (y2v10 p.63)
 
 ### Kiryuin Fuuka
 
-`tier 3 · 384 mentions · 6 quoted lines · 11 scene(s)`
+`tier 3 · 383 mentions · 6 quoted lines · 11 scene(s)`
 
 - **Aliases:** Kiryuin, Kiryuin Fuuka, Fuuka
 - **Spoken in:** y2v2, y2v4.5, y2v9, y2v9.5
-- **Gap queue (mentioned, no attributed line):** y0, y2v3, y2v4, y2v6, y2v7, y2v11, y2v12
+- **Gap queue (mentioned, no attributed line):** y2v3, y2v4, y2v6, y2v7, y2v11, y2v12
 - **Notes:** seed: Class 2-B | corpus surname hits 153 | [P2-info] 3rd-year Class B in Y2 era (Y2V9.5; Fuuka SS Y2V4.5) — seed roster line is her Y1 2-B placement | [P2-band]
 - **Claim:** “Kiryuuin was a very perceptive person, and depending on how well I did, She might get involved.” (y2v9 p.78)
 - **Claim:** “Kiryūin was the leader of the group.” (y2v11 p.46)
@@ -450,20 +480,6 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Quote:** “I refuse.” (y2v9 p.30)
 - **Quote:** “Don't hold up the matter any longer. The conversation with Ayanokouji ended with Ichinose's refusal. I think it's best to back off and get the Kiryuuin thing out of the way as soon as possible.” (y2v9 p.37)
 - **Quote:** “Let Nagumo decide the punishment for Kiriyama. That’ll be enough for punishment.” (y2v9 p.192)
-
-### Wang Mei-Yu
-
-`tier 3 · 383 mentions · 6 quoted lines · 14 scene(s)`
-
-- **Aliases:** Wang, Wang Mei-Yu, Mei-Yu, mei, Wan, Mii
-- **Spoken in:** y1v9, y1v10, y1v11, y1v11.5, y2v6, y2v7, y2v9.5, y2v10
-- **Gap queue (mentioned, no attributed line):** y1v3, y1v8, y2v1, y2v2, y2v4.5, y2v5, y2v8, y2v9, y2v11, y2v12.5, y3v1
-- **Quote:** “By the way, are the two of you… friends?” (y1v9 p.64)
-- **Quote:** “I don’t want that, but… but if hating me makes Hirata-kun feel like he isn’t alone, even if it’s just a little… even if he hates me forever… then I’m fine with being hated!” (y1v11 p.150)
-- **Quote:** “No, I am all right. Thank you very much for your concern.” (y2v6 p.155)
-- **Quote:** “What do you think, Satō-san?” (y2v7 p.15)
-- **Quote:** “Hard to deal with? Why?” (y2v9.5 p.68)
-- **Quote:** “Please tell me.” (y2v10 p.63)
 
 ### Kiriyama Ikuto
 
@@ -481,28 +497,27 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Quote:** “You know what I mean, Kouenji. You've got too many points.” (y2v4 p.101)
 - **Quote:** “So, you're willing to play as long as I add that condition, is that it?” (y2v9 p.24)
 
-### Morishita Ai
+### Shiraishi Asuka
 
-`tier 3 · 352 mentions · 6 quoted lines · 10 scene(s)`
+`tier 3 · 355 mentions · 6 quoted lines · 10 scene(s)`
 
-- **Aliases:** Ai, Morishita
-- **Spoken in:** y2v9.5, y2v10, y2v11, y2v12.5, y3v1
-- **Gap queue (mentioned, no attributed line):** y2v5, y2v12
-- **Notes:** P1 shell merge: keys morishita, ai (family+given shells of one person) | [P2-band10]
-- **Quote:** “It's too conspicuous here. Let's change the place a bit.” (y2v9.5 p.178)
-- **Quote:** “Though it's true that many students in Class A are on guard against Class B, just like how your class, led by yourself, has been aiming to take down Class A. I found that interesting.” (y2v9.5 p.180)
-- **Quote:** “Now, release your hands.” (y2v10 p.195)
-- **Quote:** “Ye-yes. Um, please come to the back of the dorm, ah, stop messing with my phone—” (y2v12.5 p.211)
-- **Quote:** “A tightly bound contract can sometimes be a fatal blow.” (y3v1 p.62)
-- **Quote:** “Your trust in Hashimoto is pretty thin, huh?” (y3v1 p.111)
+- **Aliases:** Shiraishi, Asuka
+- **Spoken in:** y3v1, y3v2
+- **Gap queue (mentioned, no attributed line):** y3v3
+- **Quote:** “Of course, I understand that. But that's to save us. No one has explained how this would benefit you, Ayanokouji-kun. I've heard rumors that you received a large number of Private Points behind the scenes or that you'…” (y3v1 p.80)
+- **Quote:** “Yoshida-kun's quite simple, isn't he?” (y3v1 p.83)
+- **Quote:** “Cute.” (y3v1 p.161)
+- **Quote:** “I think it's better if we don't, Hashimoto-kun. Seems like she's quite sensitive to people's presence.” (y3v1 p.247)
+- **Quote:** “I can't believe you'd choose to drop to a lower class after finally making it to Class A.” (y3v1 p.260)
+- **Quote:** “I suppose so. But it can't be helped, can it? Through an ironic twist of fate, he and I ended up in the same class. By chance, we ended up in adjacent seats. And by chance, an opportunity arose for the two of us to sp…” (y3v2 p.229)
 
 ### Matsushita Chiaki
 
-`tier 3 · 302 mentions · 6 quoted lines · 12 scene(s)`
+`tier 3 · 315 mentions · 6 quoted lines · 12 scene(s)`
 
 - **Aliases:** Matsushita, Matsushita Chiaki, Chiaki, Matushita
 - **Spoken in:** y1v7.5, y1v11.5, y2v5, y2v7, y2v9.5, y2v12, y2v12.5
-- **Gap queue (mentioned, no attributed line):** y1v1, y1v4, y1v11, y2v1, y2v2, y2v4.5, y2v6, y2v8, y2v10, y3v1
+- **Gap queue (mentioned, no attributed line):** y1v1, y1v4, y1v11, y2v1, y2v2, y2v4.5, y2v6, y2v8, y2v10, y3v1, y3v2, y3v3
 - **Quote:** “Well, we weren’t able to get ourselves boyfriends before Christmas, huh?” (y1v7.5 p.65)
 - **Quote:** “Since we’ve done nothing but fight with the other classes, we haven’t had any free time to make friends. Maybe it’s better to try going out with the seniors, you know? Though a university student would be even better,” (y1v7.5 p.65)
 - **Quote:** “But... Oh, I don’t mean to say anything bad about the current idea, but I think some people will be reluctant to do anything if they have to pay for it themselves.” (y2v5 p.18)
@@ -510,28 +525,13 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Quote:** “Since I’m supposedly being tested, I’ll answer seriously. I remember that time well. Indeed, there were things that bothered me. The topics of the discussion and the members felt off.” (y2v12 p.47)
 - **Quote:** “We understand our victory conditions, but... the victory conditions for the representatives are more important, aren’t they? What are they?” (y2v12 p.87)
 
-### Amikura Mako
-
-`tier 3 · 268 mentions · 6 quoted lines · 14 scene(s)`
-
-- **Aliases:** Amikura, Amikura Mako, Mako
-- **Spoken in:** y1v11.75, y2v8, y2v9, y2v10.25, y2v12.5, y3v1
-- **Gap queue (mentioned, no attributed line):** y1v8, y1v9, y2v2, y2v4.5, y2v9.5, y2v10, y2v12
-- **Claim:** “Amikura was the first to arrive and greeted them as they joined.” (y2v12.5 p.177)
-- **Quote:** “Honami-chan, are you feeling well? Are you okay?” (y1v11.75 p.15)
-- **Quote:** “This is still… a pillow fight, right?” (y2v8 p.85)
-- **Quote:** “However... this isn’t really recent, but I don't know what to say, she hasn’t been in good spirits since the end of the desert island test. The reason is... I don't think it's so much about Class A.” (y2v9 p.89)
-- **Quote:** “Having more opportunities is a benefit. However... there may also be downsides. Because Amikura-san and the others are regularly around Ichinose-san, they may also be more easily guarded against and unable to get clos…” (y2v9 p.98)
-- **Quote:** “Right around that time, a little incident happened in the class… Oh, but keep this story between us, okay? Don’t tell Honami-chan.” (y2v10.25 p.3)
-- **Quote:** “That’s totally fine... but are you really okay now?” (y2v12.5 p.183)
-
 ### Komiya Kyogo
 
-`tier 3 · 264 mentions · 6 quoted lines · 8 scene(s)`
+`tier 3 · 291 mentions · 6 quoted lines · 8 scene(s)`
 
 - **Aliases:** Komiya, Komiya Kyogo, Kyogo
 - **Spoken in:** y1v7.5, y2v2, y2v3, y2v4.5, y2v9
-- **Gap queue (mentioned, no attributed line):** y1v2, y1v3, y1v5, y1v6, y1v7, y1v10, y1v11, y2v4, y2v5, y2v7, y2v12, y3v1
+- **Gap queue (mentioned, no attributed line):** y1v2, y1v3, y1v5, y1v6, y1v7, y1v10, y1v11, y2v4, y2v5, y2v7, y2v12, y3v1, y3v2, y3v3
 - **Quote:** “About earlier…did you really get into it with Ryuuen-san? For real?” (y1v7.5 p.54)
 - **Quote:** “Yo! Are you finally thinking to group up with us!?” (y2v2 p.187)
 - **Quote:** “If it was this time last year, well, that would’ve been unthinkable.” (y2v4.5 p.29)
@@ -539,13 +539,28 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Quote:** “If you make Satsuki cry, I’ll show you no mercy.” (y2v4.5 p.32)
 - **Quote:** “No way. If I had to watch those two flirting, I think I might just cry.” (y2v4.5 p.34)
 
+### Amikura Mako
+
+`tier 3 · 282 mentions · 6 quoted lines · 15 scene(s)`
+
+- **Aliases:** Amikura, Amikura Mako, Mako
+- **Spoken in:** y1v11.75, y2v8, y2v9, y2v10.25, y2v12.5, y3v1, y3v2
+- **Gap queue (mentioned, no attributed line):** y1v8, y1v9, y2v2, y2v4.5, y2v9.5, y2v10, y2v12, y3v3
+- **Claim:** “Amikura was the first to arrive and greeted them as they joined.” (y2v12.5 p.177)
+- **Quote:** “Honami-chan, are you feeling well? Are you okay?” (y1v11.75 p.15)
+- **Quote:** “This is still… a pillow fight, right?” (y2v8 p.85)
+- **Quote:** “However... this isn’t really recent, but I don't know what to say, she hasn’t been in good spirits since the end of the desert island test. The reason is... I don't think it's so much about Class A.” (y2v9 p.89)
+- **Quote:** “Having more opportunities is a benefit. However... there may also be downsides. Because Amikura-san and the others are regularly around Ichinose-san, they may also be more easily guarded against and unable to get clos…” (y2v9 p.98)
+- **Quote:** “I’m telling you this because… I don’t want you to make Honami-chan sad or hurt her.” (y2v10.25 p.7)
+- **Quote:** “I'm telling you this because… I don't want you to make Honami-chan sad or hurt her.” (y3v1 p.282)
+
 ### Watanabe Norihito
 
-`tier 3 · 257 mentions · 6 quoted lines · 16 scene(s)`
+`tier 3 · 274 mentions · 6 quoted lines · 16 scene(s)`
 
 - **Aliases:** Watanabe, Watanabe Norihito, Norihito
 - **Spoken in:** y2v8, y2v9, y2v10
-- **Gap queue (mentioned, no attributed line):** y1v4, y1v11, y2v12, y2v12.5
+- **Gap queue (mentioned, no attributed line):** y1v4, y1v11, y2v12, y2v12.5, y3v2, y3v3
 - **Notes:** seed: Class 1-B | corpus surname hits 230 | [P2-band]
 - **Quote:** “I don't care, which one do you prefer? Either is fine with me, just sit with whomever you like,” (y2v8 p.51)
 - **Quote:** “Really?... I don't know myself, but...” (y2v8 p.69)
@@ -554,25 +569,23 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Quote:** “...Right.” (y2v9 p.82)
 - **Quote:** “No, she would know. If Amikura liked someone or was dating someone, Ichinose would definitely know.” (y2v9 p.104)
 
-### Yamada Albert
+### Utomiya Riku
 
-`tier 3 · 247 mentions · 2 quoted lines · 2 scene(s)`
+`tier 3 · 254 mentions · 2 quoted lines · 2 scene(s)`
 
-- **Aliases:** Yamada, Yamada Albert, Albert
-- **Spoken in:** y1v8, y2v6
-- **Gap queue (mentioned, no attributed line):** y1v5, y1v6, y1v7, y1v7.5, y1v9, y1v10, y1v11, y1v11.5, y2v1, y2v2, y2v3, y2v4, y2v4.5, y2v5, y2v7, y2v8, y2v9, y2v9.5, y2v11, y2v12, y2v12.5, y3v1
-- **Notes:** seed: Class 1-C | corpus surname hits 23 | [P2-band]
-- **Claim:** “Albert was the first to grasp the reality of the situation.” (y1v7 p.179)
-- **Quote:** “Oh, my God,” (y1v8 p.137)
-- **Quote:** “Can we return to the store now?” (y2v6 p.230)
+- **Aliases:** Utomiya, Utomiya Riku, Riku
+- **Spoken in:** y2v2, y3v2
+- **Gap queue (mentioned, no attributed line):** y2v1, y2v3, y2v4, y2v4.5, y2v7, y2v11, y2v12, y3v1
+- **Quote:** “Do you think Hosen will come?” (y2v2 p.222)
+- **Quote:** “We are not dating.” (y3v2 p.258)
 
 ### Hasebe Haruka
 
-`tier 3 · 239 mentions · 6 quoted lines · 24 scene(s)`
+`tier 3 · 253 mentions · 6 quoted lines · 24 scene(s)`
 
 - **Aliases:** Hasebe, Hasebe Haruka
 - **Spoken in:** y1v6, y2v6
-- **Gap queue (mentioned, no attributed line):** y1v1, y1v7, y1v7.5, y2v2, y2v4.5, y2v5, y2v7, y2v9.5, y2v10, y2v12, y3v1
+- **Gap queue (mentioned, no attributed line):** y1v1, y1v7, y1v7.5, y2v2, y2v4.5, y2v5, y2v7, y2v9.5, y2v10, y2v12, y3v1, y3v2
 - **Quote:** “Yeah, I know,” (y1v6 p.86)
 - **Quote:** “Miyacchi and I are both independent people. We don’t really fit in with everyone else,” (y1v6 p.94)
 - **Quote:** “Yeah. Okay.” (y1v6 p.102)
@@ -582,17 +595,49 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 
 ### Naoe
 
-`tier 3 · 238 mentions · 6 quoted lines · 7 scene(s)`
+`tier 3 · 251 mentions · 0 quoted lines · 0 scene(s)`
 
 - **Aliases:** Naoe, Jinnosuke
-- **Spoken in:** y0
-- **Gap queue (mentioned, no attributed line):** y2v8, y2v12.5
-- **Quote:** “Let me ask you guys. What kind of politician is superior? Kamogawa, answer me.” (y0 p.21)
-- **Quote:** “That's a fair question. Can you answer that, Ayanokouji?” (y0 p.24)
-- **Quote:** “And if this plan works, of course the political and business worlds will be very interested.” (y0 p.24)
-- **Quote:** “Before you do that, I need to talk to you,” (y0 p.166)
-- **Quote:** “As for the next election, I've decided not to run.” (y0 p.166)
-- **Quote:** “I had no intention of making him prime minister, but that's no longer the case,” (y0 p.167)
+- **Mentions:** y0 ×247, y2v12.5 ×3, y2v8 ×1
+- **Mention evidence:** “…expanding "ambition." Atsuomi had been doing dirty work for Jinnosuke Naoe, the head of the Naoe faction that he was a part of. As a chance to reward all the hard work that he had done, Naoe offers him a…” (y0 p.9)
+- **Mention evidence:** “…ened my presence within the party. Eventually, as a secret blade for 'Naoe-sensei,' who controlled many factions within the Citizens' Party, I unhesitatingly delved into any wrongdoing— facilitating under…” (y0 p.12)
+
+### Yamada Albert
+
+`tier 3 · 250 mentions · 2 quoted lines · 2 scene(s)`
+
+- **Aliases:** Yamada, Yamada Albert, Albert
+- **Spoken in:** y1v8, y2v6
+- **Gap queue (mentioned, no attributed line):** y1v5, y1v6, y1v7, y1v7.5, y1v9, y1v10, y1v11, y1v11.5, y2v1, y2v2, y2v3, y2v4, y2v4.5, y2v5, y2v7, y2v8, y2v9, y2v9.5, y2v11, y2v12, y2v12.5, y3v1, y3v2
+- **Notes:** seed: Class 1-C | corpus surname hits 23 | [P2-band]
+- **Claim:** “Albert was the first to grasp the reality of the situation.” (y1v7 p.179)
+- **Quote:** “Oh, my God,” (y1v8 p.137)
+- **Quote:** “Can we return to the store now?” (y2v6 p.230)
+
+### Himeno Yuki
+
+`tier 3 · 240 mentions · 6 quoted lines · 6 scene(s)`
+
+- **Aliases:** Yuki, Himeno
+- **Spoken in:** y2v4.5, y2v5, y2v7, y2v9
+- **Gap queue (mentioned, no attributed line):** y0, y2v6, y2v8, y2v10, y2v12, y2v12.5, y3v1, y3v2, y3v3
+- **Notes:** P1 shell promotion: 2nd-Yr Class B / Ichinose class: full name 'Himeno Yuki' (Y2V4.5 OAA 'Second-Year Class B Himeno Yuki'; Y2V6 'Himeno-san from Ichinose-san's class'; Y3V1 'Himeno Yuki — 69 pts' vs Sudou). Y2V12 first-discussion roster header '2nd Year Class D' over her name is swapped — same block files undisputed 2-D Sudou/Miyake/Matsushita/Onodera/Nishimura/Ichihashi under 'Class B' — P2 | [P2-band10]
+- **Quote:** “My headache is getting worse though?” (y2v4.5 p.68)
+- **Quote:** “Ah───── Okay, now it’s your turn, Himeno.” (y2v4.5 p.70)
+- **Quote:** “Let’s do our best together, Kanzaki-kun.” (y2v5 p.138)
+- **Quote:** “But if we don't do it now, there's no way we will be able to, no matter how we think about it! It can't be done!” (y2v7 p.68)
+- **Quote:** “What? I thought you were the one who went home.” (y2v9 p.109)
+- **Quote:** “So you're on your way home now?” (y2v9 p.111)
+
+### Tokitou Hiroya
+
+`tier 3 · 237 mentions · 0 quoted lines · 0 scene(s)`
+
+- **Aliases:** Tokitou, Tokitou Hiroya, Hiroya
+- **Mentions:** y2v12 ×53, y2v5 ×52, y2v11 ×52, y2v4.5 ×40, y2v8 ×9, y2v10 ×9, y3v2 ×7, y3v1 ×6 (+2 more vols)
+- **Mention evidence:** “…“That’s Morimiya-kun, from Class A. And that one near the elevator is Tokitou-kun, from Class C.” Just how I’d expect a well-connected person to respond. I burned the names and faces of the students into my…” (y1v4 p.54)
+- **Mention evidence:** “…Kenta CLASS B: Kobashi Yume, Ninomiya Yui, Watanabe Norihito CLASS C: Tokitou Hiroya, Nomura Yuuji, Yashima Mariko CLASS D: Ike Kanji, Sakura Airi, Sudou Ken, Matsushita Chiaki It looked like the other Clas…” (y1v4 p.100)
+- **Notes:** seed: Class 1-C | corpus surname hits 13 | [P2-band]
 
 ### Manabe Shiho
 
@@ -610,47 +655,13 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Quote:** “Still acting tough. You’re a real piece of work, aren’t you? But I think I understand now, more or less,” (y1v4 p.190)
 - **Quote:** “Are you nuts? We don’t get anything out of this!” (y1v4 p.222)
 
-### Tokitou Hiroya
-
-`tier 3 · 230 mentions · 0 quoted lines · 0 scene(s)`
-
-- **Aliases:** Tokitou, Tokitou Hiroya, Hiroya
-- **Mentions:** y2v12 ×53, y2v5 ×52, y2v11 ×52, y2v4.5 ×40, y2v8 ×9, y2v10 ×9, y3v1 ×6, y1v8 ×5 (+1 more vols)
-- **Mention evidence:** “…“That’s Morimiya-kun, from Class A. And that one near the elevator is Tokitou-kun, from Class C.” Just how I’d expect a well-connected person to respond. I burned the names and faces of the students into my…” (y1v4 p.54)
-- **Mention evidence:** “…Kenta CLASS B: Kobashi Yume, Ninomiya Yui, Watanabe Norihito CLASS C: Tokitou Hiroya, Nomura Yuuji, Yashima Mariko CLASS D: Ike Kanji, Sakura Airi, Sudou Ken, Matsushita Chiaki It looked like the other Clas…” (y1v4 p.100)
-- **Notes:** seed: Class 1-C | corpus surname hits 13 | [P2-band]
-
-### Utomiya Riku
-
-`tier 3 · 230 mentions · 1 quoted lines · 1 scene(s)`
-
-- **Aliases:** Utomiya, Utomiya Riku, Riku
-- **Spoken in:** y2v2
-- **Gap queue (mentioned, no attributed line):** y2v1, y2v3, y2v4, y2v4.5, y2v7, y2v11, y2v12, y3v1
-- **Quote:** “Do you think Hosen will come?” (y2v2 p.222)
-
-### Himeno Yuki
-
-`tier 3 · 229 mentions · 6 quoted lines · 6 scene(s)`
-
-- **Aliases:** Yuki, Himeno
-- **Spoken in:** y2v4.5, y2v5, y2v7, y2v9
-- **Gap queue (mentioned, no attributed line):** y0, y2v6, y2v8, y2v10, y2v12, y2v12.5, y3v1
-- **Notes:** P1 shell promotion: 2nd-Yr Class B / Ichinose class: full name 'Himeno Yuki' (Y2V4.5 OAA 'Second-Year Class B Himeno Yuki'; Y2V6 'Himeno-san from Ichinose-san's class'; Y3V1 'Himeno Yuki — 69 pts' vs Sudou). Y2V12 first-discussion roster header '2nd Year Class D' over her name is swapped — same block files undisputed 2-D Sudou/Miyake/Matsushita/Onodera/Nishimura/Ichihashi under 'Class B' — P2 | [P2-band10]
-- **Quote:** “My headache is getting worse though?” (y2v4.5 p.68)
-- **Quote:** “Ah───── Okay, now it’s your turn, Himeno.” (y2v4.5 p.70)
-- **Quote:** “Let’s do our best together, Kanzaki-kun.” (y2v5 p.138)
-- **Quote:** “But if we don't do it now, there's no way we will be able to, no matter how we think about it! It can't be done!” (y2v7 p.68)
-- **Quote:** “What? I thought you were the one who went home.” (y2v9 p.109)
-- **Quote:** “So you're on your way home now?” (y2v9 p.111)
-
 ### Maezono
 
-`tier 3 · 224 mentions · 6 quoted lines · 13 scene(s)`
+`tier 3 · 227 mentions · 6 quoted lines · 13 scene(s)`
 
 - **Aliases:** Maezono
 - **Spoken in:** y1v4.5, y1v9, y2v7, y2v9.5, y2v10, y2v12
-- **Gap queue (mentioned, no attributed line):** y1v4, y1v5, y2v2, y2v5, y2v6, y2v12.5, y3v1
+- **Gap queue (mentioned, no attributed line):** y1v4, y1v5, y2v2, y2v5, y2v6, y2v12.5, y3v1, y3v2
 - **Quote:** “Kushida-san, you forgot something!” (y1v4.5 p.125)
 - **Quote:** “I guess the second floor is better than the third floor! More to the point, the first floor would be ideal,” (y2v7 p.16)
 - **Quote:** “Seems like it.” (y2v9.5 p.67)
@@ -660,32 +671,74 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 
 ### Tokitou Katsumi
 
-`tier 3 · 214 mentions · 0 quoted lines · 0 scene(s)`
+`tier 3 · 221 mentions · 0 quoted lines · 0 scene(s)`
 
 - **Aliases:** Tokitou, Katsumi
-- **Mentions:** y2v5 ×52, y2v11 ×52, y2v12 ×51, y2v4.5 ×33, y2v8 ×7, y3v1 ×6, y1v8 ×5, y2v10 ×5 (+2 more vols)
+- **Mentions:** y2v5 ×52, y2v11 ×52, y2v12 ×51, y2v4.5 ×33, y2v8 ×7, y3v2 ×7, y3v1 ×6, y1v8 ×5 (+3 more vols)
 - **Mention evidence:** “…“That’s Morimiya-kun, from Class A. And that one near the elevator is Tokitou-kun, from Class C.” Just how I’d expect a well-connected person to respond. I burned the names and faces of the students into my…” (y1v4 p.54)
 - **Mention evidence:** “…Kenta CLASS B: Kobashi Yume, Ninomiya Yui, Watanabe Norihito CLASS C: Tokitou Hiroya, Nomura Yuuji, Yashima Mariko CLASS D: Ike Kanji, Sakura Airi, Sudou Ken, Matsushita Chiaki It looked like the other Clas…” (y1v4 p.100)
 - **Notes:** seed bare 'Tokitou' (1-B); given from Y2V4.5 Ichinose-classmate context | [P2-band]
 
+### Shimazaki Ikkei
+
+`tier 3 · 213 mentions · 4 quoted lines · 4 scene(s)`
+
+- **Aliases:** Shimazaki, Shimazaki Ikkei, Ikkei
+- **Spoken in:** y3v2
+- **Gap queue (mentioned, no attributed line):** y1v11, y2v1, y2v3, y2v12, y3v1, y3v3
+- **Notes:** seed: Class 1-A | corpus surname hits 55 | [P2-band]
+- **Quote:** “It's fine, Yoshida. It's only natural that he wouldn't be so willing to teach me this easily,” (y3v2 p.18)
+- **Quote:** “I don't think it's necessarily your last chance, but...” (y3v2 p.21)
+- **Quote:** “You'd normally go for cost-performance. If it's only a 20-point difference, just buy the 500 ml one without thinking.” (y3v2 p.29)
+- **Quote:** “I think so, too. In which case, another hypothesis comes to mind, right?” (y3v2 p.31)
+
 ### Onodera Kayano
 
-`tier 3 · 194 mentions · 3 quoted lines · 3 scene(s)`
+`tier 3 · 208 mentions · 3 quoted lines · 3 scene(s)`
 
 - **Aliases:** Onodera, Onodera Kayano, Kayano
 - **Spoken in:** y2v6, y2v7, y2v9.5
-- **Gap queue (mentioned, no attributed line):** y1v1, y1v5, y1v6, y1v8, y1v9, y1v11, y2v3, y2v5, y2v8, y2v10, y2v11, y2v12, y2v12.5, y3v1
+- **Gap queue (mentioned, no attributed line):** y1v1, y1v5, y1v6, y1v8, y1v9, y1v11, y2v3, y2v5, y2v8, y2v10, y2v11, y2v12, y2v12.5, y3v1, y3v2, y3v3
 - **Quote:** “Okay!” (y2v6 p.287)
 - **Quote:** “We're done here, too,” (y2v7 p.99)
 - **Quote:** “Yeah, I agree,” (y2v9.5 p.78)
 
+### Yoshida Kenta
+
+`tier 3 · 206 mentions · 6 quoted lines · 6 scene(s)`
+
+- **Aliases:** Yoshida, Yoshida Kenta, Kenta, yoshi
+- **Spoken in:** y3v1, y3v2
+- **Gap queue (mentioned, no attributed line):** y1v4, y1v11, y2v7, y2v10, y2v12, y3v3
+- **Notes:** seed: Class 1-A | corpus surname hits 52 | [P2-band]
+- **Quote:** “Sorry, but I'm against it.” (y3v1 p.46)
+- **Quote:** “I agree too. He hasn't done anything yet, and there's even a possibility that he's a spy, so I don't feel like putting on a forced smile and having a welcome party.” (y3v1 p.46)
+- **Quote:** “Well, I did feel a bit bad for refusing the welcome party. It must've taken a lot of courage to transfer to a class that was an enemy until recently. Since it is a new class, you need some support, right? So, when sho…” (y3v1 p.83)
+- **Quote:** “Let's start singing right away.” (y3v1 p.152)
+- **Quote:** “Studying is important, but I wanna take romance seriously, too. We don't even have a year of high school left, you know? You think I can waste my last chance to have a romance with a high school girl?” (y3v2 p.21)
+- **Quote:** “Don't worry about someone like Morishita. Come on, let's go.” (y3v2 p.53)
+
+### Kaneda Satoru
+
+`tier 3 · 187 mentions · 6 quoted lines · 12 scene(s)`
+
+- **Aliases:** Kaneda, Kaneda Satoru
+- **Spoken in:** y1v6, y1v7.5, y1v8, y2v5, y2v7, y2v9, y2v10, y3v2
+- **Gap queue (mentioned, no attributed line):** y1v3, y1v7, y1v10, y1v11, y1v11.5, y2v2, y2v3, y2v4.5, y2v8, y2v11, y2v12, y3v1, y3v3
+- **Quote:** “So, by letting you get that far, this person turned the audio file into incriminating material?” (y1v6 p.68)
+- **Quote:** “So, that means it’s either Yukimura-shi or Ayanokouji-shi, right?” (y1v6 p.73)
+- **Quote:** “I don’t know. That’ll be up to Kaneda and Hiyori,” (y1v7.5 p.85)
+- **Quote:** “It’s certainly risky. However, this isn’t merely a question of academics. What do you think? I say we try to overthrow Class A here and now,” (y1v8 p.40)
+- **Quote:** “It is true that if the special exams fail, it is logical to nod that part of the responsibility lies with the leader. However, if the vote to expel the student by unanimous approval begins, it will definitely be you w…” (y2v5 p.159)
+- **Quote:** “However, I need to be careful not only behind but also in front and to the side. I can't trust you for free either, can I? Kaneda.” (y2v9 p.152)
+
 ### Nishino Takeko
 
-`tier 3 · 177 mentions · 3 quoted lines · 3 scene(s)`
+`tier 3 · 180 mentions · 3 quoted lines · 3 scene(s)`
 
 - **Aliases:** Nishino, Nishino Takeko, Takeko
 - **Spoken in:** y2v8
-- **Gap queue (mentioned, no attributed line):** y1v6, y1v8, y1v10, y2v2, y2v3, y2v4, y2v4.5, y2v5, y2v12
+- **Gap queue (mentioned, no attributed line):** y1v6, y1v8, y1v10, y2v2, y2v3, y2v4, y2v4.5, y2v5, y2v12, y3v3
 - **Notes:** seed: Class 1-C | corpus surname hits 166 | [P2-band]
 - **Quote:** “You know, we don't have time for this. We're busy, so can't we discuss things later? It's annoying.” (y2v8 p.87)
 - **Quote:** “I'm not sure about the advanced course either... so I'll do that.” (y2v8 p.103)
@@ -693,14 +746,15 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 
 ### Kinoshita Minori
 
-`tier 3 · 166 mentions · 3 quoted lines · 3 scene(s)`
+`tier 3 · 171 mentions · 4 quoted lines · 4 scene(s)`
 
 - **Aliases:** Kinoshita, Kinoshita Minori, Minori
-- **Spoken in:** y1v5
+- **Spoken in:** y1v5, y3v3
 - **Gap queue (mentioned, no attributed line):** y1v8, y2v2, y2v3, y2v4, y2v7, y2v12, y3v1
 - **Quote:** “I never called her name,” (y1v5 p.152)
 - **Quote:** “I can’t forgive Horikita-san for this. Now I have to take a break from track and field practice,” (y1v5 p.152)
 - **Quote:** “No, I can’t,” (y1v5 p.155)
+- **Quote:** “Guys are so dumb. To think they could find fighting with these things fun.” (y3v3 p.129)
 
 ### Tachibana Akane
 
@@ -734,6 +788,33 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Quote:** “Fine. If I have to go, I’ll go,” (y1v8 p.170)
 - **Quote:** “Well, yeah. Since our group’s a handful, we have no choice but to do our best. If we get a poor score, Katsuragi-san will be disappointed in us,” (y1v8 p.193)
 
+### Hondou Ryoutaro
+
+`tier 3 · 146 mentions · 4 quoted lines · 4 scene(s)`
+
+- **Aliases:** Hondou, Hondou Ryoutaro, Ryoutaro
+- **Spoken in:** y2v3, y3v3
+- **Gap queue (mentioned, no attributed line):** y1v1, y1v2, y1v5, y1v9, y1v10, y1v11, y2v2, y2v4.5, y2v5, y2v7, y2v8, y2v9, y2v9.5, y2v10, y2v11, y2v12, y2v12.5, y3v1, y3v2
+- **Notes:** seed: Class 1-D | corpus surname hits 20 | [P2-band]
+- **Quote:** “What do you think Ayanokōji?” (y2v3 p.102)
+- **Quote:** “B-but Kanji, like… You’re on bad terms with Shinohara right? You’re always talkin’ about how crazy ugly she is.” (y2v3 p.105)
+- **Quote:** “Eyy, attaboy Kanji!” (y2v3 p.108)
+- **Quote:** “Fire—!!” (y3v3 p.194)
+
+### Hamaguchi Tetsuya
+
+`tier 3 · 145 mentions · 6 quoted lines · 13 scene(s)`
+
+- **Aliases:** Hamaguchi, Hamaguchi Tetsuya, Tetsuya
+- **Spoken in:** y1v4, y2v12
+- **Gap queue (mentioned, no attributed line):** y2v3, y2v9, y2v10, y2v12.5, y3v2
+- **Quote:** “I agree, of course. We’re a group, and it’s only natural for us to cooperate,” (y1v4 p.82)
+- **Quote:** “I recommend that we don’t discuss things at all,” (y1v4 p.85)
+- **Quote:** “It’s certainly true that the school has made a point of emphasizing its commitment to fairness. If we believe that, then you’d be right,” (y1v4 p.87)
+- **Quote:** “No, we didn’t do much of anything. Well, shall we?” (y1v4 p.110)
+- **Quote:** “If Ayanokouji’s confirmed it, there’s no reason for me to refuse. I’m not the VIP,” (y1v4 p.153)
+- **Quote:** “For the past three days, I’ve been thinking of how we could achieve Outcome #1,” (y1v4 p.218)
+
 ### Asahina Nazuna
 
 `tier 3 · 141 mentions · 6 quoted lines · 6 scene(s)`
@@ -749,39 +830,23 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Quote:** “That's not going to happen. But there's nothing better than having lots of class points, you know. There are even quite a few of my classmates that are against Miyabi being hands-off this time.” (y2v7 p.38)
 - **Quote:** “In case you're wondering, Nagumo is saying that he’s going to let the nonA’s compete and pick one student from the class that takes first place,” (y2v7 p.38)
 
-### Hamaguchi Tetsuya
+### Ishigami Kyou
 
-`tier 3 · 141 mentions · 6 quoted lines · 13 scene(s)`
+`tier 3 · 140 mentions · 0 quoted lines · 0 scene(s)`
 
-- **Aliases:** Hamaguchi, Hamaguchi Tetsuya, Tetsuya
-- **Spoken in:** y1v4, y2v12
-- **Gap queue (mentioned, no attributed line):** y2v3, y2v9, y2v10, y2v12.5
-- **Quote:** “I agree, of course. We’re a group, and it’s only natural for us to cooperate,” (y1v4 p.82)
-- **Quote:** “I recommend that we don’t discuss things at all,” (y1v4 p.85)
-- **Quote:** “It’s certainly true that the school has made a point of emphasizing its commitment to fairness. If we believe that, then you’d be right,” (y1v4 p.87)
-- **Quote:** “No, we didn’t do much of anything. Well, shall we?” (y1v4 p.110)
-- **Quote:** “If Ayanokouji’s confirmed it, there’s no reason for me to refuse. I’m not the VIP,” (y1v4 p.153)
-- **Quote:** “For the past three days, I’ve been thinking of how we could achieve Outcome #1,” (y1v4 p.218)
-
-### Hondou Ryoutaro
-
-`tier 3 · 133 mentions · 3 quoted lines · 3 scene(s)`
-
-- **Aliases:** Hondou, Hondou Ryoutaro, Ryoutaro
-- **Spoken in:** y2v3
-- **Gap queue (mentioned, no attributed line):** y1v1, y1v2, y1v5, y1v9, y1v10, y1v11, y2v2, y2v4.5, y2v5, y2v7, y2v8, y2v9, y2v9.5, y2v10, y2v11, y2v12, y2v12.5, y3v1
-- **Notes:** seed: Class 1-D | corpus surname hits 20 | [P2-band]
-- **Quote:** “What do you think Ayanokōji?” (y2v3 p.102)
-- **Quote:** “B-but Kanji, like… You’re on bad terms with Shinohara right? You’re always talkin’ about how crazy ugly she is.” (y2v3 p.105)
-- **Quote:** “Eyy, attaboy Kanji!” (y2v3 p.108)
+- **Aliases:** Ishigami, Ishigami Kyou, Kyou
+- **Mentions:** y2v4.5 ×32, y2v8 ×32, y0 ×25, y3v2 ×21, y2v9 ×17, y1v6 ×4, y3v1 ×3, y2v2 ×2 (+4 more vols)
+- **Mention evidence:** “…just think it's true." The child faced the three without flinching. "Ishigami-kun…" "Sorry, Fuji, I was held up talking with my dad." "What!!" The child called Ishigami gently stroked the crying child's arm…” (y0 p.227)
+- **Mention evidence:** “…, unexpectedly, someone unexpected challenged the savior. "I'm sorry, Ishigami, but I think Fuji is lying." "What's your basis for thinking he's lying? Kanzaki-kun, you don't know much about Fuji, do you?" "T…” (y0 p.228)
+- **Notes:** seed: Part2-1-A | corpus surname hits 105 | [P2-band]
 
 ### Machida Kouji
 
-`tier 3 · 133 mentions · 6 quoted lines · 23 scene(s)`
+`tier 3 · 134 mentions · 6 quoted lines · 23 scene(s)`
 
 - **Aliases:** Machida, Machida Kouji, Kouji
 - **Spoken in:** y1v4, y2v12
-- **Gap queue (mentioned, no attributed line):** y1v11, y2v8, y2v10, y3v1
+- **Gap queue (mentioned, no attributed line):** y1v11, y2v8, y2v10, y3v1, y3v3
 - **Notes:** seed: Class 1-A | corpus surname hits 120 | [P2-band]
 - **Quote:** “Nothing to offer? That’s not the case at all,” (y1v4 p.84)
 - **Quote:** “Yes. The shortcut to victory is to avoid extraneous discussion,” (y1v4 p.85)
@@ -790,37 +855,13 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Quote:** “Of course we won’t. Feel free to talk amongst yourselves, though. We haven’t changed our policy,” (y1v4 p.158)
 - **Quote:** “What are you doing, Ichinose? There’s no point in calling Yukimura’s phone at a time like this,” (y1v4 p.226)
 
-### Ishigami Kyou
-
-`tier 3 · 121 mentions · 1 quoted lines · 1 scene(s)`
-
-- **Aliases:** Ishigami, Ishigami Kyou, Kyou
-- **Spoken in:** y0
-- **Gap queue (mentioned, no attributed line):** y1v6, y2v2, y2v4.5, y2v6, y2v8, y2v9, y2v11, y2v12, y2v12.5, y3v1
-- **Notes:** seed: Part2-1-A | corpus surname hits 105 | [P2-band]
-- **Quote:** “There are times when I want to keep lying,” (y0 p.189)
-
-### Kaneda Satoru
-
-`tier 3 · 120 mentions · 6 quoted lines · 11 scene(s)`
-
-- **Aliases:** Kaneda, Kaneda Satoru
-- **Spoken in:** y1v6, y1v7.5, y1v8, y2v5, y2v7, y2v9, y2v10
-- **Gap queue (mentioned, no attributed line):** y1v3, y1v7, y1v10, y1v11, y1v11.5, y2v2, y2v3, y2v4.5, y2v8, y2v11, y2v12, y3v1
-- **Quote:** “So, by letting you get that far, this person turned the audio file into incriminating material?” (y1v6 p.68)
-- **Quote:** “So, that means it’s either Yukimura-shi or Ayanokouji-shi, right?” (y1v6 p.73)
-- **Quote:** “I don’t know. That’ll be up to Kaneda and Hiyori,” (y1v7.5 p.85)
-- **Quote:** “It’s certainly risky. However, this isn’t merely a question of academics. What do you think? I say we try to overthrow Class A here and now,” (y1v8 p.40)
-- **Quote:** “It is true that if the special exams fail, it is logical to nod that part of the responsibility lies with the leader. However, if the vote to expel the student by unanimous approval begins, it will definitely be you w…” (y2v5 p.159)
-- **Quote:** “However, I need to be careful not only behind but also in front and to the side. I can't trust you for free either, can I? Kaneda.” (y2v9 p.152)
-
 ### Sanada Kousei
 
-`tier 3 · 118 mentions · 6 quoted lines · 6 scene(s)`
+`tier 3 · 134 mentions · 6 quoted lines · 6 scene(s)`
 
 - **Aliases:** Sanada, Kousei
 - **Spoken in:** y2v9.5, y2v11, y2v12, y3v1
-- **Gap queue (mentioned, no attributed line):** y2v10
+- **Gap queue (mentioned, no attributed line):** y2v10, y3v2, y3v3
 - **Notes:** Y2 class A representative (vanguard, Y2V12 sheet); OAA Academic A
 - **Quote:** “Today, I was on a date with Sanada-kun. I spent Christmas with him.” (y2v9.5 p.94)
 - **Quote:** “Your group seems to be doing quite well.” (y2v11 p.120)
@@ -831,40 +872,37 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 
 ### Kijima
 
-`tier 3 · 117 mentions · 4 quoted lines · 4 scene(s)`
+`tier 3 · 114 mentions · 3 quoted lines · 3 scene(s)`
 
 - **Aliases:** Onikijima, Kijima
-- **Spoken in:** y0, y2v12.5
-- **Gap queue (mentioned, no attributed line):** y2v8, y2v11
+- **Spoken in:** y2v12.5
+- **Gap queue (mentioned, no attributed line):** y0, y2v8, y2v11
 - **Notes:** P1 shell promotion: y0 Senator Kijima; P2 verified: all Kijima mentions are V0-only (Senator Kijima-sensei, politician); no student same-surname in Y1+ | [P2-band10]
-- **Quote:** “I didn't say it well enough,” (y0 p.26)
 - **Quote:** “There’s nothing particularly shocking. I have experience as the Minister of Education, Culture, Sports, Science and Technology. I’ve also contributed to the Advanced Nurturing High School quite modestly. Besides, it’s…” (y2v12.5 p.129)
 - **Quote:** “Of course.” (y2v12.5 p.129)
 - **Quote:** “He once worked under Naoe-san, whom I respect more than anyone. I’m not surprised he has this much courage.” (y2v12.5 p.131)
 
-### Shiraishi Asuka
-
-`tier 3 · 116 mentions · 6 quoted lines · 7 scene(s)`
-
-- **Aliases:** Shiraishi, Asuka
-- **Spoken in:** y3v1
-- **Quote:** “Of course, I understand that. But that's to save us. No one has explained how this would benefit you, Ayanokouji-kun. I've heard rumors that you received a large number of Private Points behind the scenes or that you'…” (y3v1 p.80)
-- **Quote:** “Yoshida-kun's quite simple, isn't he?” (y3v1 p.83)
-- **Quote:** “Next time, please be sure to tell me the reason why you transferred.” (y3v1 p.84)
-- **Quote:** “Nevertheless, he truly achieved a magnificent first victory.” (y3v1 p.239)
-- **Quote:** “I think it's better if we don't, Hashimoto-kun. Seems like she's quite sensitive to people's presence.” (y3v1 p.247)
-- **Quote:** “Why did you decide to transfer to this class, Ayanokouji-kun?” (y3v1 p.260)
-
 ### Kamogawa Toshizou
+
+`tier 3 · 113 mentions · 0 quoted lines · 0 scene(s)`
+
+- **Aliases:** Kamogawa, Toshizou
+- **Mentions:** y0 ×113
+- **Mention evidence:** “…It's cold, isn't it, Ayanokouji-san…? When will Naoe-sensei arrive…?" Kamogawa, who was complaining for the third time, warmed his hands through his breath. "It's always like this. For Naoe-sensei, the appoin…” (y0 p.17)
+- **Mention evidence:** “…they demand, 'How long will you make us wait? Call Naoe-sensei now!'" Kamogawa, situated next to me, swallowed his saliva with a gulp. This man, while still new to the political world, understood the terror o…” (y0 p.18)
+- **Notes:** y0/y1 Senator; father of the y0 student Kamogawa
+
+### Nishikawa Ryouko
 
 `tier 3 · 113 mentions · 3 quoted lines · 3 scene(s)`
 
-- **Aliases:** Kamogawa, Toshizou
-- **Spoken in:** y0
-- **Notes:** y0/y1 Senator; father of the y0 student Kamogawa
-- **Quote:** “It's like the ruling party and the opposition party.” (y0 p.75)
-- **Quote:** “Is it ironic? I've been on the radar so much that I had to shut it down temporarily.” (y0 p.205)
-- **Quote:** “It's just that... his health seems to have been deteriorating a lot lately.” (y0 p.205)
+- **Aliases:** Nishikawa, Nishikawa Ryouko, Ryouko
+- **Spoken in:** y3v1, y3v2
+- **Gap queue (mentioned, no attributed line):** y1v4, y1v9, y1v11, y1v11.5, y3v3
+- **Notes:** seed: Class 1-A | corpus surname hits 33 | [P2-band]
+- **Quote:** “Why Asuka's called the 'Hundred-Man Slayer,' and why she wanted to go out with you today, Ayanokouji-kun—there's actually a big reason for that.” (y3v1 p.151)
+- **Quote:** “If he loses his motivation from a little questioning like this, then that's all he's got, right?” (y3v2 p.60)
+- **Quote:** “The gym? You mean the one on the second floor? I didn't know any students actually went there.” (y3v2 p.64)
 
 ### Kamogawa
 
@@ -872,8 +910,8 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 
 - **Aliases:** Kamogawa
 - **Mentions:** y0 ×110
-- **Mention evidence:** “…rrival. “It's cold, Ayanokouji-san... When is Naoe-sensei coming...?” Kamogawa, complaining for the third time, exhaled into his hands to warm himself. “It's always the same. For Naoe-sensei, the appointed ti…” (y0 p.11)
-- **Mention evidence:** “…Naoe-sensei and make him tell them how long he’ll keep them waiting.” Kamogawa, next to me, swallowed his spit as he cleared his throat. Even though he’d only been in politics for a short time, he knows the h…” (y0 p.12)
+- **Mention evidence:** “…It's cold, isn't it, Ayanokouji-san…? When will Naoe-sensei arrive…?" Kamogawa, who was complaining for the third time, warmed his hands through his breath. "It's always like this. For Naoe-sensei, the appoin…” (y0 p.17)
+- **Mention evidence:** “…they demand, 'How long will you make us wait? Call Naoe-sensei now!'" Kamogawa, situated next to me, swallowed his saliva with a gulp. This man, while still new to the political world, understood the terror o…” (y0 p.18)
 - **Notes:** y0; father Senator Kamogawa Toshizou (Naoe ally); given name unknown
 
 ### Shiranami Chihiro
@@ -888,25 +926,54 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Quote:** “Whether I have a girlfriend or not shouldn't matter, right? The question is about my feelings toward Ichinose.” (y2v9.5 p.32)
 - **Quote:** “Of course it matters. That's because one can only be in love with a single person at a time.” (y2v9.5 p.32)
 
-### Shimizu Naoki
+### Morofuji Rika
 
-`tier 3 · 71 mentions · 0 quoted lines · 0 scene(s)`
+`tier 3 · 86 mentions · 4 quoted lines · 3 scene(s)`
 
-- **Aliases:** Shimizu, Shimizu Naoki, Naoki
-- **Mentions:** y2v12 ×40, y2v6 ×19, y1v9 ×4, y1v4 ×3, y1v11 ×3, y3v1 ×2
-- **Mention evidence:** “…a list. I read over the names written on it. CLASS A: Sawada Yasumi, Shimizu Naoki, Nishi Haruka, Yoshida Kenta CLASS B: Kobashi Yume, Ninomiya Yui, Watanabe Norihito CLASS C: Tokitou Hiroya, Nomura Yuuji,…” (y1v4 p.100)
-- **Mention evidence:** “…t point, Hashimoto got a phone call from one of his classmates, Naoki Shimizu. “Hello. Has something happened, Naoki?” “No… Actually, it’s about this morning… I’ve seriously had enough of this.” “Ah. It woul…” (y1v9 p.123)
-- **Notes:** seed: Class 1-A | corpus surname hits 61 | [P2-band]
+- **Aliases:** Morofuji, Morofuji Rika, Rika, Fujirika
+- **Spoken in:** y1v4
+- **Gap queue (mentioned, no attributed line):** y1v6, y1v7, y2v4, y2v5, y2v8, y2v10, y2v12, y2v12.5, y3v3
+- **Notes:** seed: Class 1-C | corpus surname hits 13 | [P2-band]
+- **Quote:** “Yeah, she’s the one,” (y1v4 p.190)
+- **Quote:** “Whoa, Shiho. Don’t you think you’re hitting her a little too much? Wow, you’re harsh.” (y1v4 p.192)
+- **Quote:** “N-no. I’m okay,” (y1v4 p.192)
+- **Quote:** “L-Like that?” (y1v4 p.192)
 
 ### Matsuo Eiichirou
 
-`tier 3 · 68 mentions · 0 quoted lines · 0 scene(s)`
+`tier 3 · 80 mentions · 0 quoted lines · 0 scene(s)`
 
 - **Aliases:** Matsuo, Matsuo Eiichirou, Eiichirou
-- **Mentions:** y2v3 ×33, y1v7 ×27, y2v8 ×8
+- **Mentions:** y2v3 ×33, y1v7 ×27, y3v2 ×12, y2v8 ×8
 - **Mention evidence:** “…he do? Of course, he prepared his next attack. “Don’t you wonder how Matsuo’s doing? The person who told you about this school and gave you the idea to enroll?” “Not especially.” I remembered Matsuo. His f…” (y1v7 p.59)
 - **Mention evidence:** “…his tea and took a sip. “An outrageous, unforgiveable act. Naturally, Matsuo had to be punished.” It wasn’t a threat. He was merely stating the truth. “You can probably guess what I’m about to say,” he cont…” (y1v7 p.60)
 - **Notes:** seed: Other | corpus surname hits 46 | [P2-distinct] Matsuo Eiichirou (Y2V3, expelled; suicide Feb 14; Y2V8 'his son, Eiichiro') — DISTINCT from father/butler Matsuo (Y1V7), NO merge | [P2-band]
+
+### Matoba Shinji
+
+`tier 3 · 78 mentions · 6 quoted lines · 7 scene(s)`
+
+- **Aliases:** Matoba, Matoba Shinji, Shinji
+- **Spoken in:** y1v8, y3v3
+- **Gap queue (mentioned, no attributed line):** y1v4, y1v11, y2v6, y2v8, y2v10
+- **Notes:** seed: Class 1-A | corpus surname hits 37 | [P2-band]
+- **Claim:** “Matoba was a member of the second group, the same as Katsuragi.” (y2v8 p.144)
+- **Quote:** “Then this discussion is pointless. By the way, we’ve agreed that the six remaining boys from Class A will happily join whatever groups you make, no matter their makeup,” (y1v8 p.36)
+- **Quote:** “You have five minutes. Please make your decision by then.” (y1v8 p.36)
+- **Quote:** “But you misunderstand. We’re not saying we won’t negotiate after the five minutes are up. We’re just offering special terms for someone within that five minutes.” (y1v8 p.37)
+- **Quote:** “We intend to take first place, meaning there is a strong possibility that our special entrant will be rewarded with private points. Aren’t many of you nervous about this special exam?” (y1v8 p.38)
+- **Quote:** “Even if the special entrant scores below the group’s average, do you promise you won’t seek to punish them?” (y1v8 p.41)
+- **Quote:** “Are you serious? They'll probably come for both too. If you're so sure of that, we'd be better off concentrating on one. When it comes to a fight, it's pointless unless we're on even footing in terms of numbers.” (y3v3 p.104)
+
+### Shimizu Naoki
+
+`tier 3 · 74 mentions · 0 quoted lines · 0 scene(s)`
+
+- **Aliases:** Shimizu, Shimizu Naoki, Naoki
+- **Mentions:** y2v12 ×40, y2v6 ×19, y1v9 ×4, y1v4 ×3, y1v11 ×3, y3v1 ×2, y3v2 ×2, y3v3 ×1
+- **Mention evidence:** “…a list. I read over the names written on it. CLASS A: Sawada Yasumi, Shimizu Naoki, Nishi Haruka, Yoshida Kenta CLASS B: Kobashi Yume, Ninomiya Yui, Watanabe Norihito CLASS C: Tokitou Hiroya, Nomura Yuuji,…” (y1v4 p.100)
+- **Mention evidence:** “…t point, Hashimoto got a phone call from one of his classmates, Naoki Shimizu. “Hello. Has something happened, Naoki?” “No… Actually, it’s about this morning… I’ve seriously had enough of this.” “Ah. It woul…” (y1v9 p.123)
+- **Notes:** seed: Class 1-A | corpus surname hits 61 | [P2-band]
 
 ### Yamanaka Ikuko
 
@@ -919,29 +986,6 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Notes:** P1 pass3 pair scan: 'Yamanaka Ikuko' x1 (first y2v9 p162) | [P2-band10]
 - **Claim:** “Yamanaka was the only one who would be punished.” (y2v9 p.33)
 
-### Morofuji Rika
-
-`tier 3 · 65 mentions · 4 quoted lines · 3 scene(s)`
-
-- **Aliases:** Morofuji, Morofuji Rika, Rika, Fujirika
-- **Spoken in:** y1v4
-- **Gap queue (mentioned, no attributed line):** y1v6, y1v7, y2v4, y2v5, y2v8, y2v10, y2v12, y2v12.5
-- **Notes:** seed: Class 1-C | corpus surname hits 13 | [P2-band]
-- **Quote:** “Yeah, she’s the one,” (y1v4 p.190)
-- **Quote:** “Whoa, Shiho. Don’t you think you’re hitting her a little too much? Wow, you’re harsh.” (y1v4 p.192)
-- **Quote:** “N-no. I’m okay,” (y1v4 p.192)
-- **Quote:** “L-Like that?” (y1v4 p.192)
-
-### Shimazaki Ikkei
-
-`tier 3 · 65 mentions · 0 quoted lines · 0 scene(s)`
-
-- **Aliases:** Shimazaki, Shimazaki Ikkei, Ikkei
-- **Mentions:** y3v1 ×47, y2v12 ×8, y2v1 ×4, y1v11 ×3, y2v3 ×3
-- **Mention evidence:** “…from Class C. As for our opponents, Class A had chosen Matoba Shinji, Shimazaki Ikkei, Morishige Takurō, Tsukasaki Taiga, Ishida Yūsuke, Yamamura Miki, and Nishikawa Ryōko. It was a lineup of mostly male stude…” (y1v11 p.356)
-- **Mention evidence:** “…that you’ve already found a partner for the special exam.” [Ah, yep. Shimazaki-san from Class 1-B, was it? Feels like I’ve been saved thanks to Kushida-san.] Now that our main business had been dealt with, I…” (y2v1 p.224)
-- **Notes:** seed: Class 1-A | corpus surname hits 55 | [P2-band]
-
 ### Shiba Katsunori
 
 `tier 3 · 64 mentions · 0 quoted lines · 0 scene(s)`
@@ -952,41 +996,45 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Mention evidence:** “…d 1-B?” “I believe they have 800 points as well. At least, that’s how Shiba-sensei Page 236 Goldenagato | mp4directs.com” (y2v1 p.242)
 - **Notes:** seed: Faculty | corpus surname hits 62 | [P2-band]
 
-### Suzukake Tanji
-
-`tier 3 · 61 mentions · 5 quoted lines · 3 scene(s)`
-
-- **Aliases:** Suzukake, Tanji
-- **Spoken in:** y0
-- **Notes:** y0 adult: resume + voice-recording logs (V0) | [P2-band10]
-- **Quote:** “It's just that the stage wasn't prepared for me to leave anything behind.” (y0 p.68)
-- **Quote:** “Humans are really interesting. As is true with all children, they learn things they are not taught. I noticed this in the first four generations’ education and introduced a communication curriculum from the fifth gene…” (y0 p.200)
-- **Quote:** “This is the size of the educator's talent,” (y0 p.202)
-- **Quote:** “This small cap is, so to speak, the limit of an ordinary educator's talent. The much larger cup, compared to this cap, can be easily understood as the talent of the educators in the White Room. The children who receiv…” (y0 p.202)
-- **Quote:** “Once you hit the limit, there's basically no room for further growth. The water overflows and there’s no new information to absorb... No, that isn’t the correct expression. Every time we absorb new knowledge, we lose …” (y0 p.202)
-
-### Yoshida Kenta
-
-`tier 3 · 61 mentions · 4 quoted lines · 4 scene(s)`
-
-- **Aliases:** Yoshida, Yoshida Kenta, Kenta, yoshi
-- **Spoken in:** y3v1
-- **Gap queue (mentioned, no attributed line):** y1v4, y1v11, y2v7, y2v10, y2v12
-- **Notes:** seed: Class 1-A | corpus surname hits 52 | [P2-band]
-- **Quote:** “Sorry, but I'm against it.” (y3v1 p.46)
-- **Quote:** “I agree too. He hasn't done anything yet, and there's even a possibility that he's a spy, so I don't feel like putting on a forced smile and having a welcome party.” (y3v1 p.46)
-- **Quote:** “Well, I did feel a bit bad for refusing the welcome party. It must've taken a lot of courage to transfer to a class that was an enemy until recently. Since it is a new class, you need some support, right? So, when sho…” (y3v1 p.83)
-- **Quote:** “Let's start singing right away.” (y3v1 p.152)
-
 ### Yuki
 
-`tier 3 · 61 mentions · 0 quoted lines · 0 scene(s)`
+`tier 3 · 63 mentions · 0 quoted lines · 0 scene(s)`
 
 - **Aliases:** Yuki
-- **Mentions:** y0 ×49, y3v1 ×7, y2v4.5 ×4, y2v12 ×1
-- **Mention evidence:** “…rent from the scenery around us. “I don't like…” I heard a girl named Yuki, who always sat in front of me, whisper. It wasn’t problematic behavior, since we weren’t forbidden to speak during the meal. It…” (y0 p.118)
-- **Mention evidence:** “…he answer wasn’t from me, but from Shiro, who was sitting on my left. Yuki looked at him in surprise. While I was distracted by the dialogue between the two, I checked the surveillance camera. Of course,…” (y0 p.119)
+- **Mentions:** y0 ×51, y3v1 ×7, y2v4.5 ×4, y2v12 ×1
+- **Mention evidence:** “…, well, no different from the surrounding scenery. "I don't like it…" Yuki, the girl who always sat in front of me, muttered softly during the meal. Chapter 5: Stories of Innocent Children, Part 2｜LegacyE…” (y0 p.144)
+- **Mention evidence:** “…red, and no one reacted, so she would probably just stop talking, but Yuki didn't. "Kiyotaka, do you like it?" She asked me, sitting in front of her, whether I liked carrots. To answer or not to answer. T…” (y0 p.145)
 - **Notes:** P1 shell promotion: y0 girl student (narrator's seatmate) | [P2-band10]
+
+### Suzukake Tanji
+
+`tier 3 · 59 mentions · 0 quoted lines · 0 scene(s)`
+
+- **Aliases:** Suzukake, Tanji
+- **Mentions:** y0 ×59
+- **Mention evidence:** “…me to interview this time. The resume bore the slightly unusual name "Suzukake Tanji." "Hello." "Please, have a seat." I couldn't be careless even if Tsukishiro and Naoe-sensei had this person arranged. The p…” (y0 p.87)
+- **Mention evidence:** “…is posture a little and crossed his legs. "For now, you aren't hired, Suzukake. Your intellect is commendable, having graduated from prestigious schools while still young and always maintaining the top spot i…” (y0 p.88)
+- **Notes:** y0 adult: resume + voice-recording logs (V0) | [P2-band10]
+
+### Takemoto Shigeru
+
+`tier 3 · 58 mentions · 1 quoted lines · 1 scene(s)`
+
+- **Aliases:** Takemoto, Takemoto Shigeru
+- **Spoken in:** y3v3
+- **Gap queue (mentioned, no attributed line):** y1v4, y2v4
+- **Notes:** seed: Class 1-A | corpus surname hits 20 | [P2-band]
+- **Quote:** “But at least we've confirmed that neither Class A nor Class B wants to fight from the get-go. That alone isn't so bad.” (y3v3 p.48)
+
+### Kobashi Yume
+
+`tier 3 · 56 mentions · 2 quoted lines · 2 scene(s)`
+
+- **Aliases:** Kobashi, Kobashi Yume, Yume
+- **Spoken in:** y2v4.5
+- **Gap queue (mentioned, no attributed line):** y1v4, y2v2, y2v4, y2v10, y3v1, y3v3
+- **Quote:** “Oh, was I a bother…? Maybe I should have waited…” (y2v4.5 p.55)
+- **Quote:** “Ah, I give up.” (y2v4.5 p.58)
 
 ### Ishikura Kayoko
 
@@ -1008,49 +1056,57 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Quote:** “Kouenji! Don't be so harsh!” (y2v4 p.107)
 - **Quote:** “What the hell is that guy? Is he really in high school?” (y2v4 p.115)
 
-### Kobashi Yume
+### Kondou Reo
 
-`tier 3 · 52 mentions · 2 quoted lines · 2 scene(s)`
+`tier 3 · 52 mentions · 0 quoted lines · 0 scene(s)`
 
-- **Aliases:** Kobashi, Kobashi Yume, Yume
-- **Spoken in:** y2v4.5
-- **Gap queue (mentioned, no attributed line):** y1v4, y2v2, y2v4, y2v10, y3v1
-- **Quote:** “Oh, was I a bother…? Maybe I should have waited…” (y2v4.5 p.55)
-- **Quote:** “Ah, I give up.” (y2v4.5 p.58)
-
-### Mika
-
-`tier 3 · 50 mentions · 5 quoted lines · 4 scene(s)`
-
-- **Aliases:** Mika
-- **Spoken in:** y0
-- **Gap queue (mentioned, no attributed line):** y3v1
-- **Notes:** y0 White Room / restaurant scenes; given name unknown | [P2-band10]
-- **Quote:** “Politicians really have an abundance of money and everything at their disposal, don't they? Was it easy for you to get 50 million?” (y0 p.94)
-- **Quote:** “Money is important, but I have plenty of it to live on. That's the world on our side.” (y0 p.94)
-- **Quote:** “...Don't you want to ask me what I'm going to do now?” (y0 p.95)
-- **Quote:** “There's no reason not to have the money to build your own home,” (y0 p.98)
-- **Quote:** “I just thought that this would be the name you’d remember,” (y0 p.99)
+- **Aliases:** Kondou, Kondou Reo, Reo, Reon
+- **Mentions:** y3v3 ×16, y1v2 ×8, y3v2 ×8, y2v12 ×5, y3v1 ×4, y1v7 ×3, y1v11 ×2, y1v3 ×1 (+5 more vols)
+- **Mention evidence:** “…s definite. Anyway, when I was on my way back to the dorm, Komiya and Kondou, who’re in the basketball club with me, called me over to the special building. They said they wanted to talk to me about somethi…” (y1v2 p.30)
+- **Mention evidence:** “…special building,” Sudou said. “That day, after practice, Komiya and Kondou asked me to go to the special building. Honestly, I thought it was kind of annoying, but I also thought it might’ve been because…” (y1v2 p.194)
+- **Notes:** seed: Class 1-C | corpus surname hits 16 | [P2-band]
 
 ### Takahashi Osamu
 
-`tier 3 · 50 mentions · 1 quoted lines · 1 scene(s)`
+`tier 3 · 51 mentions · 1 quoted lines · 1 scene(s)`
 
 - **Aliases:** Takahashi, Takahashi Osamu, Osamu
 - **Spoken in:** y2v2
-- **Gap queue (mentioned, no attributed line):** y2v3, y2v4, y2v8, y2v11, y2v12
+- **Gap queue (mentioned, no attributed line):** y2v3, y2v4, y2v8, y2v11, y2v12, y3v2
 - **Notes:** seed: Year2-1-A | corpus surname hits 32 | [P2-band]
 - **Quote:** “By the way, Takuya, who do you plan to choose from Class B?” (y2v2 p.235)
 
 ### Inogashira Kokoro
 
-`tier 3 · 48 mentions · 1 quoted lines · 1 scene(s)`
+`tier 3 · 50 mentions · 1 quoted lines · 1 scene(s)`
 
 - **Aliases:** Inogashira, Inogashira Kokoro, Kokoro, Inokashira
 - **Spoken in:** y2v11
-- **Gap queue (mentioned, no attributed line):** y1v1, y1v4.5, y1v5, y1v6, y1v10, y1v11, y2v7, y2v10, y3v1
+- **Gap queue (mentioned, no attributed line):** y1v1, y1v4.5, y1v5, y1v6, y1v10, y1v11, y2v7, y2v10, y3v1, y3v2, y3v3
 - **Claim:** “Inogashira was a somewhat quiet, plain girl from Class D, rather like Sakura.” (y1v4.5 p.49)
 - **Quote:** “I can't ask Hirata-kun to do something like this... It's too much to ask.” (y2v11 p.73)
+
+### Matsuo
+
+`tier 3 · 50 mentions · 0 quoted lines · 0 scene(s)`
+
+- **Aliases:** Matsuo
+- **Mentions:** y1v7 ×27, y2v3 ×14, y2v8 ×5, y3v2 ×4
+- **Mention evidence:** “…he do? Of course, he prepared his next attack. “Don’t you wonder how Matsuo’s doing? The person who told you about this school and gave you the idea to enroll?” “Not especially.” I remembered Matsuo. His f…” (y1v7 p.59)
+- **Mention evidence:** “…his tea and took a sip. “An outrageous, unforgiveable act. Naturally, Matsuo had to be punished.” It wasn’t a threat. He was merely stating the truth. “You can probably guess what I’m about to say,” he cont…” (y1v7 p.60)
+- **Notes:** seed: Other | corpus surname hits 46 | [P2-distinct] father/butler Matsuo (Y1V7; Y2V8 'Did Matsuo really commit suicide?') — DISTINCT from son Matsuo Eiichirou (Y2V3, Nanase's childhood friend), NO merge | [P2-band]
+
+### Mika
+
+`tier 3 · 50 mentions · 3 quoted lines · 3 scene(s)`
+
+- **Aliases:** Mika
+- **Spoken in:** y0
+- **Gap queue (mentioned, no attributed line):** y3v1
+- **Notes:** y0 White Room / restaurant scenes; given name unknown | [P2-band10]
+- **Quote:** “No, at times like this, it's actually better to drink.” (y0 p.65)
+- **Quote:** “It's a bit surprising to be hearing that from you, Atsuomi.” (y0 p.114)
+- **Quote:** “Money is heavy, but I can prepare as much as necessary to live. That's what the world's like on this side.” (y0 p.117)
 
 ### Ishikura
 
@@ -1061,6 +1117,18 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Mention evidence:** “…is everything okay?” Sonada, Karuizawa’s classmate, spoke behind her. Ishikura, the third Page 211 Goldenagato | mp4directs.com” (y1v4.5 p.220)
 - **Mention evidence:** “…ird-year students accompanied him: Class B students named Tsunoda and Ishikura. Once inside, Nagumo scanned the room. “It appears all the rooms are identical, senpai,” he said to Ishikura with a grin. “It loo…” (y1v8 p.96)
 - **Notes:** seed: Class 3-B | corpus surname hits 47 | [P2-instr] 3rd-Yr Class B student (Y1V8 card-game scene with Nagumo; council/club 'Vice President' titles TL-ambiguous — student-council VP = Kiriyama) — distinct from Ishikura Kayoko (seed eval sheet); bare-key mentions volume-disambiguated at P3 | [P2-band] | [P2-force] tier 3 (Y1V8 presence)
+
+### Miyamoto Soshi
+
+`tier 3 · 47 mentions · 2 quoted lines · 2 scene(s)`
+
+- **Aliases:** Miyamoto, Miyamoto Soshi, Soshi
+- **Spoken in:** y2v4.5
+- **Gap queue (mentioned, no attributed line):** y0, y1v1, y1v5, y1v10, y1v11, y2v1, y2v2, y2v5, y2v8, y2v10, y3v3
+- **Notes:** seed: Class 1-D | corpus surname hits 39 | [P2-band]
+- **Claim:** “Miyamoto was the rather plump boy.” (y1v1 p.109)
+- **Quote:** “You were in the same group as Sakura and Hasebe right?” (y2v4.5 p.17)
+- **Quote:** “Did something happen?” (y2v4.5 p.117)
 
 ### Sotomura Hideo
 
@@ -1073,35 +1141,13 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 
 ### Ishida Yuusuke
 
-`tier 3 · 46 mentions · 1 quoted lines · 1 scene(s)`
+`tier 3 · 45 mentions · 1 quoted lines · 1 scene(s)`
 
 - **Aliases:** Ishida, Ishida Yuusuke, Yuusuke
 - **Spoken in:** y0
 - **Gap queue (mentioned, no attributed line):** y1v11, y2v12
 - **Notes:** seed: Class 1-A | corpus surname hits 42 | [P2-band]
-- **Quote:** “It’d be easier if we could take them out of the White Room, or to put it more simply, to have some kind of extracurricular activity, but of course, that's not going to happen. The more people we have outside the White…” (y0 p.102)
-
-### Matsuo
-
-`tier 3 · 46 mentions · 0 quoted lines · 0 scene(s)`
-
-- **Aliases:** Matsuo
-- **Mentions:** y1v7 ×27, y2v3 ×14, y2v8 ×5
-- **Mention evidence:** “…he do? Of course, he prepared his next attack. “Don’t you wonder how Matsuo’s doing? The person who told you about this school and gave you the idea to enroll?” “Not especially.” I remembered Matsuo. His f…” (y1v7 p.59)
-- **Mention evidence:** “…his tea and took a sip. “An outrageous, unforgiveable act. Naturally, Matsuo had to be punished.” It wasn’t a threat. He was merely stating the truth. “You can probably guess what I’m about to say,” he cont…” (y1v7 p.60)
-- **Notes:** seed: Other | corpus surname hits 46 | [P2-distinct] father/butler Matsuo (Y1V7; Y2V8 'Did Matsuo really commit suicide?') — DISTINCT from son Matsuo Eiichirou (Y2V3, Nanase's childhood friend), NO merge | [P2-band]
-
-### Miyamoto Soshi
-
-`tier 3 · 44 mentions · 2 quoted lines · 2 scene(s)`
-
-- **Aliases:** Miyamoto, Miyamoto Soshi, Soshi
-- **Spoken in:** y2v4.5
-- **Gap queue (mentioned, no attributed line):** y0, y1v1, y1v5, y1v10, y1v11, y2v1, y2v2, y2v5, y2v8, y2v10
-- **Notes:** seed: Class 1-D | corpus surname hits 39 | [P2-band]
-- **Claim:** “Miyamoto was the rather plump boy.” (y1v1 p.109)
-- **Quote:** “You were in the same group as Sakura and Hasebe right?” (y2v4.5 p.17)
-- **Quote:** “Did something happen?” (y2v4.5 p.117)
+- **Quote:** “If we're able to take them outside of the White Room, say, something like extracurricular lessons, things would be simple—but of course, that isn't feasible. The more people involved in outside activities, the greater…” (y0 p.125)
 
 ### Kurachi
 
@@ -1114,110 +1160,96 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Quote:** “Ah, my bad. Shall I come back later?” (y2v4.5 p.284)
 - **Quote:** “Sorry for calling out to you so suddenly. I’ll return back inside then. There are so many people here that I can’t relax.” (y2v4.5 p.285)
 
-### Matoba Shinji
-
-`tier 3 · 41 mentions · 6 quoted lines · 5 scene(s)`
-
-- **Aliases:** Matoba, Matoba Shinji, Shinji
-- **Spoken in:** y1v8
-- **Gap queue (mentioned, no attributed line):** y1v4, y1v11, y2v6, y2v8, y2v10
-- **Notes:** seed: Class 1-A | corpus surname hits 37 | [P2-band]
-- **Claim:** “Matoba was a member of the second group, the same as Katsuragi.” (y2v8 p.144)
-- **Quote:** “Then this discussion is pointless. By the way, we’ve agreed that the six remaining boys from Class A will happily join whatever groups you make, no matter their makeup,” (y1v8 p.36)
-- **Quote:** “You have five minutes. Please make your decision by then.” (y1v8 p.36)
-- **Quote:** “But you misunderstand. We’re not saying we won’t negotiate after the five minutes are up. We’re just offering special terms for someone within that five minutes.” (y1v8 p.37)
-- **Quote:** “Special terms?” (y1v8 p.37)
-- **Quote:** “I don’t mind what you think. But these are our terms,” (y1v8 p.38)
-- **Quote:** “Even if the special entrant scores below the group’s average, do you promise you won’t seek to punish them?” (y1v8 p.41)
-
-### Nishikawa Ryouko
-
-`tier 3 · 41 mentions · 1 quoted lines · 1 scene(s)`
-
-- **Aliases:** Nishikawa, Nishikawa Ryouko, Ryouko
-- **Spoken in:** y3v1
-- **Gap queue (mentioned, no attributed line):** y1v4, y1v9, y1v11, y1v11.5
-- **Notes:** seed: Class 1-A | corpus surname hits 33 | [P2-band]
-- **Quote:** “Why Asuka's called the 'Hundred-Man Slayer,' and why she wanted to go out with you today, Ayanokouji-kun—there's actually a big reason for that.” (y3v1 p.151)
-
 ### Mori Nene
 
-`tier 3 · 37 mentions · 0 quoted lines · 0 scene(s)`
+`tier 3 · 39 mentions · 0 quoted lines · 0 scene(s)`
 
 - **Aliases:** Mori, Mori Nene, Nene
-- **Mentions:** y1v9 ×6, y2v4.5 ×6, y2v5 ×6, y2v9 ×6, y1v1 ×3, y1v5 ×3, y3v1 ×3, y2v6 ×2 (+2 more vols)
+- **Mentions:** y1v9 ×6, y2v4.5 ×6, y2v5 ×6, y2v9 ×6, y1v1 ×3, y1v5 ×3, y3v1 ×3, y2v6 ×2 (+3 more vols)
 - **Mention evidence:** “…rlfriend), Karuizawa. There were also two other girls, Matsushita and Mori, who always hung around Karuizawa. “Hey, don’t we have some way of making Hirata go away?!” Ike whispered, putting his arm around…” (y1v1 p.113)
 - **Mention evidence:** “…shida as they walked. The rather uninteresting pair of Matsushita and Mori followed behind the main group, while I walked farther behind them, alone. “Hey, Ike. Where are we going?” someone asked. “It has…” (y1v1 p.116)
 
 ### Ninomiya Yui
 
-`tier 3 · 31 mentions · 0 quoted lines · 0 scene(s)`
+`tier 3 · 33 mentions · 0 quoted lines · 0 scene(s)`
 
 - **Aliases:** Ninomiya, Ninomiya Yui, Yui
-- **Mentions:** y2v10 ×8, y3v1 ×7, y2v12 ×5, y2v3 ×4, y1v4 ×3, y1v8 ×1, y2v2 ×1, y2v4.5 ×1 (+1 more vols)
+- **Mentions:** y2v10 ×8, y3v1 ×7, y2v12 ×5, y2v3 ×4, y1v4 ×3, y3v3 ×2, y1v8 ×1, y2v2 ×1 (+2 more vols)
 - **Mention evidence:** “…i, Shimizu Naoki, Nishi Haruka, Yoshida Kenta CLASS B: Kobashi Yume, Ninomiya Yui, Watanabe Norihito CLASS C: Tokitou Hiroya, Nomura Yuuji, Yashima Mariko CLASS D: Ike Kanji, Sakura Airi, Sudou Ken, Matsushi…” (y1v4 p.100)
 - **Mention evidence:** “…hat, the elderly man slowly read the names aloud. “Third-year Class C Ninomiya Kuranosuke-kun’s group took first place.” When that announcement was made, some third-year students immediately began to cheer. F…” (y1v8 p.228)
 - **Notes:** seed: Class 1-B | corpus surname hits 16 | [P2-band]
 
-### Okitani Kyousuke
-
-`tier 3 · 31 mentions · 2 quoted lines · 1 scene(s)`
-
-- **Aliases:** Okitani, Okitani Kyousuke
-- **Spoken in:** y1v1
-- **Gap queue (mentioned, no attributed line):** y2v4.5, y2v5, y2v8, y2v10, y2v12, y3v1
-- **Notes:** seed: Class 1-D | corpus surname hits 29 | [P2-band]
-- **Quote:** “Like Horikita-san said, it’ll be bad if you get tripped up here. The math problems on the short test were about this difficult, but the last problems were really tough. I didn’t understand how to solve them,” (y1v1 p.175)
-- **Quote:** “Listen up. This can be easily solved using a system of simultaneous equations.” (y1v1 p.175)
-
-### Souya
-
-`tier 3 · 30 mentions · 2 quoted lines · 2 scene(s)`
-
-- **Aliases:** Souya
-- **Spoken in:** y0
-- **Notes:** P1 shell promotion: y0 lab-coat staff | [P2-band10]
-- **Quote:** “I never thought that a stray researcher like me would be approached by a professor like you,” (y0 p.55)
-- **Quote:** “Isn't that a trivial matter? My formal attire is a white coat, so I don't see any problem. I would be taken more seriously in this than a suit.” (y0 p.55)
-
-### Yabu Nanami
-
-`tier 3 · 30 mentions · 0 quoted lines · 0 scene(s)`
-
-- **Aliases:** Yabu, Yabu Nanami, Nanami
-- **Mentions:** y2v5 ×13, y3v1 ×6, y1v4 ×4, y1v6 ×3, y1v8 ×3, y2v12.5 ×1
-- **Mention evidence:** “…mi, Hamaguchi Tetsuya, Beppu Ryouta CLASS C: Ibuki Mio, Manabe Shiho, Yabu Nanami, Yamashita Saki CLASS D: Ayanokouji Kiyotaka, Karuizawa Kei, Sotomura Hideo, Yukimura Teruhiko I know some of the student…” (y1v4 p.39)
-- **Mention evidence:** “…g looks, then Karuizawa had them all beat. But Manabe, Yamashita, and Yabu wouldn’t be satisfied until they’d verbally torn Karuizawa’s pretty face apart. Karuizawa trembled, frightened. She was on the ve…” (y1v4 p.163)
-- **Notes:** seed: Class 1-C | corpus surname hits 20 | [P2-band]
-
-### Kondou Reo
-
-`tier 3 · 28 mentions · 0 quoted lines · 0 scene(s)`
-
-- **Aliases:** Kondou, Kondou Reo, Reo, Reon
-- **Mentions:** y1v2 ×8, y2v12 ×5, y3v1 ×4, y1v7 ×3, y1v11 ×2, y1v3 ×1, y1v5 ×1, y1v6 ×1 (+3 more vols)
-- **Mention evidence:** “…s definite. Anyway, when I was on my way back to the dorm, Komiya and Kondou, who’re in the basketball club with me, called me over to the special building. They said they wanted to talk to me about somethi…” (y1v2 p.30)
-- **Mention evidence:** “…special building,” Sudou said. “That day, after practice, Komiya and Kondou asked me to go to the special building. Honestly, I thought it was kind of annoying, but I also thought it might’ve been because…” (y1v2 p.194)
-- **Notes:** seed: Class 1-C | corpus surname hits 16 | [P2-band]
-
 ### Rokkaku Momoe
 
-`tier 3 · 25 mentions · 0 quoted lines · 0 scene(s)`
+`tier 3 · 33 mentions · 0 quoted lines · 0 scene(s)`
 
 - **Aliases:** Rokkaku, Rokkaku Momoe, Momoe, Rotsukaku
-- **Mentions:** y2v8 ×10, y2v12 ×7, y1v8 ×3, y2v6 ×3, y1v11 ×2
+- **Mentions:** y2v8 ×10, y2v12 ×7, y3v3 ×5, y1v8 ×3, y2v6 ×3, y3v2 ×3, y1v11 ×2
 - **Mention evidence:** “…Takeko-san, Manabe Shiho-san, Nishi Haruka-san, Motodoi Chikako-san, Rokkaku Momoe-san, and I formed a group of eleven people. I was the only one from Class B, and there was also only one person from Class…” (y1v8 p.148)
 - **Mention evidence:** “…hi, Tsukaji Shihori, Tanihara Mao, Motodoi Chikako, Fukuyama Shinobu, Rokkaku Momoe, and Nakajima Riko. While they weren’t the best options Sakayanagi had available, it was still a fairly solid group. It see…” (y1v11 p.354)
 - **Notes:** seed: Class 1-A | corpus surname hits 15 | [P2-band]
 
+### Okitani Kyousuke
+
+`tier 3 · 32 mentions · 2 quoted lines · 1 scene(s)`
+
+- **Aliases:** Okitani, Okitani Kyousuke
+- **Spoken in:** y1v1
+- **Gap queue (mentioned, no attributed line):** y2v4.5, y2v5, y2v8, y2v10, y2v12, y3v1, y3v3
+- **Notes:** seed: Class 1-D | corpus surname hits 29 | [P2-band]
+- **Quote:** “Like Horikita-san said, it’ll be bad if you get tripped up here. The math problems on the short test were about this difficult, but the last problems were really tough. I didn’t understand how to solve them,” (y1v1 p.175)
+- **Quote:** “Listen up. This can be easily solved using a system of simultaneous equations.” (y1v1 p.175)
+
+### Yabu Nanami
+
+`tier 3 · 31 mentions · 0 quoted lines · 0 scene(s)`
+
+- **Aliases:** Yabu, Yabu Nanami, Nanami
+- **Mentions:** y2v5 ×13, y3v1 ×6, y1v4 ×4, y1v6 ×3, y1v8 ×3, y2v12.5 ×1, y3v3 ×1
+- **Mention evidence:** “…mi, Hamaguchi Tetsuya, Beppu Ryouta CLASS C: Ibuki Mio, Manabe Shiho, Yabu Nanami, Yamashita Saki CLASS D: Ayanokouji Kiyotaka, Karuizawa Kei, Sotomura Hideo, Yukimura Teruhiko I know some of the student…” (y1v4 p.39)
+- **Mention evidence:** “…g looks, then Karuizawa had them all beat. But Manabe, Yamashita, and Yabu wouldn’t be satisfied until they’d verbally torn Karuizawa’s pretty face apart. Karuizawa trembled, frightened. She was on the ve…” (y1v4 p.163)
+- **Notes:** seed: Class 1-C | corpus surname hits 20 | [P2-band]
+
+### Souya
+
+`tier 3 · 30 mentions · 1 quoted lines · 1 scene(s)`
+
+- **Aliases:** Souya
+- **Spoken in:** y0
+- **Notes:** P1 shell promotion: y0 lab-coat staff | [P2-band10]
+- **Quote:** “What kind of education would result in such inorganic children…” (y0 p.105)
+
+### Oda Takumi
+
+`tier 3 · 25 mentions · 2 quoted lines · 2 scene(s)`
+
+- **Aliases:** Oda, Oda Takumi, Takumi
+- **Spoken in:** y1v6, y3v3
+- **Gap queue (mentioned, no attributed line):** y1v4, y1v11, y2v8, y2v11, y2v12
+- **Notes:** seed: Class 1-C | corpus surname hits 13 | [P2-band]
+- **Quote:** “Are you the spy, Nishino?” (y1v6 p.65)
+- **Quote:** “Wait, Nishino!” (y3v3 p.131)
+
+### Yamashita Saki
+
+`tier 3 · 25 mentions · 0 quoted lines · 0 scene(s)`
+
+- **Aliases:** Yamashita, Yamashita Saki, Saki
+- **Mentions:** y3v3 ×9, y1v4 ×5, y1v6 ×3, y2v12 ×3, y1v8 ×2, y2v7 ×1, y2v11 ×1, y2v12.5 ×1
+- **Mention evidence:** “…Tetsuya, Beppu Ryouta CLASS C: Ibuki Mio, Manabe Shiho, Yabu Nanami, Yamashita Saki CLASS D: Ayanokouji Kiyotaka, Karuizawa Kei, Sotomura Hideo, Yukimura Teruhiko I know some of the students on the list. Ich…” (y1v4 p.39)
+- **Mention evidence:** “…orgiving me.” After Karuizawa spat out those words, one of the girls, Yamashita, lost her patience. “Shiho-chan. I’ve had enough. Karuizawa’s unforgivable.” “I know, right? She should understand exactly how Ri…” (y1v4 p.161)
+- **Notes:** seed: Class 1-C | corpus surname hits 9 | [P2-band]
+
 ### Tabuchi
 
-`tier 3 · 25 mentions · 1 quoted lines · 1 scene(s)`
+`tier 3 · 24 mentions · 0 quoted lines · 0 scene(s)`
 
 - **Aliases:** Tabuchi
-- **Spoken in:** y0
+- **Mentions:** y0 ×24
+- **Mention evidence:** “…tests, including the brain waves. The DNA test results also matched." Tabuchi finished all the tests and reported the detailed results examined. "I see." I couldn’t afford to encounter any issues at the star…” (y0 p.13)
+- **Mention evidence:** “…"What are you talking about? Get ready for the shoot quickly." "Uh…?" Tabuchi, taken aback, didn’t understand my intent. "This child is more important than my own life, and I’m sending him to the White Room.…” (y0 p.15)
 - **Notes:** y0 White Room researcher (DNA report); given name unknown | [P2-band10]
-- **Quote:** “You're getting restless. How many times do you have to go to the bathroom?” (y0 p.178)
+- **Claim:** “Tabuchi was the only researcher who had a deeply rooted conventional mindset, so he resisted.” (y0 p.129)
 
 ### Fukuyama Shinobu
 
@@ -1228,6 +1260,36 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Mention evidence:** “…atoru, Sugio Hiroshi, Tsukaji Shihori, Tanihara Mao, Motodoi Chikako, Fukuyama Shinobu, Rokkaku Momoe, and Nakajima Riko. While they weren’t the best options Sakayanagi had available, it was still a fairly so…” (y1v11 p.354)
 - **Mention evidence:** “…oup members were from Class 2-A. Their names were Shimazaki Ikkei and Fukuyama Shinobu, and they were both very academically gifted students. While, as a whole, their group was rather lacking when it came to…” (y2v3 p.157)
 - **Notes:** seed: Class 1-A | corpus surname hits 11 | [P2-band]
+
+### Morishige Takurou
+
+`tier 3 · 23 mentions · 0 quoted lines · 0 scene(s)`
+
+- **Aliases:** Morishige, Morishige Takurou, Takurou
+- **Mentions:** y1v4 ×10, y2v12 ×9, y1v11 ×3, y3v3 ×1
+- **Mention evidence:** “…guish who was in our group. CLASS A: Takemoto Shigeru, Machida Kouji, Morishige Takurou CLASS B: Ichinose Honami, Hamaguchi Tetsuya, Beppu Ryouta CLASS C: Ibuki Mio, Manabe Shiho, Yabu Nanami, Yamashita Saki C…” (y1v4 p.39)
+- **Mention evidence:** “…. “Of course I can.” Machida looked at the student next to him, named Morishige. However, he quickly focused again on Ichinose, projecting the usual calm, Class A image. “We have no reason to fuss over finding…” (y1v4 p.108)
+- **Notes:** seed: Class 1-A | corpus surname hits 16 | [P2-band]
+
+### Motodoi Chikako
+
+`tier 3 · 23 mentions · 0 quoted lines · 0 scene(s)`
+
+- **Aliases:** Motodoi, Motodoi Chikako, Chikako
+- **Mentions:** y1v9 ×9, y2v12 ×5, y1v8 ×3, y1v11 ×3, y3v3 ×2, y3v2 ×1
+- **Mention evidence:** “…a Minori-san, Nishino Takeko-san, Manabe Shiho-san, Nishi Haruka-san, Motodoi Chikako-san, Rokkaku Momoe-san, and I formed a group of eleven people. I was the only one from Class B, and there was also only o…” (y1v8 p.148)
+- **Mention evidence:** “…ve a minute?” Within the hallways, after school. A girl from Class A, Motodoi Chikako, called out to Hashimoto from behind. Like Hashimoto, she was a member of the tennis club. She appeared to have run to ca…” (y1v9 p.119)
+- **Notes:** seed: Class 1-A | corpus surname hits 12 | [P2-band]
+
+### Sawada Yasumi
+
+`tier 3 · 23 mentions · 0 quoted lines · 0 scene(s)`
+
+- **Aliases:** Sawada, Sawada Yasumi, Yasumi
+- **Mentions:** y3v1 ×11, y1v4 ×3, y2v11 ×3, y2v9.5 ×2, y2v12 ×2, y3v3 ×2
+- **Mention evidence:** “…ssed, handed me a list. I read over the names written on it. CLASS A: Sawada Yasumi, Shimizu Naoki, Nishi Haruka, Yoshida Kenta CLASS B: Kobashi Yume, Ninomiya Yui, Watanabe Norihito CLASS C: Tokitou Hiroy…” (y1v4 p.100)
+- **Mention evidence:** “…convenience store before visiting, but on the way, I met my classmate Sawada coming back from Keyaki Mall. He said the famous shop's cake he had ordered was delayed due to the snow and arrived today. Howeve…” (y2v9.5 p.103)
+- **Notes:** seed: Class 1-A | corpus surname hits 13 | [P2-band]
 
 ### Azuma Sana
 
@@ -1261,25 +1323,25 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Notes:** seed: Class 1-D | corpus surname hits 16 | [P2-band]
 - **Quote:** “Uh, yes.” (y2v7 p.76)
 
-### Morishige Takurou
-
-`tier 3 · 22 mentions · 0 quoted lines · 0 scene(s)`
-
-- **Aliases:** Morishige, Morishige Takurou, Takurou
-- **Mentions:** y1v4 ×10, y2v12 ×9, y1v11 ×3
-- **Mention evidence:** “…guish who was in our group. CLASS A: Takemoto Shigeru, Machida Kouji, Morishige Takurou CLASS B: Ichinose Honami, Hamaguchi Tetsuya, Beppu Ryouta CLASS C: Ibuki Mio, Manabe Shiho, Yabu Nanami, Yamashita Saki C…” (y1v4 p.39)
-- **Mention evidence:** “…. “Of course I can.” Machida looked at the student next to him, named Morishige. However, he quickly focused again on Ichinose, projecting the usual calm, Class A image. “We have no reason to fuss over finding…” (y1v4 p.108)
-- **Notes:** seed: Class 1-A | corpus surname hits 16 | [P2-band]
-
-### Oda Takumi
+### Nomura Yuuji
 
 `tier 3 · 22 mentions · 1 quoted lines · 1 scene(s)`
 
-- **Aliases:** Oda, Oda Takumi, Takumi
+- **Aliases:** Nomura, Nomura Yuuji, Yuuji
 - **Spoken in:** y1v6
-- **Gap queue (mentioned, no attributed line):** y1v4, y1v11, y2v8, y2v11, y2v12
-- **Notes:** seed: Class 1-C | corpus surname hits 13 | [P2-band]
-- **Quote:** “Are you the spy, Nishino?” (y1v6 p.65)
+- **Gap queue (mentioned, no attributed line):** y1v4, y1v5, y2v2, y2v7, y2v10, y2v12, y3v3
+- **Notes:** seed: Class 1-C | corpus surname hits 12 | [P2-band]
+- **Quote:** “N-no, that’s not it! I’m not doing that!” (y1v6 p.65)
+
+### Satonaka Satoru
+
+`tier 3 · 22 mentions · 0 quoted lines · 0 scene(s)`
+
+- **Aliases:** Satonaka, Satonaka Satoru
+- **Mentions:** y3v2 ×7, y2v10 ×5, y2v12 ×3, y1v7.5 ×2, y1v11 ×2, y1v1 ×1, y2v6 ×1, y3v3 ×1
+- **Mention evidence:** “…ble fifth place in the hot guy rankings. Congratulations! By the way, Satonaka-kun in Class A is in first place. Hirata-kun’s in second. The third and fourth place boys are in Class A. I feel like Hirata-kun…” (y1v1 p.215)
+- **Mention evidence:** “…y when they started a relationship. “Ah, okay. I see. Well, how about Satonaka-kun? He should be single now, right?” I asked. “Well, I think he’s cool and all, but…I guess I just don’t feel that way about him…” (y1v7.5 p.18)
+- **Notes:** seed: Class 1-A | corpus surname hits 12 | [P2-band]
 
 ### Shiratori
 
@@ -1289,26 +1351,6 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Spoken in:** y2v1
 - **Notes:** seed: Part2-1-D | corpus surname hits 22 | [P2-band]
 - **Quote:** “I know that, but at the end of the day you guys are still Class D, right? If I was looking to curry favors, I’d rather reach out to Class A or B.” (y2v1 p.117)
-
-### Sawada Yasumi
-
-`tier 3 · 21 mentions · 0 quoted lines · 0 scene(s)`
-
-- **Aliases:** Sawada, Sawada Yasumi, Yasumi
-- **Mentions:** y3v1 ×11, y1v4 ×3, y2v11 ×3, y2v9.5 ×2, y2v12 ×2
-- **Mention evidence:** “…ssed, handed me a list. I read over the names written on it. CLASS A: Sawada Yasumi, Shimizu Naoki, Nishi Haruka, Yoshida Kenta CLASS B: Kobashi Yume, Ninomiya Yui, Watanabe Norihito CLASS C: Tokitou Hiroy…” (y1v4 p.100)
-- **Mention evidence:** “…convenience store before visiting, but on the way, I met my classmate Sawada coming back from Keyaki Mall. He said the famous shop's cake he had ordered was delayed due to the snow and arrived today. Howeve…” (y2v9.5 p.103)
-- **Notes:** seed: Class 1-A | corpus surname hits 13 | [P2-band]
-
-### Takemoto Shigeru
-
-`tier 3 · 21 mentions · 0 quoted lines · 0 scene(s)`
-
-- **Aliases:** Takemoto, Takemoto Shigeru
-- **Mentions:** y2v4 ×17, y1v4 ×4
-- **Mention evidence:** “…o read, and thus easier to distinguish who was in our group. CLASS A: Takemoto Shigeru, Machida Kouji, Morishige Takurou CLASS B: Ichinose Honami, Hamaguchi Tetsuya, Beppu Ryouta CLASS C: Ibuki Mio, Manabe Sh…” (y1v4 p.39)
-- **Mention evidence:** “…themselves from the rest of the group, they weren’t bad guys at all. Takemoto and the others didn’t appear to be too interested, though. “All I did was the right thing.” Machida blushed slightly. Perhaps thi…” (y1v4 p.95)
-- **Notes:** seed: Class 1-A | corpus surname hits 20 | [P2-band]
 
 ### Tatebayashi
 
@@ -1330,35 +1372,48 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Mention evidence:** “…in her class to team up with, so she asked Ichinose to help her. Now, Tsube from Class C will help her out.” Ah, Hitomi Tsube from Class 2-C. She was an excellent student with more than a B in both Academi…” (y2v2 p.315)
 - **Notes:** seed: Class 1-B | corpus surname hits 11 | [P2-band]
 
-### Motodoi Chikako
-
-`tier 3 · 20 mentions · 0 quoted lines · 0 scene(s)`
-
-- **Aliases:** Motodoi, Motodoi Chikako, Chikako
-- **Mentions:** y1v9 ×9, y2v12 ×5, y1v8 ×3, y1v11 ×3
-- **Mention evidence:** “…a Minori-san, Nishino Takeko-san, Manabe Shiho-san, Nishi Haruka-san, Motodoi Chikako-san, Rokkaku Momoe-san, and I formed a group of eleven people. I was the only one from Class B, and there was also only o…” (y1v8 p.148)
-- **Mention evidence:** “…ve a minute?” Within the hallways, after school. A girl from Class A, Motodoi Chikako, called out to Hashimoto from behind. Like Hashimoto, she was a member of the tennis club. She appeared to have run to ca…” (y1v9 p.119)
-- **Notes:** seed: Class 1-A | corpus surname hits 12 | [P2-band]
-
-### Nomura Yuuji
+### Sugio Hiroshi
 
 `tier 3 · 20 mentions · 1 quoted lines · 1 scene(s)`
 
-- **Aliases:** Nomura, Nomura Yuuji, Yuuji
-- **Spoken in:** y1v6
-- **Gap queue (mentioned, no attributed line):** y1v4, y1v5, y2v2, y2v7, y2v10, y2v12
-- **Notes:** seed: Class 1-C | corpus surname hits 12 | [P2-band]
-- **Quote:** “N-no, that’s not it! I’m not doing that!” (y1v6 p.65)
+- **Aliases:** Sugio, Sugio Hiroshi, Hiroshi
+- **Spoken in:** y3v1
+- **Gap queue (mentioned, no attributed line):** y1v11, y2v10, y2v12, y3v3
+- **Notes:** seed: Class 1-A | corpus surname hits 9 | [P2-band]
+- **Quote:** “Yes!” (y3v1 p.42)
 
-### Shiro
+### Suzuki Hidetoshi
 
 `tier 3 · 20 mentions · 0 quoted lines · 0 scene(s)`
 
-- **Aliases:** Shiro
-- **Mentions:** y0 ×20
-- **Mention evidence:** “…treak. The fights were rotated between male and female opponents, but Shiro stood in front of me, silently waiting for the signal to begin. Shiro had an overwhelmingly good record of 135 wins and 9 losses.…” (y0 p.116)
-- **Mention evidence:** “…ots?” “I don't like them either.” The answer wasn’t from me, but from Shiro, who was sitting on my left. Yuki looked at him in surprise. While I was distracted by the dialogue between the two, I checked th…” (y0 p.119)
-- **Notes:** y0 White Room randori opponent; given name unknown | [P2-band10]
+- **Aliases:** Suzuki, Suzuki Hidetoshi, Hidetoshi
+- **Mentions:** y1v4 ×3, y1v11 ×3, y2v4.5 ×3, y2v12 ×3, y2v5 ×2, y3v3 ×2, y0 ×1, y1v5 ×1 (+2 more vols)
+- **Mention evidence:** “…that are considered "light automobiles." For example, the Honda Beat, Suzuki Cappuccino, and Daihatsu Copen. Chapter 3: Activation｜LegacyEMTLs 100” (y0 p.100)
+- **Mention evidence:** “…LASS B: Andou Saya, Kanzaki Ryuuji, Tsube Hitomi CLASS C: Oda Takumi, Suzuki Hidetoshi, Sonoda Masashi, Ryuuen Kakeru CLASS D: Kushida Kikyou, Hirata Yousuke, Horikita Suzune First, the Class D students,…” (y1v4 p.64)
+- **Notes:** seed: Class 1-C | corpus surname hits 11 | [P2-band]
+
+### Yamawaki
+
+`tier 3 · 20 mentions · 4 quoted lines · 3 scene(s)`
+
+- **Aliases:** Yamawaki
+- **Spoken in:** y1v1
+- **Gap queue (mentioned, no attributed line):** y2v4.5, y2v12, y3v1, y3v3
+- **Notes:** P1 shell promotion: Class C student (Y1V1) | [P2-band10]
+- **Quote:** “I have to say, I’m glad that they separate the classes in this school by ability. That way I don’t have to study with losers like you.” (y1v1 p.220)
+- **Quote:** “We’re not studying just to avoid failing. We’re studying so we can improve our test scores. Don’t lump us together with you,” (y1v1 p.221)
+- **Quote:** “Also, being happy because you know who Francis Bacon is? Are you nuts? Why are you studying things that aren’t even on the test?” (y1v1 p.221)
+- **Quote:** “S-sorry. We don’t want that, Ichinose,” (y1v1 p.222)
+
+### Beppu Ryouta
+
+`tier 3 · 19 mentions · 0 quoted lines · 0 scene(s)`
+
+- **Aliases:** Beppu, Beppu Ryouta, Ryouta
+- **Mentions:** y3v3 ×7, y1v4 ×4, y1v8 ×3, y3v1 ×3, y1v11 ×2
+- **Mention evidence:** “…Kouji, Morishige Takurou CLASS B: Ichinose Honami, Hamaguchi Tetsuya, Beppu Ryouta CLASS C: Ibuki Mio, Manabe Shiho, Yabu Nanami, Yamashita Saki CLASS D: Ayanokouji Kiyotaka, Karuizawa Kei, Sotomura Hideo,…” (y1v4 p.39)
+- **Mention evidence:** “…amaguchi-kun. I’ll show mine, too.” After Hamaguchi showed his phone, Beppu from Class B followed suit. This didn’t seem like some spur-of-the-moment idea. This seemed like a strategy Ichinose had come up…” (y1v4 p.219)
+- **Notes:** seed: Class 1-B | corpus surname hits 6 | [P2-band]
 
 ### Ikari Momoko
 
@@ -1370,6 +1425,26 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Mention evidence:** “…ome quiet, if you would. Now, it is truly unfortunate, but this means Ikari-san will have to take responsibility for the group, and thus, she will be expelled. Ikari-san may also decide to invoke the solid…” (y1v8 p.231)
 - **Notes:** third-year Class B group representative (Y1) | [P2-merge ikari] seed bare 'Class 3-B Ikari' = Ikari Momoko (group rep); faculty Ikari-sensei (Y2V5) is a third, distinct char | from 'ikari': seed: Class 3-B | corpus surname hits 17 | [P2-band10]
 
+### Tamiya Emi
+
+`tier 3 · 19 mentions · 0 quoted lines · 0 scene(s)`
+
+- **Aliases:** Tamiya, Tamiya Emi, Emi
+- **Mentions:** y2v12 ×9, y1v11 ×7, y3v2 ×2, y3v3 ×1
+- **Mention evidence:** “…cialize in Flash Mental Arithmetic are me and one other student named Tamiya. Furthermore, Tamiya isn’t all that skilled at it either. With that being the case, leaving me out of the event would just hurt o…” (y1v11 p.279)
+- **Mention evidence:** “…g in disguise. The students Sakayanagi chose were Katsuragi Kōhei and Tamiya Emi. According to the information Katsuragi had leaked to us, Tamiya’s abilities weren’t all that impressive. As proof, Katsuragi…” (y1v11 p.360)
+- **Notes:** seed: Class 1-A | corpus surname hits 12 | [P2-band]
+
+### Nakanishi
+
+`tier 3 · 18 mentions · 0 quoted lines · 0 scene(s)`
+
+- **Aliases:** Nakanishi, Jiro
+- **Mentions:** y2v12 ×13, y1v3 ×2, y3v3 ×2, y1v11 ×1
+- **Mention evidence:** “…. “Pardon me, Ichinose-san? I’m sorry to interrupt. Do you know where Nakanishi-kun is?” asked a male student in a rather reserved voice. “I think Nakanishi-kun headed down to the shore. Why do you ask?” “I th…” (y1v3 p.124)
+- **Mention evidence:** “…ibata cut in, his voice filled with conviction. “For some reason, me, Nakanishi, and even Beppu have all had to deal with the same crap from them. I dunno what to tell you, they’re pestering us constantly and…” (y1v11 p.177)
+- **Notes:** seed: Class 1-B | corpus surname hits 15 | [P2-band]
+
 ### Nishimura Ryuuko
 
 `tier 3 · 18 mentions · 1 quoted lines · 1 scene(s)`
@@ -1380,15 +1455,25 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Notes:** seed: Class 1-D | corpus surname hits 10 | [P2-band]
 - **Quote:** “Sensei, based on this schedule, won’t our summer vacation be very short?” (y2v2 p.121)
 
-### Nogi
+### Sonoda Masashi
 
 `tier 3 · 18 mentions · 0 quoted lines · 0 scene(s)`
 
-- **Aliases:** Nogi
-- **Mentions:** y0 ×18
-- **Mention evidence:** “…unted his parents' power as if it was his own and acted like a king… “Nogi-kun, if you make fun of me, you'll get in real trouble.” Nogi? The Nogi Pharmaceuticals, huh? They’re one of the most powerful an…” (y0 p.186)
-- **Mention evidence:** “If the situation turned bloody, President Nogi's name would be tarnished. But the situation seemed to have suddenly changed. “Fuji isn’t lying. At least, I think so.” With the…” (y0 p.187)
-- **Notes:** P1 shell promotion: y0, Nogi Pharmaceuticals family | [P2-band10]
+- **Aliases:** Sonoda, Sonoda Masashi, Masashi
+- **Mentions:** y1v4 ×3, y2v11 ×3, y2v12 ×3, y2v9 ×2, y1v5 ×1, y1v11 ×1, y1v11.5 ×1, y2v7 ×1 (+3 more vols)
+- **Mention evidence:** “…, Kanzaki Ryuuji, Tsube Hitomi CLASS C: Oda Takumi, Suzuki Hidetoshi, Sonoda Masashi, Ryuuen Kakeru CLASS D: Kushida Kikyou, Hirata Yousuke, Horikita Suzune First, the Class D students, Hirata and Kushida…” (y1v4 p.64)
+- **Mention evidence:** “…da. “I guess.” I shrugged. “The player handling the ball right now is Sonoda-kun from Class C. He’s quite fast, isn’t he?” mused Kushida. All the students in the soccer club were nimble. The only ones from…” (y1v5 p.79)
+- **Notes:** seed: Class 1-C | corpus surname hits 13 | [P2-band]
+
+### Tsukasaki Taiga
+
+`tier 3 · 18 mentions · 0 quoted lines · 0 scene(s)`
+
+- **Aliases:** Tsukasaki, Taiga
+- **Mentions:** y1v7.5 ×3, y3v1 ×3, y1v11 ×2, y2v4 ×2, y2v4.5 ×2, y2v12 ×2, y3v3 ×2, y1v8 ×1 (+1 more vols)
+- **Mention evidence:** “…’d never have a lot of influence. That was why Yousuke-kun, Class A’s Tsukasaki-kun, and Class B’s Shibata-kun were way more popular than Kiyotaka. As it turned out, though, the real Kiyotaka was a good talker…” (y1v7.5 p.13)
+- **Mention evidence:** “…lots of other guys would be great for you. I dunno, maybe a guy like Tsukasaki-kun from that other class?” He was Page 7 Goldenagato | mp4directs.com” (y1v7.5 p.17)
+- **Notes:** Y1V11 Event Selection Class A team | [P2-band10]
 
 ### Isomaru
 
@@ -1396,29 +1481,39 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 
 - **Aliases:** Youkou, Isomaru
 - **Mentions:** y0 ×17
-- **Mention evidence:** “…He was not a member of any of the three major factions: Naoe-sensei, Isomaru-sensei, and Prime Minister Miyako. Although small in number, he was in the fourth faction in the Citizen's Party, not belonging t…” (y0 p.17)
-- **Mention evidence:** “…the unknown. “Today's discussion, as you may have guessed, was about Isomaru.” Isomaru Youkou has reigned in politics for many years as the number three of the Civic Party. “He's getting old, just like me.…” (y0 p.19)
+- **Mention evidence:** “…aligned with the other three major factions belonging to Naoe-sensei, Isomaru-sensei, and Prime Minister Miyako. He was the most promising figure among the younger generation and was touted as being closest…” (y0 p.25)
+- **Mention evidence:** “…be a nobody. "Today's discussion, as you might've guessed, was about Isomaru." Isomaru Youkou had been reigning in the political world as the Citizens' Party's third highest-ranking position for many years.…” (y0 p.28)
 - **Notes:** P1 shell promotion: y0 faction leader, Isomaru-sensei | [P2-band10]
 
-### Sonoda Masashi
+### Moriyama
+
+`tier 3 · 17 mentions · 1 quoted lines · 1 scene(s)`
+
+- **Aliases:** Moriyama, Susumu
+- **Spoken in:** y3v3
+- **Gap queue (mentioned, no attributed line):** y1v8, y1v9, y1v11, y2v10, y2v12
+- **Notes:** seed: Class 1-B | corpus surname hits 7 | [P2-band]
+- **Quote:** “It's already evening, but it's pretty scary with them just a stone's throw away. Let's hurry back.” (y3v3 p.184)
+
+### Nogi
 
 `tier 3 · 17 mentions · 0 quoted lines · 0 scene(s)`
 
-- **Aliases:** Sonoda, Sonoda Masashi, Masashi
-- **Mentions:** y1v4 ×3, y2v11 ×3, y2v12 ×3, y2v9 ×2, y1v5 ×1, y1v11 ×1, y1v11.5 ×1, y2v7 ×1 (+2 more vols)
-- **Mention evidence:** “…, Kanzaki Ryuuji, Tsube Hitomi CLASS C: Oda Takumi, Suzuki Hidetoshi, Sonoda Masashi, Ryuuen Kakeru CLASS D: Kushida Kikyou, Hirata Yousuke, Horikita Suzune First, the Class D students, Hirata and Kushida…” (y1v4 p.64)
-- **Mention evidence:** “…da. “I guess.” I shrugged. “The player handling the ball right now is Sonoda-kun from Class C. He’s quite fast, isn’t he?” mused Kushida. All the students in the soccer club were nimble. The only ones from…” (y1v5 p.79)
-- **Notes:** seed: Class 1-C | corpus surname hits 13 | [P2-band]
+- **Aliases:** Nogi
+- **Mentions:** y0 ×17
+- **Mention evidence:** “…s' power as if it were his own, acting like a king. "If you mess with Nogi-kun, things will really get serious." Nogi? That must be Nogi Pharmaceuticals. Among the wealthy people present today, they were…” (y0 p.226)
+- **Mention evidence:** “…rostrate yourself, I'll hit you, okay?" Gradually becoming irritated, Nogi wetted his lips, dissatisfied. "You better prostrate yourself soon." Ryuuji maintained his attitude, pushing him to apologize, bu…” (y0 p.227)
+- **Notes:** P1 shell promotion: y0, Nogi Pharmaceuticals family | [P2-band10]
 
-### Suzuki Hidetoshi
+### Shiro
 
 `tier 3 · 17 mentions · 0 quoted lines · 0 scene(s)`
 
-- **Aliases:** Suzuki, Suzuki Hidetoshi, Hidetoshi
-- **Mentions:** y1v4 ×3, y1v11 ×3, y2v4.5 ×3, y2v12 ×3, y2v5 ×2, y1v5 ×1, y1v8 ×1, y2v7 ×1
-- **Mention evidence:** “…LASS B: Andou Saya, Kanzaki Ryuuji, Tsube Hitomi CLASS C: Oda Takumi, Suzuki Hidetoshi, Sonoda Masashi, Ryuuen Kakeru CLASS D: Kushida Kikyou, Hirata Yousuke, Horikita Suzune First, the Class D students,…” (y1v4 p.64)
-- **Mention evidence:** “…opponent. “Huh?! Wait—the other guys Ken’s up against are Nomura and Suzuki! Dude, not fair!” Ike looked genuinely frustrated upon seeing what a fortunate lineup Sudou had. The two Class C students in ques…” (y1v5 p.111)
-- **Notes:** seed: Class 1-C | corpus surname hits 11 | [P2-band]
+- **Aliases:** Shiro
+- **Mentions:** y0 ×17
+- **Mention evidence:** “…nts were rotated regardless of gender, but standing before me now was Shiro, quietly waiting for the signal to start. Shiro's total record was 135 wins and 9 losses, an overwhelmingly good record. We had f…” (y0 p.142)
+- **Mention evidence:** “…ke them either." The answer came not from me, who was asked, but from Shiro, who was sitting on my left. Yuki looked surprised and turned her gaze towards him. While their conversation captured my attentio…” (y0 p.145)
+- **Notes:** y0 White Room randori opponent; given name unknown | [P2-band10]
 
 ### Tomose Shunsaku
 
@@ -1430,55 +1525,26 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Mention evidence:** “…before. Anyway, please wait a little while longer. I will do my best. Shunsaku-sama drew such gorgeous illustrations for this book. I nearly suffocated when I saw the cover art with Kushida. It just had the b…” (y1v2 p.258)
 - **Notes:** P1 shell merge: keys tomose, shunsaku, tomoseshunsaku (family+given shells of one person) | [P2-band10]
 
-### Nakanishi
+### Yano Koharu
 
-`tier 3 · 16 mentions · 0 quoted lines · 0 scene(s)`
+`tier 3 · 17 mentions · 0 quoted lines · 0 scene(s)`
 
-- **Aliases:** Nakanishi, Jiro
-- **Mentions:** y2v12 ×13, y1v3 ×2, y1v11 ×1
-- **Mention evidence:** “…. “Pardon me, Ichinose-san? I’m sorry to interrupt. Do you know where Nakanishi-kun is?” asked a male student in a rather reserved voice. “I think Nakanishi-kun headed down to the shore. Why do you ask?” “I th…” (y1v3 p.124)
-- **Mention evidence:** “…ibata cut in, his voice filled with conviction. “For some reason, me, Nakanishi, and even Beppu have all had to deal with the same crap from them. I dunno what to tell you, they’re pestering us constantly and…” (y1v11 p.177)
-- **Notes:** seed: Class 1-B | corpus surname hits 15 | [P2-band]
+- **Aliases:** Yano, Yano Koharu, Koharu
+- **Mentions:** y2v12 ×6, y2v10 ×3, y1v4 ×2, y2v2 ×2, y3v3 ×2, y2v8 ×1, y3v2 ×1
+- **Mention evidence:** “…he names. CLASS A: Katsuragi Kouhei, Nishikawa Ryouko, Matoba Shinji, Yano Koharu CLASS B: Andou Saya, Kanzaki Ryuuji, Tsube Hitomi CLASS C: Oda Takumi, Suzuki Hidetoshi, Sonoda Masashi, Ryuuen Kakeru C…” (y1v4 p.64)
+- **Mention evidence:** “…e People” and “Nullify”, went to Class C’s Asakura Mako and Class A’s Yano Koharu respectively. It was probably fortunate that they were separated like this, at least to a certain extent. I proceeded to l…” (y2v2 p.168)
+- **Notes:** seed: Class 1-A | corpus surname hits 8 | [P2-band]
 
-### Tamiya Emi
+### Akiyama
 
-`tier 3 · 16 mentions · 0 quoted lines · 0 scene(s)`
+`tier 3 · 16 mentions · 1 quoted lines · 1 scene(s)`
 
-- **Aliases:** Tamiya, Tamiya Emi, Emi
-- **Mentions:** y2v12 ×9, y1v11 ×7
-- **Mention evidence:** “…cialize in Flash Mental Arithmetic are me and one other student named Tamiya. Furthermore, Tamiya isn’t all that skilled at it either. With that being the case, leaving me out of the event would just hurt o…” (y1v11 p.279)
-- **Mention evidence:** “…g in disguise. The students Sakayanagi chose were Katsuragi Kōhei and Tamiya Emi. According to the information Katsuragi had leaked to us, Tamiya’s abilities weren’t all that impressive. As proof, Katsuragi…” (y1v11 p.360)
-- **Notes:** seed: Class 1-A | corpus surname hits 12 | [P2-band]
-
-### Yamashita Saki
-
-`tier 3 · 16 mentions · 0 quoted lines · 0 scene(s)`
-
-- **Aliases:** Yamashita, Yamashita Saki, Saki
-- **Mentions:** y1v4 ×5, y1v6 ×3, y2v12 ×3, y1v8 ×2, y2v7 ×1, y2v11 ×1, y2v12.5 ×1
-- **Mention evidence:** “…Tetsuya, Beppu Ryouta CLASS C: Ibuki Mio, Manabe Shiho, Yabu Nanami, Yamashita Saki CLASS D: Ayanokouji Kiyotaka, Karuizawa Kei, Sotomura Hideo, Yukimura Teruhiko I know some of the students on the list. Ich…” (y1v4 p.39)
-- **Mention evidence:** “…orgiving me.” After Karuizawa spat out those words, one of the girls, Yamashita, lost her patience. “Shiho-chan. I’ve had enough. Karuizawa’s unforgivable.” “I know, right? She should understand exactly how Ri…” (y1v4 p.161)
-- **Notes:** seed: Class 1-C | corpus surname hits 9 | [P2-band]
-
-### Sugio Hiroshi
-
-`tier 3 · 15 mentions · 1 quoted lines · 1 scene(s)`
-
-- **Aliases:** Sugio, Sugio Hiroshi, Hiroshi
-- **Spoken in:** y3v1
-- **Gap queue (mentioned, no attributed line):** y1v11, y2v10, y2v12
-- **Notes:** seed: Class 1-A | corpus surname hits 9 | [P2-band]
-- **Quote:** “Yes!” (y3v1 p.42)
-
-### Tsukasaki Taiga
-
-`tier 3 · 15 mentions · 0 quoted lines · 0 scene(s)`
-
-- **Aliases:** Tsukasaki, Taiga
-- **Mentions:** y1v7.5 ×3, y3v1 ×3, y1v11 ×2, y2v4 ×2, y2v4.5 ×2, y2v12 ×2, y1v8 ×1
-- **Mention evidence:** “…’d never have a lot of influence. That was why Yousuke-kun, Class A’s Tsukasaki-kun, and Class B’s Shibata-kun were way more popular than Kiyotaka. As it turned out, though, the real Kiyotaka was a good talker…” (y1v7.5 p.13)
-- **Mention evidence:** “…lots of other guys would be great for you. I dunno, maybe a guy like Tsukasaki-kun from that other class?” He was Page 7 Goldenagato | mp4directs.com” (y1v7.5 p.17)
-- **Notes:** Y1V11 Event Selection Class A team | [P2-band10]
+- **Aliases:** Akiyama
+- **Spoken in:** y3v2
+- **Gap queue (mentioned, no attributed line):** y2v9.5, y2v10, y2v10.25, y2v12.5, y3v1
+- **Notes:** P1 shell promotion: gym staff member (Y2V10/10.25) | [P2-band10]
+- **Claim:** “Akiyama was the name of a female staff member at the Keyaki Mall gym where Mashima-sensei and I went.” (y2v12.5 p.66)
+- **Quote:** “Perhaps a storm of love is brewing.” (y3v2 p.218)
 
 ### Yajima Mariko
 
@@ -1496,8 +1562,8 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 
 - **Aliases:** Fuji
 - **Mentions:** y0 ×14
-- **Mention evidence:** “…en’s education. “Then how can you be satisfied? What do you want from Fuji?” The three of them—Ryuuji, Fuji, and Nogi—were acquainted with each other’s groups. (TL Note: groups is written with the loanwor…” (y0 p.186)
-- **Mention evidence:** “…uld be tarnished. But the situation seemed to have suddenly changed. “Fuji isn’t lying. At least, I think so.” With the conclusion thought to have already been decided, a sixth child appeared. All four of…” (y0 p.187)
+- **Mention evidence:** “…assive failure. "So what will satisfy you guys? What do you want from Fuji?" The three parties—Nogi's group, Ryuuji, and Fuji—were clearly acquaintances, each belonging to different circles. "Prostrate yo…” (y0 p.226)
+- **Mention evidence:** “…soon." Ryuuji maintained his attitude, pushing him to apologize, but Fuji shook his head from side to side. Despite shedding tears, he continued to insist that he had received the signature. This seems t…” (y0 p.227)
 - **Notes:** y0 youth group with Ryuuji and Nogi; given name unknown | [P2-band10]
 
 ### Nakaizumi Shouhei
@@ -1510,16 +1576,6 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Notes:** Y2V12 Class C discussion roster | [P2-band10]
 - **Quote:** “Ah, indeed. I also felt that was suspicious.” (y2v12 p.178)
 
-### Satonaka Satoru
-
-`tier 3 · 14 mentions · 0 quoted lines · 0 scene(s)`
-
-- **Aliases:** Satonaka, Satonaka Satoru
-- **Mentions:** y2v10 ×5, y2v12 ×3, y1v7.5 ×2, y1v11 ×2, y1v1 ×1, y2v6 ×1
-- **Mention evidence:** “…ble fifth place in the hot guy rankings. Congratulations! By the way, Satonaka-kun in Class A is in first place. Hirata-kun’s in second. The third and fourth place boys are in Class A. I feel like Hirata-kun…” (y1v1 p.215)
-- **Mention evidence:** “…y when they started a relationship. “Ah, okay. I see. Well, how about Satonaka-kun? He should be single now, right?” I asked. “Well, I think he’s cool and all, but…I guess I just don’t feel that way about him…” (y1v7.5 p.18)
-- **Notes:** seed: Class 1-A | corpus surname hits 12 | [P2-band]
-
 ### Sugimura
 
 `tier 3 · 14 mentions · 1 quoted lines · 1 scene(s)`
@@ -1530,26 +1586,15 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Notes:** seed: Other | corpus surname hits 14 | [P2-band]
 - **Quote:** “Of course I know that. I’m not a hero or anything. But I want to save the people close to me, at the very least. I must help them. That’s my penance for the sin I committed,” (y1v4 p.182)
 
-### Yano Koharu
+### Andou Sayo
 
-`tier 3 · 14 mentions · 0 quoted lines · 0 scene(s)`
+`tier 3 · 13 mentions · 1 quoted lines · 1 scene(s)`
 
-- **Aliases:** Yano, Yano Koharu, Koharu
-- **Mentions:** y2v12 ×6, y2v10 ×3, y1v4 ×2, y2v2 ×2, y2v8 ×1
-- **Mention evidence:** “…he names. CLASS A: Katsuragi Kouhei, Nishikawa Ryouko, Matoba Shinji, Yano Koharu CLASS B: Andou Saya, Kanzaki Ryuuji, Tsube Hitomi CLASS C: Oda Takumi, Suzuki Hidetoshi, Sonoda Masashi, Ryuuen Kakeru C…” (y1v4 p.64)
-- **Mention evidence:** “…e People” and “Nullify”, went to Class C’s Asakura Mako and Class A’s Yano Koharu respectively. It was probably fortunate that they were separated like this, at least to a certain extent. I proceeded to l…” (y2v2 p.168)
-- **Notes:** seed: Class 1-A | corpus surname hits 8 | [P2-band]
-
-### Akiyama
-
-`tier 3 · 13 mentions · 0 quoted lines · 0 scene(s)`
-
-- **Aliases:** Akiyama
-- **Mentions:** y2v9.5 ×6, y2v12.5 ×4, y2v10 ×1, y2v10.25 ×1, y3v1 ×1
-- **Mention evidence:** “…that was a relief. “The staff member who was here earlier—her name is Akiyama-san.” “I wasn't really paying attention, but she did have a name tag. What about her?” “...I want you to investigate her. As care…” (y2v9.5 p.21)
-- **Mention evidence:** “…ely be an intense, emotional affair. “But you can't say for sure that Akiyama-san, a staff member, isn't like them.” It was something that couldn’t be determined from the surface, but as you got to know each…” (y2v9.5 p.22)
-- **Notes:** P1 shell promotion: gym staff member (Y2V10/10.25) | [P2-band10]
-- **Claim:** “Akiyama was the name of a female staff member at the Keyaki Mall gym where Mashima-sensei and I went.” (y2v12.5 p.66)
+- **Aliases:** Andou, Andou Sayo, Sayo
+- **Spoken in:** y2v3
+- **Gap queue (mentioned, no attributed line):** y1v4, y2v8, y2v12, y3v3
+- **Notes:** seed: Class 1-B | corpus surname hits 1 | [P2-band]
+- **Quote:** “Well, like… ya know…” (y2v3 p.256)
 
 ### Makida Susumu
 
@@ -1571,38 +1616,25 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Mention evidence:** “…or the Rat, Horse, Rooster, and Pig groups. They’d all had traitors. “Minami-kun was the Horse group VIP, right?” asked Horikita. “Yeah. Someone discovered his identity,” I reasoned. “Did one of us send an…” (y1v4 p.236)
 - **Notes:** seed: Class 1-D | corpus surname hits 9 | [P2-band]
 
-### Yamawaki
+### Sumida Makoto
 
-`tier 3 · 13 mentions · 4 quoted lines · 3 scene(s)`
+`tier 3 · 13 mentions · 0 quoted lines · 0 scene(s)`
 
-- **Aliases:** Yamawaki
-- **Spoken in:** y1v1
-- **Gap queue (mentioned, no attributed line):** y2v4.5, y2v12, y3v1
-- **Notes:** P1 shell promotion: Class C student (Y1V1) | [P2-band10]
-- **Quote:** “I have to say, I’m glad that they separate the classes in this school by ability. That way I don’t have to study with losers like you.” (y1v1 p.220)
-- **Quote:** “We’re not studying just to avoid failing. We’re studying so we can improve our test scores. Don’t lump us together with you,” (y1v1 p.221)
-- **Quote:** “Also, being happy because you know who Francis Bacon is? Are you nuts? Why are you studying things that aren’t even on the test?” (y1v1 p.221)
-- **Quote:** “S-sorry. We don’t want that, Ichinose,” (y1v1 p.222)
+- **Aliases:** Sumida, Sumida Makoto, Makoto
+- **Mentions:** y1v11 ×3, y2v10 ×3, y2v12 ×3, y1v8 ×2, y1v9 ×1, y3v3 ×1
+- **Mention evidence:** “…C, we had Kouenji, Keisei, and me. Three people. From Class B, we had Sumida, Moriyama, and Tokitou. Three people. From Class A, we had Yahiko and Hashimoto. Two people. 41 Goldenagato | mp4directs.com” (y1v8 p.50)
+- **Mention evidence:** “…nts who weren’t confident in their speed. Keisei was first. Next were Sumida, Tokitou, and Moriyama from Class B. Yahiko was fifth. We placed them like that because there were relative dips and rises in the…” (y1v8 p.222)
+- **Notes:** seed: Class 1-B | corpus surname hits 6 | [P2-band]
 
-### Andou Sayo
-
-`tier 3 · 12 mentions · 1 quoted lines · 1 scene(s)`
-
-- **Aliases:** Andou, Andou Sayo, Sayo
-- **Spoken in:** y2v3
-- **Gap queue (mentioned, no attributed line):** y1v4, y2v8, y2v12
-- **Notes:** seed: Class 1-B | corpus surname hits 1 | [P2-band]
-- **Quote:** “Well, like… ya know…” (y2v3 p.256)
-
-### Beppu Ryouta
+### Ijuin Kou
 
 `tier 3 · 12 mentions · 0 quoted lines · 0 scene(s)`
 
-- **Aliases:** Beppu, Beppu Ryouta, Ryouta
-- **Mentions:** y1v4 ×4, y1v8 ×3, y3v1 ×3, y1v11 ×2
-- **Mention evidence:** “…Kouji, Morishige Takurou CLASS B: Ichinose Honami, Hamaguchi Tetsuya, Beppu Ryouta CLASS C: Ibuki Mio, Manabe Shiho, Yabu Nanami, Yamashita Saki CLASS D: Ayanokouji Kiyotaka, Karuizawa Kei, Sotomura Hideo,…” (y1v4 p.39)
-- **Mention evidence:** “…amaguchi-kun. I’ll show mine, too.” After Hamaguchi showed his phone, Beppu from Class B followed suit. This didn’t seem like some spur-of-the-moment idea. This seemed like a strategy Ichinose had come up…” (y1v4 p.219)
-- **Notes:** seed: Class 1-B | corpus surname hits 6 | [P2-band]
+- **Aliases:** Ijuin
+- **Mentions:** y3v3 ×6, y2v10 ×3, y1v10 ×1, y2v4.5 ×1, y2v12 ×1
+- **Mention evidence:** “…re’s Yamauchi along with Ike and Sudō, and beyond those three, Hondō, Ijuin, Miyamoto, and Sotomura all seem to be on fairly good terms with him.” There only seemed to be seven censure votes from the boys…” (y1v10 p.229)
+- **Mention evidence:** “…he one that found me. In addition to Nanase, I also saw my classmates Ijūin and Okitani, Sakayanagi from Class A, and Nakaizumi and Suzuki from Ryūen’s class. It seemed that many second-year students wante…” (y2v4.5 p.74)
+- **Notes:** Y1 bare mentions = Horikita's-class (1-C) classmate; Y2V12 'Ijūin Kou' 2nd-Yr Class B participants
 
 ### Katagiri
 
@@ -1614,25 +1646,15 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Mention evidence:** “…with the GPS from the beginning. “Just for fun, do I send errand boy ‘Katagiri’ back half dead? " When his face stiffened, the Katagiri in front of him started to shrink. The slightest change in mood can make…” (y2v4 p.132)
 - **Notes:** P1 shell promotion: Y2 Class C student; NOT credits-name Katagiri Yuuichi (distinct) | [P2-band10]
 
-### Sumida Makoto
+### Toba Shigeru
 
 `tier 3 · 12 mentions · 0 quoted lines · 0 scene(s)`
 
-- **Aliases:** Sumida, Sumida Makoto, Makoto
-- **Mentions:** y1v11 ×3, y2v10 ×3, y2v12 ×3, y1v8 ×2, y1v9 ×1
-- **Mention evidence:** “…C, we had Kouenji, Keisei, and me. Three people. From Class B, we had Sumida, Moriyama, and Tokitou. Three people. From Class A, we had Yahiko and Hashimoto. Two people. 41 Goldenagato | mp4directs.com” (y1v8 p.50)
-- **Mention evidence:** “…nts who weren’t confident in their speed. Keisei was first. Next were Sumida, Tokitou, and Moriyama from Class B. Yahiko was fifth. We placed them like that because there were relative dips and rises in the…” (y1v8 p.222)
-- **Notes:** seed: Class 1-B | corpus surname hits 6 | [P2-band]
-
-### Moriyama
-
-`tier 3 · 11 mentions · 0 quoted lines · 0 scene(s)`
-
-- **Aliases:** Moriyama, Susumu
-- **Mentions:** y1v8 ×5, y2v12 ×3, y1v9 ×1, y1v11 ×1, y2v10 ×1
-- **Mention evidence:** “…d Kouenji, Keisei, and me. Three people. From Class B, we had Sumida, Moriyama, and Tokitou. Three people. From Class A, we had Yahiko and Hashimoto. Two people. 41 Goldenagato | mp4directs.com” (y1v8 p.50)
-- **Mention evidence:** “…lasses, there’s bound to be tension.” “I wish that were all it was.” “Moriyama and the others told me. Sounds like you guys really have your hands full with Kouenji.” A natural assumption, under the circumsta…” (y1v8 p.128)
-- **Notes:** seed: Class 1-B | corpus surname hits 7 | [P2-band]
+- **Aliases:** Toba, Toba Shigeru
+- **Mentions:** y3v3 ×4, y2v10 ×3, y2v12 ×3, y1v11 ×2
+- **Mention evidence:** “…have any experience. As for our opponent, Class A chose Machida Kōji, Toba Shigeru, Kamuro Masumi, Shimizu Naoki, and Kitō Hayato. Sakayanagi had thrown a girl into the mix as well. According to the infor…” (y1v11 p.339)
+- **Mention evidence:** “…te to expel.” During the exam, five students—Kamuro, Yamamura, Sugio, Toba, and Machida—were eliminated. “Normally, it would be proper to decide based on the contribution to the class, but we won’t do tha…” (y2v10 p.193)
+- **Notes:** seed: Class 1-A | corpus surname hits 6 | [P2-band]
 
 ### Tatara
 
@@ -1654,6 +1676,16 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Mention evidence:** “…ur opponents would be, so we honestly had no idea what would happen.” Toyohashi and Yanagi happily said so. Each of them had a turn at table tennis in today's third and fourth rounds, which probably influenced…” (y2v11 p.85)
 - **Notes:** Y2V11 first-year Class A list | [P2-band10]
 
+### Yoshimoto Kosetsu
+
+`tier 3 · 11 mentions · 0 quoted lines · 0 scene(s)`
+
+- **Aliases:** Yoshimoto, Yoshimoto Kousetsu, Kousetsu
+- **Mentions:** y1v6 ×5, y2v12 ×4, y3v3 ×2
+- **Mention evidence:** “6.1 “That reminds me. There’s a guy named Yoshimoto-kun in Class C, right? Do you know him, Miyacchi?” “Yoshimoto Kousetsu? Yeah, he’s in the archery club.” “I heard that he started…” (y1v6 p.135)
+- **Mention evidence:** “…aku Momoe 2nd Year Class C Sonoda Masashi, Oda Takumi, Yamada Albert, Yoshimoto Kōsetsu, Isoyama Nagisa, Yamashita Saki, Kinoshita Minori The vanguard assigned for Class A versus Class C was the matchup betwee…” (y2v12 p.101)
+- **Notes:** Y2V12 participants ('Yoshimoto Kōsetsu'; also V0) | [P2-merge yoshimoto-kousetsu] seed 'Yoshimoto, Kousetsu' vs pass2 canonical 'Kosetsu' (corpus 'Kōsetsu') — same person | from 'yoshimoto-kousetsu': seed: Class 1-C | corpus surname hits 5 | [P2-band10]
+
 ### Tsunoda
 
 `tier 3 · 10 mentions · 1 quoted lines · 1 scene(s)`
@@ -1669,8 +1701,8 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 
 - **Aliases:** Hisashi, Asama
 - **Mentions:** y0 ×9
-- **Mention evidence:** “…r Kamogawa, was directing his sharp gaze only at the ryotei. “Where's Asama?” His suit and posture, which reminded me of his old age, made him look young at the same time. RoyalMTLs 14” (y0 p.14)
-- **Mention evidence:** “…her 10 or 20 years, unless his physical condition becomes a problem. “Asama-sensei, I’ve brought Naoe-sensei with me.” Beyond the shoji , Asama-sensei was waiting in seiza to welcome Naoesensei. Upon seein…” (y0 p.15)
+- **Mention evidence:** “…Kamogawa, directed his sharp gaze only towards the ryoutei. "Where is Asama?" The way he wore his suit and his posture, which didn't seem fitting for an elderly man, conveyed a sense of youthfulness. "He's…” (y0 p.21)
+- **Mention evidence:** “…likely remain in his position for another ten or even twenty years. "Asama-sensei, I've brought Naoe-sensei." Behind the sliding doors, Asama-sensei, who was waiting in a formal seated position, stood up…” (y0 p.22)
 - **Notes:** P1 shell promotion: y0 adult, Asama-sensei (Naoe's colleague) | [P2-band10]
 
 ### Kimura
@@ -1693,6 +1725,16 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Mention evidence:** “…constantly thinking of ways to sneak into Class A every day. I'm sure Moeka did something she shouldn't have done among them.” “In your generation, Asahina-senpai. Isn't it Nagumo-senpai who’s in charge of…” (y2v9 p.158)
 - **Notes:** 2-C girl who quits school (Y2V9); also called Suchi/Succhii
 
+### Nishi Haruka
+
+`tier 3 · 9 mentions · 0 quoted lines · 0 scene(s)`
+
+- **Aliases:** Nishi, Nishi Haruka
+- **Mentions:** y2v12 ×3, y1v4 ×2, y1v8 ×2, y3v2 ×1, y3v3 ×1
+- **Mention evidence:** “…over the names written on it. CLASS A: Sawada Yasumi, Shimizu Naoki, Nishi Haruka, Yoshida Kenta CLASS B: Kobashi Yume, Ninomiya Yui, Watanabe Norihito CLASS C: Tokitou Hiroya, Nomura Yuuji, Yashima Mari…” (y1v4 p.100)
+- **Mention evidence:** “…Saki-san, Kinoshita Minori-san, Nishino Takeko-san, Manabe Shiho-san, Nishi Haruka-san, Motodoi Chikako-san, Rokkaku Momoe-san, and I formed a group of eleven people. I was the only one from Class B, and t…” (y1v8 p.148)
+- **Notes:** seed: Class 1-A | corpus surname hits 5 | [P2-band]
+
 ### Tanihara Mao
 
 `tier 3 · 9 mentions · 0 quoted lines · 0 scene(s)`
@@ -1703,25 +1745,15 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Mention evidence:** “…A Satonaka Satoru, Tsukasaki Taiga, Sugio Hiroshi, Morishige Takurō, Tanihara Mao, Tsukaji Shihori, Yamamura Miki 2nd Year Class C Ibuki Mio, Inoue Toa, Okabe Fuyu, Suzuhira Miu, Morofuji Rika, Yajima Mariko…” (y2v12 p.106)
 - **Notes:** seed: Class 1-A | corpus surname hits 5 | [P2-band]
 
-### Yoshimoto Kosetsu
-
-`tier 3 · 9 mentions · 0 quoted lines · 0 scene(s)`
-
-- **Aliases:** Yoshimoto, Yoshimoto Kousetsu, Kousetsu
-- **Mentions:** y1v6 ×5, y2v12 ×4
-- **Mention evidence:** “6.1 “That reminds me. There’s a guy named Yoshimoto-kun in Class C, right? Do you know him, Miyacchi?” “Yoshimoto Kousetsu? Yeah, he’s in the archery club.” “I heard that he started…” (y1v6 p.135)
-- **Mention evidence:** “…aku Momoe 2nd Year Class C Sonoda Masashi, Oda Takumi, Yamada Albert, Yoshimoto Kōsetsu, Isoyama Nagisa, Yamashita Saki, Kinoshita Minori The vanguard assigned for Class A versus Class C was the matchup betwee…” (y2v12 p.101)
-- **Notes:** Y2V12 participants ('Yoshimoto Kōsetsu'; also V0) | [P2-merge yoshimoto-kousetsu] seed 'Yoshimoto, Kousetsu' vs pass2 canonical 'Kosetsu' (corpus 'Kōsetsu') — same person | from 'yoshimoto-kousetsu': seed: Class 1-C | corpus surname hits 5 | [P2-band10]
-
-### Toba Shigeru
+### Isoyama Nagisa
 
 `tier 3 · 8 mentions · 0 quoted lines · 0 scene(s)`
 
-- **Aliases:** Toba, Toba Shigeru
-- **Mentions:** y2v10 ×3, y2v12 ×3, y1v11 ×2
-- **Mention evidence:** “…have any experience. As for our opponent, Class A chose Machida Kōji, Toba Shigeru, Kamuro Masumi, Shimizu Naoki, and Kitō Hayato. Sakayanagi had thrown a girl into the mix as well. According to the infor…” (y1v11 p.339)
-- **Mention evidence:** “…te to expel.” During the exam, five students—Kamuro, Yamamura, Sugio, Toba, and Machida—were eliminated. “Normally, it would be proper to decide based on the contribution to the class, but we won’t do tha…” (y2v10 p.193)
-- **Notes:** seed: Class 1-A | corpus surname hits 6 | [P2-band]
+- **Aliases:** Isoyama
+- **Mentions:** y2v10 ×3, y2v12 ×2, y2v4 ×1, y2v11 ×1, y3v3 ×1
+- **Mention evidence:** “…sight of a group of three girls from 2nd year class B, consisting of Isoyama Nagisa, Morofuji Rika, and Shiina Hiyori. … And there were three more from another group of sophomores. I haven't seen them since…” (y2v4 p.116)
+- **Mention evidence:** “…the 8th turn by Sotomura and Ijūin from Horikita’s class, along with Isoyama and Yano from Ryūen’s class. Kamuro from Sakayanagi’s class was eliminated as well. As the last turn of the first half came to an…” (y2v10 p.138)
+- **Notes:** Ryuuen-class member; Y1 expel-vote nominee; Y2 rosters
 
 ### Tokunaga
 
@@ -1743,16 +1775,6 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Mention evidence:** “…hey, what do ya mean by that?” “I suspect that you’re the one who got Hatano expelled. He’s not the kind of student who would easily break the school rules.” “Ain’t it just the small fry imploding as a resu…” (y2v2 p.229)
 - **Notes:** seed: Part2-1-C | corpus surname hits 7 | [P2-band]
 
-### Isoyama Nagisa
-
-`tier 3 · 7 mentions · 0 quoted lines · 0 scene(s)`
-
-- **Aliases:** Isoyama
-- **Mentions:** y2v10 ×3, y2v12 ×2, y2v4 ×1, y2v11 ×1
-- **Mention evidence:** “…sight of a group of three girls from 2nd year class B, consisting of Isoyama Nagisa, Morofuji Rika, and Shiina Hiyori. … And there were three more from another group of sophomores. I haven't seen them since…” (y2v4 p.116)
-- **Mention evidence:** “…the 8th turn by Sotomura and Ijūin from Horikita’s class, along with Isoyama and Yano from Ryūen’s class. Kamuro from Sakayanagi’s class was eliminated as well. As the last turn of the first half came to an…” (y2v10 p.138)
-- **Notes:** Ryuuen-class member; Y1 expel-vote nominee; Y2 rosters
-
 ### Kikuchi
 
 `tier 3 · 7 mentions · 0 quoted lines · 0 scene(s)`
@@ -1763,32 +1785,12 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Mention evidence:** “…itani Kyōsuke,’ ‘Ike Kanji’ Offensive’s Nominees: ‘Ishikura Kayoko,’ ‘Kikuchi Eita,’ ‘Inogashira Kokoro’ Horikita successfully protected two members in her first defense. That was a large score of two. Altho…” (y2v10 p.130)
 - **Notes:** 1-D Y1; exam scoring context (Y1V1); given name unknown
 
-### Nishi Haruka
+### Onizuka
 
 `tier 3 · 7 mentions · 0 quoted lines · 0 scene(s)`
 
-- **Aliases:** Nishi, Nishi Haruka
-- **Mentions:** y2v12 ×3, y1v4 ×2, y1v8 ×2
-- **Mention evidence:** “…over the names written on it. CLASS A: Sawada Yasumi, Shimizu Naoki, Nishi Haruka, Yoshida Kenta CLASS B: Kobashi Yume, Ninomiya Yui, Watanabe Norihito CLASS C: Tokitou Hiroya, Nomura Yuuji, Yashima Mari…” (y1v4 p.100)
-- **Mention evidence:** “…Saki-san, Kinoshita Minori-san, Nishino Takeko-san, Manabe Shiho-san, Nishi Haruka-san, Motodoi Chikako-san, Rokkaku Momoe-san, and I formed a group of eleven people. I was the only one from Class B, and t…” (y1v8 p.148)
-- **Notes:** seed: Class 1-A | corpus surname hits 5 | [P2-band]
-
-### Ijuin Kou
-
-`tier 3 · 6 mentions · 0 quoted lines · 0 scene(s)`
-
-- **Aliases:** Ijuin
-- **Mentions:** y2v10 ×3, y1v10 ×1, y2v4.5 ×1, y2v12 ×1
-- **Mention evidence:** “…re’s Yamauchi along with Ike and Sudō, and beyond those three, Hondō, Ijuin, Miyamoto, and Sotomura all seem to be on fairly good terms with him.” There only seemed to be seven censure votes from the boys…” (y1v10 p.229)
-- **Mention evidence:** “…he one that found me. In addition to Nanase, I also saw my classmates Ijūin and Okitani, Sakayanagi from Class A, and Nakaizumi and Suzuki from Ryūen’s class. It seemed that many second-year students wante…” (y2v4.5 p.74)
-- **Notes:** Y1 bare mentions = Horikita's-class (1-C) classmate; Y2V12 'Ijūin Kou' 2nd-Yr Class B participants
-
-### Onizuka
-
-`tier 3 · 6 mentions · 0 quoted lines · 0 scene(s)`
-
 - **Aliases:** Onizuka
-- **Mentions:** y1v8 ×3, y1v7.5 ×1, y2v5 ×1, y2v11 ×1
+- **Mentions:** y1v8 ×3, y1v7.5 ×1, y2v5 ×1, y2v11 ×1, y3v3 ×1
 - **Mention evidence:** “…d, though. Like, if you were obviously unpopular like Yamauchi-kun or Onizuka-kun, that’d be one thing. But it’s more like you’re just not in a rush. That’s all. Right, Ayanokouji-kun?” “You understand Ayano…” (y1v7.5 p.135)
 - **Mention evidence:** “…t’s not a bad thing, but it doesn’t advance us as a class. Also, Ike, Onizuka, and Sotomura are hoping to join Hirata’s group. How they perform will depend on the nature of the upcoming tests, of course. The…” (y1v8 p.45)
 - **Notes:** seed: Class 1-D | corpus surname hits 6 | [P2-band]
@@ -1825,20 +1827,20 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 
 ### Onodera
 
-`tier 4 · 176 mentions · 0 quoted lines · 0 scene(s)`
+`tier 4 · 190 mentions · 0 quoted lines · 0 scene(s)`
 
 - **Aliases:** Onodera
-- **Mentions:** y2v6 ×75, y2v7 ×18, y2v8 ×15, y2v9.5 ×13, y1v5 ×10, y1v11 ×8, y2v12.5 ×8, y1v9 ×6 (+9 more vols)
+- **Mentions:** y2v6 ×75, y2v7 ×18, y2v8 ×15, y2v9.5 ×13, y1v5 ×10, y3v2 ×10, y1v11 ×8, y2v12.5 ×8 (+11 more vols)
 - **Mention evidence:** “…race began. The contest ended up being rather one-sided. A girl named Onodera, who had been on swim teams before, won by a mile. She finished with a time of about twenty-six seconds, netting her the win. Kus…” (y1v1 p.84)
 - **Mention evidence:** “…’d declared. Other students who were good at sports, like Kushida and Onodera, also offered to participate, in addition to Horikita and Hirata. However, we had only filled about a third of the events for all…” (y1v5 p.44)
 - **Notes:** seed: Class 3-B | corpus surname hits 176 | [P2-instr] 3rd-Year Class B homeroom teacher: Y1V8 'the teacher entered the room. "I'm Onodera, the instructor in charge of third-year Class B"' — distinct from student Onodera Kayano (seed Class 1-D); bare-key mentions volume-disambiguated at P3 | [P2-band]
 
 ### Asakura Mako
 
-`tier 4 · 41 mentions · 0 quoted lines · 0 scene(s)`
+`tier 4 · 42 mentions · 0 quoted lines · 0 scene(s)`
 
 - **Aliases:** Asakura, Mako
-- **Mentions:** y2v9 ×14, y2v10 ×6, y2v8 ×4, y1v9 ×3, y1v11.75 ×3, y2v2 ×3, y2v12 ×3, y1v8 ×1 (+4 more vols)
+- **Mentions:** y2v9 ×14, y2v10 ×6, y2v8 ×4, y1v9 ×3, y1v11.75 ×3, y2v2 ×3, y2v12 ×3, y1v8 ×1 (+5 more vols)
 - **Mention evidence:** “…o if someone gets taken down by the solidarity rule?” “It’ll be okay, Mako-chan. As long as we take this seriously, it’s not going to come to that.” “Are you sure?” “If that time does come, we’ll all help…” (y1v8 p.73)
 - **Mention evidence:** “…probably in every first-year mailbox…” One of the girls from Class B, Mako Amikura, spoke as she approached and hugged Ichinose. “Hey, you don’t need to put up with this anymore. Why don’t we talk to the…” (y1v9 p.82)
 - **Notes:** P1 pass3 pair scan: 'Asakura Mako' x1 (first y2v2 p168)
@@ -1855,13 +1857,23 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 
 ### Sonoda Chiyo
 
-`tier 4 · 14 mentions · 0 quoted lines · 0 scene(s)`
+`tier 4 · 15 mentions · 0 quoted lines · 0 scene(s)`
 
 - **Aliases:** Sonoda, Sonoda Chiyo, Chiyo
-- **Mentions:** y2v11 ×3, y1v11 ×2, y2v9 ×2, y1v4 ×1, y1v5 ×1, y1v11.5 ×1, y2v7 ×1, y2v10 ×1 (+2 more vols)
+- **Mentions:** y2v11 ×3, y1v11 ×2, y2v9 ×2, y1v4 ×1, y1v5 ×1, y1v11.5 ×1, y2v7 ×1, y2v10 ×1 (+3 more vols)
 - **Mention evidence:** “…, Kanzaki Ryuuji, Tsube Hitomi CLASS C: Oda Takumi, Suzuki Hidetoshi, Sonoda Masashi, Ryuuen Kakeru CLASS D: Kushida Kikyou, Hirata Yousuke, Horikita Suzune First, the Class D students, Hirata and Kushida…” (y1v4 p.64)
 - **Mention evidence:** “…da. “I guess.” I shrugged. “The player handling the ball right now is Sonoda-kun from Class C. He’s quite fast, isn’t he?” mused Kushida. All the students in the soccer club were nimble. The only ones from…” (y1v5 p.79)
 - **Notes:** seed: Class 1-D | corpus surname hits 13 | [P2-band]
+
+### Ijuin Wataru
+
+`tier 4 · 13 mentions · 0 quoted lines · 0 scene(s)`
+
+- **Aliases:** Ijuin, Wataru
+- **Mentions:** y3v3 ×6, y2v10 ×4, y1v10 ×1, y2v4.5 ×1, y2v12 ×1
+- **Mention evidence:** “…re’s Yamauchi along with Ike and Sudō, and beyond those three, Hondō, Ijuin, Miyamoto, and Sotomura all seem to be on fairly good terms with him.” There only seemed to be seven censure votes from the boys…” (y1v10 p.229)
+- **Mention evidence:** “…he one that found me. In addition to Nanase, I also saw my classmates Ijūin and Okitani, Sakayanagi from Class A, and Nakaizumi and Suzuki from Ryūen’s class. It seemed that many second-year students wante…” (y2v4.5 p.74)
+- **Notes:** Y2V10 offense-nomination list only; DIFFERENT given from Ijūin Kou — possibly a second Ijūin (P2 verify)
 
 ### Minami Setsuya
 
@@ -1882,6 +1894,36 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Mention evidence:** “…an • Class B Yanagi Yasuhisa, Eikura Mani • Class C Tsubaki Sakurako, Shintoku Taro • Class D Obokata Yukiki, Jute Misora. [Second-year Students] • Class A Hashimoto Masayoshi, Yamamura Miki, Morishita Ai • C…” (y2v11 p.46)
 - **Mention evidence:** “…oday's third and fourth rounds, which probably influenced their mood. Shintoku and Obokata also seemed to agree, nodding several times, but they seemed a bit shy. “I'm sorry. We haven't participated even once…” (y2v11 p.85)
 - **Notes:** Y2V11 roster, first-year Class C
+
+### Nakajima Riko
+
+`tier 4 · 9 mentions · 0 quoted lines · 0 scene(s)`
+
+- **Aliases:** Nakajima, Nakajima Riko, Riko
+- **Mentions:** y3v2 ×4, y1v11 ×3, y3v3 ×2
+- **Mention evidence:** “…, Tanihara Mao, Motodoi Chikako, Fukuyama Shinobu, Rokkaku Momoe, and Nakajima Riko. While they weren’t the best options Sakayanagi had available, it was still a fairly solid group. It seemed like she had mad…” (y1v11 p.354)
+- **Mention evidence:** “…i, who'd been there in the morning, was now talking with a girl named Nakajima, perhaps planning to spend time with her after school. She seemed to notice us, but right after, the two of them left the classro…” (y3v2 p.131)
+- **Notes:** seed: Class 1-A | corpus surname hits 1 | [P2-band]
+
+### Tsukaji Shihori
+
+`tier 4 · 9 mentions · 0 quoted lines · 0 scene(s)`
+
+- **Aliases:** Tsukaji, Tsukaji Shihori, Shihori
+- **Mentions:** y2v12 ×4, y1v11 ×2, y3v2 ×2, y3v3 ×1
+- **Mention evidence:** “…eight people listed for Class A were Satonaka Satoru, Sugio Hiroshi, Tsukaji Shihori, Tanihara Mao, Motodoi Chikako, Fukuyama Shinobu, Rokkaku Momoe, and Nakajima Riko. While they weren’t the best options S…” (y1v11 p.354)
+- **Mention evidence:** “…toru, Tsukasaki Taiga, Sugio Hiroshi, Morishige Takurō, Tanihara Mao, Tsukaji Shihori, Yamamura Miki 2nd Year Class C Ibuki Mio, Inoue Toa, Okabe Fuyu, Suzuhira Miu, Morofuji Rika, Yajima Mariko, Yūbe Yoshik…” (y2v12 p.106)
+- **Notes:** seed: Class 1-A | corpus surname hits 3 | [P2-band]
+
+### Minamikata Kozue
+
+`tier 4 · 8 mentions · 0 quoted lines · 0 scene(s)`
+
+- **Aliases:** Minamikata, Minamikata Kozue, Kozue
+- **Mentions:** y2v3 ×7, y3v3 ×1
+- **Mention evidence:** “…eard the sound of our ensuing chatter. Their names were Andō Sayo and Minamikata Kozue. The entire time, they had been casting glances in my direction as they unabashedly whispered to each other about something…” (y2v3 p.252)
+- **Mention evidence:** “…if you guys camp here tonight. Right Kozue?” With that, she looked to Minamikata, who nodded along several times in agreement. “If we’re all on the same page, then let’s take the opportunity to hold ourselves a…” (y2v3 p.253)
+- **Notes:** seed: Class 1-B | corpus surname hits 4 | [P2-band]
 
 ### Okabe Fuyu
 
@@ -1913,36 +1955,6 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Mention evidence:** “…he mall and arrived at the café, Kōenji was nowhere to be found. Only Enoshima was there, scrolling through her phone. “Might he be in the bathroom?” “...No. Kōenji’s drink is missing. That can’t be. He must…” (y2v10 p.76)
 - **Notes:** P1 shell promotion: 3-B student (Y2V10)
 
-### Ijuin Wataru
-
-`tier 4 · 7 mentions · 0 quoted lines · 0 scene(s)`
-
-- **Aliases:** Ijuin, Wataru
-- **Mentions:** y2v10 ×4, y1v10 ×1, y2v4.5 ×1, y2v12 ×1
-- **Mention evidence:** “…re’s Yamauchi along with Ike and Sudō, and beyond those three, Hondō, Ijuin, Miyamoto, and Sotomura all seem to be on fairly good terms with him.” There only seemed to be seven censure votes from the boys…” (y1v10 p.229)
-- **Mention evidence:** “…he one that found me. In addition to Nanase, I also saw my classmates Ijūin and Okitani, Sakayanagi from Class A, and Nakaizumi and Suzuki from Ryūen’s class. It seemed that many second-year students wante…” (y2v4.5 p.74)
-- **Notes:** Y2V10 offense-nomination list only; DIFFERENT given from Ijūin Kou — possibly a second Ijūin (P2 verify)
-
-### Minamikata Kozue
-
-`tier 4 · 7 mentions · 0 quoted lines · 0 scene(s)`
-
-- **Aliases:** Minamikata, Minamikata Kozue, Kozue
-- **Mentions:** y2v3 ×7
-- **Mention evidence:** “…eard the sound of our ensuing chatter. Their names were Andō Sayo and Minamikata Kozue. The entire time, they had been casting glances in my direction as they unabashedly whispered to each other about something…” (y2v3 p.252)
-- **Mention evidence:** “…if you guys camp here tonight. Right Kozue?” With that, she looked to Minamikata, who nodded along several times in agreement. “If we’re all on the same page, then let’s take the opportunity to hold ourselves a…” (y2v3 p.253)
-- **Notes:** seed: Class 1-B | corpus surname hits 4 | [P2-band]
-
-### Ohba
-
-`tier 4 · 7 mentions · 0 quoted lines · 0 scene(s)`
-
-- **Aliases:** Ohba
-- **Mentions:** y0 ×7
-- **Mention evidence:** “…n the 11-digit number I memorized. “It's me. Put me on the phone with Ohba, I need a new job.” First, I have to figure out an approach, regardless of good or evil, using the pieces I have available. Then,…” (y0 p.30)
-- **Mention evidence:** “…up from the ‘have-nots’ so that they can be used and discarded.” The Ohba group and the black market brokers connected to them aren’t cheap, but a big sample is always better than a small one. I hope the…” (y0 p.104)
-- **Notes:** y0 adult: phone contact + 'Ohba group' black market (V0)
-
 ### Hatsukawa Maho
 
 `tier 4 · 6 mentions · 0 quoted lines · 0 scene(s)`
@@ -1959,19 +1971,29 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 
 - **Aliases:** Kisarazu
 - **Mentions:** y0 ×5, y2v4.5 ×1
-- **Mention evidence:** “…n 20 million. On various occasions, they also get paid hourly wages. “Kisarazu-san, who is three years older than me, boasted that he had signed a contract for the top floor of a tower block in the city cente…” (y0 p.31)
-- **Mention evidence:** “…y a condominium.” In one sense, this is an exemplary answer, but like Kisarazu, it’s just a trivial use of money. “You mean you wouldn’t use the money in that way, Ayanokouji-san, right? What would you do wit…” (y0 p.32)
+- **Mention evidence:** “…us allowances were also provided under different names. "My colleague Kisarazu-san, who is three years older than me, boasted about how he signed a contract for the top floor of a tower mansion[1] in the city…” (y0 p.43)
+- **Mention evidence:** “Classroom of the Elite – Volume 0 "But Kisarazu-san got it approved…" "The loan amount, the bank involved, and the connections—there are plenty of conditions that can be arrange…” (y0 p.44)
 - **Notes:** P1 shell promotion: y0 student, 3 years Senpai to narrator
 
-### Tsukaji Shihori
+### Mikuru
 
 `tier 4 · 6 mentions · 0 quoted lines · 0 scene(s)`
 
-- **Aliases:** Tsukaji, Tsukaji Shihori, Shihori
-- **Mentions:** y2v12 ×4, y1v11 ×2
-- **Mention evidence:** “…eight people listed for Class A were Satonaka Satoru, Sugio Hiroshi, Tsukaji Shihori, Tanihara Mao, Motodoi Chikako, Fukuyama Shinobu, Rokkaku Momoe, and Nakajima Riko. While they weren’t the best options S…” (y1v11 p.354)
-- **Mention evidence:** “…toru, Tsukasaki Taiga, Sugio Hiroshi, Morishige Takurō, Tanihara Mao, Tsukaji Shihori, Yamamura Miki 2nd Year Class C Ibuki Mio, Inoue Toa, Okabe Fuyu, Suzuhira Miu, Morofuji Rika, Yajima Mariko, Yūbe Yoshik…” (y2v12 p.106)
-- **Notes:** seed: Class 1-A | corpus surname hits 3 | [P2-band]
+- **Aliases:** Mikuru
+- **Mentions:** y0 ×6
+- **Mention evidence:** “…her crying or sobbing. "I can't… stand anymore…!" Pleading for mercy, Mikuru weakly clung to the instructor's leg. "Still, stand up!" She was forcibly shaken off and compelled to stand, but her body seemed…” (y0 p.140)
+- **Mention evidence:** “…r you! Stand up on your own and come at me!" With her eyes unfocused, Mikuru tried to get up on her hands, convulsing. "That's right! Show some spirit!" "Ugh… ugh…!" However, perhaps due to the severity of…” (y0 p.141)
+- **Notes:** y0 child in V0 training scene (kicked by instructor)
+
+### Takanashi Kō
+
+`tier 4 · 6 mentions · 0 quoted lines · 0 scene(s)`
+
+- **Aliases:** Takanashi
+- **Mentions:** y2v12 ×5, y3v2 ×1
+- **Mention evidence:** “…hida Yūsuke, Shimazaki Ikkei, Toba Shigeru, Tamiya Emi, Morishita Ai, Takanashi Kō 2nd Year Class C Ishizaki Daichi, Kaneda Satoru, Komiya Kyōgo, Nakaizumi Shōhei, Suminokura Mami, Takarajima Miko, Hatate Kaor…” (y2v12 p.177)
+- **Mention evidence:** “…or students seem to make eye contact with one another. Komiya-kun and Takanashi were looking at each other just before the discussion started, right?” Class A’s Tamiya overtly directed a suspicious gaze at the…” (y2v12 p.178)
+- **Notes:** P1 shell promotion: Y2V12 evaluation list; given key 'ko' shared — left unknown at P2
 
 ### Yonezu Haruto
 
@@ -2012,26 +2034,6 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Mention evidence:** “…ihara Mao, Tsukaji Shihori, Yamamura Miki 2nd Year Class C Ibuki Mio, Inoue Toa, Okabe Fuyu, Suzuhira Miu, Morofuji Rika, Yajima Mariko, Yūbe Yoshika ‘Please start the first discussion.’ As everything was…” (y2v12 p.106)
 - **Mention evidence:** “…serious wound on the opponent. However… in the following third round, Inoue and Tanihara started accusing each other of being an honor student due to some baseless accusation that a girl started. It was a…” (y2v12 p.110)
 - **Notes:** Y2 roster list w/ Ibuki, Okabe, Morofuji; exam round w/ Tanihara
-
-### Mikuru
-
-`tier 4 · 5 mentions · 0 quoted lines · 0 scene(s)`
-
-- **Aliases:** Mikuru
-- **Mentions:** y0 ×5
-- **Mention evidence:** “…around. “I can't… I can't stand up…!” As if begging for forgiveness, Mikuru clung weakly to the instructor's leg. “Still, get up!” The girl was forced to stand up as the instructor forcibly shook off her h…” (y0 p.115)
-- **Mention evidence:** “…n making irritating footsteps, shouted angrily as he forcibly removed Mikuru from the room. Do you believe such a scene is tragic? If so, you should change how you think. This is only the beginning. Excessi…” (y0 p.116)
-- **Notes:** y0 child in V0 training scene (kicked by instructor)
-
-### Takanashi Kō
-
-`tier 4 · 5 mentions · 0 quoted lines · 0 scene(s)`
-
-- **Aliases:** Takanashi
-- **Mentions:** y2v12 ×5
-- **Mention evidence:** “…hida Yūsuke, Shimazaki Ikkei, Toba Shigeru, Tamiya Emi, Morishita Ai, Takanashi Kō 2nd Year Class C Ishizaki Daichi, Kaneda Satoru, Komiya Kyōgo, Nakaizumi Shōhei, Suminokura Mami, Takarajima Miko, Hatate Kaor…” (y2v12 p.177)
-- **Mention evidence:** “…or students seem to make eye contact with one another. Komiya-kun and Takanashi were looking at each other just before the discussion started, right?” Class A’s Tamiya overtly directed a suspicious gaze at the…” (y2v12 p.178)
-- **Notes:** P1 shell promotion: Y2V12 evaluation list; given key 'ko' shared — left unknown at P2
 
 ### Takarajima Miko
 
@@ -2129,6 +2131,16 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Mention evidence:** “…sure hunt game. There are no complicated rules, so it’s very simple.” Takotō-sensei raised his right hand, holding a square piece of paper between his thumb and forefinger. Its dimensions were roughly five…” (y2v4.5 p.162)
 - **Notes:** P1 shell promotion: student (TL macron variants)
 
+### Yanagibashi Motofumi
+
+`tier 4 · 4 mentions · 0 quoted lines · 0 scene(s)`
+
+- **Aliases:** Yanagibashi, Motofumi
+- **Mentions:** y2v12 ×3, y3v2 ×1
+- **Mention evidence:** “1 [First Discussion] Participants: 2nd Year Class A Yanagibashi Motofumi, Ishida Yūsuke, Shimazaki Ikkei, Toba Shigeru, Tamiya Emi, Morishita Ai, Takanashi Kō 2nd Year Class C Ishizaki Daichi,…” (y2v12 p.177)
+- **Mention evidence:** “…ity of the remaining honor student, and in the fifth round, nominated Yanagibashi as an honor student. Meanwhile, Ryūen chose Ishida as having an executive role, resulting in zero honor students and ending the d…” (y2v12 p.182)
+- **Notes:** P1 pass3 pair scan: 'Yanagibashi Motofumi' x1 (first y2v12 p177)
+
 ### Aga
 
 `tier 4 · 3 mentions · 0 quoted lines · 0 scene(s)`
@@ -2225,15 +2237,6 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Mention evidence:** “…-year girls chatting with each other as they walked. Their names were Kurihara Kasuga and Konishi Tetsuko. Both of them from Class 1-A. Unfortunately, both of them were academically excellent students who had…” (y2v1 p.147)
 - **Notes:** seed: Part2-1-A | corpus surname hits 1 | [P2-band]
 
-### Nakajima Riko
-
-`tier 4 · 3 mentions · 0 quoted lines · 0 scene(s)`
-
-- **Aliases:** Nakajima, Nakajima Riko, Riko
-- **Mentions:** y1v11 ×3
-- **Mention evidence:** “…, Tanihara Mao, Motodoi Chikako, Fukuyama Shinobu, Rokkaku Momoe, and Nakajima Riko. While they weren’t the best options Sakayanagi had available, it was still a fairly solid group. It seemed like she had mad…” (y1v11 p.354)
-- **Notes:** seed: Class 1-A | corpus surname hits 1 | [P2-band]
-
 ### Negishi
 
 `tier 4 · 3 mentions · 0 quoted lines · 0 scene(s)`
@@ -2269,7 +2272,8 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 
 - **Aliases:** Sonezaki
 - **Mentions:** y0 ×3
-- **Mention evidence:** “…at one of our sites… Wait a minute, let me check. What's his name?” “Sonezaki.” As if to jog her memory, Mika called somewhere on her cell phone. “Oh, hello, Sophia? I have a question for you… Do you know a…” (y0 p.51)
+- **Mention evidence:** “…son at a sister club… Wait a minute, let me check. What's the name?" "Sonezaki." As if digging up her memory, Mika made a call on her mobile phone. "Hello, Sophia? I have something I want to ask you. Do you k…” (y0 p.67)
+- **Mention evidence:** “…t's convenient. Can't we use him somehow?" "What should we do?" "This Sonezaki is a married man with two daughters who are in middle school. As a wealthy man, it's natural for him to have affairs, but he woul…” (y0 p.68)
 - **Notes:** P1 shell promotion: y0 spoken name
 
 ### Suminokura Mami
@@ -2319,16 +2323,6 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Mentions:** y2v11 ×2, y2v8 ×1
 - **Mention evidence:** “[First-year Students] • Class A Takahashi Osamu, Toudou Rin, Amasawa Ichika • Class B Hagiwara Chihaya, Fukuchi Hinano • Class C Namekawa Azuki, Iguchi Yuri • Class D Tatewaki Aoi, Osak…” (y2v11 p.40)
 - **Notes:** Y2V11 roster (same block as Amasawa Ichika)
-
-### Yanagibashi Motofumi
-
-`tier 4 · 3 mentions · 0 quoted lines · 0 scene(s)`
-
-- **Aliases:** Yanagibashi, Motofumi
-- **Mentions:** y2v12 ×3
-- **Mention evidence:** “1 [First Discussion] Participants: 2nd Year Class A Yanagibashi Motofumi, Ishida Yūsuke, Shimazaki Ikkei, Toba Shigeru, Tamiya Emi, Morishita Ai, Takanashi Kō 2nd Year Class C Ishizaki Daichi,…” (y2v12 p.177)
-- **Mention evidence:** “…ity of the remaining honor student, and in the fifth round, nominated Yanagibashi as an honor student. Meanwhile, Ryūen chose Ishida as having an executive role, resulting in zero honor students and ending the d…” (y2v12 p.182)
-- **Notes:** P1 pass3 pair scan: 'Yanagibashi Motofumi' x1 (first y2v12 p177)
 
 ### Aragaki Itsuki
 
@@ -2446,8 +2440,8 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 
 - **Aliases:** Miyako
 - **Mentions:** y0 ×2
-- **Mention evidence:** “…three major factions: Naoe-sensei, Isomaru-sensei, and Prime Minister Miyako. Although small in number, he was in the fourth faction in the Citizen's Party, not belonging to any of the three major factions.…” (y0 p.17)
-- **Mention evidence:** “…. The three young men gathered under the leadership of Prime Minister Miyako are Naoe-sensei, number two, Isomaru-sensei, number three, and the young Kijima-sensei, number four. They are earnestly vying for…” (y0 p.20)
+- **Mention evidence:** “…factions belonging to Naoe-sensei, Isomaru-sensei, and Prime Minister Miyako. He was the most promising figure among the younger generation and was touted as being closest to becoming the prime minister. It…” (y0 p.25)
+- **Mention evidence:** “…grown enough to threaten Naoe-sensei after all. Under Prime Minister Miyako, Naoe-sensei was number two, Isomaru-sensei number three, and Kijima-sensei, a young politician, was number four. They were indee…” (y0 p.29)
 - **Notes:** y0 'Minister Miyako', fourth faction (V0)
 
 ### Namekawa Azuki
@@ -2659,3 +2653,10 @@ Generated view — source of truth `cote_kb.db`; regenerate with `python3 kb/bui
 - **Mentions:** y2v4.5 ×1
 - **Mention evidence:** “…t? They’ll misunderstand and think you and I are close.” I approached Yamaga-san, who was from her class and shared a guest cabin with her. “Unfortunately there was no other way to contact you. Or did you w…” (y2v4.5 p.136)
 - **Notes:** P1 shell promotion: guest-room classmate context (Y2V4.5)
+
+### Ohba
+
+`tier 4 · 0 mentions · 0 quoted lines · 0 scene(s)`
+
+- **Aliases:** Ohba
+- **Notes:** y0 adult: phone contact + 'Ohba group' black market (V0)

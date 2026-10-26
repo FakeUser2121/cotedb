@@ -1,6 +1,6 @@
 # Survival and Elimination Exam
 
-**special** · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_exam_dossiers.py`)
+**special**
 
 `15 mentions · 4 vols · 1 runs · 1 claims`
 

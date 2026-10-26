@@ -1,8 +1,8 @@
 # Unanimous Vote Exam
 
-**special** · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_exam_dossiers.py`)
+**special**
 
-`89 mentions · 10 vols · 1 runs · 2 claims`
+`90 mentions · 11 vols · 1 runs · 2 claims`
 
 ## Rules
 
@@ -26,8 +26,8 @@ School-run special exam; classes stage the votes internally, the school tallies 
 
 ## Footprint
 
-- **Span:** y2v5 → y3v1
-- **Anchored mentions by vol:** y2v5 ×39, y2v7 ×18, y2v8 ×8, y2v9 ×2, y2v9.5 ×4, y2v10 ×8, y2v11 ×2, y2v12 ×2, y2v12.5 ×4, y3v1 ×2
+- **Span:** y2v5 → y3v2
+- **Anchored mentions by vol:** y2v5 ×39, y2v7 ×18, y2v8 ×8, y2v9 ×2, y2v9.5 ×4, y2v10 ×8, y2v11 ×2, y2v12 ×2, y2v12.5 ×4, y3v1 ×2, y3v2 ×1
 
 ## Runs
 

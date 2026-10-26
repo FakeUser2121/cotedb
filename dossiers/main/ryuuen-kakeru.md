@@ -1,8 +1,8 @@
 # Ryuuen Kakeru
 
-**main** · tier 1 · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_main_dossiers.py`)
+**Main character**
 
-`char_id ryuuen-kakeru · 3906 mentions · 291 attributed lines · 174 scenes`
+`4,120 mentions · 293 attributed lines · 176 scenes`
 
 ## Identity
 
@@ -10,10 +10,10 @@
 
 ## Footprint
 
-- **Spoken in (22 vols):** y1v3, y1v4, y1v5, y1v6, y1v7, y1v7.5, y1v8, y1v9, y1v10, y1v11, y1v11.5, y2v1, y2v2, y2v6, y2v7, y2v8, y2v9, y2v9.5, y2v11, y2v12, y2v12.5, y3v1
+- **Spoken in (24 vols):** y1v3, y1v4, y1v5, y1v6, y1v7, y1v7.5, y1v8, y1v9, y1v10, y1v11, y1v11.5, y2v1, y2v2, y2v6, y2v7, y2v8, y2v9, y2v9.5, y2v11, y2v12, y2v12.5, y3v1, y3v2, y3v3
 - **Gap queue (mentioned, no attributed line):** y1v2, y1v4.5, y1v11.75, y2v3, y2v4, y2v4.5, y2v5, y2v10
-- **Top mentions:** y1v7 ×347, y2v12 ×256, y2v8 ×251, y1v6 ×246, y1v5 ×220, y1v10 ×219, y1v4 ×162, y3v1 ×161, y1v11.5 ×159, y2v10 ×157 (+20 more vols)
-- **Arc timeline (scenes per vol):** y1v3 ×6, y1v4 ×18, y1v5 ×18, y1v6 ×28, y1v7 ×46, y1v7.5 ×12, y1v8 ×4, y1v9 ×1, y1v10 ×1, y1v11 ×1, y1v11.5 ×5, y2v1 ×1, y2v2 ×2, y2v6 ×7, y2v7 ×3, y2v8 ×6, y2v9 ×3, y2v9.5 ×1, y2v11 ×1, y2v12 ×4, y2v12.5 ×2, y3v1 ×4
+- **Top mentions:** y1v7 ×347, y2v12 ×256, y2v8 ×251, y1v6 ×246, y1v5 ×220, y1v10 ×219, y3v3 ×166, y1v4 ×162, y3v1 ×161, y1v11.5 ×159 (+22 more vols)
+- **Arc timeline (scenes per vol):** y1v3 ×6, y1v4 ×18, y1v5 ×18, y1v6 ×28, y1v7 ×46, y1v7.5 ×12, y1v8 ×4, y1v9 ×1, y1v10 ×1, y1v11 ×1, y1v11.5 ×5, y2v1 ×1, y2v2 ×2, y2v6 ×7, y2v7 ×3, y2v8 ×6, y2v9 ×3, y2v9.5 ×1, y2v11 ×1, y2v12 ×4, y2v12.5 ×2, y3v1 ×4, y3v2 ×1, y3v3 ×1
 
 ## Arc
 

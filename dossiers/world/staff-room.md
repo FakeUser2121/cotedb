@@ -1,6 +1,6 @@
 # Staff Room
 
-**campus-building** · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_world_dossiers.py`)
+**campus-building**
 
 `39 mentions · 10 vols · 7 co-paged scenes · 0 claims`
 

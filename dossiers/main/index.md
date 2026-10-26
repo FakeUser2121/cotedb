@@ -1,6 +1,6 @@
 # Main Characters
 
-Generated index — regenerate with `python3 kb/build_main_dossiers.py`.
+The main cast of the story — open any name for the full profile.
 
 - [Ayanokouji Kiyotaka](ayanokouji-kiyotaka.md)
 - [Horikita Suzune](horikita-suzune.md)

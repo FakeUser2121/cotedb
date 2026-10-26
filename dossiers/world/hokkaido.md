@@ -1,6 +1,6 @@
 # Hokkaido
 
-**city** · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_world_dossiers.py`)
+**city**
 
 `56 mentions · 4 vols · 8 co-paged scenes · 1 claims`
 

@@ -1,6 +1,6 @@
 # Mixed Training Camp
 
-**special** · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_exam_dossiers.py`)
+**special**
 
 `13 mentions · 7 vols · 2 runs · 0 claims`
 

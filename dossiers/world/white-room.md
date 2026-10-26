@@ -1,8 +1,8 @@
 # White Room
 
-**off-site** · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_world_dossiers.py`)
+**off-site**
 
-`508 mentions · 24 vols · 64 co-paged scenes · 1 claims`
+`505 mentions · 26 vols · 53 co-paged scenes · 1 claims`
 
 ## Function
 
@@ -14,12 +14,12 @@ The single most referenced off-site location (508 mentions, 24 vols, present fro
 
 ## Footprint
 
-- **Span:** y0 → y3v1
-- **Anchored mentions by vol:** y0 ×193, y1v5 ×1, y1v7 ×9, y1v7.5 ×9, y1v9 ×1, y1v11 ×3, y1v11.5 ×32, y1v11.75 ×1, y2v1 ×49, y2v2 ×23, y2v3 ×26, y2v4 ×41, y2v4.5 ×20, y2v5 ×1, y2v6 ×18, y2v7 ×13, y2v8 ×31, y2v9 ×2, y2v9.5 ×6, y2v10 ×1, y2v11 ×2, y2v12 ×1, y2v12.5 ×11, y3v1 ×14
+- **Span:** y0 → y3v3
+- **Anchored mentions by vol:** y0 ×187, y1v5 ×1, y1v7 ×9, y1v7.5 ×9, y1v9 ×1, y1v11 ×3, y1v11.5 ×32, y1v11.75 ×1, y2v1 ×49, y2v2 ×23, y2v3 ×26, y2v4 ×41, y2v4.5 ×20, y2v5 ×1, y2v6 ×18, y2v7 ×13, y2v8 ×31, y2v9 ×2, y2v9.5 ×6, y2v10 ×1, y2v11 ×2, y2v12 ×1, y2v12.5 ×11, y3v1 ×14, y3v2 ×2, y3v3 ×1
 
 ## Scene partners (co-paged dialogue)
 
-Sakayanagi Arisu (11), Ayanokouji Kiyotaka (10), Amasawa Ichika (7), Nanase Tsubasa (4), Tsukishiro (4), Ichinose Honami (3), Mika (3), Horikita Suzune (2), Kamogawa Toshizou (2), Kanzaki Ryuuji (2), Souya (2), Suzukake Tanji (2) (+13 more)
+Sakayanagi Arisu (11), Ayanokouji Kiyotaka (10), Amasawa Ichika (6), Nanase Tsubasa (4), Tsukishiro (4), Ichinose Honami (3), Horikita Suzune (2), Kanzaki Ryuuji (2), Akiyama (1), Chabashira Sae (1), Hirata Yousuke (1), Ishida Yuusuke (1) (+8 more)
 
 ## Claims
 
@@ -31,4 +31,4 @@ was just a temporary resid”
 
 ## Evidence anchors
 
-y0 p.9, y0 p.9, y0 p.9, y0 p.10, y0 p.54, y0 p.54, y0 p.54, y0 p.54
+y0 p.9, y0 p.9, y0 p.9, y0 p.15, y0 p.15, y0 p.15, y0 p.16, y0 p.71

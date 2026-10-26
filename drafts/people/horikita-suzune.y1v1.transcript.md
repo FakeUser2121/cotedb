@@ -1,7 +1,6 @@
-# Horikita Suzune — y1v1 scene transcript
+# Horikita Suzune — Year 1, Volume 1 scene transcript
 
-Source ledger: ledgers/people/horikita-suzune.md · rendered by kb/ledger_transcript.py
-Speech lines, narration beats, and inner monologue; scene beats stay in the ledger.
+Scene by scene: the speech lines, narration beats, and inner monologue of Year 1, Volume 1, quoted verbatim with page numbers (e.g. p.247).
 
 ## (opening)
 
@@ -27,7 +26,7 @@ Speech lines, narration beats, and inner monologue; scene beats stay in the ledg
 - **[p.28]** Horikita Suzune said: “I’m Horikita Suzune.” (introduces herself only after sighing and changing her mind)
 - **[p.29]** Horikita Suzune said: “Spoken just like someone who avoids trouble. I don’t think I could ever like such a person,” (her verdict on AK’s self-description; adds “I pray this will be my only upset.”)
 
-## y1v1 p.37–37 — Rejection of Hirata's introductions
+## Year 1, Volume 1, p.37–37 — Rejection of Hirata's introductions
 
 - **[p.52]** Horikita Suzune said: Berates Ayanokōji for his submissive nature; tells him cleaning up another student's mess makes him look like a hopeless pushover and doormat.
 - **[p.54]** Horikita Suzune said: “How pathetic.”

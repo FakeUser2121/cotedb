@@ -1,6 +1,6 @@
 # Ski Resort
 
-**exam-venue** · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_world_dossiers.py`)
+**exam-venue**
 
 `18 mentions · 1 vols · 8 co-paged scenes · 1 claims`
 

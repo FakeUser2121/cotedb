@@ -31,6 +31,10 @@ DISPLAY = {
     "sakayanagi-arisu": "Sakayanagi Arisu",
 }
 
+VOL_LABEL = {
+    "y1v1": "Year 1, Volume 1",
+}
+
 TAG_RE = re.compile(r"^\[(says|thinks|back)(?::([a-z0-9-]+))?\]\s*(\(p\.\d+(?:-\d+)?\))\s*(.*)$")
 HDR_RE = re.compile(r"^### (y1v\d+(?:\.\d+)?) p\.(\d+)(?:-(\d+))? — (.+)$")
 
@@ -73,7 +77,7 @@ def build(ledger: Path, vol: str, char_id: str) -> str:
             m = HDR_RE.match(ln)
             if m and m.group(1).startswith(vol):
                 hi = m.group(3) or m.group(2)
-                heading = f"{m.group(1)} p.{m.group(2)}–{hi} — {m.group(4)}"
+                heading = f"{VOL_LABEL.get(vol, vol)}, p.{m.group(2)}–{hi} — {m.group(4)}"
             continue
         m = TAG_RE.match(ln.strip())
         if not m:
@@ -86,9 +90,12 @@ def build(ledger: Path, vol: str, char_id: str) -> str:
         kind_order = {"says": 0, "back": 1, "thinks": 2}[kind]
         rows.append((page, kind_order, heading, speaker, curly(rest.strip()), kind))
 
-    out = [f"# {DISPLAY.get(char_id, char_id)} — {vol} scene transcript", ""]
-    out.append(f"Source ledger: ledgers/people/{char_id}.md · rendered by kb/ledger_transcript.py")
-    out.append("Speech lines, narration beats, and inner monologue; scene beats stay in the ledger.")
+    label = VOL_LABEL.get(vol, vol)
+    out = [f"# {DISPLAY.get(char_id, char_id)} — {label} scene transcript", ""]
+    out.append(
+        f"Scene by scene: the speech lines, narration beats, and inner monologue of {label}, "
+        f"quoted verbatim with page numbers (e.g. p.247)."
+    )
     out.append("")
     last_h = None
     for page, _ko, heading, speaker, text, kind in rows:

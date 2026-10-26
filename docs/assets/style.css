@@ -4,6 +4,7 @@
   --card: #ffffff; --brand: #2b3a67; --accent: #3b5bdb;
   --main: #b45309; --mid: #6d28d9; --bg-char: #64748b;
   --world: #0f766e; --exams: #be123c; --systems: #1d4ed8;
+  --vol: #4338ca;
   --authority: #b91c1c; --rivals: #c2410c; --allies: #15803d;
   --peers: #1d4ed8; --family: #7e22ce; --outside: #0f766e;
   --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
@@ -57,7 +58,8 @@ mark { background: #fde68a; padding: 0 0.1em; }
 #results .none { padding: 10px 14px; color: var(--muted); font-size: 14px; }
 
 .layout { display: grid; grid-template-columns: 250px minmax(0,1fr) 220px;
-  gap: 0; max-width: 1440px; margin: 0 auto; }
+  gap: 0; max-width: 1440px; margin: 0 auto;
+  min-height: calc(100vh - 52px); }
 .sidebar {
   padding: 18px 12px 60px 16px; border-right: 1px solid var(--line);
   position: sticky; top: 52px; max-height: calc(100vh - 52px);
@@ -110,6 +112,7 @@ li ul { margin: 4px 0; }
 .sec-world h1 { border-bottom: 4px solid var(--world); padding-bottom: 8px; }
 .sec-exams h1 { border-bottom: 4px solid var(--exams); padding-bottom: 8px; }
 .sec-systems h1 { border-bottom: 4px solid var(--systems); padding-bottom: 8px; }
+.sec-vol1 h1 { border-bottom: 4px solid var(--vol); padding-bottom: 8px; }
 
 .kicker { font-size: 12.5px; color: var(--muted); margin-bottom: 18px; }
 .kicker a { color: var(--muted); }
@@ -121,6 +124,7 @@ li ul { margin: 4px 0; }
 .tag-background { background: var(--bg-char); }
 .tag-world { background: var(--world); } .tag-exams { background: var(--exams); }
 .tag-systems { background: var(--systems); }
+.tag-vol1 { background: var(--vol); }
 .tag-authority { background: var(--authority); }
 .tag-rivals { background: var(--rivals); } .tag-allies { background: var(--allies); }
 .tag-peers { background: var(--peers); } .tag-family { background: var(--family); }

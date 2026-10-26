@@ -1,6 +1,6 @@
 # School Festival
 
-**event** · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_exam_dossiers.py`)
+**event**
 
 `92 mentions · 10 vols · 1 runs · 1 claims`
 

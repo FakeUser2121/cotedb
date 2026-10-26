@@ -1,8 +1,8 @@
 # Ichinose Honami
 
-**main** · tier 1 · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_main_dossiers.py`)
+**Main character**
 
-`char_id ichinose-honami · 3750 mentions · 255 attributed lines · 167 scenes`
+`3,880 mentions · 255 attributed lines · 167 scenes`
 
 ## Identity
 
@@ -11,8 +11,8 @@
 ## Footprint
 
 - **Spoken in (25 vols):** y1v1, y1v2, y1v3, y1v4, y1v4.5, y1v5, y1v6, y1v7, y1v7.5, y1v8, y1v9, y1v10, y1v11, y1v11.5, y2v2, y2v4, y2v4.5, y2v8, y2v9, y2v9.5, y2v10, y2v11, y2v12, y2v12.5, y3v1
-- **Gap queue (mentioned, no attributed line):** y0, y1v11.75, y2v1, y2v3, y2v5, y2v6, y2v7, y2v10.25
-- **Top mentions:** y2v9 ×473, y1v9 ×399, y1v4 ×291, y3v1 ×247, y2v12.5 ×237, y1v11.5 ×199, y2v10 ×174, y2v12 ×173, y1v2 ×155, y1v10 ×142 (+23 more vols)
+- **Gap queue (mentioned, no attributed line):** y1v11.75, y2v1, y2v3, y2v5, y2v6, y2v7, y2v10.25, y3v2, y3v3
+- **Top mentions:** y2v9 ×473, y1v9 ×399, y1v4 ×291, y3v1 ×247, y2v12.5 ×237, y1v11.5 ×199, y2v10 ×174, y2v12 ×173, y1v2 ×155, y1v10 ×142 (+24 more vols)
 - **Arc timeline (scenes per vol):** y1v1 ×1, y1v2 ×12, y1v3 ×1, y1v4 ×51, y1v4.5 ×20, y1v5 ×2, y1v6 ×8, y1v7 ×1, y1v7.5 ×1, y1v8 ×3, y1v9 ×4, y1v10 ×2, y1v11 ×1, y1v11.5 ×7, y2v2 ×1, y2v4 ×1, y2v4.5 ×1, y2v8 ×4, y2v9 ×18, y2v9.5 ×5, y2v10 ×4, y2v11 ×1, y2v12 ×1, y2v12.5 ×9, y3v1 ×8
 
 ## Arc

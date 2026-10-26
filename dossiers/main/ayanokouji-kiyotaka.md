@@ -1,8 +1,8 @@
 # Ayanokouji Kiyotaka
 
-**main** · tier 1 · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_main_dossiers.py`)
+**Main character**
 
-`char_id ayanokouji-kiyotaka · 5045 mentions · 972 attributed lines · 755 scenes`
+`5,568 mentions · 972 attributed lines · 755 scenes`
 
 ## Identity
 
@@ -11,8 +11,8 @@
 ## Footprint
 
 - **Spoken in (26 vols):** y1v1, y1v2, y1v3, y1v4, y1v5, y1v6, y1v7, y1v8, y1v9, y1v10, y1v11, y2v1, y2v2, y2v3, y2v4, y2v4.5, y2v5, y2v6, y2v7, y2v8, y2v9, y2v10, y2v11, y2v12, y2v12.5, y3v1
-- **Gap queue (mentioned, no attributed line):** y0, y1v4.5, y1v7.5, y1v11.5, y1v11.75, y2v9.5, y2v9.75, y2v10.25
-- **Top mentions:** y3v1 ×524, y2v12.5 ×360, y2v2 ×227, y2v9.5 ×226, y2v4.5 ×217, y2v4 ×210, y1v11.5 ×191, y1v7.5 ×186, y2v11 ×175, y0 ×170 (+24 more vols)
+- **Gap queue (mentioned, no attributed line):** y0, y1v4.5, y1v7.5, y1v11.5, y1v11.75, y2v9.5, y2v9.75, y2v10.25, y3v2, y3v3
+- **Top mentions:** y3v1 ×524, y2v12.5 ×360, y3v2 ×311, y2v2 ×227, y2v9.5 ×226, y2v4.5 ×217, y2v4 ×210, y0 ×193, y1v11.5 ×191, y3v3 ×189 (+26 more vols)
 - **Arc timeline (scenes per vol):** y1v1 ×96, y1v2 ×79, y1v3 ×41, y1v4 ×85, y1v5 ×102, y1v6 ×70, y1v7 ×122, y1v8 ×43, y1v9 ×5, y1v10 ×2, y1v11 ×4, y2v1 ×8, y2v2 ×6, y2v3 ×4, y2v4 ×6, y2v4.5 ×1, y2v5 ×2, y2v6 ×14, y2v7 ×13, y2v8 ×14, y2v9 ×3, y2v10 ×7, y2v11 ×9, y2v12 ×10, y2v12.5 ×1, y3v1 ×8
 
 ## Arc

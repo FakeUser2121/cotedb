@@ -1,19 +1,18 @@
 # Hoshinomiya Chie
 
-**authority** · tier 2 · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_mid_dossiers.py`)
+**authority**
 
-`347 mentions · 14 quoted lines · 27 scenes`
+`364 mentions · 14 quoted lines · 27 scenes`
 
 ## Identity
 
-- **char_id:** `hoshinomiya-chie`
 - **Aliases:** Hoshinomiya, Hoshinomiya Chie, Chie, Hoshonimya
 
 ## Footprint
 
 - **Spoken in:** y1v1, y1v2, y1v3, y1v4, y1v11, y2v4.5, y2v5, y2v8, y2v10, y2v12, y2v12.5
-- **Gap queue (mentioned, no attributed line):** y1v4.5, y1v7, y1v9, y1v10, y1v11.5, y2v3, y2v6, y2v7, y2v9.5, y3v1
-- **Top mentions:** y2v12.5 ×101, y1v11 ×56, y2v4.5 ×42, y1v4 ×19, y2v5 ×19, y2v8 ×16, y2v10 ×16, y2v12 ×16 (+13 more vols)
+- **Gap queue (mentioned, no attributed line):** y1v4.5, y1v7, y1v9, y1v10, y1v11.5, y2v3, y2v6, y2v7, y2v9.5, y3v1, y3v2, y3v3
+- **Top mentions:** y2v12.5 ×101, y1v11 ×56, y2v4.5 ×42, y1v4 ×19, y2v5 ×19, y2v8 ×16, y2v10 ×16, y2v12 ×16 (+15 more vols)
 - **Arc timeline (scenes per vol):** y1v1 ×2, y1v2 ×1, y1v3 ×1, y1v4 ×4, y1v11 ×3, y2v4.5 ×4, y2v5 ×1, y2v8 ×2, y2v10 ×2, y2v12 ×1, y2v12.5 ×6
 
 ## Recurring scene partners

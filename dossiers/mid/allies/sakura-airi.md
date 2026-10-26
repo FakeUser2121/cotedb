@@ -1,19 +1,18 @@
 # Sakura Airi
 
-**allies** · tier 2 · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_mid_dossiers.py`)
+**allies**
 
-`1397 mentions · 14 quoted lines · 87 scenes`
+`1,406 mentions · 14 quoted lines · 87 scenes`
 
 ## Identity
 
-- **char_id:** `sakura-airi`
 - **Aliases:** Sakura, Sakura Airi, Airi
 
 ## Footprint
 
 - **Spoken in:** y1v2, y1v3, y1v4, y1v4.5, y1v5, y1v6, y1v7, y1v7.5, y1v8, y1v9, y1v10, y1v11, y2v3, y2v4.5, y2v5, y2v6
-- **Gap queue (mentioned, no attributed line):** y1v1, y1v11.5, y2v1, y2v2, y2v4, y2v7, y2v8, y2v9, y2v9.5, y2v12, y2v12.5, y3v1
-- **Top mentions:** y1v2 ×379, y1v3 ×172, y1v4.5 ×169, y2v5 ×104, y2v7 ×78, y1v4 ×71, y2v4.5 ×68, y1v7 ×55 (+20 more vols)
+- **Gap queue (mentioned, no attributed line):** y1v1, y1v11.5, y2v1, y2v2, y2v4, y2v7, y2v8, y2v9, y2v9.5, y2v12, y2v12.5, y3v1, y3v2
+- **Top mentions:** y1v2 ×379, y1v3 ×172, y1v4.5 ×169, y2v5 ×104, y2v7 ×78, y1v4 ×71, y2v4.5 ×68, y1v7 ×55 (+21 more vols)
 - **Arc timeline (scenes per vol):** y1v2 ×19, y1v3 ×9, y1v4 ×7, y1v4.5 ×16, y1v5 ×3, y1v6 ×4, y1v7 ×15, y1v7.5 ×2, y1v8 ×1, y1v9 ×3, y1v10 ×1, y1v11 ×1, y2v3 ×1, y2v4.5 ×3, y2v5 ×1, y2v6 ×1
 
 ## Recurring scene partners

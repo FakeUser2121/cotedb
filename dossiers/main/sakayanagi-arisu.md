@@ -1,8 +1,8 @@
 # Sakayanagi Arisu
 
-**main** · tier 1 · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_main_dossiers.py`)
+**Main character**
 
-`char_id sakayanagi-arisu · 2841 mentions · 139 attributed lines · 107 scenes`
+`2,860 mentions · 135 attributed lines · 103 scenes`
 
 ## Identity
 
@@ -11,9 +11,9 @@
 ## Footprint
 
 - **Spoken in (22 vols):** y0, y1v5, y1v7, y1v7.5, y1v8, y1v9, y1v10, y1v11, y1v11.5, y2v2, y2v3, y2v4, y2v4.5, y2v6, y2v7, y2v8, y2v9, y2v9.5, y2v10, y2v11, y2v12, y2v12.5
-- **Gap queue (mentioned, no attributed line):** y1v3, y1v4, y1v6, y1v11.75, y2v1, y2v5, y3v1
-- **Top mentions:** y2v12 ×298, y2v10 ×244, y2v11 ×212, y1v9 ×202, y1v11 ×193, y2v12.5 ×178, y1v10 ×175, y2v9.5 ×164, y1v11.5 ×150, y2v6 ×120 (+19 more vols)
-- **Arc timeline (scenes per vol):** y0 ×5, y1v5 ×3, y1v7 ×13, y1v7.5 ×10, y1v8 ×1, y1v9 ×7, y1v10 ×4, y1v11 ×5, y1v11.5 ×8, y2v2 ×4, y2v3 ×2, y2v4 ×2, y2v4.5 ×1, y2v6 ×6, y2v7 ×1, y2v8 ×2, y2v9 ×3, y2v9.5 ×4, y2v10 ×9, y2v11 ×3, y2v12 ×5, y2v12.5 ×9
+- **Gap queue (mentioned, no attributed line):** y1v3, y1v4, y1v6, y1v11.75, y2v1, y2v5, y3v1, y3v2, y3v3
+- **Top mentions:** y2v12 ×298, y2v10 ×244, y2v11 ×212, y1v9 ×202, y1v11 ×193, y2v12.5 ×178, y1v10 ×175, y2v9.5 ×164, y1v11.5 ×150, y2v6 ×120 (+21 more vols)
+- **Arc timeline (scenes per vol):** y0 ×1, y1v5 ×3, y1v7 ×13, y1v7.5 ×10, y1v8 ×1, y1v9 ×7, y1v10 ×4, y1v11 ×5, y1v11.5 ×8, y2v2 ×4, y2v3 ×2, y2v4 ×2, y2v4.5 ×1, y2v6 ×6, y2v7 ×1, y2v8 ×2, y2v9 ×3, y2v9.5 ×4, y2v10 ×9, y2v11 ×3, y2v12 ×5, y2v12.5 ×9
 
 ## Arc
 
@@ -148,15 +148,13 @@ Ayanokouji Kiyotaka (6), Kamuro Masumi (5), Ryuuen Kakeru (5), Hashimoto Masayos
 - “Sakayanagi was the first to put the pieces together.” (y1v11 p.324)
 - “Sakayanagi was a bit surprised by Ichinose’s counterattack, who had been on the defensive until then.” (y2v2 p.216)
 - “Sakayanagi was the one to retort to Ryūen’s remark.” (y2v10 p.157)
+- “Sakayanagi was the type to figure out the essence of things all on her own.” (y3v2 p.46)
 
 ## Quote bank
 
 **y0**
 
-- “I see… Naoe-sensei has you by his side.” (p.38)
-- “It’s true that hundreds of children are abandoned every year in Japan. I don't accept that reality, and it's not a bad thing that politicians are trying to do something about it. In fact, we should welcome it.” (p.38)
-- “Begin!” (p.83)
-- “I know you don't like it. But this is also a form of education.” (p.87)
+- “Thank you, Ayanokouji-sensei.” (p.231)
 **y1v5**
 
 - “Go ahead.” (p.202)
@@ -249,3 +247,8 @@ Ayanokouji Kiyotaka (6), Kamuro Masumi (5), Ryuuen Kakeru (5), Hashimoto Masayos
 - “Special exam? No, you’re mistaken, Hashimoto-kun. Today is just a simple tea party.” (p.104)
 - “I was thinking they might protect him unconditionally, or better yet, we could just eliminate him... but it seems Horikita-san has a different plan. If we keep targeting Kōenji-kun, it would just be pleasurable for her.” (p.152)
 - “Anyway, I’m impressed that she’s carefully thought about how to fight me.” (p.152)
+- “If you think so, then interpret it that way.” (p.159)
+**y2v11**
+
+- “Hehe.” (p.110)
+- “Certainly, right after Masumi-san left, there was unexpected damage. You know that too, Ayanokōji-kun. But, I won't dwell on it for long.” (p.111)

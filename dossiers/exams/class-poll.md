@@ -1,6 +1,6 @@
 # Class Poll
 
-**special** · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_exam_dossiers.py`)
+**special**
 
 `43 mentions · 8 vols · 2 runs · 3 claims`
 

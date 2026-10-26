@@ -1,8 +1,8 @@
 # Keyaki Mall
 
-**campus-zone** · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_world_dossiers.py`)
+**campus-zone**
 
-`309 mentions · 24 vols · 75 co-paged scenes · 1 claims`
+`336 mentions · 25 vols · 80 co-paged scenes · 1 claims`
 
 ## Function
 
@@ -14,12 +14,12 @@ Defined at y1v4.5 p.12 as 'a complex on the school grounds that students often w
 
 ## Footprint
 
-- **Span:** y1v4.5 → y3v1
-- **Anchored mentions by vol:** y1v4.5 ×9, y1v6 ×5, y1v7 ×13, y1v7.5 ×13, y1v9 ×4, y1v10 ×7, y1v11 ×2, y1v11.5 ×32, y1v11.75 ×1, y2v1 ×14, y2v2 ×23, y2v4.5 ×1, y2v5 ×7, y2v6 ×12, y2v7 ×13, y2v8 ×3, y2v9 ×21, y2v9.5 ×57, y2v9.75 ×1, y2v10 ×15, y2v11 ×2, y2v12 ×8, y2v12.5 ×28, y3v1 ×18
+- **Span:** y1v4.5 → y3v2
+- **Anchored mentions by vol:** y1v4.5 ×9, y1v6 ×5, y1v7 ×13, y1v7.5 ×13, y1v9 ×4, y1v10 ×7, y1v11 ×2, y1v11.5 ×32, y1v11.75 ×1, y2v1 ×14, y2v2 ×23, y2v4.5 ×1, y2v5 ×7, y2v6 ×12, y2v7 ×13, y2v8 ×3, y2v9 ×21, y2v9.5 ×57, y2v9.75 ×1, y2v10 ×15, y2v11 ×2, y2v12 ×8, y2v12.5 ×28, y3v1 ×18, y3v2 ×27
 
 ## Scene partners (co-paged dialogue)
 
-Ayanokouji Kiyotaka (13), Karuizawa Kei (9), Horikita Suzune (6), Sakayanagi Arisu (6), Hirata Yousuke (5), Ichinose Honami (5), Miyake Akito (5), Sakura Airi (5), Yukimura Teruhiko (5), Kamuro Masumi (4), Satou Maya (4), Sudou Ken (4) (+20 more)
+Ayanokouji Kiyotaka (13), Karuizawa Kei (9), Horikita Suzune (6), Sakayanagi Arisu (6), Hashimoto Masayoshi (5), Hirata Yousuke (5), Ichinose Honami (5), Miyake Akito (5), Sakura Airi (5), Yukimura Teruhiko (5), Ibuki Mio (4), Kamuro Masumi (4) (+20 more)
 
 ## Claims
 

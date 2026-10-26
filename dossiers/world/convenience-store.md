@@ -1,8 +1,8 @@
 # Convenience Store
 
-**campus-building** · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_world_dossiers.py`)
+**campus-building**
 
-`120 mentions · 21 vols · 33 co-paged scenes · 0 claims`
+`121 mentions · 22 vols · 33 co-paged scenes · 0 claims`
 
 ## Function
 
@@ -14,8 +14,8 @@ Campus store for snacks, bread and daily supplies; default solo-running errand s
 
 ## Footprint
 
-- **Span:** y0 → y3v1
-- **Anchored mentions by vol:** y0 ×1, y1v1 ×12, y1v2 ×3, y1v4.5 ×6, y1v6 ×4, y1v7 ×3, y1v7.5 ×2, y1v9 ×13, y1v11 ×1, y1v11.5 ×3, y2v2 ×5, y2v4.5 ×1, y2v5 ×3, y2v6 ×4, y2v7 ×6, y2v9 ×3, y2v9.5 ×14, y2v10 ×19, y2v11 ×15, y2v12.5 ×1, y3v1 ×1
+- **Span:** y0 → y3v2
+- **Anchored mentions by vol:** y0 ×1, y1v1 ×12, y1v2 ×3, y1v4.5 ×6, y1v6 ×4, y1v7 ×3, y1v7.5 ×2, y1v9 ×13, y1v11 ×1, y1v11.5 ×3, y2v2 ×5, y2v4.5 ×1, y2v5 ×3, y2v6 ×4, y2v7 ×6, y2v9 ×3, y2v9.5 ×14, y2v10 ×19, y2v11 ×15, y2v12.5 ×1, y3v1 ×1, y3v2 ×1
 
 ## Scene partners (co-paged dialogue)
 
@@ -23,4 +23,4 @@ Ayanokouji Kiyotaka (10), Horikita Suzune (7), Ike Kanji (4), Kushida Kikyou (3)
 
 ## Evidence anchors
 
-y0 p.102, y1v1 p.41, y1v1 p.41, y1v1 p.43, y1v1 p.43, y1v1 p.45, y1v1 p.45, y1v1 p.51
+y0 p.125, y1v1 p.41, y1v1 p.41, y1v1 p.43, y1v1 p.43, y1v1 p.45, y1v1 p.45, y1v1 p.51

@@ -1,8 +1,8 @@
 # Expulsion Rules
 
-**discipline** · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_exam_dossiers.py`)
+**discipline**
 
-`1634 mentions · 30 vols · 4 claims`
+`1702 mentions · 33 vols · 4 claims`
 
 ## Function
 
@@ -14,8 +14,8 @@ The base rule lands in the first weeks — fail a midterm or final and you drop 
 
 ## Footprint
 
-- **Span:** y1v1 → y3v1
-- **Anchored mentions by vol:** y1v1 ×49, y1v2 ×13, y1v3 ×8, y1v4 ×5, y1v4.5 ×12, y1v5 ×10, y1v6 ×31, y1v7 ×25, y1v7.5 ×20, y1v8 ×104, y1v9 ×8, y1v10 ×259, y1v11 ×80, y1v11.5 ×27, y2v1 ×88, y2v2 ×88, y2v3 ×77, y2v4 ×49, y2v4.5 ×30, y2v5 ×201, y2v6 ×47, y2v7 ×60, y2v8 ×29, y2v9 ×20, y2v9.5 ×19, y2v10 ×105, y2v11 ×26, y2v12 ×47, y2v12.5 ×85, y3v1 ×12
+- **Span:** y0 → y3v3
+- **Anchored mentions by vol:** y0 ×2, y1v1 ×49, y1v2 ×13, y1v3 ×8, y1v4 ×5, y1v4.5 ×12, y1v5 ×10, y1v6 ×31, y1v7 ×25, y1v7.5 ×20, y1v8 ×104, y1v9 ×8, y1v10 ×259, y1v11 ×80, y1v11.5 ×27, y2v1 ×88, y2v2 ×88, y2v3 ×77, y2v4 ×49, y2v4.5 ×30, y2v5 ×201, y2v6 ×47, y2v7 ×60, y2v8 ×29, y2v9 ×20, y2v9.5 ×19, y2v10 ×105, y2v11 ×26, y2v12 ×47, y2v12.5 ×85, y3v1 ×12, y3v2 ×24, y3v3 ×42
 
 ## Claims
 
@@ -51,4 +51,4 @@ It wasn’t surprising. Kushida had”
 ## Evidence anchors
 
 
-y1v1 p.140, y1v1 p.142, y1v1 p.145, y1v1 p.145, y1v1 p.148, y1v1 p.153, y1v1 p.153, y1v1 p.153
+y0 p.36, y0 p.216, y1v1 p.140, y1v1 p.142, y1v1 p.145, y1v1 p.145, y1v1 p.148, y1v1 p.153

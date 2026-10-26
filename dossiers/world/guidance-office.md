@@ -1,6 +1,6 @@
 # Guidance Office
 
-**campus-building** · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_world_dossiers.py`)
+**campus-building**
 
 `1 mentions · 1 vols · 2 co-paged scenes · 1 claims`
 

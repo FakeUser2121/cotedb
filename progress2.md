@@ -171,6 +171,39 @@ Ledger tag grammar: [scene] [says] [thinks] [trait] [voice] [feat] [limit]
   dropped "on the other hand,": now exact p.127 corpus) + 1 self-inflicted
   double-dialogue glue in the Horikita article (split into two spans).
 
+## Site pass — human naming, navigation, no jargon (user directives)
+- User feedback: "walk", "Phase 10", "Checkpoint A1", "dossier", and
+  cote_kb.db/regenerate notes mean nothing to visitors; organization + search
+  matter more than encyclopedic mass; design must be good-looking,
+  human-navigable, final.
+- Section renamed walk → **Volume 1 (Year 1)** (paths vol1/, 6 pages — the
+  approved AK guide+transcript now published alongside the A1 pair).
+  Sidebar final: Home · Characters · Volume 1 (Year 1) · World & Locations ·
+  Exams · School Systems. Home cards reworded (profiles/guides/transcripts,
+  no separate Background card); search placeholder "Search characters,
+  scenes, exams… (press /)"; footer explains "y1v1 p.247 = Year 1, Volume 1,
+  page 247" instead of db instructions; kicker "Year 1 · Volume 1".
+- Transcript renderer humanized: titles/headings "Year 1, Volume 1, p.NN–MM",
+  dropped the "Source ledger / rendered by" line; re-rendered AK/Horikita/
+  Kushida transcripts.
+- Articles humanized (Sources, transcript links, spoiler lines, "Vol. 1"
+  citations instead of y1v1); verifiers stay green: 87 article spans ALL
+  PASS, 626 says ALL PASS, 230 non-says = the 2 known extractor artifacts.
+- Dossier generators: removed "generated view (source: cote_kb.db…)", tier
+  and char_id lines; new index intros and titles (All Exams, All Systems,
+  All Locations); regeneration also caught footprint stats up to y3v2/y3v3
+  already present in the db.
+- Nav fixes: current section auto-expands; overview leaves highlight (fixed
+  duplicate class attribute); Mid overview link added (mid index was
+  unreachable from the sidebar); ghost "INDEX.HTML" tag on mid index fixed.
+- PDFs now built inside build_share_site (chromium print-to-pdf →
+  share/site/pdfs) so the clean-build wipe cannot drop them; *.pdf excluded
+  from md5 determinism (chromium timestamps). Build output: 89 pages + 899
+  search records + 6 print docs + 6 PDFs; md5
+  91185875b554ca9c1b5d6786789b3404 stable across rebuilds.
+- Verified: local crawl 90 pages / 99 links / 0 bad; jargon grep over
+  docs/ clean; screenshots reviewed (home, vol1 hub, transcript, main, mid).
+
 ## Checkpoints
 - [x] A1 deliverables built — awaiting USER REVIEW of the 4 Horikita +
       Kushida files in drafts/people/ (AK pair already approved)

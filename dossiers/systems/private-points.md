@@ -1,8 +1,8 @@
 # Private Points
 
-**points** · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_exam_dossiers.py`)
+**points**
 
-`722 mentions · 31 vols · 6 claims`
+`743 mentions · 32 vols · 6 claims`
 
 ## Function
 
@@ -14,8 +14,8 @@ Issued at enrollment — 100,000 points at the start (y1v2 p.27) and a monthly a
 
 ## Footprint
 
-- **Span:** y0 → y3v1
-- **Anchored mentions by vol:** y0 ×1, y1v2 ×16, y1v3 ×2, y1v4 ×15, y1v4.5 ×10, y1v5 ×15, y1v6 ×4, y1v7 ×23, y1v7.5 ×8, y1v8 ×38, y1v9 ×21, y1v10 ×55, y1v11 ×6, y1v11.5 ×10, y2v1 ×73, y2v2 ×40, y2v3 ×5, y2v4 ×5, y2v4.5 ×45, y2v5 ×76, y2v6 ×15, y2v7 ×27, y2v8 ×39, y2v9 ×22, y2v9.5 ×8, y2v9.75 ×1, y2v10 ×14, y2v11 ×29, y2v12 ×22, y2v12.5 ×23, y3v1 ×54
+- **Span:** y1v2 → y3v3
+- **Anchored mentions by vol:** y1v2 ×16, y1v3 ×2, y1v4 ×15, y1v4.5 ×10, y1v5 ×15, y1v6 ×4, y1v7 ×23, y1v7.5 ×8, y1v8 ×38, y1v9 ×21, y1v10 ×55, y1v11 ×6, y1v11.5 ×10, y2v1 ×73, y2v2 ×40, y2v3 ×5, y2v4 ×5, y2v4.5 ×45, y2v5 ×76, y2v6 ×15, y2v7 ×27, y2v8 ×39, y2v9 ×22, y2v9.5 ×8, y2v9.75 ×1, y2v10 ×14, y2v11 ×29, y2v12 ×22, y2v12.5 ×23, y3v1 ×54, y3v2 ×18, y3v3 ×4
 
 ## Claims
 
@@ -57,4 +57,4 @@ only in preparation for the festival.
 ## Evidence anchors
 
 
-y0 p.223, y1v10 p.38, y1v10 p.38, y1v10 p.46, y1v10 p.46, y1v10 p.46, y1v10 p.46, y1v10 p.47
+y1v10 p.38, y1v10 p.38, y1v10 p.46, y1v10 p.46, y1v10 p.46, y1v10 p.46, y1v10 p.47, y1v10 p.47

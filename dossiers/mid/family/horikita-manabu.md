@@ -1,19 +1,18 @@
 # Horikita Manabu
 
-**family** · tier 2 · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_mid_dossiers.py`)
+**family**
 
-`7254 mentions · 9 quoted lines · 8 scenes`
+`7,411 mentions · 9 quoted lines · 8 scenes`
 
 ## Identity
 
-- **char_id:** `horikita-manabu`
 - **Aliases:** Horikita, Horikita Manabu, Manabu, Horokita
 
 ## Footprint
 
 - **Spoken in:** y1v4.5, y1v5, y1v7, y1v7.5, y1v8
-- **Gap queue (mentioned, no attributed line):** y0, y1v1, y1v2, y1v3, y1v4, y1v6, y1v9, y1v10, y1v11, y1v11.5, y1v11.75, y2v1, y2v2, y2v3, y2v4, y2v4.5, y2v5, y2v6, y2v7, y2v8, y2v9, y2v9.5, y2v9.75, y2v10, y2v11, y2v12, y2v12.5, y3v1
-- **Top mentions:** y1v1 ×533, y1v6 ×496, y2v1 ×450, y1v5 ×403, y1v11.5 ×400, y1v2 ×377, y1v3 ×328, y1v4.5 ×322 (+25 more vols)
+- **Gap queue (mentioned, no attributed line):** y1v1, y1v2, y1v3, y1v4, y1v6, y1v9, y1v10, y1v11, y1v11.5, y1v11.75, y2v1, y2v2, y2v3, y2v4, y2v4.5, y2v5, y2v6, y2v7, y2v8, y2v9, y2v9.5, y2v9.75, y2v10, y2v11, y2v12, y2v12.5, y3v1, y3v2, y3v3
+- **Top mentions:** y1v1 ×533, y1v6 ×496, y2v1 ×450, y1v5 ×403, y1v11.5 ×400, y1v2 ×377, y1v3 ×328, y1v4.5 ×322 (+26 more vols)
 - **Arc timeline (scenes per vol):** y1v4.5 ×3, y1v5 ×2, y1v7 ×1, y1v7.5 ×1, y1v8 ×1
 
 ## Recurring scene partners

@@ -1,8 +1,8 @@
 # Midterm and Final Written Exams
 
-**written** · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_exam_dossiers.py`)
+**written**
 
-`256 mentions · 23 vols · 5 runs · 4 claims`
+`255 mentions · 22 vols · 5 runs · 4 claims`
 
 ## Rules
 
@@ -26,8 +26,8 @@ Highest-frequency exam entity (256 mentions, 23 vols, y0-y2v12.5). Carries the c
 
 ## Footprint
 
-- **Span:** y0 → y2v12.5
-- **Anchored mentions by vol:** y0 ×1, y1v1 ×31, y1v2 ×12, y1v3 ×4, y1v4 ×4, y1v5 ×4, y1v6 ×57, y1v7 ×5, y1v8 ×2, y1v9 ×22, y1v10 ×7, y1v11.5 ×28, y1v11.75 ×1, y2v2 ×1, y2v5 ×5, y2v7 ×8, y2v8 ×16, y2v9 ×20, y2v9.5 ×12, y2v10 ×2, y2v11 ×10, y2v12 ×2, y2v12.5 ×2
+- **Span:** y1v1 → y2v12.5
+- **Anchored mentions by vol:** y1v1 ×31, y1v2 ×12, y1v3 ×4, y1v4 ×4, y1v5 ×4, y1v6 ×57, y1v7 ×5, y1v8 ×2, y1v9 ×22, y1v10 ×7, y1v11.5 ×28, y1v11.75 ×1, y2v2 ×1, y2v5 ×5, y2v7 ×8, y2v8 ×16, y2v9 ×20, y2v9.5 ×12, y2v10 ×2, y2v11 ×10, y2v12 ×2, y2v12.5 ×2
 
 ## Runs
 
@@ -117,4 +117,4 @@ depressing.”
 ## Evidence anchors
 
 
-y0 p.147, y1v1 p.2, y1v1 p.128, y1v1 p.128, y1v1 p.130, y1v1 p.150, y1v1 p.150, y1v1 p.150
+y1v1 p.2, y1v1 p.128, y1v1 p.128, y1v1 p.130, y1v1 p.150, y1v1 p.150, y1v1 p.150, y1v1 p.153

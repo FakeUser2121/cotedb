@@ -1,8 +1,8 @@
 # Rooftop
 
-**campus-building** · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_world_dossiers.py`)
+**campus-building**
 
-`102 mentions · 20 vols · 59 co-paged scenes · 1 claims`
+`105 mentions · 22 vols · 59 co-paged scenes · 1 claims`
 
 ## Function
 
@@ -14,8 +14,8 @@ Upper-floor roof terrace: lunchtime-open, locked after class — the series' sec
 
 ## Footprint
 
-- **Span:** y0 → y3v1
-- **Anchored mentions by vol:** y0 ×1, y1v1 ×3, y1v4 ×2, y1v4.5 ×2, y1v5 ×1, y1v6 ×1, y1v7 ×36, y1v7.5 ×23, y1v8 ×1, y1v11.5 ×1, y2v2 ×1, y2v3 ×1, y2v4.5 ×5, y2v5 ×7, y2v6 ×7, y2v7 ×1, y2v8 ×1, y2v9 ×3, y2v11 ×3, y3v1 ×2
+- **Span:** y0 → y3v3
+- **Anchored mentions by vol:** y0 ×2, y1v1 ×3, y1v4 ×2, y1v4.5 ×2, y1v5 ×1, y1v6 ×1, y1v7 ×36, y1v7.5 ×23, y1v8 ×1, y1v11.5 ×1, y2v2 ×1, y2v3 ×1, y2v4.5 ×5, y2v5 ×7, y2v6 ×7, y2v7 ×1, y2v8 ×1, y2v9 ×3, y2v11 ×3, y3v1 ×2, y3v2 ×1, y3v3 ×1
 
 ## Scene partners (co-paged dialogue)
 
@@ -30,4 +30,4 @@ it? Students were free to use the roof during lunchtime, but it should’”
 
 ## Evidence anchors
 
-y0 p.65, y1v1 p.181, y1v1 p.181, y1v1 p.181, y1v11.5 p.155, y1v4 p.24, y1v4 p.24, y1v4.5 p.148
+y0 p.84, y0 p.84, y1v1 p.181, y1v1 p.181, y1v1 p.181, y1v11.5 p.155, y1v4 p.24, y1v4 p.24

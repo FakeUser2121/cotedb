@@ -1,6 +1,6 @@
 # Ryokan
 
-**exam-venue** · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_world_dossiers.py`)
+**exam-venue**
 
 `30 mentions · 1 vols · 4 co-paged scenes · 1 claims`
 

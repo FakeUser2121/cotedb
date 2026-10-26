@@ -1,8 +1,8 @@
 # Horikita Suzune
 
-**main** · tier 1 · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_main_dossiers.py`)
+**Main character**
 
-`char_id horikita-suzune · 7497 mentions · 577 attributed lines · 380 scenes`
+`7,664 mentions · 577 attributed lines · 380 scenes`
 
 ## Identity
 
@@ -11,8 +11,8 @@
 ## Footprint
 
 - **Spoken in (26 vols):** y1v1, y1v2, y1v3, y1v4, y1v4.5, y1v5, y1v6, y1v7, y1v7.5, y1v8, y1v10, y1v11, y1v11.5, y2v1, y2v2, y2v4.5, y2v5, y2v6, y2v7, y2v8, y2v9, y2v10, y2v11, y2v12, y2v12.5, y3v1
-- **Gap queue (mentioned, no attributed line):** y0, y1v9, y1v11.75, y2v3, y2v4, y2v9.5, y2v9.75
-- **Top mentions:** y1v1 ×540, y1v6 ×533, y2v1 ×476, y1v5 ×431, y1v11.5 ×398, y1v2 ×379, y1v3 ×352, y2v10 ×325, y1v4.5 ×324, y2v5 ×302 (+23 more vols)
+- **Gap queue (mentioned, no attributed line):** y1v9, y1v11.75, y2v3, y2v4, y2v9.5, y2v9.75, y3v2, y3v3
+- **Top mentions:** y1v1 ×540, y1v6 ×533, y2v1 ×476, y1v5 ×431, y1v11.5 ×398, y1v2 ×379, y1v3 ×352, y2v10 ×325, y1v4.5 ×324, y2v5 ×302 (+24 more vols)
 - **Arc timeline (scenes per vol):** y1v1 ×46, y1v2 ×29, y1v3 ×24, y1v4 ×33, y1v4.5 ×35, y1v5 ×48, y1v6 ×72, y1v7 ×17, y1v7.5 ×8, y1v8 ×8, y1v10 ×7, y1v11 ×4, y1v11.5 ×6, y2v1 ×4, y2v2 ×2, y2v4.5 ×1, y2v5 ×2, y2v6 ×5, y2v7 ×4, y2v8 ×6, y2v9 ×9, y2v10 ×2, y2v11 ×1, y2v12 ×5, y2v12.5 ×1, y3v1 ×1
 
 ## Arc

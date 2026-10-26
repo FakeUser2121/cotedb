@@ -1,6 +1,6 @@
 # Mid Characters
 
-Generated index — regenerate with `python3 kb/build_mid_dossiers.py`.
+Supporting cast, grouped by relationship — open any name for the full profile.
 
 ## authority (4)
 

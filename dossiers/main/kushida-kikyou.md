@@ -1,8 +1,8 @@
 # Kushida Kikyou
 
-**main** · tier 1 · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_main_dossiers.py`)
+**Main character**
 
-`char_id kushida-kikyou · 3009 mentions · 377 attributed lines · 249 scenes`
+`3,054 mentions · 380 attributed lines · 252 scenes`
 
 ## Identity
 
@@ -11,10 +11,10 @@
 
 ## Footprint
 
-- **Spoken in (22 vols):** y1v1, y1v2, y1v3, y1v4, y1v4.5, y1v5, y1v6, y1v7.5, y1v8, y1v9, y2v1, y2v2, y2v4.5, y2v5, y2v6, y2v7, y2v8, y2v9, y2v9.75, y2v10, y2v11, y3v1
-- **Gap queue (mentioned, no attributed line):** y1v7, y1v10, y1v11, y1v11.5, y2v3, y2v4, y2v9.5, y2v12, y2v12.5
-- **Top mentions:** y1v1 ×362, y1v2 ×346, y1v6 ×276, y2v6 ×249, y2v8 ×211, y2v5 ×210, y1v5 ×170, y2v7 ×164, y2v9 ×120, y1v4.5 ×118 (+21 more vols)
-- **Arc timeline (scenes per vol):** y1v1 ×56, y1v2 ×41, y1v3 ×5, y1v4 ×7, y1v4.5 ×19, y1v5 ×29, y1v6 ×22, y1v7.5 ×6, y1v8 ×4, y1v9 ×8, y2v1 ×1, y2v2 ×4, y2v4.5 ×2, y2v5 ×6, y2v6 ×6, y2v7 ×7, y2v8 ×13, y2v9 ×5, y2v9.75 ×2, y2v10 ×3, y2v11 ×1, y3v1 ×2
+- **Spoken in (23 vols):** y1v1, y1v2, y1v3, y1v4, y1v4.5, y1v5, y1v6, y1v7.5, y1v8, y1v9, y2v1, y2v2, y2v4.5, y2v5, y2v6, y2v7, y2v8, y2v9, y2v9.75, y2v10, y2v11, y3v1, y3v2
+- **Gap queue (mentioned, no attributed line):** y1v7, y1v10, y1v11, y1v11.5, y2v3, y2v4, y2v9.5, y2v12, y2v12.5, y3v3
+- **Top mentions:** y1v1 ×362, y1v2 ×346, y1v6 ×276, y2v6 ×249, y2v8 ×211, y2v5 ×210, y1v5 ×170, y2v7 ×164, y2v9 ×120, y1v4.5 ×118 (+23 more vols)
+- **Arc timeline (scenes per vol):** y1v1 ×56, y1v2 ×41, y1v3 ×5, y1v4 ×7, y1v4.5 ×19, y1v5 ×29, y1v6 ×22, y1v7.5 ×6, y1v8 ×4, y1v9 ×8, y2v1 ×1, y2v2 ×4, y2v4.5 ×2, y2v5 ×6, y2v6 ×6, y2v7 ×7, y2v8 ×13, y2v9 ×5, y2v9.75 ×2, y2v10 ×3, y2v11 ×1, y3v1 ×2, y3v2 ×3
 
 ## Arc
 

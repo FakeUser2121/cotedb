@@ -7,9 +7,10 @@ python3 kb/build_share_site.py
 Outputs share/site/:
   index.html                    home (stats + section cards)
   background.html               background characters (single page)
-  main/*.html  mid/*/*.html     character dossiers (section-preserving)
-  world/*.html  exams/*.html    location + exam dossiers
-  systems/*.html                system dossiers
+  main/*.html  mid/*/*.html     character profiles (section-preserving)
+  world/*.html  exams/*.html    location + exam profiles
+  systems/*.html                system profiles
+  vol1/*.html                   Year 1, Volume 1 — guides + transcripts
   assets/style.css              one stylesheet (tier/type colour coding)
   assets/search-index.js        SEARCH_INDEX as a JS constant (file:// safe)
   assets/search.js              client-side search UI
@@ -18,20 +19,22 @@ Outputs share/site/:
 Plus share/print/*.html — per-category print documents (cover + TOC +
 page-broken entities) consumed by chromium for the PDFs.
 
-Navigation comes from the authored dossiers/*/\u0069ndex.md link order; pages keep
-their dossier-relative layout so in-page (#anchors) and sibling links keep
-working. Every page: topbar search, sidebar nav (details/summary, current
-section open), right TOC, footer. Deterministic — two builds must be
-md5-identical (verified by --md5).
+Navigation comes from the authored dossiers/*/index.md link order; pages
+keep their section-relative layout so in-page (#anchors) and sibling links
+keep working. Every page: topbar search, sidebar nav (details/summary,
+current section open), right TOC, footer. Deterministic — two builds must
+be md5-identical (verified by --md5).
 """
 
 import argparse
 import hashlib
+import html
 import json
 import posixpath
 import re
 import shutil
 import sqlite3
+import subprocess
 import sys
 import zipfile
 from pathlib import Path
@@ -47,13 +50,15 @@ PRINT = ROOT / "share" / "print"
 
 LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)\s]+)\)")
 
-SECTIONS = [
-    ("background", "Background"),
-    ("main", "Main Characters"),
-    ("mid", "Mid Characters"),
-    ("world", "World / Locations"),
-    ("exams", "Exams"),
-    ("systems", "School Systems"),
+VOL1_SRC = ROOT / "drafts" / "people"
+VOL1_FILES = [
+    ("ayanokouji-kiyotaka.article", "Ayanokōji Kiyotaka — guide"),
+    ("ayanokouji-kiyotaka.y1v1.transcript",
+     "Ayanokōji Kiyotaka — transcript"),
+    ("horikita-suzune.article", "Horikita Suzune — guide"),
+    ("horikita-suzune.y1v1.transcript", "Horikita Suzune — transcript"),
+    ("kushida-kikyou.article", "Kushida Kikyō — guide"),
+    ("kushida-kikyou.y1v1.transcript", "Kushida Kikyō — transcript"),
 ]
 
 CSS = """/* COTE knowledge base — one stylesheet, all pages */
@@ -62,6 +67,7 @@ CSS = """/* COTE knowledge base — one stylesheet, all pages */
   --card: #ffffff; --brand: #2b3a67; --accent: #3b5bdb;
   --main: #b45309; --mid: #6d28d9; --bg-char: #64748b;
   --world: #0f766e; --exams: #be123c; --systems: #1d4ed8;
+  --vol: #4338ca;
   --authority: #b91c1c; --rivals: #c2410c; --allies: #15803d;
   --peers: #1d4ed8; --family: #7e22ce; --outside: #0f766e;
   --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
@@ -115,7 +121,8 @@ mark { background: #fde68a; padding: 0 0.1em; }
 #results .none { padding: 10px 14px; color: var(--muted); font-size: 14px; }
 
 .layout { display: grid; grid-template-columns: 250px minmax(0,1fr) 220px;
-  gap: 0; max-width: 1440px; margin: 0 auto; }
+  gap: 0; max-width: 1440px; margin: 0 auto;
+  min-height: calc(100vh - 52px); }
 .sidebar {
   padding: 18px 12px 60px 16px; border-right: 1px solid var(--line);
   position: sticky; top: 52px; max-height: calc(100vh - 52px);
@@ -168,6 +175,7 @@ li ul { margin: 4px 0; }
 .sec-world h1 { border-bottom: 4px solid var(--world); padding-bottom: 8px; }
 .sec-exams h1 { border-bottom: 4px solid var(--exams); padding-bottom: 8px; }
 .sec-systems h1 { border-bottom: 4px solid var(--systems); padding-bottom: 8px; }
+.sec-vol1 h1 { border-bottom: 4px solid var(--vol); padding-bottom: 8px; }
 
 .kicker { font-size: 12.5px; color: var(--muted); margin-bottom: 18px; }
 .kicker a { color: var(--muted); }
@@ -179,6 +187,7 @@ li ul { margin: 4px 0; }
 .tag-background { background: var(--bg-char); }
 .tag-world { background: var(--world); } .tag-exams { background: var(--exams); }
 .tag-systems { background: var(--systems); }
+.tag-vol1 { background: var(--vol); }
 .tag-authority { background: var(--authority); }
 .tag-rivals { background: var(--rivals); } .tag-allies { background: var(--allies); }
 .tag-peers { background: var(--peers); } .tag-family { background: var(--family); }
@@ -331,31 +340,32 @@ README = """COTE Knowledge Base — share site
 ===============================
 
 Static HTML site over the evidence-backed knowledge base for the
-Classroom of the Elite light novels (34 volumes).
+Classroom of the Elite light novels.
 
   index.html            start here (stats + sections + PDF downloads)
   background.html       background characters
-  main/ mid/            character dossiers (section-preserving)
-  world/                world / location dossiers
-  exams/                exam dossiers + master chronology
+  main/ mid/            character profiles (section-preserving)
+  world/                world / location profiles
+  exams/                exam profiles + master chronology
   systems/              school systems (points, council, clubs, expulsion)
+  vol1/                 Year 1, Volume 1 — guides + scene transcripts
   pdfs/                 6 per-category PDFs (print editions of the site)
   assets/               stylesheet + client-side search index
 
 Search: press / (or click the box in the header). Works opened from
 disk (file://) — the index is a JS constant, no server needed.
 
-Generated view — never hand-edit. Regenerate:
+Developer notes: generated — never hand-edit. Regenerate:
   python3 kb/build_share_site.py
-Source of truth: cote_kb.db. Verbatim quotes are cited with volume +
-page anchors (e.g. y1v1 p.247).
+Built from the repository knowledge base. Verbatim quotes are cited
+with volume + page anchors (e.g. y1v1 p.247).
 """
 
 
 def md5_tree(path):
     h = hashlib.md5()
     for f in sorted(path.rglob("*")):
-        if f.is_file():
+        if f.is_file() and f.suffix != ".pdf":
             h.update(str(f.relative_to(path)).encode())
             h.update(f.read_bytes())
     return h.hexdigest()
@@ -416,7 +426,11 @@ def build_nav():
             {"label": "Background (226)", "id": "background",
              "href": "background.html", "items": []},
         ]})
-    nav.append({"label": "World / Locations", "id": "world",
+    nav.append({"label": "Volume 1 (Year 1)", "id": "vol1",
+                "href": "vol1/index.html",
+                "items": [(label, f"vol1/{stem}.html")
+                          for stem, label in VOL1_FILES]})
+    nav.append({"label": "World & Locations", "id": "world",
                 "href": "world/index.html",
                 "items": world})
     nav.append({"label": "Exams", "id": "exams",
@@ -432,7 +446,7 @@ def section_of(out_path):
         return "home"
     if out_path == "background.html":
         return "background"
-    if top in ("main", "mid", "world", "exams", "systems"):
+    if top in ("main", "mid", "world", "exams", "systems", "vol1"):
         return top
     return "home"
 
@@ -441,9 +455,11 @@ def tag_of(out_path):
     sec = section_of(out_path)
     if sec == "mid":
         parts = out_path.split("/")
-        return f'<span class="tag tag-{parts[1]}">{parts[1]}</span>'
-    if sec in ("main", "background", "world", "exams", "systems"):
-        label = {"background": "background", "main": "main"}.get(sec, sec)
+        label = "mid" if parts[1] == "index.html" else parts[1]
+        return f'<span class="tag tag-{label}">{label}</span>'
+    if sec in ("main", "background", "world", "exams", "systems", "vol1"):
+        label = {"background": "background", "main": "main",
+                 "vol1": "vol 1"}.get(sec, sec)
         return f'<span class="tag tag-{label}">{label}</span>'
     return ""
 
@@ -451,14 +467,12 @@ def tag_of(out_path):
 def nav_html(nav, current, root):
     sec = section_of(current)
 
-    def active(href, nid=None):
-        if href == current:
-            return ' class="active"'
-        if nid == "characters" and sec in ("main", "mid", "background"):
-            return ' class="active"'
-        if nid == sec:
-            return ' class="active"'
-        return ""
+    def active(href):
+        return ' class="active"' if href == current else ""
+
+    def leaf_a(href):
+        cls = "leaf active" if href == current else "leaf"
+        return f'<a class="{cls}" href="{root}{href}"'
 
     def items_list(items):
         if not items:
@@ -469,14 +483,16 @@ def nav_html(nav, current, root):
                   f'{text}</a></li>')
         return h + "</ul>"
 
-    def groups_list(groups, head_id=None):
+    def groups_list(groups):
         h = "<ul>"
         for g in groups:
             if "groups" in g:
-                is_open = head_id == g["id"] or (
-                    g["id"] == "mid" and sec == "mid")
+                is_open = g["id"] == sec
                 h += f'<li><details{" open" if is_open else ""}>' \
                      f'<summary>{g["label"]}</summary>'
+                if g.get("href"):
+                    h += f'<ul><li>{leaf_a(g["href"])}>' \
+                         f'{g["label"]} overview</a></li></ul>'
                 for sub in g["groups"]:
                     is_sub = sec == "mid" and current.startswith(
                         f"mid/{sub['label']}/")
@@ -485,14 +501,11 @@ def nav_html(nav, current, root):
                          f'{items_list(sub["items"])}</details>'
                 h += "</details></li>"
             else:
-                is_open = head_id == g["id"] or (
-                    g["id"] == "characters" and sec in
-                    ("main", "mid", "background"))
+                is_open = g["id"] == sec
                 h += f'<li><details{" open" if is_open else ""}>' \
                      f'<summary>{g["label"]}</summary>'
                 if g.get("href"):
-                    h += f'<ul><li><a class="leaf" href="{root}{g["href"]}"' \
-                         f'{active(g["href"], g["id"])}>' \
+                    h += f'<ul><li>{leaf_a(g["href"])}>' \
                          f'{g["label"]} overview</a></li></ul>'
                 h += f'{groups_list(g.get("groups", []))}' \
                      f'{items_list(g.get("items", []))}</details></li>'
@@ -508,8 +521,7 @@ def nav_html(nav, current, root):
                 h += f'<li><details{" open" if is_open else ""}>' \
                      f'<summary>{e["label"]}</summary>'
                 if e.get("href"):
-                    h += f'<ul><li><a class="leaf" href="{root}{e["href"]}"' \
-                         f'{active(e["href"], e["id"])}>' \
+                    h += f'<ul><li>{leaf_a(e["href"])}>' \
                          f'{e["label"]} overview</a></li></ul>'
                 h += groups_list(e.get("groups", []))
                 h += items_list(e.get("items", []))
@@ -518,8 +530,7 @@ def nav_html(nav, current, root):
                 is_open = section_of(current) == e["id"]
                 h += f'<li><details{" open" if is_open else ""}>' \
                      f'<summary>{e["label"]}</summary>'
-                h += f'<ul><li><a class="leaf" href="{root}{e["href"]}"' \
-                     f'{active(e["href"], e["id"])}>overview</a></li></ul>'
+                h += f'<ul><li>{leaf_a(e["href"])}>overview</a></li></ul>'
                 h += items_list(e["items"])
                 h += "</details></li>"
             else:
@@ -567,7 +578,7 @@ def page(title, body_html, headings, out_path, nav, kicker_extra=""):
   <a class="brand" href="{root}index.html">COTE Knowledge Base</a>
   <div class="searchwrap">
     <input id="q" type="search" autocomplete="off"
-           placeholder="Search dossiers…  (press /)">
+           placeholder="Search characters, scenes, exams…  (press /)">
     <div id="results" hidden></div>
   </div>
 </header>
@@ -575,10 +586,9 @@ def page(title, body_html, headings, out_path, nav, kicker_extra=""):
   <nav class="sidebar">{nav_html_text}</nav>
   <main class="content">{kicker}{body_html}</main>
   <aside class="toc">{toc}</aside>
-  <footer class="site">Generated view — source of truth
-    <code>cote_kb.db</code> · regenerate with
-    <code>python3 kb/build_share_site.py</code> · quotes are cited as
-    volume + page (e.g. y1v1 p.247).</footer>
+  <footer class="site">Quotes on this site are verbatim from the
+    Classroom of the Elite light novels; citations like
+    <code>y1v1 p.247</code> mean Year 1, Volume 1, page 247.</footer>
 </div>
 <script src="{root}assets/search-index.js"></script>
 <script src="{root}assets/search.js"></script>
@@ -592,32 +602,179 @@ def page_title(md_text, fallback):
     return m.group(1).strip() if m else fallback
 
 
+VOL1_LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)\s]+?)\)")
+VOL1_BOLD_RE = re.compile(r"\*\*([^*]+)\*\*")
+VOL1_EM_RE = re.compile(r"(?<![*\w])\*([^*\n]+)\*(?!\*)")
+VOL1_CODE_RE = re.compile(r"`([^`]+)`")
+VOL1_HEADING_RE = re.compile(r"^(#{1,6}) (.+)$")
+VOL1_HR_RE = re.compile(r"^---$")
+VOL1_TABLE_SEP = re.compile(r"^:?-{2,}:?$")
+
+
+def vol1_inline(text):
+    """escape, then links/code/bold/italic — guide files use them all."""
+    out = html.escape(text, quote=False)
+    out = VOL1_LINK_RE.sub(lambda m: f'<a href="{m.group(2)}">{m.group(1)}</a>',
+                           out)
+    out = VOL1_CODE_RE.sub(r"<code>\1</code>", out)
+    out = VOL1_BOLD_RE.sub(r"<strong>\1</strong>", out)
+    out = VOL1_EM_RE.sub(r"<em>\1</em>", out)
+    return out
+
+
+def render_vol1(md):
+    """guide/transcript markdown (tables, blockquotes, hr, italics) →
+    (html, headings)."""
+    lines = md.splitlines()
+    out, headings = [], []
+    i, n = 0, len(lines)
+    while i < n:
+        line = lines[i]
+        if not line.strip():
+            i += 1
+            continue
+        mh = VOL1_HEADING_RE.match(line)
+        if mh:
+            level = len(mh.group(1))
+            text = mh.group(2).strip()
+            hid = slug(text)
+            headings.append((level, hid, text))
+            out.append(f'<h{level} id="{hid}">{vol1_inline(text)}</h{level}>')
+            i += 1
+            continue
+        if VOL1_HR_RE.match(line.strip()):
+            out.append("<hr>")
+            i += 1
+            continue
+        if line.startswith("|"):
+            block = []
+            while i < n and lines[i].startswith("|"):
+                block.append(lines[i])
+                i += 1
+            rows = []
+            for j, bl in enumerate(block):
+                cells = [c.strip() for c in bl.strip().strip("|").split("|")]
+                if j == 1 and cells and all(VOL1_TABLE_SEP.match(c)
+                                            for c in cells if c):
+                    continue
+                rows.append(cells)
+            if rows:
+                th = "".join(f"<th>{vol1_inline(c)}</th>" for c in rows[0])
+                body = "".join(
+                    "<tr>" + "".join(f"<td>{vol1_inline(c)}</td>"
+                                     for c in r) + "</tr>"
+                    for r in rows[1:])
+                out.append(f"<table><thead><tr>{th}</tr></thead>"
+                           f"<tbody>{body}</tbody></table>")
+            continue
+        if line.startswith(">"):
+            block = []
+            while i < n and lines[i].startswith(">"):
+                block.append(lines[i].lstrip("> "))
+                i += 1
+            paras = "".join(
+                f"<p>{vol1_inline(p.strip())}</p>"
+                for p in "\n".join(block).split("\n\n") if p.strip())
+            out.append(f"<blockquote>{paras}</blockquote>")
+            continue
+        if line.startswith("- "):
+            items = [line[2:]]
+            i += 1
+            while i < n:
+                nxt = lines[i]
+                if nxt.startswith("- "):
+                    items.append(nxt[2:])
+                    i += 1
+                elif nxt.strip() and not VOL1_HEADING_RE.match(nxt) \
+                        and not nxt.startswith(("|", "> ")) \
+                        and not VOL1_HR_RE.match(nxt.strip()):
+                    items[-1] += " " + nxt.strip()
+                    i += 1
+                else:
+                    break
+            out.append("<ul>" + "".join(f"<li>{vol1_inline(it)}</li>"
+                                        for it in items) + "</ul>")
+            continue
+        block = [line]
+        i += 1
+        while i < n and lines[i].strip() and not VOL1_HEADING_RE.match(
+                lines[i]) and not lines[i].startswith(("- ", "|", ">")) \
+                and not VOL1_HR_RE.match(lines[i].strip()):
+            block.append(lines[i])
+            i += 1
+        out.append("<p>" + vol1_inline(" ".join(b.strip() for b in block))
+                   + "</p>")
+    return "\n".join(out), headings
+
+
+def build_vol1():
+    """[meta] for VOL1_FILES — same shape as other page metas."""
+    pages = []
+    for stem, label in VOL1_FILES:
+        src = VOL1_SRC / f"{stem}.md"
+        md = src.read_text(encoding="utf-8")
+        pages.append({"rel": f"drafts/people/{stem}.md", "src": str(src),
+                      "out": f"vol1/{stem}.html",
+                      "title": page_title(md, label),
+                      "search_title": label,
+                      "section": "vol1", "label": label})
+    return pages
+
+
+def vol1_home(nav):
+    links = "".join(
+        f'<li><a href="{stem}.html">{html.escape(label)}</a> — '
+        f'{"every scene in order, with page numbers" if "transcript" in stem else "personality, arcs, relationships, and key quotes"}'
+        f'</li>'
+        for stem, label in VOL1_FILES)
+    hid = "year-1-volume-1"
+    title = "Year 1, Volume 1 — guides and scene transcripts"
+    body = f"""<h1 id="{hid}">{title}</h1>
+<p>Read the first volume of Classroom of the Elite scene by scene, or open
+a character guide. Every speech line, narration beat, and inner monologue
+is quoted verbatim and carries its page number (e.g. p.247).</p>
+<ul>{links}</ul>
+<p>Character profiles for the whole cast live under
+<a href="../main/index.html">Characters</a>; the point-of-view character
+is <a href="../main/ayanokouji-kiyotaka.html">Ayanokōji Kiyotaka</a>.</p>"""
+    headings = [(1, hid, title)]
+    return page(title, body, headings, "vol1/index.html", nav,
+                kicker_extra=' <span class="dot">›</span> '
+                             'Volume 1 (Year 1)')
+
+
 def home_page(nav, stats):
     cards = [
         ("Characters", "main/index.html",
          f"{stats['main']} main · {stats['mid']} mid · "
-         f"{stats['bg']} background — psychology, arcs, quote banks."),
-        ("Background Characters", "background.html",
-         f"{stats['bg']} one-line dossiers with tiers and mention "
-         f"counts."),
-        ("World / Locations", "world/index.html",
+         f"{stats['bg']} background — profiles, arcs, and every quote "
+         f"tied to a volume and page."),
+        ("Volume 1 (Year 1)", "vol1/index.html",
+         "Scene-by-scene transcripts and character guides for the "
+         "first volume, every line with its page number."),
+        ("World & Locations", "world/index.html",
          f"{stats['world']} locations — layout, narrative role, "
-         f"scene partners."),
+         f"and key scenes."),
         ("Exams", "exams/index.html",
-         f"{stats['exams']} exams — rules, points, conditions, every "
-         f"run with evidence + master chronology."),
+         f"{stats['exams']} exams — rules, points, conditions, and "
+         f"every run with evidence."),
         ("School Systems", "systems/index.html",
-         f"{stats['systems']} systems — private/class points, council, "
+         f"{stats['systems']} systems — points, student council, "
          f"clubs, expulsion."),
-        ("Search", "#", "Press / anywhere to search every dossier."),
+        ("Search", "#", "Press / anywhere, or click here, to search "
+         "every character, scene, exam, and quote."),
     ]
-    card_html = "".join(
-        f'<div class="card"><h3>{t}</h3><p>{d}</p>'
-        f'<a class="go" href="{href}">Open →</a></div>'
-        for t, href, d in cards)
+    card_html = ""
+    for t, href, d in cards:
+        go = (f'<a class="go" href="#" onclick="document.getElementById'
+              f'(\'q\').focus();return false;">Open →</a>'
+              if href == "#" else
+              f'<a class="go" href="{href}">Open →</a>')
+        card_html += (f'<div class="card"><h3>{t}</h3><p>{d}</p>'
+                      f'{go}</div>')
     pdf_names = [("Background Characters", "background"),
                  ("Main Characters", "main"), ("Mid Characters", "mid"),
-                 ("World / Locations", "world"), ("Exams", "exams"),
+                 ("World & Locations", "world"), ("Exams", "exams"),
                  ("School Systems", "systems")]
     pdf_links = " ".join(
         f'<a href="pdfs/{n}.pdf">{label}</a>'
@@ -626,8 +783,9 @@ def home_page(nav, stats):
                  f'<p class="dl">{pdf_links}</p></div>')
     body = f"""<div class="hero">
 <h1>COTE Knowledge Base</h1>
-<p>Evidence-backed dossiers over 34 Classroom of the Elite volumes —
-every claim carries a verbatim quote and a volume + page anchor.</p>
+<p>Character profiles, scene-by-scene transcripts, exam rules, and world
+guides for the Classroom of the Elite light novels — every statement
+quoted verbatim with a volume and page number.</p>
 <div class="stats">
 <div><b>{stats['chars']}</b><span>characters</span></div>
 <div><b>{stats['world']}</b><span>locations</span></div>
@@ -638,9 +796,9 @@ every claim carries a verbatim quote and a volume + page anchor.</p>
 </div>
 </div>
 <div class="cards">{card_html}{downloads}</div>
-<p>How to read a dossier: <strong>bold</strong> labels are authored
-analysis; “curly quotes” are verbatim corpus text; citations like
-<code>y2v9 p.13</code> point at volume + PDF page of the source.</p>"""
+<p>How to read a page: <strong>bold</strong> labels are written
+analysis; “curly quotes” are verbatim text from the novels; citations
+like <code>y2v9 p.13</code> mean Year 2, Volume 9, page 13.</p>"""
     return page("COTE Knowledge Base", body, [], "index.html", nav)
 
 
@@ -649,7 +807,7 @@ def search_records(pages):
     records = []
     for meta in pages:
         md = Path(meta["src"]).read_text(encoding="utf-8")
-        title = meta["title"]
+        title = meta.get("search_title", meta["title"])
         rec = {"u": meta["out"], "t": title, "s": title, "x": ""}
         current = rec
         for line in md.splitlines():
@@ -721,8 +879,8 @@ def print_doc(label, sub, entries, out_name, cover):
 <div class="print-cover">
 <h1>{label}</h1>
 <p>{cover}</p>
-<p>Evidence-backed knowledge base over 34 volumes — verbatim quotes
-cited as volume + page (e.g. y1v1 p.247).</p>
+<p>Verbatim quotes from the novels — each cited to its volume and
+page (e.g. y1v1 p.247).</p>
 </div>
 <div class="print-toc"><h2>Contents</h2><ul>"""]
     for title, _html, _out in entries:
@@ -784,6 +942,8 @@ def main():
         make_docs()
         return 0
 
+    shutil.rmtree(SITE, ignore_errors=True)
+    shutil.rmtree(PRINT, ignore_errors=True)
     SITE.mkdir(parents=True, exist_ok=True)
     PRINT.mkdir(parents=True, exist_ok=True)
     (SITE / "assets").mkdir(exist_ok=True)
@@ -817,12 +977,36 @@ def main():
         out.parent.mkdir(parents=True, exist_ok=True)
         out.write_text(html, encoding="utf-8")
 
+    vol1_pages = build_vol1()
+    for meta in vol1_pages:
+        md = Path(meta["src"]).read_text(encoding="utf-8")
+        body, headings = render_vol1(md)
+        body = rewrite_links(body)
+        html_doc = page(
+            meta["title"], body, headings, meta["out"], nav,
+            kicker_extra=' <span class="dot">›</span> Year 1 · Volume 1 '
+                         f'<span class="dot">›</span> {meta["title"]}')
+        out = SITE / meta["out"]
+        out.parent.mkdir(parents=True, exist_ok=True)
+        out.write_text(html_doc, encoding="utf-8")
+    (SITE / "vol1" / "index.html").write_text(vol1_home(nav),
+                                               encoding="utf-8")
+
     (SITE / "index.html").write_text(home_page(nav, stats),
                                      encoding="utf-8")
     (SITE / "assets" / "style.css").write_text(CSS, encoding="utf-8")
     (SITE / "assets" / "search.js").write_text(SEARCH_JS,
                                                encoding="utf-8")
     records = search_records(pages)
+    records += search_records(vol1_pages)
+    records.append({
+        "u": "vol1/index.html",
+        "t": "Year 1, Volume 1 — guides and scene transcripts",
+        "s": "Year 1, Volume 1 — guides and scene transcripts",
+        "x": "Scene-by-scene transcripts and character guides for the "
+             "first volume of Classroom of the Elite. Every line quoted "
+             "verbatim with its page number. Ayanokouji Kiyotaka, "
+             "Horikita Suzune, Kushida Kikyou."})
     (SITE / "assets" / "search-index.js").write_text(
         "const SEARCH_INDEX = " + json.dumps(
             records, ensure_ascii=False, separators=(",", ":")) + ";\n",
@@ -848,15 +1032,32 @@ def main():
               "7 main characters")
     print_doc("Mid Characters", "mid", group("mid"), "mid.html",
               "20 mid characters + group index")
-    print_doc("World / Locations", "world", group("world"), "world.html",
-              "28 world / location dossiers")
+    print_doc("World & Locations", "world", group("world"),
+              "world.html", "28 locations")
     entries = group("exams")
     print_doc("Exams & Master Chronology", "exams", entries,
               "exams.html", "15 exams + master chronology")
     print_doc("School Systems", "systems", group("systems"),
               "systems.html", "5 school systems")
 
-    n = len(pages) + 1
+    pdf_bin = (shutil.which("chromium") or shutil.which("chromium-browser")
+               or shutil.which("google-chrome"))
+    if pdf_bin:
+        pdf_dir = SITE / "pdfs"
+        pdf_dir.mkdir(exist_ok=True)
+        for src in sorted(PRINT.glob("*.html")):
+            out = pdf_dir / f"{src.stem}.pdf"
+            subprocess.run(
+                [pdf_bin, "--headless", "--disable-gpu", "--no-sandbox",
+                 "--disable-dev-shm-usage", f"--print-to-pdf={out}",
+                 str(src)],
+                check=True, stdout=subprocess.DEVNULL,
+                stderr=subprocess.DEVNULL)
+        print("pdfs: 6 → share/site/pdfs/")
+    else:
+        print("pdfs: chromium not found — skipped", file=sys.stderr)
+
+    n = len(pages) + len(vol1_pages) + 1
     print(f"build_share_site: {n} pages + assets + "
           f"{len(records)} search records + 6 print docs")
     return 0

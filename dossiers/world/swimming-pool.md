@@ -1,8 +1,8 @@
 # Swimming Pool
 
-**campus-building** · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_world_dossiers.py`)
+**campus-building**
 
-`168 mentions · 18 vols · 63 co-paged scenes · 0 claims`
+`169 mentions · 19 vols · 63 co-paged scenes · 0 claims`
 
 ## Function
 
@@ -14,8 +14,8 @@ Indoor fifty-meter pool for swim class; also the White Room training pool (y0) a
 
 ## Footprint
 
-- **Span:** y0 → y2v12.5
-- **Anchored mentions by vol:** y0 ×2, y1v1 ×17, y1v2 ×3, y1v4 ×5, y1v4.5 ×51, y1v7 ×1, y1v8 ×1, y1v9 ×1, y1v11.5 ×1, y2v1 ×1, y2v2 ×1, y2v3 ×5, y2v4 ×2, y2v4.5 ×71, y2v5 ×2, y2v7 ×1, y2v8 ×1, y2v12.5 ×2
+- **Span:** y0 → y3v2
+- **Anchored mentions by vol:** y0 ×2, y1v1 ×17, y1v2 ×3, y1v4 ×5, y1v4.5 ×51, y1v7 ×1, y1v8 ×1, y1v9 ×1, y1v11.5 ×1, y2v1 ×1, y2v2 ×1, y2v3 ×5, y2v4 ×2, y2v4.5 ×71, y2v5 ×2, y2v7 ×1, y2v8 ×1, y2v12.5 ×2, y3v2 ×1
 
 ## Scene partners (co-paged dialogue)
 
@@ -23,4 +23,4 @@ Ike Kanji (18), Karuizawa Kei (11), Sudou Ken (10), Horikita Suzune (9), Ichinos
 
 ## Evidence anchors
 
-y0 p.136, y0 p.136, y1v1 p.76, y1v1 p.76, y1v1 p.76, y1v1 p.76, y1v1 p.77, y1v1 p.82
+y0 p.165, y0 p.165, y1v1 p.76, y1v1 p.76, y1v1 p.76, y1v1 p.76, y1v1 p.77, y1v1 p.82

@@ -1,19 +1,18 @@
 # Mashima Tomonari
 
-**authority** · tier 2 · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_mid_dossiers.py`)
+**authority**
 
-`371 mentions · 14 quoted lines · 11 scenes`
+`407 mentions · 14 quoted lines · 11 scenes`
 
 ## Identity
 
-- **char_id:** `mashima-tomonari`
 - **Aliases:** Mashima, Mashima Tomonari, Tomonari
 
 ## Footprint
 
 - **Spoken in:** y1v4, y1v11, y1v11.5, y2v4.5, y2v7, y2v9.5, y2v12
-- **Gap queue (mentioned, no attributed line):** y1v3, y1v8, y1v10, y2v1, y2v2, y2v3, y2v4, y2v8, y2v9, y2v10, y2v11, y2v12.5, y3v1
-- **Top mentions:** y1v11.5 ×78, y1v11 ×47, y2v12.5 ×34, y1v4 ×31, y2v9.5 ×31, y2v3 ×25, y2v4.5 ×22, y2v7 ×22 (+12 more vols)
+- **Gap queue (mentioned, no attributed line):** y1v3, y1v8, y1v10, y2v1, y2v2, y2v3, y2v4, y2v8, y2v9, y2v10, y2v11, y2v12.5, y3v1, y3v2, y3v3
+- **Top mentions:** y1v11.5 ×78, y1v11 ×47, y2v12.5 ×34, y1v4 ×31, y2v9.5 ×31, y2v3 ×25, y2v4.5 ×22, y2v7 ×22 (+14 more vols)
 - **Arc timeline (scenes per vol):** y1v4 ×2, y1v11 ×2, y1v11.5 ×2, y2v4.5 ×1, y2v7 ×1, y2v9.5 ×2, y2v12 ×1
 
 ## Recurring scene partners

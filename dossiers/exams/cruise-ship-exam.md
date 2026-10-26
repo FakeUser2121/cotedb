@@ -1,6 +1,6 @@
 # Cruise Ship Exam
 
-**special** · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_exam_dossiers.py`)
+**special**
 
 `22 mentions · 9 vols · 1 runs · 0 claims`
 

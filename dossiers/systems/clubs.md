@@ -1,8 +1,8 @@
 # Clubs
 
-**activity** · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_exam_dossiers.py`)
+**activity**
 
-`346 mentions · 28 vols · 2 claims`
+`361 mentions · 29 vols · 2 claims`
 
 ## Function
 
@@ -14,8 +14,8 @@ Club fair runs in Gymnasium No. 1 at the start of the year (y1v1 p.59) with memb
 
 ## Footprint
 
-- **Span:** y0 → y3v1
-- **Anchored mentions by vol:** y0 ×2, y1v1 ×58, y1v2 ×38, y1v3 ×2, y1v4.5 ×18, y1v5 ×18, y1v6 ×30, y1v7 ×24, y1v7.5 ×13, y1v8 ×6, y1v9 ×13, y1v10 ×3, y1v11 ×2, y1v11.5 ×2, y2v1 ×16, y2v2 ×14, y2v3 ×3, y2v4.5 ×2, y2v5 ×2, y2v6 ×16, y2v7 ×13, y2v8 ×2, y2v9 ×12, y2v9.5 ×25, y2v10 ×2, y2v11 ×3, y2v12.5 ×4, y3v1 ×3
+- **Span:** y0 → y3v2
+- **Anchored mentions by vol:** y0 ×10, y1v1 ×58, y1v2 ×38, y1v3 ×2, y1v4.5 ×18, y1v5 ×18, y1v6 ×30, y1v7 ×24, y1v7.5 ×13, y1v8 ×6, y1v9 ×13, y1v10 ×3, y1v11 ×2, y1v11.5 ×2, y2v1 ×16, y2v2 ×14, y2v3 ×3, y2v4.5 ×2, y2v5 ×2, y2v6 ×16, y2v7 ×13, y2v8 ×2, y2v9 ×12, y2v9.5 ×25, y2v10 ×2, y2v11 ×3, y2v12.5 ×4, y3v1 ×3, y3v2 ×7
 
 ## Claims
 
@@ -36,4 +36,4 @@ rules were still strict.
 ## Evidence anchors
 
 
-y0 p.12, y0 p.48, y1v1 p.59, y1v1 p.59, y1v1 p.59, y1v1 p.59, y1v1 p.59, y1v1 p.59
+y0 p.18, y0 p.44, y0 p.64, y0 p.64, y0 p.64, y0 p.66, y0 p.66, y0 p.66

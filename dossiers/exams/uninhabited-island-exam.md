@@ -1,8 +1,8 @@
 # Uninhabited Island Exam
 
-**special** · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_exam_dossiers.py`)
+**special**
 
-`244 mentions · 25 vols · 2 runs · 2 claims`
+`265 mentions · 27 vols · 2 runs · 2 claims`
 
 ## Rules
 
@@ -26,8 +26,8 @@ School-designed survival exam run on the trip's island leg; homeroom teachers ob
 
 ## Footprint
 
-- **Span:** y1v4 → y3v1
-- **Anchored mentions by vol:** y1v4 ×5, y1v4.5 ×5, y1v6 ×3, y1v7 ×8, y1v7.5 ×3, y1v8 ×1, y1v10 ×1, y1v11 ×1, y1v11.5 ×2, y2v2 ×58, y2v3 ×15, y2v4 ×21, y2v4.5 ×62, y2v5 ×7, y2v6 ×7, y2v7 ×5, y2v8 ×5, y2v9 ×3, y2v9.5 ×5, y2v10 ×7, y2v10.25 ×4, y2v11 ×5, y2v12 ×2, y2v12.5 ×2, y3v1 ×7
+- **Span:** y1v4 → y3v3
+- **Anchored mentions by vol:** y1v4 ×5, y1v4.5 ×5, y1v6 ×3, y1v7 ×8, y1v7.5 ×3, y1v8 ×1, y1v10 ×1, y1v11 ×1, y1v11.5 ×2, y2v2 ×58, y2v3 ×15, y2v4 ×21, y2v4.5 ×62, y2v5 ×7, y2v6 ×7, y2v7 ×5, y2v8 ×5, y2v9 ×3, y2v9.5 ×5, y2v10 ×7, y2v10.25 ×4, y2v11 ×5, y2v12 ×2, y2v12.5 ×2, y3v1 ×7, y3v2 ×3, y3v3 ×18
 
 ## Runs
 

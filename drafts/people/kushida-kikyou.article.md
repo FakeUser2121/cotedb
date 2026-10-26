@@ -2,7 +2,7 @@
 
 *Kushida Kikyō is the social idol of Class 1-D in Classroom of the Elite — the sunshine classmate who befriends everyone, de-escalates every fight, and lends points without hesitation. Beneath that persona, revealed only on a locked rooftop, lies a venomous hatred of Horikita Suzune and an absolute compulsion to be liked by every person she meets, enforced if necessary by fabricated assault evidence. Year 1 sets her as Ayanokōji Kiyotaka's uneasy secret-keeper and a full partner in the Class A project — smiling the entire time.*
 
-> **Spoiler scope:** this page covers **Year 1, Volume 1** only. Later volumes are excluded by your reading setting.
+> **Spoiler scope:** this page covers **Year 1, Volume 1** only — nothing from later volumes.
 
 ---
 
@@ -80,18 +80,18 @@ Her self-diagnosis is the most honest line she speaks: *"That's what I want out 
 
 ## Transcript
 
-Full scene-ordered transcript for this volume: [kushida-kikyou · y1v1 transcript](kushida-kikyou.y1v1.transcript.md) — every ledgered speech line, narration beat, and inner monologue with page anchors.
+Full scene-by-scene transcript of Volume 1: [Kushida Kikyō — Volume 1 transcript](kushida-kikyou.y1v1.transcript.md) — every speech line, narration beat, and inner monologue in order, each with its page number.
 
 ## Trivia
 
-- The uniformed bus champion who confronts Kōenji is never named in y1v1; her identification as Kushida is an inference recorded in her ledger, resting on her later knowledge of the gate conversation (p.57).
+- The uniformed bus champion who confronts Kōenji is never named in Volume 1; her identification as Kushida is an inference, resting on her later knowledge of the gate conversation (p.57).
 - The rooftop blackmailer and the podium savior are the same afternoon's character: she distributes the old-test salvation two days after engineering the assault frame.
 - Claims junior-high swimming weakness, then posts the second-fastest time in her heat (~31s, p.79) — the same sandbagging instinct Ayanokōji uses, observed on her.
 - Her smile survives every crisis in the volume: rejection, blackmail collapse, and a confessed hatred, all reset within a second.
 
 ## Sources
 
-- Classroom of the Elite, Year 1 Volume 1 (Kinugasa Syougo; art. Tomose Shunsaku) — walk ledger `ledgers/people/kushida-kikyou.md`, 264/264 pages, 2026-10-17.
+- Classroom of the Elite, Year 1 Volume 1 (Kinugasa Syougo; art. Tomose Shunsaku). Every claim on this page comes from that volume and cites its page (e.g. p.247).
 
 ## Categories
 

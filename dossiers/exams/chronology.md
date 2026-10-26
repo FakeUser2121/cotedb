@@ -1,6 +1,6 @@
 # Master Chronology
 
-22 runs · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_exam_dossiers.py`)
+22 exam runs in story order — volume and page for every attempt
 
 ## y1v1
 

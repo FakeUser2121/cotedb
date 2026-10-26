@@ -1,7 +1,6 @@
-# Kushida Kikyō — y1v1 scene transcript
+# Kushida Kikyō — Year 1, Volume 1 scene transcript
 
-Source ledger: ledgers/people/kushida-kikyou.md · rendered by kb/ledger_transcript.py
-Speech lines, narration beats, and inner monologue; scene beats stay in the ledger.
+Scene by scene: the speech lines, narration beats, and inner monologue of Year 1, Volume 1, quoted verbatim with page numbers (e.g. p.247).
 
 ## (opening)
 
@@ -82,7 +81,7 @@ Speech lines, narration beats, and inner monologue; scene beats stay in the ledg
 - **[p.238]** Kushida Kikyō said: “Ha ha, you got me.” … “That’s right. I really hate you.”
 - **[p.238]** Kushida Kikyō said: “Do you want me to tell you the reason?” (offering the reason unprompted — refused)
 
-## y1v1 p.246–246 — Relief at the results
+## Year 1, Volume 1, p.246–246 — Relief at the results
 
 - **[p.257]** Kushida Kikyō said: “Everything was thanks to Horikita-san’s efforts. She tutored Ike, Yamauchi, and Sudou.” (deflects credit onto Horikita in front of the trio)
 - **[p.258]** Kushida Kikyō said: “We’re all friends here, after all. Horikita-san, Ayanokouji-kun, and I are all working together to get into Class A. If you’re okay with it, I want you three to help us,”

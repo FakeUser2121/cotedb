@@ -1,6 +1,6 @@
 # Cooperative Comprehensive Written Exam
 
-**special** · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_exam_dossiers.py`)
+**special**
 
 `4 mentions · 1 vols · 1 runs · 2 claims`
 

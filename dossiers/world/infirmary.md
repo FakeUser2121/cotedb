@@ -1,8 +1,8 @@
 # Infirmary
 
-**campus-building** · generated view (source: `cote_kb.db`; regenerate with `python3 kb/build_world_dossiers.py`)
+**campus-building**
 
-`19 mentions · 6 vols · 10 co-paged scenes · 0 claims`
+`20 mentions · 6 vols · 10 co-paged scenes · 0 claims`
 
 ## Function
 
@@ -15,7 +15,7 @@ School nurse's office: injured or unwell students are processed here.
 ## Footprint
 
 - **Span:** y0 → y2v7
-- **Anchored mentions by vol:** y0 ×1, y1v5 ×4, y1v8 ×1, y1v9 ×1, y2v4.5 ×6, y2v7 ×6
+- **Anchored mentions by vol:** y0 ×2, y1v5 ×4, y1v8 ×1, y1v9 ×1, y2v4.5 ×6, y2v7 ×6
 
 ## Scene partners (co-paged dialogue)
 
@@ -23,4 +23,4 @@ Ayanokouji Kiyotaka (8), Chabashira Sae (3), Kushida Kikyou (3), Hashimoto Masay
 
 ## Evidence anchors
 
-y0 p.160, y1v5 p.144, y1v5 p.145, y1v5 p.146, y1v5 p.148, y1v8 p.163, y1v9 p.135, y2v4.5 p.10
+y0 p.184, y0 p.194, y1v5 p.144, y1v5 p.145, y1v5 p.146, y1v5 p.148, y1v8 p.163, y1v9 p.135
