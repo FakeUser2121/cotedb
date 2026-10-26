@@ -293,6 +293,17 @@ checkers: `kb/verify2.py y1v2` → 172 [says] lines, 4 too short, ALL PASS;
 publishing verified text, just not yet a complete volume.
 
 ## Known state / risks
+- Pushed as `6226d50` (v4) and live on Pages; six sampled URLs return 200 with
+  zero internal vocabulary in visible text. Verified content parity between
+  `docs/`, `share/site/` and the live pages (Horikita: 23 ledger scenes → 23
+  rendered scene blocks).
+- DoD #4 is still only partly met: with the curated `relations` table gone, the
+  generic "Related" panel returns nothing on the pages listed earlier, and the
+  ledger-derived cross-links (`volume_related`, per-section rails) carry what
+  connectivity exists. Rebuilding those panels from co-scene evidence is the
+  next site task, not a wording task.
+- `share_check` counts *lines*, so a scene count must come from `grep -o`, not
+  `grep -c`; the pages are single-line HTML by design.
 - `share/site/` and `docs/` are both current and in sync (`share_check`
   compares them); PDFs regenerate inside the build.
 - Determinism: `*.pdf` excluded from the content md5 (chromium timestamps).
