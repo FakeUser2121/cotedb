@@ -292,3 +292,10 @@ Role facts are shown on the site as plain page numbers, not proof chips,
 because the note beside them is a paraphrase — the chip would open the page's
 quote bank, which may not contain the supporting line. Do not turn them into
 chips without adding the actual quoted line to the ledger.
+
+### Rail hierarchy (site, 2026-10-27)
+
+The People rail is now a real tree — `All people` contains its sections, and
+`Roles in Vol. N` contains the institutional buckets. The component change
+(`site_shell._rail_node`, depth classes, `.sub` guide) affects every rail but
+only changes markup shape; no ledger or walk state was touched.

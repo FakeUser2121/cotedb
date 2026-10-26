@@ -211,21 +211,29 @@ body.no-left.no-right .layout { grid-template-columns: minmax(0, 1fr); }
 .rail details > summary::after { content: "\203A"; float: right; color: var(--muted); }
 .rail details[open] > summary::after { content: "\2039"; }
 .rail details > summary:hover { background: var(--hue-soft); }
-/* A rail entry that opens a list is a parent. Its children are indented
-   behind a guide line and stepped down a size, so a name inside a group can
-   never read as a sibling of the group. */
+/* A rail entry that opens a list is a parent. Its children sit in a `.sub`
+   block behind a guide line, and a sub block can itself contain a parent, so
+   the rail can show containment (All people → Roles in Vol. 1 → Class 1-D)
+   instead of printing every level as a sibling. */
 .rail details { margin: 2px 0 8px; }
-.rail details > a.item {
-  position: relative; margin-left: 4px; padding-left: 24px;
-  font-size: 13px; line-height: 1.35; color: var(--ink-soft);
-}
-.rail details > a.item::before {
-  content: ""; position: absolute; left: 12px; top: 3px; bottom: 3px;
+.rail details > .sub {
+  margin-left: 13px; padding-left: 3px;
   border-left: 1px solid var(--line);
 }
-.rail details > a.item:hover::before { border-left-color: var(--muted); }
-.rail details > a.item.active { color: #fff; }
-.rail details > a.item.active::before { border-left-color: transparent; }
+.rail details > .sub > .item { font-size: 13px; line-height: 1.35; }
+.rail details > .sub > details > summary { font-size: 13px; }
+.rail details > .sub details > .sub > .item,
+.rail details > .sub details > .sub > details > summary {
+  font-size: 12.5px; color: var(--ink-soft);
+}
+.rail details > .sub .item.active { color: #fff; }
+/* the summary of a details can itself be a link (the container is a page) */
+.rail details > summary .sumlink {
+  display: inline; padding: 0; border-radius: 0; color: inherit;
+}
+.rail details > summary .sumlink:hover {
+  background: none; color: var(--hue); text-decoration: underline;
+}
 .rail .count { color: var(--muted); font-weight: 400; font-size: 12px; }
 
 .content { padding: 26px 40px 90px; min-width: 0; }

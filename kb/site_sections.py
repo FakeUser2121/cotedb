@@ -236,27 +236,34 @@ def role_anchor(label):
 
 
 def people_rail(ctx, root=""):
-    items = [{"kind": "link", "label": "All people",
-              "href": "people/index.html"}]
-    # One entry per level: the seven principals used to appear twice (a
-    # "Principal characters" link and a "Principal" group with the same
-    # names), and the group's children were padded like top-level links, so
-    # neither the duplication nor the nesting was visible.
+    # One tree, not a list of peers: everything below is a way into the same
+    # People index, and the rail used to print its own sections as siblings of
+    # the page they sit on. "Recurring characters" is a part of All people, so
+    # it is drawn inside it, one step down.
     principals = [c for c in ctx["chars"] if c["tier"] == 1]
+    letters = [l for l in ctx.get("minor_letters") or []]
+    sub = []
     if principals:
-        items.append({"kind": "details", "label": "Principal characters",
-                      "open": False,
-                      "sub": [{"label": c["name"], "href": c["href"]}
-                              for c in principals]})
-    items.append({"kind": "link", "label": "Recurring characters",
-                  "href": "people/index.html#recurring"})
-    items.append({"kind": "link", "label": "Minor characters A–Z",
-                  "href": "people/minor/a.html"})
+        sub.append({"kind": "details", "label": "Principal characters",
+                    "open": False,
+                    "sub": [{"label": c["name"], "href": c["href"]}
+                            for c in principals]})
+    sub.append({"kind": "link", "label": "Recurring characters",
+                "href": "people/index.html#recurring"})
+    if letters:
+        sub.append({"kind": "details", "label": "Minor characters A–Z",
+                    "open": False,
+                    "sub": [{"label": l,
+                             "href": f"people/minor/{l.lower()}.html"}
+                            for l in letters]})
+    else:
+        sub.append({"kind": "link", "label": "Minor characters A–Z",
+                    "href": "people/minor/a.html"})
     # The rail used to carry allies / rivals / classmates. Those are relations
     # with an unstated subject and no date, so they are not shown at all; the
     # only grouping left is the one the pages state, volume by volume.
     for vol, buckets in site_roles.index(ctx.get("role_facts") or {}):
-        items.append({
+        sub.append({
             "kind": "details",
             "label": f"Roles in {site_arch.volume_short(vol)}",
             "count": sum(len(rows) for _, rows in buckets),
@@ -265,9 +272,12 @@ def people_rail(ctx, root=""):
                     for label, _ in buckets]})
     unstated = _unstated(ctx)
     if unstated:
-        items.append({"kind": "link", "label": f"Role not stated ({len(unstated)})",
-                      "href": "people/index.html#g-unstated"})
-    return items
+        sub.append({"kind": "link",
+                    "label": f"Role not stated ({len(unstated)})",
+                    "href": "people/index.html#g-unstated"})
+    return [{"kind": "details", "label": "All people", "open": True,
+             "summary_href": "people/index.html",
+             "count": len(ctx["chars"]), "sub": sub}]
 
 
 def _unstated(ctx):
@@ -603,8 +613,10 @@ def story_rail(ctx):
         items.append({
             "kind": "details", "label": label, "href": f"story/y{year}.html",
             "count": len(vols), "open": ctx.get("open_year") == year,
-            "sub": [{"label": f'{v["short"]} · {S.esc(v["label"])}'.replace(
-                f'{v["short"]} · ', f'Vol. {site_arch.volume_number(v["id"])}'),
+            # Keep the separator: the old replace() swallowed it and the rail
+            # printed "Vol. 1Year 1, Volume 1" as one run-on label.
+            "sub": [{"label": f'Vol. {site_arch.volume_number(v["id"])} · '
+                               f'{v["label"]}',
                      "href": volume_index_href(v["id"])} for v in vols]})
     return items
 

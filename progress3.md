@@ -401,3 +401,33 @@ group itself. Two fixes:
   section link and a "Principal" group holding the same seven names. Merged
   into one `Principal characters` expandable entry; "All people" above it
   still goes to the index top, so no anchor was lost.
+
+### Same day — the rail is a tree, not a list of peers
+
+User: "Its still not right, which ones are supposed to be under which ones?
+isnt recurring inside all people, but showed here outside? similar with
+others." Right — the indentation fix made nesting *look* possible but the
+component still only held one level, so `All people` rendered as a sibling of
+its own sections.
+
+- `rail_left` now delegates to a recursive `_rail_node`, and `link_line`
+  takes a depth. A `details` may contain `details`; children are wrapped in
+  `.sub dN`, which indents behind a hairline per level. Depth is carried in
+  the class (`d0`…), so CSS does not guess from DOM position.
+- `people_rail` returns one root `<details class="d0" open>`:
+  **All people** (summary links to `people/index.html`, count = whole cast)
+  → Principal characters / Recurring characters / Minor characters A–Z /
+  Roles in Vol. N (→ Class 1-B, Class 1-D, Student council, Faculty) /
+  Role not stated (N). Nothing inside is printed as a sibling of the root.
+- A `details` may mark its summary as a destination (`summary_href`); the
+  arrow still opens, the title still navigates. The existing `href`-on-
+  details contract (extra line under the summary) is unchanged, so the Story
+  and School rails keep their shape.
+- Drive-by fix in `story_rail`: `label.replace('Vol. 1 · ', 'Vol. 1')`
+  swallowed the separator and printed `Vol. 1Year 1, Volume 1`. Now built as
+  `Vol. N · <volume label>`.
+
+Gate: 161 pages, 16012 links 0 bad, 764 records, 0 wording leaks, 0 nested
+chips, role grouping 0, curated typing 0, docs in sync, 6 print docs 6687
+links 0 bad, 6 PDFs. Two builds -> md5 `b028a0021240ab73ae840e3ffacec116`
+both times.

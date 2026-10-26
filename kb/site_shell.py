@@ -102,7 +102,9 @@ def masthead(root, section_id, opts):
 
 
 def rail_left(section, current, root, items, title=None):
-    """items: [{kind:'link'|'group'|'details', label, href, sub:[...]}]"""
+    """items: [{kind:'link'|'grp'|'details', label, href, sub:[...]}] — a
+    `details` may hold more `details`, so a rail can show which entries sit
+    inside which instead of printing every level as a sibling."""
     head = title or section["label"]
     head_link = ""
     if section["id"] != "home" and current != section["href"]:
@@ -111,34 +113,45 @@ def rail_left(section, current, root, items, title=None):
         # the tab bar already says where you are; an empty rail is not worth
         # an element, a border or a screen-reader landmark
         return ""
-    body = []
-    for it in items:
-        kind = it.get("kind", "link")
-        if kind == "grp":
-            body.append(f'<div class="grp">{esc(it["label"])}</div>')
-        elif kind == "details":
-            open_attr = " open" if it.get("open") else ""
-            count = (f' <span class="count">{it["count"]}</span>'
-                     if it.get("count") is not None else "")
-            inner = "".join(
-                link_line(root, current, sub["label"], sub["href"])
-                for sub in it.get("sub", []))
-            head_line = ""
-            if it.get("href"):
-                head_line = link_line(root, current, it["label"], it["href"])
-            body.append(
-                f'<details{open_attr}><summary>{esc(it["label"])}{count}'
-                f'</summary>{head_line}{inner}</details>')
-        else:
-            body.append(link_line(root, current, it["label"], it["href"]))
+    body = "".join(_rail_node(root, current, it, 0) for it in items)
     return (f'<nav class="rail left" id="rail-nav" aria-label="Contents">'
             f'<div class="rail-h"><a href="{root}index.html">{esc(head)}</a>'
-            f'{head_link}</div>{"".join(body)}</nav>')
+            f'{head_link}</div>{body}</nav>')
 
 
-def link_line(root, current, label, href):
+def _rail_node(root, current, it, depth):
+    kind = it.get("kind", "link")
+    if kind == "grp":
+        return f'<div class="grp">{esc(it["label"])}</div>'
+    if kind != "details":
+        return link_line(root, current, it["label"], it["href"], depth)
+    open_attr = " open" if it.get("open") else ""
+    count = (f' <span class="count">{it["count"]}</span>'
+             if it.get("count") is not None else "")
+    label = esc(it["label"])
+    # A details whose own summary is a destination: the container is also a
+    # page, so its title links there while the arrow still opens the list.
+    if it.get("summary_href"):
+        active = " active" if it["summary_href"] == current else ""
+        label = (f'<a href="{root}{it["summary_href"]}" class="sumlink{active}">'
+                 f'{label}</a>')
+    inner = "".join(_rail_node(root, current, sub, depth + 1)
+                    for sub in it.get("sub", []))
+    # `href` on a details keeps its old meaning: an extra line under the
+    # summary, used where the parent link and the list are both wanted.
+    head_line = ""
+    if it.get("href"):
+        head_line = link_line(root, current, it["label"], it["href"], depth + 1)
+    if inner or head_line:
+        inner = f'<div class="sub d{depth + 1}">{head_line}{inner}</div>'
+    return (f'<details class="d{depth}"{open_attr}><summary>{label}{count}'
+            f'</summary>{inner}</details>')
+
+
+def link_line(root, current, label, href, depth=0):
     active = " active" if href == current else ""
-    return f'<a href="{root}{href}" class="item{active}">{esc(label)}</a>'
+    return (f'<a href="{root}{href}" class="item d{depth}{active}">'
+            f'{esc(label)}</a>')
 
 
 def rail_right(modules):
