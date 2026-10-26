@@ -386,3 +386,18 @@ PDFs and a `people.pdf` truncated at exactly 2 MiB — the root disk was at
 (the PDF renderer's own cache; it regenerates). /tmp is tmpfs, so clearing
 /tmp does **not** help. Disk is still ~99% full overall (Steam alone is 84 GB
 in `~/.local/share`); worth watching before the next PDF build.
+
+### Same day — rail hierarchy
+
+User: "theres no indentation here, so i cant tell which options are underneath
+or at the same level." Correct: every rail link used the same
+`padding: 5px 9px`, so a name inside an expanded group sat flush with the
+group itself. Two fixes:
+
+- `.rail details > a.item` is now indented (24px), stepped to 13px, and draws
+  a hairline guide at its left edge; the active pill clears the guide. This
+  applies to every section's rail, not just People.
+- The People rail listed the principals twice — a "Principal characters"
+  section link and a "Principal" group holding the same seven names. Merged
+  into one `Principal characters` expandable entry; "All people" above it
+  still goes to the index top, so no anchor was lost.

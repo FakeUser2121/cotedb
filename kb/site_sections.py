@@ -238,17 +238,20 @@ def role_anchor(label):
 def people_rail(ctx, root=""):
     items = [{"kind": "link", "label": "All people",
               "href": "people/index.html"}]
-    items.append({"kind": "link", "label": "Principal characters",
-                  "href": "people/index.html#principal"})
+    # One entry per level: the seven principals used to appear twice (a
+    # "Principal characters" link and a "Principal" group with the same
+    # names), and the group's children were padded like top-level links, so
+    # neither the duplication nor the nesting was visible.
+    principals = [c for c in ctx["chars"] if c["tier"] == 1]
+    if principals:
+        items.append({"kind": "details", "label": "Principal characters",
+                      "open": False,
+                      "sub": [{"label": c["name"], "href": c["href"]}
+                              for c in principals]})
     items.append({"kind": "link", "label": "Recurring characters",
                   "href": "people/index.html#recurring"})
     items.append({"kind": "link", "label": "Minor characters A–Z",
                   "href": "people/minor/a.html"})
-    principals = [c for c in ctx["chars"] if c["tier"] == 1]
-    if principals:
-        items.append({"kind": "details", "label": "Principal", "open": False,
-                      "sub": [{"label": c["name"], "href": c["href"]}
-                              for c in principals]})
     # The rail used to carry allies / rivals / classmates. Those are relations
     # with an unstated subject and no date, so they are not shown at all; the
     # only grouping left is the one the pages state, volume by volume.

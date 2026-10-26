@@ -211,6 +211,21 @@ body.no-left.no-right .layout { grid-template-columns: minmax(0, 1fr); }
 .rail details > summary::after { content: "\203A"; float: right; color: var(--muted); }
 .rail details[open] > summary::after { content: "\2039"; }
 .rail details > summary:hover { background: var(--hue-soft); }
+/* A rail entry that opens a list is a parent. Its children are indented
+   behind a guide line and stepped down a size, so a name inside a group can
+   never read as a sibling of the group. */
+.rail details { margin: 2px 0 8px; }
+.rail details > a.item {
+  position: relative; margin-left: 4px; padding-left: 24px;
+  font-size: 13px; line-height: 1.35; color: var(--ink-soft);
+}
+.rail details > a.item::before {
+  content: ""; position: absolute; left: 12px; top: 3px; bottom: 3px;
+  border-left: 1px solid var(--line);
+}
+.rail details > a.item:hover::before { border-left-color: var(--muted); }
+.rail details > a.item.active { color: #fff; }
+.rail details > a.item.active::before { border-left-color: transparent; }
 .rail .count { color: var(--muted); font-weight: 400; font-size: 12px; }
 
 .content { padding: 26px 40px 90px; min-width: 0; }
