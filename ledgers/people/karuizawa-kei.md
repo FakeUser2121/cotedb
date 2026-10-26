@@ -8,7 +8,7 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 <!-- walk: y1v1 → start -->
 
 ### y1v1 p.55, 103, 117–118 — Status coupling with Hirata & luxury spending
-[role:class-1d] (p.103) Called “Class 1-D’s fashionista girl”; top female status position in the class.
+[role:class-1d] (p.103) Class 1-D; dating Hirata; introduced at lunch as a “fashionista-type girl” (p.55).
 [scene] Classroom 1-D; then Keyaki Mall boutique and café.
 [action] (p.55) Latches onto Hirata Yōsuke's arm on the second day of school, steering him away from the classroom to lunch with her female friend circle.
 [status] (p.103) Formally established as dating Hirata Yōsuke three weeks into the school year, securing the top female status position in Class 1-D. Gazes lovingly at him across the classroom during lessons.

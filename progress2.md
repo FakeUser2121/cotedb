@@ -299,3 +299,17 @@ The People rail is now a real tree — `All people` contains its sections, and
 `Roles in Vol. N` contains the institutional buckets. The component change
 (`site_shell._rail_node`, depth classes, `.sub` guide) affects every rail but
 only changes markup shape; no ledger or walk state was touched.
+
+### Prologue re-walk and quote repair (2026-10-27)
+
+y1v1 p.14–15 in `ayanokouji-kiyotaka.md` was a summary with one verbatim
+sentence; it is now the full Chapter 1 monologue, eleven `[narrates]`
+paragraphs, page-anchored, copied from `text/COTE Y1 V1.txt`. Checked by
+normalized containment per paragraph (0 mismatches) and by confirming every
+source line on p.14–15 appears in the ledger except the chapter title.
+
+Rule reinforced: a quotation marks must wrap text that exists on the cited
+page. Nine violations were repaired across ayanokouji/horikita/kushida and
+the y1v1 volume ledger; see progress3 for the list. `verify3.py` now pairs
+quotes correctly instead of matching closing quote → opening quote, which
+had produced two false failures and could mask real ones.

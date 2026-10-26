@@ -71,6 +71,26 @@ def line_vol(line, ctx):
     return t.group(1) if t else ctx
 
 
+def quoted_spans(line):
+    """Every quoted span on a line, >10 chars.
+
+    Pairing matters: the old single regex let a closing quote open the next
+    span, so `notes "girly" type ... type: "kinder, more ladylike girl"`
+    checked the prose *between* two real quotations and failed a line whose
+    quotes were both verbatim. Curly quotes are directional, so pair them
+    first and remove them; the remaining straight quotes then alternate
+    open/close.
+    """
+    spans = [m.group(1) for m in re.finditer(r"\u201c([^\u201c\u201d]+)\u201d", line)]
+    # Drop only the curly quote *characters*: deleting the span they wrap
+    # would cut a hole in a straight-quoted passage and make the joined text
+    # miss the source.
+    rest = re.sub(r"[\u201c\u201d]", "", line)
+    parts = rest.split('"')
+    spans.extend(parts[i] for i in range(1, len(parts) - 1, 2))
+    return [s for s in spans if len(s.strip()) >= 10]
+
+
 def main():
     volkey = sys.argv[1] if len(sys.argv) > 1 else "y1v1"
     vf = vol_files()
@@ -95,21 +115,24 @@ def main():
             if not pm:
                 continue
             first = int(pm.group(1))
-            m = re.search(r"[“\"]([^“”\"]{10,})[”\"]", line)
-            if not m:
-                continue
-            frags = [f for f in re.split(r"\s*\.\.\.\s*|\s*…\s*", m.group(1)) if len(f.strip()) >= 10]
-            if not frags:
+            spans = quoted_spans(line)
+            if not spans:
                 continue
             total += 1
             local = norm("".join(pages.get(p, "") for p in range(max(1, first - 5), first + 6)))
-            for f in frags:
-                nf = norm(f)
-                if not nf:
+            for span in spans:
+                frags = [f for f in re.split(r"\s*\.\.\.\s*|\s*…\s*", span)
+                         if len(f.strip()) >= 10]
+                for f in frags:
+                    nf = norm(f)
+                    if not nf:
+                        continue
+                    if nf in local or nf in full:
+                        continue
+                    fails.append((lf, i, first, f[:90]))
+                    break
+                else:
                     continue
-                if nf in local or nf in full:
-                    continue
-                fails.append((lf, i, first, f[:90]))
                 break
     print(f"volume {volkey}: checked {total} non-says quoted lines")
     if not fails:

@@ -24,7 +24,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [scene] Class 1-D classroom after homeroom orientation. Hirata asks students to introduce themselves from the front row.
 [action] (p.34) Inogashira Kokoro freezes at her desk, trembling and pale. Classmates mistakenly shout “Do your best!” which heightens her panic. Kushida steps in with immediate, emotionally intelligent guidance.
 [says] (p.34) “It’s okay to go slowly. Don’t rush.”
-[feat] (p.34) Instinctive social psychology: understands that “Do your best!” applies forceful pressure, whereas “Take it slowly” removes urgency and restores calm. Inogashira successfully finishes her intro.
+[feat] (p.34) Instinctive social psychology: understands that “Do your best!” applies forceful pressure, whereas “Just take things slowly. Don’t rush,” removes urgency and restores calm. Inogashira successfully finishes her intro.
 [action] (p.34–35) Steps up cheerfully as the next speaker, glowing with approachable energy.
 [says] (p.35) “My name is Kushida Kikyou. None of my friends from junior high made it to this school, so I’m alone here. I’d like to get to know all of your names and faces right away and become friends as soon as possible!”
 [says] (p.35) “My first goal is to become friends with everyone. So, after we’re finished with introductions, I’d love for you to share your contact information with me!”

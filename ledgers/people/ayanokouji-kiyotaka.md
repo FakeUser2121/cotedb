@@ -9,16 +9,19 @@ aliases used for anchors: ayanokouji/ayanokōji, kiyotaka, ayano, kiyopon, ayano
 <!-- walk: y1v1 → start -->
 
 ### y1v1 p.14-15 — Opening monologue: equality is a lie (Ch.1)
-[scene] direct-address narration, pre-school framing (not a character scene)
-[says] (p.14) "No, we are not equal."
-[thinks] (p.14) To be human is to be unequal. Equality does not exist. (narrated thesis, immediately after the quoted line)
-[says] (p.14) "So then, education creates an imbalance." (reading of Gakumon no Sume)
-[thinks] (p.14) doubts public equality doctrine; abilities differ → roles differ
-[thinks] (p.15) "Have you ever given serious thought to the future?" — reader address
-[back] (p.15) finished compulsory education, became high-schooler; "only felt joy at being nearly free of obligation"; had not considered future/influence of school
-[trait] philosophical, contrarian on equality; frames self as detached analyst
-[voice] speaks straight to reader ("Hey, you there. You, the one reading this book")
-[trivia] in-story year stated 2015; Gakumon no Sume cited
+[scene] direct address to the reader before the story opens; not a character scene
+[narrates] (p.14) "I know this is kind of sudden, but, please, it will only take a moment. I want your honest opinion."
+[narrates] (p.14) "Are people equal or not?"
+[narrates] (p.14) "A proper society will constantly strive for equality. There are those who clamor for men and women to always be considered equal. As a result, we raised the employment rate for women, we made specialized subway cars only for women. Sometimes, women will even argue over the order of names in a family register. The public opinion of people with disabilities has also changed. We’re now told that we should not use the term “disabled people” when referring to them, so as not to discriminate. Nowadays, children are taught that all people are created equal."
+[narrates] (p.14) "But is that true? I have my doubts. If men and women have different abilities, then their roles should also differ. People with disabilities are still disabled, no matter what polite euphemisms you use. No matter how you try to avert your eyes, the meaning of the word does not change."
+[narrates] (p.14) "So, my answer would be, “No, we are not equal.” To be human is to be unequal. Equality does not exist."
+[narrates] (p.14) "Long ago, in a bygone era, a great man said that heaven does not set one man above or below any other. However, he did not necessarily adhere to the idea that everyone is equal. Did you know that there is more to that famous passage? The rest goes like this: Everyone is equal when they are born, so I ask, why do we see differences in position and status? And it continues: Do you or do you not encourage learning to create a difference?"
+[narrates] (p.14) "So then, education creates an imbalance. The point’s spelled out there, in the incredibly famous work Gakumon no Sume. Even though this is the year 2015, the modern era, nothing about these teachings has changed. The situation has only grown more complex and fraught."
+[narrates] (p.14) "In any case, we are human beings. We are living, thinking creatures."
+[narrates] (p.15) "I don’t think it right to simply say that we are unequal and then live our lives based on pure instinct. In other words, though “equality” is a complete lie, we cannot accept inequality, either. Right now, I’m trying to come up with a new answer for humanity’s eternal question."
+[narrates] (p.15) "Hey, you there. You, the one reading this book right now. Have you ever given serious thought to the future?"
+[narrates] (p.15) "Have you ever considered the purpose of going to high school or to college? Though the future may seem hazy right now, do you think you’ll find a job someday? That’s what I used to think. Back when I finished my compulsory education and became a high school student, I hadn’t really considered the future. I’d only felt joy at being nearly free of obligation. I didn’t consider the incredible influence that school would continue to have in my life, on my future. I didn’t even understand the purpose behind studying language or numbers."
+[trait] philosophical, contrarian on equality; frames the self as a detached analyst
 
 ### y1v1 p.16-18 — Horikita's coercion in class (Ch.2 open, present)
 [scene] Class D classroom after class; Horikita wakes feigning-sleep AK
@@ -131,7 +134,7 @@ aliases used for anchors: ayanokouji/ayanokōji, kiyotaka, ayano, kiyopon, ayano
 ### y1v1 p.52-53 — Dorm 401: freedom monologue (CORE BACKSTORY ANCHOR)
 [scene] alone in dorm room after move-in
 [back] (p.52) "I'd chosen this school for one fundamental reason... At this high school, people were not allowed to contact students without permission... I greatly appreciated that. I was free."
-[back] (p.53) "No one else's eyes or words would ever reach me. I could start ag—no. I could begin anew entirely. A new life." (self-corrected "start again" → "begin anew")
+[back] (p.53) "No one else's eyes or words would ever reach me. I could start ag—no. I could begin anew entirely. A new life." (he cuts the word off at "start ag—" and restarts)
 [back] (p.53) admitted before, "thought I would be been fine either way, that the difference between passing and failing would have been trivial. But my true feelings finally welled up. I was glad to have been admitted here." (corpus reads "would be been" — kept verbatim)
 [trait] (p.52) resolves: enjoy fullest life "without drawing attention to myself" (his narration); excited sleeplessness — first taste of unwatched life
 [rule] (p.52) co-ed dorms; romantic relations "frowned upon"; room ~8 tatami; no utility costs deducted
@@ -241,7 +244,7 @@ aliases used for anchors: ayanokouji/ayanokōji, kiyotaka, ayano, kiyopon, ayano
 [says:kushida-kikyou] (p.92) "Won't you…help me?" (Cute + Pleading + Upturned Eyes = Lethal — his internal formula)
 [says] (p.92) "Well, I guess I don't have a choice. Just this once, okay?"
 [trait] folds for warmth despite trouble-aversion; "just this once" = his standard self-permission
-[status] (p.93-94) plan: AK invites Horikita to Palate first; Kushida's friends stage seat churn → staged "coincidence"; Kushida claims "Horikita trusts you... more than anyone else in the class"
+[status] (p.93-94) plan: AK invites Horikita to Palate first; Kushida's friends stage seat churn → staged "coincidence"; Kushida: "I think that Horikita-san trusts you, Ayanokouji-kun" — "She seems to trust you more than anyone else in the class, at the very least."
 [thinks] (p.94) attributes her trust to bus-seat coincidence only; files possibility that chance meetings create any bond — "might eventually become lovers" fantasy re Kushida, one percent chance he admits
 
 ### y1v1 p.95-100 — Palate café: setup exposed; Horikita's aloneness bombshell
@@ -307,7 +310,7 @@ aliases used for anchors: ayanokouji/ayanokōji, kiyotaka, ayano, kiyopon, ayano
 [rule] (p.125) even perfect behavior won't raise points from zero baseline this month — cruel hint: fix behavior for NEXT month's eval, not retroactive
 [rule] (p.125) standings poster: A=940, B=650, C=490, D=0; 1000 pts = 100,000 yen; points = class rank; ≥500 promotes to C
 [thinks] (p.125-126) he + Horikita both flag numbers "too even" — suspected engineered crisis
-[rule] (p.126) sorting = "students are sorted by their level of excellence"; Class D = "last bastion for failures... You are defective."
+[rule] (p.126) sorting = "students are sorted by their level of excellence"; Class D = "the last bastion for failures. You are the worst of the worst. You're defective."
 [thinks] (p.127) **"I, on the other hand, was glad. This meant I couldn't go any lower."** — bottom is safety; anonymity secured by placement
 [trait] reads systemic humiliation as personal opportunity; joy in having no reputation to lose
 
@@ -453,7 +456,7 @@ aliases used for anchors: ayanokouji/ayanokōji, kiyotaka, ayano, kiyopon, ayano
 
 ### y1v1 p.192-197 — NIGHT FIGHT: Horikita Manabu vs AK (MAJOR)
 [scene] dorm exterior night; AK follows Suzune; witnesses brother-sister
-[back:horikita-suzune] (p.192) explicit: Manabu = "niisan"; "I'm far different from the useless girl you once knew"; he: "Leave this school immediately... you're my little sister. If people learned the truth, I would be humiliated."; "Do you want to relive the pain of the past?" (shared trauma hinted)
+[back:horikita-suzune] (p.192-193) explicit: Manabu = "niisan"; "I'm far different from the useless girl you once knew"; he: "you're my little sister. If people around here learned the truth, I would be humiliated. Leave this school immediately."; "Do you want to relive the pain of the past?" (shared trauma hinted)
 [says:horikita-manabu] (p.192) "You possess neither the abilities nor the qualities needed to reach Class A."
 [feat] (p.193-194) **physical intervention: grabs Manabu's pinning arm**; then combat exchange — evades backhand (step back), evades sharp kick, slaps away probing hand; Manabu: "Good reflexes... Have you been taught?" — **first explicit combat feat**; Horikita Manabu 5th dan karate + 4th dan aikido (her info, p.196)
 [says] (p.196) cover story: "Yes, I was taught piano and calligraphy... national music competition" — comedy deflection under martial probing; slips again ("tea ceremony" vs "calligraphy") when she probes dan rank; she: "You purposefully get lower test scores, and you say that you studied piano and calligraphy. I really don't understand you."
@@ -506,7 +509,7 @@ aliases used for anchors: ayanokouji/ayanokōji, kiyotaka, ayano, kiyopon, ayano
 [rule] (p.215) first-year ranking charts exist (hot-guy: Satonaka-A #1, Hirata #2, AK #5; also gloominess, "Boys Who Should Die"); Kushida blunt: "There's something missing, some element of attractiveness" about AK
 [rel:kushida-kikyou] (p.216) **ally ultimatum**: "if you had to choose either Horikita-san or me as your ally, whom would you choose?... If Horikita and I happen to clash, I hope that you'll cooperate with me, Ayanokouji-kun."
 [says] (p.216) "I'm no one's ally or enemy. I'm neutral." — then: "There are some situations where you can't avoid trouble by staying neutral" (her warning)
-[rel:kushida-kikyou] (p.216-217) smiling-hate: "Didn't you say that you hated me, though?" "Ha ha ha, yes, I did. Sorry, but that's how I really feels."; "First, we'd need to build a relationship of mutual trust." — mutual un-readability locked in
+[rel:kushida-kikyou] (p.216-217) smiling-hate: "Didn't you say that you hated me, though?" "Ha ha ha, yes, I did. Sorry, but that's how I really feel."; "First, we'd need to build a relationship of mutual trust." — mutual un-readability locked in
 
 ### y1v1 p.218-220 — Library grind + Class C Yamawaki taunt
 [scene] library sessions; Ike/Sudou progress (Francis Bacon correct); then Class C boys approach

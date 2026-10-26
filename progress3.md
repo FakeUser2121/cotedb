@@ -431,3 +431,46 @@ Gate: 161 pages, 16012 links 0 bad, 764 records, 0 wording leaks, 0 nested
 chips, role grouping 0, curated typing 0, docs in sync, 6 print docs 6687
 links 0 bad, 6 PDFs. Two builds -> md5 `b028a0021240ab73ae840e3ffacec116`
 both times.
+
+### 2026-10-27 — The first Ayanokōji scene is now the book's text, not a summary
+
+User, on the opening block of the Ayanokōji page: "That is not all the quotes
+he said about that, let alone being word for word." Correct. The ledger had
+transcribed the Chapter 1 prologue as eight mixed entries — one quoted
+sentence, the rest the walk's paraphrase — and the site printed the
+paraphrases under INNER VOICE / BACKSTORY in the same quote styling.
+
+- Re-walked y1v1 p.14–15 against `text/COTE Y1 V1.txt`. The block is now the
+  eleven paragraphs of the monologue, each a `[narrates]` entry anchored to
+  p.14 or p.15, copied verbatim (verified by normalized diff: 0 mismatches,
+  and every source line on those pages is covered except the chapter title).
+  The paraphrase entries and the duplicated `[voice]`/`[trivia]` notes are
+  gone; one `[trait]` line stays as analysis, not as evidence.
+  Scene now reads `13 entries · 11 quoted` instead of `10 · 5`.
+
+### Quote audit triggered by that block
+
+`verify3.py` (the non-`[says]` quote checker) was matching from *any* quote
+character to the next one, so a line with two real quotations failed on the
+prose between them — two of its three failures were noise. It now pairs
+curly quotes directionally and straight quotes alternately, checks every
+span over ten characters, and keeps the words inside curly quotes when it
+strips the marks (deleting the span cut a hole in the outer quotation). With
+the checker honest, it found nine more places where a quotation was not the
+book's text:
+
+- `start again` (ayanokouji p.53) — the book cuts off at "start ag—"
+- `Horikita trusts you…` (p.93) — actually two sentences on p.94
+- `You are defective` (p.126) — book: "You're defective."
+- `people learned the truth` (p.192) — book: "people around here learned the truth", p.193
+- `how I really feels` (p.216) — "feel"
+- `undeniable reality` (horikita p.16) — phrase is nowhere in volume 1
+- `Take it slowly` (kushida p.34) — book: "Just take things slowly. Don't rush."
+- shogi quote stitched two separate p.151 lines into one; now two quotations
+- `girlfriend incentive` / `from a third-year acquaintance` /
+  `would've been fine / perfect if serious` (volume ledger) — paraphrases in
+  quote marks; replaced with the p.160, p.235 and p.256 lines respectively
+
+`verify2.py y1v1`: 624 says lines, ALL PASS. `verify3.py y1v1`: 246 non-says
+quoted lines, ALL PASS. Site gate green; docs mirrored (md5
+fbf26d1a0b93d8328f69f8d002f6f560). People PDF rebuilt at 130 pages.

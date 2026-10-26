@@ -22,7 +22,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says:ayanokouji-kiyotaka] (p.18) “All right, then. What am I supposed to do?” (agrees under duress, filled with trepidation; the narrative then flashes back two months to the entrance ceremony — the favor itself is named only later, at p.150: “I need your help, Ayanokouji-kun.”)
 [action] (p.16–17) Physical intimidation; stands directly over him; uses cold countdowns; completely denies physical violence (compass stab) on strict legalistic grounds (lack of evidence).
 [trait] (p.16–18) Dominant, uncompromising, highly articulate, ruthlessly practical, utilizes psychological pressure and legalistic deflection.
-[voice] (p.16–18) Formal, polite yet chillingly authoritative diction (keigo combined with overt threats: "bestow additional punishment", "undeniable reality", "regret while you suffer").
+[voice] (p.16–18) Formal, polite yet chillingly authoritative diction (keigo combined with overt threats: "bestow additional punishment", "prove a major obstacle to your school life", "regret while you suffer").
 [rel:ayanokouji-kiyotaka] (p.16–18) Master-slave / coerced partner dynamic; views him as someone she can leverage for assistance through relentless pressure; already comfortable threatening physical harm.
 
 ### y1v1 p.20–25 — Entrance ceremony bus & rock gate confrontation (Ch.2 flashback, April)
