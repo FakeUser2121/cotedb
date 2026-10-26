@@ -317,3 +317,72 @@ publishing verified text, just not yet a complete volume.
 4. Cross-links: each page carries "who/what else is on this page" panels.
 5. Spoiler control + citation chips present on all evidence pages.
 6. Screenshots reviewed (home, story hub, volume page, person, topic, door).
+
+## 2026-10-27 — People: allegiance out, page-stated posts in
+
+The user rejected the People grouping on sight, and was right. Diagnosis
+before code: `characters.mid_type` (written by `kb/assign_mid_type.py`) held
+one unary value per person, but "ally" / "rival" is a relation — it needs a
+subject and a moment. The table's own comments ("tracks Ayanokouji", "helped/
+protected arc") name volumes (`y1v5`, `y2v6`, `y2v12`) that have never been
+read, so the buckets were memory wearing a schema. Three separate faults:
+
+1. No subject. "Allies" to whom was never stored.
+2. No time. One immutable value; a Year-2 class reshuffle falsifies every row
+   silently. `class: Class 1-D (enrolled April 2015)` in ledger meta made it
+   worse by writing the claim in a permanent header.
+3. No evidence. 27 people carried a bucket; only 14 had a ledger at all, and
+   the per-person ledgers barely contain role statements. Tsubaki Sakurako was
+   filed `authority  # teacher` — she is student council — and the label
+   merged faculty and council into one bucket, so the entry could be wrong
+   and still fit the label.
+
+What replaced it:
+
+- `[role:<key>] (p.NN) note` is now a ledger verb (`MARKERS["role"]`).
+  Closed vocabulary in `kb/site_roles.py`: `class-1a…1d`, `student-council`,
+  `faculty`. Rendered as "Post", never as the key.
+- `kb/site_roles.py` reads **only** those entries, keyed by the volume section
+  they sit in, so a transfer is a second row instead of a rewritten first one.
+- `kb/site_sections.py`: People index drops the six buckets. New section
+  "Where the pages place them" groups by institution under the volume that
+  states it, each row carrying the page and the note. Below it, "Role not
+  stated on the pages read so far" lists everyone else — for a ledger owner
+  it shows the classrooms their scenes are set in; for a name with no ledger
+  it says so. 18 of 27 sit there today, which is the honest state of a
+  one-volume dissection and exactly the user's point.
+- `site_data.py` no longer selects `mid_type`; `GROUP_LABEL` keeps only the
+  counted presence bands; `build_pathmap` no longer guesses
+  `dossiers/mid/<group>/…` (the link gate proves nothing points there).
+- Identity table: "Role in the story" was printing the presence band, so it
+  is now "How often they appear"; a new "Where the pages place them" row lists
+  the stated posts with volume + page.
+- Role citations are **plain page numbers, not chips**: the note beside them
+  is a paraphrase, and the page's quote bank may not contain the line that
+  carries the claim. A chip that opens unrelated text is worse than a number.
+
+Backfilled (12 lines, 11 people, every one anchored to a page the ledger
+already recorded): ayanokouji p.137–140 (PA: "from first-year Class D"),
+horikita-suzune p.142–143, kushida p.35, sudou/yamauchi/ike p.102 (Idiot
+Trio), karuizawa p.103, ichinose p.224 + p.141, chabashira p.30–32,
+hoshinomiya p.140–141, manabu p.66–68. No other line states a post, so
+hirata, kouenji and sakura still fall to the unstated list — flagged to the
+walk in progress2.md rather than filled by inference.
+
+New gate (`kb/share_check.py`): `check_role_grouping` — every `h4 id="g-…"`
+on the People index must be one of the six institutions, and every `[role:…]`
+entry must carry `(p.NN)` and a known value; `check_no_curated_typing` —
+`site_data.py` may not read `mid_type`, and no people page may show
+`mid (allies)`-style strings.
+
+Numbers: build 161 pages + 764 records + 6 bundles + 6 PDFs; gate all green
+(15148 site links 0 bad, 6687 print links 0 bad, 0 wording leaks, 0 nested
+chips, role grouping 0, curated typing 0); two consecutive builds ->
+`md5 6830a4e6618d6c92da54e7143e842a6e` both times.
+
+Operational note: the first rebuild after this change produced four 0-byte
+PDFs and a `people.pdf` truncated at exactly 2 MiB — the root disk was at
+100% (16 MB free). Reclaimed 165 MB by clearing `~/.cache/chromium-headless`
+(the PDF renderer's own cache; it regenerates). /tmp is tmpfs, so clearing
+/tmp does **not** help. Disk is still ~99% full overall (Steam alone is 84 GB
+in `~/.local/share`); worth watching before the next PDF build.

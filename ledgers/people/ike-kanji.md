@@ -44,6 +44,7 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:ayanokouji-kiyotaka] (p.88) Considers him a buddy, but warns him not to compete for Kushida.
 
 ### y1v1 p.102, 117–118 — Classroom disruption & burning through the allowance
+[role:class-1d] (p.102) Named in Class 1-D’s “Idiot Trio” with Sudō and Yamauchi.
 [scene] Classroom 1-D; then Keyaki Mall.
 [action] (p.102) Laughs and chats loudly with Yamauchi throughout math class, entirely unconcerned about academic discipline.
 [status] (p.102) Core member of the "Idiot Trio" alongside Sudō and Yamauchi.

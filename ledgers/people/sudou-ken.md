@@ -52,6 +52,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:kouenji-rokusuke] (p.87–88) Immediate athletic rivalry.
 
 ### y1v1 p.102 — Classroom tardiness & the Idiot Trio
+[role:class-1d] (p.102) Named in Class 1-D’s “Idiot Trio” with Ike and Yamauchi.
 [scene] Classroom 1-D, third week of April (second period, math).
 [action] (p.102) Slams through the classroom door halfway through math class, completely unapologetic about being late. Slumps down in his seat with a massive yawn while the math teacher ignores him.
 [status] (p.102) Formally branded alongside Ike and Yamauchi as part of Class 1-D's notorious "Idiot Trio" (*San Baka*).

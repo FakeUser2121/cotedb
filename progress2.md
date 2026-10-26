@@ -244,3 +244,51 @@ Ledger tag grammar: [scene] [says] [thinks] [trait] [voice] [feat] [limit]
   time; volume keys used as words inside a note ("her y1v2 arc") are humanized to
   "Vol. 2" on render. Keep writing them however the walk likes — the build
   translates.
+
+## Role facts — the new `[role:…]` line (2026-10-27)
+
+The People index no longer files anyone under allies/rivals/classmates. That
+column (`characters.mid_type`) is retired: it stored a relation as if it were
+a property, named no subject, carried no volume, and 13 of its 27 rows had no
+ledger behind them. Full write-up in progress3.md.
+
+**What the walk writes instead.** When a page states where someone stands in
+the school, record it as an entry, in their own ledger, inside the volume and
+scene block it was read in:
+
+```
+[role:class-1d] (p.102) Named in Class 1-D's "Idiot Trio" with Ike and Yamauchi.
+[role:student-council] (p.141) Member and liaison for the Student Council.
+[role:faculty] (p.30–32) Japanese history; Class D homeroom for three years.
+```
+
+Rules the gate now enforces (`kb/share_check.py`):
+
+- the value is one of `class-1a` `class-1b` `class-1c` `class-1d`
+  `student-council` `faculty` — a closed set, so the build never interprets
+  prose;
+- the entry **must** carry a page anchor; an unanchored role is dropped and
+  reported;
+- one line per person per volume. A transfer, a promotion or a change of class
+  is a **new line under the new volume**, never an edit to the old one. That is
+  the whole point: the old scheme could not represent a change.
+
+**Do not** put the typing back in the meta header. `status: mid (allies)` and
+the bare `class: Class 1-D (enrolled April 2015)` are ignored by the build and
+must not be extended — they are the pre-walk classification, and a permanent
+header is the wrong shape for a fact that changes by volume.
+
+**Open for the walk.** Three ledgers have scenes but no role line, so the index
+lists them as "not stated": `hirata-yousuke` (scenes in the 1-D room,
+p.32–34, 37–40, 55–56), `kouenji-rokusuke` (p.38–39), `sakura-airi` (scenes at
+the store and in y1v2, none in a classroom). Add one anchored `[role:…]` line
+the next time any of them is touched. Of the 27 principal/recurring names, 18
+have no stated post yet: 3 have a ledger without a role line (the three above)
+and 15 have no ledger at all; they fill in as their volumes are walked. Ike and
+Yamauchi sit on tier 3 by quoted-line count but do have ledgers and role lines,
+so they appear under Class 1-D — the role section is not limited to tier 1–2.
+
+Role facts are shown on the site as plain page numbers, not proof chips,
+because the note beside them is a paraphrase — the chip would open the page's
+quote bank, which may not contain the supporting line. Do not turn them into
+chips without adding the actual quoted line to the ledger.

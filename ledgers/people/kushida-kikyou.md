@@ -20,6 +20,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [note] (p.19–24) The bus text never names the uniformed challenger. Her identification with Kushida is an inference (she later knows AK and Horikita spoke at the gate that day, p.57), not a stated fact in y1v1.
 
 ### y1v1 p.34–35 — Classroom Day 1: empathetic rescue & friendship declaration
+[role:class-1d] (p.35) Established as the idol and social anchor of Class 1-D.
 [scene] Class 1-D classroom after homeroom orientation. Hirata asks students to introduce themselves from the front row.
 [action] (p.34) Inogashira Kokoro freezes at her desk, trembling and pale. Classmates mistakenly shout “Do your best!” which heightens her panic. Kushida steps in with immediate, emotionally intelligent guidance.
 [says] (p.34) “It’s okay to go slowly. Don’t rush.”

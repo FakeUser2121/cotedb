@@ -333,6 +333,7 @@ aliases used for anchors: ayanokouji/ayanokōji, kiyotaka, ayano, kiyopon, ayano
 [rel:horikita-suzune] (p.136) her cryptic: "if an unintelligent student tries to lead the discussion, the group will fall further into chaos... I can't meekly accept my current situation" — seeds her S-System / individual-action strategy
 
 ### y1v1 p.137-140 — Resale desperation + summons to Chiyabashira
+[role:class-1d] (p.137–140) The PA summons names him: “Ayanokouji-kun, from first-year Class D.”
 [scene] after school; Yamauchi tries to flip PS Viva to AK (1k bid) then Professor (22k); Kushida lends 2k to Karuizawa freely
 [rel:karuizawa-kei] (p.138) borrows points from multiple girls serially; AK flags lending as "a recipe for disaster"
 [rel:kushida-kikyou] (p.138-139) "I can't just ignore a friend in need" — generosity uncalculating (or masked); AK spent "barely any" points himself

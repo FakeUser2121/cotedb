@@ -8,7 +8,11 @@ Checks (site):
   every #fragment resolves to an id/name in the target page
   search-index.js: every record URL + anchor resolves (and no record
   points at a missing page); index parses as JSON
-  expected inventory: 82 dossiers + home = 83 pages, 6 print docs
+  reader wording: no pipeline vocabulary in visible text; no nested chips
+  role grouping: every people-index group is an institution the pages can
+  state, and every [role:…] ledger entry is a known value with a page
+  curated typing: mid_type is not read and does not reach a reader
+  expected inventory: every section, volume and principal has a page
 Checks (print):
   every href/src in share/print/**.html resolves (assets + ../site/)
 Checks (pdf):
@@ -166,6 +170,62 @@ def check_chip_markup(files):
     return errors
 
 
+# The role buckets are a closed set on purpose. A label outside it means
+# somebody reintroduced a relation ("allies", "rivals") as if it were a
+# property of a person, which is exactly the bug this gate exists to stop.
+ROLE_HEADING_RE = re.compile(r'<h4 id="g-[^"]*">([^<]+)</h4>')
+ROLE_ALLOWED = {"Class 1-A", "Class 1-B", "Class 1-C", "Class 1-D",
+                "Student council", "Faculty"}
+
+
+def check_role_grouping():
+    """People index: every group heading must be an institution the pages can
+    name, and every `[role:…]` ledger entry must carry a page and a known
+    value. No heading may name a stance."""
+    errors = []
+    page = SITE / "people" / "index.html"
+    if page.exists():
+        for label in ROLE_HEADING_RE.findall(page.read_text(encoding="utf-8")):
+            label = " ".join(label.split())
+            if label not in ROLE_ALLOWED:
+                errors.append(f"people/index.html: group heading [{label}] is "
+                              f"not an institution the pages can state")
+    import site_ledgers
+    import site_roles
+    ent = re.compile(r"^\[role(?::([A-Za-z0-9._-]+))?\]\s*(.*)$")
+    for p in sorted((ROOT / "ledgers" / "people").glob("*.md")):
+        for line in p.read_text(encoding="utf-8").splitlines():
+            m = ent.match(line.strip())
+            if not m:
+                continue
+            value, rest = m.group(1) or "", m.group(2)
+            if value not in site_roles.ROLE_BUCKETS:
+                errors.append(f"{p.name}: unknown role value [{value}]")
+            if not re.match(r"^\(p\.[^)]*\)", rest):
+                errors.append(f"{p.name}: role entry without a page anchor")
+    return errors
+
+
+def check_no_curated_typing():
+    """The pre-walk typing must not come back through the database. It was
+    the source of the wrong buckets: one unary column pretending to hold a
+    relation. The build is not allowed to select it."""
+    errors = []
+    data = (ROOT / "kb" / "site_data.py").read_text(encoding="utf-8")
+    if "mid_type" in data:
+        errors.append("kb/site_data.py reads mid_type again — the curated "
+                      "allies/rivals typing is retired")
+    for p in sorted((SITE / "people").rglob("*.html")):
+        text = visible_text(p.read_text(encoding="utf-8"))
+        for bad in ("mid (allies)", "mid (rivals)", "mid (peers)",
+                    "mid (authority)", "mid (family)", "mid (outside)"):
+            if bad in text:
+                errors.append(f"{p.relative_to(SITE).as_posix()}: curated "
+                              f"typing reaches a reader: [{bad}]")
+                break
+    return errors
+
+
 def check_inventory():
     """Architecture invariants instead of a frozen page count: every section
     in the spec is published, every volume in the database has a place on the
@@ -265,6 +325,13 @@ def main():
         markup_errs = check_chip_markup(site_files)
         errors.extend(markup_errs)
         notes.append(f"chip markup: {len(markup_errs)} nested chip(s)")
+        role_errs = check_role_grouping()
+        errors.extend(role_errs)
+        notes.append(f"role grouping: {len(role_errs)} problem(s) "
+                     f"(non-institutional heading or unanchored role entry)")
+        typing_errs = check_no_curated_typing()
+        errors.extend(typing_errs)
+        notes.append(f"curated typing: {len(typing_errs)} leak(s)")
         if DOCS.exists():
             if md5_tree(DOCS) != md5_tree(SITE):
                 errors.append("docs/ out of sync with share/site "

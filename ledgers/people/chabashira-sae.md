@@ -8,6 +8,7 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 <!-- walk: y1v1 → start -->
 
 ### y1v1 p.29–32 — Class 1-D homeroom orientation & point system trap
+[role:faculty] (p.30–32) Japanese history; Class D homeroom for three years.
 [scene] Class 1-D classroom, entrance day morning. The first bell rings. Chabashira enters briskly. Early thirties, hair pulled back into a ponytail, sharply dressed in a tailored business suit, exuding strict professionalism with zero warmth.
 [action] (p.29–30) Distributes the official student handbook and guidelines without smiling.
 [says] (p.30) “Ahem. Good morning to you, students. I’m the instructor for Class D. My name is Chiyabashira Sae. I usually teach Japanese history. However, at this school, we do not change classrooms for each grade. For the next three years, I will be acting as your homeroom teacher, so I hope to get to know all of you. It’s a pleasure to meet you.”

@@ -8,6 +8,7 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 <!-- walk: y1v1 → start -->
 
 ### y1v1 p.66–68 — Club Fair debut: absolute presence
+[role:student-council] (p.66–68) Student Council President; takes the stage at the club fair.
 [scene] School gymnasium club fair. Representatives from various athletic and cultural clubs deliver lively pitches. Student council president Horikita Manabu steps onto the stage.
 [action] (p.66–67) Slender build, sharp analytical gaze behind glasses, neatly trimmed black hair. Merely by stepping up to the microphone, his sheer aura and commanding presence reduce over a hundred chattering first-year students to dead, breathless silence without him saying a single word or raising a hand.
 [says] (p.67) “I’m the student council president. My name is Horikita Manabu.”

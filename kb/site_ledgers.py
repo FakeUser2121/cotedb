@@ -67,6 +67,10 @@ MARKERS = {
     "trait": ("trait", "Trait"),
     "voice": ("voice", "Voice"),
     "status": ("status", "Position"),
+    # Where the pages place a person in the school, stated with a page. The
+    # value is a fixed key (class-1d, student-council, faculty …) so the build
+    # can group without interpreting prose; see site_roles.ROLE_BUCKETS.
+    "role": ("role", "Post"),
     "back": ("back", "Backstory"),
     "trivia": ("detail", "Detail"),
     "rule": ("rule", "Rule"),

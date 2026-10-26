@@ -42,6 +42,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import site_arch  # noqa: E402
 import site_data as D  # noqa: E402
 import site_ledgers  # noqa: E402
+import site_roles  # noqa: E402
 import site_sections as SEC  # noqa: E402
 import site_topics as TOP  # noqa: E402
 import site_shell as S  # noqa: E402
@@ -140,7 +141,9 @@ def build_pathmap(ctx):
     for c in ctx["chars"]:
         cid = c["id"]
         put(f"dossiers/main/{cid}.md", c["href"])
-        put(f"dossiers/mid/{c['group']}/{cid}.md", c["href"])
+        # The old mid-tier tree filed people under allies/rivals/… — a
+        # relation the database no longer carries. Nothing may link there;
+        # the link gate proves it rather than a rewrite table guessing. 
     for e in ctx["exam_rows"]:
         put(f"dossiers/exams/{e['id']}.md", f"school/exam/{e['id']}.html")
     for s in ctx["system_rows"]:
@@ -229,6 +232,11 @@ def build_ctx(con, stats):
     ctx["vol_list"] = [ctx["vols"][k] for k in ctx["vols"]]
     ctx["scope"] = scope_options(ctx)
     ctx["lookup"] = memo_lookup(con)
+    # Where the pages place each person in the school, read from `[role:…]`
+    # ledger lines only. The curated mid_type column is never consulted.
+    ctx["people_ledgers"] = site_ledgers.all_ledgers("people")
+    ctx["role_facts"] = site_roles.collect(ctx["people_ledgers"])
+    ctx["role_hints"] = site_roles.room_hints(ctx["people_ledgers"])
     ctx["page"] = page_factory(ctx)
     ctx["vol_titles"] = {}
     return ctx

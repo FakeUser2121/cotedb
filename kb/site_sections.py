@@ -7,9 +7,10 @@ The public taxonomy is deliberately small and in plain words:
   People · Story · Exams & School · World & Places · Topics · Start here ·
   Appendix
 and inside People only 'Principal characters / Recurring characters /
-Minor characters' plus the role groups a reader already expects from the
-novel (allies, rivals, faculty, family). The database's tier numbers and
-mid_type keys are never shown.
+Minor characters', plus where the pages themselves place a person in the
+school — recorded per volume, with the page that says it. The database's
+tier numbers and mid_type keys are never shown, and allegiance is not a
+bucket at all: 'ally' and 'rival' name a pair at a moment, not a person.
 """
 
 import json
@@ -23,13 +24,12 @@ import site_arch  # noqa: E402
 import site_data as D  # noqa: E402
 import site_evidence as E  # noqa: E402
 import site_ledgers as L  # noqa: E402
+import site_roles  # noqa: E402
 import site_shell as S  # noqa: E402
 from share_render import render, slug  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 DOSSIERS = ROOT / "dossiers"
-
-ROLE_GROUPS = ["allies", "rivals", "peers", "authority", "family", "outside"]
 
 WEEK_NOTE = ("<p class='muted'>Evidence is quoted from the novels only. "
              "A page number you can check beats any summary here.</p>")
@@ -231,6 +231,10 @@ who is named on which page — rather than remembered summaries.</p>"""
 # --------------------------------------------------------------- people
 
 
+def role_anchor(label):
+    return "g-" + re.sub(r"[^a-z0-9]+", "-", label.lower()).strip("-")
+
+
 def people_rail(ctx, root=""):
     items = [{"kind": "link", "label": "All people",
               "href": "people/index.html"}]
@@ -240,21 +244,97 @@ def people_rail(ctx, root=""):
                   "href": "people/index.html#recurring"})
     items.append({"kind": "link", "label": "Minor characters A–Z",
                   "href": "people/minor/a.html"})
-    named = [c for c in ctx["chars"] if c["tier"] <= 2]
-    principals = [c for c in named if c["tier"] == 1]
+    principals = [c for c in ctx["chars"] if c["tier"] == 1]
     if principals:
         items.append({"kind": "details", "label": "Principal", "open": False,
                       "sub": [{"label": c["name"], "href": c["href"]}
                               for c in principals]})
-    for g in ROLE_GROUPS:
-        grp = [c for c in named if c["group"] == g]
-        if grp:
-            items.append({
-                "kind": "details", "label": site_arch.GROUP_LABEL[g],
-                "count": len(grp), "open": ctx.get("open_group") == g,
-                "sub": [{"label": c["name"], "href": c["href"]}
-                        for c in sorted(grp, key=lambda c: c["name"])]})
+    # The rail used to carry allies / rivals / classmates. Those are relations
+    # with an unstated subject and no date, so they are not shown at all; the
+    # only grouping left is the one the pages state, volume by volume.
+    for vol, buckets in site_roles.index(ctx.get("role_facts") or {}):
+        items.append({
+            "kind": "details",
+            "label": f"Roles in {site_arch.volume_short(vol)}",
+            "count": sum(len(rows) for _, rows in buckets),
+            "sub": [{"label": label,
+                     "href": f"people/index.html#{role_anchor(label)}"}
+                    for label, _ in buckets]})
+    unstated = _unstated(ctx)
+    if unstated:
+        items.append({"kind": "link", "label": f"Role not stated ({len(unstated)})",
+                      "href": "people/index.html#g-unstated"})
     return items
+
+
+def _unstated(ctx):
+    """Recurring names whose post no ledger line states yet."""
+    stated = site_roles.stated_ids(ctx.get("role_facts") or {})
+    return [c for c in ctx["chars"]
+            if c["tier"] <= 2 and c["id"] not in stated]
+
+
+def _role_sections(ctx):
+    """The only grouping on the site that says where a person stands: the
+    institution a ledger line names, under the volume that line was read in.
+    A transfer, a promotion or a change of class therefore adds a row instead
+    of silently contradicting the old one."""
+    out = []
+    for vol, buckets in site_roles.index(ctx.get("role_facts") or {}):
+        out.append(f'<h3 id="r-{vol}">Recorded in '
+                   f'{S.esc(site_arch.volume_label(vol))}</h3>')
+        for label, rows in buckets:
+            items = []
+            for f in rows:
+                c = ctx["char_by_id"].get(f["id"])
+                if not c:
+                    continue
+                # A plain page reference, not a proof chip: the ledger note
+                # beside it is a paraphrase, and the quote bank for that page
+                # may not contain the line that carries the claim. Promising
+                # "show the text" and then showing other text is worse than a
+                # number the reader can check in the book.
+                cite = f'{site_arch.volume_short(vol)} {f["page"]}'
+                basis = f' <span class="n">{S.esc(f["text"])}</span>' \
+                        if f["text"] else ""
+                items.append(f'<li><a href="{c["href"]}">{S.esc(c["name"])}</a>'
+                             f' <span class="cite">{S.esc(cite)}</span>'
+                             f'{basis}</li>')
+            if items:
+                out.append(f'<div class="box note"><h4 id="{role_anchor(label)}">'
+                           f'{S.esc(label)}</h4>'
+                           f'<ul>{"".join(items)}</ul></div>')
+    return "".join(out)
+
+
+def _unstated_block(ctx):
+    unstated = _unstated(ctx)
+    if not unstated:
+        return ""
+    hints = ctx.get("role_hints") or {}
+    ledgers = ctx.get("people_ledgers") or {}
+    rows = []
+    for c in sorted(unstated, key=lambda c: c["name"]):
+        seen = []
+        for vol, label, pages in hints.get(c["id"], []):
+            seen.append(f'{label}, {site_arch.volume_short(vol)} {pages}')
+            if len(seen) == 2:
+                break
+        if seen:
+            where = f' <span class="n">scenes set in {S.esc("; ".join(seen))}</span>'
+        elif ledgers.get(L.stem_for("people", c["id"])):
+            where = (' <span class="n">scenes recorded, none of them in a '
+                     'classroom</span>')
+        else:
+            where = ' <span class="n">not read line by line yet</span>'
+        rows.append(f'<li><a href="{c["href"]}">{S.esc(c["name"])}</a>{where}</li>')
+    return (f'<h3 id="g-unstated">Role not stated on the pages read so far '
+            f'({len(unstated)})</h3>'
+            f'<p>These names are in the pages that have been read, but no '
+            f'line in the notes states their post yet. What is shown is where their '
+            f'scenes are set, so the gap reads as a missing line rather than a '
+            f'missing scene — and it closes as each volume is worked through.</p>'
+            f'<ul>{"".join(rows)}</ul>')
 
 
 def people_index(ctx):
@@ -270,22 +350,6 @@ def people_index(ctx):
             out.append((c["name"], note, c["href"]))
         return grid_links(out)
 
-    group_blocks = []
-    for g in ROLE_GROUPS:
-        grp = sorted([c for c in recurring if c["group"] == g],
-                     key=lambda c: c["name"])
-        if not grp:
-            continue
-        inner = []
-        for c in grp:
-            inner.append(f'<li><a href="{c["href"]}">{S.esc(c["name"])}</a>'
-                         f' <span class="n">· {c["quotes"]:,} lines</span>'
-                         f'</li>')
-        group_blocks.append(
-            f'<div class="box note"><h4 id="g-{g}">'
-            f'{S.esc(site_arch.GROUP_LABEL[g])}</h4><ul>{"".join(inner)}</ul>'
-            f'</div>')
-
     # counts come from the plan, not the database tier, so a letter is only
     # linked when a page for it was actually built
     buckets = ctx.get("minor_buckets") or {}
@@ -300,9 +364,21 @@ def people_index(ctx):
 relationships, and voice samples quoted from the pages.</p>
 {rows(principals)}
 <h2 id="recurring">Recurring characters</h2>
-<p>Twenty people who keep coming back — grouped by where they stand to
-Ayanokōji's class, the same way the novels introduce them.</p>
-{"".join(group_blocks)}
+<p>The names that keep coming back across the volumes read so far. They are
+not sorted by allegiance here, because allegiance is a relation, not a
+property: it belongs to a pair and a moment, and it changes between volumes.
+What the pages do state — who is enrolled where, who teaches, who sits on the
+student council — is listed under the volume that states it.</p>
+{rows(recurring)}
+<h2 id="roles">Where the pages place them</h2>
+<p>A post is listed only where a note taken off the page states it beside
+the page number.
+That keeps the claim checkable and keeps it dated: a promotion or a transfer
+adds an entry under the volume where it happens instead of rewriting the
+earlier ones. Nothing here is inferred from whose classroom a scene happens
+to be set in.</p>
+{_role_sections(ctx)}
+{_unstated_block(ctx)}
 <h2 id="minor">Minor characters</h2>
 <p>{len(minor)} further names appear on the page — classmates in other
 grades, staff, family, one-off strangers. They are indexed by initial and
@@ -325,7 +401,7 @@ above.</p>
                 for c in sorted(ctx['chars'],
                                  key=lambda c: (c['name'].split()[0],
                                                 c['name']))]))}"""
-    return ctx["page"]("People", "people", body,
+    return ctx["page"]("People", "people", S.chipify(body, ctx["lookup"]),
                       [("Home", "index.html"), ("People", None)],
                       out="people/index.html", rail=people_rail(ctx),
                       lede="Everyone named in the Classroom of the Elite "

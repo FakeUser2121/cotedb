@@ -156,6 +156,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:hirata-yousuke] (p.135–136) Rebuffs his leadership outright; views his idealistic consensus-building as weak and futile.
 
 ### y1v1 p.142–148 — Faculty office protest & the all-50s revelation
+[role:class-1d] (p.142–143) Marches into the faculty office over her placement in Class D.
 [scene] Guidance office adjacent to faculty staff room.
 [action] (p.142–143) Marches into the faculty guidance office to directly confront Chabashira over her placement in Class D.
 [says] (p.142) “I will be frank. Why was I sorted into Class D?”

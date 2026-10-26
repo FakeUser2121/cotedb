@@ -26,6 +26,7 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [rel:ike-kanji] (p.72) Partner-in-crime in teenage boy antics.
 
 ### y1v1 p.102, 118 — Classroom disruption & the 900 APEC blunder
+[role:class-1d] (p.102) Named in Class 1-D’s “Idiot Trio” with Ike and Sudō.
 [scene] Classroom 1-D; then Keyaki Mall café.
 [action] (p.102) Disrupts second-period math laughing loudly with Ike; established as part of the "Idiot Trio".
 [action] (p.118) Attempts to defend his intellect by delivering an absurd, fabricated academic claim.

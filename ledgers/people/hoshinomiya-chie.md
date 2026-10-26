@@ -8,6 +8,7 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 <!-- walk: y1v1 → start -->
 
 ### y1v1 p.139–141 — Hallway flirtation & history with Chabashira
+[role:faculty] (p.140–141) Class 1-B homeroom teacher.
 [scene] Hallway outside faculty staff room.
 [action] (p.139) Inspecting her makeup/appearance in a mirror when Ayanokōji calls out seeking Chabashira. Wavy, shoulder-length hair, mature looks, bubbly student-like demeanor.
 [says] (p.139) “Hmm? Sae-chan? Oh, she was just here a moment ago.”

@@ -8,6 +8,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 <!-- walk: y1v1 → start -->
 
 ### y1v1 p.141–142 — Debut: student council liaison
+[role:student-council] (p.141) Member and liaison for the Student Council under President Horikita Manabu.
 [scene] Hallway outside faculty staff room.
 [action] (p.141–142) Makes her series debut. Described as a strikingly beautiful girl with light-pink hair. Approaches Hoshinomiya Chie with calm, poised maturity.
 [says] (p.141) “Hoshinomiya-sensei, do you have a moment? The student council wishes to discuss something with you.”
@@ -19,6 +20,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 <!-- walk: y1v1 ch7 → p.151 -->
 
 ### y1v1 p.221–224 — Library intervention: the peacemaker of Class B
+[role:class-1b] (p.224) Called “the Class B student” who talks with Hoshinomiya-sensei.
 [scene] School library, lunchtime.
 [action] (p.221–222) Shouts down Sudou mid-collar-grab on Yamawaki with a disinterested but logical argument, forcing Sudou to release him.
 [says] (p.222) “Okay, stop. Stop!”

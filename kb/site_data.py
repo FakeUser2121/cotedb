@@ -52,7 +52,7 @@ def clean(text):
 def characters(con):
     """All characters with display names and footprint counts, tier order."""
     rows = con.execute(
-        "SELECT c.char_id, c.canonical_name, c.tier, c.mid_type, c.status, "
+        "SELECT c.char_id, c.canonical_name, c.tier, c.status, "
         "(SELECT count(*) FROM quotes q WHERE q.char_id = c.char_id), "
         "(SELECT count(DISTINCT q.vol_id) FROM quotes q "
         " WHERE q.char_id = c.char_id), "
@@ -61,12 +61,11 @@ def characters(con):
         "ORDER BY c.tier, c.canonical_name"
     ).fetchall()
     out = []
-    for (cid, canon, tier, mid_type, status, quotes, qvols, cov) in rows:
+    for (cid, canon, tier, status, quotes, qvols, cov) in rows:
         name = site_arch.display_name(canon, cid)
         letter = name.split()[0][:1].upper() if name else "?"
         out.append({
             "id": cid, "name": name, "canon": canon or "", "tier": tier or 4,
-            "group": mid_type or ("main" if tier == 1 else "background"),
             "status": status or "", "quotes": quotes or 0,
             "quote_vols": qvols or 0, "coverage": cov or 0,
             "letter": letter,

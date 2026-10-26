@@ -24,6 +24,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import site_arch  # noqa: E402
 import site_ledgers as L  # noqa: E402
+import site_roles  # noqa: E402
 import site_shell as S  # noqa: E402
 
 esc = S.esc
@@ -66,22 +67,27 @@ def entry_html(ctx, entry, vol_id, out_rel):
     text = entry["text"] or ""
     cite_html = pin(ctx, vol_id, entry["pages"])
     cls = f'e-{group}'
-    inner = ""
-    if target:
+    pre = post = ""
+    if entry["marker"] == "role":
+        # the marker's value is a closed-set key, not a person: show the
+        # human bucket, never "class-1d", and put it before the note
+        pre = (f'<span class="rel">'
+               f'{esc(site_roles.bucket_label(entry["target"]))}</span> — ')
+    elif target:
         other = ctx["char_by_id"].get(target)
         if other:
             href = posixpath.relpath(other["href"],
                                      posixpath.dirname(out_rel) or ".")
-            inner = f'<a class="rel" href="{href}">{esc(other["name"])}</a> — '
+            post = f'<a class="rel" href="{href}">{esc(other["name"])}</a> — '
         else:
-            inner = f'{esc(site_arch.display_name("", target))} — '
+            post = f'{esc(site_arch.display_name("", target))} — '
     if entry["quote"]:
         body = f'<p class="verb">{esc(text)}</p>'
     else:
         body = f'<p>{esc(text)}</p>'
     tail = f' <span class="pin">{cite_html}</span>' if cite_html else ""
     return (f'<li class="{cls}"><span class="mlabel">{esc(label)}</span>'
-            f'{body}{inner}{tail}</li>')
+            f'{pre}{body}{post}{tail}</li>')
 
 
 def scene_block(ctx, block, out_rel, *, show_vol=True, fold=False):
@@ -220,9 +226,19 @@ def identity_block(ctx, c, out_rel):
     aliases = ctx["aliases_by_char"].get(c["id"]) or []
     shown = [a for a in aliases if a and a.lower() != c["name"].lower()][:12]
     rows = [("Known as", esc(", ".join(shown)) if shown else ""),
-            ("Role in the story",
+            # This used to say "Role in the story" while printing the presence
+            # band, which is not a role. Presence is what is actually counted.
+            ("How often they appear",
              esc(site_arch.TIER_LABEL.get(c["tier"], "Character"))),
             ("Named in", f'{c["coverage"]} of {ctx["stats"]["vols"]} volumes')]
+    placed = site_roles.facts_for(ctx.get("role_facts") or {}, c["id"])
+    if placed:
+        # Plain page numbers: the ledger note is a paraphrase, so there is no
+        # quote chip to open. Kept in the "Vol. 1 p.224" shape the footer
+        # explains.
+        rows.insert(0, ("Where the pages place them", esc("; ".join(
+            f'{label} ({site_arch.volume_short(vol)} {f["page"]})'
+            for vol, label, f in placed))))
     head = mechanical_facts([(k, v) for k, v in rows if v])
     where = mentions_by_volume(ctx, c["id"], out_rel)
     return head + (f'<p class="subhead">Where the name appears</p>{where}'

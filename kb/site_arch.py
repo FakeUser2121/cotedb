@@ -99,12 +99,10 @@ TIER_LABEL = {
 }
 
 GROUP_LABEL = {
-    "allies": "Allies",
-    "authority": "Faculty & student council",
-    "peers": "Classmates",
-    "rivals": "Rivals",
-    "family": "Family & the White Room",
-    "outside": "Outside the school",
+    # Only presence bands, which are counted, not judged. The old relational
+    # buckets (allies / rivals / peers / faculty / family / outside) are gone:
+    # each named a pair without naming the other half, and none carried a
+    # volume, so a transfer or a change of side falsified them silently.
     "main": "Principal characters",
     "background": "Minor characters",
 }
