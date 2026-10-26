@@ -177,6 +177,15 @@ img { max-width: 100%; }
 }
 .rail.left { border-right: 1px solid var(--line); background: var(--panel); }
 .rail.right { border-left: 1px solid var(--line); }
+
+/* pages with nothing to show in a rail drop the column entirely (the shell
+   sets no-left / no-right on <body>) rather than painting an empty strip */
+body.no-left .rail.left,
+body.no-right .rail.right { display: none; }
+body.no-left .menu-btn { display: none; }
+body.no-left .layout { grid-template-columns: minmax(0, 1fr) 244px; }
+body.no-right .layout { grid-template-columns: 264px minmax(0, 1fr); }
+body.no-left.no-right .layout { grid-template-columns: minmax(0, 1fr); }
 .rail .rail-h {
   font: 700 11px/1 var(--sans); letter-spacing: .12em; text-transform: uppercase;
   color: var(--muted); margin: 0 0 10px;
@@ -469,10 +478,14 @@ body[data-scope] .later.is-hidden .reveal { display: flex; }
 @media (max-width: 1240px) {
   .layout { grid-template-columns: 240px minmax(0, 1fr); }
   .rail.right { display: none; }
+  /* the right rail is gone at this width, so a no-left page is one column */
+  body.no-left .layout { grid-template-columns: minmax(0, 1fr); }
 }
 @media (max-width: 900px) {
   :root { --head-h: 152px; }
   .layout { grid-template-columns: minmax(0, 1fr); }
+  body.no-left .layout, body.no-right .layout,
+  body.no-left.no-right .layout { grid-template-columns: minmax(0, 1fr); }
   .rail.left {
     position: fixed; inset: var(--head-h) auto 0 0; width: 300px; z-index: 50;
     transform: translateX(-102%); transition: transform .18s ease;

@@ -762,9 +762,42 @@ def volume_page(ctx, v):
         meter=[("Chapters", str(len(chapters))),
                ("Exams", str(len(exams))),
                ("Named in it", str(len(present)))],
+        related=volume_related(ctx, v, exams, present, docs),
         scope=ctx["scope"])
     ctx["open_year"] = None
     return (out, html_out)
+
+
+def volume_related(ctx, v, exams, present, docs):
+    """The rail that makes the Story axis a graph instead of 36 islands:
+    where you came from, where you go next, and the people, exams and
+    documents this volume is made of."""
+    vol_id = v["id"]
+    order = [x["id"] for x in ctx["vol_list"]]
+    links = []
+    i = order.index(vol_id) if vol_id in order else -1
+    if i > 0:
+        prev_id = order[i - 1]
+        links.append((f"← {site_arch.volume_short(prev_id)}",
+                      volume_index_href(prev_id)))
+    if 0 <= i < len(order) - 1:
+        next_id = order[i + 1]
+        links.append((f"{site_arch.volume_short(next_id)} →",
+                      volume_index_href(next_id)))
+    links.append((f"Year {v['year'] or 0} in order",
+                  f"story/y{v['year']}.html"))
+    for e in exams[:4]:
+        links.append((f"Exam: {ctx['exam_name'].get(e['exam_id'], '')}",
+                      f"school/exam/{e['exam_id']}.html"))
+    for p in [p for p in present if p["tier"] <= 2][:6]:
+        c = ctx["char_by_id"].get(p["id"])
+        if c:
+            links.append((c["name"], c["href"]))
+    for info in docs[:3]:
+        links.append((f'{info["char_name"]} — '
+                      f'{"transcript" if info["kind"] == "transcript" else "guide"}',
+                      info["out"]))
+    return links
 
 
 # ---------------------------------------------------------------- school

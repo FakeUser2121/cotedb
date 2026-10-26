@@ -108,9 +108,9 @@ def rail_left(section, current, root, items, title=None):
     if section["id"] != "home" and current != section["href"]:
         head_link = f' <a href="{root}{section["href"]}">index</a>'
     if not items:
-        # the tab bar already says where you are; an empty rail gets no header
-        return ('<nav class="rail left" id="rail-nav" aria-label="Contents">'
-                '</nav>')
+        # the tab bar already says where you are; an empty rail is not worth
+        # an element, a border or a screen-reader landmark
+        return ""
     body = []
     for it in items:
         kind = it.get("kind", "link")
@@ -145,7 +145,7 @@ def rail_right(modules):
     """modules: [(title, inner_html)] — 'On this page', evidence footprint,
     related links."""
     if not modules:
-        return '<aside class="rail right"></aside>'
+        return ""
     out = []
     for title, inner in modules:
         out.append(f'<div class="mod"><div class="rail-h">{esc(title)}</div>'
@@ -243,6 +243,15 @@ def page(spec):
         modules.append(("Evidence footprint", meter_block(spec["meter"])))
     if spec.get("related"):
         modules.append(("Related", related_block(spec["related"])))
+    # an empty rail is not a design element: when a page has nothing to put in
+    # one, the column collapses instead of showing a blank bordered strip
+    layout_classes = []
+    if not (spec.get("rail") or []):
+        layout_classes.append("no-left")
+    if not modules:
+        layout_classes.append("no-right")
+    body_class = " ".join(
+        [f"sec-{spec['section']}"] + layout_classes)
     doc = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -253,7 +262,7 @@ def page(spec):
 <link rel="stylesheet" href="{root}assets/style.css">
 </head>
 <body data-root="{root}" data-section="{spec['section']}"
-      class="sec-{spec['section']}">
+      class="{body_class}">
 {masthead(root, spec['section'], spec)}
 <div class="layout">
   {rail_left(section, spec['out'], root, spec.get('rail') or [])}

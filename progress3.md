@@ -141,6 +141,60 @@ group keys become human labels; names get macron-fixed through one table.
   `docs/` and only the mirror is served. Local files stay.
 - `ledgers/` y1v2 changes from the walk session are deliberately **not** in
   this commit (different concern, and this pass has no authority over them).
+- First push was rejected by GitHub ("push declined due to email privacy
+  restrictions": commit authored `fakef5858@gmail.com` while the account blocks
+  pushes that expose an unverified address). USER CHOICE: use GitHub's noreply
+  address. Redid the still-local commit as
+  `FakeUser2121 <215920825+FakeUser2121@users.noreply.github.com>` through
+  `GIT_*_EMAIL` env vars — no git config touched — then pushed `c09b0fb..14c3750`.
+  FOLLOW-UP: the repo's git config still carries the Gmail address, so every
+  future commit needs the same env override until the user changes it.
+- **LIVE**: Pages rebuilt commit 14c3750 → status `built`. Verified over HTTPS:
+  the home page serves the v3 tab bar with exactly one "Home", and
+  `story/v/y2v9/index.html`, `people/minor/t.html`, `topics/expulsions.html`
+  all return 200. → https://fakeuser2121.github.io/cote-kb/
+- `share/` and `_sitecheck/` are gitignored now; `docs/` stays the served copy.
+
+### 2026-10-26 21:2x — visual review handed to the USER
+- Image reading is disabled for this session, so the look is the user's call.
+  Checklist sent: one Home (not three) top-left; seven-section tab bar on every
+  page; left rail scoped to the current section; Story spine within three
+  clicks; citation chips expand; the "I've read up to" selector actually hides
+  later material; no `tier N` / `dossier` / `corpus` wording anywhere; A–Z strip
+  has no dead letters; PDFs download from the Appendix.
+
+### 2026-10-26 21:3x — USER REPORT: empty rail outline remained
+- User confirmed the duplicate Home text is gone, but pointed at the markup:
+  `<nav class="rail left" id="rail-nav" aria-label="Contents"></nav>` — an
+  empty element that still painted its border/panel column.
+- Fix in two layers, so no page can ever show a blank rail again:
+  - `site_shell.page()` puts `no-left` / `no-right` on `<body>` when that rail
+    has nothing to render; `rail_left()` / `rail_right()` now return `""`
+    instead of emitting an empty landmark (no stray screen-reader region).
+  - `site_assets/style.css`: those body classes collapse the grid column
+    (`body.no-left .layout { grid-template-columns: minmax(0,1fr) 244px }` etc.)
+    with overrides inside the 1240px and 900px breakpoints — without them the
+    higher-specificity base rules would have beaten the media queries and left
+    a phantom 244 px strip on phones. The ☰ drawer button is hidden too, since
+    it would open nothing.
+- Home now renders `class="sec-home no-left"` and has no rail element.
+
+### 2026-10-26 21:4x — cross-link panels (DoD #4) were the real gap
+- Measured per section before fixing: people 16/48, story 6/47, school 14/22,
+  world 28/29, topics 0/6, guides 0/4, appendix 0/4. The new Story axis was
+  still 36 islands — the volume pages had no Related rail at all.
+- Added `volume_related(ctx, v, exams, present, docs)` in `site_sections.py`:
+  previous/next volume in reading order, the year hub, the exams run here, the
+  tier-1/2 characters present, and the guide/transcript documents for the
+  volume. Story coverage went 6/47 → **42/47**.
+- Coverage after this turn: 11,818 links, 0 bad; 161 pages, all reachable,
+  max depth 3; `share_check` all passed (site, print, docs mirror, 6 PDFs);
+  build md5 `59ad3edfc078bc1a0066144dfeaf4f36`.
+- STILL OPEN: topics (0/6), guides (0/4), appendix (0/4) and 32 people pages
+  (mostly minor-character initial pages and hubs) have no Related panel;
+  spoiler scoping covers 74/161 pages (248 reveal buttons) — dossier-derived
+  pages only, because `section_scope` wraps `<h2>` blocks by their newest
+  citation and hub/index pages carry no per-block citations.
 
 ## Known state / risks
 - `share/site/` is currently half-orphaned (assets dir only) until the build
