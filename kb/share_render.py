@@ -136,3 +136,104 @@ def rewrite_links(html_text):
         return f'href="{target}"'
 
     return re.sub(r'href="([^"]+)"', sub, html_text)
+
+
+TABLE_SEP_RE = re.compile(r"^:?-{2,}:?$")
+EM_RE = re.compile(r"(?<![*\w])\*([^*\n]+)\*(?!\*)")
+
+
+def inline_full(text):
+    """escape, then links/code/bold/italic — authored guide files use all
+    four."""
+    out = html.escape(text, quote=False)
+    out = LINK_RE.sub(lambda m: f'<a href="{m.group(2)}">{m.group(1)}</a>', out)
+    out = CODE_RE.sub(lambda m: f"<code>{m.group(1)}</code>", out)
+    out = BOLD_RE.sub(lambda m: f"<strong>{m.group(1)}</strong>", out)
+    out = EM_RE.sub(lambda m: f"<em>{m.group(1)}</em>", out)
+    return out
+
+
+def render_full(md):
+    """authored markdown (headings, lists, tables, blockquotes, rules,
+    emphasis) → (html, headings). Used for the guide and transcript files;
+    the dossiers stay on render() so their output cannot drift."""
+    lines = md.splitlines()
+    out, headings = [], []
+    i, n = 0, len(lines)
+    while i < n:
+        line = lines[i]
+        if not line.strip():
+            i += 1
+            continue
+        mh = HEADING_RE.match(line)
+        if mh:
+            level = len(mh.group(1))
+            text = mh.group(2).strip()
+            hid = slug(text)
+            headings.append((level, hid, text))
+            out.append(f'<h{level} id="{hid}">{inline_full(text)}</h{level}>')
+            i += 1
+            continue
+        if line.strip() == "---":
+            out.append("<hr>")
+            i += 1
+            continue
+        if line.startswith("|"):
+            block = []
+            while i < n and lines[i].startswith("|"):
+                block.append(lines[i])
+                i += 1
+            rows = []
+            for j, bl in enumerate(block):
+                cells = [c.strip() for c in bl.strip().strip("|").split("|")]
+                if j == 1 and cells and all(TABLE_SEP_RE.match(c)
+                                            for c in cells if c):
+                    continue
+                rows.append(cells)
+            if rows:
+                th = "".join(f"<th>{inline_full(c)}</th>" for c in rows[0])
+                body = "".join(
+                    "<tr>" + "".join(f"<td>{inline_full(c)}</td>"
+                                     for c in r) + "</tr>"
+                    for r in rows[1:])
+                out.append(f"<table><thead><tr>{th}</tr></thead>"
+                           f"<tbody>{body}</tbody></table>")
+            continue
+        if line.startswith(">"):
+            block = []
+            while i < n and lines[i].startswith(">"):
+                block.append(lines[i].lstrip("> "))
+                i += 1
+            paras = "".join(
+                f"<p>{inline_full(p.strip())}</p>"
+                for p in "\n".join(block).split("\n\n") if p.strip())
+            out.append(f'<blockquote class="verb">{paras}</blockquote>')
+            continue
+        if line.startswith("- "):
+            items = [line[2:]]
+            i += 1
+            while i < n:
+                nxt = lines[i]
+                if nxt.startswith("- "):
+                    items.append(nxt[2:])
+                    i += 1
+                elif nxt.strip() and not HEADING_RE.match(nxt) \
+                        and not nxt.startswith(("|", "> ")) and nxt.strip() != "---":
+                    items[-1] += " " + nxt.strip()
+                    i += 1
+                else:
+                    break
+            out.append("<ul>" + "".join(f"<li>{inline_full(it)}</li>"
+                                        for it in items) + "</ul>")
+            continue
+        block = [line]
+        i += 1
+        while i < n and lines[i].strip() and not HEADING_RE.match(lines[i]) \
+                and not lines[i].startswith(("- ", "|", ">")) \
+                and lines[i].strip() != "---":
+            block.append(lines[i])
+            i += 1
+        out.append("<p>" + inline_full(" ".join(b.strip() for b in block))
+                   + "</p>")
+    return "\n".join(out), headings
+

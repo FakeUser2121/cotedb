@@ -34,9 +34,8 @@ PRINT = ROOT / "share" / "print"
 PDFS = SITE / "pdfs"
 DOCS = ROOT / "docs"
 HREF_RE = re.compile(r'(?:href|src)="([^"]+)"')
-EXPECTED_SITE = 83
 EXPECTED_PRINT = 6
-EXPECTED_PDFS = ["background", "exams", "main", "mid", "systems", "world"]
+EXPECTED_PDFS = ["guides", "people", "school", "story", "topics", "world"]
 
 
 class IdCollector(HTMLParser):
@@ -112,6 +111,69 @@ def check_search_index():
     return errors
 
 
+def check_inventory():
+    """Architecture invariants instead of a frozen page count: every section
+    in the spec is published, every volume in the database has a place on the
+    Story spine, every named principal/recurring character has a page, and
+    nothing is an orphan. Page count is reported, never asserted."""
+    import posixpath
+    from collections import deque
+    import site_arch
+
+    errors = []
+    have = {f.relative_to(SITE).as_posix() for f in SITE.rglob("*.html")}
+
+    for s in site_arch.SECTIONS:
+        if s["href"] not in have:
+            errors.append(f"section hub missing: {s['href']}")
+
+    con = site_arch.open_db()
+    vols = [r[0] for r in con.execute(
+        "SELECT vol_id FROM volumes ORDER BY chrono_order")]
+    principals = list(con.execute(
+        "SELECT char_id, canonical_name FROM characters WHERE tier <= 2 "
+        "ORDER BY tier, canonical_name"))
+    con.close()
+    for v in vols:
+        want = f"story/v/{v}/index.html"
+        if want not in have:
+            errors.append(f"volume missing from the Story spine: {want}")
+    for char_id, name in principals:
+        want = f"people/{char_id}.html"
+        if want not in have:
+            errors.append(f"principal character page missing: {want} ({name})")
+
+    # reachability: BFS over internal links from the home page
+    text_cache = {}
+    seen = {"index.html"}
+    depth = {"index.html": 0}
+    q = deque(["index.html"])
+    while q:
+        rel = q.popleft()
+        if rel not in text_cache:
+            text_cache[rel] = (SITE / rel).read_text(encoding="utf-8")
+        for u in HREF_RE.findall(text_cache[rel]):
+            if not u.startswith(("#", "http", "mailto:", "data:")):
+                path = u.partition("#")[0]
+                if path.endswith(".html") and not path.startswith("/"):
+                    key = posixpath.normpath(posixpath.join(
+                        posixpath.dirname(rel), path))
+                    if key in have and key not in seen:
+                        seen.add(key)
+                        depth[key] = depth[rel] + 1
+                        q.append(key)
+    orphans = sorted(have - seen)
+    for o in orphans:
+        errors.append(f"orphan page (unreachable from Home): {o}")
+    deep = sorted(d for d in depth.values() if d > 3)
+    if deep:
+        errors.append(f"{len(deep)} pages are more than 3 clicks from Home")
+    notes = [f"inventory: {len(have)} pages, {len(seen)} reachable, "
+             f"max depth {max(depth.values())}, {len(vols)} volumes, "
+             f"{len(principals)} principal characters"]
+    return errors, notes
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--site", action="store_true")
@@ -124,8 +186,9 @@ def main():
 
     if args.site or run_all:
         site_files = sorted(SITE.rglob("*.html"))
-        if len(site_files) != EXPECTED_SITE:
-            errors.append(f"site pages: {len(site_files)} != {EXPECTED_SITE}")
+        inv_errs, inv_notes = check_inventory()
+        errors.extend(inv_errs)
+        notes.extend(inv_notes)
         errs, checked = check_links(site_files, [])
         errors.extend(errs)
         notes.append(f"site: {len(site_files)} pages, {checked} links checked, "

@@ -213,3 +213,19 @@ Ledger tag grammar: [scene] [says] [thinks] [trait] [voice] [feat] [limit]
 - [ ] A4 mid + background
 - [ ] A5 volumes/topics/timelines
 - [ ] A6 site v2 + publish
+
+## Phase 11 — site architecture (this file is the WALK log; site work moved on)
+- The user redirected: make the website good-looking, organized and intuitive
+  FIRST — "if the main architecture is bad, no matter how much information
+  there is it won't matter". No subagents for it.
+- That work is logged turn-by-turn in **progress3.md** (new architecture spec,
+  design system, link gate, wording table, publish). Read it before assuming
+  anything about the site layer; progress2.md no longer carries site history.
+- Consequence for the walk: y1v2…y3v3 ledger data now has a place to land —
+  `story/v/<vol>/` pages, per-character volume guides and transcripts render
+  from `drafts/` automatically, and minor characters go to initial pages by
+  rule, so ledger output does not need bespoke pages.
+- Walk state unchanged by the site pass: y1v1 COMPLETE (626 [says] ALL PASS).
+  `ledgers/*` carries **uncommitted y1v2 entries** written 19:56–20:03 by the
+  walk session that was interrupted; they were deliberately left out of the
+  site commit and still need the y1v2 coverage gate (task #3 here).

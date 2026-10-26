@@ -1,0 +1,56 @@
+# COTE Encyclopedia — continuation agent
+
+Continue a long-running project: an evidence-backed COTE (*Classroom of the Elite*) LN encyclopedia built from 37 local translated volumes. You inherit prior sessions: an indexed DB, a published site, a rejected "reference machine" phase, the rebuilt plan, and the first completed volume walk. Read `progress2.md` and `PROGRESS.md` first.
+
+**All output — ledgers, progress notes, checkpoints, articles, replies — in English.**
+
+## 1. Mission
+Audiences: **fanfic writers** (voice, exact lines, scene context), **powerscalers** (feats, numbers, exam outcomes, anchors), **recall seekers** ("where is moment X?"). North star: *"the book, reorganized by question"* — a complete answer in ten seconds without returning to the novels; articles are self-contained prose, citations footnotes not substitutes.
+The user rejected the prior deliverable (a DB "reference machine" that only pointed back at the book) and the old quote layer (misattributed, ~10% coverage, context-free). Verbatim accuracy and correct attribution are non-negotiable.
+Locked priority: **"Extract data as much as possible; organization and easy search come later."** During the walk: maximal capture, no polish — later organization must derive mechanically from complete, consistently-anchored ledgers.
+
+## 2. Constraints
+- Work only inside `/home/user3/Documents/unsafe/cote`.
+- **No pip**: stdlib + installed tools; `uvx` allowed. `pdftotext`, chromium headless (print-to-pdf), `node`, `gh` proven; `graphify` absent — skip.
+- Never guess an API or schema; inspect first.
+- Code: module docstrings, **no inline comments**.
+- Keep `PROGRESS.md` (P0–P9 + decisions) and **`progress2.md`** (walk: every chapter, gate, checkpoint) current.
+- `cmd | tail; echo exit=$?` reports tail's status, not cmd's.
+- Rhythm (locked): **small steps — one change, verify, next.** Full autonomy in-phase; many turns fine; completeness beats speed. Write ledger entries immediately after each read (compaction-proofing).
+- Git guard: `text/`, `gdrive_download/`, `cote_kb.db`, `search.db` never enter repo `FakeUser2121/cote-kb`; its `docs/` feeds GitHub Pages and must stay md5-equal to `share/site`.
+
+## 3. Corpus
+37 volumes in `text/*.txt`, page markers `--- page N ---` (PDF index): y1 ×15 (v1…v11.75), y2 ×17 (v1…v12.5), y3 ×3, V0 side-stories (**walk last**). `walk_locate.py chapters` detects chapters cleanly; fixed-section fallback for the 4 marker-less tiny volumes. Strip "Goldenagato"/"RoyalMTLs" watermark lines in tools and verifiers; quote glyphs vary by volume (curly/straight/guillemets).
+Oct-25 delta (approved, partially executed): new `V0-dark` (old V0 claims **stale**), `Y3V2`, `Y3V3` — rename → convert → registry (`corpus_check.py`) → re-index only changed volumes. Old y0 DB rows superseded; **ledgers are the truth layer**.
+
+## 4. Method — plan v6 (locked): chapter-unit, volume-major walk
+Loop unit = **one chapter of one volume; one read, every card touched at once.** Order: y1v1 → y1v11.75 → y2v1 → y2v12.5 → y3v1 → y3v2 → y3v3 → y0.
+Per chapter: read (>~30 pp → two sub-reads, entries between halves); append to **every** applicable ledger (`ledgers/people/<char_id>.md`, `exams/`, `places/`, `systems/`, `volumes/<vol>.md`); mark each touched ledger `<!-- walk: <vol> ch<N> → p.N -->`; focus-sweep each main present (voice/feats/traits?). Absent characters' ledgers get **no** marker.
+Per volume: coverage gate — diff DB mention hits vs ledger pages; every locator-hit page gets an entry or an explicit `passing mention`; then a `progress2.md` row.
+Maximality: named speaker → `[says:<char_id>]` + **verbatim line** (never paraphrase a quote away); characterizing thought/narration → `[thinks]`/`[back]`; behavior/abilities/tells → `[trait]`/`[feat]`/`[limit]`; rules, numbers, point moves → `[rule]`/`[status:points]`; relationships → `[rel:<id>]` on **each** participant's ledger, mirrored from the same scene; every present roster character ≥1 entry per chapter; a new fact type needs a census row **before** first use (no junk drawer).
+Census (16 kinds, locked): `[scene] [says] [thinks] [trait] [voice] [feat] [limit] [rel:<id>] [status] [back] [rule] [exam:<id>] [place:<id>] [class:<id>] [trivia]`. Ayanokōji narrates → his sweep is a full linear read; non-POV characters are mention-anchored. Ledgers are **append-only markdown**.
+The local-LLM extraction experiment was **rejected by the user**, pipeline deleted — **do not resurrect it**. Proceed manual.
+
+## 5. Verbatim fidelity (the crisis you must never repeat)
+A prior fill pass produced **~55 fabricated `[says]` quotes** (memory of the Yen Press translation/anime, not corpus text). Repaired; discipline permanent.
+- Every quoted string must be **corpus-exact**. Verifier: NFKC-normalize, strip headers/footers, alphanumeric-stream containment in the cited ±5 pp window, then full-volume fallback. `/tmp/opencode`: `verify2.py` (says), `verify3.py` (non-says), `verify_articles.py` (spans) — rebuild from this spec if /tmp is cleared.
+- Verify after **every** writing batch; never close a chapter on a failing quote. Fix by substituting corpus-exact content, not deleting the insight.
+- Corrections stand: bus-challenger lines (y1v1 pp.19–20) = office lady; the uniformed girl (p.21) being Kushida is an **inference, noted as such**; red-haired delinquent = Sudō (not Ryuuen); Horikita's "club betrayal" rewritten to actual pp.59–62; unverified Kōenji claims stay NULL.
+- Never present an inference as fact.
+
+## 6. Deliverables (plan v5 IA, locked; built at A5/A6, not during the walk)
+Site map: **People · Story (volumes) · Exams & School · World · Topics · Portals (writers / powerscalers / "I forgot that") · Appendix** (old dossiers demoted); every page one breadcrumb-click from home. Article skeletons and readability (sticky nav + TOC + search, **spoiler control via "read up to Vol. N" localStorage**, cross-links, citation chips `(y2v9 p.13)` expanding to verbatim support) are locked in project docs — follow, don't redesign.
+Pipeline: ledgers → typed tags → assembly → **fact-trace gate** (each served assertion traces to a ledger line with a page anchor) → site v2 → PDFs → publish.
+Public voice: macron names (Ayanokōji, Kōenji); neutral encyclopedic; lead answers the title. **Zero agent jargon in served pages** — no "walk", "Phase 10", "dossier", `char_id`, `conf 0.9`, "cote_kb.db"; footer explains "y1v1 p.247 = Year 1, Volume 1, page 247".
+
+## 7. State (2026-10-26; progress files are authoritative)
+P0–P9 legacy DB and site v1 are live, but `cote_kb.db` attribution is diagnosed broken — **locator/hints only, never serve**. The Ayanokōji y1v1 pilot was user-approved and the **y1v1 fill pass is COMPLETE** (ch1–ch12 + postscript, pp.1–264) across ~16 people ledgers plus new exams/places/systems/volumes ledgers; his v1 card stays valid (no redo). **Checkpoint A1 awaits user review**: Horikita + Kushida y1v1 transcript and article in `drafts/people/`.
+
+## 8. Next moves
+1. Get (or assume waved-through) A1 review of the four Horikita/Kushida files; apply format feedback to the template before scaling.
+2. Continue the walk: **y1v2 next**, then y1v3 → … → y3v3, V0 last — per-chapter ledger writes, per-volume gates, `progress2.md` rows. Checkpoint after y1v2 for rhythm, then head-down autonomous execution.
+3. Fix the display-id queue when convenient.
+4. Corpus end: A3/A4 gaps-only sweep → A5 assembly (fact-trace gate) → A6 site v2 + PDFs + push + Pages publish.
+
+## 9. This user
+Direct, short verdicts ("GO"); fold implications into the plan without re-litigating. Values honest tradeoff disclosure, sample-first approval before scaling, plain language, durable progress files over conversation memory. Present checkpoints as reviewable files with exact paths. Never re-ask what is locked above.

@@ -1,95 +1,88 @@
 (function () {
-  var input = document.getElementById('q');
-  var box = document.getElementById('results');
-  if (!input || !box || typeof SEARCH_INDEX === 'undefined') return;
-  var ROOT = document.body.getAttribute('data-root') || '';
-  var sel = -1;
-
-  function esc(s) {
-    return s.replace(/[&<>"]/g, function (c) {
-      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c];
-    });
-  }
-  function search(q) {
-    q = q.trim().toLowerCase();
-    if (q.length < 2) return [];
-    var terms = q.split(/\s+/);
-    var hits = [];
-    for (var i = 0; i < SEARCH_INDEX.length; i++) {
-      var r = SEARCH_INDEX[i];
-      var t = (r.t + ' ' + r.s + ' ' + r.x).toLowerCase();
-      var score = 0, ok = true;
-      for (var j = 0; j < terms.length; j++) {
-        var w = terms[j];
-        if (t.indexOf(w) < 0) { ok = false; break; }
-        if (r.t.toLowerCase().indexOf(w) >= 0) score += 4;
-        if (r.s.toLowerCase().indexOf(w) >= 0) score += 3;
-        score += 1;
-      }
-      if (ok) hits.push({ r: r, score: score, at: t.indexOf(terms[0]) });
+  var input = document.getElementById("q");
+  var box = document.getElementById("results");
+  if (!input || !box || typeof SEARCH_INDEX === "undefined") return;
+  var root = document.body.getAttribute("data-root") || "";
+  var sel = -1, hits = [];
+  var norm = function (s) {
+    return s.toLowerCase().normalize("NFKD").replace(/[\u0300-\u036f]/g, "");
+  };
+  var tokens = function (s) { return norm(s).replace(/[^a-z0-9 ]/g, " ").split(/\s+/).filter(Boolean); };
+  var pool = SEARCH_INDEX.map(function (r) {
+    return { r: r, hay: norm([r.t, r.s, r.k || "", r.x].join(" ")), toks: tokens(r.t + " " + r.s) };
+  });
+  function score(item, qtoks) {
+    var hay = item.hay, s = 0, all = true;
+    for (var i = 0; i < qtoks.length; i++) {
+      var t = qtoks[i];
+      if (hay.indexOf(t) === -1) { all = false; continue; }
+      s += 1;
+      if (item.toks.indexOf(t) !== -1) s += 3;
     }
-    hits.sort(function (a, b) { return b.score - a.score || a.at - b.at; });
-    return hits.slice(0, 12);
-  }
-  function snippet(x, terms) {
-    var low = x.toLowerCase(), at = -1;
-    for (var j = 0; j < terms.length && at < 0; j++) at = low.indexOf(terms[j]);
-    if (at < 0) at = 0;
-    var a = Math.max(0, at - 55), b = Math.min(x.length, at + 95);
-    var s = (a > 0 ? '…' : '') + x.slice(a, b) + (b < x.length ? '…' : '');
-    s = esc(s);
-    for (var k = 0; k < terms.length; k++) {
-      var re = new RegExp('(' + terms[k].replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + ')', 'ig');
-      s = s.replace(re, '<mark>$1</mark>');
-    }
+    if (!all && qtoks.length > 1) return 0;
+    if (all) s += 4;
     return s;
   }
-  function render(q) {
-    var terms = q.trim().toLowerCase().split(/\s+/);
-    var hits = search(q);
-    sel = -1;
-    if (!q.trim() || q.trim().length < 2) { box.hidden = true; return; }
-    if (!hits.length) {
-      box.innerHTML = '<div class="none">No matches for “' + esc(q) + '”</div>';
-      box.hidden = false; return;
+  function run(q) {
+    var qtoks = tokens(q);
+    if (!qtoks.length) return [];
+    var out = [];
+    for (var i = 0; i < pool.length; i++) {
+      var sc = score(pool[i], qtoks);
+      if (sc > 0) out.push([sc, pool[i]]);
     }
-    var html = '';
-    for (var i = 0; i < hits.length; i++) {
-      var r = hits[i].r;
-      html += '<a href="' + ROOT + r.u + '">' +
-        '<div class="rt">' + esc(r.t) + '</div>' +
-        '<div class="rs">' + esc(r.s) + '</div>' +
-        '<div class="rx">' + snippet(r.x, terms) + '</div></a>';
-    }
-    box.innerHTML = html;
-    box.hidden = false;
+    out.sort(function (a, b) { return b[0] - a[0]; });
+    return out.slice(0, 24).map(function (p) { return p[1]; });
   }
-  input.addEventListener('input', function () { render(input.value); });
-  input.addEventListener('focus', function () { render(input.value); });
-  document.addEventListener('click', function (e) {
+  function snippet(item, qtoks) {
+    var x = item.r.x || "";
+    var low = norm(x);
+    for (var i = 0; i < qtoks.length; i++) {
+      var at = low.indexOf(qtoks[i]);
+      if (at > -1) {
+        var s = Math.max(0, at - 60), e = Math.min(x.length, at + 180);
+        return (s ? "…" : "") + x.slice(s, e) + (e < x.length ? "…" : "");
+      }
+    }
+    return x.slice(0, 200);
+  }
+  function esc(s) {
+    return String(s).replace(/[&<>"]/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c];
+    });
+  }
+  function draw(q) {
+    hits = run(q); sel = -1;
+    if (!q) { box.hidden = true; box.innerHTML = ""; return; }
+    if (!hits.length) {
+      box.hidden = false;
+      box.innerHTML = '<div class="none">Nothing matches “' + esc(q) + '”.</div>';
+      return;
+    }
+    var qtoks = tokens(q);
+    var out = hits.map(function (item, i) {
+      var r = item.r;
+      return '<a href="' + root + r.u + '" class="' + (i === sel ? "sel" : "") + '">'
+        + '<div class="rt">' + esc(r.t) + '</div>'
+        + (r.s && r.s !== r.t ? '<div class="rs">' + esc(r.k ? r.k + " · " : "") + esc(r.s) + '</div>' : '<div class="rs">' + esc(r.k || "") + '</div>')
+        + '<div class="rx">' + esc(snippet(item, qtoks)) + '</div></a>';
+    });
+    box.hidden = false; box.innerHTML = out.join("");
+  }
+  input.addEventListener("input", function () { draw(input.value.trim()); });
+  input.addEventListener("focus", function () { if (input.value) draw(input.value.trim()); });
+  input.addEventListener("keydown", function (e) {
+    if (e.key === "ArrowDown" || e.key === "ArrowUp") {
+      e.preventDefault();
+      var links = box.querySelectorAll("a"); if (!links.length) return;
+      sel = e.key === "ArrowDown" ? Math.min(sel + 1, links.length - 1) : Math.max(sel - 1, 0);
+      for (var i = 0; i < links.length; i++) links[i].className = i === sel ? "sel" : "";
+      links[sel].scrollIntoView({ block: "nearest" });
+    } else if (e.key === "Enter" && sel >= 0) {
+      var l = box.querySelectorAll("a")[sel]; if (l) window.location.href = l.href;
+    } else if (e.key === "Escape") { box.hidden = true; input.blur(); }
+  });
+  document.addEventListener("click", function (e) {
     if (!box.contains(e.target) && e.target !== input) box.hidden = true;
   });
-  document.addEventListener('keydown', function (e) {
-    var links = box.querySelectorAll('a');
-    if (e.key === '/' && document.activeElement !== input) {
-      e.preventDefault(); input.focus(); input.select();
-    } else if (e.key === 'Escape') { box.hidden = true; input.blur(); }
-    else if (e.key === 'ArrowDown' && !box.hidden && links.length) {
-      e.preventDefault(); sel = Math.min(sel + 1, links.length - 1); mark(links);
-    } else if (e.key === 'ArrowUp' && !box.hidden && links.length) {
-      e.preventDefault(); sel = Math.max(sel - 1, 0); mark(links);
-    } else if (e.key === 'Enter' && !box.hidden && links.length && sel >= 0) {
-      e.preventDefault(); links[sel].click();
-    }
-  });
-  function mark(links) {
-    for (var i = 0; i < links.length; i++)
-      links[i].classList.toggle('sel', i === sel);
-    if (links[sel]) links[sel].scrollIntoView({ block: 'nearest' });
-  }
-  if (location.hash.indexOf('#q=') === 0) {
-    input.value = decodeURIComponent(location.hash.slice(3));
-    input.focus();
-    render(input.value);
-  }
 })();

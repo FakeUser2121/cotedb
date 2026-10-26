@@ -1,23 +1,11 @@
-COTE Knowledge Base — share site
-===============================
+COTE Knowledge Base — static site
+================================
 
-Static HTML site over the evidence-backed knowledge base for the
-Classroom of the Elite light novels.
+Built by:  python3 kb/build_share_site.py
+Serve:     open index.html (no server needed), or publish the folder.
 
-  index.html            start here (stats + sections + PDF downloads)
-  background.html       background characters
-  main/ mid/            character profiles (section-preserving)
-  world/                world / location profiles
-  exams/                exam profiles + master chronology
-  systems/              school systems (points, council, clubs, expulsion)
-  vol1/                 Year 1, Volume 1 — guides + scene transcripts
-  pdfs/                 6 per-category PDFs (print editions of the site)
-  assets/               stylesheet + client-side search index
+Sections: People · Story · Exams & School · World & Places · Topics ·
+Start here · Appendix.
 
-Search: press / (or click the box in the header). Works opened from
-disk (file://) — the index is a JS constant, no server needed.
-
-Developer notes: generated — never hand-edit. Regenerate:
-  python3 kb/build_share_site.py
-Built from the repository knowledge base. Verbatim quotes are cited
-with volume + page anchors (e.g. y1v1 p.247).
+Every quotation is verbatim from the translated light novels and carries a
+volume + page citation (y1v1 p.247 = Year 1, Volume 1, page 247).
