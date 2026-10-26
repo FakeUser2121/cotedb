@@ -41,14 +41,14 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import site_arch  # noqa: E402
 import site_data as D  # noqa: E402
+import site_ledgers  # noqa: E402
 import site_sections as SEC  # noqa: E402
 import site_topics as TOP  # noqa: E402
 import site_shell as S  # noqa: E402
 from roster_mine import DB_PATH  # noqa: E402
-from share_render import render, slug  # noqa: E402
+from share_render import slug  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
-DOSSIERS = ROOT / "dossiers"
 SITE = ROOT / "share" / "site"
 PRINT = ROOT / "share" / "print"
 ASSETS = Path(__file__).resolve().parent / "site_assets"
@@ -130,115 +130,74 @@ def plan_vol_docs(ctx):
 
 
 def build_pathmap(ctx):
-    for f in sorted(DOSSIERS.rglob("*.md")):
-        rel = f.relative_to(DOSSIERS).as_posix()
-        key = f"dossiers/{rel}"
-        parts = rel.split("/")
-        if parts[0] == "main":
-            ctx["pathmap"][key] = (
-                "people/index.html" if parts[-1] == "index.md"
-                else f"people/{parts[-1][:-3]}.html")
-        elif parts[0] == "mid":
-            ctx["pathmap"][key] = (
-                "people/index.html" if parts[-1] == "index.md"
-                else f"people/{parts[-1][:-3]}.html")
-        elif parts[0] == "exams":
-            if parts[-1] == "index.md":
-                ctx["pathmap"][key] = "school/index.html"
-            elif parts[-1] == "chronology.md":
-                ctx["pathmap"][key] = "school/chronology.html"
-            else:
-                ctx["pathmap"][key] = f"school/exam/{parts[-1][:-3]}.html"
-        elif parts[0] == "systems":
-            ctx["pathmap"][key] = (
-                "school/index.html" if parts[-1] == "index.md"
-                else f"school/system/{parts[-1][:-3]}.html")
-        elif parts[0] == "world":
-            ctx["pathmap"][key] = (
-                "world/index.html" if parts[-1] == "index.md"
-                else f"world/{parts[-1][:-3]}.html")
-        elif rel == "background.md":
-            ctx["pathmap"][key] = "people/index.html"
-        else:
-            ctx["pathmap"][key] = f"appendix/index.html"
+    """Rewrite table for markdown links that still point at the retired
+    dossier tree. Built from the database rows, not from dossiers/, so the
+    build never reads that directory; it only knows what a stale link would
+    have meant."""
+    def put(key, out):
+        ctx["pathmap"].setdefault(key, out)
+
+    for c in ctx["chars"]:
+        cid = c["id"]
+        put(f"dossiers/main/{cid}.md", c["href"])
+        put(f"dossiers/mid/{c['group']}/{cid}.md", c["href"])
+    for e in ctx["exam_rows"]:
+        put(f"dossiers/exams/{e['id']}.md", f"school/exam/{e['id']}.html")
+    for s in ctx["system_rows"]:
+        put(f"dossiers/systems/{s['id']}.md", f"school/system/{s['id']}.html")
+    for loc in ctx["loc_rows"]:
+        put(f"dossiers/world/{loc['id']}.md", f"world/{loc['id']}.html")
+    put("dossiers/exams/chronology.md", "school/chronology.html")
+    for group in ("main", "mid", "exams", "systems", "world"):
+        put(f"dossiers/{group}/index.md",
+            {"main": "people/index.html", "mid": "people/index.html",
+             "exams": "school/index.html", "systems": "school/index.html",
+             "world": "world/index.html"}[group])
+    put("dossiers/background.md", "people/index.html")
     for extra in ["index.html", "people/index.html", "story/index.html",
                   "school/index.html", "world/index.html",
                   "topics/index.html", "guides/index.html",
                   "appendix/index.html"]:
-        ctx["pathmap"].setdefault(extra, extra)
+        put(extra, extra)
 
 
 def collect_metas(ctx):
-    """Person, exam, system and place page metas."""
+    """Person, exam, system and place page metas.
+
+    Driven by the roster and the walk ledgers, never by dossiers/: every
+    page here is either ledger-backed or an honest stub. A character gets a
+    page when the series follows them (tier 1–2) or when the walk wrote them
+    up; everyone else stays an entry on their initial's page.
+    """
     metas = []
-    for f in sorted((DOSSIERS / "main").glob("*.md")):
-        if f.name == "index.md":
-            continue
-        cid = f.stem
+    cids = [c["id"] for c in ctx["chars"] if c["tier"] in D.OWN_PAGE_TIERS]
+    for stem in site_ledgers.all_ledgers("people"):
+        if stem not in cids:
+            cids.append(stem)
+    for cid in sorted(cids):
+        c = ctx["char_by_id"].get(cid, {})
         metas.append({"kind": "person", "char_id": cid,
-                      "src": str(f), "src_rel": f"dossiers/main/{f.name}",
-                      "out": f"people/{cid}.html",
-                      "title": ctx["char_by_id"].get(cid, {}).get("name", cid)})
-    for g in site_data_groups():
-        for f in sorted((DOSSIERS / "mid" / g).glob("*.md")):
-            if f.name == "index.md":
-                continue
-            cid = f.stem
-            metas.append({"kind": "person", "char_id": cid,
-                          "src": str(f),
-                          "src_rel": f"dossiers/mid/{g}/{f.name}",
-                          "out": f"people/{cid}.html",
-                          "title": ctx["char_by_id"].get(cid, {}).get("name", cid)})
+                      "src": None, "src_rel": f"ledgers/people/{cid}.md",
+                      "out": c.get("href", f"people/{cid}.html"),
+                      "title": c.get("name", cid)})
     for row in ctx["exam_rows"]:
-        src = DOSSIERS / "exams" / f"{row['id']}.md"
-        if not src.exists():
-            continue
-        metas.append({"kind": "exam", "row": row, "src": str(src),
-                      "src_rel": f"dossiers/exams/{src.name}",
+        metas.append({"kind": "exam", "row": row, "src": None,
+                      "src_rel": f"ledgers/exams/{row['id']}.md",
                       "out": f"school/exam/{row['id']}.html",
                       "title": row["name"]})
-    chron = DOSSIERS / "exams" / "chronology.md"
-    if chron.exists():
-        metas.append({"kind": "chronology", "src": str(chron),
-                      "src_rel": "dossiers/exams/chronology.md",
-                      "out": "school/chronology.html",
-                      "title": "Exam chronology"})
+    metas.append({"kind": "chronology", "src": None, "src_rel": "",
+                  "out": "school/chronology.html",
+                  "title": "What has been read, in order"})
     for row in ctx["system_rows"]:
-        src = DOSSIERS / "systems" / f"{row['id']}.md"
-        if not src.exists():
-            continue
-        metas.append({"kind": "system", "row": row, "src": str(src),
-                      "src_rel": f"dossiers/systems/{src.name}",
+        metas.append({"kind": "system", "row": row, "src": None,
+                      "src_rel": f"ledgers/systems/{row['id']}.md",
                       "out": f"school/system/{row['id']}.html",
                       "title": row["name"]})
     for row in ctx["loc_rows"]:
-        src = DOSSIERS / "world" / f"{row['id']}.md"
-        if not src.exists():
-            continue
-        metas.append({"kind": "place", "row": row, "src": str(src),
-                      "src_rel": f"dossiers/world/{src.name}",
+        metas.append({"kind": "place", "row": row, "src": None,
+                      "src_rel": f"ledgers/places/{row['id']}.md",
                       "out": f"world/{row['id']}.html", "title": row["name"]})
     return metas
-
-
-def site_data_groups():
-    d = DOSSIERS / "mid"
-    return [p.name for p in sorted(d.iterdir()) if p.is_dir()]
-
-
-def render_dossier_meta(ctx, meta):
-    """Chronology keeps its authored body and joins the school section."""
-    md = SEC.reword(Path(meta["src"]).read_text(encoding="utf-8"))
-    body, headings = render(md)
-    body = S.resolve_links(body, meta["src_rel"], ctx["pathmap"], meta["out"])
-    body = S.chipify(body, ctx["lookup"])
-    body = SEC.section_scope(body, ctx["vols"])
-    rail = SEC.school_rail(ctx)
-    crumb = [("Home", "index.html"),
-             ("Exams & School", "school/index.html"), (meta["title"], None)]
-    return ctx["page"](meta["title"], "school", body, crumb, out=meta["out"],
-                       rail=rail, headings=headings, kicker="Reference",
-                       tagline_label="Exams & School", scope=ctx["scope"])
 
 
 def build_ctx(con, stats):
@@ -249,9 +208,8 @@ def build_ctx(con, stats):
         "exam_pack": D.exams(con),
         "loc_rows": D.locations(con),
         "system_rows": D.systems(con),
-        "timeline": D.status_timeline(con),
-        "relations": D.relations(con),
-        "claims": D.claims(con),
+        # The pre-walk curated layers (status_timeline, relations, claims) are
+        # deliberately not loaded: no page may render prose from them.
         "walk": D.walk_state(),
         "pathmap": {},
         "vol_docs": {},
@@ -259,15 +217,15 @@ def build_ctx(con, stats):
         "minor_letters": [],
     }
     ctx["char_by_id"] = {c["id"]: c for c in ctx["chars"]}
+    ctx["mentions_by_char"] = D.coverage_by_char(con)
+    ctx["aliases_by_char"] = D.aliases_by_char(con)
+    ctx["evidence"] = site_ledgers.volume_index()
     ctx["exam_rows"] = ctx["exam_pack"]["list"]
     ctx["exam_list"] = ctx["exam_rows"]
     ctx["system_list"] = ctx["system_rows"]
     ctx["loc_list"] = ctx["loc_rows"]
     ctx["exams_by_vol"] = ctx["exam_pack"]["by_vol"]
     ctx["exam_name"] = {e["id"]: e["name"] for e in ctx["exam_rows"]}
-    ctx["claims_by_char"] = {}
-    for cl in ctx["claims"]:
-        ctx["claims_by_char"].setdefault(cl["char_id"], []).append(cl)
     ctx["vol_list"] = [ctx["vols"][k] for k in ctx["vols"]]
     ctx["scope"] = scope_options(ctx)
     ctx["lookup"] = memo_lookup(con)
@@ -565,7 +523,7 @@ def main():
 
     con = sqlite3.connect(DB_PATH)
     people = D.characters(con)
-    walked = sum(1 for s in D.walk_state().values() if s.get("complete"))
+    vidx = site_ledgers.volume_index()
     stats = {
         "chars": len(people),
         "vols": con.execute("SELECT count(*) FROM volumes").fetchone()[0],
@@ -573,7 +531,9 @@ def main():
         "places": con.execute("SELECT count(*) FROM locations").fetchone()[0],
         "systems": con.execute("SELECT count(*) FROM systems").fetchone()[0],
         "quotes": con.execute("SELECT count(*) FROM quotes").fetchone()[0],
-        "walked": walked,
+        "walked": len(vidx),
+        "evidenced_vols": len(vidx),
+        "scenes": sum(v["blocks"] for v in vidx.values()),
     }
 
     ctx = build_ctx(con, stats)
@@ -591,6 +551,11 @@ def main():
     pages.extend(SEC.minor_pages(ctx))
     for m in metas:
         if m["kind"] == "person":
+            # A character whose page is an anchor on a minor A–Z page is
+            # rendered there; giving them a second file would duplicate the
+            # entry and produce a path with '#' in it.
+            if "#" in m["out"]:
+                continue
             pages.append(SEC.person_page(ctx, m))
         elif m["kind"] == "exam":
             pages.append(SEC.exam_page(ctx, m))
@@ -599,7 +564,7 @@ def main():
         elif m["kind"] == "place":
             pages.append(SEC.place_page(ctx, m))
         elif m["kind"] == "chronology":
-            pages.append((m["out"], render_dossier_meta(ctx, m)))
+            pages.append((m["out"], SEC.chronology_page(ctx, m)))
     pages.append(("story/index.html", SEC.story_index(ctx)))
     for year in (0, 1, 2, 3):
         if any(v["year"] == year for v in ctx["vol_list"]):

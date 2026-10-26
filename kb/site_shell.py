@@ -182,8 +182,8 @@ def meter_block(pairs):
 
 FOOTER = """<footer class="site">
   Quotes are verbatim from the Classroom of the Elite light novels.
-  A citation such as <code>y1v1 p.247</code> means Year 1, Volume 1,
-  page 247; page numbers follow the printed volume.
+  A citation such as <code>Vol. 1 p.247</code> means page 247 of Year 1,
+  Volume 1; page numbers follow the printed volume.
   <div class="fl">
     <a href="{root}appendix/citations.html">How to read a citation</a>
     <a href="{root}appendix/coverage.html">Which volumes this covers</a>
@@ -323,7 +323,12 @@ def resolve_links(text, src_rel, pathmap, out_rel):
 
 def chipify(text, lookup):
     """Turn 'y1v1 p.247' style citations into chips that expand to the
-    verbatim text sitting on that page. lookup(vol_id, page) -> [str]."""
+    verbatim text sitting on that page. lookup(vol_id, page) -> [str].
+
+    The visible label is the human one ("Vol. 1 p.247"); the file's own volume
+    id never reaches the reader. Regions that are already a chip are left
+    alone, so running this over an assembled page cannot nest one chip inside
+    another."""
     if lookup is None:
         return text
 
@@ -336,16 +341,27 @@ def chipify(text, lookup):
             proof = lookup(vol, page)
         except Exception:
             proof = []
+        shown = f"{site_arch.volume_short(vol)} {label[len(vol):].strip()}"
         if not proof:
-            return f'<span class="cite">{esc(label)}</span>'
+            return f'<span class="cite">{esc(shown)}</span>'
         lines = "".join(
             f'<div class="verb">{esc(p[:400])}</div>' for p in proof)
         src = f'<span class="src">{esc(site_arch.volume_label(vol))}, ' \
               f'page {page}</span>'
         return (f'<details class="citebox"><summary class="cite" '
-                f'title="Show the text on this page">{esc(label)}</summary>'
+                f'title="Show the text on this page">{esc(shown)}</summary>'
                 f'<span class="citeproof">{lines}{src}</span></details>')
 
-    return re.sub(
+    CITE_RE = re.compile(
         r"\b(y0|y[123]v\d+(?:\.\d+)?)\s+(?:pp?\.|p)\s*(\d+)"
-        r"(?:\s*[–-]\s*\d+)?", rep, text)
+        r"(?:\s*[–-]\s*\d+)?", re.ASCII)
+    BOX_RE = re.compile(r'<details class="citebox">.*?</details>', re.S)
+
+    out = []
+    at = 0
+    for box in BOX_RE.finditer(text):
+        out.append(CITE_RE.sub(rep, text[at:box.start()]))
+        out.append(box.group(0))
+        at = box.end()
+    out.append(CITE_RE.sub(rep, text[at:]))
+    return "".join(out)

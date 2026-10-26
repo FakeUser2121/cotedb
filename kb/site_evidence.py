@@ -1,0 +1,229 @@
+#!/usr/bin/env python3
+"""Render walk-ledger evidence into the site's HTML vocabulary.
+
+Every block here comes from ledgers/ (see site_ledgers.py): a scene heading
+with a page range, and typed entries underneath. Two things happen on the way
+out that the old dossier layer could not do:
+
+  - each page anchor becomes an expandable chip carrying the verbatim text
+    sitting on that page (site_shell.chipify), so a claim is checkable
+    without leaving the page;
+  - each [rel:other-character] entry becomes a link to that character's page,
+    which is where the People graph now comes from — not from the pre-walk
+    relations table.
+
+Nothing in this module invents prose. If a page has no ledger it gets
+coverage_stub(), which states the evidence state and links to what exists.
+"""
+
+import posixpath
+import re
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import site_arch  # noqa: E402
+import site_ledgers as L  # noqa: E402
+import site_shell as S  # noqa: E402
+
+esc = S.esc
+
+
+def _dir_of(path):
+    """Accept either a page's output path ('school/exam/x.html') or a plain
+    directory ('school/exam') and always return the directory."""
+    return posixpath.dirname(path) if path.endswith(".html") else path
+
+
+def vol_chip(ctx, vol_id, out_rel, tag=False):
+    """Volume name as a link to that volume's page, safe from any depth.
+    `tag` picks the compact 'Y1 V3' form for lists that mix years."""
+    label = site_arch.volume_tag(vol_id) if tag else site_arch.volume_short(vol_id)
+    href = posixpath.relpath(f"story/v/{vol_id}/index.html",
+                             _dir_of(out_rel) or ".")
+    return f'<a class="vlink" href="{href}">{esc(label)}</a>'
+
+
+def cite(ctx, vol_id, pages):
+    """'y1v1 p.21' -> a chip that opens the text sitting on that page."""
+    if not pages:
+        return ""
+    return S.chipify(f"{vol_id} {pages}", ctx["lookup"])
+
+
+def pin(ctx, vol_id, pages):
+    """A page anchor inside a scene: visible, but not another copy of the
+    page's text. One expandable proof per scene is enough — a chip on every
+    entry would repeat the same page text fifty times and turn the page into
+    a dump."""
+    if not pages:
+        return ""
+    return f'<span class="cite">{esc(pages)}</span>'
+
+
+def entry_html(ctx, entry, vol_id, out_rel):
+    group, label, target = L.marker_info(entry["marker"], entry["target"])
+    text = entry["text"] or ""
+    cite_html = pin(ctx, vol_id, entry["pages"])
+    cls = f'e-{group}'
+    inner = ""
+    if target:
+        other = ctx["char_by_id"].get(target)
+        if other:
+            href = posixpath.relpath(other["href"],
+                                     posixpath.dirname(out_rel) or ".")
+            inner = f'<a class="rel" href="{href}">{esc(other["name"])}</a> — '
+        else:
+            inner = f'{esc(site_arch.display_name("", target))} — '
+    if entry["quote"]:
+        body = f'<p class="verb">{esc(text)}</p>'
+    else:
+        body = f'<p>{esc(text)}</p>'
+    tail = f' <span class="pin">{cite_html}</span>' if cite_html else ""
+    return (f'<li class="{cls}"><span class="mlabel">{esc(label)}</span>'
+            f'{body}{inner}{tail}</li>')
+
+
+def scene_block(ctx, block, out_rel, *, show_vol=True, fold=False):
+    """One ledger scene: heading (volume + pages + title) and its entries.
+
+    fold=True puts the entries behind a disclosure so a page with two hundred
+    scenes still reads as a list of moments, not a wall of transcript; the
+    heading keeps the title, the pages and the proof chip visible."""
+    vol = block["vol"]
+    head = ['<div class="head">']
+    if show_vol:
+        head.append(f'<span class="pg">{vol_chip(ctx, vol, out_rel)}</span>')
+    head.append(f'<span class="ttl">{esc(block["title"])}</span>')
+    if block["pages"]:
+        head.append(f'<span class="pgs">{cite(ctx, vol, block["pages"])}</span>')
+    head.append("</div>")
+    items = [entry_html(ctx, e, vol, out_rel) for e in block["entries"] if e["text"]]
+    if not items:
+        return ""
+    anchor = re.sub(r"[^a-z0-9]+", "-", block["heading"].lower()).strip("-")[:48]
+    list_html = f'<ul class="ledger">{"".join(items)}</ul>'
+    if fold:
+        n_lines = sum(1 for b in [block] for e in b["entries"] if e["quote"])
+        count = (f'{len(items)} entries'
+                 f'{f" · {n_lines} quoted" if n_lines else ""}')
+        return (f'<details class="scene ev" id="ev-{anchor}">'
+                f'<summary>{"".join(head)}'
+                f'<span class="n">{count}</span></summary>{list_html}</details>')
+    return (f'<div class="scene ev" id="ev-{anchor}">'
+            + "".join(head) + list_html + "</div>")
+
+
+def volume_sections(ctx, led, out_rel, *, only=None, with_heading=True,
+                    fold=False,
+                    heading=lambda vol: site_arch.volume_label(vol)):
+    """All scene blocks of a parsed ledger, grouped by volume, oldest first."""
+    order = {v["id"]: v["order"] for v in ctx["vol_list"]}
+    out = []
+    sections = [s for s in led["vols"] if only is None or s["vol"] in only]
+    sections.sort(key=lambda s: order.get(s["vol"], 999))
+    for section in sections:
+        blocks = [scene_block(ctx, b, out_rel, fold=fold)
+                  for b in section["blocks"]]
+        blocks = [b for b in blocks if b]
+        if not blocks:
+            continue
+        if with_heading:
+            out.append(f'<h2 id="ev-{section["vol"]}">'
+                       f'{esc(heading(section["vol"]))}</h2>')
+        out.append("".join(blocks))
+    return "".join(out)
+
+
+def evidence_count(led, vol=None):
+    """Scenes and quoted lines a ledger contributes — used in meters."""
+    scenes = quotes = 0
+    for section in led["vols"]:
+        if vol and section["vol"] != vol:
+            continue
+        scenes += len(section["blocks"])
+        for b in section["blocks"]:
+            quotes += sum(1 for e in b["entries"] if e["quote"] and e["text"])
+    return scenes, quotes
+
+
+def evidence_meters(ctx, led, vol=None):
+    scenes, quotes = evidence_count(led, vol)
+    vols = [s["vol"] for s in led["vols"] if vol is None or s["vol"] == vol]
+    return [("Volumes worked", str(len(vols))),
+            ("Scenes transcribed", f"{scenes:,}"),
+            ("Quoted lines", f"{quotes:,}")]
+
+
+def coverage_stub(ctx, *, subject, vol_ids=(), base=".", extra=""):
+    """The honest page: what the walk has not reached yet, and where the
+    evidence will land when it does. `base` is the page's own directory (or
+    its output path), so every link here is depth-correct. No analysis, no summary, no spoilers.
+    Unread volumes fall back to a single line of reference links rather than
+    one repeated bullet per volume."""
+    if vol_ids:
+        shown = list(vol_ids)[:14]
+        chips = " · ".join(vol_chip(ctx, v, base, tag=True) for v in shown)
+        more = "" if len(vol_ids) <= 14 else \
+            f' <span class="n">and {len(vol_ids) - 14} more</span>'
+        vols = (f'<p>Named in {len(vol_ids)} volume'
+                f'{"s" if len(vol_ids) != 1 else ""} — {chips}{more} — and '
+                f'read line by line in none of them yet. Each link goes to '
+                f'that volume\'s page, where the notes appear once it has '
+                f'been read. See '
+                f'<a href="{posixpath.relpath("appendix/coverage.html", _dir_of(base) or ".")}">'
+                f'what has been read</a>.</p>')
+    else:
+        vols = (f'<p>This has not been worked through page by page yet, so '
+                f'there is nothing to show beyond the mechanical facts above.</p>')
+    return (f'<div class="box warn stub"><h4>Evidence state</h4>'
+            f'<p>Nothing about {esc(subject)} has been read line by line yet. '
+            f'This encyclopedia only publishes what someone has read and '
+            f'anchored to a page, so this page lists what exists rather than '
+            f'filling the gap.</p>'
+            f'{vols}{extra}</div>')
+
+
+def mechanical_facts(pairs):
+    """Facts that need no reading: counts, lengths, which volumes a name is
+    written in. Everything here is a query result, not an interpretation."""
+    rows = "".join(f'<tr><th>{esc(k)}</th><td>{v}</td></tr>'
+                   for k, v in pairs if v not in (None, "", 0, "0"))
+    return f'<table class="facts">{rows}</table>' if rows else ""
+
+
+def mentions_by_volume(ctx, char_id, out_rel, limit=None):
+    """'Named in these volumes' — the extractor's mention table, so it is safe
+    to publish on a volume the walk has not read yet. It says where a name is
+    written, nothing more."""
+    rows = ctx["mentions_by_char"].get(char_id) or []
+    order = {v["id"]: v["order"] for v in ctx["vol_list"]}
+    by_vol = {}
+    for r in rows:
+        by_vol.setdefault(r["vol_id"], set()).add(r["status"])
+    vols = sorted(by_vol, key=lambda v: order.get(v, 999))
+    if limit:
+        vols = vols[:limit]
+    chips = []
+    for v in vols:
+        spoken = "quotes" in by_vol[v]
+        chips.append(
+            f'{vol_chip(ctx, v, out_rel)}'
+            f'<span class="n">{"speaks" if spoken else "named"}</span>')
+    return f'<p class="mentions">{"".join(chips)}</p>' if chips else ""
+
+
+def identity_block(ctx, c, out_rel):
+    """Who this is, mechanically: the name, the spellings the text uses, and
+    the volumes the name appears in. No interpretation, so it is usable on an
+    unwalked character page."""
+    aliases = ctx["aliases_by_char"].get(c["id"]) or []
+    shown = [a for a in aliases if a and a.lower() != c["name"].lower()][:12]
+    rows = [("Known as", esc(", ".join(shown)) if shown else ""),
+            ("Role in the story",
+             esc(site_arch.TIER_LABEL.get(c["tier"], "Character"))),
+            ("Named in", f'{c["coverage"]} of {ctx["stats"]["vols"]} volumes')]
+    head = mechanical_facts([(k, v) for k, v in rows if v])
+    where = mentions_by_volume(ctx, c["id"], out_rel)
+    return head + (f'<p class="subhead">Where the name appears</p>{where}'
+                   if where else "")

@@ -96,3 +96,14 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [trait] (p.256) Post-crisis bravado: retcons his own expulsion risk into a sure-thing — pure face-saving.
 
 <!-- walk: y1v1 ch12 → p.262 -->
+
+## y1v2
+
+<!-- walk: y1v2 → start -->
+
+### y1v2 p.19, p.27–28 — Ch.2 §2.2 & §2.4: crew member, key-club member
+[scene] (p.19) Lunch ensemble: "you’ve got people like Ike and Yamauchi, who aren’t very popular with girls. They eat with their group of guy friends, including Sudou and Hondou, almost every day."
+[back] (p.27–28) One of "the rest of us" who made duplicate keycards to Ayanokōji's room and treat it as the group's meeting spot; Sudou refuses to surrender his clone.
+[trait] (p.19) Still grouped with Ike as the class's non-popular boy clique two months in.
+
+<!-- walk: y1v2 ch2 → p.39 -->

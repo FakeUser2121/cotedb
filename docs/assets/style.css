@@ -475,6 +475,74 @@ body[data-scope] .later.is-hidden .reveal { display: flex; }
 /* ---------- mobile ---------- */
 
 .menu-btn { display: none; }
+/* ---------------------------------------------------------------- evidence
+   Walk-ledger scenes: a heading you can scan, entries you can read, and one
+   page chip per scene that opens the book text behind it. */
+.scene.ev { border-top: 1px solid var(--line); padding: 14px 0 6px; margin-top: 16px; }
+details.scene.ev { padding: 0; margin: 0; border-top: 1px solid var(--line); }
+details.scene.ev > summary {
+  display: flex; gap: 10px; align-items: baseline; flex-wrap: wrap;
+  cursor: pointer; padding: 13px 0 8px; list-style: none;
+}
+details.scene.ev > summary::-webkit-details-marker { display: none; }
+details.scene.ev > summary::before {
+  content: "+"; font: 600 13px/1 var(--mono); color: var(--hue);
+  order: -1; margin-right: 2px;
+}
+details.scene.ev[open] > summary::before { content: "\2212"; }
+details.scene.ev > summary .ttl { font-weight: 600; }
+details.scene.ev > summary:hover .ttl { color: var(--hue); }
+details.scene.ev[open] > .head { padding-top: 2px; }
+details.scene.ev > ul { margin: 0 0 14px; }
+.scene.ev .ttl { font: 600 16.5px/1.35 var(--serif); color: var(--ink); }
+.scene.ev .pgs { margin-left: auto; }
+ul.ledger { list-style: none; margin: 8px 0 0; padding: 0 0 0 2px; }
+ul.ledger > li {
+  display: grid; grid-template-columns: 104px 1fr; gap: 0 14px;
+  padding: 7px 0; border-top: 1px dashed var(--line);
+}
+ul.ledger > li:first-child { border-top: 0; }
+ul.ledger .mlabel {
+  font: 600 11px/1.6 var(--sans); letter-spacing: .07em; text-transform: uppercase;
+  color: var(--muted);
+}
+ul.ledger p { margin: 0; font-size: 15.5px; }
+ul.ledger li.e-line, ul.ledger li.e-thought { border-left: 2px solid var(--hue);
+  padding-left: 12px; margin-left: -14px; }
+ul.ledger li.e-line p.verb, ul.ledger li.e-thought p.verb {
+  font: italic 400 16.5px/1.55 var(--serif); color: var(--ink); }
+ul.ledger li.e-thought p.verb { font-style: normal; color: var(--ink-soft); }
+ul.ledger li.e-note { background: var(--panel-2); border-radius: 8px;
+  padding: 8px 10px; }
+ul.ledger li.e-note .mlabel { color: var(--school); }
+ul.ledger .pin { display: block; }
+ul.ledger a.rel { font-weight: 600; color: var(--hue); }
+@media (max-width: 620px) {
+  ul.ledger > li { grid-template-columns: 1fr; gap: 2px; }
+  .scene.ev .pgs { margin-left: 0; }
+}
+
+/* mechanical facts: what can be counted before a volume is read */
+table.facts { margin: 14px 0 18px; }
+table.facts th { width: 34%; font: 600 12px/1.5 var(--sans); letter-spacing: .05em;
+  text-transform: uppercase; color: var(--muted); border-bottom: 1px solid var(--line); }
+table.facts td { border-bottom: 1px solid var(--line); font-size: 15px; }
+table.facts.chron th { width: auto; text-transform: none; letter-spacing: 0;
+  font: 600 15.5px/1.4 var(--serif); color: var(--ink); }
+p.subhead { margin: 22px 0 6px; font: 600 12px/1.5 var(--sans);
+  letter-spacing: .07em; text-transform: uppercase; color: var(--muted); }
+p.mentions { display: flex; flex-wrap: wrap; gap: 7px 10px; margin: 6px 0 16px; }
+p.mentions a.vlink { font: 600 12.5px/1.5 var(--mono); color: var(--hue);
+  background: var(--hue-soft); border: 1px solid var(--line); border-radius: 7px;
+  padding: 1px 6px; text-decoration: none; }
+p.mentions a.vlink:hover { border-color: var(--hue); }
+p.mentions .n { color: var(--muted); font-size: 11.5px; margin-left: 4px; }
+.box.stub { border-left: 3px solid var(--school); }
+.box.stub ul.plain, ul.plain { list-style: none; margin: 8px 0 12px; padding: 0; }
+ul.plain li { padding: 6px 0; border-top: 1px dashed var(--line); }
+ul.plain li:first-child { border-top: 0; }
+a.vlink { color: var(--hue); }
+
 @media (max-width: 1240px) {
   .layout { grid-template-columns: 240px minmax(0, 1fr); }
   .rail.right { display: none; }

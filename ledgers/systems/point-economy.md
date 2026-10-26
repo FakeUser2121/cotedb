@@ -76,3 +76,21 @@ system_id: point-economy · scope: Tokyo Metropolitan Advanced Nurturing High Sc
 [note] (p.258) The class's first explicit long-game framing: point acquisition + exam performance are separate axes — "Studying isn't the sole factor in deciding who goes into what class."
 
 <!-- walk: y1v1 ch12 → p.262 -->
+
+## y1v2
+
+<!-- walk: y1v2 → start -->
+
+### y1v2 p.15–20 — July 1: the app mechanics, first payout, delayed deposit
+[rule] (p.15) School app functions enumerated: Balance Inquiry, personal balance, collective class points, and point transfer to another student; point types suffixed "cl" (class) and "pr" (private).
+[rule] (p.15) "On the first day of every month, they multiplied the cl points, or class points, by 100, then deposited that amount into our private point accounts."
+[rule] (p.15–16) Zero class points = zero spending money; real currency is refused anywhere on campus; free cafeteria meals are the floor for broke students.
+[status] (p.16) Every class admitted with 1000 class points; Class D bled to 0 by May and stayed 0 through June.
+[status] (p.17) July 1 board: Class A 1004 (slightly above admission baseline); Classes B/C each ~+100 over June; Class D 87 — first nonzero total.
+[rule] (p.17) Interpretive precedent (Horikita): a uniform ~+100 jump for all first-year classes reads as the midterm-completion reward, not merit; relative rank, not raw points, drives promotion.
+[rule] (p.18–19) Deposits can be delayed institution-wide: "The first-year students’ point distribution has been delayed." Chabashira's rider: "Once the trouble has been resolved, you’ll receive your points. If there are still points left, that is."
+[rule] (p.20) School supermarket offers free ingredients (same subsidy logic as the free cafeteria set) — Horikita's bento runs on them.
+[rule] (p.31–32) Disciplinary economics, first instance: an unresolved inter-class fight threatens both an individual summer suspension for Sudou and a class-wide point deduction; the school granted a proof window until "next Tuesday" before ruling fault.
+[status] (p.27) Sample drain rate: Ayanokōji's post-midterm-point-purchase balance 8,320 private points; 87 class points would have paid ~8700 yen per student.
+
+<!-- walk: y1v2 ch2 → p.39 -->

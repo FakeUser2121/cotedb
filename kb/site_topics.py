@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-"""Topics, reader doors, appendix, and the volume documents (guides and
-scene transcripts authored in drafts/).
+"""Topics, reader doors, appendix, and the volume documents (the guides and
+scene transcripts the walk produced into drafts/).
 
-Topics are the 'reorganised by question' layer: each page is assembled
-mechanically from the curated records (exam instances, character arcs,
-relations, claims), never by inventing a summary. Where the records only
-partially answer a question, the page says so at the top.
+Topics are the 'reorganised by question' layer: each page is a query over
+the walk ledgers (site_ledgers.scan), never a summary written from memory
+or from the retired dossier layer. Where the ledgers only partially answer
+a question, the page says so at the top and names the volumes it covers.
 
 The reader doors are the three audiences the archive exists for: writers
 (voice and exact lines), number-crunchers (feats, results, point maths),
@@ -20,10 +20,13 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import site_arch  # noqa: E402
 import site_data as D  # noqa: E402
+import site_evidence as E  # noqa: E402
+import site_ledgers as L  # noqa: E402
 import site_shell as S  # noqa: E402
 from share_render import slug, render_full  # noqa: E402
-from site_sections import (alpha_nav, door, dominant_vol, facts_strip,  # noqa: E402
-                           grid_links, section_scope, volume_index_href)
+from site_sections import (alpha_nav, door, dominant_vol, entity_page_href,  # noqa: E402
+                           facts_strip, grid_links, section_scope,
+                           volume_index_href)
 
 ROOT = Path(__file__).resolve().parent.parent
 DRAFTS = ROOT / "drafts" / "people"
@@ -79,18 +82,20 @@ def topics_rail(ctx):
 
 
 TOPICS = [
-    {"id": "relationships", "title": "Every relationship, with evidence",
-     "lede": "Who is aligned, opposed, or indebted to whom, and the page "
-             "where each of those reads."},
+    {"id": "relationships", "title": "Relationships, with evidence",
+     "lede": "Who is aligned, opposed, or indebted to whom, on the pages "
+             "that have actually been read."},
     {"id": "who-knew-what", "title": "Who knew what, and when",
-     "lede": "The knowledge state of the cast volume by volume — the layer "
-             "that makes the reveals land."},
+     "lede": "What each character is recorded as knowing, volume by volume "
+             "— the layer that makes the reveals land."},
     {"id": "expulsions", "title": "Expulsions and near-misses",
-     "lede": "Every moment the school put a student's place on the table."},
+     "lede": "Every moment, so far, that the school put a student's place "
+             "on the table."},
     {"id": "points", "title": "Points, prices and payouts",
-     "lede": "The numbers the economy of the school actually moved on."},
+     "lede": "The numbers the volumes read so far actually moved on."},
     {"id": "results", "title": "Winners, placements and consequences",
-     "lede": "What each exam decided, in the order it was decided."},
+     "lede": "What each exam decided in the volumes read so far, in the "
+             "order it was decided."},
 ]
 
 
@@ -101,15 +106,15 @@ def topics_index(ctx):
         f'<span class="d">{S.esc(t["lede"])}</span>'
         f'<span class="go">Open →</span></a>' for t in TOPICS)
     body = f"""<h2 id="questions">Question pages</h2>
-<p>These pages cut across every volume: pick the question rather than
-the entity. Each statement carries the page it came from.</p>
+<p>These pages cut across the volumes that have been read line by line: pick the question
+rather than the entity. Each statement carries the page it came from.</p>
 <div class="doors">{rows}</div>
 <h2 id="building">How a topic page is built</h2>
-<p>A topic is assembled from the records that already carry a page
-citation — exam runs, character arc states, relationship notes, and named
-narrator facts. Nothing is summarised from memory, so a topic page can
-never be more current than the records behind it, and it says at the top
-how far those records reach.</p>"""
+<p>A topic is a query over the line-by-line notes — the same notes that
+build the character and volume pages. Each note is one observation written
+against a page number, so a topic page can only be as broad as the volumes
+that have been read, and it says at the top how far they reach. Volumes not
+yet read simply do not appear.</p>"""
     return ctx["page"]("Topics", "topics", body,
                       [("Home", "index.html"), ("Topics", None)],
                       out="topics/index.html", rail=topics_rail(ctx),
@@ -117,6 +122,20 @@ how far those records reach.</p>"""
                            "assembled from the pages that hold them.",
                       kicker="By question", tagline_label="Topics",
                       scope=ctx["scope"])
+
+
+def topic_related(ctx, topic):
+    """The neighbouring questions, plus where the evidence for this one is
+    kept: the volume pages the entries came from."""
+    links = [(t["title"], f"topics/{t['id']}.html")
+             for t in TOPICS if t["id"] != topic["id"]]
+    links.append(("Every relationship note", "topics/relationships.html"))
+    for vol in sorted(ctx["evidence"],
+                      key=lambda v: ctx["vols"][v]["order"] if v in ctx["vols"] else 999):
+        v = ctx["vols"].get(vol)
+        if v:
+            links.append((f"Read in {v['label']}", volume_index_href(vol)))
+    return links
 
 
 def topic_shell(ctx, topic, coverage_note, body):
@@ -129,196 +148,199 @@ def topic_shell(ctx, topic, coverage_note, body):
          (topic["title"], None)],
         out=f"topics/{topic['id']}.html", rail=topics_rail(ctx),
         lede=topic["lede"], kicker="Topic", tagline_label="Topic",
-        scope=ctx["scope"])
+        related=topic_related(ctx, topic), scope=ctx["scope"])
     return (f"topics/{topic['id']}.html", html_out)
 
 
+# ------------------------------------------------------------- ledger topics
+#
+# A topic page answers one question across the whole series. The old version
+# of this file answered them by reading the pre-walk analysis tables, which
+# is where the fabricated claims came from. Every topic now scans the walk
+# ledgers and shows the anchored entries themselves.
+
+# Which section index to fall back on when a ledger has no page of its own.
+KIND_INDEX = {"people": "people/index.html", "exams": "school/index.html",
+              "systems": "school/index.html", "places": "world/index.html",
+              "concepts": "topics/index.html"}
+
+
+def entity_link(ctx, kind, stem, base="topics"):
+    """Name a ledger's subject as a link to its page. Ledgers are filed under
+    the id the walk wrote, pages under the database's; entity_page_href
+    resolves that and returns '' when the build makes no page, so the link
+    falls back to the section index instead of pointing at nothing."""
+    c = ctx["char_by_id"].get(stem) if kind == "people" else None
+    if c:
+        name, href = c["name"], c["href"]
+    else:
+        led = L.load(kind, stem)
+        name = (led["title"].split(" — ")[0]) if led else site_arch.display_name("", stem)
+        if kind == "people":
+            # Not on the roster, but the walk wrote a ledger: collect_metas
+            # gives every such stem its own page at people/<stem>.html.
+            href = f"people/{stem}.html"
+        else:
+            href = entity_page_href(ctx, kind, stem)
+        if not href:
+            href = KIND_INDEX[kind]
+    return f'<a href="{posixpath.relpath(href, base)}">{S.esc(name)}</a>'
+
+
+def entry_row(ctx, kind, stem, vol, block, entry, base="topics"):
+    """One anchored ledger entry as a row: who/what, the scene it came from,
+    the text, and the page it is on."""
+    return (
+        f'<div class="scene"><div class="head">'
+        f'<span class="pg">{E.vol_chip(ctx, vol, f"{base}/x.html")}</span>'
+        f'<span class="who">{entity_link(ctx, kind, stem, base)}'
+        f' — {S.esc(block["title"])}</span></div>'
+        f'<p>{S.esc(entry["text"])}</p>'
+        f'{E.pin(ctx, vol, entry["pages"])}</div>')
+
+
+def grouped(ctx, rows, key):
+    """Rows grouped under h2 headings, in the order the story tells them."""
+    buckets = {}
+    for row in rows:
+        buckets.setdefault(key(row), []).append(row)
+    out = []
+    for label, items in sorted(buckets.items(), key=lambda kv: str(kv[0])):
+        out.append(f'<h2 id="{slug(str(label))}">{S.esc(str(label))}</h2>'
+                   f'{"".join(items)}')
+    return "".join(out), len(buckets)
+
+
+def evidence_volumes(ctx):
+    return sorted(ctx["evidence"],
+                  key=lambda v: ctx["vols"][v]["order"] if v in ctx["vols"] else 999)
+
+
+def coverage_line(ctx):
+    vols = evidence_volumes(ctx)
+    labels = ", ".join(site_arch.volume_short(v) for v in vols)
+    blocks = sum(ctx["evidence"][v]["blocks"] for v in vols)
+    return (f"{blocks} scene entries anchored to a page, from "
+            f"{labels}. This page grows as each volume is read line by line; "
+            f"nothing here is summarised from memory.")
+
+
 def build_relationships(ctx):
-    families = {}
-    for r in ctx["relations"]:
-        families.setdefault(rel_family(r["type"]), []).append(r)
-    blocks = []
-    for label, _keys in REL_FAMILIES + [("Other connections", [])]:
-        rows = families.get(label)
-        if not rows:
+    pairs = {}
+    for kind, stem, vol, block, entry in L.scan(("people", "places")):
+        if entry["marker"] != "rel" or not entry["target"]:
             continue
-        items = []
-        for r in sorted(rows, key=lambda x: (x["a_name"], x["b_name"])):
-            a = ctx["char_by_id"].get(r["a"])
-            b = ctx["char_by_id"].get(r["b"])
-            names = []
-            for cc, raw in ((a, r["a_name"]), (b, r["b_name"])):
-                if cc:
-                    names.append(
-                        f'<a href="{posixpath.relpath(cc["href"], "topics")}">'
-                        f'{S.esc(cc["name"])}</a>')
-                else:
-                    names.append(S.esc(raw))
-            refs = re.findall(r"y[0-9v.]+\s+pp?\.?\s*\d+(?:\s*[–-]\s*\d+)?",
-                              r["refs"] or "")
-            chips = "".join(f'<span class="cite">{S.esc(x)}</span> '
-                            for x in refs[:4])
-            span = ""
-            if r["from"] in ctx["vols"] or r["to"] in ctx["vols"]:
-                bits = [x for x in (ctx["vols"].get(r["from"], {}).get("short"),
-                                    ctx["vols"].get(r["to"], {}).get("short")) if x]
-                if bits:
-                    span = f' <span class="n">({"/".join(bits)})</span>'
-            items.append(
-                f'<div class="scene"><div class="head">'
-                f'<span class="ttl">{" ↔ ".join(names)}</span>'
-                f'<span class="who">{S.esc(r["type"])}{span}</span></div>'
-                f'<p>{S.esc(D.clean(r["note"]))}</p>{chips}</div>')
-        blocks.append(f'<h2 id="{slug(label)}">{S.esc(label)}</h2>'
-                      f'{"".join(items)}')
-    body = "".join(blocks)
-    note = f"{len(ctx['relations'])} relationships recorded, concentrated on " \
-           "the principal and recurring cast; the walk adds more as it " \
-           "reaches each volume."
-    return topic_shell(ctx, TOPICS[0], note, body)
+        a, b = sorted([stem, entry["target"]])
+        pairs.setdefault((a, b), []).append((kind, stem, vol, block, entry))
+    rows = []
+    for (a, b), hits in pairs.items():
+        names = []
+        for cid in (a, b):
+            c = ctx["char_by_id"].get(cid)
+            if c:
+                names.append(f'<a href="{posixpath.relpath(c["href"], "topics")}">'
+                             f'{S.esc(c["name"])}</a>')
+            else:
+                names.append(S.esc(site_arch.display_name("", cid)))
+        inner = "".join(
+            f'<div class="scene"><div class="head">'
+            f'<span class="pg">{E.vol_chip(ctx, vol, "topics/x.html")}</span>'
+            f'<span class="who">{S.esc(block["title"])}</span></div>'
+            f'<p>{S.esc(e["text"])}</p>{E.pin(ctx, vol, e["pages"])}</div>'
+            for _k, _s, vol, block, e in sorted(hits, key=lambda h: (
+                ctx["vols"][h[2]]["order"] if h[2] in ctx["vols"] else 999)))
+        rows.append((len(hits), a,
+                     f'<div class="scene pair"><div class="head">'
+                     f'<span class="ttl">{" ↔ ".join(names)}</span>'
+                     f'<span class="n">{len(hits)} anchored note'
+                     f'{"s" if len(hits) != 1 else ""}</span></div>{inner}</div>'))
+    rows.sort(key=lambda r: (-r[0], r[1].lower()))
+    body = f'<h2 id="pairs">Every pair the pages record</h2>{"".join(r[2] for r in rows)}'
+    return topic_shell(ctx, TOPICS[0], coverage_line(ctx), body)
 
 
 def build_who_knew_what(ctx):
-    by_vol = {}
-    for t in ctx["timeline"]:
-        by_vol.setdefault(t["vol_id"], []).append(t)
-    items = []
-    for vol in sorted(by_vol, key=lambda v: order(ctx, v)):
-        rows = []
-        for t in sorted(by_vol[vol], key=lambda t: t["name"]):
-            c = ctx["char_by_id"].get(t["char_id"])
-            name = f'<a href="{posixpath.relpath(c["href"], "topics")}">' \
-                f'{S.esc(c["name"])}</a>' if c else S.esc(t["name"])
-            bits = []
-            if t["knowledge"]:
-                bits.append(f'<li><strong>Knows</strong> — {S.esc(D.clean(t["knowledge"]))}</li>')
-            if t["situation"]:
-                bits.append(f'<li><strong>Position</strong> — {S.esc(D.clean(t["situation"]))}</li>')
-            if t["changes"]:
-                bits.append(f'<li><strong>Shift</strong> — {S.esc(D.clean(t["changes"]))}</li>')
-            refs = re.findall(r"y[0-9v.]+\s+pp?\.?\s*\d+(?:\s*[–-]\s*\d+)?",
-                              t["refs"] or "")
-            chips = "".join(f'<span class="cite">{S.esc(x)}</span> '
-                            for x in refs[:4])
-            rows.append(f'<div class="scene"><div class="head">'
-                        f'<span class="ttl">{name}</span></div>'
-                        f'<ul>{"".join(bits)}</ul>{chips}</div>')
-        items.append(f'<h2 id="v-{vol}">{S.esc(ctx["vols"].get(vol, {}).get("label", vol))}</h2>'
-                     f'{"".join(rows)}')
-    body = "".join(items)
-    note = f"{len(ctx['timeline'])} arc records carry a knowledge state; " \
-           "they exist only for volumes the analysis reached, so gaps are " \
-           "silent rather than empty."
-    return topic_shell(ctx, TOPICS[1], note, body)
+    """The knowledge layer as the text states it: what a character thinks,
+    what the walk flagged as inference rather than fact, and where their
+    standing changed."""
+    rows = []
+    for kind, stem, vol, block, entry in L.scan(("people",)):
+        if entry["marker"] not in ("thinks", "note", "status", "limit"):
+            continue
+        c = ctx["char_by_id"].get(stem)
+        label = L.marker_info(entry["marker"], entry["target"])[1]
+        rows.append((
+            ctx["vols"][vol]["order"] if vol in ctx["vols"] else 999,
+            f'<div class="scene"><div class="head">'
+            f'<span class="pg">{E.vol_chip(ctx, vol, "topics/x.html")}</span>'
+            f'<span class="who">{entity_link(ctx, "people", stem)}</span>'
+            f'<span class="n">{S.esc(label)} · {S.esc(block["title"])}</span></div>'
+            f'<p>{S.esc(entry["text"])}</p>{E.pin(ctx, vol, entry["pages"])}</div>'))
+    rows.sort(key=lambda r: r[0])
+    body = "".join(r[1] for r in rows)
+    return topic_shell(ctx, TOPICS[1], coverage_line(ctx), body)
+
+
+def scan_pattern(ctx, pattern, markers=None):
+    rows = []
+    for kind, stem, vol, block, entry in L.scan():
+        if markers and entry["marker"] not in markers:
+            continue
+        if not pattern.search(entry["text"]):
+            continue
+        rows.append((kind, stem, vol, block, entry))
+    return rows
 
 
 def build_expulsions(ctx):
-    rows = []
-    for e in ctx["exam_rows"]:
-        for r in e["instances"]:
-            text = f'{r["chronology"]} {r["outcome"]}'
-            if EXPEL_RE.search(text):
-                rows.append((r["vol_id"], r["page"], e["name"], text,
-                             r["refs"]))
-    for t in ctx["timeline"]:
-        text = f'{t["situation"]} {t["changes"]} {t["why"]}'
-        if EXPEL_RE.search(text):
-            rows.append((t["vol_id"], 0, t["name"], text, t["refs"]))
-    for cl in ctx["claims"]:
-        if EXPEL_RE.search(cl["claim"] or ""):
-            rows.append((cl["vol_id"], cl["page"], cl["name"], cl["claim"],
-                         f'{cl["vol_id"]} p.{cl["page"]}'))
-    seen = set()
-    items = []
-    for vol, page, who, text, refs in sorted(
-            rows, key=lambda r: (order(ctx, r[0]), r[1])):
-        key = (vol, re.sub(r"\W+", "", text)[:60])
-        if key in seen:
-            continue
-        seen.add(key)
-        chips = "".join(
-            f'<span class="cite">{m.group(0)}</span> '
-            for m in list(site_arch.PAGE_IN_CITE_RE.finditer(refs or ""))[:4])
-        items.append(
-            f'<div class="scene"><div class="head">'
-            f'<span class="pg">{vol_link(ctx, vol, "topics")}</span>'
-            f'<span class="who">{S.esc(who)}</span></div>'
-            f'<p>{S.esc(D.clean(text)[:400])}</p>{chips}</div>')
-    body = "".join(items)
-    note = "Matched on the words 'expel', 'drop out' and 'vote' inside the " \
-           "curated exam, arc and narrator records. It is a locator, not a " \
-           "ruling: the exact rule text lives on the " \
-           "<a href='../school/system/expulsion.html'>expulsion system " \
-           "page</a>."
-    return topic_shell(ctx, TOPICS[2], note, body)
+    hits = scan_pattern(ctx, EXPEL_RE)
+    rows = [entry_row(ctx, kind, stem, vol, block, e)
+            for kind, stem, vol, block, e in sorted(
+                hits, key=lambda h: (ctx["vols"][h[2]]["order"]
+                                     if h[2] in ctx["vols"] else 999))]
+    body = f"".join(rows)
+    note = (f"{len(rows)} entries use the words 'expel', 'drop out', "
+            f"'vote' or 'leaving the school'. It is a locator, not a ruling: "
+            f"the rule text lives on the <a href=\"school/system/expulsion.html\">"
+            f"expulsion system page</a>, and that page is only as full as the "
+            f"volumes that have been read.")
+    return topic_shell(ctx, TOPICS[2], note + " " + coverage_line(ctx), body)
 
 
 def build_points(ctx):
-    rows = []
-    for e in ctx["exam_rows"]:
-        if e["points"]:
-            rows.append((e["first_vol"], e["name"] + " — rules",
-                         e["points"], ""))
-        for r in e["instances"]:
-            text = f'{r["chronology"]} {r["outcome"]}'
-            for m in POINT_RE.finditer(text):
-                s = max(0, m.start() - 110)
-                snippet = D.clean(text[s:m.end() + 160])
-                rows.append((r["vol_id"], f'{e["name"]}, run {r["seq"]}',
-                             snippet, r["refs"]))
-    for cl in ctx["claims"]:
-        if POINT_RE.search(cl["claim"] or ""):
-            rows.append((cl["vol_id"], cl["name"], cl["claim"],
-                         f'{cl["vol_id"]} p.{cl["page"]}'))
-    seen = set()
-    items = []
-    for vol, who, text, refs in sorted(rows, key=lambda r: order(ctx, r[0])):
-        key = re.sub(r"\W+", "", text)[:70]
-        if not text or key in seen:
-            continue
-        seen.add(key)
-        chips = "".join(
-            f'<span class="cite">{m.group(0)}</span> '
-            for m in list(site_arch.PAGE_IN_CITE_RE.finditer(refs or ""))[:3])
-        items.append(
-            f'<div class="scene"><div class="head">'
-            f'<span class="pg">{vol_link(ctx, vol, "topics")}</span>'
-            f'<span class="who">{S.esc(who)}</span></div>'
-            f'<p>{S.esc(D.clean(text)[:420])}</p>{chips}</div>')
-    body = (
-        f'<h2 id="the-numbers">Every figure the records carry</h2>'
-        f'<p>Prices, payouts and point swings, in story order. A number only '
-        f'appears here if a record cites the page it was stated on.</p>'
-        f'{"".join(items)}')
-    note = f"{len(items)} point figures located in the curated records; the " \
-           "written rules behind them are on the " \
-           "<a href='../school/system/class-points.html'>class points</a> " \
-           "and <a href='../school/system/private-points.html'>private " \
-           "points</a> pages."
+    hits = scan_pattern(ctx, POINT_RE)
+    rows = [entry_row(ctx, kind, stem, vol, block, e)
+            for kind, stem, vol, block, e in sorted(
+                hits, key=lambda h: (ctx["vols"][h[2]]["order"]
+                                     if h[2] in ctx["vols"] else 999))]
+    body = f'<h2 id="the-numbers">Every figure the pages anchor</h2>{"".join(rows)}'
+    note = (f"{len(rows)} point figures anchored to a page. The written rules "
+            f"behind them are on the <a href=\"school/system/class-points.html\">"
+            f"class points</a> and <a href=\"school/system/private-points.html\">"
+            f"private points</a> pages. {coverage_line(ctx)}")
     return topic_shell(ctx, TOPICS[3], note, body)
 
 
 def build_results(ctx):
-    items = []
-    runs = []
-    for e in ctx["exam_rows"]:
-        for r in e["instances"]:
-            runs.append((r, e))
-    for r, e in sorted(runs, key=lambda x: (order(ctx, x[0]["vol_id"]),
-                                            x[0]["seq"])):
-        chips = "".join(
-            f'<span class="cite">{m.group(0)}</span> '
-            for m in list(site_arch.PAGE_IN_CITE_RE.finditer(r["refs"] or ""))[:5])
-        items.append(
+    """Exam outcomes as the walk wrote them: the exam ledgers' result, rule,
+    fact and impact entries, plus anything a person's ledger calls a
+    placement."""
+    rows = []
+    for kind, stem, vol, block, entry in L.scan(("exams", "systems", "people")):
+        if entry["marker"] not in ("result", "rule", "fact", "impact", "number",
+                                   "feat", "status") and not WIN_RE.search(entry["text"]):
+            continue
+        rows.append((
+            ctx["vols"][vol]["order"] if vol in ctx["vols"] else 999,
             f'<div class="scene"><div class="head">'
-            f'<span class="pg">{vol_link(ctx, r["vol_id"], "topics")}'
-            f'</span><span class="ttl">{S.esc(e["name"])} · run {r["seq"]}</span>'
-            f'</div><p>{S.esc(D.clean(r["chronology"]))}</p>'
-            f'<p><strong>What it decided</strong> — {S.esc(D.clean(r["outcome"]))}</p>'
-            f'<p class="who">{S.esc(D.clean(r["participants"]))}</p>{chips}</div>')
-    body = "".join(items)
-    note = f"{len(items)} recorded exam runs, each with the volume it " \
-           "happened in and the page the result is stated on."
+            f'<span class="pg">{E.vol_chip(ctx, vol, "topics/x.html")}</span>'
+            f'<span class="who">{entity_link(ctx, kind, stem)}</span>'
+            f'<span class="n">{S.esc(block["title"])}</span></div>'
+            f'<p>{S.esc(entry["text"])}</p>{E.pin(ctx, vol, entry["pages"])}</div>'))
+    rows.sort(key=lambda r: r[0])
+    body = "".join(r[1] for r in rows)
+    note = f"{len(rows)} recorded outcomes, each with the volume and page it " \
+           f"was read on. {coverage_line(ctx)}"
     return topic_shell(ctx, TOPICS[4], note, body)
 
 
@@ -346,6 +368,9 @@ def guides_rail(ctx):
 
 
 def guides_index(ctx):
+    walked = sorted(ctx["evidence"], key=lambda k: order(ctx, k))
+    wlist = ", ".join(site_arch.volume_label(w) for w in walked)
+    stats = ctx["stats"]
     body = f"""<h2 id="doors">Three ways in</h2>
 <div class="doors">
 {door("I write in this world", "How does this character actually talk?",
@@ -360,13 +385,16 @@ def guides_index(ctx):
 </div>
 <h2 id="new">If you are new to the series</h2>
 <p>Start at <a href="story/y1.html">Year 1</a> and open
-<strong>Volume 1</strong>: it is the one volume transcribed line by line,
-so you can read the whole shape of it with page numbers attached, or open a
-character's scene transcript and see exactly how the first mask is worn.</p>
+<strong>{S.esc(site_arch.volume_label(walked[0]) if walked else "Volume 1")}</strong>:
+it is the first volume transcribed line by line, so you can read the whole
+shape of it with page numbers attached, or open a character's scene
+transcript and see exactly how the first mask is worn.</p>
 <h2 id="trust">How much to trust a page here</h2>
-<p>Analysis is written; everything inside quotation marks is the novel's own
-text; every claim carries a volume and page. Where the archive is thin, the
-page says so instead of filling the gap.</p>"""
+<p>Everything inside quotation marks is the novel's own text; every note
+carries a volume and a page; and the notes were taken off the page, not from
+anyone's memory of the plot. {len(walked)} of {stats['vols']} volumes have been read that way
+— {wlist} — so everywhere else the page is a roster of mechanical facts
+plus a plain statement of what has not been checked yet.</p>"""
     return ctx["page"]("Start here", "guides", body,
                       [("Home", "index.html"), ("Start here", None)],
                       out="guides/index.html", rail=guides_rail(ctx),
@@ -474,20 +502,23 @@ def moment_page(ctx):
         label = {0: "Side stories", 1: "Year 1", 2: "Year 2",
                  3: "Year 3"}[year]
         vol_links.append(f'<p><strong>{label}</strong> — {items}</p>')
-    places = ctx["loc_list"]
-    place_rows = grid_links([(l["name"], (l["function"] or "")[:70],
+    places = sorted(ctx["loc_list"], key=lambda l: l["name"])
+    place_rows = grid_links([(l["name"],
+                              f'named {l["mentions"]:,} times',
                               f'world/{l["id"]}.html') for l in places])
     why_rows = []
-    for t in vol_sorted(ctx, ctx["timeline"], lambda r: r["vol_id"]):
-        if not t["why"]:
+    for kind, stem, vol, block, entry in L.scan(("people", "exams", "systems")):
+        if entry["marker"] not in ("feat", "status", "impact", "trait", "rule"):
             continue
-        c = ctx["char_by_id"].get(t["char_id"])
-        name = c["name"] if c else t["name"]
         why_rows.append(
-            f'<div class="scene"><div class="head">'
-            f'<span class="pg">{vol_link(ctx, t["vol_id"], "guides")}</span>'
-            f'<span class="who">{S.esc(name)}</span></div>'
-            f'<p>{S.esc(D.clean(t["why"]))}</p></div>')
+            (order(ctx, vol),
+             f'<div class="scene"><div class="head">'
+             f'<span class="pg">{vol_link(ctx, vol, "guides")}</span>'
+             f'<span class="who">{entity_link(ctx, kind, stem, "guides")}'
+             f' — {S.esc(block["title"])}</span></div>'
+             f'<p>{S.esc(entry["text"])}</p>{E.pin(ctx, vol, entry["pages"])}</div>'))
+    why_rows.sort(key=lambda r: r[0])
+    why_rows = [r[1] for r in why_rows]
     body = f"""<h2 id="search">Say it in your own words</h2>
 <p>Press <code>/</code> and type the fragment you remember — a name, a line,
 an exam. Search runs over every page here, including the quoted text.</p>
@@ -532,8 +563,10 @@ def citations_page(ctx):
             f'<td>{S.esc(site_arch.volume_kind_label(v["kind"]))}</td>'
             f'<td>{v["pages"]}</td></tr>')
     body = f"""<h2 id="key">The citation key</h2>
-<p>A citation is three parts: year, volume, page.
-<code>y2v9 p.13</code> is Year 2, Volume 9, page 13. A range
+<p>A citation on these pages is written the way a reader says it:
+<code>Vol. 1 p.247</code> — Year 1, Volume 1, page 247. Each volume also
+has a short key used inside the archive, <code>y1v1</code>, so Year 1
+Volume 1; a range
 (<code>pp. 118–121</code>) means the passage runs across those pages. Side
 stories are numbered between the main volumes — <code>y1v4.5</code> is the
 interlude that sits after Volume 4 — and the Year 0 material is cited
@@ -584,7 +617,7 @@ quoted lines with page numbers. <strong>Transcription</strong> is slower and
 finer — a volume read chapter by chapter, with every line and beat captured.
 Only transcribed volumes can support the scene-by-scene documents.</p>
 <table><thead><tr><th>Volume</th><th>Evidence</th><th>Chapters transcribed</th>
-<em></em><th>Ledgers touched</th><th>Documents</th><th>Pages</th></tr></thead>
+<em></em><th>Notes anchored</th><th>Documents</th><th>Pages</th></tr></thead>
 <tbody>{"".join(rows)}</tbody></table>
 <h2 id="limits">What this does not do</h2>
 <ul>
@@ -629,28 +662,32 @@ network.</p>"""
 
 def appendix_index(ctx):
     stats = ctx["stats"]
-    walked = sum(1 for s in ctx["walk"].values() if s.get("complete"))
+    walked = sorted(ctx["evidence"], key=lambda k: order(ctx, k))
     body = f"""<h2 id="reference">Reference pages</h2>
 <div class="doors">
-{door("Citations", "What does y2v9 p.13 mean?",
-      "The key, the page convention, and why the quoted text is exact.",
+{door("Citations", "What does “Vol. 1 p.247” mean?",
+      "The key behind it, the page convention, and why the quoted text is exact.",
       "appendix/citations.html")}
 {door("Coverage", "How much of the series is in here?",
-      "Volume by volume: transcribed, partway, or records only.",
+      "Volume by volume: read line by line, or roster only.",
       "appendix/coverage.html")}
 {door("Downloads", "Can I take it with me?",
       "PDF bundles and the offline folder.", "appendix/downloads.html")}
 </div>
 <h2 id="method">How this archive was made</h2>
-<p>Thirty-six translated volumes were converted to text with their page
-breaks intact, indexed, and then read through volume by volume. Character
-ledgers were written chapter by chapter; the pages you are reading are
-assembled from those ledgers and the curated records beside them. Every
-statement carries the page it came from so you can check it rather than
-trust it.</p>
+<p>{stats['vols']} translated volumes were converted to text with their page
+breaks intact and indexed, then read through one at a time. For each volume
+it is worked through chapter by chapter, writing down scenes, spoken lines,
+inner voice, numbers and rules — every entry pinned to the page it was read
+on. The prose pages you are reading are assembled from those notes and nothing
+else; a volume that has not been read that way shows only its mechanical record
+(who is named on which page) and says so plainly. Every statement carries
+the page it came from so you can check it rather than trust it.</p>
 <div class="box note"><h4>At a glance</h4><p>{stats['chars']} characters ·
 {stats['vols']} volumes · {stats['quotes']:,} quoted lines indexed ·
-{walked} volume{'' if walked == 1 else 's'} transcribed line by line.</p></div>"""
+{len(walked)} of {stats['vols']} volumes read line by line
+({', '.join(site_arch.volume_label(w) for w in walked)}),
+{stats['scenes']} anchored scenes between them.</p></div>"""
     return ctx["page"]("Appendix", "appendix", body,
                       [("Home", "index.html"), ("Appendix", None)],
                       out="appendix/index.html", rail=appendix_rail(ctx),

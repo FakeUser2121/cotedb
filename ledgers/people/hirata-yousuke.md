@@ -137,3 +137,17 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [trait] (p.248) Moral consistency under hostility: fights for the classmate who insulted him while others silently feel relieved.
 
 <!-- walk: y1v1 ch11 → p.255 -->
+
+## y1v2
+
+<!-- walk: y1v2 → start -->
+
+### y1v2 p.17–18 — Ch.2 §2.1: decoding Horikita in public
+[scene] (p.17) "The class leader, Hirata Yousuke, answered for her." — after Horikita bait-and-silences the class on "get something."
+[says] (p.18) "I believe that Horikita-san is referring to the deductions we incurred throughout April and May. In other words, we didn’t see a reduction in points for talking in class or being late."
+[trait] (p.17–18) Reads peers' half-thoughts accurately and translates them for the room without seeking credit; AK: "The sharp-witted Hirata hadn’t missed a beat. Splendid."
+[back] (p.36–37) Named by AK as an expert-advice pillar ("If it were Horikita or Hirata here, they’d probably be able to give expert advice.") — but unusable on Sudou's case because "Sudou hates Hirata."
+[rel:sudou-ken] (p.37) Still the object of Sudou's hatred from the fake-expulsion episode; Hirata is not in the crisis's inner circle at all.
+[rel:ayanokouji-kiyotaka] (p.36) AK holds him up as the standard he himself declines to be.
+
+<!-- walk: y1v2 ch2 → p.39 -->

@@ -111,6 +111,61 @@ def check_search_index():
     return errors
 
 
+# The build's own vocabulary. None of it may appear in the text a reader sees:
+# a ledger, a walk, a checkpoint, a char_id, a raw volume key belong to the
+# pipeline, not to a page about the novels.
+INTERNAL_WORDS_RE = re.compile(
+    r"walk ledger|\bledgers?\b|\bthe walk\b|\bdossiers?\b|\bcheckpoint\b"
+    r"|\bchar_id\b|\bcote_kb\.db\b|\bscene block\b"
+    r"|\b(?:y0|y[123]v\d+(?:\.\d+)?)\b", re.I)
+
+# "the walk back home" in a character's own sentence is ordinary English.
+BENIGN_PHRASES_RE = re.compile(r"\bthe walk (?:back|home|there|away)\b", re.I)
+
+# The citations appendix exists to document the volume keys, so it may show one.
+WORDING_ALLOW = {"appendix/citations.html"}
+
+STRIP_RE = (re.compile(r"<!--.*?-->", re.S),
+            re.compile(r"<(script|style)\b.*?</\1>", re.S | re.I),
+            re.compile(r"<[^>]+>"))
+
+
+def visible_text(html):
+    """Tag-free text a reader actually reads, whitespace-normalised."""
+    for rx in STRIP_RE:
+        html = rx.sub(" ", html)
+    return " ".join(html.split())
+
+
+def check_wording(files):
+    errors = []
+    for p in files:
+        rel = p.relative_to(SITE).as_posix()
+        if rel in WORDING_ALLOW:
+            continue
+        text = BENIGN_PHRASES_RE.sub(" ", visible_text(p.read_text(encoding="utf-8")))
+        for m in INTERNAL_WORDS_RE.finditer(text):
+            where = text[max(0, m.start() - 45):m.end() + 45].strip()
+            errors.append(f"{rel}: internal wording reaches a reader: "
+                          f"[{m.group(0)}] … {' '.join(where.split())}")
+            if len(errors) > 20:
+                return errors
+    return errors
+
+
+def check_chip_markup(files):
+    """A citation chip is a <details> in a <summary>; building one inside
+    another produces markup no browser can open."""
+    errors = []
+    for p in files:
+        t = p.read_text(encoding="utf-8")
+        n = len(re.findall(r"<summary[^>]*>\s*<details", t))
+        if n:
+            errors.append(f"{p.relative_to(SITE).as_posix()}: "
+                          f"{n} chip(s) nested inside a <summary>")
+    return errors
+
+
 def check_inventory():
     """Architecture invariants instead of a frozen page count: every section
     in the spec is published, every volume in the database has a place on the
@@ -203,6 +258,13 @@ def main():
             if not (SITE / "assets" / f if f.endswith((".css", ".js"))
                     else SITE / f).exists():
                 errors.append(f"missing asset: {f}")
+        word_errs = check_wording(site_files)
+        errors.extend(word_errs)
+        notes.append(f"reader wording: {len(word_errs)} leak(s) of pipeline "
+                     f"vocabulary into visible text")
+        markup_errs = check_chip_markup(site_files)
+        errors.extend(markup_errs)
+        notes.append(f"chip markup: {len(markup_errs)} nested chip(s)")
         if DOCS.exists():
             if md5_tree(DOCS) != md5_tree(SITE):
                 errors.append("docs/ out of sync with share/site "

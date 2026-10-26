@@ -169,3 +169,60 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:horikita-suzune] (p.257, 261) Calls her a "surprisingly good person" and volunteers to follow her — the p.245 confession matured into partnership banter.
 
 <!-- walk: y1v1 ch12 → p.262 -->
+
+### y1v2 p.12–13 — Ch.2 opening: one-punches three Class C boys, finishes the fight
+[scene] (p.12) Post-fight tableau seen through Sakura's eyes: three boys on the floor, Sudou standing over them, right fist bloody; "It was an entirely one-sided ordeal."
+[says] (p.12) "He he, so. Do you really think that this is the end of it, Sudou?" (one of the beaten Class C boys taunts from the floor — speaker unnamed)
+[says] (p.12) "Do you wanna make me laugh? You’re in the sorriest state possible. You want to go for another round, huh? Next time I won’t hold back."
+[feat] (p.12) Grabs the taunter's collar and hauls him face-to-face; "Sudou looked as though he was going to kill and then devour his opponent, which was so overwhelming that the defeated boy looked away."
+[says] (p.13) "Are you scared? Did you really think you’d beat me if you had more people?"
+[says] (p.13) "What a waste of time. Tiring me out after practice. Give me a break,"
+[says] (p.13) "Nothing’s more pathetic than a sore loser. No matter how many times you come at me, you won’t win."
+[trait] (p.13) Leaves like the winners' corner doesn't matter: "dropped the student, picked up his bag, and then turned and walked away as if the defeated three completely disinterested him."
+[says] (p.13) "Is someone there?" (senses Sakura's movement; misses her by two seconds — he never learns there was a witness)
+
+### y1v2 p.22–23 — Ch.2 §2.3: hauled to the faculty room
+[scene] (p.22) Tries to bolt to basketball practice when Chabashira calls him; lazily flashes his sports uniform; only follows her after her consequence threat, clicking his tongue.
+[says] (p.22) "Huh? What do you want with me? I’ve got basketball practice now."
+[says] (p.22) "What? Will this be over quickly?"
+[back] (p.22) A classmate's mutter sums his reputation: "I thought that he might have changed, but I guess Sudou’s the same as ever. Wouldn’t it have been better if he just got kicked out?"
+
+### y1v2 p.27–38 — Ch.2 §2.4: confesses the fight to AK + Kushida, begs for secrecy
+[scene] (p.27) Bursts into Ayanokōji's locked room (duplicate keycard made by Ike's group) with a beet-red face: he may be suspended.
+[says] (p.27) "Save me, Ayanokouji!"
+[says] (p.27) "This the room where our group meets, isn’t it? Ike and the rest of us made duplicate keys. Didn’t you know that? Everyone else in the group has a key, too."
+[says] (p.27) "Huh? Why? I bought this with my own points. It’s mine." (refusing to surrender the cloned key)
+[says] (p.28) "I can’t ask them. They’re stupid." (why not Ike/Yamauchi)
+[says] (p.28) "Buy some carpet, will ya? My butt hurts," (thuds onto AK's bare floor)
+[says] (p.29) "You know how our homeroom teacher called me today? Well, it’s… Uh… The truth is…I may be suspended. For a long time, actually."
+[says] (p.29) "It’s probably worse than you’re thinking…"
+[says] (p.30) "To tell you the truth, I beat up some kids from Class C yesterday. Then, I got suspended. The suspension is probably my punishment."
+[says] (p.30) "Just so you know, it wasn’t my fault, okay? The jerks in Class C started it and tried to pick a fight with me. I just responded to the situation and turned the tables on them. Then they said that I started the fight. They’re a bunch of liars."
+[says] (p.31) "Sorry, I guess I just kind of skipped to the end and left a lot out."
+[says] (p.31) "I was talking with the club advisor about being a regular for the summer tournament."
+[says] (p.31) "Well, nothing’s set in stone yet. It’s just a possibility for now."
+[says] (p.31) "Yeah, I suppose. Actually, I was the only first-year student nominated to be a regular player. Still, it’s not like it’s definite. Anyway, when I was on my way back to the dorm, Komiya and Kondou, who’re in the basketball club with me, called me over to the special building. They said they wanted to talk to me about something. I could’ve just ignored them, but I mean, I occasionally talk to those two guys during basketball. I thought it’d be better to just hear them out. So of course, I went to meet with them, right? Then, there was this Ishizaki guy there, waiting for me. He’s Komiya and Kondou’s friend. They said that they couldn’t stand that someone like me from Class D had been chosen as a regular. They threatened me, and said to quit basketball or there’d be a lot of pain in my future. I refused to quit, I beat them up, and now I’m here."
+[says] (p.31) "Right? I seriously don’t get this. I can’t believe that teacher, either!"
+[says] (p.32) "They said they would give me until next Tuesday to come up with proof. If I can’t do that, they’ll say I’m at fault and I’ll be suspended until summer. On top of that, the whole class will lose points, too."
+[says] (p.32) "What do you mean, you wonder? You’re not doubting me, are you?"
+[says] (p.32) "Huh? Why? It was legitimate self-defense, wasn’t it? Huh?!" (smacks the table at AK's verdict)
+[says] (p.33) "I’m sorry, I just got a little mad." (instantly apologizes when Kushida flinches)
+[says] (p.33) "I-I don’t understand, though. I was up against three people. Three! That seems plenty dangerous."
+[says] (p.33) "I still don’t get it. I’m the victim here! Being suspended isn’t some kind of joke! If I’m punished for this, forget being a regular player. I won’t even be able to play in the tournament!"
+[says] (p.33) "Those guys aren’t idiots. They won’t be honest. Goddamn it, I won’t ever forgive them! Those damn nobodies!" (snaps AK's ballpoint pen in two)
+[says] (p.34) "There might be something, though. This might just be a misunderstanding on my part, but when I was fighting those guys I felt something…odd. Like someone was nearby, watching me."
+[says] (p.34) "Yeah, I think so. I don’t have proof anyone was there, though."
+[says] (p.34) "What should I do?" (head in hands)
+[says] (p.35) "This might sound kind of shameless, but…can you guys not tell anyone about this?"
+[says] (p.35) "If word gets out, it’ll definitely get around to the basketball team. I don’t want that to happen. You understand, right?"
+[says] (p.35) "Please understand, Ayanokouji. If I can’t play basketball, I have nothing," (grips AK's shoulders)
+[says] (p.36) "But, if I dump this on you guys—"
+[says] (p.36) "All right. I know this is a bother for you guys, but I’ll leave it to you."
+[says] (p.36) "Well, we’ll head back to our rooms. I’m sorry for barging in here."
+[trait] (p.27–38) Basketball is his entire identity; keeps the secret circle tiny (AK + Kushida, not even Horikita/Hirata); still won't give up the cloned key; apology reflex toward girls (Kushida's stiffened shoulders).
+[rel:ayanokouji-kiyotaka] (p.36) Comes to AK before anyone else — trust earned via the midterm point purchase; AK grudgingly keeps hosting him.
+[rel:kushida-kikyou] (p.29–36) Comfortable venting in front of her; softens instantly when she's startled.
+[rel:hirata-yousuke] (p.37) Still hates Hirata (per AK: "Sudou hates Hirata, so that makes Horikita the obvious choice.").
+[rel:ike-kanji] (p.28) Rates Ike/Yamauchi as useless for advice ("They’re stupid.") yet keeps using their cloned-key club.
+
+<!-- walk: y1v2 ch2 → p.39 -->

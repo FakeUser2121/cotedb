@@ -196,9 +196,105 @@ group keys become human labels; names get macron-fixed through one table.
   pages only, because `section_scope` wraps `<h2>` blocks by their newest
   citation and hub/index pages carry no per-block citations.
 
+## 2026-10-26 22:0x — pushed, Pages rebuilt, live markup verified
+- Gate re-run before pushing: `share_check: all checks passed` — 161 pages,
+  11,818 links / 0 bad, search index 1,223 records / 0 bad, `docs/` in sync,
+  6 print docs / 2,259 links / 0 bad, guides.pdf back to 18 pages.
+- Committed as `bfe19f1` ("Site v3.1: collapse empty rails, cross-link the
+  volume pages") with the GitHub noreply author via `GIT_*_EMAIL` env vars —
+  git config untouched, per standing rule. Staged `kb/` (3 files), `docs/`,
+  `progress3.md`; `ledgers/` y1v2 work and `session-ses_ebdd.md` deliberately
+  left out of this commit.
+- Pushed `14c3750..bfe19f1` to `origin/main`; Pages `builds/latest` reached
+  `built` on commit `bfe19f1`.
+- Verified the live markup over HTTPS (not screenshots):
+  - `index.html` → `class="sec-home no-left"`, 0 `rail left` elements — the
+    empty outlined box the user reported is gone.
+  - `story/v/y1v1/index.html` → 200, rail present, Related panel present.
+  - `people/minor/t.html` → 200; `topics/expulsions.html` → 200 and carries
+    `no-right`, so the right column collapses there too.
+- Next: remaining Related panels (topics 0/6, guides 0/4, appendix 0/4,
+  32 people pages) — DoD #4 is not yet satisfied.
+
+## 2026-10-26 22:3x — evidence-only rebuild + reader wording gate
+
+The user's standing order was to strip everything that pre-dates the y1v1 walk:
+those pages were written from whole-series memory and carried invented lines.
+Two follow-up decisions from the user: pages whose content came from the retired
+layer stay in the nav as labelled stubs, and the y1v1 evidence feeds as many
+pages as it can, with unread material falling back to reference links instead of
+a wall of bullets.
+
+What changed in the build:
+- `build_share_site.py` no longer loads the curated layers at all
+  (`status_timeline`, `relations`, `claims` are gone from `build_ctx`); stats are
+  derived from the ledgers (`walked`, `scenes`), and `build_pathmap` is
+  database-driven, so the pre-walk `dossiers/` tree is not in the path map.
+  `render_dossier_meta()`, `site_data_groups()` and the `render` import are
+  deleted; 163 → 161 pages after skipping characters whose page is an anchor on
+  a minor A–Z page (a `#` in an output path was writing a literal file).
+- `dossiers/` moved to `archive/dossiers/` (`git mv`, 101 entries) with a README
+  stating it feeds nothing and that its text must not be copied into a ledger,
+  draft or page. The generators that still read the old path are listed there.
+- Ledger id ↔ page id pairing lives in one table, `site_ledgers.LEDGER_ALIAS`
+  (midterm-final-written→midterm-exam, private-points→point-economy,
+  library→school-library), with `stem_for/page_id_for/exists_for/load_for`.
+  Without it a volume page linked to `school/exam/midterm-final-written.html`,
+  which does not exist.
+- `site_evidence.vol_chip` takes the page's own directory through `_dir_of()`
+  (dirname only for `*.html`), which fixed the off-by-one depth that produced
+  `../story/v/y1v11/index.html` on every school/exam page.
+- Unread entities render mechanical facts + `coverage_stub`, and the unread
+  volumes collapse into one inline line of reference chips plus a link to
+  `appendix/coverage.html` — the "graceful fallback, not cluttered dump" rule.
+- `entity_page_href` (site_sections) resolves a ledger stem to a real page and
+  falls back to the section index; `related_links` gutted to `[]`; `topics` are
+  queries over `L.scan()`; `mentioned_volumes` sorts by reading order.
+
+Reader wording pass (this turn):
+- Citation chips now say `Vol. 1 p.247`, never `y1v1 p.247`. `chipify` builds the
+  label from `volume_short` and skips regions that are already a chip, which also
+  killed a real markup bug: chips were being wrapped inside chips
+  (`<summary class="cite"><details class="citebox">…`), invalid HTML.
+- `site_ledgers.humanize()` turns a volume key used as a word inside a note
+  ("her y1v2 arc") into the reader's label, while leaving citations alone.
+- Pipeline bookkeeping no longer reaches a page: `<!-- walk: … -->` comments and
+  the `## y1v1 WALK COMPLETE` / `coverage: 264/264` stamp were being rendered as
+  scene text on the Ayanokōji page. `_entries` now drops headings and
+  `BOOKKEEPING_RE` lines.
+- `volume_tag` is human ("Year 1 Vol. 5", "Side Stories") in cross-volume lists.
+- Home/appendix/topics/school/guides copy rewritten to say "read line by line"
+  instead of "the walk / walked / ledger"; footer example matches the chip that
+  is actually rendered; `appendix/citations.html` still documents the raw keys —
+  that is its job, and it is the only page allowed to.
+- Two new gate checks in `share_check.py`: `check_wording` (tag-free visible
+  text must not contain ledger/walk/dossier/checkpoint/char_id/cote_kb.db/raw
+  volume keys, with "the walk back home" and the citations page exempt) and
+  `check_chip_markup` (no `<details>` inside a `<summary>`). The wording check
+  found 10 live leaks on its first run; it is now at 0.
+
+Verified this turn: `build_share_site: 161 pages + 761 search records + 6 print
+bundles + 6 pdfs`; `share_check: all checks passed` — 15,831 site links 0 bad,
+6,653 print links 0 bad, docs/ in sync, wording 0, nested chips 0; HTML tree md5
+identical across two full rebuilds (only `pdfs/*.pdf` bytes differ). Spot-checked
+rendered text: Ayanokōji scene chips `Vol. 1 p.14-15 …`, no WALK COMPLETE stamp;
+`school/exam/entrance-exam.html` stub reads "Nothing about Entrance Exam has been
+read line by line yet … Named in 13 volumes — Year 1 Vol. 1 · …".
+
+Note for future turns: `build_share_site.py --docs` is exclusive — it mirrors and
+returns. A content change needs the plain build first, then `--docs`, or the gate
+silently checks stale HTML (this cost a rebuild cycle here).
+
+The uncommitted y1v2 ledger entries are now part of the published evidence (the
+volume page and the affected character/topic pages show them under the "Partway"
+status note). Before publishing they were put through the walk's own fidelity
+checkers: `kb/verify2.py y1v2` → 172 [says] lines, 4 too short, ALL PASS;
+`kb/verify3.py y1v2` → 96 non-says quoted lines, ALL PASS. So the site is
+publishing verified text, just not yet a complete volume.
+
 ## Known state / risks
-- `share/site/` is currently half-orphaned (assets dir only) until the build
-  completes; PDFs regenerate inside the build.
+- `share/site/` and `docs/` are both current and in sync (`share_check`
+  compares them); PDFs regenerate inside the build.
 - Determinism: `*.pdf` excluded from the content md5 (chromium timestamps).
 - Ledger fidelity verifiers (progress2.md) stay green independently: 626 [says]
   ALL PASS for y1v1.

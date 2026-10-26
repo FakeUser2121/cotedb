@@ -262,6 +262,14 @@ def volume_label(vol_id):
     return f"{year}, Volume {volume_number(vol_id)}"
 
 
+def volume_tag(vol_id):
+    """Compact but human year+number tag, for lists that span years where
+    'Vol. 1' alone would be ambiguous."""
+    if vol_id == "y0":
+        return "Side Stories"
+    return f"Year {volume_year(vol_id) or '?'} Vol. {volume_number(vol_id)}"
+
+
 def volume_kind_label(kind):
     return {
         "main": "Main story",

@@ -220,3 +220,50 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [trait] (p.256–261) Morale engine: every time Horikita demoralizes the trio, Kushida rebuilds them — the recruitment pairing that makes the group functional.
 
 <!-- walk: y1v1 ch12 → p.262 -->
+
+### y1v2 p.19 — Ch.2 §2.2: the social ceiling, narrated
+[back] (p.19) AK's snapshot of her position: "She’s extremely popular and has many friends, both girls and boys. She gets in-person invitations, along with constant invites over the phone and through email... when she eats with friends she appears to have a real life."
+
+### y1v2 p.24 — Ch.2 §2.3: group-chat wistfulness
+[scene] (p.24) Kushida was the one who doubted Horikita would ever join the class group chat after the midterm invite ("Kushida had doubted whether Horikita would actually participate, since she hated talking with others.").
+
+### y1v2 p.27–38 — Ch.2 §2.4: Sudou's crisis conference — angel mode with an icy seam
+[scene] (p.28) Knocks during AK's kettle moment; "Kushida, the Madonna of Class D, poked her head through the entrance. She looked as cute as ever."
+[says] (p.28) "Oh, Sudou-kun’s already here,"
+[says] (p.28) "Yeah, I do. That’s so we can meet up here… Wait, did you not know about that, Ayanokouji-kun?" (she also holds a duplicate key to his room — assumed he'd consented)
+[says] (p.28) "Umm, well…should I return it to you?" (apologetically offers the key back)
+[says] (p.29) "S-suspended?"
+[says] (p.30) "Oh, I got it, Ayanokouji-kun. He viciously beat Chabashira-sensei and then he spit on her!"
+[says] (p.30) "Ha ha, I’m only joking! Sudou-kun wouldn’t go that far." (the joke lands wrong — Sudou's shock proves the secret is real)
+[says] (p.30) "Just wait a minute, Sudou-kun. Can you please start over, and go a bit more slowly?"
+[says] (p.31) "A regular player? That’s amazing, Sudou-kun! Congratulations!"
+[says] (p.31) "Still, that’s amazing. We’ve only just started school."
+[says] (p.31) "So then they painted you as the bad guy, Sudou-kun."
+[says] (p.31) "If Class C started this, then Sudou-kun isn’t at fault."
+[says] (p.31) "We should tell Chabashira-sensei tomorrow. We should tell her it wasn’t Sudou-kun’s fault,"
+[says] (p.32) "Sudou-kun, you didn’t lie to the teacher, did you? I mean, it seems strange. They didn’t believe you even though you said you didn’t do anything wrong. Right?"
+[says] (p.33) "I guess that their plan is to severely punish Sudou for punching them, huh?"
+[says] (p.34) "Let’s just come out and ask those three Class C students to be honest. If they feel like what they did was wrong, then surely they’d feel guilty about it. Right?"
+[says] (p.34) "There are two ways we can prove your innocence, Sudou-kun. The first way is to simply get those boys in Class C to admit that they lied. Since you weren’t at fault, it’s probably best to get them to acknowledge that."
+[says] (p.35) "The other idea is to find the eyewitness you talked about, Sudou-kun. If someone happened to see the fight, then we should be able to get to the heart of the matter."
+[says] (p.35) "Asking people one by one? Or we could simply address each class as a whole,"
+[says] (p.35) "H-huh? You don’t want us to tell anyone?"
+[says] (p.35) "But won’t the students in Class C talk about how Sudou-kun was violent? I mean, that would work in their favor, I’d think."
+[says] (p.35) "Sudou-kun, I think it would be better if you kept your distance," (Sudou must stay away while accused)
+[says] (p.36) "I don’t think it’s being dumped on us. We want you to rely on us, Sudou-kun. I don’t know how much we can do, but we’ll try our best. Okay?"
+[says] (p.36) "I have a few things I wanted to talk to you about, Ayanokouji-kun. You didn’t seem very enthusiastic about helping Sudou-kun."
+[says] (p.36) "Maybe, but Sudou-kun came to you, Ayanokouji-kun. He came to you before Horikita-san, Hirata-kun, or even Ike-kun."
+[feat] (p.37) The mask slips mid-conversation: "For an instant, Kushida’s glare turned icy, which perplexed me." — then she recomposes into advice.
+[says] (p.37) "I think it might be better if you made more effort to blend in, Ayanokouji-kun,"
+[says] (p.37) "Of course. We’re friends. So what will you do, Ayanokouji-kun?"
+[says] (p.37) "Do you think Horikita-san will help us?"
+[says] (p.37) "I know that you’re trying to dodge the question, but you’ll help, too. Won’t you, Ayanokouji-kun?"
+[says] (p.37) "You won’t be useless. I’m sure you’ll be useful, somehow."
+[says] (p.37) "So what should we do? Sudou-kun said that it wouldn’t help, but I think it’d be good to talk with the three students he fought. To tell you the truth, I’m friends with Komiya-kun and the others. Therefore, it might be possible to persuade them. Hmm, it may be dangerous, though."
+[says] (p.38) "Well then, I guess looking for the eyewitness is our best bet."
+[trait] (p.29–38) Structured empathy: jokes to defuse, then imposes an agenda (two proof routes), volunteers her cross-class network (Komiya et al. in C) as a tool, and pins AK to a commitment he keeps dodging.
+[limit] (p.37) Her pressure only works socially — AK admits "Like right now, I didn’t have the guts to promise that I’d help."; her icy glare is the only lever that lands.
+[rel:sudou-ken] (p.35–36) Officially takes his side, secures his cooperation with warmth, keeps the secrecy bargain.
+[rel:ayanokouji-kiyotaka] (p.36–38) Escalates one-on-one after Sudou leaves; demands he publicly invest in the case; he internally recalls her "I hate you" warning while complying outwardly.
+
+<!-- walk: y1v2 ch2 → p.39 -->

@@ -87,6 +87,33 @@ def person_href(char_id, tier=1, letter=""):
     return f"people/minor/{(letter or char_id[:1]).lower()}.html#{char_id}"
 
 
+def coverage_by_char(con):
+    """{char_id: [{'vol_id', 'status'}]} — which volumes a name is written in.
+
+    This is the extractor's mention table, not an interpretation: 'quotes'
+    means the name is attached to speech on some page of that volume,
+    'occurrences' means the name appears in the text. Safe to publish on a
+    volume the walk has not read yet, which is why stubs are built from it.
+    """
+    out = {}
+    for cid, vol, status in con.execute(
+            "SELECT char_id, vol_id, status FROM coverage"):
+        out.setdefault(cid, []).append({"vol_id": vol, "status": status or ""})
+    return out
+
+
+def aliases_by_char(con):
+    """{char_id: [raw form]} — the spellings the walk anchored on."""
+    out = {}
+    for cid, raw in con.execute(
+            "SELECT char_id, raw_form FROM aliases "
+            "WHERE COALESCE(is_noise, 0) = 0 ORDER BY char_id, raw_form"):
+        forms = out.setdefault(cid, [])
+        if raw and raw not in forms:
+            forms.append(raw)
+    return out
+
+
 def walk_state():
     """{vol_id: {'start': bool, 'chapters': set, 'markers': n}}."""
     state = {}

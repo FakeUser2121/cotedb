@@ -357,3 +357,47 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [trait] (p.256–262) Progress without softening: attends, jokes-in-her-own-way, guards the secret, and converts a party into a war council — her will to Class A declared unshakeable.
 
 <!-- walk: y1v1 ch12 → p.262 -->
+
+## y1v2
+
+<!-- walk: y1v2 → start -->
+
+### y1v2 p.17–18 — Ch.2 §2.1 (July 1): reading the point board correctly
+[says] (p.17) "This isn’t good. Could they have figured out a way to increase their point total?!"
+[says] (p.17) "It’s too early to celebrate. All the other classes saw a similar increase in their points. We didn’t close the distance at all. This might just be a reward first-year students receive for getting through the midterm. Every class seems to have gotten at least 100 points."
+[says] (p.17) "So that’s what happened. I thought it odd that we’d been awarded points so quickly."
+[says] (p.17) "No, that’s not it. We managed to get something this time, after all." (to AK's jab about the widening gap; then falls silent, refusing to explain)
+[trait] (p.17) Only student tracking other classes' totals; celebration-proof — measures relative gap, not absolute gain.
+
+### y1v2 p.19–21 — Ch.2 §2.2 (lunch): the bento era
+[says] (p.19) "You’re still not used to it. You’re as pathetic as ever, Ayanokouji-kun." (noticing him scanning for lunch invitations)
+[says] (p.20) "I’m quite fine, thank you." (his sarcasm about her solitude taken literally)
+[says] (p.20) "I’m not sure about that. The school supermarket provides free ingredients, you know."
+[says] (p.21) "Anyone can cook by looking up a recipe in a book or on the Internet. Our dorms come equipped with all of the necessary tools, as well."
+[says] (p.21) "The cafeteria is noisy. It’s much more relaxing to eat here, wouldn’t you say?"
+[says] (p.21) "You’re always staring out at the ocean, but you don’t have a surfboard. You lack even the determination to ride the wave, don’t you? And you talk about missing it? You’re awfully full of yourself."
+[trait] (p.19–21) New budget coping routine: home-made bento from free supermarket ingredients; refuses the free-cafeteria-subsidy optics; roasts AK with ocean/surfboard metaphor unprompted.
+
+### y1v2 p.22–26 — Ch.2 §2.3 (after school): points paranoia, chat refusal, oil and water
+[says] (p.22) "Do you think so, too? That it would have been better if Sudou-kun were expelled?" (opening, while packing every textbook)
+[says] (p.23) "Hmm. Well, we still don’t know whether our points would go up as a class, really," (on her own midterm rescue of Sudou — feigned disinterest)
+[says] (p.22) "I’m a little worried about what Chabashira-sensei said this morning,"
+[says] (p.22) "Yes. She said that there was trouble, but did she mean that it was a problem for the school, or a problem for us, the students? If it’s the latter, then…"
+[says] (p.23) "I hope that’s the case. Trouble directly affects our points."
+[says] (p.24) "I’m not interested in the slightest. Also, I keep my notifications turned off." (class group chat: joined but zero participation; keeps the app so leaving won't notify Kushida)
+[says] (p.24) "You’ve been quite talkative lately, Ayanokouji-kun."
+[says] (p.24) "It’s a slight difference, but you’ve changed."
+[says] (p.25) "Did something make you change?"
+[says] (p.25) "You seem to be getting along quite well with Kushida-san. Aren’t you bothered, especially knowing about her other side?"
+[says] (p.25) "Hmm. Well, you may have a point there. It’s true that I hate you, too, Ayanokouji-kun, yet I talk to you normally. I don’t really mind, then."
+[says] (p.25) "That’s what I’m getting at. If someone says that they hate another person, it’s fine. But if someone says that they hate you, don’t you feel a little bad?"
+[says] (p.25) "I don’t have any intention of getting in her way, but Kushida-san and I are like oil and water. I think it’s better not to associate with her."
+[says] (p.25) "Who knows? She probably doesn’t know that much about me."
+[says] (p.25) "If you’re that curious, why don’t you ask her yourself? Directly?"
+[says] (p.26) "What you just said was really disgusting, you know that?" (reaction to "I'm fine with the Kushida we have now")
+[trait] (p.22–26) Runs the worst-case simulation on every institutional signal; her hate lines are delivered analytically, then re-used as a lesson about honesty; deliberate testing of AK (his: "Were you testing me?").
+[rel:ayanokouji-kiyotaka] (p.19–26) Daily walk-back ritual; she monitors his behavioral drift and says so; conversation register now includes open hostility-as-rapport ("It’s true that I hate you, too, Ayanokouji-kun, yet I talk to you normally").
+[rel:kushida-kikyou] (p.25) Declares them "like oil and water"; refuses any shared-group engagement with her; genuinely does not know Kushida's rooftop face.
+[rel:sudou-ken] (p.22–23) Won't call for his expulsion yet discounts defending him publicly; frames everything through class-point consequences.
+
+<!-- walk: y1v2 ch2 → p.39 -->

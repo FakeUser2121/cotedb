@@ -229,3 +229,18 @@ Ledger tag grammar: [scene] [says] [thinks] [trait] [voice] [feat] [limit]
   `ledgers/*` carries **uncommitted y1v2 entries** written 19:56–20:03 by the
   walk session that was interrupted; they were deliberately left out of the
   site commit and still need the y1v2 coverage gate (task #3 here).
+
+## Site pass 2026-10-26 22:3x — what the walk needs to know
+
+- The site now publishes **only** ledger + y1v1-draft evidence; the pre-walk
+  dossier layer is out of the build and moved to `archive/dossiers/` (its text
+  must never be copied into a ledger, draft or page). Full detail in progress3.md.
+- The interrupted y1v2 ledger entries were verified before publishing:
+  `kb/verify2.py y1v2` → 172 [says] ALL PASS (4 too short/skipped);
+  `kb/verify3.py y1v2` → 96 non-says ALL PASS. They render as "Partway" pages, so
+  task #2/#3 here remain open — the volume still needs finishing to p.261.
+- Writing rule learned by the renderers, not the walk: `## <vol> WALK COMPLETE`
+  and `walk:/coverage:` stamps stay in the file and are now filtered at build
+  time; volume keys used as words inside a note ("her y1v2 arc") are humanized to
+  "Vol. 2" on render. Keep writing them however the walk likes — the build
+  translates.

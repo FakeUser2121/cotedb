@@ -142,3 +142,23 @@ aliases used for anchors: ike, kanji, ike-kun
 [trait] (p.256–262) Party lifeblood: toastmaster, self-appointed critic of plans, first to panic at ambition — still the group's tell-everything mouth.
 
 <!-- walk: y1v1 ch12 → p.262 -->
+
+## y1v2
+
+<!-- walk: y1v2 → start -->
+
+### y1v2 p.16–19 — Ch.2 §2.1–2.2: front-row advocate for the Class D payout
+[says] (p.16) "Sae-chan-sensei! Do we have zero points again this month?! When I checked this morning, I didn’t see a single point deposited into my account!"
+[says] (p.16) "We worked ourselves half to death this past month! We passed the midterm, so why are we still at zero points?! No one’s been late or absent, and no one’s talked during class, either!"
+[says] (p.17) "Huh? Wait, 87? Does that mean we actually went up? Yahoo!" (jumping at the board)
+[says] (p.17) "Get something? Get what?"
+[says] (p.18) "Ah, is that so? I suppose that even if we got 100 points, a lot of deductions would’ve brought us down to zero."
+[says] (p.18) "Wait. But then, why didn’t we get any points?"
+[says] (p.18) "Huh? Seriously? If this is the school’s fault, then shouldn’t we get some kind of bonus as compensation?"
+[scene] (p.16–17) Admonished by Chabashira ("You’re correct, Ike. You have all worked harder than ever before."), he "shut his mouth and sat back down" — instantly deflated by recognition.
+[trait] (p.16–18) Class D's loud economic canary: protests first, celebrates first, re-asks the obvious question; teacher acknowledgment mutes him on command.
+[scene] (p.19) Lunch: eats daily with the guy group — Yamauchi, Sudou, Hondou; AK's verdict: "people like Ike and Yamauchi, who aren’t very popular with girls."
+[back] (p.27) Ran the duplicate-keycard operation for Ayanokōji's room: "Ike and the rest of us made duplicate keys." (per Sudou) — group HQ designation without the owner's consent.
+[rel:sudou-ken] (p.19, p.28) Inseparable weekday lunch crew; Sudou still rates their advice useless ("I can’t ask them. They’re stupid.").
+
+<!-- walk: y1v2 ch2 → p.39 -->

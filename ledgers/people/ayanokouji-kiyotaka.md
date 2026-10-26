@@ -576,3 +576,146 @@ aliases used for anchors: ayanokouji/ayanokōji, kiyotaka, ayano, kiyopon, ayano
 ## y1v1 WALK COMPLETE
 coverage: 264/264 pages read in 13 chunks; every alias-hit page covered; ledger entries at every scene stop.
 walk: y1v1 → DONE
+
+## y1v2
+
+<!-- walk: y1v2 → start -->
+
+### y1v2 p.15–18 — Ch.2 §2.1 (July 1): first class points, delayed deposit
+[scene] (p.15) July 1, Class D homeroom, abnormally raucous: the first monthly point deposit since enrollment is expected.
+[thinks] (p.15) System recap for the reader: "We used these private points to purchase daily necessities, meals, even electrical appliances. At this school, points are currency. They are very important."
+[thinks] (p.15) "If you didn’t have any private points, you were forced to live day-today without spending money. You couldn’t use real currency anywhere on campus."
+[status:points] (p.15–16) Class D sat at zero class points since June; every class started with 1000 class points; deposit = class points × 100 paid into each private account on day 1.
+[thinks] (p.16) "However, my perspective changed when I bought a point for the midterm test." — private points can change your situation; you "could likely purchase more than just test points."
+[says] (p.17) "Are you disappointed because the gap between the classes has widened, Horikita?"
+[thinks] (p.18) "The sharp-witted Hirata hadn’t missed a beat. Splendid." (Hirata decoding Horikita's "get something")
+[trait] (p.16–19) Reads Chabashira's hedged closing ("If there are still points left, that is.") as deliberate: "There was deeper meaning behind Chabashira-sensei’s words."
+
+### y1v2 p.19–21 — Ch.2 §2.2 (lunch): having friends and still eating alone
+[thinks] (p.19) "Meanwhile, I don’t really belong anywhere."
+[thinks] (p.19) "However, now I was experiencing a strange phenomenon: I had friends, yet I was still on my own."
+[thinks] (p.19) "I’m over here, guys. It’s okay for you to invite me. My glances were filled with selfishness and anticipation. I was flooded by feelings of self-loathing."
+[thinks] (p.19) Fear of the low-tier-friend question: "Did they all consider me a low-tier friend? Or was our friendship all in my head?"
+[says] (p.20) "You seem completely used to solitude," (to Horikita; meant as sarcasm, taken by her as sincere)
+[says] (p.20) "Doesn’t it cost quite a bit and take a lot of effort to make your own lunch?"
+[says] (p.21) "Don’t tell me. Not only are you a bright scholar, you’re an accomplished cook as well? That doesn’t seem to fit your personality."
+[says] (p.21) "But why did you decide to go through the trouble of making your own lunch?"
+[says] (p.21) "Do I already miss riding the big cafeteria-bound wave of students?"
+[thinks] (p.20) Kōenji assessment: "He didn’t love solitude, but rather, loved himself and cared little for others. I respected that he didn’t seem bothered at all by being alone."
+[thinks] (p.20) Notes the quiet bespectacled classmate (Sakura) making her own bento: "She was always alone, and I’d never seen her talk to anyone."
+[trait] (p.21) Sticks to Horikita despite constant insults: "I wished I had a comeback for that, but I couldn’t argue. I just wanted her to cut me a break."
+
+### y1v2 p.22–26 — Ch.2 §2.3 (after school): Horikita, Kushida, and the "hate" chat
+[thinks] (p.22) "There was some value in being able to vanish like a ninja into a crowd. If I hung toward the back of some group of friends, I could pretend I was one of them."
+[says] (p.23) "I don’t really think so. What about you, Horikita? You were the only person who gave Sudou a helping hand."
+[thinks] (p.24) On walking home with Horikita: "Since we didn’t have lunch together or just casually hang out, I found it odd. Then again, we had the same path back to the dormitory."
+[says] (p.24) "That reminds me. You should join in the chat now and again. You’re the only one who hasn’t caught up in a long time." (telling Horikita to catch up on the class group chat; she keeps notifications off and is "not interested")
+[says] (p.25) "I wonder. Well, if I had to think of a reason, I guess I got used to attending school, and then I made some friends. Also, Kushida was probably a big influence."
+[says] (p.25) "I admit I found it shocking when she said that she hated you, Horikita. But I think it’s only natural that everyone has people they like and people they hate. There’s no point being concerned about it. I mean, you still pretend to get along well with Kushida-san even though she said she hates you, right?"
+[says] (p.25) "Hey…" — followed by: "What the heck? It really hurt when she said it straight out like that."
+[says] (p.25) "Were you testing me?"
+[says] (p.26) "No need. I’m fine with the Kushida we have now," — "Even though I’d spoken the words, I did feel disgusted with myself."
+[rel:horikita-suzune] (p.19–26) Routine walking-and-talking pair now; she notices he is "quite talkative lately"; he admits he only relaxes around a few specific people ("If she were another girl, I probably wouldn’t have been able to converse normally.").
+
+### y1v2 p.27–38 — Ch.2 §2.4 (night): Sudou's brawl, duplicate keys, Kushida's pressure
+[status:points] (p.27) Private balance after the midterm point purchase: "I saw that I had 8,320 private points." — "I had nearly bankrupted myself just to buy the point Sudou needed to pass."
+[thinks] (p.27) "Converted, the points came to roughly 8700 yen. Although that wasn’t a giant improvement, it was still big bucks." (87 class points expected payout)
+[says] (p.27) "Why’re you here? Actually, forget that – how did you even get in?"
+[says] (p.27) "I learned this extremely important fact just now," (learning the group cloned his room key)
+[says] (p.27) "No, I can’t forget about it. Hand over the key."
+[thinks] (p.27–28) "What an illogical argument. Even if you’re ignorant of committing a crime, it’s still a crime. Friendship doesn’t mean automatically allowing people to do whatever they want."
+[says] (p.28) "If you need advice or you’re worried about something, why not ask Ike or Yamauchi?"
+[says] (p.29) "Did you insult Chabashira-sensei, by any chance?"
+[says] (p.30) "Then what? Did you grab her by the collar and threaten to kill her or something?"
+[says] (p.30) "You beat them up? So, uh, why did you do that?"
+[says] (p.32) "Well, I wonder about that. I don’t think it’s quite that simple."
+[says] (p.32) "Well, the school doesn’t trust you, right? It wouldn’t be that odd for someone in your class, like Kushida, for instance, to support you even if you’re lying. After all, they don’t want their points to go down."
+[says] (p.32) "Even if the other party is at fault, it’s still highly likely that Sudou will take some of the blame."
+[feat] (p.33) Legal-literacy play: "Sudou hit them, but they didn’t hit Sudou. I think that’s a big part of it. In such a case, claiming it as legitimate self-defense is difficult. Had they come at you with a knife or a metal bat, I think things would have been quite different. Self-defense means that you have the right to defend yourself against sudden, dangerous attacks made against your person. So, I don’t think we can really claim that this was self-defense."
+[says] (p.33) "I think the school might have offered an extension because they found it difficult to make a judgment at this time."
+[says] (p.33) "Whoever reported it first has the advantage. The victim’s testimony can work as evidence."
+[thinks] (p.33) His read on Class C's plan, flagged as imagination: "That was what I imagined their plan to be, anyway." (they let themselves be beaten to destroy Sudou's regular spot)
+[says] (p.34) "If trying to explain the situation won’t work, then we’ll need to find ironclad proof,"
+[says] (p.34) "So there might be an eyewitness?"
+[says] (p.35) "No, at this stage it’s probably only being discussed by the school and the people involved."
+[says] (p.35) "If those guys in Class C had intended to spread rumors, we probably would’ve heard about it already."
+[says] (p.36) "Yeah. It wouldn’t be good if the accused tried anything,"
+[says] (p.36) "There’s just not much I can do. I mean, I can only really respond to Sudou’s story. If it were Horikita or Hirata here, they’d probably be able to give expert advice."
+[thinks] (p.36) Toward Kushida: "As Kushida looked up at me with uneasy eyes, I had the sudden urge to embrace her. I stretched my back out and tried to shake those thoughts."
+[thinks] (p.36) On the duplicate keys: "Wasn’t it fine for Kushida to have a key, anyway? I suppose that in the delusional part of my brain, giving her a key made it feel like she was my girlfriend. Men certainly are devious creatures."
+[says] (p.36) "I don’t know if I should be happy about that or not."
+[says] (p.37) "I’m trying, more or less. I just haven’t been able to. Like right now, I didn’t have the guts to promise that I’d help."
+[says] (p.37) "Kushida, you’re going to help, aren’t you?"
+[says] (p.37) "Remember when I said it’d be better to talk with Horikita or Hirata? Well, Sudou hates Hirata, so that makes Horikita the obvious choice."
+[says] (p.37) "Don’t know. We’ll have to ask and find out. I don’t think she’ll just quietly stand by and watch as Class D collapses. Probably."
+[says] (p.37) "Is it okay if I’m useless?"
+[says] (p.38) "It’s risky. Aside from the question of who started the fight, those three reported it to the school. That means they have the upper hand. Also, I just don’t think it would work, since they started it."
+[thinks] (p.38) Chapter close: "No matter how much I thought about it, I couldn’t come up with any solutions."
+[rel:sudou-ken] (p.36) Sudou came to him first for help — Kushida: "He came to you before Horikita-san, Hirata-kun, or even Ike-kun."
+[rel:kushida-kikyou] (p.37) Keeps her double-nature in view while cooperating: "I remembered that Kushida once directly told me that she hated me... But I might get burned if I forgot about it entirely."
+[trait] (p.29–33) Under pressure he interrogates facts, then produces a dispassionate procedural analysis (evidence, reporting order, self-defense definition) rather than emotional reassurance.
+
+<!-- walk: y1v2 ch2 → p.39 -->
+
+### y1v2 p.40–43 — Ch.3 open (July 2 homeroom): the fight goes public
+[scene] (p.40) Chabashira briefs Class D on the Sudou–Class C incident; the classroom erupts; AK watches her "serene beauty" of total neutrality.
+[says] (p.44) "I planned to fade out… But…" (his protest to himself at being swept into lunch with the group)
+[thinks] (p.43) "This was typical of Japanese people. They would follow suit when someone took the lead. Though they probably mocked him in their hearts, they would help Sudou a little bit."
+[thinks] (p.43) "Well, I guessed I didn’t have to take a turn. I wouldn’t be any good at this, anyway. Better to just leave it to them and fade out quietly."
+
+### y1v2 p.44–53 — Ch.3 §3.1 (cafeteria): Horikita's refusal dissected, the boys' romance council
+[thinks] (p.45) On being ranked: "Apparently I was second to Yamauchi, judging by the 'too.'" (Sudou's "I'm really counting on you too, Ayanokouji.")
+[says] (p.45) "Even if you ask me to help, you do know that there’s not much I can do, right?"
+[thinks] (p.45) "Just as expected, Ike couldn’t come up with how I’d be useful. I looked over at Kushida smugly. It was like I was showing off a talentless person’s power."
+[thinks] (p.46) "I had no idea how to answer. Did they think I was her user manual? I took a huge mouthful of rice to avoid the question."
+[thinks] (p.46) His private read of Horikita: she saw "the ending" when the teachers announced the incident — "the possibility of a happy ending was almost nonexistent... she’d probably been cold towards Sudou on purpose. However, if I told them that now, they’d probably become discouraged."
+[says] (p.46) "Ah. Well, this might not be relevant, but I’d like to say something. I think that Horikita usually speaks in a rather brusque manner. But I think… that you guys misunderstand her."
+[says] (p.46) "I think that she wouldn’t help without any reason to do so."
+[says] (p.47) "Well… Yeah, I’m just guessing like you said, Sudou."
+[says] (p.47) "Horikita is smart, right? So I think she probably had some idea."
+[says] (p.47) "Well, it’d be great if a witness stepped forward. The teachers are going around and talking to each class about the incident. When they do find someone, things should get settled quickly."
+[thinks] (p.47) "It wasn’t unreasonable for Horikita to throw in the towel. Besides, even if there had been a witness, it’d be checkmate for us if that witness happened to come from Class C... This school was a hierarchy, after all."
+[says] (p.50) "I think people who participate in clubs are stupid"? No — heard; his own: "Why would you say that? You know such a statement will alienate about half of the students here, right?" (to Ike, §3.3 p.64)
+[says] (p.51) "Nope." (nothing between him and Horikita)
+[says] (p.52) "Anyone…" → "Nope, no one," — internally: "If I had to choose someone, I probably would have picked… Kushida? She was the person I talked to the most, so that was only natural. But knowing that she didn’t like me, I couldn’t really imagine things progressing."
+[says] (p.52) "Unlike you guys, I don’t really know any girls apart from Horikita and Kushida."
+[says] (p.52) "Isn’t it kind of pathetic that you’re trying to introduce me to girls when you don’t have a girlfriend yourself?"
+[thinks] (p.53) "I wondered if participating in such a shameless competition would actually make me their friend. It sounded difficult."
+[thinks] (p.53) "Although it was fine for them to get all excited, Sudou’s problem still hadn’t been resolved."
+[trait] (p.44–53) In group defense he self-deprecates on purpose; deflects Horikita-analysis into "just guessing" to protect morale; keeps score of his own low usefulness claims while privately holding the sharpest read in the room.
+[rel:ike-kanji] (p.45) Ike's grudging "At least him being there is better than not, I guess? Probably?" — AK's utility officially unexplained even to his defenders.
+[rel:horikita-suzune] (p.46–47) Publicly defends her reasoning to the boys; Ike reads it as romance-leaning ("She’s important to him, right?").
+
+### y1v2 p.54–64 — Ch.3 §3.2–3.3: roped in by Kushida; the Class B strategy session
+[scene] (p.54) Team map: Hirata & Karuizawa lead the "Hero & Gal Team," Kushida the "Beautiful Girl & Entourage Team"; AK tries to slip out.
+[says] (p.54) "What? Do you need something?"
+[thinks] (p.54) "I’m sorry, Kushida. I’m going to steel my heart and refuse your invitation." → [thinks] (p.55) "I couldn’t refuse. Slightly upturned eyes + pleading = lethal." with the willpower-breakdown analogy ("everyone has their breaking point. It’s a human mechanism.").
+[says] (p.55) "Well, I can’t argue with you there." (Kushida's chase-Horikita plan)
+[says] (p.56) "Busy? But everyone else is busy with Sudou’s case right now," (blurted; earns Horikita's glare)
+[thinks] (p.57) "Please stop saying that I understand you." (after Horikita tells Kushida to ask him)
+[says] (p.59) The perpetrator lecture to Kushida: "I understand a little of what Horikita meant. At the very least, Sudou does share some fault in this case. He’s the type who gets angry easily, right? Whenever he’s faced with someone he doesn’t like, he lashes out, and speaks and acts in an aggressive, domineering way. When I heard he was being considered for a regular spot on the basketball team, I was both surprised and impressed. No one disagrees that he’s an incredible player, but if he acts so arrogant and prideful, some people will come to hate him. Those who work incredibly hard for their spot would probably see Sudou as a rather disagreeable person. Then there are the rumors, right? People say that Sudou’s been fighting people since junior high. I haven’t met anyone who knew Sudou at his previous school, but considering how many people are talking about it, there might be something to the rumor."
+[says] (p.59) "This was bound to happen eventually. That’s why Horikita said Sudou was a perpetrator."
+[says] (p.59) "Yeah. As long as he continues to antagonize those around him, trouble will inevitably follow. Also, if there’s no proof, then people will use his image against him. In other words, they’ll judge him based on their impressions. For example, let’s say there was a murder case. There are two suspects. One of them has committed murder in the past, while the other is a good, upstanding citizen. Based on that information, who would you believe?"
+[says] (p.59) "The truth might be different. However, the less information you have upon which to base your judgment, the more you have to rely on whatever meager information you have at hand. That’s what’s happening here. Horikita cannot overlook the fact that Sudou doesn’t recognize his flaws."
+[thinks] (p.60) "I didn’t think this was exactly a 'you reap what you sow' situation, though."
+[says] (p.60) "I guess so, yeah. By punishing him, she wants him to understand himself better."
+[says] (p.60) "You should act according to your own principles, Kushida. I don’t think it’s wrong to want to help Sudou."
+[says] (p.60) "However, I think it would be better if we carefully considered whether or not to directly point out Sudou’s problems. If he doesn’t actually take the time to reflect, there’s no point. There are certain realizations you can only come to on your own."
+[feat] (p.60) "Kushida arched her back and stretched; I’d changed her thinking." — influence over the class's social engine, exercised quietly and without credit.
+[says] (p.61) "If no one has any objections, how about we start by asking around Class B?"
+[says] (p.61) "Because that’s the class that would most want a witness."
+[says] (p.61) "Between D and C, which class most threatens Class B? Or to put it another way, which class is more likely to threaten B’s place in the ranking?"
+[says] (p.61) "We know too little about Class A. I don’t think they’d want to get involved in a troublesome affair that might negatively impact their points. It's also possible that Class A students don’t care, as they feel no connection to what goes on between C and D."
+[thinks] (p.61) Caution about B: "If they had a particularly cunning person, he or she might have devised a plan to defeat not only C, but Class D as well."
+[says] (p.61) "Stop." (reflexively grabbing Kushida's collar to halt her charge)
+[says] (p.62) "It is certainly true that your excellent communication skills are indispensable. However, this isn’t the same as casually strolling into another class and trying to make friends."
+[says] (p.62) "Do you know anyone in Class B?" → "Well then, let’s talk to those people first then."
+[says] (p.62) "I see. You might be right about that. We should do what you think is best, Kushida." (concedes the one-by-one vs group-ask debate)
+[trait] (p.62) "Suddenly, I felt a sensation, like someone was watching me. I turned around." — watched-sense in a one-third-empty classroom; unresolved in-chapter.
+[thinks] (p.61) "So cuuute!" reaction: "She was probably being adorable on purpose… Despite thinking that, my heart pounded like crazy."
+[says] (p.64) "I wanna go home." (grumbling at the window during the Class B visit)
+[says] (p.64) "You’re probably right," (to Ike's anti-club rant — agreeing while internally cataloguing club benefits: "You gained the skills necessary to build relationships with other people, and you also got to experience victory and defeat.")
+[thinks] (p.64) "I waited for a few minutes until I received Kushida’s report. I certainly didn’t expect what she told me." — chapter-ending hook into Ch.4.
+[rel:kushida-kikyou] (p.54–62) She commands his schedule by asking nicely; he concedes plans to her judgment while supplying the strategy; collar-grab intimacy registers as both protectiveness and fluster.
+
+<!-- walk: y1v2 ch3 → p.65 -->
