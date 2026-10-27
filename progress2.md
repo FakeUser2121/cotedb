@@ -571,28 +571,96 @@ from `1d13757fddce1fb2e377854b95c65fc4` to the shipped
 `verify2 y1v2` **843** [says] lines (22 too short/skipped), `verify3 y1v2`
 **577** other quoted lines, both ALL PASS. See progress3 for the site numbers.
 
+### y1v2 Chapter 7: Only One Solution is closed (walk, 2026-10-27)
+
+pp.220–257 read whole in two passes (220–238, 239–257) and fanned into
+fourteen ledgers: ayanokouji-kiyotaka, horikita-suzune, ichinose-honami,
+sakura-airi, sudou-ken, chabashira-sae, horikita-manabu, sakagami, tachibana,
+kanzaki-ryuuji, kushida-kikyou, hirata-yousuke, systems/point-economy,
+volumes/y1v2, plus a new ledgers/people/ryuuen-kakeru.md — the roster already
+carried the id, so he arrived as one principal-character page and the page count
+stayed at 162. +443 lines in the tracked ledgers, 22 in the new file.
+
+The chapter's own shape drove the fan-out: §7.0–7.4 is Ayanokōji on the path, in
+the classroom, in the special-building corridor and at the shuttered electronics
+store; §7.5 is Horikita's first-person retrial — the volume's second
+different-narrator section after Sakura's cold open — which is where Chabashira's
+lecture, the point fee and the private "defective products" session land; §7.6
+returns to Ayanokōji for the secretary offer, the puppet question and the
+corridor brush-off that names Ryuuen. The camera bluff belongs to Ichinose, the
+hardware to Kanzaki, the email to Kushida, and the withdrawal's cost to the point
+economy, so each of those went to its own ledger rather than being narrated twice
+on one page.
+
+This chapter was walked in a companion session and closed here, which meant an
+audit pass against the source before anything shipped. Four real attribution
+errors came out of it, all caught by reading the page rather than the row:
+"Maybe because of what happened yesterday, she took a step forward on the path to
+adulthood?" (p.222) and "Would you be happy if we'd compromised?" (p.220) are
+printed with no speaker and had been logged as Ayanokōji's and Horikita's
+respectively — both are now [note] rows and gaps in the volume section; Sakura's
+"That's…" (p.238) is the narrator's stalled answer, since the page says he
+"hesitated to speak without Sakura's permission" — moved to his ledger; and
+"I'm done talking." sits on p.254, not p.255. Five lines that the chapter gives
+these characters had also gone unrecorded (Ayanokōji's "I have no intension of
+arguing…" at p.226, "Well. I'll be heading back now." and "You sort of forced me
+to…" at p.254, Horikita's "Who are you?" at p.254), and Ichinose's §7.2 entrance
+was worded as her leaving the building when the page has her stepping into a
+corridor where the group already stands.
+
+Attribution gaps now recorded in the volume section instead of guessed: the two
+untagged p.220 lines, "Maybe because of what happened yesterday…" (p.222),
+"What's going on? Why are you here?" (p.225), the accomplices' "You can't trick us
+like that…" (p.229), "H-hey, Ishizaki. It's not too late…" (p.231–232),
+"G-good morning…" (p.222), the three untagged delinquent-act lines (p.237),
+"I couldn't believe you wanted to install security cameras." (p.234),
+"Sorry. For being quiet for so long." and its reply (p.240), and the deliberation
+-fee regulations line (p.245).
+
+Forward-only knowledge stays out: Ishizaki's unheard call to "that person" is an
+open thread at p.232, and Ryuuen is named only where the volume names him —
+Ichinose's warning (p.241) and Ayanokōji's inventory (p.255) — while the corridor
+scene itself (p.254) still withholds his name, as printed.
+
+New named entities: Ryuuen Kakeru, first named in this volume (pp.241, 255); the
+electronics-store clerk who is Sakura's fan stays nameless, as in the text. New
+system facts: a withdrawn case closes with no verdict and still costs the
+withdrawing side a point payment for deliberation expenses (p.245); the school
+sells surveillance equipment as study tools and the only cameras in that building
+sit by the faculty room and the science lab (pp.229, 234); the president can
+appoint a secretary on the spot, one first-year Class A applicant having already
+been rejected after the first interview (pp.252–253); hearing witnesses are to be
+rewarded, the form unstated (p.246). Defects kept as printed: "the today's
+Sakura" (p.222), "intension" (p.226), "Ishizaki and the other" (p.229), "brought
+produced" (p.232), "cover of miscellaneous expenses" (p.245), "as if he just
+shaken off" (p.248), and the two unclosed quotation marks at pp.248 and 253.
+
+Verification after the fixes: `verify2 y1v2` **1066** [says] lines (33 too
+short/skipped), `verify3 y1v2` **653** other quoted lines, both ALL PASS. See
+progress3 for the site numbers.
+
 ---
 
-## HANDOFF — walk state and the exact next steps (written 2026-10-27, after y1v2 Ch.6)
+## HANDOFF — walk state and the exact next steps (updated 2026-10-27, after y1v2 Ch.7)
 
 Read this whole section before touching a ledger. It is the resume point for a
 fresh session or a different model.
 
 **Where the walk is.** `ledgers/volumes/y1v1.md` is DONE (12 chapters +
-postscript). `ledgers/volumes/y1v2.md` is walked through **Chapter 6, p.219**.
-Next unit: **y1v2 Chapter 7: Only One Solution, pp.220–257**, then **Postscript,
-pp.258–261**, which closes volume 2. After that, 30 volumes are still unwalked
-(y1v3 → y1v11.75, y2v1 → y2v12.5, y3v1 → y3v3 — 36 volume pages exist on the
-site, only these two carry line-by-line evidence). Source text lives in
+postscript). `ledgers/volumes/y1v2.md` is walked through **Chapter 7, p.257**.
+One unit left in the volume: **Postscript, pp.258–261** — short, four pages, and
+it closes volume 2. After that, 34 volume pages are still unwalked (y1v3 →
+y1v11.75, y2v1 → y2v12.5, y3v1 → y3v3 — 36 volume pages exist on the site, only
+these two carry line-by-line evidence). Source text lives in
 `text/COTE Y1 V2.txt` style files with `--- page N ---` markers; the printed page
 numbers in the markers are the numbers every citation uses.
 
-**Ledger state (from `cote_walk status`).** At or past y1v2 ch6: ayanokouji,
-chabashira, horikita-manabu, horikita-suzune, hoshinomiya, ichinose,
-kanzaki-ryuuji (new), sakagami (new), sakura, sudou, tachibana (new),
-yamauchi, ike, volumes/y1v2. Deliberately behind, because later chapters do not
-feature them — checked, not forgotten: hirata (ch4), karuizawa (ch4),
-kouenji (ch4), exams/midterm-exam (ch4), systems/point-economy (ch5). Places
+**Ledger state (from `cote_walk status`).** At or past y1v2 ch7: ayanokouji,
+chabashira, horikita-manabu, horikita-suzune, ichinose, kanzaki-ryuuji,
+ryuuen-kakeru (new), sakagami, sakura, sudou, tachibana, kushida, hirata,
+systems/point-economy, volumes/y1v2. Deliberately behind, because Chapter 7 does
+not feature them — checked, not forgotten: hoshinomiya (ch6), karuizawa (ch4),
+kouenji (ch4), ike (ch6), yamauchi (ch6), exams/midterm-exam (ch4). Places
 ledgers stop where y1v1 stopped.
 
 **Tools.** MCP server `cote_walk` (code: `kb/cote_mcp.py` over `kb/cote.py`)
@@ -631,6 +699,14 @@ Exactly one `<!-- walk: <vol> chN → p.X -->` marker per chapter per file;
 `append --stamp` de-duplicates. Prose on the page is reader-facing: no pipeline
 vocabulary ("the walk", "the ledger records", "the fan-out"), because
 `share_check` fails the build on it.
+
+**Work that arrives from another session gets audited before it ships.** Chapter 7
+was written in a companion session and closed here; the verifiers passed and still
+missed four attribution errors, because they check that a quote exists in the
+volume, not who said it. Re-read the chapter's own pages, line by line against
+each `[says]`, before a build. That pass is what turned "That's…" (p.238) from
+Sakura's line back into the narrator's stalled answer and moved two untagged p.220
+lines into the gap list.
 
 **Ship mechanics.** Commits use the GitHub noreply identity through environment
 overrides only — `GIT_AUTHOR_NAME=FakeAn GIT_AUTHOR_EMAIL=FakeAn@users.noreply.github.com

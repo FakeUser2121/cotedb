@@ -99,3 +99,23 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [rel:ayanokouji-kiyotaka] (p.210–212) The corridor exchange is the longest conversation they have had; he tests whether the narrator has a plan and accepts the answer that Suzune will supply it.
 
 <!-- walk: y1v2 ch6 → p.219 -->
+
+### y1v2 p.244–246 — Ch.7 §7.5: the withdrawal ruling
+[says] (p.244) "Did you want to come to an agreement? Or did you already do something to the effect?"
+[action] (p.244) He gazes sharply at the Class C students while they signal that they do not want to compromise.
+[says] (p.245) "If you wish to withdraw your complaint, we have no intention of fighting it. We accept."
+[note] (p.245) The regulations line that demands a point payment for the deliberation expenses is printed with no speaker attached.
+[says] (p.246) "Very well, the proceedings have come to an end. We will now call this discussion closed."
+
+### y1v2 p.252–253 — Ch.7 §7.6: the thanks, and the secretary seat
+[says] (p.252) "Excellent work."
+[says] (p.252) "I have approved Class C’s request to withdraw their complaint."
+[says] (p.252) "So this was all to prove that Sakura wasn’t a liar, as you said? I suppose if Class C withdrew their complaint, then talk would spread quite naturally. If Sudou or Sakura weren’t the liars, then Class C was."
+[action] (p.252) He stops in his tracks to address Ayanokōji instead of exchanging a light greeting, and stays still while he is looked at.
+[says] (p.252) "Tachibana. Do you still have one seat open for secretary?"
+[says] (p.253) "Ayanokouji. If you wanted it, I would appoint you to the position."
+[says] (p.253) "Do you disapprove?"
+[rel:sakura-airi] (p.252) He spells out the result as the proof of her credibility: with the withdrawal, Class C becomes the liar.
+[rel:ayanokouji-kiyotaka] (p.252–253) He offers him the secretary position on the spot; the offer is refused without discussion.
+
+<!-- walk: y1v2 ch7 → p.257 -->

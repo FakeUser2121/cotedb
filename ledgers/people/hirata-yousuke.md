@@ -194,3 +194,8 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [limit] (p.120–149) In the second half of Chapter 4 he appears only as other students' measure of themselves; his own scenes ended at p.93.
 
 <!-- walk: y1v2 ch4 → p.151 -->
+
+### y1v2 p.246 — Ch.7: a passing mention in the verdict
+[note] (p.246) He is named once, in Horikita’s summary of pending rewards for the hearing — Kushida’s and his actions "would be rewarded as well" — and appears nowhere else in the chapter.
+
+<!-- walk: y1v2 ch7 → p.257 -->

@@ -32,3 +32,17 @@ aliases used for anchors: tachibana, secretary, student council secretary
 [rel:horikita-manabu] (p.193–210) She defers the unusual case to him and runs everything else, and she is the one who closes the room behind him.
 
 <!-- walk: y1v2 ch6 → p.219 -->
+
+### y1v2 p.243–253 — Ch.7 §7.5–7.6: running the room and the seat she does not expect to fill
+[action] (p.243) She urges the standing Class C students to sit down; they do not move.
+[says] (p.243) "Can you please sit down?"
+[action] (p.252) "The unflappable Secretary Tachibana clapped her hands."
+[says] (p.252) "Yes. A first-year Class A student applied the other day, but was rejected after the first interview."
+[says] (p.253) "S-student council president… Do you really mean that?"
+[says] (p.253) "N-no. If you say so, I have no objections. But…"
+[says] (p.253) "Huh? Are you refusing an invitation from the student council president?!"
+[says] (p.253) "Y-yes."
+[note] (p.252) The secretary seat is confirmed open — one first-year Class A applicant, rejected after the first interview — and Ayanokōji’s refusal leaves it open.
+[rel:horikita-manabu] (p.252–253) She answers the seat question for him and is more shocked than Ayanokōji by both the offer and the refusal.
+
+<!-- walk: y1v2 ch7 → p.257 -->

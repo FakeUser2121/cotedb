@@ -32,3 +32,9 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [limit] (p.214) His earlier part in the case — the bounty flyer on the bulletin board — is not mentioned in this chapter; the page introduces him here only as the friend who disagreed.
 
 <!-- walk: y1v2 ch6 → p.219 -->
+
+### y1v2 p.234 — Ch.7 §7.3: he installs the fake cameras
+[action] (p.234) He and Ichinose bought the cameras, and with the Professor installed them during the lunch break.
+[rel:ichinose-honami] (p.234) The Class B operation is theirs together: she applies the pressure in the corridor, he handles the hardware.
+
+<!-- walk: y1v2 ch7 → p.257 -->

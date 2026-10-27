@@ -191,3 +191,68 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [limit] (p.217) Kanzaki warns her the favor may be turned against Class B later, and she accepts that risk without extracting a condition.
 
 <!-- walk: y1v2 ch6 → p.219 -->
+
+### y1v2 p.226–228 — Ch.7 §7.2: she steps into the corridor
+[scene] (p.226) As the three turn to leave, one other person stands in their way — the page introduces her as "who’d been waiting for all of the players in this drama to appear" — and she puts herself between Class C and the exit.
+[says] (p.226) "I think you guys might want to consider that idea, actually."
+[says] (p.226) "What do you mean? What if I said that I’m here because I’m involved in this case?"
+[says] (p.226) "Ha ha. Well, I guess I’m well known among the members of Class C."
+[says] (p.227) "You’re certainly right that Class B has nothing to do with this. But how do you feel about involving so many people in your lies?"
+[says] (p.227) "So evildoers remain obstinate until the very end. It’s about time for you to pay the piper!"
+[says] (p.227) "You lied. We can all see through you. You got violent in the end. If you don’t want that fact to become public knowledge, withdraw your claim right away."
+[trait] (p.227) She "grinned and talked with greater animation, as if relishing this," walking toward them like a detective revealing the culprit.
+[says] (p.227) "Didn’t you think that the school’s response to this incident was rather strange?"
+[says] (p.227) "When you raised the issue with the school, why wasn’t Sudou punished immediately? Why give an opportunity to escape by granting a grace period of several days? What do you think was the reason?"
+[says] (p.228) "Is that really okay, though? If you leave this place, you might regret it for the rest of your life."
+[says] (p.228) "Don’t you understand? The school knows that you’re lying, Class C. They’ve known from the beginning."
+[says] (p.228) "Ha ha ha ha. You guys are so funny."
+[says] (p.228) "You’ve been dancing to my tune all this time."
+[says] (p.228) "I have actual evidence,"
+
+### y1v2 p.228–231 — Ch.7 §7.2: the security-camera argument
+[says] (p.228–229) "Did you know that there are security cameras installed everywhere around the school? It’s a measure they’ve taken in order to monitor what we do every day."
+[says] (p.229) "That’s too bad, isn’t it? If you want to set a trap for someone, you’d need to do it in a place without any cameras."
+[says] (p.229) "You’re right that, by and large, cameras aren’t installed in most of this building’s hallways. However, there are exceptions, and several places in which security cameras have been installed, like in front of the faculty room and the science lab. Obviously, there are many valuables stored in the faculty room, you know? Additionally, the science lab has many chemical products. Since the science lab is on this level, it’s only natural that a camera would be installed here."
+[says] (p.230) "Have you looked back there, behind you? There’s one there too, right?"
+[says] (p.230) "So if we’d installed a camera, like you said, would we have prepared one on that side, too? Besides, how exactly would we have prepared surveillance cameras when we can’t even leave campus in the first place?"
+[says] (p.230) "This is the third floor, but did you really check? Maybe you only looked at the second or the fourth? Perhaps the cameras were truly set up here as a trap?"
+[says] (p.230) "Also, you realize that you just destroyed yourselves, right? Normal people wouldn’t think to check whether there were security cameras, right? That’s basically admitting your guilt."
+[says] (p.230) "The security cameras couldn’t record the sounds of your voices, but they definitely captured the decisive moment you threw the first punch."
+[action] (p.230) She passes the baton to Ayanokōji for the student-council half of the bluff.
+[says] (p.231) "Innocence? That depends on what you’re innocent of. We know that both parties took damage during the incident. No matter the circumstances, Sudou hit the three of you. That’s undeniable. Of course, if the security footage can prove that Sudou wasn’t the one who called you three over here, he’d probably receive the lightest possible punishment. However, his position as a regular would still be threatened. He might not be allowed to participate in tournaments."
+[says] (p.231) "If someone checked the security camera footage, it would expose your lies. If that were to happen, chances are good you’d be expelled. Anyone could see that."
+
+### y1v2 p.232–235 — Ch.7 §7.2–7.3: the only way out, and the cameras that were never the school’s
+[says] (p.232) "It’s rather early to draw a conclusion. We’ll give you one last chance. There’s only one way to save both Class C and Class D."
+[says] (p.232) "There’s only one way to resolve this issue. Tell the school that you wish to withdraw your complaint. If you do that, the school will not bring forward the security camera footage. If there’s no complaint, no one can be punished. Additionally, if the security footage is never brought up, Class D benefits, too. As we already know, if the security footage were brought produced, Sudou would still face some degree of punishment. In other words, Class C and Class D can come to a compromise together. The school can’t investigate if they can’t watch the video and see that you lied, right?"
+[action] (p.232) She refuses to let Ishizaki call anyone and gives him no time to think.
+[says] (p.232) "Well, you’re not being very cooperative. Therefore, we have no choice but to prepare. We’ll have the school confirm the security footage right away, and you’ll be expelled."
+[action] (p.233) She walks the three Class C students to the student council room, sandwiched between her and Ayanokōji.
+[says] (p.234) "Whew! I feel so much better! Thanks so much! Thanks for giving me such a huge role! I was so happy!"
+[says] (p.234) "Ha ha ha, yeah. I guess so. But the case is closed, eh?"
+[action] (p.234) She and Kanzaki bought the cameras, and with the Professor installed them during the lunch break.
+[says] (p.234) "When the day comes, you guys will probably become formidable rivals for Class C, Ayanokouji-kun."
+[says] (p.235) "If Horikita-san were in Class B, we might have gotten to Class A right away."
+[says] (p.235) "I’ll definitely return the points I borrowed. Just tell me when you want them."
+[says] (p.235) "Huh?! W-wait a minute!"
+[says] (p.235) "Oh, yeah, that reminds me. There was one thing I wanted to tell you, Ayanokouji-kun."
+[note] (p.235) What she wanted to tell him is cut off by his sprint; it comes out later as the warning about Ryuuen.
+
+### y1v2 p.236–241 — Ch.7 §7.4: the act at the shutter, and the warning about Ryuuen
+[action] (p.236) She sticks close when Ayanokōji runs to the electronics store and goes quiet on his signal.
+[trait] (p.237) Matching the delinquent act, "her tone was cruel"; she pinches the letters up by their corners with finger and thumb.
+[says] (p.239) "Huh?! Idol?! That’s amazing! She’s an entertainer! Ooh, shake my hand, shake my hand!"
+[says] (p.239) "Even so, that’s so amazing! I’ve never thought about becoming an idol or anything."
+[says] (p.240) "Whoa… You’re so amazingly cute! You make a completely different impression without your glasses!" — after looking Shizuku up on her phone
+[says] (p.240) "Ah, I’ll help out too."
+[says] (p.240) "I’m Ichinose, from Class B. It’s nice to meet you, Sakura-san."
+[says] (p.241) "I probably shouldn’t be saying this right now, but…there was someone pulling the strings behind this whole Sudou incident."
+[says] (p.241) "To tell the truth, there was a dispute between Class B and Class C students before. That time, though, the school didn’t get involved. Someone named Ryuuen-kun masterminded that one."
+[trait] (p.241) "Ichinose, who always looked so bright, now appeared somber and grim."
+[says] (p.241) "That’s because he hasn’t seen any reason to reveal himself just yet. There’s no reason that you’d know him."
+[says] (p.241) "I’m the most vigilant of all the first-years here. I think he set up Sudou-kun to look like a liar, and instigated the dispute with Class B. This was all his handiwork. He doesn’t hesitate to hurt other people for the sake of his own interests. He’s a formidable opponent."
+[says] (p.241) "Somehow, yeah. However, if you looked at it like a game, I can’t say whether I won or lost… Anyway, I think because what he devised was easier to see through this time, I’ve started to understand how this school is structured. You should be careful."
+[says] (p.241) "So if anything ever happens, you can come to me for help. Talk to me whenever you need it."
+[rel:horikita-suzune] (p.235) She names the road not taken: if Horikita had been in Class B, Class B might already have reached Class A.
+
+<!-- walk: y1v2 ch7 → p.257 -->

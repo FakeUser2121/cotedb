@@ -625,3 +625,84 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ayanokouji-kiyotaka] (p.196–218) The chapter runs her from paralysis to leadership and closes the account with the blow: she accepts his intervention in the hearing and prices it immediately.
 
 <!-- walk: y1v2 ch6 → p.219 -->
+
+### y1v2 p.220–223 — Ch.7 §7.0–7.1: waiting on the path, judging the change
+[says] (p.220) "Good morning, Ayanokouji-kun."
+[says] (p.220) "Yes. I was waiting for you."
+[says] (p.220) "Are you an idiot?"
+[says] (p.220) "I was thinking…maybe I made a mistake. The wrong choice…"
+[says] (p.220) "If Sudou-kun is penalized for this, it’ll be my responsibility."
+[says] (p.220) "The truth is that we’re gambling. I’m a little anxious of the outcome. Are you okay?"
+[says] (p.221) "Nothing. After we settle this case,"
+[says] (p.222) "What’s with her?"
+[says] (p.222) "People don’t change so easily. Trying to change yourself is virtually impossible."
+[trait] (p.222) The page calls it a "brief but realistic statement" that shattered the image Ayanokōji had built.
+[says] (p.223) "As long as she doesn’t overdo it, I think it’ll be fine."
+[says] (p.223) "If she tries to do what isn’t possible for someone like her yet, she’ll just set herself up to fail."
+[trait] (p.223) The warning lands with "a mysterious yet convincing power," almost as if she were speaking from experience.
+[says] (p.223) "Do you want to die for good?"
+
+### y1v2 p.242–243 — Ch.7 §7.5: the retrial, from her side
+[scene] (p.242) She and Sudō arrive ten minutes before deliberation; Tachibana is already in the room, and neither her brother nor Class C has come in yet. The chapter turns to her first person here.
+[says] (p.242) "I feel the same as ever."
+[thinks] (p.242) The line she has committed to: "I’d declared that Sudou was completely innocent, after all. If my strategy failed, it would be for nothing."
+[thinks] (p.242) "Reconciliation was another name for defeat."
+[thinks] (p.242) On a failed strategy: "it would likely devolve into a verbal battle where we hurled abuse at each other."
+[action] (p.242) When the doors open for her brother she turns her eyes away from him and faces the opponents who matter today.
+[thinks] (p.242) "Even though I should have understood it, I felt attacked."
+[thinks] (p.242) "I was wracked with various symptoms such as trembling, nervousness, and dizziness. But I couldn’t repeat yesterday’s mistakes."
+[says] (p.243) "He’s not participating."
+[says] (p.243) "Well, even if he’s not here, the results will be the same."
+[thinks] (p.243) Her read on Chabashira’s puzzlement: "I had the gut feeling that what Chabashira-sensei was seeing was the evidence of Ayanokouji-kun’s involvement."
+[thinks] (p.243) "This was a battle between truth and lies. We could bandy about ideas, but there could only be one solution."
+
+### y1v2 p.244–245 — Ch.7 §7.5: the withdrawal she did not have to ask for
+[thinks] (p.244) "It wasn’t just me. Everyone else noticed that this situation was strange."
+[thinks] (p.244) "It seemed that Ayanokouji-kun and Ichinose-san had handled things quite well. I tried to act calm and collected, without letting my relief show."
+[action] (p.245) She grabs Sudō’s arm to stop his question and pulls him down into his seat.
+[says] (p.245) "Shut up."
+[thinks] (p.245) "If the complaint was withdrawn there would be no winners or losers. This was what we’d been working toward."
+[note] (p.245) The regulations line that announces a point payment for the deliberation expenses is printed with no speaker attached.
+
+### y1v2 p.246–248 — Ch.7 §7.5: the verdict, and Chabashira’s lecture to Sudō
+[says] (p.246) "You will no longer face suspension. The school will not consider you a problem child. You will be able to participate in club activities from today onward. Right?"
+[note] (p.246) She notes that Kushida-san and Hirata-kun’s actions in the hearing "would be rewarded as well."
+[says] (p.247) "No, I don’t." — asked whether Sudō will become a model student
+[says] (p.248) "However…Sudou-kun certainly made some progress today. He admitted he was at fault. So I’m sure that he’ll grow more tomorrow."
+[says] (p.248) "No, I’ve already abandoned him. I just won’t allow him to run loose anymore."
+[thinks] (p.248) On his exit for club practice: "He was not remorseful. He was definitely going to cause trouble for us again soon. He was a nuisance."
+[rel:chabashira-sae] (p.248) She stays behind at Chabashira’s request once her brother and Tachibana are sent out.
+
+### y1v2 p.248–251 — Ch.7 §7.5: the private lesson about Ayanokōji
+[says] (p.248) "What do you mean?"
+[says] (p.248) "Why do you care about that?"
+[says] (p.248) "I’ll leave that to your imagination."
+[thinks] (p.248) "We’d fabricated a lie because we were backed into a corner."
+[says] (p.249) "I don’t want to admit this, but Ayanokouji-kun…might have something exceptional to him."
+[says] (p.249) "Is that surprising? You were the one who first put me together with Ayanokouji-kun, Chabashira-sensei. You did it because you couldn’t overlook Ayanokouji-kun’s potential, right?"
+[says] (p.249) "Though he does try to hide his ability by pretending to be an idiot, for some mysterious reason."
+[thinks] (p.249) "Yes, he was truly incomprehensible. I could not find meaning in such behavior."
+[says] (p.249) "I don’t intend to admit that I have a defect. But I do understand."
+[says] (p.249) "We’ve already established it. He already knows what his own defect is."
+[says] (p.249) "He ‘dislikes trouble,’"
+[note] (p.249) Answering with confidence, she still feels "a strange sense of discomfort that I couldn’t explain."
+[says] (p.250) "No… It’s because he said it himself."
+[thinks] (p.250) "Had he deliberately poked his nose into this incident as well?"
+[thinks] (p.250) "That unconscious realization must have been the cause of my earlier discomfort."
+[says] (p.250) "Chabashira-sensei, do you really understand what about him can be considered defective?"
+[thinks] (p.251) "Why was Chabashira-sensei telling me such things?"
+[rel:chabashira-sae] (p.248–251) The session ends with Chabashira saying nothing more and Horikita carrying the questions out of the room.
+
+### y1v2 p.253–255 — Ch.7 §7.6: the puppet question
+[says] (p.253) "You’d already know, right?"
+[says] (p.253) "Hey, Ayanokouji-kun. Am I just your puppet?"
+[says] (p.253–254) "Ayanokouji-kun, you brought up the idea of surveillance cameras in the classrooms. Next, you took me to the special building and made me realize that there were no cameras. Then, you guided me to the idea of inventing false evidence, so that we could parse the truth from lies… When I look back on it now, that’s all I can think of."
+[says] (p.254) "Who are you?" — thrown back at him after he calls her account of the case "just coincidence"
+[says] (p.254) "And you are?" — to the black-haired boy who stops in front of them
+[says] (p.254) "Wait. We’re not done talking, Ayanokouji-kun."
+[says] (p.254) "You promised, right? You promised you’d help me reach Class A."
+[says] (p.255) "That’s not what I meant. I want to know what you’re thinking."
+[says] (p.255) "If you really hated drawing attention, you wouldn’t make all this effort to get involved. You say you’re someone who ‘dislikes trouble,’ after all. Yet you act all evasive and non-committal even while you help me. Why?"
+[rel:ayanokouji-kiyotaka] (p.253–255) The chapter ends with her accusation of being steered and his evasion, unanswered.
+
+<!-- walk: y1v2 ch7 → p.257 -->

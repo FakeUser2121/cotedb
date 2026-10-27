@@ -985,3 +985,93 @@ walk: y1v1 → DONE
 [note] (p.218) His private arithmetic after the blow: if "double" meant twice the force, "That was unimaginable!"
 
 <!-- walk: y1v2 ch6 → p.219 -->
+
+### y1v2 p.220–221 — Ch.7 §7.0: the morning walk to the retrial
+[scene] (p.220) Summer morning on the tree-lined path to school; Horikita waits against the handrail specifically for him, and the case is decided the same day.
+[says] (p.220) "Were you waiting for someone, Horikita?"
+[says] (p.220) "I guess if you wanted to confess your feelings, it’d be best just to get the words out."
+[says] (p.220) "Everything will be decided today,"
+[note] (p.220) Two lines in this exchange carry no speaker tag: "Would you be happy if we’d compromised?" and, after Horikita takes the responsibility onto herself, "So you do worry about things like this, huh?" The page says only "I didn’t want to think about it, but Horikita continued", so neither line is assigned.
+[says] (p.220) "We have the strategy you proposed yesterday. Ichinose will be there, too. We’ll manage."
+[action] (p.220) He pats her shoulder lightly and walks on.
+[thinks] (p.220) He thinks about capturing the idyllic scene in a photograph but lacks the nerve: "However, I didn’t have the guts to take her picture."
+[says] (p.221) "Hmm?"
+[note] (p.221) Horikita begins "Nothing. After we settle this case," and shuts her mouth; the sentence is never finished.
+
+### y1v2 p.222–225 — Ch.7 §7.1–7.2: Sakura’s first greeting
+[scene] (p.222) In the classroom Sakura is already at her desk, sitting up straight "as if ready for something," and gives her first morning greeting to both of them.
+[note] (p.222) The reply to Horikita’s "What’s with her?" — "Maybe because of what happened yesterday, she took a step forward on the path to adulthood?" — carries no speaker tag; the page only says her next remark "shattered the lovely image I’d created", so the line is not assigned.
+[thinks] (p.222) He judges the change smaller than it looks: "There was no truly major difference between the today’s Sakura and yesterday’s."
+[says] (p.223) "Well, as a loner who loves her solitude, you’re very persuasive on this topic."
+[thinks] (p.223) "Perhaps she didn’t come from solitude, but rather from hell…"
+[thinks] (p.223) On not pushing Sakura past what she can carry: "We should take care with how we executed our strategy."
+[says] (p.224) "Sakura. Are you heading back now?"
+[says] (p.224) "I’m not participating."
+[says] (p.224) "What’s wrong?"
+[says] (p.224) "Sakura, you don’t really need to testify today. There’s no need for you to be so worked up, right?"
+[says] (p.224) "What are you thinking about?"
+[says] (p.224) "Hey, Sakura. Do you have any time later? I wanted to talk to you about something."
+[note] (p.225) The invitation feels "like they were being squeezed out of me"; she answers that she has plans today, and he lets her go.
+
+### y1v2 p.225–233 — Ch.7 §7.2: the special-building rendezvous and the camera trap
+[scene] (p.225) After 3:40, in the special building: the three Class C students arrive expecting a date or a confession from Kushida.
+[says] (p.225) "Kushida won’t be here. I asked her to send an email to compel you all to come."
+[says] (p.226) "If I hadn’t used an underhanded method, you would’ve just ignored me, right? I wanted to talk to you."
+[says] (p.226) "I have no intension of arguing. That would be a waste of time. I fully understand that neither Class C nor Class D will retract what they claimed yesterday."
+[says] (p.230) "The school’s waiting, right? Go ahead and tell us the truth. After giving you a grace period, the student council president himself asked if you had lied. If you think back, don’t you realize that the student council saw through everything?"
+[thinks] (p.230) The bluff’s second half is his, and he knows it is a bluff: "Of course, the student council had not seen through their lies."
+[action] (p.232) He nods along with Ichinose’s ultimatum — confirm the footage now and the three will be expelled.
+[thinks] (p.233) On the escort to the student council room: "Horikita had put everything together really well."
+[rel:ichinose-honami] (p.225–232) He supplies the trap and the pressure — the luring email, the student-council gambit, the nod to the ultimatum — and hands the open argument to her.
+
+### y1v2 p.234–241 — Ch.7 §7.3–7.4: the fake cameras and the shuttered door
+[says] (p.234) "I was wondering what you were up to when you asked me to lend you some points yesterday."
+[says] (p.235) "As long as you pay me back by graduation, it’s fine. So what are you going to do now? Wait in front of the student council room?"
+[thinks] (p.235) Sakura’s "plans today" keep bothering him; he runs off before Ichinose can say what she wanted to tell him, and she follows.
+[action] (p.236) Tracking Sakura’s phone to the electronics-store entrance, he signals Ichinose to be quiet as a precaution.
+[says] (p.237) "Ah, looks like we caught them! That old guy’s doing something naughty!"
+[says] (p.238) "Me and my girlfriend saw everything. So we took pictures. If you show your face to that girl again, or send her any more disgusting letters, we’ll expose you. Got it?"
+[says] (p.238) "You don’t know what I’m talking about? You’re not weaseling out of this, old man. If you so much as raise a hand at or even just ogle this idol, that’ll be the end for you. I’ll beat the shit out of you. Got it?"
+[action] (p.238) After the clerk loses his fight, he deliberately gives him time to run, then catches Sakura before she can fall.
+[says] (p.238) "You did really well."
+[says] (p.238) "I’m really glad that I exchanged contact information with you."
+[says] (p.238) "That’s not true. It was really cool when you threw those letters to the ground."
+[action] (p.238) Ichinose asks who the "mystery person" is and his "That’s…" stops there: the page records that he did not want to hide anything from her but hesitated to speak without Sakura’s permission.
+[says] (p.239) "Sakura over here was an idol when she was in junior high. Her name was Shizuku."
+[action] (p.239) He tells Ichinose the idol name only after Sakura meets his eyes and gives him a slight nod.
+[says] (p.239) "A little while ago. Sorry. Several other people in class realized, too."
+[says] (p.239) "I think there’s a possibility that people at school might panic when they notice…but I think it’ll be fine."
+[thinks] (p.240) The impulse to help unsettles him: "Was this the real me?"
+[says] (p.240) "It’s nothing you have to apologize for. We don’t have to talk about it. However, I think that now we have the type of relationship where we can talk about things. If you’re suffering or if you feel lost, you can talk to me. You should consult Horikita and Kushida, too."
+[thinks] (p.241) On Ichinose’s warning about Ryuuen: "I didn’t know who this Ryuuen was, but he was undoubtedly a very dangerous opponent."
+[says] (p.241) "Yeah. I’ll keep that in mind."
+
+### y1v2 p.252–256 — Ch.7 §7.6: the corridor after the withdrawal
+[scene] (p.252) He waits outside the student council room; Sudō leaves cheerful, then the president and Secretary Tachibana come out.
+[says] (p.252) "Looks like it went well"
+[says] (p.252) "Yeah." — to Sudō’s proposal of a party that night
+[says] (p.252) "Is that so?"
+[says] (p.252) "Well, I guess miracles do happen."
+[says] (p.252) "Your little sister handled things well. I didn’t do anything."
+[note] (p.252) The president holds still and looks him in the eyes; the page withholds what he makes of the answer.
+[says] (p.253) "Nah, I hate troublesome stuff. Besides, being in the student council is no joke. I want to lead an ordinary student life at this school,"
+[says] (p.253) "Well, I’d just never do anything that I’m not interested in…"
+[says] (p.253) "Yo." — greeted by the hardest glare he has seen from Horikita, which she covers at once
+[says] (p.253) "What were the results?"
+[says] (p.253) "I’m glad to hear that. Looks like your strategy worked well."
+[says] (p.254) "My puppet? What are you talking about?"
+[says] (p.254) "You’re overthinking it. It’s just coincidence."
+[says] (p.254) "What do you mean, who am I? I’m just a guy who dislikes trouble, right?"
+[says] (p.254) "Well. I’ll be heading back now." — he turns on the feeling that it would be better not to be seen together with her
+[thinks] (p.254) He admits the involvement went too far and needs to be dialed back: "I had to dial it back a little. I just wanted my life here to be peaceful."
+[note] (p.254) The black-haired boy who stops in front of them has "black hair, styled so it was worn long," is about his height, and never fully turns to face them; the page does not name him here.
+[says] (p.254) "I’m done talking."
+[says] (p.254) "You sort of forced me to. You helped Sudou in this case, too. Right?"
+[says] (p.255) "I’m thinking ‘This is annoying,’ and ‘I don’t have any motivation to do this.’ Stuff like that. That’s what I’m thinking. Even if you took back what you said just now, Horikita, I do intend to live my life quietly. Whether we aim for Class A or whatever, that’s it."
+[says] (p.255) "I thought that I should help the first friends I’ve ever made. Probably."
+[thinks] (p.255) He suspects Chabashira is behind Horikita’s new questions: "I wouldn’t be surprised if she knew about my past."
+[thinks] (p.255) His conclusion, walked to in the corridor: "We’d received a declaration of war from some guy apparently known as Ryuuen."
+[thinks] (p.255) On the road ahead: "In other words, it was fair to say that trying to reach Class A in three years was hopeless."
+[thinks] (p.256) He turns the analysis on himself: "I knew more about me than anyone else. I knew just how defective, just how foolish I was. I was a horrible human being."
+
+<!-- walk: y1v2 ch7 → p.257 -->

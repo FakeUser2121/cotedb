@@ -458,3 +458,9 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:sakura-airi] (p.213) Ayanokōji tells Sakura that the belief is not his alone — "Horikita, Kushida, and Sudou do, too. All of our classmates believe you." Her part is reported by him, not shown in this chapter.
 
 <!-- walk: y1v2 ch6 → p.219 -->
+
+### y1v2 p.225–246 — Ch.7: her email, and the reward still to come
+[note] (p.225) Ayanokōji states that he asked her to send the email that lured the three Class C students to the special building: "I asked her to send an email to compel you all to come."
+[note] (p.246) Horikita lists her hearing actions among those that "would be rewarded as well."
+
+<!-- walk: y1v2 ch7 → p.257 -->

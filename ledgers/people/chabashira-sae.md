@@ -263,3 +263,46 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:horikita-suzune] (p.192, 209) She warns Horikita she can still withdraw, then closes the only procedural door Horikita asks to reopen.
 
 <!-- walk: y1v2 ch6 → p.219 -->
+
+### y1v2 p.243–246 — Ch.7 §7.5: the empty seat and the unexpected ending
+[scene] (p.243) She arrives with Sakagami for the retrial and finds Ayanokōji’s seat empty.
+[says] (p.243) "What happened to Ayanokouji, Horikita?"
+[says] (p.243) "Not participating?"
+[note] (p.243) She stares at the vacant seat "as if the proceedings would be meaningless without him."
+[says] (p.244) "You’re withdrawing your complaint?"
+[trait] (p.244) She chuckles with "a thin smile, as if she found something amusing."
+[says] (p.244) "Oh, excuse me. I was just surprised because I hadn’t foreseen this. I figured we would argue all day until one side collapsed, or until we could propose an acceptable compromise. However, unbelievably, they’ve said that they want to withdraw the complaint."
+[rule] (p.246) She confirms the practical result to both sides: no suspension for Sudō, no punishment for Class C, with this incident as the example to remember next time.
+[says] (p.246) "Of course. The same goes for the students in Class C, naturally. Youthful zeal is a good quality. However, the next time you think about causing problems, you should remember this incident as an example. Do not forget. Okay?"
+
+### y1v2 p.246–247 — Ch.7 §7.5: what she says to Sudō
+[says] (p.246) "I’m glad, Sudou,"
+[says] (p.246) "Personally, I think you should have been punished,"
+[says] (p.246) "The reason this incident occurred at all is because of your behavior. Who told the truth and who lied is trivial. It’s important that you don’t let this kind of thing happen again. You do understand that, yes?"
+[says] (p.246–247) "However, admitting your own faults isn’t ‘cool.’ So even if you acknowledge that your personality was partly to blame, you act tough. You get stronger. That’s fine. However, if you act like that, you won’t be able to make real friends. Eventually, Horikita will abandon you. She’ll leave."
+[says] (p.247) "There’s strength in admitting your mistakes, Sudou."
+[trait] (p.247) The page records it as the first time she has tried to reach out to one of her students as a homeroom teacher.
+[says] (p.247) "You shouldn’t make promises so casually. You’ll cause trouble soon again."
+[says] (p.247) "What do you think, Horikita? Do you think that Sudou will become a model student?"
+
+### y1v2 p.248–251 — Ch.7 §7.5: the private lesson about Ayanokōji
+[says] (p.248) "So. What methods did you use, Horikita?"
+[says] (p.248) "Don’t try to dodge the question. They wouldn’t withdraw their complaint without a reason, would they?"
+[says] (p.248) "So it’s a secret, hmm? Well, allow me to change the question. Who came up with the strategy that defeated Class C?"
+[says] (p.248) "Ayanokouji isn’t here, so I’m a little curious."
+[says] (p.249) "I see. So you recognize that, hmm?"
+[says] (p.249) "His potential, hmm?"
+[says] (p.249) "There are various things to consider. But if you want to reach Class A, I’ll give you one bit of advice."
+[says] (p.249) "The students in Class D all have some kind of defect, more or less. To borrow an expression used by others in this school, Class D is an assemblage of people that could be called ‘defective products.’ You already understand this quite well though, don’t you?"
+[says] (p.249) "Well, what do you think is Ayanokouji’s defect?"
+[says] (p.249) "Oh? And what is it?"
+[says] (p.249–250) "He dislikes trouble, hmm? Is that what you perceive when you look at Ayanokouji?"
+[says] (p.250) "Well, Horikita. Let’s try to learn as much as we possibly can about the boy called Ayanokouji, without delay, shall we? Otherwise, it’ll be too late. You already seem to have fallen into Ayanokouji’s trap."
+[says] (p.250) "Why do you think Ayanokouji purposefully got scores of 50 points across on the board on his entrance examination? Why do you think Ayanokouji is helping you? Why do you think that Ayanokouji doesn’t put himself forward as a superior student, despite having superior ability? Is Ayanokouji Kiyotaka really someone who ‘dislikes trouble’?"
+[says] (p.250) "In my personal opinion, Ayanokouji is the most defective student in Class D."
+[says] (p.250) "Higher functioning products are more difficult to handle. If you misunderstand how to handle him, the class might be completely destroyed in short order."
+[says] (p.250) "Get to know the person called Ayanokouji. What is he thinking? What focal point does he base his actions around? What is his fatal flaw? There’s definitely an answer there."
+[note] (p.251) She says nothing more, and the page gives no reason for the warning beyond Horikita’s own unanswered question.
+[trait] (p.251) Her usual manner is "unaware of and unconcerned with her class," which is why the session itself is the surprise.
+
+<!-- walk: y1v2 ch7 → p.257 -->

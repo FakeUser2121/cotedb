@@ -172,3 +172,9 @@ system_id: point-economy · scope: Tokyo Metropolitan Advanced Nurturing High Sc
 [note] (p.157) The mechanism is demonstrated rather than explained: Ayanokōji walks Ichinose through the remittance screen step by step.
 
 <!-- walk: y1v2 ch5 → p.189 -->
+
+### y1v2 p.234–245 — Ch.7: loans, fees, and the cost of a withdrawn case
+[rule] (p.245) Closing a withdrawn case still costs: "we will require a certain payment of points in order to cover of miscellaneous expenses incurred over the course of deliberations" — announced in the hearing with no speaker attached, and the first time any student has heard of it.
+[note] (p.234–235) Ayanokōji lends Ichinose the points for the camera purchase; she will return them: "I’ll definitely return the points I borrowed. Just tell me when you want them." — he sets the deadline at graduation.
+
+<!-- walk: y1v2 ch7 → p.257 -->

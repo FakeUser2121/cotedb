@@ -350,3 +350,30 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [note] (p.210) He leaves the student council room behind Horikita without a recorded line; the chapter gives him no scene with Sakura after the testimony he did not defend.
 
 <!-- walk: y1v2 ch6 → p.219 -->
+
+### y1v2 p.242–245 — Ch.7 §7.5: waiting for the retrial to start
+[scene] (p.242) He arrives ten minutes before deliberation with Horikita, nervous about the verdict they walked into.
+[says] (p.242) "Oh jeez, I’m so nervous. How about you, Horikita?"
+[says] (p.245) "Huh? Don’t screw around. I didn’t do anything,"
+[says] (p.245) "Wait. I don’t get it. Why are you guys just withdrawing your complaint like that?"
+[says] (p.245) "Horikita?"
+[action] (p.245) Horikita pulls him down into his seat mid-question and shuts him up.
+
+### y1v2 p.246–252 — Ch.7 §7.5–7.6: the lecture, the apology, the party
+[action] (p.246) Dissatisfied but nodding: the suspension is gone and his club activities restart that day.
+[says] (p.246) "He he. Well, of course!" — to "I’m glad, Sudou"
+[says] (p.246) "Yeah…" — after Chabashira tells him the incident happened because of his behavior
+[says] (p.247) "That’s…" — on being told Horikita will eventually leave him
+[says] (p.247) "I understand… If I hadn’t acted that way in the first place, then I wouldn’t have hit those guys. It wouldn’t have been such a big deal. I knew that, somewhere."
+[says] (p.247) "I always fought all I wanted for my own satisfaction. But it’s not like that anymore… I’m a Class D student, and my personal actions affect the entire class. Now I’ve experienced that firsthand…"
+[says] (p.247) "I won’t cause problems again, sensei. Horikita."
+[says] (p.247) "Tch!" — when Chabashira rejects the promise as too casual
+[says] (p.248) "Y-yeah…" — on hearing that Horikita has not abandoned him
+[says] (p.248) "Wh-what does that mean?!"
+[says] (p.248) "Well, I’m gonna get going. I have club activities. See you later, Horikita."
+[trait] (p.248) He leaves smiling "as if he just shaken off something heavy."
+[says] (p.252) "Man, I don’t understand what happened, but Horikita did something for me. Right?"
+[says] (p.252) "Well, I gotta head to my club. We should have a party tonight."
+[status] (p.247) The page marks the apology as his first penitent words, while insisting he is still himself: a person can’t change in one day.
+
+<!-- walk: y1v2 ch7 → p.257 -->

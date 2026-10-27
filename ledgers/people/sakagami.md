@@ -50,3 +50,20 @@ aliases used for anchors: sakagami, sakagami-sensei
 [rel:chabashira-sae] (p.205) He addresses the compromise to her first, and she accepts it before Class D answers.
 
 <!-- walk: y1v2 ch6 → p.219 -->
+
+### y1v2 p.243–246 — Ch.7 §7.5: he loses his students in the room
+[says] (p.243) "Oh, my. I see that the boy from yesterday isn’t here."
+[says] (p.243) "Well, whatever. It’s up to you guys to decide."
+[says] (p.243) "You made it just in the nick of time," — a slight sigh of relief when his three students arrive
+[says] (p.243) "Well then, we would like to resume deliberations on this case, from where we left off yesterday. Please take your seat."
+[says] (p.244) "What is it?"
+[says] (p.244) "What are you…? What in the world do you mean?" — standing up at the request not to hold the trial
+[says] (p.244) "What’s so funny, Chabashira-sensei?"
+[trait] (p.244) He "did not seem to like her attitude, glaring at Chabashira-sensei in irritation."
+[says] (p.245) "What did you do? Threaten my students with violence so they’d withdraw their appeal?"
+[says] (p.245) "There’s no way that my students would withdraw their complaint unless you had. Tell us the truth. If you do that, then we can do something about it."
+[action] (p.245) Unable to comprehend what his students are saying, he hangs his head low and sits back down.
+[action] (p.246) He leaves slowly with his students, and when the door closes "he started hounding his students for answers."
+[rel:chabashira-sae] (p.244) He takes her amusement at the withdrawal as an affront and answers it with a glare.
+
+<!-- walk: y1v2 ch7 → p.257 -->

@@ -866,18 +866,68 @@ Kanzaki's rows aggregate into `people/minor/k.html`; Tachibana renders at
 `topics/results.html`, `topics/who-knew-what.html` and `topics/expulsions.html`.
 Full gate: `share_check --site --print --pdf` all checks passed.
 
+### Chapter 7 ships, and a principal character stops being an empty page (site, 2026-10-27)
+
+Chapter 7 went in as one volume section plus thirteen ledgers' worth of scene
+rows, and it added no pages. `ledgers/people/ryuuen-kakeru.md` used the roster id
+that already owned `people/ryuuen-kakeru.html`, so the page count stayed at 162
+and the change was a replacement instead of a duplication: the lede that read
+"Nothing about Ryūen Kakeru has been read line by line yet. This encyclopedia
+only publishes what someone has read and anchored to a page…" gave way to two
+anchored sections, "Ch.7 §7.4: named before he is seen" (p.241) and "Ch.7 §7.6:
+the boy in the corridor" (pp.254–255). He is grouped as a principal character in
+the People rail, not a minor page, because the roster puts him in a top tier — the
+same rule that sent Kanzaki to `people/minor/k.html` does not apply to him.
+
+The chapter's evidence spread further than any earlier one, because the retrial is
+a cast scene: Chabashira's lecture and her private "defective products" session
+land on her page (35 rows), Manabu's secretary offer on his, Sakagami's loss of
+his students on his, Tachibana's one open seat on hers, Sudō's first penitent
+answer on his, and the camera purchase on `systems/point-economy`, which renders
+inside `school/system/private-points.html` rather than as its own page.
+
+Attribution fixes made before the build, all of them found by re-reading the
+pages and none by a checker: an untagged p.222 line and an untagged p.220 pair
+came out of two characters' `[says]` rows and into `[note]` rows plus the volume's
+gap list; Sakura's "That's…" (p.238) moved to Ayanokōji, whose hesitation the
+page actually narrates; and "I'm done talking." was re-anchored from p.255 to
+p.254. Five spoken lines the chapter gives these characters had no row at all and
+were added.
+
+Counts after the rebuild, against the Chapter 6 commit: 162 pages (unchanged), all
+reachable, max depth 3, 27 principal characters, 253 people in the index; search
+records 793 → **795**; site links 18870 → **19216** checked with 0 bad; print
+links 9348 → **9691** checked with 0 bad; cross-page `a.cite` 1209 → **1305**;
+plain `.pageref` 6908 → **7671**; `details.citebox` still 0; wording leaks 0.
+Print bundles: guides 22, **people 158** (was 153), **school 47** (was 46),
+**story 176** (was 172), **topics 247** (was 230), world 34 pages. Determinism
+re-measured across two consecutive builds:
+`5f140106f5bd2b1527b2f5a11bf071a5`, and `--docs` mirrors to the same tree
+(173 files).
+
+Render locations checked rather than assumed: all sixteen labelled bullets of the
+volume's Chapter 7 section reach `story/v/y1v2/index.html` (the checker was asked
+for every bold label in the section and only "Narrative Beats", the container
+heading, is not a rendered label), and its seven beats 7.0–7.6 are present there;
+"Only One Solution", "The trap in the corridor" and "declaration of war from some
+guy" appear on the volume page, on the Ayanokōji and Ryuuen pages, and in
+`topics/results.html` and `topics/who-knew-what.html`; "Get to know the person
+called Ayanokouji" appears on `people/chabashira-sae.html` as well as the volume
+page. Full gate: `share_check --site --print --pdf` all checks passed.
+
 ---
 
-## HANDOFF — site state and the exact next steps (written 2026-10-27, after y1v2 Ch.6)
+## HANDOFF — site state and the exact next steps (updated 2026-10-27, after y1v2 Ch.7)
 
 **Built state right now.** 162 pages, all reachable, max depth 3, 36 volume
-pages, 27 principal characters. Search index 793 records, 0 bad. Site links
-18870 checked, 0 bad. Cross-page `a.cite` 1209, plain `.pageref` 6908,
-`details.citebox` 0, wording leaks 0, nested chips 0, disclosure-rule
-violations 0, role-grouping problems 0, curated-typing leaks 0. Print bundles:
-guides 22, people 153, school 46, story 172, topics 230, world 34 pages; print
-links 9348, 0 bad. Deterministic tree hash across consecutive builds:
-`4d4c5047d6dcf80f90afad6178a91bda`; `docs/` mirrors it exactly (173 files).
+pages, 27 principal characters, 253 entries in the People index. Search index 795
+records, 0 bad. Site links 19216 checked, 0 bad. Cross-page `a.cite` 1305, plain
+`.pageref` 7671, `details.citebox` 0, wording leaks 0, nested chips 0,
+disclosure-rule violations 0, role-grouping problems 0, curated-typing leaks 0.
+Print bundles: guides 22, people 158, school 47, story 176, topics 247, world 34
+pages; print links 9691, 0 bad. Deterministic tree hash across consecutive
+builds: `5f140106f5bd2b1527b2f5a11bf071a5`; `docs/` mirrors it exactly (173
+files).
 
 **Commands.** Full rebuild: `python3 kb/build_share_site.py` (prints page,
 record, bundle and pdf counts). Mirror to the published tree: `python3

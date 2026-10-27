@@ -247,3 +247,46 @@ aliases used for anchors: sakura, airi, sakura-san
 [limit] (p.214) The sentence she begins at the entranceway is cut off by Ichinose’s arrival and never resumed; she opens her shoe locker, gives the smaller answer, and hurries out when the narrator calls after her.
 
 <!-- walk: y1v2 ch6 → p.219 -->
+
+### y1v2 p.222–225 — Ch.7 §7.1–7.2: the morning greeting and the last talk before the trial
+[scene] (p.222) She is already at her desk when Ayanokōji arrives — earlier than usual — sitting up straight, "as if ready for something."
+[says] (p.222) "Um… Good morning, Ayanokouji-kun. Horikita-san."
+[note] (p.222) The answer she gets back, "G-good morning…", is printed with no speaker; the narrator only records that his own response stuck in his throat.
+[says] (p.224) "Ayanokouji-kun… We’re having the trial today."
+[says] (p.224) "I see…"
+[says] (p.224) "It’s because everyone’s doing their best. I thought I’d do my best, too."
+[note] (p.224) The page reads the line "felt like that she was saying that to herself, rather than to me."
+[says] (p.224) "Well, if there’s something I need to move forward… I’ll do it."
+[note] (p.224) Her farewell smile and words "seemed so unlike her" and leave him with an unpleasant feeling.
+[says] (p.224) "See you later, Ayanokouji-kun."
+[says] (p.225) "I have plans today. Maybe tomorrow?"
+
+### y1v2 p.236–238 — Ch.7 §7.4: the shuttered door
+[scene] (p.236) At the electronics-store entrance her fan — the store clerk who has been sending hundreds of letters to her room — catches her alone.
+[says] (p.236) "Please don’t contact me anymore!"
+[says] (p.236) "Stop… Please, stop it!"
+[says] (p.236) "How do you know my room number? Why do you keep sending these?"
+[says] (p.236) "Please stop it. It’s bothering me!"
+[action] (p.236) She throws the bundle of letters to the floor, rejecting him.
+[says] (p.236) "D-don’t come any closer!"
+[action] (p.236) He latches onto her arm and shoves her against the store’s shuttered door.
+[says] (p.237) "No, let me go!"
+[note] (p.237) She is "completely dumbfounded" by the delinquent tone Ayanokōji puts on for the act.
+[action] (p.238) When the clerk runs she is exhausted enough to topple, and Ayanokōji catches her arms and holds her up.
+[says] (p.238) "Ayanokouji… kun. Why are you here?"
+[says] (p.238) "I guess I’m no good after all… I couldn’t do anything by myself in the end."
+
+### y1v2 p.239–240 — Ch.7 §7.4: permission, and a footing with Class B
+[action] (p.239) She meets Ayanokōji’s eyes and gives him a slight nod — permission to tell Ichinose the idol name.
+[says] (p.239) "When did you realize, Ayanokouji-kun?"
+[says] (p.239) "But I never appeared on TV or anything…"
+[says] (p.239) "I think I’m actually glad about this, though… It’s been hard to lie."
+[trait] (p.239) "She laughed while seemingly on the verge of tears."
+[says] (p.239) "Ayanokouji-kun… Don’t look at me with such strange eyes."
+[says] (p.239) "Never mind, it’s nothing."
+[says] (p.239) "Do you think everyone would notice if I came to class without my glasses, and changed my hairstyle?"
+[says] (p.240) "Okay. I understand,"
+[action] (p.240) A little hesitant, she shakes Ichinose’s outstretched hand.
+[status] (p.240) The new footing is stated to her: if she suffers or feels lost she can talk to Ayanokōji, and she should consult Horikita and Kushida too.
+
+<!-- walk: y1v2 ch7 → p.257 -->
