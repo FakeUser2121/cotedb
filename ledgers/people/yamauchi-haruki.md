@@ -153,3 +153,13 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [note] (p.129–148) He has no scene of his own in the second half of Chapter 4; both mentions are the class's assumptions about him rather than anything he does.
 
 <!-- walk: y1v2 ch4 → p.151 -->
+
+### y1v2 p.167–168 — Ch.5 §5.3: the magazine fight
+[note] (p.167) "Ike and Yamauchi scrambled over a weekly manga magazine" during the lunch strategy meeting; the exchange that follows has one untagged line, and the second speaker is not assigned here.
+
+### y1v2 p.179–180 — Ch.5 §5.6: he half-sees it first
+[note] (p.180) The narration marks him as persuaded before Ike: "Ike laughed, but Yamauchi’s expression stiffened."
+[says] (p.180) "Hey, Ike… You know, when I actually get a good look at her, I…think she probably does look a little like Sakura."
+[says] (p.180) "Those are simplistic ways to identify somebody…"
+
+<!-- walk: y1v2 ch5 → p.189 -->

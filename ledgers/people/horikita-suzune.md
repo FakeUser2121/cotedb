@@ -526,3 +526,30 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (p.118–130) All of this is secondhand. The second half of Chapter 4 contains no Horikita scene; her last appearance is alone with Ayanokōji in his room, and the class's entire summer-facing strategy is discussed without her in the room where it is decided.
 
 <!-- walk: y1v2 ch4 → p.151 -->
+
+### y1v2 p.159–162 — Ch.5 §5.1: the face she does not intend to make
+[scene] (p.159) Morning, the classroom; she asks about his day off in what the narrator calls "an icy voice".
+[says] (p.159) "Did you spend your day off with Kushida-san?"
+[says] (p.159) "Really? I didn’t intend to make any kind of face. I should look the same as I always do. However, I will say that I admire how freely you’ve been moving. When I ask you for help, you’re often reluctant, but when Kushida-san asks you, you accept readily. I was calmly and discretely analyzing the difference between us."
+[trait] (p.159–160) The denial is contradicted on the page: "I looked over at my neighbor, and saw an expression on Horikita’s face that I’d never glimpsed before." then "She did not remotely look calm and discreet."
+[note] (p.162) Kushida reads the same face as exclusion; the narrator refuses that reading and then concedes a realization he cannot name.
+
+### y1v2 p.165–167 — Ch.5 §5.2–5.3: she takes the seats and refuses the optimism
+[says] (p.165) "Well, naturally that was the result. It’s to be expected."
+[says] (p.165) "Now then, Kushida-san. It would be best for Ayanokouji-kun and me to sit in on the deliberation. I fully understand you supporting Sakura-san. However, if it comes to a debate, then that’s a different story."
+[feat] (p.166) She takes the two observer places Kushida asked for, and Sakura is left agreeing to it.
+[scene] (p.167) At lunch she eats "her bread in silence" while the others argue.
+[says] (p.167) "Don’t bring your dirty face so close to me."
+[says] (p.167) "I can’t help but be mystified by your belief that your innocence can easily be proven. Although you’ve gained evidence that works in your favor, you’re still in a very disadvantageous situation."
+
+### y1v2 p.170–171 — Ch.5 §5.4: the elevator, and a question she answers herself
+[scene] (p.170) The elevator: she is inside with shopping bags, the thirteenth-floor button lit; he presses eleven.
+[says] (p.170) "What? You’re not getting on?"
+[says] (p.170) "I was out shopping. Did you not see?"
+[says] (p.170) "This isn’t the tenth floor. Is that okay?"
+[says] (p.170) "For someone who dislikes trouble, you’ve been extremely proactive in involving yourself with this case. Or perhaps you have ulterior motives?"
+[says] (p.170) "You’re going to meet with Sakura-san, aren’t you?"
+[says] (p.171) "Well. I suppose where you go is none of my business."
+[trait] (p.170–171) She asks the question, then withdraws it, without waiting for the answer he does not give.
+
+<!-- walk: y1v2 ch5 → p.189 -->

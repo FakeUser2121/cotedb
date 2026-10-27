@@ -246,3 +246,20 @@ aliases used for anchors: ike, kanji, ike-kun
 [note] (p.133) Nothing in the text says whether Ike deliberately left Ayanokōji out; the only reading on record is Ayanokōji's own, and he takes the blame rather than Ike: "It’s not like Ike and the others were bad for not inviting me. I was the bad guy, the one who hadn’t been invited."
 
 <!-- walk: y1v2 ch4 → p.151 -->
+
+### y1v2 p.167–168 — Ch.5 §5.3: the magazine fight in the middle of the meeting
+[scene] (p.167) Lunch; "Ike and Yamauchi scrambled over a weekly manga magazine" while the strategy meeting runs.
+[note] (p.167) The exchange that follows has one speaker tagged and one left untagged: "I’m still reading that! Give it back!" then "It’s fine, isn’t it? I paid for half of it, anyway. I’ll give it back later." — the second line is not assigned by the translation.
+[note] (p.167–168) The narrator's aside on their finances: "Considering their bitter tears over having absolutely no points at all, I found it kind of amazing that they still managed to buy a magazine each week."
+
+### y1v2 p.179–183 — Ch.5 §5.6: the idol in his class
+[says] (p.179) "She’s cute." — after "Ike took a long hard look at her".
+[says] (p.180) "Huh? No way, no way. Sakura-san? No, no, no, there’s no way that’s true."
+[says] (p.180) "But she’s not wearing glasses, right? And her hair is different."
+[says] (p.180) "So Sakura is Shizuku? That’s a lie, right? I mean, sure, there’s a slight resemblance, but they’re different people. I mean, look how crazy bright and happy Shizuku is. Right? Come on, Ayanokouji."
+[says] (p.180) "Oh my god, there’s a gravure idol in our class! I’m so turned on!"
+[trait] (p.180–181) His reaction is the one the narrator expects Kushida to recoil from: "Although she was kind to an almost reckless degree, I couldn’t sense that kind of acceptance from her now."
+[scene] (p.183) He waits outside the door: "He struck a pose and stretched himself to his full height, parking himself in the hallway right outside my door."
+[says] (p.183) "If you do confess your feelings to her, I won’t forgive you. You know that, right?"
+
+<!-- walk: y1v2 ch5 → p.189 -->

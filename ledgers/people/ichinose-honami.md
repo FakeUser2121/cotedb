@@ -139,3 +139,18 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [note] (p.125–127) Chihiro is named only in this scene: a Class B girl who writes a love letter with a heart sticker and arranges to be confessed to in person behind the gymnasium. No surname, no other appearance in this volume.
 
 <!-- walk: y1v2 ch4 → p.151 -->
+
+### y1v2 p.152–158 — Ch.5 §5.0: a message board, a leaked past, and a screen
+[scene] (p.153) Outside the shoe cubbies, she shows her phone: a message on the school homepage's board seeking witnesses, with a view count still in the dozens.
+[says] (p.153) "Have you ever checked out the school homepage? There’s a message board. I requested that people come forward with information there. I said that if there anyone witnessed a violent incident at our school, I’d like to hear about it."
+[says] (p.154) "Ah, regarding the stuff about points, don’t worry. We just decided to do that on our own. Besides, it will probably be difficult for us to get new information now. Ah!"
+[says] (p.154) "It looks like I just got two messages regarding the post. There might be a little information."
+[says] (p.156) "It looks like one of the boys from Class C, Ishizaki-kun, was a bad seed in junior high. He was good at fighting, and terrorized the locals. A kid from his hometown probably leaked this."
+[says] (p.156) "Yeah, I think so too. I knew you’d figure it out, Kanzaki-kun. Great work. If we can verify this information, then we could be one step closer to proving Sudou-kun’s innocence. But what we have is still pretty weak, isn’t it?"
+[says] (p.157) "It’ll be okay. Besides, both Class C and Class A originally targeted us, anyway."
+[says] (p.157) "Anyway, we’ll have to transfer points over to anyone who provides us with information. Ah, but what if someone does so anonymously? In that case, how would we transfer over the points?"
+[trait] (p.157) "Ichinose and Kanzaki made it pretty clear that they wanted to be fair and square when competing against the school and the other students."
+[scene] (p.157) She leans in to point at her screen while he explains the token key; the page records his reaction, not hers.
+[note] (p.158) What he glimpses on her phone is left unnamed in this chapter; anything stronger would be a guess.
+
+<!-- walk: y1v2 ch5 → p.189 -->

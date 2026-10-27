@@ -454,3 +454,55 @@ marker per chapter at its boundary. Verification after the writing:
 `verify2 y1v2` **522** [says] lines (8 too short/skipped), `verify3 y1v2` **439**
 other quoted lines, both ALL PASS. See progress3 for the site numbers and for
 the renderer bug this chapter exposed.
+
+### y1v2 Chapter 5: Each and Every Prediction is closed (walk, 2026-10-27)
+
+Read pp.152–189 as one pass (the night before the deliberation through the
+verdict and the aftermath), then fanned out to the ledgers the chapter actually
+touches: ayanokouji-kiyotaka, sakura-airi, kushida-kikyou, horikita-suzune,
+ichinose-honami, chabashira-sae, sudou-ken, ike-kanji, yamauchi-haruki,
+systems/point-economy, volumes/y1v2. The chapter is a verdict, not a rescue:
+the class spends pp.152–168 preparing and being examined, the deliberation and
+its aftermath run pp.171–181, and the volume's second engine — the idol
+photograph and the anonymous payout — is lit in the same stretch.
+
+What the chapter turns on: Chabashira interrogating Sakura in the faculty room
+and refusing to take the witness on trust (pp.163–165), the class's own
+rehearsal and the two-seat limit for the hearing (pp.165–168), the deliberation
+itself with the two observers (pp.171–178), the verdict and Sudou's release
+(pp.178–181), and then the private consequences — the anonymous transfer, the
+message board, and the magazine photograph that turns Sakura's secret into a
+class problem (pp.181–189).
+
+Attribution discipline: this chapter runs on untagged dialogue in the faculty
+room and in the deliberation. A [says] row was written only where the
+translation names the speaker or fixes it by an act; two places where the
+speaker is genuinely undecidable are recorded as gaps in the volume section
+instead of being guessed — the manga line at p.167 and the opening exchange of
+the reveal at p.179 ("Wait, is that a picture of Shizuku?" / "Shizuku?" /
+"She's a gravure idol…" are untagged until the next question names her). The
+Kushida row that had guessed at the gravure line was corrected to a [note]
+recording the gap rather than a [says] inventing a speaker.
+
+Forward-only knowledge stays out. What the anonymous payer's design becomes and
+what the magazine fight costs later are recorded as open threads at their real
+pages (pp.157–158, 181–189), not written into this chapter's rows.
+
+New named entities recorded: Kanzaki Ryūji (p.153), Shizuku (p.179, the idol
+name and the girl behind it), and the detail that Ishizaki's grudge has a past
+behind it (p.156). New system facts: the class homepage board (p.153), the
+token key and its anonymous payout path (pp.157–158), the girls' floor curfew
+after 8 PM (pp.169–170), and the two-observer rule at the deliberation (p.165).
+
+Translation defects kept as printed: the p.167 manga line, whose speaker the
+page never fixes, and the run-together names in the deliberation exchanges.
+
+Housekeeping: the intended Chabashira [limit] row for the frog image (p.164)
+was missing after the first fan-out even though the quote rendered on Sakura's
+page; it was added at the faculty-room section and the site rebuilt. A places
+ledger for the club-activities building was written and then deleted, because
+world pages enumerate curated location rows and a new places ledger renders
+nowhere; the building stays described in Sakura's 5.5 rows and the volume
+setting. Verification after the writing: `verify2 y1v2` **624** [says] lines
+(11 too short/skipped), `verify3 y1v2` **501** other quoted lines, both ALL
+PASS. See progress3 for the site numbers and the determinism hash.

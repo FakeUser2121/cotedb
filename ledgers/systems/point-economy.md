@@ -162,3 +162,13 @@ system_id: point-economy · scope: Tokyo Metropolitan Advanced Nurturing High Sc
 [status] (p.144) The narrator's ceiling, stated to the two girls waiting beside him: "Today was just a preliminary inspection. I don’t have enough points to buy anything."
 [trivia] (p.143) The contact is stored in his phone as "Sotomura (Professor)" — students trade points and expertise with each other faster than the school explains either.
 [note] (p.143–144) The thing he is price-checking is not named in Chapter 4; the trip is a preliminary inspection and the purchase is postponed for lack of points.
+
+### y1v2 p.152–158 — Ch.5 §5.0: paying informants, and paying them anonymously
+[fact] (p.152) A bulletin-board flyer promises points for information about Sudou and Class C; it is the first time in the volume that students offer their own points as a bounty.
+[fact] (p.153) A school-homepage message board is used to canvass witnesses; the view counter is "still only in the dozens".
+[fact] (p.154) The bounty is Class B's own money, not the school's: "We just decided to do that on our own."
+[fact] (p.157–158) Anonymous payouts run on a temporary token key: "From your ID number, you can issue a temporary token key. If you open that, and send the key, you should get a request for payment."
+[fact] (p.157) The points screen shows the user's ID number in the upper left corner.
+[note] (p.157) The mechanism is demonstrated rather than explained: Ayanokōji walks Ichinose through the remittance screen step by step.
+
+<!-- walk: y1v2 ch5 → p.189 -->

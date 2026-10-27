@@ -305,3 +305,13 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [trait] (p.90–146) The pattern the volume settles: other people's social labour is what saves him, and he is only ever told about it afterwards, as good news.
 
 <!-- walk: y1v2 ch4 → p.151 -->
+
+### y1v2 p.165–167 — Ch.5 §5.2–5.3: told he will be there, and certain of the outcome
+[note] (p.165) He is not in the faculty room; Chabashira says the school will inform him: "we’ll tell Sudou that he will be participating in the deliberation."
+[scene] (p.167) Lunch strategy session; he and Kushida both turn to Horikita for a verdict.
+[says] (p.167) "Of course we will. It’s obvious that I was set up. I’m definitely innocent. Right?"
+[says] (p.167) "Hey, Horikita. What do you think?"
+[says] (p.167) "But we have a witness who knows I’m innocent, and the other guys were real jerks in the past. That should be enough, right? Those guys are bad news."
+[trait] (p.167) "Sudou, completely blind to his own shortcomings, arrogantly crossed his legs and nodded in agreement with himself."
+
+<!-- walk: y1v2 ch5 → p.189 -->

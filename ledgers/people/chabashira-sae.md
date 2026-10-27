@@ -209,3 +209,23 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [scene] (p.41) She leaves and "Sudou followed right after her" — AK's read: he stayed out of the room rather than lose his temper at his classmates.
 
 <!-- walk: y1v2 ch3 → p.65 -->
+
+### y1v2 p.163–166 — Ch.5 §5.2: the teacher who will not take the witness on trust
+[scene] (p.163) The faculty room, after homeroom, at the class's request; Ayanokōji hangs back.
+[says] (p.163) "A witness? For Sudou’s case?"
+[says] (p.163) "I understand what you’re said. However, I can’t simply accept what you’re telling me,"
+[says] (p.163) "Sakura, why are you testifying now? When I reported the issue during homeroom, you didn’t step forward. It’s not as though you were absent that day, right?"
+[says] (p.164) "You’re not good at talking with other people, and yet you’ve decided to testify now? Isn’t that strange?"
+[says] (p.164) "I’m speaking to Sakura right now."
+[limit] (p.164) Her interrogation of a frightened witness reduces the girl physically: "Sakura hunched and shrank away, much like a frog cornered by a snake." The narrator adds that she "should have understood what kind of girl Sakura was" and that speaking up at all "had made great progress" — the method is exact and costly.
+[says] (p.164) "I see. So, then you mustered up the courage to come forward?"
+[says] (p.164) "I see. Well if you are a witness as you say, naturally I’m obligated to relay that information to the school. However, while the school will listen to the whole story, Sudou may not be declared innocent."
+[says] (p.164) "Are you really the witness, Sakura? That’s what I’m getting at. I think that it may be a lie made up by Class D because the students are afraid of receiving a negative evaluation."
+[says] (p.164) "Horrible? If you really had witnessed an event, you should have come forward on the first day. It’s natural to feel suspicious when someone steps up just in the nick of time. Considering that the witness is from Class D, it’s doubly suspicious. Any reasonable person would have doubts. Don’t you think so? Conveniently, a student from the same class happened to be in an infrequently visited building and happened to witness the entire event?"
+[says] (p.165) "However, a witness is a witness. I cannot determine if she’s lying, so for the time being, I will accept her testimony. So, Sakura, I will ask for you to join us on the day of deliberation. I understand that you do not like to associate with others, but can you do this?"
+[says] (p.165) "If you don’t like it, you do have the option to withdraw. Also, we’ll tell Sudou that he will be participating in the deliberation."
+[says] (p.165) "If Sudou himself consents, I will approve it. However, we cannot allow that many people. Only a maximum of two may sit in on the deliberation. Please think on that carefully."
+[trait] (p.164–165) She tests the witness by making her imagine the room: "as if she were testing the girl."
+[note] (p.164) The narrator's judgment of her method, kept as his: "As our teacher, Chabashira-sensei should have understood what kind of girl Sakura was."
+
+<!-- walk: y1v2 ch5 → p.189 -->

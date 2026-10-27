@@ -781,3 +781,37 @@ Yamauchi and the second-hand Hirata/Karuizawa/Kōenji rows go to
 `topics/points.html`, `topics/results.html`, `topics/relationships.html`,
 `topics/who-knew-what.html` and `topics/expulsions.html`. Full gate:
 `share_check --site --print --pdf` all checks passed.
+
+### Chapter 5 ships; the missing row was a write, not a render (site, 2026-10-27)
+
+Chapter 5 went in as one volume section plus ten ledgers' worth of scene rows,
+and the audit that followed found exactly one row that had been intended but
+never written: Chabashira's [limit] on the frog image (p.164). The quote was
+already rendering from Sakura's page, which is why the first pass looked
+complete — the site was rendering everything it was given; the ledger was the
+thing missing a line. The row was added to the faculty-room section and the
+rebuild picked it up. No renderer change was needed this time, and none was
+made.
+
+A places ledger for the club-activities building was written during the fan-out
+and then deleted: world pages enumerate curated location rows, so a new
+`ledgers/places` file renders nowhere on the site. Deleting it changed no
+output; the building remains in Sakura's 5.5 rows and in the volume setting.
+
+Counts after the rebuild, against the Chapter 4 commit: 161 pages (unchanged),
+search records **778**, site links 18094 → **18283** checked with 0 bad,
+cross-page `a.cite` links 1034 → **1089**, plain `.pageref` references 5657 →
+**6075**, `details.citebox` still 0. Print bundles: guides 22, **people 145**,
+school 46, **story 167**, **topics 209**, world 34 pages; print links 8933
+checked with 0 bad. Determinism re-measured across two consecutive builds:
+`b5fdb0c9711faf8f1e1be265d168f6ef` (the pre-fix build of the same chapter was
+`782e8ec3c9b2bb8aafce9d108397cb81`), and `--docs` mirrors to the same tree.
+
+Render locations checked rather than assumed: the Sakura, Kushida, Horikita,
+Ayanokōji, Ichinose, Chabashira and Sudō blocks go to their own pages under
+`people/`; Ike and Yamauchi to `people/minor/i.html` and `people/minor/y.html`;
+the token key and the class board facts to `school/system/private-points.html`;
+the Chapter 5 narrative section to `story/v/y1v2/index.html`, where it
+aggregates into `topics/points.html`, `topics/who-knew-what.html` and
+`topics/relationships.html`. Full gate: `share_check --site --print --pdf` all
+checks passed.

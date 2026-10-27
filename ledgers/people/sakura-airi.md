@@ -128,3 +128,61 @@ aliases used for anchors: sakura, airi, sakura-san
 [note] (p.150) She did not call Kushida either: "A few minutes later, Kushida confirmed that she hadn’t heard back from Sakura." Whatever she wanted is not in the record; his reading of it is a guess about the store clerk.
 
 <!-- walk: y1v2 ch4 → p.151 -->
+
+### y1v2 p.163–166 — Ch.5 §5.2: she testifies in the faculty room, and the teacher tests her
+[scene] (p.163) After homeroom, the faculty room. Kushida brings her forward; Ayanokōji waits at the back "out of consideration for Sakura".
+[says] (p.163) "Yes. I saw it."
+[feat] (p.163) She gives the account in full for the first time: "None of us, not even the teacher, spoke a single word or even moved until the very end."
+[limit] (p.164) Asked why she is speaking now, she cannot answer cleanly: "Well… That’s… I’m just not good at talking with other people…"
+[says] (p.164) "Umm… Well, it’s because our…class is in trouble now, and…I thought if…if I testify, I can help…"
+[limit] (p.164) Chabashira's interrogation reduces her physically: "Sakura hunched and shrank away, much like a frog cornered by a snake."
+[note] (p.164) The narrator's reading, kept as his: "She should have realized that merely by speaking up, Sakura had made great progress."
+[says] (p.164) "Yes…" — her answer to whether she mustered the courage; the page notes that "Sakura, upon imagining this, turned pale and anguished."
+[says] (p.165) "Y-yeah…" — answering Kushida; "Sakura’s reply lacked confidence."
+[limit] (p.165) The deliberation itself is the threat, not the testimony: "In addition to having to give her testimony in front of others, she was also going to have to sit alone with Sudou."
+[says] (p.166) "N-no, it’s fine."
+[note] (p.166) She agrees to an arrangement she does not want: "She didn’t seem to like this at all, but she also didn’t have much choice right now."
+
+### y1v2 p.169–175 — Ch.5 §5.4: the night she asks him to come to her room
+[scene] (p.169) Evening, her dorm room 1106 on the eleventh floor — "This was my first time setting foot there" — reached by email rather than a call.
+[says] (p.169) "If I was absent from school tomorrow, what do you think would happen?"
+[says] (p.169) "If it’s okay with you, could we meet right now? I’m in room 1106."
+[says] (p.169) "If you could keep this a secret from everyone… That would really help me out."
+[says] (p.171) "Come on in." — "She greeted me wearing casual clothes."
+[says] (p.171) "Umm… Ayanokouji-kun, do you remember what you said before? You said I wasn’t obligated to step forward, even though I was the witness. You also said it was meaningless to force me to testify."
+[says] (p.171) "I…just don’t have any self-confidence after all."
+[says] (p.171) "I’ve been terrible at it for so long… I’m not good at speaking in front of others. If I’m asked to testify in front of the teachers tomorrow, I don’t think I’ll have the confidence to answer properly. So…"
+[says] (p.171) "Ahhhhh. Jeez, why am I so completely useless?!"
+[trait] (p.171–172) The outburst is new to him: "It was the first time I’d seen her like that." and "So she could be animated. I’d had no idea, considering her usually depressed look."
+[says] (p.172) "That’s because I’m not afraid of your eyes, Ayanokouji-kun…"
+[says] (p.172) "Oh, no. I don’t mean the eyes that you’ve seen me with. I mean the pupils, way back in the eyes… If you look someone deep in their eyes, you’ll understand. I’m sorry, I can’t really explain it well."
+[says] (p.172) "Well, it’s just… When I see a man…even if he seems kind…I suddenly get afraid."
+[note] (p.172) A cause is guessed and not confirmed: "I wondered if something had happened in Sakura’s past to cause her intense fear of men."
+[says] (p.172) "I know it would be good to simply say what it is I saw. But no matter what I do, I can’t seem to imagine it… How can I speak that assertively?"
+
+### y1v2 p.176–178 — Ch.5 §5.5: the club building, and advice she did not ask for
+[scene] (p.176) She takes him to the club-activities building away from the school, the one "that hosted things like the archery club and the tea ceremony club", where arrows can be heard.
+[says] (p.176) "I’m not, but I’ve wanted to come here at least once. I’d stand out if I came by myself, so…"
+[says] (p.176) "Why did you ask me to come out, anyway?"
+[says] (p.176) "Horikita-san, Kushida-san, Ike-kun, Sudou-kun, Yamauchi-kun…"
+[says] (p.177) "I don’t know how to make friends at all. I’m envious. You were the first person to call me a friend."
+[says] (p.177) "Yeah. I should apologize to Kushida-san sometime. She was the first one to call and invite me out, because I didn’t have the courage… I actually wanted to hang out with her. I just couldn’t answer her, no matter what I did. I’m so pathetic."
+[says] (p.177) "Thank you, Ayanokouji-kun."
+[note] (p.178) Whether the advice lands is left unresolved: "Hopefully, my words had found purchase somewhere in Sakura’s heart."
+
+### y1v2 p.179–181 — Ch.5 §5.6: the class finds out what she does with her face
+[scene] (p.179) Ayanokōji's room, that night; Kushida has called everyone but Sudō.
+[note] (p.179) She is not present when the class identifies her; the blog is found by Kushida, under the name Shizuku.
+[note] (p.180) The proof the narrator offers is a dormitory door visible in one photograph, and his line is: "You can barely see it, but the door to her dorm room is in this picture."
+[trait] (p.181) The double life, stated plainly: "She lived a double life as an idol and a quiet, inconspicuous student at our school."
+[limit] (p.181) Why she made the second life is not answered: "Why had she wanted to create another life? It was like a coin with two very different sides."
+[note] (p.180–181) The lensless glasses she dropped the night before are the disguise the class is now discussing, though not in her own words.
+
+### y1v2 p.186–188 — Ch.5 §5.7: the comments that explain her fear
+[scene] (p.186) Her blog ran about two years, starting when she began working as an idol; more than 5000 followers on Twitter; she stopped replying after being accepted to the school.
+[limit] (p.187) The record of one commenter escalates in public view: "Do you believe in fate? I do. I believe we will be together forever." then "Look, God is real after all."
+[note] (p.187) The chapter's connection, kept as the narrator's inference: the electronics-store clerk recognised her, and the repair form carried her real name and phone number.
+[note] (p.187–188) Her fear at the repair counter is explained in hindsight by that inference, not by anything she says.
+[limit] (p.188) Nothing can be done before the hearing: "In the end, the only option was to wait on an SOS from the girl in question."
+
+<!-- walk: y1v2 ch5 → p.189 -->

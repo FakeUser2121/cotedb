@@ -888,3 +888,41 @@ walk: y1v1 → DONE
 [thinks] (p.150) The only thing he contributed that day, by his own inventory: "Sakura and Kushida struck up most of the conversations, but I’d broached a topic. Namely, the clerk at the store who’d helped with the repair order. I hadn’t brought up anything else."
 [thinks] (p.150) "All of the puzzle pieces I’d collected were too small, and too few. I was able to conjure up several scenarios and speculations, but they all lacked credibility. I didn’t have enough information to come to a definitive decision."
 [thinks] (p.150) Why he will not simply go and ask her: "If I just went up and started talking to Sakura, who normally didn’t talk to anyone, it would make her stand out. She wouldn’t like that."
+
+### y1v2 p.152–158 — Ch.5 §5.0: the last day, and a screen he should not have seen
+[scene] (p.152) One day before the meeting; the class is united but "it was obvious that we lacked firm, irrefutable evidence".
+[scene] (p.152) A flyer on the bulletin board by the stairway offers points to anyone with information on Sudou and Class C; Kanzaki of Class B posted it on Friday.
+[says] (p.152) "I saw the paper on the bulletin board. Did you post it, Ichinose?"
+[says] (p.153) "Huh? This wasn’t you?"
+[scene] (p.153) Introduced to Kanzaki: "He was tall and slender. A pretty boy, but in a different way from Hirata."
+[says] (p.153) "Nice to meet you, Kanzaki."
+[thinks] (p.156) The leaked account of Ishizaki changes his picture of the fight: "Yet Sudou had turned the tables, and beat them all without once being hit himself." then "I couldn’t help but feel there was something unnatural about that."
+[thinks] (p.156) His private odds, said to no one: "If we got testimony from Class D, though, our chances would probably be 6 to 4, or maybe 7 to 3."
+[says] (p.156) "No, we can’t say anything yet." — and he keeps her out of it: "I concealed Sakura’s name since we were still negotiating."
+[says] (p.158) The payment mechanism, taught at the counter: "From your ID number, you can issue a temporary token key. If you open that, and send the key, you should get a request for payment."
+[action] (p.157–158) He walks Ichinose through the points screen; being close enough to notice her scent makes his heart rate climb.
+[thinks] (p.158) What he sees on her phone is never described, only its effect: "The fragment of screen I’d noticed had burned itself into my mind and wouldn’t go away." then "Ichinose might prove a huge obstacle for Horikita in her quest to reach Class A."
+[note] (p.158) The chapter does not name what was on the screen; it stays open.
+
+### y1v2 p.159–177 — Ch.5 §5.1–5.5: the night visit, and a definition of friendship
+[trait] (p.162) He refuses the obvious reading of Horikita's face and then accepts it as a baffling realization: "In that moment, I had come to a rather baffling realization."
+[note] (p.166) He explains the seating outcome to himself: "It was precisely because they might not make the best team that I’d been appointed as a substitute, I supposed."
+[scene] (p.169) Her email asks him to room 1106; the girls' floor is open to boys, but entry is prohibited after 8:00 PM.
+[thinks] (p.172) Her remark about eyes turns into self-examination: "So, was it like insight into a person’s true self? When someone looked at me, would they see that I was insubstantial and lack ambition?"
+[says] (p.173) "I think you should do what you want, Sakura."
+[says] (p.173) "Sakura, I think you’ll be able to make friends with someone in no time."
+[says] (p.173) "It might be presumptuous for me to say this, but I think that we’re like friends. We are,"
+[says] (p.174) "Well, why not go out with me for a while? If it’s not a bother, of course."
+[feat] (p.174) He picks up the fallen glasses, confirms there are no lenses, and hands them back without comment.
+[says] (p.177) The advice he gives her: "For Sudou. For Kushida. For your classmates. Throw all of those thoughts away." then "Tell the truth for your own sake. Do that, and Sudou will be saved. That’s enough."
+[thinks] (p.177) His reason for giving it: "Maybe I did it because I understood how it felt to be wanted."
+
+### y1v2 p.179–188 — Ch.5 §5.6–5.7: proof, and what cannot be fixed by morning
+[says] (p.180) "No, Kushida is definitely right. That’s Sakura. Here."
+[says] (p.180) "You can barely see it, but the door to her dorm room is in this picture."
+[says] (p.180) "Good job noticing this, Kushida."
+[thinks] (p.187) The link he makes alone: "I flashed on a memory of the man who worked at the campus electronic store."
+[thinks] (p.187) "The clerk, on the other hand, had been in incredibly high spirits. After all, here was his chance to get his favorite idol’s real name and phone number on the form she had to fill out."
+[limit] (p.188) "In the end, the only option was to wait on an SOS from the girl in question."
+
+<!-- walk: y1v2 ch5 → p.189 -->

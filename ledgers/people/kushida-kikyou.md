@@ -403,3 +403,49 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [note] (p.150) She is asked whether Sakura called her and did not receive the call: "A few minutes later, Kushida confirmed that she hadn’t heard back from Sakura." The volume leaves Sakura's unfinished sentence on one side of the exchange and Kushida's unfinished sentence on the other.
 
 <!-- walk: y1v2 ch4 → p.151 -->
+
+### y1v2 p.159–162 — Ch.5 §5.1: she reads Horikita better than Horikita reads herself
+[says] (p.159) "Good morning! Ayanokouji-kun!"
+[says] (p.159) "Thanks for yesterday. You really saved me."
+[says] (p.159) "Let’s hang out again sometime, okay?"
+[scene] (p.162) She does not come in; she "briefly peeked into the classroom" and calls him out to the hallway.
+[says] (p.162) "I have a feeling I just saw something really incredible!"
+[says] (p.162) "That’s not it. I think she feels alienated and lonely over not being invited."
+[says] (p.162) "She probably doesn’t know how she feels… I’m sure she’s probably noticed how much fun it is to spend time with friends and talk to them, though. That’s a good thing, a good thing."
+[says] (p.162) "Perhaps you’re realizing something fundamental, Ayanokouji-kun. Horikita-san is upset that you didn’t invite her to come along."
+[trait] (p.162) The reading is hers alone; the narrator calls it "a bizarre thought" and cannot accept it.
+[rel:horikita-suzune] (p.162) She names Horikita's feeling as loneliness while disliking her, and says it in the hallway where Horikita cannot hear.
+
+### y1v2 p.163–168 — Ch.5 §5.2–5.3: she brings the witness, then loses the seat
+[says] (p.163) "Yes. Sakura-san saw everything from start to finish."
+[action] (p.163) "Kushida called for Sakura, who stood quietly behind her."
+[says] (p.164) "Sensei, Sakura-san is…" — cut off: "Chabashira-sensei cut Kushida off sharply."
+[says] (p.164) "Chabashira-sensei, that’s a horrible thing to say!"
+[says] (p.165) "Do you mind if we participate as well, sensei?"
+[feat] (p.165) "Of course, it was Kushida who spoke up, most likely to support Sakura." — she asks for a place and Horikita takes it.
+[scene] (p.167) Lunch in the classroom; "thanks to Kushida’s persuasive tears" Horikita joins the strategy meeting.
+[says] (p.167) "Can we really prove Sudou’s innocence tomorrow?"
+[scene] (p.168) Mid-argument she stops listening: "Kushida, seated beside me as the Ike/Yamauchi spectacle unfolded, appeared deep in thought."
+[says] (p.168) "Perhaps…" — murmured, then she opens her phone and says nothing more about it.
+[says] (p.168) "Ah, nothing. It’s nothing. There was just something on my mind."
+
+### y1v2 p.179–185 — Ch.5 §5.6: the idol, the persona theory, and the whisper at the door
+[scene] (p.179) That night "under Kushida’s orders" everyone but Sudō gathers in Ayanokōji's room; she asks for his computer and opens a blog.
+[says] (p.179) "There has been progress, yes, but I’ve also noticed something incredible. Ayanokouji-kun, can I borrow your computer for a minute?"
+[says] (p.179) "Okay. Have a look at this!"
+[note] (p.179) The reveal's opening exchange is untagged: "Wait, is that a picture of Shizuku?" then "Shizuku?" then "She’s a gravure idol. She was just featured in a young men’s magazine." — only the next question, "Do you recognize her?", carries her name.
+[says] (p.179) "Do you recognize her?"
+[says] (p.179) "Look closely."
+[says] (p.179) "No, not that! This is Sakura-san, isn’t it?"
+[says] (p.179) "Sakura-san, from our class."
+[says] (p.180) "When I saw Ike-kun reading that weekly magazine, I remembered something. I had the feeling I’d seen Sakura somewhere before,"
+[says] (p.181) "But just when Shizuku started to become really popular, she suddenly disappeared."
+[says] (p.183) "I was surprised when I found out that she was an idol, but I also kind of understood it. I wonder if that’s her real personality?"
+[trait] (p.183) Her theory of the double life: "I think that…most likely, Sakura-san would say that her idol self is actually her false face." then "I think that she’s creating another personality with makeup."
+[says] (p.184) "I’ll tell you later. Right now, our priority is to resolve this case. Besides, it’s a personal request."
+[says] (p.184) "I’m sorry. If I told you now, it’d just be a bother."
+[says] (p.184) "If you listen to my request, Ayanokouji-kun…I’ll give you my most precious possession." — whispered at the door, on tiptoe, hand on his chest.
+[limit] (p.185) By the time the door opens the change is gone: "Not even the faintest trace of that frightening Kushida remained."
+[rel:ayanokouji-kiyotaka] (p.184) She turns the request into a transaction before she has named it.
+
+<!-- walk: y1v2 ch5 → p.189 -->
