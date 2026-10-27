@@ -7,8 +7,8 @@ through this file, so no ad-hoc sed/cat/grep/python one-liners are needed.
 
 Usage:
   cote.py status
-  cote.py next      [--vol y1v2]
-  cote.py chapters  [--vol y1v2]
+  cote.py next      [--vol y1v3]     (default: first unfinished volume)
+  cote.py chapters  [--vol y1v3]     (default: first unfinished volume)
   cote.py read      --vol y1v2 --pages 158-163
   cote.py append    --file ledgers/people/sakura-airi.md --from drafts/ch5.md \
                     [--under y1v2] [--stamp "y1v2 ch5 -> p.189"] [--at-end]
@@ -136,7 +136,8 @@ def report_blank_pages(vol: str, pages: str) -> None:
 
 
 def cmd_chapters(a) -> int:
-    return run([sys.executable, "kb/walk_locate.py", "chapters", "--vol", a.vol], "chapters")
+    vol = a.vol or first_unfinished_volume()
+    return run([sys.executable, "kb/walk_locate.py", "chapters", "--vol", vol], "chapters")
 
 
 def chapter_map(vol: str) -> list[tuple[int, int, int, str]]:
@@ -224,12 +225,12 @@ def cmd_ledger_new(a) -> int:
         die(f"{path.relative_to(ROOT)} already exists (use --force to overwrite)")
     path.parent.mkdir(parents=True, exist_ok=True)
     title = a.title or a.stem.replace("-", " ").title()
+    start = a.start_vol or first_unfinished_volume()
     body = (
         f"# {title} — walk ledger\n\n"
         f"{a.header}\n\n"
-        f"<!-- walk: {a.start_vol} → start -->\n\n"
-        f"## {a.start_vol}\n\n"
-        f"<!-- walk: {a.start_vol} → start -->\n"
+        f"## {start}\n\n"
+        f"<!-- walk: {start} → start -->\n"
     )
     path.write_text(body, encoding="utf-8")
     print(f"cote: created {path.relative_to(ROOT)}")
@@ -289,8 +290,41 @@ def cmd_hash(a) -> int:
 # --------------------------------------------------------------- status
 
 
+def volume_order() -> list[str]:
+    """Volume ids in reading order, from the source texts; side stories last."""
+    vols = []
+    for fn in sorted((ROOT / "text").glob("*.txt")):
+        m = re.match(r"COTE Y(\d) V(\d+(?:\.\d+)?)\.txt$", fn.name)
+        if m:
+            vols.append((int(m.group(1)), float(m.group(2)),
+                         f"y{m.group(1)}v{m.group(2)}"))
+    vols.sort()
+    out = [v for _y, _n, v in vols]
+    if (ROOT / "text" / "COTE V0.txt").exists():
+        out.append("y0")
+    return out
+
+
+def volume_done(vol: str) -> bool:
+    """A volume is closed when its ledger carries a `→ DONE` boundary stamp."""
+    led = ROOT / "ledgers" / "volumes" / f"{vol}.md"
+    if not led.exists():
+        return False
+    return any(re.search(r"→\s*DONE\b", m.group("inner"))
+               for line in led.read_text(encoding="utf-8").splitlines()
+               if (m := STAMP_RE.match(line)))
+
+
+def first_unfinished_volume() -> str:
+    """The first volume in reading order without a `→ DONE` stamp."""
+    for v in volume_order():
+        if not volume_done(v):
+            return v
+    return volume_order()[-1]
+
+
 def cmd_next(a) -> int:
-    vol = a.vol
+    vol = a.vol or first_unfinished_volume()
     led = ROOT / "ledgers" / "volumes" / f"{vol}.md"
     stamps = []
     if led.exists():
@@ -298,6 +332,8 @@ def cmd_next(a) -> int:
                   for l in led.read_text(encoding="utf-8").splitlines() if STAMP_RE.match(l)]
     walked = max((int(n) for s in stamps for n in re.findall(r"→ p\.?(\d+)", s)), default=0)
     cmap = chapter_map(vol)
+    if cmap and (volume_done(vol) or all(hi <= walked for _n, _lo, hi, _t in cmap)):
+        walked = max([walked] + [hi for _n, _lo, hi, _t in cmap])
     print(f"== {vol}: {len(cmap)} sections, last page recorded p.{walked} ==")
     nxt = None
     for num, lo, hi, title in cmap:
@@ -394,8 +430,12 @@ def main() -> int:
 
     sub.add_parser("status").set_defaults(fn=cmd_status)
 
-    p = sub.add_parser("next"); p.add_argument("--vol", default="y1v2"); p.set_defaults(fn=cmd_next)
-    p = sub.add_parser("chapters"); p.add_argument("--vol", default="y1v2"); p.set_defaults(fn=cmd_chapters)
+    p = sub.add_parser("next")
+    p.add_argument("--vol", help="volume id; default: the first unfinished volume")
+    p.set_defaults(fn=cmd_next)
+    p = sub.add_parser("chapters")
+    p.add_argument("--vol", help="volume id; default: the first unfinished volume")
+    p.set_defaults(fn=cmd_chapters)
 
     p = sub.add_parser("read", help="print a page range with watermarks kept as extracted")
     p.add_argument("--vol", required=True)
@@ -417,7 +457,8 @@ def main() -> int:
     p.add_argument("stem")
     p.add_argument("--header", required=True)
     p.add_argument("--title")
-    p.add_argument("--start-vol", dest="start_vol", default="y1v2")
+    p.add_argument("--start-vol", dest="start_vol",
+                   help="volume to open; default: the first unfinished volume")
     p.add_argument("--force", action="store_true")
     p.set_defaults(fn=cmd_ledger_new)
 

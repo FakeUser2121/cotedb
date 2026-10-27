@@ -32,18 +32,18 @@ TOOLS = [
     },
     {
         "name": "next",
-        "description": "Show the volume's chapter map with walked/remaining status and print the next chapter's page range plus the read commands for it.",
+        "description": "Show the volume's chapter map with walked/remaining status and print the next chapter's page range plus the read commands for it. Omit vol for the first unfinished volume.",
         "inputSchema": {
             "type": "object",
-            "properties": {"vol": {"type": "string", "description": "Volume id, e.g. y1v2.", "default": "y1v2"}},
+            "properties": {"vol": {"type": "string", "description": "Volume id, e.g. y1v3. Omit for the first unfinished volume."}},
         },
     },
     {
         "name": "chapters",
-        "description": "List a volume's chapter/section page ranges.",
+        "description": "List a volume's chapter/section page ranges. Omit vol for the first unfinished volume.",
         "inputSchema": {
             "type": "object",
-            "properties": {"vol": {"type": "string", "default": "y1v2"}},
+            "properties": {"vol": {"type": "string", "description": "Volume id. Omit for the first unfinished volume."}},
         },
     },
     {
@@ -85,7 +85,7 @@ TOOLS = [
                 "stem": {"type": "string", "description": "File stem, e.g. kanzaki-ryuuji."},
                 "header": {"type": "string", "description": "Header line, e.g. 'char_id: kanzaki-ryuuji · class: Class 1-B · status: minor'."},
                 "title": {"type": "string"},
-                "start_vol": {"type": "string", "default": "y1v2"},
+                "start_vol": {"type": "string", "description": "Volume to open. Omit for the first unfinished volume."},
                 "force": {"type": "boolean"},
             },
             "required": ["kind", "stem", "header"],
@@ -140,8 +140,8 @@ TOOLS = [
 
 HANDLERS = {
     "status": lambda a: cote.cmd_status(SimpleNamespace()),
-    "next": lambda a: cote.cmd_next(SimpleNamespace(vol=a.get("vol") or "y1v2")),
-    "chapters": lambda a: cote.cmd_chapters(SimpleNamespace(vol=a.get("vol") or "y1v2")),
+    "next": lambda a: cote.cmd_next(SimpleNamespace(vol=a.get("vol"))),
+    "chapters": lambda a: cote.cmd_chapters(SimpleNamespace(vol=a.get("vol"))),
     "read_pages": lambda a: cote.cmd_read(SimpleNamespace(
         vol=a["vol"], pages=a["pages"], blank=bool(a.get("blank")))),
     "append": lambda a: cote.cmd_append(SimpleNamespace(
@@ -149,7 +149,7 @@ HANDLERS = {
         under=a.get("under"), stamp=a.get("stamp"), at_end=bool(a.get("at_end")))),
     "ledger_new": lambda a: cote.cmd_ledger_new(SimpleNamespace(
         kind=a["kind"], stem=a["stem"], header=a["header"], title=a.get("title"),
-        start_vol=a.get("start_vol") or "y1v2", force=bool(a.get("force")))),
+        start_vol=a.get("start_vol"), force=bool(a.get("force")))),
     "verify": lambda a: cote.cmd_verify(SimpleNamespace(vol=a.get("vol"))),
     "build": lambda a: cote.cmd_build(SimpleNamespace(docs=bool(a.get("docs")))),
     "gate": lambda a: cote.cmd_gate(SimpleNamespace(full=False)),

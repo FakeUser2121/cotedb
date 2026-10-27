@@ -673,9 +673,39 @@ pp.10–261, every page anchored. Verification: `verify2 y1v2` **1066** [says] l
 (33 too short/skipped), `verify3 y1v2` **659** other quoted lines, both ALL PASS.
 Next volume: **y1v3**, starting from `cote_walk next`. See progress3 for the site
 numbers.
+
+### The walk tools stopped needing the volume named (walk tooling, 2026-10-28)
+
+Closing y1v2 exposed three places where the tooling remembered the previous
+volume instead of reading the ledgers.
+
+`cote.py next`, `cote.py chapters` and `ledger_new` carried `y1v2` as a literal
+default, so a fresh session that omitted `--vol` was pointed back at a finished
+book. They now resolve the first volume in reading order whose ledger has no
+closing stamp (`first_unfinished_volume`, built from `volume_done` over the
+`text/COTE Y*.txt` files, side stories last), and `--vol` still overrides it.
+Checked: `python3 kb/cote.py next` with no arguments prints y1v3's eight
+sections, every one of them `[TODO]`.
+
+"Is this volume done?" was answered by counting chapter stamps (`>= 8`), which is
+wrong twice over: y1v2 has seven chapters and is complete, and any volume whose
+chapters happen to number eight would read as complete without its Postscript.
+The walk already writes the real answer — the `→ DONE` boundary stamp on the
+Postscript line of `ledgers/volumes/<vol>.md` — so both `kb/cote.py volume_done`
+and `kb/site_data.py volume_walk_complete` now key on that stamp alone. Nothing
+else counts.
+
+`ledger_new` used to write `<!-- walk: <vol> → start -->` twice (once above the
+`## <vol>` heading and once below it), which made the new file's own marker count
+read as two. It now writes one heading with one start marker, using the resolved
+first-unfinished volume when `--start-vol` is omitted.
+
+No ledger content changed, so the quote verifiers were not re-run; the site
+rebuild and its numbers are in progress3.
+
 ---
 
-## HANDOFF — walk state and the exact next steps (updated 2026-10-27, after y1v2 is closed)
+## HANDOFF — walk state and the exact next steps (updated 2026-10-28, after y1v2 is closed)
 
 Read this whole section before touching a ledger. It is the resume point for a
 fresh session or a different model.
@@ -709,7 +739,10 @@ exposes: `status`, `next`, `chapters`, `read_pages`, `append`, `ledger_new`,
 fallback with the same subcommands: `python3 kb/cote.py <cmd>`. Two gotchas: a
 running MCP server keeps the code it imported at start, so after editing
 `kb/cote.py` reload the server or use the CLI; and `build_share_site.py --docs`
-is a mirror-only step, never a substitute for the full rebuild.
+is a mirror-only step, never a substitute for the full rebuild. `next`,
+`chapters` and `ledger_new` take no volume argument by default and resolve the
+first unfinished volume from the `→ DONE` stamps — for the session resuming now
+that is **y1v3**; pass `--vol` only to work on another book.
 
 **The chapter loop, in order.** (1) `chapters` / `next` to fix the page range.
 (2) Read the **entire chapter in one pass** (`read_pages`, or read the

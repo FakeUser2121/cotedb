@@ -148,6 +148,14 @@ img { max-width: 100%; }
 }
 .icon-btn { min-width: 34px; }
 .mast-tools select:hover, .icon-btn:hover { background: #fff; }
+/* the masthead controls sit on the dark brand bar in both themes, so their
+   own surface has to flip with the theme — otherwise dark mode paints
+   light-ink text on a near-white button (the menu and the theme toggle
+   both live here, and the select with them) */
+[data-theme="dark"] .mast-tools select,
+[data-theme="dark"] .icon-btn { background: var(--panel-2); }
+[data-theme="dark"] .mast-tools select:hover,
+[data-theme="dark"] .icon-btn:hover { background: var(--line); }
 
 .tabs { display: flex; gap: 2px; overflow-x: auto; scrollbar-width: none;
   max-width: var(--shell); margin: 0 auto; padding: 0 20px 8px; }
@@ -236,6 +244,11 @@ body.no-left.no-right .layout { grid-template-columns: minmax(0, 1fr); }
 .rail details > summary .sumlink:hover {
   background: none; color: var(--hue); text-decoration: underline;
 }
+/* the container's own link, marked as the page you are on: it keeps the
+   active pill of any other rail link, so its text must be the pill's text,
+   not the summary colour it inherits when inactive */
+.rail details > summary .sumlink.active { color: #fff; }
+[data-theme="dark"] .rail details > summary .sumlink.active { color: #10141c; }
 .rail .count { color: var(--muted); font-weight: 400; font-size: 12px; }
 
 .content { padding: 26px 40px 90px; min-width: 0; }
@@ -294,6 +307,10 @@ body[data-section="world"] { --hue: var(--world); --hue-soft: #e6f4f2; }
 body[data-section="topics"] { --hue: var(--topics); --hue-soft: #f2ecf8; }
 body[data-section="guides"] { --hue: var(--guides); --hue-soft: #e9f3ec; }
 body[data-section="appendix"] { --hue: var(--appendix); --hue-soft: #eeeef1; }
+/* those soft tints are light-mode values on `body`, which outranks the root's
+   dark value — so in dark mode every section must take the root tint back,
+   or taglines, rail hovers and table rows keep painting light on dark */
+[data-theme="dark"] body[data-section] { --hue-soft: #1d2637; }
 .tabs a[href$="/"], .tabs a.home { --tabhue: #cfd8ea; }
 
 .tagline {

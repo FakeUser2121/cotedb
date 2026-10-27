@@ -127,12 +127,21 @@ def walk_state():
             s["chapters"].add(m.group(2))
             s["markers"] += 1
     for vol, s in state.items():
-        s["complete"] = volume_ledger_exists(vol) and len(s["chapters"]) >= 8
+        s["complete"] = volume_walk_complete(vol)
     return state
 
 
-def volume_ledger_exists(vol_id):
-    return (LEDGERS / "volumes" / f"{vol_id}.md").exists()
+def volume_walk_complete(vol_id):
+    """A volume is evidence-complete only when its own ledger carries the
+    closing `→ DONE` boundary stamp — the walk's final act on a volume
+    (the Postscript section). Chapter counts are not a status: y1v2 has
+    seven chapters, and a volume with eight stamps is not thereby finished.
+    """
+    f = LEDGERS / "volumes" / f"{vol_id}.md"
+    if not f.exists():
+        return False
+    text = f.read_text(encoding="utf-8", errors="replace")
+    return re.search(r"<!--\s*walk:.*→\s*DONE\s*-->", text) is not None
 
 
 def volume_ledger(vol_id):

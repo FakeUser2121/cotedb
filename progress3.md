@@ -942,7 +942,45 @@ afterword, with the volume page reporting the whole run.
 
 ---
 
-## HANDOFF — site state and the exact next steps (updated 2026-10-27, y1v2 closed)
+### Dark mode made readable, and a finished volume stopped calling itself unfinished (site, 2026-10-28)
+
+Two defects fixed before the next volume opens.
+
+**Dark mode painted light chrome on the dark bar.** The masthead controls
+(`#menu`, `#theme`, the `<select>`) are `.icon-btn` with a hardcoded
+`background: #f4f6fb` and `color: var(--ink)`; in dark mode `--ink` flips to a
+light colour, so every masthead button became light-text-on-near-white and
+vanished. They sit on the dark brand bar in both themes, so the fix flips their
+own surface with the theme — `[data-theme="dark"] .mast-tools select,
+[data-theme="dark"] .icon-btn { background: var(--panel-2) }`, and the same for
+`:hover`. Separately, the per-section `--hue-soft` tints are light-mode values
+set on `body`, which outranks the dark value on `:root`, so taglines, rail
+hovers and table rows kept painting light-on-dark. One rule lets every section
+take the root tint back: `[data-theme="dark"] body[data-section] { --hue-soft:
+#1d2637 }`. Verified by rendering dark copies of `people/index.html` and
+`people/minor/i.html` with the theme forced on: masthead buttons, search box,
+tagline and cards all read correctly against the bar now.
+
+**A volume with a Postscript stamp is complete, whatever its chapter count.**
+`walk_state` in `kb/site_data.py` was calling a volume evidence-complete on a
+hard-coded `len(chapters) >= 8`. y1v2 has seven chapters, so a fully walked,
+`→ DONE`-stamped volume was publishing itself as "Partway" in the coverage
+table. The rule now keys on the closing boundary stamp the walk actually writes
+(`volume_walk_complete`), not on a count: y1v1 and y1v2 report "Transcribed line
+by line" and the 34 unwalked volumes stay "Records only".
+
+Counts after the rebuild: 162 pages, 19216 site links and 9691 print links
+checked, both 0 bad; search 795 records; `details.citebox` 0; wording leaks 0.
+Print bundles unchanged (guides 22, people 158, school 47, story 178, topics
+247, world 34 pages; topics.pdf 3753 → 3752 KB). Deterministic tree hash across
+two consecutive builds: `8f6caaeef2a776051ce3cdb2b0b3ecf7`, moved from
+`858b6761bd5a0a5c7e9f4e847fd39954` by these two fixes; `--docs` mirrors to the
+same tree (173 files). No ledger changed, so the quote verifiers were not
+re-run.
+
+---
+
+## HANDOFF — site state and the exact next steps (updated 2026-10-28, y1v2 closed)
 
 **Built state right now.** 162 pages, all reachable, max depth 3, 36 volume
 pages, 27 principal characters, 253 entries in the People index. Search index 795
@@ -951,7 +989,7 @@ records, 0 bad. Site links 19216 checked, 0 bad. Cross-page `a.cite` 1305, plain
 disclosure-rule violations 0, role-grouping problems 0, curated-typing leaks 0.
 Print bundles: guides 22, people 158, school 47, story 178, topics 247, world 34
 pages; print links 9691, 0 bad. Deterministic tree hash across consecutive
-builds: `858b6761bd5a0a5c7e9f4e847fd39954`; `docs/` mirrors it exactly (173
+builds: `8f6caaeef2a776051ce3cdb2b0b3ecf7`; `docs/` mirrors it exactly (173
 files). **y1v2 is fully walked** — its volume page carries Chapters 1–7 and the
 Postscript; y1v1 is likewise complete; the other 34 volume pages are stubs and
 are the work ahead, one chapter at a time.
