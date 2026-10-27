@@ -200,13 +200,13 @@ def scene_href(ctx, kind, stem, block):
 
 def pin_for(ctx, kind, stem, vol, block, entry, base="topics"):
     """The page number on a summary row, as a link to the scene it was read
-    from. Rows on a topic or recall page are second-hand: the scene itself,
-    with its expandable proof, lives on the entity's page, so the number is
+    from. Rows on a topic or recall page are second-hand: the scene itself, with
+    the verbatim lines it produced, lives on the entity's page, so the number is
     the reader's way back to it."""
     if not entry["pages"]:
         return ""
     href = posixpath.relpath(scene_href(ctx, kind, stem, block), base)
-    return E.pin(ctx, vol, entry["pages"], href=href)
+    return E.pin(entry["pages"], href=href)
 
 
 def entity_link(ctx, kind, stem, base="topics"):
@@ -629,10 +629,18 @@ physical book rather than any fan transcription.</p>
 <th>Pages</th></tr></thead><tbody>{"".join(rows)}</tbody></table>
 <h2 id="sound">How to read a quote here</h2>
 <p>Everything between quotation marks is the novel's own text, copied from
-the file rather than recalled. Click a citation chip to see the words the
-archive found on that page. Where the archive is inferring something — that
-an unnamed girl is Kushida, for instance — it says 'inference' in the
-sentence that makes the claim.</p>"""
+the file rather than recalled. Those copied lines live as rows inside the scene
+they were read into, which is why a page number is never a button here: the
+scene's own <strong>+</strong> already opens them, and a second control over the
+same pages would only show a shorter version of what is on screen. Where a
+citation sits in prose instead — a volume guide, an appendix note — the number
+stays grey for the same reason in reverse: the archive holds the lines it
+located inside scenes, not the book, so there is nothing there to open.
+A bright chip with an arrow, <span class="cite">p.247 ↗</span>, is the one
+citation that does something: it sits on a summary row whose scene is written
+up on another page. Where the archive is inferring something — that an unnamed
+girl is Kushida, for instance — it says 'inference' in the sentence that makes
+the claim.</p>"""
     return ("appendix/citations.html", ctx["page"](
         "How to read a citation", "appendix", body,
         [("Home", "index.html"), ("Appendix", "appendix/index.html"),
@@ -700,7 +708,7 @@ build as this site.</p>
 <ul>{rows or '<li>No bundles in this build.</li>'}</ul>
 <h2 id="offline">Opening the archive without a server</h2>
 <p>The whole site is static files. Save the folder and open
-<code>index.html</code>; search and the citation chips still work with no
+<code>index.html</code>; search and every page reference still work with no
 network.</p>"""
     return ("appendix/downloads.html", ctx["page"](
         "Downloads", "appendix", body,
@@ -774,7 +782,7 @@ def build_vol_docs(ctx):
         body, headings = render_full(md)
         body = S.resolve_links(body, f"drafts/people/{f.name}",
                                ctx["pathmap"], out)
-        body = S.chipify(body, ctx["lookup"])
+        body = S.reference_cites(body)
         body = section_scope(body, ctx["vols"])
         label = "Volume guide" if kind == "guide" else "Scene transcript"
         title = f"{char_name} — {site_arch.volume_short(vol)} {label.lower()}"

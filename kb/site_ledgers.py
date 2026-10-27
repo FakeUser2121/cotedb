@@ -105,10 +105,12 @@ def page_label(text):
     return m.group(0).strip().rstrip(",") if m else ""
 
 
-# A volume key used as a word inside a note ("her y1v2 arc") is file shorthand,
-# not something a reader uses. Keys that belong to a citation ("y1v1 p.247")
-# are left alone so the citation can still be turned into a page chip.
-VOL_WORD_RE = re.compile(r"\b(y0|y[123]v\d+(?:\.\d+)?)(?!\s+pp?\.?\s*\d)")
+# A volume key inside a note is file shorthand, not something a reader uses, so
+# every key becomes the label the rest of the site shows — including keys that
+# sit next to a page number ("y1v1 p.247" -> "Vol. 1 p.247"). A citation inside
+# a scene is reference text, never a chip: the scene's rows are its proof, and
+# a second expander there is the redundancy share_check.py fails the build over.
+VOL_WORD_RE = re.compile(r"\b(y0|y[123]v\d+(?:\.\d+)?)\b")
 
 
 def humanize(text):

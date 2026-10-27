@@ -635,3 +635,73 @@ anchor; no horizontal overflow on eight sampled pages at 360/390/700/1024.
 Gate green, deterministic (`276fa93acf6ed183c10d9aa3e2fbb2f8`), docs mirrored
 (`26156c3ee48dc7684620400a7682e554`). PDFs moved again with the changed chips
 (topics 123 pages, +271 KB from the arrow chips; people 126).
+
+### One disclosure per scene, then no citation chip at all (site, 2026-10-27)
+
+The reported conflict: "whys there 2 things doing the same thing?" A folded
+scene and the chip in its heading both opened the same pages, and the chip's
+panel was a two-line sample of the *first* page of a range — a shorter,
+truncation-hidden version of the rows underneath it. Governing rule, now stated
+in `site_evidence` and enforced by the gate: **one disclosure per region, and a
+control may only reveal what is not already visible above it.**
+
+The plan assumed chips would survive outside scenes, in guide and appendix
+prose. Both halves of that turned out to be wrong, and both were measured rather
+than argued:
+
+- `site_evidence.scene_block()` stopped building a chip in the heading. The
+  scene's page range prints as `pages_ref()` — the same grey reference text a
+  row uses — so a scene has exactly one expander, its fold. `cite()` is gone;
+  `pin()` lost the `ctx`/`vol_id` arguments it no longer needed and now emits a
+  link only when the row sits on a *different* page from its scene (topics and
+  recall lists), which is what the ↗ arrow has always meant.
+- Prose produced no chips to save. All 378 chips in the committed build came
+  from scene headings (378 chips, 388 scenes); guide prose writes
+  "Vol. 1, p.146" while `chipify` only matched the key form "y1v1 p.247". A
+  temporary `default_vol` argument made 95 of them appear — and the DOM then
+  showed why the chip had no surface at all: `<details>` is flow content, so the
+  parser closes the paragraph around it. 31 inline chips turned 21 paragraphs on
+  a guide page into 53 blocks and orphaned the text after each one. The control
+  was deleted, not relocated.
+- `site_shell.chipify()` is now `reference_cites()`: it wraps a printed-page
+  citation in the grey `pageref` span and builds no control. It takes either
+  form the sources use — the file key or the human "Vol. 1, p.146" — and prints
+  one label for both, so a key can never reach a reader. Tags and existing
+  `pageref` spans are opaque, so ids, anchors and already-rendered references
+  survive a second pass; a bare "p.25" stays prose because no year can be
+  inferred from it. `CHIP_SAMPLE`, the sample/"not shown" panel and the
+  `memo_lookup` + `ctx["lookup"]` cache are gone. `site_data.quotes_at()` stays
+  as the coverage question the walk asks, with nothing in the site calling it.
+- `share_check.py` has `check_disclosures()`/`DisclosureWalker`: a
+  `details.citebox` inside `.scene` or `.ledger` fails the build. Negative-tested
+  against a folded scene, an open scene div and a bare ledger (1 flag each) and
+  against a clean scene and guide prose (0).
+- `site_ledgers.VOL_WORD_RE` lost its "keys that belong to a citation are left
+  alone" exception: a key inside a note humanises to "Vol. 1 p.247" plain text,
+  so a scene cannot acquire a control from its own prose.
+- Copy: the Home legend now names two controls, the + fold and the ↗ chip, and
+  says grey numbers are never links; the citations appendix explains why a page
+  number is never a button here — the scene's own fold already opens those lines,
+  and in prose the archive has nothing to open because it holds located lines,
+  not the book. The character-page lede and the volume-page evidence note
+  stopped promising that a page chip opens text.
+- Print: `.citebox[open] { display: none }` was dropping the citation itself from
+  paper; with no chips the whole block is deleted, `a.cite` prints as plain text
+  with its arrow suppressed, and the citebox/`.citeproof` CSS is gone. Dead
+  `#cite-all` handler removed from shell.js (no builder ever rendered it).
+
+Counts, committed build → this build: chips 378 → **0**, plain page references
+3477 → 3872, cross-page arrow links unchanged at 668, scenes unchanged at 388.
+CDP (`file://` reads, no screenshots): 0 `details.citebox` and 0 `<details>`
+inside a `<p>` on seven sampled pages; inside scenes, expanders 0 and buttons 0
+(volume page 178 scenes, character page 65); a closed scene is 50px tall and the
+same scene open is 1385px, so the fold is doing the whole disclosure job; every
+arrow on a page resolves. Gate green: 161 pages, 16830 links, 764 records,
+0 bad, 0 disclosure violations, 0 wording leaks; deterministic
+(`cb13c2d1132bce4e050ea50ee3256ef7`) and docs mirrored. PDFs: guides 22 / people
+123 / school 37 / story 151 / topics 123 (1987 KB, −389 KB now that the panels
+stopped printing) / world 34.
+
+Not done: the walk still has y1v2 ch1 unstarted. Stage 5 of the plan — promoting
+quote-bank lines a scene does not already carry into verbatim rows — belongs to
+the walk itself and starts there.

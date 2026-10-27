@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Page shell for the encyclopedia site: masthead, section tabs, the two
-rails, breadcrumbs, citation chips, footer. Every page on the site is
+rails, breadcrumbs, citation references, footer. Every page on the site is
 produced by page() so the frame can only be changed once.
 
 Design rules encoded here:
@@ -27,8 +27,6 @@ from share_render import slug  # noqa: E402
 ASSETS = Path(__file__).resolve().parent / "site_assets"
 SITE_TITLE = "COTE Knowledge Base"
 SITE_TAGLINE = "Classroom of the Elite · annotated archive"
-
-CITE_TAIL_RE = re.compile(r"^(?:\s*(?:pp?\.|p)\s*)(\d+)(?:\s*[–-]\s*\d+)?")
 
 
 def read_asset(name):
@@ -334,52 +332,54 @@ def resolve_links(text, src_rel, pathmap, out_rel):
     return re.sub(r'href="([^"]+)"', rep, text)
 
 
-def chipify(text, lookup):
-    """Turn 'y1v1 p.247' style citations into chips that expand to the
-    verbatim text sitting on that page. lookup(vol_id, page) -> [str].
+def reference_cites(text):
+    """Put every printed-page citation in the one shape the site uses for a
+    reference that cannot be clicked: 'Vol. 1 p.247' in grey mono, wrapped in a
+    `pageref` span. Tags are opaque, so it runs on assembled page bodies and
+    leaves anchors, ids and attributes alone.
 
-    The visible label is the human one ("Vol. 1 p.247"); the file's own volume
-    id never reaches the reader. Regions that are already a chip are left
-    alone, so running this over an assembled page cannot nest one chip inside
-    another.
+    It accepts the two forms the sources are written in — the file's own key
+    ('y1v1 p.247', which a reader never sees) and the human form a guide or
+    transcript is written with ('Vol. 1, p.246') — and prints the same label for
+    both. A bare 'p.25' stays prose: no year can be inferred from it, because
+    every year has a Volume 1.
 
-    A citation with no recorded text is plain reference text, not a chip: the
-    bright chip is the site's one promise that clicking opens book wording,
-    and the site does not host the book."""
-    if lookup is None:
-        return text
+    This used to build an expandable chip holding the lines the quote bank had
+    located for that page. It does not any more, for two reasons measured on
+    the built site rather than assumed:
+
+      - every chip the site produced sat in a scene heading, over rows that
+        already carried those lines — a second disclosure of the same material;
+      - outside a scene a chip has nowhere safe to live. A <details> is flow
+        content, so the parser closes the paragraph around it: on a guide page
+        31 inline chips split 21 paragraphs into 53 blocks and orphaned the
+        text after each one.
+
+    A citation is therefore reference text everywhere: the site holds located
+    lines inside ledger scenes, and the book itself is not hosted here.
+    share_check.check_disclosures keeps a control out of a scene if anyone
+    tries to put one back."""
+    CITE_RE = re.compile(
+        r"\b(?:(y0|y[123]v\d+(?:\.\d+)?)|(Vol\.\s*\d+(?:\.\d+)?))"
+        r"[,:]?\s*(?:pp?\.|p)\s*(\d+)(?:\s*[–-]\s*(\d+))?", re.ASCII)
+    # A page reference the builder already wrapped is left exactly as it is,
+    # so running this over an assembled page cannot nest one span in another.
+    OPAQUE_RE = re.compile(r'<span class="pageref">[^<]*</span>|<[^>]*>', re.S)
 
     def rep(m):
-        vol, page = m.group(1), int(m.group(2))
-        label = m.group(0)
-        if not site_arch.VOL_CITE_RE.fullmatch(vol):
-            return label
-        try:
-            proof = lookup(vol, page)
-        except Exception:
-            proof = []
-        shown = f"{site_arch.volume_short(vol)} {label[len(vol):].strip()}"
-        if not proof:
-            return (f'<span class="pageref" title="No page text recorded '
-                    f'from this citation yet">{esc(shown)}</span>')
-        lines = "".join(
-            f'<div class="verb">{esc(p[:400])}</div>' for p in proof)
-        src = f'<span class="src">{esc(site_arch.volume_label(vol))}, ' \
-              f'page {page}</span>'
-        return (f'<details class="citebox"><summary class="cite" '
-                f'title="Show the text on this page">{esc(shown)}</summary>'
-                f'<span class="citeproof">{lines}{src}</span></details>')
-
-    CITE_RE = re.compile(
-        r"\b(y0|y[123]v\d+(?:\.\d+)?)\s+(?:pp?\.|p)\s*(\d+)"
-        r"(?:\s*[–-]\s*\d+)?", re.ASCII)
-    BOX_RE = re.compile(r'<details class="citebox">.*?</details>', re.S)
+        key, human = m.group(1), m.group(2)
+        if key is not None and not site_arch.VOL_CITE_RE.fullmatch(key):
+            return m.group(0)
+        vol = (site_arch.volume_short(key) if key
+               else "Vol. " + re.search(r"\d+(?:\.\d+)?", human).group(0))
+        pages = m.group(3) + (f"–{m.group(4)}" if m.group(4) else "")
+        return f'<span class="pageref">{esc(vol)} p.{pages}</span>'
 
     out = []
     at = 0
-    for box in BOX_RE.finditer(text):
-        out.append(CITE_RE.sub(rep, text[at:box.start()]))
-        out.append(box.group(0))
-        at = box.end()
+    for seg in OPAQUE_RE.finditer(text):
+        out.append(CITE_RE.sub(rep, text[at:seg.start()]))
+        out.append(seg.group(0))
+        at = seg.end()
     out.append(CITE_RE.sub(rep, text[at:]))
     return "".join(out)

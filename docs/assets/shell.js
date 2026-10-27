@@ -141,22 +141,10 @@
     }
   });
 
-  var chipAll = document.getElementById("cite-all");
-  if (chipAll) {
-    chipAll.addEventListener("click", function () {
-      var open = chipAll.getAttribute("aria-pressed") === "true";
-      chipAll.setAttribute("aria-pressed", open ? "false" : "true");
-      Array.prototype.forEach.call(
-        document.querySelectorAll("details.citebox"),
-        function (d) { d.open = !open; }
-      );
-    });
-  }
-
-  // Arriving at a folded scene (from search, a turning point, or a citation)
-  // should show that scene, not a closed row: open it, and any details it is
-  // nested in, before the browser settles on the anchor. A page pin points at
-  // the scene's proof box, which sits inside the scene's own <details>.
+  // Arriving at a folded scene (from search, a turning point, or a summary
+  // row's page link) should show that scene, not a closed row: open it, and any
+  // details it is nested in, before the browser settles on the anchor. A scene
+  // has no second expander inside it, so opening the scene is the whole job.
   function revealHash() {
     var id = (location.hash || "").slice(1);
     if (!id) return;

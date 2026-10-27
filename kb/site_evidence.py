@@ -5,12 +5,26 @@ Every block here comes from ledgers/ (see site_ledgers.py): a scene heading
 with a page range, and typed entries underneath. Two things happen on the way
 out that the old dossier layer could not do:
 
-  - each page anchor becomes an expandable chip carrying the verbatim text
-    sitting on that page (site_shell.chipify), so a claim is checkable
-    without leaving the page;
+  - the verbatim lines a reading pass copied off the page are published as
+    rows in the scene, next to the paraphrase they came from, so a claim is
+    checkable without leaving the page;
   - each [rel:other-character] entry becomes a link to that character's page,
     which is where the People graph now comes from — not from the pre-walk
     relations table.
+
+One disclosure per region, and a control may only reveal what is not already
+visible above it. A scene is one region: its fold is the only expander, the
+rows inside are all shown once it is open, and the page range in the heading is
+reference text, never a chip. A second control over the same pages would open
+a shorter version of what the reader is already looking at — and where the
+ledger has no line for a page, the site has nothing to show, because it holds
+located lines, not the book. The gate in share_check.py fails the build if a
+`details.citebox` is ever placed inside a scene again.
+
+The chip that used to sit beside a citation is gone everywhere, not just inside
+scenes: a <details> is flow content, so in prose it closes the paragraph around
+it and splits the page. Citations in guide and appendix prose are reference
+text now, the same grey a scene heading uses — see site_shell.reference_cites.
 
 Nothing in this module invents prose. If a page has no ledger it gets
 coverage_stub(), which states the evidence state and links to what exists.
@@ -45,26 +59,28 @@ def vol_chip(ctx, vol_id, out_rel, tag=False):
     return f'<a class="vlink" href="{href}">{esc(label)}</a>'
 
 
-def cite(ctx, vol_id, pages):
-    """'y1v1 p.21' -> a chip that opens the text sitting on that page.
-    Where no page text has been recorded, chipify renders plain reference
-    text instead, so the bright chip always means there is something to open."""
+def pages_ref(pages):
+    """A printed page range as reference text: the numbers a reader takes to
+    the physical book, with nothing to click.
+
+    Deliberately not a control. Inside a scene the rows below already carry
+    every line the archive located on those pages, so a disclosure over the same
+    range could only open a subset of what is on screen (module docstring)."""
     if not pages:
         return ""
-    return S.chipify(f"{vol_id} {pages}", ctx["lookup"])
+    return f'<span class="pageref">{esc(pages)}</span>'
 
 
-def pin(ctx, vol_id, pages, href=None):
-    """A page anchor inside a scene.
+def pin(pages, href=None):
+    """A page anchor on a note.
 
-    The number itself is reference text — it tells you which page of the
-    printed volume to open. It is deliberately not a chip: a site without the
-    book has nothing to link a per-row number to, and a bright chip that
-    changes nothing teaches the reader not to trust bright chips. The scene's
-    own page chip above the rows is the one control that opens text.
+    On a scene row this is reference text — the number tells you which page of
+    the printed volume to open, and the site has no book to link it to. The
+    quoted wording, when there is any, is already a row in the same scene.
 
     `href` is only for rows on other pages (topics and recall lists) where the
-    number genuinely navigates to the scene it was read from."""
+    number genuinely navigates: those rows are summaries, and the scene they
+    were read from — with its rows — lives on the entity's page."""
     if not pages:
         return ""
     if href:
@@ -74,10 +90,10 @@ def pin(ctx, vol_id, pages, href=None):
     return f'<span class="pageref">{esc(pages)}</span>'
 
 
-def entry_html(ctx, entry, vol_id, out_rel):
+def entry_html(ctx, entry, out_rel):
     group, label, target = L.marker_info(entry["marker"], entry["target"])
     text = entry["text"] or ""
-    cite_html = pin(ctx, vol_id, entry["pages"])
+    cite_html = pin(entry["pages"])
     cls = f'e-{group}'
     lead = trail = ""
     if entry["marker"] == "role":
@@ -110,8 +126,9 @@ def scene_block(ctx, block, out_rel, *, show_vol=True, fold=False):
     """One ledger scene: heading (volume + pages + title) and its entries.
 
     fold=True puts the entries behind a disclosure so a page with two hundred
-    scenes still reads as a list of moments, not a wall of transcript; the
-    heading keeps the title, the pages and the proof chip visible."""
+    scenes still reads as a list of moments, not a wall of transcript; the fold
+    is the only expander the scene gets. The heading names the printed pages as
+    plain reference text — see the module docstring for why it is not a chip."""
     vol = block["vol"]
     anchor = re.sub(r"[^a-z0-9]+", "-", block["heading"].lower()).strip("-")[:48]
     head = ['<div class="head">']
@@ -119,9 +136,9 @@ def scene_block(ctx, block, out_rel, *, show_vol=True, fold=False):
         head.append(f'<span class="pg">{vol_chip(ctx, vol, out_rel)}</span>')
     head.append(f'<span class="ttl">{esc(block["title"])}</span>')
     if block["pages"]:
-        head.append(f'<span class="pgs">{cite(ctx, vol, block["pages"])}</span>')
+        head.append(f'<span class="pgs">{pages_ref(block["pages"])}</span>')
     head.append("</div>")
-    items = [entry_html(ctx, e, vol, out_rel)
+    items = [entry_html(ctx, e, out_rel)
              for e in block["entries"] if e["text"]]
     if not items:
         return ""
@@ -251,8 +268,7 @@ def identity_block(ctx, c, out_rel):
     placed = site_roles.facts_for(ctx.get("role_facts") or {}, c["id"])
     if placed:
         # Plain page numbers: the ledger note is a paraphrase, so there is no
-        # quote chip to open. Kept in the "Vol. 1 p.224" shape the footer
-        # explains.
+        # scene to open. Kept in the "Vol. 1 p.224" shape the footer explains.
         rows.insert(0, ("Where the pages place them", esc("; ".join(
             f'{label} ({site_arch.volume_short(vol)} {f["page"]})'
             for vol, label, f in placed))))

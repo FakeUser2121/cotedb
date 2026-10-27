@@ -9,7 +9,7 @@ longer comes from the order of links in the dossier indexes):
   kb/site_arch.py       the information architecture: sections, volume
                         registry, human names, tier labels
   kb/site_data.py       cote_kb.db + ledgers/ access, plain dicts out
-  kb/site_shell.py      masthead, tabs, rails, breadcrumbs, chips, footer
+  kb/site_shell.py      masthead, tabs, rails, breadcrumbs, citations, footer
   kb/site_sections.py   home, people, story, school, world builders
   kb/site_topics.py     topics, reader doors, appendix, volume documents
   kb/site_assets/       style.css, search.js (source of the emitted assets)
@@ -94,17 +94,6 @@ def page_factory(ctx):
 
 def scope_options(ctx):
     return [(int(v["order"]), v["label"]) for v in ctx["vol_list"]]
-
-
-def memo_lookup(con):
-    cache = {}
-
-    def lookup(vol_id, page_no):
-        key = (vol_id, page_no)
-        if key not in cache:
-            cache[key] = D.quotes_at(con, vol_id, page_no, 2)
-        return cache[key]
-    return lookup
 
 
 def plan_vol_docs(ctx):
@@ -231,7 +220,6 @@ def build_ctx(con, stats):
     ctx["exam_name"] = {e["id"]: e["name"] for e in ctx["exam_rows"]}
     ctx["vol_list"] = [ctx["vols"][k] for k in ctx["vols"]]
     ctx["scope"] = scope_options(ctx)
-    ctx["lookup"] = memo_lookup(con)
     # Where the pages place each person in the school, read from `[role:…]`
     # ledger lines only. The curated mid_type column is never consulted.
     ctx["people_ledgers"] = site_ledgers.all_ledgers("people")

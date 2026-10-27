@@ -401,31 +401,18 @@ blockquote.verb .at { display: block; margin-top: 8px;
   font: 600 12px/1.4 var(--sans); letter-spacing: .06em;
   text-transform: uppercase; color: var(--muted); }
 
-/* citation chip */
-.cite {
+/* a citation that leaves for the scene holding its lines */
+a.cite {
   display: inline-block; vertical-align: baseline; margin: 0 1px;
   font: 600 11px/1.5 var(--mono); letter-spacing: 0;
   color: var(--hue); background: var(--hue-soft);
   border: 1px solid var(--line); border-radius: 6px;
   padding: 0 5px; cursor: pointer; text-transform: none;
+  text-decoration: none;
 }
-.cite:hover { border-color: var(--hue); }
-a.cite { text-decoration: none; }
-a.cite:hover { text-decoration: none; }
+a.cite:hover { border-color: var(--hue); text-decoration: none; }
 /* a followed anchor must not land under the sticky masthead */
 :target { scroll-margin-top: calc(var(--head-h) + 14px); }
-details.citebox { display: inline-block; }
-details.citebox > summary { display: inline-block; list-style: none; }
-details.citebox > summary::-webkit-details-marker { display: none; }
-details.citebox[open] > summary { background: var(--hue); color: #fff; }
-.citeproof {
-  display: block; margin: 10px 0 14px; padding: 12px 16px;
-  background: var(--panel); border: 1px dashed var(--line-strong);
-  border-radius: 10px; font: 400 15px/1.6 var(--serif); color: var(--ink);
-  max-width: 70ch;
-}
-.citeproof .src { display: block; margin-top: 7px; font: 600 11.5px/1.4 var(--sans);
-  letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
 
 /* tables */
 table { border-collapse: collapse; width: 100%; margin: 18px 0; font-size: 14.5px; }
@@ -540,7 +527,8 @@ body[data-scope] .later.is-hidden .reveal { display: flex; }
 .menu-btn { display: none; }
 /* ---------------------------------------------------------------- evidence
    Walk-ledger scenes: a heading you can scan, entries you can read, and one
-   page chip per scene that opens the book text behind it. */
+   expander — the fold itself. The pages in the heading are reference text; the
+   located lines are rows, not a second control. */
 .scene.ev { border-top: 1px solid var(--line); padding: 14px 0 6px; margin-top: 16px; }
 details.scene.ev { padding: 0; margin: 0; border-top: 1px solid var(--line); }
 details.scene.ev > summary {
@@ -557,7 +545,7 @@ details.scene.ev > summary .ttl { font-weight: 600; }
 details.scene.ev > summary:hover .ttl { color: var(--hue); }
 details.scene.ev[open] > .head { padding-top: 2px; }
 /* the summary's one job is a row: title on the left, pages on the right.
-   Without the grow the .head shrinks to its text and the page chip strands
+   Without the grow the .head shrinks to its text and the page numbers strand
    itself in the middle of the row; with a zero basis it always stays on the
    marker's line instead of wrapping to leave the "+" alone above a title. */
 details.scene.ev > summary > .head { flex: 1 1 0; min-width: 0; }
@@ -592,11 +580,8 @@ ul.ledger .pin { display: inline; margin-left: 8px; white-space: nowrap; }
 .pageref { font: 500 12px/1.4 var(--mono); color: var(--muted);
   white-space: nowrap; }
 ul.ledger .pageref { margin-left: 8px; }
-/* the caret is what separates "this opens the page's text" from a chip that
-   merely looks like one; an arrow is a chip that leaves for another page */
-details.citebox > summary.cite::after { content: " \25BE"; font-size: 10px;
-  opacity: .65; }
-details.citebox[open] > summary.cite::after { content: " \25B4"; }
+/* an arrow is the only bright citation: it leaves for the page holding the
+   scene the note was read from. A page number with nothing to open is grey. */
 a.cite::after { content: " \2197"; font-size: 9px; opacity: .6; }
 ul.ledger a.rel { font-weight: 600; color: var(--hue); }
 @media (max-width: 620px) {
@@ -686,11 +671,13 @@ a.vlink { color: var(--hue); }
   .measure { max-width: 74ch; }
   .content { padding: 0; }
   body { background: #fff; font-size: 11pt; color: #000; }
-  /* paper cannot open anything, so the marks that promise it go */
-  details.citebox > summary.cite::after, a.cite::after { content: normal; }
+  /* paper cannot open anything, so the marks that promise it go — and the
+     citation itself stays, as plain text: dropping the whole chip would drop a
+     printed page reference from a document whose job is to be read on paper */
+  a.cite::after { content: normal; }
+  a.cite { background: none; border: 0; padding: 0; color: #000; }
   .print-cover { page-break-after: always; text-align: center; padding-top: 22vh; }
   .print-entity { page-break-before: always; }
-  .citebox[open] { display: none; }
   h1 { font-size: 22pt; } h2 { font-size: 15pt; }
   a { color: inherit; }
   .print-toc { page-break-after: always; }

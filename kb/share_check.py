@@ -9,6 +9,9 @@ Checks (site):
   search-index.js: every record URL + anchor resolves (and no record
   points at a missing page); index parses as JSON
   reader wording: no pipeline vocabulary in visible text; no nested chips
+  disclosure rule: a citation chip may not sit inside a scene or a ledger —
+  one disclosure per region, and a control may only reveal what is not
+  already visible above it (see the site_evidence module docstring)
   role grouping: every people-index group is an institution the pages can
   state, and every [role:…] ledger entry is a known value with a page
   curated typing: mid_type is not read and does not reach a reader
@@ -170,6 +173,59 @@ def check_chip_markup(files):
     return errors
 
 
+class DisclosureWalker(HTMLParser):
+    """Flags a citation chip that sits inside a region which already discloses.
+
+    The rule the builders are held to (site_evidence module docstring): one
+    disclosure per region, and a control may only reveal what is not already
+    visible above it. A scene's fold already shows its rows, and those rows
+    carry the located lines, so a `details.citebox` inside a scene or a ledger
+    can only open a shorter version of what the reader is looking at."""
+
+    VOID = {"area", "base", "br", "col", "embed", "hr", "img", "input",
+            "link", "meta", "param", "source", "track", "wbr"}
+
+    def __init__(self):
+        super().__init__()
+        self.stack = []
+        self.hits = []
+
+    def handle_starttag(self, tag, attrs):
+        if tag in self.VOID:
+            return
+        classes = (dict(attrs).get("class") or "").split()
+        if tag == "details" and "citebox" in classes:
+            for _, anc in self.stack:
+                if "scene" in anc or "ledger" in anc:
+                    self.hits.append(" ".join(anc))
+                    break
+        self.stack.append((tag, classes))
+
+    def handle_endtag(self, tag):
+        for i in range(len(self.stack) - 1, -1, -1):
+            if self.stack[i][0] == tag:
+                del self.stack[i]
+                return
+
+
+def check_disclosures(files):
+    """One disclosure per region: no proof chip inside a scene or a ledger."""
+    errors = []
+    for p in files:
+        w = DisclosureWalker()
+        w.feed(p.read_text(encoding="utf-8"))
+        try:
+            rel = p.relative_to(SITE).as_posix()
+        except ValueError:
+            rel = str(p)
+        for anc in w.hits:
+            errors.append(
+                f"{rel}: citation chip inside "
+                f"[{anc}] — the scene's rows are the proof; the fold is its "
+                f"only expander")
+    return errors
+
+
 # The role buckets are a closed set on purpose. A label outside it means
 # somebody reintroduced a relation ("allies", "rivals") as if it were a
 # property of a person, which is exactly the bug this gate exists to stop.
@@ -325,6 +381,10 @@ def main():
         markup_errs = check_chip_markup(site_files)
         errors.extend(markup_errs)
         notes.append(f"chip markup: {len(markup_errs)} nested chip(s)")
+        disc_errs = check_disclosures(site_files)
+        errors.extend(disc_errs)
+        notes.append(f"disclosure rule: {len(disc_errs)} chip(s) duplicating "
+                     f"a scene or ledger expander")
         role_errs = check_role_grouping()
         errors.extend(role_errs)
         notes.append(f"role grouping: {len(role_errs)} problem(s) "

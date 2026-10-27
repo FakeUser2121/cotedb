@@ -285,12 +285,17 @@ def claims(con):
     } for cid, claim, kind, rel, vol, page, quote in rows]
 
 
-def quotes_at(con, vol_id, page, limit=3):
-    """Verbatim text located at a page — support for a citation, not a
-    claim about who said it."""
+def quotes_at(con, vol_id, first, last=None):
+    """Every verbatim line this archive holds for a printed page range.
+
+    Returns them in page order, uncut. The site no longer calls it: a citation
+    is reference text now, and the lines a page has are published as rows inside
+    the scene that page was read into (site_evidence). It stays as the coverage
+    question the walk asks — which located lines a ledger has not carried yet."""
     rows = con.execute(
-        "SELECT text_verbatim FROM quotes WHERE vol_id = ? AND pdf_page = ? "
-        "ORDER BY span_start LIMIT ?", (vol_id, page, limit)).fetchall()
+        "SELECT text_verbatim FROM quotes WHERE vol_id = ? "
+        "AND pdf_page BETWEEN ? AND ? ORDER BY pdf_page, span_start",
+        (vol_id, first, last or first)).fetchall()
     return [clean(r[0]) for r in rows if r[0]]
 
 

@@ -338,3 +338,20 @@ Markup and CSS only: row page numbers are plain reference text again, the
 scene chip keeps the only click target and now shows a caret, and cross-page
 summary numbers link with an arrow. No ledger line was edited and the walk
 position is unchanged (y1v2 ch1 still unstarted). See progress3 for counts.
+
+### One disclosure per scene, then no citation chip at all (site, 2026-10-27)
+
+Supersedes the caret in the entry above: the page chip is gone from the site
+entirely, not just from scene headings.
+
+Rendering, CSS and gate only: a scene has one expander, its fold, and the page
+range in its heading prints as the same grey reference text a row uses; a
+citation in guide or appendix prose is reference text too, because an inline
+`<details>` closes the paragraph around it and split a guide's 21 paragraphs
+into 53 blocks. `share_check.check_disclosures()` fails the build if a chip is
+ever placed inside a scene or a ledger again.
+
+No ledger line was edited; the walk position (y1v2 ch1 still unstarted) and
+every coverage number are unchanged — 388 scenes, 764 search records, 668
+cross-page arrow links, 3872 plain page references where 3477 were. See
+progress3 for the measurements.

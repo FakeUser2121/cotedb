@@ -211,16 +211,16 @@ attached, and a marker wherever nothing has been read line by line yet.</p>
 <p><strong>Bold labels</strong> say what kind of note the page produced —
 <em>Spoken</em> is dialogue, <em>Inner voice</em> is the narrator's thoughts,
 <em>What happens</em> is action. “Curly quotes” inside them are the novel's own
-words. Every page number next to a note, such as
+words. A page number in grey, such as
 <span class="pageref">p.247</span>, is a printed-page reference: it says where
-to look in the book, and the book itself is not hosted here. Plain numbers are
-not links.</p>
-<p>Anything bright is. A scene's page chip,
-<span class="cite">Vol. 1 p.247 ▾</span>, opens the lines the reading pass
-copied off those pages — the caret says there is text behind it, and the book
-is as close as this site gets. A chip with an arrow,
-<span class="cite">p.247 ↗</span>, sits on a summary row that quotes a scene
-held elsewhere, and goes to that scene on its volume page.</p>
+to look in the book, and the book itself is not hosted here. Grey numbers are
+never links.</p>
+<p>Anything bright is a control, and there are two of them. A <strong>+</strong>
+beside a scene title opens the notes that scene was read into — every line,
+including the ones copied word for word, appears at once, so nothing else on
+the page opens a second copy of them. A <strong>chip</strong> with an arrow,
+<span class="cite">p.247 ↗</span>, sits on a summary row whose scene is held on
+another page and takes you there.</p>
 <p>Reading in progress? Choose <em>I've read up to…</em> in the bar above and
 anything later in the story stays folded until you open it. Your choice is
 remembered on this device.</p>
@@ -424,7 +424,7 @@ above.</p>
                 for c in sorted(ctx['chars'],
                                  key=lambda c: (c['name'].split()[0],
                                                 c['name']))]))}"""
-    return ctx["page"]("People", "people", S.chipify(body, ctx["lookup"]),
+    return ctx["page"]("People", "people", S.reference_cites(body),
                       [("Home", "index.html"), ("People", None)],
                       out="people/index.html", rail=people_rail(ctx),
                       lede="Everyone named in the Classroom of the Elite "
@@ -552,7 +552,8 @@ def person_page(ctx, meta):
         body = (E.volume_sections(ctx, led, out_rel, fold=True)
                 + identity)
         lede = ("Read line by line: every scene below carries the page it was "
-                "found on, and every page chip opens the text on that page.")
+                "found on, and the lines copied off that page are rows inside "
+                "the scene.")
         meter = E.evidence_meters(ctx, led)
     else:
         body = identity + E.coverage_stub(ctx, subject=title, base="people")
@@ -561,7 +562,7 @@ def person_page(ctx, meta):
                 f"worked through line by line yet, so this page carries only "
                 f"what can be counted.")
         meter = [("Named in", f'{c["coverage"]} volumes')]
-    body = section_scope(S.chipify(body, ctx["lookup"]), ctx["vols"])
+    body = section_scope(S.reference_cites(body), ctx["vols"])
     related = ledger_related(ctx, c, led)
     rail_extra = [{"kind": "grp", "label": "This character"}]
     html_out = ctx["page"](
@@ -860,8 +861,8 @@ def volume_page(ctx, v):
         status_note = (
             "<div class='box note'><h4>Evidence state</h4><p>Read line by "
             "line. Every chapter and scene below is anchored to a page you "
-            "can open in the book, and every page chip shows the text that "
-            "sits there.</p></div>")
+            "can open in the book, and the lines copied off that page are "
+            "rows inside the scene.</p></div>")
     elif rec.get("blocks"):
         status_note = (
             "<div class='box warn'><h4>Evidence state</h4><p>Partway: "
@@ -943,7 +944,7 @@ def volume_page(ctx, v):
     scenes = rec.get("blocks", 0)
     html_out = ctx["page"](
         story_title(ctx, vol_id), "story",
-        S.chipify(body, ctx["lookup"]), crumbs, out=out,
+        S.reference_cites(body), crumbs, out=out,
         rail=story_rail(ctx),
         lede=f'{story_title(ctx, vol_id)} — {v["pages"]} pages'
              f'{", " + str(len(chapters)) + " chapters transcribed" if chapters else ""}'
@@ -1091,7 +1092,7 @@ def ledger_entity_page(ctx, meta, *, ledger_kind, section, rail, kicker,
                    for v in vols[:10] if v in ctx["vols"]]
         meter = [("Volumes naming it", str(len(vols)))]
         state = lede
-    body = section_scope(S.chipify("".join(parts), ctx["lookup"]), ctx["vols"])
+    body = section_scope(S.reference_cites("".join(parts)), ctx["vols"])
     html_out = ctx["page"](
         meta["title"], section, body,
         [("Home", "index.html"), (crumb_parent, crumb_href), (meta["title"], None)],
