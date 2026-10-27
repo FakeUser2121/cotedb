@@ -915,19 +915,46 @@ guy" appear on the volume page, on the Ayanokōji and Ryuuen pages, and in
 called Ayanokouji" appears on `people/chabashira-sae.html` as well as the volume
 page. Full gate: `share_check --site --print --pdf` all checks passed.
 
+### The Postscript closes Volume 2 on the site (site, 2026-10-27)
+
+Four pages of author afterword went onto `story/v/y1v2/index.html` as a
+Postscript section, and nothing else on the site changed, which is the correct
+result: the afterword states no character fact, so it fans out to no person page.
+The volume page picked up all eight of its labelled bullets — verified by asking
+the built HTML for every bold label in the section, with only the container
+heading "Narrative Beats" not rendered as a label — including "disturbance
+centered on Sudou", "high-class yakiniku", "PlayStation 4" and the note that
+p.261 carries only the publisher's newsletter notice.
+
+Counts after the rebuild, against the Chapter 7 commit: 162 pages (unchanged),
+search records 795 (unchanged — afterword bullets are not indexed as records),
+site links 19216 and print links 9691, both 0 bad, `a.cite` 1305, `.pageref`
+7671, `details.citebox` 0, wording leaks 0. Print bundles: guides 22, people 158,
+school 47, **story 178** (was 176), topics 247, world 34 pages. Determinism
+re-measured across two consecutive builds:
+`858b6761bd5a0a5c7e9f4e847fd39954`, and `--docs` mirrors to the same tree
+(173 files). One quote was corrected before the build: the printed biography says
+"Primarily responsible for the scenario and PC game planning", and the section had
+quietly lower-cased the first letter.
+
+Year 1 Volume 2 is now fully walked on the site: pp.10–261, seven chapters and the
+afterword, with the volume page reporting the whole run.
+
 ---
 
-## HANDOFF — site state and the exact next steps (updated 2026-10-27, after y1v2 Ch.7)
+## HANDOFF — site state and the exact next steps (updated 2026-10-27, y1v2 closed)
 
 **Built state right now.** 162 pages, all reachable, max depth 3, 36 volume
 pages, 27 principal characters, 253 entries in the People index. Search index 795
 records, 0 bad. Site links 19216 checked, 0 bad. Cross-page `a.cite` 1305, plain
 `.pageref` 7671, `details.citebox` 0, wording leaks 0, nested chips 0,
 disclosure-rule violations 0, role-grouping problems 0, curated-typing leaks 0.
-Print bundles: guides 22, people 158, school 47, story 176, topics 247, world 34
+Print bundles: guides 22, people 158, school 47, story 178, topics 247, world 34
 pages; print links 9691, 0 bad. Deterministic tree hash across consecutive
-builds: `5f140106f5bd2b1527b2f5a11bf071a5`; `docs/` mirrors it exactly (173
-files).
+builds: `858b6761bd5a0a5c7e9f4e847fd39954`; `docs/` mirrors it exactly (173
+files). **y1v2 is fully walked** — its volume page carries Chapters 1–7 and the
+Postscript; y1v1 is likewise complete; the other 34 volume pages are stubs and
+are the work ahead, one chapter at a time.
 
 **Commands.** Full rebuild: `python3 kb/build_share_site.py` (prints page,
 record, bundle and pdf counts). Mirror to the published tree: `python3

@@ -639,26 +639,65 @@ Verification after the fixes: `verify2 y1v2` **1066** [says] lines (33 too
 short/skipped), `verify3 y1v2` **653** other quoted lines, both ALL PASS. See
 progress3 for the site numbers.
 
+### y1v2 is closed: the Postscript is walked (walk, 2026-10-27)
+
+pp.258–261 read whole, and they are not story. The Postscript is the author's
+afterword — Syougo Kinugasa writing to the reader four months after the last
+book — so it went into `ledgers/volumes/y1v2.md` as one section and into no
+character ledger: no page of it carries a character fact, a point total or a
+school rule, and the first line of the section says so, because a reader of the
+volume page needs to know that the evidence stops at p.257. This follows how
+y1v1's Postscript was handled: one section, one `postscript → DONE` stamp, in the
+volume file only.
+
+What the afterword does supply is the book's own account of itself, which is worth
+anchoring: the volume "focuses on a disturbance centered on Sudou, following the
+midterms" (p.258), it was "the first act… a fierce battle waged over class
+points", and "the classmates also revealed things about themselves that weren't
+visible before". The rest is the illustrator material — the cover with Kushida on
+it, the tongue-clicking over new male characters, the 1280 Yen plan that ended at
+3980 Yen (p.258) — the editor and reader acknowledgements (p.259), his health,
+which the afterword keeps returning to (pp.258, 260), and the two printed
+biographies with the eight-kilogram PlayStation 4 wager (p.260). p.261 is the
+publisher's newsletter notice and is recorded as a page with no prose of the
+book's own.
+
+Defects kept as printed: "a long ways off" and "Doing physical examinations is
+impossible, though." (p.258), and the illustrator appearing as "Shunsaku-sama" in
+the afterword against "Tomoseshunsaku" in the biography (pp.258, 260). One quote
+was corrected during verification: the biography reads "Primarily responsible",
+capitalised, and the section had lowered it.
+
+**Volume 2 of Year 1 is now walked end to end** — 7 chapters plus the Postscript,
+pp.10–261, every page anchored. Verification: `verify2 y1v2` **1066** [says] lines
+(33 too short/skipped), `verify3 y1v2` **659** other quoted lines, both ALL PASS.
+Next volume: **y1v3**, starting from `cote_walk next`. See progress3 for the site
+numbers.
 ---
 
-## HANDOFF — walk state and the exact next steps (updated 2026-10-27, after y1v2 Ch.7)
+## HANDOFF — walk state and the exact next steps (updated 2026-10-27, after y1v2 is closed)
 
 Read this whole section before touching a ledger. It is the resume point for a
 fresh session or a different model.
 
 **Where the walk is.** `ledgers/volumes/y1v1.md` is DONE (12 chapters +
-postscript). `ledgers/volumes/y1v2.md` is walked through **Chapter 7, p.257**.
-One unit left in the volume: **Postscript, pp.258–261** — short, four pages, and
-it closes volume 2. After that, 34 volume pages are still unwalked (y1v3 →
-y1v11.75, y2v1 → y2v12.5, y3v1 → y3v3 — 36 volume pages exist on the site, only
-these two carry line-by-line evidence). Source text lives in
-`text/COTE Y1 V2.txt` style files with `--- page N ---` markers; the printed page
-numbers in the markers are the numbers every citation uses.
+postscript). `ledgers/volumes/y1v2.md` is **DONE** — Chapters 1–7 and the
+Postscript, pp.10–261, every page anchored, ending with
+`<!-- walk: y1v2 postscript → DONE -->`. The next unit is a new volume:
+**y1v3**, and the way into it is `python3 kb/cote.py next` (or the `cote_walk`
+`next` tool), which reports the first unwalked chapter and its page range. Start
+a `## y1v3` heading in each ledger you write, with one `<!-- walk: y1v3 → start -->`
+marker, exactly as the y1v2 files do. 34 volume pages exist on the site with no
+line-by-line evidence (y1v3 → y1v11.75, y2v1 → y2v12.5, y3v1 → y3v3). Source text
+lives in `text/COTE Y1 V3.txt` style files with `--- page N ---` markers; the page
+numbers in those markers are the numbers every citation uses — in y1v2 the marker
+numbers ran 9 above the printed footers, and the markers are what the ledgers
+cite.
 
-**Ledger state (from `cote_walk status`).** At or past y1v2 ch7: ayanokouji,
+**Ledger state (from `cote_walk status`).** At the end of y1v2: ayanokouji,
 chabashira, horikita-manabu, horikita-suzune, ichinose, kanzaki-ryuuji,
-ryuuen-kakeru (new), sakagami, sakura, sudou, tachibana, kushida, hirata,
-systems/point-economy, volumes/y1v2. Deliberately behind, because Chapter 7 does
+kushida, hirata, ryuuen-kakeru, sakagami, sakura, sudou, tachibana,
+systems/point-economy, volumes/y1v2. One chapter behind, because Chapter 7 does
 not feature them — checked, not forgotten: hoshinomiya (ch6), karuizawa (ch4),
 kouenji (ch4), ike (ch6), yamauchi (ch6), exams/midterm-exam (ch4). Places
 ledgers stop where y1v1 stopped.
