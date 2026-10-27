@@ -152,4 +152,19 @@
       );
     });
   }
+
+  // Arriving at a folded scene (from search, a turning point, or a citation)
+  // should show that scene, not a closed row: open it before the browser
+  // settles on the anchor.
+  function revealHash() {
+    var id = (location.hash || "").slice(1);
+    if (!id) return;
+    var el = document.getElementById(id);
+    if (el && el.tagName === "DETAILS" && !el.open) {
+      el.open = true;
+      if (el.scrollIntoView) el.scrollIntoView({ block: "start" });
+    }
+  }
+  window.addEventListener("hashchange", revealHash);
+  revealHash();
 })();

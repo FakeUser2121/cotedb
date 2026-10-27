@@ -319,3 +319,8 @@ had produced two false failures and could mask real ones.
 CSS and the home template only: the `.measure` width cap, the hero grid, the
 home prose columns. No ledger, walk state or coverage number changed; y1v2
 remains unstarted at the same chapter mark. See progress3 for measurements.
+
+### Scene links (site, 2026-10-27)
+
+Recall and topic rows use the anchors `scene_block` already writes; no
+ledger entry was edited and the walk position is unchanged.

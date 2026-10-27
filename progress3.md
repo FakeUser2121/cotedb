@@ -518,3 +518,38 @@ false, and https://fakeuser2121.github.io/cote-kb/ returns 404. User's call:
 leave the repo private, Cloudflare is serving the site for now. So `git push`
 is the last step from this machine; do not expect the github.io URL to
 answer, and do not flip repo visibility or Pages settings unasked.
+
+### Recall rows now lead to the scene (site, 2026-10-27)
+
+Reported on `guides/find-that-moment.html`: "I can't seem to click things
+here to see where that part is." The rows were dead text except for the
+volume and the entity name; the scene title and the page pin were plain
+spans, so nothing led to the block the note came from.
+
+- `site_topics.entity_href()` is now the single resolver for a ledger stem's
+  page; `entity_link()` uses it too, so a row and its links cannot drift.
+- `scene_anchor()` replicates `site_evidence.scene_block`'s id rule (slug of
+  the heading, 48-character cut). `scene_href()` returns
+  `entity.html#ev-<anchor>`; for minor characters, whose href already
+  carries a letter-page fragment, it keeps only the scene fragment (a URL
+  takes one hash).
+- The beats list and `entry_row()` (topic pages) link the scene title there;
+  the page pin became `a.cite` to the same target instead of a plain span.
+- `shell.js` opens a targeted `<details>` on load/hashchange before the
+  browser settles, and `:target { scroll-margin-top: head + 14px }` keeps the
+  target clear of the sticky masthead.
+
+Validated independently of the gate: 156 scene links across topics and the
+recall page, 0 missing pages, 0 missing anchors, 0 duplicate anchors. CDP at
+1600 px: `people/...html#ev-y1v1-p-16-18-…` opens the details (top = 120 px
+under a 106 px header); `school/system/private-points.html#ev-y1v1-p-30-32-…`
+lands a div target at the same offset. Gate green, deterministic
+(`892fcf5d2fb2e66a57ff506c5912aae6`), docs mirrored
+(`b41b71c74dc578c11ec2921f5ae5323e`); PDFs keep their page counts.
+
+Not changed, but visible from the dump: the beats list is cut at 80 rows
+after sorting by volume, and all 80 are Volume 1 Ayanokōji. The cap hides
+the rest of the walked evidence instead of sampling it. Left as-is pending
+the user's call.
+
+### Layout pass (site, 2026-10-27)

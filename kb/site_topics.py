@@ -165,38 +165,68 @@ KIND_INDEX = {"people": "people/index.html", "exams": "school/index.html",
               "concepts": "topics/index.html"}
 
 
+def entity_href(ctx, kind, stem):
+    """Site-relative page for a ledger stem, or '' when the build makes no
+    page for it. One resolver, so a link built here lands on the same URL the
+    entity's own name links to."""
+    c = ctx["char_by_id"].get(stem) if kind == "people" else None
+    if c:
+        return c["href"]
+    if kind == "people":
+        # collect_metas gives every walked stem its own page
+        return f"people/{stem}.html"
+    return entity_page_href(ctx, kind, stem)
+
+
+def scene_anchor(block):
+    """The id site_evidence.scene_block writes on a scene. Kept in step with
+    that function: same slug source (the heading), same 48-character cut."""
+    return re.sub(r"[^a-z0-9]+", "-", block["heading"].lower()).strip("-")[:48]
+
+
+def scene_href(ctx, kind, stem, block):
+    """Where a scene is actually written: its own block on the entity page,
+    fragment included. Falls back to the section index only when the build
+    makes no page for the entity."""
+    page = entity_href(ctx, kind, stem)
+    if not page:
+        return KIND_INDEX[kind]
+    # minor characters live under an anchor on a letter page
+    # (people/minor/i.html#ike-kanji); a URL takes one fragment, and the
+    # scene id is the more specific one
+    page = page.split("#", 1)[0]
+    return f"{page}#ev-{scene_anchor(block)}"
+
+
 def entity_link(ctx, kind, stem, base="topics"):
     """Name a ledger's subject as a link to its page. Ledgers are filed under
     the id the walk wrote, pages under the database's; entity_page_href
     resolves that and returns '' when the build makes no page, so the link
     falls back to the section index instead of pointing at nothing."""
+    href = entity_href(ctx, kind, stem) or KIND_INDEX[kind]
     c = ctx["char_by_id"].get(stem) if kind == "people" else None
     if c:
-        name, href = c["name"], c["href"]
+        name = c["name"]
     else:
         led = L.load(kind, stem)
         name = (led["title"].split(" — ")[0]) if led else site_arch.display_name("", stem)
-        if kind == "people":
-            # Not on the roster, but the walk wrote a ledger: collect_metas
-            # gives every such stem its own page at people/<stem>.html.
-            href = f"people/{stem}.html"
-        else:
-            href = entity_page_href(ctx, kind, stem)
-        if not href:
-            href = KIND_INDEX[kind]
     return f'<a href="{posixpath.relpath(href, base)}">{S.esc(name)}</a>'
 
 
 def entry_row(ctx, kind, stem, vol, block, entry, base="topics"):
     """One anchored ledger entry as a row: who/what, the scene it came from,
-    the text, and the page it is on."""
+    the text, and the page it is on. The scene title and the page open the
+    block on the entity page, so a row can be followed to its source."""
+    link = posixpath.relpath(scene_href(ctx, kind, stem, block), base)
+    pin = (f'<a class="cite" href="{link}">{S.esc(entry["pages"])}</a>'
+           if entry["pages"] else "")
     return (
         f'<div class="scene"><div class="head">'
         f'<span class="pg">{E.vol_chip(ctx, vol, f"{base}/x.html")}</span>'
         f'<span class="who">{entity_link(ctx, kind, stem, base)}'
-        f' — {S.esc(block["title"])}</span></div>'
+        f' — <a href="{link}">{S.esc(block["title"])}</a></span></div>'
         f'<p>{S.esc(entry["text"])}</p>'
-        f'{E.pin(ctx, vol, entry["pages"])}</div>')
+        f'{pin}</div>')
 
 
 def grouped(ctx, rows, key):
@@ -510,13 +540,18 @@ def moment_page(ctx):
     for kind, stem, vol, block, entry in L.scan(("people", "exams", "systems")):
         if entry["marker"] not in ("feat", "status", "impact", "trait", "rule"):
             continue
+        # the note is only useful if it can be followed back to the scene it
+        # came from: title and page both open that block on the entity page
+        link = posixpath.relpath(scene_href(ctx, kind, stem, block), "guides")
+        pin = (f'<a class="cite" href="{link}">{S.esc(entry["pages"])}</a>'
+               if entry["pages"] else "")
         why_rows.append(
             (order(ctx, vol),
              f'<div class="scene"><div class="head">'
              f'<span class="pg">{vol_link(ctx, vol, "guides")}</span>'
              f'<span class="who">{entity_link(ctx, kind, stem, "guides")}'
-             f' — {S.esc(block["title"])}</span></div>'
-             f'<p>{S.esc(entry["text"])}</p>{E.pin(ctx, vol, entry["pages"])}</div>'))
+             f' — <a href="{link}">{S.esc(block["title"])}</a></span></div>'
+             f'<p>{S.esc(entry["text"])}</p>{pin}</div>'))
     why_rows.sort(key=lambda r: r[0])
     why_rows = [r[1] for r in why_rows]
     body = f"""<h2 id="search">Say it in your own words</h2>

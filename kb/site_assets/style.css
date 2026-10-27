@@ -410,6 +410,10 @@ blockquote.verb .at { display: block; margin-top: 8px;
   padding: 0 5px; cursor: pointer; text-transform: none;
 }
 .cite:hover { border-color: var(--hue); }
+a.cite { text-decoration: none; }
+a.cite:hover { text-decoration: none; }
+/* a followed anchor must not land under the sticky masthead */
+:target { scroll-margin-top: calc(var(--head-h) + 14px); }
 details.citebox { display: inline-block; }
 details.citebox > summary { display: inline-block; list-style: none; }
 details.citebox > summary::-webkit-details-marker { display: none; }
