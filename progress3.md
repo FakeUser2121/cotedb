@@ -509,3 +509,12 @@ so the PDFs keep their old pagination (people 130 pages, story 153); only
 their metadata bytes changed. Rebuild is deterministic (same HTML md5
 twice); `share_check --site --print --pdf` all green; docs mirrored (md5
 0dc0f7d65fc24632b4a72506c1d8eee9).
+
+### Publishing moved off GitHub Pages (2026-10-27)
+
+`FakeUser2121/cote-kb` is private now, and the free plan cannot serve Pages
+from a private repo: `POST /repos/.../pages` returns 422, `has_pages` is
+false, and https://fakeuser2121.github.io/cote-kb/ returns 404. User's call:
+leave the repo private, Cloudflare is serving the site for now. So `git push`
+is the last step from this machine; do not expect the github.io URL to
+answer, and do not flip repo visibility or Pages settings unasked.
