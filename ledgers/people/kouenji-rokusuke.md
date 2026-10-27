@@ -79,3 +79,21 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [note] (p.20) What he eats, and whether he buys anything at all in July, is never stated; the text here says only that he has stopped leaving the classroom to be entertained.
 
 <!-- walk: y1v2 ch2 → p.39 -->
+
+### y1v2 p.92–93 — Ch.4 §4.3: he speaks to Sudou's face without looking at him
+[scene] (p.92) His intervention is announced by the mirror, not the man: "The voice came from a boy checking his reflection in a hand mirror to fix his hair. It was Kouenji Rokusuke, an especially odd guy even amongst the remarkably strange people of our class."
+[says] (p.92) “Don’t you think it would’ve been better if you’d been expelled? Your existence is far from beautiful. No, in fact, I could say your life is an ugly one, Red Hair-kun.” — he nicknames Sudou by his hair, the same detail the class's witness used for him.
+[scene] (p.92) AK on the delivery: "Kouenji didn’t even look at Sudou as he spoke. It was as if this were a soliloquy."
+[says] (p.92) “It would be inefficient for me to tell you, no matter how many times I did. If I know that you’re dim-witted, then it doesn’t matter how many times I try to lecture you, does it?”
+[says] (p.93) “Puh. I don’t think I’ve experienced being wrong since I was born. You must be mistaken.” — to Hirata, the one classmate who tells him he is in the wrong.
+[says] (p.93) “Unfortunately, I’ve never experienced being wrong. Not once in my entire life. Oh, looks like it’s about time for my date. Well, if you’ll excuse me.” — he leaves mid-argument on a scheduled date; no date is ever shown.
+[feat] (p.92) What his two sentences cost: a desk is kicked apart, Sudou walks on him, and the class's last organised effort to save anyone collapses into Hirata physically holding Sudou back.
+[trait] (p.92–93) He is the only student in the volume who treats expulsion as a preference rather than a threat, and he says it to the one student whose expulsion risk he cannot lose anything from.
+
+### y1v2 p.119, p.129 — Ch.4 §4.6, §4.8: he exists in the rest of the chapter as other people's summary
+[feat] (p.119) In the narrator's private list of students who were wrongly sorted into Class D: "Horikita, Kouenji, and Yukimura were undoubtedly three people who deserved to be at the top based on their academics alone."
+[says] (p.129) Kushida, reopening the corridor incident on the phone: "That reminds me. It was really scary when Kouenji-kun and Sudoukun looked like they were about to start fighting." — printed as one word; kept as the translation has it.
+[limit] (p.129) In Ayanokōji's estimate of what that fight would have become: "Kouenji always seemed laid-back, but if Sudou started taking swings at him, he would fight. If that happened, it’d be a disaster."
+[status] (p.119–129) He has no scene of his own after p.93; the second half of Chapter 4 keeps him as a recollection and a hypothesis.
+
+<!-- walk: y1v2 ch4 → p.151 -->

@@ -180,7 +180,6 @@ aliases used for anchors: ike, kanji, ike-kun
 [trait] (p.41–48) The volume's loudest id: he condemns a classmate, is reeled in by one girl's request, then spends the rest of the scene narrating his sex drive out loud. Nothing about him is strategic.
 [rel:kushida-kikyou] (p.47–50) He claims her publicly ("my Kushida-chan"), and her single request is what converts him into Sudou's helper; AK's pity: "In some ways, I felt a little sorry for Kushida."
 
-<!-- walk: y1v2 ch3 → p.65 -->
 
 ### y1v2 p.50–53 — Ch.3 §3.1: the phone, the ranking, the contest
 [says] (p.50) “Do you want to know? I bet you both want to know.” — AK: "Ike whipped out his phone with an air of unavoidable weariness."
@@ -197,7 +196,6 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:ayanokouji-kiyotaka] (p.52) He recruits AK into the girlfriend contest and offers to set him up; AK's only counter is "Isn’t it kind of pathetic that you’re trying to introduce me to girls when you don’t have a girlfriend yourself?" and Ike can only answer "W-well…yeah."
 [rel:yamauchi-haruki] (p.50–52) Co-dependent rivals for the same girl — they trade fantasies, check each other for "outdone" moves, and leave AK as the audience.
 
-<!-- walk: y1v2 ch3 → p.65 -->
 
 ### y1v2 p.61–64 — Ch.3 §3.2–3.3: Kushida's entourage, in Class B
 [scene] (p.61) Kept behind at the table while Kushida and AK chase Horikita: “Ike-kun, Yamauchi-kun, could you two please wait here? We’ll be back right away,” and "“Okay!” the boys chorused." — AK's aside: "You certainly couldn’t claim those two were friendly with Horikita."
@@ -210,3 +208,41 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:kushida-kikyou] (p.61–63) He follows her into another class, stands in the doorway, and monitors the male population of Class B as a rival pool rather than as witnesses.
 
 <!-- walk: y1v2 ch3 → p.65 -->
+
+### y1v2 p.66–72 — Ch.4 §4.0: he is the audience for the class-change rule, and the one who remembers nothing
+[says] (p.66) “Man, can we even prove that those Class C guys were in the wrong?”
+[says] (p.66) “Before we try our best, though, is there even a witness in the first place? Didn’t Sudou only say that he thought someone might’ve been there? Wasn’t that just a lie? I mean, he is violent, and he does provoke people.”
+[says] (p.66) “Our dreams of screwing around to our hearts’ content will remain unrealized!” — his objection to saving Sudou, in full: "if Sudou is in the wrong, then our hard-earned points are all going be stripped away, right? We’ll be at zero. Zero! We’ll be back to having no pocket money at all." (sic — "going be")
+[says] (p.67) “I wish I was in A, too. I’d be doing so much fun stuff with my friends.” — one of the two "delusions" Horikita laughs at.
+[says] (p.67) “Even if Sudou was at fault?” — AK: "Ike, who considered Hirata a goody two shoes, eyed him suspiciously", and the hero's answer physically defeats him: "Ike immediately looked downward, as if pressed under the weight of Hirata’s noble intentions."
+[says] (p.68) “Wait. What did you say, sensei?” — AK: "Ike nearly fell off his chair before recomposing himself."
+[says] (p.68) “Come on, now. Don’t tease us, Sae-chan-sensei!” — the one time he refuses information: "Usually, Ike would’ve sunk his teeth into that information. This time, he laughed it off, as if saying he wouldn’t be fooled."
+[says] (p.68) “Sensei, what are these special methods?” — AK: "Ike inquired politely, as if not to offend her."
+[says] (p.69) “Did you just say twenty million? That’s impossible, though!” — after which "Ike tumbled out of his chair".
+[says] (p.71) “No, no, no! That’s not true at all! If you’d told me before, I—” — his protest at not being told about club points, answered by the teacher in front of the class.
+[says] (p.72) “I don’t remember,” — of the P.E. instructor's 5000-point promise, and AK's epitaph on his optimism: "It seemed like Ike could only see the positive side of things."
+[says] (p.72) “If I got points for it, I probably would’ve joined calligraphy club, or some other kind of art club.”
+[trait] (p.66–72) He is the class's memory test: every system fact in this chapter was available to him earlier and he retained none of it, while his own grievance — zero points, no pocket money — is stated more accurately than anyone else's.
+
+### y1v2 p.74–96 — Ch.4 §4.1–4.3: he describes Sakura as a body, is corrected, and does it again
+[says] (p.74) “None at all. Sudou, are you sure there was a witness?”
+[scene] (p.75) Sudou puts him in a headlock for asking, and his surrender is a shout: "“Gyahh! I give, I give!” Ike cried."
+[says] (p.78) “Come on, don’t lie! You’re a tsundere, Horikita!” — "Ike went to hit Horikita’s shoulders playfully, as if teasing her. Horikita grabbed his arm and tossed him to the ground."
+[says] (p.78) “I-I won’t touch you. Not even if I wanted to…ow, owww!”
+[says] (p.79) “Can you tell us about her?” is the class's question; his answer is one fact and it is the wrong one: “Well, I suppose there’s one thing. Would it help if I said she has the biggest boobs in class? Her boobs are insanely huge.”
+[says] (p.80) “Oh, she’s that plain girl with glasses, right?” — Kushida's rebuke follows immediately: "It’s not good to remember people based on something like that, Ikekun! That’s pathetic."
+[says] (p.80) “N-no, no, it’s not like that, Kushida-chan. It’s just, you know. I wasn’t trying to say anything indecent or anything. You know, it’s like how you can remember a tall guy because of his height, right? It’s the same kind of thing, but I’m just remembering her based on another physical characteristic!”
+[says] (p.80) “Damn it! No, it’s not like that, it’s not! I absolutely do not like plain girls like her! Don’t get the wrong idea!” — AK: "I doubted anyone had the wrong idea. While Ike broke down in tears, the rest of us started talking about Sakura."
+[says] (p.81) “Yeah, for sure. Her boobs are huge, though. It’s really cute!” — minutes after crying about being misread: "Ike seemed to have already forgotten the shame of his earlier remarks, and was now excited again."
+[trait] (p.80–81) AK's fixed verdict on him, earned in this scene: "He was the type of hapless creature that made the same mistake over and over."
+[scene] (p.94) Horikita asks him to appraise his own friend, and he does it honestly for once: "I don’t think we’re on bad terms, but I do kind of feel like he’s a burden. Sudou cuts class more than anyone else. He also fights the most. I have to draw the line there." — AK: "I could see what he meant. Ike appeared to have his own thoughts."
+[says] (p.91) “I can’t imagine that we’ll find a perfect out for Sudou. Let’s just give up on him,” — "muttered Ike, half-heartedly", the first time he abandons the case he led the loudest on.
+[scene] (p.95) The classroom cameras are news to him specifically: "Seriously?! I never knew that!" — "Ike looked utterly shocked."
+[scene] (p.96) His jealousy is documented as a live grudge against Horikita and against AK at the same time: “You two really have gotten close, huh? I mean, you looked like you were going to murder me after I just touched your shoulder yesterday, and now…” — AK: "Ike looked at my hand on Horikita’s forehead with seeming discontent."
+
+### y1v2 p.133, p.143 — Ch.4 §4.9: he organises a café trip, and one of the four is not told
+[says] (p.133) Kushida's reference to the outing, delivered as small talk at a mall: "I’m talking about Ike-kun and the others going to that café, of course." — the volume records the trip only as something Ayanokōji did not hear about.
+[feat] (p.143) His name is the reason the narrator owns the Professor's number at all: "Back when Ike had involved me in the whole gambling thing, I’d exchanged contact information with some people."
+[note] (p.133) Nothing in the text says whether Ike deliberately left Ayanokōji out; the only reading on record is Ayanokōji's own, and he takes the blame rather than Ike: "It’s not like Ike and the others were bad for not inviting me. I was the bad guy, the one who hadn’t been invited."
+
+<!-- walk: y1v2 ch4 → p.151 -->

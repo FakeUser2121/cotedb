@@ -284,13 +284,11 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:hirata-yousuke] (p.43) He backs her appeal publicly; AK credits the pair of them plus Karuizawa with converting the class, which is the closest the volume comes to the two leaders acting together.
 [rel:karuizawa-kei] (p.43) AK's paired mechanism, stated in the same breath: "If Kushida lived by the softness of her heart, then Karuizawa lived by the strength of her will."
 
-<!-- walk: y1v2 ch3 → p.65 -->
 
 ### y1v2 p.44, p.47 — Ch.3 §3.1: keeping Ayanokōji inside the group
 [scene] (p.44) She assembles the lunch table — AK, Horikita, Ike, Yamauchi, Sudou — by asking him directly: "When lunchtime came, Kushida had invited me with a smile. She’d said, 'Want to get lunch?' I’d said okay, of course. I mean, I didn’t have any choice in the matter."
 [scene] (p.47) She leaves the table early to work her own network: “Ah, sorry. I have to go for a bit. I’m going to try asking my upperclassmen friends if they saw anything.”
 
-<!-- walk: y1v2 ch3 → p.65 -->
 
 ### y1v2 p.54–63 — Ch.3 §3.2–3.3: Horikita, the lesson, and Class B
 [says] (p.54) “Are you really heading back? Horikita-san?”
@@ -316,3 +314,92 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [limit] (p.63) Her network has a ceiling she cannot see: AK's whole plan for Class B rests on the class's self-interest, and she is running on friendship, which is why the report she brings back surprises him. (What the report is, the text withholds until the next chapter.)
 
 <!-- walk: y1v2 ch3 → p.65 -->
+
+### y1v2 p.66–82 — Ch.4 §4.0–4.1: she runs the search, and is the only one who can name Sakura's seat
+[says] (p.66) "As long as we can find a witness, it’s not impossible. Let’s keep trying our best, Ike-kun." — the pep line she gives the boy who has just declared the case hopeless.
+[feat] (p.74) Her method of remembering is exact: "It’s certainly true that Sudou-kun didn’t say he saw anyone. He said that he had a feeling that someone was there." — she corrects the class's summary of a claim three days old.
+[says] (p.75) She re-engineers the search from the witness to the witness's surroundings: "We might want to change our methods a little. For example, let’s look for someone who might have found a witness." — AK's judgement: "That wasn’t a bad idea."
+[scene] (p.76) Horikita arrives at the room and Kushida is the reason she stays: "Kushida peered over at the entrance, probably concerned that Horikita wouldn’t return. 'Ah, Horikita-san!' Kushida said. Kushida smiled and waved to Horikita."
+[says] (p.76) "If you didn’t come here to help, then why did you come?" — and then, instead of pressing: "Well, I’m happy if you just want to listen to us talk. I hoped you could give some advice."
+[scene] (p.79) She is the class's map of itself: "No, you’re both wrong. She sits diagonally ahead of Sudou-kun to the right." — AK: "Kushida corrected them, a slightly pouty look on her face."
+[says] (p.80) She defends a classmate she has never spoken to, in public, against Ike: "It’s not good to remember people based on something like that, Ikekun! That’s pathetic."
+[says] (p.80) The phone attempt fails and she names why it is a delicate thing: "No luck. The call didn’t go through. I can try again later, but this may be a delicate matter." and "She gave me her contact information, but she doesn’t know me very well. She might be confused if I tried to call her."
+[says] (p.82) She reads the room's failure before it happens and shrinks the plan to one person: "Well, I’ll try to talk to her myself tomorrow. I think she might be on her guard if a lot of people approach her."
+[rel:sakura-airi] (p.80–82) She holds Sakura's number and Sakura's seating position and none of Sakura's trust, and is the one student whose name she will not let Ike reduce to a body.
+
+### y1v2 p.86–93 — Ch.4 §4.2–4.3: the approach fails in front of the whole class
+[scene] (p.86) "Class was over. Kushida stood up right as homeroom ended and walked over towards Sakura, who was quietly preparing to leave. Kushida seemed oddly nervous."
+[says] (p.86) "Sakura-san?" then "I wanted to ask you something, Sakura-san. Do you have a moment? It’s about Sudou’s case."
+[says] (p.88) "Can you please make some time? This is important, so I’d like to talk to you. When Sudou-kun was involved in the incident, were you perhaps somewhere nearby?"
+[says] (p.88) "Can’t you please spare just a few minutes now?" — the third ask, the one that turns the conversation into a scene the room is watching.
+[limit] (p.88) AK's post-mortem of her judgement, in her own terms: "Kushida probably had expected this conversation to go more smoothly, and had gone into this situation thinking she wasn’t going to be rejected. That explained why this was currently falling apart."
+[scene] (p.90) She takes the blame for a broken camera that was not hers: "I-I’m sorry. It’s because I came up and talked to you so suddenly, that…" — and is answered flatly: "No, that’s not it. I was just careless, that’s all… Anyway, goodbye."
+[feat] (p.91) Even after failing she keeps the case alive by asking the quietest boy in the room: "Ayanokouji-kun, you’re Sudou-kun’s ally, aren’t you?" — "Well, it’s just that things seem to a bit tense. Everyone’s desire to save Sudou is fading."
+[rel:ayanokouji-kiyotaka] (p.91) She uses his proximity as a resource twice in one day: the ally question, and the earlier instruction that he keep Horikita reachable (Hirata briefs AK about her because "she doesn’t talk to anyone except for you").
+
+### y1v2 p.128–131 — Ch.4 §4.8: she phones him at night, and cannot finish what she starts
+[scene] (p.128) The first time she reaches him unbidden, after ten: "I’m sorry for calling you so late. You’re still up?" she asked.
+[says] (p.128) "Sakura-san’s digital camera was broken, right? I feel like I’m partially to blame since I made her so flustered. So I wanted to take responsibility for that…"
+[says] (p.129) "Yeah. She seemed hesitant at first, but then said that she’d be fine with the day after tomorrow. I think that Sakura’s digital camera is probably really important to her."
+[says] (p.129) "If we were just going to get it repaired, I suppose. But, there’s another thing. I’d like your help with it, Ayanokouji-kun."
+[says] (p.129) What Horikita has concluded, carried by the one person Horikita will not speak to: "Horikita-san seems convinced that Sakura saw everything. After getting a bit closer to Sakura-san, I also think she knows something. But there has to be some reason why she’s keeping quiet, since she keeps denying that she witnessed it."
+[says] (p.129) "That reminds me. It was really scary when Kouenji-kun and Sudoukun looked like they were about to start fighting." — printed as one word; kept as the translation has it.
+[says] (p.129) "I couldn’t even move. Hirata-kun was so amazing, though."
+[says] (p.130) "Class D was able to come together, thanks to you and Hirata. The fact that the boys and girls are separated plays a big part, too."
+[says] (p.130) "Speaking of special, don’t you think that Horikita-san is way more special than someone like me? She’s great at studying and excels at sports. It makes me wonder why she’s in Class D."
+[says] (p.130) "But doesn’t she behave normally with you, Ayanokouji-kun?"
+[says] (p.131) "Huh? Ah, yeah, it is. Why? What about it?" — he has asked whether her room is on the ninth floor.
+[feat] (p.130) Her gift with the class's outliers, described from the outside: "Kushida had done a wonderful job taking the proper first steps to earn Sakura’s trust."
+[limit] (p.131) The only silence the volume records her in: "Suddenly, Kushida fell silent. It was unexpected silence, without warning. Our conversation, which had been smooth up until now, came to a screeching halt."
+[limit] (p.131) She starts a confession three times and stops: "Hey—" then "I-If… Well… I… I—" then "No, it’s nothing." — and the recorder's verdict: "That sure didn’t seem like nothing…"
+[says] (p.131) "Well, I’ll see you the day after tomorrow, Ayanokouji-kun." — the call's last line, with the unfinished one still in the air.
+[trait] (p.130–131) She is the only classmate who tests his account of Horikita instead of accepting it — and his reaction to being read is discomfort rather than deflection: "I didn’t like being misunderstood by Kushida."
+[note] (p.131) She hesitates immediately after being asked for her floor number, and the volume never says whether the two are connected. What is recorded is only the sequence: the question, the halt, the swallowed sentence, the goodbye.
+
+### y1v2 p.132–145 — Ch.4 §4.9–4.10: how she works on someone who cannot be worked on
+[says] (p.132) "Good morning!" and "Sorry. Were you waiting long?"
+[says] (p.132) "This is the first time we’ve met up on a day off. It’s refreshing."
+[says] (p.133) The opening test of whether he has been excluded from his own class: "Weren’t you really busy during your downtime last week? I’m glad that you came despite that, Ayanokouji-kun." — then, precisely: "I’m talking about Ike-kun and the others going to that café, of course."
+[says] (p.133) "By any chance…"
+[says] (p.133) "I didn’t mean anything… I’m sorry, I guess I said something wrong…" — and when he says he does not care: "You do seem to care…"
+[says] (p.135) "No, no, that’s not true at all. I think we’re great together," — to his "I think I might look a little out of place next to you."
+[says] (p.135) "You’re that surprisingly delicate, Ayanokouji-kun? I don’t really care what others say. I don’t think it’s an insult at all. I really think we suit each other."
+[says] (p.136) "She asked me to invite you, Ayanokouji-kun. Didn’t Sakura-san contact you?" — Sakura's invitation came through Kushida, and Kushida did not know he had not been contacted directly.
+[says] (p.136) "Right now, how about we sit and wait?"
+[says] (p.138) "Let’s see, I’m sure they have a repair counter somewhere. Let’s check it out."
+[says] (p.138) "There it is! The repairs counter."
+[says] (p.138) "What’s the matter, Sakura-san?" — she is the only one of the three who asks about Sakura's fear out loud.
+[feat] (p.139) The transaction as an act of translation: "Kushida’s worldly wisdom was certainly impressive. Even though it was her first time meeting the store clerk, she was soon talking to him as if they were longtime friends."
+[feat] (p.139) She reads the clerk's interest and manages it without refusing him: "In order to conclude their business, she urged Sakura to hand over the camera."
+[says] (p.140) "That clerk sure was something else. He talked with such incredible passion, I was just so shocked,"
+[says] (p.141) "N-no, I wasn’t disgusted by him. Do you know something? About that clerk?" — the question that lets Sakura say she was afraid.
+[says] (p.141) "Did you know about this, Ayanokouji-kun?" — "Kushida seemed to have an epiphany. She turned to me with wide eyes."
+[says] (p.141) "You really looked out for Sakura-san,"
+[says] (p.142) "Oh, no need to thank me." and then "Sakura-san, you really like your camera. Don’t you?"
+[says] (p.142) "I think being knowledgeable and liking things are separate matters. It’s wonderful to be so passionate about something."
+[says] (p.144) "Sakura-san, have we met somewhere before?" — "Kushida murmured."
+[says] (p.144) The ask that Sakura refuses: "Sorry. It’s just that when I look at you, I get this feeling that we’ve met before, Sakura-san. Hey, weird question, but could you try removing your glasses?"
+[says] (p.144) "We should hang out together again, Sakura-san. Not just with me, but with my other friends, too."
+[says] (p.145) Her offer of a normal relationship, phrased as a complaint about speech: "you can talk to us normally, you know? If it’s okay with you. We’re in the same grade. It sounds a little weird when you speak so formally to us."
+[says] (p.145) "It’s not really a bad thing! I mean, I’d be happy if you didn’t speak so formally to me, though."
+[says] (p.145) "It’s okay, though. You don’t need to force yourself."
+[says] (p.146) The ask that finally gets the witness: "So, does that mean that you saw Sudou-kun fight with those other students?" and then "No, we do. Why did you decide to tell us now, though? I mean, I’m happy you did, but I don’t want you to force yourself. You don’t have to do this just because you’re grateful, you know?"
+[says] (p.146) "Is that really true? You’re not forcing yourself?" Kushida asked. — the same question twice in one minute, because the first answer was a shake of the head.
+[says] (p.146) "Thank you, Sakura-san. I’m sure Sudou-kun will be really happy." — "Kushida took Sakura’s hand."
+[feat] (p.146) The case the whole class failed to move in three weeks is closed by a hand-hold and two refusals to press: "I wondered if a new friendship had been born right here, right now. At any rate, we had Sudou’s witness."
+[trait] (p.132–146) She is the only person in Class D who gets things done by being with people rather than by being right about them; the volume records her succeeding at exactly the task Horikita wrote off as worthless.
+[rel:sakura-airi] (p.138–146) From a camera knocked over in a classroom (p.90) to a promise to testify in a shopping mall: the whole distance is crossed by Kushida refusing to make anything harder than it already is.
+[rel:ayanokouji-kiyotaka] (p.128–145) She recruits him by asking, tests whether he has been left out of his own friend group, and lets him fill in a form; he is her one witness that she is capable of a plain conversation.
+[limit] (p.144) Her instinct to close on Sakura stops short of the truth: she asks about the glasses, gets refused, and "Kushida seemed to feel that it would make trouble if she pressed the issue, so she kept quiet. Or rather, she didn’t ask anything else."
+
+### y1v2 p.147–150 — Ch.4 §4.11: the same evening, on two calls
+[says] (p.147) "We got closer to Sakura, but… Is it really okay for me to say that?" — her voice on the phone that night; the translation leaves the reply's speaker untagged and it is not assigned.
+[says] (p.147) Her reason for the glasses, which turns out not to be a reason: "Well, I mean… I thought saying so might be kind of cruel, but… I just feel like her glasses don’t really suit her, for some reason. It’s like she doesn’t really need them, or something. I don’t understand it myself. I also thought that we’d met somewhere before, but that was probably just a misunderstanding."
+[says] (p.147) "Huh? Sakura-san wears fake glasses? But she said that her eyesight was really bad…"
+[says] (p.148) "Appearing fashionable with glasses? Hmm, that doesn’t sound normal."
+[says] (p.148) "There’s that. Wearing glasses does make you look smart."
+[says] (p.148) "I knew it was right to bring you along, Ayanokouji-kun. I feel like you’re very observant of people."
+[says] (p.148) "Oh, sure. Sorry for talking so long." — the line she says when he cuts her off to answer Sakura; "Though there was a heavy regret in those parting words."
+[note] (p.150) She is asked whether Sakura called her and did not receive the call: "A few minutes later, Kushida confirmed that she hadn’t heard back from Sakura." The volume leaves Sakura's unfinished sentence on one side of the exchange and Kushida's unfinished sentence on the other.
+
+<!-- walk: y1v2 ch4 → p.151 -->

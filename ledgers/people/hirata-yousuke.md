@@ -164,3 +164,33 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:sudou-ken] (p.43) Publicly defends the classmate who refuses him privately; the y1v2 ch2 note stands — Sudou will not ask him, so the defence costs Hirata nothing with Sudou and gains Sudou nothing with him.
 
 <!-- walk: y1v2 ch3 → p.65 -->
+
+### y1v2 p.66–72 — Ch.4 §4.0: the speech that wins the room and the recall nobody else has
+[scene] (p.66) His team's canvass produced records, not results: "I heard that Hirata and his group hadn’t obtained any valuable information. They’d recorded the names of the people to whom they’d spoken, and occasionally taken notes on their cell phones."
+[says] (p.66) "Then it would be a good idea for everyone to start saving up again," — and the reason he gives: "It’s only been three months since we started here." — AK: "Our classroom hero didn’t waver as he delivered his magnificent speech. The girls immediately blushed in response."
+[says] (p.67) "I understand how you feel. However, it can be dangerous to cling to our points and lose sight of reality. The most important thing is to treasure our friends as much as possible."
+[scene] (p.67) The cost of that line on himself, watched by the class's worst judge: "Ike, who considered Hirata a goody two shoes, eyed him suspiciously. 'Even if Sudou was at fault?' ... However, Hirata nodded without a moment’s hesitation. It was as though he believed self-sacrifice was unimportant. Ike immediately looked downward, as if pressed under the weight of Hirata’s noble intentions."
+[says] (p.71) "You know, if you think back on it now, it was obvious from the start." — the one student who had already connected the school's signals: "Remember what our P.E. instructor Higashiyama-sensei said when we went to the pool? He said the student who got the best time during our first class would get 5000 points. That was a stepping stone to prepare us for other opportunities. It seems plausible, right?"
+[feat] (p.71) His memory of a teacher's throwaway promise is the evidence that the club-points track exists, and Ike cannot supply any of it: "Ike scratched his head and slumped. 'I don’t remember,' he said."
+
+### y1v2 p.83–84, p.92–93 — Ch.4 §4.2–4.3: he will greet Sakura but not ask her, and he physically stops Sudou
+[says] (p.83) "Good morning, Ayanokouji-kun." — "Hirata called to me, his expression as fresh and friendly as usual. The sweet yet subtle fragrance of flowers always emanated from him."
+[says] (p.83) Why he does not go to the witness himself: "Me? No. I’m going to greet her, that’s all. I’ve wanted to talk to her since she’s always by herself, but as a guy I don’t want to come off as forceful or anything. Also, if I asked Karuizawa-san to talk with her, that might cause a few problems."
+[says] (p.83) "I think that for the time being, we’ll just wait for more information from Kushida-san." — the hero's plan is to let someone else do the asking.
+[says] (p.84) His reason for briefing AK at all: "Not for any particular reason. I guess it’s because you have a connection to Horikita-san. She doesn’t talk to anyone except for you, so I thought you’d pass it along." — AK: "There was no real reason for him to tell me any of this. I wasn’t really part of the team."
+[scene] (p.84) He invites AK into his own social life, girlfriend included: "Oh, that reminds me. If you’re up for it, we should hang out sometime soon. What do you think?" and "Are you fine with my girlfriend coming, too?" — and reads AK's refusal when AK himself cannot: "I’m sorry. Do you not really want to?"
+[scene] (p.92) When Sudou kicks a desk apart and walks on Kōenji, he is the only one who moves: "He was the only boy able to move in this awful situation. My heart pounded in my chest."
+[says] (p.92) "All right, that’s enough. Calm down, you two," — and he puts the blame on both sides in front of the class: "Sudou-kun. You certainly are part of the problem here. But Kouenji-kun, you’re in the wrong, too."
+[says] (p.93) "Stop it already. I don’t want to see my friends fight…" is Kushida's; his is the follow-up that picks a side for the record: "It’s just like Kushida says. I don’t know about Kouenji-kun, but I’m your ally, Sudou-kun." — AK: "Hirata was way too cool. It would’ve been fitting if he changed his name to 'Hero.'"
+[says] (p.93) His last line to Sudou is the school's argument, not his own feeling: "I’m going to stop this. Sudou-kun, you should act more mature. If you cause another huge disturbance, the school’s evaluation of you will only worsen. Right?"
+[says] (p.93) Then, alone with Kōenji after Sudou slams out: "Kouenji-kun. I don’t intend to compel you to help. But you were wrong to blame him." — and AK's conclusion from watching the pair: "Watching their bizarre interaction unfold, I realized that our class lacked unity."
+[limit] (p.83–93) He never asks the witness anything, never challenges Horikita's write-off of Sudou, and stops a fight by citing the school's evaluation — leadership that avoids being the one who pressures anyone.
+
+### y1v2 p.120, p.149 — Ch.4 §4.7, §4.11: he is the name people reach for when a conversation is going badly
+[feat] (p.120) Kushida, on the phone about the corridor fight: "I couldn’t even move. Hirata-kun was so amazing, though." — Ayanokōji's jealous gloss on the praise: "Hearing her praise Hirata like that made me a little jealous."
+[feat] (p.120) The couple the class copies: "It seemed like many students were striving every day to couple up like Hirata and Karuizawa."
+[feat] (p.149) He is invoked as a teacher of social technique by the one person who watches him most closely: "What should I do? Please, Hirata. Teach me."
+[rel:kushida-kikyou] (p.120) She credits him and herself, in the same breath, for Class D's cohesion: "Class D was able to come together, thanks to you and Hirata."
+[limit] (p.120–149) In the second half of Chapter 4 he appears only as other students' measure of themselves; his own scenes ended at p.93.
+
+<!-- walk: y1v2 ch4 → p.151 -->

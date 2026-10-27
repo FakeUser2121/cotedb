@@ -244,7 +244,6 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [trait] (p.41) AK's verdict on the strategy: "Sudou’s plan had already fallen apart." The secrecy he begged for two nights earlier dies the moment the school canvasses every class for a witness.
 [scene] (p.41) He leaves with Chabashira immediately: "Chabashira-sensei left, and Sudou followed right after her. He probably realized that if he stayed in the classroom, he’d lose his temper with someone."
 
-<!-- walk: y1v2 ch3 → p.65 -->
 
 ### y1v2 p.42–45 — Ch.3 §3.1: the class's own memory of him is the case against him
 [scene] (p.42–43) Classmates answer Kushida's appeal with their own sightings, speakers unnamed: "I saw him grab some kid by the collar just because they bumped into each other in the hallway." / "I saw him cut in line in the cafeteria and lash out when someone tried to tell him that wasn’t okay."
@@ -258,7 +257,6 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [feat] (p.45) His temper performs the argument against him in real time: "Unable to direct his rage anywhere else, Sudou slammed his fists on the cafeteria table, spilling a nearby student’s miso soup. The student glared, but when he saw how scary Sudou looked, he remained silent."
 [rel:horikita-suzune] (p.44–45) He assumes the friendship she refused to name; her answer — that she has "never once considered you a friend" — is the first time the class hears her draw that line out loud.
 
-<!-- walk: y1v2 ch3 → p.65 -->
 
 ### y1v2 p.46–47 — Ch.3 §3.1: he cannot accept that her refusal has a reason
 [says] (p.46) “I don’t really want to think about it, but I guess it might be true.”
@@ -269,7 +267,6 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [limit] (p.46–47) AK's diagnosis, which Horikita states herself one page later: he will not accept a reason for the refusal, only a verdict. "Since Horikita was definitely on his mind, he probably wasn’t too pleased about her rejection."
 [rel:kushida-kikyou] (p.44) He accepts her defence of him and never credits it; his own attitude flip in this chapter comes from Ike being recruited by her, not from him changing anything.
 
-<!-- walk: y1v2 ch3 → p.65 -->
 
 ### y1v2 p.51 — Ch.3 §3.1: the Horikita fantasy, stated in front of the class
 [says] (p.51) “Just to be sure, there’s really nothing between you and Horikita?”
@@ -280,3 +277,31 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:ike-kanji] (p.51) The three of them run a rivalry about who gets a girlfriend while his own suspension clock runs down; Yamauchi's "But the Horikita of your dreams seems to have tossed you aside, Sudou" lands, and he answers "Well, I guess so. Damn it! Now I feel all depressed."
 
 <!-- walk: y1v2 ch3 → p.65 -->
+
+### y1v2 p.74–82 — Ch.4 §4.1: he never claimed a witness, and nobody had understood that
+[says] (p.74) “What happened today? Did you make any progress?” — he comes to the conference at AK's room the morning after being told Tuesday is the deadline.
+[says] (p.74) The sentence that quietly invalidates three days of searching: “Huh? I never said there was someone there. I said that it felt like someone was there.”
+[scene] (p.75) While the group works he plays a phone basketball game and celebrates: "After he won the match, he struck a victory pose." — AK's title for it: "I think the game was called Generation of Miracles or something."
+[scene] (p.75) His temper keeps Ike from saying what Ike thinks: "Even though Sudou couldn’t really help, Ike and Yamauchi still appeared disgruntled at the sight of him. However, they concealed their dissatisfaction, probably because they were scared of Sudou’s counterattack."
+[says] (p.76) “Did you decide to help out? I’m super glad you’re here.” — to Horikita, five minutes after she refused him in the cafeteria; AK notes he "was happiest to see her".
+[says] (p.78) His one piece of sharp thinking in the chapter, wasted on a name: “So you’re saying that there’s a high probability that this Sakura, or Kokura, or whoever is the witness?” — AK: "A sharp observation, something a fool would be unlikely to say."
+[says] (p.78) “Did you really do this for me, after all?!” and, after she denies it, “Umm. But still, the point is that you saved us, right?”
+[says] (p.79) “Yeah. I’m happy there’s a witness, but who’s Sakura? Do you know her?” and “Diagonally ahead to the right? I can’t remember at all. I’m sure there’s someone there, though.”
+[says] (p.81) “What a tsundere.” — "Sudou wore a happy smile, chuckling and scratching his nose with his finger," after Horikita leaves again; AK's correction: "She wasn’t tsun and she wasn’t dere... She was a non-tsun, non-dere."
+[scene] (p.90) He has the sense to see the witness is hostile to him and says so before anyone else: “Why is a gloomy girl like her my witness? This sucks. She doesn’t want to help me at all.”
+[says] (p.90) “I know. If she were planning to say something, she would have. She restrained herself, because she’s an adult.”
+[says] (p.91) “Don’t make jokes. I’m innocent. Innocent! I hit them, but it was out of self-defense.”
+[says] (p.91) “What the hell, you guys? Didn’t you say that you’d help me?” — as Ike gives up aloud and the class lets him.
+[says] (p.92) “Why do I have to suffer like this? You bunch of useless jerks!”
+[scene] (p.92) Kōenji's line about his "ugly" life ends the argument with a kicked desk: "Suddenly, there was a huge crashing sound. A desk flew through the air and splintered on the ground after being kicked. Everyone froze. Sudou, silent and intense, walked over to Kouenji."
+[says] (p.92) “Bring it on. I’ll smash your face in and take you down a peg,”
+[scene] (p.93) He is stopped by Hirata rather than by reason and leaves by force: "Sudou glared at Kouenji and left the classroom, slamming the door on his way out."
+[trait] (p.74–93) His whole defence is a feeling he cannot evidence and a story he told so loosely that the class built three days of work on a misreading of it; his violence stays available on demand and is the only thing in the chapter that reliably changes the room.
+
+### y1v2 p.146 — Ch.4 §4.10: the witness is secured for him, in a mall, without him
+[scene] (p.146) The obstacle the whole class failed to move for three weeks clears while he is not in the room: "In her own words, Sakura told us that she was the witness."
+[says] (p.146) What she is promised to him for: "Thank you, Sakura-san. I’m sure Sudou-kun will be really happy."
+[status] (p.146) By the close of Chapter 4 he has a witness, obtained by Kushida and Ayanokōji over a camera repair; he never asks Sakura anything, and the volume does not show him learning that she saw it.
+[trait] (p.90–146) The pattern the volume settles: other people's social labour is what saves him, and he is only ever told about it afterwards, as good news.
+
+<!-- walk: y1v2 ch4 → p.151 -->

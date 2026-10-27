@@ -880,10 +880,13 @@ def volume_page(ctx, v):
     if chapters:
         items = []
         for ch in chapters:
-            beats = "".join(f"<li>{S.esc(b)}</li>" for b in ch["beats"][:8])
+            # No cap: every bullet written into a chapter section is a
+            # published claim, so silently dropping the tail of a long
+            # chapter would be a content bug, not a layout choice.
+            beats = "".join(f"<li>{S.esc(b)}</li>" for b in ch["beats"])
             extras = "".join(
                 f'<li><strong>{S.esc(label)}</strong> — {S.esc(value)}</li>'
-                for label, value in ch.get("extras", [])[:10])
+                for label, value in ch.get("extras", []))
             setting = (f'<p class="who">{S.esc(ch["setting"])}</p>'
                        if ch["setting"] else "")
             items.append(
@@ -891,7 +894,7 @@ def volume_page(ctx, v):
                 f'<span class="pg">Ch. {S.esc(ch["n"])}'
                 f'{"" if not ch["pp"] else " · pp. " + S.esc(ch["pp"])}</span>'
                 f'<span class="ttl">{S.esc(ch["title"])}</span></div>'
-                f'{setting}<ul>{extras or beats}</ul></div>')
+                f'{setting}<ul>{beats}{extras}</ul></div>')
         chapter_html = ("<h2 id=\"chapters\">What happens, chapter by "
                         f"chapter</h2>{''.join(items)}")
 

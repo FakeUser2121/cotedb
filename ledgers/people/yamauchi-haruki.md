@@ -116,7 +116,6 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [rel:sudou-ken] (p.42, p.45) The same boy who supplies the class's proof that Sudou is a habitual bully is then trusted as "one of us" when Sudou needs helpers; AK notes the ranking his own name gets behind Yamauchi's.
 [rel:ike-kanji] (p.42) His accusation is spoken to Kushida by name and lands because the class already half-believes it — he says out loud what Sudou has bragged about to him and Ike privately.
 
-<!-- walk: y1v2 ch3 → p.65 -->
 
 ### y1v2 p.48–52 — Ch.3 §3.1: the other half of the crush council
 [says] (p.48) “No way. You seriously think she’ll stoop to your level, Ike?”
@@ -129,7 +128,6 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [rel:kushida-kikyou] (p.50) She is his stated girlfriend target, named twice in one breath; AK's pity for her is aimed at exactly this pair.
 [rel:horikita-suzune] (p.51) He is lost in a Horikita fantasy while she is, at that same table, refusing Sudou outright — the gap between his version of her and the real one is the joke AK records.
 
-<!-- walk: y1v2 ch3 → p.65 -->
 
 ### y1v2 p.54, p.61–63 — Ch.3 §3.2–3.3: held in the classroom, then frozen in Class B
 [scene] (p.61) Conscripted as the waiting crew while Kushida chases Horikita: "“Okay!” the boys chorused."
@@ -139,3 +137,19 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [limit] (p.54–63) He is asked to canvass and does stand in a doorway; no witness lead in Chapter 3 is ever traced to him.
 
 <!-- walk: y1v2 ch3 → p.65 -->
+
+### y1v2 p.79–82 — Ch.4 §4.1: he has the only confident opinion of Sakura, and it is invented
+[scene] (p.79) He is the one surprised by Sudou's blankness about the girl who sits near him: "Yamauchi appeared quite surprised."
+[says] (p.80) “Can’t we just go to Sakura’s room right now? We don’t have much time.” — AK: "I thought that Yamauchi’s proposal seemed innocuous, but it all came down to Sakura’s personality and behavior."
+[says] (p.81) “She’s plain, that’s it. Talk about a waste, man. Like pearls before swine.” — AK's staging of the line: "While Yamauchi spoke, he gestured with his hands near his chest, to represent Sakura’s breasts."
+[says] (p.82) “Uh, ahh…well, I may or may not have said something like that.” — cornered by Ike's memory of a confession to Sakura.
+[says] (p.82) “N-no, I wasn’t. I wasn’t lying. It was just a misunderstanding. It wasn’t Sakura; it was a girl from the next class over. Not a gloomy and ugly girl like Sakura. Err, hold on. Sorry, I got a message.” — AK: "Yamauchi dodged the question by whipping out his phone."
+[trait] (p.81–82) He will say anything about a girl he has never spoken to and retract it in the same breath to stay socially safe; his cruelty is reflexive and his cowardice immediate.
+[rel:sakura-airi] (p.82) The volume's only claim that anyone ever confessed to her is a claim he withdraws under pressure — and the withdrawal describes her as "gloomy and ugly" while doing it.
+
+### y1v2 p.129, p.148 — Ch.4 §4.8, §4.11: he is a category in someone else's phone etiquette
+[feat] (p.129) He is ruled out of Kushida's errand before it is offered: "If she’d invited Ike or Yamauchi along, they would have had eyes only for Kushida."
+[status] (p.148) In the narrator's ranking of callers he is in the call-back-later tier: "If it were Ike or Yamauchi, I’d call them back later. But if it were Horikita…I’d have to think about it."
+[note] (p.129–148) He has no scene of his own in the second half of Chapter 4; both mentions are the class's assumptions about him rather than anything he does.
+
+<!-- walk: y1v2 ch4 → p.151 -->

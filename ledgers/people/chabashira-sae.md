@@ -183,7 +183,6 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [back] (p.18) Ayanokōji is the only one who hears the rider as a warning: "There was deeper meaning behind Chabashira-sensei’s words."
 [back] (p.16) AK's memory of her entrance-day line is what taught the class to spend: he "understood that our homeroom teacher, Chabashira-sensei, hadn’t been kidding when she told us, 'At this school, you can buy anything with your points.'"
 
-<!-- walk: y1v2 ch2 → p.39 -->
 
 ### y1v2 p.22 — Ch.2 §2.3: collecting Sudou for the faculty room
 [says] (p.22) “Sudou. I have to talk to you about something. Come to the faculty room,”

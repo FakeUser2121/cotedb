@@ -45,3 +45,18 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:hirata-yousuke] (p.43) Seconding his stance is enough to open the flood of support; she moves the girls as a block, which is where her influence in Class D actually lives.
 
 <!-- walk: y1v2 ch3 → p.65 -->
+
+### y1v2 p.66–67, p.83 — Ch.4 §4.0 & §4.2: she wants Class A out loud, and is judged too blunt for Sakura
+[says] (p.67) “I think what you’re saying is reasonable, Hirata-kun, but I still want my points. The students in Class A get nearly 100,000 points every month. I’m super envious of them. There are girls in their class who buy lots of stylish clothes and accessories. Aren’t we just the bottom of the barrel compared to them?”
+[scene] (p.67) Her posture while the class pleads: "Karuizawa’s legs dangled over her desk. People looked bitter when she pointed out the stark difference between our classes."
+[says] (p.67) “Why couldn’t I have been in Class A from the start? If I were in Class A, I’d probably be loving every second of my student life.”
+[trait] (p.66–67) She says the class's unsayable arithmetic in front of everyone and then makes it about her own life — the strength-of-will half of the pair AK set against Kushida's softness now has a policy position.
+[scene] (p.66) Her status in the Sudou case is relational before it is moral: "Karuizawa wore a particularly proud expression, perhaps because she was the one he’d chosen to be his girlfriend."
+[limit] (p.83) Hirata rules her out of the witness interview in advance, and AK agrees with the reasoning: "Also, if I asked Karuizawa-san to talk with her, that might cause a few problems." — "A conversation between the super assertive Karuizawa and Sakura-san was difficult to imagine."
+[rel:hirata-yousuke] (p.67, p.83) She answers his speeches with her own terms rather than opposing them, and her bluntness is treated by him as a liability to be routed around instead of an asset to be used.
+
+### y1v2 p.120 — Ch.4 §4.7: she survives in the volume as a standard, not a participant
+[feat] (p.120) "It seemed like many students were striving every day to couple up like Hirata and Karuizawa." — the only mention of her in the second half of Chapter 4, and it is a comparator other students are measured against.
+[note] (p.120) After her p.83 exclusion from the witness interview she has no scene, no line and no decision in Chapter 4.
+
+<!-- walk: y1v2 ch4 → p.151 -->

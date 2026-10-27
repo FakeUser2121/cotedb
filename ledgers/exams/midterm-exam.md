@@ -55,3 +55,12 @@ exam_id: midterm-exam · scope: ANHS first-year midterm examination (y1v1, May 2
 [status] (p.52–53) The reward the class was promised is still the horizon the boys talk over: “Hey, Sae-chan-sensei said that we’d have a vacation this summer, right?" — the vacation, not the scores, is what the midterm is remembered as in July.
 
 <!-- walk: y1v2 ch3 → p.65 -->
+
+### y1v2 p.116–117 — Ch.4 §4.6: the exam as the only lever, priced by a Class B student
+[says] (p.116) "I’ve heard rumors that we might be taking a vacation to a tropical island." — the reward Class D was promised at the end of the previous volume reaches the rest of the year as rumour.
+[thinks] (p.116) The link back to their own teacher: "That sparked a memory. I’d forgotten about it, but Chabashira-sensei had mentioned a vacation."
+[status] (p.117) "So far, the midterm is all that’s given us a chance to raise our class points, so losing at least a few points was unavoidable for us. I mean, even Class A has lost points." — two weeks after the results, Class B's representative states the midterm as the only point-raiser the school has run so far.
+[says] (p.117) Her expectation of what comes next: "I think there might be a hidden task, one that has a bigger impact on us than the midterms or final exams."
+[note] (p.116–117) Nothing in this stretch is a school announcement: the vacation is rumour, the point totals are a student's report, and the July final is named only as one of the two events the summer task would outweigh.
+
+<!-- walk: y1v2 ch4 → p.151 -->

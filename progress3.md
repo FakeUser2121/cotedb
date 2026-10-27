@@ -733,3 +733,51 @@ Yamauchi do not have their own pages: their Chapter 3 blocks render on
 `story/v/y1v2/index.html`; `systems/point-economy` renders inside
 `school/system/private-points.html` and `exams/midterm-exam` inside
 `school/exam/midterm-final-written.html`. Full gate: all checks passed.
+
+### Chapter 4 ships, and the chapter renderer was silently dropping its tail (site, 2026-10-27)
+
+The Chapter 4 evidence went in as one volume section plus fourteen ledgers'
+worth of scene rows, and the rebuild surfaced a content bug that had been in the
+volume pages from the start: `kb/site_sections.py` rendered a chapter block as
+`{extras or beats}` with the two lists capped at `[:8]` and `[:10]`. Every
+bold-labelled bullet in a chapter section — which is every beat, plus the page
+map, entity, system, thread notes — lands in `extras`, so a chapter with more
+than ten labelled bullets had its tail dropped with no warning, and any plain
+`beats` list was discarded as soon as one label existed. Chapter 4's section
+carries fifteen labelled bullets and published ten.
+
+Fixed at the renderer, not in the copy: both lists are emitted, in document
+order, with no cap, and a comment records why the cap cannot come back — a
+dropped bullet is a dropped claim, not a layout choice. Effect measured: the
+Volume 1 page is unchanged (55 labelled bullets before, 55 after), the Volume 2
+page went 15 → 30, and Chapter 4's page map, new-entity, new-system, open-thread
+and attribution-gap lines now reach readers.
+
+The wording gate earned its keep again: 14 problems on the first pass, all of
+them pipeline vocabulary in prose this session had written — a heading phrased as
+"the walk to school", a scene line telling the reader that "the walk should not
+over-read", and two older lines using "the ledger records" / "His ledger of".
+Five strings rewritten in reader language; the checker was not loosened. The
+gate's own regex was left alone, including the `the walk (back|home|there|away)`
+exception, because the new phrasings ("walking to school", "the route to school")
+are what the prose should have said anyway.
+
+Counts after the rebuild, against the Chapter 3 commit: 161 pages (unchanged),
+search records 776 → **778**, site links 17092 → **18094** checked with 0 bad,
+cross-page `a.cite` links 735 → **1034**, plain `.pageref` references 4343 →
+**5657**, `details.citebox` still 0, ledger rows on the site 5468. Print bundles
+grew with the evidence: guides 22, **people 140**, **school 46**, **story 164**,
+**topics 199**, world 34 pages. Determinism re-measured across two consecutive
+builds: `a6398f038cda4e85e0f920a3c2bbe0d3` (was `7b912f598b4fed8f5aa0748bdb755744`
+at Chapter 3), and `--docs` mirrors to the same tree.
+
+Render locations checked rather than assumed: the Ichinose, Sakura, Kushida,
+Horikita and Ayanokōji blocks go to their own pages under `people/`; Ike,
+Yamauchi and the second-hand Hirata/Karuizawa/Kōenji rows go to
+`people/minor/i.html`, `people/minor/y.html` and their named pages;
+`systems/point-economy` renders inside `school/system/private-points.html`;
+`exams/midterm-exam` inside `school/exam/midterm-final-written.html`; the Chapter
+4 narrative section inside `story/v/y1v2/index.html`, where it aggregates into
+`topics/points.html`, `topics/results.html`, `topics/relationships.html`,
+`topics/who-knew-what.html` and `topics/expulsions.html`. Full gate:
+`share_check --site --print --pdf` all checks passed.

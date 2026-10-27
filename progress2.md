@@ -397,3 +397,60 @@ Verification after the writing: `verify2 y1v2` 276 [says] lines (was 245),
 wording gate then caught five lines of pipeline vocabulary that this fan-out
 had introduced ("this ledger", "the walk to the entrance") and they are
 rewritten in reader language; see progress3 for the site numbers.
+
+### y1v2 Chapter 4: An Unexpected Witness is closed (walk, 2026-10-27)
+
+Read pp.66–151 in three sub-reads (66–96, 97–115, 116–151) and fanned out to
+every ledger the chapter touches: ayanokouji-kiyotaka, ichinose-honami,
+sakura-airi, kushida-kikyou, horikita-suzune, sudou-ken, hirata-yousuke,
+karuizawa-kei, ike-kanji, yamauchi-haruki, kouenji-rokusuke,
+systems/point-economy, exams/midterm-exam, volumes/y1v2. 995 ledger lines added
+against the previous commit; one brand-new volume section (Ichinose) and the
+first Chapter 4 rows for Sakura, Kōenji, Karuizawa, Hirata, Ike and Yamauchi's
+second halves.
+
+What the chapter actually turns on, in the order the book spends it: the class's
+homeroom audience about buying a class change (pp.68–72), Horikita naming a
+witness off an observation nobody else logged (p.77), the approach failing in
+public (pp.86–90), the special-building walk where Class B offers help (pp.97–
+107), Horikita alone in his room saying the dangerous sentence (p.112), then
+eleven pages that are not about Sudō at all — the walk to school, the point
+figures, the class-sorting theory and the confession behind the gymnasium
+(pp.116–127) — before the witness is finally secured in a shopping mall by a
+camera repair (pp.132–146). The chapter ends on three phone calls, none of them
+finished (pp.147–151).
+
+Attribution discipline, because this chapter is a two-hander with untagged
+lines: a [says] row was written only where the translation names the speaker or
+fixes it by an act ("I asked", "she replied", "the clerk said", "Kushida
+murmured", "I cut Ichinose off before she could finish"). Four places where the
+speaker is genuinely undecidable are recorded as gaps in the volume section
+instead of being guessed — the modest reply in the p.129–130 phone exchange, the
+"does she photograph people" question (p.142), the opening exchange of the p.147
+night call, and "You kind of look suspicious…" (p.136).
+
+Forward-only knowledge stays out of these rows. What the store clerk actually
+recognises, and what the unnamed mall purchase becomes later in the volume, are
+recorded as open threads at their real pages (pp.140, 143–144) and not written
+into Chapter 4; the two-week repair is noted as outlasting the chapter, which is
+what the chapter itself knows.
+
+New named entities recorded: Ichinose's first name (p.109), Hoshinomiya-sensei
+through Class B's report (p.108), Chihiro (pp.125–127), Sotomura "the Professor"
+returning by name (p.143), Yukimura named once (p.119), the P.E. instructor
+Higashiyama-sensei's 5000-point promise (p.71), and the school-licensed mall
+stores with their clerk (pp.138–141).
+
+Translation defects kept as printed rather than silently tidied: "My dry
+laugher echoed" (p.118), "That…wasn’t in the any of the hundred million books"
+(p.121), "I don’t how to respond" (p.124), "wellinformed" (p.142),
+"Sudoukun"/"Ayanokoujikun" run-togethers (pp.116, 129). Each is flagged in the
+row that carries it.
+
+Housekeeping the fan-out exposed: repeated identical position stamps had
+accumulated in six files (one per append, instead of one per chapter boundary).
+A dedupe pass kept the last stamp of each kind, so each ledger now carries one
+marker per chapter at its boundary. Verification after the writing:
+`verify2 y1v2` **522** [says] lines (8 too short/skipped), `verify3 y1v2` **439**
+other quoted lines, both ALL PASS. See progress3 for the site numbers and for
+the renderer bug this chapter exposed.

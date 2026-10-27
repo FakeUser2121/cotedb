@@ -414,7 +414,6 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [scene] (p.46) She takes her tray and sits elsewhere in the cafeteria; AK watches her "looking slightly irritated" while the group tries to work out her reasons without her.
 [says] (p.47) “What idea? To toss me out like the trash?” (Sudou throwing her refusal back at AK)
 
-<!-- walk: y1v2 ch3 → p.65 -->
 
 ### y1v2 p.54–57 — Ch.3 §3.2: walked out on, chased down, and still not moved
 [scene] (p.54) Announces "All right, I’m going to the dorms," nods "without hesitation" and leaves; she "didn’t quail under everyone’s gazes, which all expressed variations on 'You’re leaving?'"
@@ -431,3 +430,99 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [back] (p.60) AK's gloss on her motive, said only in his own head: "Horikita wasn’t the type to teach through kindness. She didn’t feel an obligation to others."
 
 <!-- walk: y1v2 ch3 → p.65 -->
+
+### y1v2 p.67–73 — Ch.4 §4.0: the class-change question, and a point-based reason to save Sudou
+[feat] (p.67) She is the only student in the room who reacts to the class's griping with contempt, and AK is the only one who sees it: "Horikita spontaneously broke into derisive laughter in response to Ike and Karuizawa’s delusions. As her neighbor, I was the only one who noticed."
+[scene] (p.67) Her reading material while the class argues about points: "Horikita immediately took out a library book and began reading, almost as if she was trying not to be distracted by the noise. At a glance, I saw she was reading Dostoevsky’s Demons."
+[scene] (p.68) Chabashira's announcement of a paid class change lands on her first: "Horikita looked up from her book, probably trying to gauge whether Chabashira-sensei was lying."
+[says] (p.70) "May I ask one question, please?" — AK: "The watchful Horikita raised her hand. She looked quite determined, considering this was a potential road to Class A."
+[says] (p.70) "What is the highest number of points that a student has saved since the opening of this school? I’m just asking for the sake of reference."
+[says] (p.70) "So, you’re saying that even if we were to use criminal methods, 12 million points is about the limit?" — AK's tag: "Horikita muttered."
+[scene] (p.70) She drops the subject the moment the answer arrives: "Horikita returned to reading, likely feeling idiotic for bothering to raise her hand at all."
+[says] (p.72) "We should save him because he’s in a club?" — her first question back to AK's argument that Sudou has point value.
+[says] (p.72) "I have a hard time imagining that he’d use his points altruistically, though."
+[says] (p.73) "I won’t say that I’ll help, but I suppose I ought to acknowledge Sudou’s existence, at least a little." — the movement AK gets out of her in this chapter, stated as little as possible: "Horikita’s language was harsh, but she acknowledged the connection to her own interests."
+[trait] (p.67–73) She asks the school for data, not for sympathy: the only two questions she volunteers in the chapter are about the maximum points ever saved and whether the rule is a lie — and she stops arguing the moment the arithmetic says no.
+[rel:ayanokouji-kiyotaka] (p.68) Chabashira's claim that a class can be bought is verified by exactly two people in the room, and the teacher's glance names them: "Chabashira-sensei shot a quick glance over at Horikita and me. We had tested out that very method ourselves by buying a test point from the school."
+
+### y1v2 p.75–81 — Ch.4 §4.1: she names the witness, and refuses the credit
+[scene] (p.75) She appears at AK's door unannounced, the first time in the volume she seeks him out: "Just then, my doorbell rang and a visitor appeared... While I considered who this new visitor might be, she peered through the door."
+[says] (p.75) "Have you made any progress finding the witness?" — AK: "asked Horikita, looking as if she already knew the response."
+[says] (p.76) "I’m only telling you this because it’s you, but I may have found out something—" — she stops mid-sentence on seeing shoes at the door and turns to leave; Kushida's wave forces her in.
+[says] (p.76) "I didn’t particularly plan on helping. You don’t appear to have found the witness yet, right?"
+[says] (p.76) Her verdict on Kushida's plan, given without being asked to join it: "I wouldn’t say it’s a bad plan. Provided you have sufficient time, your labors may actually bear fruit."
+[says] (p.77) "I’ll give you just one piece of advice, to help your pathetic odds," — then the advice itself: "It’s hard to see what’s right in front of you. If someone actually witnessed Sudou’s incident, then that person is close by."
+[says] (p.77) "Sakura-san." — then, on being pressed: "She’s the witness. She saw the incident."
+[says] (p.77) The whole method, in one answer: "When Kushida-san said that she was looking for a witness in class, Sakura looked down. A lot of students were staring at Kushida-san. Sakura was the only one who didn’t appear interested. She wouldn’t have acted that way without some connection to the incident."
+[feat] (p.77) AK's measure of what she did: "I hadn’t noticed that at all. I was genuinely impressed by Horikita’s observational prowess. She’d noticed a classmate’s very minor gesture." — and his summary of the chapter's turn: "While we’d been paralyzed by uncertainty, Horikita had stepped up and taken control."
+[says] (p.78) "No, Sakura-san is undoubtedly the witness. Her actions confirmed it. Although she may not admit to it, she is definitely the one."
+[says] (p.78) She rejects the rescue narrative outright: "Don’t misunderstand. I just didn’t want to waste more time looking for the witness, and letting other classes see us in such a shameful light. That’s all." and "You are free to interpret things however you wish, but I’m telling you that you’re wrong."
+[limit] (p.73, p.78) She will move on reasons but never on appeal — the difference between AK's point argument, which lands, and Ike's or Sudou's gratitude, which she calls wrong.
+[feat] (p.78) Ike's playful shove on the shoulder ends with her tossing him to the ground and putting him in a headlock: "Don’t touch me. This is your one warning. The next time you try it, I’ll despise you all the way to graduation." AK's note on the technique: "those weren’t the defensive moves of a normal girl. Since I knew that her older brother practiced karate and aikido, she might have learned something, too?"
+[status] (p.81) She leaves the second the room turns to teasing her — "Goodbye." — before anyone can convert her help into belonging.
+[rel:kushida-kikyou] (p.76–80) Kushida is the one who physically keeps her in the room and then the one who asks for her advice; she answers Kushida's plan with a judgement, not participation.
+[rel:sudou-ken] (p.78) She refuses to let him believe she did it for him, twice, in the same breath in which she hands him the witness.
+
+### y1v2 p.88–94 — Ch.4 §4.2–4.3: she writes Sudou off out loud, and prices the witness
+[says] (p.88) "My, how unfortunate. Kushida failed to persuade her." — spoken as Kushida's approach to Sakura collapses in front of the class; AK agrees: "Horikita was correct. If Kushida couldn’t do it, then I didn’t think that anyone else in our class would be able to."
+[says] (p.90–91) The thesis she alone will say, that a bad witness is a better outcome: "She won’t testify on your behalf. They’ll determine you caused the incident. In the end, Class D will be affected by your actions, but we’ll be okay. We have testimony that they lied about the violence. It’s hard to imagine that the school would penalize us by more than 100 or 200 points for being involved in this incident. That way we’ll only lose 87 points, and you won’t face expulsion. However, we’ll shoulder more of the blame than Class C will."
+[trait] (p.91) AK's tag on that speech: "Horikita relentlessly spoke her thoughts out loud, as if she’d been hiding them deep inside her all this time."
+[says] (p.91) "I don’t think self-defense is all that helpful in this case." — to Sudou, after he invokes it again.
+[says] (p.91) "Even your friends don’t wish to help you. How unfortunate," — and when Sudou calls the class useless jerks: "What an interesting thing to say, Sudou-kun. Haven’t you noticed that everyone is turning on you?"
+[says] (p.93) "I don’t show mercy to people who don’t attempt to better themselves. He’s caused us nothing but harm, and has no redeeming features." — AK's silent counter: "Well, you don’t exactly show any mercy even to people who do attempt such things."
+[says] (p.94) "I don’t intend to deny that it could happen in 10 years’ time, but I’m looking for things to help me reach Class A right now. If he can’t help us right now, then he’s worthless to me."
+[scene] (p.94) Ike is the one she interrogates about Sudou's actual character: "You get along with Sudou, don’t you? You eat together with him."
+[rule] (p.94) Her evidentiary standard, delivered as a dismissal of the whole search: "Considering the circumstances, even if we get Sakura-san’s testimony, I believe it’ll have minimal impact. The school will probably have doubts about a witness just suddenly appearing from Class D." and "They’ll consider the witness’s testimony along with her possible intentions. They won’t take her word as absolute proof."
+[says] (p.94) The only case that would actually work: "the best and most miraculous situation would be if there was a trusted witness from another class or grade who saw the entire incident from start to finish. There isn’t anyone who fits that description, though," — AK: "said Horikita with confidence." and "I thought the same."
+[limit] (p.93) She takes no part in stopping Sudou from hitting Kōenji; the physical intervention is Hirata's, and her contribution is the sentence that made him angry enough to need it.
+
+### y1v2 p.95–107 — Ch.4 §4.4: she invites Ayanokōji out, and decides on Class B
+[scene] (p.95) She initiates, for the first time in the volume: "Ayanokouji-kun, do you want to head back together?" — and asks for a ten-minute stop on the way, "It should only take about 10 minutes."
+[feat] (p.95–96) She absorbs an unasked-for physical check without punishment: after AK's hand goes to her forehead she says only "Do you mind? Your hand." — where minutes earlier she had put Ike in a headlock for touching her shoulder, a contrast AK's own line records.
+[says] (p.97) Her first question at the special building is about him, not the case: "You’ve really changed, haven’t you? It’s odd that you stuck your neck out in this case. The witness has already been found, and we’ve confirmed that there’s nothing left to be done. What are you even trying to do?"
+[says] (p.98) "Well, your way of thinking isn’t relevant to me, Ayanokouji-kun, so you’re free to think whatever you like. Also, I appreciate that you say those two are hard to deal with." — and on being asked whether she just hates Hirata and Kushida: "Having a common enemy tends to lead to cooperation."
+[feat] (p.98) She audits the building for evidence rather than waiting for it — "Looks like there aren’t any here. Too bad," and, when asked what she means: "Cameras, like the ones in the classrooms. If there were cameras here, we’d have solid evidence. I can’t find any." — and sets the rule's boundary: "If I had to think of places where they wouldn’t be installed, I’d probably say the bathrooms and the locker rooms. Right?"
+[says] (p.99) Her actual objective, once she stops pretending she has none: "Sudou has many qualities I can’t stomach. However, I want to lessen the blame they’re placing upon him. The best possible outcome is we’ll still have some points, even if Class D’s image worsens." — AK's note: "She sounded honest. Normally, she wasn’t quite so candid."
+[says] (p.99–100) "Like I said, unless a perfect witness appears, proving Sudou-kun’s innocence will be impossible. If those Class C students admitted that they lied, I suppose things might turn out fine. Do you think that’s likely?"
+[scene] (p.101) She steps at a stranger the instant an opening appears: "I have something I’d like to ask you, Sakura-san," — and AK has to physically restrain her from pursuing: "I tried to gently restrain Horikita, gesturing for her for stop chasing Sakura."
+[says] (p.104) "I can’t help but think there’s an ulterior motive," — to Ichinose, uninvited, before any question is answered.
+[says] (p.105) "I don’t want to talk with someone who is ‘just curious.’ Do what you want." — AK: "Horikita tried to put some distance between them."
+[says] (p.106) "Are you finished? You heard what you wanted." — "Horikita spoke sharply and with a sigh, trying to drive Ichinose away."
+[says] (p.106) The reversal, in one sentence, after weighing nothing out loud: "Let’s accept her help, Ayanokouji-kun." — AK: "Horikita had made a decision, probably determining that the benefits outweighed the risks."
+[feat] (p.106) She gives her name first, which AK reads as the act of opening an alliance: "Horikita gave her name candidly, as if doing so approved our cooperative relationship."
+[says] (p.107) "This is the first I’m hearing about it affecting our class points. I’ll have to complain to Chabashira-sensei later," — AK: "mumbled Horikita, a little disgruntled."
+[rel:ayanokouji-kiyotaka] (p.102) She accepts being cast as the threat in his speech to Sakura without argument: "Are you talking about me?" — muttered, then dropped.
+[rel:ichinose-honami] (p.102–107) Hostility on sight, then a partnership in the same afternoon: she is the one who says no twice, the one who says yes, and the one whose name seals it.
+
+### y1v2 p.108–113 — Ch.4 §4.4–4.5: she follows him to his room and names what she thinks he is
+[says] (p.108) Her only environmental protest in the volume, delivered to a stranger: “A school that constantly runs air conditioning in empty buildings and is unkind to the environment is the worst,” — Ichinose laughs anyway: "Ha ha ha, that’s probably true. You’re pretty interesting."
+[scene] (p.109) She outsources the social half of the alliance to him with a look: "Horikita shot me a look that seemed to say, I don’t want to do it. Give her yours."
+[says] (p.110) She declines a spare key to his room before being offered one, and calls the visit itself a failing: “For your room? Ike-kun asked earlier if I wanted one. I refused.” … “After all, it’s rare for me to visit your room, Ayanokouji-kun. Besides, coming here is a shameful act in itself. A disgrace. Understand?” — AK: "I wasn’t hurt at all. I definitely wasn’t thinking anything like, Wow, that was unexpectedly harsh."
+[scene] (p.110) The one moment of her own body language he gets to see, and she names it herself: “Why are you tracing letters on the wall with your finger?” / “To hide my pounding heart. Or something.”
+[says] (p.110) Her agenda for the visit, stated as two problems: “Ayanokouji-kun, I want to hear your thoughts on Sudou-kun’s case once again. Also, I find Kushida-san’s actions a bit concerning.”
+[says] (p.110–111) "Impossible. The very person in question didn’t recognize what was happening. I’m only now reluctantly offering to help for the sake of our class. Frankly, I still think it would have been better to abandon him."
+[says] (p.111) The pedagogical claim she makes for not saving him: “That was different. Even if we managed to miraculously prove his innocence, do you think he’ll mature? Saving him might have the opposite effect.” — AK's tag: "Her defiant glare seemed to say, Do you understand my point?"
+[feat] (p.111) She turns his own reasoning back on him in real time: “Knowing Sudou’s flawed personality, you realized from the very beginning how difficult it would be to prove his innocence, didn’t you? That way, it’s easier to think he’d be better off accepting his punishment. Especially better for those who hate him.” — AK's record of being caught: "I felt like I’d been backed against a wall, unable to run. If I tried to forcefully deny, she would just dig deeper."
+[says] (p.111) Her verdict on the rest of Class D, delivered as mercilessly as AK notes: “Kushida-san and Ike-kun and the others haven’t noticed at all, it seems. They simply believe in Sudou-kun, and want to save him from the lie for his sake and our class’s sake. They don’t understand the urgency of the situation.”
+[says] (p.111) “A little bit? So she realized it by herself, then?” and “You told her, didn’t you?” — AK: "She cornered me with her words. It was like being interrogated. A little scary."
+[says] (p.111–112) The accusation that he engineered the midterm operations: “You came up with the idea of getting the old test questions, and purchasing exam points. I can’t say I’m surprised. You do seem quite cunning at times, but…I’m dissatisfied.”
+[says] (p.112) Her full description of him, the volume's closest attempt at a characterisation of Ayanokōji by another student: “Honestly, there’s so much about you that I don’t understand. You’re a mystery. You’re the most difficult person to predict in our class. You’re versatile, yet you often idle your time away. You never seem to stay still. It’s as though you cannot be categorized.”
+[says] (p.112) Then the sentence he cannot deflect: “I guess what I should say is that you’re just blending in and hiding your true talents. You’re hiding in plain sight. You disgust me more than anyone else.”
+[limit] (p.112) She does not actually know what he did, and stops at a feeling: "I see. I wondered if being called out like that was normal. It seemed I’d taken the bait and gotten caught in Horikita’s trap. A small failure on my part." — AK's own accounting of the conversation's cost.
+[says] (p.112) Her Kōenji assessment, offered as the counter-example to his mysteriousness: “He’s surprisingly easy to understand. He studies well, is athletic, and gets excellent grades. His personality is the problem. In the end, I can easily categorize and summarize his behavioral problems in only a few words: he’s self-centered.”
+[trait] (p.110–113) She is candid only in private and only with one person; the entire volume's worth of her actual analysis of Class D — Sudou, Kushida, Ayanokōji, Kōenji — is delivered in his room in one sitting, and none of it survives as anything but privately held when she re-enters a classroom.
+[rel:ayanokouji-kiyotaka] (p.110) AK's own note on the setting, which should not be over-read: "I wondered why I felt a little nervous being alone with Horikita behind closed doors."
+[status] (p.113) AK's projection of her, the chapter's last word on her: "At this rate, when she reached adulthood, she’d probably become a teacher like Chabashira-sensei."
+
+### y1v2 p.118–130 — Ch.4 §4.6–4.8: named by everyone, present nowhere
+[feat] (p.118) The narrator's roster of who is actually carrying Class D, in his own words: "Actually, the ones who had to work especially hard were Horikita, Hirata, and Kushida."
+[feat] (p.119) The first name in his private list of students wrongly sorted into Class D: "Horikita, Kouenji, and Yukimura were undoubtedly three people who deserved to be at the top based on their academics alone."
+[says] (p.129) Kushida, relaying her conclusion to the one person Horikita will not speak to directly: "Horikita-san seems convinced that Sakura saw everything."
+[says] (p.130) Kushida's summary of her, offered as the standing question of the class: "Speaking of special, don’t you think that Horikita-san is way more special than someone like me? She’s great at studying and excels at sports. It makes me wonder why she’s in Class D."
+[says] (p.130) Kushida's probe about her: "But doesn’t she behave normally with you, Ayanokouji-kun?"
+[says] (p.130) How Ayanokōji describes her to a third party, which is the only version of her Kushida receives: "When I think of my relationship with Horikita, it’s like there’s a wall between us. Or perhaps I should say that’s the extent of our relationship, if you understand what I’m getting at."
+[feat] (p.130) His withheld verdict on her exceptionalism, kept off the phone: "Horikita wasn’t special. She belonged to a unique class of people. I kept quiet, though, afraid that if I badmouthed her she’d find out about it."
+[limit] (p.129) The plan that would place her beside the witness is cancelled before it is proposed, by the person organising the errand: "While taking Horikita along would probably be the best option, it was delusional to think that Horikita and Kushida would spend their day off together."
+[note] (p.118–130) All of this is secondhand. The second half of Chapter 4 contains no Horikita scene; her last appearance is alone with Ayanokōji in his room, and the class's entire summer-facing strategy is discussed without her in the room where it is decided.
+
+<!-- walk: y1v2 ch4 → p.151 -->
