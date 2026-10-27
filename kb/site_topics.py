@@ -198,6 +198,17 @@ def scene_href(ctx, kind, stem, block):
     return f"{page}#ev-{scene_anchor(block)}"
 
 
+def pin_for(ctx, kind, stem, vol, block, entry, base="topics"):
+    """The page number on a summary row, as a link to the scene it was read
+    from. Rows on a topic or recall page are second-hand: the scene itself,
+    with its expandable proof, lives on the entity's page, so the number is
+    the reader's way back to it."""
+    if not entry["pages"]:
+        return ""
+    href = posixpath.relpath(scene_href(ctx, kind, stem, block), base)
+    return E.pin(ctx, vol, entry["pages"], href=href)
+
+
 def entity_link(ctx, kind, stem, base="topics"):
     """Name a ledger's subject as a link to its page. Ledgers are filed under
     the id the walk wrote, pages under the database's; entity_page_href
@@ -218,8 +229,7 @@ def entry_row(ctx, kind, stem, vol, block, entry, base="topics"):
     the text, and the page it is on. The scene title and the page open the
     block on the entity page, so a row can be followed to its source."""
     link = posixpath.relpath(scene_href(ctx, kind, stem, block), base)
-    pin = (f'<a class="cite" href="{link}">{S.esc(entry["pages"])}</a>'
-           if entry["pages"] else "")
+    pin = pin_for(ctx, kind, stem, vol, block, entry, base=base)
     return (
         f'<div class="scene"><div class="head">'
         f'<span class="pg">{E.vol_chip(ctx, vol, f"{base}/x.html")}</span>'
@@ -276,7 +286,9 @@ def build_relationships(ctx):
             f'<div class="scene"><div class="head">'
             f'<span class="pg">{E.vol_chip(ctx, vol, "topics/x.html")}</span>'
             f'<span class="who">{S.esc(block["title"])}</span></div>'
-            f'<p>{S.esc(e["text"])}</p>{E.pin(ctx, vol, e["pages"])}</div>'
+            f'<p>{S.esc(e["text"])}</p>'
+            f'{pin_for(ctx, _k, _s, vol, block, e)}'
+            f'</div>'
             for _k, _s, vol, block, e in sorted(hits, key=lambda h: (
                 ctx["vols"][h[2]]["order"] if h[2] in ctx["vols"] else 999)))
         rows.append((len(hits), a,
@@ -305,7 +317,9 @@ def build_who_knew_what(ctx):
             f'<span class="pg">{E.vol_chip(ctx, vol, "topics/x.html")}</span>'
             f'<span class="who">{entity_link(ctx, "people", stem)}</span>'
             f'<span class="n">{S.esc(label)} · {S.esc(block["title"])}</span></div>'
-            f'<p>{S.esc(entry["text"])}</p>{E.pin(ctx, vol, entry["pages"])}</div>'))
+            f'<p>{S.esc(entry["text"])}</p>'
+            f'{pin_for(ctx, "people", stem, vol, block, entry)}'
+            f'</div>'))
     rows.sort(key=lambda r: r[0])
     body = "".join(r[1] for r in rows)
     return topic_shell(ctx, TOPICS[1], coverage_line(ctx), body)
@@ -366,7 +380,9 @@ def build_results(ctx):
             f'<span class="pg">{E.vol_chip(ctx, vol, "topics/x.html")}</span>'
             f'<span class="who">{entity_link(ctx, kind, stem)}</span>'
             f'<span class="n">{S.esc(block["title"])}</span></div>'
-            f'<p>{S.esc(entry["text"])}</p>{E.pin(ctx, vol, entry["pages"])}</div>'))
+            f'<p>{S.esc(entry["text"])}</p>'
+            f'{pin_for(ctx, kind, stem, vol, block, entry)}'
+            f'</div>'))
     rows.sort(key=lambda r: r[0])
     body = "".join(r[1] for r in rows)
     note = f"{len(rows)} recorded outcomes, each with the volume and page it " \

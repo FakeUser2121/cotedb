@@ -154,16 +154,18 @@
   }
 
   // Arriving at a folded scene (from search, a turning point, or a citation)
-  // should show that scene, not a closed row: open it before the browser
-  // settles on the anchor.
+  // should show that scene, not a closed row: open it, and any details it is
+  // nested in, before the browser settles on the anchor. A page pin points at
+  // the scene's proof box, which sits inside the scene's own <details>.
   function revealHash() {
     var id = (location.hash || "").slice(1);
     if (!id) return;
     var el = document.getElementById(id);
-    if (el && el.tagName === "DETAILS" && !el.open) {
-      el.open = true;
-      if (el.scrollIntoView) el.scrollIntoView({ block: "start" });
+    if (!el) return;
+    for (var n = el; n; n = n.parentElement) {
+      if (n.tagName === "DETAILS" && !n.open) n.open = true;
     }
+    if (el.scrollIntoView) el.scrollIntoView({ block: "start" });
   }
   window.addEventListener("hashchange", revealHash);
   revealHash();

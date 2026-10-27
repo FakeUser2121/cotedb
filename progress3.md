@@ -595,3 +595,43 @@ a folded scene reached by hash at 390 px opens with its top 162 px below a
 
 Still open from the last report: the "I remember it mattered" list is cut at
 80 rows after a sort by volume, so all 80 are Volume 1 Ayanokōji.
+### Page numbers stopped pretending to be buttons (site, 2026-10-27)
+
+Reported after the last push: the row page numbers (`p.30-31`) were bright
+and showed a pointer but did nothing, and the book is not on the site, so
+"where?" had no answer. My previous turn had gone the wrong way — it started
+turning every row number into a link to its scene's proof box. That work is
+reverted; a site without the book has nothing honest to link a per-row number
+to.
+
+The rule now written into the markup: **bright means it does something.**
+
+- `site_evidence.pin()` renders a row number as `<span class="pageref">` —
+  muted mono text, `cursor: auto`, no border, no background. It stays exactly
+  where it was, because a reader checking a claim needs the printed page.
+- `site_shell.chipify()` no longer emits `<span class="cite">` when the page
+  has no recorded text; that case is `.pageref` too, with the title "No page
+  text recorded from this citation yet". Before, an empty chip looked identical
+  to a chip with text behind it.
+- The scene chip that does open text gets a caret via CSS
+  (`details.citebox > summary.cite::after` → ▾, ▴ when open). Carets and
+  arrows are suppressed in print, where nothing opens.
+- A number that genuinely navigates — the summary rows on topic and recall
+  pages, which quote a scene held on another page — keeps the chip and gains
+  an arrow (↗). `site_topics.pin_for()` is now the single builder for those,
+  so the three hand-built call sites and `entry_row` cannot drift.
+- The Home "Reading a page" section states all three cases, including that the
+  book itself is not hosted here.
+
+Counts in the built site: on `people/ayanokouji-kiyotaka.html` 65 scenes, 63
+with an expandable page chip, 2 with only a plain page tag, and 425 plain page
+numbers; `school/system/private-points.html` 8 chips and 45 plain numbers;
+`topics/points.html` 41 arrow chips that navigate.
+
+Verified: clicking a scene chip flips `details.open` false → true and shows
+the verbatim lines with the source ("Year 1, Volume 1, page 16"); 1952
+fragment links across the site, 0 pointing at a missing page or a missing
+anchor; no horizontal overflow on eight sampled pages at 360/390/700/1024.
+Gate green, deterministic (`276fa93acf6ed183c10d9aa3e2fbb2f8`), docs mirrored
+(`26156c3ee48dc7684620400a7682e554`). PDFs moved again with the changed chips
+(topics 123 pages, +271 KB from the arrow chips; people 126).

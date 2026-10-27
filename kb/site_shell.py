@@ -341,7 +341,11 @@ def chipify(text, lookup):
     The visible label is the human one ("Vol. 1 p.247"); the file's own volume
     id never reaches the reader. Regions that are already a chip are left
     alone, so running this over an assembled page cannot nest one chip inside
-    another."""
+    another.
+
+    A citation with no recorded text is plain reference text, not a chip: the
+    bright chip is the site's one promise that clicking opens book wording,
+    and the site does not host the book."""
     if lookup is None:
         return text
 
@@ -356,7 +360,8 @@ def chipify(text, lookup):
             proof = []
         shown = f"{site_arch.volume_short(vol)} {label[len(vol):].strip()}"
         if not proof:
-            return f'<span class="cite">{esc(shown)}</span>'
+            return (f'<span class="pageref" title="No page text recorded '
+                    f'from this citation yet">{esc(shown)}</span>')
         lines = "".join(
             f'<div class="verb">{esc(p[:400])}</div>' for p in proof)
         src = f'<span class="src">{esc(site_arch.volume_label(vol))}, ' \

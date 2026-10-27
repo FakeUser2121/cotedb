@@ -331,3 +331,10 @@ Rendering only: `site_evidence.entry_html` now keeps a row's note, speaker
 and page inside one body cell, and the phone masthead no longer overflows.
 No ledger line was edited; the walk position (y1v2 ch1 still unstarted) and
 every coverage number are unchanged. See progress3 for measurements.
+
+### Page-number affordance (site, 2026-10-27)
+
+Markup and CSS only: row page numbers are plain reference text again, the
+scene chip keeps the only click target and now shows a caret, and cross-page
+summary numbers link with an arrow. No ledger line was edited and the walk
+position is unchanged (y1v2 ch1 still unstarted). See progress3 for counts.

@@ -587,6 +587,17 @@ ul.ledger li.e-note { background: var(--panel-2); border-radius: 8px;
   padding: 8px 10px; }
 ul.ledger li.e-note .mlabel { color: var(--school); }
 ul.ledger .pin { display: inline; margin-left: 8px; white-space: nowrap; }
+/* a page number with nothing behind it: quiet reference text, never a chip.
+   Bright + pointer is reserved for elements that actually do something. */
+.pageref { font: 500 12px/1.4 var(--mono); color: var(--muted);
+  white-space: nowrap; }
+ul.ledger .pageref { margin-left: 8px; }
+/* the caret is what separates "this opens the page's text" from a chip that
+   merely looks like one; an arrow is a chip that leaves for another page */
+details.citebox > summary.cite::after { content: " \25BE"; font-size: 10px;
+  opacity: .65; }
+details.citebox[open] > summary.cite::after { content: " \25B4"; }
+a.cite::after { content: " \2197"; font-size: 9px; opacity: .6; }
 ul.ledger a.rel { font-weight: 600; color: var(--hue); }
 @media (max-width: 620px) {
   ul.ledger > li { grid-template-columns: 1fr; gap: 2px; }
@@ -675,6 +686,8 @@ a.vlink { color: var(--hue); }
   .measure { max-width: 74ch; }
   .content { padding: 0; }
   body { background: #fff; font-size: 11pt; color: #000; }
+  /* paper cannot open anything, so the marks that promise it go */
+  details.citebox > summary.cite::after, a.cite::after { content: normal; }
   .print-cover { page-break-after: always; text-align: center; padding-top: 22vh; }
   .print-entity { page-break-before: always; }
   .citebox[open] { display: none; }

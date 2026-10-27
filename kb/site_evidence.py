@@ -46,20 +46,32 @@ def vol_chip(ctx, vol_id, out_rel, tag=False):
 
 
 def cite(ctx, vol_id, pages):
-    """'y1v1 p.21' -> a chip that opens the text sitting on that page."""
+    """'y1v1 p.21' -> a chip that opens the text sitting on that page.
+    Where no page text has been recorded, chipify renders plain reference
+    text instead, so the bright chip always means there is something to open."""
     if not pages:
         return ""
     return S.chipify(f"{vol_id} {pages}", ctx["lookup"])
 
 
-def pin(ctx, vol_id, pages):
-    """A page anchor inside a scene: visible, but not another copy of the
-    page's text. One expandable proof per scene is enough — a chip on every
-    entry would repeat the same page text fifty times and turn the page into
-    a dump."""
+def pin(ctx, vol_id, pages, href=None):
+    """A page anchor inside a scene.
+
+    The number itself is reference text — it tells you which page of the
+    printed volume to open. It is deliberately not a chip: a site without the
+    book has nothing to link a per-row number to, and a bright chip that
+    changes nothing teaches the reader not to trust bright chips. The scene's
+    own page chip above the rows is the one control that opens text.
+
+    `href` is only for rows on other pages (topics and recall lists) where the
+    number genuinely navigates to the scene it was read from."""
     if not pages:
         return ""
-    return f'<span class="cite">{esc(pages)}</span>'
+    if href:
+        return (f'<a class="cite" href="{esc(href)}" '
+                f'title="Open the scene this note was read from">'
+                f'{esc(pages)}</a>')
+    return f'<span class="pageref">{esc(pages)}</span>'
 
 
 def entry_html(ctx, entry, vol_id, out_rel):
@@ -76,10 +88,11 @@ def entry_html(ctx, entry, vol_id, out_rel):
     elif target:
         other = ctx["char_by_id"].get(target)
         if other:
-            href = posixpath.relpath(other["href"],
-                                     posixpath.dirname(out_rel) or ".")
+            other_href = posixpath.relpath(other["href"],
+                                           posixpath.dirname(out_rel) or ".")
             trail = (f' <span class="by">— '
-                     f'<a class="rel" href="{href}">{esc(other["name"])}</a></span>')
+                     f'<a class="rel" href="{other_href}">'
+                     f'{esc(other["name"])}</a></span>')
         else:
             trail = (f' <span class="by">— '
                      f'{esc(site_arch.display_name("", target))}</span>')
@@ -100,6 +113,7 @@ def scene_block(ctx, block, out_rel, *, show_vol=True, fold=False):
     scenes still reads as a list of moments, not a wall of transcript; the
     heading keeps the title, the pages and the proof chip visible."""
     vol = block["vol"]
+    anchor = re.sub(r"[^a-z0-9]+", "-", block["heading"].lower()).strip("-")[:48]
     head = ['<div class="head">']
     if show_vol:
         head.append(f'<span class="pg">{vol_chip(ctx, vol, out_rel)}</span>')
@@ -107,10 +121,10 @@ def scene_block(ctx, block, out_rel, *, show_vol=True, fold=False):
     if block["pages"]:
         head.append(f'<span class="pgs">{cite(ctx, vol, block["pages"])}</span>')
     head.append("</div>")
-    items = [entry_html(ctx, e, vol, out_rel) for e in block["entries"] if e["text"]]
+    items = [entry_html(ctx, e, vol, out_rel)
+             for e in block["entries"] if e["text"]]
     if not items:
         return ""
-    anchor = re.sub(r"[^a-z0-9]+", "-", block["heading"].lower()).strip("-")[:48]
     list_html = f'<ul class="ledger">{"".join(items)}</ul>'
     if fold:
         n_lines = sum(1 for b in [block] for e in b["entries"] if e["quote"])
