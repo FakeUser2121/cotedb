@@ -815,3 +815,112 @@ the Chapter 5 narrative section to `story/v/y1v2/index.html`, where it
 aggregates into `topics/points.html`, `topics/who-knew-what.html` and
 `topics/relationships.html`. Full gate: `share_check --site --print --pdf` all
 checks passed.
+
+### Chapter 6 ships, and a new ledger briefly split a character in two (site, 2026-10-27)
+
+Chapter 6 went in as one volume section plus ten ledgers' worth of scene rows,
+and it is the first chapter to add people pages rather than only fill existing
+ones. Three ledgers were created: `kanzaki-ryuuji`, `tachibana`, and `sakagami`.
+The first renders on `people/minor/k.html` because Class B's second is not a
+principal page; Tachibana gets her own `people/tachibana.html`; Sakagami needed
+care, because the roster already carried a mention-only `people/sakagami.html`
+stub.
+
+The first build exposed that as a duplication: a ledger creates a page by its
+file stem, so `ledgers/people/sakagami-sensei.md` produced a second page beside
+the roster page and the site briefly held 163 pages with the same teacher on
+two of them. The fix was the identifier, not the renderer — the ledger was
+renamed to `sakagami.md` with `char_id: sakagami`, the roster name kept the
+page, and the stub's "nothing has been read yet" copy was replaced by the
+chapter's rows. The rebuild settled at 162 pages.
+
+The wording gate caught the chapter's own phrasing once: "the walk out" appeared
+in one scene heading and in the volume's Chapter 6 paragraph, and the checker
+read it as pipeline vocabulary in reader copy. Both were rewritten as "leaving
+the hearing" / "on the way out"; the checker was not loosened. A second leak
+class — quoted lines from other characters sitting in a character's [says] rows —
+was caught by review rather than by a gate: Kushida's p.191 send-off had been
+recorded under Horikita and Sudō and was converted to [note] in both files
+before it could render as their speech.
+
+Counts after the rebuild, against the Chapter 5 commit: 161 → **162** pages,
+search records 778 → **793**, site links 18283 → **18870** checked with 0 bad,
+cross-page `a.cite` links 1089 → **1209**, plain `.pageref` references 6075 →
+**6908**, `details.citebox` still 0. Print bundles: guides 22, **people 153**
+(was 145), school 46, **story 172** (was 167), **topics 230** (was 209), world
+34 pages; print links 8933 → **9348** checked with 0 bad. Determinism
+re-measured across two consecutive builds:
+`4d4c5047d6dcf80f90afad6178a91bda`, and `--docs` mirrors to the same tree
+(173 files). The hash moved once mid-chapter, from
+`1d13757fddce1fb2e377854b95c65fc4`, when the audit found that Ike's and
+Yamauchi's p.190 glance at Sakura had been left only in Sakura's own page; two
+rows went into each of their ledgers and the site re-measured clean.
+
+Render locations checked rather than assumed: the Sakura, Horikita, Ayanokōji,
+Sudō, Ichinose, Chabashira and Manabu blocks go to their own pages under
+`people/`; Kushida and Hoshinomiya stay on theirs with small sections;
+Kanzaki's rows aggregate into `people/minor/k.html`; Tachibana renders at
+`people/tachibana.html`; Sakagami's rows replaced the mention stub at
+`people/sakagami.html`; the Chapter 6 narrative section renders at
+`story/v/y1v2/index.html` and aggregates into `topics/relationships.html`,
+`topics/results.html`, `topics/who-knew-what.html` and `topics/expulsions.html`.
+Full gate: `share_check --site --print --pdf` all checks passed.
+
+---
+
+## HANDOFF — site state and the exact next steps (written 2026-10-27, after y1v2 Ch.6)
+
+**Built state right now.** 162 pages, all reachable, max depth 3, 36 volume
+pages, 27 principal characters. Search index 793 records, 0 bad. Site links
+18870 checked, 0 bad. Cross-page `a.cite` 1209, plain `.pageref` 6908,
+`details.citebox` 0, wording leaks 0, nested chips 0, disclosure-rule
+violations 0, role-grouping problems 0, curated-typing leaks 0. Print bundles:
+guides 22, people 153, school 46, story 172, topics 230, world 34 pages; print
+links 9348, 0 bad. Deterministic tree hash across consecutive builds:
+`4d4c5047d6dcf80f90afad6178a91bda`; `docs/` mirrors it exactly (173 files).
+
+**Commands.** Full rebuild: `python3 kb/build_share_site.py` (prints page,
+record, bundle and pdf counts). Mirror to the published tree: `python3
+kb/build_share_site.py --docs` — this copies `share/site` → `docs/` and rebuilds
+nothing, so it must always follow a full build. Gate: `python3 kb/share_check.py
+--site --print --pdf`. Determinism: `md5_tree(Path('share/site'))` from
+`kb/share_check.py`, twice, on two consecutive builds.
+
+**How a character gets a page, learned the hard way twice.** Page identity comes
+from the roster (`cote_kb.db` characters) or, failing that, from the ledger file
+stem: `collect_metas` in `kb/build_share_site.py` takes roster ids in tiers 1–2
+and then adds every `ledgers/people/<stem>.md` stem. So a new ledger named
+`sakagami-sensei.md` sits beside the roster's existing `people/sakagami.html`
+and the site holds the same teacher twice (it did, at 163 pages, for one build).
+Name new ledgers with the roster id when one exists; rename the ledger instead
+of special-casing the renderer. Minor characters without their own page
+aggregate into `people/minor/<initial>.html` — Kanzaki, Ike and Yamauchi render
+there, and a page count that does not move after a chapter usually means the
+evidence landed on an aggregate page, not that it vanished.
+
+**What does not render.** `ledgers/places/*` and `ledgers/systems/*` are keyed to
+DB-curated rows (`loc_rows`, `system_rows`); a new file in those directories with
+no matching curated row produces no page at all. Do not create one to hold new
+facts — put place facts in the people/volume rows and system facts in the
+volume section's "New system facts" line, and only add a places/systems ledger
+when the curated row is being added too. (`ledgers/places/club-activities-
+building.md` was written and deleted for exactly this reason.)
+
+**Renderer rules already fixed, do not reintroduce.** `kb/site_sections.py`
+emits chapter blocks without length caps — a dropped bullet is a dropped claim,
+and both `extras` and `beats` print in document order. Page numbers stay visible
+but are only links when clicking does something; the citation chip surface is
+gone and `details.citebox` must stay at 0. One disclosure per region: a scene or
+ledger expander may not be duplicated by a chip. The wording gate's regex is
+part of the contract: rewrite the copy, not the checker (Chapter 6's "the walk
+out" became "leaving the hearing" for this reason).
+
+**Per-chapter site check, in order.** Rebuild → `--docs` → `share_check --site
+--print --pdf` → two consecutive `md5_tree` values equal → grep the changed
+`docs/**.html` for a distinctive phrase from each new section to prove it
+rendered where intended → only then write the progress entries with the measured
+numbers, never estimated ones.
+
+**Deploy.** Push `main`; the remote redirects to `FakeUser2121/cotedb` and
+Cloudflare serves the site. The repository is deliberately private and the
+github.io site is deliberately dead; there is no URL to quote back to the user.

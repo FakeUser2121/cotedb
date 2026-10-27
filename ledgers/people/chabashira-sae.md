@@ -229,3 +229,37 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [note] (p.164) The narrator's judgment of her method, kept as his: "As our teacher, Chabashira-sensei should have understood what kind of girl Sakura was."
 
 <!-- walk: y1v2 ch5 → p.189 -->
+
+### y1v2 p.192–193 — Ch.6 open: the rules she releases one at a time
+[scene] (p.191–192) The faculty room before the hearing; Hoshinomiya tries to tag along and Chabashira pushes her back inside.
+[says] (p.192) "What are you doing this time?"
+[says] (p.192) "Whenever you sneak out, that’s around the time I start to feel suspicious."
+[says] (p.192) "Of course you can’t. You know that outsiders cannot participate."
+[says] (p.192) "Well then, shall we be going?"
+[says] (p.192) "Of course not. This school does have rather complicated rules, but in cases such as these a settlement is reached between the homeroom teacher of the class in question, the concerned parties, and the student council."
+[note] (p.192) The venue is disclosed last, after Horikita has already agreed to attend; the narrator calls it her habit of revealing "an important detail right at the last minute."
+[says] (p.192) "If you want to stop, now’s the time, Horikita."
+[scene] (p.193) The fourth-floor student council room; she enters first and sets the proceedings in motion.
+[says] (p.193) "Sorry we’re late."
+[says] (p.193) "Have you already met?"
+[says] (p.193) "This is Sakagami-sensei, the homeroom teacher for Class C. Now then."
+[says] (p.193) "This is the student council president."
+[says] (p.193) "Well then, I would now like to discuss the violent incident that occurred last Tuesday with the members of the student council, the involved parties, and their homeroom teachers. You may begin the proceedings, student council secretary Tachibana."
+[says] (p.193) "So, this is all by chance?"
+[note] (p.193) The question is aimed at the president’s claim of attending by choice; he does not answer it.
+
+### y1v2 p.199–200 — Ch.6 §6.1: the witness she dismisses
+[says] (p.199) "Why are you in such a hurry, Sakagami-sensei?"
+[note] (p.199–200) When Sakagami moves to strike the witness, she agrees with him instead of resisting: "You’d think that Chabashira-sensei would ally herself with Class D, but that didn’t seem to be the case."
+[says] (p.200) "You’re certainly right that this is a waste of time, so I suppose we have no choice. You can come down now, Sakura."
+[limit] (p.200) The order is what forces Sakura’s outburst; the chapter does not say whether Chabashira expected it, and the narrator records only that she "ordered Sakura to leave, almost as if she’d lost interest."
+
+### y1v2 p.205–209 — Ch.6 §6.1: the compromise she will not refuse
+[says] (p.205) "Compromise?"
+[says] (p.206) "We seem to have already reached a logical conclusion. There’s no reason to refuse Sakagami-sensei’s proposal,"
+[trait] (p.206) She treats the settlement as arithmetic rather than advocacy: the proposal is "certainly a reasonable compromise," and she says so in front of her own student.
+[says] (p.209) "If this matter required some extra time before retrial, then the student council president would have offered a sufficient grace period. In other words, the amount of time granted should be enough for this case. Extensions are only offered under special circumstances,"
+[rule] (p.192, 209) The disciplinary settlement is heard by the two homeroom teachers, the concerned students and the student council; the retrial window is fixed by the council and cannot be extended on request.
+[rel:horikita-suzune] (p.192, 209) She warns Horikita she can still withdraw, then closes the only procedural door Horikita asks to reopen.
+
+<!-- walk: y1v2 ch6 → p.219 -->

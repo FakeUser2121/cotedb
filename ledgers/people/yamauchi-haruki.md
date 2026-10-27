@@ -163,3 +163,9 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [says] (p.180) "Those are simplistic ways to identify somebody…"
 
 <!-- walk: y1v2 ch5 → p.189 -->
+
+### y1v2 p.190 — Ch.6 open: the look he cannot stop
+[note] (p.190) He and Ike watch Sakura on the morning of the hearing because "they now knew of her idol identity"; the narrator watches the watching, and notes that Sakura guessed it "Oh no…" before anyone said anything.
+[note] (p.190) The Chapter 5 doubt he voiced — that Sakura looked a little like the idol — has been settled off the page; he gets no line here, only the glance.
+
+<!-- walk: y1v2 ch6 → p.219 -->

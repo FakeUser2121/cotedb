@@ -47,3 +47,55 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [rel:ayanokouji-kiyotaka] (p.193–196) Immediately recognizes an extraordinary individual capable of reacting to and neutralizing high-dan martial techniques.
 
 <!-- walk: y1v1 ch8 → p.202 -->
+
+## y1v2
+
+<!-- walk: y1v2 → start -->
+
+### y1v2 p.193–196 — Ch.6 §6.1: the president at the head of the table
+[scene] (p.193) The student council room on the fourth floor; he sits in the back and does not look at his sister as she enters.
+[says] (p.193) "Because I am quite busy, there are certain agenda topics upon which I will defer. As a general rule, though, I would prefer to attend to these issues, as I’m entrusted to lead this student council."
+[note] (p.194) Chabashira’s probe about whether his presence is chance does not move him at all; the narrator notes his record — Class A on entry, student council secretary, president by December of his first year on an overwhelming vote.
+[says] (p.196) "It would seem there’s no objection, given the arguments we’ve heard thus far."
+[says] (p.196) "Regardless which party called the other over, the fact remains that it was a one-sided fight between Sudou and the other students. We can clearly see that from the injuries they sustained. We have no choice but to come up with a conclusion based on that."
+[trait] (p.196) He decides the case on visible injuries and closes the evidentiary question before Class D has finished speaking; the narrator describes his intervention as wanting "to draw a conclusion as soon as possible."
+
+### y1v2 p.199–204 — Ch.6 §6.1: witness and photograph
+[says] (p.199) "Are you finished with your claims now, Class D?"
+[note] (p.199) The question lands after Horikita’s martial-arts argument and is described as "few and icy," carrying the implication that Class D should have said nothing.
+[says] (p.197) "I’ll allow it. However, please answer more quickly next time."
+[says] (p.202) "I’ll allow it."
+[says] (p.204) "But Sakagami-sensei, don’t you think this photo is different?"
+[feat] (p.204) He is the one who spots the decisive photograph among the set and slides it across to Sakagami, converting Sakura’s self-portraits into evidence of the fight.
+[says] (p.204) "Thank you, Sakura-san."
+[note] (p.204) The thanks is the only courtesy the hearing gives her before the cross-examination resumes.
+
+### y1v2 p.208–209 — Ch.6 §6.1: the retrial and the expulsion warning
+[says] (p.208) "So then…what do you mean?"
+[note] (p.208) It is the first time he looks directly at his sister in the hearing.
+[says] (p.208) "That’s enough. Continuing this discussion would just be a waste of time."
+[says] (p.208) "What I’ve learned today is that each side has an exact opposite claim. In that case, one side is propagating an extremely malicious falsehood."
+[says] (p.208) "I’ll ask you, Class C. Have you lied to us today?"
+[says] (p.209) "Well, what about you, Class D?"
+[says] (p.209) "Then we will regroup here for a retrial tomorrow at 4:00 PM. If by then it hasn’t been clearly established which party has lied, or in the event no one admits that they were at fault, we will pass judgment based on the evidence we’ve collected thus far. Of course, in that case we may have to consider the possibility of expulsion from this school. That is all."
+[rule] (p.208–209) The retrial is set for 4:00 PM the next day, and if neither side is proven to have lied or admits fault, judgment falls back on the collected evidence with expulsion as a possible outcome.
+[note] (p.209) The escalation is deliberate: the charge shifts from a fight to which class lied to the school.
+
+### y1v2 p.210–212 — Ch.6 §6.1: the corridor conversation
+[says] (p.210) "You’re still here?"
+[says] (p.210) "What are you planning to do?"
+[says] (p.211) "I thought that when you came here with Suzune, you’d unveil some kind of master plan."
+[says] (p.211) "So does that mean when Suzune claimed Sudou was completely innocent, she was merely getting carried away?"
+[says] (p.211) "I see."
+[says] (p.211) "Then there’s what you said, Sakura."
+[says] (p.211) "Eyewitness testimony and pictorial evidence certainly carry weight during deliberation. However, please keep in mind that how much we value the evidence is determined by how much we trust in its believability. No matter what you do, the evidence’s legitimacy is reduced because you are a student from Class D. No matter how detailed your account, we cannot accept it as one hundred percent true."
+[says] (p.211) "If you can’t prove it, then it’s little more than nonsense."
+[says] (p.211) "Since she’s a Class D student, it’s only natural that you would want to believe her."
+[says] (p.211) "So can you prove it? Can you prove she’s not lying?"
+[trait] (p.211) The narrator’s revised estimate: the first meeting left a bad impression, but "I found him easy to talk to now," and he credits "a superior understanding of human nature."
+[note] (p.212) He "chuckled softly, then smiled" at the claim that Suzune will prove it — the chapter does not say whether the smile is disbelief or interest.
+[rel:horikita-suzune] (p.193–208) He ignores her until she refuses to sit, then asks her meaning and listens; the hearing is the first time he treats her as an opponent rather than a disappointment.
+[rel:sakura-airi] (p.204–211) He thanks her for the photograph and then tells her the evidence cannot be accepted because of where she is enrolled.
+[rel:ayanokouji-kiyotaka] (p.210–212) The corridor exchange is the longest conversation they have had; he tests whether the narrator has a plan and accepts the answer that Suzune will supply it.
+
+<!-- walk: y1v2 ch6 → p.219 -->

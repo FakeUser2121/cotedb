@@ -315,3 +315,38 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [trait] (p.167) "Sudou, completely blind to his own shortcomings, arrogantly crossed his legs and nodded in agreement with himself."
 
 <!-- walk: y1v2 ch5 → p.189 -->
+
+### y1v2 p.191 — Ch.6 open: the fighter who asks for honesty
+[scene] (p.191) Class D’s room before the hearing; he closes his eyes and folds his arms "as if mentally preparing himself," then opens them and asks Horikita to say whatever she has to say now.
+[says] (p.191) "Yeah… I’m good. I was born ready."
+[says] (p.191) "You might call me a complete idiot and make fun of me, but I’m me. If you have something you want to say, say it now."
+[says] (p.191) "Ugh, you always act so high and mighty, lady."
+[trait] (p.191) The bickering is affection in his idiom; the narrator notes he would have refused Horikita’s help outright if he truly hated her.
+[note] (p.191) Kushida’s send-off — "Do your best, Horikita-san. Sudou-kun." — is answered by Sudou pumping his fist to show resolve.
+
+### y1v2 p.194–196 — Ch.6 §6.1: his account, and the traps in it
+[says] (p.194) "What those guys said was a lie. I was the one that got called over to the special building,"
+[says] (p.194) "That day, after practice, Komiya and Kondou asked me to go to the special building. Honestly, I thought it was kind of annoying, but I also thought it might’ve been because they were always hostile towards me. So, I went to meet them."
+[says] (p.194) "Don’t screw with me, Komiya! You were the one who called me, you jerk!"
+[action] (p.195) Irritated, he strikes the desk; "Immediate silence followed."
+[says] (p.195) "Not one bit of what Komiya said was true. Those guys are just jealous of my talent. When I practice, they constantly get in my way. That’s the truth."
+[says] (p.195) "That’s a lie. They attacked first. It was self-defense."
+[limit] (p.195) His temper supplies the other side’s best evidence: the veins on his forehead and the desk strike are read by the room as confirmation of violence.
+[says] (p.196) "W-wait! I can’t accept that! It’s just because those guys were a bunch of wimps!"
+[says] (p.196) "B-but, hey. I was fighting against three people! Three people!"
+[limit] (p.196) The wimps line hands Sakagami the question that nearly ends the case — whether overwhelming force against weaker opponents can be self-defence.
+
+### y1v2 p.205–208 — Ch.6 §6.1: the compromise he refuses
+[says] (p.205) "You jerk!"
+[action] (p.205) He stands ready to fly out of his chair, then grabs his own arms and pins himself down.
+[trait] (p.205) The restraint is new and deliberate: the same anger that struck the desk at p.195 is now turned on himself.
+[says] (p.205) "Don’t screw around! This isn’t a joke!"
+[says] (p.207) "Horikita!"
+[says] (p.207) "H-hey!"
+[note] (p.207) The bellow is his only answer to her closing statement, and he cannot tell that it is a performance.
+[note] (p.207) After she refuses to sit, "Sudou’s clearly irritated bellow" fills the silence; he still does not understand the reversal until she states it.
+
+### y1v2 p.210 — Ch.6 §6.1: after the hearing
+[note] (p.210) He leaves the student council room behind Horikita without a recorded line; the chapter gives him no scene with Sakura after the testimony he did not defend.
+
+<!-- walk: y1v2 ch6 → p.219 -->

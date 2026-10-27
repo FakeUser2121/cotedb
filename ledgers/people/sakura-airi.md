@@ -186,3 +186,64 @@ aliases used for anchors: sakura, airi, sakura-san
 [limit] (p.188) Nothing can be done before the hearing: "In the end, the only option was to wait on an SOS from the girl in question."
 
 <!-- walk: y1v2 ch5 → p.189 -->
+
+### y1v2 p.190 — Ch.6 open: the morning she comes anyway
+[scene] (p.190) The day of the hearing; she is in the classroom early, sitting alone "so as not to get roped into other students’ conversations," her expression "even gloomier than usual."
+[says] (p.190) "Ah, yeah. I’m fine."
+[says] (p.190) "I thought that things would be tough if I were absent today, so…"
+[note] (p.190) Her attendance is a decision, not a habit: she came because "the entire class would be upset if she were absent."
+[says] (p.190) "Yeah. I’ll be okay."
+[note] (p.190) She can tell Ike and Yamauchi know about the idol work, and answers the room without being asked: she "quietly mouthed the words, 'It’s all right.'"
+[trait] (p.190) The narrator credits the double life with the sensitivity: "Maybe working as an idol had made her sensitive to subtle changes in a room."
+
+### y1v2 p.191–200 — Ch.6 §6.1: the testimony that nearly does not start
+[scene] (p.191) Class D’s classroom at 3:50 PM, ten minutes before the hearing; she is "still sitting down, her body rigid" and stands with her lips trembling.
+[says] (p.191) "Yeah… I’m okay. Thank you…"
+[trait] (p.191) "Sakura was far tenser than I’d expected" — enough that the narrator fears she "might not be able to speak satisfactorily."
+[scene] (p.193) The student council room on the fourth floor; she enters only when called, "looking worried and restless" and "down at her feet, as if scared of danger."
+[says] (p.199) "Y-yes, okay… Well… I…"
+[note] (p.199) The silence is measured on the page: "Ten seconds. Twenty seconds." She looks further down and her face goes pale; Horikita’s prompt does not reach her.
+[scene] (p.200) Chabashira orders her to leave; she "closed her eyes tightly, as if she couldn’t bear it anymore, as if she regretted her own weakness."
+[says] (p.200) "I definitely saw what happened!"
+[note] (p.200) The narrator does not recognise the voice at first, and what identifies her is volume: "What most struck me was the volume of her voice."
+[says] (p.200) "The students in Class C threw the first punch. There’s no mistake about that!"
+[trait] (p.202) The delivery carries force beyond her manner: "She spoke so desperately that you wanted to believe she was telling the truth."
+
+### y1v2 p.202–205 — Ch.6 §6.1: the photographs
+[says] (p.202) "That’s… Well, that’s… I didn’t want to get involved…"
+[says] (p.202) "Because I’m not very good at talking with other people…"
+[says] (p.202) "That’s… I’m just…telling the truth…"
+[says] (p.202) "N-no, that’s not it…"
+[says] (p.203) "If you want proof… I’ll give it to you!"
+[action] (p.203) She slams her hand on the desk and throws down what look like "a few small, rectangular pieces of paper" — photographs, not paper.
+[says] (p.203) "This is proof that I was in the special building that day!"
+[says] (p.204) "I’m…I was looking for places where no one was around so I could take pictures of myself. The pictures also show the date and time, which proves that I was there when I said."
+[says] (p.204) "A digital…camera."
+[note] (p.204) The photographs show her in the other life: "this Sakura wore a lovely expression that looked both similar and dissimilar to the Sakura with us now. It was the idol, Shizuku."
+[note] (p.204) The line presenting the decisive photo is untagged in the translation — "I think that you’ll believe I was there after seeing…this." — so it is recorded here without a speaker.
+[note] (p.204) The last photo shows the fight itself: "The setting sun bathed the hallway in dusky light," and the image appears to be "what had happened immediately after Sudou hit Ishizaki."
+
+### y1v2 p.209–212 — Ch.6 §6.1: after the hearing
+[says] (p.209) "I tried my absolute hardest to speak up during the discussion, but do we even have a chance? Horikita?"
+[says] (p.210) "You understand that we won’t solve this problem just by being stubborn. Won’t that just hurt more people in the process?"
+[says] (p.210) "I’m sorry, Ayanokouji-kun… If I’d only stepped forward in the very beginning, everything would have been fine, but… Everything turned out this way because I didn’t have the courage."
+[says] (p.210) "But!"
+[says] (p.211) "I-I…I just…told the truth…"
+[says] (p.212) "But…it’s all my fault… Hic."
+[says] (p.212) "But… I…"
+[says] (p.212) "But… I… Wasn’t I completely useless?"
+[trait] (p.213) The narrator’s read of the crying: "Sakura seemed to be the type who bottled up her feelings," and the hearing "might have been an important step forward for her."
+
+### y1v2 p.213–214 — Ch.6 §6.2: walking out
+[says] (p.213) "I let you see something so embarrassing…"
+[says] (p.213) "It’s been such a long time since I cried in front of someone. I feel a little relieved, actually."
+[says] (p.213) "I had no idea that you were like that, Ayanokouji-kun. That’s completely unlike the image I have of you."
+[says] (p.213) "I was really happy…when you said that you believed me."
+[says] (p.213) "Yeah… But you came out and told me directly, Ayanokouji-kun. You said it."
+[says] (p.213) "You gave me courage. I was happy,"
+[says] (p.213) "U-um, well… I don’t think I should be saying this now, but…"
+[says] (p.214) "Actually… I… Right now…"
+[says] (p.214) "Oh, no, it’s nothing. I just…wanted to say that I would try my best. I’ll be brave."
+[limit] (p.214) The sentence she begins at the entranceway is cut off by Ichinose’s arrival and never resumed; she opens her shoe locker, gives the smaller answer, and hurries out when the narrator calls after her.
+
+<!-- walk: y1v2 ch6 → p.219 -->

@@ -154,3 +154,40 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [note] (p.158) What he glimpses on her phone is left unnamed in this chapter; anything stronger would be a guess.
 
 <!-- walk: y1v2 ch5 → p.189 -->
+
+### y1v2 p.214–215 — Ch.6 §6.2: waiting at the entranceway
+[scene] (p.214) The entranceway after the hearing; Ichinose and Kanzaki have been waiting, "on tenterhooks about the trial’s results."
+[says] (p.214) "Yahoo! You’re really late, huh?"
+[says] (p.214) "We were wondering what happened."
+[says] (p.214) "I’m sorry. Was this a bad time?"
+[note] (p.214) The apology lands on the exact sentence Sakura was about to finish; the narrator lets the moment go rather than reopen it.
+[says] (p.214) "I see. So, you rejected the compromise, huh? Class D is insisting on Sudou’s innocence until the very end?"
+[says] (p.214) "But like Ayanokouji-kun says, Sudou’s suspension would be a loss for Class D. If Sudou were suspended due to his bad behavior, then his chances of being a team regular would probably vanish. He’d be back to square one."
+[says] (p.215) "If you think so, shouldn’t you have stopped it?"
+[says] (p.215) "If you’re brought back into a retrial, you’ll inevitably lose. Just like Kanzaki says, obtaining a not-guilty verdict is virtually impossible."
+[says] (p.215) "Are you still going to fight? Even without new evidence or testimony?"
+[note] (p.215) She argues the case is unwinnable and then offers to work it anyway — the contradiction the chapter lets stand.
+[says] (p.215) "Hmm. Well, I don’t think we’ll be able to obtain any more leads, but I’ll go check what information I can gather from the Internet."
+[rel:ayanokouji-kiyotaka] (p.215) She laughs while offering help "though it wouldn’t have been odd for her to wash her hands off us at this point."
+
+### y1v2 p.216–218 — Ch.6 §6.2: the request, and the price
+[says] (p.216) "Not necessary? What do you mean, Horikita-san?"
+[says] (p.216) "Preparing something?"
+[says] (p.216) "Oh… That’s going to be a really hard request."
+[says] (p.216) "Ah, no. Well, this should be within the range of what we can do, I think. That’s because I plan to figure out what’s happening to Class D. I’ve got tons and tons of things I want to know, but… Well, maybe it would be better for you not to tell us why?"
+[says] (p.216) "When did you come up with this?"
+[says] (p.216) "That…an incredible move. I went to the scene of the crime and even I didn’t think of that. Or, I guess I should say, I was completely in the dark about it. It wasn’t even close to what I could imagine."
+[says] (p.217) "An unusual idea. You can probably anticipate the results, too. But does such a thing even exist?"
+[says] (p.217) "Ha ha, yeah. You might be right. It’s a change for me. But…it’s certainly one way of doing things."
+[says] (p.217) "Well, since a lie started all this trouble, maybe it’ll take another lie to close the books on this incident. That’s what I think, anyway."
+[note] (p.217) The reply that follows — "Mmmhmm, I see. An eye for an eye, a lie for a lie, yeah? But is that even possible, I wonder? I can’t imagine such a thing would be easy to obtain." — is untagged; it is not assigned to her here.
+[says] (p.217) "Hey, Kanzaki-kun. Did you help us so that we would outpace Class C?"
+[says] (p.217) "But I was just thinking, perhaps what we’re doing right now might end up coming back to bite you in the ass later?"
+[says] (p.217) "Man. I completely neglected to calculate the fact that Class D has a girl like you."
+[action] (p.217–218) She takes out her phone and hands it over.
+[says] (p.218) "I’ll lend this to you. Please return it later."
+[trait] (p.216–217) Her cooperation is explicitly costly to her principles: the plan depends on a lie, and "For someone like Ichinose, who hated lying, it was a harsh request."
+[rel:horikita-suzune] (p.216–218) The compliment is professional and ungrudging — she names Horikita as a factor Class D has that she failed to price in.
+[limit] (p.217) Kanzaki warns her the favor may be turned against Class B later, and she accepts that risk without extracting a condition.
+
+<!-- walk: y1v2 ch6 → p.219 -->

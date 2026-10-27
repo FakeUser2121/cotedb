@@ -35,3 +35,20 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 [action] (p.226) Seated in the faculty room during the test-change confrontation; meets Ayanokōji's eyes and gives a small smile and a wave — the only teacher besides Chabashira to react at all to the incident.
 
 <!-- walk: y1v1 ch9 → p.235 -->
+
+## y1v2
+
+<!-- walk: y1v2 → start -->
+
+### y1v2 p.191–192 — Ch.6 open: the teacher at the door
+[scene] (p.191) The faculty room minutes before the hearing; she greets the four Class D students as they arrive.
+[says] (p.191) "Yahoo! Hello, Class D students!"
+[says] (p.191) "It seems like something rather incredible has happened, hmm?"
+[trait] (p.191) Her interest is appetite, not concern: "Her eyes sparkled, as if she enjoyed sticking her nose into other people’s business." The narrator adds, in parentheses, "(Well, she did)."
+[says] (p.192) "Oh no. I’ve been found out already, huh?"
+[says] (p.192) "So I guess I can’t join in, huh?"
+[says] (p.192) "Aw, that’s too bad. Well, that’s all right. The results should be out within the hour, I guess."
+[note] (p.192) She knows the hearing schedule before it starts and expects a result inside the hour; Chabashira pushes her back into the faculty room before she can say more.
+[rule] (p.192) Her exclusion states the rule from the outside: "outsiders cannot participate" in a disciplinary settlement.
+
+<!-- walk: y1v2 ch6 → p.219 -->

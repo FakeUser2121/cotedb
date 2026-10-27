@@ -553,3 +553,75 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [trait] (p.170–171) She asks the question, then withdraws it, without waiting for the answer he does not give.
 
 <!-- walk: y1v2 ch5 → p.189 -->
+
+### y1v2 p.191–192 — Ch.6 open: the hearing she is not ready for
+[scene] (p.191) Class D’s room, ten minutes before the hearing; Sudō asks her to hear him out and she answers by refusing to reassure him.
+[says] (p.191) "Have you prepared for this, Sudou-kun?"
+[says] (p.191) "Don’t do anything selfish. Actually listening right now would be the clever thing to do, yes?"
+[note] (p.191) The narrator reads the exchange as habitual combat without hatred: Sudō "would’ve absolutely refused her help" if he truly resented her.
+[note] (p.191) Kushida’s send-off — "Do your best, Horikita-san. Sudou-kun." — is the only encouragement Horikita receives before the hearing, and she does not answer it.
+[scene] (p.192) Outside the faculty room, Chabashira lets slip that the student council will sit in; Horikita freezes at the words.
+[says] (p.192) "I’ll go. I’m fine."
+[note] (p.192) The glance she gives the narrator is read as a request not to worry on her account.
+
+### y1v2 p.193–200 — Ch.6 §6.1: frozen, then roused, then cross-examining
+[note] (p.193–194) Her brother’s presence undoes her before testimony begins: "Horikita —Horikita the younger sister, I mean—couldn’t hide her trembling," and the narrator concludes their kinship makes the room "extremely disadvantageous."
+[says] (p.197) "Hyah?!"
+[says] (p.197) "W-wait. S-stop, stop!"
+[action] (p.196–197) She is physically roused by the narrator’s tickling and returns to the room glaring "with startling intensity."
+[says] (p.197) "Tch…"
+[says] (p.197) "Excuse me. May I ask a question?"
+[says] (p.197) "Earlier, you said that Sudou-kun called you over to the special building. But who exactly did Sudou call, and why?"
+[says] (p.197) "Please answer."
+[says] (p.197) "So then, why exactly were you in the special building, Ishizaki-kun? You’re not on the basketball team, so you have no connection to this case. I’d think your presence there would be rather odd."
+[says] (p.198) "So in other words, you felt the situation might turn violent?"
+[says] (p.198) "I see. So you brought along Ishizaki-kun as your bodyguard, since he was reputed to be rather good at fighting. Just in case there was an emergency."
+[says] (p.198) "I do have some knowledge of martial arts, if only to a certain extent. I understand that when you’re fighting against multiple enemies, victory becomes exponentially more difficult. So I don’t understand how you were defeated so handily, how the fight could be so one-sided, when you had a skilled fighter like Ishizaki-kun with you."
+[says] (p.198) "The primary factor in triggering a fight is the collision of the ‘energy’ between opponents. In the event that you don’t have any intention of fighting, or that you’re nonviolent, the probability that you’ll be hurt should be very low. Especially when there are three of you."
+[feat] (p.197–199) Her cross-examination turns the witness list into a contradiction: if Ishizaki came as a bodyguard because Sudō was reputed violent, a rehearsed nonviolent group should not have been beaten so one-sidedly.
+[note] (p.198) The narrator credits the method as "very objective, grounded in evidence, rules, and her own logic," and notes Komiya answers it with his actual injuries rather than with argument.
+[says] (p.199) "It’s true that Sudou injured the other students. However, Class C started the fight. There is one student witness who saw the entire incident and can attest to this."
+
+### y1v2 p.203 — Ch.6 §6.1: the answer to the false-witness charge
+[says] (p.203) "That is not the case. It is certainly true that Sakura-san is not good at speaking before others. However, it is precisely because she witnessed the incident that she is standing here today. Otherwise, she most likely would not, even if we’d asked her. Don’t you think that if we needed someone who could speak boldly, we would have found a replacement?"
+[note] (p.203) Sakagami answers it by claiming the choice of a poor speaker is itself the staging: "it would establish a sense of realism that you yourself could not."
+
+### y1v2 p.207–209 — Ch.6 §6.1: the false concession, then the refusal
+[says] (p.207) "I understand…"
+[says] (p.207) "I think that Sudou, who caused the incident, has a problem. He doesn’t ever stop to consider his actions, which inconveniences everyone around him. He has a history of getting in fights. He’s the type to raise his voice and fists right away whenever something displeases him. In the event of an uproar such as this, well, it should be obvious who caused it."
+[says] (p.207) "You need to understand, Sudou. Your attitude caused all of this."
+[says] (p.207) "This is why I wasn’t motivated at all to help Sudou-kun in the beginning. I knew that even if I forced myself to lend a hand, he would just repeat the same mistakes again and again."
+[feat] (p.207–208) The closing statement is a trap: she lets Sakagami treat it as surrender, then refuses to sit, and the silence is what gives her the floor back.
+[says] (p.208) "He should reflect on his actions. However, not in this particular case. When I say he should reflect, I mean that he should look back on his past actions. In regards to this particular incident, however, I don’t think Sudou-kun did anything wrong. This was not an unfortunate event that occurred merely by chance. I’m convinced that this was a deliberate move made by Class C. I have absolutely no intention of meekly accepting defeat."
+[says] (p.208) "If you did not understand, I will say it once again. We claim that Sudou-kun is completely innocent. Therefore, we cannot accept his suspension from school, even for just one day."
+[says] (p.208) "Sudou-kun is the victim, just as the witness testified. Please do not make any errors in your judgment."
+[note] (p.208) The reversal is made for Sakura’s sake as much as Sudō’s: the narrator guesses she "had to be brave in front of Sakura."
+[says] (p.209) "Would be possible to have a little more time before we reconvene?"
+[note] (p.209) The line answering the president’s question to Class D — "I haven’t lied. Everything we’ve said has been the truth." — is untagged in the translation; it is recorded as Class D’s answer, not attributed to her by name on the page.
+
+### y1v2 p.210 — Ch.6 §6.1: what she says to Sakura on the way out
+[says] (p.210) "I won’t give up. I will keep fighting to support your testimony until the end,"
+[says] (p.210) "I have no intention of losing. Well then, I must excuse myself."
+[note] (p.210) She leaves immediately after the promise rather than staying to comfort Sakura, and the chapter reads the haste as strategy, not coldness.
+
+### y1v2 p.216–218 — Ch.6 §6.2: the request she makes of Class B
+[says] (p.216) "I sincerely appreciate the offer, but it’s not necessary."
+[says] (p.216) "We cannot get Sudou acquitted. Even if a new witness were to come from Class A or B, it would be impossible. However…there is something I would like you to prepare for us. It is the only possible solution."
+[says] (p.216) "I understand that I’m in no position to ask this," "The burden I’d be placing upon you is exceptionally great. But—"
+[says] (p.216) "You’re certainly right about that. Well then, if I can convince you, will you cooperate with us?"
+[says] (p.216) "You should understand the risks as well as the usefulness of this strategy,"
+[says] (p.216) "Just before the deliberation ended. Only by chance, though."
+[says] (p.217) "Don’t worry about that part. I’ve confirmed it."
+[says] (p.217) "If you ask the Professor to assist us, it should be good. I’ll talk to him."
+[says] (p.218) "Sure. I promise."
+[says] (p.218) "Well then, Ayanokouji-kun. There’s something I’d like you to help me with."
+[says] (p.218) "Helping others is fundamentally bothersome and time-consuming."
+[feat] (p.216) She has a plan before the hearing ends and has already verified that its material exists by the time she explains it in the entranceway.
+[limit] (p.216–217) The plan requires a lie from a person who hates lying; Horikita acknowledges the burden instead of softening it, and Ichinose supplies the justification herself.
+
+### y1v2 p.218 — Ch.6 §6.2: the debt she collects
+[action] (p.218) She answers the hearing’s tickling with a blow to the narrator’s side that drops him into the corner.
+[says] (p.218) "I’ll forgive you for touching me this time. However, next time I’ll pay you back double."
+[rel:ayanokouji-kiyotaka] (p.196–218) The chapter runs her from paralysis to leadership and closes the account with the blow: she accepts his intervention in the hearing and prices it immediately.
+
+<!-- walk: y1v2 ch6 → p.219 -->

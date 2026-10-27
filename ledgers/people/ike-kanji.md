@@ -263,3 +263,9 @@ aliases used for anchors: ike, kanji, ike-kun
 [says] (p.183) "If you do confess your feelings to her, I won’t forgive you. You know that, right?"
 
 <!-- walk: y1v2 ch5 → p.189 -->
+
+### y1v2 p.190 — Ch.6 open: he knows, and he looks
+[note] (p.190) On the morning of the hearing the chapter puts him and Yamauchi in the room looking at Sakura: "Ike and Yamauchi looked over at Sakura with great curiosity. Of course, that was because they now knew of her idol identity."
+[note] (p.190) He has no line in the chapter; the discovery he made in Chapter 5 is now simply a fact the class can see in his gaze, and Sakura reads it before anyone speaks.
+
+<!-- walk: y1v2 ch6 → p.219 -->

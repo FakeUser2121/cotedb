@@ -926,3 +926,62 @@ walk: y1v1 → DONE
 [limit] (p.188) "In the end, the only option was to wait on an SOS from the girl in question."
 
 <!-- walk: y1v2 ch5 → p.189 -->
+
+### y1v2 p.190 — Ch.6 open: the check he makes first
+[scene] (p.190) The morning of the hearing; before anything else he confirms Sakura came, and finds her in the usual corner: "Sakura sat quietly alone, so as not to get roped into other students’ conversations."
+[says] (p.190) "Are you okay?"
+[says] (p.190) "Don’t forget what I said yesterday. Testify for your own sake, more than anyone else’s."
+[note] (p.190) The sentence is the volume’s thesis carried forward from the club building: the testimony must belong to her, not to Sudō or the class.
+
+### y1v2 p.191–200 — Ch.6 §6.1: the hearing he cannot fix
+[scene] (p.191) Class D’s room before the 4:00 PM hearing; he watches Sudō and Horikita spar and reads Sudō’s cooperation as proof he does not hate her.
+[note] (p.191) His estimate of Sakura is the chapter’s first alarm: "If she was in this psychological state before the meeting had even begun, she might not be able to speak satisfactorily."
+[scene] (p.193) The student council room: three Class C students, Sakagami-sensei, the president and Secretary Tachibana; Horikita freezes at the word "student council."
+[note] (p.194) His read of the room before a word of evidence: "Considering they were brother and sister, the odds were not in our favor."
+[note] (p.195) He reads Class C’s testimony as invention — the veins on Sudō’s forehead make their account "rather obvious" as a lie — and Horikita’s silence as the real emergency: "It was as if her mind was gone."
+[says] (p.197) "Get a grip on yourself, Horikita. We’re going to lose at this rate. You have to fight!"
+[action] (p.196–197) He gets up, stands behind Horikita, grips her sides "as hard as I could" and tickles her until she returns to herself, in front of the teachers and the student council.
+[action] (p.196–197) The provocation is deliberate and public: he accepts that he "might be killed later for doing this" but judged that no lesser stimulus would bring her back.
+
+### y1v2 p.202–206 — Ch.6 §6.1: the performance of giving up
+[note] (p.203) His conclusion about Sakagami before the photos: "no matter what response we volleyed back, I was convinced that he’d do anything to block us."
+[says] (p.206) "Horikita, are we really out of options?"
+[says] (p.206) "I’m not very smart, so I can’t really come up with a solution. I do, however, think that we probably should accept the compromise that you have offered us, Sakagami-sensei,"
+[says] (p.206) "We have no definitive proof of Sudou’s innocence. I suppose I should say such evidence just doesn’t exist. If this event had occurred in a classroom or the convenience store, a greater number of students would have been around to see it, and there probably would have been sound evidence. There’s no record of anyone watching this scene unfold. Since this event took place in the special building, where there weren’t any people around, there’s nothing we can do."
+[says] (p.206) "I understand why we’re having this discussion. No matter how much we appeal to the contrary, Class C won’t admit that they lied. Sudou won’t admit that he lied, either. We really would just keep going back and forth. Honestly, it’s getting to the point where I would’ve been happier never having had this discussion in the first place. Don’t you agree?"
+[feat] (p.206) The surrender speech is a performance aimed at Horikita, not at Sakagami: "I spoke as if we were accepting defeat." He had decided to speak "perhaps out of respect for Sakura’s earlier courage."
+[note] (p.206) The move depends on Sakagami taking it literally, which he does: "In other words, as a declaration of defeat."
+
+### y1v2 p.210–212 — Ch.6 §6.1: the corridor, and what he will not concede
+[says] (p.210) "It would’ve ended the same even if you had stepped forward at the beginning. They would’ve fought to discredit your testimony simply because the witness came from Class D. The result would be the same."
+[says] (p.211) "I’m not exactly Zhuge Liang or Kuroda Kanbei. I don’t have any plans."
+[says] (p.211) "Hyperbole, you mean? I don’t think so."
+[says] (p.211) "I believe her. I believe Sakura’s testimony,"
+[says] (p.211) "I didn’t say that I want to believe her. I said I believe her. Those mean different things."
+[says] (p.211) "That’s not up to me. Your sister will prove it. If Sakura isn’t lying, then she will find a way to convince everyone."
+[rel:horikita-manabu] (p.210–212) The first long conversation between them without a crisis forcing it; the narrator finds him "easy to talk to now" and credits "a superior understanding of human nature."
+[trait] (p.211) He separates belief from wish in one sentence, and refuses the president’s framing that his support is merely class loyalty.
+
+### y1v2 p.213–215 — Ch.6 §6.2: leaving the hearing, and Class B’s offer
+[scene] (p.213) The walk back after the hearing; Sakura has stopped crying and the silence between them is comfortable.
+[says] (p.213) "I’m glad. When I was a kid, I used to cry in front of people all the time."
+[says] (p.213) "Yeah, I cried a lot. Maybe 10 or 20 times in front of other people."
+[says] (p.213) "It’s not just me. Horikita, Kushida, and Sudou do, too. All of our classmates believe you."
+[scene] (p.214) The entranceway; Ichinose and Kanzaki are waiting, and Sakura’s unfinished sentence is lost.
+[says] (p.214) "Were you waiting for us?"
+[says] (p.214) "Sorry, Sakura. Can we continue this later?"
+[says] (p.214) "No, it’s fine."
+[says] (p.214) "Well, if Sudou even got as little as one day’s suspension, Class C would win."
+[note] (p.214) His framing of the offer: "the compromise had been a trap. A sweet trap set to lure us to our defeat."
+[says] (p.215) "I see. I think so, too."
+[says] (p.215) "Our leader gave us her decision. We’ll fight to the bitter end."
+[says] (p.215) "You’re still willing to help us?"
+[rel:kanzaki-ryuuji] (p.214–215) Kanzaki argues for the compromise and then stays to search for evidence anyway; the narrator’s verdict is "These were really good people."
+
+### y1v2 p.218 — Ch.6 §6.2: the price of touching Horikita
+[says] (p.218) "If it’s not something really bothersome, sure. I’ll help."
+[says] (p.218) "Wha— Ah, ah!"
+[action] (p.218) Horikita answers the tickling in the hearing with a blow to his side that drops him into the corner, and warns him: "I’ll forgive you for touching me this time. However, next time I’ll pay you back double."
+[note] (p.218) His private arithmetic after the blow: if "double" meant twice the force, "That was unimaginable!"
+
+<!-- walk: y1v2 ch6 → p.219 -->

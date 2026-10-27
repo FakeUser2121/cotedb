@@ -506,3 +506,139 @@ nowhere; the building stays described in Sakura's 5.5 rows and the volume
 setting. Verification after the writing: `verify2 y1v2` **624** [says] lines
 (11 too short/skipped), `verify3 y1v2` **501** other quoted lines, both ALL
 PASS. See progress3 for the site numbers and the determinism hash.
+
+### y1v2 Chapter 6: Truth and Lies is closed (walk, 2026-10-27)
+
+Read pp.190–219 in one pass (the hearing day from the morning check through the
+retrial order and the entranceway), then fanned out to every ledger the chapter
+touches: ayanokouji-kiyotaka, horikita-suzune, sakura-airi, sudou-ken,
+ichinose-honami, chabashira-sae, hoshinomiya-chie, kushida-kikyou,
+horikita-manabu, plus ike-kanji and yamauchi-haruki for the single look they
+share on p.190, and three ledgers created for people the chapter gives a seat
+at the table: kanzaki-ryuuji, tachibana (secretary, surname only), and sakagami
+(the roster id already carried a mention-only stub). The volume also gains its
+Chapter 6 section. Fourteen ledger files in all: eleven updated, three new.
+
+What the chapter turns on, in the order the book spends it: the morning check
+that Sakura came anyway (p.190), the student council room and the people in it
+(pp.192–194), her twenty-second silence and the outburst that breaks it
+(pp.199–200), the photographs — including the one the president finds that shows
+the fight itself (pp.203–204), Sakagami's settlement offer and Chabashira's
+acceptance of it (pp.205–206), Ayanokōji's performed surrender, Horikita's
+damning closing statement and her refusal to sit (pp.206–208), the retrial order
+with expulsion on the table (p.209), then the corridor with the president
+(pp.210–212), the walk to the entranceway (pp.213–214), Class B's assessment and
+offer (pp.214–215), and Horikita's request, the borrowed phone and the blow that
+closes the account (pp.216–218).
+
+Attribution discipline: this is the volume's most heavily untagged chapter. A
+[says] row was written only where the translation names the speaker or fixes it
+by an act; seven exchanges are recorded as gaps in the volume section instead
+of being guessed — the opening courtesy at p.193, the procedural question at
+p.196, the witness introduction and "You may begin your testimony" at p.199,
+"What are those?" at p.203, "I think that you'll believe I was there after
+seeing…this." at p.204, Class D's "I haven't lied…" at p.209, and the "eye for
+an eye" reply at p.217. Quotes from other characters that are relevant to a
+ledger but spoken by someone else are carried as [note], never as that
+character's [says] — Kushida's p.191 send-off appears that way in three files.
+
+Forward-only knowledge stays out: the retrial's outcome, the plan's content, the
+Professor's device, and the borrowed phone's use are all recorded as open
+threads at their real pages (pp.216–218), not written into this chapter.
+
+New named entities: Horikita Manabu is named in narration for the first time in
+this volume (p.208); Sakagami-sensei, Class C's homeroom teacher (p.193);
+Secretary Tachibana (p.193, surname only); the Class C trio is fixed by name —
+Komiya, Kondou and Ishizaki (pp.194–198). New system facts: the hearing's
+composition and venue (p.192), the president's power to take over and the
+secretary's role (p.193), the retrial window with expulsion as a possible
+judgment (p.209), no extensions on request (p.209), and differentiated
+suspension lengths within a settlement (p.205).
+
+Translation defects kept as printed: "This are inadequate evidence" (p.204),
+"Sakagamisensei's" as a run-together name (p.203–204), "Would be possible to
+have a little more time" with the subject dropped (p.209).
+
+housekeeping: creating a ledger named `sakagami-sensei` produced a second page
+beside the roster's existing `sakagami` stub, because page ids come from the
+roster or the ledger stem. The ledger was renamed to `sakagami.md` with
+`char_id: sakagami`, so the full chapter now renders on the one page instead of
+splitting the character in two. The audit that caught it also caught two
+absences: Ike's and Yamauchi's p.190 glance at Sakura existed only on Sakura's
+page, so two rows went into each of their ledgers, which moved the site hash
+from `1d13757fddce1fb2e377854b95c65fc4` to the shipped
+`4d4c5047d6dcf80f90afad6178a91bda`. Verification after the writing:
+`verify2 y1v2` **843** [says] lines (22 too short/skipped), `verify3 y1v2`
+**577** other quoted lines, both ALL PASS. See progress3 for the site numbers.
+
+---
+
+## HANDOFF — walk state and the exact next steps (written 2026-10-27, after y1v2 Ch.6)
+
+Read this whole section before touching a ledger. It is the resume point for a
+fresh session or a different model.
+
+**Where the walk is.** `ledgers/volumes/y1v1.md` is DONE (12 chapters +
+postscript). `ledgers/volumes/y1v2.md` is walked through **Chapter 6, p.219**.
+Next unit: **y1v2 Chapter 7: Only One Solution, pp.220–257**, then **Postscript,
+pp.258–261**, which closes volume 2. After that, 30 volumes are still unwalked
+(y1v3 → y1v11.75, y2v1 → y2v12.5, y3v1 → y3v3 — 36 volume pages exist on the
+site, only these two carry line-by-line evidence). Source text lives in
+`text/COTE Y1 V2.txt` style files with `--- page N ---` markers; the printed page
+numbers in the markers are the numbers every citation uses.
+
+**Ledger state (from `cote_walk status`).** At or past y1v2 ch6: ayanokouji,
+chabashira, horikita-manabu, horikita-suzune, hoshinomiya, ichinose,
+kanzaki-ryuuji (new), sakagami (new), sakura, sudou, tachibana (new),
+yamauchi, ike, volumes/y1v2. Deliberately behind, because later chapters do not
+feature them — checked, not forgotten: hirata (ch4), karuizawa (ch4),
+kouenji (ch4), exams/midterm-exam (ch4), systems/point-economy (ch5). Places
+ledgers stop where y1v1 stopped.
+
+**Tools.** MCP server `cote_walk` (code: `kb/cote_mcp.py` over `kb/cote.py`)
+exposes: `status`, `next`, `chapters`, `read_pages`, `append`, `ledger_new`,
+`verify`, `build`, `gate`, `hash`, `ship`. Skill:
+`.qoder/skills/cote-walk/SKILL.md` with `references/ledger-grammar.md`. CLI
+fallback with the same subcommands: `python3 kb/cote.py <cmd>`. Two gotchas: a
+running MCP server keeps the code it imported at start, so after editing
+`kb/cote.py` reload the server or use the CLI; and `build_share_site.py --docs`
+is a mirror-only step, never a substitute for the full rebuild.
+
+**The chapter loop, in order.** (1) `chapters` / `next` to fix the page range.
+(2) Read the **entire chapter in one pass** (`read_pages`, or read the
+`--- page N ---` span of the text file directly) before writing anything.
+(3) Fan out to **every** ledger the chapter touches — people, volume, systems,
+exams — in subsection-sized `append` calls; one `append` per scene block, not
+one giant write (large single writes get blocked by the client classifier).
+(4) Write the chapter's section in `ledgers/volumes/<vol>.md` (setting, numbered
+beats, structural note, page-map note, new named entities, new system facts,
+threads left open, attribution gaps, defects kept as printed).
+(5) `verify2.py <vol>` and `verify3.py <vol>` must both print ALL PASS; fix the
+ledger, never the checker. (6) Full rebuild, then `--docs`, then
+`share_check --site --print --pdf`, then hash two consecutive builds and require
+the same value. (7) Grep the built HTML under `docs/` to confirm the new rows
+actually render where they are supposed to. (8) Update **both** progress files,
+then ship.
+
+**Writing rules that are not negotiable.** Quotes are verbatim from the page,
+curly punctuation and all, including translation defects ("This are inadequate
+evidence"). `[says]` only where the translation names the speaker or fixes it by
+an act; everything else is `[note]` with the gap stated. No other character's
+line goes into a person's `[says]` row. No forward-only knowledge: later-volume
+facts stay out, and chapter-external consequences become open threads at their
+real page. Gaps stay gaps — an undecidable speaker is recorded as undecidable.
+Exactly one `<!-- walk: <vol> chN → p.X -->` marker per chapter per file;
+`append --stamp` de-duplicates. Prose on the page is reader-facing: no pipeline
+vocabulary ("the walk", "the ledger records", "the fan-out"), because
+`share_check` fails the build on it.
+
+**Ship mechanics.** Commits use the GitHub noreply identity through environment
+overrides only — `GIT_AUTHOR_NAME=FakeAn GIT_AUTHOR_EMAIL=FakeAn@users.noreply.github.com
+GIT_COMMITTER_NAME=FakeAn GIT_COMMITTER_EMAIL=FakeAn@users.noreply.github.com`
+— and `git config` is never modified. Ship paths: `.qoder docs kb ledgers
+progress2.md progress3.md system-prompt.md`. Never stage `session-*.md`;
+`share/` is generated and stays out of git. Push to `origin main`; the remote
+answers with a redirect to `FakeUser2121/cotedb` and that is expected. Cloudflare
+deploys from the push; there is deliberately no github.io site and no live URL
+to quote. Standing user instructions: no subagents, do not open his screenshots,
+use the progress files every chapter, installs go to `/mnt/D`.

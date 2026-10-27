@@ -449,3 +449,12 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:ayanokouji-kiyotaka] (p.184) She turns the request into a transaction before she has named it.
 
 <!-- walk: y1v2 ch5 → p.189 -->
+
+### y1v2 p.191 — Ch.6 open: the send-off
+[note] (p.191) Her only spoken line in the chapter is the room’s send-off to the two people going into the hearing — "Do your best, Horikita-san. Sudou-kun." — and Horikita does not answer it.
+[trait] (p.191) She gives the encouragement to both of them together, including the girl who has spent the volume refusing her, and the page records no reply.
+
+### y1v2 p.213 — Ch.6 §6.2: named among the people who believe Sakura
+[rel:sakura-airi] (p.213) Ayanokōji tells Sakura that the belief is not his alone — "Horikita, Kushida, and Sudou do, too. All of our classmates believe you." Her part is reported by him, not shown in this chapter.
+
+<!-- walk: y1v2 ch6 → p.219 -->
