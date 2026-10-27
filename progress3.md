@@ -474,3 +474,38 @@ book's text:
 `verify2.py y1v1`: 624 says lines, ALL PASS. `verify3.py y1v1`: 246 non-says
 quoted lines, ALL PASS. Site gate green; docs mirrored (md5
 fbf26d1a0b93d8328f69f8d002f6f560). People PDF rebuilt at 130 pages.
+
+### The page column now uses the width it is given (site, 2026-10-27)
+
+Reported: "not using free real estate", empty space on most pages including
+home. Cause was one rule: `site_shell.page()` wrapped every body in
+`<div class="measure">` and `.measure { max-width: 74ch }` (~686 px). On home
+that 686 px sat inside a 1341 px column (no left rail, 244 px right rail), so
+the doors and library cards could only ever form two columns and the right
+half of the page was blank.
+
+What changed:
+
+- `.measure` no longer caps width. Running text is capped instead
+  (`--prose: 86ch`): paragraphs, top-level lists, blockquotes; boxes at 78ch.
+- Structural blocks take the full column: hero, `.stats`, `.doors`, `.cards`,
+  `.grid-list`, `.facts`, tables, scene headers.
+- Scene blocks and ledgers cap at `92ch` so their rules end under the text
+  rather than running past it.
+- Hero is a two-column grid at ≥1000 px: title + intro left, the six counts
+  right (three columns of stats), instead of a short strip over blank space.
+- Home's three "Reading a page" paragraphs sit in `.cols` (two columns above
+  1000 px); the six home doors are an explicit 3×2 grid at ≥1000 px.
+- Shell width 1520 → 1600 px (`--shell`), applied to masthead, tabs and
+  layout together; search box allowed 560 → 680 px.
+
+Measured with headless Chromium+CDP at 1600 px (not a screenshot): home
+content 1341, measure 1261 (was ~686), hero 1261 with stats 411 on the right,
+doors 1261 in 3 columns, cards 1261 in 4; people index grid 997 wide; prose
+797; character ledger 853. At 1366 the text fills the 1027 px column; at 390
+everything stacks, no horizontal page overflow (the tab strip scrolls inside
+its own `overflow-x`). Print keeps its own 74ch measure inside the page box,
+so the PDFs keep their old pagination (people 130 pages, story 153); only
+their metadata bytes changed. Rebuild is deterministic (same HTML md5
+twice); `share_check --site --print --pdf` all green; docs mirrored (md5
+0dc0f7d65fc24632b4a72506c1d8eee9).

@@ -313,3 +313,9 @@ page. Nine violations were repaired across ayanokouji/horikita/kushida and
 the y1v1 volume ledger; see progress3 for the list. `verify3.py` now pairs
 quotes correctly instead of matching closing quote → opening quote, which
 had produced two false failures and could mask real ones.
+
+### Layout pass (site, 2026-10-27)
+
+CSS and the home template only: the `.measure` width cap, the hero grid, the
+home prose columns. No ledger, walk state or coverage number changed; y1v2
+remains unstarted at the same chapter mark. See progress3 for measurements.

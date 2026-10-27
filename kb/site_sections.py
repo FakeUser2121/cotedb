@@ -207,6 +207,7 @@ attached, and a marker wherever nothing has been read line by line yet.</p>
 <h2 id="library">The library</h2>
 <div class="cards">{sections}</div>
 <h2 id="reading-a-page">Reading a page</h2>
+<div class="cols">
 <p><strong>Bold labels</strong> say what kind of note the page produced —
 <em>Spoken</em> is dialogue, <em>Inner voice</em> is the narrator's thoughts,
 <em>What happens</em> is action. “Curly quotes” inside them are the novel's own
@@ -221,7 +222,8 @@ That has reached {len(walked)} volume{'' if len(walked) == 1 else 's'} so far
 ({', '.join(S.esc(site_arch.volume_label(w)) for w in walked)}, {stats['scenes']}
 anchored scenes between them). Everything those volumes do not cover is
 clearly marked as not yet worked through, and shows the mechanical facts —
-who is named on which page — rather than remembered summaries.</p>"""
+who is named on which page — rather than remembered summaries.</p>
+</div>"""
     return ctx["page"]("COTE Knowledge Base", "home", body,
                       [("Home", "index.html")], out="index.html",
                       rail=[], lede="", kicker="Annotated archive",
