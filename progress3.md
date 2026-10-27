@@ -705,3 +705,31 @@ stopped printing) / world 34.
 Not done: the walk still has y1v2 ch1 unstarted. Stage 5 of the plan — promoting
 quote-bank lines a scene does not already carry into verbatim rows — belongs to
 the walk itself and starts there.
+
+### y1v2 Chapter 3 reaches the site, and the wording gate earns its keep (site, 2026-10-27)
+
+No engine change this turn — the walk moved and the build followed it.
+`check_wording()` is the only interesting part: it blocked the first push of
+the Chapter 3 fan-out with 12 problems, and every one of them was a line the
+walk had written about itself rather than about the book ("recorded in the
+y1v1 section of this ledger", "the ledger only says", "What the ledger can
+assert", "chases Horikita down the walk to the entrance"). Five source lines
+were rewritten in reader language, one of them twice because the same sentence
+is rendered on a person page, the volume page and a topic page. The rule stayed
+put; the prose moved. Nothing about the checker was loosened — it was the
+ledger text that was wrong.
+
+Counts after the rebuild: 161 pages (unchanged), search records 764 → **776**,
+internal links checked 16830 → **17092**, 0 bad; cross-page `a.cite` links 668 →
+**735**, plain `.pageref` references 3872 → **4343**, `details.citebox` still 0.
+Print bundles: guides 22, **people 131**, **school 39**, **story 154**,
+**topics 137**, world 34 pages. Determinism re-measured across two consecutive
+builds: `7b912f598b4fed8f5aa0748bdb755744`, and `--docs` mirrored to the same
+tree.
+
+Where the new text lands was checked rather than assumed, because Ike and
+Yamauchi do not have their own pages: their Chapter 3 blocks render on
+`people/minor/i.html`, `people/minor/y.html` and the volume page
+`story/v/y1v2/index.html`; `systems/point-economy` renders inside
+`school/system/private-points.html` and `exams/midterm-exam` inside
+`school/exam/midterm-final-written.html`. Full gate: all checks passed.

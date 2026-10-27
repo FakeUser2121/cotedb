@@ -47,3 +47,14 @@ aliases used for anchors: sakura, airi, sakura-san
 [scene] (p.20) §2.2 lunch, observed by Ayanokōji: still eating alone, hunched over a homemade bento; the glasses-and-plain-girl reputation ("At one time Ike had made a ruckus about how large her breasts were, but because she was considered plain, everyone quickly lost interest.").
 
 <!-- walk: y1v2 ch2 → p.39 -->
+
+### y1v2 p.40–65 — Ch.3: the witness sits in the room and says nothing
+[scene] (p.41) Chabashira puts the ask to the classroom: "If anyone here witnessed the fight, please raise your hand." — "No students raised their hands in response to her question."
+[note] (p.41) This is inference, stated as inference: Sakura was in that homeroom (pp.40–43 is Class D's classroom, and she is a Class D student), but Chapter 3 never singles her out, never names her, and never says whether she looked up. All this page can assert is that no hand went up.
+[scene] (p.42) Kushida re-asks the same question in a form a witness could answer privately — "If anyone knows someone who saw what happened, whether it’s someone in class, a friend, or an upperclassman, please tell me. You can contact me at any time." — the one line in the chapter that would have been safe for her to answer, and she does not.
+[status] (p.40–65) She holds the only neutral visual record of pp.12–13 — silent-camera photographs she has not shown anyone — and Chapter 3 closes with it still hidden.
+[limit] (p.41) The window that her silence consumes is fixed and public: "We’ll make our final judgment next Tuesday, taking into account any eyewitnesses and evidence," and "In order to check for witnesses, every teacher will inform their classes of the details of this incident." The school is now actively canvassing every class in the year for her.
+[note] (p.62) AK, in a classroom with "about one third of our class remained in the room": "Suddenly, I felt a sensation, like someone was watching me. I turned around." The text never says who watched him and never resolves it inside the chapter. Do not read it as Sakura — it is an unanswered beat, not a link.
+[trait] (p.40–65) Her Chapter 1 creed ("And so I will continue to live quietly, with my eyes downcast. Alone.") is what the whole chapter quietly costs Sudou: invisibility works, and it works on the class's behalf too.
+
+<!-- walk: y1v2 ch3 → p.65 -->

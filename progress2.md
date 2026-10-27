@@ -355,3 +355,45 @@ No ledger line was edited; the walk position (y1v2 ch1 still unstarted) and
 every coverage number are unchanged — 388 scenes, 764 search records, 668
 cross-page arrow links, 3872 plain page references where 3477 were. See
 progress3 for the measurements.
+
+### y1v2 Chapters 1–3 are now in every ledger they touched (walk, 2026-10-27)
+
+Walk position moves for the first time in this run: **y1v2 ch1–ch3 read and
+written, next unit is Ch.4 "An Unexpected Witness" (pp.66–151, two sub-reads)**.
+Chapters 1–3 had been read earlier and recorded only in Ayanokōji's own file,
+so this pass was not a new read — it was pp.40–65 re-opened and the chapter's
+owed entries written into the other ledgers from the same scenes.
+
+Fanned out this pass: Ike Kanji (3 scene blocks — homeroom accusation pp.41–48,
+the phone/ranking/contest confession pp.50–53, Class B doorway pp.61–64),
+Yamauchi Haruki (3 — the one sentence that breaks Kushida's appeal pp.42–45,
+the crush council pp.48–52, the doorway pp.54–63), Sakura Airi (1 — the
+witness who sits in the room and says nothing, pp.40–65),
+`systems/point-economy` (the disciplinary case as a points problem, pp.40–61),
+`exams/midterm-exam` (new `## y1v2` section: the midterm's social residue being
+spent on Sudou, pp.45 and pp.52–53) and `volumes/y1v2` (Chapter 3 section with
+setting, four beats, page map, entities, open threads). Ayanokōji's file gained
+two interior lines it had skipped (his "just like stalking" verdict, p.50; his
+pity for Kushida, p.50) and one anchor that had been sitting on the wrong page.
+
+Attribution discipline, because Chapter 3 is a crowded lunch table: every line
+above is written only where the translation names the speaker or fixes it by an
+act ("Ike was the first to talk", "said a disappointed Ike", "Ike put his arm
+around my shoulder", "Yamauchi said it twice", "Yamauchi glanced at Horikita").
+Where two boys could have said it — the pool-and-girlfriend plan, the Envy Tax,
+the contest proposal, the "7 outta 10" replies — the line was left out and the
+ambiguity recorded in the volume section instead. Nothing in Sakura's block is
+asserted as fact: her presence in the homeroom is labelled as inference, and
+Ayanokōji's p.62 feeling of being watched stays an open thread rather than a
+link to her.
+
+Two pre-existing bugs surfaced by the fan-out and fixed: Kushida's and Sudou's
+y1v2 scenes were filed under `## y1v1`, which is why their volume pages showed
+Vol. 1 content, and Ayanokōji's Ike answer was anchored p.50 when the exchange
+is on p.64.
+
+Verification after the writing: `verify2 y1v2` 276 [says] lines (was 245),
+`verify3 y1v2` 185 other quoted lines (was 149), both ALL PASS. The reader
+wording gate then caught five lines of pipeline vocabulary that this fan-out
+had introduced ("this ledger", "the walk to the entrance") and they are
+rewritten in reader language; see progress3 for the site numbers.

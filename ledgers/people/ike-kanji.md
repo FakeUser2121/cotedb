@@ -163,3 +163,50 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:sudou-ken] (p.19, p.28) Inseparable weekday lunch crew; Sudou still rates their advice useless ("I can’t ask them. They’re stupid.").
 
 <!-- walk: y1v2 ch2 → p.39 -->
+
+### y1v2 p.41–48 — Ch.3 open & §3.1: first to turn on Sudou, first to be turned around
+[says] (p.41) “Man, isn’t Sudou just the worst?” — AK flags him as the opener: "Ike was the first to talk."
+[says] (p.41) “If we lose points because of Sudou, will we be at zero again this month?” — his objection is arithmetic, not moral; the class's anger arrives as a points question.
+[scene] (p.44) Seated at the cafeteria table with AK, Horikita, Kushida, Yamauchi and Sudou — "Our group consisted of myself, Kushida, Horikita, Ike, Yamauchi, and Sudou."
+[scene] (p.45) His flip is narrated, not argued: "Although Ike had been against Sudou in the beginning, his attitude had completely changed. That was definitely because Kushida had appealed to him and asked him to help."
+[says] (p.45) “Well, I…I mean, it’s certainly odd that Ayanokouji thinks he’s not going be useful. At least him being there is better than not, I guess? Probably?” (sic — "going be" in the translation)
+[thinks] (p.45) AK on that defence: "Just as expected, Ike couldn’t come up with how I’d be useful."
+[says] (p.45) “This is a little disheartening. I thought that preparing for that test together brought us all a bit closer,” — AK's tag: "said a disappointed Ike."
+[says] (p.47) “Whoa, hold on. Let’s not criticize anyone. It’s only natural that Ayanokouji-kun would stick up for Horikita-chan, since they’re together all the time. She’s important to him, right?” — AK: "Ike wore a mischievous, spiteful grin. It was like he was mocking me."
+[says] (p.47) “You’re trying your absolute hardest for someone like Sudou, Kushida-chan. That’s so cute.” — AK: "Ike, completely enchanted, remained transfixed on Kushida’s backside as she walked away."
+[says] (p.48) “I should seriously confess my feelings for Kushida-chan…”
+[says] (p.48) “I have a better chance than you.” — to Yamauchi's jab that Kushida would never "stoop to your level".
+[says] (p.48) “If I dated Kushida-chan… Ahhhhhh….” — AK: "Ike began to lose himself in fantasies, drooling."
+[trait] (p.41–48) The volume's loudest id: he condemns a classmate, is reeled in by one girl's request, then spends the rest of the scene narrating his sex drive out loud. Nothing about him is strategic.
+[rel:kushida-kikyou] (p.47–50) He claims her publicly ("my Kushida-chan"), and her single request is what converts him into Sudou's helper; AK's pity: "In some ways, I felt a little sorry for Kushida."
+
+<!-- walk: y1v2 ch3 → p.65 -->
+
+### y1v2 p.50–53 — Ch.3 §3.1: the phone, the ranking, the contest
+[says] (p.50) “Do you want to know? I bet you both want to know.” — AK: "Ike whipped out his phone with an air of unavoidable weariness."
+[says] (p.50) “You can track your registered friends’ locations on your school phones.”
+[feat] (p.50) He demonstrates it: "Ike searched for Kushida’s present location. Shortly afterward, details about her position were displayed on the screen. A marker appeared on the cafeteria." — the school phone's friend-list location service, known to Class D's least reliable student.
+[says] (p.50) “I check regularly, even on the weekends. I pretend to run into her by chance. I do that to make sure she doesn’t have a boyfriend yet.”
+[says] (p.50) “Stop it. Don’t touch my Kushida-chan with your filthy hands!”
+[says] (p.50) “Realistically, Kushida-chan is just out of our reach. She wouldn’t stoop to our level. But what if I aimed for one rank below her?”
+[says] (p.51) “Are you really okay with Horikita, though? I mean, she’s cute and all, but…she seems kind of boring, you know? I can’t stand someone as dull as her. She wouldn’t want to go to the pool or go out on a date or anything,”
+[says] (p.52) “Well, I don’t really have anything to say. The number of rivals for Kushida-chan just decreased by one.” — AK's gloss: "Ike was multitasking, keeping a lookout for those 7 out of 10 girls while keeping Kushida as his primary target."
+[says] (p.52) “Let’s introduce you to some girls!” — AK: "Ike put his arm around my shoulder and spoke with confidence."
+[says] (p.53) “What’s up, Ayanokouji? You’re not really thinking about skipping out on this contest, are you?” (the who-gets-a-girlfriend-first contest, whose proposer the text leaves unattributed)
+[trait] (p.50–52) He ranks women out loud as a tiered market ("one rank below her", a "7 outta 10") and treats surveillance as romance logistics; AK names it without softening: "What he was doing sounded just like stalking."
+[rel:ayanokouji-kiyotaka] (p.52) He recruits AK into the girlfriend contest and offers to set him up; AK's only counter is "Isn’t it kind of pathetic that you’re trying to introduce me to girls when you don’t have a girlfriend yourself?" and Ike can only answer "W-well…yeah."
+[rel:yamauchi-haruki] (p.50–52) Co-dependent rivals for the same girl — they trade fantasies, check each other for "outdone" moves, and leave AK as the audience.
+
+<!-- walk: y1v2 ch3 → p.65 -->
+
+### y1v2 p.61–64 — Ch.3 §3.2–3.3: Kushida's entourage, in Class B
+[scene] (p.61) Kept behind at the table while Kushida and AK chase Horikita: “Ike-kun, Yamauchi-kun, could you two please wait here? We’ll be back right away,” and "“Okay!” the boys chorused." — AK's aside: "You certainly couldn’t claim those two were friendly with Horikita."
+[says] (p.62) “Wait, ask them one by one? Wouldn’t it be way easier to ask everyone at the same time?” — AK: "He didn’t seem to like this roundabout way of doing things."
+[says] (p.63) “D-damn it! There are way too many guys after my Kushida-chan. This sucks!” — in the doorway of Class B, "shaking in his boots" and frozen with Yamauchi.
+[says] (p.64) “Wow, those guys in the sports club really work hard, huh?” — AK: "Ike, having scouted around Class B, joined me in looking out the window."
+[says] (p.64) “I think people who participate in clubs are stupid,”
+[says] (p.64) “If you like exercising, then what’s wrong with just doing it as a hobby? What benefit is there to undergoing such a harsh regimen?”
+[trait] (p.62–64) He measures everything in utility to himself — asking questions one by one is "way easier" avoided, club members are "stupid" because club activity shows him no benefit — and AK's correction lands: "“You’re probably right,” I said."
+[rel:kushida-kikyou] (p.61–63) He follows her into another class, stands in the doorway, and monitors the male population of Class B as a rival pool rather than as witnesses.
+
+<!-- walk: y1v2 ch3 → p.65 -->

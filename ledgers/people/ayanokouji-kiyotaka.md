@@ -679,13 +679,15 @@ walk: y1v1 → DONE
 [says] (p.47) "Horikita is smart, right? So I think she probably had some idea."
 [says] (p.47) "Well, it’d be great if a witness stepped forward. The teachers are going around and talking to each class about the incident. When they do find someone, things should get settled quickly."
 [thinks] (p.47) "It wasn’t unreasonable for Horikita to throw in the towel. Besides, even if there had been a witness, it’d be checkmate for us if that witness happened to come from Class C... This school was a hierarchy, after all."
-[says] (p.50) "I think people who participate in clubs are stupid"? No — heard; his own: "Why would you say that? You know such a statement will alienate about half of the students here, right?" (to Ike, §3.3 p.64)
+[says] (p.64) "Why would you say that? You know such a statement will alienate about half of the students here, right?" — his answer to Ike's "I think people who participate in clubs are stupid", which is Ike's line, on Ike's page.
 [says] (p.51) "Nope." (nothing between him and Horikita)
 [says] (p.52) "Anyone…" → "Nope, no one," — internally: "If I had to choose someone, I probably would have picked… Kushida? She was the person I talked to the most, so that was only natural. But knowing that she didn’t like me, I couldn’t really imagine things progressing."
 [says] (p.52) "Unlike you guys, I don’t really know any girls apart from Horikita and Kushida."
 [says] (p.52) "Isn’t it kind of pathetic that you’re trying to introduce me to girls when you don’t have a girlfriend yourself?"
 [thinks] (p.53) "I wondered if participating in such a shameless competition would actually make me their friend. It sounded difficult."
 [thinks] (p.53) "Although it was fine for them to get all excited, Sudou’s problem still hadn’t been resolved."
+[thinks] (p.50) His verdict on Ike's location-tracking of Kushida: "He crossed his arms and wore a confident smile. What he was doing sounded just like stalking. Another step forward and it would be appropriate to involve the police." — he names the behaviour and does nothing about it.
+[thinks] (p.50) On the boys' fantasies aloud at the lunch table: "In some ways, I felt a little sorry for Kushida. She was most likely the subject of their nightly fantasies."
 [trait] (p.44–53) In group defense he self-deprecates on purpose; deflects Horikita-analysis into "just guessing" to protect morale; keeps score of his own low usefulness claims while privately holding the sharpest read in the room.
 [rel:ike-kanji] (p.45) Ike's grudging "At least him being there is better than not, I guess? Probably?" — AK's utility officially unexplained even to his defenders.
 [rel:horikita-suzune] (p.46–47) Publicly defends her reasoning to the boys; Ike reads it as romance-leaning ("She’s important to him, right?").

@@ -171,6 +171,10 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y1v1 ch12 → p.262 -->
 
+## y1v2
+
+<!-- walk: y1v2 → start -->
+
 ### y1v2 p.12–13 — Ch.2 opening: one-punches three Class C boys, finishes the fight
 [scene] (p.12) Post-fight tableau seen through Sakura's eyes: three boys on the floor, Sudou standing over them, right fist bloody; "It was an entirely one-sided ordeal."
 [says] (p.12) "He he, so. Do you really think that this is the end of it, Sudou?" (one of the beaten Class C boys taunts from the floor — speaker unnamed)
@@ -227,3 +231,52 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:ike-kanji] (p.28) Rates Ike/Yamauchi as useless for advice ("They’re stupid.") yet keeps using their cloned-key club.
 
 <!-- walk: y1v2 ch2 → p.39 -->
+
+### y1v2 p.40–41 — Ch.3 open: his defence collapses in front of the class
+[says] (p.40) “It wasn’t my fault! It was self-defense! Self-defense, I tell you!”
+[scene] (p.40) He shouts it "as he shouldered his classmates’ icy glares" — the class is already against him before Chabashira finishes.
+[says] (p.40) “What evidence? I don’t have any.”
+[says] (p.40) “All I know is that I’m innocent. If anything, I ought to receive a settlement for my trouble.”
+[says] (p.41) “Looks that way,” (his own answer to "there are no witnesses in this class")
+[scene] (p.41) "When Chabashira-sensei cast a doubtful look at Sudou, he glanced downward."
+[says] (p.41) “Huh?! You’re telling everyone?!”
+[says] (p.41) “Damn it!”
+[trait] (p.41) AK's verdict on the strategy: "Sudou’s plan had already fallen apart." The secrecy he begged for two nights earlier dies the moment the school canvasses every class for a witness.
+[scene] (p.41) He leaves with Chabashira immediately: "Chabashira-sensei left, and Sudou followed right after her. He probably realized that if he stayed in the classroom, he’d lose his temper with someone."
+
+<!-- walk: y1v2 ch3 → p.65 -->
+
+### y1v2 p.42–45 — Ch.3 §3.1: the class's own memory of him is the case against him
+[scene] (p.42–43) Classmates answer Kushida's appeal with their own sightings, speakers unnamed: "I saw him grab some kid by the collar just because they bumped into each other in the hallway." / "I saw him cut in line in the cafeteria and lash out when someone tried to tell him that wasn’t okay."
+[back] (p.42) Yamauchi's public counter-testimony, which turns the room: that Sudou "lied so he could justify what he did", that "He talked about beating up kids all the time in junior high. He even told us how much fun it was to beat people up."
+[scene] (p.44) In the cafeteria he pleads to Horikita in flat, external terms: "Sudou spoke to Horikita with indifference, almost as if he were describing someone else’s problems."
+[says] (p.44) “I’m sorry, Horikita. I’ve caused trouble for you again. But it really wasn’t my fault this time. All I did was blow up those Class C jerks’ plans.”
+[says] (p.44) “Wait. You might be right about that, but I’m not the one at fault here! Those guys picked a fight with me! What part of that is my fault?”
+[says] (p.44) “What’s trivial about it? It makes all the difference! I didn’t do anything wrong!”
+[says] (p.45) “So you’re not gonna help? I thought we were friends!”
+[says] (p.45) “What the hell is her deal?! Goddamn it!”
+[feat] (p.45) His temper performs the argument against him in real time: "Unable to direct his rage anywhere else, Sudou slammed his fists on the cafeteria table, spilling a nearby student’s miso soup. The student glared, but when he saw how scary Sudou looked, he remained silent."
+[rel:horikita-suzune] (p.44–45) He assumes the friendship she refused to name; her answer — that she has "never once considered you a friend" — is the first time the class hears her draw that line out loud.
+
+<!-- walk: y1v2 ch3 → p.65 -->
+
+### y1v2 p.46–47 — Ch.3 §3.1: he cannot accept that her refusal has a reason
+[says] (p.46) “I don’t really want to think about it, but I guess it might be true.”
+[says] (p.46) “Is it because she hates Sudou? I mean, she just said she didn’t consider him a friend.” — read as Kushida's line to the group, on Sudou's behalf; the text attributes neither to a named speaker.
+[says] (p.46) “What’s trivial about it? ...” — see p.44; he returns to the same refusal to examine his own part.
+[says] (p.47) “What idea? To toss me out like the trash?”
+[says] (p.47) “So what? You don’t have a reason?”
+[limit] (p.46–47) AK's diagnosis, which Horikita states herself one page later: he will not accept a reason for the refusal, only a verdict. "Since Horikita was definitely on his mind, he probably wasn’t too pleased about her rejection."
+[rel:kushida-kikyou] (p.44) He accepts her defence of him and never credits it; his own attitude flip in this chapter comes from Ike being recruited by her, not from him changing anything.
+
+<!-- walk: y1v2 ch3 → p.65 -->
+
+### y1v2 p.51 — Ch.3 §3.1: the Horikita fantasy, stated in front of the class
+[says] (p.51) “Just to be sure, there’s really nothing between you and Horikita?”
+[says] (p.51) “Okay, fine then. I guess I misunderstood. I thought you were clinging to her too much. That’d be a bother for Horikita.”
+[says] (p.51) “You guys don’t know anything. Horikita is hands down better than Kushida, anyway.”
+[says] (p.51) “I mean, if it was any other guy, she’d probably turn them down. But if you were her boyfriend, then it’d be okay, right? Then she’d show you a secret side that no one else gets to see.”
+[trait] (p.51) AK's frame on the speech: he "crossed his arms and nodded, boasting about his personal preferences" — he reads Horikita's coldness as a stage of courtship rather than a refusal, which is exactly the non-recognition she named on p.45.
+[rel:ike-kanji] (p.51) The three of them run a rivalry about who gets a girlfriend while his own suspension clock runs down; Yamauchi's "But the Horikita of your dreams seems to have tossed you aside, Sudou" lands, and he answers "Well, I guess so. Damn it! Now I feel all depressed."
+
+<!-- walk: y1v2 ch3 → p.65 -->

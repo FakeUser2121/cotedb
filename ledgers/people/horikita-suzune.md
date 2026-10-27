@@ -402,3 +402,32 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:sudou-ken] (p.22–23) Won't call for his expulsion yet discounts defending him publicly; frames everything through class-point consequences.
 
 <!-- walk: y1v2 ch2 → p.39 -->
+
+### y1v2 p.44–47 — Ch.3 §3.1 (cafeteria): refusing Sudou in front of the group
+[says] (p.44) “You seem to get yourself into trouble time and time again, Sudou-kun.”
+[says] (p.44) “Sorry, but I don’t feel like helping you this time.”
+[says] (p.44) “For Class D to rise through the ranks, it’s important to recover the class points we lost as quickly as possible. However, we probably won’t get any points now, thanks to you. You hindered those plans.”
+[says] (p.44) “You keep focusing on who started the fight, but that’s a trivial detail. Did you never consider that?”
+[says] (p.45) “Is that so? Well, best of luck to you.”
+[says] (p.45) “Don’t make me laugh. I’ve never once considered you a friend. Nothing makes me more uncomfortable than being around someone who doesn’t recognize his own stupidity. Goodbye.”
+[trait] (p.45) The refusal is delivered as arithmetic, not malice: "Horikita appeared more exasperated than angry. She let out a deep sigh, and left."
+[scene] (p.46) She takes her tray and sits elsewhere in the cafeteria; AK watches her "looking slightly irritated" while the group tries to work out her reasons without her.
+[says] (p.47) “What idea? To toss me out like the trash?” (Sudou throwing her refusal back at AK)
+
+<!-- walk: y1v2 ch3 → p.65 -->
+
+### y1v2 p.54–57 — Ch.3 §3.2: walked out on, chased down, and still not moved
+[scene] (p.54) Announces "All right, I’m going to the dorms," nods "without hesitation" and leaves; she "didn’t quail under everyone’s gazes, which all expressed variations on 'You’re leaving?'"
+[trait] (p.54) AK's portrait of the manner: "She would probably grow up to be a fierce woman, the type that leaves social outings without reading the room and concludes meetings exactly on time."
+[says] (p.56) “What is it?”
+[says] (p.56) “I thought I already declined? A few minutes ago, no less.”
+[says] (p.56) “You’re free to run about for Sudou-kun’s sake. I’ve no right to stop you. However, if you need help, try someone else. I’m busy,”
+[says] (p.56) “I have an important daily routine, so I need my alone time. It’s unpleasant to have that time stolen from me.”
+[says] (p.56) “Even if I step in and save him now, he’ll land himself in trouble again. It’s a vicious cycle, isn’t it? You seem to think that Sudou-kun is the victim here, but I think differently.”
+[says] (p.56) “Maybe the Class C students really did start this fight, but Sudou-kun was also one of the perpetrators.”
+[says] (p.57) “Why was he dragged into the fight? This problem will persist until we understand that fundamental question. Got it? I do not wish to help until that question is answered. Since you weren’t able to convince me, why don’t you ask the guy standing next to you? Even though he pretends not to understand what I’m thinking, he probably does.”
+[trait] (p.56–57) Kushida's "necessary to reach Class A" argument bounces off her because she is not arguing about points: she sets a precondition (explain why the fight happened) that no one in the class is willing to meet, then walks.
+[rel:ayanokouji-kiyotaka] (p.57) In front of Kushida she claims AK reads her mind — the first time the private shorthand between them is asserted to a third party. AK's reaction is refusal: "Please stop saying that I understand you."
+[back] (p.60) AK's gloss on her motive, said only in his own head: "Horikita wasn’t the type to teach through kindness. She didn’t feel an obligation to others."
+
+<!-- walk: y1v2 ch3 → p.65 -->

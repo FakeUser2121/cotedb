@@ -44,3 +44,14 @@ exam_id: midterm-exam · scope: ANHS first-year midterm examination (y1v1, May 2
 [fact] (p.246, 248) Class D passes en masse otherwise — the old-test operation delivered; everyone clears except Sudou's single red line.
 
 <!-- walk: y1v1 ch11 → p.255 -->
+
+## y1v2
+
+<!-- walk: y1v2 → start -->
+
+### y1v2 p.45, p.52–53 — Ch.3 §3.1: the midterm's social residue gets spent
+[scene] (p.45) Two weeks after the results, the shared prep is invoked as an obligation on Sudou's behalf: “This is a little disheartening. I thought that preparing for that test together brought us all a bit closer,” — AK's tag: "said a disappointed Ike."
+[note] (p.44–45) The exam's after-effect runs one way only: it buys group feeling, and Horikita is the one student who refuses to spend it on Sudou ("I’ve never once considered you a friend."). No pass rule, threshold or buyback from the midterm is restated, revised or appealed anywhere in Chapter 3.
+[status] (p.52–53) The reward the class was promised is still the horizon the boys talk over: “Hey, Sae-chan-sensei said that we’d have a vacation this summer, right?" — the vacation, not the scores, is what the midterm is remembered as in July.
+
+<!-- walk: y1v2 ch3 → p.65 -->

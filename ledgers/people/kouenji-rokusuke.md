@@ -65,3 +65,17 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [trait] (p.214) Effortless cross-year social dominance; total unshyness; monetized charisma — popularity that predates any class-rank signal.
 
 <!-- walk: y1v1 ch9 → p.235 -->
+
+## y1v2
+
+<!-- walk: y1v2 → start -->
+
+### y1v2 p.20 — Ch.2 §2.2 (lunch): the balance that bought him out of the cafeteria
+[scene] (p.20) Lunch in the Class D room: Horikita, Ayanokōji and Kōenji are the students still at their desks while the rest have gone to eat — "a few students were still all alone".
+[back] (p.20) AK's account of how his social calendar changed: "On first starting here, he’d enjoyed the company of girls from other classes and grade levels. However, once he ran low on points, he began to spend most of his time in the classroom."
+[scene] (p.20) "He was currently completely lost in examining his face in a hand mirror, his daily routine."
+[trait] (p.20) AK's correction of the usual reading of him: "He didn’t love solitude, but rather, loved himself and cared little for others. I respected that he didn’t seem bothered at all by being alone."
+[back] (p.20) "He was the sole heir to the Kouenji conglomerate group, one of the largest corporations in Japan." — AK repeats the fact here as background for why Kōenji is unbothered; his own dismissal of class rank belongs to Volume 1 and is recorded there.
+[note] (p.20) What he eats, and whether he buys anything at all in July, is never stated; the text here says only that he has stopped leaving the classroom to be entertained.
+
+<!-- walk: y1v2 ch2 → p.39 -->

@@ -222,6 +222,10 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y1v1 ch12 → p.262 -->
 
+## y1v2
+
+<!-- walk: y1v2 → start -->
+
 ### y1v2 p.19 — Ch.2 §2.2: the social ceiling, narrated
 [back] (p.19) AK's snapshot of her position: "She’s extremely popular and has many friends, both girls and boys. She gets in-person invitations, along with constant invites over the phone and through email... when she eats with friends she appears to have a real life."
 
@@ -268,3 +272,47 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:ayanokouji-kiyotaka] (p.36–38) Escalates one-on-one after Sudou leaves; demands he publicly invest in the case; he internally recalls her "I hate you" warning while complying outwardly.
 
 <!-- walk: y1v2 ch2 → p.39 -->
+
+### y1v2 p.41–43 — Ch.3 open: she takes the class's anger apart in front of everyone
+[scene] (p.41) With the uproar starting to get out of hand, AK's note on her motive: "Naturally, Kushida didn’t want this to happen." — she is defending the class's cohesion, not Sudou.
+[says] (p.42) “Everyone, can you please listen to what I have to say?”
+[says] (p.42) “What our teacher said seems to be true. Sudou-kun may have been in a fight. However, Sudou-kun was dragged into it.”
+[scene] (p.42) She tells the room Sudou's whole account — the regular-player nomination, the envious clubmates, the threat, the self-defence: "Kushida conveyed yesterday’s story to the whole class."
+[says] (p.42) “I’d like to ask you all again. If anyone knows someone who saw what happened, whether it’s someone in class, a friend, or an upperclassman, please tell me. You can contact me at any time. I would sincerely appreciate it.”
+[feat] (p.42–43) AK measures the difference between her and the teacher saying the same thing: "Even though she’d basically said the same thing as Chabashira-sensei, the class had a very different response. She had an innate ability to connect with people. Her presence glowed so bright that I could almost feel it."
+[limit] (p.43) Charisma alone does not carry it: after Yamauchi's accusation, "Kushida’s appeal for Sudou’s innocence didn’t seem to have reached anyone." It takes Hirata standing up — and then Karuizawa — to turn the room.
+[rel:hirata-yousuke] (p.43) He backs her appeal publicly; AK credits the pair of them plus Karuizawa with converting the class, which is the closest the volume comes to the two leaders acting together.
+[rel:karuizawa-kei] (p.43) AK's paired mechanism, stated in the same breath: "If Kushida lived by the softness of her heart, then Karuizawa lived by the strength of her will."
+
+<!-- walk: y1v2 ch3 → p.65 -->
+
+### y1v2 p.44, p.47 — Ch.3 §3.1: keeping Ayanokōji inside the group
+[scene] (p.44) She assembles the lunch table — AK, Horikita, Ike, Yamauchi, Sudou — by asking him directly: "When lunchtime came, Kushida had invited me with a smile. She’d said, 'Want to get lunch?' I’d said okay, of course. I mean, I didn’t have any choice in the matter."
+[scene] (p.47) She leaves the table early to work her own network: “Ah, sorry. I have to go for a bit. I’m going to try asking my upperclassmen friends if they saw anything.”
+
+<!-- walk: y1v2 ch3 → p.65 -->
+
+### y1v2 p.54–63 — Ch.3 §3.2–3.3: Horikita, the lesson, and Class B
+[says] (p.54) “Are you really heading back? Horikita-san?”
+[says] (p.54) “You will…help us out, won’t you?” (stopping AK from slipping out; AK: "I couldn’t refuse. Slightly upturned eyes + pleading = lethal.")
+[says] (p.55) “I want to get Horikita-san to help us out this time. Can you try asking her again?”
+[says] (p.55) “Yeah. I want to chase after her. If Horikita-san helps, I think she’ll make a big difference.”
+[scene] (p.55) She takes AK's arm in front of Ike and Yamauchi and walks him out with her; Ike and Yamauchi are left behind because, as AK notes, "You certainly couldn’t claim those two were friendly with Horikita."
+[says] (p.56) “I really want you to help us with Sudou’s case. Is that possible?”
+[says] (p.56) “I know you did, but…but, I think this is necessary to reach Class A.”
+[says] (p.57) “W-wait. What do you mean? Wasn’t Sudou-kun dragged into the fight?”
+[says] (p.57) “Sudou-kun is a perpetrator? Is that…true?”
+[says] (p.60) “I don’t agree with abandoning Sudou-kun just to punish him. If she’s dissatisfied with him, I think she should at least talk to him directly. That’s what friends would do.”
+[says] (p.60) “Okay. I understand. I’ll follow your advice, Ayanokouji-kun.”
+[trait] (p.60) AK's definition of her, offered as a limit on himself: "She would extend her hand to a friend in need as many times as it took. It sounds simple, but it was actually difficult. Only someone like Kushida could do such a thing."
+[feat] (p.60) She is moved mid-conversation and lets it show: "Kushida arched her back and stretched; I’d changed her thinking." — then converts the new position into action ("Okay, let’s go hunt for the witness.")
+[says] (p.61) “No, I’m sorry. I failed,”
+[says] (p.61) “Well then, let’s go to Class B right away!”
+[says] (p.62) “I also think you’re being too negative. I do think it’s a good idea to ask Class B, but I also think we should ask several people at once. If not, we may not find the witness in time.”
+[says] (p.62) “I’m sorry, Ayanokouji-kun.” (overruling his one-at-a-time plan with Ike and Yamauchi behind her, and apologising for it; AK withdraws: "Kushida’s plan had convinced me, so I withdrew my own.")
+[scene] (p.63) In the Class B room she is the only one of the four who moves: "Kushida was the only one who remained unfazed. In fact, she found her Class B friends and, with a smile on her face, waved to them and headed over."
+[feat] (p.63) AK's note on the transferability of her manner: "She chatted with people regardless of gender, exactly how she acted in Class D. No one was more jealous of this than Ike and Yamauchi."
+[scene] (p.63) She pitches Sudou's case to the roughly ten Class B students still in the room — the first cross-class advocacy of the volume.
+[limit] (p.63) Her network has a ceiling she cannot see: AK's whole plan for Class B rests on the class's self-interest, and she is running on friendship, which is why the report she brings back surprises him. (What the report is, the text withholds until the next chapter.)
+
+<!-- walk: y1v2 ch3 → p.65 -->

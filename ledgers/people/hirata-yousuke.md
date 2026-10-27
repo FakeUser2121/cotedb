@@ -151,3 +151,16 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:ayanokouji-kiyotaka] (p.36) AK holds him up as the standard he himself declines to be.
 
 <!-- walk: y1v2 ch2 → p.39 -->
+
+### y1v2 p.40–43 — Ch.3: the one standing voice for Sudou
+[says] (p.40) “Umm. So why hasn’t this issue been resolved already?” — AK calls it "a rather reasonable question", the first thing anyone asks Chabashira after the announcement.
+[says] (p.43) “I want to believe him.”
+[says] (p.43) “If a student in another class were casting doubt on him, I could understand it,”
+[says] (p.43) “But I think it’s wrong to doubt a fellow classmate right away. Shouldn’t friends do everything within their power to help someone in need?”
+[scene] (p.43) Stands in support of Kushida's appeal for Sudou: "Hirata, the class hero, uttered those words as he stood in support of Kushida. His appearance was dashing, and he clearly wasn’t drunk on the same anti-Sudou Kool-Aid as everyone else."
+[trait] (p.43) His stance converts the room by example, not argument — AK: "Starting with those three, we launched our investigation to prove Sudou’s innocence", and "Hirata, Kushida, and Karuizawa had attracted the rest of our class’s admiration."
+[limit] (p.43) The conversion is fragile and AK says so plainly: "Though they probably mocked him in their hearts, they would help Sudou a little bit" — the class follows the lead, it does not change its opinion.
+[scene] (p.54) After school he organizes the canvassing as a team: AK names "the Hero & Gal Team" that he leads with Karuizawa, searching campus themselves.
+[rel:sudou-ken] (p.43) Publicly defends the classmate who refuses him privately; the y1v2 ch2 note stands — Sudou will not ask him, so the defence costs Hirata nothing with Sudou and gains Sudou nothing with him.
+
+<!-- walk: y1v2 ch3 → p.65 -->

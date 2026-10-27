@@ -94,3 +94,16 @@ system_id: point-economy · scope: Tokyo Metropolitan Advanced Nurturing High Sc
 [status] (p.27) Sample drain rate: Ayanokōji's post-midterm-point-purchase balance 8,320 private points; 87 class points would have paid ~8700 yen per student.
 
 <!-- walk: y1v2 ch2 → p.39 -->
+
+### y1v2 p.40–47 — Ch.3 §3.1: what a disciplinary case does to a class's balance
+[rule] (p.40) The two-headed cost of a fight, stated by the school: "Depending on the degree of responsibility that Class C saddled him with, Sudou could face suspension, and we might see a reduction in our class points." Individual punishment and class punishment are separate dials turned by the same incident.
+[rule] (p.41) Punishment is deferred against evidence, not against pleas: "We’ll make our final judgment next Tuesday, taking into account any eyewitnesses and evidence." A witness is worth a stay of execution.
+[rule] (p.41) The search is institutionally widened, which is itself a cost: "In order to check for witnesses, every teacher will inform their classes of the details of this incident." — the incident's reputation is now school-wide property.
+[status] (p.41) Class D's own arithmetic on the risk, from Ike: "If we lose points because of Sudou, will we be at zero again this month?" — with 87 class points deposited (p.17), any deduction returns the class to zero private income.
+[rule] (p.44) Horikita states the recovery model out loud: "For Class D to rise through the ranks, it’s important to recover the class points we lost as quickly as possible. However, we probably won’t get any points now, thanks to you." — a deduction is priced not as the points lost but as the month's income forfeited.
+[rule] (p.44) The argument she refuses to accept is moral, not economic: "You keep focusing on who started the fight, but that’s a trivial detail." — under this system the school's liability finding, not the truth of who swung first, sets the deduction.
+[rule] (p.47) A witness is only worth what their class position allows: "even if there had been a witness, it’d be checkmate for us if that witness happened to come from Class C. It would be natural for a Class C student to hide the truth in order to protect his or her fellow classmates. This school was a hierarchy, after all."
+[rule] (p.61) Class interest predicts who will help: AK opens with Class B because it is "the class that would most want a witness" — "Between D and C, which class most threatens Class B?" — and skips Class A on the grounds that "I don’t think they’d want to get involved in a troublesome affair that might negatively impact their points."
+[note] (p.40–61) Nowhere in Chapter 3 is a point figure transferred, held in escrow, or offered as inducement; every lever in this chapter is the threat of a future deduction, and no student pays or receives points for the witness search.
+
+<!-- walk: y1v2 ch3 → p.65 -->

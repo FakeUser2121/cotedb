@@ -165,3 +165,48 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:horikita-suzune] (p.249–255) Defeats her counter-trap, then rewards her defective-vs-trash answer with visible approval.
 
 <!-- walk: y1v1 ch11 → p.255 -->
+
+## y1v2
+
+<!-- walk: y1v2 → start -->
+
+### y1v2 p.16–18 — Ch.2 §2.1 (July 1): the point board, and a deposit with a rider
+[scene] (p.16) She "strode into the classroom as the homeroom bell rang" to a Class D more raucous than usual, the first payout day since enrollment.
+[says] (p.16) “Good morning, everyone. You all seem more restless than usual today.”
+[says] (p.16) “Oh, so that’s why you’re all so restless?”
+[says] (p.16–17) “Don’t jump to conclusions. Listen to what I have to say first. You’re correct, Ike. You have all worked harder than ever before. I recognize that. Naturally, the school understands full well how you all feel.”
+[scene] (p.17) Puts a paper listing the month's point totals on the board, Class A at the top, rather than letting the class read the app's numbers unexplained.
+[says] (p.17) “Well then. Without further ado, here are this month’s point totals.”
+[says] (p.18) “Well, this time there was a little trouble. The first-year students’ point distribution has been delayed. I’m sorry, but you’ll have to wait a bit longer,”
+[says] (p.18) “Don’t blame me. This was the school’s decision, there’s nothing I can do about it. Once the trouble has been resolved, you’ll receive your points. If there are still points left, that is.”
+[trait] (p.16–18) The same method as entrance day, now in maintenance mode: buy the room's acknowledgment first ("You’re correct, Ike"), then deliver the bad news, then assign it to the school and refuse responsibility — closing on a conditional no student asks her to unpack.
+[back] (p.18) Ayanokōji is the only one who hears the rider as a warning: "There was deeper meaning behind Chabashira-sensei’s words."
+[back] (p.16) AK's memory of her entrance-day line is what taught the class to spend: he "understood that our homeroom teacher, Chabashira-sensei, hadn’t been kidding when she told us, 'At this school, you can buy anything with your points.'"
+
+<!-- walk: y1v2 ch2 → p.39 -->
+
+### y1v2 p.22 — Ch.2 §2.3: collecting Sudou for the faculty room
+[says] (p.22) “Sudou. I have to talk to you about something. Come to the faculty room,”
+[says] (p.22) “I’ve already spoken with the advisor. You don’t have to come with me if you don’t want to, but you will face the consequences later.”
+[says] (p.22) “That all depends on you. The longer you stand there, the more time you waste.”
+[trait] (p.22) She removes the excuse before she makes the request — the club advisor has already been told, so his "I’ve got basketball practice now" buys nothing. Refuses to estimate how long it will take ("That all depends on you").
+[rel:sudou-ken] (p.22) First direct contact since she cancelled his expulsion at the midterm: private summons, no audience in front of the class, and he "clicked his tongue, and followed" her out.
+
+<!-- walk: y1v2 ch2 → p.39 -->
+
+### y1v2 p.40–41 — Ch.3 open (July 2 homeroom): she makes Sudou's fight public
+[scene] (p.40) About to leave homeroom, she "assaulted us with one of her infamously brief and off-hand announcements", naming Sudou and Class C in front of the whole class.
+[says] (p.40) “I have an announcement for you all. There was a bit of trouble the other day, an incident between the student sitting there, Sudou, and some students from Class C. In short, there was a fight.”
+[trait] (p.40) AK's read of the delivery: "Her face was so devoid of emotion or interest when she spoke that there was a certain serene beauty to it. She inserted no personal bias whatsoever when she addressed the class, and explained the situation from a position of neutrality."
+[says] (p.40) “The complaint came from Class C. They claim that the fight was one-sided. However, when we spoke to the accused, Sudou said that their claims were false. He insists that the students Class C called him over and started the fight.”
+[says] (p.41) “So in other words, we don’t yet know the truth. Therefore, we have put our decision on hold for now. Our response, and the punishment, will come when we find out who was at fault.”
+[says] (p.41) “So speaks the accused, but I wouldn’t say that you have a high level of credibility right now. If there is an eyewitness, as Sudou seems to believe, then the situation may change. If anyone here witnessed the fight, please raise your hand.”
+[scene] (p.41) "Chabashira-sensei continued talking in a robotic, flat voice. No students raised their hands in response to her question."
+[says] (p.41) “Too bad, Sudou. It appears there are no witnesses in this class.”
+[says] (p.41) “In order to check for witnesses, every teacher will inform their classes of the details of this incident.”
+[says] (p.41) “Anyway, that is all. We’ll make our final judgment next Tuesday, taking into account any eyewitnesses and evidence. With that, let’s end homeroom for the day.”
+[trait] (p.40–41) She destroys Sudou's containment plan as a side effect of doing her job neutrally: no editorialising, no protection, and the school-wide notification she volunteers is the step that turns a class matter into a cohort matter. AK: "The school probably had no say in the matter."
+[rule] (p.41) The disciplinary process stated on the page: accusation and defence both recorded, decision held pending eyewitness or evidence, judgment date fixed (next Tuesday), and every class informed so witnesses can be found outside Class D.
+[scene] (p.41) She leaves and "Sudou followed right after her" — AK's read: he stayed out of the room rather than lose his temper at his classmates.
+
+<!-- walk: y1v2 ch3 → p.65 -->

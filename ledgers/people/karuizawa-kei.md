@@ -31,3 +31,17 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:kushida-kikyou] (p.138–139) Treats Kushida as an easy financial lifeline; borrows 2,000 points without a second thought.
 
 <!-- walk: y1v1 ch7 → p.151 -->
+
+## y1v2
+
+<!-- walk: y1v2 → start -->
+
+### y1v2 p.43, p.54 — Ch.3: Hirata's vote, cast out loud
+[says] (p.43) “I agree!”
+[says] (p.43) “If it were a false charge, that’d be a problem, wouldn’t it? In any case, you’d feel bad for him if he were innocent, right?”
+[back] (p.43) Introduced by AK in the middle of the uproar as "heroic Hirata's girlfriend", "brushing her bangs aside with her hand as she spoke".
+[trait] (p.43) AK's paired contrast of the two girls who moved the class: "If Kushida lived by the softness of her heart, then Karuizawa lived by the strength of her will. Perhaps it was because of Kushida and Karuizawa’s influence that many of the girls started to express their support."
+[scene] (p.54) After school she works the canvassing with him: "Hirata and Karuizawa led the Hero & Gal Team".
+[rel:hirata-yousuke] (p.43) Seconding his stance is enough to open the flood of support; she moves the girls as a block, which is where her influence in Class D actually lives.
+
+<!-- walk: y1v2 ch3 → p.65 -->

@@ -108,3 +108,34 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [trait] (p.19) Still grouped with Ike as the class's non-popular boy clique two months in.
 
 <!-- walk: y1v2 ch2 → p.39 -->
+
+### y1v2 p.42–45 — Ch.3: one sentence from him undoes Kushida's whole appeal
+[says] (p.42) “Hey, Kushida-chan. I just can’t believe what Sudou said. I think he lied so he could justify what he did. He talked about beating up kids all the time in junior high. He even told us how much fun it was to beat people up.”
+[feat] (p.42–43) He is the pivot of the homeroom: AK marks the turn as his — "Instantly, silence enveloped the classroom. The first to speak wasn’t the eyewitness, but Yamauchi." and "After Yamauchi voiced his concerns, the rest of the class murmured their dissatisfaction with Sudou in turn."
+[scene] (p.45) At the cafeteria table he volunteers first for the case: “I guess it’s just up to us.” — Sudou reads it as loyalty: "I knew for sure you’d understand, Yamauchi. I’m really counting on you too, Ayanokouji."
+[rel:sudou-ken] (p.42, p.45) The same boy who supplies the class's proof that Sudou is a habitual bully is then trusted as "one of us" when Sudou needs helpers; AK notes the ranking his own name gets behind Yamauchi's.
+[rel:ike-kanji] (p.42) His accusation is spoken to Kushida by name and lands because the class already half-believes it — he says out loud what Sudou has bragged about to him and Ike privately.
+
+<!-- walk: y1v2 ch3 → p.65 -->
+
+### y1v2 p.48–52 — Ch.3 §3.1: the other half of the crush council
+[says] (p.48) “No way. You seriously think she’ll stoop to your level, Ike?”
+[says] (p.48) “H-hey, what are you fantasizing about?! Spill it!” — AK: "Apparently Yamauchi couldn’t stand the fact that Ike could do as he pleased in his fantasies."
+[says] (p.50) “Damn it! I won’t be outdone! I’ve also thought of a few things!”
+[says] (p.50) “It would be best if Kushida-chan were my girlfriend… It would be the best if she were my girlfriend…” — AK counts the repetition: "Yamauchi said it twice. It must’ve been important to him."
+[says] (p.50) “But wait. Since Kushida-chan is so cute, don’t you think she’ll get a boyfriend any day now?” — Ike has to reply "Don’t say that, Yamauchi!"
+[says] (p.51) “I see… I feel like I can imagine that. So cute.” — on Sudou's fantasy Horikita: "Yamauchi glanced at Horikita and got lost in his delusional fantasies."
+[trait] (p.48–52) Competitive rather than romantic: his desire for Kushida is measured against Ike's and voiced as one-upmanship ("I won’t be outdone"), and he can transfer the same script onto Horikita minutes after hearing Sudou describe her.
+[rel:kushida-kikyou] (p.50) She is his stated girlfriend target, named twice in one breath; AK's pity for her is aimed at exactly this pair.
+[rel:horikita-suzune] (p.51) He is lost in a Horikita fantasy while she is, at that same table, refusing Sudou outright — the gap between his version of her and the real one is the joke AK records.
+
+<!-- walk: y1v2 ch3 → p.65 -->
+
+### y1v2 p.54, p.61–63 — Ch.3 §3.2–3.3: held in the classroom, then frozen in Class B
+[scene] (p.61) Conscripted as the waiting crew while Kushida chases Horikita: "“Okay!” the boys chorused."
+[scene] (p.63) In the doorway of Class B: "Even Ike and Yamauchi appeared to be shaking in their boots. They simply stood frozen in the classroom doorway, unable to move." — "The pair, comrades in vexation, grasped each other’s arms."
+[says] (p.63) “Don’t panic, Ike. It’s okay. We’re in Kushida-chan’s class, so we’re one step ahead of them!”
+[scene] (p.63) AK's measure of the pair in Class B: the gap between them and the people Kushida chats up is what they notice, not the witness list. "No one was more jealous of this than Ike and Yamauchi. Kushida was happily chatting with people who were clearly more attractive than they."
+[limit] (p.54–63) He is asked to canvass and does stand in a doorway; no witness lead in Chapter 3 is ever traced to him.
+
+<!-- walk: y1v2 ch3 → p.65 -->
