@@ -552,4 +552,46 @@ after sorting by volume, and all 80 are Volume 1 Ayanokōji. The cap hides
 the rest of the walked evidence instead of sampling it. Left as-is pending
 the user's call.
 
-### Layout pass (site, 2026-10-27)
+### Ledger rows and the phone masthead (site, 2026-10-27)
+
+Reported as "Page looks half broken and weird", with a dump of the
+Ayanokōji page where the speaker and the page pin appeared under the
+`Spoken` label. Reproduced with CDP at 1600 px: `entry_html` emitted
+`mlabel`, optional `pre`, the `<p>`, optional `post` and the `pin` as five
+separate children of a two-column grid. Auto-placement put the quote in
+column two and everything after it in column one — the attribution
+"Horikita Suzune" measured 104 px wide and 57 px tall, wrapped inside the
+gutter, with `p.16` beneath it.
+
+- One `.ebody` cell now holds the paragraph; the role bucket and the
+  speaker are inline inside it (the speaker in a `.by` span), and the page
+  pin is inline after the text. Column one is `minmax(0, 1fr)`.
+- After: label x306 w104, body x424 w733, "— Horikita Suzune" x711 and
+  "p.16" x854, both in the text column. 542 rows on the character page with
+  0 bodies left of the label and 423 pins with 0 strays; the y1v1 volume page
+  has 1711 rows, 0 bad.
+- Print uses the same markup, so rows no longer reserve two extra lines:
+  people.pdf 130 → 126 pages, story.pdf 153 → 152. Other PDFs unchanged.
+- `details.scene.ev > summary > .head` had no grow, so the scene's page chip
+  stopped at the title (head right 997 on a 1157-wide row). `flex: 1 1 0;
+  min-width: 0` puts the chip at the head's right edge and the entry count at
+  the row's; the zero basis also stops the phone wrap that stranded the `+`
+  on a line above the title.
+
+Phone masthead, found while measuring: at 390 px the scope picker ran 73 px
+past the viewport (`scrollWidth` 448 vs 375). Under 620 px the search now
+takes its own row, the tools sit right, and the picker's label is clipped
+rather than removed so the select keeps its accessible name. `--head-h` was
+stale (152 px at ≤900 where the masthead measures 108): now 112 px at ≤900
+and 148 px at ≤620, both measured. On phones the entry count gets its own
+line and the separate volume chip is hidden, because the pages chip already
+reads "Vol. 1 p.16-18".
+
+Verified: no horizontal overflow on eight sampled pages at 360/390/700/1024;
+a folded scene reached by hash at 390 px opens with its top 162 px below a
+145 px masthead; the drawer opens at 148 px. Gate green, deterministic
+(`c2c7bf95f2c23561521b6621b05e8a7e`), docs mirrored
+(`67d1322985046b87050e8cfac2ed0dba`).
+
+Still open from the last report: the "I remember it mattered" list is cut at
+80 rows after a sort by volume, so all 80 are Volume 1 Ayanokōji.

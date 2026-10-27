@@ -556,20 +556,28 @@ details.scene.ev[open] > summary::before { content: "\2212"; }
 details.scene.ev > summary .ttl { font-weight: 600; }
 details.scene.ev > summary:hover .ttl { color: var(--hue); }
 details.scene.ev[open] > .head { padding-top: 2px; }
+/* the summary's one job is a row: title on the left, pages on the right.
+   Without the grow the .head shrinks to its text and the page chip strands
+   itself in the middle of the row; with a zero basis it always stays on the
+   marker's line instead of wrapping to leave the "+" alone above a title. */
+details.scene.ev > summary > .head { flex: 1 1 0; min-width: 0; }
 details.scene.ev > ul { margin: 0 0 14px; }
 .scene.ev .ttl { font: 600 16.5px/1.35 var(--serif); color: var(--ink); }
 .scene.ev .pgs { margin-left: auto; }
 ul.ledger { list-style: none; margin: 8px 0 0; padding: 0 0 0 2px; }
 ul.ledger > li {
-  display: grid; grid-template-columns: 104px 1fr; gap: 0 14px;
+  display: grid; grid-template-columns: 104px minmax(0, 1fr); gap: 0 14px;
   padding: 7px 0; border-top: 1px dashed var(--line);
 }
 ul.ledger > li:first-child { border-top: 0; }
+ul.ledger .ebody { min-width: 0; }
 ul.ledger .mlabel {
   font: 600 11px/1.6 var(--sans); letter-spacing: .07em; text-transform: uppercase;
   color: var(--muted);
 }
 ul.ledger p { margin: 0; font-size: 15.5px; }
+ul.ledger .by { color: var(--muted); }
+ul.ledger .by a.rel { color: var(--hue); }
 ul.ledger li.e-line, ul.ledger li.e-thought { border-left: 2px solid var(--hue);
   padding-left: 12px; margin-left: -14px; }
 ul.ledger li.e-line p.verb, ul.ledger li.e-thought p.verb {
@@ -578,7 +586,7 @@ ul.ledger li.e-thought p.verb { font-style: normal; color: var(--ink-soft); }
 ul.ledger li.e-note { background: var(--panel-2); border-radius: 8px;
   padding: 8px 10px; }
 ul.ledger li.e-note .mlabel { color: var(--school); }
-ul.ledger .pin { display: block; }
+ul.ledger .pin { display: inline; margin-left: 8px; white-space: nowrap; }
 ul.ledger a.rel { font-weight: 600; color: var(--hue); }
 @media (max-width: 620px) {
   ul.ledger > li { grid-template-columns: 1fr; gap: 2px; }
@@ -613,7 +621,10 @@ a.vlink { color: var(--hue); }
   body.no-left .layout { grid-template-columns: minmax(0, 1fr); }
 }
 @media (max-width: 900px) {
-  :root { --head-h: 152px; }
+  /* measured, not guessed: the masthead is one row of brand + search + tools
+     plus the tab strip. If it changes, re-measure — every anchor offset and
+     the drawer's top edge are tuned to this number. */
+  :root { --head-h: 112px; }
   .layout { grid-template-columns: minmax(0, 1fr); }
   body.no-left .layout, body.no-right .layout,
   body.no-left.no-right .layout { grid-template-columns: minmax(0, 1fr); }
@@ -630,6 +641,25 @@ a.vlink { color: var(--hue); }
   h2 { font-size: 20px; }
 }
 
+@media (max-width: 620px) {
+  /* phone: the search gets its own row instead of squeezing the scope picker
+     off the right edge of the masthead. The picker's label is clipped rather
+     than removed so the select keeps its accessible name; its own option
+     text ("Spoil nothing yet") already says what it does. */
+  :root { --head-h: 148px; }
+  .mast-row { flex-wrap: wrap; gap: 8px 10px; }
+  .brandline { flex: 1 1 auto; }
+  .searchwrap { order: 3; flex: 1 1 100%; max-width: none; }
+  .mast-tools { margin-left: auto; }
+  .mast-tools label { position: absolute; width: 1px; height: 1px;
+    overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+  /* on a phone the entry count is half the row: give it its own line so the
+     title above keeps the full width instead of wrapping every three words */
+  details.scene.ev > summary .n { flex: 1 1 100%; order: 3; margin-top: 2px; }
+  /* the pages chip already names the volume ("Vol. 1 p.16-18"); the separate
+     volume chip would only repeat it on a line of its own */
+  details.scene.ev > summary .pg { display: none; }
+}
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
   .door, .card { transition: none; }

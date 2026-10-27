@@ -324,3 +324,10 @@ remains unstarted at the same chapter mark. See progress3 for measurements.
 
 Recall and topic rows use the anchors `scene_block` already writes; no
 ledger entry was edited and the walk position is unchanged.
+
+### Ledger row fix (site, 2026-10-27)
+
+Rendering only: `site_evidence.entry_html` now keeps a row's note, speaker
+and page inside one body cell, and the phone masthead no longer overflows.
+No ledger line was edited; the walk position (y1v2 ch1 still unstarted) and
+every coverage number are unchanged. See progress3 for measurements.

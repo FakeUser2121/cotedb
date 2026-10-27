@@ -67,27 +67,30 @@ def entry_html(ctx, entry, vol_id, out_rel):
     text = entry["text"] or ""
     cite_html = pin(ctx, vol_id, entry["pages"])
     cls = f'e-{group}'
-    pre = post = ""
+    lead = trail = ""
     if entry["marker"] == "role":
         # the marker's value is a closed-set key, not a person: show the
-        # human bucket, never "class-1d", and put it before the note
-        pre = (f'<span class="rel">'
-               f'{esc(site_roles.bucket_label(entry["target"]))}</span> — ')
+        # human bucket, never "class-1d", at the head of the note
+        lead = (f'<span class="rel">'
+                f'{esc(site_roles.bucket_label(entry["target"]))}</span> — ')
     elif target:
         other = ctx["char_by_id"].get(target)
         if other:
             href = posixpath.relpath(other["href"],
                                      posixpath.dirname(out_rel) or ".")
-            post = f'<a class="rel" href="{href}">{esc(other["name"])}</a> — '
+            trail = (f' <span class="by">— '
+                     f'<a class="rel" href="{href}">{esc(other["name"])}</a></span>')
         else:
-            post = f'{esc(site_arch.display_name("", target))} — '
-    if entry["quote"]:
-        body = f'<p class="verb">{esc(text)}</p>'
-    else:
-        body = f'<p>{esc(text)}</p>'
-    tail = f' <span class="pin">{cite_html}</span>' if cite_html else ""
+            trail = (f' <span class="by">— '
+                     f'{esc(site_arch.display_name("", target))}</span>')
+    pcls = ' class="verb"' if entry["quote"] else ""
+    pin_html = f' <span class="pin">{cite_html}</span>' if cite_html else ""
+    # One body cell per row. The label is the only thing in column one; the
+    # note, its speaker and its page all flow together in column two, so a
+    # long name wraps under the sentence rather than inside the 104px gutter.
     return (f'<li class="{cls}"><span class="mlabel">{esc(label)}</span>'
-            f'{pre}{body}{post}{tail}</li>')
+            f'<div class="ebody"><p{pcls}>{lead}{esc(text)}{trail}{pin_html}'
+            f'</p></div></li>')
 
 
 def scene_block(ctx, block, out_rel, *, show_vol=True, fold=False):
