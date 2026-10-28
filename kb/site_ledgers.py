@@ -216,6 +216,12 @@ def path_for(kind, stem):
 # this table is the only place that knows the pairing. Adding a volume to the
 # walk means adding a row here if its ledger id and the database id disagree.
 LEDGER_ALIAS = {
+    # The walk names a person ledger after the id the walk wrote into it; the
+    # roster keys the same person by the id it was imported with. Without this
+    # row the ledger's scene count and role lines were invisible to the page
+    # built for the roster id — the rail advertised a group the body did not
+    # render, because the two halves asked different questions of the same name.
+    "people": {"tachibana-akane": "tachibana"},
     "exams": {"midterm-final-written": "midterm-exam"},
     "systems": {"private-points": "point-economy"},
     "places": {"library": "school-library"},
@@ -304,6 +310,13 @@ def volume_index():
 
 def walked_vols():
     return set(volume_index())
+
+
+def walk_done():
+    """Volumes whose own ledger carries the closing `→ DONE` stamp."""
+    import site_data  # local: site_data imports site_arch only, no cycle
+    return {p.stem for p in (LEDGERS / "volumes").glob("*.md")
+            if site_data.volume_walk_complete(p.stem)}
 
 
 if __name__ == "__main__":

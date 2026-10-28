@@ -16,3 +16,12 @@ __pycache__/
 # docs/ is the copy GitHub Pages serves
 share/
 _sitecheck/
+
+# restructure snapshots and audit data are regenerable working state
+.restructure/
+site-audit/*.json
+site-audit/*.csv
+site-audit/graph.html
+
+# a chat transcript is not part of the archive
+session-*.md

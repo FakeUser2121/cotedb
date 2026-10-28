@@ -92,8 +92,12 @@ SECTION_BY_ID = {s["id"]: s for s in SECTIONS}
 SITE_ROOTS = tuple(f"{s['id']}/" for s in SECTIONS) + ("assets/", "pdfs/")
 
 TIER_LABEL = {
+    # Three presence bands, and the middle one is called what the reader asked
+    # for. The number itself is a band, not the database column any more —
+    # kb/site_bands.py derives it from how much of a person has actually been
+    # copied off the pages, with the curated column kept only as a floor.
     1: "Principal character",
-    2: "Recurring character",
+    2: "Medium character",
     3: "Minor character",
     4: "Minor character",
 }
@@ -104,6 +108,7 @@ GROUP_LABEL = {
     # each named a pair without naming the other half, and none carried a
     # volume, so a transfer or a change of side falsified them silently.
     "main": "Principal characters",
+    "medium": "Medium characters",
     "background": "Minor characters",
 }
 
@@ -254,6 +259,9 @@ def volume_short(vol_id):
 
 
 def volume_label(vol_id):
+    named = _name_row("volume", vol_id)
+    if named:
+        return named
     if vol_id == "y0":
         return "Side Stories (Year 0)"
     year = {1: "Year 1", 2: "Year 2", 3: "Year 3"}.get(volume_year(vol_id), "Year ?")
@@ -277,10 +285,48 @@ def volume_kind_label(kind):
 
 
 def display_name(canonical, char_id=""):
+    name = _name_row("character", char_id)
+    if name:
+        return name
     fixed = NAME_FIX.get(canonical or "")
     if fixed:
         return fixed
     return macronize(canonical or char_id or "Unknown")
+
+
+# --------------------------------------------------------------- names table
+#
+# `entity_names` holds the one spelling every page shows. It is seeded from the
+# names the build already rendered (kb/init_entity_names.py), so choosing a
+# different canonical spelling later is a row update — no code change. The
+# romanisation rules below remain the fallback for a name with no row yet.
+NAME_TABLE = None
+
+
+def load_names(con=None):
+    global NAME_TABLE
+    NAME_TABLE = {}
+    try:
+        con = con or sqlite3.connect(DB_PATH)
+    except sqlite3.Error:
+        return NAME_TABLE
+    try:
+        for kind, eid, name in con.execute(
+                "SELECT entity_type, entity_id, display_name FROM entity_names"):
+            NAME_TABLE[(kind, eid)] = name
+    except sqlite3.OperationalError:
+        # a fresh database without the table: fall back to the rules
+        pass
+    return NAME_TABLE
+
+
+def _name_row(kind, eid):
+    global NAME_TABLE
+    if not eid:
+        return ""
+    if NAME_TABLE is None:
+        load_names()
+    return (NAME_TABLE or {}).get((kind, eid), "")
 
 
 def macronize(text):

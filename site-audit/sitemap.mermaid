@@ -1,0 +1,52 @@
+flowchart TD
+  HOME["/index.html<br/>home · 1 page"]
+  people["/people/index.html<br/>People · section index"]
+  HOME --> people
+  story["/story/index.html<br/>Story · section index"]
+  HOME --> story
+  school["/school/index.html<br/>Exams & School · section index"]
+  HOME --> school
+  world["/world/index.html<br/>World & Places · section index"]
+  HOME --> world
+  topics["/topics/index.html<br/>Topics · section index"]
+  HOME --> topics
+  guides["/guides/index.html<br/>Start here · section index"]
+  HOME --> guides
+  appendix["/appendix/index.html<br/>Appendix · section index"]
+  HOME --> appendix
+  GRP_PEOPLE["people/*.html<br/>character pages · 28"]
+  people --> GRP_PEOPLE
+  GRP_MINOR["people/minor/*.html<br/>A–Z index pages · 20 (hold ~206 names)"]
+  people --> GRP_MINOR
+  GRP_VOL["story/v/*/index.html<br/>volume pages · 36 (2 transcribed)"]
+  story --> GRP_VOL
+  GRP_YEAR["story/y0–y3.html<br/>year hubs · 4"]
+  story --> GRP_YEAR
+  GRP_DOCS["story/v/y1v1/*.guide|transcript<br/>volume docs · 6"]
+  story --> GRP_DOCS
+  GRP_EXAM["school/exam/*.html<br/>exam pages · 15"]
+  school --> GRP_EXAM
+  GRP_SYS["school/system/*.html<br/>system pages · 5"]
+  school --> GRP_SYS
+  GRP_CHR["school/chronology.html<br/>chronology · 1"]
+  school --> GRP_CHR
+  GRP_PLACE["world/*.html<br/>place pages · 28"]
+  world --> GRP_PLACE
+  GRP_TOPIC["topics/*.html<br/>topic pages · 5"]
+  topics --> GRP_TOPIC
+  GRP_GUIDE["guides/*.html<br/>reader doors · 3"]
+  guides --> GRP_GUIDE
+  GRP_APP["appendix/*.html<br/>citations · coverage · downloads · 3"]
+  appendix --> GRP_APP
+  GRP_VOL -.->|volume page -> its docs| GRP_DOCS
+  GRP_YEAR -.->|year -> volumes| GRP_VOL
+  story -.->|Story -> year hubs| GRP_YEAR
+  GRP_PEOPLE -.->|character page -> volume page| GRP_VOL
+  GRP_EXAM -.->|exam -> volume| GRP_VOL
+  GRP_SYS -.->|system -> volume| GRP_VOL
+  GRP_PLACE -.->|place -> volume| GRP_VOL
+  GRP_TOPIC -.->|topic -> character| GRP_PEOPLE
+  GRP_GUIDE -.->|door -> character| GRP_PEOPLE
+  GRP_APP -.->|appendix -> volumes| GRP_VOL
+  SHELL["assets/shell.js + style.css<br/>masthead · 7-tab bar · left rail · right rail · footer<br/>present on all 162 pages"]
+  HOME --- SHELL

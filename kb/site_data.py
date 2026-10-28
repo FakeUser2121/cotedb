@@ -74,9 +74,10 @@ def characters(con):
     return out
 
 
-# Tier 1 and 2 get a page of their own. Everyone else is an entry on the
+# Bands 1 and 2 get a page of their own. Everyone else is an entry on the
 # page for their initial — a profile page per one-line character would be
-# 226 pages of almost nothing.
+# 226 pages of almost nothing. Which band a character is in is decided by
+# kb/site_bands.py from the transcribed evidence, not by this column.
 OWN_PAGE_TIERS = (1, 2)
 
 

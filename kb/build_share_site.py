@@ -40,6 +40,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import site_arch  # noqa: E402
+import site_bands as B  # noqa: E402
 import site_data as D  # noqa: E402
 import site_ledgers  # noqa: E402
 import site_roles  # noqa: E402
@@ -158,18 +159,23 @@ def collect_metas(ctx):
 
     Driven by the roster and the walk ledgers, never by dossiers/: every
     page here is either ledger-backed or an honest stub. A character gets a
-    page when the series follows them (tier 1–2) or when the walk wrote them
-    up; everyone else stays an entry on their initial's page.
+    page when their band says the series follows them — and the band comes from
+    what has actually been transcribed (kb/site_bands.py), not from the curated
+    tier column; everyone else stays an entry on their initial's page.
     """
     metas = []
-    cids = [c["id"] for c in ctx["chars"] if c["tier"] in D.OWN_PAGE_TIERS]
+    cids = [c["id"] for c in ctx["chars"] if c["tier"] in B.OWN_PAGE_BANDS]
     for stem in site_ledgers.all_ledgers("people"):
-        if stem not in cids:
-            cids.append(stem)
+        # the ledger's filename is not necessarily the page id (tachibana);
+        # the alias table is the only place that pairs them
+        cid = site_ledgers.page_id_for("people", stem)
+        if cid not in cids:
+            cids.append(cid)
     for cid in sorted(cids):
         c = ctx["char_by_id"].get(cid, {})
         metas.append({"kind": "person", "char_id": cid,
-                      "src": None, "src_rel": f"ledgers/people/{cid}.md",
+                      "src": None,
+                      "src_rel": f"ledgers/people/{site_ledgers.stem_for('people', cid)}.md",
                       "out": c.get("href", f"people/{cid}.html"),
                       "title": c.get("name", cid)})
     for row in ctx["exam_rows"]:
@@ -209,6 +215,9 @@ def build_ctx(con, stats):
         "minor_letters": [],
     }
     ctx["char_by_id"] = {c["id"]: c for c in ctx["chars"]}
+    # Presence bands before anything is rendered: the band decides who gets a
+    # page of their own, and every builder reads the href this call rewrites.
+    B.apply(ctx)
     ctx["mentions_by_char"] = D.coverage_by_char(con)
     ctx["aliases_by_char"] = D.aliases_by_char(con)
     ctx["evidence"] = site_ledgers.volume_index()
@@ -239,6 +248,48 @@ def write(pages, ctx):
         written += 1
         ctx["pathmap"].setdefault(out, out)
     return written
+
+
+def write_redirects(ctx):
+    """One small page at every retired URL, from kb/redirects.json.
+
+    A redirect is not a content page: it carries no navigation, no index entry
+    and a meta refresh, and the inventory check skips it. It exists so a link
+    a reader saved keeps working after an id is settled."""
+    f = ROOT / "kb" / "redirects.json"
+    if not f.exists():
+        return 0
+    data = json.loads(f.read_text(encoding="utf-8"))
+    n = 0
+    for r in data.get("redirects") or []:
+        src, dst = r["from"], r["to"]
+        href = posixpath.relpath(dst, posixpath.dirname(src) or ".")
+        name = ""
+        if dst.startswith("people/") and dst.endswith(".html"):
+            c = ctx["char_by_id"].get(dst[len("people/"):-len(".html")])
+            name = c["name"] if c else ""
+        label = name or dst
+        doc = f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{html.escape(label)} · {S.SITE_TITLE}</title>
+<link rel="canonical" href="{href}">
+<meta http-equiv="refresh" content="0; url={href}">
+<meta name="robots" content="noindex">
+<link rel="stylesheet" href="{posixpath.relpath('assets/style.css', posixpath.dirname(src) or '.')}">
+</head>
+<body class="redirect">
+<main class="content"><h1>{html.escape(label)}</h1>
+<p>This page has moved to <a href="{href}">{html.escape(label)}</a>.</p></main>
+</body></html>
+"""
+        p = SITE / src
+        p.parent.mkdir(parents=True, exist_ok=True)
+        p.write_text(doc, encoding="utf-8")
+        n += 1
+    return n
 
 
 SEARCH_SECTION_LABEL = {
@@ -457,6 +508,20 @@ def section_of_path(path):
     return path.split("/")[0] if "/" in path else path
 
 
+def copy_spec_docs():
+    """kb/schema/*.md is the authored spec; it rides with the published site so
+    docs/SCHEMA.md, docs/NAMING.md and docs/ADDING_CONTENT.md always describe
+    the build that produced them (--docs mirrors the whole tree)."""
+    src = ROOT / "kb" / "schema"
+    if not src.exists():
+        return 0
+    n = 0
+    for f in sorted(src.glob("*.md")):
+        shutil.copy2(f, SITE / f.name)
+        n += 1
+    return n
+
+
 def make_zip():
     SITE_ZIP = ROOT / "share" / "cote-kb-share.zip"
     if SITE_ZIP.exists():
@@ -518,6 +583,8 @@ def main():
     PRINT.mkdir(parents=True, exist_ok=True)
 
     con = sqlite3.connect(DB_PATH)
+    # Reader-facing spellings come from entity_names before any rule runs.
+    site_arch.load_names(con)
     people = D.characters(con)
     vidx = site_ledgers.volume_index()
     stats = {
@@ -583,6 +650,7 @@ def main():
     pages.append(TOP.downloads_page(ctx))
 
     written = write(pages, ctx)
+    redirects = write_redirects(ctx)
 
     (SITE / "assets" / "style.css").write_text(
         (ASSETS / "style.css").read_text(encoding="utf-8"), encoding="utf-8")
@@ -595,6 +663,7 @@ def main():
             records, ensure_ascii=False, separators=(",", ":")) + ";\n",
         encoding="utf-8")
     (SITE / "README.txt").write_text(README, encoding="utf-8")
+    copy_spec_docs()
 
     # print bundles are standalone documents (and the source of the PDFs), so
     # they get their own copy of the stylesheet rather than a web-only link
@@ -624,7 +693,8 @@ def main():
     pdfs = 0 if args.no_pdf else make_pdfs()
     con.close()
     print(f"build_share_site: {written} pages + {len(records)} search records "
-          f"+ {made} print bundles + {pdfs} pdfs")
+          f"+ {made} print bundles + {pdfs} pdfs"
+          f"{f' + {redirects} redirects' if redirects else ''}")
     return 0
 
 

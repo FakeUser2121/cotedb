@@ -122,15 +122,24 @@ def entry_html(ctx, entry, out_rel):
             f'</p></div></li>')
 
 
-def scene_block(ctx, block, out_rel, *, show_vol=True, fold=False):
+def scene_block(ctx, block, out_rel, *, show_vol=True, fold=False, uid=""):
     """One ledger scene: heading (volume + pages + title) and its entries.
 
     fold=True puts the entries behind a disclosure so a page with two hundred
     scenes still reads as a list of moments, not a wall of transcript; the fold
     is the only expander the scene gets. The heading names the printed pages as
-    plain reference text — see the module docstring for why it is not a chip."""
+    plain reference text — see the module docstring for why it is not a chip.
+
+    `uid` namespaces the anchor when several ledgers share one page (an A–Z
+    initial page holds one block per person), so two people's scenes can never
+    collide on the same id.
+    """
     vol = block["vol"]
     anchor = re.sub(r"[^a-z0-9]+", "-", block["heading"].lower()).strip("-")[:48]
+    # Never re-strip after slicing: the published ids keep the hyphen a
+    # 48-character cut leaves behind, and every cross-link is built from the
+    # same slug. The uid only prefixes, so an A–Z page can hold several people.
+    anchor = f"{uid}{anchor}"
     head = ['<div class="head">']
     if show_vol:
         head.append(f'<span class="pg">{vol_chip(ctx, vol, out_rel)}</span>')
@@ -155,22 +164,27 @@ def scene_block(ctx, block, out_rel, *, show_vol=True, fold=False):
 
 
 def volume_sections(ctx, led, out_rel, *, only=None, with_heading=True,
-                    fold=False,
+                    fold=False, uid="", heading_tag="h2",
                     heading=lambda vol: site_arch.volume_label(vol)):
-    """All scene blocks of a parsed ledger, grouped by volume, oldest first."""
+    """All scene blocks of a parsed ledger, grouped by volume, oldest first.
+
+    `uid` namespaces both the volume heading and every scene anchor inside it,
+    which is what keeps an A–Z page — several people, several ledgers, one file
+    — from emitting the same id twice.
+    """
     order = {v["id"]: v["order"] for v in ctx["vol_list"]}
     out = []
     sections = [s for s in led["vols"] if only is None or s["vol"] in only]
     sections.sort(key=lambda s: order.get(s["vol"], 999))
     for section in sections:
-        blocks = [scene_block(ctx, b, out_rel, fold=fold)
+        blocks = [scene_block(ctx, b, out_rel, fold=fold, uid=uid)
                   for b in section["blocks"]]
         blocks = [b for b in blocks if b]
         if not blocks:
             continue
         if with_heading:
-            out.append(f'<h2 id="ev-{section["vol"]}">'
-                       f'{esc(heading(section["vol"]))}</h2>')
+            out.append(f'<{heading_tag} id="ev-{uid}{section["vol"]}">'
+                       f'{esc(heading(section["vol"]))}</{heading_tag}>')
         out.append("".join(blocks))
     return "".join(out)
 

@@ -597,6 +597,36 @@ ul.ledger .pin { display: inline; margin-left: 8px; white-space: nowrap; }
 .pageref { font: 500 12px/1.4 var(--mono); color: var(--muted);
   white-space: nowrap; }
 ul.ledger .pageref { margin-left: 8px; }
+/* A–Z pages: the name stays a heading, and one expander under it holds
+   everything transcribed for that name. The body is indented because it is
+   inside the entry, not after it — the nesting a reader sees has to be the
+   nesting the page means. */
+details.person { margin: 4px 0 16px; }
+details.person > summary {
+  display: flex; gap: 10px; align-items: baseline; cursor: pointer;
+  list-style: none; font-size: 13.5px; color: var(--muted);
+}
+details.person > summary::-webkit-details-marker { display: none; }
+details.person > summary::before {
+  content: "+"; font: 600 13px/1 var(--mono); color: var(--hue);
+}
+details.person[open] > summary::before { content: "\2212"; }
+details.person > summary:hover { color: var(--hue); }
+details.person > .pbody {
+  padding-left: 22px; border-left: 2px solid var(--line);
+}
+/* the volume heading inside a name is a step down, not a page-level h2 */
+details.person > .pbody h4 {
+  font: 600 12px/1.5 var(--sans); letter-spacing: .07em;
+  text-transform: uppercase; color: var(--muted); margin: 14px 0 0;
+}
+/* Paper cannot open a fold. A printed document — and the chromium render that
+   becomes a PDF — has to show every entry expanded, or the transcribed lines
+   silently vanish from the bundle while only the scene titles survive. */
+@media print {
+  body[data-section="print"] details > summary::before { content: normal; }
+  body[data-section="print"] details > summary { cursor: default; }
+}
 /* an arrow is the only bright citation: it leaves for the page holding the
    scene the note was read from. A page number with nothing to open is grey. */
 a.cite::after { content: " \2197"; font-size: 9px; opacity: .6; }

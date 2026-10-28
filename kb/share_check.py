@@ -293,6 +293,12 @@ def check_inventory():
 
     errors = []
     have = {f.relative_to(SITE).as_posix() for f in SITE.rglob("*.html")}
+    # A redirect page is deliberately unlinked: it exists for a URL that used
+    # to be published, not as a destination. It is not a content page, so the
+    # orphan rule does not apply to it (kb/redirects.json lists each one).
+    redirects = {p for p in have
+                 if 'http-equiv="refresh"' in (SITE / p).read_text(encoding="utf-8")}
+    have -= redirects
 
     for s in site_arch.SECTIONS:
         if s["href"] not in have:
@@ -341,7 +347,8 @@ def check_inventory():
         errors.append(f"{len(deep)} pages are more than 3 clicks from Home")
     notes = [f"inventory: {len(have)} pages, {len(seen)} reachable, "
              f"max depth {max(depth.values())}, {len(vols)} volumes, "
-             f"{len(principals)} principal characters"]
+             f"{len(principals)} principal characters"
+             f"{f', {len(redirects)} redirects' if redirects else ''}"]
     return errors, notes
 
 

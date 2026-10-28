@@ -1,0 +1,338 @@
+# entity_type	entity_id	display_name	sort_key	notes
+character	aga	Aga	Aga	
+character	akiyama	Akiyama	Akiyama	
+character	amasawa-ichika	Amasawa Ichika	Amasawa	
+character	amikura-mako	Amikura Mako	Amikura	
+character	anazai	Anazai	Anazai	
+character	andou-sayo	Andō Sayo	Andō	
+character	aragaki-itsuki	Aragaki Itsuki	Aragaki	
+character	asagaya-mai	Asagaya Mai	Asagaya	
+character	asahina-nazuna	Asahina Nazuna	Asahina	
+character	asakura-mako	Asakura Mako	Asakura	
+character	asama	Asama	Asama	
+character	ayanokouji-atsuomi	Ayanokōji Atsuomi	Ayanokōji	
+character	ayanokouji-kiyotaka	Ayanokōji Kiyotaka	Ayanokōji	
+character	ayase-natsu	Ayase Natsu	Ayase	
+character	azuma-sana	Azuma Sana	Azuma	
+character	beppu-ryouta	Beppu Ryōta	Beppu	
+character	chabashira-sae	Chabashira Sae	Chabashira	
+character	chiba	Chiba	Chiba	
+character	dodo-michimichi	Dodo Michimichi	Dodo	
+character	dogami-mitsuko	Dogami Mitsuko	Dogami	
+character	eikura-mani	Eikura Mani	Eikura	
+character	enoshima-midoriko	Enoshima Midoriko	Enoshima	
+character	etou	Etō	Etō	
+character	fuji	Fuji	Fuji	
+character	fujimaki	Fujimaki	Fujimaki	
+character	fujisaki-rinna	Fujisaki Rinna	Fujisaki	
+character	fukuchi-hinano	Fukuchi Hinano	Fukuchi	
+character	fukuyama-shinobu	Fukuyama Shinobu	Fukuyama	
+character	gouda	Gōda	Gōda	
+character	hagiwara-chihaya	Hagiwara Chihaya	Hagiwara	
+character	hamaguchi-tetsuya	Hamaguchi Tetsuya	Hamaguchi	
+character	hasebe-haruka	Hasebe Haruka	Hasebe	
+character	hashimoto-masayoshi	Hashimoto Masayoshi	Hashimoto	
+character	hatano	Hatano	Hatano	
+character	hatate-kaoru	Hatate Kaoru	Hatate	
+character	hatsukawa-maho	Hatsukawa Maho	Hatsukawa	
+character	hatsutori	Hatsutori	Hatsutori	
+character	higashiyama	Higashiyama	Higashiyama	
+character	himeno-yuki	Himeno Yuki	Himeno	
+character	hirata-yousuke	Hirata Yōsuke	Hirata	
+character	hondou-ryoutaro	Hondō Ryōtaro	Hondō	
+character	horikita-manabu	Horikita Manabu	Horikita	
+character	horikita-suzune	Horikita Suzune	Horikita	
+character	hoshinomiya-chie	Hoshinomiya Chie	Hoshinomiya	
+character	housen-kazuomi	Hōsen Kazuomi	Hōsen	
+character	ibeyama	Ibeyama	Ibeyama	
+character	ibuki-mio	Ibuki Mio	Ibuki	
+character	ichihashi-ruri	Ichihashi Ruri	Ichihashi	
+character	ichino-yuyu	Ichino Yuyu	Ichino	
+character	ichinose-honami	Ichinose Honami	Ichinose	
+character	iguchi-yuri	Iguchi Yuri	Iguchi	
+character	iizuka	Iizuka	Iizuka	
+character	ijuin-kou	Ijuin Kō	Ijuin	
+character	ijuin-wataru	Ijuin Wataru	Ijuin	
+character	ikari-momoko	Ikari Momoko	Ikari	
+character	ikari-sensei	Ikari-sensei	Ikari-sensei	
+character	ike-kanji	Ike Kanji	Ike	
+character	iki	Iki	Iki	
+character	inogashira-kokoro	Inogashira Kokoro	Inogashira	
+character	inoue-toa	Inōe Toa	Inōe	
+character	ishida-yuusuke	Ishida Yūsuke	Ishida	
+character	ishigami-kyou	Ishigami Kyō	Ishigami	
+character	ishikura	Ishikura	Ishikura	
+character	ishikura-kayoko	Ishikura Kayoko	Ishikura	
+character	ishimaru-yuriko	Ishimaru Yuriko	Ishimaru	
+character	ishizaki-daichi	Ishizaki Daichi	Ishizaki	
+character	isomaru	Isomaru	Isomaru	
+character	isoyama-nagisa	Isoyama Nagisa	Isoyama	
+character	jute-misora	Jute Misora	Jute	
+character	kaga	Kaga	Kaga	
+character	kajiwara	Kajiwara	Kajiwara	
+character	kamogawa	Kamogawa	Kamogawa	
+character	kamogawa-toshizou	Kamogawa Toshizou	Kamogawa	
+character	kamuro-masumi	Kamuro Masumi	Kamuro	
+character	kaneda-satoru	Kaneda Satoru	Kaneda	
+character	kanzaki-ryuuji	Kanzaki Ryūji	Kanzaki	
+character	karuizawa-kei	Karuizawa Kei	Karuizawa	
+character	katagiri	Katagiri	Katagiri	
+character	katsuragi-kouhei	Katsuragi Kōhei	Katsuragi	
+character	kibayashi	Kibayashi	Kibayashi	
+character	kijima	Kijima	Kijima	
+character	kikuchi	Kikuchi	Kikuchi	
+character	kimura	Kimura	Kimura	
+character	kinoshita-minori	Kinoshita Minori	Kinoshita	
+character	kiriyama-ikuto	Kiriyama Ikuto	Kiriyama	
+character	kiryuin-fuuka	Kiryuin Fuuka	Kiryuin	
+character	kisarazu	Kisarazu	Kisarazu	
+character	kishi	Kishi	Kishi	
+character	kishita	Kishita	Kishita	
+character	kitou-hayato	Kitō Hayato	Kitō	
+character	kobashi-yume	Kobashi Yume	Kobashi	
+character	komiya-kyogo	Komiya Kyogo	Komiya	
+character	kondou-reo	Kondō Reo	Kondō	
+character	konishi-tetsuko	Konishi Tetsuko	Konishi	
+character	kosumi-dan	Kosumi Dan	Kosumi	
+character	kouenji-rokusuke	Kōenji Rokusuke	Kōenji	
+character	kurachi	Kurachi	Kurachi	
+character	kurihara-kasuga	Kurihara Kasuga	Kurihara	
+character	kuronaga	Kuronaga	Kuronaga	
+character	kushida-kikyou	Kushida Kikyō	Kushida	
+character	machida-kouji	Machida Kōji	Machida	
+character	maezono	Maezono	Maezono	
+character	makida-susumu	Makida Susumu	Makida	
+character	makita-takashige	Makita Takashige	Makita	
+character	manabe-shiho	Manabe Shiho	Manabe	
+character	mashima-tomonari	Mashima Tomonari	Mashima	
+character	masuwaka	Masuwaka	Masuwaka	
+character	matoba-shinji	Matoba Shinji	Matoba	
+character	matsuo	Matsuo	Matsuo	
+character	matsuo-eiichirou	Matsuo Eiichirō	Matsuo	
+character	matsushita-chiaki	Matsushita Chiaki	Matsushita	
+character	mika	Mika	Mika	
+character	mikami	Mikami	Mikami	
+character	mikitani	Mikitani	Mikitani	
+character	mikuru	Mikuru	Mikuru	
+character	minami-hakuo	Minami Hakuo	Minami	
+character	minami-setsuya	Minami Setsuya	Minami	
+character	minamikata-kozue	Minamikata Kozue	Minamikata	
+character	minamikawa	Minamikawa	Minamikawa	
+character	mitsui-ayumi	Mitsui Ayumi	Mitsui	
+character	miya	Miya	Miya	
+character	miyake-akito	Miyake Akito	Miyake	
+character	miyako	Miyako	Miyako	
+character	miyamoto-soshi	Miyamoto Soshi	Miyamoto	
+character	mizoe	Mizoe	Mizoe	
+character	mizowaki	Mizowaki	Mizowaki	
+character	mochizuki	Mochizuki	Mochizuki	
+character	moeka	Moeka	Moeka	
+character	mori-nene	Mori Nene	Mori	
+character	morimiya	Morimiya	Morimiya	
+character	morishige-takurou	Morishige Takurō	Morishige	
+character	morishita-ai	Morishita Ai	Morishita	
+character	moriyama	Moriyama	Moriyama	
+character	morofuji-rika	Morofuji Rika	Morofuji	
+character	motodoi-chikako	Motodoi Chikako	Motodoi	
+character	nagumo-miyabi	Nagumo Miyabi	Nagumo	
+character	nakaizumi-shouhei	Nakaizumi Shōhei	Nakaizumi	
+character	nakajima-riko	Nakajima Riko	Nakajima	
+character	nakanishi	Nakanishi	Nakanishi	
+character	namekawa-azuki	Namekawa Azuki	Namekawa	
+character	nanase-tsubasa	Nanase Tsubasa	Nanase	
+character	naoe	Naoe	Naoe	
+character	negishi	Negishi	Negishi	
+character	niiura	Niiura	Niiura	
+character	ninomiya-kuranosuke	Ninomiya Kuranosuke	Ninomiya	
+character	ninomiya-yui	Ninomiya Yui	Ninomiya	
+character	nishi-haruka	Nishi Haruka	Nishi	
+character	nishikawa-ryouko	Nishikawa Ryōko	Nishikawa	
+character	nishimura-ryuuko	Nishimura Ryūko	Nishimura	
+character	nishino-takeko	Nishino Takeko	Nishino	
+character	nogi	Nogi	Nogi	
+character	nomura-yuuji	Nomura Yūji	Nomura	
+character	obokata-yukiki	Obokata Yukiki	Obokata	
+character	ochiai	Ochiai	Ochiai	
+character	oda-takumi	Oda Takumi	Oda	
+character	ohba	Ohba	Ohba	
+character	okabe-fuyu	Okabe Fuyu	Okabe	
+character	okitani-kyousuke	Okitani Kyōsuke	Okitani	
+character	okiya-kyousuke	Okiya Kyōsuke	Okiya	
+character	onizuka	Onizuka	Onizuka	
+character	onodera	Onodera	Onodera	
+character	onodera-kayano	Onodera Kayano	Onodera	
+character	onuki-nagisa	Onuki Nagisa	Onuki	
+character	osaki-noa	Osaki Noa	Osaki	
+character	oshio	Oshio	Oshio	
+character	rokkaku-momoe	Rokkaku Momoe	Rokkaku	
+character	ryuuen-kakeru	Ryūen Kakeru	Ryūen	
+character	sakagami	Sakagami	Sakagami	
+character	sakayanagi-arisu	Sakayanagi Arisu	Sakayanagi	
+character	sakura-airi	Sakura Airi	Sakura	
+character	sanada-kousei	Sanada Kōsei	Sanada	
+character	sasaki	Sasaki	Sasaki	
+character	satonaka-satoru	Satonaka Satoru	Satonaka	
+character	satou-maya	Satō Maya	Satō	
+character	sawada-yasumi	Sawada Yasumi	Sawada	
+character	shiba-katsunori	Shiba Katsunori	Shiba	
+character	shibata-sou	Shibata Sō	Shibata	
+character	shiina-hiyori	Shiina Hiyori	Shiina	
+character	shimazaki-ikkei	Shimazaki Ikkei	Shimazaki	
+character	shimizu-naoki	Shimizu Naoki	Shimizu	
+character	shinohara-satsuki	Shinohara Satsuki	Shinohara	
+character	shintoku-taro	Shintoku Taro	Shintoku	
+character	shiraishi-asuka	Shiraishi Asuka	Shiraishi	
+character	shiranami-chihiro	Shiranami Chihiro	Shiranami	
+character	shiratori	Shiratori	Shiratori	
+character	shiro	Shiro	Shiro	
+character	sonezaki	Sonezaki	Sonezaki	
+character	sonoda-chiyo	Sonoda Chiyo	Sonoda	
+character	sonoda-masashi	Sonoda Masashi	Sonoda	
+character	sotomura-hideo	Sotomura Hideo	Sotomura	
+character	souya	Sōya	Sōya	
+character	sudou-ken	Sudō Ken	Sudō	
+character	sugimura	Sugimura	Sugimura	
+character	sugio-hiroshi	Sugio Hiroshi	Sugio	
+character	sumida-makoto	Sumida Makoto	Sumida	
+character	suminokura-mami	Suminokura Mami	Suminokura	
+character	suzuhira-miu	Suzuhira Miu	Suzuhira	
+character	suzukake-tanji	Suzukake Tanji	Suzukake	
+character	suzuki-hidetoshi	Suzuki Hidetoshi	Suzuki	
+character	tabuchi	Tabuchi	Tabuchi	
+character	tachibana-akane	Tachibana Akane	Tachibana	
+character	taguri	Taguri	Taguri	
+character	takahashi-osamu	Takahashi Osamu	Takahashi	
+character	takanashi-ko	Takanashi Kō	Takanashi	
+character	takarajima-miko	Takarajima Miko	Takarajima	
+character	takato	Takato	Takato	
+character	takemoto-shigeru	Takemoto Shigeru	Takemoto	
+character	tamiya-emi	Tamiya Emi	Tamiya	
+character	tanaka	Tanaka	Tanaka	
+character	tanihara-mao	Tanihara Mao	Tanihara	
+character	tatara	Tatara	Tatara	
+character	tatebayashi	Tatebayashi	Tatebayashi	
+character	tatewaki-aoi	Tatewaki Aoi	Tatewaki	
+character	toba-shigeru	Toba Shigeru	Toba	
+character	todo-chikon	Todo Chikon	Todo	
+character	tokitou	Tokitō Katsumi	Tokitō	
+character	tokitou-hiroya	Tokitō Hiroya	Tokitō	
+character	tokunaga	Tokunaga	Tokunaga	
+character	tomioka	Tomioka	Tomioka	
+character	tomose-shunsaku	Tomose Shunsaku	Tomose	
+character	tonokawa	Tonokawa	Tonokawa	
+character	totsuka-yahiko	Totsuka Yahiko	Totsuka	
+character	toudou-rin	Tōdō Rin	Tōdō	
+character	toyohashi-goro	Toyohashi Goro	Toyohashi	
+character	tsubaki-sakurako	Tsubaki Sakurako	Tsubaki	
+character	tsube-hitomi	Tsube Hitomi	Tsube	
+character	tsukaji-shihori	Tsukaji Shihori	Tsukaji	
+character	tsukasaki-taiga	Tsukasaki Taiga	Tsukasaki	
+character	tsukishiro	Tsukishiro	Tsukishiro	
+character	tsunoda	Tsunoda	Tsunoda	
+character	ukon	Ukon	Ukon	
+character	utomiya-riku	Utomiya Riku	Utomiya	
+character	wang-mei-yu	Wang Mei-Yu	Wang	
+character	watanabe-norihito	Watanabe Norihito	Watanabe	
+character	yabu-nanami	Yabu Nanami	Yabu	
+character	yagami-takuya	Yagami Takuya	Yagami	
+character	yajima-mariko	Yajima Mariko	Yajima	
+character	yamada-albert	Yamada Albert	Yamada	
+character	yamaga	Yamaga	Yamaga	
+character	yamamura-miki	Yamamura Miki	Yamamura	
+character	yamanaka-ikuko	Yamanaka Ikuko	Yamanaka	
+character	yamashita-saki	Yamashita Saki	Yamashita	
+character	yamauchi-haruki	Yamauchi Haruki	Yamauchi	
+character	yamawaki	Yamawaki	Yamawaki	
+character	yanagi-yasuhisa	Yanagi Yasuhisa	Yanagi	
+character	yanagibashi-motofumi	Yanagibashi Motofumi	Yanagibashi	
+character	yano-koharu	Yano Koharu	Yano	
+character	yonezu-haruto	Yonezu Haruto	Yonezu	
+character	yoshida-kenta	Yoshida Kenta	Yoshida	
+character	yoshimoto-kosetsu	Yoshimoto Kosetsu	Yoshimoto	
+character	yube-yoshika	Yube Yoshika	Yube	
+character	yuki	Yuki	Yuki	
+character	yukimura-teruhiko	Yukimura Teruhiko	Yukimura	
+exam	class-poll	Class Poll		
+exam	comprehensive-academic-exam	Comprehensive Academic Ability Exam		
+exam	coop-written-head-to-head	Cooperative Comprehensive Written Exam		
+exam	cruise-ship-exam	Cruise Ship Exam		
+exam	end-of-year-special-exam	End-of-Year Special Exam		
+exam	entrance-exam	Entrance Exam		
+exam	event-selection-exam	Event Selection Exam		
+exam	midterm-final-written	Midterm and Final Written Exams		
+exam	mixed-training-camp	Mixed Training Camp		
+exam	paper-shuffle	Paper Shuffle		
+exam	school-festival	School Festival		
+exam	sports-festival	Sports Festival		
+exam	survival-elimination-exam	Survival and Elimination Exam		
+exam	unanimous-vote-exam	Unanimous Vote Exam		
+exam	uninhabited-island-exam	Uninhabited Island Exam		
+place	athletic-field	Athletic Field		
+place	auditorium	Auditorium		
+place	cafeteria	Cafeteria		
+place	campus	Campus		
+place	classroom	Classroom		
+place	convenience-store	Convenience Store		
+place	cruise-ship	Cruise Ship		
+place	dormitory	Dormitory		
+place	guidance-office	Guidance Office		
+place	gymnasium	Gymnasium		
+place	haneda-airport	Haneda Airport		
+place	hokkaido	Hokkaido		
+place	infirmary	Infirmary		
+place	keyaki-mall	Keyaki Mall		
+place	library	Library		
+place	rooftop	Rooftop		
+place	ryokan	Ryokan		
+place	sapporo	Sapporo		
+place	school-building	School Building		
+place	shin-chitose-airport	Shin Chitose Airport		
+place	ski-resort	Ski Resort		
+place	special-building	Special Building		
+place	staff-room	Staff Room		
+place	student-council-room	Student Council Room		
+place	swimming-pool	Swimming Pool		
+place	tokyo	Tokyo		
+place	uninhabited-island	Uninhabited Island		
+place	white-room	White Room		
+system	class-points	Class Points		
+system	clubs	Clubs		
+system	expulsion	Expulsion Rules		
+system	private-points	Private Points		
+system	student-council	Student Council		
+volume	y0	Side Stories (Year 0)		
+volume	y1v1	Year 1, Volume 1		
+volume	y1v10	Year 1, Volume 10		
+volume	y1v11	Year 1, Volume 11		
+volume	y1v11.5	Year 1, Volume 11.5		
+volume	y1v11.75	Year 1, Volume 11.75		
+volume	y1v2	Year 1, Volume 2		
+volume	y1v3	Year 1, Volume 3		
+volume	y1v4	Year 1, Volume 4		
+volume	y1v4.5	Year 1, Volume 4.5		
+volume	y1v5	Year 1, Volume 5		
+volume	y1v6	Year 1, Volume 6		
+volume	y1v7	Year 1, Volume 7		
+volume	y1v7.5	Year 1, Volume 7.5		
+volume	y1v8	Year 1, Volume 8		
+volume	y1v9	Year 1, Volume 9		
+volume	y2v1	Year 2, Volume 1		
+volume	y2v10	Year 2, Volume 10		
+volume	y2v10.25	Year 2, Volume 10.25		
+volume	y2v11	Year 2, Volume 11		
+volume	y2v12	Year 2, Volume 12		
+volume	y2v12.5	Year 2, Volume 12.5		
+volume	y2v2	Year 2, Volume 2		
+volume	y2v3	Year 2, Volume 3		
+volume	y2v4	Year 2, Volume 4		
+volume	y2v4.5	Year 2, Volume 4.5		
+volume	y2v5	Year 2, Volume 5		
+volume	y2v6	Year 2, Volume 6		
+volume	y2v7	Year 2, Volume 7		
+volume	y2v8	Year 2, Volume 8		
+volume	y2v9	Year 2, Volume 9		
+volume	y2v9.5	Year 2, Volume 9.5		
+volume	y2v9.75	Year 2, Volume 9.75		
+volume	y3v1	Year 3, Volume 1		
+volume	y3v2	Year 3, Volume 2		
+volume	y3v3	Year 3, Volume 3		

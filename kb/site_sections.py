@@ -248,8 +248,8 @@ def role_anchor(label):
 def people_rail(ctx, root=""):
     # One tree, not a list of peers: everything below is a way into the same
     # People index, and the rail used to print its own sections as siblings of
-    # the page they sit on. "Recurring characters" is a part of All people, so
-    # it is drawn inside it, one step down.
+    # the page they sit on. "Medium characters" is a part of All people, so it
+    # is drawn inside it, one step down.
     principals = [c for c in ctx["chars"] if c["tier"] == 1]
     letters = [l for l in ctx.get("minor_letters") or []]
     sub = []
@@ -258,8 +258,8 @@ def people_rail(ctx, root=""):
                     "open": False,
                     "sub": [{"label": c["name"], "href": c["href"]}
                             for c in principals]})
-    sub.append({"kind": "link", "label": "Recurring characters",
-                "href": "people/index.html#recurring"})
+    sub.append({"kind": "link", "label": "Medium characters",
+                "href": "people/index.html#medium"})
     if letters:
         sub.append({"kind": "details", "label": "Minor characters A–Z",
                     "open": False,
@@ -363,13 +363,19 @@ def _unstated_block(ctx):
 def people_index(ctx):
     by_id = ctx["char_by_id"]
     principals = [c for c in ctx["chars"] if c["tier"] == 1]
-    recurring = [c for c in ctx["chars"] if c["tier"] == 2]
+    medium = [c for c in ctx["chars"] if c["tier"] == 2]
     minor = [c for c in ctx["chars"] if c["tier"] >= 3]
 
     def rows(pool):
         out = []
         for c in pool:
-            note = f'{c["quotes"]:,} quoted lines · {c["quote_vols"]} vols'
+            if c.get("scenes"):
+                # What has actually been copied off the printed pages, when
+                # there is any of it — the number a reader can check.
+                note = (f'{c["scenes"]} scenes transcribed · '
+                        f'{c["quoted_lines"]:,} lines quoted from them')
+            else:
+                note = f'{c["quotes"]:,} quoted lines · {c["quote_vols"]} vols'
             out.append((c["name"], note, c["href"]))
         return grid_links(out)
 
@@ -383,16 +389,18 @@ def people_index(ctx):
         for l in [chr(i) for i in range(65, 91)])
 
     body = f"""<h2 id="principal">Principal characters</h2>
-<p>The seven the series follows closest. Each profile carries a full arc,
+<p>The {len(principals)} the series follows closest. Each profile carries a
+full arc,
 relationships, and voice samples quoted from the pages.</p>
 {rows(principals)}
-<h2 id="recurring">Recurring characters</h2>
-<p>The names that keep coming back across the volumes read so far. They are
+<h2 id="medium">Medium characters</h2>
+<p>The names that keep coming back: scenes of their own in the volumes read so
+far, enough that following them changes what a passage means. They are
 not sorted by allegiance here, because allegiance is a relation, not a
 property: it belongs to a pair and a moment, and it changes between volumes.
 What the pages do state — who is enrolled where, who teaches, who sits on the
 student council — is listed under the volume that states it.</p>
-{rows(recurring)}
+{rows(medium)}
 <h2 id="roles">Where the pages place them</h2>
 <p>A post is listed only where a note taken off the page states it beside
 the page number.
@@ -405,7 +413,10 @@ to be set in.</p>
 <h2 id="minor">Minor characters</h2>
 <p>{len(minor)} further names appear on the page — classmates in other
 grades, staff, family, one-off strangers. They are indexed by initial and
-each entry lists what the text actually says about them.</p>
+each entry lists what the text actually says about them. A name leaves this
+band, and gets a page of its own, once three of its scenes or ten of its
+spoken lines have been copied off the printed pages — which happens as each
+volume is read through, so the list here shrinks over time.</p>
 <div class="alpha-nav">{alpha}</div>
 <h2 id="all">Everyone, alphabetically</h2>
 <p>The whole cast of {len(ctx['chars'])} in one list, sorted by family name
@@ -414,13 +425,13 @@ above.</p>
 {filter_host(
     filter_chip("All of them", "", True)
     + filter_chip("Principal", "principal")
-    + filter_chip("Recurring", "recurring")
+    + filter_chip("Medium", "medium")
     + filter_chip("Minor", "minor"),
     grid_links([(c['name'],
                  f'{site_arch.TIER_LABEL[c["tier"]]} · {c["quotes"]:,} lines',
                  c['href'],
                  "principal" if c["tier"] == 1 else
-                 ("recurring" if c["tier"] == 2 else "minor"))
+                 ("medium" if c["tier"] == 2 else "minor"))
                 for c in sorted(ctx['chars'],
                                  key=lambda c: (c['name'].split()[0],
                                                 c['name']))]))}"""
@@ -444,10 +455,14 @@ def plan_minor(ctx):
     extra = []
     for stem in L.all_ledgers("people"):
         if stem not in ctx["char_by_id"]:
-            extra.append({"id": stem,
-                          "name": site_arch.display_name("", stem),
-                          "canon": "", "tier": 3, "coverage": 0,
-                          "href": f"people/{stem}.html"})
+            name = site_arch.display_name("", stem)
+            letter = (name.split()[0][:1].upper() if name else stem[:1].upper())
+            extra.append({"id": stem, "name": name,
+                          "canon": "", "tier": 3, "band": 3, "coverage": 0,
+                          "quotes": 0, "quote_vols": 0, "scenes": 0,
+                          "quoted_lines": 0, "letter": letter,
+                          "status": "",
+                          "href": f"people/minor/{letter.lower()}.html#{stem}"})
     minors = [c for c in ctx["chars"] if c["tier"] >= 3] + extra
     buckets = {}
     for c in minors:
@@ -466,7 +481,13 @@ def plan_minor(ctx):
 def minor_pages(ctx):
     """One page per initial. Each entry carries what can be counted — the
     spellings the text uses and the volumes the name appears in — plus the
-    transcribed scenes themselves where the walk reached that person."""
+    transcribed scenes themselves where the volume has been read line by line.
+
+    Nesting is the point of the layout: the name is one expander, the scenes
+    inside it are expanders of their own, and nothing on the page is open until
+    a reader asks for it. A handful of these names accumulate scenes quickly,
+    so the old flat list of always-open transcripts made the page unreadable.
+    """
     plan_minor(ctx)
     pages = []
     letters = ctx["minor_letters"]
@@ -476,18 +497,30 @@ def minor_pages(ctx):
         blocks = []
         for key, name, c in rows:
             led = L.load_for("people", key)
-            note = (f'<span class="n">{site_arch.TIER_LABEL[c["tier"]]} · '
+            out_rel = f"people/minor/{l.lower()}.html"
+            head = (f'<h3 id="{key}">{S.esc(name)}</h3>'
+                    f'<span class="n">{site_arch.TIER_LABEL[c["tier"]]} · '
                     f'named in {c["coverage"]} volumes</span>')
             if led:
-                inner = E.volume_sections(ctx, led, f"people/minor/{l.lower()}.html")
+                # One expander per name, holding everything that belongs to it:
+                # the volume heading and, inside that, the scene folds. Nothing
+                # on this page is open until a reader asks for it — these names
+                # accumulate scenes, and an always-open transcript made the
+                # page unreadable.
+                scenes, quoted = E.evidence_count(led)
+                inner = E.volume_sections(ctx, led, out_rel, fold=True,
+                                          uid=f"{key}-", heading_tag="h4")
+                inner = (f'<details class="person">'
+                         f'<summary><span class="what">{scenes} scenes '
+                         f'transcribed · {quoted} lines quoted from them'
+                         f'</span></summary>'
+                         f'<div class="pbody">{inner}</div></details>')
             else:
                 inner = (f'<p class="mentions">'
-                         f'{E.mentions_by_volume(ctx, key, f"people/minor/{l.lower()}.html")}'
-                         f'</p>')
-            blocks.append(f'<h3 id="{key}">{S.esc(name)}</h3>{note}'
-                          f'<div class="measure">{inner}</div>')
+                         f'{E.mentions_by_volume(ctx, key, out_rel)}</p>')
+            blocks.append(head + inner)
+        listing = f'<div class="measure">{"".join(blocks)}</div>'
         nav = alpha_nav(l, letters)
-        listing = "".join(blocks)
         html_out = ctx["page"](
             f"Minor characters — {l}", "people",
             f"{nav}{listing}",
@@ -761,9 +794,10 @@ def volume_evidence(ctx, vol_id, out_rel):
             if not blocks:
                 continue
             if kind == "people":
-                c = ctx["char_by_id"].get(stem)
+                c = ctx["char_by_id"].get(L.page_id_for("people", stem))
                 label = c["name"] if c else site_arch.display_name("", stem)
-                href = posixpath.relpath(c["href"] if c else f"people/{stem}.html", base)
+                href = posixpath.relpath(c["href"] if c else "people/index.html",
+                                         base)
                 title = f'<a href="{href}">{S.esc(label)}</a>'
             else:
                 title = S.esc(led["title"].split(" — ")[0])

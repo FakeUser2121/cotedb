@@ -1,0 +1,205 @@
+{
+  "version": 1,
+  "about": "The fixed contract of the COTE encyclopedia. Every page, index, rail count, citation label and search record is built from entity records that follow this file. Adding a character, volume, exam, system, place or topic means adding its data row (and its ledger, once read); no builder code has to change. docs/SCHEMA.md is the human-readable version of this file.",
+
+  "sections": {
+    "order": ["guides", "people", "story", "school", "world", "topics", "appendix"],
+    "items": {
+      "guides":   {"label": "Start here",     "href": "guides/index.html",   "line": "Pick the way you read: writer, number-cruncher, or rusty."},
+      "people":   {"label": "People",         "href": "people/index.html",   "line": "Who is who — every named character, with their moments."},
+      "story":    {"label": "Story",          "href": "story/index.html",    "line": "Read it in order — year by year, volume by volume."},
+      "school":   {"label": "Exams & School", "href": "school/index.html",   "line": "The rules, the point maths, every exam."},
+      "world":    {"label": "World & Places", "href": "world/index.html",    "line": "Where things happen, and why there."},
+      "topics":   {"label": "Topics",         "href": "topics/index.html",   "line": "Answers to the questions people actually ask."},
+      "appendix": {"label": "Appendix",       "href": "appendix/index.html", "line": "Citations, coverage, downloads."}
+    }
+  },
+
+  "types": {
+    "character": {
+      "id_format": "characters.char_id — lowercase ascii family-given, hyphenated; permanent",
+      "source": "cote_kb.db characters (one row per name) + ledgers/people/<stem>.md (evidence)",
+      "url": "people/{id}.html",
+      "fallback_url": "people/minor/{letter}.html#{id}",
+      "url_rule": "band 1 or 2 gets a page; band 3 is an entry on the page for its initial",
+      "template": ["lead", "infobox", "overview", "names", "story", "relationships", "appearances", "evidence", "related"],
+      "headings": {
+        "infobox": "At a glance",
+        "overview": "Who this is",
+        "names": "Names & aliases",
+        "story": "Story",
+        "relationships": "Relationships",
+        "appearances": "Appearances",
+        "evidence": "Evidence",
+        "related": "Related"
+      },
+      "indexes": ["people/index.html", "people/minor/{letter}.html"],
+      "sort_key": "family name, accent-folded, then given name",
+      "sort_rule": "alphabetical by sort_key on every list that is not band-grouped"
+    },
+
+    "volume": {
+      "id_format": "volumes.vol_id — y<year>v<number> with optional .<part> (y1v4.5, y2v12.5)",
+      "source": "cote_kb.db volumes (id, title, chrono_order, kind, pages) + ledgers/volumes/<id>.md",
+      "url": "story/v/{id}/index.html",
+      "template": ["lead", "infobox", "summary", "characters", "exams", "scenes", "documents", "related"],
+      "headings": {
+        "infobox": "At a glance",
+        "summary": "What happens, chapter by chapter",
+        "characters": "Who is named in it",
+        "exams": "Exams in this volume",
+        "scenes": "Scenes read from it",
+        "documents": "Full documents for this volume"
+      },
+      "indexes": ["story/index.html", "story/y{year}.html"],
+      "sort_key": "chrono_order (numeric, so 4.5 and 7.5 sort between 4 and 5, 7 and 8)",
+      "sort_rule": "publication order inside each year"
+    },
+
+    "exam": {
+      "id_format": "exams.exam_id — lowercase ascii, hyphenated; permanent",
+      "source": "cote_kb.db exams + exam_instances (which volume ran it) + ledgers/exams/<stem>.md",
+      "url": "school/exam/{id}.html",
+      "template": ["lead", "infobox", "rules", "appearances", "evidence", "related"],
+      "headings": {
+        "infobox": "At a glance",
+        "rules": "The rules",
+        "appearances": "When it was run",
+        "evidence": "Evidence"
+      },
+      "indexes": ["school/index.html"],
+      "sort_key": "chrono_order of the first volume that runs it",
+      "sort_rule": "chronological"
+    },
+
+    "system": {
+      "id_format": "systems.sys_id — lowercase ascii, hyphenated; permanent",
+      "source": "cote_kb.db systems + ledgers/systems/<stem>.md",
+      "url": "school/system/{id}.html",
+      "template": ["lead", "infobox", "rules", "appearances", "evidence", "related"],
+      "headings": {
+        "infobox": "At a glance",
+        "rules": "How it works",
+        "appearances": "Where the pages state it",
+        "evidence": "Evidence"
+      },
+      "indexes": ["school/index.html"],
+      "sort_key": "display_name",
+      "sort_rule": "alphabetical"
+    },
+
+    "place": {
+      "id_format": "locations.loc_id — lowercase ascii, hyphenated; permanent",
+      "source": "cote_kb.db locations + ledgers/places/<stem>.md",
+      "url": "world/{id}.html",
+      "template": ["lead", "infobox", "overview", "appearances", "evidence", "related"],
+      "headings": {
+        "infobox": "At a glance",
+        "overview": "What it is",
+        "appearances": "When it appears",
+        "evidence": "Evidence"
+      },
+      "indexes": ["world/index.html"],
+      "sort_key": "display_name",
+      "sort_rule": "alphabetical"
+    },
+
+    "topic": {
+      "id_format": "topics/<id>.html — a fixed question page, not a data row",
+      "source": "ledger entries that answer the question (kb/site_topics.py)",
+      "url": "topics/{id}.html",
+      "template": ["lead", "answer", "evidence", "related"],
+      "headings": {
+        "answer": "The answer",
+        "evidence": "Evidence"
+      },
+      "indexes": ["topics/index.html"],
+      "sort_key": "title",
+      "sort_rule": "alphabetical"
+    },
+
+    "year": {
+      "id_format": "y0 | y1 | y2 | y3",
+      "source": "derived from volumes",
+      "url": "story/y{n}.html",
+      "template": ["lead", "volumes", "related"],
+      "headings": {"volumes": "Volumes in order"},
+      "indexes": ["story/index.html"],
+      "sort_key": "year number",
+      "sort_rule": "numeric"
+    },
+
+    "scene": {
+      "id_format": "ev-<vol>-p<first>-<last>-<order> (order = position of the block inside its volume section)",
+      "source": "ledgers/**/*.md scene blocks",
+      "url": "anchored inside the page that renders the ledger (<volume page>, <character page>, <exam page>, <place page>)",
+      "template": ["heading", "entries"],
+      "sort_key": "page start, then order",
+      "sort_rule": "page order"
+    },
+
+    "source": {
+      "id_format": "same as volumes.vol_id — the printed volume a citation points into",
+      "source": "cote_kb.db volumes",
+      "url": "story/v/{id}/index.html",
+      "template": [],
+      "sort_key": "chrono_order",
+      "sort_rule": "numeric",
+      "label": "Year <year>, Volume <number>",
+      "short_label": "Vol. <number>",
+      "tag_label": "Year <year> Vol. <number>",
+      "role": "The one table every citation, appearance row and label reads. Generator code never types a volume name."
+    }
+  },
+
+  "entity_fields": {
+    "id": "permanent slug; never changes",
+    "display_name": "the one spelling shown in title, H1, breadcrumb, link text and body",
+    "aliases": "every other spelling; search and redirects only",
+    "sort_key": "the key every generated list sorts by",
+    "type": "one of the keys of types",
+    "status": "stub | partial | complete, computed",
+    "tier": "presence band for characters (1 principal, 2 medium, 3 minor)",
+    "parents": "year / class / section the record belongs to"
+  },
+
+  "status_rules": {
+    "character": "stub = no scene blocks; partial = scene blocks exist but a volume the name appears in has not been read through; complete = scene blocks exist and every volume the name appears in carries its DONE stamp",
+    "volume": "stub = no scenes and no chapter ledger; partial = some scenes or chapters; complete = the volume ledger carries its DONE stamp",
+    "exam": "stub = no ledger; partial = ledger scenes exist; complete = ledger scenes exist and every volume that runs it is DONE",
+    "system": "stub = no ledger; partial = ledger scenes exist; complete = ledger scenes exist and every volume the ledger cites is DONE",
+    "place": "stub = no ledger; partial = ledger scenes exist; complete = ledger scenes exist and every volume the ledger cites is DONE",
+    "topic": "partial = a source volume is not read through; complete = every source volume is read through"
+  },
+
+  "bands": {
+    "1": {"label": "Principal character", "plural": "Principal characters", "slug": "principal"},
+    "2": {"label": "Medium character",  "plural": "Medium characters",  "slug": "medium"},
+    "3": {"label": "Minor character",   "plural": "Minor characters",   "slug": "minor"},
+    "own_page": [1, 2],
+    "principal_min": {"scenes": 40, "quoted_lines": 300},
+    "medium_min": {"scenes": 3, "quoted_lines": 10},
+    "rule": "a name leaves the minor pool when its ledger crosses medium_min in either count, or the curated tier already calls it higher; no count demotes a curated tier"
+  },
+
+  "markers": {
+    "required": "every ledger marker resolves to a reader label; the build fails on an unknown one",
+    "table": "kb/site_ledgers.py MARKERS"
+  },
+
+  "validation": [
+    "every page has exactly one h1 and unique element ids",
+    "every internal link and anchor resolves",
+    "every entity has display_name, sort_key and a unique id",
+    "no two entities share an alias",
+    "entity link text equals the target display_name",
+    "section order identical in tab bar, home, footer and indexes",
+    "no left-rail link duplicates a tab-bar link",
+    "every rail count equals the number of items rendered in the body",
+    "every list is sorted by its declared key",
+    "every ledger marker has a reader label",
+    "no page has more than one layout for its type",
+    "every page has a breadcrumb",
+    "a redirect exists for every changed URL"
+  ]
+}

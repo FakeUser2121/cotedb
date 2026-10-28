@@ -23,6 +23,8 @@ rooms the scenes happen in, so the gap is visible instead of filled.
 
 import re
 
+import site_ledgers as L
+
 # the vocabulary a `[role:…]` entry may use. A closed set keeps the buckets
 # mechanical: the build never has to guess what a label means.
 ROLE_BUCKETS = {
@@ -67,7 +69,7 @@ def collect(ledgers):
     """
     out = {}
     for stem, led in ledgers.items():
-        cid = (led.get("meta") or {}).get("char_id") or stem
+        cid = L.page_id_for("people", (led.get("meta") or {}).get("char_id") or stem)
         for section in led.get("vols") or []:
             vol = section["vol"]
             for block in section["blocks"]:
@@ -91,7 +93,7 @@ def room_hints(ledgers):
     see the gap is a missing line, not a missing scene."""
     out = {}
     for stem, led in ledgers.items():
-        cid = (led.get("meta") or {}).get("char_id") or stem
+        cid = L.page_id_for("people", (led.get("meta") or {}).get("char_id") or stem)
         for section in led.get("vols") or []:
             for block in section["blocks"]:
                 hits = []

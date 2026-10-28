@@ -169,12 +169,11 @@ def entity_href(ctx, kind, stem):
     """Site-relative page for a ledger stem, or '' when the build makes no
     page for it. One resolver, so a link built here lands on the same URL the
     entity's own name links to."""
-    c = ctx["char_by_id"].get(stem) if kind == "people" else None
-    if c:
-        return c["href"]
     if kind == "people":
-        # collect_metas gives every walked stem its own page
-        return f"people/{stem}.html"
+        # a ledger's stem is not always the page id (tachibana); the alias
+        # table pairs them, and a stem with no page gets no link
+        c = ctx["char_by_id"].get(L.page_id_for("people", stem))
+        return c["href"] if c else ""
     return entity_page_href(ctx, kind, stem)
 
 
@@ -215,7 +214,8 @@ def entity_link(ctx, kind, stem, base="topics"):
     resolves that and returns '' when the build makes no page, so the link
     falls back to the section index instead of pointing at nothing."""
     href = entity_href(ctx, kind, stem) or KIND_INDEX[kind]
-    c = ctx["char_by_id"].get(stem) if kind == "people" else None
+    c = ctx["char_by_id"].get(L.page_id_for("people", stem)) \
+        if kind == "people" else None
     if c:
         name = c["name"]
     else:

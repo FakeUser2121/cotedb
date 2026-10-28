@@ -1,0 +1,10 @@
+{
+  "about": "Every URL that existed in a published build and has since moved. The build writes one small page at each `from` path that sends the reader to `to` with a meta refresh and a visible link, and carries rel=canonical so search engines collapse the pair. Adding a row here is the only thing a URL change needs.",
+  "redirects": [
+    {
+      "from": "people/tachibana.html",
+      "to": "people/tachibana-akane.html",
+      "reason": "The ledger was filed under the walk's stem (tachibana); the roster keys the same person tachibana-akane. One page now, under the roster id."
+    }
+  ]
+}
