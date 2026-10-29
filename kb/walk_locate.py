@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 """Walk tooling: locate alias hits per volume, extract page-range text, track walk positions."""
 import argparse
+import csv
 import os
 import re
-import sqlite3
 import sys
 import unicodedata
 
 TEXT_DIR = "text"
-DB_PATH = "cote_kb.db"
+TSV_PATH = "content/characters.tsv"
 
 PAGE_RE = re.compile(r"^--- page (\d+) ---\s*$", re.MULTILINE)
 
@@ -41,10 +41,16 @@ def parse_pages(path):
 
 
 def alias_patterns(char_id):
-    db = sqlite3.connect(DB_PATH)
-    forms = [r[0] for r in db.execute(
-        "SELECT raw_form FROM aliases WHERE char_id=? AND is_noise=0", (char_id,))]
-    db.close()
+    forms = set()
+    with open(TSV_PATH, encoding="utf-8") as f:
+        for row in csv.DictReader(f, delimiter="\t"):
+            if row["id"] != char_id:
+                continue
+            for field in ("name", "sort", "aliases"):
+                for raw in (row.get(field) or "").split(";"):
+                    if raw.strip():
+                        forms.add(raw.strip())
+            break
     if not forms:
         sys.exit(f"no aliases for {char_id}")
     return sorted({fold(f) for f in forms})

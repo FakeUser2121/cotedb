@@ -790,3 +790,15 @@ answers with a redirect to `FakeUser2121/cotedb` and that is expected. Cloudflar
 deploys from the push; there is deliberately no github.io site and no live URL
 to quote. Standing user instructions: no subagents, do not open his screenshots,
 use the progress files every chapter, installs go to `/mnt/D`.
+
+**2026-10-29 — sqlite layer removed.** Per the merge contract (site built from
+`content/*.tsv` + `ledgers/`, no database in the walk chain): `cote_kb.db` and
+`search.db` deleted from disk (both were gitignored, never in git); the local
+`site-v2` branch deleted (identical to `origin/main`); `kb/corpus_check.py`
+(P0-era PDF↔txt checker, its only DB consumer) removed; `kb/walk_locate.py`
+`alias_patterns` rewired from the DB `aliases` table to
+`content/characters.tsv` (`name`/`sort`/`aliases`, folded). Note: the old DB
+held 357 folded forms the TSV does not carry (MTL typo variants like
+`ayakoji`, `chabasira`, plus a few surname-only forms) — `locate` now searches
+published roster forms only; ledgers remain the truth layer. Verified:
+`locate` runs on y1v2/y1v3, `next` → y1v3 ch1 p.10-12, `make check` OK.
