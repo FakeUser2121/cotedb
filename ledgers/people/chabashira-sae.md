@@ -306,3 +306,22 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [trait] (p.251) Her usual manner is "unaware of and unconcerned with her class," which is why the session itself is the surprise.
 
 <!-- walk: y1v2 ch7 → p.257 -->
+
+## y1v3
+
+<!-- walk: y1v3 → start -->
+
+### y1v3 p.10–12 — Ch.1: cold open in her POV, the Icarus gamble
+[scene] (p.10) The volume opens inside Chabashira's first person with no setting and no interlocutor — a soliloquy that retells the myth of Daedalus and Icarus and then states why she provoked a certain young boy.
+[narrates] (p.10) The myth, her summary: Daedalus, confined in a tower by King Minos alongside his son Icarus, fashions wings of bird feathers, thread and wax; the warning “If you fly too high, the sun will melt the wax holding the wings together. Be careful.”; Icarus forgets it, the wax melts, and he falls into the sea and dies.
+[trait] (p.10) She frames her own predicament in classical myth — “Greek mythology deals abundantly with human frailty.” — treating her situation as a fable to be interpreted before it is confessed.
+[thinks] (p.10) "For some reason, I thought of Icarus’ wings when standing before a certain young boy."
+[thinks] (p.10) "Considering what these past few months had brought, I could say that I made the comparison simply because he resembled Icarus."
+[thinks] (p.11) "But I immediately came to realize that the two boys were fundamentally different from one another. This boy possessed neither the bravery nor the arrogance of Icarus."
+[thinks] (p.11) "I had been pushed into a corner. I had no choice but to do it."
+[goal] (p.11) Cornered and out of means, she chose the provocation: incur the boy's divine wrath and turn his quiet rage onto herself.
+[thinks] (p.11) "The die cannot be returned once cast. The gamble had already begun."
+[voice] (p.10–11) Soliloquy register: measured, literary, fatalistic — she narrates her own decision as a fable already decided, with no hedging and no appeal for sympathy.
+[note] (p.10–11) The boy is never named on these pages — only "a certain young boy" / "this boy". Identity left open; not assigned from context.
+
+<!-- walk: y1v3 ch1 → p.12 -->

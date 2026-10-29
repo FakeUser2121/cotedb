@@ -1039,3 +1039,13 @@ numbers, never estimated ones.
 **Deploy.** Push `main`; the remote redirects to `FakeUser2121/cotedb` and
 Cloudflare serves the site. The repository is deliberately private and the
 github.io site is deliberately dead; there is no URL to quote back to the user.
+
+### y1v3 Chapter 1 ships as the volume's first recorded scene (site, 2026-10-29)
+
+Volume 3's ledger and Chabashira's cold-open soliloquy (pp.10–12) reached the
+site: 169 pages, 34 assets, search index rebuilt, story/v/y1v3 now a real
+volume page rather than a stub. R18 wording fired once on the first build
+("ledgers" served on the volume page) and the row was rewritten; the second
+build is clean, the ratchet unchanged (R19 warn 82/82). Determinism hash
+across consecutive builds: `ffb110dbfa0c9e5b77d50c2a721af34c`. Quotes: 12
+non-says spans, 0 [says] lines (the chapter is narration), all corpus-exact.

@@ -802,3 +802,17 @@ held 357 folded forms the TSV does not carry (MTL typo variants like
 `ayakoji`, `chabasira`, plus a few surname-only forms) — `locate` now searches
 published roster forms only; ledgers remain the truth layer. Verified:
 `locate` runs on y1v2/y1v3, `next` → y1v3 ch1 p.10-12, `make check` OK.
+
+**2026-10-29 — y1v3 Chapter 1 walked (pp.10–12, "Chabashira Sae's Soliloquy").**
+Volume ledger created (`ledgers/volumes/y1v3.md`, start stamp). Chapter is a pure
+first-person cold open: the Wings of Icarus retelling (p.10), the comparison to
+"a certain young boy," and the confession that she turned his quiet rage onto
+herself because she had been "pushed into a corner" (p.11). p.12 carries no
+prose. Chabashira's ledger got the full sweep (`## y1v3` block, 10 rows); no
+other roster character is present — the boy is never named on these pages, so
+no stamp or row was written for anyone else and the attribution gap is listed
+in the volume section (AGENTS.md §7: never assign from context alone). New
+entities: none (only the myth figures inside her retelling). Verifiers pass;
+the wording gate caught one row that said "in the ledgers" — rewritten to
+"he stays unnamed in the records" before the commit. No defects kept as
+printed. Next: y1v3 ch2 pp.13–99 (87 pp → two sub-reads).
