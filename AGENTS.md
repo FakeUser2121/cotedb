@@ -27,14 +27,18 @@ generated later from complete, consistently anchored ledgers.
 | `content/*.tsv`, `content/config.json` | the roster and settings | you, rows only |
 | `gen/` | the generator (`model.py`, `render.py`, `build.py`, `markers.json`, `assets/`) | owner only |
 | `docs/` | the built site | **nobody**: it is generated |
-| `kb/` | walk tools (`cote.py`, `cote_mcp.py`, `walk_locate.py`, `verify2.py`, `verify3.py`, `corpus_check.py`) and the validator (`validate_site.py`, `schema/`) | owner only |
+| `kb/` | walk tools (`cote.py`, `cote_mcp.py`, `walk_locate.py`, `verify2.py`, `verify3.py`) and the validator (`validate_site.py`, `schema/`) | owner only |
 | `progress2.md`, `progress3.md` | walk log; what shipped | you |
 | `PROGRESS.md` | history of the earlier phases | read only |
 | `archive/` | retired work | nobody; never run, import or copy from it |
-| `text/`, `gdrive_download/`, `cote_kb.db`, `search.db` | local only; **never enter git** | — |
+| `text/`, `gdrive_download/` | local only; **never enter git** | — |
 
-The site is built only from `content/` and `ledgers/`. `cote_kb.db` is a local
-locator (which pages mention a name); it never feeds the site and is never served.
+The site is built only from `content/` and `ledgers/`. The page locator is
+`python3 kb/walk_locate.py locate --vol <vol> --char <id>`: it searches a
+volume's pages in `text/` for a roster character's published name forms
+(`name`, `sort` and `aliases` from `content/characters.tsv`, matched
+case- and diacritic-insensitively). It is a walk aid; it never feeds the site
+and is never served.
 
 Retired for good, do not recreate: the database-driven site build, a `share/`
 mirror, PDF bundles, dossier / guide / article pages, a Start-here or Appendix
@@ -116,8 +120,11 @@ Per chapter:
    `progress3.md` (page counts, determinism hash).
 8. `ship --from <msgfile> --check --vol <vol>`.
 
-Per volume: a coverage gate. Compare the locator's mention hits against the
-ledger pages; every hit page gets an entry or an explicit `passing mention`. Then
+Per volume: a coverage gate. Run the page locator (`kb/walk_locate.py locate`)
+for each roster character the volume names and compare its hit pages against
+the pages cited in the ledgers; every hit page gets an entry or an explicit
+`passing mention`. The locator only knows published spellings, so a page where
+the text misspells a name may not surface. Then
 end the volume with a closing stamp `<!-- walk: <vol> <last section> → DONE -->`
 in `ledgers/volumes/<vol>.md` (the site reads it to mark the volume complete) and
 add a `progress2.md` row. If the walk finds a named character in a volume that is
