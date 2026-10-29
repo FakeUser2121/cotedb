@@ -26,8 +26,8 @@ do not reach for sed, cat, grep, git or a shell for any of these steps.
 | `append` | insert a section into a ledger, one boundary marker per chapter |
 | `ledger_new` | create a per-entity ledger |
 | `verify` | check every quote against the volume text |
-| `build` | rebuild the site; `docs` mirrors the published tree |
-| `gate` | full publishing gate |
+| `build` | rebuild `docs/` from `content/` and the ledgers (`docs` flag ignored) |
+| `gate` | strict site validator and generator tests |
 | `hash` | determinism hash; run twice, the values must match |
 | `ship` | stage, commit as the noreply identity, optionally push |
 
@@ -55,7 +55,7 @@ next range. Keep a chapter's pages in one pass so cross-references stay straight
    system facts, open threads, attribution gaps.
 4. `verify --vol` until both verifiers pass. A failure is a misquoted line or a
    quote stitched across two corpus sentences — fix the row, never the verifier.
-5. `build --docs`; then `gate`; then `hash` twice and confirm the two runs match.
+5. `build`; then `gate`; then `hash` twice and confirm the two runs match.
 6. Close the chapter in `progress2.md` (what was walked, what stayed open, what
    defects were kept as printed) and `progress3.md` (what shipped: page counts,
    link and citation counts, determinism hash, render locations checked).
@@ -75,11 +75,11 @@ next range. Keep a chapter's pages in one pass so cross-references stay straight
   happens on click.
 - Commits use the noreply identity through environment variables only; `git
   config` is never modified. Never commit `session-*.md`.
-- The generated `docs/` tree is what gets published; `share/` is local state and
-  stays out of git.
+- The generated `docs/` tree is what gets published; never edit it by hand.
+  `RULES.md` and `SCHEMA.md` define what the site may contain.
 
 ## Resources
 
 - `references/ledger-grammar.md` — row tags, section shapes, stamp placement,
-  and the writer-facing wording rules the site gate enforces.
+  and the wording rules the validator enforces.
 - `kb/cote.py` — the wrapper itself; `cote.py <cmd> -h` for every flag.

@@ -1,0 +1,6 @@
+id	name	kind	volumes
+class-points	Class Points		y1v2;y1v3;y1v4;y1v4.5;y1v5;y1v6;y1v7;y1v7.5;y1v8;y1v9;y1v10;y1v11;y1v11.5;y1v11.75
+clubs	Clubs		y0;y1v1;y1v2;y1v3;y1v4.5;y1v5;y1v6;y1v7;y1v7.5;y1v8;y1v9;y1v10;y1v11;y1v11.5
+expulsion	Expulsion Rules		y0;y1v1;y1v2;y1v3;y1v4;y1v4.5;y1v5;y1v6;y1v7;y1v7.5;y1v8;y1v9;y1v10;y1v11
+private-points	Private Points		y1v1;y1v2
+student-council	Student Council		y0;y1v1;y1v2;y1v3;y1v4.5;y1v5;y1v6;y1v7;y1v7.5;y1v8;y1v9;y1v10;y1v11;y1v11.5

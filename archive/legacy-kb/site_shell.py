@@ -104,17 +104,16 @@ def rail_left(section, current, root, items, title=None):
     `details` may hold more `details`, so a rail can show which entries sit
     inside which instead of printing every level as a sibling."""
     head = title or section["label"]
-    head_link = ""
-    if section["id"] != "home" and current != section["href"]:
-        head_link = f' <a href="{root}{section["href"]}">index</a>'
     if not items:
         # the tab bar already says where you are; an empty rail is not worth
         # an element, a border or a screen-reader landmark
         return ""
     body = "".join(_rail_node(root, current, it, 0) for it in items)
     return (f'<nav class="rail left" id="rail-nav" aria-label="Contents">'
-            f'<div class="rail-h"><a href="{root}index.html">{esc(head)}</a>'
-            f'{head_link}</div>{body}</nav>')
+            # The header is a label, not a link: the tab bar already links
+            # the section, and a link labelled with a section name must never
+            # lead somewhere else (it used to lead to Home).
+            f'<div class="rail-h">{esc(head)}</div>{body}</nav>')
 
 
 def _rail_node(root, current, it, depth):

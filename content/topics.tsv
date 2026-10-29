@@ -1,0 +1,6 @@
+id	title	lede	kind	markers	pattern	owners
+relationships	Relationships, with evidence	Who is aligned, opposed or indebted to whom, on the pages that have been read.	pairs			
+who-knew-what	Who knew what, and when	What each character is recorded as thinking or knowing, volume by volume.	rows	thinks,think,note,limit,status,inference		people
+expulsions	Expulsions and near-misses	Every moment, so far, that the school put a student's place on the table.	rows		expel|drop out|leaving the school|vote	
+points	Points, prices and payouts	The numbers the volumes read so far actually moved on.	rows		\b[\d][\d,]{2,}\s*(?:private\s+)?points?\b	
+results	Winners, placements and consequences	What each exam decided in the volumes read so far, in the order it was decided.	rows	result,impact,trade,rule,number,fact		

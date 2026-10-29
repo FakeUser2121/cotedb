@@ -1,0 +1,9 @@
+{
+  "main_share": 0.5,
+  "page_min_scenes": 3,
+  "page_min_lines": 10,
+  "static_cards": 6,
+  "page_size": 12,
+  "repo_url": "https://github.com/FakeUser2121/cotedb",
+  "supporting_share": 0.2
+}

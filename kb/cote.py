@@ -13,9 +13,9 @@ Usage:
   cote.py append    --file ledgers/people/sakura-airi.md --from drafts/ch5.md \
                     [--under y1v2] [--stamp "y1v2 ch5 -> p.189"] [--at-end]
   cote.py verify    [--vol y1v2]
-  cote.py build     [--docs]
+  cote.py build
   cote.py gate
-  cote.py hash      [share/site]
+  cote.py hash      [docs]
   cote.py ship      --message-from drafts/msg.txt [--check] [--push]
   cote.py ledger-new people/kanzaki-ryuuji --header "char_id: kanzaki-ryuuji ..."
 
@@ -32,7 +32,7 @@ import sys
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 PROGRESS = ["progress2.md", "progress3.md"]
-SHIP_PATHS = [".qoder", "docs", "kb", "ledgers", "progress2.md", "progress3.md", "system-prompt.md"]
+SHIP_PATHS = [".qoder", ".github", "RULES.md", "SCHEMA.md", "Makefile", "content", "docs", "gen", "kb", "ledgers", "progress2.md", "progress3.md", "system-prompt.md"]
 NEVER_SHIP = re.compile(r"(^|/)(session-[^/]+|share|_sitecheck|cote_kb\.db|search\.db|text|gdrive_download)(/|$)")
 STAMP_RE = re.compile(r"^<!--\s*walk:\s*(?P<inner>.*?)\s*-->\s*$")
 HEAD_RE = re.compile(r"^##\s+(?P<vol>[A-Za-z0-9._-]+)\s*$")
@@ -252,34 +252,32 @@ def cmd_verify(a) -> int:
 
 
 def cmd_build(a) -> int:
-    # A full rebuild is the no-flag invocation; --docs is a mirror-only step.
-    code = run([sys.executable, "kb/build_share_site.py"], "build")
+    """Rebuild docs/ from content/ and ledgers/. --docs is accepted and ignored."""
+    code = run([sys.executable, "gen/build.py"], "build")
     if code != 0:
         return code
-    if a.docs:
-        code = run([sys.executable, "kb/build_share_site.py", "--docs"], "docs")
-        if code != 0:
-            return code
-    print("cote: site hash " + tree_hash("share/site"))
+    print("cote: site hash " + tree_hash("docs"))
     return 0
 
 
 def cmd_gate(a) -> int:
-    cmd = [sys.executable, "kb/share_check.py", "--site", "--print", "--pdf"]
-    if a.full:
-        return run(cmd, "gate")
-    proc = subprocess.run(cmd, cwd=ROOT, capture_output=True, text=True)
-    out = (proc.stdout + proc.stderr).rstrip()
-    bad = [l for l in out.splitlines() if re.search(r"\b(problem|FAIL|failed|missing|bad|ERROR)\b", l)]
-    print(out if (proc.returncode == 0 or not bad) else "\n".join(bad))
-    return proc.returncode
+    """Publishing gate: the strict site validator and the generator tests."""
+    codes = [run([sys.executable, "kb/validate_site.py", "--site", "docs", "--strict"], "validate"),
+             run([sys.executable, "-m", "unittest", "discover", "-s", "gen/tests"], "gen tests"),
+             run([sys.executable, "-m", "unittest", "discover", "-s", "kb/tests"], "kb tests")]
+    return 0 if all(c == 0 for c in codes) else 1
 
 
 def tree_hash(rel: str) -> str:
-    sys.path.insert(0, str(ROOT / "kb"))
-    import build_share_site as bss  # noqa: PLC0415
+    import hashlib  # noqa: PLC0415
 
-    return bss.md5_tree(ROOT / rel)
+    root = ROOT / rel
+    h = hashlib.md5()
+    for p in sorted(root.rglob("*")):
+        if p.is_file():
+            h.update(p.relative_to(root).as_posix().encode())
+            h.update(p.read_bytes())
+    return h.hexdigest()
 
 
 def cmd_hash(a) -> int:
@@ -469,7 +467,7 @@ def main() -> int:
 
     p = sub.add_parser("gate"); p.add_argument("--full", action="store_true"); p.set_defaults(fn=cmd_gate)
 
-    p = sub.add_parser("hash"); p.add_argument("path", nargs="?", default="share/site"); p.set_defaults(fn=cmd_hash)
+    p = sub.add_parser("hash"); p.add_argument("path", nargs="?", default="docs"); p.set_defaults(fn=cmd_hash)
 
     p = sub.add_parser("ship", help="stage the shipped paths, commit as the noreply identity, optionally push")
     p.add_argument("--message")

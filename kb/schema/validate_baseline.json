@@ -1,0 +1,21 @@
+{
+  "R01_one_h1": 0,
+  "R02_duplicate_ids": 0,
+  "R03_broken_link": 0,
+  "R04_broken_anchor": 0,
+  "R05_no_breadcrumb": 0,
+  "R06_tab_order": 0,
+  "R07_rail_repeats_tab": 0,
+  "R08_citation_linked": 0,
+  "R09_link_in_quote": 0,
+  "R10_empty_link_text": 0,
+  "R11_duplicate_link": 0,
+  "R12_page_too_big": 0,
+  "R13_evidence_on_index": 0,
+  "R14_unlabelled_marker": 0,
+  "R15_entity_link_text": 0,
+  "R16_redirect_target": 0,
+  "R17_label_mismatch": 0,
+  "R18_wording": 0,
+  "R19_second_person": 82
+}

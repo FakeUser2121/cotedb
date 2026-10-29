@@ -1,0 +1,16 @@
+id	name	kind	volumes
+class-poll	Class Poll	Special exam	y1v10;y1v11;y1v11.5;y2v2;y2v4.5;y2v5;y2v8;y2v9.5
+comprehensive-academic-exam	Comprehensive Academic Ability Exam	Special exam	y3v1;y3v2
+coop-written-head-to-head	Cooperative Comprehensive Written Exam	Special exam	y2v9
+cruise-ship-exam	Cruise Ship Exam	Special exam	y1v4;y1v4.5;y1v5;y1v7;y1v7.5;y2v2;y2v4.5;y2v9;y2v12
+end-of-year-special-exam	End-of-Year Special Exam	Special exam	y1v11.5;y2v11;y2v12;y2v12.5;y3v1;y3v2;y3v3
+entrance-exam	Entrance Exam	Entrance exam	y1v1;y1v2;y1v3;y1v4.5;y1v6;y1v7;y1v9;y1v11.5;y2v1;y2v9.5;y2v11;y3v2;y3v3
+event-selection-exam	Event Selection Exam	Special exam	y1v11;y1v11.5
+midterm-final-written	Midterm and Final Written Exams	Written exam	y1v1;y1v2
+mixed-training-camp	Mixed Training Camp	Special exam	y1v8;y1v10;y2v2;y2v4.5;y2v9;y2v9.5;y2v11
+paper-shuffle	Paper Shuffle	Special exam	y1v6;y1v7;y1v8;y1v9;y1v11;y2v1;y2v8
+school-festival	School Festival	School event	y1v11;y2v5;y2v6;y2v7;y2v8;y2v9;y2v9.5;y2v10;y2v11;y2v12
+sports-festival	Sports Festival	School event	y1v2;y1v5;y1v6;y1v7;y1v7.5;y1v8;y1v9;y1v10;y1v11;y1v11.5;y2v2;y2v4.5;y2v5;y2v6
+survival-elimination-exam	Survival and Elimination Exam	Special exam	y2v10;y2v10.25;y2v11;y3v1
+unanimous-vote-exam	Unanimous Vote Exam	Special exam	y2v5;y2v7;y2v8;y2v9;y2v9.5;y2v10;y2v11;y2v12;y2v12.5;y3v1;y3v2
+uninhabited-island-exam	Uninhabited Island Exam	Special exam	y1v4;y1v4.5;y1v6;y1v7;y1v7.5;y1v8;y1v10;y1v11;y1v11.5;y2v2;y2v3;y2v4;y2v4.5;y2v5

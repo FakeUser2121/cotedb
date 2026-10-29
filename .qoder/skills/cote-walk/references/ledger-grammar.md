@@ -1,6 +1,6 @@
 # Ledger grammar
 
-The shape every walk row takes, and the rules the site gate enforces on the
+The shape every walk row takes, and the rules the site validator enforces on the
 prose that reaches readers.
 
 ## File shape
@@ -74,10 +74,10 @@ and dashes folded, non-alphanumerics stripped. What that means in practice:
 
 ## Prose the site publishes
 
-Rows are rendered into reader-facing pages, so they pass a wording gate:
+Rows are rendered into reader-facing pages, so they pass the validator's wording rules (R18 is an error, R19 a warning):
 
-- No pipeline vocabulary: ledger, walk, dossier, checkpoint, scene block, volume
-  ids, database names. Say "the record", "this page", "the chapter".
+- No pipeline vocabulary: ledger, dossier, scene block, raw volume ids, database
+  names. Say "the record", "this page", "the chapter".
 - No second person, no instructions to the reader.
 - Page references stay, but never styled as controls when nothing happens on
   click.

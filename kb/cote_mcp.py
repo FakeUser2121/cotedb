@@ -101,7 +101,7 @@ TOOLS = [
     },
     {
         "name": "build",
-        "description": "Rebuild the static site from the ledgers. With docs=true, mirror the result into the committed docs/ tree. Prints the determinism hash.",
+        "description": "Rebuild docs/ from content/ and the ledgers with gen/build.py. Prints the determinism hash. The docs flag is accepted and ignored.",
         "inputSchema": {
             "type": "object",
             "properties": {"docs": {"type": "boolean", "description": "Mirror to docs/."}},
@@ -109,15 +109,15 @@ TOOLS = [
     },
     {
         "name": "gate",
-        "description": "Run the full publishing gate: links, citations, page references, wording, print bundles and PDFs.",
+        "description": "Run the publishing gate: the strict site validator (headings, links, anchors, link grammar, page sizes, labels) and the generator tests.",
         "inputSchema": {"type": "object", "properties": {}},
     },
     {
         "name": "hash",
-        "description": "Determinism hash of a generated tree (share/site by default). Run twice after a rebuild; the two values must match.",
+        "description": "Determinism hash of a generated tree (docs by default). Run twice after a rebuild; the two values must match.",
         "inputSchema": {
             "type": "object",
-            "properties": {"path": {"type": "string", "default": "share/site"}},
+            "properties": {"path": {"type": "string", "default": "docs"}},
         },
     },
     {
@@ -153,7 +153,7 @@ HANDLERS = {
     "verify": lambda a: cote.cmd_verify(SimpleNamespace(vol=a.get("vol"))),
     "build": lambda a: cote.cmd_build(SimpleNamespace(docs=bool(a.get("docs")))),
     "gate": lambda a: cote.cmd_gate(SimpleNamespace(full=False)),
-    "hash": lambda a: cote.cmd_hash(SimpleNamespace(path=a.get("path") or "share/site")),
+    "hash": lambda a: cote.cmd_hash(SimpleNamespace(path=a.get("path") or "docs")),
     "ship": lambda a: cote.cmd_ship(SimpleNamespace(
         message=a.get("message"), message_from=a.get("message_from"),
         check=bool(a.get("check")), vol=a.get("vol") or None,

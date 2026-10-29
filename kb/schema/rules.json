@@ -1,0 +1,204 @@
+{
+  "version": 1,
+  "about": "Target site contract enforced by kb/validate_site.py. Edit values here, never the validator. Numbers marked (tune) are placeholders: run the validator once on real output and adjust.",
+  "home": "index.html",
+  "tabs": {
+    "order": [
+      "people/index.html",
+      "story/index.html",
+      "school/index.html",
+      "world/index.html",
+      "topics/index.html"
+    ],
+    "labels": {
+      "people/index.html": "People",
+      "story/index.html": "Story",
+      "school/index.html": "Exams & School",
+      "world/index.html": "World & Places",
+      "topics/index.html": "Topics"
+    }
+  },
+  "page_types": [
+    [
+      "index.html",
+      "home"
+    ],
+    [
+      "people/index.html",
+      "directory"
+    ],
+    [
+      "people/minor/*.html",
+      "minor_directory"
+    ],
+    [
+      "story/v/*/index.html",
+      "volume"
+    ],
+    [
+      "story/index.html",
+      "section_index"
+    ],
+    [
+      "school/index.html",
+      "section_index"
+    ],
+    [
+      "world/index.html",
+      "section_index"
+    ],
+    [
+      "topics/index.html",
+      "section_index"
+    ],
+    [
+      "about/*.html",
+      "footer_page"
+    ],
+    [
+      "search/index.html",
+      "other"
+    ],
+    [
+      "people/*.html",
+      "character"
+    ],
+    [
+      "story/y*.html",
+      "year"
+    ],
+    [
+      "school/exam/*.html",
+      "exam"
+    ],
+    [
+      "school/system/*.html",
+      "system"
+    ],
+    [
+      "world/*.html",
+      "place"
+    ],
+    [
+      "topics/*.html",
+      "topic"
+    ]
+  ],
+  "max_words": {
+    "home": 1200,
+    "directory": 6500,
+    "minor_directory": 1500,
+    "section_index": 2500,
+    "character": 6000,
+    "volume": 10000,
+    "year": 1500,
+    "exam": 3000,
+    "system": 5000,
+    "place": 3000,
+    "topic": 4000,
+    "footer_page": 1500
+  },
+  "no_evidence_on": [
+    "directory",
+    "minor_directory",
+    "section_index",
+    "home",
+    "year"
+  ],
+  "breadcrumb_exempt": [
+    "home"
+  ],
+  "entity_link_targets": [
+    "people/*.html",
+    "school/exam/*.html",
+    "school/system/*.html",
+    "world/*.html"
+  ],
+  "entity_link_skip_targets": [
+    "*/index.html",
+    "people/minor/*.html"
+  ],
+  "citation_pattern": "^(Vol\\.\\s*\\d+(\\.\\d+)?\\s*)?p\\.\\s*\\d+",
+  "rules": {
+    "R01_one_h1": {
+      "level": "error",
+      "what": "exactly one <h1> per page"
+    },
+    "R02_duplicate_ids": {
+      "level": "error",
+      "what": "no duplicate element id on a page"
+    },
+    "R03_broken_link": {
+      "level": "error",
+      "what": "every internal link resolves to a file"
+    },
+    "R04_broken_anchor": {
+      "level": "error",
+      "what": "every #anchor resolves to an id on the target"
+    },
+    "R05_no_breadcrumb": {
+      "level": "error",
+      "what": "every page except home has a breadcrumb"
+    },
+    "R06_tab_order": {
+      "level": "error",
+      "what": "tab bar equals tabs.order, in order, on every page"
+    },
+    "R07_rail_repeats_tab": {
+      "level": "error",
+      "what": "left rail never repeats a tab-bar destination"
+    },
+    "R08_citation_linked": {
+      "level": "error",
+      "what": "a page citation (p.47) is never inside a link"
+    },
+    "R09_link_in_quote": {
+      "level": "error",
+      "what": "no link inside the quotation itself (speaker attribution after it is fine)"
+    },
+    "R10_empty_link_text": {
+      "level": "error",
+      "what": "link text is more than punctuation or an arrow"
+    },
+    "R11_duplicate_link": {
+      "level": "warn",
+      "what": "same target linked twice in one paragraph or list item"
+    },
+    "R12_page_too_big": {
+      "level": "error",
+      "what": "visible words within max_words for the page type"
+    },
+    "R13_evidence_on_index": {
+      "level": "error",
+      "what": "directory-type pages hold no scene blocks"
+    },
+    "R14_unlabelled_marker": {
+      "level": "error",
+      "what": "every row label is in the MARKERS table"
+    },
+    "R15_entity_link_text": {
+      "level": "warn",
+      "what": "link text to an entity page is a name that entity uses"
+    },
+    "R16_redirect_target": {
+      "level": "error",
+      "what": "a redirect page points at a file that exists"
+    },
+    "R17_label_mismatch": {
+      "level": "error",
+      "what": "a link labelled with a section name goes to that section"
+    },
+    "R18_wording": {
+      "level": "error",
+      "what": "no pipeline vocabulary (ledger, dossier, database, raw volume ids) on any page"
+    },
+    "R19_second_person": {
+      "level": "warn",
+      "what": "no second person in published prose; quoted speech is exempt (some ledger rows quote speech without quote marks)"
+    }
+  },
+  "wording": {
+    "banned_vocabulary": "\\bledgers?\\b|\\bdossiers?\\b|\\bscene blocks?\\b|\\bchar_id\\b|cote_kb|\\bdatabase\\b|(?-i:\\by[0-3]v\\d+(?:\\.\\d+)?\\b)",
+    "second_person": "\\byou(?:r|rs|rself)?\\b"
+  }
+}
