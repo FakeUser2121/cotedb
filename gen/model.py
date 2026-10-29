@@ -77,6 +77,7 @@ class Model:
         self.vol_ledger = {}
         self.scenes = []
         self._load_ledgers()
+        self._check_markers()
         self._link_scenes()
         self._tiers()
 
@@ -114,6 +115,18 @@ class Model:
         for f in sorted((LEDGERS / "volumes").glob("*.md")):
             self.vol_ledger[f.stem] = {"done": bool(DONE.search(f.read_text(encoding="utf-8"))),
                                        "chapters": self._chapters(f.read_text(encoding="utf-8"))}
+
+    def _check_markers(self):
+        bad = {}
+        for (kind, eid), led in self.ledger.items():
+            for b in led["blocks"]:
+                for r in b["rows"]:
+                    if r["m"] not in MARKERS:
+                        bad.setdefault(r["m"], f"ledgers/{kind}/{eid}.md")
+        if bad:
+            raise SystemExit("unknown ledger marker: " + "; ".join(
+                f"[{m}] first seen in {f}" for m, f in sorted(bad.items()))
+                + ". Add a reader label to gen/markers.json (the owner approves new labels).")
 
     def _blocks(self, text):
         out, vol, cur = [], None, None

@@ -32,7 +32,7 @@ import sys
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 PROGRESS = ["progress2.md", "progress3.md"]
-SHIP_PATHS = [".qoder", ".github", "RULES.md", "SCHEMA.md", "Makefile", "content", "docs", "gen", "kb", "ledgers", "progress2.md", "progress3.md", "system-prompt.md"]
+SHIP_PATHS = ["AGENTS.md", "README.md", "Makefile", ".github", "content", "docs", "gen", "kb", "ledgers", "progress2.md", "progress3.md"]
 NEVER_SHIP = re.compile(r"(^|/)(session-[^/]+|share|_sitecheck|cote_kb\.db|search\.db|text|gdrive_download)(/|$)")
 STAMP_RE = re.compile(r"^<!--\s*walk:\s*(?P<inner>.*?)\s*-->\s*$")
 HEAD_RE = re.compile(r"^##\s+(?P<vol>[A-Za-z0-9._-]+)\s*$")
