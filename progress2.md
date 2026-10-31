@@ -900,3 +900,45 @@ characters skipped by design) and 169 non-says spans, all corpus-exact; the
 one cross-page quote (shirt bag, pp.139–140) was split with `…` before
 verify. No defects kept as printed beyond the flagged "didn’t had the time"
 (p.131). Next: y1v3 ch5 pp.144–158.
+
+**2026-11-01 — y1v3 Chapter 5 walked (pp.144–158, "The Quiet Outbreak of War").**
+Fourth day: morale turns on the river — fish, fruit and the ~100-point
+spend with Kōenji's retirement in it, Yukimura satisfied (p.144); the 80:20
+offensive reading taken as the order to attack (p.144); on the Class A
+side the hut spot below the cliff — fishing gear, four hours shown, tools
+dusty — marked on the map (p.145), and the tower left empty because
+holding it invites observation (p.146); two Class A boys ambush and search
+him, keep the map, and offer 100,000/200,000 points under a memorandum for
+the leader's identity while correcting him that Sakayanagi — not Katsuragi
+— is Class A's representative (pp.146–148); with Ichinose and Kanzaki at
+the emptied Class C camp he reads the retired class and pumps the pair on
+the Class A split under Horikita's cover (pp.149–151); then the flashback —
+Sudou's failed summer invitation, and Chabashira's faculty-room story: her
+own student past, the unnamed man who demanded Ayanokōji's expulsion, the
+Class A bargain, the collar grab, the answer never spoken (pp.152–157).
+p.158 carries no prose (blank/short scan page). Six people ledgers plus
+the volume file carry the stamp `y1v3 ch5 → p.158`: Ayanokōji, Chabashira,
+Sudō, Horikita, Ichinose and Kanzaki — Sudō, Horikita, Ichinose and Kanzaki
+each get their first y1v3 block here; Chabashira's carries the full student-
+past and expel-deal section. No new ledgers (Kanzaki already had one), no
+new roster rows, no new named entities — Sakagami, Hoshinomiya, Yukimura
+and Sakayanagi are references only; the two Class A ambush boys and the
+man who demanded the expulsion stay unnamed. Named but absent, listed in
+the volume section: Katsuragi, Hirata, Kushida, Kōenji, Ryūen, Hoshinomiya
+and Sakagami (named but not on-page). Attribution gaps: the p.149 pair
+arrival lines, the pp.149–150 points/strategy block (seven quoted lines),
+the p.150 Class A answer ("It's said they really don't get along…"), the
+p.150 "Complete opposites?", the p.151 secrecy reply ("Ha ha, don't worry…"),
+and "Hey, Sudou!" (p.152) plus the closing "Bye." (p.153); the flashback
+classroom banter turns are recorded by turn on both pages instead. Locator
+substring hits checked against the text and discarded: aga/against,
+ike/like, iki/like, yano/Ayanokōji, ichino/Ichinose, Etou/detour,
+kaga/Sakagami, Kimura/Yukimura, Miya/Hoshinomiya, Oda/today,
+Yanagi/Sakayanagi, Yuki/Yukimura, andou-sayo/hoshinomiya-p156 NOT FOUND.
+Totsuka/Yahiko and all roster volume cells already covered — no
+content/*.tsv change. Verification failed on the first run only: the
+cross-page Chabashira verdict (pp.154–155) ran through the printed page
+footer, split with `…` at the footer (ch4 pattern) and re-verified —
+283 [says] lines (five micro-quotes skipped by design) and 175 non-says
+spans, all corpus-exact. No defects kept as printed this chapter. Next:
+y1v3 ch6 pp.159–239 ("False Teamwork", 81 pages — read in two halves).

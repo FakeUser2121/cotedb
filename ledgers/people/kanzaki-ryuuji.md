@@ -59,3 +59,13 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [rel:ichinose-honami] (p.117–120) The camp Class D found from his directions is hers; he stays out of the exchange while she runs it.
 
 <!-- walk: y1v3 ch3 → p.130 -->
+
+### y1v3 p.149–151 — Ch.5 §5.1: the ghost camp with Ichinose
+[scene] (p.149) Arrives with Ichinose at the emptied Class C camp to read the same ghost town.
+[rel:ayanokouji-kiyotaka] (p.149–151) Part of the pair that answers his Class A question with the account that Sakayanagi and Katsuragi quarrel and would see no merit in a rift.
+[note] (p.149–150) The answer to his Class A question, the Class C points block and the strategy verdicts run untagged between the three; left with the chapter’s gaps.
+[rel:ichinose-honami] (p.150–151) Confirms her Sakayanagi reading when she poses it as a question, and checks his wristwatch to end the visit.
+[says] (p.151) “Katsuragi is a clever guy. But even though Sakayanagi isn’t around, there probably won’t be anyone under her who’ll put up resistance. They probably wouldn’t do anything to deliberately cause a rift. There wouldn’t be any merit in doing so.”
+[action] (p.151) Checks his wristwatch and suggests to Ichinose that they head back.
+
+<!-- walk: y1v3 ch5 → p.158 -->

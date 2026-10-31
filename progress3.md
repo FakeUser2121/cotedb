@@ -1082,3 +1082,14 @@ failures — the cross-page shirt-bag quote was split before the first
 verify run. Ratchet unchanged (R19 warn 82/82). Determinism hash across
 consecutive builds: `569fe47fc33f4fbb4c8988bb61b308ef`. Quotes: 169 non-says
 spans, 205 [says] lines, all corpus-exact.
+
+### y1v3 Chapter 5 reaches the site (site, 2026-11-01)
+
+Outbreak-of-War chapter (pp.144–158) shipped: the volume page carries its
+fifth chapter section and six existing people pages extended (Ayanokōji,
+Chabashira, Sudō, Horikita, Ichinose, Kanzaki). 171 pages, 39 assets,
+search index rebuilt. One verifier failure fixed before ship — the
+cross-page Chabashira verdict was split at the page footer and both
+verifiers then passed. Ratchet unchanged (R19 warn 82/82). Determinism
+hash across consecutive builds: `bc30cb4a31ca1991466b7947c4abac8a`. Quotes:
+175 non-says spans, 283 [says] lines, all corpus-exact.

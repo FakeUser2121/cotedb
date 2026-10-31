@@ -395,3 +395,24 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:ayanokouji-kiyotaka] (p.74) Refuses the branch run flatly and goes swimming instead.
 
 <!-- walk: y1v3 ch2 → p.99 -->
+
+### y1v3 p.152–153 — Ch.5 §5.2: the invitation that fails
+[scene] (p.152) Closing ceremonies: the moment the bell rings he goes after Horikita with a summer invitation.
+[says] (p.152) “Why? Did you do something?”
+[says] (p.152) “Yeah. You’re not good or bad. You live a plain, boring, steady life.”
+[says] (p.152) “Sarcastic? I didn’t mean to. Did it feel like it?”
+[note] (p.152) The banter before the invitation turns untagged after he is named as the first speaker; the lines are recorded by turn.
+[says] (p.152) “Hey, Horikita. Um, well, since it’s summer vacation…are you free? Maybe we can hang out a little.”
+[rel:horikita-suzune] (p.152) The vacation invite — movies or shopping — meets a flat refusal; she sees no reason for the invitation at all.
+[says] (p.152) “Well, because it’s summer vacation, you know? It’d be too bad if you didn’t have fun. We can watch movies or go shopping.”
+[says] (p.152) “‘Wh-why’? Why are you being so obtuse?”
+[says] (p.153) “Well, it’s just like that, you know? Right? Guys invite girls out when it’s a holiday…”
+[says] (p.153) “Hey! Where are you going?”
+[says] (p.153) “Can you wait just a little? Just a bit?”
+[says] (p.153) “You’re gonna watch me do battle. Be my wingman.”
+[action] (p.153) Grabs Ayanokōji’s wrists in both meaty hands and will not let go until he promises to watch the battle.
+[rel:ayanokouji-kiyotaka] (p.153) Recruits him as wingman for a pitch that loses its audience when Chabashira’s call pulls him away.
+[says] (p.153) “Damn. Guess it was useless after all. Well, guess I’ll go do club stuff.”
+[limit] (p.153) Watches Horikita leave without a glance back — dumbfounded — and falls back on club practice.
+
+<!-- walk: y1v3 ch5 → p.158 -->

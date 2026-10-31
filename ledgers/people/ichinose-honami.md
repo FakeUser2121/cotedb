@@ -307,3 +307,22 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:horikita-suzune] (p.125) Closes the visit with farewells after the full exchange of information.
 
 <!-- walk: y1v3 ch3 → p.130 -->
+
+### y1v3 p.149–151 — Ch.5 §5.1: the ghost camp with the Class B pair
+[scene] (p.149) Arrives behind him at the emptied Class C beach with Kanzaki, following the same curiosity about the silent camp.
+[note] (p.149) The pair’s two arrival lines are untagged voices — either could be speaking — and both are left with the chapter’s gaps.
+[says] (p.149) “Even though it’s the middle of the day, I think it’s dangerous to be running around alone.”
+[says] (p.149) “Oh wow, there’s no one around anymore. It’s just like you said, Kanzaki-kun. Seems like their strategy was to retire.”
+[action] (p.149) Hides in the shade with Kanzaki to observe the state Class C was left in, and sighs in disappointment at the empty space.
+[note] (p.149–150) The points-and-strategy exchange after that runs untagged through the three of them; nothing is assigned from turn order.
+[says] (p.150) “Well, rather than coming together, I think Sakayanagi-san is taking it easy during the test. That’s why everyone thinks Katsuragi-kun is the leader. Right?”
+[says] (p.150) “Yeah. That seems like it’s true. But wouldn’t the students working under Sakayanagi-san be really unhappy? I mean, those two are complete opposite types. I would imagine their opinions would be clearly different, too.”
+[note] (p.150) The list that follows answers an untagged prompt — “Complete opposites?” — left between Kanzaki and Ayanokōji; it is recorded as hers because it continues the claim she had just made.
+[says] (p.150) “Liberal and conservative? Offense and defense? Persecute and protect? Those kinds of things. That’s why they always seem to be clashing with each other. It’s scary to think about Class A going all out in that situation. If they managed to come together, Class A would really demonstrate their true powers.”
+[rel:kanzaki-ryuuji] (p.150) Poses the Sakayanagi reading as a question, takes his confirmation, and works the opposite-types idea through with him.
+[rel:ayanokouji-kiyotaka] (p.149–151) Warns him off midday wandering alone, trades the Class A reading openly, and keeps the Horikita order quiet when he asks.
+[trait] (p.150–151) Hides nothing of her class’s view — the pair explain their read of Class A to him outright while he hides his own.
+[says] (p.151) “Well, let’s both be careful not to get hurt. Please don’t do anything reckless.”
+[note] (p.151) The closing reply to his request for secrecy — “Ha ha, don’t worry, we’ll keep it secret…” — is untagged between the pair; left with the gaps.
+
+<!-- walk: y1v3 ch5 → p.158 -->

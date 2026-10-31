@@ -814,3 +814,12 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (p.126) Her mutters “W-wait.” and “Ugh, what an unintelligible, half-assed answer.” are untagged; the second answers his own admission.
 
 <!-- walk: y1v3 ch3 → p.130 -->
+
+### y1v3 p.152–153 — Ch.5 §5.2: the invitation at her desk
+[scene] (p.152) Closing ceremonies at her desk neighbour’s side; Sudou’s summer invitation arrives the moment the bell rings.
+[says] (p.152) “Why?”
+[says] (p.152) “How stupid. It doesn’t matter at all that it’s summer vacation. Why are you even inviting me out in the first place?”
+[rel:sudou-ken] (p.152–153) Refuses him flatly, then finishes getting ready and leaves the classroom without another word while he is still mid-pitch.
+[note] (p.152–153) The call that opens the exchange and the sign-off at the end are untagged between the three of them; both are left with the chapter’s gaps.
+
+<!-- walk: y1v3 ch5 → p.158 -->

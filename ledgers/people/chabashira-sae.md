@@ -341,3 +341,42 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rule] (p.97–98) Reads the class the cost of Kouenji's exit without inflection: "Kouenji complained about being in poor physical condition and returned to the ship. Of course, that means that you’ve had thirty points deducted. Those are the rules, so there’s nothing to be done."
 
 <!-- walk: y1v3 ch2 → p.99 -->
+
+### y1v3 p.152–157 — Ch.5 §5.2: the faculty-room deal
+[scene] (p.152) Closing ceremonies: she catches him the moment homeroom ends — faculty room, before he leaves — and gives nothing else away until the door shuts.
+[says] (p.152) “Ayanokouji. I have to talk to you before you leave. Come to the faculty room.”
+[action] (p.153) Waits in the faculty-room doorway and answers in short sentences that raise his “incoming depression” meter.
+[says] (p.153) “Come in.”
+[says] (p.153) “We’ll talk inside.”
+[says] (p.153) “You might expect bad things when you’re asked to come to the faculty room, but contrary to your expectations, it’s a fine place. There aren’t eyes all around in here. Many things are better said with some personal privacy.”
+[role:teacher] (p.154) Uses a faculty room whose security camera is missing — privacy is the point of the venue.
+[says] (p.154) “That’s funny. I thought you didn’t have any friends?”
+[says] (p.154) “I’ve called you here today because I wanted to tell you my personal story.”
+[says] (p.154) “It’s something I haven’t talked to anyone about since I had become a homeroom teacher. It’s silly, but please listen.”
+[says] (p.154) “Don’t tell this story to anyone else. If you can do that, please return to your seat.”
+[says] (p.154) “How do I appear to you as Class D’s homeroom teacher?”
+[says] (p.155) “Am I wrong?”
+[says] (p.155) “No, it’s as you say. I won’t deny it. However, the truth is different.”
+[status] (p.155) Owns the cold-teacher verdict outright, then opens with the reason behind it.
+[says] (p.155) “I was once a student at this school. I was in Class D, just like you.”
+[fact] (p.155) She sat where he sits — a student of this school, in Class D, once.
+[says] (p.155) “Huh… Well, in my time, the class difference wasn’t as extreme. You could say that we were in a four-way battle, not a three-way one. Up until we approached graduation in the third semester of our third year, the difference between A and D wasn’t even 100 points. It was a close battle, where even one trivial mistake could knock you off balance.”
+[rule] (p.155) Her era at the school: four classes fighting as four, A and D under 100 points apart until the third semester of the third year — set against the three-way school he knows.
+[says] (p.155) “Yes. It happened rather unexpectedly. Class C went to hell because of my mistake. In the end, my goal of reaching Class A and my dreams were shattered.”
+[limit] (p.155) One trivial mistake sent Class C down and ended her Class A dream — the regret the narration reads as still live.
+[says] (p.155) “I feel that your presence will be vital to reach Class A.”
+[says] (p.155) “A few days ago, a certain man contacted the school directly. He said ‘expel Ayanokouji Kiyotaka.’”
+[says] (p.156) “Of course. We can’t just expel someone on a third party’s whim. As long as you are a student at this school, you are protected by the rules. However…if you cause any problems, that’s a different story. Smoking, bullying, stealing, cheating… If you cause any scandal, expulsion is unavoidable.”
+[says] (p.156) “It has nothing to do with your intentions. If I determine that something seems like an issue, it will become reality.”
+[rule] (p.156) The rule she wields: protection stands until she decides something is a problem — then the scandal, not the intent, decides the expulsion.
+[says] (p.156) “Here’s the deal, Ayanokouji. You are going to aim for Class A for me. I will follow up as extensively as I can in order to protect you. Don’t you think that sounds like a good offer?”
+[tactic] (p.156) Names it a deal and dresses the pressure as protection — the narration calls it blackmailing a student outright.
+[says] (p.156) “That’s too bad, Ayanokouji. You will be expelled, and once again, Class D won’t reach Class A.”
+[says] (p.156) “Let me ask you once more. Will you aim for Class A? Or be expelled? You choose.”
+[rel:ayanokouji-kiyotaka] (p.156) Takes the collar grab over the desk, then laughs in self-deprecation — the confidence breaks and the old dream shows.
+[says] (p.156) “I surprised myself. I realize now that I still haven’t given up on reaching Class A.”
+[says] (p.157) “I’d thought you would lead Class D voluntarily, but we don’t have any time to waste. You have to decide here and now. Will you help me or not?”
+[says] (p.157) “Relax. My life is already full of regrets.”
+[trait] (p.157) By the end the cold indifference is gone — misty-eyed and forceful, the act put away.
+
+<!-- walk: y1v3 ch5 → p.158 -->

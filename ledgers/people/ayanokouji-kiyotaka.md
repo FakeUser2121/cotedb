@@ -1302,3 +1302,72 @@ walk: y1v1 → DONE
 [note] (p.142) The camp’s closing exchanges — the full bag, Katsuragi being nearby — are untagged and left as attribution gaps.
 
 <!-- walk: y1v3 ch4 → p.143 -->
+
+### y1v3 p.144–148 — Ch.5: the solo sweep toward Class A
+[scene] (p.144) Fourth day: laughter has replaced complaint — corn, fish and fruit have the class ahead — when he borrows a ballpoint pen, takes his folded map and walks out of base camp.
+[number] (p.144) About 100 points spent in total, Kōenji's retirement included; at this pace the class ends the test with points left over, and even Yukimura has no complaints.
+[inference] (p.144) Breaks the test down 80:20 — eighty percent defensive cooperation, twenty percent offensive scouting — with the smaller share deciding outcomes the more.
+[action] (p.144) Reads the balance as meaning Class D now has to attack the other classes, and sets out for Class A's area around the cave.
+[place:uninhabited-island] (p.145) The cliff below the cave: a ladder in a blind spot drops to a hut spot with fishing tackle.
+[feat] (p.145) Recalls the facilities seen from the ship, finds the ladder anyone would miss at first glance, and marks the hut's approximate position on his map.
+[rule] (p.145) The hut spot means fish without borrowing equipment; the device shows Class A occupying with four hours remaining, and the dusty tools show the gear itself has not been used.
+[feat] (p.146) Reads the unoccupied tower as deliberate — holding a visible facility risks observation, and Katsuragi is too cautious for bait this sweet and this close.
+[says] (p.146) “So, you won’t occupy this spot out of more than a sense of prudence?”
+[note] (p.146) The line is untagged; it voices his reading of the empty tower a moment before the ambush and is recorded as his.
+[action] (p.146) Two Class A boys spring the trap — one checks the terminal for a fresh claim, one puts a branch to his throat — and the search takes his pen and folded map.
+[says] (p.146) “I’m Ayanokouji, from Class D.”
+[says] (p.147) “Give it back.”
+[says] (p.147) “I can’t say.”
+[says] (p.147) “I can’t say. If I did…I may not be able to return to my class.”
+[feat] (p.147) Holds the line through a rapid-fire interrogation — three seconds, four seconds of silence — without naming anyone.
+[rule] (p.147) The offer on the table — “There’s one more thing I talk to you about. If you tell us the identity of your leader, we’re prepared to offer a generous reward. 100,000 or 200,000 points.” — first-come, first-serve, signed by memorandum and paid after the test.
+[says] (p.147) “You’re asking for me to sell out my class for money?”
+[says] (p.147) “Sorry, but I don’t believe it. How would you pay someone? We don’t … have any cell phones here, right?”
+[says] (p.148) “A memorandum, huh? Let me ask you something for my own reference… Can you tell me how many points I’d get if I did tell you something?”
+[says] (p.148) “Could I have someone trustworthy settle things? For example, someone like Katsuragi. Or perhaps Sa—”
+[tactic] (p.148) Drops Katsuragi's name as bait of his own — cut off at “Sa—”, the sentence buys the reaction he was after.
+[says] (p.148) “I’ve heard rumors that Katsuragi is Class A’s representative.”
+[inference] (p.148) Their correction — “Don’t make me laugh. Sakayanagi is the representative of Class A. Not Katsuragi. You can go now.” — marks the pair as Katsuragi's enemies and puts who really leads Class A in question.
+
+### y1v3 p.149–151 — Ch.5 §5.1: the ghost camp and the Class A question
+[scene] (p.149) At the emptied Class C beach — yesterday's carnival now a ghost town — when Ichinose and Kanzaki arrive behind him.
+[says] (p.149) “I’m in charge of finding food. I was searching around the forest, and ended up here.”
+[note] (p.149–151) His replies through the visit are untagged POV lines; the pair's strategy exchange runs untagged too, and only their addressee- or narration-anchored lines are recorded on their pages — the rest are listed with the chapter's gaps.
+[rel:ichinose-honami] (p.149–151) Hides with the pair in the shade, takes her midday warning, and thanks her for the parting caution.
+[says] (p.150) “I just happened to hear a little bit about this, but do Katsuragi and Sakayanagi in Class A have opposing groups?”
+[says] (p.150) “Oh, nothing. Horikita just gave me an order. She said if I had time, to go and find out something. She wondered if this would be our chance to get back at Class A. Well, even though it’s said they quarrel intensely, I imagine they’ll come together during the test.”
+[rel:kanzaki-ryuuji] (p.150) Puts the Class A question to him and Ichinose; what comes back is the pair’s shared account, untagged between them.
+[tactic] (p.150) Puts the questions in Horikita's mouth so that his own interest in Class A's split is not what the pair remember.
+[says] (p.151) “I see. Well, I’ll tell Horikita later. Ah jeez, she told me to investigate on my own. She gets flustered working with others. Well…please pretend that you didn’t hear that last part. It’s going to be bothersome if she gets angry with me.”
+[says] (p.151) “It’s about time for me to look for food. They’ll be angry if I return empty-handed.”
+
+### y1v3 p.152–157 — Ch.5 §5.2: the faculty-room deal
+[scene] (p.152) Flashback to the first semester's closing ceremonies: Chabashira calls him to the faculty room the moment homeroom ends, before summer vacation can start.
+[says] (p.152) “I don’t remember doing anything.”
+[says] (p.152) “Why did you sound all sarcastic?”
+[note] (p.152) The opening banter turns on Sudou after he is named as the first speaker; the lines are recorded by turn.
+[says] (p.153) “Where do you think? I got called over by the teacher, so I don’t really have a choice.”
+[says] (p.153) “Don’t say such nonsense—”
+[rel:sudou-ken] (p.153) Gets his wrists grabbed in both meaty hands for a wingman request there is no time to accept.
+[action] (p.153) Reaches the faculty room to find Chabashira waiting in the doorway.
+[says] (p.153) “I don’t understand why you called me over.”
+[says] (p.154) “So what did you want to talk to me about? I’m busy planning my summer vacation right now.”
+[says] (p.154) “No, no, I was exaggerating when I said that. I have at least a few friends.”
+[says] (p.154) “Before that, should we have tea? You must be thirsty,”
+[action] (p.154) Checks the kitchenette is empty first — the talk is to happen where there are no eyes.
+[says] (p.154) “Another abstract question, I see. Is it okay if I say I think you’re beautiful?”
+[says] (p.154) “Umm… Well, if you don’t mind being compared to other teachers, I … think you don’t care at all about Class D’s future, and that you’re a cold … teacher with no interest in her students. That’s my answer.”
+[trait] (p.155) Gives her the unsoftened verdict against Hoshinomiya and Sakagami, and reads her bloodlust under the joke without taking it back.
+[says] (p.155) “I must say that’s surprising. I would’ve thought you were more capable, Chabashira-sensei.”
+[says] (p.155) “I’m guessing someone made a trivial mistake, right?”
+[says] (p.155) “I’m not catching your drift. What does this have to do with me?”
+[says] (p.155) “What am I supposed to say to that? You’re joking, right?”
+[says] (p.156) “He said to expel me? Well, that’s nonsense. I don’t know who it was, but you ignored his request and won’t have me expelled. Right?”
+[says] (p.156) “I’m sorry, but I don’t intend to do anything.”
+[says] (p.156) “Are you threatening me?”
+[says] (p.156) “Can I go now? I won’t listen to any more of this.”
+[rel:chabashira-sae] (p.156) Reaches over the desk and grabs her collar to quote her own lesson back at her — the discomfort she made Horikita feel, shoes in someone's home.
+[says] (p.157) “You’ll probably regret trying to use me.”
+[note] (p.157) His answer is never spoken on the page; the warning reads as acceptance, but the scene closes on her line instead.
+
+<!-- walk: y1v3 ch5 → p.158 -->
