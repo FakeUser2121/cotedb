@@ -816,3 +816,13 @@ entities: none (only the myth figures inside her retelling). Verifiers pass;
 the wording gate caught one row that said "in the ledgers" — rewritten to
 "he stays unnamed in the records" before the commit. No defects kept as
 printed. Next: y1v3 ch2 pp.13–99 (87 pp → two sub-reads).
+
+**2026-10-29 — Ichinose's student-council rows removed (owner correction).**
+p.141 shows only the light-pink-haired girl delivering a message ("The student
+council wishes to discuss something with you"); the ledger had promoted that
+into `[role:student-council]`, `[status]` and `[trait]` rows asserting
+membership "under President Horikita Manabu" — none of it on the page. Per the
+owner: removed the three rows, reworded the scene heading and the two
+supporting rows (Hoshinomiya's ledger row lost "on student council business"),
+left the verbatim quote intact, and added a `[note]` recording that the pages
+never state a role. Her role gets re-walked when later volumes record it.

@@ -23,7 +23,7 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 [says] (p.141) “I was only keeping him company while he waited for you, Sae-chan.”
 [says] (p.141) “Come on, don’t be so cold! It won’t be the end of the world if I listen, right? Besides Sae-chan, you’re definitely not the type to give one-on-one guidance. Pulling a new student like Ayanokouji-kun into the guidance room out of nowhere… Are you after something, I wonder?”
 [says] (p.141) “So, Sae-chan, are you looking to be dominated by a younger man?… Hee, you’re certainly right. It wouldn’t be possible for you, Sae-chan.”
-[action] (p.141–142) Whacked on the butt by Chabashira's clipboard; scurries off with Ichinose Honami on student council business.
+[action] (p.141–142) Whacked on the butt by Chabashira's clipboard; scurries off with Ichinose Honami.
 [back] (p.140) High school classmates & lifelong friends with Chabashira Sae (attracted to/graduates of ANHS's competitive system).
 [trait] (p.139–141) Shamelessly flirtatious, bubbly, emotionally perceptive; uses playful intimacy to prod into other classes' affairs.
 [rel:chabashira-sae] (p.140–141) High school best friends; intimate rivalrous banter ("Sae-chan and Chie-chan").

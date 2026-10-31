@@ -7,15 +7,13 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y1v1 → start -->
 
-### y1v1 p.141–142 — Debut: student council liaison
-[role:student-council] (p.141) Member and liaison for the Student Council under President Horikita Manabu.
+### y1v1 p.141–142 — Debut: the message that pulls Hoshinomiya away
 [scene] Hallway outside faculty staff room.
 [action] (p.141–142) Makes her series debut. Described as a strikingly beautiful girl with light-pink hair. Approaches Hoshinomiya Chie with calm, poised maturity.
 [says] (p.141) “Hoshinomiya-sensei, do you have a moment? The student council wishes to discuss something with you.”
-[action] (p.141–142) Glances briefly at Ayanokōji in the hallway, then escorts Hoshinomiya back into the faculty office to attend to Student Council business.
-[status] (p.141) Member / liaison for the Student Council under President Horikita Manabu.
-[trait] (p.141) Composed, responsible, trusted with student council affairs from her first month.
-[rel:hoshinomiya-chie] (p.141–142) Homeroom teacher and student council contact.
+[action] (p.141–142) Glances briefly at Ayanokōji, then leaves with Hoshinomiya toward the faculty office.
+[note] (p.141–142) The pages never state a student-council role for her, and never name Manabu here; only the message she delivers. Re-walk if a later volume records her role.
+[rel:hoshinomiya-chie] (p.141–142) Homeroom teacher; approached with a message claimed for the student council.
 
 <!-- walk: y1v1 ch7 → p.151 -->
 
