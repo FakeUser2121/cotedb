@@ -15,3 +15,20 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [status] (p.61–62) Identified by the watchers as Class A's spot-leader holding the key card — a mistake Ayanokōji files as "a fatal mistake" for the seventh-day guess rule.
 
 <!-- walk: y1v3 ch2 → p.99 -->
+
+### y1v3 p.127–129 — Ch.3 §3.4: the parley at the cave
+[scene] (p.127) Named first as absent from the Class A cave, then arriving at the entrance midway through the standoff with Horikita.
+[note] (p.127) The page introduces him as the sharp-witted one of the pair who found the cave on the first day.
+[says] (p.128) “What are you doing? I don’t recall giving you permission to invite guests.”
+[says] (p.128) “Well then, it should be fine for you to look inside. However, prepare yourself. The moment you touch anything, I will notify the school and report your actions as obstruction toward another class. I can’t guarantee what will happen to Class D as a result.”
+[tactic] (p.128) Threatens a school report over touched vinyl — read as probably bluffing, with some genuine danger behind it.
+[says] (p.128) “You’re right about that. I cannot argue the point. However, it’s something of an unspoken rule. You in Class D have a spot by the river. Class B has a well. You live in and surround the occupied space, so it’s halfway monopolized. Have you taken any forceful measures in dealing with trespassers to your area?”
+[feat] (p.128) Concedes the formal point and answers it with practice: every class already defends its own area.
+[says] (p.129) “One class occupies one spot. Then, they continue to protect that spot so they may obtain points until the end of the test. If you violate this unspoken rule, it creates chaos. Naturally, Class A will trespass upon Class D’s base in retaliation. We should avoid trouble.”
+[rule] (p.129) States the island's working rule: one spot per class, held for the whole test, or retaliation follows.
+[says] (p.129) “We are quite capable. We also expect things from you, Class D. By which I mean, your futile struggling.”
+[rel:totsuka-yahiko] (p.129) Pulls his partner off the provocation: answer bait like that and the other side backs down.
+[rel:horikita-suzune] (p.128–129) Ends her advance with words; the narration has her stopped in her tracks by his calm.
+[status] (p.129) With him on the entrance, Class D's only option is retreat — he has stripped every other one away.
+
+<!-- walk: y1v3 ch3 → p.130 -->

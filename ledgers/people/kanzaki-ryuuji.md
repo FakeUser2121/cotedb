@@ -38,3 +38,24 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [rel:ichinose-honami] (p.234) The Class B operation is theirs together: she applies the pressure in the corridor, he handles the hardware.
 
 <!-- walk: y1v2 ch7 → p.257 -->
+
+## y1v3
+
+<!-- walk: y1v3 → start -->
+
+### y1v3 p.103 — Ch.3: the river meeting
+[scene] (p.103) Appears at the river with two Class B boys in the early morning, surprised to meet Class D up and out.
+[says] (p.103) “First day's over, so I wondered how you were doing. I thought I'd check on you. Your location's great.”
+[says] (p.103) “Did I surprise you? I'm sorry, I'm not here to cause trouble.”
+[rel:hirata-yousuke] (p.103) Apologizes to him directly; Hirata greets him by name.
+[rel:ayanokouji-kiyotaka] (p.103) Gives Ayanokōji the Class B campsite location without hesitating.
+[says] (p.103) “There are large broken trees along the path from here to the beach. If you enter the forest to the southwest and walk a bit, you can find our campsite. You shouldn't get lost if you enter by those large trees. If you need something, go ahead and tell her you can come by.”
+[note] (p.103) The invitation names no one — the her is read across as Ichinose from the false-accusation case, an inference on Ayanokōji's side.
+
+### y1v3 p.117, p.120 — Ch.3 §3.3: at his own camp while Class D visits
+[scene] (p.117) Sitting a little way off from Ichinose when Class D walks into the Class B camp.
+[note] (p.117) He says nothing during the visit; the pages place him in the background of the scene.
+[note] (p.120) Ayanokōji credits him with having deduced Class D's spending from what he saw at the river that morning.
+[rel:ichinose-honami] (p.117–120) The camp Class D found from his directions is hers; he stays out of the exchange while she runs it.
+
+<!-- walk: y1v3 ch3 → p.130 -->

@@ -744,3 +744,73 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:kushida-kikyou] (p.92) Raises her hand for river water last, with Ayanokōji, after the whole class has already committed.
 
 <!-- walk: y1v3 ch2 → p.99 -->
+
+### y1v3 p.106–107 — Ch.3 §3.1: called out of the tent
+[scene] (p.106) Summoned from the girls' tent after the Class C provocation; the cloth moves, and she steps out.
+[says] (p.106) “The cheap provocation coming from Class C? Yes, I heard.”
+[says] (p.106) “I don't want to move too much. Since I'm the leader, if I stand out too much, we'll be in a bad spot.”
+[limit] (p.107) Concedes she cannot stay hidden — the president's younger sister, seen watching Ryūen and Ichinose: “You're right. I suppose I can't say what's correct. Fine. I'm rather concerned about the state of the other classes. Let's go.”
+[rel:ayanokouji-kiyotaka] (p.107) Takes his read that hiding will not change anything and sets out with him for the Class C beach.
+
+### y1v3 p.108–114 — Ch.3 §3.2: the confrontation on the beach
+[scene] (p.108) The Class C beach spectacle; she cannot believe what she is looking at.
+[says] (p.108) “No way… All this stuff… Is it even possible?”
+[rel:ryuuen-kakeru] (p.109–114) Walks up to his chair with Ayanokōji and holds the confrontation to the end.
+[says] (p.111) “If the person on top is incompetent, those below him will suffer. This is pitiful,”
+[says] (p.111) “We're trying to warn you. You're an idiot.”
+[note] (p.111) The translation leaves the line untagged; his reply is thrown back at her.
+[rel:ibuki-mio] (p.112–113) Asks who hit Ibuki roundabout — “Her face is swollen. Who did that to her?” — and gets the admission of a light punishment.
+[says] (p.112) “There is one more piece of business. You know Ibuki, of course?”
+[says] (p.113) “You…used up all your points on the first day, didn't you?”
+[says:ryuuen-kakeru] (p.114) “See you later, Suzune.”
+[says] (p.114) “I don't know where exactly you found that out, but do not call me by my first name so casually.”
+[note] (p.114) Also untagged; she is the one addressed by the first-name call.
+
+### y1v3 p.116–125 — Ch.3 §3.3: the walk back, and Class B’s camp
+[scene] (p.116) Walking inland from the Class C shore, she is still arguing over Ryūen's spending when the visit to Class B's camp begins.
+[says] (p.116) “We ought to think of a way to get points back without giving up. Ryuuen is most definitely wrong. I cannot possibly understand him,”
+[trait] (p.116) Rejects the zero-points route on principle: points are to be won back, not written off.
+[rel:ichinose-honami] (p.117–118) Arrives as a visitor with Ayanokōji and declines the hammock offer, so Ichinose sits instead.
+[says] (p.120) “I was wondering if it might behoove us to tentatively enter into a cooperative relationship, like last time,”
+[action] (p.121) Listens through the whole tour — well, water shower, toilet, vinyl, heat — without interrupting.
+[action] (p.122) Afterward lays out Class D's situation completely, holding nothing back in the interest of fairness.
+[says] (p.122) “Yeah. There’s a lot to make us uneasy right now, but we have to try and make it through.”
+[says] (p.122) “I was thinking that we should talk about that, too. If we didn’t have to be on guard with even one class, we’d really appreciate it. As long as you don’t mind, Ichinose-san, I’d like you to accept the proposal.”
+[note] (p.122) The cooperation exchange is untagged; she is the one addressing Ichinose by name, and Ichinose's proposal and reply are recorded under her.
+[says] (p.122) “This class has fallen in line far better than I could have imagined. I suppose that’s because you’re the one taking command, right?”
+[trait] (p.122) Judges Class B by its order: every student carrying out a role, and doing the duty happily, with nobody trying to skip out.
+[says] (p.123) “No. We do have a boy named Hirata, though. Everyone in class clusters around him.”
+[rel:hirata-yousuke] (p.123) Names him as the one Class D gathers around, then changes the topic.
+[says] (p.123) “Ichinose-san. I’m terribly sorry to keep asking you questions, but we want to confirm Class A’s status. Can you tell us anything that will help us capture their base camp? Even something you know about the area might really help.”
+[says] (p.123) “Secretive? What kind of measures has Class A taken?”
+[says] (p.124) “You can’t use any sly tricks in this test. Ryuuen has most definitely spent almost all of their points. They might be having fun right now, but they’re going to regret it later.”
+[note] (p.124) The line is untagged; the narration that follows anchors the withheld withdrawal plan on her.
+[says] (p.125) “I think it’s about time to get going, Ayanokouji-kun. We’ll be a bother to Class B if we linger too long.”
+[says] (p.125) “In general, I think we’re all on the same page, but they’re further ahead. I can’t deny it,”
+[status] (p.125) Says it as a declaration of defeat: the distance between D and B is not only a matter of points.
+[note] (p.125) The two untagged verdict lines that follow are left as a chapter attribution gap.
+
+### y1v3 p.126–129 — Ch.3 §3.4: talking past Class A at the cave
+[scene] (p.126) She and Ayanokōji walk up to the Class A cave together after watching from a distance fails to show anything.
+[says] (p.126) “What are you planning? We gain nothing by carelessly exposing ourselves.”
+[note] (p.126) The approach dialogue is untagged; the question-and-answer chain, and the question tagged to her at the end of it, put these on her.
+[says] (p.127) “We came to snoop. You have a problem?”
+[says] (p.127) “I mean, I would’ve thought that since you’re in Class A you’d be clever, but…”
+[trait] (p.127) Switches into a deliberate provocation — the narration calls it a daring switch flipped in her brain.
+[says] (p.127) “Well, rather than clever, I’d say you’re underhanded. What cowardly methods.”
+[says] (p.127) “I’m Horikita, from Class D.”
+[says] (p.127) “Stupid, huh? In that case, there’s no harm in us seeing what’s inside, right? Or does that make you feel uncomfortable?”
+[says] (p.127) “So it’s not a problem if we look? You’re in the way.”
+[says] (p.127) “We’re just going to look inside. That itself isn’t a violation of the rules, right?”
+[says] (p.127) “Oh? So you occupy this place. I didn’t know that. Is there a device inside?”
+[rel:totsuka-yahiko] (p.127–129) Provokes him on purpose and talks past every block he puts up.
+[says] (p.128) “Well, there definitely aren’t any rules that say we can’t go into the cave. It’s certainly true that we cannot use the cave while it’s being occupied, but that’s not the same as the right to monopolize it or anything. We should have the right to look inside, or at least to verify if there’s equipment, right? If we couldn’t do that, then people could just forcibly monopolize every spot. That’s not what this test is about.”
+[feat] (p.128) The monopoly argument: occupation bars use, not looking, and a spot that nobody may inspect could be seized by anyone.
+[says] (p.128) “You’re forcefully monopolizing control of the spot. The rules don’t protect such actions.”
+[note] (p.128) Both p.128 lines are untagged; the second is answered by Katsuragi conceding the point.
+[rel:katsuragi-kouhei] (p.128–129) Matched and stopped by his unspoken-rule argument.
+[says] (p.129) “Well, fine. I look forward to seeing the results, and Class A’s abilities.”
+[limit] (p.129) Leaves with the wind knocked out of her; without Katsuragi's arrival she would have gone through the vinyl.
+[note] (p.126) Her mutters “W-wait.” and “Ugh, what an unintelligible, half-assed answer.” are untagged; the second answers his own admission.
+
+<!-- walk: y1v3 ch3 → p.130 -->

@@ -1150,3 +1150,86 @@ walk: y1v1 → DONE
 [thinks] (p.98) On Kouenji's retirement: "Maybe he didn't care about reaching Class A. If it made his life easier, losing thirty points didn't matter at all."
 
 <!-- walk: y1v3 ch2 → p.99 -->
+
+### y1v3 p.100–104 — Ch.3: the camera in the luggage, the morning watch, Kanzaki's visit
+[scene] (p.100) Pre-dawn heat in the Class D tent; Ayanokōji slips out while the class sleeps and goes through the piled luggage.
+[place:uninhabited-island] (p.100) The island morning: the mesh tent keeps the night breeze, the luggage is stacked outside to save space, and dawn comes on hot.
+[action] (p.100) Opens Ibuki's singularly colored bag and finds a digital camera with a rental sticker — “This item wasn't appropriate for a deserted island.”
+[feat] (p.100) Checks the camera's power source — “It had no data, and no sign that it'd been used.” — returns it to the bag, and reasons out why she would carry it.
+[rel:ibuki-mio] (p.100) The camera explains the dull sound he heard when she dropped the bag against a tree the day before.
+[rel:hirata-yousuke] (p.100–101) Shares the early watch with Hirata while the rest of the class sleeps on.
+[says] (p.102) “I guess if I had to pick, school life's my priority. Besides, I don't think it's possible to reach Class A.”
+[action] (p.102) After everyone is asleep, cuts one of the manual's five blank pages, replicates a simple island map, folds it into a small square and pockets it.
+[rel:hirata-yousuke] (p.102) Reads the heart-bedazzled gifts in Hirata's pack as Karuizawa's.
+[rel:kanzaki-ryuuji] (p.103) Meets Kanzaki at the river with Hirata and takes in the Class B campsite directions.
+[back] (p.103) Weighs that Kanzaki, Ichinose and Horikita had worked together in the false accusation case — probably why he thinks they are still on good terms.
+[tactic] (p.103) Reads the visit as reconnaissance — “You could estimate the number of points spent just by the number of toilets, showers, and tents.”
+[tactic] (p.104) The second spot update was postponed so ownership expires right after eight o'clock, letting the roll-call crowds camouflage the renewal.
+
+### y1v3 p.105–107 — Ch.3 §3.1: Class C comes to provoke
+[scene] (p.105) Morning roll call over, exploration begins; two Class C boys stride into the campsite eating chips.
+[place:uninhabited-island] (p.105) The campsite after roll call, the river base holding, Class D setting out to explore.
+[action] (p.105) Recognizes Komiya and Kondou and recalls their earlier fight with Sudō as acting on Ryūen's orders rather than just looking for a fight.
+[rel:ike-kanji] (p.105–106) Stands with Ike when the chips are tossed at his feet; neither takes the bait until Hirata's group returns.
+[rel:ibuki-mio] (p.106) Files Ibuki's worst-case remark and decides telling Horikita “seemed like a good idea.”
+[rel:horikita-suzune] (p.106–107) Pulls the leader out of the tent — “You've got eyes on Ryuuen, and you've even been observing Ichinose. People will remember that you're the student council president's younger sister. No matter what you do, you'll be a target.”
+
+### y1v3 p.108–115 — Ch.3 §3.2: Ryūen's beach, spent to zero
+[scene] (p.108) The Class C beach: temporary toilets and showers, a tarp, a barbecue, chairs, a parasol, jet skis on the shoreline.
+[place:uninhabited-island] (p.108) The Class C shore: cooking smoke, laughter, a hundred and fifty points or more already burned.
+[says] (p.108) “It's up to you, Horikita.”
+[note] (p.108) The line names Horikita as the one addressed; the translation never tags the speaker.
+[action] (p.111–112) Stands through Ryūen pouring out his water and throwing the warm bottle back at Ishizaki without intervening.
+[rel:horikita-suzune] (p.114) Leaves with her after the first-name call and the crotch-grab provocation, stopping once on the way back to look over the Class C camp.
+[feat] (p.113) Works out the zero-points strategy: nothing left to penalize, and even guesses of every rival leader's identity could gain only “a maximum of 150 points.”
+[says] (p.115) “That's simple. He'd just do what Kouenji did.”
+[back:kouenji-rokusuke] (p.115) The plan at zero points is retirement — “His physical condition was poor and he was mentally unstable. In that case, it's better to just retire.”
+[note] (p.115) The walk-back exchange never tags its speakers until Horikita's final line; these lines are recorded here as the responses to her questions.
+
+### y1v3 p.116 — Ch.3: walking back from the Class C shore
+[scene] (p.116) On the path inland past the beach, he turns to scan the Class C shore once more while the walk back is still arguing over what Ryūen's spending means.
+[says] (p.116) “The test is literally about freedom. Ryuuen’s way of thinking is one way to approach it. It seems like Ibuki and another student rebelled, and because of that Class C will lose twenty points a day. Since he knew he’d be losing that many points every day no matter what, he came up with a drastic strategy.”
+[thinks] (p.116) “Since I didn’t know when Ryuuen had decided to spend all of Class C’s points, I could only guess.”
+[says:horikita-suzune] (p.116) “We ought to think of a way to get points back without giving up. Ryuuen is most definitely wrong. I cannot possibly understand him,”
+[says] (p.116) “A zero-point strategy, huh? I see. That’s really interesting.”
+[note] (p.116) The walk-back exchange is never tagged; her line is confirmed by the narration that follows it, and both of his stand as the remarks she answers.
+[tactic] (p.116) Reads winning as more than saving the class's own points: dissent inside the group would have to be silenced before a zero-points route could work.
+
+### y1v3 p.117–125 — Ch.3 §3.3: Class B’s camp at the well
+[scene] (p.117) Deep forest past the broken landmark tree: Class B's base is set around a well with hammocks strung between the trees, Ichinose tying a cord, Kanzaki sitting a little way off.
+[place:uninhabited-island] (p.117) Class B's site — trees around a well, hammocks instead of tents, and a path of student tracks already beaten through the forest.
+[feat] (p.117) Reads the broken tree as a landmark the school left on purpose, which is why Kanzaki's directions needed no detail.
+[says] (p.117) “Well, I suppose it’s just what we’d expect from Class B…”
+[says] (p.117) “Your class seems to be functioning well, despite obstacles.”
+[says] (p.117) “I’m sorry if we’re getting in the way.”
+[note] (p.117) The three lines are untagged; Ichinose takes up and answers each of them.
+[rel:ichinose-honami] (p.117–118) She reads the visit as a request and welcomes them without any hint of protest.
+[says] (p.120) “What’s a water shower? I’m a little curious about that.”
+[tactic] (p.120) Judges the water shower probably less effective than the temporary shower because it costs five points less, and passes on it.
+[says] (p.120) “Did you already know about them? Water showers, I mean,”
+[number] (p.120) Class B's purchases itemize to exactly seventy points once the food is counted.
+[back:kouenji-rokusuke] (p.120) Sets that total against Class D with Kōenji's retirement already deducted.
+[rel:kushida-kikyou] (p.120) Weighs the foraging against the fruit Kushida's group carried back for Class D.
+[feat] (p.120–122) Watches the Class B method in one pass: the well tested before anyone drinks, hot water on a gas can, unlimited vinyl sheets granted with the temporary toilet, and water sprinkled to pull the heat out of the soil.
+[rel:horikita-suzune] (p.121–123) He stays silent while she lays out Class D's side and runs the exchange.
+[note] (p.121) The visitors' questions about hard ground and the heat are never tagged and are left as a chapter attribution gap.
+[rel:kaneda-satoru] (p.124) Names him as a Class C student before Ichinose can finish answering.
+[says] (p.124) “A Class C student?”
+[status] (p.124) Files him as the Class C boy who resisted Ryūen and was taken in by Class B.
+[says:horikita-suzune] (p.125) “I think it’s about time to get going, Ayanokouji-kun. We’ll be a bother to Class B if we linger too long.”
+[rel:ichinose-honami] (p.125) Says farewell with Horikita and leaves the camp.
+[back:kouenji-rokusuke] (p.125) Sets Class D against Class B on the way out: Class D has selfish students like Kōenji who run off alone, and nobody with the power to step in.
+[note] (p.125) The two untagged verdict lines that follow the departure are left as a chapter attribution gap.
+
+### y1v3 p.126–129 — Ch.3 §3.4: the Class A cave
+[scene] (p.126) The cave mouth cut deep into the mountainside like a demon's mouth, with two temporary toilets and a shower room outside; he steps over Horikita and walks up to it.
+[place:uninhabited-island] (p.126) The Class A site: a cave in the mountainside, its entrance hidden behind vinyl sheets joined into one giant tarp.
+[says] (p.126) “Let’s go. I mean, it’s Class A, so of course we’re going to be scared. There’s nothing we can do about that.”
+[says] (p.126) “And what do we gain by trying to peek from our hiding spot? We can barely see, and there’s no one around. There’s not much we can see unless we enter the cave.”
+[says] (p.126) “I haven’t thought of anything. Come on, don’t worry.”
+[feat] (p.126) Goes up openly rather than scouting from cover so that he can see inside — and finds the tarp already blocking the view.
+[note] (p.126) The opening line on the approach is untagged; Horikita's two questions are recorded under her.
+[rel:totsuka-yahiko] (p.127) Recognizes Yahiko as one of the two who found the cave on the first day; Katsuragi is away.
+[note] (p.129) The closing judgment — that Class A has to be left alone and cannot be investigated — is his, left untagged and recorded here without a quotation.
+
+<!-- walk: y1v3 ch3 → p.130 -->

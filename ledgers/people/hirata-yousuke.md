@@ -224,3 +224,17 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:kushida-kikyou] (p.96) Distributes the evening meal while Kushida feeds Ibuki from her own group's portion.
 
 <!-- walk: y1v3 ch2 → p.99 -->
+
+### y1v3 p.100–105 — Ch.3: the morning watch and the point arithmetic
+[scene] (p.100–101) Awake before the class in the crowded tent; greets Ayanokōji slipping out, his back aching without a mattress.
+[says] (p.101) “If you include Kouenji-kun's penalty, we spent almost 100 points yesterday. I told everyone that in the worst possible outcome we'd be left with 120 points, but now I'm not even sure about that. I guess the anxiety woke me.”
+[says] (p.101) “I'm only doing this because I like it. If my hard work makes everyone in class happy, then I'm satisfied. But it's surprisingly difficult.”
+[limit] (p.101–102) Cannot answer the Class A question — “That's hard to answer. Aiming for the upper classes means forcing everyone… I'm sorry, I need to think on it.”
+[rel:ayanokouji-kiyotaka] (p.101) Adjusts his position so Ayanokōji can read the manual comfortably — “small acts of consideration” noted from the other side.
+[rel:karuizawa-kei] (p.102) Carries her heart-bedazzled gifts in his pack and confirms it — “Spot on. How'd you guess?”
+[rel:kanzaki-ryuuji] (p.103) Greets Kanzaki by name and accepts the apology for the early visit.
+[says] (p.104) “I wonder if our strategy's wrong. Even if we can't beat the other classes, I thought it'd be good for us to unify on this test. That's the real reason I don't want them to discover our leader.”
+[says] (p.104) “Thank you. Coming from you, that honestly makes me really happy.”
+[action] (p.104–105) Plans the sleeping-arrangement poll at the river, then after roll call assigns roles to the reliable students — Class D's point-saving start.
+
+<!-- walk: y1v3 ch3 → p.130 -->

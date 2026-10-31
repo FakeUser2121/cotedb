@@ -19,3 +19,17 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:ayanokouji-kiyotaka] (p.91) Told to wait while the class decides; the class agrees to shelter her once roll-call attrition makes it profitable, not only decent.
 
 <!-- walk: y1v3 ch2 → p.99 -->
+
+### y1v3 p.100 — Ch.3: the camera in her bag
+[scene] (p.100) The luggage pile outside the tent before dawn; her singularly colored bag is easy to spot.
+[status] (p.100) Her rented digital camera — no data, no sign it was ever used — is found in the bag while she sleeps and put back untouched.
+
+### y1v3 p.105–106 — Ch.3 §3.1: the visit to the campsite
+[scene] (p.105) Class C's boys stride into the campsite; a pained expression flashes across her face and she ducks behind the tent to hide.
+[says] (p.105) “Do you know Ryuuen?”
+[trait] (p.105) Sounds irritated discussing him — “as if she were discussing a family enemy.”
+[rel:ryuuen-kakeru] (p.105) Komiya and Kondou are his underlings; his name alone puts her behind the tent.
+[says] (p.106) “I don't think they were looking for me.”
+[says] (p.106) “I wonder if things are heading toward that worst-case scenario I imagined…”
+
+<!-- walk: y1v3 ch3 → p.130 -->

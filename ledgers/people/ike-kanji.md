@@ -293,3 +293,11 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:sakura-airi] (p.97) Ogles Sakura's body with Yamauchi blocking the view; the chapter keeps the leering and the competence in the same character without joining them.
 
 <!-- walk: y1v3 ch2 → p.99 -->
+
+### y1v3 p.105–106 — Ch.3 §3.1: the chips at his feet
+[scene] (p.105) The provocation reaches him in the middle of the campsite.
+[says] (p.105) “What the hell, you guys?!”
+[action] (p.105–106) The chips bag lands at his feet; he snaps at the two Class C boys for ten minutes until Hirata's group returns and they leave.
+[rel:komiya-kyogo] (p.105–106) The visit is aimed at his temper — Komiya and Kondou keep snacking while they bait him.
+
+<!-- walk: y1v3 ch3 → p.130 -->

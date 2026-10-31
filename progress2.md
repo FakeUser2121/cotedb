@@ -848,3 +848,27 @@ corpus text). The wording gate fired on "both ledgers"/"Ike's ledger" in the
 attribution-gaps row — rewritten to "classmates' pages"/"under Ike".
 Doubled `## y1v3` heading in Mashima's new file removed. Verifiers pass;
 no defects kept as printed. Next: y1v3 ch3 pp.100–130.
+
+**2026-11-01 — y1v3 Chapter 3 walked (pp.100–130, "Rivals on the Move").**
+Full chapter read in two sub-reads (100–115, 116–130); pp.110, 119 and 130
+carry no prose. Morning roll call and exploration; Kanzaki hands over the
+Class B campsite (p.103); Komiya and Kondou's chip provocation (pp.105–106);
+the Class C beach burned to zero with Ryūen's first-name call (pp.108–116);
+Class B's seventy-point camp, the renewed cooperation and the Class A cave
+directions (pp.117–125); the Class A cave turned back by Katsuragi's
+unspoken one-spot rule (pp.126–130). Fourteen people ledgers plus the volume
+file carry the stamp `y1v3 ch3 → p.130`: Ayanokōji, Horikita, Hirata, Ibuki,
+Ike, Ryūen, Ishizaki, Komiya, Kondō, Ichinose, Kanzaki, Katsuragi, Totsuka
+and Kaneda. One new ledger: kaneda-satoru (Class 1-C, sheltered by Class B,
+p.124). Nakanishi and Chihiro-chan are named only (p.124) and are listed in
+the volume section; Kōenji, Karuizawa, Sudō and Kushida are passing mentions;
+Sakazaki (p.111) is a named Class C extra with no roster row and is recorded
+as a new named entity only. Attribution gaps recorded in the volume section:
+the p.105 provocation retort and the two Ryūen explanations, the p.112
+perseverance rebuke, the pp.121–122 visitor questions, the p.123–124 Class C
+report (either Class D speaker is possible), the p.125 walk-away verdicts and
+the p.126 approach line. The two multi-page quotes (well water, vinyl sheets)
+were split with `…` before the first verify run, so no verifier failed;
+136 [says] lines (three micro-quotes under ten characters are skipped by
+design) and 166 non-says spans all corpus-exact. No defects kept as printed.
+Next: y1v3 ch4 pp.131–143.

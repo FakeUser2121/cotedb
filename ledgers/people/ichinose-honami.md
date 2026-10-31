@@ -254,3 +254,56 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:horikita-suzune] (p.235) She names the road not taken: if Horikita had been in Class B, Class B might already have reached Class A.
 
 <!-- walk: y1v2 ch7 → p.257 -->
+
+## y1v3
+
+<!-- walk: y1v3 → start -->
+
+### y1v3 p.117–125 — Ch.3 §3.3: the camp that already works
+[scene] (p.117) Class B's base around the well: she is tying a hammock cord to a tree when Horikita and Ayanokōji walk in, and Kanzaki sits a little way off.
+[place:uninhabited-island] (p.117) Class B's site — trees around a well, hammocks strung for lack of tent space, unfamiliar equipment beside the water.
+[says] (p.117) “Huh? Horikita-san? And Ayanokouji-kun?”
+[says] (p.117) “Ha ha, yeah. It was really difficult at first! But we tried a bunch of different things, and it worked out. Though the list of chores just keeps on increasing. There’s still a ton of work left,”
+[trait] (p.117) Takes the interruption as a welcome rather than an intrusion: smiling, she assumes they came with a question.
+[says] (p.118) “Oh, I’m sorry. That probably sounded like I was trying to drive you guys away. I think it’s all right if you hang around for a while. You probably came here to ask me something, right?”
+[action] (p.118) Welcomes them without any hint of protest and invites them to sit on the hammock.
+[says] (p.120) “I think so, too.”
+[note] (p.120) The agreement is untagged; it answers Horikita's proposal directly.
+[says] (p.120) “Hammocks. Cookware. Small tent, lantern, and temporary toilet. Fishing rod, a water shower… If we combine those items with the food we purchased, the total comes to exactly seventy points.”
+[number] (p.120) Reads her class's purchases aloud from a manual: seventy points in all.
+[says] (p.120) “Well, let’s go over the situation bit by bit, shall we? Since there are various places in the woods where we can find fruits and vegetables, we can compensate for deficiencies in points by foraging for food. We can also head out to the sea and fish. That’s what I was thinking we’d do for food. We’re not worried about water, since we have a well.”
+[feat] (p.120) Food comes from foraging and the sea; water comes from the well.
+[says] (p.120) “At first we were worried whether the water was safe to drink, … Starting this morning, we had everyone use the … well to get water.”
+[feat] (p.120) Drinks from the well herself the day before, waits to see if she gets an upset stomach, and only then lets the class use it.
+[says] (p.121) “Also, there’s enough natural water that we can use it for showers. That’s what a water shower is.”
+[says] (p.121) “After we put water in the tank here, we get hot water in only a few seconds. It’s really convenient. We use a gas can for the heat source. When we run out, I plan to request another.”
+[says] (p.121) “No. This is the first I’ve heard about or used them. The school’s rules are rather scary, aren’t they? There weren’t any details in the manual, and we can’t ask the teacher, either. Thankfully we have some kids who are familiar with the outdoors in our class.”
+[says] (p.121) “We set up this temporary toilet instead of getting a shower room. We got it so that the people who dislike being seen by others when they shower could have privacy. The fabric is also waterproof.”
+[says] (p.121) “Ah, yeah. At first, I wondered what we were going to do, but then we took appropriate measures. Want a look?”
+[action] (p.121) Lifts the tent flap after warning the girls inside and shows the vinyl sheets underfoot — about two centimeters thick.
+[says] (p.121) “When we paid for the temporary toilet, we were told we had access to an unlimited number of vinyl sheets. So I might have asked for too many, but … we received a large number of them. Of course, I don’t want to waste resources, so I plan to put any unused vinyl sheets into one sheet, and return them in the end.”
+[says] (p.122) “I wonder if it’s because we sprinkle water around. We’ve sprinkled water near our beds, because they’re close to the well. We put some water in the plastic bottles that people drank from, and then everyone carries them around so they can sprinkle water efficiently. The water soaks into the soil quite easily, and since it takes some time for it to evaporate, the effect lingers and removes the heat.”
+[feat] (p.122) Beats the heat with sprinkled water rather than equipment — knowledge, not tools, is what makes the campsite work.
+[says] (p.122) “I see… Having someone retire sounds like it really hurt you guys.”
+[says] (p.122) “I see. Well, can we continue our cooperative relationship? I thought it would be a good idea to ignore the rule about trying to find out the leader’s identity. What do you think?”
+[note] (p.122) The cooperation exchange is untagged; the addressee anchors put these lines on her.
+[says] (p.122) “Of course I’m okay with that.”
+[rel:horikita-suzune] (p.122) Reaffirms the cooperative relationship with her and agrees to drop the hunt for the leader's identity.
+[says] (p.123) “Yeah. For the time being, anyway.”
+[trait] (p.123) Takes the command credit only conditionally — for the time being.
+[rel:hirata-yousuke] (p.123) Knows him from the soccer club and calls him really popular among the girls.
+[says] (p.123) “Ah. From the soccer club! I know him, I know him! He’s really popular among the girls.”
+[says] (p.123) “Well, if you’re okay with something that might be useful, I can tell you something about their place. However, obtaining information is going to be tough.”
+[says] (p.123) “Just after you cut through this area, there’s an opening. Turn right and go straight until you see a cave. That’s probably where the Class A base camp is. I went there myself to investigate, but I don’t know for sure. It’s because they’re so thoroughly defensive…or rather, secretive.”
+[feat] (p.123) Has already scouted the Class A site herself and marks it as thoroughly defensive.
+[says] (p.123) “Honestly, seeing is believing. If you take a look yourselves, you’ll understand right away. Since you two are going to check on Class A, does that mean you already understand Class C’s situation?”
+[note] (p.124) Her assessment of Class C — no intention of taking the test seriously, five days left, no spot even looked for — runs untagged between her question and the narration that follows; it is left as a chapter attribution gap.
+[rel:kaneda-satoru] (p.124) Takes his interruption patiently, tells him where Nakanishi is, and sends him after Chihiro-chan's group.
+[says] (p.124) “I think Nakanishi-kun headed down to the shore. Why do you ask?”
+[says] (p.124) “Oh no, not at all. I’m really happy you feel that way, Kaneda-kun. Can you head over and follow Chihiro-chan’s group? If you tell them I told you to do so, it’ll be okay.”
+[says] (p.124) “Do you know him? It looks like he had some kind of dispute with Class C. He said he’d get by on his own, but I couldn’t just leave him. I haven’t asked him about his situation yet.”
+[trait] (p.124) Takes in a Class C boy nobody else would take because she couldn't just leave him — and has not yet asked him what happened.
+[action] (p.125) Hardens when she hears that Ibuki was hit — the narration calls it strengthening her resolve to protect her class.
+[rel:horikita-suzune] (p.125) Closes the visit with farewells after the full exchange of information.
+
+<!-- walk: y1v3 ch3 → p.130 -->

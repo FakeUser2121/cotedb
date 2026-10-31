@@ -1060,3 +1060,14 @@ search index rebuilt. Eight non-says quote fixes and one wording rewrite
 82/82). Determinism hash across consecutive builds:
 `7a491addc20cdacda7c0c1e6579bcda6`. Quotes: 144 non-says spans, 20 [says]
 lines, all corpus-exact.
+
+### y1v3 Chapter 3 reaches the site (site, 2026-11-01)
+
+Rivals chapter (pp.100–130) shipped: the volume page carries its third
+chapter section, two new people pages (Ibuki Mio, Totsuka Yahiko), four new
+directory rows (Kaneda, Ishizaki, Komiya, Kondō) and eight existing people
+pages extended. 171 pages, 38 assets, search index rebuilt. No verifier
+failures this chapter — the two multi-page quotes were split before the
+first verify run. Ratchet unchanged (R19 warn 82/82). Determinism hash
+across consecutive builds: `43a2996dce2fd75172d8f0b67ca6eff5`. Quotes: 166
+non-says spans, 136 [says] lines, all corpus-exact.
