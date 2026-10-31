@@ -183,3 +183,13 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [rel:sakura-airi] (p.96–97) Maps the girls' teams for the boys — "the Empress Team, led by Karuizawa… Kushida-chan’s Friendship Team… Shinohara’s Arrogant Team. Then you have Horikita and Sakura, who are by themselves" — and wants to eat with the last of them.
 
 <!-- walk: y1v3 ch2 → p.99 -->
+
+### y1v3 p.141–142 — Ch.4 §4.3: the shirtless accusation
+[scene] (p.141) Dashes over when Ike calls, grabs his arm and shoves him away from Sakura.
+[says] (p.141) “H-h-hey, you! Why were you all alone and shirtless with Sakura?! Why?! Huh?!”
+[rel:sakura-airi] (p.141) The whole challenge is the pairing — he puts himself between them in front of the camp.
+[rel:ike-kanji] (p.141) Answers the call straight into the rant.
+[says] (p.142) “I trusted you, Ayanokouji!”
+[rel:ayanokouji-kiyotaka] (p.142) Rants and raves while he goes off to report to Hirata; the accusation is never answered.
+
+<!-- walk: y1v3 ch4 → p.143 -->

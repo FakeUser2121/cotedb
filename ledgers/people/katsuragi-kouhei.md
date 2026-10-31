@@ -32,3 +32,21 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [status] (p.129) With him on the entrance, Class D's only option is retreat — he has stripped every other one away.
 
 <!-- walk: y1v3 ch3 → p.130 -->
+
+### y1v3 p.140–142 — Ch.4 §4.3: the cornfield offer
+[scene] (p.140) Arrives with Yahiko at the thicket while Sakura is staring at the corn; apologizes for the surprise.
+[rel:sakura-airi] (p.140) Apologizes for startling her — he has seen where she ran to behind his back.
+[says] (p.140) “I’m sorry. We didn’t mean to surprise you. He had no bad intentions, either. Please forgive us.”
+[says] (p.140) “My name’s Katsuragi, from Class A. He’s Yahiko. Since this is the second time we’ve met, a self-introduction should be fine, yes?”
+[says] (p.140) “You found this. Don’t worry, we have no intention of snatching it away from you. But if someone else finds this spot, they’ll likely take it away.”
+[says] (p.141) “You’re the one who doesn’t seem to understand the situation, Yahiko. Don’t dismiss the danger of moving through the forest alone. It’s difficult enough in groups of men, but when men and women are together, no matter what, there will be certain limitations to what you can do.”
+[feat] (p.141) Will not go into the forest alone — groups of men already strain, mixed company more; the narration gives it as the reason he never went alone.
+[says] (p.141) “We’ll help you.”
+[says] (p.141) “I see. We can’t force you. However, can you trust us? After you leave here, there’s a chance we’ll make off with all of this, right?”
+[rel:totsuka-yahiko] (p.140–141) Silences his objections with a look after the head-thump; partnership is offered over his visible refusal.
+[rel:ayanokouji-kiyotaka] (p.141) The offer and the trust-question both land on him; he refuses the first and gives up the spot rather than accept the second, and Katsuragi withdraws without force.
+[tactic] (p.141) Offer refused, he pivots to asking to be trusted instead — then quietly clears a path for them.
+[action] (p.142) Stays at the corn after they leave so their harvest runs under his eye; whether that was good or bad intent is left open.
+[status] (p.142) Class A now knows the spot and watches it from close by.
+
+<!-- walk: y1v3 ch4 → p.143 -->

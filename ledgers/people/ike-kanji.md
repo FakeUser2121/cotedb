@@ -301,3 +301,12 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:komiya-kyogo] (p.105–106) The visit is aimed at his temper — Komiya and Kondou keep snacking while they bait him.
 
 <!-- walk: y1v3 ch3 → p.130 -->
+
+### y1v3 p.141 — Ch.4 §4.3: the camp greeting
+[scene] (p.141) At base camp when the pair comes back from the forest.
+[says] (p.141) “What an amazing find, Ayanokouji! You too, Sakura! Let’s go get it, Yamauchi!”
+[rel:ayanokouji-kiyotaka] (p.141) Greets him as the finder of the food, before the class knows what has been found.
+[rel:sakura-airi] (p.141) Names her as the second finder in the same shout.
+[rel:yamauchi-haruki] (p.141) The shout is what sends him sprinting over — and into the jealousy scene.
+
+<!-- walk: y1v3 ch4 → p.143 -->

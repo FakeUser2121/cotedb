@@ -1071,3 +1071,14 @@ failures this chapter — the two multi-page quotes were split before the
 first verify run. Ratchet unchanged (R19 warn 82/82). Determinism hash
 across consecutive builds: `43a2996dce2fd75172d8f0b67ca6eff5`. Quotes: 166
 non-says spans, 136 [says] lines, all corpus-exact.
+
+### y1v3 Chapter 4 reaches the site (site, 2026-11-01)
+
+Freedom chapter (pp.131–143) shipped: the volume page carries its fourth
+chapter section and seven existing people pages extended (Ayanokōji,
+Sakura, Katsuragi, Totsuka, Ike, Yamauchi, Hirata), with one new search
+asset (Katsuragi). 171 pages, 39 assets, search index rebuilt. No verifier
+failures — the cross-page shirt-bag quote was split before the first
+verify run. Ratchet unchanged (R19 warn 82/82). Determinism hash across
+consecutive builds: `569fe47fc33f4fbb4c8988bb61b308ef`. Quotes: 169 non-says
+spans, 205 [says] lines, all corpus-exact.

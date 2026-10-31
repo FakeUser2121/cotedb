@@ -1233,3 +1233,72 @@ walk: y1v1 → DONE
 [note] (p.129) The closing judgment — that Class A has to be left alone and cannot be investigated — is his, left untagged and recorded here without a quotation.
 
 <!-- walk: y1v3 ch3 → p.130 -->
+
+### y1v3 p.131–135 — Ch.4 §4.1: the walk with Sakura
+[scene] (p.131) Third day, before noon: he slips out of base camp alone for the forest entrance to see what Kouenji had been looking at, and Sakura catches up, out of breath.
+[place:uninhabited-island] (p.131) The forest path out of base camp, marked by a handkerchief tied around a tree.
+[says] (p.131) “Didn’t I tie a handkerchief around a tree? Anyway, I thought I’d just go and check something out.”
+[note] (p.131) The line just above the quoted one prints “didn’t had the time”; kept as printed.
+[says] (p.131) “Isn’t it better for you to stay back? Won’t it bother you if people start spreading rumors?”
+[says] (p.131) “It’s not going to be particularly easy, right? I mean, after we went through all the trouble of coming to this island, I think you should have a little fun… Though I’m not one to talk about fun, myself.”
+[rel:sakura-airi] (p.131) Turns her request down with that excuse — she answers that this is fun, crouches and hides her face, and he takes her along after all.
+[action] (p.132) Accepts her company on one condition: if they get into trouble later, she must not blame herself.
+[says] (p.132) “Well then, how about we go together? But I have a condition. If we get into trouble later, you won’t blame yourself. Okay?”
+[says] (p.132) “Are you getting along well with the other girls? I mean, you can’t really do things alone in this test, right?”
+[says] (p.132) “That’s not true. You’re making progress, Sakura-chan.”
+[says] (p.132) “It is true. Maybe you can’t see it, but you’re definitely making progress little by little.”
+[says] (p.132) “It’s okay. You’ll make some friends really soon, Sakura. Then school will become much more fun.”
+[trait] (p.132) Appeals from the bottom of his heart for the first time, choosing words and attitude together; the narration judges it the right method for someone who lacks confidence.
+[note] (p.131–135) Her lines carry the narration tags or address him by name; his replies through the walk are untagged and recorded here.
+[says] (p.133) “That reminds me… That guy, from the incident before…it seems like he resigned.”
+[says] (p.133) “I didn’t really do anything. You were saved because you got close to Kushida, and because Horikita and Ichinose helped out. I was just a bystander. Anyway, more importantly, nothing else weird has happened, right?”
+[back:kushida-kikyou] (p.133) Credits Kushida’s proximity and Horikita and Ichinose’s help with the stalker affair; his own part was bystander only.
+[says] (p.133) “Besides, even though you usually act nervous, you always had this really confident expression when you were an idol.”
+[says] (p.133) “A long time ago? But when you were featured in magazines you probably didn’t take the pictures yourself, right?”
+[rel:sakura-airi] (p.133) Draws her out on the idol years until she describes erasing herself to endure the shoots; the narration reads her as scarred by the stalker but headed in a better direction.
+[says] (p.134) “Considering even Kouenji’s satisfaction, the school has probably been really good about keeping up the place. Normally, an overseas jungle would be more dangerous.”
+[rel:sakura-airi] (p.134–135) Rests with her against one tree half an hour up the steep trail — the longest time alone with her since the landing — and reads the distance between them shortening toward friendship, the first relationship he has felt tilt that way.
+[says] (p.135) “But if I’m in the picture, wouldn’t that spoil the scenery?”
+[thinks] (p.135) Watching her frame the shot with thumb and forefingers: “Preserving memories, huh? So that was why Ibuki had a digital camera.”
+[note] (p.135) His inference rather than a fact about Ibuki: her reason for carrying a camera at school is applied to the Class C girl.
+
+### y1v3 p.137–140 — Ch.4 §4.2: the caterpillar and the corn
+[scene] (p.137) A hairy caterpillar drops into Sakura’s hair during the break; pointing it out might make her scream it into her clothes, so he has to remove it without telling her.
+[says] (p.137) “Sakura, there’s something I want to ask you…”
+[says] (p.137) “You…are you okay with bugs?”
+[says] (p.137) “Yeah. Bugs. Like grasshoppers and dragonflies, those kinds of things”
+[says] (p.137) “I see. Well, all right then.”
+[says] (p.137) “Hmm. Anyway, don’t move for the time being, okay?”
+[action] (p.137) Feigns a casual interest in bugs to learn what she can stand, then holds off acting until he has another way.
+[feat] (p.138) Reaches through his own revulsion — a city boy who hates insects — touches the caterpillar off her hair and throws it into the bushes; she never learns what happened.
+[says] (p.138) “For the time being, let’s investigate the area, but don’t go too far. Then let’s check on each other regularly. If we don’t concentrate, it’s likely we’ll get distracted.”
+[says] (p.138) “Did you notice something?”
+[place:uninhabited-island] (p.138) About twenty minutes from base camp by the handkerchief marker: the rise where Kouenji had stood.
+[action] (p.138) Finds nothing by sight, then works the soil, the roots, the leaves and the air with all five senses.
+[says] (p.139) “So, this is what Kouenji saw…”
+[feat] (p.139) Reads the soil color under the corn and the weed cover around it as artificial cultivation — proof that school officials come and go on the island.
+[note] (p.139) The narration answers Kouenji’s silent gaze from the second day: he saw the corn at first glance and said nothing out of pride.
+[says] (p.139) “Sorry, sorry. I thought it would be okay. Wait, what did you mean by ‘it’s too soon’?”
+[says] (p.139) “If we tie up the openings of my shirt, we can use it as a bag. That way… we could carry more at once.”
+[tactic] (p.140) Turns his shirt into a carry bag rather than leave the ears behind for another class to harvest while they are away.
+[note] (p.139) The bags line that opens the harvest is untagged — either speaker fits — and is left as an attribution gap.
+
+### y1v3 p.140–142 — Ch.4 §4.3: Katsuragi at the cornfield
+[scene] (p.140) Katsuragi and Yahiko arrive at the thicket while Sakura is staring at the corn.
+[says] (p.140) “I’m Ayanokouji, from Class D. This is Sakura.”
+[says] (p.140) “There’s nothing we can do. There’s only the two of us here.”
+[rel:totsuka-yahiko] (p.140) Recognized as the spy from yesterday — the second time the pair has met him.
+[says] (p.141) “We appreciate the offer, but our class told us to be careful. They’ll get mad if they find out we relied on Class A for help. I’m sorry, but we have to decline.”
+[tactic] (p.141) Refuses the partnership with a fabricated class order — the narration marks the reason a lie.
+[says] (p.141) “In that case, I’d have no choice but to give up what I’m carrying right now.”
+[rel:katsuragi-kouhei] (p.141) Answers the watch-offer by abandoning the spot rather than accepting help; Katsuragi withdraws without force.
+[rel:sakura-airi] (p.141) Leaves with her while she still looks worried, Katsuragi’s intentions unread.
+[rel:ike-kanji] (p.141) Back at base camp, Ike’s greeting brings Yamauchi running over.
+[rel:yamauchi-haruki] (p.141) Meets the shirtless-with-Sakura accusation with a deflection, then leaves it unanswered.
+[says] (p.142) “Calm down. This is a misunderstanding, that’s all. We didn’t do… anything.”
+[says] (p.142) “I have to go talk with Hirata. Sorry.”
+[rel:hirata-yousuke] (p.142) Leaves Yamauchi’s rant to give Hirata the report; soon afterward a team is organized and the class works the cornfield.
+[status] (p.142) The bag comes back full by one o’clock, and the spot stays under Katsuragi’s eye — good or bad intentions left unknown.
+[note] (p.142) The camp’s closing exchanges — the full bag, Katsuragi being nearby — are untagged and left as attribution gaps.
+
+<!-- walk: y1v3 ch4 → p.143 -->

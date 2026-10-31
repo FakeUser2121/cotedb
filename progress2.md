@@ -872,3 +872,31 @@ were split with `…` before the first verify run, so no verifier failed;
 136 [says] lines (three micro-quotes under ten characters are skipped by
 design) and 166 non-says spans all corpus-exact. No defects kept as printed.
 Next: y1v3 ch4 pp.131–143.
+
+**2026-11-01 — y1v3 Chapter 4 walked (pp.131–143, "The Meaning of Freedom").**
+Third day: Ayanokōji walks out to Kōenji's vantage point with Sakura —
+the stalker's resignation and her idol photography years (p.133), the
+friendship beat against one tree (pp.134–135), the caterpillar removed
+without her knowing (pp.137–138), about fifty ears of cultivated corn
+whose soil and weed cover prove the school uses the island (p.139), the
+shirt-bag harvest (pp.139–140), Katsuragi and Yahiko's partnership offer
+refused with a fabricated class order while Katsuragi stays to watch the
+spot (pp.140–142), and the camp close — full bag by one o'clock, Yamauchi's
+jealousy over the shirtless pairing, Hirata getting the report first
+(pp.141–142). Seven people ledgers plus the volume file carry the stamp
+`y1v3 ch4 → p.143`: Ayanokōji, Sakura, Katsuragi, Totsuka, Ike, Yamauchi
+and Hirata. No new ledgers, no new roster rows, no new named entities —
+the electronics-store stalker stays unnamed. Named but absent, listed in
+the volume section: Kōenji, Kushida, Horikita, Ichinose and Ibuki.
+Attribution gaps: the p.139 bags line, the p.139 corn question and answer,
+and the two camp-close lines (p.142). The locator did not surface Totsuka
+on these pages — the text calls him Yahiko only and his row's published
+name forms do not match that alone; matched by eye and kept as a coverage
+note for the volume-end gate. Locator substring hits checked against the
+text and discarded: aga/against, iki/like, chie/handkerchief, Mori/memories,
+Yano/Ayanokōji, Ichino/Ichinose, Horikita as Suzune on p.133. Verification
+passed on the first run: 205 [says] lines (three micro-quotes under ten
+characters skipped by design) and 169 non-says spans, all corpus-exact; the
+one cross-page quote (shirt bag, pp.139–140) was split with `…` before
+verify. No defects kept as printed beyond the flagged "didn’t had the time"
+(p.131). Next: y1v3 ch5 pp.144–158.

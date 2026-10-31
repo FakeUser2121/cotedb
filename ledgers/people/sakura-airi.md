@@ -307,3 +307,58 @@ aliases used for anchors: sakura, airi, sakura-san
 [limit] (p.96) Yamauchi's map of the class: she and Horikita are the two girls "who are by themselves."
 
 <!-- walk: y1v3 ch2 → p.99 -->
+
+### y1v3 p.131–135 — Ch.4 §4.1: chasing him into the forest
+[scene] (p.131) Chases him out of base camp breathless on the third day and insists on coming along, rumors or not.
+[says] (p.131) “Ahh, ahh, ahh… Wh-where are you planning to go now, Ayanokouji-kun?”
+[says] (p.131) “I-It’s probably not okay for me…to come along, is it? I’d only slow you down, probably, but…”
+[says] (p.131) “That doesn’t bother me at all. Besides, I….”
+[says] (p.131) “Th-this is fun, though!”
+[rel:ayanokouji-kiyotaka] (p.131) Offers more resistance to being left behind than he expects; after their eyes meet she crouches and hides her face.
+[says] (p.132) “Really? It’s okay?!”
+[says] (p.132) “No, not at all… We don’t really talk or anything,”
+[says] (p.132) “I’m just worthless, really. I can’t do sports, or study. I’m not really growing as a person in any area.”
+[says] (p.132) “Huh? Me, progress? Ah ha ha… That’s not true, though.”
+[voice] (p.132) Absolute self-devaluation — worthless, no growth in any area — delivered while twirling her hair with an index finger, with a laugh to wave off the encouragement.
+[rel:ayanokouji-kiyotaka] (p.132) Stops walking at his assurance, eyes trembling, to work out whether he means it.
+[says] (p.133) “Thank you for everything… Everything worked out thanks to you, Ayanokouji-kun.”
+[says] (p.133) “No, everything’s been fine. Actually, I’ve been taking a little break from the bulletin board, too.”
+[status] (p.133) The stalker from the electronics store has resigned, and she has stepped back from the bulletin board as a precaution.
+[says] (p.133) “Well, that’s…that’s because I did the photography myself.”
+[says] (p.133) “I didn’t do well, and I also took way more time than the others. A cameraman would take pictures of the girls to make sure there were as few people involved as possible. Besides…back then, I was able to bear it because I made myself empty. It was like I erased myself, eliminated my feelings. But I eventually reached my limit, so I had to take a break.”
+[trait] (p.133) On the idol years: she made herself empty to get through the shoots and only broke when she reached her limit — spoken in one run, stopping at the end for a deep breath.
+[note] (p.133–135) The trip answer and the lines between the narration beats are untagged; they continue her own tagged speech, so they are recorded as hers.
+[says] (p.134) “Nature sure is amazing, isn’t it? I like to spend a lot of my free time out in nature, even if it’s just walking around,”
+[says] (p.134) “When we left for the trip, I felt depressed at first. I didn’t have any friends, and I don’t really like traveling. I thought it would be fine if I could just stay in my room. If I did that, my life would have been the same as always. But then, all this happened. We were told this was some kind of test…”
+[says] (p.134) “But now I’m kind of glad that we came here. That’s because I never really had the chance to talk with you like this before, Ayanokouji-kun…”
+[rel:ayanokouji-kiyotaka] (p.134) The two of them deep in the forest, embraced by nature and a feeling of serenity.
+[says] (p.135) “I wish we could stay like this forever…”
+[says] (p.135) “Oh… It’s too bad. If I had my digital camera, I probably could have taken the best photos, but…”
+[says] (p.135) “No, if you’re in the picture, Ayanokouji-kun, it will be the best photo… Ah! No! I mean, that is, I’ve never taken a picture with a friend before!”
+[rel:ayanokouji-kiyotaka] (p.135) Frames herself and him with thumb and forefingers several times, then makes an embarrassed face at having done it.
+[trait] (p.135) The camera habit runs deep enough to frame a shot that cannot be taken — and the new thing she names is a picture with a friend.
+
+### y1v3 p.137–140 — Ch.4 §4.2: the caterpillar and the corn
+[scene] (p.137) Panics when he seizes her shoulders mid-break — a caterpillar is in her hair, a fact he never tells her.
+[says] (p.137) “Wh-what?! What is it?!”
+[says] (p.137) “Wh-what is it?”
+[says] (p.137) “N-not at all. I absolutely can’t stand them. Ants either.”
+[says] (p.137) “O-okay. Sure…”
+[says] (p.138) “Ugh…I feel like there was something gross on me…”
+[says] (p.138) “Umm… What’s different?”
+[action] (p.138) Searches the bushes away from him and shrieks at something in them.
+[says] (p.139) “Hey, look! I found something amazing!”
+[feat] (p.139) Finds a different variety of leaves and yellow ears inside a thicket — the discovery the trip was for.
+[says] (p.139) “Huh?! Wh-wh-wh-what are you doing, Ayanokouji-kun?! It’s way too soon for that!”
+[action] (p.139) Drops the corn and covers her eyes with both hands when he takes his shirt off.
+
+### y1v3 p.140–142 — Ch.4 §4.3: Katsuragi at the cornfield
+[scene] (p.140) Jumps when Katsuragi and Yahiko arrive at the thicket and hides behind his back.
+[rel:katsuragi-kouhei] (p.140) Draws his apology for the surprise — he saw where she had run to.
+[rel:totsuka-yahiko] (p.140) His shout makes her jump again and curl into a ball; Katsuragi answers with a thump to his head.
+[rel:ike-kanji] (p.141) Ike’s camp greeting names her as one of the two who found the food.
+[rel:yamauchi-haruki] (p.141) The jealousy scene runs over her: he shoves Ayanokōji away from her side before the whole camp.
+[rel:ayanokouji-kiyotaka] (p.141) Leaves the thicket with him while she still looks worried.
+[action] (p.141–142) Back at base camp for the report; the harvest team forms soon after and everyone is back by one o’clock.
+
+<!-- walk: y1v3 ch4 → p.143 -->

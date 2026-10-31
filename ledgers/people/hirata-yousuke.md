@@ -238,3 +238,9 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [action] (p.104–105) Plans the sleeping-arrangement poll at the river, then after roll call assigns roles to the reliable students — Class D's point-saving start.
 
 <!-- walk: y1v3 ch3 → p.130 -->
+
+### y1v3 p.142 — Ch.4 §4.3: the corn report
+[scene] (p.142) At base camp when Ayanokōji cuts out of Yamauchi’s rant to reach him.
+[rel:ayanokouji-kiyotaka] (p.142) Gets the corn report first-hand; soon afterward students are organized into a team that brings the harvest back.
+
+<!-- walk: y1v3 ch4 → p.143 -->

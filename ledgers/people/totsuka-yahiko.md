@@ -34,3 +34,16 @@ char_id: totsuka-yahiko · class: Class 1-A (enrolled April 2015) · status: min
 [limit] (p.127) Left holding the entrance alone when Katsuragi is away; the sharp one of the pair is absent until the end of the exchange.
 
 <!-- walk: y1v3 ch3 → p.130 -->
+
+### y1v3 p.140–141 — Ch.4 §4.3: the second meeting at the thicket
+[scene] (p.140) Arrives with Katsuragi at the corn thicket; his first words are about the food.
+[says] (p.140) “Wow. Look, Katsuragi-san! There’s an incredible amount of food here!”
+[action] (p.140) Apologizes in low spirits under Katsuragi’s stern look.
+[says] (p.140) “Hey, you’re the spy from yesterday!”
+[rel:ayanokouji-kiyotaka] (p.140) Recognizes him as the spy from yesterday — the second time the two have met.
+[rel:sakura-airi] (p.140) His shout makes her jump and curl into a ball behind his back.
+[says] (p.141) “You idiots. One of you two can stay behind and watch the stuff! Isn’t that right, Katsuragi-san?”
+[says] (p.141) “A-are you serious, Katsuragi-san? But, working together with Class D is—”
+[rel:katsuragi-kouhei] (p.141) Wants to refuse Class D outright and stays quiet only after the sharp look; his watch idea is overridden by the offer to help.
+
+<!-- walk: y1v3 ch4 → p.143 -->
