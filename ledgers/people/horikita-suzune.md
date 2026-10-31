@@ -706,3 +706,41 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ayanokouji-kiyotaka] (p.253–255) The chapter ends with her accusation of being steered and his evasion, unanswered.
 
 <!-- walk: y1v2 ch7 → p.257 -->
+
+## y1v3
+
+### y1v3 p.22–23 — Ch.2 §2.0: she comes down from the ship wrong
+[scene] (p.22) Deck of the liner at disembark call; Class D waits in the heat.
+[status] (p.22) "Even Horikita, normally so meticulous, was concerned about her appearance. Right now, though, her hair was disheveled." — and she rubs her arms as if cold.
+[says] (p.22) “I was just reading a book in my room. For Whom the Bell Tolls. You wouldn’t know it.”
+[limit] (p.23) Her stated excuse for locking herself away doesn't cover what Ayanokōji saw; the chapter leaves the gap open.
+
+### y1v3 p.33–45 — Ch.2 §2.1: she asks the questions that price the test
+[scene] (p.33) Class D's first rules huddle on the beach after Mashima's announcement.
+[says] (p.33) “In the event that someone were to retire after we had already used all 300 points, what would happen?” — the question that establishes the floor at zero.
+[rel:hirata-yousuke] (p.43–44) Stands beside Ayanokōji watching Hirata fail to decide: "Class D has no leadership, which worries me. Besides, Hirata’s a pushover. He can’t even make one decision, can he?"
+[says] (p.44) “I’m the same as the others. I’ve never lived in such an environment before, so I can’t really make any predictions… What an unpleasant test.” — her first open admission that academics don't transfer here.
+[rel:ayanokouji-kiyotaka] (p.44–45) Asks him to take her side on endurance; he agrees; Classes A and B are already moving into the forest while C and D still can't start.
+
+### y1v3 p.47–49 — Ch.2 §2.2: she admits the isolation, and blocks the probe
+[scene] (p.47) Walking from beach to forest; she trails the group alone.
+[says] (p.47) “To be honest, I’m depressed. These kinds of things just aren’t for me. Life on an island seems primitive, and worst of all, I can’t be alone.”
+[limit] (p.48) Concedes the classroom verdict against her own tools: "This test will likely fall outside of my academic abilities. I’d determined that Ike-kun and Sudou-kun would be hindrances, but they took the initiative to go out searching. I wasn’t able to do anything."
+[says] (p.49) “It doesn’t feel good to have someone pry into your past” — and names Chabashira as the leak: “Chabashira-sensei leaked the information. Don’t misunderstand me. All right? Besides, we’re still not friends. Don’t forget that.”
+[rel:ayanokouji-kiyotaka] (p.49) Ends the exchange on her own terms before he can go deeper.
+
+### y1v3 p.63–71 — Ch.2 §2.4: the leader's card, and the favour she can't do herself
+[scene] (p.66) The circle that picks Class D's spot-leader.
+[rel:kushida-kikyou] (p.66) Kushida nominates her as the responsible choice; she accepts without visible surprise.
+[says] (p.66) “I understand. I accept.” — after Sudou tries to take the role to spare her.
+[feat] (p.66–67) Becomes Class D's designated leader; Hirata files her name with Chabashira and the card is handed over; the class touches the device together to hide who holds it.
+[rel:sudou-ken] (p.66) His defence of her wishes is the trigger that makes her take the role rather than dodge it.
+[rel:ayanokouji-kiyotaka] (p.70–71) Delegates the Ike problem — "I'm relying on you because I know I can't do it. Can I count on you?" — then delivers the standard put-down: “I suppose it must be relaxing to be unreliable and underachieving. … Isn’t it, Ayanokouji-kun?”
+[trait] (p.71) The chapter's closing read of her: alone she is "amazing…but only alone"; the school "had made her isolated life impossible."
+
+### y1v3 p.73–74, p.92 — Ch.2 §2.5 & §2.8: she refuses the assistantship, and votes last
+[rel:ayanokouji-kiyotaka] (p.73) On becoming Hirata's assistant: “Me, his assistant? Don’t joke around. I’d rather dance with a mongoose.”
+[limit] (p.73–74) Names her own usable condition — "If there were a clear enemy and a goal, I might be of…use" — and admits she still can't decide how far the class should spend.
+[rel:kushida-kikyou] (p.92) Raises her hand for river water last, with Ayanokōji, after the whole class has already committed.
+
+<!-- walk: y1v3 ch2 → p.99 -->

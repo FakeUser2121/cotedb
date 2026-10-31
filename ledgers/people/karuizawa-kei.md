@@ -60,3 +60,16 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [note] (p.120) After her p.83 exclusion from the witness interview she has no scene, no line and no decision in Chapter 4.
 
 <!-- walk: y1v2 ch4 → p.151 -->
+
+## y1v3
+
+
+### y1v3 p.13, p.42, p.96 — Ch.2: she is the girls' standard, and she bends for the class points
+[scene] (p.13) Deck of the liner; the group of girls "led by Karuizawa" comes out of the cabin, and she points at the ocean with a radiant smile.
+[says] (p.13) “This view is incredible! I’m honestly super moved right now!”
+[rel:hirata-yousuke] (p.16) The chapter opens on the pair cooling off — "lately she and Hirata haven’t been very flirty with each other" — without a fight and without tension.
+[rel:shinohara-satsuki] (p.42) The unexpected toilet answer: “Well, I suppose it’ll be tough, but I really want class points. I guess I’ll just grin and bear it.” — and the block moves: "If Karuizawa said as much, then even the strong-willed Shinohara couldn’t oppose her openly."
+[trait] (p.42) The endurance stance nobody predicted from her; Ayanokōji flags it as "An unexpected response from Karuizawa, who seemed like she would’ve been first to complain."
+[rel:yamauchi-haruki] (p.96) Head of the "Empress Team" in Yamauchi's map of the girls' groups.
+
+<!-- walk: y1v3 ch2 → p.99 -->

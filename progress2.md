@@ -826,3 +826,25 @@ owner: removed the three rows, reworded the scene heading and the two
 supporting rows (Hoshinomiya's ledger row lost "on student council business"),
 left the verbatim quote intact, and added a `[note]` recording that the pages
 never state a role. Her role gets re-walked when later volumes record it.
+
+**2026-10-31 — y1v3 Chapter 2 walked (pp.13–99, "The Boundary Between Heaven and Hell").**
+Full chapter read in two sub-reads (13–55, 56–99); pp.21, 37, 79 and 99 carry
+no prose. The island special test is announced (Mashima, p.24), the class
+splits three ways over the 300-point budget, Horikita takes the leadership
+card, and Kouenji retires on day one costing the class thirty points. Eight
+sections appended to the volume file with stamp `y1v3 ch2 → p.99`. Present
+roster characters stamped with full sweeps: Ayanokōji, Horikita, Hirata, Ike,
+Sudō, Yamauchi, Kushida, Sakura, Kōenji, Chabashira, Mashima, Hoshinomiya,
+Karuizawa, Shinohara, Yukimura, Katsuragi, Totsuka, Ibuki, Satō. New ledgers
+created for Mashima, Katsuragi, Totsuka, Ibuki, Shinohara, Yukimura and Satō
+(`ledger-new … --start-vol y1v3`). Sakayanagi and Miyake are passing mentions
+only (reported speech / a phone call) and are listed in the volume section
+without stamps. New named entities: Mashima Tomonari, Katsuragi Kōhei, Totsuka
+Yahiko, Ibuki Mio, Shinohara Satsuki, Yukimura Teruhiko, Satō Maya; unnamed:
+the sick Class A student, Ibuki's assailant, the Class A deck bullies.
+Eight non-says quote failures were fixed before commit (wrong pages, quotes
+spanning page footers split with `…`, and two paraphrases corrected to
+corpus text). The wording gate fired on "both ledgers"/"Ike's ledger" in the
+attribution-gaps row — rewritten to "classmates' pages"/"under Ike".
+Doubled `## y1v3` heading in Mashima's new file removed. Verifiers pass;
+no defects kept as printed. Next: y1v3 ch3 pp.100–130.

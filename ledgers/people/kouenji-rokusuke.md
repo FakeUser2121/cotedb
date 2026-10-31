@@ -97,3 +97,17 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [status] (p.119–129) He has no scene of his own after p.93; the second half of Chapter 4 keeps him as a recollection and a hypothesis.
 
 <!-- walk: y1v2 ch4 → p.151 -->
+
+## y1v3
+
+
+### y1v3 p.52–63, p.97–98 — Ch.2 §2.3 & §2.8: the forest walk, and the retirement that costs thirty points
+[scene] (p.52) Volunteer circle for the forest search; he raises a hand last, "The sun certainly is refreshing. My body needs energy."
+[rel:ayanokouji-kiyotaka] (p.55–57) Answers Ayanokōji's worry about getting lost with the perfect-human disclaimer — "I am a perfect human being. I would never foolishly lose my way in a forest. If any problem occurs, it would most likely be because you two lost sight of me. When that happens, you should give up."
+[feat] (p.56) Reads the island in one line: "I wouldn’t call this a natural forest. The probability of getting lost during the day is extremely low. It’s precisely for that reason that I’m a little curious."
+[feat] (p.57) Poses the question the ordinary pair can't answer — "What do you see when you look around?" — accepts "Common folk are simple, after all," and walks on.
+[limit] (p.63) Skipped the return and went swimming; Ayanokōji notes he ran off "suggesting that he was already familiar with the forest."
+[status] (p.97–98) Retires from the test on a claimed poor physical condition; the class eats a thirty-point penalty; Chabashira states the rule — "Kouenji has retired, and he’s obligated to stay onboard the ship for one week for medical treatment."
+[rel:yukimura-teruhiko] (p.98) The normally silent Yukimura shouts and kicks the ground at the news; the class is furious and can do nothing.
+
+<!-- walk: y1v3 ch2 → p.99 -->

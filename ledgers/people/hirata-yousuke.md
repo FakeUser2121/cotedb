@@ -199,3 +199,28 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [note] (p.246) He is named once, in Horikita’s summary of pending rewards for the hearing — Kushida’s and his actions "would be rewarded as well" — and appears nowhere else in the chapter.
 
 <!-- walk: y1v2 ch7 → p.257 -->
+
+## y1v3
+
+### y1v3 p.16, p.30–51 — Ch.2 §2.0–2.2: the leader tries to hold a class that won't hold still
+[scene] (p.16) Deck of the liner; he pulls Ayanokōji into the group the moment he appears.
+[rel:ayanokouji-kiyotaka] (p.16) Called over as rescue; Hirata himself is too busy — "Miyake-kun looks like he's having trouble" — and leaves for the cabins.
+[rel:karuizawa-kei] (p.16) Asked why he isn't with her: “We just kind of take things at our own pace.”
+[rel:horikita-suzune] (p.30) Reads the watch rule as safety kit, not control: "the school had gifted us these watches to keep us safe."
+[rel:ike-kanji] (p.31) Opened the rules huddle that Ike's complaints fracture into factions.
+[feat] (p.50–51) Breaks his own neutrality on the toilet: "I've thought it over, and I believe we should install one toilet first" — then beats Yukimura's objection with the arithmetic of thirty-plus students sharing one box.
+[trait] (p.51) The chapter's verdict on the method: "It wasn’t just to provoke arguments; he was convinced that he’d get their approval eventually."
+
+### y1v3 p.63–96 — Ch.2 §2.4–2.8: the river, the 120-point speech, and taking Ibuki in
+[scene] (p.63) Receives Ike's river report and moves the class toward a base camp.
+[rel:ike-kanji] (p.64) Praised the find — "Amazing, Ike-kun!" — then takes his name to Chabashira as leader-candidate filing errand-boy.
+[rel:horikita-suzune] (p.66) Files Horikita's name and hands her the card; orchestrates the fake collective touch to hide the leader.
+[rel:ike-kanji] (p.69) Breaks up the Ike–Shinohara round two and buys time: "Let’s try breaking apart for a bit. We still have some time."
+[rel:ike-kanji] (p.72) Asks Ayanokōji for branches, apologetically — "I can’t force you to agree" — because light is necessary whether or not points get spent.
+[feat] (p.89–90) The chapter's centrepiece speech: sets the realistic floor at 120 points left, walks the class through the meal maths (10-point sets, 12 meals, 120 points), then reframes endurance as upside — "If we can find drinking water for the week, we’ll save fifty points or more."
+[trait] (p.90) Ayanokōji's read: "Anyone else could have come up with this, but Hirata’s tone and presentation sold it. He’d performed flawlessly."
+[rel:ibuki-mio] (p.93–95) Takes the injured Class C girl in: "We can’t just leave someone in trouble. We all think so." — and turns the spy question on its head: "If you really were a spy, you wouldn’t want to be chased out, would you?"
+[rel:sakura-airi] (p.93) Leaves Sakura out of the Ibuki escort — Ayanokōji reads it as pretty-boy thoughtfulness.
+[rel:kushida-kikyou] (p.96) Distributes the evening meal while Kushida feeds Ibuki from her own group's portion.
+
+<!-- walk: y1v3 ch2 → p.99 -->

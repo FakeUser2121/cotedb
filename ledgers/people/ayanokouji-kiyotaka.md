@@ -1075,3 +1075,78 @@ walk: y1v1 → DONE
 [thinks] (p.256) He turns the analysis on himself: "I knew more about me than anyone else. I knew just how defective, just how foolish I was. I was a horrible human being."
 
 <!-- walk: y1v2 ch7 → p.257 -->
+
+## y1v3
+
+### y1v3 p.13–23 — Ch.2 §2.0: the cruise, the first-name fever, and the boundary
+[scene] (p.13) Deck of the luxury liner on the way to the school's private island; first-years of Class D around him after midterms and finals.
+[narrates] (p.13) The chapter is his first-person account: "The endless summer sea. The infinite blue skies. The perfectly clear air."
+[thinks] (p.14) Prices the trip honestly: on his own it "would probably have cost me about 100,000 yen, even in the off season."
+[action] (p.15) Shoved by a Class A boy ("Hey, you're in the way. Move it, you defects.") and catches the railing; Sudou answers back, Class D is chased from the bow.
+[trait] (p.15) Reads the hierarchy and swallows it: "Although the situation was unfair, we didn't need any unnecessary trouble, so it was best to ignore it."
+[thinks] (p.16) Notes Hirata's arrival as rescue: "I was saved by the appearance of my hero, Hirata Man."
+[thinks] (p.16) On Hirata and Karuizawa cooling off: "They seemed to get along well whenever I saw them talking."
+[voice] (p.18) Feeds Sudou's practice by inventing a wrong first name — "Tomiko. Horikita Tomiko." — then corrects it to Suzune; keeps the joke to himself.
+[limit] (p.22–23) Suspects Horikita's hiding ("a slight difference—something felt out of place") but drops it: "it would be silly to investigate further. Best just to drop it."
+[thinks] (p.23) The chapter's thesis, stated before he understands it: "I had yet to realize that this place was going to be the boundary between heaven and hell."
+
+### y1v3 p.24–46 — Ch.2 §2.1–2.2: the test is announced, and Class D splits three ways
+[scene] (p.24) Beach landing; Mashima-sensei announces the deserted-island special test from a white platform.
+[action] (p.30–31) Works the rules the way the chapter needs them read: the penalties page "will determine whether you live or die"; the watches are safety kit — "the school had gifted us these watches to keep us safe."
+[feat] (p.31) First to ask the question that sets the economy: "is it possible to get by without using any points?" — Chabashira answers that the school "isn't involved in the test process at all."
+[thinks] (p.32) Names the test's real shape: "Essentially, it was a contest of restraint."
+[action] (p.44) Stands apart from the toilet fight, watching Hirata get pulled apart: "I stood a short distance away, watching the situation unfold."
+[rel:horikita-suzune] (p.44–45) Sidles up to her read of the class; she admits she can't see a solution and he agrees — "I think the same. There's too much we don't know."
+[rel:hoshinomiya-chie] (p.38) Given the season-opening advice about confessing to a girl before the ocean; wishes she would leave his love life alone.
+
+### y1v3 p.47–52 — Ch.2 §2.2–2.3: he volunteers, and Horikita's isolation is priced
+[scene] (p.47) Walking from beach toward the forest with the tent party; Horikita trails the group alone.
+[rel:horikita-suzune] (p.47–48) Her depression out loud — "I can't be alone" — and his answer that this test is the one her academics can't win; he watches her realise Ike and Sudou moved faster than she could.
+[thinks] (p.49) His standing theory of her, filed as interpretation not fact: "Horikita had enrolled here to be at the same school as her older brother. She wasn't aiming for Class A for her own sake, but rather, sought her older brother's approval."
+[rel:horikita-suzune] (p.49) She blocks the probe — "It doesn't feel good to have someone pry into your past" — and he retreats cleanly.
+[trait] (p.52) Raises his hand for the search party for a stated system reason: "without a role to fill in the class, you'll get cut off."
+[rel:sakura-airi] (p.52) Paired by leftovers' logic with Sakura and Kouenji; notes the pairing works — "I'd be able to move without any difficulty."
+
+### y1v3 p.53–62 — Ch.2 §2.3: the forest team, and Class A's leader in the open
+[scene] (p.53) Forest path with Kouenji ahead and Sakura behind; damp heat, unstable footing.
+[rel:sakura-airi] (p.54–55) Talks to her because she is the only one left to talk to; she trips on roots and he pulls her up, brushing dirt from her hands.
+[feat] (p.57) Borrows Sakura's handkerchief and ties it to a branch as a trail marker — the chapter's first quiet competence beat.
+[feat] (p.58) Slows his own pace so Sakura won't feel like the problem: "That way, Sakura wouldn't feel like the problem. She probably saw through my ploy, but I didn't mind."
+[action] (p.59) Hides them both when a Class A boy leaves the cave; overhears Katsuragi name himself leader and the cave as a spot.
+[feat] (p.61–62) Works out the fatal leak on the spot — "They had clearly made their leader known to us" — and takes the report on himself so Sakura, who has poor communication skills, doesn't have to carry it.
+[rel:sakura-airi] (p.60–61) Holds her hand through the hiding without meaning to; she goes "almost comatose" and he checks on her twice.
+
+### y1v3 p.63–71 — Ch.2 §2.4–2.5: the river camp, the leader vote, and Horikita's favour
+[scene] (p.63) Back at the assembly point; Ike's group reports a river with a possession device ten minutes away.
+[rel:horikita-suzune] (p.64) Answer for both of them to her question about Kouenji — "I can't control that guy. You know that." — then deflects her glare when she asks what he said.
+[feat] (p.66) In the leader vote, reads the room instead of speaking: Kushida's nomination of Horikita is "the least risky choice, since she was so desperate to reach Class A."
+[rel:sudou-ken] (p.66) Personally relieved Sudou wasn't chosen: "I was relieved that someone like Sudou or Ike wasn't the leader."
+[rel:horikita-suzune] (p.70–71) She delegates the Ike problem to him — "I'm relying on you because I know I can't do it" — and he takes the timing as his own: "I'll talk to him, but leave the timing to me."
+[thinks] (p.71) Prices her isolation as the test's real subject: "An academically brilliant girl was less useful than a normal student in a situation like this." and "This week would test Horikita Suzune's limits, and show her at her worst."
+
+### y1v3 p.72–77 — Ch.2 §2.5–2.6: branches, Yamauchi's plan, and the bonfire
+[scene] (p.72) Evening at the river camp; Hirata asks him to gather branches for a bonfire.
+[action] (p.74) After Sudou and Yamauchi refuse, Sakura volunteers and he lets her; Yamauchi then reverses and joins.
+[rel:yamauchi-haruki] (p.76–77) Yamauchi confides the switch from Kushida to Sakura as a body-driven target plan; he refuses the ask — "I'd like to go back and start the bonfire while it's still early."
+[rel:sakura-airi] (p.76) Declines on her behalf rather than leaving her alone with "some guy who only wanted to get into her pants."
+[feat] (p.84–85) Diagnoses the failed fire when Yamauchi cannot — damp wood, branches too thick — and stays quiet so Ike can be the one to fix it.
+[rel:ike-kanji] (p.86) Explains the quiet help to Sakura: "building up Ike and displaying his usefulness will be more helpful to the class."
+
+### y1v3 p.78–86 — Ch.2 §2.6–2.7: Ibuki, and the decision not to leave her
+[scene] (p.78) Walking back with branches; a girl from another class sits against a tree with a red, swollen mark on her cheek.
+[action] (p.80) Stops Yamauchi from walking past her; the three of them agree to wait rather than leave an injured girl in the jungle.
+[rel:ibuki-mio] (p.82) Answers her "I'm from Class C. In other words, I'm your enemy" with "That wasn't any reason not to help."
+[feat] (p.82) Says the camp-location leak won't be a problem when she names the risk — the chapter never says why he is sure.
+[rel:ibuki-mio] (p.91) Introduces himself properly and holds the space while Hirata works the crowd: "Sorry. Can you wait a little longer? I'm going to talk to him about you."
+[rel:hirata-yousuke] (p.95) Watches Hirata take Ibuki in and wonders why he was the one left with her: "I wondered if Hirata had left me with her because he trusted me, or at least trusted me more than Yamauchi."
+
+### y1v3 p.87–98 — Ch.2 §2.8: the points speech, the river vote, and Kouenji's exit
+[scene] (p.87) Five o'clock; Kushida's group returns with fruit, the bonfire is up, and the class settles into its first night.
+[rel:ike-kanji] (p.88) Credits Ike, not himself, for the fire: "You should be thanking Ike, not me."
+[rel:hirata-yousuke] (p.90) Tries to raise the Ibuki report during the excitement and gets no opening: "I didn't have any chance to butt in."
+[rel:ibuki-mio] (p.91) Keeps his word to her while the class votes on river water.
+[rel:kushida-kikyou] (p.92) Raises his hand for the river last, with Horikita, after everyone else — the chapter frames it as compliance, not conviction.
+[feat] (p.93) Backs the fishing-rod plan as the cheap test it is: "the cost was so minimal that it couldn't really hurt us."
+[thinks] (p.98) On Kouenji's retirement: "Maybe he didn't care about reaching Class A. If it made his life easier, losing thirty points didn't matter at all."
+
+<!-- walk: y1v3 ch2 → p.99 -->

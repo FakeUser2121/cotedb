@@ -52,3 +52,15 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 [rule] (p.192) Her exclusion states the rule from the outside: "outsiders cannot participate" in a disciplinary settlement.
 
 <!-- walk: y1v2 ch6 → p.219 -->
+
+## y1v3
+
+
+### y1v3 p.36–38 — Ch.2 §2.1: the corridor ambush
+[scene] (p.36) Beach-side, during Class D's rules huddle; she tackles Chabashira from behind.
+[says] (p.36) “What, I can’t be friendly? I honestly wanted to see what you’d do.” / “Whenever I touch your hair, Sae-chan, it’s always so smooth!”
+[rel:chabashira-sae] (p.38) Gets the eavesdropping rebuke and the "fate" double-meaning ignored; leaves with a sad look when threatened with a behavioural report.
+[rel:ayanokouji-kiyotaka] (p.38) Spots him and opens the summer-love advice — "Summer is the season of love. If you want to confess your feelings to a girl you like, perhaps it’d be more effective while standing before the beautiful ocean?" — to his visible embarrassment.
+[says] (p.38) “You need to be more carefree!”
+
+<!-- walk: y1v3 ch2 → p.99 -->

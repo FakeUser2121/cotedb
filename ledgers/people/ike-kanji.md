@@ -269,3 +269,27 @@ aliases used for anchors: ike, kanji, ike-kun
 [note] (p.190) He has no line in the chapter; the discovery he made in Chapter 5 is now simply a fact the class can see in his gaze, and Sakura reads it before anyone speaks.
 
 <!-- walk: y1v2 ch6 → p.219 -->
+
+## y1v3
+
+### y1v3 p.13–17, p.67–70 — Ch.2 §2.0 & §2.4: the cruise loudmouth who turns out to be the useful one
+[scene] (p.13) Deck of the liner; he opens the chapter with both hands in the air.
+[says] (p.13) “Whoa! This is the beeeeeeesssssst!”
+[rel:sudou-ken] (p.13–14) Teased by Yamauchi about his low final score; Sudou howls it off — "With my skills, there was nothing to worry about."
+[rel:kushida-kikyou] (p.16–17) Declares the trip the occasion to confess; secures first-name permission — “Of course it’s okay for you to call me that. Should I call you Kanjikun, then?” — and cries the answer out to heaven.
+[rel:ike-kanji] (p.19) Substitutes for Ayanokōji as Sudou's practice-Horikita and gets choke-held for the gyaru performance.
+[rel:mashima-tomonari] (p.26–27) The complaint Mashima answers seriously — "We can’t all sleep together in just two tents!" — which Mashima treats as a student operating below the programme's level.
+[feat] (p.67–69) Drinks the river on demand when challenged — "Ah! Whew, that’s ice cold. It feels great! It’s damn good!" — and gets the girls' disgust instead of trust.
+[feat] (p.69–70) The camping background surfaces properly: family trips as a child; he can read a clean water source on sight; first-ever expressed regret — "I guess the stuff I said was probably a little unreasonable."
+
+### y1v3 p.85–92 — Ch.2 §2.7–2.8: the bonfire, the apology, and the river vote
+[scene] (p.85) Evening at camp; Yamauchi's matches have failed for the last time.
+[feat] (p.85–86) Takes over without being asked — dead leaves, thin twigs, then thicker branches — and the fire is up "in the blink of an eye."
+[rel:ike-kanji] (p.86) The bonfire doubles as a smoke signal: "If you can see the smoke, you’ll be able to find the campsite even if you get lost."
+[rel:shinohara-satsuki] (p.88) Walks the apology himself before she can: "I was pushy because I wanted to save points. I’m sorry." — and remembers the first awful family camping toilet to explain why he now gets the girls' side.
+[rel:shinohara-satsuki] (p.88) She answers in kind; Ayanokōji reads the pair as having "made up."
+[feat] (p.91–92) Runs the river-water vote as a free poll, not a whip; when Shinohara hesitates he offers Sudou's boiling plan as the on-ramp; nearly half the boys raise hands, then the girls, then everyone.
+[rel:hirata-yousuke] (p.92) Takes the formal camp job — "W-well, I guess if you ask, I gotta cooperate" — the class's only camping expertise on payroll.
+[rel:sakura-airi] (p.97) Ogles Sakura's body with Yamauchi blocking the view; the chapter keeps the leering and the competence in the same character without joining them.
+
+<!-- walk: y1v3 ch2 → p.99 -->

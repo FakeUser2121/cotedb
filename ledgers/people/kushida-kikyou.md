@@ -464,3 +464,17 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [note] (p.246) Horikita lists her hearing actions among those that "would be rewarded as well."
 
 <!-- walk: y1v2 ch7 → p.257 -->
+
+## y1v3
+
+### y1v3 p.14–20, p.66–96 — Ch.2: the first-name permission, the leader nomination, and the shared meal
+[scene] (p.13–14) Deck of the liner; the extraordinary view "had stolen her breath away."
+[rel:ike-kanji] (p.17) Grants Ike first-name permission and offers "Kanjikun" in return — the exchange that sets Ike's confession plan running.
+[rel:horikita-suzune] (p.18) Present when Sudou fumbles Horikita's first name as Tomiko; the correction to Suzune lands in front of the group.
+[rel:horikita-suzune] (p.66) Nominates Horikita as spot-leader in the circle — Hirata and Karuizawa "stand out too much," but responsibility is the criterion: "I think that Horikita-san meets that criteria."
+[rel:horikita-suzune] (p.66) Ayanokōji reads the nomination as the least-risk play: Horikita "was so desperate to reach Class A. That was crucial."
+[rel:ibuki-mio] (p.95–96) Walks over with a meal seat and water from her own group's ration — four people sharing three portions — while Ibuki protests "Are you guys stupid? You’re all being way too nice."
+[trait] (p.96) The chapter's last word on her: "Kushida, who wished for everyone’s happiness, had charity to spare."
+[rel:sakura-airi] (p.92) Raises her hand for river water once the vote is already tipping, which Ayanokōji suspects is influence rather than conviction.
+
+<!-- walk: y1v3 ch2 → p.99 -->

@@ -290,3 +290,20 @@ aliases used for anchors: sakura, airi, sakura-san
 [status] (p.240) The new footing is stated to her: if she suffers or feels lost she can talk to Ayanokōji, and she should consult Horikita and Kushida too.
 
 <!-- walk: y1v2 ch7 → p.257 -->
+
+## y1v3
+
+### y1v3 p.48, p.52–63, p.74–97 — Ch.2: the forest team, the blush, and the second volunteer shift
+[scene] (p.48) Walking from beach to forest; she is at the back, watching Ayanokōji's back — and looks away when he turns.
+[rel:ayanokouji-kiyotaka] (p.53–55) Leftover-paired with him and Kouenji; trips on roots and he pulls her up, brushing dirt from her hands — "S-sorry." / "You don’t need to apologize."
+[rel:ayanokouji-kiyotaka] (p.54) Flusters and hurries forward when he asks why she raised her hand: "Th-that’s not what I mean! It’s just that since there isn’t anyone I can talk to, that’s why…"
+[feat] (p.57) Lends her handkerchief for the trail marker without hesitation.
+[rel:ayanokouji-kiyotaka] (p.60–61) Goes "almost comatose" when he holds her hand through the Class A hide — "I thought I was going to die. My heart stopped…" — and adjusts her glasses as she recovers.
+[rel:kouenji-rokusuke] (p.56) Surprisingly harsh on him in the moment: "Kouenji-kun has been acting pretty funny from the start, so it’s okay."
+[rel:horikita-suzune] (p.63–64) Scared off by a single sharp look — "Were you looking at me just now?" — and runs to put distance between them.
+[rel:ayanokouji-kiyotaka] (p.74–75) Second volunteer shift, the branch run, after Sudou and Yamauchi refuse; "if I stay here, well…it’ll be…a little uncomfortable."
+[rel:ayanokouji-kiyotaka] (p.86) Asks whether he should have taken Ike's fire credit himself; his answer moves her — "like she was moved by my words."
+[rel:yamauchi-haruki] (p.96–97) Eats alone at the edge of the groups; the boys' attention lands on her body while the chapter keeps her out of the conversation entirely.
+[limit] (p.96) Yamauchi's map of the class: she and Horikita are the two girls "who are by themselves."
+
+<!-- walk: y1v3 ch2 → p.99 -->

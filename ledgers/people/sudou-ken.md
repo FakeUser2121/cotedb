@@ -377,3 +377,21 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [status] (p.247) The page marks the apology as his first penitent words, while insisting he is still himself: a person can’t change in one day.
 
 <!-- walk: y1v2 ch7 → p.257 -->
+
+## y1v3
+
+### y1v3 p.13–19 — Ch.2 §2.0: the cruise, the Class A shove, and the name practice
+[scene] (p.13) Deck of the liner; survives the joke about his expulsion-scoring final.
+[says] (p.14) “With my skills, there was nothing to worry about. Didn’t I tell you I’d prove myself, and it’d be easy?”
+[trait] (p.15–16) Answers a Class A shove with intimidation and is talked down by the situation, not by fear — "A fistfight didn’t break out, evidence that he was perhaps growing up."
+[rel:horikita-suzune] (p.17–19) Forces Ayanokōji into imaginary-Horikita practice so he can ask for her first name; the look "really creeped me out."
+[rel:ike-kanji] (p.19) Puts Ike in a chokehold for the gyaru performance.
+
+### y1v3 p.33, p.66–74 — Ch.2 §2.1–§2.5: the toilet, the leader card, and a first calm intervention
+[feat] (p.33) Opens the cardboard-toilet crisis by needing it before the explanation is finished.
+[rel:horikita-suzune] (p.66) Steps forward to take the leader role in her place — "You don’t want to do it though, right? Don’t make her do it. I can do it in her place." — and the offer is what triggers her acceptance.
+[rel:shinohara-satsuki] (p.68–69) Chides her in an unusually calm tone — "I know I’ve caused trouble for the class. That’s what I’m saying." — and offers the boiling compromise nobody expected from him.
+[trait] (p.69) Self-aware about his own record: "If you keep antagonizing people with trivial crap, eventually it’s gonna come back to bite you."
+[rel:ayanokouji-kiyotaka] (p.74) Refuses the branch run flatly and goes swimming instead.
+
+<!-- walk: y1v3 ch2 → p.99 -->

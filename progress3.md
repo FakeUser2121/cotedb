@@ -1049,3 +1049,14 @@ volume page rather than a stub. R18 wording fired once on the first build
 build is clean, the ratchet unchanged (R19 warn 82/82). Determinism hash
 across consecutive builds: `ffb110dbfa0c9e5b77d50c2a721af34c`. Quotes: 12
 non-says spans, 0 [says] lines (the chapter is narration), all corpus-exact.
+
+### y1v3 Chapter 2 reaches the site (site, 2026-10-31)
+
+Island-test chapter (pp.13–99) shipped: nine scene sections on the volume
+page, seven new people pages (Mashima, Katsuragi, Totsuka, Ibuki, Shinohara,
+Yukimura, Satō), twelve existing people pages extended. 169 pages, 34 assets,
+search index rebuilt. Eight non-says quote fixes and one wording rewrite
+("ledgers" → "pages") before the clean build. Ratchet unchanged (R19 warn
+82/82). Determinism hash across consecutive builds:
+`7a491addc20cdacda7c0c1e6579bcda6`. Quotes: 144 non-says spans, 20 [says]
+lines, all corpus-exact.

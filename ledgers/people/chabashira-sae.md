@@ -325,3 +325,19 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [note] (p.10–11) The boy is never named on these pages — only "a certain young boy" / "this boy". Identity left open; not assigned from context.
 
 <!-- walk: y1v3 ch1 → p.12 -->
+
+### y1v3 p.24–39 — Ch.2 §2.1: she runs the rules that sink the summer
+[scene] (p.24) Beach landing; she takes Class D's roll call in the same jersey as the students.
+[says] (p.26) “Keeping on like that would be shameful, Ike, so stop talking.” — and the world-widening follow-up: “There are workplaces where there aren’t any chairs in the office, and companies that decide salaries with dice rolls. The world is wider and deeper than you even know.”
+[says] (p.26–27) “In other words, you are ill-equipped to distinguish between what is reality and what isn’t.” / “In my opinion, you’re all equally worthless.”
+[rule] (p.31) Delivers the penalty list verbatim from the manual — thirty for health retirement, twenty for pollution, five per absent student at roll call, disqualification plus private-point forfeiture for inter-class violence.
+[rule] (p.34) Assembles the cardboard toilet in front of the class and demonstrates the polymer sheet — "five uses with one vinyl bag."
+[rule] (p.39) Explains the spot system: eight-hour rights of exclusive possession, one provisional bonus point per occupation, fifty-point penalty for using another class's spot.
+[rel:hoshinomiya-chie] (p.38) Brushes off the eavesdropping complaint and the "fate" line; threatens a behavioural report.
+[rel:ike-kanji] (p.30) Refuses the emergency-bear question on process grounds: "the test has already begun. I cannot answer any questions that might possibly influence your results."
+[role:teacher] (p.33) Confirms the school "isn’t involved in the test process at all" — survival is the test.
+
+### y1v3 p.97–98 — Ch.2 §2.8: she announces the retirement
+[rule] (p.97–98) Reads the class the cost of Kouenji's exit without inflection: "Kouenji complained about being in poor physical condition and returned to the ship. Of course, that means that you’ve had thirty points deducted. Those are the rules, so there’s nothing to be done."
+
+<!-- walk: y1v3 ch2 → p.99 -->

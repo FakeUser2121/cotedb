@@ -169,3 +169,17 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [note] (p.190) The Chapter 5 doubt he voiced — that Sakura looked a little like the idol — has been settled off the page; he gets no line here, only the glance.
 
 <!-- walk: y1v2 ch6 → p.219 -->
+
+## y1v3
+
+### y1v3 p.13–17, p.73–98 — Ch.2 §2.0–§2.8: the target-switch, the matches, and bringing Ibuki in
+[scene] (p.13) Deck of the liner; insults Sudou about his near-expulsion while Sudou laughs it off.
+[rel:ike-kanji] (p.16–17) Goes oddly quiet during Ike's Kushida campaign; never raises the subject again.
+[rel:sakura-airi] (p.73–77) Confides the plan in a whisper — "I think…I’m gonna go for Sakura" — framing her as the reachable backup after Kushida; asks Ayanokōji to leave him alone with her.
+[rel:ayanokouji-kiyotaka] (p.77) Gets refused and recovers instantly — "Jeez, you’re stiff. Well, fine."
+[feat] (p.83–84) Burns three matches and gets only smoke; runs off to ask the teacher and comes back to Ike's finished fire.
+[rel:ibuki-mio] (p.80–82) The one who won't walk past the swollen-cheeked Class C girl; insists the three of them wait until she moves.
+[rel:ibuki-mio] (p.93) Explains her situation to the class when Satō notices the interloper.
+[rel:sakura-airi] (p.96–97) Maps the girls' teams for the boys — "the Empress Team, led by Karuizawa… Kushida-chan’s Friendship Team… Shinohara’s Arrogant Team. Then you have Horikita and Sakura, who are by themselves" — and wants to eat with the last of them.
+
+<!-- walk: y1v3 ch2 → p.99 -->
