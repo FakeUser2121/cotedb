@@ -362,3 +362,29 @@ aliases used for anchors: sakura, airi, sakura-san
 [action] (p.141–142) Back at base camp for the report; the harvest team forms soon after and everyone is back by one o’clock.
 
 <!-- walk: y1v3 ch4 → p.143 -->
+
+### y1v3 p.171–178 — Ch.6 §6.1: speaking up
+[scene] (p.175) Cowering behind everyone, she speaks up for Ayanokōji when no other girl will — and becomes Karuizawa’s next target.
+[rel:ayanokouji-kiyotaka] (p.175) Speaks in his defense when the girls turn on him; the narration notes she dislikes being noticed more than anything.
+[says:sakura-airi] (p.175) “Um… I don’t think that A-Ayanokouji-kun would do such a thing…”
+[trait] (p.175) Fidgets bashfully with her back arched, cowering behind everyone — a bold act for her.
+[rel:karuizawa-kei] (p.176) Karuizawa changes her target to her the instant she speaks, lashing out as if sinking her teeth into prey.
+[says:sakura-airi] (p.176) “Well…that’s because…he isn’t that kind of person.”
+[says:sakura-airi] (p.176) “Y-you’re wrong!”
+[action] (p.176) Runs off into the forest under the teasing; Kushida chases after her.
+[rel:kushida-kikyou] (p.176) Chases after her into the woods, judging it dangerous to go alone.
+
+### y1v3 p.194–199 — Ch.6 §6.4: the forest search
+[scene] (p.194) On the last forage with Yamauchi watching her, she trails the pair that heads off with Horikita.
+[says:sakura-airi] (p.194) “Eh? O-oh, it’s okay. I’m fine.”
+[action] (p.194) Leans forward to avoid Yamauchi’s gaze.
+[rel:yamauchi-haruki] (p.194) He looks for excuses to talk to her while staring at her chest.
+[action] (p.197) Trails behind Horikita and Ayanokōji with her shoulders slumped as the pairs form.
+
+### y1v3 p.201–202 — Ch.6 §6.5: waiting for the shower
+[scene] (p.201) Refuses the river behind Ibuki’s lead and keeps her place in the shower line.
+[says] (p.201) “W-well, I will, too…”
+[action] (p.202) Stays in the line rather than swim — she does not want the boys to see her in a swimsuit.
+[rel:ibuki-mio] (p.202) Takes her refusal from Ibuki; the two wait in line together behind Karuizawa’s group.
+
+<!-- walk: y1v3 ch6 → p.239 -->

@@ -22,3 +22,45 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [rel:yamauchi-haruki] (p.96) Head of the "Arrogant Team" in Yamauchi's map of the girls' groups.
 
 <!-- walk: y1v3 ch2 → p.99 -->
+
+### y1v3 p.159–170 — Ch.6: the accusation
+[scene] (p.159) Rouses the boys at dawn to announce that Karuizawa’s underwear is missing and presses the class to search the boys’ luggage.
+[says:shinohara-satsuki] (p.159) “Hey, boys. Can you all gather around?”
+[says:shinohara-satsuki] (p.159) “Sorry, Hirata-kun. This doesn’t involve you, but…we’ve gathered everyone to confirm something.”
+[trait] (p.159) Gives everyone except Hirata a look of complete contempt.
+[says:shinohara-satsuki] (p.159) “Well, this morning…Karuizawa-san’s underwear went missing. Do you know what this means?”
+[says:shinohara-satsuki] (p.160) “Karuizawa-san is crying inside the tent right now. Kushida-san and others are comforting her right now, but…”
+[says:shinohara-satsuki] (p.160) “Isn’t that obvious? Someone went through her bag in the middle of the night and stole them. Our luggage was outside the tent, so if someone wanted to steal something, they easily could have!”
+[says:shinohara-satsuki] (p.160) “Anyway. This is a huge problem, don’t you agree? It’s impossible for us to camp alongside a bunch of underwear thieves,”
+[says:shinohara-satsuki] (p.160) “Hirata-kun, can you find the culprit?”
+[says:shinohara-satsuki] (p.160) “I know that you’re not the culprit, Hirata-kun. But for the time being, let’s check the boys’ luggage.”
+[rel:hirata-yousuke] (p.161) The one boy exempt from her contempt; his word buys the others time.
+[says:shinohara-satsuki] (p.161) “If you say so, Hirata-kun. I understand. I’ll try talking to Karuizawasan. But if the culprit can’t be found, we have some ideas.”
+[note] (p.161) The printed line runs Karuizawa’s name together as “Karuizawasan” — kept as printed.
+[says:shinohara-satsuki] (p.165) “Hey, Hirata-kun. Could they have hidden it in their pockets? Ike-kun and Yamauchi-kun, and even Ayanokouji-kun were whispering a little earlier. It’s got me curious.”
+[says:shinohara-satsuki] (p.165) “Let’s search him. Hirata-kun, can you do it?”
+[says:hirata-yousuke] (p.165) “Okay. If it convinces the girls, fine. However, if I don’t find anything, I want you to stop investigating the boys.”
+[says:shinohara-satsuki] (p.166) “That’s weird… I thought for sure it was one of them. But if you say so, Hirata-kun…”
+[status] (p.166) Accepts Hirata’s report and stands down the search of the boys.
+
+### y1v3 p.171–178 — Ch.6 §6.1: the dividing line
+[scene] (p.171) Draws the line between boys and girls with a tree branch and evicts the boys from her side of the camp.
+[says:shinohara-satsuki] (p.171) “We think the culprit is a boy, so we’re drawing a dividing line between boys and girls. Boys are absolutely prohibited from entering our side.”
+[says:shinohara-satsuki] (p.171) “It might not have been hidden in a bag, though. Men are perverts. Anyway, don’t enter the girls’ territory until the culprit has been found. Go over there.”
+[says:shinohara-satsuki] (p.171) “Oh, and you aren’t allowed to use the shower anymore. We’re not … joking. We’re not about to let a perverted thief use it.”
+[action] (p.171) Demands the boys move their tent and bans them from the shower.
+[rel:karuizawa-kei] (p.171) The victim at her side; together they hold the meeting until Horikita’s objection breaks it.
+[says:shinohara-satsuki] (p.172) “Heh. Can you guys even drive in the tent stakes?”
+[note] (p.172) The translation leaves the taunt untagged; the narration then has her look to Hirata for help.
+[says:shinohara-satsuki] (p.172) “Hey, Hirata-kun. Can you help us, for Karuizawa-san’s sake?”
+[says:shinohara-satsuki] (p.172) “Thank you, Hirata-kun. Aren’t you glad, Karuizawa-san?”
+[says:shinohara-satsuki] (p.178) “Knock it off, you guys. The boys are without a doubt the prime suspects.”
+[says:shinohara-satsuki] (p.178) “Until the culprit is found, we definitely can’t trust the boys. Right, Karuizawa-san?”
+[rel:karuizawa-kei] (p.178) She asks Karuizawa to confirm that the boys stay distrusted, and Karuizawa answers her.
+
+### y1v3 p.182, p.191–239 — Ch.6: after her part ends
+[scene] (p.182) The chapter keeps going without her: after §6.1 she appears only in Ibuki’s recollection of the morning’s accusations.
+[note] (p.182) Ibuki had seen her and the others treat Ayanokōji like a criminal — named, but not present in any later scene.
+[note] (p.239) The rest of the chapter carries no scenes for her; her last rows stand at p.178.
+
+<!-- walk: y1v3 ch6 → p.239 -->

@@ -823,3 +823,248 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (p.152–153) The call that opens the exchange and the sign-off at the end are untagged between the three of them; both are left with the chapter’s gaps.
 
 <!-- walk: y1v3 ch5 → p.158 -->
+
+### y1v3 p.171–178 — Ch.6 §6.1: the objection
+[scene] (p.172) Breaks the girls’ unanimity by objecting to Karuizawa, distrusting Hirata as much as the other boys.
+[says:horikita-suzune] (p.172) “Wait a minute. I’d like to raise an objection—especially against you, Karuizawa-san.”
+[says:horikita-suzune] (p.172) “I don’t particularly mind dividing up the living areas for men and women. As long as the culprit hasn’t been found, it is certainly a good idea to keep our distance from the men, considering the likelihood that the culprit is among them. However, I don’t trust Hirata-kun. I cannot dismiss the possibility that he might be the underwear thief. Also, I’m unconvinced that he should be excluded from the ban on men.”
+[note] (p.173) “That’s just your personal belief, isn’t it? Don’t force your way of thinking on me.” is left untagged in the translation; it sits between Karuizawa’s two lines about Hirata and is placed here as her reply.
+[says:horikita-suzune] (p.173) “Don’t make me repeat myself. Nothing you can say will convince me.”
+[note] (p.173) “I won’t speak impulsively. Simply put, I would be fine if you increased the number by one more guy. If you did, they’d be effective in watching each other’s backs.” is left untagged in the translation; placed here as her answer.
+[says:horikita-suzune] (p.173) “Might this be happening due to your naïve handling of crisis management? Maybe there is an ulterior motive for stealing the underwear that we don’t yet understand.”
+[says:horikita-suzune] (p.173) “I don’t care that your underwear was stolen. That kind of thing happens every day, and there’s nothing you can really do about it. It’s likely someone here bears a grudge against you.”
+[inference] (p.173) She is considering that the culprit’s goal was not the underwear itself but humiliating Karuizawa.
+[trait] (p.173) Socializing is her weak point: smart, but with difficulty relating to other people.
+[rel:karuizawa-kei] (p.173) The public clash: Karuizawa calls her clueless about boyfriends, and she calls the crisis management naïve.
+[says:horikita-suzune] (p.174) “I agree with you. Considering how these three behave on a daily basis, they are completely untrustworthy. I’ve thought it over very carefully, and I intend to choose someone who can’t be the culprit.”
+[says:horikita-suzune] (p.174) “You. Ayanokouji-kun.”
+[rel:ayanokouji-kiyotaka] (p.174) Nominates him as the one other boy the girls can trust, over Karuizawa’s objections.
+[says:horikita-suzune] (p.176) “Is it okay for us to continue the discussion now? This farce is a waste of time.”
+[trait] (p.176) Silently watches Karuizawa’s excoriation of Sakura, then sighs and brushes a hand through her hair as if she’d observed something completely boring.
+[says:horikita-suzune] (p.177) “You’re naïve, Karuizawa-san.”
+[says:horikita-suzune] (p.177) “It’s certainly true that Ayanokouji-kun has many unlikable qualities,”
+[says:horikita-suzune] (p.177) “But we need to ask if Hirata-kun can trust Ayanokouji-kun. It would only be awkward and uncomfortable if you endorsed someone meaningless to Hirata-kun. The truth is, there is not one thing that I trust about him, but I have no intention of inserting my own personal feelings into the matter. By process of elimination, I’ve concluded that he is the most trustworthy boy in the class. Or is another boy in our class preferable? If there is, I’d like for you to tell me.”
+[trait] (p.177) The other girls treat her poorly; both sides ignore each other, and living together now makes a clash of tempers inevitable.
+
+### y1v3 p.184–189 — Ch.6 §6.3: points and the fever
+[scene] (p.184) Pulls Ayanokōji into the girls’ tent to show what the class has been spending, then proposes a partnership against the split.
+[says:horikita-suzune] (p.184) “It must be really tough, being forced to do routine chores,”
+[says:horikita-suzune] (p.184) “There was no other way. Hirata-kun can’t be trusted, and I needed insurance.”
+[says:horikita-suzune] (p.184) “I suppose that’s true. I’m certainly not two-faced.”
+[says:horikita-suzune] (p.184) “However, most create a distinction between their public persona and how they really are on the inside. You do it, too. I do not trust anyone because good intentions and hypocrisy are two sides of the same coin.”
+[note] (p.184) The narration reads her distrust as referring to Kushida as well, not only Hirata.
+[says:horikita-suzune] (p.185) “At any rate, you seem to trust Hirata-kun very much,”
+[says:horikita-suzune] (p.185) “Count on him? Can you say that he’s had a positive effect on the class just by being around?”
+[says:horikita-suzune] (p.185) “Exactly. Trustworthy Hirata-kun has kept his mouth shut about it.”
+[says:horikita-suzune] (p.186) “The tent on the other side has the exact same things in it, too. A total of twelve points.”
+[number] (p.186) The girls’ comfort items — floor mat, air pillows, battery-powered fan — cost a total of twelve points.
+[says:horikita-suzune] (p.186) “Karuizawa-san and the others asked for these.”
+[says:horikita-suzune] (p.186) “I only found out after they’d already ordered everything. It’s difficult to do anything when the rules say anyone may buy an item and spend points.”
+[says:horikita-suzune] (p.186) “Karuizawa-san reported this to Hirata-kun, so he definitely knew about it. But you didn’t know, nor did he inform anyone else. I think he absolutely should have shared this information.”
+[says:horikita-suzune] (p.186) “If things stay as they are and nothing happens, people will probably stay quiet. But things could get bad if the case of the stolen underwear isn’t resolved. If the culprit is nearby, he or she might be trying to hinder us. That’s why I want to find the culprit as soon as possible.”
+[says:horikita-suzune] (p.187) “Yes. Now that there’s a divide between us and the boys, there are many things I can’t do by myself.”
+[rel:ayanokouji-kiyotaka] (p.187) Asks him to work with her now that the boys and the girls are cut off from each other.
+[says:horikita-suzune] (p.187) “I’m trying to understand you… Do you have some other intention?”
+[says:horikita-suzune] (p.187) “Well, whatever. It’s settled then.”
+[says:horikita-suzune] (p.187) “You have such a serious look on your face. Do you really hate being treated like a criminal that much?”
+[says:horikita-suzune] (p.187) “Our cooperation was a complete coincidence. Class D didn’t really have any sense of teamwork to begin with. It’s ending rather badly, though, especially because of the broken trust between the guys and girls. Of course it would’ve been better to stay united until the end of the test.”
+[says:horikita-suzune] (p.187) “Let’s not get ahead of ourselves… Sorry, but I’m going back into the tent.”
+[says:horikita-suzune] (p.187) “Confessed? Confessed what?”
+[says:horikita-suzune] (p.188) “Not really any more than usual.”
+[says:horikita-suzune] (p.188) “When…did you notice?”
+[says:horikita-suzune] (p.188) “Yeah, and I told you I’d been reading in my room.”
+[says:horikita-suzune] (p.188) “And on what evidence do you base that conclusion?”
+[status] (p.188) A fever close to 38°C, hidden since the ship; reporting illness would hit the class with a bigger penalty.
+[says:horikita-suzune] (p.188) “I just need to hang in there for another few days. If I give up now, it’ll … all be for nothing. Goodnight.”
+[trait] (p.189) She intends to soldier through to the bitter end — an iron will.
+
+### y1v3 p.191–199 — Ch.6 §6.4: search in pairs
+[scene] (p.192) Overhears Kushida’s excuse for being left behind, then takes the lead on the last forage.
+[says:horikita-suzune] (p.192) “Why were you left behind? What about your usual group of friends?”
+[says:horikita-suzune] (p.193) “Even if she’s not feeling well, it’s a natural physiological phenomenon. She should be fine. I suppose that’s to be expected, though. However, why did you deliberately choose our group? You must have had other options available.”
+[rel:kushida-kikyou] (p.193) Grills her for choosing this group — she detests Kushida, and Kushida knows it.
+[says:horikita-suzune] (p.193) “I don’t have enough free time to spend it with you unnecessarily.”
+[says:horikita-suzune] (p.196) “You got too close. Remember to stay out of my personal space.”
+[action] (p.196) Slaps Yamauchi when he peers into her face from a centimetre away.
+[says:horikita-suzune] (p.197) “For the time being, let’s begin with the area,”
+[says:horikita-suzune] (p.197) “How long do you want to travel? We need to search for food, right?”
+[says:horikita-suzune] (p.197) “Don’t make any moves alone. Search in pairs. Be especially careful. Let’s go, Ayanokouji-kun.”
+[says:horikita-suzune] (p.198) “I always have it on me.”
+[says:horikita-suzune] (p.198) “When we update the device, I’ll slip in among the students Hirata-kun’s gathered so I can be undetected. Ibuki-san and the other students aren’t supposed to know.”
+[rel:ayanokouji-kiyotaka] (p.198) Hands over her leader card for him to inspect away from base camp.
+[says:horikita-suzune] (p.198) “Maybe, but what do you plan to do after I show you?”
+[says:horikita-suzune] (p.198) “Er, right. If you have proof, that would be a huge achievement.”
+[says:horikita-suzune] (p.198) “Well? Is this the same card that Katsuragi-kun had?”
+[says:horikita-suzune] (p.199) “The keycards might have a different color scheme based on the class.”
+[says:horikita-suzune] (p.199) “Yeah, but we don’t have enough evidence to make a solid judgment. If we make a mistake, we won’t recover from it.”
+[action] (p.199) Snatches the dropped card from the mud, then keeps her distance from him in fury.
+
+### y1v3 p.200–202 — Ch.6 §6.5: thrown, then washed
+[scene] (p.200) Ill and distracted, she does not see Yamauchi coming until mud goes over her hair — she throws him without a word.
+[says:yamauchi-haruki] (p.200) “Ha ha ha ha! You’re all covered in mud, Horikita! Hilarious!”
+[action] (p.200) Grabs his pointing arm and throws him the moment he laughs.
+[rel:yamauchi-haruki] (p.201) Takes his lifetime-grudge line for the mud; he cowers behind Ayanokōji.
+[says] (p.201) “I’m going to hold a grudge against you for the rest of my life. You’d best prepare yourself.”
+[says] (p.201) “Yeah… This situation is rather painful.”
+[says] (p.201) “Right. Looks like I don’t have any other choice.”
+[action] (p.201) With the shower line blocked by Karuizawa’s group, she takes the river instead.
+[action] (p.202) Washes the mud off in the cold river while sick, then appears in a swimsuit with Kushida.
+
+### y1v3 p.203–205 — Ch.6 §6.6: the confession
+[scene] (p.203) She draws Ayanokōji into the forest and tells him the key card was stolen.
+[says] (p.203) “Ayanokouji-kun. Could you please come here for a moment?”
+[says] (p.203) “Follow me. We can’t talk here.”
+[says] (p.203) “This happened because of my carelessness. I am aware that I made a mistake. Okay?”
+[says:ayanokouji-kiyotaka] (p.203) “A mistake?”
+[says] (p.203) “It was stolen.”
+[says:ayanokouji-kiyotaka] (p.203) “W-wait, your underwear was stolen, too?”
+[says] (p.203) “No. This is much, much worse. The…key card. A complete blunder on my part.”
+[says] (p.203) “I wanted to talk to you because I trust you. I absolutely couldn’t consult with someone who might be the culprit. This is so humiliating. I want… to die…”
+[says] (p.204) “Such a huge failure.”
+[says:ayanokouji-kiyotaka] (p.204) “No, the one who stole it is to blame. Right?”
+[says] (p.204) “Even so, this is an issue of responsibility. It has nothing to do with me being sick or covered in mud.”
+[says] (p.204) “I wasn’t supposed to let go of the card for a single second. But I…”
+[says:ayanokouji-kiyotaka] (p.204) “Don’t blame yourself. I doubt this’ll be any consolation, but I think you did your absolute best.”
+[says:ayanokouji-kiyotaka] (p.204) “It’s probably better if we don’t make this information public. We should get to the truth first.”
+[says] (p.204) “Yes. I think so, too.”
+[says] (p.204) “I suspect two people. Either Karuizawa-san, or Ibuki-san.”
+[says:ayanokouji-kiyotaka] (p.204) “Unfortunately, the chances of that are low. Karuizawa was in front of the shower the whole time.”
+[says] (p.204) “You’re sure about that?”
+[says:ayanokouji-kiyotaka] (p.204) “Yeah. Same goes for her flunkies, too.”
+[says] (p.204) “If that’s the case, it’s highly likely Ibuki-san is the culprit. It’s possible she came to know about the card this morning, and the timing is just far too good.”
+[says:ayanokouji-kiyotaka] (p.205) “If we examine the timing and talk with Ibuki, we can understand what happened. If we suspect Ibuki, we shouldn’t take our eyes off of her. Her escape would probably be the worst-case scenario, right?”
+[says] (p.205) “That’s right. I’m sorry, but can you go back to camp first? That way you can start following her immediately.”
+[says:ayanokouji-kiyotaka] (p.205) “Sure. I understand. I’ll keep an eye on her.”
+[action] (p.205) Sent back to camp alone, likely wanting room to be sick by herself.
+
+### y1v3 p.206–208 — Ch.6 §6.7: the fire from her side
+[scene] (p.206) Returns to a smoke-filled camp and turns the fire straight onto Ibuki.
+[says] (p.206) “I can’t see Ibuki. The fire might have been her handiwork. Where is she?”
+[rel:ibuki-mio] (p.206) Ready to call out to Ibuki at the fire, but hesitates when she sees her genuine confusion.
+[says] (p.206) “Did the manual get burned?”
+[says] (p.206) “It’s just one thing after another…”
+[action] (p.212) Gone from the camp by the time the luggage is secured — she has set out after Ibuki.
+
+### y1v3 p.213–220 — Ch.6 §6.8: the pursuit
+[scene] (p.213) Her viewpoint: she chases Ibuki’s footprints through the downpour, sick and alone, until Ibuki waits for her as if expecting her.
+[says:ibuki-mio] (p.213) “What are you doing, Horikita?”
+[says] (p.213) “When did you notice me?”
+[says:ibuki-mio] (p.213) “Right from the start.”
+[says:ibuki-mio] (p.213) “Why were you following me?”
+[says] (p.213) “Do you really not know?”
+[says:ibuki-mio] (p.213) “No, I don’t know.”
+[says] (p.213) “You clearly know why I was following you, don’t you?”
+[says:ibuki-mio] (p.213) “I really have no idea what you’re talking about.”
+[says:ibuki-mio] (p.213) “Why should I lie?”
+[says:ibuki-mio] (p.213) “I’d at least like to hear why you followed me, from your own lips.”
+[says] (p.214) “The underwear theft and the fire. Misfortune continues to befall Class D.”
+[says:ibuki-mio] (p.214) “So what?”
+[says] (p.214) “Do you realize that some people suspect you?”
+[says:ibuki-mio] (p.214) “Ah. I suppose since I’m an outsider, there’s not much I can do about that.”
+[says] (p.214) “That’s what I’m talking about.”
+[says:ibuki-mio] (p.214) “You’re saying I’m the culprit? Do you have any proof?”
+[says] (p.214) “Unfortunately, I don’t have a single shred of evidence related to the underwear theft. But I think it was you.”
+[says:ibuki-mio] (p.214) “That’s a pretty terrible thing to say. You don’t have any evidence, yet you suspect me?”
+[says] (p.214) “I suspect you because of today. You don’t need me to explain that, do you?”
+[says] (p.214) “Let me cut to the chase. I want you to return something you took from me,”
+[says:ibuki-mio] (p.214) “I don’t know what you’re talking about.”
+[says] (p.214) “Where are you going?”
+[says:ibuki-mio] (p.214) “Who knows?”
+[thinks] (p.215) “I have to make up for my mistake. I have to make up for my mistake.”
+[thinks] (p.215) “I can handle it well. I can do it. I can do it.”
+[limit] (p.216) The fever peaks in the downpour; she can no longer hold her head up.
+[says] (p.216) “Ibuki-san. I’m going to investigate you with everything I’ve got. You don’t mind?”
+[says:ibuki-mio] (p.216) “With everything you’ve got? Could you be a bit more specific? You mean you’re going to resort to violence?”
+[says] (p.216) “This is your last warning. Return it…”
+[back] (p.216) She recalls condemning Sudou after his Class C trial — and abandoning him — now that she is considering the same violence.
+[says:ibuki-mio] (p.217) “Oh, you’re good,”
+[says] (p.217) “An act of violence means immediate disqualification…”
+[says:ibuki-mio] (p.217) “Someone might see us here, you mean? Weren’t you willing to use violence, too?”
+[action] (p.217) Thrown into the mud; she slips Ibuki’s grip, rolls away, and rises — the first real thanks her martial arts practice gets her.
+[says:ibuki-mio] (p.217) “Oh? You can really move, surprisingly. You practice or something?”
+[says] (p.217) “I’ve…been nothing but a complete and utter failure in this test.”
+[thinks] (p.217) “I mocked people. I hated useless things, labeling them incompetent, while I was useless myself.”
+[says] (p.217) “It was you, wasn’t it? You stole the keycard.”
+[feat] (p.218) Meets Ibuki’s trained footwork in a back-and-forth exchange — no hesitation on either side to hurt.
+[says:ibuki-mio] (p.218) “You’ve been trying really hard until now. I’ll tell you the truth, as a reward. I stole the card.”
+[action] (p.218) Watches Ibuki draw the card out and show the engraved name.
+[says] (p.218) “You gave up the truth pretty easily.”
+[says:ibuki-mio] (p.218) “It doesn’t matter if I admit it or not now. There’s no evidence I used violence against you. It’s not as though the school can make a judgment here. Isn’t that right?”
+[status] (p.218) The card is back in Ibuki’s pocket; fingerprints on it are her only argument for recovering it.
+[feat] (p.219) Drives her left fist into Ibuki’s solar plexus with her last strength — it pins her but does not knock her down.
+[says] (p.219) “This is the worst… I’m already… At my limit…”
+[says:ibuki-mio] (p.219) “I don’t understand… I thought you were involved.”
+[says] (p.219) “Involved? In what?”
+[says:ibuki-mio] (p.219) “I didn’t burn the manual.”
+[says] (p.219) “You intend to keep lying even now?”
+[says:ibuki-mio] (p.219) “What would I gain by burning it? It was inevitable that people would begin searching for the criminal after the uproar. Besides, people would suspect me rather strongly. There was nothing to gain and a lot to lose.”
+[says:ibuki-mio] (p.220) “Do you think he’s in Class D? There’s a guy who figured me out before you did.”
+[note] (p.220) Ibuki leaves the man’s name out; the page names no one.
+[says] (p.220) “So. You can’t mean…”
+[says:ibuki-mio] (p.220) “This conversation is over.”
+[action] (p.220) Knocked out cold by a blunt strike to the head as the talk “ends”.
+[says] (p.220) “Do you think they’ll permit such coercive methods?”
+[says:ibuki-mio] (p.220) “Come on, now. I don’t feel like answering that.”
+[thinks] (p.220) “By attempting to fix that mistake myself, I ended up turning it into a situation that couldn’t be fixed.”
+
+### y1v3 p.229–235 — Ch.6 §6.10: in his arms
+[scene] (p.229) Wakes in his arms under the tree, fever high, and pieces the day together before choosing to go on alone.
+[says:ayanokouji-kiyotaka] (p.229) “Are you awake?”
+[says] (p.229) “Ayano…kouji-kun?”
+[says:ayanokouji-kiyotaka] (p.229) “You have a high fever. Don’t push yourself.”
+[says] (p.229) “I knew it…Ibuki-san stole my card.”
+[says:ayanokouji-kiyotaka] (p.229) “This isn’t a test where you can just hide for twenty-four hours a day, right? No matter what you do, you can be open to attack.”
+[says] (p.229) “I could’ve avoided this if I knew how to rely on someone…”
+[says] (p.229) “When I was losing consciousness, I felt like I could hear Ryuuen’s voice… It’s strange, I thought he’d already retired…”
+[rel:ryuuen-kakeru] (p.229) Half-convinced she heard his voice while unconscious, though she took him for retired.
+[says:ayanokouji-kiyotaka] (p.229) “You were losing consciousness. Maybe you had a dream?”
+[says] (p.229) “If it was a dream, it was a nightmare…”
+[says] (p.230) “I’m sorry…”
+[says:ayanokouji-kiyotaka] (p.230) “Why are you apologizing to me?”
+[says] (p.230) “There’s no one I can apologize to except for you…”
+[says:ayanokouji-kiyotaka] (p.230) “If you think things are bad, then make some reliable friends. Start there first.”
+[says] (p.230) “That’s difficult advice… No one would want to be with me.”
+[says] (p.230) “It’s unpleasant to be made fun of, though…”
+[says:ayanokouji-kiyotaka] (p.230) “It’s just that you’ve started to sound like you need allies.”
+[says] (p.230) “Nobody would say that…”
+[says] (p.230) “I should have understood this a long time ago…”
+[says:ayanokouji-kiyotaka] (p.230) “Don’t talk. You’re sick.”
+[says] (p.231) “I’m going to try to get up to Class A using my own abilities. I’ll definitely recover from this failure…”
+[says] (p.231) “I’m prepared to be hated by everyone else… This was all my mistake.”
+[goal] (p.231) States her goal out loud: Class A on her own abilities, for her brother to acknowledge her.
+[says:ayanokouji-kiyotaka] (p.231) “According to this school’s system, if you fight by yourself, you won’t reach Class A. We need to cooperate with our classmates. It’s unavoidable.”
+[says] (p.231) “I can’t accept that. No matter how hard it is, I’m still…alone.”
+[says:ayanokouji-kiyotaka] (p.231) “Ah, shut up already! Stop talking. Right now, you won’t be able to convince anyone.”
+[says:ayanokouji-kiyotaka] (p.231) “You can’t bear every responsibility. You’re not that strong, unfortunately.”
+[says] (p.231) “So you’re telling me to give up? I have a dream to reach Class A, a dream for my brother to acknowledge me.”
+[says:ayanokouji-kiyotaka] (p.231) “No one said you have to give up.”
+[says:ayanokouji-kiyotaka] (p.231) “If you can’t fight by yourself, it’s better to fight with a partner. I’ll lend you a hand.”
+[says] (p.231) “Why? You’re not the kind of person who would say such things…”
+[says:ayanokouji-kiyotaka] (p.231) “Well, why then? I wonder.”
+[voice] (p.231) Grabs his sleeve while she appeals — her grip is weak but he still feels it.
+[says] (p.233) “I can’t do that. We can’t afford to lose thirty points because of me… I was the one who confronted Karuizawa-san and the others about using points, right? It would make me look like such an idiot…”
+[says] (p.233) “Not just that… The keycard was stolen from me, too. You understand what that means?”
+[says] (p.233) “Just leave me here and head back. If you do, I’ll be the only one absent from roll call.”
+[says] (p.233) “What are you planning to do?”
+[says] (p.233) “By tomorrow morning, I’ll…try to return by myself, somehow. If I can deal with my poor health during roll call, then I’ll do something about retirement.”
+[says] (p.233) “Still, there’s nothing else I can do…”
+[action] (p.233) Covers her eyes with her arm to hide the tears while he works out the points.
+[says] (p.234) “Yes. That’s the correct decision. Everything was my responsibility.”
+[says:ayanokouji-kiyotaka] (p.234) “Can you really make it back alone by tomorrow morning?”
+[says] (p.234) “Yeah… I’ll be fine.”
+[says:ayanokouji-kiyotaka] (p.234) “Horikita. Do you really think that not retiring is the right decision?”
+[says] (p.234) “Of course I do. Retiring isn’t an option for me.”
+[says:ayanokouji-kiyotaka] (p.234) “Hey. Why do you think that we’ve been backed into such a corner?”
+[says] (p.234) “I failed due to my negligence. That’s all.”
+[says:ayanokouji-kiyotaka] (p.234) “You’re wrong. You’re completely wrong.”
+[says] (p.234) “Go… Because I think of you as my friend, please listen to my request…”
+[note] (p.234) She calls him a friend, then covers her mouth in surprise at her own words.
+[says] (p.235) “I’m going to make this right… As if it didn’t happen at all.”
+[says:ayanokouji-kiyotaka] (p.235) “No, this is the wrong choice.”
+[note] (p.235) The reply is untagged in the translation; it answers her plan to go on alone, so it is recorded as his.
+[says] (p.235) “It’s fine. I can… By myself… Ugh…”
+[says] (p.235) “Go, please…”
+[action] (p.235) Loses consciousness again while he holds her.
+[status] (p.237) Carried unconscious to the ship and retires with a high fever at 7:58, minutes before roll call.
+
+<!-- walk: y1v3 ch6 → p.239 -->

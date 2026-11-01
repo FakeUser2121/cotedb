@@ -73,3 +73,51 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:yamauchi-haruki] (p.96) Head of the "Empress Team" in Yamauchi's map of the girls' groups.
 
 <!-- walk: y1v3 ch2 → p.99 -->
+
+### y1v3 p.159–170 — Ch.6: the missing underwear
+[scene] (p.160) Reported crying inside the girls’ tent while her missing underwear turns the camp against the boys.
+[status] (p.160) Inside the tent with Kushida and the other girls comforting her, as Shinohara reports it.
+[note] (p.168) Ayanokōji notes that her side’s luggage was piled up out front unprotected, exactly like the boys’.
+
+### y1v3 p.171–178 — Ch.6 §6.1: victim and enforcer
+[scene] (p.171) Trembling with anger and eyes puffy from crying, she rejects living alongside the boys and rules Hirata the only one she trusts.
+[says:karuizawa-kei] (p.171) “We can’t trust the guys. It’s absolutely impossible for us to stay in the same place as them!”
+[says:karuizawa-kei] (p.171) “You might be right. But we can’t stand being in the same place as underwear thieves!”
+[rel:shinohara-satsuki] (p.171) Shinohara draws the dividing line at her side; together they hold the meeting until Horikita’s objection.
+[rel:hirata-yousuke] (p.171) His plea for unity fails against her refusal to stay with the boys.
+[says:karuizawa-kei] (p.172) “Yeah, Hirata-kun is the only one we can trust.”
+[rel:hirata-yousuke] (p.172) The only boy she trusts; she blushes when he agrees to help her side.
+[says:karuizawa-kei] (p.172) “Huh? Hirata-kun is not the culprit. What a stupid thing to say. Why don’t you go jump off a cliff?”
+[note] (p.172) The boys’ taunt “Heh. Hirata might even be the culprit.” and the retort “What?! Don’t give me that crap, Karuizawa. Just because he’s your boyfriend doesn’t mean he’s not the culprit!” are both left untagged in the translation.
+[says:karuizawa-kei] (p.172) “Hirata-kun would never do such a thing. Can’t you at least understand that?”
+[says:karuizawa-kei] (p.173) “Hirata-kun is definitely not the culprit. You don’t even have friends, let alone a boyfriend. You probably wouldn’t understand.”
+[says:karuizawa-kei] (p.173) “This isn’t a joke. My underwear was stolen, right? I’ve been humiliated! Don’t you understand? I don’t know what we’ll do when the culprit is found.”
+[says:karuizawa-kei] (p.173) “What the heck do you mean, crisis management?! We searched everyone’s bags. What’s naïve about that?!”
+[rel:horikita-suzune] (p.173) The public clash: Horikita calls her crisis management naïve and her humiliation beside the point.
+[says:karuizawa-kei] (p.174) “B-but…how can I trust anyone other than you, Hirata-kun?”
+[says:karuizawa-kei] (p.174) “Ha ha ha! Don’t make me laugh. He’s your only friend, isn’t he? There’s absolutely no way I can trust such a gloomy, lecherous wallflower,”
+[rel:sakura-airi] (p.176) Turns on Sakura the moment she speaks up for Ayanokōji, lashing out as if sinking her teeth into prey.
+[says:karuizawa-kei] (p.176) “Huh? Why? How do you know that? How do you know Ayanokouji-kun isn’t the culprit?”
+[says:karuizawa-kei] (p.176) “Huh? I don’t understand what you mean. That’s not an answer.”
+[says:karuizawa-kei] (p.176) “Oh? Could it be that Sakura-san likes someone plain and invisible like Ayanokouji-kun?”
+[says:karuizawa-kei] (p.176) “Whoa! That’s such an obvious reaction. It’s like what an elementary-schooler would do!”
+[says:karuizawa-kei] (p.176) “Heh, isn’t that a good thing, though? You like him, and no one else does, right? Hey, will you confess to him here? I’ll even help you out!”
+[says:karuizawa-kei] (p.176) “What was that about? I was just teasing her. Jeez, that’s why she can’t make any friends.”
+[says:karuizawa-kei] (p.177) “Hey, Horikita-san. The way you talk is hurtful and annoying.”
+[says:karuizawa-kei] (p.177) “Okay, Horikita-san. Why are you so cold to me? Did something happen?”
+[says:karuizawa-kei] (p.177) “Well, isn’t Hirata-kun so cool? He’s smart, too, and he’s even kind to a girl like you. Any normal girl would fall for him.”
+[says:karuizawa-kei] (p.177) “I suppose I’d say that Ayanokouji-kun is… Well, as for his looks, he’s probably better than most other guys, but isn’t he awful in every other way? You’re probably just jealous. That’s what I think.”
+[says:karuizawa-kei] (p.178) “Well, I suppose that out of all the guys here, he seems the most harmless. He has no presence.”
+[says:karuizawa-kei] (p.178) “Well, isn’t that good? I have my doubts, but if Hirata-kun is comfortable with this, it’ll do.”
+[says:karuizawa-kei] (p.178) “Naturally. One of the boys definitely did it.”
+[rel:shinohara-satsuki] (p.178) Backs Shinohara’s line: the boys stay the prime suspects until the culprit is found.
+
+### y1v3 p.201–207 — Ch.6 §6.5–§6.7: the line and the circle
+[scene] (p.201) Heads the shower-line group that blocks Horikita’s way back to camp.
+[action] (p.201) Her place at the front of the line sends the muddy Horikita to the river instead.
+[action] (p.207) Leads the girls’ side of the confrontation over the burned manual while the circle glares.
+[says] (p.207) “Hey, who did this? Is there a traitor in our class?”
+[note] (p.207) The exchange she opens runs untagged for three lines and is left as a chapter attribution gap.
+[rel:hirata-yousuke] (p.211) The narration counts the theft of her underwear among the troubles that have turned Hirata from his calm.
+
+<!-- walk: y1v3 ch6 → p.239 -->

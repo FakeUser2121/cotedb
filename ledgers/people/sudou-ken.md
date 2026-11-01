@@ -416,3 +416,33 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [limit] (p.153) Watches Horikita leave without a glance back — dumbfounded — and falls back on club practice.
 
 <!-- walk: y1v3 ch5 → p.158 -->
+
+### y1v3 p.159–170 — Ch.6: the tent
+[scene] (p.159) Stumbles out of the tent at Shinohara’s call, swearing he is exhausted.
+[says:sudou-ken] (p.159) “What the hell? God, I’m so goddamn tired…”
+
+### y1v3 p.171–178 — Ch.6 §6.1: volunteering
+[scene] (p.174) Raises his hand for the girls’ physical work as soon as Hirata asks for another boy.
+[says:sudou-ken] (p.174) “Wait. If it’s physical work, I’ll do it!”
+
+### y1v3 p.191–199 — Ch.6 §6.4: the river
+[scene] (p.191) Wakes Ayanokōji by sleeping with his legs across his face, calling for Suzune in his sleep.
+[says:sudou-ken] (p.191) “Suzune…I can’t hold back anymore…”
+[rel:ayanokouji-kiyotaka] (p.191) Mistakes him for someone else in his sleep and lashes out when woken.
+[says:sudou-ken] (p.191) “Gah, shut up… The hell? Ayanokouji, don’t wake me up like that.”
+[says:hirata-yousuke] (p.192) “No. Ike-kun, Sudou-kun, I want you two to continue fishing. We don’t have enough time to instruct the other students how to do it.”
+[status] (p.192) Kept on fishing with Ike through the last day.
+
+### y1v3 p.211 — Ch.6 §6.7: reading Hirata’s collapse
+[scene] (p.211) Comes through the rain to ask after Hirata, and delivers the chapter’s sharpest read of him.
+[says] (p.211) “Ayanokouji. Is Hirata okay?”
+[says] (p.211) “Looks like he’s in shock. I suppose it’s probably because of all these things going wrong one after the other.”
+[says] (p.211) “You know, in junior high there was this rich kid honor student. He had a lot of really heavy responsibilities, y’know? Anyway, he took so much on himself that one day, he ended up having a breakdown. After that, his class became a complete mess.”
+[says] (p.211) “You think there are signs of that with Hirata?”
+[says] (p.211) “Well, saying he’s gonna have a breakdown would be an exaggeration, but I think there’s danger there.”
+[feat] (p.211) Reads the danger of a breakdown in Hirata before anyone else — the narration calls the diagnosis surprisingly accurate.
+[rel:hirata-yousuke] (p.211) The one who names the risk he is carrying.
+[back] (p.216) Horikita’s own history with him — his Class C assault and the trial that followed — is what makes her hesitate before using force against Ibuki.
+[note] (p.229) Named once more when Horikita measures herself against him and the others: “I can’t be dumber than Sudou-kun and the others.”
+
+<!-- walk: y1v3 ch6 → p.239 -->

@@ -193,3 +193,59 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [rel:ayanokouji-kiyotaka] (p.142) Rants and raves while he goes off to report to Hirata; the accusation is never answered.
 
 <!-- walk: y1v3 ch4 → p.143 -->
+
+### y1v3 p.159–170 — Ch.6: the bag search
+[scene] (p.161) Backs the boys’ protest, then is the one who snatches Ike’s bag and finds the underwear.
+[says:yamauchi-haruki] (p.161) “Exactly. It’s not like we stole Karuizawa’s underwear or anything.”
+[note] (p.161) The translation leaves the line untagged; the narration then follows him exchanging looks with everyone.
+[says:yamauchi-haruki] (p.162) “What, you’re the one that really stole them?”
+[says:yamauchi-haruki] (p.162) “Wait, don’t tell me…”
+[rel:ike-kanji] (p.162) Snatches his bag on suspicion and finds the planted underwear inside.
+[says:yamauchi-haruki] (p.162) “No, I’m not saying that. Show me what’s in your bag.”
+[says:yamauchi-haruki] (p.163) “Come on, don’t give me that excuse…”
+[says:yamauchi-haruki] (p.163) “This is shameful. Let’s go explain things to Hirata and the others.”
+[says:yamauchi-haruki] (p.163) “There was no culprit…right?”
+[says:yamauchi-haruki] (p.163) “Well, that sounds right, but… Wait, what? You mean someone put the underwear in Kanji’s bag?”
+[action] (p.164) Apologizes and hurries away, leaving Ayanokōji holding the evidence.
+[status] (p.165) Stands still through the pat-down; nothing is found on him.
+
+### y1v3 p.171–178 — Ch.6 §6.1: volunteering
+[scene] (p.174) Raises his hand for the girls’ physical work the moment Hirata asks for another boy.
+[says:yamauchi-haruki] (p.174) “Wait. If you’re looking for the guy with the skills, then I’m your man!”
+[trait] (p.174) Whatever the heat of the argument with the girls, he still wants to get closer to them.
+[status] (p.175) Feigned ignorance with Ike when the girls turned on Ayanokōji.
+
+### y1v3 p.194–199 — Ch.6 §6.4: the mud bribe
+[scene] (p.194) Happy that Ibuki joined, he eyes Sakura through the forest — and ends up bribed into smearing mud on Horikita’s hair.
+[says:yamauchi-haruki] (p.194) “Hey, that’s great, that’s great! You know, this kinda feels like a harem or something!”
+[rel:sakura-airi] (p.194) Tries to talk to her kindly while staring at her chest.
+[says:yamauchi-haruki] (p.194) “Aren’t you hot, Sakura?”
+[says:yamauchi-haruki] (p.194) “Karuizawa was so mean yesterday, wasn’t she? And even though you were being so kind by sticking up for Ayanokouji, Sakura.”
+[action] (p.195) Is given treetop duty by Ayanokōji to keep his eyes off Sakura.
+[says:yamauchi-haruki] (p.195) “What’s the matter, Kushida-chan?”
+[says:yamauchi-haruki] (p.195) “Good question. Why are you two close, anyway?”
+[says:yamauchi-haruki] (p.196) “Wh-what’re yuh doin’?!”
+[action] (p.196) Gets slapped by Horikita for peering into her face, then takes Kushida’s hand to stand.
+[says:kushida-kikyou] (p.196) “Ha ha… S-sorry, Yamauchi-kun. I started trouble. Are you okay?”
+[says:yamauchi-haruki] (p.196) “Y-you’re so kind, Kushida…”
+[says:yamauchi-haruki] (p.197) “Wh-what’s the thing in common that you noticed, Kushida?”
+[says:yamauchi-haruki] (p.199) “Did she dump you?”
+[rel:ayanokouji-kiyotaka] (p.199) Asks whether Horikita dumped him, then is bribed with Sakura’s e-mail address.
+[says:yamauchi-haruki] (p.199) “What is it? You know my love consultation fee is high, right?”
+[says:yamauchi-haruki] (p.199) “Huh? B-but if I do something like that, I’ll be killed! No way!”
+[says:yamauchi-haruki] (p.199) “Listen here, dude. No matter how angry you say you are at Horikita, trying to get revenge on her is uncool!”
+
+### y1v3 p.200–202 — Ch.6 §6.5: paid in full
+[scene] (p.200) Delivers the bribe: mud over Horikita’s hair in exchange for Sakura’s address.
+[says] (p.200) “S-Sakura’s e-mail address? Man! I-I guess I have to do this now, huh?”
+[says] (p.200) “Ha ha ha ha! You’re all covered in mud, Horikita! Hilarious!”
+[action] (p.200) Points and laughs straight into the throw — Horikita grabs his arm and puts him down without a word.
+[rel:horikita-suzune] (p.200) Gets her lifetime-grudge line for the mud; she throws him before the whole camp.
+[says] (p.201) “I, I, I d-did it! S-so, you have to keep your promise!”
+[action] (p.201) Beaten black and blue, he cowers behind Ayanokōji while Horikita threatens him.
+[says] (p.202) “I’m going to rest for a bit. The parts where I got punched really hurt…”
+[action] (p.202) Hobbles into the tent weeping after the job.
+[says] (p.208) “Hey Kanji, I can’t see Ibuki anywhere.”
+[rel:ike-kanji] (p.208) Reports the missing Ibuki and bag to Ike first as the suspicion turns.
+
+<!-- walk: y1v3 ch6 → p.239 -->

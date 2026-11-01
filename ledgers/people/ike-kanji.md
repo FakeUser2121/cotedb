@@ -310,3 +310,54 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:yamauchi-haruki] (p.141) The shout is what sends him sprinting over — and into the jealousy scene.
 
 <!-- walk: y1v3 ch4 → p.143 -->
+
+### y1v3 p.159–170 — Ch.6: framed
+[scene] (p.160) Named as the boy who took too long at the toilet last night, he panics through the accusations — and finds the underwear planted in his own bag.
+[says:ike-kanji] (p.160) “Huh? Huh? What? Why are you glaring at us over her underwear being missing?”
+[says:ike-kanji] (p.160) “No, no, no! That was just, well…I was struggling because it was dark!”
+[says:ike-kanji] (p.160) “Y-you’re wrong! I didn’t do it!”
+[says:ike-kanji] (p.161) “Let’s just ignore what the girls said. I hate being treated like a suspect. I’ll fight it!”
+[says:ike-kanji] (p.162) “Damn, I’m so pissed. Men are always being suspected of stuff. It’s way too unreasonable.”
+[rel:yamauchi-haruki] (p.162) Yamauchi snatches his bag on suspicion and finds the underwear inside.
+[says:ike-kanji] (p.163) “Th-that’s not mine! Someone put it in my bag or something, somehow!”
+[says:ike-kanji] (p.163) “I’m telling you, I don’t know how it got there! Why would there be underwear in my bag?!”
+[says:ike-kanji] (p.163) “Huh?! But if I do that, they’ll make me out to be the culprit!”
+[says:ike-kanji] (p.163) “Ayanokouji, you believe me, right? That I didn’t steal them?!”
+[rel:ayanokouji-kiyotaka] (p.163) Begs him to vouch for him and hands over the planted evidence when he does.
+[says:ike-kanji] (p.163) “Ayanokouji!”
+[says:ike-kanji] (p.163) “We just have to figure out who!”
+[says:ike-kanji] (p.163) “Wh-wh-wh-wh-what am I gonna do? I’m in serious trouble!”
+[says:ike-kanji] (p.164) “Hide them? Where?! We can’t hide them!”
+[says:ike-kanji] (p.164) “I-I can’t do it! I-I’m already panicking!”
+[says:ike-kanji] (p.164) “I’ll leave it to you, Ayanokouji!”
+[says:ike-kanji] (p.164) “I’m coming now!”
+[says:ike-kanji] (p.164) “I’m counting on you,”
+[says:ike-kanji] (p.164) “Sorry, sorry. My bag got a little dirty, so I cleaned it off.”
+[says:ike-kanji] (p.165) “Search it if you gotta. I’m innocent. Right, Yamauchi?”
+[action] (p.165) Offers himself to the search, and Hirata pats him down finding nothing.
+[says:ike-kanji] (p.165) “Jeez, enough is enough!”
+[says:ike-kanji] (p.165) “Huh?! I-I’m not hiding anything! Search me if you gotta!”
+
+### y1v3 p.171–178 — Ch.6 §6.1: volunteering
+[scene] (p.174) Raises his hand to help the girls even though he was just fighting Shinohara.
+[says:ike-kanji] (p.174) “How about me?”
+[action] (p.174) Volunteers along with Sudou and Yamauchi; Karuizawa rejects all three.
+[trait] (p.175) Feigned ignorance along with Yamauchi when the girls turned on Ayanokōji.
+
+### y1v3 p.192–199 — Ch.6 §6.4: fishing duty
+[scene] (p.192) Asked from the riverbank whether he should join the last forage, and kept on the fishing rod instead.
+[says:ike-kanji] (p.192) “Would it be better if we went, too?”
+[says:hirata-yousuke] (p.192) “No. Ike-kun, Sudou-kun, I want you two to continue fishing. We don’t have enough time to instruct the other students how to do it.”
+[status] (p.192) Kept on fishing with Sudou through the last day.
+
+### y1v3 p.206–209 — Ch.6 §6.7: the one who raises the alarm
+[scene] (p.206) Spots the dark smoke behind the temporary toilet and shouts it across the camp.
+[says] (p.206) “What’s that smoke? What in the world happened?”
+[says] (p.206) “This is serious. There’s a fire! Fire! Something is burning behind the toilet!”
+[action] (p.208) Panics into shoving food and luggage into the tents as the downpour hits.
+[says] (p.208) “Hirata, tell us what to do!”
+[rel:yamauchi-haruki] (p.208) Takes Yamauchi’s report that Ibuki and one of the bags are gone.
+[says] (p.211) “Hey, Hirata! What are you doing?!”
+[action] (p.209) Calls twice at the dazed Hirata with no answer coming back.
+
+<!-- walk: y1v3 ch6 → p.239 -->

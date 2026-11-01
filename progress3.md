@@ -1093,3 +1093,17 @@ cross-page Chabashira verdict was split at the page footer and both
 verifiers then passed. Ratchet unchanged (R19 warn 82/82). Determinism
 hash across consecutive builds: `bc30cb4a31ca1991466b7947c4abac8a`. Quotes:
 175 non-says spans, 283 [says] lines, all corpus-exact.
+
+### y1v3 Chapter 6 reaches the site (site, 2026-11-01)
+
+False-Teamwork chapter (pp.159–239) shipped: the volume page carries its
+sixth chapter section and thirteen existing people pages extended
+(Ayanokōji, Horikita, Ibuki, Hirata, Ike, Sudō, Yamauchi, Karuizawa,
+Kushida, Sakura, Shinohara, Ryūen, Katsuragi) — Ryūen and Katsuragi on
+scene only in the handover, an absence section for Shinohara. One new
+people page with its search asset: Shinohara Satsuki. 172 pages, 40
+assets, search index rebuilt. No verifier failures — both halves passed
+on their first verify run. Ratchet unchanged (R19 warn 82/82).
+Determinism hash across consecutive builds:
+`4e963923c1d97350ce118e4bb3055eb0`. Quotes: 203 non-says spans, 928
+[says] lines, all corpus-exact.

@@ -46,3 +46,27 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:ishizaki-daichi] (p.111–112) Treats his fetch-boy as furniture — the warm bottle is thrown back at him.
 
 <!-- walk: y1v3 ch3 → p.130 -->
+
+### y1v3 p.221–224 — Ch.6 §6.9: collecting the card
+[scene] (p.221) Answers Ibuki’s flashlight signal in the wet woods to collect what his operation stole.
+[rel:ibuki-mio] (p.221) His spy since the test began — she reports to him over the transceiver and hands the card over.
+[says] (p.221) “Yo. Excellent work, Ibuki. You did well.”
+[says] (p.221) “Naturally? If you hadn’t made any mistakes until now, I wouldn’t have had to risk coming over here.”
+[says] (p.222) “So, where’s the card?”
+[action] (p.222) Checks the engraved name under his flashlight and calls Katsuragi out of the shadows to confirm it.
+[says] (p.222) “You come over here and confirm it, too. That was your condition, remember? Relax, it’s dark out, and this weather is horrible. There shouldn’t be anyone here. It’s great to be cautious, but don’t waste time.”
+[rel:horikita-suzune] (p.222) Holds her stolen leader card under the flashlight, engraved name up.
+[says] (p.223) “Are you convinced now?”
+[note] (p.223) Untagged; it follows the card and the inspection, so it is recorded as his.
+[says] (p.223) “Don’t sit there and think about it forever. The situation is black-and-white, so make your decision. You’re already halfway there. Don’t do something as stupid as pulling out here.”
+[tactic] (p.223) Presses the offer with Sakayanagi’s faction rumor — the student-council failure — framed as Katsuragi’s chance.
+[says] (p.223) “If this wasn’t an honorable deed, then what are you going to do? Did you know that Sakayanagi’s faction has dominated ever since rumors spread that you failed to get on the student council despite your best efforts? This might be your chance, right?”
+[says] (p.223) “Class A maintains its position by forming alliances. If you can form those, even those who have double-crossed you will return under your wing, won’t they? Or you could make me your enemy, I suppose? If you do, I wonder what would happen?”
+[says] (p.223) “That’s good. You’ve exercised sound judgment.”
+[says] (p.223) “To form an alliance. With Class A.”
+[rel:katsuragi-kouhei] (p.223) Takes his handshake on the Class A alliance after the pressure — the narration calls it a contract with the devil.
+[says] (p.224) “I have that covered, of course. He will have no choice but to honor his promise.”
+[note] (p.224) The answer to Ibuki’s renege question is untagged; it is his, against her doubt.
+[action] (p.224) Lays out the contract’s terms to Ibuki with a creepy smile — the page never quotes them.
+
+<!-- walk: y1v3 ch6 → p.239 -->

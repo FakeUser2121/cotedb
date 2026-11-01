@@ -942,3 +942,41 @@ footer, split with `…` at the footer (ch4 pattern) and re-verified —
 283 [says] lines (five micro-quotes skipped by design) and 175 non-says
 spans, all corpus-exact. No defects kept as printed this chapter. Next:
 y1v3 ch6 pp.159–239 ("False Teamwork", 81 pages — read in two halves).
+
+y1v3 ch6: False Teamwork (pp.159–239)
+
+Read and shipped in two halves (pp.159–199, then pp.200–239), one stamp
+`y1v3 ch6 → p.239` on thirteen people ledgers plus the volume file:
+Ayanokōji, Horikita, Ibuki, Hirata, Ike, Sudō, Yamauchi, Karuizawa,
+Kushida, Sakura, Shinohara, Ryūen, Katsuragi. First half: the planted
+underwear in Ike's bag and Hirata's conceal-the-truth pact (pp.159–170),
+the meeting that splits the camp with Ibuki as the new suspect
+(pp.171–178), tent stakes, Horikita's partnership and her fever near
+38°C (pp.180–188), the sixth-day forage, the card colour doubt and the
+mud bribe (pp.191–199). Second half: the river wash and the key-card
+confession (pp.200–205), the burned manual and Hirata's crack
+(pp.206–212), Horikita's chase and knockout from her own viewpoint
+(pp.213–220), Ibuki's handover and the Class A–C alliance from hers
+(pp.221–224), the night carry and the 7:58 retirement (pp.226–239).
+Ryūen and Katsuragi are on scene only in the handover (§6.9);
+Shinohara is absent after p.178 and gets an absence section
+carrying her p.182 passing mention. No new ledgers, no roster rows, no
+new tags. Named but absent, listed in the volume section: Kōenji
+(p.186), Yukimura (p.174), Chabashira (p.198), Sakayanagi (p.223 —
+still no ledger file, opened at the volume-end coverage gate);
+"Mii-chan" (p.192) stays unidentified with a note; Ibuki's unnamed man
+(p.220) and the ship teacher (p.237) stay unnamed. Defects kept as
+printed: four — "Karuizawasan" (p.161), "turns out to the be the
+culprit" (p.169), the broken three-quarter mark (p.181), "hadn't had
+recommended" (p.184) — each flagged at the page and listed in the
+volume section. Attribution gaps left out: the p.172 taunt and retort,
+the p.178 Ibuki pair, the p.201 swim invite, "Does this mean she didn't
+do it?" (p.206), the p.207 three-line confrontation, and the p.208
+block; every other untagged line is placed with a note (pp.161, 165,
+171, 173, 197, 206, 207, 208, 222, 223, 224, 235) and the forest
+dialogue of pp.230–235 is recorded by turn. Both halves passed verify on
+the first run — 928 [says] lines (11 micro-quotes skipped by design)
+and 203 non-says spans, all corpus-exact. Locator coverage not run for
+this chapter; it stays with the volume-end gate. Next: y1v3 ch7
+pp.240–258 ("The Curtain Rises", 19 pages), then the ch8 postscript
+pp.259–262.

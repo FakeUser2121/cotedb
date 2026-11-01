@@ -50,3 +50,26 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [status] (p.142) Class A now knows the spot and watches it from close by.
 
 <!-- walk: y1v3 ch4 → p.143 -->
+
+### y1v3 p.198 — Ch.6 §6.4: the card in the memory
+[scene] (p.198) Named from day one: Ayanokōji tells Horikita he saw Katsuragi hold a card in front of the Class A cave.
+[back] (p.198) The sighting is the cave moment from the volume’s second chapter — his card, now weighed against Horikita’s.
+[says:horikita-suzune] (p.198) “Well? Is this the same card that Katsuragi-kun had?”
+[note] (p.198) He takes no part in the day’s scenes; the chapter keeps him named only.
+
+### y1v3 p.222–224 — Ch.6 §6.9: the handshake in the woods
+[scene] (p.222) Steps out of the shadows at Ryūen’s call to inspect the stolen leader card under his own condition.
+[says] (p.222) “It looks like the real thing,”
+[trait] (p.222) The narration frames him as calm and dependable — the complete opposite of Class C’s leader — and calls his caution near-paranoid.
+[says] (p.223) “You’re right.”
+[note] (p.223) The short assent carries no speaker tag; it sits under Ryūen’s pressure, before the narration notes he still has not consented.
+[says] (p.223) “You bastard. Why are you telling me this?”
+[says] (p.223) “Sakayanagi is absent. It’s impossible for someone indecisive to rule Class A.”
+[says] (p.223) “We’ve established negotiations, as promised. I accept your proposal.”
+[rel:ryuuen-kakeru] (p.223) Shakes his hand on the Class C alliance — the narration calls it signing a contract with the devil.
+[rel:horikita-suzune] (p.223) Confirms her engraved card as real under the flashlight — the proof Ryuuen set as his condition.
+[says] (p.223) “I’ll be heading back now. I don’t want to risk things by lingering for too long.”
+[action] (p.223) Returns the card and disappears into the darkness.
+[status] (p.223) Commits Class A to an alliance with Class C in Ryūen’s hands, in his rival’s absence.
+
+<!-- walk: y1v3 ch6 → p.239 -->

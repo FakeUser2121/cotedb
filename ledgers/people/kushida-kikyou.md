@@ -478,3 +478,43 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:sakura-airi] (p.92) Raises her hand for river water once the vote is already tipping, which Ayanokōji suspects is influence rather than conviction.
 
 <!-- walk: y1v3 ch2 → p.99 -->
+
+### y1v3 p.159–170 — Ch.6: comforting Karuizawa
+[scene] (p.160) Named by Shinohara as one of the girls inside the tent comforting the crying Karuizawa.
+[status] (p.160) With the victim’s group from the first moment of the crisis.
+
+### y1v3 p.171–178 — Ch.6 §6.1: chasing Sakura
+[scene] (p.176) Chases Sakura into the forest after Karuizawa’s teasing drives her off.
+[rel:sakura-airi] (p.176) Goes after her alone, judging it dangerous for someone to enter the woods by herself.
+
+### y1v3 p.192–199 — Ch.6 §6.4: the smile question
+[scene] (p.192) Left behind with Horikita’s group, she whispers why — and spends the walk trying to draw Horikita out.
+[says:horikita-suzune] (p.192) “Why were you left behind? What about your usual group of friends?”
+[says:kushida-kikyou] (p.192) “Ah, yeah. Well, it’s…”
+[says:kushida-kikyou] (p.192) “Well, to tell you the truth, Mii-chan is having her time of the month. She always feels awful when it happens. So her other friends are with her in the tent.”
+[note] (p.192) The nickname “Mii-chan” has no published name form on this page; the girl is left unidentified.
+[rel:horikita-suzune] (p.193) Chose this group to talk to her; Horikita grills her for it and dislikes her openly.
+[says:kushida-kikyou] (p.193) “I wanted to talk to you, Horikita-san, and thought this was a good chance. You know, we haven’t really talked at all during this trip, have we? Well, as soon as it gets dark out, let’s head to bed.”
+[says:kushida-kikyou] (p.193) “You’re so mean, Horikita-san. Even though your face is so cute when you’re sleeping.”
+[trait] (p.193) The narration notes a hidden side — a dramatic change from her usual persona, to the point where she could calmly abuse other people.
+[trait] (p.193) The everyday Kushida is fundamentally kind, cheerful, and cute, and loves to help others.
+[says:kushida-kikyou] (p.195) “Ayanokouji-kun and Horikita-san have been on pretty good terms from the beginning, right? I was trying to think of what the reason might be.”
+[says:kushida-kikyou] (p.195) “Ah. I think I might have found something that Ayanokouji-kun and Horikita-san have in common,”
+[says:kushida-kikyou] (p.195) “Well, look at them closely, Yamauchi-kun. Notice anything?”
+[says:kushida-kikyou] (p.196) “Ha ha… S-sorry, Yamauchi-kun. I started trouble. Are you okay?”
+[says:kushida-kikyou] (p.196) “Well, don’t you know? I hardly see the two of them laugh! That’s it. It’s like, I don’t think I’ve ever seen Ayanokouji-kun or Horikita-san smile.”
+[rel:ayanokouji-kiyotaka] (p.196) Points out that she has never seen him or Horikita smile.
+[says:kushida-kikyou] (p.196) “I’ve seen you with a bitter smile, sure, but never a genuine grin, something from the bottom of your heart. I’ve never seen you laugh so hard you had to clutch your stomach, Ayanokouji-kun. Or perhaps you’ve just … never shown that side of yourself to me?”
+[says:kushida-kikyou] (p.197) “How about we practice smiling just once? What do you think?”
+[note] (p.197) The translation leaves the offer untagged; placed here against her preceding lines about smiling.
+[rel:ibuki-mio] (p.197) The last one left, she pairs off with Ibuki for the search.
+[says:kushida-kikyou] (p.197) “I’m looking forward to working with you, Ibuki-san!”
+
+### y1v3 p.200–202 — Ch.6 §6.5: witness and swimmer
+[scene] (p.200) Watches Yamauchi’s strange approach to Horikita with Ibuki, quizzical, and sees the mud go on before anyone reacts.
+[action] (p.200) With Ibuki, one of the two who notices Yamauchi’s behavior in time to wonder at it.
+[action] (p.202) Goes down to the river in her swimsuit with Horikita while the shower line waits.
+[rel:horikita-suzune] (p.202) The pair appear in swimsuits together — Horikita to wash the mud off, her along for the swim.
+[note] (p.201) The river invitation that follows — “I think I’m going to go for a swim. Ibuki-san, do you want to go for a swim with me?” — is untagged and is left as a chapter attribution gap.
+
+<!-- walk: y1v3 ch6 → p.239 -->

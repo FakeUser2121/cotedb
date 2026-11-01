@@ -244,3 +244,116 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:ayanokouji-kiyotaka] (p.142) Gets the corn report first-hand; soon afterward students are organized into a team that brings the harvest back.
 
 <!-- walk: y1v3 ch4 → p.143 -->
+
+### y1v3 p.159–170 — Ch.6: the search and the secret
+[scene] (p.159) Called out of the tent by Shinohara, he rouses the boys and runs the luggage inspection that ends with the stolen underwear in his own hands.
+[says:shinohara-satsuki] (p.159) “Ah, Hirata-kun. I’m sorry, but can you please wake all of the boys? It’s serious,”
+[says:hirata-yousuke] (p.159) “I understand. I think if I shout, they’ll come.”
+[says:shinohara-satsuki] (p.160) “I know that you’re not the culprit, Hirata-kun. But for the time being, let’s check the boys’ luggage.”
+[says:hirata-yousuke] (p.160) “Well, there’s no evidence that the boys stole it. Maybe Karuizawa lost it.”
+[says:hirata-yousuke] (p.160) “I don’t want to think there’s a criminal among us.”
+[says:hirata-yousuke] (p.161) “For now, we’ll try gathering the guys together and talking it out. Can you please give us a little time?”
+[rel:shinohara-satsuki] (p.161) The one boy exempt from her contempt; his word buys the others time.
+[says:hirata-yousuke] (p.161) “I don’t doubt you guys, but we won’t solve the problem like this.”
+[says:hirata-yousuke] (p.161) “It might be better to just accept the baggage inspection with dignity and prove your innocence.”
+[says:hirata-yousuke] (p.161) “Of course. I’ll open up my luggage first,”
+[action] (p.161) Opens his own bag first so that no other boy can refuse the inspection.
+[says:hirata-yousuke] (p.161) “As miserable as this might be, I think you guys’ll have to do it. Are you okay with that?”
+[says:hirata-yousuke] (p.165) “We searched everyone’s bags. None of us did it.”
+[says:hirata-yousuke] (p.165) “Yeah. There’s no doubt. None of the boys are the culprit.”
+[note] (p.165) The translation leaves the two reporting lines untagged after Ike calls Shinohara over; recorded here as the inspector’s report.
+[says:shinohara-satsuki] (p.165) “Hey, Hirata-kun. Could they have hidden it in their pockets? Ike-kun and Yamauchi-kun, and even Ayanokouji-kun were whispering a little earlier. It’s got me curious.”
+[says:hirata-yousuke] (p.165) “Okay. If it convinces the girls, fine. However, if I don’t find anything, I want you to stop investigating the boys.”
+[says:hirata-yousuke] (p.166) “I’m sorry. It’ll be over soon,”
+[action] (p.166) Pats Ayanokōji down, feels the cloth in his back pocket, and reports finding nothing.
+[rel:ayanokouji-kiyotaka] (p.166) Does not doubt him for a moment, yet keeps the finding to himself.
+[says:hirata-yousuke] (p.166) “Ayanokouji-kun doesn’t have them either.”
+[says:hirata-yousuke] (p.166) “Those three didn’t take them.”
+[says:hirata-yousuke] (p.167) “Did you…take Karuizawa’s underwear, Ayanokouji-kun?”
+[says:hirata-yousuke] (p.167) “I believe you. You’re not that kind of person. But why did you have them in your pocket?”
+[says:hirata-yousuke] (p.167) “If it’s all right with you, may I hold onto the underwear?”
+[says:hirata-yousuke] (p.167) “In the worst-case scenario, if I’m made out to be the culprit, I would take the least amount of damage. I am her boyfriend, more or less.”
+[action] (p.167) Takes the underwear into a vinyl toilet bag — the Joker in a deck of cards.
+[says:hirata-yousuke] (p.167) “I see. So it definitely wasn’t you. But I don’t think Ike-kun or Yamauchi-kun did it, either. If they were the culprits, they probably wouldn’t put the underwear in their own bags. They would have hidden it in another place.”
+[says:hirata-yousuke] (p.167) “But we did find out one piece of bad news here. If the underwear came out of Ike-kun’s bag, then there’s a high chance that the culprit is someone in our class.”
+[says:hirata-yousuke] (p.168) “I believe you’re not the culprit, Ayanokouji-kun. That’s why I saved you.”
+[says:hirata-yousuke] (p.168) “But that’s not all I want to say. I want you to help me find the real culprit, Ayanokouji-kun.”
+[says:hirata-yousuke] (p.168) “I think people, both guys and girls, will be uneasy until the thief’s found. To be honest, it would probably be best if I found the culprit, but it looks like it’ll be difficult to get everyone together…”
+[says:hirata-yousuke] (p.168) “Thank you! Thank you, Ayanokouji-kun!”
+[says:hirata-yousuke] (p.169) “If you do happen to find the culprit, I want you to tell me first. I definitely do not want you to tell anyone else.”
+[says:hirata-yousuke] (p.169) “If that information becomes public knowledge, our class will suffer a huge blow. I want to avoid that. That’s why I want to find a peaceful method of settling things with the culprit. If it’s coming from me, I think that we’ll be able to resolve the issue through talking.”
+[says:hirata-yousuke] (p.169) “Hide it? That’s a poor choice of words, but there’s nothing I can do about it if people take it that way. Even if one of the guys turns out to the be the culprit, I think it’s better that the truth be concealed.”
+[note] (p.169) The printed line reads “turns out to the be the culprit” — kept as printed.
+[voice] (p.169) Widens his eyes while making the appeal for secrecy; the narration calls his calm almost too calm, a little eerie.
+[says:hirata-yousuke] (p.169) “Thank you. Well then, I’ll be getting back to work.”
+[trait] (p.169) The narration marks one contradiction: right after saying he believes Ayanokōji, he insists the truth be concealed.
+
+### y1v3 p.171–178 — Ch.6 §6.1: the meeting that splits the camp
+[scene] (p.171) Runs the meeting where Karuizawa’s fear turns into a ban on the boys, and takes the mediator’s role once more.
+[says:hirata-yousuke] (p.171) “Could everyone please gather around?”
+[note] (p.171) The opening call of the meeting is left untagged in the translation; the narration has his meeting already begun as Ayanokōji steps out.
+[says:karuizawa-kei] (p.171) “We can’t trust the guys. It’s absolutely impossible for us to stay in the same place as them!”
+[says:hirata-yousuke] (p.171) “But there would be problems if the guys and girls lived apart, don’t you think? The test is almost over. Because we’re all friends, we need to believe in and cooperate with one another.”
+[note] (p.171) The translation leaves this answer to Karuizawa untagged; she shakes her head at it in the next line.
+[says:karuizawa-kei] (p.171) “You might be right. But we can’t stand being in the same place as underwear thieves!”
+[rel:karuizawa-kei] (p.171) He cannot force her back when the victim says the boys cannot be trusted.
+[says:hirata-yousuke] (p.172) “Okay. I’ll help. It might take some time, though. Is that okay?”
+[rel:karuizawa-kei] (p.172) The only boy she trusts; she blushes when he agrees to help her side.
+[says:karuizawa-kei] (p.172) “Yeah, Hirata-kun is the only one we can trust.”
+[says:karuizawa-kei] (p.172) “Huh? Hirata-kun is not the culprit. What a stupid thing to say. Why don’t you go jump off a cliff?”
+[says:hirata-yousuke] (p.174) “Karuizawa-san, it would be great if we could have another guy here help me out. Is that okay?”
+[trait] (p.174) Adopts the role of mediator once again when Karuizawa is on the verge of losing her temper.
+[says:karuizawa-kei] (p.174) “B-but…how can I trust anyone other than you, Hirata-kun?”
+[says:hirata-yousuke] (p.178) “I understand what everyone wants to say here, but I disagree with suspecting a classmate without evidence. There shouldn’t be anyone in our class who’d do such an awful thing,”
+[says:hirata-yousuke] (p.178) “I don’t know, but I don’t want to doubt my classmates.”
+
+### y1v3 p.180–189 — Ch.6 §6.2–§6.3: the stakes, the points, the fever
+[scene] (p.180) Pitches the girls’ second tent at Ayanokōji’s side after the split, then is pulled away by Karuizawa and the other girls.
+[trait] (p.180) The narration opens on him: a really cool guy, principled, taking the initiative on troublesome work and answering opponents respectfully.
+[says:hirata-yousuke] (p.180) “I’m sorry. I’ve put you in a tough spot again.”
+[says:hirata-yousuke] (p.180) “Oh, it’s not all bad. I do it freely.”
+[says:hirata-yousuke] (p.180) “Work so hard? I don’t intend to work all that hard. I just do what needs to be done.”
+[says:hirata-yousuke] (p.180) “I think this special test isn’t actually some kind of battle, but more an important opportunity for us all to become closer. That’s why I want to cherish this moment. I’m glad to work hard for that.”
+[rel:ayanokouji-kiyotaka] (p.181) Works the stakes beside him and gets the straight answer about why he works so hard.
+[says:hirata-yousuke] (p.181) “Ah, I still have work left to do, though,”
+[says:hirata-yousuke] (p.181) “No, but it’s hard for one person to¾”
+[note] (p.181) The printed line ends in a broken¾ glyph — kept as printed.
+[says:hirata-yousuke] (p.181) “S-sorry. Thank you. I’ll be right back.”
+[action] (p.181) Is pulled off the stakes by the girls and left to Ayanokōji, who finishes the work alone.
+[says:horikita-suzune] (p.185) “Exactly. Trustworthy Hirata-kun has kept his mouth shut about it.”
+[says:horikita-suzune] (p.186) “Karuizawa-san reported this to Hirata-kun, so he definitely knew about it. But you didn’t know, nor did he inform anyone else. I think he absolutely should have shared this information.”
+[trait] (p.186) Kept quiet about the girls’ twelve-point spending, known to him through Karuizawa’s report.
+
+### y1v3 p.192–199 — Ch.6 §6.4: the last forage
+[scene] (p.192) Reports a quiet night, then sorts the class into teams for one last search for food.
+[says:hirata-yousuke] (p.192) “I’m glad. We haven’t had any incidents,”
+[says:ike-kanji] (p.192) “Would it be better if we went, too?”
+[says:hirata-yousuke] (p.192) “No. Ike-kun, Sudou-kun, I want you two to continue fishing. We don’t have enough time to instruct the other students how to do it.”
+[action] (p.192) Keeps Ike and Sudou on the river and sets the search groups by volunteers, with Ayanokōji as backup.
+
+### y1v3 p.206–211 — Ch.6 §6.7: the fire and the crack
+[scene] (p.206) At the fire behind the temporary toilet — the survival manual was in his bag, and he takes the blame before the culprit.
+[says] (p.207) “I’m responsible for this. The manual was in my bag. We piled the bags up in front of the tent and I didn’t think that someone would steal anything in the daytime. But first, we need to extinguish this fire properly…”
+[action] (p.207) Goes to the river to douse the fire instead of hunting the culprit, and crushes a plastic bottle in his fist.
+[says] (p.207) “Why? Who could do something like this? Why can’t we all just get along?”
+[trait] (p.207) The eternal peacemaker cracks — the narration calls the shift in his personality rather terrifying.
+[says] (p.207) “Thank you.”
+[says] (p.207) “We need…to discuss this incident properly.”
+[says] (p.207) “Right. Most of Class D witnessed the fire. I’m sure they’ll want to know the truth.”
+[note] (p.207) The reply carries no speaker tag; it sits under his own call to discuss, so it is recorded as his.
+[action] (p.207) Hands his water to Ayanokōji and goes into the circle to mediate.
+[says] (p.207) “Wait a minute, everyone. Please, calm down. Let’s talk about this,”
+[action] (p.208) Stands dazed in the middle of the confrontation instead of stopping it.
+[says:ike-kanji] (p.208) “Hirata, tell us what to do!”
+[says] (p.209) “Why…why is this happening? It’s just like back then…”
+[note] (p.209) The page never says what “back then” refers to.
+[action] (p.209) Stares off into nothingness through the rising rain and does not notice Ayanokōji approach.
+[says] (p.211) “Why was I doing this? Why was I doing all this until now?”
+[says:ayanokouji-kiyotaka] (p.211) “Ike’s calling for you,”
+[says] (p.211) “Rain…”
+[says:ayanokouji-kiyotaka] (p.211) “It’d be good for you to help Ike and the others. We have to keep our stuff dry.”
+[says] (p.211) “Y-yeah. We need to take care of everything quickly.”
+[rel:sudou-ken] (p.211) Sudou watches the shock from the side and names the danger of a breakdown before anyone else.
+[trait] (p.211) Since the test began he has carried one burden after another; the underwear theft and the fire have turned him unhinged and stormy as the weather.
+
+<!-- walk: y1v3 ch6 → p.239 -->
