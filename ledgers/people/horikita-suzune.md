@@ -1068,3 +1068,126 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [status] (p.237) Carried unconscious to the ship and retires with a high fever at 7:58, minutes before roll call.
 
 <!-- walk: y1v3 ch6 → p.239 -->
+
+### y1v3 p.245–247 — Ch.7: the deck and the apology
+[scene] (p.245) Returns to the class on the ship’s deck still pale after her retirement; Sudou greets her, she takes back the first-name permission, and Karuizawa apologizes to her face.
+[says] (p.246) “I’m not too bad. I can’t say that I’m back to full health. More than anything else, retiring was a big mistake on my part.”
+[says:sudou-ken] (p.246) “Don’t worry about it.”
+[rel:sudou-ken] (p.246) Accepts the first name for one line, then withdraws the permission.
+[says] (p.246) “By the way, Sudou-kun. Don’t just go around calling me by my first name without permission. Understand?”
+[says:sudou-ken] (p.246) “Y-y-yeah.”
+[note] (p.246) “But…what happened? Why was Class D ranked first?” runs untagged before Karuizawa’s tagged line and is left out as a chapter attribution gap.
+[says:hirata-yousuke] (p.246) “Well, Karuizawa-san, I think you should talk to Horikita-san first, don’t you agree?”
+[says:hirata-yousuke] (p.246) “Horikita-san, do you have a minute?”
+[says] (p.246) “Yes. There’s something that we’re supposed to talk about. Right?”
+[rel:karuizawa-kei] (p.246) Faces her to eat humble pie after the accusation about the points.
+[says:karuizawa-kei] (p.246) “I’m sorry.”
+[says:karuizawa-kei] (p.246) “Ibuki-san stole my underwear. Ayanokouji-kun told us everything.”
+[says] (p.246) “Huh?”
+[note] (p.246) The one-word reply follows the narration that she was puzzled; recorded as hers.
+[says:karuizawa-kei] (p.247) “Horikita-san, when you noticed that Ibuki-san was the culprit, she tried to run because you questioned her, right? That’s why you ended up collapsing and getting sick…”
+[says:karuizawa-kei] (p.247) “I heard about it from Hirata-kun first. He said that you found out the leaders of Class A and C. That’s why we had so many points. So, I’m…sorry for everything I said.”
+[says] (p.247) “Wait a minute. I… You said I found out the leaders’ identities? But I retired¾”
+[says] (p.247) “Wait. Ayanokouji-kun, what did you¾”
+[note] (p.247) Both replies keep the printed three-quarter marks. The classmates’ praise lines — “There’s no need for you to be humble…”, “Horikita-san, you were so incredibly awesome!…”, “When I heard that you’d retired…” — run untagged from unnamed speakers and are left out as chapter attribution gaps.
+[says] (p.247) “W-wait a second!”
+[action] (p.247) Is buried in the crowd’s congratulations while he withdraws, and shouts after him from inside it.
+
+### y1v3 p.250–258 — Ch.7 §7.1: the whole explanation
+[scene] (p.250) Section 7.1 opens with her storming the lounge for the full story; he gives it on one condition — she never investigates him.
+[says] (p.250) “What do these test results mean? What in the world happened?”
+[says:ayanokouji-kiyotaka] (p.250) “You look like you don’t have any idea at all.”
+[says] (p.250) “I just can’t imagine it. I don’t understand it at all. I have a mountain of questions.”
+[says:ayanokouji-kiyotaka] (p.250) “I’ll tell you everything. However, my one condition is that you stay quiet on this matter. I won’t compromise on this.”
+[rel:ayanokouji-kiyotaka] (p.250) Sets the price of the story: her silence, with no compromise.
+[says:ayanokouji-kiyotaka] (p.250) “What would you like to ask?”
+[says] (p.250) “What were you doing during the test? Tell me,” she said.
+[says:ayanokouji-kiyotaka] (p.250) “When the special test was announced, I didn’t focus on anything except for the additional rules. I roughly understood how to manage the 300 points, but you couldn’t manipulate them as an individual.”
+[says] (p.250) “But the additional rules were really difficult to understand. If you did things normally, you wouldn’t have been able to identify the leaders. Right?”
+[says:ayanokouji-kiyotaka] (p.250) “Yeah. First of all, I volunteered to join the search for the base camp. Able to move freely, I planned to search out spot locations ahead of everyone else.”
+[says] (p.251) “You make it sound simple, but no one should have known the spot locations.”
+[says:ayanokouji-kiyotaka] (p.251) “That’s not true. You didn’t understand because you were ill and holed up inside the ship, but the school already gave us hints about the locations when we were sailing around the island.”
+[fact] (p.251) The circling ship — nearly three times a usual cruise’s speed — and the phrase “significant scenery” were the school’s hints about the spot locations; Katsuragi and Kōenji had noticed the same hint.
+[says:ayanokouji-kiyotaka] (p.251) “Then, I reached the cave. I thought it was the most important base.”
+[says] (p.251) “The cave was the most important base? Don’t you think that the river and the well would have been more convenient, though?”
+[says:ayanokouji-kiyotaka] (p.251) “The spot itself wasn’t what was important. Its location was.”
+[says] (p.251) “But what advantage is there in going into the cave if you don’t have a keycard?”
+[says:ayanokouji-kiyotaka] (p.251) “Well, I’d intended to explore various things, but in the end I discovered the leader’s identity.”
+[says] (p.251) “Well, I suppose that Katsuragi-kun was careless.”
+[says:ayanokouji-kiyotaka] (p.251) “No, that wasn’t it.”
+[says:ayanokouji-kiyotaka] (p.251) “There was that guy, Yahiko, remember? The one following Katsuragi around? He was the leader. I saw Katsuragi and Yahiko at the cave, but I didn’t see the moment they occupied it. After the two of them walked away, I checked if the cave was occupied or not.”
+[fact] (p.251) Totsuka Yahiko was Class A’s leader; Katsuragi only displayed the card while the two were at the cave.
+[says] (p.252) “Wouldn’t you have mistaken Katsuragi-kun as the leader?” she asked.
+[says:ayanokouji-kiyotaka] (p.252) “Do you think that the leader would have shown off the card so carelessly in front of people?”
+[says] (p.252) “But why? Why bother deliberately holding onto the card, then?”
+[says:ayanokouji-kiyotaka] (p.252) “Because he didn’t have any other choice. As far as I can tell, Katsuragi is a calm and collected man, excessively cautious. There’s no way he didn’t understand the high risk of occupying a spot immediately after finding it. In other words, the person who occupied it was enticed by shortsighted greed.”
+[says] (p.252) “That’s…why there was another person.”
+[says:ayanokouji-kiyotaka] (p.252) “Yes.”
+[says:ayanokouji-kiyotaka] (p.252) “So, aside from their base, Class A held down at least two spots, but we didn’t confirm how many they were occupying by the end of the test. If I correctly guessed the identity of their leader, though, I could invalidate all of their points.”
+[says] (p.252) “I’m still not convinced. If he figured out the spot’s location at such an early stage, and if he were acting alongside a lot of other people, shouldn’t he have avoided trouble? Even if he just had someone standing watch by the cave, it should have been sufficient claim of ownership. Why would they occupy it?”
+[says:ayanokouji-kiyotaka] (p.253) “That was probably Class A’s disadvantage.”
+[says:ayanokouji-kiyotaka] (p.253) “Their class appears perfect at first glance, but it actually has a huge schism in it.”
+[fact] (p.253) Class A’s internal schism is the reason Katsuragi could not rely on other people — why the methods revealed Class A so easily.
+[says:ayanokouji-kiyotaka] (p.253) “That’s why I excluded Class A at that stage, and turned my attention toward Class C. Katsuragi was easy to understand, but with Ryuuen, there were many unknown variables. To tell you the truth, he was gathering more information than I was. He’d found out the identities of all of the leaders.”
+[says] (p.253) “W-wait, he found out the identities of all of the leaders… So not only Class D, but also the leaders for Classes B and A? But that’s strange. We were far from being penalized; we ended up getting first place by a wide margin. How do you intend to explain that?”
+[says:ayanokouji-kiyotaka] (p.253) “This is a little difficult to explain, but the reason I made you retire is the answer.”
+[says] (p.253) “Wait, the answer is you made me retire? What in the world did you do?”
+[says:ayanokouji-kiyotaka] (p.253) “Oh, that reminds me. I didn’t return it to the school yet.”
+[action] (p.253) Takes the single card he hands her; the engraved name reads “Ayanokouji Kiyotaka.”
+[says] (p.253) “This is a keycard. Why do you…?!”
+[says] (p.253) “Wait, why does…?”
+[fact] (p.253) The leader card in his pocket bears his own name.
+[says:ayanokouji-kiyotaka] (p.253) “The test had to be fair. The rules were fundamentally created to be fair.”
+[says] (p.254) “That’s… The leader would be absent. So the rights of exclusive possession would disappear…”
+[says:ayanokouji-kiyotaka] (p.254) “Wrong. In the manual, it says, ‘It is impossible to change the leader without suitable justification.’ Don’t you think that retirement is suitable enough justification?”
+[rule] (p.254) The manual’s leader-change clause — retirement is suitable justification; the additional rules were made to be broken when someone is out through poor health or injury, with the base-camp clause as the parallel case.
+[says] (p.254) “So then, you made me…?”
+[fact] (p.254) Horikita Suzune retired and he was appointed in her place — the leader the other classes were supposed to guess at the end, there can only be one.
+[says:ayanokouji-kiyotaka] (p.254) “That’s why even though Class C knew you were the leader, we avoided penalties.”
+[says] (p.254) “But wait. Ibuki-san stole my card, but what if I’d protected it really thoroughly?”
+[says] (p.254) “Did you drop the card on purpose back then? Well, I suppose that Yamauchi-kun’s actions might have provided Ibuki-san the opportunity to hatch a plan to steal the keycard…”
+[rel:yamauchi-haruki] (p.254) The mud bribe she took read back as the opening that let Ibuki take the card.
+[says] (p.254) “Unless I knew what Ibuki-san was aiming for right at the start, I couldn’t have done anything…”
+[fact] (p.255) Ibuki was picked up by Class D, but not by chance — the near-coincidence of two people saved by two separate classes dissolved once Kaneda in Class B came out as a spy Ryuuen had sent.
+[says:ayanokouji-kiyotaka] (p.255) “Besides, Ibuki has a habit of looking people in the eye when she’s lying.”
+[says] (p.255) “Wait, when she lied she would look the person in the eye? Isn’t it usually the opposite?”
+[says:ayanokouji-kiyotaka] (p.255) “Generally speaking, you avoid eye contact if you have a guilty conscience. However, it was the opposite for her. I think that she made eye contact to make the person think that the lie was the truth. She probably didn’t even notice it herself.”
+[says:ayanokouji-kiyotaka] (p.255) “Her goal was probably to find the keycard, but she might have intended to disrupt Class D at the same time.”
+[says] (p.255) “But I have to wonder why Ibuki-san specifically stole my keycard. All she needed was to check my name.”
+[says:ayanokouji-kiyotaka] (p.255) “That was likely Ibuki’s intention from the start. However, she ran into unexpected trouble.”
+[fact] (p.255) Ibuki carried a digital camera to take a picture of the keycard; a photo would have made the leader’s identity clear to anyone and let her profit.
+[says] (p.255) “To take a picture…with the camera? Why would she go so far?”
+[says:ayanokouji-kiyotaka] (p.255) “If she had a picture, then the leader’s identity would have been clear for anyone to see, right? If she had convincing evidence, she would have profited.”
+[says] (p.255) “I don’t quite understand… Did Ryuuen-kun not trust Ibuki-san?”
+[says:ayanokouji-kiyotaka] (p.255) “That wasn’t it.”
+[says:ayanokouji-kiyotaka] (p.256) “From here on out, I don’t have any evidence of what I’m saying. Think of it as my intuition, which I derived from the test results. At the end of the test, Class A had 270 points.”
+[inference] (p.256) His own label: intuition from the results, with no evidence — Class A ended the test with 270 points and had not used a single one.
+[fact] (p.256) Classes A and C were connected behind the scenes: Class C sacrificed its own points and bought whatever Class A needed, and by taking all of C’s tools Class A spent the week without using any points — Ibuki’s evidence went to someone in Class A.
+[says:ayanokouji-kiyotaka] (p.256) “By the way, I became aware of Class C’s leader after half of the students retired. It was certain that the leader would have remained on the island, right?”
+[says] (p.256) “Even so, we weren’t supposed to know who was left.”
+[says:ayanokouji-kiyotaka] (p.256) “No, I was almost one hundred percent sure that Ryuuen was still on the island.”
+[fact] (p.256) Ibuki hiding a wireless transceiver in the ground proved someone was left on the island for her to contact; Ryuuen set it on a table unguarded while on vacation — no one else controlled it, and his mistake was trusting no one.
+[says] (p.257) “My god… I don’t even have the words,” Horikita answered, facing the truth.
+[fact] (p.257) The test in one line: Class A failed on its internal rift, Class B ran defense-only and paid for believing Kaneda, Class C sent spies and negotiated with A, and Class D avoided damage because he had been appointed the leader.
+[says] (p.257) “I don’t like this. You completely used me, like a pawn.”
+[says:ayanokouji-kiyotaka] (p.257) “Yeah. I can’t deny that. I wouldn’t be surprised if you never want to speak to me ever again.”
+[rel:ayanokouji-kiyotaka] (p.257) Accepts the charge without defense; he was aware of what he had done.
+[says:ayanokouji-kiyotaka] (p.257) “Well, I’ll be heading back to my room now. I’m really tired,” I said.
+[says] (p.257) “Wait. We’re not done talking.”
+[says:ayanokouji-kiyotaka] (p.257) “What? I just want to relax in my room, if possible.”
+[says] (p.257) “After you explain everything. There are still some things we need to talk about, right?”
+[says:ayanokouji-kiyotaka] (p.257) “Well…like what?”
+[says] (p.257) “The reason why you participated in this special test. Was it to fight alone? I don’t care that you used me this time. I want to know why you put in the effort when you dislike trouble.”
+[says:ayanokouji-kiyotaka] (p.257) “I wonder.”
+[rel:ayanokouji-kiyotaka] (p.257) Her real question is his principles, not the test — the explanation so far was the less important part to her.
+[says] (p.257) “I don’t have any room for doubt. I understand your talents now. If you help me, aiming for Class A seems a realistic enough goal. But what are your principles? Why did you do this?”
+[goal] (p.257) Names her own goal with him in it: Class A, realistically, if his principles hold.
+[says:ayanokouji-kiyotaka] (p.257) “Because I was touched that you tried to fight all alone when you were ill.”
+[says] (p.258) “You wouldn’t normally say that kind of thing. It’s easy to spot the lie.”
+[says:ayanokouji-kiyotaka] (p.258) “Well, what I mean is I don’t feel like explaining it.”
+[says:ayanokouji-kiyotaka] (p.258) “I don’t mind helping you get up to Class A. However, I have one condition. Do not investigate me. If you promise not to touch on this subject ever again, I will help you.”
+[rel:ayanokouji-kiyotaka] (p.258) The deal is struck: his help toward Class A in exchange for his past staying buried.
+[says] (p.258) “If you don’t want to talk, there’s nothing I can really do about that. If you’ll help, I have no reason to refuse you. I’m not interested in digging things up that are better left buried. After all, you dislike trouble.”
+[rel:ayanokouji-kiyotaka] (p.258) Takes his hand without hesitation; the handshake is firm — “I work for me. You do things for yourself.” — and the battle to raise the class from the bottom begins.
+
+<!-- walk: y1v3 ch7 → p.258 -->

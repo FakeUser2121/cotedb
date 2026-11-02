@@ -980,3 +980,36 @@ and 203 non-says spans, all corpus-exact. Locator coverage not run for
 this chapter; it stays with the volume-end gate. Next: y1v3 ch7
 pp.240–258 ("The Curtain Rises", 19 pages), then the ch8 postscript
 pp.259–262.
+
+y1v3 ch7: The Curtain Rises (pp.240–258)
+
+Read and recorded in two halves (pp.240–249, then §7.1 pp.250–258), one
+stamp `y1v3 ch7 → p.258` on fifteen people ledgers plus the volume file:
+Ayanokōji, Horikita, Hirata, Sudō, Ike, Yamauchi, Karuizawa, Ryūen,
+Kōenji, Chabashira, Katsuragi, Totsuka/Yahiko, Kaneda, Mashima, Ibuki.
+First half: the results announcement and Ryūen's leader-name reveal on
+the beach (pp.240–245), the deck — Kōenji's drink, Horikita's
+first-name withdrawal, Karuizawa's apology (pp.245–247), Chabashira's
+Icarus talk and the father reveal (pp.248–249). Second half: §7.1, the
+whole explanation on the silence condition — the circling-ship hints,
+Yahiko as Class A's leader, the card with his own name, the
+leader-change clause, Ibuki's camera and eye-contact tell, Kaneda the
+spy, and the closing handshake deal (pp.250–258). Mashima and Kaneda get
+ledger entries only — no pages; Totsuka/Yahiko's page extends. No new
+ledgers, no roster rows, no new tags. Defects kept as printed: five —
+"Horikitasan" (p.241), "That's¾" (p.242), "The lowest class is¾Class
+C" (p.244), "But I retired¾" and "what did you¾" (p.247) — each flagged
+at the page and listed in the volume section. Two sentences break across
+pages and are left unquoted: the poor-health question (pp.253–254) and
+the camera-or-theft answer (pp.255–256). Attribution gaps left out: the
+p.240 close-question, the p.241 pair, the p.242 four-line block, the
+p.244 zero-points line, the p.245 Class A cry, the p.246 ranked-first
+question, and the p.247 praise block; every other untagged line is
+placed with a note (pp.240, 241, 242, 244, 246, 247). Verify: two
+failures on the first run, both cross-page rows, fixed by unquoting them
+— 1264 [says] lines (23 micro-quotes skipped by design) and 233 non-says
+spans, all corpus-exact. The handshake narration briefly pushed R19 to
+90; wrapping the corpus line in quote marks restored the ratchet to
+82/82. Locator coverage not run for this chapter; it stays with the
+volume-end gate. Next: y1v3 ch8 postscript pp.259–262, then the
+volume-end coverage gate and the closing stamp.

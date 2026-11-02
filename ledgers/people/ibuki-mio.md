@@ -182,3 +182,20 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [action] (p.224) Says it to the unconscious Horikita, then disappears with Ryuuen into the dark woods.
 
 <!-- walk: y1v3 ch6 → p.239 -->
+
+### y1v3 p.241–256 — Ch.7: the culprit named
+[scene] (p.241) Named everywhere she is absent — the emptied beach, Karuizawa’s apology, and the lounge retelling that finally explains how her theft fit a larger plan.
+[note] (p.241) Nowhere on the sandy beach when the Class C camp is found emptied, as if she’d retired as well.
+[says:karuizawa-kei] (p.246) “Ibuki-san stole my underwear. Ayanokouji-kun told us everything.”
+[rel:horikita-suzune] (p.246–247) The culprit Karuizawa names to her face; the chase and collapse of the sixth day are what the apology is about.
+[says:karuizawa-kei] (p.247) “Horikita-san, when you noticed that Ibuki-san was the culprit, she tried to run because you questioned her, right? That’s why you ended up collapsing and getting sick…”
+[says:horikita-suzune] (p.254) “But wait. Ibuki-san stole my card, but what if I’d protected it really thoroughly?”
+[says:horikita-suzune] (p.254) “Did you drop the card on purpose back then? Well, I suppose that Yamauchi-kun’s actions might have provided Ibuki-san the opportunity to hatch a plan to steal the keycard…”
+[fact] (p.255) Ibuki was picked up by Class D, but not by chance — the near-coincidence of two people saved by two separate classes dissolved once Kaneda in Class B came out as a spy Ryuuen had sent.
+[trait] (p.255) The bigger the lie, the more obvious the habit — she looked him straight in the eye even over the underwear theft.
+[rel:ayanokouji-kiyotaka] (p.255) The one who read her eye-contact habit and her camera plan.
+[fact] (p.255) Ibuki carried a digital camera to take a picture of the keycard; a photo would have made the leader’s identity clear to anyone and let her profit.
+[rel:ryuuen-kakeru] (p.255–256) His spy on the island — the card, the camera and the transceiver all served the plan, and people outside Class C wanted her evidence rather than her word.
+[fact] (p.256) Ibuki hiding a wireless transceiver in the ground proved someone was left on the island for her to contact; Ryuuen set it on a table unguarded while on vacation — no one else controlled it, and his mistake was trusting no one.
+
+<!-- walk: y1v3 ch7 → p.258 -->

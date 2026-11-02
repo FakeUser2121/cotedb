@@ -18,3 +18,17 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 [rule] (p.28–29) Names the stakes — remaining points convert to class points after vacation — and the Class A illness penalty: thirty points, leaving A at 270.
 
 <!-- walk: y1v3 ch2 → p.99 -->
+
+### y1v3 p.243–244 — Ch.7: the results announcement
+[scene] (p.243) Cuts the beach argument short with a megaphone and announces the special test’s results to all four classes.
+[action] (p.242) Appears on the beach with a megaphone the moment its click cuts the argument short.
+[says] (p.243) “It’s fine. We don’t mind if you want to keep relaxing. The test has already concluded. Now we’ve entered the summer vacation part of the trip, so it’s all right if you loosen up.”
+[says] (p.243) “Well then, to get straight to the point. I would like to announce the results of the special test.”
+[says] (p.243) “We will not accept any questions regarding the results, no exceptions. We would like you to accept the results you have been given, analyze them, and use them to help you for the next test. It is what it is. Don’t wet yourselves over these results. You must accept reality, you know?”
+[says] (p.244) “Now, we will announce the rankings. The lowest class is¾Class C, with zero points.”
+[says] (p.244) “In third place is Class A, with 120 points. Coming in second place is Class B, with 140 points.”
+[says] (p.244) “…has come in first with 225 points. This concludes the announcement.”
+[status] (p.244) Class D takes first with 225 points, Class B second with 140, Class A third with 120, Class C last with zero.
+[note] (p.244) The broken three-quarter mark in the Class C line and the clipped opening before “has come in first” are kept as printed.
+
+<!-- walk: y1v3 ch7 → p.258 -->

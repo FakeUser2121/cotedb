@@ -446,3 +446,33 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [note] (p.229) Named once more when Horikita measures herself against him and the others: “I can’t be dumber than Sudou-kun and the others.”
 
 <!-- walk: y1v3 ch6 → p.239 -->
+
+### y1v3 p.240–246 — Ch.7: the results and the first name
+[scene] (p.240) Opens the chapter at the rest area by asking how close Ayanokōji and Horikita are, then lives through Ryuuen’s provocation and the results announcement on the beach.
+[says:sudou-ken] (p.240) “Ayanokouji. You work pretty well with Horikita, don’t you? How close are you, really?”
+[rel:ayanokouji-kiyotaka] (p.240) The question that opens the chapter — how close he and Horikita really are.
+[says:sudou-ken] (p.240) “Even that makes me jealous, though. I still ain’t her friend.”
+[note] (p.240) “But didn’t Horikita acknowledge you a little bit this time?” runs untagged between Sudou’s lines — it could be either Sudou or Ayanokōji speaking — and is left out as a chapter attribution gap.
+[says:sudou-ken] (p.240) “I sure hope so. She still hasn’t called me by my first name, after all.”
+[says:sudou-ken] (p.241) “Wait, what did you say? What are you talking about?”
+[says:ryuuen-kakeru] (p.241) “Oh, hey there, sycophants. What happened to Suzune?”
+[says:ryuuen-kakeru] (p.241) “I know you’ve been chasing Suzune’s ass. We were together before, you know.”
+[says:sudou-ken] (p.242) “What a stupid thing to say. Huh? Pick up your own trash, jerk.”
+[says:ryuuen-kakeru] (p.242) “But picking up garbage seems like the perfect task for garbage.”
+[rel:ryuuen-kakeru] (p.242) Trampled the cup Ryuuen threw at Ayanokōji’s feet, then collars him over the Suzune talk.
+[says:sudou-ken] (p.242) “The next time you say something stupid, I’ll kill you,” Sudou growled.
+[note] (p.242) “What are you doing?” and “Huh? What’s with you? Getting all excited by yourself, huh?” run untagged around Sudou’s tagged threat and are left out as chapter attribution gaps.
+[says:sudou-ken] (p.243) “That’s what we should be saying to you Class C people. You used up all of your points, right? Don’t make us laugh.”
+[says:sudou-ken] (p.244) “So you’re going to expose a class leader?”
+[note] (p.244) Untagged; the narration then has Hirata and Ayanokōji holding their faces still while Sudou alone looks shocked, so the question is placed as his.
+[says:sudou-ken] (p.244) “Hold on a minute. What are you talking about, huh?! I-If you’re telling the truth, then…”
+[says:sudou-ken] (p.244) “Bwah ha ha ha! Hey, check it out! You guys have zero points after all!”
+[says:sudou-ken] (p.245) “Yahoo! We did it! In your face!”
+[action] (p.245) Raises a middle finger and sticks out his tongue at Ryuuen on the way to the boat.
+[says:sudou-ken] (p.245) “S-Suzune. Are you feeling better now?”
+[rel:horikita-suzune] (p.246) Asks after her recovery, is granted the first name for one line, then has it withdrawn.
+[says] (p.246) “Don’t worry about it.”
+[says:horikita-suzune] (p.246) “By the way, Sudou-kun. Don’t just go around calling me by my first name without permission. Understand?”
+[says] (p.246) “Y-y-yeah.”
+
+<!-- walk: y1v3 ch7 → p.258 -->

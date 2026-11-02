@@ -73,3 +73,15 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [status] (p.223) Commits Class A to an alliance with Class C in Ryūen’s hands, in his rival’s absence.
 
 <!-- walk: y1v3 ch6 → p.239 -->
+
+### y1v3 p.244–256 — Ch.7: the strange result
+[scene] (p.245) Muttering over the announced results on the beach, then named through the lounge retelling as the cautious holder of the Class A cave.
+[status] (p.244) Class A takes third with 120 points, behind Class B’s 140 and Class D’s 225.
+[says] (p.245) “Something is strange… What does this mean?”
+[note] (p.245) The question follows the narration that he muttered it; recorded as his. The Class A cry “What’s the meaning of this, Katsuragi?!” comes from unnamed voices and is left out as a chapter attribution gap.
+[rel:ayanokouji-kiyotaka] (p.251) The one who read his cave display as insurance rather than carelessness — the leader beside him was Yahiko, not him.
+[fact] (p.251) Totsuka Yahiko was Class A’s leader; Katsuragi only displayed the card while the two were at the cave.
+[fact] (p.253) Class A’s internal schism is the reason Katsuragi could not rely on other people — why the methods revealed Class A so easily.
+[inference] (p.256) The retelling’s reading of his class: 270 points at the end of the test, not one spent — bought through Class C’s sacrifice — and still third, Ayanokōji’s own label for it intuition with no evidence.
+
+<!-- walk: y1v3 ch7 → p.258 -->

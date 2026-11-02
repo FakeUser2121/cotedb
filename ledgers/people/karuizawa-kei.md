@@ -121,3 +121,17 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:hirata-yousuke] (p.211) The narration counts the theft of her underwear among the troubles that have turned Hirata from his calm.
 
 <!-- walk: y1v3 ch6 → p.239 -->
+
+### y1v3 p.246–247 — Ch.7: the apology
+[scene] (p.246) Comes to Horikita to eat humble pie after the points accusation and delivers the class’s reading of the test.
+[rel:horikita-suzune] (p.246) Faces her to eat humble pie after the accusation about the points.
+[says] (p.246) “I’m sorry.”
+[says] (p.246) “Ibuki-san stole my underwear. Ayanokouji-kun told us everything.”
+[rel:ayanokouji-kiyotaka] (p.246) The one whose report about Ibuki sent her to Horikita with the apology.
+[says:horikita-suzune] (p.246) “Huh?”
+[says] (p.247) “Horikita-san, when you noticed that Ibuki-san was the culprit, she tried to run because you questioned her, right? That’s why you ended up collapsing and getting sick…”
+[says] (p.247) “I heard about it from Hirata-kun first. He said that you found out the leaders of Class A and C. That’s why we had so many points. So, I’m…sorry for everything I said.”
+[rel:horikita-suzune] (p.247) Delivers the class’s reading of the test — Horikita found the leaders — to her face.
+[action] (p.247) Immediately returns to the other girls once the apology is out.
+
+<!-- walk: y1v3 ch7 → p.258 -->

@@ -357,3 +357,43 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [trait] (p.211) Since the test began he has carried one burden after another; the underwear theft and the fire have turned him unhinged and stormy as the weather.
 
 <!-- walk: y1v3 ch6 → p.239 -->
+
+### y1v3 p.240–246 — Ch.7: the rest area and the deck
+[scene] (p.240) Brings paper cups to the rest area, thanks Ayanokōji and Sudou for the week, and carries the beach exchange with Ryuuen until Mashima’s megaphone cuts it short.
+[says] (p.240) “Good work, both of you. Thank you for everything you did this week. You really saved us.”
+[action] (p.240) Hands him and Sudou the two paper cups he was carrying.
+[says:ayanokouji-kiyotaka] (p.241) “I should be thanking you. You covered for me, the class loner. Also, you covered for me being late for roll call, and the fact that Horikita retired.”
+[says] (p.241) “I couldn’t blame you when I heard the reason. Besides, Horikita-san gave us some really important information.”
+[says:ayanokouji-kiyotaka] (p.241) “Do you believe what she said?”
+[says] (p.241) “She isn’t the type to speak irresponsibly. That’s why you get along with her, right?”
+[trait] (p.241) The narration calls him the one who would protect an ally even if it risked his pure reputation.
+[says] (p.241) “I’d be lying if I said there wasn’t any risk, but I had to help Horikitasan.”
+[says] (p.241) “That’s a friend.”
+[says:sudou-ken] (p.241) “Wait, what did you say? What are you talking about?”
+[action] (p.241) Finds Class C emptied with the pair — Ibuki nowhere on the sandy beach — Ryuuen alone, cup in hand.
+[says:ryuuen-kakeru] (p.241) “Oh, hey there, sycophants. What happened to Suzune?”
+[says:ryuuen-kakeru] (p.241) “I know you’ve been chasing Suzune’s ass. We were together before, you know.”
+[says:ryuuen-kakeru] (p.242) “Throw that away for me.”
+[says:sudou-ken] (p.242) “What a stupid thing to say. Huh? Pick up your own trash, jerk.”
+[says:ryuuen-kakeru] (p.242) “But picking up garbage seems like the perfect task for garbage.”
+[says] (p.242) “Calm down, Sudou-kun. Here, I’ll throw it away.”
+[action] (p.242) Hurriedly picks up the cup Sudou trampled.
+[says:ryuuen-kakeru] (p.242) “Who are you? More importantly, where’s Suzune? I’ve dreamed of squeezing her bottom.”
+[says:sudou-ken] (p.242) “The next time you say something stupid, I’ll kill you,” Sudou growled.
+[action] (p.242) Jumps in and pulls Sudou away from Ryuuen before fists can fly.
+[says] (p.242) “Horikita-san retired yesterday. She’s not here.”
+[says:ryuuen-kakeru] (p.242) “Retired? Suzune? She doesn’t seem like that kind of girl.”
+[note] (p.242) His reply is untagged and is recorded as his; “I thought you retired, Ryuuen-kun.” and the interrupted reply “That’s¾” are left out as chapter attribution gaps; the broken three-quarter mark is kept as printed.
+[says:sudou-ken] (p.243) “That’s what we should be saying to you Class C people. You used up all of your points, right? Don’t make us laugh.”
+[says] (p.243) “We have 125 points remaining. I think we’ll be quite fine,”
+[says:sudou-ken] (p.244) “So you’re going to expose a class leader?”
+[says:sudou-ken] (p.244) “Hold on a minute. What are you talking about, huh?! I-If you’re telling the truth, then…”
+[says:sudou-ken] (p.244) “Bwah ha ha ha! Hey, check it out! You guys have zero points after all!”
+[says] (p.245) “I’ll explain everything. Well, Ryuuen-kun, if you’ll excuse us.”
+[action] (p.245) Walks toward the boat with Ike and Sudou while Sudou raises a middle finger at Ryuuen.
+[says:ike-kanji] (p.245) “You jerk, Kouenji! We lost thirty points because of you. You know what I’m talking about, don’t you?”
+[says] (p.246) “Well, Karuizawa-san, I think you should talk to Horikita-san first, don’t you agree?”
+[says] (p.246) “Horikita-san, do you have a minute?”
+[note] (p.246) The line is attributed only to “he”; he has just proposed the talk, so it is recorded as him.
+
+<!-- walk: y1v3 ch7 → p.258 -->

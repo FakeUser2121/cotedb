@@ -47,3 +47,11 @@ char_id: totsuka-yahiko · class: Class 1-A (enrolled April 2015) · status: min
 [rel:katsuragi-kouhei] (p.141) Wants to refuse Class D outright and stays quiet only after the sharp look; his watch idea is overridden by the offer to help.
 
 <!-- walk: y1v3 ch4 → p.143 -->
+
+### y1v3 p.251 — Ch.7: named the leader
+[scene] (p.251) Named in the lounge retelling as Class A’s leader, the one who was careless with the cave card.
+[fact] (p.251) Totsuka Yahiko was Class A’s leader; Katsuragi only displayed the card while the two were at the cave.
+[rel:katsuragi-kouhei] (p.251) Follows Katsuragi around and was the leader he was covering for at the cave.
+[rel:ayanokouji-kiyotaka] (p.251) The one whose careless occupation Ayanokōji read off the displayed card, checked after the pair walked away.
+
+<!-- walk: y1v3 ch7 → p.258 -->

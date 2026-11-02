@@ -249,3 +249,10 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [rel:ike-kanji] (p.208) Reports the missing Ibuki and bag to Ike first as the suspicion turns.
 
 <!-- walk: y1v3 ch6 → p.239 -->
+
+### y1v3 p.240, p.254 — Ch.7: the trio and the mud bribe
+[scene] (p.240) Stands with Sudou and Ike at the rest area, then turns up in the lounge retelling as the opening that let Ibuki take the card.
+[says:horikita-suzune] (p.254) “Did you drop the card on purpose back then? Well, I suppose that Yamauchi-kun’s actions might have provided Ibuki-san the opportunity to hatch a plan to steal the keycard…”
+[rel:horikita-suzune] (p.254) The mud bribe she took read back as the opening that let Ibuki take the card.
+
+<!-- walk: y1v3 ch7 → p.258 -->

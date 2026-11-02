@@ -18,3 +18,12 @@ aliases used for anchors: kaneda, kaneda satoru, kaneda-kun
 [note] (p.124) He has not told anyone his situation yet, and Ichinose says she has not asked him.
 
 <!-- walk: y1v3 ch3 → p.130 -->
+
+### y1v3 p.255–257 — Ch.7: the spy Ryuuen sent
+[scene] (p.255) Named in the lounge retelling as the spy Ryuuen planted in Class B, which dissolves the coincidence that put Ibuki in Class D’s hands.
+[fact] (p.255) Ibuki was picked up by Class D, but not by chance — the near-coincidence of two people saved by two separate classes dissolved once Kaneda in Class B came out as a spy Ryuuen had sent.
+[note] (p.255) The same Kaneda Satoru who offered to help at the shore earlier in the volume; the page now names him as the spy.
+[rel:ryuuen-kakeru] (p.255) The Class C student who sent him into Class B as a spy.
+[fact] (p.257) The test in one line: Class A failed on its internal rift, Class B ran defense-only and paid for believing Kaneda, Class C sent spies and negotiated with A, and Class D avoided damage because he had been appointed the leader.
+
+<!-- walk: y1v3 ch7 → p.258 -->

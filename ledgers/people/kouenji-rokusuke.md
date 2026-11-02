@@ -111,3 +111,16 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:yukimura-teruhiko] (p.98) The normally silent Yukimura shouts and kicks the ground at the news; the class is furious and can do nothing.
 
 <!-- walk: y1v3 ch2 → p.99 -->
+
+### y1v3 p.240, p.245, p.251 — Ch.7: the deck drink and the ship hint
+[scene] (p.245) Greets the class on the deck with a drink after a week of tanning, and waves off Ike’s thirty-point accusation.
+[note] (p.240) Named among the retired students not waiting on the cruise ship when the test ends.
+[says] (p.245) “Hello, ladies and gentlemen. How was your week on the deserted island?”
+[says:ike-kanji] (p.245) “You jerk, Kouenji! We lost thirty points because of you. You know what I’m talking about, don’t you?”
+[says] (p.245) “Calm down, little boy Ike. I was in poor health, and was resting. I had no other choice.”
+[trait] (p.245) Smooth, glossy skin from a week of tanning under a claim of poor health the page calls not the least bit credible.
+[rel:ike-kanji] (p.245) Waves off the boy’s accusation with the poor-health claim.
+[back] (p.245) The thirty points Ike howls about are the retirement penalty from the volume’s second chapter.
+[fact] (p.251) Named as one of the two who noticed the circling ship’s “significant scenery” hint about the spot locations, alongside Katsuragi.
+
+<!-- walk: y1v3 ch7 → p.258 -->

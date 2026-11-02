@@ -361,3 +361,14 @@ aliases used for anchors: ike, kanji, ike-kun
 [action] (p.209) Calls twice at the dazed Hirata with no answer coming back.
 
 <!-- walk: y1v3 ch6 → p.239 -->
+
+### y1v3 p.240, p.245 — Ch.7: the trio and the deck
+[scene] (p.245) Greets the returning group on the deck by howling at Kōenji over the thirty points.
+[note] (p.240) Named in the rest-area grouping with Sudou and Yamauchi, always together with the two.
+[says] (p.245) “Hey, hey, hey, what’s going on?! Hey, hey!!”
+[says] (p.245) “You jerk, Kouenji! We lost thirty points because of you. You know what I’m talking about, don’t you?”
+[rel:kouenji-rokusuke] (p.245) Blames him to his face for the thirty-point retirement penalty.
+[back] (p.245) The thirty points he howls about are the retirement penalty from the volume’s second chapter.
+[action] (p.245) Heads for the boat with Hirata and Sudou after the explanation.
+
+<!-- walk: y1v3 ch7 → p.258 -->

@@ -70,3 +70,34 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [action] (p.224) Lays out the contract’s terms to Ibuki with a creepy smile — the page never quotes them.
 
 <!-- walk: y1v3 ch6 → p.239 -->
+
+### y1v3 p.241–257 — Ch.7: the lone Class C
+[scene] (p.241) The only Class C student left on the beach comes over to provoke the Class D trio, hears the results in his face, and later turns up in the lounge retelling as the variable with the most information.
+[says] (p.241) “Oh, hey there, sycophants. What happened to Suzune?”
+[says] (p.241) “I know you’ve been chasing Suzune’s ass. We were together before, you know.”
+[action] (p.241–242) Drains his cup, then crushes it and throws it at Ayanokōji’s feet.
+[says] (p.242) “Throw that away for me.”
+[says:sudou-ken] (p.242) “What a stupid thing to say. Huh? Pick up your own trash, jerk.”
+[says] (p.242) “But picking up garbage seems like the perfect task for garbage.”
+[says:hirata-yousuke] (p.242) “Calm down, Sudou-kun. Here, I’ll throw it away.”
+[says] (p.242) “Who are you? More importantly, where’s Suzune? I’ve dreamed of squeezing her bottom.”
+[says:sudou-ken] (p.242) “The next time you say something stupid, I’ll kill you,” Sudou growled.
+[note] (p.242) “What are you doing?” and “Huh? What’s with you? Getting all excited by yourself, huh?” run untagged around Sudou’s tagged threat and are left out as chapter attribution gaps.
+[says:hirata-yousuke] (p.242) “Horikita-san retired yesterday. She’s not here.”
+[says] (p.242) “Retired? Suzune? She doesn’t seem like that kind of girl.”
+[note] (p.242) “I thought you retired, Ryuuen-kun.” and the interrupted reply “That’s¾” are left out as chapter attribution gaps; the broken three-quarter mark is kept as printed.
+[says:sudou-ken] (p.243) “That’s what we should be saying to you Class C people. You used up all of your points, right? Don’t make us laugh.”
+[says] (p.243) “Ha. I’m jealous of the nerve of you small fry. How you can be satisfied with that amount of points…”
+[says] (p.244) “That’s right. I wrote it on the paper, didn’t I? The name of Class D’s leader.”
+[says] (p.244) “Also, those guys in A and B wrote the same thing, too. Do you know what this means?”
+[rule] (p.244) The page’s own reading of the reveal: if the name holds, Class D is hit with penalties and loses 100 points.
+[note] (p.244) “It doesn’t really matter whatever you say; Class C is still going to stay at zero points.” runs untagged between Ryuuen’s taunts and is left out as a chapter attribution gap.
+[says] (p.244) “Zero?”
+[action] (p.245) Can only watch in silence as the Class D trio heads for the boat with Sudou’s gesture in the air.
+[rel:ayanokouji-kiyotaka] (p.253) Read as the variable with more information than himself — the identities of all the leaders in hand.
+[fact] (p.256) Classes A and C were connected behind the scenes: Class C sacrificed its own points and bought whatever Class A needed, and by taking all of C’s tools Class A spent the week without using any points — Ibuki’s evidence went to someone in Class A.
+[fact] (p.256) Ibuki hiding a wireless transceiver in the ground proved someone was left on the island for her to contact; Ryuuen set it on a table unguarded while on vacation — no one else controlled it, and his mistake was trusting no one.
+[fact] (p.257) The test in one line: Class A failed on its internal rift, Class B ran defense-only and paid for believing Kaneda, Class C sent spies and negotiated with A, and Class D avoided damage because he had been appointed the leader.
+[rel:ayanokouji-kiyotaka] (p.257) Named the number one enemy — spies for the leaders’ identities plus whatever the Class A negotiations bought.
+
+<!-- walk: y1v3 ch7 → p.258 -->

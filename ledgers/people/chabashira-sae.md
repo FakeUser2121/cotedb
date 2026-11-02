@@ -380,3 +380,27 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [trait] (p.157) By the end the cold indifference is gone — misty-eyed and forceful, the act put away.
 
 <!-- walk: y1v3 ch5 → p.158 -->
+
+### y1v3 p.248–249 — Ch.7: the Icarus talk
+[scene] (p.248) Intercepts him on the empty side of the ship and confirms, through the Icarus myth, that the man who demanded his expulsion is his father.
+[says] (p.248) “May I have a word with you?”
+[says:ayanokouji-kiyotaka] (p.248) “I don’t really feel sociable. Is it okay if I refuse, Chabashira-sensei?”
+[says] (p.248) “If you really don’t want to, I can just start talking here. You don’t mind if we stand outside, do you?”
+[says:ayanokouji-kiyotaka] (p.248) “It’s hot, so please keep it brief.”
+[says:ayanokouji-kiyotaka] (p.248) “Is it safe to say that for the time being, you’re satisfied?”
+[says] (p.248) “Yes. First, I’d like to say that you did wonderfully. I’m honestly impressed.”
+[says:ayanokouji-kiyotaka] (p.248) “Well, tell me something. Is it really true? Did he demand I be expelled from school?”
+[says] (p.248) “Do you have any basis for saying that the story is true?”
+[says] (p.248) “I know quite a lot about you. Might not that be the reason, more than anything else? Other teachers don’t know about your true abilities. But I have no doubts.”
+[feat] (p.248) Claims knowledge of his true abilities that the other teachers do not have.
+[says] (p.248) “I’m sure that you’ve heard of this rather famous myth, the wings of Icarus.”
+[says:ayanokouji-kiyotaka] (p.248) “Why do you bring that up?”
+[says] (p.248) “Icarus flew out of the tower where he was imprisoned in order to gain his freedom. However, that wasn’t achieved through one person’s abilities alone. It was because his father, Daedalus, had constructed wings and instructed him to fly. He didn’t fly because of his own intentions. Don’t you think that sounds exactly like your current predicament?”
+[says:ayanokouji-kiyotaka] (p.249) “I can’t understand.”
+[says] (p.249) “That man—no, your father—said this: ‘Sooner or later, Kiyotaka will gladly chase the means of his expulsion from school.’ You’re welcoming your end, much like how Icarus fell into the sea and died after his wings were burned, because he’d flown too close to the sun.”
+[fact] (p.249) The man who demanded his expulsion from the school is named as his father, with the father’s own words quoted.
+[says] (p.249) “So, what do you plan to do?” she asked.
+[says:ayanokouji-kiyotaka] (p.249) “You should know, Sensei. Icarus won’t heed Daedalus’ warnings.”
+[rel:ayanokouji-kiyotaka] (p.249) Answers her myth with the myth — burned wings and all, he flies on for his freedom.
+
+<!-- walk: y1v3 ch7 → p.258 -->
