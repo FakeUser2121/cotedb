@@ -1122,3 +1122,19 @@ person outside quote marks and was wrapped in them, ratchet restored to
 R19 warn 82/82. Determinism hash across consecutive builds:
 `5114f99ae30bc4f68a9f15b7810edd09`. Quotes: 233 non-says spans, 1264
 [says] lines, all corpus-exact.
+
+### y1v3 Chapter 8 and the volume close reach the site (site, 2026-11-02)
+
+The postscript section (pp.259–262) shipped on the volume page with its
+closing stamp — Year 1 Volume 3 now reads as complete (the y1v2
+postscript-DONE pattern). No people pages changed for the postscript;
+one people page changed overall: Totsuka/Yahiko extended by the p.252
+retelling section added at the coverage gate. 172 pages, 40 assets,
+search index rebuilt. Quotes: 241 non-says spans, 1264 [says] lines,
+all corpus-exact after one first-run fix (the bios quote had imported
+the y1v2 wording; the corpus prints "Primarily responsible for
+scenario and PC game planning" without "the"). Coverage gate over the
+full roster: all real locator hit pages cited, 15 substring-collision
+ids discarded with evidence, no content/*.tsv change. R19 ratchet holds
+at 82/82. Determinism hash across consecutive builds:
+`5ad45779effcb8153e1f603096d13b84`.

@@ -54,4 +54,9 @@ char_id: totsuka-yahiko · class: Class 1-A (enrolled April 2015) · status: min
 [rel:katsuragi-kouhei] (p.251) Follows Katsuragi around and was the leader he was covering for at the cave.
 [rel:ayanokouji-kiyotaka] (p.251) The one whose careless occupation Ayanokōji read off the displayed card, checked after the pair walked away.
 
+### y1v3 p.252 — Ch.7 §7.1: the insurance and the narrowing
+[scene] (p.252) Still inside the lounge retelling; the explanation of why Katsuragi displayed the cave card, and the leader narrowing that ends on his name.
+[fact] (p.252) Katsuragi held the space down "probably because Yahiko had been careless" — the card display was insurance against a witness.
+[rel:katsuragi-kouhei] (p.252) The loop closes on the pair: once the retelling "narrowed it down to Yahiko", further effort "would’ve been a waste of time."
+
 <!-- walk: y1v3 ch7 → p.258 -->

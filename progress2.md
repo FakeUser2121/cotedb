@@ -1013,3 +1013,55 @@ spans, all corpus-exact. The handshake narration briefly pushed R19 to
 82/82. Locator coverage not run for this chapter; it stays with the
 volume-end gate. Next: y1v3 ch8 postscript pp.259–262, then the
 volume-end coverage gate and the closing stamp.
+
+y1v3 ch8: Postscript (pp.259–262)
+
+Read and recorded in one section, no people stamps — the postscript
+names no roster character in-world. One stamp `y1v3 postscript → DONE`
+on the volume file, doubling as the volume closing stamp (the y1v2
+pattern). Content: Kinugasa's afterword — health-consciousness and
+sake, the volume's stated theme (each class's goals and policies through
+the special test), the Volume 2 sashimi bet paid ("Maguuroo!"), the
+manga announcement (Ichino Yuyu-sama, serialization in January), the
+early-manuscript shame bit — plus the author/illustrator bios (p.261)
+and the publisher's newsletter notice (p.262). New named entities
+listed in the section: Syougo Kinugasa, Tomoseshunsaku, Ichino Yuyu,
+Shunaku-shi. Defects kept as printed: three — "healthconscious"
+without its hyphen (p.259), "a through medical check-up" (p.261),
+"Shunaku-shi" (p.259). One first-run verify failure: the bios quote had
+"gathered" the y1v2 wording — the corpus prints "Primarily responsible
+for scenario and PC game planning" without "the" (p.261) — fixed to the
+printed words; 1264 [says] and 241 non-says spans then all pass.
+
+y1v3 volume-end coverage gate
+
+Full-roster locator sweep (253 ids, `walk_locate.py locate --vol y1v3`):
+46 produced hits; 15 of those are substring collisions, checked against
+the text and discarded with the page evidence — aga/against,
+iki/like, yano/Ayanokōji, mori/memories, yanagi/Sakayanagi,
+kimura and yuki/Yukimura, miya/Hoshinomiya and Komiya, kaga/Sakagami,
+eto/etou in "detour", ando/…, oda/…, nishi/Nakanishi, hosen/housen
+(no printed form in the volume at all), and horikita-manabu sharing
+Suzune's surname pages. Every remaining real hit page is cited by a
+y1v3 ledger row — 231 distinct pages carry citations; the only content
+page with none is p.143, which carries no prose. The president's one
+real reference is p.107's "student council president's younger
+sister", recorded on both Ayanokōji's and Horikita's ledgers.
+Totsuka/Yahiko: the locator still returns zero (the volume prints
+"Yahiko" only and his row's published forms do not match that alone —
+the ch4 note), so the by-eye sweep stands: pp.60, 127–129, 140–141 and
+251 were already in his ledger, and p.252's two retelling lines got a
+new section (stamp `y1v3 ch7 → p.258`, de-duplicated by append).
+Sakayanagi: all four real pages (p.60, p.148, pp.150–151, p.223) are
+recorded — the volume section's bullets plus mirrored rows on
+Ayanokōji, Ibuki, Ichinose and Kanzaki — but she still has no ledger
+file; the ch6 deferral closes with the finding that coverage is
+complete and the file should open at her first scene-presence volume,
+the Miyake precedent (owner can override at the report). Named-only
+pages confirmed recorded without ledgers: Sakagami (p.155), Nakanishi
+(p.124), Miyake (p.16), Tomose (p.261), Ichino (p.259), Chihiro-chan
+(p.124). Every named id's `volumes` cell already carries y1v3 — no
+content/*.tsv change. Open question for the owner (§11): whether
+"Yahiko" should join totsuka-yahiko's aliases so the locator can
+surface him (the volume never prints "Totsuka"). Verifiers, gate and
+make check all pass; hash 5ad45779effcb8153e1f603096d13b84 twice.
