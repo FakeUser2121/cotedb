@@ -1096,3 +1096,26 @@ every one already cited in his ledger, so the coverage gate closes on
 machine confirmation. Verify 1268 [says] / 244 non-says ALL PASS; gate
 exit 0; make check OK (R19 82/82); hash `7f6fd436a889ba9afdab57a9bc545155`
 twice. Both owner decisions from the volume report are now applied.
+
+y1v4 ch1: Karuizawa Kei's Soliloquy (pp.10–11)
+
+Walk position moves to Year 1 Volume 4. Volume file opened —
+`ledgers/volumes/y1v4.md`, header pages: 248 · chapters: 5 + postscript —
+and chapter read in one pass (p.10 prose, p.11 blank/short scan), one
+stamp `y1v4 ch1 → p.11` on one people ledger plus the volume file:
+Karuizawa. Her first y1v4 section is the cold-open soliloquy — the
+mirror, the unnamed old wound, the parasite self-assessment; no other
+roster character is present and the page names no one. No roster rows,
+no new tags, no alias changes (the page reveals no name forms). Defect
+kept as printed: the doubled verb "Why did I have to have to go through"
+(p.10). One first-run verify failure — the class-line quote had "boys
+and girls" where the corpus prints "boys or girls" — fixed to the
+printed words; 13 non-says spans then ALL PASS (0 [says]: the chapter
+has no dialogue). gate exit 0; make check OK (R19 82/82); hash
+`ee21f656d3ea278b734a18cd864dbf63` twice. Session notes kept here for
+memory: the roster-wide alias-audit plan is dropped — the owner's rule is
+that code never fills data, only helps reading, so aliases are logged by
+hand while reading each chapter from now on; Totsuka's `yahiko` alias had
+already shipped (a579e57). Two commits remain local: the GitHub token
+died mid-session, push stays blocked until the owner refreshes it. Next:
+y1v4 ch2 pp.12–62.

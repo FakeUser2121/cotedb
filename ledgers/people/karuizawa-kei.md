@@ -135,3 +135,22 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [action] (p.247) Immediately returns to the other girls once the apology is out.
 
 <!-- walk: y1v3 ch7 → p.258 -->
+
+## y1v4
+
+<!-- walk: y1v4 → start -->
+
+### y1v4 p.10–11 — Ch.1: Karuizawa Kei’s Soliloquy
+[scene] (p.10) Volume cold open: Karuizawa’s first-person soliloquy, alone post-shower at the mirror; no other character appears, and p.11 carries no prose.
+[thinks] (p.10) “In the end, nothing changed even after I came to this school.”
+[thinks] (p.10) “No, that’s wrong… Maybe I never had any intention of changing.”
+[voice] (p.10) Opens by measuring herself against the class: she is certain “none of the boys or girls like me.”
+[voice] (p.10) Claims the knowing no longer hurts, then turns it outward: “Because for some reason, I want them to feel that way.”
+[trait] (p.10) At the mirror she grips the sink and vomits at “that old wound on my side” — the page ties her self-loathing to an unnamed past and never says what happened.
+[thinks] (p.10) “My life was destroyed because of that nightmarish day. I lost my youth, my friends, and even myself.”
+[thinks] (p.10) “The most important thing is protecting myself. I’ll do whatever it takes.”
+[trait] (p.10) Closing self-assessment: “I’m a parasite, a weak creature that can’t survive on its own.”
+[note] (p.10) Translation defect kept as printed: “Why did I have to have to go through” — the verb is doubled.
+[note] (p.11) Blank/short scan page: running footer only; no prose to cite.
+
+<!-- walk: y1v4 ch1 → p.11 -->

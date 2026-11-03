@@ -1159,3 +1159,14 @@ the rebuild is otherwise identical — 172 pages, 41 assets. Quotes:
 244 non-says, 1268 [says], all corpus-exact. R19 holds at 82/82.
 Determinism hash across consecutive builds:
 `7f6fd436a889ba9afdab57a9bc545155`.
+
+### y1v4 Chapter 1 reaches the site (site, 2026-11-03)
+
+The cold-open soliloquy (pp.10–11) shipped as the first section of the
+new Year 1 Volume 4 page (`docs/story/v/y1v4/index.html`), with
+Karuizawa's people page extended by its first y1v4 section — 172 pages,
+42 assets, search index rebuilt. Quotes: 13 non-says spans, 0 [says]
+(the chapter has no dialogue), all corpus-exact after one first-run fix
+(the class line prints "boys or girls", not "and"). R19 ratchet holds at
+82/82. Determinism hash across consecutive builds:
+`ee21f656d3ea278b734a18cd864dbf63`.
