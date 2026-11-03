@@ -264,3 +264,29 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 ### y1v4 p.19 — Ch.2 §2.0: a hypothetical at the deck restaurant
 [scene] (p.19) Named once, hypothetically — what he and Ike would have done at the deck restaurant.
 [note] (p.19) Ayanokōji’s aside: had they been there, they would have “foregone the food and feasted their eyes on the girls instead.”
+
+### y1v4 p.103–105 — Ch.3 §3.3: the neck-grab and the camera stimulus
+[scene] (p.103) Ambushes Ayanokōji inside the ship over Sakura’s email, nearly chokes him, then walks out of the cabin door with a mission.
+[action] (p.103) Grabs Ayanokōji from behind and tightens on his neck until he taps out — “looking like some sort of oni or an asura.”
+[says] (p.103) “‘What’s the matter’ my ass! You said you’d tell me Sakura’s email address, for chrissakes! And you were talking with Sakura just now! I knew it. You were after her all along!” he shouted.
+[says] (p.103) “Wait. You lied?”
+[says] (p.103) “So… Wait, so just now you were trying to ask Sakura for her email address?”
+[says] (p.103) “So… You didn’t know her email address at all, Ayanokouji. You lied to me?” he sputtered.
+[says] (p.103) “So how’d it go? Did you get Sakura’s email address?”
+[says] (p.103) “Sorry? What does that mean? I’m not looking for an apology, I’m looking for her email!” Yamauchi muttered to himself, reflecting the depth of his disappointment. “How are you… How dare you trick me!” he shouted.
+[says] (p.104) “More time?! ‘Show me a liar and I will show you a thief’!” he shouted. (the proverb that shocks the narrator)
+[says] (p.104) “Yeah, that’s right.” (on making Sakura tell him — probably blinded by anger, willing to get the contact by force)
+[says] (p.104) “You mean guys like you, Ayanokouji?!” he shouted. (on Sakura hating guys that are all talk)
+[says] (p.104) “You’re just making excuses. You never knew her info in the first place.” Yamauchi lowered his head.
+[says] (p.104) “But what the hell should I do?” he asked.
+[says] (p.104) “Oh, she’d be happy, for sure, but…I don’t have any points, either.”
+[says] (p.105) “So if I do my best, there’s a chance I can get a new camera for Sakura?” he asked. Yamauchi was about to burst.
+[says] (p.105) “I’ll do it, I’ll do it, I’ll do it, I’ll do it! I’ll give it everything I’ve got and win Sakura!” he shouted.
+[says] (p.105) “Yeah! I’m definitely going to win!” he shouted.
+[says] (p.105) “What?” he asked. (when Ayanokōji starts “Let me tell you something, just in case…”)
+[says] (p.105) “Of course.” (on not letting other classes beat him to the VIP)
+[trait] (pp.103–105) Blinded by anger at first, then coachable the moment the camera-and-points route appears; the narrator redirected his energy into the test as a temporary fix and worries he might fire past the target.
+[rel:ayanokouji-kiyotaka] (pp.103–105) The liar, then the coach.
+[rel:sakura-airi] (pp.103–105) The crush whose email and camera drive every line he speaks.
+
+<!-- walk: y1v4 ch3 → p.124 -->

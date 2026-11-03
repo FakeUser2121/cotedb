@@ -202,3 +202,49 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:hirata-yousuke] (p.50) The call she makes the moment the briefing ends.
 
 <!-- walk: y1v4 ch2 → p.62 -->
+
+### y1v4 p.80–93 — Ch.3 §3.1: the Rabbit votes and Manabe’s phone
+[scene] (p.80) Enters the Rabbit room with Ayanokōji’s party, isolates herself beside Ibuki, votes bluntly through the strategy debate, and ends the half by knocking Manabe’s phone out of her hand.
+[note] (p.80) The line “Ugh. No matter how you look at it, we really do have the worst team.” sits immediately before “Karuizawa entered the room” with no speaker tag — the translation leaves it unassigned; her entrance follows on the same page.
+[trait] (p.80) Casts her eyes away on entry and sits “a little further away, as if isolating themselves”; Ayanokōji expected the Ibuki underwear fight and gets none.
+[says] (p.82) “What the heck are you talking about? Isn’t that obvious?” snapped Karuizawa.
+[trait] (p.82) Her bluntness accidentally builds the room’s hierarchy — the dam bursts and Yukimura, Manabe, then Hamaguchi pile on.
+[says] (p.86) “Umm. The outcome where someone figures out the VIP’s identity and then betrays the group?” she said. (answering Machida’s which-outcome-to-avoid)
+[says] (pp.88–89) “I… To be completely honest, I’m annoyed. Even though you say we’ll get points, whether I get any points is a separate issue. But we may get points even if we do have a discussion… I don’t want to waste time fighting over what we’re doing. I just want this test to be over so we can have fun.”
+[trait] (p.89) The other students are astonished by the honesty; she wants the test over so they can have fun, not points talk.
+[action] (p.93) Looks up from her phone when Manabe opens with the Rika charge, denies knowing any Rika, then knocks the camera-phone out of Manabe’s hands — more force than she meant.
+[rel:manabe-shiho] (p.93) The Class C girl who brings the summer café bullying story to her face.
+[rel:ibuki-mio] (pp.80, 88) Sits apart from the same girl she wronged on the island; neither starts it.
+[rel:ichinose-honami] (pp.82, 88) First loud yes to Outcome #1, then the honest non-answer Ichinose has to work around.
+[rel:machida-kouji] (pp.86, 89) Answers his outcomes walk, then is named in his Class A vote count.
+
+### y1v4 p.94–96 — Ch.3 §3.1: the phone fight resolves
+[scene] (p.94) After the slap, both sides claim the other is wrong; Machida talks Manabe down, Karuizawa apologises for the stepped foot, and the friction is filed for later.
+[says] (p.94) “That’s what I should be saying! Don’t just take pictures of me without permission. I already told you that you had the wrong person,” Karuizawa snapped.
+[says] (p.94) “I don’t know! Just ask the school for a new one,” answered Karuizawa. (on whether the phone is broken)
+[says] (p.94) “What? Are you saying I’m the bad guy here?” asked Karuizawa.
+[says] (p.94) “But I don’t want you to.”
+[trait] (p.94) Her words are “surprisingly weak” — some fear mixed in with the tough-girl act; Ayanokōji files it as maybe imagination.
+[says] (p.95) “No, I don’t want you to! Come on. Please, say something to her,” Karuizawa pleaded. For some reason, she turned to Machida, begging him to intervene. “I won’t forgive you if you take my picture without permission. What do you think, Machida-kun?”
+[says] (p.95) “Come on, lay off me. Thank you, Machida-kun,” said Karuizawa.
+[trait] (p.95) Looks up at Machida “her eyes full of gratitude”; the narration floats a new-love joke — she already has Hirata — then files the Class C friction as future trouble.
+[says] (p.96) “Well, I’m going to head back—Aaah?!” (exhausted rise that becomes the foot-step)
+[action] (p.96) Pitched forward, staggered onto Manabe’s foot, apologised quickly and left — “Ah, I didn’t mean to do that. I’m sorry,” Karuizawa mumbled.
+[rel:manabe-shiho] (pp.94–96) The fight, the forgiveness-ask, and the accidental foot-step on the way out.
+[rel:machida-kouji] (p.95) The Class A boy she begs and thanks.
+[rel:ibuki-mio] (p.94) Ibuki’s scorn for Manabe is the only Class C support she gets.
+
+### y1v4 p.107–109 — Ch.3 §3.4: the background-character file
+[scene] (p.107) Second gathering: complains the VIP hunt is unfair, gets Ichinose’s comfort, then sighs back to her phone while Ayanokōji writes her up as off-pattern.
+[says] (p.107) “But can we really find the VIP by talking? I just don’t think we can. It’s just, like, this test is so unfair. It’s too hard. The VIP has way too much of an advantage,” said Karuizawa.
+[says] (p.107) “Sunrise?” Karuizawa looked puzzled. (on Yukimura’s “surprise”)
+[says] (p.107) “Well, yeah. It is pretty fun,” said Karuizawa. (agreeing with Ichinose’s ship-life pitch)
+[action] (p.108) Sighs and goes back to fiddling with her phone mid-discussion — rude in a VIP hunt, or maybe CIA-line to Hirata, the narrator jokes; either way out of character for someone who never puts in effort.
+[trait] (pp.108–109) The full write-up: off since the test started — Ibuki reunion, Manabe confrontation, background character where Hirata and Kushida stay themselves; answer-then-shrink; group hierarchy would put her below Manabe and the Class C girls; for Class D cohesion “Karuizawa Kei was irreplaceable” and he expected her to dominate the field.
+[rel:ichinose-honami] (p.107) Gets the comfort speech and the perception lesson.
+[rel:ayanokouji-kiyotaka] (pp.107–109) The subject of the file that ends in “I needed to stir the pot.”
+[rel:manabe-shiho] (p.109) Named as above her in the room’s hierarchy.
+[rel:hirata-yousuke] (p.109) The contrast who “was always Hirata.”
+[rel:kushida-kikyou] (p.109) The contrast who “was always Kushida.”
+
+<!-- walk: y1v4 ch3 → p.124 -->

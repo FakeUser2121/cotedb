@@ -207,3 +207,31 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 ### y1v4 p.16 — Ch.2 §2.0: a passing mention as the culprit
 [scene] (p.16) Named once as the underwear culprit; Ayanokōji asks whether Karuizawa got hers back.
 [note] (p.16) Hirata confirms the fallout: naming her resolved things — “When she heard Ibuki-san was the culprit, things went smoothly.”
+
+### y1v4 p.68–75, p.88 — Ch.3 §3.0–§3.1: the café shadow and the Rabbit holdout
+[scene] (p.68) Walks into Blue Ocean at Ryūen’s side as the island spy Horikita caught; later sits silent through the whole Rabbit first discussion until Ichinose calls her name.
+[says] (p.69) “I’m not so stupid that I’d let someone like her see through me. Things were simply more difficult because of my fever.” (on losing to Horikita)
+[says] (p.69) “In that case, let’s have a rematch,” she challenged.
+[action] (p.69) Closes the distance on Horikita ready to lunge, then stops — rules, and Ryūen’s leash, hold her back; “Tch!”
+[trait] (p.69) Clearly detests working beneath Ryūen, yet is exceptionally talented — the precise reason he chose her as the Class D spy.
+[says] (p.75) “So what about Sakayanagi?” Ibuki asked that, not Horikita. She wanted to confirm that information herself, apparently.
+[trait] (p.75) The one question she puts to Ryūen all morning; he goes silent before answering.
+[action] (p.80) Sits “a little further away, as if isolating themselves” in the Rabbit circle — same posture as Karuizawa.
+[trait] (p.80) Ayanokōji expected a fight with Karuizawa over the stolen underwear; Ibuki shows no tiredness and no revenge.
+[says] (p.88) “Whatever. I don’t really have anything to add,” said Ibuki.
+[trait] (p.88) Sole Class C holdout on the Katsuragi no-discussion vote — arms crossed since the test began, she does not move and does not speak until called; the others take it as her normal way.
+[rel:ryuuen-kakeru] (pp.68–75) His lackey on the reconnaissance walk; she detests the leash but keeps it.
+[rel:horikita-suzune] (pp.68–69) The spy she failed against; rematch refused on rules.
+[rel:karuizawa-kei] (pp.80, 88) The girl whose underwear she stole on the island — they share the Rabbit room without speaking.
+[rel:ichinose-honami] (p.88) Answers only when Ichinose asks her by name.
+
+### y1v4 p.94–95 — Ch.3 §3.1: the outsider’s verdict
+[scene] (p.94) Watches the Manabe–Karuizawa picture fight from the circle and speaks once, as an outsider.
+[says] (p.94) “Stupid,” said Ibuki.
+[says] (p.95) “That’s right. This absolutely has nothing to do with me. So I said what I thought as an outsider.”
+[action] (p.95) Crosses her arms and looks away; Manabe does not confront her — the narration reads a clear Class C hierarchy with Ibuki above Manabe.
+[trait] (p.94) Looks scornfully over at Manabe, showing her contempt, while the other Class C girls laugh at Karuizawa.
+[rel:manabe-shiho] (pp.94–95) Above her in the Class C pecking order.
+[rel:karuizawa-kei] (p.94) The only Class C voice that does not pile on her.
+
+<!-- walk: y1v4 ch3 → p.124 -->

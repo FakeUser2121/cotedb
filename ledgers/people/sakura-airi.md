@@ -410,3 +410,25 @@ aliases used for anchors: sakura, airi, sakura-san
 [rel:ichihashi-ruri] (p.27) Roommate two — named only; no file yet (first appearance volume).
 [rel:maezono] (p.27) Roommate three — named only; no file yet.
 [rel:ayanokouji-kiyotaka] (pp.25–28) Comes to him because “any advice from you…would be good.”
+
+### y1v4 p.97–102 — Ch.3 §3.2: the bow stress-talk
+[scene] (p.98) Waits behind a pillar on the bow deck after moving from the crowded elevator route; mutters to herself, hands Ayanokōji the Cow roster, and finds the one person who will take her call.
+[says] (p.98) “I was thinking about it, but…h-how do I do it?” she murmured out loud. (before he arrives — self-talk over the wind)
+[says] (p.98) “Aaaieeeeeeeeeeee!” Sakura yelped, practically jumping out of her own skin. Seemed like I’d surprised her after all. “Wh-wh-when did you get here? How much did you hear?” she asked frantically.
+[says] (p.100) “Were you listening?! Did you hear what I was saying?!” Sakura shouted.
+[says] (p.100) “Um, well. You see, it’s…ah… I was s-stressing out over the test!” she shouted.
+[action] (p.100) Hands him a list — the Cow group names by class — looking incredibly depressed.
+[says] (p.100-101) “I thought I might know someone from another class but…amazingly enough, I don’t know anyone. No one who would remotely consider me a … friend,” said Sakura.
+[says] (p.101) “Ah, it’s okay. You don’t need to apologize. It’s just that…I don’t have any friends!” Sakura responded.
+[says] (p.101) “Huh? Me? What is it?”
+[says] (p.101) “Yamauchi-kun? No, he hasn’t. Is something the matter?” she asked. (on Yamauchi contact)
+[says] (p.101) “Is that okay?” asked Sakura. (after he offers to be her contact)
+[says] (p.101) “I’ll definitely contact you!” she said.
+[trait] (pp.101–102) Eyes sparkle like a child’s; a little different from her usual self — overjoyed, more vigor, maybe more assertive; the island test “changed her life in unexpected ways” and she has learned to stay positive.
+[rel:ayanokouji-kiyotaka] (pp.98–102) The loner pact, the contact offer, and the secret he keeps about Yamauchi’s email promise.
+[rel:yamauchi-haruki] (p.101) Names him as not having been in touch; does not know the email promise.
+[rel:sudou-ken] (p.100) On her Cow roster as a Class D boy she is stuck with.
+[rel:ike-kanji] (p.100) The other Class D boy on the roster.
+[rel:matsushita-chiaki] (p.100) The fourth Class D name on her list.
+
+<!-- walk: y1v4 ch3 → p.124 -->

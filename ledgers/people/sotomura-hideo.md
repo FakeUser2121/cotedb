@@ -26,3 +26,36 @@ char_id: sotomura-hideo · class: Class 1-D (enrolled April 2015) · status: min
 [rel:karuizawa-kei] (pp.37, 51) Mocks her with the three-heads line, then insults her out of earshot.
 
 <!-- walk: y1v4 ch2 → p.62 -->
+
+### y1v4 p.78–88 — Ch.3 §3.1: the Professor in Rabbit
+[scene] (p.78) Meets Ayanokōji and Yukimura outside the Rabbit room full from three heavy lunches, then sits through the first discussion as the otaku who votes the convenient way.
+[says] (p.78) “Sorry to keep you waiting! Urrp! Urp! If you eat three heavy meals for lunch, you’ll naturally have a full belly. I considered going on a diet, but it seemed futile,” said the Professor.
+[says] (p.78) “If you’re not at full strength, there’ll be trouble. It’s like choosing a higher difficulty setting in a video game, wouldn’t you say?” the Professor responded.
+[says] (p.78) “Oh ho! Hmm, dost thou not care for my linguistic idiosyncrasies? Well then, Yukimura-dono, what wouldst thou like?” The Professor seemed like he wanted to antagonize Yukimura.
+[says] (p.78) “From now on, I shall be like the protagonist who appears weak, but secretly has massive strength. I normally have no motivation, but I’ll become a completely OP cheater with enough power to destroy the entire world. I mean, I’m just following the current trends!” the Professor mused.
+[says] (p.79) “Ayanokouji. There’s something I wish to ask you. Please give me a straight answer,” said the Professor.
+[says] (p.79) “I’ve considered what kind of speech patterns you might like. Of course, a pleasant dialect that a cute heroine character uses would be good,” said the Professor.
+[says] (p.79) “Have you perhaps encountered a speech pattern that felt moe?” the Professor asked.
+[says] (pp.79–80) “Of course. I’ll rank them. In third place would be ‘Even if you say so, Kudo!’ That’s the old stand-by, the Kansai-ben! It tends to give a somewhat tough or crude impression, but it’s the obvious choice. It’s an essential dialect. In second place is the beautiful girl from a snowy country, the Hokkaido-ben! When they say, ‘Oh, sorry for the trouble, thanks,’ and stuff like that, it just makes me swoon! Those unique phrases are so moe they make me want to die! It also gets points because it’s not used very widely in the 2D world!” exclaimed the Professor.
+[says] (p.79-80) “Dourururururururu… Coming in first place, jumping from little girls to the older sister, the universal Hakata-ben! … Those are the best three by far!” the Professor shouted.
+[trait] (pp.79–80) The dialect ranking is pure2D fandom; Ayanokōji understands almost none of it and only kills time listening.
+[says] (p.83) “Of course I’ll cooperate. I want points,” he answered. (Ayanokōji’s call-on; narration notes the mysterious-character tone is new)
+[says] (p.88) “Isn’t Class A’s strategy fine, though? I cannot say that I can find any problems with it. Once the exam ends, the classes can talk amongst themselves and share the points,” said the Professor.
+[trait] (p.88) Has slipped back to his normal nerdy tone; his line seeds the Class C hand votes.
+[action] (p.88) Raises his hand early for the no-discussion plan.
+[rel:ayanokouji-kiyotaka] (pp.78–83) The hallway dialect partner, then the student he answers on cue.
+[rel:yukimura-teruhiko] (p.78) Antagonises him with the faux-archaic bit until Yukimura storms off.
+[rel:machida-kouji] (p.88) Votes with the Class A pitch he praises.
+[rel:manabe-shiho] (p.88) His sentiment “spread to Class C” and she agrees next.
+
+### y1v4 p.97, p.107 — Ch.3 §3.2–§3.4: hunger and the Sunrise gag
+[scene] (p.97) Last out of the first Rabbit room with the Class B trio and Ibuki; back for the second gathering’s one comic beat.
+[says] (p.97) “I’m hungry again. I wonder if there’s a lunch buffet,” mused the Professor.
+[trait] (p.97) The narrator: how can he be hungry again after three heavy lunches in an hour — “What kind of body lets you digest all that food in just an hour?!” — and doubts the heartfelt advice will reach him.
+[action] (p.97) Stands up slowly to leave; last people in the room are the three Class B students and Ibuki with him.
+[says] (p.107) “If it’s Sunrise, leave it to me! That’s my specialty. I’m fired up!” shouted the Professor. (on Yukimura’s “surprise”)
+[trait] (p.107) The mishearing gets the narration’s flat “No, I thought. No, they said ‘surprise,’ not ‘Sunrise.’”
+[rel:yukimura-teruhiko] (pp.97, 107) Leaves with him; feeds him the line he mangles.
+[rel:ayanokouji-kiyotaka] (p.97) The one who doubts the diet advice will land.
+
+<!-- walk: y1v4 ch3 → p.124 -->

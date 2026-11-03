@@ -64,3 +64,27 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 [says] (p.38) “You need to be more carefree!”
 
 <!-- walk: y1v3 ch2 → p.99 -->
+
+## y1v4
+
+<!-- walk: y1v4 → start -->
+
+### y1v4 p.121–123 — Ch.3 §3.6: the Class B homeroom at the sofa
+[scene] (p.121) With Chabashira and Mashima at the first-level vending machines, she drinks whiskey neat, owns the Ichinose-to-Rabbit move, and is ordered to stop spying.
+[says] (p.121) “Ah ha ha! We broke up two weeks ago. I’m the type of girl who breaks it off once the relationship starts getting serious. It’s just like, see ya later!” Hoshinomiya-sensei said.
+[note] (p.121) Also addresses Mashima as “Mashima-kun” and is called “Chie” back; most of the date-talk lines are untagged — recorded on the volume attribution list.
+[action] (p.122) Pours whiskey into an empty glass and downs it in one gulp — “Must’ve been a drinker.”
+[says] (p.122) “Huh? What are you talking about? What’d I do?” (the answer to “What are you planning, Chie?” — speaker of the question untagged)
+[says] (p.122) “I’m not screwing around or anything. It’s certainly true that as far as grades and attitude are concerned, Ichinose-san is number one. However, someone’s true place in society cannot be measured by numbers alone. I determined that she needed a challenge. And besides, rabbits are just so cute, aren’t they? The way they hop around. Doesn’t that suit Ichinose-san?” Hoshinomiya-sensei asked.
+[says] (p.122) “Oh, are you still talking about what happened ten years ago? I thought that was all water under the bridge.” (the ten-year grudge, speaker untagged in the exchange — recorded under her as the Chie being addressed; [note] keeps the gap)
+[says] (p.122) “I genuinely thought that Ichinose needed to learn a lesson, so I removed her from the Dragon group. You know? By the way, Sae-chan, I couldn’t help but notice you’ve been focusing on Ayanokouji-kun. Anyway, it’s just a coincidence. Coincidence, coincidence. When the island test ended and Ayanokouji-kun became a kind of leader, you weren’t surprised at all, were you?”
+[says] (pp.122–123) “Agh, it’s like you don’t trust me at all. Well, I’m not the only one to blame. Sakagami-sensei is part of the problem, too. If we evaluated the Class C students properly, another student should’ve been placed into Dragon. But they threw Ryuuen in there.”
+[trait] (p.122) Admits she is watching Ayanokōji — the reconnaissance Ayanokōji files as “Apparently I was under heavy scrutiny.”
+[rel:ichinose-honami] (p.122) The Class B student she deliberately kept out of Dragon and put in Rabbit.
+[rel:chabashira-sae] (pp.121–122) “Sae-chan” — the focus of her “coincidence” needle.
+[rel:mashima-tomonari] (p.122) Ordered to stop spying on colleagues’ classes.
+[rel:sakagami] (p.123) Named as part of the Class C evaluation problem.
+[rel:ryuuen-kakeru] (p.123) The Class C student “they threw” into Dragon.
+[rel:ayanokouji-kiyotaka] (p.122) The student she has been watching since the island endgame.
+
+<!-- walk: y1v4 ch3 → p.124 -->

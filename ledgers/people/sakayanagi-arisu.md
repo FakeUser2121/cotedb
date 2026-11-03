@@ -34,3 +34,17 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [status] (p.223) Her absence is the lever the alliance is built on — Ryūen sells the faction’s dominance, Katsuragi answers with her inability to rule from nowhere.
 
 <!-- walk: y1v3 ch6 → p.239 -->
+
+## y1v4
+
+<!-- walk: y1v4 → start -->
+
+### y1v4 p.75 — Ch.3: the rumoured name in the café
+[scene] (p.75) Twice named in the Ryūen–Horikita coffee, never present.
+[says] (p.75) “So what about Sakayanagi?” Ibuki asked that, not Horikita. She wanted to confirm that information herself, apparently. (the question is Ibuki’s; recorded here because the answer is about Arisu)
+[says] (p.75) “I’m saving her for the final course. It’d be a waste to eat her now. Let’s go, Ibuki.” Ryuuen stood and left with his lackey.
+[status] (p.75) Horikita’s setup: “Going by the rumors, there’s someone named Sakayanagi, too. Shouldn’t the people in the classes above C be your concern?” — Ryūen’s focus is called downright obsessive until this name breaks it.
+[rel:ryuuen-kakeru] (p.75) The man who will not spend her yet.
+[rel:horikita-suzune] (p.75) The one who puts the rumoured name in the air.
+
+<!-- walk: y1v4 ch3 → p.124 -->

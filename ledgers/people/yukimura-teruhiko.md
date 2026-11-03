@@ -59,3 +59,44 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.52) Absent from the third-deck cabin at 20:30 — Ayanokōji notes the room holds only himself and Hirata.
 
 <!-- walk: y1v4 ch2 → p.62 -->
+
+### y1v4 p.78–92 — Ch.3 §3.1: from the convenient plan to Ichinose
+[scene] (p.78) Storms off the Professor’s dialect bit, briefs the room hard, then swings through the Rabbit discussion — convenient plan first, Ichinose’s downside last.
+[says] (p.78) “Stop talking like that. It’s weird,” said Yukimura.
+[says] (p.78) “Whatever, I don’t care. Just talk normal.”
+[action] (p.78) Storms away from the Professor’s faux-archaic provocation; the other two hurry after him.
+[says] (p.80) “The time for screwing around ended yesterday. From here on out, we need to fight for ourselves and for our classes.” Yukimura directed that statement toward the Professor, but I nodded in acknowledgement.
+[says] (p.86) “There won’t be any negatives, you mean?” (prompted by Machida’s four-outcomes walk)
+[says] (p.89) “A hidden downside? What in the world could that be?” asked Yukimura, sounding flustered. It didn’t seem he’d considered that point yet.
+[trait] (p.90) Face visibly stiffens when Ichinose shows the Class A always-proposes-this pattern — “like he wondered how he could have missed such a simple thing.”
+[says] (p.91) “I agree. We can’t allow Class A to keep securing the lead,” added Yukimura.
+[says] (p.92) “I can’t trust you,” muttered Yukimura. (rejecting Ichinose’s alliance offer)
+[trait] (pp.86–92) The swing of the half: votes with the convenient Class A plan, flinches at the hidden downside, then refuses Ichinose anyway — he wanted to avoid Class D getting the short end and could not commit to trust.
+[rel:machida-kouji] (pp.86–88) First the Class A plan’s beneficiary, then its questioner.
+[rel:ichinose-honami] (pp.89–92) Flips to her side on the class-gap point, then rejects her alliance on trust.
+[rel:sotomura-hideo] (p.78) The dialect sparring partner; they walk into Rabbit together.
+[rel:ayanokouji-kiyotaka] (pp.78, 86) Hallway companion; one of the names Machida uses to teach the outcomes.
+
+### y1v4 p.96–97, p.107, p.112–115 — Ch.3 §3.2–§3.5: strategy talk and the Kouenji explosion
+[scene] (p.96) Eager to start the Class D strategy huddle after the first discussion; back for the second gathering and the cabin when Kouenji ends the Monkey group.
+[says] (p.97) “She’s always acting strangely,” he replied. (on Karuizawa; the straightforward answer Ayanokōji did not want)
+[says] (p.107) “I don’t think we need a breakthrough right now, but we do need a discussion. Class A might be breaking away from this test, but I think we need to pinpoint the VIP,” said Yukimura.
+[trait] (p.107) His words “helped motivate us somewhat”; Ayanokōji then wonders if he is the target using camouflage.
+[says] (p.107) “I understand, Karuizawa-san. But doesn’t that just depend on your point of view? I mean, the test on the island was also a surprise to the students,” said Yukimura.
+[trait] (p.107) Misses the “surprise”/“Sunrise” collision with the Professor entirely.
+[says] (p.113) “So you can’t trust us, Hirata? If you know, then I have the right to know, too. Besides, if you know who a VIP is, that might give us some kind of hint. We should all be sharing information with each other in the first place. It’s only natural, after all,” said Yukimura.
+[says] (p.113) “I see,” murmured Yukimura. He was careful not to say too much. (after the two VIP names)
+[says] (p.114) “Speaking of Rabbit Group, it’s equally possible for the VIP to be from any of the four classes. So in Class D, there are two VIPs that we know about. There should be one more VIP keeping his or her identity secret,” said Yukimura.
+[action] (p.114) Bolts out of his chair at Kouenji’s humming: “Kouenji, stop the happy-go-lucky act already! I’m not going to tell you to take things seriously, but you need to at least participate. We don’t want you to screw everything up like you did back on the island,” he shouted.
+[says] (p.114) “You just faked being ill to get out of it!”
+[says] (p.114) “Troublesome? You’re not even thinking about this test at all!” countered Yukimura.
+[says] (p.114) “What did you just do, Kouenji?!” shouted Yukimura. (the school notification)
+[says] (p.115) “Y-you’ve got to be kidding me! We’re desperately trying to think of a way out of this, and that guy, he just…”
+[says] (p.115) “You’re being way too generous! That guy will screw anyone over, so long as he’s able to enjoy himself and take it easy. This sucks!” shouted Yukimura. (to Hirata’s restraint)
+[says] (p.115) “Damn it. Thanks to Kouenji, things have escalated,” said Yukimura.
+[rel:kouenji-rokusuke] (pp.114–115) The target of every shout in the cabin.
+[rel:hirata-yousuke] (pp.113–115) Pushed for the VIP names, then called too generous on Kouenji.
+[rel:ayanokouji-kiyotaka] (pp.97, 112–115) Strategy partner and cabin witness.
+[rel:karuizawa-kei] (p.97) His flat read on her mood.
+
+<!-- walk: y1v4 ch3 → p.124 -->

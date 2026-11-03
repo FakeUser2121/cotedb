@@ -1968,3 +1968,154 @@ walk: y1v1 → DONE
 [rel:kushida-kikyou] (p.60) Present when she wanders into the gathering, puzzled.
 
 <!-- walk: y1v4 ch2 → p.62 -->
+
+### y1v4 p.63–77 — Ch.3 §3.0: the 8:00 café and the Ryūen interrupt
+[scene] (p.63) Blue Ocean café on the ship’s deck at 7:55 — he meets Horikita for the 8:00 VIP message, then Ryūen and Ibuki sit down uninvited and pick at the island result until the coffee is done.
+[says] (p.63) “I was waiting for an hour.” (teasing Horikita; she arrived before the designated time anyway)
+[says] (p.64) “I see. This really seems like an inevitable grouping,” (reading Horikita’s Dragon list)
+[trait] (p.64) Reads the Dragon roster as a “dream team” of class representatives — Katsuragi, Kanzaki, Ryuuen — and a death match; notes Kōenji’s abundance would not be contributed.
+[says] (p.65) “But there’s probably a gap between me and the Professor, same as you and Hirata. There are too many details that don’t fit the score theory.”
+[says] (p.66) “I suppose neither of us was chosen, then.”
+[says] (p.66) “Yeah. If you’re chosen, then you could lead your group to any of the outcomes,”
+[trait] (p.66) Weighs the VIP’s edge at 500,000 points and calls the school’s “no disadvantages” line a lie — without the VIP in the class the point gap widens.
+[says] (p.67) “There are some things I can’t yet see, like how some of the students I don’t know will react. I won’t know until I meet with them directly. But I thought of a way to lead us to victory.”
+[says] (p.67) “Me too. Can’t wait to see what you do with your group,” I answered. (answering Horikita’s wish to see his results)
+[says] (p.67) “Ryuuen,” I answered. (his answer to who he is most wary of)
+[says] (p.67) “Of course. Considering he’s only a first-year student, he’s excellent. If you’d asked me who the most excellent student was, then Katsuragi would’ve been my answer. But if you’re asking who I’m wary of, then it’s Ryuuen, by a mile,” I answered.
+[trait] (p.67) Marks Mashima’s earlier “after thorough consideration” phrasing as proof the VIP was chosen by a rule, not a roll.
+[action] (p.68) Silences Horikita with a finger on her lips the moment Ryūen’s shadow appears.
+[says] (p.76) “I think we were being spied on. Him suddenly meeting up with us is too convenient,” I said.
+[says] (p.76) “Maybe she was forced to keep an eye on us, or maybe she just happened to see us by chance. If that’s the case, it would help us,” I said.
+[says] (p.76) “A mistake,” I muttered. (after Ryūen’s “someone just like him” line lands too easily)
+[says] (p.76) “I think we’re done for the time being. I’m still sleepy, so I’m going to head back to my room,” I muttered.
+[trait] (pp.63–76) Works the whole café as cover: feeds Horikita the strategy he will not show Ryūen, then reads the encounter as a possible leak and files it away.
+[rel:horikita-suzune] (pp.63–77) The morning partner; he teases, trades wary-lists, and parts with her report request.
+[rel:ryuuen-kakeru] (pp.68–76) Faces the man he called his top wary name; knows Ryūen suspects him and that the meeting itself may have given the hint away.
+[rel:ibuki-mio] (pp.68, 76) She is his Rabbit groupmate and, he suspects, Ryūen’s lookout.
+[rel:katsuragi-kouhei] (p.67) Names him the most excellent first-year, but not the one he fears.
+
+### y1v4 p.78–93 — Ch.3 §3.1: observing the Rabbit group
+[scene] (p.78) Meets Yukimura and the Professor outside the Rabbit room, then sits through the first group discussion as Ichinose and Machida trade Katsuragi’s no-discussion plan.
+[says] (p.79) “No, I don’t have a favorite speech pattern or anything. Not especially, anyway,” I answered. (to the Professor’s moe-dialect question)
+[says] (p.79) “Well, Professor, what about you? Do you have a speech pattern you like?” I asked.
+[trait] (pp.79–80) Follows the Professor’s dialect ranking as a way to kill time before the room fills.
+[says] (p.80) “It’s nothing,” I said. (on why Karuizawa and Ibuki sit apart — he expected a fight over the stolen underwear)
+[trait] (p.80) Notes the eleven-person circle, the class clusters, and that Karuizawa and Ibuki isolate themselves; recognizes the Class A boy who once offered him a deal to betray Class D.
+[action] (p.83) Jumps into the opening vote to bind the Professor on camera: “What do you say, Professor?”
+[says] (p.83) “I agree, too. We’re a group, like you said, and we could all use some private points. If it’s possible, I’d like us to work together. What do you say, Professor?”
+[trait] (pp.82–83) Reads Ichinose’s “assume that no one here is the VIP” as a narrowing question and clocks the answer order — Ichinose, Karuizawa, Yukimura, Manabe, Hamaguchi — as the first suspect list.
+[says] (p.89) “I mean, the strategy’s fine. Besides, I think most people here agree, and I’ve never been good at talking,” I answered.
+[trait] (p.89) Publicly backs Katsuragi’s plan while privately sure it is hiding something; lays low for the rest of the session.
+[trait] (p.92) Judges the room’s low-communication types as reactive and refuses to get impatient.
+[rel:ichinose-honami] (pp.81–89) Watches her take the lead, tests her with the Professor, and is last in her roll call.
+[rel:machida-kouji] (pp.83–91) Sits through the Class A pitch and the silent withdrawal.
+[rel:hamaguchi-tetsuya] (pp.82–90) Notes the Class B counter that holds the middle of the room.
+[rel:manabe-shiho] (p.93) Present when she turns on Karuizawa with the Rika charge.
+[rel:karuizawa-kei] (pp.80–93) Shares the room with her; sees her vote, her bluntness, and the phone slap that ends the half.
+[rel:yukimura-teruhiko] (pp.78, 86–92) Walks in with him; tracks his swing from the convenient plan to Ichinose.
+[rel:sotomura-hideo] (pp.78–88) The dialect small-talk partner outside, then the vote he drags the Professor into.
+
+### y1v4 p.94–97 — Ch.3 §3.2: the first discussion breaks up
+[scene] (p.94) Watches the Manabe–Karuizawa phone fight resolve through Machida’s intervention, then leaves with the group and decides to pull Sakura for a second opinion on the test.
+[action] (p.95) Stays out of the middle of Manabe’s glare — “I didn’t want to get caught in the middle of anything, so I averted my eyes and got out of there.”
+[says] (p.96) “Well, we’re heading back, too. I want to talk to Hirata about some things,” I said. (cover for slipping away)
+[says] (p.97) “Hey, Yukimura. Wasn’t Karuizawa acting strangely?” I asked.
+[says] (p.97) “Hmm. Perfect timing,” I murmured. (Sakura’s instant message)
+[trait] (p.97) Wants opinions from people other than Hirata and Horikita — “I’d probably gain insight after learning more about Sakura’s group.”
+[rel:manabe-shiho] (pp.94–96) Keeps clear of her after the phone slap.
+[rel:karuizawa-kei] (pp.94, 97) Reads the fear under her tough-girl act as off, then asks Yukimura about it.
+[rel:sakura-airi] (p.97) Answers her meet-up message and heads for the bow.
+[rel:yukimura-teruhiko] (p.97) Asks him first about Karuizawa’s mood.
+
+### y1v4 p.97–102 — Ch.3 §3.2: the bow with Sakura
+[scene] (p.98) Meets Sakura behind a pillar on the quiet bow deck; she stress-mutters, hands him the Cow group list, and they compete over who has fewer friends.
+[says] (p.98) “Sakura? What’s the matter?” I asked, trying not to surprise her.
+[says] (p.100) “I didn’t really hear anything. I just got here now.”
+[says] (p.100) “So, why did you call me out here?” I asked.
+[trait] (p.100) Reads the Cow roster — Sawada, Shimizu, Nishi, Yoshida / Kobashi, Ninomiya, Watanabe / Tokitou, Nomura, Yashima / Ike, Sakura, Sudou, Matsushita — and feels sympathy for her with Sudou and Ike as the Class D boys.
+[trait] (p.100) Weighs helping her secretly against acting unnaturally: “In a test like this, breaking the rules could mean death.”
+[says] (p.101) “Sorry. I don’t really have any friends, either,” I said.
+[says] (p.101) “By the way, there was something I wanted to ask you, Sakura.”
+[says] (p.101) “Has Yamauchi gotten in touch with you at all since the discussion ended?”
+[back] (pp.101–102) Island after-action: he used Sakura while using Horikita, and manipulated Yamauchi with a promise of her email he had not yet asked her for — “Since I’d planted the seeds myself, if Yamauchi made a move, I would have to act.”
+[says] (p.101) “For the time being, contact me if something’s bothering you. You can tell me anything,” I said.
+[says] (p.101) “Yeah. That’s the least I can do.”
+[trait] (p.102) Watches her develop quickly since the island — more assertive, eyes sparkling — and notes she has learned to stay positive without transforming completely.
+[rel:sakura-airi] (pp.98–102) The loner pact and the standing contact offer.
+[rel:yamauchi-haruki] (pp.101–102) The unasked-for favour that is about to explode.
+[rel:ichinose-honami] (p.101) One of only two people who could help Sakura from another class — already taken by his own group.
+[rel:kanzaki-ryuuji] (p.101) The other name; not available either.
+
+### y1v4 p.103–105 — Ch.3 §3.3: the Yamauchi redirect
+[scene] (p.103) Choked by Yamauchi Haruki the moment he re-enters the ship; the Sakura-email lie becomes a camera-and-points pep talk.
+[says] (p.103) “Wh-what’s the matter?” I knew the reason, but asked as a formality.
+[says] (p.103) “I never meant to go after her. Well, this is kind of hard to say, but…I lied to you before,” I croaked.
+[says] (p.103) “Do you really think that a loner like me would know Sakura’s email address?” I turned toward him, trying to show my sincerity.
+[says] (p.103) “Yeah. Sorry.”
+[says] (p.104) “Can you give me just a little more time?” I asked.
+[says] (p.104) “Then are you going to make Sakura tell you?” I asked.
+[says] (p.104) “You know, Sakura said she hates guys that are all talk.”
+[says] (p.104) “Of course she hates me. But it should be obvious why I couldn’t give you her contact information. I don’t want you to make the same mistake I did, Yamauchi. If you forcibly asked her, it wouldn’t go anywhere. It’d be pointless.”
+[says] (p.104) “Yeah. And I’m sorry. But I know for sure that she doesn’t hate you,” I answered.
+[says] (p.104) “Did you know that Sakura loves digital cameras? I’ve heard that her camera doesn’t work, and she doesn’t have enough points to buy a new one. But what if you got one for her, Yamauchi? If you gave it to her as a present?” I asked.
+[says] (p.104) “Well, there a few options in this special test. If you were the VIP and managed to make it through without being found out, or if you became a traitor and sold out your group, or if you managed to guide your group to clear the test, you’d get enough points to buy tons of digital cameras. Right?”
+[says] (p.105) “Now, Yamauchi Haruki, you need to achieve real results. Work hard, and show Sakura how manly you are. Only then would you be a guy who deserves to go out with a former idol.”
+[says] (p.105) “That’s right, Yamauchi. You can definitely do it.”
+[trait] (p.105) Redirects the rage into the test as “a temporary fix”; worries Yamauchi might get too fired up and miss the VIP, then deliberately withholds the caution — a missed target is fine, the bigger picture matters more.
+[rel:yamauchi-haruki] (pp.103–105) The mark, the lie, and the stimulus.
+[rel:sakura-airi] (pp.104–105) Her camera and her idol past become the bait; her contact stays protected.
+
+### y1v4 p.106–111 — Ch.3 §3.4: the second gathering and the Manabe fuse
+[scene] (p.106) Sits the gloomy second Rabbit discussion with Class A absent, watches Ichinose bait Machida, then lies to Manabe about seeing Karuizawa fight to light a fuse.
+[trait] (pp.106–107) Reads the alliance map: only Class A guaranteed advancement, so B+D against C+A — “like putting carnivores and herbivores together in the same cage.”
+[trait] (p.106) Notes Class A’s phone use is legal and calm is Katsuragi’s maintained image — “an exceptionally effective strategy.”
+[trait] (p.107) On being a lone wolf inside Class A’s walls.
+[says] (p.109) “To be perfectly honest, I’m the type to just sit things out. I’m just a bystander,” I said. (to Ichinose)
+[trait] (pp.108–109) The Karuizawa write-up: off since the test started — the Ibuki reunion, the Manabe confrontation, background-character quiet where Hirata and Kushida stay themselves; she is irreplaceable for Class D cohesion and he needs to know if she is useful, “even if it meant being forceful.”
+[action] (p.110) Trails Manabe’s group to the elevator and plants the lie: “I’m not 100% sure, but I think I saw Karuizawa fight with a girl from another class,” I said.
+[trait] (p.110) Keeps it vague on purpose; had seen nothing and would have been exposed if he kept talking — “Now that the fuse was lit, Manabe and the others would react. How would the newly docile Karuizawa respond? I wanted to find out.”
+[rel:ichinose-honami] (pp.106–110) Reads her bait of Machida through Yukimura and Karuizawa; charms him enough that he admits he would have had a crush if she were his classmate.
+[rel:manabe-shiho] (pp.110–111) The liar’s target.
+[rel:karuizawa-kei] (pp.108–111) The subject of both the write-up and the planted story.
+[rel:machida-kouji] (pp.107–108) Watches him take Ichinose’s bait despite the no-talk policy.
+[rel:hamaguchi-tetsuya] (p.110) The Class B off-switch when the hour ends — “No, we didn’t do much of anything. Well, shall we?”
+
+### y1v4 p.112–116 — Ch.3 §3.5: the cabin, the VIP sheet, Kouenji’s exit
+[scene] (p.112) Returns near midnight to Hirata, Yukimura and a push-uping Kouenji; gets the two known VIP names by phone, then walks out after Kouenji ends the Monkey group.
+[says] (p.112) “Yeah, a bit. Ah, that reminds me. I wanted to talk to you for a minute, if you have the time.”
+[says] (p.112) “Oh no, that’s okay. You go first, Hirata. We can talk about my thing later.”
+[trait] (p.112) Meant to ask Hirata about Sakayanagi — a popular guy should have information — but waits.
+[says] (p.113) “What? Who?” I asked. (after Hirata’s two-classmate VIP whisper)
+[says] (p.113) “Hey, Hirata. Wouldn’t it be better to give us that information by phone? We don’t know who’s listening in on our conversations,” I said.
+[action] (p.113) Reads the two names Hirata turns the phone toward — Dragon/Kushida, Horse/Minami — then erases them.
+[trait] (p.113) Instant read: Kushida as Dragon VIP is an enormous advantage and terrifying — “Once they knew her identity, she was at their mercy.”
+[trait] (p.116) Admits his own limit: three days left, not enough eyes and ears even with Hirata and Kushida as ringleaders — “It’s impossible,” I muttered — and resolves to get more people on his side, Horikita and Sakura included.
+[says] (p.116) “It’s impossible,” I muttered.
+[says] (p.116) “I’m stepping out for a bit,” I said.
+[rel:hirata-yousuke] (pp.112–114) The trusted conduit for the VIP sheet; rule-reader who notes participation penalties.
+[rel:yukimura-teruhiko] (pp.112–115) Cabin partner; both read the VIP math and both erupt at Kouenji.
+[rel:kouenji-rokusuke] (pp.112–115) Watched end his own group with a traitor submission and walk into the bathroom — “Adieu.”
+[rel:kushida-kikyou] (p.113) Named Dragon VIP on the erased screen.
+[rel:horikita-suzune] (p.115) Her message: “I’m sorry. Things seem really confusing right now. I’m going to give you a call.”
+[rel:sakura-airi] (p.116) One of the few eyes-and-ears he still counts on.
+
+### y1v4 p.117–124 — Ch.3 §3.6: the starlit hug and the teachers’ table
+[scene] (p.117) Wanders the dark deck alone, stumbles into Kushida among the couples, takes her sudden hug, then overhears Chabashira, Hoshinomiya and Mashima at the vending machines.
+[says] (p.117) “That voice… Kushida?”
+[says] (p.117) “Are you…alone?” I asked. Perhaps she was waiting to meet her boyfriend. Just imagining that made my chest tighten and ache.
+[says] (p.117) “I-I see,” I answered.
+[says] (p.118) “Aren’t you cold?” I asked.
+[says] (p.118) “I’m getting tired.” That was a total lie. I didn’t want to sleep in the slightest.
+[says] (p.118) “Good night, Kushida.”
+[says] (p.118) “K-K-Ku…Kushida? Wh-what’s the matter?” I squeaked. (when she wraps her arms around his chest)
+[trait] (p.118) Totally flustered — “I couldn’t understand what was happening” — then stands hand on chest with the warmth still there and cannot return to the room.
+[action] (p.121) Hides and draws nearer to the teachers’ sofa at the first-level vending machines.
+[trait] (pp.121–123) Overhears the three homeroom teachers: Hoshinomiya’s date talk, the ten-year grudge, Ichinose deliberately kept out of Dragon and dropped into Rabbit, Ryuuen thrown into Dragon because the Class C grades would not justify another pick, and Sakagami named as part of the Class C evaluation problem.
+[trait] (p.123) Files the reconnaissance: “Apparently I was under heavy scrutiny.” — Hoshinomiya was watching him from the island endgame onward.
+[rel:kushida-kikyou] (pp.117–121) The starlit encounter and the hug she apologises for.
+[rel:chabashira-sae] (pp.121–123) At the teachers’ table; the subject of Hoshinomiya’s “Sae-chan” needle.
+[rel:hoshinomiya-chie] (pp.121–123) The Class B homeroom who admits removing Ichinose from Dragon and watching him.
+[rel:mashima-tomonari] (pp.121–123) The third teacher; orders Hoshinomiya to stop spying on colleagues’ classes.
+[rel:ichinose-honami] (pp.122–123) The student Hoshinomiya placed in Rabbit on purpose.
+
+<!-- walk: y1v4 ch3 → p.124 -->

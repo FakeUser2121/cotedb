@@ -149,3 +149,26 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [note] (p.52) “Neither Yukimura nor Kouenji were in the room.” — absent from the third-deck cabin while Hirata straightens his luggage.
 
 <!-- walk: y1v4 ch2 → p.62 -->
+
+### y1v4 p.64–65 — Ch.3: the grade-theory name-check
+[scene] (p.64) Two mentions in the café grade discussion — abundance without contribution, then top-of-class scores.
+[note] (p.64) Ayanokōji: “In terms of latent ability, Kouenji had an abundance, but he probably wouldn’t contribute any of it to the team. I didn’t know what group he was in.”
+[note] (p.65) Horikita’s score theory: “Yukimura-kun has high academic ability, and so does Kouenji-kun. They’re at the top of the class.”
+[rel:ayanokouji-kiyotaka] (p.64) The narrator who doubts he would ever help a team.
+[rel:horikita-suzune] (p.65) Named in her grouping hypothesis.
+
+### y1v4 p.112–115 — Ch.3 §3.5: push-ups, refusal, and the Monkey exit
+[scene] (p.112) Naked from the waist up doing push-ups in the cabin, declines the huddle, then ends the Monkey group with a traitor submission while the others watch.
+[says] (p.112) “I did say that it was pointless to include you, Ayanokouji,” added Kouenji. How nice.
+[says] (p.112) “Sorry, Hirata Boy. I’m far too busy with the pursuit of physical beauty.”
+[trait] (p.112) Soaked with sweat, no ordinary high schooler could keep that pace — “He really was exceptional in every way.”
+[says] (p.114) “Well, I couldn’t exactly help it. I was in awful shape. I couldn’t force myself to do the impossible,” answered Kouenji. (on the island)
+[says] (p.114) “My, this test will be nothing but troublesome, wouldn’t you say?” Kouenji sniffed.
+[says] (p.114) “Well, there isn’t any point to continuing a test that isn’t interesting, is there? Finding a liar is simple.”
+[action] (p.114) Phone in hand, fiddles until all four cabin residents get the school notice: the Monkey group’s test has ended; “Of course. And now, I finally have my freedom once again. Adieu.” — tosses the phone and slips into the bathroom.
+[trait] (p.115) Narration: remarkably perceptive and observant under the clowning — if “simple quiz to find the liar” is true, “he’d probably hit the mark.”
+[rel:yukimura-teruhiko] (pp.114–115) The shouting match he mostly ignores.
+[rel:hirata-yousuke] (pp.112, 115) “Hirata Boy,” then the restraint he calls too generous.
+[rel:ayanokouji-kiyotaka] (p.112) “Pointless to include you.”
+
+<!-- walk: y1v4 ch3 → p.124 -->

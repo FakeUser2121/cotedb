@@ -86,3 +86,24 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 [rel:yukimura-teruhiko] (p.38) Cuts his chicken-with-its-head-short speech down.
 
 <!-- walk: y1v4 ch2 → p.62 -->
+
+### y1v4 p.67 — Ch.3: the phrasing he still hears
+[scene] (p.67) One backward glance at her briefing inside Ayanokōji’s VIP-message reading.
+[back] (p.67) “Mashima-sensei had said something to the same effect. The VIP had been chosen based on certain considerations. There was something about the chosen that set them apart.” — Ayanokōji folds Mashima’s words into the email’s “After thorough consideration.”
+[rel:ayanokouji-kiyotaka] (p.67) His reading of the VIP rule still runs on her briefing.
+
+### y1v4 p.121–123 — Ch.3 §3.6: the teachers’ sofa
+[scene] (p.121) One of three homeroom instructors on the first-level sofa — Chabashira with a cocktail, Hoshinomiya with whiskey, Mashima beside them — while Ayanokouji hides and listens.
+[note] (p.121) The opening lines of the table are untagged in the translation: “You know, it’s been a long time since the three of us all got together.” / “It is what it is. Fate. After bouncing around from one thing to the next, we all chose the teacher’s life.” / “Enough. There’s no point talking about that.” / the Mashima playboy needle / “Chie, what happened to the man you were with?” — only Hoshinomiya’s break-up line and Mashima’s “Relax. I’m not worried about that.” are safely assigned by address or tag; the volume attribution list keeps the rest.
+[says] (p.121) “Ah ha ha! We broke up two weeks ago. I’m the type of girl who breaks it off once the relationship starts getting serious. It’s just like, see ya later!” Hoshinomiya-sensei said. (her own tagged line; kept here because the table is the scene)
+[note] (p.122) “What are you planning, Chie?” addresses Hoshinomiya; the speaker is not printed — likely Chabashira or Mashima, not assigned.
+[says] (p.122) “I’m not screwing around or anything. It’s certainly true that as far as grades and attitude are concerned, Ichinose-san is number one. However, someone’s true place in society cannot be measured by numbers alone. I determined that she needed a challenge. And besides, rabbits are just so cute, aren’t they? The way they hop around. Doesn’t that suit Ichinose-san?” Hoshinomiya-sensei asked. (the Ichinose-in-Rabbit admission, tagged)
+[note] (p.122) “We wouldn’t want you to base your judgment on personal grudges.” and the ten-year-bridge exchange sit between untagged speakers at the table.
+[says] (p.122) “I see.” Mashima-sensei nodded as though convinced of something. However, he then strictly addressed Hoshinomiya-sensei. “There’s no rule against this, but I want to be clear. Stop spying on other colleagues’ classes.” (both halves tagged to Mashima)
+[note] (pp.122–123) Hoshinomiya’s reply names Sakagami over the Class C Dragon pick and says “they threw Ryuuen in there”; the closing “That’s certainly true. This isn’t your average year. The students seem rather special.” is untagged.
+[rel:hoshinomiya-chie] (pp.121–123) The drinking partner she needles and who orders her to stop spying colleagues’ classes.
+[rel:mashima-tomonari] (pp.121–123) The third seat; the strict order lands on him.
+[rel:ichinose-honami] (p.122) Named as the student Hoshinomiya moved out of Dragon.
+[rel:ayanokouji-kiyotaka] (p.122) The student Hoshinomiya admits watching since the island.
+
+<!-- walk: y1v4 ch3 → p.124 -->

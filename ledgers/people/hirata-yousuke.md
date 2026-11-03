@@ -455,3 +455,34 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:horikita-suzune] (p.54) Both summoned to the same 20:40 meeting — the team Katsuragi named.
 
 <!-- walk: y1v4 ch2 → p.62 -->
+
+### y1v4 p.64, p.84 — Ch.3: named on the Dragon roster and in the Ichinose comparison
+[scene] (p.64) Roster line only in the café half; p.84 he appears as a comparison point inside the Rabbit room.
+[note] (p.64) Dragon groupmate with Kushida — “both excellent students, and representatives of our class”; with Horikita they are the strongest hand Class D could deal.
+[note] (p.84) Ichinose’s persuasion is contrasted with his and Kushida’s: even they “might find themselves outmatched, despite their overabundance of friends.”
+[rel:horikita-suzune] (p.64) Dragon groupmate on the biased list.
+[rel:kushida-kikyou] (p.64) The other Class D name on the Dragon roster.
+[rel:ichinose-honami] (p.84) Named in her praise as a floor under her people-work.
+
+### y1v4 p.112–115 — Ch.3 §3.5: the trusted conduit
+[scene] (p.112) Waiting when Ayanokōji returns near midnight; shares the Yukimura info chat, whispers the two known VIPs, and shows them by phone.
+[says] (p.112) “Good work today, Ayanokouji-kun. You’re rather late,” said Hirata.
+[says] (p.112) “I’m sure you’re tired, but if you’re up for it, do you mind talking with me?” he asked. (the simultaneous ask with Ayanokōji)
+[says] (p.112) “Huh? What did you want to ask me?” said Hirata.
+[says] (p.112) “I just chatted a bit with Yukimura-kun. We decided to share information about the test,” said Hirata.
+[says] (p.112) “I would’ve been glad if Kouenji-kun participated, but he unfortunately declined,” said Hirata.
+[says] (p.113) “Kouenji is participating in a group. After all, students are required to participate, and points are taken away if a student fails to participate,” said Hirata. (trust Hirata to read the rules thoroughly)
+[says] (p.113) “To tell you the truth, I got word that two of our classmates have been selected as the VIPs in their groups,” he whispered.
+[says] (p.113) “That’s… I can’t say. They only told me because they trust me.”
+[says] (p.113) “Yeah, you’re right. Wait just a moment.” (agreeing to phone for the names)
+[action] (p.113) Puts two names on the screen for Yukimura and Ayanokōji — “Dragon Group, Kushida-san. Horse Group, Minami-kun.” — and erases them immediately after.
+[says] (p.113) “Don’t worry. Everything is all right,” said Hirata.
+[says] (p.114) “Yeah. I think your logic follows. They certainly haven’t talked to me about it, but they might’ve consulted someone else. After all, there’s a high risk of being discovered if you talk,” Hirata said.
+[says] (p.115) “We still don’t know anything yet. He probably had his own ideas,” replied Hirata. (on Kouenji’s sudden traitor move)
+[trait] (p.115) His phone starts beeping continuously as classmates demand to know what happened; he stays the generous reader of the situation.
+[rel:yukimura-teruhiko] (pp.112–114) The info-chat partner before Ayanokōji arrived.
+[rel:kouenji-rokusuke] (pp.112–115) Declined the huddle, then ended his own group under him.
+[rel:kushida-kikyou] (p.113) Named Dragon VIP on his screen.
+[rel:ayanokouji-kiyotaka] (pp.112–113) Trusts him with the erased screen.
+
+<!-- walk: y1v4 ch3 → p.124 -->

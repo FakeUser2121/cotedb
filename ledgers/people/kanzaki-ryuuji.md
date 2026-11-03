@@ -87,3 +87,10 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [rel:ichinose-honami] (p.56) Named as the Class B leader who trusts him.
 
 <!-- walk: y1v4 ch2 → p.62 -->
+
+### y1v4 p.64 — Ch.3: named on the Dragon roster
+[scene] (p.64) One roster line — Class B’s Dragon seat.
+[note] (p.64) Listed among Horikita’s Dragon group (Class B: Andou, Kanzaki, Tsube); Ayanokōji flags him as one of the class representatives that makes the list a dream team.
+[rel:horikita-suzune] (p.64) Dragon groupmate on the biased list.
+
+<!-- walk: y1v4 ch3 → p.124 -->

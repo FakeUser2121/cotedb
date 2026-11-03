@@ -111,3 +111,27 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [rel:hirata-yousuke] (p.60) Names him the group’s grinding battle ahead.
 
 <!-- walk: y1v4 ch2 → p.62 -->
+
+### y1v4 p.64–67, p.70–76, p.85–88 — Ch.3: named as the island strategist and the no-discussion plan
+[scene] (p.64) Never in the room this half — he anchors Horikita’s Dragon list, Ryūen’s café autopsy, and the whole Rabbit debate as the man whose fairness strategy Machida speaks for.
+[note] (p.64) First name on Horikita’s Dragon roster — Class A, with Nishikawa, Matoba and Yano.
+[back] (p.67) Ayanokōji’s answer to “who are you most wary of”: Katsuragi is the most excellent first-year, Ryuuen the one he fears — “by a mile.”
+[status] (p.70) Ryūen reports Katsuragi was “rather cautious” of Horikita after the island.
+[status] (pp.72–75) Still thinks Horikita planned the whole island win; Ryūen says Katsuragi “probably didn’t know” the points flow and that Katsuragi “thinks you planned the whole thing.”
+[status] (p.75) Ryūen: “Neither Katsuragi nor Ichinose is my enemy. If I wanted to crush them, I could do it any time.”
+[tactic] (p.85) The Rabbit room learns his proposal by name through Machida: don’t discuss at all, let the test pass calmly, equal points for every class.
+[tactic] (pp.86–87) The fairness argument Machida voices — VIPs distributed evenly because the school hates unfairness, island proof — is attributed to Katsuragi’s read of the test’s “trick.”
+[status] (p.87) Narration: his plan is the ultimate defensive move; if a VIP is in Class A, finding them becomes exceptionally difficult.
+[rel:horikita-suzune] (pp.64, 67, 70, 72–75) Dragon groupmate, worth-watching rival, and the island winner he still misreads.
+[rel:ryuuen-kakeru] (pp.70–75) The café theme — Ryūen quotes his caution and his wrong leader call.
+[rel:machida-kouji] (p.85) Named as the author of the no-discussion strategy.
+[rel:ichinose-honami] (pp.85–92) The opponent who names and dismantles the plan in his absence.
+
+### y1v4 p.106, p.115 — Ch.3: the calm image and the surprise reaction
+[scene] (p.106) Still not in the room — his maintained image runs Class A’s second-gathering phones, and his name surfaces when Kouenji ends a group.
+[status] (p.106-107) “I thought their loss during the test on the island would’ve changed them, but Katsuragi had them maintaining their calm … image. It was an exceptionally effective strategy.”
+[status] (p.115) Named with Ryūen and Ichinose as the leaders who “would all be surprised” by Kouenji’s early traitor move — “Probably no one had imagined that someone would turn traitor so soon.”
+[rel:machida-kouji] (p.106) The front man keeping the calm Class A image.
+[rel:kouenji-rokusuke] (p.115) One of the three the Monkey exit blindsides.
+
+<!-- walk: y1v4 ch3 → p.124 -->

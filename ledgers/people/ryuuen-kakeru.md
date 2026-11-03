@@ -119,3 +119,44 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:horikita-suzune] (p.60) She flips her hair and turns her back on him to go inside.
 
 <!-- walk: y1v4 ch2 → p.62 -->
+
+### y1v4 p.68–75 — Ch.3 §3.0: the café provocation
+[scene] (p.68) Walks into Blue Ocean with Ibuki mid-Horikita-briefing, straddles a vacant seat, and spends the coffee working the island result until he leaves with his lackey.
+[says] (p.68) “Nice weather, eh Suzune? You having breakfast with this clingy beta male?”
+[says] (p.68) “You should have received the message already. What were the results? Were you chosen as the VIP?”
+[says] (p.69) “I suppose you wouldn’t give anything away, but that doesn’t matter. According to my information, there’s no way that your farcical bumbling on the island should’ve led to victory,” said Ryuuen.
+[says] (p.70) “Yesterday, it seemed Katsuragi was rather cautious of you,” he said.
+[says] (p.70) “Heh. Well, I won’t deny that. I came here to measure your abilities for myself,” he answered.
+[says] (p.72) “Katsuragi and I think differently. When I’m dealing with someone, I like to keep an eye on them.”
+[says] (p.72) “I’m remembering the test on the island. The result. The process that led to it. There are only certain types of people who would’ve been able to conceptualize and execute a plan like that. A girl like you is far too serious-minded to have come up with it,” reasoned Ryuuen.
+[says] (p.72) “Katsuragi probably didn’t know.” (his read on who grasped the points flow)
+[says] (p.72) “At the end of the test, I wrote down your name as leader, but that was wrong. There’s just one reason why that was wrong: Your class leader changed right before the test ended. The only explanation,” mused Ryuuen.
+[says] (p.72) “Ah. However, Katsuragi thinks you planned the whole thing. But was that really the case? In my opinion, you becoming the leader and then retiring were both unexpected. Besides, I had my own strategy in place. I had Ibuki infiltrate your class to find out the leader’s identity. You did nothing to counter that strategy at first,” said Ryuuen.
+[says] (p.73) “The key question is who replaced you as leader. Personally, I think the second leader was pulling your strings from behind the scenes during the entire test.”
+[trait] (p.73) Speaks to Horikita but watches Ayanokōji the whole time — “If I appeared shaken for even an instant, he’d pounce.”
+[says] (p.73) “Well, I suppose that’s expected of a clingy tagalong.”
+[says] (p.73) “That guy with you is considerably smart. Despite that, he hasn’t achieved anything significant, or gotten high grades. He has some excellent qualities, though I have my doubts,” said Ryuuen.
+[says] (p.74) “I see your point. I never imagined you’d trip me up. I’ll admit it. The results of the test shocked me,” answered Ryuuen.
+[says] (p.74) “Well, that’s too bad. I love surprise attacks, foul play, and subterfuge. That level of strategy was totally unexpected, but your victory high will soon come to an end. Whether it’s you, Suzune, or someone pulling the strings behind the scenes, you’re stupid. You’ve already made your best move. Class D is one or two steps behind the other classes in points. The challenge will only heat up from here. You already played your trump card during the survival test, when the game was just getting started. You couldn’t see what was in front of or behind you. I don’t think you’ll find this round as easy as last time. Tell that to whoever helped you ace the test,” warned Ryuuen.
+[says] (p.74) “What can I say? I’m quite merciful.”
+[action] (p.74) Snaps a photo of Horikita without asking, studies the sour expression, and pockets the phone satisfied.
+[says] (p.74) “Someone in Class D other than you is quite clever. There’s no mistake about that,” he said.
+[says] (p.75) “A conversation reveals many subtle things. I’m glad I could talk with you, Suzune. It’s a game to me. I’ll discover who among you is making moves behind the scenes. Everyone, including your clingy friend here, is a target,” said Ryuuen.
+[says] (p.75) “I already know their abilities, to some extent. Neither Katsuragi nor Ichinose is my enemy. If I wanted to crush them, I could do it any time.”
+[says] (p.75) “I’m saving her for the final course. It’d be a waste to eat her now. Let’s go, Ibuki.” Ryuuen stood and left with his lackey. (on Sakayanagi)
+[trait] (pp.68–75) The whole visit is reconnaissance: measure Horikita, float the hidden-second-leader theory, and leave without confirming anything — narration says he only wanted to chat and pass the time amusing himself.
+[rel:horikita-suzune] (pp.68–75) The target of the visit; he needles her, photographs her, and walks off still doubting her.
+[rel:ibuki-mio] (pp.68–75) Brings her as the visible lackey and cuts her off when she would snap back.
+[rel:ayanokouji-kiyotaka] (pp.68, 73–75) Sizes him up as smart-but-inert and keeps him in the target set without ever addressing him directly.
+[rel:katsuragi-kouhei] (pp.70, 72, 75) The rival whose caution and island read he quotes back at Horikita.
+[rel:sakayanagi-arisu] (p.75) Saved “for the final course” — he will not spend her now.
+
+### y1v4 p.115, p.123 — Ch.3: named twice, absent both times
+[scene] (p.115) Two second-half mentions — the Kouenji shock list and the teachers’ Dragon roster talk.
+[status] (p.115) “Katsuragi, Ryuuen, and Ichinose would all be surprised by this” — grouped with them as a leader who had not imagined an early traitor.
+[status] (p.122-123) Hoshinomiya’s Class C complaint: “If we evaluated the Class … C students properly, another student should’ve been placed into Dragon. But they threw Ryuuen in there.”
+[rel:hoshinomiya-chie] (p.123) The teacher who thinks the Dragon pick was a Class C evaluation failure.
+[rel:katsuragi-kouhei] (p.115) The other surprised leader on the same line.
+[rel:ichinose-honami] (p.115) The third name on the surprise list.
+
+<!-- walk: y1v4 ch3 → p.124 -->

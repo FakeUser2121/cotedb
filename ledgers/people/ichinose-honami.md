@@ -338,3 +338,67 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:kanzaki-ryuuji] (p.56) Her trust is the credential the narration gives him.
 
 <!-- walk: y1v4 ch2 → p.62 -->
+
+### y1v4 p.81–92 — Ch.3 §3.1: taking the lead in Rabbit
+[scene] (p.81) Stands into the awkward first discussion, runs introductions over Machida’s objection, then leads the room against Katsuragi’s no-discussion plan.
+[says] (p.81) “Your attention, please! I don’t know most of you, but I think we ought to introduce ourselves. After all, there are probably people here who haven’t met before,” she said.
+[trait] (p.81) Immediately volunteers as leader — the narration says it wasn’t easy to pull a group together, “but Ichinose didn’t seem to dislike her role. If anything, she seemed to be having fun.”
+[says] (p.81) “Well, if that’s how you feel, Machida-kun, I can’t force you to do anything. However, a microphone might have been installed somewhere in the room to record everything we’re saying, don’t you think? If that’s true, it may not be an issue for just the people who don’t introduce themselves. The entire group might end up shouldering the blame,” warned Ichinose.
+[says] (p.81) “Hey there, Ayanokouji-kun. Looks like we’re in the same group! I’m looking forward to working with you,” said Ichinose.
+[says] (p.81) “Now that we’ve finished, how do you think we should proceed? Please tell me if anyone disagrees with my taking the lead,” said Ichinose.
+[says] (p.82) “Well, since it looks like no one especially wants the spot, I’ll take the lead. To begin with, I think if there’s any point that people don’t understand or are worried about, we should all discuss it. If we don’t, the situation will get worse over time. Does anyone have any questions?”
+[says] (p.82) “There’s something I’d like to talk to you all about. I’d like you all to assume that no one here is the VIP, and I’d like for us all to work together and clear this exam. In other words, I want to know if you think our best option is to pursue Outcome #1,” said Ichinose.
+[trait] (pp.82–83) The opening question doubles as a trap: whoever agrees loudly is not the VIP, and the narration clocks her, Karuizawa, Yukimura, Manabe, then Hamaguchi as the first answer order.
+[says] (p.83) “Maybe that question was too harsh?” mused Ichinose. She smiled bitterly.
+[says] (p.84) “I’d rather not do this, but think of it this way. Sometimes we may need to make decisions based on a majority vote. People will most certainly be suspicious of those who don’t want to answer the questions, and the group might turn against them. What do you say to that?” she asked.
+[says] (p.84) “Please don’t misunderstand me. I just want to talk. You may answer however you please, but I want everyone to step up to the plate in this test. In other words, I want you to participate,” said Ichinose.
+[trait] (p.84) Narration contrasts her with Horikita: same logic, but Ichinose can bring people together — tactical action with the group’s approval; not even Katsuragi or Ryūen match it, maybe not even Hirata and Kushida.
+[says] (p.85) “Is there another way, then?” asked Ichinose.
+[says] (p.85) “Would you mind enlightening us?” asked Ichinose.
+[says] (p.85) “Katsuragi-kun? I see,” said Ichinose. (the instant she hears the name she understands the pitch)
+[says] (p.87) “I suppose so. It’s not a bad thing if the school is the only loser,” replied Ichinose.
+[says] (p.87) “However, it’s going to be unexpectedly difficult. It might even be more difficult than solving the test through discussion. If you don’t doubt your partner, you won’t betray him or her. All the first-year students would have to adhere to that. Because the school guarantees the VIP’s anonymity, you’re asking for trust amongst your classmates. It’d be great if the VIP stepped forward and the points were shared equally with the class, but couldn’t the VIP just monopolize all of those points?”
+[says] (p.88) “I see. So, do we agree it’s as Machida-kun says? Each individual class can deal with the problem after the test has ended?” asked Ichinose.
+[says] (p.88) “I’d like everyone’s opinions. Would that be all right? First, those who agree with the plan, please raise your hand.”
+[says] (p.89) “Thank you. Lastly, we have one more person to ask.” Ichinose turned to me. “What do you think, Ayanokouji-kun?”
+[says] (p.89) “Wait. Machida-kun. Katsuragi-kun’s strategy certainly isn’t bad. With it, there’s no need to doubt, lie to, or hurt anyone. In the end, we’d receive an equal number of points. I understand the reason why many would follow this plan. However, I want you to consider something carefully. I can’t think of any downsides to this strategy, but wouldn’t you say that being in Class A allows you to propose such a strategy? There may be downsides we don’t see yet,” she said.
+[trait] (p.89) The narration compares her to a submarine that surfaces without a splash — the comeback is swift and incredible.
+[says] (p.89-90) “If we assume that the classes all have an equal number of VIPs, … However, wouldn’t it be unfair to the lower level classes to make them throw … away this chance?”
+[says] (p.90) “We don’t know how many special tests we’ll have before graduation, and the difference between Class A and the rest is remarkably clear. Class A also proposed the extreme idea of aligning all the classes back on the island. If Class A continues to recommend this strategy every time we have a test, our class positions will never change,” Ichinose continued.
+[says] (p.90) “I can’t just throw away a precious opportunity. Not even if your strategy yields solid results,” said Ichinose.
+[says] (p.91) “You said this wouldn’t narrow the gap between classes, but that’s not correct. There are four students from Class D, and four from Class C in our group. There are three from B and three from A. In other words, if we clear the test with the first outcome, it’s possible for the lower classes to close the gap between themselves and the higher classes, wouldn’t you agree?” she asked.
+[says] (p.90-91) “If we don’t follow my strategy, we let Class A lead unopposed. … happened to be in Class A,” responded Ichinose.
+[says] (p.91) “Now then, what should we do?” Ichinose faced the other three classes, who were still sitting around in a circle. “I wanted to avoid excluding anyone, but there’s nothing we can do if that’s your class policy. If you want to participate, just let me know,” she said gently.
+[says] (p.92) “Yes. If Rabbit’s VIP is in Class A, trying to narrow down the list of suspects won’t be easy. But in terms of sheer probability, there’s a three in four chance that the VIP’s in one of the other classes. Besides, even if we don’t know who the VIP is, if we at least know where that person is, we’ll have some options. Right?” asked Ichinose.
+[says] (p.92) “I don’t think it’s necessary for us to think that far ahead. Let’s just start by finding out which class the VIP is in,” replied Ichinose.
+[says] (p.92) “This is just a spur-of-the-moment idea. If we work together, we’ll come up with even better ideas later. The test’s only just begun. I think it might be better to wait a bit and take our time before deciding whose plan we’ll move forward with,” Ichinose added.
+[trait] (pp.89–92) Her real aim is not the VIP name but the VIP’s class — narrow which class first, keep the lower classes’ chance to close the gap, and leave the door open for a later alliance.
+[rel:machida-kouji] (pp.81–91) The debate partner: introductions, the no-discussion pitch, the silent Class A withdrawal.
+[rel:hamaguchi-tetsuya] (pp.82–90) Her Class B lieutenant — “We leave everything to you, Ichinose-san.”
+[rel:katsuragi-kouhei] (pp.85–92) Names and dismantles his strategy without him in the room.
+[rel:ayanokouji-kiyotaka] (pp.81, 89) Greets him by name, then calls on him last in the vote.
+[rel:yukimura-teruhiko] (pp.89–92) Pulls him toward the downside argument, then takes his trust refusal.
+[rel:karuizawa-kei] (pp.82, 88) Works around her bluntness and her honest non-answer.
+
+### y1v4 p.94, p.96, p.106–110 — Ch.3 §3.2–§3.4: bystander, closer, and the Machida bait
+[scene] (p.94) Watches the phone fight as a bystander judging who is right; closes the first session kindly; leads the gloomy second gathering and works Machida through Yukimura and Karuizawa.
+[action] (p.94) “Ichinose watched it unfold, a bystander. It was as if she was trying to determine who was right and wrong.”
+[says] (p.96) “Well, we have five more discussion periods left. How about we bring this session to a close?” Ichinose spoke kindly.
+[says] (p.106) “Well, this is the second time we’ve gathered like this. Don’t you think we should start having open, honest conversation? We’ll only meet so many times,” reasoned Ichinose.
+[trait] (p.106) Takes the lead again; wished for peace; Class B ready to ally without hesitation — “Ichinose and her friends should have been striving for a Class B victory,” yet she pushes cross-class talk.
+[says] (p.107) “You know, life on a ship’s not bad. It’s really fun, right? Even though we have to get together twice a day, we’re still free to chat and use our phones. It’s not like class,” said Ichinose.
+[says] (p.107) “Right? So, that’s why we need to get more comfortable. We need to talk like we’re all friends. Don’t you think it’s hard, putting up walls like that? Machida-kun and the others always look so stern, you know?”
+[says] (p.107) “But couldn’t I say the same thing of you, Machida-kun? Can you really trust your allies?” asked Ichinose.
+[says] (p.108) “Really? You know what they say: An ounce of prevention is worth a pound of cure. Are you trying to tell me that no one in your class would want even one extra point? It’s not like the school will be bothered if you get more,” replied Ichinose.
+[trait] (p.108) Smiles at Machida’s “That’s stupid” — she’d “certainly gotten a response out of him”; the narration calls the Yukimura–Karuizawa pair her information-collecting tools and wonders when Machida will notice the ploy.
+[says] (p.109) “Hmm. I suppose this is going to be tough. What do you think, Ayanokouji-kun?” (to him after Class A leaves)
+[says] (p.109) “It’s far too soon to give up. Let’s work hard together!” Ichinose seemed determined to do her best.
+[says] (p.110) “Well, even if we keep having these discussions, I don’t think anyone will come out and say they’re the VIP. The benefits of staying hidden are just too great, same as the downsides for being discovered. At this rate, Class A’s worst-case scenario prediction will probably come true,” said Ichinose.
+[trait] (p.109) The narrator: calmer, wittier, clearer than he’d thought; if she were his classmate he would have had a crush — “She was just that charming” — rivaling Kushida in popularity.
+[rel:machida-kouji] (pp.107–108) The baited Class A debater.
+[rel:ayanokouji-kiyotaka] (p.109–110) Pulls him into the walk-out talk without putting him on the spot earlier.
+[rel:karuizawa-kei] (p.107) Uses her complaint as the opening for the comfort speech.
+[rel:yukimura-teruhiko] (p.107) The other half of the information pair.
+[rel:hamaguchi-tetsuya] (p.110) Closes the session with him.
+
+<!-- walk: y1v4 ch3 → p.124 -->

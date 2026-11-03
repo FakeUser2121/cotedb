@@ -1224,3 +1224,58 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:hirata-yousuke] (p.54) Both summoned to the 20:40 meeting (see Hirata’s row).
 
 <!-- walk: y1v4 ch2 → p.62 -->
+
+### y1v4 p.63–77 — Ch.3 §3.0: the Blue Ocean briefing
+[scene] (p.63) Meets Ayanokōji at the empty Blue Ocean café an hour early, hands over her memorized Dragon group list at 8:00, and holds the table through Ryūen’s interrupt.
+[says] (p.63) “You’re rather early.”
+[says] (p.63) “That’s not my problem, as I’ve still arrived before the designated time. Besides, how would I know if you’d been waiting even ten hours or more?”
+[trait] (p.63) The narrator calls her one of the very few people at this school he could call a friend — and a thorn because she knows something about his hidden life.
+[action] (p.64) Hands Ayanokōji a slip of paper: the Dragon roster she wrote and memorized, biased “to the point where I can’t imagine it’s a coincidence.”
+[says] (p.64) “You mean Ichinose-san being in your group, don’t you? I suppose only the Class B students know if she’s really excellent or not. A leader’s qualities and level of excellence aren’t necessarily directly proportional,” said Horikita.
+[says] (p.65) “From what we can deduce, I wonder if there’s a certain method they’re using to sort us into the twelve groups? Ayanokouji-kun, your grades are very similar to Karuizawa-san’s. Are they grouping us based on our scores? Oh, but Yukimura-kun has high academic ability, and so does Kouenji-kun. They’re at the top of the class,” said Horikita.
+[says] (p.66) “No, we weren’t chosen. I’m not sure if we should be happy or sad.”
+[says] (p.66) “Even so, I don’t like how they wrote it. It’s like they’re saying I’m not qualified to be the VIP.”
+[says] (p.67) “I look forward to your results,” said Horikita.
+[says] (p.67) “For the sake of reference, who are you most wary of? Based on how things have been going, I wanted your thoughts,” said Horikita.
+[says] (p.67) “That was fast.” (on his instant “Ryuuen”)
+[says] (p.67) “What about Katsuragi-kun? It’s because of him that Class A managed to quickly hold down that prime spot on the island. Isn’t he someone worth watching?”
+[says] (p.68) “I’m curious about some things concerning the VIP’s identity. Even after reading the message and thinking about it, did you notice any unnatural-sounding phrases in the school’s email? And the strict—” Horikita said. (cut off by Ayanokōji’s finger)
+[says] (p.68) “I’ve warned you not to call me by my first name, Ryuuen-kun. Also, considering you were a turncoat who only pretended to be our friend, it’s odd you’d show your face, Ibuki-san.”
+[says] (p.68) “As if I would tell you. Perhaps you’d like to tell us about your message?” Horikita responded.
+[says] (p.69) “I have nothing to tell you,” Horikita responded.
+[says] (p.69) “Regrettably, I must decline your offer. Violent actions are considered a violation of the test rules. If you do happen to strike me, I will not hesitate to report it to the school. At any rate, please feel free to do whatever you please,” she said flatly.
+[says] (p.69) “Since we’re all together, how about we have some coffee? It seems a good time to enjoy a nice cup,” Horikita offered.
+[trait] (p.69) Narration credits her acting: she never shakes, and probably does not think of it as acting.
+[says] (p.70) “Well, that’s understandable. He couldn’t have guessed that someone from Class D would do so well. Isn’t that why you and Ibuki-san are here? You came to check on me. Am I wrong?” asked Horikita.
+[says] (p.70) “Of course,” Horikita answered, sipping her coffee. She seemed at ease, which was unusual.
+[says] (p.72) “Think whatever you like. Though I wonder…how did you figure out my strategy? You only saw the results of the test. How do you know the way in which points were gained and lost? Those details are supposed to be unknown,” countered Horikita.
+[says] (p.72) “Do you think that was hard to deduce? Any idiot could have figured that out if they thought about it for a minute. Even Katsuragi-kun, who you’ve been making fun of,” answered Horikita.
+[says] (pp.72–73) “Is it possible that I’d simply taken the proper precautions? Preparing for the unknown is absolutely basic logic. The moment Ibuki-san met Class D, I took all possibilities into account. You were so confident, but your argument ended up being flimsy. You’ve said nothing surprising,” responded Horikita.
+[says] (p.73) “I’m afraid I can’t understand you at all. I have no close friends. The closest I have would be Ayanokouji-kun here, and he’s always dragging me down. I’d be hard-pressed to say that he’s working with me. Sad, but true,” answered Horikita.
+[trait] (p.73) Draws fire onto Ayanokōji to make him look useless — “Well done,” the narration says — while denying the second-leader theory.
+[says] (p.73) “However, if we did change leaders, he wouldn’t be the most likely candidate.”
+[says] (p.73-74) “Well, I’m sorry, but what you’re saying is complete nonsense. … Does it embarrass you that a girl managed to see through your … schemes?” asked Horikita.
+[says] (p.74) “My goodness, that was rather thoughtful,” said Horikita.
+[says] (p.74) “It sounds like you really want to believe that we have a secret weapon in our class,” observed Horikita.
+[action] (p.74) Snaps when Ryūen photographs her without permission: “Don’t take my photo without permission!”
+[says] (p.75) “Well, isn’t that a good thing? I don’t particularly care. Besides, if you just arbitrarily jump to conclusions, why bother badgering me to confirm them?” asked Horikita.
+[says] (p.75) “Let me ask you something. I know it hurts that I saw through you, but why are you so fixated on me? Aren’t you concerned about anyone else? Like Ichinose-san, or Katsuragi-kun? Going by the rumors, there’s someone named Sakayanagi, too. Shouldn’t the people in the classes above C be your concern? You should be able to at least answer that, I think,” said Horikita.
+[says] (p.75) “Not really. It’s just that I hate your sarcastic way of speaking. I’ve always aimed to reach Class A, so I assumed I’d be attracting a lot of attention,” she answered.
+[says] (pp.75–76) “Really? I think he just doesn’t like that I found him out, and wanted to trick me into revealing the truth. I can’t imagine he narrowed down the list of potential candidates to you. Besides, even if he knew your identity, you’d be the only one in trouble,” replied Horikita.
+[says] (p.76) “You’re overthinking things. No one thinks you’re involved. Despite what he said, he thinks you’re an ordinary person, considering your lackluster achievements in the first semester,” said Horikita.
+[says] (p.76) “Discussion is likely useless from here on out. We’ll go our separate ways. Anyway, excellent work. If you make any progress, give me a report.”
+[rel:ayanokouji-kiyotaka] (pp.63–77) The morning partner; hands him the list, takes his wary-name, and closes with a standing report request.
+[rel:ryuuen-kakeru] (pp.68–75) The full confrontation — first name, spy, island result, photo — and she never leaves the seat until he does.
+[rel:ibuki-mio] (pp.68–69) Names the turncoat, declines the rematch on rules, and offers her coffee.
+[rel:katsuragi-kouhei] (pp.64, 67, 70, 72–75) The dream-team anchor, the worth-watching rival, and the man Ryūen says still credits her with the island win.
+[rel:hirata-yousuke] (p.64) Dragon groupmate named on her list.
+[rel:kushida-kikyou] (p.64) Dragon groupmate named on her list.
+[rel:sakayanagi-arisu] (p.75) The rumoured name she throws at Ryūen to break his focus.
+
+### y1v4 p.115 — Ch.3: the confused-call message
+[scene] (p.115) One message in the cabin chaos after Kouenji ends the Monkey group.
+[says] (p.115) “I’m sorry. Things seem really confusing right now. I’m going to give you a call.” (Horikita messaged me — printed as her text)
+[status] (p.115) Reaches him in the cabin minutes after the traitor notice; the call itself is not printed on these pages.
+[rel:ayanokouji-kiyotaka] (p.115) The recipient of the promise to call.
+
+<!-- walk: y1v4 ch3 → p.124 -->

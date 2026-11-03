@@ -1156,3 +1156,39 @@ row is cited by Ayanokouji, Ichinose and Ibuki but not yet by Karuizawa,
 Yukimura or Sotomura — passing-mention rows if the sweep flags them.
 Push still blocked (token dead); four commits will be local after ship.
 Next: y1v4 ch3 pp.63-124.
+
+y1v4 ch3: An Infinite Variety of Wishes (pp.63-124)
+
+Chapter read in two halves (pp.63-93, then pp.94-124 with --blank:
+p.99, p.119, p.120, p.124 carry no prose). 21 people ledgers + one
+volume section stamped `y1v4 ch3 → p.124` (first-half bodies un-stamped;
+the two first-half-only files, sakayanagi-arisu and kanzaki-ryuuji, got
+the stamp appended after their sections). Three new files via ledger-new
+--start-vol y1v4: machida-kouji (Class 1-A), hamaguchi-tetsuya (Class
+1-B), manabe-shiho (Class 1-C). ## y1v4 headings added by hand to
+hoshinomiya-chie, sakagami, sakayanagi-arisu, kanzaki-ryuuji. Roster
+edit: new row yashima-mariko (Cow roster, p.100) — the only entity row
+this chapter. First-half verify: 9 cross-page quote failures fixed with
+p.N-M + … fragment splits (fragments each wholly on one page); one exact
+substring fix (aka "assume that no one here is the VIP"); one plural fix
+(ibuki/kei "as if isolating themselves"). Second half: 5 more fixes —
+machida/sakura cross-page, katsuragi/ryuuen non-say cross-page, sotomura
+"a hour"→"an hour". Volume-file first-run failure: “not chosen,” was a
+paraphrase in quote marks (p.63-66 join) — reworded without quotes.
+Final: 479 [says] + 161 non-says ALL PASS. Attribution care: Karuizawa’s
+p.80 "Ugh…" kept [note] unassigned; teachers’ p.121-122 exchange kept
+as [note] gaps in the volume section. Rule-6 questions left open for the
+owner (do not decide): (1) corpus p.64 "Andou Saya" vs TSV "Andō Sayo";
+(2) Horse VIP "Minami-kun" p.113 ambiguous — minami-hakuo vs
+minami-setsuya both in TSV with y1v4, neither assigned; (3) bare alias
+"Rika" for morofuji-rika on p.93 withheld (locator substring risk —
+patterns only morofuji / morofuji rika). First-run R18 6 / R19 84: the
+word "dossier" in three Ayanokōji/Karuizawa rows and a prose "your" in
+Ayanokōji’s VIP trait row — all rewritten ("write-up", "the class");
+gate back to R18 0 / R19 82. build 177 pages, 48 assets; gate exit 0;
+make check OK (R19 82/82); hash `72491977fbf49c39926376ce9cf0cda4`
+twice. New tags: none. Open for the volume-end coverage gate: the p.39
+roster row still needs passing-mention rows for karuizawa/yukimura/
+sotomura if the sweep flags them; andou p.64 hit needs an entry or
+passing mention; morofuji p.174. Push still blocked (token dead); five
+commits will be local after ship. Next: y1v4 ch4 pp.125-204.

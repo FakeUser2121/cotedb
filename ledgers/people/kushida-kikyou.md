@@ -549,3 +549,27 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:horikita-suzune] (p.60) Present for her cold exit.
 
 <!-- walk: y1v4 ch2 → p.62 -->
+
+### y1v4 p.64 — Ch.3: named on the Dragon roster
+[scene] (p.64) One roster line in Horikita’s hand — Class D’s other two Dragon members with her.
+[note] (p.64) Listed with Hirata Yousuke as the Class D pair; Ayanokōji calls them “both excellent students, and representatives of our class” and the strongest hand Class D could deal.
+[rel:horikita-suzune] (p.64) Dragon groupmate on the biased list.
+[rel:hirata-yousuke] (p.64) Dragon groupmate on the same line.
+
+### y1v4 p.113, p.117–121 — Ch.3 §3.5–§3.6: the VIP name and the starlit hug
+[scene] (p.113) Named Dragon VIP on Hirata’s erased screen; four pages later alone on the night deck among the couples, she hugs Ayanokōji and flees.
+[status] (p.113) “Dragon Group, Kushida-san.” — the VIP position in the extremely well-stacked Dragon group is an enormous advantage and terrifying: “Once they knew her identity, she was at their mercy.”
+[status] (p.113) Hirata’s reassurance rides on the three Class D Dragon members being “the best we had to offer” — they would not reveal her.
+[says] (p.117) “Huh? Oh, Ayanokouji…kun?”
+[says] (p.117) “Yeah, I am. I just couldn’t seem to sleep.”
+[says] (p.118) “I’m fine. What about you, Ayanokouji-kun? Are you all alone?”
+[says] (p.118) “So we’re both alone? I admit, I felt a little ashamed being alone. This makes me feel better.”
+[says] (p.118) “You’re already leaving?”
+[says] (p.118) “I see. Well, I’ll see you tomorrow. Good night, Ayanokouji-kun.”
+[action] (p.118) Unexpectedly wraps her arms around his chest — “Even in this cold, I felt the warmth of her body through her jersey.”
+[says] (p.118) “I’m sorry. I…I just felt so lonely, I think,” she whispered. (small voice after the “…” pause; the words hit him “like a fighter smacking me right in the jaw”)
+[says] (p.121) “S-sorry. I, um…I just hugged you so suddenly, Ayanokouji-kun. Good night!” she stammered. (then quickly scurries away; might be blushing in the dark)
+[trait] (p.117) Jersey after a bath, complimentary-shampoo scent that somehow is not that scent; alone among couples; the narrator’s chest tightens imagining a boyfriend.
+[rel:ayanokouji-kiyotaka] (pp.117–121) The night-deck encounter and the hug neither of them can explain.
+
+<!-- walk: y1v4 ch3 → p.124 -->

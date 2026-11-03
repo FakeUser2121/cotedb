@@ -1183,3 +1183,18 @@ not strip in the verifiers; trim or `…`-split). R19 ratchet holds at
 82/82; R18 back to 0 after removing "ledger" from three rows and quoting
 the p.13 "little devil" line. Determinism hash across consecutive builds:
 `49c55c22ec9ec301ffac9d1b2d5c5e29`.
+
+### y1v4 Chapter 3 reaches the site (site, 2026-11-04)
+
+The café, Rabbit room and night deck (pp.63-124) shipped as the third
+section block of the Year 1 Volume 4 page: 21 people ledgers extended,
+three opened this chapter (machida-kouji, hamaguchi-tetsuya,
+manabe-shiho) — 177 pages, 48 assets, search index rebuilt with the new
+Yashima Mariko roster row. Quotes: 479 [says] spans (10 skipped as too
+short) and 161 non-says, all corpus-exact after fourteen first-run fixes
+(nine cross-page in half one — y1v4 `Page N` footers do not strip in the
+verifiers; five in half two plus the volume-file paraphrase-in-quotes).
+R18 back to 0 and R19 ratchet holds at 82/82 after removing "dossier"
+from three rows and a prose "your" from Ayanokōji’s VIP trait row.
+Determinism hash across consecutive builds:
+`72491977fbf49c39926376ce9cf0cda4`.
