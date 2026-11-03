@@ -1150,3 +1150,12 @@ handover argument) and her search/person asset was added — 172 pages,
 re-rendered accordingly. Quotes: 244 non-says spans, 1268 [says] lines,
 all corpus-exact. R19 ratchet holds at 82/82. Determinism hash across
 consecutive builds: `cad4562da7d06fb9aea02e2ed02ef868`.
+
+### Totsuka's alias reaches the site (site, 2026-11-02)
+
+`yahiko` joined the roster row's aliases cell, so his people page now
+shows "Also written: yahiko" and the search index folds the form;
+the rebuild is otherwise identical — 172 pages, 41 assets. Quotes:
+244 non-says, 1268 [says], all corpus-exact. R19 holds at 82/82.
+Determinism hash across consecutive builds:
+`7f6fd436a889ba9afdab57a9bc545155`.

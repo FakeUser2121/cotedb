@@ -1084,3 +1084,15 @@ make check OK (R19 82/82); hash `cad4562da7d06fb9aea02e2ed02ef868`
 twice. Her four scenes put her over the page threshold, so her existing
 roster page now carries the cards. The alias question stays open with
 the owner: whether "Yahiko" joins totsuka-yahiko's aliases.
+
+y1v3 follow-up: "Yahiko" added to Totsuka's aliases (owner decision)
+
+Owner confirmed at the report that Yahiko is plainly Totsuka Yahiko's
+alias; `content/characters.tsv` row `totsuka-yahiko` now carries
+`yahiko` in its aliases cell (the only content change; row id, name and
+volumes untouched). The locator immediately surfaces the eight pages the
+by-eye sweep had found — p.60, pp.127–129, pp.140–141, pp.251–252 —
+every one already cited in his ledger, so the coverage gate closes on
+machine confirmation. Verify 1268 [says] / 244 non-says ALL PASS; gate
+exit 0; make check OK (R19 82/82); hash `7f6fd436a889ba9afdab57a9bc545155`
+twice. Both owner decisions from the volume report are now applied.
