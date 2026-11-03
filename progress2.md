@@ -1065,3 +1065,22 @@ content/*.tsv change. Open question for the owner (§11): whether
 "Yahiko" should join totsuka-yahiko's aliases so the locator can
 surface him (the volume never prints "Totsuka"). Verifiers, gate and
 make check all pass; hash 5ad45779effcb8153e1f603096d13b84 twice.
+
+y1v3 follow-up: Sakayanagi ledger opened (owner decision)
+
+Per the owner at the volume report — "keep it in the KB" — the ch6
+deferral was overridden: `ledgers/people/sakayanagi-arisu.md` created
+(`ledger-new people sakayanagi-arisu --start-vol y1v3`, header
+`class: Class 1-A (enrolled April 2015) · status: minor (Class A)`).
+Four mention sections carry her four real locator pages, in page order,
+one stamp per chapter touched: p.60 with `ch2 → p.99` (the scouts' talk,
+mirroring Totsuka's existing `[rel:sakayanagi-arisu]` row), p.148 and
+pp.150–151 with `ch5 → p.158` (the ambush correction, the beach absentee
+read with Ichinose's and Kanzaki's lines verbatim), p.223 with
+`ch6 → p.239` (the handover argument, Ryūen's and Katsuragi's lines
+verbatim). No content/*.tsv change, no new tags. Verify: 1268 [says]
+(23 skipped) and 244 non-says spans, all corpus-exact; gate exit 0;
+make check OK (R19 82/82); hash `cad4562da7d06fb9aea02e2ed02ef868`
+twice. Her four scenes put her over the page threshold, so her existing
+roster page now carries the cards. The alias question stays open with
+the owner: whether "Yahiko" joins totsuka-yahiko's aliases.

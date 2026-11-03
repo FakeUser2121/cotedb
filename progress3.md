@@ -1138,3 +1138,15 @@ full roster: all real locator hit pages cited, 15 substring-collision
 ids discarded with evidence, no content/*.tsv change. R19 ratchet holds
 at 82/82. Determinism hash across consecutive builds:
 `5ad45779effcb8153e1f603096d13b84`.
+
+### Sakayanagi's page comes alive (site, 2026-11-02)
+
+Owner overrode the wait-at-first-scene convention: her ledger opened
+with y1v3's four mention pages, so `docs/people/sakayanagi-arisu.html`
+(upgraded in place from the roster stub) now carries four scene cards
+(cave-mouth naming, the path correction, the beach absentee read, the
+handover argument) and her search/person asset was added — 172 pages,
+41 assets. Her cross-volume topic links (relationships, who-knew-what)
+re-rendered accordingly. Quotes: 244 non-says spans, 1268 [says] lines,
+all corpus-exact. R19 ratchet holds at 82/82. Determinism hash across
+consecutive builds: `cad4562da7d06fb9aea02e2ed02ef868`.
