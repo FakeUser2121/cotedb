@@ -388,3 +388,25 @@ aliases used for anchors: sakura, airi, sakura-san
 [rel:ibuki-mio] (p.202) Takes her refusal from Ibuki; the two wait in line together behind Karuizawa’s group.
 
 <!-- walk: y1v3 ch6 → p.239 -->
+
+## y1v4
+
+<!-- walk: y1v4 → start -->
+
+### y1v4 p.25–28 — Ch.2 §2.2: the roommate appeal
+[scene] (p.25–26) Emails Ayanokōji to the second deck and stammers through her roommate worry; flees when Kushida appears.
+[says] (p.26) “Wah! A-Ayanokouji-kun?!”
+[says] (p.26) “N-no, no. I’m just kind of strangely nervous is all.”
+[trait] (p.26) Nervous to the point of jolt-like surprise; her normally hunched posture straightens at once.
+[says] (p.26) “Ayanokouji-kun, you’re roommates with Hirata-kun, Kouenji-kun, and Yukimura-kun. Right?”
+[says] (p.26) “Oh. Well, to tell you the truth, I…I’m a little worried about the people I’m sharing a room with.”
+[says] (p.26) “I’m not sure. I have mixed feelings. I do want to get along with them, but I also want to be alone, too. I’m just hopeless, aren’t I?”
+[says] (p.27) “Oh. Didn’t I tell you? Shinohara-san, Ichihashi-san, and Maezono-san.”
+[says] (p.27) “I…just thought any advice from you, Ayanokouji-kun, would be good?”
+[says] (p.27) “I-I’m sorry to just come to you for help like this out of the blue. You’re so busy, Ayanokouji-kun.”
+[action] (p.28) “retreated as fast as her legs would carry her” at Kushida’s arrival.
+[rel:kushida-kikyou] (pp.27–28) Rejection and flight; Kushida’s brightness lands as threat.
+[rel:shinohara-satsuki] (p.27) Names her as roommate one; the narration adds Shinohara won’t go out of her way for her.
+[rel:ichihashi-ruri] (p.27) Roommate two — named only; no file yet (first appearance volume).
+[rel:maezono] (p.27) Roommate three — named only; no file yet.
+[rel:ayanokouji-kiyotaka] (pp.25–28) Comes to him because “any advice from you…would be good.”

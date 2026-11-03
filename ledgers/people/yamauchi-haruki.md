@@ -256,3 +256,11 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [rel:horikita-suzune] (p.254) The mud bribe she took read back as the opening that let Ibuki take the card.
 
 <!-- walk: y1v3 ch7 → p.258 -->
+
+## y1v4
+
+<!-- walk: y1v4 → start -->
+
+### y1v4 p.19 — Ch.2 §2.0: a hypothetical at the deck restaurant
+[scene] (p.19) Named once, hypothetically — what he and Ike would have done at the deck restaurant.
+[note] (p.19) Ayanokōji’s aside: had they been there, they would have “foregone the food and feasted their eyes on the girls instead.”

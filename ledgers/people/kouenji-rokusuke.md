@@ -124,3 +124,28 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [fact] (p.251) Named as one of the two who noticed the circling ship’s “significant scenery” hint about the spot locations, alongside Katsuragi.
 
 <!-- walk: y1v3 ch7 → p.258 -->
+
+## y1v4
+
+<!-- walk: y1v4 → start -->
+
+### y1v4 p.21–24 — Ch.2 §2.1: the wet corridor and the signature
+[scene] (p.21) Corridor by the pool: dripping wet in a bathing suit, a fourth warning from the bellhop, a signature demanded.
+[says] (p.21) “Ha ha ha! It appears you’ve found me, eh?”
+[says] (p.21) “I don’t dry myself off with a towel on principle ever since reaching the age of reason.”
+[says] (p.21) “Do you have a pen and paper on hand?”
+[action] (p.22) Signs the bellhop’s notepad “Kouenji Rokusuke” and presents it as a future-valuable gift.
+[says] (p.22) “Even though it’s written on such a cheap notepad, it will certainly hold tremendous value in the future.”
+[says] (p.22) “Please don’t look so suspicious. I am the man who will carry Japan’s future on his back.”
+[trait] (pp.21–22) Repeat offender — this is the fourth hallway stop; believes his autograph outranks the notepad and pen.
+[note] (p.22) The narrator’s standing assessment: “Kouenji was like poison.” Classmates steer clear; even Hirata would be brushed off.
+[action] (p.23) Flips his wet hair into Ayanokōji’s face without noticing.
+[says] (p.23) “Oh ho? Why, if it isn’t little Ayanokouji, hmm? What a coincidence.”
+[says] (p.23) “No, no, I’ve no real business with you. I’ve simply acknowledged you because we are schoolmates. Also, though we are certainly not alike in terms of position, you are my roommate.”
+[rel:ayanokouji-kiyotaka] (p.23) “little Ayanokouji”; confirms the cabin roommate pairing and splashes him mid-sentence.
+
+### y1v4 p.52 — Ch.2 §2.4: absent from the room
+[scene] (p.52) Named only as missing: when Ayanokōji wakes in the cabin at 20:30, the narration notes the room’s other occupants are gone.
+[note] (p.52) “Neither Yukimura nor Kouenji were in the room.” — absent from the third-deck cabin while Hirata straightens his luggage.
+
+<!-- walk: y1v4 ch2 → p.62 -->

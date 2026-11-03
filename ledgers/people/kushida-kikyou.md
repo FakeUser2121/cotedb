@@ -518,3 +518,34 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [note] (p.201) The river invitation that follows — “I think I’m going to go for a swim. Ibuki-san, do you want to go for a swim with me?” — is untagged and is left as a chapter attribution gap.
 
 <!-- walk: y1v3 ch6 → p.239 -->
+
+## y1v4
+
+<!-- walk: y1v4 → start -->
+
+### y1v4 p.27–31 — Ch.2 §2.2: the hallway interrupt and the message compare
+[scene] (p.27) Exits a second-deck room into the hallway mid-meeting-plan; interrupts Sakura’s appeal, then compares school messages with Ayanokōji.
+[says] (p.27) “Huh? Ayanokouji-kun and Sakura-san? What are you doing here?”
+[says] (p.28) “Ah, did I interrupt? I didn’t mean to. I was supposed to meet up with some friends.”
+[says] (p.28) “I’ve made plans to go see some girls from Class C today. Do you want to come, Ayanokouji-kun?”
+[says] (p.28) “Oh jeez, come on. You surprised me a little. Ayanokouji-kun, you’re funny.”
+[trait] (p.28) Her true self “seemed puzzled by my response” when he says yes — the mask slips a little before the smooth recovery.
+[action] (p.30) Without hesitation shows him her message: 20:40, a room two doors from his.
+[action] (p.31) Draws nearer, curious about his chat with Horikita.
+[rel:sakura-airi] (pp.27–28) The bright entrance that sends Sakura fleeing; Kushida apologises to no evident purpose.
+[rel:ayanokouji-kiyotaka] (pp.27–31) Invites, reads his joke, shares her phone, watches his screen.
+
+### y1v4 p.60–61 — Ch.2 §2.5: the puzzled arrival
+[scene] (p.60) Wanders into the 20:40 gathering without understanding the group structure, then reads the room fast enough to keep up.
+[says] (p.60) “Huh, Hirata-kun? Oh, Ayanokouji-kun, too? What are you all doing here?”
+[says] (p.60) “Hmm? Group? I don’t understand. I did get an email telling me to come here at this time… Wow, there really are some amazing people here, huh?”
+[trait] (p.60) Somewhat taken back yet respectful of everyone gathered; by fragments of conversation she begins to grasp the situation.
+[says] (p.60) “Um, well. So, it feels like a lot of really difficult things are about to come our way,”
+[says] (p.60) “Ah ha! Don’t worry, it’s okay! Like Hirata-kun said, all I can do is my best. Oh, I haven’t really had many chances to talk with Katsuragi-kun and Ryuuen-kun yet. I’d like to get along with you all, too.” (speaking to everyone present)
+[trait] (p.60) Delivers the last line without anxiety, disgust, displeasure, or joy in her voice.
+[rel:hirata-yousuke] (p.60) Takes his composure as her anchor.
+[rel:katsuragi-kouhei] (p.60) Names him as someone she hasn’t talked to yet.
+[rel:ryuuen-kakeru] (p.60) Names him the same way, in the same breath.
+[rel:horikita-suzune] (p.60) Present for her cold exit.
+
+<!-- walk: y1v4 ch2 → p.62 -->

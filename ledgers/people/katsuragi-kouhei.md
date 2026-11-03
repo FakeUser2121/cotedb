@@ -85,3 +85,29 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [inference] (p.256) The retelling’s reading of his class: 270 points at the end of the test, not one spent — bought through Class C’s sacrifice — and still third, Ayanokōji’s own label for it intuition with no evidence.
 
 <!-- walk: y1v3 ch7 → p.258 -->
+
+## y1v4
+
+<!-- walk: y1v4 → start -->
+
+### y1v4 p.54–60 — Ch.2 §2.5: the Class A pivot on Horikita
+[scene] (p.54) At the 20:40 gathering he singles Horikita out of the line, then holds court against her, Kanzaki, and Ryūen.
+[says] (p.54) “Unless I’m mistaken, you’re also in the group meeting at 20:40, yes?”
+[says] (p.55) “That’s good news. I wanted to speak with you again. I’m also in the 20:40 group. Starting tomorrow, we will be working together.”
+[says] (p.55) “You’re correct. I certainly haven’t acknowledged anyone in Class D until now. However, considering the incredible results from the last test, it would be impossible for me not to pay attention to you. Wouldn’t you agree? You laid the groundwork to win, and succeeded handsomely.”
+[says] (p.56) “I don’t know what the future might hold, but…should Class D overtake Class C, know that Class A would attack you without mercy.”
+[says] (p.56) “That’s certainly true. However, we must be cautious. It’s no laughing matter when those who have been perceived as weak and stupid begin to rise up. If one class manages to change its station, we must be vigilant. I would give the same warning to both Classes B and C.”
+[says] (p.57) “However, just because you got lucky and won by complete chance doesn’t make us equals.”
+[says] (p.57) “Anyone could accomplish something like that out of pure luck. It’s better that you don’t grow arrogant and behave foolishly after a win that came about by chance. Remember that the difference in our class points is still massive.”
+[says] (p.58) “That’s a rather deplorable thing to say. Especially when academic success is the most important factor in determining our futures. You realize that Japan is often referred to as an academic society?” (to Ryūen)
+[says] (p.58) “I won’t let you bring your awful attitude to this test.”
+[says] (p.58) “Well, it doesn’t matter. Since we’re in the same group now, we’ll be able to talk at length.”
+[says] (p.60) “Are you okay, Hirata? I think this is going to be an especially grueling battle.”
+[trait] (pp.54–60) Calm and collected to a degree that reads as college-age; “most had already acknowledged him as their leader” — the Class A entourage glares on cue.
+[trait] (p.57) Dismissive gesture “like he was brushing dirt off his clothes” while calling the island win luck.
+[rel:horikita-suzune] (pp.55–57) The pivot from island-test indifference to a formal Class A threat.
+[rel:kanzaki-ryuuji] (pp.56–58) Brushed off by him, then trading academic-ability arguments with Ryūen in front of him.
+[rel:ryuuen-kakeru] (pp.57–58) The “Beauty and the Beast” provocation and the awful-attitude standoff.
+[rel:hirata-yousuke] (p.60) Names him the group’s grinding battle ahead.
+
+<!-- walk: y1v4 ch2 → p.62 -->

@@ -1119,3 +1119,40 @@ hand while reading each chapter from now on; Totsuka's `yahiko` alias had
 already shipped (a579e57). Two commits remain local: the GitHub token
 died mid-session, push stays blocked until the owner refreshes it. Next:
 y1v4 ch2 pp.12–62.
+
+y1v4 ch2: the Summer Group Test (pp.12-62)
+
+Chapter read in two halves (pp.12-36, then pp.37-62 with --blank:
+p.59 and p.62 carry no prose). 42 sections appended across 21 people
+ledgers plus one volume section, one stamp `y1v4 ch2 -> p.62` per file
+(first-half appends un-stamped, final append stamped). New file:
+ledgers/people/sotomura-hideo.md (ledger-new, --start-vol y1v4); `## y1v4`
+start blocks added to 18 existing ledgers. Alias logged by hand while
+reading: sotomura-hideo's aliases cell now `The Professor;Professor` —
+the nickname is printed at p.32 and the bare form carries the vocatives;
+walk_locate immediately returns his ch2 pages (p.32-37, 39, 41, 46,
+50-51) plus later-chapter hits. Mention-only, no files (Sakagami
+precedent): ichihashi-ruri and maezono on Sakura's rel rows; the roster-
+only names Takemoto, Machida, Morishige, Hamaguchi, Beppu, Manabe, Yabu,
+Yamashita, Morimiya and Tokitou in the volume bullet (Tokitou at p.54 is
+printed without a first name — which Tokitou is not printed, both roster
+rows keep y1v4). New tags: none; roster rows: none (every name already
+on the roster with y1v4). Attribution gaps recorded in the volume section:
+five untagged lines (p.42 x3, p.43, p.60) plus the two unassigned
+Horikita-chat lines of §2.2 (pp.30-31). Verify: 167 [says] (1 skipped
+micro-quote "Hmph.") and 69 non-says, ALL PASS. Three first-run verify
+failures were cross-page quotes — durable note for this volume: y1v4's
+footers print `Page N` (space form), which verify2/3 do not strip (they
+strip `Page|N` and Goldenagato), so a page-break join fails; fixed by
+trimming to one page (Karuizawa) or splitting with `…` and a `p.N-M`
+citation (Mashima, Yukimura). First-run R18 5 / R19 85: the word
+"ledger" in three rows and a prose "you" in Ayanokōji's p.13 action row
+(it renders on his page and the volume index) — all rewritten, gate back
+to R18 0 / R19 82. build 173 pages, 44 assets (yukimura-teruhiko crosses
+the scenes threshold and gains a page); gate exit 0; make check OK
+(R19 82/82); hash `49c55c22ec9ec301ffac9d1b2d5c5e29` twice. No new
+defects printed. Open for the volume-end coverage gate: the p.39 roster
+row is cited by Ayanokouji, Ichinose and Ibuki but not yet by Karuizawa,
+Yukimura or Sotomura — passing-mention rows if the sweep flags them.
+Push still blocked (token dead); four commits will be local after ship.
+Next: y1v4 ch3 pp.63-124.

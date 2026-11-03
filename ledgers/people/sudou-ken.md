@@ -476,3 +476,17 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [says] (p.246) “Y-y-yeah.”
 
 <!-- walk: y1v3 ch7 → p.258 -->
+
+## y1v4
+
+<!-- walk: y1v4 → start -->
+
+### y1v4 p.13 — Ch.2 §2.0: a passing mention in Hirata’s inventory
+[scene] (p.13) Named once at the cabin lunch, in Hirata’s list of the people who treat Ayanokōji as a friend.
+[note] (p.13) Hirata’s line carries him: “you have Sudou-kun and the guys, and Horikita-san.”
+
+### y1v4 p.43 — Ch.2 §2.3: a passing mention in the comprehension sketch
+[scene] (p.43) Named once as a contrast while the narration sizes up Karuizawa’s refusal to listen.
+[note] (p.43) The comparison: her problem “wasn’t that she scored poorly on tests like Sudou or Ike” — unlike them, she simply won’t listen.
+
+<!-- walk: y1v4 ch2 → p.62 -->

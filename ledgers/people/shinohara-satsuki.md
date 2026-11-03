@@ -64,3 +64,11 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.239) The rest of the chapter carries no scenes for her; her last rows stand at p.178.
 
 <!-- walk: y1v3 ch6 → p.239 -->
+
+## y1v4
+
+<!-- walk: y1v4 → start -->
+
+### y1v4 p.27 — Ch.2 §2.2: named as Sakura’s roommate
+[scene] (p.27) Named as Sakura’s first roommate, with the narration’s character sketch.
+[rel:sakura-airi] (p.27) Roommate; the narration sizes her up — close with Karuizawa, “like her boss, really” — reliable and unafraid of a fight, but relentless against people she doesn’t like, so she “probably wouldn’t go out of her way to befriend her.”

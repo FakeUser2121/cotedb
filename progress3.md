@@ -1170,3 +1170,16 @@ Karuizawa's people page extended by its first y1v4 section — 172 pages,
 (the class line prints "boys or girls", not "and"). R19 ratchet holds at
 82/82. Determinism hash across consecutive builds:
 `ee21f656d3ea278b734a18cd864dbf63`.
+
+### y1v4 Chapter 2 reaches the site (site, 2026-11-03)
+
+The Summer Group Test (pp.12-62) shipped as the second section block of
+the Year 1 Volume 4 page: 21 people ledgers extended (sotomura-hideo
+opened, yukimura-teruhiko and mashima-tomonari among them) — 173 pages,
+44 assets, search index rebuilt with the hand-logged `The Professor`
+alias. Quotes: 167 [says] spans (1 skipped as too short) and 69 non-says,
+all corpus-exact after three cross-page fixes (y1v4 `Page N` footers do
+not strip in the verifiers; trim or `…`-split). R19 ratchet holds at
+82/82; R18 back to 0 after removing "ledger" from three rows and quoting
+the p.13 "little devil" line. Determinism hash across consecutive builds:
+`49c55c22ec9ec301ffac9d1b2d5c5e29`.

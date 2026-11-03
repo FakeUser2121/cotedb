@@ -101,3 +101,21 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:ayanokouji-kiyotaka] (p.257) Named the number one enemy — spies for the leaders’ identities plus whatever the Class A negotiations bought.
 
 <!-- walk: y1v3 ch7 → p.258 -->
+
+## y1v4
+
+<!-- walk: y1v4 → start -->
+
+### y1v4 p.57–60 — Ch.2 §2.5: the walk-through provocation
+[scene] (p.57) Arrives uninvited at the gathering with three terrified lackeys, sizes up the pond, and picks a fight with Katsuragi.
+[says] (p.57) “Well, well. So many fish in this pond. I’ve come to take a look for myself.”
+[says] (p.58) “Unfortunately, it looks like I’m with you.” (to Katsuragi’s question whether he belongs to the meeting)
+[says] (p.58) “How about you put on a little show for me? What do you think of Beauty and the Beast?” (looking at both Horikita and Katsuragi, then letting out a demented little chuckle)
+[says] (p.58) “Academic ability? How droll. That kind of thing is meaningless.”
+[says] (p.58) “Hmm? Awful attitude? What in the world are you talking about? I can’t possibly imagine. Can you perhaps tell me how I am, in fact, awful?”
+[action] (p.58) Gestured to his crew as if to ask whether Katsuragi’s argument was believable; “their response mechanical.”
+[trait] (p.58) His three followers wear terrified looks and move docile — “more like a king and his servants.”
+[rel:katsuragi-kouhei] (pp.57–58) The academic-society argument ends in a cold stalemate.
+[rel:horikita-suzune] (p.60) She flips her hair and turns her back on him to go inside.
+
+<!-- walk: y1v4 ch2 → p.62 -->

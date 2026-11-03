@@ -199,3 +199,11 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [fact] (p.256) Ibuki hiding a wireless transceiver in the ground proved someone was left on the island for her to contact; Ryuuen set it on a table unguarded while on vacation — no one else controlled it, and his mistake was trusting no one.
 
 <!-- walk: y1v3 ch7 → p.258 -->
+
+## y1v4
+
+<!-- walk: y1v4 → start -->
+
+### y1v4 p.16 — Ch.2 §2.0: a passing mention as the culprit
+[scene] (p.16) Named once as the underwear culprit; Ayanokōji asks whether Karuizawa got hers back.
+[note] (p.16) Hirata confirms the fallout: naming her resolved things — “When she heard Ibuki-san was the culprit, things went smoothly.”

@@ -404,3 +404,13 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:ayanokouji-kiyotaka] (p.249) Answers her myth with the myth — burned wings and all, he flies on for his freedom.
 
 <!-- walk: y1v3 ch7 → p.258 -->
+
+## y1v4
+
+<!-- walk: y1v4 → start -->
+
+### y1v4 p.12, p.34 — Ch.2: the Class A leverage, named twice
+[scene] (p.12) Named in Ayanokōji’s cabin reverie — the leverage that brought him to Class A’s track.
+[back] (p.12) The threat that binds him: she “threatened to expel me from this paradise” unless he works toward Class A.
+[note] (p.34) The narrator contrasts her with Mashima: where she seems “unmotivated and unnaturally uncooperative,” he is “impossible to read.”
+[rel:ayanokouji-kiyotaka] (p.12) Still holds him with the Class A ultimatum three days after the island test.

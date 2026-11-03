@@ -69,3 +69,21 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [action] (p.151) Checks his wristwatch and suggests to Ichinose that they head back.
 
 <!-- walk: y1v3 ch5 → p.158 -->
+
+## y1v4
+
+<!-- walk: y1v4 → start -->
+
+### y1v4 p.56–57 — Ch.2 §2.5: the Class B interlude
+[scene] (p.56) Walks quietly past Katsuragi’s entourage to pull the heat off Horikita, then greets Hirata’s arrival.
+[says] (p.56) “I don’t much like ganging up on people, or threatening other classes.”
+[says] (p.56) “You don’t need to waste time on Katsuragi. He’s just trying to get to you.” (to Horikita, gentlemanly despite not being on good terms with her)
+[says] (p.57) “Hirata, looks like you landed in a troublesome group.”
+[says] (p.57) “Oh, I don’t think so.” (when Hirata says struggle with him, Kanzaki, and Katsuragi is inevitable)
+[trait] (p.56) Honest type — long hair without slacker energy; the narration notes Ichinose, Class B’s leader, seems to trust him, and that he faced Horikita once during the summer vacation and knows her intellect.
+[rel:horikita-suzune] (p.56) Rescues her from the gang-up, declined without heat.
+[rel:katsuragi-kouhei] (pp.56–58) Interrupts his threat display; later stands by through the Ryūen exchange.
+[rel:hirata-yousuke] (p.57) Reads his group as trouble at a glance.
+[rel:ichinose-honami] (p.56) Named as the Class B leader who trusts him.
+
+<!-- walk: y1v4 ch2 → p.62 -->

@@ -1191,3 +1191,36 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ayanokouji-kiyotaka] (p.258) Takes his hand without hesitation; the handshake is firm — “I work for me. You do things for yourself.” — and the battle to raise the class from the bottom begins.
 
 <!-- walk: y1v3 ch7 → p.258 -->
+
+## y1v4
+
+<!-- walk: y1v4 → start -->
+
+### y1v4 p.30–31 — Ch.2 §2.2: the message chat
+[scene] (p.30) Chat only: Ayanokōji messages her about the school’s test notice; she replies instantly.
+[says] (p.30) “Yeah. I did.” (chat reply; the translation leaves the thread’s lines untagged)
+[says] (p.30) “Mine says 20:40. That seems like a pretty big difference.” (chat)
+[says] (p.31) “Because your time is earlier, I look forward to hearing your report.” (chat)
+[trait] (p.30) Replies instantly — against her usual half-day, sometimes days, reading lag.
+[note] (pp.30–31) Two further chat lines sit unassigned in the translation: “I’m curious about the difference in start times…” and “We can’t know anything for sure at this point.” The volume attribution list keeps them.
+[note] (pp.17–19) Off-page: Hirata’s whole lunch ask is about winning her over, routed through Ayanokōji.
+[rel:ayanokouji-kiyotaka] (pp.30–31) The chat partner with the earlier slot; she defers his report.
+
+### y1v4 p.51, p.55–61 — Ch.2 §2.5: the Katsuragi warning and the cold exit
+[scene] (p.51) Off-screen first — Ayanokōji reports the Rabbit rules to her by chat — then on the second deck she faces Katsuragi, holds against Kanzaki’s interlude, and turns her back on Ryūen.
+[note] (p.51) Receives his chat report on the Rabbit group’s rules; her reply is not printed.
+[says] (p.55) “Yes, I am. And what exactly does that have to do with you?” (to Katsuragi)
+[says] (p.55) “You wanted to speak with me? Funny. Didn’t you completely ignore me the other day?”
+[says] (p.56) “That’s rather petty. From Class A’s perspective, are we such a big deal? I mean, there’s a significant gap in points between us.”
+[says] (p.56) “You needn’t concern yourself. Class D has always been regarded as inferior. I’d welcome any change in our reputation.”
+[says] (p.57) “What do you mean?” (when Katsuragi calls the island win luck)
+[says] (p.57) “We haven’t gotten into college yet. I don’t think you and I are so different. The school arbitrarily divided us into different classes. Don’t forget that.”
+[says] (p.60) “If we’re going to continue this pointless conversation, I’d prefer to just go inside. Besides, it’s about time.” (flipping her hair away from Ryūen)
+[trait] (pp.55–61) Doesn’t back down before the Class A entourage; the narration credits her — weak-willed students would ingratiate themselves, she acts as she always does.
+[trait] (p.56) Reads her own new reputation: other classes now treat her selfishness as class concern and fear her as a hidden mastermind.
+[rel:katsuragi-kouhei] (pp.55–57) The pivot from his island-test indifference to a Class A threat.
+[rel:kanzaki-ryuuji] (p.56) Declines his rescue — “You needn’t concern yourself.”
+[rel:ryuuen-kakeru] (p.60) Exits on him mid-provocation.
+[rel:hirata-yousuke] (p.54) Both summoned to the 20:40 meeting (see Hirata’s row).
+
+<!-- walk: y1v4 ch2 → p.62 -->

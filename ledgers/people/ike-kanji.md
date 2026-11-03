@@ -372,3 +372,17 @@ aliases used for anchors: ike, kanji, ike-kun
 [action] (p.245) Heads for the boat with Hirata and Sudou after the explanation.
 
 <!-- walk: y1v3 ch7 → p.258 -->
+
+## y1v4
+
+<!-- walk: y1v4 → start -->
+
+### y1v4 p.19 — Ch.2 §2.0: a hypothetical at the deck restaurant
+[scene] (p.19) Named once, hypothetically — what he and Yamauchi would have done at the deck restaurant.
+[note] (p.19) Ayanokōji’s aside: had they been there, they would have “foregone the food and feasted their eyes on the girls instead.”
+
+### y1v4 p.43 — Ch.2 §2.3: a passing mention in the comprehension sketch
+[scene] (p.43) Named once as a contrast while the narration sizes up Karuizawa’s refusal to listen.
+[note] (p.43) The comparison: her problem “wasn’t that she scored poorly on tests like Sudou or Ike” — unlike them, she simply won’t listen.
+
+<!-- walk: y1v4 ch2 → p.62 -->

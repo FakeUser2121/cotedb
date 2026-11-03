@@ -326,3 +326,15 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [note] (p.151) The closing reply to his request for secrecy — “Ha ha, don’t worry, we’ll keep it secret…” — is untagged between the pair; left with the gaps.
 
 <!-- walk: y1v3 ch5 → p.158 -->
+
+## y1v4
+
+<!-- walk: y1v4 → start -->
+
+### y1v4 p.39, p.56 — Ch.2: named on the Rabbit roster
+[scene] (p.39) Twice named without a scene: on the printed Rabbit group roster, and in Kanzaki’s portrait of a trusted Class B boy.
+[note] (p.39) Listed among the three Class B members of the Rabbit group — Ayanokōji knows her by name off the sheet.
+[note] (p.56) Kanzaki is described as the Class B student whom “Ichinose—Class B’s leader—seemed to trust.”
+[rel:kanzaki-ryuuji] (p.56) Her trust is the credential the narration gives him.
+
+<!-- walk: y1v4 ch2 → p.62 -->

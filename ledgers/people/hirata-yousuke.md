@@ -397,3 +397,61 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [note] (p.246) The line is attributed only to “he”; he has just proposed the talk, so it is recorded as him.
 
 <!-- walk: y1v3 ch7 → p.258 -->
+
+## y1v4
+
+<!-- walk: y1v4 → start -->
+
+### y1v4 p.13–16 — Ch.2 §2.0: he pulls Ayanokōji to lunch
+[scene] (p.13) Ship cabin: he draws Ayanokōji out of his sea-gazing and steers him toward lunch, cancelling Karuizawa’s plan to do it.
+[says] (p.13) “Hmm? You haven’t been in the room all this time, have you?”
+[says] (p.13) “You might make more friends if you were a little more proactive, Ayanokouji-kun. Though I suppose it’s none of my business.”
+[says] (p.14) “That’s not true, though. I mean, you have Sudou-kun and the guys, and Horikita-san.”
+[says] (p.14) “I’m planning to meet up with Karuizawa-san and the others at 12:30 to have lunch. Do you want to come with? I think it’ll be really fun.”
+[trait] (p.14) Wears “that eternal, optimistic smile” and won’t leave a lone person alone; pushes past the refusals.
+[says] (p.14) “I can understand that you’re feeling hesitant. That’s exactly why I want you to rely on me.”
+[says] (p.15) “I can eat with Karuizawa-san and the others any time, but I haven’t really had many opportunities to eat together with you, Ayanokouji-kun.”
+[action] (p.15) Calls Karuizawa to cancel on the spot, despite Ayanokōji’s half-hearted protests.
+[says] (p.16) “Thank you for helping on the deserted island. I’m sorry I didn’t thank you enough for helping to find the culprit, Ayanokouji-kun.”
+[says] (p.16) “Even so, I’m grateful to you for helping.”
+[rel:karuizawa-kei] (pp.14–15) Cancels their lunch without flinching; Ayanokōji expects her to blame him later, and he doesn’t seem to care.
+
+### y1v4 p.17–20 — Ch.2 §2.0: the ask, be the bridge to Horikita
+[scene] (p.17) Top-deck restaurant: over lunch he finally names his ask — Ayanokōji as the bridge to Horikita.
+[says] (p.17) “Honestly, there’s something I’d like your advice on.”
+[says] (p.17) “I wondered if you would act as a bridge to help reach Horikita-san. After all, Class D will have to come together and work hard in the future, and I think Horikita-san will be indispensable.”
+[says] (p.18) “Yes. I do understand, of course. Horikita-san only opens herself up to you, Ayanokouji-kun.”
+[goal] (p.18) Wants his own hand hidden — “Then, pretend I never spoke to you.”
+[limit] (p.18) “But I can’t come up with anything else right now. I don’t think I have the confidence to speak with Horikita-san, let alone persuade her. This is my last resort.”
+[says] (p.19) “I should probably reconsider how to do this. Horikita-san seems very fastidious and hypercritical. How do you manage to get along with her, Ayanokouji-kun?”
+[trait] (p.19) Has “over forty friends” yet is frustrated at missing a connection with one particular student.
+[says] (p.19) “My plan was really short-sighted.” (when Ayanokōji calls the timing too soon)
+[says] (p.20) “Sorry. I invited you out to eat and made it all about me. Well, let’s eat, shall we?”
+[action] (p.20) Notices Karuizawa approaching and shoots Ayanokōji a nonplussed look before the girls close ranks.
+[rel:horikita-suzune] (pp.17–19) Wants her friendship first, then a working relationship, and lacks the confidence to ask her directly.
+[rel:karuizawa-kei] (p.20) She arrives with her girls and takes the table back.
+
+### y1v4 p.52–53 — Ch.2 §2.4: the wake-up and the scattered explanations
+[scene] (p.52) In the third-deck cabin he straightens his luggage, puts on his uniform, and wakes Ayanokōji for the evening’s meetings.
+[says] (p.52) “I’m sorry. Did I wake you?”
+[says] (p.52) “Would you like to come with me? I was thinking the school’s message should be coming pretty soon.”
+[trait] (p.52) Already knows the test’s specifics — Yukimura told him over their meal — and several students have come to talk it through with him.
+[says] (p.53) “Did you notice anything, Ayanokouji-kun? If it’s okay, I’d like you to share it with me.”
+[says] (p.53) “Well, I was wondering why the explanations are so…scattered. I thought maybe the school wanted to avoid the confusion and trouble that would come from explaining things in one large group, but after thinking about it, I don’t believe it would take much more effort to announce the rules to everyone at once.”
+[goal] (p.53) Plans to ask a teacher directly about the staged briefings.
+[rel:ayanokouji-kiyotaka] (pp.52–53) Wakes him, walks him down, gets only a deflection for his troubles.
+[rel:yukimura-teruhiko] (p.52) His inside source on the Rabbit rules.
+
+### y1v4 p.54–61 — Ch.2 §2.5: the 20:40 gathering
+[scene] (p.54) Second-deck meeting place: he names the waiting students for Ayanokōji, then stands inside the Katsuragi–Horikita–Ryūen current.
+[says] (p.54) “It doesn’t seem like all of these people are in my group.”
+[says] (p.54) “That’s Morimiya-kun, from Class A. And that one near the elevator is Tokitou-kun, from Class C.” (the well-connected answer)
+[says] (p.57) “Yes. Though if I’m with you, Kanzaki-kun, and Katsuragi-kun, struggle has to be inevitable.” (answering Kanzaki’s sympathy)
+[says] (p.60) “Don’t worry. No matter who is in my group, I’ll do my best.” (to Katsuragi, positive as always)
+[trait] (pp.54–61) Positive through the threat display; Kushida reads his steadiness as the sign that the battle will be grueling.
+[rel:katsuragi-kouhei] (p.60) Addressed as the group’s Class A anchor.
+[rel:kanzaki-ryuuji] (p.57) The Class B boy who spots him landed in trouble.
+[rel:kushida-kikyou] (p.60) She finds him amid the gathering and takes his composure for reassurance.
+[rel:horikita-suzune] (p.54) Both summoned to the same 20:40 meeting — the team Katsuragi named.
+
+<!-- walk: y1v4 ch2 → p.62 -->

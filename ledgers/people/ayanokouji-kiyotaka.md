@@ -1870,3 +1870,101 @@ walk: y1v1 → DONE
 [rel:horikita-suzune] (p.258) Takes her hand without hesitation; the handshake is firm — “I work for me. You do things for yourself.” — and the battle to raise the class from the bottom begins.
 
 <!-- walk: y1v3 ch7 → p.258 -->
+
+## y1v4
+
+<!-- walk: y1v4 → start -->
+
+### y1v4 p.12–20 — Ch.2 §2.0: the cabin reverie and the Horikita bridge
+[scene] (p.12) Three days after the island test, the cruise-ship respite; Ayanokōji’s cabin reverie, Hirata’s interruption, and the deck lunch that follows.
+[back] (p.12) The rule he entered school under: “Contact with anyone outside is forbidden until graduation.” Chabashira’s leverage rides on it — she threatened to expel him from this paradise unless he works toward Class A.
+[action] (p.13) A “little devil” perched on his shoulder whispers that “It’s better to get them before they get you”; he spends a second imagining forcing Chabashira to resign, then returns to blank thinking.
+[says] (p.13) “Sigh. If only I had the power to rotate the earth on its axis myself…”
+[trait] (p.13) Rates the boys aboard as “beasts—sex-starved carnivores” waiting like predators while the girls chatter — his anthropology of the vacation mood.
+[says] (p.14) “I’ll pass. I don’t think I’m on especially good terms with Karuizawa’s group.”
+[trait] (p.14) Grades the friendship tiers: at the bottom strata, “low-level friends are only invited ten percent of the time” — and he is the lowly friend.
+[says] (p.15) “Well, I don’t particularly dislike the idea, but… Didn’t you already promise Karuizawa?”
+[action] (p.16) Asks after Karuizawa’s recovered underwear and is satisfied with Hirata’s quiet resolution of the fiasco.
+[trait] (p.17) Reads Hirata’s invitation as carrying “some kind of ulterior motive” before the ask lands.
+[says] (p.18) “But even if I can bring you both together, things won’t be that easy. Horikita is difficult.”
+[goal] (p.18) Takes the go-between job while admitting he usually just goes along with whatever Horikita says — “I’ve never really forced my opinion on her.”
+[action] (p.20) Executes his “Speedy Escape” the moment Karuizawa’s group closes ranks over Hirata.
+[rel:hirata-yousuke] (pp.13–20) Pressed into service as the Horikita bridge over lunch; he takes the ask but not the urgency.
+[rel:karuizawa-kei] (pp.14, 20) Declines her group, then watches her reclaim Hirata anyway.
+[rel:horikita-suzune] (pp.17–19) The subject of Hirata’s request; he warns she will shut down if she senses manipulation.
+
+### y1v4 p.21–25 — Ch.2 §2.1: the Kōenji corridor and Sakura’s call
+[scene] (p.21) Corridor on the third deck: Kōenji dripping from the pool, the bellhop’s fourth warning, and Ayanokōji’s escape route.
+[says] (p.23) “Do you want something from me?”
+[action] (p.23) Throws the bellhop’s warning back at Kōenji — “I passed the ball, if you will” — to engineer his own escape.
+[feat] (p.24) Reads the ship’s signboard map and fixes the layout in his head: nine decks plus a roof, guys on the third deck and girls on the fourth, the 24-hour lounge on the first.
+[action] (p.25) Takes Sakura’s email call rather than kill time alone.
+
+### y1v4 p.26–31 — Ch.2 §2.2: Sakura’s worry, Kushida’s interrupt, the school message
+[scene] (p.26) Second-deck hallway: Sakura’s roommate appeal, Kushida’s interruption, the school’s test message, and the chat with Horikita.
+[trivia] (p.26) Ship cabin roommates: Hirata, Kōenji, and Yukimura — Sakura states it; he doesn’t dispute it.
+[says] (p.27) “You’re worried because even though you want to get along with them, you don’t think you can?”
+[says] (p.28) “It’s no big deal. I don’t mind it when you come to me for advice. Whether I’ll be of much help is another story.”
+[says] (p.28) “I’m joking. Don’t you know by now that I’m not the sort of person who joins in on stuff?”
+[action] (p.30) Compares messages with Kushida: his call is 18:00, hers 20:40, her room two doors down from his.
+[says] (p.30) “Did you get a message from the school just now?” (chat line; the corpus prints it bare after “I typed.”)
+[says:horikita-suzune] (p.30) “Yeah. I did.” (untagged chat reply; the thread has only these two)
+[says] (p.30) “My designated meeting time is 18:00. What about yours?” (chat)
+[says:horikita-suzune] (p.30) “Mine says 20:40. That seems like a pretty big difference.” (untagged chat reply)
+[says:horikita-suzune] (p.31) “Because your time is earlier, I look forward to hearing your report.” (untagged chat reply; the narration marks her replies instant)
+[says] (p.31) “Understood.” (chat)
+[trait] (p.30) Notes Horikita’s instant replies as unusual — she normally waits half a day, sometimes days, to read.
+[action] (p.31) Keeps the Horikita chat to himself when Kushida draws near, deciding to wait and see.
+[rel:kushida-kikyou] (pp.27–31) Refuses her Class C outing, lets her see the phone, shares nothing about the chat.
+[rel:sakura-airi] (pp.25–28) Receives her roommate appeal; can only offer limited help.
+
+### y1v4 p.32–36 — Ch.2 §2.3: the zodiac briefing opens
+[scene] (p.32) Room 204 on the second deck: Mashima’s briefing table, Sotomura and Yukimura already seated, Karuizawa as the late fourth.
+[action] (p.32) Takes the vacant seat beside Yukimura and waits out the unseen fourth member.
+[trait] (p.32) Reads the setup as ominous — small groups, private rooms, a teacher who won’t take questions: “There was a storm coming, the curtain rising on a new test.”
+[rel:sotomura-hideo] (p.32) Classmate at the table; the Professor greets him with “Ayanokouji-dono.”
+[rel:yukimura-teruhiko] (pp.32, 36) The roommate beside him; he stays quiet while Yukimura and Karuizawa trade blows.
+[rel:mashima-tomonari] (pp.32–36) The briefer: cold, unanswerable, “impossible to read.”
+[rel:karuizawa-kei] (pp.33–36) The fourth member; she moves her chair away from him.
+
+### y1v4 p.37–49 — Ch.2 §2.3: the four outcomes and the traitor rules
+[scene] (p.37) Still at Mashima’s table: the group roster, the handout of four outcomes, and the Werewolf detour, all read through Ayanokōji’s eyes.
+[says] (p.37) “Karuizawa, if you don’t change your attitude toward the teachers, it might leave a mark on your permanent record. That wouldn’t be good, right?”
+[trait] (p.37) Depressed hearing Karuizawa rank the three of them below Hirata, though he tries not to care.
+[note] (p.39) Knows Ichinose from Class B and Ibuki from Class C off the printed roster; of Ibuki he thinks being in the same group “was a perverse kind of fate.”
+[feat] (p.43) Has never heard of the party game Werewolf — Karuizawa’s amazement lands on genuine ignorance.
+[thinks] (p.45) Reads the traitor rules as flipping the test on its head: with answers accepted any time, no one would seriously aim for Outcome #1.
+[thinks] (pp.47–48) Reduces the exam to four possibilities — the honest Outcome #1, a wrong guess at the end, the traitor finding the VIP, and the traitor misled — and wants to avoid the last one most of all.
+[feat] (p.48) Easily memorizes the prohibited-actions list: phone theft, threats for VIP information, impersonation by borrowed phone, and cross-class discussion until the exam ends — each punishable up to expulsion.
+[trait] (p.48) Notes the school’s anonymity design means any school-sent message is “100% the truth.”
+[rel:karuizawa-kei] (p.37) Warns her about her permanent record; she brushes it off.
+[rel:mashima-tomonari] (pp.37–49) The briefer he watches absorb Karuizawa’s interruptions without expression.
+
+### y1v4 p.50–51 — Ch.2 §2.3: the hallway split
+[scene] (p.50) Leaving Mashima’s room: Yukimura’s huddle plan collapses when Karuizawa calls Hirata and the Professor declines.
+[says] (p.50) “For the most part, I guess. I’d like you to explain the things I don’t fully understand later, though.” (to Yukimura, who asked whether he understood)
+[trait] (p.50) Feigns incompleteness on purpose — “I wasn’t going to tell Hirata anything more” in the later hallway talk — and lets Yukimura’s discontent pass unnoticed.
+[action] (p.51) Agrees the ship may be bugged, accepts Yukimura’s secure-location plan in principle, then reports the Rabbit rules to Horikita by chat and starts shaping a strategy alone.
+[rel:yukimura-teruhiko] (pp.50–51) The one classmate who tries to build a three-man huddle with him; Yukimura sighs and drops it.
+
+### y1v4 p.52–53 — Ch.2 §2.4: the wake-up and the scattered explanations
+[scene] (p.52) Just before 20:30 he wakes in the third-deck cabin to Hirata’s apology, and they step out together toward the evening’s meetings.
+[says] (p.53) “Can’t really say. I haven’t been thinking about the exam like you, Horikita, and Yukimura have. I’m not smart, either, so I haven’t really noticed much.” (deflecting Hirata’s request for observations)
+[says] (p.53) “Yeah, I think you’re right, Hirata. It would definitely be more efficient to explain the test to all the students at the same time, rather than dividing us into groups and doing it in stages.”
+[thinks] (p.53) Suspects the school’s deliberately scattered briefings mean their “thinking” is already being tested.
+[rel:hirata-yousuke] (pp.52–53) Walks him to the second deck while sharing nothing of substance.
+
+### y1v4 p.54–61 — Ch.2 §2.5: the 20:40 gathering
+[scene] (p.54) At the second-deck meeting place he watches Katsuragi confront Horikita, Kanzaki intercede, Ryūen prowl, and Kushida arrive puzzled.
+[says] (p.54) “Who are those people?” (asking Hirata to name the waiting students)
+[action] (p.54) Burns Morimiya and Tokitō’s names and faces into memory on Hirata’s tip, then keeps to the line without making a fuss.
+[thinks] (p.55) Notes Katsuragi’s entourage and Horikita’s changed standing: other classes now see her as “a puppet master, a mastermind who worked behind the scenes.”
+[thinks] (p.57) Credits Horikita’s cold-shoulder resilience — the island win is his, but she took the spotlight to keep him hidden.
+[thinks] (p.58) Expects a huge showdown between Katsuragi and Ryūen before the test begins; it doesn’t come.
+[says] (p.61) “Well then, good luck.” (leaving Hirata at the gathering)
+[rel:horikita-suzune] (pp.55–61) Stands by as Katsuragi threatens her class and Kanzaki pulls him off; impressed she won’t be shaken.
+[rel:katsuragi-kouhei] (pp.54–60) Watches the Class A leader pivot from ignoring Horikita to warning her.
+[rel:ryuuen-kakeru] (pp.57–60) Notes the demented chuckle and the docile lackeys trailing him.
+[rel:kushida-kikyou] (p.60) Present when she wanders into the gathering, puzzled.
+
+<!-- walk: y1v4 ch2 → p.62 -->

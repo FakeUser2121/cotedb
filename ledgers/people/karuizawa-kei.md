@@ -154,3 +154,51 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [note] (p.11) Blank/short scan page: running footer only; no prose to cite.
 
 <!-- walk: y1v4 ch1 → p.11 -->
+
+### y1v4 p.20 — Ch.2 §2.0: she reclaims the table
+[scene] (p.20) Crash of the deck lunch: she arrives with her girls and reclaims Hirata from the table Ayanokōji just fled.
+[says] (p.20) “Ah, so you’re here after all, Hirata-kun. Let’s eat lunch together!”
+[action] (p.20) The girls pull chairs from another table, push Ayanokōji away, and circle Hirata — peaceful to noisy in seconds.
+[trait] (p.20) Happy and carefree in tone while overriding the cancellation; monopolising him is her default.
+[rel:hirata-yousuke] (p.20) Takes the lunch he cancelled as if it were never made.
+
+### y1v4 p.33–36 — Ch.2 §2.3: the fourth seat of the zodiac group
+[scene] (p.33) Fourth seat of the Class D zodiac group; arrives to find three boys and a teacher, and questions it immediately.
+[says] (p.33) “Huh? What’s going on? Why are Yukimura-kun and these other guys here?”
+[says] (p.34) “W-wait a minute. I don’t understand. What do you mean, explain a test? The test was already over, right? Also, what’s the deal with these guys? This is really weird.”
+[says] (p.34) “Jeez, all right. Fine, I’ll shut up.”
+[action] (p.34) Studies the three boys, then lifts her chair and moves it away from Ayanokōji.
+[says] (p.35) “What do you mean by ‘test our thinking’?”
+[says] (p.35) “I don’t get what any of this means. Can you explain it in a way that’s easier to understand?”
+[says] (p.36) “These guys gross me out. Why am I on a team together with boys? Honestly, I hate it…though being with Hirata-kun would be fine.”
+[says] (p.36) “Huh? When and how exactly did I cause problems? You’re pissing me off.”
+[trait] (pp.33–36) Barrages the teacher until told to be quiet twice; complies unhappily; blunt about the boys.
+[rel:yukimura-teruhiko] (p.36) His “you dragged us all down” lands; she fires back that he’s pissing her off.
+[rel:mashima-tomonari] (pp.33–35) Defies the cold briefer, then submits.
+[rel:hirata-yousuke] (p.36) The only boy on the team she’ll tolerate.
+
+### y1v4 p.37–50 — Ch.2 §2.3: the interrupter, the werewolf, the phone call
+[scene] (p.37) Through the briefing she trades smirks with Yukimura, interrupts Mashima repeatedly, learns the four outcomes, and finally phones Hirata.
+[says] (p.37) “Hmph.” (after Ayanokōji’s warning about her permanent record)
+[says] (p.37) “Ugh, jeez! This sucks! I can’t deal with these three! Hirata-kun would have been so much better!”
+[says] (p.37) “Gross. Even if there were a hundred or two hundred of you, you still wouldn’t be worth a single hair on Hirata-kun’s head.” (to the Professor)
+[says] (p.37) “Ugh. Well, at any rate, I’ll just report it to Hirata-kun later.”
+[says] (p.37) “Okay, okay. I understand that we’re being divided into these groups, but why is it only the four of us getting this explanation? I thought you’d explain things after our entire group was gathered together.”
+[says] (p.38) “W-wait a minute. What do you mean? I still don’t get it at all. We’re going to be grouped with students from other classes? Isn’t that crazy, though? Aren’t the other classes supposed to be the enemy?”
+[says] (p.42) “Jeez, everyone’s gonna be jealous of the VIP! Not being picked for it would be unfair! No matter what happens, that person still gets points! And if we get Outcome #1, it’s a million points!”
+[trait] (p.43) Half-listens so hard her comprehension goes “abnormally bad” — the narration contrasts her with Sudō and Ike, who score poorly, versus her refusal to listen.
+[says] (p.43) “Wait a second. Ayanokouji-kun, don’t tell me you don’t know about Werewolf? Whoa, I can’t believe it.”
+[says] (p.43) “I’m sorry. It’s just, like, not having friends must be so sad.” (when his ignorance shows)
+[says] (p.43) “Well, you get together with your friends, and then you divide people up as either villagers or wolves. The one who survives at the end is the winner. Get it?” (explaining Werewolf)
+[says] (p.44) “And that’s…on the other side of the handout, right? Is it okay if we turn it over?”
+[says] (p.46) “Umm, umm. I kind of get it, but I kind of don’t.”
+[says] (p.49) “Wait, we can’t leave the room? How long do we need to stay in there?”
+[says] (p.49) “Agh. Well, this sounds kinda annoying, but I guess I do understand somewhat. Ugh. I just wish we had a test that was more fun.”
+[action] (p.50) Ignores Yukimura’s huddle pitch, takes out her phone mid-hallway, and calls Hirata.
+[says] (p.50) “Ah, hi, Hirata-kun? There was something I wanted to talk to you about.”
+[rel:yukimura-teruhiko] (pp.37–51) Trades barbs with him from the first smirks to the hallway dismissal.
+[rel:mashima-tomonari] (pp.37–49) Interrupts him four times; he answers without expression.
+[rel:sotomura-hideo] (p.37) The “hundred or two hundred of you” line lands on the Professor.
+[rel:hirata-yousuke] (p.50) The call she makes the moment the briefing ends.
+
+<!-- walk: y1v4 ch2 → p.62 -->
