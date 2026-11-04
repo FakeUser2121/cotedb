@@ -402,3 +402,76 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:hamaguchi-tetsuya] (p.110) Closes the session with him.
 
 <!-- walk: y1v4 ch3 → p.124 -->
+
+### y1v4 p.137–151 — Ch.4 §4.1: cards, the castle gate, and the deck pledge
+[scene] (p.137) Arrives with the Class B trio, proposes cards over silence, walks Ayanokōji to Katsuragi, sits in on the Ryuuen three-way, and ends on the deck telling him she is not the VIP.
+[says] (p.137) “You two sure are early,” said Ichinose.
+[says] (p.137) “Now then. I’m sure we all discussed this amongst ourselves last night, but I think we should try and find the VIPs after all,” said Ichinose.
+[says] (p.137) “I don’t think that’s true, though. It’s a problem of trust. That’s why today, I’d like us all to play cards together. Of course, I won’t force anyone to participate. Only jump in if you want to,” said Ichinose.
+[trait] (pp.137-139) Cards as a trust probe: she plays opponents’ hands, watches the Professor fire up and cool off, and uses the hour to learn how the group talks — talking was useless, the game wasn’t.
+[says] (p.138) “You can say it’s stupid, but if you give it a try you might like it. Besides, spending an hour in complete silence sounds awfully boring. Why not kill some time?”
+[says] (p.138) “Five people, then. Well, I thought we could play Daifugō, but does anyone here not know the rules?” asked Ichinose.
+[rel:hamaguchi-tetsuya] (pp.138-140) Includes him in the five; he asks where she’s going when she leaves for Katsuragi; she waves him off with a “see you later.”
+[rel:ayanokouji-kiyotaka] (pp.139-141) Lets him tag along to Katsuragi without wariness — curiosity, not suspicion; later walks him to the deck alone with the VIP pledge.
+[says] (p.139) “Well, I suppose I’ll be going now,” said Ichinose.
+[says] (p.139) “I can’t let Class A just get away from us like this.”
+[says] (p.139) “Hmm? Sure, that’s fine with me. Do you want to talk to Katsuragi-kun, too, Ayanokouji?” asked Ichinose.
+[says] (p.139) “Ah, okay. Well then, let’s go together. See you later, Hamaguchi-kun,” said Ichinose.
+[rel:katsuragi-kouhei] (pp.140-143) The castle-gate interview: she asks him to reopen discussion, takes the “ears are going to fall off” brush-off, and leaves understanding there will be no budging.
+[says] (p.140) “Looks like they’re really taking their time,” said Ichinose.
+[says] (p.141) “I think I know what you’re planning, Katsuragi-kun. You ordered your classmates to refuse to participate in discussions, yes? Would you possibly reconsider? We need communication to get through this test, after all.”
+[says] (p.141) “I have my own situation to deal with. Katsuragi-kun. I don’t think forcing people to be quiet is a good strategy. Would you reconsider?”
+[says] (p.141) “But, Katsuragi-kun, your idea is basically a rejection of the test itself,” countered Ichinose.
+[says] (p.141) “If this test were a direct competition between the classes, sure. I’d agree. But in this test, when all the classes are blended together, do you really think that’s right?” asked Ichinose.
+[says] (p.142) “So. Like the old saying goes, an immovable object meets an irresistible force?” Ichinose wore a wry, pained smile as she rubbed the back of her head.
+[says] (p.142) “Of course. This is a test,” answered Ichinose.
+[says] (p.142) “Hmm…I wonder. Well, I can’t really consider things from Class A’s perspective. If you’re being chased, I imagine it would be better to have experience with chasing. Always running is pretty tough, isn’t it?” asked Ichinose.
+[says] (p.143) In response, Ichinose smiled softly. “I’m sorry for taking up your time. I think I understand now. Understand your thoughts and ideas, I mean,” she said.
+[says] (p.143) “This test is easier if you’re playing defense. I guess I’ll have to do even more,” she mused.
+[rel:kanzaki-ryuuji] (pp.143-144) Waits outside for him with Ayanokōji; notes his type doesn’t take the spotlight.
+[rel:ryuuen-kakeru] (pp.144-149) The three-way: thanks him for the group-formation tip instead of showing shock, refuses the Class B–C contract on trust grounds, and names the Class B harm his methods have already caused.
+[says] (p.144) “Huh? Ayanokouji-kun, what are you doing here? Are you waiting for Horikita-san?” asked Kushida. (Kushida’s line, tagged)
+[says] (p.144) “We’re waiting for Horikita-san and Kanzaki-kun. Are they still talking?” asked Ichinose.
+[says] (p.144) “Oh no, it’s all right. If they’re still in the middle of something, we can wait.”
+[says] (p.144) “This is a rather interesting group. I want to know what you’re all talking about, especially since the required hour is up,” said Ichinose.
+[says] (p.145) “Come on, Ryuuen-kun. You know that we can’t understand the school’s strategies. We’re just doing our best with the information we have and the situation we were placed into. But it sounds like you think there’s a reasoning behind the group formations. Do you think the school had some kind of plan in mind?” asked Ichinose.
+[trait] (p.145) Calm thanks for unexpected information instead of shock — Ryuuen’s face changes; both sides gain a read.
+[says] (p.146) “A proposal? I suppose I’ll hear you out. What is it?”
+[says] (p.146) “It sounds like a pretty bold idea, but I don’t think it’s realistic. How do we know for sure that you have all the Class C VIPs, Ryuuen-kun?” asked Ichinose.
+[says] (p.147) “Your thinking is solid, Horikita-san. If we don’t have a guarantee that Ryuuen-kun is telling the truth, then this is meaningless,” said Ichinose.
+[says] (p.147) “You’re giving me far too much credit. People don’t have that much trust in me. Besides, your proposal is high risk, low return. I can’t agree to it,” said Ichinose.
+[says] (p.147) “Horikita-san rejected your proposal. Therefore, this plan is off to a bad start,” added Ichinose.
+[trait] (pp.148-149) Staying put is also a trap: if she betrays Class D here she is branded a traitor for the rest of high school — his read of why the refusal costs her nothing.
+[says] (p.149) “I’m sorry, Ryuuen-kun. But you’ve hurt people in Class B with your actions. Even if it’s possible for us to get more points, I can’t ally with you on that reason alone,” said Ichinose.
+[says] (p.149) “Whew. I guess he saw through me,” said Ichinose.
+[rel:horikita-suzune] (pp.149-151) Calls Ryuuen a snake after Horikita’s crack-under-pressure line; asks her the trust-between-classes question; ends “I was right to choose your side.”
+[says] (p.149) “Ryuuen might think himself a dragon, but he’s really a snake. He’s so tenacious that when he finds his prey, he’ll go to any lengths to bring it down. But don’t you have it worse than me right now, Horikita-san? Ryuuen-kun is naturally wary of Class A, after all. He probably thinks that Class B will one day be his enemy, too. But right now, he’s got you in his sights,” said Ichinose.
+[says] (p.150) “Horikita-san, Ayanokouji-kun. I wanted to ask you something. Do you think this test will create trust between people of different classes?”
+[says] (p.150) “Yeah. Just like I’d expect of you, Horikita-san. You understand this test very well. Ryuuen-kun’s just full of hot air. I was right to choose your side.”
+[says] (p.150) “Yes. Ryuuen-kun’s plan will fail. It’s probably best not to worry about it. The real problem is Katsuragi-kun’s iron fortress strategy. What do you think about it now that you’ve spoken to him?”
+[says] (p.150) “Yeah. I think it’s hopeless, too. We have no choice but to find a different way,” said Ichinose.
+[says] (p.151) “I understand what Horikita-san said earlier, but I think there’s still room for cooperation,” said Ichinose.
+[says] (p.151) “Yes. I was surprised when Class A distanced themselves, but I think we have a chance. But to pull it off, we might have to reveal everything.”
+[says] (p.151) “This entire test boils down to finding the VIP. That’s the point, right? So if we play things by the book, we increase our chances by narrowing down the list and finding out who isn’t the target. So, I’ll tell you right now: I’m not the VIP. But I intend to find them and lead my group to victory.”
+[says] (p.151) “You might think that if I’m the target, I could just be hiding my identity. But Ayanokouji-kun, the reason I’m not is simple. Everything I do is for the sake of Class B,” she said.
+[feat] (p.151) Public VIP denial without showing the phone — his read: a fraction of doubt left, trust would need the screen; she doesn’t offer it.
+[says] (p.151) “It must sound strange,” said Ichinose, seemingly a little dissatisfied with my silence.
+
+### y1v4 p.152–154 — Ch.4 §4.1: the deck VIP exchange
+[scene] (p.152) Presses her own honesty after the pledge, accepts his partial answer, then pulls Hamaguchi in without telling Class B about the Class D deal.
+[says] (p.152) “I’m not lying. I think that lying might be necessary in competition, but I like to be honest as much as possible. I do want my class to win, fair and square.”
+[says] (p.152) “Ah, you don’t have to tell me anything if you don’t want to, Ayanokouji-kun. I just wanted to explain my feelings. I thought if I told you, things might be easier.”
+[says] (p.152) “Even if perfect cooperation is impossible, trying to form solid relationships is no bad thing. If I don’t answer now, it might hurt our relationship down the line.”
+[says] (p.152) “No, no, I don’t think so.” She sounded flustered, but this wasn’t the time to hide.
+[says] (p.152) “S-sorry. It seems like I forced your answer,” said Ichinose.
+[trait] (p.152) Lowers her head as if guilty — his read: she will be the one owed an apology someday.
+[says] (p.152) “Hey, Hamaguchi-kun. Got a minute?” asked Ichinose.
+[rel:hamaguchi-tetsuya] (pp.152-153) Fills him in but conceals the Class D cooperation — surprising for her character; he joins on Ayanokōji’s word alone.
+[says] (p.153) “I prefer to let my classmates act autonomously. There are people in my class who want points. It’s not like I can arbitrarily transfer the VIP’s rights to myself,” said Ichinose.
+[says] (p.153) “This might sound impertinent, but I’ll check with the remaining person myself. If that person answers me honestly, I’ll tell you later, Ayanokouji-kun,” she said.
+[says] (p.153) “Oh, don’t worry. As long as I just have your cooperation, Ayanokouji-kun, I’m happy,” answered Ichinose.
+[rel:ayanokouji-kiyotaka] (p.153) Accepts his uneven disclosure without demanding Class D’s full hand.
+[says] (p.154) “Well, isn’t the point of this test for us to figure it out?” asked Ichinose.
+[trait] (pp.153-154) Her move turns the once-hopeless hour into extraction from people who want to hide — his read of the shift.
+
+<!-- walk: y1v4 ch4 → p.204 -->

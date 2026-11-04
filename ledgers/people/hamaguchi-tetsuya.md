@@ -35,3 +35,20 @@ char_id: hamaguchi-tetsuya · class: Class 1-B · status: minor
 [rel:hirata-yousuke] (p.106) The operating style the narration compares them to.
 
 <!-- walk: y1v4 ch3 → p.124 -->
+
+### y1v4 p.138–140 — Ch.4 §4.1: the card table and the corridor
+[scene] (p.138) One of Ichinose’s five for Daifugō and Old Maid; asks where she’s going when the hour ends and watches her leave with Ayanokōji.
+[rel:ichinose-honami] (pp.138-140) Plays under her deal; “Where are you going?” then nods them off — Class B’s mutual-respect pattern, set against Katsuragi and Ryuuen’s subject relationships (his read of the group).
+[says] (p.139) “Where are you going?” asked Hamaguchi.
+[trait] (p.138) Focused on the endgame; gets worked up at times like the Professor, but Ichinose tags him as the endgame player of the five.
+[rel:sotomura-hideo] (p.138) The other Class B-side regular at the table with the Professor’s “Once more!” energy.
+
+### y1v4 p.153–154 — Ch.4 §4.1: the second denial
+[scene] (p.153) Called over by Ichinose; denies the VIP role on Ayanokouji’s confirmation, then asks how anyone can be made to talk.
+[says] (p.153) “If Ayanokouji’s confirmed it, there’s no reason for me to refuse. I’m not the VIP,” said Hamaguchi.
+[rel:ichinose-honami] (p.153) His relationship with her is why Ayanokōji believes him — little merit in lying, big risk of fracturing the Horikita truce.
+[rel:ayanokouji-kiyotaka] (p.153) Takes the confirmation as the entry ticket into the four-person non-VIP core.
+[says] (p.153-154) “How do you plan on finding the VIP? Even if we try asking people … directly, I can’t imagine that they’ll openly admit to anything. It’ll probably be difficult to persuade them with words alone,” said Hamaguchi.
+[trait] (p.154) The practical objection that sets Ichinose’s point-of-the-test answer — extraction without force.
+
+<!-- walk: y1v4 ch4 → p.204 -->

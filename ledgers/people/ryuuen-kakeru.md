@@ -160,3 +160,25 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:ichinose-honami] (p.115) The third name on the surprise list.
 
 <!-- walk: y1v4 ch3 → p.124 -->
+
+### y1v4 p.128–131 — Ch.4 §4.0: the shade meeting and the planted phone
+[scene] (p.128) He drops into Horikita and Ayanokōji’s shade conversation, claims Class C can win by rule-logic, and leaves a silent recording phone under his own chair.
+[says] (p.128) “Hey, you two. Having yourselves a nice date in the shade? Let me in on the fun.”
+[says] (p.128) “That’s for me to decide. Well then, have you decided how to find the VIP?” he asked.
+[says] (p.128) “I’ve already started to discover the VIP’s identity. Would you believe me if I told you that?”
+[says] (p.128) “Well, you’re right that I’m not a professional friend-collector, but making friends has nothing to do with whether or not I can gather information.”
+[says] (p.128) “Unfortunately for you, I’ve already gotten a handle on the fundamentals of this test. Depending on how things go, Class C will win by an overwhelming majority.”
+[says] (p.128-129) “It’s an extremely simple matter. All you need to do is find out what … class the VIP is from. Then, your next move is to analyze the group,” said Ryuuen.
+[says] (p.129) “You just have to make sure it’s a situation where someone can’t lie,” he said.
+[says] (p.129) “I take everyone’s cell phones. So if someone lies to me, all I have to do is check everyone’s email, one by one,” said Ryuuen.
+[says] (p.129) “It’s not really a problem at all, actually. I’m here because it’s not a problem. Do you get what I mean?”
+[feat] (pp.128-130) Brute-force phone seizure as a Class C method — no complaints means consent; narration reads it as operating within the rules and as three VIPs already identified.
+[says] (p.129) “Looks like you finally understand.”
+[says] (p.130) “Maybe I’m just playing around?”
+[says] (p.130) “Now, then. Suppose I’m about to reach checkmate?” he said.
+[says] (p.130) “I don’t think about it at all. I don’t really care about small fry. See you again, Suzune.”
+[rel:kouenji-rokusuke] (p.130) Dismisses the Monkey-group early end as small fry.
+[action] (p.130) Leaves; a silent phone set to record audio stays under his chair with the chat line “Sorry for yesterday!”
+[rel:horikita-suzune] (p.130) Parting “See you again, Suzune” — first-name basis, reported.
+
+<!-- walk: y1v4 ch4 → p.204 -->

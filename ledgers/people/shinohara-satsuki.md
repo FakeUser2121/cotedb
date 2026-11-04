@@ -72,3 +72,10 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 ### y1v4 p.27 — Ch.2 §2.2: named as Sakura’s roommate
 [scene] (p.27) Named as Sakura’s first roommate, with the narration’s character sketch.
 [rel:sakura-airi] (p.27) Roommate; the narration sizes her up — close with Karuizawa, “like her boss, really” — reliable and unafraid of a fight, but relentless against people she doesn’t like, so she “probably wouldn’t go out of her way to befriend her.”
+
+### y1v4 p.174 — Ch.4 §4.4: the excuse name
+[scene] (p.174) Named in Karuizawa’s “I didn’t have any choice!” outburst at the vending machine — Shinohara and the others were there.
+[rel:karuizawa-kei] (p.174) The witness list she uses to justify the old Rika incident; Ayanokōji cuts her off with “What does that mean?”
+[note] (p.174) No scene presence; one spoken name in Karuizawa’s line.
+
+<!-- walk: y1v4 ch4 → p.204 -->

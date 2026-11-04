@@ -248,3 +248,126 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:kushida-kikyou] (p.109) The contrast who “was always Kushida.”
 
 <!-- walk: y1v4 ch3 → p.124 -->
+
+### y1v4 p.126–137 — Ch.4 §4.0–4.1: the lunch history and the Machida seat
+[scene] (p.126) Named across the Horikita brief as the person Ayanokōji needs, then first on scene in the afternoon Rabbit room — disgust, a Rinocchi call, a VIP check, and a seat by Machida.
+[rel:horikita-suzune] (p.126) The rejected lunch invite after the island test is the fact Ayanokōji uses; Horikita says she has no interest in her.
+[rel:ayanokouji-kiyotaka] (p.134) Averts her eyes the moment she sees him, moves as far away as she can, and fiddles with her phone.
+[trait] (p.134) The most bothersome dislike — no reason to improve, pure instinct, no breakthrough (his read of the room).
+[says] (p.136) “Oh hi, Rinocchi? How are things with you right now? Me? Ah, things here suck so bad. Like, I’m seriously fed up with everything,” said Karuizawa.
+[trait] (p.136) Overheard only by him: she wove joy and melancholy in one call — the skillful performance of misery for a friend.
+[says] (p.136) “That reminds me. So, are you the VIP? It seems like…Yukimura-kun and that Soto…kun aren’t,” said Karuizawa.
+[rel:yukimura-teruhiko] (p.136) Cites his and Sotomura’s denials; can’t quite say Sotomura’s name.
+[rel:sotomura-hideo] (p.136) “that Soto…kun” — the name she won’t finish.
+[says] (p.136) “Ah, okay. That’s fine.”
+[says] (p.136) “Huh? You said you’re not, didn’t you?”
+[trait] (p.136) Unlike Yukimura she doesn’t double-check; she takes the denial at face value — noted as useful for his assessment of her.
+[rel:ichinose-honami] (p.137) Ichinose greets her; she stays on the phone and doesn’t respond.
+[rel:machida-kouji] (p.137) Crosses the room to sit beside Machida as a defensive measure against Manabe; accepts his protection offer.
+[says] (p.137) “Thank you, Machida-kun,” she replied.
+[rel:manabe-shiho] (pp.137) The Class C girls’ side of the room is why the Machida seat is the correct decision (his read).
+
+### y1v4 p.155–176 — Ch.4 §4.2–4.4: the seat, the stairwell, the breakup
+[scene] (p.155) Evening room: seat war with Manabe over Machida, the corridor chase, the stairwell cornering over Rika, then the 2 a.m. vending-machine meeting where the Hirata farce ends.
+[says] (p.156) “Hey, aren’t you sitting in my seat?” asked Karuizawa.
+[says] (p.156) “Well, that’s the seat I want. That’s my spot. Move,” urged Karuizawa.
+[says] (p.156) “Hey, Machida-kun. Could you please tell her that you want me next to you?”
+[says] (p.156) “How about we spend some time together, just the two of us? Or have you promised that girl you’ll go with her? I hate two-timers. If you’re going to mess around with that girl then that’ll be the end of it, I guess,” said Karuizawa.
+[rel:machida-kouji] (pp.156-159) Inserts herself between Manabe and him, grabs his hand, wins the seat choice; they exchange contact information when the hour ends.
+[rel:manabe-shiho] (pp.156-161) The seat war turns the stairwell corner: “You did push Rika, didn’t you?” — denial, the phone to Rika, Yamashita’s “unforgivable,” hair-grab and face taunts.
+[says] (p.160) “Look, I have plans later. Can you please move?” asked Karuizawa.
+[says] (p.160) “I have no idea what you’re talking about. I’ll call the teacher.”
+[says] (p.160) “W-wait!” Karuizawa pleaded with them to not call.
+[says] (p.160) “I just remembered something. I bumped into that girl before.”
+[says] (p.161) “No way. She was in the wrong. She’s a complete airhead.”
+[says] (p.161) “Whatever. You probably never planned on forgiving me.”
+[trait] (pp.160-161) Refuses to apologize to Rika even cornered — maybe really innocent; the refusal knowing it will upset them.
+[says] (p.163) “Yukimura-kun, these girls just abducted me and started getting all violent. They’re seriously the worst, aren’t they? They were being, like, super annoying, so I told them to get lost,” said Karuizawa.
+[rel:yukimura-teruhiko] (pp.163-165) Uses him as rescue cover, shoots him a “pathetic” look when he freezes, then slaps his hand away and screams him off.
+[says] (p.164) “Just leave me alone. If you don’t, I’ll call someone.”
+[says] (p.164) “Just leave me alone!” As Yukimura drew nearer, Karuizawa slapped his hand away.
+[says] (p.164) “God, shut up! Nobody asked you!”
+[trait] (pp.161-165) Panting, head in hands, hyperventilating — the leader of the Class D girls shows the vulnerable side; the threats aren’t what terrified her (his read).
+[rel:hirata-yousuke] (pp.171-176) The 2 a.m. call: joy at seeing him turns to anger at Ayanokōji; wants revenge on Manabe; “You said you’d protect me”; “Our relationship is over”; juice can down the hall.
+[says] (p.172) “What’re you doing here, Ayanokouji-kun?!”
+[says] (p.172) “You did, Hirata-kun? Why? I told you I wanted to talk alone.”
+[says] (p.172) “But…I said I wanted to talk alone, just the two of us,” she repeated.
+[says] (p.173) “No.” (to Hirata’s “you were completely overwhelmed”)
+[says] (p.173) “Why did you tell him?” she asked.
+[says] (p.174) “But your girlfriend’s suffering, right? You should want to help me.”
+[says] (p.174) “But that’s… I didn’t have any choice! Shinohara and the others were there, and—”
+[says] (p.174) “You shut your mouth!” she screamed.
+[says] (p.174) “Please, I’m begging you. Help me. Hirata-kun. You said you’d protect me, didn’t you?”
+[says] (p.174) “I’m telling you, it’s not possible! If I could do that, I wouldn’t need your help!”
+[says] (p.175) “You liar! You said you’d protect me!” she shouted.
+[says] (p.175) “What?! Wh-why are you saying all of this now?!” Karuizawa was horrified.
+[says] (p.175) “So are you saying…it’s better for me to get violent with them?” she asked.
+[says] (p.175) “I don’t want to!” Karuizawa had come to Hirata in order to take revenge on Manabe and her friends, and that spoke to her true personality—her real self. More than anything else, Karuizawa was afraid.
+[says] (p.176) “Whatever! If you’re not going to listen to me, then I don’t need you!”
+[says] (p.176) “Our relationship is over. It’s over!” she shouted.
+[rel:morofuji-rika] (pp.160-174) The old bump is why the corner exists; Hirata names Morofuji-san as the real issue — “Rika” was her last name.
+[rel:shinohara-satsuki] (p.174) Named in the “I didn’t have any choice!” excuse — Shinohara and the others were there.
+[trait] (pp.157-158) The overbearing Machida seat as caste maintenance: leader of the Class D girls, Hirata’s girlfriend, now the palm of Machida’s hand — root cause still unreadable to him until the “to protect herself” answer.
+[rel:ayanokouji-kiyotaka] (p.172) Fury at his presence in the private meeting; later throws the juice and flees both of them.
+
+### y1v4 p.189–203 — Ch.4 §4.6–4.7: the lowest level
+[scene] (p.189) Lured to the switchboard room early, cornered with Rika and Manabe’s trio, beaten under the Milgram frame, then broken open and bound to Ayanokōji with the stairwell photo.
+[says] (p.189) “What’s going on? I can’t connect to… There’s no signal.”
+[says] (p.189) “Wh-what are you doing here?!” she asked, trembling.
+[rel:manabe-shiho] (pp.189-193) The arranged “settle things” becomes the corner: Rika introduced, the bullying past named to her face, hair-grab, knee, the invitation for Rika to join.
+[says] (p.189) “I just happened to see you come in here, that’s all.” (Manabe’s line, in exchange)
+[says] (p.190) “Yeah, she’s the one,” said Rika. (Rika’s line, tagged in exchange)
+[says] (p.190) “H-huh? Who’s apologizing? I haven’t done anything wrong,” said Karuizawa.
+[says] (p.190) “Understand what?” asked Karuizawa.
+[says] (p.190) “Wha—?!”
+[says] (p.190) “No, you’re wrong!” Karuizawa denied it, but her words were weak.
+[says] (p.190) “N-no, I won’t! I’ve never done that kind of thing before!” Karuizawa shouted.
+[rel:morofuji-rika] (pp.189-193) Face to face with the girl she shoved; refuses to kneel; then takes Rika’s instructed slaps while begging forgiveness.
+[says] (p.192) “Ow, ow! It hurts! Let me go!” screamed Karuizawa.
+[says] (p.192) “Agh!” Karuizawa shouted.
+[says] (p.193) “S-s-s-stop it!” pleaded Karuizawa.
+[says] (p.193) “Please, forgive me!” Karuizawa pleaded.
+[trait] (pp.190-193) The “unusually fearful” tells Manabe the bullying past; Ayanokōji fed her the trauma details in advance — the read was planted, not perceived.
+[says] (p.194) “Wh-why are…” she stammered. (when Ayanokōji enters alone)
+[says] (p.194) “A little.” (calmed down, still on the floor)
+[says] (p.195) “Where’s Hirata-kun?” she asked.
+[rel:hirata-yousuke] (pp.195-198) Expects him at four; accepts the teacher-alibi; then “D-did you hear this…from Hirata-kun?” when the past is spoken aloud.
+[says] (p.195) “Manabe and her friends… I absolutely will not let them get away with that.”
+[says] (p.195) “You have to keep this a secret. If anyone finds out, I’ll never forgive you,” she warned me.
+[trait] (p.195) The weakness named: cannot stand being seen as a victim — social standing outranks the wound.
+[says] (p.195) “You know, you could get back at Manabe and the others. Since they’re girls, even someone like you could win,” she suggested to me.
+[says] (p.195) “What, are you scared of getting even with Manabe and her friends? And you’re supposed to be a guy,” she chided.
+[says] (p.196) “So you’ll just lie down and take it?” she asked.
+[says] (p.196) “But they would… They’ll continue to do awful things to me,” muttered Karuizawa.
+[says] (p.196) “Huh? What are you talking about?”
+[says] (p.196) “Wh-who are you talking about?!” she shouted.
+[says] (p.196) “You, Karuizawa.” (his line)
+[says] (p.196) “H-hey, what are you doing?!”
+[says] (p.198) “Wha—”
+[says] (p.198) “D-did you hear this…from Hirata-kun?”
+[says] (p.198) “What are you… Why are you doing this, huh?!”
+[says] (p.198) “D-don’t screw with me! Who the hell do you think you are?!” she shouted.
+[says] (p.199) “What, what do you want with me?! You’re just after my body, aren’t you?” she screamed.
+[says] (p.199) “Eek!”
+[says] (p.199) “You… Grr…” She sputtered.
+[says] (p.200) “I’ll never bow to you. I won’t be bullied by the likes of you. You just want to mess with me! You think you can do whatever you want, you pervert?!” she shouted.
+[says] (p.200) “Well, whatever. It’s not like this is the first time someone’s used force against me. So. Did you know about that, too? How do you think I should act in an impossible situation?” she asked.
+[says] (p.200) “After a while, I gave up trying to resist. That’s right; I was everyone’s victim. I became cold, robotic. I could cry, scream, or thrash around, but it didn’t matter. I couldn’t do anything. All I could do was take it.”
+[says] (p.200) “What happened? All sorts of things. Everything and anything. They’d put tacks in my shoes or stuff my desk full of roadkill. When I went to the bathroom, I’d get splashed with dirty water. They wrote words like ‘whore’ on my uniform. They pulled my hair and punched and kicked me. Anything you could imagine, basically. I was bullied in every way. Countless times. What I’ve just told you was just a fraction of what I’ve experienced. Those were the ‘gentler’ ways I’ve been bullied, too. It makes me want to laugh. So, why aren’t you laughing? Why don’t you laugh at the pitiful loser who’s been bullied all her life?”
+[trait] (p.200) The full inventory delivered as a dare to laugh — resilience named as the reason she enrolled.
+[says] (p.201) “Huh?”
+[says] (p.201) “Wh-what?”
+[says] (p.201) “S-stop!” she shouted.
+[says] (p.201) “U-ugh!”
+[says] (p.201) “Wh-what are you…you…” she stammered.
+[feat] (p.201) The blade scar on her left side — not simple bullying; a life-threatening attack she stayed tough through.
+[rel:ayanokouji-kiyotaka] (pp.194-203) From captive to tool: the photo threat, the Class D control offer, the unspoken VIP word — “a parasite couldn’t live without a host.”
+[says] (p.202) “Wait. You meant that you can stop Manabe and her friends?” she asked.
+[says] (p.202) “That’s—” she began. (seeing the stairwell photo)
+[says] (p.202) “What? Assist? What do you want me to do?”
+[says] (p.202) “What are you trying to…”
+[says] (p.203) “How am I supposed to help lead them to—”
+[rel:machida-kouji] (p.201) Named with Hirata as the hosts she used — “much more reliable than Hirata or Machida” is his offer.
+[status] (p.203) Bound to him: the only way to go on living is with the new host — VIP knowledge implied, not spoken.
+
+<!-- walk: y1v4 ch4 → p.204 -->

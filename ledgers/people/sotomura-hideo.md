@@ -59,3 +59,21 @@ char_id: sotomura-hideo · class: Class 1-D (enrolled April 2015) · status: min
 [rel:ayanokouji-kiyotaka] (p.97) The one who doubts the diet advice will land.
 
 <!-- walk: y1v4 ch3 → p.124 -->
+
+### y1v4 p.132–139 — Ch.4 §4.0–4.1: the VIP alibi and the card heat
+[scene] (p.132) Named as Yukimura’s Rabbit-group partner in the room rant, then one of the five at Ichinose’s card table where the Professor fires up and cools off.
+[rel:yukimura-teruhiko] (p.132) Yukimura vouches he is not the VIP in the same breath as his own denial — “Neither is Sotomura, by the way.”
+[rel:karuizawa-kei] (p.131) The partner pair Yukimura names as unwinnable: “Why am I partnered with Karuizawa and Sotomura?”
+[says] (p.138) “I shall play as well. I am currently at liberty,” said the Professor.
+[trait] (pp.138-139) Huge otaku but games fire him up — “Once more!” mid-hand; calms the moment the game ends; Ichinose reads the pattern as one of the group’s tells.
+[rel:ichinose-honami] (p.139) His heat and cool-down are exactly the characteristic she was collecting from the five-player hour.
+[rel:hamaguchi-tetsuya] (p.138) Both Class B-adjacent players in the five with Ichinose and Ayanokōji — Hamaguchi focused on the endgame, the Professor on the next hand.
+
+### y1v4 p.155–160 — Ch.4 §4.2: the chair and the exit
+[scene] (p.155) Arrives coincidentally with Karuizawa, earns her disgust, then gives the pompous non-notice answer before heading back to the room.
+[rel:karuizawa-kei] (pp.155-156) Open disgust at his presence; she moves to the back the moment they enter together.
+[rel:yukimura-teruhiko] (pp.159-160) “You think so? I can’t say that I noticed anything of the sort,” answered the Professor — tone ridiculously pompous; Yukimura’s vibe read called right.
+[says] (p.159) “You think so? I can’t say that I noticed anything of the sort,” answered the Professor.
+[trait] (p.160) Heads back to his room instead of following the stairwell chase — the Professor opts out.
+
+<!-- walk: y1v4 ch4 → p.204 -->

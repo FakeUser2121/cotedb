@@ -573,3 +573,22 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:ayanokouji-kiyotaka] (pp.117–121) The night-deck encounter and the hug neither of them can explain.
 
 <!-- walk: y1v4 ch3 → p.124 -->
+
+### y1v4 p.144–149 — Ch.4 §4.1: the invitation inside
+[scene] (p.144) Spots Ayanokōji and Ichinose in the Dragon corridor, waves them into the three-way, then exits when Ryuuen leaves with “My friends are calling me.”
+[says] (p.144) “Huh? Ayanokouji-kun, what are you doing here? Are you waiting for Horikita-san?” asked Kushida.
+[says] (p.144) “Oh! Ichinose-san! Hello. Now, this is odd. Well, I should say I didn’t expect to see the two of you together,” said Kushida.
+[rel:ichinose-honami] (p.144) Surprised Ayanokōji and Class B’s leader know each other — she didn’t know.
+[rel:ayanokouji-kiyotaka] (p.143) He stiffens at her approach, remembering yesterday’s scene; she has gone back to her usual self as though nothing changed.
+[says] (p.144) “Oh, those two. They’re still discussing things with Ryuuen-kun right now. Maybe you could step inside?” Kushida gestured toward the door, as if inviting us in.
+[says] (p.144) “Oh, I think it’s fine. Besides, the test period is only one hour. Any time after that, we’re free to come and go as we please. Besides, they may not be talking about the test.”
+[says] (p.149) “Ah, I should be going. My friends are calling me,” said Kushida.
+[rel:ryuuen-kakeru] (p.144) The Ryuuen conversation she reports is the reason she opens the door — “they may not be talking about the test.”
+[rel:horikita-suzune] (p.144) Named in the corridor as the person Ayanokōji is waiting for; the excuse Ichinose accepts.
+
+### y1v4 p.185 — Ch.4 §4.5: the fallback contact
+[scene] (p.185) Named once as the risk Ayanokōji avoids — if Hirata had not had Manabe’s info, he would have had to ask her for it.
+[rel:hirata-yousuke] (p.185) The cross-class contact info Hirata supplies saves the Kushida detour.
+[note] (p.185) No scene presence; one line of planning in Ayanokōji’s narration.
+
+<!-- walk: y1v4 ch4 → p.204 -->

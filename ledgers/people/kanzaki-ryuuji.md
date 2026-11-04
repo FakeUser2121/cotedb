@@ -94,3 +94,15 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [rel:horikita-suzune] (p.64) Dragon groupmate on the biased list.
 
 <!-- walk: y1v4 ch3 → p.124 -->
+
+### y1v4 p.143–150 — Ch.4 §4.1: the Dragon deadlock
+[scene] (p.143) Still inside the Dragon room with Horikita and Ryuuen when Ichinose and Ayanokōji are waved in; the three-way holds until Ryuuen leaves.
+[rel:ichinose-honami] (p.140) Named as the one who should have taken his seat in the group — Ryuuen’s jab that she ended up elsewhere instead.
+[trait] (p.140) “Kanzaki-kun isn’t the type to take the spotlight” — Ichinose’s read of why Class A’s refusal doesn’t land on him.
+[rel:ryuuen-kakeru] (p.147) One of the three holding the deadlock; adds the Class B–C doubt line when Ryuuen pushes the two-class version.
+[says] (p.147) “Haven’t you ever dreamed of rising up to Class B?” asked Kanzaki.
+[rel:horikita-suzune] (p.150) Names Katsuragi as completely unapproachable to her face — the shared Class A read after the interview.
+[says] (p.150) “I said this yesterday, but Katsuragi is completely unapproachable. He’ll talk to you, but he won’t give an inch. I doubt he’ll change his mind before the exam ends. At this point, I think all of Class A is taking the same stance. Don’t you?” asked Kanzaki.
+[rel:katsuragi-kouhei] (pp.143,150) Carries the no-inch finding out of the room with Ichinose’s interview as the evidence.
+
+<!-- walk: y1v4 ch4 → p.204 -->

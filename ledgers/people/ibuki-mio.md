@@ -235,3 +235,16 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:karuizawa-kei] (p.94) The only Class C voice that does not pile on her.
 
 <!-- walk: y1v4 ch3 → p.124 -->
+
+### y1v4 p.128 — Ch.4 §4.0: not at the shade meeting
+[scene] (p.128) Named once as absent from Ryuuen’s side when he drops into the Horikita conversation.
+[rel:ryuuen-kakeru] (p.128) “He wasn’t with Ibuki, apparently” — the usual pair is split for this scene.
+[note] (p.128) No dialogue and no further presence in the range.
+
+### y1v4 p.159 — Ch.4 §4.2: the absent buffer
+[scene] (p.159) Named as the Class C girl who might have mitigated the trio on Karuizawa’s tail — and she wasn’t around.
+[rel:karuizawa-kei] (p.159) Her absence is why the three can close on Karuizawa alone in the corridor.
+[rel:manabe-shiho] (p.159) The buffer between Manabe’s set and Karuizawa is missing for the stairwell.
+[note] (p.159) No dialogue in this range; presence is the narrator’s counterfactual.
+
+<!-- walk: y1v4 ch4 → p.204 -->

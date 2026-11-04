@@ -1192,3 +1192,33 @@ roster row still needs passing-mention rows for karuizawa/yukimura/
 sotomura if the sweep flags them; andou p.64 hit needs an entry or
 passing mention; morofuji p.174. Push still blocked (token dead); five
 commits will be local after ship. Next: y1v4 ch4 pp.125-204.
+
+y1v4 ch4: Double Question (pp.125-204)
+
+Chapter read in three passes (pp.125-151, 152-178 --blank p.162,
+179-204 --blank p.197,p.204). 30 people ledgers + one volume section
+stamped `y1v4 ch4 → p.204` (intermediate bodies un-stamped; stamps
+inserted after the last Ch.4 section in each file). Six new files via
+ledger-new --start-vol y1v4: morishige-takurou, takemoto-shigeru,
+yamashita-saki, yabu-nanami, morofuji-rika, sugimura (Sugimura already
+in the TSV with y1v4 — first scene-presence this chapter). First-run
+verify: 13 failures — six cross-page quote splits (chabashira so-late
+substring was also wrong: corpus prints “so late”; hamaguchi, hirata ×2,
+yukimura stairwell), four exact-substring fixes (aka “honest as much as
+possible”, hirata “didn’t she?”, karuizawa/shinohara “I didn’t have any
+choice!”, sotomura/yukimura full “I can’t say that I noticed anything of
+the sort”), one paraphrase-in-quotes note rewrite (hamaguchi). Final:
+844 [says] + 239 non-says ALL PASS. Attribution: the anonymous Manabe
+chat is Ayanokōji’s outgoing text by construction (sub-account);
+friend’s “Whoa, Shiho…” (p.192) left unassigned; Yabu has no separately
+tagged stairwell line. Mention mirrors added for ike-kanji, yamauchi-
+haruki, sudou-ken, sakayanagi-arisu, kushida-kikyou (named-only rows).
+No roster TSV edits this chapter (Yashima was ch3). New tags: none.
+First-run R18/R19 both clean — gate R18 0 / R19 82, no wording churn.
+build 177 pages, 48 assets; gate exit 0; make check OK (R19 82/82);
+hash `6682b58f7d27f9fb0b6c434dee5845fb` twice. Open for volume-end
+coverage gate: p.39 roster row still pending karuizawa/yukimura/
+sotomura passing mentions; andou p.64; morofuji p.174 (now has a file
+and p.160-174 rows — locator should surface). Push still blocked
+(token dead); six commits will be local after ship. Next: y1v4 ch5
+pp.205-243.

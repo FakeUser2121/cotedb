@@ -1279,3 +1279,43 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ayanokouji-kiyotaka] (p.115) The recipient of the promise to call.
 
 <!-- walk: y1v4 ch3 → p.124 -->
+
+### y1v4 p.125–133 — Ch.4 §4.0: the Karuizawa brief and the planted phone
+[scene] (p.125) She meets Ayanokōji face-to-face about Kouenji’s traitor exit, then argues Karuizawa’s worth while Ryuuen’s recording phone sits under his chair.
+[says] (p.125) “You’re joking, right?”
+[says] (p.125) “Are you an idiot? Why didn’t you stop him? Wasn’t that your responsibility as his roommate?” she asked.
+[says] (p.125) “When I see him next time, I’ll reprimand him myself. I’ll make him beg for mercy.”
+[says] (p.125) “You already know that’s pointless, right? He won’t listen. He’ll just confuse you and waste your time. It’ll be a headache. For the time being, we should concentrate on our own groups.”
+[rel:kouenji-rokusuke] (p.125) Blames Ayanokōji as Kouenji’s roommate; accepts the roommate-can’t-stop-him answer.
+[says] (p.126) “You want to talk to me about Karuizawa?”
+[says] (p.126) “I turned her down, though. You know that. I have no interest in Karuizawa-san. If you want information on her, why not talk to Hirata-kun? If he’s helping you, you’ll be able to contact her easily.”
+[says] (p.126) “Do you think she’s the VIP? Is that what you’re worried about?” Horikita asked.
+[says] (p.126) “Well, isn’t that none of your business? Besides, her behavior isn’t logical. I think it’s a waste of time,” she countered.
+[says] (p.126) “Write them off? What are you talking about?”
+[says] (p.126) “She has strong points? I can’t really imagine any. Isn’t she just flawed?”
+[rel:karuizawa-kei] (pp.126-127) Refuses the lunch invite history, calls her illogical, then listens to the outer/inner-self lecture and concedes time-together may help.
+[says] (p.127) “So Karuizawa has some secret self?”
+[says] (p.127) “I’m still not entirely convinced. However, I imagine you’ll learn more about her by spending time together,” she said.
+[says] (p.127) “So, what are Karuizawa-san’s good points?” Horikita asked.
+[says] (p.127) “Okay. Let’s say for the sake of argument that you’re right, and she has that ability. What do you intend to do? Are you thinking of making her your ally, too?” asked Horikita.
+[rel:ryuuen-kakeru] (pp.128-131) The shade meeting: refuses to share plans, calls his no-support claim out, snaps at the phone-seizure idea, then works the planted-phone cue with Ayanokōji.
+[says] (p.128) “It seems like you have an awful lot of free time. Not that I care, but there’s nothing for you here,” said Horikita.
+[says] (p.128) “Whatever my plans may be, I’ve no intention of telling you,” said Horikita.
+[says] (p.128) “That’s an interesting thing to say. Are you saying that you know who the VIP is?”
+[says] (p.128) “No, I wouldn’t. You don’t have any support like Ichinose-san and Katsuragi-kun do. You only have enemies. I can’t imagine you have reliable information,” she countered.
+[says] (p.129) “I see. Anyone could think of that. But are they going to answer honestly? If the school has a rule that guarantees your anonymity, all they need to do is lie and gain 500,000 points, right?” Horikita countered.
+[says] (p.129) “Where someone can’t lie?”
+[says] (p.129) “Are you insane? The school doesn’t allow that. If you were discovered, you’d be expelled,” snapped Horikita.
+[says] (p.129) “Yes. But you haven’t got the answer yet. If you had, you would’ve sent an email to the school immediately,” answered Horikita.
+[says] (p.130) “You don’t know when someone else is going to figure it out. You shouldn’t be so laid-back,” Horikita snapped.
+[says] (p.130) “Ryuuen-kun. While you’re here, I’d like to ask you something. The test ended for the Monkey group yesterday. What do you think about that?” she asked.
+[rel:kouenji-rokusuke] (p.130) Probes Ryuuen on the Monkey-group early end; he waves it off as small fry.
+[says] (p.130) “I don’t know how much of what he said is true,” she said.
+[action] (p.130) Spots the silent recording phone under Ryuuen’s chair; texts Ayanokōji the caution line.
+[says] (p.130) If that phone is his, we probably shouldn’t say anything careless. (chat message, p.130)
+[says] (p.130) “I have to wonder. I can’t say I’m 100% sure. But…there’s a possibility. I don’t think we can keep up this test much longer, though.”
+[says] (p.131) “I’ve got a lot of work for you to do. I need you to find the group’s VIP as soon as possible,” said Horikita.
+[says] (p.131) “I won’t expect too much from you. I just want information about the Rabbit group.”
+[trait] (pp.130-131) Reads Ryuuen’s phone plant as reason to keep talking carefully; still assigns Ayanokōji the Rabbit VIP hunt as cover.
+
+<!-- walk: y1v4 ch4 → p.204 -->

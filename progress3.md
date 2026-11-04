@@ -1198,3 +1198,15 @@ R18 back to 0 and R19 ratchet holds at 82/82 after removing "dossier"
 from three rows and a prose "your" from Ayanokōji’s VIP trait row.
 Determinism hash across consecutive builds:
 `72491977fbf49c39926376ce9cf0cda4`.
+
+### y1v4 Chapter 4 reaches the site (site, 2026-11-04)
+
+Double Question (pp.125-204) shipped as the fourth section block of the
+Year 1 Volume 4 page: 30 people ledgers extended, six opened this
+chapter (morishige, takemoto, yamashita, yabu, morofuji, sugimura) —
+177 pages, 48 assets, search index rebuilt. Quotes: 844 [says] spans
+(26 skipped as too short) and 239 non-says, all corpus-exact after
+thirteen first-run fixes (six cross-page … splits, four exact-substring
+corrections including “so late” and “didn’t she?”, one note rewrite).
+R18/R19 held at 0/82 with no wording churn. Determinism hash across
+consecutive builds: `6682b58f7d27f9fb0b6c434dee5845fb`.

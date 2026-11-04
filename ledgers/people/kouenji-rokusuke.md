@@ -172,3 +172,13 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:ayanokouji-kiyotaka] (p.112) “Pointless to include you.”
 
 <!-- walk: y1v4 ch3 → p.124 -->
+
+### y1v4 p.125–130 — Ch.4 §4.0: the traitor act on everyone’s lips
+[scene] (p.125) The chapter opens on the aftermath of his Monkey-group traitor submission — the classes are in an uproar and Horikita wants Ayanokōji to answer for it as roommate.
+[status] (p.125) Kouenji’s treasonous act has circulated around the ship; the classes were in an uproar.
+[rel:horikita-suzune] (p.125) She blames the roommate and vows to reprimand him herself; the “make him beg for mercy” line is hers.
+[rel:ayanokouji-kiyotaka] (p.125) The roommate who says there is nothing he can do now — no use crying over spilt milk.
+[rel:ryuuen-kakeru] (p.130) Ryuuen waves off the Monkey-group end as small fry when Horikita asks.
+[note] (p.125) No direct appearance in this range; every row is other people reporting the act.
+
+<!-- walk: y1v4 ch4 → p.204 -->

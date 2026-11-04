@@ -100,3 +100,36 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [rel:karuizawa-kei] (p.97) His flat read on her mood.
 
 <!-- walk: y1v4 ch3 → p.124 -->
+
+### y1v4 p.131–133 — Ch.4 §4.0: the roommate’s VIP probe
+[scene] (p.131) Alone in the room looking grave; he rants about the group-draw rumor, then runs the mutual VIP denial with Ayanokōji.
+[says] (p.131) “For crying out loud, why did we get stuck with this group? Why am I partnered with Karuizawa and Sotomura? We can’t win,” he mumbled.
+[says] (p.131) “Didn’t you hear? There’s a rumor going around saying that they use guidelines to create the groups. When I heard that all the superior students got grouped into the Dragon group, I knew it was true,” he answered.
+[trait] (pp.131-132) Treats the Dragon “best of the best” roster as proof the draw was fixed; dissatisfied at Rabbit’s middle placement; academic ability not inferior to Hirata or Horikita (narration).
+[says] (p.132) “Ayanokouji. You aren’t the VIP, are you?” he asked.
+[says] (p.132) “Cooperation is vital in this test. We need to adhere to that. If we cooperate, we won’t lose.”
+[says] (p.132) “Are you sure? You’re not being selfish and trying to hoard points, are you?”
+[says] (p.132) “Yes, of course you can. I’m not the VIP. Neither is Sotomura, by the way.”
+[rel:sotomura-hideo] (p.132) Vouches Sotomura is not the VIP without being asked for proof.
+[rel:karuizawa-kei] (p.132) Reports her VIP denial and adds he may not believe it — disdain as the standing attitude.
+[trait] (p.133) Doubts everyone as a rule; satisfied for the time being and settles into sighs while Ayanokōji naps.
+
+### y1v4 p.155–165 — Ch.4 §4.2: the stairwell
+[scene] (p.155) Sits near Ayanokōji in the evening room, mutters the VIP worry, then follows the Class C trio into the emergency stairwell and breaks the corner with a shout.
+[says] (p.155) “This isn’t good.”
+[says] (p.155) “Yeah. If things continue like this, the VIP will get away.” (Yukimura, next to Ayanokōji)
+[rel:karuizawa-kei] (pp.159-165) Spots the three girls on her tail, grumbles she always makes people hate her, throws the stairwell door open, tries to check on her, gets slapped away, and leaves exhausted.
+[says] (p.159) “Hey. Did you get a weird vibe from those three just now?” asked Yukimura.
+[says] (p.159) “You think they have a bone to pick with her?” asked Yukimura.
+[says] (p.160) “Let’s follow them. I don’t think there’ll be violence, but it could lead to an uproar.”
+[says] (p.160) “Damn Karuizawa. She’s always making people hate her. I wanted us to spend our precious time finding the VIP,” Yukimura grumbled.
+[says] (p.163) “What are you doing?!” Yukimura shouted.
+[says] (p.163-164) “Don’t you think it’s better to just let things go? They bumped into … each other. It’s not like Karuizawa was at fault,” Yukimura said.
+[rel:manabe-shiho] (pp.163-164) Glared into silence by the trio under their weight — falls silent, then takes Karuizawa’s “pathetic” look for it.
+[says] (p.164) “Are you okay?” asked Yukimura, who seemed unable to leave Karuizawa to their mercy.
+[says] (p.164) “Hey, what the hell? I only came to check on you because I was worried!”
+[says] (p.165) “Jeez, what’s with her? She’s always, always causing trouble for people!”
+[trait] (p.165) Exhausted from the ordeal, leaves without another word — resentment and the failed rescue both in one exit.
+[rel:sotomura-hideo] (p.159) The Professor’s pompous “I can’t say that I noticed anything of the sort” answer next to him — Yukimura’s vibe read called right on the money by narration.
+
+<!-- walk: y1v4 ch4 → p.204 -->

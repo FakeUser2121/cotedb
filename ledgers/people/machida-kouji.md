@@ -56,3 +56,22 @@ char_id: machida-kouji · class: Class 1-A · status: minor
 [rel:takemoto-shigeru] (p.95) Named in the room as the uninterested Class A.
 
 <!-- walk: y1v4 ch3 → p.124 -->
+
+### y1v4 p.137 — Ch.4 §4.1: the protection offer
+[scene] (p.137) Karuizawa crosses to his Class A corner; he accepts the seat and offers cover for the hour.
+[says] (p.137) “Don’t worry. If anything happens, I’ll help you,” said Machida.
+[rel:karuizawa-kei] (p.137) Takes her dependence on him as something to be conscious of; the cute-girl protection logic is the narrator’s read, not a spoken line.
+[trait] (p.137) Doesn’t participate in the discussion but his presence weighs on the room — Class A’s distance plus Machida in the circle is the power imbalance of the hour.
+[rel:manabe-shiho] (p.137) His presence is what keeps the Class C girls from hounding her (the seat’s whole point).
+
+### y1v4 p.155–159 — Ch.4 §4.2: the seat arbitration
+[scene] (p.155) Invited out by the Class C girls, then made to choose between them and Karuizawa — he picks her and keeps the no-discussion policy.
+[says] (p.155) “I see,” replied Machida. (to the hang-out invite)
+[trait] (pp.155-156) Pleased by the female attention; “a little troubled” picking a girl until Karuizawa removes the choice.
+[says] (p.156) “Excuse me, but would you please move? That’s the seat Karuizawa’s been sitting in,” said Machida.
+[rel:karuizawa-kei] (pp.156-159) Obeys her hand-grab logic, keeps her glued to his side, exchanges contact information at the hour’s end — falling for her, narrator’s read.
+[rel:manabe-shiho] (p.156) Rules against her seat claim for Karuizawa; the Class C girls leave upset.
+[says] (p.158) “Of course we won’t. Feel free to talk amongst yourselves, though. We haven’t changed our policy,” answered Machida. (Class A no-discussion, to Ichinose)
+[rel:ichinose-honami] (p.158) The second refusal of her cards proposal — policy unchanged.
+
+<!-- walk: y1v4 ch4 → p.204 -->

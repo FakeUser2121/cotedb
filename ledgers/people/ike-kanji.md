@@ -386,3 +386,11 @@ aliases used for anchors: ike, kanji, ike-kun
 [note] (p.43) The comparison: her problem “wasn’t that she scored poorly on tests like Sudou or Ike” — unlike them, she simply won’t listen.
 
 <!-- walk: y1v4 ch2 → p.62 -->
+
+### y1v4 p.179 — Ch.4 §4.4: the contrast name
+[scene] (p.179) Named once in Hirata’s compliment — Ayanokōji is “different from Ike-kun and Yamauchi-kun,” and he ranks himself worse than both.
+[rel:hirata-yousuke] (p.179) The comparison class for “amazing.”
+[rel:ayanokouji-kiyotaka] (p.179) “I’m worse than them” — his self-ranking under Ike.
+[note] (p.179) No scene presence; one name in Hirata’s line.
+
+<!-- walk: y1v4 ch4 → p.204 -->

@@ -490,3 +490,11 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [note] (p.43) The comparison: her problem “wasn’t that she scored poorly on tests like Sudou or Ike” — unlike them, she simply won’t listen.
 
 <!-- walk: y1v4 ch2 → p.62 -->
+
+### y1v4 p.183, 195 — Ch.4 §4.5–4.7: the Cow name and the warning
+[scene] (p.183) Named in Sakura’s Cow-group VIP uncertainty, then again as Ayanokōji’s example that eye-for-eye brings a school investigation.
+[rel:sakura-airi] (p.183) “I’m not sure about Sudou-kun or, um, the others” — the only Cow-roster name she speaks.
+[rel:karuizawa-kei] (p.195) The Sudou precedent cited to her: “You should know from what happened with Sudou that this isn’t a simple matter.”
+[note] (p.183) No scene presence in either range; both rows are other people speaking his name.
+
+<!-- walk: y1v4 ch4 → p.204 -->

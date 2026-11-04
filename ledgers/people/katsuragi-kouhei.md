@@ -135,3 +135,22 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [rel:kouenji-rokusuke] (p.115) One of the three the Monkey exit blindsides.
 
 <!-- walk: y1v4 ch3 → p.124 -->
+
+### y1v4 p.140–143 — Ch.4 §4.1: the castle gate holds
+[scene] (p.140) Leaves the Dragon room into Ichinose’s ambush; refuses to reopen discussion for the fourth time running and walks away with the strategy intact.
+[says] (p.140) “Ichinose? What are you doing here?”
+[says] (p.140) “Well, the testing period is three days long. I have several minutes available.”
+[trait] (p.140) Doesn’t ignore her — “looked happy to engage” with Class B’s leader; waves the other Class A students on and stays alone with the pair.
+[says] (p.141) “That’s extremely reasonable. But I’ve heard this question so many times that I feel like my ears are going to fall off. Unfortunately, Ichinose, you’ve wasted your time,” said Katsuragi.
+[says] (p.141) “The answer will always be the same. I developed that strategy to win. My reasons are good. You think this test requires communication. That’s why you don’t agree with me, but you’re wrong. This test is about thinking. If you miss that, it’s a big problem. So, in keeping with the theme of the test, I’ve decided to stifle discussion.”
+[rule] (p.141) The no-disclosure strategy is re-stated as deliberate: thinking over talking, four outcomes, any one of them legitimate.
+[says] (p.141) “What I’ve said might sound bad, but it’s not. I’m looking out for my class, looking for ways to not only preserve our standing in this test, but in tests to come. Do you agree that there’s nothing wrong with me protecting my class?”
+[says] (p.142) “Any further discussion is meaningless, Ichinose. You can’t change my mind,” he said.
+[says] (p.142) “Do you still intend to fight?” asked Katsuragi.
+[says] (p.142) “I’m sorry, but the result’s a foregone conclusion. If Class A doesn’t participate, there’s not much you can do. There shouldn’t be any way for you to win,” said Katsuragi.
+[says] (p.142) “I want to ask you one thing. If you were Class A’s leader, what would you do? Wouldn’t you implement the same strategy?” asked Katsuragi.
+[says] (p.143) “In my opinion, if you were standing in my position, you would’ve come up with the same strategy I did. If it’s to protect my class, I don’t particularly mind being criticized by others.” Katsuragi locked eyes with Ichinose.
+[rel:ichinose-honami] (pp.140-143) The immovable-object exchange; closes his eyes, crosses his arms, re-meets her gaze — no inch given before the exam ends.
+[rel:ryuuen-kakeru] (p.143) Still the man Ichinose came to counter; no mention of Ryuuen in this exchange.
+
+<!-- walk: y1v4 ch4 → p.204 -->

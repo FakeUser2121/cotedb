@@ -2119,3 +2119,65 @@ walk: y1v1 → DONE
 [rel:ichinose-honami] (pp.122–123) The student Hoshinomiya placed in Rabbit on purpose.
 
 <!-- walk: y1v4 ch3 → p.124 -->
+
+### y1v4 p.125–133 — Ch.4 §4.0: the Karuizawa brief and the planted phone
+[scene] (p.125) Face-to-face with Horikita on day two; the Kouenji traitor act is public, then he asks her for Karuizawa intelligence and a recording phone sits under Ryuuen’s chair.
+[says] (p.125) “Unfortunately, it’s the truth. Kouenji just ended the test for his group,” I said.
+[says] (p.125) “That’s an impossible task. Besides, there’s nothing I can do about it now. No use crying over spilt milk.”
+[says] (p.125) “It’s true that my group is filled with troublesome opponents, but I’ve no intention of falling behind,” said Horikita. (reported; her line)
+[trait] (p.125) He files Ichinose and the Class B trio as Hoshinomiya’s spies on him and keeps the subject off Kouenji by changing it.
+[says] (p.126) “I want information on Karuizawa.”
+[says] (p.126) “Yes, exactly.” I nodded. “I’d like to know more about the people in my group, but it’s not easy. I should be able find out whatever I need to about the Professor and Yukimura, but I’m at a complete loss with Karuizawa.”
+[says] (p.126) “There’s that. But more than that, I can’t understand Karuizawa’s behavior. That’s why I’m worried.”
+[says] (p.126) “Horikita, I don’t think it’s good to write people off like that.”
+[says] (p.126) “You and Karuizawa don’t get along at all because you’re both willful, so you see her as nothing more than a nuisance. You understand that she may also have strong points, too?”
+[trait] (p.127) Outer/inner self lecture — Kushida, Ibuki, himself as examples; anyone can have a secret self, Horikita included (her brother, tagged by narration).
+[says] (p.127) “But that’s still just as superficial as their outside appearance. Their innermost thoughts aren’t going to be immediately apparent from that. For example, take Kushida, Ibuki, or even me. There’s a difference between a person’s outer and inner selves.”
+[says] (p.127) “Almost everyone does. They may not be aware of it themselves. You do, too.”
+[says] (p.127) “I still can’t really describe it, but so far I’d say it’s her ability to assume control. She can take the initiative. In fact, her position in Class D is unshakeable.”
+[trait] (p.127) In the Rabbit group that part of Karuizawa stayed hidden — the reason he needs her true nature fast.
+[says] (p.128) “Hey, you two. Having yourselves a nice date in the shade? Let me in on the fun.” (Ryuuen’s approach, reported)
+[rel:ryuuen-kakeru] (pp.128-130) Lets Ryuuen sit in and listen; works the phone under the chair with Horikita without commenting on it.
+[thinks] (p.129) Reads Ryuuen’s “fundamentals” speech as the same rule-logic as midterms and the island test — he must have noticed the VIP-class pattern.
+[thinks] (p.129) If Ryuuen’s claim holds, he already has three VIPs and probably every class’s — “a quiz where you could turn the page over and find the answer written on the back.”
+[action] (p.130) Flips Ryuuen off after the parting; leaves the recording phone alone.
+[says] (p.131) “Easy for you to say. It’s not like I can find them.”
+[says] (p.131) “If you’re not expecting too much, I’ll do what I can,” I answered.
+[rel:hirata-yousuke] (p.131) Plans to mine Hirata for Dragon-group detail instead of Horikita — a different perspective.
+[rel:yukimura-teruhiko] (pp.131-133) Room scene: answers the VIP probe, trades mutual denial, notes Yukimura warming up while he fakes a chameleon’s sociability.
+[says] (p.132) “Even if I did deny it and said you’re wrong, what’s the point in checking?”
+[says] (p.132) “I see. Unfortunately, I’m not the VIP.”
+[says] (p.132) “I’m not the VIP. Can I believe that you’re not the VIP, Yukimura?”
+[rel:karuizawa-kei] (p.132) Yukimura reports Karuizawa’s denial of the VIP role; Ayanokōji does not press it.
+
+### y1v4 p.152–154 — Ch.4 §4.1: the deck VIP exchange
+[scene] (p.152) Ends the deck walk with Ichinose by denying his own VIP role and vouching only for Yukimura — Karuizawa and Sotomura left unsaid on purpose.
+[says] (p.152) “I’m not the VIP. Neither is Yukimura, I can say that with absolutely certainty. Unfortunately, I don’t really know about Karuizawa or the Professor…err, I mean, Sotomura. It’s not clear yet. Personally, I agree with you on principle.”
+[trait] (p.152) Withholds Yukimura’s Karuizawa/Sotomura alibis — careless confirmation could cost Ichinose’s trust if either were the VIP.
+[rel:ichinose-honami] (p.152) Accepts her “honest as much as possible” framing; decides the trap risk is smaller than the relationship cost of refusing.
+[rel:hamaguchi-tetsuya] (pp.152-154) Watches him take the confirmation and join the four non-VIP core — ten suspects left.
+[says] (p.153) “You haven’t checked with your own class yet,” I observed.
+[trait] (p.153) Counts four cleared (himself, Ichinose, Hamaguchi, Yukimura) against ten remaining; the VIP will be concealing under pressure.
+[rel:yukimura-teruhiko] (p.153) The alibi he keeps half-said — Yukimura’s denials accepted through attitude, not passed on wholesale.
+
+### y1v4 p.179–183 — Ch.4 §4.4: the Sugimura bargain
+[scene] (p.179) Takes Hirata’s backstory and the fake-dating motive, buys his silence for the Karuizawa plan, and receives the Class D VIP’s identity as a parting gift.
+[says] (p.179) “But I do think you’re amazing, Ayanokouji-kun. You’re different from Ike-kun and Yamauchi-kun.” (Hirata’s line, in exchange)
+[says] (p.179) “I’m worse than them.”
+[rel:ike-kanji] (p.179) Named with Yamauchi as the contrast class for “amazing” — he ranks himself under both.
+[rel:yamauchi-haruki] (p.179) Same contrast line.
+[rel:hirata-yousuke] (pp.179-183) The night’s full read: smarter than imagined, pathological saviour drive, then the confidentiality bargain and the paper favour.
+[says] (p.179) “Is that really the truth?” I asked.
+[says] (p.180) “What was in it for me? Karuizawa-san wasn’t being bullied. That’s all I needed.” (Hirata’s line, reported)
+[says] (p.180) “I believe you. But is there some deeper reason as well?” I asked.
+[says] (p.180) “You, Hirata? I have a hard time imagining that.”
+[says] (p.181-182) “I understand what you’re feeling, but the world isn’t that simple, … right? At this very moment, there’s someone being bullied somewhere. And they might try to take their own life, just like Sugimura-kun. You can’t stop them.”
+[says] (p.182) “So what are you going to do, then? You want to save both Karuizawa and Manabe, but that’s not possible.”
+[says] (p.182) “If you promise not to get yourself involved, I’m sure Horikita will stay silent,” I answered.
+[says] (p.183) “Hirata. Since you have a large social network, I have a favor to ask.” I handed Hirata a piece of paper.
+[trait] (p.183) The paper favour accepted without a displeased look — the social-network lever for the Manabe plan.
+[rel:karuizawa-kei] (p.179) Accepts the elementary/junior-high bullying as the reason for the hyperventilation; the façade read locked in.
+[rel:horikita-suzune] (p.182) The confidentiality pact runs through her; “Our philosophies are similar.”
+[feat] (p.183) Gains Hirata’s cooperation — “a power I’d always wanted”; each side feels they gained something.
+
+<!-- walk: y1v4 ch4 → p.204 -->

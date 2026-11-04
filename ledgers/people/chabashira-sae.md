@@ -414,3 +414,29 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [back] (p.12) The threat that binds him: she “threatened to expel me from this paradise” unless he works toward Class A.
 [note] (p.34) The narrator contrasts her with Mashima: where she seems “unmotivated and unnaturally uncooperative,” he is “impossible to read.”
 [rel:ayanokouji-kiyotaka] (p.12) Still holds him with the Class A ultimatum three days after the island test.
+
+### y1v4 p.166–169 — Ch.4 §4.3: the midnight point question
+[scene] (p.166) Meets Ayanokōji by the night pool after his call; answers the buy-anything exceptions question, survives Hoshinomiya’s drunk interruption, and gets asked for a future favour.
+[says] (p.166) “Sorry to keep you waiting, Ayanokouji.”
+[says] (p.166) “It’s okay. I’m sorry for calling you so late.” (his line, in exchange)
+[says] (p.166) “An instructor is obligated to consult with a student. It’s nothing out of the ordinary. Besides, for better or worse, this is the first time you’ve actually called me.”
+[trait] (p.166) Doesn’t treat Class D with love; students wouldn’t normally come to her — his read of why the first call matters.
+[says] (p.166) “Don’t worry about it. Adult issues. Anyway, what did you want to ask?”
+[trait] (p.166) Pale, alcohol on her breath — “adult issues” waved off while he works the exceptions question.
+[says] (p.166) “Yes. Exceptions exist, naturally. For example, if you request to buy the life of a teacher or student, we cannot honor that request.”
+[rule] (p.166) Private points cannot buy a life — the standing exception to “anything.”
+[says] (p.167) “You’re drunk, aren’t you?” Chabashira-sensei said. (to Hoshinomiya)
+[says] (p.167) “Jeez. You can really hold your liquor. You handled yourself today, and you’re fine now, too.” (about Hoshinomiya’s iron liver)
+[rel:hoshinomiya-chie] (pp.167-168) Grabs her by the nape and drags her off; stays calm under the sneaking-around bait; “Ayanokouji requested this location. He wanted to consult me in private.”
+[says] (p.168) “A big problem? As a teacher, it’s only natural for me to consult my students and soothe their anxieties,” answered Chabashira-sensei.
+[says] (p.168) “Good. Now hurry up and leave already. I’ll head back soon myself.”
+[says] (p.168) “Sorry. She’s troublesome.”
+[says] (p.168-169) “Well, I can only speak from my own experience, but it was when someone wanted … to change the school rules. Of course, you’re limited to a certain realistic scope. For example, you could change the class start time in order to avoid being late to class,” she answered.
+[rule] (p.169) The largest point spend she has seen: a system change within a realistic scope — hypotheticals only, no facts.
+[says] (p.169) “Are you dissatisfied with my answer?”
+[says] (p.169) “You could have just emailed me that question. I don’t understand why you wanted me to meet you.”
+[rel:ayanokouji-kiyotaka] (p.169) Accepts the no-email reason (no record); eyes him with suspicion when he calls the future favour over his shoulder.
+[says] (p.169) “I’ll ask you for a favor in the near future,” I called. (his line, her reaction recorded)
+[trait] (p.168) The teacher rivalry read: competing and deceiving for the top class — salaries or a school-days grudge, he can’t tell.
+
+<!-- walk: y1v4 ch4 → p.204 -->

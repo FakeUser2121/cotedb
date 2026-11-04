@@ -432,3 +432,23 @@ aliases used for anchors: sakura, airi, sakura-san
 [rel:matsushita-chiaki] (p.100) The fourth Class D name on her list.
 
 <!-- walk: y1v4 ch3 → p.124 -->
+
+### y1v4 p.183–184 — Ch.4 §4.5: the Cow group ends
+[scene] (p.183) Calls Ayanokōji after the Cow-group early-end email; denies the VIP role, reports Class A’s silence, and waves goodbye.
+[says] (p.183) “Yeah…” she replied.
+[says] (p.183) “Have I done something wrong?” she asked.
+[status] (p.183) The Cow group has ended — same notice the Monkey group got; she reads unease into it.
+[rel:kouenji-rokusuke] (p.183) His Monkey ending is the comparison Ayanokōji uses for the Cow email — two different betrayal motives (certainty vs impatience).
+[says] (p.183) “No, you haven’t. This just means that someone in the Cow group reported to the school who they think the VIP is.” (his line, in exchange)
+[says] (p.183) “Sakura, were you the VIP? Or was it someone else?” (his line)
+[says] (p.183) “No, I’m not the VIP. But I’m not sure about Sudou-kun or, um, the others,” she answered.
+[rel:sudou-ken] (p.183) Names him in the uncertain Cow roster — no idea whether he or the others were the VIP.
+[says] (p.183) “Okay. Thank you, Ayanokouji-kun. I’m happy you told me that.”
+[says] (p.183) “How are things with Class A? I heard rumors that none of them are participating in the discussions.” (his line)
+[says] (p.184) “Yeah, it’s just like what the others have been saying. None of them have talked at all,” said Sakura.
+[rel:katsuragi-kouhei] (p.184) The Class A silence confirmed from her side — Katsuragi’s plan “rather thorough.”
+[says] (p.184) “If there’s anything else, please let me know. You can talk to me anytime,” I told Sakura.
+[says] (p.184) “Thank you, Ayanokouji-kun. See you later.”
+[trait] (p.184) Waves her hands adorably on the goodbye — the meek profile he filed against Karuizawa’s type.
+
+<!-- walk: y1v4 ch4 → p.204 -->

@@ -290,3 +290,11 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [rel:sakura-airi] (pp.103–105) The crush whose email and camera drive every line he speaks.
 
 <!-- walk: y1v4 ch3 → p.124 -->
+
+### y1v4 p.179 — Ch.4 §4.4: the contrast name
+[scene] (p.179) Named with Ike in Hirata’s compliment — Ayanokōji is “different from Ike-kun and Yamauchi-kun.”
+[rel:hirata-yousuke] (p.179) The comparison class for “amazing.”
+[rel:ayanokouji-kiyotaka] (p.179) “I’m worse than them” — his self-ranking under Yamauchi.
+[note] (p.179) No scene presence; one name in Hirata’s line.
+
+<!-- walk: y1v4 ch4 → p.204 -->

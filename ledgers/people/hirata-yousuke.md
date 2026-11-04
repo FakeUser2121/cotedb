@@ -486,3 +486,86 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:ayanokouji-kiyotaka] (pp.112–113) Trusts him with the erased screen.
 
 <!-- walk: y1v4 ch3 → p.124 -->
+
+### y1v4 p.131–144 — Ch.4 §4.0–4.1: the absent roommate and the corridor pass
+[scene] (p.131) Named as the better source on Dragon-group detail while Ayanokōji walks back to an empty room, then passes Ayanokōji in the Dragon doorway on day two.
+[rel:ayanokouji-kiyotaka] (p.131) The planned mining target — “Hirata would likely approach this test from a different perspective than Horikita.”
+[rel:horikita-suzune] (p.131) Set up as the alternate Dragon-group lens beside her.
+[rel:ayanokouji-kiyotaka] (p.144) brief exchanged looks as they pass in the doorway — no line.
+[rel:kushida-kikyou] (p.144) Leaves the room with her before the three-way opens to Ichinose and Ayanokōji.
+
+### y1v4 p.170–178 — Ch.4 §4.4: the farce ends at the vending machine
+[scene] (p.170) Slips out of the room at 2 a.m. into Ayanokōji’s hallway trap, takes him to Karuizawa’s meeting, and ends the fake dating on the spot when revenge is refused.
+[rel:ayanokouji-kiyotaka] (pp.170-178) The night walk: “Did I wake you?” → “Karuizawa contacted you, didn’t she?” → tasks him with saving her — then “I honestly find you a little weird. You kind of creep me out.”
+[says] (p.170) “Did I wake you? Or were you already awake?” he asked.
+[says] (p.170) “Why would you think that? This was the first time I’ve left the room at night.”
+[says] (p.170) “Karuizawa contacted you, didn’t she?” (Ayanokōji; reported exchange)
+[says] (p.170) “Do you happen to know something about it?” he asked.
+[says] (p.171) “She asked me to report on everything that happens in the Rabbit group, including Karuizawa’s situation.” (his paraphrase of Horikita’s order — reported)
+[says] (p.171) “What kind of information does she want?” he asked.
+[says] (p.171) “I don’t know what I can tell you, honestly. I have to consider Karuizawa-san’s feelings.”
+[says] (p.171) “Ayanokouji-kun, I’m sure you won’t say anything unnecessary, but what I’m about to tell you is extremely delicate. Also, Karuizawa-san might refuse to talk and head back to her room. Please understand that first,” he said.
+[rel:karuizawa-kei] (pp.171-176) Brings Ayanokōji against her “alone” wish; holds the no-violence line; reveals the farce — “I’ve told you from the start that we aren’t really boyfriend and girlfriend.”
+[says] (p.172) “I asked him to come,” said Hirata.
+[says] (p.172) “You did, Hirata-kun? Why? I told you I wanted to talk alone.” (her line, tagged to him in exchange)
+[says] (p.172) “I know. But Karuizawa-san, I was worried about what you told me earlier. That’s why I thought it might be a good idea to bring Ayanokouji-kun, since he seems to understand the situation. I’m sorry for not telling you first.”
+[says] (p.172) “If you want, we can be alone. But when we spoke earlier, you never said anything about it having to be just the two of us.”
+[says] (p.172) “You were telling me about a fight with Manabe-san from Class C. Is it true?” he asked.
+[says] (p.172) “Ayanokouji-kun, did you know about the fight with Manabe-san and the others?” he asked.
+[says] (p.172-173) “From what Karuizawa-san has told me, it seems like the girls were … making false accusations. They took her to a deserted spot and started hounding her for answers. They were on the verge of using violence,” Hirata said.
+[says] (p.173) “I see.”
+[says] (p.173) “If Manabe-san and her friends got violent with you, we definitely need to take action. I absolutely cannot allow violence,” he continued.
+[says] (p.173) “I see. So that’s why you told me,” he said.
+[says] (p.173) “Karuizawa-san asked me to take revenge on Manabe-san and her friends.” (his report of her request)
+[trait] (p.173-174) “Because this isn’t like you, Karuizawa-san. You aren’t a violent … person,” Hirata answered. — refuses eye for an eye while still claiming allyship.
+[says] (p.174) “Yes, I do. But I don’t believe in an eye for an eye. You know that, don’t you?”
+[says] (p.174) “Let’s think this through. If possible, let’s find a way to get along with Manabe-san and her friends,” he said.
+[says] (p.174) “No reason? Didn’t this start because you had an issue with Morofuji-san, Karuizawa?”
+[rel:morofuji-rika] (p.174) Names Morofuji-san as the origin — “Hirata said Morofuji, but he probably meant Rika. That must’ve been her last name.”
+[rel:manabe-shiho] (pp.174-176) Morning plan: tell them to stop, and tell them Karuizawa will apologize — she refuses, so he will not help on her terms.
+[says] (p.176) “Of course I’ll protect you. But I can’t just hurt Manabe-san and her friends for no real reason. Let’s try to find a way to resolve things peacefully, through discussion.”
+[says] (p.176) “If that’s the case, then I can’t help you. I’m sorry.”
+[says] (p.175) “It doesn’t matter what the reason is. I can’t do what you want. You’re one of my classmates, Karuizawa-san. If you’re in trouble, I’ll help you, protect you. But I can’t hurt someone else to do that, even if they’re from Class C,” he said.
+[says] (p.175) “‘Liar’? You’ve known this was my stance since the beginning.” He stood up.
+[says] (p.175) “I’ve told you from the start that we aren’t really boyfriend and girlfriend. I don’t mind pretending to go out with you, but I definitely won’t fight a war for you.”
+[says] (p.175) “Because we need a new option now. I want to help you,” he said.
+[says] (p.176) “Ayanokouji-kun, do you have any ideas?” asked Hirata.
+[says] (p.176) “Ayanokouji-kun. I have my limits. I can’t do everything. Please understand that,” he said.
+[says] (p.176) “Yes. I’m Karuizawa-san’s ally, and I’m your ally as well, Ayanokouji-kun. However, my priorities might change depending on the situation. You’re far more capable than everyone thinks,” Hirata observed.
+[says] (p.177) “You’re exactly right. We weren’t really dating. We were going out because we both felt that it was necessary. I suppose you consider that contradictory,” he answered.
+[rel:horikita-suzune] (pp.170-178) The bridge story is the cover he accepts; “saving Karuizawa-san will give our class a lead.”
+[says] (p.178) “Ayanokouji-kun. I have to be very honest, but… Well, this is going to sound very rude, but I honestly find you a little weird. You kind of creep me out. I’m sorry if that offends you.”
+[says] (p.178) “I’ve been watching you since school started. The Ayanokouji-kun back then and the Ayanokouji-kun now are like two different people. Your presence, the words you use… It’s like you have two different personalities.”
+[feat] (p.178) Frighteningly observant — the two-personality read is the sharpest student diagnosis of Ayanokōji so far in the volume.
+[says] (p.178) “Well. I suppose Horikita-san must’ve determined that saving Karuizawa-san will give our class a lead,” he reasoned.
+[trait] (p.177) The four-month farce as mutual necessity: she proposed, he honored; “host” and “parasite” is Ayanokōji’s caste reading of it.
+
+### y1v4 p.179–183 — Ch.4 §4.4: Sugimura and the last Class D VIP
+[scene] (p.179) Explains the boyfriend farce as anti-bullying penance, tells the Sugimura window story, pledges confidentiality, then reveals he knows the last Class D VIP.
+[says] (p.179) “Yeah. But I do think you’re amazing, Ayanokouji-kun. You’re different from Ike-kun and Yamauchi-kun.”
+[says] (p.179) “Even if you’re just following Horikita-san’s orders, you’re still the one talking to me right now, Ayanokouji-kun. It isn’t as though Horikita gave you a list of prepared responses. I think that you show clear, well-reasoned logic. That’s not something you can pretend to have.”
+[feat] (p.179) The sharpest compliment of Ayanokōji’s performed normalcy — logic cannot be scripted.
+[says] (p.179) “You’ve already said as much, but I agreed to act like Karuizawa-san’s boyfriend so she could protect herself. That’s what she wanted. She said she wanted me to save her. It might be a little difficult for you to imagine, but throughout her elementary and junior high years, she was viciously bullied.”
+[says] (p.179) “Of course, I only met Karuizawa-san after she started school here. But I understood. People who are bullied give off a unique vibe. That’s why I agreed to go out with her. That way, Karuizawa-san would free herself from her past by using her position as my girlfriend. I don’t think that Karuizawa-san has been showing us her real personality. I think she’s just desperately trying to act tough.”
+[rel:karuizawa-kei] (p.179) The host bargain restated as protection; her real personality is the act.
+[says] (p.180) “What was in it for me? Karuizawa-san wasn’t being bullied. That’s all I needed.”
+[says] (p.180) “I know you’re not convinced, but that’s the reason I did it,” he continued.
+[says] (p.180) “Until my second year of junior high I was, for lack of a better word, a nobody. I didn’t stand out at all.”
+[says] (p.180) “Well, I wouldn’t say that I was completely invisible. I did have friends. I had this one friend ever since I was little, a guy named Sugimura-kun. We were in the same class together for six years, throughout elementary school. We were neighbors, too. We walked to and from school together every day.” Hirata spoke like he was recalling some fleeting memory.
+[says] (p.180) “When we started junior high, we were put into separate classes for the first time. At first, we kept going to school together just like we always had. Gradually, we walked together less and less. I started to only hang out with other guys from my new class. That story probably sounds normal enough, I suppose.”
+[says] (p.180) “But you see, while I had my new friends, Sugimura-kun was getting bullied.” Hirata squeezed the can he was holding.
+[says] (p.181) “Yeah. I didn’t do anything. I couldn’t. I was afraid I’d become their next target. I was afraid that my new, fun life would be destroyed. So I pretended not to see Sugimura-kun, my oldest friend.”
+[says] (p.181) “That day’s burned into my memory, even now. After morning soccer practice, I returned to the classroom. When I got near the room, I saw that Sugimura-kun was already there, his face swollen. I decided to wait a bit before going in. … Perhaps Sugimura-kun saw how ugly my heart was. He didn’t say a word, but it was almost like he was sending out a plea for help. That day, he jumped out of the classroom window,” said Hirata.
+[says] (p.181) “He was declared brain dead. But even now, Sugimura-kun’s parents believe he’ll recover. They’re waiting for him. … When Sugimura-kun jumped, I realized something. By selfishly focusing so much on my own desires, I helped drive a treasured friend to his death.”
+[trait] (p.181) The origin of Hirata Yousuke — penance through saving others, named as the birth of the man.
+[says] (p.181) “I don’t think Sugimura-kun can be saved, but I wanted to atone. I figure the only way for me to do that is to save others,” Hirata said.
+[says] (p.182) “Of course I know that. I’m not a hero or anything. But I want to save the people close to me, at the very least. I must help them. That’s my penance for the sin I committed,” he said.
+[says] (p.182) “I understand that. It’s probably why you’re here with me right now,” he answered.
+[says] (p.182) “I never thought I’d ever tell this story to anyone. Nobody here knows the truth. That’s why I chose this school,” said Hirata.
+[says] (p.182) “Will you and Horikita-san keep this confidential?” he asked.
+[says] (p.182) “Then I’ll believe in you two. Our philosophies are similar.”
+[rel:horikita-suzune] (p.182) The confidentiality is a two-person pact through her.
+[says] (p.183) “Oh, Ayanokouji-kun. There is one more thing I’ve been hiding from you. I know the identity of the last VIP from Class D.”
+[feat] (p.183) The Class D VIP count closed from his side — withheld until the bargain is sealed.
+
+<!-- walk: y1v4 ch4 → p.204 -->

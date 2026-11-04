@@ -88,3 +88,27 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 [rel:ayanokouji-kiyotaka] (p.122) The student she has been watching since the island endgame.
 
 <!-- walk: y1v4 ch3 → p.124 -->
+
+### y1v4 p.125 — Ch.4 §4.0: the spy order in the brief
+[scene] (p.125) Named only as the teacher who secretly sent Ichinose and the Class B trio to watch Ayanokōji — his private inventory of problems for the day.
+[rel:ichinose-honami] (p.125) The Class B three in the Rabbit group are filed as her agents on him, not as random group-mates.
+[note] (p.125) No scene presence this range; the row records the brief’s attribution of the spy order.
+
+### y1v4 p.167–168 — Ch.4 §4.3: the drunk interruption
+[scene] (p.167) Follows Chabashira to the night pool, hugs Ayanokōji smelling of alcohol, baits the private meeting as suspicious, and leaves with a “no sexy times” shot.
+[says] (p.167) “Yoohoo, Sae-chan! How you feeling?”
+[says] (p.167) “Hmm? Oh no, of course I’m not, I’m not drunk. I was just acting all sleepy, you know?”
+[trait] (p.167) Iron liver — handled herself today and still fine; “acting all sleepy” denied drunk to Chabashira’s face.
+[says] (p.167) “Jeez. You can really hold your liquor.” (Chabashira’s line, tagged in exchange)
+[says] (p.167) “Good evening, Ayanokouji-kun. How are you doing?”
+[says] (p.167) “That answer was so not-cute that I’m impressed! So, Ayanokouji-kun, do you love the tsuntsun older sister types, like Sae-chan?” asked Hoshinomiya-sensei.
+[rel:ayanokouji-kiyotaka] (p.167) Hand on his shoulders, a tight hug, alcohol smell — overly familiar by design.
+[rel:chabashira-sae] (pp.167-168) The night-pool chase: baits her on sneaking around, gets the “Ayanokouji requested this location” answer, mutters no rules broken, exits under “hurry up and leave.”
+[says] (p.168) “So what were you two talking about in the middle of the night? Isn’t that in itself a really big problem?” asked Hoshinomiya-sensei.
+[says] (p.168) “If that’s true, wouldn’t it be better for you to do it with more people around? If you look like you’re sneaking around, I can’t help but think it’s suspicious.”
+[says] (p.168) “Hmm. Well, I suppose you’re not violating any rules,” muttered Hoshinomiya-sensei.
+[says] (p.168) “Okay, okay. But remember, no sexy times,” teased Hoshinomiya-sensei.
+[rel:ichinose-honami] (p.168) Bad at hiding emotions — his read that Ichinose may soon wonder why she is in Rabbit and discover the spy order.
+[trait] (p.167) Followed Chabashira deliberately; “Was it just a coincidence? Unlikely.”
+
+<!-- walk: y1v4 ch4 → p.204 -->

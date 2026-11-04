@@ -48,3 +48,11 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:horikita-suzune] (p.75) The one who puts the rumoured name in the air.
 
 <!-- walk: y1v4 ch3 → p.124 -->
+
+### y1v4 p.158 — Ch.4 §4.2: the absent faction leader
+[scene] (p.158) Named in Morishige’s Class A background — one of the two factions led by Katsuragi and her; she was sick and absent from the trip.
+[rel:morishige-takurou] (p.158) Without her presence he has no choice but to follow Katsuragi’s no-discussion orders.
+[rel:katsuragi-kouhei] (p.158) The other faction leader; Morishige had turned against him on the island.
+[note] (p.158) No scene presence; the row records the faction fact as the pages print it.
+
+<!-- walk: y1v4 ch4 → p.204 -->
