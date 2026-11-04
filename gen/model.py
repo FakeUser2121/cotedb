@@ -70,6 +70,7 @@ class Model:
         self.systems = self._ents("systems.tsv")
         self.places = self._ents("places.tsv")
         self.topics = tsv("topics.tsv")
+        self.threads = tsv("threads.tsv")
         self.kinds = {"people": self.chars, "exams": self.exams,
                       "systems": self.systems, "places": self.places}
 

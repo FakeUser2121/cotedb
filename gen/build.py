@@ -19,7 +19,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 import model as M  # noqa: E402
 import render as R  # noqa: E402
 from model import fold  # noqa: E402
-from render import (Page, card, cards_block, crumbs, dot, ent, esc, item, path, row_item,  # noqa: E402
+from render import (Page, card, cards_block, crumbs, dot, ent, esc, item, path, pg, row_item,  # noqa: E402
                     shell, toc)
 
 PAGES = {}
@@ -158,6 +158,60 @@ def build_people_index():
         kicker="", lede=f"{len(chars)} characters. Click a name for the page; names without a page open in place.")
 
 
+def threads_block(P, cid):
+    """Themed evidence for one character: ledger rows grouped under shared thread headings."""
+    m = R.m
+    kids = defaultdict(list)
+    for t in m.threads:
+        kids[t.get("parent") or ""].append(t)
+
+    def collect(t):
+        pat = re.compile(t["pattern"], re.I) if t.get("pattern") else None
+        marks = {x for x in (t.get("markers") or "").split(",") if x}
+        if (not pat and not marks) or (t.get("char") and t["char"] != cid):
+            return []
+        out = []
+        for s in m.scenes_of("people", cid):
+            for r in s["rows"]:
+                if (not marks or r["m"] in marks) and (pat is None or pat.search(r["text"])):
+                    out.append((s, r))
+        return out
+
+    def node(t):
+        rows = collect(t)
+        sub = [x for x in (node(c) for c in kids.get(t["id"], [])) if x]
+        if not rows and not sub:
+            return None
+        return {"t": t, "rows": rows, "sub": sub}
+
+    roots = [x for x in (node(t) for t in kids.get("", [])) if x]
+    if not roots:
+        return ""
+
+    def scene_articles(rows):
+        by_sc = {}
+        for s, r in rows:
+            by_sc.setdefault(s["id"], (s, []))[1].append(r)
+        arts = []
+        for s, rs in by_sc.values():
+            lis = "".join(
+                f'<li><span class="mlabel">{esc(M.MARKERS[r["m"]])}</span>{esc(r["text"])}{pg(r["pg"])}</li>'
+                for r in rs)
+            arts.append(
+                f'<article class="card row"><p class="src">'
+                f'<a href="#{s["id"]}">{esc(s["title"])}</a> · {esc(m.vol[s["vol"]]["short"])} · {esc(s["pages"])}</p>'
+                f'<ul class="rows">{lis}</ul></article>')
+        return "".join(arts)
+
+    def node_html(n, lvl):
+        lvl = min(lvl, 6)
+        inner = scene_articles(n["rows"]) + "".join(node_html(c, lvl + 1) for c in n["sub"])
+        return (f'<section class="threadgrp"><h{lvl}>{esc(n["t"]["title"])}</h{lvl}>'
+                f'{inner}</section>')
+
+    return '<h2 id="threads">Threads</h2>' + "".join(node_html(r, 3) for r in roots)
+
+
 def build_character(c):
     m = R.m
     cid = c["id"]
@@ -186,8 +240,12 @@ def build_character(c):
     pl = Counter(p for s in sc for p in dict.fromkeys(s["places"]))
     related = "".join(f"<li>{ent(P, 'exams', e)}</li>" for e in ex) + "".join(f"<li>{ent(P, 'places', p)}</li>" for p in pl)
     aliases = ", ".join(c["aliases"])
+    th = threads_block(P, cid)
+    toc_items = ([("threads", "Threads")] if th else []) + [
+        ("scenes", "Scenes"), ("volumes", "Volume by volume"),
+        ("relationships", "Relationships"), ("names", "Names")]
     body = (scope_bar(years) + info
-            + toc([("scenes", "Scenes"), ("volumes", "Volume by volume"), ("relationships", "Relationships"), ("names", "Names")])
+            + toc(toc_items) + th
             + '<h2 id="scenes">Scenes</h2>' + cards_block(P, items, with_id=cid)
             + '<h2 id="volumes">Volume by volume</h2>' + vol_runs(P, named, by_vol)
             + '<h2 id="relationships">Relationships</h2>'
