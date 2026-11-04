@@ -1224,3 +1224,13 @@ spans (31 skipped as too short) and 314 non-says, all corpus-exact
 after six first-run fixes (four cross-page … splits, two exact-text
 corrections). R18/R19 held at 0/82 with no wording churn. Determinism
 hash across consecutive builds: `03811810f8fa172c42a189cf2c5f6c55`.
+
+### y1v4 Chapter 6 reaches the site (site, 2026-11-04)
+
+Postscript (pp.244-248) shipped as the sixth section block of the Year
+1 Volume 4 page — author note, Volume 5 tease, engagement trivia and
+the Kinugasa/Tomoseshunsaku bios. No roster characters, so no people
+ledgers touched; 177 pages, 48 assets unchanged in count. Quotes: 1074
+[says] + 316 non-says, all corpus-exact. R18/R19 held at 0/82.
+Determinism hash across consecutive builds:
+`29604b69da3781b89e6104819458ef95`.

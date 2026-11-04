@@ -1247,3 +1247,15 @@ volume-end coverage gate: p.39 roster row (karuizawa/yukimura/
 sotomura passing mentions); andou p.64; morofuji locator; Minami
 identity question. Push still blocked (token dead). Next: y1v4 ch6
 postscript pp.244-248, then the volume coverage gate.
+
+y1v4 ch6: Postscript (pp.244-248)
+
+Postscript read in one pass (p.244 author note; pp.245-246 short;
+p.247 author/illustrator bios; p.248 newsletter). No roster characters
+present — volume section only, stamped `y1v4 ch6 → p.248`. Quotes: two
+new non-says spans (Kinugasa’s redacted-manuscript joke and the Volume
+5 tease), 1074 [says] + 316 non-says ALL PASS. No people-ledger
+stamps, no TSV edits, new tags: none. gate R18 0 / R19 82; make check
+OK; build 177 pages, 48 assets; hash `29604b69da3781b89e6104819458ef95`
+twice. Next: volume-end coverage gate (roster locator, p.39/andou/
+morofuji hits), closing DONE stamp, then ship.
