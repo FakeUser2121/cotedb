@@ -67,6 +67,10 @@ section, and the local-LLM extraction experiment (rejected by the owner).
    noreply identity through environment variables. Never commit `session-*.md`.
 10. **If anything fails or is unclear, stop.** Paste the command and its full
     output. No workaround, no retry loop, no hiding the problem by editing output.
+11. **Code never fills data.** Scripts (`walk_locate.py`, `cote.py read`, any
+    ad-hoc python) only locate and verify text. Ledgers, TSV rows and progress
+    entries are written by hand from pages you have read. Do not script
+    discovery or generate content.
 
 ## 4. Commands
 
