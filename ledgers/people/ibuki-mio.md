@@ -248,3 +248,16 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [note] (p.159) No dialogue in this range; presence is the narrator’s counterfactual.
 
 <!-- walk: y1v4 ch4 → p.204 -->
+
+### y1v4 p.222–223 — Ch.5 §5.2: the lone girl agrees
+[scene] (p.222) The unexpected first volunteer after Ayanokōji — threatens Manabe into the show with the VIP-or-class logic.
+[says] (p.222) “Anyone who isn’t the VIP or who’s not in the same class as a VIP gains nothing if things keep going like this. Class B understands that. If we sit around, we won’t catch up to the classes above us. That’s why they’re showing everyone their phones. I agree with their idea,” she answered.
+[rel:manabe-shiho] (pp.222-223) Enemy tone, not ally: “Or maybe you’re the VIP” → “In that case, show everyone your phone.”
+[says] (p.222) “Or maybe you’re the VIP,” said Ibuki.
+[says] (p.223) “In that case, show everyone your phone.”
+[rel:hamaguchi-tetsuya] (p.222) Backs his plan as Class B’s shared interest — the classes above only move if the lower ones show.
+[trait] (p.222) “a lone girl agreed” among the scoffers — the first volunteer after the swap phone.
+[rel:yukimura-teruhiko] (p.223) “You know, you’ve been really jumpy. You’re not the VIP, are you?” Ibuki asked. — the jibe that freezes him.
+[says] (p.223) “You know, you’ve been really jumpy. You’re not the VIP, are you?” Ibuki asked.
+
+<!-- walk: y1v4 ch5 → p.243 -->

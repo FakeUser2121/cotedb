@@ -112,3 +112,12 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 [trait] (p.167) Followed Chabashira deliberately; “Was it just a coincidence? Unlikely.”
 
 <!-- walk: y1v4 ch4 → p.204 -->
+
+### y1v4 p.230 — Ch.5 §5.2: the unlock authority
+[scene] (p.230) Ichinose cites her confirmation: with enough points the SIM device lock releases immediately.
+[rel:ichinose-honami] (p.230) “I checked with Hoshinomiya-sensei to confirm. She said that with enough points, you can unlock the device right away.”
+[rule] (p.230) SIM lock release is a point purchase — the loophole that makes the double swap work on a ship at sea.
+[rel:ayanokouji-kiyotaka] (p.231) He had already paid for the same unlock on Karuizawa’s phone.
+[note] (p.230) Named only; no scene presence.
+
+<!-- walk: y1v4 ch5 → p.243 -->

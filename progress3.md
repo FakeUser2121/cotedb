@@ -1210,3 +1210,17 @@ thirteen first-run fixes (six cross-page … splits, four exact-substring
 corrections including “so late” and “didn’t she?”, one note rewrite).
 R18/R19 held at 0/82 with no wording churn. Determinism hash across
 consecutive builds: `6682b58f7d27f9fb0b6c434dee5845fb`.
+
+### y1v4 Chapter 5 reaches the site (site, 2026-11-04)
+
+Each and Every Difference (pp.205-243) shipped as the fifth section
+block of the Year 1 Volume 4 page: 22 people ledgers extended, one
+opened this chapter (beppu-ryouta) — 177 pages, 48 assets, search
+index rebuilt. The chapter carries the email-show Outcome #1 plan,
+Ichinose’s call-and-SIM dismantling of the double swap (real VIP
+Karuizawa), and the §5.3 café results (Class C +150 cl / +5.5M pr;
+Ryuuen’s Kushida reveal and next-target threat). Quotes: 1074 [says]
+spans (31 skipped as too short) and 314 non-says, all corpus-exact
+after six first-run fixes (four cross-page … splits, two exact-text
+corrections). R18/R19 held at 0/82 with no wording churn. Determinism
+hash across consecutive builds: `03811810f8fa172c42a189cf2c5f6c55`.

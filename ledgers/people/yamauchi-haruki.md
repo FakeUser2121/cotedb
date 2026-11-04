@@ -298,3 +298,12 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [note] (p.179) No scene presence; one name in Hirata’s line.
 
 <!-- walk: y1v4 ch4 → p.204 -->
+
+### y1v4 p.236 — Ch.5 §5.3: the Rooster who hesitated
+[scene] (p.236) Reported by Horikita: Rooster group, tried to send the betrayal email, agonized too long, test ended first.
+[rel:horikita-suzune] (p.236) Her report and her prediction he would have guessed wrong — “the moment he hesitated to send that email, it was all over for him.”
+[trait] (p.236) “He wasn’t the cocksure guy he imagined himself to be” — the reckless image broken by one hesitation.
+[rel:ayanokouji-kiyotaka] (p.236) “Is Yamauchi okay?” — asked and answered; no further stake.
+[note] (p.236) Mention only; Rooster’s actual Outcome #3 comes from the results list.
+
+<!-- walk: y1v4 ch5 → p.243 -->

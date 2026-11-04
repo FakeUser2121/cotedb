@@ -498,3 +498,20 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [note] (p.183) No scene presence in either range; both rows are other people speaking his name.
 
 <!-- walk: y1v4 ch4 → p.204 -->
+
+### y1v4 p.235–241 — Ch.5 §5.3: the sixth wheel
+[scene] (p.235) Trails Horikita into the café as the attached ghost, is told to get lost twice, stays anyway, chides Ryuuen about the last results, and is ignored through the Kushida reveal.
+[rel:horikita-suzune] (pp.235-238) “I just thought you might be nervous… I came to check on you”; she calls him a ghost, spat “Get lost,” and shuts him up — he sinks back obediently.
+[says] (p.235) “Aw, come on. Don’t say that, Horikita. I just thought you might be nervous during the test, so I was worried about you. That’s why I came to check on you.”
+[says] (p.235) “H-hey, don’t say that. I gave this test everything I had, you know.”
+[says] (p.235) “I was just one step behind, that’s all. Looks like someone else sent the email before me,” he muttered.
+[trait] (pp.235-236) The email he claims he almost sent — one step behind, someone beat him to it; then the chair-grab and “You wouldn’t cut out a classmate, right?”
+[says] (p.236) “Come on. It’s fine, isn’t it? I’m just going to listen. You wouldn’t cut out a classmate, right?”
+[rel:ryuuen-kakeru] (pp.237-238) Rises to threaten on sight, chides him about the last results loss, then is snapped down by Horikita’s “Sudou-kun, be quiet.”
+[says] (p.237) “Isn’t that just a coincidence?” asked Sudou. Apparently, from Sudou’s perspective, everything was a coincidence.
+[says] (p.238) “Don’t you hang all over Horikita!” roared Sudou.
+[says] (p.238) “And I remember that the last time they announced results, you were acting all high and mighty. But then you lost big,” Sudou chided, pointing a finger at Ryuuen and laughing.
+[trait] (p.238) “Surprisingly docile” after the snap — the roar is all; he sinks back on command.
+[note] (pp.235-241) Present for the whole results scene; no role in the deductions — the row marks the unusual crowd.
+
+<!-- walk: y1v4 ch5 → p.243 -->

@@ -77,3 +77,11 @@ char_id: sotomura-hideo · class: Class 1-D (enrolled April 2015) · status: min
 [trait] (p.160) Heads back to his room instead of following the stairwell chase — the Professor opts out.
 
 <!-- walk: y1v4 ch4 → p.204 -->
+
+### y1v4 p.225 — Ch.5 §5.2: named in the cover trio
+[scene] (p.225) Yukimura cites him as one of the three who agree the reveal was for the best.
+[rel:yukimura-teruhiko] (p.225) “I’m sure you, Sotomura, and Karuizawa would agree this was for the best.”
+[rel:karuizawa-kei] (p.225) The third of the trio — the real VIP neither of them knew about yet.
+[note] (p.225) Mention only in this half; no line of his own.
+
+<!-- walk: y1v4 ch5 → p.243 -->

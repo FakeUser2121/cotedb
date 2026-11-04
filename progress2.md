@@ -1222,3 +1222,28 @@ sotomura passing mentions; andou p.64; morofuji p.174 (now has a file
 and p.160-174 rows — locator should surface). Push still blocked
 (token dead); six commits will be local after ship. Next: y1v4 ch5
 pp.205-243.
+
+y1v4 ch5: Each and Every Difference (pp.205-243)
+
+Chapter read in two halves (pp.205-224 --blank p.211,p.221;
+225-243 --blank p.229). 22 people ledgers + one volume section
+stamped `y1v4 ch5 → p.243` (first-half bodies un-stamped; second-half
+appends then stamped — one stamp per chapter per file, inserted under
+`## y1v4`). One new file: beppu-ryouta (ledger-new --start-vol y1v4;
+roster row already had y1v4). First-half verify: 5 failures — three
+cross-page … splits (aka “But this school…”, yukimura “Do you really
+think that…”, ichinose downer line p.205-206), one paraphrase-in-quotes
+(horikita “doesn’t particularly want” → exact “I don’t particularly
+want that”), one exact-substring (machida Hamaguchi “please be quiet
+and just watch”). Second-half verify: 1 failure — hirata rel row
+“not preternatural talent” dequoted to prose. Final: 1074 [says] +
+314 non-says ALL PASS. Attribution: “Minami-kun” Horse VIP (p.236)
+left unwritten to any ledger — two Minami roster rows, rule-6 open;
+volume row records the ambiguity. Morishige traitor (p.233) kept as
+Ichinose’s “probably” prediction. No roster TSV edits. New tags: none.
+gate R18 0 / R19 82; make check OK (R19 82/82); build 177 pages,
+48 assets; hash `03811810f8fa172c42a189cf2c5f6c55` twice. Open for
+volume-end coverage gate: p.39 roster row (karuizawa/yukimura/
+sotomura passing mentions); andou p.64; morofuji locator; Minami
+identity question. Push still blocked (token dead). Next: y1v4 ch6
+postscript pp.244-248, then the volume coverage gate.

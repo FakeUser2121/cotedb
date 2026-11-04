@@ -75,3 +75,36 @@ char_id: machida-kouji · class: Class 1-A · status: minor
 [rel:ichinose-honami] (p.158) The second refusal of her cards proposal — policy unchanged.
 
 <!-- walk: y1v4 ch4 → p.204 -->
+
+### y1v4 p.218–224 — Ch.5 §5.2: the flat refusal and the audit
+[scene] (p.218) Refuses Hamaguchi’s show as naive, then audits Yukimura’s revealed VIP screen for the room.
+[says] (p.218) “I can’t believe it. There’s no way we can arrive at Outcome #1 without discussion,” Machida huffed.
+[says] (p.218) “This is dumb. Why would anyone show their phone just because you told us to? Someone could betray us all the moment we show our emails. No one would do this,” answered Machida flatly.
+[says] (p.219) “Even if you find out the VIP’s identity or the class they belong to, the moment someone decides to betray you, it’s over. The problem hasn’t been resolved. Or are you suggesting that the first to betray us wins?” countered Machida.
+[rel:hamaguchi-tetsuya] (pp.218-219) The two-round refusal — Hamaguchi’s “please be quiet and just watch” ends it for Class A.
+[trait] (p.218) “Naturally, Machida-kun was flabbergasted” at the hope on everyone’s faces.
+[rel:ichinose-honami] (p.223) Probes her earlier silence — “Earlier, you said you’d been keeping quiet about something until now?”
+[says] (p.223) “Wait, Ichinose. Earlier, you said you’d been keeping quiet about something until now?” Machida clearly hadn’t forgotten.
+[says] (p.223) “The same thing?”
+[rel:yukimura-teruhiko] (p.224) Stares inquisitively through the silence; then checks the private email and chat logs: “The email seems authentic. All of the other personal emails are Yukimura’s, so there’s no room for error.”
+[says] (p.224) “What are you talking about?” (to Yukimura’s phone demand)
+[says] (p.224) “Well, fine. Whatever. If you want to see my phone, here.”
+[feat] (p.224) The only student who verifies the VIP screen with logs — Class A’s technical audit of the reveal.
+
+### y1v4 p.225–228 — Ch.5 §5.2: the audit overturned
+[scene] (p.225) Accepts the Yukimura verdict after the password-show, then loses the argument to Ichinose’s call and SIM lecture — his log-check is declared fake — and leaves with a promise for Outcome #1.
+[says] (p.225) “So that means it’s definitely Yukimura-kun.”
+Manabe nodded. (he anchors the room’s conclusion)
+[rel:manabe-shiho] (p.225) Her nod makes the verdict joint — Class A and C together.
+[says] (p.226) “We’ve been acting on Katsuragi-san’s instructions from the very beginning. We won’t do anything on our own,” answered Machida.
+[rel:katsuragi-kouhei] (p.226) The chain of command cited under pressure — no自主 action.
+[says] (p.226) “What are you doing, Ichinose? There’s no point in calling Yukimura’s phone at a time like this,” said Machida, looking suspicious.
+[says] (p.227) “B-but isn’t that odd? Yukimura unlocked the phone right in front of us. I checked his private email history just to be sure,” said Machida.
+[trait] (p.227) His log audit — the exact check Ichinose demolishes as fakeable.
+[says] (p.228) “Too bad, Yukimura. It was a surprisingly good try, though,” said Machida. He and the others laughed, furthering the mockery.
+[rel:yukimura-teruhiko] (p.228) The mockery after the drop; Class A’s amusement at the failed swap.
+[rel:ichinose-honami] (p.228) Takes her Outcome #1 promise and exits first with the other two Class A students.
+[says] (p.228) “Yes, of course. You can trust me. Let’s go,” Machida said.
+[rel:ayanokouji-kiyotaka] (p.228) Glances at the complicit one on the way out — suspicion parked, not resolved.
+
+<!-- walk: y1v4 ch5 → p.243 -->

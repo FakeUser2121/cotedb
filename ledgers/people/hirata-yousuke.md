@@ -569,3 +569,26 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [feat] (p.183) The Class D VIP count closed from his side — withheld until the bargain is sealed.
 
 <!-- walk: y1v4 ch4 → p.204 -->
+
+### y1v4 p.231–242 — Ch.5 §5.2–5.3: the paper, the survey, the model
+[scene] (p.231) The withheld VIP knowledge named on the page; then the café approach about “that piece of paper,” the group survey proving no Class D betrayal, the timing deduction with Horikita, and the puzzled Dragon Outcome #1 question.
+[rel:ayanokouji-kiyotaka] (pp.231, 234) Kept Karuizawa’s VIP status from him and Yukimura at first; the café line “that piece of paper you gave me” ties back to the earlier insurance.
+[says] (p.234) “I’m guessing you’re talking about that piece of paper you gave me. Right, Ayanokouji-kun?” Hirata’s approach from behind made Karuizawa jump in shock.
+[rel:karuizawa-kei] (p.234) Makes her jump — the breakup scream is still fresh; she shifts but does not refuse the seat.
+[says] (p.234) “Excellent work on this test, both of you. May I sit?” he asked.
+[says] (p.235) “It’s just about time. Is Horikita-san still not here? Shouldn’t we contact her?” asked Hirata.
+[says] (p.235) “Ah, looks like she’s here,” said Hirata.
+[says] (p.236) “I was a little apprehensive about that, so I went around and asked people in the individual groups earlier. None of the guys said they turned traitor,” Hirata answered.
+[feat] (p.236) The boys-side survey across every group — the report Class D trusts for the no-betrayal read.
+[rel:horikita-suzune] (pp.236-237) Natural rapport — he finishes her automation thought before she has to.
+[says] (p.237) “So it’s likely that all of the emails were sent together. In other words, the betrayal emails all came from one class.” Hirata finished her thought.
+[says] (p.237) “They might have sent the emails at the exact same time as a way of showing off their supremacy,” Hirata added.
+[says] (p.239) “How did you figure it out?” asked Hirata. His question contained a mixture of curiosity and fear.
+[rel:ryuuen-kakeru] (pp.239, 242) The fear-curious question after the Kushida reveal; later the pushback that he is not convinced of preternatural talent.
+[says] (p.242) “I understand that Ryuuen-kun managed to discover the VIPs in Class A, sure, but I’m not convinced he has some kind of preternatural talent. Still, how did Dragon Group end up with that result?” asked Hirata.
+[says] (p.242) “What do you mean?”
+[rel:kushida-kikyou] (p.242) The answer he protected all test sits at the centre of Ayanokōji’s 1% explanation.
+[rel:katsuragi-kouhei] (p.242) Named as the defensive voter who could still move in the riskless half hour.
+[note] (p.242) No answer to his Dragon question from anyone but Ayanokōji — the table is stunned silent first.
+
+<!-- walk: y1v4 ch5 → p.243 -->

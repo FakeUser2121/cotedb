@@ -133,3 +133,45 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [rel:sotomura-hideo] (p.159) The Professor’s pompous “I can’t say that I noticed anything of the sort” answer next to him — Yukimura’s vibe read called right on the money by narration.
 
 <!-- walk: y1v4 ch4 → p.204 -->
+
+### y1v4 p.205–224 — Ch.5 §5.0–5.2: the VIP steps forward
+[scene] (p.205) Melancholy at the card table, the self-reliance rebuke, then under the email-show pressure he demands phones on the table and reveals himself as the Rabbit VIP — after Ayanokōji’s secret swap.
+[says] (p.205) “Is it okay to just sit here like this?” Yukimura sighed.
+[says] (p.206) “No thanks. I don’t really feel like it. Really, is this okay, Ichinose-san? I mean, just doing this until the test ends. I thought you were the one leading the group here.”
+[says] (p.206) “Yeah. Good point,” he answered.
+[trait] (pp.205-206) Knows he can’t take the leadership thrust on him but still wants a way to change things; academic top ≠ natural leader (narration).
+[rel:ichinose-honami] (pp.205-206) The downer at her table; takes the “rely on yourself” rebuke.
+[rel:ayanokouji-kiyotaka] (pp.217, 220, 223-224) “Yukimura-dono” and the Professor’s joint barrage; tries to stop the show; then “I’m sorry for lying to you, Ayanokouji.”
+[says] (p.217) “All alone with Ichinose-dono? My word, how suspicious. A clandestine rendezvous, wouldn’t you say?” (Professor’s line, in exchange)
+[says] (p.220) “Wait, Ayanokouji. There’s no way this kind of strategy is going to work,” said Yukimura.
+[says] (p.222) “Wait. It’s not just Ayanokouji-kun? You’re going along with this, Karuizawa? You agree with this?” Yukimura was puzzled.
+[says] (p.222-223) “Do you really think that … showing everyone your phone is the right move?” he asked. (to the Professor)
+[says] (p.223) Yukimura’s expression stiffened. (Ibuki’s VIP jibe)
+[rel:ibuki-mio] (p.223) Her “You’re not the VIP, are you?” freezes him — the jibe that starts the Class A stare.
+[says] (p.224) “Before I do so, I want you to promise me one thing,” he said.
+[says] (p.224) “I don’t want anyone here to turn traitor. Especially you, Class A. I want you to take out your phones and put them in front of you. That goes for everybody. Everyone, put your phones where I can see them,” he demanded.
+[says] (p.224) “Exactly what I said. Nothing more, nothing less.”
+[says] (p.224) “I’m sorry for lying to you, Ayanokouji,” he muttered.
+[says] (p.224) “I’m the VIP.”
+[rel:machida-kouji] (p.224) Watches the private email and chat logs; confirms authenticity for the room.
+[rel:sotomura-hideo] (p.224) “Wha— Y-Yukimura-dono, you’re the VIP?!” the Professor stammers.
+[rel:karuizawa-kei] (p.224) Her genuine shock is the cover for the swap — Class D’s surprise sells the lie.
+[status] (p.224) The VIP email on screen; Class D’s 500,000 given up in the room — but the phones were already exchanged in secret.
+[trait] (p.224) “If I’d known things would turn out like this, I would’ve talked from the start…” — the regret that makes the reveal human.
+
+### y1v4 p.225–228 — Ch.5 §5.2: the cover holds, then cracks
+[scene] (p.225) Accepts the blame as the points-grabber, begs every class to trust Outcome #1, and rages when Ichinose’s call exposes the swap — “Too bad” from Machida is the last he hears before the room empties.
+[says] (p.225) “No, it’s okay. It’s probably for the best. I thought I could lie my way out of this, but I was wrong. I’m sure you, Sotomura, and Karuizawa would agree this was for the best,” said Yukimura.
+[rel:sotomura-hideo] (p.225) Named in the trio who all agree the reveal was for the best.
+[rel:karuizawa-kei] (p.225) Same trio — the real VIP he still does not know about.
+[says] (p.225) “Well, now everyone knows the answer. It’s me,” Yukimura said.
+[trait] (p.225) Everyone now pictures him hoarding points for himself — the role he agreed to play.
+[says] (p.226) “I want to believe… No, I do believe in everyone.” Yukimura begged fervently.
+[trait] (pp.226-228) The joy at winning the cover dies the moment the phone vibrates; he lunges, drops it face-up, caller ID “Ichinose.”
+[says] (p.228) “Damn it!” shouted Yukimura.
+[says] (p.228) “I was wrong to go along with your plan. This sucks,” he fumed.
+[rel:ichinose-honami] (pp.225-228) Her call is what breaks him; Machida’s “Too bad, Yukimura” piles on the mockery.
+[rel:machida-kouji] (p.228) The mockery line after the drop — Class A laughs at the failed gambit.
+[status] (p.228) Leaves the room visibly upset and shaking; the VIP cover traded for a public traitor face.
+
+<!-- walk: y1v4 ch5 → p.243 -->

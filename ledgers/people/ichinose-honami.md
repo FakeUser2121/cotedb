@@ -475,3 +475,84 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [trait] (pp.153-154) Her move turns the once-hopeless hour into extraction from people who want to hide — his read of the shift.
 
 <!-- walk: y1v4 ch4 → p.204 -->
+
+### y1v4 p.205–223 — Ch.5 §5.0–5.2: cards, the dream question, the show
+[scene] (p.205) Fifth discussion still on Old Maid; lectures Yukimura on self-reliance; then the early nap, the Class A dream talk, and joins Hamaguchi’s email show.
+[says] (p.205) “Gah! I drew it again! Am I seriously this awful at Old Maid?”
+[trait] (p.205) Fifth period cards again — no Class A counter to her, so the small group plays rather than sits silent.
+[rel:yukimura-teruhiko] (p.205-206) “You’re being a downer today, Yukimura-kun. You ought to play with … us and shake off that gloom and doom. Come on, let’s have a rematch!” then the self-reliance rebuke.
+[says] (p.206) “Isn’t that excuse too convenient, Yukimura-kun? If you seriously want to win this thing, don’t you think you should rely on yourself, rather than someone else?”
+[rel:ayanokouji-kiyotaka] (pp.210-217) Sleeping early alone; the thigh-and-phone approach abandoned; the Class A dream conversation; “you saw it, a while back.”
+[says] (p.213) “Oh, good…yawn…to see you, Ayanokouji-kun. Sorry, did my alarm startle you?” she asked.
+[says] (p.213) “Ha ha ha, sorry about that. I just passed out; I slept like a log. You’re here early, though. Don’t we have twenty minutes until the discussion?” she asked.
+[says] (p.213) “An hour ago, I think. I wanted some peace and quiet. Since my friends are going in and out of my room, it’s kinda noisy.”
+[says] (p.213) “Besides, I wanted to gather my thoughts,” she added.
+[says] (p.213) “There’s still some time left until the discussion starts. Why don’t we have a little chat? If it’s not a bother, that is,” she said.
+[says] (p.213) “Okay. To tell you the truth, Ayanokouji-kun, I want to ask you something. I’ve asked all my classmates this question, including the boys. But I’ve been thinking about asking the other classes for a while now. I’ve just been kind of curious. Ayanokouji-kun, do you want to ascend to Class A?”
+[says] (p.214) “I think so, too. But don’t you think placing too must trust in the system could be dangerous? There’s something about that 99.9% percent they’re not telling us. Something dangerous,” Ichinose said.
+[trait] (p.214) The 99.9% placement rate read as a hidden pitfall — only a fraction achieve the dream they set out for.
+[says] (p.215) “No, I’m not saying that. I want to graduate from Class A. I have a dream I want to make real,” she answered.
+[says] (p.215) “The school system’s all well and good, but if you can’t graduate from Class A, it’s a mark of failure. This school is all about ability, and if your abilities can’t carry you here, it’s unlikely you’ll ever be labeled an elite. Students are ranked based on perceived superiority or inferiority. Right now, between the two of us, Ayanokouji-kun, only one can achieve their dream. Ah, but then again, we could both lose out on our goals.”
+[says] (p.215) “Hmm? You mean when someone manages to accumulate twenty million points?”
+[says] (p.215) “Oh yeah, for sure. I suppose if we factor that in, it’s possible for both of us to graduate from Class A,” she replied.
+[says] (p.215) “That’s true. Even if you’re extremely economical, it’s unlikely someone could manage to save even half that amount,” Ichinose mused.
+[says] (p.216) “Hmm, I wonder about that. Personally, I’ll use points sometimes and save them sometimes, just like anyone else would. Even though I’m in Class B, I don’t really have that many points saved.” Ichinose responded to my question with ease.
+[says] (p.216) “It seems like you saw it, a while back,” she remarked.
+[trait] (p.216) Caught the screen glance; not angry — “it certainly is a lot of points, right?” — the insane first-semester pile he can’t match even saving every monthly drop.
+[says] (p.216) “Ha ha, you don’t need to feel guilty or anything. It’s not like I’m blaming you. I mean, it certainly is a lot of points, right?”
+[says] (p.216) “But I can’t really give you any details. Sorry,” she added.
+[says] (p.216) “Of course, if you did manage to obtain that information, Ayanokouji-kun, and even if you shared it with Horikita-san, you wouldn’t go blabbing to everyone, would you? I mean, even though you saw my phone, if someone else decided to ask about it, you wouldn’t tell, right?”
+[says] (p.217) “Hmm, I think so. At least, I think I’ve found a hint.”
+[says] (p.217) “We won’t know that until the end. My path to victory is—” (cut off by the room filling)
+[rel:hamaguchi-tetsuya] (pp.217-220) His Outcome #1 plan is “exactly the same” as hers; she backs the show and follows his lead to the punch.
+[says] (p.217) “Oh, what’s this? You’re here already, Ayanokouji?” (Yukimura’s line, in exchange)
+[says] (p.218) “Is that really true, Hamaguchi?” (her line in the group exchange)
+[says] (p.218) “Let’s hear him out first. Hamaguchi-kun isn’t the sort to speak without thinking,” offered Ichinose.
+[says] (p.219) “I think it’s a surprisingly good strategy. I don’t have any objections,” said Ichinose.
+[says] (p.220) “I’ve been agonizing over this for a long time now, but after hearing Hamaguchi’s plan, I get it.” (group exchange)
+[says] (p.220) “Ayanokouji-kun…are you okay with this?” Ichinose asked.
+[rel:machida-kouji] (p.223) Explains her earlier “quiet about something” as wanting the same show — Class B’s representative jealous Hamaguchi beat her to it.
+[says] (p.223) “It’s too early to draw any conclusions. Yukimura-kun has a point,” Ichinose said.
+[says] (p.223) “I got a little caught up and missed my chance earlier, but I’ll show you now,” she said.
+[feat] (p.223) Proves not the VIP after the interruption — the calm repair under Machida’s probe.
+[says] (p.223) “Ah, that? I had the same thing Hamaguchi said on my mind earlier, and wanted to talk about it. That’s it.”
+[says] (p.223) “As Class B’s representative, I’m a little jealous that Hamaguchi-kun beat me to the punch.”
+
+### y1v4 p.225–233 — Ch.5 §5.2: the call that ends it
+[scene] (p.225) Pleads with Class A for Outcome #1, then exposes the phone swap by calling it, lectures on the SIM lock she confirmed with Hoshinomiya-sensei, and admits she never intended to clear or betray.
+[says] (p.225) “Please. Cooperate with us. Don’t let Yukimura-kun’s courage go to waste. I don’t want you to betray us.”
+[rel:yukimura-teruhiko] (p.225) Thanks his courage; he is already the sacrificial cover.
+[rel:machida-kouji] (pp.225-228) Extracts his trust promise for Outcome #1 before Class A leaves.
+[says] (p.226) “The school said that altering or copying the emails is forbidden, that’s true. That’s why the email we saw was the real thing. However, there’s no rule saying that you can’t trick people with the phone itself. Do you understand what I’m getting at?”
+[feat] (p.226) The dropped phone, caller ID “Ichinose,” and the quiet hang-up — only Yukimura and Ayanokōji understand the trap as it fires.
+[says] (p.227) “The person this phone belongs to, the real VIP…that’s you, isn’t it? Ayanokouji-kun? I called you just now, not Yukimura-kun.”
+[says] (p.227) “That was all fake. He could’ve easily gotten the password ahead of time by simply asking Ayanokouji-kun. Besides, it’s possible to replicate call history, email, apps, and so on, though it would take a bit of effort,” said Ichinose.
+[rel:hamaguchi-tetsuya] (p.227) The SIM-card test they ran together — the weak point of every swap strategy.
+[says] (p.227) “But you see, there’s a weak point to that strategy: a phone number. Even if you perfectly duplicate everything from call history to apps, you can’t change the number. Hamaguchi and I had tried swapping SIM cards once to see what would happen, but the SIM cards are locked to their designated phones. If you’d swapped them, I wouldn’t have been able to call you. It doesn’t matter who switches with whom: Once I hear the phone ring, I can find the owner. If I couldn’t do that, I wouldn’t have proposed this idea in the first place,” said Ichinose.
+[says] (p.228) “You did everything almost perfectly. But you didn’t anticipate that our SIM cards are locked to specific devices, did you?” Ichinose gloated.
+[says] (p.228) “Anyway, we’ve confirmed that Ayanokouji-kun is the VIP. Machidakun, promise me that we’ll aim for Outcome #1, and no one will betray anyone else,” urged Ichinose.
+[says] (p.228) “There’s so much to gain by working together. That’s why we’ll never turn traitor. That’s why I want you in Class C to do the same. Please, just bear with it for thirty minutes,” Ichinose pleaded.
+[says] (p.228) “Now all we can do is to trust everyone,” she said.
+[says] (p.228) “You’re really calm, Ayanokouji-kun. Aren’t you worried?”
+[says] (p.230) “Who came up with the idea of swapping phones?” she asked.
+[says] (p.230) “I see. Please tell Horikita-san something for me. Tell her that her plan was a huge success.”
+[says] (p.230) “Ha ha ha. You didn’t expect us to have come up with the same plan, did you?”
+[says] (p.230) “Of course not. We went ahead with our own plan without telling you, so we’re even.”
+[says] (p.230) “Come on. You’re surprisingly bad at dealing with people, Ayanokouji-kun. It’s true that the SIM cards are locked to their respective devices. But there is a way to release that lock. Isn’t that right? I checked with Hoshinomiya-sensei to confirm. She said that with enough points, you can unlock the device right away,” said Ichinose.
+[rel:hoshinomiya-chie] (p.230) The teacher she consulted — enough points buys an instant SIM unlock.
+[says] (p.230-231) “After a falsehood comes to light, most people will take the answer that comes after it to be the truth. Yukimura-kun was determined not to be the … VIP, even after he showed everyone how he unlocked your phone using the password.”
+[says] (p.231) “The moment that lie was revealed, the truth that you’re the VIP came to the surface. The SIM card was the deciding factor. No one would suspect anyone else as the VIP now. But that was the trap. I said the idea of swapping phones was an imperfect strategy, but that was a lie. That’s because swapping phones is extremely effective. Of course, it must be a doublelayered trap in order to work. In that case, the truth will remain in the darkness. There wouldn’t be any way for anyone to determine, with 100% accuracy, the real VIP’s identity.”
+[feat] (p.231) Reads the plan behind the plan — the double-layer trap Ayanokōji kept from Yukimura, named in one pass.
+[rel:karuizawa-kei] (pp.231-232) Names her as the real VIP in the typed message: “The real VIP is Karuizawa Kei-san. Am I right?”
+[trait] (p.232) The behavioural read: Karuizawa “kept looking over at you, and her face tightened” — enough to type, not enough to send.
+[says] (p.232) “The same reason as Yukimura-kun. She’s been behaving unusually. She normally doesn’t seem to care much about you, Ayanokouji-kun, but she kept looking over at you, and her face tightened. But there’s still the possibility that she isn’t the VIP, so I couldn’t have sent that email.”
+[says] (p.233) “That’s obvious. If either Class A or Class C makes a mistake, that’s a win for us. From the very beginning, I never intended to clear Outcome #1, or to turn traitor and get Outcome #3. The moment I knew the VIP wasn’t in Class B, I knew I would let another class betray us. I think the traitor was probably from Class A,” she said.
+[rel:morishige-takurou] (p.233) Her traitor guess: Sakayanagi’s faction man who would not sit on Katsuragi’s plan.
+[rel:sakayanagi-arisu] (p.233) Her faction named as the reason Morishige would break rank.
+[rel:katsuragi-kouhei] (p.233) The plan Morishige was expected to disobey.
+[says] (p.233) “No, no. Morishige-kun. He’s a member of Sakayanagi’s faction. I doubt he’d just quietly go along with Katsuragi’s plan. He probably figured that, if anything, it was better for him to betray the group and take the points. Don’t you think?”
+[says] (p.233) “Ayanokouji-kun, you’re amazing. You know that? Our conversation just now proves how cunning you really are, doesn’t it?”
+[says] (p.233) “Wh-what does this mean?” asked Ichinose. (the four-note alert)
+[status] (p.233) The four-times-quick sound on both phones — the shock face before §5.3.
+
+<!-- walk: y1v4 ch5 → p.243 -->

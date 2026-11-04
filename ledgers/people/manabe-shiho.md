@@ -115,3 +115,21 @@ char_id: manabe-shiho · class: Class 1-C · status: minor
 [rel:ryuuen-kakeru] (p.202) His Class C is the external threat Ayanokōji cites — further harassment would land them in trouble with him.
 
 <!-- walk: y1v4 ch4 → p.204 -->
+
+### y1v4 p.222–223 — Ch.5 §5.2: the shouted objection
+[scene] (p.222) Screams that the show gains nothing, then is ordered into it by Ibuki and complies with her friends.
+[says] (p.222) “Are you nuts? We don’t get anything out of this!” shouted Manabe.
+[rel:ibuki-mio] (pp.222-223) The enemy-tone exchange: “Or maybe you’re the VIP” → “N-no. I…” → “In that case, show everyone your phone.” She and her friends obey.
+[rel:karuizawa-kei] (p.222) In the same forced-show wave as Karuizawa’s strapped phone.
+[trait] (p.223) Accepts Ibuki’s order like a command — the cornering leader reduced to complying in the circle.
+
+### y1v4 p.225–228 — Ch.5 §5.2: the nod and the exit
+[scene] (p.225) Ratifies the Yukimura verdict, then leaves with her group once Ichinose extracts the no-betrayal pledge.
+[says] (p.225) “So that means it’s definitely Yukimura-kun.” (Machida’s line, with her nod)
+[rel:machida-kouji] (p.225) The joint Class A/C conclusion — her nod is cited as the confirming beat.
+[rel:yukimura-teruhiko] (p.225) Accepts him as the answer without testing whose phone it was.
+[trait] (p.225) Narration: the password-show worked because preconceived notions beat deduction — she never questions the owner.
+[rel:ichinose-honami] (p.228) Nods at the thirty-minute plea and leaves with the rest of Class C.
+[note] (pp.225-228) No further line of her own; the row records her presence in the verdict and exit.
+
+<!-- walk: y1v4 ch5 → p.243 -->

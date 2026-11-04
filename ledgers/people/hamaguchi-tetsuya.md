@@ -52,3 +52,28 @@ char_id: hamaguchi-tetsuya · class: Class 1-B · status: minor
 [trait] (p.154) The practical objection that sets Ichinose’s point-of-the-test answer — extraction without force.
 
 <!-- walk: y1v4 ch4 → p.204 -->
+
+### y1v4 p.217–220 — Ch.5 §5.2: the Outcome #1 plan
+[scene] (p.217) Arrives with Yukimura and the Professor, then stakes the final hour on a voluntary email show — the plan that matches Ayanokōji’s swap by accident.
+[says] (p.217) “This is the end, huh? So, have you found any hints?” asked Hamaguchi.
+[rel:ayanokouji-kiyotaka] (pp.217-220) Gentle lead-in; simultaneous “excuse me” with him; then the plan that shatters the swap timing.
+[says] (p.218) “For the past three days, I’ve been thinking of how we could achieve Outcome #1,” he said.
+[says] (p.218) “There is a way for everyone here to achieve Outcome #1,” he continued.
+[says] (p.218) “Yes. I came up with this idea after listening to everyone here, including Ichinose-san and Machida-kun.”
+[says] (p.218) “I’m going to show you all my phone. Of course, the school sent us all an email. I think you all understand what I’m getting at? Because we’re prohibited from tampering with or misrepresenting the emails we’ve received in any way, there’s no way to deceive one another. That’s why the answer is simple. We show each other our emails, and then we find out who the VIP is. That’s how we’ll discover the truth.”
+[rule] (p.218) Email-show logic: school messages cannot be tampered with, so the screen is the only proof.
+[rel:machida-kouji] (pp.218-219) The flat refusal exchange — Machida calls it dumb, Hamaguchi tells him to sit quiet if he won’t participate.
+[says] (p.219) “It’s certainly true that if the VIP knows they could be betrayed, they wouldn’t show their phone. However, from the perspective of someone who isn’t the VIP, there’s no risk in exposing your identity. The test will be over soon. If we don’t make a move, we lose our chance of winning. Suppose there’s a class working together to cover for the VIP. It’s true that none of them would show their phones. But this way, it’s possible to narrow down the list of candidates.”
+[says] (p.219) “In that case, please be quiet and just watch. If you don’t participate, Machida-kun, it’ll still be fine,” Hamaguchi answered.
+[rel:ichinose-honami] (pp.217-220) His plan is “exactly the same” as hers and Ayanokōji’s — the three-way coincidence of the final hour.
+[rel:beppu-ryouta] (p.219) Beppu follows his phone first among Class B.
+[trait] (p.218) The idea came “after listening to everyone” — Ichinose’s card-hour intelligence put to work.
+
+### y1v4 p.227 — Ch.5 §5.2: the SIM experiment
+[scene] (p.227) Named in Ichinose’s lecture as her partner in the SIM-card swap test that found the lock.
+[rel:ichinose-honami] (p.227) “Hamaguchi and I had tried swapping SIM cards once to see what would happen, but the SIM cards are locked to their designated phones.”
+[rule] (p.227) The experiment’s result — SIM locked to device — is the weak point he and Ichinose built their counter-swap on.
+[rel:ayanokouji-kiyotaka] (p.227) The victim of the lecture; his own SIM lock release is the answer she withholds until p.230.
+[note] (p.227) Mention only; not at the café.
+
+<!-- walk: y1v4 ch5 → p.243 -->

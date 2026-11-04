@@ -154,3 +154,20 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [rel:ryuuen-kakeru] (p.143) Still the man Ichinose came to counter; no mention of Ryuuen in this exchange.
 
 <!-- walk: y1v4 ch4 → p.204 -->
+
+### y1v4 p.205 — Ch.5 §5.0: the iron fortress still running
+[scene] (p.205) Named in the final-day opening as the unchanged half of the stalemate — no counter to Ichinose’s cards, strategy unbroken.
+[rel:ryuuen-kakeru] (p.205) The pair of strategies the narration sets against Ichinose’s missing countermeasure — frontal assault versus iron fortress.
+[rel:ichinose-honami] (p.205) Still no counter from Class B to his silence; that is why cards win the hour.
+[note] (p.205) No scene presence in this half; the row records the opening status line.
+
+### y1v4 p.226, 233, 242 — Ch.5 §5.2–5.3: instructions, faction, the defensive vote
+[scene] (p.226) The chain Machida cites, the plan Morishige was expected to disobey, and the defensive-player example in Ayanokōji’s Dragon Outcome #1 explanation.
+[rel:machida-kouji] (p.226) “We’ve been acting on Katsuragi-san’s instructions from the very beginning” — Class A’s no自主 line.
+[rel:morishige-takurou] (p.233) Ichinose’s read: he would not quietly sit on Katsuragi’s plan — Sakayanagi faction first.
+[rel:sakayanagi-arisu] (p.233) The faction Morishige answers to, not Katsuragi.
+[rel:ryuuen-kakeru] (p.242) The defensive vote Ryuuen bent: even Katsuragi could vote in the riskless half hour on a 1% Kushida seed.
+[rel:kushida-kikyou] (p.242) The seed question that would have convinced his bloc.
+[note] (pp.226-242) No scene presence; three mention anchors only.
+
+<!-- walk: y1v4 ch5 → p.243 -->

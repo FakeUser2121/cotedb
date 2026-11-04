@@ -2181,3 +2181,90 @@ walk: y1v1 → DONE
 [feat] (p.183) Gains Hirata’s cooperation — “a power I’d always wanted”; each side feels they gained something.
 
 <!-- walk: y1v4 ch4 → p.204 -->
+
+### y1v4 p.205–224 — Ch.5 §5.0–5.2: the phone swap and the dam
+[scene] (p.205) Final day: Manabe kept obedient by the stairwell photo, Ichinose’s card hour, the 5.1 meet with Horikita, the sleeping-Ichinose phone approach, then the group email-show where his swapped phone opens the dam.
+[trait] (p.205) Reads Manabe’s constraint: the photo came “from a classmate,” so she cannot pin the sub-account on him or Yukimura with certainty.
+[rel:manabe-shiho] (p.205) The picture effect — obedient, no move against him.
+[rel:yukimura-teruhiko] (p.205) The other stairwell witness she might suspect; both kept outside certainty.
+[rel:horikita-suzune] (pp.207-209) The 5.1 night meet in person (chat leaves traces): “I’ll win,” her anxiety leaking, Hirata brought over, the introduce-someone-later plan.
+[says] (p.207) “There haven’t been any significant changes. At this rate, it looks like the VIP is going to get away. How about you?”
+[says] (p.207) “I’ll win,” she replied flatly. (her line, tagged)
+[says] (p.207) “You sure you haven’t made a mistake?” I asked.
+[says] (p.207) “No need. Make whatever moves you like.”
+[says] (p.207) “You can’t keep being scared of Ryuuen forever, you know,” I said.
+[says] (p.208) “In that case, show your face when we discuss things. Even if you don’t talk, you can follow along, right?”
+[says] (p.208) “I’d like to introduce you to someone else later. Hirata, too. Make sure to keep some time open before they announce the results,” I said.
+[says] (p.208) “Think of it as compensation for putting yourself on the front lines. Anyway, this person will be useful to us.”
+[rel:hirata-yousuke] (pp.207-208) Already on their side; Ayanokōji will handle him so Horikita only has to keep up.
+[rel:ryuuen-kakeru] (p.207) The fear Horikita won’t name in detail — audience risk in the corridor.
+[feat] (p.207) Knows Kushida is the Dragon VIP from Hirata; treats Horikita’s confidence as solid victory for the 500,000.
+[rel:ichinose-honami] (pp.210-217) Alone with her sleeping form; approaches the phone, abandons the peek, then takes the Class A dream talk and the points-screen admission.
+[says] (p.210) “She must have gotten here early, huh?” I asked out loud.
+[trait] (pp.210-212) The pervert-risk test with his foot — gives up the peek; “God, I’m pathetic.”
+[says] (p.213) “Oh, no. Looks like you slept well.”
+[says] (p.213) “I should be asking you the same thing. When did you get here?”
+[says] (p.213) “Any results?” I asked.
+[says] (p.213) “Oh no, it’s not a bother. I don’t mind.”
+[says] (p.213) “Well, yeah. Of course I do. I’ve thought about getting up to Class A. No, wait…I guess it’d probably be more accurate to say that I must aim for Class A.”
+[says] (p.214) “Nowadays, you can’t just enter college or get a job that easily. Jobs, especially,” I said.
+[says] (p.214-215) “But this school… Well, it does have an incredible amount of influence, right? Most people who get anywhere in life succeed because … someone influential helps them. Or are you not interested in that, Ichinose?”
+[says] (p.215) “Be that as it may, whether or not you can really earn twenty million points is another problem. Even if you score well on the exams and save your points, it probably wouldn’t be enough,” I said.
+[says] (p.215) “Yeah. Class D’s financial situation is especially awful. Even though Horikita’s trying her hardest, the points from the island test have yet to be deposited. Actually, it’s entirely possible we’ll lose them in this test,” I said.
+[says] (p.216) “Sorry. When you were using your phone earlier, I just happened to look at the screen. I was a little curious, so I was thinking of asking you about it.”
+[says] (p.216) “I don’t plan on telling anyone else. Besides, I might’ve been mistaken. I won’t pry.”
+[says] (p.216) “Have you found a way to win this thing?” I asked.
+[says] (p.217) “To be honest, I have no idea. We haven’t really been able to talk, which means we haven’t been able to engage,” I said. (official answer)
+[feat] (p.217) The phone-swap trap: Kushida–Horikita switch so a traitor submitting Horikita loses — Outcome #1 for Class D.
+[says] (p.219) “You’re serious about this, huh? Well, if you’re all going to bet on that, I think I’ll join in, too,” I said.
+[says] (p.220) “Sure. After hearing Hamaguchi out, I honestly don’t think we have another option. I’m really bad at communicating, so all I can do is show you the truth,” I answered.
+[says] (p.220) “Wait, Ayanokouji. There’s no way this kind of strategy is going to work,” said Yukimura. (his line)
+[trait] (p.221) The dam image — his email-show opens the hole so the muddy stream can run.
+[rel:sotomura-hideo] (p.217) The Professor’s “All alone with Ichinose-dono?” barrages with Yukimura on entry.
+[says] (p.223) “Yukimura isn’t the VIP. I heard as much earlier,” I said.
+[trait] (p.223) Denying further would invite suspicion — stops because Yukimura is the swapped VIP.
+[rel:yukimura-teruhiko] (pp.223-224) The withheld truth: he exchanged phones in secret; Class D’s 500,000 was already gambled on the swap.
+
+### y1v4 p.225–243 — Ch.5 §5.2–5.3: found out, then the café
+[scene] (p.225) The password-show settles Yukimura’s cover in the room; Ichinose’s call and SIM-lock lecture strip the double swap bare; then the 11 p.m. café with Karuizawa, Hirata, Horikita, Sudou and Ryuuen, the twelve-group results, and a warning over Class C’s lead.
+[trait] (p.225) Names the real weakness of the password theatre: judging whose phone it was stayed hard, but the six-digit unlock “wasn’t the result of deduction, but rather of preconceived notions.”
+[says] (p.225) “I’m sorry, Yukimura-kun. This happened because I came up with this idea at the very last minute,” I muttered.
+[rel:yukimura-teruhiko] (p.225) Takes the fall as the points-grabber everyone now believes him to be.
+[rel:ichinose-honami] (pp.225-233) The long reveal chain: her call, the SIM lecture, the Hoshinomiya-sensei unlock, the Karuizawa guess, and the mutual “we’re even.”
+[says] (p.226) “Yeah. Guess so,” I answered.
+[says] (p.228) “Not especially. I can’t do anything but believe, anyway. I’m heading to my room.”
+[says] (p.230) “Horikita, of course.”
+[says] (p.230) “A huge success? Don’t you mean a crushing defeat? We failed, hard. You saw through everything.”
+[says] (p.230) “I’m sorry. Sorry for trying to deceive you like that, especially after I agreed to be your ally. Are you angry?”
+[says] (p.230) “I see. If you mean it, I’m sure Horikita will be relieved.”
+[says] (p.230) “The critical part?”
+[says] (p.232) “The same as you. I would’ve tried to find out who the VIP was, borrowed that person’s phone, and had another one ready. Then, I’d step forward and claim to be the VIP myself.”
+[says] (p.232) “So I’ve been found out, huh?”
+[says] (p.232) “Why did you think it was Karuizawa?” I asked.
+[says] (p.232) “Why didn’t you say anything? At the very least, you could have exposed my lie,” I said.
+[says] (p.233) “Machida?”
+[says] (p.233) “You ought to praise Horikita. She just gave me directions, that’s all.”
+[feat] (p.231) The full chain on the page: Hirata told him Karuizawa was the real VIP; Manabe’s bullying of Karuizawa opened the swap; he replicated email and call history, paid for a SIM lock release, transferred his number, then swapped that phone with Yukimura’s.
+[trait] (p.231) The trap’s shape on the page: a simple person misses the swap, a clever person accuses him, “But they never would have come to the conclusion that Karuizawa was the real VIP.”
+[rel:karuizawa-kei] (p.231) The real VIP and phone owner — the fact kept even from Yukimura until Ichinose named her.
+[rel:hirata-yousuke] (pp.231, 234) Hirata’s withheld knowledge, then the café approach about “that piece of paper.”
+[says] (p.234) “Don’t worry. I’m positive that one of the guys from Class A sent the school an email with my name,” I answered.
+[says] (p.234) “Sorry for calling you so late.” (his line to Karuizawa)
+[says] (p.235) “She’s the type to come at the very last second. We have another four minutes,” I said.
+[says] (p.235) “You’re finally here. Hey, who’s that behind you?” I asked.
+[rel:sudou-ken] (pp.235-241) The café fifth wheel; his “one step behind” on the email; Ryuuen’s arrival makes him half-threaten and then sink back on command.
+[says] (p.236) “Yeah. Someone discovered his identity,” I reasoned. (Minami, Horse VIP)
+[note] (p.236) “Minami-kun was the Horse group VIP” — two Minami rows exist in the roster; which one is not settled on this page.
+[says] (p.236) “Is Yamauchi okay?” I asked.
+[says] (p.236) “I don’t know who it was, but betraying the group before he could was a fine move,” I said.
+[rel:ryuuen-kakeru] (pp.237-243) The planted sixth guest; the Kushida reveal; the Class A VIP list; the explicit next-target threat; Ayanokōji’s quiet “we might be in trouble.”
+[says] (p.242) “I mean, it’s not really a difficult problem. If you just put your mind to it, it’s relatively simple,” I told everyone.
+[says] (p.242) “Putting aside how Ryuuen found out the VIPs’ identities, all he had to do was tell everyone ‘Kushida is the VIP’ before the end of the test, right? Of course, no one would believe what someone like Ryuuen says. Especially a group of such intelligent, gifted people. However, the final half hour was different. Even if you answered incorrectly, there wasn’t any risk to class points. As such, even someone who’d been playing defensively like Katsuragi could vote, right? If there was even a 1% chance that Kushida was really the VIP, then they would’ve gotten Outcome #1, which was the most convenient for everyone involved.”
+[rel:katsuragi-kouhei] (p.242) The defensive player who could still vote in the riskless half hour.
+[rel:kouenji-rokusuke] (p.242) “Kouenji saved our asses” — his betrayal email kept Class C from taking everything; the stray bullets hit other VIPs.
+[says] (p.243) “Horikita. I think that we might be in trouble,” I said.
+[says] (p.243) “You’ve got a point. I’m probably overthinking things. Don’t worry.”
+[trait] (p.243) The premonition named as “something like excitement” — first stirrings of wanting Ryuuen as an opponent.
+[rel:horikita-suzune] (pp.235-243) The café debrief, the results, and the shared worry she talks him out of.
+
+<!-- walk: y1v4 ch5 → p.243 -->

@@ -1319,3 +1319,66 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [trait] (pp.130-131) Reads Ryuuen’s phone plant as reason to keep talking carefully; still assigns Ayanokōji the Rabbit VIP hunt as cover.
 
 <!-- walk: y1v4 ch4 → p.204 -->
+
+### y1v4 p.207–209 — Ch.5 §5.1: the night meet
+[scene] (p.207) Last pre-final meeting with Ayanokóji in person; claims the win flatly, refuses detail on listener risk, and takes the Hirata/recruitment plan with gritted teeth.
+[says] (p.207) “I’ll win,” she replied flatly.
+[says] (p.207) “I’m not sure who might be listening to us right now, so I won’t go into detail. I’ll just ask that you believe in me. Everything will be fine.”
+[feat] (p.207) Confidence despite the odds — Ayanokōji already knows Kushida is Dragon VIP and reads this as solid victory.
+[rel:ayanokouji-kiyotaka] (pp.207-209) Person-to-person because chat leaves traces; “Make whatever moves you like”; snaps at free shadow operation.
+[says] (p.207) “Did you want to consult with me?” she asked.
+[says] (p.207) “So what did you want to talk about? I thought we both agreed to avoid unnecessary contact.”
+[says] (p.207) “Judging from how you phrased that, I’m guessing you can do something about it?”
+[says] (p.208) “I don’t particularly want that,” she said.
+[says] (p.208) “I don’t really like how freely you’re operating in the shadows,” she answered.
+[says] (p.208) “Well, I suppose so,” she sighed.
+[says] (p.208) “Okay, I really don’t like this. I don’t want you to just go ahead and recruit people as you see fit,” she snapped.
+[says] (p.208) “I have a general idea of what you’re thinking, but… Well, fine. At any rate, let’s meet back here after the test is over.”
+[rel:hirata-yousuke] (p.208) The cooperation she does not want — “I don’t particularly want that” — Ayanokōji will handle him alone.
+[says] (p.208) “I wonder how many traitors will come forward in this test,” said Horikita.
+[says] (p.208) “Yes, I think so, too.” Horikita briefly averted her eyes, the sort of unconscious gesture people made when they were worried about something.
+[says] (p.209) “Nothing. It’s just, well… Something about this test doesn’t make sense. But there shouldn’t be any mistakes. I definitely shouldn’t lose,” she replied.
+[trait] (pp.208-209) Anxiety finally leaking — the averted eyes, then the “doesn’t make sense” line; he stays quiet because kind words would be refused.
+[rel:ryuuen-kakeru] (p.207) His pursuit is the fear she won’t name under listener risk.
+
+### y1v4 p.230–243 — Ch.5 §5.2–5.3: the plan’s author, then the café
+[scene] (p.230) Gets the credit line from Ichinose — “her plan was a huge success” — then runs the café debrief with Hirata, absorbs Ryuuen’s Kushida reveal and the Class C blowout, and talks Ayanokōji out of his premonition.
+[rel:ichinose-honami] (p.230) The relayed verdict on the phone swap; Ayanokōji is told to say it was her plan.
+[says] (p.235) “Ahh. When I see you people, I can’t help but sigh,” muttered Horikita.
+[says] (p.235) “Ignore him. Think of him as a ghost that attached itself to my back,” Horikita said flatly.
+[rel:sudou-ken] (pp.235-241) Shuts him down repeatedly — “You’re in the way. Get lost,” “Sudou-kun, be quiet” — then lets him stay as chair-grabbing baggage.
+[says] (p.235) “You’re in the way. Get lost,” she spat.
+[says] (p.235) “In that case, do you believe you’ll end up with good results?”
+[says] (p.235) “You’re in the way,” Horikita grumbled.
+[says] (p.236) “Minami-kun was the Horse group VIP, right?” asked Horikita.
+[says] (p.236) “Did one of us send an email for the other groups?” asked Horikita.
+[says] (p.236) “Ah, he’s probably okay. Yamauchi-kun was in the Rooster group. It seems he did try sending an email but agonized over it for too long. The test ended before he could actually send it,” said Horikita.
+[rel:yamauchi-haruki] (p.236) The Rooster who froze on the send button — her prediction he would have guessed wrong.
+[rel:karuizawa-kei] (p.236) Accepts the girls-side report flatly — no social pull of her own, so she takes what controllers say.
+[says] (p.237) “This exam was all about testing our thinking. It’s not like every single question would have an answer,” said Horikita.
+[says] (p.237) “What I’m worried about is that those four emails came in at almost the exact same time. The school said we had a timeframe of thirty minutes at the end of the test to betray someone, but all the emails came within one to two seconds of each other,” she said.
+[feat] (p.237) The automated-timing deduction with Hirata — four simultaneous betrayals = one class showing off.
+[says] (p.237) “When Kouenji-kun sent the email to betray his group, the school responded without delay. If you think about how fast it was, it must have been automated,” Horikita began.
+[rel:kouenji-rokusuke] (p.237) His earlier betrayal email is the calibration point for the school’s speed.
+[says] (p.237) “Yeah. And there’s only one person I can imagine who’d do such a thing.” said Horikita.
+[rel:ryuuen-kakeru] (pp.237-241) The sixth guest she expected; the Kushida reveal hits her confidence; the threat leaves her staring at the results without a comeback.
+[says] (p.238) “Yes. I chose this space because even an idiot like you would be able to find it quite easily. You should be grateful,” answered Horikita.
+[says] (p.238) “I disliked your persistent harassment. I was talking to them about it,” said Horikita flatly.
+[says] (p.238) “Sudou-kun, be quiet,” Horikita snapped.
+[says] (p.238) “More or less. You look rather relaxed,” Horikita said.
+[says] (p.238) “I’m quite glad to hear that. I look forward to the results,” she replied with confidence.
+[says] (p.239) “I’m sorry, but I’m hearing the irritating whine of a loser. The test has already ended, and no one in the Dragon group has turned traitor. That can only mean one thing,” she answered.
+[rel:kushida-kikyou] (p.239) Her certainty that Ryuuen never got it — broken when he says the name.
+[says] (p.239) “All right, tell me then. Who is the Dragon group VIP?” asked Horikita.
+[says] (p.239) “You’re joking, right? If that’s true, you would have turned traitor and sent an email. But the test didn’t end like that. That must mean you realized that fact after the exam had ended. There’s no other way. Am I wrong?” asked Horikita.
+[says] (p.240) “Me?” she asked, dumbfounded.
+[says] (p.240) “Stop with the jokes!”
+[says] (p.240) “That’s… I’m sure you could’ve just heard it from someone else,” Horikita stammered.
+[says] (p.240) “What? What did you do?” asked Horikita.
+[status] (p.241) Class C +150 cl and +5.5 Million pr — “Class C…came out on top,” stunned at the table.
+[says] (p.241) “Class C…came out on top,” muttered Horikita.
+[rel:ayanokouji-kiyotaka] (p.243) His trouble-warning; her calm rebuttal that Ryuuen’s win does not guarantee future danger.
+[says] (p.243) “By trouble, you mean Ryuuen-kun? It’s true he did very well in this test, but there’s no guarantee he’ll be dangerous in the future. Your group won their test, after all. Didn’t they?” she asked.
+[trait] (p.243) The composed front after the humiliation — she keeps him from spiraling into the premonition.
+
+<!-- walk: y1v4 ch5 → p.243 -->

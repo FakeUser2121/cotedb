@@ -56,3 +56,11 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.158) No scene presence; the row records the faction fact as the pages print it.
 
 <!-- walk: y1v4 ch4 → p.204 -->
+
+### y1v4 p.233 — Ch.5 §5.2: the faction behind the traitor
+[scene] (p.233) Named as the faction Morishige answers to in Ichinose’s traitor prediction.
+[rel:morishige-takurou] (p.233) “He’s a member of Sakayanagi’s faction” — the reason he would break Katsuragi’s plan.
+[rel:ichinose-honami] (p.233) The analyst making the guess from Class B’s side.
+[note] (p.233) Mention only; no presence in this chapter.
+
+<!-- walk: y1v4 ch5 → p.243 -->

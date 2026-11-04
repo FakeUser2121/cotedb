@@ -106,3 +106,11 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [rel:katsuragi-kouhei] (pp.143,150) Carries the no-inch finding out of the room with Ichinose’s interview as the evidence.
 
 <!-- walk: y1v4 ch4 → p.204 -->
+
+### y1v4 p.207 — Ch.5 §5.1: named in the VIP arithmetic
+[scene] (p.207) Named only as one of the Dragon group who surely worked to learn the VIP — Horikita’s win still surprises Ayanokōji.
+[rel:ryuuen-kakeru] (p.207) The pair he expects to have exhausted every angle on Kushida’s screen.
+[rel:kushida-kikyou] (p.207) The Dragon VIP both sides were hunting — Hirata’s tip already gave Ayanokōji the answer.
+[note] (p.207) No scene presence; one line of the VIP arithmetic.
+
+<!-- walk: y1v4 ch5 → p.243 -->

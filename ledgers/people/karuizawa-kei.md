@@ -371,3 +371,27 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [status] (p.203) Bound to him: the only way to go on living is with the new host — VIP knowledge implied, not spoken.
 
 <!-- walk: y1v4 ch4 → p.204 -->
+
+### y1v4 p.222–224 — Ch.5 §5.2: the strap phone
+[scene] (p.222) Hands over the phone with the strap under the show; claims private-points motive; shock at Yukimura’s VIP email sells the room.
+[says] (p.222) “I’m doing this for my own sake. I want those private points,” said Karuizawa.
+[rel:yukimura-teruhiko] (pp.222-224) Puzzled at first that she joins; then genuine shock and unease at “I’m the VIP” — the cover performance Ayanokōji needs.
+[says] (p.224) Karuizawa looked genuinely shocked and uneasy. (narration of her face at the reveal)
+[rel:ayanokouji-kiyotaka] (p.222) Her clean email supports the swap dam; no word to him in the room.
+[trait] (p.222) The points line matches her standing greed — motive nobody questions for showing.
+
+### y1v4 p.231–241 — Ch.5 §5.2–5.3: named, then seated
+[scene] (p.231) The real VIP whose name Ichinose types; §5.3 opens with her meek café arrival, the insurance question, and the girls-side no-betrayal report that settles Horikita’s worry.
+[rel:ichinose-honami] (pp.231-232) The name on the betrayal message she never sends; the behavioural read — looking over, face tightening.
+[rel:ayanokouji-kiyotaka] (pp.231, 234) The double swap ran on her phone; the café seat and the piece-of-paper insurance.
+[says] (p.234) “Sorry to keep you waiting,” she said.
+[says] (p.234) “Ah, um. I was just wondering if everything really went okay,” she said.
+[says] (p.234) “How can you say that for sure?” she asked.
+[trait] (p.234) “Something about her expression seemed different” — meek rather than her usual edge after the stairwell.
+[rel:hirata-yousuke] (p.234) Jumps when he approaches; shifts in her seat but does not refuse him — the breakup still raw.
+[says] (p.236) “I’ve already checked. No one sent an email,” said Karuizawa without hesitation. As controller of the Class D girls, she could be as certain as Hirata of her information.
+[feat] (p.236) Controller’s report — the girls-side certainty that pairs with Hirata’s boys-side survey.
+[rel:horikita-suzune] (p.236) Her flat acceptance: without social pull Horikita must take what the controllers say.
+[status] (p.232) Ichinose’s guess on her: “The real VIP is Karuizawa Kei-san. Am I right?” — correct, unsent when the four notes sound.
+
+<!-- walk: y1v4 ch5 → p.243 -->

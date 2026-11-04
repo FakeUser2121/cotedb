@@ -182,3 +182,12 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [note] (p.125) No direct appearance in this range; every row is other people reporting the act.
 
 <!-- walk: y1v4 ch4 → p.204 -->
+
+### y1v4 p.237–242 — Ch.5 §5.3: the automated calibration and the saviour
+[scene] (p.237) His earlier betrayal email fixes the school’s response speed in Horikita’s timing deduction; p.242 names him as having saved Class D’s victory from total Class C sweep.
+[rel:horikita-suzune] (p.237) The data point — school responded without delay, so the four simultaneous emails must be automated.
+[status] (p.242) “Kouenji saved our asses” — without his group’s betrayal email the victory would have belonged exclusively to Class C; his action also sent stray bullets at other VIPs.
+[rel:ryuuen-kakeru] (p.241) The four-email timing Kouenji’s single email helped expose as one-class showmanship.
+[note] (pp.237-242) Named only; no presence at the café.
+
+<!-- walk: y1v4 ch5 → p.243 -->

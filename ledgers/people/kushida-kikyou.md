@@ -592,3 +592,22 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [note] (p.185) No scene presence; one line of planning in Ayanokōji’s narration.
 
 <!-- walk: y1v4 ch4 → p.204 -->
+
+### y1v4 p.207, 217 — Ch.5 §5.1–5.2: the Dragon VIP behind the swap
+[scene] (p.207) Named as the Dragon group’s VIP from Hirata’s tip — the name Ayanokōji’s phone-swap trap runs on, never spoken in the room.
+[rel:hirata-yousuke] (p.207) The source of the identification; “I’d already heard from Hirata that Kushida was the Dragon group’s VIP.”
+[rel:horikita-suzune] (p.217) The swap pairs her phone with Kushida’s so a traitor submitting Horikita fails.
+[rel:ayanokouji-kiyotaka] (p.217) The hidden mechanism of Outcome #1 — she never appears on screen in this half.
+[note] (p.207) No scene presence; the row records the fact the plan depends on.
+
+### y1v4 p.239–242 — Ch.5 §5.3: the name that broke the table
+[scene] (p.239) Named aloud as Dragon group VIP by Ryuuen — known to him since day two — and the fact that Dragon cleared Outcome #1 without a traitor makes her the centre of Ayanokōji’s 1% explanation.
+[rel:ryuuen-kakeru] (p.239) He never turned traitor despite knowing; the reveal is saved for the café audience.
+[says] (p.239) “Kushida Kikyou.” (his line, naming her)
+[rel:horikita-suzune] (p.239) Her confidence — “no one in the Dragon group has turned traitor” — is exactly what he weaponises.
+[rel:hirata-yousuke] (p.239) Flabbergasted beside her; he had carefully protected her identity all test.
+[rel:ayanokouji-kiyotaka] (pp.241-242) The seed-planted theory: tell everyone “Kushida is the VIP” in the riskless half hour and even Katsuragi votes for the 1%.
+[status] (p.240) Dragon: Outcome #1 — the entire group answered correctly at the end of the test.
+[note] (p.239) She is not at the café; the row records the public naming of her VIP status.
+
+<!-- walk: y1v4 ch5 → p.243 -->

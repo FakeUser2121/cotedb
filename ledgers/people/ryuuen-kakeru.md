@@ -182,3 +182,44 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:horikita-suzune] (p.130) Parting “See you again, Suzune” — first-name basis, reported.
 
 <!-- walk: y1v4 ch4 → p.204 -->
+
+### y1v4 p.205 — Ch.5 §5.0: the frontal assault still running
+[scene] (p.205) Named in the final-day opening as the unchanged half of the stalemate — united frontal assault against Katsuragi’s fortress.
+[rel:katsuragi-kouhei] (p.205) The two strategies Ichinose has not answered; the chapter opens between them.
+[rel:horikita-suzune] (p.207) Still the fear she won’t detail under listener risk at the 5.1 meet.
+[note] (p.205) No scene presence in this half; the row records the opening status line.
+
+### y1v4 p.237–243 — Ch.5 §5.3: the sixth guest
+[scene] (p.237) Invited as the deliberate sixth seat, slams a chair beside Horikita, names Kushida as Dragon VIP from her body language, shows the Class A VIP list, claims the four-email timing, and declares Horikita his next target.
+[rel:horikita-suzune] (pp.237-241) The whole set piece is aimed at her — teasing, the reveal, “you’re my next target… tear you to shreds, both in mind and body.”
+[says] (p.238) “I thought I’d enjoy finding out the results with you all. Thanks so much for gathering in such an easy-to-find place,” he said mockingly.
+[says] (p.238) “Anyway, Suzune, you’ve got a rather large group with you. Have you grown more sociable?” muttered Ryuuen, looking out at the other four people gathered around the table and ignoring Sudou completely.
+[rel:sudou-ken] (pp.238-239) Ignored on arrival; Sudou’s chide about the last results is brushed into the Kushida play.
+[says] (p.238) “I didn’t think you actually had any friends,” Ryuuen teased.
+[says] (p.238) “The results will be announced any minute now. Are you expecting any results?” he asked.
+[says] (p.238) “Heh. I wouldn’t be here if I wasn’t. Looks like the same crowd as the last time,” replied Ryuuen.
+[says] (p.238) “Stop it, Suzune. You know if you get carried away now, you’ll just be embarrassed later. I already know our group’s VIP,” said Ryuuen.
+[says] (p.239) “There’s no need to wait for the announcement. Want me to tell you who the Dragon group VIP is?” he asked.
+[says] (p.239) “If you could only understand the depth of my mercy, you’d be moved. So moved that you’ll get wet between your thighs.” Ryuuen laughed, as though such vulgar language was funny.
+[says] (p.239) “Kushida Kikyou.”
+[rel:kushida-kikyou] (p.239) The name dropped cold — known since the second day of the test.
+[says] (p.239) “I’m sorry, but I’ve known Kushida was the VIP since the second day of the test,” Ryuuen said.
+[says] (p.239) “I just felt so sorry for you. You were oh-so-incredibly confident in your victory that you looked down on others. You were desperate to get your stories straight, assuming no one would get the answer right. That’s why I went along with it until the end.”
+[rel:hirata-yousuke] (p.239) Hirata’s “How did you figure it out?” carries curiosity and fear; the answer names Horikita, not him.
+[says] (p.239) “Unfortunately, the answer to that… Well, it involves you, Suzune,” answered Ryuuen.
+[says] (p.240) “I figured it out because of your body. The movements of your eyes and mouth. Your breathing. Your behavior. Your tone. Everything about you told me that you were lying,” continued Ryuuen in an eerie voice.
+[feat] (p.240) Body-language read of Horikita’s lie — the method that beat the VIP secret.
+[says] (p.240) “Jokes? If it’s a joke, then how do I know the truth?”
+[says] (p.240) “I understand how you feel. You don’t want to admit that you’re the most incompetent person in the group. But don’t beat yourself up, Suzune. You merely chose the wrong opponent. Besides, this exam was supposed to be pure chaos. At any rate, Class A is in for an especially rude awakening. Relax.”
+[says] (p.240) “You’ll understand soon enough.”
+[status] (pp.240-241) The four simultaneous betrayal emails — Rat, Horse, Monkey, Rooster answered correctly; he played a major part; Class A VIP list on his screen for Rat, Rooster and Pig.
+[says] (p.241) “Isn’t this great, Suzune? Thanks to your blunder, the Dragon group managed to clear this test with Outcome #1. Because of that, all the classes should receive a boost in points,” Ryuuen crowed. He clapped his hands and wore a satisfied grin. “If you beg for it, I’ll tell you the answer. How about it?” he asked.
+[says] (p.241) “Ooh, that look you have. It’s pretty sexy.”
+[says] (p.241) “I made some adjustments and arrived at the root of the test. Then, I just focused on the Class A students,” he said.
+[feat] (p.241) Cleared without targeting Classes B or D at all — the Class A VIP harvest on one screen.
+[says] (p.241) “I’m sorry to tell you, Suzune, but you’re my next target. I’m going after you with everything I’ve got. I won’t stop until I tear you to shreds, both in mind and body.”
+[says] (p.242) “I’m looking forward to the second semester,” said Ryuuen.
+[rel:ayanokouji-kiyotaka] (p.243) Walks away with his payback for the island — the threat Ayanokōji turns into quiet excitement.
+[rel:katsuragi-kouhei] (p.242) The defensive vote he bent to 1% — named in Ayanokōji’s explanation of Dragon Outcome #1.
+
+<!-- walk: y1v4 ch5 → p.243 -->
