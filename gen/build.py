@@ -199,8 +199,9 @@ def threads_block(P, cid):
                 for r in rs)
             arts.append(
                 f'<article class="card row"><p class="src">'
+                f'<span class="n">{esc(m.vol[s["vol"]]["short"])} · </span>'
                 f'<a href="#{s["id"]}">{esc(s["title"])}</a>'
-                f'<span class="n"> · {esc(m.vol[s["vol"]]["short"])} · {esc(s["pages"])}</span></p>'
+                f'<span class="n"> · {esc(s["pages"])}</span></p>'
                 f'<ul class="rows">{lis}</ul></article>')
         return "".join(arts)
 
