@@ -46,5 +46,6 @@ h1{font-size:1.9rem;line-height:1.2;margin:.15em 0 .3em}h2{font-size:1.25rem;mar
 .scroll{overflow-x:auto}table{border-collapse:collapse;width:100%}th,td{text-align:left;padding:6px 10px;border-bottom:1px solid var(--line)}th{font-size:.8rem;text-transform:uppercase;color:var(--mut)}
 .chap{border:1px solid var(--line);border-radius:10px;padding:8px 12px;margin:8px 0;background:var(--card)}.chap summary{color:var(--fg);font-weight:600}
 .legend{margin-top:1.4em}footer{max-width:860px;margin:0 auto;padding:18px 16px 40px;border-top:1px solid var(--line);color:var(--mut);font-size:.9rem}
+.threadgrp{margin:.5em 0}.threadgrp>h3{font-size:1.12rem;font-weight:700;margin:1.3em 0 .4em}.threadgrp>h4{font-size:1rem;font-weight:600;margin:1em 0 .35em}.threadgrp .threadgrp{margin-left:1em;padding-left:.85em;border-left:2px solid var(--line)}.threadgrp .src{margin:.5em 0 .15em}.threadgrp .src a{font-weight:600}
 [hidden]{display:none!important}
 @media(max-width:560px){h1{font-size:1.55rem}.yrs{margin-left:0}.tools{justify-content:flex-start}}

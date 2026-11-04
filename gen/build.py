@@ -195,11 +195,12 @@ def threads_block(P, cid):
         arts = []
         for s, rs in by_sc.values():
             lis = "".join(
-                f'<li><span class="mlabel">{esc(M.MARKERS[r["m"]])}</span>{esc(r["text"])}{pg(r["pg"])}</li>'
+                f'<li><span class="mlabel">{esc(M.MARKERS[r["m"]])}</span> {esc(r["text"])}{pg(r["pg"])}</li>'
                 for r in rs)
             arts.append(
                 f'<article class="card row"><p class="src">'
-                f'<a href="#{s["id"]}">{esc(s["title"])}</a> · {esc(m.vol[s["vol"]]["short"])} · {esc(s["pages"])}</p>'
+                f'<a href="#{s["id"]}">{esc(s["title"])}</a>'
+                f'<span class="n"> · {esc(m.vol[s["vol"]]["short"])} · {esc(s["pages"])}</span></p>'
                 f'<ul class="rows">{lis}</ul></article>')
         return "".join(arts)
 
