@@ -22,7 +22,7 @@ $$('.results[data-key]').forEach(function(res){
  function ok(it){if(upto&&it.o>upto)return false;if(scopeY&&String(it.y)!==scopeY)return false;if(st.v&&it.v!==st.v)return false;
   if(st.w&&(' '+it.w+' ').indexOf(' '+st.w+' ')<0)return false;
   var ks=Object.keys(st.k).filter(function(k){return st.k[k]});if(ks.length&&!ks.some(function(k){return(' '+it.k+' ').indexOf(' '+k+' ')>=0}))return false;
-  if(st.q){var q=fold(st.q).split(' ');for(var i=0;i<q.length;i++)if(q[i]&&it.q.indexOf(q[i])<0)return false}return true}
+  if(st.q){var q=fold(st.q).split(' ').filter(Boolean),hits=0;for(var i=0;i<q.length;i++){var tok=q[i],alt=stem(tok);if(it.q.indexOf(tok)>=0||(alt!==tok&&alt.length>2&&it.q.indexOf(alt)>=0))hits++}if(hits<Math.ceil(q.length/2))return false}return true}
  function list(){return items.filter(ok)}
  function refresh(keep){if(!keep)st.n=size;var l=list(),shown=l.slice(0,st.n);res.innerHTML=shown.map(function(i){return i.h}).join('');
   cnt.textContent='Showing '+shown.length+' of '+l.length+' '+noun+(l.length<items.length?' (filtered from '+items.length+')':'');more.hidden=l.length<=st.n}
@@ -65,9 +65,15 @@ if(dir){var rows=$$('.dir .row'),tiers=$$('section.tier[data-tier]'),sc='all',dq
 // ---- search
 var idxLoaded=false;
 function loadIdx(cb){if(window.IDX||idxLoaded){cb();return}idxLoaded=true;var s=document.createElement('script');s.src=root+'assets/search-index.js';s.onload=cb;document.head.appendChild(s)}
-function find(q){var t=fold(q).split(' ').filter(Boolean);if(!t.length)return[];var out=[];
- for(var i=0;i<IDX.length;i++){var r=IDX[i],ti=fold(r[0]),ok=true,sc=0;for(var j=0;j<t.length;j++){if(r[3].indexOf(t[j])<0){ok=false;break}if(ti.indexOf(t[j])===0)sc+=3;else if(ti.indexOf(t[j])>=0)sc+=2}
-  if(ok)out.push([sc+(r[1]==='Scene'?0:2),r])}
+function stem(w){return w.length>4?w.replace(/(ing|ed|es|s)$/,''):w}
+function find(q){var raw=fold(q),t=raw.split(' ').filter(Boolean);if(!t.length)return[];var need=Math.ceil(t.length/2),out=[];
+ for(var i=0;i<IDX.length;i++){var r=IDX[i],ti=fold(r[0]),body=r[3],hits=0,sc=0;
+  for(var j=0;j<t.length;j++){var tok=t[j],alt=stem(tok);
+   if(body.indexOf(tok)<0&&!(alt!==tok&&alt.length>2&&body.indexOf(alt)>=0))continue;
+   hits++;if(ti.indexOf(tok)===0)sc+=3;else if(ti.indexOf(tok)>=0)sc+=2;else sc+=1}
+  if(hits<need)continue;
+  if(t.length>1&&body.indexOf(raw)>=0)sc+=4;
+  out.push([sc+hits+(r[1]==='Scene'?0:2),r])}
  out.sort(function(a,b){return b[0]-a[0]});return out.slice(0,40).map(function(x){return x[1]})}
 function show(box,res,max){var q=box.value;if(!q.trim()){res.innerHTML='';res.hidden=true;return}
  loadIdx(function(){var f=find(q).slice(0,max);res.innerHTML=f.length?f.map(function(r){return '<a href="'+root+r[2]+'"><span class="sr-t">'+r[0].replace(/</g,'&lt;')+'</span><span class="sr-k">'+r[1]+'</span></a>'}).join(''):'<a>No match</a>';res.hidden=false})}

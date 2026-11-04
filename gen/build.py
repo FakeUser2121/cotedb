@@ -178,7 +178,7 @@ def build_character(c):
                   ("Read so far", f"{len(sc)} scenes, {c['lines']} quoted lines"),
                   ("First read scene", f'{ent(P, "volumes", first["vol"])} <span class="pg">{esc(first["pages"])}</span>' if first else "")])
     items = [item(P, s, ("people", cid)) for s in sc]
-    rels = m.relations(cid)[:6]
+    rels = m.relations(cid)
     rel_html = "".join(
         f'<li>{ent(P, "people", t)} <span class="n">{n} note{"s" if n != 1 else ""}</span> '
         f'<button type="button" class="chipbtn" data-with="{t}">Scenes together</button></li>' for t, n in rels)
@@ -471,8 +471,8 @@ def search_index():
         u = path(ok, oid)
         if u.startswith("people/index.html"):
             continue
-        body = " ".join([m.name(ok, oid), s["setup"]] + [q["text"] for q in s["quotes"]])
-        rec(s["title"], "Scene", f"{u}#{s['id']}", body[:900])
+        body = " ".join([m.name(ok, oid)] + [r["text"] for r in s["rows"]])
+        rec(s["title"], "Scene", f"{u}#{s['id']}", body)
     return "window.IDX=" + json.dumps(recs, ensure_ascii=False, separators=(",", ":")) + ";\n"
 
 

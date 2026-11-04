@@ -193,9 +193,9 @@ def card(P, s, here=None, skip=()):
 
 def item(P, s, here=None, skip=()):
     w = list(s["with"]) + ([s["owner"][1]] if s["owner"][0] == "people" else [])
-    text = " ".join([s["title"], s["setup"]] + [q["text"] for q in s["quotes"]])
+    text = " ".join([m.name(s["owner"][0], s["owner"][1]), s["title"]] + [r["text"] for r in s["rows"]])
     return {"i": s["id"], "v": s["vol"], "y": s["year"], "o": s["ord"], "k": kinds_of(s),
-            "w": " ".join(dict.fromkeys(w)), "q": fold(text)[:1500], "h": card(P, s, here, skip)}
+            "w": " ".join(dict.fromkeys(w)), "q": fold(text), "h": card(P, s, here, skip)}
 
 
 def row_item(P, r):
