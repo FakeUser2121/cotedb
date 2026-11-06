@@ -1325,3 +1325,30 @@ Verify 1074 [says] + 316 non-says ALL PASS; gate exit 0 (R18 0, R19
 `deae8e046450e1f875866cd52c55febc` twice. New tags: none. Open:
 search Tier 2/3 (fuzzy/typo tolerance and speed) is next per the
 owner, then y1v5.
+
+search: fuzzy matching and focus preload
+
+Search Tier 2/3 per the owner's task order (faster + fuzzy). Edits
+confined to gen/assets/app.js and gen/tests/browser_test.js — no index
+format change, no content, no ledgers. What changed: the index now
+preloads on focus of the header or search-page box instead of on the
+first keystroke, and loadIdx keeps a callback queue — the old one-shot
+onload let a second show() during load run find() against an undefined
+IDX and drop that render. Every exact miss now falls back to
+edit-distance-1 variants (deletes, transposes, a-z substitutes and
+inserts; cached; tokens of 4+ letters only): global find() resolves a
+missed token through a word-to-rows map built once after load, the
+character scope resolves a missed name through the name-word map only
+when exactly one roster id matches (ambiguity falls back to global, so
+the kei karuizawa isolation rule holds), the scene filter and the people
+directory fall back per item against a word list. Exact substring
+behaviour is untouched, so every existing query returns what it did.
+The stale browser-suite counts (253 rows, 17 with a page, 88 scenes)
+now derive from the DOM and the payload file instead of hardcoding, and
+three typo assertions were added: directory "horikta", scene filter
+"conveniance", header "horikta". make browser 25/25 — it failed 4/29
+before (jsdom was missing; npm install jsdom --no-save, node_modules
+left untracked) and those four failures were the stale counts. make
+check OK (R18 0, R19 82/82); gate exit 0; build 180 pages, 51 assets;
+hash `251c3c38a7b4e2e11d99b2d66116a18c` twice. New tags: none. Open:
+y1v5.

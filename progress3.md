@@ -1251,3 +1251,17 @@ andou-sayo and morofuji-rika alias cells extended. Quotes: 1074
 corpus-exact. R18/R19 held at 0/82 after the repair. Determinism
 hash across consecutive builds:
 `deae8e046450e1f875866cd52c55febc`.
+
+### search: fuzzy matching and focus preload reaches the site (site, 2026-11-05)
+
+Search Tier 2/3: the index preloads on focus instead of on the first
+keystroke, and every exact miss — global query, character scoping,
+scene filter, people directory — now falls back to edit-distance-1
+variants (4+ letter tokens, one-time word map; a scope resolves only
+when exactly one roster id matches, so name isolation holds and
+ambiguity falls back to global). Exact queries unchanged. Three typo
+assertions added; the browser suite's stale hardcoded counts now derive
+from the DOM and the payload file. make browser 25/25 (was 4 FAIL on
+missing jsdom plus those counts), make check OK, gate exit 0; build 180
+pages, 51 assets. Determinism hash across consecutive builds:
+`251c3c38a7b4e2e11d99b2d66116a18c`.

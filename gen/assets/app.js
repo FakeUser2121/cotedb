@@ -22,7 +22,14 @@ $$('.results[data-key]').forEach(function(res){
  function ok(it){if(upto&&it.o>upto)return false;if(scopeY&&String(it.y)!==scopeY)return false;if(st.v&&it.v!==st.v)return false;
   if(st.w&&(' '+it.w+' ').indexOf(' '+st.w+' ')<0)return false;
   var ks=Object.keys(st.k).filter(function(k){return st.k[k]});if(ks.length&&!ks.some(function(k){return(' '+it.k+' ').indexOf(' '+k+' ')>=0}))return false;
-  if(st.q){var q=fold(st.q).split(' ').filter(Boolean),hits=0;for(var i=0;i<q.length;i++){var tok=q[i],alt=stem(tok);if(it.q.indexOf(tok)>=0||(alt!==tok&&alt.length>2&&it.q.indexOf(alt)>=0))hits++}if(hits<Math.ceil(q.length/2))return false}return true}
+   if(st.q){var q=fold(st.q).split(' ').filter(Boolean),hits=0;
+    for(var i=0;i<q.length;i++){var tok=q[i],alt=stem(tok);
+     if(it.q.indexOf(tok)>=0||(alt!==tok&&alt.length>2&&it.q.indexOf(alt)>=0)){hits++;continue}
+     if(tok.length<4)continue;
+     var fv=edits1(tok),ws=it.qw||(it.qw=it.q.split(' ')),fh=false;
+     for(var k=0;k<ws.length;k++)if(fv[ws[k]]){fh=true;break}
+     if(fh)hits++}
+    if(hits<Math.ceil(q.length/2))return false}return true}
  function list(){return items.filter(ok)}
  function refresh(keep){if(!keep)st.n=size;var l=list(),shown=l.slice(0,st.n);res.innerHTML=shown.map(function(i){return i.h}).join('');
   cnt.textContent='Showing '+shown.length+' of '+l.length+' '+noun+(l.length<items.length?' (filtered from '+items.length+')':'');more.hidden=l.length<=st.n}
@@ -50,7 +57,12 @@ if(dir){var rows=$$('.dir .row'),tiers=$$('section.tier[data-tier]'),sc='all',dq
   rows.forEach(function(r){var t=r.dataset[tkey],ys=(r.dataset.y||'').split(' '),vis=!!t;
    if(vis&&sc!=='all'&&ys.indexOf(sc)<0)vis=false;if(vis&&dc.value&&r.dataset.c!==dc.value)vis=false;
    if(vis&&dr.value&&(' '+r.dataset.r+' ').indexOf(' '+dr.value+' ')<0)vis=false;if(vis&&dp.checked&&r.dataset.p!=='1')vis=false;
-   if(vis&&letter&&r.dataset.l!==letter)vis=false;if(vis&&q.length){for(var i=0;i<q.length;i++)if(r.dataset.n.indexOf(q[i])<0){vis=false;break}}
+   if(vis&&letter&&r.dataset.l!==letter)vis=false;if(vis&&q.length){for(var i=0;i<q.length;i++){var tok=q[i];
+    if(r.dataset.n.indexOf(tok)>=0)continue;
+    if(tok.length<4){vis=false;break}
+    var fv=edits1(tok),ws=r.nw||(r.nw=r.dataset.n.split(' ')),fh=false;
+    for(var k=0;k<ws.length;k++)if(fv[ws[k]]){fh=true;break}
+    if(!fh){vis=false;break}}}
    r.hidden=!vis;if(vis){shown++;counts[t]++;buckets[t].push(r)}});
   tiers.forEach(function(s){var k=s.dataset.tier,ul=$('ul',s);buckets[k].sort(function(a,b){return a.dataset.i-b.dataset.i});
    var all=rows.filter(function(r){return r.dataset[tkey]===k}).sort(function(a,b){return a.dataset.i-b.dataset.i});all.forEach(function(r){ul.appendChild(r)});
@@ -63,8 +75,28 @@ if(dir){var rows=$$('.dir .row'),tiers=$$('section.tier[data-tier]'),sc='all',dq
  dirApply()}
 
 // ---- search
-var idxLoaded=false;
-function loadIdx(cb){if(window.IDX||idxLoaded){cb();return}idxLoaded=true;var s=document.createElement('script');s.src=root+'assets/search-index.js';s.onload=cb;document.head.appendChild(s)}
+var idxQ=null,wordMap=null,e1c=Object.create(null);
+function loadIdx(cb){if(window.IDX){if(!wordMap)buildMaps();cb();return}
+ if(idxQ){idxQ.push(cb);return}
+ idxQ=[cb];
+ var s=document.createElement('script');s.src=root+'assets/search-index.js';
+ s.onload=function(){buildMaps();var f=idxQ;idxQ=null;f.forEach(function(g){g()})};
+ s.onerror=function(){idxQ=null};
+ document.head.appendChild(s)}
+function buildMaps(){wordMap=Object.create(null);
+ for(var i=0;i<IDX.length;i++){var ws=IDX[i][3].split(' '),seen=Object.create(null);
+  for(var j=0;j<ws.length;j++){var w=ws[j];if(!w||seen[w])continue;seen[w]=1;
+   var l=wordMap[w];if(!l)l=wordMap[w]=[];l.push(i)}}}
+function edits1(w){if(!e1c)e1c=Object.create(null);
+ var e=e1c[w];
+ if(!e){e=Object.create(null);var i,c,a;
+  for(i=0;i<w.length;i++)e[w.slice(0,i)+w.slice(i+1)]=1;
+  for(i=0;i<w.length-1;i++)e[w.slice(0,i)+w[i+1]+w[i]+w.slice(i+2)]=1;
+  for(i=0;i<w.length;i++)for(c=97;c<=122;c++){a=String.fromCharCode(c);if(a===w[i])continue;e[w.slice(0,i)+a+w.slice(i+1)]=1}
+  for(i=0;i<=w.length;i++)for(c=97;c<=122;c++){a=String.fromCharCode(c);e[w.slice(0,i)+a+w.slice(i)]=1}
+  if(Object.keys(e1c).length>600)e1c=Object.create(null);
+  e1c[w]=e}
+ return e}
 function stem(w){return w.length>4?w.replace(/(ing|ed|es|s)$/,''):w}
 var cmap=null;
 function charScope(toks){
@@ -80,26 +112,40 @@ function charScope(toks){
   var cands=[];
   [toks[i],stem(toks[i])].forEach(function(w){var l=cmap[w];
    if(l)l.forEach(function(id){if(cands.indexOf(id)<0)cands.push(id)})});
+  if(!cands.length&&toks[i].length>=4){
+   var e=edits1(toks[i]),ws=Object.keys(e),seen=Object.create(null);
+   for(var k=0;k<ws.length;k++){var l2=cmap[ws[k]];
+    if(l2)for(var m=0;m<l2.length;m++){var id2=l2[m];if(!seen[id2]){seen[id2]=1;cands.push(id2)}}}}
   if(cands.length===1&&ids.indexOf(cands[0])<0)ids.push(cands[0])}
  return ids}
+function tokenRows(tok){var s=Object.create(null),alt=stem(tok),any=false;
+ for(var i=0;i<IDX.length;i++){var b=IDX[i][3];
+  if(b.indexOf(tok)>=0||(alt!==tok&&alt.length>2&&b.indexOf(alt)>=0)){s[i]=1;any=true}}
+ if(any||tok.length<4||!wordMap)return s;
+ var e=edits1(tok),ws=Object.keys(e);
+ for(var i=0;i<ws.length;i++){var l=wordMap[ws[i]];
+  if(l)for(var j=0;j<l.length;j++)s[l[j]]=1}
+ return s}
 function find(q){var raw=fold(q),t=raw.split(' ').filter(Boolean);if(!t.length)return[];
- var ids=charScope(t),need=Math.ceil(t.length/2),out=[];
- for(var i=0;i<IDX.length;i++){var r=IDX[i];
+ var ids=charScope(t),need=Math.ceil(t.length/2),sets=[],i,j;
+ for(i=0;i<t.length;i++)sets.push(tokenRows(t[i]));
+ var out=[];
+ for(i=0;i<IDX.length;i++){
   if(ids.length){var inscope=false;
-   for(var p=0;p<ids.length;p++){var pre='people/'+ids[p]+'.html';if(r[2].indexOf(pre)===0){inscope=true;break}}
+   for(j=0;j<ids.length;j++){var pre='people/'+ids[j]+'.html';if(IDX[i][2].indexOf(pre)===0){inscope=true;break}}
    if(!inscope)continue}
-  var ti=fold(r[0]),body=r[3],hits=0,sc=0;
-  for(var j=0;j<t.length;j++){var tok=t[j],alt=stem(tok);
-   if(body.indexOf(tok)<0&&!(alt!==tok&&alt.length>2&&body.indexOf(alt)>=0))continue;
-   hits++;if(ti.indexOf(tok)===0)sc+=3;else if(ti.indexOf(tok)>=0)sc+=2;else sc+=1}
+  var hits=0;for(j=0;j<sets.length;j++)if(sets[j][i])hits++;
   if(hits<need)continue;
-  if(t.length>1&&body.indexOf(raw)>=0)sc+=4;
+  var r=IDX[i],ti=fold(r[0]),sc=0;
+  for(j=0;j<t.length;j++){if(!sets[j][i])continue;var tok=t[j];
+   if(ti.indexOf(tok)===0)sc+=3;else if(ti.indexOf(tok)>=0)sc+=2;else sc+=1}
+  if(t.length>1&&r[3].indexOf(raw)>=0)sc+=4;
   out.push([sc+hits+(r[1]==='Scene'?0:2),r])}
  out.sort(function(a,b){return b[0]-a[0]});return out.slice(0,40).map(function(x){return x[1]})}
 function show(box,res,max){var q=box.value;if(!q.trim()){res.innerHTML='';res.hidden=true;return}
- loadIdx(function(){var f=find(q).slice(0,max);res.innerHTML=f.length?f.map(function(r){return '<a href="'+root+r[2]+'"><span class="sr-t">'+r[0].replace(/</g,'&lt;')+'</span><span class="sr-k">'+r[1]+'</span></a>'}).join(''):'<a>No match</a>';res.hidden=false})}
-var q=$('#q'),sr=$('#sr');if(q&&sr){q.oninput=function(){show(q,sr,10)};document.addEventListener('click',function(e){if(!sr.contains(e.target)&&e.target!==q)sr.hidden=true});
+ loadIdx(function(){if(box.value!==q)return;var f=find(q).slice(0,max);res.innerHTML=f.length?f.map(function(r){return '<a href="'+root+r[2]+'"><span class="sr-t">'+r[0].replace(/</g,'&lt;')+'</span><span class="sr-k">'+r[1]+'</span></a>'}).join(''):'<a>No match</a>';res.hidden=false})}
+var q=$('#q'),sr=$('#sr');if(q&&sr){q.onfocus=function(){loadIdx(function(){})};q.oninput=function(){show(q,sr,10)};document.addEventListener('click',function(e){if(!sr.contains(e.target)&&e.target!==q)sr.hidden=true});
  q.onkeydown=function(e){if(e.key==='Enter'&&q.value.trim()){location.href=root+'search/index.html#q='+encodeURIComponent(q.value)}}}
-var sq=$('#sq'),sres=$('#sres');if(sq&&sres){var m=/#q=(.*)$/.exec(location.hash);if(m)sq.value=decodeURIComponent(m[1]);sq.oninput=function(){show(sq,sres,40)};if(sq.value)show(sq,sres,40)}
+var sq=$('#sq'),sres=$('#sres');if(sq&&sres){var m=/#q=(.*)$/.exec(location.hash);if(m)sq.value=decodeURIComponent(m[1]);sq.onfocus=function(){loadIdx(function(){})};sq.oninput=function(){show(sq,sres,40)};if(sq.value)show(sq,sres,40)}
 applyScope();hash();
 })();
