@@ -1259,3 +1259,69 @@ stamps, no TSV edits, new tags: none. gate R18 0 / R19 82; make check
 OK; build 177 pages, 48 assets; hash `29604b69da3781b89e6104819458ef95`
 twice. Next: volume-end coverage gate (roster locator, p.39/andou/
 morofuji hits), closing DONE stamp, then ship.
+
+y1v4 volume-end coverage gate
+
+Full-roster locator sweep (walk_locate.py locate --vol y1v4, all 255
+ids) classified against every ledger citation by a read-only comparison
+script (/tmp/opencode/finalgap3.py — prints only, never writes a
+ledger): 280 real gap pages vs substring/honourific false positives.
+FP discards with page evidence: aga/against (239 hits), iki/like (82),
+ike “like” (174), yano/Ayanokōji (69), yanagi/Sakayanagi (4),
+kimura and yuki/Yukimura (68 each), miya/Hoshinomiya and Komiya (9),
+kaga/Sakagami (1), etou in “detour” (1), fuji (1), housen (10 — no
+printed form in the volume at all), ichino/ichinose (77), mori-nene
+(11), satou (1), toba (1), kitou (2), nishi/Nakanishi (1), oda (16),
+sonoda-chiyo (1), ninomiya-kuranosuke (1), minami-setsuya (2),
+horikita-manabu sharing Suzune’s surname pages (81), hoshinomiya
+achien* substring (9), tokitou (2), andou substring hits (7),
+karuizawa p.2 (the table of contents), and the STOP-word filter on
+sotomura/the single-token noise. Every remaining real gap page
+carrying a roster ledger got hand-written rows this session — 30
+people ledgers, 605 added lines, paraphrase rows in page order placed
+at each chapter’s boundary stamp (no quotation marks, so no new quote
+surface for verify). Three characters crossed the scenes threshold and
+gained pages: morishige-takurou, morofuji-rika, takemoto-shigeru
+(build 177 → 180 pages, 48 → 51 assets).
+
+Mid-gate R19 regression caught by make check: baseline 82 → 142 from
+second-person paraphrases in the new rows (reported speech written
+unquoted). Fixed by rewriting all twenty offending rows to third
+person across ayanokouji-kiyotaka (7), horikita-suzune (8),
+karuizawa-kei (3), hirata-yousuke (1), yukimura-teruhiko (1); R19
+back to 82/82 with no wording churn. The repair pass also corrected
+four attribution/scene errors the evidence pages showed: p.13’s counter
+is Hirata’s, not Kushida’s; p.171 and p.178 are Ayanokōji’s cover
+lines, not Hirata’s; p.166 is the middle-of-the-night Chabashira call
+at the pool deck, not the Ichinose meeting; p.65’s café question is
+Horikita’s, p.188’s realisation is Manabe’s, p.198’s stammer is
+Karuizawa’s.
+
+Named-only entities (no ledger file; recorded in the chapter sections
+or here): 24 ids — the ch3 p.64 roster dump (andou-sayo,
+matoba-shinji, nishikawa-ryouko, oda-takumi, sonoda-masashi,
+suzuki-hidetoshi, tsube-hitomi, yano-koharu), the ch3 p.100 roster
+dump (kobashi-yume, matsushita-chiaki, ninomiya-yui, nishi-haruka,
+nomura-yuuji, sawada-yasumi, shimizu-naoki, watanabe-norihito,
+yashima-mariko, tokitou-hiroya), ichihashi-ruri and maezono (p.27),
+morimiya (p.54), tomose-shunsaku (p.247), and minami-hakuo (pp.113,
+236 as “Minami-kun”, first name not printed). Name resolutions:
+characters.tsv andou-sayo aliases extended to Andou Saya; Ando Saya
+(both spellings printed by the corpus), morofuji-rika gained the rika
+alias (bare “Rika” in the stairwell lines is her); the p.54 Tokitō is
+hiroya or katsumi, not printed — excluded from both ledgers and noted
+in ch2; p.2 is the table of contents (no prose); p.244’s author-note
+reference to Ayanokouji Kiyotaka’s past carries a real row on his
+ledger; the ch2 roster-only note is superseded — every p.39 name that
+now has a ledger carries a row (machida, hamaguchi, manabe, ibuki,
+beppu, takemoto, yabu, yamashita, morishige, ichinose, and the ch4-opened
+files). The volume file gained its closing stamp
+<!-- walk: y1v4 postscript → DONE -->; the byte-identical duplicate
+ch5 and ch6 boundary stamps were reduced to one each (§6 one stamp per
+chapter; no content rows touched).
+
+Verify 1074 [says] + 316 non-says ALL PASS; gate exit 0 (R18 0, R19
+82/82); make check OK (R19 82/82); build 180 pages, 51 assets; hash
+`deae8e046450e1f875866cd52c55febc` twice. New tags: none. Open:
+search Tier 2/3 (fuzzy/typo tolerance and speed) is next per the
+owner, then y1v5.

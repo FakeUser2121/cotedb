@@ -71,3 +71,9 @@ aliases used for anchors: sakagami, sakagami-sensei
 ## y1v4
 
 <!-- walk: y1v4 → start -->
+
+### y1v4 p.122 — Ch.3: named in the teachers’ corner
+[scene] (p.122) Hoshinomiya names him while she drinks with Chabashira and Mashima.
+[note] (p.122) Sakagami-sensei is called part of the problem in how the classes are evaluated.
+
+<!-- walk: y1v4 ch3 → p.124 -->

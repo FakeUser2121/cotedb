@@ -6,6 +6,18 @@ char_id: morishige-takurou · class: Class 1-A · status: minor (allies)
 
 <!-- walk: y1v4 → start -->
 
+### y1v4 p.39 — Ch.2: named on the Rabbit roster
+[scene] (p.39) The Rabbit group roster prints his name among Class A’s three.
+[note] (p.39) Listed as Morishige Takurou with Takemoto Shigeru and Machida Kouji.
+
+<!-- walk: y1v4 ch2 → p.62 -->
+
+### y1v4 p.108 — Ch.3: pointed out in the Class A seat
+[scene] (p.108) Machida names the student beside him during the strategy talk.
+[note] (p.108) Machida looks at Morishige, then refocuses on Ichinose with his usual calm.
+
+<!-- walk: y1v4 ch3 → p.124 -->
+
 ### y1v4 p.155–158 — Ch.4 §4.2: the silent Class A seat
 [scene] (p.155) Enters alone after Machida and Takemoto, sits far end by the Class C girls, and shows no human emotion for the whole hour.
 [trait] (p.155) “Morishige came in by himself” — apart from the group he still keeps the corner.

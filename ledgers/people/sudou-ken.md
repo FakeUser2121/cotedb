@@ -491,6 +491,13 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y1v4 ch2 → p.62 -->
 
+### y1v4 p.100–101 — Ch.3: on Sakura’s Cow roster
+[scene] (p.100) The Cow roster and Ayanokōji’s sympathy both name him as one of the Class D boys Sakura is stuck with.
+[note] (p.100) Listed as Sudou Ken in Class D with Sakura, Ike, and Matsushita.
+[note] (p.101) Ayanokōji rules him and Ike out as contacts for Sakura.
+
+<!-- walk: y1v4 ch3 → p.124 -->
+
 ### y1v4 p.183, 195 — Ch.4 §4.5–4.7: the Cow name and the warning
 [scene] (p.183) Named in Sakura’s Cow-group VIP uncertainty, then again as Ayanokōji’s example that eye-for-eye brings a school investigation.
 [rel:sakura-airi] (p.183) “I’m not sure about Sudou-kun or, um, the others” — the only Cow-roster name she speaks.

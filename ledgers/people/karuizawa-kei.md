@@ -155,12 +155,24 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y1v4 ch1 → p.11 -->
 
+### y1v4 p.14–16 — Ch.2: the lunch promise and the cancelled plans
+[scene] (p.14) Named through the hallway lunch talk — the promise Ayanokōji already has with her.
+[note] (p.14) Sakura’s admirer read: the guy adored him, and he had a girlfriend named Karuizawa — a man with so much happiness probably couldn’t understand loneliness.
+[note] (p.14) Hirata invites Ayanokouji to the 12:30 lunch with Karuizawa-san and the others, calling it really fun.
+[note] (p.15) Asked whether he already promised Karuizawa, the reply keeps her lunch for any time and saves this one for Ayanokouji-kun.
+[note] (p.16) Ayanokōji hears Hirata flatly tell Karuizawa he’s cancelling their plans over the phone — then hangs up abruptly.
+
 ### y1v4 p.20 — Ch.2 §2.0: she reclaims the table
 [scene] (p.20) Crash of the deck lunch: she arrives with her girls and reclaims Hirata from the table Ayanokōji just fled.
 [says] (p.20) “Ah, so you’re here after all, Hirata-kun. Let’s eat lunch together!”
 [action] (p.20) The girls pull chairs from another table, push Ayanokōji away, and circle Hirata — peaceful to noisy in seconds.
 [trait] (p.20) Happy and carefree in tone while overriding the cancellation; monopolising him is her default.
 [rel:hirata-yousuke] (p.20) Takes the lunch he cancelled as if it were never made.
+
+### y1v4 p.21, p.27 — Ch.2: monopolised, then the boss read
+[scene] (p.21) Named in the reason Ayanokōji leaves the floor for his cabin.
+[note] (p.21) After Karuizawa monopolized Hirata, he decides to return to his room — nobody else to talk to.
+[note] (p.27) Among the Class C girls, Shinohara had a close relationship with Karuizawa — Karuizawa was like her boss, really.
 
 ### y1v4 p.33–36 — Ch.2 §2.3: the fourth seat of the zodiac group
 [scene] (p.33) Fourth seat of the Class D zodiac group; arrives to find three boys and a teacher, and questions it immediately.
@@ -203,6 +215,10 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y1v4 ch2 → p.62 -->
 
+### y1v4 p.65 — Ch.3: the score-similarity name-drop
+[scene] (p.65) Named in the grade-grouping hypothesis as Ayanokōji’s closest score match.
+[note] (p.65) The café question comes from Horikita: Ayanokouji-kun’s grades are very similar to Karuizawa-san’s — are they grouping everyone based on their scores?
+
 ### y1v4 p.80–93 — Ch.3 §3.1: the Rabbit votes and Manabe’s phone
 [scene] (p.80) Enters the Rabbit room with Ayanokōji’s party, isolates herself beside Ibuki, votes bluntly through the strategy debate, and ends the half by knocking Manabe’s phone out of her hand.
 [note] (p.80) The line “Ugh. No matter how you look at it, we really do have the worst team.” sits immediately before “Karuizawa entered the room” with no speaker tag — the translation leaves it unassigned; her entrance follows on the same page.
@@ -234,6 +250,10 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:machida-kouji] (p.95) The Class A boy she begs and thanks.
 [rel:ibuki-mio] (p.94) Ibuki’s scorn for Manabe is the only Class C support she gets.
 
+### y1v4 p.97 — Ch.3: acting strangely again
+[scene] (p.97) Named in the check on whether she had been acting oddly since the test began.
+[note] (p.97) Asked whether Karuizawa was acting strangely, Yukimura answers that she’s always acting strangely.
+
 ### y1v4 p.107–109 — Ch.3 §3.4: the background-character file
 [scene] (p.107) Second gathering: complains the VIP hunt is unfair, gets Ichinose’s comfort, then sighs back to her phone while Ayanokōji writes her up as off-pattern.
 [says] (p.107) “But can we really find the VIP by talking? I just don’t think we can. It’s just, like, this test is so unfair. It’s too hard. The VIP has way too much of an advantage,” said Karuizawa.
@@ -246,6 +266,11 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:manabe-shiho] (p.109) Named as above her in the room’s hierarchy.
 [rel:hirata-yousuke] (p.109) The contrast who “was always Hirata.”
 [rel:kushida-kikyou] (p.109) The contrast who “was always Kushida.”
+
+### y1v4 p.110–111 — Ch.3: the planted café story
+[scene] (p.110) Named as the subject of the fabricated fight Ayanokōji feeds Manabe in the elevator.
+[note] (p.110) He opens with the story of her problem with Karuizawa — pushing someone at the café — then claims he’s not 100% sure but saw her fight with a girl from another class.
+[note] (p.111) The fuse is lit; he wants to find out how the newly docile Karuizawa will respond.
 
 <!-- walk: y1v4 ch3 → p.124 -->
 
@@ -266,6 +291,10 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:machida-kouji] (p.137) Crosses the room to sit beside Machida as a defensive measure against Manabe; accepts his protection offer.
 [says] (p.137) “Thank you, Machida-kun,” she replied.
 [rel:manabe-shiho] (pp.137) The Class C girls’ side of the room is why the Machida seat is the correct decision (his read).
+
+### y1v4 p.152 — Ch.4: the unsaid clear
+[scene] (p.152) Named in the VIP exchange where her status is known but withheld.
+[note] (p.152) Ayanokōji says he doesn’t really know about Karuizawa or the Professor — err, Sotomura — having heard from Yukimura that neither was the VIP, and leaving that part unsaid.
 
 ### y1v4 p.155–176 — Ch.4 §4.2–4.4: the seat, the stairwell, the breakup
 [scene] (p.155) Evening room: seat war with Manabe over Machida, the corridor chase, the stairwell cornering over Rika, then the 2 a.m. vending-machine meeting where the Hirata farce ends.
@@ -309,6 +338,19 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:shinohara-satsuki] (p.174) Named in the “I didn’t have any choice!” excuse — Shinohara and the others were there.
 [trait] (pp.157-158) The overbearing Machida seat as caste maintenance: leader of the Class D girls, Hirata’s girlfriend, now the palm of Machida’s hand — root cause still unreadable to him until the “to protect herself” answer.
 [rel:ayanokouji-kiyotaka] (p.172) Fury at his presence in the private meeting; later throws the juice and flees both of them.
+
+### y1v4 p.177–188 — Ch.4: the true self and the revenge pitch
+[scene] (p.177) Named through Hirata’s relationship audit — the fake dating arrangement is laid bare.
+[note] (p.177) Hirata and Karuizawa’s relationship shows no signs of change for better or worse; she had asked him to pretend to go out with her, and he honored the request.
+[note] (p.178) Doubt that she only used Hirata and the others to get to the top — and the growing sense of discovering Karuizawa Kei’s true self: it’s to protect herself.
+[note] (p.179) Hirata confirms he agreed to act as her boyfriend so she could protect herself; her hyperventilation traces to memories of her past.
+[note] (p.180) The cost to him: popular with girls, he couldn’t pursue a relationship with anyone else — his answer was that Karuizawa-san wasn’t being bullied.
+[note] (p.182) The impossible choice is put to Hirata — save both Karuizawa and Manabe is not possible — and he pledges not to involve himself in the Karuizawa issue.
+[note] (p.184) The plan’s order: contact Hirata first, then have him call Karuizawa.
+[note] (p.185) The assumption behind the call: if Hirata asked to speak with her alone, she’d respond — she had said she was breaking up.
+[note] (p.186) The anonymous pitch to Manabe is all about Karuizawa-san, the person she hates — revenge offered since he can’t go after her directly from Class D.
+[note] (p.187) The pitch warns that Karuizawa-san’s words could hurt Rika-chan and that a grudge could drive her to bully Rika further.
+[note] (p.188) The deal closes on her classmate’s access: Manabe works out that Ayanokouji, as Karuizawa’s classmate, can call her.
 
 ### y1v4 p.189–203 — Ch.4 §4.6–4.7: the lowest level
 [scene] (p.189) Lured to the switchboard room early, cornered with Rika and Manabe’s trio, beaten under the Milgram frame, then broken open and bound to Ayanokōji with the stairwell photo.
@@ -372,6 +414,10 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y1v4 ch4 → p.204 -->
 
+### y1v4 p.205 — Ch.5: obedient, for now
+[scene] (p.205) Named in the check that the planted picture held Manabe’s group in line.
+[note] (p.205) The picture he sent had its desired effect — they were being obedient, and Karuizawa was acting normal, too.
+
 ### y1v4 p.222–224 — Ch.5 §5.2: the strap phone
 [scene] (p.222) Hands over the phone with the strap under the show; claims private-points motive; shock at Yukimura’s VIP email sells the room.
 [says] (p.222) “I’m doing this for my own sake. I want those private points,” said Karuizawa.
@@ -379,6 +425,10 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [says] (p.224) Karuizawa looked genuinely shocked and uneasy. (narration of her face at the reveal)
 [rel:ayanokouji-kiyotaka] (p.222) Her clean email supports the swap dam; no word to him in the room.
 [trait] (p.222) The points line matches her standing greed — motive nobody questions for showing.
+
+### y1v4 p.225 — Ch.5: named in the cover trio
+[scene] (p.225) Named as one of the three who would agree the reveal was for the best.
+[note] (p.225) Yukimura: he is sure Ayanokouji, Sotomura, and Karuizawa would agree this was for the best.
 
 ### y1v4 p.231–241 — Ch.5 §5.2–5.3: named, then seated
 [scene] (p.231) The real VIP whose name Ichinose types; §5.3 opens with her meek café arrival, the insurance question, and the girls-side no-betrayal report that settles Horikita’s worry.

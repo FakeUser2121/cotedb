@@ -6,6 +6,12 @@ char_id: manabe-shiho · class: Class 1-C · status: minor
 
 <!-- walk: y1v4 → start -->
 
+### y1v4 p.39 — Ch.2: named on the Rabbit roster
+[scene] (p.39) The Rabbit group roster prints her name among Class C’s four.
+[note] (p.39) Listed as Manabe Shiho with Ibuki Mio, Yabu Nanami, and Yamashita Saki.
+
+<!-- walk: y1v4 ch2 → p.62 -->
+
 ### y1v4 p.82–93 — Ch.3 §3.1: Class C alignment and the Rika charge
 [scene] (p.82) Follows Karuizawa into the Rabbit room’s first yes, votes the convenient plan with the Class C block, then crosses the circle to confront Karuizawa with a summer story.
 [says] (p.88) “I agree. Everyone sharing the same answer would be the most rewarding result, but if anyone lied or betrayed us, we’d be doomed. Finding the VIP just isn’t realistic.”
@@ -39,6 +45,12 @@ char_id: manabe-shiho · class: Class 1-C · status: minor
 [rel:karuizawa-kei] (pp.94–96) The picture target and the foot that lands on her.
 [rel:machida-kouji] (p.95) The Class A arbiter who stops her.
 [rel:ibuki-mio] (pp.94–95) Scorned as an outsider; the hierarchy keeps Manabe from answering back.
+
+### y1v4 p.108–109 — Ch.3: named in the second-gathering read
+[scene] (p.108) Named in Ayanokōji’s list of things that had been off with Horikita, then in the hierarchy read of Karuizawa’s behavior.
+[note] (p.108) The list of Horikita’s recent odd moves: Karuizawa, the reunion with Ibuki, confronting Manabe.
+[note] (p.109) Ayanokōji places Karuizawa below Manabe and the other Class C girls in the group’s hierarchy — maybe why she was acting strangely.
+
 ### y1v4 p.110–111 — Ch.3 §3.4: the elevator fuse
 [scene] (p.110) Trailing Class C out of the second discussion, Ayanokōji stops her with the fabricated Karuizawa café story.
 [says] (p.110) “I heard about your problem with Karuizawa. Something about her pushing someone at the café, right?” (Ayanokōji’s opener; recorded here as the row that lands on her)
@@ -80,6 +92,15 @@ char_id: manabe-shiho · class: Class 1-C · status: minor
 [rel:yabu-nanami] (p.163) Named with Manabe and Yamashita as the three who tear the face apart.
 [trait] (p.161) “She should understand exactly how Rika felt. Why don’t we bully her for real?” — the line that crosses from cornering to striking.
 
+### y1v4 p.172–175, p.180, p.182 — Ch.4: the fight named in Hirata’s concern
+[scene] (p.172) Her name runs through Hirata’s call with Karuizawa and his talk with Ayanokōji about the stairwell fight.
+[note] (p.172) Hirata asks Karuizawa about the fight with Manabe-san from Class C, then asks Ayanokōji whether he knew about the fight with Manabe-san and the others.
+[note] (p.173) He weighs reprimanding them against reporting them, and says that if Manabe-san and her friends got violent, action must be taken.
+[note] (p.174) He proposes finding a way to get along with Manabe-san and her friends — protecting Karuizawa without hurting them for no real reason.
+[note] (p.175) His worry covers Manabe and her friends as well; he intends to speak with them in the morning and tell them to stop harassing Karuizawa.
+[note] (p.180) Ayanokōji notes Hirata’s concern for others is downright pathological — he considered Manabe and the others friends, too.
+[note] (p.182) Ayanokōji puts the impossible choice to him: he wants to save both Karuizawa and Manabe, and that is not possible.
+
 ### y1v4 p.185–193 — Ch.4 §4.5–4.6: the anonymous buyer and the subject
 [scene] (p.185) Accepts the sub-account revenge pitch, brings Rika into the switchboard room at four, runs the Milgram frame on Karuizawa, and invites Rika to strike.
 [rel:ayanokouji-kiyotaka] (pp.185-188) The anonymous Class D classmate who hates the same person — trust won with “show this chat log to the teachers”; she never learns the sender.
@@ -114,7 +135,18 @@ char_id: manabe-shiho · class: Class 1-C · status: minor
 [says] (p.193) “No, no, that’s no good at all. You need to put more force into it, like this.”
 [rel:ryuuen-kakeru] (p.202) His Class C is the external threat Ayanokōji cites — further harassment would land them in trouble with him.
 
+### y1v4 p.194–196, p.198 — Ch.4: the aftermath named
+[scene] (p.194) Named as the condition of Karuizawa’s fear once Ayanokōji re-enters the room alone.
+[note] (p.194) He confirms Manabe and her friends are gone before entering; he credits the advice he gave them for the state of Karuizawa’s uniform.
+[note] (p.195) Karuizawa swears she will not let Manabe and her friends get away with it; Ayanokōji notes the school would expose the violence if word got out.
+[note] (p.196) There is no guarantee they would stop — she could not keep playing hide-and-seek with Manabe forever.
+[note] (p.198) Ayanokōji tells her he knows everything, including that Manabe and her friends tortured her to the point of bawling.
+
 <!-- walk: y1v4 ch4 → p.204 -->
+
+### y1v4 p.205 — Ch.5: obedient, for now
+[scene] (p.205) Named in Ayanokōji’s check that the planted picture held her group in line.
+[note] (p.205) He was concerned Manabe and her friends would confront Karuizawa again, but the picture he sent had its desired effect — they were being obedient.
 
 ### y1v4 p.222–223 — Ch.5 §5.2: the shouted objection
 [scene] (p.222) Screams that the show gains nothing, then is ordered into it by Ibuki and complies with her friends.
@@ -131,5 +163,9 @@ char_id: manabe-shiho · class: Class 1-C · status: minor
 [trait] (p.225) Narration: the password-show worked because preconceived notions beat deduction — she never questions the owner.
 [rel:ichinose-honami] (p.228) Nods at the thirty-minute plea and leaves with the rest of Class C.
 [note] (pp.225-228) No further line of her own; the row records her presence in the verdict and exit.
+
+### y1v4 p.231 — Ch.5: the confession of use
+[scene] (p.231) Named in Ayanokōji’s final accounting of how the swap was pulled off.
+[note] (p.231) He tells Karuizawa that after he used Manabe to bully her, he took the opportunity to swap their phones.
 
 <!-- walk: y1v4 ch5 → p.243 -->

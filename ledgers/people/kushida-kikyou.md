@@ -523,6 +523,11 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y1v4 → start -->
 
+### y1v4 p.15, p.18 — Ch.2: one of the three, and the old push
+[scene] (p.15) Named in the first-semester recollection of the only people Ayanokōji could talk to.
+[note] (p.15) Listed with Horikita and Sakura as the three he talked with — his school life hadn’t been all that bad.
+[note] (p.18) Her push for friendship with Horikita in the café during the first semester is cited as proof that pushing would only make her distance herself further.
+
 ### y1v4 p.27–31 — Ch.2 §2.2: the hallway interrupt and the message compare
 [scene] (p.27) Exits a second-deck room into the hallway mid-meeting-plan; interrupts Sakura’s appeal, then compares school messages with Ayanokōji.
 [says] (p.27) “Huh? Ayanokouji-kun and Sakura-san? What are you doing here?”
@@ -556,6 +561,12 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:horikita-suzune] (p.64) Dragon groupmate on the biased list.
 [rel:hirata-yousuke] (p.64) Dragon groupmate on the same line.
 
+### y1v4 p.77, p.84, p.109 — Ch.3: the check on Horikita and the popularity bar
+[scene] (p.77) Named as one of the two who might keep Horikita in check.
+[note] (p.77) Despite powerful foes, Horikita was indomitable — Hirata and Kushida would hopefully keep her in check.
+[note] (p.84) In the talent comparison, even Hirata and Kushida might find themselves outmatched, despite their overabundance of friends.
+[note] (p.109) Kushida was always Kushida — and Karuizawa probably rivaled Kushida in terms of popularity.
+
 ### y1v4 p.113, p.117–121 — Ch.3 §3.5–§3.6: the VIP name and the starlit hug
 [scene] (p.113) Named Dragon VIP on Hirata’s erased screen; four pages later alone on the night deck among the couples, she hugs Ayanokōji and flees.
 [status] (p.113) “Dragon Group, Kushida-san.” — the VIP position in the extremely well-stacked Dragon group is an enormous advantage and terrifying: “Once they knew her identity, she was at their mercy.”
@@ -572,7 +583,16 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [trait] (p.117) Jersey after a bath, complimentary-shampoo scent that somehow is not that scent; alone among couples; the narrator’s chest tightens imagining a boyfriend.
 [rel:ayanokouji-kiyotaka] (pp.117–121) The night-deck encounter and the hug neither of them can explain.
 
+### y1v4 p.116 — Ch.3: the ringleaders
+[scene] (p.116) Named as one of the two ringleaders Ayanokōji considers using.
+[note] (p.116) The ringleaders were Hirata and Kushida — using them is muttered as impossible with three days left.
+
 <!-- walk: y1v4 ch3 → p.124 -->
+
+### y1v4 p.127, p.140 — Ch.4: outer and inner, then the star player
+[scene] (p.127) Named as an example of the gap between a person’s outer and inner selves.
+[note] (p.127) Innermost thoughts aren’t immediately apparent — take Kushida, Ibuki, or even me.
+[note] (p.140) With Horikita and Hirata, she is called a star player in the Class D line-up.
 
 ### y1v4 p.144–149 — Ch.4 §4.1: the invitation inside
 [scene] (p.144) Spots Ayanokōji and Ichinose in the Dragon corridor, waves them into the three-way, then exits when Ryuuen leaves with “My friends are calling me.”

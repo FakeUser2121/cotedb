@@ -1234,3 +1234,20 @@ ledgers touched; 177 pages, 48 assets unchanged in count. Quotes: 1074
 [says] + 316 non-says, all corpus-exact. R18/R19 held at 0/82.
 Determinism hash across consecutive builds:
 `29604b69da3781b89e6104819458ef95`.
+
+### y1v4 volume-end coverage gate reaches the site (site, 2026-11-05)
+
+The full-roster gate closed: 30 people ledgers gained hand-written
+mention rows (605 lines), three characters crossed the scenes
+threshold and gained pages (morishige-takurou, morofuji-rika,
+takemoto-shigeru) — 180 pages, 51 assets, search index rebuilt. A
+mid-gate R19 regression (82 → 142 second-person hits in unquoted
+reported speech) was repaired by rewriting twenty rows to third
+person; three speaker corrections rode along (p.13 Hirata, pp.171/178
+Ayanokōji) plus three speaker identifications (p.65 Horikita, p.188
+Manabe, p.198 Karuizawa) and the p.166 scene relabel. characters.tsv
+andou-sayo and morofuji-rika alias cells extended. Quotes: 1074
+[says] spans (31 skipped as too short) + 316 non-says, all
+corpus-exact. R18/R19 held at 0/82 after the repair. Determinism
+hash across consecutive builds:
+`deae8e046450e1f875866cd52c55febc`.

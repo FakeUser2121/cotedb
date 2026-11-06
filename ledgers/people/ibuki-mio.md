@@ -208,6 +208,13 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [scene] (p.16) Named once as the underwear culprit; Ayanokōji asks whether Karuizawa got hers back.
 [note] (p.16) Hirata confirms the fallout: naming her resolved things — “When she heard Ibuki-san was the culprit, things went smoothly.”
 
+### y1v4 p.39 — Ch.2: named on the Rabbit roster
+[scene] (p.39) The Rabbit group roster prints her name among Class C’s four.
+[note] (p.39) Listed as Ibuki Mio with Manabe Shiho, Yabu Nanami, and Yamashita Saki.
+[note] (p.39) Ayanokōji notes he knows Ichinose from Class B and Ibuki from Class C — teammates now.
+
+<!-- walk: y1v4 ch2 → p.62 -->
+
 ### y1v4 p.68–75, p.88 — Ch.3 §3.0–§3.1: the café shadow and the Rabbit holdout
 [scene] (p.68) Walks into Blue Ocean at Ryūen’s side as the island spy Horikita caught; later sits silent through the whole Rabbit first discussion until Ichinose calls her name.
 [says] (p.69) “I’m not so stupid that I’d let someone like her see through me. Things were simply more difficult because of my fever.” (on losing to Horikita)
@@ -225,6 +232,10 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:karuizawa-kei] (pp.80, 88) The girl whose underwear she stole on the island — they share the Rabbit room without speaking.
 [rel:ichinose-honami] (p.88) Answers only when Ichinose asks her by name.
 
+### y1v4 p.76 — Ch.3: the café shadow
+[scene] (p.76) Named in the read of who was watching the café meeting.
+[note] (p.76) Asked whether Ibuki-san was the culprit of the watch, the answer floats: maybe forced to keep an eye on them, maybe just passing — but she wasn’t tired, and she was walking with Ryuuen, so she was likely involved.
+
 ### y1v4 p.94–95 — Ch.3 §3.1: the outsider’s verdict
 [scene] (p.94) Watches the Manabe–Karuizawa picture fight from the circle and speaks once, as an outsider.
 [says] (p.94) “Stupid,” said Ibuki.
@@ -234,12 +245,25 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:manabe-shiho] (pp.94–95) Above her in the Class C pecking order.
 [rel:karuizawa-kei] (p.94) The only Class C voice that does not pile on her.
 
+### y1v4 p.97, p.108 — Ch.3: the holdout and the odd-moves list
+[scene] (p.97) Named as one of the last left in the Rabbit room after the first discussion breaks up.
+[note] (p.97) The last people in the room are the three Class B students and Ibuki.
+[note] (p.108) Appears in Ayanokōji’s list of things that had been off with Horikita since the test began: Karuizawa, the reunion with Ibuki, confronting Manabe.
+
 <!-- walk: y1v4 ch3 → p.124 -->
+
+### y1v4 p.127 — Ch.4: outer and inner
+[scene] (p.127) Named as an example of the gap between a person’s outer and inner selves.
+[note] (p.127) Innermost thoughts aren’t immediately apparent — take Kushida, Ibuki, or even me.
 
 ### y1v4 p.128 — Ch.4 §4.0: not at the shade meeting
 [scene] (p.128) Named once as absent from Ryuuen’s side when he drops into the Horikita conversation.
 [rel:ryuuen-kakeru] (p.128) “He wasn’t with Ibuki, apparently” — the usual pair is split for this scene.
 [note] (p.128) No dialogue and no further presence in the range.
+
+### y1v4 p.155 — Ch.4: apart from Ichinose
+[scene] (p.155) Named as one of the two Class B girls not staring at Machida.
+[note] (p.155) Apart from Ichinose and Ibuki, the girls seemed interested in Machida.
 
 ### y1v4 p.159 — Ch.4 §4.2: the absent buffer
 [scene] (p.159) Named as the Class C girl who might have mitigated the trio on Karuizawa’s tail — and she wasn’t around.

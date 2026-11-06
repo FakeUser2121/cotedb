@@ -144,6 +144,10 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [says] (p.23) “No, no, I’ve no real business with you. I’ve simply acknowledged you because we are schoolmates. Also, though we are certainly not alike in terms of position, you are my roommate.”
 [rel:ayanokouji-kiyotaka] (p.23) “little Ayanokouji”; confirms the cabin roommate pairing and splashes him mid-sentence.
 
+### y1v4 p.26 — Ch.2: the roommate question
+[scene] (p.26) Named in a question about who rooms with whom.
+[note] (p.26) A question in the hallway confirms the roommates: Ayanokōji with Hirata, Kouenji, and Yukimura.
+
 ### y1v4 p.52 — Ch.2 §2.4: absent from the room
 [scene] (p.52) Named only as missing: when Ayanokōji wakes in the cabin at 20:30, the narration notes the room’s other occupants are gone.
 [note] (p.52) “Neither Yukimura nor Kouenji were in the room.” — absent from the third-deck cabin while Hirata straightens his luggage.
@@ -180,6 +184,10 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:ayanokouji-kiyotaka] (p.125) The roommate who says there is nothing he can do now — no use crying over spilt milk.
 [rel:ryuuen-kakeru] (p.130) Ryuuen waves off the Monkey-group end as small fry when Horikita asks.
 [note] (p.125) No direct appearance in this range; every row is other people reporting the act.
+
+### y1v4 p.183 — Ch.4: the early end set aside
+[scene] (p.183) Named in the tally of the hour’s betrayals — his Monkey exit held apart from them.
+[note] (p.183) The narration sets aside the time Kouenji got carried away and ended the test for his group; right now it seemed that people were betraying each other.
 
 <!-- walk: y1v4 ch4 → p.204 -->
 

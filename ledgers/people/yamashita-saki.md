@@ -6,6 +6,12 @@ char_id: yamashita-saki · class: Class 1-C · status: minor (allies)
 
 <!-- walk: y1v4 → start -->
 
+### y1v4 p.39 — Ch.2: named on the Rabbit roster
+[scene] (p.39) The Rabbit group roster prints her name among Class C’s four.
+[note] (p.39) Listed as Yamashita Saki with Ibuki Mio, Manabe Shiho, and Yabu Nanami.
+
+<!-- walk: y1v4 ch2 → p.62 -->
+
 ### y1v4 p.161–163 — Ch.4 §4.2: the stairwell trio
 [scene] (p.161) Loses patience first in the cornering — “Karuizawa’s unforgivable” — and strikes her shoulder with extra force.
 [rel:manabe-shiho] (p.161) “Shiho-chan. I’ve had enough. Karuizawa’s unforgivable.” — the Manabe address that starts the strike.

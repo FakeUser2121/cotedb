@@ -415,6 +415,14 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [note] (p.34) The narrator contrasts her with Mashima: where she seems “unmotivated and unnaturally uncooperative,” he is “impossible to read.”
 [rel:ayanokouji-kiyotaka] (p.12) Still holds him with the Class A ultimatum three days after the island test.
 
+### y1v4 p.121–122 — Ch.3: in the teachers’ corner
+[scene] (p.121) She shares a sofa with Hoshinomiya and Mashima as Ayanokōji approaches.
+[note] (p.121) Named in the three-teacher group he finds relaxing off the deck.
+[note] (p.122) Sips her drink like a cocktail while Hoshinomiya downs whiskey in one gulp.
+[note] (p.122) The conversation turns familiar — she is called Sae-chan and asked about her focus on Ayanokōji.
+
+<!-- walk: y1v4 ch3 → p.124 -->
+
 ### y1v4 p.166–169 — Ch.4 §4.3: the midnight point question
 [scene] (p.166) Meets Ayanokōji by the night pool after his call; answers the buy-anything exceptions question, survives Hoshinomiya’s drunk interruption, and gets asked for a future favour.
 [says] (p.166) “Sorry to keep you waiting, Ayanokouji.”

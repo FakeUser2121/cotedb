@@ -339,6 +339,13 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y1v4 ch2 → p.62 -->
 
+### y1v4 p.64–65, p.75, p.80 — Ch.3: the misplaced leader
+[scene] (p.64) Named in the roster anomaly — Class B’s star in Rabbit, not Dragon.
+[note] (p.64) It feels unnatural for Ichinose to be in Rabbit and not Dragon; Horikita’s reply: only the Class B students know if she’s really excellent — a leader’s worth isn’t scored yet.
+[note] (p.65) The finer details of Ichinose’s abilities are unknown; perhaps her academic scores were unexpectedly low.
+[note] (p.75) Horikita asks Ryūen whether he’s concerned about anyone else — like Ichinose-san or Katsuragi-kun; he answers neither is his enemy and he could crush them any time.
+[note] (p.80) In the Rabbit room’s late arrival, aside from Ichinose and Ibuki, there was another student he recognized.
+
 ### y1v4 p.81–92 — Ch.3 §3.1: taking the lead in Rabbit
 [scene] (p.81) Stands into the awkward first discussion, runs introductions over Machida’s objection, then leads the room against Katsuragi’s no-discussion plan.
 [says] (p.81) “Your attention, please! I don’t know most of you, but I think we ought to introduce ourselves. After all, there are probably people here who haven’t met before,” she said.
@@ -401,7 +408,20 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:yukimura-teruhiko] (p.107) The other half of the information pair.
 [rel:hamaguchi-tetsuya] (p.110) Closes the session with him.
 
+### y1v4 p.101, p.115, p.122–123 — Ch.3: the stuck helper, the surprised leader, the spy
+[scene] (p.101) Named as one of the only people who could help Sakura — already stuck in Ayanokōji’s own group.
+[note] (p.101) The only people who could help were Ichinose and Kanzaki; Ichinose was already in his group, so she was stuck.
+[note] (p.115) With Katsuragi and Ryuuen, she would all be surprised by Kouenji’s early traitor move — probably no one had imagined it so soon.
+[note] (p.122) Hoshinomiya’s rabbit logic: as far as grades and attitude are concerned, Ichinose-san is number one — but a true place can’t be measured by numbers alone.
+[note] (p.123) Just knowing that Ichinose had been sent to spy on him was enough for the reconnaissance.
+
 <!-- walk: y1v4 ch3 → p.124 -->
+
+### y1v4 p.125, p.128, p.136 — Ch.4: the spy, the support, the wait
+[scene] (p.125) Named as the problem Ayanokōji carries out of the Karuizawa brief — the ones Hoshinomiya secretly sent.
+[note] (p.125) He has problems of his own, specifically with Ichinose and the others secretly sent by Hoshinomiya-sensei to spy on him.
+[note] (p.128) A counter claims he has no support like Ichinose-san and Katsuragi-kun do — only enemies, no reliable information.
+[note] (p.136) He could’ve killed time in the hall until Ichinose and the others arrived, but since he was first, leaving would look awkward.
 
 ### y1v4 p.137–151 — Ch.4 §4.1: cards, the castle gate, and the deck pledge
 [scene] (p.137) Arrives with the Class B trio, proposes cards over silence, walks Ayanokōji to Katsuragi, sits in on the Ryuuen three-way, and ends on the deck telling him she is not the VIP.
@@ -474,6 +494,14 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [says] (p.154) “Well, isn’t the point of this test for us to figure it out?” asked Ichinose.
 [trait] (pp.153-154) Her move turns the once-hopeless hour into extraction from people who want to hide — his read of the shift.
 
+### y1v4 p.155, p.157–158, p.167–168 — Ch.4: the arrival and the spy suspicion
+[scene] (p.155) Named as one of the two Class B girls not fixated on Machida.
+[note] (p.155) Apart from Ichinose and Ibuki, the girls seemed interested in Machida — Ayanokōji admits a little jealousy.
+[note] (p.157) Popular in her own class but low among her obvious enemies; then she arrives — Speak of the devil — bringing life into the depressing room.
+[note] (p.158) She opens the hour: will Class A not participate this time, either? — then offers to play cards again and takes out her cards immediately.
+[note] (p.167) Keen insight and sharp observation mean that, placed in Rabbit without knowing why, sooner or later she’d work it out.
+[note] (p.168) Hoshinomiya is bad at hiding emotions — Ichinose might soon discover she was put into the group to find out about Ayanokouji Kiyotaka.
+
 <!-- walk: y1v4 ch4 → p.204 -->
 
 ### y1v4 p.205–223 — Ch.5 §5.0–5.2: cards, the dream question, the show
@@ -518,6 +546,10 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [says] (p.223) “Ah, that? I had the same thing Hamaguchi said on my mind earlier, and wanted to talk about it. That’s it.”
 [says] (p.223) “As Class B’s representative, I’m a little jealous that Hamaguchi-kun beat me to the punch.”
 
+### y1v4 p.224 — Ch.5: the calm explainer
+[scene] (p.224) Named as the one who walks the doubtful Machida through the truth.
+[note] (p.224) Machida, after checking Yukimura’s private email and chat logs, confirmed the truth but still appeared doubtful — Ichinose tried to explain the situation calmly.
+
 ### y1v4 p.225–233 — Ch.5 §5.2: the call that ends it
 [scene] (p.225) Pleads with Class A for Outcome #1, then exposes the phone swap by calling it, lectures on the SIM lock she confirmed with Hoshinomiya-sensei, and admits she never intended to clear or betray.
 [says] (p.225) “Please. Cooperate with us. Don’t let Yukimura-kun’s courage go to waste. I don’t want you to betray us.”
@@ -554,5 +586,9 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [says] (p.233) “Ayanokouji-kun, you’re amazing. You know that? Our conversation just now proves how cunning you really are, doesn’t it?”
 [says] (p.233) “Wh-what does this mean?” asked Ichinose. (the four-note alert)
 [status] (p.233) The four-times-quick sound on both phones — the shock face before §5.3.
+
+### y1v4 p.236 — Ch.5: the parting interrupted
+[scene] (p.236) Named in the goodbye cut short by the four end-of-test emails.
+[note] (p.236) Just as he was about to part ways with Ichinose, four emails arrive in rapid succession announcing the end of the test.
 
 <!-- walk: y1v4 ch5 → p.243 -->

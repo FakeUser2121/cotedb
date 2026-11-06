@@ -265,6 +265,10 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [scene] (p.19) Named once, hypothetically — what he and Ike would have done at the deck restaurant.
 [note] (p.19) Ayanokōji’s aside: had they been there, they would have “foregone the food and feasted their eyes on the girls instead.”
 
+### y1v4 p.101 — Ch.3: asked after
+[scene] (p.101) Named in a check on whether he had contacted anyone since the discussion ended.
+[note] (p.101) The question whether Yamauchi has gotten in touch since the discussion ended is answered: no, he hasn’t — and the reply asks whether something is the matter.
+
 ### y1v4 p.103–105 — Ch.3 §3.3: the neck-grab and the camera stimulus
 [scene] (p.103) Ambushes Ayanokōji inside the ship over Sakura’s email, nearly chokes him, then walks out of the cabin door with a mission.
 [action] (p.103) Grabs Ayanokōji from behind and tightens on his neck until he taps out — “looking like some sort of oni or an asura.”

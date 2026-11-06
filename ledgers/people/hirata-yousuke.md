@@ -431,6 +431,17 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:horikita-suzune] (pp.17–19) Wants her friendship first, then a working relationship, and lacks the confidence to ask her directly.
 [rel:karuizawa-kei] (p.20) She arrives with her girls and takes the table back.
 
+### y1v4 p.21–22, p.24, p.26, p.35–37, p.50 — Ch.2: the monopolised floor and the wished-for partner
+[scene] (p.21) Named through the floor’s movements — Karuizawa has him, and Ayanokōji keeps circling back to the roommate.
+[note] (p.21) After Karuizawa monopolized Hirata, Ayanokōji decides to return to his room.
+[note] (p.22) On the Kouenji corridor scene, Hirata would probably try to speak with him, but he’d most likely be brushed off.
+[note] (p.24) He heads back to where Hirata and Yukimura, his other roommates, would be.
+[note] (p.26) A hallway question confirms the roommates: Ayanokōji with Hirata, Kouenji, and Yukimura.
+[note] (p.35) Karuizawa’s briefing complaint: what about Hiratakun? Or the other girls?
+[note] (p.36) She hates the team of boys — though being with Hirata-kun would be fine.
+[note] (p.37) She wails that Hirata-kun would have been so much better; the Professor offers to surpass the good Hirata-dono with three heads.
+[note] (p.50) She calls out to Hirata-kun about something she wanted to talk about, then strides off — probably going to complain to him.
+
 ### y1v4 p.52–53 — Ch.2 §2.4: the wake-up and the scattered explanations
 [scene] (p.52) In the third-deck cabin he straightens his luggage, puts on his uniform, and wakes Ayanokōji for the evening’s meetings.
 [says] (p.52) “I’m sorry. Did I wake you?”
@@ -464,6 +475,17 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:kushida-kikyou] (p.64) The other Class D name on the Dragon roster.
 [rel:ichinose-honami] (p.84) Named in her praise as a floor under her people-work.
 
+### y1v4 p.65, p.77, p.95–97, p.106, p.108–109 — Ch.3: the measure, the check, and the conduit
+[scene] (p.65) Named in the grade-theory comparison and the list of people who might steady Horikita.
+[note] (p.65) The score-theory line puts the gap between the speaker and the Professor beside the one with Hirata.
+[note] (p.77) Despite powerful foes, Horikita was indomitable — Hirata and Kushida would hopefully keep her in check.
+[note] (p.95) On the Karuizawa–Class C friction: Karuizawa already had Hirata, though.
+[note] (p.96) He says they’re heading back too — he wants to talk to Hirata about some things.
+[note] (p.97) He wanted opinions from people other than Hirata and Horikita on the strange test.
+[note] (p.106) A strong-character group might work if people like Hirata and Ichinose took the lead; the Class B ready-alliance pattern was like how Hirata operated.
+[note] (p.108) The joke read of Ibuki: maybe she was communicating with Hirata in real time so he could listen to their conversation.
+[note] (p.109) Whatever her reputation, she and Hirata often brought the class together — and Hirata was always Hirata, no matter the situation.
+
 ### y1v4 p.112–115 — Ch.3 §3.5: the trusted conduit
 [scene] (p.112) Waiting when Ayanokōji returns near midnight; shares the Yukimura info chat, whispers the two known VIPs, and shows them by phone.
 [says] (p.112) “Good work today, Ayanokouji-kun. You’re rather late,” said Hirata.
@@ -485,7 +507,15 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:kushida-kikyou] (p.113) Named Dragon VIP on his screen.
 [rel:ayanokouji-kiyotaka] (pp.112–113) Trusts him with the erased screen.
 
+### y1v4 p.116 — Ch.3: one of the two ringleaders
+[scene] (p.116) Named as the first of the pair Ayanokōji considers using.
+[note] (p.116) The ringleaders were Hirata and Kushida — using them is muttered as impossible with three days left.
+
 <!-- walk: y1v4 ch3 → p.124 -->
+
+### y1v4 p.126 — Ch.4: the route around him
+[scene] (p.126) Named as the contact to avoid when asking about Karuizawa.
+[note] (p.126) Ayanokōji’s note: Hirata probably remembered he’d passed on the lunch with Karuizawa, so he wanted to avoid asking him about this — the suggestion on the page is to talk to Hirata-kun instead.
 
 ### y1v4 p.131–144 — Ch.4 §4.0–4.1: the absent roommate and the corridor pass
 [scene] (p.131) Named as the better source on Dragon-group detail while Ayanokōji walks back to an empty room, then passes Ayanokōji in the Dragon doorway on day two.
@@ -493,6 +523,12 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:horikita-suzune] (p.131) Set up as the alternate Dragon-group lens beside her.
 [rel:ayanokouji-kiyotaka] (p.144) brief exchanged looks as they pass in the doorway — no line.
 [rel:kushida-kikyou] (p.144) Leaves the room with her before the three-way opens to Ichinose and Ayanokōji.
+
+### y1v4 p.156–157, p.164 — Ch.4: the dating arithmetic and the stairwell taunt
+[scene] (p.156) Named as the boyfriend in the room’s seating math around Karuizawa.
+[note] (p.156) She could say it with a straight face because she was already dating Hirata; Karuizawa was dating Hirata whether Machida knew it or not.
+[note] (p.157) Would Hirata have been able to get them a little more organized? — her influence grew by becoming Hirata’s girlfriend.
+[note] (p.164) The stairwell taunt on who she’d call: Hirata-kun? Machida-kun?
 
 ### y1v4 p.170–178 — Ch.4 §4.4: the farce ends at the vending machine
 [scene] (p.170) Slips out of the room at 2 a.m. into Ayanokōji’s hallway trap, takes him to Karuizawa’s meeting, and ends the fake dating on the spot when revenge is refused.
@@ -568,7 +604,23 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [says] (p.183) “Oh, Ayanokouji-kun. There is one more thing I’ve been hiding from you. I know the identity of the last VIP from Class D.”
 [feat] (p.183) The Class D VIP count closed from his side — withheld until the bargain is sealed.
 
+### y1v4 p.184–186, p.189, p.195, p.198, p.201 — Ch.4: the instrument of the plan
+[scene] (p.184) Named as the first call in the order that will spring the switchboard trap.
+[note] (p.184) The plan’s order: contact Hirata, then have him call Karuizawa — postponing a little means he needs to make the call.
+[note] (p.185) After their conversation last night, Hirata might be especially on his guard — but if he asked to speak with her alone, she’d respond.
+[note] (p.186) The anonymous chat’s read: she won’t leave Hirata-kun’s or Machida-kun’s side for a while.
+[note] (p.189) Over ten minutes before her arranged meeting with Hirata, she sits early to calm herself — and Hirata isn’t going to hear her muttering.
+[note] (p.195) Asked where’s Hirata-kun, the answer is that he was supposed to meet her here — the plan was to use him to stop Manabe and her friends.
+[note] (p.198) Karuizawa stammers whether the news came from Hirata-kun — the reply that Hirata is everyone’s ally, for better or worse, and will help anyone.
+[note] (p.201) The promise to her: I will be much more reliable than Hirata or Machida.
+
 <!-- walk: y1v4 ch4 → p.204 -->
+
+### y1v4 p.207–208, p.210 — Ch.5: the side he’s brought over
+[scene] (p.207) Named as the source of the Dragon VIP fact — and the man Ayanokōji claims to have handled.
+[note] (p.207) He’d already heard from Hirata that Kushida was the Dragon group’s VIP.
+[note] (p.208) To Horikita: I’ve brought Hirata over to our side — a lot of cooperation expected — and I’ll handle him and maintain things.
+[note] (p.210) When Hirata and the others left the room, he headed to the meeting alone, with half the period still to run.
 
 ### y1v4 p.231–242 — Ch.5 §5.2–5.3: the paper, the survey, the model
 [scene] (p.231) The withheld VIP knowledge named on the page; then the café approach about “that piece of paper,” the group survey proving no Class D betrayal, the timing deduction with Horikita, and the puzzled Dragon Outcome #1 question.

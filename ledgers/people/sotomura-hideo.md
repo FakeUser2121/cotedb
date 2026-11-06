@@ -25,7 +25,17 @@ char_id: sotomura-hideo · class: Class 1-D (enrolled April 2015) · status: min
 [rel:yukimura-teruhiko] (p.51) Echoes his exact “space cadets” line from minutes earlier, then turns down his huddle for anime.
 [rel:karuizawa-kei] (pp.37, 51) Mocks her with the three-heads line, then insults her out of earshot.
 
+### y1v4 p.39, p.46, p.50 — Ch.2: roster, hypothetical, and the Karuizawa partnership
+[scene] (p.39) The Rabbit roster prints his name among Class D’s three.
+[note] (p.39) Listed as Sotomura Hideo with Ayanokouji Kiyotaka and Karuizawa Kei.
+[note] (p.46) A hypothetical VIP plan could mislead other classes into believing the Professor or Karuizawa was the VIP — the test would become dramatically difficult.
+[note] (p.50) He chortles that the exact same expression was uttered word for word five minutes earlier, then spits about the ordeal of being partnered with Karuizawa once she’s gone.
+
 <!-- walk: y1v4 ch2 → p.62 -->
+
+### y1v4 p.65 — Ch.3: the gap in the score theory
+[scene] (p.65) Named in the grade-comparison talk as the measure of one gap.
+[note] (p.65) The score-theory line puts the gap between the speaker and the Professor beside the one with Hirata — too many details don’t fit the theory.
 
 ### y1v4 p.78–88 — Ch.3 §3.1: the Professor in Rabbit
 [scene] (p.78) Meets Ayanokōji and Yukimura outside the Rabbit room full from three heavy lunches, then sits through the first discussion as the otaku who votes the convenient way.
@@ -60,6 +70,10 @@ char_id: sotomura-hideo · class: Class 1-D (enrolled April 2015) · status: min
 
 <!-- walk: y1v4 ch3 → p.124 -->
 
+### y1v4 p.126 — Ch.4: the group he can’t read
+[scene] (p.126) Named as the group member Ayanokōji expects to report on — and the one he can’t read.
+[note] (p.126) Ayanokōji expects to find out whatever he needs about the Professor and Yukimura, but is at a complete loss with Karuizawa.
+
 ### y1v4 p.132–139 — Ch.4 §4.0–4.1: the VIP alibi and the card heat
 [scene] (p.132) Named as Yukimura’s Rabbit-group partner in the room rant, then one of the five at Ichinose’s card table where the Professor fires up and cools off.
 [rel:yukimura-teruhiko] (p.132) Yukimura vouches he is not the VIP in the same breath as his own denial — “Neither is Sotomura, by the way.”
@@ -69,6 +83,10 @@ char_id: sotomura-hideo · class: Class 1-D (enrolled April 2015) · status: min
 [rel:ichinose-honami] (p.139) His heat and cool-down are exactly the characteristic she was collecting from the five-player hour.
 [rel:hamaguchi-tetsuya] (p.138) Both Class B-adjacent players in the five with Ichinose and Ayanokōji — Hamaguchi focused on the endgame, the Professor on the next hand.
 
+### y1v4 p.152 — Ch.4: the VIP alibi kept unsaid
+[scene] (p.152) Named in the exchange where the Professor’s non-VIP status is known but withheld.
+[note] (p.152) He says he doesn’t really know about Karuizawa or the Professor — err, Sotomura — having heard from Yukimura that neither was the VIP, and deciding it best to leave that unsaid.
+
 ### y1v4 p.155–160 — Ch.4 §4.2: the chair and the exit
 [scene] (p.155) Arrives coincidentally with Karuizawa, earns her disgust, then gives the pompous non-notice answer before heading back to the room.
 [rel:karuizawa-kei] (pp.155-156) Open disgust at his presence; she moves to the back the moment they enter together.
@@ -77,6 +95,12 @@ char_id: sotomura-hideo · class: Class 1-D (enrolled April 2015) · status: min
 [trait] (p.160) Heads back to his room instead of following the stairwell chase — the Professor opts out.
 
 <!-- walk: y1v4 ch4 → p.204 -->
+
+### y1v4 p.217, p.222, p.224 — Ch.5: the questions and the reveal
+[scene] (p.217) Arrives with Yukimura and bombards Ayanokōji with questions on the way in.
+[note] (p.217) Yukimura and the Professor bombard Ayanokōji with questions as they walk into the room together.
+[note] (p.222) He mutters what he should do; told to think for himself because the show is voluntary, he says he doesn’t want to get wrapped up in this.
+[note] (p.224) He stammers Yukimura-dono’s name in shock at the VIP screen — as astonished as Karuizawa that Yukimura was the VIP.
 
 ### y1v4 p.225 — Ch.5 §5.2: named in the cover trio
 [scene] (p.225) Yukimura cites him as one of the three who agree the reveal was for the best.

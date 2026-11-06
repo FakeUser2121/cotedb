@@ -93,6 +93,10 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [note] (p.64) Listed among Horikita’s Dragon group (Class B: Andou, Kanzaki, Tsube); Ayanokōji flags him as one of the class representatives that makes the list a dream team.
 [rel:horikita-suzune] (p.64) Dragon groupmate on the biased list.
 
+### y1v4 p.101 — Ch.3: the helper in another group
+[scene] (p.101) Named as one of the only people who could help Sakura — already busy in his own group.
+[note] (p.101) The only people who could help were Ichinose and Kanzaki; Ichinose was already in Ayanokōji’s group, so she was stuck.
+
 <!-- walk: y1v4 ch3 → p.124 -->
 
 ### y1v4 p.143–150 — Ch.4 §4.1: the Dragon deadlock
@@ -104,6 +108,10 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [rel:horikita-suzune] (p.150) Names Katsuragi as completely unapproachable to her face — the shared Class A read after the interview.
 [says] (p.150) “I said this yesterday, but Katsuragi is completely unapproachable. He’ll talk to you, but he won’t give an inch. I doubt he’ll change his mind before the exam ends. At this point, I think all of Class A is taking the same stance. Don’t you?” asked Kanzaki.
 [rel:katsuragi-kouhei] (pp.143,150) Carries the no-inch finding out of the room with Ichinose’s interview as the evidence.
+
+### y1v4 p.151 — Ch.4: split on the way out
+[scene] (p.151) Split from on the way to the ship’s deck.
+[note] (p.151) Ayanokōji notes the party split from Kanzaki on the way to the deck’s crowd.
 
 <!-- walk: y1v4 ch4 → p.204 -->
 

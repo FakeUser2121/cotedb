@@ -6,6 +6,12 @@ char_id: machida-kouji · class: Class 1-A · status: minor
 
 <!-- walk: y1v4 → start -->
 
+### y1v4 p.39 — Ch.2: named on the Rabbit roster
+[scene] (p.39) The Rabbit group roster prints his name among Class A’s three.
+[note] (p.39) Listed as Machida Kouji with Takemoto Shigeru and Morishige Takurou.
+
+<!-- walk: y1v4 ch2 → p.62 -->
+
 ### y1v4 p.81–91 — Ch.3 §3.1: the Class A no-discussion pitch
 [scene] (p.81) Opens the Rabbit discussion by objecting to introductions, then fronts Katsuragi’s “don’t talk” strategy until Class A withdraws to the corner of the room.
 [says] (p.81) “Is it really necessary to introduce ourselves, though? I don’t think the school seriously meant that. I think it’s fine if only the people who want to introduce themselves do it, right?”
@@ -36,6 +42,10 @@ char_id: machida-kouji · class: Class 1-A · status: minor
 [rel:katsuragi-kouhei] (p.85) Attributes the whole strategy to him by name — “That was Katsuragi-san’s proposal.”
 [rel:karuizawa-kei] (pp.86, 89) Uses her for the first outcomes answer, then counts her in the room’s math.
 [rel:yukimura-teruhiko] (p.86) Prompts him for the negatives answer.
+
+### y1v4 p.92 — Ch.3: the third option nobody had
+[scene] (p.92) Named in the wake of the failed proposals.
+[note] (p.92) Those who rejected both Machida’s and Ichinose’s plans had no third option.
 
 ### y1v4 p.95, p.107–108 — Ch.3 §3.1–§3.4: the fair intervention and the second-gathering snicker
 [scene] (p.95) Called over by Karuizawa mid-fight, rules Manabe in the wrong on pictures, then reappears in the second discussion as Ichinose’s baited target.
@@ -74,7 +84,20 @@ char_id: machida-kouji · class: Class 1-A · status: minor
 [says] (p.158) “Of course we won’t. Feel free to talk amongst yourselves, though. We haven’t changed our policy,” answered Machida. (Class A no-discussion, to Ichinose)
 [rel:ichinose-honami] (p.158) The second refusal of her cards proposal — policy unchanged.
 
+### y1v4 p.164, p.177–179, p.186, p.201 — Ch.4: named through the Karuizawa hours
+[scene] (p.164) His name runs through the corridor taunts and the seat arithmetic around Karuizawa.
+[note] (p.164) Manabe taunts Karuizawa on who she is going to call — Hirata-kun? Machida-kun?
+[note] (p.177) The narration reads Karuizawa attaching herself to Machida to assert herself more aggressively than normal.
+[note] (p.178) Ayanokōji doubts she used Machida only to increase her influence, and asks what triggered her contact with him.
+[note] (p.179) Her façade needed people like Hirata and Machida to carry the assertive personality.
+[note] (p.186) The anonymous chat predicts she will not leave Hirata-kun’s or Machida-kun’s side for a while.
+[note] (p.201) Ayanokōji promises Karuizawa he will be much more reliable than Hirata or Machida.
+
 <!-- walk: y1v4 ch4 → p.204 -->
+
+### y1v4 p.206 — Ch.5: the locked stalemate
+[scene] (p.206) Named in the reading of the group’s frustration.
+[note] (p.206) Ayanokōji wonders whether Ichinose and Machida felt irritated about being locked into a stalemate.
 
 ### y1v4 p.218–224 — Ch.5 §5.2: the flat refusal and the audit
 [scene] (p.218) Refuses Hamaguchi’s show as naive, then audits Yukimura’s revealed VIP screen for the room.
@@ -106,5 +129,9 @@ Manabe nodded. (he anchors the room’s conclusion)
 [rel:ichinose-honami] (p.228) Takes her Outcome #1 promise and exits first with the other two Class A students.
 [says] (p.228) “Yes, of course. You can trust me. Let’s go,” Machida said.
 [rel:ayanokouji-kiyotaka] (p.228) Glances at the complicit one on the way out — suspicion parked, not resolved.
+
+### y1v4 p.233 — Ch.5: named in the traitor guess
+[scene] (p.233) Named among the Class A possibilities in Ichinose’s reasoning.
+[note] (p.233) The guess that the traitor was probably from Class A draws the name Machida before she corrects to Morishige-kun.
 
 <!-- walk: y1v4 ch5 → p.243 -->

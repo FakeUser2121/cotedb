@@ -120,6 +120,12 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y1v4 ch2 → p.62 -->
 
+### y1v4 p.64–65, p.67 — Ch.3: the Dragon roster and the wariness answer
+[scene] (p.64) The Dragon roster prints his name as the Class C seat of Horikita’s group.
+[note] (p.64) Listed as Ryuuen Kakeru in Class C with Oda Takumi, Suzuki Hidetoshi, and Sonoda Masashi; the Class D line of the same group is Kushida, Hirata, and Horikita.
+[note] (p.65) The group read: Horikita’s inclusion isn’t necessarily advantageous — she and Ryuuen are especially incompatible, like fire and water.
+[note] (p.67) Asked who he’s most wary of, Ayanokōji answers Ryuuen, by a mile — after naming Katsuragi the most excellent.
+
 ### y1v4 p.68–75 — Ch.3 §3.0: the café provocation
 [scene] (p.68) Walks into Blue Ocean with Ibuki mid-Horikita-briefing, straddles a vacant seat, and spends the coffee working the island result until he leaves with his lackey.
 [says] (p.68) “Nice weather, eh Suzune? You having breakfast with this clingy beta male?”
@@ -151,6 +157,11 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:katsuragi-kouhei] (pp.70, 72, 75) The rival whose caution and island read he quotes back at Horikita.
 [rel:sakayanagi-arisu] (p.75) Saved “for the final course” — he will not spend her now.
 
+### y1v4 p.76, p.84 — Ch.3: the strategy in motion and the talent bar
+[scene] (p.76) Named as the man already moving his new strategy after the café interrupt.
+[note] (p.76) Ibuki’s walk with Ryuuen reads as his new strategy already being implemented — his showing up here is called dangerous.
+[note] (p.84) In the talent comparison, not even Katsuragi or Ryuuen could match Ichinose’s de facto leadership.
+
 ### y1v4 p.115, p.123 — Ch.3: named twice, absent both times
 [scene] (p.115) Two second-half mentions — the Kouenji shock list and the teachers’ Dragon roster talk.
 [status] (p.115) “Katsuragi, Ryuuen, and Ichinose would all be surprised by this” — grouped with them as a leader who had not imagined an early traitor.
@@ -180,6 +191,27 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:kouenji-rokusuke] (p.130) Dismisses the Monkey-group early end as small fry.
 [action] (p.130) Leaves; a silent phone set to record audio stays under his chair with the chat line “Sorry for yesterday!”
 [rel:horikita-suzune] (p.130) Parting “See you again, Suzune” — first-name basis, reported.
+
+### y1v4 p.132, p.139–150, p.153, p.159 — Ch.4: the three-way deadlock
+[scene] (p.132) Named in the teachers’-conversation echo that pins the group’s academic shape — then stays in the Dragon room as Ichinose and Ayanokōji wait outside.
+[note] (p.132) The overheard teacher talk and what Ryuuen had said leave no doubt about the pure-academic ranking of the room.
+[note] (p.139) The narration contrasts the respectful Class B table with the type of relationship Katsuragi and Ryuuen have with their subjects.
+[note] (p.140) Ichinose can’t imagine Ryuuen and Katsuragi holding a discussion — maybe Class B is showing off their power.
+[note] (p.143) All of the Class C students leave the room except Ryuuen.
+[note] (p.144) Kushida reports they’re still discussing things with Ryuuen-kun; inside, Horikita, Kanzaki, and Ryuuen sit slightly apart — a three-way deadlock.
+[note] (p.145) Ryuuen needles Ayanokouji on sniffing around chicks — first Suzune, now Ichinose — and presses Ichinose on landing in the losers’ group.
+[note] (p.146) He floats the proposal to crush Class A, claims to already know all the Class C VIP identities, and the narration calls it a very Ryuuen-like plan.
+[note] (p.147) Even if Suzune wanted to agree, there’s a reason she can’t — he’s willing to leave Classes A and D stripped bare.
+[note] (p.148) The Ichinose–Ryuuen team-up reads as extremely dangerous; he mocks Ayanokouji as tagalong and gets his honest opinion back.
+[note] (p.149) After Ichinose refuses on Class B’s sake, he answers that it’s unfortunate without looking disappointed — as if he’d guessed her answer.
+[note] (p.150) Ichinose judges Ryuuen-kun’s plan will fail and names Katsuragi’s iron fortress the real problem instead.
+[note] (p.153) The comparison: anyone else could have gotten her class on board without scare tactics like Ryuuen.
+[note] (p.159) The three-way contrast ends with Ryuuen, who wanted to turn everyone into his enemy while taking complete control.
+
+### y1v4 p.184, p.202 — Ch.4: the unsure answer and the Class C threat
+[scene] (p.184) Named in the closing doubts about who really understood the school’s rules.
+[note] (p.184) Ryuuen claimed he understood the rules, but the test hadn’t ended for anyone other than the Cow group — proof he didn’t have a sure answer either.
+[note] (p.202) His Class C is the external threat in Ayanokōji’s warning: if Manabe’s group carried on with Karuizawa, they would cause trouble for Ryuuen and land in jeopardy themselves.
 
 <!-- walk: y1v4 ch4 → p.204 -->
 

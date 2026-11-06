@@ -6,6 +6,12 @@ char_id: hamaguchi-tetsuya · class: Class 1-B · status: minor
 
 <!-- walk: y1v4 → start -->
 
+### y1v4 p.39 — Ch.2: named on the Rabbit roster
+[scene] (p.39) The Rabbit group roster prints his name among Class B’s three.
+[note] (p.39) Listed as Hamaguchi Tetsuya with Ichinose Honami and Beppu Ryouta.
+
+<!-- walk: y1v4 ch2 → p.62 -->
+
 ### y1v4 p.82–90 — Ch.3 §3.1: the Class B counter
 [scene] (p.82) First Class B hand in the Rabbit room, then the steady counter to Machida’s silence until he and Ichinose hold the middle of the circle.
 [says] (p.82) “I agree, of course. We’re a group, and it’s only natural for us to cooperate,” said Tetsuya.
@@ -26,6 +32,11 @@ char_id: hamaguchi-tetsuya · class: Class 1-B · status: minor
 [rel:machida-kouji] (pp.83–85) The running opponent on introductions and the no-discussion pitch.
 [rel:katsuragi-kouhei] (pp.85–87) Argues against the strategy attributed to him without naming him again after p.85.
 
+### y1v4 p.91–92 — Ch.3: the bluff read
+[scene] (p.91) Named in the assessment of Class A’s withdrawn pitch.
+[note] (p.91) Ichinose and Hamaguchi’s arguments make Katsuragi’s proposal look like a flustered bluff.
+[note] (p.92) As Hamaguchi had said, it isn’t fair to complain without first suggesting a plan.
+
 ### y1v4 p.106, p.110 — Ch.3 §3.4: the Class B off-switch
 [scene] (p.106) Second gathering: named with the other Class B students as ready to make alliances without hesitation, then closes the hour with the group’s flip to OFF.
 [note] (p.106) “Hamaguchi and the other Class B students were exactly like that, too. They were ready to make alliances without hesitation. It was like how Hirata operated. They were similar, but still fundamentally different.”
@@ -42,6 +53,11 @@ char_id: hamaguchi-tetsuya · class: Class 1-B · status: minor
 [says] (p.139) “Where are you going?” asked Hamaguchi.
 [trait] (p.138) Focused on the endgame; gets worked up at times like the Professor, but Ichinose tags him as the endgame player of the five.
 [rel:sotomura-hideo] (p.138) The other Class B-side regular at the table with the Professor’s “Once more!” energy.
+
+### y1v4 p.150, p.152 — Ch.4: waiting in the corridor
+[scene] (p.150) Named when Ichinose meets him after Horikita leaves.
+[note] (p.150) Ichinose, on her way out, meets up with Hamaguchi, who appears to be waiting for her.
+[note] (p.152) Ichinose calls him over for a minute, and he asks what she wants.
 
 ### y1v4 p.153–154 — Ch.4 §4.1: the second denial
 [scene] (p.153) Called over by Ichinose; denies the VIP role on Ayanokouji’s confirmation, then asks how anyone can be made to talk.
@@ -68,6 +84,11 @@ char_id: hamaguchi-tetsuya · class: Class 1-B · status: minor
 [rel:ichinose-honami] (pp.217-220) His plan is “exactly the same” as hers and Ayanokōji’s — the three-way coincidence of the final hour.
 [rel:beppu-ryouta] (p.219) Beppu follows his phone first among Class B.
 [trait] (p.218) The idea came “after listening to everyone” — Ichinose’s card-hour intelligence put to work.
+
+### y1v4 p.222–223 — Ch.5: scoffed at, then seconded
+[scene] (p.222) His show plan draws the room’s scoffs — and Ibuki’s lone agreement.
+[note] (p.222) Among the people scoffing at Hamaguchi’s strategy, Ibuki Mio is the one who agrees.
+[note] (p.223) Machida admits he had the same thing Hamaguchi said on his mind, and is a little jealous that Hamaguchi-kun beat him to the punch.
 
 ### y1v4 p.227 — Ch.5 §5.2: the SIM experiment
 [scene] (p.227) Named in Ichinose’s lecture as her partner in the SIM-card swap test that found the lock.

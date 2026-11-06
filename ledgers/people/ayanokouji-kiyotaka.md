@@ -2150,6 +2150,14 @@ walk: y1v1 → DONE
 [says] (p.132) “I’m not the VIP. Can I believe that you’re not the VIP, Yukimura?”
 [rel:karuizawa-kei] (p.132) Yukimura reports Karuizawa’s denial of the VIP role; Ayanokōji does not press it.
 
+### y1v4 p.139, p.143, p.148, p.150–151 — Ch.4: joining the wait and the honest opinion
+[scene] (p.139) Asked to come along on the Katsuragi visit — then caught in the corridor by Kushida.
+[note] (p.139) He asks to go along; Ichinose agrees without wariness and wonders whether he wants to talk to Katsuragi-kun too.
+[note] (p.143) Kushida asks what Ayanokouji-kun is doing there and whether he is waiting for Horikita-san.
+[note] (p.148) Ichinose cites what Ayanokouji said earlier to Ryuuen; Ryuuen mocks him as tagalong, and he answers with his honest opinion instead of the cheap trick.
+[note] (p.150) Ichinose addresses Horikita-san and Ayanokouji-kun together, asking whether the test will create trust between people of different classes.
+[note] (p.151) Ichinose on not hiding her identity: everything I do is for the sake of Class B.
+
 ### y1v4 p.152–154 — Ch.4 §4.1: the deck VIP exchange
 [scene] (p.152) Ends the deck walk with Ichinose by denying his own VIP role and vouching only for Yukimura — Karuizawa and Sotomura left unsaid on purpose.
 [says] (p.152) “I’m not the VIP. Neither is Yukimura, I can say that with absolutely certainty. Unfortunately, I don’t really know about Karuizawa or the Professor…err, I mean, Sotomura. It’s not clear yet. Personally, I agree with you on principle.”
@@ -2159,6 +2167,18 @@ walk: y1v1 → DONE
 [says] (p.153) “You haven’t checked with your own class yet,” I observed.
 [trait] (p.153) Counts four cleared (himself, Ichinose, Hamaguchi, Yukimura) against ten remaining; the VIP will be concealing under pressure.
 [rel:yukimura-teruhiko] (p.153) The alibi he keeps half-said — Yukimura’s denials accepted through attitude, not passed on wholesale.
+
+### y1v4 p.159, p.166–168, p.170–172, p.176, p.178 — Ch.4: the night rounds
+[scene] (p.159) Named in the card-table exit — invited back to the room by Yukimura.
+[note] (p.159) Yukimura and the Professor get up to head back, and Yukimura asks Ayanokouji whether he is coming.
+[note] (p.166) The middle-of-the-night call brings Chabashira to the chilly pool deck: she apologises for keeping him waiting, and he apologises for calling so late.
+[note] (p.167) Hoshinomiya acts overly familiar; his answer that he’s fine because if he wasn’t he wouldn’t be here draws the not-cute jab.
+[note] (p.168) The spy worry is his: Ichinose might soon discover she was put into the group to find out about Ayanokouji Kiyotaka — and Chabashira states he requested this location.
+[note] (p.170) The bridge cover: Ayanokōji cites Hirata’s own wish to act as a bridge between Horikita and the rest of the class — Hirata picks it up at once.
+[note] (p.171) Hirata opens the delicate Karuizawa material, noting Horikita told him to keep an eye on him too.
+[note] (p.172) Karuizawa shouts at finding Ayanokouji-kun there; Hirata says he asked him to come, apologising for not telling her first.
+[note] (p.176) Hirata asks whether he has any ideas, then admits he has his limits and can’t do everything.
+[note] (p.178) The creeped-out confession: he’s watched him since school started — the Ayanokouji-kun back then and now are like two different people.
 
 ### y1v4 p.179–183 — Ch.4 §4.4: the Sugimura bargain
 [scene] (p.179) Takes Hirata’s backstory and the fake-dating motive, buys his silence for the Karuizawa plan, and receives the Class D VIP’s identity as a parting gift.
@@ -2179,6 +2199,10 @@ walk: y1v1 → DONE
 [rel:karuizawa-kei] (p.179) Accepts the elementary/junior-high bullying as the reason for the hyperventilation; the façade read locked in.
 [rel:horikita-suzune] (p.182) The confidentiality pact runs through her; “Our philosophies are similar.”
 [feat] (p.183) Gains Hirata’s cooperation — “a power I’d always wanted”; each side feels they gained something.
+
+### y1v4 p.184 — Ch.4: the farewell order
+[scene] (p.184) Named in Sakura’s goodbye — the last beat of the hour.
+[note] (p.184) Sakura thanks Ayanokouji-kun and says her goodbyes; he bids farewell to her as she waves her hands adorably, then heads off.
 
 <!-- walk: y1v4 ch4 → p.204 -->
 
@@ -2268,3 +2292,9 @@ walk: y1v1 → DONE
 [rel:horikita-suzune] (pp.235-243) The café debrief, the results, and the shared worry she talks him out of.
 
 <!-- walk: y1v4 ch5 → p.243 -->
+
+### y1v4 p.244 — Ch.6: the author’s forward look
+[scene] (p.244) The closing note turns the page on him by name.
+[note] (p.244) The second semester is about to begin; it’s possible that a certain figure from Ayanokouji Kiyotaka’s past will make an appearance in Volume 5 — and it won’t just involve his classmates, the upperclassmen will get involved too.
+
+<!-- walk: y1v4 ch6 → p.248 -->

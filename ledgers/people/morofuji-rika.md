@@ -6,6 +6,14 @@ char_id: morofuji-rika · class: Class 1-D · status: minor (allies)
 
 <!-- walk: y1v4 → start -->
 
+### y1v4 p.93–94 — Ch.3: the Rika question
+[scene] (p.93) The Rika charge against Karuizawa is put to her directly.
+[note] (p.93) A speaker asks Karuizawa whether she fought Rika earlier in the summer; Karuizawa answers that she does not know who Rika is.
+[note] (p.93) Rika is described as a girl from their class who wears glasses with her hair up.
+[note] (p.94) Ibuki is told that she is not friends with Rika.
+
+<!-- walk: y1v4 ch3 → p.124 -->
+
 ### y1v4 p.160–174 — Ch.4 §4.2–4.4: the name behind the corner
 [scene] (p.160) Named as the girl Karuizawa is said to have pushed — the whole stairwell charge and Hirata’s morning plan run on her name.
 [status] (p.160) The charge: “You did push Rika, didn’t you?” — Manabe’s group will call her to confirm.
@@ -24,5 +32,11 @@ char_id: morofuji-rika · class: Class 1-D · status: minor (allies)
 [rel:manabe-shiho] (pp.192-193) The coach: “We’re doing this for your sake”; Rika knew she could be next if she refused.
 [trait] (p.193) Hits where marks won’t show — under the uniform, under the hair — fear converted into careful violence (his read of her as the new Milgram subject).
 [note] (p.189) “She seemed meek, rather like Sakura” — the narrator’s comparison, not a spoken line.
+
+### y1v4 p.186–187, p.198 — Ch.4: the friend behind the stairwell
+[scene] (p.186) The narration traces Manabe’s revenge back to her friend.
+[note] (p.186) Manabe wanted revenge on behalf of her friend Rika; the fake chat tells her that Rika-chan is still scared of Karuizawa.
+[note] (p.187) The chat warns that if Karuizawa holds a grudge she might bully Rika further.
+[note] (p.198) Karuizawa’s trouble with Rika is named as the display of status that started the whole predicament.
 
 <!-- walk: y1v4 ch4 → p.204 -->

@@ -127,6 +127,11 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [rel:machida-kouji] (p.85) Named as the author of the no-discussion strategy.
 [rel:ichinose-honami] (pp.85–92) The opponent who names and dismantles the plan in his absence.
 
+### y1v4 p.84, p.96 — Ch.3: the talent bar and the dismissed plan
+[scene] (p.84) Named as one of the school’s few who could match Ichinose’s talents — then as the strategist whose plan she dismissed without replacing.
+[note] (p.84) In the read of Ichinose as a de facto leader, not even Katsuragi or Ryuuen could do the same — and even Hirata and Kushida might find themselves outmatched.
+[note] (p.96) After Class A marches out, Ichinose’s dismissal of Katsuragi’s strategy leaves no new resolution — the narration wonders what else she hides.
+
 ### y1v4 p.106, p.115 — Ch.3: the calm image and the surprise reaction
 [scene] (p.106) Still not in the room — his maintained image runs Class A’s second-gathering phones, and his name surfaces when Kouenji ends a group.
 [status] (p.106-107) “I thought their loss during the test on the island would’ve changed them, but Katsuragi had them maintaining their calm … image. It was an exceptionally effective strategy.”
@@ -135,6 +140,11 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [rel:kouenji-rokusuke] (p.115) One of the three the Monkey exit blindsides.
 
 <!-- walk: y1v4 ch3 → p.124 -->
+
+### y1v4 p.128, p.139 — Ch.4: support and confrontation
+[scene] (p.128) Named as the backup a counter claims Ayanokōji lacks — then as the man Ichinose means to confront.
+[note] (p.128) A counter says he has no support like Ichinose-san and Katsuragi-kun do — only enemies, no reliable information.
+[note] (p.139) Ichinose intends to see the man who devised Class A’s plan; Ayanokōji asks to come along and whether she wants to talk to Katsuragi-kun too.
 
 ### y1v4 p.140–143 — Ch.4 §4.1: the castle gate holds
 [scene] (p.140) Leaves the Dragon room into Ichinose’s ambush; refuses to reopen discussion for the fourth time running and walks away with the strategy intact.
@@ -152,6 +162,15 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [says] (p.143) “In my opinion, if you were standing in my position, you would’ve come up with the same strategy I did. If it’s to protect my class, I don’t particularly mind being criticized by others.” Katsuragi locked eyes with Ichinose.
 [rel:ichinose-honami] (pp.140-143) The immovable-object exchange; closes his eyes, crosses his arms, re-meets her gaze — no inch given before the exam ends.
 [rel:ryuuen-kakeru] (p.143) Still the man Ichinose came to counter; no mention of Ryuuen in this exchange.
+
+### y1v4 p.146, p.148, p.150, p.158–159, p.184 — Ch.4: the fortress read
+[scene] (p.146) Named through the corridor strategy talk as the man with his own plan.
+[note] (p.146) Just as Katsuragi had his own strategy, Ryuuen had come up with a very Ryuuen-like plan — things were evolving.
+[note] (p.148) Ryuuen asks whether Katsuragi will cooperate; the narration calls him most definitely cautious, one who probably wouldn’t move without evidence.
+[note] (p.150) Kanzaki reports Katsuragi is completely unapproachable — he’ll talk but won’t give an inch; the real problem is called his iron fortress strategy.
+[note] (p.158) Class A is said to be split into two factions, one led by Katsuragi and one by Sakayanagi; Morishige turned against Katsuragi on the island test.
+[note] (p.159) The contrast: Ichinose wants open, honest conversation to narrow the suspects, while Katsuragi aimed for stability by suppressing all conversation.
+[note] (p.184) Narration: Katsuragi had been rather thorough in carrying out his plan.
 
 <!-- walk: y1v4 ch4 → p.204 -->
 

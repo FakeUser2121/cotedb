@@ -111,6 +111,10 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 [rel:ichinose-honami] (p.168) Bad at hiding emotions — his read that Ichinose may soon wonder why she is in Rabbit and discover the spy order.
 [trait] (p.167) Followed Chabashira deliberately; “Was it just a coincidence? Unlikely.”
 
+### y1v4 p.169 — Ch.4: walking away
+[scene] (p.169) The night-pool encounter ends; he leaves in the direction opposite hers.
+[note] (p.169) Ayanokōji decides to leave it at that and walks away a different way from Hoshinomiya-sensei — good enough for the time being despite having more questions.
+
 <!-- walk: y1v4 ch4 → p.204 -->
 
 ### y1v4 p.230 — Ch.5 §5.2: the unlock authority

@@ -47,6 +47,10 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:ryuuen-kakeru] (p.75) The man who will not spend her yet.
 [rel:horikita-suzune] (p.75) The one who puts the rumoured name in the air.
 
+### y1v4 p.112 — Ch.3: the information he wants
+[scene] (p.112) Named as the subject of the talk Ayanokōji wants from Hirata while he waits.
+[note] (p.112) Ayanokōji wanted to talk to Hirata about Sakayanagi, figuring a popular guy would likely have information — but he didn’t mind waiting.
+
 <!-- walk: y1v4 ch3 → p.124 -->
 
 ### y1v4 p.158 — Ch.4 §4.2: the absent faction leader

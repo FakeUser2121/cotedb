@@ -393,6 +393,10 @@ aliases used for anchors: sakura, airi, sakura-san
 
 <!-- walk: y1v4 → start -->
 
+### y1v4 p.15 — Ch.2: one of the three
+[scene] (p.15) Named in Ayanokōji’s recollection of the people he could talk to in the first semester.
+[note] (p.15) Listed with Horikita and Kushida as the three he talked with — his school life hadn’t been all that bad.
+
 ### y1v4 p.25–28 — Ch.2 §2.2: the roommate appeal
 [scene] (p.25–26) Emails Ayanokōji to the second deck and stammers through her roommate worry; flees when Kushida appears.
 [says] (p.26) “Wah! A-Ayanokouji-kun?!”
@@ -410,6 +414,8 @@ aliases used for anchors: sakura, airi, sakura-san
 [rel:ichihashi-ruri] (p.27) Roommate two — named only; no file yet (first appearance volume).
 [rel:maezono] (p.27) Roommate three — named only; no file yet.
 [rel:ayanokouji-kiyotaka] (pp.25–28) Comes to him because “any advice from you…would be good.”
+
+<!-- walk: y1v4 ch2 → p.62 -->
 
 ### y1v4 p.97–102 — Ch.3 §3.2: the bow stress-talk
 [scene] (p.98) Waits behind a pillar on the bow deck after moving from the crowded elevator route; mutters to herself, hands Ayanokōji the Cow roster, and finds the one person who will take her call.
@@ -431,6 +437,16 @@ aliases used for anchors: sakura, airi, sakura-san
 [rel:ike-kanji] (p.100) The other Class D boy on the roster.
 [rel:matsushita-chiaki] (p.100) The fourth Class D name on her list.
 
+### y1v4 p.103–105 — Ch.3: the email-address standoff
+[scene] (p.103) Yamauchi corners Ayanokōji over the promise he never made.
+[note] (p.103) Yamauchi shouts that Ayanokōji was talking with Sakura just now and was after her all along.
+[note] (p.104) Ayanokōji refuses to hand over Sakura’s contact information without her consent, then asks whether Yamauchi means to make Sakura tell him.
+[note] (p.105) Yamauchi bursts at the chance of a new camera for Sakura; Ayanokōji tells him to earn it first so he deserves a former idol.
+
+### y1v4 p.116 — Ch.3: a pair of assets
+[scene] (p.116) Named as one of the two people Ayanokōji might still be able to use.
+[note] (p.116) He counts Horikita and Sakura as potential eyes and ears while planning his next move.
+
 <!-- walk: y1v4 ch3 → p.124 -->
 
 ### y1v4 p.183–184 — Ch.4 §4.5: the Cow group ends
@@ -450,5 +466,10 @@ aliases used for anchors: sakura, airi, sakura-san
 [says] (p.184) “If there’s anything else, please let me know. You can talk to me anytime,” I told Sakura.
 [says] (p.184) “Thank you, Ayanokouji-kun. See you later.”
 [trait] (p.184) Waves her hands adorably on the goodbye — the meek profile he filed against Karuizawa’s type.
+
+### y1v4 p.179, p.189 — Ch.4: the meek comparison
+[scene] (p.179) Her name becomes the measure for the meek, bullied type.
+[note] (p.179) The narration contrasts personalities like Sakura against Karuizawa’s confident, selfish type.
+[note] (p.189) Another girl with them seems meek, rather like Sakura — probably Rika.
 
 <!-- walk: y1v4 ch4 → p.204 -->

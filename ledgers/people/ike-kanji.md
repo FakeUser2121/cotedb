@@ -387,6 +387,13 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y1v4 ch2 → p.62 -->
 
+### y1v4 p.100–101 — Ch.3: on Sakura’s Cow roster
+[scene] (p.100) The Cow roster and Ayanokōji’s sympathy both name him as one of the Class D boys Sakura is stuck with.
+[note] (p.100) Listed as Ike Kanji in Class D with Sakura, Sudou, and Matsushita.
+[note] (p.101) Ayanokōji rules him and Sudou out as contacts for Sakura.
+
+<!-- walk: y1v4 ch3 → p.124 -->
+
 ### y1v4 p.179 — Ch.4 §4.4: the contrast name
 [scene] (p.179) Named once in Hirata’s compliment — Ayanokōji is “different from Ike-kun and Yamauchi-kun,” and he ranks himself worse than both.
 [rel:hirata-yousuke] (p.179) The comparison class for “amazing.”

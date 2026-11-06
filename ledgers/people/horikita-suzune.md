@@ -1196,6 +1196,13 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y1v4 → start -->
 
+### y1v4 p.13, p.15–16, p.20 — Ch.2: the three, the thief, the friend-type
+[scene] (p.13) Named in the hallway defence of Ayanokōji’s small circle.
+[note] (p.13) Hirata’s counter: that’s not true — he has Sudou-kun and the guys, and Horikita-san.
+[note] (p.15) Listed with Kushida and Sakura as the three he could talk with — his school life wasn’t all that bad.
+[note] (p.16) On the thanks for finding the culprit: he wasn’t even useful — Horikita found the underwear thief.
+[note] (p.20) Said to Hirata for him to understand: Horikita isn’t the type to make friends easily.
+
 ### y1v4 p.30–31 — Ch.2 §2.2: the message chat
 [scene] (p.30) Chat only: Ayanokōji messages her about the school’s test notice; she replies instantly.
 [says] (p.30) “Yeah. I did.” (chat reply; the translation leaves the thread’s lines untagged)
@@ -1222,6 +1229,11 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:kanzaki-ryuuji] (p.56) Declines his rescue — “You needn’t concern yourself.”
 [rel:ryuuen-kakeru] (p.60) Exits on him mid-provocation.
 [rel:hirata-yousuke] (p.54) Both summoned to the 20:40 meeting (see Hirata’s row).
+
+### y1v4 p.52–53 — Ch.2: summoned, and the smarts check
+[scene] (p.52) Named in the wake-up sequence — her meeting call is what moves the floor.
+[note] (p.52) He shuts off the alarm he’d wanted to check on Horikita with anyway; it was just before 20:30, the time she had been summoned — Hirata and he step into the hallway.
+[note] (p.53) A reply in the hallway: he has not been thinking about the exam the way Hirata, Horikita, and Yukimura have — and he isn’t smart either, so he hasn’t really noticed much.
 
 <!-- walk: y1v4 ch2 → p.62 -->
 
@@ -1272,11 +1284,21 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:kushida-kikyou] (p.64) Dragon groupmate named on her list.
 [rel:sakayanagi-arisu] (p.75) The rumoured name she throws at Ryūen to break his focus.
 
+### y1v4 p.84, p.97, p.101 — Ch.3: the logic twin and the used ally
+[scene] (p.84) Named as the model Ichinose’s logic is measured against.
+[note] (p.84) Ichinose’s logic was similar to Horikita’s, but the crucial difference was that Ichinose could bring people together.
+[note] (p.97) He wants opinions from people other than Hirata and Horikita on the strange test.
+[note] (p.101) On the island he’d indirectly used Sakura while also using Horikita — and manipulated Yamauchi through Sakura’s email.
+
 ### y1v4 p.115 — Ch.3: the confused-call message
 [scene] (p.115) One message in the cabin chaos after Kouenji ends the Monkey group.
 [says] (p.115) “I’m sorry. Things seem really confusing right now. I’m going to give you a call.” (Horikita messaged me — printed as her text)
 [status] (p.115) Reaches him in the cabin minutes after the traitor notice; the call itself is not printed on these pages.
 [rel:ayanokouji-kiyotaka] (p.115) The recipient of the promise to call.
+
+### y1v4 p.116 — Ch.3: one of the two assets
+[scene] (p.116) Named with Sakura as the pair Ayanokōji might still be able to use.
+[note] (p.116) He might still be able to use Horikita and Sakura — right now he needs more eyes and ears on his side.
 
 <!-- walk: y1v4 ch3 → p.124 -->
 
@@ -1318,7 +1340,37 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says] (p.131) “I won’t expect too much from you. I just want information about the Rabbit group.”
 [trait] (pp.130-131) Reads Ryuuen’s phone plant as reason to keep talking carefully; still assigns Ayanokōji the Rabbit VIP hunt as cover.
 
+### y1v4 p.139–153 — Ch.4: the three-way deadlock
+[scene] (p.139) Named in the corridor wait — she’s in the Dragon group with Katsuragi while Ichinose wants in.
+[note] (p.139) Ayanokōji: no, that’s not it — Horikita’s in the same group as Katsuragi; Ichinose takes the news and waves Hamaguchi off.
+[note] (p.140) He sends Horikita an instant message he doesn’t think she reads; Ichinose calls her a star player in the Class D line-up.
+[note] (p.143) Ichinose wants to wait with him for Horikita-san — her chances to speak with her are limited since Katsuragi brushed her off.
+[note] (p.144) The wait ends: inside, Horikita, Kanzaki, and Ryuuen sit slightly apart — a three-way deadlock.
+[note] (p.145) Ryuuen needles Ayanokouji — first Suzune, now Ichinose — while Horikita dismisses Ryuuen’s proposal as a waste of time, having already heard it.
+[note] (p.146) Ryuuen reports Suzune and Kanzaki disagree with his crush-Class-A plan, and that he told Suzune he already knows the Class C VIP identities.
+[note] (p.147) Ichinose: Horikita-san rejected Ryuuen’s proposal, so the plan is off to a bad start — Ryuuen adds that even if Suzune wanted to agree, a reason stops her.
+[note] (p.148) Horikita says she might be overstepping but doubts he can pull it off; her speaking up surprises Ayanokōji, who meant to observe silently.
+[note] (p.149) Horikita: this will be tough, he’s gunning for us — Ichinose counters that Ryuuen is naturally wary of Class A and thinks B will side with D.
+[note] (p.150) Ichinose asks Horikita-san and Ayanokouji-kun whether the test will create trust between classes; Horikita answers they don’t know how to make a D–B alliance.
+[note] (p.151) Ichinose: I understand what Horikita-san said earlier, but I think there’s still room for cooperation.
+[note] (p.152) The narration: breaking the truce with Horikita and exploiting Class D would be nonsensical.
+[note] (p.153) Adopting a strategy without the risk of exposure would fracture the truce with Horikita — the safer path is the show.
+
+### y1v4 p.170–171, p.175, p.178–179, p.182, p.202 — Ch.4: the bridge and the orders
+[scene] (p.170) Named in the midnight vending-machine talk as the reason Hirata wanted the meeting.
+[note] (p.170) Ayanokōji cites Hirata’s own wish to act as a bridge between Horikita and the rest of the class, saying it is about that; Hirata asks whether Horikita-san told him to talk to him.
+[note] (p.171) Ayanokōji continues: once he heard about what happened with Karuizawa, Horikita told him to keep an eye on Hirata too and to follow him — but Hirata had said he wanted to act as a bridge for her.
+[note] (p.175) The read of Hirata’s game: he was using Karuizawa to extract information as a tribute to Horikita.
+[note] (p.178) Ayanokōji’s cover: he heard about it from Horikita — she said Karuizawa had her reasons for clinging to Hirata and to others — and that he is only following her orders, on Horikita’s advice and detailed reports.
+[note] (p.179) Hirata: even if Ayanokouji is just following Horikita-san’s orders, he is still the one talking to him — it isn’t as though she gave him a list of prepared responses.
+[note] (p.182) Hirata asks whether he and Horikita-san will keep this confidential; the answer is that if he promises not to get involved, Horikita will stay silent.
+[note] (p.202) On Karuizawa: her social pull makes her an even more valuable ally than Horikita.
+
 <!-- walk: y1v4 ch4 → p.204 -->
+
+### y1v4 p.206 — Ch.5: the shared powerlessness
+[scene] (p.206) Named in the post-island humbling that hit everyone.
+[note] (p.206) In the two summer tests everyone had experienced the bitter sense of their own powerlessness, even Horikita.
 
 ### y1v4 p.207–209 — Ch.5 §5.1: the night meet
 [scene] (p.207) Last pre-final meeting with Ayanokóji in person; claims the win flatly, refuses detail on listener risk, and takes the Hirata/recruitment plan with gritted teeth.
@@ -1340,6 +1392,12 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says] (p.209) “Nothing. It’s just, well… Something about this test doesn’t make sense. But there shouldn’t be any mistakes. I definitely shouldn’t lose,” she replied.
 [trait] (pp.208-209) Anxiety finally leaking — the averted eyes, then the “doesn’t make sense” line; he stays quiet because kind words would be refused.
 [rel:ryuuen-kakeru] (p.207) His pursuit is the fear she won’t name under listener risk.
+
+### y1v4 p.215–217 — Ch.5: the points, the discretion, the phone swap
+[scene] (p.215) Named in the Class D finance talk — her effort against undeposited points.
+[note] (p.215) Class D’s financial situation is especially awful: even though Horikita’s trying her hardest, the island-test points have yet to be deposited, and they might lose them in this test.
+[note] (p.216) The discretion check: even if the information were shared with Horikita-san, he wouldn’t go blabbing to everyone after seeing her phone.
+[note] (p.217) The swap camouflage: if Kushida and Horikita switched phones, a spy would suspect Horikita was the VIP — and a traitor submitting her name would then be wrong.
 
 ### y1v4 p.230–243 — Ch.5 §5.2–5.3: the plan’s author, then the café
 [scene] (p.230) Gets the credit line from Ichinose — “her plan was a huge success” — then runs the café debrief with Hirata, absorbs Ryuuen’s Kushida reveal and the Class C blowout, and talks Ayanokōji out of his premonition.
