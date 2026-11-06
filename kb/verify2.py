@@ -84,9 +84,10 @@ def extract_quote(line):
 def main():
     volkey = sys.argv[1] if len(sys.argv) > 1 else "y1v1"
     vf = vol_files()
-    if volkey not in vf:
+    key = fold_vol(volkey)
+    if key not in vf:
         sys.exit(f"unknown volume {volkey}: {sorted(vf)}")
-    pages, full = load_pages(vf[volkey])
+    pages, full = load_pages(vf[key])
     fails = []
     total = 0
     short = 0
@@ -95,7 +96,7 @@ def main():
         ctx = stem if re.fullmatch(r"y\d+v[\d.]+|v0", stem) else None
         for i, line in enumerate(open(lf, encoding="utf-8"), 1):
             ctx = line_vol(line, ctx)
-            if ctx != volkey:
+            if not ctx or fold_vol(ctx) != key:
                 continue
             if not re.match(r"\s*\[says(:[\w-]+)?\]\s*\(p\.", line):
                 continue

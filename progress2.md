@@ -1352,3 +1352,28 @@ left untracked) and those four failures were the stale counts. make
 check OK (R18 0, R19 82/82); gate exit 0; build 180 pages, 51 assets;
 hash `251c3c38a7b4e2e11d99b2d66116a18c` twice. New tags: none. Open:
 y1v5.
+
+kb: dotted volume ids accepted by read, chapters and verify
+
+Owner-approved normalization (the y1v4.5 walk was blocked before its
+first chapter): volumes.tsv, every ledger heading and verify's own
+VOL_TOKEN_RE use canonical dotted ids (y1v4.5), but walk_locate folds
+dots out of filenames and only special-cased y0, so read/chapters/next
+exited with "unknown vol key 'y1v4.5'" and verify2/3 either refused the
+dotted arg or, given the folded key y1v45, matched zero ledger lines
+and passed vacuously. Fix, three files, mechanical: walk_locate strips
+dots from the incoming --vol the same way it folds filenames; verify2
+and verify3 look the text file up through fold_vol(volkey) and compare
+contexts folded on both sides (not ctx or fold_vol(ctx) != key).
+Canonical ids stay dotted everywhere on the ledger and content side —
+no TSV, ledger or site change; the site hash is unchanged. Proof:
+read --vol y1v4.5 --pages 1-2 prints pages; next --vol y1v4.5 lists
+the 8 real sections (ch1 p.10 … postscript p.224-227); verify
+--vol y1v4.5 runs (0 lines, nothing written yet); control
+verify --vol y1v2 still checks 1066 [says] + 659 non-says, ALL PASS —
+not vacuous. Nine dotted volumes (y1v4.5 … y2v12.5) unblocked. Known
+gap left alone: y0's volume-ledger token is not a VOL_TOKEN match, so
+y0 lines would not associate — y0 is walked last; noted for then. make
+check OK (R18 0, R19 82/82); gate exit 0; hash
+`251c3c38a7b4e2e11d99b2d66116a18c` twice (kb changes do not touch the
+site). New tags: none. Open: y1v4.5 walk, chapter 1 p.10.

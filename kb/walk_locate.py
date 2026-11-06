@@ -256,7 +256,7 @@ def main():
 
     if not args.vol:
         sys.exit("--vol required for this command")
-    vol_key = args.vol
+    vol_key = args.vol.replace(".", "")  # canonical ids are dotted (y1v4.5); disk keys are not (y1v45)
     if vol_key == "y0":
         vol_key = "v0"  # disk key for Volume 0
     if vol_key not in vols:
