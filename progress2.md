@@ -1377,3 +1377,25 @@ y0 lines would not associate — y0 is walked last; noted for then. make
 check OK (R18 0, R19 82/82); gate exit 0; hash
 `251c3c38a7b4e2e11d99b2d66116a18c` twice (kb changes do not touch the
 site). New tags: none. Open: y1v4.5 walk, chapter 1 p.10.
+
+y1v4.5 ch1: Summer Vacation is Nearly Over (p.10)
+
+First section of the vignette collection, a single page: the
+collection’s first-person frame — the Sazae-san syndrome, the case that
+the free years of life are the school years and most of a life is
+spent sacrificing for society, and the thesis line naming the book “a
+selection of vignettes about students wavering in that space between
+childhood and adulthood.” No named character and no school business on
+the page: one new scene on Ayanokōji’s file (the first volume’s
+opening-monologue precedent; the page prints no name, recorded as a
+[note]), and the new volume file ledgers/volumes/y1v4.5.md opened in
+the volume bullet dialect with the ch1 section. Page-map notes: the
+printed footer reads “Page 1” although the marker is p.10; front matter
+pp.1–9; translator watermark at the foot, not story text. Sazae-san is
+the TV cartoon of the opening, not a character — no new entities. The
+walk tools now track the dotted volume end to end (next shows ch1
+done, ch2 pp.11-48 next). Quotes: verify 2 non-says ALL PASS (0 says);
+make check OK (R18 0, R19 82/82); gate exit 0; build 180 pages, 52
+assets (the volume’s first scene payload); hash
+`31b9bbdd79993ecc0bd1d4b64778800d` twice. New tags: none. Open: ch2
+pp.11-48 (read 11-29, then 30-48 --blank).

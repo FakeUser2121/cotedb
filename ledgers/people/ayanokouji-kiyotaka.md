@@ -2298,3 +2298,15 @@ walk: y1v1 → DONE
 [note] (p.244) The second semester is about to begin; it’s possible that a certain figure from Ayanokouji Kiyotaka’s past will make an appearance in Volume 5 — and it won’t just involve his classmates, the upperclassmen will get involved too.
 
 <!-- walk: y1v4 ch6 → p.248 -->
+
+## y1v4.5
+
+<!-- walk: y1v4.5 → start -->
+
+### y1v4.5 p.10 — Ch.1: the collection frame
+[scene] (p.10) One-page first-person frame before the vignettes: no character appears and no school business is named — only the narrator’s case against end-of-summer melancholy.
+[narrates] (p.10) “This is a selection of vignettes about students wavering in that space between childhood and adulthood.”
+[trait] (p.10) The frame’s stance: refuses the end-of-vacation blues — the free years of life are the school years, and most of a life is spent sacrificing for society.
+[note] (p.10) The page prints no name; read as the series narrator’s frame, following the first volume’s opening monologue.
+
+<!-- walk: y1v4.5 ch1 → p.10 -->

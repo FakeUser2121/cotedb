@@ -1265,3 +1265,13 @@ from the DOM and the payload file. make browser 25/25 (was 4 FAIL on
 missing jsdom plus those counts), make check OK, gate exit 0; build 180
 pages, 51 assets. Determinism hash across consecutive builds:
 `251c3c38a7b4e2e11d99b2d66116a18c`.
+
+### y1v4.5 Chapter 1 reaches the site (site, 2026-11-07)
+
+The vignette collection opens: its one-page first-person frame (p.10)
+becomes a scene on Ayanokōji’s page and the first chapter of the
+Year 1 Volume 4.5 page, which turns from stub to partly read — 180
+pages, 52 assets (the volume’s first scene payload). Quotes: 2
+non-says spans, corpus-exact; R18/R19 held at 0/82. Determinism hash
+across consecutive builds:
+`31b9bbdd79993ecc0bd1d4b64778800d`.
