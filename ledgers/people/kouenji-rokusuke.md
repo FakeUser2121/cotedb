@@ -209,3 +209,11 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:horikita-manabu] (p.72) Listed with Katsuragi and Ichinose as the obvious candidates for the vice presidency.
 
 <!-- walk: y1v4.5 ch3 → p.107 -->
+
+### y1v4.5 p.129–130 — Ch.4: the elevator ride
+[scene] (p.129) He boards the stalled elevator at the fifth floor and orders the top floor without glancing at them.
+[says] (p.129) “Elevator boy. Top floor,”
+[action] (p.129) He styles his hair in the mirrored wall with the comb he always carries.
+[rel:ayanokouji-kiyotaka] (p.130) He never moves his eyes from the mirror; the water bottle goes unnoticed the whole ride.
+
+<!-- walk: y1v4.5 ch4 → p.131 -->

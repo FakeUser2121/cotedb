@@ -1301,3 +1301,16 @@ ledger-backed directory presences from new files. Quotes: 349 [says] +
 57 non-says spans, corpus-exact; R18/R19 held at 0/82. Determinism
 hash across consecutive builds:
 `a4367c75078ad5c359625972ec57080a`.
+
+### y1v4.5 Chapter 4 reaches the site (site, 2026-11-07)
+
+The water-outage chapter (pp.108–131) lands as scene cards across the
+roster: the turtle parable, the stuck water bottle, the dry sources,
+the Kushida grudge with the ship-exam recap, the corridor run past
+Maezono and Kushida, the elevator with Kouenji, Sakura's water, and the
+ending where Ayanokōji tests the same bottle on himself. Maezono, the
+Cruise Ship Exam, the Cafeteria and the Dormitory gain ledger-backed
+directory presences from new files. Quotes: 447 [says] + 58 non-says
+spans, corpus-exact; R18/R19 held at 0/82. Determinism hash across
+consecutive builds:
+`ec89b51796f06012fa6aa88093943f2d`.

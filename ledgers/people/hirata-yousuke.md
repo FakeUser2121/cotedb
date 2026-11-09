@@ -654,3 +654,10 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:ike-kanji] (p.64) The comparison lands as Ike and Sudou fret about Katsuragi's advantage with older girls.
 
 <!-- walk: y1v4.5 ch3 → p.107 -->
+
+### y1v4.5 p.120 — Ch.4: a passing mention
+[scene] (p.120) Named as the only reliable guy left once the vending machines run dry.
+[action] (p.120) He doesn't pick up the phone and leaves the chat unread.
+[rel:horikita-suzune] (p.120) She trusts his water quality but refuses to owe him a debt, so AK covers the request as his own.
+
+<!-- walk: y1v4.5 ch4 → p.131 -->

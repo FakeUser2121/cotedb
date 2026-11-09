@@ -684,3 +684,20 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:ike-kanji] (p.105) The cake they ambush with is the one she chose.
 
 <!-- walk: y1v4.5 ch3 → p.107 -->
+
+### y1v4.5 p.120–127 — Ch.4: the grudge and the corridor
+[scene] (p.120) Horikita's grudge names her: on the ship test she steered her group toward a draw instead of winning.
+[rel:horikita-suzune] (p.120) Horikita can't accept her to this day; the VIP leak is the core of the suspicion.
+[says:horikita-suzune] (p.121) “Therefore, I assume she’s guilty.”
+[rel:horikita-suzune] (p.121) AK calls the accusation speculation and puts the responsibility on Horikita's team management.
+[scene] (p.125) In the corridor she steps out of Maezono's room unnoticed, then is caught again returning the forgotten phone.
+[rel:maezono] (p.125) She visits Maezono during the outage and brings back her forgotten phone.
+[says] (p.125) “Ah, Ayanokouji-kun. Horikita-san. Good evening.”
+[says] (p.126) “But the power’s out in the east emergency stairwell right now.”
+[says] (p.126) “Horikita seems to be acting differently than usual.”
+[says] (p.126) “Well, if something’s troubling you, please tell me.”
+[says] (p.126) “Maezono-san was in trouble earlier because she had no water.”
+[rel:horikita-suzune] (p.127) Horikita refuses her water outright; she leaves sweetly none the wiser.
+[says] (p.127) “Well then, good night to you both,”
+
+<!-- walk: y1v4.5 ch4 → p.131 -->

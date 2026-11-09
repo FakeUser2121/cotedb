@@ -469,3 +469,9 @@ aliases used for anchors: ike, kanji, ike-kun
 [action] (p.105) He shoves the box into Katsuragi's hands and runs off with Yamauchi.
 
 <!-- walk: y1v4.5 ch3 → p.107 -->
+
+### y1v4.5 p.119 — Ch.4: a passing mention
+[scene] (p.119) Named as one of two classmates who might still have drinking water during the outage.
+[rel:horikita-suzune] (p.119) Horikita refuses his water without being asked — she does not trust what they leave uncovered.
+
+<!-- walk: y1v4.5 ch4 → p.131 -->

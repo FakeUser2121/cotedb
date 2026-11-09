@@ -49,3 +49,13 @@ place_id: keyaki-mall · location: ANHS Campus Commercial District · type: shop
 [rel:katsuragi-kouhei] (p.75) Katsuragi helps clean up; the gift bag still holds the un-given wrapped box.
 
 <!-- walk: y1v4.5 ch3 → p.107 -->
+
+### y1v4.5 p.108 — Ch.4: a passing mention
+[scene] (p.108) During the outage the mall is named as the one place offering free drinking water.
+[fact] (p.108) Students may drink there but are prohibited from bottling water and taking it home.
+
+### y1v4.5 p.122 — Ch.4: the plan's final option
+[scene] (p.122) The mall becomes the plan's last resort for water once every dorm source fails.
+[rel:horikita-suzune] (p.122) Going there means Horikita must risk being seen outside with the bottle on her arm.
+
+<!-- walk: y1v4.5 ch4 → p.131 -->

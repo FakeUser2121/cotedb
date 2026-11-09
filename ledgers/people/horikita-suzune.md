@@ -1500,3 +1500,80 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [status] (p.87) She refuses to join the shopping trip; AK had known all along it would be her answer.
 
 <!-- walk: y1v4.5 ch3 → p.107 -->
+
+### y1v4.5 p.108–119 — Ch.4: the water bottle
+[scene] (p.108) [place:dormitory] She calls AK twice during the water outage and then goes silent, starting the chapter's worry.
+[action] (p.108–110) Missed calls, read receipts without replies, then no read receipt at all on his last text.
+[says:ayanokouji-kiyotaka] (p.111) “Sorry for calling a bunch of times.”
+[says] (p.111) “No, I wasn’t.”
+[says] (p.111) “I’m kind of in the middle of something right now,”
+[action] (p.111) A metallic thunk sounds on the line and she ends the call abruptly.
+[says] (p.112) “There’s something I wanted to ask you.”
+[says] (p.112) “Let’s say that there was a turtle,”
+[says] (p.113) “This would have been easier if you’d just assumed that turtles can’t get up on their own and listened to me,”
+[says] (p.113) “In such a situation, what would you do?”
+[says] (p.113) “I was just talking about a turtle on its back.”
+[says] (p.113) “I just…wanted to talk to you about a turtle that flipped over,”
+[says] (p.113) “If you say that you can’t prevent wanting to help people, then perhaps I can’t go to you for advice,”
+[says] (p.113) “I’m just having a little trouble.”
+[says] (p.114) “That’s not it.”
+[says] (p.114) “I’ll tell you everything.”
+[says] (p.114) “Could you come to my room?”
+[says] (p.114) “I understand, but…to deal with this, you need to be here.”
+[says] (p.114) “I know, but I can’t do this unless you’re here,”
+[action] (p.114) She hangs up without another word, leaving him to decide whether to come.
+[rel:ayanokouji-kiyotaka] (p.114) She calls him past nine rather than anyone else on the floor.
+[says] (p.115) “Even if someone came in right now, I’d conk them with my right hand,”
+[says] (p.115) “Once you see, you’ll understand.”
+[action] (p.115) She turns to show her right hand completely stuck inside a small water bottle.
+[says] (p.116) “Don’t be dumb.”
+[says] (p.116) “It wasn’t funny because I was teasing you, right?”
+[says] (p.116) “This water bottle got stuck because I tried to wash my hand.”
+[says] (p.116) “Let’s get this over with quickly,”
+[action] (p.116) Exhausted from two hours of trying alone, she resigns herself to being stuck when the pull fails.
+[says] (p.118) “Did you forget that there’s a water outage right now?”
+[says] (p.119) “Pass,”
+[says] (p.119) “I’m opposed to using any water they might have.”
+[action] (p.119) She braces her right arm for a second pull, sweating through the pain.
+[says] (p.119) “Yes. Even if it hurts,”
+
+### y1v4.5 p.120–131 — Ch.4: refused help and the way home
+[scene] (p.120) Cornered by the outage, she refuses Hirata's water to avoid a debt and vetoes Kushida on sight.
+[says] (p.120) “I wouldn’t have any concerns about the quality of Hirata’s water, but…I dislike the idea of owing him a debt,”
+[says] (p.120) “Please ask Sakura-san,”
+[says] (p.120) “There’s no reason for us to get along.”
+[says] (p.120) “She abandoned the idea of trying to win right from the start.”
+[says] (p.121) “Kushida being our group’s VIP gave Class D the advantage.”
+[says] (p.121) “Therefore, I assume she’s guilty.”
+[says] (p.121) “Don’t be absurd.”
+[says] (p.122) “You’re talking about very complicated things,”
+[says] (p.122) “I accept the test results.”
+[says] (p.122) “Honestly, today is just not my day,”
+[says] (p.122) “If I planned to wait, I wouldn’t have called you.”
+[says] (p.123) “This is not my day,”
+[says] (p.123) “I really can’t go outside like this,”
+[says] (p.123) “That was completely unnecessary,”
+[says] (p.123) “Will a bath towel do?”
+[says] (p.124) “Rejected.”
+[says] (p.124) “Can’t you think of anything better?”
+[says] (p.124) “I suppose so.”
+[says] (p.125) “I’d rather take the stairs than let someone see me,”
+[says] (p.125) “That’s Maezono-san’s room.”
+[says] (p.126) “There’s no need for us to linger,”
+[says] (p.126) “Nothing’s wrong!”
+[action] (p.127) She refuses Kushida's water without a word, pressing the bottle into AK's back.
+[rel:kushida-kikyou] (p.127) The water Kushida offers is the one thing Horikita wants most and will not take from her.
+[says] (p.128) “At this rate, they’re going to see us,”
+[says] (p.128) “We have no choice now but to use the elevator!”
+[says] (p.128) “Since we know the camera’s position, we should be able to do that,”
+[says] (p.129) “I’ll just endure this bottle until the water comes back,”
+[action] (p.129) Kouenji boards at the fifth floor; she hides in the camera's blind spot behind AK.
+[says] (p.130) “Walking around outside is completely out of the question,”
+[says] (p.130) “However, please don’t tell Sakura-san about me,”
+[action] (p.130) She nearly swings the bottle at the commemorative-photo joke.
+[says] (p.131) “Honestly, this day was a complete disaster,”
+[says] (p.131) “Please don’t speak a word of this to anyone.”
+[says] (p.131) “Thank you.”
+[says] (p.131) “Shut up,”
+
+<!-- walk: y1v4.5 ch4 → p.131 -->

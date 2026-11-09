@@ -276,3 +276,9 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:horikita-suzune] (p.86) His win is what still makes her uneasy at the start of the second semester.
 
 <!-- walk: y1v4.5 ch3 → p.107 -->
+
+### y1v4.5 p.122 — Ch.4: a passing mention
+[scene] (p.122) AK privately guesses Ryuuen or Katsuragi forced the Dragon group's ship-exam outcome.
+[inference] (p.122) He can't tell which of the two it was; the guess stays in his head.
+
+<!-- walk: y1v4.5 ch4 → p.131 -->

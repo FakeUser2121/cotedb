@@ -2632,3 +2632,67 @@ walk: y1v1 → DONE
 [rel:horikita-manabu] (p.104) AK wonders whether Manabu arranged the blind spots — or watched the violation happen.
 
 <!-- walk: y1v4.5 ch3 → p.107 -->
+
+### y1v4.5 p.108–119 — Ch.4: the water outage
+[scene] (p.108) [place:dormitory] A water-department failure at 6 PM cuts the dormitory until early morning; AK cooks fried rice without water and notices Horikita's two missed calls.
+[action] (p.108) He calls back twice; she doesn't answer either time, and he returns to dinner.
+[says:horikita-suzune] (p.109) “Yeah, right,”
+[action] (p.109) Two of his texts get instant read receipts and no reply.
+[says] (p.110) “She couldn’t be… She’s not really in danger, is she?”
+[says] (p.110) “I’m worried.”
+[action] (p.110) The next text gets no read receipt; he works through theories — battery, sleep, a teacher — and rejects them all.
+[says] (p.111) “Sorry for calling a bunch of times.”
+[action] (p.111) She sounds tired, says she is mid-something, a metallic thunk sounds, and she hangs up abruptly.
+[action] (p.112) About 9:00 P.M. she texts to ask if he is awake and takes his call on the first ring.
+[says] (p.113) “So, what’s wrong?”
+[says] (p.113) “This isn’t like you.”
+[rel:horikita-suzune] (p.113) He reads the turtle parable as her having no one else to go to.
+[says:horikita-suzune] (p.114) “Could you come to my room?”
+[action] (p.114) Past nine and on the girls' floor, he grabs only his phone and room key and goes.
+[says] (p.114) “This is kinda scary.”
+[action] (p.115) [place:dormitory] He slips onto the thirteenth floor undetected; her door is unlocked.
+[says] (p.115) “You’re being way too loud,”
+[action] (p.115) In the bedroom he finds her right hand stuck inside a small water bottle.
+[says] (p.116) “This water bottle got stuck because I tried to wash my hand.”
+[action] (p.116) Pulling only drags her closer; she has already fought the bottle alone for over two hours.
+[says] (p.116) “It’s no use.”
+[action] (p.118) [place:cafeteria] The outage runs to twelve; the cafeteria is out of water and every vending machine is sold out.
+[says] (p.118) “I’ve never seen a completely sold-out vending machine before,”
+[action] (p.119) He offers Ike or Sudou as a water source; she refuses their water on principle.
+[action] (p.119) A second dry pull fails; the bottle only comes off with soap and water.
+
+### y1v4.5 p.120–131 — Ch.4 §4.4–4.6: the run for water
+[scene] (p.120) With every local source dry, AK proposes Hirata and then Kushida or Sakura; Horikita vetoes Kushida on the spot.
+[action] (p.120) Hirata doesn't pick up, and his chat stays unread.
+[says] (p.120) “I’m not getting a response.”
+[says] (p.121) “But that’s just speculation on your part.”
+[says] (p.121) “You have to win at all costs.”
+[says] (p.122) “If Kushida did manipulate you all into Outcome #1, that’s honestly amazing.”
+[inference] (p.122) He privately guesses Ryuuen or Katsuragi forced the Dragon group's outcome — he can't tell which.
+[says] (p.122) “Besides, you’re maturing.”
+[action] (p.122) Sakura's chat goes unread; he proposes the Keyaki Mall run.
+[says] (p.122) “We’ll head to Keyaki Mall for water.”
+[action] (p.123) His friends are out for karaoke, so there is no cover from them.
+[says] (p.122) “Then you have to take a risk, too,”
+[says] (p.123) “Let’s get this over with, then.”
+[action] (p.123) He covers the bottle with her handkerchief, then a folded bath towel.
+[action] (p.124) The towel and bag ideas die; they go out as they are.
+[says] (p.124) “Okay, no sign of anyone. Let’s go,”
+[action] (p.125) He leads her to the emergency stairs; Maezono's door opens three rooms behind them and Kushida steps out unseen.
+[action] (p.126) The forgotten phone turns Kushida back; she greets them and the east stairwell turns out to be locked and power-out.
+[says] (p.126) “Oh, uh. We were just thinking of taking the stairs.”
+[action] (p.127) Horikita refuses the water offer by pressing the bottle into his back.
+[action] (p.128) Students fill the lobby and a voice sounds on the stairs; forced back, he stands in front of the lobby camera as cover.
+[says] (p.129) “Well, we’re safe for now, but…this is just the beginning,”
+[action] (p.129) The elevator stops at the fifth floor: Kouenji boards and orders the top floor.
+[action] (p.130) Kouenji never looks their way; Sakura's reply finally arrives with water on offer.
+[says] (p.130) “Apparently, Sakura has water.”
+[says] (p.130) “What a terrifying woman.”
+[action] (p.131) The bottle comes off after a long struggle; he heads back to his own room.
+[says] (p.131) “There—it’s off,”
+[says] (p.131) “Before you go issuing warnings, isn’t there something else you’d like to say first?”
+[says] (p.131) “That’s just so unlike you, Horikita.”
+[action] (p.131) Alone, he tests the same bottle on his own hand and gets stuck.
+[says] (p.131) “I-I think I’m trapped!”
+
+<!-- walk: y1v4.5 ch4 → p.131 -->

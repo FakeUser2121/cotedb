@@ -585,3 +585,9 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [result] (p.104) He executes perfectly: bag check passed, gift mailed, video sent and deleted.
 
 <!-- walk: y1v4.5 ch3 → p.107 -->
+
+### y1v4.5 p.119 — Ch.4: a passing mention
+[scene] (p.119) Named with Ike as a possible source of water for the stuck bottle.
+[rel:horikita-suzune] (p.119) Horikita passes on his water too, lumping him with Ike as careless with drinks.
+
+<!-- walk: y1v4.5 ch4 → p.131 -->

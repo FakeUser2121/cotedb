@@ -497,3 +497,13 @@ aliases used for anchors: sakura, airi, sakura-san
 [rel:yamauchi-haruki] (p.83) The narration notes Kushida's charms reach him even with Sakura on his mind.
 
 <!-- walk: y1v4.5 ch3 → p.107 -->
+
+### y1v4.5 p.122, 130 — Ch.4: the one who had water
+[scene] (p.122) AK's chat asking to borrow water goes unread; he assumes she is asleep.
+[rel:horikita-suzune] (p.130) Her late reply opens the way to real water; Horikita asks that she never learn who was stuck.
+[scene] (p.130) She replies that she was researching and didn't notice the message.
+[says] (p.130) “You wanted water, right?”
+[says] (p.130) “I’ll wait for you,”
+[note] (p.130) Texting with her goes smoothly where talking in person is difficult.
+
+<!-- walk: y1v4.5 ch4 → p.131 -->

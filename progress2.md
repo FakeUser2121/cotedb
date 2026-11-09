@@ -1487,3 +1487,44 @@ short/skipped) + 57 non-says ALL PASS. make check OK (R18 0, R19
 82/82); gate exit 0; build 180 pages, 53 assets; hash
 `a4367c75078ad5c359625972ec57080a` twice. New tags: none. Open: ch4
 pp.108–131.
+
+y1v4.5 ch4: Dangers Lurk in Everyday Life (pp.108–131)
+
+Read in two halves (108–119, then 120–131 --blank) and written between
+them; six subsections 4.1–4.6. Setup: the 6:00 P.M. water-department
+failure cuts the dormitory until early morning and Horikita's two
+unanswered calls turn a quiet dinner into a worry. Beats: the 9:00 P.M.
+turtle parable and the past-nine request; the right hand stuck in a
+small water bottle for over two hours; every local source dry —
+cafeteria out, vending machines sold out, Ike and Sudou refused on
+principle, Hirata unreachable; the Kushida grudge with the ship-exam
+recap (Outcome #1's 500,000/1,000,000, "I assume she's guilty",
+responsibility both ways); the disguise run — handkerchief, bath
+towel, going as they are — down the corridor where Maezono's door
+opens and Kushida offers water that Horikita presses away; the locked
+east stairwell, the lobby camera, the elevator where Kouenji orders the
+top floor and never leaves the mirror; Sakura's late reply, the bottle
+off, gratitude extracted, and Ayanokōji trapping his own hand testing
+the same bottle.
+
+Ledgers: 17 files carry `<!-- walk: y1v4.5 ch4 → p.131 -->` — 14
+appended in both halves (including the volume file), 3 half-1-only
+stamped by hand (ike, sudou, cafeteria). New files:
+ledgers/people/maezono.md, ledgers/exams/cruise-ship-exam.md,
+ledgers/places/cafeteria.md, ledgers/places/dormitory.md (all roster
+and place rows pre-existed with y1v4.5 in their cells; no TSV edits).
+Mention anchors: hirata p.120, sakura p.122+130, kouenji p.129–130,
+maezono p.125–127, ryuuen/katsuragi p.122 speculation, kushida
+p.120–121 as subject and p.125–127 in the corridor, keyaki-mall
+p.108+122. Quote rows were pre-split to one sentence per pair before
+append; three half-1 rows fixed the same way before verify.
+
+Attribution gaps kept: none — every spoken line names its speaker;
+unnamed on the page: the karaoke friends (p.123), the lobby students
+and stairwell voice (p.128), the cafeteria lady. Defects kept as
+printed: blank scan p.117; footers run nine behind the markers (p.108
+prints “Page 99”). Quotes: verify 447 [says] (8 too short/skipped) +
+58 non-says ALL PASS. make check OK (R18 0, R19 82/82); gate exit 0;
+build 180 pages, 56 assets; hash
+`ec89b51796f06012fa6aa88093943f2d` twice. New tags: none. Open: ch5
+pp.132–152.

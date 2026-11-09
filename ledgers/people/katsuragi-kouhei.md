@@ -295,3 +295,9 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [trait] (p.106) He imagines the melted ice cream cake as a new form of harassment — and the chapter ends on his read.
 
 <!-- walk: y1v4.5 ch3 → p.107 -->
+
+### y1v4.5 p.122 — Ch.4: a passing mention
+[scene] (p.122) Named with Ryuuen as AK's private guess for who steered the ship-exam outcome.
+[inference] (p.122) The speculation is AK's alone; no evidence is offered either way.
+
+<!-- walk: y1v4.5 ch4 → p.131 -->

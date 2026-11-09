@@ -211,3 +211,9 @@ system_id: point-economy · scope: Tokyo Metropolitan Advanced Nurturing High Sc
 [rule] (p.103) A third-party phone can be borrowed for 5,000 points to keep AK's own account clean.
 
 <!-- walk: y1v4.5 ch3 → p.107 -->
+
+### y1v4.5 p.121 — Ch.4: the Outcome #1 recap
+[rule] (p.121) Cruise ship Outcome #1: every member receives 500,000 private points and the VIP 1,000,000 — but the VIP's class gets no class points.
+[rule] (p.121) Outcome #1 is the hardest of four: everyone in the group must identify the VIP and wait until the assigned time to submit, with no early answer.
+
+<!-- walk: y1v4.5 ch4 → p.131 -->
