@@ -38,3 +38,14 @@ place_id: keyaki-mall · location: ANHS Campus Commercial District · type: shop
 [note] (p.47) Rescue is external: two adults move the car by remote control from the first floor; the pair’s button work coincides with it.
 
 <!-- walk: y1v4.5 ch2 → p.48 -->
+
+### y1v4.5 p.51–59 — Ch.3: the girls' shop
+[scene] (p.51) The boys cross the mall to a pink store full of stuffed animals and phone accessories; the clerk is an older beauty.
+[rel:katsuragi-kouhei] (p.55–58) Katsuragi browses the same store alone, buys chocolate with a birthday card, and leaves without noticing them watching.
+[rule] (p.52) AK observes the school gave the points in the first place, so spending them back is not really a loss.
+
+### y1v4.5 p.74–76 — Ch.3: the chocolate shelves again
+[scene] (p.74) AK returns to the same store to picture Katsuragi's buyer and knocks a stack of boxes over.
+[rel:katsuragi-kouhei] (p.75) Katsuragi helps clean up; the gift bag still holds the un-given wrapped box.
+
+<!-- walk: y1v4.5 ch3 → p.107 -->

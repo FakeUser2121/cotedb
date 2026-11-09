@@ -79,3 +79,17 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.174) No scene presence; one spoken name in Karuizawa’s line.
 
 <!-- walk: y1v4 ch4 → p.204 -->
+
+## y1v4.5
+
+<!-- walk: y1v4.5 → start -->
+
+### y1v4.5 p.53–55 — Ch.3: behind Ike
+[scene] (p.53) Shinohara's liking for the orange character is raised by Yamauchi while Ike holds her keychain.
+[rel:ike-kanji] (p.53–54) She arrives with friends including Kushida and overhears Ike's entire tirade about how ugly she is.
+[says:ike-kanji] (p.54) “Shinohara isn’t cute at all, and she has too much attitude!”
+[says] (p.55) “You can just go ahead and die, Ike!”
+[action] (p.55) She storms out of the store; Ike is left speechless pretending he does not care.
+[rel:kushida-kikyou] (p.61) The fallout is still live: Kushida makes Ike promise to apologize to her.
+
+<!-- walk: y1v4.5 ch3 → p.107 -->

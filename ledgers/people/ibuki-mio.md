@@ -335,3 +335,10 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:ayanokouji-kiyotaka] (p.46–47) Works the button combinations with him, punches the wall when they fail, and lands the floor-plus-close press that moves the car: “Fortune-telling is serious business.”
 
 <!-- walk: y1v4.5 ch2 → p.48 -->
+
+### y1v4.5 p.49, 61 — Ch.3: passing mentions
+[scene] (p.49) The chapter dates itself one week before AK and Ibuki ended up stuck in the elevator — a back-reference to Chapter 2.
+[back] (p.49) The elevator entrapment is already history; this volume's earlier chapters covered it.
+[note] (p.61) AK groups her with Horikita as “stubborn loners like Horikita and Ibuki” whose birthdays Kushida would be unlikely to know.
+
+<!-- walk: y1v4.5 ch3 → p.107 -->

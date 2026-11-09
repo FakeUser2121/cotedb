@@ -592,3 +592,13 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [note] (p.236) Just as he was about to part ways with Ichinose, four emails arrive in rapid succession announcing the end of the test.
 
 <!-- walk: y1v4 ch5 → p.243 -->
+
+## y1v4.5
+
+<!-- walk: y1v4.5 → start -->
+
+### y1v4.5 p.72 — Ch.3: a passing mention
+[scene] (p.72) Named among the obvious first-year candidates for Manabu's attention before AK.
+[rel:horikita-manabu] (p.72) Mentioned alongside Katsuragi as someone the president could have chosen first.
+
+<!-- walk: y1v4.5 ch3 → p.107 -->

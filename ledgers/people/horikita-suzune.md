@@ -1476,3 +1476,27 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (p.43) The combat memory: “I heard you kept up with Horikita.” — Ayanokōji grants he could not defeat her in combat.
 
 <!-- walk: y1v4.5 ch2 → p.48 -->
+
+### y1v4.5 p.51, 62–63, 71, 77–78 — Ch.3: passing mentions
+[scene] (p.51) Named in passing as half of the “Horikita and Kushida” schedules AK refuses to manage; otherwise absent from the chapter's scenes.
+[rel:sudou-ken] (p.62–63) The room speculates Katsuragi's gift could be for her; Sudou demands her birthday and gets February 15 from Kushida.
+[says:kushida-kikyou] (p.63) “It’s on February 15.”
+[rel:horikita-manabu] (p.71) Her brother calls her a failure who belongs in Class D; AK's cover story for the island test is rejected.
+[says:horikita-manabu] (p.71) “She’s a failure who belongs in Class D.”
+[rel:katsuragi-kouhei] (p.77) Katsuragi asks if AK is close with her; AK attributes it to the seating partnership.
+
+### y1v4.5 p.86–87 — Ch.3: the bench conversation
+[scene] (p.86) Reading outside, she accosts the shopping four about the Ryuuen loss; AK sits down and reframes the semester.
+[says] (p.86) “Even after we suffered so much at Ryuuen-kun’s hands?”
+[rel:ryuuen-kakeru] (p.86) The Class C loss under Ryuuen is what still gnaws at her.
+[says:ayanokouji-kiyotaka] (p.86) “Look, we just finished the first semester of our first year.”
+[says:ayanokouji-kiyotaka] (p.86) “Although you can’t see what’s directly beneath your feet, you’re always looking far ahead.”
+[says:ayanokouji-kiyotaka] (p.86) “I think that it’s preferable for you to fall until you hit rock bottom,”
+[voice] (p.87) She calls out the island contradiction in his order-to-things advice; he admits it without explaining Chabashira.
+[says] (p.87) “You say there’s an order to things, but if that’s true, why did you go to all that trouble back on the island?”
+[rel:chabashira-sae] (p.87) She has no clue about his dealings with Chabashira; that stays hidden.
+[says] (p.87) “None of your business.”
+[says] (p.87) “I refuse.”
+[status] (p.87) She refuses to join the shopping trip; AK had known all along it would be her answer.
+
+<!-- walk: y1v4.5 ch3 → p.107 -->

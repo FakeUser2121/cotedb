@@ -546,3 +546,42 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [note] (p.48) Katsuragi wants it passed on: he is very appreciative, and asks Ayanokōji to tell him once again.
 
 <!-- walk: y1v4.5 ch2 → p.48 -->
+
+### y1v4.5 p.51 — Ch.3: his share of the points
+[scene] (p.51) Sudou is absent from the shopping trip, but his share of the gift points rides along with the boys.
+[rel:ike-kanji] (p.51) AK cites Sudou's entrustment to stop the bickering between Ike and Yamauchi.
+
+### y1v4.5 p.62–66 — Ch.3: jealousy as strategy
+[scene] (p.62) In AK's room Sudou snaps at the Horikita suggestion and demands Suzune's birthday.
+[says] (p.62) “When is Suzune’s birthday?”
+[says] (p.62) “You’re worthless,”
+[rel:horikita-suzune] (p.63) He takes the February 15 date as a win: “snagged some good info.”
+[says] (p.63) “Sounds like I’ve snagged some good info,”
+[rel:ike-kanji] (p.63) He keeps Ike in a headlock mid-conversation and forgets to let go.
+[says] (p.64) “Just because we’ll probably lose to him doesn’t mean we don’t have a chance of winning!”
+[says] (p.64) “In basketball, you can use plays that are just barely allowed.”
+[says] (p.64) “A strong desire for victory is what really matters.”
+[rel:katsuragi-kouhei] (p.64–65) He frames stopping Katsuragi's gift as a play just barely allowed.
+[says] (p.65) “If Katsuragi giving a present to some girl will bring them closer, then we gotta stop him from doing it,”
+[rel:kushida-kikyou] (p.65) Kushida's ban shuts the plan down; Sudou has tournament practice as cover.
+[status] (p.65) His basketball tournament is Thursday; he claims no free time until after it.
+[says] (p.66) “You gotta investigate,”
+[says] (p.66) “Should I force you?”
+[feat] (p.66) The threat of a headlock is enough to make AK accept the job.
+
+### y1v4.5 p.98–104 — Ch.3: the 100,000-point run
+[scene] (p.98) Fresh from club, Sudou is pitched the package job and rejects it flatly.
+[says] (p.98) “Seriously, who in their right mind would want to do something like that?”
+[says] (p.98) “Besides, I ain’t obliged to listen to a request from baldy over here,”
+[feat] (p.98–99) He lays out the tournament inspection sequence — bags in the morning, phones confiscated, lockers watched, no cross-school talk.
+[rel:katsuragi-kouhei] (p.99) The 100,000-point offer stiffens him; betrayal fear from Class C surfaces.
+[says] (p.100) “What am I gonna do if you decide to betray me?”
+[status:points] (p.100) 20,000 advance now, 80,000 on success, routed through AK as insurance.
+[says] (p.101) “I guess I’m someone who’ll take that risk,”
+[rel:katsuragi-kouhei] (p.101) Katsuragi's lingering doubt annoys him: the one asking for help suspects him.
+[says] (p.101) “Katsuragi’s the one who came asking for help, and now he doubts me?”
+[rel:ayanokouji-kiyotaka] (p.103) He calls AK a surprisingly shady guy for the third-party phone trick.
+[says] (p.103) “You know, you’re a surprisingly shady guy.”
+[result] (p.104) He executes perfectly: bag check passed, gift mailed, video sent and deleted.
+
+<!-- walk: y1v4.5 ch3 → p.107 -->

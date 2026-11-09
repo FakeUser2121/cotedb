@@ -192,3 +192,22 @@ system_id: point-economy · scope: Tokyo Metropolitan Advanced Nurturing High Sc
 [status:points] (p.34) His balance check finds roughly 6,000 left — “barely enough” — and both take the Basic Plan; the card reader deducts, price not printed.
 
 <!-- walk: y1v4.5 ch2 → p.48 -->
+
+### y1v4.5 p.49–50 — Ch.3: broke until September
+[rule] (p.49) Promised special-exam points will not be deposited until September 1; AK has almost nothing left after the fortune-teller spend.
+[status:points] (p.50) “We had been awarded 8,700 private points at the start of August.”
+[rule] (p.50) Free meal plan and free water make going a full month without spending possible; most students still run dry near month's end.
+[status:points] (p.50) First month's 100,000 points set the comparison; the boys pool 500 points for one gift.
+
+### y1v4.5 p.67 — Ch.3: summer clothes priced out
+[rule] (p.67) Summer clothes sell at rather high prices; some Class D girls wanted them but had to do without.
+
+### y1v4.5 p.82, 99–103 — Ch.3: the reward economy
+[rule] (p.82) AK is asked for about 1,500 points toward Katsuragi's present; his expenses double.
+[status:points] (p.99) Katsuragi offers Sudou 100,000 points for the delivery — next to Sudou's daily 1,000–2,000.
+[status:points] (p.100) 20,000 paid as advance, 80,000 on completion, proving complicity to both parties.
+[status:points] (p.101–102) Payment routes through AK rather than Sudou so the deposit cannot be traced to Katsuragi.
+[status:points] (p.103) AK's fee is 10,000 points for hiding his phone in the water bottle.
+[rule] (p.103) A third-party phone can be borrowed for 5,000 points to keep AK's own account clean.
+
+<!-- walk: y1v4.5 ch3 → p.107 -->

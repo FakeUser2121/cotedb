@@ -448,3 +448,17 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [trait] (p.168) The teacher rivalry read: competing and deceiving for the top class — salaries or a school-days grudge, he can’t tell.
 
 <!-- walk: y1v4 ch4 → p.204 -->
+
+## y1v4.5
+
+<!-- walk: y1v4.5 → start -->
+
+### y1v4.5 p.71 — Ch.3: a passing mention
+[scene] (p.71) AK compares Manabu's interest in him to Chabashira's — the 50% entrance scores and the resume-versus-report gap.
+[rel:ayanokouji-kiyotaka] (p.71) She is the other adult who has fixated on him for the same reason; no scene with her in this chapter.
+
+### y1v4.5 p.87 — Ch.3: a passing mention
+[scene] (p.87) AK credits his island and cruise-ship restraint to the partial displays he gave her.
+[rel:ayanokouji-kiyotaka] (p.87) She is the reason he had to show off on the island; Horikita has no clue about the arrangement.
+
+<!-- walk: y1v4.5 ch3 → p.107 -->

@@ -644,3 +644,13 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [note] (p.242) No answer to his Dragon question from anyone but Ayanokōji — the table is stunned silent first.
 
 <!-- walk: y1v4 ch5 → p.243 -->
+
+## y1v4.5
+
+<!-- walk: y1v4.5 → start -->
+
+### y1v4.5 p.64 — Ch.3: a passing mention
+[scene] (p.64) AK notes Hirata is popular with both Class D and the upperclassmen while measuring his own group against Class A.
+[rel:ike-kanji] (p.64) The comparison lands as Ike and Sudou fret about Katsuragi's advantage with older girls.
+
+<!-- walk: y1v4.5 ch3 → p.107 -->

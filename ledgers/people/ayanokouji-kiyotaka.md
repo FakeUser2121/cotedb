@@ -2367,3 +2367,268 @@ walk: y1v1 → DONE
 [back] (p.48) The friendship and the plan are treated as already told — “The story of our friendship had begun a little while ago.”
 
 <!-- walk: y1v4.5 ch2 → p.48 -->
+
+### y1v4.5 p.49–50 — Ch.3: the birthday invite and the empty wallet
+[scene] (p.49) One week before the elevator, Kushida's group-chat message asks the boys to celebrate Inogashira's birthday; AK notes the class is broke until the September 1 deposit.
+[says:kushida-kikyou] (p.49) “Next Wednesday is Inogashira-san’s birthday.”
+[trait] (p.49) Inogashira is “a somewhat quiet, plain girl from Class D, rather like Sakura” — AK's comparison for the reader.
+[inference] (p.49) Ike jumps at the invitation because he likes Kushida and wants to be in her good graces; AK reads the event as his chance to get closer to her.
+[says:ike-kanji] (p.49) “Let’s get some presents for Kokoro-chan!”
+[says:yamauchi-haruki] (p.49) “Well, I don’t got any money.”
+[rule] (p.49) The class's promised special-exam points will not be deposited until September 1; AK has almost nothing left after the fortune-teller.
+[says] (p.50) “Isn’t it all right if the guys just pool their points and buy her one present?”
+[rule] (p.50) “We had been awarded 8,700 private points at the start of August.”
+[rule] (p.50) Free meals and free water make going without spending possible, but most students run dry near month's end, as with the first month's 100,000 points.
+[action] (p.50) All three agree to the pooled gift and set out to buy it together.
+
+### y1v4.5 p.51–57 — Ch.3 §3.1: shopping with the two idiots
+[scene] (p.51) The boys meet without Kushida to buy Inogashira's present; Ike complains, Yamauchi bickers, and AK mediates with Sudou's share of the points.
+[says:ike-kanji] (p.51) “She’s the most important person!”
+[says] (p.51) “Remember, Kushida never said that she’d go with us.”
+[says:yamauchi-haruki] (p.51) “You wanted to go, so you should do the shopping!”
+[says] (p.51) “It’ll be better if we shop together, right?”
+[rel:sudou-ken] (p.51) Sudou entrusted the boys with his share of the points for the gift.
+[action] (p.52) In the pink girls' shop, AK's first present-buying attempt — a phone case — is rejected by Yamauchi.
+[says:yamauchi-haruki] (p.53) “You really have no sense when it comes to this stuff, Ayanokouji.”
+[trait] (p.53) Yamauchi researched the recipient's taste; AK has enough trouble remembering Inogashira's name and face.
+[says:yamauchi-haruki] (p.53) “Kokoro-chan likes the white bear series, so she should be happy with this present.”
+[scene] (p.53) Ike stands frozen at the keychain shelf holding an orange-character charm Shinohara is known to like, then puts it back.
+[says:yamauchi-haruki] (p.53) “If I remember correctly, didn’t Shinohara like that orange character?”
+[says:ike-kanji] (p.54) “No way in hell, dude!”
+[says:ike-kanji] (p.54) “Shinohara isn’t cute at all, and she has too much attitude!”
+[action] (p.54) Shinohara stands behind Ike through the whole tirade; her friends, including Kushida, are elsewhere in the store.
+[says:shinohara-satsuki] (p.55) “You can just go ahead and die, Ike!”
+[scene] (p.55) Yamauchi spots Katsuragi browsing the same store; the boys hide and watch him hesitate over a thin box.
+[says:yamauchi-haruki] (p.55) “What’s baldy got there?!”
+[feat] (p.55) AK considers catching Katsuragi shoplifting for later leverage, then rejects the idea himself.
+[says:ike-kanji] (p.56) “Maybe he doesn’t want anyone to see what he’s buying?”
+[rel:katsuragi-kouhei] (p.56) Katsuragi picks a box and pays without noticing the Class D boys watching him.
+
+### y1v4.5 p.58–59 — Ch.3 §3.1: the chocolate and the date
+[scene] (p.58) Ike and Yamauchi inspect the box Katsuragi bought: chocolate in cute wrapping, for a girl.
+[says:katsuragi-kouhei] (p.58) “The birthday is August 29.”
+[says:ike-kanji] (p.58) “Which girl has a birthday on the twenty-ninth?”
+[says:yamauchi-haruki] (p.58) “Do you know who it might be, Ayanokouji?”
+[note] (p.59) Page 59 is a single line — AK has no clue either, and the date stays unmatched.
+
+### y1v4.5 p.60–66 — Ch.3 §3.2: birthdays in AK's room
+[scene] (p.60) After dinner Ike, Yamauchi, Kushida and Sudou gather in AK's room to identify Katsuragi's August 29 birthday girl.
+[says:ike-kanji] (p.60) “Kikyou-chan, do you know the other girls’ birthdays?”
+[says:kushida-kikyou] (p.60) “I think I’ve memorized the birthdates of everyone who’s told me, more or less.”
+[says:kushida-kikyou] (p.60) “If it’s a first-year girl, I should know everyone, but I can’t think of anyone who fits”
+[rel:katsuragi-kouhei] (p.61) Kushida: Katsuragi is the famous Class A class leader, and she was in his group on the ship test.
+[says:kushida-kikyou] (p.61) “Katsuragi-kun lost his hair completely when he was young, due to illness.”
+[action] (p.61) Kushida scolds Ike for the baldy jokes; he apologizes to her and agrees to apologize to Shinohara.
+[says:kushida-kikyou] (p.61) “You understand what you should do about it, right?”
+[says:ike-kanji] (p.61) “I’m sorry, Kikyou-chan.”
+[says:kushida-kikyou] (p.62) “I never got the impression that Katsuragi-kun was the romantic sort”
+[says] (p.62) “It couldn’t possibly be Horikita-san, could it?”
+[rel:sudou-ken] (p.62) Sudou grabs Ike by the collar at the Horikita suggestion and demands Suzune's birthday from AK.
+[says:sudou-ken] (p.62) “When is Suzune’s birthday?”
+[says:kushida-kikyou] (p.63) “It’s on February 15.”
+[rel:horikita-suzune] (p.63) AK is one of the few who knows Kushida and Horikita hate each other, yet Kushida has her birthday.
+[says:sudou-ken] (p.63) “Sounds like I’ve snagged some good info,”
+[rel:sudou-ken] (p.63) Sudou keeps the February 15 date as leverage while Ike wheezes in a headlock.
+[says] (p.64) “How about we quit while we’re ahead, and not get too carried away looking for whoever Katsuragi’s partner might be, okay?”
+[says:ike-kanji] (p.64) “I absolutely hate the idea of Katsuragi beating me!”
+[says:sudou-ken] (p.64) “Just because we’ll probably lose to him doesn’t mean we don’t have a chance of winning!”
+[says:sudou-ken] (p.64) “In basketball, you can use plays that are just barely allowed.”
+[says:sudou-ken] (p.64) “A strong desire for victory is what really matters.”
+[says:sudou-ken] (p.65) “If Katsuragi giving a present to some girl will bring them closer, then we gotta stop him from doing it,”
+[rel:kushida-kikyou] (p.65) Kushida shuts the interference plan down; Ike folds, and Sudou has tournament practice as cover.
+[says:kushida-kikyou] (p.65) “Kanji-kun, you can’t interfere,”
+[says:kushida-kikyou] (p.65) “Of course I’m curious, but getting in the way is not okay.”
+[says] (p.65) “Impossible.”
+[says:kushida-kikyou] (p.65) “I have Katsuragi-kun’s contact information.”
+[says:kushida-kikyou] (p.66) “I asked him for it.”
+[says] (p.66) “If I suddenly contacted him, I think even Katsuragi would be surprised,”
+[says:ike-kanji] (p.66) “You stopped me from interfering in Katsuragi’s plans, so you gotta take responsibility,”
+[says:sudou-ken] (p.66) “You gotta investigate,”
+[says:sudou-ken] (p.66) “Should I force you?”
+[says] (p.66) “I’ll do some digging tomorrow.”
+
+### y1v4.5 p.67–73 — Ch.3 §3.3: the crossroads and the offer
+[scene] (p.67) Staking out the dorm crossroads for Katsuragi, AK is intercepted by Student Council President Horikita Manabu and Secretary Tachibana.
+[says] (p.67) “It’s so hot, I feel like I could die…”
+[says:horikita-manabu] (p.67) “It’s been a while.”
+[says] (p.67) “I guess the answer is Horikita’s brother,”
+[rel:tachibana-akane] (p.67) Tachibana, third-year secretary, speaks loudly and takes an instant dislike to AK's casual tone.
+[says:tachibana-akane] (p.67) “President, this student really has a sour look on his face.”
+[says:tachibana-akane] (p.68) “Do you even know who you’re talking to?”
+[says] (p.68) “Do you want to penalize me?”
+[says:horikita-manabu] (p.68) “Ayanokouji, if you have no prior engagements, I’d like you to accompany me.”
+[rel:horikita-manabu] (p.68) Manabu insists on talking now rather than after the semester begins; AK caves to clear the request out of the way.
+[says] (p.69) “Let’s just do this now.”
+[says:tachibana-akane] (p.69) “My instinct says not to leave you alone with this boy, President!”
+[says:horikita-manabu] (p.69) “The student council has received reports of the results from the island test, and the test on the ship.”
+[says:horikita-manabu] (p.70) “I know that you outsmarted the other classes on the island, and that Class D’s VIP in the Rabbit group successfully avoided detection,”
+[says:horikita-manabu] (p.70) “However, I think that you were responsible.”
+[feat] (p.70) Manabu knows the island leader's name was changed to AK's — only the exam committee, the president and Tachibana know; not the homeroom teachers.
+[says:horikita-manabu] (p.70) “In the end, the leader’s name was changed to yours.”
+[says:horikita-manabu] (p.70) “The homeroom teachers don’t have this information, so you can relax.”
+[says] (p.70) “What exactly is the student council?”
+[says:horikita-manabu] (p.70) “The abilities of the person seated at the top are paramount.”
+[says:horikita-manabu] (p.71) “This school doesn’t just shove all the students with superior abilities into Class A,”
+[says] (p.70) “In that case, why do you reject Horikita?”
+[says:horikita-manabu] (p.71) “She’s a failure who belongs in Class D.”
+[rel:horikita-suzune] (p.71) AK covers for Suzune with the friends line; Manabu rejects it outright — he knows his sister.
+[says:horikita-manabu] (p.71) “She’d never think of something like that.”
+[inference] (p.71) AK concludes Manabu watches him for the same reason as Chabashira: the 50% entrance scores and the resume discrepancy.
+[says] (p.71) “Stop fishing for information about my personal life.”
+[says:horikita-manabu] (p.71) “Will you join the student council?”
+[says:horikita-manabu] (p.71) “Ayanokouji, if you wish, I’ll appoint you vice president,”
+[role:student-council] (p.72) Tachibana protests: a first-year from Class D as vice president is unprecedented; all seats were thought filled.
+[says:tachibana-akane] (p.72) “This is completely unprecedented!”
+[says:tachibana-akane] (p.72) “We can’t suddenly appoint this rude boy to the vice presidency!”
+[says] (p.72) “I’ve said this already, but I refuse any position,”
+[says:horikita-manabu] (p.72) “When the time comes, I’ll need the power to combat that change.”
+[says:tachibana-akane] (p.72) “President, you’re talking about what’ll happen when Nagumo-kun is elected president, right?”
+[rel:nagumo-miyabi] (p.72) Tachibana names Nagumo as the next student council president; AK infers from the timing that Nagumo is a second-year.
+[says:horikita-manabu] (p.72) “There can be two student council vice presidents.”
+[says:tachibana-akane] (p.72) “There’s no way Nagumo-kun would permit something like that,”
+[says] (p.73) “I’m not doing it.”
+[says] (p.73) “Well, if you want me to help you because you’re worried about your sister, I might be able to squeeze you in for a consultation.”
+[says:horikita-manabu] (p.73) “Please feel free to stop by the student council whenever you like.”
+[status] (p.73) Manabu gives up for now; AK reads even the president as wrestling with his own anxieties.
+
+### y1v4.5 p.74–78 — Ch.3 §3.4: trailing Katsuragi
+[scene] (p.74) Thirty minutes later AK tails Katsuragi from the crossroads — toward the school building, which he enters in uniform.
+[says] (p.74) “That’s why he’s wearing his uniform, huh?”
+[rel:katsuragi-kouhei] (p.74) Casual clothes are forbidden inside the school; the uniform was for entry, not fashion.
+[says] (p.74) “Did you meet Katsuragi?!”
+[action] (p.75) At the Keyaki chocolate shop AK knocks a stack of boxes over; Katsuragi helps him re-shelve them without a hint of dislike.
+[says:katsuragi-kouhei] (p.75) “What are you doing?”
+[says] (p.75) “I came here to buy…a birthday present,”
+[says:katsuragi-kouhei] (p.75) “Two are better than one.”
+[trait] (p.75) AK judges Katsuragi a good guy — the island corn goodwill is the reference — forbidding looks aside.
+[says:katsuragi-kouhei] (p.76) “Are you giving your girlfriend a present?”
+[says] (p.76) “I don’t have a girlfriend.”
+[says] (p.76) “Are you buying a birthday present?”
+[says:katsuragi-kouhei] (p.76) “One of the boxes of chocolates.”
+[says:katsuragi-kouhei] (p.76) “You’re required to wear your uniform if you enter the school,”
+[says:katsuragi-kouhei] (p.76) “Uh, well, I’ve various private matters to attend to,”
+[rule] (p.77) Katsuragi raises the shared disadvantage: students may not contact anyone on the outside; breaking it means expulsion.
+[says:katsuragi-kouhei] (p.77) “The stipulation that you can’t contact anyone on the outside,”
+[says:katsuragi-kouhei] (p.77) “Don’t you want to contact your parents or siblings?”
+[says:katsuragi-kouhei] (p.77) “Both the points system, and the quality of the facilities here, are things that ordinary students can only dream of,”
+[says:katsuragi-kouhei] (p.77) “You’re close with Horikita, aren’t you?”
+[says] (p.77) “It’s not exactly what either of us wanted, but we were kind of forced into a partnership, I think.”
+[rel:katsuragi-kouhei] (p.78) Katsuragi apologizes if he offended and admits the store visit is his third — he agonizes over decisions when someone's feelings are involved.
+[says:katsuragi-kouhei] (p.78) “If I offended you, please forgive me.”
+[says:katsuragi-kouhei] (p.78) “To tell you the truth, this is the third time I’ve visited this store.”
+[says:katsuragi-kouhei] (p.78) “Is it strange to celebrate someone’s birthday?”
+[says] (p.78) “Who’s the gift for?”
+[says:katsuragi-kouhei] (p.78) “It’s personal.”
+[limit] (p.78) Katsuragi refuses to name the recipient; AK ends the chapter's first half with the school-building and store-return mysteries open.
+
+### y1v4.5 p.79–82 — Ch.3 §3.5: the self-gift theory
+[scene] (p.79) AK reports he found no girl with the August 29 birthday; Ike and Yamauchi pivot to a new theory.
+[says] (p.79) “Unfortunately, I couldn’t find out who the present was for,”
+[says:yamauchi-haruki] (p.79) “I think he actually bought the gift for himself,”
+[rel:katsuragi-kouhei] (p.80) The boys decide Katsuragi bought girlish chocolates to look popular — an act for Class A's leader.
+[says:ike-kanji] (p.80) “I did the same thing, back in junior high,”
+[rel:ike-kanji] (p.81) Ike's sympathy flips: they want to give Katsuragi a present from others instead of letting him buy his own.
+[says:ike-kanji] (p.81) “We’re going to get him a birthday present.”
+[rel:katsuragi-kouhei] (p.81) AK doubts pity gifts will land and notes the open purchase in uniform still makes no sense under the self-gift theory.
+[rule] (p.82) AK is asked to put in about 1,500 points; his expenses for the week double.
+[note] (p.82) The contribution request and the celebrate-tomorrow line are printed without speaker tags.
+[says] (p.82) “Are you really buying something?”
+[action] (p.82) AK decides not to refuse; they agree to meet the next day and disperse.
+
+### y1v4.5 p.83–87 — Ch.3 §3.6: Kushida joins, and the bench with Horikita
+[scene] (p.83) The next afternoon Kushida volunteers for the present run; AK walks out in uniform and peels off to talk to Horikita.
+[rel:kushida-kikyou] (p.83) She offers to share the cost because Katsuragi has done quite a bit for her too.
+[says:kushida-kikyou] (p.83) “I’ll help out with the present’s cost, of course,”
+[rel:sakura-airi] (p.83) Yamauchi is happier with Kushida around even though he is aiming for Sakura.
+[action] (p.84) AK leaves the group to approach Horikita, reading alone outside.
+[scene] (p.86) Horikita is uneasy about the Ryuuen loss; AK argues the first semester is over and panic over a small lead is pointless.
+[says:horikita-suzune] (p.86) “Even after we suffered so much at Ryuuen-kun’s hands?”
+[says] (p.86) “Look, we just finished the first semester of our first year.”
+[says] (p.86) “Although you can’t see what’s directly beneath your feet, you’re always looking far ahead.”
+[says] (p.86) “I think that it’s preferable for you to fall until you hit rock bottom,”
+[rel:horikita-suzune] (p.87) He credits her academics, says she runs in circles on unusual tests, and ties the island display to his Chabashira arrangement.
+[says:horikita-suzune] (p.87) “You say there’s an order to things, but if that’s true, why did you go to all that trouble back on the island?”
+[rel:chabashira-sae] (p.87) He gave Chabashira only a partial display of his abilities to buy time without making a splash.
+[says] (p.87) “What are you reading today?”
+[says:horikita-suzune] (p.87) “None of your business.”
+[says:horikita-suzune] (p.87) “I refuse.”
+
+### y1v4.5 p.88–94 — Ch.3 §3.7: the student council room
+[scene] (p.88) The four surround Katsuragi to celebrate; Kushida fronts, and he stays guarded.
+[says:kushida-kikyou] (p.88) “Isn’t it your birthday today, Katsuragi-kun?”
+[says:katsuragi-kouhei] (p.88) “If you have an ulterior motive, please tell me,”
+[rel:ike-kanji] (p.88) Ike swears there is no ulterior motive; genuine sympathy on his face.
+[says] (p.89) “I thought it was rather unusual to wear that uniform during summer vacation.”
+[rel:katsuragi-kouhei] (p.89) Katsuragi snaps to battle mode over the uniform question, then accepts AK's explanation.
+[says:katsuragi-kouhei] (p.89) “Nothing to do with you,”
+[says] (p.89) “I think I must’ve seen you with it at least three times so far.”
+[says:katsuragi-kouhei] (p.90) “I have some business with the student council.”
+[place:student-council-room] (p.90) AK name-drops his connection to the president; Katsuragi invites him along; they leave the others and knock on the council room door.
+[says:horikita-manabu] (p.90) “It would seem we have some unexpected visitors.”
+[says:katsuragi-kouhei] (p.91) “I heard that student requests go through the student council,”
+[rule] (p.91) Outside contact is banned unless a compelling reason such as severe illness or injury; even one-sided communication is refused.
+[says:katsuragi-kouhei] (p.91) “I’d like to send a package and message to my family off-campus.”
+[says:horikita-manabu] (p.91) “Even if communication is one-sided, it’s still not permitted,”
+[rule] (p.91) Tachibana: shipping was once permitted until students hid letters in packages; the ban is now complete.
+[says:tachibana-akane] (p.91) “So, such contact is now completely banned,”
+[says:katsuragi-kouhei] (p.92) “This school is all about fostering one’s abilities.”
+[rel:horikita-manabu] (p.92) The points argument changes Manabu's attitude; he asks who the package is for.
+[says:katsuragi-kouhei] (p.92) “Since we’re orphans, I’m the only one who celebrates her birthday,”
+[fact] (p.92) The twin-sister-orphan backstory replaces the room's self-gift and girlfriend theories outright.
+[says:horikita-manabu] (p.92) “The things that are explicitly prohibited can’t be easily altered using points.”
+[says:horikita-manabu] (p.93) “If school rules forbid something, you cannot circumvent them, even with points.”
+[rel:katsuragi-kouhei] (p.93) Rejected, Katsuragi glances at AK once and leaves when AK signals he is staying.
+[rel:horikita-manabu] (p.93) AK cites the Sudou–Class C trial precedent and pushes Manabu to overlook the request quietly.
+[says:horikita-manabu] (p.93) “You want to resolve everything without involving the school,”
+[says:tachibana-akane] (p.93) “What a terrible delinquent you are,”
+[feat] (p.94) AK proves his read: Manabu struck someone in public once and got away with it as long as the school did not know.
+[says:horikita-manabu] (p.94) “I won’t violate the rules for his sake.”
+[says:horikita-manabu] (p.94) “If you think so, you should have told Katsuragi about the loophole before he left.”
+[says] (p.94) “I have no idea what you’ll put in it, anyway.”
+[rel:horikita-manabu] (p.94) At the exit Manabu disclaims the meeting officially and grants AK a free hand.
+[says:horikita-manabu] (p.94) “Even if you act behind the scenes, I won’t investigate.”
+[status] (p.94) AK walks out muttering that the president is shrewd — and suspects his involvement in what follows.
+
+### y1v4.5 p.95–97 — Ch.3 §3.8: the offer in the lobby
+[scene] (p.95) In the dorm lobby Katsuragi, depressed, tries to hand AK the rejected gift.
+[says:katsuragi-kouhei] (p.95) “I don’t really care for sweets,”
+[says] (p.95) “It’s wasted on me.”
+[rel:katsuragi-kouhei] (p.95) AK stops him and says he has thought of a way to deliver the present to his sister.
+[says] (p.95) “I’ve thought of a way to deliver the present to your sister.”
+[says:katsuragi-kouhei] (p.95) “I can’t imagine there’s a solution.”
+[scene] (p.96) In AK's spartan room he lays out the plan: a student carrying the gift off campus during a club tournament.
+[says:katsuragi-kouhei] (p.96) “You have quite a clean room.”
+[rule] (p.96) Campus employees come and go but are strictly regulated; leaving without permission means expulsion.
+[says] (p.96) “The punishment would be incredibly severe.”
+[rel:katsuragi-kouhei] (p.97) Katsuragi works out the exception himself: club tournaments let students travel to outside venues.
+[says:katsuragi-kouhei] (p.97) “Club tournaments, hmm?”
+[says:katsuragi-kouhei] (p.97) “There will be bag inspections,”
+[says] (p.97) “They wouldn’t search every square inch of your body.”
+[rel:sudou-ken] (p.97) AK confirms he has a talented, trustworthy individual in mind — Sudou, tournament the day after tomorrow.
+
+### y1v4.5 p.98–104 — Ch.3 §3.9: Sudou takes the job
+[scene] (p.98) An hour after club, AK and Katsuragi pitch Sudou; he rejects it flatly at first.
+[says:sudou-ken] (p.98) “Seriously, who in their right mind would want to do something like that?”
+[rel:katsuragi-kouhei] (p.98) A promised reward changes Sudou's mind; he lays out the tournament logistics.
+[says:sudou-ken] (p.98) “They check our bags in the morning, before we get on the bus to the tournament.”
+[feat] (p.99) AK's transport: gift in the lunchbox, rolled bag in the water bottle — teachers do not check lunch contents.
+[rule] (p.99) Sudou has neither money nor time to mail it; AK hands him a post office invoice as prepaid cover.
+[says:katsuragi-kouhei] (p.99) “I’ll pay you 100,000 points if you succeed.”
+[status:points] (p.99) 100,000 points is an incredible amount next to Sudou's daily 1,000–2,000.
+[rel:katsuragi-kouhei] (p.100) Katsuragi explains: twin sister, sickly, relatives caring for her since their parents and grandparents passed; he is the substitute parent.
+[says:katsuragi-kouhei] (p.100) “If I don’t celebrate her birthday, who will?”
+[says:sudou-ken] (p.100) “What am I gonna do if you decide to betray me?”
+[rel:sudou-ken] (p.100) Sudou's Class C trap — near expulsion from the basketball club — is the reason for the caution.
+[status:points] (p.100) 20,000 points now as advance, 80,000 on completion; the advance proves Katsuragi's complicity to both sides.
+[says:sudou-ken] (p.101) “I guess I’m someone who’ll take that risk,”
+[rel:katsuragi-kouhei] (p.101) Katsuragi stays suspicious even after Sudou agrees — his nature, AK notes.
+[says:sudou-ken] (p.101) “Katsuragi’s the one who came asking for help, and now he doubts me?”
+[rule] (p.101–102) Points will not go to Sudou directly: Katsuragi pays AK, who transfers after success — insurance against tracing.
+[rel:katsuragi-kouhei] (p.102) Proof of delivery: a video from AK's phone hidden in the water bottle, since team phones are confiscated.
+[status:points] (p.103) Katsuragi offers AK 10,000 points for carrying the phone.
+[rel:sudou-ken] (p.103) AK will borrow a third party's phone — Ike's or Yamauchi's for 5,000 — to keep his own account clean.
+[says:sudou-ken] (p.103) “You know, you’re a surprisingly shady guy.”
+[result] (p.104) The run succeeds: bag check passed, gift mailed, video sent then deleted; Sudou handles everything perfectly.
+[rel:horikita-manabu] (p.104) AK wonders whether Manabu arranged the blind spots — or watched the violation happen.
+
+<!-- walk: y1v4.5 ch3 → p.107 -->

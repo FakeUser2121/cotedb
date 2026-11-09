@@ -1439,3 +1439,51 @@ verify 46 [says] (3 too short/skipped) + 48 non-says ALL PASS. make
 check OK (R18 0, R19 82/82); gate exit 0; build 180 pages, 52
 assets; hash `ddd34299d8ca9caacfd9a80af72c6aa3` twice. New tags:
 none. Open: ch3 pp.49-107 (read 49-78, then 79-107 --blank).
+
+y1v4.5 ch3: Katsuragi Kouhei is Surprisingly Troubled (pp.49–107)
+
+Read in two halves (49–78, then 79–107 --blank) and written between
+them; ten subsections 3.1–3.10. Setup: Kushida's group-chat invite for
+Inogashira's birthday, the class broke until the September 1 deposit,
+the pooled 500-point gift. Beats: the shopping trip where Ike blows up
+at Shinohara over the orange-character keychain and Katsuragi is caught
+buying chocolate with an August 29 birthday card (p.57 blank scan); the
+room scene where Kushida supplies Horikita's February 15 and Sudou's
+jealousy plan is banned, leaving AK the investigation; the crossroads
+stakeout intercepted by Manabu and Tachibana — island leader-name leak,
+sister rejection, vice-president offer, Nagumo warning, all refused;
+the tail to the school building and the chocolate-shelf cleanup that
+raises the outside-contact disadvantage; the self-gift theory flip and
+the 1,500-point ask; Kushida joining the run and the bench talk with
+Horikita (Ryuuen loss, rock bottom, island contradiction); the birthday
+ambush turning into the student council visit — package refused, points
+cannot buy explicit rules, twin sister and orphans revealed, Manabu's
+free hand; the lobby defeat, AK's room plan, Sudou recruited for
+100,000 points (20,000 advance / 80,000 after, routed through AK,
+lunchbox transport, hidden phone, video proof) and a perfect run; the
+closing Katsuragi-POV section with Ike and Yamauchi's party poppers and
+Kushida's melted ice cream cake.
+
+Ledgers: 23 files carry `<!-- walk: y1v4.5 ch3 → p.107 -->` — 12
+appended in both halves, 3 half-2-only (ryuuen-kakeru,
+student-council-room, the volume file), 8 half-1-only stamped by hand
+(inogashira, nagumo, ibuki, keyaki-mall, hirata, ichinose, kouenji,
+shinohara). New files: ledgers/people/inogashira-kokoro.md,
+ledgers/people/nagumo-miyabi.md (roster rows pre-existed with y1v4.5
+in their volumes cells), ledgers/places/student-council-room.md (place
+row pre-existed; the site dot flips to read-line-by-line). Mention
+anchors: chabashira p.71+87, kouenji/ichinose p.72, hirata p.64,
+sakura p.49+83, ryuuen p.86, shinohara p.53–55+61, ibuki p.49+61.
+Attribution gaps kept: p.74 chat sender unprinted; the second
+party-popper boy of p.105 inferred as Yamauchi (only Ike is named); the
+p.82 contribution and celebrate-tomorrow lines untagged.
+
+Defects kept as printed: short pages p.57, p.85, p.107 (one line
+each), p.59 (three lines); footers run nine behind the markers (p.49
+prints “Page 40”). Quote fixes during the walk: the island question
+spans p.70/71 (retargeted to a p.70 fragment) and Tachibana's line
+corrected to “You're glad…” (p.69). Quotes: verify 349 [says] (5 too
+short/skipped) + 57 non-says ALL PASS. make check OK (R18 0, R19
+82/82); gate exit 0; build 180 pages, 53 assets; hash
+`a4367c75078ad5c359625972ec57080a` twice. New tags: none. Open: ch4
+pp.108–131.

@@ -119,3 +119,54 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [rel:ayanokouji-kiyotaka] (p.252–253) He offers him the secretary position on the spot; the offer is refused without discussion.
 
 <!-- walk: y1v2 ch7 → p.257 -->
+
+## y1v4.5
+
+<!-- walk: y1v4.5 → start -->
+
+### y1v4.5 p.67–73 — Ch.3: the crossroads conversation
+[scene] (p.67) Manabu and Tachibana intercept AK at the dorm crossroads during their student council reorganizing work.
+[says] (p.67) “It’s been a while.”
+[role:student-council] (p.68) He invites AK to accompany him and will not take no for an answer, even after the semester begins.
+[says] (p.68) “Ayanokouji, if you have no prior engagements, I’d like you to accompany me.”
+[says] (p.68) “Whenever you’re free is fine.”
+[feat] (p.69–70) He has the island and ship test results, including that the Rabbit VIP avoided detection — information the homeroom teachers lack.
+[says] (p.70) “I know that you outsmarted the other classes on the island, and that Class D’s VIP in the Rabbit group successfully avoided detection,”
+[says] (p.70) “In the end, the leader’s name was changed to yours.”
+[rel:horikita-suzune] (p.70–71) He credits Suzune with the island win in public, then denies she could have devised it.
+[says] (p.71) “She’d never think of something like that.”
+[rel:horikita-suzune] (p.71) He judges his sister in one line: a failure who belongs in Class D.
+[says] (p.71) “She’s a failure who belongs in Class D.”
+[inference] (p.71) AK concludes Manabu watches him for the same reason as Chabashira — the 50% scores and the resume gap.
+[role:student-council] (p.71–72) He offers AK the vice presidency; a second vice president is permitted, though only one is typical.
+[says] (p.71) “Will you join the student council?”
+[says] (p.71) “Ayanokouji, if you wish, I’ll appoint you vice president,”
+[says] (p.72) “There can be two student council vice presidents.”
+[rel:nagumo-miyabi] (p.72) He expects the school to change for the worse next year — Tachibana reads it as the Nagumo presidency.
+[says] (p.72) “When the time comes, I’ll need the power to combat that change.”
+[rel:ayanokouji-kiyotaka] (p.73) He accepts the refusal, offers the student council room and tea, and withdraws.
+[says] (p.73) “Please feel free to stop by the student council whenever you like.”
+[status] (p.73) AK reads him as wrestling with his own anxieties despite the office.
+
+### y1v4.5 p.90–94 — Ch.3: the council desk with Katsuragi
+[scene] (p.90) He and Tachibana greet Katsuragi and AK at the council room door; the older Horikita notices AK immediately.
+[says] (p.90) “It would seem we have some unexpected visitors.”
+[role:student-council] (p.91) He explains the renovation absences and hears the outside-contact inquiry.
+[rule] (p.91) Outside contact is allowed only for compelling reasons such as severe illness or injury.
+[says] (p.91) “Even if communication is one-sided, it’s still not permitted,”
+[rel:katsuragi-kouhei] (p.91) He refuses the package request in a professional manner; Tachibana supplies the letters-in-packages history.
+[says] (p.92) “The things that are explicitly prohibited can’t be easily altered using points.”
+[rel:katsuragi-kouhei] (p.92) The twin-sister-orphan story lands; he had been about to dash Katsuragi's hopes with complete rejection.
+[says] (p.93) “If school rules forbid something, you cannot circumvent them, even with points.”
+[rel:katsuragi-kouhei] (p.93) Rejection complete, he tells Katsuragi to leave if finished.
+[says] (p.93) “If you’re finished, please leave.”
+[rel:ayanokouji-kiyotaka] (p.93) AK stays behind and pitches the quiet overlook; he reads the ask immediately.
+[says] (p.93) “You want to resolve everything without involving the school,”
+[rel:ayanokouji-kiyotaka] (p.94) He refuses to break rules for Katsuragi's sake but names AK's own silence as the tell.
+[says] (p.94) “I won’t violate the rules for his sake.”
+[says] (p.94) “If you think so, you should have told Katsuragi about the loophole before he left.”
+[role:student-council] (p.94) He escorts AK out and grants a free hand: officially no meeting, no investigation.
+[says] (p.94) “Even if you act behind the scenes, I won’t investigate.”
+[status] (p.94) Whether he later arranged Sudou's blind spots is left open on p.104.
+
+<!-- walk: y1v4.5 ch3 → p.107 -->

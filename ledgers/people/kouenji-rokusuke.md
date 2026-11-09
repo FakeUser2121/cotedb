@@ -199,3 +199,13 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [note] (pp.237-242) Named only; no presence at the café.
 
 <!-- walk: y1v4 ch5 → p.243 -->
+
+## y1v4.5
+
+<!-- walk: y1v4.5 → start -->
+
+### y1v4.5 p.72 — Ch.3: a passing mention
+[scene] (p.72) Named among the students with strong latent abilities AK believes the president should have approached before him.
+[rel:horikita-manabu] (p.72) Listed with Katsuragi and Ichinose as the obvious candidates for the vice presidency.
+
+<!-- walk: y1v4.5 ch3 → p.107 -->

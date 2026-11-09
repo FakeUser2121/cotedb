@@ -411,3 +411,61 @@ aliases used for anchors: ike, kanji, ike-kun
 [note] (p.28) The list: “the guys, like Sudou, Ike, and Yamauchi” — rejected without being asked.
 
 <!-- walk: y1v4.5 ch2 → p.48 -->
+
+### y1v4.5 p.49, 51–55 — Ch.3: the Shinohara blowup
+[scene] (p.49) Ike jumps at Kushida's birthday invitation for the obvious reason and messages the group to buy a present together.
+[rel:kushida-kikyou] (p.49) He wants to be in Kushida's good graces and to use the event to get closer to her.
+[says] (p.49) “Let’s get some presents for Kokoro-chan!”
+[scene] (p.51) At the shopping meet-up Ike's first complaint is that Kushida did not come along.
+[says] (p.51) “She’s the most important person!”
+[says] (p.51) “If Kikyou-chan isn’t here, there’s no point!”
+[voice] (p.51) He whines that three guys shopping is pointless, then hands the choosing to Yamauchi.
+[rel:yamauchi-haruki] (p.51) Yamauchi refuses the dumped job: “You wanted to go, so you should do the shopping!”
+[scene] (p.53) Caught at the keychain shelf with Shinohara's orange character, Ike flusters, drops the keychain and backtracks.
+[says] (p.54) “No way in hell, dude!”
+[says] (p.54) “Shinohara isn’t cute at all, and she has too much attitude!”
+[action] (p.54) He keeps piling on insults while Yamauchi and AK try to warn him — Shinohara is standing behind him.
+[rel:shinohara-satsuki] (p.55) Shinohara storms out; Ike is left dumbfounded and pretends composure anyway.
+[says] (p.55) “Wh-what does she mean, ‘die’?”
+
+### y1v4.5 p.60–66 — Ch.3: apology, jealousy, and the assignment
+[scene] (p.60) Ike brings the August 29 birthday question to AK's room with the usual group.
+[says] (p.60) “Kikyou-chan, do you know the other girls’ birthdays?”
+[rel:kushida-kikyou] (p.61) Scolded over the baldy jokes, he apologizes to Kushida and agrees to apologize to Shinohara.
+[says] (p.61) “I’m sorry, Kikyou-chan.”
+[rel:katsuragi-kouhei] (p.62) He pushes the hunt for Katsuragi's girlfriend at any cost.
+[says] (p.64) “I absolutely hate the idea of Katsuragi beating me!”
+[rel:sudou-ken] (p.65) He joins Sudou's interference plan the moment it is proposed.
+[says] (p.65) “I’m gonna get in his way!”
+[rel:kushida-kikyou] (p.65) Kushida's refusal deflates him; he turns the job over to AK.
+[says] (p.65) “You find out the mystery person’s identity.”
+[says] (p.66) “You stopped me from interfering in Katsuragi’s plans, so you gotta take responsibility,”
+[status] (p.66) Ike ends the half with the investigation outsourced and Thursday's real work left to AK.
+
+### y1v4.5 p.79–82 — Ch.3: the self-gift theory and the flip
+[scene] (p.79) Hearing the investigation failed, Ike and Yamauchi land on the self-gift theory.
+[says] (p.79) “I’m seeing you in a new light!”
+[rel:yamauchi-haruki] (p.80) He admits the junior-high Valentine's pretense: making it look like the cutest girl sent a gift.
+[says] (p.80) “Made it look like I got a present from the cutest girl in school.”
+[rel:yamauchi-haruki] (p.81) He and Yamauchi feel suddenly closer to Katsuragi and propose buying his present for him.
+[says] (p.81) “We’re going to get him a birthday present.”
+[says] (p.81) “I suppose getting a birthday present from anyone would be a blessing, wouldn’t it?”
+[rel:katsuragi-kouhei] (p.82) He asks AK to contribute about 1,500 points and set the celebration for tomorrow.
+[says] (p.82) “Ayanokouji, this might be a little fast, but let’s celebrate Katsuragi’s birthday tomorrow.”
+
+### y1v4.5 p.83, 88–89 — Ch.3: the celebration crew
+[scene] (p.83) Ike brings Kushida into the plan after telling her about it; he walks beside her, blabbering about her goodness.
+[rel:kushida-kikyou] (p.83) He frames a girl's presence as better for Katsuragi than a bunch of guys — with an eye on looking good to Kushida.
+[scene] (p.88) He fronts the birthday ambush; Katsuragi stays guarded until Kushida speaks.
+[says] (p.88) “We really just wanted to celebrate your birthday, Katsuragi,”
+[rel:katsuragi-kouhei] (p.89) His uniform question tips Katsuragi into battle mode; AK covers, and Ike backs the cover.
+[says] (p.89) “That’s what I was getting at, dude,”
+
+### y1v4.5 p.105 — Ch.3: the party poppers
+[scene] (p.105) With Yamauchi he ambushes Katsuragi outside his room with poppers and Kushida's chosen cake.
+[says] (p.105) “You’re finally back, Katsuragi!”
+[says] (p.105) “Our idol, Kushida Kikyou-chan, chose this birthday cake!”
+[says] (p.105) “I mean, we’re all virgins here, so let’s be friends.”
+[action] (p.105) He shoves the box into Katsuragi's hands and runs off with Yamauchi.
+
+<!-- walk: y1v4.5 ch3 → p.107 -->

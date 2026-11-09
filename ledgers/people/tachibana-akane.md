@@ -46,3 +46,33 @@ aliases used for anchors: tachibana, secretary, student council secretary
 [rel:horikita-manabu] (p.252–253) She answers the seat question for him and is more shocked than Ayanokōji by both the offer and the refusal.
 
 <!-- walk: y1v2 ch7 → p.257 -->
+
+## y1v4.5
+
+<!-- walk: y1v4.5 → start -->
+
+### y1v4.5 p.67–73 — Ch.3: bodyguard at the crossroads
+[scene] (p.67) Third-year Secretary Tachibana accompanies Manabu from the upperclassmen dorms and stays glued to his side.
+[voice] (p.67) Loud and exaggerated; she takes instant offense at AK's casual tone toward the president.
+[says] (p.67) “President, this student really has a sour look on his face.”
+[says] (p.68) “Do you even know who you’re talking to?”
+[role:student-council] (p.68) She reports the summer reorganizing work in the student council room.
+[says] (p.69) “My instinct says not to leave you alone with this boy, President!”
+[role:student-council] (p.70) She mutters that AK is glad the president has not discovered his failure.
+[says] (p.69) “You’re glad that the president hasn’t discovered your failure, I bet,”
+[role:student-council] (p.72) She protests the vice-president appointment as unprecedented and says all seats were filled.
+[says] (p.72) “This is completely unprecedented!”
+[says] (p.72) “We can’t suddenly appoint this rude boy to the vice presidency!”
+[rel:nagumo-miyabi] (p.72) She names Nagumo as the coming president who would never permit a second vice president.
+[says] (p.72) “There’s no way Nagumo-kun would permit something like that,”
+[status] (p.73) Outruled on the offer, she stays with the president as AK returns to his stakeout.
+
+### y1v4.5 p.90–94 — Ch.3: disgusted at the door
+[scene] (p.90) She greets the visitors with disgust at AK's presence.
+[role:student-council] (p.91) She supplies the regulation history: packages once allowed until students hid letters in them.
+[says] (p.91) “So, such contact is now completely banned,”
+[rel:katsuragi-kouhei] (p.93) She cries delinquent at AK's loophole pitch; he ignores her.
+[says] (p.93) “What a terrible delinquent you are,”
+[says] (p.94) “Wh-what an incredibly rude first-year student!”
+
+<!-- walk: y1v4.5 ch3 → p.107 -->

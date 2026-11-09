@@ -1287,3 +1287,17 @@ page turns from one chapter to two. Quotes: 46 [says] + 48 non-says
 spans, corpus-exact; R18/R19 held at 0/82. Determinism hash across
 consecutive builds:
 `ddd34299d8ca9caacfd9a80af72c6aa3`.
+
+### y1v4.5 Chapter 3 reaches the site (site, 2026-11-07)
+
+The birthday-detective chapter (pp.49–107) lands as scene cards across
+the roster: the pooled gift and Shinohara blowup, the room birthdays and
+February 15, Manabu's crossroads interception and vice-president offer,
+the chocolate-shelf cleanup, the bench talk with Horikita, the student
+council refusal and the twin-sister reveal, Sudou's 100,000-point run,
+and the closing party-popper section from Katsuragi's viewpoint.
+Inogashira Kokoro, Nagumo Miyabi and the Student Council Room gain
+ledger-backed directory presences from new files. Quotes: 349 [says] +
+57 non-says spans, corpus-exact; R18/R19 held at 0/82. Determinism
+hash across consecutive builds:
+`a4367c75078ad5c359625972ec57080a`.

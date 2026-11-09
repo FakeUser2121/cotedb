@@ -325,3 +325,42 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [note] (p.28) The list: “the guys, like Sudou, Ike, and Yamauchi” — rejected without being asked.
 
 <!-- walk: y1v4.5 ch2 → p.48 -->
+
+### y1v4.5 p.49, 51–58 — Ch.3: the researcher of the group
+[scene] (p.49) Yamauchi answers the birthday chat slowly: he has no money until next month.
+[says] (p.49) “Well, I don’t got any money.”
+[scene] (p.51) He complains about shopping for a present he does not care about, then argues with Ike over who must choose.
+[says] (p.51) “Now I have to shop for a present I don’t even care about with a bunch of assholes!”
+[feat] (p.52–53) He knows Inogashira likes the white bear series and rejects AK's phone case and screen protector picks.
+[says] (p.53) “You really have no sense when it comes to this stuff, Ayanokouji.”
+[says] (p.53) “Kokoro-chan likes the white bear series, so she should be happy with this present.”
+[rel:ike-kanji] (p.53) He is the one who spots Ike frozen at the Shinohara keychains and presses him on it.
+[says] (p.53) “If I remember correctly, didn’t Shinohara like that orange character?”
+[says] (p.54) “Something seems super suspicious here, don’t you think, Ayanokouji?”
+[rel:katsuragi-kouhei] (p.55) He spots Katsuragi in the store and pulls AK over to watch.
+[says] (p.55) “What’s baldy got there?!”
+[scene] (p.58) With Ike he rushes to the shelf Katsuragi bought from and works himself into jealous rage over the chocolate.
+[says] (p.58) “W-wait, don’t tell me that baldy already has a girlfriend?!”
+[says] (p.58) “Who gives a present with such cute wrapping paper to a friend?!”
+
+### y1v4.5 p.60, 63–64 — Ch.3: on the sidelines in the room
+[scene] (p.60) Present in AK's room for the birthday question; he laughs at Ike in the headlock and later reminds Sudou about his tournament.
+[says] (p.64) “That reminds me, your tournament’s coming up soon,”
+[rel:sudou-ken] (p.64) He supplies the Thursday tournament date that gives Sudou his excuse not to investigate.
+
+### y1v4.5 p.79–82 — Ch.3: the self-gift theory
+[scene] (p.79) He supplies the theory that Katsuragi bought the girlish chocolates for himself.
+[says] (p.79) “I think he actually bought the gift for himself,”
+[voice] (p.79) Sorrowful, not overjoyed: he opens with the junior-high Valentine's hell question.
+[rel:ike-kanji] (p.80) He and Ike agree the Class A leader's popularity is an act; AK refrains from commenting.
+[rel:ike-kanji] (p.81) He denies being the unpopular guy of his own story when Ike jabs back.
+[says] (p.81) “Wrong. He just reminded me of my classmate. I felt sorry for him.”
+[rel:katsuragi-kouhei] (p.82) He flips from hating Katsuragi to liking him in two seconds and pushes the celebration.
+
+### y1v4.5 p.83, 105 — Ch.3: the celebration crew
+[scene] (p.83) He walks with the group to shop, happier with Kushida present even though he is aiming for Sakura.
+[rel:kushida-kikyou] (p.83) Kushida's charms affect him too, the narration notes.
+[scene] (p.105) With Ike he ambushes Katsuragi with party poppers and the melted cake.
+[note] (p.105) The second Class D boy is never named on the page; the plan's pair makes him Yamauchi — an inference, not a printed name.
+
+<!-- walk: y1v4.5 ch3 → p.107 -->

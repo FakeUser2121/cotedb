@@ -645,3 +645,42 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [note] (p.41) Ruled out with Karuizawa on the same line: “Kushida and Karuizawa were probably likewise unsuited to the task.”
 
 <!-- walk: y1v4.5 ch2 → p.48 -->
+
+### y1v4.5 p.49 — Ch.3: the invitation
+[scene] (p.49) Kushida opens the chapter with a group-chat invite to celebrate Inogashira's birthday and help her make friends.
+[says] (p.49) “Next Wednesday is Inogashira-san’s birthday.”
+[rel:inogashira-kokoro] (p.49) She reaches out to the quiet, plain girl who has few friends.
+
+### y1v4.5 p.60–66 — Ch.3: the birthday list and the boundaries
+[scene] (p.60) Kushida arrives at AK's room with her memorized birthday list and works the August 29 question.
+[says] (p.60) “I think I’ve memorized the birthdates of everyone who’s told me, more or less.”
+[says] (p.60) “If it’s a first-year girl, I should know everyone, but I can’t think of anyone who fits”
+[rel:katsuragi-kouhei] (p.61) She defends him: the hair loss came from illness in childhood; Ike is made to cut it out.
+[says] (p.61) “Katsuragi-kun lost his hair completely when he was young, due to illness.”
+[says] (p.61) “Okay, so, from now on, you’ll address him properly, won’t you?”
+[rel:ike-kanji] (p.61) She steers Ike toward apologizing to Shinohara with one gentle question.
+[says] (p.61) “You understand what you should do about it, right?”
+[rel:horikita-suzune] (p.63) She produces Horikita's birthday from memory — surprising AK given their mutual hatred.
+[says] (p.63) “It’s on February 15.”
+[rel:horikita-suzune] (p.63) AK notes he is one of the few who knows Kushida and Horikita hate each other.
+[voice] (p.65) Curious about the gift but firm: interference is off the table.
+[says] (p.65) “Kanji-kun, you can’t interfere,”
+[says] (p.65) “Of course I’m curious, but getting in the way is not okay.”
+[rel:katsuragi-kouhei] (p.65–66) She has his contact from the ship-test group and offers it; AK declines a cold call.
+[says] (p.65) “I have Katsuragi-kun’s contact information.”
+[says] (p.66) “I asked him for it.”
+[status] (p.66) Kushida leaves the investigation on AK's desk with Ike's and Sudou's pressure behind it.
+
+### y1v4.5 p.83, 88 — Ch.3: the girl on the celebration team
+[scene] (p.83) Kushida joins the next day's run after Ike tells her; she greets AK and questions his uniform.
+[says] (p.83) “Hello, Ayanokouji-kun,”
+[rel:ike-kanji] (p.83) Ike told her about the Katsuragi present; she said she definitely wanted to help.
+[says] (p.83) “I’ll help out with the present’s cost, of course,”
+[rel:katsuragi-kouhei] (p.88) She fronts the ambush — after the ship test he is most familiar with her — and cracks his guard.
+[says] (p.88) “Sorry for bothering you, Katsuragi-kun. Do you have a moment?”
+[says] (p.88) “Isn’t it your birthday today, Katsuragi-kun?”
+[says] (p.88) “Do you have plans today?”
+[voice] (p.88) Her smile is read as smitten-inducing; even Class A's leader is not an easy target.
+[rel:ike-kanji] (p.105) The cake they ambush with is the one she chose.
+
+<!-- walk: y1v4.5 ch3 → p.107 -->

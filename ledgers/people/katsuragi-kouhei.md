@@ -203,3 +203,95 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [back] (p.48) The friendship is treated as established: close as Ayanokōji is to the three idiots, maybe more so — and the story of it began a little while ago.
 
 <!-- walk: y1v4.5 ch2 → p.48 -->
+
+### y1v4.5 p.55–58 — Ch.3: watched in the girls' shop
+[scene] (p.55) Class A's leader browses a pink girls' shop alone, hesitating over thin boxes while three Class D boys hide and watch.
+[trait] (p.55) His forbidding appearance contrasts with the store; he looks around as if worried — but only about the choice.
+[rel:ike-kanji] (p.56) Ike reads the hesitation correctly: Katsuragi does not want anyone to see what he is buying.
+[says] (p.58) “The birthday is August 29.”
+[limit] (p.58) He buys chocolate with a birthday card; the recipient stays off the page.
+
+### y1v4.5 p.61 — Ch.3: the illness behind the jokes
+[rel:kushida-kikyou] (p.61) Kushida tells the room Katsuragi lost his hair completely when he was young, due to illness.
+[says:kushida-kikyou] (p.61) “Katsuragi-kun lost his hair completely when he was young, due to illness.”
+[note] (p.61) The fact lands only through Kushida; Katsuragi is not in the room.
+
+### y1v4.5 p.74–78 — Ch.3: the man at the chocolate shelves
+[scene] (p.74) Still in uniform, Katsuragi enters the school building, then reappears at the mall with his gift bag un-given.
+[rel:ayanokouji-kiyotaka] (p.75) He helps AK clean up the chocolate avalanche without a hint of dislike.
+[says] (p.75) “What are you doing?”
+[says] (p.75) “Two are better than one.”
+[trait] (p.75) AK judges him a good guy — the island corn goodwill is the reference.
+[says] (p.76) “Are you giving your girlfriend a present?”
+[says] (p.76) “One of the boxes of chocolates.”
+[says] (p.76) “You’re required to wear your uniform if you enter the school,”
+[says] (p.76) “Uh, well, I’ve various private matters to attend to,”
+[rule] (p.76–77) He raises the outside-contact ban as the school's shared disadvantage; AK privately counts it an advantage.
+[says] (p.77) “The stipulation that you can’t contact anyone on the outside,”
+[says] (p.77) “Don’t you want to contact your parents or siblings?”
+[rel:horikita-suzune] (p.77) He asks whether AK is close with Horikita; AK explains the forced seating partnership.
+[says] (p.77) “You’re close with Horikita, aren’t you?”
+[trait] (p.78) Third visit to the same store: he agonizes over decisions when someone's feelings are involved.
+[says] (p.78) “To tell you the truth, this is the third time I’ve visited this store.”
+[says] (p.78) “Is it strange to celebrate someone’s birthday?”
+[says] (p.78) “It’s personal.”
+[limit] (p.78) He refuses to name the recipient, and the chapter's first half closes with the school-building and store-return mysteries open.
+
+### y1v4.5 p.88–94 — Ch.3: ambushed, then at the council desk
+[scene] (p.88) Surrounded by Class D on his birthday, he stays guarded — a trap is his first read of Class D.
+[says] (p.88) “What’s going on?”
+[says] (p.88) “If you have an ulterior motive, please tell me,”
+[says] (p.88) “Well, yes, but…I’m surprised you found out.”
+[rel:ike-kanji] (p.89) Ike's uniform question puts him into battle mode; AK's explanation defuses it.
+[says] (p.89) “How did you know I’ve been wearing my uniform?”
+[says] (p.89) “Nothing to do with you,”
+[place:student-council-room] (p.90) He reveals the student council errand and invites AK along once AK name-drops the president.
+[says] (p.90) “I have some business with the student council.”
+[says] (p.90) “You’re an acquaintance of his?”
+[role:student-council] (p.91) His request: one-sided package and message to family; refused even as one-sided.
+[says] (p.91) “I’d like to send a package and message to my family off-campus.”
+[says] (p.92) “This school is all about fostering one’s abilities.”
+[rel:horikita-manabu] (p.92) The points argument gets him the question of recipient — and the twin sister reveal.
+[says] (p.92) “Since we’re orphans, I’m the only one who celebrates her birthday,”
+[fact] (p.92) Twin sister; orphans; he is the only one who marks her birthday.
+[rel:horikita-manabu] (p.93) Final refusal: rules cannot be bought off with points; he leaves with a glance at AK.
+[says] (p.93) “Well then, if you’ll please excuse me.”
+
+### y1v4.5 p.95–97 — Ch.3: the lobby defeat and the room plan
+[scene] (p.95) Back in the lobby, depressed, he offers AK the gift; AK refuses and counters with a plan.
+[says] (p.95) “I don’t really care for sweets,”
+[says] (p.95) “It was hopeless, anyway,”
+[says] (p.95) “I can’t imagine there’s a solution.”
+[says] (p.95) “I’m not going to do something that risky,”
+[scene] (p.96) In AK's spartan room he works the problem aloud: employees are regulated, leaving means expulsion.
+[says] (p.96) “You have quite a clean room.”
+[says] (p.97) “Club tournaments, hmm?”
+[rel:ayanokouji-kiyotaka] (p.97) He reasons out the tournament exception and the bag-inspection problem himself.
+[says] (p.97) “There will be bag inspections,”
+[says] (p.97) “However, judging by what you’ve said, Ayanokouji, you have a talented, trustworthy individual in mind.”
+
+### y1v4.5 p.98–104 — Ch.3: the contract with Sudou
+[scene] (p.98) He and AK pitch Sudou after club; Sudou's first answer is a flat refusal.
+[rel:sudou-ken] (p.98) Sudou's inspection knowledge is what makes the plan concrete.
+[says] (p.99) “I’ll pay you 100,000 points if you succeed.”
+[rel:sudou-ken] (p.100) The twin-sister story — sickly, relatives caring, parents and grandparents gone — is told to Sudou.
+[says] (p.100) “Because our parents and grandparents have passed, our relatives currently care for her.”
+[says] (p.100) “If I don’t celebrate her birthday, who will?”
+[status:points] (p.100) 20,000 advance, 80,000 on completion — the advance binds both parties.
+[rel:ayanokouji-kiyotaka] (p.101–102) Payment routes through AK; proof is a video from AK's phone hidden in the water bottle.
+[says] (p.102) “I want ironclad proof you aren’t lying to me,”
+[says] (p.102) “I’d like you to record a video the moment you send the package.”
+[status:points] (p.103) AK's fee: 10,000 points for carrying the phone.
+[rel:sudou-ken] (p.104) Sudou delivers; whether the sister received it stays unknown to AK.
+
+### y1v4.5 p.105–106 — Ch.3: the birthday from his side
+[scene] (p.105) From Katsuragi's viewpoint: two Class D boys wait outside his floor and hit him with party poppers.
+[says] (p.105) “What are you doing?”
+[says] (p.105) “You don’t have any reason to.”
+[says] (p.105) “B-but I can’t accept…”
+[rel:ike-kanji] (p.105) He flinches at Ike's vulgar language and ends up holding the box anyway.
+[says] (p.106) “They said it was a cake, but it’s actually rather warm,”
+[says] (p.106) “Is this some new form of harassment?”
+[trait] (p.106) He imagines the melted ice cream cake as a new form of harassment — and the chapter ends on his read.
+
+<!-- walk: y1v4.5 ch3 → p.107 -->

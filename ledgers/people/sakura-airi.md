@@ -487,3 +487,13 @@ aliases used for anchors: sakura, airi, sakura-san
 [note] (p.41) Gossip-free but easily flustered: “Sakura wouldn’t gossip, but the situation would probably fluster her.”
 
 <!-- walk: y1v4.5 ch2 → p.48 -->
+
+### y1v4.5 p.49 — Ch.3: a passing mention
+[scene] (p.49) AK compares Inogashira to Sakura: “a somewhat quiet, plain girl from Class D, rather like Sakura.”
+[rel:inogashira-kokoro] (p.49) The comparison is the only footprint Sakura has in this chapter.
+
+### y1v4.5 p.83 — Ch.3: a passing mention
+[scene] (p.83) Named as the girl Yamauchi is aiming for while he enjoys Kushida's company on the walk.
+[rel:yamauchi-haruki] (p.83) The narration notes Kushida's charms reach him even with Sakura on his mind.
+
+<!-- walk: y1v4.5 ch3 → p.107 -->

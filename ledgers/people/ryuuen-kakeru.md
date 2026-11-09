@@ -270,3 +270,9 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [note] (p.31) She caught his eye early on; after the spy identity broke she was at his side on several occasions — atonement for her failure, but he trusted her, at least to some degree.
 
 <!-- walk: y1v4.5 ch2 → p.48 -->
+
+### y1v4.5 p.86 — Ch.3: a passing mention
+[scene] (p.86) Horikita raises his Class C again: the group suffered at Ryuuen-kun's hands.
+[rel:horikita-suzune] (p.86) His win is what still makes her uneasy at the start of the second semester.
+
+<!-- walk: y1v4.5 ch3 → p.107 -->
