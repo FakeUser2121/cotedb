@@ -2310,3 +2310,60 @@ walk: y1v1 → DONE
 [note] (p.10) The page prints no name; read as the series narrator’s frame, following the first volume’s opening monologue.
 
 <!-- walk: y1v4.5 ch1 → p.10 -->
+
+### y1v4.5 p.11–17 — Ch.2: the fortune-teller invite chain
+[scene] (p.11) Between the island and cruise tests he spends one of seven rest days alone in the dorm — no calls in either direction — until Sudou rings about a Keyaki Mall fortune-teller.
+[status:points] (p.11) A point check before the call: 106,219 on hand, 100,000 transferred to Sudou Ken; the page gives no reason for the move.
+[says] (p.11) “Well, I don’t really care,” I said aloud.
+[says:sudou-ken] (p.13) “Definitely invite Suzune out, too.”
+[rel:sudou-ken] (p.13–14) The outing is a device to reach Horikita — Sudou routes the invitation through him and will not take no for an answer.
+[says] (p.16) “In other words, you’re talking about fortune-tellers’ ability to cold read, right?” I asked.
+[trait] (p.16) Treats her claim of real power as a mechanism question — pushes until the explanation is on the table: fortune-tellers work from past data, not force.
+[says:horikita-suzune] (p.17) “I refuse,” she answered.
+[rel:horikita-suzune] (p.15–17) She talks him through cold reading, then declines the crowded outing; Sudou’s reply to the report is “Then forget about it.”
+
+### y1v4.5 p.18–27 — Ch.2 §2.1: the couples-only floor
+[scene] (p.18) At 9:30 the next morning the fifth floor is already a wall of couples; the booth’s rule turns him away and puts Ibuki Mio in his path.
+[action] (p.18) Crowd reflex on display: alone in an elevator he would hammer the close button, so he detours across the building for an empty car.
+[rule] (p.19–20) The written notice and the attendant agree: guidance is for couples only — Ukon-sensei reads fortunes for couples.
+[rel:ibuki-mio] (p.24–26) He reads her anxiety as hyper-awareness — the difference is awareness — and tests it with the convenience-store clerk; she concedes the point, then compares him to a future mass murderer.
+[says] (p.25) “The difference between you now, and you then, is awareness.”
+[trait] (p.26) His loner’s answer to the jibe: “More or less.” — the comparison lands without flinching.
+
+### y1v4.5 p.28–29 — Ch.2 §2.2–2.3: no partner, then fate
+[scene] (p.28) Back in the dorm he researches tenchuusatsu and rejects every possible partner, only to meet Ibuki at the booth again the next day.
+[note] (p.28) The list of refusals: Horikita would decline, he lacks the courage to ask Kushida, Sakura would be ill at ease among couples, and the guys would not spend their last summer days on a paired reading.
+[says] (p.28) “I wonder if tenchuusatsu is only being offered this month?” I muttered.
+[rel:ibuki-mio] (p.29) The second meeting turns from the booth’s rule to belief itself: he asks directly whether she believes, and she answers that the over-skeptical get nothing out of it.
+
+### y1v4.5 p.30–32 — Ch.2 §2.3: the pair proposal
+[scene] (p.30) Ibuki’s belief speech closes; he proposes they pair up for the couples-only booth — no relationship, no complications.
+[says] (p.30) “In that case, why don’t we go together?”
+[trait] (p.30) On his own feelings: “I honestly felt absolutely nothing for Ibuki.” — a flat line, first-time-customer ease.
+[rel:ibuki-mio] (p.30–31) She worries the island grudge will stain him; he answers that the school runs on ability, not feelings, and that sabotage was a natural tactic under the circumstances.
+[says] (p.31) “I don’t think people like that would be admitted to this school in the first place.”
+[trait] (p.31) “All I am is an unremarkable student.” — no ladder to climb, no rung to be kicked off; coasting with Horikita is luck enough.
+
+### y1v4.5 p.33–37 — Ch.2 §2.4: the reading
+[scene] (p.33) After about fifteen minutes a pair at a time, the tent: thirty lux, hood, crystal ball, card reader — and the Basic Plan for both.
+[says] (p.33) “I’ll take the same,” I replied.
+[status:points] (p.34) Balance check before paying: roughly 6,000 points left — “barely enough” — and the Basic Plan deducts by card, price not printed.
+[rel:ukon] (p.35–37) The reading turns on him: a broad “harsh childhood,” then the pronouncement that he holds the fate tenchuusatsu, and the advice to go straight home without detours.
+[says] (p.38) “I’m not going to dismiss fortune-telling from now on,” I added.
+
+### y1v4.5 p.38–47 — Ch.2 §2.5: the detour and the elevator
+[scene] (p.38) They take the detour on purpose — to test the prediction — and the car grinds to a halt on the third floor.
+[action] (p.39–40) Works the dead emergency line like a technician: backup battery alive, control panel likely dead, hearing-impaired button silent too.
+[says] (p.40) “Apparently, our situation is far more serious than I originally thought.” — his own battery at four percent.
+[says] (p.41) “A prank like this is evil,” I muttered. — the emergency number scribbled over with magic marker.
+[action] (p.41) Picks the rescuer himself: the three idiots would make a scene, Sakura would be flustered, Kushida and Karuizawa unsuited — the taciturn fellow it is; the phone dies mid-call.
+[trait] (p.45) Admits the express-mode push is theatre — he does not expect it to work; he is buying time and handing Ibuki hope while she is on the verge of losing her cool.
+[says] (p.47) “Why don’t you try pushing the button for your desired floor, plus the close-door button at the same time?” I suggested.
+[note] (p.47) The car moves — but the adults had used the remote from the first floor at the exact same moment; the pair’s button work did nothing.
+
+### y1v4.5 p.48 — Ch.2: Katsuragi at the doors
+[scene] (p.48) Outside stand two adults and Katsuragi, who took the call and moved the elevator himself.
+[rel:katsuragi-kouhei] (p.48) The thanks run both ways: Sudou “performed brilliantly,” cooperation across classes is praised, and Ayanokōji owes him his nerve.
+[back] (p.48) The friendship and the plan are treated as already told — “The story of our friendship had begun a little while ago.”
+
+<!-- walk: y1v4.5 ch2 → p.48 -->

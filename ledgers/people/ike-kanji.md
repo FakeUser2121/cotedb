@@ -401,3 +401,13 @@ aliases used for anchors: ike, kanji, ike-kun
 [note] (p.179) No scene presence; one name in Hirata’s line.
 
 <!-- walk: y1v4 ch4 → p.204 -->
+
+## y1v4.5
+
+<!-- walk: y1v4.5 → start -->
+
+### y1v4.5 p.28 — Ch.2: a passing mention in the partner list
+[scene] (p.28) Named once among the guys who would not spend their last summer days on a paired reading.
+[note] (p.28) The list: “the guys, like Sudou, Ike, and Yamauchi” — rejected without being asked.
+
+<!-- walk: y1v4.5 ch2 → p.48 -->

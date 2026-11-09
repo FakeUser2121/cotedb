@@ -473,3 +473,17 @@ aliases used for anchors: sakura, airi, sakura-san
 [note] (p.189) Another girl with them seems meek, rather like Sakura — probably Rika.
 
 <!-- walk: y1v4 ch4 → p.204 -->
+
+## y1v4.5
+
+<!-- walk: y1v4.5 → start -->
+
+### y1v4.5 p.28 — Ch.2: a passing mention in the partner list
+[scene] (p.28) Named once as the one girl who would probably come — and the reason he does not ask her.
+[note] (p.28) The couples floor would make her uncomfortable: “I felt like Sakura would probably come with me, but if I brought her to a place positively teeming with couples, it’d make her uncomfortable.”
+
+### y1v4.5 p.41 — Ch.2: a passing mention in the rescue call
+[scene] (p.41) Named once as the quiet option that still would not work.
+[note] (p.41) Gossip-free but easily flustered: “Sakura wouldn’t gossip, but the situation would probably fluster her.”
+
+<!-- walk: y1v4.5 ch2 → p.48 -->

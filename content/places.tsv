@@ -12,7 +12,7 @@ gymnasium	Gymnasium	Campus buildings	y0;y1v1;y1v2;y1v3;y1v4.5;y1v5;y1v6;y1v8;y1v
 haneda-airport	Haneda Airport	Off campus	y2v8
 hokkaido	Hokkaido	Cities & regions	y1v4;y2v5;y2v8;y2v9
 infirmary	Infirmary	Campus buildings	y0;y1v5;y1v8;y1v9;y2v4.5;y2v7
-keyaki-mall	Keyaki Mall	Campus grounds	y1v1
+keyaki-mall	Keyaki Mall	Campus grounds	y1v1;y1v4.5
 library	Library	Campus buildings	y1v1
 rooftop	Rooftop	Campus buildings	y0;y1v1;y1v4;y1v4.5;y1v5;y1v6;y1v7;y1v7.5;y1v8;y1v11.5;y2v2;y2v3;y2v4.5;y2v5
 ryokan	Ryokan	Exam venues	y2v8

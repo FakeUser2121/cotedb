@@ -631,3 +631,17 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [note] (p.239) She is not at the café; the row records the public naming of her VIP status.
 
 <!-- walk: y1v4 ch5 → p.243 -->
+
+## y1v4.5
+
+<!-- walk: y1v4.5 → start -->
+
+### y1v4.5 p.28 — Ch.2: a passing mention in the partner list
+[scene] (p.28) Named once as the girl he skips: he expects Horikita to decline and lacks the courage to ask Kushida.
+[note] (p.28) The refusal is his, not hers: “I didn’t have the courage to invite Kushida.”
+
+### y1v4.5 p.41 — Ch.2: a passing mention in the rescue call
+[scene] (p.41) Named once as someone unsuited to fetching help for the trapped pair.
+[note] (p.41) Ruled out with Karuizawa on the same line: “Kushida and Karuizawa were probably likewise unsuited to the task.”
+
+<!-- walk: y1v4.5 ch2 → p.48 -->

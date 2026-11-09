@@ -522,3 +522,27 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [note] (pp.235-241) Present for the whole results scene; no role in the deductions — the row marks the unusual crowd.
 
 <!-- walk: y1v4 ch5 → p.243 -->
+
+## y1v4.5
+
+<!-- walk: y1v4.5 → start -->
+
+### y1v4.5 p.11–14 — Ch.2: the fortune-teller call
+[scene] (p.11) Tournament rest day: chicken-tender small talk pivots to a crazy-accurate fortune-teller at Keyaki Mall, and to his real objective.
+[status:points] (p.11) Receives a 100,000-point transfer from Ayanokōji just before calling.
+[trait] (p.12) Plans the outing like a drill — 9:30 arrival for a 10:00 start to beat the line — and pays his own way: “Let’s check it out together.”
+[feat] (p.13) The tournament: the only first-year to play in the big game, and he scored; the team lost.
+[says] (p.13) “I made sure to delete the data before heading back,” Sudou said.
+[rel:horikita-suzune] (p.13–14) The outing is for her: he demands the invitation and brushes off the odds with “There’s nothing to worry about.”
+[action] (p.17) After the failed invite his reply is one line: “Then forget about it” — Ayanokōji existed only as a means to reach Horikita.
+
+### y1v4.5 p.28 — Ch.2: a passing mention in the partner list
+[scene] (p.28) Named once among the guys who would not spend their last summer days on a paired reading.
+[note] (p.28) The list: “the guys, like Sudou, Ike, and Yamauchi” — and he had already washed his hands of the outing.
+
+### y1v4.5 p.48 — Ch.2: a passing mention in Katsuragi’s thanks
+[scene] (p.48) Named in Katsuragi’s thanks at the elevator — the plan’s other half.
+[says:katsuragi-kouhei] (p.48) “Sudou performed brilliantly.”
+[note] (p.48) Katsuragi wants it passed on: he is very appreciative, and asks Ayanokōji to tell him once again.
+
+<!-- walk: y1v4.5 ch2 → p.48 -->

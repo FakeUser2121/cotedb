@@ -285,3 +285,53 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [says] (p.223) “You know, you’ve been really jumpy. You’re not the VIP, are you?” Ibuki asked.
 
 <!-- walk: y1v4 ch5 → p.243 -->
+
+## y1v4.5
+
+<!-- walk: y1v4.5 → start -->
+
+### y1v4.5 p.20–27 — Ch.2 §2.1: the couples-only encounter
+[scene] (p.20) Turned away from the couples-only line, she spots Ayanokōji in the next queue, chases him down, and demands to know where Horikita is.
+[says] (p.20) “Where’s Horikita?”
+[rel:horikita-suzune] (p.21) The page recaps the island: sent to infiltrate Class D, she and Horikita traded blows in a fistfight; the narration reads her as hostile since.
+[says] (p.23) “I hate seeing his face, even when I have to.”
+[rel:ryuuen-kakeru] (p.23) The ship pairing was atonement — “That was because it was my fault that I didn’t discover Class D’s leader,” she answered quietly.
+[rel:ayanokouji-kiyotaka] (p.23) She presses him for Class D’s leader and does not believe the shrug: “It’s not like you don’t know.”
+[trait] (p.24) “I absolutely despise the girls in my class” — the narration ranks her even more antisocial than Horikita; with the right opportunity the two might get along.
+[trait] (p.24) The cat-allergy simile for her own trap: “I’m like someone who loves cats, but has an allergy.”
+[says] (p.26) “I suppose, when you put it that way, you have a point,” she muttered.
+[says] (p.26) “Wait, why the hell are you lecturing me?” Ibuki glared.
+[says] (p.26) “You seem like the sort who’ll turn out to be a mass murderer later in life.”
+[says] (p.26) “Put simply, it’s a type of fortune-telling that tells you what times are unlucky for you.”
+[says] (p.27) “Fortune-telling isn’t all about romance and such.”
+
+### y1v4.5 p.28–29 — Ch.2 §2.2–2.3: named in the list, then fate
+[scene] (p.28) Named in Ayanokōji’s list of the people he will not invite, she is back at the booth the next day — same place, exact same time.
+[note] (p.28) On the couples-only rule the two agree: “Ibuki and I agreed on that.”
+[rel:ayanokouji-kiyotaka] (p.29) The second meeting turns from the booth to belief: he asks directly whether she believes in fortune-telling, and she answers that the over-skeptical get nothing out of it.
+
+### y1v4.5 p.30–32 — Ch.2 §2.3: agreeing to the pair
+[scene] (p.30) She accepts the pairing for the reading itself, then flags the island grudge her classmates may still hold against Ayanokōji.
+[says] (p.30) “I would like to have my fortune read, after all.”
+[says] (p.30) “Some students still hold a bit of a grudge toward me because of what happened on the island.”
+[rel:ayanokouji-kiyotaka] (p.31–32) Calls him “surprisingly shameless” for shrugging the grudge off; sets the queue rule: no pointless chit-chat — “We’re only together to have our fortunes read.”
+
+### y1v4.5 p.33–37 — Ch.2 §2.4: her reading
+[scene] (p.33) First into the tent: name, ID card, and “Do whatever you want” to the warning about unpleasant sights.
+[says] (p.34) “Ibuki. Ibuki Mio,” she answered flatly.
+[says] (p.34) “Do whatever you want,” Ibuki replied.
+[says] (p.35) “Thank you very much,” said Ibuki. — the predictions are ordinary and bright, and she listens with satisfaction.
+[rel:ayanokouji-kiyotaka] (p.36) Genuinely shocked by the fate tenchuusatsu pronouncement, and explains it to him as a life of constant misfortune; annoyed at being called the little girl.
+
+### y1v4.5 p.38–47 — Ch.2 §2.5: the detour and the elevator
+[scene] (p.38) She agrees the fortune-teller is famous and accurate, then chooses the detour with him — to see how accurate.
+[says] (p.38) “The fortune-teller said not to take any detours,” Ibuki said.
+[feat] (p.40) Phone dead from a battery she never watches: “I don’t have anyone to talk to, so I don’t usually notice when my battery is about to die.”
+[says] (p.40) “You’re such a useless man.”
+[says] (p.41) “Rejected,” she countered.
+[rel:horikita-suzune] (p.41) Vetoes the idea outright: “As long as it’s not Horikita.”
+[feat] (p.43) In the heat: kicks a dent into the elevator wall, and her jump reaches the ceiling hatch — strength Ayanokōji grants he could not match in combat.
+[says] (p.44) “I’ll kick it.”
+[rel:ayanokouji-kiyotaka] (p.46–47) Works the button combinations with him, punches the wall when they fail, and lands the floor-plus-close press that moves the car: “Fortune-telling is serious business.”
+
+<!-- walk: y1v4.5 ch2 → p.48 -->

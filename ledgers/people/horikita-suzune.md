@@ -1440,3 +1440,39 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [trait] (p.243) The composed front after the humiliation — she keeps him from spiraling into the premonition.
 
 <!-- walk: y1v4 ch5 → p.243 -->
+
+## y1v4.5
+
+<!-- walk: y1v4.5 → start -->
+
+### y1v4.5 p.14–17 — Ch.2: the fortune-telling call
+[scene] (p.14) Ayanokōji calls out of nowhere to ask whether she likes fortune-telling; she answers immediately and makes him pay for the answer.
+[says] (p.15) “You open conversations in the strangest way,” she answered.
+[trait] (p.15) Never had her fortune told — only the morning horoscopes — yet “it would be a lie to say I dislike fortune-telling.”
+[says] (p.16) “However, the big difference between fortune-tellers and psychics is that fortune-tellers give readings based on a massive amount of past data.”
+[trait] (p.16) The rational account of the booth: fortune-tellers interpret patterns to understand people — observation, not power.
+[says] (p.16) “You’re rather cheeky, but I guess you do know some things.”
+[rel:ayanokouji-kiyotaka] (p.16) She credits him with knowing the technique and tells him he should go.
+[says] (p.17) “I refuse,” she answered.
+[says] (p.17) “Sorry, but I’ll pass.”
+[action] (p.17) Turns down the outing on the crowds — she will not enter a place with so many excited students.
+
+### y1v4.5 p.23 — Ch.2: a passing mention in Ibuki’s question
+[scene] (p.23) Named in Ibuki’s memory of the island test — the Class D leader she identified.
+[note] (p.23) The narration confirms it: “She discovered that Horikita was the leader, and she hadn’t been wrong.”
+
+### y1v4.5 p.28 — Ch.2: a passing mention in the partner list
+[scene] (p.28) Named once as the invite he does not even attempt.
+[note] (p.28) Expected to decline before being asked: “Horikita would just turn me down if I asked.”
+
+### y1v4.5 p.30 — Ch.2: a passing mention in the pair proposal
+[scene] (p.30) Named as the friend Ayanokōji invokes to dismiss Ibuki’s worry about the island grudge.
+[note] (p.30) His line: “Even if Horikita were here, she’s only a friend.” — the grudge talk stops there.
+
+### y1v4.5 p.41, 43 — Ch.2: passing mentions in the elevator
+[scene] (p.41) Named as the rescue call Ibuki will not allow, and again as the rival Ibuki measures herself against.
+[says:ayanokouji-kiyotaka] (p.41) “Maybe Horikita?”
+[note] (p.41) Ibuki’s veto: “As long as it’s not Horikita.”
+[note] (p.43) The combat memory: “I heard you kept up with Horikita.” — Ayanokōji grants he could not defeat her in combat.
+
+<!-- walk: y1v4.5 ch2 → p.48 -->

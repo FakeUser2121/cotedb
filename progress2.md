@@ -1399,3 +1399,43 @@ make check OK (R18 0, R19 82/82); gate exit 0; build 180 pages, 52
 assets (the volume’s first scene payload); hash
 `31b9bbdd79993ecc0bd1d4b64778800d` twice. New tags: none. Open: ch2
 pp.11-48 (read 11-29, then 30-48 --blank).
+
+y1v4.5 ch2: Ibuki Mio has Surprisingly Good Sense (pp.11–48)
+
+The collection’s first real story, five sections. Setup: Sudou’s
+fortune-teller call on his tournament rest day (the 100,000-point
+transfer arrives first; the real motive is a Horikita invitation; the
+failed invite gets “Then forget about it”); Horikita’s phone take on
+cold reading and her refusal; the couples-only fifth floor where the
+attendant names Ukon-sensei; Ibuki refused in the next line — the
+queue talk (island fistfight recap, Ryuuen hatred, the Class D leader
+question), the awareness lecture and the mass-murderer jibe; the
+no-partner list (Horikita, Kushida, Sakura, the guys) and the next-day
+reunion; the pair queues and Ibuki’s grudge worry is dismissed on
+ability-versus-feelings grounds; §2.4 the reading — hooded fortune-
+teller, Basic Plan, balance “barely enough” at roughly 6,000 points,
+the fate tenchuusatsu pronouncement and the no-detour advice; §2.5 the
+detour taken on purpose, the elevator trapped on the third floor (dead
+emergency line, phones at four percent and dead, magic-marker number,
+heat, hatch, button schemes, the floor-plus-close press coinciding
+with the adults’ remote), and Katsuragi at the doors — the cut-off
+call, Sudou “performed brilliantly,” the friendship flash-forward.
+
+Entities: new file ledgers/people/ukon.md (roster row pre-existed;
+role: visiting fortune-teller; her tent lines filed there, the
+one-fortune-teller inference recorded in the volume file). Passing
+mentions anchored: yamauchi (pp.13, 28), ryuuen (pp.23, 31), kushida
+(pp.28, 41), sakura (pp.28, 41), ike (p.28), karuizawa (p.41),
+horikita (pp.23, 28, 30, 41, 43), sudou (pp.28, 48), katsuragi’s
+first scene (p.48). Places: keyaki-mall gains the queue and elevator
+sections; content/places.tsv keyaki-mall volumes cell +y1v4.5
+(add-only). Systems: private-points gains the transfer (p.11) and the
+Basic Plan spend (p.34).
+
+Defects kept as printed: “tenchuusatsu !” (p.36, space before the
+exclamation); the “N ext, please.” drop-cap split not quoted; p.22
+blank scan; footers run nine behind the markers throughout. Quotes:
+verify 46 [says] (3 too short/skipped) + 48 non-says ALL PASS. make
+check OK (R18 0, R19 82/82); gate exit 0; build 180 pages, 52
+assets; hash `ddd34299d8ca9caacfd9a80af72c6aa3` twice. New tags:
+none. Open: ch3 pp.49-107 (read 49-78, then 79-107 --blank).

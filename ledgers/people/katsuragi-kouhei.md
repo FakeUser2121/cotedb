@@ -190,3 +190,16 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [note] (pp.226-242) No scene presence; three mention anchors only.
 
 <!-- walk: y1v4 ch5 → p.243 -->
+
+## y1v4.5
+
+<!-- walk: y1v4.5 → start -->
+
+### y1v4.5 p.48 — Ch.2: the man at the doors
+[scene] (p.48) At the opened elevator: Katsuragi, anxious beyond his size, having taken Ayanokōji’s cut-off call and moved the car by remote.
+[says] (p.48) “Are you all right, Ayanokouji?” the large man asked.
+[rel:ayanokouji-kiyotaka] (p.48) Mutual thanks: he took the dying call, praises the plan he proposed despite resistance, and offers help — “I’ll assist you with anything…other than exams, of course.”
+[rel:sudou-ken] (p.48) “Sudou performed brilliantly.” — asked to be told once again that he is very appreciative.
+[back] (p.48) The friendship is treated as established: close as Ayanokōji is to the three idiots, maybe more so — and the story of it began a little while ago.
+
+<!-- walk: y1v4.5 ch2 → p.48 -->

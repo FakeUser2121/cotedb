@@ -1275,3 +1275,15 @@ pages, 52 assets (the volume’s first scene payload). Quotes: 2
 non-says spans, corpus-exact; R18/R19 held at 0/82. Determinism hash
 across consecutive builds:
 `31b9bbdd79993ecc0bd1d4b64778800d`.
+
+### y1v4.5 Chapter 2 reaches the site (site, 2026-11-07)
+
+The collection’s first full story (pp.11–48) lands as scene cards
+across the roster: the invite chain, the couples-only floor, Ibuki’s
+queue talk and the awareness lecture, the reading with Ukon’s fate
+tenchuusatsu pronouncement, the trapped elevator, and Katsuragi’s
+thanks. Ukon gains a directory presence from the new file; the volume
+page turns from one chapter to two. Quotes: 46 [says] + 48 non-says
+spans, corpus-exact; R18/R19 held at 0/82. Determinism hash across
+consecutive builds:
+`ddd34299d8ca9caacfd9a80af72c6aa3`.

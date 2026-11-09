@@ -311,3 +311,17 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [note] (p.236) Mention only; Rooster’s actual Outcome #3 comes from the results list.
 
 <!-- walk: y1v4 ch5 → p.243 -->
+
+## y1v4.5
+
+<!-- walk: y1v4.5 → start -->
+
+### y1v4.5 p.13 — Ch.2: a passing mention in the tournament call
+[scene] (p.13) Named when Ayanokōji asks after him mid-call; the answer comes back about the deleted exam data.
+[note] (p.13) The question “What about Yamauchi?” gets the answer about the data — the narration plans to confirm with him later that the deletion held.
+
+### y1v4.5 p.28 — Ch.2: a passing mention in the partner list
+[scene] (p.28) Named once among the guys who would not spend their last summer days on a paired reading.
+[note] (p.28) The list: “the guys, like Sudou, Ike, and Yamauchi” — rejected without being asked.
+
+<!-- walk: y1v4.5 ch2 → p.48 -->

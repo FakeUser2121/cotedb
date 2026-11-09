@@ -445,3 +445,13 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [status] (p.232) Ichinose’s guess on her: “The real VIP is Karuizawa Kei-san. Am I right?” — correct, unsent when the four notes sound.
 
 <!-- walk: y1v4 ch5 → p.243 -->
+
+## y1v4.5
+
+<!-- walk: y1v4.5 → start -->
+
+### y1v4.5 p.41 — Ch.2: a passing mention in the rescue call
+[scene] (p.41) Named once in the elevator as one of the people unsuited to fetching help.
+[note] (p.41) Ruled out with Kushida on the same line: “Kushida and Karuizawa were probably likewise unsuited to the task.”
+
+<!-- walk: y1v4.5 ch2 → p.48 -->

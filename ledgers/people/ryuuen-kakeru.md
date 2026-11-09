@@ -255,3 +255,18 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:katsuragi-kouhei] (p.242) The defensive vote he bent to 1% — named in Ayanokōji’s explanation of Dragon Outcome #1.
 
 <!-- walk: y1v4 ch5 → p.243 -->
+
+## y1v4.5
+
+<!-- walk: y1v4.5 → start -->
+
+### y1v4.5 p.23 — Ch.2: a passing mention in Ibuki’s refusal
+[scene] (p.23) Named only as the man Ibuki will not look at on a holiday.
+[says:ibuki-mio] (p.23) “I hate seeing his face, even when I have to.”
+[rel:ibuki-mio] (p.23) Their ship pairing was atonement for her failure to discover Class D’s leader — “That was because it was my fault that I didn’t discover Class D’s leader,” she answered quietly.
+
+### y1v4.5 p.31 — Ch.2: a passing mention in the queue talk
+[scene] (p.31) Named twice in the narration sizing up Ibuki’s standing with him.
+[note] (p.31) She caught his eye early on; after the spy identity broke she was at his side on several occasions — atonement for her failure, but he trusted her, at least to some degree.
+
+<!-- walk: y1v4.5 ch2 → p.48 -->

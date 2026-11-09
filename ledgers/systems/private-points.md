@@ -178,3 +178,17 @@ system_id: point-economy · scope: Tokyo Metropolitan Advanced Nurturing High Sc
 [note] (p.234–235) Ayanokōji lends Ichinose the points for the camera purchase; she will return them: "I’ll definitely return the points I borrowed. Just tell me when you want them." — he sets the deadline at graduation.
 
 <!-- walk: y1v2 ch7 → p.257 -->
+
+## y1v4.5
+
+<!-- walk: y1v4.5 → start -->
+
+### y1v4.5 p.11 — Ch.2: a transfer between classmates
+[status:points] (p.11) A balance check reads 106,219 points; 100,000 of them move to Sudou Ken in the same beat, before he calls.
+[note] (p.11) The page states no purpose for the transfer — the call that follows is about a fortune-teller, not the money.
+
+### y1v4.5 p.34 — Ch.2: paying for the Basic Plan
+[status:points] (p.34) The menu’s floor: “We’d be spending well over 5,000 points.”
+[status:points] (p.34) His balance check finds roughly 6,000 left — “barely enough” — and both take the Basic Plan; the card reader deducts, price not printed.
+
+<!-- walk: y1v4.5 ch2 → p.48 -->
