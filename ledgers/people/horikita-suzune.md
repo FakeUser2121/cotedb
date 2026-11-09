@@ -1577,3 +1577,11 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says] (p.131) “Shut up,”
 
 <!-- walk: y1v4.5 ch4 → p.131 -->
+
+### y1v4.5 p.132, 141 — Ch.5: a passing mention
+[scene] (p.132) Yamauchi's old phone-number bargain damaged his perceived market value in her eyes.
+[rel:yamauchi-haruki] (p.132) That embarrassment is why AK judges he owes Yamauchi one.
+[rel:sakura-airi] (p.141) Sakura's first worry on receiving the letter is whether Horikita will be angry.
+[note] (p.141) She never appears on the page; her would-be reaction is AK's guess of an exasperated sigh.
+
+<!-- walk: y1v4.5 ch5 → p.152 -->

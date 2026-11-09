@@ -1528,3 +1528,36 @@ prints “Page 99”). Quotes: verify 447 [says] (8 too short/skipped) +
 build 180 pages, 56 assets; hash
 `ec89b51796f06012fa6aa88093943f2d` twice. New tags: none. Open: ch5
 pp.132–152.
+
+y1v4.5 ch5: A Day of Girl Troubles and Disaster (pp.132–152)
+
+Read in one pass (21 pages, --blank) and written at once; three
+subsections 5.1–5.3. Setup: Yamauchi bursts in on the last vacation
+days with a printed love letter to Sakura and drafts AK to proofread
+and deliver it — the tribute line and scary font go, the Kokugikan
+sumo final stays as a probable lie. Beats: the reverse-comparison plan
+(Kushida lures Sakura out, nothing said, AK made to look like the
+confessor); the handover and Sakura's panic — Horikita worry, the
+refusal to read together, she leaves to read alone; Yamauchi's faith
+in her averted eyes and "sigh of love"; the midnight call —
+responsibility talk, the dating question that perks up at zero
+experience; the answer in the rain behind the school building —
+soaked, Sakura turns him down in person while AK watches the first
+confession he has ever seen; Yamauchi leaves relieved and matured,
+lending AK a phone as an exception.
+
+Ledgers: 8 files stamped `<!-- walk: y1v4.5 ch5 → p.152 -->` — ak,
+yamauchi, sakura, kushida, horikita, school-building, dormitory, the
+volume file. New file: ledgers/places/school-building.md (place row
+pre-existed with y1v4.5; no TSV edits). Kushida and Horikita are
+named-but-absent: entries are other people speaking about them, noted
+as such. Mention anchors: none extra — no other roster names in the
+chapter.
+
+Attribution gaps kept: none — every spoken line names its speaker.
+Defects kept as printed: short page p.140 (one line); footers run nine
+behind the markers (p.132 prints “Page 123”). Quotes: verify 539
+[says] (10 too short/skipped) + 58 non-says ALL PASS. make check OK
+(R18 0, R19 82/82); gate exit 0; build 180 pages, 57 assets; hash
+`8a0bb5345101c36556e7f772ea5c09f2` twice. New tags: none. Open: ch6
+pp.153–204.

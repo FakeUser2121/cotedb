@@ -1314,3 +1314,14 @@ directory presences from new files. Quotes: 447 [says] + 58 non-says
 spans, corpus-exact; R18/R19 held at 0/82. Determinism hash across
 consecutive builds:
 `ec89b51796f06012fa6aa88093943f2d`.
+
+### y1v4.5 Chapter 5 reaches the site (site, 2026-11-07)
+
+The love-letter chapter (pp.132–152) lands as scene cards across the
+roster: Yamauchi's printed letter and delivery plan, the handover
+behind the school building, the midnight call, the rain-soaked
+confession and rejection, and the phone loan that closes it. The School
+Building gains a ledger-backed directory presence from a new file.
+Quotes: 539 [says] + 58 non-says spans, corpus-exact; R18/R19 held at
+0/82. Determinism hash across consecutive builds:
+`8a0bb5345101c36556e7f772ea5c09f2`.

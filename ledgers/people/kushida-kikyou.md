@@ -701,3 +701,12 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [says] (p.127) “Well then, good night to you both,”
 
 <!-- walk: y1v4.5 ch4 → p.131 -->
+
+### y1v4.5 p.134–138 — Ch.5: the go-between
+[scene] (p.134) Named as the friend Yamauchi already asked to call Sakura for him.
+[rel:yamauchi-haruki] (p.134) She is his inside line: the invitation that brings Sakura out is arranged through her.
+[rel:sakura-airi] (p.137) Sakura rarely speaks to her and spent the walk worrying she had made Kushida angry.
+[says:sakura-airi] (p.137) “I don’t normally talk to Kushida-san, so I was worried I did something to make her angry.”
+[note] (p.137) She never appears on the page; every entry is others speaking about the arrangement.
+
+<!-- walk: y1v4.5 ch5 → p.152 -->

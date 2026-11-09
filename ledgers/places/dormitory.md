@@ -21,3 +21,9 @@ place_id: dormitory · type: student dormitory residence
 [action] (p.129) The fifth-floor stop brings Kouenji aboard; the ride ends without incident on the thirteenth.
 
 <!-- walk: y1v4.5 ch4 → p.131 -->
+
+### y1v4.5 p.132, 144 — Ch.5: visits and midnight calls
+[scene] (p.132) Yamauchi wakes AK at the door on one of the last vacation days; barley tea is poured.
+[action] (p.144) Midnight texts from Sakura turn into a phone call between her room and his.
+
+<!-- walk: y1v4.5 ch5 → p.152 -->

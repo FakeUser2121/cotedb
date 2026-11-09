@@ -507,3 +507,57 @@ aliases used for anchors: sakura, airi, sakura-san
 [note] (p.130) Texting with her goes smoothly where talking in person is difficult.
 
 <!-- walk: y1v4.5 ch4 → p.131 -->
+
+### y1v4.5 p.137–143 — Ch.5 §5.1: the letter
+[scene] (p.137) Kushida's invitation brings her behind the school building; finding only AK is a relief.
+[rel:kushida-kikyou] (p.137) She doesn't normally talk to Kushida and feared she had done something to make her angry.
+[says] (p.137) “I don’t normally talk to Kushida-san, so I was worried I did something to make her angry.”
+[says] (p.138) “But why get Kushida’s help, Ayanokouji-kun?”
+[says] (p.138) “A l-letter…behind the school… A boy…”
+[says] (p.138) “Ah, ahhh. Th-this is… Oh my. Oh my. Ahhh!”
+[action] (p.139) She stammers to a standstill once the words love letter come out.
+[says] (p.141) “What about…Horikita-san?!”
+[says] (p.141) “Eh? I-It’s not from you, Ayanokouji-kun?”
+[says] (p.141) “But I can’t…I can’t do it! I can’t…”
+[says] (p.142) “Never!”
+[says] (p.142) “Will you read it with me?”
+[says] (p.142) “That’s not possible now,”
+[says] (p.142) “I-I’ll try reading it!”
+[action] (p.142) She hangs her head and leaves to read the letter alone in her room.
+
+### y1v4.5 p.144–146 — Ch.5 §5.2: the night call
+[scene] (p.144) Her midnight texts become a phone call; tomorrow's answer keeps her awake.
+[says] (p.144) “Are you awake?”
+[says] (p.144) “Did I wake you?”
+[says] (p.144) “I have to meet with Yamauchi-kun at five tomorrow, but…can I meet you before that?”
+[says] (p.144) “Is it okay if I call you?”
+[says] (p.145) “I-I don’t know anything about Yamauchi-kun.”
+[says] (p.145) “I just realized that liking someone, or hating someone, actually comes with a ton of responsibility.”
+[says] (p.145) “Yamauchi-kun hasn’t done anything wrong, but this… I think I just don’t want this.”
+[says] (p.145) “That’s what I’m wondering.”
+[says] (p.145) “are you perhaps dating anyone at the…present time?”
+[says] (p.145) “R-really?!”
+[says] (p.146) “I was happy because you’re like me, that’s all.”
+[says] (p.146) “Oh, you!”
+[says] (p.146) “has anyone ever confessed their feelings to you?”
+[says] (p.146) “Okay, I see!”
+[action] (p.146) She sounds happy again; they chat until she grows drowsy and the call ends.
+
+### y1v4.5 p.147–152 — Ch.5 §5.3: the rejection
+[scene] (p.147) She waits ten minutes early with a pained, shifting look; rain soaks them before the answer.
+[says] (p.147) “Thank you for coming here, Ayanokouji-kun.”
+[says] (p.148) “It’s raining,”
+[says] (p.148) “I-I’m fine.”
+[says] (p.148) “I’m surprisingly tough, you know,”
+[action] (p.148) She dries his hair and face with the island handkerchief.
+[back] (p.148) The handkerchief is the one she lent him on the uninhabited island.
+[says] (p.149) “I…I wonder what I should do…”
+[says] (p.149) “I’m going to turn him down.”
+[says] (p.149) “I don’t think I’m qualified to reject someone.”
+[says] (p.150) “Please don’t leave me alone,”
+[says] (p.150) “Wh-why do you like…me?”
+[says] (p.150) “I…I’m sorry!”
+[says] (p.150) “I can’t, um, return your feelings”
+[says] (p.151) “G-goodbye!”
+
+<!-- walk: y1v4.5 ch5 → p.152 -->

@@ -2696,3 +2696,61 @@ walk: y1v1 → DONE
 [says] (p.131) “I-I think I’m trapped!”
 
 <!-- walk: y1v4.5 ch4 → p.131 -->
+
+### y1v4.5 p.132–143 — Ch.5 §5.1: the letter
+[scene] (p.132) Yamauchi bursts in on the last days of vacation with a printed love letter and drafts AK to proofread and deliver it.
+[action] (p.132) AK lets him in with barley tea and admits he owes him one after the old phone-number bargain.
+[rel:yamauchi-haruki] (p.132) The debt runs to a promise AK made without Sakura's consent that made Yamauchi look foolish in Horikita's eyes.
+[says] (p.133) “And overly formal at the beginning,”
+[says] (p.133) “Why is it printed, instead of handwritten?”
+[says] (p.133) “That’s no good.”
+[says] (p.134) “Are you seriously planning on confessing your love to her?”
+[action] (p.134) He agrees to proofread and then to deliver after Yamauchi claps, bows and begs.
+[says] (p.135) “But what matters is how Sakura feels.”
+[says] (p.135) “I’ll deliver your letter.”
+[says] (p.136) “Should I really hand the letter over for you?”
+[says] (p.136) “Does an indirect love letter really have any value?”
+[says] (p.137) “Look, I just think getting a confession of love from someone you can’t see is scary,”
+[says] (p.137) “I think you should reconsider.”
+[action] (p.137) Sakura arrives; Yamauchi flees the phone call; AK is left holding the letter.
+[says] (p.137) “Kushida called you here, right?”
+[says] (p.137) “To tell you the truth, I asked Kushida for a favor.”
+[says] (p.138) “If you read the contents, you’ll understand well enough,”
+[action] (p.139) He hands the letter over and offers a text-or-call way to answer.
+[says] (p.139) “Yeah, a love letter.”
+[rel:sakura-airi] (p.139) Her stammering tells him she still thinks he wrote it.
+[action] (p.141) He catches her as she nearly topples and denies that Horikita would be angry.
+[says] (p.141) “Just to repeat myself, this letter is from another guy.”
+[says] (p.141) “I already told you that I’m the messenger, didn’t I?”
+[says] (p.141) “Just read it and answer.”
+[action] (p.142) He refuses to read it with her; she leaves to read alone in her room.
+[says] (p.142) “Has no one ever confessed their feelings to you before?”
+[says] (p.142) “Maybe the letter’s from someone you like,”
+[action] (p.143) Yamauchi's belief rests on her averted eyes and heavy sighs; AK reads them as exhaustion.
+
+### y1v4.5 p.144–146 — Ch.5 §5.2: the night call
+[scene] (p.144) Sakura's midnight texts turn into a phone call about tomorrow's answer.
+[action] (p.144) He lies about doing laundry so she will not feel she woke him.
+[says] (p.144) “You can’t sleep?”
+[says] (p.145) “If I can answer, I will.”
+[says] (p.145) “I’ve never dated anyone, and I’m not dating anyone currently.”
+[says] (p.146) “I have zero experience, same as you.”
+[action] (p.146) They chat until she grows drowsy and the call ends.
+
+### y1v4.5 p.147–152 — Ch.5 §5.3: the answer
+[scene] (p.147) At four they meet behind the school building; rain soaks them before Yamauchi arrives.
+[action] (p.148) He refuses her handkerchief; she dries his hair and face anyway.
+[back] (p.148) The handkerchief is the one Sakura lent him on the uninhabited island.
+[says] (p.149) “Just answer based on how you feel.”
+[says] (p.149) “Of course, you can always hold off on answering, too.”
+[says] (p.149) “I see. I suppose you should, for Yamauchi’s sake.”
+[says] (p.149) “You have nothing to apologize for.”
+[says] (p.150) “If that’s your preference,”
+[action] (p.150) He stays because she grabs his sleeve and asks not to be left alone.
+[action] (p.150) Yamauchi arrives stiff; AK explains his presence without blame.
+[action] (p.151) He watches the first confession he has ever seen in person break down.
+[rel:yamauchi-haruki] (p.152) The phone Yamauchi lends repays the help — a third-party device on loan.
+[says] (p.152) “It’s okay, because…we’re friends,”
+[action] (p.152) Sun breaks through the rainclouds as Yamauchi runs after Sakura.
+
+<!-- walk: y1v4.5 ch5 → p.152 -->

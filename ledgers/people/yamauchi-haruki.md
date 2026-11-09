@@ -364,3 +364,45 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [note] (p.105) The second Class D boy is never named on the page; the plan's pair makes him Yamauchi — an inference, not a printed name.
 
 <!-- walk: y1v4.5 ch3 → p.107 -->
+
+### y1v4.5 p.132–143 — Ch.5 §5.1: the letter and the plan
+[scene] (p.132) He bursts into AK's room on the last days of vacation to demand the day's obedience.
+[says] (p.132) “You’re gonna do what I say today, Ayanokouji!”
+[rel:sakura-airi] (p.133) The printed love letter carries all his feelings — and a monthly-points tribute line.
+[says] (p.133) “I’ve written about just how much I love Sakura!”
+[says] (p.133) “I’m not really proud of this, but my handwriting sucks.”
+[says] (p.134) “Starting with the second semester, I’m aiming for my dream school life!”
+[action] (p.134) He has already asked Kushida to call Sakura and wants AK to deliver the letter.
+[says] (p.134) “I want you to deliver the letter.”
+[says] (p.134) “The last time I felt this nervous, I won the final match at the Ryougoku Kokugikan Sumo Hall.”
+[note] (p.134) AK judges the Kokugikan final a probable lie — weak and uncharacteristic.
+[says] (p.134) “Any past problems between us will all be water under the bridge!”
+[action] (p.135) He wants the answer behind the school building after Gym Number Two — a confession-spot rumor.
+[says] (p.135) “If you confess your feelings there, it’s sure to go well.”
+[says] (p.136) “Damn, I’m so nervous!”
+[says] (p.136) “Th-that’s impossible, dude.”
+[says] (p.136) “So, when you hand over the letter, don’t mention me at all.”
+[action] (p.137) Panicked at Sakura's footsteps, he hangs up and leaves the rest to AK.
+[says] (p.137) “I’m leaving the rest to you!”
+[says] (p.142) “How’d she react?!”
+[says] (p.142) “D-don’t use a scary word like ‘judgment’!”
+[says] (p.143) “Isn’t that a sigh of love?”
+
+### y1v4.5 p.150–152 — Ch.5 §5.3: the rejection and the phone
+[scene] (p.150) He arrives stiff for the answer and finds AK already there at Sakura's request.
+[says] (p.150) “Wh-why are you here, Ayanokouji?”
+[says] (p.150) “So, did you read my letter?”
+[says] (p.150) “I like you, Sakura!”
+[says] (p.151) “Thank you, Sakura.”
+[rel:sakura-airi] (p.151) Her careful rejection leaves him shocked but guilt-free.
+[says] (p.152) “I almost feel relieved, you know?”
+[says] (p.152) “I feel incredibly guilty.”
+[says] (p.152) “I didn’t really love her.”
+[action] (p.152) He concludes he was after face and body only, not love, and resolves to find a girl he really likes.
+[says] (p.152) “I’m grateful to you, Ayanokouji.”
+[rel:ayanokouji-kiyotaka] (p.152) He lends AK a phone — the borrowed device AK asked for — as an exception to the confession-contingent deal.
+[says] (p.152) “I’m making an exception.”
+[says:ayanokouji-kiyotaka] (p.152) “Didn’t you say it depended on your confession being successful?”
+[action] (p.152) He runs off after Sakura in the clearing rain.
+
+<!-- walk: y1v4.5 ch5 → p.152 -->
