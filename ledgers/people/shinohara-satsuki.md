@@ -92,4 +92,7 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [action] (p.55) She storms out of the store; Ike is left speechless pretending he does not care.
 [rel:kushida-kikyou] (p.61) The fallout is still live: Kushida makes Ike promise to apologize to her.
 
+### y1v4.5 p.65 — Ch.3: a passing mention
+[scene] (p.65) Ike's disappointment carries a memory of what had happened with Shinohara before.
+
 <!-- walk: y1v4.5 ch3 → p.107 -->

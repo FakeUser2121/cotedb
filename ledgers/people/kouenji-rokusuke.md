@@ -208,6 +208,9 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [scene] (p.72) Named among the students with strong latent abilities AK believes the president should have approached before him.
 [rel:horikita-manabu] (p.72) Listed with Katsuragi and Ichinose as the obvious candidates for the vice presidency.
 
+### y1v4.5 p.64 — Ch.3: a passing mention
+[scene] (p.64) Kōenji is named in the popularity comparison as having a degree of widespread appeal of his own.
+
 <!-- walk: y1v4.5 ch3 → p.107 -->
 
 ### y1v4.5 p.129–130 — Ch.4: the elevator ride

@@ -169,6 +169,11 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [says] (p.94) “Even if you act behind the scenes, I won’t investigate.”
 [status] (p.94) Whether he later arranged Sudou's blind spots is left open on p.104.
 
+### y1v4.5 p.62–63, 74 — Ch.3: passing mentions
+[scene] (p.62) Manabu surfaces in the birthday hunt as the one person who might know his sister's date.
+[note] (p.63) The student council president is named outright while Sudou shrugs off his own ignorance.
+[note] (p.74) A line records that thirty minutes have passed since a conversation with Horikita's older brother.
+
 <!-- walk: y1v4.5 ch3 → p.107 -->
 
 ### y1v4.5 p.179–181 — Ch.6: a passing mention
@@ -177,5 +182,10 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [fact] (p.180) He ran against Nagumo in the student council elections and is reported disappointed in this year's first-year students.
 [rel:nagumo-miyabi] (p.180) The vice president's rise is framed against his presidency; he might step down in October.
 [rel:horikita-suzune] (p.179) His sister praises him in front of others without revealing he is her brother.
+
+### y1v4.5 p.182, 190 — Ch.6: passing mentions
+[scene] (p.182) The elder Horikita is invoked against his sister's council prospects.
+[note] (p.182) A line argues he would not allow her onto a council after he had wanted her expelled.
+[note] (p.190) Suzune recalls Ayanokōji's movements because she had once seen him fight her brother.
 
 <!-- walk: y1v4.5 ch6 → p.204 -->

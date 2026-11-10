@@ -545,6 +545,13 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [says:katsuragi-kouhei] (p.48) “Sudou performed brilliantly.”
 [note] (p.48) Katsuragi wants it passed on: he is very appreciative, and asks Ayanokōji to tell him once again.
 
+### y1v4.5 p.15, 19–21 — Ch.2: passing mentions
+[scene] (p.15) His angry face is what keeps Ayanokōji on the phone call.
+[note] (p.15) A real possibility is weighed while the image of Sudou lingers.
+[note] (p.19) His insistence on inviting Horikita is the reason the plan takes shape.
+[note] (p.20) Ibuki is compared to him while he angles for time with Horikita.
+[note] (p.21) First Sudou, now Ibuki: the queue talk makes him its opening topic.
+
 <!-- walk: y1v4.5 ch2 → p.48 -->
 
 ### y1v4.5 p.51 — Ch.3: his share of the points
@@ -584,6 +591,10 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [says] (p.103) “You know, you’re a surprisingly shady guy.”
 [result] (p.104) He executes perfectly: bag check passed, gift mailed, video sent and deleted.
 
+### y1v4.5 p.60, 93 — Ch.3: passing mentions
+[scene] (p.60) The birthday-hunt turnout includes him after his club activities.
+[note] (p.93) An earlier incident involving Sudou of Class D is raised in the council-room talk.
+
 <!-- walk: y1v4.5 ch3 → p.107 -->
 
 ### y1v4.5 p.119 — Ch.4: a passing mention
@@ -621,6 +632,15 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [says] (p.188) “Even if it's bad, it's okay, as long as you get the ball up!”
 [rel:horikita-suzune] (p.189) Her praise after the win makes him smile smugly; Ichinose reports his reputation has already reached other classes.
 [action] (p.189) After the match he delivers the promised death sentence to Yamauchi outside the pool.
+
+### y1v4.5 p.160, 177–178, 190, 194, 200, 203 — Ch.6: passing mentions
+[scene] (p.160) He is named in the four-guy outing announcement.
+[note] (p.177) He remarks that the others are fired up over something.
+[note] (p.178) The object of his admiration is the same student Ayanokōji is watching.
+[note] (p.190) His name heads the group whose stomachs grumble at the food stands.
+[note] (p.194) The earlier rescue from expulsion is raised in the argument over whether he would be gotten rid of.
+[note] (p.200) He and Yamauchi want shaved ice at the stands.
+[note] (p.203) He looks anxious alongside Ike and Yamauchi.
 
 <!-- walk: y1v4.5 ch6 → p.204 -->
 

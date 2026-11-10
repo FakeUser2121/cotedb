@@ -2631,6 +2631,10 @@ walk: y1v1 → DONE
 [result] (p.104) The run succeeds: bag check passed, gift mailed, video sent then deleted; Sudou handles everything perfectly.
 [rel:horikita-manabu] (p.104) AK wonders whether Manabu arranged the blind spots — or watched the violation happen.
 
+### y1v4.5 p.105 — Ch.3: after Katsuragi leaves
+[scene] (p.105) Katsuragi exits Ayanokōji's room and rides the elevator back to his floor, where two Class D students wait with a birthday surprise.
+[narrates] (p.105) The closing scene runs entirely from Katsuragi's side; Ayanokōji appears only as the room's occupant.
+
 <!-- walk: y1v4.5 ch3 → p.107 -->
 
 ### y1v4.5 p.108–119 — Ch.4: the water outage

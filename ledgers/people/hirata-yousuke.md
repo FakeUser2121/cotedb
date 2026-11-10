@@ -653,6 +653,10 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [scene] (p.64) AK notes Hirata is popular with both Class D and the upperclassmen while measuring his own group against Class A.
 [rel:ike-kanji] (p.64) The comparison lands as Ike and Sudou fret about Katsuragi's advantage with older girls.
 
+### y1v4.5 p.72 — Ch.3: a passing mention
+[scene] (p.72) Ayanokōji's tally of classmates he could have approached first names Hirata among the obvious choices.
+[note] (p.72) The line groups him with Katsuragi and Ichinose as people he passed over.
+
 <!-- walk: y1v4.5 ch3 → p.107 -->
 
 ### y1v4.5 p.120 — Ch.4: a passing mention
@@ -671,5 +675,10 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:karuizawa-kei] (p.192) She fears rumors if she is seen alone with Ayanokōji while still going out with him.
 [note] (p.195) Karuizawa says he confessed to her that his friend tried to commit suicide by jumping; Ayanokōji doubts that trauma alone explains a Class D placement.
 [rel:ayanokouji-kiyotaka] (p.195) Ayanokōji judges that he still isn't someone who can be fully trusted and wants the truth checked discreetly.
+
+### y1v4.5 p.159, 196 — Ch.6: passing mentions
+[scene] (p.159) Hirata's standing is invoked twice across the chapter's closing pages.
+[note] (p.159) Ayanokōji promises to bring him in, and even Chabashira-sensei, if the deal's enemies surface.
+[note] (p.196) He would not be easy to deal with without verifying his truth, and he is cited as someone whose beloved friend attempted suicide.
 
 <!-- walk: y1v4.5 ch6 → p.204 -->

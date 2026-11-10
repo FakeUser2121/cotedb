@@ -683,6 +683,11 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [voice] (p.88) Her smile is read as smitten-inducing; even Class A's leader is not an easy target.
 [rel:ike-kanji] (p.105) The cake they ambush with is the one she chose.
 
+### y1v4.5 p.51, 54 — Ch.3: passing mentions
+[scene] (p.51) Her absence from the outing is the group's first problem.
+[note] (p.51) Ike demands an explanation while the others defend her absence.
+[note] (p.54) His questions about Kikyou-chan carry on in the same vein.
+
 <!-- walk: y1v4.5 ch3 → p.107 -->
 
 ### y1v4.5 p.120–127 — Ch.4: the grudge and the corridor
@@ -721,6 +726,15 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [says] (p.190) “But, Ichinose-san, didn't you use up quite a few points on stuff like swimwear?”
 [says] (p.203) “I wonder what's up with them?”
 [rel:ichinose-honami] (p.190) She points out that Class D is barely getting by while Class B spends on swimwear.
+
+### y1v4.5 p.163, 166, 168, 177, 183, 187 — Ch.6: passing mentions
+[scene] (p.163) She is named among the ladies invited to the pool.
+[note] (p.163) Ike lists Kikyou-chan among the invitees.
+[note] (p.166) A line notes the company she keeps at the pool: Kushida, Sakura, Ike, and the rest.
+[note] (p.168) The group talks with her at its center.
+[note] (p.177) She nods with enthusiasm in the middle of the boys' exchange.
+[note] (p.183) She observes that Horikita-san is unusually fired up.
+[note] (p.187) She and Horikita are judged to have above-average offensive and defensive coordination.
 
 <!-- walk: y1v4.5 ch6 → p.204 -->
 

@@ -26,4 +26,7 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [trivia] (p.182) The earring visible on him is a clip-on; Ichinose says he dresses normally in school.
 [status] (p.180) Ichinose believes President Horikita might be stepping down in October, leaving Nagumo next in line.
 
+### y1v4.5 p.185 — Ch.6: a passing mention
+[scene] (p.185) Sudou's spike power is measured against Nagumo's during the volleyball game.
+
 <!-- walk: y1v4.5 ch6 → p.204 -->

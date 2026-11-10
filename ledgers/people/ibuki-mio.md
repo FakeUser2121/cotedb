@@ -341,4 +341,8 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [back] (p.49) The elevator entrapment is already history; this volume's earlier chapters covered it.
 [note] (p.61) AK groups her with Horikita as “stubborn loners like Horikita and Ibuki” whose birthdays Kushida would be unlikely to know.
 
+### y1v4.5 p.63 — Ch.3: a passing mention
+[scene] (p.63) Ibuki is named in the birthday-hunt discussion as one of the class's stubborn loners.
+[note] (p.63) A line groups her with Horikita as people whose information is hard to obtain.
+
 <!-- walk: y1v4.5 ch3 → p.107 -->

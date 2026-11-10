@@ -486,6 +486,9 @@ aliases used for anchors: sakura, airi, sakura-san
 [scene] (p.41) Named once as the quiet option that still would not work.
 [note] (p.41) Gossip-free but easily flustered: “Sakura wouldn’t gossip, but the situation would probably fluster her.”
 
+### y1v4.5 p.23 — Ch.2: a passing mention
+[scene] (p.23) Ibuki is contrasted with Sakura as someone who never seemed to struggle the way Sakura does.
+
 <!-- walk: y1v4.5 ch2 → p.48 -->
 
 ### y1v4.5 p.49 — Ch.3: a passing mention
@@ -505,6 +508,10 @@ aliases used for anchors: sakura, airi, sakura-san
 [says] (p.130) “You wanted water, right?”
 [says] (p.130) “I’ll wait for you,”
 [note] (p.130) Texting with her goes smoothly where talking in person is difficult.
+
+### y1v4.5 p.120 — Ch.4: a passing mention
+[scene] (p.120) Horikita immediately defers the water request to Sakura-san.
+[note] (p.120) Relying on Kushida or Sakura is raised as the alternative.
 
 <!-- walk: y1v4.5 ch4 → p.131 -->
 
@@ -560,6 +567,14 @@ aliases used for anchors: sakura, airi, sakura-san
 [says] (p.150) “I can’t, um, return your feelings”
 [says] (p.151) “G-goodbye!”
 
+### y1v4.5 p.132–136 — Ch.5: the letter plan
+[scene] (p.132) Yamauchi's scheme to buy her phone number and deliver a love letter runs through the chapter's opening.
+[note] (p.132) The bargain made without her consent is recalled, along with the damage it caused.
+[note] (p.133) Yamauchi's letter opens with his feelings for Sakura Airi-sama.
+[note] (p.134) The plan to pay her to date him is weighed, and Kushida is asked to call her out.
+[note] (p.135) How she feels is held as the deciding factor, given her shyness around men.
+[note] (p.136) Ayanokōji contacts her and sets up the meeting behind the school building.
+
 <!-- walk: y1v4.5 ch5 → p.152 -->
 
 ### y1v4.5 p.158–177 — Ch.6: the subject and the friend
@@ -592,5 +607,8 @@ aliases used for anchors: sakura, airi, sakura-san
 [says] (p.218) “Y-yeah, I suppose so,” replied Sakura.
 [says] (p.218) “Y-yes,” said Sakura.
 [trait] (p.218) Even being around the other girls makes her deeply self-conscious.
+
+### y1v4.5 p.219 — Ch.7: a passing mention
+[scene] (p.219) Recognizing her chance to escape, she shifts away.
 
 <!-- walk: y1v4.5 ch7 → p.223 -->

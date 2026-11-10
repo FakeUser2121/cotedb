@@ -363,6 +363,13 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [scene] (p.105) With Ike he ambushes Katsuragi with party poppers and the melted cake.
 [note] (p.105) The second Class D boy is never named on the page; the plan's pair makes him Yamauchi — an inference, not a printed name.
 
+### y1v4.5 p.50, 61, 72, 103 — Ch.3: passing mentions
+[scene] (p.50) His finances decide whether the gift plan goes ahead.
+[note] (p.50) Ayanokōji expects him to agree, but his situation is dire and he is barely scraping by.
+[note] (p.61) He is caught chuckling and glared at for it.
+[note] (p.72) He and Ike are named as the opposite of people worth approaching first.
+[note] (p.103) His name is used as an example of someone completely unrelated to the matter.
+
 <!-- walk: y1v4.5 ch3 → p.107 -->
 
 ### y1v4.5 p.132–143 — Ch.5 §5.1: the letter and the plan
@@ -405,6 +412,14 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [says:ayanokouji-kiyotaka] (p.152) “Didn’t you say it depended on your confession being successful?”
 [action] (p.152) He runs off after Sakura in the clearing rain.
 
+### y1v4.5 p.144–145, 147–149 — Ch.5: the letter plan
+[scene] (p.144) Sakura's midnight messages arrange a meeting with him for five the next day.
+[note] (p.144) She asks to see Ayanokōji before it, since she has no one else to turn to.
+[note] (p.145) She admits knowing nothing about Yamauchi-kun, and the weight of the decision is set on her.
+[note] (p.147) The afternoon talk moves to a hidden spot because his early arrival would be a disaster.
+[note] (p.148) The sudden rain is exactly the scenario Ayanokōji realizes he was after.
+[note] (p.149) Sakura decides to turn him down herself while his arrival time stays unknown.
+
 <!-- walk: y1v4.5 ch5 → p.152 -->
 
 ### y1v4.5 p.163–178 — Ch.6 §6.1–6.4: the pool plot
@@ -427,6 +442,12 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [action] (p.189) Collapsed outside the pool, he glares at Sudou after the promised knockout.
 [action] (p.200) He orders shaved ice at the convenience store.
 [rel:ike-kanji] (p.187) He copies Ike's flipped finger at Sudou and pays for it with the death sentence.
+
+### y1v4.5 p.160, 183, 186, 203 — Ch.6: passing mentions
+[scene] (p.160) He is named in the four-guy outing announcement.
+[note] (p.183) Ike shouts Ken and Haruki to rally the team.
+[note] (p.186) He and Ike are drawn by whatever has caught their attention.
+[note] (p.203) He looks anxious alongside Ike and Sudou.
 
 <!-- walk: y1v4.5 ch6 → p.204 -->
 

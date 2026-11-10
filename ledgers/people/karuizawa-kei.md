@@ -517,6 +517,9 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [says] (p.199) “Being pushed in isn't exactly fun, you know.”
 [action] (p.199) She pulls him into the water after he offers his hand, then holds his head underwater while the lifeguards rush over.
 
+### y1v4.5 p.163 — Ch.6: a passing mention
+[scene] (p.163) The chapter opens with Ayanokōji recalling the meeting with Karuizawa the night before.
+
 <!-- walk: y1v4.5 ch6 → p.204 -->
 
 ### y1v4.5 p.220–221 — Ch.7: the memory card swap

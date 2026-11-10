@@ -631,6 +631,14 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [note] (p.190) She says she is frugal, doesn't care about fashion, rotates outfits, and will need points for something more important eventually.
 [rel:sudou-ken] (p.189) She reports that the basketball boys call him the best first-year student in the class.
 
+### y1v4.5 p.192, 196, 200–203 — Ch.6: passing mentions
+[scene] (p.192) Her group's closing-time departure starts the chapter's final stretch.
+[note] (p.196) Her group is listed among those that left before the park closed.
+[note] (p.200) A friend calls her Honami-chan as the group settles on treats; Sudou and Yamauchi want shaved ice while she chooses otherwise.
+[note] (p.201) She observes that the others are eating ice cream.
+[note] (p.202) She chats happily with Horikita and licks her melting popsicle.
+[note] (p.203) Her name comes up once more as the group's talk continues.
+
 <!-- walk: y1v4.5 ch6 → p.204 -->
 
 ### y1v4.5 p.215–219 — Ch.7: the human typhoon
@@ -648,5 +656,9 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [says] (p.219) “All done changing!” she shouted.
 [rel:horikita-suzune] (p.219) Her rapid development in the third year of junior high is why she still hasn’t adjusted to her body.
 [rel:kushida-kikyou] (p.215) The mutual figure talk ends with Kushida calling Horikita cute on her cue.
+
+### y1v4.5 p.213, 220 — Ch.7: passing mentions
+[scene] (p.213) She is visible on the monitor feed alongside the others.
+[note] (p.220) Kushida says everyone seems to smile when she is around, and she greets Karuizawa's arrival.
 
 <!-- walk: y1v4.5 ch7 → p.223 -->

@@ -294,11 +294,30 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [says] (p.106) “Is this some new form of harassment?”
 [trait] (p.106) He imagines the melted ice cream cake as a new form of harassment — and the chapter ends on his read.
 
+### y1v4.5 p.62–67, 72–73, 79–83 — Ch.3: passing mentions
+[scene] (p.62) The gift hunt keeps him in view from every side: his taste, his possible girlfriend, and his shopping.
+[note] (p.62) The group resolves to locate his girlfriend at any cost.
+[note] (p.63) Other candidates for his present are weighed.
+[note] (p.64) The pairing theory turns on him, and Ike whines about the idea of Katsuragi beating him.
+[note] (p.65) Sudou's interference plan circulates, and Kushida offers his contact information.
+[note] (p.66) Ayanokōji decides against contacting him directly.
+[note] (p.67) He is tailed through the building in his uniform.
+[note] (p.72) He is named among the people worth approaching first.
+[note] (p.73) The tail waits for him to move.
+[note] (p.79) Ayanokōji opens the Katsuragi case with Ike.
+[note] (p.80) His specific purchase is contrasted with the assumptions around it.
+[note] (p.81) The group rejudges him: the present looked genuine.
+[note] (p.82) A celebration in his name is raised.
+[note] (p.83) Kushida offers to help with his present.
+
 <!-- walk: y1v4.5 ch3 → p.107 -->
 
 ### y1v4.5 p.122 — Ch.4: a passing mention
 [scene] (p.122) Named with Ryuuen as AK's private guess for who steered the ship-exam outcome.
 [inference] (p.122) The speculation is AK's alone; no evidence is offered either way.
+
+### y1v4.5 p.121 — Ch.4: a passing mention
+[scene] (p.121) Ayanokōji guesses the water thief was Ryūen or Katsuragi.
 
 <!-- walk: y1v4.5 ch4 → p.131 -->
 

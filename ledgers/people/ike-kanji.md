@@ -468,6 +468,14 @@ aliases used for anchors: ike, kanji, ike-kun
 [says] (p.105) “I mean, we’re all virgins here, so let’s be friends.”
 [action] (p.105) He shoves the box into Katsuragi's hands and runs off with Yamauchi.
 
+### y1v4.5 p.56, 58, 72, 87, 103 — Ch.3: passing mentions
+[scene] (p.56) He notices the discrepancy in Katsuragi's shopping alongside the others.
+[note] (p.56) He wonders whether Katsuragi is hiding what he is buying.
+[note] (p.58) He and Yamauchi rush to Katsuragi's shelf and whisper over the gift.
+[note] (p.72) He and Yamauchi are named as the opposite of the people worth approaching first.
+[note] (p.87) A line mentions keeping Ike and the others waiting.
+[note] (p.103) His name is used as an example of someone completely unrelated to the matter.
+
 <!-- walk: y1v4.5 ch3 → p.107 -->
 
 ### y1v4.5 p.119 — Ch.4: a passing mention
@@ -496,6 +504,10 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:sudou-ken] (p.187) He risks the death sentence by copying the rude gesture when Sudou cannot see him.
 [trivia] (p.200) He pulls out an “Ultra Choco Monaka” three times larger than normal and nearly four times the price of a regular ice cream.
 [says] (p.203) “We'll come hang out in your room later, Ayanokouji.”
+
+### y1v4.5 p.160 — Ch.6: a passing mention
+[scene] (p.160) He is named in the four-guy outing announcement for the next day.
+[note] (p.160) The group is Ayanokōji, Ike, Yamauchi, and Sudou.
 
 <!-- walk: y1v4.5 ch6 → p.204 -->
 

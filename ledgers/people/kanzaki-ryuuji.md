@@ -139,6 +139,9 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [rel:sudou-ken] (p.185) He is the first to name Sudou's level of danger for Class B.
 [rel:shibata-sou] (p.187) The two of them are the only Class B players who manage to hold the line.
 
+### y1v4.5 p.176 — Ch.6: a passing mention
+[scene] (p.176) Ayanokōji recognizes Kanzaki of Class B in the crowd, and he nods to the group.
+
 <!-- walk: y1v4.5 ch6 → p.204 -->
 
 ### y1v4.5 p.218–219 — Ch.7: a passing mention

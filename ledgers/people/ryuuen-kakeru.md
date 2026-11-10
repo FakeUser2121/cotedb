@@ -269,6 +269,9 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [scene] (p.31) Named twice in the narration sizing up Ibuki’s standing with him.
 [note] (p.31) She caught his eye early on; after the spy identity broke she was at his side on several occasions — atonement for her failure, but he trusted her, at least to some degree.
 
+### y1v4.5 p.24 — Ch.2: a passing mention
+[scene] (p.24) Ryūen is named as the partner option already ruled out in Ibuki's hunt.
+
 <!-- walk: y1v4.5 ch2 → p.48 -->
 
 ### y1v4.5 p.86 — Ch.3: a passing mention
@@ -280,5 +283,8 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 ### y1v4.5 p.122 — Ch.4: a passing mention
 [scene] (p.122) AK privately guesses Ryuuen or Katsuragi forced the Dragon group's ship-exam outcome.
 [inference] (p.122) He can't tell which of the two it was; the guess stays in his head.
+
+### y1v4.5 p.121 — Ch.4: a passing mention
+[scene] (p.121) Ayanokōji guesses the water thief was Ryūen or Katsuragi.
 
 <!-- walk: y1v4.5 ch4 → p.131 -->

@@ -1475,6 +1475,15 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (p.41) Ibuki’s veto: “As long as it’s not Horikita.”
 [note] (p.43) The combat memory: “I heard you kept up with Horikita.” — Ayanokōji grants he could not defeat her in combat.
 
+### y1v4.5 p.13, 19–21, 24, 31 — Ch.2: passing mentions
+[scene] (p.13) Her name threads the fortune-teller plans from the first phone call onward.
+[note] (p.13) Sudou insists that Ayanokōji invite Suzune out as well, since his own chances with her would be slim.
+[note] (p.19) His insistence on inviting her is what gives the plan its shape.
+[note] (p.20) Ibuki's questions and the label of Horikita whisperer keep her the real subject of the talk.
+[note] (p.21) The queue conversation circles her from the uniformed girl's mission to who will finally invite her.
+[note] (p.24) Ibuki is compared to her as another classmate who keeps to herself.
+[note] (p.31) A classmate like her is what would let Ayanokōji coast by.
+
 <!-- walk: y1v4.5 ch2 → p.48 -->
 
 ### y1v4.5 p.51, 62–63, 71, 77–78 — Ch.3: passing mentions
@@ -1498,6 +1507,13 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says] (p.87) “None of your business.”
 [says] (p.87) “I refuse.”
 [status] (p.87) She refuses to join the shopping trip; AK had known all along it would be her answer.
+
+### y1v4.5 p.60, 65, 84, 90 — Ch.3: passing mentions
+[scene] (p.60) Her absence and her secrets run through the birthday hunt's margins.
+[note] (p.60) The gathering in Ayanokōji's room would have been perfect with her there.
+[note] (p.65) Kushida's social network is said to extend even to Horikita's birthday.
+[note] (p.84) Ayanokōji leaves the group and approaches her directly.
+[note] (p.90) Katsuragi works out that she is the student council president's little sister.
 
 <!-- walk: y1v4.5 ch3 → p.107 -->
 
@@ -1630,6 +1646,15 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says] (p.204) “That's a secret.”
 [rel:ayanokouji-kiyotaka] (p.203–204) She does not take the elevator, invites him for a walk, and hints at a secret about what she was able to do during vacation.
 
+### y1v4.5 p.160–163, 170, 175 — Ch.6: passing mentions
+[scene] (p.160) Her name runs through the outing plans, the pool pairings, and the sunset walk.
+[note] (p.160) The four-guy outing is announced alongside her name in the plans, and the combination is called bizarre.
+[note] (p.161) A line urges asking her directly, on the grounds that Ayanokōji is close to her.
+[note] (p.162) Karuizawa measures herself against her through the rest-area argument.
+[note] (p.163) The pairing talk sends Sudou with her, and Sudou asks whether she will come.
+[note] (p.170) Ike worries aloud about the others seeing Suzune sad or defenseless.
+[note] (p.175) She is named among the girls who assemble at the pool.
+
 <!-- walk: y1v4.5 ch6 → p.204 -->
 
 ### y1v4.5 p.215–219 — Ch.7: the recorded changing room
@@ -1642,5 +1667,12 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says] (p.219) “That must be why you don’t know what to do with them.”
 [rel:ichinose-honami] (p.219) She watches Ichinose’s graceless undressing for a moment despite herself.
 [says] (p.219) “She’s like a human typhoon, isn’t she?” said Horikita.
+
+### y1v4.5 p.206, 213, 220, 222 — Ch.7: passing mentions
+[scene] (p.206) The victory talk, the monitor, and the locker room keep her name in the foreground.
+[note] (p.206) Sudou credits the island win to her, and another line counts having her on their side toward Class C.
+[note] (p.213) Through the poor-quality feed, she and the others are visible.
+[note] (p.220) At the lockers she speaks to no one in particular and only glances at Kushida.
+[note] (p.222) The scene closes with a wish to see her naked body.
 
 <!-- walk: y1v4.5 ch7 → p.223 -->

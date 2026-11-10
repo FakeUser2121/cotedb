@@ -16,4 +16,8 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 [action] (p.186) He leaps and aims his strike at the space right in front of Ayanokōji.
 [rel:ichinose-honami] (p.185) He directs their exchange to exploit the mismatch, and Ichinose follows his call.
 
+### y1v4.5 p.182, 187 — Ch.6: passing mentions
+[scene] (p.182) A volleyball proposal names him as one of the players.
+[note] (p.187) He and Kanzaki hang on at the net against Sudou's power.
+
 <!-- walk: y1v4.5 ch6 → p.204 -->

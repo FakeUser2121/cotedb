@@ -1678,3 +1678,42 @@ are unquoted paraphrase, as in y1v4). make check OK (R18 0, R19
 82/82); gate exit 0; build 180 pages; hash
 `1ba241f64ee5c8a97153336ceb17073b` twice. New tags: none. Open:
 volume-end coverage gate.
+
+y1v4.5 volume-end coverage gate
+
+Full-roster locator sweep (walk_locate.py locate --vol y1v4.5, all 255
+ids) classified against every ledger citation by a read-only comparison
+script (/tmp/opencode — prints only, never writes a ledger).
+Substring/referent false positives discarded with page evidence: aga
+p.218 (against), andou-sayo p.6 (random), chiba p.9 (Tachibana), etou
+p.8 (detour/retorted/veto), housen-kazuomi p.121/135 (chosen), iki
+p.100 (Horikita), miya p.2 (okonomiyaki/Hoshinomiya), mori-nene p.4
+(memorize), nishi-haruka p.4 (finishing), oda-takumi p.25
+(today/yesterday), shiba-katsunori p.177–187 (Shibata — same pages as
+shibata-sou), yano-koharu p.57 (Ayanokouji), ichino-yuyu p.32
+(Ichinose). TOC and chapter-title pages excluded (p.2, p.11, p.49).
+Referent splits kept apart: Manabu-only pages off Suzune's ledger
+(p.67–69, 72–73, 91–94, 104), Suzune-only pages off Manabu's (the
+fortune/birthday runs p.13–65 and the pool/sunset runs p.160–224).
+Ledger titles like "p.49, 51–55" re-parsed so bare page spans after the
+first p. count as cited (false gaps inogashira p.55, tachibana p.71,
+ike p.52 dropped).
+
+Every remaining real gap page got hand-written paraphrase sections
+placed before the chapter's boundary stamp — 37 sections across 20
+ledgers, plus a new ledgers/people/tomose-shunsaku.md (p.224, 226;
+ledger-new; roster row already carried y1v4.5). No quotation marks in
+the new rows, so no new quote surface for verify. No TSV edits and no
+cell adds: every cell=False candidate was a false positive. Two roster
+oddities left untouched and flagged: ayanokouji-atsuomi's volumes cell
+has carried y1v4.5 since the baseline file (8b6cb25) but the volume
+never names him (locator 0 hits, no Atsuomi/father in the text); the
+duplicate row ishikura-kayoko shares ishikura's sort and volumes — its
+locator hit p.220 is recorded on ishikura only.
+
+Quotes: verify 776 [says] (14 too short/skipped) + 65 non-says ALL
+PASS. make check OK (R18 0, R19 82/82 — no second person in the new
+rows); gate exit 0; build 181 pages, 60 assets (shibata-sou crosses the
+scenes threshold and gains a page; nagumo-miyabi and shibata-sou gain
+search assets); hash `32205736de3595c8d44eca7197f4fe2a` twice. New
+tags: none. Volume complete — DONE stamp in place. Next: y1v5.

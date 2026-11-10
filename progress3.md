@@ -1354,3 +1354,15 @@ Ayanokōji and Ichino Yuyu passing mentions and the closing DONE stamp
 in the volume file. Quotes unchanged at 776 [says] + 65 non-says,
 corpus-exact; R18/R19 held at 0/82. Determinism hash across
 consecutive builds: `1ba241f64ee5c8a97153336ceb17073b`.
+
+### y1v4.5 volume-end coverage gate reaches the site (site, 2026-11-11)
+
+The volume closes with the coverage-gate fill: passing-mention sections
+for 20 characters land on their pages — Manabu's council mentions,
+Suzune's queue and outing runs, Katsuragi's gift-hunt margins,
+Yamauchi and Sakura's letter plan, and the rest — plus a first file for
+Tomose Shunsaku from the postscript credits. Shibata Sō crosses the
+scenes threshold and gains a page; Nagumo Miyabi and Shibata Sō gain
+search assets. Quotes unchanged at 776 [says] + 65 non-says,
+corpus-exact; R18/R19 held at 0/82. Determinism hash across
+consecutive builds: `32205736de3595c8d44eca7197f4fe2a`.
