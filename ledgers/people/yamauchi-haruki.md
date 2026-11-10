@@ -429,3 +429,14 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [rel:ike-kanji] (p.187) He copies Ike's flipped finger at Sudou and pays for it with the death sentence.
 
 <!-- walk: y1v4.5 ch6 → p.204 -->
+
+### y1v4.5 p.205–223 — Ch.7: the eager accomplice
+[scene] (p.205) He pledges to die for Operation Delta and stays its most enthusiastic accomplice from the pitch to the empty folder.
+[says] (p.205) “If this operation is a success, I won’t even mind dying!” Yamauchi shouted.
+[says] (p.211) “Well, I’ve never been violent in my life,” said Yamauchi.
+[action] (p.211) He is pressed with the elementary-school recorder and gym-clothes incidents until he agrees to the plan.
+[says] (p.211) “Okay, I’m on board,” said Yamauchi.
+[action] (p.214) He clicks his tongue in frustration but agrees to wait out the twenty minutes of recording.
+[action] (p.223) He clicks the empty folder open over and over in a panic.
+
+<!-- walk: y1v4.5 ch7 → p.223 -->

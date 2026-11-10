@@ -623,3 +623,19 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [action] (p.189) After the match he delivers the promised death sentence to Yamauchi outside the pool.
 
 <!-- walk: y1v4.5 ch6 → p.204 -->
+
+### y1v4.5 p.205–223 — Ch.7: the enforcer
+[scene] (p.205) He stays silent through the pitch, then joins as the plan’s enforcer — the one who clears the vent and guards the wall.
+[says] (p.205) “I’ll make a decision after I hear you out.”
+[says] (p.206) “The next thing you buy should be carpet, dude.”
+[says] (p.206) “Someone as useless as you shouldn’t hoard points,” he shot back.
+[says] (p.207) “It’s dangerous, like Ayanokouji says.”
+[action] (p.210) He is assigned the role of threatening anyone who gets near the vent, trading on his reputation.
+[says] (p.211) “That’s… Fightin’ and violence are two different things,” answered Sudou.
+[note] (p.222) The claim on Suzune’s body is left to him by the translation’s group narration; the line itself carries no speaker tag.
+[says] (p.222) “You guys don’t got any right to see Suzune’s naked body.”
+[action] (p.222) He kicks Ayanokōji’s door while waiting, then relaxes in the room as if it were his own.
+[says] (p.222) “You’re late, Ayanokouji!” Sudou, his patience gone, kicked my door.
+[says] (p.223) “Ain’t no guy alive who’s not excited about seeing a naked woman.”
+
+<!-- walk: y1v4.5 ch7 → p.223 -->

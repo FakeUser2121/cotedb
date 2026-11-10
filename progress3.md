@@ -1337,3 +1337,12 @@ Swimming Pool gain ledger-backed directory presence; Shibata Sou gets
 a first file. Quotes: 718 [says] + 63 non-says spans, corpus-exact;
 R18/R19 held at 0/82. Determinism hash across consecutive builds:
 `f66222d80c77fc6cf6bdf2f7def67566`.
+
+### y1v4.5 Chapter 7 reaches the site (site, 2026-11-07)
+
+The extra-stories chapter lands as scene cards: Operation Delta's
+pitch and the Professor's map, the locker-room execution, the girls'
+side of the recording with Karuizawa's card swap, and the empty-folder
+payoff. Sonada and Ishikura get first files. Quotes: 776 [says] + 65
+non-says spans, corpus-exact; R18/R19 held at 0/82. Determinism hash
+across consecutive builds: `cef5f60f91273bd2ffaed86780e83237`.

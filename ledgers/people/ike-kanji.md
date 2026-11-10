@@ -498,3 +498,22 @@ aliases used for anchors: ike, kanji, ike-kun
 [says] (p.203) “We'll come hang out in your room later, Ayanokouji.”
 
 <!-- walk: y1v4.5 ch6 → p.204 -->
+
+### y1v4.5 p.205–223 — Ch.7: the mastermind in front
+[scene] (p.205) He opens the strategy meeting for Operation Delta, fronting the plan whose map and RC car actually come from the Professor.
+[says] (p.205) “I’d lay my life on the line for Operation Delta.”
+[says] (p.206) “To peep at girls’ naked bodies…”
+[says] (p.207) “The supercomputer known as Ike Kanji-sama devised this plan,”
+[action] (p.208) He unveils a detailed facility map whose handwriting is not his own.
+[action] (p.209) He produces an RC car with a roof camera, a pen light, and a display remote.
+[says] (p.210) “Guess there’s no hiding it.”
+[rel:sotomura-hideo] (p.210) He admits asking the Professor for the plan after Ayanokōji’s guess exposes him.
+[action] (p.210) He lays out the full route: the vent, Sudou’s threats, a human wall, and a twenty-minute recording.
+[says] (p.210) “You guys see just how incredible Operation Delta is?” asked Ike.
+[action] (p.213) He manfully endures the temptation and locks the remote in his locker to get changed.
+[says] (p.214) “Are you betraying us?!” snapped Ike.
+[says] (p.214) “Yeah, I guess you’re probably right.”
+[says] (p.223) “Wh-why-why is nothing there?!” screamed Ike.
+[rel:ike-kanji] (p.223) He clicks the empty folder open over and over until the sabotage becomes undeniable.
+
+<!-- walk: y1v4.5 ch7 → p.223 -->

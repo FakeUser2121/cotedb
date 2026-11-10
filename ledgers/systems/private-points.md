@@ -233,3 +233,10 @@ system_id: point-economy · scope: Tokyo Metropolitan Advanced Nurturing High Sc
 [status] (p.191) Horikita, usually a light eater, eats freely when Class B is treating.
 
 <!-- walk: y1v4.5 ch6 → p.204 -->
+
+### y1v4.5 p.206 — Ch.7: the island points
+[scene] (p.206) The meeting opens on the class’s point position: the island-test reward credited to Suzune has Class D closing the gap.
+[status] (p.206) With a fresh surge of points the class is closing the gap toward the upper-level classes’ totals.
+[status] (p.206) Sudou argues that someone as useless as Ayanokōji shouldn’t hoard the island-test points.
+
+<!-- walk: y1v4.5 ch7 → p.223 -->

@@ -632,3 +632,21 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:sudou-ken] (p.189) She reports that the basketball boys call him the best first-year student in the class.
 
 <!-- walk: y1v4.5 ch6 → p.204 -->
+
+### y1v4.5 p.215–219 — Ch.7: the human typhoon
+[scene] (p.215) She dominates the recorded changing session — complimenting figures, admiring Horikita’s skin, warming toward Sakura, and dashing out first.
+[says] (p.215) “It feels kind of like when you go to the public pool just to goof off,” she replied.
+[says] (p.215) “You have a great figure too, Kushida-san.”
+[says] (p.215) “Your skin is so flawless and clear, Horikita-san.”
+[says] (p.215) “Kikyou-chan, you agree with me, right?” asked Ichinose.
+[says] (p.218) “It’s been a while since we last met, hasn’t it, Sakura-san?”
+[says] (p.218) “We know each other from a while back.”
+[rel:sakura-airi] (p.218) She judges that Sakura needs gentle handling and could open up to people she trusts over time.
+[says] (p.219) “What about Kanzaki-kun?” replied Ichinose.
+[says] (p.219) “Kanzaki-kun is surprisingly popular.”
+[says] (p.219) “He’s a man of few words, you know?”
+[says] (p.219) “All done changing!” she shouted.
+[rel:horikita-suzune] (p.219) Her rapid development in the third year of junior high is why she still hasn’t adjusted to her body.
+[rel:kushida-kikyou] (p.215) The mutual figure talk ends with Kushida calling Horikita cute on her cue.
+
+<!-- walk: y1v4.5 ch7 → p.223 -->

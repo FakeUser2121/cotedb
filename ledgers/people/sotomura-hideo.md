@@ -109,3 +109,16 @@ char_id: sotomura-hideo · class: Class 1-D (enrolled April 2015) · status: min
 [note] (p.225) Mention only in this half; no line of his own.
 
 <!-- walk: y1v4 ch5 → p.243 -->
+
+## y1v4.5
+
+<!-- walk: y1v4.5 → start -->
+
+### y1v4.5 p.209–213, 223 — Ch.7: the Professor’s plan
+[scene] (p.209) Called only the Professor, he is named as the true author of Operation Delta’s map and RC-car scheme.
+[rel:ike-kanji] (p.210) Ike admits asking him for the plan; the map’s handwriting and the cost of the RC car gave it away.
+[fact] (p.213) The recording setup that reaches the girls’ locker room is credited to his design — Ike’s or rather the Professor’s.
+[fact] (p.223) The memory card the three insert is the Professor’s; it holds no data.
+[note] (p.209) The page never prints his name; the established nickname is what identifies him.
+
+<!-- walk: y1v4.5 ch7 → p.223 -->

@@ -1615,3 +1615,43 @@ whose unquoted "you" counted twice on the volume page); gate exit 0;
 build 180 pages, 58 assets; hash `f66222d80c77fc6cf6bdf2f7def67566`
 twice. New tags: none. Open: ch7 pp.205–223, ch8 postscript
 pp.224–227, volume-end coverage gate.
+
+y1v4.5 ch7: Ike, Yamauchi, and Sudou's Summer Vacation (Extra Stories) (pp.205–223)
+
+The extra-stories chapter, read in one pass. Operation Delta: the
+three idiots pitch a peeping plan in Ayanokōji's room; Ike's detailed
+facility map and roof-camera RC car turn out to come from the
+Professor (Sotomura, by his established nickname — the page never
+prints the name); the floor vent connects the year-matched locker
+rooms at fifteen by forty centimeters. Ayanokōji agrees to form the
+human wall only on a one-time condition, with a report to the school
+as the threat, and tells the group to arrive at nine on the dot. The
+locker-room execution reaches the monitor; Ayanokōji leaves early so
+the girls won't grow suspicious. On the recorded girls' side: Kushida
+and Ichinose's figure talk, Sakura hiding in her rash guard, Ichinose's
+Kanzaki intelligence run for a girl in Kushida's class, and Karuizawa
+— with Sonada and Ishikura as cover, locker keys pre-procured —
+swapping the recording card for an empty one exactly as Ayanokōji
+instructed her ahead of time. The payoff: the empty folder on his
+computer annihilates the three's ambitions.
+
+Ledgers: 17 files stamped `<!-- walk: y1v4.5 ch7 → p.223 -->` — ak,
+ike, yamauchi, sudou, karuizawa, horikita, kushida, ichinose, sakura,
+kanzaki, sotomura (new y1v4.5 block), swimming-pool, dormitory,
+private-points, the volume file. New files: ledgers/people/sonada.md
+and ledgers/people/ishikura.md. TSV edits: sonada row added (y1v4.5);
+y1v4.5 added to sotomura-hideo's volumes cell (named via the Professor
+nickname). The roster also holds ishikura-kayoko with the same sort
+and volumes — left untouched, flagged as an open roster question.
+
+Attribution gaps kept: the untagged p.207 "I agree" line, p.210
+"So, what's the plan?", p.214 "Got it.", and p.222 "We're all in this
+together."; Sudou's Suzune claim is recorded under him with a note
+that the translation leaves it untagged. Defects kept as printed:
+short pages p.216 (three lines) and p.217 (two lines); Ike's "peeping
+on some uggo" and Sudou's grammar stay as printed; footers run nine
+behind (p.205 prints "Page 196"). Quotes: verify 776 [says] (14 too
+short/skipped) + 65 non-says ALL PASS on the first run. make check OK
+(R18 0, R19 82/82); gate exit 0; build 180 pages, 58 assets; hash
+`cef5f60f91273bd2ffaed86780e83237` twice. New tags: none. Open: ch8
+postscript pp.224–227, volume-end coverage gate.

@@ -38,3 +38,14 @@ place_id: swimming-pool · location: ANHS Campus Athletic Complex · type: facil
 [action] (p.199) After closing, with only lifeguards left cleaning up, Ayanokōji shoves Karuizawa into the water and she pulls him under in return.
 
 <!-- walk: y1v4.5 ch6 → p.204 -->
+
+### y1v4.5 p.207–213, 220 — Ch.7: the vent route
+[scene] (p.208) Ike’s map shows the special pool’s locker rooms, cameras, and the floor ventilation route that connects the year-matched changing areas.
+[rule] (p.207) Public use runs 9:00 A.M. to 5:00 P.M. for the last three days of summer vacation.
+[rule] (p.208) The men’s and women’s locker rooms sit at opposite ends of the hallway with diverging paths, and the cameras cover the approaches.
+[fact] (p.208) The connecting vent is fifteen centimeters high and forty centimeters wide, divided so first-year rooms link to first-year rooms.
+[action] (p.213) The boys reach it first, spread towels, remove the hatch fittings, and feed the RC car through with a pen light.
+[action] (p.220) On the girls’ side the grating comes off easily because someone unfastened all the screws with a Philips screwdriver the day before.
+[rel:karuizawa-kei] (p.220) She finds the car parked against the opening with its red recording light on.
+
+<!-- walk: y1v4.5 ch7 → p.223 -->

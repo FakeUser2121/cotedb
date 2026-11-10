@@ -140,3 +140,10 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [rel:shibata-sou] (p.187) The two of them are the only Class B players who manage to hold the line.
 
 <!-- walk: y1v4.5 ch6 → p.204 -->
+
+### y1v4.5 p.218–219 — Ch.7: a passing mention
+[scene] (p.218) Named in the locker room as the boy a girl in Kushida’s class is interested in.
+[rel:kushida-kikyou] (p.219) Kushida pumps Ichinose for intelligence on him to pass back to her classmate.
+[rel:ichinose-honami] (p.219) Ichinose reports that he is popular, not dating anyone, and hard to interpret.
+
+<!-- walk: y1v4.5 ch7 → p.223 -->

@@ -723,3 +723,17 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:ichinose-honami] (p.190) She points out that Class D is barely getting by while Class B spends on swimwear.
 
 <!-- walk: y1v4.5 ch6 → p.204 -->
+
+### y1v4.5 p.215–220 — Ch.7: the locker room talk
+[scene] (p.215) She chats through the changing session — compliments for Ichinose, agreement on Horikita, and the Kanzaki intelligence run.
+[says] (p.215) “Ichinose-san, you have such an amazing figure.”
+[says] (p.215) “Yeah, Horikita-san is really cute,” replied Kushida.
+[says] (p.218) “Honami-chan, you already know Sakura-san?”
+[says] (p.218) “Well, a girl in our class is interested in Kanzaki-kun.”
+[says] (p.219) “That reminds me, Honami-chan.”
+[says] (p.219) “In that case, I think I’ll tell her to call him.”
+[says] (p.220) “When Ichinose-san is around, everyone seems to smile.”
+[rel:kanzaki-ryuuji] (p.218–219) She recruits Ichinose for gossip about him on behalf of a girl in her own class.
+[rel:sakura-airi] (p.218) She is surprised Ichinose already knows Sakura.
+
+<!-- walk: y1v4.5 ch7 → p.223 -->

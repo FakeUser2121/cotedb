@@ -34,3 +34,11 @@ place_id: dormitory · type: student dormitory residence
 [action] (p.203) Kushida and Sakura part; Horikita does not board the elevator and invites Ayanokōji for a walk instead.
 
 <!-- walk: y1v4.5 ch6 → p.204 -->
+
+### y1v4.5 p.205, 222 — Ch.7: the meeting room and the payoff
+[scene] (p.205) Ayanokōji’s dorm room hosts the Operation Delta strategy meeting and, two days later, the empty-folder payoff.
+[action] (p.205) The three prefer his room as the neatest, cleanest place — there isn’t enough room to put a foot down in Yamauchi’s.
+[action] (p.205) They deny his first request to switch on the air conditioner on grounds of setting the mood.
+[action] (p.222) Sudou kicks the door while the three wait, risking the neighbors and the dorm manager’s attention.
+
+<!-- walk: y1v4.5 ch7 → p.223 -->

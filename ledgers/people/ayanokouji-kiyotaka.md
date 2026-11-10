@@ -2835,3 +2835,22 @@ walk: y1v1 → DONE
 [rel:horikita-suzune] (p.204) On the tree-lined path at sunset she admits she had fun and keeps her vacation reflections a secret from him.
 
 <!-- walk: y1v4.5 ch6 → p.204 -->
+
+### y1v4.5 p.205–223 — Ch.7: Operation Delta
+[scene] (p.205) The three idiots pitch a peeping plan called Operation Delta in his room; he agrees to hold the human wall only on a one-time condition, with a threat to report the scheme otherwise.
+[says] (p.205) “Why is it always, always my room?”
+[says] (p.206) “I can’t just go out and spend precious points.”
+[says] (p.206) “Call it whatever you want, but it’s basically just peeping.”
+[rel:sotomura-hideo] (p.209) He spots that the map’s handwriting is not Ike’s and corners the group with a guess about the Professor.
+[says] (p.209) “Did the Professor have a hand in this peeping operation, by any chance?” I asked.
+[says] (p.211) “I’m not interested,” I replied.
+[says] (p.211) “So, success or failure, promise me that Operation Delta is the only time you’ll try this.”
+[action] (p.211–212) He conditions his cooperation on the plan being a one-time event, threatening to report it to the school if it is repeated.
+[says] (p.214) “That’s not it at all.”
+[action] (p.214) He leaves the locker room early so the girls won’t grow suspicious, leaving the three to recover the RC car.
+[action] (p.220) He had instructed Karuizawa ahead of time to swap the memory card in the RC car.
+[rel:karuizawa-kei] (p.220–223) His instruction is what turns the recording into an empty card — the sabotage that annihilates the three’s ambitions.
+[says] (p.222) “If you could give that back to me after checking the contents, it would be a big help,” I told them.
+[says] (p.222) “If you want to turn back, now’s the time,” I warned them.
+
+<!-- walk: y1v4.5 ch7 → p.223 -->

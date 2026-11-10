@@ -584,3 +584,13 @@ aliases used for anchors: sakura, airi, sakura-san
 [status] (p.203) She parts with Kushida looking a little more relaxed and manages a small grin after the last day of vacation.
 
 <!-- walk: y1v4.5 ch6 → p.204 -->
+
+### y1v4.5 p.215, 218 — Ch.7: the rash guard and the escape
+[scene] (p.215) She changes apart from the other two in her rash guard, deeply self-conscious even among girls, and escapes at the first chance.
+[note] (p.215) The rash guard that completely hides her upper body is her salvation, unlike ordinary swim class.
+[rel:ichinose-honami] (p.218) She answers rigidly and avoids eye contact when Ichinose greets her, then shifts away the moment Kanzaki comes up.
+[says] (p.218) “Y-yeah, I suppose so,” replied Sakura.
+[says] (p.218) “Y-yes,” said Sakura.
+[trait] (p.218) Even being around the other girls makes her deeply self-conscious.
+
+<!-- walk: y1v4.5 ch7 → p.223 -->

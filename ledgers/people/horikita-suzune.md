@@ -1631,3 +1631,16 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ayanokouji-kiyotaka] (p.203–204) She does not take the elevator, invites him for a walk, and hints at a secret about what she was able to do during vacation.
 
 <!-- walk: y1v4.5 ch6 → p.204 -->
+
+### y1v4.5 p.215–219 — Ch.7: the recorded changing room
+[scene] (p.215) She appears in the recorded footage changing with the others and cannot explain to anyone why she came along.
+[says] (p.215) “Ichinose-san, could you please not stare at me?” said Horikita.
+[says] (p.215) “I’m not here because I like this kind of thing.”
+[note] (p.218) She will not tell anyone how Ayanokōji called in a favor — the water-bottle humiliation goes to her grave.
+[says] (p.218) “Why don’t you try changing without talking to me?” she retorted.
+[says] (p.219) “When did you get those breasts?”
+[says] (p.219) “That must be why you don’t know what to do with them.”
+[rel:ichinose-honami] (p.219) She watches Ichinose’s graceless undressing for a moment despite herself.
+[says] (p.219) “She’s like a human typhoon, isn’t she?” said Horikita.
+
+<!-- walk: y1v4.5 ch7 → p.223 -->

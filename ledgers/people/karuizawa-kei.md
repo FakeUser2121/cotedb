@@ -518,3 +518,19 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [action] (p.199) She pulls him into the water after he offers his hand, then holds his head underwater while the lifeguards rush over.
 
 <!-- walk: y1v4.5 ch6 → p.204 -->
+
+### y1v4.5 p.220–221 — Ch.7: the memory card swap
+[scene] (p.220) She enters the girls’ locker room, finds the loosened vent and the recording RC car, and swaps the memory card as Ayanokōji instructed.
+[says] (p.220) “These guys are the lowest of the low —complete perverts,” Karuizawa muttered.
+[action] (p.220) She removes the recording memory card, replaces it with an empty one, and puts the car back in the vent.
+[rel:ayanokouji-kiyotaka] (p.220) She thinks he is the only one who acted to stop the plan before the images could be kept forever.
+[says] (p.220) “That takes care of that.”
+[thinks] (p.220) “He’s the only one who really…”
+[action] (p.221) She had her friends shield her from view and procured the nearby locker keys in advance so the spots would look full.
+[note] (p.221) She keeps weak-willed followers who fear ostracism on purpose and never explains what she is doing to them.
+[says] (p.221) “I’m good now.”
+[says] (p.221) “I have a little business to take care of later.”
+[rel:sonada] (p.220) Her classmate asks if everything is okay and accepts the thanks without explanation.
+[rel:ishikura] (p.221) The third girl looks on with an uneasy expression while Karuizawa works at the vent.
+
+<!-- walk: y1v4.5 ch7 → p.223 -->
