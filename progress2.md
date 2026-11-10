@@ -1655,3 +1655,26 @@ short/skipped) + 65 non-says ALL PASS on the first run. make check OK
 (R18 0, R19 82/82); gate exit 0; build 180 pages, 58 assets; hash
 `cef5f60f91273bd2ffaed86780e83237` twice. New tags: none. Open: ch8
 postscript pp.224–227, volume-end coverage gate.
+
+y1v4.5 ch8: Postscript (pp.224–227)
+
+The author’s afterword closes the volume: Kinugasa’s four-month
+gap and party anecdote, the swimsuit scene and the editor’s rebuke,
+the growing circle of girls around Ayanokōji and the promise that
+the next volume opens his past, the three kinds of students named for
+the stretch ahead, the manga’s first-volume credits to Yuyu-sama,
+Ichino-sama and Tomoseshunsaku-sama, the bonus-story teaser, then the
+author/illustrator bios and the publisher newsletter page. Author’s
+note only — no in-world evidence; attribution gaps: none.
+
+Ledgers: 3 files stamped — ayanokouji-kiyotaka (passing mention,
+p.224–225), ichino-yuyu (passing mention, p.224; new ledger via
+ledger-new, her roster row already carried y1v4.5), and the volume
+file with the ch8 stamp and the closing
+`<!-- walk: y1v4.5 postscript → DONE -->`. No TSV edits. Defects
+kept as printed: footers run nine behind (p.224 prints “Page 215”).
+Quotes: verify 776 [says] + 65 non-says ALL PASS (the postscript rows
+are unquoted paraphrase, as in y1v4). make check OK (R18 0, R19
+82/82); gate exit 0; build 180 pages; hash
+`1ba241f64ee5c8a97153336ceb17073b` twice. New tags: none. Open:
+volume-end coverage gate.

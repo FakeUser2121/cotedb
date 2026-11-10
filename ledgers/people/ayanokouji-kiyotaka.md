@@ -2854,3 +2854,11 @@ walk: y1v1 → DONE
 [says] (p.222) “If you want to turn back, now’s the time,” I warned them.
 
 <!-- walk: y1v4.5 ch7 → p.223 -->
+
+### y1v4.5 p.224–225 — Ch.8: a passing mention
+[scene] (p.224) Named only in the author’s afterword, which points his future at the next volume.
+[note] (p.224) The author says the growing circle of girls around him may hide a future romantic development.
+[fact] (p.224) The next volume will finally learn something about his past, with new rivals and a new special exam ahead.
+[note] (p.225) The bonus stories teased after the postscript promise the true motive behind his mysterious actions.
+
+<!-- walk: y1v4.5 ch8 → p.227 -->

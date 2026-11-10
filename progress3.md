@@ -1346,3 +1346,11 @@ side of the recording with Karuizawa's card swap, and the empty-folder
 payoff. Sonada and Ishikura get first files. Quotes: 776 [says] + 65
 non-says spans, corpus-exact; R18/R19 held at 0/82. Determinism hash
 across consecutive builds: `cef5f60f91273bd2ffaed86780e83237`.
+
+### y1v4.5 Chapter 8 (Postscript) reaches the site (site, 2026-11-10)
+
+The author’s afterword ships as the volume’s closing section, with
+Ayanokōji and Ichino Yuyu passing mentions and the closing DONE stamp
+in the volume file. Quotes unchanged at 776 [says] + 65 non-says,
+corpus-exact; R18/R19 held at 0/82. Determinism hash across
+consecutive builds: `1ba241f64ee5c8a97153336ceb17073b`.
