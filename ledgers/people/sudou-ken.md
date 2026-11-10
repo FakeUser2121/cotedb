@@ -659,3 +659,19 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [says] (p.223) “Ain’t no guy alive who’s not excited about seeing a naked woman.”
 
 <!-- walk: y1v4.5 ch7 → p.223 -->
+
+## y1v5
+
+<!-- walk: y1v5 → start -->
+
+### y1v5 p.11–12 — Ch.1: the soliloquy
+[scene] (p.11) Volume cold open: Sudou’s first-person soliloquy alone with his backstory; no other character appears, and p.12 carries no prose.
+[thinks] (p.11) “To be completely honest, I ain’t really a capable person.”
+[fact] (p.11) His mother abandoned the family to go into the nightclub business; his father toiled as a janitor with a permanently hunched back, and the sight of it sickened him.
+[trait] (p.11) “Being the idiot I am, I decided to give up on studyin’ and go into sports.” — he chose getting stronger over studying and frames it as his own idea, not a defeat.
+[feat] (p.11) Solo sports first — tennis and pingpong, good but never top-tier — then basketball: despite not being a team player he got seriously into it, kept improving, and was recommended to a high school with one of the best basketball teams in the entire country.
+[trait] (p.11) The pulled recommendation defines his self-read: “That was when I really understood the painful truth: I was trash, born from trash.”
+[trait] (p.11) Chose this school for what it promised: “That was why I chose this school.” — free, and able to guarantee even his future.
+[note] (p.12) Blank/short scan page: running footer only; no prose to cite.
+
+<!-- walk: y1v5 ch1 → p.12 -->

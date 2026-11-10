@@ -1717,3 +1717,17 @@ rows); gate exit 0; build 181 pages, 60 assets (shibata-sou crosses the
 scenes threshold and gains a page; nagumo-miyabi and shibata-sou gain
 search assets); hash `32205736de3595c8d44eca7197f4fe2a` twice. New
 tags: none. Volume complete — DONE stamp in place. Next: y1v5.
+
+y1v5 ch1: Sudou Ken’s Soliloquy (pp. 11–12)
+
+The volume opens with the fourth consecutive non-Ayanokōji cold-open
+soliloquy: Sudou alone with his backstory — mother gone to the
+nightclub business, father hunched over janitor’s work, tennis and
+pingpong never top-tier, basketball and the pulled recommendation,
+“trash, born from trash,” and the free school that could guarantee his
+future. Dialect kept as printed. p.12 is a blank scan (footer only).
+Two ledgers stamped (sudou-ken, the new ledgers/volumes/y1v5.md). No
+TSV edits — Sudou’s row already carried y1v5. Quotes: verify 0 [says]
++ 8 non-says ALL PASS. make check OK (R18 0, R19 82/82); gate exit 0;
+build 181 pages, 61 assets; hash `3799ce92a44fe3385b66dab7a958d50d`
+twice. New tags: none. Open: ch2 pp.13–38.

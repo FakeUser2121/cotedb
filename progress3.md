@@ -1366,3 +1366,10 @@ scenes threshold and gains a page; Nagumo Miyabi and Shibata Sō gain
 search assets. Quotes unchanged at 776 [says] + 65 non-says,
 corpus-exact; R18/R19 held at 0/82. Determinism hash across
 consecutive builds: `32205736de3595c8d44eca7197f4fe2a`.
+
+### y1v5 Chapter 1 reaches the site (site, 2026-11-11)
+
+The new volume opens on the site with Sudou Ken’s soliloquy as its
+cold-open scene card and a new Year 1 Volume 5 story page. Quotes: 8
+non-says spans, corpus-exact; R18/R19 held at 0/82. Determinism hash
+across consecutive builds: `3799ce92a44fe3385b66dab7a958d50d`.
