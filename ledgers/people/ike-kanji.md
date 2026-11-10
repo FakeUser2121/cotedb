@@ -475,3 +475,26 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:horikita-suzune] (p.119) Horikita refuses his water without being asked — she does not trust what they leave uncovered.
 
 <!-- walk: y1v4.5 ch4 → p.131 -->
+
+### y1v4.5 p.163–178 — Ch.6: the instigator
+[scene] (p.163) He opens the group chat's youth-saving crusade and assigns the girls: Kikyou, Sakura, Horikita.
+[says] (p.163) “Is it really okay for summer to end like this?”
+[says] (p.163) “In that case, we should rise up!”
+[says] (p.163) “I thought of one!”
+[says] (p.166) “Man, what the hell’s Sudou doing?”
+[says] (p.167) “Of course, the more the merrier!”
+[says] (p.170) “Today is going to be special.”
+[says] (p.174) “Their breasts, underneath those thin swimsuits!”
+[says] (p.178) “Ugh, he’s the kind of guy I hate the most.”
+
+### y1v4.5 p.182–203 — Ch.6: the loudest passenger
+[scene] (p.182) Ike objects to Nagumo's earring, volunteers first for the volleyball game, plays the weak side, and grabs the giant ice cream on the way home.
+[says] (p.182) “That dude's got an ear piercing!”
+[says] (p.182) “I'll attract all the girls' attention, like Nagumo-senpai!” he shouted.
+[action] (p.187) He flips Sudou off behind his back, and Yamauchi follows his lead.
+[says] (p.188) “God. You're awful, Ayanokouji!”
+[rel:sudou-ken] (p.187) He risks the death sentence by copying the rude gesture when Sudou cannot see him.
+[trivia] (p.200) He pulls out an “Ultra Choco Monaka” three times larger than normal and nearly four times the price of a regular ice cream.
+[says] (p.203) “We'll come hang out in your room later, Ayanokouji.”
+
+<!-- walk: y1v4.5 ch6 → p.204 -->

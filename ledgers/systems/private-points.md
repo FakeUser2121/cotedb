@@ -217,3 +217,19 @@ system_id: point-economy · scope: Tokyo Metropolitan Advanced Nurturing High Sc
 [rule] (p.121) Outcome #1 is the hardest of four: everyone in the group must identify the VIP and wait until the assigned time to submit, with no early answer.
 
 <!-- walk: y1v4.5 ch4 → p.131 -->
+
+### y1v4.5 p.154–155, 169 — Ch.6: the reward economy
+[rule] (p.154) Karuizawa receives 500,000 points in September for the cruise-ship VIP win.
+[rule] (p.154) Special exams can pay students as much as 1,000,000 or 2,000,000 points.
+[rule] (p.155) Keeping ten to twenty percent of monthly points is AK's insurance advice — enough to erase a fatal blunder.
+[status:points] (p.169) Sudou earned about 3,000 points from a club tournament; upperclassmen earn tens of thousands.
+[rule] (p.169) Club accomplishment can even affect class points.
+
+### y1v4.5 p.183, 190–191 — Ch.6: lunch stakes and frugality
+[scene] (p.183) The volleyball bet is priced in private points, and Ichinose's cheapness shows how Class B manages its pool.
+[rule] (p.183) The free lunch for the winning side could cost up to 10,000 points — roughly 2,000 per person for a group this size.
+[rule] (p.183) Winning would close the gap between Class B and Class D by that much, and losing would widen it — Horikita calls it just like the special tests.
+[status] (p.190) Ichinose says she barely spends on swimwear or fashion and will need points for something more important eventually.
+[status] (p.191) Horikita, usually a light eater, eats freely when Class B is treating.
+
+<!-- walk: y1v4.5 ch6 → p.204 -->

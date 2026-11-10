@@ -2754,3 +2754,84 @@ walk: y1v1 → DONE
 [action] (p.152) Sun breaks through the rainclouds as Yamauchi runs after Sakura.
 
 <!-- walk: y1v4.5 ch5 → p.152 -->
+
+### y1v4.5 p.153–162 — Ch.6: the rest-area deal
+[scene] (p.153) On a sweltering day he meets Karuizawa at the deserted rest area between dorm and school — a clandestine spot.
+[rel:karuizawa-kei] (p.154) The cruise-ship partnership left her VIP identity hidden and 500,000 points coming in September.
+[says] (p.154) “Some students might get as many as 1,000,000 or 2,000,000 points,”
+[says] (p.155) “If you retain ten to twenty percent of your monthly points, that should be enough,”
+[action] (p.155) He asks for a favor and hands her his unopened tea bottle; the cap joke lands poorly.
+[says] (p.157) “Does the school really not know that you were bullied before?”
+[says] (p.157) “I’m not reopening old wounds for no reason.”
+[says] (p.158) “You realize that the world is magnificently rotten, don’t you?”
+[says] (p.159) “From now on, you’re forbidden to do anything that supports bullying others.”
+[says] (p.159) “prevent yourself from becoming a victim, stop.”
+[says] (p.159) “Do I need a reason?”
+[says] (p.159) “I’m asking for Sakura’s sake.”
+[says] (p.160) “I’ll bring in Hirata and even Chabashira-sensei to eliminate your enemies.”
+[says] (p.160) “I’m always like this, I guess.”
+[says] (p.160) “What would you say is the specific difference between me right now, and the usual me?”
+[note] (p.160) He compares himself at enrollment to liquid or moldable clay, not yet a full person.
+[says] (p.161) “I want you to join us,”
+[says] (p.161) “I sympathize, but you basically can’t refuse, can you?”
+[says] (p.161) “My decision’s final.”
+[says] (p.162) “I still can’t trust her.”
+[says] (p.162) “She makes an excellent cover for me, like a magic cloak of invisibility.”
+[rel:horikita-suzune] (p.162) He uses her as a conspicuous cover while acting entirely on his own since the ship.
+[action] (p.162) They head for the pool to take care of something in advance.
+
+### y1v4.5 p.163–165 — Ch.6 §6.1: the invitations
+[scene] (p.163) The night before: Ike's group-chat call to action recruits the girls for the pool — and Sudou's friend line recruits AK.
+[action] (p.163) He answers the chat with a noncommittal promise to see what he can do.
+[says] (p.164) “Can’t I call you without a reason?”
+[says] (p.164) “Wait, wait!”
+[says] (p.164) “Water bottle.”
+[says] (p.164) “You have a very unpleasant phone manner.”
+[says] (p.165) “We’ll meet at 8:30 in the lobby, and plan to go our separate ways in the evening,”
+[action] (p.165) He frames the coercion as cashing in the favor from the water-bottle night, then calls Sakura.
+
+### y1v4.5 p.166–171 — Ch.6 §6.2–6.3: the lobby and the lie
+[scene] (p.166) At 8:30 the group assembles; Sudou is missing and his phone won't connect.
+[says] (p.166) “There’s still about ten seconds left until we were scheduled to meet.”
+[says] (p.166) “It’s no use. The call’s not connecting,”
+[says] (p.167) “Several things happened,”
+[action] (p.168) He backs Sudou's alibi about post-pool plans when Horikita eyes Ike's heavy bag.
+[says] (p.169) “How’d your club activities go?”
+[rel:sudou-ken] (p.169) He watches Sudou and Horikita both for the same tendency: making enemies easily.
+[action] (p.171) Karuizawa texts that she is in the locker room; he puts his phone away from Ike's peek.
+
+### y1v4.5 p.172–178 — Ch.6 §6.4: the pool
+[scene] (p.172) The club pool is ringed with food stalls run by upperclassmen; the crowd lifts the group's mood.
+[says] (p.174) “I don’t really like showing skin in front of people.”
+[action] (p.174) Ichinose pokes his rash-guarded stomach; he credits Katsuragi's payment for the funds.
+[rel:ichinose-honami] (p.174) Her full-body touching makes him invent an excuse to leave.
+[action] (p.175) He walks beside Sakura and smooths out the thanks with the word friend.
+[says] (p.175) “We’re friends.”
+[rel:sakura-airi] (p.176) Watching her mature, he thinks he might change too.
+[says] (p.176) “As long as you’re aware of that, isn’t it enough?”
+[rel:kanzaki-ryuuji] (p.177) Kanzaki singles him out of the rowdy group and he accepts the approach.
+[rel:shibata-sou] (p.177) Shibata's proposal joins the Class B trio, growing the party to thirteen.
+[action] (p.178) He watches the blond upperclassman's volleyball spike and reads real skill behind the looks.
+
+### y1v4.5 p.179–204 — Ch.6: Nagumo, the card, and the walk
+[scene] (p.179) Ayanokōji learns the blond player is Nagumo, feints incompetence through the volleyball match, takes Karuizawa's plastic object in a private deal by the pool, and ends the vacation on a sunset walk with Horikita.
+[thinks] (p.179) “What a brazen thing to say—praising the president without revealing that he was her brother.”
+[says] (p.181) “Wait. Do you still think they assigned you to Class D by mistake?” I asked.
+[rel:ichinose-honami] (p.181) He listens as Ichinose argues that the school sorts on maturity and collaboration too, and privately notes Horikita never announced a student council candidacy.
+[action] (p.188) With Ichinose gazing at him from across the net, he deliberately fumbles his second receive into the water so no one can read his ability.
+[says] (p.186) “Er, I guess it showed the virtue of scoring quietly, rather than flamboyantly?” I replied.
+[feat] (p.188) It is the first time in his life he has played volleyball; he works out the receive in theory, then chooses to fail on purpose.
+[says] (p.190) “Ichinose was watching me closely,” I answered.
+[action] (p.193) He calls Karuizawa aside alone, saying the class could have been fractured and he wants to avoid that.
+[says] (p.194) “I'm going to have a first-year student expelled.”
+[rel:karuizawa-kei] (p.194) He names the three girls who know her past as the ideal candidates, then admits an unnecessary Class D student would do.
+[says] (p.196) “Nothing that dramatic took place in my past.”
+[thinks] (p.196) “My life was a blank slate.”
+[action] (p.196) He crushes the plastic object in his fist, tosses the bits into a garbage bin, and tells Karuizawa he won't expel anyone from Class D.
+[says] (p.196) “I won't expel anyone from Class D.”
+[action] (p.199) He shoves Karuizawa into the pool, and when she pulls him in he lets her hold him under rather than resist.
+[says] (p.199) “Did you have fun?” I asked.
+[says] (p.201) “This is…really good,” I said quietly.
+[rel:horikita-suzune] (p.204) On the tree-lined path at sunset she admits she had fun and keeps her vacation reflections a secret from him.
+
+<!-- walk: y1v4.5 ch6 → p.204 -->

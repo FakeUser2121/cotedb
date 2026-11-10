@@ -1585,3 +1585,49 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (p.141) She never appears on the page; her would-be reaction is AK's guess of an exasperated sigh.
 
 <!-- walk: y1v4.5 ch5 → p.152 -->
+
+### y1v4.5 p.164–169 — Ch.6: coerced to the pool
+[scene] (p.164) AK's water-bottle leverage turns her refusal into an 8:30 lobby attendance.
+[says] (p.164) “What do you want?”
+[says] (p.164) “I refuse,”
+[says] (p.164) “You have a very unpleasant phone manner.”
+[says] (p.165) “Okay. What do you need me to do tomorrow, and at what time?”
+[says] (p.165) “Understood. But I won’t forgive you if you ever try this again,”
+[rel:ayanokouji-kiyotaka] (p.165) She reads the water-bottle line as cashing in a favor and complies to protect her reputation.
+[says] (p.166) “You just barely made it, huh?”
+[says] (p.166) “The elevator’s really swamped, right?”
+[says] (p.166) “He probably overslept,”
+[says] (p.167) “Did something happen to him?”
+[says] (p.168) “Don’t tell me that,”
+[says] (p.168) “Don’t you think this is a little strange?”
+[says] (p.168) “Did something occur to you, Sudou-kun?”
+[says] (p.168) “I can’t help but think they have ulterior motives,”
+[says] (p.168) “Even though they shouldn’t have brought anything with them except towels and swimsuits, that bag looks really heavy.”
+[says] (p.168) “Just look at the bag,”
+[says] (p.169) “I see. I suppose that’s credible,”
+[says] (p.169) “You gained points through personal activities?”
+[says] (p.169) “The day when you contribute more significantly to the class might be near,”
+
+### y1v4.5 p.179–204 — Ch.6: her brother's shadow and the sunset walk
+[scene] (p.179) Horikita stiffens at the student council talk, argues Ichinose over class placement, plays to win the volleyball bet, and stays behind for a sunset walk with Ayanokōji.
+[rel:nagumo-miyabi] (p.179) The vice president's name tightens her shoulders, and she praises the president in front of others without revealing he is her brother.
+[says] (p.179) “I'm sure the student council president would easily surpass him in any activity.”
+[says] (p.180) “You're quite well-informed, aren't you?” replied Horikita.
+[says] (p.181) “He had a delayed start,” she spat.
+[says] (p.181) “Isn't it obvious?” Horikita said without hesitation.
+[says] (p.181) “So, you're saying there's a problem with me overall?”
+[says] (p.181) “I can't believe that,” said Horikita in a low voice.
+[says] (p.181) “Those are separate issues.”
+[says] (p.182) “It's not 'running away' when it's just a simple game,” snapped Horikita.
+[says] (p.183) “Fine. Let's do it,” said Horikita.
+[says] (p.183) “Since we're doing this, we're going to win,” said Horikita.
+[says] (p.183) “To buy lunch for this many people, you might have to spend up to 10,000 points.”
+[rel:ichinose-honami] (p.181–183) She trades barbs with Ichinose over class sorting and accepts the lunch-at-stakes bet as if it were a special test.
+[says] (p.190) “You're not really bad at sports, are you?” she observed.
+[says] (p.190) “You're not going to show your hand yet, then.”
+[says] (p.201) “That's because he has a face like a doll.”
+[says] (p.204) “Surprisingly, I had fun today.”
+[says] (p.204) “That's a secret.”
+[rel:ayanokouji-kiyotaka] (p.203–204) She does not take the elevator, invites him for a walk, and hints at a secret about what she was able to do during vacation.
+
+<!-- walk: y1v4.5 ch6 → p.204 -->

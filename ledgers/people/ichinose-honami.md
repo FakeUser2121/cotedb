@@ -602,3 +602,33 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:horikita-manabu] (p.72) Mentioned alongside Katsuragi as someone the president could have chosen first.
 
 <!-- walk: y1v4.5 ch3 → p.107 -->
+
+### y1v4.5 p.157–177 — Ch.6: the pool leader
+[scene] (p.157) She comes down with three friends for the pool and proposes everyone go together.
+[says] (p.157) “Are you guys heading to the pool, too?”
+[says] (p.157) “Well, why don’t we all go together?”
+[says] (p.158) “Gotcha!”
+[says] (p.170) “Okay, let’s meet up back here in twenty minutes,”
+[says] (p.172) “Whew. This sure is a huge crowd, isn’t it?”
+[rel:ayanokouji-kiyotaka] (p.174) She pokes and assesses his rash-guarded build — sunny innocence as the secret of her popularity.
+[says] (p.174) “Ah ha ha! I’m pretty confident in my quick-change abilities,”
+[says] (p.174) “You have the ideal amount of muscle, without being too muscular,”
+[action] (p.177) She yields the join decision to the group; Kushida's nod seals it.
+
+### y1v4.5 p.179–191 — Ch.6: the volleyball bet and the feast
+[scene] (p.182) Ichinose explains Nagumo's rise, provokes Horikita into a volleyball match with lunch at stake, and pays for Class D's meal afterward out of her own pocket.
+[says] (p.179) “He's the current student council vice president.”
+[says] (p.180) “I was rejected the first time I applied.”
+[rel:nagumo-miyabi] (p.180) She reports that the final decision on her application came from Nagumo, and models her own goal on rising from Class B as he did.
+[says] (p.180) “So, that's why I'm going to become president after Nagumo-senpai.”
+[says] (p.181) “If we turn that statement around, though, it could also mean that you're self-centered.”
+[says] (p.183) “To make the match a little more interesting, the winners gets to enjoy a free lunch, courtesy of the losers.”
+[rel:horikita-suzune] (p.183) She frames the match as a microcosm of the two classes' ambition and teamwork — a mock competition to read their opponents.
+[says] (p.185) “Wow, that was an amazing shot.”
+[says] (p.186) “Don't underestimate us girls.”
+[says] (p.190) “Just as we promised, you can have whatever you like, and however much you want.”
+[says] (p.191) “But it'd be a waste to have leftovers, so eat everything!”
+[note] (p.190) She says she is frugal, doesn't care about fashion, rotates outfits, and will need points for something more important eventually.
+[rel:sudou-ken] (p.189) She reports that the basketball boys call him the best first-year student in the class.
+
+<!-- walk: y1v4.5 ch6 → p.204 -->

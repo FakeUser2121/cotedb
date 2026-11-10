@@ -125,3 +125,13 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 [note] (p.230) Named only; no scene presence.
 
 <!-- walk: y1v4 ch5 → p.243 -->
+
+## y1v4.5
+
+<!-- walk: y1v4.5 → start -->
+
+### y1v4.5 p.180 — Ch.6: a passing mention
+[scene] (p.180) Recalled in Ayanokōji's memory as the teacher Horikita was discussing student council business with on the day he met her.
+[back] (p.180) On the day he met Horikita, she was talking to Hoshinomiya-sensei, Class B's homeroom teacher, about student council business.
+
+<!-- walk: y1v4.5 ch6 → p.204 -->

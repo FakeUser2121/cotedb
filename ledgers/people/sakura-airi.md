@@ -561,3 +561,26 @@ aliases used for anchors: sakura, airi, sakura-san
 [says] (p.151) “G-goodbye!”
 
 <!-- walk: y1v4.5 ch5 → p.152 -->
+
+### y1v4.5 p.158–177 — Ch.6: the subject and the friend
+[scene] (p.158) She is the reason AK forbids Karuizawa's bullying — Sakura has helped him several times.
+[rel:karuizawa-kei] (p.159) Karuizawa agrees to be careful with her, at AK's asking.
+[rel:ayanokouji-kiyotaka] (p.175) Walking beside him at the pool, she thanks him for the invitation.
+[says] (p.175) “For inviting me out today.”
+[says] (p.175) “Still, thank you,”
+[rel:ayanokouji-kiyotaka] (p.176) Her growth — answering the confession instead of running — makes him think he could change too.
+[says] (p.176) “I used my poor health as an excuse to run away.”
+[trait] (p.176) She has become bolder — barely recognizable as the girl he first met.
+[action] (p.177) She steps back the moment Kanzaki approaches so he won't notice her.
+
+### y1v4.5 p.182, 200–203 — Ch.6: watching, deciding, grinning
+[scene] (p.182) Sakura sits out the volleyball game, freezes over the ice cream freezer, and ends the day looking a little more relaxed.
+[says] (p.182) “U-um, I'm pretty bad at physical activity, so…I'll watch,” said Sakura.
+[says] (p.200) “Wh-what do I pick, I wonder?”
+[says] (p.200) “What should I do?” she muttered.
+[says] (p.201) “Oh no, I like all kinds.”
+[says] (p.201) “W-well, I'll have that too, then.”
+[rel:ayanokouji-kiyotaka] (p.201) After he picks the soft serve, she copies his choice so she won't hold up the group.
+[status] (p.203) She parts with Kushida looking a little more relaxed and manages a small grin after the last day of vacation.
+
+<!-- walk: y1v4.5 ch6 → p.204 -->

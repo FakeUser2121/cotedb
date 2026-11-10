@@ -1561,3 +1561,57 @@ behind the markers (p.132 prints “Page 123”). Quotes: verify 539
 (R18 0, R19 82/82); gate exit 0; build 180 pages, 57 assets; hash
 `8a0bb5345101c36556e7f772ea5c09f2` twice. New tags: none. Open: ch6
 pp.153–204.
+
+y1v4.5 ch6: A Gathering Between Classes (pp.153–204)
+
+The last day of vacation, read in two halves (153–178, 179–204). The
+rest-area deal: Karuizawa's hidden VIP points and bullying history, the
+anti-bullying order with Sakura's protection, Hirata and Chabashira
+named as enforcers, the liquid-or-clay self-model, Horikita as a magic
+cloak of invisibility. The group chat coerces Horikita into an 8:30
+lobby attendance on the water-bottle favor; Sudou oversleeps from club
+exhaustion; Ichinose arrives with three friends. The locker room: the
+heavy-bag suspicion, Sudou's ~3,000 club points, the headlock on Ike
+and Yamauchi. At the pool: rash guards funded by Katsuragi's payment,
+Ichinose assessing Ayanokōji's build, Sakura's growth, Kanzaki and
+Shibata's Class B group joining to make thirteen, and Nagumo Miyabi's
+volleyball show — his first physical appearance in the walk (student
+council vice president, second-year Class A, elections history with
+President Horikita, Ichinose's application decided by him). The
+volleyball bet: lunch worth up to 10,000 points, Sudou as the wall,
+Ayanokōji's deliberate fumble with Ichinose watching, Class D's
+two-set victory. The poolside deal: Karuizawa hands over the hard
+plastic object, the expulsion talk aimed at her three former bullies,
+the distrust of Hirata, the crush-and-toss of the object, and the shove
+that ends with both of them in the water. Dusk: the convenience store
+ice cream (Ultra Choco Monaka, Sakura's freezer freeze, Ayanokōji's
+soft-serve revelation), lobby farewells, and the sunset walk where
+Horikita admits she had fun and keeps her reflections a secret.
+
+Ledgers: 24 files stamped `<!-- walk: y1v4.5 ch6 → p.204 -->` — ak,
+karuizawa, horikita, ichinose, kushida, hirata, sudou, ike, yamauchi,
+sakura, kanzaki, kouenji, nagumo, horikita-manabu, hoshinomiya,
+private-points, swimming-pool, dormitory, the volume file; plus
+half1-only hand-stamps on chabashira, katsuragi and cruise-ship-exam.
+New files: ledgers/people/shibata-sou.md (roster row pre-existed;
+created mid-chapter after his p.177 greeting — a duplicate heading
+introduced by the first append was removed before verify) and
+ledgers/places/convenience-store.md (place row pre-existed with
+y1v4.5; no TSV edits). Nagumo, Manabu and Hoshinomiya are
+named-but-absent: entries are others speaking about them or a back
+reference, noted as such.
+
+Attribution gaps kept: the question "Wait, are you paying for the
+whole thing yourself?" (p.190) has no tagged speaker. Defects kept as
+printed: blank pages p.173 and p.198 (footer only); Sudou's meathead
+definition and the "winners gets" grammar slip stay as printed and are
+flagged in notes; footers run nine behind the markers (p.153 prints
+"Page 144"). Two quotes straddled page breaks (the anti-bullying
+sentence p.158→159, "Nagumo's limited potential is obvious" p.180→181)
+and were trimmed to the text wholly on the cited page before verify.
+Quotes: verify 718 [says] (13 too short/skipped) + 63 non-says ALL
+PASS. make check OK (R18 0, R19 82/82 after rewording one rel row
+whose unquoted "you" counted twice on the volume page); gate exit 0;
+build 180 pages, 58 assets; hash `f66222d80c77fc6cf6bdf2f7def67566`
+twice. New tags: none. Open: ch7 pp.205–223, ch8 postscript
+pp.224–227, volume-end coverage gate.

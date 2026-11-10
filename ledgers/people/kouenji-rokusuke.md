@@ -217,3 +217,10 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:ayanokouji-kiyotaka] (p.130) He never moves his eyes from the mirror; the water bottle goes unnoticed the whole ride.
 
 <!-- walk: y1v4.5 ch4 → p.131 -->
+
+### y1v4.5 p.184, 194 — Ch.6: a passing mention
+[scene] (p.184) Kouenji is named twice as the class's other athletic wild card, and is deliberately not relied on.
+[note] (p.184) Ayanokōji allows that Kouenji might present a challenge to the opponents but judges it best not to rely on him.
+[note] (p.194) When weighing Sudou's value, Ayanokōji says few in the whole school have comparable abilities, including Kouenji.
+
+<!-- walk: y1v4.5 ch6 → p.204 -->

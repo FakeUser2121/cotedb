@@ -661,3 +661,15 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:horikita-suzune] (p.120) She trusts his water quality but refuses to owe him a debt, so AK covers the request as his own.
 
 <!-- walk: y1v4.5 ch4 → p.131 -->
+
+### y1v4.5 p.158 — Ch.6: a passing mention
+[scene] (p.158) His support and protection are what let Karuizawa become a new me at this school.
+[rel:karuizawa-kei] (p.158) She credits him with establishing the popularity that keeps her safe.
+
+### y1v4.5 p.192–195 — Ch.6: a passing mention
+[scene] (p.192) Named as Karuizawa's fake boyfriend who is nowhere to be seen, then as the classmate whose past Ayanokōji refuses to take at face value.
+[rel:karuizawa-kei] (p.192) She fears rumors if she is seen alone with Ayanokōji while still going out with him.
+[note] (p.195) Karuizawa says he confessed to her that his friend tried to commit suicide by jumping; Ayanokōji doubts that trauma alone explains a Class D placement.
+[rel:ayanokouji-kiyotaka] (p.195) Ayanokōji judges that he still isn't someone who can be fully trusted and wants the truth checked discreetly.
+
+<!-- walk: y1v4.5 ch6 → p.204 -->

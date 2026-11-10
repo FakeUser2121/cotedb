@@ -1325,3 +1325,15 @@ Building gains a ledger-backed directory presence from a new file.
 Quotes: 539 [says] + 58 non-says spans, corpus-exact; R18/R19 held at
 0/82. Determinism hash across consecutive builds:
 `8a0bb5345101c36556e7f772ea5c09f2`.
+
+### y1v4.5 Chapter 6 reaches the site (site, 2026-11-07)
+
+The gathering chapter lands as scene cards across the roster: the
+rest-area deal and the clay self-model, the coerced lobby attendance,
+Nagumo's first appearance with the student-council history, the
+volleyball bet and Sudou's wall, the plastic object and the pool shove,
+the ice cream stop, and the sunset walk. Convenience Store and
+Swimming Pool gain ledger-backed directory presence; Shibata Sou gets
+a first file. Quotes: 718 [says] + 63 non-says spans, corpus-exact;
+R18/R19 held at 0/82. Determinism hash across consecutive builds:
+`f66222d80c77fc6cf6bdf2f7def67566`.

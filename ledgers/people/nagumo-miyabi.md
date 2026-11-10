@@ -12,3 +12,18 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [inference] (p.72) AK has never heard the name from any first-year and infers Nagumo is a second-year.
 
 <!-- walk: y1v4.5 ch3 → p.107 -->
+
+### y1v4.5 p.177–182 — Ch.6: the vice president's show
+[scene] (p.179) The blond player the crowd cheers is Nagumo Miyabi, a second-year Class A student and student council vice president who dominates the pool volleyball game.
+[feat] (p.178) His volleyball spike dominates the game by himself; the girls' high-pitched cheers drown out the other matches going on at the same time.
+[fact] (p.179) Kushida names him Nagumo-senpai from Class A, a second year who is really popular with the girls.
+[fact] (p.179) Ichinose adds that he is the current student council vice president, said to take over as president next year, and really smart.
+[rel:horikita-suzune] (p.179) Every time he shows off, her shoulders tighten slightly at the student council connection.
+[fact] (p.180) During the student council elections President Horikita and Nagumo both ran for president, when Nagumo was just a first-year student.
+[fact] (p.180) The final decision on Ichinose's application came from Nagumo; she heard President Horikita seemed disappointed in this year's first-year students.
+[rel:ichinose-honami] (p.180) She models her goal on him — both rose from Class B — and says she will become president after him, then adds she was just kidding.
+[rel:horikita-suzune] (p.181) She calls his potential limited and his start delayed; he is the reason her shoulders tighten at the student council words.
+[trivia] (p.182) The earring visible on him is a clip-on; Ichinose says he dresses normally in school.
+[status] (p.180) Ichinose believes President Horikita might be stepping down in October, leaving Nagumo next in line.
+
+<!-- walk: y1v4.5 ch6 → p.204 -->

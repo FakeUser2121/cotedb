@@ -462,3 +462,9 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:ayanokouji-kiyotaka] (p.87) She is the reason he had to show off on the island; Horikita has no clue about the arrangement.
 
 <!-- walk: y1v4.5 ch3 → p.107 -->
+
+### y1v4.5 p.159 — Ch.6: a passing mention
+[scene] (p.159) AK names her as one of the people he would bring in to eliminate Karuizawa's enemies.
+[rel:karuizawa-kei] (p.159) The promise makes her the class's last-resort protection behind Hirata.
+
+<!-- walk: y1v4.5 ch6 → p.204 -->

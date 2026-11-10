@@ -406,3 +406,26 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [action] (p.152) He runs off after Sakura in the clearing rain.
 
 <!-- walk: y1v4.5 ch5 → p.152 -->
+
+### y1v4.5 p.163–178 — Ch.6 §6.1–6.4: the pool plot
+[scene] (p.163) In the group chat he agrees the summer must not end like this — a fresh start after the rejection.
+[says] (p.163) “No, it’s not okay!”
+[says] (p.163) “Invite Sakura for me! Please, I beg you, Ayanokouji!”
+[action] (p.165) He privately begs AK not to reveal the rejection.
+[action] (p.166) He goes up to wake Sudou, escaping the awkward silence with Sakura.
+[says] (p.170) “Yeah. We’re going further than anyone in our class has gone.”
+[says] (p.170) “Geh! What the hell, Ken?”
+[says] (p.178) “Whoa! Awesome! This is, like, some next-level stuff, huh?!”
+[note] (p.178) He stammers a question about the handsome volleyball player that runs off the page.
+
+### y1v4.5 p.187–200 — Ch.6: the death sentence
+[scene] (p.187) Yamauchi drops serves, copies Ike's rude gesture, gets caught, and is knocked out by Sudou after the match.
+[says] (p.187) “Gyah! Sorry!” shouted Yamauchi.
+[says] (p.187) “Hey, Haruki. You're gettin' the death sentence later.”
+[says] (p.187) “No way, no way!” Yamauchi gurgled, falling face down in the water.
+[says] (p.189) “Sudou's getting full of himself,” said Yamauchi.
+[action] (p.189) Collapsed outside the pool, he glares at Sudou after the promised knockout.
+[action] (p.200) He orders shaved ice at the convenience store.
+[rel:ike-kanji] (p.187) He copies Ike's flipped finger at Sudou and pays for it with the death sentence.
+
+<!-- walk: y1v4.5 ch6 → p.204 -->

@@ -170,3 +170,12 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [status] (p.94) Whether he later arranged Sudou's blind spots is left open on p.104.
 
 <!-- walk: y1v4.5 ch3 → p.107 -->
+
+### y1v4.5 p.179–181 — Ch.6: a passing mention
+[scene] (p.179) The student council president is named again as Nagumo's rival and as Horikita's brother, without appearing.
+[fact] (p.179) Ichinose calls him possibly the most extraordinary student in the school's whole history and notes the shared last name with Horikita.
+[fact] (p.180) He ran against Nagumo in the student council elections and is reported disappointed in this year's first-year students.
+[rel:nagumo-miyabi] (p.180) The vice president's rise is framed against his presidency; he might step down in October.
+[rel:horikita-suzune] (p.179) His sister praises him in front of others without revealing he is her brother.
+
+<!-- walk: y1v4.5 ch6 → p.204 -->

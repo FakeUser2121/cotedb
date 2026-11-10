@@ -710,3 +710,16 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [note] (p.137) She never appears on the page; every entry is others speaking about the arrangement.
 
 <!-- walk: y1v4.5 ch5 → p.152 -->
+
+### y1v4.5 p.160, 167 — Ch.6: a passing mention
+[scene] (p.160) Named in the pool outing roster — one of the three girls the guys wanted.
+[rel:ichinose-honami] (p.167) Her enthusiastic nod annihilates Ike and Yamauchi's ability to veto the Class B join.
+
+### y1v4.5 p.179, 190, 203 — Ch.6: the network answer
+[scene] (p.179) Kushida supplies Ayanokōji and Horikita with Nagumo's identity, questions Ichinose's spending, and wonders why the boys rushed off at the end of the day.
+[says] (p.179) “That's Nagumo-senpai from Class A.”
+[says] (p.190) “But, Ichinose-san, didn't you use up quite a few points on stuff like swimwear?”
+[says] (p.203) “I wonder what's up with them?”
+[rel:ichinose-honami] (p.190) She points out that Class D is barely getting by while Class B spends on swimwear.
+
+<!-- walk: y1v4.5 ch6 → p.204 -->

@@ -27,3 +27,10 @@ place_id: dormitory · type: student dormitory residence
 [action] (p.144) Midnight texts from Sakura turn into a phone call between her room and his.
 
 <!-- walk: y1v4.5 ch5 → p.152 -->
+
+### y1v4.5 p.200, 203 — Ch.6: the walk back and the lobby
+[scene] (p.200) The group walks back to the dorms at dusk, and the lobby sees the farewells before Horikita and Ayanokōji stay behind.
+[action] (p.203) Ike, Yamauchi and Sudou rush into the elevator after quick farewells, promising to visit Ayanokōji's room later.
+[action] (p.203) Kushida and Sakura part; Horikita does not board the elevator and invites Ayanokōji for a walk instead.
+
+<!-- walk: y1v4.5 ch6 → p.204 -->

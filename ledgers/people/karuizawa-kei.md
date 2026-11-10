@@ -455,3 +455,66 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [note] (p.41) Ruled out with Kushida on the same line: “Kushida and Karuizawa were probably likewise unsuited to the task.”
 
 <!-- walk: y1v4.5 ch2 → p.48 -->
+
+### y1v4.5 p.153–162 — Ch.6: the rest-area deal
+[scene] (p.153) She meets AK at the deserted rest area in jeans and a simple shirt — a clandestine invitation.
+[says] (p.153) “So hot,”
+[says] (p.154) “I played around too much this summer.”
+[says] (p.154) “I can’t really do anything without money.”
+[says] (p.154) “But is it really okay to use all the points like that?”
+[says] (p.155) “When I have points, they seem to last less than a week,”
+[says] (p.155) “Is it really okay to give high schoolers that much money?”
+[rel:ayanokouji-kiyotaka] (p.156) After the boat their distance has diminished; she still may not trust him but shows none of it.
+[back] (p.156) The scar on her side comes from the vicious bullying she suffered at her old classmates' hands.
+[says] (p.157) “You know I don’t want to talk about that, right?”
+[says] (p.157) “All right. I’m sure you must have a reason for this.”
+[says] (p.157) “I definitely don’t think they know the truth about me being bullied.”
+[says] (p.157) “That’s probably why they put me in Class D.”
+[says] (p.158) “I asked my teachers and classmates for help, but that only made it worse.”
+[says] (p.158) “No matter how often they beat me up, the school ignored the bullying, and wouldn’t do anything.”
+[says] (p.158) “The school, the people who bullied me, even myself… No one admitted the truth.”
+[says] (p.158) “But I’m grateful to the people who bullied me, and the school that covered it up,”
+[says] (p.158) “No one here knows about my past.”
+[rel:hirata-yousuke] (p.158) She credits Hirata's support and protection with letting her become a new me.
+[says] (p.159) “You want me to help her because she’s so attached to you?”
+[says] (p.159) “My social status is my lifeline.”
+[says] (p.159) “the weak exist as prey for the strong”
+[says] (p.159) “I’ll be careful from now on.”
+[says] (p.160) “Maybe I’ve been overdoing it a little,”
+[says] (p.160) “It’s just that I don’t really like bringing up my past.”
+[says] (p.160) “Is the way you’re acting now the real you?”
+[says] (p.160) “Usually, you’re this gloomy guy.”
+[says] (p.161) “Are you serious?!”
+[says] (p.161) “I really, really don’t want to do this.”
+[says] (p.161) “You’re the worst.”
+[says] (p.161) “You’re using up my whole day, aren’t you?”
+[says] (p.161) “Wait, what’s the difference between ‘join’ and ‘participate’?”
+[says] (p.161) “Can’t you just ask Horikita-san?”
+[says] (p.162) “You don’t trust her, even after all the time you’ve spent together?”
+[says] (p.162) “So, you’re just using her, then?”
+[says] (p.162) “Seriously, who are you?”
+[action] (p.162) She accepts the orders and they leave together for the pool.
+
+### y1v4.5 p.171 — Ch.6 §6.3: the locker-room text
+[scene] (p.171) She reports by text that she has entered the locker room; Ike tries to peek at AK's phone.
+
+### y1v4.5 p.192–199 — Ch.6: the object and the pool
+[scene] (p.192) Karuizawa meets Ayanokōji alone by the pool after the others leave, hands him a hard object, and ends the day pulled into the water by him.
+[rel:hirata-yousuke] (p.192) She worries that being seen alone with him would start rumors while she is still Hirata's fake girlfriend.
+[says] (p.193) “What are you planning, anyway?” asked Karuizawa.
+[says] (p.193) “Honestly repulsive,” she replied, of how the boys behaved.
+[status] (p.193) She admits she doesn't want to duke it out with the Class C girls, because facing them would trigger the trauma of them bullying her.
+[says] (p.194) “W-wait a minute. What do you mean?!”
+[says] (p.194) “Getting someone expelled isn't that easy,” Karuizawa replied.
+[says] (p.195) “You're awful, you know that?” said Karuizawa.
+[says] (p.195) “How about consulting Hirata-kun?” she asked.
+[says] (p.196) “You're not normal, like, at all.”
+[says] (p.196) “I can tell just from your eyes.”
+[note] (p.196) She tells him he looks like he could kill someone without hesitation, and does not believe his past is blank.
+[note] (p.197) She stays behind after closing so she can be the last person in the locker room and hide her scar.
+[says] (p.197) “Why do I have to show you my swimsuit?” she huffed.
+[says] (p.199) “You seriously are the worst.”
+[says] (p.199) “Being pushed in isn't exactly fun, you know.”
+[action] (p.199) She pulls him into the water after he offers his hand, then holds his head underwater while the lifeguards rush over.
+
+<!-- walk: y1v4.5 ch6 → p.204 -->

@@ -122,3 +122,21 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [note] (p.207) No scene presence; one line of the VIP arithmetic.
 
 <!-- walk: y1v4 ch5 → p.243 -->
+
+## y1v4.5
+
+<!-- walk: y1v4.5 → start -->
+
+### y1v4.5 p.177 — Ch.6: the Class B join
+[scene] (p.177) He approaches AK as the Class B trio joins the pool party of thirteen.
+[rel:ayanokouji-kiyotaka] (p.177) “I’m not good with crowds.”
+[rel:shibata-sou] (p.177) He came with Shibata and the others and notes they seem happy.
+
+### y1v4.5 p.185–187 — Ch.6: reading the wall
+[scene] (p.185) Kanzaki reads Sudou's threat from the sideline and helps Class B keep the ball away from their strongest attacker.
+[says] (p.185) “Sudou-kun has a wide defensive range and really high attack power.”
+[action] (p.187) With Shibata he hangs on against Sudou but stays on the defensive; Class B's only viable strategy is denying Sudou the ball.
+[rel:sudou-ken] (p.185) He is the first to name Sudou's level of danger for Class B.
+[rel:shibata-sou] (p.187) The two of them are the only Class B players who manage to hold the line.
+
+<!-- walk: y1v4.5 ch6 → p.204 -->

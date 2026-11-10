@@ -591,3 +591,35 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:horikita-suzune] (p.119) Horikita passes on his water too, lumping him with Ike as careless with drinks.
 
 <!-- walk: y1v4.5 ch4 → p.131 -->
+
+### y1v4.5 p.163–175 — Ch.6: the keeper
+[scene] (p.163) He joins the youth crusade and makes his attendance conditional on Suzune.
+[says] (p.163) “Yeah, I want to make the most of my youth, too!”
+[says] (p.163) “If Suzune is going, then I’m in.”
+[says] (p.164) “You’re my friend, right?”
+[action] (p.166) He oversleeps from club exhaustion and doesn't answer the phone.
+[says] (p.168) “Got way too exhausted from all my club stuff,”
+[says] (p.168) “Not really,”
+[says] (p.168) “I think about 3,000 points or so,”
+[says] (p.169) “But lots of second and third years have gotten tens of thousands of points, so I can’t get too cocky yet.”
+[says] (p.169) “I’m gonna try to do way more in the second semester and onward,”
+[action] (p.170) He headlocks Ike and Yamauchi in the locker room and smashes their foreheads together.
+[says] (p.170) “You guys are causing too much ruckus!”
+[says] (p.170) “If you’re a man, you gotta make a girl fall for you,”
+[rel:horikita-suzune] (p.170) He won't let the others see Suzune defenseless — his stated rule is that a man must make a girl fall for him.
+[action] (p.175) He stays at Horikita's side while the others fall in line behind the girls.
+
+### y1v4.5 p.183–189 — Ch.6: the volleyball wall
+[scene] (p.185) Sudou carries Class D's volleyball team with raw power the narration compares to Nagumo's, then knocks Yamauchi out for the death sentence.
+[says] (p.183) “Leave this to me, Suzune.”
+[says] (p.183) “I'll knock those meatheads down!” shouted Sudou.
+[says] (p.184) “Basketball's like all other sports.”
+[note] (p.184) He applies an upperclassman's basketball aphorism to pool volleyball, and he defines meathead as a brain grown too big from studying too much — kept as printed.
+[feat] (p.185) His opening spike is too fast for Ichinose to return in the water; the text puts his power greater than or equal to Nagumo's.
+[action] (p.187) He covers the weak side, intercepts balls meant for Ayanokōji, and starts calling the shots for the team.
+[says] (p.187) “It's pathetic that the girls are more useful than you!” said Sudou.
+[says] (p.188) “Even if it's bad, it's okay, as long as you get the ball up!”
+[rel:horikita-suzune] (p.189) Her praise after the win makes him smile smugly; Ichinose reports his reputation has already reached other classes.
+[action] (p.189) After the match he delivers the promised death sentence to Yamauchi outside the pool.
+
+<!-- walk: y1v4.5 ch6 → p.204 -->

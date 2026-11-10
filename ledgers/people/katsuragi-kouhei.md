@@ -301,3 +301,9 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [inference] (p.122) The speculation is AK's alone; no evidence is offered either way.
 
 <!-- walk: y1v4.5 ch4 → p.131 -->
+
+### y1v4.5 p.174 — Ch.6: a passing mention
+[scene] (p.174) AK credits the funds from him for buying the rash guard.
+[inference] (p.174) The funds and the thanks point at Katsuragi's payment in the ch3 delivery run.
+
+<!-- walk: y1v4.5 ch6 → p.204 -->
