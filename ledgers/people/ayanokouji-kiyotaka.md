@@ -2866,3 +2866,51 @@ walk: y1v1 → DONE
 [note] (p.225) The bonus stories teased after the postscript promise the true motive behind his mysterious actions.
 
 <!-- walk: y1v4.5 ch8 → p.227 -->
+
+## y1v5
+
+<!-- walk: y1v5 → start -->
+
+### y1v5 p.13–15 — Ch.2: the zodiac debrief at Pallet
+[scene] (p.13) Back table of the crowded café Pallet after summer vacation: Ayanokōji sits with Hirata, Karuizawa and Horikita, reviewing the cruise-ship zodiac exam and its hidden VIPs.
+[fact] (p.13) The rabbit group read alphabetically — Ayanokouji-kun, Ichinose-san, Ibuki-san, Karuizawa-san — made him the rabbit VIP; the dragon group’s fifth name was Kushida-san.
+[says] (p.14) “I honestly don’t have a clue” — lied to the group when Horikita asked what he thought.
+[rel:karuizawa-kei] (p.14) Notices Karuizawa has started calling Hirata Yousuke-kun; he meets her gaze and she diverts her eyes.
+[rel:hirata-yousuke] (p.14) Plays along as the cooperative nobody while Hirata works to cement the four-person group.
+[rel:horikita-suzune] (p.15) Exchanges the no-presence / long-shadows banter with her; she is not joking when she takes the bait.
+[rel:sudou-ken] (p.16) Names Sudou among the athletic students the festival is built to give their first real opening.
+
+### y1v5 p.16–25 — Ch.2 §2.1: the rules and the huddle
+[scene] (p.16) Afternoon homeroom becomes a two-hour session: Chabashira announces the September sports festival and its handout; the class erupts.
+[rel:horikita-suzune] (p.17) Teases her about finally having an opportunity to get in touch with her brother on the Red Team; she glares and tells him to drop it.
+[says] (p.17) “At least you have an opportunity to get in touch now, huh?”
+[rel:ike-kanji] (p.24) Watches the huddle from the side — Ike and Yamauchi push for personal chances against the class’s interest.
+[rel:yamauchi-haruki] (p.24) Yamauchi is present at the huddle; no line of his is tagged in the translation.
+[says] (p.23) “It’s a sad fact of reality,” — answering Horikita’s complaint that only guys like these come to her.
+
+### y1v5 p.26–34 — Ch.2 §2.2: the Red Team assembly
+[scene] (p.26) Over four hundred people gather in Gymnasium 1: Fujimaki takes Red Team command, first-year Class A assembles under Katsuragi, Ryuuen walks Class C out, Sakayanagi Arisu is introduced, and Ayanokōji and Horikita argue strategy in the corner.
+[rel:horikita-manabu] (p.26) Notes that the student council president does not take Red Team command and wonders when he will make a move.
+[rel:katsuragi-kouhei] (p.31) Takes the Class A–Class D pact at face value — no shared competition details, only a promise not to get in each other’s way.
+[rel:sakayanagi-arisu] (p.30) Reads the gym’s layout: a clear line between Katsuragi’s followers and nearly all the students sitting with Sakayanagi; reconsiders which faction is superior.
+[rel:ichinose-honami] (p.33) Cites her as the kind who might put feelings aside for victory if Ryuuen and Class B reconcile.
+[rel:ryuuen-kakeru] (p.34) Warns Horikita that Ryuuen likely already has one or more tactics in mind for the festival.
+[says] (p.32) “The school has never once called the festival a ‘special exam.’”
+[says] (p.32) “I think the sports festival is supposed to do the same with our physical abilities.”
+[says] (p.33) “You’re looking for loopholes.”
+[says] (p.33) “You’re not thinking big enough,” — his read on Horikita’s tunnel vision.
+[says] (p.33) “We need to make sure that we’re prepared. That’s all there is to it,”
+[says] (p.34) “There’s a good chance that he has a plan in place.”
+[says] (p.34) “We have to think like that to rise to Class A’s level,”
+[feat] (p.34) Has studied Ryuuen’s strategies and thought processes ever since the fight that nearly got Sudou expelled.
+
+### y1v5 p.35–38 — Ch.2 §2.3: the gate
+[scene] (p.35) After class he stays behind alone with a file on his phone — whatever it showed, he decides no traps are necessary — then runs into Chabashira spraying water at the main gate.
+[says] (p.35) “Are you on duty today?”
+[says] (p.37) “Don’t you think that’s an exaggeration?”
+[says] (p.37) “No, nothing like that,” — to Chabashira’s guess that he already has an eccentric strategy in place.
+[says] (p.37) “I’m free to decide my own path.”
+[rel:chabashira-sae] (p.37) She warns that if he shows no results soon she’ll stop covering for him; the confrontation was only a matter of time.
+[note] (p.36) Blank/short scan page inside the dialogue (footer and watermark only); p.38 is likewise a blank scan.
+
+<!-- walk: y1v5 ch2 → p.38 -->

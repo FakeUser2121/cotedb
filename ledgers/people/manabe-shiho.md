@@ -169,3 +169,13 @@ char_id: manabe-shiho · class: Class 1-C · status: minor
 [note] (p.231) He tells Karuizawa that after he used Manabe to bully her, he took the opportunity to swap their phones.
 
 <!-- walk: y1v4 ch5 → p.243 -->
+
+## y1v5
+
+<!-- walk: y1v5 → start -->
+
+### y1v5 p.28 — Ch.2: passing mention
+[scene] (p.28) As Class C leaves the gym, Manabe looks back at Karuizawa for a moment, averts her eyes, and follows Ryuuen out.
+[rel:karuizawa-kei] (p.28) The glance reopens the cruise-ship scrap where Karuizawa’s bullying history surfaced.
+
+<!-- walk: y1v5 ch2 → p.38 -->

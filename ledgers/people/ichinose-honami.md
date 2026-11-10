@@ -662,3 +662,17 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [note] (p.220) Kushida says everyone seems to smile when she is around, and she greets Karuizawa's arrival.
 
 <!-- walk: y1v4.5 ch7 → p.223 -->
+
+## y1v5
+
+<!-- walk: y1v5 → start -->
+
+### y1v5 p.27 — Ch.2 §2.2: confronting the walkout
+[scene] (p.27) Interrupts Katsuragi’s briefing as almost her entire class’s counterpart walks out — she questions Ryuuen to his face.
+[says] (p.27) “So, you don’t intend to hold a discussion?”
+[says] (p.27) “I see. So, you’re just saving us the hassle, then,”
+[says] (p.27) “You really think you can win without cooperating?”
+[rel:ryuuen-kakeru] (p.27) Gets gratitude for the trouble saved and his sneer as an answer; Class C leaves anyway.
+[rel:ayanokouji-kiyotaka] (p.33) Ayanokōji later names her as the kind who might set feelings aside and cooperate with Ryuuen for victory.
+
+<!-- walk: y1v5 ch2 → p.38 -->

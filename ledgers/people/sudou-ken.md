@@ -675,3 +675,17 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [note] (p.12) Blank/short scan page: running footer only; no prose to cite.
 
 <!-- walk: y1v5 ch1 → p.12 -->
+
+### y1v5 p.16, 23–25 — Ch.2 §2.1: the huddle
+[scene] (p.16) Named as one of the athletic students fired up by the sports festival — probably the first exam that lets him contribute meaningfully.
+[feat] (p.16) His athletic ability is the class’s read on him before the events are even set.
+[rel:horikita-suzune] (p.23) Pulls Ike and Yamauchi to her and opens the strategy huddle.
+[says] (p.23) “Let’s figure this out, Horikita,”
+[says] (p.24) “Class D can win this,”
+[says] (p.24) “If I do that, we’ll win,” — claims every recommended-participant event.
+[rel:ike-kanji] (p.24) Tells Ike flatly that the recommended events belong to people who are good at sports.
+[says] (p.24) “You’re not, Kanji,”
+[rel:horikita-suzune] (p.24) Pushes back on her stamina caution — even tired, he moves better than the unathletic guys — and leaves without a decision.
+[says] (p.24) “But it’s better to leave it to me than put forward someone unathletic, right?”
+
+<!-- walk: y1v5 ch2 → p.38 -->

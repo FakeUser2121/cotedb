@@ -1731,3 +1731,23 @@ TSV edits — Sudou’s row already carried y1v5. Quotes: verify 0 [says]
 + 8 non-says ALL PASS. make check OK (R18 0, R19 82/82); gate exit 0;
 build 181 pages, 61 assets; hash `3799ce92a44fe3385b66dab7a958d50d`
 twice. New tags: none. Open: ch2 pp.13–38.
+
+y1v5 ch2: The School Sports Festival Begins (pp. 13–38)
+
+The festival takes over the volume: the Pallet café zodiac debrief
+(rabbit-group alphabetical VIP order; Hirata’s Kushida proposal,
+refused), Chabashira’s full rules briefing — Red A+D vs White B+C,
+15/12/10/8 and 50/30/15/10 scoring, losing-team and grade-rank class
+point swings, private-point and written-test-point prizes, MVP 100,000,
+ten-lowest exam penalty, 100,000-point substitutes — Sudou/Ike/Yamauchi’s
+huddle with Horikita, the Gymnasium assembly (Fujimaki takes Red Team
+command; Katsuragi–Hirata pact; Ryuuen walks Class C out; Sakayanagi
+Arisu fully introduced), Ayanokōji’s not-a-special-exam argument, and the
+Chabashira gate warning. New files: ledgers/people/fujimaki.md and
+ledgers/exams/sports-festival.md (both roster/exam rows pre-existed);
+café Pallet noted as a named location without a places row. 22 ledger
+files stamped with y1v5 ch2 → p.38; no TSV edits. Quotes: verify 91
+[says] + 18 non-says ALL PASS. make check OK (R18 0, R19 82/82); gate
+exit 0; build 181 pages, 62 assets; hash
+`211625d520c12d9eb5b3b4697d06103b` twice. New tags: none. Open: ch3
+pp.39–53.

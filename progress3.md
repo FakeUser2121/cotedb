@@ -1373,3 +1373,13 @@ The new volume opens on the site with Sudou Ken’s soliloquy as its
 cold-open scene card and a new Year 1 Volume 5 story page. Quotes: 8
 non-says spans, corpus-exact; R18/R19 held at 0/82. Determinism hash
 across consecutive builds: `3799ce92a44fe3385b66dab7a958d50d`.
+
+### y1v5 Chapter 2 reaches the site (site, 2026-11-11)
+
+The sports festival fills the volume page: the rules briefing, the
+assembly with Sakayanagi’s introduction and Ryuuen’s walkout, and the
+gate warning all appear as scene cards; Fujimaki and the Sports Festival
+exam gain their ledgers (both directory-level so far). Quotes: 91
+[says] and 18 non-says spans, corpus-exact; R18/R19 held at 0/82.
+Determinism hash across consecutive builds:
+`211625d520c12d9eb5b3b4697d06103b`.

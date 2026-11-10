@@ -537,3 +537,22 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:ishikura] (p.221) The third girl looks on with an uneasy expression while Karuizawa works at the vent.
 
 <!-- walk: y1v4.5 ch7 → p.223 -->
+
+## y1v5
+
+<!-- walk: y1v5 → start -->
+
+### y1v5 p.13–15 — Ch.2: the zodiac debrief at Pallet
+[scene] (p.13) At Pallet she works through the rabbit group’s alphabetical VIP order and lands on her own role in the cruise-ship exam.
+[says] (p.13) “That’s why I was chosen as VIP”
+[says] (p.13) “But isn’t that really, really simple?” — on the dragon group’s fifth-name giveaway for Kushida.
+[rel:horikita-suzune] (p.13) Sits with her at Pallet — the two girls are completely incompatible at first glance, but Hirata’s presence erases the discomfort.
+[rel:hirata-yousuke] (p.14) Has started calling him Yousuke-kun, hugs his arm, and asks him to confirm her poker face — Ayanokōji notices the shift.
+[says] (p.14) “I do have a surprisingly good poker face.”
+[rel:ayanokouji-kiyotaka] (p.14) Keeps her eyes on him after the others lose interest; he meets her gaze and she diverts hers.
+
+### y1v5 p.28 — Ch.2 §2.2: the Class C exit
+[scene] (p.28) As Class C files out of the gym, her expression sours for an instant at Manabe’s glance.
+[rel:manabe-shiho] (p.28) Manabe looks back at her from Ryuuen’s wake — the cruise-ship scrap and bullying history — then averts her eyes and follows the class out.
+
+<!-- walk: y1v5 ch2 → p.38 -->

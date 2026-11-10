@@ -240,3 +240,21 @@ system_id: point-economy · scope: Tokyo Metropolitan Advanced Nurturing High Sc
 [status] (p.206) Sudou argues that someone as useless as Ayanokōji shouldn’t hoard the island-test points.
 
 <!-- walk: y1v4.5 ch7 → p.223 -->
+
+## y1v5
+
+<!-- walk: y1v5 → start -->
+
+### y1v5 p.17–23 — Ch.2: the sports festival’s point economy
+[scene] (p.17) Chabashira’s handout prices the school sports festival in private points, test points and class points at once.
+[rule] (p.17) Individual competition placement pays 15/12/10/8 points on the class scoreboard; fifth place loses one point, and each place below loses one more.
+[rule] (p.18) Recommended-participant events pay 50/30/15/10; fifth place loses two points, each place below loses two more; the relay pays three times those values; the winning team of a team competition takes 500 points.
+[rule] (p.18) After combined class scores are reviewed, 100 class points are deducted from the first-, second- and third-year batches of the two classes on the losing team; Chabashira adds that points move class-by-class, not just by team.
+[rule] (p.18) Grade ranking is separate: 50 class points to each grade’s first-place class, no change for second, 50 deducted for third, 100 for fourth.
+[rule] (p.19) First place in an individual competition chooses 5000 private points or three written-test points; second chooses 3000 or two; third chooses 1000 or one — test points accepted this way cannot be given to another student.
+[rule] (p.19) The lowest scorer in an individual competition loses 1000 private points, or one written-test point if they have fewer than 1000.
+[rule] (p.19) Overall MVP: 100,000 private points; each grade’s top three scorers: 10,000 private points apiece.
+[rule] (p.20) The ten lowest-scoring students in each year lose ten points on their next written exam — for first-years the penalty is a written-exam deduction.
+[rule] (p.23) A substitute for a recommended-participant event costs 100,000 private points per competition.
+
+<!-- walk: y1v5 ch2 → p.38 -->

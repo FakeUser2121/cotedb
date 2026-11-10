@@ -461,3 +461,15 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [action] (p.223) He clicks the empty folder open over and over in a panic.
 
 <!-- walk: y1v4.5 ch7 → p.223 -->
+
+## y1v5
+
+<!-- walk: y1v5 → start -->
+
+### y1v5 p.23–25 — Ch.2 §2.1: the huddle
+[scene] (p.23) Gathers with Sudou and Ike around Horikita the moment free homeroom starts.
+[rel:ike-kanji] (p.24) The pair voice the demand for a personal shot at points; only Ike’s lines are tagged by the translation.
+[rel:sudou-ken] (p.24) Sudou’s recommended-events claim brushes them off; he and Ike appear frustrated but say nothing.
+[note] (p.24) The “we want a chance” speeches sit untagged between Horikita and Sudou — the translation does not say whether Ike or Yamauchi speaks them.
+
+<!-- walk: y1v5 ch2 → p.38 -->

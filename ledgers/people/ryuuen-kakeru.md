@@ -288,3 +288,20 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [scene] (p.121) Ayanokōji guesses the water thief was Ryūen or Katsuragi.
 
 <!-- walk: y1v4.5 ch4 → p.131 -->
+
+## y1v5
+
+<!-- walk: y1v5 → start -->
+
+### y1v5 p.27–28 — Ch.2 §2.2: the walkout
+[scene] (p.27) When Ichinose asks why Class C won’t discuss strategy, he turns with his hands in his pockets and leads the whole class out of the gym.
+[says] (p.27) “It’s a waste of time,”
+[says] (p.27) “You should be grateful.”
+[says] (p.27) “Hmm, I wonder.” — to Ichinose’s challenge on winning without cooperating.
+[rel:ichinose-honami] (p.27) Refuses her cooperation talk to her face; the exit confirms Class C’s dictatorship.
+[rel:manabe-shiho] (p.28) Manabe follows him out after the glance-back at Karuizawa.
+[rel:katsuragi-kouhei] (p.28) Katsuragi’s warning to Horikita is keyed to him: he’ll laugh while he attacks in the same instant.
+[rel:ayanokouji-kiyotaka] (p.34) Ayanokōji’s read: always looking to win, possibly already holding one or more festival tactics behind the B-and-C refusal.
+[status] (p.27) The walkout confirms his hold on Class C inside the volume’s first pages.
+
+<!-- walk: y1v5 ch2 → p.38 -->

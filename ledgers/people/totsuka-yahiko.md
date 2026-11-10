@@ -60,3 +60,13 @@ char_id: totsuka-yahiko · class: Class 1-A (enrolled April 2015) · status: min
 [rel:katsuragi-kouhei] (p.252) The loop closes on the pair: once the retelling "narrowed it down to Yahiko", further effort "would’ve been a waste of time."
 
 <!-- walk: y1v3 ch7 → p.258 -->
+
+## y1v5
+
+<!-- walk: y1v5 → start -->
+
+### y1v5 p.30 — Ch.2: passing mention
+[scene] (p.30) Named among the boys sitting with Katsuragi’s faction in the Class A split.
+[rel:katsuragi-kouhei] (p.30) One of the few Class A students counted on Katsuragi’s side of the line.
+
+<!-- walk: y1v5 ch2 → p.38 -->

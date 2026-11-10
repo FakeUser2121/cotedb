@@ -468,3 +468,31 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:karuizawa-kei] (p.159) The promise makes her the class's last-resort protection behind Hirata.
 
 <!-- walk: y1v4.5 ch6 → p.204 -->
+
+## y1v5
+
+<!-- walk: y1v5 → start -->
+
+### y1v5 p.16–25 — Ch.2 §2.1: the sports festival briefing
+[scene] (p.16) Afternoon homeroom runs two hours: she distributes the festival handout and weekly schedules in a detached, matter-of-fact manner.
+[says] (p.16) “However, from September to the beginning of October, we will be holding more physical education classes to prepare for the school sports festival.”
+[says] (p.16) “In any case, this event will massively impact each and every class.” — answers Hirata’s special-exam question vaguely.
+[role:teacher] (p.17) Explains the Red/White split — Class D and Class A ride the Red Team together.
+[says] (p.17) “You in Class D are assigned to the Red Team.”
+[says] (p.18) “Their reward will be not having any points deducted.” — the cruel, brief answer to the winning-team question.
+[says] (p.20) “In the sports festival, you can earn test points as a prize, which you can then apply to a written exam.” — lets out a slight laugh, an unusual sight.
+[role:teacher] (p.20) Reads out the ten-lowest penalty: for first-years, ten points off the next written exam.
+[says] (p.22) “Should you fall short of the minimum required number of people for competitions for all participants, you will be deemed unable to continue and disqualified,”
+[says] (p.23) “A substitute requires 100,000 private points per competition.”
+[says] (p.23) “Next period’s location will move to Gymnasium 1, where you’ll meet with students from other classes and grade levels.”
+
+### y1v5 p.35–37 — Ch.2 §2.3: the gate
+[scene] (p.35) Spraying water at the main gate after school; she’s on duty and clocks that he stayed behind later than usual.
+[says] (p.35) “You stayed behind longer than usual, Ayanokouji.”
+[says] (p.37) “Are you prepared for the sports festival?”
+[says] (p.37) “In your case, I would have thought that you’d already have some eccentric idea or strategy in place,”
+[says] (p.37) “But if you don’t show me some results soon, I’ll stop covering for you.”
+[rel:ayanokouji-kiyotaka] (p.37) Their talk stops when their eyes meet — public discussion helps no one; she accepts his right to choose his path but puts a deadline on her cover.
+[note] (p.36) Blank/short scan page sits inside the dialogue (footer and watermark only).
+
+<!-- walk: y1v5 ch2 → p.38 -->

@@ -346,3 +346,13 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [note] (p.63) A line groups her with Horikita as people whose information is hard to obtain.
 
 <!-- walk: y1v4.5 ch3 → p.107 -->
+
+## y1v5
+
+<!-- walk: y1v5 → start -->
+
+### y1v5 p.13 — Ch.2: passing mention
+[scene] (p.13) Named in the alphabetical rabbit-group roster Karuizawa recites — third, between Ichinose-san and Karuizawa-san.
+[rel:horikita-suzune] (p.13) Her place in the roster is the exhibit for the zodiac VIP rule.
+
+<!-- walk: y1v5 ch2 → p.38 -->

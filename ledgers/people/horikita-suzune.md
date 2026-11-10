@@ -1676,3 +1676,50 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (p.222) The scene closes with a wish to see her naked body.
 
 <!-- walk: y1v4.5 ch7 → p.223 -->
+
+## y1v5
+
+<!-- walk: y1v5 → start -->
+
+### y1v5 p.13–15 — Ch.2: the zodiac debrief at Pallet
+[scene] (p.13) At Pallet with Hirata, Karuizawa and Ayanokōji, she walks the rabbit group through the alphabetical VIP rule and the cruise-ship exam’s logic.
+[says] (p.13) “If you put the names of the students in the rabbit group in alphabetical order, it would be Ayanokouji-kun, Ichinose-san, Ibuki-san, and then Karuizawa-san,”
+[rel:karuizawa-kei] (p.13) Confirms Karuizawa’s dragon-group deduction — Kushida fifth — and explains why the pattern was hard to see mid-exam.
+[says] (p.14) “Though it appears that Ryuuen-kun rules Class C alone, perhaps that isn’t actually true.”
+[says] (p.14) “A rebellious student must’ve tossed out the wrong answer in direct defiance of Ryuuen-kun.”
+[says] (p.14) “That said, you evaded Ryuuen-kun’s clutches quite well.” — aims it at Karuizawa.
+[says] (p.15) “Unnecessary,” — refuses Hirata’s proposal to rope Kushida in.
+[says] (p.15) “I won’t deny the fact that she has certain skills, but we can do anything she can on our own.”
+[says] (p.15) “Those who claim that they have no presence usually cast long shadows,”
+[says] (p.15) “Do you take me for a fool?” — stung by Ayanokōji’s no-presence bait; not joking.
+
+### y1v5 p.16–25 — Ch.2 §2.1: the briefing and the huddle
+[scene] (p.16) In homeroom she spots the testing method on the handout before most of the class and calls Ayanokōji over.
+[rel:horikita-manabu] (p.17) At the mention that Class A — her brother’s year — rides the same Red Team, she mutters at Ayanokōji to drop it.
+[says] (p.17) “Don’t talk about that here,”
+[action] (p.22) After Hirata’s practical questions she raises her own: what happens on the day if someone is absent from a group competition?
+[says] (p.23) “Well, how many points are needed to assign a substitute?”
+[scene] (p.23) Sudou, Ike and Yamauchi corner her in the free homeroom period to argue the festival strategy.
+[says] (p.23) “Why do only guys like these come to me?”
+[says] (p.24) “That’s not a valid opinion.” — shuts down Ike’s fun-and-win line at once.
+[says] (p.24) “Within our class, you stand out as someone with superior athletic skill.” — concedes Sudou’s claim on the recommended events.
+[says] (p.24) “Stamina isn’t an unlimited resource.” — her counter to entering Sudou in everything.
+[says] (p.25) “We’re not coming to any decisions right now.” — ends the huddle without a decision.
+
+### y1v5 p.26–34 — Ch.2 §2.2: the assembly and the coin
+[scene] (p.26) In Gymnasium 1 she scans restlessly for her brother; he never takes Red Team command, and Fujimaki does instead.
+[rel:horikita-manabu] (p.26) Has never gone to meet him first — he always initiates contact — and cannot spot him in the crowd of four hundred.
+[rel:katsuragi-kouhei] (p.28) Gets his warning about Ryuuen and answers with a pointed question about personal experience; he leaves it at “I’ve warned you.”
+[rel:ayanokouji-kiyotaka] (p.31) Pulls him into the strategy question — what factor besides athleticism decides the festival — and gets “Mere luck?” for her trouble.
+[says] (p.32) “I’m not talking about random chance, though,” — wants a definite method, not luck.
+[note] (p.32) Carries shame over her island mistakes; the narration reads her as even more obsessed with victory.
+[says] (p.32) “Different? I think it’s the same kind of special exam.” — against Ayanokōji’s distinction.
+[says] (p.33) “I definitely want Class D to win,” — retort when he says she wants loopholes, not preparation.
+[says] (p.33) “So, you’re saying that we need to fight clean and fight hard to win?”
+[says] (p.34) “Wait. Are you saying that Classes B and C are working together behind the scenes?”
+[says] (p.34) “But if that’s true, it’s crazy.” — can’t believe Ryuuen could have a plan already.
+[says] (p.34) “Fine, do enlighten me.” — swallows the rudeness and asks to be set straight.
+[rel:ryuuen-kakeru] (p.34) Defends her B-and-C reading against his push; she thinks a behind-the-scenes deal is unlikely.
+[rel:ichinose-honami] (p.34) Suggests Ichinose might set aside her feelings and cooperate with Ryuuen for victory — Ayanokōji calls the view too small.
+
+<!-- walk: y1v5 ch2 → p.38 -->

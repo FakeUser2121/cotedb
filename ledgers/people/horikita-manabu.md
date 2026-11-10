@@ -189,3 +189,14 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [note] (p.190) Suzune recalls Ayanokōji's movements because she had once seen him fight her brother.
 
 <!-- walk: y1v4.5 ch6 → p.204 -->
+
+## y1v5
+
+<!-- walk: y1v5 → start -->
+
+### y1v5 p.26 — Ch.2: passing mention
+[scene] (p.26) Named as the third-year Class A student and student council president Suzune is scanning for; he does not take Red Team command.
+[rel:horikita-suzune] (p.26) She has never sought him out first — he always initiates contact — and cannot find him in the four-hundred-strong crowd.
+[rel:fujimaki] (p.26) Fujimaki’s command of the Red Team makes Ayanokōji wonder when the president will make a move.
+
+<!-- walk: y1v5 ch2 → p.38 -->

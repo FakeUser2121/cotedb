@@ -612,3 +612,13 @@ aliases used for anchors: sakura, airi, sakura-san
 [scene] (p.219) Recognizing her chance to escape, she shifts away.
 
 <!-- walk: y1v4.5 ch7 → p.223 -->
+
+## y1v5
+
+<!-- walk: y1v5 → start -->
+
+### y1v5 p.30 — Ch.2: passing mention
+[scene] (p.30) Named in the narration comparing Sakayanagi’s looks to Kushida and her.
+[rel:sakayanagi-arisu] (p.30) One of the two girls Sakayanagi is measured against when Class D’s boys size her up.
+
+<!-- walk: y1v5 ch2 → p.38 -->

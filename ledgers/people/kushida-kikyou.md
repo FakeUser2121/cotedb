@@ -751,3 +751,15 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:sakura-airi] (p.218) She is surprised Ichinose already knows Sakura.
 
 <!-- walk: y1v4.5 ch7 → p.223 -->
+
+## y1v5
+
+<!-- walk: y1v5 → start -->
+
+### y1v5 p.13, 15, 30 — Ch.2: passing mentions
+[scene] (p.13) Named in the zodiac recap as the dragon group’s fifth name and therefore its VIP; again at p.15 as Hirata’s proposed ally and at p.30 as a beauty benchmark.
+[rel:horikita-suzune] (p.13) Her name is the exhibit for the alphabetical VIP rule Horikita walks through.
+[rel:hirata-yousuke] (p.15) Hirata wants her roped in to unite the boys; Horikita refuses.
+[rel:sakayanagi-arisu] (p.30) Sakayanagi is called “as cute as Kushida and Sakura” in narration.
+
+<!-- walk: y1v5 ch2 → p.38 -->

@@ -682,3 +682,36 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [note] (p.196) He would not be easy to deal with without verifying his truth, and he is cited as someone whose beloved friend attempted suicide.
 
 <!-- walk: y1v4.5 ch6 → p.204 -->
+
+## y1v5
+
+<!-- walk: y1v5 → start -->
+
+### y1v5 p.13–15 — Ch.2: the zodiac debrief at Pallet
+[scene] (p.13) At Pallet he keeps the two girls’ friction down — his presence makes the discomfort between Karuizawa and Horikita mysteriously disappear.
+[says] (p.13) “I think Ryuuen-kun figured it all out in the middle of the test,”
+[says] (p.14) “If he understood the rules, he should have discovered all the VIPs,”
+[says] (p.14) “I’m glad we’re discussing this, Horikita-san and Ayanokouji-kun,”
+[says] (p.15) “I actually have a proposal.”
+[says] (p.15) “First, to bring our class together, I’d like to rope in Kushida-san as an ally.”
+[rel:kushida-kikyou] (p.15) Proposes her as the fourth ally to unite the boys — starting with Ike-kun and Yamauchi-kun — over Horikita’s refusal.
+[rel:horikita-suzune] (p.15) His proposal is rejected; she side-eyes Ayanokōji instead of softening.
+
+### y1v5 p.16–25 — Ch.2 §2.1: the briefing
+[scene] (p.16) In homeroom he is the first to ask whether the festival is another special exam; Chabashira’s answer stays vague.
+[says] (p.16) “Sensei, is this festival another of the special exams?”
+[says] (p.18) “Um, sensei, how many points does the winning team get?” — Chabashira answers: none.
+[says] (p.22) “Wait. So, we can decide the order in which we’ll participate?” — on the participation table.
+[action] (p.22) The absence questions in the room are his and Horikita’s — both read the handout like exam material.
+
+### y1v5 p.26–34 — Ch.2 §2.2: the assembly
+[scene] (p.27) Meets Katsuragi at the Red Team assembly and becomes Class D’s negotiating face.
+[says] (p.27) “I look forward to working with you,”
+[rel:katsuragi-kouhei] (p.31) Accepts the keep-out-of-each-other’s-way pact — no shared competition details — and thanks him with “I’m counting on you.”
+[says] (p.31) “It’s pretty hard to trust other people in this school, Katsuragi-kun.”
+[says] (p.31) “So, you won’t share any details about the competitions you’re participating in?”
+[rel:sakayanagi-arisu] (p.30) Reassures her when she apologizes for being consistently absent.
+[says] (p.30) “You have nothing to apologize for.”
+[action] (p.31) Looks to the rest of the class for the pact’s final decision; no one objects.
+
+<!-- walk: y1v5 ch2 → p.38 -->

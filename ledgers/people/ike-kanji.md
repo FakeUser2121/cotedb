@@ -529,3 +529,20 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:ike-kanji] (p.223) He clicks the empty folder open over and over until the sabotage becomes undeniable.
 
 <!-- walk: y1v4.5 ch7 → p.223 -->
+
+## y1v5
+
+<!-- walk: y1v5 → start -->
+
+### y1v5 p.17, 23–27 — Ch.2: the briefing and the huddle
+[scene] (p.17) Shouts at the Red/White announcement, then joins Sudou and Yamauchi in crowding Horikita for strategy.
+[says] (p.17) “Whoa! Seriously?! We’re really doing that?”
+[says] (p.23) “Yeah, yeah, let’s think of a way to win!”
+[says] (p.24) “I’d like to have fun and win!” — smacked down by Horikita at once.
+[says] (p.24) “Hey, you don’t know that for sure!” — miracles happen, and it should be fair.
+[rel:sudou-ken] (p.24) Takes Sudou’s “You’re not, Kanji,” without an answer; frustrated but silent by the end of the huddle.
+[rel:yamauchi-haruki] (p.24) The pair are dissatisfied together; the translation never tags which boy speaks the “we want a chance” lines.
+[rel:sakayanagi-arisu] (p.27) Whispers “Hey, check out that girl,” pointing at the Class A girl with the cane — he’s smitten like the rest.
+[says] (p.27) “Hey, check out that girl,”
+
+<!-- walk: y1v5 ch2 → p.38 -->

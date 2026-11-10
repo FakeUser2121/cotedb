@@ -68,3 +68,18 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.233) Mention only; no presence in this chapter.
 
 <!-- walk: y1v4 ch5 → p.243 -->
+
+## y1v5
+
+<!-- walk: y1v5 → start -->
+
+### y1v5 p.28–31 — Ch.2 §2.2: the introduction
+[scene] (p.28) First full appearance: the petite girl alone with a thin cane, introduced by Katsuragi as disabled — Class A’s other rumored leader.
+[says] (p.30) “Unfortunately, I won’t be very useful in this competition.”
+[says] (p.30) “Your kindness overwhelms me,” — to the Class D boys who rush to reassure her.
+[rel:katsuragi-kouhei] (p.30) The class’s line is clear between his followers and hers; nearly all the students sit with her — perhaps a deliberate demonstration.
+[rel:hirata-yousuke] (p.30) Hirata reassures her when she apologizes for being consistently absent.
+[feat] (p.30) Short silver hair, pale skin, a dreamlike quality that makes people instinctively want to protect her — and a strength of will behind the weakness.
+[status] (p.31) Did not participate in the island or cruise ship tests; whether a penalty was incurred is left open by the page.
+
+<!-- walk: y1v5 ch2 → p.38 -->

@@ -326,3 +326,24 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [inference] (p.174) The funds and the thanks point at Katsuragi's payment in the ch3 delivery run.
 
 <!-- walk: y1v4.5 ch6 → p.204 -->
+
+## y1v5
+
+<!-- walk: y1v5 → start -->
+
+### y1v5 p.26–31 — Ch.2 §2.2: the Class A face
+[scene] (p.26) Assembles the first-year Class A students in droves after Fujimaki’s speech and becomes the class’s negotiating face at the Red Team meeting.
+[says] (p.27) “I hope we can join forces without any problems,”
+[rel:hirata-yousuke] (p.27) Strikes the keep-out-of-each-other’s-way pact with Hirata — no shared competition details, only a meeting to come for the group events.
+[says] (p.31) “I was thinking that it’d be best if we just keep out of each other’s way.”
+[says] (p.31) “Letting that information slip might lead to unnecessary conflict down the road.”
+[says] (p.31) “I’ll consult with everyone else.”
+[rel:ryuuen-kakeru] (p.28) Warns Horikita off him: he’ll laugh while he attacks in the same instant — and leaves his own experience unspoken.
+[says] (p.28) “Don’t underestimate Ryuuen.”
+[says] (p.28) “I’ve warned you.”
+[rel:sakayanagi-arisu] (p.28) Introduces Sakayanagi by name and asks for sensitivity; watches her quietly while nearly all the class sits with her faction.
+[says] (p.28) “That’s Sakayanagi Arisu.”
+[rel:totsuka-yahiko] (p.30) Yahiko is named among the few boys and girls sitting on his side of the line.
+[status] (p.30) The narration reads his faction as possibly no longer superior — Sakayanagi may be demonstrating her power deliberately.
+
+<!-- walk: y1v5 ch2 → p.38 -->
