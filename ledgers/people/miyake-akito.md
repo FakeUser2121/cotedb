@@ -19,3 +19,12 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [note] (p.127) Yamada’s power is called equal to Sudou’s while Miyake and Ayanokōji together are only about half of Sudou each.
 
 <!-- walk: y1v5 ch6 → p.143 -->
+
+### y1v5 p.182–184 — Ch.9 §9: ankle withdrawal
+[scene] (p.182) Miyake asks out of the 1200-metre relay after twisting his ankle in the 200-metre dash before lunch.
+[says:miyake-akito] (p.182) “Sorry, but…would you please let me withdraw, too?”
+[says:miyake-akito] (p.182) “To tell you the truth, I twisted my ankle before lunch during the 200-meter dash. I thought it would feel better after I rested, but it still hurts.”
+[says:miyake-akito] (p.182) “You will, Ayanokouji?” Miyake asked. “Wait, though. Are you that fast?”
+[rel:ayanokouji-kiyotaka] (p.182) Questions Ayanokouji’s speed when he volunteers as replacement.
+
+<!-- walk: y1v5 ch9 → p.204 -->

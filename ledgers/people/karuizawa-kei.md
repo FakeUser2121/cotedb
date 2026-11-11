@@ -598,3 +598,12 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [trait] (p.129–142) Uses the first-name opening as intimacy, then switches to class-survival mode — the bullying history lets her read Horikita’s targeting without liking her.
 
 <!-- walk: y1v5 ch6 → p.143 -->
+
+### y1v5 p.189 — Ch.9 §9.1: the post-race approach
+[scene] (p.189) Karuizawa averts her eyes while telling Ayanokouji he was super fast after the anchor run.
+[says:karuizawa-kei] (p.189) “You were super fast.”
+[says:karuizawa-kei] (p.189) “No, no. No way! Can you really say that after seeing everyone’s reactions?”
+[says:karuizawa-kei] (p.189) “Well, there wasn’t really anything you could’ve done about that. The runner in front of you fell down, after all.”
+[rel:ayanokouji-kiyotaka] (p.189) Steps aside so she does not get between Horikita and him.
+
+<!-- walk: y1v5 ch9 → p.204 -->

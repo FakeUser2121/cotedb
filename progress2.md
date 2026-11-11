@@ -1889,3 +1889,26 @@ volume heading so the validator strips it as a quotation — count back to
 ALL PASS (0 too short). make check OK (R18 0, R19 82/82); gate exit 0;
 build hash `7137b59766f8c38d10f5167421302f36` twice. New tags: none.
 Open: ch9 pp.181–204.
+
+### y1v5 ch9 (pp.181–204) — The Turning Point — walked
+Full chapter read in one pass (blank/short scans p.186, p.197). Relay
+and closing: Sudou’s return and public apology; Horikita and Miyake
+withdraw; Ayanokouji takes the anchor and meets Horikita Manabu’s
+standing start; Red Team wins with first-year Class D fourth (−100);
+Shibata MVP; the first-name and no-violence bargain; Kamuro’s five-
+o’clock summons; Sakayanagi’s White Room greeting (“eight years and 243
+days”). Section 9.3 is Horikita’s hallway confrontation: junior-high
+past, Ryuuen’s paid Kinoshita injury, the recording bluff, the counter-
+recording of his trap plan, Class C traitor, Ayanokouji named mastermind.
+Ledger appends: 19 files stamped y1v5 ch9 → p.204 (18 people + volume
+Chapter 9 section). New ledger: kamuro-masumi (roster row pre-existed).
+Tmp bodies were header-free this time (no duplicate char_id, stamps 1
+each). Quote hygiene: short cries/“White Room,”/“Go ahead.” as notes;
+the “bury false genius” sentence spans the p.203–204 break and is a note;
+trailing “said Sudou/Ike/Hirata” attributions stripped from says rows.
+R18 fix before ship: volume “her ledger opens this chapter” → “her notes
+were opened this chapter” (pipeline word \bledgers?\b). Quotes: verify
+697 [says] (2 too short/skipped) + 212 non-says ALL PASS. make check OK
+(R18 0, R19 82/82); gate exit 0; build hash
+`860cec3a25ebfa4a6e3aaca3681dd1e3` twice. New tags: none. Open: ch10
+postscript pp.205–207 (y1v5 final).

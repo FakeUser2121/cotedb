@@ -826,3 +826,23 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:horikita-suzune] (p.179) Accepts her as an ally; first time anyone outside basketball has noticed him.
 
 <!-- walk: y1v5 ch8 → p.180 -->
+
+### y1v5 p.181–184 — Ch.9 §9: the apology and the lead leg
+[scene] (p.181) Sudou returns out of breath, bows to the class, apologizes for the Hirata punch, and takes the first relay leg.
+[says:sudou-ken] (p.181) “Yeah, sorry. My bad. It took way longer to take a dump than I thought.”
+[says:sudou-ken] (p.181) “Sorry. I punched Hirata and crashed our morale because I lost my temper. It’s my fault that Class D is about to lose,”
+[says:sudou-ken] (p.181) “I gotta admit, I did somethin’ wrong after doing somethin’ wrong. I want to apologize to you, too, Kanji,”
+[says:sudou-ken] (p.181) “If you haven’t decided on a sub for the relay, please let me run,”
+[rel:hirata-yousuke] (p.181) Bows for the punch; Hirata laughs happily despite the swollen cheek.
+[says:sudou-ken] (p.183) “Well, guess we don’t got much choice. There ain’t any other way for us to win,”
+[feat] (p.183) Explosive start: passes eleven people in the first stride and hands off with a fifteen-metre lead.
+
+### y1v5 p.189–192 — Ch.9 §9.1: MVP loss and the promise
+[scene] (p.189) Sudou slaps Ayanokouji’s back after the race; at the scoreboard Shibata takes first-year MVP and Sudou keeps the first-name ban.
+[says:sudou-ken] (p.189) “Ayanokouji! You really are super fast, dude. Whoa! Have you been holding back until now?!”
+[says:sudou-ken] (p.191) “Gaaahh! I knew it!”
+[says:sudou-ken] (p.191) “Yeah,” Sudou replied. “It’s unfortunate. But a promise is a promise. I’ll call you Horikita from now on.”
+[says:sudou-ken] (p.192) “It’s my punishment, right? I promise,”
+[rel:horikita-suzune] (p.192) Accepts the no-violence condition and her granted first name; raises both arms: “The sports festival is the best! It’s the best, Suzune!”
+
+<!-- walk: y1v5 ch9 → p.204 -->

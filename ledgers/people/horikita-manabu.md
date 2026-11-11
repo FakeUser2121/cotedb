@@ -238,3 +238,22 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [rel:sudou-ken] (p.178) Sudou learns the connection only here, after calling the president prim-and-proper.
 
 <!-- walk: y1v5 ch8 → p.180 -->
+
+### y1v5 p.183–188 — Ch.9 §9: the relay one-on-one
+[scene] (p.183) The president runs third-year Class A’s anchor; on the back straight he stops still to race Ayanokouji after the first-year’s challenge.
+[role:student-council] (p.183) Among the chosen elites in the mixed 1200-metre relay.
+[says:horikita-manabu] (p.184) “Do you seriously plan to change this school?”
+[rel:nagumo-miyabi] (p.184) Asks Nagumo about the meritocracy speech.
+[says:horikita-manabu] (p.187) “To think that you’re the anchor,”
+[says:horikita-manabu] (p.187) “I see. I suppose she’s struggling to make it through,”
+[says:horikita-manabu] (p.187) “I’ve observed your class,”
+[says:horikita-manabu] (p.187) “Up until a short while ago, I thought there was no hope for you. However, I don’t get that impression from you at all in this relay. What happened?”
+[says:horikita-manabu] (p.187) “I keep an eye on every class. No exceptions,”
+[says:horikita-manabu] (p.187) “I’m not interested in such a fanciful future,”
+[says:horikita-manabu] (p.187) “You really say some interesting things. I thought you hated standing out or getting involved. Why change that now?”
+[says:horikita-manabu] (p.187) “If you give up your chance at second place in order to race me, I’ll accept your challenge. It’s not often that a first-year and third-year have the opportunity to compete like this, is it?”
+[says:horikita-manabu] (p.188) “You did well. Great work,”
+[rel:ayanokouji-kiyotaka] (p.187–188) Stands still with the baton to wait out Ayanokouji’s challenge; loses the direct duel after the first-year’s serious kick.
+[rel:horikita-suzune] (p.187) Learns from Ayanokouji that his sister is what changed Class D; no look of surprise.
+
+<!-- walk: y1v5 ch9 → p.204 -->

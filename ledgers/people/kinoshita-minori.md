@@ -38,3 +38,11 @@ char_id: kinoshita-minori · class: Class 1-C (enrolled April 2015) · status: m
 [rel:ryuuen-kakeru] (p.155) Follows Ryuuen out when he orders the report to teachers then the student council.
 
 <!-- walk: y1v5 ch7 → p.159 -->
+
+### y1v5 p.198–199 — Ch.9 §9.3: named in Ryuuen’s confession
+[scene] (p.198) Ryuuen tells Horikita the Kinoshita collision was staged — and that he paid Kinoshita 500,000 points to injure herself after the fall.
+[rel:ryuuen-kakeru] (p.199) “She agreed when I told her that I’d pay her 500,000 points.”
+[rel:horikita-suzune] (p.199) Deliberately aimed the collision and the later self-injury on Ryuuen’s order.
+[rule] (p.199) 500,000 points for the staged serious injury that kept her out of the rest of the festival.
+
+<!-- walk: y1v5 ch9 → p.204 -->

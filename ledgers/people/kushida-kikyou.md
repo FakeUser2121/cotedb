@@ -859,3 +859,27 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [status] (p.175) Smile returns; the three-legged race runs in silent hostility.
 
 <!-- walk: y1v5 ch8 → p.180 -->
+
+### y1v5 p.181–188 — Ch.9 §9: relay substitute and the track cry
+[scene] (p.181) Kushida takes Horikita’s relay place; she runs the fifth leg into Ayanokouji’s anchor start.
+[rel:horikita-suzune] (p.182) Named as Horikita’s replacement once she withdraws.
+[says:kushida-kikyou] (p.188) “Ayanokouji-kun!”
+[rel:ayanokouji-kiyotaka] (p.188) Hands him the baton for the serious run.
+
+### y1v5 p.194–201 — Ch.9 §9.2–9.3: the hallway confession
+[scene] (p.194) Kushida returns to escort Horikita to Ryuuen; in the hallway Horikita names her junior-high past and the leak.
+[says:kushida-kikyou] (p.194) “Sorry to keep you waiting, Horikita-san. I got caught up talking with a friend.”
+[says:kushida-kikyou] (p.195) “Huh? Charade? What in the world do you mean?”
+[says:kushida-kikyou] (p.195) “Come on, now. Who did you hear that from? Hirata-kun? Ayanokouji-kun?”
+[says:kushida-kikyou] (p.195) “Of course you remember. I was quite the problem child, I suppose,”
+[says:kushida-kikyou] (p.195) “Can you please stop? Stop bringing up the past.”
+[says:kushida-kikyou] (p.196) “Me or Horikita-san? It’s obvious which of us is more loved. I suppose you could say I’m someone who hedges her bets,”
+[says:kushida-kikyou] (p.196) “But if you do happen to tell anyone about me, I will drag the brother you so love and respect into this,”
+[says:kushida-kikyou] (p.196) “For now. But there’s no guarantee for the future. I want anyone who knows about my past to disappear, so that I can be me. Otherwise, I’ll be in trouble,”
+[says:kushida-kikyou] (p.196) “Yes, I suppose so, depending on the circumstances,”
+[says:kushida-kikyou] (p.196) “Let me tell you one thing, Horikita-san. I will have the school expel you. If I need to make a deal with the devil to do so, so be it,”
+[rel:ryuuen-kakeru] (p.196) Stands beside Ryuuen after the devil’s-deal line; he snickers that he likes this side of her.
+[says:kushida-kikyou] (p.201) “Who could be responsible for this? Could it be Ayanokouji-kun? I mean, I didn’t think he was that fast, either,”
+[status] (p.201) Puzzled by the Class C recording; her expel plan half-achieved at best.
+
+<!-- walk: y1v5 ch9 → p.204 -->

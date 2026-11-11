@@ -1436,3 +1436,15 @@ and her brother. Twelve people ledgers grow; the volume Chapter 8 heading
 carries a quoted title to keep R19 at baseline. Quotes: 538 [says] and
 206 non-says spans, corpus-exact; R18/R19 held at 0/82. Determinism hash
 across consecutive builds: `7137b59766f8c38d10f5167421302f36`.
+
+Chapter 9 is the turning point: the 1200-metre relay with Ayanokouji as
+anchor and Horikita Manabu’s standing challenge, the first-name bargain
+with Sudou, and the hallway where Horikita faces Ryuuen and Kushida —
+until a counter-recording of Ryuuen’s own trap plan arrives. Sakayanagi
+names the White Room at the special building. Kamuro Masumi’s ledger
+opens (roster row pre-existed). Eighteen people ledgers grow; one volume
+section. Quote rows converted where lines were under ten characters or
+spanned the p.203–204 page break; R18 cleared by rewording one unshipped
+volume line. Quotes: 697 [says] (2 too short/skipped) and 212 non-says
+spans, corpus-exact; R18/R19 held at 0/82. Determinism hash across
+consecutive builds: `860cec3a25ebfa4a6e3aaca3681dd1e3`.

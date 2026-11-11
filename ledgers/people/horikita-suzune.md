@@ -1971,3 +1971,61 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [status] (p.179) Small first step; she smiles for the first time in the chapter.
 
 <!-- walk: y1v5 ch8 → p.180 -->
+
+### y1v5 p.181–182 — Ch.9 §9: withdraws from the relay
+[scene] (p.181) Back for the final event, Horikita asks to withdraw from the 1200-metre relay because of her leg.
+[says:horikita-suzune] (p.181) “Can I ask for a substitute? I wouldn’t run very well with my leg like this,”
+[says:horikita-suzune] (p.182) “There’s nothing I can do about it. In the state I’m in right now, I’m not sure I could even win against Ike-kun. Sorry,”
+[rel:horikita-manabu] (p.182) Narration: she had craved the anchor to run alongside her brother; Ryuuen crushed body and spirit.
+[rel:kushida-kikyou] (p.182) Hirata puts Kushida in Horikita’s relay place.
+
+### y1v5 p.189–193 — Ch.9 §9.1: the first-name bargain
+[scene] (p.189) After the race Horikita needles Ayanokouji about his hidden speed; at the scoreboard she holds Sudou to their bet.
+[says:horikita-suzune] (p.189) “That still doesn’t explain it, though. That speed. You liar.”
+[says:horikita-suzune] (p.189) “If you’d run like that from the very beginning, this situation would’ve been different. But now you’re going to be basking in lots of attention,”
+[says:horikita-suzune] (p.191) “You didn’t take the top spot for our school year, Sudou-kun. You remember our promise, right?”
+[says:sudou-ken] (p.191) “Yeah,” Sudou replied. “It’s unfortunate. But a promise is a promise. I’ll call you Horikita from now on.”
+[says:horikita-suzune] (p.191) “I forgot to tell you one thing, though. You pushed those conditions on me, so they were rather one-sided. I never mentioned whether I had any conditions of my own.”
+[says:horikita-suzune] (p.191) “If you took first place, you could have used my first name. Isn’t it only natural that I make a request of you in return?”
+[says:horikita-suzune] (p.191) “You are forbidden from ever using violence without a justifiable reason ever again. Can you promise me that?”
+[rel:sudou-ken] (p.191–192) Penalty bargain: he keeps the first name only if she also forgives herself — she grants “Suzune” as her own punishment.
+[says:horikita-suzune] (p.192) “Be that as it may, I can’t forgive myself. I need to be punished, too,”
+[says:horikita-suzune] (p.192) “Even though we did get last place, I have hope for the battles to come, thanks to you. I’m truly grateful,”
+[says:horikita-suzune] (p.193) “This time, we were defeated soundly. Completely.”
+[says:horikita-suzune] (p.193) “But I feel like I grew today. I never imagined a day would come when failure would nourish me, but…that’s really how I feel.”
+[says:horikita-suzune] (p.193) “This class is going to get stronger. Then we’ll definitely climb the ranks to the upper classes,”
+[says:horikita-suzune] (p.193) “But I suppose, first of all, I have to get down on my knees.”
+
+### y1v5 p.194–201 — Ch.9 §9.2–9.3: the confrontation
+[scene] (p.194) Horikita stays behind after the festival, waits for Ryuuen’s appointment with Kushida as escort, and faces them both in the hallway.
+[says:horikita-suzune] (p.194) “That’s right. I’m…well, I have some trifling matters to take care of,”
+[says:horikita-suzune] (p.194) “Well, these things do happen. Thank you for everything,”
+[says:horikita-suzune] (p.195) “If I had run away, I truly would’ve been hopeless. I’m going to face my problems,”
+[says:horikita-suzune] (p.195) “Kushida Kikyou-san, you attended my junior high,”
+[says:kushida-kikyou] (p.195) “Of course you remember. I was quite the problem child, I suppose,”
+[says:horikita-suzune] (p.195) “You weren’t a problem child. Everyone trusted you, just like everyone in Class D now trusts you.”
+[says:kushida-kikyou] (p.195) “Can you please stop? Stop bringing up the past.”
+[says:horikita-suzune] (p.196) “Yes. I’ve already realized what you want. You want to chase me out of this school.”
+[says:kushida-kikyou] (p.196) “Me or Horikita-san? It’s obvious which of us is more loved. I suppose you could say I’m someone who hedges her bets,”
+[says:kushida-kikyou] (p.196) “But if you do happen to tell anyone about me, I will drag the brother you so love and respect into this,”
+[says:horikita-suzune] (p.196) “Since Ryuuen’s seen your true face, does that make him your prey, too?”
+[says:kushida-kikyou] (p.196) “Let me tell you one thing, Horikita-san. I will have the school expel you. If I need to make a deal with the devil to do so, so be it,”
+[says:ryuuen-kakeru] (p.198) “Kinoshita running into you earlier was a total accident.”
+[says:horikita-suzune] (p.198) “You ordered Kinoshita-san to make sure I took a fall. I’m sure of it.”
+[says:ryuuen-kakeru] (p.198) “I wanted to crush you. That was reason enough. I had no interest in winning the sports festival,”
+[says:ryuuen-kakeru] (p.199) “Before she got medical treatment, I injured her myself. Like this.”
+[says:ryuuen-kakeru] (p.199) “She agreed when I told her that I’d pay her 500,000 points. Man, the power of money is a terrifying thing, isn’t it?”
+[says:horikita-suzune] (p.199) “If I happened to be recording your confession, what would you do?”
+[says:horikita-suzune] (p.199) “If you complain about me, or demand that I pay you points or bow before you, I’ll use the evidence I now hold in my hands.”
+[feat] (p.199) Plays back a recording of Ryuuen’s own strategy speech; his smile disappears for the first time.
+[says:ryuuen-kakeru] (p.200) “The contents of our current conversation are, at best, complete fiction. I was just humoring your delusions.”
+[says:ryuuen-kakeru] (p.200) “Do you know what this is? The full audio recording, from beginning to end. In fact, I actually took video.”
+[says:ryuuen-kakeru] (p.200) “Abandon your pride and get on your knees, Suzune.”
+[says:horikita-suzune] (p.200) “I understand… I admit…”
+[feat] (p.200) Knelt; then an email recording of Ryuuen’s trap plan arrives on his phone — a Class C traitor inside his own ranks.
+[rel:ibuki-mio] (p.200) Recording has Ibuki asking to fight Horikita; Ryuuen’s voice orders the collision and the staged injury.
+[says:ryuuen-kakeru] (p.201) “There’s a traitor in Class C, too. They made not just you and Suzune dance in the palm of their hand, but me as well.”
+[rel:ayanokouji-kiyotaka] (p.201) She concludes the mastermind has to be Ayanokouji Kiyotaka-kun.
+[says:ryuuen-kakeru] (p.201) “I’ve failed to get points from Suzune or have her kneel, but I’m happy with all that I procured,”
+
+<!-- walk: y1v5 ch9 → p.204 -->

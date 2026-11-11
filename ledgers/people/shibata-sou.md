@@ -61,3 +61,12 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 [rel:ichinose-honami] (p.170) Agrees that she can tie their legs now.
 
 <!-- walk: y1v5 ch8 → p.180 -->
+
+### y1v5 p.184–191 — Ch.9 §9: first-year MVP
+[scene] (p.184) Shibata is Class B’s anchor and chases Nagumo; at the closing he takes first-year MVP over Sudou.
+[says:shibata-sou] (p.185) “All right! Nice! Leave the rest to me!”
+[feat] (p.184) Class B first-years sit third with Shibata waiting as anchor, same role as Ayanokouji.
+[feat] (p.191) “First Year MVP: Shibata Sou” on the board — consistent first-or-second finishes beat Sudou’s absent legs.
+[rel:sudou-ken] (p.191) Takes the MVP that would have let Sudou use Suzune’s first name; Sudou’s agonized cry.
+
+<!-- walk: y1v5 ch9 → p.204 -->

@@ -372,3 +372,11 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:ryuuen-kakeru] (p.120) Her charge fits Ryuuen’s plan even if the text does not say she was ordered by name for this moment.
 
 <!-- walk: y1v5 ch6 → p.143 -->
+
+### y1v5 p.200 — Ch.9 §9.3: voice on the trap recording
+[scene] (p.200) Ibuki’s voice appears on the email recording of Ryuuen’s Class C strategy meeting.
+[says:ibuki-mio] (p.200) “Look, I’m not discounting your strategy or whatever, but give me a chance to fight Horikita.”
+[rel:ryuuen-kakeru] (p.200) Interrupts Ryuuen on the tape; he then orders her obstacle-course collision with Horikita and the staged injury.
+[rel:horikita-suzune] (p.200) Asks to fight Horikita before Ryuuen’s plan is spelled out.
+
+<!-- walk: y1v5 ch9 → p.204 -->

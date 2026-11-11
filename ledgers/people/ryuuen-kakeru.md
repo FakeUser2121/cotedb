@@ -400,3 +400,33 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:horikita-suzune] (p.178) Horikita tells Sudou Ryuuen has thoroughly beaten her and holds her points by blackmail.
 
 <!-- walk: y1v5 ch8 → p.180 -->
+
+### y1v5 p.182–183 — Ch.9 §9: watches the relay plan
+[scene] (p.182) Named in Hirata’s talk as the rival Ryuuen must not beat them again.
+[rel:hira-ta] (p.183) Hirata’s line about hating to lose to Ryuuen again — recorded under Hirata’s row.
+
+### y1v5 p.195–201 — Ch.9 §9.3: the full confession and the counter-recording
+[scene] (p.195) Ryuuen receives Horikita at the appointment, praises her for not running, then lays out the whole festival plot — until a recording of his own trap plan arrives.
+[says:ryuuen-kakeru] (p.195) “So, you didn’t run away, Suzune. You came,”
+[says:ryuuen-kakeru] (p.195) “You’ve got a good heart. You’ve become a finer woman than before,”
+[says:ryuuen-kakeru] (p.196) “Heh heh. What a shrewd woman. Well, I guess I decided to work with you because I like this side of your personality.”
+[says:ryuuen-kakeru] (p.198) “That’s really a shame, Suzune,” he told me. “Betrayed by such a trustworthy ally.”
+[says:ryuuen-kakeru] (p.198) “Kinoshita running into you earlier was a total accident. She didn’t have any ulterior motive or ill intent. That’s just the way the world is.”
+[says:ryuuen-kakeru] (p.198) “I wanted to crush you. That was reason enough. I had no interest in winning the sports festival,”
+[says:ryuuen-kakeru] (p.198) “Before the sports festival, I had Kushida get her hands on Class D’s complete participation table.”
+[says:ryuuen-kakeru] (p.199) “That’s why I had her carefully practice hitting an opponent and making the fall look completely natural,”
+[says:ryuuen-kakeru] (p.199) “Before she got medical treatment, I injured her myself. Like this.”
+[says:ryuuen-kakeru] (p.199) “She agreed when I told her that I’d pay her 500,000 points. Man, the power of money is a terrifying thing, isn’t it?”
+[rel:kinoshita-minori] (p.199) Paid 500,000 points to stage the serious injury after the collision.
+[says:ryuuen-kakeru] (p.199) “Did you come up with that bluff just now?”
+[says:ryuuen-kakeru] (p.200) “The contents of our current conversation are, at best, complete fiction. I was just humoring your delusions.”
+[says:ryuuen-kakeru] (p.200) “Do you know what this is? The full audio recording, from beginning to end. In fact, I actually took video.”
+[says:ryuuen-kakeru] (p.200) “Abandon your pride and get on your knees, Suzune.”
+[says:ryuuen-kakeru] (p.201) “I see. I see, I see. I see now! Heh heh! Isn’t that interesting? Do you know what this means, Kikyou? There’s a traitor in Class C, too.”
+[says:ryuuen-kakeru] (p.201) “You were used, Kikyou. They predicted that you’d betray your class and leak the participation table. They read us like a book.”
+[says:ryuuen-kakeru] (p.201) “Well, he’s one candidate, but I’m not drawing any conclusions yet.”
+[says:ryuuen-kakeru] (p.201) “I’ve failed to get points from Suzune or have her kneel, but I’m happy with all that I procured,”
+[rel:ayanokouji-kiyotaka] (p.201) Names Ayanokouji as one candidate for the recording; will investigate thoroughly.
+[feat] (p.199–201) Stomps the staged-injury confession on tape, then loses the exchange when a counter-recording of his trap plan arrives by email.
+
+<!-- walk: y1v5 ch9 → p.204 -->

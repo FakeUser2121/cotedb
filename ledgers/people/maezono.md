@@ -23,3 +23,10 @@ char_id: maezono · class: Class 1-D · status: minor
 [rel:hirata-yousuke] (p.52) Picked into the group — “Ayanokouji-kun, Yukimura-kun, Sotomura-kun, Mori-san, and Maezono-san.”
 
 <!-- walk: y1v5 ch3 → p.53 -->
+
+### y1v5 p.182–184 — Ch.9 §9: fourth relay leg
+[scene] (p.182) Maezono is on the six-person relay list and runs fourth; by his handoff Class D has fallen to seventh.
+[passing mention] (p.182) Named on Hirata’s relay list with Hirata, Miyake, Onodera and Sudou.
+[feat] (p.184) Takes the baton with the lead almost gone; passes to Kushida with Class A already ahead.
+
+<!-- walk: y1v5 ch9 → p.204 -->

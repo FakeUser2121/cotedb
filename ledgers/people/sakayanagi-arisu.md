@@ -98,3 +98,24 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:katsuragi-kouhei] (p.106–107) Her faction’s timing is too strange to be coincidence; Katsuragi names her fault if the coalition loses to the bickering.
 [rel:hashimoto-masayoshi] (p.106–107) Hashimoto’s public doubt of Katsuragi’s strategy is read as her handiwork; she does not need to appear on the rope.
 [trait] (p.106) Unsettling in a different way than Ryuuen — no brawl, only a smile and the perfectly timed question.
+
+### y1v5 p.202–204 — Ch.9 §9.4: the White Room greeting
+[scene] (p.202) Sakayanagi waits on the special building’s third floor, sends Kamuro away, and names the White Room to Ayanokouji.
+[says:sakayanagi-arisu] (p.202) “You drew quite a lot of attention in that final relay, Ayanokouji Kiyotaka-kun.”
+[says:sakayanagi-arisu] (p.202) “After seeing you run, I remembered something. I called you here because I wanted to share the shock I felt with you. It’s almost like the buildup toward a romantic confession, don’t you think?”
+[says:sakayanagi-arisu] (p.203) “It’s been quite a long time, Ayanokouji-kun. Eight years and 243 days, actually.”
+[says:sakayanagi-arisu] (p.203) “Heh. No, I suppose not. It’s just me who knows you, after all.”
+[note] (p.203) Sakayanagi names the White Room in two words; the line is under ten characters for a quotation row.
+[says:sakayanagi-arisu] (p.203) “It’s unpleasant, isn’t it? When only your opponent knows your secrets.”
+[says:sakayanagi-arisu] (p.203) “This is a reunion. I just wanted to come give you a proper greeting.”
+[says:sakayanagi-arisu] (p.203) “So, you were the one pulling the strings.”
+[says:sakayanagi-arisu] (p.203) “When you say ‘smart people,’ are you referring to Horikita Suzune-san? Or perhaps Hirata Yousuke-kun? Either way, now that I know who you are, I suppose it doesn’t really matter who anyone else is,”
+[says:sakayanagi-arisu] (p.203) “Please, relax,” she added. “I’ve no intention of telling anyone about you at present.”
+[note] (p.203–204) She calls herself the perfect person to bury false genius; the sentence spans the page break, so it is not set as a quotation.
+[says:sakayanagi-arisu] (p.204) “I’ve found little pleasure in this boring school life.”
+[says:sakayanagi-arisu] (p.204) “Please, go ahead. I’m honored to have you ask me a question. If you’d like to know, I’m even happy to tell you how I know about you.”
+[says:sakayanagi-arisu] (p.204) “I’ll be able to realize my dearest wish by destroying the greatest masterpiece that your father ever made.”
+[rel:ayanokouji-kiyotaka] (p.204) Claims the eight-year knowledge and wants his destruction as her dearest wish.
+[rel:kamuro-masumi] (p.202) Uses Kamuro as the courier to bring him up; dismisses her with “Excellent work, Masumi-san.”
+
+<!-- walk: y1v5 ch9 → p.204 -->

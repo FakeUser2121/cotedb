@@ -829,3 +829,18 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:ayanokouji-kiyotaka] (p.169) Grants Ayanokouji Sudou’s substitute place after Kushida’s offer.
 
 <!-- walk: y1v5 ch8 → p.180 -->
+
+### y1v5 p.181–183 — Ch.9 §9: builds the relay team
+[scene] (p.181) Hirata accepts Sudou back, backs Ayanokouji as substitute, and sets the head-start strategy for a weak first-year squad.
+[says:hirata-yousuke] (p.181) “The final event, huh? I guess we need to choose a substitute for this one, too.”
+[note] (p.181) Speaker untagged before Sudou’s entrance; recorded under Hirata’s field.
+[says:hirata-yousuke] (p.181) “You’re the only person we’d want doing this, Sudou-kun. Right, everyone?”
+[says:hirata-yousuke] (p.182) “I support him. I’ve been watching everyone, and I think Ayanokouji will do well,”
+[says:hirata-yousuke] (p.182) “However, we can’t really say that Class D is putting forward its best runners,”
+[says:hirata-yousuke] (p.182) “What do you think, Sudou-kun? If you get us off to a good start and overtake the other runners, I think we might be able to put some distance between us and the other classes.”
+[says:hirata-yousuke] (p.183) “Man, that was close. A couple seconds more, and I would have withdrawn,”
+[rel:ayanokouji-kiyotaka] (p.183) Only Hirata and Ayanokouji knew the pre-arranged substitute plan.
+[says:hirata-yousuke] (p.183) “It’s only natural for me. Besides, I’d hate it if Ryuuen-kun beat us again. Think he’ll be surprised that you’re running?”
+[feat] (p.184) Second leg: glorious run that holds the gap into Onodera.
+
+<!-- walk: y1v5 ch9 → p.204 -->

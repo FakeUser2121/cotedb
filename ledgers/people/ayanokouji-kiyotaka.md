@@ -3076,3 +3076,56 @@ walk: y1v1 → DONE
 [status] (p.175) Three-legged race run in silent hostility after the confession.
 
 <!-- walk: y1v5 ch8 → p.180 -->
+
+### y1v5 p.181–188 — Ch.9 §9: the relay anchor
+[scene] (p.181) Sudou returns for the 1200-metre relay; after Miyake’s ankle withdrawal Ayanokouji volunteers as substitute and is made anchor.
+[says:hirata-yousuke] (p.181) “The final event, huh? I guess we need to choose a substitute for this one, too.”
+[note] (p.181) Speaker untagged before Sudou’s entrance; recorded under Hirata’s field.
+[says:sudou-ken] (p.181) “Yeah, sorry. My bad. It took way longer to take a dump than I thought.”
+[says:ike-kanji] (p.181) “It’s not like it’s your fault I lost or anything. I’m just no good at sports, really. Sorry I wasn’t useful,”
+[says:sudou-ken] (p.181) “If you haven’t decided on a sub for the relay, please let me run,”
+[says:miyake-akito] (p.182) “To tell you the truth, I twisted my ankle before lunch during the 200-meter dash. I thought it would feel better after I rested, but it still hurts.”
+[says:ayanokouji-kiyotaka] (p.182) “In that case, would it be okay if I ran? I’ll pay the points to go in as a substitute, of course.”
+[says:hirata-yousuke] (p.182) “I support him. I’ve been watching everyone, and I think Ayanokouji will do well,”
+[feat] (p.183) Named anchor after Hirata’s plan: Sudou first, Hirata second, three girls, Ayanokōji last.
+[rel:horikita-manabu] (p.187) Meets the president on the track; offers to race him seriously if he gives up second place.
+[says:horikita-manabu] (p.187) “To think that you’re the anchor,”
+[says:ayanokouji-kiyotaka] (p.187) “I’m just a substitute. Originally, your sister planned to be in this position,”
+[says:horikita-manabu] (p.187) “I’ve observed your class,”
+[says:ayanokouji-kiyotaka] (p.187) “I suppose, if anything’s changed, it would be your sister.”
+[says:horikita-manabu] (p.187) “I keep an eye on every class. No exceptions,”
+[says:ayanokouji-kiyotaka] (p.187) “You probably won’t be around to see this, but our class will become stronger,”
+[says:horikita-manabu] (p.187) “I’m not interested in such a fanciful future,”
+[says:ayanokouji-kiyotaka] (p.187) “In that case, would you be interested in learning exactly what kind of person I am?”
+[says:horikita-manabu] (p.187) “Interesting.”
+[feat] (p.188) First serious run of his life: closes on the frontrunners in a one-on-one against Horikita Manabu; blocked by a fallen runner before the line.
+
+### y1v5 p.189–193 — Ch.9 §9.1: attention and the first-name bargain
+[scene] (p.189) After the race Karuizawa, Sudou and Horikita crowd him; the scoreboard brings Red Team victory and Class D fourth among first-years.
+[says:karuizawa-kei] (p.189) “You were super fast.”
+[says:ayanokouji-kiyotaka] (p.189) “Wasn’t it just that my opponent was slow?”
+[says:sudou-ken] (p.189) “Ayanokouji! You really are super fast, dude. Whoa! Have you been holding back until now?!”
+[says:ayanokouji-kiyotaka] (p.189) “Running’s pretty much my only specialty, but I overdid it. That’s the power of being fired up, huh?”
+[says:horikita-suzune] (p.189) “That still doesn’t explain it, though. That speed. You liar.”
+[rel:kamuro-masumi] (p.192) A calm Class A girl from the cavalry battle summons him to the front gate at five o’clock.
+[says:kamuro-masumi] (p.192) “Because I have something to talk to you about. At five o’clock, go to the front gate.”
+[says:horikita-suzune] (p.193) “This time, we were defeated soundly. Completely.”
+[says:horikita-suzune] (p.193) “This class is going to get stronger. Then we’ll definitely climb the ranks to the upper classes,”
+[rel:horikita-suzune] (p.193) She says she must first “get down on my knees” — the Ryuuen appointment he is not told about.
+
+### y1v5 p.202–204 — Ch.9 §9.4: the White Room greeting
+[scene] (p.202) At the special building Kamuro delivers him to Sakayanagi, who names the White Room and claims eight years and 243 days of knowledge of him.
+[says:sakayanagi-arisu] (p.202) “You drew quite a lot of attention in that final relay, Ayanokouji Kiyotaka-kun.”
+[says:sakayanagi-arisu] (p.202) “After seeing you run, I remembered something. I called you here because I wanted to share the shock I felt with you.”
+[says:sakayanagi-arisu] (p.203) “It’s been quite a long time, Ayanokouji-kun. Eight years and 243 days, actually.”
+[says:sakayanagi-arisu] (p.203) “It’s unpleasant, isn’t it? When only your opponent knows your secrets.”
+[says:sakayanagi-arisu] (p.203) “This is a reunion. I just wanted to come give you a proper greeting.”
+[says:sakayanagi-arisu] (p.203) “To be honest, I never thought I’d see you again. But now, all the mysteries have been cleared away.”
+[says:sakayanagi-arisu] (p.203) “So, you were the one pulling the strings.”
+[says:ayanokouji-kiyotaka] (p.203) “What are you talking about? There are lots of smart people in my class,”
+[says:sakayanagi-arisu] (p.204) “I’ve found little pleasure in this boring school life.”
+[says:ayanokouji-kiyotaka] (p.204) “Can you bury me?”
+[says:sakayanagi-arisu] (p.204) “I’ll be able to realize my dearest wish by destroying the greatest masterpiece that your father ever made.”
+[rel:sakayanagi-arisu] (p.204) Both want his destruction: her wish, and the old man’s loss.
+
+<!-- walk: y1v5 ch9 → p.204 -->

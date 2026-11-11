@@ -45,3 +45,12 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [rel:horikita-manabu] (p.76) Introduced as the candidate to be next student council president, abilities on par with Horikita’s older brother.
 
 <!-- walk: y1v5 ch5 → p.85 -->
+
+### y1v5 p.183–185 — Ch.9 §9: the second-year anchor’s politics
+[scene] (p.183) Nagumo runs the second-year anchor leg and tells the student council president he will remake the school as a meritocracy.
+[says:nagumo-miyabi] (p.184) “Looks like victory is ours this time, President Horikita. I would’ve liked to run against you directly, if possible.”
+[says:nagumo-miyabi] (p.184) “Looks like we’re going to win in overall points, too. Guess this is the dawn of a new era, eh?”
+[says:nagumo-miyabi] (p.185) “You’re too traditional. And even though you’re strict, you’re weak. Your rules are too generous, and they stop people from getting expelled. All I’m going to do is help make this school the ultimate meritocracy,”
+[rel:horikita-manabu] (p.184–185) Addresses the president by title while taking the second-year anchor baton.
+
+<!-- walk: y1v5 ch9 → p.204 -->

@@ -621,3 +621,11 @@ aliases used for anchors: ike, kanji, ike-kun
 [says:ike-kanji] (p.162) “Dude, why are you spacing out? Hurry up, Ayanokouji!”
 
 <!-- walk: y1v5 ch8 → p.180 -->
+
+### y1v5 p.181 — Ch.9 §9: accepts Sudou’s apology
+[scene] (p.181) Ike greets Sudou’s return and accepts the apology for the class’s mood.
+[says:ike-kanji] (p.181) “The heck, Ken? This isn’t like you,”
+[says:ike-kanji] (p.181) “It’s not like it’s your fault I lost or anything. I’m just no good at sports, really. Sorry I wasn’t useful,”
+[rel:sudou-ken] (p.181) Named as Kanji when Sudou apologizes to him by first name.
+
+<!-- walk: y1v5 ch9 → p.204 -->

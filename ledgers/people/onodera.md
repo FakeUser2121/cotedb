@@ -18,3 +18,10 @@ char_id: onodera · class: Class 1-D · status: minor
 [rel:horikita-suzune] (p.62) Horikita answers that Onodera is the slow one; the partnership dissolves on the spot.
 
 <!-- walk: y1v5 ch4 → p.67 -->
+
+### y1v5 p.182–184 — Ch.9 §9: third relay leg
+[scene] (p.182) Onodera is named on the six-person relay list and runs third; second- and third-year Class A runners overtake her.
+[passing mention] (p.182) Listed among Hirata, Miyake, Maezono and Onodera with Sudou at the top.
+[feat] (p.184) Fast for a girl, but the senior boys close and pass; the lead is almost gone by Maezono.
+
+<!-- walk: y1v5 ch9 → p.204 -->
