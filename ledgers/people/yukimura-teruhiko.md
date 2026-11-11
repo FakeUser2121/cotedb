@@ -218,3 +218,16 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.232) Asked why she thought it was Karuizawa, the answer cites the same reason as Yukimura-kun — her unusually changed behavior.
 
 <!-- walk: y1v4 ch5 → p.243 -->
+
+## y1v5
+
+<!-- walk: y1v5 → start -->
+
+### y1v5 p.39–53 — Ch.3 §3: Hands, votes and the roster
+[scene] (p.43) Yukimura is named among the students who follow Sudou into Horikita’s camp, and he later handles the grip-strength device and makes the scavenger-hunt roster.
+[action] (p.43) Raises his hand with Sudou and Sakura for Horikita’s ability plan.
+[rel:hirata-yousuke] (p.49) Takes his turn at the grip-strength meter after Sudou’s 82.4.
+[rel:hondou-ryoutaro] (p.49) Is handed a grip-strength device by Hirata, alongside Hondou.
+[rel:ayanokouji-kiyotaka] (p.52) Picked with Ayanokōji, Sotomura, Mori and Maezono for the scavenger hunt: “Ayanokouji-kun, Yukimura-kun, Sotomura-kun, Mori-san, and Maezono-san.”
+
+<!-- walk: y1v5 ch3 → p.53 -->

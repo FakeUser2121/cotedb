@@ -496,3 +496,10 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [note] (p.36) Blank/short scan page sits inside the dialogue (footer and watermark only).
 
 <!-- walk: y1v5 ch2 → p.38 -->
+
+### y1v5 p.39–53 — Ch.3 §3: Watches the homeroom from the back
+[scene] (p.39) Chabashira moves to the back of the classroom during Hirata’s two-hour homeroom and does not speak — she intends to watch the class run itself.
+[rel:hirata-yousuke] (p.39) Lets Hirata run the session unopposed — she speaks no word during the whole strategy meeting.
+[note] (p.41) The chapter prints nothing further about her; her last stated posture is watching from the back (p.39).
+
+<!-- walk: y1v5 ch3 → p.53 -->

@@ -556,3 +556,19 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:manabe-shiho] (p.28) Manabe looks back at her from Ryuuen’s wake — the cruise-ship scrap and bullying history — then averts her eyes and follows the class out.
 
 <!-- walk: y1v5 ch2 → p.38 -->
+
+### y1v5 p.39–53 — Ch.3 §3: The other camp, then the entrance meeting
+[scene] (p.41) Karuizawa raises the unathletic students’ objection in homeroom and, after class, waits at the main entrance for Ayanokōji.
+[says] (p.41) “Hey, excuse me? I object to this, too.”
+[says] (p.41) “Hey, what do you think, Kushida-san?”
+[says] (p.42) “We’re still losing out on chances to win the big prize.”
+[rel:horikita-suzune] (p.42) Horikita answers her: “You’re objecting just because she objected? That’s completely illogical.”
+[rel:hirata-yousuke] (p.42) Insists on fairness: “We have to make these competitions fair,” then yields to Hirata’s vote.
+[result] (p.44) Her plan takes thirteen votes against Horikita’s sixteen — the minority side of the class’s first festival vote.
+[rel:ayanokouji-kiyotaka] (p.46) Shows him the text — “No matter what, object to Horikita’s plan. Then ask Kushida for her opinion.” — and demands to know what he is playing at.
+[says] (p.46) “So, I should just do as I’m told, like a loyal dog, and never ask why.”
+[rel:ayanokouji-kiyotaka] (p.47) Hears the betrayal prediction — “Wait, what?! Are you being serious right now?!”
+[rel:ayanokouji-kiyotaka] (p.47) Asks for reassurance: “even if someone does betray the class, we’ll be okay. Right?”
+[rel:ayanokouji-kiyotaka] (p.48) Her reading of people is praised in his thoughts after she leaves — better than he imagined, from her past.
+
+<!-- walk: y1v5 ch3 → p.53 -->

@@ -33,3 +33,10 @@ exam_id: sports-festival · scope: school event; Red vs White across all grades;
 [rel:ichinose-honami] (p.27) Ichinose confronts the walkout to his face and gets gratitude for the trouble saved.
 
 <!-- walk: y1v5 ch2 → p.38 -->
+
+### y1v5 p.39–53 — Ch.3 §3: Four-way tug-of-war and the luck events
+[rule] (p.51) The four-way tug-of-war takes four people from each of the four classes — sixteen in all — who pull simultaneously, so tactics matter beyond raw strength.
+[rule] (p.51) Luck-based events such as the scavenger hunt are staffed by rock-paper-scissors among the volunteers, on Hirata’s call: “Simple is best. How about we go with rock-paper-scissors?”
+[scope] (p.44) Class D’s roster fills only about a third of the all-participant spots at the first pass; the rest stay open for later practice.
+
+<!-- walk: y1v5 ch3 → p.53 -->

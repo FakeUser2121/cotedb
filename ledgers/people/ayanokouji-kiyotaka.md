@@ -2914,3 +2914,26 @@ walk: y1v1 → DONE
 [note] (p.36) Blank/short scan page inside the dialogue (footer and watermark only); p.38 is likewise a blank scan.
 
 <!-- walk: y1v5 ch2 → p.38 -->
+
+### y1v5 p.39–53 — Ch.3 §3: The blackboard vote, the betrayal warning, the roster
+[scene] (p.39) Class 1-D homeroom: Hirata chalks two systems for the sports festival while Ayanokōji narrates the class’s first real strategy meeting of the volume.
+[thinks] (p.39) “We began making comprehensive preparations for the sports festival, which was only one month away.”
+[action] (p.41) Lets Horikita’s jab about his phone pass, then stays out of the debate: “Well, if I just leave it to you and Hirata, you’ll sort out our problems, right?”
+[says] (p.43) “Relax. It’s my policy to abstain from voting.”
+[says] (p.43) “The other students aren’t all as ambitious as you,” — he votes for no one while the class splits 16–13.
+[action] (p.46) After class he texts Karuizawa — “No matter what, object to Horikita’s plan. Then ask Kushida for her opinion.” — and meets her at the main entrance.
+[says] (p.46) “When it comes to improvising, you’re quite fast on your feet.”
+[says] (p.46) “Besides, I’m under no compunction to answer your questions.”
+[says] (p.47) “I’m not personally interested in reaching Class A.”
+[flag] (p.47) Tells Karuizawa: “One of our classmates will betray us during this sports festival.”
+[says] (p.47) “Yes. I’ve prepared.”
+[thinks] (p.47) “Now then, I wonder what Class A has in mind?” — Katsuragi will be solid, and Sakayanagi would be good for the White Team and for Class D.
+[thinks] (p.48) Life-jacket parable: in a crisis the able-bodied are favored, so “just because Sakayanagi wasn’t physically active didn’t mean she was harmless.”
+[thinks] (p.48) “Karuizawa was better at reading people than I’d imagined, probably because of her past.”
+[feat] (p.50) Measures 60.6 kilograms of grip strength on the first try — second in the class behind Sudou’s 82.4, with Kōenji set aside — having aimed carefully at the average.
+[thinks] (p.50) Stops the meter just over 60 once he has worked out that 60 is roughly the average he was aiming for.
+[thinks] (p.51) “I see. So, 60 was high, then.”
+[action] (p.52) Wins the first round and the second and final round of rock-paper-scissors despite praying to lose, and is picked for the scavenger-hunt team against his wishes.
+[rel:horikita-suzune] (p.52) Admits the roster problem — “Many participants were chosen against their will,” — and Horikita answers that the class’s athletic gap is to blame.
+
+<!-- walk: y1v5 ch3 → p.53 -->

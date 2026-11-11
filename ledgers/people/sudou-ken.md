@@ -689,3 +689,19 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [says] (p.24) “But it’s better to leave it to me than put forward someone unathletic, right?”
 
 <!-- walk: y1v5 ch2 → p.38 -->
+
+### y1v5 p.39–53 — Ch.3 §3: The ability camp, then the grip-strength king
+[scene] (p.39) Sudou argues the ability side of Hirata’s blackboard and, by p.40, has claimed every recommended competition for himself.
+[says] (p.40) “If I win, then it’s more likely our class wins.”
+[says] (p.40) “I’ll do all the events for recommended participants,”
+[rel:shinohara-satsuki] (p.41) Turns his new leadership on Shinohara — “If we lose because of you, will you take responsibility? Huh?”
+[rel:kouenji-rokusuke] (p.43) Votes Horikita: “When winners win, we all win.”
+[action] (p.44) Claims every recommended competition and warns the class — “I’ll participate in every competition.”
+[rel:kouenji-rokusuke] (p.45) Confronts Kōenji for abstaining: “Hey, Kouenji. Ain’t you gonna cooperate?”
+[feat] (p.49) Posts 82.4 kilograms of grip strength — the highest printed score — and bellows through the test: “This is what a real man looks like.”
+[says] (p.49) “It’s just ’cause I train all the time.”
+[rel:kouenji-rokusuke] (p.49) Taunts Kōenji for refusing the meter: “What? You scared of losing to me or something?”
+[says] (p.50) “Maybe, like, around 60?” — his guess at the average, which Ayanokōji uses to stop his own meter at 60.6.
+[rel:ayanokouji-kiyotaka] (p.51) Despairs at the class’s depth: “Man, I can’t rely on a single one of you.”
+
+<!-- walk: y1v5 ch3 → p.53 -->

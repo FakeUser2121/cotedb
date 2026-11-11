@@ -258,3 +258,9 @@ system_id: point-economy · scope: Tokyo Metropolitan Advanced Nurturing High Sc
 [rule] (p.23) A substitute for a recommended-participant event costs 100,000 private points per competition.
 
 <!-- walk: y1v5 ch2 → p.38 -->
+
+### y1v5 p.39–53 — Ch.3 §3: Class D’s festival point compromise
+[rule] (p.42) Horikita’s compromise, carried by the class vote: top placers who don’t need test-score boosts spend their private points lifting the bottom placers’ test scores, and the whole class shares the festival’s gains and losses in private points.
+[impact] (p.42) The narrator notes the cost — chances of victory drop across the board, and the bottom ten students per grade would still be in trouble.
+
+<!-- walk: y1v5 ch3 → p.53 -->

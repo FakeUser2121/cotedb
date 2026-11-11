@@ -122,3 +122,16 @@ char_id: sotomura-hideo · class: Class 1-D (enrolled April 2015) · status: min
 [note] (p.209) The page never prints his name; the established nickname is what identifies him.
 
 <!-- walk: y1v4.5 ch7 → p.223 -->
+
+## y1v5
+
+<!-- walk: y1v5 → start -->
+
+### y1v5 p.39–53 — Ch.3 §3: The Professor’s bad luck
+[scene] (p.49) Sotomura — “the Professor” — is called up for the grip-strength test alongside Sudou, then loses the rock-paper-scissors for the scavenger hunt.
+[rel:hirata-yousuke] (p.49) Hirata pairs him with Sudou for simultaneous measurements: “Well then, let’s have Sotomura-kun stand next to you and take his measurement simultaneously, Sudou-kun”
+[feat] (p.50) Posts 42 kilograms of grip strength, the class’s lowest printed score.
+[rel:ike-kanji] (p.52) Wails when picked for the scavenger hunt — “I-I have been chosen to participate in the scavenger hunt?”
+[says] (p.52) “Why, oh why did I throw rock at that moment?”
+
+<!-- walk: y1v5 ch3 → p.53 -->

@@ -96,3 +96,18 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [scene] (p.65) Ike's disappointment carries a memory of what had happened with Shinohara before.
 
 <!-- walk: y1v4.5 ch3 → p.107 -->
+
+## y1v5
+
+<!-- walk: y1v5 → start -->
+
+### y1v5 p.39–53 — Ch.3 §3: Objects to the ability plan
+[scene] (p.40) Shinohara is the first student to object when Sudou claims the recommended events, and she argues her case against Horikita for two pages.
+[says] (p.40) “Won’t that leave slower people high and dry?”
+[says] (p.40) “I don’t want to throw away my shot.”
+[says] (p.40) “I don’t want to lose out on private points.”
+[rel:horikita-suzune] (p.41) “Not everyone is as smart as you, Horikita-san.”
+[rel:horikita-suzune] (p.41) Horikita answers that she should study longer and “probably wouldn’t win anything anyway.”
+[rel:sudou-ken] (p.41) Sudou shuts her down — “If we lose because of you, will you take responsibility?” — and the class sides with the ability plan.
+
+<!-- walk: y1v5 ch3 → p.53 -->

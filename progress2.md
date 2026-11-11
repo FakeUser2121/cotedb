@@ -1751,3 +1751,27 @@ files stamped with y1v5 ch2 → p.38; no TSV edits. Quotes: verify 91
 exit 0; build 181 pages, 62 assets; hash
 `211625d520c12d9eb5b3b4697d06103b` twice. New tags: none. Open: ch3
 pp.39–53.
+
+### y1v5 ch3 (pp.39–53) — Class D's Objective — walked
+Read the full chapter with blank flags (549-line extract). The blackboard
+meeting: Hirata's "Raising Hands" versus "Ability", Sudou claims every
+recommended event, Shinohara's objection, Karuizawa/Kushida's counter and
+Horikita's private-point compromise, the 16–13 vote, Kōenji's refusal.
+§3.1: the entrance meeting — Karuizawa's text message, the Class A answer,
+the classmate-will-betray-us prediction, the life-jacket parable. §3.2:
+grip strength (Sudou 82.4, Ayanokōji 60.6 second, Hirata 57.9, Ike 42.6),
+four-way tug-of-war order, rock-paper-scissors roster, top-secret notebook.
+Ledgers touched: 24 files stamped y1v5 ch3 → p.53 — volumes/y1v5,
+ayanokouji-kiyotaka, hirata-yousuke, horikita-suzune, sudou-ken,
+shinohara-satsuki, karuizawa-kei, kushida-kikyou, chabashira-sae,
+sakura-airi, ike-kanji, kouenji-rokusuke, sotomura-hideo,
+yukimura-teruhiko, maezono, exams/sports-festival, systems/private-points.
+New files (ledger-new, start y1v5): onodera, hondou-ryoutaro,
+miyamoto-soshi, miyake-akito, mori-nene — all roster rows pre-existed;
+no TSV edits. Quotes: verify 125 [says] + 78 non-says ALL PASS. Pre-verify
+audit caught and fixed fabricated/incorrect rows (an invented opening
+thought, a Chabashira chiding that is not in the text, a three-times RPS
+that is two rounds, Miyamoto/Kōenji tug-of-war misattributions) before
+commit. make check OK (R18 0, R19 82/82); gate exit 0; build 181 pages,
+62 assets; hash `bfc0ce9e40792479cf8bbc9187ba29f1` twice. New tags: none.
+Open: ch4 pp.54–67.

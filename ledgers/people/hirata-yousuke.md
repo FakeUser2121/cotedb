@@ -715,3 +715,23 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [action] (p.31) Looks to the rest of the class for the pact’s final decision; no one objects.
 
 <!-- walk: y1v5 ch2 → p.38 -->
+
+### y1v5 p.39–53 — Ch.3 §3: Runs the homeroom, the vote and the roster
+[scene] (p.39) Hirata takes the two-hour homeroom in hand while Chabashira watches from the back, chalks two systems on the board, and walks the class through them.
+[says] (p.39) “This is a rough outline, but I think that everything boils down to these two approaches.”
+[says] (p.39) “The strength of the raising-hands system is, naturally, that everyone gets to voice their wishes.”
+[action] (p.42) Calls the majority vote when the two camps can’t agree: “If we can’t agree, then we’ve got to have a majority vote.”
+[says] (p.42) “Calm down, both of you.”
+[rel:karuizawa-kei] (p.42) Karuizawa accepts the vote mechanism at once — “If Yousuke-kun says so, then I agree.”
+[says] (p.43) “How about we decide which plan we prefer by a show of hands?”
+[says] (p.43) “Sixteen votes, then.”
+[rel:kouenji-rokusuke] (p.45) Defuses Sudou’s confrontation with Kōenji: “Kouenji-kun must have his reasons.”
+[says] (p.45) “I think that it would be best to take our time with the rest.”
+[action] (p.49) Opens the grip-strength testing — “How about we measure the grip strength of our dominant hand?” — and records the results for the tug-of-war orders.
+[feat] (p.51) Sets the four-way tug-of-war order by grip strength: Sudou, Ayanokōji, Miyake and himself.
+[rel:sotomura-hideo] (p.51) Explains the four-way tug-of-war after looking it up — “It’s a tug-of-war competition in which four people are chosen from each of the four classes, for a total of sixteen people.”
+[says] (p.51) “How about we go with rock-paper-scissors?”
+[rel:ayanokouji-kiyotaka] (p.52) Names the scavenger-hunt five — “Ayanokouji-kun, Yukimura-kun, Sotomura-kun, Mori-san, and Maezono-san.” — then fills every roster.
+[says] (p.52) “This information is top secret, so everyone, please only make note of your events and your partners.”
+
+<!-- walk: y1v5 ch3 → p.53 -->

@@ -763,3 +763,12 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:sakayanagi-arisu] (p.30) Sakayanagi is called “as cute as Kushida and Sakura” in narration.
 
 <!-- walk: y1v5 ch2 → p.38 -->
+
+### y1v5 p.39–53 — Ch.3 §3: Asked for the middle ground
+[scene] (p.41) Karuizawa calls on Kushida during the homeroom debate, and Kushida voices the class’s wish for a solution both sides can accept.
+[says] (p.41) “If there were some kind of middle-ground solution, that would be ideal.”
+[says] (p.41) “A strategy we could all get behind.”
+[rel:horikita-suzune] (p.41) Names both camps fairly — Horikita’s wish for the class and Shinohara’s wish for everyone to have a chance — before Horikita offers the compromise.
+[action] (p.44) Volunteers for recommended events once Horikita’s plan carries the vote.
+
+<!-- walk: y1v5 ch3 → p.53 -->

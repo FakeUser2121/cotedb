@@ -1723,3 +1723,24 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ichinose-honami] (p.34) Suggests Ichinose might set aside her feelings and cooperate with Ryuuen for victory — Ayanokōji calls the view too small.
 
 <!-- walk: y1v5 ch2 → p.38 -->
+
+### y1v5 p.39–53 — Ch.3 §3: Her plan wins the vote
+[scene] (p.40) Horikita cuts into Hirata’s homeroom with a supplementary proposal while Sudou is claiming every recommended event.
+[says] (p.40) “However, that single tactic isn’t guaranteed to carry us to victory,”
+[says] (p.40) “Put simply, the strongest, fastest students should be grouped together,”
+[rel:shinohara-satsuki] (p.40) Tells Shinohara her feelings don’t matter: “It’s for the sake of the class,”
+[rel:shinohara-satsuki] (p.41) Tells her: “Besides, you probably wouldn’t win anything anyway.”
+[says] (p.41) “I don’t want to hear your excuses anymore.”
+[rel:sudou-ken] (p.42) Her compromise: top placers who don’t need test points share private points with the bottom — “The entire class will share in the gains and losses of private points from the festival.”
+[rel:karuizawa-kei] (p.42) Grumbled at Karuizawa’s side of the room: “The other class definitely isn’t weighed down by morons like you,”
+[rel:karuizawa-kei] (p.42) Closes her appeal: “I hope you’ll all make the right decision,”
+[rel:ayanokouji-kiyotaka] (p.42) Asks Ayanokōji to silence Karuizawa — “Ayanokouji-kun, can’t you tell Karuizawa-san to shut up?” — and gets a refusal.
+[rel:ayanokouji-kiyotaka] (p.43) Accuses him: “You’ve been talking to her lately, though.”
+[rel:ayanokouji-kiyotaka] (p.43) Turns on him: “Don’t tell me you agree with Karuizawa-san’s plan?”
+[rel:ayanokouji-kiyotaka] (p.43) Growls back: “In that case, you could just have voted for my plan,”
+[says] (p.43) Defends her plan: “Giving the class the best-possible chance of winning will ultimately result in netting a lot of private points.”
+[result] (p.43–44) Her plan takes sixteen of the twenty-nine votes cast; Karuizawa’s takes thirteen — “Then it’s decided,” she says, and hands the rest to Hirata.
+[action] (p.44) Volunteers herself: “I will also compete in as many events as possible.”
+[rel:ayanokouji-kiyotaka] (p.52) Notes his mood after the roster is filled — “You look more somber than usual.” — and blames the class’s athletic gap.
+
+<!-- walk: y1v5 ch3 → p.53 -->

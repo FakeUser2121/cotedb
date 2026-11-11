@@ -227,3 +227,17 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [note] (p.194) When weighing Sudou's value, Ayanokōji says few in the whole school have comparable abilities, including Kouenji.
 
 <!-- walk: y1v4.5 ch6 → p.204 -->
+
+## y1v5
+
+<!-- walk: y1v5 → start -->
+
+### y1v5 p.39–53 — Ch.3 §3: Refuses to cooperate
+[scene] (p.45) Sudou confronts Kōenji over his abstention in the homeroom vote; Kōenji refuses to join the festival plan.
+[says] (p.45) “I have no interest in this.”
+[says] (p.45) “I have no reason to let you bully me into anything,”
+[rel:hirata-yousuke] (p.45) Hirata ends the standoff — “Kouenji-kun must have his reasons.”
+[rel:sudou-ken] (p.49) Ignores Sudou’s taunts at the meter — “I’ll pass. Ignore me.” — polishing his fingernails instead.
+[note] (p.49–51) Refuses the grip-strength meter when Sudou challenges him; Ayanokōji later writes “Kouenji aside, I ended up placing second in the class,” so Kōenji ranked above without a printed figure.
+
+<!-- walk: y1v5 ch3 → p.53 -->

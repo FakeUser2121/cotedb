@@ -546,3 +546,13 @@ aliases used for anchors: ike, kanji, ike-kun
 [says] (p.27) “Hey, check out that girl,”
 
 <!-- walk: y1v5 ch2 → p.38 -->
+
+### y1v5 p.39–53 — Ch.3 §3: Grip strength and the scavenger hunt
+[scene] (p.50) Ike takes his turn at the grip-strength meter and pleads for bonus points on his score.
+[says] (p.50) “I got a 42.6.”
+[rel:hirata-yousuke] (p.50) Begs Hirata to round 42.6 up to 50 — “Can you give me a few tiny bonus points and make it 50?”
+[rel:hirata-yousuke] (p.51) Asks whether the luck events are closed: “Hey, Hirata, are we not getting any more chances to enter events?”
+[rel:hirata-yousuke] (p.51) Asks Hirata: “So, how are we going to decide that?” — when Hirata says the scavenger hunt is decided by luck.
+[rel:sotomura-hideo] (p.52) “I’m so jealous!” — after Ayanokōji’s group is picked for the scavenger hunt.
+
+<!-- walk: y1v5 ch3 → p.53 -->

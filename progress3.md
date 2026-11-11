@@ -1383,3 +1383,12 @@ exam gain their ledgers (both directory-level so far). Quotes: 91
 [says] and 18 non-says spans, corpus-exact; R18/R19 held at 0/82.
 Determinism hash across consecutive builds:
 `211625d520c12d9eb5b3b4697d06103b`.
+
+Chapter 3 fills the homeroom strategy scene (the blackboard vote and the
+16–13 split), the entrance betrayal warning, and the grip-strength roster;
+five more Class 1-D classmates gain directory-level ledgers (Onodera,
+Hondō, Miyamoto, Miyake, Mori). The class point compromise joins the
+private-points rules; the four-way tug-of-war and the rock-paper-scissors
+staffing join the Sports Festival exam. Quotes: 125 [says] and 78 non-says
+spans, corpus-exact; R18/R19 held at 0/82. Determinism hash across
+consecutive builds: `bfc0ce9e40792479cf8bbc9187ba29f1`.

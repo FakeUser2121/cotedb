@@ -622,3 +622,10 @@ aliases used for anchors: sakura, airi, sakura-san
 [rel:sakayanagi-arisu] (p.30) One of the two girls Sakayanagi is measured against when Class D’s boys size her up.
 
 <!-- walk: y1v5 ch2 → p.38 -->
+
+### y1v5 p.39–53 — Ch.3 §3: Follows Sudou’s hand
+[scene] (p.43) Sakura raises her hand with Sudou and Yukimura for Horikita’s ability plan during the homeroom vote.
+[action] (p.43) Votes with the ability camp — one of the sixteen hands for Horikita’s plan.
+[rel:sudou-ken] (p.43) Follows Sudou’s declared choice into the same camp.
+
+<!-- walk: y1v5 ch3 → p.53 -->
