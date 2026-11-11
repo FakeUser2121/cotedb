@@ -691,3 +691,54 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:kushida-kikyou] (p.124) Counterfactual: had Kushida cooperated, she would have reached classmates Hirata and Karuizawa could not.
 [note] (p.124) No dialogue from Karuizawa on these pages.
 <!-- walk: y1v6 ch5 → p.131 -->
+
+### y1v6 p.145–146 — Ch.6: the friend Hasebe will not ask
+[scene] (p.145) Hasebe’s first referral for Satou intel; Ayanokōji rules her out as too close to Satou.
+[says:hasebe-haruka] (p.145) “Satou-san? No, not especially. I don’t really like big groups, anyway. If you’re curious about her, shouldn’t you ask Karuizawa-san?”
+[says:miyake-akito] (p.146) “Yeah. Asking Karuizawa might be one thing, but Kushida should be good, right? She gets along with everyone, doesn’t she, Hasebe?”
+[rel:satou-maya] (p.145) Named as the closer source for anything about Satou.
+[rel:ayanokouji-kiyotaka] (p.145) He will not ask her — talking to anyone too close to Satou would spread the partner rumour.
+[note] (p.145–146) Named only in this chapter’s first half.
+
+### y1v6 p.157–158, 163–167 — Ch.6 §6.4, §6.6: the errand, the birthday, the juice
+[scene] (p.157) Texts Ayanokōji about Hasebe’s sugar rumour, then at the karaoke meeting dumps grape juice on Kushida after a rising rant.
+[says:karuizawa-kei] (p.157) “I confirmed that a girl was walking around today asking whether people saw how much sugar Hasebe-san puts in her coffee. Apparently, Hasebe puts a ton in, so people had noticed.”
+[says:karuizawa-kei] (p.158) “I think that Horikita’s going to contact you about tomorrow, but we plan to meet around 8 p.m.”
+[says:karuizawa-kei] (p.158) “Isn’t that pretty late? Karuizawa asked.”
+[says:karuizawa-kei] (p.158) “A movie? Are you seeing that new one, by any chance?”
+[says:karuizawa-kei] (p.158) “This is another super-annoying errand. What are you even after?”
+[says:karuizawa-kei] (p.158) “Yeah, sure. See ya tomorrow.”
+[says:karuizawa-kei] (p.163) “Hey, is it okay if I sing?”
+[says:karuizawa-kei] (p.163) “Even though we came all this way, and there’s karaoke right here?”
+[says:karuizawa-kei] (p.163) “Then let’s sing a duet together after the meeting’s over, Yousukekun.”
+[says:karuizawa-kei] (p.163) “I agree,” replied Karuizawa. “I do want to make sure we discuss this test, but it’s been quite a while since I could do karaoke.”
+[says:karuizawa-kei] (p.164) “Huh? That’s so stupid!”
+[says:karuizawa-kei] (p.164) “No, no, no, I do. Even I know pi is 3.14,”
+[says:karuizawa-kei] (p.165) “Yeah. But are we really going to do okay?”
+[says:karuizawa-kei] (p.165) “Look, I hate the idea of having fewer classmates. But this test always gets someone kicked out, right? So, like, there’s no guarantee Sudou-kun and I won’t fail, right?”
+[says:karuizawa-kei] (p.165) “Then don’t act like it’s a done deal.”
+[says:karuizawa-kei] (p.165) “You know, Kushida-san, I kinda feel as if you’ve been paying us lip service for a while now,”
+[says:karuizawa-kei] (p.165) “Man, it sure must be nice. Being smart, I mean. You don’t have any idea what’s gonna happen to me,”
+[says:karuizawa-kei] (p.165) “Kushida-san, I’ve wanted to say this to you for a while now. Don’t you think you’re taking this goody two-shoes act a bit too far?”
+[says:karuizawa-kei] (p.165) “Be quiet, Horikita-san. Hey, Kushida-san. Are you making fun of me in your head right now? Thinking about how stupid I am?”
+[says:karuizawa-kei] (p.165) “Then don’t patronize me. Tests are always hard for me, no matter how many I take. Are you going to be responsible if I fail?”
+[says:karuizawa-kei] (p.166) “B-but… Are you saying I’m in the wrong here?”
+[says:karuizawa-kei] (p.166) “Oh, sure. I’m the bad guy. Kushida-san is the class’s favorite, after all,”
+[says:karuizawa-kei] (p.166) “Hey, Ayanokouji-kun. Whose side are you on?”
+[says:karuizawa-kei] (p.166) “I knew it. Everyone is my enemy,”
+[says:karuizawa-kei] (p.166) “So, what do you want me to do, then?”
+[says:karuizawa-kei] (p.166) “So, even though I don’t think I did anything wrong, I have to apologize?”
+[says:karuizawa-kei] (p.167) “I guess I lost my cool. Sorry,” she said again.
+[says:karuizawa-kei] (p.167) “Well, it’s not exactly an apology, but at least let me cover your cleaning fee,”
+[says:karuizawa-kei] (p.167) “I’d feel too guilty if I didn’t.”
+[says:karuizawa-kei] (p.167) “Yeah. Please let me do this much,”
+[action] (p.166) Dumps her grape juice over Kushida’s blazer in front of the whole meeting.
+[feat] (p.157–158) Runs Ayanokōji’s Hiyori errand the same night and is the first person to notice his birthday.
+[rel:kushida-kikyou] (p.165–167) The juice dump and forced apology; still pays the cleaning fee.
+[rel:hirata-yousuke] (p.163, 166–167) Duet plan; he stops the hand holding the cup and demands the apology.
+[rel:ayanokouji-kiyotaka] (p.157–158) Errand text, birthday cake sticker “Happy belated.”, March 8 remembered.
+[rel:horikita-suzune] (p.165–166) Told to be quiet twice; cannot defend the dump.
+[rel:sudou-ken] (p.164) Snaps at him over pi; both fail-prone in her own read.
+[trait] (p.163–167) Anxiety about expulsion surfaces as an attack on the class’s favourite; guilt after, but she pays and sits back down.
+
+<!-- walk: y1v6 ch6 → p.176 -->

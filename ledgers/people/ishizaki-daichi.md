@@ -56,3 +56,16 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [says:ishizaki-daichi] (p.94) “There’s no way you can do it?!”
 [rel:ryuuen-kakeru] (p.101) Yukimura: without subject mastery neither Ryuuen nor Ishizaki can write tricky questions.
 [note] (p.101) Named in the Pallet question-writer debate; not present for that stretch.
+
+### y1v6 p.136–137 — Ch.6 §6.1: collar grab, then silence
+[scene] (p.136) One of Ryuuen’s goons standing behind him at the café table when the cup is crushed.
+[action] (p.136) Grabs Miyake by the collar after Miyake tells Ryuuen to knock it off.
+[says:ishizaki-daichi] (p.136) “Bastard!”
+[says:ishizaki-daichi] (p.136) “S-sorry. Miyake was getting full of himself, so I—”
+[says:ishizaki-daichi] (p.136) “Yes…”
+[limit] (p.136) Reined in by Ryuuen the moment he shouts; the café has clerks, seniors and cameras.
+[rel:miyake-akito] (p.136) Collar grab; Miyake shakes off the grip and calls him a lackey.
+[rel:ryuuen-kakeru] (p.136) Obeys the order to behave without argument.
+[rel:shiina-hiyori] (p.136–137) Stands beside him; Ayanokōji notes how unusually polite he is around her.
+
+<!-- walk: y1v6 ch6 → p.176 -->

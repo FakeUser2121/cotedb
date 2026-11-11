@@ -686,3 +686,46 @@ aliases used for anchors: sakura, airi, sakura-san
 [says:sakura-airi] (p.98) “B-but I…I’ve hardly ever spoken to them before.”
 [rel:yukimura-teruhiko] (p.102) Still has not come over when the group leaves.
 [trait] (p.97–98) Public places remain hard; she almost flees to the dorm but holds her seat — something is going on in her mind.
+
+### y1v6 p.152–154 — Ch.6 §6.3: she asks to join the new group
+[scene] (p.152) Has tailed every study session; when the four stand outside the convenience store and name the Ayanokouji Group, she trips out of hiding and forces a request.
+[says:sakura-airi] (p.152) “U-u-um, excuse me!”
+[says:sakura-airi] (p.152) “I-I also want to join Ayanokouji-kun’s group!”
+[says:sakura-airi] (p.153) “N-no, it’s not that. I just… I genuinely want to join the group!”
+[says:sakura-airi] (p.153) “Is letting me join really all right?”
+[says:sakura-airi] (p.153) “Th-thank you, Miyake-kun… Yukimura-kun…”
+[says:sakura-airi] (p.153) “Ah…so I-I, uh, I can’t…?”
+[says:sakura-airi] (p.154) “U-um…”
+[says:sakura-airi] (p.154) “K-Keisei-kun, Akito-kun, Haruka…san… Whew…”
+[says:sakura-airi] (p.154) “Ki-Kiyo-Kiyo…pyo!”
+[says:sakura-airi] (p.154) “Yeah…K-Kiyotaka-kun. I look forward to studying with you all.”
+[says:sakura-airi] (p.154) “H-hello!”
+[feat] (p.152–154) Walks up to a new friend group uninvited, takes Haruka’s first-name test, and says Airi’s name back — the biggest social step in her record so far.
+[rel:ayanokouji-kiyotaka] (p.152–154) The group is named for him; he supplies her first name Airi without hesitation and encourages her after the test.
+[rel:hasebe-haruka] (p.153–154) Haruka holds the smile back and runs the first-name rule as a gate; only then votes yes.
+[rel:yukimura-teruhiko] (p.153) Suggests she join Horikita’s group instead; concedes when Akito and Haruka accept.
+[rel:miyake-akito] (p.153) First to say she fits: all loners, no qualifications needed.
+[trait] (p.152–154) Crooked glasses, deep blush, stammer that worsens under attention — but she does not leave until the vote is in.
+
+### y1v6 p.156, 159–162 — Ch.6 §6.4–6.5: the movie seat and the jealousy check
+[scene] (p.156) Texts that she wants to go; at the theater she walks beside Ayanokōji and later quizzes him about Satou.
+[says:sakura-airi] (p.156) “I want to go, too.”
+[says:sakura-airi] (p.156) “I’m really excited about tomorrow, Kiyotaka-kun. Goodnight.”
+[says:sakura-airi] (p.159) “It kinda feels exciting to go out with everyone…K-Kiyotaka-kun,”
+[says:sakura-airi] (p.159) “Hee hee. Kiyotaka-kun.”
+[says:sakura-airi] (p.159) “Huh? What do you mean?”
+[says:sakura-airi] (p.159) “I-I did?! S-sorry, you must’ve heard wrong!”
+[says:sakura-airi] (p.161) “Um, K-Kiyotaka-kun?”
+[says:sakura-airi] (p.161) “Well, Kiyotaka-kun, it’s… Recently, you’ve gotten along pretty well with, um, Satou-san, right?”
+[says:sakura-airi] (p.161) “B-but…p-people don’t normally walk, um, a-arm-in-arm like that, do they?”
+[says:sakura-airi] (p.161) “Well, if you dislike it, you could just, um, shake her off,”
+[says:sakura-airi] (p.162) “Before we partnered up, you went somewhere with Satou-san alone, didn’t you?”
+[says:sakura-airi] (p.162) “I-Is there s-something g-going between you two?”
+[says:sakura-airi] (p.162) “N-no, I am. S-sorry. I’ve been asking you all these strange questions… Did I make you uncomfortable?”
+[says:sakura-airi] (p.162) “I’ll keep an eye on you, then, Kiyotaka-kun,” she replied. “L-Leave it to me!”
+[feat] (p.161–162) Names the arm-in-arm and the earlier solo meeting without being told; her timid pushbacks are correct and Ayanokōji concedes each one.
+[rel:ayanokouji-kiyotaka] (p.156–162) First-name texts at night; jealousy check about Satou; promised she can ask anytime.
+[rel:satou-maya] (p.161–162) Watches the partner closeness and the classroom call-out; will keep an eye on them.
+[trait] (p.159–162) Still stammers when she says his name, but she does not drop the questions until she has answers she can accept.
+
+<!-- walk: y1v6 ch6 → p.176 -->

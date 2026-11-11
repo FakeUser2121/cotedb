@@ -438,3 +438,31 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [rel:sakayanagi-arisu] (p.80) Sakayanagi likely chose Class A’s nomination; Katsuragi probably would have nominated Class D for Class A’s best chance.
 [rel:sakayanagi-arisu] (p.80) His influence is on the decline in this reading.
 [note] (p.80) No dialogue or action from Katsuragi on these pages.
+
+### y1v6 p.168–170, 173–174 — Ch.6 §6.7: fountain talk and the letter read
+[scene] (p.168) Standing by a fountain thinking about the final; walks Ayanokōji back to the dorm and finds the lobby crowd around the mass letter.
+[says:katsuragi-kouhei] (p.168) “Ayanokouji? Oh, nothing. Just thinking a little about the final exam next week,”
+[says:katsuragi-kouhei] (p.168) “I wanted some time alone to think in peace and quiet,”
+[says:katsuragi-kouhei] (p.168) “Is that so? It would be nice if no one were expelled,”
+[says:katsuragi-kouhei] (p.168) “When you were in junior high, were you ever class representative or on the student council?”
+[says:katsuragi-kouhei] (p.168) “I’ve been a student council member since elementary school. I even served as student council president in both elementary and junior high. But, after coming to this school, I had to make some significant course corrections,”
+[says:katsuragi-kouhei] (p.168) “I wanted to, but I couldn’t get Student Council President Horikita’s attention.”
+[says:katsuragi-kouhei] (p.168) “At first glance, the student council president and class representatives don’t appear to have much authority. Most students think that participating is nothing more than a waste of time and effort. That’s why only a few people”
+[says:katsuragi-kouhei] (p.169) “want to join the council,”
+[says:katsuragi-kouhei] (p.169) “However, those roles come with certain privileges. There’s a divide between people who hold the positions and people who don’t—one that can’t be crossed. I’ve lost those privileges,”
+[says:katsuragi-kouhei] (p.169) “If that were the case, we absolutely wouldn’t have chosen Class B as our target for the final exam,”
+[says:katsuragi-kouhei] (p.169) “It’s fine. You understand what it’s like.”
+[says:katsuragi-kouhei] (p.169) “I suppose. Hmm…to be told to maintain my position by a Class D student who should be chasing after us,”
+[says:katsuragi-kouhei] (p.170) “Yes, it would seem so!”
+[says:katsuragi-kouhei] (p.170) “What is that guy planning by signing his name to this? If this claim is baseless, the school will take disciplinary action against him.”
+[says:katsuragi-kouhei] (p.170) “Well, I suppose that this is something I could see Ryuuen doing. If people start to suspect Ichinose of fraud, it’ll make her life difficult, regardless of whether it’s true. What Ryuuen is doing could be considered defamation, but he wouldn’t care about something like that,”
+[says:katsuragi-kouhei] (p.173) “What is that guy plotting? Even if Ichinose has lots of points, she’s far from the kind of person who’d steal them. Ryuuen has absolutely no chance of succeeding,”
+[says:katsuragi-kouhei] (p.174) “Once the seed of doubt is planted, that doubt will grow until it’s eradicated. Even an exemplary student like Ichinose isn’t exempt. The deeper the doubt, the greater the loss of trust,”
+[feat] (p.168–169) Student-council presidency since elementary, lost here when Horikita would not notice him; reads the Class A standing gap out loud.
+[rel:ayanokouji-kiyotaka] (p.168–169) Honest fountain talk; amused to be told to maintain his position by Class D.
+[rel:horikita-suzune] (p.168) Could not get Student Council President Horikita’s attention.
+[rel:ryuuen-kakeru] (p.170, 173–174) Reads the signed letter as deliberate defamation with no reputation to lose.
+[rel:ichinose-honami] (p.173–174) Believes she will not succeed in casting doubt; still watches the seed go in.
+[rel:sotomura-hideo] (p.169–170) Both open the same mass letter in the lobby.
+
+<!-- walk: y1v6 ch6 → p.176 -->

@@ -47,3 +47,34 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [says:hasebe-haruka] (p.102) “You’re really smart, Ayanokouji-kun,”
 [says:hasebe-haruka] (p.102) “Well, I’m not in any clubs, so I’m good. Let’s decide when to meet based on what works for Miyacchi.”
 [says:hasebe-haruka] (p.102) “If it were just me getting expelled, I wouldn’t care. But I don’t want to drag you down with me, Miyacchi. You know?”
+
+### y1v6 p.132–135 — Ch.6 §6.0: the fifth session and the gossip derail
+[scene] (p.132) Fifth study session in the Keyaki Mall café; she insists café beats a stuffy room and accepts Yukimura’s humanities packet.
+[says:hasebe-haruka] (p.132) “Wow, it’s even noisier than I imagined,”
+[says:hasebe-haruka] (p.132) “No way. It’s easier to do it here. Right, Miyacchi?”
+[says:hasebe-haruka] (p.133) “Whoa. You really went overboard. You’re merciless, Yukimuu!”
+[says:hasebe-haruka] (p.133) “It’s just… There are clearly way more questions here than last time, and they look harder.”
+[says:hasebe-haruka] (p.133) “In that case, are the questions simpler than last time?”
+[says:hasebe-haruka] (p.134) “Wow, you’re getting pretty gung-ho there, Miyacchi. What’s up with you? Is your blood boiling?”
+[says:hasebe-haruka] (p.134) “If you don’t have any free time, why not quit the club?”
+[says:hasebe-haruka] (p.134) “Wow, selfish.”
+[says:hasebe-haruka] (p.134) “Just do it, Ayanokouji-kun. Let’s all die together,”
+[says:hasebe-haruka] (p.135) “That reminds me. There’s a guy named Yoshimoto-kun in Class C, right? Do you know him, Miyacchi?”
+[says:hasebe-haruka] (p.135) “I heard that he started going out with a second-year. You know about that?”
+[says:hasebe-haruka] (p.135) “It seems as if Yoshimoto-kun’s really into it. He said they’re going to get married someday. Jeez, guys are morons, aren’t they?”
+[says:hasebe-haruka] (p.135) “I know, I know. We’re just taking a short break,”
+[says:hasebe-haruka] (p.135) “Wow, okay, I feel those sarcastic vibes. I’m gonna get a refill.”
+[says:hasebe-haruka] (p.135) “Well, I struggle to understand why anyone would drink their coffee black.”
+[rel:miyake-akito] (p.132–135) Nickname Miyacchi stands; they study side by side and then derail into Yoshimoto gossip.
+[rel:yoshimoto-kosetsu] (p.135) Gossip target: Class C archery club, dating a second-year, talking marriage — no scene with him.
+[trait] (p.132–135) Hates studying and her weakest subject, yet stays for the fifth session; coffee is so sweet the dregs let Hiyori reverse-engineer the sugar.
+
+### y1v6 p.156 — Ch.6 §6.4: group-chat organizer
+[scene] (p.156) Creates the group chat and books the movie tickets once everyone replies.
+[says:hasebe-haruka] (p.156) “Of course! You’re part of the group, Yukimuu. But I guess I did spring this on you guys. If you don’t have time, we can wait and go after the test.”
+[says:hasebe-haruka] (p.156) “Sure. I’ll collect points from you later. Thanks, everyone!”
+[rel:yukimura-teruhiko] (p.156) Invites him by nickname first.
+[rel:sakura-airi] (p.156) Airi replies seconds later that she wants to go.
+[trait] (p.156) Runs the social logistics of the new group the way she runs nicknames — first and without waiting.
+
+<!-- walk: y1v6 ch6 → p.176 -->

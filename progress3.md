@@ -1495,3 +1495,13 @@ Quote hygiene: 651 [says] spans (none too short) and 64 non-says spans,
 corpus-exact; volume prose that said “ledger” was reworded before
 ship and R18 returned to 0. Determinism hash across consecutive
 builds: `2f738b9aaacb24c55f04f37f4b9178de`.
+
+Year 1 Volume 6 chapter 6 is forty-five pages across the group’s
+formation, the movie, the karaoke juice dump and Ryuuen’s signed fraud
+letter, written in two halves with stamps on the last file batch.
+Twenty-three people ledgers gain blocks; new ledgers for Shiina Hiyori
+and Yoshimoto Kosetsu; first y1v6 headings for Komiya, Kondou,
+Katsuragi, Hiyori and Yoshimoto. Quote hygiene: 895 [says] spans (8
+too short) and 69 non-says spans, corpus-exact; “ledger” and a bare
+“What are you?” outside quotes were reworded before ship. Determinism
+hash across consecutive builds: `632cf1772c1ef4ec692d7a46f0462094`.

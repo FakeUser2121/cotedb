@@ -766,3 +766,22 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:horikita-suzune] (p.116) Mediator for Kushida declined — Horikita will settle it herself.
 [note] (p.116) Does not appear for the Kushida confrontation stretch; only the earlier library and corner talk.
 <!-- walk: y1v6 ch5 → p.131 -->
+
+### y1v6 p.170–174 — Ch.6 §6.7: the fraud letter answered calmly
+[scene] (p.170) Arrives as Ryuuen’s signed letter circulates; refuses to open her point book to the lobby and routes the proof to the school.
+[says:ichinose-honami] (p.170) “No matter what I say to you right now, you probably won’t believe me, will you, Ryuuen-kun?”
+[says:ichinose-honami] (p.171) “I suppose so. Sorry, everyone. But please don’t worry. I’ll report to the teachers tomorrow and prove that this is just a misunderstanding on Ryuuen-kun’s part,”
+[says:ichinose-honami] (p.173) “I’ll explain everything in detail. I’ll tell them how many points I have, and how I acquired them. If I do that, will you be satisfied?”
+[says:ichinose-honami] (p.173) “Will you believe me if I just explain it to you, Ryuuen-kun?”
+[says:ichinose-honami] (p.173) “Then it stands to reason that, if I report my total points to the school, there shouldn’t be any room for fraud, right?”
+[says:ichinose-honami] (p.173) “In that case, what can I do to make you believe me?”
+[says:ichinose-honami] (p.173) “I can’t accept, Ryuuen-kun.”
+[says:ichinose-honami] (p.173) “That’s not what I’m saying. It’s precisely because I didn’t obtain my points illegally that I can’t just show you all my cards. If I explain everything to the school tomorrow, they should investigate. On top of that, if I did commit fraud, they’d make everything public anyway, right?”
+[says:ichinose-honami] (p.174) “Then go yourself, Ryuuen-kun. Tell them just what you wrote down in this letter,”
+[feat] (p.171–174) Holds a calm smile through the whole standoff and wins the room without opening her balance; the school clears her the next day.
+[rel:ryuuen-kakeru] (p.170–174) The letter’s target; she turns his proof-demand into a school-report offer he cannot cleanly refuse.
+[rel:katsuragi-kouhei] (p.173–174) He bets she will not crack; the next-day notice proves him right.
+[rel:ayanokouji-kiyotaka] (p.174) Notes she has held well over one million personal points since earlier in the year.
+[trait] (p.171–174) Proud rather than panicked; answers accusation with process, not outrage.
+
+<!-- walk: y1v6 ch6 → p.176 -->

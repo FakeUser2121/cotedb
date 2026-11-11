@@ -588,3 +588,51 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:horikita-suzune] (p.129–130) Wants her brought low, not expelled; would see through a Kushida lie about math answers.
 [note] (p.106) The email body is one line of dialogue from Ryuuen; no scene presence on these pages.
 <!-- walk: y1v6 ch5 → p.131 -->
+
+### y1v6 p.136–138 — Ch.6 §6.1: the café crash and the “gift”
+[scene] (p.136) Ryuuen arrives at the study-group table with Ishizaki, Komiya, Kondou and a calm new girl; Hasebe’s dropped cup rolls to his feet and he crushes it.
+[says:ryuuen-kakeru] (p.136) “My, you seem to be enjoying yourselves. Mind if we join?”
+[says:ryuuen-kakeru] (p.136) “It rolled up to my feet, so I thought you were throwing it away. I stomped it to save you the trouble,”
+[says:ryuuen-kakeru] (p.136) “Oh? And whom exactly do you think you’re speaking to, buddy?”
+[says:ryuuen-kakeru] (p.136) “Shut up. Are you really trying to throw down, Ishizaki?”
+[says:ryuuen-kakeru] (p.136) “Reckless idiots amuse me, but I need you to behave yourself for now.”
+[says:ryuuen-kakeru] (p.136) “I have no business with you. I’m interested in those two,”
+[says:ryuuen-kakeru] (p.136) “Did you receive my gift?”
+[says:ryuuen-kakeru] (p.137) “So, how about it? Did you catch something, Hiyori?”
+[says:ryuuen-kakeru] (p.137) “Heh heh, come now. These are our future friends, after all.”
+[says:ryuuen-kakeru] (p.137) “It was Hirata.”
+[says:ryuuen-kakeru] (p.137) “It looks like the only one you’ll remember is Kouenji.”
+[says:ryuuen-kakeru] (p.137) “Nothing. I just came to say hello. But I’ll tell you something. We’ll be seeing you again real soon,”
+[feat] (p.136) Reads the surveillance and cameras correctly enough to rein Ishizaki in before Class C pays for trouble.
+[rel:ayanokouji-kiyotaka] (p.136–137) The “gift” is the earlier dummy-account email; he feigns ignorance.
+[rel:shiina-hiyori] (p.137) Calls her Hiyori; she is calm where the goons are not.
+[rel:ishizaki-daichi] (p.136) Silences him the moment he shouts.
+[rel:komiya-kyogo] (p.136) Named as one of the evergreen trio of goons behind him.
+[rel:kondou-reo] (p.136) Named as one of the evergreen trio of goons behind him.
+[rel:yukimura-teruhiko] (p.136–137) Part of the “gift” question; Yukimura is bewildered.
+[rel:kouenji-rokusuke] (p.137) Hiyori will remember only Kouenji; Ryuuen treats him as a talent to watch.
+[rel:hirata-yousuke] (p.137) Named as the fourth face from the earlier group.
+
+### y1v6 p.170–174 — Ch.6 §6.7: the signed letter and the lobby confrontation
+[scene] (p.170) Enters the dorm lobby to the crowd his signed letter created; faces a Class B student and then Ichinose.
+[says:ryuuen-kakeru] (p.170) “Hmm? What in the world are you talking about?”
+[says:ryuuen-kakeru] (p.170) “Oh, that. Pretty interesting stuff, huh?” said Ryuuen.
+[says:ryuuen-kakeru] (p.170) “Fine then, let’s see some proof that Ichinose isn’t collecting points illegally,”
+[says:ryuuen-kakeru] (p.171) “That’s right. Besides, it’s up to the school to decide whether you’re doing something wrong.”
+[says:ryuuen-kakeru] (p.173) “How exactly do you plan on proving that, Ichinose?”
+[says:ryuuen-kakeru] (p.173) “Report it to the school? Why don’t you prove it right now, in front of all of us?”
+[says:ryuuen-kakeru] (p.173) “No, I won’t. Spewing lies is probably as easy for you as breathing,”
+[says:ryuuen-kakeru] (p.173) “Heh. I see. I suppose you have a point,”
+[says:ryuuen-kakeru] (p.173) “Humans are nasty, lying creatures. Isn’t it possible that Ichinose is coming up with some kind of scheme to hide the evidence right now?”
+[says:ryuuen-kakeru] (p.173) “First off, say how many points you have right here and now. Second, explain how you acquired those points. I’ll report that information to the school tomorrow. If you do that, you’ll convince the students who distrust you, right?”
+[says:ryuuen-kakeru] (p.173) “So, you admit that you committed fraud?”
+[says:ryuuen-kakeru] (p.174) “There’s no guarantee that you’ll report your total points to the school like you say you will.”
+[says:ryuuen-kakeru] (p.174) “Really? Heh. Seems like you’re pretty confident.”
+[action] (p.170) Signs his name to a mass mailbox letter claiming Ichinose Honami may be collecting points illegally.
+[feat] (p.170–174) Plants doubt with his own name on the paper, then refuses to accept a school-report answer until the crowd has already heard the accusation.
+[rel:ichinose-honami] (p.170–174) The target; he taunts her into a public standoff she turns into a school-report plan.
+[rel:katsuragi-kouhei] (p.170, 173–174) Katsuragi reads the letter as defamation Ryuuen can afford.
+[rel:sotomura-hideo] (p.170) Letter in the Professor’s hands with everyone else’s.
+[rel:ayanokouji-kiyotaka] (p.170) Present in the lobby crowd; watches the exchange.
+
+<!-- walk: y1v6 ch6 → p.176 -->

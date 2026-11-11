@@ -1050,3 +1050,34 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [note] (p.122) One line I nearly tagged as Kushida is Ayanokōji’s narration about her guts; not a spoken line.
 [note] (p.131) Blank scan (footer only).
 <!-- walk: y1v6 ch5 → p.131 -->
+
+### y1v6 p.145–147 — Ch.6: the Kyo-chan referral and the vital-asset read
+[scene] (p.145) Recommended as the person who can be trusted with anything about the class’s internal affairs.
+[says:hasebe-haruka] (p.145) “If it’s hard to ask Karuizawa-san, why not try asking Kyo-chan? She and Satou-san are close.”
+[says:hasebe-haruka] (p.145) “I’m talking about Kikyou-chan. You hang out with her a lot, don’t you, Ayanokouji-kun?”
+[says:hasebe-haruka] (p.146) “Mm-hmm. There’re a lot of girls I hate, but I like Kyo-chan. She does so much for the class without even batting an eye, and she’s always cheerful. Normally, I don’t like talking to other people, but Kyo-chan is special. She actually listens to you, and she’d never ever go around telling others what you said.”
+[says:hasebe-haruka] (p.146) “Right?” agreed Hasebe. “I don’t know whether you like Satou-san or not, but if you told Kushida-san, she definitely wouldn’t let it slip.”
+[thinks] (p.146–147) Ayanokōji rates her a vital asset Class D cannot afford to lose; everyone speaks well of her in her absence.
+[rel:hasebe-haruka] (p.145–146) Hasebe’s exception among the girls she hates; Kyo-chan is special.
+[rel:ayanokouji-kiyotaka] (p.145) Named as the person he hangs out with; he withholds the referral because of the Horikita issue.
+[rel:satou-maya] (p.145) Close to Satou per Hasebe — the reason she is suggested as the Satou-intel source.
+
+### y1v6 p.165–167 — Ch.6 §6.6: juice, forgiveness, no spare blazer
+[scene] (p.165) Says she would hate to lose anyone; takes Karuizawa’s rant and the grape juice without fighting back.
+[says:kushida-kikyou] (p.165) “I’d absolutely hate to lose anybody from Class D,”
+[says:kushida-kikyou] (p.165) “Well, I can’t guarantee that,” Kushida said. “But…”
+[says:kushida-kikyou] (p.165) “R-really? But I just want everyone to pass,”
+[says:kushida-kikyou] (p.165) “I wouldn’t do something like that,”
+[says:kushida-kikyou] (p.166) “I’m fine, really. I don’t mind. Please don’t blame Karuizawa-san, okay?”
+[says:kushida-kikyou] (p.166) “No, it’s completely all right. I should’ve been more understanding of how you felt, Karuizawa-san,”
+[says:kushida-kikyou] (p.167) “Ah, no. My first blazer got damaged, so this was the only one I had left,”
+[says:kushida-kikyou] (p.167) “I didn’t know there was a dry cleaner,” replied Kushida. “That sounds like a good solution.”
+[says:kushida-kikyou] (p.167) “Really, don’t worry about it,”
+[says:kushida-kikyou] (p.167) “Are you sure?”
+[rel:karuizawa-kei] (p.165–167) Absorbs the rant and the juice; accepts the cleaning fee without demanding the apology first.
+[rel:sudou-ken] (p.167) Takes the dry-cleaner offer for her only spare blazer.
+[rel:horikita-suzune] (p.166–167) Defended after the dump; asked about the spare blazer.
+[rel:hirata-yousuke] (p.166–167) He forces the apology structure; she forgives immediately.
+[trait] (p.165–167) Public face holds even under grape juice: no anger, easy forgiveness, worry about the uniform instead of herself.
+
+<!-- walk: y1v6 ch6 → p.176 -->

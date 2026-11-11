@@ -549,3 +549,11 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [note] (p.112) Aw, I’m beat!
 [note] (p.112) Narration groups Ike and Yamauchi as the two who could not concentrate in normal hours.
 <!-- walk: y1v6 ch5 → p.131 -->
+
+### y1v6 p.149 — Ch.6: the other loner pair Ayanokōji keeps
+[scene] (p.149) Named when Hasebe lists the people Ayanokōji also hangs out with.
+[says:hasebe-haruka] (p.149) “Oh, but Ayanon, since you’re already in a group with Horikita-san, will this be difficult for you? You hang out with Ike-kun and Yamauchi-kun, too,” said Hasebe.
+[rel:ike-kanji] (p.149) Named together with Ike as Ayanokōji’s usual loner companions.
+[note] (p.149) Named only.
+
+<!-- walk: y1v6 ch6 → p.176 -->

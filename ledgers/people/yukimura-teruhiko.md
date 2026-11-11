@@ -326,3 +326,27 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [rel:horikita-suzune] (p.104–105) His, Horikita’s and Hirata’s questions form the fundamental basis; more helpers raise leak risk.
 [note] (p.104–105) No dialogue from Yukimura on these pages; present only in the dorm-call analysis.
 <!-- walk: y1v6 ch5 → p.131 -->
+
+### y1v6 p.132–134 — Ch.6 §6.0: teaching method under fire
+[scene] (p.132) Fifth session at the Keyaki Mall café; he is overwhelmed by the crowd and wishes they had met in the library or his room.
+[says:yukimura-teruhiko] (p.133) “How can you be so terrified before you even start?”
+[says:yukimura-teruhiko] (p.133) “Of course not.”
+[says:yukimura-teruhiko] (p.133) “Come on, Hasebe.”
+[says:yukimura-teruhiko] (p.133) “Of course.”
+[says:yukimura-teruhiko] (p.134) “All right, Ayanokouji. Starting today, I’ll have you do these, too.”
+[says:yukimura-teruhiko] (p.134) “You get good enough grades, but your partner is Satou. You’ll need to prepare and review thoroughly so you don’t both get kicked out,”
+[feat] (p.133) Chides without raising his voice and never gives up when they fail to understand; Ayanokōji rates him as possibly a real teacher someday.
+[rel:hasebe-haruka] (p.132–134) Flexible finish-the-material method; he lets her grumble and still assigns the harder packet.
+[rel:miyake-akito] (p.133–134) Lets Miyake leave early once the material is done; different from Horikita’s fixed hours.
+[rel:horikita-suzune] (p.133–134) Teaching methods compared in narration: fixed time (Horikita) versus until-finished (Yukimura).
+[rel:ike-kanji] (p.133) Method would bust on lazy students like Ike — they would answer without thinking to escape early.
+
+### y1v6 p.156–158 — Ch.6 §6.4: conditional yes to the movie
+[scene] (p.156) Accepts the group-chat movie once Akito agrees; also noted on Horikita’s prep call as the co-tutor Ayanokōji will consult.
+[says:yukimura-teruhiko] (p.156) “I suppose that taking a break is a good idea. When you say “you all,” I assume I’m invited?”
+[says:yukimura-teruhiko] (p.156) “All right. If Akito goes, I’ll come as well,”
+[rel:hasebe-haruka] (p.156) Invited as Yukimuu; answers before Akito has even seen the messages.
+[rel:horikita-suzune] (p.157) Named on her prep call as someone Ayanokōji must consult.
+[rel:miyake-akito] (p.156) Gate for his own attendance.
+
+<!-- walk: y1v6 ch6 → p.176 -->

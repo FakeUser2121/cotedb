@@ -977,3 +977,28 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:karuizawa-kei] (p.104, 124) Night sessions attract girls around Hirata even with Karuizawa there; later named with Karuizawa as the pair who could not reach the classmates Kushida would have influenced.
 [note] (p.124) Counterfactual in Ayanokōji’s reflection — no Hirata dialogue on these pages.
 <!-- walk: y1v6 ch5 → p.131 -->
+
+### y1v6 p.137 — Ch.6: fourth face in the suspect recital
+[scene] (p.137) Named when Hiyori recites the faces from the earlier Class D group Ryuuen suspects.
+[says:ryuuen-kakeru] (p.137) “It was Hirata.”
+[says:shiina-hiyori] (p.137) “Yes, that’s right. Hirata-san. Why are faces and names so hard to remember?”
+[rel:shiina-hiyori] (p.137) One of the four names she manages; she forgets faces more readily than names.
+[note] (p.137) No scene presence; named only.
+
+### y1v6 p.163–167 — Ch.6 §6.6: stopping the juice
+[scene] (p.163) Chairs the karaoke meeting’s social rules with Horikita; grabs Karuizawa’s hand when she dumps the juice.
+[says:hirata-yousuke] (p.163) “Wait, Karuizawa-san. We didn’t meet here to have fun,”
+[says:hirata-yousuke] (p.163) “We came because you said that you didn’t want to use the dorms to study.”
+[says:hirata-yousuke] (p.163) “Sure,” said Hirata. “It’ll be nice to relax afterward.”
+[says:hirata-yousuke] (p.164) “H-Horikita-san, don’t you think that’s going a little too far?”
+[says:hirata-yousuke] (p.166) “Karuizawa-san!” Hirata grabbed Karuizawa’s hand, which still held the cup. “You can’t do this. That’s not okay.”
+[says:hirata-yousuke] (p.166) “Karuizawa-san. If you leave now, you’ll regret it later. I don’t want that,”
+[says:hirata-yousuke] (p.166) “First, apologize to Kushida-san. That’s the most important thing,”
+[says:hirata-yousuke] (p.166) “You have to talk to her,”
+[says:hirata-yousuke] (p.167) “Thank you.” Hirata patted his chest and let out a sigh of relief.
+[rel:karuizawa-kei] (p.163, 166–167) Duet partner and the boyfriend who stops the dump and extracts the apology.
+[rel:kushida-kikyou] (p.166–167) Demands the apology on her behalf; relieved when she forgives.
+[rel:horikita-suzune] (p.164) Protests Sudou’s junior-high rating; co-runs the meeting with Horikita.
+[rel:sudou-ken] (p.164) Defends him against Horikita’s pi jab.
+
+<!-- walk: y1v6 ch6 → p.176 -->

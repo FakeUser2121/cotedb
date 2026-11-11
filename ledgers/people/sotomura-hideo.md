@@ -179,3 +179,13 @@ char_id: sotomura-hideo · class: Class 1-D (enrolled April 2015) · status: min
 [scene] (p.77) Shot a vexed glare with Yamauchi when Sudou called them not much help in the festival.
 [rel:sudou-ken] (p.77) Target of the glare after “Haruki and the Professor weren’t really much help.”
 [note] (p.77) No dialogue of his own on these pages.
+
+### y1v6 p.169–170 — Ch.6 §6.7: the Professor on the mass letter
+[scene] (p.169) Caught in the lobby crowd; tells Ayanokōji every first-year received the same missive.
+[says:sotomura-hideo] (p.169) “Oh, Ayanokouji, is that you? It seems that all us first years somehow received the same missive in our mailboxes.”
+[says:sotomura-hideo] (p.170) “Yes, it would seem so!”
+[rel:ayanokouji-kiyotaka] (p.169–170) The person he flags in the crowd; both unfold the Ryuuen letter together.
+[rel:katsuragi-kouhei] (p.170) Same paper in Katsuragi’s hand moments later.
+[note] (p.170) Shows the same message on his paper; no further speech.
+
+<!-- walk: y1v6 ch6 → p.176 -->

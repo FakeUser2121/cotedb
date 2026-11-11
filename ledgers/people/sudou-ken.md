@@ -962,3 +962,23 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:horikita-suzune] (p.104) Her positive read in the management call.
 [note] (p.104) No dialogue from Sudou on these pages.
 <!-- walk: y1v6 ch5 → p.131 -->
+
+### y1v6 p.149 — Ch.6: the group Miyake does not get along with
+[scene] (p.149) Named when Miyake explains why the new four-person group feels comfortable.
+[says:miyake-akito] (p.149) “Yeah. This isn’t too bad. I feel like I’ve gotten used to being in a group. I don’t get along well with Sudou and those guys, and I think Hirata’s kinda in another league. He’s always surrounded by girls.”
+[rel:miyake-akito] (p.149) Explicit non-fit with Sudou’s circle.
+[note] (p.149) Named only.
+
+### y1v6 p.164, 167 — Ch.6 §6.6: pi, progress, blazer run
+[scene] (p.164) Brags about English fluency, learns he is still first-year junior high, and later offers to rush Kushida’s blazer through the cleaner.
+[says:sudou-ken] (p.164) “It’s like an English dictionary is just flying out of my mouth all the time, dude!”
+[says:sudou-ken] (p.164) “I studied this hard, and I’m still only at a first-year junior high level?”
+[says:sudou-ken] (p.164) “Shut up, Karuizawa. You probably don’t even know it either,”
+[says:sudou-ken] (p.167) “Ain’t there a dry cleaner and a laundromat? I could bring your blazer in with some of my sweaty basketball clothes. If I take them in today, you should get the blazer back first thing tomorrow morning,”
+[feat] (p.167) Practical fix for the juice-stained blazer using the basketball laundry run.
+[rel:horikita-suzune] (p.164) Ceiling rating: elementary start, junior-high now, still far from high-school.
+[rel:kushida-kikyou] (p.167) Volunteers the dry-cleaner run for her only spare blazer.
+[rel:karuizawa-kei] (p.164) Snaps at her pi mockery.
+[rel:hirata-yousuke] (p.164) Hirata softens Horikita’s jab on his behalf.
+
+<!-- walk: y1v6 ch6 → p.176 -->

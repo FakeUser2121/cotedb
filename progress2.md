@@ -2022,3 +2022,33 @@ pp.90–91, 117, 128, 131 noted. verify y1v6: 651 [says] ALL PASS + 64
 non-says ALL PASS; make check OK (R18 0, R19 82/82); gate exit 0; hash
 `2f738b9aaacb24c55f04f37f4b9178de` twice. New tags: none. Next: ch6
 p.132–176.
+
+### y1v6 ch6 (pp.132–176) — walked
+The Ayanokouji Group’s Formation (45 pp, two halves): fifth Yukimura
+session moved to the mall café; Ryuuen’s party crashes with Ishizaki,
+Komiya, Kondou and Shiina Hiyori; Hiyori’s sugar-estimation coffee and
+the Class D master-tactician rumour; Satou-partner anxiety and the
+Kyo-chan referral; nicknames and the Ayanokouji Group named with a
+first-name rule; Yukimura rejects Teruhiko and takes Keisei; Sakura
+joins after Haruka’s test; group-chat movie; Horikita prep call;
+Karuizawa’s Hiyori errand and belated birthday sticker (March 8);
+Satou arm-grab and Airi’s jealousy check; karaoke meeting with Sudou’s
+pi ceiling and Karuizawa’s grape-juice dump on Kushida; Katsuragi
+fountain talk; Ryuuen’s signed mass letter alleging Ichinose collects
+points illegally; Ichinose routes proof to the school and is cleared.
+People stamped: ayanokouji-kiyotaka, hasebe-haruka, hirata-yousuke,
+horikita-suzune, ichinose-honami, ike-kanji, ishizaki-daichi,
+karuizawa-kei, katsuragi-kouhei, komiya-kyogo, kondou-reo,
+kouenji-rokusuke, kushida-kikyou, miyake-akito, ryuuen-kakeru,
+sakura-airi, satou-maya, shiina-hiyori, sotomura-hideo, sudou-ken,
+yamauchi-haruki, yoshimoto-kosetsu, yukimura-teruhiko; volume stamped
+`y1v6 ch6 → p.176`. New ledgers: shiina-hiyori, yoshimoto-kosetsu.
+First y1v6 blocks: komiya-kyogo, kondou-reo, katsuragi-kouhei,
+shiina-hiyori, yoshimoto-kosetsu. R18/R19 regressions pre-ship:
+sakura “ledger so far” reworded to “record”; ryuuen rel “What are you?”
+reworded to earlier dummy-account email (mirrored onto the volume
+page). Blanks pp.139, 172, 175, 176 noted. verify y1v6: 895 [says]
+ALL PASS (8 too short/skipped) + 69 non-says ALL PASS; make check OK
+(R18 0, R19 82/82); gate exit 0; hash
+`632cf1772c1ef4ec692d7a46f0462094` twice. New tags: none. Next: ch7
+p.177–209.

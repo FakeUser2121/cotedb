@@ -2366,3 +2366,34 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ryuuen-kakeru] (p.130) Her biggest gamble yet, read against Ryuuen’s real goal of bringing her low.
 [note] (p.131) Blank scan (footer only).
 <!-- walk: y1v6 ch5 → p.131 -->
+
+### y1v6 p.133, 141 — Ch.6: named only in session comparison and tactician talk
+[scene] (p.133) Her fixed-hour tutoring method is the contrast class for Yukimura’s finish-the-material sessions.
+[rel:yukimura-teruhiko] (p.133) Methods compared: fixed amount of time (Horikita) versus until the material is done (Yukimura).
+[says:miyake-akito] (p.141) “Yeah. The only person I can think of is Horikita-san,”
+[note] (p.141) Class D’s study group names her as the obvious master tactician; Hiyori rejects that answer by name.
+
+### y1v6 p.157, 163–167 — Ch.6 §6.4, §6.6: prep call and the juice dump
+[scene] (p.157) Calls at ten about finishing exam questions; next day chairs the karaoke study meeting and adjudicates Karuizawa’s attack on Kushida.
+[says:horikita-suzune] (p.157) “The library study groups are just about finished. After tomorrow’s session, I’d like to make some final preparations for the exam. Can you come along with me? If you could tell Yukimura-kun as well, that’d be a big help.”
+[says:horikita-suzune] (p.157) “If that’s inconvenient, the day after tomorrow is fine. But Thursday is the limit. The questions are almost complete, but I think we need to change some of them.”
+[says:horikita-suzune] (p.157) “Keisei? It seems like you and Yukimura-kun have gotten quite close. You don’t need to worry about the other two. I already talked to them,” said Horikita.
+[says:horikita-suzune] (p.163) “Just enjoy the food and drinks and deal with it,” said Horikita.
+[says:horikita-suzune] (p.163) “Okay, I’m going to start,”
+[says:horikita-suzune] (p.164) “our study sessions. To be perfectly honest, I think the results have been fantastic. The boys were imbeciles at first, so I was worried, but fortunately, they studied hard.”
+[says:horikita-suzune] (p.164) “Sudou-kun has improved significantly compared to where he started. His concentration, in particular, got better by leaps and bounds. However, Sudou, don’t forget that your basic abilities are still inferior to a first-year junior high school student’s,”
+[says:horikita-suzune] (p.164) “Considering that you began at an elementary school level, that’s amazing,”
+[says:horikita-suzune] (p.164) “He didn’t even know that the mathematical constant pi existed until recently,”
+[says:horikita-suzune] (p.164) “Like I said, his fundamental scholastic abilities are low. But if we just focus on the things a first-year, second-semester high school student needs to know, then I think so. He definitely shouldn’t expect to fail this exam. What about you, Yukimura-kun? Did you manage to resolve Hasebe-san and Miyake-kun’s issues?”
+[says:horikita-suzune] (p.165) “Can you please calm down, Karuizawa-san? We’re in the middle of discussing our final exam. Don’t waste our time,” said Horikita.
+[says:horikita-suzune] (p.166) “Yes, Karuizawa-san. Kushida-san hasn’t done anything bad to you,”
+[says:horikita-suzune] (p.167) “Kushida-san, do you have a spare blazer to wear tomorrow? Will you be okay?”
+[feat] (p.164) Rates Sudou’s ceiling at first-year junior-high and still guarantees he will not fail the exam.
+[rel:ayanokouji-kiyotaka] (p.157) Notice he has gotten close to Yukimura; her own group bridges have moved too.
+[rel:kushida-kikyou] (p.166–167) Defends Kushida after the juice dump and asks about the spare blazer — cold war does not excuse the attack.
+[rel:karuizawa-kei] (p.165–166) Shut down twice for wasting meeting time; fails to stop the glass.
+[rel:sudou-ken] (p.164) Progress report with the junior-high ceiling attached.
+[rel:yukimura-teruhiko] (p.164) Cross-checks his Hasebe/Miyake results.
+[rel:hirata-yousuke] (p.164) Hirata protests the junior-high comparison; she counters with pi.
+
+<!-- walk: y1v6 ch6 → p.176 -->

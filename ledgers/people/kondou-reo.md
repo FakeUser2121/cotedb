@@ -23,3 +23,14 @@ char_id: kondou-reo · class: Class 1-C (enrolled April 2015) · status: minor
 [note] (p.120) No separate action is shown for him on these pages beyond the formation.
 
 <!-- walk: y1v5 ch6 → p.143 -->
+
+## y1v6
+
+<!-- walk: y1v6 → start -->
+
+### y1v6 p.136 — Ch.6 §6.1: named among the goons
+[scene] (p.136) Named as one of the evergreen trio of goons standing behind Ryuuen when the study group’s cup is crushed.
+[rel:ryuuen-kakeru] (p.136) Enforcer in the café crash; no dialogue from him on these pages.
+[note] (p.136) Present only in the roll-call of Ryuuen’s party.
+
+<!-- walk: y1v6 ch6 → p.176 -->

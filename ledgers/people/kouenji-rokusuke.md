@@ -301,3 +301,12 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:horikita-suzune] (p.79) Pressed not to score a zero and break the pair balance; she cannot pursue further.
 [rel:okiya-kyousuke] (p.83) Paired with Okiya on the short quiz — a sufficiently high score as hoped.
 [note] (p.83) Crosses arms, grins, laughs when the pairings are read.
+
+### y1v6 p.137 — Ch.6: the one face Hiyori will keep
+[scene] (p.137) Named from the earlier suspect group as the face Hiyori says she will remember.
+[says:shiina-hiyori] (p.137) “Well, he’s unique,”
+[rel:ryuuen-kakeru] (p.137) Ryuuen treats Kouenji as a talent to watch even though he is far from a team player.
+[rel:shiina-hiyori] (p.137) Of the four names she recites, only his sticks.
+[note] (p.137) No scene presence; named only.
+
+<!-- walk: y1v6 ch6 → p.176 -->

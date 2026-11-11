@@ -70,3 +70,33 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [says:miyake-akito] (p.102) “That’s certainly a good idea,”
 [rel:hasebe-haruka] (p.102) Surprised she is not backing out this time.
 [says:miyake-akito] (p.102) “I thought you were going to back out, Hasebe. This is unusual. You don’t normally want to get involved in anything.”
+
+### y1v6 p.132–137 — Ch.6 §6.0: the archery boy who stands up to Ryuuen
+[scene] (p.132) Fifth session; archery club already tense enough, so he prefers the café to a stuffy room.
+[says:miyake-akito] (p.132) “Yeah. Archery club is already quiet and tense enough,”
+[says:miyake-akito] (p.133) “It’s just… There are clearly way more questions here than last time, and they look harder.”
+[says:miyake-akito] (p.133) “Come on, Hasebe.”
+[says:miyake-akito] (p.133) “I finally got a break from club stuff, but I don’t want to spend all my free time studying. Can I head back after I finish?”
+[says:miyake-akito] (p.134) “I want to be in the club. I just also want free time,”
+[says:miyake-akito] (p.135) “Yoshimoto Kousetsu? Yeah, he’s in the archery club.”
+[says:miyake-akito] (p.135) “Nope. But, come to think of it, he’s been in a real hurry to leave as soon as club ends lately. That must be why.”
+[says:miyake-akito] (p.135) “You’re having even more sugar? Your coffee’s so ridiculously sweet, I’m shocked you can drink it,”
+[action] (p.136) When Ryuuen’s group stomps Hasebe’s cup, Miyake stands and tells Ryuuen to knock it off.
+[says:miyake-akito] (p.136) “Hey, Ryuuen. Knock it off.”
+[says:miyake-akito] (p.136) “I wasn’t talking to you. Lackeys should mind their own business, Ishizaki,”
+[says:miyake-akito] (p.137) “What the hell do you want, Ryuuen?”
+[says:miyake-akito] (p.137) “We’re busy. If you’ve got something to say, say it.”
+[feat] (p.136–137) Shakes off Ishizaki’s collar grab and holds Ryuuen’s gaze in a monitored café — the calmest Class D answer to Class C pressure in the volume so far.
+[rel:ishizaki-daichi] (p.136) Collar grab and dismissal: lackeys should mind their own business.
+[rel:ryuuen-kakeru] (p.136–137) Direct challenge in the café; Ryuuen later targets the study group’s “gift” instead of him.
+[rel:yoshimoto-kosetsu] (p.135) Archery clubmate; confirms the second-year girlfriend story.
+[rel:hasebe-haruka] (p.132–135) Study partner; nicknames and coffee mockery.
+
+### y1v6 p.156 — Ch.6 §6.4: late but in
+[scene] (p.156) Answers the group-chat movie plan after the others have already committed.
+[says:miyake-akito] (p.156) “Sounds good to me.”
+[says:miyake-akito] (p.156) “Can you reserve our tickets?”
+[rel:hasebe-haruka] (p.156) Her condition for Yukimura’s yes.
+[rel:yukimura-teruhiko] (p.156) Attendance gate for Keisei.
+
+<!-- walk: y1v6 ch6 → p.176 -->

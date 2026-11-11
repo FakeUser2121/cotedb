@@ -76,3 +76,25 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [says:satou-maya] (p.111) “We’re partners. It’s only natural, right?”
 [trait] (p.107–111) Around fifty across the board on midterms; medium-or-higher questions disastrous; breathing a little heavy when close.
 <!-- walk: y1v6 ch5 → p.131 -->
+
+### y1v6 p.134, 145–146 — Ch.6: the exam partner Ayanokōji must prepare for
+[scene] (p.134) Yukimura pulls Ayanokōji into the study group because his partner is Satou and both fail if either is kicked out.
+[says:yukimura-teruhiko] (p.134) “You get good enough grades, but your partner is Satou. You’ll need to prepare and review thoroughly so you don’t both get kicked out,”
+[says:ayanokouji-kiyotaka] (p.145) “Satou and I don’t have anything in common, so I can’t just talk to her,”
+[rel:hasebe-haruka] (p.145) Hasebe is not especially close to Satou; points at Karuizawa instead.
+[rel:kushida-kikyou] (p.145) Hasebe redirects the intel job to Kushida because she and Satou are close.
+[note] (p.134, 145–146) Named only in this chapter’s first half; her crush and partner scenes are ch5.
+
+### y1v6 p.159–161 — Ch.6 §6.5: the theater ambush
+[scene] (p.159) Catches Ayanokōji at the movie with her own group in tow and latches onto his arm.
+[says:satou-maya] (p.159) “Ayanokouji-kun!”
+[says:satou-maya] (p.159) “Hey, are you going to see that movie right now? You know, that one everyone’s talking about?!”
+[says:satou-maya] (p.159) “To tell you the truth, I came here to see it, too. So did Karuizawa-san and the others,”
+[says:satou-maya] (p.159) “Nope. When I mentioned wanting to see a movie after our study group, Karuizawa-san said that she wanted to come, too. So, we all decided to go. Since we’re all here, let’s see it together!”
+[says:satou-maya] (p.160) “Huh? Why? This is okay, isn’t it?”
+[rel:ayanokouji-kiyotaka] (p.159–160) Exam partner; grabs his arm with a red face and is shaken off before the seats.
+[rel:karuizawa-kei] (p.159) Brought the girls’ group after Satou mentioned the movie.
+[rel:sakura-airi] (p.160–161) Airi’s jealousy check starts from this arm-grab.
+[trait] (p.159–160) Calm voice, red face, “trying a little too hard” — the crush plays in public now.
+
+<!-- walk: y1v6 ch6 → p.176 -->

@@ -3368,3 +3368,33 @@ walk: y1v1 → DONE
 [rel:ryuuen-kakeru] (p.130) Would see through a Kushida lie about math answers; wants to know why.
 [note] (p.131) Blank scan (footer only).
 <!-- walk: y1v6 ch5 → p.131 -->
+
+### y1v6 p.132–134 — Ch.6 §6.0: fifth session pulled wider
+[scene] (p.132) Fifth Yukimura session with Miyake and Hasebe, moved from Pallet to the Keyaki Mall café because clubs have stopped for the final.
+[says:yukimura-teruhiko] (p.132) “We should’ve met in the library,”
+[says:hasebe-haruka] (p.132) “No way. It’s easier to do it here. Right, Miyacchi?”
+[says:yukimura-teruhiko] (p.133) “That’s a mediocre student’s mindset. Think about what you can do first, and challenge yourself,”
+[action] (p.134) Yukimura drafts him into the group as well: his grades are fine but his partner is Satou, so both must prepare or both are kicked out.
+[says:hasebe-haruka] (p.134) “Just do it, Ayanokouji-kun. Let’s all die together,”
+[rel:yukimura-teruhiko] (p.132–134) Fifth session in a row; Yukimura’s finish-the-material method beats Horikita’s fixed-time method for these two, and now pulls him in for Satou prep.
+[rel:hasebe-haruka] (p.132–134) Still in the study trio; she treats the humanities packet as torture and drags him in with a vengeful-spirit bit.
+[rel:miyake-akito] (p.132–134) Archery club tension noted; Miyake wants free time after club but stays for the session.
+
+### y1v6 p.156–158 — Ch.6 §6.4: group chat, Horikita call, birthday notice
+[scene] (p.156) The new group’s chat proposes a movie; Ayanokōji joins, then takes Horikita’s exam-prep call and Karuizawa’s texts the same night.
+[says] (p.156) “I’ll join you.”
+[says] (p.156) “Yeah, me too.”
+[says] (p.157) “It’s still only ten o’clock. Do you need something?”
+[says] (p.157) “Tomorrow, huh?”
+[says] (p.157) “I’ll talk it over with Keisei. Is it okay if we’re late? We should also get in touch with Hirata and Karuizawa ahead of time, if we need to,”
+[says] (p.158) “I’m busy before that. I’m going to a movie with my study group.”
+[says] (p.158) “Seems like you know it. Anyway, I have a favor I’d like to ask of you.”
+[says] (p.158) “I’ll explain when it’s done. It’s for your own sake.”
+[feat] (p.157–158) Sends Karuizawa a detailed errand against Hiyori’s sugar story, then notes her profile birthday March 8 after she is the first to notice his.
+[rel:horikita-suzune] (p.157) Exam-prep invitation; he answers with Keisei and the movie conflict rather than a yes or no.
+[rel:karuizawa-kei] (p.157–158) Errand order plus the belated birthday cake sticker; he deletes the texts and remembers March 8.
+[rel:hasebe-haruka] (p.156) Movie ticket plan from her group chat.
+[rel:sakura-airi] (p.156) Airi texts that she wants to go too.
+[rel:yukimura-teruhiko] (p.156–157) Keisei agreed conditional on Akito; Ayanokōji will talk it over with him about the exam prep.
+
+<!-- walk: y1v6 ch6 → p.176 -->

@@ -702,3 +702,10 @@ aliases used for anchors: ike, kanji, ike-kun
 [says:ike-kanji] (p.112) “C-come on, I know that. Isn’t it okay for me to be at least a little happy? I worked hard!”
 [trait] (p.104, 112) Attention span shorter than a kindergartener; after-school study is hell; beams at freedom.
 <!-- walk: y1v6 ch5 → p.131 -->
+
+### y1v6 p.133 — Ch.6: the lazy-student control case
+[scene] (p.133) Named as the example of a student Yukimura’s finish-the-material method would fail on.
+[rel:yukimura-teruhiko] (p.133) On Ike, the method would be a bust: he would answer without thinking so he could escape early.
+[note] (p.133) Named only in Yukimura’s method analysis.
+
+<!-- walk: y1v6 ch6 → p.176 -->
