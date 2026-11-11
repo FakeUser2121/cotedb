@@ -30,3 +30,18 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [scene] (p.185) Sudou's spike power is measured against Nagumo's during the volleyball game.
 
 <!-- walk: y1v4.5 ch6 → p.204 -->
+
+## y1v5
+
+<!-- walk: y1v5 → start -->
+
+### y1v5 p.68–85 — Ch.5 §5: The practice pitch
+[scene] (p.76) Nagumo strolls onto the soccer pitch mid-practice and is greeted by Kushida by nickname.
+[says] (p.76) “I see you’re on a date.”
+[says] (p.76) “We don’t really hold back here, so I think this is a good way to measure our players’ strengths,”
+[rel:kushida-kikyou] (p.76) Calls her “Kikyou-chan” and winks before rejoining the game.
+[feat] (p.77) Outclasses both Hirata and Shibata in the practice game, then scores from midfield — “in a different league.”
+[rel:horikita-suzune] (p.77) Horikita refuses to concede the skill: “He’s just really athletic, that’s all.”
+[rel:horikita-manabu] (p.76) Introduced as the candidate to be next student council president, abilities on par with Horikita’s older brother.
+
+<!-- walk: y1v5 ch5 → p.85 -->

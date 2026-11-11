@@ -782,3 +782,20 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:horikita-suzune] (p.66) He knows she hates Horikita from an early rooftop rant, and resolves that the two must confront each other.
 
 <!-- walk: y1v5 ch4 → p.67 -->
+
+### y1v5 p.68–85 — Ch.5 §5: “It’s me”
+[scene] (p.68) Kushida is recruited for the Saturday outing and accepts with her usual warmth, noting how unusual the invitation is.
+[says] (p.68) “Hmm? What is it, Ayanokouji-kun?”
+[says] (p.68) “You know, it’s really unusual for you to invite me out, Ayanokouji-kun.”
+[rel:ayanokouji-kiyotaka] (p.69) “We’ll meet in the dorm lobby tomorrow morning, then?”
+[rel:horikita-suzune] (p.74) Welcomes Horikita to the lobby with an unwavering smile despite the bad mood aimed at her.
+[says] (p.75) “I feel kind of like a secret agent, spying on clubs to gain information about other classes.”
+[says] (p.75) “it was really kind of you to do this for Horikita-san’s sake, Ayanokouji-kun,”
+[rel:ayanokouji-kiyotaka] (p.75) Drops the pretense first: “Ayanokouji-kun, you were the one who decided to invite me out today, weren’t you?”
+[rel:ayanokouji-kiyotaka] (p.75) “You understand that things aren’t good between Horikita-san and me, don’t you?”
+[rel:ayanokouji-kiyotaka] (p.77) Asked why the two dislike each other, she answers: “It’s me,”
+[rel:shibata-sou] (p.76) Well-informed as ever — knows Shibata outclasses Hirata and greets Nagumo by nickname.
+[rel:horikita-suzune] (p.80) Answers the ally demand: “Of course. I want to get to Class A, alongside everyone from Class D.”
+[rel:sudou-ken] (p.83–84) Intervenes in the anchor dispute and backs the swap once Sudou is satisfied.
+
+<!-- walk: y1v5 ch5 → p.85 -->

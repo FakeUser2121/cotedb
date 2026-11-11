@@ -354,3 +354,9 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [rel:ryuuen-kakeru] (p.54–55) Background: Ryuuen refused to cooperate with Class B earlier in the volume, so no Class C–B channel exists.
 
 <!-- walk: y1v5 ch4 → p.67 -->
+
+### y1v5 p.68–85 — Ch.5 §5: Named in the cruise-ship theory
+[scene] (p.80) Katsuragi is the other upperclassman Horikita names when she asks Kushida the VIP question.
+[rel:kushida-kikyou] (p.80) “did you tell Ryuuen-kun or Katsuragi-kun that you were the VIP?” — the question, with Ryuuen.
+
+<!-- walk: y1v5 ch5 → p.85 -->

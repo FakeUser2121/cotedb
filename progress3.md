@@ -1400,3 +1400,11 @@ Inogashira gains her first y1v5 rows; Katsuragi and Ryuuen record the
 Class A/B/C positioning from the field. Quotes: 131 [says] and 118 non-says
 spans, corpus-exact; R18/R19 held at 0/82. Determinism hash across
 consecutive builds: `84cb0fa45e1f945543e8a69c9d0083c2`.
+
+Chapter 5 puts the spy outing and the anchor reveal on the volume page: the
+cruise-ship theory, Nagumo’s practice-pitch introduction, Kushida’s “It’s
+me,” and Horikita’s brother reason. Nagumo and Shibata gain y1v5 sections
+(both previously directory-level for this volume). The Sonoda ambiguity on
+p.79 stays open in the attribution gaps. Quotes: 141 [says] and 181 non-says
+spans, corpus-exact; R18/R19 held at 0/82. Determinism hash across
+consecutive builds: `fd05909784782d880bf27cb7bbdc344b`.

@@ -200,3 +200,11 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [rel:fujimaki] (p.26) Fujimaki’s command of the Red Team makes Ayanokōji wonder when the president will make a move.
 
 <!-- walk: y1v5 ch2 → p.38 -->
+
+### y1v5 p.68–85 — Ch.5 §5: The brother, revealed to the group
+[scene] (p.84) Horikita’s brother is named as the student council president when she asks for the relay anchor.
+[rel:horikita-suzune] (p.84) “It’s because I think my brother…is an anchor,” — the reason the group had been pressing for.
+[rel:nagumo-miyabi] (p.76) Nagumo is framed as the candidate whose abilities are on par with the president’s.
+[rel:horikita-suzune] (p.84) Ayanokōji’s gloss for the others — the two “aren’t really on speaking terms.”
+
+<!-- walk: y1v5 ch5 → p.85 -->

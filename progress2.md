@@ -1798,3 +1798,26 @@ Quotes: verify 131 [says] + 118 non-says ALL PASS. make check OK (R18 0,
 R19 82/82); gate exit 0; build hash
 `84cb0fa45e1f945543e8a69c9d0083c2` twice. New tags: none. Open: ch5
 pp.68–85.
+
+### y1v5 ch5 (pp.68–85) — There's a Reason for Their Relationship — walked
+Read the full chapter with blank flags (602-line extract; blank scans p.78
+and p.85). The Saturday outing: Ayanokōji recruits Horikita and Kushida,
+lays the cruise-ship theory (Kushida may have sold her own VIP identity),
+noodles with Sudou/Ike/Yamauchi, then the grounds — Shibata's goal, Nagumo
+outclassing Hirata and Shibata, Kushida's “It’s me,” Horikita’s direct VIP
+question and ally demand, and Ayanokōji’s exit. §5.3: the participation
+table, the anchor fight, and the brother reveal (student council president).
+Ledger appends: 16 files stamped y1v5 ch5 → p.85 (volumes/y1v5,
+ayanokouji-kiyotaka, horikita-suzune, kushida-kikyou, sudou-ken, ike-kanji,
+yamauchi-haruki, hirata-yousuke, nagumo-miyabi, shibata-sou,
+sakayanagi-arisu, ryuuen-kakeru, katsuragi-kouhei, sakura-airi,
+karuizawa-kei, horikita-manabu); nagumo and shibata ledgers gained their
+first y1v5 headings; no TSV edits. Open question kept as printed: p.79’s
+“Sonoda-kun from Class C” matches both sonoda-masashi and sonoda-chiyo
+(locator hits both) — left in the attribution gaps, no person row filled.
+Three non-says quote mismatches caught by verify and fixed to corpus-exact
+(“the bomb waiting to go off inside Class D”; “aren’t really on speaking
+terms”). Quotes: verify 141 [says] + 181 non-says ALL PASS. make check OK
+(R18 0, R19 82/82); gate exit 0; build hash
+`fd05909784782d880bf27cb7bbdc344b` twice. New tags: none. Open: ch6
+pp.86–143.

@@ -83,3 +83,11 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [status] (p.31) Did not participate in the island or cruise ship tests; whether a penalty was incurred is left open by the page.
 
 <!-- walk: y1v5 ch2 → p.38 -->
+
+### y1v5 p.68–85 — Ch.5 §5: Rumored from a distance
+[scene] (p.72) Sakayanagi is raised in Ayanokōji’s room as a possible source of Class A information.
+[rel:ike-kanji] (p.72) Ike remembers her as “that beautiful girl”; no usable rumors come back.
+[rel:yamauchi-haruki] (p.73) Yamauchi’s contribution: people say she’s the class leader and “really, like, mature.”
+[note] (p.72–73) The two boys deliver nothing actionable — Ayanokōji’s question goes nowhere.
+
+<!-- walk: y1v5 ch5 → p.85 -->

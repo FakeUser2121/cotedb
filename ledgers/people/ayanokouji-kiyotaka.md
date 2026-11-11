@@ -2956,3 +2956,27 @@ walk: y1v1 → DONE
 [note] (p.57) The praise after Sakura’s last-place finish — “You really gave it your all.” — carries no speaker tag; Sakura’s reply addresses Ayanokouji-kun, so it is recorded here rather than assigned outright.
 
 <!-- walk: y1v5 ch4 → p.67 -->
+
+### y1v5 p.68–85 — Ch.5 §5: The invitation, the theory, the exit
+[scene] (p.68) Two weeks before the festival, Ayanokōji recruits Horikita and Kushida for a Saturday reconnaissance — the first move against “the bomb waiting to go off inside Class D.”
+[says] (p.68) “Hang out with me today.”
+[says] (p.68) “You’ll understand better if you come with me.”
+[rel:kushida-kikyou] (p.68) “Kushida, do you have a minute?”
+[rel:kushida-kikyou] (p.68) “By the way, Horikita will be coming, too.”
+[rel:horikita-suzune] (p.69) “Doing a little reconnaissance isn’t a bad thing, wouldn’t you agree?”
+[rel:horikita-suzune] (p.70) The theory, flat out: “One other person was significantly involved in the outcome on the cruise ship,”
+[rel:kushida-kikyou] (p.70) “But what about Kushida herself? What if she intentionally exposed her identity?”
+[rel:kushida-kikyou] (p.70) “Only Kushida knows.” — which is why she is invited.
+[rel:horikita-suzune] (p.70) “You and Kushida seem to have some kind of connection.”
+[rel:horikita-suzune] (p.71) Elevator parting: “You’re free to choose whether or not you come tomorrow, but if you want to lead the class, think about it.”
+[rel:sakayanagi-arisu] (p.72) Probes Ike and Yamauchi for Sakayanagi rumors and gets nothing usable.
+[rel:ike-kanji] (p.73) Deflects the message suspicion — “Absolutely not, so relax.”
+[rel:sudou-ken] (p.73) Leaves the three to their noodle talk — “Sorry, guys. I’ve got plans.”
+[rel:kushida-kikyou] (p.75) Owns the setup when Kushida calls it: “Why do you think that?”
+[rel:kushida-kikyou] (p.75) “It’s like I half believe it, and half don’t.”
+[rel:kushida-kikyou] (p.77) Asks the question outright: “Why don’t you and Horikita like each other?”
+[rel:shibata-sou] (p.80) Tells Hirata the truth of the outing — “We’re spying.”
+[rel:kushida-kikyou] (p.80) Sets the stage for Horikita’s VIP question, then leaves the two girls alone.
+[rel:horikita-suzune] (p.84) Glosses Horikita’s brother trouble for the group — “Some stuff happened. I guess Horikita and her brother aren’t really on speaking terms.”
+
+<!-- walk: y1v5 ch5 → p.85 -->

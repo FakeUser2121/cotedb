@@ -564,3 +564,12 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:sudou-ken] (p.60) Gets dirt kicked at him when Sudou loses patience with the pull.
 
 <!-- walk: y1v5 ch4 → p.67 -->
+
+### y1v5 p.68–85 — Ch.5 §5: Rumors and suspicion
+[scene] (p.72) Ike spends Saturday in Ayanokōji’s room and is the one who brings up Sakayanagi.
+[rel:sakayanagi-arisu] (p.72) On the Class A girl: “Yeah, dude, of course I remember her.”
+[rel:sakayanagi-arisu] (p.73) “She doesn’t really put it out there, you know?” — no usable rumors.
+[rel:ayanokouji-kiyotaka] (p.73) Notices the messages: “You know, dude, you’ve been getting lots of messages lately. Haven’t you?”
+[rel:sudou-ken] (p.72–73) The noodle-room trio with Sudou and Yamauchi through the morning.
+
+<!-- walk: y1v5 ch5 → p.85 -->

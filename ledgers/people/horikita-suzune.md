@@ -1766,3 +1766,25 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ayanokouji-kiyotaka] (p.65) Loses the demonstration run and is told to look at her partner instead of the clock.
 
 <!-- walk: y1v5 ch4 → p.67 -->
+
+### y1v5 p.68–85 — Ch.5 §5: The theory, the ally question, the anchor
+[scene] (p.68) Horikita is pulled into Ayanokōji’s Saturday plan and spends the walk to the dorms listening to his cruise-ship theory.
+[rel:ayanokouji-kiyotaka] (p.68) “And if I say I don’t want to?”
+[rel:ayanokouji-kiyotaka] (p.69) “What are you planning?”
+[rel:ayanokouji-kiyotaka] (p.69) “I don’t understand the reason for inviting me.”
+[rel:ayanokouji-kiyotaka] (p.69) “Of course. Everyone discovered our VIP’s identity.”
+[rel:ayanokouji-kiyotaka] (p.70) “That’s impossible, right?” — on Kushida exposing herself.
+[rel:ayanokouji-kiyotaka] (p.70) “Even if that’s possible, it would hurt Class D.”
+[rel:kushida-kikyou] (p.70) “So, you’re saying that Kushida would betray her allies to gain a few measly points?”
+[rel:kushida-kikyou] (p.70) “Kushida-san and I have no bond whatsoever,”
+[rel:kushida-kikyou] (p.74) Shows up at the lobby in a bad mood she tries to hide.
+[rel:kushida-kikyou] (p.75) “Information is invaluable. We don’t know what might be the key to our victory,”
+[rel:ayanokouji-kiyotaka] (p.75) “I’m impressed that you have the nerve to say that when I’m standing right here,”
+[rel:nagumo-miyabi] (p.77) Will not concede Nagumo’s skill — “He’s just really athletic, that’s all.”
+[rel:kushida-kikyou] (p.80) Cuts to the heart: “During the cruise ship exam, did you tell Ryuuen-kun or Katsuragi-kun that you were the VIP?”
+[rel:kushida-kikyou] (p.80) The demand that matters: “Can I trust you to be our class’s ally from this point on?”
+[rel:sudou-ken] (p.82–83) Asks Sudou for the 1200-metre relay anchor and defends the pick — “I know your abilities from seeing you practice,”
+[rel:horikita-manabu] (p.84) Reveals why: “It’s because I think my brother…is an anchor,”
+[rel:sudou-ken] (p.84) Gets the anchor handed back to her once the reason is on the table.
+
+<!-- walk: y1v5 ch5 → p.85 -->

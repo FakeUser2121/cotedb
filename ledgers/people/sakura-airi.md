@@ -637,3 +637,10 @@ aliases used for anchors: sakura, airi, sakura-san
 [rel:inogashira-kokoro] (p.62) Pairs with Inogashira for the three-legged race — the slowest of the five girl pairs, “slow as molasses.”
 
 <!-- walk: y1v5 ch4 → p.67 -->
+
+### y1v5 p.68–85 — Ch.5 §5: Named in passing
+[scene] (p.72) Sakura is named as the girl Yamauchi confessed to over the summer — and lost.
+[rel:yamauchi-haruki] (p.72) The defeat still shows in Yamauchi’s forced smile during the noodle talk.
+[note] (p.74) Ayanokōji considers bringing her or Karuizawa to the grounds instead of Kushida, but judges the wrong person for the job.
+
+<!-- walk: y1v5 ch5 → p.85 -->

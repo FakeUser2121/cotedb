@@ -479,3 +479,11 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [rel:sudou-ken] (p.60) Gets dirt kicked at him when Sudou snaps during the coaching session.
 
 <!-- walk: y1v5 ch4 → p.67 -->
+
+### y1v5 p.68–85 — Ch.5 §5: The Sakura defeat still stings
+[scene] (p.72) Yamauchi is in the Saturday noodle group, forced-smiling through the talk.
+[rel:sakura-airi] (p.72) Still nursing the summer confession defeat — “Y-yeah.” to Ike’s teasing.
+[rel:sakayanagi-arisu] (p.73) Passes on the class-leader rumor: “From what I’ve heard, people say that she’s the class leader.”
+[rel:ayanokouji-kiyotaka] (p.73) Presses the girlfriend question: “You don’t have a girlfriend, do you?”
+
+<!-- walk: y1v5 ch5 → p.85 -->

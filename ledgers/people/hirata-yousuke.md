@@ -747,3 +747,13 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [trait] (p.63) Finishes his own practice and is straight off advising others — the class’s default gentle teacher.
 
 <!-- walk: y1v5 ch4 → p.67 -->
+
+### y1v5 p.68–85 — Ch.5 §5: On the pitch and at the podium
+[scene] (p.75) Hirata is playing in the mixed-year soccer practice the trio comes to watch.
+[rel:nagumo-miyabi] (p.76–77) Outplayed by Nagumo in the practice game — sharp, but in a different league.
+[rel:shibata-sou] (p.79) Walks over with Shibata and forms the five-person group; calls Shibata the fastest in Class B.
+[rel:ayanokouji-kiyotaka] (p.80) Takes the spy confession in stride and warns the group off Shibata: “Personally, I’d rather not compete against him.”
+[rel:sudou-ken] (p.82) Runs the participation-table meeting from the podium on data and clear testing.
+[rel:horikita-suzune] (p.84) “I need more information” — refuses to swap the anchor order without a reason, then submits the swapped list.
+
+<!-- walk: y1v5 ch5 → p.85 -->

@@ -572,3 +572,9 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:ayanokouji-kiyotaka] (p.48) Her reading of people is praised in his thoughts after she leaves — better than he imagined, from her past.
 
 <!-- walk: y1v5 ch3 → p.53 -->
+
+### y1v5 p.68–85 — Ch.5 §5: Named in passing
+[scene] (p.74) Karuizawa is named only as an alternative Ayanokōji considers for the Saturday outing.
+[note] (p.74) He weighs her or Sakura against Kushida and decides Kushida is the right person — no scene presence this chapter.
+
+<!-- walk: y1v5 ch5 → p.85 -->

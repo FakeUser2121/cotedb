@@ -313,3 +313,11 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [tactic] (p.54–55) Ryuuen’s non-scouting reads as a message to the other classes, not as disinterest.
 
 <!-- walk: y1v5 ch4 → p.67 -->
+
+### y1v5 p.68–85 — Ch.5 §5: Named in the cruise-ship theory
+[scene] (p.69–70) Ryuuen is the first name in Ayanokōji’s theory about how the VIP identity leaked.
+[rel:horikita-suzune] (p.70) Horikita’s own dead end: “I assume Ryuuen-kun was involved somehow,”
+[rel:kushida-kikyou] (p.80) Horikita puts the direct question to Kushida — did she tell Ryuuen or Katsuragi she was the VIP?
+[tactic] (p.70) The theory holds that Ryuuen was one party; a second, inside Class D, was significantly involved.
+
+<!-- walk: y1v5 ch5 → p.85 -->

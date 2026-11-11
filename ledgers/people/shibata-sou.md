@@ -21,3 +21,16 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 [note] (p.187) He and Kanzaki hang on at the net against Sudou's power.
 
 <!-- walk: y1v4.5 ch6 → p.204 -->
+
+## y1v5
+
+<!-- walk: y1v5 → start -->
+
+### y1v5 p.68–85 — Ch.5 §5: The fastest in Class B
+[scene] (p.76) Shibata scores on a brilliant arc during the practice the trio watches, then joins their group the next day.
+[rel:hirata-yousuke] (p.76) Better than Hirata by his own senior’s account — “Hirata-kun says that Shibata-kun is better than he is.”
+[rel:ayanokouji-kiyotaka] (p.79) Remembers Ayanokōji’s name and asks if he is on a date with the two girls.
+[rel:hirata-yousuke] (p.80) Hirata’s warning to the group: “We need to be especially wary of Shibata-kun. He’s the fastest in Class B.”
+[trait] (p.76–80) Makes no attempt to hide his speed — whether for Ichinose’s Class B or from personality.
+
+<!-- walk: y1v5 ch5 → p.85 -->

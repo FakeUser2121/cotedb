@@ -723,3 +723,18 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:horikita-suzune] (p.59) Thorough with every student who asks, but his rashness keeps undercutting the gentler style a leader needs.
 
 <!-- walk: y1v5 ch4 → p.67 -->
+
+### y1v5 p.68–85 — Ch.5 §5: Noodles, first names, and the anchor he gives up
+[scene] (p.72) Sudou spends Saturday morning in Ayanokōji’s room with Ike and Yamauchi, cup noodles in hand, talking about Horikita.
+[says] (p.72) “What flavor did you get?”
+[says] (p.72) “Trade with me, please?”
+[note] (p.72) An untagged classmate asks “Do you plan on telling Horikita?” and Sudou answers “Huh? The hell is this about?”
+[rel:horikita-suzune] (p.72) “That depends on how the festival goes.” — on making a move after the bet.
+[rel:horikita-suzune] (p.72) “there ain’t none of the first years better than me at sports,”
+[rel:horikita-suzune] (p.73) “Let’s talk about my future with Suzune,”
+[rel:horikita-suzune] (p.82) Given the relay anchor, then pulled aside when Horikita asks for it.
+[rel:horikita-suzune] (p.83) Not convinced: “It’s just, y’know, the anchor position goes to the fastest team member.”
+[rel:horikita-suzune] (p.83) “I ain’t convinced. This ain’t like you, Horikita,”
+[rel:horikita-suzune] (p.84) Yields once the brother reason is on the table — “I don’t mind handin’ it over to you,”
+
+<!-- walk: y1v5 ch5 → p.85 -->
