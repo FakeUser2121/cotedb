@@ -284,11 +284,9 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:hirata-yousuke] (p.43) He backs her appeal publicly; AK credits the pair of them plus Karuizawa with converting the class, which is the closest the volume comes to the two leaders acting together.
 [rel:karuizawa-kei] (p.43) AK's paired mechanism, stated in the same breath: "If Kushida lived by the softness of her heart, then Karuizawa lived by the strength of her will."
 
-
 ### y1v2 p.44, p.47 — Ch.3 §3.1: keeping Ayanokōji inside the group
 [scene] (p.44) She assembles the lunch table — AK, Horikita, Ike, Yamauchi, Sudou — by asking him directly: "When lunchtime came, Kushida had invited me with a smile. She’d said, 'Want to get lunch?' I’d said okay, of course. I mean, I didn’t have any choice in the matter."
 [scene] (p.47) She leaves the table early to work her own network: “Ah, sorry. I have to go for a bit. I’m going to try asking my upperclassmen friends if they saw anything.”
-
 
 ### y1v2 p.54–63 — Ch.3 §3.2–3.3: Horikita, the lesson, and Class B
 [says] (p.54) “Are you really heading back? Horikita-san?”
@@ -906,3 +904,30 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [note] (p.198) Ryuuen: before the sports festival, I had Kushida get her hands on Class D’s participation table.
 [note] (p.199) Recording replay: the same line again as Horikita interrupts the tape.
 [note] (p.200) Kushida smiles boldly with Ryuuen while Horikita kneels.
+
+## y1v6
+
+<!-- walk: y1v6 → start -->
+
+### y1v6 p.10–12 — Ch.1 §1: Kushida Kikyou’s Soliloquy
+[scene] (p.10) Cold-open soliloquy: Kushida narrates the ideal self she built, the junior-high incident that broke it, and the bus meeting that reopened the wound.
+[says:kushida-kikyou] (p.10) “Do people live according to their own ideals, I wonder? Well, I do.”
+[says:kushida-kikyou] (p.10) “Wouldn’t you say I’m perfect?”
+[says:kushida-kikyou] (p.10) “Of course, I wouldn’t say that I am. There are girls cuter than me, and many who are smarter or more athletic. That’s obvious. Yes, that’s quite obvious.”
+[thinks] (p.10) “I hate losing far more than the average person does.”
+[thinks] (p.10) “I once vomited from the intense emotional stress that losing caused me.”
+[trait] (p.10) Genius-child praise until junior high, when peers overtook her; she hunted for something she could never lose at.
+[says:kushida-kikyou] (p.10) “So, I decided I’d get people to trust me instead. They’d love me more than anyone else.”
+[trait] (p.10) Extended friendship to “disgusting, asocial boys” and “girls unattractive and bitter enough to turn anyone’s stomach”; suppressed real emotions behind false kindness.
+[trait] (p.11) Trustworthy people receive access to secrets; she racked up that currency and learned everyone’s confessions.
+[thinks] (p.11) “That became my reason for being. But my power came from living a life of lies.”
+[back] (p.11) The junior-high incident is named: someone made it happen; everyone had rejected her by then.
+[says:kushida-kikyou] (p.11) “If you hurt someone, you can’t complain when they hurt you back. If someone hurts you, you pay them back in kind. That’s only natural, right?”
+[thinks] (p.11) “I only wanted one thing. I wanted to be everyone’s favorite. To feel that sense of superiority once more.”
+[goal] (p.11) New high school life: never again — heart pounding at the prospect of success.
+[rel:horikita-suzune] (p.11–12) First day of high school she bumped into Horikita Suzune on the bus; Horikita knew about the incident.
+[says:kushida-kikyou] (p.12) “As long as she was here, I’d never have peace.”
+[status] (p.12) Volume opens with the threat named: Suzune is the only person who holds the past that can destroy her.
+[note] (p.13) Blank scan (footer only).
+
+<!-- walk: y1v6 ch1 → p.13 -->

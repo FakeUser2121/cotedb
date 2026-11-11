@@ -414,7 +414,6 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [scene] (p.46) She takes her tray and sits elsewhere in the cafeteria; AK watches her "looking slightly irritated" while the group tries to work out her reasons without her.
 [says] (p.47) “What idea? To toss me out like the trash?” (Sudou throwing her refusal back at AK)
 
-
 ### y1v2 p.54–57 — Ch.3 §3.2: walked out on, chased down, and still not moved
 [scene] (p.54) Announces "All right, I’m going to the dorms," nods "without hesitation" and leaves; she "didn’t quail under everyone’s gazes, which all expressed variations on 'You’re leaving?'"
 [trait] (p.54) AK's portrait of the manner: "She would probably grow up to be a fierce woman, the type that leaves social outings without reading the room and concludes meetings exactly on time."
@@ -2077,3 +2076,15 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (p.190) Post-race: masterminded behind the scenes by Hirata and Horikita’s strategy.
 [note] (p.203) Sakayanagi names Horikita Suzune as one of the “smart people” in Class D.
 [note] (p.205) Postscript: the story focused mainly on the class as a whole, with Horikita in the lead.
+
+## y1v6
+
+<!-- walk: y1v6 → start -->
+
+### y1v6 p.11–12 — Ch.1: named in Kushida’s soliloquy
+[scene] (p.11) Kushida’s cold-open names her as the girl on the high-school bus who already knew the junior-high incident.
+[rel:kushida-kikyou] (p.11) The bus meeting on the first day of high school is the reason Kushida’s new life “turned out to be a disaster.”
+[rel:kushida-kikyou] (p.12) “She knew about the incident. As long as she was here, I’d never have peace.” — recorded under Kushida’s field; Suzune does not speak in this chapter.
+[note] (p.12) No Suzune dialogue or action on these pages; the soliloquy is Kushida’s alone.
+
+<!-- walk: y1v6 ch1 → p.13 -->

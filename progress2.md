@@ -1930,3 +1930,14 @@ paraphrase notes where lines were already covered or short; verify 697
 (R18 0, R19 82/82); gate exit 0; build hash
 `76e9e5764687d3400ee0e9c044e103a3` twice. New tags: none. Volume complete.
 Next volume per owner order: y1v6.
+
+### y1v6 ch1 (pp.10–13) — walked
+New volume opens with Kushida Kikyou’s cold-open soliloquy (first y1v6
+heading + start marker on her ledger and Horikita Suzune’s; volume ledger
+created via ledger-new). Beats: ideal-self inventory, junior-high incident,
+trust-as-currency, bus bump into Suzune. People stamped kushida-kikyou,
+horikita-suzune; volume stamped `y1v6 ch1 → p.13`. Short/blank p.13
+recorded as a note. verify y1v6: 6 [says] ALL PASS + 7 non-says ALL
+PASS; make check OK (R18 0, R19 82/82); gate exit 0; hash
+`620b39f6c8f086e584418aa61b1275cf` twice. New tags: none. Next: ch2
+p.14–29.

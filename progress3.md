@@ -1458,3 +1458,9 @@ Kamuro’s surname-only absence, and Atsuomi’s zero hits. Quotes: 697
 [says] (2 too short/skipped) and 251 non-says spans, corpus-exact;
 R18/R19 held at 0/82. Determinism hash across consecutive builds:
 `76e9e5764687d3400ee0e9c044e103a3`.
+
+Year 1 Volume 6 opens with a four-page interior monologue. The volume
+ledger is created with the chapter-1 section; Kushida and Horikita gain
+their first y1v6 blocks. Quote hygiene: 6 [says] spans (none too short)
+and 7 non-says spans, corpus-exact; R18/R19 held at 0/82. Determinism
+hash across consecutive builds: `620b39f6c8f086e584418aa61b1275cf`.
