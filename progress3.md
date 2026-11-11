@@ -1392,3 +1392,11 @@ private-points rules; the four-way tug-of-war and the rock-paper-scissors
 staffing join the Sports Festival exam. Quotes: 125 [says] and 78 non-says
 spans, corpus-exact; R18/R19 held at 0/82. Determinism hash across
 consecutive builds: `bfc0ce9e40792479cf8bbc9187ba29f1`.
+
+Chapter 4 carries the practice arc onto the volume page: the watching classes,
+the name bet, Sudou’s leadership week, and Ayanokōji’s three-legged lesson
+with the two named problems (Horikita’s partnerships, Kushida’s darkness).
+Inogashira gains her first y1v5 rows; Katsuragi and Ryuuen record the
+Class A/B/C positioning from the field. Quotes: 131 [says] and 118 non-says
+spans, corpus-exact; R18/R19 held at 0/82. Determinism hash across
+consecutive builds: `84cb0fa45e1f945543e8a69c9d0083c2`.

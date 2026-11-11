@@ -473,3 +473,9 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [note] (p.24) The “we want a chance” speeches sit untagged between Horikita and Sudou — the translation does not say whether Ike or Yamauchi speaks them.
 
 <!-- walk: y1v5 ch2 → p.38 -->
+
+### y1v5 p.54–67 — Ch.4 §4: On the losing end of the demo
+[scene] (p.59) Yamauchi faces Sudou in the tug-of-war demonstration alongside Ike and is pulled down in seconds.
+[rel:sudou-ken] (p.60) Gets dirt kicked at him when Sudou snaps during the coaching session.
+
+<!-- walk: y1v5 ch4 → p.67 -->

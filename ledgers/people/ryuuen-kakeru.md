@@ -305,3 +305,11 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [status] (p.27) The walkout confirms his hold on Class C inside the volume’s first pages.
 
 <!-- walk: y1v5 ch2 → p.38 -->
+
+### y1v5 p.54–67 — Ch.4 §4: The reconnaissance that isn’t
+[scene] (p.54) Ayanokōji and Horikita discuss Ryuuen at the edge of the first practice: not one Class C student is watching D.
+[rel:horikita-suzune] (p.54–55) She reads the silence as a strategy already in place — “Reconnaissance isn’t necessary for him.”
+[rel:ayanokouji-kiyotaka] (p.55) The tell is that he isn’t hiding it: making the absence of reconnaissance obvious is itself the display.
+[tactic] (p.54–55) Ryuuen’s non-scouting reads as a message to the other classes, not as disinterest.
+
+<!-- walk: y1v5 ch4 → p.67 -->

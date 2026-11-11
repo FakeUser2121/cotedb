@@ -735,3 +735,15 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [says] (p.52) “This information is top secret, so everyone, please only make note of your events and your partners.”
 
 <!-- walk: y1v5 ch3 → p.53 -->
+
+### y1v5 p.54–67 — Ch.4 §4: Gentle methods, three-legged partner
+[scene] (p.57) Hirata records the aptitude scores and asks Sudou to take the festival leadership.
+[rel:sakura-airi] (p.57) Records Sakura’s last-place finish; the praise line that follows is untagged, and Sakura answers Ayanokouji-kun.
+[rel:sudou-ken] (p.57) “Would you mind leading our class for this?”
+[rel:katsuragi-kouhei] (p.64) Keeps up the periodic Class A meetings with Katsuragi on how best to compete.
+[rel:horikita-suzune] (p.60) Fixes the cavalry girls’ carriage by millimetres — “Let’s change the positioning a bit.”
+[rel:ayanokouji-kiyotaka] (p.62) Calls Ayanokōji over for a three-legged pair after Horikita’s partnership fails.
+[says] (p.63) “It’s really, really easy with Ayanokouji-kun as my partner.”
+[trait] (p.63) Finishes his own practice and is straight off advising others — the class’s default gentle teacher.
+
+<!-- walk: y1v5 ch4 → p.67 -->

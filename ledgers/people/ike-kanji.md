@@ -556,3 +556,11 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:sotomura-hideo] (p.52) “I’m so jealous!” — after Ayanokōji’s group is picked for the scavenger hunt.
 
 <!-- walk: y1v5 ch3 → p.53 -->
+
+### y1v5 p.54–67 — Ch.4 §4: The watching classes and the tug demo
+[scene] (p.54) Ike spots Class B and A students watching the first practice from the school-building windows.
+[says] (p.54) “Hey, they’re from Class B, right?”
+[rel:sudou-ken] (p.59) On the receiving end of Sudou’s tug-of-war demonstration — he and Yamauchi go down in seconds.
+[rel:sudou-ken] (p.60) Gets dirt kicked at him when Sudou loses patience with the pull.
+
+<!-- walk: y1v5 ch4 → p.67 -->

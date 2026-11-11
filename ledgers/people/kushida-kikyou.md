@@ -772,3 +772,13 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [action] (p.44) Volunteers for recommended events once Horikita’s plan carries the vote.
 
 <!-- walk: y1v5 ch3 → p.53 -->
+
+### y1v5 p.54–67 — Ch.4 §4: Names Sudou the leader; named the second problem
+[scene] (p.57) Kushida cheers Sudou through the aptitude tests and is the first to call him the festival leader.
+[says] (p.57) “You always end up taking first place in our class, no matter the event.”
+[says] (p.57) “Really, Sudou-kun, you’re definitely the sports festival leader,”
+[rel:sudou-ken] (p.57) Her praise is what pushes Sudou toward the leadership Hirata then offers.
+[rel:ayanokouji-kiyotaka] (p.65–66) Ayanokōji’s second problem: a backstage supporting character with unusual influence, academically and physically gifted — and assigned to Class D as a mystery.
+[rel:horikita-suzune] (p.66) He knows she hates Horikita from an early rooftop rant, and resolves that the two must confront each other.
+
+<!-- walk: y1v5 ch4 → p.67 -->

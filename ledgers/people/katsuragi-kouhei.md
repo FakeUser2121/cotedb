@@ -347,3 +347,10 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [status] (p.30) The narration reads his faction as possibly no longer superior — Sakayanagi may be demonstrating her power deliberately.
 
 <!-- walk: y1v5 ch2 → p.38 -->
+
+### y1v5 p.54–67 — Ch.4 §4: The standing Class A meetings
+[scene] (p.64) Katsuragi is named as Hirata’s periodic counterpart on how the two classes should compete.
+[rel:hirata-yousuke] (p.64) Meetings continue through the run-up — Class D, an inch from disaster, is doing almost too well.
+[rel:ryuuen-kakeru] (p.54–55) Background: Ryuuen refused to cooperate with Class B earlier in the volume, so no Class C–B channel exists.
+
+<!-- walk: y1v5 ch4 → p.67 -->

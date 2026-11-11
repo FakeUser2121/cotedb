@@ -241,3 +241,10 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [note] (p.49–51) Refuses the grip-strength meter when Sudou challenges him; Ayanokōji later writes “Kouenji aside, I ended up placing second in the class,” so Kōenji ranked above without a printed figure.
 
 <!-- walk: y1v5 ch3 → p.53 -->
+
+### y1v5 p.54–67 — Ch.4 §4: Sits out the tests
+[scene] (p.57) Kōenji is named among the few who sit out the aptitude testing — along with the Professor.
+[rel:sudou-ken] (p.57) Sudou’s grudge: nobody in the class has seen him run seriously, though he beat Sudou’s swimming time.
+[trait] (p.57) Won’t budge unless he wants to — his skill is obvious, his participation isn’t.
+
+<!-- walk: y1v5 ch4 → p.67 -->

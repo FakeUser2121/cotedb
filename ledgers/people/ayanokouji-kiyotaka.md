@@ -2937,3 +2937,22 @@ walk: y1v1 → DONE
 [rel:horikita-suzune] (p.52) Admits the roster problem — “Many participants were chosen against their will,” — and Horikita answers that the class’s athletic gap is to blame.
 
 <!-- walk: y1v5 ch3 → p.53 -->
+
+### y1v5 p.54–67 — Ch.4 §4: The Ryuuen read, the partner lesson, the two problems
+[scene] (p.54) First independent practice on the athletic grounds: Class A and B watch from the windows, Class C does not, and Ayanokōji and Horikita talk strategy at the edge of the field.
+[rel:ryuuen-kakeru] (p.55) Reads the missing reconnaissance as the tell: “He’s making it obvious by not bothering to do any reconnaissance,”
+[says] (p.55) “Normally, when someone has a secret plan in place, they do whatever it takes to ensure that their enemies don’t figure it out.”
+[rel:horikita-suzune] (p.60) Lets her pin him down on his PE record — “Nope, I’m not confident.” — after she calls his scores average.
+[rel:horikita-suzune] (p.60) “I’m sorry to disappoint, but what you see is what you get.”
+[rel:horikita-suzune] (p.61) “Would I do something so pointless?” — when she asks if he is holding back like he did on tests.
+[rel:horikita-suzune] (p.61) “You’ll learn the answer to that soon enough.”
+[rel:hirata-yousuke] (p.62) Pairs with Hirata for three-legged practice after Horikita’s partnership with Onodera collapses.
+[rel:hirata-yousuke] (p.63) Finds the rhythm quickly — Hirata’s praise makes the awkward drill feel simple.
+[rel:horikita-suzune] (p.64) Invites himself as her three-legged partner: “Partner with me for the three-legged race.”
+[rel:horikita-suzune] (p.65) Outpaces her on purpose, then gives the lesson: “This wasn’t about fast or slow.”
+[rel:horikita-suzune] (p.65) “The important thing is to work with your partner.”
+[goal] (p.66) Names his two problems for the class: Horikita, who cannot keep a partner, and Kushida, whose rooftop darkness and hatred of Horikita must be confronted.
+[rel:kushida-kikyou] (p.66) “Therefore, the only way to resolve the issue was to have them confront one another.”
+[note] (p.57) The praise after Sakura’s last-place finish — “You really gave it your all.” — carries no speaker tag; Sakura’s reply addresses Ayanokouji-kun, so it is recorded here rather than assigned outright.
+
+<!-- walk: y1v5 ch4 → p.67 -->

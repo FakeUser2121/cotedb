@@ -1775,3 +1775,26 @@ that is two rounds, Miyamoto/Kōenji tug-of-war misattributions) before
 commit. make check OK (R18 0, R19 82/82); gate exit 0; build 181 pages,
 62 assets; hash `bfc0ce9e40792479cf8bbc9187ba29f1` twice. New tags: none.
 Open: ch4 pp.54–67.
+
+### y1v5 ch4 (pp.54–67) — Everyone's Calculations — walked
+Read the full chapter with blank flags (463-line extract). First independent
+practice: Class A/B watch from the windows, Class C’s silence reads as
+Ryuuen’s strategy already set; the Sudou–Horikita name bet (first in grade
+buys the first name, failure forbids it forever); §4.1 aptitude tests —
+Sakura last, Sudou unbeatable, Kushida names him leader and Horikita gives
+a cold half-approval; §4.2 Sudou coaches (tug-of-war, cavalry, dirt-kicked
+Ike and Yamauchi) while Horikita drives partners away and Ayanokōji boxes
+her in on the holding-back question, then outpaces her in the three-legged
+demo; §4.3 mid-September, two named problems — Horikita’s partnerships and
+Kushida’s rooftop hatred. Ledger appends: 15 files stamped y1v5 ch4 → p.67
+(volumes/y1v5, ayanokouji-kiyotaka, horikita-suzune, sudou-ken, hirata-yousuke,
+ike-kanji, kushida-kikyou, kouenji-rokusuke, sakura-airi, yamauchi-haruki,
+onodera, inogashira-kokoro, katsuragi-kouhei, ryuuen-kakeru, sotomura-hideo);
+no new files, no TSV edits. Two fixes pre-verify: an untagged praise line
+moved out of Hirata’s ledger into an attribution-gap note, and an inverted
+Katsuragi/Ryuuen cooperation row corrected. An append re-pass briefly
+duplicated the Ayanokōji section; the duplicate was removed before verify.
+Quotes: verify 131 [says] + 118 non-says ALL PASS. make check OK (R18 0,
+R19 82/82); gate exit 0; build hash
+`84cb0fa45e1f945543e8a69c9d0083c2` twice. New tags: none. Open: ch5
+pp.68–85.

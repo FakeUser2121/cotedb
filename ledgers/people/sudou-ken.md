@@ -705,3 +705,21 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:ayanokouji-kiyotaka] (p.51) Despairs at the class’s depth: “Man, I can’t rely on a single one of you.”
 
 <!-- walk: y1v5 ch3 → p.53 -->
+
+### y1v5 p.54–67 — Ch.4 §4: The name bet and the leader’s first week
+[scene] (p.55) Sudou arrives mid-practice and calls Horikita by her first name, starting the chapter’s central bet.
+[rel:horikita-suzune] (p.55) “You have a minute?” — how the “Suzune” address opens.
+[rel:horikita-suzune] (p.55) “Not too long ago, you saved me.” — why he wants to do things properly.
+[rel:horikita-suzune] (p.55) “I think I’d like to be friends with you, first.”
+[rel:horikita-suzune] (p.56) Accepts the grade-wide bar: “If I place first in our grade level, I’ll call you by your first name,”
+[rel:horikita-suzune] (p.56) Goes “Y-yeah” when she adds the forever-forbidden penalty.
+[rel:kushida-kikyou] (p.57) Unbeatable in the aptitude tests — Kushida calls him the sports festival leader.
+[rel:kouenji-rokusuke] (p.57) Glares at Kōenji over the untested running question: “Even so, I dunno what’ll happen if he runs.”
+[rel:hirata-yousuke] (p.57) Handed the leadership by Hirata: “Would you mind leading our class for this?”
+[rel:horikita-suzune] (p.57) “I ain’t really suited to be a leader or anythin’…”
+[rel:horikita-suzune] (p.58) “Okay! I’ll lead our class to victory,” — living up to her half-approval.
+[feat] (p.59) Coaches tug-of-war by demonstration, beating Ike and Yamauchi in seconds, and teaches hips over arms.
+[rel:ike-kanji] (p.59) “Look, I’m tellin’ you that ain’t it!” — kicks dirt at Ike and Yamauchi when they botch the pull.
+[rel:horikita-suzune] (p.59) Thorough with every student who asks, but his rashness keeps undercutting the gentler style a leader needs.
+
+<!-- walk: y1v5 ch4 → p.67 -->

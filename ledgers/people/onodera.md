@@ -11,3 +11,10 @@ char_id: onodera · class: Class 1-D · status: minor
 [action] (p.44) Offers herself for the recommended-participant events once the class resolves to win as a class.
 
 <!-- walk: y1v5 ch3 → p.53 -->
+
+### y1v5 p.54–67 — Ch.4 §4: Three-legged partner for Horikita
+[scene] (p.62) Onodera, the swimming-club sprinter, is paired with Horikita for three-legged race practice — and they come in third.
+[rel:horikita-suzune] (p.62) Two failed runs: “Hey, Horikita-san, can’t you try to keep pace with me better?”
+[rel:horikita-suzune] (p.62) Horikita answers that Onodera is the slow one; the partnership dissolves on the spot.
+
+<!-- walk: y1v5 ch4 → p.67 -->

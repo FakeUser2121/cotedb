@@ -1744,3 +1744,25 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ayanokouji-kiyotaka] (p.52) Notes his mood after the roster is filled — “You look more somber than usual.” — and blames the class’s athletic gap.
 
 <!-- walk: y1v5 ch3 → p.53 -->
+
+### y1v5 p.54–67 — Ch.4 §4: The name bet and the partner problem
+[scene] (p.54) Horikita talks strategy at the first practice, then is interrupted by Sudou calling her by her first name.
+[rel:ryuuen-kakeru] (p.54) “Surely the other students must think they’re safe, though.” — on the classes watching D practice.
+[rel:ryuuen-kakeru] (p.54) “Anyone would want information on the other classes.”
+[rel:sudou-ken] (p.55) “I’ve told you numerous times. Please do not call me by my first name.”
+[rel:sudou-ken] (p.55) “If you continue to call me ‘Suzune’ after this warning, I’ll have to take more direct action to make you stop.”
+[rel:sudou-ken] (p.55) “Hard work is its own reward. Why should I agree to such an idiotic bet?”
+[rel:sudou-ken] (p.55) Takes his bet and raises the bar: “If you produce the best results, I will allow you to use my first name.”
+[rel:sudou-ken] (p.55) “Show me that you can be the best out of everyone in our grade,”
+[rel:sudou-ken] (p.56) The penalty clause: “However, in the event that you don’t get first place, I’ll forever forbid you from saying my first name.”
+[rel:sudou-ken] (p.58) Neither encourages nor rejects his leadership claim: “I wouldn’t object to you serving as leader in this.”
+[rel:sudou-ken] (p.58) “Don’t get overconfident and sloppy, because I’ll make you pay for that,”
+[rel:sudou-ken] (p.59) Watches his coaching with dry approval: “Leadership might actually suit him, don’t you think?”
+[rel:hirata-yousuke] (p.60) “I don’t want to teach them.” — refuses to coach the cavalry girls.
+[rel:ayanokouji-kiyotaka] (p.60) “You always get average scores.” — her read on his PE performance.
+[rel:ayanokouji-kiyotaka] (p.61) “I might not be able to reach Class A just by improving my own skills,” — an uncharacteristically timid admission.
+[rel:onodera] (p.62) Fights with Onodera through two three-legged runs and comes in third; blamed for the pace.
+[rel:ayanokouji-kiyotaka] (p.64) Rejects every partner until Ayanokouji offers himself: “If I’m expected to yield, my partner must put in the effort first.”
+[rel:ayanokouji-kiyotaka] (p.65) Loses the demonstration run and is told to look at her partner instead of the clock.
+
+<!-- walk: y1v5 ch4 → p.67 -->

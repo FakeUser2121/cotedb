@@ -135,3 +135,9 @@ char_id: sotomura-hideo · class: Class 1-D (enrolled April 2015) · status: min
 [says] (p.52) “Why, oh why did I throw rock at that moment?”
 
 <!-- walk: y1v5 ch3 → p.53 -->
+
+### y1v5 p.54–67 — Ch.4 §4: Sits out the tests
+[scene] (p.57) Sotomura — the Professor — is named with Kōenji as one of the few who sit out the aptitude testing.
+[trait] (p.57) opts out of the physical tests while roughly 90 percent of the class takes part.
+
+<!-- walk: y1v5 ch4 → p.67 -->

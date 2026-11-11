@@ -629,3 +629,11 @@ aliases used for anchors: sakura, airi, sakura-san
 [rel:sudou-ken] (p.43) Follows Sudou’s declared choice into the same camp.
 
 <!-- walk: y1v5 ch3 → p.53 -->
+
+### y1v5 p.54–67 — Ch.4 §4: Last place, then the worst pair
+[scene] (p.57) Sakura finishes last in the aptitude tests, barely able to stand, and is praised for giving it her all.
+[says] (p.57) “A-Ayanokouji-kun.”
+[trait] (p.57) Works hard to contribute for the class, but her lack of physical endurance is still the problem.
+[rel:inogashira-kokoro] (p.62) Pairs with Inogashira for the three-legged race — the slowest of the five girl pairs, “slow as molasses.”
+
+<!-- walk: y1v5 ch4 → p.67 -->
