@@ -844,5 +844,56 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [says:sudou-ken] (p.191) “Yeah,” Sudou replied. “It’s unfortunate. But a promise is a promise. I’ll call you Horikita from now on.”
 [says:sudou-ken] (p.192) “It’s my punishment, right? I promise,”
 [rel:horikita-suzune] (p.192) Accepts the no-violence condition and her granted first name; raises both arms: “The sports festival is the best! It’s the best, Suzune!”
+[passing mention] (p.65) Practice continues; no one pays attention to the secret talk nearby because Sudou is drilling.
 
 <!-- walk: y1v5 ch9 → p.204 -->
+
+### y1v5 p.2, 34, 42, 52, 62, 64–65, 79, 89, 92, 94–95, 97, 99–101, 109, 111, 118–121, 128, 130, 134–138, 140, 142, 144, 147, 152–153, 156–158, 160, 162, 168–169, 172, 182, 184, 187, 194, 198 — Ch.1–9: passing mentions
+[scene] (p.2) Front matter only: the table of contents lists Chapter 1: Sudou Ken’s Soliloquy.
+[note] (p.2) Copyright and credits pages; no story content beyond the chapter title.
+[note] (p.34) Class strategy since the fight that nearly got Sudou expelled — can Horikita still not see that?
+[note] (p.42) “Oh, yeah, that’d be fine,” said Sudou with a disdainful snort at the opposition.
+[note] (p.52) Scavenger-hunt six: Sotomura, Mori, Maezono — adding Sudou makes six with Hirata.
+[note] (p.62) Three-legged practice: “Those two’re kinda slow, huh?” mused Sudou.
+[note] (p.64) Sudou remains steadfast and practices tirelessly; no one pays attention to the secret talk nearby.
+[note] (p.79) The only ones who could hold their own were Sudou and Hirata — even they’d be hard-pressed.
+[note] (p.89) “Where’s Sudou?” — his absence during Horikita’s race gives Ayanokouji a bad feeling.
+[note] (p.92) As Horikita’s race began, Sudou calmed down a little; Sakura appears while Ayanokouji was chasing Sudou.
+[note] (p.94) “Those two completely outran everyone else,” said Sudou; athletic firsts include him.
+[note] (p.95) “Your speed’s the only thing you’re proud of, right?” said Sudou to Ike about Shibata.
+[note] (p.97) Hurdle final group: Sudou shouts orders at the Professor about knocking down hurdles.
+[note] (p.99) Katsuragi is reluctant to show weakness against students with low academic ability like Sudou.
+[note] (p.100) Sudou rallies the D/A flag team; Ishizaki and Komiya are named from the earlier fight with him.
+[note] (p.101) Sudou charges in headfirst; Ike fears Sudou’s death penalty if he skips the flag rush.
+[note] (p.109) Tug-of-war war cry; Sudou stands up and charges at Ryuuen after the flag loss.
+[note] (p.111) Ike’s concern: if Sudou didn’t win his own race, he’d take it out on the rest.
+[note] (p.118) Sudou is leading Class D in this sports festival while Karuizawa and Kushida stay popular.
+[note] (p.119) Sudou in particular had been on the receiving end of Ryuuen’s tactics.
+[note] (p.120) “H-hey, what the hell?” shouted Ike as Sudou clenched his teeth watching Class C ignore Class A.
+[note] (p.121) “Ryuuen probably ordered that. Scumbag!” Sudou growled on the Horikita-targeting.
+[note] (p.128) Sudou slams into the enemy, drops to his knees when Hirata’s headband is snatched; glares at Ryuuen.
+[note] (p.130) Ryuuen set weaker students against athletes like Sudou and Hirata.
+[note] (p.134) Kouenji absent, and now Sudou had walked off — Class D’s chances look bleak.
+[note] (p.135) Ryuuen: “Hirata, what happened to Sudou? He taking a dump?”
+[note] (p.136) A little over an hour left until Sudou’s turn; if he doesn’t return, checkmate.
+[note] (p.137) Ryuuen needled Sudou on purpose until he got him to drop out — the MVP was nearly undefeatable.
+[note] (p.138) Choose ranking without Sudou or let it plummet until he returns; “you aren’t nearly as valuable as Sudou.”
+[note] (p.140) Kushida abstains to look for Sudou; Ike and Yamauchi show no interest in his whereabouts.
+[note] (p.142) “Without Sudou, it won’t be easy for us to win the second half.”
+[note] (p.144) Horikita must chase after Sudou-kun with a leg that still won’t move.
+[note] (p.147) “You haven’t forgotten what happened to Sudou after his fight, have you?” — council threat.
+[note] (p.152) “You messed with Sudou-kun earlier. Don’t pretend you forgot.”
+[note] (p.153) Back when the basketball boys attacked Sudou-kun, they lied about the cause.
+[note] (p.156) “I had to find Sudou-kun as soon as possible.”
+[note] (p.157) Despite the pain, she ran everywhere looking for Sudou-kun.
+[note] (p.158) Maybe Sudou-kun had come back; no one had seen any sign of him.
+[note] (p.160) “The problem is that Sudou-kun’s not here” — marked absent for the scavenger hunt.
+[note] (p.162) Two of the only classmates Ayanokouji could count as friends, Horikita and Sudou, were absent.
+[note] (p.168) Even with a substitute for Sudou, the fourway tug-of-war is lost; our ace was still absent.
+[note] (p.169) “Could I go in as Sudou’s substitute?” — Ayanokouji offers the points; Chabashira asks if he’s sure.
+[note] (p.172) “I can’t believe Horikita-san went off looking for Sudou-kun like that,” Kushida commented.
+[note] (p.182) Horikita bows as Sudou had done earlier; the relay list has Sudou at the top.
+[note] (p.184) Sudou passed the baton to Hirata after opening a fifteen-metre gap.
+[note] (p.187) The class’s feelings. Sudou’s feelings. Horikita’s feelings — Ayanokouji claims no interest in any of those.
+[note] (p.194) Sudou-kun left while chatting with Ike-kun and the others after the festival.
+[note] (p.198) Horikita: the island, the cruise ship, and the incident with Sudou-kun — I’ve just kept on losing.

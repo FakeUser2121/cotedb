@@ -22,3 +22,7 @@ char_id: fujimaki · class: Class 3-A · status: minor
 [scene] (p.86) Fujimaki, third-year Class A, gives a speech during the opening ceremony as the whole student body stands in jerseys.
 [action] (p.86) Speaks for the Red Team command he took at the assembly; spectators on the outskirts watch without strict restriction.
 [note] (p.86) The speech’s content is not quoted; only the fact of it is on the page.
+
+### y1v5 p.32 — Ch.2: a passing mention
+[scene] (p.32) Named as the third-year who took Red Team command when the festival opened.
+[note] (p.32) The café rules recap and assembly lead-in both credit Fujimaki with the mixed-team command.

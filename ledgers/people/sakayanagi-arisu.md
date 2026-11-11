@@ -119,3 +119,13 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:kamuro-masumi] (p.202) Uses Kamuro as the courier to bring him up; dismisses her with “Excellent work, Masumi-san.”
 
 <!-- walk: y1v5 ch9 → p.204 -->
+
+### y1v5 p.47–48, 89, 107, 118, 175, 190 — Ch.3–9: passing mentions
+[scene] (p.47) Named as Class A’s other pole and the White Team’s natural general across festival margins.
+[note] (p.47) Sakayanagi would be good for the White Team and for Class C’s opposite number.
+[note] (p.48) She wasn’t physically active but wasn’t harmless; Katsuragi’s strategy is solid against her faction.
+[note] (p.89) Class A had Sakayanagi, who also wouldn’t participate in any events.
+[note] (p.107) Yahiko shouts at Sakayanagi’s faction; Katsuragi says a lack of cooperation will be blamed on her.
+[note] (p.118) Rivalry between Katsuragi and Sakayanagi is visible; her faction has greater numbers.
+[note] (p.175) Horikita might rope in Sakayanagi among Class A allies if needed.
+[note] (p.190) Two absentees, Kouenji and Sakayanagi, factored majorly into the first-year fourth place.

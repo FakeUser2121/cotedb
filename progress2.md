@@ -1912,3 +1912,21 @@ were opened this chapter” (pipeline word \bledgers?\b). Quotes: verify
 (R18 0, R19 82/82); gate exit 0; build hash
 `860cec3a25ebfa4a6e3aaca3681dd1e3` twice. New tags: none. Open: ch10
 postscript pp.205–207 (y1v5 final).
+
+### y1v5 ch10 postscript (pp.205–207) + volume-end coverage gate — walked
+Postscript only: Kinugasa’s four-month note, author/illustrator bios,
+newsletter block; no in-story dialogue and no roster character on the
+page. Volume stamped y1v5 ch10 → p.207 and closed with
+`<!-- walk: y1v5 postscript → DONE -->`. Coverage gate: page locator run
+for all 49 roster cells carrying y1v5; real gaps (name present, not yet
+cited) filled as grouped passing-mention sections across 27 people files
+without new chapter stamps. Documented exceptions in the volume coverage
+notes: ayanokouji-atsuomi never named; Sonoda-kun p.79 ambiguous between
+both sonoda rows; Onodera pp.44/62/182/184 recorded under onodera (full
+name “Onodera Kayano” never printed); Kamuro appears only as Masumi on
+p.202 (locator misses the surname). Quote hygiene: fill rows use
+paraphrase notes where lines were already covered or short; verify 697
+[says] (2 too short/skipped) + 251 non-says ALL PASS. make check OK
+(R18 0, R19 82/82); gate exit 0; build hash
+`76e9e5764687d3400ee0e9c044e103a3` twice. New tags: none. Volume complete.
+Next volume per owner order: y1v6.

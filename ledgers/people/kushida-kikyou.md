@@ -883,3 +883,26 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [status] (p.201) Puzzled by the Class C recording; her expel plan half-achieved at best.
 
 <!-- walk: y1v5 ch9 → p.204 -->
+
+### y1v5 p.46, 65, 70, 79, 81–84, 95, 117–118, 120, 136, 146, 170, 183–184, 198–200 — Ch.3–9: passing mentions
+[scene] (p.46) Named across VIP, strategy, festival and traitor margins outside her own scene cards.
+[note] (p.46) Karuizawa’s call script ends with ask Kushida for her opinion.
+[note] (p.65) “Kushida Kikyou was the second problem” in Ayanokouji’s class inventory.
+[note] (p.70) VIP talk: if Kushida intentionally exposed her identity, the points could have been had another way.
+[note] (p.79) Ayanokouji could not quite read Kushida; Horikita knew the hatred from the start.
+[note] (p.81) “That’s what I’ve said from the very beginning,” said Kushida — trust me; strategy needs her network.
+[note] (p.82) While Hirata is at the podium, Kushida faces the blackboard with chalk.
+[note] (p.83) Kushida hesitantly enters the anchor conversation with Sudou and Horikita.
+[note] (p.84) Kushida asks if Sudou-kun’s satisfaction settles the list; she will submit after.
+[note] (p.95) “Maybe if I was popular like Kushida, I could have gotten to him” — Horikita on Kōenji.
+[note] (p.117) Three-legged: Horikita and Kushida come in last after Class B snatches third.
+[note] (p.118) Class D’s popular pair is still Karuizawa and Kushida.
+[note] (p.120) Girls’ cavalry jockeys: Mori, Kushida and Karuizawa.
+[note] (p.136) If Hirata or Kushida had stormed off, the entire class would have gone looking.
+[note] (p.146) Chabashira: “I had Kushida fetch you. Looks like she was quick about it.”
+[note] (p.170) Ichinose and Kushida compare festival placements; Kushida placed second once.
+[note] (p.183) Relay order: the three girls — Kushida included — run before Ayanokouji’s anchor.
+[note] (p.184) Maezono passes the baton to Kushida, the fifth runner, as Class A overtakes.
+[note] (p.198) Ryuuen: before the sports festival, I had Kushida get her hands on Class D’s participation table.
+[note] (p.199) Recording replay: the same line again as Horikita interrupts the tape.
+[note] (p.200) Kushida smiles boldly with Ryuuen while Horikita kneels.

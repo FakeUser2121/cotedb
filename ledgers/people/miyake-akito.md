@@ -28,3 +28,7 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [rel:ayanokouji-kiyotaka] (p.182) Questions Ayanokouji’s speed when he volunteers as replacement.
 
 <!-- walk: y1v5 ch9 → p.204 -->
+
+### y1v5 p.183 — Ch.9: a passing mention
+[scene] (p.183) Named when Hirata and Ayanokouji account for the ankle that forced the relay substitution.
+[note] (p.183) “Yeah. Miyake’s injury was unexpected,” Ayanokouji replies; the plan from the start had assumed Miyake.

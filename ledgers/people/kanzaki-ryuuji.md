@@ -173,3 +173,8 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [rel:ryuuen-kakeru] (p.125) Left as sole enemy after this unit and Shibata’s fall; the D/A surround begins.
 
 <!-- walk: y1v5 ch6 → p.143 -->
+
+### y1v5 p.100, 162 — Ch.6–8: passing mentions
+[scene] (p.100) Named as a Class B leader on the capture-the-flag field.
+[note] (p.100) Class B’s guys face D/A with Kanzaki and Shibata leading them.
+[note] (p.162) Scavenger-hunt enemies: Ichinose and Kanzaki are currently Ayanokouji’s opponents.

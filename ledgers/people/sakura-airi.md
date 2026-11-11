@@ -657,3 +657,8 @@ aliases used for anchors: sakura, airi, sakura-san
 [action] (p.94) Always the slowest in practice, she finally beats someone on her own effort, not an opponent’s mistake.
 [action] (p.99) Runs the girls’ hurdles in the same heat as Horikita; zero expectations, trembling at the start.
 [trait] (p.92–99) Gratitude for the smallest kindness; her festival is measured in not finishing last.
+
+### y1v5 p.98, 189 — Ch.6, Ch.9: passing mentions
+[scene] (p.98) Named in the stalker-incident flashback that Ichinose may have seen Ayanokouji running.
+[note] (p.98) Back during the incident with Sakura’s stalker, she might have seen him; she paid for that knowledge somehow.
+[note] (p.189) After the relay, Sakura was also looking at Ayanokouji from afar, blocked by the crowd.

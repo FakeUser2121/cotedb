@@ -150,3 +150,9 @@ char_id: sotomura-hideo · class: Class 1-D (enrolled April 2015) · status: min
 [note] (p.97) The Professor answers “Egad! O-okay, I will!” — too short for a quote row.
 [action] (p.98) Clears no hurdles, knocks them all over, finishes last; Sudou still credits Shibata’s first.
 [trait] (p.97–98) Chickens out of what he barely cleared in practice — the Professor’s body betrays the name.
+
+### y1v5 p.51, 88, 101 — Ch.3, Ch.6: passing mentions
+[scene] (p.51) Named as the Professor in academic and festival margins.
+[note] (p.51) Grip strength: Sotomura got 42 after Hirata’s 42.6 and before Miyamoto’s 48.
+[note] (p.88) The Professor — the second Class D student in the first group — manages to complete the course.
+[note] (p.101) Students who were especially unaggressive, like the Professor and Ayanokouji, bring up the rear.

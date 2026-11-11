@@ -547,3 +547,13 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:ayanokouji-kiyotaka] (p.169) Notes his usual sideline habit while approving the entry.
 
 <!-- walk: y1v5 ch8 → p.180 -->
+
+### y1v5 p.21, 32, 47, 157–158, 173–174 — Ch.2–8: passing mentions
+[scene] (p.21) Homeroom rules and gate warnings where she is the authority voice off the main beat.
+[note] (p.21) Written-test-point and substitute rules attributed to her briefing.
+[note] (p.32) Sports-festival name-check in the café debrief’s rules recap.
+[note] (p.47) Class strategy pages cite her as the teacher who logs reports.
+[note] (p.157) After the false-injury trap, her preventative report is already the ch7 spine; these pages repeat her name in Horikita’s self-reproach.
+[note] (p.158) Same thread: Chabashira-sensei mentioned while Horikita searches for Sudou.
+[note] (p.173) Substitute negotiation with Ayanokouji names her as the approver.
+[note] (p.174) She accepts the 100,000-point substitute plan for the scavenger hunt.

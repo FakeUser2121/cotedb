@@ -842,5 +842,43 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:ayanokouji-kiyotaka] (p.183) Only Hirata and Ayanokouji knew the pre-arranged substitute plan.
 [says:hirata-yousuke] (p.183) “It’s only natural for me. Besides, I’d hate it if Ryuuen-kun beat us again. Think he’ll be surprised that you’re running?”
 [feat] (p.184) Second leg: glorious run that holds the gap into Onodera.
+[passing mention] (p.59) Letter-plan and class-unity talk continues; he remains the popularity anchor.
+[passing mention] (p.126) Boys’ cavalry close: Hirata and Katsuragi’s units survive to surround Ryuuen.
+[passing mention] (p.190) Post-race strategy margin: masterminded behind the scenes by Hirata and Horikita’s plan.
 
 <!-- walk: y1v5 ch9 → p.204 -->
+
+### y1v5 p.20, 40–41, 44, 50, 58–59, 66, 70, 76–77, 90, 94–95, 100, 102, 106, 110, 116, 123, 125–126, 129–131, 136, 138, 140, 163, 176, 189–190, 195, 201, 203 — Ch.2–9: passing mentions
+[scene] (p.20) Class leader named across rules, strategy and festival margins outside his own scene cards.
+[note] (p.20) Ike’s written-test shout lands in Hirata’s rules exchange with Chabashira.
+[note] (p.40) Blackboard vote and grip-strength roster pages list him among the obvious first-name choices.
+[note] (p.41) Rescue-call margins: he is the reliable guy people expect to fetch help.
+[note] (p.44) Sports-festival volunteer list includes him with Kushida and Onodera.
+[note] (p.50) Entrance-betrayal warning: Ayanokouji refuses to take his past at face value.
+[note] (p.58) Letter-plan and class-unity talk name him as the popularity anchor.
+[note] (p.66) Chabashira’s comparison of backstage popularity cites Hirata and Karuizawa over Kushida.
+[note] (p.70) VIP-network talk: Ayanokouji and Hirata never told anyone Kushida was the VIP.
+[note] (p.76) Strategy pages after the café debrief keep him as Horikita’s counterweight.
+[note] (p.77) Nagumo handles both Hirata and Shibata on the track; his skill is noted.
+[note] (p.90) Festival seating and cheer margins name him before the first-year dashes.
+[note] (p.94) Athletic results: Sudou, Horikita and Hirata take firsts in their groups.
+[note] (p.95) Shibata talk: Horikita says Kōenji would not listen to Kushida or Hirata.
+[note] (p.100) Capture-the-flag pact: Katsuragi and Hirata agreed the classes would swap back.
+[note] (p.102) Flag charge aftermath; he is the other half of the D/A merge.
+[note] (p.106) Katsuragi draws near Hirata and whispers the next-round order.
+[note] (p.110) Tug-of-war close: Ryuuen’s withdrawal leaves Hirata’s coalition holding the win.
+[note] (p.116) Three-legged staging; he is paired in the class’s better teams.
+[note] (p.123) Girls’ cavalry: Karuizawa’s rescue attempt is blocked while Hirata’s line holds elsewhere.
+[note] (p.125) Boys’ cavalry: Hirata and Katsuragi’s units survive to surround Ryuuen.
+[note] (p.129) Punch cover: Chabashira logs the preventative report on Hirata’s fall story.
+[note] (p.130) Trait­or math: Ryuuen set weaker students against athletes like Sudou and Hirata.
+[note] (p.131) Fair-vs-cowardly options name Ichinose and Katsuragi head-on — Hirata is the strategist on our side.
+[note] (p.136) Ryuuen’s “something interesting” reply is to Hirata’s promise.
+[note] (p.138) Counterattack math: without Sudou, Hirata and Karuizawa must carry the class.
+[note] (p.140) Sudou search: Kushida abstains; Hirata’s circle still organizes the lunch.
+[note] (p.163) After the beatdown, Ayanokouji warns Sudou that hitting Ryuuen would have disqualified him — Hirata’s injury is the ch8 spine already.
+[note] (p.176) Sudou’s ally-bargain close names Hirata among the people who lack what the others have.
+[note] (p.189) Post-race and strategy margins: masterminded behind the scenes by Hirata and Horikita’s plan.
+[note] (p.195) Ryuuen’s appointment scene: Hirata’s name comes up in who could have known.
+[note] (p.201) After the counter-recording, the Class C traitor talk still circles Hirata’s reliability.
+[note] (p.203) Sakayanagi lists Hirata Yousuke-kun among the “smart people” in Class D.

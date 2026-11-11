@@ -629,3 +629,16 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:sudou-ken] (p.181) Named as Kanji when Sudou apologizes to him by first name.
 
 <!-- walk: y1v5 ch9 → p.204 -->
+
+### y1v5 p.15, 20, 25, 100–101, 105, 130, 132, 182, 194 — Ch.2–9: passing mentions
+[scene] (p.15) Named across class-unity, rules and festival margins outside his own scene cards.
+[note] (p.15) Karuizawa’s proposal: start with Ike-kun and Yamauchi-kun to unite the boys.
+[note] (p.20) Written-test-point shout; Chabashira answers him by name in the sports-festival rules.
+[note] (p.25) Guys’ snort: Ike and Yamauchi appear frustrated and say nothing.
+[note] (p.100) Capture-the-flag: “Better keep my distance,” Ike muttered on the offensive line.
+[note] (p.101) Ike wails that Sudou will kill him if he skips; the less-aggressive rear includes him.
+[note] (p.105) Hurdle talk: Ike asks Sudou if his back is okay.
+[note] (p.130) Ryuuen’s setup: unathletic competitors like Ike and Yamauchi are targeted.
+[note] (p.132) Sudou looks around starting with Ike and the others, who cower.
+[note] (p.182) Horikita says she could not even win against Ike-kun in her current state.
+[note] (p.194) Sudou left the festival chatting with Ike-kun and the others.

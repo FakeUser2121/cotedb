@@ -85,3 +85,7 @@ char_id: totsuka-yahiko · class: Class 1-A (enrolled April 2015) · status: min
 [note] (p.128) No separate dialogue on these pages.
 
 <!-- walk: y1v5 ch6 → p.143 -->
+
+### y1v5 p.89 — Ch.6: a passing mention
+[scene] (p.89) Named in Lane 4 of the first-year dash as a Class A competitor next to Hirata.
+[note] (p.89) Yahiko, from Class A, stood in Lane 4 with Hirata next to him in Lane 5.

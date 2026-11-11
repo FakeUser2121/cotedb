@@ -1448,3 +1448,13 @@ spanned the p.203–204 page break; R18 cleared by rewording one unshipped
 volume line. Quotes: 697 [says] (2 too short/skipped) and 212 non-says
 spans, corpus-exact; R18/R19 held at 0/82. Determinism hash across
 consecutive builds: `860cec3a25ebfa4a6e3aaca3681dd1e3`.
+
+Year 1 Volume 5 closes with the postscript and the volume-end coverage
+gate. The locator’s hit pages are compared against every roster cell that
+carries y1v5; twenty-seven people ledgers gain grouped passing-mention
+sections so each named page has an entry. Ambiguities stay in the volume
+notes rather than being guessed: Sonoda-kun on p.79, the two Onodera rows,
+Kamuro’s surname-only absence, and Atsuomi’s zero hits. Quotes: 697
+[says] (2 too short/skipped) and 251 non-says spans, corpus-exact;
+R18/R19 held at 0/82. Determinism hash across consecutive builds:
+`76e9e5764687d3400ee0e9c044e103a3`.

@@ -70,3 +70,11 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 [rel:sudou-ken] (p.191) Takes the MVP that would have let Sudou use Suzune’s first name; Sudou’s agonized cry.
 
 <!-- walk: y1v5 ch9 → p.204 -->
+
+### y1v5 p.77, 88, 111, 187, 189 — Ch.5–9: passing mentions
+[scene] (p.77) Named as Nagumo’s skilled victim on the track and as Class B’s fastest runner.
+[note] (p.77) Shibata charged at Nagumo too, but Nagumo feinted past; both Hirata and Shibata were skilled.
+[note] (p.88) Athletic groups: which had students like Kanzaki and Shibata.
+[note] (p.111) “Looks like Sudou-kun is going up against Shibata-kun” — Class B’s fastest runner warms up.
+[note] (p.187) Fire blazing in his eyes, Shibata chased down Nagumo on the anchor leg.
+[note] (p.189) Unlike Hirata, Shibata or Sudou, Ayanokouji had held back until now.

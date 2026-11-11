@@ -2027,5 +2027,53 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says:ryuuen-kakeru] (p.201) “There’s a traitor in Class C, too. They made not just you and Suzune dance in the palm of their hand, but me as well.”
 [rel:ayanokouji-kiyotaka] (p.201) She concludes the mastermind has to be Ayanokouji Kiyotaka-kun.
 [says:ryuuen-kakeru] (p.201) “I’ve failed to get points from Suzune or have her kneel, but I’m happy with all that I procured,”
+[passing mention] (p.92) 100-metre results and Sudou’s calming when Horikita’s race begins continue here.
+[passing mention] (p.117) Three-legged last place: Horikita and Kushida come in third after Class B snatches the lead.
+[passing mention] (p.161) Scavenger-hunt absences: Sudou gone, Horikita gone — Ayanokouji counts them as his only friends.
+[passing mention] (p.162) Same absence math continues; Ichinose and Kanzaki are the current enemies.
+[passing mention] (p.169) Tug-of-war loss math continues; Kushida volunteers for Horikita and Sudou’s sake.
 
 <!-- walk: y1v5 ch9 → p.204 -->
+
+### y1v5 p.46–47, 49, 66, 71–73, 76, 79, 81–83, 89, 91–92, 94, 113, 116–117, 121, 129–133, 138, 140–142, 160–162, 168–169, 172, 174–175, 183–184, 187–188, 190, 203, 205 — Ch.2–10: passing mentions
+[scene] (p.46) Named across strategy, festival and postscript margins outside her own scene cards.
+[note] (p.46) Karuizawa’s call script: object to Horikita’s plan, then ask Kushida’s opinion.
+[note] (p.47) Class A’s likely strategy is weighed against Horikita’s ability-first proposal.
+[note] (p.49) Entrance-betrayal warning pages keep her as the class’s other pole.
+[note] (p.66) Chabashira’s popularity comparison: Hirata and Karuizawa outshine Kushida; Horikita is the talent axis.
+[note] (p.71) Letter-plan margins before the night call.
+[note] (p.72) Kōenji’s real competition is called out as Kouenji only — Horikita is the measuring stick elsewhere on the page.
+[note] (p.73) Strategy close after the letter is written.
+[note] (p.76) Post-café class talk keeps her as the planner Ayanokouji cannot fully read.
+[note] (p.79) Kushida’s Sonoda-kun remark: Horikita knew the hatred from the start and never explained it.
+[note] (p.81) Strategy trust: if Kushida’s network is used, Horikita’s plan still leads.
+[note] (p.82) Blackboard recording: Hirata at the podium, Kushida with chalk — Horikita’s list is what they write.
+[note] (p.83) Sudou and Kushida both answer to Horikita’s anchor proposal.
+[note] (p.84) Anchor-with-brother talk; Kushida does not fully understand; Horikita’s goal is clear.
+[note] (p.89) Where’s Sudou? — Horikita’s race is the reason the class watches the clock.
+[note] (p.91) 100-metre results and Sudou’s calming when Horikita’s race begins.
+[note] (p.94) Athletic firsts: Sudou, Horikita and Hirata.
+[note] (p.113) Girls’ obstacle: Kinoshita’s fall happens in Horikita’s group with Yajima.
+[note] (p.116) Three-legged last place: Horikita and Kushida lose the lead they held.
+[note] (p.121) Girls’ cavalry: Karuizawa’s unit rushes to Horikita’s rescue; Ichinose blocks.
+[note] (p.129) After the punch, Chabashira’s report still frames Horikita’s missing search for Sudou.
+[note] (p.130) Trait­or math: Horikita was always up against Yajima and Kinoshita — the leak targeted her.
+[note] (p.131) Fair-vs-cowardly options; Horikita’s class is the one absorbing the fouls.
+[note] (p.132) Sudou storms toward Class C after Ryuuen’s provocation of Horikita.
+[note] (p.133) Walk to the dorm with Karuizawa after the class collapses.
+[note] (p.138) Weapon talk: Ayanokouji used Hirata and Karuizawa; Horikita gets the chance to use Sudou.
+[note] (p.140) Sudou search: Horikita is the one who left to find him; Kushida abstains for the same errand.
+[note] (p.141) Ryuuen’s move is read as aimed at Horikita’s camp.
+[note] (p.142) Hirata notices Horikita and Sudou both missing from the field.
+[note] (p.160) Scavenger-hunt absences: Sudou gone, Horikita gone — Ayanokouji counts them as his only friends.
+[note] (p.168) Tug-of-war loss math: even a Sudou substitute cannot stop the slide; Kushida volunteers for Horikita’s sake.
+[note] (p.172) Kushida comments that Horikita went looking for Sudou alone.
+[note] (p.174) Cruise-ship VIP fallout: Horikita asked Ryuuen for a favor in exchange for the VIP list.
+[note] (p.175) After the elevator bargain, Ichinose/Katsuragi/Sakayanagi are named as people Horikita might rope in.
+[note] (p.183) Relay order: after Sudou and Hirata, the three girls run — Horikita has withdrawn, so Kushida takes her place.
+[note] (p.184) Maezono’s handoff to Kushida marks the fifth leg Horikita would have run.
+[note] (p.187) Shibata chases Nagumo; Ayanokouji’s eyes meet the president’s — Horikita’s brother is the other half of that look.
+[note] (p.188) After the serious run, Kushida’s cry and the baton handoff close the relay Horikita designed around.
+[note] (p.190) Post-race: masterminded behind the scenes by Hirata and Horikita’s strategy.
+[note] (p.203) Sakayanagi names Horikita Suzune as one of the “smart people” in Class D.
+[note] (p.205) Postscript: the story focused mainly on the class as a whole, with Horikita in the lead.

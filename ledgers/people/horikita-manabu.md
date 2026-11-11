@@ -257,3 +257,7 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [rel:horikita-suzune] (p.187) Learns from Ayanokouji that his sister is what changed Class D; no look of surprise.
 
 <!-- walk: y1v5 ch9 → p.204 -->
+
+### y1v5 p.17 — Ch.2: a passing mention
+[scene] (p.17) Named when Horikita’s calm outside masks the panic of seeing her older brother at the festival.
+[rel:horikita-suzune] (p.17) She mutters his name under her breath as the president’s presence lands on her.

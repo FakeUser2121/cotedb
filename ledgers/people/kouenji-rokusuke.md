@@ -269,3 +269,13 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [note] (p.134) No new Kōenji action in the second half; the morning ends on his continued absence.
 
 <!-- walk: y1v5 ch6 → p.143 -->
+
+### y1v5 p.51, 72, 95, 100, 176, 190, 195 — Ch.3–9: passing mentions
+[scene] (p.51) Named as the class’s other elite athlete and as an absentee across festival margins.
+[note] (p.51) Scavenger-hunt math: Kouenji aside, Ayanokouji placed second in the class.
+[note] (p.72) “Your only real competition’s Kouenji, and he probably won’t take this seriously.”
+[note] (p.95) Horikita reached out to Kouenji; he was lying about his cottage hideaway.
+[note] (p.100) Sudou: “Since that moron Kouenji ain’t here, we’ve gotta get that much more fired up!”
+[note] (p.176) Sudou’s ally-bargain close: he had to withdraw, and Kouenji-kun was absent from the start.
+[note] (p.190) Two absentees, Kouenji and Sakayanagi, factored majorly into the fourth-place first-year finish.
+[note] (p.195) Ryuuen’s hallway scene: back at the start of the semester, Horikita tried to convince Kouenji-kun to give up his bus seat.

@@ -54,3 +54,8 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [rel:horikita-manabu] (p.184–185) Addresses the president by title while taking the second-year anchor baton.
 
 <!-- walk: y1v5 ch9 → p.204 -->
+
+### y1v5 p.79, 187 — Ch.5, Ch.9: passing mentions
+[scene] (p.79) Second-year soccer players take a break; Nagumo calls to Hirata on the track.
+[note] (p.79) Horikita and Ayanokouji watch the exchange from the stands.
+[note] (p.187) Shibata chases down Nagumo on the anchor leg; Ayanokouji’s eyes meet the president’s instead.

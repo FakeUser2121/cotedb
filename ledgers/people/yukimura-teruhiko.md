@@ -249,3 +249,7 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [trait] (p.132) The academic who resents Sudou’s sports-day power finally says the quiet part aloud — and nearly becomes the fist’s target.
 
 <!-- walk: y1v5 ch6 → p.143 -->
+
+### y1v5 p.133 — Ch.6: a passing mention
+[scene] (p.133) Named as the classmate Sudou looked ready to punch after the cavalry battles.
+[note] (p.133) He looked on the verge of punching Yukimura anyway; hitting Hirata earned Sudou everyone’s attention instead.

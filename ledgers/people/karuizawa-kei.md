@@ -607,3 +607,16 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:ayanokouji-kiyotaka] (p.189) Steps aside so she does not get between Horikita and him.
 
 <!-- walk: y1v5 ch9 → p.204 -->
+
+### y1v5 p.15, 43, 66, 118, 121, 123, 132–133, 138, 142 — Ch.2–7: passing mentions
+[scene] (p.15) Named across class-unity, popularity and cavalry margins outside her own scene cards.
+[note] (p.15) Hirata and Karuizawa’s forged relationship; she is selected with him for the boys’-unity plan.
+[note] (p.43) Blackboard vote: Horikita’s ability proposal versus Karuizawa’s individual-feel proposal.
+[note] (p.66) Chabashira: Hirata and Karuizawa often outshine Kushida in popularity.
+[note] (p.118) Class D’s popular pair is still Karuizawa and Kushida while Sudou leads the festival.
+[note] (p.121) Girls’ cavalry: Karuizawa’s horsemen rush to Horikita’s rescue; Ichinose blocks.
+[note] (p.123) Karuizawa locked in an eight-to-one fight with Ichinose; a horseman’s headband is snatched.
+[note] (p.132) “Huh?” Karuizawa’s mouth hangs open in shock after the punch cover.
+[note] (p.133) Dorm walk: “Things have gotten pretty bad, Ayanokouji,” Karuizawa said.
+[note] (p.138) Weapon talk: Ayanokouji used Hirata and Karuizawa as weapons against Horikita’s plan.
+[note] (p.142) Karuizawa asks where Horikita-san is; Ayanokouji answers with the substitute search.

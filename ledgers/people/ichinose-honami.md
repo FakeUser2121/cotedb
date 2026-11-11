@@ -701,3 +701,13 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:ayanokouji-kiyotaka] (p.170) Class B pair cheerily readies against Ayanokouji and Kushida.
 
 <!-- walk: y1v5 ch8 → p.180 -->
+
+### y1v5 p.13, 80, 121, 123, 131, 162, 175 — Ch.2–8: passing mentions
+[scene] (p.13) Named in the zodiac VIP order and Class B’s general across festival margins.
+[note] (p.13) Café debrief: rabbit group alphabetical order puts Ichinose-san after Ayanokouji-kun.
+[note] (p.80) Shibata’s Class B loyalty is explained by Ichinose’s leadership.
+[note] (p.121) Girls’ cavalry: Ichinose blocks Karuizawa’s path to Horikita; their units collide.
+[note] (p.123) Karuizawa is locked in a fierce battle with Ichinose; the headband snatch follows.
+[note] (p.131) Fair fight option: taking Ichinose and Katsuragi head-on is one of two choices.
+[note] (p.162) Scavenger-hunt enemies: Ichinose and Kanzaki are currently Ayanokouji’s opponents.
+[note] (p.175) Horikita might rope in Ichinose among Class A/B allies if needed.

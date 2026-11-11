@@ -501,3 +501,9 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [passing mention] (p.160) Named only as the other candidate Hirata and Ayanokouji consider for Sudou’s replacement; Ike wins the draw.
 
 <!-- walk: y1v5 ch8 → p.180 -->
+
+### y1v5 p.15, 25, 130 — Ch.2, Ch.6: passing mentions
+[scene] (p.15) Named with Ike as the boys Karuizawa’s unity plan would start from.
+[note] (p.15) “Starting with Ike-kun and Yamauchi-kun” — Horikita rejects the need.
+[note] (p.25) Ike and Yamauchi appeared frustrated, but said nothing.
+[note] (p.130) Ryuuen’s setup: unathletic competitors like Ike and Yamauchi are targeted for easy wins.

@@ -388,3 +388,19 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [trait] (p.123–126) Willing to trade D’s pain for A’s points until the coalition’s own units are at stake — the split with Sakayanagi still reading from the camp.
 
 <!-- walk: y1v5 ch6 → p.143 -->
+
+### y1v5 p.33, 47, 100, 103, 106, 108, 118, 124–125, 127–128, 131, 175 — Ch.2–8: passing mentions
+[scene] (p.33) Named across strategy and festival margins as Class A’s solid leader under Sakayanagi’s shadow.
+[note] (p.33) Coin-flip thought experiment: Katsuragi and Ichinose as heads, Ryuuen and Ayanokouji as tails.
+[note] (p.47) Class A’s strategy would be solid given Katsuragi’s personality — but Sakayanagi leads the White Team.
+[note] (p.100) Capture-the-flag pact: Katsuragi and Hirata agreed the classes would swap back; his defensive team checks formation.
+[note] (p.103) Katsuragi from Class A advances to nearly touch the center flag.
+[note] (p.106) Katsuragi draws near Hirata and whispers; a Class A boy tells him to stop ordering them around.
+[note] (p.108) “Keep your guard up. The next round won’t be like the first,” said Katsuragi.
+[note] (p.118) Rivalry between Katsuragi and Sakayanagi is visible; Class A’s two factions split the field.
+[note] (p.124) On Katsuragi’s orders, eight D/A horsemen rush Ryuuen; Hirata’s plan came from the earlier girls’ match.
+[note] (p.125) Katsuragi and other Class A students take down Shibata; Hirata and Katsuragi’s units survive to surround Ryuuen.
+[note] (p.127) Ryuuen was probably conserving strength to fight Katsuragi after defeating us.
+[note] (p.128) Katsuragi still in the fight after Sudou withdraws; Ryuuen sneers.
+[note] (p.131) Fair fight option: taking Ichinose and Katsuragi head-on.
+[note] (p.175) Horikita might rope in Katsuragi among Class A allies if needed.

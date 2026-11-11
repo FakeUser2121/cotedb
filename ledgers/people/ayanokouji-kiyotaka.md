@@ -3127,5 +3127,26 @@ walk: y1v1 → DONE
 [says:ayanokouji-kiyotaka] (p.204) “Can you bury me?”
 [says:sakayanagi-arisu] (p.204) “I’ll be able to realize my dearest wish by destroying the greatest masterpiece that your father ever made.”
 [rel:sakayanagi-arisu] (p.204) Both want his destruction: her wish, and the old man’s loss.
+[passing mention] (p.102) Capture-the-flag charge and its aftermath continue on this page.
 
 <!-- walk: y1v5 ch9 → p.204 -->
+
+### y1v5 p.42, 49, 74, 79, 81, 88, 101–102, 111, 129, 133, 146, 165, 173, 179, 194–195, 201 — Ch.3–9: passing mentions
+[scene] (p.42) Named across class strategy and festival margins where he is not the section’s focus.
+[note] (p.42) Class D’s blackboard vote and grip-strength context name him among the planners.
+[note] (p.49) Entrance-betrayal warning pages keep him in the room’s orbit.
+[note] (p.74) Letter-plan margins; he is present but the beat tracks Horikita’s plan.
+[note] (p.79) Kushida’s Sonoda-kun remark sits in a scene he observes.
+[note] (p.81) Strategy talk with Horikita and Kushida names him as the third party.
+[note] (p.88) Festival opening; he is among the class ranks, not a named actor.
+[note] (p.101) Capture-the-flag charge and its aftermath name him in the rush.
+[note] (p.111) Hurdle results page: Ike demands his place; he answers third.
+[note] (p.129) Lunch and leak-talk margins after the punch cover.
+[note] (p.133) Dorm walk with Karuizawa after the class falls apart.
+[note] (p.146) Nurse’s office aftermath; Chabashira’s report names him in the cover story.
+[note] (p.165) Scavenger-hunt absence math when Sudou and Horikita are missing.
+[note] (p.173) Three-legged staging; he is the substitute conversation’s other half.
+[note] (p.179) Ally-bargain close with Sudou already stamped in ch8’s main rows.
+[note] (p.194) Horikita’s hallway wait names his direction home after the festival.
+[note] (p.195) Ryuuen’s appointment scene: she prepared to face him as well as Ryuuen.
+[note] (p.201) After the counter-recording, the mastermind hypothesis lands on him.

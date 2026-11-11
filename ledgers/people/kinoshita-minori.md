@@ -46,3 +46,15 @@ char_id: kinoshita-minori · class: Class 1-C (enrolled April 2015) · status: m
 [rule] (p.199) 500,000 points for the staged serious injury that kept her out of the rest of the festival.
 
 <!-- walk: y1v5 ch9 → p.204 -->
+
+### y1v5 p.113, 130, 145, 147–149, 153–154, 156 — Ch.6–7: passing mentions
+[scene] (p.113) Named as Horikita’s obstacle-course rival and the girl who falls in her group.
+[note] (p.113) Same group as Yajima and Kinoshita; Kinoshita dashes toward the balance beam and closes on Horikita between obstacles.
+[note] (p.130) Horikita was always up against Yajima-san and Kinoshita-san — the leak knew her matchups.
+[note] (p.145) Kushida whispers that Kinoshita suffered a serious injury and wants to talk to Horikita.
+[note] (p.147) Kinoshita has been absent from festival events ever since the obstacle course; she is as fast as Horikita.
+[note] (p.148) Kushida says Kinoshita asked to talk to a teacher; Horikita presses why Kushida is the messenger.
+[note] (p.149) Sudou opens the curtain to Kinoshita’s bed: “Hey, Kinoshita. You all right?”
+[note] (p.153) Ryuuen’s million-point deal: hand over the points and he will have Kinoshita withdraw her complaint.
+[note] (p.154) Kinoshita laid low on Ryuuen’s order so the trap would look natural; video evidence shows Horikita looking back.
+[note] (p.156) Ryuuen-kun and Kinoshita-san both leave the nurse’s office area.

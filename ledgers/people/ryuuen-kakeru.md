@@ -428,5 +428,38 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [says:ryuuen-kakeru] (p.201) “I’ve failed to get points from Suzune or have her kneel, but I’m happy with all that I procured,”
 [rel:ayanokouji-kiyotaka] (p.201) Names Ayanokouji as one candidate for the recording; will investigate thoroughly.
 [feat] (p.199–201) Stomps the staged-injury confession on tape, then loses the exchange when a counter-recording of his trap plan arrives by email.
+[passing mention] (p.128) Hirata grabs Ryuuen’s headband and it slips; Ryuuen counter-grabs.
 
 <!-- walk: y1v5 ch9 → p.204 -->
+
+### y1v5 p.13–14, 33, 69, 88, 106, 110, 119, 121, 124, 127–128, 130–132, 136–138, 141, 146–147, 156–158, 163, 165, 174, 176, 190, 194 — Ch.2–9: passing mentions
+[scene] (p.13) Named across strategy, festival and trap margins outside his own scene cards.
+[note] (p.13) Hirata: “I think Ryuuen-kun figured it all out in the middle of the test.”
+[note] (p.14) Ryuuen-kun rules Class C alone — perhaps that isn’t actually true; a traitor defied him.
+[note] (p.33) Coin-flip thought: Ryuuen and Ayanokouji as tails; Class B refused to cooperate with Ryuuen.
+[note] (p.69) Horikita: “I assume Ryuuen-kun was involved somehow” in the VIP leak.
+[note] (p.88) Third group on the starting line boasts students with a strong presence like Ryuuen or Katsuragi.
+[note] (p.106) Sakayanagi’s behavior is unsettling in a different way than Ryuuen’s.
+[note] (p.110) Ryuuen turned his back after the tug-of-war; he put a damper on the win.
+[note] (p.119) Male students gather around Ryuuen as if he were a king holding court; Sudou is unsettled by his tactics.
+[note] (p.121) “Ryuuen probably ordered that. Scumbag!” — Sudou on the Horikita-targeting.
+[note] (p.124) Class C’s general Ryuuen laughs fearlessly as D/A horsemen rush him.
+[note] (p.127) Yamada protects Ryuuen in the center; Hirata grabs Ryuuen’s headband and it slips.
+[note] (p.130) Only Ryuuen Kakeru would prioritize humiliating Horikita; he has the full participation table.
+[note] (p.131) Strategies reveal Ryuuen Kakeru: foul play only after careful rehearsal.
+[note] (p.132) All Ryuuen’s provocation — stepping on Sudou to targeting Horikita — sees Sudou storm toward Class C.
+[note] (p.136) “Something interesting, huh? I’ll be looking forward to it,” Ryuuen says of Hirata’s promise.
+[note] (p.137) Traitor leaked the table to Ryuuen-kun; Ryuuen provoked Sudou on purpose.
+[note] (p.138) Counterattack math: Ryuuen took out Sudou, so the class must rebuild around Hirata.
+[note] (p.141) “Looks like Ryuuen-kun’s making his move, as expected,” said Hirata.
+[note] (p.146) Horikita was about to say it was part of Ryuuen-kun’s strategy when Ayanokouji spoke.
+[note] (p.147) Whether it was Ryuuen-kun’s strategy or an accident, she could not lie to the teacher.
+[note] (p.156) Ryuuen-kun and Kinoshita-san both leave after the nurse’s office confrontation.
+[note] (p.157) Ryuuen got hold of the participation table; he wants her to kneel for a million points.
+[note] (p.158) No use telling her brother about Ryuuen-kun; the humiliation stays with her.
+[note] (p.163) Ayanokouji: if she had hit Ryuuen-kun, she might have been disqualified.
+[note] (p.165) Ryuuen-kun had defeated her; the brother had abandoned her.
+[note] (p.174) Cruise-ship VIP: she asked Ryuuen for a favor in exchange for telling everyone she was the VIP.
+[note] (p.176) Ryuuen-kun was getting all her points using blackmail after the substitute burden.
+[note] (p.190) The behind-the-scenes tactic was particularly effective against someone like Ryuuen.
+[note] (p.194) She prepared to respond to Ryuuen-kun; he had her dancing in the palm of his hand.
