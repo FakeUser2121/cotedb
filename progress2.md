@@ -1978,3 +1978,22 @@ ayanokouji and volume rows; baseline restored 82/82. verify y1v6: 159
 [says] ALL PASS + 50 non-says ALL PASS; make check OK (R18 0, R19
 82/82); gate exit 0; hash `ee9036a4b4578c50d8b966d45e91ec92` twice. New
 tags: none. Next: ch4 p.60–75.
+
+### y1v6 ch4 (pp.60–75) — walked
+Class C Makes Its Move: Ryuuen’s spy theatre on Class D’s “X” (phone
+game with six hand-raisers cleared as innocent; X-audio of the kneel he
+was denied; violence-versus-authority speech contrasting former-president
+Horikita and Nagumo); Manabe unmasked as lead spy with Yabu and Yamashita;
+cruise-ship Karuizawa payback and photo naming Yukimura and Ayanokouji;
+closing move — “How about we try using him?” and a text. People stamped:
+ayanokouji-kiyotaka, hirata-yousuke, horikita-manabu, horikita-suzune,
+ibuki-mio, ishizaki-daichi, kaneda-satoru, karuizawa-kei, manabe-shiho,
+morofuji-rika, nagumo-miyabi, nishino-takeko, nomura-yuuji, oda-takumi,
+ryuuen-kakeru, yabu-nanami, yamada-albert, yamashita-saki,
+yukimura-teruhiko; volume stamped `y1v6 ch4 → p.75`. First y1v6 ledgers
+created: nishino-takeko, oda-takumi. Manabu named only as
+“former-president Horikita” on p.70 (verified). Blanks p.61 and p.75
+noted. verify y1v6: 262 [says] ALL PASS + 50 non-says ALL PASS; make
+check OK (R18 0, R19 82/82); gate exit 0; hash
+`012e79edde139ed439624bcf98b43625` twice. New tags: none. Next: ch5
+p.76–131 (56 pp).

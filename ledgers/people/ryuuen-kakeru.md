@@ -488,3 +488,89 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [note] (p.51) Does not appear in person on these pages.
 
 <!-- walk: y1v6 ch3 → p.59 -->
+
+### y1v6 p.60–70 — Ch.4 §4: dictator’s spy theatre
+[scene] (p.60) Class C assembled under intimidation; Ryuuen at the podium with Yamada and martial-arts enforcers beside him.
+[says:ryuuen-kakeru] (p.60) “There’ve been many unnatural goings-on, wouldn’t you say?”
+[says:ryuuen-kakeru] (p.60) “First there was that test on the uninhabited island, and then the sports festival. Someone lurking in Class D knows how to think like me.”
+[says:ryuuen-kakeru] (p.60) “Yes, exactly. But don’t worry. I’m starting to see how this person handles things. Listen up, all of you! From here on out, we’re going to hit Class D with everything we’ve got. We’ll put Classes A and B aside for the time being. I’ll smoke out the person working in Class D’s shadows”
+[rel:ishizaki-daichi] (p.60, 62–66) Enforcer beside him; collects phones; is the right-hand who executes the theatre.
+[rel:yamada-albert] (p.60, 70) Named as standing next to Ryuuen, willing to dispense punishment with fists; reacts when entrance-ceremony violence is cited.
+[rel:ibuki-mio] (p.62–69) Public sparring: her sports-festival failure and his are equated; he calls the phone search a stunt for show.
+[says:ryuuen-kakeru] (p.62) “Heh. Ibuki, can’t you even listen quietly?”
+[says:ryuuen-kakeru] (p.62) “You know, someone with no authority shouldn’t be talking. Besides, you made a rather disgraceful blunder, didn’t you?”
+[says:ryuuen-kakeru] (p.62) “The same as you? Don’t make me laugh. My strategy was perfect,”
+[says:ryuuen-kakeru] (p.62) “Don’t you think that a perfect strategy is meaningless if someone leaks information?”
+[action] (p.62–63) Names X, claims an ally-spy inside Class C, demands the traitor raise a hand, then orders a thirty-minute phone game.
+[says:ryuuen-kakeru] (p.63) “If you just step forward now, I’ll forgive you,”
+[says:ryuuen-kakeru] (p.63) “Yes. I knew that a spy would plan to stay hidden. Don’t come forward. In fact, stay hidden at all costs.”
+[says:ryuuen-kakeru] (p.63) “Shut up, Ibuki. Don’t get in the way of my fun. I’ll bury you if you do.”
+[says:ryuuen-kakeru] (p.63) “So, we’re going to play a little game. A silly, childish little game where we try to find the spy. For most students, there’s really no need to be afraid. This shouldn’t take long at all; just thirty minutes,”
+[rel:nishino-takeko] (p.64–65) Reads her privacy panic as prime-suspect theatre; returns her phone without checking after the hand-raisers.
+[says:ryuuen-kakeru] (p.64) “You really don’t want me to read what’s on your phone, Nishino?”
+[says:ryuuen-kakeru] (p.64) “You know that this will make you a prime suspect, Nishino?”
+[says:ryuuen-kakeru] (p.65) “Really, it’s not such a mystery. I confirmed your innocence, so I returned your phone. That’s only natural, right? If it’s not the traitor’s phone, then looking at it would be a waste of time and effort,”
+[rel:nomura-yuuji] (p.65–66) Mocks his slow hand-raise, then clears all six raisers as innocent in one stroke.
+[says:ryuuen-kakeru] (p.66) “You took quite a bit of time before you raised your hand, Nomura.”
+[says:ryuuen-kakeru] (p.66) “Ishizaki. These six are all innocent. Return their phones,”
+[rel:ibuki-mio] (p.66–70) Takes Ibuki’s phone next; replays the X audio; walks the for-show logic of the search.
+[says:ryuuen-kakeru] (p.67) “I see. No information seems to be recorded on these phones.”
+[says:ryuuen-kakeru] (p.67) “Evidence trumps theory,”
+[says:ryuuen-kakeru] (p.67) “Listen. I assume this is something you all know quite well, hmm?”
+[says:ryuuen-kakeru] (p.67) “I received this recording when I was about to force Suzune to kneel,”
+[says:ryuuen-kakeru] (p.67) “Never mind the points—because of this, I didn’t get to see Suzune beg. Do you understand now?”
+[rel:horikita-suzune] (p.67–68) The kneel he was denied; X’s file is framed as letting Suzune suffer on purpose.
+[says:ryuuen-kakeru] (p.68) “X, Class D’s mastermind, had this audio file. X clearly understood the details of the strategy I came up with. If he knew all my plans, including leaking the participation table, he could have foiled my attacks on Suzune at the sports festival. He could have prevented Suzune from being crushed and having to beg for forgiveness. But he didn’t. Even though X knew about my strategy, he allowed me to go about my business and let Suzune suffer. She was injured, unable to keep competing, and she had to suffer the guilt of injuring someone else as well.”
+[rel:kaneda-satoru] (p.68) Praises his cleverness; Kaneda’s naivete reading of X is corrected.
+[says:ryuuen-kakeru] (p.68) “How very clever you are, Kaneda,”
+[says:ryuuen-kakeru] (p.68) “Yes. X wasn’t bothered by me having Suzune kneel. That’s why there wasn’t any text in his message. I think he couldn’t have cared less whether Suzune’s pride was hurt or not,”
+[says:ryuuen-kakeru] (p.68) “No, that’s not quite right,”
+[says:ryuuen-kakeru] (p.69) “Yes. X allowed me to make Suzune kneel. That’s different from winning or losing points. It’s not something a person can undo, right? I’m saying that X is letting me torment Suzune.”
+[says:ryuuen-kakeru] (p.69) “Heh. So, you really don’t intend to reveal yourself, all the way to the bitter end, eh?”
+[says:ryuuen-kakeru] (p.69) “I’m not sure what method X employed, but I’m certain that he thinks like me, and that someone here is spying for him. If the spy knew X’s identity, it’d be game over for X the moment I found them out. Therefore, I’m certain that X used email or similar tactics to remain anonymous,”
+[says:ryuuen-kakeru] (p.69) “Of course I didn’t. That was just for show.”
+[says:ryuuen-kakeru] (p.69) “Apply some common sense here. If you were the spy, would you intentionally leave a suspicious email on your phone?”
+[says:ryuuen-kakeru] (p.70) “Right. It was obvious how investigating everyone’s phones would”
+[says:ryuuen-kakeru] (p.70) “The spy is someone who thought that they could look innocent just by giving me their phone. Therefore, those who didn’t show me their phones are innocent, whereas the spy wouldn’t have taken that chance,”
+[says:ryuuen-kakeru] (p.70) “I’m going to ask the spy to show himself again.”
+[says:ryuuen-kakeru] (p.70) “Are you scared of this mysterious X? Or are you scared of me? Which one should you truly fear? Are you sure you’re not making a big mistake? Remember what happened after the entrance ceremony? You saw what terrible fate befalls those who oppose me. Right, Ishizaki?”
+[rel:ishizaki-daichi] (p.70) Y-yes… — trembling when entrance-ceremony violence is cited; Albert reacts slightly too.
+[says:ryuuen-kakeru] (p.70) “Violence is the most powerful force in the world. I will not yield to authority. Even if the school tries to expel me, I’ll kill the traitor before they kick me out. Do you understand? If I end up getting expelled because of this, I will stomp the life out of the spy, like crushing a bug.”
+[rel:horikita-manabu] (p.70) Contrasted with former-president Horikita and Nagumo’s authority style.
+[rel:nagumo-miyabi] (p.70) Same contrast: their authority is not his violence.
+[says:ryuuen-kakeru] (p.70) “I’ll welcome the traitor’s confession even now. However, this is your last chance. If you step forward and honestly admit what you’ve done, I promise to forgive and forget. I also swear that I won’t let your classmates harass you. As I said from the very start, if you believe in me, I’ll raise us all to Class A. As long as you follow me, I will protect you.”
+[says:ryuuen-kakeru] (p.70) “Do you understand what it means to make me angry?”
+
+### y1v6 p.71–74 — Ch.4 §4.2: Manabe unmasked, spies debriefed
+[scene] (p.71) Stops in front of Manabe, names her as the traitor, and caresses her face after brushing aside her hair.
+[says:ryuuen-kakeru] (p.71) “Heh. It’s you, isn’t it, Manabe? You’re the traitor.”
+[says:ryuuen-kakeru] (p.71) “Don’t be afraid, Manabe. Although you didn’t come forward and tell me, I knew you were the spy from the very beginning. You’ve looked sick, like it was written on your face. There was no way you could hide.”
+[rel:manabe-shiho] (p.71) Unmasked as the lead spy; turns to her friends Yabu and Yamashita.
+[says:ryuuen-kakeru] (p.71) “Don’t worry. I forgive you. I will handle this with tolerance and magnanimity. Tell me about it, hmm? Tell me about who this X really is.”
+[rel:yabu-nanami] (p.71) One of the three spies named with Yamashita.
+[rel:yamashita-saki] (p.71) One of the three spies named with Yabu.
+[rel:manabe-shiho] (p.72) Only Ryuuen, Ishizaki, Kaneda, Ibuki and the three spies remain; pressure yields the Karuizawa story.
+[says:ryuuen-kakeru] (p.72) “Do you know who gave you instructions?”
+[says:ryuuen-kakeru] (p.72) “Next question. Why did you betray Class C? Tell me.”
+[says:ryuuen-kakeru] (p.72) “There’s no point in hiding. If you choose to stay quiet right now, then tomorrow I won’t treat you as classmates anymore. You’ll all be treated like worms, forever.”
+[rel:karuizawa-kei] (p.72–73) Manabe confesses the cruise-ship payback against Karuizawa and the photo taken with her.
+[says:ryuuen-kakeru] (p.72) “Just her name and face. She’s Hirata’s girl, isn’t she?”
+[rel:hirata-yousuke] (p.72) Named as Karuizawa’s boyfriend in Ryuuen’s recognition.
+[says:ryuuen-kakeru] (p.72) “I see. Well, it sounds like you’ve been having quite a wild time.”
+[says:ryuuen-kakeru] (p.73) “Come on, Ibuki. When humans are cornered, they become such weak creatures.”
+[says:ryuuen-kakeru] (p.73) “Here’s the big question. Was anyone else there while you were bullying Karuizawa?”
+[rel:yukimura-teruhiko] (p.73) Named with Ayanokouji as Class D witnesses; photo later deleted.
+[rel:ayanokouji-kiyotaka] (p.73) Same witness pair; Kaneda argues him the more suspicious, Ryuuen agrees on suspicion but not on mastermind.
+[note] (p.73) Acknowledges the witnesses line with a short assent before asking where the picture is.
+[says:ryuuen-kakeru] (p.73) “I expected that there was some kind of evidence. So, someone took your picture, huh? Where is it?”
+[says:ryuuen-kakeru] (p.73) “I understand completely.”
+[rel:kaneda-satoru] (p.73–74) Quiet listener who names Yukimura/Ayanokouji and pushes Ayanokouji-shi suspicion; Ryuuen agrees.
+[rel:ishizaki-daichi] (p.73) Yukimura does look a little suspicious. He seems pretty smart
+[action] (p.74) Pounds his fist against the podium and cuts the class off.
+[says:ryuuen-kakeru] (p.74) “Did I ask for your opinions? I will find Class D’s puppet master. You are nothing more than my pawns. Right now, the facts state that only Yukimura or Ayanokouji could have taken that picture. However, concluding that one of them is the mastermind merely because of that? No. They, too, might be mere pawns acting under someone else’s orders,”
+[action] (p.74) Agrees with Kaneda’s push for special suspicion of Ayanokouji-shi.
+[rel:ayanokouji-kiyotaka] (p.74) Kaneda’s push for special suspicion of Ayanokouji-shi; Ryuuen’s agreement is on suspicion, not on mastermind.
+[says:ryuuen-kakeru] (p.74) “How about we try using him?”
+[rel:ayanokouji-kiyotaka] (p.74) The him of the closing move; text message sent, addressee not printed on this page.
+[note] (p.75) Blank scan (footer only).
+<!-- walk: y1v6 ch4 → p.75 -->

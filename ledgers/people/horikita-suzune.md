@@ -2195,3 +2195,14 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says:horikita-suzune] (p.58) “Let me think about it. You’re a member of Class D, after all, and I’d like to give you an appropriate role. I want us to win”
 
 <!-- walk: y1v6 ch3 → p.59 -->
+
+### y1v6 p.62–70 — Ch.4: the visible front Class C still reads
+[scene] (p.62) Named as one of the two competent Class D students in Class C’s opening model.
+[rel:ibuki-mio] (p.62) Ibuki’s failed direct challenge to her is the sports-festival blunder used against Ibuki.
+[rel:ryuuen-kakeru] (p.67–70) The kneel he was denied; X’s audio framed as letting Suzune suffer; his fear of the hidden hand runs through her.
+[says:ryuuen-kakeru] (p.67) “I received this recording when I was about to force Suzune to kneel,”
+[rel:ryuuen-kakeru] (p.68) Even though X knew about my strategy, he allowed me to go about my business and let Suzune suffer.
+[rel:ibuki-mio] (p.67–68) Ibuki’s doubt: no evidence a mastermind exists; everyone else focused on Horikita Suzune.
+[rel:ayanokouji-kiyotaka] (p.73–74) Class C’s model: Ayanokouji always with Horikita-shi — used to raise his suspicion, then to argue he would never let her be hurt if he were mastermind.
+[note] (p.74) Suzune does not appear in person on these pages.
+<!-- walk: y1v6 ch4 → p.75 -->

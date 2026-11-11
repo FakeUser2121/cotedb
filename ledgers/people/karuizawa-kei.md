@@ -673,3 +673,14 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:hirata-yousuke] (p.58) Follows him out when the meeting breaks up.
 
 <!-- walk: y1v6 ch3 → p.59 -->
+
+### y1v6 p.72–73 — Ch.4: the leverage behind the spies
+[scene] (p.72) In the debrief her cruise-ship bullying is the reason Manabe’s group spied for Ryuuen.
+[rel:manabe-shiho] (p.72) Manabe: Karuizawa acts all tough, but seems she was bullied long ago; payback for Rika.
+[rel:morofuji-rika] (p.72) Named as the Class C girl Karuizawa supposedly treated horribly.
+[rel:ryuuen-kakeru] (p.72) Just her name and face. She’s Hirata’s girl, isn’t she? — Ryuuen already knows her by association.
+[rel:hirata-yousuke] (p.72) Identified through him as his girlfriend.
+[rel:ayanokouji-kiyotaka] (p.73) Yukimura and Ayanokouji were the Class D witnesses to the bullying; a photo of Manabe’s group with Karuizawa was taken and later deleted.
+[rel:yukimura-teruhiko] (p.73) Present with Ayanokouji at the incident site per Manabe.
+[note] (p.72–73) Karuizawa does not appear in person; she is the subject of the confession.
+<!-- walk: y1v6 ch4 → p.75 -->

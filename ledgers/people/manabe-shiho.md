@@ -199,3 +199,23 @@ char_id: manabe-shiho · class: Class 1-C · status: minor
 [note] (p.50) No dialogue or action from Manabe on these pages.
 
 <!-- walk: y1v6 ch3 → p.59 -->
+
+### y1v6 p.71–73 — Ch.4 §4.2: unmasked as the lead spy
+[scene] (p.71) Ryuuen stops in front of Manabe and names her as the traitor; she is terrified, on the verge of tears.
+[rel:ryuuen-kakeru] (p.71) Brushed aside her hair, caressed her face; states he knew from the very beginning; demands the name of X.
+[says:manabe-shiho] (p.71) “I-I’m…I’m sorry. I-I—”
+[rel:yabu-nanami] (p.71) One of her friends named with Yamashita when Ryuuen fixes his gaze on them.
+[rel:yamashita-saki] (p.71) Same: the three spies left in the room with Ryuuen, Ishizaki, Kaneda and Ibuki.
+[rel:karuizawa-kei] (p.72–73) Confesses the cruise-ship payback against Karuizawa, the photo, and that threats forced the spying.
+[says:manabe-shiho] (p.72) “Do…do you know a girl named Karuizawa Kei, from Class D?”
+[says:manabe-shiho] (p.72) “She, um, well, she acts all tough, but…it seems she was bullied long ago.”
+[says:manabe-shiho] (p.72) “Well, Karuizawa treated Rika horribly, so we thought we’d give her some payback…”
+[rel:morofuji-rika] (p.72) Rika — the Class C girl Manabe says Karuizawa treated horribly.
+[rel:ryuuen-kakeru] (p.72) Explains spying under threat of exposure for the bullying; suspension or worse if the truth surfaces.
+[rel:yukimura-teruhiko] (p.73) Names Yukimura and Ayanokouji as the Class D witnesses present for the bullying.
+[rel:ayanokouji-kiyotaka] (p.73) Same witness pair; photo later deleted by Manabe’s side.
+[says:manabe-shiho] (p.73) “At the time, Yukimura-kun and Ayanokouji-kun from Class D saw us.”
+[says:manabe-shiho] (p.73) “Someone sent us a picture after. It was a photo of us with Karuizawa.”
+[says:manabe-shiho] (p.73) “I-I deleted it. If someone saw it, then we…”
+[rel:ibuki-mio] (p.72) Ibuki rejects Ryuuen’s wild time framing of their threatened position.
+<!-- walk: y1v6 ch4 → p.75 -->

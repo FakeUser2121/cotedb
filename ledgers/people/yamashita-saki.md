@@ -21,3 +21,14 @@ char_id: yamashita-saki · class: Class 1-C · status: minor (allies)
 [rel:morofuji-rika] (p.161) Speaks for Rika’s feeling — “She should understand exactly how Rika felt.”
 
 <!-- walk: y1v4 ch4 → p.204 -->
+
+## y1v6
+
+<!-- walk: y1v6 → start -->
+
+### y1v6 p.71 — Ch.4: named as one of the three spies
+[scene] (p.71) Named with Yabu as Manabe’s friend when Ryuuen fixes his gaze after the unmasking.
+[rel:manabe-shiho] (p.71) Grouped with Manabe and Yabu as the spy cell.
+[rel:ryuuen-kakeru] (p.71) Target of his sharp gaze after Manabe is unmasked.
+[note] (p.71) No dialogue from Yamashita on these pages.
+<!-- walk: y1v6 ch4 → p.75 -->

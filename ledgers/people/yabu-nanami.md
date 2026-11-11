@@ -19,3 +19,14 @@ char_id: yabu-nanami · class: Class 1-C · status: minor (allies)
 [note] (p.163) No separately tagged line; the “Yeah, for sure” is the group voice in the exchange.
 
 <!-- walk: y1v4 ch4 → p.204 -->
+
+## y1v6
+
+<!-- walk: y1v6 → start -->
+
+### y1v6 p.71 — Ch.4: named as one of the three spies
+[scene] (p.71) When Ryuuen turns from Manabe, his gaze fixes on her friends Yabu Nanami and Yamashita Saki.
+[rel:manabe-shiho] (p.71) Grouped with Manabe and Yamashita as the spy cell.
+[rel:ryuuen-kakeru] (p.71) Target of his sharp gaze after Manabe is unmasked.
+[note] (p.71) No dialogue from Yabu on these pages.
+<!-- walk: y1v6 ch4 → p.75 -->

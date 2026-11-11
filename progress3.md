@@ -1478,3 +1478,10 @@ Quote hygiene: 159 [says] spans (none too short) and 50 non-says spans,
 corpus-exact; hyphenated “thank-you” proved the R19 \byou\b trap and was
 reworded before ship. Determinism hash across consecutive builds:
 `ee9036a4b4578c50d8b966d45e91ec92`.
+
+Year 1 Volume 6 chapter 4 is sixteen pages of Class C’s meeting with no
+Class D POV. Nineteen people ledgers gain blocks (ten first y1v6
+headings; two new ledgers created for Nishino and Oda). Quote hygiene:
+262 [says] spans (none too short) and 50 non-says spans, corpus-exact;
+R18/R19 held at 0/82. Determinism hash across consecutive builds:
+`012e79edde139ed439624bcf98b43625`.

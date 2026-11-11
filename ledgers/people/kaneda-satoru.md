@@ -27,3 +27,24 @@ aliases used for anchors: kaneda, kaneda satoru, kaneda-kun
 [fact] (p.257) The test in one line: Class A failed on its internal rift, Class B ran defense-only and paid for believing Kaneda, Class C sent spies and negotiated with A, and Class D avoided damage because he had been appointed the leader.
 
 <!-- walk: y1v3 ch7 → p.258 -->
+
+## y1v6
+
+<!-- walk: y1v6 → start -->
+
+### y1v6 p.68, 72–74 — Ch.4: bespectacled analyst
+[scene] (p.68) Bespectacled boy with a mushroom cut; first speaks as the X-audio logic is laid out.
+[says:kaneda-satoru] (p.68) “So, by letting you get that far, this person turned the audio file into incriminating material?”
+[says:kaneda-satoru] (p.68) “This X person’s thought process is so cruel. I mean, he just let his friend get hurt.”
+[says:kaneda-satoru] (p.68) “Wouldn’t X have thought to submit the audio file to the school?”
+[rel:ryuuen-kakeru] (p.68) Ryuuen compliments his cleverness; then his naivete reading is corrected.
+[says:kaneda-satoru] (p.68) “X’s naivete accidentally saved us. Or perhaps he isn’t taking full advantage of his assets. If Horikita-shi had finished transferring private points over to Ryuuen-shi, then X would’ve been defeated,”
+[rel:horikita-suzune] (p.68) Horikita-shi honorific in his analysis.
+[rel:manabe-shiho] (p.72–73) Present for the spy debrief; quiet until he names the photo witnesses.
+[says:kaneda-satoru] (p.73) “So, that means it’s either Yukimura-shi or Ayanokouji-shi, right?”
+[rel:yukimura-teruhiko] (p.73) Names him as one of two photo options.
+[rel:ayanokouji-kiyotaka] (p.73–74) Pushes Ayanokouji-shi as more suspicious (always with Horikita-shi; hid athletic ability); Ryuuen agrees on suspicion.
+[says:kaneda-satoru] (p.73) “Can we really say that for sure, though? Ayanokouji-shi is always with Horikita-shi, isn’t he? Moreover, Ayanokouji-shi hid his athletic abilities until the sports festival. I think he’s the more suspicious of the two,”
+[says:kaneda-satoru] (p.74) “But, Ryuuen-shi, shouldn’t we be especially suspicious of Ayanokouji-shi?”
+[rel:ishizaki-daichi] (p.73) Debates him on Yukimura vs Ayanokouji vs Hirata as mastermind material.
+<!-- walk: y1v6 ch4 → p.75 -->

@@ -3282,3 +3282,20 @@ walk: y1v1 → DONE
 [note] (p.59) Blank scan (footer only).
 
 <!-- walk: y1v6 ch3 → p.59 -->
+
+### y1v6 p.60–70 — Ch.4 §4: Class C’s “X” hunt (named only)
+[scene] (p.60) Cold open in Class C: Ryuuen names a Class D mind that thinks like him and vows to smoke out the hidden mind
+[rel:ryuuen-kakeru] (p.60) The island and sports-festival failures are read as one hidden hand; Classes A and B set aside to hit Class D.
+[rel:horikita-suzune] (p.62, 67–68) The class still centres on Horikita as the visible front; X is hypothesised as someone who let Suzune suffer on purpose.
+[rel:karuizawa-kei] (p.72–73) In the spy debrief, Karuizawa’s cruise-ship bullying is the leverage that forced Manabe’s group to spy.
+[rel:yukimura-teruhiko] (p.73–74) Named with Ayanokouji as the only ones present for the bullying photo; both dismissed as mere pawns by Ryuuen.
+[rel:manabe-shiho] (p.73) Manabe’s group names Yukimura and Ayanokouji as the Class D witnesses who saw them with Karuizawa.
+[rel:hirata-yousuke] (p.73) floated as a capable alternative mastermind and dismissed.
+[note] (p.74) Ayanokouji is discussed as a suspect throughout; he does not appear in the room.
+
+### y1v6 p.74 — Ch.4 §4: Ryuuen’s next move targets him
+[scene] (p.74) After the Yukimura/Ayanokouji photo dead-end, Ryuuen decides to try using one of them and sends a text.
+[rel:ryuuen-kakeru] (p.74) How about we try using him? — the text is the chapter’s closing hook; addressee not printed on these pages.
+[rel:yukimura-teruhiko] (p.74) One of the two photo names; both still treated as possible pawns.
+[note] (p.75) Blank scan (footer only).
+<!-- walk: y1v6 ch4 → p.75 -->

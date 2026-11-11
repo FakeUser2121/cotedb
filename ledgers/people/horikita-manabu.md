@@ -274,3 +274,10 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [rel:horikita-suzune] (p.14) Suzune watches him leave the stage without shrinking back, no longer afraid of her brother.
 
 <!-- walk: y1v6 ch2 → p.29 -->
+
+### y1v6 p.70 — Ch.4: contrasted with Ryuuen’s violence
+[scene] (p.70) Named as former-president Horikita when Ryuuen contrasts his own violence with student-council authority.
+[rel:nagumo-miyabi] (p.70) Paired with current-president Nagumo as the style of authority Ryuuen explicitly rejects.
+[rel:ryuuen-kakeru] (p.70) This wasn’t former-president Horikita or current-president Nagumo’s style of authority.
+[note] (p.70) No dialogue or action from Horikita Manabu on these pages.
+<!-- walk: y1v6 ch4 → p.75 -->

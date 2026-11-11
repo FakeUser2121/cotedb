@@ -264,3 +264,13 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.36) No dialogue or action from Yukimura on these pages.
 
 <!-- walk: y1v6 ch3 → p.59 -->
+
+### y1v6 p.73–74 — Ch.4: photo witness and pawn candidate
+[scene] (p.73) Named with Ayanokouji as the Class D students who saw Manabe’s group bullying Karuizawa.
+[rel:manabe-shiho] (p.73) Manabe’s testimony places him at the cruise-ship incident; photo taken after, later deleted.
+[rel:ayanokouji-kiyotaka] (p.73–74) The other photo name; both dismissed as mere pawns by Ryuuen after the debate.
+[rel:ishizaki-daichi] (p.73) Ishizaki: Yukimura does look a little suspicious. He seems pretty smart
+[rel:kaneda-satoru] (p.73) Kaneda: either Yukimura-shi or Ayanokouji-shi took the picture.
+[rel:ryuuen-kakeru] (p.74) the facts state that only Yukimura or Ayanokouji could have taken that picture — then both possibly pawns.
+[note] (p.74) Yukimura does not appear in person on these pages.
+<!-- walk: y1v6 ch4 → p.75 -->

@@ -40,3 +40,14 @@ char_id: morofuji-rika · class: Class 1-D · status: minor (allies)
 [note] (p.198) Karuizawa’s trouble with Rika is named as the display of status that started the whole predicament.
 
 <!-- walk: y1v4 ch4 → p.204 -->
+
+## y1v6
+
+<!-- walk: y1v6 → start -->
+
+### y1v6 p.72 — Ch.4: named in the cruise-ship confession
+[scene] (p.72) Manabe names Rika as the Class C girl Karuizawa treated horribly — the stated motive for the payback.
+[rel:manabe-shiho] (p.72) Manabe’s confession uses her as the reason for the cruise-ship bullying of Karuizawa.
+[rel:karuizawa-kei] (p.72) The treated Rika horribly claim is the Class C side of the cruise incident.
+[note] (p.72) Rika does not appear in person; only the name in Manabe’s speech.
+<!-- walk: y1v6 ch4 → p.75 -->

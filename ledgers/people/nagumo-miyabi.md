@@ -77,3 +77,10 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [narrates] (p.16) Almost every second-year shouts delight; first years do not know the second/third-year tension behind it.
 
 <!-- walk: y1v6 ch2 → p.29 -->
+
+### y1v6 p.70 — Ch.4: contrasted with Ryuuen’s violence
+[scene] (p.70) Named as current president in the same contrast with former-president Horikita.
+[rel:horikita-manabu] (p.70) Paired with him as the authority style Ryuuen wields violence against instead.
+[rel:ryuuen-kakeru] (p.70) Ryuuen: I will not yield to authority. Even if the school tries to expel me… — their style is not his.
+[note] (p.70) No dialogue or action from Nagumo on these pages.
+<!-- walk: y1v6 ch4 → p.75 -->

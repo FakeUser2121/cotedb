@@ -380,3 +380,39 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:horikita-suzune] (p.200) Asks to fight Horikita before Ryuuen’s plan is spelled out.
 
 <!-- walk: y1v5 ch9 → p.204 -->
+
+## y1v6
+
+<!-- walk: y1v6 → start -->
+
+### y1v6 p.62–69 — Ch.4 §4: the only one who talks back
+[scene] (p.62) Standing near the window, arms crossed, posture defiant — she challenges Ryuuen’s Class D theory.
+[says:ibuki-mio] (p.62) “What are you trying to say, Ryuuen?”
+[says:ibuki-mio] (p.62) “I don’t have that luxury. Besides, you’re just trying to intimidate the entire class. I gain nothing from silence, right?”
+[says:ibuki-mio] (p.62) “Like you, then?”
+[says:ibuki-mio] (p.62) “I mean, you also failed to crush Horikita in the sports festival, or to get the private points you expected. You’re the same as me.”
+[rel:horikita-suzune] (p.62) Her sports-festival challenge to Horikita ended in narrow defeat — the failure Ryuuen throws back.
+[rel:ryuuen-kakeru] (p.62–63) Equates their failures; he threatens to bury her if she keeps interrupting the spy game.
+[says:ibuki-mio] (p.62) “So, how do you explain the results? You never explain anything. You seriously expect to convince us that Class D has some master strategist?”
+[says:ibuki-mio] (p.63) “Leaks information?”
+[says:ibuki-mio] (p.63) “Wait, are you serious?”
+[says:ibuki-mio] (p.63) “Wait, what? You’re not seriously going to accept that Class C has a traitor, are you?”
+[rel:nishino-takeko] (p.64) Watches the phone seizure; Ibuki’s later hand-raise is the public stand against it.
+[rel:ryuuen-kakeru] (p.66–69) Demands an explanation and is put off with Later.; then the for-show phone logic and the X-audio debate.
+[says:ibuki-mio] (p.66) “Will you explain what’s going on here?”
+[says:ibuki-mio] (p.67) “So, one of the people you thought were innocent—like Nishino—is a traitor after all,”
+[says:ibuki-mio] (p.67) “What are you doing here? Is there really even a spy?”
+[rel:horikita-suzune] (p.67–68) Inner doubt: the shadowy puppeteer may be a story to hide Ryuuen’s own failure; evidence never surfaces against Suzune.
+[says:ibuki-mio] (p.67) “Wait a minute. Even if we assume that you didn’t just record that file yourself, there are still questions that you need to answer. We never discussed the details of getting Horikita to kneel before you. This other person managed to anticipate everything, including the time you were meeting her? That’s impossible,”
+[says:ibuki-mio] (p.68) “I can’t understand that.”
+[says:ibuki-mio] (p.68) “If they’re from the same class, shouldn’t he have protected Horikita from the start?”
+[says:ibuki-mio] (p.69) “I don’t get it. So, X has been helping Class C?”
+[says:ibuki-mio] (p.69) “But there wasn’t any proof on anyone’s phone.”
+[says:ibuki-mio] (p.69) “You didn’t even look at them carefully.”
+[says:ibuki-mio] (p.69) “Huh? But you said you’d know the spy’s identity if you looked at our phones.”
+[says:ibuki-mio] (p.69) “Well, no, I wouldn’t. That’s why I thought that checking our phones was a waste of time.”
+[rel:manabe-shiho] (p.72) Questions whether threatened spies can really be called wild.
+[note] (p.72) Reacts with a short startled word when Ryuuen calls the spies’ position a wild time.
+[says:ibuki-mio] (p.72) “If they’re being threatened by someone they don’t know, that hardly seems ‘wild.’”
+[trait] (p.62–72) Defiant, analytical, unwilling to kneel to intimidation; the only Class C voice that repeatedly forces Ryuuen to answer.
+<!-- walk: y1v6 ch4 → p.75 -->

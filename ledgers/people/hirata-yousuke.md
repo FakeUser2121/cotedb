@@ -935,3 +935,13 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [says:hirata-yousuke] (p.58) “It seems like everyone agrees with Horikita-san’s plan. So, I’ll go along with it, too”
 
 <!-- walk: y1v6 ch3 → p.59 -->
+
+### y1v6 p.62, 72–73 — Ch.4: named in Class C’s crosshairs
+[scene] (p.62) Asked whether anyone competent exists in Class D besides Horikita or Hirata.
+[rel:horikita-suzune] (p.62) Paired with him as the two visible Class D figures in Class C’s model.
+[rel:ryuuen-kakeru] (p.72) She’s Hirata’s girl, isn’t she? — Karuizawa recognised through him.
+[rel:karuizawa-kei] (p.72) Disclosed as her boyfriend in Ryuuen’s line.
+[rel:ryuuen-kakeru] (p.73) floated as mastermind material — People like Hirata — then dismissed as not the type.
+[says:ryuuen-kakeru] (p.73) “There are other capable people in Class D. People like Hirata.”
+[note] (p.73) Hirata does not appear in person on these pages.
+<!-- walk: y1v6 ch4 → p.75 -->

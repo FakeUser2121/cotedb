@@ -22,3 +22,15 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 [trait] (p.127) Mass as structure: the unit’s centre does not fall even when Sudou slams it.
 
 <!-- walk: y1v5 ch6 → p.143 -->
+
+## y1v6
+
+<!-- walk: y1v6 → start -->
+
+### y1v6 p.60, 70 — Ch.4: silent muscle at Ryuuen’s side
+[scene] (p.60) Named with Ishizaki among martial-arts students willing to punish opponents with fists.
+[rel:ryuuen-kakeru] (p.60) Stands next to him as standing threat.
+[rel:ishizaki-daichi] (p.60) Paired with him as enforcer cadre.
+[rel:ryuuen-kakeru] (p.70) Albert, who stood quietly by Ryuuen’s side, also reacted slightly when entrance-ceremony violence is cited; both once resisted and were broken.
+[note] (p.70) No dialogue from Albert on these pages.
+<!-- walk: y1v6 ch4 → p.75 -->
