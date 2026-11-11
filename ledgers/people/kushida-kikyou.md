@@ -832,3 +832,30 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [says:kushida-kikyou] (p.156) “Are you okay? Horikita-san?”
 
 <!-- walk: y1v5 ch7 → p.159 -->
+
+### y1v5 p.169 — Ch.8 §8.2: volunteers for the three-legged race
+[scene] (p.169) Kushida offers to pay for Horikita’s three-legged place so Hirata is not left holding the bill alone.
+[says:kushida-kikyou] (p.169) “Um, Hirata-kun, would you mind if I helped, too? I’d like to participate in the three-legged race. Of course, I’ll pay the points for it. Is that okay?”
+[says:kushida-kikyou] (p.169) “I can’t let you bear this burden alone. Besides, I want to try my best for the class, and for Horikita-san and Sudou-kun’s sake.”
+[says:kushida-kikyou] (p.169) “Thank you. I’ll go tell Chabashira-sensei that I’ll participate in Horikita-san’s place, then,”
+[says:kushida-kikyou] (p.169) “You’re taking Sudou-kun’s place, then, Ayanokouji-kun? I’m looking forward to racing with you!”
+[says:kushida-kikyou] (p.169) “In the three-legged race, coordination’s more important than simple speed,”
+
+### y1v5 p.172–175 — Ch.8 §8.2: named as the traitor
+[scene] (p.172) While tying their legs together, Ayanokouji names Kushida as the leaker of the participation table; she admits it and states her goal.
+[says:kushida-kikyou] (p.172) “Come on, Ayanokouji-kun. What’s the matter with you? Even as a joke, that’s a cruel thing to say,”
+[says:kushida-kikyou] (p.172) “I did that to record the information, so I would remember.”
+[says:kushida-kikyou] (p.173) “Hey, Ayanokouji-kun. Assuming that I am responsible for leaking Class D’s information… If my taking a picture led you to determine that, it must mean you knew the participation table was leaked, right?”
+[says:kushida-kikyou] (p.173) “I understand what you’re getting at, but I’m not the culprit, okay? I don’t want to suspect any of my classmates, either,”
+[says:kushida-kikyou] (p.174) “Hee hee. You really aren’t an ordinary person, are you, Ayanokouji-kun?”
+[says:kushida-kikyou] (p.174) “I suppose there’s nothing I can do, now that I’ve been found out. Yes. I leaked the participation table,”
+[says:kushida-kikyou] (p.174) “I wanted to expel her. Expel Horikita Suzune. That’s what,”
+[says:kushida-kikyou] (p.174) “I’m going to get Horikita-san expelled, no matter what you say. I won’t change my mind,”
+[says:kushida-kikyou] (p.174) “That’s right. I don’t care if I never make it to Class A, if it means Horikita-san gets expelled. Oh, but don’t misunderstand me—once she’s gone, I’ll unite everyone, and we’ll work toward reaching Class A together. I promise,”
+[says:kushida-kikyou] (p.175) “Oh, but I reconsidered one thing. I added you to the list of people I want expelled, Ayanokouji-kun.”
+[says:kushida-kikyou] (p.175) “I’m not an idiot. I obviously wouldn’t do anything that left any evidence behind. Ryuuen-kun is a liar who entraps people without batting an eyelash. Well, I gambled on whether or not he would betray me,”
+[rel:ryuuen-kakeru] (p.175) Admits she used Ryuuen on the cruise-ship VIP scheme and gambled on his silence.
+[rel:horikita-suzune] (p.174) Goal unchanged: expel Horikita first, then unite the class for Class A.
+[status] (p.175) Smile returns; the three-legged race runs in silent hostility.
+
+<!-- walk: y1v5 ch8 → p.180 -->

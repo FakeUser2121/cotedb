@@ -610,3 +610,14 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:yamauchi-haruki] (p.140–141) Paired for the lunch run; joins Hirata’s ten-person eating group without caring about Sudou.
 
 <!-- walk: y1v5 ch6 → p.143 -->
+
+### y1v5 p.160–162 — Ch.8 §8: scavenger-hunt substitute
+[scene] (p.160) Ike wins the rock-paper-scissors against Yamauchi and takes Sudou’s scavenger-hunt place.
+[says:ike-kanji] (p.160) “All right. I’ll do my best, for Sudou’s sake!”
+[says:ike-kanji] (p.161) “Ayanokouji! Lend me your left foot! Your left foot!”
+[says:ike-kanji] (p.161) “Your shoe, dude! Your shoe! That’s my item!”
+[says:ike-kanji] (p.161) “Not bad, not bad at all,”
+[feat] (p.161) Takes first place on a lucky draw despite not being the fastest runner.
+[says:ike-kanji] (p.162) “Dude, why are you spacing out? Hurry up, Ayanokouji!”
+
+<!-- walk: y1v5 ch8 → p.180 -->

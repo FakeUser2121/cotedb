@@ -53,3 +53,11 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 [rel:ryuuen-kakeru] (p.125) His fall leaves Ryuuen alone for the final surround.
 
 <!-- walk: y1v5 ch6 → p.143 -->
+
+### y1v5 p.169–170 — Ch.8 §8.2: Ichinose’s three-legged partner
+[scene] (p.169) Shibata walks up with Ichinose as her three-legged-race partner.
+[passing mention] (p.169) Named only as Ichinose’s partner beside her when the Class B pair approaches.
+[note] (p.170) Shibata answers “Okay.” — too short for a says row.
+[rel:ichinose-honami] (p.170) Agrees that she can tie their legs now.
+
+<!-- walk: y1v5 ch8 → p.180 -->

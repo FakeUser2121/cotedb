@@ -691,3 +691,13 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [trait] (p.119–123) Genuinely enjoying the games while playing them straight — the text’s contrast with Ryuuen’s psychological war.
 
 <!-- walk: y1v5 ch6 → p.143 -->
+
+### y1v5 p.169–170 — Ch.8 §8.2: the Class B three-legged pair
+[scene] (p.169) Ichinose greets Kushida and Ayanokouji as fellow three-legged competitors with Shibata as her partner.
+[says:ichinose-honami] (p.169) “Yoo-hoo! Ayanokouji-kun! Oh, Kikyou-chan, too. Looks like we’re competing in the same group, huh?”
+[says:ichinose-honami] (p.170) “Well, Shibata-kun might be tough, but I’m really not all that special, you know? I haven’t gotten first place in anything yet,”
+[says:ichinose-honami] (p.170) “I placed second one time, but I got fourth or fifth for all the rest of my events. To tell you the truth, someone else was supposed to participate in this three-legged race, but I guess she sprained her ankle before lunch. Quite a few people got injured this year,”
+[rel:shibata-sou] (p.170) Ties the cord with Shibata for their race.
+[rel:ayanokouji-kiyotaka] (p.170) Class B pair cheerily readies against Ayanokouji and Kushida.
+
+<!-- walk: y1v5 ch8 → p.180 -->

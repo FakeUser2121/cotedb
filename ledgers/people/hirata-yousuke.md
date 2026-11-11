@@ -811,3 +811,21 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [trait] (p.115–142) Absorbs the punch without exposing Sudou, keeps Class A cooperation intact, and is the only peer Ryuuen’s taunts cannot rattle into a mistake.
 
 <!-- walk: y1v5 ch6 → p.143 -->
+
+### y1v5 p.160–161 — Ch.8 §8: pays for substitutes
+[scene] (p.160) Hirata takes Ayanokouji’s opinion on a substitute and funds Ike for the scavenger hunt.
+[says:hirata-yousuke] (p.160) “I think we need a substitute. In the individual competitions, our class ranks right at the bottom. To win in overall points, we need to win the next events,”
+[says:hirata-yousuke] (p.160) “We need 100,000 points to put in a substitute. I’ll figure something out with the points. I think we’d do well substituting Ike-kun or Yamauchi-kun,”
+[says:hirata-yousuke] (p.160) “Yeah. We can use that to our advantage.”
+
+### y1v5 p.168–169 — Ch.8 §8.2: the 500,000-point burden
+[scene] (p.168) After the lost tug-of-war Hirata has paid three times and faces a fourth; he still agrees because the class needs the points.
+[says:hirata-yousuke] (p.168) “Yeah, I am. We need it,”
+[says:hirata-yousuke] (p.168) “You might be right, but 100,000 points is a lot, and it’s hard to save that many. Also, I’m the one who gave the go-ahead to use substitutes, so I can’t exactly go asking for points,”
+[rel:sudou-ken] (p.168) Sudou punched him earlier; Hirata does not dwell on it and keeps paying.
+[says:hirata-yousuke] (p.168) “I suppose there’s the class’s victory to think about, but if we place well here, our winnings will give us an advantage on future tests.”
+[says:hirata-yousuke] (p.169) “Since you’re pretty good at sports, Kushida-san, your offer is welcome.”
+[says:hirata-yousuke] (p.169) “Well… Yeah, sure. I don’t mind, of course, but…are you okay with that?”
+[rel:ayanokouji-kiyotaka] (p.169) Grants Ayanokouji Sudou’s substitute place after Kushida’s offer.
+
+<!-- walk: y1v5 ch8 → p.180 -->

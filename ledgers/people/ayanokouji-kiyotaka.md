@@ -3038,3 +3038,41 @@ walk: y1v1 → DONE
 [rel:horikita-suzune] (p.158) She treats Sudou as an asset she accepts; he lets her go alone.
 
 <!-- walk: y1v5 ch7 → p.159 -->
+
+### y1v5 p.160–162 — Ch.8 §8: the scavenger hunt draws
+[scene] (p.160) Second half opens with Ayanokouji stuck in the scavenger hunt after losing rock-paper-scissors, while Sudou and Horikita are both missing.
+[says:ike-kanji] (p.160) “You’re participating in the scavenger hunt, right, Ayanokouji-kun?”
+[says:ayanokouji-kiyotaka] (p.160) “I’d rather not, if possible.”
+[says:ayanokouji-kiyotaka] (p.160) “Hirata, you don’t need my opinion to make a sound decision, right?”
+[says:hirata-yousuke] (p.160) “We need 100,000 points to put in a substitute. I’ll figure something out with the points. I think we’d do well substituting Ike-kun or Yamauchi-kun,”
+[says:ayanokouji-kiyotaka] (p.160) “That’s because, if they do happen to take first place, they’ll be able to put points toward their tests. Right?”
+[says:ryuuen-kakeru] (p.161) “So, that muscle-headed moron won’t be participating in the scavenger hunt, huh?”
+[says:ayanokouji-kiyotaka] (p.161) “No idea. That has nothing to do with me,”
+[says:ike-kanji] (p.161) “Ayanokouji! Lend me your left foot! Your left foot!”
+[says:ayanokouji-kiyotaka] (p.161) “My left foot?”
+[says:ike-kanji] (p.161) “Your shoe, dude! Your shoe! That’s my item!”
+[says:ayanokouji-kiyotaka] (p.161) “If I give it to you, I can’t run anymore, though.”
+[feat] (p.161) Ike takes first on a lucky draw; Ayanokouji’s own lots are “Ten friends” then “A person you love”; he redraws to a table clock and finishes last.
+[says:ayanokouji-kiyotaka] (p.162) “I’d like to request a change.”
+
+### y1v5 p.168–175 — Ch.8 §8.2: the points crisis and Kushida
+[scene] (p.168) After a lost four-way tug-of-war, Hirata has paid three substitutes; Kushida volunteers for the three-legged race and Ayanokouji takes Sudou’s place.
+[says:ayanokouji-kiyotaka] (p.168) “Hirata, are you going to pay for the next competition, too?”
+[says:hirata-yousuke] (p.168) “Yeah, I am. We need it,”
+[fact] (p.168) Hirata has paid twice for Sudou and once for Horikita; another substitute would push his total to 500,000 points.
+[says:ayanokouji-kiyotaka] (p.168) “Well, Sudou aside, Horikita should be able to repay you,”
+[says:ayanokouji-kiyotaka] (p.168) “Hey, Hirata. Could I go in as Sudou’s substitute? I’ll pay the points. I can’t guarantee I’ll be much help, but I’ll try,”
+[says:chabashira-sae] (p.169) “So, you’re going to be Sudou’s substitute, Ayanokouji?”
+[says:chabashira-sae] (p.169) “Rather unusual, since you tend to prefer watching on the sidelines.”
+[rel:kushida-kikyou] (p.172) Ties him into the three-legged pair, then he names her as the traitor who photographed the participation table.
+[says:ayanokouji-kiyotaka] (p.172) “It’s you. You’re the traitor who leaked Class D’s participation table to Class C.”
+[says:kushida-kikyou] (p.172) “Come on, Ayanokouji-kun. What’s the matter with you? Even as a joke, that’s a cruel thing to say,”
+[says:ayanokouji-kiyotaka] (p.172) “I saw you. You took a picture with your phone of the participation table we drew on the blackboard.”
+[says:kushida-kikyou] (p.174) “I suppose there’s nothing I can do, now that I’ve been found out. Yes. I leaked the participation table,”
+[says:kushida-kikyou] (p.174) “I wanted to expel her. Expel Horikita Suzune. That’s what,”
+[says:kushida-kikyou] (p.174) “I’m going to get Horikita-san expelled, no matter what you say. I won’t change my mind,”
+[says:kushida-kikyou] (p.175) “Oh, but I reconsidered one thing. I added you to the list of people I want expelled, Ayanokouji-kun.”
+[rel:kushida-kikyou] (p.175) Open blackmail leverage: the uniform he touched on the cruise ship; she admits she gambled on Ryuuen.
+[status] (p.175) Three-legged race run in silent hostility after the confession.
+
+<!-- walk: y1v5 ch8 → p.180 -->

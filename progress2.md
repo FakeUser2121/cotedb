@@ -1869,3 +1869,23 @@ char_id in search assets and returned to 0. Quotes: verify 425 [says] +
 204 non-says ALL PASS (0 too short). make check OK (R18 0, R19 82/82);
 gate exit 0; build hash `a6497eb8051f36898e69ec9702eccd44` twice. New tags:
 none. Open: ch8 pp.160–180.
+
+### y1v5 ch8 (pp.160–180) — What You and I Lack — walked
+Full chapter read in one pass (blank/short scans p.171, p.177, p.180).
+Split POV: Ayanokouji’s scavenger-hunt last place (three bad lots);
+§8.1 Horikita finds Sudou in the dorm lobby and the worthless-parents
+argument; §8.2 Hirata’s 500,000-point substitute burden, Kushida’s
+volunteer offer, Ayanokouji taking Sudou’s place, and the traitor
+confrontation — Kushida admits leaking the participation table and her
+expel-Horikita goal; §8.3 Sudou returns and the ally bargain until
+graduation. Ledger appends: 13 files stamped y1v5 ch8 → p.180 (12 people
++ volume Chapter 8 section). Quote hygiene: single-sentence pairs kept
+where corpus-exact; short cries as notes (“Horikita.”, “Shut up!”,
+“Okay.”); one mis-tagged says line retagged to Ayanokouji. R19: the
+chapter title “What You and I Lack” added a second-person hit on the
+volume page (+1 over baseline 82); fixed by quoting the title in the
+volume heading so the validator strips it as a quotation — count back to
+82/82 without touching gen/. Quotes: verify 538 [says] + 206 non-says
+ALL PASS (0 too short). make check OK (R18 0, R19 82/82); gate exit 0;
+build hash `7137b59766f8c38d10f5167421302f36` twice. New tags: none.
+Open: ch9 pp.181–204.

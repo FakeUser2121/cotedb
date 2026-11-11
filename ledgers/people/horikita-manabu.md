@@ -230,3 +230,11 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [rel:horikita-suzune] (p.157) One line to his sister, then she says she will not bother him.
 
 <!-- walk: y1v5 ch7 → p.159 -->
+
+### y1v5 p.178 — Ch.8 §8.3: named as the one she runs for
+[scene] (p.178) Horikita tells Sudou the prim-and-proper president is her older brother and why she chases his regard.
+[rel:horikita-suzune] (p.178) “He’s my older brother.”; far from good because she lacks talent; she chases Class A for his respect.
+[says:horikita-suzune] (p.178) “That’s why I’ve been running straight ahead, not caring what anyone else thinks of me.”
+[rel:sudou-ken] (p.178) Sudou learns the connection only here, after calling the president prim-and-proper.
+
+<!-- walk: y1v5 ch8 → p.180 -->

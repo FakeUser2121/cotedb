@@ -1928,3 +1928,46 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [status] (p.158) Lunch nearly over, Sudou still missing, Class D’s defeat in the festival looking certain.
 
 <!-- walk: y1v5 ch7 → p.159 -->
+
+### y1v5 p.163–167 — Ch.8 §8.1: the dorm lobby with Sudou
+[scene] (p.163) Horikita finds Sudou alone on a sofa in the dormitory lobby and refuses to leave until he comes back.
+[note] (p.163) Sudou greets her with “Horikita.” — too short for a says row.
+[says:sudou-ken] (p.163) “Why are you here? Don’t tell me you came to persuade me to go back?”
+[says:horikita-suzune] (p.163) “Do I look like the type to come all the way here to persuade you?”
+[says:horikita-suzune] (p.163) “If you stay out of the competitions, Class D has no hope of winning.”
+[says:sudou-ken] (p.163) “Probably not. Guess we’re in a lot of trouble right now, huh?”
+[says:horikita-suzune] (p.163) “You may be a bit of a problem child, but you certainly gave it your all today,”
+[says:horikita-suzune] (p.164) “Your weakness is completely obvious,”
+[says:horikita-suzune] (p.164) “If you don’t like it, feel free to hit me,”
+[says:sudou-ken] (p.164) “Huh? What? You… There ain’t no way I could do somethin’ like that!”
+[says:sudou-ken] (p.165) “Maybe I just wanted to see how it felt for people to pay attention to me and give me some respect.”
+[says:sudou-ken] (p.166) “You abandoned the class, though, just like me. Right? So, you don’t got any right to lecture me,”
+[says:horikita-suzune] (p.166) “No, I suppose not.”
+[says:sudou-ken] (p.166) “I was born to worthless people. That’s why I’m worthless, too.”
+[says:horikita-suzune] (p.166) “It’s incorrect to conclude that someone with worthless parents will inevitably turn out worthless themselves.”
+[says:sudou-ken] (p.167) “Fine. Then just brand me worthless, already. Go ahead. I don’t even care anymore,”
+[says:sudou-ken] (p.167) “Go back, Horikita.”
+[says:horikita-suzune] (p.167) “No. Not unless I bring you with me.”
+[says:horikita-suzune] (p.167) “I’ll wait here. Forever.”
+[rel:horikita-manabu] (p.165) Compares herself to Sudou: Ayanokouji destroyed her, Ryuuen defeated her, her brother abandoned her.
+
+### y1v5 p.176–179 — Ch.8 §8.3: the ally
+[scene] (p.176) After an hour at the elevator, Sudou returns; Horikita admits she is worthless and asks for his strength until graduation.
+[says:sudou-ken] (p.176) “Did…did you seriously wait around here?”
+[says:horikita-suzune] (p.176) “You came back, Sudou-kun.”
+[says:sudou-ken] (p.176) “Nope. I just came down here to see if you were still hanging around, is all.”
+[says:horikita-suzune] (p.176) “I concluded that you and I really are similar after all.”
+[says:sudou-ken] (p.176) “We ain’t got anythin’ in common. You and I are way too different.”
+[says:horikita-suzune] (p.176) “No. We’re very similar. The more I think about it, the more I see that it’s true.”
+[says:horikita-suzune] (p.178) “He’s my older brother.”
+[says:horikita-suzune] (p.178) “That’s why I’ve been running straight ahead, not caring what anyone else thinks of me.”
+[says:horikita-suzune] (p.178) “I’m not incredible. Ryuuen-kun’s thoroughly beaten me, and I haven’t gotten one single result I’m satisfied with, either.”
+[says:horikita-suzune] (p.178) “If there’s a difference between you and I, that might be it. I will never, ever give up. I’ll strive to become someone worthy of my brother’s admiration,”
+[says:sudou-ken] (p.178) “That sounds like a painful path to take.”
+[says:horikita-suzune] (p.179) “If you ever stray from your path in future, I’ll bring you back to it. So, until we graduate, please lend me your strength. I promise that I’ll lend you all mine, too.”
+[says:horikita-suzune] (p.179) “I’ll ask you again, Sudou-kun. Lend me your strength.”
+[says:sudou-ken] (p.179) “I’ll work with you, Horikita. I…I feel like someone’s finally noticed me outside basketball.”
+[rel:sudou-ken] (p.179) First ally: not Ayanokouji, not her brother — something she had lacked.
+[status] (p.179) Small first step; she smiles for the first time in the chapter.
+
+<!-- walk: y1v5 ch8 → p.180 -->

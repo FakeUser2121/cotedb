@@ -1428,3 +1428,11 @@ eight people files; those headers were removed before shipping. Quotes:
 425 [says] and 204 non-says spans, corpus-exact; R18/R19 held at 0/82.
 Determinism hash across consecutive builds:
 `a6497eb8051f36898e69ec9702eccd44`.
+
+Chapter 8 is the ally chapter: the scavenger hunt, Sudou’s lobby
+confession, Kushida exposed as the leaker who wants Horikita expelled, and
+the elevator bargain that gives Horikita her first ally outside basketball
+and her brother. Twelve people ledgers grow; the volume Chapter 8 heading
+carries a quoted title to keep R19 at baseline. Quotes: 538 [says] and
+206 non-says spans, corpus-exact; R18/R19 held at 0/82. Determinism hash
+across consecutive builds: `7137b59766f8c38d10f5167421302f36`.

@@ -391,3 +391,12 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:horikita-suzune] (p.155) Deadline after the festival: kneel and pay a million points, or let the school deliberate.
 
 <!-- walk: y1v5 ch7 → p.159 -->
+
+### y1v5 p.161 — Ch.8 §8: checks on Sudou’s absence
+[scene] (p.161) Ryuuen needles Ayanokouji about Sudou and Horikita both being missing before the scavenger hunt.
+[says:ryuuen-kakeru] (p.161) “So, that muscle-headed moron won’t be participating in the scavenger hunt, huh? I thought he’d take part for sure. Suzune’s not here, either. They couldn’t be doing each other backstage, right?”
+[says:ryuuen-kakeru] (p.161) “What a shitty answer.”
+[rel:kushida-kikyou] (p.175) Named by Kushida as the man she gambled with on the VIP scheme; she calls him a liar who entraps people.
+[rel:horikita-suzune] (p.178) Horikita tells Sudou Ryuuen has thoroughly beaten her and holds her points by blackmail.
+
+<!-- walk: y1v5 ch8 → p.180 -->

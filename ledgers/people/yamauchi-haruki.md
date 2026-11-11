@@ -495,3 +495,9 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [rel:ike-kanji] (p.140–141) Paired for lunch duty; both accept Hirata’s invitation to eat with the larger group.
 
 <!-- walk: y1v5 ch6 → p.143 -->
+
+### y1v5 p.160 — Ch.8 §8: loses the sub draw
+[scene] (p.160) Yamauchi plays rock-paper-scissors with Ike for the scavenger-hunt substitute and loses.
+[passing mention] (p.160) Named only as the other candidate Hirata and Ayanokouji consider for Sudou’s replacement; Ike wins the draw.
+
+<!-- walk: y1v5 ch8 → p.180 -->

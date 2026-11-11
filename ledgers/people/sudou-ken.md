@@ -792,3 +792,37 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [trait] (p.115–135) Peak athlete and worst crisis in one body: three individual wins, then a single swing that removes the class’s ace from the board.
 
 <!-- walk: y1v5 ch6 → p.143 -->
+
+### y1v5 p.163–167 — Ch.8 §8.1: the lobby lecture
+[scene] (p.163) Sudou sits alone on a dorm lobby sofa after walking out; he expects a scolding and gets Horikita’s honesty instead.
+[note] (p.163) Sudou greets her with “Horikita.” — too short for a says row.
+[says:sudou-ken] (p.163) “Why are you here? Don’t tell me you came to persuade me to go back?”
+[says:sudou-ken] (p.163) “Probably not. Guess we’re in a lot of trouble right now, huh?”
+[says:sudou-ken] (p.163) “And after I carried everyone on my back. That Hirata,”
+[rel:hirata-yousuke] (p.163) Resents Hirata for stopping the rampage; Horikita says he should be grateful.
+[says:sudou-ken] (p.164) “You’re seriously tryin’ to preach to me? Give me a break, Horikita. I’m really pissed,”
+[note] (p.164) Sudou snaps “Shut up!” — too short for a says row.
+[says:sudou-ken] (p.165) “I took the leader job because I thought the sports festival would be easy as pie. I haven’t lost to anyone from the other classes.”
+[says:sudou-ken] (p.165) “Maybe I just wanted to see how it felt for people to pay attention to me and give me some respect.”
+[says:sudou-ken] (p.166) “I was born to worthless people. That’s why I’m worthless, too.”
+[trait] (p.166) Blames worthless parents for turning out worthless; Horikita rejects the hypothesis.
+[says:sudou-ken] (p.167) “Fine. Then just brand me worthless, already. Go ahead. I don’t even care anymore,”
+[says:sudou-ken] (p.167) “Go back, Horikita.”
+[says:sudou-ken] (p.167) “Do what you want.”
+
+### y1v5 p.176–179 — Ch.8 §8.3: comes back for her
+[scene] (p.176) An hour later Sudou returns only to see if she is still at the elevator, then agrees to work with her until graduation.
+[says:sudou-ken] (p.176) “Did…did you seriously wait around here?”
+[says:sudou-ken] (p.176) “It’s already over, isn’t it? The sports festival, I mean.”
+[says:sudou-ken] (p.176) “Nope. I just came down here to see if you were still hanging around, is all.”
+[says:sudou-ken] (p.176) “We ain’t got anythin’ in common. You and I are way too different.”
+[says:sudou-ken] (p.178) “Yeah, that prim-and-proper guy?”
+[rel:horikita-manabu] (p.178) Names the president as prim-and-proper before learning he is her brother.
+[says:sudou-ken] (p.178) “Oh? So… Wait. You said something about fighting with him, right?”
+[says:sudou-ken] (p.178) “You’re not givin’ up?”
+[says:sudou-ken] (p.178) “That sounds like a painful path to take.”
+[says:sudou-ken] (p.179) “Ah. What the hell am I feelin’ right now?! I don’t get it, but it’s like… I feel like I’ve finally had my eyes opened.”
+[says:sudou-ken] (p.179) “I’ll work with you, Horikita. I…I feel like someone’s finally noticed me outside basketball.”
+[rel:horikita-suzune] (p.179) Accepts her as an ally; first time anyone outside basketball has noticed him.
+
+<!-- walk: y1v5 ch8 → p.180 -->

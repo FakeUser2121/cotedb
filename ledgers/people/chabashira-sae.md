@@ -539,3 +539,11 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [says:chabashira-sae] (p.156) “You still have about twenty minutes. You haven’t eaten yet, right?”
 
 <!-- walk: y1v5 ch7 → p.159 -->
+
+### y1v5 p.169 — Ch.8 §8.2: accepts Ayanokouji as substitute
+[scene] (p.169) Chabashira raises an eyebrow at Ayanokouji volunteering for Sudou’s three-legged place.
+[says:chabashira-sae] (p.169) “So, you’re going to be Sudou’s substitute, Ayanokouji?”
+[says:chabashira-sae] (p.169) “Rather unusual, since you tend to prefer watching on the sidelines.”
+[rel:ayanokouji-kiyotaka] (p.169) Notes his usual sideline habit while approving the entry.
+
+<!-- walk: y1v5 ch8 → p.180 -->
