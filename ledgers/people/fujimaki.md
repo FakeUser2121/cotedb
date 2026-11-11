@@ -17,3 +17,8 @@ char_id: fujimaki · class: Class 3-A · status: minor
 [note] (p.26) No first name is printed anywhere in the chapter.
 
 <!-- walk: y1v5 ch2 → p.38 -->
+
+### y1v5 p.86 — Ch.6 §6: the opening speech
+[scene] (p.86) Fujimaki, third-year Class A, gives a speech during the opening ceremony as the whole student body stands in jerseys.
+[action] (p.86) Speaks for the Red Team command he took at the assembly; spectators on the outskirts watch without strict restriction.
+[note] (p.86) The speech’s content is not quoted; only the fact of it is on the page.

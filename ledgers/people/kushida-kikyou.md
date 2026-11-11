@@ -799,3 +799,13 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:sudou-ken] (p.83–84) Intervenes in the anchor dispute and backs the swap once Sudou is satisfied.
 
 <!-- walk: y1v5 ch5 → p.85 -->
+
+### y1v5 p.116–140 — Ch.6 §6: compromise partner and searcher
+[scene] (p.116) Kushida pairs with Horikita in the girls’ three-legged — always willing to compromise against Horikita’s grudge.
+[action] (p.116–117) Takes the lead when Horikita’s leg stiffens; the pair drops to last after a brief second and an obstructing lane change.
+[rel:horikita-suzune] (p.116–117) The bizarre pair looks safe to Class D and fails on the field; neither bridges the gap.
+[action] (p.140, §6.10) Abstains from lunch, tells other girls she is going to look for Sudou, and leaves.
+[rel:sudou-ken] (p.140) One of the two girls who go searching while Ike and Yamauchi refuse to.
+[note] (p.140) Her search is reported, not shown, before the chapter closes.
+
+<!-- walk: y1v5 ch6 → p.143 -->

@@ -360,3 +360,31 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [rel:kushida-kikyou] (p.80) “did you tell Ryuuen-kun or Katsuragi-kun that you were the VIP?” — the question, with Ryuuen.
 
 <!-- walk: y1v5 ch5 → p.85 -->
+
+### y1v5 p.88–110 — Ch.6 §6: Class A’s split on the field
+[scene] (p.88) Katsuragi takes third in his 100-metre group behind Kanzaki, then co-directs the D/A teams through capture the flag and the tug-of-war.
+[action] (p.88–89) Is named by Ike as “Baldy” at the line; his scalp catches the sun; Kanzaki wins the heat and Katsuragi third.
+[action] (p.100–104) Holds the defensive side of capture the flag; after Sudou’s flag falls he accepts shared blame with Hirata.
+[says] (p.104) “I apologize that we weren’t of much use,” he said.
+[rel:hashimoto-masayoshi] (p.106–107) Is challenged mid tug-of-war by Hashimoto’s half of Class A and answers that losing to bickering would be Sakayanagi’s fault.
+[says] (p.107) “But if we lose because of meaningless bickering, it won’t be our lack of cooperation or skill to blame.”
+[rel:sakayanagi-arisu] (p.106–107) Reads the timed rebellion as her work; her thin smile from camp can only mean she instigated it.
+[says] (p.107) “You really are blind, huh, Katsuragi-kun?” Hashimoto sneered.
+[action] (p.107–110) Steadies the third tug round after the second loss, then stops Sudou’s charge at Ryuuen’s rope-drop.
+[says] (p.109) “We lost because our opponents used the right formation to beat us.”
+[rel:ryuuen-kakeru] (p.109) Names the forfeit as a plan to waste D/A energy and provoke foul play, and notes it was unsportsmanlike but not a rules violation.
+[rel:sudou-ken] (p.109–110) Holds Sudou back, pats his shoulder, and later apologizes to Hirata for failing to lead Class A.
+[says] (p.110) “I wasn’t able to lead my class,” he told Hirata.
+[trait] (p.107–110) Control under fire is masterful — Class A’s crisis is visible, but he does not panic in front of the coalition.
+
+### y1v5 p.123–126 — Ch.6 §6: the abandoned rescue and the pincer
+[scene] (p.123) Class A’s cavalry units sit out the attack on Horikita and only re-engage after her headband falls.
+[action] (p.123) After Horikita’s loss, Class A and Class C wipe the rest of the A/D side; Katsuragi’s group takes down Shibata and Kanzaki’s unit later in the boys’ match.
+[rel:horikita-suzune] (p.120–123) Class A shows no sign of helping her — Ayanokōji suspects bait-and-swoop.
+[rel:ryuuen-kakeru] (p.126) Offers the two-on-one pincer while Sudou is being baited; Sudou threatens his unit if he interferes.
+[says] (p.126) “What are you talking about? We can’t let this chance go. We should use a pincer attack to defeat him,”
+[rel:sudou-ken] (p.126) Loses the argument; watches the one-on-one unfold with a bitter expression.
+[rel:hirata-yousuke] (p.124–128) Receives Hirata’s merge plan and the order to rush Ryuuen; later exchanges the look that seals the last surround.
+[trait] (p.123–126) Willing to trade D’s pain for A’s points until the coalition’s own units are at stake — the split with Sakayanagi still reading from the camp.
+
+<!-- walk: y1v5 ch6 → p.143 -->

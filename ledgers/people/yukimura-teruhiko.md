@@ -231,3 +231,21 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [rel:ayanokouji-kiyotaka] (p.52) Picked with Ayanokōji, Sotomura, Mori and Maezono for the scavenger hunt: “Ayanokouji-kun, Yukimura-kun, Sotomura-kun, Mori-san, and Maezono-san.”
 
 <!-- walk: y1v5 ch3 → p.53 -->
+
+### y1v5 p.98–101 — Ch.6 §6: seventh and seventh
+[scene] (p.98) Yukimura grumbles back to camp after a second straight seventh place, downtrodden before the hurdles and flag.
+[says] (p.98) “Seventh and seventh,” he grumbled.
+[rel:ayanokouji-kiyotaka] (p.98–99) Gets space rather than comfort, then a redirect to the written tests he still plans to ace.
+[says] (p.99) “I won’t fail, but my scores will plummet.” said Yukimura.
+[trait] (p.99) Wants Class A more than anyone, so the burden of a bad sports day sits heavier on him than on most.
+[action] (p.101) Brings up the rear of the capture-the-flag offense with Ike and Ayanokōji.
+
+### y1v5 p.132 — Ch.6 §6: cutting the leader
+[scene] (p.132) Yukimura interjects while Sudou demands the class follow him after the cavalry loss.
+[says] (p.132) “Is that really the case?”
+[says] (p.132) “It seems like you just want to show off how amazing you are.”
+[says] (p.132) “Your emotions are completely out of control, and they’re making all your decisions for you.”
+[rel:sudou-ken] (p.132) Cuts Sudou’s “trying my hardest for the class” claim; Sudou tells him to shut up, then punches Hirata instead.
+[trait] (p.132) The academic who resents Sudou’s sports-day power finally says the quiet part aloud — and nearly becomes the fist’s target.
+
+<!-- walk: y1v5 ch6 → p.143 -->

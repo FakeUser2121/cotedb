@@ -1408,3 +1408,13 @@ me,” and Horikita’s brother reason. Nagumo and Shibata gain y1v5 sections
 p.79 stays open in the attribution gaps. Quotes: 141 [says] and 181 non-says
 spans, corpus-exact; R18/R19 held at 0/82. Determinism hash across
 consecutive builds: `fd05909784782d880bf27cb7bbdc344b`.
+
+Chapter 6 carries the full morning half of the sports festival onto the
+volume page: dash through lunch, the Kinoshita fall, Class C’s cavalry crush,
+Sudou’s punch and the cover, and Ayanokōji’s weapon speech. Six new people
+ledgers open (Hashimoto, Yamada, Nomura, Suzuki, Yajima, Kinoshita); Ishizaki
+and Kondō gain first y1v5 sections as cavalry horses. A duplicated Chapter 6
+block in the volume ledger was removed before the second-half write-up.
+Quotes: 301 [says] and 199 non-says spans, corpus-exact; R18/R19 held at
+0/82. Determinism hash across consecutive builds:
+`919b2428e7ea373295286796ebc08a4b`.

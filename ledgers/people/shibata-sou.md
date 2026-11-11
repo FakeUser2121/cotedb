@@ -34,3 +34,22 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 [trait] (p.76–80) Makes no attempt to hide his speed — whether for Ichinose’s Class B or from personality.
 
 <!-- walk: y1v5 ch5 → p.85 -->
+
+### y1v5 p.95–112 — Ch.6 §6: Sudou’s rival on the clock
+[scene] (p.95) Shibata is named again as faster than Hirata as the 100-metre results settle.
+[rel:hirata-yousuke] (p.95) Hirata: “Shibata-kun’s even faster than me, after all,” — seen during club practice.
+[action] (p.97) Wins the hurdle race without much difficulty and becomes Sudou’s main individual rival.
+[action] (p.100) Named with Kanzaki as leading Class B’s side in capture the flag.
+[action] (p.108) After the first tug round he tells Ryuuen the White Team must work together; Ryuuen ignores him and re-forms Class C.
+[rel:ryuuen-kakeru] (p.108) Is brushed off when he warns that the D/A side is too strong to face split.
+[action] (p.111–112) Pushes Sudou to the tape in the obstacle course; pure speed may be his, but Sudou takes first for the third time.
+[rel:sudou-ken] (p.112) Sudou after the race: the Shibata guy was really fast, and he only just beat him.
+[trait] (p.97–112) Like Ichinose, his leadership makes others rally around him — a standing threat to Sudou’s all-grade first-place dream.
+
+### y1v5 p.124–125 — Ch.6 §6: cavalry horse under a Class B general
+[scene] (p.124) Shibata rides in the Class B general’s cavalry unit against the merged D/A mass in the boys’ match.
+[action] (p.125) That unit is taken down by Katsuragi and other Class A students after three of their own fall.
+[rel:kanzaki-ryuuji] (p.124–125) Rides with Kanzaki under the same Class B general.
+[rel:ryuuen-kakeru] (p.125) His fall leaves Ryuuen alone for the final surround.
+
+<!-- walk: y1v5 ch6 → p.143 -->

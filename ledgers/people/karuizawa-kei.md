@@ -578,3 +578,23 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [note] (p.74) He weighs her or Sakura against Kushida and decides Kushida is the right person — no scene presence this chapter.
 
 <!-- walk: y1v5 ch5 → p.85 -->
+
+### y1v5 p.120–142 — Ch.6 §6: rescue, leak, lunch
+[scene] (p.120) Karuizawa jockeys a Class D cavalry unit and first moves to Horikita’s rescue when Class C attacks her alone.
+[action] (p.120–123, §6.8) Rushes with Shinohara; blocked by Ichinose’s general unit; ends in an eight-to-one scrape and snatches one headband at the end.
+[rel:ichinose-honami] (p.121–123) Direct collision — unity versus manoeuvrability — while Class A sits out.
+[rel:horikita-suzune] (p.120–123) Rescues her too late; after the loss says Horikita’s opponents were simply too much.
+[action] (p.129–132, after cavalry) Calls Ayanokōji “Kiyotaka” and opens the leak conversation; connects the fixed matchups to the traitor.
+[says] (p.129) “Isn’t this bad news, Kiyotaka?”
+[says] (p.129) “Why? Well, I call Yousuke-kun by his first name, so I thought I’d try using yours,”
+[says] (p.130) “Targeted? So, it’s not accidental that she keeps facing all these incredible students?”
+[says] (p.130) “So, information about our class got leaked? Someone sent out our participation table?”
+[says] (p.131) “What? I don’t like her. She’s all high and mighty and full of herself,”
+[says] (p.131) “Well…maybe I kinda understand what she’s dealing with.”
+[rel:ayanokouji-kiyotaka] (p.129–132) Gets the full Ryuuen-targeting theory; is told nothing can be done and that the plan is to do nothing.
+[action] (p.133–142, §6.10) Joins the lunch circle, presses for the traitor’s name, and accepts that Sudou’s return now rides on Horikita.
+[says] (p.141) “So, who’s the traitor? You know, don’t you, Yousuke-kun?”
+[says] (p.141) “Wait. The traitor might be someone nearby, right? It might even be someone among us right now.”
+[trait] (p.129–142) Uses the first-name opening as intimacy, then switches to class-survival mode — the bullying history lets her read Horikita’s targeting without liking her.
+
+<!-- walk: y1v5 ch6 → p.143 -->

@@ -150,3 +150,26 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [rel:ichinose-honami] (p.219) Ichinose reports that he is popular, not dating anyone, and hard to interpret.
 
 <!-- walk: y1v4.5 ch7 → p.223 -->
+
+## y1v5
+
+<!-- walk: y1v5 → start -->
+
+### y1v5 p.88–98 — Ch.6 §6: the chats at the line
+[scene] (p.88) Kanzaki wins the third group of the 100-metre dash ahead of Katsuragi, then meets Ayanokōji again in the hurdles.
+[action] (p.88) Takes first place; Katsuragi is third — Class B’s runner outclasses Class A’s wall in pure speed.
+[says] (p.98) “We meet again,” said Kanzaki.
+[says] (p.98) “Ichinose says you’re pretty fast,” he replied.
+[rel:ichinose-honami] (p.98) Carries Ichinose’s homework on Ayanokōji — his ranking and his thought process — into the pre-race talk.
+[says] (p.98) “It didn’t seem to me that you were taking the race seriously,” Kanzaki replied.
+[says] (p.98) “You know, you’re really calm for a high schooler,” Kanzaki added.
+[note] (p.98) He follows with “It’s scary.” — a two-word reply kept as note, not a quote row.
+[rel:ayanokouji-kiyotaka] (p.98) Weighs him as a strategist who would not waste effort holding back, and finishes ahead of him in the heat.
+
+### y1v5 p.124–125 — Ch.6 §6: cavalry horse under a Class B general
+[scene] (p.124) Kanzaki rides in the Class B general’s cavalry unit against the merged D/A mass in the boys’ match.
+[action] (p.125) That unit is taken down by Katsuragi and other Class A students after three of their own fall.
+[rel:shibata-sou] (p.124–125) Rides with Shibata under the same Class B general — one of the two units the coalition must clear before Ryuuen.
+[rel:ryuuen-kakeru] (p.125) Left as sole enemy after this unit and Shibata’s fall; the D/A surround begins.
+
+<!-- walk: y1v5 ch6 → p.143 -->

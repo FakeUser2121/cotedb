@@ -1821,3 +1821,31 @@ terms”). Quotes: verify 141 [says] + 181 non-says ALL PASS. make check OK
 (R18 0, R19 82/82); gate exit 0; build hash
 `fd05909784782d880bf27cb7bbdc344b` twice. New tags: none. Open: ch6
 pp.86–143.
+
+### y1v5 ch6 (pp.86–143) — The Curtains Rise — walked
+Full chapter read in two halves (first half pp.86–114, second half
+pp.115–143; blank/short scans p.93, p.122, p.134, p.139, p.143). Morning
+half: festival opening and Fujimaki’s speech, Sudou’s dash/hurdle/obstacle
+firsts, Kōenji’s cottage pose, capture-the-flag and tug-of-war (Hashimoto’s
+rebellion, Ryuuen’s bow), girls’ obstacle fall with Kinoshita’s name-call.
+Second half: three-legged firsts, Class C’s sole-target cavalry on Horikita,
+Karuizawa’s blocked rescue, boys’ cavalry bait and sticky headband, Sudou’s
+punch on Hirata and the cover, Chabashira’s preventative report, the
+200-metre and Ayanokōji’s “burden/weapon” push, lunch with the traitor lie.
+Ledger appends: 56 files stamped across both halves (ch6a 28, ch6b 29
+including sports-festival; volume chapter section extended once and stamped
+y1v5 ch6 → p.143). New ledgers: hashimoto-masayoshi, yamada-albert,
+nomura-yuuji, suzuki-hidetoshi, yajima-mariko, kinoshita-minori (first
+y1v5 headings). First y1v5 headings also: kanzaki-ryuuji, komiya-kyogo,
+ishizaki-daichi, kondou-reo. A duplicate Chapter 6 section in
+volumes/y1v5.md from a double first-half append was removed before the
+second-half update. Quote hygiene: single-sentence [says] pairs, page
+straddles trimmed or noted (Hirata’s “something interesting” p.135–136,
+Ryuuen beast-of-burden p.125–126), short cries moved to [note] (“Aaahhh!”,
+“Go, Suzune!”), “Sudou-kun” hyphen verified via norm (corpus prints
+“Sudoukun” across a line break). R18 wording fixed (volume row said
+“ledgers created this chapter”); R19 second person restored to 82/82 by
+rewriting Chabashira’s unquoted “keep your distance.” Quotes: verify 301
+[says] + 199 non-says ALL PASS (0 too short). make check OK (R18 0,
+R19 82/82); gate exit 0; build hash `919b2428e7ea373295286796ebc08a4b`
+twice. New tags: none. Open: ch7 pp.144–159.

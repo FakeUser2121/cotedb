@@ -738,3 +738,57 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:horikita-suzune] (p.84) Yields once the brother reason is on the table — “I don’t mind handin’ it over to you,”
 
 <!-- walk: y1v5 ch5 → p.85 -->
+
+### y1v5 p.87–114 — Ch.6 §6: the leader’s festival
+[scene] (p.87) Sudou lines up for the first-year boys’ 100-metre dash in group one and carries Class D’s hopes on his speed.
+[action] (p.88) Wins the 100-metre dash by a landslide; the Professor, in the same heat, comes in last.
+[action] (p.90–91) Storms the cottage to confront Kōenji for sitting out; his punch is caught in Kōenji’s palm, and Hirata walks him back to camp.
+[says] (p.90) “Don’t give me that bull crap!”
+[says] (p.91) “Next time, I’m seriously going to punch that jerk,” he huffed.
+[says] (p.91) “Stress relief,” said Sudou. — headlocks Ike as Horikita’s heat is about to start.
+[rel:kouenji-rokusuke] (p.90–91) Threatens to beat him for skipping the event, then sulks that he will punch him next time.
+[action] (p.100–104) As capture-the-flag offense he charges the flag line alone; Yamada punches him in the stomach and Ryuuen stomps his back as the flag falls.
+[says] (p.102) “Just how many of you are gonna come after me?!”
+[says] (p.102) “You’re useless!”
+[says] (p.103) “That was foul play!”
+[says] (p.104) “The next time I run into him, I’m gonna lay him out flat!”
+[rel:ryuuen-kakeru] (p.104) Vows to lay Ryuuen flat; Ayanokōji talks him down by citing the near-expulsion fight.
+[rel:hirata-yousuke] (p.102–104) Accepts Hirata’s calming hand after the flag falls, though his anger outweighs the pain.
+[action] (p.105–110) Pushes the tug-of-war despite his injured back; after Ryuuen’s forfeit he charges again and Katsuragi holds him back.
+[says] (p.105) “That’s exactly why we can’t lose this,” Sudou said.
+[says] (p.107) “Class B put their biggest dudes up way up in front.”
+[says] (p.108) “With those guys lined up like that, there’s no way they’ll win,” said Sudou.
+[says] (p.110) “I won’t accept anything besides victory!”
+[action] (p.111–112) Takes first in the obstacle course three times in a row, beating Shibata in a close finish; then pins Ike in a nelson hold for sixth place.
+[says] (p.112) “Still, though, that Shibata guy was really fast.” said Sudou.
+[rel:horikita-suzune] (p.113) Balls his fists cheering Horikita on in the girls’ obstacle course.
+[trait] (p.110) His leadership style is open threats — kick the asses of the people under him — and he admits no one really wants such a leader.
+
+### y1v5 p.115–135 — Ch.6 §6: first place, bait, and the punch
+[scene] (p.115) Sudou runs the boys’ three-legged with Ike, practically carrying him, and takes first.
+[action] (p.115–116) Carries Ike across the line; Hirata and Ayanokōji follow with their own first of the day.
+[note] (p.115) Ike cried in agony as Sudou bolted with him; the pair still nabbed first.
+[note] (p.116) Sudou calls out “Go, Suzune!” during the girls’ three-legged — the still-forbidden first name, safely out of Horikita’s earshot.
+[rel:horikita-suzune] (p.116, 123) Cheeks her first name, then volunteers to get Class C back for her after the cavalry loss.
+[says] (p.123) “Hey, don’t worry ’bout it. It was hopeless.”
+[says] (p.123) “Leave it to me. I’ll get ’em back for you,”
+[action] (p.123–128, §6.8) Anchors the boys’ cavalry at the centre of Hirata’s unit; smashes through Class B, then takes Ryuuen’s one-on-one bait and rejects Katsuragi’s pincer.
+[says] (p.124) “Aim for that shitty Ryuuen’s head!”
+[says] (p.125) “Oh, I remember your name. Sudou.”
+[rel:ryuuen-kakeru] (p.125–129) Bites the one-on-one offer, threatens Katsuragi’s unit if he interferes, then loses when the sticky headband kills Hirata’s grip.
+[says] (p.126) “Fine. Don’t forget what you just said, Ryuuen!”
+[says] (p.126) “Stick your nose in this, and I’ll bust up your unit!”
+[rel:yamada-albert] (p.127) Cannot break through Yamada, whose strength matches his own.
+[action] (p.129) Confronts Ryuuen over the hair gel; evidence already gone.
+[says] (p.129) “That’s foul play! You slathered your headband with something!”
+[action] (p.132–134) Storms Class C after the provocation stack, shoves Hirata aside, and punches him down in front of the class.
+[says] (p.132) “I’m seriously going to beat the crap out of that jerk!”
+[says] (p.132) “Shut it! He’s the one who should be sorry!”
+[says] (p.132) “I’m the leader here! So, listen up, Hirata. Let’s confront Ryuuen together,”
+[says] (p.133) “So what if I did? What then?”
+[says] (p.133) “Whatever, do what you want. Go ahead and lose for all I care, you scum. This sports festival thing can go to hell,”
+[action] (p.133–135) Walks off toward the dormitory; absent for the rest of the morning half — Kōenji gone, Sudou gone.
+[rel:yukimura-teruhiko] (p.132) Is cut by Yukimura for showboating before the punch lands on Hirata instead.
+[trait] (p.115–135) Peak athlete and worst crisis in one body: three individual wins, then a single swing that removes the class’s ace from the board.
+
+<!-- walk: y1v5 ch6 → p.143 -->

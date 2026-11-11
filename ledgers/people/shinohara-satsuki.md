@@ -111,3 +111,10 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [rel:sudou-ken] (p.41) Sudou shuts her down — “If we lose because of you, will you take responsibility?” — and the class sides with the ability plan.
 
 <!-- walk: y1v5 ch3 → p.53 -->
+
+### y1v5 p.121 — Ch.6 §6: passing mention
+[scene] (p.121) Shinohara hurries over to support Karuizawa’s rescue ride in the girls’ cavalry.
+[rel:karuizawa-kei] (p.121) Second rider in the support dash that Ichinose’s unit intercepts.
+[note] (p.121) No further action shown for her on these pages.
+
+<!-- walk: y1v5 ch6 → p.143 -->

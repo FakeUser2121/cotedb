@@ -208,3 +208,17 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [rel:horikita-suzune] (p.84) Ayanokōji’s gloss for the others — the two “aren’t really on speaking terms.”
 
 <!-- walk: y1v5 ch5 → p.85 -->
+
+### y1v5 p.95–96 — Ch.6 §6: first again
+[scene] (p.95) Horikita Manabu runs in the second group of the third-year 100-metre dash as his sister watches.
+[action] (p.96) Naturally takes first place.
+[rel:horikita-suzune] (p.96) She answers Ayanokōji’s comment as simple fact: her brother is perfect and always number one.
+[says:horikita-suzune] (p.96) “That’s because my brother is perfect.”
+[note] (p.95) Ayanokōji adds that the president does not care about his little sister’s feelings in the slightest — his read, not a page quote.
+
+### y1v5 p.135 — Ch.6 §6: passing mention
+[scene] (p.135) Horikita keeps staring at her brother during the upperclassmen’s cavalry — someone she cannot approach.
+[rel:horikita-suzune] (p.135) The distance is both social and physical while she is injured and the class is collapsing.
+[note] (p.135) The president does not act on or answer the look on these pages.
+
+<!-- walk: y1v5 ch6 → p.143 -->

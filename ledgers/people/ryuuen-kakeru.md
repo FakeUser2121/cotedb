@@ -321,3 +321,39 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [tactic] (p.70) The theory holds that Ryuuen was one party; a second, inside Class D, was significantly involved.
 
 <!-- walk: y1v5 ch5 → p.85 -->
+
+### y1v5 p.100–110 — Ch.6 §6: foul play and the forfeit
+[scene] (p.100) Ryuuen leads Class C into the boys’ capture the flag against the D/A coalition, laughing from the rear like a general.
+[action] (p.103) Stomps Sudou’s back as he guards the flag — a low blow the referee culture will call heat-of-the-moment.
+[says] (p.104) “Oh, I didn’t notice you,” replied Ryuuen. He picked up the flag without any hesitation.
+[rel:sudou-ken] (p.103–104) Drops him, takes the flag, and draws a vow of revenge that Katsuragi and Ayanokōji have to talk down.
+[action] (p.108) Re-forms Class C shortest-in-front into a bow shape after the first tug round loss and threatens them into leverage.
+[says] (p.108) “If you lose here, I’ll kill you,” warned Ryuuen.
+[action] (p.109) Lets go of the rope in the third round so the D/A side tumbles; calls it a break because they could not win.
+[says] (p.109) “I decided to take a break, since I thought we couldn’t win,” said Ryuuen.
+[says] (p.109) “You managed to pick up a meaningless win.”
+[rel:katsuragi-kouhei] (p.109–110) Is read by Katsuragi as wasting their energy and trying to provoke a foul; he turns his back when provocation yields nothing.
+[trait] (p.103–110) Violence and psychological games are interchangeable tools; even a lost round is a chance to tilt the opponents.
+
+### y1v5 p.120–136 — Ch.6 §6: the cavalry crown and the bait
+[scene] (p.120) Ryuuen’s Class C horsemen ignore Class A and take Horikita alone in the girls’ cavalry — the crush plan made visible.
+[action] (p.120–123) Orders the four-on-one; Class C wipes the remaining A/D units after her headband falls.
+[rel:horikita-suzune] (p.120–123, 130) Sole target; Ayanokōji reads it as humiliation for its own sake, not points.
+[action] (p.124–129, boys’ cavalry) Rides as Class C’s general on Yamada’s power; absorbs Sudou’s hits, wins the one-on-one bait, and keeps the sticky headband secret.
+[says] (p.125) “Oh, I remember your name. Sudou.”
+[says] (p.126) “Oh? I guess this is all meaningless, unless we settle things one-onone,”
+[says] (p.126) “If you can only beat me when it’s two against one, I suppose that’s that.”
+[says] (p.126) “Tough words, but with nothing to back them up.”
+[says] (p.126) “If you’re so very strong, then face me one-on-one.”
+[rel:sudou-ken] (p.125–129) Studies him, offers the kneel, then wins when Hirata’s grip fails on the treated cloth.
+[says] (p.129) “I don’t know what you’re talking about.”
+[says] (p.129) “If there’s anything on my headband, it’s probably just hair gel. Don’t be a sore loser,”
+[action] (p.135, §6.9) Approaches the tent to ask after Sudou while knowing exactly what happened; takes first in the 200-metre dash.
+[says] (p.135) “Hirata, what happened to Sudou? He taking a dump?”
+[says] (p.135) “Heh. I really don’t think lying suits you,”
+[rel:hirata-yousuke] (p.135–136) Is told the leak is known; answers that the class gap fills D with despair and looks forward to Hirata’s “something interesting.”
+[says] (p.135) “Guess luck is on my side.”
+[says] (p.135) “Ooh. I’d be scared if that weren’t such an obvious bluff.”
+[trait] (p.120–136) Psychological harm over raw score: target the leader, bait the hot head, poison the cloth, then smile through the accusation.
+
+<!-- walk: y1v5 ch6 → p.143 -->

@@ -503,3 +503,15 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [note] (p.41) The chapter prints nothing further about her; her last stated posture is watching from the back (p.39).
 
 <!-- walk: y1v5 ch3 → p.53 -->
+
+### y1v5 p.133 — Ch.6 §6: the report she cannot prove
+[scene] (p.133) Chabashira approaches Hirata on the ground after Sudou’s punch and reads the rage immediately.
+[says] (p.133) “What’s going on?”
+[says] (p.133) “Did you hit him?”
+[rel:sudou-ken] (p.133) Sudou does not deny it — “So what if I did? What then?” — so she has the answer she needed.
+[rel:hirata-yousuke] (p.133) Accepts Hirata’s fall story only enough to log a preventative report: the pair are told to keep apart, and superiors will hear later.
+[says] (p.133) “If the victim says that nothing happened, then there’s no problem.”
+[note] (p.133) She adds that she can tell something is going on, tells them to keep their distance from each other, and will give her superiors a report later as a preventative measure.
+[trait] (p.133) Detached, matter-of-fact: she knows the cover is thin and files it as prevention rather than discipline.
+
+<!-- walk: y1v5 ch6 → p.143 -->

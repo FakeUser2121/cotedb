@@ -757,3 +757,57 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:horikita-suzune] (p.84) “I need more information” — refuses to swap the anchor order without a reason, then submits the swapped list.
 
 <!-- walk: y1v5 ch5 → p.85 -->
+
+### y1v5 p.88–114 — Ch.6 §6: steady hands
+[scene] (p.88) Hirata runs the seventh group of the 100-metre dash and takes first, then spends the day as Class D’s calmer counterweight to Sudou.
+[action] (p.89) Takes first in his heat; when Ayanokōji apologizes for fifth he refuses to blame him — “That’s not true. Everyone was fast. It was a good race,”
+[action] (p.89–90) Goes with Ayanokōji to stop Sudou’s confrontation with Kōenji at the cottage.
+[says] (p.91) “Kouenji-kun’s attitude is a problem, but if he says he’s not feeling well, then he has the right to rest.”
+[rel:kouenji-rokusuke] (p.91) Steps between Sudou and Kōenji, then switches to the leader’s duty argument to pull Sudou away.
+[says] (p.91) “The next competition is about to begin, Sudou-kun.”
+[action] (p.102–104) After the flag falls he apologizes for not protecting it and proposes the next game.
+[says] (p.104) “It’s because we couldn’t protect the flag.”
+[rel:katsuragi-kouhei] (p.104) Accepts the shared blame with Katsuragi on the way back to tents; later Katsuragi quietly apologizes to him for Class A’s split.
+[action] (p.105–107) Co-commands the tug-of-war with Katsuragi; insists no-contact rules favour pure strength, and holds the height-order line.
+[says] (p.105) “in tug-of-war, there’s no physical contact.”
+[says] (p.107) “When you’re pulling the rope, an elevated position is advantageous,”
+[action] (p.111) Names Shibata’s pure speed as a real threat to Sudou in the obstacle heat.
+[says] (p.111) “I don’t know, honestly.”
+[says] (p.112) “This is the most intense match so far today,” said Hirata.
+[rel:horikita-suzune] (p.99) Warns Horikita that Class C’s track club pair Yajima and Kinoshita are in her hurdles group.
+[rel:ayanokouji-kiyotaka] (p.114) After Horikita’s fall agrees the “accident” pattern is ominous and accepts the charge of watching the group while Ayanokōji goes to her.
+[says] (p.114) “That’s my role, after all.”
+[trait] (p.114) Takes his caretaker role without a hint of disgust even when asked to carry it alone.
+
+### y1v5 p.115–142 — Ch.6 §6: jockey, victim, cover
+[scene] (p.115) Hirata ties legs with Ayanokōji for the boys’ three-legged and worries about Horikita’s injury between races.
+[says] (p.115) “How’s Horikita-san doing?”
+[says] (p.115) “It’s pretty serious.”
+[action] (p.115–116) Partners Ayanokōji to three-legged first; the girls cheer only for him.
+[rel:horikita-suzune] (p.116–117) Watches the Horikita–Kushida pair fade; later takes the cavalry jockey seat for the boys.
+[action] (p.118–119, §6.7) Describes Sakayanagi to Ayanokōji — polite, mature, but Class A calls her aggressive and ruthless.
+[says] (p.118) “So, you’re also curious about her, Ayanokouji-kun?”
+[says] (p.118) “She’s very polite, she’s good with people, and she’s mature.”
+[action] (p.123–128, §6.8) Jockeys the strongest D unit; merges with Class A on his plan, twice snags the edge of Ryuuen’s headband, then loses his own.
+[says] (p.124) “I have an idea, if it’s okay with you guys.”
+[says] (p.127) “Sorry. My hand was slippery!”
+[says] (p.127) “Ugh! Sorry, Sudou-kun! Fall back for now!”
+[says] (p.128) “Sorry, Sudou-kun. His headband was so strangely wet, I couldn’t seem to pull it off,”
+[rel:ryuuen-kakeru] (p.127–129) First to feel the wet headband; later tells Ryuuen the leak is known and promises something interesting before the day ends.
+[action] (p.132–133) Blocks Sudou’s charge, is punched to the ground, and covers for him in front of Chabashira.
+[says] (p.132) “I understand what you’re saying, Sudou-kun, but you need to calm down.”
+[says] (p.132) “You know what’ll happen if you get violent with Ryuuen-kun.”
+[says] (p.133) “No, that’s not it, sensei. I just fell down, that’s all.”
+[says] (p.133) “Well, you’d be wrong to think he hit me. Look, I fell, so there shouldn’t be a problem,”
+[rel:chabashira-sae] (p.133) Convinces her to log a preventative report rather than a violence case.
+[action] (p.135, §6.9) Confronts Ryuuen with the stolen participation table and the weak-opponent pattern.
+[says] (p.135) “It looks like the only reason you’ve come in first is because you went up against much weaker people. You’re quite lucky, Ryuuen-kun.”
+[says] (p.135) “You got Class D’s participation table, and you obtained detailed information about all our students’ athletic abilities, too.”
+[says] (p.135) “I just have one thing to say to you.”
+[action] (p.140–142, §6.10) Pulls Ike and Yamauchi into the lunch circle with Karuizawa and Ayanokōji; presses the traitor question and accepts the Horikita-orders story.
+[says] (p.141) “Okay. I won’t hound you.”
+[says] (p.141) “And this is all on Horikita’s orders, right, Ayanokouji-kun?”
+[says] (p.142) “Yeah. We’re relying on Sudou-kun,”
+[trait] (p.115–142) Absorbs the punch without exposing Sudou, keeps Class A cooperation intact, and is the only peer Ryuuen’s taunts cannot rattle into a mistake.
+
+<!-- walk: y1v5 ch6 → p.143 -->

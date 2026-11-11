@@ -70,3 +70,18 @@ char_id: totsuka-yahiko · class: Class 1-A (enrolled April 2015) · status: min
 [rel:katsuragi-kouhei] (p.30) One of the few Class A students counted on Katsuragi’s side of the line.
 
 <!-- walk: y1v5 ch2 → p.38 -->
+
+### y1v5 p.107 — Ch.6 §6: shouting for Katsuragi
+[scene] (p.107) Yahiko, from Katsuragi’s faction, answers Hashimoto’s half by thrusting the rope at a rebel.
+[says] (p.106) “Hurry up and do it!”
+[says] (p.107) “Enough with the shameful behavior!” Yahiko, from Katsuragi’s faction, shouted at Sakayanagi’s faction.
+[rel:katsuragi-kouhei] (p.106–107) Rallies for Katsuragi’s order when half of Class A refuses to move.
+[rel:sakayanagi-arisu] (p.107) Directs the shout at Sakayanagi’s faction across the rope.
+[rel:hashimoto-masayoshi] (p.106–107) Faces Hashimoto’s group as the visible counterweight inside Class A.
+
+### y1v5 p.128 — Ch.6 §6: passing mention
+[scene] (p.128) Named among the Class D jockeys who lose their headbands in the last stand against Ryuuen.
+[rel:ryuuen-kakeru] (p.128) Part of the two-against-one that still cannot strip the treated headband.
+[note] (p.128) No separate dialogue on these pages.
+
+<!-- walk: y1v5 ch6 → p.143 -->

@@ -17,3 +17,19 @@ char_id: komiya-kyogo · class: Class 1-C (enrolled April 2015) · status: minor
 [back] (p.105) The pair who once fought Sudō, recalled as acting on Ryūen's orders rather than looking for a fight.
 
 <!-- walk: y1v3 ch3 → p.130 -->
+
+## y1v5
+
+<!-- walk: y1v5 → start -->
+
+### y1v5 p.100 — Ch.6 §6: passing mention
+[scene] (p.100) Named with Sakazaki as one of the Class C students from the earlier fight with Sudou, assembled for capture the flag.
+[rel:sudou-ken] (p.100) Recalled among those involved in the fight that almost got Sudou expelled.
+[note] (p.100) Sakazaki is named on the same page but has no roster row; only Komiya is ledgered here.
+
+### y1v5 p.120 — Ch.6 §6: passing mention
+[scene] (p.120) Named as one of the three Class D horsemen supporting Horikita’s jockey in the girls’ cavalry.
+[rel:horikita-suzune] (p.120) Horse under her; the unit holds until four enemy horsemen commit to the jockey.
+[note] (p.120) No separate action is shown for him on these pages beyond the formation.
+
+<!-- walk: y1v5 ch6 → p.143 -->

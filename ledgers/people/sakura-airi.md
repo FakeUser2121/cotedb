@@ -644,3 +644,16 @@ aliases used for anchors: sakura, airi, sakura-san
 [note] (p.74) Ayanokōji considers bringing her or Karuizawa to the grounds instead of Kushida, but judges the wrong person for the job.
 
 <!-- walk: y1v5 ch5 → p.85 -->
+
+### y1v5 p.92–99 — Ch.6 §6: not last
+[scene] (p.92) Sakura arrives breathless beside Ayanokōji after the girls’ 100-metre dash, still hurting from the effort.
+[note] (p.92) Sakura arrives panting “Ahh…ahh…! I-It hurts…” — the broken cry is too short for a quote row.
+[says] (p.92) “W-were you watching me, Ayanokouji-kun?” she asked.
+[rel:ayanokouji-kiyotaka] (p.92) He lies by omission and says “You did well,” because he had been chasing Sudou and saw nothing.
+[says] (p.92) “This is the first time I didn’t come in dead last.” She beamed.
+[rel:sudou-ken] (p.92–94) Her race ran while he was chasing Sudou; she never knows the gap.
+[says] (p.94) “You might hurt yourself,” I said.
+[note] (p.94) She replies “O-okay!” — a five-character answer kept as note rather than a quote row.
+[action] (p.94) Always the slowest in practice, she finally beats someone on her own effort, not an opponent’s mistake.
+[action] (p.99) Runs the girls’ hurdles in the same heat as Horikita; zero expectations, trembling at the start.
+[trait] (p.92–99) Gratitude for the smallest kindness; her festival is measured in not finishing last.

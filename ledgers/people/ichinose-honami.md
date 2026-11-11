@@ -676,3 +676,18 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:ayanokouji-kiyotaka] (p.33) Ayanokōji later names her as the kind who might set feelings aside and cooperate with Ryuuen for victory.
 
 <!-- walk: y1v5 ch2 → p.38 -->
+
+### y1v5 p.97–98 — Ch.6 §6: passing mentions
+[scene] (p.97) Ichinose is named as Shibata’s leadership peer as he pulls ahead of Sudou in the hurdles.
+[rel:shibata-sou] (p.97) “like Ichinose, his leadership qualities made others rally around him.”
+[rel:kanzaki-ryuuji] (p.98) Kanzaki carries her read of Ayanokōji into the pre-race talk: “Ichinose says you’re pretty fast,”
+[note] (p.98) Ichinose does not appear on these pages; both rows are other characters’ reports of her.
+
+### y1v5 p.119–123 — Ch.6 §6: fair play under the smile
+[scene] (p.119) Ichinose and Class B are watched enjoying the festival — cheerful and fair while C and A scheme.
+[action] (p.121–123, §6.8) As Class B’s cavalry general she blocks Karuizawa’s rescue of Horikita and holds the collision course until the melee.
+[rel:karuizawa-kei] (p.121–123) Direct fight — unity versus manoeuvrability — that drags on while Class C finishes Horikita.
+[rel:horikita-suzune] (p.120–123) Does not join the four-on-one; Class B still supports its ally team, unlike Class A’s sit-out.
+[trait] (p.119–123) Genuinely enjoying the games while playing them straight — the text’s contrast with Ryuuen’s psychological war.
+
+<!-- walk: y1v5 ch6 → p.143 -->

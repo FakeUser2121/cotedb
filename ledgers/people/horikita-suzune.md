@@ -1788,3 +1788,48 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:sudou-ken] (p.84) Gets the anchor handed back to her once the reason is on the table.
 
 <!-- walk: y1v5 ch5 → p.85 -->
+
+### y1v5 p.87–114 — Ch.6 §6: races, Kōenji, and the fall
+[scene] (p.87) Horikita opens the chapter asking Ayanokōji which 100-metre group he drew, then runs her own races through the day.
+[says] (p.87) “What group are you in for the 100-meter dash, again?” Horikita asked.
+[says] (p.87) “I’ll be cheering you on for the class’s sake.”
+[action] (p.88) Takes first in her 100-metre heat as expected; later wins a tight finish against Ibuki.
+[rel:kouenji-rokusuke] (p.90–95) Had pressed him to participate; after his no-show she admits the outreach was meaningless and lets slip she never hated Kushida.
+[says] (p.95) “I never hated her or anything.” Horikita realized that she’d slipped up, and immediately clamped her mouth shut.
+[says] (p.95) “You didn’t hear that,” she added.
+[rel:horikita-manabu] (p.95–96) Watches her brother take first in the third-year dash and answers Ayanokōji’s comment as simple fact.
+[says] (p.96) “That’s because my brother is perfect.” Horikita answered.
+[action] (p.99) Finishes third in the girls’ hurdles behind Class C’s Yajima and Kinoshita after Hirata’s warning.
+[action] (p.113–114) In the girls’ obstacle course she fights up to second, then tangles with Kinoshita on the final stretch and drops to seventh.
+[rel:sakura-airi] (p.92–94) Shares the day’s stage with Sakura’s races but does not join her conversation with Ayanokōji.
+[says] (p.114) “If I rest, I’ll be okay.”
+[says] (p.114) “Leave me alone.” said Horikita.
+[rel:ayanokouji-kiyotaka] (p.114) Tries to look tough after the fall while he checks her injury; the pride that produced results now has to sit out.
+[trait] (p.114) Takes pride in producing results, so an injury she cannot train through hits harder than the pain.
+
+### y1v5 p.115–138 — Ch.6 §6: injury, cavalry, and the wake-up call
+[scene] (p.115) Horikita sits with her injured leg after the obstacle fall and tells Ayanokōji the collision was no accident.
+[says] (p.115) “That girl’s a sneak.”
+[says] (p.115) “While she was running behind me, she called my name over and over.”
+[rel:kinoshita-minori] (p.115) Names the girl behind her as the one who called her name; later (p.137) allows Kinoshita may have been told to trip her.
+[says] (p.115) “I’ll participate, even if I have to crawl,”
+[action] (p.116–117) Pairs with Kushida in the girls’ three-legged; second early, then last as the stiff leg and an obstructing line do the rest.
+[rel:kushida-kikyou] (p.116–117) The odd pair looks safe to Class D but finishes last; Sudou’s “Go, Suzune!” does not reach them.
+[action] (p.118) Leaves for the nurse’s office for a poultice during the ten-minute break.
+[action] (p.120–123, §6.8) Jockeys Class D in the girls’ cavalry with Ishizaki, Komiya and Kondou as horses; Class C’s four horsemen take her alone and snatch her headband.
+[rel:ibuki-mio] (p.120) Ibuki, also a jockey, issues the order and heads straight for her.
+[rel:ryuuen-kakeru] (p.120–123) Is the sole target of the B/C attack — Ryuuen’s plan to break her, not merely to score.
+[says] (p.123) “That doesn’t change the fact that I lost.”
+[says] (p.123) “I’d expect no less of you,”
+[action] (p.135, §6.9) Stares at her brother from a distance she cannot close while the upperclassmen’s cavalry runs.
+[rel:horikita-manabu] (p.135) Keeps watching the president through the second- and third-year events with no way to approach.
+[rel:ayanokouji-kiyotaka] (p.136–138) Is told she is useless and a burden, then pressed to choose her own ranking or Sudou’s return; the “weapon” speech is the pivot.
+[says] (p.136) “That’s an awful thing to say.”
+[says] (p.137) “Clearly, we have a traitor who leaked our participation table to Ryuuen-kun.”
+[says] (p.137) “I guess he told Kinoshita-san to trip me.”
+[says] (p.137) “On what grounds do you call me useless?”
+[says] (p.137) “How dare you? I’m a highly capable student and athlete.”
+[trait] (p.115–138) Pride and injury together: she will not withdraw, will not accept the crash as luck once pressed, and is finally pushed toward acting for the class rather than only for her rank.
+[action] (p.140, §6.10) Skips lunch and leaves — perhaps for Sudou — after Ayanokōji’s words.
+
+<!-- walk: y1v5 ch6 → p.143 -->

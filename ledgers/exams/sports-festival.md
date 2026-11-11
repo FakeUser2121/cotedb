@@ -40,3 +40,28 @@ exam_id: sports-festival · scope: school event; Red vs White across all grades;
 [scope] (p.44) Class D’s roster fills only about a third of the all-participant spots at the first pass; the rest stay open for later practice.
 
 <!-- walk: y1v5 ch3 → p.53 -->
+
+### y1v5 p.86–114 — Ch.6 §6: the festival runs
+[scene] (p.86) Festival day: opening ceremony, then the thirteen-event schedule begins with the 100-metre dash under a finish-line camera.
+[rule] (p.87) First-year boys form ten groups of eight for the 100-metre dash — two from each class — run at about twenty-second intervals.
+[rule] (p.97) Hurdle penalties: 0.5 seconds for a knocked-down hurdle, 0.3 for a touch; ten hurdles at ten-metre intervals; all down adds five seconds.
+[rule] (p.100) Capture the flag: the group that makes two captures wins; offense may not contact the other side’s offense; blatant punches and kicks are prohibited but a degree of roughhousing is overlooked.
+[rule] (p.105) Tug-of-war and ball toss run as team competitions; the first team to two points wins the tug, same structure as capture the flag.
+[rule] (p.105) Girls’ ball toss result printed: “With fifty-four points total, the Red Team wins.”
+[rule] (p.96) After the 100-metre dash across all grades: Red Team 2011 points, White Team 1891 — Red slightly ahead as the festival opens.
+[rel:sudou-ken] (p.88, 112) Takes first in the 100-metre dash and the boys’ obstacle course — three individual firsts in a row by p.112.
+[rel:kouenji-rokusuke] (p.88–89) Absent from his lane; the school marks the absence without searching — a missing Red Team scorer.
+[rel:sakayanagi-arisu] (p.88–89) Also non-participating, but with a valid reason in the text’s account — two Red Team handicaps against B and C full rosters.
+
+### y1v5 p.115–143 — Ch.6 §6.7–6.10: afternoon rules and the morning’s end
+[scene] (p.115) Second half runs three-legged through cavalry to the lunch break that ends the morning half.
+[rule] (p.115) Three-legged: two people per team, only four teams run at once; races follow one another like a live television program.
+[rule] (p.120) Cavalry: three-minute period; points from enemy units defeated and allied units remaining; four horsemen per unit; each horseman fifty points, each class’s “general” one hundred; a stolen headband scores even if the opponent stands.
+[rule] (p.124) Knocking down a jockey in cavalry counts as a self-KO, not a headband steal — the fifty points vanish.
+[rule] (p.135) Absentees in an event are disqualified and earn no points; the show goes on.
+[rule] (p.140) Morning half ends at the lunch break; the contests will run in reverse order in the second half.
+[rel:sudou-ken] (p.115, 123) Three-legged first and boys’ cavalry spearhead before the punch removes him from the board.
+[rel:ryuuen-kakeru] (p.123, 128, 135) Girls’ cavalry win for B/C, boys’ cavalry win for Class C alone, then first in the 200-metre dash.
+[rel:horikita-suzune] (p.115–123) Third injured student of the day; her rankings fall across every event after the obstacle fall.
+
+<!-- walk: y1v5 ch6 → p.143 -->

@@ -2980,3 +2980,48 @@ walk: y1v1 → DONE
 [rel:horikita-suzune] (p.84) Glosses Horikita’s brother trouble for the group — “Some stuff happened. I guess Horikita and her brother aren’t really on speaking terms.”
 
 <!-- walk: y1v5 ch5 → p.85 -->
+
+### y1v5 p.86–114 — Ch.6 §6: festival day, first events
+[scene] (p.86) Sports festival day opens: Fujimaki’s speech, medical cottage and facing team tents, a camera on the 100-metre finish line; Class D marches in jerseys.
+[says:ike-kanji] (p.86) “All right, time to really show off for Kikyou-chan!” shouted Ike as he walked directly behind me.
+[action] (p.87) Tells Horikita he drew the seventh group for the 100-metre dash; his only aim is not to come in last.
+[action] (p.88–89) Watches Sudou win group one by a landslide and Hirata take first in group seven; he finishes fifth, keeping his pace inconspicuous.
+[action] (p.89–90) Spots Sudou missing from the seat and runs with Hirata toward the cottage as Sudou confronts Kōenji.
+[rel:sakura-airi] (p.92) When Sakura asks if he watched her race, he answers “You did well,” without admitting he had been chasing Sudou.
+[rel:horikita-suzune] (p.95) After the girls’ dash he asks whether she reached out to Kōenji; she lets slip “I never hated her or anything” about Kushida and clamps down.
+[action] (p.98) Holds third in the hurdles and trades talk with Kanzaki, who reports Ichinose’s read of him as calm for a high schooler.
+[rel:yukimura-teruhiko] (p.98–99) Gives Yukimura room after seventh-and-seventh, then turns to the girls’ hurdles.
+[action] (p.100–104) In capture the flag he brings up the rear with Ike and Yukimura while Sudou tears into the defense; after Sudou is dropped he keeps his distance.
+[rel:katsuragi-kouhei] (p.104) Walks back with Hirata and Katsuragi exchanging apologies after the flag falls.
+[rel:ryuuen-kakeru] (p.104) Talks Sudou out of a new scandal, recalling the fight that almost got him expelled, and accepts Class C will call the stomp heat-of-the-moment.
+[action] (p.105–110) Pulls in the D/A tug-of-war under Hirata and Katsuragi; after Ryuuen’s rope-drop he is thrown backward with the rest.
+[action] (p.111–112) Takes third in the obstacle heat to avoid Sudou’s wrath, then watches Sudou edge Shibata for first.
+[rel:hirata-yousuke] (p.114) Leaves Hirata in charge of the group and goes to Horikita after her fall; he judges that another such “accident” would be too much to believe.
+[trait] (p.114) Treats the stacked mishaps as deliberate and takes Hirata’s uneasy agreement as confirmation someone is working the class.
+
+### y1v5 p.115–142 — Ch.6 §6.7–6.10: observation, cavalry, and the plan
+[scene] (p.115) Second half opens mid-conversation with injured Horikita after the obstacle fall; Ayanokōji then runs three-legged, watches the cavalry battles, confronts the leak with Karuizawa, and sends Horikita after Sudou.
+[action] (p.115) Learns Kinoshita called Horikita’s name to force the collision; notes Horikita has thirty points to his twenty-seven.
+[says] (p.115) “I’ll do everything I can.”
+[rel:sudou-ken] (p.115–116) Watches Sudou carry Ike to three-legged first, then pairs with Hirata for their own first place.
+[rel:horikita-suzune] (p.115–117) Sees Horikita and Kushida fade to last in the girls’ three-legged as the leg injury tells; later names the stack of hard matchups as deliberate.
+[action] (p.118–119, §6.7) Stays through the ten-minute break observing Class A’s two-faction split and asks Hirata what kind of student Sakayanagi is.
+[says] (p.118) “Amazing that they’ve gotten this far with such internal discord,”
+[rel:sakayanagi-arisu] (p.118–119) Reads her silence and single focus on Katsuragi as willingness to lose points for his downfall.
+[action] (p.120–129, §6.8) Serves as a right-side horse under Hirata’s jockey in the boys’ cavalry; holds position while Sudou crashes the line and Hirata twice grabs Ryuuen’s headband.
+[rel:ryuuen-kakeru] (p.126–129) Watches the one-on-one bait take Sudou, then the hair-gel trick that makes the stolen headband unprovable.
+[rel:karuizawa-kei] (p.129–132) Explains the leak, the fixed matchups and the Horikita crush to Karuizawa; answers “no intention of winning” with “do nothing.”
+[says] (p.130) “She’s being targeted,”
+[says] (p.131) “Win? I have no intention of winning.”
+[action] (p.132–134) Keeps distance while Sudou punches Hirata and walks off; tells Karuizawa the mess has nothing to do with him.
+[action] (p.135–139, §6.9) Takes third in the 200-metre dash, then delivers the “burden” and “weapon” confrontation that is meant to wake Horikita and send her for Sudou.
+[says] (p.136) “You’re nothing but a burden.”
+[says] (p.137) “How long do you plan to be useless, Horikita?”
+[says] (p.137) “I’m calling you useless because you are useless.”
+[rel:horikita-suzune] (p.136–138) Calls her useless on purpose so she will reclaim Sudou as her asset for Class A’s climb.
+[action] (p.141–142, §6.10) At lunch he lies to Hirata and Karuizawa that the traitor acts on Horikita’s orders; the morning ends with Horikita and Sudou both missing.
+[says] (p.141) “I’ve taken stock of the traitor’s moral fiber,”
+[says] (p.142) “Yeah. Everything is going according to Horikita’s plan.”
+[trait] (p.129–142) Runs a deliberate double game: full analysis for his inner circle, controlled misinformation for the class, and one surgical pressure campaign on Horikita.
+
+<!-- walk: y1v5 ch6 → p.143 -->

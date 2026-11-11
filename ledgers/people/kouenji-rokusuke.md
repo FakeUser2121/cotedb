@@ -248,3 +248,24 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [trait] (p.57) Won’t budge unless he wants to — his skill is obvious, his participation isn’t.
 
 <!-- walk: y1v5 ch4 → p.67 -->
+
+### y1v5 p.88–91 — Ch.6 §6: the cottage refusal
+[scene] (p.88) Kōenji fails to appear in his assigned lane for the third group of the 100-metre dash; the school marks an absence without searching.
+[action] (p.89) Found inside the medical cottage fussing with his hair while Class D and the Red Team lose a competitor.
+[says] (p.90) “You’re quite foul, aren’t you?”
+[says] (p.90) “I came here to enjoy some me time.”
+[rel:sudou-ken] (p.90–91) Catches Sudou’s punch in one palm and waves him off without looking at him.
+[says] (p.90) “You cannot hope to beat me.” Kouenji didn’t even look at Sudou as he spoke.
+[says] (p.91) “Both you and that girl seem to consider me unreliable,”
+[rel:horikita-suzune] (p.90–91) Names that cold girl — the one inflaming Sudou’s passion — as Horikita, who keeps pushing him to participate; the printed sentence runs across the p.90–91 break and is not quoted whole.
+[says] (p.91) “In any case, leave now.” said Kouenji, waving us away.
+[says] (p.91) “My proud carriage serves to disguise how poor my health is,”
+[says] (p.91) “If I recover, I will of course participate.” replied Kouenji.
+[rel:hirata-yousuke] (p.91) Is lectured on violence and leader-absence by Hirata, then escorted out of the way as Sudou is walked back.
+[trait] (p.89–91) Illness is openly a pose; he cooperated only through the opening ceremonies and bows out when it counts.
+
+### y1v5 p.134 — Ch.6 §6: still absent
+[scene] (p.134) With Sudou gone, the page notes Kōenji was already absent — Class D’s two strongest both off the board.
+[note] (p.134) No new Kōenji action in the second half; the morning ends on his continued absence.
+
+<!-- walk: y1v5 ch6 → p.143 -->

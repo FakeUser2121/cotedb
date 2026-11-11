@@ -12,3 +12,14 @@ char_id: kondou-reo · class: Class 1-C (enrolled April 2015) · status: minor
 [back] (p.105) One of the two who fought Sudō; Ayanokōji recalls them as “acting on orders from Ryuuen, rather than just looking for a fight.”
 
 <!-- walk: y1v3 ch3 → p.130 -->
+
+## y1v5
+
+<!-- walk: y1v5 → start -->
+
+### y1v5 p.120 — Ch.6 §6: passing mention
+[scene] (p.120) Named as one of the three Class D horsemen supporting Horikita’s jockey in the girls’ cavalry.
+[rel:horikita-suzune] (p.120) Horse under her; the unit is named as not bad before the sole-target attack.
+[note] (p.120) No separate action is shown for him on these pages beyond the formation.
+
+<!-- walk: y1v5 ch6 → p.143 -->

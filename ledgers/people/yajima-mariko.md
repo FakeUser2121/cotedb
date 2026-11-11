@@ -1,0 +1,22 @@
+# Yajima Mariko — walk ledger
+
+char_id: yajima-mariko · class: Class 1-C (enrolled April 2015) · status: minor
+
+## y1v5
+
+<!-- walk: y1v5 → start -->
+
+### y1v5 p.99–114 — Ch.6 §6: Class C’s track pair
+[scene] (p.99) Hirata names Yajima and Kinoshita as Class C’s fastest — both from the track and field club — in Horikita’s hurdles group.
+[says:hirata-yousuke] (p.99) “Class C’s fastest students are Yajima-san and Kinoshita-san from the track and field club.”
+[action] (p.99) Beats Horikita for third in the girls’ hurdles — the pair gets ahead of her.
+[action] (p.113) In the girls’ obstacle course she leads early; Kinoshita dashes to the balance beam first and Yajima sits second.
+[rel:horikita-suzune] (p.99, 113–114) One of the two who keep Horikita off the podium in both races; the obstacle fall drops the whole group.
+[trait] (p.99) Specialized speed that Horikita, all-round, cannot match in a pure race.
+
+### y1v5 p.116 — Ch.6 §6: passing mention
+[scene] (p.116) Named in the Class C team that takes second in the first-year girls’ three-legged race.
+[rel:horikita-suzune] (p.116) Part of the pair that finishes ahead of Horikita and Kushida in that heat.
+[note] (p.116) No separate action beyond the team result on these pages.
+
+<!-- walk: y1v5 ch6 → p.143 -->

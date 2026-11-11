@@ -487,3 +487,11 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [rel:ayanokouji-kiyotaka] (p.73) Presses the girlfriend question: “You don’t have a girlfriend, do you?”
 
 <!-- walk: y1v5 ch5 → p.85 -->
+
+### y1v5 p.140–141 — Ch.6 §6: lunch detail
+[scene] (p.140) Yamauchi loses rock-paper-scissors and is sent to fetch the group’s lunches.
+[says] (p.140) “Man, I’m starving. I’m gonna inhale this!”
+[action] (p.140) Shows no interest in Sudou’s whereabouts — same as Ike; the three have known each other since day one.
+[rel:ike-kanji] (p.140–141) Paired for lunch duty; both accept Hirata’s invitation to eat with the larger group.
+
+<!-- walk: y1v5 ch6 → p.143 -->

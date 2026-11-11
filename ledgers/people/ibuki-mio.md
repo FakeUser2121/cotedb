@@ -356,3 +356,19 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:horikita-suzune] (p.13) Her place in the roster is the exhibit for the zodiac VIP rule.
 
 <!-- walk: y1v5 ch2 → p.38 -->
+
+### y1v5 p.94–95 — Ch.6 §6: the rivalry heat
+[scene] (p.94) Ibuki draws the same 100-metre group as Horikita — her most bitter rival — and burns to beat her.
+[action] (p.94) Starts better than Horikita, stays neck and neck, then loses by a narrow margin at the tape.
+[rel:horikita-suzune] (p.94–95) Hyperawareness of Horikita costs her the win; had she not watched her, the result might have differed.
+[says] (p.95) “Ibuki was faster than I expected,” said Horikita.
+[action] (p.94) Kicks the ground in frustration after the loss.
+[trait] (p.94) Determined never to lose to Horikita, no matter the event — fire in her eyes from the line.
+
+### y1v5 p.120 — Ch.6 §6: the order on Horikita
+[scene] (p.120) Ibuki rides as a Class B/C jockey in the girls’ cavalry and singles out Horikita.
+[action] (p.120) Issues an order and heads straight for Horikita — first of the four horsemen to commit.
+[rel:horikita-suzune] (p.120) Personal rivalry continues off the track: she is out for blood against the same girl she lost to in the dash.
+[rel:ryuuen-kakeru] (p.120) Her charge fits Ryuuen’s plan even if the text does not say she was ordered by name for this moment.
+
+<!-- walk: y1v5 ch6 → p.143 -->

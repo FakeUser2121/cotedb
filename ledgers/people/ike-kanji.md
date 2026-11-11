@@ -573,3 +573,40 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:sudou-ken] (p.72–73) The noodle-room trio with Sudou and Yamauchi through the morning.
 
 <!-- walk: y1v5 ch5 → p.85 -->
+
+### y1v5 p.86–114 — Ch.6 §6: loud from the sidelines
+[scene] (p.86) Ike walks behind Ayanokōji into the festival already vowing to show off for Kushida.
+[says] (p.86) “All right, time to really show off for Kikyou-chan!” shouted Ike as he walked directly behind me.
+[says] (p.87) “Sudou’s got first place covered!”
+[says] (p.88) “Oh, Baldy’s—I mean, Katsuragi’s—in the first lane,” said Ike, pointing at Katsuragi’s head.
+[says] (p.89) “Dude, we’ve got more important things to look at.”
+[rel:sudou-ken] (p.91) Gets put in a headlock as Sudou’s stress relief and taps out.
+[says] (p.91) “I give, I give!” shouted Ike.
+[action] (p.101–102) In capture the flag he hangs at the rear with Ayanokōji and Yukimura, muttering he does not want Sudou to kill him for skipping.
+[says] (p.102) “That one half-Japanese guy, Yamada or whatever, he’s going on a rampage!”
+[says] (p.102) “It’s just, like, those guys are really strong, you know?”
+[says] (p.102) “Better keep my distance,” Ike muttered.
+[action] (p.107–108) In the tug-of-war he doubts the line-up and panics when the second round turns.
+[says] (p.108) “Look, they ain’t even lining up by height, like we are,” said Ike.
+[action] (p.111) Finishes sixth in the obstacle heat and dreads Sudou’s reaction before Sudou’s own race.
+[says] (p.111) “Man, I ran my heart out, and I still only got sixth place!”
+[says] (p.111) “What place did you get, Ayanokouji?” Ike demanded.
+[says] (p.111) “Will you get Sudou’s death penalty?”
+[says] (p.112) “We’re practically equal!” blubbered Ike.
+[trait] (p.86–114) All bark and no bite by Ayanokōji’s account; his festival voice is crude cheer and panic in equal measure.
+
+### y1v5 p.115–141 — Ch.6 §6: carried, then lunch
+[scene] (p.115) Ike is Sudou’s three-legged partner and spends the race being practically dragged to first.
+[note] (p.115) Ike cried in agony during the forced carry to first.
+[action] (p.115–116) Nabbed first place by Sudou’s forced carry; watches the girls’ three-legged from the side.
+[rel:sudou-ken] (p.115–116) Body as ballast for Sudou’s strength; later cowers with the others when Sudou’s temper peaks.
+[action] (p.120, §6.8) Shouts at the girls’ cavalry as Class C zeroes in on Horikita.
+[says] (p.120) “H-hey, what the hell?”
+[says] (p.121) “They’re just going after Horikita, aren’t they, dude?!”
+[says] (p.121) “Dude, this is an awesome game!”
+[action] (p.140, §6.10) Loses rock-paper-scissors for lunch duty with Yamauchi and shows no interest in finding Sudou.
+[says] (p.140) “Gah! God, I’m so tired! Why do I gotta suffer through this, dude?!”
+[note] (p.140) He and Yamauchi have known Sudou since day one and will not chase him; most girls who saw the punch have dropped any goodwill.
+[rel:yamauchi-haruki] (p.140–141) Paired for the lunch run; joins Hirata’s ten-person eating group without caring about Sudou.
+
+<!-- walk: y1v5 ch6 → p.143 -->

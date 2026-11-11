@@ -141,3 +141,12 @@ char_id: sotomura-hideo · class: Class 1-D (enrolled April 2015) · status: min
 [trait] (p.57) opts out of the physical tests while roughly 90 percent of the class takes part.
 
 <!-- walk: y1v5 ch4 → p.67 -->
+
+### y1v5 p.97–98 — Ch.6 §6: the Professor bows out
+[scene] (p.97) The referee calls for Sotomura before the hurdle race; he tries to take an absence for an upset stomach.
+[says] (p.97) “Would it be permissible for me to take an absence?”
+[rel:sudou-ken] (p.97) Sudou glares him into running — knocking every hurdle is better than disqualification.
+[says] (p.97) “Finish the race at any cost!” shouted Sudou.
+[note] (p.97) The Professor answers “Egad! O-okay, I will!” — too short for a quote row.
+[action] (p.98) Clears no hurdles, knocks them all over, finishes last; Sudou still credits Shibata’s first.
+[trait] (p.97–98) Chickens out of what he barely cleared in practice — the Professor’s body betrays the name.

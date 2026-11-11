@@ -91,3 +91,10 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.72–73) The two boys deliver nothing actionable — Ayanokōji’s question goes nowhere.
 
 <!-- walk: y1v5 ch5 → p.85 -->
+
+### y1v5 p.106–107 — Ch.6 §6: the thin smile
+[scene] (p.106) Sakayanagi watches from the Class A camp while Hashimoto’s half openly challenges Katsuragi’s tug-of-war orders.
+[inference] (p.106) Ayanokōji reads her thin smile as proof she instigated the rebellion — a bid to crush Katsuragi, her opposition inside Class A.
+[rel:katsuragi-kouhei] (p.106–107) Her faction’s timing is too strange to be coincidence; Katsuragi names her fault if the coalition loses to the bickering.
+[rel:hashimoto-masayoshi] (p.106–107) Hashimoto’s public doubt of Katsuragi’s strategy is read as her handiwork; she does not need to appear on the rope.
+[trait] (p.106) Unsettling in a different way than Ryuuen — no brawl, only a smile and the perfectly timed question.
