@@ -1485,3 +1485,13 @@ headings; two new ledgers created for Nishino and Oda). Quote hygiene:
 262 [says] spans (none too short) and 50 non-says spans, corpus-exact;
 R18/R19 held at 0/82. Determinism hash across consecutive builds:
 `012e79edde139ed439624bcf98b43625`.
+
+Year 1 Volume 6 chapter 5 is fifty-six pages across exam teaming,
+library sessions and the Kushida wager, written in two halves with
+stamps only on the last file batch. Twenty-nine people ledgers gain
+blocks (three new ledgers created for Hasebe, Ichihashi and Okiya);
+Horikita Manabu named as the mathematics-bet witness pp.120–122.
+Quote hygiene: 651 [says] spans (none too short) and 64 non-says spans,
+corpus-exact; volume prose that said “ledger” was reworded before
+ship and R18 returned to 0. Determinism hash across consecutive
+builds: `2f738b9aaacb24c55f04f37f4b9178de`.

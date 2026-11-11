@@ -25,3 +25,14 @@ char_id: onodera · class: Class 1-D · status: minor
 [feat] (p.184) Fast for a girl, but the senior boys close and pass; the lead is almost gone by Maezono.
 
 <!-- walk: y1v5 ch9 → p.204 -->
+
+## y1v6
+
+<!-- walk: y1v6 → start -->
+
+### y1v6 p.77 — Ch.5: distant after the three-legged race
+[scene] (p.77) Speaks up for Horikita after the sports-festival apology; a little distant since their three-legged partnership.
+[rel:horikita-suzune] (p.77) Asks her not to bow to the class.
+[says:onodera] (p.77) “B-but it’s not like it’s only your fault we lost, Horikita-san. Please, don’t bow to us. You don’t have to,”
+[rel:horikita-suzune] (p.77) Backs Horikita when Sudou piles on Yamauchi and the Professor.
+[note] (p.77) Text prints only the surname Onodera; no given name on these pages.

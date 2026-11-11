@@ -274,3 +274,55 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [rel:ryuuen-kakeru] (p.74) the facts state that only Yukimura or Ayanokouji could have taken that picture — then both possibly pawns.
 [note] (p.74) Yukimura does not appear in person on these pages.
 <!-- walk: y1v6 ch4 → p.75 -->
+
+### y1v6 p.87–103 — Ch.5 §5.3–5.5: the cavalry who tutors
+[scene] (p.87) Inserts himself into the Horikita–Hirata–Ayanokōji talk and offers to tutor Miyake and Hasebe.
+[says:yukimura-teruhiko] (p.87) “In that case, I’ll take care of tutoring them,”
+[says:yukimura-teruhiko] (p.87) “If I don’t help out where I can, we won’t be able to pass the test,”
+[says:yukimura-teruhiko] (p.87) “Same goes for you, Horikita. You can’t do everything yourself. There’s just one problem. I can teach Miyake and Hasebe how to study, but I’m not friendly with them. After seeing what happened here earlier, I get the feeling that talking to them will be tricky. I was hoping you could do the work of convincing them to study with me.”
+[rel:horikita-suzune] (p.87–88) Horikita overjoyed; she promises to convince the pair for him.
+[rel:miyake-akito] (p.89–103) Leads the Pallet session; marks their sheets; sets a ten-question timed drill; plans seven or eight meetings before the final.
+[rel:hasebe-haruka] (p.89–103) Presses Hasebe’s abrupt exit, then works her into the same drill; accepts her decision to stay.
+[says:yukimura-teruhiko] (p.89) “Why would she need to?”
+[says:yukimura-teruhiko] (p.89) “So, you hate being seen talking to us?”
+[says:yukimura-teruhiko] (p.93) “Excuse me? I’d like to say something before we begin,”
+[says:yukimura-teruhiko] (p.93) “No hiding anything, Ayanokouji.”
+[says:yukimura-teruhiko] (p.93) “Studying. Horikita says you’re quite capable.”
+[says:yukimura-teruhiko] (p.93) “Are you the type to hide his abilities?”
+[says:yukimura-teruhiko] (p.93) “You should take this study group seriously, then. With me tutoring you, you’ll definitely score higher than you did on the midterm.”
+[says:yukimura-teruhiko] (p.93) “Did you bring your answer sheets from the midterm and first semester exams like I asked?”
+[says:yukimura-teruhiko] (p.93) “Both of you excel in the sciences. Your humanities scores are a complete disaster,”
+[says:yukimura-teruhiko] (p.94) “I didn’t know you two were so close,”
+[says:yukimura-teruhiko] (p.94) “So, why did you agree to join us?”
+[rel:hasebe-haruka] (p.95) Writing on their papers while Class C roars at the café counter; unmoved by Ishizaki’s scene.
+[says:yukimura-teruhiko] (p.95) “Who knows? Doesn’t have anything to do with us,”
+[rel:ayanokouji-kiyotaka] (p.96–97) Open about his own tutoring failure in junior high; why he finally helps; the sports festival and “selfish mother” line of thought.
+[says:yukimura-teruhiko] (p.96) “I’ve never really taught someone else how to study before. I mean, a long time ago, I taught this one junior-high idiot to pull an all-nighter, but I couldn’t stand it. I wasn’t able to concentrate on the material, because he didn’t have the fundamentals down,”
+[says:yukimura-teruhiko] (p.96) “Even now, I can’t forget the time I wasted. I thought it was so stupid, trying to teach people how to study. When you and Horikita rounded up those guys who were about to fail, and held those study sessions, honestly, I was laughing at you. The same goes for Hirata’s group. I mean, doesn’t it seem like a waste? Nearly everyone who hates studying just can’t study in the first place. I felt like teaching them to cram for a couple days was useless, since they’d just go back to how they were before.”
+[says:yukimura-teruhiko] (p.96) “I was useless in the sports festival. I got tripped up by the thing I dismissed as unimportant. Just being able to study isn’t enough for this”
+[says:yukimura-teruhiko] (p.97) “school. Just being athletic isn’t enough. If you combine those two things, that still isn’t enough. Even people like Horikita and Hirata, who are gifted both academically and athletically, definitely can’t make it through the challenges ahead with just those skills alone. Intuition, insight, and taste. We have to rely on those traits, which are essential for living in society. Working as a team is vital. That’s the only way we win,”
+[says:yukimura-teruhiko] (p.97) “So, I decided to help. Also, I was self-centered. I thought I’d be fine as long as I could study. All I worried about was myself. I was just like my selfish mother. That’s why I took a good hard look at myself, and… Ah, that’s not important. Forget it.”
+[says:yukimura-teruhiko] (p.97) “If I had to tutor Ike and the other guys, I’d probably have a much worse time of it. Miyake and Hasebe both take their studies seriously, so it might be easy. Besides, they’re already good at science. It shouldn’t be too hard to cover the rest. I don’t know much I’ll be able to help, but we’ll probably see at least some improvement.”
+[rel:kaneda-satoru] (p.101) Predicts Kaneda will write Class C’s questions — the best student in Class C.
+[note] (p.101) Utterance fragment recorded as narrative: Yeah,
+[says:yukimura-teruhiko] (p.101) “Well, the questions might seem impossible for us to imagine right now, but what if we identify the people coming up with them? Personally, I think Kaneda will do it.”
+[says:yukimura-teruhiko] (p.101) “I don’t know if I’d put it like that, but yeah. He’s the best student in Class C,”
+[rel:ishizaki-daichi] (p.101) Rejects Ryuuen or Ishizaki as question-writers — no subject mastery, no tricky questions.
+[says:yukimura-teruhiko] (p.101) “No way. Without a thorough understanding of the subject, they won’t be able to come up with anything. Take you two, for example. Think about subjects you’re poor at, like the humanities. Do you really think you’d be able to create a tricky question?”
+[says:yukimura-teruhiko] (p.101) “Yeah. Besides, what kind of social studies problems would even be on the test?”
+[says:yukimura-teruhiko] (p.101) “Exactly. At best, you’d think of the most obvious problems. Even if you scoured the textbook for the really difficult parts, if you didn’t establish the problem properly, the school would probably turn it down,”
+[rel:ayanokouji-kiyotaka] (p.102) Accepts the extreme-question probe idea; needs Horikita and Hirata’s help through Ayanokōji.
+[note] (p.102) Short utterance: True,
+[says:yukimura-teruhiko] (p.102) “We’ll probably need to come up with provisional questions as soon as possible so we can identify the school’s standards. I’ll try to create questions myself, but would Horikita and Hirata be willing to help out?”
+[says:yukimura-teruhiko] (p.102) “You’re the only person who can get in touch with them, Ayanokouji,”
+[note] (p.102) Utterance fragment recorded as narrative: Yeah. Okay.
+[says:yukimura-teruhiko] (p.102) “Well, I’m not in any clubs, so I’m good. Let’s decide when to meet based on what works for Miyacchi.”
+[says:yukimura-teruhiko] (p.102) “I thought you were going to back out, Hasebe. This is unusual. You don’t normally want to get involved in anything.”
+[says:yukimura-teruhiko] (p.102) “Well, I suppose this is enough for today. The first study session is the day after tomorrow.”
+[rel:sakura-airi] (p.102) Notes Sakura still has not come over when they leave.
+
+### y1v6 p.104–105 — Ch.5: named in the management lecture
+[scene] (p.104) Named as not yet accustomed to tutoring while Horikita lists the session problems.
+[rel:horikita-suzune] (p.104–105) His, Horikita’s and Hirata’s questions form the fundamental basis; more helpers raise leak risk.
+[note] (p.104–105) No dialogue from Yukimura on these pages; present only in the dorm-call analysis.
+<!-- walk: y1v6 ch5 → p.131 -->

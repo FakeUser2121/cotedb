@@ -531,3 +531,21 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [rel:ike-kanji] (p.31) Named in the low-score climb after Yamauchi.
 
 <!-- walk: y1v6 ch3 → p.59 -->
+
+### y1v6 p.77–83 — Ch.5 §5: confused by the score targets
+[scene] (p.77) Named with the Professor as not much help in the festival by Sudou’s account.
+[rel:sudou-ken] (p.77) Vexed glare at Sudou’s jab.
+[rel:horikita-suzune] (p.78) Asks what the bottom-ten plan means for him.
+[says:yamauchi-haruki] (p.78) “Um, I don’t really get it. What are we supposed to do?”
+[rel:chabashira-sae] (p.80) Dark circles before tests; Chabashira’s quiz-day tease.
+[rel:hirata-yousuke] (p.83) Paired with Hirata on the short quiz.
+[note] (p.77) Called Haruki by Sudou; Yamauchi Haruki on the pairing list.
+
+### y1v6 p.104, 108–112 — Ch.5: library trouble alongside Ike
+[scene] (p.104) Named with Ike as especially problematic for the study sessions.
+[rel:horikita-suzune] (p.104) Called out in the management lecture.
+[rel:ike-kanji] (p.108–112) Jumped at Class B girls; raced out of the library with Ike after the session.
+[rel:horikita-suzune] (p.109) Horikita’s “Ike-kun, I warned you” covers the pair’s sudden excitement.
+[note] (p.112) Aw, I’m beat!
+[note] (p.112) Narration groups Ike and Yamauchi as the two who could not concentrate in normal hours.
+<!-- walk: y1v6 ch5 → p.131 -->

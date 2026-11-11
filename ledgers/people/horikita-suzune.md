@@ -2206,3 +2206,163 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ayanokouji-kiyotaka] (p.73–74) Class C’s model: Ayanokouji always with Horikita-shi — used to raise his suspicion, then to argue he would never let her be hurt if he were mastermind.
 [note] (p.74) Suzune does not appear in person on these pages.
 <!-- walk: y1v6 ch4 → p.75 -->
+
+### y1v6 p.76–88 — Ch.5 §5.0–5.2: apology, pairing strategy, study plan
+[scene] (p.76) Called up by Hirata at homeroom; bows a public apology for the sports festival before turning to the short quiz.
+[says:horikita-suzune] (p.76) “First, there’s something I’d like to say. Please allow me to apologize.”
+[says:horikita-suzune] (p.76) “My performance during the sports festival was disappointing. Though I act tough in front of you all, in the end, I didn’t do anything for Class D. For that, I apologize.”
+[rel:sudou-ken] (p.77) Her look to Sudou implies the one gain is becoming his ally; he smiles quietly.
+[says:horikita-suzune] (p.77) “Regardless of whether you win or lose, a humble attitude makes it easier to move on. But that’s not what I’m talking about here. I contributed almost nothing to any area of the festival,”
+[says:horikita-suzune] (p.77) “But now, I’m finished apologizing. Next, I’d like to use my energy to take on the upcoming short quiz. Unless we all come together as a class, we won’t get through this challenge.”
+[rel:hirata-yousuke] (p.77–78) Hirata writes the pairing rules on the blackboard as her support — a partnership she never took up until now.
+[says:horikita-suzune] (p.78) “It’s fairly obvious. However, remember this: though students who earn lower grades will almost automatically partner with students with higher grades, there are always exceptions. I’m going to explain a strategy that we can use to end up with reliable, appropriate pairs,”
+[says:horikita-suzune] (p.78) “I’d like to have the students who worry about their grades partner up with high scorers. However, looking at our grades so far, the truth of the matter is that we can’t cover everyone,”
+[rel:yamauchi-haruki] (p.78) Explains the bottom-ten / mid-band / top-ten score targets to Yamauchi’s confusion.
+[says:horikita-suzune] (p.78) “It’s okay for the ten lowest-scoring students, whose names are written here, to simply score zero points on this test. Since your final grades won’t reflect your scores, that’ll do you no harm. Conversely, the ten highest-scoring students should definitely try to score eighty-five points or above. Similarly, we’ll divide the remaining twenty students in the class into two groups of ten. The higher-scoring of those two groups should aim to score a maximum of eighty points, while the lower-scoring group only needs to score one point. By doing things this way, we automatically achieve a good balance in our pairings,”
+[rel:kouenji-rokusuke] (p.79) Presses him not to score a zero and break the balance; his “I will consider the matter carefully, girl” ends the exchange.
+[says:horikita-suzune] (p.79) “Do you have any objections, Kouenji-kun?”
+[says:horikita-suzune] (p.79) “Then would it be appropriate for me to expect you to score eighty points or higher?”
+[says:horikita-suzune] (p.79) “If you intentionally scored a zero, and got matched with one of the higher-scoring students, you’d destroy the balance we’re trying to achieve. Do you understand that?”
+[rel:chabashira-sae] (p.80–81) Nomination of Class C confirmed; Chabashira’s anxiety-stirring remarks are answered with calm.
+[says:horikita-suzune] (p.80) “That’s an ideal match-up,”
+[says:horikita-suzune] (p.81) “Don’t get flustered. There are no problems with our plan,”
+[says:horikita-suzune] (p.81) “Not at all. I’m confident that I’m right,”
+[rel:sudou-ken] (p.81–85) Keeps Sudou steady; lunch plan makes him promise effort for the second study group.
+[says:horikita-suzune] (p.84) “No matter who’s teaching, it’ll bother me if you don’t try. Okay?”
+[says:horikita-suzune] (p.85) “Your efforts reflect on me,”
+[says:horikita-suzune] (p.85) “I’d appreciate it if you understand that. Besides, I’ll try to make appearances at the evening sessions as often as I can.”
+[rel:hirata-yousuke] (p.84) Two daily two-hour study sessions; Hirata takes the second after club activities.
+[says:horikita-suzune] (p.84) “I’ll hold study groups until the final exam to raise our class’s average scores,”
+[says:horikita-suzune] (p.84) “If Hirata-kun and Kushida-san agree, I’d like to hold two study sessions per day. There will be a two-hour session beginning at 4 p.m., right after classes end, until 6 p.m. The other two-hour session will be held from 8 p.m. to 10 p.m. We’ll each lead a session in turn. I’ll be counting on you, Hirata-kun,”
+[rel:miyake-akito] (p.85–87) Asked to take Miyake and Hasebe as one-on-one cases when group tutoring will not cover their identical weaknesses.
+[says:horikita-suzune] (p.86) “Kushida-san, could I ask you to take on additional students? These two should have a pretty strong foundation that won’t bring down the group’s overall cohesion,”
+[says:horikita-suzune] (p.86) “But if you take the final exam as is, even if you clear the overall score requirement, you might score under sixty points somewhere,”
+[says:horikita-suzune] (p.87) “I don’t mind. Well, even if it’s just you, would you mind studying with Kushida-san?”
+[rel:hasebe-haruka] (p.86–87) Hasebe walks out of the offer; Horikita cannot force study.
+[says:horikita-suzune] (p.87) “Yeah. If only we had another tutor,”
+[says:horikita-suzune] (p.87) “I’ll see if I can make time,”
+[says:horikita-suzune] (p.87) “But what other choice do I have?”
+[rel:yukimura-teruhiko] (p.87–88) Yukimura volunteers to tutor; Horikita is overjoyed and promises to convince the pair.
+[says:horikita-suzune] (p.88) “I’ll think of something,”
+[rel:ayanokouji-kiyotaka] (p.88) Asks him to manage Yukimura’s group as middleman — cruise-ship roommate as icebreaker.
+[says:horikita-suzune] (p.88) “Hey, Ayanokouji-kun. Would you manage Yukimura-kun and the others?”
+[says:horikita-suzune] (p.88) “You were Yukimura-kun’s roommate on the cruise ship, so I thought you might have broken the ice with him. Miyake-kun and Hasebe-san could be difficult, but with you as the middleman, I think it’ll be easier for us to communicate with them,”
+[says:horikita-suzune] (p.88) “All you need to do is help corral them into studying with Yukimura. I didn’t say I wanted you to teach them.”
+[says:horikita-suzune] (p.88) “Can I count on you?”
+
+### y1v6 p.104–130 — Ch.5 §5.5–5.9: management, mediation, the mathematics bet
+[scene] (p.104) Dorm call continues: too many needing tutoring, not enough teachers; Ayanokōji conscripted to watch the sessions.
+[says:horikita-suzune] (p.104) “Too many people need tutoring, compared to the number who can teach. I can’t keep my eye on everyone, no matter how hard I try. I’d like you to make sure everybody studies properly,”
+[says:horikita-suzune] (p.104) “At the risk of sounding self-aggrandizing, it’s not as though even our teachers can watch everyone by themselves. That’s why you have some students, like Ike-kun, who fall behind. Even if they fool the teacher into thinking they understood, in the end, they struggle to keep up,”
+[says:horikita-suzune] (p.104) “Yukimura-kun isn’t accustomed to tutoring, and I’m having trouble with the sheer number of people I have to teach. Ike-kun and Yamauchi-kun are especially problematic. They have shorter attention spans than a kindergartener. Any objections?”
+[rel:ike-kanji] (p.104) Named with Yamauchi as the attention-span problem.
+[rel:yukimura-teruhiko] (p.104) Not yet accustomed to tutoring.
+[rel:sudou-ken] (p.104) Sudou is not among the trouble; taking it seriously, still short of junior-high level.
+[says:horikita-suzune] (p.104) “Yes. He’s taking this seriously, though he still hasn’t reached junior high level yet.”
+[rel:kushida-kikyou] (p.104–105) Promised daily study sessions; still trusted for attendance, not for questions.
+[says:horikita-suzune] (p.105) “Of course not. I do think that she’ll help. She also promised to attend the study sessions every day,”
+[says:horikita-suzune] (p.105) “Of course I have. Mine, Hirata-kun’s, and Yukimura-kun’s will form the fundamental basis. I wanted more people to help, but the more classmates I involve, the greater the risk that the problems will leak to Class C,”
+[says:horikita-suzune] (p.105) “Yes, but as long as we don’t ask for her help with the test questions, it should be okay.”
+[says:horikita-suzune] (p.105) “I’ll keep things locked down. But that alone won’t solve the issue, will it?”
+[rel:chabashira-sae] (p.105) Final questions and answers would go to Chabashira the day before the test — the leak window.
+[rel:kushida-kikyou] (p.105–106) Sports-festival participation-table pattern; Ryuuen may ask again; only talking it out with Kushida remains.
+[says:horikita-suzune] (p.106) “So, the only way we can deal with this is by talking it out with Kushida,”
+[says:horikita-suzune] (p.106) “I don’t want to think about it,”
+[says:horikita-suzune] (p.106) “I see what you’re saying. But I’m dealing with it. It’s already past ten o’clock. I’d like to come up with at least one more question before I go to bed.”
+[rel:satou-maya] (p.107–111) Library partner dynamics; drawled invitation for Ayanokōji to take care of Satou-san.
+[says:horikita-suzune] (p.108) “The library’s a pretty normal place to study, actually,”
+[says:horikita-suzune] (p.108) “Okay, you guys,”
+[says:horikita-suzune] (p.108) “No commotion tonight, okay? Next time you make a scene, there’s a chance they’ll kick you out of the library.”
+[says:horikita-suzune] (p.108) “If it’s the thing you’re concerned about, Ayanokouji-kun, don’t worry. I’m already dealing with it.”
+[rel:ike-kanji] (p.108–111) Grabs Ike’s arm; scolds him for staring at Class B girls instead of studying.
+[says:horikita-suzune] (p.109) “Ike-kun, I warned you, didn’t I?”
+[says:horikita-suzune] (p.109) “Sorry to keep you waiting,”
+[says:horikita-suzune] (p.109) “I met with Ichinose-san yesterday and suggested we form a joint study group. Since we aren’t competing against Class B in this exam, I thought we could help each other,”
+[rel:ichinose-honami] (p.109–116) Joint study group arranged the day before; corner talk on friendship; mediator pitch rejected by both.
+[says:horikita-suzune] (p.110) “But this is a good opportunity, isn’t it? You’re partners, after all. Why don’t you take care of Satou-san, Ayanokouji-kun?”
+[says:horikita-suzune] (p.111) “Ike, why don’t you study, rather than concentrate on things you don’t understand?”
+[says:horikita-suzune] (p.112) “Today’s not the end. We have another session tomorrow,”
+[says:horikita-suzune] (p.112) “Yeah, but they’re lively about all the wrong things. To be honest, I envy Class B,”
+[says:horikita-suzune] (p.112) “Ichinose-san, can I ask you a few questions?”
+[says:horikita-suzune] (p.112) “I’d prefer it if this was just between you and me. It’ll only take a few minutes,”
+[says:horikita-suzune] (p.113) “It doesn’t matter either way,”
+[says:horikita-suzune] (p.113) “Ichinose-san, if a friend or an ally were in trouble, you’d help them. Right?”
+[says:horikita-suzune] (p.113) “Mm-hmm. And it’s very kind of Class B to help us with these study sessions. So, if someone reached out to you for help, you’d offer them a hand. Right, Ichinose-san?”
+[says:horikita-suzune] (p.113) “Then, do you have clear criteria for determining who is and isn’t your friend?”
+[says:horikita-suzune] (p.113) “Well, would you be unconditionally willing to help someone, as long as they were from Class B? Even if that student didn’t contribute much to the class?”
+[says:horikita-suzune] (p.113) “Maybe this is a silly question, after all,”
+[says:horikita-suzune] (p.113) “Well, let me ask you another silly question. Let’s suppose someone in Class B hated you. Would you be able to like that person? Or would you end up hating them in return?”
+[says:horikita-suzune] (p.114) “And if that person were in trouble, what would you do?”
+[says:horikita-suzune] (p.114) “Class B seems extremely important to you,”
+[says:horikita-suzune] (p.114) “Well…home is where you make it, I suppose. Class D isn’t too bad,”
+[says:horikita-suzune] (p.114) “What, Ayanokouji-kun? Have something to add?”
+[says:horikita-suzune] (p.115) “In that case…what would you do if Kanzaki-kun and I had the same problem?”
+[rel:kanzaki-ryuuji] (p.115) Named as the other half of Ichinose’s impossible-choice test.
+[says:horikita-suzune] (p.115) “I don’t believe purely good people exist. Humans are crafty animals who want their virtues rewarded,”
+[says:horikita-suzune] (p.115) “But after hearing what you said… Maybe there really are good people in this world.”
+[says:horikita-suzune] (p.115) “Well, I at least think you’re a better person than anyone I’ve ever met,”
+[says:horikita-suzune] (p.115) “I’m sorry. Perhaps I went a little overboard. I didn’t mean to make you uncomfortable.”
+[says:horikita-suzune] (p.115) “Thank you for answering my silly questions,”
+[says:horikita-suzune] (p.115) “Let’s head back,”
+[says:horikita-suzune] (p.115) “I still have things to do.”
+[rel:kushida-kikyou] (p.116–130) Special care; junior-high counterfactual; bet on mathematics with Manabu as witness; refuses to involve Ayanokōji in the stakes.
+[says:horikita-suzune] (p.116) “She’s special. I’ll have to be extra careful,”
+[says:horikita-suzune] (p.116) “I’ve been thinking about several things. About the kind of life Kushida Kikyou would’ve had at this school had I not enrolled here. Everyone in class would’ve trusted and leaned upon her. She could have studied and played sports without any concerns. She would’ve carried on like that until graduation. However, my presence took that easy future from her. She worked with an enemy, Ryuuen-kun, in a desperate bid to drive me out. She didn’t hesitate to attack her own class. Of course, that isn’t my fault. It’s just bad luck that we ended up at the same school.”
+[says:horikita-suzune] (p.116) “Yes. I wouldn’t doubt it, even if I caught wind of unpleasant rumors about her,”
+[says:horikita-suzune] (p.116) “Maybe not… But even so, I don’t think it’s right to have Ichinose mediate,”
+[says:horikita-suzune] (p.116) “I can’t accept that. I’m going to settle things with Kushida myself.”
+[says:horikita-suzune] (p.118) “Kushida-san. Sorry to have kept you waiting,”
+[says:horikita-suzune] (p.118) “Nothing important.”
+[says:horikita-suzune] (p.118) “Sure. After all, it’s completely unrelated to you,”
+[says:horikita-suzune] (p.118) “I asked her how I could talk to people equally, without showing distinction or favoritism.”
+[says:horikita-suzune] (p.118) “I’m not going to lie. I was asking about you, Kushida-san,”
+[says:horikita-suzune] (p.118) “Sorry, Ayanokouji-kun, but could you head back without me?”
+[rel:ayanokouji-kiyotaka] (p.118–124) Pocket-phone eavesdrop; side-bet on Horikita; Kushida’s expulsion condition refused.
+[says:horikita-suzune] (p.119) “I don’t like it, either. But we can’t avoid it.”
+[says:horikita-suzune] (p.119) “Although it’s true that I heard about an incident, I didn’t care. I didn’t have any friends back then, anyway. All I heard were rumors. I don’t know what the truth really is.”
+[says:horikita-suzune] (p.119) “You’re right. That’s why you can’t let it go. No matter how much I deny it, you can’t be sure I’m not lying. I imagine that you’d like to have me kicked out of school because you can’t forgive me for knowing that there was an incident at all.”
+[says:horikita-suzune] (p.119) “How about we place a bet, Kushida-san?”
+[says:horikita-suzune] (p.119) “You don’t like that I’m here. I can’t do anything about that, right?”
+[says:horikita-suzune] (p.119) “But we’re both in Class D. If we don’t work together, we can’t advance to Class A.”
+[says:horikita-suzune] (p.119) “Do you plan on dropping out, too?”
+[says:horikita-suzune] (p.119) “I have no intention of dropping out,”
+[says:horikita-suzune] (p.120) “You might be right about that. I’ve been trying to come up with a way we can coexist. But I concluded that, no matter what I do, it’s impossible.”
+[says:horikita-suzune] (p.120) “We aren’t children. We can’t just fight. But you don’t trust me.”
+[says:horikita-suzune] (p.120) “If I score higher than you on the upcoming final exam, you’ll cooperate with me from now on without any hostility. I’m not expecting us to be best friends; I just want you to stop trying to hurt me. That’s all.”
+[says:horikita-suzune] (p.120) “Yes. That’s true. So…”
+[says:horikita-suzune] (p.120) “Let’s determine the winner based on one of the eight subjects. You’re free to choose whichever subject you’re best in. If your score is higher than mine, I’ll drop out of school. That’s my offer.”
+[says:horikita-suzune] (p.120) “To make things official, I intend to involve a reliable witness.”
+[rel:horikita-manabu] (p.120–122) Summons her older brother as witness; he holds the terms after retiring as president.
+[says:horikita-suzune] (p.121) “If you would, please…niisan.”
+[says:horikita-suzune] (p.121) “I’m terribly sorry to ask this of you, niisan. But I absolutely need your help.”
+[says:horikita-suzune] (p.121) “I trust my brother the most in this school. You can trust him as well, Kushida-san. Don’t worry, I didn’t tell him any details.”
+[says:horikita-suzune] (p.121) “I also swear that I won’t say a word to anyone if I lose, Kushida-san. I’d bring shame on my brother’s name if I went around breaking promises. I would never do that.”
+[says:horikita-suzune] (p.121) “I’m not the kind to wait around for people to strike.”
+[says:horikita-suzune] (p.122) “Thank you very much, niisan.”
+[says:horikita-suzune] (p.122) “Let’s give it everything we’ve got. Both of us.”
+[note] (p.122) Short utterance: Why?
+[note] (p.122) Short utterance: That’s—
+[says:horikita-suzune] (p.122) “Yes. I told Ayanokouji-kun.”
+[rel:kushida-kikyou] (p.123–130) Face-to-face after the eavesdrop; bet accepted; truth weapon disclosed; both leave knowing they are true enemies.
+[says:horikita-suzune] (p.123) “You really got me, Kushida-san. You’re incredible,”
+[says:horikita-suzune] (p.123) “Why did you call for Ayanokouji-kun?”
+[says:horikita-suzune] (p.123) “I thought our conversation was over. If you’re angry that I had him listen in, just say so.”
+[note] (p.123) Short utterance: No,
+[says:horikita-suzune] (p.123) “Maybe. But this is my gamble, so I can’t involve him.”
+[says:horikita-suzune] (p.123) “There’s no problem if he doesn’t tell anyone, though,”
+[says:horikita-suzune] (p.124) “Well, you’re vital to Class D, after all.”
+[says:horikita-suzune] (p.124) “If I’m always fighting with my peers, then I’ll never make it to the higher classes. I’ll be stuck in a vicious circle,”
+[says:horikita-suzune] (p.124) “Wait a minute,”
+[says:horikita-suzune] (p.124) “What are you saying, Ayanokouji-kun? This has nothing to do with you.”
+[says:horikita-suzune] (p.124) “I’m not interested in her past,”
+[says:horikita-suzune] (p.126) “Isn’t it agonizing, though? Doing things that you don’t want to do? If it were me, I couldn’t take it. I think I’d break down,”
+[note] (p.129) Short utterance: Yes,
+[says:horikita-suzune] (p.130) “If you knew it was dangerous, why did you join? Because you believe I won’t lose?”
+[says:horikita-suzune] (p.130) “Even though Kushida might be able to help Ryuuen-kun, I really have to wonder whether it’ll come to that,”
+[says:horikita-suzune] (p.130) “Do you think that Ryuuen-kun really wants me to drop out?”
+[says:horikita-suzune] (p.130) “Ryuuen-kun would see through something like that. If Kushida-san asked for the math answers, he’d want to know why,”
+[says:horikita-suzune] (p.130) “There’ll always be danger. It helps to have things you’re willing to put on the line.”
+[note] (p.130) Short utterance: Of course.
+[rel:ryuuen-kakeru] (p.130) Her biggest gamble yet, read against Ryuuen’s real goal of bringing her low.
+[note] (p.131) Blank scan (footer only).
+<!-- walk: y1v6 ch5 → p.131 -->

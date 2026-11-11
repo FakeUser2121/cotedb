@@ -42,3 +42,37 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [passing mention] (p.31) No dialogue in this chapter; only the results climb.
 
 <!-- walk: y1v6 ch3 → p.59 -->
+
+### y1v6 p.83–84 — Ch.5: Ayanokōji’s final-exam partner
+[scene] (p.83) Paired with Ayanokōji on the short quiz — “My partner was…Satou Maya.”
+[rel:ayanokouji-kiyotaka] (p.83–84) Notices the pairing, smiles his way; he raises a hand; she might fail the final, so his scores must stay high.
+[says:ayanokouji-kiyotaka] (p.83) “God really does have a bad sense of humor.”
+[rel:horikita-suzune] (p.84) Horikita: “You’re paired up with Satou-san. You should be fine.”
+[note] (p.83) No dialogue from Satou on these pages; only the smile and the name on the list.
+
+### y1v6 p.107–111 — Ch.5 §5.6: library crush on her exam partner
+[scene] (p.107) First time in the library; joins the study session as Ayanokōji’s short-quiz partner; awkward since exchanging contacts.
+[rel:ayanokouji-kiyotaka] (p.107–111) Asks if she is a bother; sits close; midterm near-fifty across the board; cool read rejected.
+[says:satou-maya] (p.107) “Wow. So, this is the library, huh?”
+[says:satou-maya] (p.107) “This is my first time here. What about you, Ayanokouji-kun?”
+[says:satou-maya] (p.107) “You’re so studious!”
+[says:satou-maya] (p.107) “You come to the library to kill time? That’s strange.”
+[says:satou-maya] (p.107) “Hey, um, Ayanokouji-kun… I’m not a bother, am I?”
+[says:satou-maya] (p.107) “Well, I did just suddenly tell you I was joining the study session and all.”
+[says:satou-maya] (p.107) “That’s not what I mean.”
+[says:satou-maya] (p.108) “Wow. Everyone looks so serious,”
+[says:satou-maya] (p.108) “They’re really studying.”
+[rel:horikita-suzune] (p.108–110) Seats secured; drawled invitation to take care of Satou-san.
+[says:satou-maya] (p.110) “It’s only natural, isn’t it? Since we’re partners.”
+[says:satou-maya] (p.110) “Hey, Ayanokouji-kun, what would be the best way for me to prepare?”
+[says:satou-maya] (p.110) “Let’s do our best together, Ayanokouji-kun,”
+[says:satou-maya] (p.110) “You’re always so calm, Ayanokouji-kun. You just have this really mature vibe. What were you like back in junior high?”
+[says:satou-maya] (p.110) “You’re not gloomy at all, Ayanokouji-kun. I think you’re cool,”
+[says:satou-maya] (p.110) “Really? Well, I don’t know about other people, but that’s what I think.”
+[note] (p.111) Short utterance: I did.
+[says:satou-maya] (p.111) “It’s kind of bad, isn’t it?”
+[note] (p.111) Yes!
+[rel:ike-kanji] (p.111) Ike suspects they are getting along too well; she answers as partners.
+[says:satou-maya] (p.111) “We’re partners. It’s only natural, right?”
+[trait] (p.107–111) Around fifty across the board on midterms; medium-or-higher questions disastrous; breathing a little heavy when close.
+<!-- walk: y1v6 ch5 → p.131 -->

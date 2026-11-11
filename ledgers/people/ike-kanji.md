@@ -675,3 +675,30 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:sudou-ken] (p.31) Named with stiff expressions as results post from the bottom up.
 
 <!-- walk: y1v6 ch3 → p.59 -->
+
+### y1v6 p.80–81, 83, 97 — Ch.5 §5: the blank-sheet confidence
+[scene] (p.80) Dark circles gone; self-confident; needs no study for a quiz that does not touch his final grade.
+[rel:chabashira-sae] (p.80–81) Watch-and-learn to Chabashira; then the final-grade clarification settles him.
+[says:ike-kanji] (p.80) “Heh heh heh. Watch and learn, sensei.”
+[says:ike-kanji] (p.81) “Wh-what do you mean? This isn’t going to have an effect on my grades, right?”
+[says:ike-kanji] (p.81) “In that case, I don’t need a good score,”
+[rel:kushida-kikyou] (p.83) Paired with Kushida on the short quiz.
+[rel:yukimura-teruhiko] (p.97) Yukimura says tutoring Ike and the guys would be a much worse time than Miyake and Hasebe.
+[note] (p.97) Named in Yukimura’s Pallet speech; not present.
+
+### y1v6 p.104, 108–112 — Ch.5: library trouble and partner jealousy
+[scene] (p.104) Named with Yamauchi as the attention-span problem shorter than a kindergartener.
+[rel:horikita-suzune] (p.104) Called out in the management lecture; no objection from Ayanokōji’s None.
+[rel:horikita-suzune] (p.108–111) Grabs his arm at the Class B approach; scolded for staring; later jealous of Satou and Ayanokōji.
+[says:ike-kanji] (p.108) “Y-yeah, we know already. Sheesh.”
+[says:ike-kanji] (p.109) “Ike-kun, I warned you, didn’t I?”
+[note] (p.109) Horikita’s line to him.
+[says:ike-kanji] (p.111) “Aren’t you two getting along a little too well?”
+[says:ike-kanji] (p.111) “Tch. Yeah, yeah. I know.”
+[note] (p.111) after Horikita tells him to study rather than concentrate on things he does not understand.
+[rel:satou-maya] (p.111) Eyes full of suspicion at Satou and Ayanokōji as partners.
+[rel:yamauchi-haruki] (p.112) Races out of the library with him after the session.
+[note] (p.112) Short utterance: Aw, I’m beat!
+[says:ike-kanji] (p.112) “C-come on, I know that. Isn’t it okay for me to be at least a little happy? I worked hard!”
+[trait] (p.104, 112) Attention span shorter than a kindergartener; after-school study is hell; beams at freedom.
+<!-- walk: y1v6 ch5 → p.131 -->

@@ -945,3 +945,35 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [says:ryuuen-kakeru] (p.73) “There are other capable people in Class D. People like Hirata.”
 [note] (p.73) Hirata does not appear in person on these pages.
 <!-- walk: y1v6 ch4 → p.75 -->
+
+### y1v6 p.76–88 — Ch.5 §5: support role and the tutoring gap
+[scene] (p.76) Takes the podium with Chabashira’s permission; summons Horikita — their first public solidarity.
+[says:hirata-yousuke] (p.76) “During homeroom today, I’d like to discuss our strategy for the short quiz tomorrow. I’ve received Chabashira-sensei’s permission. First, Horikita-san, would you please come up?”
+[rel:horikita-suzune] (p.76) She always fought alone until now; the class finds the pair weird.
+[rel:horikita-suzune] (p.77) Writes the pairing rules on the blackboard as her support role.
+[rel:horikita-suzune] (p.79) “I think this is a great plan.” — no dissent; he wants a harmonious atmosphere.
+[rel:kouenji-rokusuke] (p.79) Present for the Kouenji exchange; does not pursue when Horikita cannot.
+[rel:chabashira-sae] (p.84) Takes the second daily study group because of club activities.
+[says:hirata-yousuke] (p.84) “Because of my club activities, I’ll take the second study group. Let’s all work together and do our best,”
+[rel:sudou-ken] (p.85) Sudou’s “countin’ on you, Hirata” answered with mutual encouragement.
+[says:hirata-yousuke] (p.85) “Likewise. Let’s do our best together, Sudou-kun.”
+[rel:miyake-akito] (p.85–86) Recognises Miyake and Hasebe as a final-exam pair; accepts their sheets; promises to check the other pairs.
+[says:hirata-yousuke] (p.85) “Wait, you two are paired together for the final exam, right?”
+[note] (p.85) Utterance fragment recorded as narrative: I see.
+[says:hirata-yousuke] (p.85) “This is a little unexpected. Let’s make sure to check the other pairs later.”
+[says:hirata-yousuke] (p.86) “Please, don’t apologize.”
+[says:hirata-yousuke] (p.86) “If I had trouble, I’m sure you’d do the same for me.”
+[rel:hasebe-haruka] (p.86) Present when Hasebe declines group tutoring and walks out.
+[rel:horikita-suzune] (p.87) Raises the overload problem: Horikita also has to create Class C’s test problems.
+[note] (p.87) Utterance fragment recorded as narrative: What now?
+[says:hirata-yousuke] (p.87) “I think we should follow up with those two.”
+[says:hirata-yousuke] (p.87) “I don’t think that’s a good idea. You’ll overwork yourself. If you do that, you won’t be an effective tutor. Besides, Horikita-san, you also have to create Class C’s test problems,”
+[rel:yukimura-teruhiko] (p.88) On whether Miyake, Hasebe and Yukimura will listen — all three are loners.
+[says:hirata-yousuke] (p.88) “I’m not sure. All three of them are loners,”
+
+### y1v6 p.104–105, 124 — Ch.5: named in question-creation and class history
+[scene] (p.104) One of the three whose questions form the fundamental basis with Horikita and Yukimura.
+[rel:horikita-suzune] (p.104–105) Club activities put him on the second study group; his sheets are part of the leak-controlled set.
+[rel:karuizawa-kei] (p.104, 124) Night sessions attract girls around Hirata even with Karuizawa there; later named with Karuizawa as the pair who could not reach the classmates Kushida would have influenced.
+[note] (p.124) Counterfactual in Ayanokōji’s reflection — no Hirata dialogue on these pages.
+<!-- walk: y1v6 ch5 → p.131 -->

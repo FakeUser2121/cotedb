@@ -49,3 +49,10 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [rel:yukimura-teruhiko] (p.73) His cautious yes on Yukimura as the smarter of the photo pair.
 [rel:ryuuen-kakeru] (p.73–74) Present through the mastermind debate until Ryuuen’s Shut up.
 <!-- walk: y1v6 ch4 → p.75 -->
+
+### y1v6 p.94–95, 101 — Ch.5: cake counter roar at Pallet
+[scene] (p.94) Three Class C boys on phones eye Ayanokōji’s table; Ishizaki is the only name recalled.
+[rel:ayanokouji-kiyotaka] (p.94–97) Gaze fixed on the study group; not picking a fight, but present.
+[says:ishizaki-daichi] (p.94) “There’s no way you can do it?!”
+[rel:ryuuen-kakeru] (p.101) Yukimura: without subject mastery neither Ryuuen nor Ishizaki can write tricky questions.
+[note] (p.101) Named in the Pallet question-writer debate; not present for that stretch.

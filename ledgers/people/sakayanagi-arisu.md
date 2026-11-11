@@ -149,3 +149,8 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.51) No dialogue or action from Sakayanagi on these pages.
 
 <!-- walk: y1v6 ch3 → p.59 -->
+
+### y1v6 p.80 — Ch.5: nomination politics (named only)
+[scene] (p.80) Named as the likely chooser of Class A’s nomination for the short-quiz attack.
+[rel:katsuragi-kouhei] (p.80) Katsuragi’s Class D nomination is framed as the safer Class A play; his influence declining.
+[note] (p.80) No dialogue or action from Sakayanagi on these pages.

@@ -174,3 +174,8 @@ char_id: sotomura-hideo · class: Class 1-D (enrolled April 2015) · status: min
 [note] (p.31) Always middling scores; the penalty pushed him this low.
 
 <!-- walk: y1v6 ch3 → p.59 -->
+
+### y1v6 p.77 — Ch.5: vexed at Sudou’s jab
+[scene] (p.77) Shot a vexed glare with Yamauchi when Sudou called them not much help in the festival.
+[rel:sudou-ken] (p.77) Target of the glare after “Haruki and the Professor weren’t really much help.”
+[note] (p.77) No dialogue of his own on these pages.

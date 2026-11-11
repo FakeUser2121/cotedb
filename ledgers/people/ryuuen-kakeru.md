@@ -574,3 +574,17 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:ayanokouji-kiyotaka] (p.74) The him of the closing move; text message sent, addressee not printed on this page.
 [note] (p.75) Blank scan (footer only).
 <!-- walk: y1v6 ch4 → p.75 -->
+
+### y1v6 p.101 — Ch.5: not a question-writer (named only)
+[scene] (p.101) Named with Ishizaki as someone who cannot craft tricky humanities questions without subject mastery.
+[rel:ishizaki-daichi] (p.101) Paired with him in Yukimura’s dismissal of Class C enforcers as authors.
+[note] (p.101) No dialogue or action from Ryuuen on these pages.
+
+### y1v6 p.105–106, 114, 116, 129–130 — Ch.5: dummy email and strategic read
+[scene] (p.106) Email arrives on Ayanokōji’s phone: “What are you?” — first response since the sports-festival message to Manabe’s circle.
+[rel:ayanokouji-kiyotaka] (p.106) Dummy account; no answer; Ayanokōji goes to sleep instead.
+[rel:kushida-kikyou] (p.105–106) Sports-festival participation-table pattern; likely to ask her again for questions; Kushida’s involvement is the danger flag.
+[rel:ichinose-honami] (p.114) Ichinose’s explicit limit: would not help Ryuuen the way she helps friends.
+[rel:horikita-suzune] (p.129–130) Wants her brought low, not expelled; would see through a Kushida lie about math answers.
+[note] (p.106) The email body is one line of dialogue from Ryuuen; no scene presence on these pages.
+<!-- walk: y1v6 ch5 → p.131 -->

@@ -292,3 +292,12 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:sudou-ken] (p.47) Named with Sudou as the physical-strength floor of the class.
 
 <!-- walk: y1v6 ch3 → p.59 -->
+
+### y1v6 p.79, 83 — Ch.5: the balance risk
+[scene] (p.79) Legs across desk, combing hair; refuses neither support nor rejection of Horikita’s plan.
+[says:kouenji-rokusuke] (p.79) “No. What a nonsensical question. Naturally, I fully grasp the situation.”
+[says:kouenji-rokusuke] (p.79) “Well, I’m not too sure about that. Wouldn’t that depend on the test’s contents?”
+[says:kouenji-rokusuke] (p.79) “I will consider the matter carefully, girl.”
+[rel:horikita-suzune] (p.79) Pressed not to score a zero and break the pair balance; she cannot pursue further.
+[rel:okiya-kyousuke] (p.83) Paired with Okiya on the short quiz — a sufficiently high score as hoped.
+[note] (p.83) Crosses arms, grins, laughs when the pairings are read.

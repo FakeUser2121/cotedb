@@ -596,3 +596,28 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [note] (p.54) Chabashira is not present at Pallet; only her prior rules are quoted.
 
 <!-- walk: y1v6 ch3 → p.59 -->
+
+### y1v6 p.76, 80–83 — Ch.5 §5: nomination and quiz day
+[scene] (p.76) Leaves the classroom after homeroom begins at 6 p.m.; Hirata takes the podium with her permission.
+[rel:horikita-suzune] (p.80) Confirms Class D’s Class C nomination had no competing conflict; Classes A and B both nominated Class D.
+[says:chabashira-sae] (p.80) “We will begin shortly, but I’d like to say something. You nominated Class C as the class you wanted to attack for this test. Since there was no conflict with any other class, your nomination was approved,”
+[says:chabashira-sae] (p.80) “Class C will attack Class D. They also had no competing nominations that conflicted with that decision.”
+[rel:ike-kanji] (p.80–81) Teases Ike’s dark circles; warns him not to do something he’ll regret.
+[says:chabashira-sae] (p.80) “At any rate, you look like you’re doing quite well, Ike. Yamauchi, you usually have dark circles under your eyes right before you take a test. Did you happen to come up with some secret strategy?”
+[says:chabashira-sae] (p.80) “Don’t do something you’ll regret later. It would be better if you took this quiz seriously.”
+[says:chabashira-sae] (p.81) “Right. Your final grade won’t reflect your score on this at all.”
+[says:chabashira-sae] (p.81) “Sure. If things go the way you expect them to go, that is.”
+[rel:horikita-suzune] (p.81) Probes Horikita’s certainty about pair selection before the quiz begins.
+[says:chabashira-sae] (p.81) “Aren’t you worried that you’re wrong about how the pairs are selected?”
+[says:chabashira-sae] (p.81) “Well then, let’s begin. I needn’t remind you that no form of cheating is allowed. If someone gets caught cheating, then there will be no mercy.”
+[note] (p.81) Short utterance: Begin.
+[rel:satou-maya] (p.83) Announces the short-quiz pairings and the final-exam partner list.
+[says:chabashira-sae] (p.83) “Well, I will now announce the pairings for the final exam,”
+[says:chabashira-sae] (p.83) “The results indicate that some among you understood this short quiz’s purpose,”
+[says:chabashira-sae] (p.83) “Students were to be paired based on the difference in points, with the highest scorer partnered with the lowest, and so on. If students had the same scores, the pairings would have been determined at random. It’s probably not necessary for me to explain the system, but I thought I would anyway.”
+
+### y1v6 p.105 — Ch.5: the day-before leak window (named only)
+[scene] (p.105) Named as the teacher who would receive Class D’s final questions and answers the day before the test.
+[rel:horikita-suzune] (p.105) The submission channel Ayanokōji flags as ready to be stolen.
+[note] (p.105) No dialogue from Chabashira on these pages.
+<!-- walk: y1v6 ch5 → p.131 -->

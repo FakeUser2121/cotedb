@@ -942,3 +942,23 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:hirata-yousuke] (p.58) Leaves with him for club activities after the meeting.
 
 <!-- walk: y1v6 ch3 → p.59 -->
+
+### y1v6 p.77, 81, 83–85 — Ch.5 §5: steady under Suzune’s hand
+[scene] (p.77) Speaks up after Horikita’s apology; sad but true about Yamauchi and the Professor.
+[says:sudou-ken] (p.77) “That’s right, Suzune. I mean, Haruki and the Professor weren’t really much help, either.”
+[rel:yamauchi-haruki] (p.77) Yamauchi and Sotomura shoot vexed glares at him.
+[rel:sotomura-hideo] (p.77) Same glare from the Professor.
+[rel:horikita-suzune] (p.77) Her look to him implies the alliance is the festival’s one gain; he smiles quietly.
+[rel:horikita-suzune] (p.81) Anxious about the quiz plan, then steadied by her calm; “All I have to do is believe in Suzune.”
+[says:sudou-ken] (p.81) “Should we try to get good scores after all?”
+[says:sudou-ken] (p.81) “Yeah. All I have to do is believe in Suzune.”
+[rel:horikita-suzune] (p.83–85) Paired with her on the short quiz; lunch complaint about missing her evening study group ends in a promise.
+[says:sudou-ken] (p.84) “Dang it! Suzune’s not leading the second group? There goes my motivation, man.”
+[says:sudou-ken] (p.85) “Yeah! All right, I’m ready for this! I’m countin’ on you, Hirata.”
+[rel:hirata-yousuke] (p.85) Takes Hirata for the second study group once Suzune is out of it.
+
+### y1v6 p.104 — Ch.5: behaving (named only)
+[scene] (p.104) Named as not among the session trouble; taking it seriously, still short of junior-high level.
+[rel:horikita-suzune] (p.104) Her positive read in the management call.
+[note] (p.104) No dialogue from Sudou on these pages.
+<!-- walk: y1v6 ch5 → p.131 -->

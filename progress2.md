@@ -1997,3 +1997,28 @@ noted. verify y1v6: 262 [says] ALL PASS + 50 non-says ALL PASS; make
 check OK (R18 0, R19 82/82); gate exit 0; hash
 `012e79edde139ed439624bcf98b43625` twice. New tags: none. Next: ch5
 p.76–131 (56 pp).
+
+### y1v6 ch5 (pp.76–131) — walked
+A Means of Escape (56 pp, two halves): the exam team settles (Hasebe
+exits and returns; identical wrong answers; Class C cake roar);
+Yukimura’s team-thesis speech and Kaneda as likely question-writer;
+Ayanokouji’s management lecture and Ryuuen’s “What are you?” dummy
+email; joint Class B library session with Satou and Ichinose; the
+pocket-phone eavesdrop and mathematics bet witnessed by Horikita
+Manabu; Kushida’s extra condition (Ayanokouji’s expulsion) refused and
+Ayanokouji joins the wager. People stamped: ayanokouji-kiyotaka,
+chabashira-sae, hasebe-haruka, hirata-yousuke, horikita-manabu,
+horikita-suzune, ichihashi-ruri, ichinose-honami, ike-kanji,
+inogashira-kokoro, ishizaki-daichi, kaneda-satoru, kanzaki-ryuuji,
+karuizawa-kei, katsuragi-kouhei, kouenji-rokusuke, kushida-kikyou,
+manabe-shiho, miyake-akito, okiya-kyousuke, onodera, ryuuen-kakeru,
+sakayanagi-arisu, sakura-airi, satou-maya, sotomura-hideo, sudou-ken,
+yamauchi-haruki, yukimura-teruhiko; volume stamped `y1v6 ch5 → p.131`.
+First y1v6 ledgers created: hasebe-haruka, ichihashi-ruri,
+okiya-kyousuke. Inogashira duplicate `## y1v6` heading fixed
+post-append. R18 regression pre-ship: volume New-named-entities rows
+used “ledger(s)” — reworded to plain notes; gate restored to 0. Blanks
+pp.90–91, 117, 128, 131 noted. verify y1v6: 651 [says] ALL PASS + 64
+non-says ALL PASS; make check OK (R18 0, R19 82/82); gate exit 0; hash
+`2f738b9aaacb24c55f04f37f4b9178de` twice. New tags: none. Next: ch6
+p.132–176.

@@ -432,3 +432,9 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.48) No dialogue or action from Katsuragi on these pages.
 
 <!-- walk: y1v6 ch3 → p.59 -->
+
+### y1v6 p.80 — Ch.5: nomination politics (named only)
+[scene] (p.80) Named when Chabashira confirms Class C as Class D’s attack target.
+[rel:sakayanagi-arisu] (p.80) Sakayanagi likely chose Class A’s nomination; Katsuragi probably would have nominated Class D for Class A’s best chance.
+[rel:sakayanagi-arisu] (p.80) His influence is on the decline in this reading.
+[note] (p.80) No dialogue or action from Katsuragi on these pages.

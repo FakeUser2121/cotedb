@@ -178,3 +178,14 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [scene] (p.100) Named as a Class B leader on the capture-the-flag field.
 [note] (p.100) Class B’s guys face D/A with Kanzaki and Shibata leading them.
 [note] (p.162) Scavenger-hunt enemies: Ichinose and Kanzaki are currently Ayanokouji’s opponents.
+
+## y1v6
+
+<!-- walk: y1v6 → start -->
+
+### y1v6 p.115 — Ch.5: the other half of Ichinose’s test
+[scene] (p.115) Named by Horikita as the Class B student in her hypothetical: what if Kanzaki-kun and Horikita had the same problem?
+[rel:ichinose-honami] (p.115) Ichinose cannot choose between them without hurting someone — the answer that impresses Horikita.
+[rel:horikita-suzune] (p.115) The impossible-choice probe that frames the corner talk.
+[note] (p.115) No dialogue or action from Kanzaki on these pages.
+<!-- walk: y1v6 ch5 → p.131 -->

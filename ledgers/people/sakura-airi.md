@@ -674,3 +674,15 @@ aliases used for anchors: sakura, airi, sakura-san
 [note] (p.19) No dialogue from Sakura on these pages.
 
 <!-- walk: y1v6 ch2 → p.29 -->
+
+### y1v6 p.97–98, 102 — Ch.5: the stalker at Pallet
+[scene] (p.97) Watching Ayanokōji from another seat; jumps when he sits beside her.
+[rel:ayanokouji-kiyotaka] (p.97–98) Claims coincidence, then study materials in her bag scream a wish to join; he invites her, then keeps his distance.
+[note] (p.97) Short utterance: Hyaaah?!
+[says:sakura-airi] (p.97) “I-It’s just a coincidence, Ayanokouji-kun!”
+[says:sakura-airi] (p.97) “Yes, a coincidence.”
+[says:sakura-airi] (p.97) “Well, that’s… I mean… I’m sorry.”
+[says:sakura-airi] (p.98) “Wh-wh-why do you say that?!”
+[says:sakura-airi] (p.98) “B-but I…I’ve hardly ever spoken to them before.”
+[rel:yukimura-teruhiko] (p.102) Still has not come over when the group leaves.
+[trait] (p.97–98) Public places remain hard; she almost flees to the dorm but holds her seat — something is going on in her mind.

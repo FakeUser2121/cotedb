@@ -971,3 +971,82 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [says:kushida-kikyou] (p.58) “Well, I’ll go ask the senior students about the exam and report back”
 
 <!-- walk: y1v6 ch3 → p.59 -->
+
+### y1v6 p.83–87 — Ch.5 §5.2: study-group tutor in chief
+[scene] (p.83) Paired with Ike on the short quiz; then assigned the fifty-point-worrier tutoring role.
+[rel:horikita-suzune] (p.84) Attends both daily sessions; unique role for students afraid of fifty points.
+[rel:miyake-akito] (p.86) Offered Miyake and Hasebe as one-on-one cases; Miyake declines the girls-only group.
+[note] (p.86) Utterance fragment recorded as narrative: Sure,
+[says:kushida-kikyou] (p.86) “If you’re all right with that, Miyake-kun and Hasebe-san, I’ll do it.”
+[rel:horikita-suzune] (p.84) Named with Hirata as the pair Horikita needs before the double study schedule.
+[note] (p.84) Only three students can handle being tutors; quality drops as groups grow.
+
+### y1v6 p.104–130 — Ch.5 §5.5–5.9: the bet and the blog truth
+[scene] (p.104) Promised daily study sessions; Horikita still treats her attendance as reliable while questions stay off-limits.
+[rel:horikita-suzune] (p.104–106) Attendance promise noted; leak-risk talk keeps her out of question creation.
+[rel:horikita-suzune] (p.112) Goodbye to Ichinose and Horikita; playing it cool — both checking each other out.
+[note] (p.112) Goodbye,
+[says:kushida-kikyou] (p.112) “Horikita-san, goodbye to you, too.”
+[rel:horikita-suzune] (p.118–130) Waits outside; demands to know what was said; junior-high past forced into the open; mathematics bet with Manabu as witness; extra condition to expel Ayanokōji refused; then the blog and class-secrets disclosure.
+[says:kushida-kikyou] (p.118) “It’s all right. There’s still a little time left before we were scheduled to meet. What were you talking about with Honami-chan?”
+[says:kushida-kikyou] (p.118) “I’d still like to know. Is it something you can tell me?”
+[says:kushida-kikyou] (p.118) “Listen here, Horikita-san. While you and I may not get along, I’d much rather talk about this without Ayanokouji-kun,”
+[says:kushida-kikyou] (p.118) “Or could it be…that Ayanokouji-kun and Ichinose-san now know something?”
+[says:kushida-kikyou] (p.119) “Well, this is certainly sudden. Why bring up the past? I don’t like talking about that.”
+[says:kushida-kikyou] (p.119) “Well, we’ve rarely had the chance to be alone like this. But you’re certainly right—I do want you to disappear from this school, Horikita-san. And, yes, it’s because we were in junior high together, and you know about that incident.”
+[says:kushida-kikyou] (p.119) “But there’s no guarantee you don’t know, is there?”
+[says:kushida-kikyou] (p.119) “Right. As long as you’re here, Horikita-san, I can’t rest easy.”
+[says:kushida-kikyou] (p.119) “Actually, I think expelling you will solve the problem.”
+[says:kushida-kikyou] (p.119) “Of course not. Only you’ll drop out, Horikita-san.”
+[says:kushida-kikyou] (p.120) “Then there’s nothing we can do. I don’t think we can get along.”
+[says:kushida-kikyou] (p.120) “I think so too, Horikita-san. This won’t be over until one of us is gone.”
+[says:kushida-kikyou] (p.120) “What did you mean when you said ‘place a bet’?”
+[says:kushida-kikyou] (p.120) “That’s ridiculous, Horikita-san. I didn’t beat your midterm score. Even if we based this bet on our total scores, it would still be hard for me to win. Besides, I’d gain nothing from winning.”
+[says:kushida-kikyou] (p.120) “But this is just a verbal agreement, Horikita-san. If you lose, you could act like the bet never happened. Of course, I might not uphold my part of the arrangement, either. Can we both really trust what the other person says?”
+[says:kushida-kikyou] (p.120) “A reliable witness?”
+[note] (p.120) Short utterance: Wha—?!
+[rel:horikita-manabu] (p.121–122) Shocked when Manabu is summoned as witness; “I don’t forget people.”
+[says:kushida-kikyou] (p.121) “I don’t forget people.”
+[says:kushida-kikyou] (p.121) “Are you okay with this, Horikita-senpai? If your little sister loses, then—”
+[says:kushida-kikyou] (p.121) “You’re serious, aren’t you, Horikita-san?”
+[says:kushida-kikyou] (p.121) “Fine. I accept your challenge. And I’m all right with the terms of the bet. I choose mathematics. Can I assume that if we end up getting the same score, neither one of us wins?”
+[says:kushida-kikyou] (p.122) “I’m looking forward to the final exam, Horikita-san.”
+[says:kushida-kikyou] (p.122) “Yes. Give my regards to Ayanokouji-kun, too.”
+[says:kushida-kikyou] (p.122) “Because you told him, didn’t you? About my past.”
+[says:kushida-kikyou] (p.122) “Ah, you don’t really need to answer that. I don’t trust you, Horikita-san, so it doesn’t matter. I won’t violate our bet’s terms, so you can relax. Besides, Ayanokouji-kun has seen a little of my bad side.”
+[says:kushida-kikyou] (p.122) “It wasn’t just intuition. Kushida had some guts.”
+[note] (p.122) wait this is narration not says
+[rel:ayanokouji-kiyotaka] (p.122–130) Detects the pocket phone; invites him back; extra condition is his expulsion; then tells the junior-high blog truth to both.
+[says:kushida-kikyou] (p.122) “Care to join us, Ayanokouji-kun?”
+[note] (p.123) Short utterance: Yoo-hoo!
+[says:kushida-kikyou] (p.123) “Thank you. But, really, I’m merely observant,”
+[says:kushida-kikyou] (p.123) “I’m not particularly displeased. It’s just that I’d rather speak to you both face-to-face. I was wondering whether you would mind me adding another condition to the bet,”
+[says:kushida-kikyou] (p.123) “If I beat your score, Horikita-san, I want Ayanokouji-kun to drop out, too.”
+[says:kushida-kikyou] (p.123) “I want to make everyone who knows about my past disappear. Even if you’re no longer here, Horikita-san, if Ayanokouji-kun remains, so will my troubles.”
+[says:kushida-kikyou] (p.123) “Well, that’s too bad. I could’ve killed two birds with one stone.”
+[says:kushida-kikyou] (p.123) “Ha ha ha! There’s no need to look so disappointed. It’s not your fault, Ayanokouji-kun. It’s just bad luck that you learned about my true nature.”
+[says:kushida-kikyou] (p.123) “If that were all it took, Horikita-san, you wouldn’t have challenged me to this bet.”
+[says:kushida-kikyou] (p.123) “You’ve changed. You wouldn’t have said that before.”
+[says:kushida-kikyou] (p.124) “I’d be happy to have you join,”
+[says:kushida-kikyou] (p.125) “It’s true that you’re now involved, Ayanokouji-kun. I can’t deny that. If Horikita-san really hasn’t told you the details, I understand your feelings. But if I do tell you, there’ll be no turning back. Understand?”
+[says:kushida-kikyou] (p.125) “Yes. You’re way past it.”
+[says:kushida-kikyou] (p.125) “Ayanokouji-kun, is there something that you’re the best at? Better than anyone else?”
+[says:kushida-kikyou] (p.125) “Then I wonder if you can understand what I’m feeling. Don’t you think that the best thing in the world is feeling valued in some special way? When you get the highest score on a test, or win first place in a race, everyone’s eyes are on you. You know those moments when people shower you with attention?”
+[says:kushida-kikyou] (p.125) “I think that I’m probably addicted to that feeling,”
+[says:kushida-kikyou] (p.125) “More so than normal people. I can’t help wanting to show off. I can’t help wanting to stand out. I can’t help wanting to be praised. When I am, I truly feel how wonderful it is to be alive. But I know my own limits. No matter how hard I try, I won’t be number one in school or in sports—and coming second or third won’t satisfy my cravings. So, I thought I’d do something that no one else could—be nicer and kinder than everyone else.”
+[says:kushida-kikyou] (p.126) “Thanks to that, I became popular with both boys and girls. I took pleasure in being trusted and relied upon. Elementary school and junior high were really fun,”
+[says:kushida-kikyou] (p.126) “Of course it’s agonizing. Day after day, I’m under so much stress I feel like I’m going to go bald. I’ve pulled my hair out and vomited from anxiety. But I can’t let anyone see that side of me. That’s why I continued to endure, and endure, and endure,”
+[says:kushida-kikyou] (p.126) “My blog saved me. It was the only place where I dumped out this hidden stress. I could tell it all my most painful secrets. Of course, I posted everything anonymously, you know? But I wrote the facts just as they were, and it made me so happy when I received encouragement from people I didn’t even know. Then, one day, a classmate discovered my blog. Even though I hadn’t named anyone, it was clear my posts were all based on real events.”
+[says:kushida-kikyou] (p.126) “The next day, my posts were shared with the entire class. Everyone condemned me. I’d helped them so much, and yet they all turned on me. Selfish, right? The boy who’d told me that he liked me actually shoved me. It was understandable, though, since I’d posted that his romantic confession grossed me out and I wanted him to die. One girl I’d comforted after she was dumped even kicked my desk. I’d posted in detail about why she was dumped and made fun of her. Over thirty students decided I was their mortal enemy that day.”
+[says:kushida-kikyou] (p.126) “Neither. All I did was tell the truth. I revealed all my classmates’ secrets. Who hated who, who thought who was a disgusting creep. I exposed truths I hadn’t even written on my blog.”
+[says:kushida-kikyou] (p.127) “So, that’s how it happened.”
+[says:kushida-kikyou] (p.129) “Because of everything I exposed, the class could no longer function. The school rebuked me, but my blog was anonymous, and all I technically did was tell my classmates the truth.”
+[says:kushida-kikyou] (p.129) “I still don’t know that much about my fellow Class D students. However, I know enough to destroy a few people. That’s my only weapon.”
+[says:kushida-kikyou] (p.129) “It was a mistake to use the internet to vent my feelings. Everything you put up there is saved forever. That’s why I stopped blogging. Now, I blow off steam by saying what’s on my mind out loud when I’m alone.”
+[says:kushida-kikyou] (p.129) “This is my reason for being. More than I love anything else in the world, I love everyone respecting and noticing me. When people trust me with their secrets, I feel joy that surpasses my wildest imaginings.”
+[says:kushida-kikyou] (p.129) “Boring, isn’t it? But to me, it’s everything.”
+[says:kushida-kikyou] (p.129) “Don’t forget. If I score higher in math, both you and Ayanokouji-kun will drop out.”
+[rel:ryuuen-kakeru] (p.129–130) Involved with Ryuuen; Horikita and Ayanokōji weigh whether he wants expulsion or just her brought low.
+[note] (p.122) One line I nearly tagged as Kushida is Ayanokōji’s narration about her guts; not a spoken line.
+[note] (p.131) Blank scan (footer only).
+<!-- walk: y1v6 ch5 → p.131 -->

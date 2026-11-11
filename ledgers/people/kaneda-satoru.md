@@ -48,3 +48,10 @@ aliases used for anchors: kaneda, kaneda satoru, kaneda-kun
 [says:kaneda-satoru] (p.74) “But, Ryuuen-shi, shouldn’t we be especially suspicious of Ayanokouji-shi?”
 [rel:ishizaki-daichi] (p.73) Debates him on Yukimura vs Ayanokouji vs Hirata as mastermind material.
 <!-- walk: y1v6 ch4 → p.75 -->
+
+### y1v6 p.101, 103 — Ch.5: predicted Class C question-writer
+[scene] (p.101) Named by Yukimura as the Class C student most likely to write the final-exam questions.
+[rel:yukimura-teruhiko] (p.101) Best student in Class C; the creepy weirdo with glasses in Hasebe’s read.
+[rel:hasebe-haruka] (p.101) Hasebe’s glasses line; Yukimura does not put it that way but agrees.
+[rel:horikita-suzune] (p.103) Dorm call: Horikita wants to know whether Kaneda-kun will really be the question-maker.
+[note] (p.101, 103) No dialogue from Kaneda on these pages.

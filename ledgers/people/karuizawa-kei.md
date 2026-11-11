@@ -684,3 +684,10 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:yukimura-teruhiko] (p.73) Present with Ayanokouji at the incident site per Manabe.
 [note] (p.72–73) Karuizawa does not appear in person; she is the subject of the confession.
 <!-- walk: y1v6 ch4 → p.75 -->
+
+### y1v6 p.104, 124 — Ch.5: night-session presence and counterfactual
+[scene] (p.104) Named as present at the evening study sessions that some girls attend partly to be around Hirata.
+[rel:hirata-yousuke] (p.104) The Hirata–Karuizawa dynamic that draws the evening crowd.
+[rel:kushida-kikyou] (p.124) Counterfactual: had Kushida cooperated, she would have reached classmates Hirata and Karuizawa could not.
+[note] (p.124) No dialogue from Karuizawa on these pages.
+<!-- walk: y1v6 ch5 → p.131 -->

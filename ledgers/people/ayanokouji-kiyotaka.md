@@ -3299,3 +3299,72 @@ walk: y1v1 → DONE
 [rel:yukimura-teruhiko] (p.74) One of the two photo names; both still treated as possible pawns.
 [note] (p.75) Blank scan (footer only).
 <!-- walk: y1v6 ch4 → p.75 -->
+
+### y1v6 p.76–103 — Ch.5 §5: the quiet middleman
+[scene] (p.76) Homeroom strategy meeting; Ayanokōji watches Horikita take the podium with Hirata as her support for the first time.
+[rel:horikita-suzune] (p.76) Portmann’s premature-birth metaphor frames her as still underdeveloped but full of possibility; she bows an apology for the sports festival.
+[rel:sudou-ken] (p.77) Reads Sudou’s embarrassed smile after Horikita’s look as the one thing she gained — his alliance.
+[rel:ike-kanji] (p.80–81) Notes Ike need not study; a blank sheet would only raise Class D’s risk if taken seriously.
+[says] (p.81) “Aren’t you worried that you’re wrong about how the pairs are selected?”
+[rel:horikita-suzune] (p.81) Her confidence keeps Ike and the others standing tall; Class D is changing.
+[rel:satou-maya] (p.83–84) Paired with Satou for the final exam; she smiles his way; he raises a hand to acknowledge.
+[says] (p.83) “God really does have a bad sense of humor.”
+[rel:horikita-suzune] (p.84) Warns that Satou might fail; he must keep his own scores high from here.
+[note] (p.84) Speaker line kept as narrative — printed wording differs at the cite: There don’t appear to be any blatant problems with the pairings,
+[rel:kushida-kikyou] (p.84) Study-session plan: Kushida attends both and tutors the fifty-point worriers.
+[rel:miyake-akito] (p.85–87) Asked to manage Miyake and Hasebe into Yukimura’s group; Horikita’s request morphs into a threat he can only nod to.
+[says] (p.88) “I’ll do what I can.”
+[rel:yukimura-teruhiko] (p.88–97) Middleman between Yukimura and the pair; at Pallet, pressed on his own ability and refuses to overclaim.
+[rel:hasebe-haruka] (p.92–103) Fielded Hasebe’s romance probe and her decision to stay; relays the provisional-questions idea to Horikita.
+[note] (p.99) Short utterance: Nope.
+[rel:sakura-airi] (p.97–98) Finds Sakura watching him; invites her to sit with the group, then keeps his distance so she must choose.
+[rel:ishizaki-daichi] (p.94–97) Class C phones at the café counter; feels their gaze and Sakura’s presence before leaving for the bathroom.
+[rel:horikita-suzune] (p.103) Dorm call: tests the school’s question standards; asked to manage her sessions too — a word he does not understand.
+[says] (p.103) “That’s not what we agreed.”
+
+### y1v6 p.104–130 — Ch.5 §5.5–5.9: eavesdrop, library, the bet
+[scene] (p.104) Continues the dorm call on study-group management and Kushida; Ryuuen’s dummy-account email closes the night.
+[rel:horikita-suzune] (p.104–106) Pressed on Kushida and question leaks; told to face the worst case for Class D’s lifeline.
+[says] (p.105) “It’d certainly be difficult to rule out any possibility of leaks if we factored in Kushida. Wait, aren’t you and her both participating in the evening study sessions?”
+[says] (p.105) “Our test questions and answers are Class D’s lifeline. If that information leaks, we’re doomed,”
+[says] (p.105) “I’m not worried about the ‘creating questions’ part. If anything, I fear what comes after we submit them to the school. If you give the final questions and answers to Chabashira-sensei the day before the test, then they’ll be out there, ready to be stolen,”
+[says] (p.106) “You have to. This is about all of Class D. No matter how much we study, if our opponents get a hundred points across the board, we have no hope of winning,”
+[rel:ryuuen-kakeru] (p.106) Email arrives: “What are you?” — first reply since the sports-festival message; dummy account, no answer given.
+[rel:satou-maya] (p.107–111) Library awkwardness as study partners; her crush read; midterm near-fifty across the board.
+[says] (p.107) “I’ve been a few times,”
+[says] (p.107) “Well, it’s more like I come here to kill time.”
+[says] (p.107) “I don’t mind. Horikita and Kushida are the ones tutoring, and they should be happy to have more people.”
+[says] (p.110) “You should ask Horikita,”
+[says] (p.110) “My test scores are only slightly different from Satou’s, so there’s probably not that much I can teach her. Besides, I wanted to get some tutoring myself.”
+[says] (p.111) “Yeah…a little. Since we seem to be about the same level, we should study together.”
+[rel:horikita-suzune] (p.108–110) Library territorial rules; joint Class B study group; drawled invitation to take care of Satou-san.
+[rel:ichinose-honami] (p.108–116) Corner talk on friendship criteria; proposes Ichinose as Kushida mediator; she declines.
+[says] (p.109) “I was pretty close to failing. I might need your help,”
+[says] (p.113) “I understand that your classmates are unconditional allies. I do think it’s necessary to be friends with everyone in your boat, so to speak. However, are the Class A, C, and D students your friends?”
+[says] (p.114) “Then what if we’re in trouble? What if we came to you, begging you to lend us a million points?”
+[says] (p.114) “Sheesh. Your generosity knows no bounds. You’ll really help anyone?”
+[says] (p.114) “Although I appreciate that, I have my doubts. So, if I came crying to you, begging for help…?”
+[rel:horikita-suzune] (p.115–117) Mediator pitch rejected — “I’m going to settle things with Kushida myself.”
+[says] (p.116) “I believe I found the puzzle piece you’ll need to reconcile with Kushida.”
+[says] (p.116) “So, why not get a good person to mediate between you two? Frankly, I think nothing will come from a one-on-one conversation with Kushida. She would never reveal her true nature to anyone in Class D.”
+[says] (p.116) “I don’t think this’ll resolve everything. I’m just saying it’s a step in the right direction. Right now, you and Kushida aren’t even on good enough terms to talk. If Ichinose mediated, you could probably have an actual conversation.”
+[rel:kushida-kikyou] (p.118–130) Eavesdrops the pocket-phone confrontation; joins the bet; demands the junior-high incident told aloud.
+[says] (p.118) “Looks like I’m getting in the way,”
+[rel:horikita-suzune] (p.120–124) Offers to side-bet that Horikita wins; Kushida’s extra condition is his expulsion if she loses.
+[says] (p.124) “Can I join this wager? I bet that Horikita will win,”
+[says] (p.124) “It started out that way. But now it does have something to do with me. Besides, I eavesdropped on your conversation.”
+[says] (p.124) “I want you to tell me the specifics of this junior high incident.”
+[says] (p.124) “It’s my right to ask for this much. I don’t know any details, and yet you’re trying to get me expelled. You’re acting on the belief that Horikita knows about the incident, right? So, just explain it to us right now. As long as you beat Horikita on the test, the school will kick us both out, and you won’t have to worry.”
+[says] (p.125) “Well, I am. I can’t accept that Kushida’s threatening my whole life here on a selfish whim,”
+[says] (p.125) “Haven’t I already passed the point of no return?”
+[rel:kushida-kikyou] (p.125–129) Pressed for why the gamble is worth it; blog, secrets, and the class-destroying truth weapon laid out.
+[says] (p.125) “I’m just an average person. What you’d call a jack of all trades, master of none. If I had to pick something, I guess I’m a little faster than average.”
+[says] (p.128) “Do you want to remain as you are right now?”
+[rel:horikita-suzune] (p.129–130) After Kushida leaves: Ryuuen wants her brought low, not expelled; danger is accepted when something is staked on the outcome.
+[says] (p.129) “Are you sure about this? Kushida’s involved with Ryuuen.”
+[says] (p.130) “But what if Kushida lies to get the questions from him? She might say that she wants to improve her personal score, and keep our bet’s details secret,”
+[says] (p.130) “You’re probably right. But this is dangerous.”
+[says] (p.130) “There’s no turning back from this. We definitely need to win.”
+[rel:ryuuen-kakeru] (p.130) Would see through a Kushida lie about math answers; wants to know why.
+[note] (p.131) Blank scan (footer only).
+<!-- walk: y1v6 ch5 → p.131 -->

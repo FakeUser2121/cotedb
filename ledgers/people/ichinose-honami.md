@@ -729,3 +729,40 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [note] (p.48) No dialogue or action from Ichinose on these pages.
 
 <!-- walk: y1v6 ch3 → p.59 -->
+
+### y1v6 p.108–116 — Ch.5 §5.6–5.7: joint study group and friendship criteria
+[scene] (p.108) Enters the first-year library area with eight Class B students; waves the Class D group over.
+[rel:horikita-suzune] (p.108–116) Joint study group proposed by Horikita the day before; corner talk on who counts as a friend; mediator pitch for Kushida declined.
+[says:ichinose-honami] (p.109) “Oh no, not at all. We just got here ourselves,”
+[says:ichinose-honami] (p.109) “Ayanokouji-kun, you came, too!”
+[says:ichinose-honami] (p.109) “Oh no, I’m sure I’m the one who needs help,”
+[says:ichinose-honami] (p.110) “I see. In that case, I’ll tutor you both,”
+[rel:ayanokouji-kiyotaka] (p.109–114) Greets him; tutors the Satou–Ayanokōji pair; fielded on million-point and Ryuuen limits.
+[says:ichinose-honami] (p.112) “Wow, Class D sure is lively. I almost wish you’d share some of that energy with us!”
+[says:ichinose-honami] (p.113) “Hmm? What kind of questions?”
+[says:ichinose-honami] (p.113) “A few minutes? All right. Sorry, everybody, but could you please wait for me in the hall?”
+[says:ichinose-honami] (p.113) “Um, yeah? Isn’t that only natural?”
+[note] (p.113) Of course,
+[says:ichinose-honami] (p.113) “Hmm. What do you mean?”
+[says:ichinose-honami] (p.113) “No matter how the other person acted, I’d be on Class B’s side. If someone were in trouble, I’d definitely try to help.”
+[says:ichinose-honami] (p.113) “Hmm. I’m not sure. If they really hated me, my best option would be to avoid contact as much as possible, to keep them from disliking me even more,”
+[note] (p.114) Help them,
+[says:ichinose-honami] (p.114) “Even if they really hated me, I’m always Class B’s ally.”
+[says:ichinose-honami] (p.114) “Yes. They’re all good kids. I admit that, at first, I was sad I wasn’t in Class A. But now, I think I’m in the best class. Don’t you feel the same, Horikita?”
+[says:ichinose-honami] (p.114) “Well, you and Horikita-san are dear friends to me, Ayanokouji-kun.”
+[says:ichinose-honami] (p.114) “If there were a good reason, I’d help. The amount doesn’t matter,”
+[says:ichinose-honami] (p.114) “Ideally, yes, but I know it’s not always that simple. There’s a limit to how much I can do myself. If Ryuuen-kun were in trouble, I couldn’t help him like I help others. But if it’s within my power, I’ll help,”
+[says:ichinose-honami] (p.114) “As long as you’re my friend, a problem’s nature or intensity doesn’t matter.”
+[rel:ryuuen-kakeru] (p.114) Explicit limit: would not help Ryuuen the way she helps others.
+[says:ichinose-honami] (p.115) “I’d welcome you with open arms.”
+[says:ichinose-honami] (p.115) “You mean if I had to pick one of you?”
+[says:ichinose-honami] (p.115) “Sorry. I don’t know how to answer that. In a hypothetical scenario like that, no matter who I helped, I’d hurt someone else.”
+[rel:kanzaki-ryuuji] (p.115) Named with Horikita as the impossible-choice pair.
+[says:ichinose-honami] (p.115) “You’re giving me far too much credit, Horikita-san.”
+[says:ichinose-honami] (p.115) “I’m really not so wonderful,”
+[says:ichinose-honami] (p.115) “It’s okay. You didn’t really make me uncomfortable.”
+[says:ichinose-honami] (p.115) “Is that all you wanted to talk about? Chihiro-chan and the others are waiting on me. Can we call it a day?”
+[says:ichinose-honami] (p.115) “No problem. Well, I’ll see you tomorrow,”
+[rel:horikita-suzune] (p.116) Mediator for Kushida declined — Horikita will settle it herself.
+[note] (p.116) Does not appear for the Kushida confrontation stretch; only the earlier library and corner talk.
+<!-- walk: y1v6 ch5 → p.131 -->

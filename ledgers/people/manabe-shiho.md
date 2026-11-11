@@ -219,3 +219,9 @@ char_id: manabe-shiho · class: Class 1-C · status: minor
 [says:manabe-shiho] (p.73) “I-I deleted it. If someone saw it, then we…”
 [rel:ibuki-mio] (p.72) Ibuki rejects Ryuuen’s wild time framing of their threatened position.
 <!-- walk: y1v6 ch4 → p.75 -->
+
+### y1v6 p.106 — Ch.5: email address route (named only)
+[scene] (p.106) Named as one of the Class C friends Ayanokōji asked for Ryuuen’s email address after the sports festival.
+[rel:ryuuen-kakeru] (p.106) Route to Ryuuen’s contact; the dummy-account message is the only reply so far.
+[note] (p.106) No dialogue or action from Manabe on these pages.
+<!-- walk: y1v6 ch5 → p.131 -->

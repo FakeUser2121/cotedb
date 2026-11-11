@@ -281,3 +281,17 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [rel:ryuuen-kakeru] (p.70) This wasn’t former-president Horikita or current-president Nagumo’s style of authority.
 [note] (p.70) No dialogue or action from Horikita Manabu on these pages.
 <!-- walk: y1v6 ch4 → p.75 -->
+
+### y1v6 p.120–122 — Ch.5: summoned as the bet’s witness
+[scene] (p.120) Horikita asks niisan; the former student council president appears as the reliable witness to the mathematics bet.
+[rel:horikita-suzune] (p.120–122) Her older brother; she trusts him most at this school; he was called for nothing more than witness.
+[rel:kushida-kikyou] (p.121–122) “It’s been a long time, Kushida.” … “I don’t forget people.” — same junior high, but he graduated before the incident.
+[says:horikita-manabu] (p.121) “It’s been a long time, Kushida,”
+[says:horikita-manabu] (p.121) “Do you remember me?”
+[says:horikita-manabu] (p.121) “I was called to act as witness, nothing more. I’m not interested in anything else.”
+[says:horikita-manabu] (p.121) “She made the bet. It has nothing to do with me.”
+[says:horikita-manabu] (p.121) “I will fulfill my role as witness. Should either of you violate the bet,”
+[says:horikita-manabu] (p.121) “you’d best be prepared for the consequences.”
+[rel:horikita-suzune] (p.122) After retiring as president he still held great authority; Kushida would honour the arrangement until he graduated.
+[note] (p.122) No further dialogue on these pages.
+<!-- walk: y1v6 ch5 → p.131 -->
