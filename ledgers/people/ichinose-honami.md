@@ -721,3 +721,11 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [passing mention] (p.14) First year on the outgoing council; no dialogue or action beyond watching.
 
 <!-- walk: y1v6 ch2 → p.29 -->
+
+### y1v6 p.40, 48 — Ch.3: named as a watcher and a threat-list name
+[scene] (p.40) After the relay, Ayanokouji’s inner note: Ichinose wants the identity of the person pulling Horikita’s strings.
+[rel:horikita-suzune] (p.40) Same curiosity about the hidden hand behind Class D’s rise.
+[rel:kushida-kikyou] (p.48) Named on Kushida’s list of people she would work with to drive Horikita out.
+[note] (p.48) No dialogue or action from Ichinose on these pages.
+
+<!-- walk: y1v6 ch3 → p.59 -->

@@ -279,3 +279,16 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [note] (p.176) Sudou’s ally-bargain close: he had to withdraw, and Kouenji-kun was absent from the start.
 [note] (p.190) Two absentees, Kouenji and Sakayanagi, factored majorly into the fourth-place first-year finish.
 [note] (p.195) Ryuuen’s hallway scene: back at the start of the semester, Horikita tried to convince Kouenji-kun to give up his bus seat.
+
+## y1v6
+
+<!-- walk: y1v6 → start -->
+
+### y1v6 p.44, 47 — Ch.3: bus seat and bare-hands limit
+[scene] (p.44) Named in the first-day bus memory: he also refused to give up his seat for the elderly woman.
+[rel:kushida-kikyou] (p.44) His refusal did not make him the unique target of Kushida’s hate — Suzune alone is hated.
+[rel:horikita-suzune] (p.47) Cited as someone Horikita cannot imagine defeating with her bare hands.
+[says:horikita-suzune] (p.47) “I can’t imagine defeating Sudou-kun or Kouenji-kun with my bare hands. Besides, there are also people like you whose strengths I don’t fully know”
+[rel:sudou-ken] (p.47) Named with Sudou as the physical-strength floor of the class.
+
+<!-- walk: y1v6 ch3 → p.59 -->

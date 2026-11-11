@@ -141,3 +141,11 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.23) No dialogue or action from Sakayanagi on these pages.
 
 <!-- walk: y1v6 ch2 → p.29 -->
+
+### y1v6 p.48, 51 — Ch.3: on Kushida’s list and Ayanokouji’s past
+[scene] (p.48) Named on Kushida’s threat list: she would work with Sakayanagi to drive Horikita out.
+[rel:kushida-kikyou] (p.48) Part of Kushida’s “any means necessary” coalition.
+[rel:ayanokouji-kiyotaka] (p.51) Inner note: Sakayanagi knows his past; Chabashira had mentioned a man who wanted to see him — peace was never a full option.
+[note] (p.51) No dialogue or action from Sakayanagi on these pages.
+
+<!-- walk: y1v6 ch3 → p.59 -->

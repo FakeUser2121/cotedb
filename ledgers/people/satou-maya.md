@@ -36,3 +36,9 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [rel:karuizawa-kei] (p.21, 25) Karuizawa already knew the confession was coming; Satou told her in advance.
 
 <!-- walk: y1v6 ch2 → p.29 -->
+
+### y1v6 p.31 — Ch.3: named in the low-score climb
+[scene] (p.31) Posted in the bottom group on the midterm list, between Inogashira and Sotomura.
+[passing mention] (p.31) No dialogue in this chapter; only the results climb.
+
+<!-- walk: y1v6 ch3 → p.59 -->

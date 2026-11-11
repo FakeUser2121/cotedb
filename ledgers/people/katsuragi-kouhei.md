@@ -425,3 +425,10 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [trait] (p.24) Observant enough to have clocked the relay speed in the chaos; conscientious; dissatisfied with the school’s structure.
 
 <!-- walk: y1v6 ch2 → p.29 -->
+
+### y1v6 p.48 — Ch.3: on Kushida’s threat list
+[scene] (p.48) Named on Kushida’s list of people she would work with to drive Horikita out.
+[rel:kushida-kikyou] (p.48) Part of Kushida’s “any means necessary” coalition against Suzune.
+[note] (p.48) No dialogue or action from Katsuragi on these pages.
+
+<!-- walk: y1v6 ch3 → p.59 -->

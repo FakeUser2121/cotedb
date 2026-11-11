@@ -2100,3 +2100,98 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ike-kanji] (p.17) Names Ike and Yamauchi as the friends who stopped inviting him out.
 
 <!-- walk: y1v6 ch2 → p.29 -->
+
+### y1v6 p.31–33 — Ch.3: calm at the results, tutoring credit
+[scene] (p.31) Not nervous while results post from the bottom; rebukes Sudou’s celebration.
+[rel:sudou-ken] (p.32) Credits study group and an easy midterm; “other significant factors” still helped.
+[rel:ayanokouji-kiyotaka] (p.32) Her score to him: 64 “so mediocre” — tells him to stop fooling around.
+[says:horikita-suzune] (p.32) “You have an average of sixty-four points. That’s so mediocre. Why don’t you stop fooling around and get serious?”
+[rel:chabashira-sae] (p.33) “You praising us feels weird” — she reads the gentler tone as the creepier signal.
+[rel:ike-kanji] (p.33) Named as hard to fool about the praise.
+
+### y1v6 p.37–38 — Ch.3: notes and the attack rules
+[rel:chabashira-sae] (p.37) Picks up her pen to take notes at the same moment as Ayanokouji; he puts his down.
+[says:horikita-suzune] (p.37) “So, there’s another thing we have to do?”
+[rel:chabashira-sae] (p.38) Works the one-on-one class attack example (A vs B and D) to expose the mutual-cancel case.
+[says:horikita-suzune] (p.38) “But let’s say Class A attacks Class B, and Class D attacks Class A,”
+[says:horikita-suzune] (p.38) “If Class A successfully carries out their attack on Class B while simultaneously defending against Class D, they’ll gain a total of one hundred points. However, if Class A attacks Class D and Class D attacks Class A, won’t things just cancel each other out?”
+[rel:yukimura-teruhiko] (p.36) Named with him as an excellent student still at risk on partner assignment.
+
+### y1v6 p.40–43 — Ch.3 §3.1: meeting call and the offer of Kushida’s truth
+[scene] (p.40) Calls the strategy meeting; walks to Sudou while Ayanokouji fetches Hirata.
+[rel:ayanokouji-kiyotaka] (p.40–41) Three-key-points breakdown of Chabashira’s hints; her perfect concise summary earns his smile.
+[says:horikita-suzune] (p.41) “Yes. I noticed,”
+[says:horikita-suzune] (p.41) “The three key points Chabashira-sensei made were that the short test won’t affect our grades, that the criteria for the combined scores hadn’t been decided yet, and that they’d determine our partners after the short test.”
+[rel:hirata-yousuke] (p.41–42) Sends him and Karuizawa (and Kushida) to Pallet first.
+[rel:karuizawa-kei] (p.41–42) Understands it would be unwise to antagonize her right now.
+[rel:kushida-kikyou] (p.42–43) Invited Kushida deliberately; keeps Ayanokouji for the walk; offers everything she knows.
+[says:horikita-suzune] (p.43) “I’ll tell you everything I know about her,”
+[says:horikita-suzune] (p.43) “Honestly, I don’t want to go around spreading rumors, but I think informing you is necessary.”
+[rel:sudou-ken] (p.42) Accepts his club detour.
+
+### y1v6 p.43–48 — Ch.3 §3.1: the junior-high incident
+[scene] (p.43) On a campus detour she opens the Kushida story: same junior high, different prefecture, first-day bus.
+[rel:kushida-kikyou] (p.43–44) Did not remember her then; junior high over a thousand students, never same class; recalled after the first-semester study group.
+[rel:kushida-kikyou] (p.44) Bus seat scene: elderly woman forced to stand; Kushida asked for a seat; no one offered at first.
+[rel:kouenji-rokusuke] (p.44) Also refused the seat — not the unique cause of the hate.
+[says:horikita-suzune] (p.44) “I didn’t know Kushida-san back then. Well, to be more accurate, I didn’t remember her”
+[says:horikita-suzune] (p.44) “Yes. We attended the same junior high, but it was in a completely different prefecture. Even in her wildest dreams, she probably never imagined that someone from her junior high would end up here too”
+[says:horikita-suzune] (p.44) “No idea. Like I said, I didn’t interact with her. However, she was incredibly popular. Looking back, I remember classmates rallying around her during all kinds of events. She was nice to everyone, sociable, and well liked. She had the same level of influence as the student council”
+[says:horikita-suzune] (p.45) “In February of our third year, just as graduation approached, one entire class fell apart.”
+[says:horikita-suzune] (p.45) “No. Apparently, a certain female student triggered an incident that destroyed her class. They didn’t recover until graduation”
+[says:horikita-suzune] (p.45) “It was Kushida-san. But I don’t know the details. The school completely buried the incident. If it became public knowledge, their credibility would take a hit. It would even affect graduates who wanted to advance to higher education or find a job. Still, the school couldn’t suppress everything. Rumors started to spread”
+[says:horikita-suzune] (p.45) “Some students said that the classroom was in complete disarray right after the incident. The blackboard and desks were covered with all kinds of slanderous scribblings.”
+[says:horikita-suzune] (p.45) “I don’t know. So many rumors floated around. Someone was being bullied, or they were doing the bullying. I even heard rumors about violence, though the details were vague. But then the rumors stopped in the blink of an eye. No one wanted to talk about it. Even though a whole class nearly fell apart, people suddenly acted as if nothing had happened.”
+[rel:ayanokouji-kiyotaka] (p.46–47) Worked through violence vs authority vs lies as the class-destroying weapon; concludes Kushida likely lied.
+[says:horikita-suzune] (p.47) “I want to say ‘authority,’ but how many students have authority like that?”
+[says:horikita-suzune] (p.47) “Then what is it? What can bring an entire class to its knees?”
+[says:horikita-suzune] (p.47) “I can’t say for sure. Hypothetically speaking, I couldn’t overcome some people in our class with violence. I can’t imagine defeating Sudou-kun or Kouenji-kun with my bare hands. Besides, there are also people like you whose strengths I don’t fully know”
+[says:horikita-suzune] (p.47) “I can’t see Kushida-san using much violence. So, if the options are violence or lies, it’s only natural to conclude that she lied to destroy her class”
+[rel:katsuragi-kouhei] (p.48) Kushida’s threat: would work with Katsuragi, Sakayanagi or Ichinose to drive Horikita out.
+[rel:sakayanagi-arisu] (p.48) Same threat list.
+[rel:ichinose-honami] (p.48) Same threat list.
+[rel:ryuuen-kakeru] (p.48) Already allied with Kushida to entrap her.
+[says:horikita-suzune] (p.48) “Kushida-san told me that she’d use any means necessary to get rid of anyone who knew about her past. That she’d even work with Katsuragi-kun, Sakayanagi-san, or Ichinose-san to drive me out. She’s already formed an alliance with Ryuuen-kun to entrap me. She won’t stop as long as I’m here, even if Class D suffers”
+
+### y1v6 p.48–51 — Ch.3 §3.1: refuse to abandon, then the Ryuuen thanks
+[rel:ayanokouji-kiyotaka] (p.48–49) Her plan is to talk Kushida down; Ayanokouji floats expulsion; she refuses and owns it as her responsibility.
+[says:horikita-suzune] (p.49) “I still think my best option is to talk to her. Am I wrong?”
+[rel:sudou-ken] (p.49) Cites his near-failure and turnaround as the reason not to abandon people with something to offer.
+[says:horikita-suzune] (p.49) “I didn’t think you’d propose something like that. When I decided to let Sudou-kun fail months ago, you were the one who convinced me to help him instead. And I understood. We couldn’t turn our backs on a person with something to offer. To tell you the truth, if I’d abandoned Sudou-kun back then, the sports festival probably would’ve ended even more disastrously. And you saw how much he improved on the midterm. Am I wrong?”
+[says:horikita-suzune] (p.49) “She’s an excellent student. Not only can she win people’s hearts and minds, she’s also a keen observer. If we make her our ally, she’ll be a great asset.”
+[says:horikita-suzune] (p.49) “This is my responsibility. I can’t just abandon her. I’m sure she’ll understand”
+[rel:ryuuen-kakeru] (p.50) Stops him to ask what he did to Ryuuen at the sports festival; accepts the recording answer.
+[says:horikita-suzune] (p.50) “What did you do to Ryuuen-kun at the sports festival?”
+[says:horikita-suzune] (p.50) “You mean, you recorded the conversation Ryuuen-kun had with the Class C students? When he discussed his strategy?”
+[says:horikita-suzune] (p.50) “It can’t have been easy to get that recording. How did you do it? Ryuuen-kun said there was a spy, but you’re not friends with anyone from Class C, are you?”
+[says:horikita-suzune] (p.50) “Another thing. I was angry that you came to my rescue like that, because it meant that you thought I would fail. But I suppose I was about to fail, so…I can’t argue with you. Since you forbade me from prying into your affairs, I can’t demand that you tell me more. Though it was troubling, it… Well, if you hadn’t done anything, I would’ve… Well, thank you”
+[rel:karuizawa-kei] (p.50) Narration: she does not know about Manabe’s cruise-ship harassment of Karuizawa.
+[says:horikita-suzune] (p.50) “Are you sure you’re okay with being this conspicuous? Ryuuen-kun is now convinced that someone in Class D is working behind the scenes, and you’re probably on his list, Ayanokouji-kun. I think the peaceful life you wanted is in jeopardy”
+[says:horikita-suzune] (p.51) “I’m starting to understand you less and less”
+[rel:sakayanagi-arisu] (p.51) Ayanokouji’s inner note: Sakayanagi knows his past; peace was never a full option.
+
+### y1v6 p.52–58 — Ch.3 §3.2: Pallet chairing
+[scene] (p.52) Takes her seat and immediately opens the short-test discussion; 3:50 p.m., clubs at 4:30.
+[rel:karuizawa-kei] (p.52) Glare for lateness gets a straight “Let’s get started.”
+[says:horikita-suzune] (p.52) “Let’s get started. After all, Hirata-kun has club activities, right?”
+[rel:sudou-ken] (p.52–53) Explains partner-selection stakes to him; “Do you understand, Sudou?”
+[says:horikita-suzune] (p.53) “There must be some kind of process to select the pairs.”
+[says:horikita-suzune] (p.53) “If we discover that process, we can gain a clear advantage in the final.”
+[rel:hirata-yousuke] (p.53–55) Takes his upperclassman-verification idea; walks the balanced-pairs inference with him.
+[says:horikita-suzune] (p.54) “This is all just hypothetical, but if we don’t discover the process behind the pairing, the results could be devastating. Chabashira-sensei said this is the first time that Class D has made it this far without anyone being expelled. She also said that, in previous years, only one or two pairs were typically expelled, right? Isn’t that strange?”
+[says:horikita-suzune] (p.55) “The pairs are made up of a high-scoring student and a low-scoring student,”
+[says:horikita-suzune] (p.55) “It can’t be any other way. So, if I scored a hundred points, and Sudou-kun scored zero points, we’d be the pair with the most significant difference between our scores. That means we’d produce balanced results on the test, because our scores would even out.”
+[says:horikita-suzune] (p.55) “Yes. The more average someone’s grades are, the greater the danger.”
+[rel:kushida-kikyou] (p.55) Tasks her and Hirata with senior-student confirmation.
+[rel:karuizawa-kei] (p.55–56) Even-class-number answer: expulsion would force the whole class to bear consequences.
+[rule] (p.55) Enrollment classes A–D all even; no expulsions yet so sizes unchanged; a future expulsion would create odd pairs and penalties.
+[rel:sudou-ken] (p.56–57) Notes his quiet observation; agrees the one-on-one path through Class C is right.
+[says:horikita-suzune] (p.56) “Which class do we nominate as our opponent? In my mind, we should be going after Class C,”
+[says:horikita-suzune] (p.56) “Their collective academic ability is their big weakness. Class C is inferior to Classes A and B in academics. Looking at the class points so far, that’s plain to see.”
+[rel:hirata-yousuke] (p.56–58) Accepts his lottery worst-case; takes his agreement as the plan’s close.
+[says:horikita-suzune] (p.57) “There’s no doubt Class A is better academically. But I don’t think the difference is that extreme. There does seem to be quite a stark difference between B and C, I think. Hmm, I’ll have to investigate this”
+[rel:ayanokouji-kiyotaka] (p.58) Final exchange: she will assign him an appropriate role; wants to win.
+[says:horikita-suzune] (p.58) “So, I can count on you?”
+[says:horikita-suzune] (p.58) “Let me think about it. You’re a member of Class D, after all, and I’d like to give you an appropriate role. I want us to win”
+
+<!-- walk: y1v6 ch3 → p.59 -->

@@ -30,3 +30,13 @@ char_id: inogashira-kokoro · class: Class 1-D · status: minor
 [rel:sakura-airi] (p.62) Their third-place-last finish is what prompts Horikita and Onodera to try the race again.
 
 <!-- walk: y1v5 ch4 → p.67 -->
+
+## y1v6
+
+<!-- walk: y1v6 → start -->
+
+### y1v6 p.31 — Ch.3: named in the low-score climb
+[scene] (p.31) Posted third from the bottom on the midterm list, between Ike and Satou.
+[passing mention] (p.31) No dialogue; appears only on the results climb.
+
+<!-- walk: y1v6 ch3 → p.59 -->

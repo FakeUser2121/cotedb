@@ -910,3 +910,35 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:ike-kanji] (p.17) Named with Yamauchi as recipients of the softer treatment.
 
 <!-- walk: y1v6 ch2 → p.29 -->
+
+### y1v6 p.31–33 — Ch.3: personal-best midterm
+[scene] (p.31) Expected at the bottom again; instead climbs to twelfth with average 57 even after sports-festival points are removed.
+[says:sudou-ken] (p.31) “I just obliterated a personal best! Dude, I almost got an average score”
+[note] (p.32) The shout continues across the page marker with “of sixty!”; he shoots up and dances with joy.
+[action] (p.32) Shoots up and dances with joy until Horikita rebukes him.
+[rel:horikita-suzune] (p.32) “That’s not good enough to merit such a fuss” / “Especially since your sports festival points helped.” — he sits back down like a faithful dog.
+[says:sudou-ken] (p.33) “Obviously. I’m looking forward to next month’s private points, sensei!”
+[rel:horikita-suzune] (p.32, 37) She tutored him one-on-one on free days; English 52; “power of love” line from narration.
+[rel:chabashira-sae] (p.31, 33) Her compliment that no one drops out this time rides on his improvement.
+
+### y1v6 p.35, 37, 40, 42 — Ch.3 §3.1: partner panic and the meeting call
+[says:sudou-ken] (p.35) “Wait, what kind of impact? Can you tell us?”
+[rel:chabashira-sae] (p.35–37) Drawn-out rules exacerbate his frustration; later the bottom-partner jab at Yamauchi.
+[rel:yamauchi-haruki] (p.37) “Ugh! Ken’s humiliating me!” — Sudou’s studying claim back.
+[rel:horikita-suzune] (p.40) Horikita walks over to him when the meeting is called.
+[rel:horikita-suzune] (p.42) Asks to peek at basketball club first; she agrees.
+
+### y1v6 p.49, 52–58 — Ch.3 §3.1–§3.2: the Sudou precedent and Pallet
+[rel:horikita-suzune] (p.49) His earlier near-expulsion and turnaround is the precedent Horikita uses against “give up on Kushida.”
+[scene] (p.52) Present at Pallet with Hirata, Karuizawa, Kushida and the two Horikita-side planners.
+[rel:kushida-kikyou] (p.53–55) Somber at partner-selection talk; bangs forehead; then restrained one-on-one case for targeting Class C.
+[says:sudou-ken] (p.53) “What’s that mean, Ayanokouji?”
+[rel:ayanokouji-kiyotaka] (p.53) “It means that controlling the short test’s outcome is necessary to clear the final exam” — Sudou’s “Yeah, that’s what I thought” is an obvious lie.
+[says:sudou-ken] (p.53) “So what? Will they match up the people who scored closest together or something?”
+[note] (p.54) Sudou bangs his forehead against the table in resignation — a one-word “Nope,” too short to quote.
+[says:sudou-ken] (p.54) “Isn’t that kinda weird?”
+[says:sudou-ken] (p.57) “Well, we just gotta defeat our opponents one-on-one, right? We can’t immediately jump up to Class A in one shot. So, attacking the class we’re closest to—C—makes the most sense”
+[rel:horikita-suzune] (p.57) Her “You’re awfully quiet” probe; surprise at his observant restraint.
+[rel:hirata-yousuke] (p.58) Leaves with him for club activities after the meeting.
+
+<!-- walk: y1v6 ch3 → p.59 -->

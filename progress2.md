@@ -1957,3 +1957,24 @@ stamped `y1v6 ch2 → p.29`. Blanks p.20 and p.29 noted. verify y1v6: 40
 [says] ALL PASS + 19 non-says ALL PASS; make check OK (R18 0, R19
 82/82); gate exit 0; hash `c97c59ab5fd290194fcb0b0f5ddb57cc` twice. New
 tags: none. Next: ch3 p.30–59 (30 pp).
+
+### y1v6 ch3 (pp.30–59) — walked
+The Paper Shuffle: midterms post from the bottom (Sudou avg 57),
+Chabashira’s full final-exam briefing (pairs, ~700 aggregate, question
+creation, class-vs-class 50-point swings), meeting call, the junior-high
+Kushida incident on the campus detour (lies as the class-destroying
+weapon; threat list; Ryuuen alliance), Horikita refuses to expel her,
+sports-festival recording put to Ayanokouji, Pallet balanced-pair
+strategy and Class C nomination. People stamped: ayanokouji-kiyotaka,
+chabashira-sae, hirata-yousuke, horikita-suzune, ike-kanji,
+ichinose-honami, inogashira-kokoro, karuizawa-kei, katsuragi-kouhei,
+kouenji-rokusuke, kushida-kikyou, manabe-shiho, ryuuen-kakeru,
+sakayanagi-arisu, satou-maya, sotomura-hideo, sudou-ken,
+yamauchi-haruki, yukimura-teruhiko; volume stamped `y1v6 ch3 → p.59`.
+Horikita Manabu not named this chapter (scan false positive from
+“Horikita”). R19 regression caught pre-ship: “roundabout thank-you”
+matched \byou\b via the hyphen — reworded to “words of thanks” in
+ayanokouji and volume rows; baseline restored 82/82. verify y1v6: 159
+[says] ALL PASS + 50 non-says ALL PASS; make check OK (R18 0, R19
+82/82); gate exit 0; hash `ee9036a4b4578c50d8b966d45e91ec92` twice. New
+tags: none. Next: ch4 p.60–75.

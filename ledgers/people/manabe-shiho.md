@@ -191,3 +191,11 @@ char_id: manabe-shiho · class: Class 1-C · status: minor
 [note] (p.27) Manabe does not appear in person on these pages.
 
 <!-- walk: y1v6 ch2 → p.29 -->
+
+### y1v6 p.50 — Ch.3: cruise-ship backstory named
+[scene] (p.50) Ayanokouji’s inner note while answering Horikita: she does not know about the trouble Manabe and friends caused Karuizawa on the cruise ship.
+[rel:karuizawa-kei] (p.50) The harassment is the unspoken source of his Class C information.
+[rel:ryuuen-kakeru] (p.50) Context for the recording: Class C strategy talk; Ryuuen is the behind-the-scenes power over Manabe’s group.
+[note] (p.50) No dialogue or action from Manabe on these pages.
+
+<!-- walk: y1v6 ch3 → p.59 -->

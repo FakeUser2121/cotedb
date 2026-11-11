@@ -477,3 +477,14 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [narrates] (p.23) Does not appear in person on these pages — named in dialogue and inner recollection only.
 
 <!-- walk: y1v6 ch2 → p.29 -->
+
+### y1v6 p.40, 48, 50–51 — Ch.3: watcher, ally, recording target
+[scene] (p.40) Inner note: Ryuuen wants the identity of the person pulling Horikita’s strings after the relay.
+[rel:kushida-kikyou] (p.48) Already formed an alliance with Kushida to entrap Horikita.
+[rel:horikita-suzune] (p.50–51) The sports-festival recording is put to him; Horikita warns he now has Ayanokouji on his list.
+[rel:ayanokouji-kiyotaka] (p.50) “All I did was ensure that Ryuuen’s plans were crushed” — the Class C strategy talk was recorded.
+[says:horikita-suzune] (p.50) “What did you do to Ryuuen-kun at the sports festival?”
+[rel:karuizawa-kei] (p.50) Narration only: Manabe’s cruise harassment of Karuizawa is the unspoken source of his Class C access.
+[note] (p.51) Does not appear in person on these pages.
+
+<!-- walk: y1v6 ch3 → p.59 -->

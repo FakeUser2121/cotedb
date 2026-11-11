@@ -166,3 +166,11 @@ char_id: sotomura-hideo · class: Class 1-D (enrolled April 2015) · status: min
 [passing mention] (p.17) Called “the Professor” in narration; no dialogue on these pages.
 
 <!-- walk: y1v6 ch2 → p.29 -->
+
+### y1v6 p.31 — Ch.3: sports-festival penalty
+[scene] (p.31) Named among the lowest sports-festival scorers of any grade.
+[rule] (p.31) Bottom ten lose ten points from every midterm subject; he needs ten extra per subject to compensate.
+[rel:ike-kanji] (p.31) Named in the low-score climb with Inogashira, Satou and Sotomura after Yamauchi and Ike.
+[note] (p.31) Always middling scores; the penalty pushed him this low.
+
+<!-- walk: y1v6 ch3 → p.59 -->

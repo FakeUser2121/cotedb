@@ -3208,3 +3208,77 @@ walk: y1v1 → DONE
 [note] (p.29) Blank scan (footer only).
 
 <!-- walk: y1v6 ch2 → p.29 -->
+
+### y1v6 p.30–39 — Ch.3 §3: midterm results and the Paper Shuffle rules
+[scene] (p.30) Chabashira posts midterms; Class D has matured; no one fails this round.
+[rel:chabashira-sae] (p.30) Her warning about expulsion for failing grades is genuine; surveillance cameras watch for reactions.
+[says:chabashira-sae] (p.30) “The school will expel you immediately if you fail the midterm or final exam. I told you as much before, so I imagine it’s fresh in your memory.”
+[rel:sudou-ken] (p.31–32) Sudou’s jump from bottom to twelfth (average 57) with sports-festival points stripped still remarkable; Horikita tutored the failing group.
+[rel:horikita-suzune] (p.32) Her score to him: 64 “so mediocre”; he keeps the mediocre-student cover.
+[rel:ike-kanji] (p.33–38) Ike’s school evaluation (spending money, food, games, girls); his quiz wail; his frustration about question creation.
+[rel:hirata-yousuke] (p.34–36, 38–39) Exemplary school-liking answer; partner-system questions; 400-question workload flusters him.
+[rel:yukimura-teruhiko] (p.36) Named with Horikita as an excellent student who could still be at risk depending on partner.
+[rel:kouenji-rokusuke] (p.44) Recalls Kouenji also refused to give up the bus seat.
+[rel:yamauchi-haruki] (p.31, 37) Yamauchi bottoms the list (English 43); later jabs at partnering with the bottom student.
+[rel:sotomura-hideo] (p.31) Sports-festival penalty: needs ten extra points per subject.
+[rel:satou-maya] (p.31) Named in the low-score climb with Inogashira and Sotomura.
+[rel:inogashira-kokoro] (p.31) Named in the low-score climb.
+[rel:chabashira-sae] (p.34–39) Midterm→short test→Paper Shuffle rules, 700-point aggregate, 60 per subject, question creation, class-vs-class 50-point swings, nomination lots.
+[rule] (p.31) Passing grade 40 per subject; sports-festival over-100 scores capped at perfect; bottom ten lose 10 per subject.
+[rule] (p.35–36) Final exam: pairs from short test; under 60 combined in any subject expels both; aggregate target historically ~700.
+[rule] (p.37–38) Cheating expels both partners; class writes 400 questions for another class; higher class score takes 50 points.
+[note] (p.39) “Paper Shuffle” named as the usual title for this exam.
+
+### y1v6 p.40–42 — Ch.3 §3.1: meeting call and Kushida’s invitation
+[scene] (p.40) After class Horikita asks Ayanokouji to fetch Hirata; he weighs distancing from her now that Ryuuen and Ichinose want the hidden hand identified.
+[rel:ichinose-honami] (p.40) Named as wanting the identity of the person pulling Horikita’s strings.
+[rel:ryuuen-kakeru] (p.40) Same: wants that identity after the relay.
+[rel:horikita-suzune] (p.40–41) Her three-key-points breakdown of Chabashira’s hints impresses him; she is becoming the class commander.
+[rel:hirata-yousuke] (p.41–42) Arrives; calls Karuizawa over; the group moves to Pallet.
+[rel:karuizawa-kei] (p.41–42) Hugs Hirata’s arm to demand Pallet; releases it when eyes meet Ayanokouji’s.
+[rel:kushida-kikyou] (p.42–43) Asks to join; Horikita planned to invite her anyway; Ayanokouji flags the sports-festival betrayal risk.
+[rel:sudou-ken] (p.42) Asks to peek in on club first; Horikita agrees.
+[rel:horikita-suzune] (p.43) Keeps him for the Pallet talk: intermediary between Hirata and Karuizawa; offers everything she knows about Kushida.
+
+### y1v6 p.43–48 — Ch.3 §3.1: the junior-high incident on the walk
+[scene] (p.43) On a detour away from Pallet, Horikita begins the Kushida story — first-day bus, same junior high in another prefecture.
+[rel:kushida-kikyou] (p.43–44) Same junior high; she did not remember Horikita then; bus seat scene with the elderly woman and Kouenji’s refusal.
+[rel:kouenji-rokusuke] (p.44) Also refused the bus seat — not the cause of Kushida’s hate.
+[rel:kushida-kikyou] (p.44) Junior high: incredibly popular, same level of influence as the student council.
+[says:horikita-suzune] (p.45) “In February of our third year, just as graduation approached, one entire class fell apart.”
+[rel:kushida-kikyou] (p.45–46) A certain female student triggered an incident that destroyed her class; school buried it; rumors of slander, bullying, violence — then silence.
+[rel:kushida-kikyou] (p.46–47) Kushida believes Horikita knows everything; tension is one-sided misunderstanding; Ayanokouji frames lies as the weapon that could destroy a class.
+[rel:kushida-kikyou] (p.48) Kushida threatened any means to drive Horikita out — Katsuragi, Sakayanagi, Ichinose, and already an alliance with Ryuuen.
+[rel:katsuragi-kouhei] (p.48) Named on Kushida’s expulsion list.
+[rel:sakayanagi-arisu] (p.48) Named on Kushida’s expulsion list.
+[rel:ichinose-honami] (p.48) Named on Kushida’s expulsion list.
+[rel:ryuuen-kakeru] (p.48) Already allied with Kushida to entrap Horikita.
+
+### y1v6 p.48–51 — Ch.3 §3.1: expel-or-befriend, then the Ryuuen question
+[scene] (p.48) Ayanokouji suggests giving up on Kushida for Class A; Horikita refuses and owns the problem as her responsibility.
+[rel:kushida-kikyou] (p.49) Horikita cites Sudou’s turnaround as proof people with something to offer should not be abandoned.
+[rel:sudou-ken] (p.49) The prior decision not to let him fail is cited back at Ayanokouji.
+[rel:kushida-kikyou] (p.49) Ayanokouji’s warning: as long as Suzune is here, Kushida will sabotage and Class D may pay.
+[says:horikita-suzune] (p.49) “She’s an excellent student. Not only can she win people’s hearts and minds, she’s also a keen observer. If we make her our ally, she’ll be a great asset.”
+[rel:ryuuen-kakeru] (p.50) Horikita asks what he did to Ryuuen at the sports festival; he confirms recording Ryuuen’s Class C strategy talk.
+[rel:manabe-shiho] (p.50) Narration: Horikita does not know about Manabe and friends harassing Karuizawa on the cruise.
+[rel:karuizawa-kei] (p.50) The cruise-ship trouble is the unspoken source of his Class C access.
+[rel:sakayanagi-arisu] (p.51) Named again as someone who knows his past; Chabashira had mentioned a man who wanted to see him.
+[rel:horikita-suzune] (p.50–51) Roundabout words of thanks; warns Ryuuen has him on the list; “I’m starting to understand you less and less.”
+
+### y1v6 p.52–58 — Ch.3 §3.2: Pallet strategy
+[scene] (p.52) At Pallet: Horikita, Ayanokouji, Hirata, Karuizawa, Kushida and Sudou; short test’s partner-selection significance.
+[rel:karuizawa-kei] (p.52) Glares at Horikita for lateness; “Wow, you just ignored me. Typical.”
+[rel:hirata-yousuke] (p.52–53) Soccer club anxiety absent; eyes shine for the meeting; proposes checking rules with upperclassmen.
+[rel:kushida-kikyou] (p.53, 55, 58) Offers an upperclassman she is close to; tasked with senior inquiry; leaves saying she will ask and report back.
+[rel:sudou-ken] (p.53–57) Whispers to Ayanokouji; bangs forehead; then restrained one-on-one logic about attacking Class C.
+[rule] (p.54–55) Pairs appear balanced high+low; average students most at risk; only one or two pairs expelled historically.
+[rel:karuizawa-kei] (p.55–56) Odd-number question; average-student risk; “thinking about it is a waste of time.”
+[rule] (p.56–57) Nomination plan: target Class C; Hirata’s lottery worst-case (A→D, B→C wins lots, C→B, D→C loses → A).
+[rel:hirata-yousuke] (p.56–58) Writes the imaginary nomination matrix; agrees with Horikita’s plan after Sudou’s point.
+[rel:sudou-ken] (p.57) Observant and restrained: defeat opponents one-on-one; closest class C makes most sense.
+[rel:horikita-suzune] (p.57–58) Academic gap A>B and B>C needs investigation; accepts Hirata’s agreement; asks Ayanokouji what he will do.
+[rel:ayanokouji-kiyotaka] (p.58) Offers to adjust his score to team with a specific person and join study meetings, but will not be a leader.
+[note] (p.59) Blank scan (footer only).
+
+<!-- walk: y1v6 ch3 → p.59 -->

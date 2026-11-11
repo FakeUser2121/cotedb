@@ -641,3 +641,35 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [status] (p.27) Mollified when Ayanokouji says he is putting Satou on hold; the call ends on operational hygiene, not romance.
 
 <!-- walk: y1v6 ch2 → p.29 -->
+
+### y1v6 p.41–42 — Ch.3 §3.1: Pallet as leverage
+[scene] (p.41) Called over by Hirata to the strategy huddle; immediately pushes to move it to the café.
+[says:karuizawa-kei] (p.41) “Huh? Wait, right here? No way. If we’re talking things over, we might as well go to Pallet. Right, Yousuke-kun?”
+[rel:hirata-yousuke] (p.41) Tightly hugs his arm and snuggles close — her usual method of getting what she wants.
+[rel:horikita-suzune] (p.41–42) Eye contact with Ayanokouji makes her let go; Horikita yields to Pallet rather than antagonize her.
+[rel:kushida-kikyou] (p.42) Leaves with Kushida and Hirata for the café ahead of the planners.
+
+### y1v6 p.50, 52–58 — Ch.3 §3.2: Pallet voice
+[scene] (p.52) Glares at Horikita for lateness the moment they enter Pallet.
+[says:karuizawa-kei] (p.52) “Jeez, what were you even doing?! You’re so late! At least apologize.”
+[says:karuizawa-kei] (p.52) “Wow, you just ignored me. Typical”
+[rel:manabe-shiho] (p.50) Narration only: Manabe and friends harassed her on the cruise; Horikita does not know this source of Ayanokouji’s Class C access.
+[rel:horikita-suzune] (p.52) Questions whether the short test matters; “perking up” when Hirata talks.
+[says:karuizawa-kei] (p.52) “Is it really that important? I mean, the school pretty much guaranteed that our grades won’t reflect our test results”
+[says:karuizawa-kei] (p.52) “We all passed because the midterm had easy questions, right?”
+[says:karuizawa-kei] (p.53) “Huh? What? What are you talking about?”
+[rel:hirata-yousuke] (p.53–54) Admires his upperclassman point; confused by the balanced-pairs walk-through until he spells it out.
+[says:karuizawa-kei] (p.53) “So what? Will they match up the people who scored closest together or something?”
+[says:karuizawa-kei] (p.54) “Why do you say that?”
+[says:karuizawa-kei] (p.54) “Yousuke-kun, what does this mean?”
+[says:karuizawa-kei] (p.54) “I’m getting a little confused.”
+[says:karuizawa-kei] (p.54) “Umm, it’d be bad? If the dumber students got paired, we’d probably see the school expel a lot of people.”
+[says:karuizawa-kei] (p.55) “I see. But doesn’t that mean the average students are the most at risk?”
+[rel:horikita-suzune] (p.55–56) Odd-class-number question; “thinking about it is a waste of time.”
+[says:karuizawa-kei] (p.55) “They said we’re being paired up, but what if there’s an odd number of students?”
+[says:karuizawa-kei] (p.55) “Really? Wouldn’t it suck to suffer just because one person was absent?”
+[says:karuizawa-kei] (p.56) “Yeah, I guess so. I just feel like thinking about it is a waste of time”
+[says:karuizawa-kei] (p.56) “Whoa, that’d be awful. We’d have to solve problems the smart kids made, and we’d have to make problems for them to solve, right? There’s no way we could win”
+[rel:hirata-yousuke] (p.58) Follows him out when the meeting breaks up.
+
+<!-- walk: y1v6 ch3 → p.59 -->

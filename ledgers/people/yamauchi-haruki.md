@@ -520,3 +520,14 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [rel:sakura-airi] (p.22) Ayanokouji recalls Yamauchi’s earlier confession to Sakura while weighing Satou’s approach.
 
 <!-- walk: y1v6 ch2 → p.29 -->
+
+### y1v6 p.31, 37 — Ch.3: bottom of the midterm climb
+[scene] (p.31) First name posted from the bottom of the class list: Haruki Yamauchi.
+[says:yamauchi-haruki] (p.31) “Oh no! Dude, did I seriously get the lowest score?!”
+[rel:chabashira-sae] (p.31) Lowest but still passing: English 43, average just under 50; sports-festival penalties still applied to others.
+[rel:sudou-ken] (p.31, 37) Named with Ike as stiff-faced; later the partner-with-the-bottom jab that Sudou throws back.
+[says:sudou-ken] (p.37) “Don’t push yourself. You’re all talk. You haven’t seen anything yet; I’ve been studying a lot”
+[action] (p.37) Slumps writhing in agony after Sudou’s reply.
+[rel:ike-kanji] (p.31) Named in the low-score climb after Yamauchi.
+
+<!-- walk: y1v6 ch3 → p.59 -->

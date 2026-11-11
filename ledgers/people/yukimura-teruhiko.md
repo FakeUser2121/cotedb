@@ -253,3 +253,14 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 ### y1v5 p.133 — Ch.6: a passing mention
 [scene] (p.133) Named as the classmate Sudou looked ready to punch after the cavalry battles.
 [note] (p.133) He looked on the verge of punching Yukimura anyway; hitting Hirata earned Sudou everyone’s attention instead.
+
+## y1v6
+
+<!-- walk: y1v6 → start -->
+
+### y1v6 p.36 — Ch.3: excellent but partner-dependent
+[scene] (p.36) Named with Horikita as an excellent student who could still be at risk depending on who the short test pairs them with.
+[rel:horikita-suzune] (p.36) Same risk class: top grades are not safe if the partner is weak.
+[note] (p.36) No dialogue or action from Yukimura on these pages.
+
+<!-- walk: y1v6 ch3 → p.59 -->

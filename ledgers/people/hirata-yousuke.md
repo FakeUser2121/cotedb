@@ -894,3 +894,44 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [note] (p.21) No dialogue or action from Hirata on these pages.
 
 <!-- walk: y1v6 ch2 → p.29 -->
+
+### y1v6 p.34–36, 38–39 — Ch.3: exemplary answers under Chabashira’s walk
+[scene] (p.34) Chabashira stops at his desk after Ike’s evaluation.
+[says:hirata-yousuke] (p.34) “Yes. I’ve made lots of friends, and I’m enjoying a fulfilling life.”
+[says:hirata-yousuke] (p.34) “Whenever I’m nervous, I work harder with everyone else”
+[rel:chabashira-sae] (p.34–36) Partner-system and 700-point questions; absence policy clarification.
+[says:hirata-yousuke] (p.36) “You mentioned that the overall required score is still unclear. Why?”
+[rel:ike-kanji] (p.35) Chabashira’s 60-point example uses Ike and Hirata as the sample pair.
+[rel:chabashira-sae] (p.38–39) 400-question workload: “That’ll make for a pretty tight schedule”; looks flustered.
+[says:hirata-yousuke] (p.38) “Creating four hundred questions, huh? That’ll make for a pretty tight schedule”
+
+### y1v6 p.40–42 — Ch.3 §3.1: called into the strategy meeting
+[scene] (p.40) Sent for by Horikita via Ayanokouji; arrives and calls Karuizawa over.
+[rel:horikita-suzune] (p.40–41) Horikita and he are becoming the class’s prime movers.
+[says:hirata-yousuke] (p.41) “Sorry to have kept you waiting. You wanted to discuss plans, right?”
+[rel:karuizawa-kei] (p.41–42) Calls her to the group; she hugs his arm to push for Pallet.
+[rel:kushida-kikyou] (p.42) Leaves with Kushida and Karuizawa for Pallet ahead of the planners.
+
+### y1v6 p.52–58 — Ch.3 §3.2: Pallet logic
+[scene] (p.52) Present at Pallet; soccer club at 4:30 but he is calm, eyes shining.
+[rel:karuizawa-kei] (p.52–53) Her admiration shower (“Wow, just as expected, Yousuke-kun!”) after his upperclassman idea.
+[says:hirata-yousuke] (p.53) “So, there’s some special significance to the short test? Does the school want to measure something other than our academics?”
+[says:hirata-yousuke] (p.53) “I’m a little skeptical about this.”
+[says:hirata-yousuke] (p.53) “If there is some kind of partner selection method, then I think we should confirm it with an upperclassman.”
+[says:hirata-yousuke] (p.53) “If it’s the same test from previous years, then the rules probably haven’t changed. Maybe the teachers would deliberately try to hide that?”
+[rel:horikita-suzune] (p.54) Takes her “the test begins once we find out the rules” point and runs the expulsion-scenario math.
+[says:hirata-yousuke] (p.54) “So, the test begins once we find out the rules? In that case, not learning what they are could be disastrous”
+[says:hirata-yousuke] (p.54) “I see what you mean.”
+[says:hirata-yousuke] (p.54) “Horikita-san is trying to say that, if we understand how this all works, we might not suffer any serious harm. Right?”
+[says:hirata-yousuke] (p.54) “If two failing students were paired up, it’d be pretty bad.”
+[says:hirata-yousuke] (p.54) “Forget trying to figure out the rules for a moment. Imagine if we took the exam without knowing that these rules even existed. What do you think would happen?”
+[says:hirata-yousuke] (p.55) “The pairs seem balanced”
+[rel:karuizawa-kei] (p.56) Walks her through the balanced-pairs inference when she asks what it means.
+[rel:kushida-kikyou] (p.55) Both tasked with senior-student confirmation; he will use the soccer club.
+[says:hirata-yousuke] (p.56) “I agree, Horikita-san. But Classes A and B will naturally think the same way. If Class C is so inferior when it comes to academics, then multiple classes will likely go after them. That might be bad news for us.”
+[rule] (p.56) His notebook worst-case: A→D, B→C wins lots, C→B, D→C loses lots → Class A becomes D’s target by default.
+[says:hirata-yousuke] (p.56) “Although this is a worst-case scenario, it could happen”
+[rel:sudou-ken] (p.58) Leaves with him for club activities.
+[says:hirata-yousuke] (p.58) “It seems like everyone agrees with Horikita-san’s plan. So, I’ll go along with it, too”
+
+<!-- walk: y1v6 ch3 → p.59 -->

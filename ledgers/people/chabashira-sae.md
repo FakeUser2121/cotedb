@@ -557,3 +557,42 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [note] (p.158) Same thread: Chabashira-sensei mentioned while Horikita searches for Sudou.
 [note] (p.173) Substitute negotiation with Ayanokouji names her as the approver.
 [note] (p.174) She accepts the 100,000-point substitute plan for the scavenger hunt.
+
+## y1v6
+
+<!-- walk: y1v6 → start -->
+
+### y1v6 p.30–39 — Ch.3: midterm posting and Paper Shuffle briefing
+[scene] (p.30) Homeroom opens with Class D’s nervous midterm atmosphere; Chabashira posts the results.
+[says:chabashira-sae] (p.30) “Take your seats. It seems you prepared quite a bit in advance for this”
+[says:chabashira-sae] (p.30) “My, my. You all look so serious. It’s hard to imagine you’re Class D.”
+[says:chabashira-sae] (p.30) “The school will expel you immediately if you fail the midterm or final exam. I told you as much before, so I imagine it’s fresh in your memory.”
+[rule] (p.31) Passing = 40 per subject; sports-festival scores can lift a subject to perfect; bottom ten lose 10 per subject.
+[rel:sudou-ken] (p.31–33) Sudou’s rise to twelfth (average 57) draws her genuine compliment that no one drops out this time.
+[says:chabashira-sae] (p.33) “As you can see, no one has to drop out of school due to their midterm scores this time. All of you managed to pass.”
+[says:chabashira-sae] (p.33) “It would be reasonable to expect a private point increase in November. I must say, in the three years I’ve taught at this school, no other Class D has held on this long without any students dropping out. Well done.”
+[rel:ike-kanji] (p.33–38) Stops at Ike’s desk for an honest school evaluation; answers his quiz panic; fields his question-creation frustration.
+[says:chabashira-sae] (p.33) “No. From a student’s perspective, this is quite a paradise. Even as a teacher, I feel that this school is almost excessively lavish. It treats the students here so well that it almost defies common sense”
+[rel:hirata-yousuke] (p.34) Stops at Hirata’s desk: does he like the school; “whenever I’m nervous, I work harder with everyone else.”
+[rule] (p.34–36) Short test: 100 questions, junior-high third-year level, no grade impact but huge final-exam impact; pairs from it take the final together; under 60 combined in a subject expels both; aggregate historically ~700.
+[says:chabashira-sae] (p.36) “I would love to help you understand, Sudou. The school has decided that this next quiz’s results will help determine which students to partner in class”
+[says:chabashira-sae] (p.36) “In years past, it’s been around seven hundred points”
+[rel:yukimura-teruhiko] (p.36) Cited with Horikita as an excellent student still at risk depending on partner.
+[says:chabashira-sae] (p.36) “Don’t be so hasty. I’ll explain the overall requirements in more detail later.”
+[rel:sudou-ken] (p.37) Partner-with-bottom panic from Sudou and Yamauchi’s reply.
+[says:chabashira-sae] (p.37) “Well said, Ike. Many of you probably think the same thing, which is why I’m going to give you just one piece of advice. Don’t assume that you understand how this school works just because you’ve finished the first semester of your first year. In the future, you’ll face countless exams far more difficult than those you face now”
+[says:chabashira-sae] (p.36) “Well, it’s the truth. In years past… We call it the ‘Paper Shuffle,’ but one or two pairs are usually expelled due to this test. Most of them are from Class D. This is by no means a threat; I’m just telling you the facts.”
+[says:chabashira-sae] (p.37) “Lastly, although this is obvious, cheating is forbidden. Anyone who cheats will immediately be disqualified and expelled, along with their partner. The same applies to all midterm and final examinations.”
+[rule] (p.38) Classes write 400 questions for another class; higher class score takes 50 points; tie = no change; teachers revise unfair questions.
+[rel:ike-kanji] (p.38) “Do you understand, Ike?” after his absurd-hardness panic.
+[says:chabashira-sae] (p.39) “After the submission deadline passes, the school will utilize its own premade questions. However, please keep in mind that those questions will be easier”
+[says:chabashira-sae] (p.39) “Each class will choose another class to compete against, and I will report that request to my superiors. If another class makes the same choice, representatives will draw lots. However, if there are no duplicate nominations, your choice of class will be honored. I’ll accept your nomination for the class you’d like to go up against next week, the day before the short test. You should think very carefully”
+[trait] (p.33) Her gentler side is new; Horikita reads it as the creepier signal that something worse is coming.
+[rel:horikita-suzune] (p.33) Suzune: “You praising us feels weird.”
+
+### y1v6 p.54 — Ch.3 §3.2: cited from the Pallet table
+[scene] (p.54) Horikita cites Chabashira’s first Class D without expulsions and the historical one-or-two-pair figure while arguing pairs are balanced.
+[rel:horikita-suzune] (p.54) Her earlier briefing is the premise of the balanced-pairs inference.
+[note] (p.54) Chabashira is not present at Pallet; only her prior rules are quoted.
+
+<!-- walk: y1v6 ch3 → p.59 -->

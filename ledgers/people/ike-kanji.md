@@ -655,3 +655,23 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:yamauchi-haruki] (p.17) Leaves with him toward Keyaki Mall.
 
 <!-- walk: y1v6 ch2 → p.29 -->
+
+### y1v6 p.30–38 — Ch.3: midterm nerves, school review, quiz panic
+[scene] (p.30) Named as slightly nervous when Chabashira announces midterm results.
+[says:ike-kanji] (p.30) “It’s because today’s the day you announce the midterm results, right?”
+[rel:chabashira-sae] (p.30–33) Stops at his desk for an honest school evaluation after the pass.
+[rel:yamauchi-haruki] (p.31) Second-lowest on the posted climb after Yamauchi; stiff expression with Sudou.
+[says:ike-kanji] (p.33) “Well, I guess…it’s a good school. If you do well, you can get tons of spending money. The food’s tasty, and the rooms are nice and clean”
+[says:ike-kanji] (p.33) “You can buy games and stuff. Plus, there’re movies to see and karaoke. And the girls are cute.”
+[says:ike-kanji] (p.33) “Um…d-did I say something wrong?”
+[rel:chabashira-sae] (p.34–38) Quiz announcement panic; “there’s only a week left”; his frustration about absurdly hard questions.
+[says:ike-kanji] (p.34) “Geh! And I was just recovering from the midterm! Another test?!”
+[says:ike-kanji] (p.34) “That means there’s only a week left until the next short quiz! I haven’t heard about this at all!”
+[says:ike-kanji] (p.35) “R-really? Good!”
+[says:ike-kanji] (p.36) “Yeah, yeah! That’s right! They could pick stuff we haven’t learned yet! This is impossible!”
+[rel:chabashira-sae] (p.38) “Do you understand, Ike?” after his panic about question creation.
+[says:ike-kanji] (p.38) “Uh, yeah, I guess”
+[rel:hirata-yousuke] (p.35) Chabashira’s example pairs Ike and Hirata for the 60-point combined rule.
+[rel:sudou-ken] (p.31) Named with stiff expressions as results post from the bottom up.
+
+<!-- walk: y1v6 ch3 → p.59 -->

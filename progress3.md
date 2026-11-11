@@ -1471,3 +1471,10 @@ first or continuing y1v6 blocks with a single shared chapter stamp.
 Quote hygiene: 40 [says] spans (none too short) and 19 non-says spans,
 corpus-exact; R18/R19 held at 0/82. Determinism hash across consecutive
 builds: `c97c59ab5fd290194fcb0b0f5ddb57cc`.
+
+Year 1 Volume 6 chapter 3 is thirty pages across briefing, detour and
+café. Nineteen people ledgers gain blocks (four first y1v6 headings).
+Quote hygiene: 159 [says] spans (none too short) and 50 non-says spans,
+corpus-exact; hyphenated “thank-you” proved the R19 \byou\b trap and was
+reworded before ship. Determinism hash across consecutive builds:
+`ee9036a4b4578c50d8b966d45e91ec92`.

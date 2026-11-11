@@ -938,3 +938,36 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [note] (p.18) Kushida does not appear or speak in this chapter; only her reputation is cited.
 
 <!-- walk: y1v6 ch2 → p.29 -->
+
+### y1v6 p.42–43 — Ch.3 §3.1: joining the huddle
+[scene] (p.42) Asks to join the strategy talk after Horikita, Ayanokouji, Hirata and Karuizawa are set.
+[says:kushida-kikyou] (p.42) “Excuse me, but would it be all right if I joined you, too?”
+[says:kushida-kikyou] (p.42) “Is that okay…?”
+[rel:horikita-suzune] (p.42) Horikita: “Of course, Kushida-san. I planned on inviting you, anyway.”
+[rel:ayanokouji-kiyotaka] (p.42–43) Flags the sports-festival betrayal and her hatred of Horikita; still needed for class goodwill.
+
+### y1v6 p.43–49 — Ch.3 §3.1: the subject of the junior-high story
+[scene] (p.43) Off-stage for the campus walk: the story is about her past, not her presence.
+[rel:horikita-suzune] (p.43–46) Same junior high, different prefecture; bus seat kindness; remembered only after the study group; popular with student-council-level influence.
+[rel:kouenji-rokusuke] (p.44) Kouenji also refused the bus seat — not why Suzune alone is hated.
+[rel:horikita-suzune] (p.45–46) February third year: her class fell apart after an incident she triggered; school buried it; slander/bullying/violence rumors then silence.
+[rel:horikita-suzune] (p.46–48) One-sided hostility: she believes Suzune knows everything; threatened any means to expel her, already allied with Ryuuen.
+[rel:ryuuen-kakeru] (p.48) Formed an alliance with him to entrap Horikita.
+[rel:katsuragi-kouhei] (p.48) Would work with Katsuragi to drive Horikita out.
+[rel:sakayanagi-arisu] (p.48) Would work with Sakayanagi to drive Horikita out.
+[rel:ichinose-honami] (p.48) Would work with Ichinose to drive Horikita out.
+[rel:horikita-suzune] (p.49) Horikita refuses to expel her; calls her an excellent student and keen observer who could be a great asset.
+[rel:sudou-ken] (p.49) Precedent contrast: people with something to offer are not abandoned.
+
+### y1v6 p.52–58 — Ch.3 §3.2: Pallet and the senior-student errand
+[scene] (p.52) At Pallet with the full strategy group; listens quietly until Hirata’s upperclassman point.
+[rel:hirata-yousuke] (p.53) After his comment, she offers her own senior contact.
+[says:kushida-kikyou] (p.53) “I was a little curious, too. I think an upperclassman I’m close with might be willing to tell me.”
+[rel:horikita-suzune] (p.55) Formally tasked with Hirata to confirm pairing rules with seniors.
+[note] (p.55) Kushida answers “Of course” — too short to quote; she accepts the senior-student errand with Hirata.
+[rel:karuizawa-kei] (p.55) Soft on odd-class penalties: “Wouldn’t it suck to suffer just because one person was absent?”
+[says:kushida-kikyou] (p.55) “Really? Wouldn’t it suck to suffer just because one person was absent?”
+[rel:horikita-suzune] (p.58) Leaves promising to ask senior students and report back.
+[says:kushida-kikyou] (p.58) “Well, I’ll go ask the senior students about the exam and report back”
+
+<!-- walk: y1v6 ch3 → p.59 -->
