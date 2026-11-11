@@ -129,3 +129,15 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.118) Rivalry between Katsuragi and Sakayanagi is visible; her faction has greater numbers.
 [note] (p.175) Horikita might rope in Sakayanagi among Class A allies if needed.
 [note] (p.190) Two absentees, Kouenji and Sakayanagi, factored majorly into the first-year fourth place.
+
+## y1v6
+
+<!-- walk: y1v6 → start -->
+
+### y1v6 p.23 — Ch.2: the power player Katsuragi fears
+[scene] (p.23) Ayanokouji’s inner note while Katsuragi speaks: Katsuragi is also on guard around Sakayanagi, another Class A power player.
+[rel:katsuragi-kouhei] (p.23) Shared Class A factional ground; Katsuragi’s fear of Ryuuen is not the only one.
+[rel:ayanokouji-kiyotaka] (p.23) “Sakayanagi was a mysterious student who knew me. If I stirred the pot, it might not end well for me.”
+[note] (p.23) No dialogue or action from Sakayanagi on these pages.
+
+<!-- walk: y1v6 ch2 → p.29 -->

@@ -261,3 +261,16 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 ### y1v5 p.17 — Ch.2: a passing mention
 [scene] (p.17) Named when Horikita’s calm outside masks the panic of seeing her older brother at the festival.
 [rel:horikita-suzune] (p.17) She mutters his name under her breath as the president’s presence lands on her.
+
+## y1v6
+
+<!-- walk: y1v6 → start -->
+
+### y1v6 p.14–15 — Ch.2: outgoing student council president
+[scene] (p.14) Student council election ceremony: he delivers final remarks and steps down so Nagumo can be sworn in.
+[says:horikita-manabu] (p.14) “I’m very proud to have led the student council for nearly two years. I’m also quite grateful. Thank you all very much”
+[trait] (p.14) Brief, unemotional address delivered as solemn obligation; he retreats to his original position when done.
+[rel:nagumo-miyabi] (p.15) Nagumo bows deeply to him and praises him as the most capable president in the school’s history — while announcing reforms that deny his election timing.
+[rel:horikita-suzune] (p.14) Suzune watches him leave the stage without shrinking back, no longer afraid of her brother.
+
+<!-- walk: y1v6 ch2 → p.29 -->

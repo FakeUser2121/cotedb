@@ -404,3 +404,24 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.128) Katsuragi still in the fight after Sudou withdraws; Ryuuen sneers.
 [note] (p.131) Fair fight option: taking Ichinose and Katsuragi head-on.
 [note] (p.175) Horikita might rope in Katsuragi among Class A allies if needed.
+
+## y1v6
+
+<!-- walk: y1v6 → start -->
+
+### y1v6 p.22–24 — Ch.2 §2.1: corridor warning to Ayanokouji
+[scene] (p.22) Stops Ayanokouji after the gym passage, sends Yahiko ahead, and opens with “Horikita isn’t with you.”
+[says:katsuragi-kouhei] (p.22) “Sorry, but you go on ahead. I have a little something to discuss with Ayanokouji.”
+[says:katsuragi-kouhei] (p.22) “I just wanted to say that I was surprised by your performance in the sports festival’s final relay. I doubt anyone could’ve expected it”
+[rel:ayanokouji-kiyotaka] (p.22) Notes few Class D members knew how fast he is; accepts that he will get nothing more.
+[says:katsuragi-kouhei] (p.22) “I have enough problems right now. I simply can’t afford to focus on other classes”
+[rel:ryuuen-kakeru] (p.22–23) Warns that Ryuuen will use blackmail or violence; admits he regretted teaming up with him and that Ryuuen is “everyone’s enemy.”
+[says:katsuragi-kouhei] (p.23) “I regret it. Even though I felt that I had no other options at the time, I should never have gotten involved with Ryuuen. That’s precisely why I’m warning you.”
+[rel:sakayanagi-arisu] (p.23) Ayanokouji’s inner note: Katsuragi is also wary of Sakayanagi, another Class A power player — not raised aloud.
+[rule] (p.23) October class points after the sports festival: A 874, B 753, C 542, D 262; Class A peaked at 1,124 after the island test.
+[says:katsuragi-kouhei] (p.23) “I admit we’re in a bad situation. I didn’t understand how the school was structured, and my inability to grasp the point system didn’t help”
+[says:katsuragi-kouhei] (p.24) “The school operates on a mysterious, incomprehensible system. Students in the same grade should get along, not be hostile toward each another.”
+[rel:horikita-suzune] (p.24) Extracts Ayanokouji’s promise to warn Horikita about Ryuuen.
+[trait] (p.24) Observant enough to have clocked the relay speed in the chaos; conscientious; dissatisfied with the school’s structure.
+
+<!-- walk: y1v6 ch2 → p.29 -->

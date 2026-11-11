@@ -156,3 +156,13 @@ char_id: sotomura-hideo · class: Class 1-D (enrolled April 2015) · status: min
 [note] (p.51) Grip strength: Sotomura got 42 after Hirata’s 42.6 and before Miyamoto’s 48.
 [note] (p.88) The Professor — the second Class D student in the first group — manages to complete the course.
 [note] (p.101) Students who were especially unaggressive, like the Professor and Ayanokouji, bring up the rear.
+
+## y1v6
+
+<!-- walk: y1v6 → start -->
+
+### y1v6 p.17 — Ch.2 §2.1: “the Professor” in tow
+[scene] (p.17) Named as leading Ike and Yamauchi out of the classroom toward Keyaki Mall.
+[passing mention] (p.17) Called “the Professor” in narration; no dialogue on these pages.
+
+<!-- walk: y1v6 ch2 → p.29 -->

@@ -620,3 +620,24 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [note] (p.133) Dorm walk: “Things have gotten pretty bad, Ayanokouji,” Karuizawa said.
 [note] (p.138) Weapon talk: Ayanokouji used Hirata and Karuizawa as weapons against Horikita’s plan.
 [note] (p.142) Karuizawa asks where Horikita-san is; Ayanokouji answers with the substitute search.
+
+## y1v6
+
+<!-- walk: y1v6 → start -->
+
+### y1v6 p.18, 21 — Ch.2 §2.1: a strange look, then a phone number
+[scene] (p.18) After Horikita leaves, Karuizawa casts a strange look at Ayanokouji, looks away when caught, and follows Horikita out.
+[rel:satou-maya] (p.21) Named as Hirata’s boyfriend’s girlfriend — Satou’s stated reason she cannot pursue Hirata.
+[rel:hirata-yousuke] (p.21) Disclosed as his girlfriend in Satou’s speech to Ayanokouji.
+
+### y1v6 p.25–28 — Ch.2 §2.2: the night call
+[scene] (p.25) Phones Ayanokouji that night about Satou’s approach; she already knew because Satou told her in advance.
+[rel:satou-maya] (p.25) “Satou-san herself. She told me in advance that she was going to confess to you”
+[rel:ayanokouji-kiyotaka] (p.25–26) Frames her concern as risk to her standing: he threatened her into service, so a sudden Satou dating story could cut her protection.
+[says:karuizawa-kei] (p.26) “You are, though. You didn’t say that you were turning her down. Ew! I can see right through you. You’re happy Satou confessed to you”
+[rel:manabe-shiho] (p.26–27) Asked whether Manabe and the Class C girls have bothered her since the cruise — not for now; voice drops when the incident is raised.
+[rel:ryuuen-kakeru] (p.27) Narration: Manabe’s group does not know Karuizawa’s past; Ryuuen is the one pulling strings behind them.
+[trait] (p.27) Already erasing call and email records without being told twice; “Karuizawa knew how to handle herself.”
+[status] (p.27) Mollified when Ayanokouji says he is putting Satou on hold; the call ends on operational hygiene, not romance.
+
+<!-- walk: y1v6 ch2 → p.29 -->

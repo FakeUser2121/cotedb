@@ -642,3 +642,16 @@ aliases used for anchors: ike, kanji, ike-kun
 [note] (p.132) Sudou looks around starting with Ike and the others, who cower.
 [note] (p.182) Horikita says she could not even win against Ike-kun in her current state.
 [note] (p.194) Sudou left the festival chatting with Ike-kun and the others.
+
+## y1v6
+
+<!-- walk: y1v6 → start -->
+
+### y1v6 p.17–18 — Ch.2 §2.1: the friend group that left
+[scene] (p.17) Named as leaving the classroom with Yamauchi and the Professor toward Keyaki Mall, without inviting Ayanokouji.
+[rel:ayanokouji-kiyotaka] (p.17–18) Horikita names him and Yamauchi as the “dear friends” who stopped inviting Ayanokouji out; the cut is attributed to resenting concealed excellence.
+[rel:sudou-ken] (p.17) Part of the circle Sudou softened toward.
+[rel:sotomura-hideo] (p.17) Leaves with him and Yamauchi under the Professor’s lead.
+[rel:yamauchi-haruki] (p.17) Leaves with him toward Keyaki Mall.
+
+<!-- walk: y1v6 ch2 → p.29 -->

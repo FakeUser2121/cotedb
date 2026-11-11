@@ -711,3 +711,13 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [note] (p.131) Fair fight option: taking Ichinose and Katsuragi head-on is one of two choices.
 [note] (p.162) Scavenger-hunt enemies: Ichinose and Kanzaki are currently Ayanokouji’s opponents.
 [note] (p.175) Horikita might rope in Ichinose among Class A/B allies if needed.
+
+## y1v6
+
+<!-- walk: y1v6 → start -->
+
+### y1v6 p.14 — Ch.2: on the student council stage
+[scene] (p.14) Named among the student council members who watch Nagumo attentively during the handover ceremony.
+[passing mention] (p.14) First year on the outgoing council; no dialogue or action beyond watching.
+
+<!-- walk: y1v6 ch2 → p.29 -->

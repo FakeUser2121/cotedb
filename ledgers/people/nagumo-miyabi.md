@@ -59,3 +59,21 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [scene] (p.79) Second-year soccer players take a break; Nagumo calls to Hirata on the track.
 [note] (p.79) Horikita and Ayanokouji watch the exchange from the stands.
 [note] (p.187) Shibata chases down Nagumo on the anchor leg; Ayanokouji’s eyes meet the president’s instead.
+
+## y1v6
+
+<!-- walk: y1v6 → start -->
+
+### y1v6 p.14–16 — Ch.2: sworn in as student council president
+[scene] (p.14) Second-year Class A member introduced as the next president; he takes the microphone after Horikita Manabu’s farewell.
+[says:nagumo-miyabi] (p.14) “Hello. I’m Nagumo, second-year Class A. Student Council President Horikita, I sincerely appreciate the strict yet kind guidance you’ve shown me.”
+[says:nagumo-miyabi] (p.14) “I’d like to express my respect for you, while also emphasizing what an honor it’s been to serve alongside the most capable president in this school’s history. You’ve exhibited the strongest leadership possible.”
+[says:nagumo-miyabi] (p.15) “Allow me to introduce myself again. My name is Nagumo Miyabi, and I will be assuming the position of student council president at the Tokyo Metropolitan Advanced Nurturing High School. I sincerely look forward to working with all of you.”
+[rule] (p.15) Pledges: indefinite officer terms while enrolled; annul October general election; no size cap; open officer intake; majority-vote removal.
+[says:nagumo-miyabi] (p.15) “To bring this school into the future, I intend to thoroughly destroy the past.”
+[trait] (p.15) Enigmatic during the sports festival, then the picture of politeness — until the reform announcement changes the atmosphere.
+[says:nagumo-miyabi] (p.16) “A revolution is coming. Students with real ability will rise to the top, and students without any will fall. I intend to turn this school into a true meritocracy, so please, give me everything you’ve got. I look forward to seeing what you can do.”
+[rel:horikita-manabu] (p.15) Glances at Horikita while explaining he cannot implement the changes at once as a newly elected president.
+[narrates] (p.16) Almost every second-year shouts delight; first years do not know the second/third-year tension behind it.
+
+<!-- walk: y1v6 ch2 → p.29 -->

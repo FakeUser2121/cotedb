@@ -3150,3 +3150,61 @@ walk: y1v1 → DONE
 [note] (p.194) Horikita’s hallway wait names his direction home after the festival.
 [note] (p.195) Ryuuen’s appointment scene: she prepared to face him as well as Ryuuen.
 [note] (p.201) After the counter-recording, the mastermind hypothesis lands on him.
+
+## y1v6
+
+<!-- walk: y1v6 → start -->
+
+### y1v6 p.14–16 — Ch.2 §2: student council handover
+[scene] (p.14) Mid-October: student council election ceremony; Horikita Manabu hands over and Nagumo Miyabi is sworn in as president.
+[says:nagumo-miyabi] (p.14) “Hello. I’m Nagumo, second-year Class A. Student Council President Horikita, I sincerely appreciate the strict yet kind guidance you’ve shown me.”
+[trait] (p.14) The younger Horikita no longer shrinks from her brother; she remains steadfast watching him leave the stage.
+[says:nagumo-miyabi] (p.15) “Allow me to introduce myself again. My name is Nagumo Miyabi, and I will be assuming the position of student council president at the Tokyo Metropolitan Advanced Nurturing High School. I sincerely look forward to working with all of you.”
+[rule] (p.15) Nagumo pledges indefinite terms for student-council officers, annuls the October general election, lifts size limits, and allows majority-vote removal.
+[says:nagumo-miyabi] (p.15) “To bring this school into the future, I intend to thoroughly destroy the past.”
+[says:nagumo-miyabi] (p.16) “A revolution is coming. Students with real ability will rise to the top, and students without any will fall.”
+[narrates] (p.16) Second-years shout delight at the announcement; first years do not know the second/third-year tension behind it.
+
+### y1v6 p.17–19 — Ch.2 §2.1: changed classmates and Satou’s approach
+[scene] (p.17) Second semester: Class D is coalescing; Ayanokouji finds himself alone when Ike, Yamauchi and the Professor leave for Keyaki Mall.
+[action] (p.17) Sudou now takes notes after Horikita’s check-in and softens toward Ike and Yamauchi.
+[says:horikita-suzune] (p.17) “Your dear friends Ike-kun and Yamauchi-kun haven’t been inviting you out much. Isn’t that right?”
+[rel:horikita-suzune] (p.17) Horikita explains the friend-group fracture: they resented that he hid his excellence, not the excellence itself.
+[says:horikita-suzune] (p.18) “People tend to fundamentally resent those who excel. In your case, though, they resent you because you concealed your excellence.”
+[rel:karuizawa-kei] (p.18) Karuizawa casts a strange look, then follows Horikita out of the classroom.
+[rel:satou-maya] (p.18) Satou waits for him alone and asks to talk elsewhere.
+[rel:sakura-airi] (p.19) Sakura makes a sound as if to speak, then neither speaks nor follows.
+[rel:satou-maya] (p.19) In the gym passage Satou asks whether he has a girlfriend and proposes exchanging phone numbers as friends.
+
+### y1v6 p.21 — Ch.2 §2.1: the “confession”
+[scene] (p.21) Satou registers his number, blushes, and runs off after saying the relay made him look cool — Ayanokouji is left stunned.
+[says:satou-maya] (p.21) “I thought the best guy in class was, you know, Hirata-kun. But since he’s Karuizawa-san’s boyfriend, there’s nothing I can do about that, right?”
+[says:satou-maya] (p.21) “To be honest, after getting a good look at you, you’re even cooler than Hirata-kun, and more mature and gentler, too.”
+[rel:sakura-airi] (p.22) Recalling Yamauchi’s earlier confession to Sakura puts his own situation in perspective.
+[rel:satou-maya] (p.21) He feels nothing for Satou either way and notes she never actually asked him to go out.
+
+### y1v6 p.22–24 — Ch.2 §2.1: Katsuragi’s corridor warning
+[scene] (p.22) Walking back, Ayanokouji is stopped by Katsuragi (with Yahiko) about his relay speed and Class A’s problems.
+[says:katsuragi-kouhei] (p.22) “Sorry, but you go on ahead. I have a little something to discuss with Ayanokouji.”
+[says:katsuragi-kouhei] (p.22) “I have enough problems right now. I simply can’t afford to focus on other classes.”
+[says:katsuragi-kouhei] (p.22) “He’ll do anything for the sake of winning. Even if that means resorting to blackmail or violence.”
+[rel:ryuuen-kakeru] (p.22) Katsuragi warns Horikita off underestimating Ryuuen; Ayanokouji recalls the rumor of Katsuragi and Ryuuen teaming up.
+[says:katsuragi-kouhei] (p.23) “I regret it. Even though I felt that I had no other options at the time, I should never have gotten involved with Ryuuen.”
+[rel:sakayanagi-arisu] (p.23) Ayanokouji notes Sakayanagi knew him and chooses not to stir that pot.
+[rule] (p.23) October totals after the sports festival: Class A 874, B 753, C 542, D 262 (Class A had peaked at 1,124 after the island test).
+[says:katsuragi-kouhei] (p.23) “I admit we’re in a bad situation. I didn’t understand how the school was structured, and my inability to grasp the point system didn’t help”
+[rel:horikita-suzune] (p.24) Ayanokouji promises to warn Horikita about Ryuuen.
+[narrates] (p.24) Class B is the peaceful one; Class C is a dictatorship; Class A is split between two factions.
+
+### y1v6 p.25–28 — Ch.2 §2.2: Karuizawa’s phone call
+[scene] (p.25) That night Karuizawa phones: she already knew about Satou because Satou told her in advance.
+[rel:satou-maya] (p.25) “Satou-san herself. She told me in advance that she was going to confess to you”
+[rel:karuizawa-kei] (p.25–26) Karuizawa frames it as risk to her own standing if Ayanokouji dates Satou — she was threatened into serving him and needs the protection to continue.
+[says:karuizawa-kei] (p.26) “You are, though. You didn’t say that you were turning her down. Ew! I can see right through you.”
+[rel:manabe-shiho] (p.26) He asks whether Manabe and the Class C girls have bothered her since the cruise; they have not, for now.
+[rel:ryuuen-kakeru] (p.27) Manabe’s group does not know Karuizawa’s past — Ryuuen is the one pulling strings behind them.
+[rel:karuizawa-kei] (p.27) She mollifies when he says he is putting Satou on hold; both agree to erase call and email records.
+[goal] (p.28) He withholds the coming danger from Karuizawa for now so as not to pressure her.
+[note] (p.29) Blank scan (footer only).
+
+<!-- walk: y1v6 ch2 → p.29 -->

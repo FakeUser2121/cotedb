@@ -507,3 +507,16 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [note] (p.15) “Starting with Ike-kun and Yamauchi-kun” — Horikita rejects the need.
 [note] (p.25) Ike and Yamauchi appeared frustrated, but said nothing.
 [note] (p.130) Ryuuen’s setup: unathletic competitors like Ike and Yamauchi are targeted for easy wins.
+
+## y1v6
+
+<!-- walk: y1v6 → start -->
+
+### y1v6 p.17–18 — Ch.2 §2.1: the friend group that left
+[scene] (p.17) Named as leaving the classroom with Ike and the Professor toward Keyaki Mall, without inviting Ayanokouji.
+[rel:ayanokouji-kiyotaka] (p.17–18) Horikita names him and Ike as the “dear friends” who stopped inviting Ayanokouji out.
+[rel:ike-kanji] (p.17) Leaves with him toward Keyaki Mall.
+[rel:sotomura-hideo] (p.17) Leaves under the Professor’s lead with Ike.
+[rel:sakura-airi] (p.22) Ayanokouji recalls Yamauchi’s earlier confession to Sakura while weighing Satou’s approach.
+
+<!-- walk: y1v6 ch2 → p.29 -->

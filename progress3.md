@@ -1464,3 +1464,10 @@ ledger is created with the chapter-1 section; Kushida and Horikita gain
 their first y1v6 blocks. Quote hygiene: 6 [says] spans (none too short)
 and 7 non-says spans, corpus-exact; R18/R19 held at 0/82. Determinism
 hash across consecutive builds: `620b39f6c8f086e584418aa61b1275cf`.
+
+Year 1 Volume 6 chapter 2 runs sixteen pages across ceremony, classroom,
+gym passage, corridor and dorm call. Nineteen people ledgers gain their
+first or continuing y1v6 blocks with a single shared chapter stamp.
+Quote hygiene: 40 [says] spans (none too short) and 19 non-says spans,
+corpus-exact; R18/R19 held at 0/82. Determinism hash across consecutive
+builds: `c97c59ab5fd290194fcb0b0f5ddb57cc`.

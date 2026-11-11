@@ -2088,3 +2088,15 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (p.12) No Suzune dialogue or action on these pages; the soliloquy is Kushida’s alone.
 
 <!-- walk: y1v6 ch1 → p.13 -->
+
+### y1v6 p.14 — Ch.2: watching her brother step down
+[scene] (p.14) At the election ceremony Suzune remains steadfast as Horikita Manabu leaves the stage; she no longer shrinks in fear at the sight of him.
+
+### y1v6 p.17–19 — Ch.2 §2.1: the solitude lecture
+[scene] (p.17) She finds Ayanokouji alone after Ike, Yamauchi and the Professor leave for Keyaki Mall and diagnoses his social fracture.
+[says:horikita-suzune] (p.17) “They used to think that all of you were in the same terrible-student boat. Then they discovered that you were actually hiding remarkable physical ability.”
+[rel:ayanokouji-kiyotaka] (p.17–18) Cites his grip-strength score and speed as the reason the friend group cut him out; leaves him with “enjoy your life of solitude.”
+[rel:sudou-ken] (p.17) Off-page check-in credited with Sudou’s improved note-taking (recorded under Sudou’s field as well).
+[rel:ike-kanji] (p.17) Names Ike and Yamauchi as the friends who stopped inviting him out.
+
+<!-- walk: y1v6 ch2 → p.29 -->

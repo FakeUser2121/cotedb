@@ -1941,3 +1941,19 @@ recorded as a note. verify y1v6: 6 [says] ALL PASS + 7 non-says ALL
 PASS; make check OK (R18 0, R19 82/82); gate exit 0; hash
 `620b39f6c8f086e584418aa61b1275cf` twice. New tags: none. Next: ch2
 p.14–29.
+
+### y1v6 ch2 (pp.14–29) — walked
+Student-council handover (Horikita Manabu out, Nagumo in with
+indefinite-term/meritocracy pledges); Class D’s second-semester drift;
+Satou’s gym-passage phone-number approach; Katsuragi’s corridor Ryuuen
+warning with October point totals (A 874 / B 753 / C 542 / D 262);
+Karuizawa’s night call about Satou, Manabe and erased call records.
+People stamped: ayanokouji-kiyotaka, hirata-yousuke, horikita-manabu,
+horikita-suzune, ichinose-honami, ike-kanji, karuizawa-kei,
+katsuragi-kouhei, kushida-kikyou, manabe-shiho, nagumo-miyabi,
+ryuuen-kakeru, sakayanagi-arisu, sakura-airi, satou-maya,
+sotomura-hideo, sudou-ken, totsuka-yahiko, yamauchi-haruki; volume
+stamped `y1v6 ch2 → p.29`. Blanks p.20 and p.29 noted. verify y1v6: 40
+[says] ALL PASS + 19 non-says ALL PASS; make check OK (R18 0, R19
+82/82); gate exit 0; hash `c97c59ab5fd290194fcb0b0f5ddb57cc` twice. New
+tags: none. Next: ch3 p.30–59 (30 pp).

@@ -897,3 +897,16 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [note] (p.187) The class’s feelings. Sudou’s feelings. Horikita’s feelings — Ayanokouji claims no interest in any of those.
 [note] (p.194) Sudou-kun left while chatting with Ike-kun and the others after the festival.
 [note] (p.198) Horikita: the island, the cruise ship, and the incident with Sudou-kun — I’ve just kept on losing.
+
+## y1v6
+
+<!-- walk: y1v6 → start -->
+
+### y1v6 p.17 — Ch.2 §2.1: taking notes now
+[scene] (p.17) Second-semester classroom: Sudou is named as changing for the better after the sports festival.
+[action] (p.17) Sleeps through class less; actually takes notes, probably because Horikita checked in on him after the festival.
+[rel:horikita-suzune] (p.17) Her post-festival check-in is credited with the improvement.
+[trait] (p.17) Still sleepy sometimes from intense basketball practice; softened rough treatment of Ike and Yamauchi; opinions of him begin to improve.
+[rel:ike-kanji] (p.17) Named with Yamauchi as recipients of the softer treatment.
+
+<!-- walk: y1v6 ch2 → p.29 -->

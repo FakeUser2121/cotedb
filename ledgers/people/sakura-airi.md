@@ -662,3 +662,15 @@ aliases used for anchors: sakura, airi, sakura-san
 [scene] (p.98) Named in the stalker-incident flashback that Ichinose may have seen Ayanokouji running.
 [note] (p.98) Back during the incident with Sakura’s stalker, she might have seen him; she paid for that knowledge somehow.
 [note] (p.189) After the relay, Sakura was also looking at Ayanokouji from afar, blocked by the crowd.
+
+## y1v6
+
+<!-- walk: y1v6 → start -->
+
+### y1v6 p.19, 22 — Ch.2 §2.1: almost says something
+[scene] (p.19) As Ayanokouji follows Satou out, Sakura makes a sound as if to speak — no words come out, and she does not follow.
+[rel:satou-maya] (p.19) Present at the classroom door when Satou leads him away for the phone-number talk.
+[rel:yamauchi-haruki] (p.22) Ayanokouji recalls Yamauchi’s earlier confession to her while reflecting on his own unexpected “confession.”
+[note] (p.19) No dialogue from Sakura on these pages.
+
+<!-- walk: y1v6 ch2 → p.29 -->

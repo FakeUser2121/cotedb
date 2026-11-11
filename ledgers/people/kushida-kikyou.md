@@ -931,3 +931,10 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [note] (p.13) Blank scan (footer only).
 
 <!-- walk: y1v6 ch1 → p.13 -->
+
+### y1v6 p.18 — Ch.2 §2.1: the social clout Satou envies
+[scene] (p.18) Narration while Satou waits for Ayanokouji: Satou seemed to want the kind of social clout Kushida has.
+[rel:satou-maya] (p.18) Satou is cast as wanting Kushida’s trusted-network position but lacking the guy-side popularity.
+[note] (p.18) Kushida does not appear or speak in this chapter; only her reputation is cited.
+
+<!-- walk: y1v6 ch2 → p.29 -->

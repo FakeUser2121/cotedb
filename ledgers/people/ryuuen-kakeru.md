@@ -463,3 +463,17 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [note] (p.176) Ryuuen-kun was getting all her points using blackmail after the substitute burden.
 [note] (p.190) The behind-the-scenes tactic was particularly effective against someone like Ryuuen.
 [note] (p.194) She prepared to respond to Ryuuen-kun; he had her dancing in the palm of his hand.
+
+## y1v6
+
+<!-- walk: y1v6 → start -->
+
+### y1v6 p.22–24 — Ch.2 §2.1: named as the shared enemy
+[scene] (p.22) Katsuragi’s corridor warning makes him the subject: blackmail, violence, and a past team-up.
+[says:katsuragi-kouhei] (p.22) “He’ll do anything for the sake of winning. Even if that means resorting to blackmail or violence.”
+[rel:katsuragi-kouhei] (p.23) Katsuragi regrets having gotten involved with him and says Ryuuen is everyone’s enemy; Ayanokouji recalls the team-up rumor.
+[rel:horikita-suzune] (p.24) Ayanokouji promises to pass Katsuragi’s warning to Horikita.
+[rel:karuizawa-kei] (p.27) Narration: Ryuuen is the one pulling Manabe’s strings from behind the scenes; a confrontation may be nigh.
+[narrates] (p.23) Does not appear in person on these pages — named in dialogue and inner recollection only.
+
+<!-- walk: y1v6 ch2 → p.29 -->

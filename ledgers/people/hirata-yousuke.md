@@ -882,3 +882,15 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [note] (p.195) Ryuuen’s appointment scene: Hirata’s name comes up in who could have known.
 [note] (p.201) After the counter-recording, the Class C traitor talk still circles Hirata’s reliability.
 [note] (p.203) Sakayanagi lists Hirata Yousuke-kun among the “smart people” in Class D.
+
+## y1v6
+
+<!-- walk: y1v6 → start -->
+
+### y1v6 p.21 — Ch.2: “the best guy in class”
+[scene] (p.21) Satou names him as the class’s best guy while explaining her approach to Ayanokouji.
+[rel:satou-maya] (p.21) Satou’s default crush until Karuizawa’s boyfriend status closed that door.
+[rel:karuizawa-kei] (p.21) Disclosed as Karuizawa’s boyfriend in Satou’s speech.
+[note] (p.21) No dialogue or action from Hirata on these pages.
+
+<!-- walk: y1v6 ch2 → p.29 -->

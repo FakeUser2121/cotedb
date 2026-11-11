@@ -179,3 +179,15 @@ char_id: manabe-shiho · class: Class 1-C · status: minor
 [rel:karuizawa-kei] (p.28) The glance reopens the cruise-ship scrap where Karuizawa’s bullying history surfaced.
 
 <!-- walk: y1v5 ch2 → p.38 -->
+
+## y1v6
+
+<!-- walk: y1v6 → start -->
+
+### y1v6 p.26–27 — Ch.2: named in the cruise-ship aftercare
+[scene] (p.26) On the phone, Ayanokouji asks Karuizawa whether Manabe and the other Class C girls have tried anything since the cruise ship.
+[rel:karuizawa-kei] (p.26–27) Karuizawa’s voice gets low; she does not want to think about that incident; answer: not for now.
+[rel:ryuuen-kakeru] (p.27) Narration: Manabe’s group does not know Karuizawa’s past truth; Ryuuen is the one pulling their strings.
+[note] (p.27) Manabe does not appear in person on these pages.
+
+<!-- walk: y1v6 ch2 → p.29 -->

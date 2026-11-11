@@ -89,3 +89,14 @@ char_id: totsuka-yahiko · class: Class 1-A (enrolled April 2015) · status: min
 ### y1v5 p.89 — Ch.6: a passing mention
 [scene] (p.89) Named in Lane 4 of the first-year dash as a Class A competitor next to Hirata.
 [note] (p.89) Yahiko, from Class A, stood in Lane 4 with Hirata next to him in Lane 5.
+
+## y1v6
+
+<!-- walk: y1v6 → start -->
+
+### y1v6 p.22 — Ch.2 §2.1: Class A errand
+[scene] (p.22) Walking with Katsuragi, he is told to go on ahead while Katsuragi speaks to Ayanokouji.
+[action] (p.22) Immediately nods and agrees to Katsuragi’s orders.
+[rel:katsuragi-kouhei] (p.22) Takes orders from him without pushback; exits before the Ryuuen/points talk.
+
+<!-- walk: y1v6 ch2 → p.29 -->
