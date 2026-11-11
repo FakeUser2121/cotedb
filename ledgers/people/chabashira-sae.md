@@ -621,3 +621,39 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:horikita-suzune] (p.105) The submission channel Ayanokōji flags as ready to be stolen.
 [note] (p.105) No dialogue from Chabashira on these pages.
 <!-- walk: y1v6 ch5 → p.131 -->
+
+### y1v6 p.179–187 — Ch.7 §7.0: conditions, the reveal, the warning
+[scene] (p.179) Takes Horikita’s envelope at the staff room after Sakagami has taken Ryuuen’s; bargains conditions before honouring secrecy.
+[says:chabashira-sae] (p.179) “I’ll hold on to them,”
+[says:chabashira-sae] (p.179) “You want me to turn down absolutely anyone who asks to see them?”
+[says:chabashira-sae] (p.179) “That’s not the issue. I understand that you’re afraid of information leaking, and the school has no right to refuse your request. However, there are conditions,”
+[says:chabashira-sae] (p.179) “The entire class needs to agree to this. Has everyone approved this measure?”
+[says:chabashira-sae] (p.180) “You can’t say that for sure. Some students might very well want to lose,”
+[says:chabashira-sae] (p.180) “On that note, can you guarantee that these are the exam questions your class wishes to use? Not everyone in class saw and agreed to all of them, right?”
+[says:chabashira-sae] (p.180) “I’m saying that it’s not that simple. I can’t be entirely sure that you, Horikita Suzune, are acting for your class’s sake. That said, I’ll honor your request. If any student asks, I absolutely won’t disclose the questions and answers you created,”
+[says:chabashira-sae] (p.180) “However, I will say this—generally, it’s not ideal to restrict information in this manner. It proves that the class isn’t united,”
+[says:chabashira-sae] (p.180) “You’ve changed, Horikita.”
+[says:chabashira-sae] (p.180) “As I said, I’ll honor your request. In case of unforeseen circumstances, though, I’d like to add one provision to our arrangement. As long as they have your permission, Horikita, I’ll disclose information to those asking to see the questions. Is that okay?”
+[says:chabashira-sae] (p.180) “Of course. Someone might lie about having your permission, after all. In the event that someone comes looking for the questions, well, I’ll tell them everything you said. As a teacher, I can’t lie,”
+[says:chabashira-sae] (p.181) “That’s right. That’s required of me, as a teacher,”
+[says:chabashira-sae] (p.181) “Not until we confirm that there isn’t anything abnormal about them,”
+[says:chabashira-sae] (p.181) “What do you mean by that?”
+[says:chabashira-sae] (p.181) “My response is that the school already accepted and finished reviewing questions from Class D.”
+[says:chabashira-sae] (p.182) “Correct. The school won’t use the questions you just handed me,”
+[says:chabashira-sae] (p.182) “Unfortunately, Horikita, I already finished reviewing another student’s questions. That student shared similar concerns. They wanted me to keep the questions secret, too. This student said that, in the event that another student selfishly showed up and asked to change the problems, I should merely accept the new questions and hold on to them. They also wanted me to tell them who asked to swap those questions afterward,”
+[says:chabashira-sae] (p.182) “Kushida Kikyou.”
+[says:chabashira-sae] (p.182) “Yes. However, the deadline is the end of today. If you wish to change the test questions, please bring Kushida here,”
+[says:chabashira-sae] (p.182) “I can only speculate about which one of you is lying, Horikita. I don’t know the truth. I also acknowledge that an unknown third party might be pulling the strings here. If you don’t resolve this dispute within your class, it’ll be bad,”
+[says:chabashira-sae] (p.183) “Until 6 p.m.”
+[says:chabashira-sae] (p.183) “Aren’t you going to look for Kushida, Horikita?”
+[says:chabashira-sae] (p.183) “No, I received no such instructions,”
+[says:chabashira-sae] (p.184) “It’s all right, Horikita. Ryuuen left,”
+[says:chabashira-sae] (p.187) “At any rate, this is a difficult situation,” said Chabashira-sensei, a rare look of genuine concern on her face. “I’ve never had a request like this in all the time I’ve managed Class D. I didn’t expect such caution and deception. However, you won’t always take the day, Horikita. If there are traitors like this among your classmates, you’re doomed to fail.”
+[says:chabashira-sae] (p.187) “Really? In that case, I look forward to it.”
+[rule] (p.179–182) Holds the envelope under secrecy terms; deadline to change accepted questions is 6 p.m. the same day; cannot lie as a teacher, so she will report everything Horikita said if someone claims permission.
+[rel:horikita-suzune] (p.179–187) Conditions the favour, reveals Kushida’s prior acceptance, then warns that traitors doom the class; notes she has changed.
+[rel:kushida-kikyou] (p.182) Names her as the prior submitter who also asked to be told who tried to swap.
+[rel:ryuuen-kakeru] (p.179–184) Ignores him at the side; signals him gone before Horikita drops the act.
+[rel:sakagami-sensei] (p.179) Sakagami takes Ryuuen’s envelope moments before she takes Horikita’s.
+
+<!-- walk: y1v6 ch7 → p.209 -->

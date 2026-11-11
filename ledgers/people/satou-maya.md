@@ -98,3 +98,17 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [trait] (p.159–160) Calm voice, red face, “trying a little too hard” — the crush plays in public now.
 
 <!-- walk: y1v6 ch6 → p.176 -->
+
+### y1v6 p.188–189 — Ch.7 §7.1: exam-morning partner
+[scene] (p.188) Waiting in the hall before the first day; hands-on-chest nerves after studying until one.
+[says:satou-maya] (p.188) “Good morning, Ayanokouji-kun. It’s almost time for the test, isn’t it?”
+[says:satou-maya] (p.188) “I studied until about one o’clock. I feel a little nervous,”
+[says:satou-maya] (p.188) “Okay!”
+[says:satou-maya] (p.188) “Oh, good morning, Karuizawa-san.”
+[says:satou-maya] (p.188) “N-no, we met up by chance.”
+[says:satou-maya] (p.188) “Okay. Well, see you later, Ayanokouji-kun,”
+[rel:ayanokouji-kiyotaka] (p.188–193) Shared-fate partners; he aims for a sixty-point baseline to complement her likely higher humanities.
+[rel:karuizawa-kei] (p.188) Karuizawa interrupts with a Pallet drink invite after noting the pair together.
+[rel:hasebe-haruka] (p.193) Narration ranks Satou above Ike or Yamauchi on study-session enthusiasm — Haruka and Akito still the hardest-hit averages.
+
+<!-- walk: y1v6 ch7 → p.209 -->

@@ -3398,3 +3398,48 @@ walk: y1v1 → DONE
 [rel:yukimura-teruhiko] (p.156–157) Keisei agreed conditional on Akito; Ayanokōji will talk it over with him about the exam prep.
 
 <!-- walk: y1v6 ch6 → p.176 -->
+
+### y1v6 p.177–185 — Ch.7 §7.0: the envelope, the trap, the counter
+[scene] (p.177) Three days before the final; Horikita carries Class D’s confidential question envelope; Ryuuen shadows them to the staff room.
+[says] (p.177) “Oh, sorry,”
+[says] (p.177) “What are our chances?”
+[says] (p.178) “I think we should be safe,”
+[says] (p.181) “What’s the matter, Horikita?”
+[says] (p.183) “Yeah. They definitely are,”
+[says] (p.184) “You knew this was coming?”
+[thinks] (p.177) Reads Ryuuen’s two goals as beating Class D and smoking out the puppet master behind Horikita; ordinary study-and-hard-problems tactics are the ceiling if he wants overall points.
+[thinks] (p.181) Something still feels off about Ryuuen’s unflustered calm even as the plan looks hole-free.
+[thinks] (p.184) After the counter is revealed: he would never have imagined Horikita devising it, and could not have come up with it himself.
+[rel:horikita-suzune] (p.177–187) Underestimates her plan until she lifts her head; admits he had no idea; notes her determination for the remaining Kushida score bet.
+[rel:ryuuen-kakeru] (p.177–184) Shadows the submission; later answers the photo threat with an open invitation to play the game.
+[rel:kushida-kikyou] (p.184) Reads the bet stakes: if Kushida had Class C’s answers she would likely perfect math and Horikita would drop out on one wrong answer.
+[rel:chabashira-sae] (p.181–182) Locks eyes with her instead of following Horikita out — a silent prompt she does not need.
+[rel:satou-maya] (p.188) Exam-morning greeting and partner pep talk.
+[rel:hirata-yousuke] (p.189–190) Morning walk; Hirata names him as the one pulling Horikita’s strings and offers backup; he neither confirms nor fully denies.
+[rel:karuizawa-kei] (p.188–189) Watches the Satou greeting; Hirata flags her growing attention.
+[rel:yukimura-teruhiko] (p.192–193) Keisei’s predicted questions prove right on the money during the first subject.
+
+### y1v6 p.194–201 — Ch.7 §7.4: the photo and the open challenge
+[scene] (p.194) After the first exam day, watches Horikita’s near-perfect math claim and Sudou’s apology; later alone receives Ryuuen’s photograph by phone.
+[says] (p.194) “Looks like you’re all finished,”
+[says] (p.194) “What score would you say you got for the math portion?”
+[says] (p.194) “It’s possible that you might’ve written something incorrectly or missed an answer, though. Is there a chance that your score is any lower than ninety-eight?”
+[says] (p.194) “Well, that’s amazing.”
+[says] (p.195) “By the way, what are your plans with Kushida?”
+[says] (p.195) “She probably assumes that her score is lower than she expected, don’t you think?”
+[says] (p.195) “Are you worried about him?”
+[says] (p.195) “So, if that time came, would you have prostrated yourself before”
+[says] (p.196) “Kushida and begged for forgiveness?”
+[says] (p.196) “What?”
+[says] (p.200) “So, Manabe and her friends spilled the beans, huh?”
+[says] (p.201) “Come at me with everything you’ve got. I’ll play your game,”
+[thinks] (p.194) Convinces himself Horikita won the bet from Kushida’s face alone; Kaneda’s questions were hard enough that even Keisei might not top ninety.
+[thinks] (p.200) Reads Ryuuen’s photo as a declaration of war: he has the circumstances and will go after the person in the picture; fed up with the obsessive hunt, answers in kind.
+[thinks] (p.201) Despite himself, feels a little excited at the open challenge.
+[rel:horikita-suzune] (p.194–199) Scores talk, follow into the hallway, then the special-building bet settlement with Kushida.
+[rel:kushida-kikyou] (p.195–199) Present for the bet confirmation; notes she got up and left quickly — her score fear is real.
+[rel:ryuuen-kakeru] (p.200–201) Receives the photo threat; returns the favour by accepting the game outright.
+[rel:sudou-ken] (p.194–195) Skeptical look about staying with Horikita; apology is sincere.
+[rel:karuizawa-kei] (p.200) In the photograph Ryuuen sends — the leverage on Ayanokōji.
+[note] (p.200) Hiyori named as having been with Ryuuen when he ran into Ayanokōji earlier; no scene here.
+<!-- walk: y1v6 ch7 → p.209 -->

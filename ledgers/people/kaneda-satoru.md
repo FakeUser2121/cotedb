@@ -55,3 +55,12 @@ aliases used for anchors: kaneda, kaneda satoru, kaneda-kun
 [rel:hasebe-haruka] (p.101) Hasebe’s glasses line; Yukimura does not put it that way but agrees.
 [rel:horikita-suzune] (p.103) Dorm call: Horikita wants to know whether Kaneda-kun will really be the question-maker.
 [note] (p.101, 103) No dialogue from Kaneda on these pages.
+
+### y1v6 p.184, 194 — Ch.7: the likely question author
+[scene] (p.184) Named as the probable author of Kushida’s switched envelope — excellently constructed problems.
+[thinks] (p.184) Since Ryuuen was involved, chances were high that Kaneda made them; easy questions would have looked like sabotage, so hard ones hid the swap.
+[rel:ryuuen-kakeru] (p.184) Implied author under Ryuuen’s direction.
+[rel:kushida-kikyou] (p.184) Wrote the problems she submitted under Ryuuen’s plan.
+[note] (p.194) Horikita says Kaneda’s questions were by no means easy; Keisei might not have topped ninety either.
+
+<!-- walk: y1v6 ch7 → p.209 -->

@@ -709,3 +709,11 @@ aliases used for anchors: ike, kanji, ike-kun
 [note] (p.133) Named only in Yukimura’s method analysis.
 
 <!-- walk: y1v6 ch6 → p.176 -->
+
+### y1v6 p.195 — Ch.7: named on the way out
+[scene] (p.195) Called Kanji by Sudou after the first exam day.
+[says:sudou-ken] (p.195) “I know. Come on, Kanji, Haruki. Let’s go back,”
+[rel:sudou-ken] (p.195) Leaves with Sudou’s group for early bed before day two.
+[note] (p.195) Nickname only; no dialogue of his own.
+
+<!-- walk: y1v6 ch7 → p.209 -->

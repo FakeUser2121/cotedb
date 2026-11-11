@@ -1002,3 +1002,28 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:sudou-ken] (p.164) Defends him against Horikita’s pi jab.
 
 <!-- walk: y1v6 ch6 → p.176 -->
+
+### y1v6 p.177, 189–190 — Ch.7: co-builder of the questions; the mastermind talk
+[scene] (p.177) Named with Horikita as having slaved over the question envelope for the past month; only Horikita knows all of them.
+[scene] (p.189) Morning walk: flags Karuizawa’s jealousy, then states Ayanokōji is the one pulling Horikita’s strings.
+[says:hirata-yousuke] (p.189) “I think Karuizawa-san is a surprisingly jealous person,”
+[says:hirata-yousuke] (p.189) “Good morning.”
+[says:hirata-yousuke] (p.189) “I’ve pretended to be Karuizawa-san’s boyfriend for a while now. I noticed that she’s been paying more attention to you lately, Ayanokouji-kun.”
+[says:hirata-yousuke] (p.189) “Really? Well, I’m glad. I don’t think it’s healthy to be in a fake relationship. That’s probably selfish of me to say, though,”
+[says:hirata-yousuke] (p.189) “Horikita-san’s questions will definitely sting Class C. I don’t think it should be that difficult for Class D to win, provided that everyone handles the exam well.”
+[says:hirata-yousuke] (p.189) “To tell you the truth, there was something I wanted to talk to you about, Ayanokouji-kun,” Hirata added. “Do you know Shiina Hiyori-san?”
+[says:hirata-yousuke] (p.189) “She came by my study group, too. It seems that Class C is looking for the mastermind hiding in Horikita-san’s shadow.”
+[says:hirata-yousuke] (p.189) “You’re the one pulling Horikita’s strings, Ayanokouji-kun,” said Hirata. It wasn’t a question, just a statement of fact. “I wouldn’t tell anyone else, of course. I’m sure that you have something planned. Besides, you’ve saved Class D many times over.”
+[says:hirata-yousuke] (p.189) “So, you don’t deny it?”
+[says:hirata-yousuke] (p.190) “I suppose I wouldn’t.”
+[says:hirata-yousuke] (p.190) “I assume that you had a reason for what you did at the sports festival. Still, are you okay? Class C is on the offense. If required, I’ve got your back,”
+[says:hirata-yousuke] (p.190) “I understand.”
+[says:hirata-yousuke] (p.190) “Quite a difference, huh?”
+[feat] (p.189) Names Ayanokōji as Horikita’s mastermind without asking and promises silence — the most direct class-side recognition of the pattern Class C is hunting.
+[rel:ayanokouji-kiyotaka] (p.189–190) Mastermind read; backup offer; accepts the non-denial.
+[rel:shiina-hiyori] (p.189) She visited his study group too; Class C hunting the shadow strategist.
+[rel:karuizawa-kei] (p.189) Fake boyfriend still in place; he calls her growing jealousy of Ayanokōji unhealthy to dwell on.
+[rel:horikita-suzune] (p.177, 189) Co-built the questions; confident they will sting Class C.
+[rel:sudou-ken] (p.190) Notes the calmer pre-exam room including Sudou’s group.
+
+<!-- walk: y1v6 ch7 → p.209 -->

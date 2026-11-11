@@ -100,3 +100,10 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [rel:yukimura-teruhiko] (p.156) Attendance gate for Keisei.
 
 <!-- walk: y1v6 ch6 → p.176 -->
+
+### y1v6 p.185, 193 — Ch.7: named as a hardest-hit average
+[scene] (p.185) Named with Haruka as the average students the difficult humanities will hit hardest.
+[note] (p.185, 193) Named only in Ayanokōji’s difficulty analysis: they must ace the humanities; the first subject lineup is cruel for students like them.
+[rel:hasebe-haruka] (p.185, 193) Paired with her as the average-case hardest hit.
+
+<!-- walk: y1v6 ch7 → p.209 -->

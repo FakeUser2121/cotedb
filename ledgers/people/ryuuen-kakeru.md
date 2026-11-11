@@ -636,3 +636,81 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:ayanokouji-kiyotaka] (p.170) Present in the lobby crowd; watches the exchange.
 
 <!-- walk: y1v6 ch6 → p.176 -->
+
+### y1v6 p.177–185 — Ch.7 §7.0: the shadow submission and the mockery
+[scene] (p.178) Waits in the hallway with his own manila envelope; walks with Horikita and Ayanokōji to the staff room and watches the handover.
+[says:ryuuen-kakeru] (p.178) “Yo, Suzune.”
+[says:ryuuen-kakeru] (p.178) “It’s inevitable. I was waiting for you.”
+[says:ryuuen-kakeru] (p.178) “You’re submitting your test problems at the last minute too, huh? Let’s go together,”
+[says:ryuuen-kakeru] (p.178) “Anyone might try and sneak a peek at this, so I understand your caution.”
+[says:ryuuen-kakeru] (p.178) “Ha. There’s no way anyone would be stupid enough to betray me,”
+[says:ryuuen-kakeru] (p.178) “I really hope that whatever intelligence you squeezed out of those defective pieces of garbage in your class works in Class C’s favor,”
+[says:ryuuen-kakeru] (p.179) “Oh ho! That’s an interesting remark. You sound pretty arrogant.”
+[says:ryuuen-kakeru] (p.179) “Maybe so,”
+[says:ryuuen-kakeru] (p.183) “Ha ha ha ha ha! What are you even doing, Suzune?”
+[says:ryuuen-kakeru] (p.183) “This is already checkmate, don’t you see? The questions that you struggled so hard to come up with are completely meaningless!”
+[says:ryuuen-kakeru] (p.183) “Hmm, who can say? I mean, it’s not like I know anything about Class D, right?”
+[says:ryuuen-kakeru] (p.183) “Oh ho, how scary. Guess I’ll just head back to my dorm like a good boy. I sure am looking forward to the exam’s results,”
+[feat] (p.183) Laughs at what he believes is checkmate; does not know Horikita has already run the counter.
+[rel:horikita-suzune] (p.178–183) Shadow walk, traitor bait, mockery, then dismissal when she raises her voice.
+[rel:kushida-kikyou] (p.182–184) Believed she submitted first; later rooftop scene shows he had already switched the questions.
+[rel:chabashira-sae] (p.179) Sakagami takes his envelope; Chabashira ignores him at the side.
+[rel:sakagami-sensei] (p.179) First to take Ryuuen’s manila envelope.
+[note] (p.184) Horikita’s counter means Class C students who trusted the fake acceptance may fail — Ryuuen is completely unaware of the damage.
+
+### y1v6 p.200–208 — Ch.7 §7.4–7.5: the photo threat and the rooftop recount
+[scene] (p.200) Sends Ayanokouji the photograph and a pay-up message; then holds the rooftop summit with Kushida after the exam day.
+[says:ryuuen-kakeru] (p.202) “You’re late, Kikyou. What, couldn’t slip past your classmates?”
+[says:ryuuen-kakeru] (p.202) “Huh?”
+[says:ryuuen-kakeru] (p.202) “Oh, yeah. I switched ’em out before the deadline. What about it?”
+[says:ryuuen-kakeru] (p.202) “What? You mad about something so trivial?”
+[says:ryuuen-kakeru] (p.202) “You’re mistaken, Kikyou. Your questions weren’t used on the exam,”
+[says:ryuuen-kakeru] (p.202) “You really haven’t noticed? Suzune acted ahead of time to stop the school from formally accepting your questions. Thanks to that, not only did we lose, we just barely avoided catastrophe. Everyone in my class depended on that strategy,”
+[says:ryuuen-kakeru] (p.202) “Go ahead and wait for the results if you doubt me. In all likelihood, Class C lost to Class D. That rendered our agreement invalid. I’m not giving”
+[says:ryuuen-kakeru] (p.203) “you the correct test questions if I get nothing in return,”
+[says:ryuuen-kakeru] (p.203) “How about showing me some gratitude instead?”
+[says:ryuuen-kakeru] (p.203) “So trusting, to get snared without even knowing it,”
+[says:ryuuen-kakeru] (p.203) “Come on. I’m not doing anything. Go ahead, look in your pocket,”
+[says:ryuuen-kakeru] (p.203) “That’s probably not all there is. I assume that several pieces of evidence of cheating are scattered throughout your belongings. I’m sure you’ll see them if you go digging later,”
+[says:ryuuen-kakeru] (p.203) “Someone in Class D was prepared to go in for the kill. What if I had still given you the right questions? Come on. Say you scored really high on the exam and then someone accused you of cheating, and they found those papers? What do you think would happen then?”
+[says:ryuuen-kakeru] (p.204) “If you were innocent, it would be stupid. But you got your hands on the questions beforehand by working with me. There’d be nothing you could do about it,”
+[says:ryuuen-kakeru] (p.204) “You really don’t have any clue? Have you noticed any strange people around?”
+[says:ryuuen-kakeru] (p.204) “Let me guess who that girl was. Karuizawa Kei,”
+[says:ryuuen-kakeru] (p.204) “How could I have seen? It’s simple deduction,”
+[says:ryuuen-kakeru] (p.204) “Explain what happened from the beginning.”
+[says:ryuuen-kakeru] (p.204) “No doubt in my mind. Someone set a trap for you.”
+[says:ryuuen-kakeru] (p.204) “That’s not what Karuizawa was going for. Did someone want to know whether you had a spare uniform?”
+[says:ryuuen-kakeru] (p.205) “What makes you say that with such certainty?”
+[says:ryuuen-kakeru] (p.205) “Well, you’re probably right about that. However, only one or two people at most lied to you,”
+[says:ryuuen-kakeru] (p.205) “If someone there read the situation perfectly, then it’s likely that person deceived you. Someone who could figure out everyone’s thought processes, behavioral tics, and habits. Someone who guessed what kind of remarks they’d make. Someone who could read all those things perfectly. Someone who wrote the script, so that you’d act your part in their play,”
+[says:ryuuen-kakeru] (p.205) “Once they learned that you had one blazer, the only thing left to do was plant the cheat sheet on you during gym class. The real question is, who came up with the idea? It wasn’t Suzune or Karuizawa. They aren’t the kind of girls who could do something like that,”
+[says:ryuuen-kakeru] (p.205) “Shortly before the test, a letter accusing Ichinose of doing something illegal went out, right?”
+[says:ryuuen-kakeru] (p.205) “It was part of the mastermind’s strategy,”
+[says:ryuuen-kakeru] (p.205) “I wasn’t the one who sent that letter. The person from Class D who set you up did it.”
+[says:ryuuen-kakeru] (p.206) “Do you really think I’d put a letter accusing Ichinose of fraud in every single first-year student’s mailbox and deliberately add my own name to it? Well, putting my own personality aside, it was only natural that everyone thought that I did it,”
+[says:ryuuen-kakeru] (p.206) “Do you really think I would do that?”
+[says:ryuuen-kakeru] (p.206) “Who knows? I’ve thought about it at length, but it’s still unclear. Did the culprit simply want to know whether Ichinose had a lot of points? Or maybe… No, that’s impossible. Couldn’t be something that stupid,”
+[says:ryuuen-kakeru] (p.206) “Hey, Kikyou. I don’t know anything about your past, and I’m not interested. However, if you keep trying to get Horikita kicked out of school, you’re going to disappear. Get it?”
+[says:ryuuen-kakeru] (p.206) “Yep. With this stroke of luck, your class probably has a chance of being promoted to C,”
+[says:ryuuen-kakeru] (p.206) “How does it feel to be knocked down a peg by the ‘defectives’ in Class D?”
+[says:ryuuen-kakeru] (p.206) “I feel like I don’t have a care in the world right now. Whether it’s”
+[says:ryuuen-kakeru] (p.207) “Class A or D, we’re only scratching the surface of our battle,”
+[says:ryuuen-kakeru] (p.207) “Do your absolute best,”
+[says:ryuuen-kakeru] (p.207) “Heh.”
+[says:ryuuen-kakeru] (p.207) “You noticed?”
+[says:ryuuen-kakeru] (p.207) “Because I gave them to X, I suppose,”
+[says:ryuuen-kakeru] (p.207) “No. It was a necessary deal.”
+[says:ryuuen-kakeru] (p.207) “However, X understands me very well,”
+[says:ryuuen-kakeru] (p.208) “So, X protected Suzune while managing to keep you in check, Kikyou,”
+[says:ryuuen-kakeru] (p.208) “But I’m about to drive him into a corner. If he doesn’t reveal his identity—”
+[says:ryuuen-kakeru] (p.208) “Then I’m going to destroy her.”
+[feat] (p.204–208) Deduces the juice-and-cleaners plant without having seen it; reconstructs the mastermind’s script letter; recounts the three options after X’s warning and chooses wrong questions to keep Horikita in and Class C’s study load honest.
+[rel:kushida-kikyou] (p.202–208) Switched her questions after X’s warning; plants the cheat sheet in her blazer pocket beforehand; warns her that pursuing Horikita ends in disappearance.
+[rel:ayanokouji-kiyotaka] (p.200–201) Photo declaration of war; later names X as the one who read his whole strategy.
+[rel:horikita-suzune] (p.202–203) Credits her preemptive counter as saving Class C from catastrophe; wants Horikita kept in school, not expelled, under the X game.
+[rel:karuizawa-kei] (p.204) Names her as the juice girl from the deduction.
+[rel:ichinose-honami] (p.205–206) Fraud letter: he did not send it; the Class D mastermind did, with his name attached for credibility.
+[rel:kaneda-satoru] (p.207–208) Sent the pre-switch question photos to X by email under the Transaction subject line.
+[trait] (p.200–208) Declaration-of-war photo; taunting gratitude demand; three-option rational choice under pressure; fascinated by X; still wants to reach Class A whatever the class letter.
+[note] (p.200) Hiyori present when he met Ayanokōji earlier; photo of Karuizawa is the leverage.
+<!-- walk: y1v6 ch7 → p.209 -->

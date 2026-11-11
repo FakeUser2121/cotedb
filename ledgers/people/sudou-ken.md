@@ -982,3 +982,18 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:hirata-yousuke] (p.164) Hirata softens Horikita’s jab on his behalf.
 
 <!-- walk: y1v6 ch6 → p.176 -->
+
+### y1v6 p.194–195 — Ch.7 §7.3: post-math apology
+[scene] (p.194) Approaches Horikita after the first day, bag in hand, drained, to apologize for possibly missing forty in every subject.
+[says:sudou-ken] (p.194) “Suzune, there’s something I want to tell you. Can I head back to the dorm with you?”
+[says:sudou-ken] (p.195) “About today’s test… I’m not sure if I hit the forty-point mark in every subject. I wanted to apologize. I’m sorry,”
+[says:sudou-ken] (p.195) “Kushida? Then no, none,”
+[says:sudou-ken] (p.195) “Well then, I’m gonna head back and study.”
+[says:sudou-ken] (p.195) “I know. Come on, Kanji, Haruki. Let’s go back,”
+[rel:horikita-suzune] (p.194–195) Apology to Suzune; drops interest once he learns she is meeting Kushida.
+[rel:ike-kanji] (p.195) Calls him Kanji on the way out.
+[rel:yamauchi-haruki] (p.195) Calls him Haruki on the way out.
+[rel:ayanokouji-kiyotaka] (p.195) Skeptical look when Horikita’s business might involve him staying.
+[trait] (p.194–195) Sincere about the forty-point fear; not perturbed once the meeting is with a girl; still studying for tomorrow.
+
+<!-- walk: y1v6 ch7 → p.209 -->

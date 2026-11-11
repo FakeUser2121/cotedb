@@ -2397,3 +2397,86 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:hirata-yousuke] (p.164) Hirata protests the junior-high comparison; she counters with pi.
 
 <!-- walk: y1v6 ch6 → p.176 -->
+
+### y1v6 p.177–187 — Ch.7 §7.0: the preemptive counter
+[scene] (p.177) At the base of the stairs with the manila envelope of questions she and Hirata spent a month building; only she knows all of them.
+[says:horikita-suzune] (p.177) “Thinking about something?”
+[says:horikita-suzune] (p.177) “Hard to say. Don’t expect too much. The school made many”
+[says:horikita-suzune] (p.178) “Is this a coincidence? Or an ambush, perhaps?”
+[says:horikita-suzune] (p.178) “You’re not worried about any traitors in your own class?”
+[says:horikita-suzune] (p.178) “Yet you waited until the last minute to submit your questions,”
+[says:horikita-suzune] (p.178) “Ayanokouji-kun, have you been studying properly? How are things with you and your partner?”
+[says:horikita-suzune] (p.178) “Thinking isn’t enough. We can’t afford to have a single student drop out. Don’t get complacent, even though I’m sure we can handle whatever Class C throws at us,”
+[says:horikita-suzune] (p.179) “Hmm, who knows? Maybe it was simply cheap provocation? Just your style,”
+[says:horikita-suzune] (p.179) “These are the final questions, Chabashira-sensei,”
+[says:horikita-suzune] (p.179) “I’d like to ask you one thing, if I may,”
+[says:horikita-suzune] (p.179) “These questions are linked to either Class D’s victory or defeat. They’re two sides of the same coin. We must avoid a leak at all costs. After I hand these papers over to you, could you please not show them to anyone else? Myself included.”
+[says:horikita-suzune] (p.179) “Would that be a problem?”
+[says:horikita-suzune] (p.180) “I didn’t receive permission from every individual student, but…I don’t think they’d object. No one wants their class to lose,”
+[says:horikita-suzune] (p.180) “Are you asking me to prove that? You want me to show the questions to everyone in class and confirm that they’re okay with them?”
+[says:horikita-suzune] (p.180) “Thank you very much. Now I can face the exam in peace.”
+[says:horikita-suzune] (p.180) “A painful lesson to learn. I’ll work harder to bring the class together,”
+[says:horikita-suzune] (p.180) “Some things can’t stay the same.”
+[says:horikita-suzune] (p.180) “Yes, as long as I’m present at the time,”
+[says:horikita-suzune] (p.181) “Chabashira-sensei. You said that you wouldn’t lie, didn’t you?”
+[says:horikita-suzune] (p.181) “In that case, will the school accept the questions I just submitted to you?”
+[says:horikita-suzune] (p.181) “Let me rephrase that. Have you already accepted other test questions?”
+[says:horikita-suzune] (p.181) “I’d like to hear the answer from your own lips, Chabashira-sensei.”
+[says:horikita-suzune] (p.182) “So…does that mean someone else already submitted test questions and answers?”
+[says:horikita-suzune] (p.182) “Please cancel acceptance of the previously submitted test questions. I have the correct ones here,”
+[says:horikita-suzune] (p.182) “What in the world?” The fight drained out of Horikita, and she slumped over. This was far too cruel. “What student? Please tell me.”
+[says:horikita-suzune] (p.182) “But under the right circumstances, Class D can change the questions the school already accepted, yes?”
+[says:horikita-suzune] (p.183) “How much time do we have left to correct the questions?”
+[says:horikita-suzune] (p.183) “Were you behind this? Did you instruct Kushida-san to do this?”
+[says:horikita-suzune] (p.183) “I’m not going to tolerate this outsider eavesdropping on the conversation any further!”
+[says:horikita-suzune] (p.183) “Did Kushida-san instruct you not to show the questions to anyone?”
+[says:horikita-suzune] (p.183) “Please show them to me, then.”
+[says:horikita-suzune] (p.183) “These are incredibly difficult,”
+[says:horikita-suzune] (p.184) “So, is there nothing more to be done?”
+[says:horikita-suzune] (p.184) “Sorry. I wanted to take extra precautions just in case, so I kept up the act,”
+[says:horikita-suzune] (p.184) “Yes. I couldn’t allow myself to be defeated the same way I was at the sports festival. When the final exam’s details were announced, I immediately consulted Chabashira-sensei. I had two requests. One, that I alone submit Class D’s usable test questions, and two, that Chabashira-sensei pretend to accept any other questions submitted,”
+[says:horikita-suzune] (p.185) “Now that they definitely believe that Kushida’s test problems were used, if any Class C students aren’t studying for the test, they may just fail,”
+[says:horikita-suzune] (p.187) “I understand. However, this ends with the final exam.”
+[says:horikita-suzune] (p.187) “Sorry for keeping quiet about this.”
+[says:horikita-suzune] (p.187) “Ryuuen’s knocked me down so many times now. I thought that it was about time I learned,”
+[says:horikita-suzune] (p.187) “All that’s left now is to beat Kushida-san’s exam score.”
+[feat] (p.179–185) Preemptively consulted Chabashira: she alone submits usable questions, teacher pretends to accept Kushida’s — a counter to the sports-festival playbook Ayanokōji calls something he could not have devised.
+[rel:chabashira-sae] (p.179–187) Requested secrecy and the fake-acceptance provision; teacher notes she has changed.
+[rel:kushida-kikyou] (p.182–187) Kushida struck first with her own envelope; Horikita still holds the score bet as the remaining fight.
+[rel:ryuuen-kakeru] (p.178–183) Ambush walk, mockery, and expulsion from the corridor — she will not tolerate the outsider eavesdropping.
+[rel:hasebe-haruka] (p.185) Haruka and Akito named as the average students the difficult humanities will hit hardest.
+[rel:miyake-akito] (p.185) Named with Haruka as the hardest-hit average students.
+[rel:sakagami-sensei] (p.179) Sakagami takes Ryuuen’s envelope first at the staff room.
+
+### y1v6 p.194–199 — Ch.7 §7.3: the score claim and the bet settled
+[scene] (p.194) After the first exam day, claims ninety-eight or higher in math; walks Kushida to the special building to settle the bet.
+[says:horikita-suzune] (p.194) “A hundred. Or, at least, that’s what I’d like to say. Since there was one part where the question seemed ambiguous, I can probably only say I got ninety-eight points for certain. A few reasonably difficult questions were mixed in.”
+[says:horikita-suzune] (p.194) “None. I’m certain that I overcame this test. I think I managed to get near-perfect scores in the other three areas as well.”
+[says:horikita-suzune] (p.194) “I made this bet with Kushida-san assuming that she’d score a hundred points. I was incredibly thorough in my preparations so I wouldn’t suffer even a trivial mistake. Still, it’s a shame that I might’ve missed two points in the end,”
+[says:horikita-suzune] (p.195) “Something you want to tell me? Sorry, but can’t you just tell me here?”
+[says:horikita-suzune] (p.195) “That’s not terrible. Considering what was on the test, you did well,”
+[says:horikita-suzune] (p.195) “I have a little something to take care of, so head on back with your friends.”
+[says:horikita-suzune] (p.195) “My business has nothing to do with him. I’m meeting Kushida-san. Is there a problem?”
+[says:horikita-suzune] (p.195) “All right. But, considering what’s coming tomorrow, make sure to go to bed early,”
+[says:horikita-suzune] (p.195) “It’s not a big deal. Since we can estimate our respective scores, I just want to confirm something with her,”
+[says:horikita-suzune] (p.195) “What’s the matter with her, I wonder?”
+[says:horikita-suzune] (p.195) “I hope so. Ryuuen can be rather tenacious.”
+[says:horikita-suzune] (p.196) “Was that sarcasm?”
+[says:horikita-suzune] (p.196) “Nothing, forget it.”
+[says:horikita-suzune] (p.196) “Do you have a moment? I’d like to confirm something with you. But there are people around, so how about we go somewhere else?”
+[says:horikita-suzune] (p.196) “Ayanokouji-kun will come along, since he’s involved in this matter. You don’t mind, do you?”
+[says:horikita-suzune] (p.196) “Yes. Though the results haven’t been announced yet, we should be able to estimate our scores well enough ourselves,”
+[says:horikita-suzune] (p.196) “I’m confident that I scored a ninety-eight or higher. What about you?”
+[note] (p.197) Slightly puzzled by Kushida’s low score; thought she would have scored higher.
+[says:horikita-suzune] (p.197) “So, can I trust that you won’t get in my way from this point on?”
+[says:horikita-suzune] (p.197) “No need. Let’s just start by trusting each other,”
+[says:horikita-suzune] (p.197) “I know. But I think I can work hard to change that,”
+[says:horikita-suzune] (p.199) “I see. That’s a shame,”
+[says:horikita-suzune] (p.199) “I should’ve thought this through more carefully,”
+[rel:kushida-kikyou] (p.194–199) Bet settlement: Kushida concedes under eighty; handshake refused; temporary ceasefire only; admits she should have thought the terms through more carefully.
+[rel:sudou-ken] (p.195) Accepts his forty-point fear; sends him off with friends to bed early.
+[rel:ayanokouji-kiyotaka] (p.196) Brings him along as involved in the matter.
+[rel:ryuuen-kakeru] (p.195) Names his tenacity as the reason Kushida’s perfect score with his answers would have been fatal.
+[rel:kaneda-satoru] (p.194) Notes his questions were by no means easy.
+[trait] (p.194–199) Claims ninety-eight with rare uncertainty about two points; still puzzled by Kushida’s low self-estimate; overconfident about trusting each other.
+<!-- walk: y1v6 ch7 → p.209 -->

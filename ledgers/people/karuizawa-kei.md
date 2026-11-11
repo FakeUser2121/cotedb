@@ -742,3 +742,15 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [trait] (p.163–167) Anxiety about expulsion surfaces as an attack on the class’s favourite; guilt after, but she pays and sits back down.
 
 <!-- walk: y1v6 ch6 → p.176 -->
+
+### y1v6 p.188–189, 204 — Ch.7: the interrupt and the cleaner’s trap
+[scene] (p.188) Interrupts the Satou–Ayanokōji hall talk and pulls Satou toward Pallet; a look back at Ayanokōji before leaving.
+[says:karuizawa-kei] (p.188) “Did you already have plans with Ayanokouji-kun? It’s rare to see the two of you together,”
+[says:karuizawa-kei] (p.188) “Is that so? Well, how about we go get a drink at Pallet before class?”
+[rel:hirata-yousuke] (p.189) Hirata names her jealousy of Ayanokōji while still the fake boyfriend.
+[rel:satou-maya] (p.188) Interrupts and diverts the exam-morning pair.
+[rel:kushida-kikyou] (p.204) Named by Ryuuen as the girl who poured juice and then took the blazer to the cleaners — the plant window.
+[rel:ayanokouji-kiyotaka] (p.188) The look Hirata later reads as growing attention.
+[note] (p.204) No scene presence on the rooftop; named in Kushida’s cleaner’s story and Ryuuen’s deduction.
+
+<!-- walk: y1v6 ch7 → p.209 -->

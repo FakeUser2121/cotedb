@@ -466,3 +466,10 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [rel:sotomura-hideo] (p.169–170) Both open the same mass letter in the lobby.
 
 <!-- walk: y1v6 ch6 → p.176 -->
+
+### y1v6 p.187 — Ch.7: named in Class A’s divided factions
+[scene] (p.187) Named as one pole of Class A’s faction split alongside Sakayanagi.
+[rel:sakayanagi-arisu] (p.187) The two factions; neither would have run Horikita’s deceptive envelope plan.
+[note] (p.187) Named only in Chabashira’s comparison.
+
+<!-- walk: y1v6 ch7 → p.209 -->

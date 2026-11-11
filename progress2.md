@@ -2052,3 +2052,28 @@ ALL PASS (8 too short/skipped) + 69 non-says ALL PASS; make check OK
 (R18 0, R19 82/82); gate exit 0; hash
 `632cf1772c1ef4ec692d7a46f0462094` twice. New tags: none. Next: ch7
 p.177–209.
+
+### y1v6 ch7 (pp.177–209) — walked
+Exam-eve: Ryuuen shadows Horikita’s manila envelope to the staff room;
+Chabashira’s secrecy conditions and 6 p.m. deadline; Kushida’s prior
+acceptance revealed; Horikita’s preemptive counter with the teacher;
+Ryuuen’s checkmate mockery and the rooftop admission he switched the
+questions after X’s warning. Exam morning: Satou partner talk, Karuizawa
+interrupt, Hirata names Ayanokōji the mastermind and offers backup;
+first subject, Keisei’s predictions hold, Kushida’s agitated math slip.
+Post-day: Horikita’s ninety-eight math claim, Sudou’s forty-point
+apology, bet settled — Kushida concedes under eighty and refuses the
+handshake. §7.4 photo declaration of war; §7.5 rooftop cheat-sheet
+plant, juice-and-cleaners deduction, Ichinose letter, Transaction email,
+three options, “destroy her.” People stamped: ayanokouji-kiyotaka,
+chabashira-sae, hasebe-haruka, hirata-yousuke, horikita-suzune,
+ike-kanji, kaneda-satoru, karuizawa-kei, katsuragi-kouhei,
+kushida-kikyou, miyake-akito, ryuuen-kakeru, sakagami,
+sakayanagi-arisu, satou-maya, shiina-hiyori, sudou-ken,
+yamauchi-haruki; volume stamped `y1v6 ch7 → p.209`. First y1v6 block:
+sakagami. Cross-footer quotes split at page breaks (ayanokouji
+prostrate line; ryuuen results and battle lines). Blanks pp.186, 198,
+209 noted. verify y1v6: 1135 [says] ALL PASS (18 too short/skipped) +
+69 non-says ALL PASS; make check OK (R18 0, R19 82/82); gate exit 0;
+hash `2cac97c2b888d1f4aaf4298a986c15e8` twice. New tags: none. Next:
+ch8 postscript pp.210–211.

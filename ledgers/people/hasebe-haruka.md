@@ -78,3 +78,10 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [trait] (p.156) Runs the social logistics of the new group the way she runs nicknames — first and without waiting.
 
 <!-- walk: y1v6 ch6 → p.176 -->
+
+### y1v6 p.185, 193 — Ch.7: named as a hardest-hit average
+[scene] (p.185) Named with Akito as the average students the difficult humanities will hit hardest.
+[note] (p.185, 193) Named only in Ayanokōji’s difficulty analysis: Haruka and Akito must ace the humanities; the first subject lineup is cruel for students like them.
+[rel:miyake-akito] (p.185, 193) Paired with him as the average-case hardest hit.
+
+<!-- walk: y1v6 ch7 → p.209 -->

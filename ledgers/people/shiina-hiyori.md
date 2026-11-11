@@ -44,3 +44,13 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [note] (p.141) No dialogue tags on several of her speeches; speaker is Hiyori by the surrounding “said Hiyori” and reply structure.
 
 <!-- walk: y1v6 ch6 → p.176 -->
+
+### y1v6 p.189 — Ch.7: named in Hirata’s mastermind talk
+[scene] (p.189) Named when Hirata reports she also visited his study group; Class C hunting the shadow strategist.
+[says:hirata-yousuke] (p.189) “Do you know Shiina Hiyori-san?”
+[says:hirata-yousuke] (p.189) “She came by my study group, too. It seems that Class C is looking for the mastermind hiding in Horikita-san’s shadow.”
+[rel:hirata-yousuke] (p.189) Second study-group visit after the café crash.
+[rel:ayanokouji-kiyotaka] (p.189) Confirms she met him at Keisei’s group.
+[note] (p.189) Named only; no scene presence.
+
+<!-- walk: y1v6 ch7 → p.209 -->

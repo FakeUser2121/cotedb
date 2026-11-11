@@ -1081,3 +1081,78 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [trait] (p.165–167) Public face holds even under grape juice: no anger, easy forgiveness, worry about the uniform instead of herself.
 
 <!-- walk: y1v6 ch6 → p.176 -->
+
+### y1v6 p.182, 184, 193 — Ch.7: named as the prior submitter; exam shake
+[scene] (p.182) Named by Chabashira as the student whose questions the school already accepted and reviewed.
+[says:chabashira-sae] (p.182) “Kushida Kikyou.”
+[scene] (p.193) During the math section she squeaks “Why?”, apologizes, then answers in an agitated state never seen before.
+[says:kushida-kikyou] (p.193) “Why?”
+[says:kushida-kikyou] (p.193) “N-no, it’s nothing. I’m sorry,”
+[rel:horikita-suzune] (p.182–184) Struck first with her envelope; Horikita’s counter means Class C may have studied the wrong problems; score bet still open.
+[rel:ayanokouji-kiyotaka] (p.193) He watches her scan the sheet for two or three minutes before answering — the reaction he wanted to see.
+[rel:ryuuen-kakeru] (p.184) Implied collusion on answers; later rooftop shows the questions were switched.
+[trait] (p.193) Normally calm and composed; shaken through the math portion in front of the class.
+
+### y1v6 p.194–199 — Ch.7 §7.3: the bet conceded, the hatred kept
+[scene] (p.194) Leaves the classroom quickly after the first day; admits under eighty in the special building and refuses Horikita’s hand.
+[says:kushida-kikyou] (p.194) “What?”
+[says:kushida-kikyou] (p.196) “That depends on what you want to talk about,”
+[says:kushida-kikyou] (p.196) “You want to discuss our bet on the final exam. Right?”
+[says:kushida-kikyou] (p.196) “We don’t have to wait for the official results,”
+[says:kushida-kikyou] (p.196) “I couldn’t have scored any higher than eighty. No, I probably didn’t even get eighty. You won the bet, Horikita-san.”
+[says:kushida-kikyou] (p.197) “This is what I am,”
+[says:kushida-kikyou] (p.197) “There’s no need for that. You won the bet. Are you satisfied, Horikita-san?”
+[says:kushida-kikyou] (p.197) “I’ll keep my promise, no matter how much I hate it. Do you want that in writing?”
+[says:kushida-kikyou] (p.197) “I hate you, Horikita-san.”
+[says:kushida-kikyou] (p.197) “I feel like I’m growing to hate you more and more,”
+[says:kushida-kikyou] (p.199) “I won’t do anything to impede you. But I’ll never cooperate with you. Don’t forget that,”
+[says:kushida-kikyou] (p.199) “Remember, Horikita-san, the terms of the bet were that I wouldn’t get in your way. That’s all,”
+[rel:horikita-suzune] (p.194–199) Concedes the bet; walks past the outstretched hand; keeps only a non-aggression term, never cooperation; darkness aimed at Ayanokōji next.
+[rel:ayanokouji-kiyotaka] (p.199) Narration: the bet never covered leaving him alone; her gaze latches onto him as the next target.
+[rel:ryuuen-kakeru] (p.202–208) Rooftop confrontation over the switched questions and the planted cheat sheet.
+[rel:karuizawa-kei] (p.204) Recalls the juice and blazer cleaners story; Ryuuen names the girl.
+[rel:hirata-yousuke] (p.204–205) Pacifist pattern at the meeting is part of the trap deduction.
+[trait] (p.194–199) Exhaustion written on her face; admits eighty without surprise at Horikita’s claim; hatred kept intact while the written promise is offered and refused by Horikita.
+### y1v6 p.202–208 — Ch.7 §7.5: the rooftop, the switch, the planted sheet
+[scene] (p.202) Isolated rooftop: confronts Ryuuen that the questions she handed in were not the exam questions.
+[says:kushida-kikyou] (p.202) “What are you plotting, Ryuuen-kun?”
+[says:kushida-kikyou] (p.202) “The questions and answers you gave me were completely different than the ones on the exam.”
+[says:kushida-kikyou] (p.202) “I told you, didn’t I? I will get Horikita expelled, no matter what. I betrayed my classmates and switched out our questions on the condition that you gave me the math test answers. If you kept your promise, Horikita would’ve dropped out of school. But you betrayed me,”
+[says:kushida-kikyou] (p.202) “Trivial? You want to win against Class D and give us nothing in return?”
+[says:kushida-kikyou] (p.202) “Huh? What are you even talking about? I turned them in right away, just as you instructed me to. I even confirmed everything with Chabashira-sensei.”
+[says:kushida-kikyou] (p.202) “Wait. Ahead of time? That’s… No way.”
+[says:kushida-kikyou] (p.203) “Grrr!”
+[says:kushida-kikyou] (p.203) “Gratitude? I just lost to Horikita! What should I be grateful for?!”
+[says:kushida-kikyou] (p.203) “Hey, what are you doing?!”
+[says:kushida-kikyou] (p.203) “In my pocket?”
+[says:kushida-kikyou] (p.203) “What is this?”
+[says:kushida-kikyou] (p.203) “Why were these in my uniform?”
+[says:kushida-kikyou] (p.203) “I don’t understand,”
+[says:kushida-kikyou] (p.203) “Wait, you mean I’d be expelled?! Even though I didn’t cheat? That’s stupid!”
+[says:kushida-kikyou] (p.204) “When did this cheat sheet get in my—?”
+[says:kushida-kikyou] (p.204) “No way, it can’t… No, wait. I went to our final test meeting at a karaoke room last week with Horikita and the others. A girl got angry and poured her juice on me. Afterward, she asked if she could take my blazer to the cleaners. It was understandable, given that situation, but…for some reason, it keeps nagging at me,”
+[says:kushida-kikyou] (p.204) “H-how did you know? Don’t tell me you saw?”
+[says:kushida-kikyou] (p.204) “That’s not possible. It’s true that my blazer went to the cleaners, but I checked my pockets when I got it back. Besides, the clerk would’ve told me if there was something inside it!”
+[says:kushida-kikyou] (p.205) “A spare? That’s impossible,”
+[says:kushida-kikyou] (p.205) “Are you trying to say that everyone there set a trap for me, and I couldn’t see right through it? I’m not an idiot. I observe everyone’s behavior. If they were lying to me, I definitely would’ve noticed.”
+[says:kushida-kikyou] (p.205) “Huh? How would—”
+[says:kushida-kikyou] (p.205) “So, you’re saying I was tricked? By who?”
+[says:kushida-kikyou] (p.205) “Yeah, the letter you tried to trap her with, Ryuuen. Why did you do that?”
+[says:kushida-kikyou] (p.205) “Huh?”
+[says:kushida-kikyou] (p.206) “I don’t understand.”
+[says:kushida-kikyou] (p.206) “If it wasn’t you, then you should’ve just denied it.”
+[says:kushida-kikyou] (p.206) “No.”
+[says:kushida-kikyou] (p.206) “But what was the letter’s point? To put you on your guard?”
+[says:kushida-kikyou] (p.207) “What do you mean?”
+[says:kushida-kikyou] (p.207) “Wait—the cheat sheet! Something’s not right here!”
+[says:kushida-kikyou] (p.207) “What’s this all about? Tell me, Ryuuen!”
+[says:kushida-kikyou] (p.207) “Why did someone in Class D have these test questions? Only you and I should have them.”
+[says:kushida-kikyou] (p.207) “So, you betrayed me?”
+[feat] (p.204–205) Walks Ryuuen through the karaoke meeting in detail; her blazer-cleaning memory is the crack that exposes the plant window — though she still denies a spare uniform existed.
+[rel:ryuuen-kakeru] (p.202–208) Learns he switched the questions after X’s warning; receives the planted cheat sheet and the three-option recount; Class C agreement void.
+[rel:horikita-suzune] (p.202–203) Ryuuen names her preemptive action as the reason Class C barely avoided catastrophe; Kushida’s rage at losing to her still boils.
+[rel:karuizawa-kei] (p.204) Named by Ryuuen as the girl who poured juice and took the blazer to the cleaners.
+[rel:ichinose-honami] (p.205–206) The fraud letter is part of the mastermind’s script; Ryuuen denies sending it.
+[rel:shibata-sou] (p.202) Class C depended on the strategy; collective points now at stake for promotion talk.
+[trait] (p.202–208) Enraged at being used; refuses to be grateful; accepts the cheating-frame threat as stupid yet real; trusts her own observation of everyone and is still deceived by one or two liars.
+<!-- walk: y1v6 ch7 → p.209 -->

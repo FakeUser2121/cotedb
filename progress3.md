@@ -1505,3 +1505,12 @@ Katsuragi, Hiyori and Yoshimoto. Quote hygiene: 895 [says] spans (8
 too short) and 69 non-says spans, corpus-exact; “ledger” and a bare
 “What are you?” outside quotes were reworded before ship. Determinism
 hash across consecutive builds: `632cf1772c1ef4ec692d7a46f0462094`.
+
+Year 1 Volume 6 chapter 7 is thirty-three pages across the envelope
+counter, the exam days and the rooftop switch confession, written in two
+halves with stamps on the last file batch. Eighteen people ledgers gain
+blocks; first y1v6 heading for Sakagami. Quote hygiene: 1135 [says]
+spans (18 too short) and 69 non-says spans, corpus-exact; three
+cross-footer quotes were split at the page break before ship.
+Determinism hash across consecutive builds:
+`2cac97c2b888d1f4aaf4298a986c15e8`.

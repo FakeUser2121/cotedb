@@ -77,3 +77,15 @@ aliases used for anchors: sakagami, sakagami-sensei
 [note] (p.122) Sakagami-sensei is called part of the problem in how the classes are evaluated.
 
 <!-- walk: y1v4 ch3 → p.124 -->
+
+## y1v6
+
+<!-- walk: y1v6 → start -->
+
+### y1v6 p.179 — Ch.7: first to take an envelope
+[scene] (p.179) Appears at the staff room first and takes Ryuuen’s manila envelope before Chabashira takes Horikita’s.
+[rel:ryuuen-kakeru] (p.179) Takes his submission.
+[rel:chabashira-sae] (p.179) Takes Sakagami’s place moments later.
+[note] (p.179) Named only in the handover sequence; no dialogue.
+
+<!-- walk: y1v6 ch7 → p.209 -->
