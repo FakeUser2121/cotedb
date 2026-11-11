@@ -515,3 +515,27 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [trait] (p.133) Detached, matter-of-fact: she knows the cover is thin and files it as prevention rather than discipline.
 
 <!-- walk: y1v5 ch6 → p.143 -->
+
+### y1v5 p.146–148 — Ch.7 §7.1: relays Kinoshita’s accusation
+[scene] (p.146) In the infirmary Chabashira tells Horikita that Kinoshita claims she was knocked down deliberately.
+[says:chabashira-sae] (p.146) “I had Kushida fetch you. Looks like she was quick about it,”
+[says:chabashira-sae] (p.146) “Well, Kinoshita says that you deliberately knocked her down, Horikita.”
+[says:chabashira-sae] (p.146) “Kinoshita claims that, during the race, you repeatedly looked back at her.”
+[says:chabashira-sae] (p.146) “Even if that’s true, though, she claims you kicked her.”
+[says:chabashira-sae] (p.147) “I believe you’re innocent, but as long as we have no proof one way or the other, we must consider the matter,”
+[rule] (p.147) Names the Devil’s Proof and warns a foul-play finding would invalidate scores and bar the recommended events.
+[says:chabashira-sae] (p.147) “You haven’t forgotten what happened to Sudou after his fight, have you?”
+[says:chabashira-sae] (p.147) “Under the circumstances, it would probably be easy for the school to believe that the incident was intentional rather than accidental.”
+[says:chabashira-sae] (p.147) “Kinoshita won’t accept that,”
+[says:chabashira-sae] (p.147) “Her testimony, and the footage, make this fairly damning.”
+[says:chabashira-sae] (p.148) “Kushida consulted me on the matter.”
+[says:chabashira-sae] (p.148) “Okay. I’ll let you try,”
+
+### y1v5 p.151–156 — Ch.7 §7.1: presses the look-back, objects to Ryuuen
+[scene] (p.151) Chabashira presses Horikita on why she looked back during the race, then tries to stop Ryuuen’s kneeling demand.
+[says:chabashira-sae] (p.151) “Horikita, you only looked behind you when you raced with Kinoshita. Why did you do that?”
+[says:chabashira-sae] (p.152) “Is that true, Kinoshita?”
+[says:chabashira-sae] (p.155) “Ryuuen. This is going too far.”
+[says:chabashira-sae] (p.156) “You still have about twenty minutes. You haven’t eaten yet, right?”
+
+<!-- walk: y1v5 ch7 → p.159 -->

@@ -809,3 +809,26 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [note] (p.140) Her search is reported, not shown, before the chapter closes.
 
 <!-- walk: y1v5 ch6 → p.143 -->
+
+### y1v5 p.145–148 — Ch.7 §7: fetches Horikita, admits she told the teacher
+[scene] (p.145) Kushida runs up to Horikita in a panic and leads her back to the nurse’s office for Kinoshita’s accusation.
+[says:kushida-kikyou] (p.145) “I’m so glad I found you, Horikita-san! I need to talk to you about something,”
+[says:kushida-kikyou] (p.145) “Would you mind coming with me? Things are going to get difficult,”
+[says:kushida-kikyou] (p.145) “It sounds as though Kinoshita-san actually suffered a serious injury.”
+[says:kushida-kikyou] (p.148) “Sorry, Horikita-san. Kinoshita-san asked me to talk to a teacher,”
+[says:kushida-kikyou] (p.148) “I’m good friends with Kinoshita-san. When I went to check on her during our break, she told me.”
+[says:kushida-kikyou] (p.148) “She seems frightened, and might be emotionally unstable,”
+[rel:kinoshita-minori] (p.148) Claims friendship with Kinoshita as the reason she heard the accusation first.
+
+### y1v5 p.152–156 — Ch.7 §7.1: defends Horikita, offers her points
+[scene] (p.152) Kushida speaks up quietly for Horikita, then offers her own points when Ryuuen demands payment.
+[says:kushida-kikyou] (p.152) “I think this is all just bad luck. I can’t imagine that Horikita-san would deliberately hurt her opponent.”
+[says:kushida-kikyou] (p.152) “Don’t you think your desire not to lose just got to you?”
+[says:kushida-kikyou] (p.153) “Would you let me talk things over a little more with Horikita-san, please?”
+[says:kushida-kikyou] (p.153) “What exactly do you want, then?”
+[says:kushida-kikyou] (p.154) “Could I use my points, Ryuuen-kun?”
+[says:kushida-kikyou] (p.154) “I don’t believe Horikita-san would do something like this on purpose.”
+[rel:ryuuen-kakeru] (p.155) Ordered to bring Suzune to Ryuuen after the festival.
+[says:kushida-kikyou] (p.156) “Are you okay? Horikita-san?”
+
+<!-- walk: y1v5 ch7 → p.159 -->

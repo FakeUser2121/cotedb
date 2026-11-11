@@ -222,3 +222,11 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [note] (p.135) The president does not act on or answer the look on these pages.
 
 <!-- walk: y1v5 ch6 → p.143 -->
+
+### y1v5 p.157 — Ch.7 §7.2: speaks to Suzune at the entrance
+[scene] (p.157) Walking in with Tachibana, Manabu stops and asks his sister whether she understands Class D’s situation.
+[role:student-council] (p.157) Student council president; Tachibana, secretary, is with him.
+[says:horikita-manabu] (p.157) “Do you understand Class D’s situation right now?”
+[rel:horikita-suzune] (p.157) One line to his sister, then she says she will not bother him.
+
+<!-- walk: y1v5 ch7 → p.159 -->

@@ -3025,3 +3025,16 @@ walk: y1v1 → DONE
 [trait] (p.129–142) Runs a deliberate double game: full analysis for his inner circle, controlled misinformation for the class, and one surgical pressure campaign on Horikita.
 
 <!-- walk: y1v5 ch6 → p.143 -->
+
+### y1v5 p.144 — Ch.7 §7: the beatdown already landed
+[scene] (p.144) Horikita walks to the nurse’s office still stinging from Ayanokouji’s earlier speech.
+[rel:horikita-suzune] (p.144) Horikita admits he was absolutely right and she had no reply.
+
+### y1v5 p.158 — Ch.7 §7.2: declines the search
+[scene] (p.158) On the field after Horikita’s failed search, Ayanokouji notes her breath and refuses to come along.
+[says:ayanokouji-kiyotaka] (p.158) “You sound like you’re out of breath,”
+[says:ayanokouji-kiyotaka] (p.158) “Is your leg all right?”
+[says:ayanokouji-kiyotaka] (p.158) “I’ll pass. I’d only end up getting in your way.”
+[rel:horikita-suzune] (p.158) She treats Sudou as an asset she accepts; he lets her go alone.
+
+<!-- walk: y1v5 ch7 → p.159 -->

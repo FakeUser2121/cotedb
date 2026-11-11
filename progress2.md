@@ -1849,3 +1849,23 @@ rewriting Chabashira’s unquoted “keep your distance.” Quotes: verify 301
 [says] + 199 non-says ALL PASS (0 too short). make check OK (R18 0,
 R19 82/82); gate exit 0; build hash `919b2428e7ea373295286796ebc08a4b`
 twice. New tags: none. Open: ch7 pp.144–159.
+
+### y1v5 ch7 (pp.144–159) — For Whose Sake? — walked
+Full chapter read in one pass (blank/short scans p.150, p.159). Horikita
+POV: alone after Ayanokouji’s beatdown to the nurse’s office; 300,000-point
+substitute plan; Kushida’s summons; Kinoshita’s deliberate-fall accusation
+and the Devil’s Proof; Ryuuen’s million-point deal and kneeling condition;
+Kushida’s points refused; “Your strategy beat mine”; brother at the
+entrance; failed Sudou search; Ayanokouji declines to come along.
+Ledger appends: 9 files stamped y1v5 ch7 → p.159 (horikita-suzune,
+chabashira-sae, kushida-kikyou, kinoshita-minori, ryuuen-kakeru,
+horikita-manabu, ayanokouji-kiyotaka, tachibana-akane first y1v5 heading,
+volumes/y1v5 Chapter 7 section). Quote hygiene: single-sentence pairs,
+short cries as notes (“No, I can’t,”), one says line with trailing narration
+trimmed. Append defect fixed: tmp bodies carried a second full ledger
+header (title + char_id + aliases) into eight mid-file positions — headers
+stripped, blank line restored after the ch6 stamp; R18 had spiked to 16 on
+char_id in search assets and returned to 0. Quotes: verify 425 [says] +
+204 non-says ALL PASS (0 too short). make check OK (R18 0, R19 82/82);
+gate exit 0; build hash `a6497eb8051f36898e69ec9702eccd44` twice. New tags:
+none. Open: ch8 pp.160–180.

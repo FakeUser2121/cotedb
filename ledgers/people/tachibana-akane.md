@@ -76,3 +76,10 @@ aliases used for anchors: tachibana, secretary, student council secretary
 [says] (p.94) “Wh-what an incredibly rude first-year student!”
 
 <!-- walk: y1v4.5 ch3 → p.107 -->
+## y1v5
+
+### y1v5 p.157 — Ch.7 §7.2: passing mention with the president
+[scene] (p.157) Tachibana walks in beside the student council president; she notices Horikita, he does not glance her way.
+[passing mention] (p.157) Named only as Secretary Tachibana with the president at the school entrance.
+
+<!-- walk: y1v5 ch7 → p.159 -->

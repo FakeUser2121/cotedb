@@ -357,3 +357,37 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [trait] (p.120–136) Psychological harm over raw score: target the leader, bait the hot head, poison the cloth, then smile through the accusation.
 
 <!-- walk: y1v5 ch6 → p.143 -->
+
+### y1v5 p.148–149 — Ch.7 §7.1: arrives at the infirmary
+[scene] (p.148) Ryuuen struts into the hallway and then the infirmary to inspect Kinoshita’s leg.
+[says:ryuuen-kakeru] (p.148) “Looks like things have gotten really serious.”
+[says:ryuuen-kakeru] (p.149) “I rushed over after Kinoshita asked for me. To think someone did this on purpose…”
+[says:ryuuen-kakeru] (p.149) “Hey, Kinoshita. You all right? Looks like you’ve had a rough time,”
+[says:ryuuen-kakeru] (p.149) “Whoa, this looks bad. I’m impressed you’ve held up, considering all you’re dealing with.”
+
+### y1v5 p.151–153 — Ch.7 §7.1: builds the case, demands a million points
+[scene] (p.151) Ryuuen turns the collision into intent, then offers to withdraw the complaint for a million points.
+[says:ryuuen-kakeru] (p.151) “Don’t blame yourself, Kinoshita. I know you wanted to participate in the three-legged race,”
+[says:ryuuen-kakeru] (p.151) “You really did this on purpose, didn’t you?”
+[says:ryuuen-kakeru] (p.151) “You can never really know someone, can you? Convenient, isn’t it?”
+[says:ryuuen-kakeru] (p.152) “It’s clear you did this, isn’t it?”
+[says:ryuuen-kakeru] (p.153) “I don’t have the time to drag this out,”
+[says:ryuuen-kakeru] (p.153) “We can strike a quick deal, though.”
+[says:ryuuen-kakeru] (p.153) “You should compensate Kinoshita and Class C for any losses.”
+[says:ryuuen-kakeru] (p.153) “If you hand over a million points, I’ll have Kinoshita withdraw her complaint.”
+[says:ryuuen-kakeru] (p.153) “Then go ahead and prove that, Suzune. Lay it all out in black and white for us.”
+[says:ryuuen-kakeru] (p.153) “We can prove that we aren’t lying. Let’s hurry up and have the student council president render his judgment,”
+
+### y1v5 p.154–156 — Ch.7 §7.1: the kneeling condition and the deadline
+[scene] (p.154) Ryuuen refuses Kushida’s points, orders the report upward, then adds a kneeling demand after Horikita agrees to pay.
+[says:ryuuen-kakeru] (p.154) “Oh, that’s quaint. Sorry—using your points is a no-go.”
+[says:ryuuen-kakeru] (p.154) “Very well. Kinoshita, we’re going to report this to the teachers, then to the student council.”
+[says:ryuuen-kakeru] (p.155) “You’re admitting to foul play?”
+[says:ryuuen-kakeru] (p.155) “Did you hear that, Kinoshita? She doesn’t think she’s in the wrong. Can you forgive her?”
+[says:ryuuen-kakeru] (p.155) “How about you get down on your knees and beg?”
+[says:ryuuen-kakeru] (p.155) “Teachers should stay out of this. It’s a problem between students,”
+[says:ryuuen-kakeru] (p.155) “Kushida, bring Suzune to me after the festival.”
+[rel:horikita-manabu] (p.153) Provokes Horikita by naming her brother, the student council president, as the judge.
+[rel:horikita-suzune] (p.155) Deadline after the festival: kneel and pay a million points, or let the school deliberate.
+
+<!-- walk: y1v5 ch7 → p.159 -->

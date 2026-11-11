@@ -22,3 +22,19 @@ char_id: kinoshita-minori · class: Class 1-C (enrolled April 2015) · status: m
 [note] (p.137) The trip is Horikita’s speculation to Ayanokōji, not a confession on Kinoshita’s page.
 
 <!-- walk: y1v5 ch6 → p.143 -->
+
+### y1v5 p.146–152 — Ch.7 §7.1: the accusation from the bed
+[scene] (p.146) Behind the infirmary curtain Kinoshita accuses Horikita of knocking her down on purpose in the obstacle course.
+[status] (p.146) Absent from all competitions after the obstacle course; teacher-inspected injuries look severe.
+[says:kinoshita-minori] (p.151) “Sorry. I tried my best, but…my leg just won’t listen.”
+[says:kinoshita-minori] (p.151) “When I fell, you said…that I definitely wouldn’t win.”
+[says:kinoshita-minori] (p.152) “I never called her name,”
+[says:kinoshita-minori] (p.152) “I can’t forgive Horikita-san for this. Now I have to take a break from track and field practice,”
+[rel:ryuuen-kakeru] (p.151) Stands with Ryuuen; he inspects her leg and speaks for the pair.
+
+### y1v5 p.155 — Ch.7 §7.1: refuses the apology
+[scene] (p.155) Asked whether she can forgive Horikita after the strategy admission, Kinoshita says no.
+[note] (p.155) Kinoshita answers “No, I can’t,” — too short for a says row.
+[rel:ryuuen-kakeru] (p.155) Follows Ryuuen out when he orders the report to teachers then the student council.
+
+<!-- walk: y1v5 ch7 → p.159 -->

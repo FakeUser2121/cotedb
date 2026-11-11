@@ -1418,3 +1418,13 @@ block in the volume ledger was removed before the second-half write-up.
 Quotes: 301 [says] and 199 non-says spans, corpus-exact; R18/R19 held at
 0/82. Determinism hash across consecutive builds:
 `919b2428e7ea373295286796ebc08a4b`.
+
+Chapter 7 puts the sports festival on hold for the false-injury trap:
+Chabashira relays Kinoshita’s claim, Ryuuen prices a million points and a
+kneel, and Horikita pays for strategy alone before finding her brother at
+the entrance. Tachibana gains a first y1v5 section as passing mention with
+the president. The append path briefly wrote a second ledger header into
+eight people files; those headers were removed before shipping. Quotes:
+425 [says] and 204 non-says spans, corpus-exact; R18/R19 held at 0/82.
+Determinism hash across consecutive builds:
+`a6497eb8051f36898e69ec9702eccd44`.

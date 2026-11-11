@@ -1833,3 +1833,98 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [action] (p.140, §6.10) Skips lunch and leaves — perhaps for Sudou — after Ayanokōji’s words.
 
 <!-- walk: y1v5 ch6 → p.143 -->
+
+### y1v5 p.144–145 — Ch.7 §7: alone after the beatdown
+[scene] (p.144) Horikita leaves Ayanokouji’s verbal beatdown for the school nurse alone, her leg still stiff from the obstacle fall.
+[rel:ayanokouji-kiyotaka] (p.144) “Since he usually followed his so-called policy of noninterference, I never would’ve imagined he would speak to me like that.”
+[thinks] (p.144) “Ayanokouji-kun had been absolutely right, and I’d had nothing to say in reply.”
+[says:horikita-suzune] (p.144) “No, that’s not it,”
+[says:nurse-unnamed] (p.144) “I already said this, but participating in more competitions will be difficult.”
+[says:horikita-suzune] (p.144) “I was planning to, but I think I’ve changed my mind.”
+[says:nurse-unnamed] (p.144) “That’s a wise decision.”
+[fact] (p.145) A substitute for all three recommended events costs 300,000 points; her dream of running alongside her brother ends with the withdrawal.
+[rel:kushida-kikyou] (p.145) Kushida runs up in a panic and says Kinoshita is badly hurt and wants to talk.
+
+### y1v5 p.146–148 — Ch.7 §7.1: the accusation
+[scene] (p.146) Back in the infirmary, Chabashira opens the curtain on a sobbing Kinoshita and says Kinoshita claims Horikita knocked her down deliberately.
+[says:chabashira-sae] (p.146) “I had Kushida fetch you. Looks like she was quick about it,”
+[says:chabashira-sae] (p.146) “Well, Kinoshita says that you deliberately knocked her down, Horikita.”
+[says:horikita-suzune] (p.146) “That’s not true at all. It was completely by accident.”
+[says:chabashira-sae] (p.146) “Kinoshita claims that, during the race, you repeatedly looked back at her.”
+[says:horikita-suzune] (p.146) “That’s because she called my name,”
+[says:chabashira-sae] (p.146) “Even if that’s true, though, she claims you kicked her.”
+[says:horikita-suzune] (p.146) “Even if she’s badly injured, she’s still lying. I didn’t do anything,”
+[says:chabashira-sae] (p.147) “I believe you’re innocent, but as long as we have no proof one way or the other, we must consider the matter,”
+[says:horikita-suzune] (p.147) “That’s idiotic.”
+[rule] (p.147) Proving foul play would invalidate her scores and bar the recommended events; Chabashira names the Devil’s Proof.
+[says:horikita-suzune] (p.147) “It’s a case of the Devil’s Proof, isn’t it?”
+[says:horikita-suzune] (p.148) “How did you hear about this, Chabashira-sensei? Who else knows?”
+[says:kushida-kikyou] (p.148) “Sorry, Horikita-san. Kinoshita-san asked me to talk to a teacher,”
+[rel:ryuuen-kakeru] (p.148) Ryuuen arrives strutting, both hands in his pockets, and says things have gotten really serious.
+
+### y1v5 p.149–152 — Ch.7 §7.1: Kinoshita’s story and the denial
+[scene] (p.149) Ryuuen inspects Kinoshita’s bandaged leg, then the three of them confront Horikita in the hallway.
+[says:ryuuen-kakeru] (p.149) “Hey, Kinoshita. You all right? Looks like you’ve had a rough time,”
+[says:ryuuen-kakeru] (p.149) “Whoa, this looks bad. I’m impressed you’ve held up, considering all you’re dealing with.”
+[says:kinoshita-minori] (p.151) “Sorry. I tried my best, but…my leg just won’t listen.”
+[says:ryuuen-kakeru] (p.151) “Don’t blame yourself, Kinoshita. I know you wanted to participate in the three-legged race,”
+[says:horikita-suzune] (p.151) “We ran into each other by accident, Kinoshita-san. Why are you saying that I made you fall?”
+[says:ryuuen-kakeru] (p.151) “You really did this on purpose, didn’t you?”
+[says:horikita-suzune] (p.151) “Stop joking around. You think I’d do something like this?”
+[says:kinoshita-minori] (p.151) “When I fell, you said…that I definitely wouldn’t win.”
+[says:horikita-suzune] (p.151) “I said no such thing. Why are you lying?”
+[says:horikita-suzune] (p.151) “Because she kept calling my name when she was behind me.”
+[says:kinoshita-minori] (p.152) “I never called her name,”
+[says:kinoshita-minori] (p.152) “I can’t forgive Horikita-san for this. Now I have to take a break from track and field practice,”
+[says:horikita-suzune] (p.152) “Don’t you feel any shame at all?”
+[says:ryuuen-kakeru] (p.152) “It’s clear you did this, isn’t it?”
+
+### y1v5 p.153–156 — Ch.7 §7.1: the million-point deal
+[scene] (p.153) Ryuuen offers to drop the complaint for a million points, then adds a kneeling condition after Horikita first refuses.
+[says:kushida-kikyou] (p.153) “Would you let me talk things over a little more with Horikita-san, please?”
+[says:ryuuen-kakeru] (p.153) “I don’t have the time to drag this out,”
+[says:ryuuen-kakeru] (p.153) “We can strike a quick deal, though.”
+[says:ryuuen-kakeru] (p.153) “You should compensate Kinoshita and Class C for any losses.”
+[says:horikita-suzune] (p.153) “This isn’t a joke. I don’t have to listen to this,”
+[says:kushida-kikyou] (p.153) “What exactly do you want, then?”
+[says:ryuuen-kakeru] (p.153) “If you hand over a million points, I’ll have Kinoshita withdraw her complaint.”
+[says:horikita-suzune] (p.153) “Don’t be ridiculous,”
+[says:horikita-suzune] (p.153) “I haven’t done anything wrong. I don’t need to pay one single point.”
+[says:ryuuen-kakeru] (p.153) “Then go ahead and prove that, Suzune. Lay it all out in black and white for us.”
+[says:ryuuen-kakeru] (p.153) “We can prove that we aren’t lying. Let’s hurry up and have the student council president render his judgment,”
+[says:kushida-kikyou] (p.154) “Could I use my points, Ryuuen-kun?”
+[says:kushida-kikyou] (p.154) “I don’t believe Horikita-san would do something like this on purpose.”
+[says:ryuuen-kakeru] (p.154) “Oh, that’s quaint. Sorry—using your points is a no-go.”
+[says:ryuuen-kakeru] (p.154) “Very well. Kinoshita, we’re going to report this to the teachers, then to the student council.”
+[says:horikita-suzune] (p.155) “If I pay you, you’ll make it so this issue never happened, right?”
+[says:ryuuen-kakeru] (p.155) “You’re admitting to foul play?”
+[says:horikita-suzune] (p.155) “No, because I’m not a liar.”
+[says:horikita-suzune] (p.155) “Your strategy beat mine. That’s why,”
+[note] (p.155) Kinoshita answers “No, I can’t,” — too short for a says row.
+[says:ryuuen-kakeru] (p.155) “How about you get down on your knees and beg?”
+[says:chabashira-sae] (p.155) “Ryuuen. This is going too far.”
+[says:ryuuen-kakeru] (p.155) “Teachers should stay out of this. It’s a problem between students,”
+[says:ryuuen-kakeru] (p.155) “Kushida, bring Suzune to me after the festival.”
+[rel:ryuuen-kakeru] (p.155) Deadline: kneel and pay a million points after the festival, or let the school deliberate; Kushida is to bring Suzune.
+[says:kushida-kikyou] (p.156) “Are you okay? Horikita-san?”
+[says:horikita-suzune] (p.156) “I’m okay. More importantly, how long has it been? Sensei, how much time is left for our lunch break?”
+[says:chabashira-sae] (p.156) “You still have about twenty minutes. You haven’t eaten yet, right?”
+
+### y1v5 p.157–158 — Ch.7 §7.2: the brother and the search
+[scene] (p.157) On the way out Horikita spots her brother, the student council president, with Secretary Tachibana; he speaks to her for the first time today.
+[says:horikita-suzune] (p.157) “This was all due to my carelessness. I’d only thought of myself.”
+[rel:horikita-manabu] (p.157) “Big brother…”; he asks whether she understands Class D’s situation.
+[says:horikita-manabu] (p.157) “Do you understand Class D’s situation right now?”
+[says:horikita-suzune] (p.157) “I’m starting to,”
+[says:horikita-suzune] (p.157) “Don’t worry. I won’t bother you, big brother.”
+[rel:ayanokouji-kiyotaka] (p.158) After the search fails she meets Ayanokouji on the field and accepts Sudou as an asset despite herself.
+[says:ayanokouji-kiyotaka] (p.158) “You sound like you’re out of breath,”
+[says:horikita-suzune] (p.158) “I’m looking for Sudou-kun. He hasn’t shown up, has he?”
+[says:horikita-suzune] (p.158) “Yes. He’s a valuable asset. I accept it, even though I don’t like it,”
+[says:horikita-suzune] (p.158) “No, I don’t. But there’re only so many places he can go. If he wants privacy, he probably returned to his dorm room,”
+[says:ayanokouji-kiyotaka] (p.158) “Is your leg all right?”
+[says:horikita-suzune] (p.158) “No, but I can run. Are you coming?”
+[says:ayanokouji-kiyotaka] (p.158) “I’ll pass. I’d only end up getting in your way.”
+[status] (p.158) Lunch nearly over, Sudou still missing, Class D’s defeat in the festival looking certain.
+
+<!-- walk: y1v5 ch7 → p.159 -->
