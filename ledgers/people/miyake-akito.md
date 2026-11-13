@@ -71,6 +71,8 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [rel:hasebe-haruka] (p.102) Surprised she is not backing out this time.
 [says:miyake-akito] (p.102) “I thought you were going to back out, Hasebe. This is unusual. You don’t normally want to get involved in anything.”
 
+<!-- walk: y1v6 ch5 → p.131 -->
+
 ### y1v6 p.132–137 — Ch.6 §6.0: the archery boy who stands up to Ryuuen
 [scene] (p.132) Fifth session; archery club already tense enough, so he prefers the café to a stuffy room.
 [says:miyake-akito] (p.132) “Yeah. Archery club is already quiet and tense enough,”
@@ -107,3 +109,18 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [rel:hasebe-haruka] (p.185, 193) Paired with her as the average-case hardest hit.
 
 <!-- walk: y1v6 ch7 → p.209 -->
+
+### y1v6 p.138, 140–141, 143–146, 149–151, 153, 164 — Ch.6: passing mentions
+[note] (p.144) Group-chat replies after Hasebe’s ice-cream post.
+[note] (p.145) Yukimura covers for Ayanokōji’s trouble; Miyake at the table.
+[scene] (p.138) Named across café and group-forming margins where he is not the section’s focus.
+[note] (p.138) Ryuuen’s exit leaves the café lively around Miyake’s table.
+[note] (p.140) Names Shiina Hiyori from Class C when she orders.
+[note] (p.141) Spy talk: Ayanokouji-san spends a lot of time with Horikita-san.
+[note] (p.143) Complains Class C wasted study time; Hasebe counters they still worked.
+[note] (p.146) Suggests Kushida would be good for tutoring because she gets along with everyone.
+[says:hasebe-haruka] (p.149) “Well, you and Ayanon are like me and Miyacchi. We’re all loners, right?”
+[note] (p.150) Nickname debate: Yukimura refuses Miyacchi.
+[note] (p.151) Group-chat replies after Hasebe’s ice-cream post.
+[note] (p.153) Sakura thanks Miyake-kun and Yukimura-kun in the invitation round.
+[note] (p.164) Horikita asks whether Hasebe and Miyake-kun’s issues are resolved.

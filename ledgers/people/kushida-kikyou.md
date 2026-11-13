@@ -1113,6 +1113,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:karuizawa-kei] (p.204) Recalls the juice and blazer cleaners story; Ryuuen names the girl.
 [rel:hirata-yousuke] (p.204–205) Pacifist pattern at the meeting is part of the trap deduction.
 [trait] (p.194–199) Exhaustion written on her face; admits eighty without surprise at Horikita’s claim; hatred kept intact while the written promise is offered and refused by Horikita.
+
 ### y1v6 p.202–208 — Ch.7 §7.5: the rooftop, the switch, the planted sheet
 [scene] (p.202) Isolated rooftop: confronts Ryuuen that the questions she handed in were not the exam questions.
 [says:kushida-kikyou] (p.202) “What are you plotting, Ryuuen-kun?”
@@ -1156,3 +1157,20 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:shibata-sou] (p.202) Class C depended on the strategy; collective points now at stake for promotion talk.
 [trait] (p.202–208) Enraged at being used; refuses to be grateful; accepts the cheating-frame threat as stupid yet real; trusts her own observation of everyone and is still deceived by one or two liars.
 <!-- walk: y1v6 ch7 → p.209 -->
+
+### y1v6 p.2, 50–51, 87, 107, 113, 115–116, 177, 181, 185, 187–188, 200 — Ch.1–7: passing mentions
+[scene] (p.2) Named across contents and strategy margins where she is not the section’s focus.
+[note] (p.2) Contents list Chapter 1: Kushida Kikyou’s Soliloquy.
+[note] (p.50) Horikita told Ayanokōji about Kushida-san in confidence.
+[note] (p.51) If Horikita does not deal with Kushida, her days may be numbered.
+[note] (p.87) Pairing question: would Miyake study with Kushida-san?
+[note] (p.107) Study-session logistics name Horikita and Kushida as the tutors.
+[note] (p.113) Friend-criteria talk prompted by Horikita’s conflict with Kushida.
+[note] (p.115) Ayanokōji asks what Horikita will do about Kushida after the café.
+[note] (p.116) Horikita’s counterfactual: Kushida’s easy future had she not enrolled.
+[note] (p.177) Exam-eve issues named as Ryuuen and Kushida.
+[note] (p.181) Even with answers, Kushida would need Horikita’s presence and approval.
+[note] (p.185) Horikita tricked Kushida into thinking her questions were accepted.
+[note] (p.187) Care needed in dealing with Kushida until the exam ends.
+[note] (p.188) Outcome of Horikita and Kushida’s battle imminent.
+[note] (p.200) Preemptive strike manipulated Kushida — the traitor playbook.

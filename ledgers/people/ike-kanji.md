@@ -717,3 +717,8 @@ aliases used for anchors: ike, kanji, ike-kun
 [note] (p.195) Nickname only; no dialogue of his own.
 
 <!-- walk: y1v6 ch7 → p.209 -->
+
+### y1v6 p.149, 193 — Ch.6–7: passing mentions
+[scene] (p.149) Named across group-chat and exam margins where he is not the section’s focus.
+[note] (p.149) Hasebe’s friendship talk does not include Ike; he is the old circle she left.
+[note] (p.193) Average-students analysis: Satou expected to outscore Ike or Yamauchi.

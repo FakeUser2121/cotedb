@@ -997,3 +997,13 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [trait] (p.194–195) Sincere about the forty-point fear; not perturbed once the meeting is with a girl; still studying for tomorrow.
 
 <!-- walk: y1v6 ch7 → p.209 -->
+
+### y1v6 p.47, 56, 165, 177, 184, 190, 204 — Ch.3–7: passing mentions
+[scene] (p.47) Named across violence, strategy and exam margins where he is not the section’s focus.
+[note] (p.47) Hypothetical: cannot imagine defeating Sudou-kun or Kouenji-kun bare-handed.
+[note] (p.56) Horikita’s importance-of-saving-Sudou line after the short-test rules.
+[note] (p.165) Karuizawa: no guarantee Sudou-kun and I won’t fail.
+[note] (p.177) Even Sudou and the other slackers did their best before the final.
+[note] (p.184) Easy-question sabotage check would have pointed at Sudou.
+[note] (p.190) Classroom arrival: Sudou’s group calm, not cramming in panic.
+[note] (p.204) Kushida’s karaoke recount: Ayanokouji, Sudou and Karuizawa sat together.

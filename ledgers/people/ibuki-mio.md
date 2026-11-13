@@ -416,3 +416,7 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [says:ibuki-mio] (p.72) “If they’re being threatened by someone they don’t know, that hardly seems ‘wild.’”
 [trait] (p.62–72) Defiant, analytical, unwilling to kneel to intimidation; the only Class C voice that repeatedly forces Ryuuen to answer.
 <!-- walk: y1v6 ch4 → p.75 -->
+
+### y1v6 p.73 — Ch.4: a passing mention in the spy grilling
+[scene] (p.73) Named in Ryuuen’s interrogation of Manabe’s circle after the café smash.
+[note] (p.73) Present as Ryuuen’s lieutenant while the spies recount who saw the bullying.

@@ -155,6 +155,13 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:katsuragi-kouhei] (p.80) Katsuragi’s Class D nomination is framed as the safer Class A play; his influence declining.
 [note] (p.80) No dialogue or action from Sakayanagi on these pages.
 
+
+<!-- walk: y1v6 ch5 → p.131 -->
+
+[scene] (p.80) Named as the likely chooser of Class A’s nomination for the short-quiz attack.
+[rel:katsuragi-kouhei] (p.80) Katsuragi’s Class D nomination is framed as the safer Class A play; his influence declining.
+[note] (p.80) No dialogue or action from Sakayanagi on these pages.
+
 ### y1v6 p.187 — Ch.7: named in Class A’s divided factions
 [scene] (p.187) Named as one pole of Class A’s faction split alongside Katsuragi.
 [rel:katsuragi-kouhei] (p.187) The two factions; neither would have run Horikita’s deceptive envelope plan.

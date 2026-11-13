@@ -36,3 +36,5 @@ char_id: onodera · class: Class 1-D · status: minor
 [says:onodera] (p.77) “B-but it’s not like it’s only your fault we lost, Horikita-san. Please, don’t bow to us. You don’t have to,”
 [rel:horikita-suzune] (p.77) Backs Horikita when Sudou piles on Yamauchi and the Professor.
 [note] (p.77) Text prints only the surname Onodera; no given name on these pages.
+
+<!-- walk: y1v6 ch5 → p.131 -->

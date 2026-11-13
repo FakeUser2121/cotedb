@@ -3443,3 +3443,27 @@ walk: y1v1 → DONE
 [rel:karuizawa-kei] (p.200) In the photograph Ryuuen sends — the leverage on Ayanokōji.
 [note] (p.200) Hiyori named as having been with Ryuuen when he ran into Ayanokōji earlier; no scene here.
 <!-- walk: y1v6 ch7 → p.209 -->
+
+### y1v6 p.2, 137, 141, 145–146, 148–150, 152, 154–155, 159, 161, 165–166, 168–169, 204, 210 — Ch.1–8: passing mentions
+[scene] (p.2) Named across contents pages and margins where he is not the section’s focus.
+[note] (p.2) Contents list Chapter 7’s title with his group formation already ahead of it.
+[note] (p.137) Movie-plan margins name him among the invited five.
+[note] (p.141) Spy-suspect talk: Hiyori asks how much time he spends with Horikita.
+[note] (p.145) Kushida-task margins; he would not risk the secret with her help unchecked.
+[note] (p.146) Hasebe’s Satou question and the nickname debate name him.
+[note] (p.148) Group-naming session: Yukimuu, Miyacchi, Ayanon.
+[note] (p.149) Hasebe pairs him with Yukimura as fellow loners.
+[note] (p.150) The Ayanokouji Group is named after him; he objects.
+[note] (p.152) Kiyopon nickname discussion with Haruka.
+[note] (p.154) Sakura’s blush at Kiyopon; first-name rule settles.
+[note] (p.155) Group founding line: five members, looking forward to it.
+[note] (p.159) Movie outing walk with Airi at his side.
+[note] (p.161) Karuizawa greets the party by name at the theater.
+[note] (p.165) Keisei cites him as witness to the no-leak method.
+[note] (p.166) Karuizawa demands whose side he is on after the cinema quarrel.
+[note] (p.168) Ike’s exam-chat approach in the hallway.
+[note] (p.169) The fraud-letter mailbox revelation reaches him by name.
+[note] (p.204) Kushida’s rooftop recount places him at the karaoke table.
+[note] (p.210) Author’s postscript names Ayanokouji Kiyotaka’s past as a volume-seven draw.
+
+<!-- walk: y1v6 ch8 → p.211 -->

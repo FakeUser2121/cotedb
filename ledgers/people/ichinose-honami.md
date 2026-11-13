@@ -785,3 +785,11 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [trait] (p.171–174) Proud rather than panicked; answers accusation with process, not outrage.
 
 <!-- walk: y1v6 ch6 → p.176 -->
+
+### y1v6 p.118, 205–206 — Ch.5, 7: passing mentions
+[scene] (p.118) Named across the café debrief and rooftop fraud-letter talk where she is not the section’s focus.
+[note] (p.118) Kushida asks what Horikita discussed with Honami-chan about equal treatment.
+[note] (p.205) Script deduction pages do not include her; the trap meeting is Class D’s.
+[note] (p.206) Ryuuen denies sending the letter accusing Ichinose of fraud.
+
+<!-- walk: y1v6 ch7 → p.209 -->

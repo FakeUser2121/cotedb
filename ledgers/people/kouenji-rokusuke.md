@@ -302,6 +302,17 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:okiya-kyousuke] (p.83) Paired with Okiya on the short quiz — a sufficiently high score as hoped.
 [note] (p.83) Crosses arms, grins, laughs when the pairings are read.
 
+
+<!-- walk: y1v6 ch5 → p.131 -->
+
+[scene] (p.79) Legs across desk, combing hair; refuses neither support nor rejection of Horikita’s plan.
+[says:kouenji-rokusuke] (p.79) “No. What a nonsensical question. Naturally, I fully grasp the situation.”
+[says:kouenji-rokusuke] (p.79) “Well, I’m not too sure about that. Wouldn’t that depend on the test’s contents?”
+[says:kouenji-rokusuke] (p.79) “I will consider the matter carefully, girl.”
+[rel:horikita-suzune] (p.79) Pressed not to score a zero and break the pair balance; she cannot pursue further.
+[rel:okiya-kyousuke] (p.83) Paired with Okiya on the short quiz — a sufficiently high score as hoped.
+[note] (p.83) Crosses arms, grins, laughs when the pairings are read.
+
 ### y1v6 p.137 — Ch.6: the one face Hiyori will keep
 [scene] (p.137) Named from the earlier suspect group as the face Hiyori says she will remember.
 [says:shiina-hiyori] (p.137) “Well, he’s unique,”

@@ -225,3 +225,9 @@ char_id: manabe-shiho · class: Class 1-C · status: minor
 [rel:ryuuen-kakeru] (p.106) Route to Ryuuen’s contact; the dummy-account message is the only reply so far.
 [note] (p.106) No dialogue or action from Manabe on these pages.
 <!-- walk: y1v6 ch5 → p.131 -->
+
+### y1v6 p.200 — Ch.7: a passing mention in the photo threat
+[scene] (p.200) Named as one of the girls who spilled the beans to Ryuuen.
+[note] (p.200) Ayanokōji reads the photograph as Manabe’s circle having talked.
+
+<!-- walk: y1v6 ch7 → p.209 -->

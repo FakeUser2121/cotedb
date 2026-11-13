@@ -714,3 +714,15 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [trait] (p.200–208) Declaration-of-war photo; taunting gratitude demand; three-option rational choice under pressure; fascinated by X; still wants to reach Class A whatever the class letter.
 [note] (p.200) Hiyori present when he met Ayanokōji earlier; photo of Karuizawa is the leverage.
 <!-- walk: y1v6 ch7 → p.209 -->
+
+### y1v6 p.116, 138, 140–142, 177, 185, 187, 195 — Ch.5–7: passing mentions
+[scene] (p.116) Named across Horikita’s counterfactual and café margins where he is not the section’s focus.
+[note] (p.116) Kushida worked with Ryuuen-kun in a desperate bid to drive Horikita out.
+[note] (p.138) Leaves the café with his lackeys after crushing Hasebe’s cup.
+[note] (p.140) Hasebe’s bad mood after Ryuuen’s smash.
+[note] (p.141) Spy talk: generally keeps distance from Ryuuen-kun.
+[note] (p.142) Hiyori left alone after showing up with Ryuuen — possible trap.
+[note] (p.177) Two goals: beat Class D and smoke out Horikita’s puppet master.
+[note] (p.185) Completely unaware of the damage Horikita’s counter will do.
+[note] (p.187) Horikita: Ryuuen’s knocked me down so many times.
+[note] (p.195) Horikita: Ryuuen can be rather tenacious if he gave answers.

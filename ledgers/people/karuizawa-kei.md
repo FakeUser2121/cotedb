@@ -754,3 +754,12 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [note] (p.204) No scene presence on the rooftop; named in Kushida’s cleaner’s story and Ryuuen’s deduction.
 
 <!-- walk: y1v6 ch7 → p.209 -->
+
+### y1v6 p.28, 106, 159, 161, 200, 205 — Ch.2–7: passing mentions
+[scene] (p.28) Named across phone and theater margins where she is not the section’s focus.
+[note] (p.28) Ayanokōji withholds the coming danger from Karuizawa on the call.
+[note] (p.106) Hypothetical: if Kushida must be brought over, he would threaten her like Karuizawa.
+[note] (p.159) Airi notes Karuizawa-san and the others also came to the movie.
+[note] (p.161) Condescending greeting to the theater party by name.
+[note] (p.200) Photograph leverage: Ryuuen’s image of the attack victim.
+[note] (p.205) Pacifist script deduction: placating Karuizawa’s juice-rage was the hook.

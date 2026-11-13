@@ -657,3 +657,12 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:sakagami-sensei] (p.179) Sakagami takes Ryuuen’s envelope moments before she takes Horikita’s.
 
 <!-- walk: y1v6 ch7 → p.209 -->
+
+### y1v6 p.40–41, 51, 192–193, 202 — Ch.3–7: passing mentions
+[scene] (p.40) Named across exam-prep and test-day margins where she is not the section’s focus.
+[note] (p.40) Class strategy talk runs while Horikita fetches Hirata; Chabashira’s earlier hint frames the plan.
+[note] (p.41) Ayanokōji recalls her hint about the test’s wording difficulty.
+[note] (p.51) Chabashira’s man-who-wants-to-see-me remark stays in Ayanokōji’s caution list.
+[note] (p.192) Invigilator for the final: places papers and forbids turning over early.
+[note] (p.193) Exam opens under her signal; average-students analysis follows.
+[note] (p.202) Rooftop switch talk does not include her; named only as the teacher Kushida confirmed with.

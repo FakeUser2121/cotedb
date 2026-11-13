@@ -2077,3 +2077,32 @@ prostrate line; ryuuen results and battle lines). Blanks pp.186, 198,
 69 non-says ALL PASS; make check OK (R18 0, R19 82/82); gate exit 0;
 hash `2cac97c2b888d1f4aaf4298a986c15e8` twice. New tags: none. Next:
 ch8 postscript pp.210–211.
+
+### y1v6 ch8 postscript (pp.210–211) + volume coverage gate — walked
+Postscript: Seven Seas newsletter signup block only (footer Page 201–212);
+no story beats. Volume-end locator pass for all 49 roster names carrying
+y1v6: strict word-boundary recheck (substring false positives on bare
+horikita / ike / kanji / oda discarded); passing-mention sections appended
+after the last chapter stamp for 19 people (ayanokouji-kiyotaka,
+chabashira-sae, hasebe-haruka, hirata-yousuke, horikita-suzune, ibuki-mio,
+ichinose-honami, ike-kanji, inogashira-kokoro, ishizaki-daichi,
+karuizawa-kei, kushida-kikyou, manabe-shiho, miyake-akito, ryuuen-kakeru,
+satou-maya, sudou-ken, yamauchi-haruki, yukimura-teruhiko); fill-in notes
+for residual hasebe / miyake / yukimura gaps; volume Coverage-notes bullet
+in the postscript section (atsuomi / ishigami / shibata / shiranami never
+named; Chihiro only as “Chihiro-chan” p.115; onodera-kayano p.77 under
+onodera; oda real hit only p.65; manabu bare-horikita false positives,
+real pp.14–15, 47, 70, 120–122, 168 cited; ike/kanji substring false
+positives ignored — real ike gaps pp.149, 193 filled). Real-gap recheck:
+0 missing for all strict-pattern roster chars except onodera-kayano (no
+file — covered by volume note). R19 regression from unquoted paraphrases
+fixed by converting to corpus-exact [says] rows (miyake p.149 Hasebe line;
+yukimura p.135 own line); inogashira sections reordered page-wise with
+ch3/ch5 stamps; ch5 stamps added for hasebe, ichihashi, kaneda, katsuragi,
+kouenji, okiya, onodera, sakayanagi, sakura, sotomura; ch7 stamps for
+ichinose, manabe, yukimura; ch8 stamp for ayanokouji; blank line before
+kushida p.202–208. Volume stamped `ch8 → p.211` and
+`y1v6 postscript → DONE`. verify y1v6: 1137 [says] ALL PASS (18 too
+short/skipped) + 69 non-says ALL PASS; make check OK (R18 0, R19 82/82);
+gate exit 0; hash `32cc51b89fef404700801208dbf6b93e` twice. New tags:
+none. Next volume per owner order.

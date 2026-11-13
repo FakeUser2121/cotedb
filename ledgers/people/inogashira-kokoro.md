@@ -35,7 +35,15 @@ char_id: inogashira-kokoro · class: Class 1-D · status: minor
 
 <!-- walk: y1v6 → start -->
 
+### y1v6 p.31 — Ch.3: a passing mention in the score rules
+[scene] (p.31) Named in Chabashira’s midterm scoring lecture pairings.
+[note] (p.31) Paired with Yukimura Teruhiko on the short-quiz results list.
+
+<!-- walk: y1v6 ch3 → p.59 -->
+
 ### y1v6 p.83 — Ch.5: short-quiz partner for Yukimura
 [scene] (p.83) Named as Yukimura Teruhiko’s short-quiz partner when Chabashira reads the pairings.
 [rel:yukimura-teruhiko] (p.83) Paired with him on the short-quiz list.
 [note] (p.83) Only the name on the partner list; no dialogue or action on these pages.
+
+<!-- walk: y1v6 ch5 → p.131 -->

@@ -565,3 +565,7 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [note] (p.195) Nickname only; no dialogue of his own.
 
 <!-- walk: y1v6 ch7 → p.209 -->
+
+### y1v6 p.193 — Ch.7: a passing mention in the exam baseline
+[scene] (p.193) Named in the average-students difficulty analysis during the first subject.
+[note] (p.193) Satou expected to outscore Ike or Yamauchi; he is the weaker study-session case.

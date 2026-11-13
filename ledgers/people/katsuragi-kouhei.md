@@ -439,6 +439,14 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [rel:sakayanagi-arisu] (p.80) His influence is on the decline in this reading.
 [note] (p.80) No dialogue or action from Katsuragi on these pages.
 
+
+<!-- walk: y1v6 ch5 → p.131 -->
+
+[scene] (p.80) Named when Chabashira confirms Class C as Class D’s attack target.
+[rel:sakayanagi-arisu] (p.80) Sakayanagi likely chose Class A’s nomination; Katsuragi probably would have nominated Class D for Class A’s best chance.
+[rel:sakayanagi-arisu] (p.80) His influence is on the decline in this reading.
+[note] (p.80) No dialogue or action from Katsuragi on these pages.
+
 ### y1v6 p.168–170, 173–174 — Ch.6 §6.7: fountain talk and the letter read
 [scene] (p.168) Standing by a fountain thinking about the final; walks Ayanokōji back to the dorm and finds the lobby crowd around the mass letter.
 [says:katsuragi-kouhei] (p.168) “Ayanokouji? Oh, nothing. Just thinking a little about the final exam next week,”

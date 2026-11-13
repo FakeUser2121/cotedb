@@ -1027,3 +1027,21 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:sudou-ken] (p.190) Notes the calmer pre-exam room including Sudou’s group.
 
 <!-- walk: y1v6 ch7 → p.209 -->
+
+### y1v6 p.48, 78, 83, 96–97, 102–103, 149, 157, 165, 181, 183–184, 204–205 — Ch.3–7: passing mentions
+[scene] (p.48) Named across strategy, quiz and study margins where he is not the section’s focus.
+[note] (p.48) Kushida’s war declaration still wants to work with Horikita and Hirata.
+[note] (p.78) Horikita faces the class for the pair proposal; Hirata is her co-mover.
+[note] (p.83) Short-quiz pairings list Hirata Yousuke with Yamauchi Haruki.
+[note] (p.96) Study-session mockery includes Hirata’s group as the wasted effort.
+[note] (p.97) Athletic-plus-academic ceiling talk names Horikita and Hirata together.
+[note] (p.102) Yukimura asks whether Horikita and Hirata will help build test questions.
+[note] (p.103) Horikita reports she and Hirata are already writing questions.
+[note] (p.149) Hasebe: Hirata is in another league, always surrounded by girls.
+[note] (p.157) Ayanokōji plans to get in touch with Hirata and Karuizawa before the movie.
+[note] (p.165) Comforts Karuizawa after the study-group fight; Kushida’s lecture follows.
+[note] (p.181) The Horikita–Hirata question set is rock solid against leaks.
+[note] (p.183) Kushida’s switched questions match their construction quality.
+[note] (p.184) Hirata would not expose Kushida’s past — fear of internal conflict.
+[note] (p.204) Kushida’s rooftop recount: Hirata invited everyone to the karaoke meeting.
+[note] (p.205) Ryuuen’s script deduction: Hirata’s pacifism would chase the stained blazer.

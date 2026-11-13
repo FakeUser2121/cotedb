@@ -57,6 +57,8 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [rel:ryuuen-kakeru] (p.101) Yukimura: without subject mastery neither Ryuuen nor Ishizaki can write tricky questions.
 [note] (p.101) Named in the Pallet question-writer debate; not present for that stretch.
 
+<!-- walk: y1v6 ch5 → p.131 -->
+
 ### y1v6 p.136–137 — Ch.6 §6.1: collar grab, then silence
 [scene] (p.136) One of Ryuuen’s goons standing behind him at the café table when the cup is crushed.
 [action] (p.136) Grabs Miyake by the collar after Miyake tells Ryuuen to knock it off.
@@ -69,3 +71,7 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [rel:shiina-hiyori] (p.136–137) Stands beside him; Ayanokōji notes how unusually polite he is around her.
 
 <!-- walk: y1v6 ch6 → p.176 -->
+
+### y1v6 p.72 — Ch.4: a passing mention in the spy grilling
+[scene] (p.72) Stays in the room with Ryuuen after Class C is cleared for the traitor hunt.
+[note] (p.72) Named in the inner circle — Ryuuen, Ishizaki, Kaneda, Ibuki and the three spies.

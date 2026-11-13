@@ -350,3 +350,36 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [rel:miyake-akito] (p.156) Gate for his own attendance.
 
 <!-- walk: y1v6 ch6 → p.176 -->
+
+### y1v6 p.83, 135–137, 140–154, 159, 161, 164–166, 189, 192, 194, 200 — Ch.3–7: passing mentions
+[note] (p.144) Group-chat replies after Hasebe’s ice-cream post.
+[scene] (p.83) Named across quiz, café and exam margins where he is not the section’s focus.
+[note] (p.83) Short-quiz pair: Yukimura Teruhiko and Inogashira Kokoro.
+[says:yukimura-teruhiko] (p.135) “Talk about the future later. First, get your work done,”
+[note] (p.136) Café scene after Ryuuen’s smash keeps him at the table.
+[note] (p.137) Movie-plan margins: Yukimura-san among the invited.
+[note] (p.140) Hasebe’s who-knows reply after Ryuuen’s cup crush.
+[note] (p.141) Spy talk: Yukimura-kun and Ayanokouji-kun saw the bullying.
+[note] (p.142) Hiyori’s exit after showing up with Ryuuen.
+[note] (p.143) Study-session close with Miyake’s Class C complaint.
+[note] (p.145) Yukimura notices Ayanokōji’s trouble with the Satou question and covers.
+[note] (p.146) Miyake’s tutoring suggestion page includes him.
+[note] (p.147) Group-chat replies after Hasebe’s ice-cream post.
+[note] (p.148) Ice-cream break; Yukimura has not eaten it much.
+[note] (p.149) Hasebe’s friendship-with-nicknames speech names Yukimuu.
+[note] (p.150) Objects to being called Yukimuu in public; group name debate.
+[note] (p.151) Group-chat logistics continue.
+[note] (p.152) Kiyopon debate; first-name rule for the five.
+[note] (p.153) Invitation round: Sakura thanks him with Miyake.
+[note] (p.154) Sakura practices Keisei-kun, Akito-kun, Haruka-san.
+[note] (p.159) Movie outing walk with Yukimura and the others.
+[note] (p.161) Karuizawa greets Yukimura-kun at the theater.
+[note] (p.164) Horikita asks whether Sudou will be okay — Yukimura’s worry.
+[note] (p.165) Keisei cites Ayanokōji as witness; Kushida’s no-guarantee line.
+[note] (p.166) Cinema quarrel: Keisei blames Karuizawa, not Kushida.
+[note] (p.189) Hiyori visited Keisei’s study group too.
+[note] (p.192) Keisei’s predicted questions hold as the sheets flip.
+[note] (p.194) Kaneda’s questions hard enough that even Keisei might not top ninety.
+[note] (p.200) Keisei’s name runs through Ryuuen’s mind with Ayanokōji’s.
+
+<!-- walk: y1v6 ch7 → p.209 -->

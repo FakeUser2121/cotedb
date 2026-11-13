@@ -1514,3 +1514,14 @@ spans (18 too short) and 69 non-says spans, corpus-exact; three
 cross-footer quotes were split at the page break before ship.
 Determinism hash across consecutive builds:
 `2cac97c2b888d1f4aaf4298a986c15e8`.
+
+Year 1 Volume 6 postscript is two pages of newsletter signup with no story
+beats, followed by the volume-end coverage gate: strict word-boundary
+locator recheck for all 49 roster names, nineteen passing-mention sections
+appended after the last chapter stamp, residual gap fill-ins, and a
+Coverage-notes bullet for never-named or surname-only cases. R19 was
+briefly at 86 after unquoted paraphrases; both were converted to
+corpus-exact quoted lines and the count returned to the 82 baseline.
+Missing chapter stamps were added across twelve people ledgers and the
+volume closed with `postscript → DONE`. Determinism hash across
+consecutive builds: `32cc51b89fef404700801208dbf6b93e`.

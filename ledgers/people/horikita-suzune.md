@@ -2480,3 +2480,35 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:kaneda-satoru] (p.194) Notes his questions were by no means easy.
 [trait] (p.194–199) Claims ninety-eight with rare uncertainty about two points; still puzzled by Kushida’s low self-estimate; overconfident about trusting each other.
 <!-- walk: y1v6 ch7 → p.209 -->
+
+### y1v6 p.15, 19, 22–24, 93, 96–97, 99, 102–103, 145, 149–150, 153, 158, 168, 188–191, 193, 200, 202–208 — Ch.2–7: passing mentions
+[scene] (p.15) Named across ceremony, strategy and exam margins where she is not the section’s focus.
+[note] (p.15) Nagumo’s handover speech praises Horikita’s brother while she watches.
+[note] (p.19) Satou-approach aftermath: Horikita’s “fast” remark still colours the day.
+[note] (p.22) Katsuragi notes Horikita is not with Ayanokōji’s group.
+[note] (p.23–24) Class-D assembly pages keep her as the planner off-screen.
+[note] (p.93) Someone reports that Horikita says Ayanokōji is capable.
+[note] (p.96) Study-session regret talk: rounding up the weak under Horikita’s push.
+[note] (p.97) Gifted-student ceiling names Horikita and Hirata.
+[note] (p.99) Hasebe asks if Ayanokōji is going out with Horikita-san.
+[note] (p.102) Yukimura’s question-building invite includes Horikita and Hirata.
+[note] (p.103) Horikita reports progress with Hirata on the practice test.
+[note] (p.145) Kushida-task margins: the Horikita issue keeps her from asking for help.
+[note] (p.149) Hasebe notes Ayanon already in a group with Horikita-san.
+[note] (p.150) Group-name debate: would be weird to call it the Yukimura Group.
+[note] (p.153) Keisei suggests Sakura join Horikita’s tutoring circle.
+[note] (p.158) Movie-night logistics: Horikita will contact the group about tomorrow.
+[note] (p.168) Ike: couldn’t get Student Council President Horikita’s attention.
+[note] (p.188) Outcome of Horikita and Kushida’s battle imminent after the four subjects.
+[note] (p.189) Hallway walk with Hirata; mastermind talk names her string-puller.
+[note] (p.190) Classroom arrival: Sudou’s group calmer than past exams.
+[note] (p.191) Exam-eve margins continue into day two setup.
+[note] (p.193) Sits next to Ayanokōji and starts the first subject at once.
+[note] (p.200) Post-bet reflection: her preemptive strike contained Ryuuen.
+[note] (p.202) Rooftop: Ryuuen credits Suzune’s ahead-of-time action.
+[note] (p.203) Cheat-sheet plant; Class D mastermind script under discussion.
+[note] (p.204) Juice-and-cleaners memory from the meeting she attended.
+[note] (p.205) Script-writer deduction: not Suzune or Karuizawa for the plant idea.
+[note] (p.206) Fraud letter and X warning turn on Horikita’s preemptive approval.
+[note] (p.207) X’s message warned that Horikita had seen through the plan.
+[note] (p.208) Ryuuen’s three options all pivot on keeping Horikita out of expulsion.

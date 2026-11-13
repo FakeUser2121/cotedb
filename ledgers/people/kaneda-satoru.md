@@ -56,6 +56,15 @@ aliases used for anchors: kaneda, kaneda satoru, kaneda-kun
 [rel:horikita-suzune] (p.103) Dorm call: Horikita wants to know whether Kaneda-kun will really be the question-maker.
 [note] (p.101, 103) No dialogue from Kaneda on these pages.
 
+
+<!-- walk: y1v6 ch5 → p.131 -->
+
+[scene] (p.101) Named by Yukimura as the Class C student most likely to write the final-exam questions.
+[rel:yukimura-teruhiko] (p.101) Best student in Class C; the creepy weirdo with glasses in Hasebe’s read.
+[rel:hasebe-haruka] (p.101) Hasebe’s glasses line; Yukimura does not put it that way but agrees.
+[rel:horikita-suzune] (p.103) Dorm call: Horikita wants to know whether Kaneda-kun will really be the question-maker.
+[note] (p.101, 103) No dialogue from Kaneda on these pages.
+
 ### y1v6 p.184, 194 — Ch.7: the likely question author
 [scene] (p.184) Named as the probable author of Kushida’s switched envelope — excellently constructed problems.
 [thinks] (p.184) Since Ryuuen was involved, chances were high that Kaneda made them; easy questions would have looked like sabotage, so hard ones hid the swap.

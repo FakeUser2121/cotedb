@@ -112,3 +112,9 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [rel:hasebe-haruka] (p.193) Narration ranks Satou above Ike or Yamauchi on study-session enthusiasm — Haruka and Akito still the hardest-hit averages.
 
 <!-- walk: y1v6 ch7 → p.209 -->
+
+### y1v6 p.26–27, 162 — Ch.2, 6: passing mentions
+[scene] (p.26) Named across Karuizawa’s phone warnings where she is not the section’s focus.
+[note] (p.26) Karuizawa does not want Ayanokōji telling Satou anything if they date.
+[note] (p.27) Phone topic: what will he do about Satou-san after exchanging contacts.
+[note] (p.162) Airi asks whether he went somewhere with Satou-san alone before partnering.
