@@ -353,3 +353,8 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 
 
 <!-- walk: y1v7 ch6 → p.196 -->
+
+### y1v7 p.201 — Ch.7: the former president named by role
+[note] (p.201) Passing mention: Ryuuen’s next-day report is timed because the former student council president already knew what happened on the roof — Horikita Manabu by prior context; the page does not print his name.
+
+<!-- walk: y1v7 ch7 → p.207 -->

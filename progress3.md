@@ -1565,3 +1565,9 @@ group walks while the rooftop trap runs, Ayanokōji proves X with Ibuki’s
 camera story, then wins the brawl he planned and keeps Ryuuen alive as a
 Class D tool after the tyrant transfers his points. Determinism hash
 across consecutive builds: `13bd47a168a32c287a29f03204acc5f7`.
+
+Year 1 Volume 7 chapter 7 is Ryuuen’s morning-after loss: Ibuki’s
+800-million counter-check, the withdrawal forms he refuses to sign, and
+Ayanokōji’s mirror of his own first week; the postscript teases the
+third semester. Determinism hash across consecutive builds:
+`154a3e9549268cedc52cf9a363f629dc`.

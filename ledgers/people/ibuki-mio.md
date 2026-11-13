@@ -547,3 +547,33 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 
 <!-- walk: y1v7 ch6 → p.196 -->
+
+### y1v7 p.198–203 — Ch.7: the eight-hundred-million checkmate
+[scene] (p.198) Returns Ryuuen’s phone on the path, red-nosed from waiting, then refuses to accept his quit.
+[says] (p.198) “I don’t exactly want to touch you. You foisted your phone on me, remember? I’m just giving it back,”
+[says] (p.198) “Who knows?”
+[says] (p.198) “Are you really going to quit?”
+[says] (p.198) “Do you remember what you said back when you fought Ishizaki and Albert? You said that the strongest person is whoever wins in the end, no matter how many times they lost before. That’s exactly how it went when you fought them.”
+[says] (p.198) “Are you really going to end this after losing to Ayanokouji one time?”
+[says] (p.198) “What? That’s super lame.”
+[says] (p.198) “Don’t give me ‘maybe,’”
+[says] (p.198) “I cooperated with you because you said you’d get us to Class A. Now you’re just going to leave us in the lurch?”
+[says] (p.199) “I tolerated your tyranny. I put up with it because we had the same ultimate goal. Even when Class C got our points docked the other day, and you wouldn’t tell us why, no one complained. We all believed you’d get us to Class A someday. And now you’re just going to drop out? That’s lame. So, lame.”
+[says] (p.199) “Is there anything more pathetic?”
+[says] (p.199) “Eight hundred million private points,”
+[says] (p.199) “After you tossed your phone over to me yesterday, I agonized about whether I should transfer your points to my account. But then I decided to have a look at what else was on your phone.”
+[says] (p.199) “If you were trying to make it to Class A alone, two million points would’ve been enough. So why come up with a strategy that includes this number? Eight hundred million is the number of points necessary to get all of Class C up to Class A, isn’t it? Though I can’t imagine how we’d ever save up that many points…”
+[says] (p.200) “That’s not what I’m talking about.”
+[says] (p.200) “If you’re going to drop out, then fight me,”
+[says] (p.200) “Ah. That felt great. Well, if you’re going to quit, hurry up and do it,”
+[note] (p.200) Hits him down onto the pavement, then heads back to the dorms.
+[note] (p.201, 203) Named as one of the four in the rooftop fight; would be punished if the school learned the full story.
+[feat] (p.199) Reads Ryuuen’s private phone and finds the 800,000,000-point plan for all of Class C — proof the tyrant’s “alone” speech was a lie.
+[trait] (p.198–200) Waits in the cold, argues with facts not tears, then hits him when words fail.
+[rel:ryuuen-kakeru] (p.198–200) The boss who tried to quit; she keeps him honest with a phone screen.
+[rel:ishizaki-daichi] (p.198, 202) Named in the fight memory and the teacher’s list.
+[rel:yamada-albert] (p.198, 202) Same.
+[rel:ayanokouji-kiyotaka] (p.198) The one-loss she throws in his face.
+
+
+<!-- walk: y1v7 ch7 → p.207 -->

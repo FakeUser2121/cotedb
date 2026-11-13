@@ -192,3 +192,27 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 
 <!-- walk: y1v7 ch6 → p.196 -->
+
+### y1v7 p.198, 201–203, 205 — Ch.7: the hostage who won’t leave
+[scene] (p.198) Named in Ibuki’s challenge as the fighter Ryuuen beat before losing to Ayanokōji; later waits at school and would quit with him.
+[note] (p.198) Ibuki cites the line about the strongest person being whoever wins in the end, from that fight.
+[says] (p.201) “Ryuuen-san…”
+[note] (p.201) Emerges with Albert from the faculty room; has been waiting since early morning.
+[says] (p.201) “We—”
+[says] (p.201) “Um…”
+[says] (p.202) “Please wait, Ryuuen-san! We did have something to do with—”
+[note] (p.202) Cries out, then is kicked by Ryuuen; crouches in pain.
+[note] (p.203) Named with Yamada on the second withdrawal forms — they said they would quit too if Ryuuen dropped out.
+[note] (p.205) No longer part of the entourage in the rumor mill; spends time alone like Ryuuen.
+[trait] (p.201–205) Loyal enough to wait at dawn and threaten parallel expulsion; still the first one kicked.
+[rel:ryuuen-kakeru] (p.198–205) The boss whose exit he tries to prevent, then whose fall he mirrors.
+[rel:ibuki-mio] (p.198, 202) Fellow roof fighter named in the same lists.
+[rel:yamada-albert] (p.201–203) The other hostage on the forms.
+[rel:sakagami] (p.201–203) The teacher who tries to send them back.
+[rel:ayanokouji-kiyotaka] (p.203) Suspected of putting the quit-with-him idea in their heads.
+
+### y1v7 p.22, 175 — Ch.2 and Ch.6: the follower’s name in the talk
+[note] (p.22) Passing mention: the group blames Class C’s island win on Ryuuen staying with Ishizaki and the others.
+[note] (p.175) Passing mention: Ryuuen asks whether Ishizaki agrees when declaring the game; the answer “Y-yes” sits on the same page.
+
+<!-- walk: y1v7 ch7 → p.207 -->

@@ -101,3 +101,16 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [rel:ryuuen-kakeru] (p.121–122) Class leader she addresses as Ryuuen-kun; clever but conflict-averse, which he files as useless as a pawn.
 
 <!-- walk: y1v7 ch5 → p.151 -->
+
+### y1v7 p.200 — Ch.7: named as a future Class C leader
+[scene] (p.200) Named with Kaneda as who will probably lead Class C after Ryuuen steps back.
+[says] (p.200) “Hiyori and Kaneda will probably lead Class C from here on out. As long as Ayanokouji makes no move, it’s still possible for you to rack up that many points.”
+[note] (p.200) Ryuuen’s line to Ibuki; Hiyori is not present.
+[rel:ryuuen-kakeru] (p.200) The outgoing leader naming his successors.
+[rel:kaneda-satoru] (p.200) The other named successor.
+[rel:ibuki-mio] (p.200) The listener who already read the 800-million plan.
+
+### y1v7 p.53 — Ch.3: Airi’s Shiina line
+[note] (p.53) Passing mention: Airi wonders whether Shiina is why Ryuuen might be after Ayanokōji; the conversation moves on without her.
+
+<!-- walk: y1v7 ch7 → p.207 -->

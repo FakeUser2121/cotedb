@@ -833,3 +833,16 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 
 <!-- walk: y1v7 ch6 → p.196 -->
+
+### y1v7 p.206 — Postscript: named for the third semester
+[scene] (p.206) Author postscript promises her story soon.
+[note] (p.206) “In the near future, you’ll see Ichinose and Sakayanagi’s stories, as well as Katsuragi, Hirata, and others.”
+[rel:sakayanagi-arisu] (p.206) Paired in the teaser.
+[rel:katsuragi-kouhei] (p.206) Named in the same list.
+[rel:hirata-yousuke] (p.206) Same.
+
+### y1v7 p.34, 78 — Ch.3: the Class B name in the hunt
+[note] (p.34) Passing mention: Horikita reads Ryuuen’s move as a plot against Ichinose-san and Class B.
+[note] (p.78) Passing mention: Ayanokōji notes Sakayanagi knew his past and Ichinose probably had as well.
+
+<!-- walk: y1v7 ch7 → p.207 -->

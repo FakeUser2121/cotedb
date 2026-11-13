@@ -73,3 +73,18 @@ aliases used for anchors: kaneda, kaneda satoru, kaneda-kun
 [note] (p.194) Horikita says Kaneda’s questions were by no means easy; Keisei might not have topped ninety either.
 
 <!-- walk: y1v6 ch7 → p.209 -->
+
+## y1v7
+
+<!-- walk: y1v7 → start -->
+
+### y1v7 p.200 — Ch.7: named as a future Class C leader
+[scene] (p.200) Named with Hiyori as who will probably lead Class C after Ryuuen steps back.
+[says] (p.200) “Hiyori and Kaneda will probably lead Class C from here on out. As long as Ayanokouji makes no move, it’s still possible for you to rack up that many points.”
+[note] (p.200) Ryuuen’s line to Ibuki; Kaneda is not present.
+[rel:ryuuen-kakeru] (p.200) The outgoing leader naming his successors.
+[rel:shiina-hiyori] (p.200) The other named successor.
+[rel:ibuki-mio] (p.200) The listener who already read the 800-million plan.
+
+
+<!-- walk: y1v7 ch7 → p.207 -->

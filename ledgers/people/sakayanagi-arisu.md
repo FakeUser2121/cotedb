@@ -249,3 +249,20 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 
 <!-- walk: y1v7 ch6 → p.196 -->
+
+### y1v7 p.204, 206 — Ch.7: the contract side and the postscript teaser
+[scene] (p.204) Named as the Class A partner Ryuuen must not provoke if he stays; p.206 postscript promises her story soon.
+[note] (p.204) “Ayanokouji had my number. He knew I wasn’t gonna cause more trouble for Sakayanagi and the other two.”
+[note] (p.204) Translation defect kept as printed: “I handed the paper and pen back to Sakayanagi and left.” — the form is Sakagami’s; the print names Sakayanagi.
+[note] (p.206) Author postscript: “you’ll see Ichinose and Sakayanagi’s stories, as well as Katsuragi, Hirata, and others.”
+[rel:ryuuen-kakeru] (p.204) The Class C leader whose contract and temper are checked by Ayanokōji’s arithmetic.
+[rel:ayanokouji-kiyotaka] (p.204) The man who knows exactly which pressure points to leave alone.
+[rel:ichinose-honami] (p.206) Paired in the postscript teaser.
+[rel:katsuragi-kouhei] (p.206) Named in the same teaser.
+[rel:hirata-yousuke] (p.206) Named in the same teaser.
+
+### y1v7 p.78, 83 — Ch.3: Arisu in the past and the irrelevance list
+[note] (p.78) Passing mention: Ayanokōji notes Sakayanagi knew his past and Ichinose probably had as well — this Sakayanagi is Arisu, not the chairman.
+[note] (p.83) Passing mention: after the Karuizawa hang-up, he writes off Horikita, Karuizawa, Ryuuen and Sakayanagi as irrelevant to his next move — Arisu as Class A rival.
+
+<!-- walk: y1v7 ch7 → p.207 -->

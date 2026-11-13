@@ -94,3 +94,20 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 
 
 <!-- walk: y1v7 ch6 → p.196 -->
+
+### y1v7 p.198, 201–203 — Ch.7: Yamada on the second form
+[scene] (p.198) Named with Ishizaki in Ibuki’s retelling of the pre-rooftop fight; later waits in the faculty room and is named on a parallel withdrawal form.
+[note] (p.198) “you fought Ishizaki and Albert”
+[note] (p.201) Emerges with Ishizaki; Sakagami asks whether they had a hand in the camera.
+[note] (p.202) Sent back by Sakagami, then left outside the counselor’s office.
+[note] (p.203) “please deliver these to Ishizaki and Yamada” — the second form; they would quit if Ryuuen did.
+[trait] (p.198–203) Silent muscle whose parallel-expulsion threat is the last card that stops the withdrawal.
+[rel:ryuuen-kakeru] (p.198–203) The boss whose exit he would follow.
+[rel:ishizaki-daichi] (p.198, 201–203) Paired on the forms.
+[rel:sakagami] (p.201–203) The teacher handling the paperwork.
+[rel:ibuki-mio] (p.198, 202) Named in the same fight lists.
+
+### y1v7 p.176 — Ch.6: bare Albert in Ibuki’s list
+[note] (p.176) Passing mention: Ibuki lists Ishizaki, Komiya, Kondou and even Albert among the classmates Ryuuen beat into obedience — Albert is Yamada Albert.
+
+<!-- walk: y1v7 ch7 → p.207 -->

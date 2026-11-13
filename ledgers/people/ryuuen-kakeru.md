@@ -1194,3 +1194,56 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 
 <!-- walk: y1v7 ch6 → p.196 -->
+
+### y1v7 p.197–204, 205–206 — Ch.7: the phone, the form, the mirror
+[scene] (p.197) Ryuuen POV the morning after the rooftop defeat: childhood snake dream, then Ibuki waiting with his phone on the path to school.
+[says] (p.197) “Freakin’ stupid.”
+[note] (p.197) On whether teaching the snake fear first would have changed the kill; yesterday’s loss to Ayanokouji is the first that feels different.
+[says] (p.198) “You could’ve done this at a better time. How long have you been waiting?”
+[says] (p.198) “Didn’t you just say you only wanted to give my phone back?”
+[says] (p.198) “So what?”
+[says] (p.198) “I misread the situation and sealed my fate. Besides, I couldn’t care less anymore,”
+[says] (p.198) “Maybe,”
+[says] (p.198) “You wanted me to quit school, didn’t you? Isn’t this perfect?”
+[says] (p.199) “You really gonna spin this however’s most convenient for you?”
+[says] (p.199) “Yeah, I told you good-for-nothings that if you followed me, I’d get you to Class A. That was just me dangling a carrot before your noses while I used violence to sow the seeds of fear. You do know about my contract with Class A, don’t you? That was all for me. Just me. I couldn’t give a shit about the rest of you.”
+[says] (p.199) “Yup. There’s really no way I’d try to take you lot with me. Don’t you agree?”
+[says] (p.200) “Quit dreaming. I was only messing around when I wrote that.”
+[says] (p.200) “Hiyori and Kaneda will probably lead Class C from here on out. As long as Ayanokouji makes no move, it’s still possible for you to rack up that many points.”
+[says] (p.200) “What do you want me to say?”
+[says] (p.200) “Ow. God, I can’t even take a fall,”
+[note] (p.200) After Ibuki knocks him down; blames Ayanokouji for his ruined body.
+[says] (p.201) “I gotta talk to you about the thing I reported yesterday, Sakagami.”
+[says] (p.201) “Sure.”
+[says] (p.201) “What?”
+[says] (p.201) “What’re you even doing here? Beat it, or I’ll kill you.”
+[says] (p.201) “I did that by myself,”
+[says] (p.202) “Yeah. I did that on my own.”
+[says] (p.202) “Yeah, it’s true. I take complete responsibility for it. I threw the first punch. They retaliated.”
+[says] (p.202) “How many times do you plan on making me say it? Did the beating I gave you yesterday not satisfy you?”
+[says] (p.202) “You can add that outburst just now to whatever my penalty is,”
+[says] (p.202) “Huh? Hold up. Inconsistencies?”
+[says] (p.203) “Did they file a complaint or something?”
+[says] (p.203) “What did you just say?”
+[says] (p.203) “You’ve gotta be screwing with me.”
+[says] (p.203) “I’m dropping out,”
+[says] (p.203) “That’s right. I see no point in staying at this school any longer.”
+[says] (p.203) “Just a second,”
+[says] (p.203) “What? They’ve got nothing to do with this.”
+[note] (p.203) On Sakagami’s two extra withdrawal forms for Ishizaki and Yamada.
+[says] (p.204) “What is the point of me even staying, though?”
+[says] (p.204) “Fine. I won’t drop out.”
+[note] (p.204) Translation defect kept as printed: “I handed the paper and pen back to Sakayanagi and left.” — the form is Sakagami’s; the print names Sakayanagi.
+[trait] (p.197–204) Tyrant who discovers his own three-year plan was for the whole class, not just him; stays because Class D already paid and his followers would quit with him.
+[rel:ibuki-mio] (p.198–200) The follower who waited in the cold, read the 800-million plan, and hit him when he tried to walk away.
+[rel:ishizaki-daichi] (p.198, 201–203) Would quit school with him; used as the hostage that stops the withdrawal.
+[rel:yamada-albert] (p.198, 201–203) Same hostage role; named Yamada on the second form.
+[rel:sakagami] (p.201–204) The homeroom teacher who takes the report and offers the first-and-last chance.
+[rel:sakayanagi-arisu] (p.204) “Sakayanagi and the other two” — the Class A contract side; also the misprint on the form hand-back.
+[rel:shiina-hiyori] (p.200) Named as a future Class C leader with Kaneda.
+[rel:kaneda-satoru] (p.200) Same.
+[rel:ayanokouji-kiyotaka] (p.197–206) The man who beat him, paid the camera, and holds the hostage cards; postscript says settled for the time being.
+[rel:horikita-manabu] (p.201) The former student council president whose knowledge forces the next-day report.
+
+
+<!-- walk: y1v7 ch7 → p.207 -->

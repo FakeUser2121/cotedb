@@ -909,3 +909,9 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 
 <!-- walk: y1v7 ch6 → p.196 -->
+
+### y1v7 p.69, 76 — Ch.3: named in the father and exit talks
+[note] (p.69) Passing mention: Ayanokōji lists Karuizawa among those who enrolled despite their issues.
+[note] (p.76) Passing mention: walking away from Chabashira, he notes his identity would be revealed if Karuizawa were caught or betrayed him.
+
+<!-- walk: y1v7 ch7 → p.207 -->

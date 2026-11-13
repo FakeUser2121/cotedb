@@ -3717,7 +3717,6 @@ walk: y1v1 → DONE
 [rel:ishizaki-daichi] (p.159–174) The panicked Class C.
 [rel:yamada-albert] (p.166) The door he opens in English.
 [rel:sakayanagi-arisu] (p.165) The alternate witness he did not need.
-[place:empty-classroom] (p.156–165) Where he tests Chabashira.
 
 ### y1v7 p.175–178, 180–188, 190–195 — Ch.6: the fight he planned, the pawn he keeps
 [scene] (p.175) Watches Ryuuen choose violence over a draw; then wins the rooftop brawl and keeps Karuizawa under control.
@@ -3814,3 +3813,20 @@ walk: y1v1 → DONE
 
 
 <!-- walk: y1v7 ch6 → p.196 -->
+
+### y1v7 p.205–206 — Ch.7 §7.2: the mirror and the tool
+[scene] (p.205) Ayanokōji POV on the rumors of Ryuuen’s abdication; sees his own first-week self in the dragon boy.
+[note] (p.205) Rumors: Ryuuen abandoned Class C’s leadership; Ishizaki and the others no longer his entourage; he talks to no one.
+[says] (p.205) “It was like looking in a mirror—a mirror of the person I’d been when I first started at this school. I wondered whether there would come a day when Ryuuen regained what he lost. I was sure of one thing, though. He and I were similar.”
+[note] (p.205) Final line of the chapter body: “And I could still use him.”
+[note] (p.206) Author postscript: Ayanokōji “seems to have settled things with Ryuuen for the time being.”
+[trait] (p.205–206) Reads the fallen tyrant as a mirror and a future asset, not a broken rival.
+[rel:ryuuen-kakeru] (p.205–206) The similar man he can still use; postscript confirms the truce holds for now.
+[rel:ishizaki-daichi] (p.205) Part of the entourage that dissolved in the rumors.
+[rel:sakayanagi-arisu] (p.206) Named in the postscript teaser as a coming story.
+[rel:ichinose-honami] (p.206) Same.
+[rel:katsuragi-kouhei] (p.206) Same.
+[rel:hirata-yousuke] (p.206) Same.
+
+
+<!-- walk: y1v7 ch7 → p.207 -->

@@ -1114,3 +1114,13 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:ayanokouji-kiyotaka] (p.170) The other name on the list.
 
 <!-- walk: y1v7 ch6 → p.196 -->
+
+### y1v7 p.206 — Postscript: named for the third semester
+[scene] (p.206) Author postscript names him among those who will take the spotlight next.
+[note] (p.206) “In the near future, you’ll see Ichinose and Sakayanagi’s stories, as well as Katsuragi, Hirata, and others.”
+[rel:sakayanagi-arisu] (p.206) Named in the same postscript list.
+[rel:ichinose-honami] (p.206) Same.
+[rel:katsuragi-kouhei] (p.206) Same.
+
+
+<!-- walk: y1v7 ch7 → p.207 -->

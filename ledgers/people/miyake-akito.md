@@ -224,3 +224,8 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [rel:hasebe-haruka] (p.154–156) Fellow group walker.
 
 <!-- walk: y1v7 ch6 → p.196 -->
+
+### y1v7 p.36 — Ch.3: the study-group line
+[note] (p.36) Passing mention: Horikita notes a study group formed specifically to help Hasebe-san and Miyake.
+
+<!-- walk: y1v7 ch7 → p.207 -->

@@ -101,3 +101,37 @@ aliases used for anchors: sakagami, sakagami-sensei
 [note] (p.126) Named only as the teacher Ryuuen reported a earlier spray-painted camera to; the punishment was paying for cleaning.
 
 <!-- walk: y1v7 ch5 → p.151 -->
+
+### y1v7 p.201–204 — Ch.7: the first and last chance
+[scene] (p.201) Takes Ryuuen’s next-day appointment in the faculty room, then walks him through the camera and fight report in the counselor’s office.
+[says] (p.201) “I understand,”
+[says] (p.201) “Please accompany me to the counselor’s office.”
+[says] (p.201) “But first, there’s something we must address.”
+[says] (p.201) “Would you step outside, please?”
+[says] (p.201) “They’ve been waiting since early this morning, wondering whether you’d come by. Even when I told them to contact you directly, they wouldn’t listen. Quite troublesome. Before we have our meeting, I need you to do something about these two,”
+[says] (p.201) “About the surveillance camera being destroyed—did these two have anything to do with it?”
+[says] (p.202) “I have a general idea of what happened, based on what you said over the phone, but walk me through this once more, Ryuuen. First of all, you admit to defacing the security camera by spray-painting the lens?”
+[says] (p.202) “Okay, one more thing. Is it true that a fight broke out between you, Ishizaki, Albert, and Ibuki?”
+[says] (p.202) “Well then, this’ll be quick.”
+[says] (p.202) “Ryuuen?!”
+[says] (p.202) “It seems there’s a misunderstanding here, so allow me to offer some corrections,”
+[says] (p.202) “We’ve confirmed that there are inconsistencies in your statement.”
+[says] (p.202) “Based on my understanding, there’s some kind of problem between you and Class D.”
+[says] (p.203) “A complaint? No, from what I’ve heard, a single Class D student was also involved in destroying the security camera.”
+[says] (p.203) “Class D already paid the private points necessary to cover the repair. What I wanted to confirm with you was whether you wished to split the blame.”
+[says] (p.203) “There’s no problem here, though. You still want to drop out, despite that?”
+[says] (p.203) “I see. If that’s your final decision, I can’t stop you,”
+[says] (p.203) “Please write your name, student ID number, and reason for withdrawal on this form.”
+[says] (p.203) “Once we finish processing your withdrawal, please deliver these to Ishizaki and Yamada.”
+[says] (p.203) “You’re certainly right. But this was their wish. They said that, should you choose to drop out of school, they would quit too. They wouldn’t listen to reason.”
+[says] (p.204) “Personally, I would find it rather regrettable for anyone in my class to drop out,”
+[says] (p.204) “As things stand, the matter can be resolved with a simple punishment for damaging school property. This is your first and last chance.”
+[trait] (p.201–204) Takes the confession seriously, then turns the paperwork into the trap that keeps his student enrolled.
+[rel:ryuuen-kakeru] (p.201–204) The homeroom teacher who offers the last chance.
+[rel:ishizaki-daichi] (p.201–203) One of the two waiters and form recipients.
+[rel:yamada-albert] (p.201–203) The other.
+[rel:ayanokouji-kiyotaka] (p.203) The Class D student who already paid the repair — cited without a name by Sakagami.
+[rel:horikita-manabu] (p.201) The former president whose prior knowledge forces the report timing.
+
+
+<!-- walk: y1v7 ch7 → p.207 -->

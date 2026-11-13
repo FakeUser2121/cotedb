@@ -780,7 +780,6 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:horikita-suzune] (p.159–164) Named as co-payer of the Sudou point and as the one who will unite the class.
 [rel:horikita-manabu] (p.164–165) Shocked when the former president arrives as witness.
 [rel:karuizawa-kei] (p.161–163) The suffering student whose crisis drives the rooftop decision.
-[place:empty-classroom] (p.156–158) Private talk after dismissal.
 
 ### y1v7 p.191–192 — Ch.6: waiting below with the former president
 [scene] (p.191) Named as one of the two people a few steps down the stairs who know the circumstances and can handle the soaked uniform.
@@ -793,3 +792,8 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 
 <!-- walk: y1v7 ch6 → p.196 -->
+
+### y1v7 p.85 — Ch.3: name-checked in the father talk
+[note] (p.85) Passing mention: Ayanokōji recalls Chabashira-sensei’s expulsion threat while weighing his father’s return; no new dialogue.
+
+<!-- walk: y1v7 ch7 → p.207 -->
