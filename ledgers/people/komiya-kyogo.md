@@ -44,3 +44,18 @@ char_id: komiya-kyogo · class: Class 1-C (enrolled April 2015) · status: minor
 [note] (p.136) Present only in the roll-call of Ryuuen’s party.
 
 <!-- walk: y1v6 ch6 → p.176 -->
+
+## y1v7
+
+<!-- walk: y1v7 → start -->
+
+### y1v7 p.17–18, 28 — Ch.2: the Class C follower at the mall
+[scene] (p.17) Named as Ryuuen’s henchman watching the Keyaki Mall group from just far enough away to deny it.
+[note] (p.17) Sat at a distance so confrontation would label Class D the aggressors.
+[note] (p.18) Ayanokōji reads him as monitoring the group while keeping plausible deniability.
+[note] (p.28) Follows the group toward the restaurant once Ayanokōji peels off to the bathroom.
+[rel:ryuuen-kakeru] (p.17) His man on the mall tail.
+[rel:miyake-akito] (p.18) One of the two who showed up at archery club to glare.
+[rel:ayanokouji-kiyotaka] (p.17–18, 28) Target of the watch; uses the bathroom ruse to break the line of sight.
+
+<!-- walk: y1v7 ch2 → p.31 -->

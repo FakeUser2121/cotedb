@@ -726,3 +726,37 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [note] (p.185) Completely unaware of the damage Horikita’s counter will do.
 [note] (p.187) Horikita: Ryuuen’s knocked me down so many times.
 [note] (p.195) Horikita: Ryuuen can be rather tenacious if he gave answers.
+
+## y1v7
+
+<!-- walk: y1v7 → start -->
+
+### y1v7 p.11–13 — Ch.1: Ryuuen Kakeru’s Soliloquy
+[scene] (p.11) First-person childhood monologue: field-trip snake, the rush of an enemy’s fall, and the boredom of having no one left to overthrow.
+[thinks] (p.11) “I learned something about myself that day.”
+[thinks] (p.11) “Fear and pleasure are two sides of the same coin to me; violence rules the world, and the effectiveness of your own particular brand of violence determines what you accomplish.”
+[thinks] (p.11) “Those who possess an unparalleled capacity for violence are truly the elite.”
+[thinks] (p.11) “There was just one problem, and it grew as I did. It became increasingly difficult for me to feel pleasure.”
+[thinks] (p.11) “I was bored. Bored because no one could fulfill my dearest wish—to be overthrown.”
+[thinks] (p.12) “Perhaps I’d only meet my match in death.”
+[trait] (p.11–12) Abnormal from elementary school: kills a snake without fear; enemies give adrenaline; revenge and reversal as the only projects; elite defined by capacity for violence; pleasure fades without an equal.
+[note] (p.10) ToC leaf before the chapter; no story content.
+[note] (p.13) Blank scan (footer only).
+
+<!-- walk: y1v7 ch1 → p.13 -->
+
+### y1v7 p.17–24 — Ch.2: named as the watching leader
+[scene] (p.17) Named in the group’s Class C worry while Komiya and Ishizaki work his surveillance order.
+[note] (p.17–18) Komiya follows the mall group; Ishizaki glares at Miyake at archery club — his people, his pressure.
+[note] (p.19–21) Keisei calls him reckless and an idiotic child; Ayanokōji’s inner voice corrects the record — the island points were traded to Class A, not wasted.
+[note] (p.22–24) Island retelling under Horikita’s credit: radio spy, cruise-ship obsession; the sports-festival crush plan and Kushida’s betrayal stay hidden.
+[rel:ayanokouji-kiyotaka] (p.18, 30) Surveillance aimed at him; Kamuro later names Ryuuen’s search for the Class D student as her only theory.
+[rel:kamuro-masumi] (p.30) His name used by Kamuro as the reason Sakayanagi tails Ayanokōji.
+[rel:komiya-kyogo] (p.17) His henchman assigned to the mall group.
+[rel:ishizaki-daichi] (p.18) His henchman assigned to archery club.
+[rel:horikita-suzune] (p.22–24) Still the official strategist who saw him through on the island.
+[rel:sakayanagi-arisu] (p.29–30) Parallel Class A pressure on the same target — she tails, he hunts.
+[trait] (p.17–24) Absent from the page but omnipresent in the group’s talk; reputation at stake if Class D overtakes Class C.
+[note] (p.31) Blank scan (footer only).
+
+<!-- walk: y1v7 ch2 → p.31 -->

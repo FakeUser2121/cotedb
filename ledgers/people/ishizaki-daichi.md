@@ -75,3 +75,16 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 ### y1v6 p.72 — Ch.4: a passing mention in the spy grilling
 [scene] (p.72) Stays in the room with Ryuuen after Class C is cleared for the traitor hunt.
 [note] (p.72) Named in the inner circle — Ryuuen, Ishizaki, Kaneda, Ibuki and the three spies.
+
+## y1v7
+
+<!-- walk: y1v7 → start -->
+
+### y1v7 p.18 — Ch.2: named at archery club
+[scene] (p.18) Named with Komiya as the pair who observed Miyake’s archery practice and glared the whole time.
+[note] (p.18) Came to observe; upperclassmen accepted the excuse; left when practice ended.
+[rel:miyake-akito] (p.18) Glared at him through club.
+[rel:komiya-kyogo] (p.18) Paired with him on the archery visit.
+[rel:ryuuen-kakeru] (p.18) Sent by Ryuuen with Komiya.
+
+<!-- walk: y1v7 ch2 → p.31 -->

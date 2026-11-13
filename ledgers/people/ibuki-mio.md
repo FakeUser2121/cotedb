@@ -420,3 +420,15 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 ### y1v6 p.73 — Ch.4: a passing mention in the spy grilling
 [scene] (p.73) Named in Ryuuen’s interrogation of Manabe’s circle after the café smash.
 [note] (p.73) Present as Ryuuen’s lieutenant while the spies recount who saw the bullying.
+
+## y1v7
+
+<!-- walk: y1v7 → start -->
+
+### y1v7 p.22–23 — Ch.2: island spy in the retelling
+[scene] (p.22) Named in Ayanokōji’s island account as one of the spies who infiltrated the other classes.
+[note] (p.22–23) Radio-to-spy story told under Horikita’s official credit; the full spy network is not spelled out to the group.
+[rel:ryuuen-kakeru] (p.22–23) His island command structure in the retelling.
+[rel:ayanokouji-kiyotaka] (p.22) Speaker of the account; keeps other details back.
+
+<!-- walk: y1v7 ch2 → p.31 -->

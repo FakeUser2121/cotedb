@@ -743,3 +743,26 @@ aliases used for anchors: sakura, airi, sakura-san
 [trait] (p.159–162) Still stammers when she says his name, but she does not drop the questions until she has answers she can accept.
 
 <!-- walk: y1v6 ch6 → p.176 -->
+
+## y1v7
+
+<!-- walk: y1v7 → start -->
+
+### y1v7 p.14–28 — Ch.2: Airi’s fun winter table
+[scene] (p.14) Joins the Keyaki Mall group after class; speaks more freely than before and ends in tears of simple happiness.
+[says:sakura-airi] (p.14) “But it’s good that we made it through this exam, isn’t it? Besides, I don’t want to see someone expelled, even if they’re from another class,”
+[says:sakura-airi] (p.15) “I think that’d be wonderful, though,”
+[says:sakura-airi] (p.16) “Ah, so this other student made you want to join?”
+[says:sakura-airi] (p.24) “Y-yeah. I think that’s rude to Kiyotaka-kun,”
+[says:sakura-airi] (p.26) “Kiyotaka-kun, do you have any plans for Ch-Christmas?”
+[says:sakura-airi] (p.27) “S-sorry. No, it’s just… Well, I’m having fun. I’m having so much fun I started to laugh.”
+[says:sakura-airi] (p.27) “It’s just that I’ve never had such a fun time before. I’m really happy,”
+[says:sakura-airi] (p.27) “That’s fine with me. I like talking about stupid stuff,”
+[rel:hasebe-haruka] (p.16–17) Hurt by the Instagram dismissal until Keisei apologises; included in the Christmas dating talk.
+[rel:yukimura-teruhiko] (p.15–17) Direct beneficiary of his Instagram apology; teases his period confusion from the side.
+[rel:ayanokouji-kiyotaka] (p.17, 26–27) Reacts when he defends her hobby; stammers the Christmas invitation question; happy he is present for the silly talk.
+[rel:miyake-akito] (p.16) Chimes in on his archery origin story.
+[trait] (p.14–28) No stomach for cruelty; camera hobby defended in public; opens up enough to laugh and name her happiness; no longer needs Ayanokōji standing over her to leave the table.
+[note] (p.31) Blank scan (footer only).
+
+<!-- walk: y1v7 ch2 → p.31 -->

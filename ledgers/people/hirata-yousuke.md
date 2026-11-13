@@ -1045,3 +1045,14 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [note] (p.184) Hirata would not expose Kushida’s past — fear of internal conflict.
 [note] (p.204) Kushida’s rooftop recount: Hirata invited everyone to the karaoke meeting.
 [note] (p.205) Ryuuen’s script deduction: Hirata’s pacifism would chase the stained blazer.
+
+## y1v7
+
+<!-- walk: y1v7 → start -->
+
+### y1v7 p.25 — Ch.2: named as half the only couple
+[scene] (p.25) Named once in the Christmas dating talk as part of Class D’s only couple.
+[note] (p.25) Miyake raises Hirata and Karuizawa as the breakup candidates.
+[rel:karuizawa-kei] (p.25) The couple the group treats as Class D’s sole pairing.
+
+<!-- walk: y1v7 ch2 → p.31 -->

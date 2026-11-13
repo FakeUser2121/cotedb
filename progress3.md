@@ -1525,3 +1525,12 @@ corpus-exact quoted lines and the count returned to the 82 baseline.
 Missing chapter stamps were added across twelve people ledgers and the
 volume closed with `postscript → DONE`. Determinism hash across
 consecutive builds: `32cc51b89fef404700801208dbf6b93e`.
+
+Year 1 Volume 7 opens with Ryuuen’s three-page childhood soliloquy and an
+eighteen-page winter mall chapter: Ayanokōji’s informal group on class
+points and Christmas, Class C’s surveillance, and a solo confrontation
+with Kamuro that ends in mutual silence. The volume ledger is new; nineteen
+people ledgers gain y1v7 blocks. Two quote defects were fixed before ship —
+a cross-page line split on the footer page-number break, and a row that
+fused two separate quotation pairs. Determinism hash across consecutive
+builds: `44a56308272f08048317f4c56da39672`.

@@ -2106,3 +2106,6 @@ kushida p.202–208. Volume stamped `ch8 → p.211` and
 short/skipped) + 69 non-says ALL PASS; make check OK (R18 0, R19 82/82);
 gate exit 0; hash `32cc51b89fef404700801208dbf6b93e` twice. New tags:
 none. Next volume per owner order.
+
+### y1v7 ch1–ch2 (pp.10–31) — walked
+Ch1 (pp.11–13): Ryuuen’s childhood soliloquy — snake kill, violence as elite, boredom with no one to overthrow; p.10 ToC leaf; p.13 blank. Ch2 (pp.14–31): mid-December Keyaki Mall — Ayanokōji’s group (Yukimura, Hasebe, Sakura, Miyake) on class-point maths and Christmas; Komiya/Ishizaki surveillance; island retelling under Horikita’s credit; Ayanokōji confronts Kamuro with photo proof and strikes a mutual-silence bargain; p.31 blank. Volume ledger created (`ledgers/volumes/y1v7.md`). People stamped: ryuuen-kakeru (ch1+ch2), ayanokouji-kiyotaka, yukimura-teruhiko, hasebe-haruka, sakura-airi, miyake-akito, kamuro-masumi, komiya-kyogo, ishizaki-daichi, karuizawa-kei, hirata-yousuke, horikita-suzune, sudou-ken, ibuki-mio, sakayanagi-arisu, kushida-kikyou, ike-kanji (all ch2). Cross-page Hasebe love line split with ellipsis (footer page-number breaks the stream); Kamuro’s two quote pairs split into two rows. verify y1v7: 47 [says] ALL PASS + 8 non-says ALL PASS; make check OK (R18 0, R19 82/82); gate exit 0; hash `44a56308272f08048317f4c56da39672` twice. New tags: none. Next: ch3 pp.32–97.

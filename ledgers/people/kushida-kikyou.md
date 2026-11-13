@@ -1174,3 +1174,15 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [note] (p.187) Care needed in dealing with Kushida until the exam ends.
 [note] (p.188) Outcome of Horikita and Kushida’s battle imminent.
 [note] (p.200) Preemptive strike manipulated Kushida — the traitor playbook.
+
+## y1v7
+
+<!-- walk: y1v7 → start -->
+
+### y1v7 p.23 — Ch.2: betrayal kept out of the retelling
+[scene] (p.23) Named only as a fact Ayanokōji withholds from the island story.
+[note] (p.23) He says nothing about Kushida’s betrayal to the mall group.
+[rel:horikita-suzune] (p.23) Both her credit and Kushida’s treachery stay off the official version.
+[rel:ayanokouji-kiyotaka] (p.23) Chooses silence over dumping the secret on friends.
+
+<!-- walk: y1v7 ch2 → p.31 -->

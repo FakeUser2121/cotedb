@@ -722,3 +722,14 @@ aliases used for anchors: ike, kanji, ike-kun
 [scene] (p.149) Named across group-chat and exam margins where he is not the section’s focus.
 [note] (p.149) Hasebe’s friendship talk does not include Ike; he is the old circle she left.
 [note] (p.193) Average-students analysis: Satou expected to outscore Ike or Yamauchi.
+
+## y1v7
+
+<!-- walk: y1v7 → start -->
+
+### y1v7 p.26 — Ch.2: named as the loud dating crowd
+[scene] (p.26) Named once in Miyake’s answer about not broadcasting romantic intentions.
+[note] (p.26) Miyake contrasts himself with “Ike and those other guys.”
+[rel:miyake-akito] (p.26) His foil for keeping club and crushes private.
+
+<!-- walk: y1v7 ch2 → p.31 -->

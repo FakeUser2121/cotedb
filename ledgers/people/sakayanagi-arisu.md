@@ -168,3 +168,16 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.187) Named only in Chabashira’s comparison.
 
 <!-- walk: y1v6 ch7 → p.209 -->
+
+## y1v7
+
+<!-- walk: y1v7 → start -->
+
+### y1v7 p.29–30 — Ch.2: the boss behind the tail
+[scene] (p.29) Named by Ayanokōji as Kamuro’s boss in the mall confrontation.
+[note] (p.29) Threatened with a report that the tailing is clumsy.
+[note] (p.30) Kamuro’s “too” confirms Sakayanagi is using dirt on her.
+[rel:kamuro-masumi] (p.29–30) Holds leverage over her; sends her to tail Ayanokōji day after day.
+[rel:ayanokouji-kiyotaka] (p.29–30) Her target; he turns the tail into a non-aggression bargain without reporting.
+
+<!-- walk: y1v7 ch2 → p.31 -->

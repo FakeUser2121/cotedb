@@ -15,3 +15,29 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [passing mention] (p.192) Unnamed in the first encounter; the special building scene names her Masumi-san.
 
 <!-- walk: y1v5 ch9 → p.204 -->
+
+## y1v7
+
+<!-- walk: y1v7 → start -->
+
+### y1v7 p.28–30 — Ch.2: Class A’s reluctant tail
+[scene] (p.28) Sits alone at Keyaki Mall when Ayanokōji peels off from his group and sits down with photo proof of her week of tailing.
+[says:kamuro-masumi] (p.28) “Huh? Me? What?”
+[says:kamuro-masumi] (p.29) “Well, so what if I’m following you? Do you have a problem with that?”
+[says:kamuro-masumi] (p.29) “Boss? What’re you talking about? You’ve been watching way too many movies.”
+[says:kamuro-masumi] (p.29) “Wait a minute,”
+[says:kamuro-masumi] (p.29) “Don’t give me that. I’m nobody’s lackey.”
+[says:kamuro-masumi] (p.29) “Absolutely not. I’d honestly never speak to her again if I could,”
+[says:kamuro-masumi] (p.30) “So, what’s your deal?”
+[says:kamuro-masumi] (p.30) “Why is Sakayanagi targeting you?”
+[says:kamuro-masumi] (p.30) “You’re the Class D student that Ryuuen’s looking for, aren’t you? That’s the only thing I can think of.”
+[says:kamuro-masumi] (p.30) “You’re trying to threaten me, but I could give Ryuuen some friendly advice, if I felt like it,”
+[says:kamuro-masumi] (p.30) “So, those are your conditions?”
+[says:kamuro-masumi] (p.30) “You’re right. I have no real interest in helping Ryuuen, either.”
+[rel:sakayanagi-arisu] (p.29–30) Denies devotion while obeying orders; Ayanokōji reads dirt-on-her leverage; “too” confirms Sakayanagi’s hold.
+[rel:ayanokouji-kiyotaka] (p.28–30) Target of her tail; bargains mutual silence; leaves without denying she is right about Ryuuen’s interest.
+[rel:ryuuen-kakeru] (p.30) Names Ryuuen’s search for the Class D mastermind as her only theory about Ayanokōji.
+[trait] (p.28–30) Disguises obedience as coincidence; grabs his arm when he stands to report; cuts the deal once her own weakness is on the table; tired enough to leave mid-bargain.
+[note] (p.31) Blank scan (footer only).
+
+<!-- walk: y1v7 ch2 → p.31 -->

@@ -2512,3 +2512,18 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (p.206) Fraud letter and X warning turn on Horikita’s preemptive approval.
 [note] (p.207) X’s message warned that Horikita had seen through the plan.
 [note] (p.208) Ryuuen’s three options all pivot on keeping Horikita out of expulsion.
+
+## y1v7
+
+<!-- walk: y1v7 → start -->
+
+### y1v7 p.22–24 — Ch.2: the official island strategist
+[scene] (p.22) Named as the credited winner of the island test in Ayanokōji’s retelling to the mall group.
+[note] (p.22) Group accepts that Horikita saw through Ryuuen’s strategy.
+[note] (p.23) Ayanokōji’s inner voice: the moves were his, the official story is hers.
+[note] (p.24) Airi calls her amazing; Keisei expects no less of her.
+[rel:ayanokouji-kiyotaka] (p.22–23) He keeps his own authorship of the island plan out of the retelling.
+[rel:ryuuen-kakeru] (p.22–24) Still Class C’s main target after seeing through him.
+[rel:kushida-kikyou] (p.23) Her betrayal is one of the facts he withholds while crediting Horikita.
+
+<!-- walk: y1v7 ch2 → p.31 -->

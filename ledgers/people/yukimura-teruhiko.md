@@ -383,3 +383,28 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.200) Keisei’s name runs through Ryuuen’s mind with Ayanokōji’s.
 
 <!-- walk: y1v6 ch7 → p.209 -->
+
+## y1v7
+
+<!-- walk: y1v7 → start -->
+
+### y1v7 p.14–27 — Ch.2: Keisei at the winter table
+[scene] (p.14) Meets the Class D group at Keyaki Mall after class; holds court on exam maths and Class C’s collapse.
+[says:yukimura-teruhiko] (p.14) “I really thought Class C would’ve tried something else by now. Those questions they gave us weren’t easy at all,”
+[says:yukimura-teruhiko] (p.15) “I understand what you mean, Airi, but it’s eat or be eaten at this school. I don’t want us to be eaten.”
+[says:yukimura-teruhiko] (p.15) “Who knows? I’ve only heard rumors. Apparently, it’s never happened before.”
+[says:yukimura-teruhiko] (p.16) “No…but I guess you have the general idea. Just forget about it.”
+[says:yukimura-teruhiko] (p.21) “Ryuuen’s just reckless. He’s an idiotic child who thinks that doing the unexpected somehow makes him cool. That’s why it doesn’t mean anything to him if his class loses.”
+[says:yukimura-teruhiko] (p.26) “I’ll be studying,”
+[rel:hasebe-haruka] (p.21) She scathingly tells him to know when to shut up after his period confusion; he never gets it.
+[rel:sakura-airi] (p.15–17) Dismisses Instagram then apologises to her directly after Haruka’s jab.
+[rel:miyake-akito] (p.27) Tells him academic scores follow through life even after Class A.
+[rel:ryuuen-kakeru] (p.19–21) Reads him as self-destructing; only a few know the Class A trade.
+[rel:ayanokouji-kiyotaka] (p.22) Asks for Horikita’s island information so the class can work together.
+[rel:horikita-suzune] (p.23–24) “Just as I’ve come to expect of Horikita. I could never think that far ahead.”
+[feat] (p.15, 19) Recites the equal-points special-exam rumour and the exact class-point arithmetic (D 262, C 542, gap eighty).
+[trait] (p.14–27) Dogged pursuer of knowledge; refuses to dismiss what others like; priorities studies over Christmas; grows more confident after tutoring.
+[note] (p.14) Called Keisei by group custom; real name Teruhiko.
+[note] (p.31) Blank scan (footer only).
+
+<!-- walk: y1v7 ch2 → p.31 -->

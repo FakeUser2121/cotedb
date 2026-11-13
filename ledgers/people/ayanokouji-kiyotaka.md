@@ -3467,3 +3467,36 @@ walk: y1v1 → DONE
 [note] (p.210) Author’s postscript names Ayanokouji Kiyotaka’s past as a volume-seven draw.
 
 <!-- walk: y1v6 ch8 → p.211 -->
+
+## y1v7
+
+<!-- walk: y1v7 → start -->
+
+### y1v7 p.14–30 — Ch.2: the winter mall group and the Class A tail
+[scene] (p.14) Narrates the Keyaki Mall meetup with Yukimura, Hasebe and Sakura while Miyake is at club; later corners Kamuro alone.
+[says] (p.16) “No. I don’t know anything about it,”
+[says] (p.17) “Well, it’s pretty popular worldwide. It’s not that strange a hobby,”
+[rel:hasebe-haruka] (p.16–17) Defends Instagram enough to keep Sakura from sinking; he smooths the dismissal for her.
+[rel:sakura-airi] (p.17) Reads her hurt over the Instagram jab and answers so she will not be depressed; she always reacts when he helps.
+[rel:yukimura-teruhiko] (p.22–23) Repeats Horikita’s island read for the group under the official credit that credits her.
+[rel:miyake-akito] (p.18) Inner note: of all of them Akito is most bothered by Ryuuen’s surveillance.
+[rel:ryuuen-kakeru] (p.18–21) Inner analysis: surveillance tightened since the exam; treading lightly means he is close to naming the mastermind; island points were not wasted — traded to Class A.
+[rel:komiya-kyogo] (p.17–18, 28) Names the Class C follower at the mall and later watches him peel off toward the restaurant.
+[rel:ishizaki-daichi] (p.18) Named with Komiya at archery club, glaring at Miyake.
+[rel:horikita-suzune] (p.22–24) Credits her with seeing through Ryuuen on the island — the moves were his, the story is hers.
+[rel:kushida-kikyou] (p.23) Withholds her betrayal from the group retelling.
+[rel:sakayanagi-arisu] (p.29–30) Names her as Kamuro’s boss in the confrontation.
+[rel:karuizawa-kei] (p.18) Inner note: Ryuuen’s list probably includes her; she could supply the final evidence.
+[rel:hirata-yousuke] (p.25) Named only as half of Class D’s sole couple.
+[rel:sudou-ken] (p.24) Inner note: Sudou would blow his top at the girlfriend joke.
+[rel:ibuki-mio] (p.22–23) Island spy in the retelling he keeps to the official version.
+[rel:kamuro-masumi] (p.28–30) Confronts her tailing with photo proof; offers mutual silence; she leaves without denying Ryuuen’s interest in him.
+[feat] (p.28–30) Photographed Kamuro over a week without her noticing; turns her tail into a non-aggression bargain; reads Sakayanagi’s leverage as “dynamite.”
+[says] (p.28) “Can I have a minute?”
+[says] (p.28) “You’ve been following me. What do you want?”
+[says] (p.29) “Then I suppose I’ll report this to Sakayanagi. I’ll tell her you’re not really very good at tailing me.”
+[says] (p.30) “Feel free to tail me as much as you like. I won’t say a word, and I won’t rat on you to Sakayanagi. In exchange, I want you to keep quiet. Don’t tell anyone other than Sakayanagi what you know about me.”
+[trait] (p.14–30) Keeps the group’s morale light while tracking Class C; official story always credited to Horikita; confronts Class A alone with evidence rather than force.
+[note] (p.31) Blank scan (footer only).
+
+<!-- walk: y1v7 ch2 → p.31 -->

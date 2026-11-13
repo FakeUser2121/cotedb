@@ -1007,3 +1007,15 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [note] (p.184) Easy-question sabotage check would have pointed at Sudou.
 [note] (p.190) Classroom arrival: Sudou’s group calm, not cramming in panic.
 [note] (p.204) Kushida’s karaoke recount: Ayanokouji, Sudou and Karuizawa sat together.
+
+## y1v7
+
+<!-- walk: y1v7 → start -->
+
+### y1v7 p.24 — Ch.2: named in the girlfriend joke
+[scene] (p.24) Named only in Ayanokōji’s inner note after Haruka pairs him with Horikita.
+[note] (p.24) Sudou would blow his top if he heard the Kiyopon-girlfriend joke.
+[rel:horikita-suzune] (p.24) Implied jealousy Ayanokōji does not say aloud.
+[rel:hasebe-haruka] (p.24) Her joke is the trigger for the inner note.
+
+<!-- walk: y1v7 ch2 → p.31 -->

@@ -124,3 +124,29 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [note] (p.151) Group-chat replies after Hasebe’s ice-cream post.
 [note] (p.153) Sakura thanks Miyake-kun and Yukimura-kun in the invitation round.
 [note] (p.164) Horikita asks whether Hasebe and Miyake-kun’s issues are resolved.
+
+## y1v7
+
+<!-- walk: y1v7 → start -->
+
+### y1v7 p.14–28 — Ch.2: Akito, club, and the tail report
+[scene] (p.15) Arrives late from archery club to the Keyaki Mall table; reports Komiya and Ishizaki’s glare session.
+[says:miyake-akito] (p.15) “So, only one class can be A in the end, huh?”
+[says:miyake-akito] (p.15) “Like normal. Not really great, not really bad. You don’t have to pretend to be interested,”
+[says:miyake-akito] (p.16) “Back in junior high, an upperclassman I was friends with belonged to the archery club. So, I thought I’d give it a shot. That’s all there was to it. No particularly deep reason,”
+[says:miyake-akito] (p.17) “Sorry to change the topic, but I was wondering about something,”
+[says:miyake-akito] (p.18) “Well, they sent different people this time around. Komiya and Ishizaki showed up today at archery club. They said they came to observe, which the upperclassmen readily accepted. But they just glared at me the entire time,”
+[says:miyake-akito] (p.20) “I suppose I understand his desperation,”
+[says:miyake-akito] (p.23) “We had all that trouble with rations and sanitation, someone burned our manual, and someone’s underwear even got stolen. Class D was in complete shambles. We didn’t have the time or energy to conduct reconnaissance on other classes,”
+[says:miyake-akito] (p.26) “Sadly, archery is my only love,”
+[rel:komiya-kyogo] (p.17–18) Named as the Class C henchman watching the mall group.
+[rel:ishizaki-daichi] (p.18) With Komiya at archery club, glaring through practice.
+[rel:ryuuen-kakeru] (p.18, 20) Most bothered by Ryuuen’s surveillance; pleased at the thought of Ryuuen’s pride taking a hit.
+[rel:hasebe-haruka] (p.15–16, 26) Texted by her; teased about archery and girlfriends; hands Ayanokōji the too-sweet mango juice.
+[rel:yukimura-teruhiko] (p.27) Leaves academics to him on the Class A climb.
+[rel:karuizawa-kei] (p.25) Names her with Hirata as Class D’s only couple.
+[trait] (p.14–28) Club-bound so he misses the early mall hours; reads Ryuuen’s pressure accurately; embarrassed about both archery and dating; loyal enough to report the tail without proof.
+[note] (p.14) Fifth group member, absent until p.15 because of club.
+[note] (p.31) Blank scan (footer only).
+
+<!-- walk: y1v7 ch2 → p.31 -->

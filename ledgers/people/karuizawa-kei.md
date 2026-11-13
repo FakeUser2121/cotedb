@@ -763,3 +763,17 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [note] (p.161) Condescending greeting to the theater party by name.
 [note] (p.200) Photograph leverage: Ryuuen’s image of the attack victim.
 [note] (p.205) Pacifist script deduction: placating Karuizawa’s juice-rage was the hook.
+
+## y1v7
+
+<!-- walk: y1v7 → start -->
+
+### y1v7 p.18, 25 — Ch.2: the evidence and the only couple
+[scene] (p.18) Named in Ayanokōji’s inner read as the one piece of decisive evidence Ryuuen still needs.
+[note] (p.18) He assumes she is on Ryuuen’s narrowed list; her word could name him.
+[note] (p.25) Named with Hirata as Class D’s only couple in the Christmas dating talk.
+[rel:hirata-yousuke] (p.25) Class D’s sole couple in Miyake’s breakup question.
+[rel:ryuuen-kakeru] (p.18) The final evidence in his puzzle could come from her.
+[rel:ayanokouji-kiyotaka] (p.18) He watches the surveillance tighten around her as well as him.
+
+<!-- walk: y1v7 ch2 → p.31 -->

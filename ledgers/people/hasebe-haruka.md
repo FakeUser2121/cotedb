@@ -151,3 +151,27 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [note] (p.157) Coffee-sugar gossip: a girl asks how much Hasebe puts in.
 [note] (p.161) Karuizawa greets Hasebe-san among the theater arrivals.
 [note] (p.164) Horikita asks Yukimura whether Hasebe and Miyake’s issues are resolved.
+
+## y1v7
+
+<!-- walk: y1v7 → start -->
+
+### y1v7 p.14–28 — Ch.2: Haruka on class war and Christmas
+[scene] (p.14) Holds the phone at the Keyaki Mall table; reports Miyake’s club exit and steers talk from exam maths to Christmas.
+[says:hasebe-haruka] (p.14) “Class C doesn’t seem any more capable of studying than us,”
+[says:hasebe-haruka] (p.15) “Well, wait a minute. What if, after the final exam, all four classes had the exact same number of class points? Then everyone could graduate from Class A… Just kidding. That’ll never happen,”
+[says:hasebe-haruka] (p.16) “Hey, that’s sexist,”
+[says:hasebe-haruka] (p.21) “Wow, must be nice to be a boy,”
+[says:hasebe-haruka] (p.24) “Wow, Kiyopon’s girlfriend is really incredible,”
+[says:hasebe-haruka] (p.25) “Yeah, yeah. Stuff like who’s dating, and who isn’t. Or who spent the night together, and who didn’t. You know? Even if you’re just single because you like being alone, they’ll pity you,”
+[says:hasebe-haruka] (p.25–26) “Love can bloom anywhere, Miyacchi. It’s not as though your only romantic options are the people in our class. If there’s a girl you like, you … gotta make a move before someone snatches her up,”
+[rel:sakura-airi] (p.16–17) Pulls her into the Instagram debate; later keeps the Christmas dating talk from leaving her out.
+[rel:miyake-akito] (p.15–16, 26) Texts him to the mall; teases archery as his only love and pushes him on girlfriends.
+[rel:yukimura-teruhiko] (p.21, 25) Scolds him for the period blunder; calls him Yukimuu through the Christmas planning.
+[rel:ayanokouji-kiyotaka] (p.16, 24) Pushes the Kiyopon-girlfriend joke until Airi objects; asks his Christmas plans.
+[rel:ryuuen-kakeru] (p.18) Asks whether Komiya and Ishizaki did anything to Miyake at club.
+[rel:komiya-kyogo] (p.18) Named only through the archery-club report she relays.
+[trait] (p.14–28) Casual group anchor; blunt about the school’s zero-sum design; watches the relationship battlefield with hard-won cynicism; keeps Airi included.
+[note] (p.31) Blank scan (footer only).
+
+<!-- walk: y1v7 ch2 → p.31 -->
