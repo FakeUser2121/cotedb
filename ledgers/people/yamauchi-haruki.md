@@ -570,6 +570,10 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [scene] (p.193) Named in the average-students difficulty analysis during the first subject.
 [note] (p.193) Satou expected to outscore Ike or Yamauchi; he is the weaker study-session case.
 
+## y1v7
+
+<!-- walk: y1v7 → start -->
+
 ### y1v7 p.33 — Ch.3: casual chat after the report
 [scene] (p.33) Named in the classroom circle with Sudou and Ike after the Class C report.
 [note] (p.33) No dialogue of his own on this page.
@@ -588,3 +592,12 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [rel:kouenji-rokusuke] (p.100) The named target of the theory.
 
 <!-- walk: y1v7 ch4 → p.119 -->
+
+### y1v7 p.172 — Ch.6: the third witness to the dirt
+[scene] (p.172) Named as one of only three people who could have seen Ibuki’s dirt-covered hands on the island.
+[note] (p.172) The three are Ayanokōji, Yamauchi, and Airi — which makes Ayanokōji’s claim definitive proof.
+[rel:ayanokouji-kiyotaka] (p.172) Co-witness whose existence locks the proof.
+[rel:sakura-airi] (p.172) The third witness.
+[rel:ibuki-mio] (p.172) The girl whose hands they saw.
+
+<!-- walk: y1v7 ch6 → p.196 -->

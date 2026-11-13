@@ -813,3 +813,23 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [trait] (p.94–96) Makes friends with anyone; exits without forcing small talk; the moral weight the group fears having to crush.
 
 <!-- walk: y1v7 ch3 → p.97 -->
+
+### y1v7 p.162 — Ch.6: the private-point comparator
+[scene] (p.162) Named only as the student already accumulating private points the way Ryuuen is.
+[note] (p.162) Chabashira cites Ichinose and Ryuuen as examples of students hunting system gaps.
+[rel:ryuuen-kakeru] (p.162) Paired with him as the two point-accumulators.
+[rel:chabashira-sae] (p.162) The teacher who names her as evidence.
+
+### y1v7 p.175, 177, 192, 195 — Ch.6: the opponent Ryuuen should have chosen first
+[scene] (p.175) Named in Ryuuen’s game list and later as the next-semester bite and the reason to keep him alive.
+[note] (p.175) “crushing Ichinose” is first on the game list after Class A.
+[note] (p.177) “starting next semester, I’ll take a bite out of Ichinose,”
+[note] (p.192) Ayanokōji’s order-of-foes lecture: fighting Ichinose first might have brought Ryuuen closer to his level.
+[note] (p.195) Keeping Ryuuen alive means Class D gets him to “crush Sakayanagi and Ichinose for us.”
+[rel:ryuuen-kakeru] (p.175–195) The foe he should have trained on, and the tool he becomes.
+[rel:ayanokouji-kiyotaka] (p.192, 195) The man who maps the missed path.
+[rel:sakayanagi-arisu] (p.195) Paired with her as the dual target.
+[rel:katsuragi-kouhei] (p.192) The middle name in the order he skipped.
+
+
+<!-- walk: y1v7 ch6 → p.196 -->

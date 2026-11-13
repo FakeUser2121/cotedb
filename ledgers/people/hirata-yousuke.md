@@ -1106,3 +1106,11 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:ryuuen-kakeru] (p.136) The man who names the pretense out loud.
 
 <!-- walk: y1v7 ch5 → p.151 -->
+
+### y1v7 p.170 — Ch.6: the other name on the shortlist
+[scene] (p.170) Named with Ayanokōji as one of the two who could have handled the Manabe bullying speed so fast.
+[note] (p.170) Ryuuen: it had to be either Ayanokouji or Hirata.
+[rel:ryuuen-kakeru] (p.170) One of the two prime suspects.
+[rel:ayanokouji-kiyotaka] (p.170) The other name on the list.
+
+<!-- walk: y1v7 ch6 → p.196 -->

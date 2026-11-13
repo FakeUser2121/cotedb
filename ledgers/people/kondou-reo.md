@@ -52,3 +52,14 @@ char_id: kondou-reo · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:ryuuen-kakeru] (p.138) Evidence he cites for the school’s silent-generation rule.
 
 <!-- walk: y1v7 ch5 → p.151 -->
+
+### y1v7 p.176 — Ch.6: on the beaten-into-obedience list
+[scene] (p.176) Named by Ibuki among the classmates Ryuuen beat into obedience.
+[note] (p.176) “Ishizaki. Komiya. Kondou. Even Albert. You beat every single one of them until they were ready to obey you at all times,”
+[rel:ibuki-mio] (p.176) The accuser who lists him.
+[rel:ryuuen-kakeru] (p.176) The boss who beat him.
+[rel:komiya-kyogo] (p.176) Named in the same list.
+[rel:yamada-albert] (p.176) Same list.
+
+
+<!-- walk: y1v7 ch6 → p.196 -->

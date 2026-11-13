@@ -86,3 +86,16 @@ char_id: komiya-kyogo · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:ryuuen-kakeru] (p.138) Evidence he cites for the school’s silent-generation rule.
 
 <!-- walk: y1v7 ch5 → p.151 -->
+
+### y1v7 p.176, 181 — Ch.6: on the beaten-into-obedience list
+[scene] (p.176) Named by Ibuki among the classmates Ryuuen beat until they obeyed; later as one of the tails on Class D.
+[note] (p.176) “Ishizaki. Komiya. Kondou. Even Albert. You beat every single one of them until they were ready to obey you at all times,”
+[note] (p.181) Ayanokōji: “You had Ishizaki, Komiya, and the others tail Class D students.”
+[rel:ibuki-mio] (p.176) The accuser who lists him.
+[rel:ryuuen-kakeru] (p.176, 181) The boss who beat him and used him as a tail.
+[rel:ayanokouji-kiyotaka] (p.181) Counts the tails as part of the trap arithmetic.
+[rel:kondou-reo] (p.176) Named in the same list.
+[rel:yamada-albert] (p.176) Same list.
+
+
+<!-- walk: y1v7 ch6 → p.196 -->

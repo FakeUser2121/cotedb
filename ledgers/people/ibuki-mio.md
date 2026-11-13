@@ -482,3 +482,68 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:ishizaki-daichi] (p.136–137) Fellow Class C on the roof.
 
 <!-- walk: y1v7 ch5 → p.151 -->
+
+### y1v7 p.166–174 — Ch.6: the first to speak, the last to believe
+[scene] (p.166) First to notice Ayanokōji on the roof; spends the half refusing to accept that he is X.
+[says] (p.166) “Ayano…kouji?”
+[says] (p.167) “There’s no way. It definitely can’t be him,”
+[says] (p.167) “X is just using Ayanokouji. Don’t be fooled, Ryuuen. X probably told Karuizawa in advance that he’d send someone to come and save her!”
+[says] (p.167) “It’s obviously a lie,”
+[says] (p.167) “You came here on someone else’s orders, Ayanokouji.”
+[says] (p.167) “It’s not about what I want to believe. I’m telling you; he can’t be. He’s… This guy’s stupidly good-natured. He’s a softie. Besides, he probably doesn’t even know about Karuizawa, and X, and everything—don’t you think?”
+[says] (p.168) “Did that make you happy?”
+[says] (p.168) “Quit joking around. Of course it didn’t make me happy; I was actually guilty of the crime. It just told me that he’s an incompetent student who doesn’t know how to doubt someone clearly suspicious.”
+[says] (p.170) “Stop trying to make yourself look cool. You didn’t even target Ayanokouji or Hirata until well after that, did you?”
+[says] (p.170) “But—!”
+[says] (p.170) “Hah! Isn’t that suspicious?”
+[says] (p.170) “Would X really just come right out and say that?”
+[says] (p.171) “That’s not true. We know your identity. We also know Karuizawa’s secret. Awful things will happen tomorrow if you leave here without doing as we say,”
+[note] (p.171) Actually Ryuuen’s line attributed in dialogue flow — Ibuki’s own next line is below.
+[says] (p.171) “That’s enough, Ryuuen. There’s absolutely no way X would just stroll up here alone,”
+[says] (p.172) “H-how did you know that?!”
+[says] (p.172) “Wait—wait a second. Yeah, he might be really clever, but that isn’t enough to say for sure that he’s X, right?”
+[says] (p.172) “It just doesn’t make sense! If Ayanokouji really is X, the mastermind, why would he just show up here?! He wrecked all your plans so far, didn’t he?!”
+[says] (p.174) “All this time spent hyping up the mysterious ‘X,’ and he’s nothing but talk. What a disappointment. Maybe the digital-camera thing was just dumb luck,”
+[says] (p.174) “So what?”
+[feat] (p.167–172) Defends Ayanokōji as too soft to be X using the island underwear sabotage — then is proven wrong by his own camera story.
+[trait] (p.166–174) Distrusts Ryuuen enough to argue in front of him; needs proof before she flips.
+[rel:ayanokouji-kiyotaka] (p.166–174) The man she keeps calling incompetent until the camera detail lands.
+[rel:ryuuen-kakeru] (p.166–174) The boss she contradicts on the roof.
+[rel:ishizaki-daichi] (p.167, 170–174) Fellow Class C who also doubts.
+[rel:karuizawa-kei] (p.167) The girl whose rescue plan she attributes to X.
+
+### y1v7 p.175–176, 180–182, 193–195 — Ch.6: the slap, the kick flurry, the points
+[scene] (p.175) Agrees with Ishizaki that the reveal is enough — then, when Ryuuen chooses violence anyway, objects and is struck across the face.
+[says] (p.175) “I agree. Ayanokouji might actually sacrifice her,”
+[says] (p.176) “What you’re about to do puts Class C at risk,”
+[says] (p.176) “I cooperated with you because I thought you were acting for the class’s sake. But this is a step too far. Ayanokouji clearly has nothing up his sleeve.”
+[says] (p.176) “Iwon’t be a part of what you’re about to do.”
+[says] (p.176) “Yes, because I’ve watched you since April. You’re going to hurt him, aren’t you?”
+[says] (p.176) “Ishizaki. Komiya. Kondou. Even Albert. You beat every single one of them until they were ready to obey you at all times,”
+[says] (p.176) “I’m telling you, that kind of thinking is going to endanger our class!”
+[note] (p.176) Last line before Ryuuen’s slap; she falls silent.
+[says] (p.180) “No way. Y-you’re not messing around, are you? Albert? Ishizaki?”
+[says] (p.181) “S-so, you’re saying that Ayanokouji turned the tables on you?”
+[says] (p.181) “Hmm?”
+[note] (p.181) Tilts her head in confusion at the long explanation.
+[says] (p.182) “Seriously, what’s the deal with you two?!”
+[says] (p.182) “Seriously, what are you…?”
+[says] (p.182) “You honestly make me mad. I’m not sure why, but you piss me off!”
+[note] (p.182) Kicks at Ayanokōji in fury; he ends it with a neck throw.
+[says] (p.193) “What?”
+[note] (p.193) Glares at both fighters when Ryuuen slides the phone to her feet.
+[says] (p.194) “Huh? Ryuuen, what are you saying? Are you nuts?”
+[says] (p.194) “Stop screwing around! Why would you entrust your points to me?!”
+[says] (p.194) “Are…are you really okay with that?”
+[note] (p.195) Asked of Ryuuen as he prepares to leave.
+[feat] (p.182) Bests a healthy Horikita on the island in the page’s own comparison; still cannot touch Ayanokōji.
+[trait] (p.175–195) The only Class C who tries to stop the violence, is slapped for it, then inherits the tyrant’s points against her will.
+[rel:ryuuen-kakeru] (p.175–195) The boss who slaps her and then empties his account into her hands.
+[rel:ayanokouji-kiyotaka] (p.180–182) The man she cannot believe, then cannot hit.
+[rel:ishizaki-daichi] (p.175, 193–194) Fellow Class C who wants the fight to end.
+[rel:horikita-suzune] (p.182) The island fight used as her measuring stick.
+[rel:katsuragi-kouhei] (p.194) Named in the contract-void warning.
+[rel:sakayanagi-arisu] (p.194) Same.
+
+
+<!-- walk: y1v7 ch6 → p.196 -->

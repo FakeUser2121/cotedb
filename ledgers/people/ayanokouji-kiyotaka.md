@@ -3608,3 +3608,209 @@ walk: y1v1 → DONE
 [rel:hirata-yousuke] (p.147, 150) The other protector in her accounting.
 
 <!-- walk: y1v7 ch5 → p.151 -->
+
+### y1v7 p.154–156, 166, 174 — Ch.6: the emergency address and the English door
+[scene] (p.154) Walks with the mall group while the rooftop crisis runs at two; leaves them to meet Chabashira, then climbs to the roof.
+[note] (p.154) Received Karuizawa’s emergency text that morning; does not reply, knowing Ryuuen’s only goal was to lure him.
+[says] (p.154) “Nothing’s going on,”
+[says] (p.154) “Nothing’s up. You were about to ask something, that’s all.”
+[says] (p.154) “She just invited me to hang out with her, that’s all.”
+[says] (p.154) “I don’t know how to answer that…”
+[says] (p.155) “I’m happy to stay here, Airi. But I get why people want to go off campus,”
+[says] (p.156) “Sorry,”
+[says] (p.156) “I’m heading back.”
+[says] (p.156) “To tell you the truth, I pulled an all-nighter, and I’m kind of beat. Let’s hang out again over the winter break,”
+[says] (p.156) “Hello. I need to talk to you about something. Do you have a moment?”
+[says] (p.156) “Yes, but there’re still a few loose ends that need tying up. I’d like to discuss this in person. Can we meet at school?”
+[says] (p.156) “Understood. I’ll be there in a few minutes.”
+[says] (p.156) “I was just wondering. Why do you want to make it to Class A so badly that you’d go so far as to use me to do it?”
+[says] (p.157) “I can’t imagine that’s all there is to it. If you really aimed for Class A from the very beginning, you’d never have put Class D at a disadvantage the way you did.”
+[says] (p.157) “You hesitated, right? You weren’t sure this class really had the ability to aim for Class A. You weren’t sure it was even worth trying.”
+[says] (p.157) “If you won’t answer, then you might as well give up on trying to use me.”
+[says] (p.157) “This is crucial. If you don’t take action now, Class D will never make it to Class A. If anything, it’s unlikely we’ll even reach Class C.”
+[says] (p.157) “It’s already two p.m. Ryuuen is putting on a very interesting show right about now, after calling Karuizawa to the roof.”
+[says] (p.157) “So, even you don’t know, Sensei? Karuizawa was horribly bullied in the past.”
+[says] (p.157) “This is the first I’m hearing of it.”
+[says] (p.157) “That information will probably be all over the school tomorrow. When that happens, Karuizawa will retreat into her shell, and maybe even voluntarily drop out of school. If we can prove Class C was responsible, we might be able to retaliate, but the damage done to each class will be unfathomable,”
+[says] (p.158) “So, you’ll help me?”
+[says] (p.158) “Naturally.”
+[says] (p.158) “Can you really afford to turn me down?”
+[says] (p.158) “There’s no guarantee that I won’t do anything to sabotage Class D in the future, is there? I’m more than capable of ensuring we never rise through the ranks.”
+[says] (p.158) “If you do this for me, I promise I’ll do nothing to hinder or sabotage Class D going forward. I think that’s significant, don’t you?”
+[says] (p.158) “Relax,”
+[says] (p.158) “I had no intention of recruiting your assistance.”
+[says] (p.158) “I was just testing you, that’s all. So, why not come observe this little drama’s conclusion?”
+[says] (p.159) “What are you planning, Ayanokouji? How long do you intend to wait?”
+[note] (p.159) Chabashira’s line; his answer is below.
+[says] (p.159) “Let’s chat,”
+[says] (p.159) “I’d like to discuss something that happened shortly after we started school, back when we wanted you to sell us one point for Sudou’s test.”
+[says] (p.159) “There’s nothing you cannot buy with private points. That’s what you said, right?”
+[says] (p.160) “If purchasing points was permissible, there would never be any expulsions, would there? Any time someone got a failing grade, someone else could cover for them the way we did.”
+[says] (p.160) “True. But that’s a flaw in the system, isn’t it? If salvation through private points is always an option, it dramatically lowers the danger of expulsion based on test performance,”
+[says] (p.160) “Back when I asked you to sell us that single point, you added a value to it, Chabashira-sensei.”
+[says] (p.160) “No, that’s not what I mean. I’m asking whether exchanging one test point for one hundred thousand private points was something you came up with on the spot, or if you had some basis for attaching that price to it. At the time, I thought you sounded like you came up with it off the top of your head, but since then, I’ve come to doubt you arbitrarily decided that on your own without consulting the school.”
+[says] (p.160) “This school has taken great care to legislate, in writing, all matters related to points, hasn’t it? It’s not far-fetched to think that it might’ve anticipated someone trying to purchase a test score increase. I would believe it.”
+[says] (p.160) “That’s right. If you can answer, please do.”
+[says] (p.161) “Should I interpret that to mean you can’t answer?”
+[says] (p.161) “Very well. I’ll happily draw my own conclusions. The school prepared a manual to consult in every conceivable situation. It was determined in advance that it cost one hundred thousand private points to purchase one test point. If we go from there, it begs the question: can we can purchase one test point for a hundred thousand private points on more than one occasion?”
+[says] (p.161) “Is the hundred thousand points per test point rate only available for a limited time after we’ve enrolled? Does the price go up every time we make a purchase? Or are we only allowed to make such a purchase once? The more I think about it, the more questions I have. Please tell me if I’m correct.”
+[says] (p.161) “There is. I just need to ask you directly, Sensei.”
+[says] (p.161) “How many points would I need to buy one test point on the next midterm right now?”
+[says] (p.161) “As a teacher, you’re obligated to answer that question, right? If you won’t, I’ll go ahead and ask another teacher. And if they answer me, I’ll report to the school that Class D’s homeroom teacher is discriminating against us. Don’t forget that I can do that,”
+[says] (p.162) “A few students are already doing just that, aren’t they? Look at Ichinose and Ryuuen, both accumulating private points.”
+[note] (p.162) Chabashira’s line; the answer that follows is hers.
+[says] (p.162) “So, you truly can’t answer my question?”
+[says] (p.162) “Not at all. I was just having a friendly chat,”
+[says] (p.162) “I suppose it’s time, wouldn’t you say? Time for this game to be over.”
+[says] (p.163) “I’m heading to the roof,”
+[says] (p.163) “It doesn’t matter. Even if Ryuuen learns that I orchestrated all Class D’s strategies so far, he now gains nothing. If anything, he might assume I’m involved next time, and end up sabotaging himself.”
+[says] (p.163) “I see. Well, you were certainly correct that it’s easier for people to become attached to something if they have a goal to strive for. But you needn’t worry. I choose to stay here. I have no intention of going back to being under that man’s control.”
+[says] (p.163) “It’s not a pipe dream. Class D is about to rise to Class C. Soon, Horikita will unite our class. I’m sure of it,”
+[says] (p.164) “Such skepticism is unbecoming of a teacher. Horikita is more than capable of leading Class D.”
+[says] (p.164) “Ultimately,”
+[says] (p.164) “Horikita is starting to mature. The same goes for many of our classmates. Continue to guide them as their teacher, and our position as Class C will be secure…and so might our path to Class A.”
+[says] (p.164) “Yes.”
+[says] (p.164) “I can’t guarantee it. At most, I can say I’ll deal with the situation based on my evaluation of Ryuuen’s personality and behavior.”
+[says] (p.164) “Well then, thank you very much for accompanying me this far.”
+[says] (p.165) “He’s here as a witness. After all, Ryuuen will try to win by any means necessary, and I’d like to avoid this becoming violent.”
+[says] (p.165) “Does the former student council president look like someone who’d ever do that sort of thing?”
+[says] (p.165) “There will be a person on the rooftop who will witness what happens there. As long as that holds true, then we’ll be fine,”
+[says] (p.165) “A few minutes after I head up, I’d like you to stop halfway up the stairs. There’s no need for you to talk to the students who come back down from the roof, nor is it necessary to punish them. Just make sure they see you on their way down. I need them to be aware you were here.”
+[says] (p.165) “Of course. If I go back on my word, you may choose to forget what happens here today,”
+[says] (p.165) “Hmm. Who knows?”
+[says] (p.165) “I’ll be back in ten or twenty minutes.”
+[says] (p.166) “May I pass?”
+[says] (p.166) “Don’t panic. I’m the one you want,”
+[says] (p.166) “I’m ending this today. No one else will interfere,”
+[says] (p.166) “I intend to crush Ryuuen. He doesn’t stand a chance without your help,”
+[says] (p.167) “Sorry I’m late,”
+[says] (p.167) “What do you mean, ‘why’? I made a promise, didn’t I? I promised that I’d save you.”
+[says] (p.167) “Karuizawa emailed me. She said she wanted me to save her.”
+[says] (p.170) “It’s precisely because I was the most suspicious that I did things that way. Or perhaps it was because I had no other method available to me other than using Horikita?”
+[says] (p.170) “I’m the person you’ve been searching for.”
+[says] (p.171) “Am I in a dilemma?”
+[says] (p.171) “I only came here because Karuizawa asked for help. If you want proof that I’m X, you could just wait until the next exam and see what I do,”
+[says] (p.171) “Awful things?”
+[says] (p.171) “What I’ll do? There’s nothing I can do.”
+[says] (p.172) “I’ve already admitted to it. But if you won’t believe me, then allow me to explain, Ibuki,”
+[says] (p.172) “The island exam. You were instructed to take pictures of our leader’s keycard, but your digital camera got damaged somehow. Am I wrong?”
+[says] (p.172) “It was me. I used water to short-circuit the camera without causing visible damage. When I met you in the forest, Ibuki, your fingers were covered in dirt. There were signs that you were digging nearby. When I returned to the spot later that night, I found a wireless transceiver. That was so you could communicate with Ryuuen, right?”
+[says] (p.172) “Trick?”
+[says] (p.172–173) “There’s no trick I can pull in a situation like this. You already know Karuizawa’s big secret. … You took plenty of precautions to corner me. Right?”
+[says] (p.173) “Indeed. I can’t exactly report what you just did to Karuizawa to the school, either,”
+[says] (p.173) “Okay. Well, are you satisfied? If so, I’ll be taking Karuizawa back with me,”
+[says] (p.173) “Sorry, Ryuuen. I can’t fulfil your expectations.”
+[says] (p.173) “I was just dancing in the palm of your hand. That’s all.”
+[says] (p.174) “I may have revealed myself to you, but that doesn’t mean I’m in trouble. Only Horikita and Karuizawa from Class D know who I am, so if this information makes its way to other classes, I’ll know one of you leaked it.”
+[says] (p.174) “If you spread word of my actions, I’ll report everything that happened here to the school,”
+[says] (p.174) “I can. All I have to do is sacrifice Karuizawa.”
+[says] (p.174) “You assumed from the start that I’d abandon Karuizawa. But when I showed up here, you started talking as though you thought I wasn’t going to. Am I wrong?”
+[says] (p.174) “You heard her. Believe what you like, but if you spill the beans about me to the other classes, it’ll be war,”
+[feat] (p.156–162) Extracts from Chabashira that private-point prices are pre-set and disclosure is conditional — one system mystery closed without her ever confirming a number.
+[feat] (p.166–174) Walks into Ryuuen’s own trap, proves X with Ibuki’s camera detail, and turns the reveal into a mutual-assured-destruction stalemate.
+[trait] (p.154–174) Tests before he strikes; keeps the stair witness in his back pocket; would rather burn his quiet life than leave Karuizawa.
+[rel:chabashira-sae] (p.156–165) The teacher he tests, then tells he is stepping back.
+[rel:horikita-manabu] (p.164–165) The witness he arranged.
+[rel:karuizawa-kei] (p.152–174) The promise he keeps.
+[rel:ryuuen-kakeru] (p.166–174) The hunter who becomes the show.
+[rel:ibuki-mio] (p.166–174) The doubter he proves wrong.
+[rel:ishizaki-daichi] (p.159–174) The panicked Class C.
+[rel:yamada-albert] (p.166) The door he opens in English.
+[rel:sakayanagi-arisu] (p.165) The alternate witness he did not need.
+[place:empty-classroom] (p.156–165) Where he tests Chabashira.
+
+### y1v7 p.175–178, 180–188, 190–195 — Ch.6: the fight he planned, the pawn he keeps
+[scene] (p.175) Watches Ryuuen choose violence over a draw; then wins the rooftop brawl and keeps Karuizawa under control.
+[says] (p.175) “I agree. Ayanokouji might actually sacrifice her,”
+[note] (p.175) Ibuki’s line; Ayanokōji does not dispute the mutual-destruction frame.
+[says] (p.177) “Violence is a powerful tool. I can’t argue with that. However, you have to be stronger than your opponent for that to work to your advantage. Understand?”
+[says] (p.177) “The four of you won’t be enough to stop me.”
+[says] (p.177) “Don’t worry, Karuizawa,”
+[says] (p.177) “There’s nothing to be anxious about.”
+[says] (p.179) “I don’t really care,”
+[says] (p.179) “If you’re going to do this, you better take it seriously,”
+[says] (p.179) “Just as I thought. That hurts,”
+[says] (p.180) “Ayanokouji!”
+[note] (p.180) Ishizaki’s shout; the next line is Ayanokōji’s.
+[says] (p.180) “If you’re going to come at me, don’t shout,”
+[says] (p.181) “Are you serious, Ibuki?”
+[says] (p.181) “Ryuuen’s always been the sort to use violence. Do you think I’d voluntarily allow him to engineer a situation where he could rampage without repercussion?”
+[says] (p.181) “You still don’t get it, do you?”
+[says] (p.181) “Our confrontation here was determined long in advance. I knew that, when faced with a stalemate, Ryuuen Kakeru would resort to violence to settle things.”
+[says] (p.181) “If I never intended to reveal my identity, I wouldn’t have used Manabe during the sports festival. I knew you’d identify her as the obvious culprit once you heard that recording. That is what led you here, right? I anticipated that you’d question them, and learn that I was blackmailing them for bullying Karuizawa,”
+[says] (p.181) “You were convinced that a link existed between Karuizawa and me. You had Ishizaki, Komiya, and the others tail Class D students, and moved openly against Kouenji yourself, thinking that it would put pressure on X. I imagine you genuinely enjoyed yourself, but you actually gave me some time to think.”
+[says] (p.181) “To be more precise, you were dancing in mine,”
+[says] (p.182) “You really don’t know?”
+[says] (p.182) “Violence isn’t a tool only you and your goons possess,”
+[says] (p.182) “I’m impressed you’re still keeping your cool after seeing that play out.”
+[says] (p.182) “Nope.”
+[says] (p.183) “Sorry, but I won’t let you hit me,”
+[says] (p.183) “Not bad, Ryuuen.”
+[says] (p.184) “So, you’re saying if we keep doing this over and over, you’ll win eventually?”
+[says] (p.184) “Aren’t you afraid of losing?”
+[says] (p.184) “No fear, huh?”
+[says] (p.184) “Teach me about pain, then.”
+[says] (p.184) “Unfortunately, I don’t ‘get’ anything,”
+[says] (p.184) “This is just pain.”
+[says] (p.184) “That’s not it, Ryuuen. That’s not what I’m saying.”
+[says] (p.185) “I was testing a hypothesis. I wanted to see whether I could feel that fear you talked about,”
+[says] (p.185–186) “I’ve never looked down on anyone. Whether other people succeed or … fail has nothing to do with me.”
+[says] (p.186) “You said you’ve never felt fear, didn’t you, Ryuuen?”
+[says] (p.187) “Isn’t this enough, Ryuuen?”
+[says] (p.190) “Sorry. I put you in a really difficult situation. Are you hurt?”
+[says] (p.190) “Are you disillusioned with me now?”
+[says] (p.190) “Yeah, I suppose you’re right. So why didn’t you sell me out to Ryuuen?”
+[says] (p.190) “Don’t think about it anymore. What happened today, what’s happened so far. You can think about that stuff later. The only thing that’s for certain right now, in this moment, is that your curse has been lifted. Manabe…no, no one will dig up your past again. As for what’s to come, well, you can just keep going the way you always have,”
+[says] (p.190) “You’ve managed to overcome your past and create an identity as the person you are now,”
+[says] (p.190) “Starting tomorrow, you can just pick up where you left off.”
+[says] (p.191) “I hurt you. I won’t ask you to forgive me. But please remember just one thing. If something like what happened today happens again, I will come save you.”
+[says] (p.191) “A few steps below us, the student council president—well, the former student council president—and Chabashira-sensei are waiting. They know the circumstances to a certain degree, so they should be able to handle things, including taking care of your soaked uniform,”
+[says] (p.191) “I’ve still got a few things to tidy up here. Besides, we don’t want to be seen together. It’s best if you go first.”
+[says] (p.192) “Do you think this…is over, Ayanokouji?”
+[note] (p.192) Ryuuen’s line.
+[says] (p.192) “It’s over,”
+[says] (p.192) “Surely you’re not about to say you want to keep going?”
+[says] (p.192) “Are you going to report me to the school?”
+[says] (p.192) “Let me give you some advice. I don’t recommend it. The former student council president is waiting on the stairs as we speak. He may not know all the details of what happened here, but it’s obvious you were the one setting a trap, Ryuuen…especially since you were caught on video spraypainting the surveillance camera. I, on the other hand, was at Keyaki Mall when you did that. I can produce many alibis as I need to prove it.”
+[says] (p.192) “Yes. I knew you wouldn’t stop attacking me until I struck you at least once.”
+[says] (p.192) “Yeah, I do. There’s a reason I defeated you, Ryuuen. You made a mistake choosing the order of your foes. If you’d cut your teeth fighting Ichinose, and then Katsuragi and Sakayanagi, you might’ve been closer to my level by the time you chose to challenge me. But your curiosity got the better of you. You overplayed your hand.”
+[says] (p.192–193) “I’d like to say I’d be happy to have a rematch, but I’m done drawing … Target someone else,”
+[says] (p.193) “I’d like to avoid that, but yes.”
+[says] (p.193) “Your overconfidence in relying on my identity and Karuizawa’s past was your undoing. If you’d been less reckless, you would’ve either mounted a larger-scale attack or posted more lookouts,”
+[says] (p.193) “Not necessarily. As long as you make no further attempts to attack us, I won’t use this incident to advance myself.”
+[says] (p.193) “Maybe,”
+[says] (p.193) “But what are you going to do? You can’t undo what happened, Ryuuen.”
+[says] (p.194) “Oh? That sounds serious. Taking responsibility and all.”
+[says] (p.194) “Because you hate me. Divide the remaining points among everyone. Once the school expels me, I bet Katsuragi and Sakayanagi will void our contract, but there’s nothing to be done about that,”
+[note] (p.194) Ryuuen’s line to Ibuki.
+[says] (p.194) “Are you sure? I think you’ll come to regret this,”
+[says] (p.195) “Why do you care?”
+[note] (p.195) Ryuuen’s line.
+[says] (p.195) “If you leave without knowing why you lost, you won’t grow,”
+[says] (p.195) “Are you really fine with not knowing why you lost to me?”
+[says] (p.195) “Let it go. There’s no point trying to save me. You’ve got nothing to gain by sparing me now that I know about you and Karuizawa. I could expose you at any time.”
+[note] (p.195) Ryuuen’s line.
+[says] (p.195) “True enough. If I must name a reason for sparing you…it’ll work to Class D’s advantage to have you crush Sakayanagi and Ichinose for us. Besides, if your contract with Katsuragi remains in place, Class A will continue to hemorrhage points. Most importantly, though, if you suddenly drop out of school, Sakayanagi and Ichinose will assume that X beat you. That spells trouble for me down the line,”
+[says] (p.195) “So, trust me, this is to my benefit. Even if word of what happened up here gets out, I took no noticeable injuries. It would just look like you guys fought among yourselves, wouldn’t it?”
+[says] (p.195) “Allow me to add just one thing,”
+[says] (p.195) “You are free to drop out of school of your own volition and you’re free to doubt me. But I have absolutely no intention of telling anyone about today unless you force my hand. The former student council president has similarly promised to keep it to himself. Nothing about this situation is forcing you to withdraw—but if you do, I won’t stop you.”
+[feat] (p.177–188) Takes Albert’s punch, drops Ishizaki and Ibuki with controlled force, then outlasts Ryuuen until the knockout — no critical injuries taken by plan.
+[feat] (p.181–185) Explains the whole trap: Manabe recording → Ryuuen’s trail → planned violence; tests whether he can feel fear under pain and concludes he cannot.
+[trait] (p.190–195) Keeps Karuizawa as a controlled pawn, arranges alibis and stair witness, spares Ryuuen only because a live Class C leader serves Class D better than a expelled one.
+[rel:ryuuen-kakeru] (p.175–195) The opponent he beats, then deliberately keeps.
+[rel:karuizawa-kei] (p.190–191) The promise kept and the dependency managed.
+[rel:ibuki-mio] (p.180–182) Dropped with a neck throw after her kick flurry.
+[rel:ishizaki-daichi] (p.179–180) Fist-catch and knee kick.
+[rel:yamada-albert] (p.179–180) Caught the first heavy punch on purpose.
+[rel:horikita-manabu] (p.191–195) Stair witness whose presence blocks Ryuuen’s report option.
+[rel:chabashira-sae] (p.191) Waiting below with the former president.
+[rel:ichinose-honami] (p.181, 192, 195) Named as the foe Ryuuen should have fought first, and as someone to crush later.
+[rel:katsuragi-kouhei] (p.192, 195) Named in the order-of-foes lecture and the contract math.
+[rel:sakayanagi-arisu] (p.192, 195) Same — special treat for Ryuuen, Class A hemorrhage if contract holds.
+[rel:manabe-shiho] (p.181, 190) The sports-festival lever and the past that is now safe.
+[rel:sudou-ken] (p.178) The known fighter Ishizaki is not.
+[rel:komiya-kyogo] (p.181) Named among the tailed Class D students.
+[rel:kouenji-rokusuke] (p.181) The open move against him that bought Ayanokōji thinking time.
+
+
+<!-- walk: y1v7 ch6 → p.196 -->

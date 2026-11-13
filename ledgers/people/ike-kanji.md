@@ -754,3 +754,14 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:ryuuen-kakeru] (p.100) The crazy-looking visitor.
 
 <!-- walk: y1v7 ch4 → p.119 -->
+
+### y1v7 p.152 — Ch.6: the rare praise
+[scene] (p.152) Raises his hand at Chabashira’s silence, then reacts to her unexpected praise of the class.
+[says] (p.152) “What’s the matter, Sensei?”
+[says] (p.152) “W-wow. Sensei just praised us. This is rare.”
+[says] (p.152) “This really is unusual,”
+[says] (p.152) “Chabashira-sensei being nice and giving us a warning, I mean.”
+[trait] (p.152) First to speak when the teacher pauses; records the class’s amazement at her good mood.
+[rel:chabashira-sae] (p.152) The homeroom teacher he addresses as Sensei.
+
+<!-- walk: y1v7 ch6 → p.196 -->

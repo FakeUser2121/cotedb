@@ -119,6 +119,10 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [note] (p.27) Phone topic: what will he do about Satou-san after exchanging contacts.
 [note] (p.162) Airi asks whether he went somewhere with Satou-san alone before partnering.
 
+## y1v7
+
+<!-- walk: y1v7 → start -->
+
 ### y1v7 p.54 — Ch.3: the declined tea
 [scene] (p.54) Approaches Ayanokōji after class with a hair-twirl invitation and leaves slightly anxious when he refuses.
 [says:satou-maya] (p.54) “Hey, Ayanokouji-kun. Are you free today? If so, would you like to have some tea or something before going back to the dorms?”
@@ -135,3 +139,20 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [note] (pp.65–97) Not named in the second half of this chapter.
 
 <!-- walk: y1v7 ch3 → p.97 -->
+
+### y1v7 p.153–154 — Ch.6: the winter-break date
+[scene] (p.153) Calls out to Ayanokōji in the classroom, sheepish, after her first invitation was turned down.
+[says] (p.153) “Hey. Are you busy today, by any chance?”
+[says] (p.153) “I-I see. Bad luck, I guess,”
+[says] (p.153) “Huh?”
+[says] (p.153) “R-really?!”
+[says] (p.153) “Y-yeah.”
+[says] (p.153) “I-It’s a date!”
+[says] (p.154) “Got it! See you later, Ayanokouji-kun!”
+[note] (p.153) Hugs him without warning, then hops up and down blushing; joins Shinohara’s group beaming.
+[trait] (p.153–154) Bold enough to ask twice; turns a decline into a winter-break date in one breath.
+[rel:ayanokouji-kiyotaka] (p.153–154) The boy she pins down for the break.
+[rel:shinohara-satsuki] (p.154) Rejoins her group after the acceptance.
+[rel:yukimura-teruhiko] (p.154) Named in his playboy tally.
+
+<!-- walk: y1v7 ch6 → p.196 -->

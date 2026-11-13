@@ -144,3 +144,51 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [rel:sudou-ken] (p.137) The old target named in his shame.
 
 <!-- walk: y1v7 ch5 → p.151 -->
+
+### y1v7 p.159, 166–174 — Ch.6: the panicked bucket boy
+[scene] (p.159) Comes downstairs looking panicked with water buckets, then returns up; later panics at Ayanokōji’s entrance.
+[note] (p.159) Spilled water on the floor shows he has made the trip several times.
+[says] (p.167) “R-Ryuuen-san, does this mean Ayanokouji is X?!”
+[says] (p.170) “Do you believe it, Ryuuen-san? That Ayanokouji’s X?”
+[says] (p.170) “But that’s so obvious… isn’t that way too out in the open for someone trying to hide their identity?”
+[says] (p.170) “I think this is fishy, too. He might’ve been told to step forward and claim he’s the mastermind as part of a ploy,”
+[says] (p.171) “I bet Sudou and those other guys are waiting nearby,”
+[says] (p.171) “I-Is that so?”
+[says] (p.171) “I-I see.”
+[says] (p.174) “Um…”
+[says] (p.174) “Well, we know X’s identity now. Maybe that’s enough?”
+[trait] (p.159–174) Panicked, suggestible, eager for the fight to be over once X is named.
+[rel:ryuuen-kakeru] (p.159–174) The boss whose buckets he carries and whose certainty he questions.
+[rel:ibuki-mio] (p.167–174) The other Class C who doubts Ayanokōji.
+[rel:ayanokouji-kiyotaka] (p.166–174) The student he both fears and disbelieves.
+[rel:yamada-albert] (p.159) Fellow Class C on the stairs.
+[rel:sudou-ken] (p.171) Names him as a possible nearby rescue.
+
+### y1v7 p.177–180, 192–195 — Ch.6: ordered in, crushed, left holding the story
+[scene] (p.177) Hesitates, then throws the lazy punch Ayanokōji catches; after the beating, stays to hear Ryuuen’s exit narrative.
+[says] (p.177) “Y-yes.”
+[says] (p.178) “A-are you sure?”
+[says] (p.178) “But—”
+[says] (p.178) “That’s right. You’re the one who oughta worry,”
+[says] (p.178–179) “I’m not a bad guy, Ayanokouji. I’m just following … Ryuuen-san’s orders.”
+[says] (p.179) “Huh…?”
+[says] (p.179) “Huh? Ah…ugh…huh?!”
+[says] (p.179) “Ah…ngh…ah! T-time out… Stop!”
+[says] (p.180) “No way. Y-you’re not messing around, are you? Albert? Ishizaki?”
+[note] (p.180) Ibuki’s line naming both of them.
+[says] (p.180) “Ayanokouji!”
+[says] (p.194) “Y-yeah, Ryuuen-san! It’s not like anyone’s gonna blab about this,”
+[says] (p.194) “You don’t have to take responsibility!”
+[says] (p.194) “Ryuuen-san, are you serious?!”
+[feat] (p.179) The first punch is caught mid-air; the squeeze drops him to his knees.
+[trait] (p.177–195) Understands he is only following orders; panics when the boss starts giving points away.
+[rel:ryuuen-kakeru] (p.177–195) The order-giver he still defends at the end.
+[rel:ayanokouji-kiyotaka] (p.179–180) The opponent who ends him with a knee and a jaw punch.
+[rel:ibuki-mio] (p.180, 193–194) Fellow victim of the same pile-up; both protest the transfer.
+[rel:yamada-albert] (p.177–180) The other heavy who falls with him.
+[rel:sudou-ken] (p.178) Named as the known fighter Ayanokouji is not.
+[rel:komiya-kyogo] (p.176) Listed with the beaten-into-obedience crew.
+[rel:kondou-reo] (p.176) Same list.
+
+
+<!-- walk: y1v7 ch6 → p.196 -->

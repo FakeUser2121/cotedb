@@ -224,3 +224,25 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [trait] (p.90–96) Organiser of the punishment game; honest about her own spice arrogance; uneasy around perfection she cannot puncture.
 
 <!-- walk: y1v7 ch3 → p.97 -->
+
+### y1v7 p.154–156 — Ch.6: Haruka’s grin and the off-campus itch
+[scene] (p.154) Walks with Ayanokōji’s group toward the mall, already wearing a creepy grin about Satou.
+[says] (p.154) “I haven’t even asked you anything,”
+[says] (p.154) “What’s up?”
+[says] (p.154) “Nothing’s up. You were about to ask something, that’s all.”
+[says] (p.154) “I mean, yeah. Just looking at Satou-san, it’s not hard to imagine that something’s going on, right?”
+[says] (p.154) “A girl inviting a boy out is rare, though. There must be something to it, don’t you think?”
+[says] (p.154) “A last-ditch effort to find romance just in time for Christmas? Oh, my,”
+[says] (p.154) “What an amazing turn of events!”
+[says] (p.155) “Hey, you know, even though Keyaki Mall’s got pretty much everything, I think I wanna go off campus after all,”
+[says] (p.155) “I really want to go to Shibuya or Harajuku, or see the lights in Omotesando, you know?”
+[says] (p.155) “Ah, no worries. That’s not the case with me. My family’s fine,”
+[says] (p.155) “So, are we heading over to karaoke? It might be a bit crowded.”
+[note] (p.155) Smoothly dodges the parents topic; something she does not want to touch on.
+[trait] (p.154–156) Instigator with a creepy grin; reads Satou at a glance and steers the group toward karaoke.
+[rel:ayanokouji-kiyotaka] (p.154–156) Teases him as a playboy; trusted by him to keep Airi entertained.
+[rel:satou-maya] (p.154) The girl she diagnoses as interested.
+[rel:sakura-airi] (p.154–156) The friend she will look after when Ayanokōji leaves.
+[rel:yukimura-teruhiko] (p.154–156) Fellow group member pressing for a destination.
+
+<!-- walk: y1v7 ch6 → p.196 -->

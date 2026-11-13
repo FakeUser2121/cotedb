@@ -870,3 +870,42 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:morofuji-rika] (p.147) Named in the ship story.
 
 <!-- walk: y1v7 ch5 → p.151 -->
+
+### y1v7 p.152–153, 157–159, 161–162, 166–174 — Ch.6: the emergency text and the rescue
+[scene] (p.152) Texts Ayanokōji on his emergency address that Ryuuen wants her on the roof at two; later cowers by the fence until he arrives.
+[note] (p.152) The message ties the meeting to Manabe and her friends; Ayanokōji does not reply.
+[note] (p.153) Leaves the room looking satisfied, thinking he got her message.
+[note] (p.157) Chabashira is told Karuizawa was horribly bullied in the past; the news will be all over the school tomorrow.
+[note] (p.161) Named in Chabashira’s interrupted concern about the roof crisis.
+[note] (p.166) Cowers away from the door; shocked when Ayanokōji enters.
+[says] (p.167) “Why…why did you come?”
+[says] (p.178) “Wait!”
+[says] (p.178) “Why are you doing something so stupid?! You have nothing to gain by beating up Kiyotaka!”
+[says] (p.184) “Kiyotaka!”
+[trait] (p.152–174) Sends the one message that draws her protector in; freezes on the roof until the promise is kept.
+[rel:ayanokouji-kiyotaka] (p.152–174) The emergency contact who finally shows up.
+[rel:ryuuen-kakeru] (p.152, 166–174) The man who summoned her and now faces her rescuer.
+[rel:manabe-shiho] (p.152, 157) The old bullying named in the text and the teacher’s briefing.
+[rel:ibuki-mio] (p.166–174) One of the Class C on the roof.
+[rel:ishizaki-daichi] (p.159, 166–174) The bucket boy and panic case.
+
+### y1v7 p.174, 177–178, 190–191 — Ch.6: faith, fury, and the arms she collapses into
+[scene] (p.174) Picks herself off the floor and declares she no longer cares if her past is told — then after the fight, collapses into Ayanokōji’s arms.
+[says] (p.174) “Fine. If they already know about you, Kiyotaka, they can go ahead and tell everyone they like about my past,”
+[says] (p.177) “B-but—”
+[says] (p.178) “Wait!”
+[says] (p.178) “Why are you doing something so stupid?! You have nothing to gain by beating up Kiyotaka!”
+[note] (p.178) Bares her teeth at Ryuuen and tries to leap at him; Ayanokōji stops her.
+[says] (p.190) “I’m…fine. I’m just cold. I’ve kind of lost feeling in some places…”
+[says] (p.190) “Of course I am. You betrayed me from the very beginning.”
+[says] (p.190) “For my own sake. That’s all there is to it,”
+[says] (p.190) “I was scared. I was so scared!”
+[says] (p.191) “Kiyo…taka…”
+[says] (p.191) “O-okay. What about you, Kiyotaka?”
+[trait] (p.174–191) From despair to open defiance to trembling gratitude; the dependency Ayanokōji engineered holds.
+[rel:ayanokouji-kiyotaka] (p.174–191) The promise kept, the arms she falls into, the control he notes with satisfaction.
+[rel:ryuuen-kakeru] (p.174, 178) The man whose plan she stops caring about, then defies.
+[rel:manabe-shiho] (p.190) The past that will not be dug up again.
+
+
+<!-- walk: y1v7 ch6 → p.196 -->

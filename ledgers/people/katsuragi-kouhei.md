@@ -504,3 +504,16 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [rel:horikita-suzune] (p.114) Corrects Sudou on private vs class points around the deal.
 
 <!-- walk: y1v7 ch4 → p.119 -->
+
+### y1v7 p.192, 194–195 — Ch.6: the skipped middle and the voiding contract
+[scene] (p.192) Named with Sakayanagi as the opponent Ryuuen skipped on his way to Ayanokōji.
+[note] (p.192) “If you’d cut your teeth fighting Ichinose, and then Katsuragi and Sakayanagi, you might’ve been closer to my level…”
+[note] (p.194) On Ryuuen’s expulsion: “Katsuragi and Sakayanagi will void our contract.”
+[note] (p.195) “if your contract with Katsuragi remains in place, Class A will continue to hemorrhage points.”
+[rel:ryuuen-kakeru] (p.192–195) The Class C leader whose contract bleeds his own class.
+[rel:sakayanagi-arisu] (p.192, 194) The paired Class A name.
+[rel:ayanokouji-kiyotaka] (p.192, 195) The man who wants the contract kept alive.
+[rel:ichinose-honami] (p.192) The first name in the skipped order.
+
+
+<!-- walk: y1v7 ch6 → p.196 -->

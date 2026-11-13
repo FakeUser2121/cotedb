@@ -399,3 +399,13 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:ryuuen-kakeru] (p.123) The Class D student he separately pressed while keeping the true aim from Class C.
 
 <!-- walk: y1v7 ch5 → p.151 -->
+
+### y1v7 p.181 — Ch.6: the open move that bought thinking time
+[scene] (p.181) Named only as the Class D student Ryuuen moved against openly, hoping it would pressure X.
+[note] (p.181) “moved openly against Kouenji yourself, thinking that it would put pressure on X. I imagine you genuinely enjoyed yourself, but you actually gave me some time to think.”
+[rel:ryuuen-kakeru] (p.181) The Class C leader who walked into a useful distraction.
+[rel:ayanokouji-kiyotaka] (p.181) The X who used the pressure as free time.
+[rel:komiya-kyogo] (p.181) One of the tails on the same campaign.
+
+
+<!-- walk: y1v7 ch6 → p.196 -->

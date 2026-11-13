@@ -1022,3 +1022,175 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:ayanokouji-kiyotaka] (p.146–149) X, the name he wants.
 
 <!-- walk: y1v7 ch5 → p.151 -->
+
+### y1v7 p.152–153, 155, 157–159, 162–164, 166–174 — Ch.6: the hunter becomes the entertainment
+[scene] (p.152) Named in Chabashira’s lecture context and in Ayanokōji’s plan notes; his rooftop show is already running when the classroom talk begins.
+[note] (p.152) Karuizawa’s emergency text says Ryuuen asked to meet her on the roof at two.
+[note] (p.153) Ayanokōji: Ryuuen didn’t care if she tattled; his only goal was to lure him in.
+[note] (p.155) Miyake reports no tailing — Ryuuen has decided to settle things once and for all.
+[note] (p.157) Chabashira learns Ryuuen called Karuizawa; the bullying will be all over the school tomorrow.
+[note] (p.162) Named as one of the students already accumulating private points to beat the system.
+[note] (p.163) Ayanokōji heads to the roof knowing Ryuuen will not stop until struck at least once.
+[says] (p.167) “Well, well. Who do we have here? It’s that guy who clings to Suzune all the time. Ayanokouji, huh? What brings you all alone to the rooftop on this fine first day of winter vacation?”
+[says] (p.167) “Oh?”
+[says] (p.167) “What’s the matter, Ibuki?”
+[says] (p.167) “It seems you want to believe that Ayanokouji isn’t X.”
+[says] (p.167) “Good-natured? What makes you say that?”
+[says] (p.168) “Did that make you happy?”
+[says] (p.170) “I’ve had my eye on Ayanokouji from the start. He’s always clinging to Horikita, who’s reputed to be quite exceptional herself.”
+[says] (p.170) “Certainly. I understand what you’re trying to say, Ishizaki. That’s why I made sure to very carefully narrow down my list of suspects. After I learned about the incident with Manabe and her friends, certain candidates resurfaced as my primary suspects. When I considered the speed and means by which Karuizawa’s bullying incident had been dealt with, I thought it had to be either Ayanokouji or Hirata.”
+[says] (p.171) “Yes, I certainly did,”
+[says] (p.171) “This looks like a bad move on your part, Ayanokouji. Your best option would’ve been to abandon Karuizawa Kei, not walk into an obvious trap. I suppose I understand why Ibuki and Ishizaki don’t believe you. If you’re really X, tell me how you plan on getting out of this dilemma.”
+[says] (p.171) “That’s not true. We know your identity. We also know Karuizawa’s secret. Awful things will happen tomorrow if you leave here without doing as we say,”
+[says] (p.171) “Enough already. Stop playing dumb and show me what you’ll do.”
+[says] (p.171) “What I’ll do? There’s nothing I can do.”
+[says] (p.171) “Nope,”
+[says] (p.171) “If her classmates knew about Karuizawa’s miserable past, her social life would be dead without me having to say a word. Try and use your head a little.”
+[says] (p.171) “Still, I gotta say, you must think you’re a real big deal if you’re still trying to play dumb.”
+[says] (p.171) “Man, oh man. Now this is a problem. Ibuki and Ishizaki don’t seem to believe that you’re X,”
+[says] (p.172) “You say there’s nothing you can do, Ayanokouji? But I need to ascertain the truth of the matter here. For that to happen, I think you need to let these two know what’s going on and make everything clear. Is that all right with you?”
+[says] (p.172) “You have to admit it now, Ibuki,”
+[says] (p.172) “Ayanokouji is X.”
+[says] (p.172) “Seriously, is there any reason to debate this further?”
+[says] (p.172) “He probably has a trick up his sleeve. A miracle beyond our imagination. If he doesn’t, then…well, he’s an idiot.”
+[says] (p.173) “Exactly. So, what’re you gonna do about it? I can reveal your identity whenever I want. And I still have the threat of exposing Karuizawa’s past to use against you. You’re powerless.”
+[says] (p.173) “And if you try to tell the school what we did up here, we’ll leave Karuizawa high and dry in retaliation,”
+[says] (p.173) “No matter how you slice it, I win,”
+[says] (p.173) “Come now, don’t be so anticlimactic. You came all the way here. We might as well take our time.”
+[says] (p.173) “You wouldn’t expose your identity without a reason. What’re you planning?”
+[says] (p.174) “Huh?”
+[says] (p.174) “Now, hold on, that doesn’t make sense,”
+[says] (p.174) “You could’ve kept yourself hidden if you sacrificed her to start with. You came all the way here precisely because you couldn’t sacrifice her. Don’t try to trick me.”
+[feat] (p.166–174) Built the whole trap, narrowed the list to Ayanokōji or Hirata, and still walks into a show he did not write.
+[trait] (p.152–174) Hunter who enjoys the hunt more than the catch; divided Class C on whether X would ever just appear.
+[rel:ayanokouji-kiyotaka] (p.166–174) The man who turns the roof into his stage.
+[rel:ibuki-mio] (p.166–174) The follower who will not believe him.
+[rel:ishizaki-daichi] (p.159–174) The bucket boy and fellow doubter.
+[rel:karuizawa-kei] (p.152–174) The bait who emailed her protector.
+[rel:hirata-yousuke] (p.170) The other name on the narrowed list.
+[rel:manabe-shiho] (p.157, 170) Her incident is what resurfaced the suspects.
+[rel:sudou-ken] (p.171) Named by Ishizaki as a possible rescuer.
+[rel:horikita-suzune] (p.167, 170, 174) Suzune / Horikita, the cover he keeps citing.
+[rel:yamada-albert] (p.159, 166) His gatekeeper.
+
+### y1v7 p.175–178, 181–188, 192–195 — Ch.6: the tyrant who loses and rewrites the story
+[scene] (p.175) Chooses entertainment over a draw, orders the door shut, and starts the brawl he cannot win.
+[says] (p.175) “Heh heh heh!”
+[note] (p.175) Ryuuen suddenly clutched his head and laughed before the next line.
+[says] (p.175) “Well, you’ve got that right. If either side spills the beans, it’ll be open war.”
+[says] (p.175) “Man, this is anticlimactic. Not only did you give up your identity so easily, but you have no choice but to leave the decision up to me, your opponent! Even then, there’s no doubt in my mind that Ayanokouji is X, the one who’s been keeping me entertained. Which means I’d be missing out if I don’t have you entertain me to the very end. Isn’t that right, Ishizaki?”
+[says] (p.175) “See, everything is a game to me. Not just getting to Class A, but crushing Ichinose; crushing Suzune; crushing classes D and B; even finally crushing Sakayanagi, whom I’ve been saving as a special treat for last… It’s all just my way of staving off boredom.”
+[says] (p.175) “Heh. You were so full of despair moments ago, but now your eyes tell me that you have absolute faith in Ayanokouji. I bet you’d tell everyone about your past yourself if it’d protect him, wouldn’t you? Relax. Your role here has ended,”
+[says] (p.175–176) “You really have entertained me, Ayanokouji. You might be just another Class D defect, but you saw through my plans time and time again. Even more than that, you think like me. How could I help but want to draw you out of hiding? I didn’t think about what would come next. I thought I’d … choose that once I met you.”
+[says] (p.176) “Why do you sound so irritated, Ibuki?”
+[says] (p.176) “Heh. You, the eternal lone wolf who never tried to cooperate with her classmates, talking about risk to Class C? Don’t make me laugh,”
+[says] (p.176) “You think you know what I’m going to do?”
+[note] (p.176) Ibuki’s line; Ryuuen’s answer follows.
+[note] (p.176) Three-line reply printed after Ibuki’s list and before “Ibuki cried”; the translation leaves the speaker untagged — recorded here because Ryuuen’s next tagged line answers it.
+[says] (p.176) “Violence best demonstrates the power difference between us.”
+[says] (p.176) “Isn’t that difference already plain to see?”
+[says] (p.176) “Ayanokouji has been a thorn in our side. We have to return the favor.”
+[says] (p.176) “As long as I’m having fun, I don’t care,”
+[says] (p.176) “Violence is easy to understand.”
+[says] (p.177) “I think I understand why you revealed your identity so late in the game,”
+[says] (p.177) “It’s so we can’t take this fight somewhere else. Shut the door, Albert.”
+[says] (p.177) “But, in the end, it was still a bad move,”
+[says] (p.177) “You might’ve thought that fight would end here, but I’m not letting things go.”
+[says] (p.177) “First, I’m going to wipe that calm look off your face and replace it with fear. You’re underestimating me, aren’t you? You think I won’t do it.”
+[says] (p.177) “War isn’t just a battle of wits, you know. You can win just as well by assassinating an army’s leader as by outsmarting its tactician. Violence is the most powerful force in the world. It doesn’t matter how crafty you are—violence will bring you to heel.”
+[says] (p.177) “I’m going to burn the image of your gangly, beaten body into my eyes. Then, starting next semester, I’ll take a bite out of Ichinose,”
+[says] (p.178) “Heh heh heh. Ha ha ha ha ha!”
+[note] (p.178) Raucous laughter before ordering Ishizaki in.
+[says] (p.178) “Oh? I think Ayanokouji’s saying he’s not to yield to violence from the likes of us. Then show me what you’ve got. Ishizaki.”
+[says] (p.178) “Don’t hold back. Take him out.”
+[says] (p.178) “If we give Ayanokouji a thorough beating, there won’t be anything more to worry about.”
+[says] (p.178) “Hey, hey. Stay out of this, Karuizawa. You served your purpose here. Thanks to Ayanokouji’s sacrifice, your secret is safe. Show some gratitude.”
+[says] (p.178) “Stay out of it.”
+[says] (p.180–181) “Well, I guess we underestimated him. He acted so tough because he … was confident in his skills, huh? I didn’t expect this,”
+[says] (p.181) “Wait a minute, Ayanokouji. Now even I’m not following. I set up this meeting.”
+[says] (p.181) “Heh. My, now you’re saying some pretty interesting stuff. So, you purposefully made it look like I had you in the palm of my hand?”
+[says] (p.181–182) “Allow me to apologize, Ayanokouji. You really are clever. The advantage I thought I had is gone, and now I’m in trouble. What should we … do, Ibuki?”
+[says] (p.182) “You’re not just clever, but also capable of dishing out violence when called upon. I underestimated you.”
+[says] (p.183) “Physical strength alone doesn’t determine victory or defeat. You gotta be tough on the inside, too!”
+[says] (p.183) “This is so much fun!”
+[says] (p.183) “Turning the tables even after being brought to the pits of despair! This isn’t enough for me. I need more, Ayanokouji.”
+[says] (p.184) “That so? After I beat you, how about you tell me them?”
+[says] (p.184) “Do you think you’re going to win?”
+[says] (p.184) “Do you think you can’t lose?”
+[says] (p.184) “Can’t really imagine it, sorry.”
+[note] (p.184) Ayanokōji’s line; Ryuuen answers below.
+[says] (p.184) “So, you’re saying if we keep doing this over and over, you’ll win eventually?”
+[note] (p.184) Ayanokōji’s line.
+[says] (p.184) “What about when you’re in the middle of pissing? When you’re taking a shit? I’ll come after you when you least expect it,”
+[says] (p.184) “I don’t get afraid. Never felt fear once in my life.”
+[says] (p.184) “You’ll understand once you know pain,”
+[says] (p.184) “Pain gives way to fear for ordinary people.”
+[says] (p.184) “With pleasure!”
+[says] (p.184) “Just a few more hits and you’ll get it!”
+[says] (p.184) “How about it? You get it now?”
+[says] (p.184) “Are you trying to say you’re the same as me? That you don’t feel fear?”
+[says] (p.185) “Then let’s play some more!”
+[says] (p.185) “Tch! Saw through that, huh?”
+[says] (p.185) “What’s the matter? Aren’t you gonna play, Ayanokouji? Why didn’t you dodge those easy blows at first, huh?”
+[says] (p.185) “You’ve got some nerve with that condescension, you freak!”
+[says] (p.185) “Where’d you get this kind of strength? This isn’t normal, Ayanokouji.”
+[says] (p.185) “You’ve got all this power, but you keep it hidden?”
+[says] (p.185) “Do you get off on looking down on mere mortals? Does that turn you on? Make you feel good?”
+[says] (p.186) “Impossible. Humans are made of greed.”
+[says] (p.186) “All right, then. I’ll just keep pounding you until you do feel fear!”
+[says] (p.186) “Ah…ah…heh, that’s right. I don’t know fear. I’ve never known it.”
+[says] (p.186) “Ugh…ugh! I’m a confident fighter, but it’s not like I’ve never lost before. No, it’s precisely because I’ve been beaten more times than other people that—gah!”
+[says] (p.186) “Gah! …Ah, damn it, it’s getting hard to talk again.”
+[says] (p.186–187) “Violence shows you who people really are. The ones doing the … beating, and the ones being beaten.”
+[says] (p.187) “Ah, ahh…heh. Ha…this is probably fun, huh, Ayanokouji? You can afford to be cocky, with strength like that. You’re free. You can do whatever you want. Show me, Ayanokouji…”
+[says] (p.187) “Heh. What’s the matter, Ayanokouji? I haven’t given up yet. Come on, choke the life out of me.”
+[says] (p.187) “Ow…that hurts. But that’s all…just pain.”
+[says] (p.187) “Even if you win today, I’ll keep coming at you, no matter how times it takes,”
+[says] (p.187) “No matter where you are at school, I’ll find an opening and attack. And eventually, I’ll win.”
+[says] (p.187) “Go ahead. Enjoy this temporary delight. Your victory’s right in front of you, Ayanokouji,”
+[says] (p.187) “This feels good, doesn’t it? It feels good to face off against a weaker opponent, doesn’t it? And lurking underneath that pleasure is…fear!”
+[says] (p.188) “Do you want to win? Do you want to lose? What are you feeling, Ayanokouji?”
+[says] (p.188) “Are you laughing at me now that you’re on top? Are you angry? Excited, overjoyed? Maybe frustrated? Tell me!”
+[says] (p.192) “Do you think this…is over, Ayanokouji?”
+[says] (p.192) “I’ll use any means necessary…to win,”
+[says] (p.192) “Even if it means…all-out war.”
+[says] (p.192) “Heh. That would be really, really lame…but it is an option. What if I made it look like you set a trap for us?”
+[says] (p.192) “So, you could’ve had a third-party witness everything…but you didn’t?”
+[says] (p.192) “You seriously think I’m just gonna lay down and accept defeat?”
+[says] (p.192) “You sure are direct.”
+[note] (p.192) Bitter smile after the order-of-foes lecture.
+[says] (p.193) “Since you deliberately had a witness keep his distance, that means you’re keeping that card in play to use against us in the future if you have to,”
+[says] (p.193) “Even if it means admitting your identity and Karuizawa’s past.”
+[says] (p.193) “And I wouldn’t be the only one going down if that happened. So would Ishizaki, Ibuki, and Albert, huh?”
+[says] (p.193) “In other words, Class C’s in trouble as long as I’m in charge, huh?”
+[says] (p.193) “I’m not naïve enough to take you at your word on that. If Class C ever corners you again, you’ll report what happened today to the school. Am I right?”
+[says] (p.193) “Shut up. My fight with you is finished. My own battle’s over, too.”
+[says] (p.193) “I take responsibility for everything,”
+[says] (p.193–194) “Before I do, I’m … transferring all my points to you.”
+[says] (p.194) “Ayanokouji, I’m the sole perpetrator of this incident. My expulsion should be enough, don’t you think?”
+[says] (p.194) “Don’t be dumb,”
+[says] (p.194) “A tyrant can only reign as long as his power holds meaning. If I’ve lost after coming this far, no one’s gonna follow me anymore.”
+[says] (p.194) “Because you hate me. Divide the remaining points among everyone. Once the school expels me, I bet Katsuragi and Sakayanagi will void our contract, but there’s nothing to be done about that,”
+[says] (p.194) “Shut it. No need to shout, I can hear you just fine.”
+[says] (p.194) “I’ll leave the rest to you. Later.”
+[says] (p.195) “Why do you care?”
+[says] (p.195) “Let it go. There’s no point trying to save me. You’ve got nothing to gain by sparing me now that I know about you and Karuizawa. I could expose you at any time.”
+[says] (p.195) “This is what happened here,”
+[says] (p.195) “I tried to punish the four of you for your failings, but you turned the tables and beat me up instead, then forced me to withdraw. I’ll leave it at that.”
+[says] (p.195) “Then don’t stop me. I don’t trust you,”
+[feat] (p.177–188) Fights without fear through a one-sided beating; still stands, still talks, still plans comebacks after near-knockout.
+[trait] (p.175–195) Tyrant who rewrites his own defeat into a story his followers can live with, then transfers points and walks out.
+[rel:ayanokouji-kiyotaka] (p.175–195) The man who beat him and then spared him for Class D’s use.
+[rel:ibuki-mio] (p.176–195) Slaps her for objecting; leaves his points in her hands.
+[rel:ishizaki-daichi] (p.178–195) Ordered in; stays to hear the exit story.
+[rel:yamada-albert] (p.177) Ordered to shut the door; joins the pile.
+[rel:karuizawa-kei] (p.175, 178) Hair-grab bait whose role he declares finished.
+[rel:ichinose-honami] (p.175, 177, 195) Next-semester target and reason to keep Ryuuen alive.
+[rel:katsuragi-kouhei] (p.194–195) Contract partner who will void the deal on expulsion.
+[rel:sakayanagi-arisu] (p.175, 194–195) Special treat and Class A point sink.
+[rel:horikita-suzune] (p.175) Crushing Suzune is part of the game list.
+[rel:komiya-kyogo] (p.181) One of the tails Ayanokōji counts against him.
+[rel:kouenji-rokusuke] (p.181) The open move that bought thinking time.
+
+
+<!-- walk: y1v7 ch6 → p.196 -->

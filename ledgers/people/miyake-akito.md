@@ -209,3 +209,18 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [rel:ryuuen-kakeru] (p.120–123) One of the Class D students his surveillance net watches.
 
 <!-- walk: y1v7 ch5 → p.151 -->
+
+### y1v7 p.154–156 — Ch.6: Akito’s tail report and his mother
+[scene] (p.154) Walks silently with the group, then reports no one is tailing them.
+[says] (p.155) “No sign of anyone tailing us,”
+[note] (p.155) Mumbles it, sounding relieved; Ryuuen’s plan to settle things today made tailing unnecessary.
+[says] (p.155) “My mom’s a worrywart. She’s probably really anxious,”
+[says] (p.155) “That…might worry her even more. Guess I should study a little harder,”
+[says] (p.156) “But it’s only two,”
+[note] (p.156) Checks the time on his phone when Ayanokōji suddenly turns back.
+[trait] (p.154–156) Stern and watchful on the walk; tender about family contact rules under the school’s three-year silence.
+[rel:ayanokouji-kiyotaka] (p.154–156) Group member who notices the all-nighter excuse.
+[rel:ryuuen-kakeru] (p.155) The Class C threat whose tailing has just stopped.
+[rel:hasebe-haruka] (p.154–156) Fellow group walker.
+
+<!-- walk: y1v7 ch6 → p.196 -->

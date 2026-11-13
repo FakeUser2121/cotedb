@@ -1085,3 +1085,20 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:ishizaki-daichi] (p.137) The attacker in that staged incident.
 
 <!-- walk: y1v7 ch5 → p.151 -->
+
+### y1v7 p.159, 171 — Ch.6: the old debt and the imagined rescue
+[scene] (p.159) Named in the private-point talk as the student whose expulsion was bought with a hundred thousand points.
+[note] (p.159) Chabashira: Ayanokōji and Horikita paid for that; Sudou wasn’t expelled.
+[note] (p.171) Ishizaki guesses Sudou and the others are waiting nearby — Ryuuen says no.
+[rel:chabashira-sae] (p.159) The teacher who priced his salvation.
+[rel:ayanokouji-kiyotaka] (p.159) The payer who keeps the old debt in the room.
+[rel:ishizaki-daichi] (p.171) The Class C who hopes for a rescue party that is not there.
+
+### y1v7 p.178 — Ch.6: the fighter Ayanokouji is not
+[scene] (p.178) Named only as the known brawler whose reputation makes Ishizaki hesitate.
+[note] (p.178) “It would’ve been one thing if his opponent were someone like Sudou, who was known for getting into fights, but I was a regular student.”
+[rel:ishizaki-daichi] (p.178) The Class C who would have fought Sudou more readily.
+[rel:ayanokouji-kiyotaka] (p.178) The “regular student” whose reputation is deliberately thin.
+
+
+<!-- walk: y1v7 ch6 → p.196 -->

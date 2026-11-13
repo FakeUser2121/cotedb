@@ -323,3 +323,33 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [trait] (p.86–89) Formal, direct, no tea; admits the successor mistake without flinching; expects nothing and waits.
 
 <!-- walk: y1v7 ch3 → p.97 -->
+
+### y1v7 p.164–165 — Ch.6: the witness on the stairs
+[scene] (p.164) Arrives as the person Ayanokōji texted; former student council president, brought in as the rooftop witness.
+[says] (p.164) “Sorry to have kept you waiting, Ayanokouji,”
+[says] (p.165) “That’s fine, but don’t forget our arrangement, Ayanokouji,”
+[says] (p.165) “As long as you understand. Try to wrap this up quickly.”
+[note] (p.165) Agrees to stop halfway up the stairs a few minutes after Ayanokōji heads up — no talk, no punishment, just make sure the Class C students see him on the way down.
+[note] (p.165) Ayanokōji’s half of the deal: if he goes back on his word, Manabu may forget what happens today.
+[feat] (p.164–165) The next-best thing to a teacher-witness: presence without intervention, arranged in advance.
+[trait] (p.164–165) Brief, transactional, already committed to the stair post before the fight starts.
+[rel:ayanokouji-kiyotaka] (p.164–165) The former president who keeps his end of a private bargain.
+[rel:chabashira-sae] (p.164–165) The teacher shocked to see him; concludes he will not go to the roof himself.
+[rel:horikita-suzune] (p.165) His sister, named in Chabashira’s question about who goes upstairs.
+[rel:sakayanagi-arisu] (p.165) The fallback witness Ayanokōji would have used instead.
+
+### y1v7 p.191–192, 195 — Ch.6: the card kept in play
+[scene] (p.191) Still waiting on the stairs; his presence is what blocks Ryuuen’s report option after the fight.
+[note] (p.191) Named as the former student council president a few steps below the roof.
+[note] (p.192) Ayanokōji cites him as the third-party witness who makes Ryuuen’s trap-claim impossible.
+[note] (p.192) “The former student council president is waiting on the stairs as we speak.”
+[note] (p.195) Has promised to keep the rooftop events to himself — one of Ayanokōji’s two standing restraints on the story.
+[feat] (p.191–195) Presence alone rewrites the post-fight negotiation without ever entering the room.
+[trait] (p.191–195) Keeps the stairpost to the end; the promise is cited as fact, not hope.
+[rel:ayanokouji-kiyotaka] (p.191–195) The man whose bargain is now load-bearing.
+[rel:ryuuen-kakeru] (p.192) The threat the stairpost neutralises.
+[rel:chabashira-sae] (p.191–192) The other adult waiting below.
+[rel:sakayanagi-arisu] (p.195) The alternate witness still unused.
+
+
+<!-- walk: y1v7 ch6 → p.196 -->

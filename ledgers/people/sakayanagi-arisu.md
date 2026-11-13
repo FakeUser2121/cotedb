@@ -228,3 +228,24 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [trait] (p.109–118) Perfect timing as performance; never rises to the kick; leaves with the grand-finale still in play.
 
 <!-- walk: y1v7 ch4 → p.119 -->
+
+### y1v7 p.165 — Ch.6: the alternate witness
+[scene] (p.165) Named as the fallback Ayanokōji would have used if Horikita Manabu refused to help.
+[note] (p.165) “I probably would’ve used Sakayanagi instead, since she knew about me.”
+[rel:ayanokouji-kiyotaka] (p.165) One of the few who know what he is; second choice for rooftop witness.
+[rel:horikita-manabu] (p.165) The first choice who actually took the job.
+
+### y1v7 p.175, 192, 194–195 — Ch.6: the special treat and the Class A sink
+[scene] (p.175) Named as the last dessert on Ryuuen’s game list; later as the one who will void his contract and assume X beat him.
+[note] (p.175) “even finally crushing Sakayanagi, whom I’ve been saving as a special treat for last…”
+[note] (p.192) Order-of-foes: Katsuragi and Sakayanagi should have come before Ayanokōji.
+[note] (p.194) On Ryuuen’s expulsion, “Katsuragi and Sakayanagi will void our contract.”
+[note] (p.195) If Ryuuen drops out, “Sakayanagi and Ichinose will assume that X beat you. That spells trouble for me down the line.”
+[rel:ryuuen-kakeru] (p.175–195) The dessert he never got to eat, and the contract partner who will cut him loose.
+[rel:katsuragi-kouhei] (p.192, 194) Paired in the order lecture and the void warning.
+[rel:ichinose-honami] (p.195) Paired as the one who will misread the expulsion.
+[rel:ayanokouji-kiyotaka] (p.195) The man who wants her kept busy by a live Ryuuen.
+[rel:horikita-manabu] (p.195) The alternate rooftop witness still unused.
+
+
+<!-- walk: y1v7 ch6 → p.196 -->

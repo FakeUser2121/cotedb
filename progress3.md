@@ -1558,3 +1558,10 @@ and works her with buckets while Ibuki holds and Ishizaki fetches water;
 her POV breaks under four dousings and the cruise-ship setup, then
 refuses to say the name — “K-knock…it…off.” Determinism hash across
 consecutive builds: `2eca4fc952f66af0ea617cc42cd3bdd3`.
+
+Year 1 Volume 7 chapter 6 is intersecting thoughts on the winter-break
+eve: Chabashira’s private-point test closes one system mystery, the mall
+group walks while the rooftop trap runs, Ayanokōji proves X with Ibuki’s
+camera story, then wins the brawl he planned and keeps Ryuuen alive as a
+Class D tool after the tyrant transfers his points. Determinism hash
+across consecutive builds: `13bd47a168a32c287a29f03204acc5f7`.

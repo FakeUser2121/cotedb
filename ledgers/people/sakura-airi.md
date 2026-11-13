@@ -800,3 +800,18 @@ aliases used for anchors: sakura, airi, sakura-san
 [trait] (p.91–96) First karaoke embarrassment handled; kindness-as-moral anchor; anxiety that perfection might be a lie.
 
 <!-- walk: y1v7 ch3 → p.97 -->
+
+### y1v7 p.154–156, 172 — Ch.6: Airi’s quiet Christmas
+[scene] (p.154) Downhearted in the hallway as the group teases Ayanokōji about Satou.
+[says] (p.154) “Y-y-you don’t think that S-Satou-san is interested in Kiyotaka-kun, do you?!”
+[says] (p.155) “I’m okay with staying here…”
+[says] (p.155) “Plus, the campus has almost everything we need. Do you feel the same as Haruka, Kiyotaka-kun? About going off campus?”
+[note] (p.156) Looks disappointed when Ayanokōji heads back; Haruka is left to make sure she has a good time.
+[note] (p.172) Named as one of the three people who could have seen Ibuki’s dirt-covered hands on the island — the circle that proves Ayanokōji’s claim.
+[trait] (p.154–156) Shy, campus-content, frantic about the Satou rumour; not the night-on-the-town type.
+[rel:ayanokouji-kiyotaka] (p.154–156, 172) Kiyotaka-kun she worries about and whose island observation she unknowingly corroborates.
+[rel:satou-maya] (p.154) The classmate she fears is interested in him.
+[rel:hasebe-haruka] (p.154–156) The friend tasked with keeping her company.
+[rel:ibuki-mio] (p.172) One of the only witnesses to Ibuki’s dirty hands.
+
+<!-- walk: y1v7 ch6 → p.196 -->

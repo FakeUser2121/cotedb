@@ -667,6 +667,10 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [note] (p.193) Exam opens under her signal; average-students analysis follows.
 [note] (p.202) Rooftop switch talk does not include her; named only as the teacher Kushida confirmed with.
 
+## y1v7
+
+<!-- walk: y1v7 → start -->
+
 ### y1v7 p.54–56 — Ch.3: the urgent summons
 [scene] (p.54) Fakes paperwork to wait for Ayanokōji, then walks him to the principal’s office with an unusually vulnerable face.
 [says:chabashira-sae] (p.55) “Ayanokouji.”
@@ -712,3 +716,80 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:ayanokouji-kiyotaka] (p.98) Left holding the classroom after her exit.
 
 <!-- walk: y1v7 ch4 → p.119 -->
+
+### y1v7 p.152, 156–165 — Ch.6 §6.1: the closing lecture and the private-point test
+[scene] (p.152) Closes the second semester with renovation warnings, then surprises the class with a rare praise; later meets Ayanokōji alone in the empty classroom.
+[says] (p.152) “Parts of the school will undergo renovations, so those areas will be off-limits. Also, all clubs will take the day off after the closing ceremony. Be sure to head back as soon as you can.”
+[says] (p.152) “I’m sure that many of you are already aware of this, but your promotion to Class C is almost guaranteed. Well done.”
+[says] (p.152) “However, don’t get sloppy. If you get in trouble over the break, it might affect your class points. Don’t forget, even during the holidays, you represent this school.”
+[says] (p.156) “What are you planning? Didn’t you wash your hands of me?”
+[says] (p.156) “I’ll wait in the classroom,”
+[says] (p.156) “If this is like previous years, it’ll probably snow,”
+[says] (p.156) “Do you like snow?”
+[says] (p.156) “I used to. Then I grew up and came to hate it.”
+[says] (p.156) “You said that you have something to discuss. What do you want with me?”
+[says] (p.157) “This school’s designed to make teachers, as well as students, compete with one another. It’s only natural that everyone wants to rise up the ranks.”
+[says] (p.157) “That’s different. It was personal. I have nothing to say to you,”
+[says] (p.157) “It seems that this is a waste of time. I’m going back to work.”
+[says] (p.157) “Is that what this is about? I thought you already wriggled free of my grasp, didn’t you?”
+[says] (p.157) “What are you talking about?”
+[says] (p.158) “I see your ulterior motive. You can’t resolve this situation on your own, but a teacher has powers you don’t, and I could help conceal your involvement. A perfect resolution, yes?”
+[says] (p.158) “Don’t get carried away, Ayanokouji. I have no intention of cooperating with you,”
+[says] (p.158) “The school doesn’t exactly look kindly on teachers intervening in problems between students.”
+[says] (p.158) “To think that a student would threaten a teacher. The tables have certainly turned.”
+[says] (p.158) “If refusing to help you with this means that we never make it to Class A, then so be it.”
+[says] (p.158) “What?”
+[says] (p.159) “What are you planning, Ayanokouji? How long do you intend to wait?”
+[says] (p.159) “Right now?”
+[says] (p.159) “Yes, I remember. You and Horikita together paid a hundred thousand points for that.”
+[says] (p.159) “That’s true. Sudou wasn’t expelled, was he?”
+[says] (p.160) “It’s not that easy to get private points. This year’s Class D has managed to accumulate a decent number, but that’s a departure from normal. Most years, Class D has about half that amount. Besides, not every student in the class gets along. At least not enough to use their private points to save a classmate, even if that means accepting a drop in class points,”
+[says] (p.160) “That might be true.”
+[says] (p.160) “Do you think it was too expensive?”
+[says] (p.160) “What are you trying to say, Ayanokouji?”
+[says] (p.160) “In other words, you’re asking whether the price I named you and Horikita was something that the school decided on in advance?”
+[says] (p.160) “It’s not like I can answer any question you ask of me,”
+[says] (p.161) “Think whatever you want.”
+[says] (p.161) “Speculate as you wish, but this is an odd conversation, given the circumstances. Karuizawa is—”
+[says] (p.161) “Enough. Do you think I can answer those questions? Even if I were able to, there’s no way you could confirm the truth.”
+[says] (p.161) “………”
+[says] (p.162) “Are you trying to find a gap in the rules?”
+[says] (p.162) “A few students are already doing just that, aren’t they? Look at Ichinose and Ryuuen, both accumulating private points.”
+[says] (p.162) “Understood. Very well, I’ll answer your question. It’s true that the key to beating the system lies in understanding the actual rules surrounding private point use. Students from previous years have approached the problem from various perspectives, as you’re doing now. Even Class D, the collection of ‘defective products’, is no exception. Some students have been quicker than others on the uptake, though. Additionally, the school has established thousands of detailed rules to cover every possible scenario. Buying and selling points, sweeping violent incidents under the rug, preventing expulsion —there’s a point value attached to every single one of those. However, teachers are very limited in what we’re allowed to reveal or allude to. In fact, we’re prohibited from revealing most of this information. There might even be rules the teachers aren’t aware of yet.”
+[says] (p.162) “So, you truly can’t answer my question?”
+[says] (p.162) “Correct.”
+[says] (p.162) “Does this conversation have anything to do with what’s happening now?”
+[says] (p.162) “Not at all. I was just having a friendly chat,”
+[says] (p.162–163) “I don’t fully understand what’s happening, but I do know that Karuizawa is suffering terribly at Class C’s hands. … you should call someone else,”
+[says] (p.163) “Are you insane? If you do, the entire school will know your identity.”
+[says] (p.163) “If you do this, you’ll be the talk of the school. You’ll destroy all possibility of leading a quiet life here.”
+[says] (p.163) “Perhaps I was mistaken,”
+[says] (p.163) “Mistaken?”
+[says] (p.163) “Chairman Sakayanagi told me about you before you enrolled. He said that you were an extremely special student. A superior one. And that you were a student we must protect. That you were raised in an environment that was far from loving. The chairman and I concluded, after much discussion, that we wanted you to feel attached to this school, and to want to stay here. Then I told you that your father wanted you expelled. It wasn’t true at the time, but it appears to be now,”
+[says] (p.163) “So, my mistake was in trying to use you so carelessly, hmm? I suppose I got carried away, chasing my pipe dream of Class D overtaking Class A.”
+[says] (p.164) “I suppose. You’ve already achieved what past classes haven’t. Do you really think Horikita can do that, though?”
+[says] (p.164) “Are you really planning to step back?”
+[says] (p.164) “Back to the topic at hand. You’re free to make your grand entrance and expose your identity. But will that really resolve the problem?”
+[says] (p.165) “Are you planning to have Horikita go to the rooftop in your place?”
+[says] (p.165) “What’s going on?”
+[says] (p.165) “Wait, Ayanokouji. What would you have done if Horikita didn’t agree to help?”
+[feat] (p.156–162) Confirms under pressure that private-point prices are pre-legislated and teachers can only disclose them when conditions are met — one mystery solved about the 100,000-per-test-point rate.
+[trait] (p.152–165) Rare public praise then private resignation; admits the chairman’s briefing and her own careless use of Ayanokōji; still refuses to intervene on the roof.
+[rel:ayanokouji-kiyotaka] (p.156–165) The student she once manipulated, now testing her and telling her he is stepping back.
+[rel:sakayanagi-arisu] (p.163) Chairman Sakayanagi’s pre-enrolment briefing is cited; the chairman is the father, not Arisu.
+[rel:horikita-suzune] (p.159–164) Named as co-payer of the Sudou point and as the one who will unite the class.
+[rel:horikita-manabu] (p.164–165) Shocked when the former president arrives as witness.
+[rel:karuizawa-kei] (p.161–163) The suffering student whose crisis drives the rooftop decision.
+[place:empty-classroom] (p.156–158) Private talk after dismissal.
+
+### y1v7 p.191–192 — Ch.6: waiting below with the former president
+[scene] (p.191) Named as one of the two people a few steps down the stairs who know the circumstances and can handle the soaked uniform.
+[note] (p.191) Ayanokōji’s line to Karuizawa: the former student council president and Chabashira-sensei are waiting below.
+[note] (p.192) Called aside as the only teacher-adjacent presence on the roof; “Chabashira-sensei aside, it’d be bad if another teacher found them.”
+[trait] (p.191–192) The trusted adult who knows enough to clean up without being told the full story.
+[rel:ayanokouji-kiyotaka] (p.191–192) The student who briefed her enough to wait on the stairs.
+[rel:horikita-manabu] (p.191–192) The other waiter below.
+[rel:karuizawa-kei] (p.191) The soaked uniform is hers to handle.
+
+
+<!-- walk: y1v7 ch6 → p.196 -->

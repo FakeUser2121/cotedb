@@ -2606,3 +2606,27 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ryuuen-kakeru] (p.120) The name he still treats as Class D’s public shield.
 
 <!-- walk: y1v7 ch5 → p.151 -->
+
+### y1v7 p.154, 159–160, 163–164, 170, 174 — Ch.6: named, never on the roof
+[scene] (p.154) Named in the group’s playboy tally; later cited in the private-point talk and on the roof as Class D’s other secret-holder.
+[note] (p.154) Keisei’s line: “First Horikita, now Satou?”
+[note] (p.159) Chabashira recalls that Ayanokōji and Horikita together paid a hundred thousand points for Sudou.
+[note] (p.160) The price named to “you and Horikita” is the school-decided rate Ayanokōji is testing.
+[note] (p.163) Ayanokōji tells Chabashira that Horikita will unite the class.
+[note] (p.164) Chabashira sees Horikita only as a means to manipulate him; he answers that she is more than capable of leading Class D and is starting to mature.
+[note] (p.170) Ryuuen: Ayanokōji has always clung to Horikita, reputed exceptional; using her was the only method available.
+[note] (p.174) On the roof: only Horikita and Karuizawa from Class D know who X is.
+[trait] (p.154–174) Absent in person, present as the name everyone builds their theories on.
+[rel:ayanokouji-kiyotaka] (p.154–174) The partner in the old point purchase and the cover he keeps using.
+[rel:chabashira-sae] (p.159–164) Co-payer of Sudou’s point; the future class leader the teacher doubts.
+[rel:ryuuen-kakeru] (p.170, 174) The Class D name he treats as Ayanokōji’s shadow.
+[rel:yukimura-teruhiko] (p.154) First entry in the playboy tally.
+
+### y1v7 p.182 — Ch.6: the island fight as a measuring stick
+[scene] (p.182) Named only in the comparison that sizes Ibuki’s kicks.
+[note] (p.182) “Even if Horikita had been in the pink of health during their fight on the island, Ibuki would’ve beaten her.”
+[rel:ibuki-mio] (p.182) The opponent the page says would still win.
+[rel:ayanokouji-kiyotaka] (p.182) The narrator’s comparison, not her presence.
+
+
+<!-- walk: y1v7 ch6 → p.196 -->

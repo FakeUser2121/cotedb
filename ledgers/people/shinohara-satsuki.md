@@ -118,3 +118,15 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.121) No further action shown for her on these pages.
 
 <!-- walk: y1v5 ch6 → p.143 -->
+
+## y1v7
+
+<!-- walk: y1v7 → start -->
+
+### y1v7 p.154 — Ch.6: the suspicious group
+[scene] (p.154) Rejoins Satou after the date acceptance; her group eyes Ayanokōji suspiciously before leaving.
+[note] (p.154) Named only as the girl Satou goes back to; the group’s looks are the page’s whole role.
+[rel:satou-maya] (p.154) The friend who just scored a date.
+[rel:ayanokouji-kiyotaka] (p.154) The boy they eye with suspicion.
+
+<!-- walk: y1v7 ch6 → p.196 -->

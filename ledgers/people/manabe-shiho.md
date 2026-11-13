@@ -265,3 +265,19 @@ char_id: manabe-shiho · class: Class 1-C · status: minor
 [rel:morofuji-rika] (p.147) The friend she meant to avenge.
 
 <!-- walk: y1v7 ch5 → p.151 -->
+
+### y1v7 p.152, 170 — Ch.6: the name that resurfaces the list
+[scene] (p.152) Named in Karuizawa’s emergency text as the reason for the rooftop meeting.
+[note] (p.152) The text says Ryuuen’s request has something to do with Manabe and her friends.
+[note] (p.170) Ryuuen: after he learned about the Manabe incident, certain candidates resurfaced as primary suspects.
+[rel:karuizawa-kei] (p.152) The old enemy whose name forces her to the roof.
+[rel:ryuuen-kakeru] (p.170) The Class C leader whose investigation starts with her crime.
+
+### y1v7 p.190 — Ch.6: the past that stays buried
+[scene] (p.190) Named in Ayanokōji’s comfort speech as the bully whose record will not be dug up again.
+[note] (p.190) “your curse has been lifted. Manabe…no, no one will dig up your past again.”
+[rel:karuizawa-kei] (p.190) The victim whose curse is declared lifted.
+[rel:ayanokouji-kiyotaka] (p.181, 190) The lever he used in the sports festival and the threat he now retires.
+
+
+<!-- walk: y1v7 ch6 → p.196 -->

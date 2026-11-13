@@ -460,3 +460,19 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [trait] (p.101, 106) Calm arithmetic under pressure; trusts the division of labour.
 
 <!-- walk: y1v7 ch4 → p.119 -->
+
+### y1v7 p.153, 156 — Ch.6: Keisei’s mall plan and the punishment game
+[scene] (p.153) Invites Ayanokōji to Keyaki Mall with the group after dismissal.
+[says] (p.153) “Hey, we were talking about going over to Keyaki Mall. What do you think? Want to come?”
+[says] (p.153) “We’ll wait in the hall.”
+[says] (p.154) “You’re such a playboy, Kiyotaka. First Horikita, now Satou?”
+[note] (p.154) Sounds kind of angry when he says it.
+[says] (p.156) “Of course we are. So Yukimuu can have his revenge.”
+[says] (p.156) “We’re not going to play that punishment game again, are we?”
+[note] (p.156) Nicknamed Yukimuu in the group’s banter about karaoke revenge.
+[trait] (p.153–156) Practical about plans; teases Ayanokōji as a playboy while pressing the group to decide where to go.
+[rel:ayanokouji-kiyotaka] (p.153–156) Invites him out and needles him about Satou.
+[rel:satou-maya] (p.154) Names her as the latest girl attached to Ayanokōji.
+[rel:horikita-suzune] (p.154) The first name in the playboy tally.
+
+<!-- walk: y1v7 ch6 → p.196 -->
