@@ -59,3 +59,16 @@ char_id: komiya-kyogo · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:ayanokouji-kiyotaka] (p.17–18, 28) Target of the watch; uses the bathroom ruse to break the line of sight.
 
 <!-- walk: y1v7 ch2 → p.31 -->
+
+### y1v7 p.50–51 — Ch.3: still at the mall
+[scene] (p.50) Named by Miyake as present both yesterday and today at Keyaki Mall.
+[note] (p.50) Class C student around late afternoons when Miyake finishes club.
+[note] (p.51) Haruka spat “Gross” looking at him; the group agrees not to react.
+[rel:miyake-akito] (p.50) The observer who names the pattern.
+[rel:hasebe-haruka] (p.51) Disgust without disguise.
+[rel:ryuuen-kakeru] (p.50) His man on the mall watch.
+
+### y1v7 — Ch.3 half2
+[note] (pp.65–97) Not named in the second half of this chapter.
+
+<!-- walk: y1v7 ch3 → p.97 -->

@@ -150,3 +150,42 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [note] (p.31) Blank scan (footer only).
 
 <!-- walk: y1v7 ch2 → p.31 -->
+
+### y1v7 p.33, 36, 47–53 — Ch.3: club-skip and the Komiya read
+[scene] (p.47) Skips archery to meet the group; first to clock Komiya’s return to Keyaki Mall.
+[says:miyake-akito] (p.47) “I’m skipping today.”
+[says:miyake-akito] (p.47) “Looks like those Class C dudes showed up at archery again. It doesn’t seem like they threw punches or got into any fights, though.”
+[says:miyake-akito] (p.48) “I told the seniors I felt distracted, so I was going to take today off. The club’s pretty lenient,”
+[says:miyake-akito] (p.48) “There’s nothing the teacher can really do. If Class C trespassed in our private places, that’d be one thing, but they’re free to observe the archery club,”
+[says:miyake-akito] (p.49) “So, you’ve been marked too, Ayanokouji. Does that Ryuuen dude hate the thought of losing to Class D that much?”
+[says:miyake-akito] (p.50) “Are you all right, Keisei?”
+[says:miyake-akito] (p.50) “I usually finish up with club stuff and meet you guys kind of late, right?”
+[says:miyake-akito] (p.50) “There’re usually an awful lot of Class C students around, considering the time. When I met up with you guys the other day at Keyaki Mall, Komiya was there. He’s here today, too,”
+[says:miyake-akito] (p.50) “Don’t. We don’t know what they’re after. It’s better not to react,”
+[says:miyake-akito] (p.51) “We don’t know whether or not that person exists,”
+[says:miyake-akito] (p.51) “Ryuuen spews lies as easily as breathing.”
+[says:miyake-akito] (p.51) “That’s assuming that there’s any rhyme or reason to Ryuuen’s thinking,”
+[says:miyake-akito] (p.52) “Absolutely not,”
+[says:miyake-akito] (p.52) “He’s nuts.”
+[says:miyake-akito] (p.53) “What a drag. Hey, if they give you trouble, feel free to talk to us about it,”
+[rel:komiya-kyogo] (p.50–51) The tail he names twice — yesterday and today at the mall.
+[rel:ryuuen-kakeru] (p.49, 51) Reads the surveillance as Ryuuen’s hate of losing to Class D.
+[rel:ayanokouji-kiyotaka] (p.49–53) Marks him too; offers a shoulder; joins the mastermind vote against Kouenji.
+[rel:kouenji-rokusuke] (p.52) “He’s nuts.” — island retirement kills the candidate.
+[rel:hasebe-haruka] (p.47–50) Club-skip partner; stops her from staring at Komiya.
+[rel:yukimura-teruhiko] (p.50–52) Defends against the mastermind theory with him.
+[trait] (p.33, 47–53) Blunt about club policy; sharpest observer in the group; keeps the table from reacting to the tail.
+
+### y1v7 p.90–95 — Ch.3: club check, cold preference, Ichinose counter
+[scene] (p.90) Sunday starts with his club; ends the day as the only group member who likes the cold and the one who walks back the rotten-Ichinose hope.
+[says:miyake-akito] (p.91) “Hey, I saved you from the last one. It was seriously spicy,” said Akito. He’d ended that particular hot streak.
+[says:miyake-akito] (p.94) “I don’t handle it well, either.”
+[says:miyake-akito] (p.94) “Well, a little chilliness is good for me. It means I don’t sweat during club, which makes practicing easy,” said Akito, making him the only member of the group to prefer the cold.
+[says:miyake-akito] (p.95) “You have a point. She’s so flawless it’s almost creepy. Saying you hope she’s rotten inside is going a bit too far, though,” said Akito.
+[rel:hasebe-haruka] (p.91, 94–95) Spicy rescue; counters her Ichinose take.
+[rel:sakura-airi] (p.91, 94–95) Karaoke and walk partner.
+[rel:yukimura-teruhiko] (p.90–91) The takoyaki streak he helps end.
+[rel:ichinose-honami] (p.95) Named in the perfection debate without meeting her.
+[trait] (p.90–95) Practical about cold and club; the group’s brake on vicious gossip.
+
+<!-- walk: y1v7 ch3 → p.97 -->

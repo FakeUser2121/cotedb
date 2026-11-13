@@ -135,3 +135,13 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 [back] (p.180) On the day he met Horikita, she was talking to Hoshinomiya-sensei, Class B's homeroom teacher, about student council business.
 
 <!-- walk: y1v4.5 ch6 → p.204 -->
+
+## y1v7
+
+<!-- walk: y1v7 → start -->
+
+### y1v7 p.73 — Ch.3: the old teasing, cited
+[note] (p.73) Old friend of Chabashira; her comment about wanting to “be dominated by a younger man” is Ayanokōji’s key to the teacher’s Class A hunger.
+[rel:chabashira-sae] (p.73) The friend who knew the hidden desire first.
+
+<!-- walk: y1v7 ch3 → p.97 -->

@@ -793,3 +793,23 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [note] (p.206) Ryuuen denies sending the letter accusing Ichinose of fraud.
 
 <!-- walk: y1v6 ch7 → p.209 -->
+
+## y1v7
+
+<!-- walk: y1v7 → start -->
+
+### y1v7 p.94–96 — Ch.3: walking with Class A
+[scene] (p.94) Spots Ayanokōji’s group on the dorm path with Sakayanagi; waves, chats exam margins, then leaves graciously.
+[says:ichinose-honami] (p.94) “It’s unusual to see you in this group, Ayanokouji-kun,” Ichinose said.
+[says:ichinose-honami] (p.94) “Well, based on what I’ve seen, you’re with Horikita-san a lot of the time. This is different,” said Ichinose, taking a long look at our group’s members. “That reminds me. I heard that you won against Class C in the exam. Congrats! We lost to Class A, unfortunately.”
+[says:ichinose-honami] (p.95) “Wow! Class B’s going to have to be really careful, or we might get overtaken ourselves!” said Ichinose.
+[says:ichinose-honami] (p.95) “Ah, sorry. Guess we’re bothering you guys. See you later,” said Ichinose graciously.
+[rel:sakayanagi-arisu] (p.94–95) Out together on a day off — the unusual Class A/B leader pair.
+[rel:ayanokouji-kiyotaka] (p.94) Greets him; notes he is usually with Horikita.
+[rel:yukimura-teruhiko] (p.95) Present for the margin talk; later called flawless-adjacent by Airi.
+[rel:hasebe-haruka] (p.95–96) The unease about perfection without flaws is about her.
+[rel:sakura-airi] (p.95–96) Worries that Ichinose might really be bad; wants the kindness real.
+[rel:ryuuen-kakeru] (p.96) Off-page contrast — awful draws no sympathy, Ichinose would be hard to crush.
+[trait] (p.94–96) Makes friends with anyone; exits without forcing small talk; the moral weight the group fears having to crush.
+
+<!-- walk: y1v7 ch3 → p.97 -->

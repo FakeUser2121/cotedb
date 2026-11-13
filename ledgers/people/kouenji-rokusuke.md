@@ -321,3 +321,17 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [note] (p.137) No scene presence; named only.
 
 <!-- walk: y1v6 ch6 → p.176 -->
+
+### y1v7 p.51–52 — Ch.3: candidate, then cleared
+[scene] (p.51) Proposed as the Class D mastermind because he is brilliant, athletic and perfect — then ruled out.
+[note] (p.51) Haruka: maybe the personality is a front for a cold schemer.
+[note] (p.52) Keisei: retired on day one of the island test; could not have known their situation; everyone shakes their heads.
+[rel:hasebe-haruka] (p.51) Primary proposer.
+[rel:yukimura-teruhiko] (p.52) Primary demolisher of the theory.
+[rel:miyake-akito] (p.52) “He’s nuts.”
+
+### y1v7 p.73 — Ch.3: hope list
+[note] (p.73) On Chabashira’s four-student hope list — one of the reasons she still burns for Class A.
+[rel:chabashira-sae] (p.73) Named student in her concealed desire.
+
+<!-- walk: y1v7 ch3 → p.97 -->

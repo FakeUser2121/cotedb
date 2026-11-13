@@ -88,3 +88,14 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [rel:ryuuen-kakeru] (p.18) Sent by Ryuuen with Komiya.
 
 <!-- walk: y1v7 ch2 → p.31 -->
+
+### y1v7 p.49 — Ch.3: archery pattern named
+[scene] (p.49) Named in Ayanokōji’s cover story as the earlier archery-club tail pattern beside Shiina’s lunch.
+[note] (p.49) Cited to make the cover story about Shiina scoping him out credible to the group.
+[rel:shiina-hiyori] (p.49) Parallel Class C observation routes.
+[rel:miyake-akito] (p.49) The club-side half of the pattern.
+
+### y1v7 — Ch.3 half2
+[note] (pp.65–97) Not named in the second half of this chapter.
+
+<!-- walk: y1v7 ch3 → p.97 -->

@@ -733,3 +733,16 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:miyake-akito] (p.26) His foil for keeping club and crushes private.
 
 <!-- walk: y1v7 ch2 → p.31 -->
+
+### y1v7 p.33 — Ch.3: casual chat after the report
+[scene] (p.33) Named in the classroom circle Sudou rejoins after finishing with Horikita.
+[note] (p.33) Conversation with Sudou and Yamauchi; no dialogue of his own.
+[rel:sudou-ken] (p.33) Chat partner after the tail report.
+[rel:yamauchi-haruki] (p.33) Same trio.
+
+### y1v7 p.69 — Ch.3: admission example
+[note] (p.69) Named with Sudou as a poor student who still passed — the exam as convenient smokescreen.
+[rel:sudou-ken] (p.69) Paired example.
+[rel:ayanokouji-kiyotaka] (p.69) The contrast case (perfect fifty on purpose).
+
+<!-- walk: y1v7 ch3 → p.97 -->

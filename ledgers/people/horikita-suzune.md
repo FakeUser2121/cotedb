@@ -2527,3 +2527,39 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:kushida-kikyou] (p.23) Her betrayal is one of the facts he withholds while crediting Horikita.
 
 <!-- walk: y1v7 ch2 → p.31 -->
+
+### y1v7 p.32–38, 47, 54 — Ch.3: the decoy and the borrowed book
+[scene] (p.32) Cornered by Sudou at her desk; later names Ayanokōji as the mastermind target and loans him a library book.
+[says:horikita-suzune] (p.32) “You haven’t shouted insults or taken swings at them, have you?”
+[says:horikita-suzune] (p.33) “Who knows? I can’t say at this point. But I’ll consider countermeasures, just in case. If they happen to approach you again, make sure you don’t get physical,”
+[says:horikita-suzune] (p.34) “He’s looking for the person controlling Class D from behind the scenes.”
+[says:horikita-suzune] (p.34) “You can’t use me to hide from Ryuuen anymore.”
+[says:horikita-suzune] (p.35) “That’s how I predicted that he’d use Kushida-san during the Paper Shuffle. Of course, it goes without saying that I would’ve preferred that not happen, but…”
+[says:horikita-suzune] (p.36) “Do you have a strategy to counter Ryuuen-kun’s hunt to expose you?”
+[says:horikita-suzune] (p.36) “Will you cooperate with me?”
+[says:horikita-suzune] (p.37) “Didn’t you say last week that you wanted to read this?”
+[says:horikita-suzune] (p.38) “Thank you.”
+[says:horikita-suzune] (p.47) “That grin’s really creeping me out.”
+[says:horikita-suzune] (p.47) “You’ve found a cozy little nook, haven’t you?”
+[rel:sudou-ken] (p.32–33) Accepts his report; praises the ignore-first follow-through.
+[rel:ayanokouji-kiyotaka] (p.34–38) Names him the real target; accepts the decoy fate; lends Farewell, My Lovely with an overdue threat.
+[rel:ryuuen-kakeru] (p.34–36) Reads his shift away from her as lost interest, not caution alone.
+[rel:kushida-kikyou] (p.35) Predicted the Paper Shuffle use of her; hates that it happened.
+[rel:hasebe-haruka] (p.36) Calls the study clique no longer necessary post-exam.
+[rel:miyake-akito] (p.36) Same clique judgement.
+[rel:hasebe-haruka] (p.47) Reads Ayanokōji’s grin as a new cozy nook and storms off alone.
+[rel:satou-maya] (p.54) Leaves the classroom without caring about the tea approach.
+[trait] (p.32–54) Communicates better with Sudou than before; accepts the decoy role as fate; perceptive about Ayanokōji’s private joys; still revolving around Class A.
+[note] (p.58) Blank scan (footer only).
+
+### y1v7 p.73, 88, 94 — Ch.3: named, not present
+[scene] (p.73) Appears only as the hope list in Chabashira’s unmasking and as Manabu’s bridge leverage.
+[note] (p.73) With Kouenji, Hirata, Kushida — the students who gave Chabashira reason to want Class A again.
+[note] (p.88) Manabu: “use Suzune as you’ve done in the past” — the student-council bridge runs through her.
+[note] (p.94) Named by Ichinose as who Ayanokōji is usually with.
+[rel:chabashira-sae] (p.73) One of the four who re-lit the teacher’s ambition.
+[rel:horikita-manabu] (p.88) His chosen proxy for any student-council play.
+[rel:ichinose-honami] (p.94) The comparison point for Ayanokōji’s group presence.
+[rel:ayanokouji-kiyotaka] (p.73–94) Still the official strategist shadow even as he retires from the ticket.
+
+<!-- walk: y1v7 ch3 → p.97 -->

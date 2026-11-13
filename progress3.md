@@ -1534,3 +1534,12 @@ people ledgers gain y1v7 blocks. Two quote defects were fixed before ship —
 a cross-page line split on the footer page-number break, and a row that
 fused two separate quotation pairs. Determinism hash across consecutive
 builds: `44a56308272f08048317f4c56da39672`.
+
+Year 1 Volume 7 chapter 3 spans sixty-six pages in two halves: the
+library lunch and mastermind board, the father’s drop-out demand and the
+butler’s suicide leverage, Chairman Sakayanagi’s admission revelations,
+Chabashira’s unmasking, the final call cutting Karuizawa, Manabu’s
+Nagumo warning, and a Sunday karaoke that ends with Ichinose and
+Sakayanagi walking past. Three new people ledgers open for Atsuomi, Matsuo
+and the full-name roster row. Determinism hash across consecutive builds:
+`98a820dae80bbdfcae620c91c34e90f6`.

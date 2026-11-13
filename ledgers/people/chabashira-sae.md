@@ -666,3 +666,42 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [note] (p.192) Invigilator for the final: places papers and forbids turning over early.
 [note] (p.193) Exam opens under her signal; average-students analysis follows.
 [note] (p.202) Rooftop switch talk does not include her; named only as the teacher Kushida confirmed with.
+
+### y1v7 p.54–56 — Ch.3: the urgent summons
+[scene] (p.54) Fakes paperwork to wait for Ayanokōji, then walks him to the principal’s office with an unusually vulnerable face.
+[says:chabashira-sae] (p.55) “Ayanokouji.”
+[says:chabashira-sae] (p.55) “Yes. Follow me. We need to talk.”
+[says:chabashira-sae] (p.55) “As a teacher, I don’t want to be careless. But circumstances being what they are, this is necessary.”
+[says:chabashira-sae] (p.55) “Unfortunately, you can’t refuse. This is extremely urgent,”
+[says:chabashira-sae] (p.55) “You’ll understand soon.”
+[says:chabashira-sae] (p.55) “Principal, I’ve brought Ayanokouji Kiyotaka-kun.”
+[rel:ayanokouji-kiyotaka] (p.54–56) Summons him under a Horikita-meeting lie; her nervousness is what worries him most.
+[rel:ayanokouji-atsuomi] (p.55–56) Introduces him at the door; bows out with the principal.
+[trait] (p.54–56) Normally inhumanly composed; here visibly flustered; does not explain before the door opens.
+
+### y1v7 p.70–76 — Ch.3: unmasked on the walk back
+[scene] (p.70) Waits outside the office, walks him down the hall, and loses every lie in one exchange.
+[says:chabashira-sae] (p.70) “How did it go with your father?”
+[says:chabashira-sae] (p.70) “You understand what, exactly?”
+[says:chabashira-sae] (p.70) “What are you talking about?”
+[says:chabashira-sae] (p.71) “Umm…no. Your father wanted my cooperation. I’ve been trying to get you expelled.”
+[says:chabashira-sae] (p.71) “The chairman told you?”
+[says:chabashira-sae] (p.71) “Ayanokouji, did you trick me?”
+[says:chabashira-sae] (p.73) “That’s just speculation, Ayanokouji.”
+[says:chabashira-sae] (p.74) “I see,” she said. “Your abilities certainly aren’t those of an ordinary first-year high school student. ‘Wise beyond your years’—isn’t that how the saying goes? I guess that describes you pretty well.”
+[says:chabashira-sae] (p.74) “You’re right,” she continued. The composure she’d so struggled to maintain had collapsed. “I never met your father before today. But I really could have you expelled if I wanted to. I could claim you committed a serious violation of the rules. Expulsion is the one thing you absolutely want to avoid, no?”
+[says:chabashira-sae] (p.75) “Exactly.”
+[says:chabashira-sae] (p.75) “May I ask why you’re so certain?”
+[says:chabashira-sae] (p.75) “So even though you know everything now, you’re still done trying to reach Class A?” she asked.
+[says:chabashira-sae] (p.75) “And if I keep after you? What then?”
+[says:chabashira-sae] (p.75) “Allow me to rephrase the question. Are you so certain that I won’t take you down with me when I do lose hope?”
+[rel:ayanokouji-kiyotaka] (p.70–76) The bluff about the chairman, the exposed Class A obsession, the empty expulsion threat, the retreat.
+[rel:ayanokouji-atsuomi] (p.71) Admits she never met him before today — the contact was a lie.
+[rel:hoshinomiya-chie] (p.73) Old friend whose teasing about “be dominated by a younger man” read as Chabashira’s Class A hunger.
+[rel:horikita-suzune] (p.73) Named with Kouenji, Hirata, Kushida as the hopeful students who re-lit her ambition.
+[rel:kouenji-rokusuke] (p.73) Same hope list.
+[rel:hirata-yousuke] (p.73) Same hope list.
+[rel:kushida-kikyou] (p.73) Same hope list.
+[trait] (p.70–76) Normally composed collapses under one reverse bluff; still threatens expulsion; ends out of ammo but not out of ambition.
+
+<!-- walk: y1v7 ch3 → p.97 -->

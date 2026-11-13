@@ -569,3 +569,14 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 ### y1v6 p.193 — Ch.7: a passing mention in the exam baseline
 [scene] (p.193) Named in the average-students difficulty analysis during the first subject.
 [note] (p.193) Satou expected to outscore Ike or Yamauchi; he is the weaker study-session case.
+
+### y1v7 p.33 — Ch.3: casual chat after the report
+[scene] (p.33) Named in the classroom circle with Sudou and Ike after the Class C report.
+[note] (p.33) No dialogue of his own on this page.
+[rel:sudou-ken] (p.33) Chat partner after the tail report.
+[rel:ike-kanji] (p.33) Same trio.
+
+### y1v7 — Ch.3 half2
+[note] (pp.65–97) Not named in the second half of this chapter.
+
+<!-- walk: y1v7 ch3 → p.97 -->

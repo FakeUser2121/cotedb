@@ -231,3 +231,15 @@ char_id: manabe-shiho · class: Class 1-C · status: minor
 [note] (p.200) Ayanokōji reads the photograph as Manabe’s circle having talked.
 
 <!-- walk: y1v6 ch7 → p.209 -->
+
+## y1v7
+
+<!-- walk: y1v7 → start -->
+
+### y1v7 p.79, 82 — Ch.3: the old bullying, named
+[note] (p.79) Asked about in the Karuizawa call — “Did Manabe and her friends contact you?”
+[note] (p.82) The bullying Ayanokōji once intervened in; without it they would never have spoken.
+[rel:karuizawa-kei] (p.79–82) The victim of the old pack.
+[rel:ayanokouji-kiyotaka] (p.82) The intervention that created the pipeline.
+
+<!-- walk: y1v7 ch3 → p.97 -->

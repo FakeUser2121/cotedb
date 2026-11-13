@@ -481,3 +481,15 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.187) Named only in Chabashira’s comparison.
 
 <!-- walk: y1v6 ch7 → p.209 -->
+
+## y1v7
+
+<!-- walk: y1v7 → start -->
+
+### y1v7 p.87 — Ch.3: refused council applicant
+[note] (p.87) Talented first-year Manabu refused to admit to the student council so Nagumo could not snatch him.
+[rel:horikita-manabu] (p.87) The refuser protecting him.
+[rel:nagumo-miyabi] (p.87) The threat he was protected from.
+[rel:ichinose-honami] (p.87) The paired applicant.
+
+<!-- walk: y1v7 ch3 → p.97 -->

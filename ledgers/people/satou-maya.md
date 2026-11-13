@@ -118,3 +118,20 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [note] (p.26) Karuizawa does not want Ayanokōji telling Satou anything if they date.
 [note] (p.27) Phone topic: what will he do about Satou-san after exchanging contacts.
 [note] (p.162) Airi asks whether he went somewhere with Satou-san alone before partnering.
+
+### y1v7 p.54 — Ch.3: the declined tea
+[scene] (p.54) Approaches Ayanokōji after class with a hair-twirl invitation and leaves slightly anxious when he refuses.
+[says:satou-maya] (p.54) “Hey, Ayanokouji-kun. Are you free today? If so, would you like to have some tea or something before going back to the dorms?”
+[says:satou-maya] (p.54) “Is this a bad time?”
+[says:satou-maya] (p.54) “I-I see.”
+[says:satou-maya] (p.54) “Well, talk to you later, Ayanokouji-kun.”
+[rel:ayanokouji-kiyotaka] (p.54) Turns her down for timing, not disinterest; he feels bad making her sad.
+[rel:horikita-suzune] (p.54) Leaves the classroom unconcerned beside them.
+[rel:chabashira-sae] (p.54) The real reason the slot is bad — Chabashira is waiting in the room.
+[rel:hasebe-haruka] (p.54) Deeply interested onlooker from the Ayanokouji Group.
+[trait] (p.54) Bold enough to ask in front of the group; anxious when the answer is no; keeps the exit polite.
+
+### y1v7 — Ch.3 half2
+[note] (pp.65–97) Not named in the second half of this chapter.
+
+<!-- walk: y1v7 ch3 → p.97 -->

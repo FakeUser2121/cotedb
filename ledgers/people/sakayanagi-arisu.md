@@ -181,3 +181,14 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:ayanokouji-kiyotaka] (p.29–30) Her target; he turns the tail into a non-aggression bargain without reporting.
 
 <!-- walk: y1v7 ch2 → p.31 -->
+
+### y1v7 p.94–95 — Ch.3: the walk past
+[scene] (p.94) Leaves the mall path with Ichinose; gives Ayanokōji’s group a cursory glance and never speaks to him.
+[says:sakayanagi-arisu] (p.94) “Oh, no, no. The pleasure’s mine.”
+[says:sakayanagi-arisu] (p.95) “Only by a slim margin. Two points. I think we were just about evenly matched,” said Sakayanagi. The battle had been close, and it seemed Class B was just barely lagging behind Class A by the end. “With this win under your belt, Class D might actually become Class C next semester, right?”
+[rel:ichinose-honami] (p.94–95) The day-off pair; rivals who walk together.
+[rel:ayanokouji-kiyotaka] (p.94–95) No eye contact despite the earlier war declaration; notes the stillness since the sports festival.
+[rel:yukimura-teruhiko] (p.95) His Class A vow gets her closed-eye chuckle.
+[trait] (p.94–95) Cursory, correct, untouchable; war declared and then nothing — the pattern Ayanokōji files.
+
+<!-- walk: y1v7 ch3 → p.97 -->

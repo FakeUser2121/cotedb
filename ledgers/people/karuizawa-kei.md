@@ -777,3 +777,27 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:ayanokouji-kiyotaka] (p.18) He watches the surveillance tighten around her as well as him.
 
 <!-- walk: y1v7 ch2 → p.31 -->
+
+### y1v7 p.79–83 — Ch.3: the last call
+[scene] (p.79) Answered a night call from the path; told the mastermind is done with her; left scrambling as he deletes the thread.
+[says:karuizawa-kei] (p.79) “Hello?”
+[says:karuizawa-kei] (p.79) “You’re joking, right? You wouldn’t call without a reason,”
+[says:karuizawa-kei] (p.80) “You’re still outside,” said Karuizawa. She probably heard the wind over the phone.
+[says:karuizawa-kei] (p.80) “Even I feel like heading back early sometimes.”
+[says:karuizawa-kei] (p.81) “I kind of feel like that’s a waste,” she replied.
+[says:karuizawa-kei] (p.82) “Huh?” Her response was delayed. Maybe she hadn’t heard me?
+[says:karuizawa-kei] (p.82) “Yeah. I guess. I suppose you’re right,” replied Karuizawa, though it sounded like she was struggling with the words.
+[says:karuizawa-kei] (p.82) “W-wait a minute. Why are you doing this?”
+[says:karuizawa-kei] (p.82) “It’s just…very cold.”
+[says:karuizawa-kei] (p.82) “Well, yes, but…”
+[says:karuizawa-kei] (p.82) “I understand.” She sounded unenthusiastic, but any response was good.
+[says:karuizawa-kei] (p.82) “So, this is the last time I can talk to you like this, Kiyotaka?”
+[says:karuizawa-kei] (p.82) “Of course not.”
+[says:karuizawa-kei] (p.83) “I guess I’ll hang up then…” Even over the phone, I could tell Karuizawa was in the grip of some strong emotion.
+[rel:ayanokouji-kiyotaka] (p.79–83) Cut off from the mastermind pipeline; promised emergency-only contact; left to crumble if Ryuuen finds her.
+[rel:ryuuen-kakeru] (p.79, 83) Named as the hunter she must not lead to him.
+[rel:manabe-shiho] (p.79, 82) Past bullying context for why they ever spoke.
+[rel:kushida-kikyou] (p.81) Paper Shuffle help cited in his goodbye.
+[trait] (p.79–83) Sharp enough to refuse small talk; stumbles through the cut-off; the “parasite” peace of mind is his read, not hers.
+
+<!-- walk: y1v7 ch3 → p.97 -->

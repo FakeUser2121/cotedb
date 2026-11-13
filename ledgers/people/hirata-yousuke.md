@@ -1056,3 +1056,21 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:karuizawa-kei] (p.25) The couple the group treats as Class D’s sole pairing.
 
 <!-- walk: y1v7 ch2 → p.31 -->
+
+### y1v7 p.52 — Ch.3: second mastermind candidate
+[scene] (p.52) Named by Keisei as a possible mastermind because of island advice from Horikita.
+[note] (p.52) Akito: doesn’t see him as the type, but not impossible; bound to be on Ryuuen’s list.
+[rel:yukimura-teruhiko] (p.52) Proposes him after Kouenji falls.
+[rel:horikita-suzune] (p.52) The island advice link.
+[rel:ryuuen-kakeru] (p.52) Expected to be one of about ten eyes.
+
+### y1v7 p.69, 73, 81 — Ch.3: named in three lists
+[note] (p.69) With Sudou and Ike as students whose troubled pasts still passed admission — the fifty-point smokescreen example.
+[note] (p.73) On Chabashira’s hope list with Horikita, Kouenji, Kushida.
+[note] (p.81) Named with Horikita as who Ayanokōji will leave Class D to.
+[rel:ayanokouji-kiyotaka] (p.81) Designated successor for class management.
+[rel:chabashira-sae] (p.73) Part of the reason she still wants Class A.
+[rel:sudou-ken] (p.69) Paired as the admission-example pair.
+[rel:ike-kanji] (p.69) Same pair.
+
+<!-- walk: y1v7 ch3 → p.97 -->

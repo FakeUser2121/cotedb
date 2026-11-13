@@ -295,3 +295,31 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [rel:horikita-suzune] (p.122) After retiring as president he still held great authority; Kushida would honour the arrangement until he graduated.
 [note] (p.122) No further dialogue on these pages.
 <!-- walk: y1v6 ch5 → p.131 -->
+
+## y1v7
+
+<!-- walk: y1v7 → start -->
+
+### y1v7 p.86–89 — Ch.3: the bridge offer
+[scene] (p.86) Buzzer at the first-year dorm; former student council president stands in the doorway with no tea taken and a warning about Nagumo.
+[says:horikita-manabu] (p.86) “I’d like a moment of your time. Or should I come back later?”
+[says:horikita-manabu] (p.87) “The second semester ends next week. My time at this school is running out.”
+[says:horikita-manabu] (p.87) “There’s something I wanted to tell you before I leave. About Nagumo Miyabi.”
+[says:horikita-manabu] (p.87) “I didn’t intend to discuss this with anyone. However, circumstances have changed. I’ve adhered to this school’s traditions because I believe in its system and rules. Nagumo wants to uproot those foundations. Most likely, an unprecedented number of students will be expelled next year.”
+[says:horikita-manabu] (p.87) “You might say that.” Horikita’s brother made no attempt to deny it. “I made one mistake after joining the student council. I failed in training my successor. Nagumo was the only one I believed had potential, but his ideologies differed from mine. Now, he’s managed to bring almost all the other second-year students under his sway.”
+[says:horikita-manabu] (p.87) “He’s already won over the entire school.”
+[says:horikita-manabu] (p.88) “Why are you giving me all this insider information?”
+[says:horikita-manabu] (p.88) “If you don’t want to draw attention to yourself, use Suzune as you’ve done in the past. It’ll be fine. I’ll be the bridge between you and the student council,” he told me.
+[says:horikita-manabu] (p.88) “You might be right.” He must’ve known he couldn’t cajole me into helping him, but perhaps the elder Horikita was so desperate he’d swallowed his pride and come here. “Forgive me for bothering you.”
+[says:horikita-manabu] (p.88) “What?”
+[says:horikita-manabu] (p.88) “So, you’ll consider it?”
+[says:horikita-manabu] (p.89) “I expect nothing, but I’ll be waiting.”
+[rel:ayanokouji-kiyotaka] (p.86–89) Private first-year room visit; leaves without tea after the number is handed over.
+[rel:horikita-suzune] (p.88) “Use Suzune” — the bridge runs through her.
+[rel:nagumo-miyabi] (p.87–89) Failed successor; nearly all second-years under his sway; the watch target.
+[rel:ichinose-honami] (p.87–88) Applicant he refused, then Nagumo forcibly seated on the council.
+[rel:katsuragi-kouhei] (p.87) The other refused first-year applicant.
+[feat] (p.87–88) Reads the coming expulsion wave and the council coup from inside knowledge; swallows pride enough to visit a first-year alone.
+[trait] (p.86–89) Formal, direct, no tea; admits the successor mistake without flinching; expects nothing and waits.
+
+<!-- walk: y1v7 ch3 → p.97 -->

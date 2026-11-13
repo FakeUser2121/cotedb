@@ -760,3 +760,26 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [note] (p.31) Blank scan (footer only).
 
 <!-- walk: y1v7 ch2 → p.31 -->
+
+### y1v7 p.32–36, 49–53 — Ch.3: named as the hunter
+[scene] (p.32) Named in Sudou’s hall-block report and Horikita’s read of his off-exam pattern.
+[note] (p.32–33) Lackeys tailed Sudou since morning; Horikita tells him to ignore first.
+[note] (p.34–36) Hunting the Class D mastermind; lost interest in Horikita as the direct target; escalates tricks from here.
+[note] (p.49–53) Group’s surveillance talk loops around him; Miyake: he hates losing to Class D; Keisei: the tail only makes sense if the mastermind exists.
+[rel:horikita-suzune] (p.34–36) No longer approached directly — he wants the one behind her.
+[rel:sudou-ken] (p.32–33) Ordered the hall block.
+[rel:shiina-hiyori] (p.42) She says she only plays along so he does not bother her.
+[rel:ayanokouji-kiyotaka] (p.49–53) The unseen target of the whole hunt.
+[rel:komiya-kyogo] (p.50) His man still at the mall.
+[trait] (p.32–53) Off-page but structures every conversation; pattern = off-exam aggression and a mastermind obsession.
+
+### y1v7 p.76, 78–79, 83, 85, 96 — Ch.3: still the one problem
+[note] (p.76) Post-retirement: no matter what Ryuuen does, Ayanokōji need not move for Class D.
+[note] (p.78–79) His scrutiny would intensify if Class D flourishes; last chance to turn back.
+[note] (p.83) If he finds Karuizawa while she is crumbling, identity leaks — the reason for the cut-off.
+[note] (p.85) The remaining problem; a week, a month, a year to the invisible thread.
+[note] (p.96) Contrast with Ichinose: awful draws no sympathy; crushing Ichinose would be harder.
+[rel:karuizawa-kei] (p.83) The thread Ayanokōji tries to sever.
+[rel:ayanokouji-kiyotaka] (p.76–85) The only problem left after father, chairman and teacher are handled.
+
+<!-- walk: y1v7 ch3 → p.97 -->

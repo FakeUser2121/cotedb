@@ -408,3 +408,44 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.31) Blank scan (footer only).
 
 <!-- walk: y1v7 ch2 → p.31 -->
+
+### y1v7 p.48–53 — Ch.3: Keisei on the mastermind board
+[scene] (p.48) Annoyed at the romance rumour, then runs the candidate list for the Class D mastermind.
+[says:yukimura-teruhiko] (p.48) “Really, Kiyotaka? I didn’t think you were that kind of guy,”
+[says:yukimura-teruhiko] (p.48) “Faster? What do you mean, faster?”
+[says:yukimura-teruhiko] (p.49) “I-I’ve never heard of anything like that before.”
+[says:yukimura-teruhiko] (p.50) “Putting aside Haruka’s imaginary romance, Class C is becoming a problem. I feel bad for eavesdropping, but apparently Sudou got wrapped up in something and went to Horikita for advice.”
+[says:yukimura-teruhiko] (p.51) “Ryuuen has people following us precisely because he believes that there is such a person. But if Class D contains a master manipulator, like Ryuuen says, who could it be?”
+[says:yukimura-teruhiko] (p.51) “If they don’t, then what Class C is doing makes no sense.”
+[says:yukimura-teruhiko] (p.51) “It’s not me. All I did was help out during the island test and the zodiac game.”
+[says:yukimura-teruhiko] (p.52) “Impossible,”
+[says:yukimura-teruhiko] (p.52) “Besides, Kouenji retired on the very first day of the island test,”
+[says:yukimura-teruhiko] (p.52) “But this is all conjecture based on the assumption that there really is a mastermind, like Ryuuen believes. Even if there is, we’re not sure they were involved in all the tests.”
+[says:yukimura-teruhiko] (p.52) “But I do think the mastermind exists,”
+[says:yukimura-teruhiko] (p.52) “Maybe Hirata-kun’s the mastermind?”
+[says:yukimura-teruhiko] (p.52) “I think Ryuuen’s got his eyes on about ten people.”
+[says:yukimura-teruhiko] (p.53) “If I recall, not great, not bad,”
+[rel:sudou-ken] (p.50) Overheard the morning advice session.
+[rel:kouenji-rokusuke] (p.51–52) Primary candidate he then demolishes with the island-retirement fact.
+[rel:hirata-yousuke] (p.52) Second candidate — advice from Horikita on the island.
+[rel:ayanokouji-kiyotaka] (p.48–53) Romance-rumour target first, then “not great, not bad” on tests.
+[rel:ryuuen-kakeru] (p.51–52) The belief structure he reverse-engineers.
+[rel:hasebe-haruka] (p.48–51) “Yukimuu” through the whole board.
+[trait] (p.48–53) Dogged logic; eavesdrops and reports; votes mastermind-exists on class-progress feeling alone.
+
+### y1v7 p.90–96 — Ch.3: the takoyaki curse and the Class A vow
+[scene] (p.90) Draws the spicy takoyaki five times in a row; later vows Class A to the Sakayanagi–Ichinose pair.
+[says:yukimura-teruhiko] (p.90) “My throat hurts because of the punishment game, not the singing.”
+[says:yukimura-teruhiko] (p.90) “So unlucky…”
+[says:yukimura-teruhiko] (p.91) “There’re only two weeks until the year ends! You did this on purpose, Haruka.”
+[says:yukimura-teruhiko] (p.91) “I thought I might start breathing fire. I know they said ‘spicy,’ but there has to be a limit. Come on.” Keisei was still sticking his tongue out from the lingering heat.
+[says:yukimura-teruhiko] (p.95) “We do intend to overtake you,” Keisei interjected, overtly serious as always. “We’ll make it to Class A eventually.”
+[says:yukimura-teruhiko] (p.95) “There’s no doubt they’re enemies.” Keisei eyed them both suspiciously, pushing his glasses up.
+[says:yukimura-teruhiko] (p.96) “We’re going to make it to Class A. When that happens, Ichinose will be our enemy. I think it’s best if we don’t get too close,” said Keisei.
+[rel:hasebe-haruka] (p.90–91) Blames her for the curse; her luck-reframe gets the scowl.
+[rel:sakayanagi-arisu] (p.95) Gets the direct Class A vow; her chuckle reads as insult.
+[rel:ichinose-honami] (p.95–96) Future enemy — keep distance.
+[rel:miyake-akito] (p.90–91) Witness to the five-in-a-row streak (one in 7776).
+[trait] (p.90–96) Probability-brained even at karaoke; treats rivals as tactical facts, not gossip.
+
+<!-- walk: y1v7 ch3 → p.97 -->

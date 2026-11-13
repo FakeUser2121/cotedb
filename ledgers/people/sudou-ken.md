@@ -1019,3 +1019,28 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:hasebe-haruka] (p.24) Her joke is the trigger for the inner note.
 
 <!-- walk: y1v7 ch2 → p.31 -->
+
+### y1v7 p.32–33, 50 — Ch.3: the tail report
+[scene] (p.32) storms to Horikita’s desk to report Class C blocking him in the hall.
+[says:sudou-ken] (p.32) “Hey. You got a sec, Suzune?”
+[says:sudou-ken] (p.32) “Those jerks from Class C! That Ryuuen guy and his lackeys. They’ve been followin’ me since this mornin’, trying to pick a fight. They even blocked my way in the hall. They’re seriously getting on my nerves!”
+[says:sudou-ken] (p.32) “I didn’t, no way. I completely ignored ’em.”
+[says:sudou-ken] (p.32) “Well, I guess I did bump their shoulders a little when I forced my way through,”
+[says:sudou-ken] (p.33) “They called me a monkey, an idiot, childish stuff like that. They were tryin’ to start a fight.”
+[says:sudou-ken] (p.33) “Do you think they’re plannin’ on staging another fight, like that time they tried to get me in trouble?”
+[says:sudou-ken] (p.33) “I understand. I ain’t gonna break my promise to you. Even if they start throwin’ punches, I’ll stay calm,”
+[rel:horikita-suzune] (p.32–33) Follows her ignore-first order exactly; reports back satisfied.
+[rel:ryuuen-kakeru] (p.32–33) Names him as the lackey leader behind the hall block.
+[rel:ike-kanji] (p.33) Returns to a casual chat with him and Yamauchi.
+[rel:yamauchi-haruki] (p.33) Same chat circle.
+[rel:ayanokouji-kiyotaka] (p.33) Present for the report; notes the maturity.
+[trait] (p.32–33) Hot-headed but obedient; keeps the promise not to swing; still crude in speech, better in judgment.
+[note] (p.50) Named in Keisei’s eavesdrop of the morning advice.
+
+### y1v7 p.69, 81 — Ch.3: admission example
+[note] (p.69) Named as a poor student who enrolled despite issues — evidence the exam was a smokescreen.
+[note] (p.81) With Akito in the line about Class C surveillance beyond the obvious targets.
+[rel:ike-kanji] (p.69) The paired admission example.
+[rel:miyake-akito] (p.81) The other named surveillance target.
+
+<!-- walk: y1v7 ch3 → p.97 -->

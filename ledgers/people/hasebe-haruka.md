@@ -175,3 +175,52 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [note] (p.31) Blank scan (footer only).
 
 <!-- walk: y1v7 ch2 → p.31 -->
+
+### y1v7 p.36, 47–53 — Ch.3: the grin and the romance rumour
+[scene] (p.47) Pings the group to Keyaki Mall, then needles Ayanokōji about the Shiina lunch.
+[says:hasebe-haruka] (p.48) “I saw it. I saw it. How deplorable of you, good sir,”
+[says:hasebe-haruka] (p.48) “What do you mean, ‘what’? I’m saying that I saw you eating with Shiina-san from Class C, Kiyopon! Airi’s so worried about it, she’s been spilling rice all over herself.”
+[says:hasebe-haruka] (p.48) “Oh, did I?”
+[says:hasebe-haruka] (p.48) “Don’t tell me you’re about to rush into a last-minute romance right before Christmas?”
+[says:hasebe-haruka] (p.48) “Naïve. Much too naïve, Yukimuu. All roads lead to romance in the end. Young people these days live life at a much faster pace,”
+[says:hasebe-haruka] (p.49) “That just means you never paid attention, Yukimuu. I mean, most girls aren’t interested in childish boys,”
+[says:hasebe-haruka] (p.51) “Gross,”
+[says:hasebe-haruka] (p.51) “So, we’re talking about someone who isn’t Horikita-san, and who’s helped us through all the exams so far? Like Yukimuu, maybe? He’s smart. As a matter of fact, he’s always top of the class on our tests.”
+[says:hasebe-haruka] (p.51) “In that case, how about Kouenji-kun?”
+[says:hasebe-haruka] (p.51) “I mean, his personality’s, well…off. He’s brilliant, he’s athletic, he’s perfect in every way.”
+[says:hasebe-haruka] (p.53) “If that’s true, it’s bad news for you, Kiyopon,”
+[rel:horikita-suzune] (p.36) Named with Miyake as the reason the study clique formed.
+[rel:ayanokouji-kiyotaka] (p.47–53) Initiates the mall call; drives the romance and mastermind gossip around him.
+[rel:sakura-airi] (p.48–49) Blows Airi’s worry cover; keeps her in the joke.
+[rel:yukimura-teruhiko] (p.48–51) Teases Yukimuu as the smart candidate then lets him deny it.
+[rel:kouenji-rokusuke] (p.51) Proposes him as the cold schemer; everyone shakes their heads.
+[rel:miyake-akito] (p.47–53) Club-skip partner in the same booth.
+[rel:shiina-hiyori] (p.48) Saw the cafeteria lunch and names it to the group.
+[trait] (p.36–53) Group alarm-bell and romance columnist; blunt about “Gross” when Komiya shows; keeps Airi included without cruelty.
+
+### y1v7 p.90–96 — Ch.3: karaoke and the flawless Ichinose
+[scene] (p.90) Runs the Sunday karaoke punishment game and later needles the Ichinose perfection problem on the walk home.
+[says:hasebe-haruka] (p.90) “Singing five songs in a row is really overdoing it, Yukimuu. Still, you’re surprisingly good. I was shocked,” said Haruka.
+[says:hasebe-haruka] (p.91) “On the contrary, doesn’t that mean you’re really lucky?” asked Haruka. “Think of it like you used up all this year’s bad luck at once. You’ve probably got lots of good stuff awaiting you for the rest of the year.”
+[says:hasebe-haruka] (p.91) “Sorry, sorry.” Haruka clutched her stomach and laughed out loud, but still apologized. “They were really that spicy?”
+[says:hasebe-haruka] (p.91) “Let’s do this again next time we go to karaoke,” said Haruka.
+[says:hasebe-haruka] (p.91) “I know, I know. I’m not gonna wimp out after suggesting we all do it again,” said Haruka.
+[says:hasebe-haruka] (p.91) “Ah, have I been found out?”
+[says:hasebe-haruka] (p.91) “I can even eat super-ultra-spicy ramen without breaking a sweat. I actually kinda like it, you know?” she said.
+[says:hasebe-haruka] (p.91) “Don’t worry, don’t worry. If it’s too spicy, you can just spit it out. We’re not gonna force you to eat anything,” said Haruka. Certainly right.
+[says:hasebe-haruka] (p.94) “I’m not good with the cold,” said Haruka, sounding melancholy as she looked up at the sky.
+[says:hasebe-haruka] (p.95) “They’re rivals, right? Those two?” asked Haruka.
+[says:hasebe-haruka] (p.95) “That’s just like Ichinose, though, right?” It was a well-known fact that Ichinose could make friends with anyone.
+[says:hasebe-haruka] (p.95) “As a fellow woman, I kinda don’t like her.”
+[says:hasebe-haruka] (p.95) “I don’t dislike her, it’s just…she’s way too perfect at everything. You can’t be human without at least a couple flaws, right? I sorta almost hope that she’s actually rotten on the inside.”
+[says:hasebe-haruka] (p.95) “You have a point. She’s so flawless it’s almost creepy. Saying you hope she’s rotten inside is going a bit too far, though,” said Akito.
+[says:hasebe-haruka] (p.95) “That’s true. I’m just saying that being flawless and totally sweet is boring, even in a manga,” said Haruka.
+[says:hasebe-haruka] (p.96) “I guess so. Maybe there really are unbelievably kind, perfect people in the world. We may just not even know them when we see them,” said Haruka.
+[rel:yukimura-teruhiko] (p.90–91) Yukimuu’s takoyaki curse and throat; later Class A vow partner.
+[rel:sakura-airi] (p.91, 95–96) Worried Airi at karaoke; Ichinose-kindness debate.
+[rel:miyake-akito] (p.91, 94–95) Saved a spicy piece; counters the rotten-inside hope.
+[rel:ichinose-honami] (p.95–96) The flawless-problem subject of the walk home.
+[rel:sakayanagi-arisu] (p.95) The other half of the rival pair.
+[trait] (p.90–96) Organiser of the punishment game; honest about her own spice arrogance; uneasy around perfection she cannot puncture.
+
+<!-- walk: y1v7 ch3 → p.97 -->

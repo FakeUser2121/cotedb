@@ -84,3 +84,19 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [rel:ryuuen-kakeru] (p.70) Ryuuen: I will not yield to authority. Even if the school tries to expel me… — their style is not his.
 [note] (p.70) No dialogue or action from Nagumo on these pages.
 <!-- walk: y1v6 ch4 → p.75 -->
+
+## y1v7
+
+<!-- walk: y1v7 → start -->
+
+### y1v7 p.87–89 — Ch.3: named through Manabu
+[scene] (p.87) The subject of Manabu’s dorm-room warning — failed successor, council hijacker, coming expulsions.
+[note] (p.87) Second-year Class A, current student council president; Ayanokōji only exchanged pleasantries at the sports festival.
+[note] (p.87) Ideologies differed from Manabu’s; almost all second-year students under his sway; “already won over the entire school.”
+[note] (p.88) Worked behind Manabu to contact Ichinose and force her onto the council.
+[rel:horikita-manabu] (p.87–89) The successor who went wrong; the man Manabu watches.
+[rel:ichinose-honami] (p.88) The first-year he snatched onto the council.
+[rel:katsuragi-kouhei] (p.87) The other applicant Manabu refused to protect them both.
+[rel:ayanokouji-kiyotaka] (p.87–89) Warned about him; still declines the student-council game.
+
+<!-- walk: y1v7 ch3 → p.97 -->

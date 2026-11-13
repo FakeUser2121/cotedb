@@ -766,3 +766,37 @@ aliases used for anchors: sakura, airi, sakura-san
 [note] (p.31) Blank scan (footer only).
 
 <!-- walk: y1v7 ch2 → p.31 -->
+
+### y1v7 p.48–53 — Ch.3: the rice-spill worry
+[scene] (p.48) At the Keyaki Mall table when Haruka exposes the Shiina lunch; later asks the mastermind question.
+[says:sakura-airi] (p.48) “Wah! You promised that you wouldn’t say anything, Haruka-chan!”
+[says:sakura-airi] (p.49) “S-see?”
+[says:sakura-airi] (p.49) “I told you, but you wouldn’t believe me, Haruka-chan.”
+[says:sakura-airi] (p.49) “I-I see. So, it wasn’t a date or anything.”
+[says:sakura-airi] (p.50) “I see. They haven’t done anything to me, though,”
+[says:sakura-airi] (p.50) “Well, maybe someone’s been watching us, and we just haven’t noticed it yet,”
+[says:sakura-airi] (p.52) “H-hey, Kiyotaka-kun?”
+[says:sakura-airi] (p.52) “Please don’t be upset, but I wanted to ask you something,”
+[says:sakura-airi] (p.52) “Is it possible that maybe you’re the mastermind?”
+[says:sakura-airi] (p.53) “W-well, it’s just…you’re calm, and smart, and…reliable, so… I thought that you gave Horikita-san all kinds of helpful advice, so…”
+[says:sakura-airi] (p.53) “S-sorry. It’s just, well, I kind of thought that, for some reason or another. Maybe because of the advice you gave, that Ryuuen-kun might be after you. I felt bad for you…”
+[rel:hasebe-haruka] (p.48–49) The one who broke the lunch secret; Airi had asked for silence.
+[rel:ayanokouji-kiyotaka] (p.48–53) Worries for him, then asks the honest mastermind question without malice.
+[rel:yukimura-teruhiko] (p.51) Named as the smart boy in Haruka’s candidate list.
+[trait] (p.48–53) Honest to a fault; blushes through the rumor; turns worry into a direct, kind question.
+
+### y1v7 p.91–96 — Ch.3: first karaoke, then Ichinose fear
+[scene] (p.91) Sings once at the group’s karaoke; later worries aloud that Ichinose might really be rotten.
+[says:sakura-airi] (p.91) “I wonder whether I can eat that stuff at all?” said Airi, who’d been anxious even before the game started.
+[says:sakura-airi] (p.92) “Y-yeah. It, um, was really embarrassing, though.” Even though she’d been painfully shy, Airi had given it her all.
+[says:sakura-airi] (p.94) “It was really warm today,” said Airi. “Everyone’s out in pretty light clothing, huh?”
+[says:sakura-airi] (p.95) “It’s just, like, how do I put this?”
+[says:sakura-airi] (p.95) “It’s like Ichinose-san lives in a different world from us or something.”
+[says:sakura-airi] (p.96) “I…I think it’s good that she’s like that, though. If Ichinose-san really was a bad person like Haruka-chan said, no one would believe it,” said Airi. She sounded anxious, as if she really didn’t want that to be true.
+[rel:hasebe-haruka] (p.91, 95–96) Haruka’s spice pity and the Ichinose-rot debate.
+[rel:ichinose-honami] (p.95–96) The “different world” girl she needs to stay kind.
+[rel:miyake-akito] (p.91, 94) Group partners through karaoke and the walk.
+[rel:yukimura-teruhiko] (p.91) Present for the punishment game.
+[trait] (p.91–96) First karaoke embarrassment handled; kindness-as-moral anchor; anxiety that perfection might be a lie.
+
+<!-- walk: y1v7 ch3 → p.97 -->

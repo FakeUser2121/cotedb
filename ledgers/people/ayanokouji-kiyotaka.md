@@ -3500,3 +3500,77 @@ walk: y1v1 → DONE
 [note] (p.31) Blank scan (footer only).
 
 <!-- walk: y1v7 ch2 → p.31 -->
+
+### y1v7 p.32–64 — Ch.3 §3.1–3.5: library lunch, group gossip, the father’s office
+[scene] (p.32) Narrates the day after the winter meetup: Sudou’s tail report, Horikita’s decoy talk, the Shiina library lunch, the group’s mastermind speculation, then Chabashira’s summons to Atsuomi.
+[says] (p.34) “There aren’t any exams in the immediate future,”
+[says] (p.34) “In other words, he’s looking for you?”
+[says] (p.36) “Nope.”
+[says] (p.36) “I will. As much as I can,”
+[rel:horikita-suzune] (p.32–38) Decoy bargain made explicit; she lends him Farewell, My Lovely and claims the grin; he wonders if she ever talks about anything but Class A.
+[rel:sudou-ken] (p.32–33) Listens to the tail report; notes his maturity under Horikita’s ignore-first rule.
+[rel:shiina-hiyori] (p.39–46) Library hand-off becomes cafeteria lunch; he keeps her unreadable and files her as a possible Class C probe.
+[rel:hasebe-haruka] (p.47–53) Group-chat initiator; she teases the Shiina lunch as a pre-Christmas romance.
+[rel:sakura-airi] (p.48–53) Worried about the lunch rumor; later asks whether he is the mastermind.
+[rel:miyake-akito] (p.47–53) Skips club for the mall; quick to spot Komiya; offers a shoulder if Class C troubles him.
+[rel:yukimura-teruhiko] (p.48–52) Suspected then cleared as mastermind candidate; island and zodiac help only.
+[rel:kouenji-rokusuke] (p.51–52) Group rules him out — retired day one of the island test.
+[rel:hirata-yousuke] (p.52) Named as a possible mastermind; bound to stay neutral.
+[rel:satou-maya] (p.54) Turns down her tea invitation because Chabashira is waiting.
+[rel:chabashira-sae] (p.54–56) Urgent stairwell summons; she is visibly nervous before the principal’s door.
+[rel:ayanokouji-atsuomi] (p.55–64) Father in the principal’s office; drop-out demand; Matsuo leverage; White Room resumed — he refuses to quit.
+[rel:matsuo] (p.59–64) Named as the butler who steered him to the school and was destroyed for it.
+[rel:komiya-kyogo] (p.50–51) Still watching the mall group.
+[rel:ishizaki-daichi] (p.49) Named in the archery-club tail pattern.
+[rel:ryuuen-kakeru] (p.32–36, 49–53) The hunt for the mastermind structures half the chapter even when he is off-page.
+[rel:kushida-kikyou] (p.34–35) Her Paper Shuffle betrayal cited as the pattern Horikita learned from.
+[rel:ike-kanji] (p.33) With Sudou and Yamauchi when the report lands.
+[rel:yamauchi-haruki] (p.33) Same casual circle.
+[feat] (p.62–64) Reads Atsuomi’s missing bodyguards, government leash and fear of public scandal; names the rebellious phase as the real reason enrolment stuck.
+[says] (p.62) “First of all, there’s no evidence that what you say is the truth,”
+[says] (p.62) “If he really is dead, then that’s all the more reason for me to stay in school. Matsuo helped me enroll, even though he knew you’d punish him. I must honor his wishes.”
+[says] (p.63) “I can’t imagine you’ll be able to do anything, considering that the government backs this school,”
+[says] (p.64) “Because of my insatiable curiosity, my inquisitive spirit. And also, because I want to decide my path for myself. It’s that simple,”
+[trait] (p.32–64) Keeps the official strategist fiction; reads Shiina as unknown quantity; refuses the drop-out demand without raising his voice; credits freedom and curiosity over the White Room’s single path.
+[note] (p.40, 58) Blank scans (footer only).
+
+### y1v7 p.65–97 — Ch.3 §3.6–3.8: chairman, Chabashira unmasked, Karuizawa cut off, Manabu’s bridge
+[scene] (p.65) Finishes the office fight with his father, survives Chairman Sakayanagi’s admission revelations, unmasks Chabashira on the walk out, ends the Karuizawa pipeline by phone, then takes Manabu’s number over tea.
+[says] (p.65) “This is the last thing I’ll say to you, Kiyotaka. Consider very carefully before answering me. Which would you prefer? To run away from this school of your own free will, or to have your parent force you to leave?”
+[says] (p.65) “I don’t know if there’s any help for a man like you, but I have no intention of giving up. This school is developing its students’ talents, even if it goes about it differently from you. I expect to learn a lot here,”
+[says] (p.65) “Worthless bottom-feeders? Not at all. This is a place where I may discover whether human beings are made equal or not. I find that quite interesting.”
+[says] (p.68) “If you call yourself a parent, why not come by the school now and again?”
+[says] (p.70) “It’s pointless to probe me so clumsily. I understand everything,”
+[says] (p.70) “Almost everything you’ve told me has been a lie, Chabashira-sensei.”
+[says] (p.71) “Yes. The chairman said nothing about you, Chabashira-sensei. But your involvement in this matter has become clear.”
+[says] (p.75) “At the very least, I think I’m done taking my turn onstage,”
+[says] (p.75) “You’ll never see your dream come true. Not a smart choice.”
+[says] (p.79) “Just wondering what you’re up to,”
+[says] (p.81) “I never intended to take control. Never have and never will,”
+[says] (p.81) “Yeah. I’ll leave it all to Horikita and Hirata. I don’t want the hassle of Ryuuen discovering my identity; I’m done. You’ve been a great help to me—for instance, that time at karaoke, and getting in touch with Kushida. I’ve imposed on you quite a lot.”
+[says] (p.81) “This will probably be the last time I call you,”
+[says] (p.82) “It’s only natural, since I don’t need anything from you now. Besides, no one knows that we’ve been talking. It’ll be suspicious if we continue to make pointless contact,”
+[says] (p.82) “Of course, I’ll help you if you ever need me to. I made a promise, and I’ll honor it. You can contact me if there’s an emergency, but please delete all traces of our conversations. I already deleted your contact information.”
+[says] (p.84) “A clean room’s such a great thing,”
+[says] (p.88) “I’d like time to think about putting your little sister on the student council and manipulating her behind the scenes.”
+[says] (p.89) “If I decide to cooperate, I’ll contact you,”
+[says] (p.91) “I know, I know. I’m not gonna wimp out after suggesting we all do it again,”
+[rel:ayanokouji-atsuomi] (p.65–68) Free-will answer closes the drop-out demand; parting jab about visiting school.
+[rel:sakayanagi-arisu] (p.66–69, 94–95) Father’s admission story; later walks past with Ichinose without eye contact.
+[rel:chabashira-sae] (p.70–76) Bluffs the chairman quote, exposes her Class A obsession, accepts her rule-threat as empty.
+[rel:karuizawa-kei] (p.79–83) Final call — pipeline cut, emergency exception only; notes how shaken she will be.
+[rel:horikita-manabu] (p.86–89) Takes the bridge offer far enough to get a number; refuses to commit.
+[rel:nagumo-miyabi] (p.87–89) Named through Manabu as the coming expulsions threat.
+[rel:ichinose-honami] (p.87–88, 94–96) Forced onto the student council; later walks with Sakayanagi; enemy-if-promoted read.
+[rel:ryuuen-kakeru] (p.76, 78–79, 85) Still the one problem; cutting Karuizawa is meant to break the thread to him.
+[rel:hirata-yousuke] (p.81) Named with Horikita as who he will leave Class D to.
+[rel:kushida-kikyou] (p.81) Cited as past Karuizawa help.
+[rel:hasebe-haruka] (p.90–96) Karaoke and walk-home group.
+[rel:sakura-airi] (p.91–96) Karaoke first-timer; Ichinose unease.
+[rel:miyake-akito] (p.90–94) Club check then mall; only member who prefers the cold.
+[rel:yukimura-teruhiko] (p.90–96) Spicy takoyaki streak; Class A vow to Sakayanagi pair.
+[feat] (p.66–70) Reads the fifty-point smokescreen and recommendation admission from Sakayanagi alone; turns Chabashira’s leverage into a hostage situation of her own ambition.
+[trait] (p.65–97) Chooses free will over the White Room path; cold-cuts Karuizawa while calling it a promise kept; still refuses the stage even while taking Manabu’s number to think it over.
+[note] (p.72, 93, 97) Short scans (footer only).
+
+<!-- walk: y1v7 ch3 → p.97 -->

@@ -54,3 +54,29 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [note] (p.189) Named only; no scene presence.
 
 <!-- walk: y1v6 ch7 → p.209 -->
+
+### y1v7 p.39–46, 48–49 — Ch.3: the library lunch
+[scene] (p.39) Struggling with Wuthering Heights on a high shelf when Ayanokōji arrives; turns into cafeteria lunch and a book trade.
+[says:shiina-hiyori] (p.39) “You’re Ayanokouji-kun, right?”
+[says:shiina-hiyori] (p.41) “I don’t really like or dislike the book. It was in the wrong section, so I thought I’d return it to its proper place,”
+[says:shiina-hiyori] (p.41) “By the way, that book you have—Farewell, My Lovely, right? It’s wonderful,”
+[says:shiina-hiyori] (p.42) “I’m sorry, I was rambling. Am I bothering you?”
+[says:shiina-hiyori] (p.42) “The lunch break isn’t over, right? Would you like to eat with me?”
+[says:shiina-hiyori] (p.42) “No one in Class C likes reading, so I don’t really have anyone to talk to,”
+[says:shiina-hiyori] (p.42) “Please don’t worry. I just play along so that Ryuuen doesn’t bother me. I’ve never been interested in conflict. Or is it that you think talking with me will be a problem on its own?”
+[says:shiina-hiyori] (p.42) “I’m glad. I wouldn’t want our classes to clash over something so trivial. I’d prefer we all get along,”
+[says:shiina-hiyori] (p.45) “I’ve always wanted to try it, but if you miss out on your initial chance to do something, you kind of drag your feet, don’t you? I figured this was a good chance to go,”
+[says:shiina-hiyori] (p.45) “They’re from my personal collection. I’ve been walking around with them, hoping I’d meet someone who shared my tastes and would want to borrow them. I started out just carrying one, but I suppose I accumulated more and more books while waiting to find that certain someone,”
+[says:shiina-hiyori] (p.46) “Please, don’t hold back. Take whichever you’d like.”
+[rel:ayanokouji-kiyotaka] (p.39–46) First real one-on-one; he lends her the Chandler hand-off and leaves with Ellery Queen from her collection.
+[rel:ryuuen-kakeru] (p.42) Says she only plays along so he does not bother her.
+[rel:hasebe-haruka] (p.48–49) Named in the mall gossip as the one who saw the lunch.
+[rel:sakura-airi] (p.48–49) The rumor’s worried recipient.
+[feat] (p.41–46) Recommends Sayers and stacks personal mystery copies; first-time cafeteria user who finally took the chance.
+[trait] (p.39–46) Bookish, decisive once engaged, openly lonely for a reading peer; claims zero interest in conflict while standing next to Ryuuen’s orbit.
+[note] (p.48–49) Group treats the lunch as possible romance; Ayanokōji files it as a probe.
+
+### y1v7 — Ch.3 half2
+[note] (pp.65–97) Not named in the second half of this chapter.
+
+<!-- walk: y1v7 ch3 → p.97 -->

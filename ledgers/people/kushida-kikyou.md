@@ -1186,3 +1186,17 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:ayanokouji-kiyotaka] (p.23) Chooses silence over dumping the secret on friends.
 
 <!-- walk: y1v7 ch2 → p.31 -->
+
+### y1v7 p.34–35 — Ch.3: the Paper Shuffle traitor, cited
+[scene] (p.34) Named only as the asset Ryuuen used in the Paper Shuffle — Horikita’s worked example.
+[note] (p.35) She preferred it not have happened; the betrayal let Class D see attack patterns.
+[rel:horikita-suzune] (p.35) The predictor who still hates the outcome.
+[rel:ryuuen-kakeru] (p.34–35) The user of her in the last exam’s script.
+
+### y1v7 p.73, 81 — Ch.3: hope list and past help
+[note] (p.73) On Chabashira’s four-student hope list with Horikita, Kouenji, Hirata.
+[note] (p.81) Cited as a Karuizawa-facilitated help from the Paper Shuffle days.
+[rel:chabashira-sae] (p.73) Part of what re-lit her ambition.
+[rel:karuizawa-kei] (p.81) The pipeline that reached her.
+
+<!-- walk: y1v7 ch3 → p.97 -->
