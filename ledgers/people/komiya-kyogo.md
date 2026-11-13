@@ -79,3 +79,10 @@ char_id: komiya-kyogo · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:kondou-reo] (p.98) The pair inside the door.
 
 <!-- walk: y1v7 ch4 → p.119 -->
+
+### y1v7 p.138 — Ch.5 half2: the upperclassmen dead end
+[note] (p.138) Named with Kondou as students who once asked upperclassmen for exam hints and got nothing — felt like asking was not even allowed.
+[rel:kondou-reo] (p.138) The pair who hit the same wall.
+[rel:ryuuen-kakeru] (p.138) Evidence he cites for the school’s silent-generation rule.
+
+<!-- walk: y1v7 ch5 → p.151 -->

@@ -89,3 +89,15 @@ aliases used for anchors: sakagami, sakagami-sensei
 [note] (p.179) Named only in the handover sequence; no dialogue.
 
 <!-- walk: y1v6 ch7 → p.209 -->
+
+## y1v7
+
+<!-- walk: y1v7 → start -->
+
+### y1v7 p.120, 126 — Ch.5 §5.1: the closing homeroom and the camera debt
+[scene] (p.120) Class C’s teacher closes the second semester; later pages remember the earlier camera-painting report.
+[says] (p.120) “I’d like to remind everyone to please be on your best behavior, even during winter vacation, and to make good use of your time. That’s all.”
+[note] (p.120) Ryuuen listens to what he calls gracious, meaningless words, then turns to his own plan.
+[note] (p.126) Named only as the teacher Ryuuen reported a earlier spray-painted camera to; the punishment was paying for cleaning.
+
+<!-- walk: y1v7 ch5 → p.151 -->

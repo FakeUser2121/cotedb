@@ -1090,3 +1090,19 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [trait] (p.98–101) Composed first responder; chooses class calm over the path; good-natured about the nickname puzzle.
 
 <!-- walk: y1v7 ch4 → p.119 -->
+
+### y1v7 p.120 — Ch.5 §5.1: the conservative on the shortlist
+[scene] (p.120) Named in Ryuuen’s narrowing of Class D suspects after the Paper Shuffle.
+[note] (p.120) Excluded weaklings, then kept delinquents like Sudou and Miyake and conservative people like Hirata.
+[rel:ryuuen-kakeru] (p.120) One of the few Class D names still standing on X’s shortlist.
+
+### y1v7 p.136, 140, 147, 150 — Ch.5 half2: the boyfriend who was a tool
+[note] (p.136) Ryuuen says Karuizawa made Hirata pretend to be her boyfriend to protect herself — X learned the truth only after the spat with Manabe.
+[note] (p.140) Named again as one of the two who protected her first, then Kiyotaka.
+[note] (p.147) Karuizawa’s POV: Yousuke-kun asked her to the lowest floor alone; she now understands Kiyotaka instructed him to get her there.
+[note] (p.150) Listed with Kiyotaka as the ones who protected her; she calls herself a girl who couldn’t do anything on her own.
+[rel:karuizawa-kei] (p.136–150) The fake boyfriend she used as a host and now re-reads as part of the trap.
+[rel:ayanokouji-kiyotaka] (p.147, 150) The second protector; the one she refuses to betray.
+[rel:ryuuen-kakeru] (p.136) The man who names the pretense out loud.
+
+<!-- walk: y1v7 ch5 → p.151 -->

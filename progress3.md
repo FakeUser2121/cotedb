@@ -1551,3 +1551,10 @@ kick Hashimoto blocks, and the Dragon Boy leaves with his list narrowed to
 the creep behind Horikita. Kitō Hayato opens a ledger for the white-glove
 bodyguard. Determinism hash across consecutive builds:
 `56d212bf5d41b6d17a9087cf7c70df6d`.
+
+Year 1 Volume 7 chapter 5 is the winter-vacation rooftop trap: Ryuuen
+sprays the single camera, summons Karuizawa under threat of her past,
+and works her with buckets while Ibuki holds and Ishizaki fetches water;
+her POV breaks under four dousings and the cruise-ship setup, then
+refuses to say the name — “K-knock…it…off.” Determinism hash across
+consecutive builds: `2eca4fc952f66af0ea617cc42cd3bdd3`.

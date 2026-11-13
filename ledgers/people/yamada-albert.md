@@ -35,9 +35,30 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 [note] (p.70) No dialogue from Albert on these pages.
 <!-- walk: y1v6 ch4 → p.75 -->
 
+## y1v7
+
+<!-- walk: y1v7 → start -->
+
 ### y1v7 p.98 — Ch.4: in the raid party
 [note] (p.98) Named Yamada Albert with Ryuuen, Ishizaki, Komiya and Kondou in the classroom storm.
 [rel:ryuuen-kakeru] (p.98) Follower in the Class D visit.
 [rel:ishizaki-daichi] (p.98) Fellow path and classroom muscle.
 
 <!-- walk: y1v7 ch4 → p.119 -->
+
+### y1v7 p.122, 125–126 — Ch.5 §5.1: the standby below the roof
+[scene] (p.122) Rises with Ibuki when Ryuuen gathers his people for the strike.
+[note] (p.122) One of the tight-lipped few chosen; large numbers are not needed for what will shock the school.
+[note] (p.125) Waited near the rooftop door with Ibuki and Ishizaki while Ryuuen took the bag of tools.
+[note] (p.126) Ordered to remain on standby down the stairs, let Karuizawa pass, and call Ryuuen if anyone unexpected — a teacher, say — pays a visit; he nods and goes.
+[rel:ryuuen-kakeru] (p.122–126) Silent muscle under direct orders.
+[rel:ibuki-mio] (p.122, 125) Fellow rooftop lookout.
+[rel:ishizaki-daichi] (p.122, 125) The third of the waiting trio.
+
+### y1v7 p.146 — Ch.5 half2: the lookout who does not come
+[note] (p.146) Named Albert when Ryuuen asks whether anyone is coming to save Karuizawa; the answer is no.
+[says:ryuuen-kakeru] (p.146) “Do you see anyone coming, Albert? I see.”
+[rel:ryuuen-kakeru] (p.146) The standby still below stairs during the break.
+[rel:karuizawa-kei] (p.146) The girl whose hope of rescue he names out loud.
+
+<!-- walk: y1v7 ch5 → p.151 -->

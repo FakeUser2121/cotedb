@@ -856,3 +856,169 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [trait] (p.98–118) Public bait as suspect-narrowing; admits extortion and violence as tools; keeps Katsuragi’s contract as leverage; grand-finale showman.
 
 <!-- walk: y1v7 ch4 → p.119 -->
+
+### y1v7 p.120–134 — Ch.5 §5.1–5.2: the strike on the rooftop
+[scene] (p.120) Closing ceremony ends; he takes out his phone and finally moves against Karuizawa to draw out X.
+[says] (p.120) “I eliminated everyone I can, but that still leaves about ten possible candidates”
+[says] (p.120) “Well, I guess this just means I get to have some more fun.”
+[note] (p.120) A particular person he has had his eye on all along; he will not jump to conclusions yet.
+[note] (p.120) After the Paper Shuffle he mobilized every Class C student to spy on assigned targets; weaklings were excluded.
+[says] (p.121) “Heh heh…”
+[note] (p.121) His heart races; he has not felt this exhilaration in years. The text to X this morning is already marked read.
+[says] (p.122) “I’m going to confront my entertaining quarry of these past several months. You wanna come?”
+[says] (p.122) “It’s not like you’ll be of any use, though, is it?”
+[says] (p.122) “Let’s make the most of today,”
+[says] (p.123) “You remember Karuizawa, right?”
+[says] (p.123) “She’s the reason Manabe and her friends were strong-armed into spying on us for Class D.”
+[says] (p.123) “I sent Karuizawa a message today, asking her to come to the rooftop. Karuizawa knows I was the one who sent it, too. I got her email address from another girl in her class.”
+[says] (p.123) “She’ll definitely show. I told her that, if she doesn’t, I’ll expose her past.”
+[says] (p.124) “Normally? No.”
+[note] (p.124) He also messaged X directly: meeting Karuizawa today, learning her identity by any means — threatening both at once.
+[says] (p.124) “She won’t do that. If she does, I’ll expose her right away. No matter what she tries, Karuizawa can’t turn the tables on us.”
+[says] (p.124) “The worst-case scenario,”
+[says] (p.124) “will be if X shows up instead of Karuizawa. Regardless, it’s going to be fun to see what Karuizawa does.”
+[says] (p.124) “That’s not true at all. Crushing Karuizawa means taking one of X’s most valuable pawns off the board. It seems they’ve been using her in various ingenious ways.”
+[says] (p.124) “Heh. Well, eyes forward, Ibuki. X aside, you’ll definitely get to see Karuizawa terrified by the threat of me exposing how she was bullied in the past,”
+[says] (p.125) “According to Manabe and her friends, Karuizawa was bullied quite viciously in the past. People who’ve been through such traumatic experiences tend to lose control of themselves when placed in a similar scenario. Why don’t we go ahead and reproduce those memories for her? Let’s put on a show. We’ll reenact her past until she tells us X’s identity.”
+[says] (p.125) “I’m fully aware of that. I have a plan.”
+[says] (p.125) “If you don’t like it, run,”
+[says] (p.126) “There. Safe from prying eyes,”
+[note] (p.126) Sprays black paint on the single rooftop camera; only limited cameras display footage in real time, and this is not one.
+[says] (p.126) “Albert, remain on standby down the stairs. When Karuizawa comes, let her pass. If anyone unexpected pays us a visit, like one of the teachers, call me right away.”
+[says] (p.126) “Just a simple prank. Nothing to get worked up over.”
+[says] (p.126) “She’ll come. This is a matter of life and death for her.”
+[says] (p.127) “Heh. I knew you’d come, Karuizawa.”
+[says] (p.127) “There’s really no need to ask me that. You’re here precisely because you understand what it meant.”
+[says] (p.127) “I’m guessing you told no one, as I instructed? Well, it’s not like you had a choice. You can hardly let just anyone know about your past, after all.”
+[says] (p.127) “You came alone after all, huh?”
+[says] (p.127) “Heh. Suppose so.”
+[says] (p.128) “In that case, why come here? You should’ve just ignored me.”
+[says] (p.128) “Lies, huh? Everyone here knows the truth… that you were bullied before you started high school.”
+[says] (p.128) “It was a stroke of luck that Manabe and her friends found out. If you want to blame anyone, blame yourself for not handling them better.”
+[says] (p.128) “What would you do if I told you I’m just killing time?”
+[says] (p.128) “You came here alone because you know you can’t do that.”
+[says] (p.128) “Karuizawa’s powerless to do anything but rely on X. No need to be so cautious. Even if she records this conversation, it’s not like she can do anything with it. Having her past exposed is her greatest fear. As long as we hold that card, she’s at our mercy.”
+[says] (p.128) “Enough. Shut up.”
+[says] (p.130) “Okay, okay. I get it. If you’re not going to fess up, I’ll just tell you.”
+[says] (p.130) “X threatened to expose Manabe and her friends for bullying you if they didn’t do as they said. That’s how they got them to keep their mouths shut.”
+[says] (p.130) “Heh heh. I see… So, you did know how X kept Manabe and her friends quiet, then.”
+[says] (p.130) “No, you didn’t. But your eyes told me the truth quite well on their own.”
+[says] (p.130) “If that was all X did, I wouldn’t care. But that wasn’t enough for them. You see, X forced Manabe and her friends to betray me during the sports festival, too. They made them be their spies and leak information to them by threatening to expose the fact that they’d been bullying you.”
+[says] (p.130) “Your eyes are shifty, aren’t they? Seems like this is the first time you heard about the sports festival.”
+[says] (p.130) “All I want is X’s name. The name of the person who’s been attacking me. I honestly couldn’t care less about your past. Wouldn’t it be wisest to comply?”
+[says] (p.131) “There’s no point fighting me,”
+[says] (p.131) “You can’t brainstorm your way out of this situation. You know your options are limited. If you want to save yourself, you know the correct choice is to tell me their name.”
+[says] (p.131) “If I find out you lied to me, I’ll expose you later,”
+[says] (p.131) “The only way you can save yourself is to tell me everything you know.”
+[says] (p.131) “Heh. Yes, I suppose you’re right. There’s no guarantee I won’t keep using this against you, like X used Manabe and her friends. Even so, what choice do you have?”
+[says] (p.132) “And if I expose you as a result?”
+[says] (p.132) “I see. So, if I expose your past before I get anything out of you, I’m screwed, eh? You won’t tell me anything, and my hunt for X’s identity will be delayed even further,”
+[says] (p.132) “Honestly, I don’t really care if I don’t learn X’s identity from your lips. I’m happy to take my time figuring out who they are. You think that I won’t have plenty of opportunities to catch X in the future?”
+[says] (p.133) “Look, all you need to do is tell me who X is,”
+[says] (p.133) “If you know, I’m going to extract it from you one way or another.”
+[says] (p.133) “That’s obvious, isn’t it? Torture is a time-honored tradition.”
+[says] (p.133) “Ibuki, hold Karuizawa down.”
+[says] (p.133) “Do it,”
+[says] (p.133) “This is how you earn back my trust. I’ll take responsibility for what happens here. Don’t hold back.”
+[says] (p.134) “Ishizaki, go fill some buckets with water. Let’s start with two. There are two cleaning buckets in the men’s bathroom one floor below. No one should be using it right now.”
+[says] (p.134) “Are you going to defy me, too?”
+[says] (p.134) “Now, let’s enjoy a nice little chat until Ishizaki returns,”
+[note] (p.134) Not preventing escape but amplifying Karuizawa’s fear of what is to come.
+[feat] (p.120–134) Long game after the Paper Shuffle: class-wide tails, a double threat to X and Karuizawa, camera sabotage, and a rooftop trap built from one girl’s past.
+[trait] (p.120–134) Treats cruelty as method and sport; wants X the way he once wanted first love — any means, clear head, no doubts.
+[rel:karuizawa-kei] (p.120–134) The lever he pulls on the roof.
+[rel:ibuki-mio] (p.121–134) Reluctant accomplice he goads into place.
+[rel:ishizaki-daichi] (p.122–134) Obedient errand boy for the buckets.
+[rel:yamada-albert] (p.122, 126) Doorway lookout under orders.
+[rel:shiina-hiyori] (p.121–122) The library good-bye.
+[rel:manabe-shiho] (p.123–131) Her crime is the weapon.
+[rel:kushida-kikyou] (p.123) The quiet source of the email address.
+[rel:horikita-suzune] (p.120) The cover X still uses.
+
+### y1v7 p.136–149 — Ch.5 half2: rules, water, and the refusal
+[scene] (p.136) Continues the rooftop interrogation; shifts from threats to method, then to the cruise-ship truth.
+[says] (p.136) “Heh heh. It was pretty cocky of you to show up here. Did you think X would protect you this time, too?”
+[says] (p.136) “I’m gonna go out on a limb and guess X, Class D’s hidden puppet master, promised to protect you from things like this. Right?”
+[says] (p.136) “If not, this doesn’t add up. If your past became known, your headstrong, bossy attitude would work to turn people against you, even girls from other classes. Manabe and her friends wouldn’t be the only ones targeting you,”
+[says] (p.136) “You must spend every day racked with fear that they’ll all learn the truth. But you managed to get this far without your secret getting out. Why? There’s only one possible explanation. It’s because of the person who saved you and supported you.”
+[says] (p.136) “For now. But that’s only been the case recently, right?”
+[says] (p.136) “X only learned the truth about your past after your spat with Manabe and her friends. You made Hirata pretend to be your boyfriend to protect yourself, didn’t you?”
+[says] (p.136) “But I’m not, am I? Don’t lie to me, Karuizawa.”
+[says] (p.136) “Chalk it up to experience. I’ve dealt with tons of rotten people in my life,”
+[says] (p.137) “Do you know how many surveillance cameras this school has? I bet you don’t even know that much.”
+[says] (p.137) “You won’t know if you don’t investigate. But if you do your research, you’ll begin to comprehend everything that you see around us,”
+[says] (p.137) “One of the experiments I used to ascertain all this was the time I had Ishizaki and the other guys attack Sudou,”
+[says] (p.137) “Because they’re idiots, it seems there was a witness from Class D there at the time.”
+[says] (p.137) “I told you before, Ishizaki, didn’t I? Never admit any wrongdoing.”
+[says] (p.137) “The school might appear to strictly enforce a code of behavior, but that’s not entirely true. There are loopholes that allow the use of forceful methods, if you play your cards right,”
+[says] (p.137) “I’m sure you guys don’t get it, but the cleverest members of the student body are the ones constantly testing the boundaries of what the school allows.”
+[says] (p.138) “For instance,”
+[says] (p.137–138) “have you ever noticed one particular thing … that’s strange about all these tests? The uninhabited island test, the cruise ship test, the Paper Shuffle—whatever the test, you’d think the senior students would be able to give us some advice, wouldn’t you? But if you try and ask them, not a single one will give you a satisfactory answer. Why do you think that is?”
+[says] (p.138) “Yeah. I don’t think the exams are exactly the same each year. Strictly speaking, though, it’s probably more accurate to say the rules for every grade level are different.”
+[says] (p.138) “What if there was a supplementary rule that stated ‘any second- or third-year students will be expelled immediately if they leak exam contents’?”
+[says] (p.138) “That’s right. Even if a freshman asked them, they wouldn’t say a word. No way would people who fought to avoid expulsion for a whole year risk getting expelled over making a careless comment. In fact, I tried and utterly failed to negotiate in second-year Class-D students by offering them private points. Proof that talking carries considerable risk.”
+[says] (p.139) “What we’re about to do to Karuizawa is one such experiment, too.”
+[says] (p.139) “Trauma can be awakened more strongly through the senses than through words,”
+[says] (p.139) “Do you remember the baptism you received at your previous school?”
+[says] (p.139) “Come on, we’re just getting started.”
+[says] (p.139) “If you won’t talk, then I’ll circulate this video throughout the school.”
+[says] (p.139) “Come on, scream. Beg me to have mercy.”
+[says] (p.140) “Even though you were so persistently bullied, you stood tall in D Class. I’m impressed,”
+[says] (p.140) “That’s not easily achieved. In a way, you might be a girl with the spirit to stand up to me.”
+[says] (p.140) “Here’s the thing about human nature. People don’t change. You were designed to be bullied, not to bully. Remember that.”
+[says] (p.140) “Ishizaki. Get more.”
+[says] (p.140) “Who’s protecting you and keeping Manabe and her friends quiet?”
+[says] (p.140) “Heh. Still trying to hide it? I guess you do have spirit. Or maybe it’s just that you’re so used to being bullied? Maybe this doesn’t even qualify as bullying for you.”
+[says] (p.140) “This is where the fun begins,”
+[says] (p.141) “Fine by me.”
+[note] (p.141) States he is breaking Karuizawa for his own pleasure, not for Ibuki’s entertainment.
+[says] (p.142) “Come on. That’s enough, Karuizawa. Make things easier on yourself. There’s no need to suffer any further,”
+[says] (p.142) “I know what you’re thinking. If you give up X, you’ll lose their protection. All hope will be lost,”
+[says] (p.144) “Do you want to die holding onto hope? Are you okay with going back to the way things were?”
+[says] (p.144) “X can’t save you. I can, if you give me their name.”
+[says] (p.144) “If you won’t cooperate, though, I have no choice but to destroy you.”
+[says] (p.144) “I’m going to list everything there is to know about you, everything you pretend to be, and circulate it to the whole school.”
+[says] (p.144) “When that happens, will you be able to keep your position in your class? Will you still be a leader?”
+[says] (p.144) “No. You’ll just go back to being what you were before. You’ll be back to the real you, that pathetic girl who was always bullied.”
+[says] (p.144) “Then make things easier. Protect yourself.”
+[says] (p.144) “I’m not merciful like Manabe and her friends,”
+[says] (p.144) “We know your secret. Even if you get me expelled, it’s not just me who knows. I’ll spread rumors of your past. Your own classmates will smell blood in the water and turn on you!”
+[says] (p.144) “Then remember. Remember how painful it’ll be to go back to how you used to be.”
+[says] (p.146) “Do you see anyone coming, Albert? I see.”
+[says] (p.146) “I assume you’re holding on to the hope that someone’s coming to save you. But it doesn’t look like it.”
+[says] (p.146) “It seems like you trust X quite a bit, Karuizawa.”
+[says] (p.146) “You were tricked.”
+[says] (p.147) “I’m not wrong. I’ll tell you the truth about the cruise ship test. The truth X never told you.”
+[says] (p.147) “Manabe wanted to get back at you for being mean to her friend, Morofuji, but she couldn’t find a good opportunity to do it. I mean, even if she tried to summon you somewhere secluded, it wasn’t like you’d show up. But then, for some reason, you went down to the lowest floor alone. Why?”
+[says] (p.147) “Do you really think that was a coincidence?”
+[says] (p.147) “Manabe and her friends couldn’t follow you around all the time, especially not on such a big ship. Them showing up wasn’t coincidental, but an inevitability.”
+[says] (p.147) “You know it already, don’t you? X secretly contacted Manabe and then set you up. They tricked Manabe by claiming they hated you too, and would help her get you. You were an idiot for taking the bait so easily.”
+[says] (p.147) “X set you up. They intentionally let Manabe bully you so they could record it to use against her. Unjust of them, don’t you think?”
+[says] (p.148) “You weren’t saved. You were trapped. Pretty stupid, huh?”
+[says] (p.148) “Look around you. Is X here right now? Is X saving you?”
+[says] (p.148) “It’s safe to assume that X cut all ties with you when their identity was about to be exposed,”
+[says] (p.148) “You finally get it, yeah? That’s right. You’ve just been bullied all over again.”
+[says] (p.148) “Well, there’s still one way for you to save yourself,”
+[says] (p.148) “That’s right. It’ll all be over.”
+[says] (p.148) “If you give me the name, I promise never to bother you again.”
+[says] (p.149) “Just take it slow. Give me the name.”
+[says] (p.149) “K…?”
+[says] (p.149) “One more time.”
+[says] (p.149) “Are you certain, Karuizawa?”
+[says] (p.149) “Even though X was just using you, why you’re still protecting him?”
+[says] (p.150) “I see. That’s too bad, Karuizawa. I don’t want to do this, but you’ve left me no choice. Still, you have my respect. Despite all your trauma, and the one person you could rely on betraying you, you didn’t sell him out. I honestly admire you.”
+[feat] (p.136–149) Reads the school’s hidden rule structure aloud, reconstructs the cruise-ship trap from Manabe’s grudge, and still fails to extract one name.
+[trait] (p.136–149) Cruelty as experiment and entertainment; admires the one girl who refuses him.
+[rel:karuizawa-kei] (p.136–150) The girl he breaks and then respects.
+[rel:ibuki-mio] (p.136–141) Disgusted audience who stays.
+[rel:ishizaki-daichi] (p.136–140) Bucket orders.
+[rel:yamada-albert] (p.146) Named when rescue fails to appear.
+[rel:manabe-shiho] (p.136–147) Her crime is the instrument.
+[rel:morofuji-rika] (p.147) Named in the ship story.
+[rel:sudou-ken] (p.137) The old experiment.
+[rel:komiya-kyogo] (p.138) Upperclassmen dead end.
+[rel:kondou-reo] (p.138) Upperclassmen dead end.
+[rel:hirata-yousuke] (p.136) The boyfriend pretense.
+[rel:ayanokouji-kiyotaka] (p.146–149) X, the name he wants.
+
+<!-- walk: y1v7 ch5 → p.151 -->

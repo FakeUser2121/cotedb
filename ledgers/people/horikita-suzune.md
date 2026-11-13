@@ -2599,3 +2599,10 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [trait] (p.98–118) Holds the line without swinging; correct on private vs class points; exasperated by both dragon and doll.
 
 <!-- walk: y1v7 ch4 → p.119 -->
+
+### y1v7 p.120 — Ch.5 §5.1: the cover that keeps working
+[scene] (p.120) Named in Ryuuen’s Class D suspect notes on the day he moves against Karuizawa.
+[note] (p.120) Class D members continued to use Suzune as a cover, which kept X hidden; Ryuuen tightens the noose anyway.
+[rel:ryuuen-kakeru] (p.120) The name he still treats as Class D’s public shield.
+
+<!-- walk: y1v7 ch5 → p.151 -->

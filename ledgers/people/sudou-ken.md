@@ -1073,3 +1073,15 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [trait] (p.98–118) Defensive not offensive this time; chivalrous to a fault; pop-culture guess that lands next to the gloves.
 
 <!-- walk: y1v7 ch4 → p.119 -->
+
+### y1v7 p.120 — Ch.5 §5.1: dumb enough to need provoking
+[scene] (p.120) Named in Ryuuen’s surveillance notes on the closing day.
+[note] (p.120) Grouped with Miyake as a delinquent suspect; the Class D punks noticed they were tailed except Sudou, so dull that Ryuuen’s people had to provoke him directly.
+[rel:ryuuen-kakeru] (p.120) The tail target who never noticed until made to notice.
+
+### y1v7 p.137 — Ch.5 half2: the old experiment, named
+[note] (p.137) Named in Ryuuen’s account of the time Ishizaki and the other guys were ordered to attack Sudou — one of the experiments used to map the school’s rules.
+[rel:ryuuen-kakeru] (p.137) The Class D student whose beating was a deliberate test.
+[rel:ishizaki-daichi] (p.137) The attacker in that staged incident.
+
+<!-- walk: y1v7 ch5 → p.151 -->

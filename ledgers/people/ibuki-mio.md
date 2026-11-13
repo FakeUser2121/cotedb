@@ -439,3 +439,46 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:kouenji-rokusuke] (p.103) Part of the wall in front of him.
 
 <!-- walk: y1v7 ch4 → p.119 -->
+
+### y1v7 p.121–134 — Ch.5 §5.1–5.2: the reluctant hand
+[scene] (p.121) Named in Ryuuen’s head as the one who called identifying X meaningless; joins the rooftop party anyway.
+[says] (p.123) “So, where are we going? Cut the crap and tell us”
+[says] (p.123) “You make me nervous, dragging me into all your stupid schemes.”
+[says:ryuuen-kakeru] (p.123) “Concerned, Ibuki?”
+[says] (p.124) “But…you sent a threatening message to Karuizawa, right? What if she tattles to the school? If X puts the idea in her head, she might.”
+[says] (p.125) “No way. This is insane!”
+[says] (p.125) “It all depends on your plan. If I think it’s dangerous, I’ll leave.”
+[says] (p.126) “You painted over the camera?”
+[says] (p.126) “Isn’t that a punishable offense?”
+[says] (p.128) “Aren’t you getting carried away, Ryuuen? She might still have something up her sleeve,”
+[says:ryuuen-kakeru] (p.133) “Ibuki, hold Karuizawa down.”
+[says] (p.133) “Why me? You can do it yourself, can’t you?”
+[says] (p.133) “I won’t be complicit in this. It’s too risky,”
+[says:ryuuen-kakeru] (p.133) “Do it,”
+[says] (p.134) “Look, I’ve got problems of my own. Sorry,”
+[note] (p.134) Clicks her tongue but approaches; moves behind Karuizawa and grabs her hands with martial-arts ease.
+[trait] (p.121–134) Curious about X yet openly disgusted by the method; stays because she wants the name, not the cruelty.
+[rel:ryuuen-kakeru] (p.121–134) Follower who questions the plan and still executes it.
+[rel:karuizawa-kei] (p.133–134) The restraint on the roof.
+[rel:yamada-albert] (p.122, 125) Paired at the rooftop door.
+[rel:ishizaki-daichi] (p.122, 125) The other Class C on the roof.
+
+### y1v7 p.136–141 — Ch.5 half2: the hand that stays
+[note] (p.136) Shocked when Ryuuen shows he knows Karuizawa’s history: “How could you know that, Ryuuen?”
+[says] (p.136) “And you think that person’s X?”
+[says] (p.136) “How could you know that, Ryuuen?”
+[note] (p.137) Fires questions about the two buckets and the prior research; admits she does not know the camera count.
+[says] (p.137) “You said that there were two buckets. How did you know? Did you investigate this all beforehand”?
+[says] (p.137) “Huh? Of course not.”
+[note] (p.139) Averts her eyes when the first bucket falls: she cannot watch.
+[says] (p.139) “I can’t watch this. I knew I shouldn’t have helped you,”
+[says] (p.140) “I can’t watch this,”
+[says] (p.140) “You’re evil. This is disgusting.”
+[says] (p.140) “I’ll leave after you get a name out of her,”
+[note] (p.140–141) Doesn’t leave; leans against the door. Ryuuen notes he isn’t doing this to entertain her.
+[trait] (p.136–141) Disgust that never turns into departure; curiosity about X keeps her on the roof.
+[rel:ryuuen-kakeru] (p.136–141) The torturer she calls evil and still waits for.
+[rel:karuizawa-kei] (p.136–141) The girl she holds and watches break.
+[rel:ishizaki-daichi] (p.136–137) Fellow Class C on the roof.
+
+<!-- walk: y1v7 ch5 → p.151 -->

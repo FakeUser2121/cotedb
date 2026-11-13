@@ -801,3 +801,72 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [trait] (p.79–83) Sharp enough to refuse small talk; stumbles through the cut-off; the “parasite” peace of mind is his read, not hers.
 
 <!-- walk: y1v7 ch3 → p.97 -->
+
+### y1v7 p.120–134 — Ch.5 §5.1–5.2: summoned to the roof
+[scene] (p.120) Named as the pawn Ryuuen would rather not use, then as the strike target once X stays hidden.
+[note] (p.120) X had eluded him so far; about ten candidates remain, and Karuizawa is the lever.
+[note] (p.121) He has yet to move on her, though he all but told X he would; the uncertainty is meant to exhaust them.
+[note] (p.123) Threatened with past exposure unless she comes to the rooftop alone; she has no choice but to bite the bullet.
+[note] (p.127) Arrives alone at almost two in the afternoon, stiffening in the cold air.
+[says] (p.127) “The message you sent,”
+[says] (p.127) “What’s it supposed to mean?”
+[says:ryuuen-kakeru] (p.127) “There’s really no need to ask me that. You’re here precisely because you understand what it meant.”
+[says] (p.128) “You told me to, didn’t you?”
+[says] (p.128) “Look. I really don’t, like, have a single clue what you’re talking about, but it’s cold out. I wanna finish this quick.”
+[says] (p.128) “Well, that’s…because I didn’t want any lies spreading around.”
+[says] (p.128) “What do you want? What do you gain by threatening me?”
+[says] (p.128) “If you do anything to me…I-I’ll tell the school,”
+[says] (p.130) “What are you talking about? Seriously, I have no clue—”
+[says] (p.131) “I-If there really is someone hiding in the shadows like that, you have no way of knowing whether the name I give you is actually the person you’re looking for, right?”
+[says] (p.131) “I’m not that stupid,”
+[says] (p.131) “It doesn’t matter if I tell you the truth now, or lie. Either way, you’ll just try to use this against me again down the line. Sorry, I’m not going to be a pawn you can use whenever you want.”
+[says] (p.132) “I can neither confirm nor deny that there’s someone hiding behind me. I’m not going to just blurt out a name to you, either. In other words, I have no answer for you.”
+[says] (p.132) “You think that someone’s controlling Class D from the shadows, but you wouldn’t have contacted me unless you’d failed to discover their identity so far. In which case, I’m the only lead you have, and you can’t afford to throw me away.”
+[says] (p.133) “If your threats don’t work, how do you intend to make me talk?”
+[says] (p.133) “Ryuuen-san, are you serious?”
+[says] (p.134) “Wh-what?”
+[says] (p.134) “Ow!”
+[says] (p.134) “No! Let me go!”
+[says] (p.134) “If you lay one finger on me, I’ll tell everyone!”
+[trait] (p.127–134) Sharp self-defense under pressure; refuses to be a reusable pawn even when every option is closed.
+[rel:ryuuen-kakeru] (p.120–134) The Class C leader holding her past as leverage.
+[rel:ibuki-mio] (p.133–134) Restrained by her on the roof.
+[rel:ishizaki-daichi] (p.131, 134) Present for the threats and the bucket order.
+[rel:manabe-shiho] (p.123–131) The old bullying that is the weapon.
+
+### y1v7 p.136–150 — Ch.5 half2: the break and the refusal
+[scene] (p.136) Still on the roof under Ryuuen’s pressure; her POV opens fully at §5.3 once the water starts.
+[note] (p.136) Ryuuen names the Hirata boyfriend pretense; her pupils dilate.
+[says] (p.136) “Y-you’re wrong…”
+[note] (p.139) First bucket; bravado washed away.
+[note] (p.140) Second bucket; collapses, shivering, hugging herself.
+[says] (p.140) “There’s…no one… No one, no one, no one!”
+[note] (p.142) §5.3: four dousings; uniform soaked through; the ice in her heart is what scares her.
+[note] (p.142) Her feelings turn from “Why am I being bullied?” to “Why am I alive?” — then to holding on to Kiyotaka’s promise.
+[note] (p.144) Pride shatters; the Karuizawa Kei who made a new life is dying in her own words.
+[says] (p.144) “Please, forgive me! Please, forgive me!”
+[says] (p.144) “No, no, no…”
+[note] (p.145) Junior-high hell on loop: graffiti, water, beatings, thumbtacks, dead animals, public skirt-pulling, forced confessions.
+[note] (p.146) Refuses the easy exit of naming Kiyotaka — losing his trust and her friends would be worse.
+[note] (p.147–148) Accepts Ryuuen’s cruise-ship reconstruction: the save was a trap; X cut ties.
+[says] (p.148) “I…can’t be saved. Even though I’m suffering so much…”
+[note] (p.149) Lips part for the name, then: “K-knock…it…off.”
+[says] (p.149) “No matter how many times you ask me…I’ll never, ever tell you… creep.”
+[says] (p.149) “I’ll never give you the name.”
+[says] (p.149) “I don’t know why.”
+[says] (p.149) “I want to stand tall until the very end!”
+[note] (p.150) Ryuuen’s respect; she tells herself this is fine — she protected him even if he betrayed her.
+[note] (p.150) Life with Kiyotaka was exciting; she had fun playing supporting actress from the wings.
+[says] (p.150) “Goodbye, fake me.”
+[says] (p.150) “Welcome home to the cold, empty Karuizawa of the past.”
+[feat] (p.142–150) Under four bucket dousings and the threat of total exposure, she never says the name.
+[trait] (p.136–150) Breaks in voice but not in choice; chooses the school life she built over the exit Ryuuen offers.
+[rel:ryuuen-kakeru] (p.136–150) The torturer who finally admires her.
+[rel:ayanokouji-kiyotaka] (p.142–150) The name she keeps.
+[rel:ibuki-mio] (p.136–141) The girl holding her.
+[rel:ishizaki-daichi] (p.136–140) The boy pouring water.
+[rel:hirata-yousuke] (p.136–150) The first protector, re-read as a tool.
+[rel:manabe-shiho] (p.136–147) The old enemy behind the setup.
+[rel:morofuji-rika] (p.147) Named in the ship story.
+
+<!-- walk: y1v7 ch5 → p.151 -->

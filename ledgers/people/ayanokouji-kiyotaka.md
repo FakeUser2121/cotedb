@@ -3593,3 +3593,18 @@ walk: y1v1 → DONE
 [note] (p.105, 119) Short scans (footer only).
 
 <!-- walk: y1v7 ch4 → p.119 -->
+
+### y1v7 p.142, 146–150 — Ch.5 half2: the name she will not say
+[note] (p.142) Named Kiyotaka inside Karuizawa’s POV — the promise to protect her is her final defense against the darkness.
+[note] (p.146) Ryuuen says X cut all ties when identity was about to be exposed; Karuizawa refuses to believe it at first.
+[note] (p.147) Her POV: Yousuke-kun’s lowest-floor call was Kiyotaka’s instruction; the save was a setup.
+[note] (p.148) She concludes she was caught in his trap and abandoned at the crucial moment.
+[note] (p.149) Starts to speak the name — “K…t…” — then turns it into “K-knock…it…off.” Never gives the name.
+[says:karuizawa-kei] (p.149) “No matter how many times you ask me…I’ll never, ever tell you… creep.”
+[says:karuizawa-kei] (p.149) “I’ll never give you the name.”
+[note] (p.150) She counts him with Yousuke-kun as the ones who protected her; no regrets, though she still hoped he would come.
+[rel:karuizawa-kei] (p.142–150) The girl who keeps his name behind her teeth.
+[rel:ryuuen-kakeru] (p.146–149) The man who tries to extract that name.
+[rel:hirata-yousuke] (p.147, 150) The other protector in her accounting.
+
+<!-- walk: y1v7 ch5 → p.151 -->

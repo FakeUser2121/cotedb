@@ -322,6 +322,10 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y1v6 ch6 → p.176 -->
 
+## y1v7
+
+<!-- walk: y1v7 → start -->
+
 ### y1v7 p.51–52 — Ch.3: candidate, then cleared
 [scene] (p.51) Proposed as the Class D mastermind because he is brilliant, athletic and perfect — then ruled out.
 [note] (p.51) Haruka: maybe the personality is a front for a cold schemer.
@@ -388,3 +392,10 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [trait] (p.100–117) Arrogance as armor; hair and mirror as props; claims total indifference while reading Ryuuen’s game perfectly; the storm was him.
 
 <!-- walk: y1v7 ch4 → p.119 -->
+
+### y1v7 p.123 — Ch.5 §5.1: the press nobody knows
+[scene] (p.123) Named in one line of Ryuuen’s plan notes; the reason stays hidden from his own followers.
+[note] (p.123) Ibuki and the rest do not know the real reason Ryuuen pressed Kouenji after the Paper Shuffle.
+[rel:ryuuen-kakeru] (p.123) The Class D student he separately pressed while keeping the true aim from Class C.
+
+<!-- walk: y1v7 ch5 → p.151 -->

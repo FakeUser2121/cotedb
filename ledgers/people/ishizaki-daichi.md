@@ -111,3 +111,36 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [rel:sakayanagi-arisu] (p.115) Indirectly checked by her interruption.
 
 <!-- walk: y1v7 ch4 → p.119 -->
+
+### y1v7 p.122–134 — Ch.5 §5.1–5.2: the buckets and the blunder
+[scene] (p.122) Looks restless as Ryuuen calls the time; takes the bag of indispensable items.
+[says] (p.122) “It’s time, isn’t it, Ryuuen-san?”
+[says:ryuuen-kakeru] (p.122) “Let’s make the most of today,”
+[says] (p.125) “I-I won’t run. I’ll follow you, Ryuuen-san.”
+[says] (p.125) “This is extreme, Ryuuen-san. A bunch of us ganging up on and bullying a girl? I mean, there are cameras on the rooftop!”
+[says] (p.131) “Ryuuen-san, she’s right. We have no way to know if she’s telling us the truth.”
+[note] (p.131) Gives Karuizawa an escape route; Ryuuen’s look shuts him up.
+[says:ryuuen-kakeru] (p.134) “Ishizaki, go fill some buckets with water. Let’s start with two. There are two cleaning buckets in the men’s bathroom one floor below. No one should be using it right now.”
+[says] (p.134) “Huh? Water? What for?”
+[says:ryuuen-kakeru] (p.134) “Are you going to defy me, too?”
+[says] (p.134) “N-no. I’ll get them!”
+[note] (p.134) Panics and runs past Ibuki, looking as if he is about to trip over his own feet.
+[trait] (p.122–134) Eager to follow, slow to grasp the plan; loyalty outruns comprehension.
+[rel:ryuuen-kakeru] (p.122–134) Direct orders he carries without understanding them.
+[rel:karuizawa-kei] (p.131, 134) The girl he is told to fetch water for.
+[rel:ibuki-mio] (p.122, 125, 134) Fellow operative on the roof.
+
+### y1v7 p.136–140 — Ch.5 half2: buckets, shame, and more water
+[says] (p.136) “Ugh…oof. S-sorry to have kept you waiting.”
+[note] (p.136) Returns with two nearly full buckets; contents splash violently.
+[note] (p.137) Wears a look of shame when Ryuuen recounts the fake-camera confession trick from the Sudou incident.
+[says] (p.137) “Y-Yes… I was j-just, well, that just shook me a bit…”
+[note] (p.139) Dumps the first bucket on Karuizawa’s head on signal.
+[note] (p.140) Sent downstairs for more water when ordered; picks up the empty buckets and goes.
+[trait] (p.136–140) Obedient muscle who still flinches at his own past failure.
+[rel:ryuuen-kakeru] (p.136–140) Takes every order, including the dousing.
+[rel:karuizawa-kei] (p.139–140) The girl he pours water on.
+[rel:ibuki-mio] (p.136–137) Fellow Class C on the roof.
+[rel:sudou-ken] (p.137) The old target named in his shame.
+
+<!-- walk: y1v7 ch5 → p.151 -->

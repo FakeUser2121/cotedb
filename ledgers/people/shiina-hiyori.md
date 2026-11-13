@@ -55,6 +55,10 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 
 <!-- walk: y1v6 ch7 → p.209 -->
 
+## y1v7
+
+<!-- walk: y1v7 → start -->
+
 ### y1v7 p.39–46, 48–49 — Ch.3: the library lunch
 [scene] (p.39) Struggling with Wuthering Heights on a high shelf when Ayanokōji arrives; turns into cafeteria lunch and a book trade.
 [says:shiina-hiyori] (p.39) “You’re Ayanokouji-kun, right?”
@@ -80,3 +84,20 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [note] (pp.65–97) Not named in the second half of this chapter.
 
 <!-- walk: y1v7 ch3 → p.97 -->
+
+### y1v7 p.121–122 — Ch.5 §5.1: the library good-bye
+[scene] (p.121) Sits beside Ryuuen as Class C grows restless on the closing-ceremony day.
+[says:ryuuen-kakeru] (p.121) “What?”
+[says] (p.121) “Everyone seems really restless today, don’t they?”
+[says] (p.121) “What are you planning?”
+[says:ryuuen-kakeru] (p.122) “I’m going to confront my entertaining quarry of these past several months. You wanna come?”
+[says] (p.122) “No, I must decline. I don’t quite see how that would be fun.”
+[says] (p.122) “Do you really need to hunt them down?”
+[says] (p.122) “Nothing. I suppose that’s for you to decide, Ryuuen-kun, as our class’s leader.”
+[says] (p.122) “I’ll be in the library. If there’s any trouble, please contact me.”
+[says:ryuuen-kakeru] (p.122) “It’s not like you’ll be of any use, though, is it?”
+[says] (p.122) “I suppose you’re right. Well, have a nice winter vacation.”
+[trait] (p.121–122) Calm inside Ryuuen’s orbit; declines the confrontation as not fun, then leaves for the library without fear.
+[rel:ryuuen-kakeru] (p.121–122) Class leader she addresses as Ryuuen-kun; clever but conflict-averse, which he files as useless as a pawn.
+
+<!-- walk: y1v7 ch5 → p.151 -->

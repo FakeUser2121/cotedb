@@ -1207,3 +1207,10 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:ike-kanji] (p.100) Around the theory circle without entering it.
 
 <!-- walk: y1v7 ch4 → p.119 -->
+
+### y1v7 p.123 — Ch.5 §5.1: the traitor whose name stays shut
+[scene] (p.123) Named only as the girl Ryuuen will not publicly credit for the Karuizawa email address.
+[note] (p.123) He got Karuizawa’s email address from another girl in her class and avoids saying the traitor’s name; Kushida Kikyou’s part stays unneeded for now.
+[rel:ryuuen-kakeru] (p.123) The Class D leak he deliberately keeps quiet about while using her information.
+
+<!-- walk: y1v7 ch5 → p.151 -->

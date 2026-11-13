@@ -51,3 +51,15 @@ char_id: morofuji-rika · class: Class 1-D · status: minor (allies)
 [rel:karuizawa-kei] (p.72) The treated Rika horribly claim is the Class C side of the cruise incident.
 [note] (p.72) Rika does not appear in person; only the name in Manabe’s speech.
 <!-- walk: y1v6 ch4 → p.75 -->
+
+## y1v7
+
+<!-- walk: y1v7 → start -->
+
+### y1v7 p.147 — Ch.5 half2: the friend Manabe wanted to avenge
+[scene] (p.147) Named only inside Ryuuen’s cruise-ship reconstruction — the girl whose bullying Manabe meant to pay back.
+[note] (p.147) Ryuuen says Manabe wanted to get back at Karuizawa for being mean to her friend Morofuji but lacked a good opportunity until the lowest-floor summons.
+[rel:manabe-shiho] (p.147) The friend whose injury drives Manabe’s old grudge.
+[rel:karuizawa-kei] (p.147) The target of that grudge on the ship.
+
+<!-- walk: y1v7 ch5 → p.151 -->

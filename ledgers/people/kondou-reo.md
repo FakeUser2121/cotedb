@@ -35,9 +35,20 @@ char_id: kondou-reo · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y1v6 ch6 → p.176 -->
 
+## y1v7
+
+<!-- walk: y1v7 → start -->
+
 ### y1v7 p.98 — Ch.4: in the raid party
 [note] (p.98) Named with Komiya as part of Ryuuen’s classroom storm.
 [rel:ryuuen-kakeru] (p.98) Follower in the Class D visit.
 [rel:komiya-kyogo] (p.98) The pair inside the door.
 
 <!-- walk: y1v7 ch4 → p.119 -->
+
+### y1v7 p.138 — Ch.5 half2: the upperclassmen dead end
+[note] (p.138) Named with Komiya as students who once asked upperclassmen for exam hints and got nothing — felt like asking was not even allowed.
+[rel:komiya-kyogo] (p.138) The pair who hit the same wall.
+[rel:ryuuen-kakeru] (p.138) Evidence he cites for the school’s silent-generation rule.
+
+<!-- walk: y1v7 ch5 → p.151 -->

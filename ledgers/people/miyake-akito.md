@@ -201,3 +201,11 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [trait] (p.100–107) First to propose action; blunt on Ryuuen’s chin-king posture.
 
 <!-- walk: y1v7 ch4 → p.119 -->
+
+### y1v7 p.120, 123 — Ch.5 §5.1: on the tail list
+[scene] (p.120) Named among the delinquents Class C is tailing after the Paper Shuffle.
+[note] (p.120) Grouped with Sudou as a weakling-excluded suspect class; Hirata is the conservative contrast.
+[note] (p.123) Ishizaki and the other guys were ordered to keep an eye on Miyake and a few more people; Ibuki and the rest are not told the real reason.
+[rel:ryuuen-kakeru] (p.120–123) One of the Class D students his surveillance net watches.
+
+<!-- walk: y1v7 ch5 → p.151 -->

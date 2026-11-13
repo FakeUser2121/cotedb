@@ -243,3 +243,25 @@ char_id: manabe-shiho · class: Class 1-C · status: minor
 [rel:ayanokouji-kiyotaka] (p.82) The intervention that created the pipeline.
 
 <!-- walk: y1v7 ch3 → p.97 -->
+
+### y1v7 p.123–131 — Ch.5 §5.1–5.2: the leverage behind the roof
+[scene] (p.123) Her name and her friends are the pressure Ryuuen uses to force Karuizawa onto the rooftop.
+[note] (p.123) Strategy is kept from Ibuki and the rest to eliminate the possibility of spies like Manabe and her friends.
+[note] (p.123) Karuizawa is described as the reason Manabe and her friends were strong-armed into spying on Class C for Class D.
+[note] (p.125) Ryuuen plans to reproduce the vicious past bullying Manabe reported, so Karuizawa loses control in a similar scenario.
+[note] (p.127–131) Her name in the threat message is enough; Ryuuen then lays out how X used the bullying evidence to bind them during the sports festival.
+[rel:karuizawa-kei] (p.123–131) The old enemy whose report gives Ryuuen the card he plays on the roof.
+[rel:ryuuen-kakeru] (p.123–131) The Class C leader who turns her past crime into his instrument.
+
+### y1v7 p.136, 139–140, 144, 146–147 — Ch.5 half2: the grudge behind the ship
+[note] (p.136) Her name is the proof Ryuuen uses: X only learned Karuizawa’s past after the spat with Manabe and her friends.
+[note] (p.139) Ryuuen says that based on what Manabe told him, the fierce Karuizawa would buckle under this treatment.
+[note] (p.140) Named again when he demands who is keeping her and her friends quiet.
+[note] (p.144) Ryuuen’s pressure line: he is not merciful like Manabe and her friends.
+[note] (p.146) Karuizawa’s POV recalls the lowest-floor summon and Manabe’s group showing up.
+[note] (p.147) The cruise-ship reconstruction: Manabe wanted payback for Morofuji, and X contacted her to set the trap.
+[rel:karuizawa-kei] (p.136–147) The old enemy whose report is the weapon.
+[rel:ryuuen-kakeru] (p.136–147) The Class C leader who turns her crime into leverage.
+[rel:morofuji-rika] (p.147) The friend she meant to avenge.
+
+<!-- walk: y1v7 ch5 → p.151 -->
