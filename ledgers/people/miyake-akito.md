@@ -189,3 +189,15 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [trait] (p.90–95) Practical about cold and club; the group’s brake on vicious gossip.
 
 <!-- walk: y1v7 ch3 → p.97 -->
+
+### y1v7 p.100–107 — Ch.4: named in the smoke-out
+[scene] (p.100) Asks whether the group should follow; trails the path; named acceptable by Ryuuen’s bait.
+[says:miyake-akito] (p.100) “Should we go check it out, Kiyotaka?” asked Akito.
+[says:miyake-akito] (p.100) “They may have something planned.”
+[says:miyake-akito] (p.107) “It’s like he thinks he’s a king. Bossing his classmates around just by moving his chin,” he spat.
+[rel:ayanokouji-kiyotaka] (p.100–101) Asks him first; trails with Yukimura.
+[rel:ryuuen-kakeru] (p.106–107) Named in the acceptable trio; answered with the born-this-way line.
+[rel:yukimura-teruhiko] (p.101) The pair Ayanokōji asks to wait with him.
+[trait] (p.100–107) First to propose action; blunt on Ryuuen’s chin-king posture.
+
+<!-- walk: y1v7 ch4 → p.119 -->

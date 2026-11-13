@@ -335,3 +335,56 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:chabashira-sae] (p.73) Named student in her concealed desire.
 
 <!-- walk: y1v7 ch3 → p.97 -->
+
+### y1v7 p.100–117 — Ch.4: the bait who does not care
+[scene] (p.100) Leaves the classroom through the raid without looking back; ends at the rest area styling hair with Ryuuen’s hands for a mirror.
+[says:kouenji-rokusuke] (p.103) “What’re you doing? I don’t recall behaving in any way that’d warrant you flagging me down.”
+[says:kouenji-rokusuke] (p.103) “Hmph. You certainly don’t, either,” replied Kouenji.
+[says:kouenji-rokusuke] (p.103) “Of course. You’re Class C’s obnoxious dictator, aren’t you?” said Kouenji.
+[says:kouenji-rokusuke] (p.103) “My apologies. I’m afraid I must’ve been busy, whenever you missed me,” said Kouenji, smoothing his hair back.
+[says:kouenji-rokusuke] (p.104) “However, you just said something I’m afraid I cannot overlook. When you said ‘freak,’ were you referring to me?”
+[says:kouenji-rokusuke] (p.106) “Well, even though I find your statement entirely baffling, I suppose I’ll just let it go. I’m quite a magnanimous fellow, you see. I have a date, so let’s wrap things up quickly, shall we?”
+[says:kouenji-rokusuke] (p.106) “Well, I suppose we’ll discuss your business over there,” he said eventually, pointing to a rest area up ahead.
+[says:kouenji-rokusuke] (p.106) “Then follow me.”
+[says:kouenji-rokusuke] (p.107) “I don’t particularly mind playing around, but it seems that my presence here isn’t a necessity. Would you agree?” asked Kouenji.
+[says:kouenji-rokusuke] (p.107) “A debt? I haven’t the foggiest notion of what you mean.”
+[says:kouenji-rokusuke] (p.107) “Ah. If I impeded you, you have my apologies.”
+[says:kouenji-rokusuke] (p.107) “It’s quite windy today. I’m making sure my debonair hairdo isn’t mussed up.”
+[says:kouenji-rokusuke] (p.108) “I’m looking tragically disheveled. Sorry, but would you mind holding this?”
+[says:kouenji-rokusuke] (p.108) “You may aim the mirror toward me,” said Kouenji.
+[says:kouenji-rokusuke] (p.108) “You really are quite the scoundrel. That mirror was rather expensive, you know.”
+[says:kouenji-rokusuke] (p.108) “Tch. In that case, will you kindly release my arm so I may finish styling my hair? Of course, I’m the kind of man who’d look good even with disheveled hair,” said Kouenji.
+[says:kouenji-rokusuke] (p.109) “I don’t mind that our audience has grown, but isn’t it about time that we end this? If we aren’t going to talk, I’ll be on my way.”
+[says:kouenji-rokusuke] (p.109–110) “My apologies that our conversation was delayed. I think we should get to the heart of the matter. I surmise that you’re fixated on defeating whomever gets in Class C’s way, or whomever forms an … alliance with another class to do exactly that. Am I wrong?”
+[says:kouenji-rokusuke] (p.110) “And now, such an obstreperous person has appeared within Class D. So, you’re searching for this hindrance,” said Kouenji.
+[says:kouenji-rokusuke] (p.110) “In that case, I’m afraid I don’t fit the profile. I have absolutely no interest whatsoever in Class D’s future, nor in any of the other classes. I’ve contributed nothing noteworthy to any exam thus far, and I have no intention of doing so. Tell me, are you truly fixated on making such a person your enemy?”
+[says:kouenji-rokusuke] (p.110) “Oh ho. You seem to be quite the knowledgeable fellow.”
+[says:kouenji-rokusuke] (p.110) “Oh, that. I was simply saving time. I didn’t really feel like participating in those bothersome meetings, so I decided to end it and enjoy my freedom again. Nothing more,” said Kouenji.
+[says:kouenji-rokusuke] (p.110) “I suppose that’s possible. But if it’s the conclusion you’ve settled on, it must mean you’re a moron with a paltry intellect,” said Kouenji.
+[says:kouenji-rokusuke] (p.111) “Yes. You’re quite perceptive, Dragon Boy.”
+[says:kouenji-rokusuke] (p.111) “Now that’s just nonsensical. You wouldn’t do that here, with this large of an audience. It wouldn’t benefit you at all.”
+[says:kouenji-rokusuke] (p.111) “I see. I suppose that if you did choose that option, I’d defend by pride and knock down everyone who came at me,” said Kouenji.
+[says:kouenji-rokusuke] (p.111) “You could do that by yourself?”
+[says:kouenji-rokusuke] (p.111) “I find it harder to imagine why I couldn’t.”
+[says:kouenji-rokusuke] (p.111) “So glad to have cleared up this misunderstanding,” replied Kouenji.
+[says:kouenji-rokusuke] (p.114) “Are we finished here? I have no intention of denying you your fun, but I’d like for you to get out of my way. I’ve wasted enough time listening to your meaningless drivel,” said Kouenji.
+[says:kouenji-rokusuke] (p.114) “Something about a clever person in Class D, was it? To be honest, I hadn’t even considered it. At any rate, it’s probably better if I don’t tell you, right? You’re doing whatever it takes to hunt this person down, even if it means putting yourself at risk. I don’t wish to rob you of your fun. As for me, I don’t care for anyone in this school. I’m simply enjoying the halcyon days of my youth, romancing beautiful women and basking in my own beauty.”
+[says:kouenji-rokusuke] (p.114) “So, you’re saying you won’t help your own class?”
+[says:kouenji-rokusuke] (p.115) “I haven’t, and I won’t. I said that all along. From my perspective, Class A and Class D are the same. All of you people are so dreadfully boring.”
+[says:kouenji-rokusuke] (p.116) “Did I really hurt your feelings that much, little girl?” Kouenji pointed at Sakayanagi
+[says:kouenji-rokusuke] (p.116) “That’s not for you to decide. Calling you a little girl is appropriate, considering your age and physique,” replied Kouenji.
+[says:kouenji-rokusuke] (p.116) “Being a slave to common practice isn’t my style,” said Kouenji.
+[says:kouenji-rokusuke] (p.116) “I have no business with Class A. Leave now,” commanded Kouenji.
+[says:kouenji-rokusuke] (p.116) “Allow me to correct this boy’s behavior,” said Kitou to Sakayanagi. — wrong speaker, remove
+[says:kouenji-rokusuke] (p.116) “Ha ha! Well, I don’t mind you fighting over me. Unfortunately, my tastes in both men and women run toward older people,” said Kouenji.
+[says:kouenji-rokusuke] (p.117) “Very well, then. See you,” said Kouenji.
+[rel:ryuuen-kakeru] (p.100–117) Dictator, freak, Dragon Boy, moron — the whole rest-area duel.
+[rel:sakayanagi-arisu] (p.109–116) Little-girl jab; the audience he does not need.
+[rel:horikita-suzune] (p.106–108) Shards picked after his arm is released.
+[rel:sudou-ken] (p.106–108) Fists and glass around him.
+[rel:hashimoto-masayoshi] (p.115) One of the three Class A faces he toys with.
+[rel:kitou-hayato] (p.116) Correct-the-boy offer he waves off.
+[rel:ibuki-mio] (p.103) With the path pack watching.
+[trait] (p.100–117) Arrogance as armor; hair and mirror as props; claims total indifference while reading Ryuuen’s game perfectly; the storm was him.
+
+<!-- walk: y1v7 ch4 → p.119 -->

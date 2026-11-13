@@ -72,3 +72,10 @@ char_id: komiya-kyogo · class: Class 1-C (enrolled April 2015) · status: minor
 [note] (pp.65–97) Not named in the second half of this chapter.
 
 <!-- walk: y1v7 ch3 → p.97 -->
+
+### y1v7 p.98 — Ch.4: in the raid party
+[note] (p.98) Named with Kondou as part of Ryuuen’s classroom storm.
+[rel:ryuuen-kakeru] (p.98) Follower in the Class D visit.
+[rel:kondou-reo] (p.98) The pair inside the door.
+
+<!-- walk: y1v7 ch4 → p.119 -->

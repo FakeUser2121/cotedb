@@ -15,3 +15,15 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [says] (p.107) “You really are blind, huh, Katsuragi-kun?” Hashimoto sneered.
 [says] (p.107) “Like you said, it would be ever so annoying if we made you think we weren’t cooperating.”
 [trait] (p.106–107) Gentle expression, harsh cynical eyes; the doubt is public, the timing too strange to be his alone.
+
+### y1v7 p.112, 115 — Ch.4: the block and the cover
+[scene] (p.112) Named with Kamuro as Sakayanagi’s island-intel source; p.115 eats Ryuuen’s kick blocking her face.
+[says:hashimoto-masayoshi] (p.112) “That’s going too far, Kitou. Ryuuen isn’t that much of an idiot,” replied another. I think it was Hashimoto, or whatever his name was.
+[says:hashimoto-masayoshi] (p.115) “No. I fell over.” Hashimoto slowly got back up, dusting himself off.
+[rel:sakayanagi-arisu] (p.112–115) Intel source for her needles; bodyguard who takes the kick and lies about it.
+[rel:ryuuen-kakeru] (p.112, 115) The kicker he blocks without pressing charges.
+[rel:kitou-hayato] (p.112) Fellow coterie member named in the same breath.
+[rel:kamuro-masumi] (p.112) Paired as the island-strategy sources.
+[trait] (p.112–115) Dry counter-needling; eats concrete and calls it a fall to keep the peace.
+
+<!-- walk: y1v7 ch4 → p.119 -->

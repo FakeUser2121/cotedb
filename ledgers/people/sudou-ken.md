@@ -1044,3 +1044,32 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:miyake-akito] (p.81) The other named surveillance target.
 
 <!-- walk: y1v7 ch3 → p.97 -->
+
+### y1v7 p.98–118 — Ch.4: fists, glass and the manga aside
+[scene] (p.98) First to react in the classroom; trails Horikita down the path; picks the broken mirror shards.
+[says:sudou-ken] (p.98) “Hey, what’s goin’ on? This is Class D.” Sudou was the first to react.
+[says:sudou-ken] (p.99) “Heh. Guess the only thing big about you is your head, you incompetent monkey. Time for you to get a taste of being Class D,” said Sudou.
+[says:sudou-ken] (p.99) “So, you do remember my name,” said Sudou.
+[says:sudou-ken] (p.102) “Could be a serious fight,” said Sudou to Horikita, clenching his fists.
+[says:sudou-ken] (p.102) “Well, ’cuz I’m worried about you, Suzune, you know? There are rumors that Ryuuen will even hit girls.”
+[says:sudou-ken] (p.102) “Not to worry. Still got a little time left until practice. Let’s hurry up and find Kouenji.” Sudou was going nowhere.
+[says:sudou-ken] (p.103) “It’s just like Suzune predicted. Let’s stop ’em,” said Sudou, looking to Horikita for orders.
+[says:sudou-ken] (p.106) “Seems like we’d better go over there, too,” said Sudou.
+[says:sudou-ken] (p.106) “I’m here too, Ryuuen,” said Sudou, smashing his fists together.
+[says:sudou-ken] (p.108) “I’ll do it. You might hurt your hands,” said Sudou to Horikita.
+[says:sudou-ken] (p.108) “Don’t say stupid stuff like that. I can’t let a girl get hurt.” Sudou moved Horikita aside and began picking up the fragments.
+[says:sudou-ken] (p.113) “Huh? What?! Are you really okay with that?” cried Sudou.
+[says:sudou-ken] (p.114) “Ugh. So, Class C’s basically got a guaranteed monthly allowance?” grumbled Sudou.
+[says:sudou-ken] (p.116) “The heck is with that guy? Will a demon appear if he takes those gloves off or something?” Sudou muttered.
+[says:sudou-ken] (p.116) “You don’t know? It’s from this old manga that used to be real popular. There’s this dude, and when he takes off his white glove, a demon shows up to fight devils,” said Sudou.
+[says:sudou-ken] (p.117) “You’ve been muttering a bunch of crap for a while now,” grumbled Sudou, clenching his fists. “I don’t get what you’re sayin’ at all.”
+[says:sudou-ken] (p.118) “What—?!”
+[says:sudou-ken] (p.118) “What’s Ryuuen’s deal? You think he’s up to something?” Sudou groused.
+[rel:horikita-suzune] (p.98–108) Protects her; rebuffed; shares the shard duty.
+[rel:ryuuen-kakeru] (p.99–118) Monkey insults both ways; fists-ready; clueless at the narrowed list.
+[rel:kouenji-rokusuke] (p.102–106) Wants to stop the pack; follows to the rest area.
+[rel:sakayanagi-arisu] (p.113–116) Stunned by the contract; white-glove manga aside.
+[rel:kitou-hayato] (p.116) The gloves the manga aside is about.
+[trait] (p.98–118) Defensive not offensive this time; chivalrous to a fault; pop-culture guess that lands next to the gloves.
+
+<!-- walk: y1v7 ch4 → p.119 -->

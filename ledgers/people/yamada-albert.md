@@ -34,3 +34,10 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 [rel:ryuuen-kakeru] (p.70) Albert, who stood quietly by Ryuuen’s side, also reacted slightly when entrance-ceremony violence is cited; both once resisted and were broken.
 [note] (p.70) No dialogue from Albert on these pages.
 <!-- walk: y1v6 ch4 → p.75 -->
+
+### y1v7 p.98 — Ch.4: in the raid party
+[note] (p.98) Named Yamada Albert with Ryuuen, Ishizaki, Komiya and Kondou in the classroom storm.
+[rel:ryuuen-kakeru] (p.98) Follower in the Class D visit.
+[rel:ishizaki-daichi] (p.98) Fellow path and classroom muscle.
+
+<!-- walk: y1v7 ch4 → p.119 -->

@@ -2563,3 +2563,39 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ayanokouji-kiyotaka] (p.73–94) Still the official strategist shadow even as he retires from the ticket.
 
 <!-- walk: y1v7 ch3 → p.97 -->
+
+### y1v7 p.98–118 — Ch.4: the path and the shards
+[scene] (p.98) Packing up when Class C storms in; walks the path, calls Ryuuen off Kouenji, and picks glass with Sudou.
+[says:horikita-suzune] (p.100) “This is really bad, isn’t it?” asked Horikita, while I was deep in thought.
+[says:horikita-suzune] (p.102) “Don’t be funny. Violence between Classes D and C is nothing to laugh about. More importantly, why are you following me?”
+[says:horikita-suzune] (p.102) “I’m not so soft that I need your protection,” said Horikita.
+[says:horikita-suzune] (p.102) “Besides, though I may be worrying needlessly, what about your club?” asked Horikita.
+[says:horikita-suzune] (p.102) “For crying out loud. I don’t want a troublemaker tailing me around,” she muttered.
+[says:horikita-suzune] (p.103) “Let’s wait and see what happens. We still don’t know what Ryuuen-kun’s after,” reasoned Horikita.
+[says:horikita-suzune] (p.106) “Don’t say or do anything reckless. Understand?”
+[says:horikita-suzune] (p.106) “Ryuuen-kun,” Horikita called to Ryuuen. “What are you planning? If you try anything, we’re going to have trouble.”
+[says:horikita-suzune] (p.107) “This isn’t going to go the way you think,” said Horikita.
+[says:horikita-suzune] (p.107) “Stop,” Horikita said.
+[says:horikita-suzune] (p.108) “Knock it off, Ryuuen-kun.”
+[says:horikita-suzune] (p.108) “Aren’t you just attacking him? This seems one-sided. He doesn’t want this.”
+[says:horikita-suzune] (p.108) “I don’t mind. It’d be more of a problem if the glass cut you, because you have your club.”
+[says:horikita-suzune] (p.108) “I’m not doctoring you if you get cut,” said Horikita. Sudou ignored that and kept picking up the pieces.
+[says:horikita-suzune] (p.114) “Don’t let them fool you, Sudou-kun. Class C could’ve obtained those class points themselves, but they wasted them. They gained nothing,” said Horikita.
+[says:horikita-suzune] (p.114) “Wrong. It seems similar, but it’s not. All you’re getting is private points. They have nothing to do with class points.”
+[says:horikita-suzune] (p.115) “Stop this at once. What you just did is horrible,” Horikita started, but Sakayanagi stopped her.
+[says:horikita-suzune] (p.115) “Tch. Both you and Ryuuen-kun are lunatics,” Horikita said.
+[says:horikita-suzune] (p.115) “For crying out loud…” muttered Horikita. Her exasperation was understandable.
+[says:horikita-suzune] (p.117) “Yeah. I can’t stand being here a moment longer. Although…I must say, Ryuuen-kun seemed less interested in Kouenji-kun than I anticipated,” mused Horikita.
+[says:horikita-suzune] (p.118) “Your actions are bizarre and incomprehensible, Ryuuen-kun,” she said.
+[says:horikita-suzune] (p.118) “I’m not listening to anything you have to say. This is a waste of time. In future, stop approaching my classmates,” said Horikita.
+[says:horikita-suzune] (p.118) “Finally. Let’s go. We should tell Hirata-kun about this,” said Horikita.
+[says:horikita-suzune] (p.118) “Who knows? I doubt anyone truly understands how his mind works.”
+[rel:ryuuen-kakeru] (p.106–118) Calls the bait; refuses the violence frame; files his interest in Kouenji as lower than expected.
+[rel:kouenji-rokusuke] (p.103–108) Waits on the confrontation; picks his glass shards.
+[rel:sudou-ken] (p.102–108) Chivalry rebuffed; glass-pick partner; “not doctoring you.”
+[rel:sakayanagi-arisu] (p.109–115) Stops Horikita’s protest after the kick; lunatic line covers both leaders.
+[rel:hirata-yousuke] (p.118) Plan is to report the rest-area scene to him.
+[rel:ayanokouji-kiyotaka] (p.100, 117) “Maybe”; walk-home partner.
+[trait] (p.98–118) Holds the line without swinging; correct on private vs class points; exasperated by both dragon and doll.
+
+<!-- walk: y1v7 ch4 → p.119 -->

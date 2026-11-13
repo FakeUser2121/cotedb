@@ -192,3 +192,39 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [trait] (p.94–95) Cursory, correct, untouchable; war declared and then nothing — the pattern Ayanokōji files.
 
 <!-- walk: y1v7 ch3 → p.97 -->
+
+### y1v7 p.109–118 — Ch.4: the perfect timing
+[scene] (p.109) Arrives with three followers at the rest area; needles Ryuuen on the contract; takes the kick Hashimoto blocks.
+[says:sakayanagi-arisu] (p.109) “My, this is quite an interesting collection of people, isn’t it?” someone said.
+[says:sakayanagi-arisu] (p.109) “I’m here purely by coincidence,” said Sakayanagi.
+[says:sakayanagi-arisu] (p.109) “To think I’d stumble on Class C’s major players having it out with some Class D students. Are you planning a Christmas party?”
+[says:sakayanagi-arisu] (p.109) “Come now, there’s no need to say that. If you’re party-planning, the more the merrier. Wouldn’t you agree? May I join you?”
+[says:sakayanagi-arisu] (p.109) “Of course. I wouldn’t dream of embarrassing the party organizer,” said Sakayanagi.
+[says:sakayanagi-arisu] (p.111) “May I have a moment?” Sakayanagi seemed as if she was trying to keep Kouenji from speaking. “This is a fascinating conversation. Someone in Class D is getting in Class C’s way, are they? I heard rumors that Dragon Boy-san was searching for such a person, but is that really true?”
+[says:sakayanagi-arisu] (p.112) “My, my, you don’t like it? I think it’s a wonderful nickname. Sorry. Anyway, there’s something here that I don’t quite understand.”
+[says:sakayanagi-arisu] (p.112) “Someone in Class D saw through your plans and defeated you,” she continued. “Is that all there is to it? This school is fundamentally designed to pit classes against each other. You and I have clashed numerous times in this manner. I don’t know who this Class D student is, but they’re employing excellent strategy by remaining anonymous while waging war on you. Are you really going to expend all this energy on interrogating an unrelated student? Honestly, I can’t see your actions as anything but rather pathetic.”
+[says:sakayanagi-arisu] (p.112) “I see. So, you intend to resort to extortion and blackmail if you must?”
+[says:sakayanagi-arisu] (p.112) “If you do that, not only will you appear pathetic, but you’ll also reveal your own incompetence. I heard quite a bit already from Masumi-san and Hashimoto-kun about the strategy you used on the island, and how your tricks failed. If you regard the situation objectively, it’s clear that Kouenji wasn’t involved, isn’t it? Besides, I heard that the mastermind was Horikita Suzune-san, the girl standing right over there. I wonder—does this person you’re searching for even exist in the first place?” Sakayanagi asked
+[says:sakayanagi-arisu] (p.113) “A contract? Ah. ‘In exchange for assistance provided to Class A by Class C, private points will be paid as compensation,’ or something to that effect, yes? Specifically, there was a clause that said ‘twenty thousand private points will be paid per person per month until graduation,’ right?”
+[says:sakayanagi-arisu] (p.113) “It’s not against the rules,” said Sakayanagi. “It’s a contract both classes mutually agreed upon. We’d receive the class points that Class C should’ve received, and compensate them with private points in exchange.”
+[says:sakayanagi-arisu] (p.113) “If you wanted to tell everyone, you would’ve done so already. Besides, it was Katsuragi-kun who suggested the contract in the first place,” Sakayanagi replied definitively.
+[says:sakayanagi-arisu] (p.115) “Is there a problem with what just happened, Hashimoto-kun?”
+[says:sakayanagi-arisu] (p.115) “There you have it, Horikita-san.”
+[says:sakayanagi-arisu] (p.115) “I’m sorry, Ryuuen-kun. I’ve teased you too much,” said Sakayanagi.
+[says:sakayanagi-arisu] (p.115) “To return to my original question—what do you mean when you say that everyone here, myself included, is boring?”
+[says:sakayanagi-arisu] (p.116) “Tsk. Little girl, hmm? That’s a wonderful nickname,” Sakayanagi replied.
+[says:sakayanagi-arisu] (p.116) “Kouenji-san, was it? Your English could use some work. I’m not a little girl.”
+[says:sakayanagi-arisu] (p.116) “That is precisely where you’re mistaken. The appropriate usage of the words ‘little girl’ would be to describe girls of elementary school age. You cannot alter the rules of the world at will,” said Sakayanagi.
+[says:sakayanagi-arisu] (p.117) “Well, show’s over,” said Sakayanagi. “Shall we head back?”
+[says:sakayanagi-arisu] (p.117) “Of course. If you’re so certain you’ve defeated Class D, I’ll be your opponent anytime,”
+[rel:ryuuen-kakeru] (p.109–117) Dragon Boy, the contract reveal, the kick she does not flinch from.
+[rel:kouenji-rokusuke] (p.109–116) Little-girl rules debate; the boring-everyone question.
+[rel:hashimoto-masayoshi] (p.112, 115) Cited for island intel; takes the kick for her.
+[rel:kitou-hayato] (p.112, 115–116) White-glove bodyguard in the coterie.
+[rel:kamuro-masumi] (p.109) Named among the followers; island intel source.
+[rel:katsuragi-kouhei] (p.113–114) The contract she pins on him while absent from the island.
+[rel:horikita-suzune] (p.112, 115) Named as the rumored mastermind; stops her protest after the kick.
+[feat] (p.112–113) Recites the island contract clause from memory; turns Ryuuen’s hunt into a pathetic display in front of fifteen people.
+[trait] (p.109–118) Perfect timing as performance; never rises to the kick; leaves with the grand-finale still in play.
+
+<!-- walk: y1v7 ch4 → p.119 -->

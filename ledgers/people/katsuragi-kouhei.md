@@ -493,3 +493,14 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [rel:ichinose-honami] (p.87) The paired applicant.
 
 <!-- walk: y1v7 ch3 → p.97 -->
+
+### y1v7 p.113–114 — Ch.4: the contract signature
+[scene] (p.113) Named only inside the island-contract reveal — the Class A student who signed twenty-thousand private points per person per month.
+[note] (p.113) Ryuuen: “I used Katsuragi. I made him sign a contract with me.”
+[note] (p.113) Sakayanagi recites the clause from memory; Katsuragi suggested it.
+[note] (p.114) Absent from the island, he avoids responsibility; keeps a low profile while Sakayanagi runs the class.
+[rel:sakayanagi-arisu] (p.113–114) The signature under her faction’s shadow.
+[rel:ryuuen-kakeru] (p.113) The counterparty who used him.
+[rel:horikita-suzune] (p.114) Corrects Sudou on private vs class points around the deal.
+
+<!-- walk: y1v7 ch4 → p.119 -->

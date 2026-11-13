@@ -705,3 +705,10 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [trait] (p.70–76) Normally composed collapses under one reverse bluff; still threatens expulsion; ends out of ammo but not out of ambition.
 
 <!-- walk: y1v7 ch3 → p.97 -->
+
+### y1v7 p.98 — Ch.4: leaves without a word
+[note] (p.98) Glances at Ryuuen’s party and walks out; another-class visit is not a brawl, so she does not intervene.
+[rel:ryuuen-kakeru] (p.98) The visitor she ignores.
+[rel:ayanokouji-kiyotaka] (p.98) Left holding the classroom after her exit.
+
+<!-- walk: y1v7 ch4 → p.119 -->

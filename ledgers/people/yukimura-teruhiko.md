@@ -449,3 +449,14 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [trait] (p.90–96) Probability-brained even at karaoke; treats rivals as tactical facts, not gossip.
 
 <!-- walk: y1v7 ch3 → p.97 -->
+
+### y1v7 p.101, 106 — Ch.4: safety in numbers
+[scene] (p.101) Trails Ayanokōji into the hallway; named acceptable in Ryuuen’s bait read.
+[says:yukimura-teruhiko] (p.101) “I’ll come, too. Safety in numbers,” he reasoned.
+[says:yukimura-teruhiko] (p.101) “That was the right decision, Kiyotaka.” Keisei nodded. “Besides, Hirata’s better suited to calming the rest of the class down.”
+[rel:ayanokouji-kiyotaka] (p.101–106) Follows; approves the Hirata split.
+[rel:hirata-yousuke] (p.101) Judges him the right man for the classroom.
+[rel:ryuuen-kakeru] (p.106) One of the three named in the smoke-out.
+[trait] (p.101, 106) Calm arithmetic under pressure; trusts the division of labour.
+
+<!-- walk: y1v7 ch4 → p.119 -->

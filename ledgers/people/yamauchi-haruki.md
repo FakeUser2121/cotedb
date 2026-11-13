@@ -580,3 +580,11 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [note] (pp.65–97) Not named in the second half of this chapter.
 
 <!-- walk: y1v7 ch3 → p.97 -->
+
+### y1v7 p.100 — Ch.4: theory spin
+[says:yamauchi-haruki] (p.100) “They’re plannin’ to do something to Kouenji,” said Yamauchi.
+[says:yamauchi-haruki] (p.100) “Right?”
+[rel:ike-kanji] (p.100) The pair spinning theories.
+[rel:kouenji-rokusuke] (p.100) The named target of the theory.
+
+<!-- walk: y1v7 ch4 → p.119 -->

@@ -432,3 +432,10 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:ayanokouji-kiyotaka] (p.22) Speaker of the account; keeps other details back.
 
 <!-- walk: y1v7 ch2 → p.31 -->
+
+### y1v7 p.103 — Ch.4: with the path pack
+[note] (p.103) On the tree-lined path with the Class C group; did not accompany the classroom visit.
+[rel:ryuuen-kakeru] (p.103) Muscle for the path ambush.
+[rel:kouenji-rokusuke] (p.103) Part of the wall in front of him.
+
+<!-- walk: y1v7 ch4 → p.119 -->

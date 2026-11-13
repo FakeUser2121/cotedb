@@ -1543,3 +1543,11 @@ Nagumo warning, and a Sunday karaoke that ends with Ichinose and
 Sakayanagi walking past. Three new people ledgers open for Atsuomi, Matsuo
 and the full-name roster row. Determinism hash across consecutive builds:
 `98a820dae80bbdfcae620c91c34e90f6`.
+
+Year 1 Volume 7 chapter 4 is the rest-area insanity: Ryuuen’s classroom
+raid smokes the Class D suspects into the open, Kouenji trades insults
+while styling his hair, Sakayanagi recites the island contract and eats a
+kick Hashimoto blocks, and the Dragon Boy leaves with his list narrowed to
+the creep behind Horikita. Kitō Hayato opens a ledger for the white-glove
+bodyguard. Determinism hash across consecutive builds:
+`56d212bf5d41b6d17a9087cf7c70df6d`.

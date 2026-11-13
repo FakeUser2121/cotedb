@@ -41,3 +41,13 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [note] (p.31) Blank scan (footer only).
 
 <!-- walk: y1v7 ch2 → p.31 -->
+
+### y1v7 p.109, 112 — Ch.4: among the coterie
+[scene] (p.109) Named in Sakayanagi’s entourage at the rest area; cited as an island-intel source.
+[note] (p.109) The only follower Ayanokōji recognizes by name on arrival.
+[note] (p.112) With Hashimoto, cited by Sakayanagi for the island strategy and failed tricks.
+[rel:sakayanagi-arisu] (p.109–112) Follower and intelligence source.
+[rel:ryuuen-kakeru] (p.112) One of the sources that make Sakayanagi’s needles stick.
+[rel:hashimoto-masayoshi] (p.112) Paired as the pair who talked.
+
+<!-- walk: y1v7 ch4 → p.119 -->

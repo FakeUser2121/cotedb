@@ -1200,3 +1200,10 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:karuizawa-kei] (p.81) The pipeline that reached her.
 
 <!-- walk: y1v7 ch3 → p.97 -->
+
+### y1v7 p.100 — Ch.4: standing back
+[note] (p.100) Unusually quiet after the raid; murmurs to other girls but does not join the Ike–Yamauchi theories — perhaps Horikita’s Paper Shuffle defeat.
+[rel:horikita-suzune] (p.100) The defeat that may explain the withdrawal.
+[rel:ike-kanji] (p.100) Around the theory circle without entering it.
+
+<!-- walk: y1v7 ch4 → p.119 -->

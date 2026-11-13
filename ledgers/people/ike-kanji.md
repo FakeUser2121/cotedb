@@ -746,3 +746,11 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:ayanokouji-kiyotaka] (p.69) The contrast case (perfect fifty on purpose).
 
 <!-- walk: y1v7 ch3 → p.97 -->
+
+### y1v7 p.100 — Ch.4: theory spin
+[says:ike-kanji] (p.100) “Hey, hey, that Ryuuen dude looked like he was gonna do something crazy! This is unreal!” Ike exclaimed.
+[rel:yamauchi-haruki] (p.100) The pair spinning conspiracy theories after the raid.
+[rel:kouenji-rokusuke] (p.100) The subject of the first theory.
+[rel:ryuuen-kakeru] (p.100) The crazy-looking visitor.
+
+<!-- walk: y1v7 ch4 → p.119 -->

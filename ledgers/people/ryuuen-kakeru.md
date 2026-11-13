@@ -783,3 +783,76 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:ayanokouji-kiyotaka] (p.76–85) The only problem left after father, chairman and teacher are handled.
 
 <!-- walk: y1v7 ch3 → p.97 -->
+
+### y1v7 p.98–118 — Ch.4: the storm and the narrowed list
+[scene] (p.98) Strides into Class D with five followers, baits the path, and leaves with a smile aimed at Sakayanagi’s back.
+[says:ryuuen-kakeru] (p.98) “Is there any reason I can’t visit my classmates? That does happen at this school, doesn’t it? Visiting a pal. Why’re you all shaking?”
+[says:ryuuen-kakeru] (p.99) “We’ve been too estranged. I thought we should be a little more assertive about buddying up,”
+[says:ryuuen-kakeru] (p.99) “Man, you guys sure did great in the Paper Shuffle. Class C lost because of your brilliance. Well, the results still aren’t out, but word is you guys might be Class C next semester. That’s huge.”
+[says:ryuuen-kakeru] (p.99) “Working hard, huh?” said Ryuuen. “I mean, the concept of hard work seems completely foreign to Sudou, yet he’s still here. I thought he’d be the first to get kicked out.”
+[says:ryuuen-kakeru] (p.99) “So, you do remember my name,” said Sudou.
+[says:ryuuen-kakeru] (p.99) “I’m giving you a fair warning, Class D,” said Ryuuen.
+[says:ryuuen-kakeru] (p.99) “I have no intention of explaining things to an idiot. Or are you just pretending not to understand?”
+[says:ryuuen-kakeru] (p.103) “Hey, Kouenji. Lemme pick your brain, eh?” Ryuuen called.
+[says:ryuuen-kakeru] (p.103) “You don’t get to decide that.”
+[says:ryuuen-kakeru] (p.103) “You remember me, don’t you?”
+[says:ryuuen-kakeru] (p.103) “I missed you last time, but now you’re coming with me, freak,” spat Ryuuen.
+[says:ryuuen-kakeru] (p.106) “Who else could I be referring to?”
+[says:ryuuen-kakeru] (p.106) “Sorry, but you’re going to have to postpone your date.”
+[says:ryuuen-kakeru] (p.106) “So, you’ve no intention of backing down?”
+[says:ryuuen-kakeru] (p.106) “What’ll you do if we don’t leave?”
+[says:ryuuen-kakeru] (p.106) “Heh. So, you took the bait, huh?”
+[says:ryuuen-kakeru] (p.106) “Ayanokouji, Miyake, and Yukimura, huh? Well, that’s acceptable.”
+[says:ryuuen-kakeru] (p.107) “What happened to Hirata?”
+[says:ryuuen-kakeru] (p.107) “Oh, spare me. That guy’s sense of justice is so strong, it wouldn’t be strange if he showed up here,”
+[says:ryuuen-kakeru] (p.107) “Well, that’s fine. For now, anyway.”
+[says:ryuuen-kakeru] (p.107) “Stop? What should I stop? As you can plainly see, I’m not doing anything.”
+[says:ryuuen-kakeru] (p.107) “That reminds me. You’ve got the lead role today, Kouenji. You owe me a debt.”
+[says:ryuuen-kakeru] (p.107) “The zodiac test. Thanks to you, I lost the chance to capitalize on more points,”
+[says:ryuuen-kakeru] (p.108) “I wonder how long you can keep up this freakshow?”
+[says:ryuuen-kakeru] (p.108) “Sorry. My hand slipped,”
+[says:ryuuen-kakeru] (p.108) “Quiet, Suzune. I’m playing with Kouenji.”
+[says:ryuuen-kakeru] (p.109) “Don’t make me laugh,”
+[says:ryuuen-kakeru] (p.109) “Back off. I don’t have any business with you,” snapped Ryuuen.
+[says:ryuuen-kakeru] (p.109) “If you plan on sticking around, don’t get in my way.”
+[says:ryuuen-kakeru] (p.110) “I’ll crush every such insect in my way, yeah,” said Ryuuen.
+[says:ryuuen-kakeru] (p.110) “Exactly.”
+[says:ryuuen-kakeru] (p.110) “Well, how would you explain the zodiac exam, then? Talk’s gotten around,”
+[says:ryuuen-kakeru] (p.110) “We can’t rule out the possibility that you helped with other tests,” said Ryuuen. “That means there’s no guarantee that you aren’t controlling Class D.”
+[says:ryuuen-kakeru] (p.111) “Heh. You’re certainly right. If you are telling the truth, then you’re completely and utterly harmless.”
+[says:ryuuen-kakeru] (p.111) “What if I tell these guys to pummel you unconscious as payback for the zodiac exam? What’ll you do if I come at you with senseless violence?”
+[says:ryuuen-kakeru] (p.111) “I’m quite capable of going on a rampage even in this rather inconvenient place, benefits aside,” said Ryuuen.
+[says:ryuuen-kakeru] (p.111) “Looks like my reasoning was off,” said Ryuuen. “Kouenji doesn’t seem to be X. He is completely nuts, though in a different way from me. Seems that’s all there is to it.”
+[says:ryuuen-kakeru] (p.111) “One of the people who followed us here like a flock of slack-jawed sheep?”
+[says:ryuuen-kakeru] (p.112) “I told you to shut up already, Sakayanagi. And if you call me that again, I’ll kill you. Got it?”
+[says:ryuuen-kakeru] (p.112) “I’ll admit that X screwed up my plans,” replied Ryuuen, “but that’s not the problem here. I’m doing this to draw out the person acting behind the scenes. I’m going to drag him kicking and screaming to the forefront.”
+[says:ryuuen-kakeru] (p.112) “Yep. I’m prepared to use violence, too, if necessary. I rather enjoy my way of doing things.”
+[says:ryuuen-kakeru] (p.113) “You’re the idiot, Sakayanagi. I used Katsuragi. I made him sign a contract with me.”
+[says:ryuuen-kakeru] (p.113) “Well, I’m not the one who’s gonna be in trouble if those details leak. You will,” said Ryuuen. “Other classes will find out we’ve been getting twenty thousand monthly points from you, won’t they?”
+[says:ryuuen-kakeru] (p.114) “Is that really true, Suzune?” asked Ryuuen. “It’s no different than getting two hundred class points the real way, back on the island. Besides, our private point income is going to continue indefinitely. We’ll keep earning those points until Class A loses their standing.”
+[says:ryuuen-kakeru] (p.115) “I told you I’d kill you if you called me that again.”
+[says:ryuuen-kakeru] (p.116) “We’ve concluded our business. Now get lost,” snapped Ryuuen.
+[says:ryuuen-kakeru] (p.117) “Better be on your guard for the third semester, Sakayanagi,”
+[says:ryuuen-kakeru] (p.117) “Of course. If you’re so certain you’ve defeated Class D, I’ll be your opponent anytime,”
+[says:ryuuen-kakeru] (p.117) “If he were the one, I wouldn’t have let him leave,” answered Ryuuen.
+[says:ryuuen-kakeru] (p.117) “His way of thinking doesn’t match mine. Whoever X is, he and I think the same way. Besides, does he even look like the type to join forces with Horikita?”
+[says:ryuuen-kakeru] (p.117) “Yo. What do you guys think about Kouenji?”
+[says:ryuuen-kakeru] (p.118) “Idiots should stay out of this,” said Ryuuen.
+[says:ryuuen-kakeru] (p.118) “In that case, I must be doing something right. I narrowed down my suspect list quite a bit today, Suzune. Down to that weird creep lurking behind you.”
+[says:ryuuen-kakeru] (p.118) “I’m free to approach or not approach whomever I want. It’s not against the rules.”
+[says:ryuuen-kakeru] (p.118) “Anyway, the show will be over soon. Can’t wait for the grand finale.”
+[rel:kouenji-rokusuke] (p.100–117) The bait target; zodiac debt; clears him as X then still calls him nuts.
+[rel:horikita-suzune] (p.98–118) “Suzune” through the rest area; narrowed list points behind her.
+[rel:sakayanagi-arisu] (p.109–118) Dragon Boy nickname, the kick, the third-semester warning.
+[rel:hashimoto-masayoshi] (p.115) The kick that Hashimoto ate blocking.
+[rel:kitou-hayato] (p.112, 115–116) Named in the Class A coterie.
+[rel:katsuragi-kouhei] (p.113–114) The contract signature he used.
+[rel:ishizaki-daichi] (p.103, 115) Ordered to block; later raises fists for a lesson.
+[rel:sudou-ken] (p.99, 106, 117–118) Exchanges and the “idiots” line.
+[rel:ibuki-mio] (p.103) With the path pack.
+[rel:komiya-kyogo] (p.98) In the classroom raid party.
+[rel:kondou-reo] (p.98) Same party.
+[rel:yamada-albert] (p.98) Same party.
+[trait] (p.98–118) Public bait as suspect-narrowing; admits extortion and violence as tools; keeps Katsuragi’s contract as leverage; grand-finale showman.
+
+<!-- walk: y1v7 ch4 → p.119 -->

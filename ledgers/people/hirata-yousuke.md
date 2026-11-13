@@ -1074,3 +1074,19 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:ike-kanji] (p.69) Same pair.
 
 <!-- walk: y1v7 ch3 → p.97 -->
+
+### y1v7 p.98–101 — Ch.4: the line held, then sent back
+[scene] (p.98) Steps between Sudou and Ryuuen; keeps cool under the Paper Shuffle bait; agrees to stay and calm the class.
+[says:hirata-yousuke] (p.98) “Do you have some business with our class, Ryuuen-kun?” Hirata asked.
+[says:hirata-yousuke] (p.99) “That’s normally true, yes. But this school isn’t normal, is it? Besides, you’ve never visited Class D before.”
+[says:hirata-yousuke] (p.99) “It’s because we’ve been working hard.”
+[says:hirata-yousuke] (p.99) “Could you tell us why you’re really here?” asked Hirata.
+[says:hirata-yousuke] (p.101) “That’s true…but will Kouenji-kun be all right?”
+[rel:ryuuen-kakeru] (p.98–99) The visitor he coolly contains.
+[rel:sudou-ken] (p.98–99) Grabs his shoulder to rein him in.
+[rel:kouenji-rokusuke] (p.101) Worries about him while accepting the stay-behind order.
+[rel:ayanokouji-kiyotaka] (p.101) Sent back with the “don’t do anything rash” promise.
+[rel:yukimura-teruhiko] (p.101) Puzzled at the Keisei nickname; later understood.
+[trait] (p.98–101) Composed first responder; chooses class calm over the path; good-natured about the nickname puzzle.
+
+<!-- walk: y1v7 ch4 → p.119 -->

@@ -99,3 +99,15 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [note] (pp.65–97) Not named in the second half of this chapter.
 
 <!-- walk: y1v7 ch3 → p.97 -->
+
+### y1v7 p.98, 103, 110, 115 — Ch.4: the blocker
+[scene] (p.98) Named in the classroom raid party; p.103 ordered to block Kouenji’s path; later ready to charge and raise fists.
+[note] (p.98) With Ryuuen, Yamada, Komiya and Kondou in the Class D storm.
+[note] (p.103) Blocks Kouenji on the tree-lined path on Ryuuen’s command.
+[note] (p.110) Looks ready to charge at Kouenji’s “moron with a paltry intellect” line; Ryuuen smiles and stops him.
+[note] (p.115) Raises fists for a lesson after Kouenji’s boring line; Sakayanagi’s speech stops the fight instead.
+[rel:ryuuen-kakeru] (p.98–115) The fist he is told when to use and when to hold.
+[rel:kouenji-rokusuke] (p.103–115) The body in the way and the target of his rage.
+[rel:sakayanagi-arisu] (p.115) Indirectly checked by her interruption.
+
+<!-- walk: y1v7 ch4 → p.119 -->

@@ -3574,3 +3574,22 @@ walk: y1v1 → DONE
 [note] (p.72, 93, 97) Short scans (footer only).
 
 <!-- walk: y1v7 ch3 → p.97 -->
+
+### y1v7 p.100–118 — Ch.4: the smoke-out observer
+[scene] (p.100) Narrates the classroom storm, follows the path to the rest area, and files Ryuuen’s narrowed list as preparation nearly complete.
+[says] (p.100) “Maybe,” I said.
+[says] (p.101) “Wouldn’t it be better if you stayed behind, Hirata? If you come, other students might follow. If people like Ike and Yamauchi join in, it’ll add fuel to the fire,”
+[says] (p.101) “Horikita’s coming. Keisei and Akito are too. In the worst-case scenario, if it looks like things are getting violent, I’ll call you.”
+[says] (p.101) “Keisei? Huh. Okay. Just don’t do anything rash, sound good?” Hirata looked puzzled at the way I referred to Yukimura, but went back inside the classroom.
+[says] (p.102) “Could be a serious fight,”
+[says] (p.117) “Should we head back too, Horikita?” I asked.
+[rel:ryuuen-kakeru] (p.100–118) Reads the classroom raid as a strategy he cannot yet parse; files the grand-finale tease.
+[rel:hirata-yousuke] (p.101) Sends him back to calm the class; promises a call if violence looms.
+[rel:kouenji-rokusuke] (p.100–111) Low prior on him as mastermind; admires the “moron with a paltry intellect” comeback.
+[rel:horikita-suzune] (p.100–118) Walks the path together; agrees the show is over.
+[rel:sakayanagi-arisu] (p.109–118) Watches the Class A arrival and the kick-block.
+[feat] (p.101–102) Keeps the trailing group small; clocks shoes at the entrance as the time check.
+[trait] (p.100–118) Observer first; names Ryuuen’s preparations as nearly complete without acting on it.
+[note] (p.105, 119) Short scans (footer only).
+
+<!-- walk: y1v7 ch4 → p.119 -->

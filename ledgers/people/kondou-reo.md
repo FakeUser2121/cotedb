@@ -34,3 +34,10 @@ char_id: kondou-reo · class: Class 1-C (enrolled April 2015) · status: minor
 [note] (p.136) Present only in the roll-call of Ryuuen’s party.
 
 <!-- walk: y1v6 ch6 → p.176 -->
+
+### y1v7 p.98 — Ch.4: in the raid party
+[note] (p.98) Named with Komiya as part of Ryuuen’s classroom storm.
+[rel:ryuuen-kakeru] (p.98) Follower in the Class D visit.
+[rel:komiya-kyogo] (p.98) The pair inside the door.
+
+<!-- walk: y1v7 ch4 → p.119 -->
