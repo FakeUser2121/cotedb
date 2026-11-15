@@ -311,3 +311,15 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.49) Passing mention: “Besides, unlike Ryuuen and Sakayanagi, I’m not aiming for the upper classes.”
 
 <!-- walk: y1v7.5 ch5 → p.153 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.72 — Ch.2: named as a possible cafeteria watcher
+[scene] (p.72) Not on the page; named in Ayanokōji’s caution about conspicuous contact at the shared meal hour.
+[note] (p.72) Passing mention: “it was quite possible that Sakayanagi and Nagumo were watching.”
+[rel:ayanokouji-kiyotaka] (p.72) One of two names that keep him solo at the cafeteria table.
+[rel:nagumo-miyabi] (p.72) Paired with Nagumo as the pair whose eyes matter.
+
+<!-- walk: y1v8 ch2 → p.76 -->

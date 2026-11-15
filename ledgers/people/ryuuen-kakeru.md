@@ -1308,3 +1308,24 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [note] (p.62) Passing mention: named in Ibuki’s rooftop rant about the earlier fight.
 
 <!-- walk: y1v7.5 ch5 → p.153 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.11–43 — Ch.2: the absent Class D leader
+[scene] (p.11) In the gym but deliberately outside the group-forming huddle while Kaneda speaks for Class D.
+[note] (p.43) Passing mention: keeps his distance, does not look like he is paying attention; common knowledge that he vacated authority earlier in the third semester.
+[rel:kaneda-satoru] (p.43) Shibata asks whether Kaneda is still acting for him; Kaneda says his opinions are irrelevant.
+[rel:shibata-sou] (p.43) Object of Shibata’s probe into whether the fall from power was a charade.
+[status] (p.43) Students who do not know the details still suspect the whole thing was staged.
+
+### y1v8 p.44–49 — Ch.2: the invite nobody wants
+[scene] (p.44) Stands alone in the gym as groups form; Hirata is the only one who asks him in.
+[says:ryuuen-kakeru] (p.47) “Oh, ho, ain’t you a big shot, Hirata, takin’ me in. But it doesn’t look like people are on board,”
+[rel:hirata-yousuke] (p.46–49) Accepts the observation; Hirata’s group will not form unless the others are talked into it.
+[rel:ishizaki-daichi] (p.45, 48) Even his old allies keep their distance; the class suspects Class D cut him loose as sabotage bait.
+[rel:miyake-akito] (p.50) The only student Ayanokōji can imagine taking him in — via Miyake’s reward bid.
+[status] (p.45) Proud of the solitude rather than lonely; one remaining group will have to absorb him.
+
+<!-- walk: y1v8 ch2 → p.76 -->

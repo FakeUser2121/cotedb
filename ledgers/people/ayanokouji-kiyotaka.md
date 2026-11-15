@@ -3945,3 +3945,57 @@ walk: y1v1 → DONE
 [note] (p.164) Passing mention: “Hey, Kiyotaka. Sorry to bother you…” — gift hesitation talk.
 
 <!-- walk: y1v7.5 ch6 → p.170 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.11–32 — Ch.2 §2.1: the bus briefing and his safety list
+[scene] (p.11) Third-semester road trip; Ayanokōji rides the Class C bus in a school-mandated jersey and listens to Chabashira’s Mixed Training Camp briefing while Ike talks across the aisle.
+[says:chabashira-sae] (p.22) “Yes. The penalty is expulsion.”
+[thinks] (p.22) Overall ranking uses the large group’s average, but expulsions turn on each small group’s average under the school’s threshold — “That was troubling.”
+[thinks] (p.24) On the solidarity rule: a representative cannot casually drag an enemy class down unless someone was already “on the verge of dropping out anyway,” and peers would know who that was.
+[thinks] (p.24) Texts a certain individual to learn whether the student council helped design this exam — no reply is recorded on these pages.
+[rule] (p.25) Class penalty for an expulsion is 100 class points; a class without enough points floors at zero until the debt is paid.
+[rel:hirata-yousuke] (p.25–26) Watches Hirata buy into the lifeline question; notes the class cannot afford to extend it.
+[says:chabashira-sae] (p.28) “private points are not pocket money. You’d do well to remember that.”
+[thinks] (p.29) Reads Chabashira’s warning as school policy that still disrupts cohesion; recalls that he and Horikita once pooled points to save Sudou — a prior precedent for sharing.
+[rel:horikita-suzune] (p.30) Replies to her text with “None,” then “Guys and girls are going to be separated in this exam. I can’t help with anything. Do your best.”
+[rel:karuizawa-kei] (p.31–32) Messages Kei the bare minimum; she replies with a blank receipt; he sends protective tricks because she could be made a sacrificial representative and is not currently strong in scores or standing.
+[goal] (p.32) “I had to narrow down the list of people I wanted to safeguard.” — Kei, Hirata, Horikita (student-council entanglement), then Keisei, Akito, Haruka and Airi; Nagumo’s grade-level moves are the only outside thread he plans to watch.
+[rel:nagumo-miyabi] (p.32) Plans to keep an eye on Nagumo during the rare mixed-grade exam.
+[trait] (p.32) Claims he does not care about winning this exam — only passing it safely — while still engineering small interventions.
+
+### y1v8 p.33–43 — Ch.2 §2.2: arrival and the Class A pitch
+[scene] (p.33) The bus climbs the mountain road; phones are surrendered by syllabary order; Ayanokōji disembarks into cold air before the camp grounds.
+[says:ayanokouji-kiyotaka] (p.33) “I’m not cut out for this…”
+[trait] (p.33) Rare honest slip — special exams still do not suit him because he so rarely had to cooperate with others before.
+[feat] (p.34) Reads the terrain like the uninhabited-island test; flags Ike’s scouting and Sudou’s strength as assets in the wild.
+[rel:horikita-suzune] (p.34) Horikita seems to want to speak to him as the lines split, but the queue separates boys and girls before she can.
+[scene] (p.35) Gymnasium: every grade’s boys assemble; Class A moves first.
+[rel:katsuragi-kouhei] (p.35–37) Notes Katsuragi inside Matoba’s fourteen and that Matoba — not Katsuragi — speaks; Katsuragi is pre-announced as the group’s representative who will eat a last-place solidarity hit alone.
+[rel:kanzaki-ryuuji] (p.36–38) Tracks Kanzaki refusing the five-minute ultimatum and correctly predicts Class A returns once the window closes.
+[rel:hirata-yousuke] (p.38–41) Joins Hirata and Keisei’s huddle; volunteers that Class A might be trusted to protect one nervous Class C student; stays silent when no B or D candidate steps up.
+[rel:ike-kanji] (p.41–42) Watches Ike and Yamauchi take Hirata’s bait for the safe Class A seat; Yamauchi wins the rock-paper-scissors.
+[rel:kaneda-satoru] (p.40–43) Hears Kaneda’s all-four-class siege; accepts that Ryuuen’s absence is deliberate and that Kaneda is the one holding Class D’s line.
+
+### y1v8 p.44–76 — Ch.2 §2.3–2.6: group six, Nagumo’s draft, Kōenji, cafeteria
+[scene] (p.44) Gym group-forming after the Class A pitch; Ayanokōji watches the four-class math, ends in a ten-person mixed group, faces Nagumo’s early draft and the cafeteria hour.
+[rel:yukimura-teruhiko] (p.44–45, 55, 61–68) Keisei and Akito check his plan; he bats the question back; later he shoves Keisei forward as the delayed group’s rock-paper-scissors proxy and Keisei ends up representative.
+[rel:miyake-akito] (p.44–45, 50) Akito says his head is not his strong suit and sticks with Keisei; Ayanokōji suspects Akito’s Ryuuen bid is a cover for taking the seat no one wants.
+[rel:hirata-yousuke] (p.44–49) Tracks Hirata inviting Ryuuen into the C-heavy group and the silence that follows — goodwill cannot carry a group test.
+[rel:ryuuen-kakeru] (p.44–49) Reads Ryuuen’s proud solitude as someone who will not defy the school but will not cooperate either; no one wants him, including Ishizaki.
+[rel:kanzaki-ryuuji] (p.48–49) Accepts Kanzaki’s risk logic — Ryuuen’s cost should sit with Class D.
+[feat] (p.45–46) Maps the eighty first-year boys into four main fifteen-person groups plus two leftover tens on paper before the gym finishes.
+[rel:nagumo-miyabi] (p.52, 61, 72) Nagumo calls him out after the draft, deduces the delayed groups were the balanced three/four-class mixes, and Ayanokōji still plans to keep him under observation at meals.
+[says:ayanokouji-kiyotaka] (p.51) “Kouenji is going to be a problem too”
+[rel:kouenji-rokusuke] (p.51, 63–68) Reads Kōenji’s boycott threat as possibly deliberate contradiction; agrees with Nagumo that the Class A cash plan is the real story; notes Kōenji never needed Class A if his only goal was graduation.
+[rel:hashimoto-masayoshi] (p.70) Shares a bottom bunk under Hashimoto and introduces himself with a light handshake.
+[rel:ishizaki-daichi] (p.51, 69–71) Ishizaki refuses eye contact until Ayanokōji stands beside Yukimura; later Ayanokōji walks out of the sniping rather than escalate.
+[rel:ichinose-honami] (p.72–75) Sits near Ichinose at the one-hour cafeteria; answers her greeting honestly; tells her not to work herself too hard and leaves before the hour ends.
+[rel:karuizawa-kei] (p.72) Assumes Kei and Horikita may be looking for him but avoids conspicuous contact — Sakayanagi and Nagumo might be watching.
+[rel:sakayanagi-arisu] (p.72) Names her as a possible cafeteria watcher.
+[rel:satou-maya] (p.72) Notes Hirata and Satō’s Christmas outing is known to Nagumo as a special relationship marker.
+[trait] (p.76) Closes the chapter with the island refrain: “I’m not suited to this at all.” — the shared hour is for well-liked students with communication skills he does not have.
+
+<!-- walk: y1v8 ch2 → p.76 -->

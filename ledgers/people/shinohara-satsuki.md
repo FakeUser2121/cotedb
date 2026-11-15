@@ -162,3 +162,16 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [rel:ike-kanji] (p.94–95) The boy who rescued her in the bookstore now taking her to dinner; he insists it is only thanks.
 
 <!-- walk: y1v7.5 ch4 → p.106 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.11–43 — Ch.2: named at Ike’s cafeteria cheer
+[scene] (p.11) Present on the Class C bus when Ike learns boys and girls still share one cafeteria hour a day.
+[note] (p.26) Passing mention: seated nearby; slightly exasperated at Ike’s energy until her face brightens — Ayanokōji reads it as their Christmas dinner having gone well.
+[rel:ike-kanji] (p.26) Reaction shot tied to Ike’s rejoicing.
+
+[note] (p.76) Chapter ends at the bus; no further pages this chapter.
+
+<!-- walk: y1v8 ch2 → p.76 -->

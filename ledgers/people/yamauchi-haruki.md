@@ -630,3 +630,19 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [rel:satou-maya] (p.135) Used as the unpopularity benchmark she says Ayanokōji does not meet.
 
 <!-- walk: y1v7.5 ch5 → p.153 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.11–43 — Ch.2: the numbers he cannot do, and the seat he wins
+[scene] (p.11) On the Class C bus through the briefing; later in the gym as a candidate for Class A’s protected seat.
+[says:yamauchi-haruki] (p.23) “Wh-what do we win?”
+[trait] (p.23) Hyperventilates at the 1.08-million / 336-class-point figure — “unable to perform the calculations himself.”
+[says:yamauchi-haruki] (p.27) “Hey, if all the smart people get in one group, then the rest of us don’t stand a chance,”
+[rel:hirata-yousuke] (p.41–42) Second Class C volunteer after Ike; wins the rock-paper-scissors and becomes the student who joins Class A’s main group.
+[rel:matoba-shinji] (p.42) Chosen entrant into Matoba’s fourteen-plus-one structure.
+
+[note] (p.76) Chapter ends with his rock-paper-scissors win for the Class A seat; no further pages this chapter.
+
+<!-- walk: y1v8 ch2 → p.76 -->

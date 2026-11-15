@@ -799,3 +799,25 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:sudou-ken] (p.93–95) Smells blood; proposes tailing the pair.
 
 <!-- walk: y1v7.5 ch4 → p.106 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.11–43 — Ch.2: seatmate questions and the Class A volunteer bid
+[scene] (p.11) Rides beside Ayanokōji on the Class C bus and talks across the aisle to Sudou and Yamauchi through the exam briefing.
+[says:ikey] (p.26) “So we won’t be able to talk to each other?”
+[says:ikey] (p.26) “Yes!”
+[trait] (p.26) Rejoices at the one shared cafeteria hour — Chabashira’s wry smile and Shinohara’s brightened face follow his energy.
+[rel:shinohara-satsuki] (p.26) Ayanokōji glances at Shinohara after Ike’s cheer; her face brightens — read as the Christmas dinner having gone well.
+[action] (p.33) Beams that free afternoon means “We don’t have to study!”
+[rel:hirata-yousuke] (p.41–42) One of the students Hirata’s gaze is fixed on when Class C is asked for a Class A volunteer; mutters “I suppose I’ll do it.”
+[rel:matoba-shinji] (p.41–42) Would join Matoba’s protected fourteen-plus-one seat; loses the rock-paper-scissors to Yamauchi.
+
+### y1v8 p.55–56 — Ch.2: questions Hirata’s third-year pick
+[scene] (p.55) Interrupts the draft survey to challenge Hirata’s non-obvious third-year choice.
+[says:ikey] (p.55) “Hey, Hirata, you sure that’s a good idea? Shouldn’t you pick the student council president’s or something?”
+[rel:hirata-yousuke] (p.55–56) Accepts Hirata’s answer without pushing — “a sign of the trust Hirata had cultivated with our class.”
+[rel:nagumo-miyabi] (p.55) Wants the obvious Nagumo power group; Hirata deliberately avoids it.
+
+<!-- walk: y1v8 ch2 → p.76 -->

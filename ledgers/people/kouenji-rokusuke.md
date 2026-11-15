@@ -421,3 +421,21 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:sakayanagi-arisu] (p.37) Part of the third-semester preview she wants to wait for.
 
 <!-- walk: y1v7.5 ch3 → p.72 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.47–70 — Ch.2: the boycott, the bust, and the bed
+[scene] (p.47) Leftover Class C seat who refuses every discussion; later dominates the representative fight and the dorm bed scramble.
+[says:kouenji-rokusuke] (p.62) “I will not participate in rock-paper-scissors. I have no interest in being representative.”
+[says:kouenji-rokusuke] (p.63) “why not go ahead and make me the group representative?”
+[says:kouenji-rokusuke] (p.63) “I may even boycott the exam.”
+[says:kouenji-rokusuke] (p.65) “I lied because I don’t want to be the representative.”
+[rel:nagumo-miyabi] (p.64–68) Has his Class A cash-point plan laid bare; concedes the plan is revealed and therefore he has no reason to take the rep role; applauds Nagumo’s logic with “Bravo, bravo.”
+[rel:ishizaki-daichi] (p.62–64, 69–70) Ishizaki wants to force the rep role on him, then loses the bunk he claimed when Kōenji simply takes it.
+[rel:yukimura-teruhiko] (p.70) Yukimura takes the bed beneath him; no one else wants that spot.
+[feat] (p.65–66) Outlines buying third-years’ cashed-out private points with outside money — “I have tens of millions of yen at my disposal.”
+[trait] (p.63–65) Willing to be expelled on paper; only contradiction is that he also does not want expulsion — Nagumo calls the aimless act, then the honest restatement.
+
+<!-- walk: y1v8 ch2 → p.76 -->

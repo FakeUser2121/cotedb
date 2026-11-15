@@ -996,3 +996,21 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [note] (p.152) Passing mention: named in the Manabu sibling-reveal briefing.
 
 <!-- walk: y1v7.5 ch6 → p.170 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.11–43 — Ch.2: the gofer text and the sacrificial-pawn risk
+[scene] (p.11) Not on the boys’ bus narrative line; Ayanokōji messages her on the way to the camp after the split-dormitory rules land.
+[rel:ayanokouji-kiyotaka] (p.31–32) Receives his bare-minimum exam note and replies with a blank receipt; he then sends protective tricks because a representative can drag one contributor down with them.
+[limit] (p.32) Named as a possible sacrificial pawn — weak on test scores and shaky in class standing at this point in the year.
+[rel:hirata-yousuke] — not on these pages.
+
+### y1v8 p.72 — Ch.2: named as looking for him at the cafeteria
+[scene] (p.72) Not on the page; named in Ayanokōji’s decision to stay solo during the shared hour.
+[note] (p.72) Passing mention: “Horikita and Kei were probably looking for me, but I didn’t set out to search for them.”
+[rel:ayanokouji-kiyotaka] (p.72) Polar-opposite reaction expected — she would wait and see; he avoids conspicuous contact because Nagumo knows their special relationship.
+[rel:nagumo-miyabi] (p.72) The watcher whose knowledge of Kei keeps Ayanokōji away from her at the hour.
+
+<!-- walk: y1v8 ch2 → p.76 -->

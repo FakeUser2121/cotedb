@@ -815,3 +815,26 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:ayanokouji-kiyotaka] (p.150) Teacher who knows his leverage; listed with the chairman as residual risk.
 
 <!-- walk: y1v7.5 ch5 → p.153 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.11–32 — Ch.2 §2.1: the Mixed Training Camp briefing
+[scene] (p.11) On the Class C bus Chabashira hands out the exam handout and delivers the full Mixed Training Camp rules before phones are collected.
+[says:chabashira-sae] (p.22) “Yes. The penalty is expulsion.”
+[says:chabashira-sae] (p.22) “Expulsion will only apply to the small group within that large group whose average score falls below the threshold set by the school.”
+[says:chabashira-sae] (p.23) “There are significant benefits to being a group representative. The representative and the representative’s classmates will receive double the rewards.”
+[says:chabashira-sae] (p.25) “The Revocation of Expulsion costs twenty million private points and an additional three hundred class points.”
+[says:chabashira-sae] (p.26) “the use of phones will be forbidden for a week”
+[says:chabashira-sae] (p.26) “The boys will use the main building, and the girls will take the other.”
+[says:chabashira-sae] (p.28) “private points are not pocket money. You’d do well to remember that.”
+[says:chabashira-sae] (p.28) “The only one who can protect you is you, yourself”
+[says:chabashira-sae] (p.28) “People who work hard are rewarded. That much is obvious.”
+[rel:hirata-yousuke] (p.25, 28–30) Answers Hirata’s lifeline question, then frames her “not pocket money” advice as a promotion reward that undercuts his even-split motion; asks if the advice was unnecessary after the vote fails.
+[rel:ike-kanji] (p.28) Uses Ike as the example of a student who might need a million private points alone.
+[trait] (p.29) “Chabashira always played by the rules” — Ayanokōji reads her cohesion-breaking advice as possibly school policy.
+
+[note] (p.76) Chapter ends with the bus briefing and arrival; no further pages this chapter.
+
+<!-- walk: y1v8 ch2 → p.76 -->

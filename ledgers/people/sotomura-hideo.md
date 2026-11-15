@@ -196,3 +196,22 @@ char_id: sotomura-hideo · class: Class 1-D (enrolled April 2015) · status: min
 [note] (p.170) Shows the same message on his paper; no further speech.
 
 <!-- walk: y1v6 ch6 → p.176 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.11–43 — Ch.2: the Professor volunteers
+[scene] (p.11) Present in the gym when Hirata asks Class C for a volunteer to take Class A’s protected seat.
+[says:sotomura-hideo] (p.42) “I think I would like to volunteer myself as well”
+[rel:hirata-yousuke] (p.42) Third bidder after Ike and Yamauchi; loses the rock-paper-scissors to Yamauchi.
+[rel:matoba-shinji] (p.42) Would have been the Class A entrant had he won the draw.
+
+### y1v8 p.45–48 — Ch.2: the Professor’s missed Hirata seat
+[scene] (p.45) Named with Ike and Onizuka as wanting Hirata’s group; later one of the five leftover Class C seats.
+[note] (p.45) Passing mention: “Ike, Onizuka, and Sotomura are hoping to join Hirata’s group.”
+[note] (p.47–48) Passing mention: “The Professor and Onizuka had wanted to join Hirata’s group, but that group was full up.”
+[rel:hirata-yousuke] (p.45–48) Blocked from the Hirata group by capacity.
+[rel:onizuka] (p.47–48) Paired with Onizuka as the two who wanted Hirata’s seat and did not get it.
+
+<!-- walk: y1v8 ch2 → p.76 -->

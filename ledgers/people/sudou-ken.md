@@ -1141,3 +1141,21 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:ayanokouji-kiyotaka] (p.161) Example used to explain how easily expulsion could be engineered.
 
 <!-- walk: y1v7.5 ch6 → p.170 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.11–43 — Ch.2: loud objections in the bus and gym
+[scene] (p.11) Present on the Class C bus through the briefing, then in the gym when Class A springs its group pitch.
+[says:sudou-ken] (p.25) “If you’re expelled, you’re expelled. Nothin’ ya can do ’bout it,”
+[rel:hirata-yousuke] (p.25) Hirata rejects that outright by citing the time Sudou was almost expelled and saved by Horikita’s quick thinking.
+[says:sudou-ken] (p.36) “Hey, hey! What the hell are you selfish punks doing? It ain’t fair if you’re the only ones who go and do something like that.”
+[says:sudou-ken] (p.42) “Wait a minute, Hirata. Is this really okay? Like, I don’t wanna join a group with someone like Ishizaki in it,”
+[rel:ishizaki-daichi] (p.42) Names Ishizaki as the Class B/D student he refuses to share a four-class group with.
+[rel:hirata-yousuke] (p.36) Looks to Hirata for help when Matoba’s fairness argument stalls him.
+[trait] (p.36, 42) Hot-headed in negotiation; tracks interpersonal friction more than point multipliers.
+
+[note] (p.76) Chapter ends with his Class A objections; no further pages this chapter.
+
+<!-- walk: y1v8 ch2 → p.76 -->

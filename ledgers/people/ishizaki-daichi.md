@@ -247,3 +247,26 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [note] (p.161) Passing mention: “that one fight between Sudou and those Class C guys—Ishizaki and his friends.”
 
 <!-- walk: y1v7.5 ch4 → p.106 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.11–43 — Ch.2: named as the group-mate Sudou refuses
+[scene] (p.11) Not in the dialogue line; named when Class C objects to blending all four classes into one small group.
+[note] (p.42) Passing mention: Sudou interrupts Hirata with “I don’t wanna join a group with someone like Ishizaki in it.”
+[rel:sudou-ken] (p.42) Named as the friction that could drag down an all-four-class group’s scores.
+
+### y1v8 p.45–71 — Ch.2: from outcast-adjacent to bed war
+[scene] (p.45) Keeps distance from Ryuuen even as a Class D classmate; later shares Ayanokōji’s group and fights over bunks.
+[rel:ryuuen-kakeru] (p.45, 48) One of the old allies who will not talk to him; suspects Class D cut him loose.
+[says:ishizaki-daichi] (p.62) “No one’s gonna volunteer for this. How about we go with rock-paperscissors again?”
+[says:ishizaki-daichi] (p.64) “Talk about a weirdo. He must have a few screws loose”
+[rel:kouenji-rokusuke] (p.62–64, 69–70) Forces the conversation on Kōenji; wants Kōenji stuck as rep; loses his claimed bunk when Kōenji takes it — “What the hell, man?!”
+[rel:yukimura-teruhiko] (p.56, 69) Defers the draft choice to Yukimura; in the dorm his gaze meets Ayanokōji’s and he suddenly hops down from the bunk.
+[rel:hashimoto-masayoshi] (p.64) Told to knock it off or he will be the one dragged down; refuses the rep role after that.
+[rel:yamada-albert] (p.71) Answers Hashimoto about Albert’s Japanese; “Ryuuen-san’s normally the one giving orders” — then snaps that the san was old habit.
+[rel:totsuka-yahiko] (p.69) Snaps at Yahiko’s fairness complaint with the early-bird line.
+[trait] (p.69–71) Terrified for an instant of Ayanokōji’s eye contact, then sniping at everyone; respectful “Ryuuen-san” contradicts the ousted-leader story.
+
+<!-- walk: y1v8 ch2 → p.76 -->

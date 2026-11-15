@@ -12,3 +12,16 @@ char_id: onizuka · class: Class 1-D · status: minor
 [rel:satou-maya] (p.135) Used as the unpopularity benchmark she says Ayanokōji does not meet.
 
 <!-- walk: y1v7.5 ch5 → p.153 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.45–48 — Ch.2: leftover Class C seat
+[scene] (p.45) Named among the students hoping to join Hirata’s full group; later listed in the five Class C seats left over.
+[note] (p.45) Passing mention: “Ike, Onizuka, and Sotomura are hoping to join Hirata’s group.”
+[note] (p.47–48) Passing mention: one of “Keisei, Akito, the Professor, Onizuka, and Kouenji”; “The Professor and Onizuka had wanted to join Hirata’s group, but that group was full up.”
+[rel:hirata-yousuke] (p.45–48) Blocked from the Hirata group by capacity.
+[rel:sotomura-hideo] (p.47–48) Paired with the Professor as the two who wanted Hirata’s seat and did not get it.
+
+<!-- walk: y1v8 ch2 → p.76 -->

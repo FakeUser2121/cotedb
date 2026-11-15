@@ -232,3 +232,15 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [note] (p.133) Passing mention: Satou named in the lunch round-robin seating.
 
 <!-- walk: y1v7.5 ch6 → p.170 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.72 — Ch.2: named in the Christmas-relationship note
+[scene] (p.72) Not on the page; named once while Ayanokōji weighs who might read his cafeteria contacts.
+[note] (p.72) Passing mention: “Hirata and Satou had only been hanging out with us over Christmas” — known to Nagumo as a special-relationship marker with Kei.
+[rel:hirata-yousuke] (p.72) Named as the couple half of the Christmas outing.
+[rel:nagumo-miyabi] (p.72) The relationship Nagumo already understands.
+
+<!-- walk: y1v8 ch2 → p.76 -->

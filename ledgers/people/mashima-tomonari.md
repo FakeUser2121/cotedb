@@ -107,3 +107,15 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 [rel:ayanokouji-kiyotaka] (p.122) The student Hoshinomiya admits watching since the island.
 
 <!-- walk: y1v4 ch3 → p.124 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.11–43 — Ch.2: named at the group report
+[scene] (p.11) Not on the bus briefing line; named when Yamauchi’s winning draw is reported to him as the Class A entrant is finalised.
+[note] (p.42) Passing mention: “They reported to Mashima-sensei” after the first large group forms.
+
+[note] (p.76) Chapter ends at the group report mention; no further pages this chapter.
+
+<!-- walk: y1v8 ch2 → p.76 -->

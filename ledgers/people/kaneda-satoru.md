@@ -109,3 +109,27 @@ aliases used for anchors: kaneda, kaneda satoru, kaneda-kun
 
 
 <!-- walk: y1v7.5 ch4 → p.106 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.11–43 — Ch.2: the all-four-class siege
+[scene] (p.11) Present in the gym as Class D’s negotiating voice while Ryuuen sits out the discussion.
+[says:kaneda-satoru] (p.40) “I’ve determined that this is an opportunity we should seize.”
+[says:kaneda-satoru] (p.40) “I say we try to overthrow Class A here and now”
+[says:kaneda-satoru] (p.43) “This was my idea. His opinions are irrelevant.”
+[rel:ryuuen-kakeru] (p.43) Tells Shibata that Ryuuen’s opinions are irrelevant and denies — then reframes — any backstage collaboration.
+[rel:shibata-sou] (p.43) Grimaces after Shibata’s question about whether Ryuuen ordered the strategy.
+[rel:kanzaki-ryuuji] (p.40–42) Partners with Kanzaki on the B/C/D counter to Class A’s pitch.
+[rel:hirata-yousuke] (p.40, 43) Hirata likes the siege; Kaneda accepts the hypothetical-group process without resistance.
+
+### y1v8 p.44–56 — Ch.2: Class D’s draft pick
+[scene] (p.44) Class D forms last; Kaneda consults classmates and picks in the large-group draft.
+[rel:nagumo-miyabi] (p.56) Declines Nagumo’s group: “I would like to join second-year Gouda-senpai’s group, please.” — once again Nagumo is passed over.
+[rel:gouda] (p.56) Chooses second-year Gōda’s mostly-Class-A second-years over Nagumo’s mixed bag.
+[rel:miyake-akito] (p.56) Miyake’s gloss: Kaneda picked reliable strong allies; the “iffy” C/D crowd in Nagumo’s group is what was avoided.
+[rel:ryuuen-kakeru] (p.44–48) Leads the Class D formation while Ryuuen sits out — the class’s slow, distrusted start is built around his absence.
+[feat] (p.56) Immediate selection once classmates are “consulted” — a formality under his authority.
+
+<!-- walk: y1v8 ch2 → p.76 -->

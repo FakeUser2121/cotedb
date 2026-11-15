@@ -27,3 +27,17 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [trait] (p.112–115) Dry counter-needling; eats concrete and calls it a fall to keep the peace.
 
 <!-- walk: y1v7 ch4 → p.119 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.50–71 — Ch.2: the Class A seat in group six
+[scene] (p.50) One of two Class A boys in Ayanokōji’s ten-person four-class group; bunk-mates Ayanokōji and comments on Kōenji and Ishizaki.
+[rel:kouenji-rokusuke] (p.64, 67) Calls the Class A cash plan impressive and exasperating; asks what abandoning it leaves Kōenji aiming for.
+[rel:ishizaki-daichi] (p.64) “Knock it off, Ishizaki. If you keep that up, you’ll be the one getting dragged down”
+[rel:ayanokouji-kiyotaka] (p.70) Does not know Ayanokōji’s name at first; shakes hands after the bunk introduction — “Hashimoto.”
+[rel:totsuka-yahiko] (p.50, 70) Group-mate on the Class A side of the ten; bunk order settles around them.
+[trait] (p.64) Exasperated acceptance when Ishizaki refuses the rep role too — nobody thinks the group takes first place.
+
+<!-- walk: y1v8 ch2 → p.76 -->

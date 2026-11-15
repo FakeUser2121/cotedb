@@ -539,3 +539,17 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 
 
 <!-- walk: y1v7.5 ch4 → p.106 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.11–43 — Ch.2: pre-announced as Class A’s sacrificial representative
+[scene] (p.11) Named in the gym when Class A springs a fourteen-plus-one group; Matoba speaks while Katsuragi stands inside the fourteen.
+[rel:matoba-shinji] (p.35–37) Matoba offers Katsuragi as the group’s representative who will take full responsibility under the solidarity rule if they place last.
+[limit] (p.35–38) Not the one pitching — Ayanokōji reads the speaker role as fallout from lost status inside Class A.
+[rel:hirata-yousuke] (p.41) The name Hirata uses when arguing Class A’s grades make last place unlikely.
+
+[note] (p.76) Chapter ends with him pre-announced as Class A’s representative; no further pages this chapter.
+
+<!-- walk: y1v8 ch2 → p.76 -->

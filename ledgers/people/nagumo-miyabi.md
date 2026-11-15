@@ -153,3 +153,24 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [rel:horikita-manabu] (p.10) Pressed Manabu for three years; Manabu had given up responding before graduation.
 
 <!-- walk: y1v8 ch1 → p.10 -->
+
+### y1v8 p.11–43 — Ch.2: named as the grade-level thread to watch
+[scene] (p.11) Not on the bus or in the gym; named once in Ayanokōji’s protection planning as the exam opens.
+[note] (p.32) Passing mention: given the rare chance for grade levels to intermingle, Ayanokōji resolves to keep an eye on Nagumo’s movements.
+[rel:ayanokouji-kiyotaka] (p.32) Outside thread Ayanokōji flags while listing who he will and will not protect.
+
+### y1v8 p.52–68 — Ch.2: the early draft, the duel, and Kōenji’s bust
+[scene] (p.52) After first-year small groups finish, Nagumo moves the large-group draft forward and then presses Ayanokōji’s delayed group for a representative.
+[says:nagumo-miyabi] (p.52) “How about we form a large group right now?”
+[says:nagumo-miyabi] (p.52) “Should we have a draft-pick system?”
+[rel:horikita-manabu] (p.53, 57–60) Brief private talk with the former president; then the public challenge — Fujimaki interrupts, but Nagumo forces the average-score duel with anti-collateral conditions.
+[says:nagumo-miyabi] (p.59) “How about which of us can get the most students expelled?”
+[says:nagumo-miyabi] (p.59) “how about which group can earn the higher average score?”
+[rel:fujimaki] (p.57–58) Taunts Fujimaki as third-year Class A’s number two and invites him to be the opponent instead of Horikita.
+[rel:kouenji-rokusuke] (p.64–67) Exposes Kōenji’s twenty-million-point Class A purchase plan, warns the second- and third-years off dealing with him, and says he will report pre-graduation point purchases to the school.
+[rel:yukimura-teruhiko] (p.61–68) Deduces the delayed groups from the draft timing; orders the representative chosen now; dismisses the group once Yukimura volunteers.
+[feat] (p.61) Reads group composition from a one-second delay in the rock-paper-scissors circle — Ayanokōji admits the attempt to hide the weakness failed.
+[rel:ayanokouji-kiyotaka] (p.52, 61) Calls him out after the draft; Ayanokōji notes Nagumo may be watching at every meal.
+[status] (p.46–47, 57–58) Top dog of second-year Class A; second-years wear worshipful looks — rival, hated enemy, deeply respected.
+
+<!-- walk: y1v8 ch2 → p.76 -->

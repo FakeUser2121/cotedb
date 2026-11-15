@@ -100,3 +100,15 @@ char_id: totsuka-yahiko · class: Class 1-A (enrolled April 2015) · status: min
 [rel:katsuragi-kouhei] (p.22) Takes orders from him without pushback; exits before the Ryuuen/points talk.
 
 <!-- walk: y1v6 ch2 → p.29 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.50–71 — Ch.2: the bed and the bunk friction
+[scene] (p.50) Class A seat in Ayanokōji’s group; first to challenge Ishizaki’s bed grab in the dorm.
+[says:totsuka-yahiko] (p.69) “You can’t just stroll up and take what you like. That’s not fair,”
+[rel:ishizaki-daichi] (p.69–70) Snapped at by Ishizaki’s early-bird line; the room abandons discussion for dibs after Kōenji’s theft.
+[rel:hashimoto-masayoshi] (p.50, 70) The other Class A name in the ten-person group composition.
+
+<!-- walk: y1v8 ch2 → p.76 -->

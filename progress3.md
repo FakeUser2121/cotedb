@@ -1587,3 +1587,13 @@ Nagumo’s direct pressure until he stopped responding, and regrets never
 making a friend he could trust — “this was just the beginning.”
 Determinism hash across consecutive builds:
 `ff885e45386a6bf8e77713e65226060b`.
+
+Year 1 Volume 8 chapter 2 opens the Mixed Training Camp: the bus rules
+briefing (multipliers, representative expulsion, solidarity, revocation),
+Class C’s failed even-split, Matoba’s five-minute Class A pitch, four-class
+group forming under Nagumo’s early draft, Fujimaki’s rebuke and the
+Horikita–Nagumo average-score duel, Kōenji’s exposed twenty-million-point
+Class A plan and refusal of the rep role, Yukimura’s reluctant nomination,
+the dorm bed scramble, and the first shared cafeteria hour with Ichinose.
+Determinism hash across consecutive builds:
+`5997e7c2d301e09b4a0d3c0d87876371`.

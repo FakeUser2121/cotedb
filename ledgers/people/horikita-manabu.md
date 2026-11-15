@@ -429,3 +429,14 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [status] (p.10) At graduation: gave up acting against Nagumo before the end; no friend truly trusted from the bottom of his heart.
 
 <!-- walk: y1v8 ch1 → p.10 -->
+
+### y1v8 p.52–60 — Ch.2: the duel conditions
+[scene] (p.52) Third-year side of Nagumo’s early draft; later accepts the personal challenge under strict limits.
+[says:horikita-manabu] (p.52) “I don’t. This is more convenient for us too.” — on moving the large-group draft up.
+[rel:nagumo-miyabi] (p.53, 57–60) Accepts the average-score duel; refuses Nagumo’s framing about which of them can get the most students expelled; forbids attacks on his pawns and any harm spilling to other students — competition invalid if Nagumo meddles elsewhere.
+[says:horikita-manabu] (p.59) “Very well. I accept.”
+[says:horikita-manabu] (p.60) “However, this is a personal battle between you and me. Don’t drag anyone else into it.”
+[rel:fujimaki] (p.57–58) Keeps the third-years back when Nagumo goads Fujimaki into fighting.
+[trait] (p.60) Silence on whether pride is on the line — Ayanokōji reads it as not intending to put pride on the line at all.
+
+<!-- walk: y1v8 ch2 → p.76 -->

@@ -879,3 +879,20 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:ayanokouji-kiyotaka] (p.119, 123) Example of “spirited”; the gentle smile at the theater.
 
 <!-- walk: y1v7.5 ch5 → p.153 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.72–76 — Ch.2: the cafeteria hour with the Class B leader
+[scene] (p.72) At the one shared meal hour, Ayanokōji sits near Ichinose’s crowded table and listens until she spots him.
+[says:ichinose-honami] (p.73) “It’ll be okay, Mako-chan. As long as we take this seriously, it’s not going to come to that.”
+[says:ichinose-honami] (p.73) “If that time does come, we’ll all help each other out”
+[says:ichinose-honami] (p.75) “Ayanokouji-kuuun!”
+[says:ichinose-honami] (p.75) “My energy’s the only thing I have going for me.”
+[rel:ayanokouji-kiyotaka] (p.72–75) He eavesdrops, then answers honestly when she notices; she apologises for flopping on the table; he tells her not to work too hard and leaves.
+[trait] (p.73) Exhausted but stout-hearted — warned about solidarity and expulsions, still promises the class will help each other.
+[rel:kanzaki-ryuuji] (p.73) Her group’s talk cites Kanzaki-kun on the boys deciding quickly.
+[feat] (p.73–75) Names how the girls fought harder on likes and dislikes than the boys; asks whether Ryuuen-kun is tired of being hated.
+
+<!-- walk: y1v8 ch2 → p.76 -->

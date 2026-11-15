@@ -2694,3 +2694,20 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (p.145) Passing mention: the mystery caller cites what Horikita-senpai talked about — taking down Nagumo; the elder Horikita is Manabu by prior context.
 
 <!-- walk: y1v7.5 ch6 → p.170 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.11–43 — Ch.2: the girls’ leader and the text on the bus
+[scene] (p.11) Silent through most of the bus briefing until the representative payout lands; later takes charge of the Class C girls under the split-dormitory rules.
+[says:horikita-suzune] (p.23) “Did you say double?”
+[rel:hirata-yousuke] (p.30–31) Accepts Hirata’s nomination to lead the girls; admits she is abrasive and recruits Kushida so classmates who fear her still have a channel.
+[says:horikita-suzune] (p.31) “Which is why I’d like Kushida-san to assist me.”
+[says:horikita-suzune] (p.31) “In the event someone finds it difficult to speak directly with me, you can do so via Kushida-san.”
+[rel:ayanokouji-kiyotaka] (p.30, 34) Texts him for ideas; receives “None” and “Do your best”; on arrival she seems to want to talk before the lines split them.
+[trait] (p.31) Knows her trust gap with Hirata and designs around it instead of denying it.
+
+[note] (p.76) Chapter ends with her girls’ leadership setup; no further pages this chapter.
+
+<!-- walk: y1v8 ch2 → p.76 -->

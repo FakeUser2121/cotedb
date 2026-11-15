@@ -850,3 +850,16 @@ aliases used for anchors: sakura, airi, sakura-san
 [rel:hasebe-haruka] (p.112) The cover afternoon still in force.
 
 <!-- walk: y1v7.5 ch5 → p.153 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.11–43 — Ch.2: named in the Ayanokōji Group chat
+[scene] (p.11) Not on the bus dialogue line; named in the group chat Ayanokōji checks after texting Horikita and Kei.
+[note] (p.30) Passing mention: “Keisei, Akito, and even Airi and Haruka all happily discussed the exam.”
+[rel:ayanokouji-kiyotaka] (p.32) Listed among the friends he hopes will not be expelled.
+
+[note] (p.76) Chapter ends with the group-chat mention; no further pages this chapter.
+
+<!-- walk: y1v8 ch2 → p.76 -->

@@ -189,3 +189,24 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [rel:horikita-suzune] (p.115) The impossible-choice probe that frames the corner talk.
 [note] (p.115) No dialogue or action from Kanzaki on these pages.
 <!-- walk: y1v6 ch5 → p.131 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.11–43 — Ch.2: cautious Class B counterweight
+[scene] (p.11) In the gym as the Class B student who refuses Matoba’s five-minute clock and weighs the all-four-class multiplier.
+[says:kanzaki-ryuuji] (p.36) “Sorry, I need more time to answer that”
+[says:kanzaki-ryuuji] (p.38) “It’s an interesting proposal. But after the five minutes have passed, the value of joining your group plummets significantly.”
+[rel:matoba-shinji] (p.36–38) Holds firm against the deadline; predicts Class A returns once the window closes.
+[rel:shibata-sou] (p.38–42) Agrees to walk away with Shibata; later co-signs the four-class blend with Kaneda and Hirata.
+[rel:kaneda-satoru] (p.40–42) Still ruminating on the all-four-class math when Kaneda pushes the siege.
+
+### y1v8 p.44–49 — Ch.2: the Ryuuen risk belongs to Class D
+[scene] (p.44) Present in the gym as Class B’s voice on where Ryuuen should sit.
+[rel:ryuuen-kakeru] (p.48–49) Tells Hirata that helping Ryuuen would hurt two other classes — “If you weigh the risks, it’s not a good idea.”
+[rel:hirata-yousuke] (p.48–49) Pushed by Hirata to define “do something about it”; holds that Class D should own its own problem.
+[rel:kaneda-satoru] (p.48–49) Notes Kaneda and Ishizaki may dislike the situation but have no right to saddle B and C with it.
+[feat] (p.48) Names the likely Class D reading — cutting Ryuuen loose so he sabotages someone else.
+
+<!-- walk: y1v8 ch2 → p.76 -->

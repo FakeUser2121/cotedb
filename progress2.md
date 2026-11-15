@@ -2206,3 +2206,24 @@ already list y1v8 for both. verify y1v8: 0 [says] ALL PASS + 5 non-says
 ALL PASS; make check OK (R18 0, R19 82/82); gate exit 0; hash
 `ff885e45386a6bf8e77713e65226060b` twice. New tags: none. Next: ch2
 Mixed Training Camp (pp.11–76).
+
+### y1v8 ch2 — walked
+Mixed Training Camp pp.11–76 walked in two halves. Bus briefing: group-size
+and class-mix multipliers, representative expulsion, solidarity rule, 20M
+revocation, 100-class-point penalty, phones out, split dorms; Hirata’s
+even-split fails; Chabashira’s “not pocket money” advice; Horikita takes the
+girls with Kushida as relay; Ayanokōji’s safety list and Kei advice. Gym:
+Matoba’s five-minute 14+1 with Katsuragi as fall guy; Kaneda/Kanzaki
+four-class siege; Yamauchi wins the Class A seat. Group forming: Miyake buys
+Ryuuen’s seat; Ayanokōji’s ten-person group reports without a rep; Nagumo
+moves the early draft; Matoba takes Manabu’s third-years, Kaneda takes
+Gōda’s, Yukimura takes Nagumo’s; Fujimaki rebukes the personal challenge;
+Kōenji’s twenty-million Class A plan is exposed and he refuses the rep role;
+Yukimura takes it; dorm bed scramble; first cafeteria hour with Ichinose.
+New ledgers: matoba-shinji, sumida-makoto, moriyama, gouda. hasebe-haruka
+volumes cell gained y1v8 (group-chat name). Bare “Tokitou” left without a
+page row (which Tokitō is not printed — y1v4 precedent). Attribution: Hirata’s
+“Thank you.” after the failed vote left untagged. verify y1v8: 68 [says]
+ALL PASS + 55 non-says ALL PASS; make check OK (R18 0, R19 82/82); gate exit
+0; hash `5997e7c2d301e09b4a0d3c0d87876371` twice. New tags: none. Next: ch3
+(pp.77–109).

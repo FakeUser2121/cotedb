@@ -1190,3 +1190,31 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [note] (p.169) Passing mention: “If my relationship with Hirata-kun ends…” — Karuizawa’s risk if she breaks up.
 
 <!-- walk: y1v7.5 ch6 → p.170 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.11–43 — Ch.2: the failed even-split and the Class A deal
+[scene] (p.11) On the Class C bus Hirata takes Chabashira’s microphone and runs the class’s strategy discussion; in the gym he brokers Class A’s offer for a C-seat.
+[says:hirata-yousuke] (p.27) “I’d like to propose an even distribution”
+[note] (p.29) After the hand vote, a single “Thank you.” is printed with no speaker tag; the next line states Hirata’s motion failed. Left unattributed here.
+[rel:horikita-suzune] (p.30–31) Names Horikita as the girls’ leader while the sexes are split; she accepts and pulls Kushida in as relay.
+[says:hirata-yousuke] (p.41) “I think Class A will keep their word.”
+[says:hirata-yousuke] (p.41) “Because they’re Class A, I suppose.”
+[rel:matoba-shinji] (p.38–41) Confirms Matoba’s terms — special entrant not punished for honest low scores — before shopping the seat to Class C.
+[rel:ayanokouji-kiyotaka] (p.38–41) Pulls Ayanokōji and Keisei into a low-voice huddle on whether Class A can be trusted.
+[goal] (p.38) “It is absolutely essential that everyone in Class C makes it through.”
+[feat] (p.41) Argues Class A still has over two years of reputation to protect, so a broken promise would cost them future deals.
+[rel:ike-kanji] (p.41–42) Directs his gaze at Ike and Yamauchi when asking Class C for a volunteer.
+
+### y1v8 p.44–56 — Ch.2: the Ryuuen invite and the third-year pick
+[scene] (p.44) Takes representative duty for a Class C-heavy group, then invites the one student nobody will take.
+[rel:ryuuen-kakeru] (p.46–49) “Ryuuen-kun. Would you care to join our team?” — his group resists; Kanzaki argues Class D should own the risk; Hirata would have paired with Ryuuen in a pairs test but goes silent in a group test.
+[rel:kanzaki-ryuuji] (p.48–49) Asks Kanzaki whether B and C should help; accepts that the risk is not theirs to shoulder.
+[rel:ike-kanji] (p.55–56) Ike questions the third-year pick; Hirata answers that exceptional people bring trouble and the seniors he chose “aren’t half bad”; Ike drops it — trust cultivated with the class.
+[rel:matoba-shinji] (p.55) Second first-year group to draft; Matoba goes first and takes Horikita Manabu’s third-years without hesitation.
+[rel:nagumo-miyabi] (p.52–55) Present when Nagumo moves the large-group draft early; Hirata’s group is one of the five already represented.
+[feat] (p.55) Skips the two obvious power groups for a third-year set Ayanokōji does not recognise — judged on fit, not star power.
+
+<!-- walk: y1v8 ch2 → p.76 -->

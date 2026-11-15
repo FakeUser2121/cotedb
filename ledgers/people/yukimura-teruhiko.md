@@ -486,3 +486,26 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.156) Passing mention: “He means people like Horikita and Yukimura.”
 
 <!-- walk: y1v7.5 ch6 → p.170 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.11–43 — Ch.2: group chat and the gym huddle
+[scene] (p.11) Named in the Ayanokōji Group chat on the bus approach; later present in the gym when Hirata pulls Keisei and Ayanokōji aside.
+[note] (p.30) Passing mention: “Keisei, Akito, and even Airi and Haruka all happily discussed the exam.”
+[rel:hirata-yousuke] (p.38) Takes the lead answering Hirata’s “What do you think?” on Class A’s proposal.
+[rel:ayanokouji-kiyotaka] (p.32) One of the friends on Ayanokōji’s protection list.
+
+### y1v8 p.44–76 — Ch.2: the reluctant representative
+[scene] (p.44) Checks the plan with Akito, then ends up as the delayed group’s pushed proxy and finally its representative.
+[rel:miyake-akito] (p.44–45) The pair discuss leaving Hirata’s safety for an elite minority; Yukimura is the one Akito says he will stick with.
+[says:yukimura-teruhiko] (p.45) “Hirata focuses on protecting his comrades, rather than winning.”
+[rel:hirata-yousuke] (p.44–45) Not satisfied with Hirata’s protect-over-win way — wants victory with an elite few.
+[rel:kouenji-rokusuke] (p.47–48) Names Kōenji among the leftover Class C seats; later takes the bed under him without complaint.
+[rel:nagumo-miyabi] (p.55–56, 61–68) Ayanokōji shoves him into the representative circle; Class B asks his group to take Nagumo’s; Nagumo then forces the delayed group to name a rep and Yukimura says “I guess I should do it.”
+[rel:ishizaki-daichi] (p.56, 69) Ishizaki defers the draft choice to him; in the dorm Yukimura tries to rein in bed dibs until Ayanokōji’s presence settles Ishizaki.
+[rel:fujimaki] (p.59) Explains to Ishizaki that Horikita’s condition means no dirty tricks — “no kicking our opponents while they’re down, like Ryuuen likes to do.”
+[trait] (p.70) Willing to take the bed no one else wants — “significant that Keisei was willing to do the things no one else wanted to do.”
+
+<!-- walk: y1v8 ch2 → p.76 -->

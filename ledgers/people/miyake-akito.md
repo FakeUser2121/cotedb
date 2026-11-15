@@ -229,3 +229,24 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [note] (p.36) Passing mention: Horikita notes a study group formed specifically to help Hasebe-san and Miyake.
 
 <!-- walk: y1v7 ch7 → p.207 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.11–43 — Ch.2: named in the Ayanokōji Group chat
+[scene] (p.11) Not on the bus dialogue line; named in the group chat Ayanokōji opens after texting Horikita and Kei.
+[note] (p.30) Passing mention: “Keisei, Akito, and even Airi and Haruka all happily discussed the exam” in the Ayanokōji Group thread.
+[rel:ayanokouji-kiyotaka] (p.30, 32) Listed among the friends Ayanokōji hopes will not be expelled, though they are not his top-priority protectees.
+
+### y1v8 p.44–56 — Ch.2: the Ryuuen seat for the lion’s share
+[scene] (p.44) With Yukimura at the gym edge, he proposes buying the unwanted Ryuuen seat.
+[says:miyake-akito] (p.44) “I’m thinking of sticking with Keisei. I mean, using my head really isn’t my strong suit.”
+[says:miyake-akito] (p.50) “ALLOW ME to suggest something.”
+[says:miyake-akito] (p.50) “In return, I want the lion’s share of the reward for first place.”
+[goal] (p.50) Offers to act as representative for whoever takes Ryuuen, demanding the first-place lion’s share — Ayanokōji suspects the real motive is getting someone to take Ryuuen in.
+[rel:ryuuen-kakeru] (p.50–51) The only willing buyer of the poisoned seat when no one else will touch him.
+[rel:nagumo-miyabi] (p.56) Answers Ayanokōji’s mutter on why groups avoid Nagumo — the rest of that second-year group is “kind of iffy.”
+[feat] (p.56) Reads Kaneda’s Gōda pick as reliable allies, not a snub of Nagumo’s person.
+
+<!-- walk: y1v8 ch2 → p.76 -->

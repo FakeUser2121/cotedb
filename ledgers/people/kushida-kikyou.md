@@ -1259,3 +1259,18 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [note] (p.78) Passing mention: “Kushida was targeting Horikita at the moment.”
 
 <!-- walk: y1v7.5 ch5 → p.153 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.11–43 — Ch.2: relay for the girls’ side
+[scene] (p.11) Present on the Class C bus; seated near the front when Horikita recruits her under the split-dormitory plan.
+[says:kushida-kikyou] (p.31) “W-will I even be useful?”
+[says:kushida-kikyou] (p.31) “Um… Well, okay. If you’d like, I’ll help.”
+[rel:horikita-suzune] (p.31) Accepts the relay role so girls who will not approach Horikita can reach her; Ayanokōji flags her trustworthiness as “a matter of some concern” while still calling this the best available setup.
+[trait] (p.31) Publicly the class’s universal trust node — Horikita’s own words: “Everyone in our class trusts you.”
+
+[note] (p.76) Chapter ends with her acceptance of the girls’ relay role; no further pages this chapter.
+
+<!-- walk: y1v8 ch2 → p.76 -->

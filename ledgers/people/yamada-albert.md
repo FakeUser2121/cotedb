@@ -133,3 +133,15 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 
 
 <!-- walk: y1v7.5 ch4 → p.106 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.51–71 — Ch.2: silent Class D seat
+[scene] (p.51) Second Class D name in Ayanokōji’s group; takes the lower bunk and answers nothing at first.
+[rel:ishizaki-daichi] (p.51, 69–71) Hashimoto asks whether Albert speaks Japanese; Ishizaki answers for him while Albert stares ahead — “Ryuuen-san’s normally the one giving orders.”
+[rel:hashimoto-masayoshi] (p.70) Settles into the bunk beneath Ishizaki without complaints — the only heavyset student, takes bottom by default.
+[limit] (p.71) No Japanese line of his own on these pages; speech attributed only through Ishizaki.
+
+<!-- walk: y1v8 ch2 → p.76 -->

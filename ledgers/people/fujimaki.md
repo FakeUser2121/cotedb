@@ -26,3 +26,19 @@ char_id: fujimaki · class: Class 3-A · status: minor
 ### y1v5 p.32 — Ch.2: a passing mention
 [scene] (p.32) Named as the third-year who took Red Team command when the festival opened.
 [note] (p.32) The café rules recap and assembly lead-in both credit Fujimaki with the mixed-team command.
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.57–60 — Ch.2: the third-year who interrupts Nagumo
+[scene] (p.57) Steps forward when Nagumo keeps challenging Horikita Manabu in front of first-years.
+[says:fujimaki] (p.57) “How many times have you done this? Enough already.”
+[says:fujimaki] (p.57) “You cannot treat this like your own personal game.”
+[says:fujimaki] (p.58) “You may be student council president, but that doesn’t mean you can do as you please.”
+[rel:nagumo-miyabi] (p.57–58) Told he is overstepping; Nagumo taunts him as third-year Class A’s number two and offers him as the duel opponent instead of Horikita.
+[rel:horikita-manabu] (p.57–58) Horikita keeps the stepped-forward third-years back while Fujimaki argues.
+[feat] (p.57) Recognised by Ayanokōji as the person who ran the Sports Festival — certain influence among the third-years.
+[trait] (p.57) “fundamentals” moral line — even if not against the rulebook, some actions are simply bad.
+
+<!-- walk: y1v8 ch2 → p.76 -->

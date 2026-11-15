@@ -88,3 +88,19 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 [note] (p.13) Passing mention: “Class B’s Shibata-kun” is listed with Yousuke-kun and Tsukasaki-kun as more popular than Ayanokōji.
 
 <!-- walk: y1v7.5 ch2 → p.34 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.11–43 — Ch.2: the Ryuuen question in the gym
+[scene] (p.11) In the gym beside Kanzaki as Class B weighs Class A’s pitch and Class D’s new voice.
+[says:shibata-sou] (p.38) “Yeah, that’s right. Who’d be crazy enough to do that?”
+[says:shibata-sou] (p.43) “I just wanted to make sure. Sorry if I offended you”
+[rel:kaneda-satoru] (p.43) Asks whether Ryuuen ordered Kaneda’s strategy — the question Hirata and Kanzaki would not put to him — and apologizes when Kaneda turns grim.
+[rel:ryuuen-kakeru] (p.43) Voices the open suspicion that Ryuuen’s fall from Class D leadership might be a charade.
+[rel:kanzaki-ryuuji] (p.38–42) Leaves with Kanzaki after calling the special terms a bad deal for anyone past the five-minute window.
+
+[note] (p.76) Chapter ends with his Ryuuen probe; no further pages this chapter.
+
+<!-- walk: y1v8 ch2 → p.76 -->
