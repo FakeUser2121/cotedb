@@ -2727,3 +2727,24 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:sakayanagi-arisu] (p.129) The promise-keeping contrast that defines her by what Sakayanagi lacks.
 
 <!-- walk: y1v8 ch4 → p.147 -->
+
+### y1v8 p.212–215 — Ch.8: the room, the oath, the choice
+[scene] (p.212) POV — makes contact with Kushida in the dorm room while the cafeteria holds the rest; runs the whole confrontation to the parting line.
+[says:horikita-suzune] (p.212) “I’m not seeing the current situation? What do you mean by that?”
+[says:horikita-suzune] (p.212) “I won’t deny that those objectives are part of it,”
+[says:horikita-suzune] (p.213) “I can’t deny that either.”
+[says:horikita-suzune] (p.213) “Unfortunately, I’m afraid I can’t let this go.”
+[says:horikita-suzune] (p.213) “I want you to trust me,”
+[says:horikita-suzune] (p.214) “I gain nothing by telling people.”
+[says:horikita-suzune] (p.214) “Cramped?”
+[says:horikita-suzune] (p.214) “Aren’t you just strangling yourself with your own two hands then?”
+[says:horikita-suzune] (p.215) “I understand. I’ll leave things for today.”
+[says:horikita-suzune] (p.215) “I really am powerless, aren’t I?”
+[rel:kushida-kikyou] (p.212–215) Full-room confrontation — surveillance/comrade framing accepted in part; priority-is-her admitted; trust refused both ways; chooses to keep her close.
+[rel:horikita-manabu] (p.213–215) Brother’s coming graduation is the clock on the oath and the “another school” push.
+[rel:ayanokouji-kiyotaka] (p.215) Named as the most reliable comrade grown distant after the student-council reveal; still chooses Kushida over his cooperation.
+[trait] (p.212–215) Welcomes the honesty so they can move forward; cannot deny the Paper Shuffle priority; quiet sigh at the “waste of time” cut.
+[goal] (p.213–215) Unresolved Kushida problem blocks everything; act before the oath dies with the brother’s graduation.
+[limit] (p.215) “very few comrades I could trust” — powerless close; must choose her.
+
+<!-- walk: y1v8 ch8 → p.215 -->

@@ -501,3 +501,13 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [status] (p.201, 209) Third-year fight frozen by the contest; abstain framed as least-damage by Nagumo, rejected here.
 
 <!-- walk: y1v8 ch7 → p.211 -->
+
+### y1v8 p.213, 215 — Ch.8: named as the oath’s clock
+[scene] (p.213) Named in Kushida’s oath defence and the graduation lever; p.215 the “another school” push.
+[note] (p.213) POV: “while my brother isn’t the sort who would say anything to anyone else, once he graduated, the oath she swore would be meaningless.”
+[note] (p.215) Kushida: “you came here so you could be at the same school as your older brother… your brother will be graduating soon, so you won’t need to force yourself to stay.”
+[rel:horikita-suzune] (p.213, 215) Her reason for the school and the clock on the Kushida problem.
+[rel:kushida-kikyou] (p.213, 215) The oath witness and the lever she uses to push Suzune out.
+[limit] (p.213, 215) Named only — no dialogue.
+
+<!-- walk: y1v8 ch8 → p.215 -->

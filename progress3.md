@@ -1629,3 +1629,8 @@ bare-minimum bargain through Ichinose’s dinner tell and Tachibana’s courtyar
 checkmate to Nagumo’s abstain demand and the Ayanokōji-name play in the
 corridor. Determinism hash across consecutive builds:
 `9803e29ef20bda01ea79f32a0d571e09`.
+
+Year 1 Volume 8 chapter 8 runs from the dorm-room Suzune–Kushida
+surveillance and oath argument through the knife metaphor to Kushida’s “last
+time” exit and Suzune’s powerless choice of her over Ayanokōji. Determinism
+hash across consecutive builds: `bc252f2a2f6455e6d268d431c6c720c4`.

@@ -2328,3 +2328,19 @@ change. verify y1v8: 535 [says] ALL PASS + 214 non-says ALL PASS; make check
 OK (R18 0, R19 82/82); gate exit 0; hash
 `9803e29ef20bda01ea79f32a0d571e09` twice. New tags: none. Next: ch8
 (pp.212–215).
+
+### y1v8 ch8 — walked
+The Second Half of the Girls’ Battle: Horikita Suzune pp.212–215 walked
+(4pp, short, single stamp). Dorm-room Suzune–Kushida confrontation on final
+eve: surveillance/comrade framing, priority-is-her accepted, student-council
+oath and brother’s graduation clock, junior-high destroy-the-class threat,
+knife-in-the-neck cramped-environment metaphor, know-it-all irritation,
+“another school” push, “last time” exit; Suzune’s powerless close choosing
+Kushida over Ayanokōji’s cooperation. No new ledgers. Rule 12 sample:
+relationships clean; who-knew-what gets the named-only Ayanokōji/Manabu
+notes; expulsions 0 (oath/expel threat is past-frame not on-table this
+chapter’s rows — Kushida junior-high line does not use expel); points/results
+0 — no pattern change. verify y1v8: 564 [says] ALL PASS + 222 non-says ALL
+PASS; make check OK (R18 0, R19 82/82); gate exit 0; hash
+`bc252f2a2f6455e6d268d431c6c720c4` twice. New tags: none. Next: ch9
+(pp.216–241).

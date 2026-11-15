@@ -4176,3 +4176,12 @@ walk: y1v1 → DONE
 [goal] (p.202) Make a move on Tachibana’s trouble before it is truly checkmate.
 
 <!-- walk: y1v8 ch7 → p.211 -->
+
+### y1v8 p.215 — Ch.8: named as the distant reliable
+[scene] (p.215) Named in Suzune’s powerless close — the one she could most often rely on.
+[note] (p.215) “Ayanokouji-kun seemed like the one I could most often rely on, but he and I had grown more distant of late, probably because I forced him to talk about the student council in front of Kushida-san.”
+[rel:horikita-suzune] (p.215) Distance after the student-council reveal; still weighed against keeping Kushida close.
+[rel:kushida-kikyou] (p.215) The reason for the distance — forced talk in front of her.
+[limit] (p.215) Named only — no dialogue this chapter.
+
+<!-- walk: y1v8 ch8 → p.215 -->

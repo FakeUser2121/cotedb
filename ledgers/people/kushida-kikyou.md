@@ -1288,3 +1288,32 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [status] (p.144) Framed as a completed Paper Shuffle move, not a live camp thread.
 
 <!-- walk: y1v8 ch4 → p.147 -->
+
+### y1v8 p.212–215 — Ch.8: the public persona, the knife, the last time
+[scene] (p.212) Serious look in the dorm room; forceful under the friendly tone while eyes and ears are out at dinner.
+[says:kushida-kikyou] (p.212) “Look, Horikita-san. To be honest with you, I don’t think you’re seeing the current situation for what it is.”
+[says:kushida-kikyou] (p.212) “You forced me to be in the same group as you, for the purpose of keeping me under surveillance…or to have me acknowledge you as a comrade. Is that right?”
+[says:kushida-kikyou] (p.212) “You seem to be acting on your personal feelings. I wonder how that will work as a strategy. It’s certainly true that you and I don’t get along, Horikita-san. But if you were thinking about the group’s scores…no, if you”
+[says:kushida-kikyou] (p.213) “were thinking about your class, shouldn’t you keep your personal feelings out of it?”
+[says:kushida-kikyou] (p.213) “You’ve made me, and me alone, your priority. Winning and losing are just secondary concerns. Am I wrong?”
+[says:kushida-kikyou] (p.213) “So you admit it.”
+[says:kushida-kikyou] (p.213) “It doesn’t matter what you do,”
+[says:kushida-kikyou] (p.213) “Enough already. I want you to understand that.”
+[says:kushida-kikyou] (p.213) “Look, it’s not my place to say this, but have you forgotten about how you dragged me out in front of the student council president and made me swear I wouldn’t do anything? Putting aside my own feelings, which I will not get over, I promised I wouldn’t do anything to sabotage you, Horikita-san. I thought you’d at least trust me that much. Or did you think I’d break my promise right away?”
+[says:kushida-kikyou] (p.214) “Wow, you’re blunt.”
+[says:kushida-kikyou] (p.214) “No matter what, I will not say anything to anyone about your past. What do I have to do to make you believe me?”
+[says:kushida-kikyou] (p.214) “Unfortunately, there’s no way you can convince me,”
+[says:kushida-kikyou] (p.214) “You’re certainly right about that. If I did find out you told someone, I’d show no mercy. I might even destroy the entire class, just like I did back in junior high. As someone who’s aiming for Class A, you obviously wouldn’t put yourself in jeopardy. At least, that’s what you’d assume,”
+[says:kushida-kikyou] (p.214) “But if you ask me, our current environment’s a little cramped.”
+[says:kushida-kikyou] (p.214) “For example, would you obey a stranger who puts a knife to the back of your neck and says he’ll hurt you if you don’t cooperate? There’s a difference between a situation where you can’t be hurt even if someone tried to and a situation where someone could hurt you if they wanted to. You understand, don’t you?”
+[says:kushida-kikyou] (p.215) “Do you honestly not get that your know-it-all tone irritates me more than anything else? You’re talking this way because you know my true personality. I can’t stand that. If you didn’t know anything about me, you wouldn’t be saying these things.”
+[says:kushida-kikyou] (p.215) “You’re smarter than me. Wouldn’t you do just fine even at another school? Besides, you came here so you could be at the same school as your older brother. Right, Horikita-san? But your brother will be graduating soon, so you won’t need to force yourself to stay. You could study at a different school, go on to college or land a job. Wouldn’t that be fine?”
+[says:kushida-kikyou] (p.215) “I’ll be quiet for now. But I will never trust or cooperate with you, Horikita-san. Until either you or I are gone from this school, we’ll never be okay. No matter how many times we have this conversation. You’d do well to remember that.”
+[says:kushida-kikyou] (p.215) “Not just today. This is the last time.”
+[rel:horikita-suzune] (p.212–215) The whole scene — priority accusation, oath defence, knife metaphor, “another school” push, “last time” exit.
+[rel:horikita-manabu] (p.213, 215) The oath was sworn before him; his graduation is the lever to get Suzune to leave.
+[trait] (p.212–215) Public friendly tone over forceful content; cannot stand anyone holding power over her; junior-high destroy-the-class threat still live; never trust or cooperate.
+[goal] (p.214–215) End the cramped power hold — remove Suzune from the school rather than share the secret.
+[limit] (p.213–214) Bound by the student-council-president sabotage oath until the brother graduates.
+
+<!-- walk: y1v8 ch8 → p.215 -->
