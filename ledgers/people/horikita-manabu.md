@@ -359,6 +359,7 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 
 <!-- walk: y1v7 ch7 → p.207 -->
 
+
 ## y1v7.5
 
 <!-- walk: y1v7.5 → start -->
@@ -408,5 +409,9 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [note] (p.156–159) Passing mention: intel handoff plan; Kiriyama still holds school rules in high respect because of Horikita’s endorsement.
 [rel:kiriyama-ikuto] (p.155–159) Former Class A senpai; the reason Kiriyama approaches first years at all.
 [rel:nagumo-miyabi] (p.155–159) The rival whose fall Kiriyama wants Horikita to exploit.
+
+### y1v7.5 p.124 — Ch.5: named in the relay callback
+[scene] (p.124) Named once when Nagumo identifies Ayanokōji as the student who squared off against Horikita-senpai.
+[note] (p.124) Passing mention: “He was the student who squared off against Horikita-senpai in the relay race.”
 
 <!-- walk: y1v7.5 ch6 → p.170 -->

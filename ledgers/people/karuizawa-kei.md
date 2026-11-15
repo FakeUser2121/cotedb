@@ -916,6 +916,7 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y1v7 ch7 → p.207 -->
 
+
 ## y1v7.5
 
 <!-- walk: y1v7.5 → start -->
@@ -980,5 +981,18 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:hirata-yousuke] (p.164–165) Contemplates breaking up; admits the pressure of the fake couple; Ayanokōji says he already nudged her off.
 [rel:satou-maya] (p.163–168) Sees Satou’s ungiven present; Ayanokōji saw the two of them at Keyaki Mall on the 23rd.
 [trait] (p.163–169) Gives a Christmas gift “just in case”; terrified of being less useful than Satou; ends the walk as indispensable to Ayanokōji.
+
+### y1v7.5 p.16, 18, 23, 30, 33, 122, 129, 132, 146, 152 — coverage passes
+[scene] (p.16) POV lead-in and name-hits outside her dated scenes: morning greeting, date logistics, movie talk, and the walk home.
+[note] (p.16) Passing mention: morning greeting at school after the plan is set.
+[note] (p.18) Passing mention: named in Satou’s double-date pitch and the idol/type questions.
+[note] (p.23) Passing mention: named as Hirata’s girlfriend in the popularity talk.
+[note] (p.30) Passing mention: named in the double-date logistics.
+[note] (p.33) Passing mention: Karuizawa named in Satou’s plan summary.
+[note] (p.122) Passing mention: jealousy interrogation in the movie-seat talk.
+[note] (p.129) Passing mention: movie-seat talk; Hirata’s gratitude to her.
+[note] (p.132) Passing mention: named in the student-council invitation tangent.
+[note] (p.146) Passing mention: “What happened to Hirata?” — she and Ayanokōji peel off first.
+[note] (p.152) Passing mention: named in the Manabu sibling-reveal briefing.
 
 <!-- walk: y1v7.5 ch6 → p.170 -->

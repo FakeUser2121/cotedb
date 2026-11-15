@@ -476,3 +476,13 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [rel:horikita-suzune] (p.154) The first name in the playboy tally.
 
 <!-- walk: y1v7 ch6 → p.196 -->
+
+## y1v7.5
+
+<!-- walk: y1v7.5 → start -->
+
+### y1v7.5 p.156 — Ch.6: named as misplaced talent
+[scene] (p.156) Named once in Karuizawa’s risk-model talk as someone “placed in the wrong class.”
+[note] (p.156) Passing mention: “He means people like Horikita and Yukimura.”
+
+<!-- walk: y1v7.5 ch6 → p.170 -->

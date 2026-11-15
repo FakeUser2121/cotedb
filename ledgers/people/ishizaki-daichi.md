@@ -217,6 +217,7 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y1v7 ch7 → p.207 -->
 
+
 ## y1v7.5
 
 <!-- walk: y1v7.5 → start -->
@@ -241,5 +242,8 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [rel:ryuuen-kakeru] (p.73, 76) One of the three who stopped the dropout; still near the former leader.
 [rel:ayanokouji-kiyotaka] (p.84) Still hostile.
 
+### y1v7.5 p.161 — Ch.6: named in the risk model
+[scene] (p.161) Named once in Ayanokōji’s Nagumo risk model as part of the Sudou fight.
+[note] (p.161) Passing mention: “that one fight between Sudou and those Class C guys—Ishizaki and his friends.”
 
 <!-- walk: y1v7.5 ch4 → p.106 -->

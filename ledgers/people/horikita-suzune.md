@@ -2631,6 +2631,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y1v7 ch6 → p.196 -->
 
+
 ## y1v7.5
 
 <!-- walk: y1v7.5 → start -->
@@ -2685,5 +2686,11 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (p.160–161) Passing mention / dialogue: Karuizawa asks if Horikita-san is okay with the partnership; Ayanokōji says she just sits next to him, wants her leading with Hirata and Karuizawa supporting.
 [rel:ayanokouji-kiyotaka] (p.160–161) Not the partner; the future leader he is shaping Class D around.
 [rel:karuizawa-kei] (p.160–161) The “better partner” question on the walk home.
+
+### y1v7.5 p.85, 131, 145 — coverage passes
+[scene] (p.85) Named alongside Manabu at the secret meeting and as the beneficiary of the deal.
+[note] (p.85) Passing mention: Ryuuen — “That’s probably useful for Suzune too.”
+[note] (p.131) Passing mention: Kushida “was working against Horikita.”
+[note] (p.145) Passing mention: the mystery caller cites what Horikita-senpai talked about — taking down Nagumo; the elder Horikita is Manabu by prior context.
 
 <!-- walk: y1v7.5 ch6 → p.170 -->

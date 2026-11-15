@@ -1571,3 +1571,12 @@ Year 1 Volume 7 chapter 7 is Ryuuen’s morning-after loss: Ibuki’s
 Ayanokōji’s mirror of his own first week; the postscript teases the
 third semester. Determinism hash across consecutive builds:
 `154a3e9549268cedc52cf9a363f629dc`.
+
+Year 1 Volume 7.5 is a three-day Christmas supplement: Karuizawa’s date
+plan and Satō’s ask, Ayanokōji’s pharmacy bag and the Sakayanagi–Ichinose
+pitch, Ibuki’s disastrous day, the double date and Nagumo’s arm-grab,
+Satō’s honest rejection, the Manabu sibling reveal, Kiriyama’s burner-email
+pact, and the cold-medicine gift that names Karuizawa “Kei.” Coverage gate
+closed with passing-mention notes and volume-end FP list; postscript is
+author note only. Determinism hash across consecutive builds:
+`da14d05ffec87700cf7950cdfe2782ef`.

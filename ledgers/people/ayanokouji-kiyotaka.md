@@ -3831,6 +3831,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y1v7 ch7 → p.207 -->
 
+
 ## y1v7.5
 
 <!-- walk: y1v7.5 → start -->
@@ -3923,5 +3924,24 @@ walk: y1v1 → DONE
 [rel:nagumo-miyabi] (p.157–159) Target of Kiriyama’s intel; Ayanokōji already on Nagumo’s list after the relay.
 [rel:horikita-manabu] (p.155–159) Kiriyama admired him; intel would go to him if Nagumo falls.
 [trait] (p.168–169) Bought cold medicine for Karuizawa on the 23rd after seeing her with Satou at Keyaki Mall; admits the roof hurt her; asks for covert help going forward.
+
+### y1v7.5 p.27, 30, 66, 71, 96, 98, 100, 102, 106, 108, 117, 129, 132, 147, 150, 164 — coverage passes
+[scene] (p.27) Name-hit threads outside his own dialogue blocks: Satou’s jealousy, Kushida’s café call, Sakura’s gloves, and Karuizawa’s tool talk.
+[note] (p.27) Passing mention: Satou’s internal line — “it wasn’t Kiyotaka.”
+[note] (p.30) Passing mention: named in the double-date logistics.
+[note] (p.66) Passing mention: named in the bookstore senior-couple tangent.
+[note] (p.71) Passing mention: “If you’re not hanging with us, Kiyopon…” — Hasebe’s warning.
+[note] (p.96) Passing mention: “Good morning, Ayanokouji-kun,” said Kushida at the café.
+[note] (p.98) Passing mention: Kushida asks if he should join the Christmas group.
+[note] (p.100) Passing mention: Kushida asks if she may call him by given name.
+[note] (p.102) Passing mention: “See you later, Ayanokouji-kun.” — Kushida’s gentle exit.
+[note] (p.106) Passing mention: Sakura’s glove goodbye — “Good night, Kiyotaka-kun.”
+[note] (p.108) Passing mention: Sakura’s morning greeting at the meet spot.
+[note] (p.117) Passing mention: Hirata and Satou call him kind; he deflects.
+[note] (p.129) Passing mention: “what you did for Karuizawa-san” — Hirata’s thanks.
+[note] (p.132) Passing mention: Hirata floats the student-council invitation.
+[note] (p.147) Passing mention: “you’re not like normal guys, Kiyotaka.” — Karuizawa after the confession.
+[note] (p.150) Passing mention: Karuizawa asks if he only views people as tools.
+[note] (p.164) Passing mention: “Hey, Kiyotaka. Sorry to bother you…” — gift hesitation talk.
 
 <!-- walk: y1v7.5 ch6 → p.170 -->

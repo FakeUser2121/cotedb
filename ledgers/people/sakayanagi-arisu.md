@@ -267,6 +267,7 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y1v7 ch7 → p.207 -->
 
+
 ## y1v7.5
 
 <!-- walk: y1v7.5 → start -->
@@ -304,5 +305,9 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.150) Passing mention: “On top of that, there was Chabashira-sensei and Chairman Sakayanagi.” — as potential targets; honeypot idea using Karuizawa.
 [rel:ayanokouji-kiyotaka] (p.149–150) Ongoing White Room threat; reason Karuizawa stays indispensable.
 [rel:karuizawa-kei] (p.150) Hypothetical honeypot — Ayanokōji’s internal note, not a plan shared with her.
+
+### y1v7.5 p.49 — Ch.3: named as a non-goal
+[scene] (p.49) Named once in Ayanokōji’s reply as someone he is not competing with for the upper classes.
+[note] (p.49) Passing mention: “Besides, unlike Ryuuen and Sakayanagi, I’m not aiming for the upper classes.”
 
 <!-- walk: y1v7.5 ch5 → p.153 -->

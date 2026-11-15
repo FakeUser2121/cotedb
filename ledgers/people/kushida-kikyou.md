@@ -1215,6 +1215,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y1v7 ch5 → p.151 -->
 
+
 ## y1v7.5
 
 <!-- walk: y1v7.5 → start -->
@@ -1252,5 +1253,9 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:ayanokouji-kiyotaka] (p.122–123, 141) Named as a fallback he would refuse the same way.
 [rel:horikita-suzune] (p.131) The target of her ongoing sabotage.
 [rel:hirata-yousuke] (p.131) The fragile leader who might snap if the class collapses again.
+
+### y1v7.5 p.78 — Ch.3: the inside cancer
+[scene] (p.78) Named once in Ryuuen’s Class C talk as the inside threat targeting Horikita.
+[note] (p.78) Passing mention: “Kushida was targeting Horikita at the moment.”
 
 <!-- walk: y1v7.5 ch5 → p.153 -->

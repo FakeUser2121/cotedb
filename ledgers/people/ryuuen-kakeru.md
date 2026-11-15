@@ -1248,6 +1248,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y1v7 ch7 → p.207 -->
 
+
 ## y1v7.5
 
 <!-- walk: y1v7.5 → start -->
@@ -1298,5 +1299,12 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [note] (p.149) Passing mention: “If Ryuuen, or Sakayanagi, or even someone like Nagumo approached her, she wouldn’t crumble.”
 [rel:karuizawa-kei] (p.117, 149) The rooftop bully she survived; the reason her trust in Ayanokōji grew.
 [rel:sakayanagi-arisu] (p.149) Paired as threats she would no longer fold under.
+
+### y1v7.5 p.33, 39, 48, 62 — coverage passes
+[scene] (p.33) Name-hits outside his meetings: Karuizawa’s bullying memory, the warehouse fight, and Ibuki’s grudge.
+[note] (p.33) Passing mention: Karuizawa recalls that Kiyotaka manipulated Ryuuen and the others into bullying her.
+[note] (p.39) Passing mention: named in the Sakayanagi–Ichinose pitch as the Class C threat.
+[note] (p.48) Passing mention: Ibuki’s warehouse fight is framed against Ryuuen’s Class C.
+[note] (p.62) Passing mention: named in Ibuki’s rooftop rant about the earlier fight.
 
 <!-- walk: y1v7.5 ch5 → p.153 -->

@@ -157,6 +157,7 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 
 <!-- walk: y1v7 ch6 → p.196 -->
 
+
 ## y1v7.5
 
 <!-- walk: y1v7.5 → start -->
@@ -221,5 +222,13 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [note] (p.168) Passing mention: Ayanokōji saw Karuizawa and Satou together at Keyaki Mall on the 23rd and realized the double-date plot.
 [rel:ayanokouji-kiyotaka] (p.163, 168) The ungiven gift; the plot he spotted early.
 [rel:karuizawa-kei] (p.168) The co-conspirator he observed with Satou.
+
+### y1v7.5 p.14, 30, 122, 129, 133 — coverage passes
+[scene] (p.14) Name-hit threads across the volume outside her dated scenes: morning texts, movie talk, and the lunch round-robin.
+[note] (p.14) Passing mention: the morning text is from “my classmate Satou Maya,” who wants to meet for advice.
+[note] (p.30) Passing mention: Satou named in the double-date logistics talk.
+[note] (p.122) Passing mention: Satou named in Karuizawa’s jealousy interrogation.
+[note] (p.129) Passing mention: Satou named in the movie-seat talk after Hirata’s gratitude.
+[note] (p.133) Passing mention: Satou named in the lunch round-robin seating.
 
 <!-- walk: y1v7.5 ch6 → p.170 -->

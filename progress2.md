@@ -2175,3 +2175,23 @@ make check OK (R18 0, R19 82/82); gate exit 0; hash
 (append-only): Kushida p.174 line also filed under ayanokouji as
 says:kushida-kikyou; Hasebe p.102 duplicated; Chabashira/Ayanokōji p.248
 mirrored. Coverage gate on y1v7.5 still open. New tags: none.
+
+### y1v7.5 coverage gate closed — DONE stamped, shipped
+Word-boundary recheck of locator hits against the corpus: real gaps got
+passing-mention `[note]` sections (shibata-sou p.13; yukimura-teruhiko
+p.156; ishizaki-daichi p.161; tsukasaki-taiga p.17; kushida p.78; nagumo
+p.149; sakayanagi p.49; satou pp.14/30/122/129/133; karuizawa
+pp.16/18/23/30/33/122/129/132/146/152; hirata
+pp.13/23/117/129/139/146/151/161/169; ayanokouji
+pp.27/30/66/71/96/98/100/102/106/108/117/129/132/147/150/164; ryuuen
+pp.33/39/48/62; horikita-suzune pp.85/131/145; horikita-manabu p.124).
+Postscript-only names (p.171) recorded in the volume Coverage-notes only.
+Substring FPs listed in the volume-end locator note (ike “like”,
+kimura⊂Yukimura, ibuki TOC pp.10/35, and the no-boundary alias set).
+Fixed 12 people ledgers that had a y1v7.5 start marker but no `## y1v7.5`
+heading (karuizawa, hirata, tsukasaki, kushida, ayanokouji, nagumo,
+horikita-manabu, horikita-suzune, satou, ryuuen, ishizaki, sakayanagi).
+Volume stamped `Postscript → DONE`. verify y1v7.5: 183 [says] ALL PASS +
+126 non-says ALL PASS; make check OK (R18 0, R19 82/82); gate exit 0;
+hash `da14d05ffec87700cf7950cdfe2782ef` twice. New tags: none. y1v7.5
+complete. Next volume per owner order.

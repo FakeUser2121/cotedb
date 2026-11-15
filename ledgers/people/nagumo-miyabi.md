@@ -101,6 +101,7 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y1v7 ch3 → p.97 -->
 
+
 ## y1v7.5
 
 <!-- walk: y1v7.5 → start -->
@@ -111,7 +112,6 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [rel:horikita-manabu] (p.86–92) The debt Ayanokōji owes is to stop him; Manabu prepared student-council briefs.
 [rel:horikita-suzune] (p.92) If Suzune joins the student council, Manabu would cooperate — a Nagumo-adjacent lever.
 [feat] (p.88) Seventeen second-year expulsions already; involved in over half the cases per exit interviews.
-
 
 <!-- walk: y1v7.5 ch4 → p.106 -->
 
@@ -136,5 +136,9 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [note] (p.161–162) Passing mention: Ayanokōji’s risk model — dirty play could get people expelled (Sudou/Ishizaki fight as example).
 [rel:kiriyama-ikuto] (p.155–159) The regime Kiriyama infiltrates and wants removed from office.
 [rel:ayanokouji-kiyotaka] (p.157–162) Already on the radar after the relay; Ayanokōji weighs pretending the relay was a fluke.
+
+### y1v7.5 p.149 — Ch.5: named in the threat list
+[scene] (p.149) Named once in Ayanokōji’s honeypot math as a threat who would not crumble Karuizawa now.
+[note] (p.149) Passing mention: “If Ryuuen, or Sakayanagi, or even someone like Nagumo approached her, she wouldn’t crumble.”
 
 <!-- walk: y1v7.5 ch6 → p.170 -->

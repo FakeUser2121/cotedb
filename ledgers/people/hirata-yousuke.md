@@ -1125,6 +1125,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y1v7 ch7 → p.207 -->
 
+
 ## y1v7.5
 
 <!-- walk: y1v7.5 → start -->
@@ -1175,5 +1176,17 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [note] (p.163–165) Passing mention / dialogue target: Karuizawa’s present was bought as a public gesture for Yousuke-kun; she hesitates to keep the fake couple; Ayanokōji already nudged her off Hirata.
 [rel:karuizawa-kei] (p.163–165) The relationship she may end; social currency and pressure discussed on the walk.
 [rel:ayanokouji-kiyotaka] (p.158, 164–165) Pawn Ayanokōji is willing to release; “indispensable pawn” test set by Karuizawa.
+
+### y1v7.5 p.13, 23, 117, 129, 139, 146, 151, 161, 169 — coverage passes
+[scene] (p.13) Name-hit threads outside his dated scenes: popularity rank, class talk, movie gratitude, and the walk home.
+[note] (p.13) Passing mention: “Yousuke-kun” named as more popular than Ayanokōji.
+[note] (p.23) Passing mention: “Hirata-kun” named in the class-guys talk; Satou is his girlfriend.
+[note] (p.117) Passing mention: “I think Ayanokouji-kun’s kind, too,” said Hirata.
+[note] (p.129) Passing mention: “Nicely done,” said Hirata after the movie.
+[note] (p.139) Passing mention: “Yousuke-kun” named when Karuizawa suggests heading back.
+[note] (p.146) Passing mention: “What happened to Hirata?” — he has already gone home.
+[note] (p.151) Passing mention: Karuizawa’s nine-year bullying lie was told to Yousuke-kun to manipulate him.
+[note] (p.161) Passing mention: named as Class D’s supporting leader under Horikita.
+[note] (p.169) Passing mention: “If my relationship with Hirata-kun ends…” — Karuizawa’s risk if she breaks up.
 
 <!-- walk: y1v7.5 ch6 → p.170 -->

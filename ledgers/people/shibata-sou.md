@@ -78,3 +78,13 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 [note] (p.111) “Looks like Sudou-kun is going up against Shibata-kun” — Class B’s fastest runner warms up.
 [note] (p.187) Fire blazing in his eyes, Shibata chased down Nagumo on the anchor leg.
 [note] (p.189) Unlike Hirata, Shibata or Sudou, Ayanokouji had held back until now.
+
+## y1v7.5
+
+<!-- walk: y1v7.5 → start -->
+
+### y1v7.5 p.13 — Ch.2: the Class B comparison
+[scene] (p.13) Named once, as a Class B boy more popular than Ayanokōji.
+[note] (p.13) Passing mention: “Class B’s Shibata-kun” is listed with Yousuke-kun and Tsukasaki-kun as more popular than Ayanokōji.
+
+<!-- walk: y1v7.5 ch2 → p.34 -->
