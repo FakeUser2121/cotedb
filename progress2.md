@@ -2195,3 +2195,14 @@ Volume stamped `Postscript → DONE`. verify y1v7.5: 183 [says] ALL PASS +
 126 non-says ALL PASS; make check OK (R18 0, R19 82/82); gate exit 0;
 hash `da14d05ffec87700cf7950cdfe2782ef` twice. New tags: none. y1v7.5
 complete. Next volume per owner order.
+
+### y1v8 ch1 — walked
+Volume ledger created (`ledgers/volumes/y1v8.md`). Ch1 (p.10) one-page
+Horikita Manabu graduation soliloquy: aimless excellence, role-model
+posture, Nagumo as bulldozer, regret of no trusted friend, “just the
+beginning.” Viewpoint full linear read on horikita-manabu; nagumo-miyabi
+passing mention with rel mirrored. No new named entities; volumes cells
+already list y1v8 for both. verify y1v8: 0 [says] ALL PASS + 5 non-says
+ALL PASS; make check OK (R18 0, R19 82/82); gate exit 0; hash
+`ff885e45386a6bf8e77713e65226060b` twice. New tags: none. Next: ch2
+Mixed Training Camp (pp.11–76).

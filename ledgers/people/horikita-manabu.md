@@ -415,3 +415,17 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [note] (p.124) Passing mention: “He was the student who squared off against Horikita-senpai in the relay race.”
 
 <!-- walk: y1v7.5 ch6 → p.170 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.10 — Ch.1: the graduation soliloquy
+[scene] (p.10) Retrospective first-person soliloquy at graduation: his aimless excellence, the role-model posture, Nagumo’s pressure, and the regret of never trusting a friend.
+[voice] (p.10) Detached self-audit — “I didn’t know what I truly wanted out of life”; prefers tasks assigned over drama.
+[trait] (p.10) Chose the school without ambition; “Setting an ‘example.’ Being a ‘role model.’” — the posture he now doubts.
+[thinks] (p.10) “I realized my mistake—and the regret that it had left me with. And, I realized, that this was just the beginning.”
+[rel:nagumo-miyabi] (p.10) Nagumo “continues to take direct action against me, trying to clear me from his path” — described as “a bulldozer.”
+[status] (p.10) At graduation: gave up acting against Nagumo before the end; no friend truly trusted from the bottom of his heart.
+
+<!-- walk: y1v8 ch1 → p.10 -->

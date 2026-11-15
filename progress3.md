@@ -1580,3 +1580,10 @@ pact, and the cold-medicine gift that names Karuizawa “Kei.” Coverage gate
 closed with passing-mention notes and volume-end FP list; postscript is
 author note only. Determinism hash across consecutive builds:
 `da14d05ffec87700cf7950cdfe2782ef`.
+
+Year 1 Volume 8 chapter 1 is a single-page Horikita Manabu soliloquy at
+graduation: he joined without ambition, played the role model, faced
+Nagumo’s direct pressure until he stopped responding, and regrets never
+making a friend he could trust — “this was just the beginning.”
+Determinism hash across consecutive builds:
+`ff885e45386a6bf8e77713e65226060b`.

@@ -142,3 +142,14 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [note] (p.149) Passing mention: “If Ryuuen, or Sakayanagi, or even someone like Nagumo approached her, she wouldn’t crumble.”
 
 <!-- walk: y1v7.5 ch6 → p.170 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.10 — Ch.1: named as the bulldozer
+[scene] (p.10) Named in Manabu’s graduation soliloquy as the one who took direct action to clear him from the path.
+[note] (p.10) Passing mention: “Nagumo Miyabi continues to take direct action against me” — “Perhaps ‘a bulldozer’ is the description that fits him best.”
+[rel:horikita-manabu] (p.10) Pressed Manabu for three years; Manabu had given up responding before graduation.
+
+<!-- walk: y1v8 ch1 → p.10 -->
