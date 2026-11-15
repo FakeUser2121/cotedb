@@ -88,3 +88,24 @@ aliases used for anchors: kaneda, kaneda satoru, kaneda-kun
 
 
 <!-- walk: y1v7 ch7 → p.207 -->
+
+## y1v7.5
+
+<!-- walk: y1v7.5 → start -->
+
+### y1v7.5 p.54 — Ch.3: named as the next strategist
+[scene] (p.54) Name-hit only in Ishizaki’s answer about who will run Class C strategy.
+[note] (p.54) Passing mention: “Hell if I know. Kaneda’ll probably do it, I guess.”
+[rel:ishizaki-daichi] (p.54) Ishizaki’s pick to replace Ryuuen’s planning role.
+
+<!-- walk: y1v7.5 ch3 → p.72 -->
+
+### y1v7.5 p.84–85 — Ch.4: named as future Class C leader
+[scene] (p.84) Name-hit in Ayanokōji’s worry about who will lead Class C next semester.
+[note] (p.84) Passing mention: “Next semester, Kaneda and Hiyori will probably lead Class C…no, Class D.”
+[note] (p.85) Passing mention: “That’ll be up to Kaneda and Hiyori,” said Ryuuen — whether the class accepts the Class A strike plan.
+[rel:ryuuen-kakeru] (p.84–85) Ryuuen’s pick to carry the strategic groundwork after stepping down.
+[rel:shiina-hiyori] (p.84–85) Paired with her as the next leadership.
+
+
+<!-- walk: y1v7.5 ch4 → p.106 -->

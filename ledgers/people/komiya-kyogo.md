@@ -99,3 +99,16 @@ char_id: komiya-kyogo · class: Class 1-C (enrolled April 2015) · status: minor
 
 
 <!-- walk: y1v7 ch6 → p.196 -->
+
+## y1v7.5
+
+<!-- walk: y1v7.5 → start -->
+
+### y1v7.5 p.54 — Ch.3: walking with Ishizaki
+[scene] (p.54) One of the three Class C boys passing Ayanokōji and Ibuki.
+[says:komiya-kyogo] (p.54) “About earlier…did you really get into it with Ryuuen-san? For real?”
+[says:komiya-kyogo] (p.54) “That’s a relief, man. But wait. Who’s gonna come up with strategies and stuff?”
+[rel:ishizaki-daichi] (p.54) Asks him about the Ryuuen fight.
+[rel:ryuuen-kakeru] (p.54) Fearful of the boss’s temper; relieved by the cover story.
+
+<!-- walk: y1v7.5 ch3 → p.72 -->

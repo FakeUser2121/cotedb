@@ -1247,3 +1247,56 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 
 <!-- walk: y1v7 ch7 → p.207 -->
+
+## y1v7.5
+
+<!-- walk: y1v7.5 → start -->
+
+### y1v7.5 p.12, 20, 32 — Ch.2: named in the roof aftermath
+[scene] (p.12) Backstory only — he summoned Karuizawa to the roof the day before and bullied her.
+[rel:karuizawa-kei] (p.12) The bully; Kiyotaka’s manipulation of him is what freed her from the past.
+[rel:manabe-shiho] (p.20) Grouped with Manabe as the real threat Kiyotaka took care of.
+[rel:ayanokouji-kiyotaka] (p.32) Karuizawa fears Kiyotaka may plan to use Satou the way he once used her against Ryuuen’s circle.
+
+<!-- walk: y1v7.5 ch2 → p.34 -->
+
+### y1v7.5 p.36–37, 49, 54–56, 66 — Ch.3: named in the fallout and alone in the bookstore
+[scene] (p.66) Alone in the bookstore looking at academic books, back turned, no cronies; Ayanokōji spots him and does not approach.
+[says:ryuuen-kakeru] (p.36) “He gets ever so angry when I call him this, but Dragon Boy was after you, wasn’t he?” — speaker is Sakayanagi quoting his label.
+[says:ryuuen-kakeru] (p.54) “Yeah. Albert and Ibuki were with me too. Ryuuen-san’s…no, Ryuuen’s time is over. From now on, he’s done giving orders.” — speaker is Ishizaki reporting; Ryuuen does not speak on-page in ch3.
+[rel:ayanokouji-kiyotaka] (p.36, 49, 66) Rooftop defeat; bookstore sighting after the beating; Ayanokōji leaves him alone.
+[rel:ishizaki-daichi] (p.54–55) Ishizaki’s cover story that Ryuuen’s time is over.
+[rel:kamuro-masumi] (p.36) Sakayanagi has told no one about the White Room, “not even Ryuuen.”
+
+<!-- walk: y1v7.5 ch3 → p.72 -->
+
+### y1v7.5 p.73–90 — Ch.4: the snow-bench negotiation
+[scene] (p.73) Alone at the pre-seven bench; former Class C leader still out and unhidden after the roof.
+[says:ryuuen-kakeru] (p.73) “It’s rude to ask somebody to come out so early in the mornin’,” he spat.
+[says:ryuuen-kakeru] (p.76) “You really are a piece of work, huh?” Ryuuen snapped. “I’m amazed at how far you’ll go just to screw with people.”
+[says:ryuuen-kakeru] (p.78) “Kikyou, huh?” Ryuuen didn’t even need to think about it. “Yeah, she’s certainly giving you a lot of trouble.”
+[says:ryuuen-kakeru] (p.79) “You really are terrifying. You’ll sink your class if it means taking down your enemies, huh? I knew you had it in you, Ayanokouji.”
+[says:ryuuen-kakeru] (p.81) “Listen. An enormous amount of private points move around in a year… If I can squeeze a hundred thousand points out of every student per month, that alone gives me forty-eight million points.”
+[says:ryuuen-kakeru] (p.84) “Next semester, Kaneda and Hiyori will probably lead Class C…no, Class D. I’ll let them know that it’s in our best interest to attack Class A instead of you guys,”
+[says:ryuuen-kakeru] (p.86) “Since soon after he enrolled. It appears that your path to understanding him has been longer and more arduous,”
+[says:ryuuen-kakeru] (p.87) “I thought you were some intellectual jerkoff who only had book smarts, but you ain’t half bad,” said Ryuuen—a rare compliment.
+[says:ryuuen-kakeru] (p.89) “Save it. I’ve always been alone,” Ryuuen answered. He trudged off through the snow.
+[rel:ayanokouji-kiyotaka] (p.73–85) Defeated but unbowed; shared-interest deal; price is Class A spoils; refuses to be a puppet.
+[rel:horikita-manabu] (p.85–89) Condescending to the elder Horikita; front-kick snow feint blocked cleanly; leaves before the conspiracy deepens.
+[rel:kushida-kikyou] (p.78–79) Knows she targets Suzune; “quite a girl.”
+[rel:kaneda-satoru] (p.84–85) Pick to lead Class C next semester with Hiyori.
+[rel:shiina-hiyori] (p.84–85) Same.
+[rel:nagumo-miyabi] (p.86–88) Calls the expulsions rational if the victims were worthless nobodies.
+[feat] (p.87) Front kick and jab against Manabu; blocked completely even with snow in the eyes; rare compliment earned.
+[trait] (p.89) “I’ve always been alone” — walks off alone through the snow after the meeting.
+
+<!-- walk: y1v7.5 ch4 → p.106 -->
+
+### y1v7.5 p.117, 149 — Ch.5: named in the roof and the honeypot math
+[scene] (p.117) Name-hit in Karuizawa’s sarcasm; p.149 as a threat who would not crumble her now.
+[note] (p.117) Passing mention: “if someone close to him came down with a bad flu, he wouldn’t even visit them” — Karuizawa’s jab after the roof with Ryuuen.
+[note] (p.149) Passing mention: “If Ryuuen, or Sakayanagi, or even someone like Nagumo approached her, she wouldn’t crumble.”
+[rel:karuizawa-kei] (p.117, 149) The rooftop bully she survived; the reason her trust in Ayanokōji grew.
+[rel:sakayanagi-arisu] (p.149) Paired as threats she would no longer fold under.
+
+<!-- walk: y1v7.5 ch5 → p.153 -->

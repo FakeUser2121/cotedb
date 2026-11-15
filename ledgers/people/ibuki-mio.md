@@ -577,3 +577,44 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 
 <!-- walk: y1v7 ch7 → p.207 -->
+
+## y1v7.5
+
+<!-- walk: y1v7.5 → start -->
+
+### y1v7.5 p.45–64 — Ch.3: movie, warehouse, and the eight-hundred-million question
+[scene] (p.45) Christmas Eve-ish afternoon movie; Ibuki sits alone beside Ayanokōji; equipment fails; they end up trapped in a Keyaki Mall warehouse and fight.
+[says:ibuki-mio] (p.48) “Geh!” She gave a disgusted grunt. (armrest collision — sound only; kept as printed)
+[says:ibuki-mio] (p.48) “Jeez. I really have no luck at all.”
+[says:ibuki-mio] (p.48) “All this time, you’ve made fun of me. I can’t forgive you for that.”
+[says:ibuki-mio] (p.56) “I hate you. I hate your lying, two-faced bullshit. You show the world a fake personality and keep the real you locked away.”
+[says:ibuki-mio] (p.57) “If you want me to back down, have another match with me,”
+[says:ibuki-mio] (p.62) “I didn’t think you’d go easy on me just because I’m female, but you really were merciless.”
+[says:ibuki-mio] (p.63) “You’re the strongest person I’ve ever seen. Stronger than any adult. How’d you get that strong?”
+[says:ibuki-mio] (p.64) “You know that a student needs twenty million points to get to Class A, right? For an entire class to do so, they need a combined total of eight hundred million points. Do you think it’s even possible to save such an absurd number?”
+[rel:ayanokouji-kiyotaka] (p.45–64) Rooftop grudge; forced rematch; concedes defeat; severs ties but expects to face him again.
+[rel:ryuuen-kakeru] (p.49, 55) Hates Ryuuen’s guts but hates more that Ayanokōji took him down; still respects Ryuuen’s abilities through Ishizaki.
+[rel:ishizaki-daichi] (p.54–55) Overhears his Class C cover story with Komiya and Kondou.
+[rel:manabe-shiho] (p.52) Named in Ayanokōji’s list of people who could be caught if the roof story spread.
+[trait] (p.53) Goal: see every movie they screen at the school — simple on paper, hard to sustain.
+[feat] (p.61–62) Martial-arts kicks in a cramped warehouse; tapped out after a throat grab, not knocked out.
+
+<!-- walk: y1v7.5 ch3 → p.72 -->
+
+### y1v7.5 p.76, 80, 84 — Ch.4: named in the bench talk
+[scene] (p.76) Name-hit in Ayanokōji’s explanation of why Ryuuen surrendered — Ibuki’s presence on the roof.
+[note] (p.76) Passing mention: Ibuki, Ishizaki, and Albert had been there; their shared-blame knowledge hastened the surrender.
+[note] (p.80) Passing mention: “Ibuki spilled the beans, huh?” — Ryuuen; Ayanokōji says she only asked whether eight hundred million was possible.
+[note] (p.84) Passing mention: Ishizaki and Ibuki, in particular, disliked Ayanokōji and might push Class C to challenge Class D.
+[rel:ryuuen-kakeru] (p.76, 80) Present on the roof; asked the eight-hundred-million question that exposed the class-wide point plan.
+[rel:ayanokouji-kiyotaka] (p.80, 84) The outsider who took Ryuuen down; still disliked by her.
+
+
+<!-- walk: y1v7.5 ch4 → p.106 -->
+
+### y1v7.5 p.129 — Ch.5: not at this movie
+[scene] (p.129) Absence note while Ayanokōji scans the fuller theater.
+[note] (p.129) Passing mention: “I didn’t see Ibuki. Maybe she wasn’t interested in an American animated film, or maybe she was just avoiding the crowds.”
+[rel:ayanokouji-kiyotaka] (p.129) The previous mall movie is why he checks for her; she is not here.
+
+<!-- walk: y1v7.5 ch5 → p.153 -->

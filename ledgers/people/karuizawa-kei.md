@@ -915,3 +915,70 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [note] (p.76) Passing mention: walking away from Chabashira, he notes his identity would be revealed if Karuizawa were caught or betrayed him.
 
 <!-- walk: y1v7 ch7 → p.207 -->
+
+## y1v7.5
+
+<!-- walk: y1v7.5 → start -->
+
+### y1v7.5 p.12–15 — Ch.2 §2.0: morning after the roof
+[scene] (p.12) December 23, Karuizawa’s dorm room; free of her past after Ryuuen’s rooftop bullying, she replays Kiyotaka’s role and dresses for a date meeting.
+[voice] (p.12) Self-narrated second person to herself: “I, Karuizawa Kei, was now free of my horrible past. No, that wasn’t it — it was more like I’d gained enough power to overcome that past.”
+[thinks] (p.12) I learned that Kiyotaka had goaded Manabe and her friends into bullying me. At first, I felt despair. Then anger. But, in the end, I was saved. By Kiyotaka.
+[rel:ayanokouji-kiyotaka] (p.12) The man who goaded the bullying and then saved her; the former student council president and Chabashira acted on his instructions after the roof.
+[rel:horikita-manabu] (p.12) Named only as “the former student council president” waiting with Chabashira after the roof.
+[rel:chabashira-sae] (p.12) Waiting with the former president; considerate, no long speech.
+[rel:manabe-shiho] (p.12) The bully Kiyotaka goaded into re-bullying her.
+[rel:ryuuen-kakeru] (p.12) Summoned her to the roof and bullied her viciously the day before.
+[trait] (p.13) Falling for Kiyotaka: “whether I was asleep or awake, Kiyotaka was always on my mind”; blushes like a fairy-tale princess in love.
+[voice] (p.14) Self-justifying banter with the mirror: “Only a person with a generous heart, like me, could forgive such a thing. Just be satisfied with that, Kiyotaka.”
+[trait] (p.14) Scars no longer stop her; “It was unbelievable how much I could change in one day.”
+[thinks] (p.15) “Wait. He touched me, didn’t he? He put his hands on me.” Ship-cabin memory of his hands on her thighs; she never held a boy’s hand before.
+[action] (p.15) Banishes all thought of Kiyotaka and gets dressed.
+
+<!-- walk: y1v7.5 ch2 → p.34 -->
+
+### y1v7.5 p.55, 61, 65 — Ch.3: named in loans and love
+[scene] (p.55) Name-hit in Ayanokōji’s risk note; later implied as Hirata’s girlfriend.
+[note] (p.55) Passing mention: “If he decided to talk, even Karuizawa might be in trouble.”
+[note] (p.61) Passing mention: “the large number of private points I ‘loaned’ to Karuizawa”
+[note] (p.65) Passing mention: “Karuizawa-san’s already claimed the only real prize.” — the girls mean Hirata.
+[rel:ayanokouji-kiyotaka] (p.55, 61) Exposure risk; private-point loan.
+[rel:hirata-yousuke] (p.65) The public couple that “claimed” Hirata.
+
+<!-- walk: y1v7.5 ch3 → p.72 -->
+
+### y1v7.5 p.109–153 — Ch.5: the wingwoman who hid in the bushes
+[scene] (p.109) Crashes the meet as Hirata’s “girlfriend”; proposes the spontaneous double date; later hides in the bushes during Satou’s confession and walks Ayanokōji home.
+[says:karuizawa-kei] (p.111) “Hey, don’t you think a double date sounds like fun?” asked Karuizawa.
+[says:karuizawa-kei] (p.117) “Wasn’t the student council president just slow? Like, maybe it was a race between two slowpokes,” she said.
+[says:karuizawa-kei] (p.121) “Maybe you’re really in love with Horikita-san, but hanging out with Satou-san like she’s a consolation prize, right?”
+[says:karuizawa-kei] (p.135) “When did you notice me?” / “N-not really. I only heard a little.”
+[says:karuizawa-kei] (p.147) “Even though I, like, went through all the trouble of shooting love’s arrow at you. I didn’t even miss; it just bounced right off you.”
+[says:karuizawa-kei] (p.151) “I told Yousuke-kun that I was bullied for nine years. That was a lie.” (junior-high vs elementary for Hirata’s sympathy)
+[says:karuizawa-kei] (p.153) “If you can’t, no one else can.” (about stopping Nagumo)
+[rel:ayanokouji-kiyotaka] (p.109–153) Wingwoman scheme; bush eavesdrop; learns the Manabu/Nagumo war; “no one else at this school knows me as deeply as you do.”
+[rel:satou-maya] (p.109–147) Helps her plan; later says girls get over heartbreak fast.
+[rel:hirata-yousuke] (p.109–130) Fake date cover; “Yousuke-kun’s a hundred times more amazing” deflections.
+[rel:nagumo-miyabi] (p.125) Defuses his arm-grab with “President Nagumo, you’re totally nuts.”
+[rel:manabe-shiho] (p.151) Names her as the bullying Ayanokōji goaded; accepts the delayed apology.
+[trait] (p.147–149) Angry that he “wasted” the unknown world talk; admits she doesn’t know that stuff; still follows him to the mystery second-year meet.
+
+<!-- walk: y1v7.5 ch5 → p.153 -->
+
+### y1v7.5 p.154–170 — Ch.6: partner, first name, and the gift that was almost medicine
+[scene] (p.154) Camouflage date-partner for the Kiriyama meet; §6.1 the walk home — partner terms, junior-high guess, Christmas gifts, first-name shift.
+[says:karuizawa-kei] (p.154) “It’s cold. They’re not here?” asked Karuizawa.
+[says:karuizawa-kei] (p.155) “Hey, Kiyotaka. I understand uniting your own class, but how could you possibly make other classes your allies? Isn’t everyone competing to reach Class A?” asked Karuizawa.
+[says:karuizawa-kei] (p.160) “If you just arbitrarily make me your partner, it’s not like I can do anything about it, right?”
+[says:karuizawa-kei] (p.163) “It’s a Christmas present from me to you. Take it, and be grateful.”
+[says:karuizawa-kei] (p.164) “If I happened to, say…break up with Yousuke-kun…would I stop being useful to you?”
+[says:karuizawa-kei] (p.164) “I-I see. To tell you the truth, I talked about this with Yousuke-kun a little. About how dragging this out any longer probably isn’t good, since it’s just a pretend relationship. I’ve been hesitating,” said Karuizawa.
+[says:karuizawa-kei] (p.166) “Huh? You wanna get smacked?”
+[says:karuizawa-kei] (p.169) “Fine. I’ll lend you a hand. In exchange, protect me. Okay? If my relationship with Hirata-kun ends, there could be all kinds of trouble.”
+[rel:ayanokouji-kiyotaka] (p.154–170) Partner named at the meet; “Kei” after he offers first name; cold medicine gift; agrees to covert help for protection.
+[rel:kiriyama-ikuto] (p.154–159) Present at the meet as Ayanokōji’s partner; asked why Kiriyama hates Nagumo.
+[rel:hirata-yousuke] (p.164–165) Contemplates breaking up; admits the pressure of the fake couple; Ayanokōji says he already nudged her off.
+[rel:satou-maya] (p.163–168) Sees Satou’s ungiven present; Ayanokōji saw the two of them at Keyaki Mall on the 23rd.
+[trait] (p.163–169) Gives a Christmas gift “just in case”; terrified of being less useful than Satou; ends the walk as indispensable to Ayanokōji.
+
+<!-- walk: y1v7.5 ch6 → p.170 -->

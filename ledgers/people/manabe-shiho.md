@@ -281,3 +281,29 @@ char_id: manabe-shiho · class: Class 1-C · status: minor
 
 
 <!-- walk: y1v7 ch6 → p.196 -->
+
+## y1v7.5
+
+<!-- walk: y1v7.5 → start -->
+
+### y1v7.5 p.12, 20 — Ch.2: named in the roof aftermath
+[scene] (p.12) Backstory only — goaded by Kiyotaka into re-bullying Karuizawa.
+[rel:karuizawa-kei] (p.12, 20) The junior-high-style bully; Kiyotaka “took care of” her and Ryuuen so no one will know Karuizawa’s past.
+
+<!-- walk: y1v7.5 ch2 → p.34 -->
+
+### y1v7.5 p.52 — Ch.3: named in the crossfire list
+[scene] (p.52) Name-hit in Ayanokōji’s risk assessment if the roof story spreads.
+[note] (p.52) Passing mention: “Manabe and her friends might get caught in the crossfire.”
+[rel:ibuki-mio] (p.52) Grouped with the rooftop witnesses who would be implicated.
+[rel:ayanokouji-kiyotaka] (p.52) The bully he goaded; exposure could suspend him at worst.
+
+<!-- walk: y1v7.5 ch3 → p.72 -->
+
+### y1v7.5 p.151 — Ch.5: the delayed apology
+[scene] (p.151) Named in the walk-home demand for an apology.
+[says:manabe-shiho] (p.151) “Anyway, aren’t you going to apologize again? For putting Manabe and her friends on my case?” — speaker is Karuizawa; Manabe does not speak in ch5.
+[rel:karuizawa-kei] (p.151) The bullying Ayanokōji goaded; Karuizawa wants the apology now.
+[rel:ayanokouji-kiyotaka] (p.151) The double date made him forget; he agrees to apologize another time.
+
+<!-- walk: y1v7.5 ch5 → p.153 -->

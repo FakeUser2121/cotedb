@@ -1102,3 +1102,42 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 
 <!-- walk: y1v7 ch6 → p.196 -->
+
+## y1v7.5
+
+<!-- walk: y1v7.5 → start -->
+
+### y1v7.5 p.18 — Ch.2: named in the popularity maths
+[scene] (p.18) One-line name-hit among Ayanokōji’s guy friends.
+[note] (p.18) Passing mention: grouped with Ike and Yamauchi as friends most girls disliked.
+
+<!-- walk: y1v7.5 ch2 → p.34 -->
+
+### y1v7.5 p.49, 56 — Ch.3: named in the Ibuki argument
+[scene] (p.49) Name-hit in Ibuki’s accusation that Ayanokōji never lets things slide.
+[note] (p.49) Passing mention: “Even before that, if you let the whole thing with Sudou slide, that would’ve been it.”
+[note] (p.56) Passing mention: “unlike Sudou and Ishizaki, I’m not the hotheaded type.” — speaker is Ayanokōji.
+[rel:ayanokouji-kiyotaka] (p.49) The expulsion he did not let happen, which Ibuki cites as the start of Ryuuen’s grudge.
+
+<!-- walk: y1v7.5 ch3 → p.72 -->
+
+### y1v7.5 p.87, 93–95, 98 — Ch.4: the rejected date and the tail
+[scene] (p.93) Lobby eavesdrop — his Christmas ask to Horikita was shot down; he still presses on; joins the Ike tail.
+[says:sudou-ken] (p.93) “Shut it, Haruki. Just drop it.”
+[says:sudou-ken] (p.93) “Tch. I’m just going to take things slow. It’s not like Suzune’s got a boyfriend or anythin’. It’s just… I dunno, she doesn’t seem interested in stuff like romance. I’m not gonna rush things.”
+[says:sudou-ken] (p.94) “Hey, Kanji, don’t tell me…”
+[says:sudou-ken] (p.94) “Dude, why Shinohara? Aren’t you two always fighting?” asked Sudou in disbelief.
+[says:sudou-ken] (p.95) “I don’t believe you! Come on, Ken, let’s tail ’em!” — shared with Yamauchi’s line pattern; Sudou proposes the tail with him.
+[rel:horikita-suzune] (p.87, 93, 98) Christmas date ask refused; still not giving up; Kushida names the ask in the café.
+[rel:ike-kanji] (p.93–95) Partner in the tail; disbelief at the Shinohara pairing.
+[rel:yamauchi-haruki] (p.93–95) Same.
+[rel:horikita-manabu] (p.87) Name-hit in Manabu’s earlier context of first-year trials (Sudou’s assault trial led by student council).
+
+<!-- walk: y1v7.5 ch4 → p.106 -->
+
+### y1v7.5 p.161 — Ch.6: the fight that might have gone differently
+[scene] (p.161) Named in Ayanokōji’s dirty-play hypothetical.
+[note] (p.161) Passing mention: “that one fight between Sudou and those Class C guys—Ishizaki and his friends. If the student council president had backed those Class C boys, Sudou’s fate might’ve been massively different.”
+[rel:ayanokouji-kiyotaka] (p.161) Example used to explain how easily expulsion could be engineered.
+
+<!-- walk: y1v7.5 ch6 → p.170 -->

@@ -797,3 +797,21 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [note] (p.85) Passing mention: Ayanokōji recalls Chabashira-sensei’s expulsion threat while weighing his father’s return; no new dialogue.
 
 <!-- walk: y1v7 ch7 → p.207 -->
+
+## y1v7.5
+
+<!-- walk: y1v7.5 → start -->
+
+### y1v7.5 p.12 — Ch.2: the stair witness after the roof
+[scene] (p.12) Waiting with the former student council president when Karuizawa left the roof.
+[rel:karuizawa-kei] (p.12) Considerate; helped her back to the dorms on Kiyotaka’s instructions.
+[rel:ayanokouji-kiyotaka] (p.12) Acting on his instructions.
+
+<!-- walk: y1v7.5 ch2 → p.34 -->
+
+### y1v7.5 p.150 — Ch.5: named as a potential target
+[scene] (p.150) Internal threat list only.
+[note] (p.150) Passing mention: “On top of that, there was Chabashira-sensei and Chairman Sakayanagi.” — still potential targets alongside the chairman.
+[rel:ayanokouji-kiyotaka] (p.150) Teacher who knows his leverage; listed with the chairman as residual risk.
+
+<!-- walk: y1v7.5 ch5 → p.153 -->

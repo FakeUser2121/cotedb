@@ -1214,3 +1214,43 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:ryuuen-kakeru] (p.123) The Class D leak he deliberately keeps quiet about while using her information.
 
 <!-- walk: y1v7 ch5 → p.151 -->
+
+## y1v7.5
+
+<!-- walk: y1v7.5 → start -->
+
+### y1v7.5 p.41 — Ch.3: the extreme hidden self
+[scene] (p.41) Internal comparison only while Ayanokōji weighs Kamuro’s secret-self remark.
+[note] (p.41) Passing mention: “Usually, that hidden personality wasn’t as extreme as Kushida’s, but all humans had a dark side.”
+[rel:ayanokouji-kiyotaka] (p.41) His private yardstick for how far a secret self can go.
+
+<!-- walk: y1v7.5 ch3 → p.72 -->
+
+### y1v7.5 p.78–80, 96–102 — Ch.4: the public hatchet-burial
+[scene] (p.96) Seated with Horikita at the mall café; invited by Horikita; stays through the student-council pitch.
+[says:kushida-kikyou] (p.96) “Good morning, Ayanokouji-kun,” said Kushida.
+[says:kushida-kikyou] (p.98) “By the way, Horikita-san, how have things been with Sudou-kun recently?” asked Kushida.
+[says:kushida-kikyou] (p.98) “Really? Didn’t Sudou-kun ask you out?”
+[says:kushida-kikyou] (p.99) “Is it okay if I overhear this? If this is about the student council, it might involve your brother.”
+[says:kushida-kikyou] (p.100) “How about we try contacting Tachibana-senpai?” asked Kushida.
+[says:kushida-kikyou] (p.102) “See you later, Ayanokouji-kun.” When Kushida spoke so gently to me, I sensed that something was amiss.
+[rel:horikita-suzune] (p.96–101) The public meeting; still targets her per Ryuuen’s earlier report; smiles through the council talk.
+[rel:ayanokouji-kiyotaka] (p.96–102) Overhears the Nagumo play; gets a gentle farewell that reads as a warning.
+[rel:tachibana-akane] (p.100) “I’ve talked to Tachibana-senpai a lot” — unexpected friendship across years.
+[rel:horikita-manabu] (p.99) Knows about the brother since junior high.
+[trait] (p.99) “Her smile always made you want to believe her kindness was genuine, no matter what unease you felt.”
+
+<!-- walk: y1v7.5 ch4 → p.106 -->
+
+### y1v7.5 p.119, 122–123, 131, 141 — Ch.5: named in the crocodile river
+[scene] (p.122) Name-hit in Karuizawa’s interrogation; later as the class-collapse risk Hirata might snap over.
+[says:kushida-kikyou] (p.123) “I think Kushida gets along with everybody,” — speaker is Ayanokōji; Kushida does not speak in ch5.
+[note] (p.119) Passing mention: “Kushida and Ichinose were spirited, too.”
+[note] (p.123) Passing mention: “Aren’t most guys in love with Kushida-san, though?”
+[note] (p.131) Passing mention: Kushida caused junior-high class collapse and still works against Horikita.
+[note] (p.141) Passing mention: “No matter who asked me out right now…whether it was you, Satou, or someone like Horikita or Kushida.” — Ayanokōji’s rejection line.
+[rel:ayanokouji-kiyotaka] (p.122–123, 141) Named as a fallback he would refuse the same way.
+[rel:horikita-suzune] (p.131) The target of her ongoing sabotage.
+[rel:hirata-yousuke] (p.131) The fragile leader who might snap if the class collapses again.
+
+<!-- walk: y1v7.5 ch5 → p.153 -->

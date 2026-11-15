@@ -2124,3 +2124,54 @@ Ch6 “Intersecting Thoughts” read in two halves (pp.152–174, pp.175–196).
 
 ### y1v7 ch7 + volume complete (pp.197–207) — walked
 Ch7 “What Ryuuen Wins and Loses” read in one pass (11 pp). Ryuuen’s snake dream; Ibuki’s 800-million checkmate on his phone; Sakagami’s next-day report and the parallel withdrawal forms for Ishizaki and Albert — “Fine. I won’t drop out.”; Ayanokōji’s mirror POV (“He and I were similar. And I could still use him.”); author postscript p.206 (Kinugasa surgery/anime note, third-semester teaser: Ichinose, Sakayanagi, Katsuragi, Hirata); newsletter p.207. People stamped ch7 → p.207: ayanokouji-kiyotaka, hirata-yousuke, ibuki-mio, ichinose-honami, ishizaki-daichi, kaneda-satoru (first ## y1v7 block), katsuragi-kouhei, ryuuen-kakeru, sakagami, sakayanagi-arisu, shiina-hiyori, yamada-albert. Quote fix: ishizaki p.198 paraphrase note reworded to unquoted prose. Volume section + coverage notes written; passing-mention sections for real locator gaps (chabashira p.85; ichinose pp.34, 78; ishizaki pp.22, 175; karuizawa pp.69, 76; miyake p.36; shiina p.53; yamada p.176; sakayanagi-arisu pp.78, 83 Arisu-not-chairman; horikita-manabu p.201 role-only). Uncommitted fix on top of shipped 9a5d1de: invalid [place:empty-classroom] rows removed from ayanokouji-kiyotaka and chabashira-sae. Translation defect kept as printed: p.204 “hand[ed] the paper and pen back to Sakayanagi” — form is Sakagami’s. Coverage: bare Albert = Yamada; bare Horikita none in ch7; horikita-manabu locator scan [201] false-positive on sort except the role-only p.201 note. Volume stamped `Chapter 7 → p.207` and `y1v7 Chapter 7 → DONE`. verify y1v7: 1210 [says] ALL PASS (59 too short/skipped) + 68 non-says ALL PASS; make check OK (R18 0, R19 82/82); gate exit 0; hash `154a3e9549268cedc52cf9a363f629dc` twice. New tags: none. y1v7 complete. Next volume per owner order.
+
+### y1v7.5 ch1–ch6 + postscript sections — walked (coverage gate open)
+Volume ledger created (`ledgers/volumes/y1v7.5.md`). Ch1 (p.11) one-page
+First Winter; ch2 (pp.12–34) Karuizawa POV date plan + Satō meet + night
+call; ch3 (pp.35–72) Ayanokōji POV pharmacy bag, Sakayanagi–Ichinose
+pitch, Kamuro, Ibuki movie/warehouse fight, girls’ chat, Hasebe call; ch4
+(pp.73–106) two halves — Nagumo entourage approach, Kiriyama/Mizowaki/
+Tonokawa first blocks; ch5 (pp.107–153) two halves — Christmas double
+date, Nagumo arm-grab and online-game tease, Hirata saint talk, Satou
+confession and honest rejection, bush eavesdrop, Manabu sibling reveal;
+ch6 (pp.154–170) one pass — Kiriyama secret meet, partner talk, first-name
+shift to Kei, cold-medicine gift, covert-help pact; postscript section
+(pp.171–172) Kinugasa author note + newsletter (no roster speech). New
+ledgers: satonaka-satoru, tsukasaki-taiga, kimura, matsushita-chiaki,
+kiriyama-ikuto, mizowaki, tonokawa, onizuka. Quote fixes after verify:
+hirata p.111 wrong line replaced with corpus “I really don’t think it’s
+our place…”; ayanokouji misattributed Hirata p.130 line removed and rel
+fragment unquoted; chabashira/sakayanagi p.150 “there’s” → corpus “there
+was”; hirata p.125 fused pair split. Translation defect kept as printed:
+p.157 “hard to achieve lucky.” Blanks/shorts: pp.121, 128, 133, 143, 166,
+167 (footer only). verify y1v7.5 after ch6: 183 [says] ALL PASS (5 too
+short/skipped) + 98 non-says ALL PASS. Coverage gate still open: real
+passing-mention gaps pending for shibata-sou p.13, yukimura-teruhiko
+p.156, ishizaki-daichi p.161, manabe-shiho p.20, sudou-ken p.98,
+tsukasaki-taiga p.17, sakayanagi-arisu p.49, nagumo-miyabi pp.131/145/
+149/151, kushida p.78 recheck, satou p.14, karuizawa early pp., hirata
+pp.13/23/146/151/161/169, ayanokouji early + p.171, horikita-suzune
+pp.85/131/145; locator FPs (ike “like”, kimura⊂Yukimura, ibuki TOC p.10,
+atsuomi 0 hits, bare-horikita manabu) → volume Coverage-notes only.
+Volume stamped through `Postscript → p.172`; DONE stamp, build/gate/make
+check/hash and ship still pending. New tags: none. Next: close coverage,
+DONE stamp, gate, ship; then next volume per owner order.
+
+### Expulsions topic pattern fix + y1v7.5 R18/R19 content fixes
+Owner: edit AGENTS.md, then fix the expulsion page; hand-curated membership,
+nothing auto-placed (new AGENTS.md rule 12; rule 3 amended so AGENTS.md may
+be edited on a standing instruction; §5 checklist extended to sample any
+topic that would republish new rows). `content/topics.tsv` expulsions
+pattern `expel|drop out|leaving the school|vote` → `expel|drop out|leaving
+the school` (bare `vote` matched ordinary elections and “devo**ted**”;
+182 → 135 entries, all keyword-matched and lede-checked by hand). Gate
+after rebuild was red from y1v7.5 rows (R18 32, R19 83): reworded
+dossier/ledger → brief/personnel-file/name in y1v7.5 volume + people rows
+(sakayanagi, ayanokouji, horikita-manabu, tachibana, nagumo, kiriyama,
+mizowaki, tonokawa) and volume p.172 “thank-you” → “thanks” (hyphen
+trippped R19). verify y1v7.5 still ALL PASS (183 [says] + 98 non-says);
+make check OK (R18 0, R19 82/82); gate exit 0; hash
+`5df20ad6bbef1d4c2ff1423aea0fe878` twice. Known ledger defects left as-is
+(append-only): Kushida p.174 line also filed under ayanokouji as
+says:kushida-kikyou; Hasebe p.102 duplicated; Chabashira/Ayanokōji p.248
+mirrored. Coverage gate on y1v7.5 still open. New tags: none.

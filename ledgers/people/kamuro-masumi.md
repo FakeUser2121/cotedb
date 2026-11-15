@@ -51,3 +51,19 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [rel:hashimoto-masayoshi] (p.112) Paired as the pair who talked.
 
 <!-- walk: y1v7 ch4 → p.119 -->
+
+## y1v7.5
+
+<!-- walk: y1v7.5 → start -->
+
+### y1v7.5 p.35, 40–43 — Ch.3: the pawn who heard the cold reading
+[scene] (p.40) Arrives late to the agreed meet-spot and finds Sakayanagi talking with Ayanokōji.
+[says:kamuro-masumi] (p.40) “So, this is where you’ve been? You shouldn’t just have left the spot we agreed to meet at. You’re the one with bad legs, after all,”
+[says:kamuro-masumi] (p.41) “I dunno. I think most people are like that, at least a little. They may say nice things, but we really have no idea what’s going on in their heads.”
+[says:kamuro-masumi] (p.41) “Yes. Exactly.” (Ichinose is stupidly good-natured)
+[says:kamuro-masumi] (p.42) “So, you’re saying that Ichinose did the same thing I did?” She sounded shocked.
+[rel:sakayanagi-arisu] (p.40–43) Entourage; used as a pawn even on winter vacation; holds a secret Sakayanagi keeps.
+[rel:ichinose-honami] (p.41–42) Sakayanagi claims they share the same problem, played out to different ends.
+[rel:ayanokouji-kiyotaka] (p.42–43) Refuses to ask why he and Sakayanagi spoke; Sakayanagi suspects she already has info on him.
+
+<!-- walk: y1v7.5 ch3 → p.72 -->

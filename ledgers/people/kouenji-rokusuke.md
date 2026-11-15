@@ -409,3 +409,15 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 
 <!-- walk: y1v7 ch6 → p.196 -->
+
+## y1v7.5
+
+<!-- walk: y1v7.5 → start -->
+
+### y1v7.5 p.37 — Ch.3: named as a puppet-master candidate
+[scene] (p.37) One-line name-hit in the Sakayanagi exchange.
+[says:kouenji-rokusuke] (p.37) “Probably because there’re quite a few talented candidates for puppet master in Class D. Kouenji, in particular, is very capable,” — speaker is Ayanokōji; Kouenji does not speak in ch3.
+[rel:ryuuen-kakeru] (p.37) Sakayanagi agrees he is a suitable opponent for Dragon Boy.
+[rel:sakayanagi-arisu] (p.37) Part of the third-semester preview she wants to wait for.
+
+<!-- walk: y1v7.5 ch3 → p.72 -->

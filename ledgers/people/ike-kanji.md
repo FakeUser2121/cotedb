@@ -765,3 +765,37 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:chabashira-sae] (p.152) The homeroom teacher he addresses as Sensei.
 
 <!-- walk: y1v7 ch6 → p.196 -->
+
+## y1v7.5
+
+<!-- walk: y1v7.5 → start -->
+
+### y1v7.5 p.18, 23 — Ch.2: named in the popularity maths
+[scene] (p.18) One-line name-hit among Ayanokōji’s guy friends.
+[note] (p.18) Passing mention: most girls disliked his friends “such as Ike-kun, Yamauchi-kun, and Sudou-kun.”
+[note] (p.23) Passing mention: Satou’s “most of the guys in our class are really immature” is read as Ike and Yamauchi.
+
+<!-- walk: y1v7.5 ch2 → p.34 -->
+
+### y1v7.5 p.68–69 — Ch.3: the rescue and the parting shot
+[scene] (p.68) Walks up on Shinohara being chewed out by a senior couple in the bookstore.
+[says:ike-kanji] (p.68) “Hey. What’re ya doing, Shinohara?” asked Ike Kanji, ignoring the seniors.
+[says:ike-kanji] (p.68) “Ah, I get it. She glares at me, too,” Ike laughed.
+[says:ike-kanji] (p.68) “But, hey, her face just looks like she’s always glaring, y’know? She wouldn’t have the guts to actually glare at an upperclassman. She’s just got resting bitch face or something,”
+[says:ike-kanji] (p.68) “At any rate, we better not cause a ruckus. A teacher was just here.”
+[says:ike-kanji] (p.69) “Y-yeah. See ya. Hey, enjoy your Christmas without a boyfriend!” Ike taunted.
+[rel:shinohara-satsuki] (p.68–69) Saves her from the seniors, then parting taunt; she denies the resting-bitch-face line after.
+
+<!-- walk: y1v7.5 ch3 → p.72 -->
+
+### y1v7.5 p.93–95 — Ch.4 §4.1: the Shinohara dinner leak
+[scene] (p.93) Lobby eavesdrop with Yamauchi and Sudou after turning down karaoke; admits a Christmas Eve dinner with Shinohara.
+[says:ike-kanji] (p.94) “Oh, uh…sorry, Haruki. I kinda can’t today.”
+[says:ike-kanji] (p.94) “Look, I’m just going out to dinner with a friend, that’s all.”
+[says:ike-kanji] (p.95) “It’s no big deal!” Ike cried. “I mean, me and Shinohara going out? There’s just no way. Not even if the world was ending!”
+[says:ike-kanji] (p.95) “Dudes, knock it off! If rumors about me and an uggo like Shinohara get around, it’ll be a huge pain in the ass!” shouted Ike.
+[rel:shinohara-satsuki] (p.94–95) The “friend” for dinner; he frames it as thanks for the senior-couple rescue.
+[rel:yamauchi-haruki] (p.93–95) Karaoke invite refused; Yamauchi grabs his collar for the name.
+[rel:sudou-ken] (p.93–95) Smells blood; proposes tailing the pair.
+
+<!-- walk: y1v7.5 ch4 → p.106 -->

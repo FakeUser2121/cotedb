@@ -216,3 +216,30 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [note] (p.175) Passing mention: Ryuuen asks whether Ishizaki agrees when declaring the game; the answer “Y-yes” sits on the same page.
 
 <!-- walk: y1v7 ch7 → p.207 -->
+
+## y1v7.5
+
+<!-- walk: y1v7.5 → start -->
+
+### y1v7.5 p.54–56 — Ch.3: the Class C cover story
+[scene] (p.54) Walking past Ayanokōji and Ibuki in the mall with Komiya and Kondou, still staggering from the roof.
+[says:ishizaki-daichi] (p.54) “Shut it. I’m fine, already. Aw—owww!”
+[says:ishizaki-daichi] (p.54) “Yeah. Albert and Ibuki were with me too. Ryuuen-san’s…no, Ryuuen’s time is over. From now on, he’s done giving orders.”
+[says:ishizaki-daichi] (p.54) “Hell if I know. Kaneda’ll probably do it, I guess.” (who will make strategies)
+[rel:ryuuen-kakeru] (p.54–55) Plays along with the falling-out cover; still does his duty; likely still respects Ryuuen.
+[rel:ibuki-mio] (p.54–55) Eavesdropped with her; she got an earlier e-mail from him that Ryuuen didn’t drop out.
+[rel:yamada-albert] (p.54) Named as one of the three who brought Ryuuen down.
+[rel:kaneda-satoru] (p.54) Named as the likely new strategist.
+
+<!-- walk: y1v7.5 ch3 → p.72 -->
+
+### y1v7.5 p.73, 76, 84 — Ch.4: named in the bench talk
+[scene] (p.73) Spotted with Ryuuen the day before; later named as roof witness.
+[note] (p.73) Passing mention: Ayanokōji says he saw Ryuuen the day before, plus Ishizaki and some other guys.
+[note] (p.76) Passing mention: roof witness whose presence shared the blame and hastened Ryuuen’s decision.
+[note] (p.84) Passing mention: dislikes Ayanokōji and might push Class C to challenge Class D.
+[rel:ryuuen-kakeru] (p.73, 76) One of the three who stopped the dropout; still near the former leader.
+[rel:ayanokouji-kiyotaka] (p.84) Still hostile.
+
+
+<!-- walk: y1v7.5 ch4 → p.106 -->

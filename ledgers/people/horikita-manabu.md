@@ -358,3 +358,55 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [note] (p.201) Passing mention: Ryuuen’s next-day report is timed because the former student council president already knew what happened on the roof — Horikita Manabu by prior context; the page does not print his name.
 
 <!-- walk: y1v7 ch7 → p.207 -->
+
+## y1v7.5
+
+<!-- walk: y1v7.5 → start -->
+
+### y1v7.5 p.12 — Ch.2: the stair witness after the roof
+[scene] (p.12) Named only as “the former student council president” waiting with Chabashira when Karuizawa left the roof.
+[rel:karuizawa-kei] (p.12) Helped her back to the dorms on Kiyotaka’s instructions; considerate, no long speech.
+[rel:ayanokouji-kiyotaka] (p.12) Acting on his instructions.
+
+<!-- walk: y1v7.5 ch2 → p.34 -->
+
+### y1v7.5 p.85–92 — Ch.4: the Nagumo debt and the sister test
+[scene] (p.85) Arrives punctually at the snow bench; treats Ryuuen as coconspirator; briefs Ayanokōji on student-council power and Nagumo.
+[says:horikita-manabu] (p.85) “It’s no bother. This is a good time for a secret meeting. A good place, too.”
+[says:horikita-manabu] (p.86) “Ayanokouji, do you recall the promise you made when you sought my help earlier?”
+[says:horikita-manabu] (p.87) “I’d like Ayanokouji to preserve and maintain order at this school. I don’t care by what means.”
+[says:horikita-manabu] (p.88) “As a matter of fact, seventeen second-year students have already been expelled. According to their exit interviews, Nagumo was involved in over half the cases,”
+[says:horikita-manabu] (p.90) “I cannot tell you at the current stage. I can’t guarantee their safety if Nagumo finds out.” (the undercover second year)
+[says:horikita-manabu] (p.91) “You’re thinking about what happens after I graduate,” he answered.
+[says:horikita-manabu] (p.92) “My sister’s incompetent. She always chased after my shadow. She’s made it her goal to catch up to me. That’s foolish,” he spat.
+[says:horikita-manabu] (p.92) “I’d cooperate.” (if Suzune joined the student council)
+[rel:ayanokouji-kiyotaka] (p.85–92) Debts, briefs, and the undercover-second-year play; admits he knew of Suzune since soon after enrollment.
+[rel:nagumo-miyabi] (p.86–92) The man he wants removed or obstructed; student-council expulsions and exam design as the threat.
+[rel:horikita-suzune] (p.88–92) Calls her incompetent and a shadow-chaser; would cooperate if she joined the council — harsh, not indifferent.
+[rel:ryuuen-kakeru] (p.85–89) Coconspirator by Ayanokōji’s framing; blocked the snow feint; “you aren’t fit to serve on the student council.”
+[rel:tachibana-akane] (p.89) Secretary context via the brief handoff (Kushida later calls her).
+[feat] (p.86–87) Blocks Ryuuen’s jab with vision obscured; adjusts glasses, unfazed.
+
+<!-- walk: y1v7.5 ch4 → p.106 -->
+
+### y1v7.5 p.117, 119–126, 131–132, 140–141, 145, 151–153 — Ch.5: the debt behind the arm-grab
+[scene] (p.117) Named as the relay rival Ayanokōji beat; later as sibling and Nagumo’s rival.
+[note] (p.117) Passing mention: “you were even quicker than the student council president!” — Satou on the relay.
+[note] (p.119) Passing mention: “They definitely weren’t as dour as Horikita.” — Suzune, not Manabu.
+[note] (p.123–125) Passing mention: Nagumo fixated on Ayanokōji because of “Horikita-senpai.”
+[note] (p.131) Passing mention: Nagumo removed anyone who stood in his way — Manabu’s earlier brief restated.
+[note] (p.145, 151–153) Passing mention / dialogue: sibling of Suzune; debt from the rooftop; mission to remove Nagumo.
+[rel:nagumo-miyabi] (p.125, 151–153) Rival; his talking to Ayanokōji triggers the theater approach.
+[rel:horikita-suzune] (p.152) Sibling link revealed to Karuizawa as why Manabu notices Ayanokōji.
+[rel:ayanokouji-kiyotaka] (p.145, 151–153) Debt and mission; Karuizawa learns the arrangement.
+
+<!-- walk: y1v7.5 ch5 → p.153 -->
+
+### y1v7.5 p.155–159 — Ch.6: the senpai the intel is for
+[scene] (p.155) Named as Kiriyama’s admired Class A senpai; intended recipient if Nagumo is removed.
+[note] (p.155) Passing mention: “I joined the student council because I admired Horikita-senpai.”
+[note] (p.156–159) Passing mention: intel handoff plan; Kiriyama still holds school rules in high respect because of Horikita’s endorsement.
+[rel:kiriyama-ikuto] (p.155–159) Former Class A senpai; the reason Kiriyama approaches first years at all.
+[rel:nagumo-miyabi] (p.155–159) The rival whose fall Kiriyama wants Horikita to exploit.
+
+<!-- walk: y1v7.5 ch6 → p.170 -->

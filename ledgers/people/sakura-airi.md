@@ -815,3 +815,38 @@ aliases used for anchors: sakura, airi, sakura-san
 [rel:ibuki-mio] (p.172) One of the only witnesses to Ibuki’s dirty hands.
 
 <!-- walk: y1v7 ch6 → p.196 -->
+
+## y1v7.5
+
+<!-- walk: y1v7.5 → start -->
+
+### y1v7.5 p.71 — Ch.3: named in the feelings talk
+[scene] (p.71) Phone-call topic only — Haruka’s warning about Airi seeing Ayanokōji with Satou.
+[note] (p.71) Passing mention: “If Airi sees you and Satou-san on a Christmas date, chances are she’ll faint, Kiyopon.”
+[rel:hasebe-haruka] (p.71–72) Haruka will handle Airi and move her own party.
+[rel:ayanokouji-kiyotaka] (p.71) Feelings he acknowledges are not what she feels for most people; a baby bird leaving the nest.
+
+<!-- walk: y1v7.5 ch3 → p.72 -->
+
+### y1v7.5 p.103–106 — Ch.4 §4.3: the glove gift
+[scene] (p.103) Past ten on Christmas Eve, Ayanokōji’s door; Airi returns from an afternoon with Haruka and hands him a red-ribbon package.
+[says:sakura-airi] (p.103) “G-g-good evening, K-Kiyotaka-kun!” stammered a familiar voice
+[says:sakura-airi] (p.103) “I heard from Haruka-chan that you have something going on tomorrow, Kiyotaka-kun. That means you won’t be able to come with us.”
+[says:sakura-airi] (p.104) “Um, well…I hope…that’ll you like it.”
+[says:sakura-airi] (p.106) “I’ve thought for a little while that you could use gloves, Kiyotaka-kun. You don’t have a pair, do you?”
+[says:sakura-airi] (p.106) “H-how do they feel?” she asked.
+[says:sakura-airi] (p.106) “I’m glad,” said Airi. “Well, uh, sorry for dropping by so late. Good night, Kiyotaka-kun.”
+[rel:ayanokouji-kiyotaka] (p.103–106) Christmas gift of plain-blue gloves; first time she has seen him wear gloves; tiny wave at the elevator.
+[rel:hasebe-haruka] (p.103) Hung out with her since two in the afternoon — Haruka’s “handling” of the Airi problem.
+[trait] (p.104–106) Stammers; gifts for everyone so the one for him is easy to accept; watches him flex his hands.
+
+<!-- walk: y1v7.5 ch4 → p.106 -->
+
+### y1v7.5 p.112, 142 — Ch.5: named in the safety net
+[scene] (p.112) Named as the person Haruka is keeping away from the date; p.142 as the same answer Ayanokōji would give her.
+[note] (p.112) Passing mention: Haruka’s plan so Airi would not bump into the date — Ayanokōji notes a four-person look would be more natural.
+[note] (p.142) Passing mention: “I’d give Airi the same answer if she ever decided to tell me about her feelings.”
+[rel:ayanokouji-kiyotaka] (p.112, 142) The feelings he would refuse with the same “not ready” line.
+[rel:hasebe-haruka] (p.112) The cover afternoon still in force.
+
+<!-- walk: y1v7.5 ch5 → p.153 -->

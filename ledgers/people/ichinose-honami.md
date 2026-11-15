@@ -846,3 +846,36 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [note] (p.78) Passing mention: Ayanokōji notes Sakayanagi knew his past and Ichinose probably had as well.
 
 <!-- walk: y1v7 ch7 → p.207 -->
+
+## y1v7.5
+
+<!-- walk: y1v7.5 → start -->
+
+### y1v7.5 p.37–42 — Ch.3: the Achilles heel under discussion
+[scene] (p.37) Named as Ayanokōji’s recent walking companion with Sakayanagi; then the target of Sakayanagi’s cold-reading pitch.
+[note] (p.37) Passing mention: “When I saw you a few days ago, I thought it was strange that you and Ichinose were getting along so well.”
+[says:ichinose-honami] (p.37) “Heh,” Sakayanagi chuckled. “Please, enough with the jokes. She and I aren’t friends, you know.” — speaker is Sakayanagi; Ichinose does not speak in this chapter.
+[rel:sakayanagi-arisu] (p.37–42) Not friends; Sakayanagi claims a shared secret and plans to crush her.
+[rel:ayanokouji-kiyotaka] (p.37–42) Topic of his exchange with Sakayanagi; he agrees she is genuinely good-natured.
+[rel:kamuro-masumi] (p.41–42) Sakayanagi pairs them as having the same problem.
+
+<!-- walk: y1v7.5 ch3 → p.72 -->
+
+### y1v7.5 p.78, 88 — Ch.4: the idealist in the Nagumo debate
+[scene] (p.78) Named in the Class A–B–C plan; later as the idealist type.
+[note] (p.78) Passing mention: “Ichinose can’t beat Sakayanagi,” said Ryuuen of the non-aggression pair.
+[note] (p.88) Passing mention: “If anyone was such an idealist, it’d probably be Ichinose Honami.” — on helping everyone graduate.
+[rel:sakayanagi-arisu] (p.78) The pair Ryuuen says Class A will attack and Ichinose cannot beat.
+[rel:horikita-manabu] (p.88) Contrast to Manabu’s ideal of no expulsions.
+
+
+<!-- walk: y1v7.5 ch4 → p.106 -->
+
+### y1v7.5 p.119, 123 — Ch.5: with Nagumo’s entourage
+[scene] (p.123) The single first-year with the student-council group outside the theater.
+[note] (p.119) Passing mention: “Kushida and Ichinose were spirited, too.” — Ayanokōji’s type musing.
+[note] (p.123) Passing mention: “a single first-year student, too: Ichinose Honami, from Class B. When I noticed her, she only gave me a gentle smile.”
+[rel:nagumo-miyabi] (p.123) Walks with his circle — unexpected for Class B’s leader.
+[rel:ayanokouji-kiyotaka] (p.119, 123) Example of “spirited”; the gentle smile at the theater.
+
+<!-- walk: y1v7.5 ch5 → p.153 -->

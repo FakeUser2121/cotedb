@@ -527,3 +527,15 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 
 
 <!-- walk: y1v7 ch7 → p.207 -->
+
+## y1v7.5
+
+<!-- walk: y1v7.5 → start -->
+
+### y1v7.5 p.84 — Ch.4: the Class A contract remembered
+[scene] (p.84) Internal recall only while Ayanokōji weighs Ryuuen’s price.
+[note] (p.84) Passing mention: “I thought about his contract with Katsuragi. Ryuuen was happy to slip a hand into his opponent’s pocket.”
+[rel:ryuuen-kakeru] (p.84) The island contract that still shapes Class C’s point math.
+
+
+<!-- walk: y1v7.5 ch4 → p.106 -->

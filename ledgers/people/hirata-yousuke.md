@@ -1124,3 +1124,56 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 
 <!-- walk: y1v7 ch7 → p.207 -->
+
+## y1v7.5
+
+<!-- walk: y1v7.5 → start -->
+
+### y1v7.5 p.18–20, 27, 30 — Ch.2: the fake boyfriend
+[scene] (p.18) Named as Karuizawa’s announced boyfriend and the model couple Satou wants to copy.
+[rel:karuizawa-kei] (p.18, 20) Their public “going out” raised her star; she approached him at year start to play pretend boyfriend after junior-high bullying; he agreed because he wanted peace and harmony.
+[rel:satou-maya] (p.19, 27) Satou cites the pair as proof a good relationship is possible and wants him on the double date.
+[trait] (p.20) Genuinely good; happy to help by pretending; “the kind of guy who genuinely wanted peace and harmony.”
+[note] (p.27, 30) Karuizawa plans to ask whether he is free Christmas Day; the school already believes they are together; they agreed to claim a dorm-room date if asked.
+
+<!-- walk: y1v7.5 ch2 → p.34 -->
+
+### y1v7.5 p.39, 65 — Ch.3: named as the support benchmark
+[scene] (p.39) Cited by Ayanokōji in the Sakayanagi debate; later implied as “the only real prize.”
+[says:hirata-yousuke] (p.39) “If we’re talking about Class D, then Hirata does, too. He’s the best example, even.” — speaker is Ayanokōji; Hirata does not speak in ch3.
+[note] (p.65) Passing mention: “Karuizawa-san’s already claimed the only real prize.” — the girls mean Hirata.
+[rel:ayanokouji-kiyotaka] (p.39) Best example that uniting people is not general skill.
+[rel:karuizawa-kei] (p.65) The girl who “claimed” him in Class D’s dating market.
+
+<!-- walk: y1v7.5 ch3 → p.72 -->
+
+### y1v7.5 p.96 — Ch.4: the absent peacekeeper
+[scene] (p.96) Expected at the café as Horikita’s peacekeeper; not present.
+[note] (p.96) Passing mention: “I thought that Hirata would be here as a peacekeeper, but apparently he wasn’t.”
+[rel:horikita-suzune] (p.96) The peacekeeper role he usually plays for her group meetings.
+
+<!-- walk: y1v7.5 ch4 → p.106 -->
+
+### y1v7.5 p.109–140 — Ch.5: the saint of the double date
+[scene] (p.109) Arrives with Karuizawa; holds the day together; exits before the confession; White Room–adjacent romance talk in §5.2.
+[says:hirata-yousuke] (p.111) “I really don’t think it’s our place to say that to them, Karuizawa-san.”
+[says:hirata-yousuke] (p.123) “Kushida-san’s quite popular, but I don’t think everyone necessarily wants to date her. Anyway, I doubt Ayanokouji-kun has feelings for anyone in particular,”
+[says:hirata-yousuke] (p.125) “Good morning, Nagumo-senpai.”
+[says:hirata-yousuke] (p.130) “You see, Ayanokouji-kun, if everyone else is happy, then I’m happy,”
+[says:hirata-yousuke] (p.130) “I don’t. That’s how I feel right now, anyway.” (no romance needed)
+[rel:ayanokouji-kiyotaka] (p.109–140) Saves him from Karuizawa’s crocodiles and Nagumo; advises he might date someone someday.
+[rel:karuizawa-kei] (p.109–130) Fake boyfriend; grateful she can stand on her own; “it’s just a matter of time.”
+[rel:nagumo-miyabi] (p.123–126, 131–132) Same soccer club; bold practices; people who opposed him quit and dropped out.
+[rel:kushida-kikyou] (p.123) Deflects the crush question for Ayanokōji.
+[trait] (p.131–132) Class D’s real leader; worryingly fragile if Kushida collapses the class again.
+
+<!-- walk: y1v7.5 ch5 → p.153 -->
+
+### y1v7.5 p.158, 163–165 — Ch.6: the almost-ex-boyfriend
+[scene] (p.158) Named as having Nagumo’s respect and envy; later as the fake boyfriend Karuizawa may leave.
+[note] (p.158) Passing mention: Nagumo had “Hirata’s respect and envy,” which is why Ayanokōji concludes Nagumo is no average student.
+[note] (p.163–165) Passing mention / dialogue target: Karuizawa’s present was bought as a public gesture for Yousuke-kun; she hesitates to keep the fake couple; Ayanokōji already nudged her off Hirata.
+[rel:karuizawa-kei] (p.163–165) The relationship she may end; social currency and pressure discussed on the walk.
+[rel:ayanokouji-kiyotaka] (p.158, 164–165) Pawn Ayanokōji is willing to release; “indispensable pawn” test set by Karuizawa.
+
+<!-- walk: y1v7.5 ch6 → p.170 -->

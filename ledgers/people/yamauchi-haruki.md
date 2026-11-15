@@ -601,3 +601,32 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [rel:ibuki-mio] (p.172) The girl whose hands they saw.
 
 <!-- walk: y1v7 ch6 → p.196 -->
+
+## y1v7.5
+
+<!-- walk: y1v7.5 → start -->
+
+### y1v7.5 p.18, 23 — Ch.2: named in the popularity maths
+[scene] (p.18) One-line name-hit among Ayanokōji’s guy friends.
+[note] (p.18) Passing mention: grouped with Ike and Sudou as friends the girls dislike.
+[note] (p.23) Passing mention: read as one of the “really immature” boys Satou means.
+
+<!-- walk: y1v7.5 ch2 → p.34 -->
+
+### y1v7.5 p.93–95 — Ch.4: the karaoke push
+[scene] (p.93) Lobby eavesdrop with Ike and Sudou; pushes all-nighter then tails Ike’s dinner plan.
+[says:yamauchi-haruki] (p.93) “So, Horikita just turned ya down for a Christmas date? Dude, what the hell, Ken?”
+[says:yamauchi-haruki] (p.94) “Huh? You can’t? You don’t have anything to do on Christmas Eve, do you? The only hot date you’ve got’s with your right hand.”
+[says:yamauchi-haruki] (p.94) “Who is it?! Who’re you hanging out with?! Spill it!” shouted Yamauchi, losing his cool and grabbing Ike’s collar.
+[says:yamauchi-haruki] (p.95) “I don’t believe you! Come on, Ken, let’s tail ’em!”
+[rel:ike-kanji] (p.93–95) The friend whose secret dinner he wants to tail.
+[rel:sudou-ken] (p.93–95) Partner in the tail plan.
+
+<!-- walk: y1v7.5 ch4 → p.106 -->
+
+### y1v7.5 p.135 — Ch.5: the unpopularity comparison
+[scene] (p.135) Name-hit in Satou’s defence of Ayanokōji’s love life.
+[note] (p.135) Passing mention: “Like, if you were obviously unpopular like Yamauchi-kun or Onizuka-kun, that’d be one thing.”
+[rel:satou-maya] (p.135) Used as the unpopularity benchmark she says Ayanokōji does not meet.
+
+<!-- walk: y1v7.5 ch5 → p.153 -->

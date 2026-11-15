@@ -3830,3 +3830,98 @@ walk: y1v1 → DONE
 
 
 <!-- walk: y1v7 ch7 → p.207 -->
+
+## y1v7.5
+
+<!-- walk: y1v7.5 → start -->
+
+### y1v7.5 p.11 — Ch.1: Christmas date setup
+[scene] (p.11) December 25, snowing; Ayanokōji grooms for a date with Satō Maya and wonders whether he can ever feel love.
+[says:ayanokouji-kiyotaka] (p.11) “I’ve been here over eight months now, huh?”
+[thinks] (p.11) Falling in love with someone. Considering them precious. Sharing happiness merely by being together. Elation. I wondered whether I’d ever be able to experience such strong feelings.
+[note] (p.11) Chapter frames the winter-vacation story as beginning December 23; this chapter is a one-page flash-forward to Christmas Day.
+
+<!-- walk: y1v7.5 ch1 → p.11 -->
+
+### y1v7.5 p.13–14, 17–34 — Ch.2: the object of the crush and the night call
+[scene] (p.13) Named throughout Karuizawa’s POV; he is the boy Satō will date on Christmas Day and the man who saved Karuizawa off the roof.
+[rel:karuizawa-kei] (p.12, 32–34) Goaded Manabe into bullying her, then saved her; that night he calls to task her with investigating Satou.
+[says:ayanokouji-kiyotaka] (p.32) “I want to ask you something.”
+[says:ayanokouji-kiyotaka] (p.33) “I need you to investigate something for me, Karuizawa.”
+[says:ayanokouji-kiyotaka] (p.33) “I want to know who she usually hangs out with. What her behavior patterns are. I’d also appreciate it if you could fill me in on her personality, hobbies, and likes and dislikes.”
+[says:ayanokouji-kiyotaka] (p.34) “Not very well-informed, eh? So, there’re lots of things that even you, the girls’ de facto leader, don’t know.”
+[says:ayanokouji-kiyotaka] (p.34) “Do whatever you think would be best, please. I leave everything in your hands,” — then hangs up without answering why.
+[rel:satou-maya] (p.17, 33–34) The girl he is dating on the 25th; he wants covert intel on her before the date.
+[rel:horikita-suzune] (p.18) Karuizawa notes he “only ever seemed to talk to Horikita-san.”
+[trait] (p.33–34) Flat, apathetic tone on the phone; no apology after the roof; tasks her then hangs up; Karuizawa reads it as collecting info to make the date go well or to turn Satou into a pawn.
+
+<!-- walk: y1v7.5 ch2 → p.34 -->
+
+### y1v7.5 p.35–43 — Ch.3: the pharmacy bag and Sakayanagi’s Ichinose pitch
+[scene] (p.35) December 23 morning, Keyaki Mall; Ayanokōji leaves a store with a small paper bag of something he’s never used, then runs into Sakayanagi Arisu.
+[says:ayanokouji-kiyotaka] (p.35) “I’ve never used this stuff before,”
+[says:ayanokouji-kiyotaka] (p.36) “I’ll pass, thanks. You’re conspicuous, and I don’t like drawing attention,”
+[says:ayanokouji-kiyotaka] (p.37) “Well, they’re an efficient unit, even if it’s because they suffer under a dictator,”
+[says:ayanokouji-kiyotaka] (p.38) “So, you already selected your pawns, huh?”
+[says:ayanokouji-kiyotaka] (p.38) “I’ve also discovered your true identity. You’re the school chairman’s daughter.”
+[rel:sakayanagi-arisu] (p.35–43) She knows his White Room history; he refuses her third-semester play and deflects onto Class B.
+[rel:kamuro-masumi] (p.40–43) Present when Sakayanagi cold-reads the Ichinose parallel; he leaves without eye contact.
+[rel:ichinose-honami] (p.37–42) Topic of the pitch; he agrees she is a model student and notes she seems to have no secret mean streak.
+[rel:horikita-suzune] (p.37, 43) Declines to play Sakayanagi; considers telling Horikita about the Ichinose threat, later.
+[rel:kouenji-rokusuke] (p.37) Names him as a talented puppet-master candidate against Ryuuen.
+[rel:hirata-yousuke] (p.39) Cites Hirata as the best example that bringing people together is not general skill.
+[rel:kushida-kikyou] (p.41) Internal note: the hidden self is usually not as extreme as Kushida’s.
+[rel:ryuuen-kakeru] (p.36, 49) Dragon Boy as Sakayanagi’s label; the rooftop fight is what she is probing.
+
+<!-- walk: y1v7.5 ch3 → p.72 -->
+
+### y1v7.5 p.73–85 — Ch.4 §4.0: the snow bench with Ryuuen
+[scene] (p.73) December 24 before seven, bench near Keyaki Mall; Ayanokōji meets Ryuuen alone in heavy snow, then Horikita Manabu arrives on cue.
+[says:ayanokouji-kiyotaka] (p.73) “I needed to meet you when I was sure no one else would be around.”
+[says:ayanokouji-kiyotaka] (p.76) “I’d like you to hold off on that, if possible. I’d rather live peacefully. Fighting you again would just be a pain,”
+[says:ayanokouji-kiyotaka] (p.77) “What? Did I break you that badly after just one defeat?” I asked.
+[says:ayanokouji-kiyotaka] (p.78) “Interestingly enough, it seems that Class A will attack Class B once the third semester begins. We could take Class A out with a single strike while they’re focused on that,”
+[says:ayanokouji-kiyotaka] (p.79) “In the third semester, Class D will be promoted to Class C,” I said. “However, we’ll probably fall back down to D when I get Kushida Kikyou expelled.”
+[says:ayanokouji-kiyotaka] (p.81) “My policy is to avoid choices with low probabilities of success,”
+[says:ayanokouji-kiyotaka] (p.84) “If you’re afraid of someone outsmarting you, then you simply have to outsmart them first. That’s all there is to it, Ryuuen.”
+[rel:ryuuen-kakeru] (p.73–85) Shared-interest deal without paper: strike Class A, groundwork via Kaneda and Hiyori; Ryuuen’s price is Class A spoils.
+[rel:horikita-manabu] (p.85–92) The debt: stop Nagumo; receives the briefs; agrees to name himself to the undercover second year.
+[rel:kushida-kikyou] (p.78–79) The inside cancer he will slow, then expel at the cost of Class D’s promotion.
+[rel:nagumo-miyabi] (p.86–92) The man he must stop; accepts Manabu’s mission.
+[rel:sakayanagi-arisu] (p.78, 89–90) Her Class A–B plan is the fifty-fifty intel; he may look up expulsion infractions.
+[rel:ichinose-honami] (p.78, 88) Non-aggression pair with Class B; idealist contrast in the Nagumo debate.
+
+<!-- walk: y1v7.5 ch4 → p.106 -->
+
+### y1v7.5 p.107–120 — Ch.5 §5.1: the double date forms
+[scene] (p.107) Christmas Day; Ayanokōji meets Satou for a one-on-one movie, then Hirata and Karuizawa force a spontaneous double date.
+[says:ayanokouji-kiyotaka] (p.107) “Just go with the flow, I guess.”
+[says:ayanokouji-kiyotaka] (p.112) “If you three are okay with it, I don’t have any objections,” I said.
+[says:ayanokouji-kiyotaka] (p.119) “That’s a tricky question,” I said. (his type)
+[says:ayanokouji-kiyotaka] (p.122) “There’s nothing going on between Horikita and me. I mean, we’re both doing our own thing on Christmas.”
+[rel:satou-maya] (p.107–144) The Christmas date; rejects her confession honestly; still wants to hang out again.
+[rel:karuizawa-kei] (p.109–153) Sees through her double-date scheme; later the bush eavesdrop and Nagumo/Manabu briefing walk.
+[rel:hirata-yousuke] (p.109–140) Saint of the double date; White Room cannot explain romance; Hirata’s creed that everyone else being happy is enough.
+[rel:nagumo-miyabi] (p.123–126) Grabbed by the arm; “Won’t you play with me?”; online-game special-test tease.
+[rel:horikita-manabu] (p.145–153) Debt and sibling revelation to Karuizawa; mission to dethrone Nagumo.
+
+<!-- walk: y1v7.5 ch5 → p.153 -->
+
+### y1v7.5 p.154–170 — Ch.6: the Kiriyama meet and the Kei Christmas gift
+[scene] (p.154) Dusk after the double date: Ayanokōji and Karuizawa wait at an isolated campus spot; Vice President Kiriyama arrives instead of the expected contact; §6.1 walks back to the dorms with the partner talk and gift exchange.
+[says:ayanokouji-kiyotaka] (p.154) “They’re late,” I replied.
+[says:ayanokouji-kiyotaka] (p.155) “She’s trustworthy. She’s my partner,” I replied.
+[says:ayanokouji-kiyotaka] (p.158) “Tell us what you want,” I said. “We’ll decide how to go about it.”
+[says:ayanokouji-kiyotaka] (p.160) “What do you think of what Vice President Kiriyama said?” I asked.
+[says:ayanokouji-kiyotaka] (p.165) “If your value lay only in your relationship with Hirata, I’d tell you to never break up with him. The fact that I didn’t is my answer.”
+[says:ayanokouji-kiyotaka] (p.165) “I’ll call you Kei from here on out.”
+[says:ayanokouji-kiyotaka] (p.168) “I am indeed kidding.”
+[says:ayanokouji-kiyotaka] (p.169) “I played a major part in what happened to you on the roof. It was cruel. If you wanted to take a swing at me, I wouldn’t resist, to tell the truth. I avoided contacting you because I thought it would stress you out to hear me. Sounds like I was wrong, though.”
+[says:ayanokouji-kiyotaka] (p.169) “I intend to avoid drawing attention from here on out. However, there may be times when I need to move covertly. When I do, please help me.”
+[rel:kiriyama-ikuto] (p.154–159) Secret meet; accepts Karuizawa as partner; agrees to help stop Nagumo; burner e-mail only.
+[rel:karuizawa-kei] (p.154–170) Official partner; first-name basis (“Kei”); cold-medicine gift reveals he saw the double-date plot; nudged her off Hirata on purpose.
+[rel:nagumo-miyabi] (p.157–159) Target of Kiriyama’s intel; Ayanokōji already on Nagumo’s list after the relay.
+[rel:horikita-manabu] (p.155–159) Kiriyama admired him; intel would go to him if Nagumo falls.
+[trait] (p.168–169) Bought cold medicine for Karuizawa on the 23rd after seeing her with Satou at Keyaki Mall; admits the roof hurt her; asks for covert help going forward.
+
+<!-- walk: y1v7.5 ch6 → p.170 -->

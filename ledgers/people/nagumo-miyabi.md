@@ -100,3 +100,41 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [rel:ayanokouji-kiyotaka] (p.87–89) Warned about him; still declines the student-council game.
 
 <!-- walk: y1v7 ch3 → p.97 -->
+
+## y1v7.5
+
+<!-- walk: y1v7.5 → start -->
+
+### y1v7.5 p.86–92 — Ch.4: the target of the debt
+[scene] (p.86) Named as the new student council president whose way Horikita Manabu wants stopped.
+[says:nagumo-miyabi] (p.88) “Nagumo’s just tryin’ to make this shitty, boring-ass school into something fun, from the sound of it.” — speaker is Ryuuen; Nagumo does not speak in ch4.
+[rel:horikita-manabu] (p.86–92) The debt Ayanokōji owes is to stop him; Manabu prepared student-council briefs.
+[rel:horikita-suzune] (p.92) If Suzune joins the student council, Manabu would cooperate — a Nagumo-adjacent lever.
+[feat] (p.88) Seventeen second-year expulsions already; involved in over half the cases per exit interviews.
+
+
+<!-- walk: y1v7.5 ch4 → p.106 -->
+
+### y1v7.5 p.123–126, 131–132, 145, 149, 151–153 — Ch.5: the arm-grab and the online-game tease
+[scene] (p.123) Interrupts the double date outside the theater with Kiriyama, Mizowaki, Tonokawa and Ichinose; grabs Ayanokōji’s arm.
+[says:nagumo-miyabi] (p.124) “You’re the student Horikita-senpai’s been so fixated on. I’m just following the rumors, is all.”
+[says:nagumo-miyabi] (p.125) “Former student council president. After he graduates, I have a whole year at this school. Won’t you play with me?”
+[says:nagumo-miyabi] (p.126) “I imagine that you first years have had some shitty, boring tests so far… What if we had a special test based on a popular online game?”
+[says:nagumo-miyabi] (p.126) “Sorry for pushing in on your date. See ya around.”
+[rel:ayanokouji-kiyotaka] (p.123–126, 145, 151–153) Targets him because Manabu talks to him; the mystery second year is about stopping him.
+[rel:horikita-manabu] (p.125, 151–153) Rival; Manabu’s influence on Ayanokōji “doesn’t sit well.”
+[rel:hirata-yousuke] (p.123–126, 131–132) Soccer club under him; people who butted heads quit and dropped out.
+[rel:ichinose-honami] (p.123) Walks with his entourage; gentle smile at Ayanokōji.
+[feat] (p.125) Grabs Ayanokōji’s arm without letting go while smiling amiably.
+
+<!-- walk: y1v7.5 ch5 → p.153 -->
+
+### y1v7.5 p.155–159, 161–162 — Ch.6: the enemy Kiriyama describes
+[scene] (p.155) Discussed throughout the Kiriyama meet; not present.
+[note] (p.155) Passing mention: Kiriyama never agreed with Nagumo; Nagumo’s reform pitch of promoting capable students regardless of class.
+[note] (p.156–158) Passing mention: almost all second-years under Nagumo; dissatisfied but not enough votes; persons-of-interest list starts third semester; anyone on his bad side expelled across the board.
+[note] (p.161–162) Passing mention: Ayanokōji’s risk model — dirty play could get people expelled (Sudou/Ishizaki fight as example).
+[rel:kiriyama-ikuto] (p.155–159) The regime Kiriyama infiltrates and wants removed from office.
+[rel:ayanokouji-kiyotaka] (p.157–162) Already on the radar after the relay; Ayanokōji weighs pretending the relay was a fluke.
+
+<!-- walk: y1v7.5 ch6 → p.170 -->

@@ -2630,3 +2630,60 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 
 <!-- walk: y1v7 ch6 → p.196 -->
+
+## y1v7.5
+
+<!-- walk: y1v7.5 → start -->
+
+### y1v7.5 p.18 — Ch.2: named as Kiyotaka’s usual talk partner
+[scene] (p.18) One-line name-hit in Karuizawa’s popularity maths.
+[note] (p.18) Passing mention: “he only ever seemed to talk to Horikita-san” — why Ayanokōji still isn’t popular with the girls.
+[rel:ayanokouji-kiyotaka] (p.18) The classmate he appears to talk to almost exclusively.
+
+<!-- walk: y1v7.5 ch2 → p.34 -->
+
+### y1v7.5 p.37, 43 — Ch.3: the ally Sakayanagi will not pick
+[scene] (p.37) Named as the person Sakayanagi should play instead of Ayanokōji.
+[says:horikita-suzune] (p.37) “Play with Horikita and the others if you want,” — speaker is Ayanokōji; Horikita does not speak in ch3.
+[rel:sakayanagi-arisu] (p.37) Sakayanagi: “She isn’t a suitable opponent for me.”
+[rel:ichinose-honami] (p.43) Horikita is allying herself with Ichinose; Ayanokōji considers telling her about the threat, later.
+[rel:ayanokouji-kiyotaka] (p.43) He defers contacting her; “the class leader got to call the shots, and that was currently Horikita.”
+
+<!-- walk: y1v7.5 ch3 → p.72 -->
+
+### y1v7.5 p.77–79, 85–101 — Ch.4: the council invite and the brother call
+[scene] (p.93) Texted by Ayanokōji; meets him and Kushida at a mall café; the student-council question ends in a call to her brother.
+[says:horikita-suzune] (p.96) “That was fast,” she replied.
+[says:horikita-suzune] (p.96) “Me. I invited Kushida-san,” said Horikita.
+[says:horikita-suzune] (p.98) “I’d never do that,” said Horikita flatly. (Christmas with Sudou)
+[says:horikita-suzune] (p.99) “Do you want to join the student council?” — Ayanokōji’s question; her reply is “I’m sorry. I’m afraid I’m not following you.”
+[says:horikita-suzune] (p.101) “Excuse me. I-It’s Horikita Suzune.” … “I asked Tachibana-senpai for your contact information… Um, well, so I could call you, oniisan.”
+[says:horikita-suzune] (p.101) “No, I’m not.” (joining the student council)
+[rel:horikita-manabu] (p.77–79, 92, 99–101) Brother she does not have the number of; calls him “oniisan” formally; he confirms the join advice; she refuses anyway.
+[rel:ayanokouji-kiyotaka] (p.93–102) Receives the council invitation through him; refuses both the council and his intermediary role.
+[rel:kushida-kikyou] (p.96–102) Public café meeting she initiated to bury the hatchet with limits; Kushida fetches Tachibana’s contact.
+[rel:tachibana-akane] (p.100–101) Secretary whose contact Kushida provides.
+[rel:sudou-ken] (p.93, 98) His Christmas date ask; flat refusal.
+[trait] (p.101) Nervous calling family; “Being this nervous about calling a family member definitely wasn’t normal.”
+
+<!-- walk: y1v7.5 ch4 → p.106 -->
+
+### y1v7.5 p.119–122, 140–141 — Ch.5: the comparison set
+[scene] (p.119) Named as the dour contrast to “spirited”; later the old group-chat grievance.
+[says:horikita-suzune] (p.122) “There’s nothing going on between Horikita and me.” — speaker is Ayanokōji; Suzune does not speak in ch5.
+[note] (p.119) Passing mention: “They definitely weren’t as dour as Horikita.”
+[note] (p.120) Passing mention: “So, what’s going on between you and Horikita-san?” — Karuizawa.
+[note] (p.140) Passing mention: Satou once proposed messing with Horikita in a group chat.
+[rel:ayanokouji-kiyotaka] (p.119–122, 140–141) The relationship Karuizawa probes; Satou’s insecurity about the old chat.
+[rel:horikita-manabu] (p.152) Sibling revelation is what draws Nagumo’s eye to Ayanokōji — mentioned via Manabu context, not her presence.
+
+<!-- walk: y1v7.5 ch5 → p.153 -->
+
+### y1v7.5 p.156, 160–161 — Ch.6: capable, in another role
+[scene] (p.156) Named as an example of someone “placed in the wrong class”; p.161 as the leader Ayanokōji wants developed.
+[note] (p.156) Passing mention: “He means people like Horikita and Yukimura.”
+[note] (p.160–161) Passing mention / dialogue: Karuizawa asks if Horikita-san is okay with the partnership; Ayanokōji says she just sits next to him, wants her leading with Hirata and Karuizawa supporting.
+[rel:ayanokouji-kiyotaka] (p.160–161) Not the partner; the future leader he is shaping Class D around.
+[rel:karuizawa-kei] (p.160–161) The “better partner” question on the walk home.
+
+<!-- walk: y1v7.5 ch6 → p.170 -->

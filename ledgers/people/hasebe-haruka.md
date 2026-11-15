@@ -246,3 +246,35 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [rel:yukimura-teruhiko] (p.154–156) Fellow group member pressing for a destination.
 
 <!-- walk: y1v7 ch6 → p.196 -->
+
+## y1v7.5
+
+<!-- walk: y1v7.5 → start -->
+
+### y1v7.5 p.70–72 — Ch.3: the Christmas party call
+[scene] (p.70) Phone call to Ayanokōji on the way to the dorm; proposes a “Christmas isn’t just for lovers” get-together for the day after tomorrow.
+[says:hasebe-haruka] (p.70) “Hey, it’s me,” said Haruka. “This might be sudden, but how about we all get together the day after tomorrow and par-tay?”
+[says:hasebe-haruka] (p.71) “Haven’t you noticed Airi’s feelings?” she asked.
+[says:hasebe-haruka] (p.71) “If Airi sees you and Satou-san on a Christmas date, chances are she’ll faint, Kiyopon.”
+[says:hasebe-haruka] (p.72) “Well, our group formed specifically to get away from normal friendship rules, right? We hang out when we want to, and when we don’t, we don’t. That’s what makes it fun, ya know?”
+[rel:ayanokouji-kiyotaka] (p.70–72) Kiyopon; learns he is meeting Satou; takes over Airi-watching.
+[rel:sakura-airi] (p.71–72) Will wonder why Kiyopon is not with the group; Haruka covers for him.
+[rel:satou-maya] (p.70–71) The girl on Ayanokōji’s Christmas plan; Haruka adjusts her own party around it.
+
+<!-- walk: y1v7.5 ch3 → p.72 -->
+
+### y1v7.5 p.103 — Ch.4: the Airi cover
+[scene] (p.103) Name-hit in Airi’s late-night report — she spent the afternoon with Haruka.
+[note] (p.103) Passing mention: “I’ve been hanging out with Haruka-chan since two in the afternoon.”
+[rel:sakura-airi] (p.103) The cover afternoon so Airi would not see Ayanokōji with Satou; Airi learned of tomorrow’s plans from her.
+[rel:ayanokouji-kiyotaka] (p.103) Executing the plan from the ch3 phone call.
+
+<!-- walk: y1v7.5 ch4 → p.106 -->
+
+### y1v7.5 p.112 — Ch.5: the cover still on
+[scene] (p.112) Name-hit in Ayanokōji’s four-person naturalness calculation.
+[note] (p.112) Passing mention: Haruka said she would make sure Airi didn’t bump into them by chance.
+[rel:sakura-airi] (p.112) Still running the Airi screen.
+[rel:ayanokouji-kiyotaka] (p.112) The plan from the ch3 call.
+
+<!-- walk: y1v7.5 ch5 → p.153 -->

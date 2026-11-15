@@ -266,3 +266,43 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.83) Passing mention: after the Karuizawa hang-up, he writes off Horikita, Karuizawa, Ryuuen and Sakayanagi as irrelevant to his next move — Arisu as Class A rival.
 
 <!-- walk: y1v7 ch7 → p.207 -->
+
+## y1v7.5
+
+<!-- walk: y1v7.5 → start -->
+
+### y1v7.5 p.35–43, 49, 52 — Ch.3: the Ichinose Achilles heel
+[scene] (p.35) Approaches Ayanokōji alone at the mall exit with her cane; Kamuro joins mid-conversation.
+[says:sakayanagi-arisu] (p.35) “Good day to you, Ayanokouji-kun.”
+[says:sakayanagi-arisu] (p.36) “He gets ever so angry when I call him this, but Dragon Boy was after you, wasn’t he? ‘The puppet master who controls Class D’ was how he described you, actually.”
+[says:sakayanagi-arisu] (p.37) “She isn’t a suitable opponent for me.” (of Horikita)
+[says:sakayanagi-arisu] (p.38) “Until you’re ready to play, Ayanokouji-kun, I’ll amuse myself with Class B. Who knows? If that whole class falls apart, maybe you and the rest of Class D can rise one rank.”
+[says:sakayanagi-arisu] (p.41) “The fact that she’s a model student, which you both acknowledge, is undeniable. However, can you say with certainty that her caring, good-natured temperament reflects her true self?”
+[says:sakayanagi-arisu] (p.42) “Naturally. She told me about it in detail, in fact. She opened her secret heart to me. I merely performed a cold reading,”
+[says:sakayanagi-arisu] (p.42) “I intend to thoroughly crush her. Hopefully, you can figure out why.”
+[rel:ayanokouji-kiyotaka] (p.35–43) White Room knowledge held over him; wants him as opponent; he refuses and questions her Class A placement.
+[rel:kamuro-masumi] (p.40–43) Uses her as sounding board; notes Kamuro’s uncharacteristic incuriosity about Ayanokōji.
+[rel:ichinose-honami] (p.37–42) Target; claims a shared secret problem and plans to crush her.
+[rel:manabe-shiho] (p.52) Name-hit only in the warehouse-fight aftermath memory (Ayanokōji’s list of people who might be caught).
+[trait] (p.39) Throws her cane to the floor when simple tricks fail; admits transparent ploys won’t work.
+
+<!-- walk: y1v7.5 ch3 → p.72 -->
+
+### y1v7.5 p.78, 89–90 — Ch.4: named in the plan and the briefs
+[scene] (p.78) Named as the Class A threat; later in Manabu’s brief context.
+[note] (p.78) Passing mention: “Besides, this’s Sakayanagi we’re talking about. It might be time I looked up what kind of infractions the school punishes with expulsion.”
+[note] (p.89) Passing mention: several students in Nagumo’s circle are Class A, including the vice president — Sakayanagi’s class is where that power sits.
+[note] (p.90) Passing mention: “people like Sakayanagi and Ryuuen had already learned about me. Sakayanagi, in particular, knew a great deal about my life in the White Room.”
+[rel:ayanokouji-kiyotaka] (p.78, 90) White Room leverage; reason he accepts Manabu’s offer rather than staying quieter.
+[rel:ichinose-honami] (p.78) Her planned crush of Class B is the fifty-fifty intel.
+
+<!-- walk: y1v7.5 ch4 → p.106 -->
+
+### y1v7.5 p.149–150 — Ch.5: named in the threat list
+[scene] (p.149) Internal threat list while Ayanokōji justifies keeping Karuizawa.
+[note] (p.149) Passing mention: “If Ryuuen, or Sakayanagi, or even someone like Nagumo approached her, she wouldn’t crumble.”
+[note] (p.150) Passing mention: “On top of that, there was Chabashira-sensei and Chairman Sakayanagi.” — as potential targets; honeypot idea using Karuizawa.
+[rel:ayanokouji-kiyotaka] (p.149–150) Ongoing White Room threat; reason Karuizawa stays indispensable.
+[rel:karuizawa-kei] (p.150) Hypothetical honeypot — Ayanokōji’s internal note, not a plan shared with her.
+
+<!-- walk: y1v7.5 ch5 → p.153 -->

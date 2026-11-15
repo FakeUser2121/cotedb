@@ -63,3 +63,15 @@ char_id: kondou-reo · class: Class 1-C (enrolled April 2015) · status: minor
 
 
 <!-- walk: y1v7 ch6 → p.196 -->
+
+## y1v7.5
+
+<!-- walk: y1v7.5 → start -->
+
+### y1v7.5 p.54 — Ch.3: walking with Ishizaki
+[scene] (p.54) Printed as “Kondo” in the group with Ishizaki and Komiya; no dialogue of his own.
+[note] (p.54) Passing mention: Ishizaki, Komiya, and Kondo passed by — printed form is Kondo; roster id is kondou-reo.
+[rel:ishizaki-daichi] (p.54) Part of the Class C trio.
+[rel:ryuuen-kakeru] (p.54) Present for the cover story.
+
+<!-- walk: y1v7.5 ch3 → p.72 -->

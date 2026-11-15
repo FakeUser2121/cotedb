@@ -156,3 +156,70 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [rel:yukimura-teruhiko] (p.154) Named in his playboy tally.
 
 <!-- walk: y1v7 ch6 → p.196 -->
+
+## y1v7.5
+
+<!-- walk: y1v7.5 → start -->
+
+### y1v7.5 p.11 — Ch.1: the Christmas date
+[scene] (p.11) Named as the girl Ayanokōji promised to meet on December 25.
+[rel:ayanokouji-kiyotaka] (p.11) The date he agreed to; the day is framed as possibly significant before anything happens.
+
+<!-- walk: y1v7.5 ch1 → p.11 -->
+
+### y1v7.5 p.14, 16–31 — Ch.2: the date plan and the double-date ask
+[scene] (p.16) Keyaki Mall café on December 23; Satō invites Karuizawa alone to ask advice about her upcoming date with Ayanokōji.
+[says:satou-maya] (p.17) “Well, with Ayanokouji-kun, actually. It’s…pretty surprising, huh?”
+[says:satou-maya] (p.19) “Yeah.” Satou-san answered without hesitation. She was determined.
+[says:satou-maya] (p.19) “Yes. I just, like, wanted to ask what makes a successful date. You know? I wondered how you and Hirata-kun got together.”
+[says:satou-maya] (p.19) “Karuizawa-san, you started going out with Hirata-kun soon after we started at this school, right?”
+[says:satou-maya] (p.21) “Yes,” she answered. She wanted Kiyotaka to fall for her tonight. “What should I do?”
+[says:satou-maya] (p.21) “I guess I thought I’d go big or go home—but only if I can summon up the courage.” (first-date confession plan)
+[says:satou-maya] (p.22) “Well, it’s not really that famous. I saw something about it on the school bulletin board. It said that, if you tell someone how you feel under the tree, they’ll like you back.”
+[says:satou-maya] (p.23) “Hmm. Well, first of all, he’s really cool, isn’t he? He’s so quiet and mature. Also, he’s a fast runner.”
+[says:satou-maya] (p.27) “I think I’m going to be so nervous that it might mess up the date. So, I was wondering if maybe you and Hirata-kun could come along and make it a double date? I want you to be my wingwoman!”
+[says:satou-maya] (p.31) “Could you just join up with us naturally on the day of our date? I think that’d be good,” — wants the double date covert.
+[trait] (p.23) Never dated; starting second year; keeps the crush secret so other girls won’t learn how great Ayanokōji is or how inexperienced she is.
+[rel:ayanokouji-kiyotaka] (p.17, 23) First love; date set for December 25; wants an official couple that night.
+[rel:karuizawa-kei] (p.16–31) Comes to her as Hirata’s girlfriend for romance advice; relies on her as wingwoman.
+[rel:hirata-yousuke] (p.19) Cites Karuizawa–Hirata as the model relationship.
+
+<!-- walk: y1v7.5 ch2 → p.34 -->
+
+### y1v7.5 p.35, 65–66, 69–71 — Ch.3: spotted on the way to the date
+[scene] (p.65) Walking with Shinohara and Matsushita; later returns from the restroom and asks about Ike.
+[says:satou-maya] (p.66) “Huh? Me? Oh, well…I guess I’d prefer a classmate, like Shinohara-san.”
+[says:satou-maya] (p.66) “Speaking of which, Satou-san, haven’t you been talking with Ayanokouji-kun?” — speaker is Shinohara; Satou does not answer on-page before Ayanokōji flees.
+[says:satou-maya] (p.69) “Hey, was that Ike-kun? What happened?” asked Satou.
+[rel:ayanokouji-kiyotaka] (p.35, 66, 70–71) The date two days away; Hasebe’s call confirms Ayanokōji promised to hang out with her on the 25th.
+[rel:hasebe-haruka] (p.70–71) Named in the phone call as the girl Ayanokōji is meeting; Haruka handles Airi’s potential reaction.
+[rel:karuizawa-kei] (p.65) Named as already having “the only real prize” (Hirata).
+[rel:shinohara-satsuki] (p.65–69) Friend-group walk.
+
+<!-- walk: y1v7.5 ch3 → p.72 -->
+
+### y1v7.5 p.107–144 — Ch.5: the confession under the snow
+[scene] (p.107) Christmas Day meet at 11:30; ends with a roadside confession after Hirata and Karuizawa leave.
+[says:satou-maya] (p.108) “Good morning, Ayanokouji-kun!” she called, hurrying over.
+[says:satou-maya] (p.111) “I-Is this okay, A-Ayanokouji-kun? Spending Christmas with me?”
+[says:satou-maya] (p.117) “Do you like idols, Ayanokouji-kun?” she asked.
+[says:satou-maya] (p.137) “I thought if I graduated from Class A, I could get in somewhere good.” (fashion design ambition)
+[says:satou-maya] (p.141) “Um…p-please go out with me, Ayanokouji-kun!”
+[says:satou-maya] (p.141) “W-well, for future reference, could you maybe tell me why? Is there someone else you like?”
+[says:satou-maya] (p.144) “Sorry. I think I’ll go on ahead!” With that, Satou ran through the snow, leaving me behind.
+[rel:ayanokouji-kiyotaka] (p.107–144) First love; rejected; still asks to hang out; runs off in tears.
+[rel:karuizawa-kei] (p.109–120) Relies on her as wingwoman; the double date was coordinated.
+[rel:hirata-yousuke] (p.109–140) Model couple she wants to copy.
+[rel:horikita-suzune] (p.140–141) Old group-chat wish to mess with Horikita; worries it cost her the date.
+[trait] (p.144) Brave confession; puts the gift back in her bag; “I might’ve missed out on my chance,” from Ayanokōji.
+
+<!-- walk: y1v7.5 ch5 → p.153 -->
+
+### y1v7.5 p.163, 168 — Ch.6: the present that stayed in the bag
+[scene] (p.163) Named in the gift talk; p.168 as the person Ayanokōji saw with Karuizawa at Keyaki Mall.
+[note] (p.163) Passing mention: “Satou-san didn’t end up giving you anything, did she? A Christmas present?”
+[note] (p.168) Passing mention: Ayanokōji saw Karuizawa and Satou together at Keyaki Mall on the 23rd and realized the double-date plot.
+[rel:ayanokouji-kiyotaka] (p.163, 168) The ungiven gift; the plot he spotted early.
+[rel:karuizawa-kei] (p.168) The co-conspirator he observed with Satou.
+
+<!-- walk: y1v7.5 ch6 → p.170 -->

@@ -114,3 +114,24 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [note] (p.53) Passing mention: Airi wonders whether Shiina is why Ryuuen might be after Ayanokōji; the conversation moves on without her.
 
 <!-- walk: y1v7 ch7 → p.207 -->
+
+## y1v7.5
+
+<!-- walk: y1v7.5 → start -->
+
+### y1v7.5 p.71 — Ch.3: the prior non-date comparison
+[scene] (p.71) One-line comparison in the Hasebe call.
+[note] (p.71) Passing mention: “It’s the same as that time with Shiina. I’m not dating anyone.”
+[rel:ayanokouji-kiyotaka] (p.71) Cited as proof he is not dating Satou either.
+
+<!-- walk: y1v7.5 ch3 → p.72 -->
+
+### y1v7.5 p.84–85 — Ch.4: named as future Class C leader
+[scene] (p.84) Name-hit as Kaneda’s partner for next-semester leadership.
+[note] (p.84) Passing mention: “Next semester, Kaneda and Hiyori will probably lead Class C…no, Class D.”
+[note] (p.85) Passing mention: “That’ll be up to Kaneda and Hiyori,” said Ryuuen.
+[rel:ryuuen-kakeru] (p.84–85) His pick to carry the groundwork after stepping down.
+[rel:kaneda-satoru] (p.84–85) Paired as the next leadership.
+
+
+<!-- walk: y1v7.5 ch4 → p.106 -->

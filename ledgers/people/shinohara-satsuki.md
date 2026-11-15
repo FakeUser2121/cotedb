@@ -130,3 +130,35 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [rel:ayanokouji-kiyotaka] (p.154) The boy they eye with suspicion.
 
 <!-- walk: y1v7 ch6 → p.196 -->
+
+## y1v7.5
+
+<!-- walk: y1v7.5 → start -->
+
+### y1v7.5 p.34 — Ch.2: the unwitting source
+[scene] (p.34) Named only as the classmate Karuizawa messages for Satou’s habits after Ayanokōji’s request.
+[rel:karuizawa-kei] (p.34) Answered her chat and supplied what she knew about Satou without knowing why.
+[rel:satou-maya] (p.34) Source of the behavior-pattern intel Karuizawa forwards to Ayanokōji.
+
+<!-- walk: y1v7.5 ch2 → p.34 -->
+
+### y1v7.5 p.65–69 — Ch.3: the senior-couple ambush
+[scene] (p.65) Walking with Satou and Matsushita; later alone in the bookstore when a senior couple accuses her of staring.
+[says:shinohara-satsuki] (p.65) “You complain, but you could easily get one right away. You’re so cute,” said Shinohara, poking Matsushita with a playful grin.
+[says:shinohara-satsuki] (p.66) “Not a single one. Our class’s a catastrophe.”
+[says:shinohara-satsuki] (p.67) “N-no, I wasn’t. I’d never…”
+[says:shinohara-satsuki] (p.68) “N-no. I’m really sorry.” (forced bow to the senior girl)
+[says:shinohara-satsuki] (p.69) “Huh?! You wouldn’t be able to get a girlfriend if you spent ten thousand years trying!” (to Ike)
+[rel:ike-kanji] (p.68–69) He rescues her from the seniors with a “resting bitch face” excuse; she snaps back and then quietly watches him leave.
+[rel:satou-maya] (p.65–69) Friend-group walk; Satou asks what happened with Ike.
+[rel:matsushita-chiaki] (p.65–69) Same walk; Matsushita calls the class full of idiots.
+
+<!-- walk: y1v7.5 ch3 → p.72 -->
+
+### y1v7.5 p.94–95 — Ch.4: named as Ike’s dinner date
+[scene] (p.94) Name-hit only in the lobby eavesdrop — Ike admits dinner with her on Christmas Eve.
+[note] (p.94) Passing mention: “I-It really ain’t that big a deal, but…Shinohara.”
+[note] (p.95) Passing mention: “I mean, me and Shinohara going out? There’s just no way.”
+[rel:ike-kanji] (p.94–95) The boy who rescued her in the bookstore now taking her to dinner; he insists it is only thanks.
+
+<!-- walk: y1v7.5 ch4 → p.106 -->
