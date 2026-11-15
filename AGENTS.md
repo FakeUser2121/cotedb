@@ -48,9 +48,10 @@ section, and the local-LLM extraction experiment (rejected by the owner).
 
 1. **Never edit `docs/`.** It is generated: `python3 kb/cote.py build`.
 2. **Ledgers are append-only.** Never reword, reorder or delete an existing row.
-3. **Never edit `gen/`, `kb/validate_site.py`, `kb/schema/` or this file** unless
-   the owner's task says so. If a check fails, fix the content. If you think a
-   check is wrong, stop and explain; never loosen it.
+3. **Never edit `gen/`, `kb/validate_site.py`, `kb/schema/`** unless
+   the owner's task says so. This file may be edited when the owner's task
+   or a standing instruction says so. If a check fails, fix the content. If
+   you think a check is wrong, stop and explain; never loosen it.
 4. **Never fill a field from memory, wikis, the anime or the web.** Only what the
    corpus pages say. If it is not on a recorded page, leave it empty.
 5. **The baseline only goes down.** `kb/schema/validate_baseline.json` counts
@@ -71,6 +72,16 @@ section, and the local-LLM extraction experiment (rejected by the owner).
     ad-hoc python) only locate and verify text. Ledgers, TSV rows and progress
     entries are written by hand from pages you have read. Do not script
     discovery or generate content.
+12. **Nothing surfaces without an explicit destination.** Every ledger row is
+    written for a named place on the site (entity page, volume page, and/or a
+    named topic). Before shipping, confirm each new row appears only where
+    intended: sample any topic or other query list that would republish it and
+    confirm membership against that list's title and lede. Pattern and query
+    code may propose candidates; a human accepts or rejects each member.
+    Unreviewed auto-collection into a curated list is forbidden. Changing a
+    topic pattern or membership list is editorial: show before/after samples
+    and get the owner's OK. Prefer hand-curated membership over regex when
+    either would do.
 
 ## 4. Commands
 
@@ -128,7 +139,10 @@ Per volume: a coverage gate. Run the page locator (`kb/walk_locate.py locate`)
 for each roster character the volume names and compare its hit pages against
 the pages cited in the ledgers; every hit page gets an entry or an explicit
 `passing mention`. The locator only knows published spellings, so a page where
-the text misspells a name may not surface. Then
+the text misspells a name may not surface. Also check every topic whose
+pattern or membership list could match rows written this volume: hand-check
+each new hit against that topic's title and lede (rule 12); list noise for an
+owner-approved pattern or list change rather than shipping it silently. Then
 end the volume with a closing stamp `<!-- walk: <vol> <last section> → DONE -->`
 in `ledgers/volumes/<vol>.md` (the site reads it to mark the volume complete) and
 add a `progress2.md` row. If the walk finds a named character in a volume that is
