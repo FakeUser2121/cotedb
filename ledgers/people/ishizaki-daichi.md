@@ -372,3 +372,21 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [limit] (p.211) No further presence in chapter 7 after half 1.
 
 <!-- walk: y1v8 ch7 → p.211 -->
+
+
+### y1v8 p.216–228 — Ch.9 half 1: handshake, baton, and the kill line
+[scene] (p.216) Part of the closing handshake circle; zazen, written debrief, and the 3.6 km relay leg into Ayanokōji’s hands.
+[rel:yukimura-teruhiko] (p.216) Handshake with the representative; later rubs his own numb legs while asking if Keisei made it.
+[rel:ryuuen-kakeru] (p.220) Gaze shifts to isolated Ryuuen with Albert — sorrowful, not hateful, per Hashimoto’s read.
+[rel:hashimoto-masayoshi] (p.220, 227) Debriefer in the classroom; later smacks Yukimura’s back that expulsion was never on the table.
+[rel:ayanokouji-kiyotaka] (p.225–226) Hands the baton in fourth: “Go for first!” and the shouted kill threat if he holds back.
+[rel:yamada-albert] (p.220) The paired gaze at Ryuuen.
+[rel:sudou-ken] (p.218) Called to zazen right after Katsuragi — the crowd murmurs at the order.
+[says:ishizaki-daichi] (p.216) “Let’s do it.”
+[says:ishizaki-daichi] (p.225) “Huff huff. Take it, Ayanokouji! Go for first!”
+[says:ishizaki-daichi] (p.226) “I’ll kill ya if ya hold back!”
+[says:ishizaki-daichi] (p.227) “Never once thought we’d get expelled from the start. We were aimin’ for first, after all.”
+[feat] (p.225–226) Holds fourth into the handoff after more than three kilometres on the mountain path.
+[trait] (p.227) Relief smacked onto Yukimura’s back — the old bluster under the new alliance.
+
+<!-- walk: y1v8 ch9 → p.241 -->

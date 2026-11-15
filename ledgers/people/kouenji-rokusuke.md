@@ -538,3 +538,17 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [limit] (p.211) No further presence in chapter 7 after half 1.
 
 <!-- walk: y1v8 ch7 → p.211 -->
+
+
+### y1v8 p.216–228 — Ch.9 half 1: flawless zazen and the whim offer
+[scene] (p.216) The group’s stated worry on final day; perfect in the dojo, then the van offer and the anchor leg.
+[rel:ayanokouji-kiyotaka] (p.219, 223–224) Perfect posture beside him in zazen; in the van offers to relieve 1.2 km on a whim, is refused, and calls Ayanokōji “cleverer than I thought. But also quite boring.”
+[rel:yukimura-teruhiko] (p.221, 223) Walks out the moment the written exam ends; last on the relay by the representative’s plan to motivate him.
+[rel:ishizaki-daichi] (p.216) Named as the unpredictable one the group still fears.
+[says:kouenji-rokusuke] (p.223) “Now then. Let’s work up a light sweat, shall we?”
+[says:kouenji-rokusuke] (p.223) “Just a whim. A whim that can help you. Not a bad offer, no?”
+[says:kouenji-rokusuke] (p.224) “It seems you’re cleverer than I thought. But also quite boring.”
+[feat] (p.219, 226) Flawless zazen posture; anchors the relay and finishes second without visible effort.
+[limit] (p.224) Only promised the minimum 1.2 km — would hold back beyond it; the responsibility question dodged.
+
+<!-- walk: y1v8 ch9 → p.241 -->

@@ -1410,3 +1410,13 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [status] (p.204) Still frames himself as bleeding Class A dry with no obligation to the others.
 
 <!-- walk: y1v8 ch7 → p.211 -->
+
+
+### y1v8 p.220 — Ch.9: alone in the shared room
+[scene] (p.220) Two first-year small groups share a classroom; Ryuuen sits apart from the group he is still nominally in.
+[rel:hashimoto-masayoshi] (p.220) The subject of Hashimoto’s abandoned-pets read.
+[rel:ishizaki-daichi] (p.220) Ishizaki and Albert’s sorrowful gaze lands on him.
+[trait] (p.220) “He was part of the group, but at the same time, he wasn’t” — air of complete isolation; talks to no one.
+[limit] (p.220) Silent in this chapter — presence is the isolation only.
+
+<!-- walk: y1v8 ch9 → p.241 -->

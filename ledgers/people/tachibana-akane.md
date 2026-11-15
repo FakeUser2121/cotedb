@@ -146,3 +146,19 @@ aliases used for anchors: tachibana, secretary, student council secretary
 [status] (p.202) Private trouble unnamed; “checkmate if I don’t make a move” left open on Ayanokōji’s side.
 
 <!-- walk: y1v8 ch7 → p.211 -->
+
+
+### y1v8 p.232–237 — Ch.9: the named target and the revocation
+[scene] (p.232) The single Class A student in Ikari’s small group; named aloud in the gym; apologizes in tears; then saved by Manabu’s lifeline.
+[says:tachibana-akane] (p.233) “Horikita-kun, I’m sorry…!”
+[says:tachibana-akane] (p.233) “That’s because…I knew that you would take the burden upon yourself, Horikita-kun…” said Tachibana, apologizing, in tears.
+[says:tachibana-akane] (p.236) “W-wait, Horikita-kun!” Tachibana shouted.
+[says:tachibana-akane] (p.237) “Please, don’t do this. This is all my fault…”
+[rel:horikita-manabu] (p.233–237) The “Horikita-kun” relationship again; her fear that he would take the burden; his why-didn’t-consult-me-sooner question; the revocation she tries to stop.
+[rel:nagumo-miyabi] (p.231–235) The chosen target — “I wanted to see your face when I made her disappear.”
+[rel:ayanokouji-kiyotaka] (p.232–233) The only female student Manabu deeply connected to; “prepared to accept” one hundred class points if she went.
+[rel:fujimaki] (p.237) Backs the spend with her in the frame.
+[trait] (p.233) Did not consult sooner because she expected him to carry it alone; still protests the spend as her fault.
+[status] (p.240) Expulsion revoked; Class A pays twenty million private points and three hundred class points.
+
+<!-- walk: y1v8 ch9 → p.241 -->

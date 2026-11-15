@@ -194,3 +194,14 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 [limit] (p.211) No presence in chapter 7 after half 1.
 
 <!-- walk: y1v8 ch7 → p.211 -->
+
+
+### y1v8 p.218–223 — Ch.9 half 1: the shoulder and the baton
+[scene] (p.218) In the random zazen order; calms Keisei with a hand, then takes the relay baton from Hashimoto.
+[rel:yukimura-teruhiko] (p.218–219) Large hand on the representative’s shoulder before the call; message received, Keisei steadies.
+[rel:hashimoto-masayoshi] (p.222–223) Receives the baton after Hashimoto’s 3.6 km turnaround leg.
+[rel:ishizaki-daichi] (p.220, 223) Paired sorrowful gaze at Ryuuen; later 1.2 km between Hashimoto and Ishizaki in the order.
+[feat] (p.222–223) 1.2 km minimum leg in the planned order.
+[limit] (p.218) Silent here — the consideration is physical, not spoken.
+
+<!-- walk: y1v8 ch9 → p.241 -->

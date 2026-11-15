@@ -1317,3 +1317,12 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [limit] (p.213–214) Bound by the student-council-president sabotage oath until the brother graduates.
 
 <!-- walk: y1v8 ch8 → p.215 -->
+
+
+### y1v8 p.229 — Ch.9: inside Ayase’s first place
+[scene] (p.229) Named with Horikita in the first-year Class C small group inside the third-year Class C large group that took girls’ first.
+[rel:horikita-suzune] (p.229) The small-group pair inside Ayase’s large group.
+[rel:ayase-natsu] (p.229) Their large-group representative.
+[limit] (p.229) Results roll only — no dialogue or action on these pages.
+
+<!-- walk: y1v8 ch9 → p.241 -->

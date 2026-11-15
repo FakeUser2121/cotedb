@@ -225,3 +225,14 @@ char_id: sotomura-hideo · class: Class 1-D (enrolled April 2015) · status: min
 [trait] (p.81–82) Read by Ayanokōji as a deliberate affectation that would fail in any formal real-world setting; the lecture aims the gaze at him on purpose.
 
 <!-- walk: y1v8 ch3 → p.109 -->
+
+
+### y1v8 p.225 — Ch.9: the Professor drops the act
+[scene] (p.225) Approaches Ayanokōji at the 3.6 km marker after a nervous mutter; speaks plainly.
+[says] (p.225) “Ah, I’m so nervous,” he muttered before turning around and locking eyes with me. “So, you’re in this spot too, Ayanokouji-kun.”
+[says] (p.225) “Ah. Well, I quit talking like that. I was doing it to play a character, but after getting that warning during zazen, I thought I’d knock it off.”
+[rel:ayanokouji-kiyotaka] (p.225) The POV is shocked — expected “Honorable Ayanokouji-dono, art thou currently placed upon this land?”; ordinary talk follows and is not remembered.
+[trait] (p.225) Self-aware performance abandoned after a zazen warning; “the thing that made him him had disappeared.”
+[limit] (p.225) One short exchange only; the ordinary conversation content is not recorded.
+
+<!-- walk: y1v8 ch9 → p.241 -->

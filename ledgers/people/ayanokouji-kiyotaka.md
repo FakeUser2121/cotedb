@@ -4185,3 +4185,34 @@ walk: y1v1 → DONE
 [limit] (p.215) Named only — no dialogue this chapter.
 
 <!-- walk: y1v8 ch8 → p.215 -->
+
+
+### y1v8 p.216–228 — Ch.9 half 1: the sandbag and the van
+[scene] (p.216) Final camp day as one of the temporary guys’ alliance; narrates the whole exam from briefing through the results open.
+[rel:yukimura-teruhiko] (p.216, 220–222) Handshake circle around the representative; steadies him after zazen; confirms the ~95 written plan.
+[rel:hashimoto-masayoshi] (p.220–221) Plays along on the Ryuuen probe without confirming anything; keeps Nagumo’s overnight interest to himself.
+[rel:kouenji-rokusuke] (p.219, 223–224) Reads his flawless zazen; refuses the van offer to run 2.4 km on a whim — “I can’t change Keisei’s strategy on my own.”
+[rel:ishizaki-daichi] (p.225–226) Takes the fourth-place baton; runs the gap to third for the handoff to Kōenji.
+[rel:sotomura-hideo] (p.225) Shocked when the Professor drops the archaic act after a zazen warning.
+[rel:hirata-yousuke] (p.224) Marker-side talk: not the anchor; Hirata’s “no one will be expelled” line taken at face value for now.
+[rel:nagumo-miyabi] (p.227–228) Reads the “boys” qualifier and the smiling second place as a live plot, not a loss.
+[feat] (p.219, 221) Perfect zazen by his own read; deliberately misses one hard written question for a solid 95 so the school does not see successive perfect scores.
+[trait] (p.223–224) Turns down Kōenji’s whim because trust on a whim can reverse on a whim.
+[limit] (p.225) Cold close: dead last for the large group would not touch him — still hopes no one is expelled.
+
+
+### y1v8 p.229–241 — Ch.9 half 2: the trap read aloud
+[scene] (p.229) Gym floor as the girls’ results land; later the corridor debrief with Karuizawa after he walks out on the showdown.
+[rel:nagumo-miyabi] (p.231–240) Names the trap as set before the school knew; explains the Class B representative, the collusion, and the twenty-million advance to Ishikura; calls the strategy formidable and checkmate-in-advance.
+[rel:horikita-manabu] (p.231–237) Silent mind-address on the no-representative order and the airtight-defense hole; watches the lifeline spent; exits when nothing he can do remains.
+[rel:tachibana-akane] (p.232–233) The only female student Manabu deeply connected to — the knife’s limited targets; “prepared to accept” cost of one hundred class points.
+[rel:karuizawa-kei] (p.237–240) Corridor walk-through of the whole strategy; answers her soft-voice fear of the same situation with no lifeline with “I won’t let you get expelled.”
+[rel:asahina-nazuna] (p.238) Names her as one of the three info sources behind the Tachibana conclusion.
+[rel:ichinose-honami] (p.238) Same info source list.
+[rel:ishikura] (p.238–240) Reads Nagumo–Ishikura collusion and the Class B payout from the pair’s calm.
+[thinks] (p.232) “Look, I get it…” — the full reconstruction of Manabu’s protective orders and Nagumo’s malice.
+[says:ayanokouji-kiyotaka] (p.240) “It’s quite a formidable strategy. Nagumo had a checkmate set up by the time his enemy got in the game.”
+[says:ayanokouji-kiyotaka] (p.240) “You don’t even need me to answer, do you? I won’t let you get expelled. No matter what methods I have to use.”
+[impact] (p.240–241) Both classes run the lifeline at once; the chapter ends on school-wide expulsions “one after another.”
+
+<!-- walk: y1v8 ch9 → p.241 -->

@@ -971,3 +971,14 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [limit] (p.211) No presence in chapter 7 after half 1.
 
 <!-- walk: y1v8 ch7 → p.211 -->
+
+
+### y1v8 p.238 — Ch.9: named as an information source
+[scene] (p.238) One of the three people Ayanokōji credits for the Tachibana conclusion.
+[note] (p.238) “That was the conclusion I’d drawn after piecing together information from Kei, Ichinose, and Asahina.”
+[rel:ayanokouji-kiyotaka] (p.238) Source in the info chain behind the trap read.
+[rel:asahina-nazuna] (p.238) Same source list.
+[rel:karuizawa-kei] (p.238) Same source list — Kei is the one he is speaking to.
+[limit] (p.238) Mention only — no scene presence in this chapter.
+
+<!-- walk: y1v8 ch9 → p.241 -->

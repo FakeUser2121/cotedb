@@ -590,3 +590,19 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [limit] (p.211) No further presence in chapter 7 after half 1.
 
 <!-- walk: y1v8 ch7 → p.211 -->
+
+
+### y1v8 p.216–228 — Ch.9 half 1: representative to second place
+[scene] (p.216) Closes the temporary alliance with a handshake; runs the day as group representative from zazen through the results.
+[says:yukimura-teruhiko] (p.216) “For the time being, we’ve done all we can. No matter what the outcome, we have no regrets.”
+[says:yukimura-teruhiko] (p.216) “No matter what happens, let’s give it our all.”
+[rel:ishizaki-daichi] (p.216) Mutual handshake and “give it our all” exchange.
+[rel:yamada-albert] (p.218–219) Flustered before zazen; Albert’s hand on the shoulder lands as calm; he reframes representative pressure as a positive.
+[rel:ayanokouji-kiyotaka] (p.220–221) Takes the written-exam steady line; group debriefs scores with him.
+[rel:kouenji-rokusuke] (p.221) Notes Kōenji gone the moment the written exam ended.
+[rel:nagumo-miyabi] (p.228) Group takes second behind Nagumo’s; Yukimura glad — margin guessed narrow.
+[trait] (p.218–219) Clear call when his name is read; morale-first read of the representative role.
+[feat] (p.228) Second place in the boys’ large-group ranking for their group.
+[limit] (p.222) First runner on the relay — the least confident legs placed up front by his own plan.
+
+<!-- walk: y1v8 ch9 → p.241 -->

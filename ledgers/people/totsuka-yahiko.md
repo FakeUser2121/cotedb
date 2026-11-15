@@ -174,3 +174,12 @@ char_id: totsuka-yahiko · class: Class 1-A (enrolled April 2015) · status: min
 [limit] (p.211) No further presence in chapter 7 after half 1.
 
 <!-- walk: y1v8 ch7 → p.211 -->
+
+
+### y1v8 p.222 — Ch.9: fifth in the relay order
+[scene] (p.222) “Yahiko” closes the least-confident opening block before the fast legs.
+[note] (p.222) “Yahiko was fifth” — first name only in the order line; roster form Totsuka Yahiko.
+[rel:yukimura-teruhiko] (p.222) Part of the five who each run the minimum 1.2 km under the representative’s terrain plan.
+[limit] (p.222) Order line only — no dialogue or result for him on these pages.
+
+<!-- walk: y1v8 ch9 → p.241 -->

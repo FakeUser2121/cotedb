@@ -1255,3 +1255,16 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [limit] (p.201, 207) Named only — no dialogue.
 
 <!-- walk: y1v8 ch7 → p.211 -->
+
+
+### y1v8 p.224 — Ch.9: the marker-side normal
+[scene] (p.224) Greets Ayanokōji at the 3.6 km wait; both are not the anchor.
+[says:hirata-yousuke] (p.224) “Hey, Ayanokouji-kun.”
+[says:hirata-yousuke] (p.224) “Huh, you’re not the anchor?”
+[says:hirata-yousuke] (p.224) “Yeah. He’s raring to go—wants to run a lot. But with fifteen people, that’s not really going to work.”
+[says:hirata-yousuke] (p.224) “At any rate, let’s both do our best. As long as we don’t fall below the school’s standards, no one will be expelled, after all.”
+[rel:sudou-ken] (p.224) Confirms Sudou wants the anchor leg; the rivalry with Kōenji expected on the final lap.
+[rel:ayanokouji-kiyotaka] (p.224) Casual wait-point exchange; both deny the anchor.
+[trait] (p.224) Steady ordinary tone even on the exam’s edge — the “normal” beat the POV notes.
+
+<!-- walk: y1v8 ch9 → p.241 -->

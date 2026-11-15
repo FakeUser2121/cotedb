@@ -42,3 +42,19 @@ char_id: fujimaki · class: Class 3-A · status: minor
 [trait] (p.57) “fundamentals” moral line — even if not against the rulebook, some actions are simply bad.
 
 <!-- walk: y1v8 ch2 → p.76 -->
+
+
+### y1v8 p.228–237 — Ch.9: the angry third-year
+[scene] (p.228) Praises Manabu for first place; then charges Nagumo when the girls’ trap fires.
+[says:fujimaki] (p.228) “Well done, Horikita. Just what I’d expect of you.”
+[says:fujimaki] (p.230) “What did you do, Nagumo?!” shouted Fujimaki, who now understood what was going on. He closed in on Nagumo.
+[says:fujimaki] (p.232) “Nagumo… You promised Horikita that you wouldn’t involve any third parties in this, didn’t you?” shouted Fujimaki. He rounded on Nagumo, getting in his face, like he was about to start throwing punches.
+[says:fujimaki] (p.232) “That’s a bald-faced lie!”
+[says:fujimaki] (p.237) “We understand. We’ve made it this far as Class A because we understand it better than anyone else. Isn’t that right?”
+[rel:nagumo-miyabi] (p.229–232) Reads the enigmatic wording, then the happy laugh; closes distance as if to punch.
+[rel:horikita-manabu] (p.228, 237) The praised first-place rep; later the ally who shares the lifeline read.
+[rel:ikari-momoko] (p.230–231) Present for her group’s last-place and below-threshold announcements.
+[trait] (p.229–232) Oblivious at first (“It’s over”), then furious once the trap is legible; still backs Manabu’s spend without hesitation.
+
+
+<!-- walk: y1v8 ch9 → p.241 -->

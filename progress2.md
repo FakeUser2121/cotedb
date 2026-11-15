@@ -2344,3 +2344,25 @@ chapter’s rows — Kushida junior-high line does not use expel); points/result
 PASS; make check OK (R18 0, R19 82/82); gate exit 0; hash
 `bc252f2a2f6455e6d268d431c6c720c4` twice. New tags: none. Next: ch9
 (pp.216–241).
+
+### y1v8 ch9 — walked
+Blind Spot pp.216–241 walked (26pp, two halves; stamp on half 2). Final camp
+day: random zazen, sandbagged written exam, relay order and Kōenji’s whim
+offer refused, Ishizaki→Ayanokōji→Kōenji second place; gym results — boys
+zero expelled, Ninomiya’s group first, Nagumo second still smiling; girls’
+Ikari last place names Tachibana under solidarity; Manabu spends the
+lifeline (twenty million private points + three hundred class points) to
+revoke; Nagumo’s XP monologue; corridor debrief with Karuizawa; both classes
+run the lifeline at once. New ledgers: ayase-natsu, ikari-momoko,
+ninomiya-kuranosuke. Beppu gets a y1v8 block (full body). Bare Tokitou in the
+relay order (p.222) left unassigned — which Tokitō not printed. R18
+“ledgers opened” → “newly recorded”; three hyphenated you-phrases and one
+kill-if-you line rewritten outside quotes (R19 back to 82/82). Four non-says
+paraphrases unquoted before verify. Rule 12 sample: relationships clean;
+who-knew-what structural limit/note noise as before; expulsions 18 real
+(Hirata/Ishizaki standards lines, Nagumo strategy, Manabu/Ayanokōji revocation
+beats); points 0 (twenty-million line sits in impact/rel not points markers —
+no pattern change); results 6 impact rows. No pattern change. verify y1v8:
+626 [says] ALL PASS + 252 non-says ALL PASS; make check OK (R18 0, R19
+82/82); gate exit 0; hash `d5387bc5902dc9a66455bd51db84f928` twice. New tags:
+none. Next: ch10 Postscript pp.242–244.

@@ -34,3 +34,12 @@ char_id: moriyama · status: minor
 [limit] (p.185) No presence in chapter 6 after half 1.
 
 <!-- walk: y1v8 ch6 → p.185 -->
+
+
+### y1v8 p.222 — Ch.9: third on the relay order
+[scene] (p.222) Named in the early minimum-distance block of the long-distance relay.
+[note] (p.222) Order: Keisei first, “Next were Sumida, Tokitou, and Moriyama from Class B. Yahiko was fifth.”
+[limit] (p.222) Order line only — no dialogue or result for him on these pages.
+
+
+<!-- walk: y1v8 ch9 → p.241 -->

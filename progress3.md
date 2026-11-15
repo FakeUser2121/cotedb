@@ -1634,3 +1634,8 @@ Year 1 Volume 8 chapter 8 runs from the dorm-room Suzune–Kushida
 surveillance and oath argument through the knife metaphor to Kushida’s “last
 time” exit and Suzune’s powerless choice of her over Ayanokōji. Determinism
 hash across consecutive builds: `bc252f2a2f6455e6d268d431c6c720c4`.
+
+Year 1 Volume 8 chapter 9 runs from the final-day briefing and random zazen
+through the relay and Nagumo’s girls’ trap to the double lifeline and the
+corridor debrief. Determinism hash across consecutive builds:
+`d5387bc5902dc9a66455bd51db84f928`.

@@ -239,3 +239,12 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [rel:ayanokouji-kiyotaka] (p.129) Honest exchange ends when the towel circle pulls Ayanokōji in.
 
 <!-- walk: y1v8 ch4 → p.147 -->
+
+
+### y1v8 p.225 — Ch.9: the mostly-Class-B group on the course
+[scene] (p.225) His group’s runners arrive at Ayanokōji’s marker ahead of Ishizaki’s handoff.
+[note] (p.225) “someone from the mostly Class B group led by Kanzaki” — first runner to reach the marker in that wave.
+[rel:ayanokouji-kiyotaka] (p.225) Their runner precedes Ishizaki into the handoff zone.
+[limit] (p.225) Leadership named only — no dialogue or page presence beyond the group reference.
+
+<!-- walk: y1v8 ch9 → p.241 -->

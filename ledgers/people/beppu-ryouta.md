@@ -19,3 +19,16 @@ char_id: beppu-ryouta · class: Class 1-B · status: minor
 [note] (p.219) One line in the room; no further action in this half.
 
 <!-- walk: y1v4 ch5 → p.243 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.218 — Ch.9: third in the zazen call
+[scene] (p.218) Called by name in the random first-year zazen order, after Katsuragi and Ishizaki.
+[says] (p.218) “Hurry up, Ishizaki. Next, first-year Class B, Beppu Ryouta.”
+[rel:ishizaki-daichi] (p.218) Follows Ishizaki in the instructor’s list.
+[limit] (p.218) Name only in this chapter — no further presence.
+
+
+<!-- walk: y1v8 ch9 → p.241 -->

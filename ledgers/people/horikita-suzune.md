@@ -2748,3 +2748,18 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [limit] (p.215) “very few comrades I could trust” — powerless close; must choose her.
 
 <!-- walk: y1v8 ch8 → p.215 -->
+
+
+### y1v8 p.229 — Ch.9: in the winning large group
+[scene] (p.229) Named with Kushida inside Ayase’s first-place large group — a first-year Class C small group may have earned quite a few points.
+[rel:kushida-kikyou] (p.229) Paired in the small group inside the third-year Class C large group that took girls’ first.
+[rel:ayase-natsu] (p.229) Their large-group representative announced first among the girls.
+[limit] (p.229) Name in the results roll only for this beat.
+
+### y1v8 p.237 — Ch.9 half 2: watching the brother
+[scene] (p.237) Watches the entire showdown from the gym floor; does not notice Ayanokōji walk away.
+[rel:horikita-manabu] (p.237) Anxiously eyes her older brother the whole situation through — too intently to see anyone else leave.
+[rel:ayanokouji-kiyotaka] (p.237) Fails to notice him exit; he takes it as fine.
+[limit] (p.237) No speech on these pages — presence is the fixed stare.
+
+<!-- walk: y1v8 ch9 → p.241 -->

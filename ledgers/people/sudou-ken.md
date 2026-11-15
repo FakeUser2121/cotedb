@@ -1206,3 +1206,13 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [limit] (p.186, 207) Named only — no dialogue.
 
 <!-- walk: y1v8 ch7 → p.211 -->
+
+
+### y1v8 p.224 — Ch.9: the anchor who wants more
+[scene] (p.224) Named as Hirata’s group’s anchor — raring to run more than the order allows.
+[note] (p.224) Hirata reports Sudou “raring to go—wants to run a lot”; fifteen people make that impossible.
+[rel:kouenji-rokusuke] (p.224) Rivalry expected to flare with Kōenji on the final lap.
+[rel:hirata-yousuke] (p.224) His group’s anchor under Hirata’s account.
+[limit] (p.224) Indirect only — no direct speech or action on these pages.
+
+<!-- walk: y1v8 ch9 → p.241 -->

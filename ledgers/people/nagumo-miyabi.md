@@ -273,3 +273,34 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [goal] (p.209–210) Win tomorrow with groundwork laid — least damage path for Manabu is abstention.
 
 <!-- walk: y1v8 ch7 → p.211 -->
+
+
+### y1v8 p.227–228 — Ch.9 half 1: second place with a smile
+[scene] (p.227) Their large group announced second; Nagumo smiles beside Ayanokōji with no sign of upset.
+[rel:horikita-manabu] (p.228) Manabu’s group first; Nagumo’s second — the smile is the tell that the loss was the plan.
+[rel:hashimoto-masayoshi] (p.220–221) Overnight interest in Ryuuen still in Hashimoto’s head (prior context carried into the day).
+[trait] (p.227–228) Not the look of a man who lost after throwing the gauntlet — the POV reads concoction, not defeat.
+[limit] (p.227–228) No direct speech in half 1 after the announcements begin.
+
+### y1v8 p.229–240 — Ch.9 half 2: the blind spot
+[scene] (p.229) Loud congratulations to Horikita-senpai; runs the girls’ trap to Tachibana’s naming; the gym-floor victory lap and the XP monologue.
+[says:nagumo-miyabi] (p.229) “You’ve earned first place. Congratulations are in order, Horikita-senpai. Just as I’d expect from you,” said Nagumo, speaking loudly.
+[says:nagumo-miyabi] (p.229) “It sure seems that way. But they’ve only just started announcing the results, haven’t they?”
+[says:nagumo-miyabi] (p.229) “Yes. They have nothing to do with the fight between Horikita-senpai and I, that’s right. At all.”
+[says:nagumo-miyabi] (p.231) “Come now, senpai, we’re still in the middle of the results. Please calm down. This has nothing to do with you anyway, Fujimaki-senpai. Does it? The only thing that’s happening is that a Class B student will be expelled. If anything, this means you’ll pull even further ahead of your rivals, right?”
+[says:nagumo-miyabi] (p.231) “Ikari-senpai. I’m sure everyone is wondering just who in the world will be expelled alongside you.”
+[says:nagumo-miyabi] (p.235) “Ah, such beautiful friendship. Or perhaps I should call it love? Anyway, congratulations to you, Horikita-senpai. Once again, please allow me to pay you my compliments. I’ve lost.”
+[says:nagumo-miyabi] (p.235) “It was a truly fantastic strategy. No, perhaps I should say that it was a strategy that went well beyond what is expected. There is not a single person here who can read my intentions, and that includes you, Horikita-senpai,”
+[says:nagumo-miyabi] (p.235) “Please, enlighten me, Tachibana-senpai. How does it feel to have served on the student council, to have been on verge of graduating from Class A, only to then be expelled? And Horikita-senpai, how do you feel right now? I’m sure you must be positively filled with feelings of frustration, the likes of which you’ve never felt before. Hmm?”
+[says:nagumo-miyabi] (p.235) “Because I can’t imagine you ever being expelled, even if I tried such a method on you, senpai. I was terrified you’d counter me with some method I couldn’t anticipate. But more importantly, I’ve never actually wanted you to be expelled, Horikita-senpai. If anything, if you got expelled, then we wouldn’t be able to see each other, would we? That’s why, of all the many possible targets, I went after Tachibana-senpai. I wanted to see your face when I made her disappear,”
+[says:nagumo-miyabi] (p.235) “Trust is an awful lot like experience points in a game,” he said. “The more you accumulate, the more you increase your worth. I think that the ultimate form of this is family. If you ran into a stranger when you were out and about at night, you’d be cautious. But if that person happened to be family, then you’d drop your guard. It’s like that, Horikita-senpai. Though I”
+[says:nagumo-miyabi] (p.236) “I’m glad to hear that. This was, after all, nothing more than a warmup,” replied Nagumo. “I’m fine with getting people expelled, if I have to. That’s the way this school operates.”
+[rel:horikita-manabu] (p.229–237) Congratulates him loudly; admits never wanting him expelled so they can keep facing each other; the trust discarded as game XP.
+[rel:tachibana-akane] (p.231–235) Calls her over for the reveal; the target chosen over Manabu to watch his face.
+[rel:fujimaki] (p.229–232) Enigmatic wording draws Fujimaki’s stern face; then the “nothing to do with me” denial under the shout-down.
+[rel:ishikura] (p.229, 238–240) Quiet Class B observer beside him; the collusion and the twenty-million advance read by the POV.
+[rel:ikari-momoko] (p.231) Her naming of Tachibana is the trap’s firing pin.
+[tactic] (p.232, 238–240) Trap set without the school realizing it; Class B representative; large group held low; Nagumo paid twenty million private points up front so Class B would cooperate.
+[impact] (p.236–240) Forces the lifeline spend; keeps the A–B gap from widening while Class A burns cash; “warmup” for what comes next.
+
+<!-- walk: y1v8 ch9 → p.241 -->

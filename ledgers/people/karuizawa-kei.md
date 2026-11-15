@@ -1056,3 +1056,21 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [limit] (p.211) No presence in chapter 7 after half 1.
 
 <!-- walk: y1v8 ch7 → p.211 -->
+
+
+### y1v8 p.237–240 — Ch.9: the corridor debrief
+[scene] (p.237) Waiting near the gymnasium entrance; follows Ayanokōji into the corridor and walks him through the whole trap until they part.
+[says:karuizawa-kei] (p.237) “Everything happened the way you said it would, Kiyotaka. You seriously knew what was going to happen. You knew Tachibana-senpai would be targeted. I would have thought anyone other than Horikita-senpai would’ve been fair game for Nagumo to target…”
+[says:karuizawa-kei] (p.238) “But why did he use Class B? It would’ve been fine if he put a Class D student in charge as representative. I mean, since he used Class B, that means Horikita-senpai is still in Class A, right? If Nagumo wanted to knock him down to Class B, shouldn’t he have gone with a Class D student?”
+[says:karuizawa-kei] (p.239) “But wait, how could he even pull off a strategy like this? If I were a student in Class B, I sure as hell wouldn’t be okay with getting expelled for the sake of my class. What’s the payoff?”
+[says:karuizawa-kei] (p.239) “Huh? But she was the representative, wasn’t she?”
+[says:karuizawa-kei] (p.239) “So third-year Class B is that rich?”
+[says:karuizawa-kei] (p.240) “What a seriously insane way of fighting. That is definitely not normal.”
+[says:karuizawa-kei] (p.240) “Wait, one more thing.” Kei was persistent. “I can’t think of any way to counter the way Nagumo-senpai’s thinks. The method he used to set Tachibana-senpai up for expulsion… It’s, like, the perfect trap or something. Is that why you didn’t make a move, Kiyotaka?”
+[says:karuizawa-kei] (p.240) “Say, what if I wind up in the same situation that Tachibana-senpai was in…? In a situation where you can’t even use a lifeline? I mean, there’d be nothing you could do at a time like that, right?” asked Kei in a soft voice.
+[rel:ayanokouji-kiyotaka] (p.237–240) The full strategy walkthrough; receives the “I won’t let you get expelled” answer to her soft-voice fear.
+[rel:nagumo-miyabi] (p.238–240) Questions the Class B choice and the payoff; calls the method insane.
+[rel:tachibana-akane] (p.237–240) The named target of the story she is walked through; projects herself into the same trap.
+[trait] (p.237–240) Waited for him deliberately; sharp on the Class B representative puzzle; softens only on the personal what-about-me close.
+
+<!-- walk: y1v8 ch9 → p.241 -->

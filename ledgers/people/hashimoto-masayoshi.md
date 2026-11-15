@@ -162,3 +162,24 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [goal] (p.205) Slip into Class A even if Hirata’s group climbs — room for him is the condition.
 
 <!-- walk: y1v8 ch7 → p.211 -->
+
+
+### y1v8 p.220–221 — Ch.9 half 1: the Ryuuen probe
+[scene] (p.220) Beside Ayanokōji after zazen; opens the Ryuuen-isolation read and steers toward Nagumo’s interest.
+[says:hashimoto-masayoshi] (p.220) “Well, no use worryin’ about it. Nothing ya can do now. Right, Ayanokouji?”
+[says:hashimoto-masayoshi] (p.220) “Ishizaki and Albert’s eyes. I don’t get the impression that they hate him. If anything, they look sorrowful. Like pets whose master has abandoned them.”
+[says:hashimoto-masayoshi] (p.221) “That’s what they say, but…maybe there’s something more to Ryuuen stepping down. Don’t you think so?”
+[says:hashimoto-masayoshi] (p.221) “I see. Sorry for asking you something weird.”
+[rel:ryuuen-kakeru] (p.220–221) Reads the isolation as more than a fallout; admits he has no evidence linking Ayanokōji to Ryuuen.
+[rel:ayanokouji-kiyotaka] (p.220–221) Almost certainly no evidence; still steers the talk because Nagumo asked about Ryuuen.
+[rel:nagumo-miyabi] (p.220–221) The overnight interest still in his head; will not confront Ayanokōji directly.
+[trait] (p.220–221) Smooth disengage once the probe is deflected.
+
+### y1v8 p.233 — Ch.9 half 2: the solidarity mechanics
+[scene] (p.233) States the trap in one breath when the girls’ results land.
+[says:hashimoto-masayoshi] (p.233) “Tachibana-senpai dragged down Ikari-senpai’s group,” he said. “As a result, their group’s score fell below the average, so she’s being taken down as well via the solidary rule. That’s all there is to it, isn’t it?”
+[rel:tachibana-akane] (p.233) Names her as the dragged-down Class A student.
+[rel:ikari-momoko] (p.233) The representative whose group took the hit.
+[note] (p.233) “solidary rule” kept as printed — translation for the solidarity rule.
+
+<!-- walk: y1v8 ch9 → p.241 -->

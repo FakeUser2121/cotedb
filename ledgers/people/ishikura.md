@@ -49,3 +49,15 @@ char_id: ishikura · class: Class 1-D · status: minor
 [rel:tsunoda] (p.145) Paired with Tsunoda as the card-night third-years who knew the room.
 
 <!-- walk: y1v8 ch4 → p.147 -->
+
+
+### y1v8 p.229–240 — Ch.9: beside Nagumo, calm after the fire
+[scene] (p.229) Third-year Class B standing with Nagumo through the announcements; later goes with Ikari to the instructor; calm that the POV reads as proof of payment.
+[rel:nagumo-miyabi] (p.229, 238–240) Quiet observer of the Fujimaki exchange; the collusion and the twenty-million bus payment inferred from his and Ikari’s calm.
+[rel:ikari-momoko] (p.232) Classmate who goes with her, nestling close, when she heads to name her target.
+[rel:horikita-manabu] (p.229) Present in the third-year circle around the first-place announcement.
+[tactic] (p.238–240) Class B side of the plan: predicted Manabu would buy the revocation, so Class B could run the lifeline too — Nagumo fronted the private points.
+[limit] (p.229–240) No direct speech on these pages — presence is proximity and the later payout read.
+
+
+<!-- walk: y1v8 ch9 → p.241 -->

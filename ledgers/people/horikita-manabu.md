@@ -511,3 +511,28 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [limit] (p.213, 215) Named only — no dialogue.
 
 <!-- walk: y1v8 ch8 → p.215 -->
+
+
+### y1v8 p.228 — Ch.9 half 1: first place, then the look
+[scene] (p.228) His large group announced first; Fujimaki praises him; he glances at Nagumo as the smile registers.
+[rel:nagumo-miyabi] (p.228) Beat Nagumo for first; then reads that something is off in the second-place smile.
+[rel:fujimaki] (p.228) “Well done, Horikita. Just what I’d expect of you.” — Fujimaki ignores the rest of the announcements.
+[says] (p.228) “Well done, Horikita. Just what I’d expect of you.” — Fujimaki’s praise, recorded here as the reaction it is.
+[feat] (p.228) Wins the boys’ large-group ranking for his third-year group against Nagumo.
+
+### y1v8 p.229–237 — Ch.9 half 2: the lifeline
+[scene] (p.229) Silent through Nagumo’s loud congratulations; grim at the trap; then spends Class A’s lifeline to revoke Tachibana’s expulsion.
+[says:horikita-manabu] (p.235) “Why didn’t you go after me?” he asked.
+[says:horikita-manabu] (p.235) “I understand that we have very different principles, but I trusted you. Regarding the matter of competition, I had thought you were a man capable of facing me directly, head-to-head. It would appear that I was wrong,” said Horikita.
+[says:horikita-manabu] (p.236) “I’ve come to understand how you do things quite well,” said Horikita Manabu.
+[says:horikita-manabu] (p.236) “You seem to be operating under the impression that Tachibana will be expelled.”
+[says:horikita-manabu] (p.237) “Even if we give up our position, all we need to do is take it back again. As you said, that’s how this school operates.”
+[rel:nagumo-miyabi] (p.229–237) The silent target of the congratulations; the why-didn’t-go-after-me exchange; trust named and discarded on both sides.
+[rel:tachibana-akane] (p.233–237) “Why didn’t you consult with me sooner?”; then the revocation that saves her despite her protests.
+[rel:fujimaki] (p.237) Fujimaki shares the read and backs the spend to the rest of Class A.
+[rel:horikita-suzune] (p.237) She watches him the entire showdown, too intently to notice Ayanokōji leave.
+[tactic] (p.232) The no-representative order for every Class A student — solid scores, none expelled — was the defense the trap went around.
+[impact] (p.236–240) Revokes Tachibana’s expulsion at twenty million private points and three hundred class points; Class A’s cash position takes the hit the strategy aimed for.
+[limit] (p.231–232) Grim look and no approach while Fujimaki charges; the mind is on the trap, not the fight on the floor.
+
+<!-- walk: y1v8 ch9 → p.241 -->

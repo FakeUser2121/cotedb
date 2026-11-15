@@ -588,3 +588,12 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [limit] (p.193) Named only — no dialogue.
 
 <!-- walk: y1v8 ch7 → p.211 -->
+
+
+### y1v8 p.218 — Ch.9: first name in the zazen call
+[scene] (p.218) Called first in the random zazen order — Class A before the Class D surprise that follows.
+[says] (p.218) “Class A, Katsuragi Kouhei. Class D, Ishizaki Daichi—”
+[rel:ishizaki-daichi] (p.218) Immediately after him in the instructor’s list; the crowd murmurs at the order.
+[limit] (p.218) Name only in this chapter — no further presence.
+
+<!-- walk: y1v8 ch9 → p.241 -->
