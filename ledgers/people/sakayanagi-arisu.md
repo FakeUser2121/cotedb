@@ -335,3 +335,21 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [trait] (p.94–95) Soft smile, thin lips, cane tap — “Yet.” is the whole threat: the trust might change.
 
 <!-- walk: y1v8 ch3 → p.109 -->
+
+### y1v8 p.113, 125–126 — Ch.4: the crush vow and the defensive plan
+[scene] (p.113) Named from the classroom window — her enthusiastic crush-Ichinose vow shows no surface sign of happening yet.
+[note] (p.113) Passing mention: “Sakayanagi had enthusiastically declared she would crush Ichinose, but I saw no sign of that happening.”
+[rel:ichinose-honami] (p.113) The target of the vow, seen only as a cheerful runner from the third floor.
+[rel:karuizawa-kei] (p.125–126) Karuizawa reports her three-class nine-A minimum group; Ayanokōji infers she devised the defensive no-absolute-win plan.
+[rel:kamuro-masumi] (p.125) Kamuro — not Sakayanagi — is who named Ichinose untrustworthy to Class B.
+[trait] (p.126) Aggressive player adopting a strategy where absolute victory is impossible but so is absolute loss — surprising to Ayanokōji.
+
+### y1v8 p.129, 144 — Ch.4: integrity contrast and interested observer
+[scene] (p.129) Named in Kanzaki’s honesty contrast; p.144 named as one of two with a certain interest in Ayanokōji.
+[note] (p.129) Passing mention: Kanzaki on who keeps promises — “You couldn’t expect anything of the sort from Sakayanagi or Ryuuen.”
+[note] (p.144) Passing mention: Ayanokōji wants to show Sakayanagi and Nagumo he has no intention of fighting.
+[rel:horikita-suzune] (p.129) The negative contrast that defines Horikita’s integrity by what Sakayanagi lacks.
+[rel:nagumo-miyabi] (p.144) Paired with Nagumo as the two interested first/second-year observers he intends to disappoint.
+[rel:kanzaki-ryuuji] (p.129) Source of the integrity contrast line.
+
+<!-- walk: y1v8 ch4 → p.147 -->

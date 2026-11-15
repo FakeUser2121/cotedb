@@ -15,3 +15,11 @@ char_id: tsunoda · status: minor
 [rel:hashimoto-masayoshi] (p.101) Present when Hashimoto drops matching pairs to stay alive.
 
 <!-- walk: y1v8 ch3 → p.109 -->
+
+### y1v8 p.145 — Ch.4: named as a possible note helper
+[scene] (p.145) Not on the page; named when Ayanokōji works out who could have placed the “25” bed note.
+[note] (p.145) Passing mention: “It was probably either Ishikura or Tsunoda, the third-year students who’d played cards with Nagumo.”
+[rel:horikita-manabu] (p.145) The only plausible channel for Manabu to know which bed was Ayanokōji’s — unconfirmed.
+[rel:ishikura] (p.145) Paired with Ishikura as the card-night third-years who knew the room.
+
+<!-- walk: y1v8 ch4 → p.147 -->

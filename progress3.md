@@ -1604,3 +1604,10 @@ dojo, breakfast rotation politics, PE, Sakayanagi’s bump and Ichinose-treasure
 rumor, and Nagumo’s marked-deck Old Maid. New entities onodera-sensei and
 tsunoda. Determinism hash across consecutive builds:
 `e38ba9d561822dbab7c36b032e959eb2`.
+
+Year 1 Volume 8 chapter 4 runs from cook-duty fracture and Kiriyama’s
+classroom confrontation through the bathhouse size contest (Sudou, Katsuragi,
+Albert, Kōenji, Ryuuen’s chant trap) to Ayanokōji’s 1 a.m. “25” note and the
+corridor meeting with Horikita Manabu on Nagumo and student-council exam
+power. New entity wang-mei-yu. Determinism hash across consecutive builds:
+`291c22d788b9db7ba36fc49470f0098e`.

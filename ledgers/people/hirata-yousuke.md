@@ -1226,3 +1226,12 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:ayanokouji-kiyotaka] (p.78) Ayanokōji’s read of the same gap — no one in the room can hold the group.
 
 <!-- walk: y1v8 ch3 → p.109 -->
+
+### y1v8 p.143 — Ch.4: named as a cooperation leader
+[scene] (p.143) Not on the page; named when Ayanokōji maps who is pushing cross-class cooperation.
+[note] (p.143) Passing mention: “Horikita and Hirata, to speak of our own class, or Ichinose and Katsuragi, to speak of others, were probably focusing on encouraging such cooperation.”
+[rel:horikita-suzune] (p.143) Paired as the Class D half of the cooperation-leadership read.
+[rel:ichinose-honami] (p.143) Paired with Katsuragi as the other-class example of the same role.
+[rel:katsuragi-kouhei] (p.143) Named with Ichinose as a likely cooperation driver in their group.
+
+<!-- walk: y1v8 ch4 → p.147 -->

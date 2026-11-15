@@ -905,3 +905,22 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [status] (p.95) “no one doubts her. Yet.” — Sakayanagi’s own qualifier.
 
 <!-- walk: y1v8 ch3 → p.109 -->
+
+### y1v8 p.113–115, 125 — Ch.4: the yard run and the distrust rumor
+[scene] (p.113) Through the third-floor window during morality — races spiritedly through the yard on day three.
+[rel:wang-mei-yu] (p.115) Slows to match the lagging Class C girl and runs supportively.
+[rel:shiina-hiyori] (p.115) Shiina joins the pair; two class leaders in one group.
+[rel:sakayanagi-arisu] (p.113) Sakayanagi’s crush vow shows no surface sign from the window.
+[rel:kamuro-masumi] (p.125) Named by Kamuro (not Sakayanagi) as the Class B student their group would not trust.
+[rel:karuizawa-kei] (p.125) Karuizawa’s counter — even she has only heard good things about Ichinose.
+[trait] (p.113, 115) Cheerful pace after day-one coordination pain; slows without being asked when a groupmate falls behind.
+
+### y1v8 p.129, 143 — Ch.4: Class C continuity and cooperation leader
+[scene] (p.129) Named via Kanzaki as sharing the Class C help offer and Horikita-honesty view; p.143 named as a cooperation leader.
+[note] (p.129) Named in Kanzaki’s offer: “Ichinose feels the same way, of course.”
+[note] (p.143) Passing mention: with Katsuragi, probably focusing on encouraging cross-class cooperation.
+[rel:kanzaki-ryuuji] (p.129) Her view of Horikita’s honesty is what Kanzaki relays to Ayanokōji.
+[rel:katsuragi-kouhei] (p.143) Paired as the other-class cooperation-leadership example.
+[rel:horikita-suzune] (p.129) Her high opinion of Horikita is honesty over ability.
+
+<!-- walk: y1v8 ch4 → p.147 -->

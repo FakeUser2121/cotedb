@@ -17,3 +17,17 @@ char_id: tsukasaki-taiga · class: Class 2-A · status: minor
 [note] (p.17) Passing mention: “maybe a guy like Tsukasaki-kun from that other class?”
 
 <!-- walk: y1v7.5 ch2 → p.34 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.124 — Ch.4: named in the Class A group map
+[scene] (p.124) Not at dinner; named when Karuizawa is quizzed on Class A placements.
+[note] (p.124) Passing mention: “What about Tsukasaki from Class A?” — with mostly Class A students led by Matoba.
+[rel:matoba-shinji] (p.124) Placed in Matoba’s group on Karuizawa’s map.
+[rel:karuizawa-kei] (p.124) One of her memorized names for Ayanokōji’s brief.
+
+[note] (p.147) No further presence in chapter 4 after half 1.
+
+<!-- walk: y1v8 ch4 → p.147 -->

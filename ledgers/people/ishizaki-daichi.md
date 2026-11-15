@@ -285,3 +285,26 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [rel:ryuuen-kakeru] (p.85, 90) Named as the template Yukimura fears Ishizaki might become again.
 
 <!-- walk: y1v8 ch3 → p.109 -->
+
+### y1v8 p.110–117 — Ch.4: oversalted soup and the classroom grin
+[scene] (p.110) Dawn cook duty then Saturday classroom — tempers the miso, grins when Kōenji gets told off.
+[says:ishizaki-daichi] (p.110) “Aah, I’m so goddamn tired!”
+[says:ishizaki-daichi] (p.110) “Screw that. You do it. Or what about Kouenji?”
+[says:ishizaki-daichi] (p.116) “For real? Talk about a shit exam”
+[rel:yukimura-teruhiko] (p.110) Fights Keisei over the menu and the salt; soup has to start over.
+[rel:kouenji-rokusuke] (p.111–112) Blames Kōenji’s class for his cooking ignorance; relation after the bathroom vanish is wrecked beyond hope.
+[rel:kiriyama-ikuto] (p.116–117) Instantly corrects posture when Kiriyama arrives; grins when Kōenji is told off — then the smile fades as second-years encircle.
+[rel:hashimoto-masayoshi] (p.111) Admits Hashimoto is “really good” at the stove.
+[trait] (p.110) Keeps stirring the miso while grousing; loud enough the teacher hears the shit-exam line and still does not task him.
+
+### y1v8 p.133–136 — Ch.4: summoning Albert and needling Kōenji
+[scene] (p.133) Ends the Sudou–Katsuragi stalemate by calling Albert as Class D’s ultimate trump card; later needles Kōenji out of the tub.
+[says:ishizaki-daichi] (p.133) “You fool! Class D possesses the ultimate trump card!”
+[says:ishizaki-daichi] (p.133) “No!” shouted Ishizaki. “Albert! You’re up!”
+[says:ishizaki-daichi] (p.136) “Hey, hey. You ain’t scared or nothin’, are ya, Kouenji? Or are you all talk, hidin’ your thing away in the tub?”
+[rel:yamada-albert] (p.133–134) Calls Albert as the unspoken-rule breaker; cheers “Go, Albert!” as the veil lifts.
+[rel:kouenji-rokusuke] (p.136) Tries to needle Kōenji into standing; Kōenji refuses an unworthy opponent until Albert stands beside Katsuragi.
+[rel:sudou-ken] (p.133) Declares the international-fairness point — Albert on their team means the fight crossed borders.
+[trait] (p.133–136) Strategic about who represents Class D; loud enough to drive the whole bathhouse mood.
+
+<!-- walk: y1v8 ch4 → p.147 -->

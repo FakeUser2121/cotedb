@@ -31,3 +31,21 @@ char_id: ishikura · class: Class 1-D · status: minor
 [rel:yukimura-teruhiko] (p.103) Impressed by the D→C promotion when Yukimura admits it.
 
 <!-- walk: y1v8 ch3 → p.109 -->
+
+### y1v8 p.118–119 — Ch.4: the defusal and the refused offer
+[scene] (p.118) Steps between Kiriyama’s encircling second-years and the first-years; later turns down Nagumo’s Class A promise.
+[says:ishikura] (p.118) “I think that’s enough, Kiriyama.”
+[says:ishikura] (p.118) “I know you’re just trying to coach them, but the way you’re doing it could come off as bullying. If that happens, you’ll be the one in trouble.”
+[says:ishikura] (p.119) “Sorry. But I can’t trust you. Not with the fate of Class B.”
+[rel:kiriyama-ikuto] (p.118) Stops the bullying-risk escalation and asks the first-years for confirmation — all nod but Kōenji.
+[rel:nagumo-miyabi] (p.118–119) Refuses the open offer of Class A help and Horikita’s removal; Nagumo calls the Class B gap closing but Ishikura wants no part.
+[rel:horikita-manabu] (p.118) Nagumo blames Manabu as the genius blocking Ishikura’s rise; Ishikura accepts skills-not-luck rather than the Manabu frame.
+[feat] (p.118) Reads the encirclement as bullying risk to Kiriyama, not to himself, and ends it with one intervention.
+
+### y1v8 p.145 — Ch.4: named as a possible note helper
+[scene] (p.145) Not on the page; named when Ayanokōji works out who could have placed the “25” bed note.
+[note] (p.145) Passing mention: “It was probably either Ishikura or Tsunoda, the third-year students who’d played cards with Nagumo.”
+[rel:horikita-manabu] (p.145) The only plausible channel for Manabu to know which bed was Ayanokōji’s — unconfirmed.
+[rel:tsunoda] (p.145) Paired with Tsunoda as the card-night third-years who knew the room.
+
+<!-- walk: y1v8 ch4 → p.147 -->

@@ -2711,3 +2711,19 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (p.76) Chapter ends with her girls’ leadership setup; no further pages this chapter.
 
 <!-- walk: y1v8 ch2 → p.76 -->
+
+### y1v8 p.115 — Ch.4: named as not grouped with Sakayanagi
+[scene] (p.115) Not on the page; named when the two class-leader girls’ groups are compared.
+[note] (p.115) Passing mention: with Ichinose and Shiina as two class leaders, “it wouldn’t have been strange for Horikita and Sakayanagi to be together too—but they were apparently in different groups.”
+[rel:sakayanagi-arisu] (p.115) The expected-but-absent co-grouping with the other first-year class leader.
+[rel:shiina-hiyori] (p.115) Part of the same two-class-leaders-in-one-group frame that makes the Horikita–Sakayanagi split notable.
+
+### y1v8 p.129, 143 — Ch.4: honesty read and cooperation leader
+[scene] (p.129) Named via Kanzaki’s Ichinose relay; p.143 named as a Class D cooperation leader with Hirata.
+[note] (p.129) Kanzaki’s read: high opinion for honesty more than ability — integrity and promise-keeping.
+[note] (p.143) Passing mention: with Hirata, probably focusing on encouraging cooperation in Class D.
+[rel:kanzaki-ryuuji] (p.129) The honesty frame comes through him from Ichinose.
+[rel:hirata-yousuke] (p.143) Paired as the Class D cooperation-leadership half.
+[rel:sakayanagi-arisu] (p.129) The promise-keeping contrast that defines her by what Sakayanagi lacks.
+
+<!-- walk: y1v8 ch4 → p.147 -->

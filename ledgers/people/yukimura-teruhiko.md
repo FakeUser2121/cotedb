@@ -524,3 +524,15 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [limit] (p.86–87) “Ugh. Why do I have to be the representative?” — communication with seniors is his job and he is cracking under it.
 
 <!-- walk: y1v8 ch3 → p.109 -->
+
+### y1v8 p.110 — Ch.4: breakfast menu under fire
+[scene] (p.110) Dawn cook duty — flips the teachers’ breakfast menu and catches Ishizaki’s salt dump.
+[says:yukimura-teruhiko] (p.110) “So is everyone else. Ah, please measure the ingredients correctly—don’t mess up the amount of miso,”
+[says:yukimura-teruhiko] (p.110) “Look, we don’t have a choice. We could get hit with a penalty if our whole group’s not here.”
+[rel:ishizaki-daichi] (p.110) Turns the fire off in a panic after the oversalt; orders the soup restarted.
+[rel:kouenji-rokusuke] (p.111) Dragged into the fight when Ishizaki asks why Kōenji doesn’t cook — same class, still no help.
+[limit] (p.110) Stuck refereeing kitchen discipline with a senior-resistant group on day three.
+
+[note] (p.147) No further presence in chapter 4 after half 1.
+
+<!-- walk: y1v8 ch4 → p.147 -->

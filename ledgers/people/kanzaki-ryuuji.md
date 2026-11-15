@@ -218,3 +218,24 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [rel:ayanokouji-kiyotaka] (p.85) Part of his leadership map — Class B not stepping up except these two.
 
 <!-- walk: y1v8 ch3 → p.109 -->
+
+### y1v8 p.124–128 — Ch.4: group map source and bathhouse report
+[scene] (p.124) Named as leading the mostly-Class-B girls’-adjacent group map source; later in the night bathhouse with Ayanokōji.
+[says:kanzaki-ryuuji] (p.128) “This is a pretty unusual combination of people”
+[says:kanzaki-ryuuji] (p.128) “Moriyama and the others told me. Sounds like you guys really have your hands full with Kouenji.”
+[rel:karuizawa-kei] (p.124) His Class B–heavy group is one of the names Karuizawa has memorized for Ayanokōji.
+[rel:moriyama] (p.128) Moriyama and others fed him the group-six Kouenji trouble report.
+[rel:ryuuen-kakeru] (p.128) As about Ryuuen; as Class B second-in-command his no-rumor answer through Miyake’s three days is taken as probably true.
+[rel:matsuo] — not on these pages.
+[rel:ayanokouji-kiyotaka] (p.128) Honest exchange on uneven four-class group tension; Kanzaki unsurprised.
+
+### y1v8 p.129–130 — Ch.4: Class C offer and the Horikita honesty read
+[scene] (p.129) Offers help if Ayanokōji is ever in trouble; names Ichinose’s high opinion of Horikita as honesty.
+[says:kanzaki-ryuuji] (p.129) “If you’re ever in trouble, find me. I’d like for our good relationship with Class C to continue. Ichinose feels the same way, of course.”
+[says:kanzaki-ryuuji] (p.129) “Ichinose seems to have a really high opinion of Horikita. More so for her honesty than her ability, though.”
+[rel:horikita-suzune] (p.129) Defines her as integrity and promise-keeping — unlike Sakayanagi or Ryuuen.
+[rel:ichinose-honami] (p.129) Channels Ichinose’s view as the reason for the Class C continuity offer.
+[rel:shibata-sou] (p.129–130) Exasperated sigh at Shibata’s childish contest; leaves before the Albert escalation.
+[rel:ayanokouji-kiyotaka] (p.129) Honest exchange ends when the towel circle pulls Ayanokōji in.
+
+<!-- walk: y1v8 ch4 → p.147 -->

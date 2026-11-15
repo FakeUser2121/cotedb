@@ -250,3 +250,13 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [feat] (p.56) Reads Kaneda’s Gōda pick as reliable allies, not a snub of Nagumo’s person.
 
 <!-- walk: y1v8 ch2 → p.76 -->
+
+### y1v8 p.128 — Ch.4: named as the inside man in Ryuuen’s group
+[scene] (p.128) Not on the page; named when Kanzaki reports three days without Ryuuen rumors.
+[note] (p.128) Passing mention: “It was three days since Akito had entered Ryuuen’s group… we hardly ever spoke.”
+[rel:ryuuen-kakeru] (p.128) Three days inside with no scheming reports — the quiet is what Kanzaki and Ayanokōji mark as probably true.
+[rel:kanzaki-ryuuji] (p.128) Bathhouse proximity exists but they barely speak; Kanzaki’s no-rumor line is the channel.
+
+[note] (p.147) No further presence in chapter 4 after half 1.
+
+<!-- walk: y1v8 ch4 → p.147 -->

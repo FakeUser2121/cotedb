@@ -190,3 +190,23 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [trait] (p.104, 106–109) “I’d like to leave the first-years with three losses. But I’m also okay with four” — the whole night is a controlled test, not a party.
 
 <!-- walk: y1v8 ch3 → p.109 -->
+
+### y1v8 p.118–119 — Ch.4: the open offer from the sidelines
+[scene] (p.118) Watches Kiriyama’s confrontation from the sidelines and applauds Ishikura’s handling.
+[says:nagumo-miyabi] (p.118) “Excellent, Ishikura-senpai. You really got a handle on things, didn’t you?”
+[says:nagumo-miyabi] (p.118) “The only reason you haven’t been able to rise to Class A is because there’s a genius like Horikita Manabu in your way. I know you’ve fought the good fight for three years. There’s a 312-point difference between Classes A and B right now.”
+[says:nagumo-miyabi] (p.119) “It doesn’t matter if he’s the representative or not. There are many” — ways to crush Horikita, said with a laugh.
+[rel:ishikura] (p.118–119) Lays out Class A and Horikita-removal plans in front of everyone; gets “I can’t trust you” for it.
+[rel:horikita-manabu] (p.118–119) Names Manabu as the blocker; claims many ways to crush him whether or not he is representative.
+[rel:kiriyama-ikuto] (p.118) Kiriyama’s coaching is the occasion; Nagumo watches without intervening until after.
+[trait] (p.119) Guileless-or-performed show of plans — Ayanokōji doubts it was the former.
+[number] (p.118) 312-point gap between Classes A and B at the time of the offer.
+
+### y1v8 p.146 — Ch.4: named in the corridor assessment
+[scene] (p.146) Not on the page; named throughout Manabu’s corridor brief to Ayanokōji.
+[note] (p.146) Passing mention in Manabu’s assessment: Nagumo’s public average-score challenge, underhanded methods, unusually high second-year expulsion rate, never broken a promise.
+[rel:horikita-manabu] (p.146) The two-year student-council history is why Manabu trusts the no-third-parties claim.
+[rel:ayanokouji-kiyotaka] (p.145–146) Ayanokōji withholds his own Nagumo concerns while taking the brief.
+[status] (p.146) Manabu’s group is mostly Class A including first-years — strong chance to win the test; that is why Nagumo’s inaction reads as anxiety fuel.
+
+<!-- walk: y1v8 ch4 → p.147 -->

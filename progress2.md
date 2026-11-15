@@ -2250,3 +2250,27 @@ schedule `[rule]` — no pattern/list change made (owner approval required).
 verify y1v8: 109 [says] ALL PASS + 87 non-says ALL PASS; make check OK
 (R18 0, R19 82/82); gate exit 0; hash `e38ba9d561822dbab7c36b032e959eb2`
 twice. New tags: none. Next: ch4 (pp.110–147).
+
+### y1v8 ch4 — walked
+A Premonition of Defeat pp.110–147 walked in two halves (38pp). Dawn cook
+duty fracture (Ishizaki oversalts; Hashimoto and Albert kitchen trump cards;
+Kōenji’s half-hour bathroom alibi wrecks the Ishizaki relation); window watch
+on Ichinose’s run (Wang Mei-Yu last, Shiina alongside); daily speech criterion
+(volume, posture, content, communicativeness); Kiriyama’s attitude talk and
+second-year encirclement, Ishikura’s bullying-risk defusal, Nagumo’s open Class
+A / Horikita-removal offer refused; Ayanokōji’s dinner intel with Karuizawa
+(girls’ group map, Kamuro’s named distrust of Ichinose, MacGuffin manners,
+“a storm is coming”); bathhouse size contest through Sudou, Katsuragi, Albert
+and Kōenji’s tank, Ryuuen’s chant trap and the near-T-rex towel drop; 1 a.m.
+“25” note and exam-component map; corridor meeting with Horikita Manabu
+(Nagumo never breaks a promise; student council can revise penalties/meddle
+with rules but not on a whim; “He might lose”). New ledger: wang-mei-yu.
+Rule 12 sample: relationships clean; who-knew-what picks up structural
+half1-only closers (“No further presence…”) and passing-mention notes as
+noise against “thinking or knowing”; expulsions gets one hypothetical
+defence-of-self `goal`; results gets 312-point standing gap and two exam
+`rule`s rather than decided outcomes — no pattern/list change made (owner
+approval required). verify y1v8: 181 [says] ALL PASS + 129 non-says ALL PASS;
+make check OK (R18 0, R19 82/82); gate exit 0; hash
+`291c22d788b9db7ba36fc49470f0098e` twice. New tags: none. Next: ch5
+(pp.148–152).

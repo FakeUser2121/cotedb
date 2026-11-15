@@ -618,3 +618,15 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:ayanokouji-kiyotaka] (p.129) The previous mall movie is why he checks for her; she is not here.
 
 <!-- walk: y1v7.5 ch5 → p.153 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.143 — Ch.4: named as the island blind-spot precedent
+[scene] (p.143) Not on the page; named when Ayanokōji lists school-rule blind spots from past exams.
+[note] (p.143) Passing mention: “Such as how Ibuki and Horikita had traded blows back on the uninhabited island, even though violence was prohibited.”
+[rel:horikita-suzune] (p.143) The paired example of rule-breaking that still did not sink the exam — violence prohibited, blows traded.
+[rel:ayanokouji-kiyotaka] (p.143) Part of his theory that every special exam has loopholes the school cannot fully close.
+
+<!-- walk: y1v8 ch4 → p.147 -->

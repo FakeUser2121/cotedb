@@ -133,3 +133,11 @@ aliases used for anchors: kaneda, kaneda satoru, kaneda-kun
 [feat] (p.56) Immediate selection once classmates are “consulted” — a formality under his authority.
 
 <!-- walk: y1v8 ch2 → p.76 -->
+
+### y1v8 p.130 — Ch.4: dragged in and out
+[scene] (p.130) Named as Class D’s current size king; pulled into Sudou’s showdown and flees when it ends.
+[says:kaneda-satoru] (p.130) “If I don’t, my vision is so bad that I can’t see well enough to walk.” — on wearing glasses in the bath.
+[rel:sudou-ken] (p.130) Dragged into the contest; loses instantly; exits with “Finally, the game is over” on his face.
+[limit] (p.130) No intention of joining; uncomfortable the whole time — one page only.
+
+<!-- walk: y1v8 ch4 → p.147 -->

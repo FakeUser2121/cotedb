@@ -122,3 +122,16 @@ char_id: totsuka-yahiko · class: Class 1-A (enrolled April 2015) · status: min
 [rel:nagumo-miyabi] (p.101) Swaps in on Nagumo’s “Probably for the best.”
 
 <!-- walk: y1v8 ch3 → p.109 -->
+
+### y1v8 p.131, 135, 138 — Ch.4: Yahiko fronts for Class A and the chant
+[scene] (p.131) Challenges Sudou’s crown as a front for idolized Katsuragi; later begs Katsuragi to face Albert for Japan, then glares at Ayanokōji.
+[says:totsuka-yahiko] (p.131) “King? Don’t make me laugh, Sudou,”
+[says:totsuka-yahiko] (p.131) “You’re just above average. You can’t win against Class A’s Katsuragi-san!”
+[says:totsuka-yahiko] (p.135) “There’s no way Kouenji can win if he goes up against Albert! On behalf of the Japanese people, I’m begging you, Katsuragi-san, you must defeat him!”
+[says:totsuka-yahiko] (p.138) “No way. A guy like you? No way, dude,” — glaring at Ayanokōji after Ryuuen’s plant.
+[rel:sudou-ken] (p.131) Admits he is no match; Sudou is still not the opponent — Katsuragi is.
+[rel:katsuragi-kouhei] (p.131–135) Idols Katsuragi and recruits him twice for national pride.
+[rel:ayanokouji-kiyotaka] (p.138) Glare when Ryuuen’s hidden-power plant lands on the only still-toweled man.
+[rel:ryuuen-kakeru] (p.139) Joins the “Take it off!” chant without needing to know who goaded it.
+
+<!-- walk: y1v8 ch4 → p.147 -->

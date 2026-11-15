@@ -135,3 +135,17 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 
 
 <!-- walk: y1v7.5 ch4 → p.106 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.115 — Ch.4: beside Ichinose and Wang on the run
+[scene] (p.115) Through the window — runs up beside Ichinose and lagging Wang Mei-Yu with a smile.
+[rel:ichinose-honami] (p.115) Joins the support pair when Ichinose slows for Wang.
+[rel:wang-mei-yu] (p.115) Third in the slow trio out on the yard.
+[rel:ryuuen-kakeru] (p.115) Named via Ryuuen’s circle as the girls’ Class D leader — two class leaders in one group with Ichinose.
+
+[note] (p.147) No further presence in chapter 4 after half 1.
+
+<!-- walk: y1v8 ch4 → p.147 -->

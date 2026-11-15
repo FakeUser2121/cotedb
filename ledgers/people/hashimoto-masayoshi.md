@@ -56,3 +56,20 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [trait] (p.79) Punches wood to break silence instead of shouting — “having cut through the silence with a sound other than his voice.”
 
 <!-- walk: y1v8 ch3 → p.109 -->
+
+### y1v8 p.111 — Ch.4: frying-pan trump card
+[scene] (p.111) Dawn kitchen — works the camp stove while Ishizaki and Keisei fight over miso.
+[says:hashimoto-masayoshi] (p.111) “I’ve always cooked my own meals,”
+[rel:yamada-albert] (p.111) Asks Albert to cut vegetables after the whipped eggs; they are named the team’s cooking trump cards with Ayanokōji on prep.
+[feat] (p.111) Skillful frying-pan work with no arrogance about self-taught cooking.
+[rel:ishizaki-daichi] (p.111) Backward glance at the miso fight while his hands stay busy.
+
+### y1v8 p.131 — Ch.4: firing the Class A pitch
+[scene] (p.131) Backs Yahiko’s pride line and claims personal knowledge of Katsuragi’s “thing.”
+[says:hashimoto-masayoshi] (p.131) “But that’s not really true. Is it, Katsuragi?”
+[rel:katsuragi-kouhei] (p.131) Confidence that Katsuragi can win; laughs boldly at the victory possibility.
+[rel:totsuka-yahiko] (p.131) Yahiko looks disgusted at Hashimoto’s turn.
+[rel:sudou-ken] (p.131) Present in the circle that fires the pitch at Sudou’s crown.
+[feat] (p.131) Personally checked Katsuragi’s build — the detail that makes the Class A claim credible to the circle.
+
+<!-- walk: y1v8 ch4 → p.147 -->

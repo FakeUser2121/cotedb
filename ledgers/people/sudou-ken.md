@@ -1167,3 +1167,21 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:nagumo-miyabi] (p.102–103) Nagumo’s soccer-vs-council aside is the frame for Ishikura’s club regrets.
 
 <!-- walk: y1v8 ch3 → p.109 -->
+
+### y1v8 p.130–140 — Ch.4: the king who lost twice
+[scene] (p.130) Overhears the towel-circle talk, grabs Ayanokōji by the shoulders, and crowns himself size king; loses to Albert, then watches Kōenji.
+[says:sudou-ken] (p.130) “All right, who’s the current size king?”
+[says:sudou-ken] (p.130) “Move it,”
+[says:sudou-ken] (p.130) “That settles it. I’m the king!”
+[says:sudou-ken] (p.131) “It don’t matter who I’m up against. The result’s the same. The king is Class D’s—”
+[says:sudou-ken] (p.133) “Damn, he’s huge…”
+[says:sudou-ken] (p.134) “I…lost.”
+[says:sudou-ken] (p.137) “Are you even human?”
+[rel:kaneda-satoru] (p.130) Confronts Class D’s Kaneda; instant win; Kaneda flees.
+[rel:katsuragi-kouhei] (p.131–132) Even match with Katsuragi per Yamauchi’s draw — shared first place.
+[rel:yamada-albert] (p.133–134) Faces Albert as king; collapses to his knees in overwhelming defeat.
+[rel:kouenji-rokusuke] (p.135, 140) “Are you even human?” at Kōenji’s unveiled form.
+[rel:hashimoto-masayoshi] (p.131) Present when Hashimoto fires the Class A pride pitch at Katsuragi.
+[trait] (p.130–134) Proudly naked king who still shows no fear shouting “Bring it on!” at Albert.
+
+<!-- walk: y1v8 ch4 → p.147 -->

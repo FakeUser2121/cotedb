@@ -153,3 +153,20 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 [limit] (p.77–89) Still no Japanese line of his own; presence only through group composition and Ishizaki’s side.
 
 <!-- walk: y1v8 ch3 → p.109 -->
+
+### y1v8 p.111 — Ch.4: knife work beside Hashimoto
+[scene] (p.111) Dawn kitchen — diced vegetables for the large group despite bulky frame.
+[rel:hashimoto-masayoshi] (p.111) Carries whipped eggs to Hashimoto, then takes the vegetable order.
+[rel:ayanokouji-kiyotaka] (p.111) Silent eye-language handoff of the kitchen knife; keeps pace with Ayanokōji’s dicing.
+[feat] (p.111) Brings the knife down cleanly on the cutting board — kitchen competence that surprises the frame.
+
+### y1v8 p.133–140 — Ch.4: the final boss
+[scene] (p.133) Called by Ishizaki as Class D’s trump card; unveiled to a silent bathhouse; Kōenji’s later rival in the towel drop.
+[rel:ishizaki-daichi] (p.133–134) Responds to Ishizaki’s summons; lets him remove the towel; “Go, Albert!” cheers.
+[rel:sudou-ken] (p.133–134) Frame difference makes Sudou’s “Damn, he’s huge…” the understatement; Sudou folds first.
+[rel:kouenji-rokusuke] (p.137–140) Stands beside Katsuragi for the comparison; later Kōenji claims victory over him by experience even after the T-rex line.
+[feat] (p.133–134) Still wearing sunglasses in the bath; muscular frame that crosses international territory in the circle’s read.
+[says:yamada-albert] (p.137) “Oh, my God,” — muttered softly in English at Kōenji’s unveiling.
+[limit] (p.137) Only English line in the chapter — Japanese still absent.
+
+<!-- walk: y1v8 ch4 → p.147 -->

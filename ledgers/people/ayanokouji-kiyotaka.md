@@ -4024,3 +4024,36 @@ walk: y1v1 → DONE
 [trait] (p.107–108) Refuses the talk-back Nagumo wants from him; wins without showing the marked card — “You lost” is left for Ishikura to say.
 
 <!-- walk: y1v8 ch3 → p.109 -->
+
+### y1v8 p.110–128 — Ch.4 §4.1–4.3: cooking, window, Kiriyama, Kei, bath
+[scene] (p.110) Third camp morning through night bath: cook-duty fracture, Ichinose’s group through the glass, Kiriyama’s confrontation, dinner intel with Karuizawa, Kanzaki’s Ryuuen report.
+[rel:ishizaki-daichi] (p.110–112) Watches the oversalted soup and Kōenji hunt; notes the Ishizaki–Kōenji relationship wrecked beyond repair.
+[rel:kouenji-rokusuke] (p.111–112, 116–117) Tracks Kōenji’s half-hour bathroom absence and later the classroom clash where he refuses group judgment.
+[rel:hashimoto-masayoshi] (p.111) Credits Hashimoto and Albert as the team’s cooking trump cards; takes the easy prep station beside Albert.
+[rel:yamada-albert] (p.111) Silent eye-language knife handoff while dicing vegetables.
+[rel:ichinose-honami] (p.113–115) Window watch: Ichinose slows to run support beside lagging Wang Mei-Yu with Shiina alongside.
+[rel:sakayanagi-arisu] (p.113) Notes Sakayanagi’s crush-Ichinose vow shows no surface sign from the third-floor view.
+[rel:kiriyama-ikuto] (p.116–119) Present through the second-year encirclement; reads Kiriyama as lumping first-years together for Nagumo’s score’s sake.
+[rel:ishikura] (p.118–119) Watches Ishikura defuse the bullying risk and Nagumo’s open Class A / Horikita-removal offer get refused.
+[rel:nagumo-miyabi] (p.118–119) Files Nagumo’s guileless-or-performed plan speech in front of everyone.
+[rel:karuizawa-kei] (p.120–127) Dinner seat by design; she answers group maps and Ryuuen fear; he calls her Kei and warns “a storm is coming.”
+[rel:kanzaki-ryuuji] (p.128) Bathhouse exchange — Kanzaki’s no-rumor report through Miyake’s three days is taken as probably true.
+[rel:ryuuen-kakeru] (p.123–124) Reassures Kei Ryuuen won’t act carelessly against her; frames him as “somewhat domesticated.”
+[goal] (p.120, 126) Wants a better handle on the girls’ groups; treats manners and ethics as MacGuffin — necessary but not the point.
+[says:ayanokouji-kiyotaka] (p.126) “But this exam… Let’s just say a storm is coming.”
+[trait] (p.124–125) Has memorized first-year names-to-faces from exam necessity; quizzes Kei to prove it.
+
+### y1v8 p.129–147 — Ch.4 §4.4–4.5: the note and the corridor
+[scene] (p.129) Bathhouse exit and Kanzaki’s Class C offer; later 1 a.m. “25” note and the Morse-light corridor meeting with Horikita Manabu.
+[rel:kanzaki-ryuuji] (p.129) Accepts the offer to keep Class C relations; files Kanzaki’s honesty read of Horikita as integrity, not naivety.
+[rel:sudou-ken] (p.130, 139) Dodges the size question; waves off Sudou’s “last rites” offer when the chant forces his hand.
+[rel:kouenji-rokusuke] (p.138–140) Refuses the bait until Ryuuen’s trap closes; drops the towel to a near-stalemate Kōenji still claims by experience.
+[rel:ryuuen-kakeru] (p.137–139) Reads Ryuuen’s planted hidden-power line and “Take it off!” chant as a malicious trap he cannot escape without losing bath time.
+[rel:horikita-manabu] (p.145–147) Meets in the pitch-black corridor; lies that Nagumo shows no strange sign; takes the student-council rules power and the “He might lose” verdict.
+[rel:nagumo-miyabi] (p.145–146) Withholds concern about Nagumo’s public challenge and lax lesson discipline from Manabu; files the never-broken-promise certainty.
+[goal] (p.142–144) Decides this exam is observation only — no special-exam tricks — to fade into the background; defense only if someone tries to expel him.
+[rule] (p.142–143) Exam components named: zazen manners/posture, long-distance relay, four-criterion speech, ethics written essay; cleaning/cooking/tardiness scoring still unclear.
+[says:ayanokouji-kiyotaka] (p.147) “He might lose”
+[trait] (p.145–146) Lies to Manabu about Nagumo while knowing several concerns; reads the meeting risk as worth the information.
+
+<!-- walk: y1v8 ch4 → p.147 -->

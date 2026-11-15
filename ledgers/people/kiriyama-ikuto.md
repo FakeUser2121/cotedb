@@ -50,3 +50,18 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 [limit] (p.96–103) No line of his own attributed on these pages — presence through Nagumo’s party and the game order.
 
 <!-- walk: y1v8 ch3 → p.109 -->
+
+### y1v8 p.116–119 — Ch.4: the vice president’s coaching
+[scene] (p.116) Approaches the first-year group in free time to correct attitude before lessons affect the large group’s score.
+[says:kiriyama-ikuto] (p.116) “I think you should adjust your attitude a bit,”
+[says:kiriyama-ikuto] (p.117) “You don’t get to decide that, Kouenji.”
+[says:kiriyama-ikuto] (p.117) “You’re too ignorant and infantile to even be called a high school student,”
+[rel:kouenji-rokusuke] (p.116–117) Lectures Kōenji on group unease; half the second-years encircle when Kōenji answers back.
+[rel:ishizaki-daichi] (p.116–118) Names Ishizaki first, then lumps “a number of you” as problems — Kōenji is the straw that breaks it.
+[rel:horikita-manabu] (p.116) Text notes he used to be Class A, demoted after losing to Nagumo; Horikita’s brother put them both in touch with Ayanokōji.
+[rel:nagumo-miyabi] (p.116–117) Deep down wishes Nagumo’s downfall while still playing dutiful vice president for the large group’s scores.
+[trait] (p.117) Frames evaluation as not only the final written test — instructors can take classroom behaviour into account.
+
+[note] (p.147) No further presence in chapter 4 after half 1.
+
+<!-- walk: y1v8 ch4 → p.147 -->

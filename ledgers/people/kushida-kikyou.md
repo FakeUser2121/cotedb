@@ -1274,3 +1274,17 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [note] (p.76) Chapter ends with her acceptance of the girls’ relay role; no further pages this chapter.
 
 <!-- walk: y1v8 ch2 → p.76 -->
+
+### y1v8 p.125 — Ch.4: named as the other trustworthy option
+[scene] (p.125) Not on the page; named in Ayanokōji’s inner tally after Kamuro’s Ichinose distrust.
+[note] (p.125) Passing mention: “there were probably more than a few people who’d name Kushida, if asked the same question.”
+[rel:ichinose-honami] (p.125) Paired with Ichinose as the two first-year names that would win a cross-class trust poll in Ayanokōji’s read.
+[rel:ayanokouji-kiyotaka] (p.125) His private ranking still puts Ichinose first for the most trustworthy person in our grade level.
+
+### y1v8 p.144 — Ch.4: named as a past exam opponent
+[scene] (p.144) Not on the page; named when Ayanokōji lists his own special-exam interventions.
+[note] (p.144) Passing mention: “And I shut Kushida down during the Paper Shuffle.”
+[rel:ayanokouji-kiyotaka] (p.144) One of four past interventions he contrasts with this exam’s sit-and-observe rule.
+[status] (p.144) Framed as a completed Paper Shuffle move, not a live camp thread.
+
+<!-- walk: y1v8 ch4 → p.147 -->

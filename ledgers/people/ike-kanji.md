@@ -821,3 +821,18 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:nagumo-miyabi] (p.55) Wants the obvious Nagumo power group; Hirata deliberately avoids it.
 
 <!-- walk: y1v8 ch2 → p.76 -->
+
+### y1v8 p.128 — Ch.4: bathhouse corner
+[scene] (p.128) Night large bathhouse — in the corner group with Yamauchi and Class B students.
+[rel:yamauchi-haruki] (p.128) Same corner when Ayanokōji and Kanzaki enter.
+[rel:shibata-sou] (p.128) Corner holds Shibata and other Class B names.
+[limit] (p.128) Presence only — no line of his own in half 1.
+
+### y1v8 p.132 — Ch.4: gathered around the draw
+[scene] (p.132) Among Ike, Shibata and the others ready to object to Yamauchi’s draw call.
+[note] (p.132) Passing mention: “Ike, Shibata, and the others gathered around, ready to object, but Yamauchi’s judgment seemed sound.”
+[rel:yamauchi-haruki] (p.132) Would have objected to the Sudou–Katsuragi draw; accepts it when the eye test agrees.
+[rel:sudou-ken] (p.132) Part of the circle that cannot determine who is bigger either.
+[limit] (p.132) Presence only — no line of his own in half 2.
+
+<!-- walk: y1v8 ch4 → p.147 -->

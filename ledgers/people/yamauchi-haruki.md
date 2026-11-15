@@ -654,3 +654,21 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [limit] (p.94) Blind to his own role in the incident — Ayanokōji notes it “hadn’t even occurred to him.”
 
 <!-- walk: y1v8 ch3 → p.109 -->
+
+### y1v8 p.128 — Ch.4: bathhouse corner
+[scene] (p.128) Night large bathhouse — gathered in one corner with Ike, Shibata and other Class B students.
+[rel:ike-kanji] (p.128) Same corner group when Ayanokōji and Kanzaki enter.
+[rel:shibata-sou] (p.128) Corner also holds Class B names including Shibata.
+[limit] (p.128) Presence only on this page — no line of his own in half 1.
+
+### y1v8 p.129–137 — Ch.4: judge, bait, and folded spirit
+[scene] (p.129) Signals Ayanokōji over; later judges Sudou vs Katsuragi and baits Kōenji out of the tub.
+[says:yamauchi-haruki] (p.132) “It’s a draw!”
+[says:yamauchi-haruki] (p.134) “This means Albert’s…the final boss!”
+[says:yamauchi-haruki] (p.135) “So you say. But it’s not true, is it?” — baiting Kōenji.
+[rel:sudou-ken] (p.132–134) Crouches as judge, calls the Katsuragi–Sudou draw, then folds with the rest at Albert.
+[rel:kouenji-rokusuke] (p.134–136) Challenges Kōenji to leave the tub after Albert’s win; Kōenji answers with perfect-being talk.
+[rel:yamada-albert] (p.133–134) Names Albert the final boss after Ishizaki summons him.
+[trait] (p.132) Determined judge — the draw call holds even when Ike and Shibata want to object.
+
+<!-- walk: y1v8 ch4 → p.147 -->

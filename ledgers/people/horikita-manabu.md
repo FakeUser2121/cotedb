@@ -449,3 +449,26 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [rel:ishikura] (p.102) Ishikura’s rebuke is aimed at Nagumo’s Horikita campaign, not at anything on the page.
 
 <!-- walk: y1v8 ch3 → p.109 -->
+
+### y1v8 p.116, 118–119 — Ch.4: named as the genius in the way
+[scene] (p.116) Named in Kiriyama’s backstory line; p.118–119 named as Nagumo’s blocker for Ishikura.
+[note] (p.116) Passing mention: Kiriyama’s demotion history — “Horikita’s brother had put us both in touch.”
+[note] (p.118) Passing mention: Nagumo to Ishikura — “there’s a genius like Horikita Manabu in your way.”
+[rel:nagumo-miyabi] (p.118–119) The three-year campaign target; Nagumo claims many ways to crush him whether or not he is representative.
+[rel:ishikura] (p.118) Ishikura accepts the Class B gap without taking Nagumo’s Manabu-removal frame.
+[rel:kiriyama-ikuto] (p.116) The brother-connection that put Kiriyama and Ayanokōji in touch.
+
+### y1v8 p.145–147 — Ch.4: the corridor meeting
+[scene] (p.145) Morse light and a “25” note lead to a pitch-black corridor meeting with Ayanokōji about Nagumo and the exam.
+[says:horikita-manabu] (p.145) “Do you know why I called you here?”
+[says:horikita-manabu] (p.146) “Nagumo shows no mercy to those who defy him. He’s employed underhanded methods like Ryuuen more than once. He’s also directly responsible for the second-years’ unusually high expulsion rate. However, he’s never once broken a promise.”
+[says:horikita-manabu] (p.147) “This has been a waste of time, apparently,”
+[says:horikita-manabu] (p.147) “The student council can influence the special exams. The council is supposed to represent the students’ perspectives and can therefore make significant revisions to penalties or meddle with the rules. However, the council cannot make these decisions on a whim.”
+[rel:nagumo-miyabi] (p.145–147) Anxious about Nagumo’s public challenge and unexplained lesson laxity; certain Nagumo never breaks a promise after two years on the council together.
+[rel:ayanokouji-kiyotaka] (p.145–147) Risks the conspicuous contact for Nagumo intel and the bus-message answer; leaves calling it a waste of time.
+[rel:ishikura] (p.145) Ayanokōji infers Ishikura or Tsunoda helped place the bed note — Manabu does not confirm.
+[rel:tsunoda] (p.145) Same inference as Ishikura for who knew Ayanokōji’s bed.
+[rule] (p.147) Student council can revise penalties or meddle with exam rules — but not on a whim.
+[rel:horikita-suzune] — not on these pages as speaker.
+
+<!-- walk: y1v8 ch4 → p.147 -->

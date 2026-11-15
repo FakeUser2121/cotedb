@@ -1014,3 +1014,23 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:nagumo-miyabi] (p.72) The watcher whose knowledge of Kei keeps Ayanokōji away from her at the hour.
 
 <!-- walk: y1v8 ch2 → p.76 -->
+
+### y1v8 p.120–127 — Ch.4: dinner intelligence
+[scene] (p.120) Same dinner seat as always; Ayanokōji sits near her after her friends leave — girls’ group map and Ryuuen fear.
+[says:karuizawa-kei] (p.120) “So? It’s the third day, and you finally feel like asking for my help?”
+[says:karuizawa-kei] (p.123) “What’s going on with that Ryuuen guy?”
+[says:karuizawa-kei] (p.124) “Ugh, God. I shouldn’t have given you permission to call me by my first name.”
+[says:karuizawa-kei] (p.124) “What group is Shibata-kun from Class B in?”
+[says:karuizawa-kei] (p.124) “He’s in the group of mostly Class B students led by Kanzaki.”
+[says:karuizawa-kei] (p.125) “They wouldn’t accept anyone from Class B. They rejected the idea right off the bat. They said they couldn’t trust Ichinose or something. Well, Sakayanagi didn’t say that. Kamuro did.”
+[says:karuizawa-kei] (p.126) “How is your memory this good? Don’t tell me you’re one of those nerdy four-eyed try-hards who spends all his time studying or something.”
+[rel:ayanokouji-kiyotaka] (p.120–127) Holds the meeting she engineered by slowly eating; answers name quizzes; takes monitor orders obediently.
+[rel:ryuuen-kakeru] (p.123–124) Fear under a tough façade — curiosity about why he quit as leader stems from knowing her weakness.
+[rel:sakayanagi-arisu] (p.125–126) Reports the three-class nine-A minimum group and Kamuro’s named distrust of Ichinose; Sakayanagi likely devised the defensive plan.
+[rel:ichinose-honami] (p.125) Surprised anyone would distrust Ichinose — even she has only heard good things.
+[rel:kanzaki-ryuuji] (p.124) Names Kanzaki’s mostly-Class-B group when quizzed.
+[trait] (p.120–126) Cleverly cleared her friends without shaking them; strong point is obediently following Ayanokōji’s monitor orders.
+
+[note] (p.147) No further presence in chapter 4 after half 1.
+
+<!-- walk: y1v8 ch4 → p.147 -->

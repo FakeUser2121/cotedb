@@ -112,3 +112,21 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 [rel:ayanokouji-kiyotaka] (p.85) Part of his leadership map — Class B not stepping up except these two.
 
 <!-- walk: y1v8 ch3 → p.109 -->
+
+### y1v8 p.124, 128 — Ch.4: map name and bathhouse presence
+[scene] (p.124) Named in Karuizawa’s memorized group map; present in the night bathhouse corner.
+[note] (p.124) Named in Karuizawa’s answers: “What group is Shibata-kun from Class B in?” → Kanzaki’s mostly-Class-B group.
+[rel:karuizawa-kei] (p.124) One of the names she had memorized for Ayanokōji’s girls’-group brief.
+[rel:kanzaki-ryuuji] (p.124, 128) Grouped under Kanzaki; in the same bathhouse corner as Yamauchi and Ike.
+
+### y1v8 p.129–134 — Ch.4: the childish contest host
+[scene] (p.129) Waves Ayanokōji over to the towel circle; drives the size-king talk through Sudou, Katsuragi and Albert.
+[says:shibata-sou] (p.129) “We’ve been talking about who has the biggest thing in our grade.”
+[says:shibata-sou] (p.130) “Kaneda from Class D’s the current king.”
+[says:shibata-sou] (p.131) “You’re just above average. You can’t win against Class A’s Katsuragi-san!”
+[rel:yamauchi-haruki] (p.129–134) Co-host of the corner; both fold when Albert’s true form is unveiled.
+[rel:sudou-ken] (p.130–131) Names Sudou’s reign and then Katsuragi as the Class A answer.
+[rel:yamada-albert] (p.134) Present for the final-boss unveiling that crushes the circle.
+[trait] (p.129) Knows the talk is childish and says so — “it’s surprisingly fun.”
+
+<!-- walk: y1v8 ch4 → p.147 -->

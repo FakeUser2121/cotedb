@@ -1338,3 +1338,22 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:ishizaki-daichi] (p.78, 85, 90) The reference point for every read of Ishizaki’s new hierarchy and temper.
 
 <!-- walk: y1v8 ch3 → p.109 -->
+
+### y1v8 p.123–124, 128 — Ch.4: domesticated and quiet
+[scene] (p.123) Named in Karuizawa’s dinner fear; p.128 named again as the three-day silence Kanzaki confirms.
+[note] (p.123) Named in Karuizawa’s question: “What’s going on with that Ryuuen guy?” — girls talking about why he quit as leader.
+[rel:karuizawa-kei] (p.123–124) Ayanokōji calls him “somewhat domesticated” and promises he won’t act carelessly against her.
+[rel:matsuo] — Miyake is the inside report; no Ryuuen line on these pages.
+[rel:kanzaki-ryuuji] (p.128) Kanzaki’s no-rumor answer after three days of Miyake inside is taken as probably true.
+[note] (p.115) Via Ryuuen’s circle: Shiina has taken the girls’ Class D leadership role.
+
+### y1v8 p.137–139 — Ch.4: the whirlpool trap
+[scene] (p.137) Was warming up near Kōenji’s tub; plants Ayanokōji as the hidden threat and runs the chant from the water.
+[says:ryuuen-kakeru] (p.137) “No. Not even I can win against that thing you’re packin’. However, there might be at least one person here who could give you a good fight.”
+[says:ryuuen-kakeru] (p.138) “Can’t say. But if I’m not mistaken, there is still one person here covering himself up with a towel, hiding his true power.”
+[says:ryuuen-kakeru] (p.139) “You guys, do the chant. The chant.”
+[rel:ayanokouji-kiyotaka] (p.137–139) Intentional malicious trap — knows Ayanokōji’s member is unknown and wants him to lose one way or another.
+[rel:kouenji-rokusuke] (p.137) Plants the hidden-power line that piques Kōenji’s interest.
+[trait] (p.138–139) Smug smile carrying “I’m gonna make you taste defeat”; counters the bolt-from-the-bathhouse escape by spawning the chant.
+
+<!-- walk: y1v8 ch4 → p.147 -->

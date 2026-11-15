@@ -457,3 +457,30 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:ayanokouji-kiyotaka] (p.87–88) Ignores Ayanokōji’s pace plea; returns to his own world — “talking to him was a wasted effort.”
 
 <!-- walk: y1v8 ch3 → p.109 -->
+
+### y1v8 p.111–117 — Ch.4: bathroom alibi and the value speech
+[scene] (p.111) Vanishes for half an hour at dawn cook duty; later refuses Kiriyama’s group-unease lecture in the classroom.
+[says:kouenji-rokusuke] (p.117) “A group that’s made uneasy by my actions is a group that has no value.”
+[says:kouenji-rokusuke] (p.117) “I’m worth far more than the rest of you combined. An average person cannot correctly judge the exceptional.”
+[says:kouenji-rokusuke] (p.117) “Simple is best. This is me we’re talking about, no?”
+[rel:ishizaki-daichi] (p.111–112) Bathroom stomachache story returns only at breakfast; relation with Ishizaki wrecked beyond repair.
+[rel:kiriyama-ikuto] (p.116–117) Target of Kiriyama’s attitude talk; refuses group judgment — “Then who, may I ask, does?”
+[rel:ishikura] (p.118) Sole first-year who does not nod when Ishikura asks for confirmation.
+[trait] (p.111, 117) Half-hour unexplained absence then an unflinching exceptionalism line under second-year encirclement.
+
+### y1v8 p.134–140 — Ch.4: the perfect being in the tub
+[scene] (p.134) Observes from inside the hot tub; accepts Yamauchi’s bait, unveils as the tank, and claims victory over Ayanokōji by experience.
+[says:kouenji-rokusuke] (p.134) “Ha ha ha. You are all amusing yourselves like children, it seems.”
+[says:kouenji-rokusuke] (p.135) “I am a perfect being. As a man, I possess the ultimate body.”
+[says:kouenji-rokusuke] (p.135) “There is no need for a competition, precisely because I know that there is no one superior to me.”
+[says:kouenji-rokusuke] (p.136) “I’m not so foolish as to direct my blade toward an unworthy opponent.”
+[says:kouenji-rokusuke] (p.137) “And thus, I have proven that I am a perfect being.”
+[says:kouenji-rokusuke] (p.138) “Ha ha ha! No need to feel embarrassed, Ayanokouji Boy.”
+[says:kouenji-rokusuke] (p.140) “You are all living witnesses to history”
+[rel:yamada-albert] (p.136–140) Expression changes when Albert dwarfs Katsuragi; unveils against the “representing the rest of the world” frame; still claims victory by prey-count.
+[rel:ayanokouji-kiyotaka] (p.138–140) Addresses him as Ayanokouji Boy; the near-T-rex line ends with “a margin of a few millimeters might as well be nonexistent.”
+[rel:sudou-ken] (p.135, 140) Sudou’s life leaves his eyes at the perfect-being claim; later “Are you even human?”
+[rel:ryuuen-kakeru] (p.137) Ryuuen’s plant targets him as much as Ayanokōji — interest piqued by the hidden-power line.
+[feat] (p.136–137) First dramatic expression change is when Albert stands beside Katsuragi; then the towel drop silences the room.
+
+<!-- walk: y1v8 ch4 → p.147 -->

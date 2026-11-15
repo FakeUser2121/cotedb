@@ -560,3 +560,19 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [rel:totsuka-yahiko] (p.102) Explains why Yahiko stays relatively calm beside third-years in Old Maid.
 
 <!-- walk: y1v8 ch3 → p.109 -->
+
+### y1v8 p.131–137 — Ch.4: the bald trump card
+[scene] (p.131) On a stool reaching for shampoo when Yahiko’s Class A pride pitch starts; draws Sudou, then stands beside Albert for Kouenji.
+[says:katsuragi-kouhei] (p.131) “Knock it off, Yahiko,”
+[says:katsuragi-kouhei] (p.132) “For crying out loud. I can’t even wash my head in peace,”
+[says:katsuragi-kouhei] (p.132) “Are we done?”
+[says:katsuragi-kouhei] (p.136) “I’ve had enough of this,”
+[rel:totsuka-yahiko] (p.131–135) Dragged in twice by Yahiko’s idolatry; exasperated both times.
+[rel:sudou-ken] (p.131–132) Even match called by Yamauchi; Sudou praises him as Class A’s trump card.
+[rel:yamada-albert] (p.136) Stands beside Albert for the Kouenji comparison; his package looks small next to Albert — Kouenji’s expression changes.
+[rel:kouenji-rokusuke] (p.135–136) Withdraws to the tub after the comparison; “Please just end this.”
+[rel:hashimoto-masayoshi] (p.131) Hashimoto’s confidence that Katsuragi can measure up is what gets him to stand.
+[feat] (p.132) Large frame draws an admiring sigh when he slowly stands for the showdown.
+[trait] (p.131–136) Completely uninterested in the nonsense; only yields when the pitch becomes unbearable.
+
+<!-- walk: y1v8 ch4 → p.147 -->
