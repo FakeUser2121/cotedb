@@ -210,3 +210,11 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [status] (p.146) Manabu’s group is mostly Class A including first-years — strong chance to win the test; that is why Nagumo’s inaction reads as anxiety fuel.
 
 <!-- walk: y1v8 ch4 → p.147 -->
+
+### y1v8 p.150 — Ch.5: named in the hanging-around rumor
+[scene] (p.150) Not on the page; named when a Class A girl raises the student-council-president rumor.
+[note] (p.150) Rumor named: “People say they see you hanging around with Nagumo-senpai a lot, just the two of you…”
+[rel:ichinose-honami] (p.150) Ichinose’s answer: council work only, not on his radar, no one she likes now.
+[status] (p.150) Confirmed she worked a lot with him after joining the student council — the grain of truth under the dating rumor.
+
+<!-- walk: y1v8 ch5 → p.152 -->

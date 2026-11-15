@@ -17,3 +17,13 @@ char_id: wang-mei-yu · status: minor
 [note] (p.147) No further presence in chapter 4 after half 1.
 
 <!-- walk: y1v8 ch4 → p.147 -->
+
+### y1v8 p.148–149 — Ch.5: the quiet Class C girl
+[scene] (p.148) Only Class C/D girl in Ichinose’s eleven; p.149 not actively participating.
+[says:wang-mei-yu] (p.149) “Y-yes.”
+[says:wang-mei-yu] (p.149) “U-um, well, I wouldn’t…”
+[rel:ichinose-honami] (p.149) Ichinose waits rather than force-help so the big-ego A/D girls do not lose trust in her.
+[rel:shiina-hiyori] (p.149) Shiina’s gentle open is the first real approach she gets.
+[limit] (p.149) “Couldn’t participate even if she wanted to” — active non-participation named by the POV.
+
+<!-- walk: y1v8 ch5 → p.152 -->

@@ -924,3 +924,26 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:horikita-suzune] (p.129) Her high opinion of Horikita is honesty over ability.
 
 <!-- walk: y1v8 ch4 → p.147 -->
+
+### y1v8 p.148–152 — Ch.5: the girls’ night and the lie rule
+[scene] (p.148) POV chapter — rewinds to night one of the exam as she looks at her eleven-girl group on day three.
+[says:ichinose-honami] (p.148) “Now that we’ve formed our groups, let’s do our best to get along, everyone!”
+[says:ichinose-honami] (p.148) “Looking forward to working with you, Shiina-san. I’ve wanted to get to know you for a while.”
+[says:ichinose-honami] (p.150) “Well… I’m embarrassed to say it, but no. I don’t have any romantic experience.”
+[says:ichinose-honami] (p.150) “Setting aside whether I like him or not, I’m really not even on the student council president’s radar. He doesn’t look at me that way.”
+[says:ichinose-honami] (p.150) “Either way, there isn’t anyone I like now…”
+[says:ichinose-honami] (p.150) “No, you got it all wrong. Well, I suppose there was this senpai I admired, but before I realized that I had a crush on him, he graduated…”
+[says:ichinose-honami] (p.151) “You may be right.”
+[says:ichinose-honami] (p.151) “For example, you might need to make a gamble or two during the special exams, right? I might try to mislead someone in a situation like that.”
+[says:ichinose-honami] (p.151) “I don’t think anyone really wants to tell lies. The best way to put it might be… I try to tell the truth as much as possible.”
+[says:ichinose-honami] (p.152) “Yeah. I think lies told to avoid hurting people are definitely gentle, as lies go.”
+[says:ichinose-honami] (p.152) “I think a lie told to avoid hurting someone is just delaying the pain ’til later…”
+[rel:shiina-hiyori] (p.148–149) Glad to meet her; watches Shiina take representative and soothe Wang — reliable, and why Ichinose did not put herself forward.
+[rel:wang-mei-yu] (p.149) Notes Wang’s non-participation; waits so big-egos do not distrust her for force-leading.
+[rel:nagumo-miyabi] (p.150) Deflects the hanging-around-Nagumo-senpai rumor — council work only, not on his radar.
+[rel:ryuuen-kakeru] (p.148–149) Class D girls behind Ryuuen can never be befriended “no matter what we did”; unsure if he truly stepped down.
+[trait] (p.151–152) The room’s verdict is that she is incapable of lying; her own ordeal is that a soft lie only delays pain — “Those painful days. That cruel time.”
+[goal] (p.149) Main thing to avoid: short group score, solidarity invoked, someone dragged down — no favorites even with B as first loyalty.
+[rel:motodoi-chikako] (p.151) Teased about dodging earlier; the lively girls’ night runs on this exchange.
+
+<!-- walk: y1v8 ch5 → p.152 -->

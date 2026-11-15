@@ -2274,3 +2274,19 @@ approval required). verify y1v8: 181 [says] ALL PASS + 129 non-says ALL PASS;
 make check OK (R18 0, R19 82/82); gate exit 0; hash
 `291c22d788b9db7ba36fc49470f0098e` twice. New tags: none. Next: ch5
 (pp.148–152).
+
+### y1v8 ch5 — walked
+The First Half of the Girls’ Battle: Ichinose Honami pp.148–152 walked (5pp,
+short, single stamp). POV flashback to night one: eleven-girl oddball roster
+(Manabe/Nishino as D problem children; Ryuuen’s shadow blocks Class D);
+solidarity/expulsion avoidance as the main risk; Shiina volunteers as
+representative and soothes Wang; girls’ night turns to romance (Nagumo rumor,
+graduated-senpai crush, confession count, “incapable of lying”); Ichinose’s
+rule that a soft lie only delays pain. New ledgers: nishi-haruka,
+motodoi-chikako, rokkaku-momoe. Attribution gap: Class A questioner on
+p.150 unnamed. Rule 12 sample: relationships clean; who-knew-what picks up
+roster `[note]`/`[limit]` lines as noise against “thinking or knowing” (same
+class as ch4 closers); expulsions/points/results 0 — no pattern change.
+verify y1v8: 201 [says] ALL PASS + 143 non-says ALL PASS; make check OK
+(R18 0, R19 82/82); gate exit 0; hash `fa8622c988de69a0d7746449928f62c6`
+twice. New tags: none. Next: ch6 (pp.153–185).

@@ -1357,3 +1357,12 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [trait] (p.138–139) Smug smile carrying “I’m gonna make you taste defeat”; counters the bolt-from-the-bathhouse escape by spawning the chant.
 
 <!-- walk: y1v8 ch4 → p.147 -->
+
+### y1v8 p.148–149 — Ch.5: the shadow over Class D
+[scene] (p.148) Not on the page; named as why Class D girls cannot be befriended and whether he stepped down.
+[note] (p.148) Named in Ichinose’s read: “With Ryuuen-kun behind them, we could never get to a place where we could befriend them.”
+[note] (p.149) Named again: unclear whether he really stepped down.
+[rel:ichinose-honami] (p.148–149) The barrier to Class D relations inside her own group; she still wants the eleven to get along.
+[rel:wang-mei-yu] (p.148) Wang is the one C/D girl in the group — Ryuuen’s side of the line.
+
+<!-- walk: y1v8 ch5 → p.152 -->

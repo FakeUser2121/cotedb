@@ -19,3 +19,16 @@ char_id: nishino-takeko · class: Class 1-C · status: minor
 [rel:ryuuen-kakeru] (p.65) Her phone is returned unread after he confirms her innocence by not reading it — the first twist of the theatre.
 [rel:ibuki-mio] (p.67, 69) Cited as the innocent-looking raiser when Ibuki argues the search proved nothing.
 <!-- walk: y1v6 ch4 → p.75 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.148 — Ch.5: named as in-class problem child
+[scene] (p.148) Listed among Ichinose’s eleven and flagged with Manabe as a problem child even within Class D.
+[note] (p.148) Roster line: “Manabe-san and Nishino-san seemed to be considered problem children even within their own class.”
+[rel:manabe-shiho] (p.148) Paired with Manabe as the two D-side hard cases in an oddball group.
+[rel:ichinose-honami] (p.148) Part of why the group reads as oddballs to the POV.
+[limit] (p.148) Named only in the roster/problem-child line — no dialogue on these pages.
+
+<!-- walk: y1v8 ch5 → p.152 -->

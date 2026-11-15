@@ -1611,3 +1611,9 @@ Albert, Kōenji, Ryuuen’s chant trap) to Ayanokōji’s 1 a.m. “25” note a
 corridor meeting with Horikita Manabu on Nagumo and student-council exam
 power. New entity wang-mei-yu. Determinism hash across consecutive builds:
 `291c22d788b9db7ba36fc49470f0098e`.
+
+Year 1 Volume 8 chapter 5 runs from Ichinose’s eleven-girl group roster and
+Shiina’s volunteer representative turn through the girls’ night romance talk
+to Ichinose’s soft-lie rule (“delaying the pain ’til later”). New entities
+nishi-haruka, motodoi-chikako, rokkaku-momoe. Determinism hash across
+consecutive builds: `fa8622c988de69a0d7746449928f62c6`.

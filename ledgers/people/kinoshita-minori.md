@@ -58,3 +58,15 @@ char_id: kinoshita-minori · class: Class 1-C (enrolled April 2015) · status: m
 [note] (p.153) Ryuuen’s million-point deal: hand over the points and he will have Kinoshita withdraw her complaint.
 [note] (p.154) Kinoshita laid low on Ryuuen’s order so the trap would look natural; video evidence shows Horikita looking back.
 [note] (p.156) Ryuuen-kun and Kinoshita-san both leave the nurse’s office area.
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.148 — Ch.5: named in the group roster
+[scene] (p.148) Listed among Ichinose’s eleven-girl group when the roster is named.
+[note] (p.148) Roster line: “Kinoshita Minori-san” among the group members.
+[rel:ichinose-honami] (p.148) One of the strangers Ichinose means to build relationships with fast.
+[limit] (p.148) Named only in the list — no dialogue on these pages.
+
+<!-- walk: y1v8 ch5 → p.152 -->

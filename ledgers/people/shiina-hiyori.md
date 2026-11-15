@@ -149,3 +149,15 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [note] (p.147) No further presence in chapter 4 after half 1.
 
 <!-- walk: y1v8 ch4 → p.147 -->
+
+### y1v8 p.148–149 — Ch.5: representative and the gentle approach
+[scene] (p.148) In Ichinose’s group roster; p.149 volunteers as representative and approaches Wang first.
+[says:shiina-hiyori] (p.148) “Let’s do our best, Ichinose-san.”
+[says:shiina-hiyori] (p.148) “Is that so? That’s an honor.”
+[says:shiina-hiyori] (p.149) “Hey, you’re Wang Mei-Yu-san, right?”
+[says:shiina-hiyori] (p.149) “This all must make you really nervous, huh. I mean, being surrounded by people you don’t know.”
+[rel:ichinose-honami] (p.148–149) Warm mutual opening; Shiina’s quick volunteer is why Ichinose stays off the rep role.
+[rel:wang-mei-yu] (p.149) First to address Wang gently; frames bewilderment as completely understandable.
+[trait] (p.149) “Really reliable” in Ichinose’s read — takes the role even in a group of oddballs she would not aim to top.
+
+<!-- walk: y1v8 ch5 → p.152 -->

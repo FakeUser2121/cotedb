@@ -307,3 +307,16 @@ char_id: manabe-shiho · class: Class 1-C · status: minor
 [rel:ayanokouji-kiyotaka] (p.151) The double date made him forget; he agrees to apologize another time.
 
 <!-- walk: y1v7.5 ch5 → p.153 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.148 — Ch.5: named as in-class problem child
+[scene] (p.148) Listed among Ichinose’s eleven and flagged with Nishino as a problem child even within Class D.
+[note] (p.148) Roster line: “Manabe-san and Nishino-san seemed to be considered problem children even within their own class.”
+[rel:nishino-takeko] (p.148) Paired with Nishino as the two D-side hard cases in an oddball group.
+[rel:ichinose-honami] (p.148) Part of why the group reads as oddballs to the POV.
+[limit] (p.148) Named only in the roster/problem-child line — no dialogue on these pages.
+
+<!-- walk: y1v8 ch5 → p.152 -->
