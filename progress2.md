@@ -2227,3 +2227,26 @@ page row (which Tokitō is not printed — y1v4 precedent). Attribution: Hirata�
 ALL PASS + 55 non-says ALL PASS; make check OK (R18 0, R19 82/82); gate exit
 0; hash `5997e7c2d301e09b4a0d3c0d87876371` twice. New tags: none. Next: ch3
 (pp.77–109).
+
+### y1v8 ch3 — walked
+Human Nature Put to the Test pp.77–109 walked in two halves (33pp).
+First morning at the mountain camp: six a.m. wake-up; Kōenji’s dawn-training
+bait and refusal to promise cooperation; Ishizaki/Yahiko fight stopped by
+Hashimoto quoting Yukimura’s furniture rule; Onodera-sensei assigns the week’s
+cleaning and later lectures Sotomura’s speech pattern; zazen dojo (Kōenji’s
+lotus, five-minute first sit); outdoor breakfast and the first-years’ cooking
+rotation with Yukimura’s two-hour-early wake-up; PE marathon prep; evening
+zazen collapse and the dojo talk on befriending Ishizaki and Albert; Yamauchi
+bumps Sakayanagi and she plants the Ichinose-treasurer rumor; Nagumo’s card
+visit with Kiriyama, Tsunoda and Ishikura — breakfast-duty Old Maid, Kōenji
+declines the student-council invite, Ayanokōji reads the marked deck and takes
+the right-hand winner without exposing it. New roster row and ledger:
+onodera-sensei (teacher, third-year Class B — distinct from student onodera);
+new ledger: tsunoda. Bare “Tokitou” again left without a page row (y1v8 p.83;
+first name not printed). Rule 12 sample: relationships/expulsions/points clean;
+who-knew-what has 18 marker hits of which ~10 presence/absence `[note]`s read
+as noise against “thinking or knowing”; results has one borderline cleaning-
+schedule `[rule]` — no pattern/list change made (owner approval required).
+verify y1v8: 109 [says] ALL PASS + 87 non-says ALL PASS; make check OK
+(R18 0, R19 82/82); gate exit 0; hash `e38ba9d561822dbab7c36b032e959eb2`
+twice. New tags: none. Next: ch4 (pp.110–147).

@@ -3999,3 +3999,28 @@ walk: y1v1 → DONE
 [trait] (p.76) Closes the chapter with the island refrain: “I’m not suited to this at all.” — the shared hour is for well-liked students with communication skills he does not have.
 
 <!-- walk: y1v8 ch2 → p.76 -->
+
+### y1v8 p.77–93 — Ch.3 §3.1–3.6: first morning, dojo, PE, hallway
+[scene] (p.77) Six a.m. wake-up in group six’s dorm; Ayanokōji watches Kōenji’s training bait, Ishizaki’s temper, and Hashimoto’s peacemaking through cleaning, zazen, breakfast, PE and the Sakayanagi bump.
+[rel:kouenji-rokusuke] (p.77–79, 83, 87–88) Tracks Kōenji’s dawn training and lotus ease; slows to jog beside him and asks him to ease the group’s pace — “Ayanokouji Boy” — gets nothing; concludes threats and pleas are meaningless to him.
+[says:ayanokouji-kiyotaka] (p.88) “It would be nice if the group could score reasonably well. I’d like to avoid expulsion.”
+[rel:yukimura-teruhiko] (p.79, 84–85, 89–91) Notes Yukimura’s clock panic and cooking proposals; draws him into the dojo talk on peacemaking and befriending Ishizaki and Albert.
+[rel:ishizaki-daichi] (p.78, 85, 89–91) Reads Ishizaki’s hierarchy rise post-Ryuuen and his hurtful standoffishness as damage; wants to peel another layer off the school with him and Albert.
+[rel:hashimoto-masayoshi] (p.79, 85) Credits Hashimoto as the most qualified to hold the group together — Class A poise and clear assessment — but unwilling to lead.
+[rel:nagumo-miyabi] (p.90–91) Cites Nagumo’s cross-class pull as the model; Yukimura answers that only Class A graduates laugh last.
+[rel:sakayanagi-arisu] (p.92–95) Asks “Are you okay?” after Yamauchi’s bump; hears the Ichinose-treasurer rumor and deflects — “That has nothing to do with me.”
+[rel:ichinose-honami] (p.94–95) Defends Ichinose against the selfish-points reading while Sakayanagi talks past him.
+[goal] (p.87–88) Realizes he wants the group safe from expulsion enough to move on Kōenji sooner rather than later; rules out pure observation.
+[trait] (p.87–88) Would rather give Yukimura the bare minimum than watch him fail as representative under solidarity risk.
+
+### y1v8 p.96–109 — Ch.3 §3.7–3.9: the marked deck
+[scene] (p.96) Nagumo’s card visit to group six; Ayanokōji is pulled in for the fifth Old Maid and reads the stacked senior play.
+[rel:nagumo-miyabi] (p.100, 104, 107–108) Nagumo never looks at him until he calls him in; the final offer is a marked joker — Ayanokōji picks the right-hand winning card after a two-second feint of thought.
+[says:ayanokouji-kiyotaka] (p.108) “I like the one on the right. I’ll take that one”
+[feat] (p.105–108) Maps the notch on the joker, the win-spread predictions, and the sealed-box first deal to conclude the deck is marked; declines to expose it.
+[rel:kouenji-rokusuke] (p.98, 105) Watches Kōenji’s bait question to Nagumo land and Nagumo’s amiable non-answer.
+[rel:totsuka-yahiko] (p.101–105) Yahiko swaps in for Yukimura and signals the tag-out; they share the last first-year wins.
+[rel:hashimoto-masayoshi] (p.99, 103) Hashimoto volunteers when no one else will and steadies the first-years after losses.
+[trait] (p.107–108) Refuses the talk-back Nagumo wants from him; wins without showing the marked card — “You lost” is left for Ishikura to say.
+
+<!-- walk: y1v8 ch3 → p.109 -->

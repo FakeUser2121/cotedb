@@ -509,3 +509,18 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [trait] (p.70) Willing to take the bed no one else wants — “significant that Keisei was willing to do the things no one else wanted to do.”
 
 <!-- walk: y1v8 ch2 → p.76 -->
+
+### y1v8 p.77–104 — Ch.3: the rep under fire
+[scene] (p.77) Group representative through the morning fight, cooking rules, PE collapse and Nagumo’s cards.
+[says:yukimura-teruhiko] (p.77) “For the time being, it’d be best if we all get up. If even one of us is absent, we’ll get hit with a deduction,”
+[says:yukimura-teruhiko] (p.85) “We accept,”
+[says:yukimura-teruhiko] (p.85) “To make sure we have enough time, let’s wake two hours early”
+[rel:kouenji-rokusuke] (p.77–78) Scolds Kōenji for exhausting stamina before the unknown day; Kōenji throws the cruise-ship training memory back at him.
+[rel:hashimoto-masayoshi] (p.79) His no-furniture-damage line is what Hashimoto uses to stop the fight.
+[rel:ishizaki-daichi] (p.78–79, 85) Tries to manage Ishizaki’s temper and takes the cooking wake-up heat when Ishizaki refuses.
+[rel:ayanokouji-kiyotaka] (p.86, 89–91) Under representative stress with second- and third-years; in the dojo Ayanokōji steers him toward befriending Ishizaki and Albert; he leaves unconvinced.
+[says:yukimura-teruhiko] (p.90) “That’s…because he’s charismatic,” — on Nagumo’s cross-class pull.
+[rel:nagumo-miyabi] (p.96–104) Opens the door to Nagumo’s card visit; loses twice as first-year player and tags out to Yahiko on signal.
+[limit] (p.86–87) “Ugh. Why do I have to be the representative?” — communication with seniors is his job and he is cracking under it.
+
+<!-- walk: y1v8 ch3 → p.109 -->

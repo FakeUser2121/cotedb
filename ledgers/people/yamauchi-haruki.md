@@ -646,3 +646,11 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [note] (p.76) Chapter ends with his rock-paper-scissors win for the Class A seat; no further pages this chapter.
 
 <!-- walk: y1v8 ch2 → p.76 -->
+
+### y1v8 p.92–94 — Ch.3: the hallway bump
+[scene] (p.92) After dinner, reaches out apologetically after knocking Sakayanagi Arisu down.
+[says:yamauchi-haruki] (p.94) “Sakayanagi-chan sure is cute, but she’s also clumsy,”
+[rel:sakayanagi-arisu] (p.92–94) Does not realise he caused the fall; retracts his hand when she rises alone with the cane.
+[limit] (p.94) Blind to his own role in the incident — Ayanokōji notes it “hadn’t even occurred to him.”
+
+<!-- walk: y1v8 ch3 → p.109 -->

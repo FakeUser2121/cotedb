@@ -323,3 +323,15 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:nagumo-miyabi] (p.72) Paired with Nagumo as the pair whose eyes matter.
 
 <!-- walk: y1v8 ch2 → p.76 -->
+
+### y1v8 p.92–95 — Ch.3: the bump and the treasurer rumor
+[scene] (p.92) After dinner in the hallway, upright with her cane after Yamauchi knocks her down; stops Ayanokōji on the way out with the Ichinose story.
+[says:sakayanagi-arisu] (p.94) “Class B is quite unified. Ichinose Honami-san has earned the trust of her comrades by giving it her all.”
+[says:sakayanagi-arisu] (p.95) “She’s likely the treasurer for Class B. Don’t you think?”
+[rel:yamauchi-haruki] (p.92–94) Yamauchi bumps her, apologises with a hand she does not take; she rises alone on the cane and smiles away the crowd — eyes not laughing.
+[rel:ichinose-honami] (p.94–95) Plants the rumor that Ichinose holds a class-scale private-point pile the school might investigate as fraud if spent selfishly.
+[rel:ayanokouji-kiyotaka] (p.94–95) He asks if she is okay and offers to talk to Yamauchi; she continues past his deflections and leaves satisfied.
+[rel:kamuro-masumi] (p.94) Notes Kamuro is usually by her side and must be in another group.
+[trait] (p.94–95) Soft smile, thin lips, cane tap — “Yet.” is the whole threat: the trust might change.
+
+<!-- walk: y1v8 ch3 → p.109 -->

@@ -112,3 +112,13 @@ char_id: totsuka-yahiko · class: Class 1-A (enrolled April 2015) · status: min
 [rel:hashimoto-masayoshi] (p.50, 70) The other Class A name in the ten-person group composition.
 
 <!-- walk: y1v8 ch2 → p.76 -->
+
+### y1v8 p.79–105 — Ch.3: fuel, swap-in, and the card win
+[scene] (p.79) In group six through the morning fight; later swaps in for Yukimura at Old Maid and helps take a first-year round.
+[says:totsuka-yahiko] (p.79) “You’ve got a one-track mind. That’s probably why you got demoted to Class D”
+[rel:ishizaki-daichi] (p.79) Adds fuel to Ishizaki’s fire after Hashimoto’s intervention attempt.
+[rel:yukimura-teruhiko] (p.101–104) Signals Yukimura to tag out after two first-year losses; takes the seat and stays relatively calm — used to deferring to Katsuragi.
+[rel:hashimoto-masayoshi] (p.102–104) Shares the late win with Hashimoto; both return cards when Nagumo ends the round early.
+[rel:nagumo-miyabi] (p.101) Swaps in on Nagumo’s “Probably for the best.”
+
+<!-- walk: y1v8 ch3 → p.109 -->

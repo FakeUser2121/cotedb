@@ -174,3 +174,19 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [status] (p.46–47, 57–58) Top dog of second-year Class A; second-years wear worshipful looks — rival, hated enemy, deeply respected.
 
 <!-- walk: y1v8 ch2 → p.76 -->
+
+### y1v8 p.84–109 — Ch.3: breakfast order, the card visit, the marked deck
+[scene] (p.84) At the outdoor breakfast as first-years accept the rotation; later invades group six’s dorm with Kiriyama, Tsunoda and Ishikura for Old Maid stakes on breakfast duty.
+[says:nagumo-miyabi] (p.84) “Yeah. I’ve got no objections. I’d like to start with the first-years.”
+[says:nagumo-miyabi] (p.96) “I came to check on you since we’re in the same group. Can I come in?”
+[says:nagumo-miyabi] (p.97) “Let’s bet on that. If, for example, you lose constantly, you’ll be on meal duty until the end of camp.”
+[says:nagumo-miyabi] (p.98) “Why don’t you join the student council, Kouenji? I’d love to have someone as interesting as you aboard.”
+[says:nagumo-miyabi] (p.107) “You must be glad, Ayanokouji. Looks like you escaped.”
+[rel:kouenji-rokusuke] (p.98, 105–106) Invites Kōenji to the student council, takes his foreseen-outcome question seriously enough to answer, then shuffles away amiable when Kōenji declines all of it.
+[rel:ayanokouji-kiyotaka] (p.100, 104, 107–108) Never looks at him until he beckons him in for game five; the last two-card offer is a marked-joker trap Ayanokōji walks past by picking the winner.
+[rel:ishikura] (p.96–109) Banter about rooms, soccer vs council, and Horikita; Ishikura brushes the “might get along just fine” line and leaves abruptly.
+[rel:kiriyama-ikuto] (p.100–103) VP finishes second in the early rounds; Nagumo’s third-place finish in round three is played as bad luck.
+[feat] (p.105–108) Predicts outcomes in a chance game, holds a sealed-box deck he first dealt (the notch on the joker), and still loses the last pick without the marked card being exposed.
+[trait] (p.104, 106–109) “I’d like to leave the first-years with three losses. But I’m also okay with four” — the whole night is a controlled test, not a party.
+
+<!-- walk: y1v8 ch3 → p.109 -->

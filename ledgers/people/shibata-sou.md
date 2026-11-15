@@ -104,3 +104,11 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 [note] (p.76) Chapter ends with his Ryuuen probe; no further pages this chapter.
 
 <!-- walk: y1v8 ch2 → p.76 -->
+
+### y1v8 p.85 — Ch.3: named as the proactive Class B exception
+[scene] (p.85) Not in the room dialogue; named in Ayanokōji’s read of Class B’s unusual quiet in group six.
+[note] (p.85) Passing mention: Class B had been “unusually quiet so far… with the exception of certain individuals like Kanzaki and Shibata.”
+[rel:kanzaki-ryuuji] (p.85) Paired with Kanzaki as the two Class B names Ayanokōji still counts as proactive.
+[rel:ayanokouji-kiyotaka] (p.85) Part of his leadership map — Class B not stepping up except these two.
+
+<!-- walk: y1v8 ch3 → p.109 -->

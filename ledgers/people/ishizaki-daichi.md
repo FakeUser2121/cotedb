@@ -270,3 +270,18 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [trait] (p.69–71) Terrified for an instant of Ayanokōji’s eye contact, then sniping at everyone; respectful “Ryuuen-san” contradicts the ousted-leader story.
 
 <!-- walk: y1v8 ch2 → p.76 -->
+
+### y1v8 p.77–91 — Ch.3: temper, zazen, PE, the dojo glare
+[scene] (p.77) Opens the chapter’s first words grumbling at the six a.m. music; fights Kōenji and Yahiko before assembly, then fails zazen and PE-side recovery.
+[says:ishizaki-daichi] (p.78) “Enough with the high-and-mighty act, Kouenji”
+[says:ishizaki-daichi] (p.78) “Well I don’t wanna cooperate, either”
+[says:ishizaki-daichi] (p.84) “For real? I ain’t ever cooked a meal before,”
+[says:ishizaki-daichi] (p.85) “Then you guys do it. I’ll be sleeping.”
+[rel:kouenji-rokusuke] (p.77–79) Kōenji baits him as walking the same delinquent path as “Red-Hair-kun”; Ishizaki roars “All right, bring it on! Yaaaah!” and nearly misses assembly.
+[rel:yukimura-teruhiko] (p.79) Quoted back by Hashimoto as the one who set the no-furniture-damage rule.
+[rel:yamada-albert] (p.89) Collapses after zazen; Albert pulls him up and he flops back — “Gah! More gently!”
+[rel:yukimura-teruhiko] (p.89–90) Yukimura and Ayanokōji watch the duo; Ishizaki glares and drags Albert out of the dojo.
+[trait] (p.85) Never talked like this under Ryuuen; top of this group’s hierarchy now that he helped overthrow Ryuuen — Ayanokōji reads the behaviour as status-driven and self-hurting.
+[rel:ryuuen-kakeru] (p.85, 90) Named as the template Yukimura fears Ishizaki might become again.
+
+<!-- walk: y1v8 ch3 → p.109 -->

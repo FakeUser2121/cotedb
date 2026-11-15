@@ -896,3 +896,12 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [feat] (p.73–75) Names how the girls fought harder on likes and dislikes than the boys; asks whether Ryuuen-kun is tired of being hated.
 
 <!-- walk: y1v8 ch2 → p.76 -->
+
+### y1v8 p.94–95 — Ch.3: named in Sakayanagi’s treasurer rumor
+[scene] (p.94) Not on the page; named in Sakayanagi’s hallway speech to Ayanokōji.
+[note] (p.94) Passing mention: “Class B is quite unified. Ichinose Honami-san has earned the trust of her comrades by giving it her all.”
+[rel:sakayanagi-arisu] (p.94–95) Subject of the rumor — a tremendous private-point balance, possibly Class B treasurer, possibly investigable as fraud.
+[rel:ayanokouji-kiyotaka] (p.95) Ayanokōji’s defence: “I can’t imagine Ichinose using private points for selfish reasons, though.”
+[status] (p.95) “no one doubts her. Yet.” — Sakayanagi’s own qualifier.
+
+<!-- walk: y1v8 ch3 → p.109 -->

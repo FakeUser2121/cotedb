@@ -440,3 +440,12 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [trait] (p.60) Silence on whether pride is on the line — Ayanokōji reads it as not intending to put pride on the line at all.
 
 <!-- walk: y1v8 ch2 → p.76 -->
+
+### y1v8 p.98, 102 — Ch.3: named in Nagumo’s card-room frame
+[scene] (p.98) Not on the page; named twice as the student-council tension behind Nagumo’s third-year party.
+[note] (p.98) Passing mention: “They probably knew of the tension between Nagumo and Horikita Manabu and didn’t want to get involved.”
+[note] (p.102) Passing mention: Ishikura to Nagumo — “I don’t like you picking fights with Horikita.”
+[rel:nagumo-miyabi] (p.98, 102) The open feud with the former president frames why some third-years refuse to engage and why Ishikura calls the card visit a fight.
+[rel:ishikura] (p.102) Ishikura’s rebuke is aimed at Nagumo’s Horikita campaign, not at anything on the page.
+
+<!-- walk: y1v8 ch3 → p.109 -->

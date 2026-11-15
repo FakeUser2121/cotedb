@@ -1218,3 +1218,11 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [feat] (p.55) Skips the two obvious power groups for a third-year set Ayanokōji does not recognise — judged on fit, not star power.
 
 <!-- walk: y1v8 ch2 → p.76 -->
+
+### y1v8 p.78 — Ch.3: named as the missing leader
+[scene] (p.78) Not in group six; named when Ishizaki’s morning temper shows what a real leader would have prevented.
+[note] (p.78) Passing mention: “Someone like Hirata would have gotten the group in order, but without a clear leader…”
+[rel:ishizaki-daichi] (p.78) The comparison that measures Ishizaki’s failed peacemaking against Hirata’s usual class management.
+[rel:ayanokouji-kiyotaka] (p.78) Ayanokōji’s read of the same gap — no one in the room can hold the group.
+
+<!-- walk: y1v8 ch3 → p.109 -->

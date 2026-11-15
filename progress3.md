@@ -1597,3 +1597,10 @@ Class A plan and refusal of the rep role, Yukimura’s reluctant nomination,
 the dorm bed scramble, and the first shared cafeteria hour with Ichinose.
 Determinism hash across consecutive builds:
 `5997e7c2d301e09b4a0d3c0d87876371`.
+
+Year 1 Volume 8 chapter 3 is the first full camp morning and evening: group
+six’s dorm fight and Kōenji’s non-cooperation, the cleaning roster and zazen
+dojo, breakfast rotation politics, PE, Sakayanagi’s bump and Ichinose-treasurer
+rumor, and Nagumo’s marked-deck Old Maid. New entities onodera-sensei and
+tsunoda. Determinism hash across consecutive builds:
+`e38ba9d561822dbab7c36b032e959eb2`.

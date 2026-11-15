@@ -1329,3 +1329,12 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [status] (p.45) Proud of the solitude rather than lonely; one remaining group will have to absorb him.
 
 <!-- walk: y1v8 ch2 → p.76 -->
+
+### y1v8 p.78–90 — Ch.3: named as the path and the template
+[scene] (p.78) Not on the page; named twice as the shadow over Ishizaki’s behaviour and Yukimura’s fear.
+[note] (p.78) Passing mention: Kōenji calls Ishizaki “heading down the same delinquent path as Red-Hair-kun.”
+[note] (p.85) Passing mention: Yukimura notes Ishizaki never talked this way under Ryuuen; Ayanokōji maps Ishizaki and Albert as third-in-command types Ryuuen should have kept there.
+[note] (p.90) Passing mention: Yukimura warns the dojo situation “might end up being like Ryuuen all over again.”
+[rel:ishizaki-daichi] (p.78, 85, 90) The reference point for every read of Ishizaki’s new hierarchy and temper.
+
+<!-- walk: y1v8 ch3 → p.109 -->

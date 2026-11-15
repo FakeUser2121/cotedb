@@ -67,3 +67,14 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [rel:ayanokouji-kiyotaka] (p.42–43) Refuses to ask why he and Sakayanagi spoke; Sakayanagi suspects she already has info on him.
 
 <!-- walk: y1v7.5 ch3 → p.72 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.94 — Ch.3: named as Sakayanagi’s missing shadow
+[scene] (p.94) Not on the page; named when Sakayanagi is alone in the hallway after the bump.
+[note] (p.94) Passing mention: “Kamuro was usually by her side, but wasn’t here. She’d probably been placed in a different group.”
+[rel:sakayanagi-arisu] (p.94) Usual companion absent — first signal the girls’ groups are split from the usual pairings.
+
+<!-- walk: y1v8 ch3 → p.109 -->

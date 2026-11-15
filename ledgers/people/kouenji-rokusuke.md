@@ -439,3 +439,21 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [trait] (p.63–65) Willing to be expelled on paper; only contradiction is that he also does not want expulsion — Nagumo calls the aimless act, then the honest restatement.
 
 <!-- walk: y1v8 ch2 → p.76 -->
+
+### y1v8 p.77–106 — Ch.3: training, lotus, and the card-game bait
+[scene] (p.77) Returns to the dorm sweated from dawn training; later dominates zazen posture and needles Nagumo about the final Old Maid.
+[says:kouenji-rokusuke] (p.77) “Good morning, gentlemen. Were you about to search for me?”
+[says:kouenji-rokusuke] (p.77) “Even after a full session of training, I have unimaginable reserves of stamina to spare.”
+[says:kouenji-rokusuke] (p.78) “What do you mean, ‘promise’? Have you sworn allegiance to this randomly selected group? I don’t see it that way.”
+[says:kouenji-rokusuke] (p.78) “It’s been amusing to watch, but now that I’ve dealt with you directly, I’ve frankly had my fill.”
+[says:kouenji-rokusuke] (p.79) “I happen to be a pacifist”
+[says:kouenji-rokusuke] (p.88) “wouldn’t it be the absolute height of stupidity to hold myself back in order to keep pace with common riffraff?”
+[says:kouenji-rokusuke] (p.98) “I haven’t the slightest interest in this exchange.”
+[says:kouenji-rokusuke] (p.105) “Student Council President Nagumo.” — asks how he foresees the final game ending.
+[rel:yukimura-teruhiko] (p.77–78) Refuses Yukimura’s cooperation demand and throws the cruise-ship shared-room training memory in his face.
+[rel:ishizaki-daichi] (p.78–79) Calls Ishizaki a delinquent on Red-Hair-kun’s path and baits him to the edge of missing assembly.
+[rel:nagumo-miyabi] (p.98, 105–106) Declines the student-council invite; plants the foreseen-outcome question that makes Nagumo state the seniors will win — Ayanokōji reads the smile as satisfied.
+[feat] (p.83) Sits lotus with no correction while most students cannot lift one leg — “looking as though he’d already entered a state of zen.”
+[rel:ayanokouji-kiyotaka] (p.87–88) Ignores Ayanokōji’s pace plea; returns to his own world — “talking to him was a wasted effort.”
+
+<!-- walk: y1v8 ch3 → p.109 -->

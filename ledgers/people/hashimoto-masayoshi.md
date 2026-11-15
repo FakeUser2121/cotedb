@@ -41,3 +41,18 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [trait] (p.64) Exasperated acceptance when Ishizaki refuses the rep role too — nobody thinks the group takes first place.
 
 <!-- walk: y1v8 ch2 → p.76 -->
+
+### y1v8 p.77–109 — Ch.3: the peacemaker and the card player
+[scene] (p.77) Group six’s Class A voice — first morning’s de-escalation, breakfast politics, then Nagumo’s Old Maid.
+[says:hashimoto-masayoshi] (p.79) “Just calm down, you lot. It’s fine to duke it out, but this is the worst possible time and place.”
+[says:hashimoto-masayoshi] (p.79) “how about you bury that anger deep, deep down, and we go to assembly?”
+[says:hashimoto-masayoshi] (p.101) “Let’s keep calm. Losing once or twice isn’t a big deal,”
+[rel:ishizaki-daichi] (p.78–79) Cuts the fight by pounding the bed frame and naming the furniture and bruise costs; Ishizaki has to listen.
+[rel:yukimura-teruhiko] (p.79) Quotes Yukimura’s assembly rule back to the room — “That’s right. It’s just like Yukimura-kun said.”
+[rel:kouenji-rokusuke] (p.79) Tells Kōenji he gets to “live a little longer”; Kōenji claims pacifism.
+[rel:nagumo-miyabi] (p.99, 103) Raises his hand as first-year Old Maid player when no one else will; steadies the side after losses; finishes to win a round for the first-years.
+[rel:totsuka-yahiko] (p.101–104) Shares the late first-year wins with Yahiko; both put cards back when Nagumo ends round four early.
+[feat] (p.79, 85) Named by Ayanokōji as the most qualified to hold the group together — Class A position plus clear communication — but unwilling to lead.
+[trait] (p.79) Punches wood to break silence instead of shouting — “having cut through the silence with a sound other than his voice.”
+
+<!-- walk: y1v8 ch3 → p.109 -->

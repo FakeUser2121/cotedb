@@ -1159,3 +1159,11 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [note] (p.76) Chapter ends with his Class A objections; no further pages this chapter.
 
 <!-- walk: y1v8 ch2 → p.76 -->
+
+### y1v8 p.102–103 — Ch.3: named as the athletic first-year
+[scene] (p.102) Not at the card table; named in Ishikura’s club talk.
+[note] (p.102) Passing mention: “Several first-years had joined, but he was probably referring to Sudou, whose skill had even caught the attention of even a retired third-year.”
+[rel:ishikura] (p.102–103) The basketball captain’s hope for next year rides on Sudou’s already-noticed skill.
+[rel:nagumo-miyabi] (p.102–103) Nagumo’s soccer-vs-council aside is the frame for Ishikura’s club regrets.
+
+<!-- walk: y1v8 ch3 → p.109 -->

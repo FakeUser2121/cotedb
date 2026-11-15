@@ -553,3 +553,10 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.76) Chapter ends with him pre-announced as Class A’s representative; no further pages this chapter.
 
 <!-- walk: y1v8 ch2 → p.76 -->
+
+### y1v8 p.102 — Ch.3: named as Yahiko’s deference model
+[scene] (p.102) Not at the card table; named when Yahiko’s calm under senior pressure is explained.
+[note] (p.102) Passing mention: Yahiko “was used to treating Katsuragi with the deference due an older student.”
+[rel:totsuka-yahiko] (p.102) Explains why Yahiko stays relatively calm beside third-years in Old Maid.
+
+<!-- walk: y1v8 ch3 → p.109 -->

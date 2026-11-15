@@ -37,3 +37,16 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 [feat] (p.155–158) Infiltrated Nagumo’s inner circle while vice president; will not break school rules (expulsion risk) even for Horikita’s endorsement.
 
 <!-- walk: y1v7.5 ch6 → p.170 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.96–103 — Ch.3: vice president at the card table
+[scene] (p.96) Accompanies Nagumo into group six’s room with Tsunoda and Ishikura for the breakfast-duty Old Maid.
+[note] (p.96) Passing mention: “Vice President Kiriyama and two other third-year students accompanied him.”
+[rel:nagumo-miyabi] (p.100–103) Finishes second in the early rounds; next to Nagumo in the late first-year showdown.
+[rel:yukimura-teruhiko] (p.101) Defeats Yukimura in the second round while Yukimura holds the joker.
+[limit] (p.96–103) No line of his own attributed on these pages — presence through Nagumo’s party and the game order.
+
+<!-- walk: y1v8 ch3 → p.109 -->

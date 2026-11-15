@@ -215,3 +215,13 @@ char_id: sotomura-hideo · class: Class 1-D (enrolled April 2015) · status: min
 [rel:onizuka] (p.47–48) Paired with Onizuka as the two who wanted Hirata’s seat and did not get it.
 
 <!-- walk: y1v8 ch2 → p.76 -->
+
+### y1v8 p.81–83 — Ch.3: the speech-pattern lesson
+[scene] (p.81) At the zazen dojo when the instructor singles out his archaic register.
+[says:sotomura-hideo] (p.81) “Wh-whatever do you want with one such as I?”
+[says:sotomura-hideo] (p.81) “Mayhap I would say that is not the case…”
+[says:sotomura-hideo] (p.81) “Huh? No, of course, I myself have never engaged in the luxury of time travel…”
+[rel:onodera-sensei] (p.81–82) The instructor asks whether the speech is birth or dialect, mocks Muromachi/Edo time-travel, and orders him to “Fix that ridiculous speech pattern and grow up.”
+[trait] (p.81–82) Read by Ayanokōji as a deliberate affectation that would fail in any formal real-world setting; the lecture aims the gaze at him on purpose.
+
+<!-- walk: y1v8 ch3 → p.109 -->

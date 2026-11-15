@@ -145,3 +145,11 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 [limit] (p.71) No Japanese line of his own on these pages; speech attributed only through Ishizaki.
 
 <!-- walk: y1v8 ch2 → p.76 -->
+
+### y1v8 p.77–89 — Ch.3: silent partner through the morning
+[scene] (p.77) Present in group six’s dorm and dojo; no line of his own this chapter.
+[rel:ishizaki-daichi] (p.85, 89) Named with Ishizaki as better stamina than average for PE; after zazen he pulls Ishizaki up and is dragged out of the dojo with him.
+[rel:hashimoto-masayoshi] (p.78) Hashimoto comes down from the top bunk and stands beside Ayanokōji while Ishizaki glares — Albert’s bunk is the one under Ishizaki’s later claim.
+[limit] (p.77–89) Still no Japanese line of his own; presence only through group composition and Ishizaki’s side.
+
+<!-- walk: y1v8 ch3 → p.109 -->
