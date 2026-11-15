@@ -1244,3 +1244,14 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [limit] (p.183) Named only.
 
 <!-- walk: y1v8 ch6 → p.185 -->
+
+### y1v8 p.201, 207 — Ch.7: the Virtuous frame and the threat list
+[scene] (p.201) Named in Tachibana’s account of Manabu’s sacrifice; p.207 on Hashimoto’s first-year threat list.
+[note] (p.201) POV: if Tachibana is right, “Horikita’s brother was much like Hirata—which surprised me.”
+[note] (p.207) Hashimoto: “academically gifted students like Hirata and Yukimura” in Class D’s first-year set.
+[rel:horikita-manabu] (p.201) The virtue comparison — behind-the-scenes sacrifice classmate-protector.
+[rel:hashimoto-masayoshi] (p.207) Named in the crush-when-possible threat sizing.
+[rel:ryuuen-kakeru] (p.207) Present in the midnight sizing that names him.
+[limit] (p.201, 207) Named only — no dialogue.
+
+<!-- walk: y1v8 ch7 → p.211 -->

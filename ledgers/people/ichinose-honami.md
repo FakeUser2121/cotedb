@@ -947,3 +947,27 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:motodoi-chikako] (p.151) Teased about dodging earlier; the lively girls’ night runs on this exchange.
 
 <!-- walk: y1v8 ch5 → p.152 -->
+
+### y1v8 p.194–195 — Ch.7: the final-dinner tell
+[scene] (p.194) Final dinner before the exam; tray in hand; something off in her face.
+[says:ichinose-honami] (p.194) “Huh? Oh, Ayanokouji-kun. Nothing, really. I was just thinking about this and that.”
+[says:ichinose-honami] (p.194) “The final test is tomorrow. What do you think about this exam, Ayanokouji-kun?”
+[says:ichinose-honami] (p.194) “I want you to tell me your honest thoughts.”
+[says:ichinose-honami] (p.194) “I see. But we’re in our third semester now. Isn’t it only natural that things would get more difficult?”
+[says:ichinose-honami] (p.194) “Speaking of risks, this whole representative system is scary, huh? Becoming the leader of a group.”
+[says:ichinose-honami] (p.194) “Even if you say there’s the risk of expulsion, I guess it’s kind of like…that’s all up in the air somehow. …To be honest, there’s a great deal that’s still hidden from me. But what I’m really scared of isn’t losing class points or private points.”
+[says:ichinose-honami] (p.195) “Yeah. The risk of losing one of them is unfathomable.”
+[says:ichinose-honami] (p.195) “What would I do?”
+[says:ichinose-honami] (p.195) “Ayanokouji-kun, you really are a smart guy, aren’t you?”
+[says:ichinose-honami] (p.195) “Still. I think you have a very respectable sense of intuition.”
+[says:ichinose-honami] (p.195) “Yeah. Sorry, I’m just not feeling up to it today”
+[says:ichinose-honami] (p.195) “Sorry. I just have some things going on. I feel like I’d like to be alone for today.”
+[rel:ayanokouji-kiyotaka] (p.194–195) The “intend” tell — he asked with intent, not hypothesis; she reads his intuition.
+[rel:sakayanagi-arisu] (p.195) POV: Sakayanagi had made her move; the coming storm hits the girls too.
+[trait] (p.194–195) Smile always on — not today; dispirited with friends; different person from day one of camp.
+[goal] (p.194–195) Scared of losing a classmate more than points; the hidden problem under the smile.
+
+### y1v8 p.211 — Ch.7 closer
+[limit] (p.211) No presence in chapter 7 after half 1.
+
+<!-- walk: y1v8 ch7 → p.211 -->

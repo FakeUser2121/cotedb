@@ -567,3 +567,26 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [goal] (p.184) Still wants Class A on study alone — the belief the exam is breaking.
 
 <!-- walk: y1v8 ch6 → p.185 -->
+
+### y1v8 p.186–193 — Ch.7 half 1: the relay plan and the written-exam deal
+[scene] (p.186) Morning dorm meeting as representative; later dusting covered by Ishizaki.
+[says:yukimura-teruhiko] (p.186) “I want to talk about the long-distance relay tomorrow. Please hear me out.”
+[says:yukimura-teruhiko] (p.186) “There’s only ten of us, so each person will be shouldering quite a bit of responsibility. But depending on how things play out, we might be able to turn this to our advantage.”
+[says:yukimura-teruhiko] (p.187) “It’s certainly true that if fifteen people had to split the burden equally,”
+[says:yukimura-teruhiko] (p.187) “In other words, this is our chance to close the gap.”
+[says:yukimura-teruhiko] (p.187) “This is going to sound pathetic, but…despite saying all that, I probably won’t be of any use”
+[says:yukimura-teruhiko] (p.187) “Any absence on that day due to injury or illness will result in a penalty. Not only will that cause more trouble for the remaining people, it also costs us time. That’s no good. Plus, the changeover point has to be every 1.2 kilometers.”
+[says:yukimura-teruhiko] (p.189) “Kouenji. I would like you to run too.”
+[says:yukimura-teruhiko] (p.189) “I would like to avoid our group placing last.”
+[says:yukimura-teruhiko] (p.189) “Then tell me. What do we have to do to get you to cooperate? If paying you private points will help, I’ll do that”
+[says:yukimura-teruhiko] (p.190) “Are you saying that you won’t run for us?”
+[rel:kouenji-rokusuke] (p.188–191) Bows to him for the relay; takes the bare-minimum promise as huge even without full cooperation.
+[rel:ishizaki-daichi] (p.186–193) Relay math partner; dusting covered by Ishizaki’s give-and-take.
+[rel:hashimoto-masayoshi] (p.189, 193) Points pool offer; “understanding in only a day” exchange.
+[trait] (p.186–189) Plans the rebalanced relay knowing he is the worst runner; willing to pay private points from pocket.
+[limit] (p.187) Names himself the weak link on stamina and speed.
+
+### y1v8 p.211 — Ch.7 closer
+[limit] (p.211) No further presence in chapter 7 after half 1.
+
+<!-- walk: y1v8 ch7 → p.211 -->

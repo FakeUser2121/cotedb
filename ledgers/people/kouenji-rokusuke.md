@@ -511,3 +511,30 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [note] (p.171) No dialogue this half — presence is the refusal itself.
 
 <!-- walk: y1v8 ch6 → p.185 -->
+
+### y1v8 p.188–192 — Ch.7 half 1: the bare-minimum bargain
+[scene] (p.188) Dorm relay; refuses the points pool; promises only the floor; strolls out of dusting.
+[says:kouenji-rokusuke] (p.188) “I will run, of course. However, unlike those fellows, I am not so”
+[says:kouenji-rokusuke] (p.189) “inclined to run long distances”
+[says:kouenji-rokusuke] (p.189) “I suppose so. I understand what you’re saying, Glasses-kun.”
+[says:kouenji-rokusuke] (p.189) “Even if running long-distance is impossible, I will at least run 1.2 kilometers with serious effort.”
+[says:kouenji-rokusuke] (p.189) “Unfortunately for you, I’m not exactly struggling as far as private”
+[says:kouenji-rokusuke] (p.190) “points are concerned. Besides, I could lead a fulfilling life at school even if I didn’t have any points, you see.”
+[says:kouenji-rokusuke] (p.190) “Yes, I suppose so”
+[says:kouenji-rokusuke] (p.190) “It doesn’t seem that I will be an asset to you all”
+[says:kouenji-rokusuke] (p.190) “However, rest assured about one thing. While I don’t intend to do anything more than what is required, I will do the bare minimum. I have my own way of doing things, you see.”
+[says:kouenji-rokusuke] (p.190) “That is correct. Of course, even by doing the bare minimum, I will still most likely produce superior results. I suppose this is good news for you all, isn’t it?”
+[says:kouenji-rokusuke] (p.191) “Heh. I mastered things like zazen in my early childhood. It’s no problem.”
+[says:kouenji-rokusuke] (p.192) “Quite prudent of you, Delinquent-kun.”
+[says:kouenji-rokusuke] (p.192) “Is that so? Ha ha ha!”
+[rel:yukimura-teruhiko] (p.188–190) Called Glasses-kun; takes the floor promise as the win; points pool ignored.
+[rel:ishizaki-daichi] (p.189, 191–192) Glare held back; “Shut your piehole” answered with laughter; disease line from Class D onlookers.
+[rel:sudou-ken] (p.186–188) Named the athletic ceiling even Sudou would not hold a candle to — POV analysis.
+[trait] (p.189–191) Knows Keisei will not invoke solidarity against him (99 percent); refuses cash; zazen since early childhood.
+[feat] (p.190) Bare minimum still “most likely…superior results” — physical ceiling the group banks on.
+[limit] (p.192) Zero cleaning — not a single damn thing since the first damn day.
+
+### y1v8 p.211 — Ch.7 closer
+[limit] (p.211) No further presence in chapter 7 after half 1.
+
+<!-- walk: y1v8 ch7 → p.211 -->

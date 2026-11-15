@@ -158,3 +158,19 @@ char_id: totsuka-yahiko · class: Class 1-A (enrolled April 2015) · status: min
 [trait] (p.170, 183) Will not sit silent; the doubt that forces Hashimoto’s reasons into the open.
 
 <!-- walk: y1v8 ch6 → p.185 -->
+
+### y1v8 p.189, 193 — Ch.7 half 1: points pool and the Katsuragi stare
+[scene] (p.189) Joins the private-points pool for Kōenji; p.193 keeps the Katsuragi focus in the dusting talk.
+[says:totsuka-yahiko] (p.189) “I’ll pay too.”
+[says:totsuka-yahiko] (p.193) “Well, yeah. Since our group’s a handful, we have no choice but to do our best. If we get a poor score, Katsuragi-san will be disappointed in us”
+[says:totsuka-yahiko] (p.193) “Hmm. Maybe.”
+[says:totsuka-yahiko] (p.193) “Didn’t you set up Katsuragi-san to be the representative?”
+[rel:katsuragi-kouhei] (p.193) Constant frame — the disappointment if the group scores poorly; still does not fully forgive Hashimoto’s side.
+[rel:hashimoto-masayoshi] (p.193) Trust has limits; controls himself instead of disrupting the group.
+[rel:yukimura-teruhiko] (p.189) Joins the pool so the representative does not carry it alone.
+[trait] (p.193) Humble since the test started; credit for not making a scene.
+
+### y1v8 p.211 — Ch.7 closer
+[limit] (p.211) No further presence in chapter 7 after half 1.
+
+<!-- walk: y1v8 ch7 → p.211 -->

@@ -1194,3 +1194,15 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [limit] (p.184) Named only.
 
 <!-- walk: y1v8 ch6 → p.185 -->
+
+### y1v8 p.186, 207 — Ch.7: the comparison and the threat list
+[scene] (p.186) Named in the Ishizaki temper comparison; p.207 on Hashimoto’s athletic threat list.
+[note] (p.186) POV: same temper and coarse speech as Ishizaki, but less cunning; more athletic and currently better academically; improving with Horikita’s help.
+[note] (p.207) Hashimoto: “Sudou, who’s easily one of the most athletic students in our grade.” Ryuuen: “I can’t imagine Sudou will do anything terribly special.”
+[rel:ishizaki-daichi] (p.186) The twin-temper comparison with different weapons.
+[rel:horikita-suzune] (p.186) The helper named in the improvement path.
+[rel:hashimoto-masayoshi] (p.207) Threat-list entry with Ryuuen’s dismissal attached.
+[rel:ryuuen-kakeru] (p.207) Dismisses the specialness.
+[limit] (p.186, 207) Named only — no dialogue.
+
+<!-- walk: y1v8 ch7 → p.211 -->

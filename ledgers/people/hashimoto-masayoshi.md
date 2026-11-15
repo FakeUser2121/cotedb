@@ -110,3 +110,55 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [limit] (p.182) Withdraws with a sigh when Ishizaki refuses the helping hand.
 
 <!-- walk: y1v8 ch6 → p.185 -->
+
+### y1v8 p.186–193 — Ch.7 half 1: the second 3.6 km and the Katsuragi past
+[scene] (p.186) Dorm relay; morning dusting talk with Yahiko.
+[says:hashimoto-masayoshi] (p.188) “In that case, it looks like I gotta do the same thing. I’m not too shabby when it comes to running long distances myself”
+[says:hashimoto-masayoshi] (p.189) “Don’t carry that burden alone, Yukimura”
+[says:hashimoto-masayoshi] (p.193) “That sure doesn’t sound like you. You’ve become much more understanding in only a day.”
+[says:hashimoto-masayoshi] (p.193) “No problem. Our group’s ranking impacts my own plans. I’d like for us to score at least one spot above the lowest rank. Isn’t that right, Yahiko?”
+[says:hashimoto-masayoshi] (p.193) “I’ve squared off against Katsuragi many times on Sakayanagi’s orders. You probably resent me for that, but right now we’re allies for real. Please forget about the past.”
+[says:hashimoto-masayoshi] (p.193) “I had nothing to do with that. That was Matoba’s plan.”
+[rel:yukimura-teruhiko] (p.188–189) Matches Ishizaki at 3.6 km; offers points so Keisei does not carry the burden alone.
+[rel:totsuka-yahiko] (p.193) Squared off against Katsuragi on Sakayanagi’s orders; asks Yahiko to forget the past; Matoba’s rep setup named.
+[rel:katsuragi-kouhei] (p.193) The past offences Yahiko still resents — hindered by classmates on Sakayanagi’s orders.
+[rel:sakayanagi-arisu] (p.193) The orders behind the Katsuragi squares.
+[rel:matoba-shinji] (p.193) Named as who set Katsuragi up as representative — “I had nothing to do with that.”
+[trait] (p.188–193) Public ally-for-real frame; keeps ranking self-interest visible; wry smile while smacking Yahiko.
+[rel:hashimoto-masayoshi] (p.172, 186) Continues as the glue who kept the group from collapsing (POV open).
+
+### y1v8 p.203–211 — Ch.7 half 2: midnight with Ryuuen, then Nagumo
+[scene] (p.203) Slips out of the top bunk; corridor meeting with Ryuuen; interrupted by Nagumo and Manabu; shaken when Ayanokōji’s name is used.
+[says:hashimoto-masayoshi] (p.204) “Hey, Ryuuen,”
+[says:hashimoto-masayoshi] (p.204) “I just wanted to chat. I mean, you stand out way too much in the cafeteria, dude. The only time I can talk to you is the middle of the night.”
+[says:hashimoto-masayoshi] (p.204) “Yeah. I called you here because it’s the last day. Right now, everyone else is sound asleep.”
+[says:hashimoto-masayoshi] (p.204) “Look, I’m not good at talking about stuff in a roundabout way. So I want to hear a straight answer. Did you really quit being the class leader?”
+[says:hashimoto-masayoshi] (p.204) “At the very least, I don’t buy that Ishizaki and the others worked you over”
+[says:hashimoto-masayoshi] (p.204) “I see. Well, Albert’s certainly a threat, I guess. But the Ryuuen Kakeru I know isn’t the kind of guy to cower before an opponent. If anything, he’s the sort of guy who’s always thinking up counterattacks, isn’t he?”
+[says:hashimoto-masayoshi] (p.204) “I see. So that’s it.”
+[says:hashimoto-masayoshi] (p.205) “Not sure. I’m still fifty-fifty. Personally, I think I want you to fight back against the situation you’re in.”
+[says:hashimoto-masayoshi] (p.205) “Yep. I want the ‘promise of Class A.’ Just like you.”
+[says:hashimoto-masayoshi] (p.205) “If necessary.”
+[says:hashimoto-masayoshi] (p.205) “Selling out Sakayanagi doesn’t come cheap, Ryuuen. Right now, she’s at the top of our class. I’m on the winning team. Get it?”
+[says:hashimoto-masayoshi] (p.205) “I’m pretty good at making my way in the world. You should know that I can come out on top pretty well. Anyway, I’m glad I could talk with you directly. Doesn’t look like you’ve lost your fire.”
+[says:hashimoto-masayoshi] (p.207) “When you got overtaken by Hirata’s class, I wondered what the hell you were even doing. But they might be a tough bunch after all.”
+[says:hashimoto-masayoshi] (p.207) “Kouenji is a threat, at the very least. To be honest, if he started acting to his class’s advantage, there’s no telling what would happen to Class A. They also have academically gifted students like Hirata and Yukimura, and Sudou, who’s easily one of the most athletic students in our grade.”
+[says:hashimoto-masayoshi] (p.207) “Anyway, there’s no telling what will happen, but here’s something to keep in mind. Even if Hirata’s group does manage to make it all the way to Class A, I’m fine as long as there’s room for me to slip in there too.”
+[says:hashimoto-masayoshi] (p.207) “It’s shitty, but dragging this out is just a hassle.”
+[says:hashimoto-masayoshi] (p.209) “Not sure. We’re in different classes, so I can’t really say.”
+[says:hashimoto-masayoshi] (p.210) “What do I…? Well, I think he’s just a normal student.”
+[says:hashimoto-masayoshi] (p.210) “Maybe because he performed well at the relay during the Sports Festival?”
+[says:hashimoto-masayoshi] (p.210) “No.”
+[rel:ryuuen-kakeru] (p.203–207) Midnight straight-answer test on the leader-quit; fifty-fifty; Class A promise alignment.
+[rel:nagumo-miyabi] (p.207–210) Caught in the corridor; used as the prop for the Ayanokōji-name play; visibly shaken.
+[rel:sakayanagi-arisu] (p.205) “If necessary” dispose line — selling her out for the Class A promise.
+[rel:horikita-manabu] (p.207–211) Third in the corridor triangle; stops when abstain is demanded.
+[rel:ayanokouji-kiyotaka] (p.210) Forced “normal student” answer when his name is emphasized; gaze on the top bunk after return.
+[rel:kouenji-rokusuke] (p.207) Named top threat if he acts for his class.
+[rel:hirata-yousuke] (p.207) Named academically gifted in the threat list.
+[rel:yukimura-teruhiko] (p.207) Same threat list.
+[rel:sudou-ken] (p.207) “easily one of the most athletic students in our grade.”
+[trait] (p.203–205) Trails without flashlight; buys into twenty-million Class A; opportunism stated out loud.
+[goal] (p.205) Slip into Class A even if Hirata’s group climbs — room for him is the condition.
+
+<!-- walk: y1v8 ch7 → p.211 -->

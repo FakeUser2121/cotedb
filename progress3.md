@@ -1623,3 +1623,9 @@ wild-boar detour through the Asahina Nazuna charm bargain on Nagumo to the
 pitch-dark group talk that becomes the first real group night. New entity
 asahina-nazuna. Determinism hash across consecutive builds:
 `1dcb68fe8aded93c733229f0b33f43a7`.
+
+Year 1 Volume 8 chapter 7 runs from the day-seven relay plan and Kōenji’s
+bare-minimum bargain through Ichinose’s dinner tell and Tachibana’s courtyard
+checkmate to Nagumo’s abstain demand and the Ayanokōji-name play in the
+corridor. Determinism hash across consecutive builds:
+`9803e29ef20bda01ea79f32a0d571e09`.

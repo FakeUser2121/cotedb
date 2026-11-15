@@ -350,3 +350,25 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [limit] (p.182) “Even if I get expelled, whatever” — the expulsion shrug under Hashimoto’s warning.
 
 <!-- walk: y1v8 ch6 → p.185 -->
+
+### y1v8 p.186–193 — Ch.7 half 1: 3.6 km and the dustcloth trade
+[scene] (p.186) Dorm relay talk; morning dusting he covers for Keisei.
+[says:ishizaki-daichi] (p.186) “But that’s assumin’ our entire group’s athletic, right?”
+[says:ishizaki-daichi] (p.188) “In that case, I’ll run 3…nah, I’ll do 3.6 kilometers”
+[says:ishizaki-daichi] (p.191) “Whaddya mean, excellent results? You can’t even do something like”
+[says:ishizaki-daichi] (p.192) “Take a break. If you can’t run in the relay, that’ll be worse.”
+[says:ishizaki-daichi] (p.192) “Rest. In exchange, do your best on the written exam. Get at least 120 percent, will ya?”
+[says:ishizaki-daichi] (p.192) “Shut your piehole or I’ll kill ya, Kouenji. You haven’t done a single damn thing since the first damn day!”
+[says:ishizaki-daichi] (p.193) “Don’t worry. We just gotta compensate for him.”
+[says:ishizaki-daichi] (p.193) “Shut it, Hashimoto. What, you got a problem?!”
+[rel:yukimura-teruhiko] (p.186–193) Relay partner at 3.6 km; takes the dustcloth so Keisei can rest for the written exam.
+[rel:kouenji-rokusuke] (p.191–192) Glare and “disease” line; finally understands some of the Kōenji logic from the last days.
+[rel:hashimoto-masayoshi] (p.193) Snaps back on the “understanding” tease; allies-for-real beat still raw.
+[trait] (p.192–193) Give-and-take learned in a day — covers cleaning, still snarls at Kōenji.
+[feat] (p.188) Volunteers 3.6 km — among the few who can handle it.
+[rel:sudou-ken] (p.186) Compared in the POV: same temper and coarse speech, but Ishizaki is cannier and respects opponents.
+
+### y1v8 p.211 — Ch.7 closer
+[limit] (p.211) No further presence in chapter 7 after half 1.
+
+<!-- walk: y1v8 ch7 → p.211 -->

@@ -34,3 +34,13 @@ char_id: matoba-shinji · class: Class 1-A (enrolled April 2015) · status: mino
 [note] (p.147) No further presence in chapter 4 after half 1.
 
 <!-- walk: y1v8 ch4 → p.147 -->
+
+### y1v8 p.193 — Ch.7: named as the rep-setup plan
+[scene] (p.193) Named in Hashimoto’s answer to Yahiko about Katsuragi’s representative role.
+[says:hashimoto-masayoshi] (p.193) “I had nothing to do with that. That was Matoba’s plan.”
+[note] (p.193) Yahiko’s question: “Didn’t you set up Katsuragi-san to be the representative?”
+[rel:hashimoto-masayoshi] (p.193) Cleared of the setup by name — Matoba carries it.
+[rel:katsuragi-kouhei] (p.193) The representative whose setup is still a sore point for Class B.
+[limit] (p.193) Named only — no dialogue.
+
+<!-- walk: y1v8 ch7 → p.211 -->

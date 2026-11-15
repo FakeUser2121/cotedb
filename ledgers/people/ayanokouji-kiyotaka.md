@@ -4125,3 +4125,54 @@ walk: y1v1 → DONE
 [goal] (p.181) Confirm whether Nagumo fights above the board while manufacturing shadow-fear.
 
 <!-- walk: y1v8 ch6 → p.185 -->
+
+### y1v8 p.186–196 — Ch.7 half 1: the relay math and Ichinose’s tell
+[scene] (p.186) Last full day — dorm relay plan, dusting, final dinner with Ichinose, Kei’s paper.
+[says:ayanokouji-kiyotaka] (p.188) “Then…I’ll try to do what I can. I don’t know how fast I can run it, though”
+[says:ayanokouji-kiyotaka] (p.188) “Is that okay, Kiyotaka?”
+[says:ayanokouji-kiyotaka] (p.188) “Just don’t expect too much from me.”
+[says:ayanokouji-kiyotaka] (p.194) “Is something bothering you?”
+[says:ayanokouji-kiyotaka] (p.194) “You’re facing a difficult problem, huh?”
+[says:ayanokouji-kiyotaka] (p.194) “That’s a really roundabout question.”
+[says:ayanokouji-kiyotaka] (p.194) “I guess it seems different from the exams we’ve had until now. A little tougher. There’s a high risk of expulsion.”
+[says:ayanokouji-kiyotaka] (p.194) “I guess.”
+[says:ayanokouji-kiyotaka] (p.194) “Yeah.”
+[says:ayanokouji-kiyotaka] (p.195) “You’re talking about your classmates?”
+[says:ayanokouji-kiyotaka] (p.195) “If a classmate were expelled, what would you intend to do?”
+[says:ayanokouji-kiyotaka] (p.195) “Why do you say that?”
+[says:ayanokouji-kiyotaka] (p.195) “It was a hypothetical question.”
+[says:ayanokouji-kiyotaka] (p.195) “Sorry. You’re giving me way too much credit. My language skills aren’t that advanced.”
+[rel:yukimura-teruhiko] (p.186–189) Takes the relay volunteer; “Just don’t expect too much.”
+[rel:kouenji-rokusuke] (p.188–191) Watches the bare-minimum bargain; private-expulsion math read.
+[rel:ichinose-honami] (p.194–195) Final-dinner probe; the “intend” tell; watches her walk off alone.
+[rel:sakayanagi-arisu] (p.195) Reads her move behind Ichinose’s collapse.
+[rel:karuizawa-kei] (p.196) Takes the paper slip; shreds it across bins.
+[trait] (p.186–188) Ishizaki–Sudou comparison in the open; notes Hashimoto kept the group from collapsing.
+[trait] (p.194–195) Hypothetical framing that Ichinose catches; watches the smile that is not there today.
+[goal] (p.195) Understand what Sakayanagi did to the girls before tomorrow.
+
+### y1v8 p.196–211 — Ch.7 half 2: the note, the courtyard, the other stairs
+[scene] (p.196) Takes Kei’s slip; finds Tachibana crying; trails Hashimoto at midnight; exits the corridor the long way when Nagumo plays his name.
+[says:ayanokouji-kiyotaka] (p.196) “If you’re in some kind of trouble…maybe you should talk to the former student council president?”
+[says:ayanokouji-kiyotaka] (p.199) “If you’re crying even though you’re not in trouble, that might be a problem in and of itself.”
+[says:ayanokouji-kiyotaka] (p.199) “True. We don’t get much private time, huh?”
+[says:ayanokouji-kiyotaka] (p.199) “For the record, I’m on Former President Horikita’s side.”
+[says:ayanokouji-kiyotaka] (p.199) “Just consider the fact that it’s better if we’re not enemies.”
+[says:ayanokouji-kiyotaka] (p.200) “Worry, huh? Is there really anything to worry about when it comes to that guy?”
+[says:ayanokouji-kiyotaka] (p.200) “I know a little bit about how the second-years, particularly Nagumo, are his enemies”
+[says:ayanokouji-kiyotaka] (p.200) “Wait. You mean the class conflict among the third-years is still ongoing?”
+[says:ayanokouji-kiyotaka] (p.201) “So even he’s just a normal student.”
+[says:ayanokouji-kiyotaka] (p.201) “So you’re depressed by the current situation?”
+[says:ayanokouji-kiyotaka] (p.201) “That depends on how tenacious you are, doesn’t it?”
+[says:ayanokouji-kiyotaka] (p.202) “If you say so, I must be mistaken.”
+[says:ayanokouji-kiyotaka] (p.202) “I suppose this means it’s checkmate if I don’t make a move, huh?”
+[rel:tachibana-akane] (p.196–202) Courtyard probing; the “Horikita-kun” slip noted; her back read as checkmate.
+[rel:karuizawa-kei] (p.196) The slip that starts the chain; shredded across bins.
+[rel:hashimoto-masayoshi] (p.203–211) Trails the midnight exit; takes the other stairs so the name play does not land on him.
+[rel:nagumo-miyabi] (p.207–211) Eavesdrops the abstain demand and Ayanokōji-name beat; withdraws before Hashimoto returns.
+[rel:horikita-manabu] (p.207–211) Hears the rebuke from the opposite end of the corridor triangle.
+[trait] (p.196–202) Lies about being on Former President Horikita’s side to gain trust; reads self-sacrifice as an error in judgment.
+[trait] (p.203–211) Follows without a flashlight; picks the far stairs — “I didn’t like where this conversation was headed.”
+[goal] (p.202) Make a move on Tachibana’s trouble before it is truly checkmate.
+
+<!-- walk: y1v8 ch7 → p.211 -->

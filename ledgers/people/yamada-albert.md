@@ -182,3 +182,15 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 [limit] (p.185) No presence in chapter 6 after half 1.
 
 <!-- walk: y1v8 ch6 → p.185 -->
+
+### y1v8 p.186–188 — Ch.7 half 1: named in the relay math
+[scene] (p.186) In the dorm relay talk as the stamina problem on an otherwise fast body.
+[note] (p.187) POV: “Albert was reasonably fast, but the problem was his stamina.”
+[rel:yukimura-teruhiko] (p.187) Part of the four who would each average ~2.7 km if others take the floor.
+[rel:ryuuen-kakeru] (p.204) Named again as “Albert’s trouble” in the midnight Ryuuen talk.
+[limit] (p.186–188) No dialogue in half 1 — presence is the stamina caveat.
+
+### y1v8 p.211 — Ch.7 closer
+[limit] (p.211) No presence in chapter 7 after half 1.
+
+<!-- walk: y1v8 ch7 → p.211 -->

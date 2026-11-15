@@ -2311,3 +2311,20 @@ expel hits; points/results 0 — no pattern change. verify y1v8: 361 [says]
 ALL PASS + 185 non-says ALL PASS; make check OK (R18 0, R19 82/82); gate
 exit 0; hash `1dcb68fe8aded93c733229f0b33f43a7` twice. New tags: none.
 Next: ch7 (pp.186–211).
+
+### y1v8 ch7 — walked
+What Is Lost, What Isn’t pp.186–211 walked in two halves (26pp). Day-seven
+relay plan (ten runners, 1.2 km floor, Ishizaki and Hashimoto at 3.6 km,
+Kōenji’s bare-minimum bargain and refusal of the points pool); dusting
+give-and-take and the Katsuragi/Matoba past; Ichinose’s final-dinner “intend”
+tell and Sakayanagi’s move read; Kei’s paper and Tachibana Akane’s courtyard
+confession (Horikita-kun slip, third-year A collapse, checkmate line);
+Hashimoto’s midnight Ryuuen test (Class A promise, dispose-Sakayanagi,
+first-year threat list); Nagumo’s abstain demand and Ayanokōji-name play with
+Manabu’s rebuke. No new ledgers. Attribution gaps: none. Rule 12 sample:
+relationships clean; who-knew-what mixes named-only `[note]`/`[limit]` with
+real intel; expulsions 1 real hypothetical; points/results 0 — no pattern
+change. verify y1v8: 535 [says] ALL PASS + 214 non-says ALL PASS; make check
+OK (R18 0, R19 82/82); gate exit 0; hash
+`9803e29ef20bda01ea79f32a0d571e09` twice. New tags: none. Next: ch8
+(pp.212–215).

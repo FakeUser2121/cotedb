@@ -353,3 +353,15 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:kanzaki-ryuuji] (p.129) Source of the integrity contrast line.
 
 <!-- walk: y1v8 ch4 → p.147 -->
+
+### y1v8 p.195 — Ch.7: named as the storm-maker
+[scene] (p.195) Not on the page; named in Ayanokōji’s read of Ichinose’s collapse.
+[note] (p.195) POV: “Sakayanagi had made her move. The coming storm wasn’t just going to hit the guys. The girls might just be in for it, too.”
+[rel:ichinose-honami] (p.195) The visible victim of the move — smile gone, alone-time requests.
+[rel:hashimoto-masayoshi] (p.193, 205) Named in Hashimoto’s orders-past and dispose-line (half 1 dusting + half 2 midnight).
+[status] (p.195) Girls’ side of the exam now under her hand — open.
+
+### y1v8 p.211 — Ch.7 closer
+[limit] (p.211) No presence in chapter 7 after half 1.
+
+<!-- walk: y1v8 ch7 → p.211 -->

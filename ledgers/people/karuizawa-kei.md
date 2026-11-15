@@ -1043,3 +1043,16 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [limit] (p.173) No dialogue this chapter.
 
 <!-- walk: y1v8 ch6 → p.185 -->
+
+### y1v8 p.196 — Ch.7: the paper slip
+[scene] (p.196) Leaning against the wall near the cafeteria entrance; slips Ayanokōji a note as she passes.
+[note] (p.196) “She casually slipped me a piece of paper as I passed by, then immediately entered the cafeteria.” He shreds it across trash bins.
+[note] (p.196) POV: held on pretty well all week but “finally at her limit.”
+[rel:ayanokouji-kiyotaka] (p.196) The capped channel still works — one slip, no words, no trail.
+[rel:asahina-nazuna] (p.173, 196) The person she was watching for him — the slip is the handoff of that watch.
+[limit] (p.196) No dialogue; presence is the note.
+
+### y1v8 p.211 — Ch.7 closer
+[limit] (p.211) No presence in chapter 7 after half 1.
+
+<!-- walk: y1v8 ch7 → p.211 -->

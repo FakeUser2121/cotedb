@@ -576,3 +576,15 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [trait] (p.131–136) Completely uninterested in the nonsense; only yields when the pitch becomes unbearable.
 
 <!-- walk: y1v8 ch4 → p.147 -->
+
+### y1v8 p.193 — Ch.7: the disappointment frame
+[scene] (p.193) Named in Yahiko’s dusting talk and Hashimoto’s past.
+[says:totsuka-yahiko] (p.193) “If we get a poor score, Katsuragi-san will be disappointed in us”
+[says:hashimoto-masayoshi] (p.193) “I’ve squared off against Katsuragi many times on Sakayanagi’s orders. You probably resent me for that, but right now we’re allies for real. Please forget about the past.”
+[note] (p.193) The setup question is answered with Matoba’s plan, not Hashimoto’s.
+[rel:totsuka-yahiko] (p.193) Yahiko’s loyalty anchor — the disappointment he still fears.
+[rel:hashimoto-masayoshi] (p.193) The squares on Sakayanagi’s orders that Yahiko has not forgiven.
+[rel:sakayanagi-arisu] (p.193) The orders behind those squares.
+[limit] (p.193) Named only — no dialogue.
+
+<!-- walk: y1v8 ch7 → p.211 -->

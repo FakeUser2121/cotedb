@@ -485,3 +485,19 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [status] (p.181) Placed trust in what Nagumo said (parallel to Ayanokōji’s read of Manabu’s trust).
 
 <!-- walk: y1v8 ch6 → p.185 -->
+
+### y1v8 p.207–211 — Ch.7: the corridor rebuke
+[scene] (p.207) Interrupts with Nagumo on the Hashimoto–Ryuuen meeting; refuses abstain; rebukes the Ayanokōji teasing.
+[says:horikita-manabu] (p.209) “Abstain?”
+[says:horikita-manabu] (p.209) “That’s an even worse joke than Ryuuen’s.”
+[says:horikita-manabu] (p.209) “What are you planning? Depending on what it is, I may not accept.”
+[says:horikita-manabu] (p.210) “Is that why you want me to abstain?”
+[says:horikita-manabu] (p.210) “You’re reaching, Nagumo. When have I spoken highly of Ayanokouji? There is nothing to be gained by spreading lies. Stop teasing the first-years.”
+[rel:nagumo-miyabi] (p.207–211) Abstain demand refused; fair-square contest partner; rebukes the name play.
+[rel:hashimoto-masayoshi] (p.207–211) Present in the triangle; told not to take the tease seriously.
+[rel:ayanokouji-kiyotaka] (p.210) Denies speaking highly of him — “reaching” and “lies.”
+[rel:ryuuen-kakeru] (p.207–208) Stands with the first-years when Nagumo opens the corridor.
+[trait] (p.209–211) Flat refusal pattern — “even worse joke”; demands explanation; will not feed the tease.
+[status] (p.201, 209) Third-year fight frozen by the contest; abstain framed as least-damage by Nagumo, rejected here.
+
+<!-- walk: y1v8 ch7 → p.211 -->

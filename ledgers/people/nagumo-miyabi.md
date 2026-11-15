@@ -237,3 +237,39 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [status] (p.181) Public promise of fair square plus shadow-manufacturing under investigation — feint or real still open.
 
 <!-- walk: y1v8 ch6 → p.185 -->
+
+### y1v8 p.207–211 — Ch.7: the abstain demand and the name play
+[scene] (p.207) Interrupts the Hashimoto–Ryuuen meeting with Manabu; demands Manabu abstain; uses Ayanokōji’s name on Hashimoto.
+[says:nagumo-miyabi] (p.207) “What’s up, first-years? Having a secret meeting at a time like this, huh?”
+[says:nagumo-miyabi] (p.208) “I’ve heard you’re quite the delinquent. Your name’s Ryuuen, right? I’m going to have a little chat with Horikita-senpai, but you should come along.”
+[says:nagumo-miyabi] (p.208) “Wow, you’re confident. Not scared of me, Ryuuen?”
+[says:nagumo-miyabi] (p.208) “Heh.”
+[says:nagumo-miyabi] (p.208) “I don’t dislike people like you.”
+[says:nagumo-miyabi] (p.208) “Hey, how about you join this wager, as a third party? Which group do you think will place higher in today’s special exam, mine, or Horikita-senpai’s? How about ten thousand points a head? No matter which side you bet on, I’ll pay up if you’re right on the money. If you’re wrong, though, you gotta pay up.”
+[says:nagumo-miyabi] (p.208) “Ten thousand is ‘that kind of money’, huh? You’re in Class D, meaning you’re always short on cash, right? Can’t hurt to earn a little more.”
+[says:nagumo-miyabi] (p.208) “Hahaha! You’re a funny guy, Ryuuen. Talk about a ballsy joke.”
+[says:nagumo-miyabi] (p.209) “Hey, you. First-year. You think Ryuuen can pay that much?”
+[says:nagumo-miyabi] (p.209) “If we had our phones, we could check. I wouldn’t mind playing along then. Too bad.”
+[says:nagumo-miyabi] (p.209) “Horikita-senpai. Please abstain from taking the exam tomorrow”
+[says:nagumo-miyabi] (p.209) “That’s right.”
+[says:nagumo-miyabi] (p.209) “Actually, I’m being quite serious.”
+[says:nagumo-miyabi] (p.209) “It’s for your own sake, senpai.”
+[says:nagumo-miyabi] (p.209) “Sorry. Being able to see too far into the future is a curse. Anyway, if you don’t kindly abstain tomorrow, senpai, you’ll regret it. What I’m saying is that I’m trying to help you. I could just put the hurt on you without warning, but that would just be heartless, wouldn’t it?”
+[says:nagumo-miyabi] (p.209) “I understand. The rules of our contest are that we have to fight fair and square, without involving any third parties.”
+[says:nagumo-miyabi] (p.210) “Yes. Because abstaining will allow you to get through this with the least amount of damage, senpai. Are you aware of the strategic groundwork that I’ve laid? No, you aren’t, are you? There isn’t a single student at this school who can read my thoughts.”
+[says:nagumo-miyabi] (p.210) “Ah, that’s right. If I recall, he’s in the same group as that first-year. Ayanokouji Kiyotaka.”
+[says:nagumo-miyabi] (p.210) “What do you think, Hashimoto? About Ayanokouji.”
+[says:nagumo-miyabi] (p.210) “I know, right? But Horikita-senpai here seems to value Ayanokouji over all other first-years.”
+[says:nagumo-miyabi] (p.210) “See, Horikita-senpai prizes Ayanokouji above even Sakayanagi, even Ryuuen, even Ichinose. Since you’re in the same group as him, I thought you might have noticed something.”
+[says:nagumo-miyabi] (p.210) “Why is that, senpai? Please, I think it’s about time you tell me the reason.”
+[says:nagumo-miyabi] (p.211) “Sorry, senpai. I suppose you’re right. My bad, Hashimoto. That was a little joke.”
+[rel:horikita-manabu] (p.207–211) Abstain demand; fair-square contest frame; “strategic groundwork”; name-drops Ayanokōji at Manabu.
+[rel:ryuuen-kakeru] (p.208–209) Wager offer; million counter laughed off; told he is not really fit for the student council.
+[rel:hashimoto-masayoshi] (p.207–211) Pulls him into the corridor triangle; uses him for the Ayanokōji-value test.
+[rel:ayanokouji-kiyotaka] (p.210) Emphasized by name as Manabu’s prized first-year above Sakayanagi, Ryuuen, Ichinose.
+[rel:sakayanagi-arisu] (p.210) Named in the prized-first-year ranking.
+[rel:ichinose-honami] (p.210) Same ranking list.
+[trait] (p.208–211) Playful menace; seeing too far into the future called a curse; serious abstain under the joke; walks out on Ryuuen’s million.
+[goal] (p.209–210) Win tomorrow with groundwork laid — least damage path for Manabu is abstention.
+
+<!-- walk: y1v8 ch7 → p.211 -->

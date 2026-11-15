@@ -110,3 +110,39 @@ aliases used for anchors: tachibana, secretary, student council secretary
 [limit] (p.180) Named only — no dialogue.
 
 <!-- walk: y1v8 ch6 → p.185 -->
+
+### y1v8 p.197–202 — Ch.7: the courtyard checkmate
+[scene] (p.197) Third-year Class A; found crying by the school building after Kei’s note; Ayanokōji approaches on the “former president” line.
+[says:tachibana-akane] (p.199) “Wh-what is it?”
+[says:tachibana-akane] (p.199) “Nothing. Just exactly what I said.”
+[says:tachibana-akane] (p.199) “I’m not in any trouble or anything.”
+[says:tachibana-akane] (p.199) “I’m not crying!”
+[says:tachibana-akane] (p.199) “Sometimes I just want to be alone.”
+[says:tachibana-akane] (p.199) “Doesn’t matter. You’re not going to be any help.”
+[says:tachibana-akane] (p.199) “Okay, can you stop talking to your seniors in such a casual way? I haven’t said anything about it to you until now because Horikita-kun was there, but…”
+[says:tachibana-akane] (p.199) “You… It must be nice being a first-year. So carefree.”
+[says:tachibana-akane] (p.199) “Wow, you sound pretty scared. Are you anxious about the test”
+[says:tachibana-akane] (p.200) “tomorrow?”
+[says:tachibana-akane] (p.200) “I don’t feel anything. The representative’s at stake and all, but things aren’t bad between people in our group or anything. If anything, things are going great.”
+[says:tachibana-akane] (p.200) “In that case, why are you crying?”
+[says:tachibana-akane] (p.200) “I-I told you, I wasn’t crying!”
+[says:tachibana-akane] (p.200) “Horikita-kun…is the one that I’m worried about”
+[says:tachibana-akane] (p.200) “Horikita-kun… Horikita-kun has been fighting alone for a long time. He’s been fighting the second- and third-years all this time. You can’t possibly understand how difficult it is to have to face everyone all by yourself.”
+[says:tachibana-akane] (p.200) “Do you take Horikita-kun for some kind of dictator? Even when he was student council president, he never did just as he pleased, like Nagumo-kun. You can never afford to let your guard down in any test.”
+[says:tachibana-akane] (p.201) “If Horikita-kun fails, then Class A will definitely fall.”
+[says:tachibana-akane] (p.201) “Horikita-kun is…! Nothing. Forget it.”
+[says:tachibana-akane] (p.201) “It’s because the rest of us in Class A are always holding the class back. We lost a ton of class points that we shouldn’t have, and even private points, too… He’s always sacrificing himself to protect his comrades.”
+[says:tachibana-akane] (p.201) “Even I’ve heard about what’s going on with the boys. Including the fact that Nagumo-kun challenged Horikita-kun to a contest, and because of that, he can’t make a move. We can’t help him at all.”
+[says:tachibana-akane] (p.201) “I know that.”
+[says:tachibana-akane] (p.202) “I’m not. Not really.”
+[says:tachibana-akane] (p.202) “You’re persistent, aren’t you? I’m not in any kind of trouble.”
+[says:tachibana-akane] (p.202) “You are. Please don’t say anything weird to Horikita-kun.”
+[says:tachibana-akane] (p.202) “Okay.”
+[rel:horikita-manabu] (p.199–202) “Horikita-kun” slip; alone against second- and third-years; Class A falls if he fails; sacrifice story.
+[rel:nagumo-miyabi] (p.200–201) The contest that freezes Manabu; “like Nagumo-kun” as the contrast dictator frame.
+[rel:ayanokouji-kiyotaka] (p.196–202) Crying scene; the “intend”-style probing; she warns him off telling Manabu; his “checkmate” read of her back.
+[rel:karuizawa-kei] (p.196) The note that pointed him at her.
+[trait] (p.199–202) Pride and denial — “I’m not crying”; slower spill of frustration; error in judgment that self-sacrifice can solve it.
+[status] (p.202) Private trouble unnamed; “checkmate if I don’t make a move” left open on Ayanokōji’s side.
+
+<!-- walk: y1v8 ch7 → p.211 -->

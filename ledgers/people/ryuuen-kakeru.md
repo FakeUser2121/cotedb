@@ -1379,3 +1379,34 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [limit] (p.185) No presence in chapter 6 after half 1.
 
 <!-- walk: y1v8 ch6 → p.185 -->
+
+### y1v8 p.204–209 — Ch.7 half 2: the million-point counter
+[scene] (p.204) Midnight meeting with Hashimoto; shoulder-checks Nagumo; counters the wager.
+[says:ryuuen-kakeru] (p.204) “The hell do you want with me?”
+[says:ryuuen-kakeru] (p.204) “On the last day?”
+[says:ryuuen-kakeru] (p.204) “I see. Guess you got a point.”
+[says:ryuuen-kakeru] (p.204) “Hee hee hee. Doesn’t seem like you believe it, huh?”
+[says:ryuuen-kakeru] (p.204) “Ishizaki aside, Albert’s trouble. If we really went head-to-head with one another, it’d be brutal.”
+[says:ryuuen-kakeru] (p.204) “I just got tired of trying to unite people who keep rebelling against me. As long as I continue to bleed you Class A folks dry, I’m in the clear. I ain’t got any obligation to those other guys.”
+[says:ryuuen-kakeru] (p.204) “Did I convince you?”
+[says:ryuuen-kakeru] (p.205) “So you can score some more pocket change?”
+[says:ryuuen-kakeru] (p.205) “We’ll see how much of an opportunist you really are.”
+[says:ryuuen-kakeru] (p.207) “Huh? To think a guy like you would be sizing them up. Any particular guy caught your interest?”
+[says:ryuuen-kakeru] (p.207) “I don’t know about those other guys, but I can’t imagine Sudou will do anything terribly special.”
+[says:ryuuen-kakeru] (p.207) “I doubt you have that much power. Try not to get burned”
+[says:ryuuen-kakeru] (p.208) “Outta the way.”
+[says:ryuuen-kakeru] (p.208) “Ain’t interested”
+[says:ryuuen-kakeru] (p.208) “Doesn’t matter if you’re student council president or whatever. I’ll crush anyone who gets in my way.”
+[says:ryuuen-kakeru] (p.208) “That’s dumb. Not interested in that kind of money.”
+[says:ryuuen-kakeru] (p.208) “In that case, make it a million. I’ll play along if you’re willing to pay up”
+[says:ryuuen-kakeru] (p.209) “If you don’t got the guts to pay up that much, don’t bother asking me to make a bet.”
+[rel:hashimoto-masayoshi] (p.204–207) Midnight test of the leader-quit; Class A promise talk; sizing the first-years.
+[rel:nagumo-miyabi] (p.208–209) Shoulder-check; million counter laughed off as a joke; “doesn’t matter if you’re student council president.”
+[rel:ishizaki-daichi] (p.204) “Ishizaki aside” — does not buy the worked-over story.
+[rel:yamada-albert] (p.204) Albert’s trouble named as the real head-to-head cost.
+[rel:sudou-ken] (p.207) Dismissed as nothing terribly special.
+[rel:kouenji-rokusuke] (p.207) Named with the first-year threat list Hashimoto draws.
+[trait] (p.204–209) Open contempt for the quit story; cash opportunism; refuses the small bet, prices the big one.
+[status] (p.204) Still frames himself as bleeding Class A dry with no obligation to the others.
+
+<!-- walk: y1v8 ch7 → p.211 -->
