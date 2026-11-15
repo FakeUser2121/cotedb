@@ -1639,3 +1639,7 @@ Year 1 Volume 8 chapter 9 runs from the final-day briefing and random zazen
 through the relay and Nagumo’s girls’ trap to the double lifeline and the
 corridor debrief. Determinism hash across consecutive builds:
 `d5387bc5902dc9a66455bd51db84f928`.
+
+Year 1 Volume 8 chapter 10 is the author’s postscript; the volume closes
+with a Postscript → DONE stamp. Determinism hash across consecutive builds:
+`fc1ad251594d13137b2f5ed5c4a27fe6`.

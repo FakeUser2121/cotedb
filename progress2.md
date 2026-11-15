@@ -2366,3 +2366,15 @@ no pattern change); results 6 impact rows. No pattern change. verify y1v8:
 626 [says] ALL PASS + 252 non-says ALL PASS; make check OK (R18 0, R19
 82/82); gate exit 0; hash `d5387bc5902dc9a66455bd51db84f928` twice. New tags:
 none. Next: ch10 Postscript pp.242–244.
+
+### y1v8 ch10 — walked (volume complete)
+Postscript: Newsletter pp.242–244 walked (3pp, single stamp). Author-only:
+Kinugasa on delayed releases, finger recovery, three years since volume 1,
+volume 8’s upperclassmen, massage-chair gag, Seven Seas newsletter plug. No
+people ledgers — no in-world dialogue. Closing stamp `<!-- walk: y1v8
+Postscript → DONE -->` added. R19 “Thank-you” hyphen fixed to “Closing
+thanks” (82/82). Rule 12: no roster scene rows on these pages — nothing to
+sample for topics. verify y1v8: 626 [says] ALL PASS + 252 non-says ALL PASS;
+make check OK (R18 0, R19 82/82); gate exit 0; hash
+`fc1ad251594d13137b2f5ed5c4a27fe6` twice. New tags: none. Volume y1v8 fully
+recorded (ch1–ch10). Next: volume-end coverage locator for y1v8.
