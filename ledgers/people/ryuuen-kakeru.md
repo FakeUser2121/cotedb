@@ -1366,3 +1366,16 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:wang-mei-yu] (p.148) Wang is the one C/D girl in the group — Ryuuen’s side of the line.
 
 <!-- walk: y1v8 ch5 → p.152 -->
+
+### y1v8 p.165–166 — Ch.6 half 1: named in the Miyacchi report
+[scene] (p.165) Not on the page; reported at the Ayanokōji Group dinner by Miyake.
+[note] (p.165) Reported: taking classes seriously and participating; normal “almost scary”; not socializing with anyone.
+[note] (p.166) “I think this is just the way he’s always been.”
+[rel:miyake-akito] (p.165–166) The source of the dinner intel; Miyake keeps his guard up in the same group.
+[rel:ishizaki-daichi] (p.166) Ishizaki’s post-defeat carry named as reaction to Ryuuen’s fall.
+[status] (p.166) Defeat still the frame — “Not so long ago, he was just a lackey.”
+
+### y1v8 p.185 — Ch.6 closer
+[limit] (p.185) No presence in chapter 6 after half 1.
+
+<!-- walk: y1v8 ch6 → p.185 -->

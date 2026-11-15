@@ -863,3 +863,19 @@ aliases used for anchors: sakura, airi, sakura-san
 [note] (p.76) Chapter ends with the group-chat mention; no further pages this chapter.
 
 <!-- walk: y1v8 ch2 → p.76 -->
+
+### y1v8 p.165–167 — Ch.6 half 1: the bashful welcome
+[scene] (p.165) Ayanokōji Group dinner; same group as Hasebe.
+[says:sakura-airi] (p.165) “I-It’s certainly been a while, hasn’t it, Kiyotaka-kun?”
+[says:sakura-airi] (p.166) “I’m really glad that Haruka-chan is there for me.”
+[says:sakura-airi] (p.166) “So Kouenji-kun is with you too… Are you all right, Kiyotaka-kun?”
+[says:sakura-airi] (p.166) “S-somehow, I feel like we’re kind of out of place.”
+[rel:hasebe-haruka] (p.166) The one close friend in her group — reassurance named.
+[rel:ayanokouji-kiyotaka] (p.165–167) Bashful reunion; worried for him with Kōenji in the boys’ group.
+[rel:kouenji-rokusuke] (p.166) Named as his group-mate in her worry line.
+[trait] (p.165–166) Soft open; “out of place” at the mixed table.
+
+### y1v8 p.185 — Ch.6 closer
+[limit] (p.185) No presence in chapter 6 after half 1.
+
+<!-- walk: y1v8 ch6 → p.185 -->

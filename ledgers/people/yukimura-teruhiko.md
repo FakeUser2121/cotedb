@@ -536,3 +536,34 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.147) No further presence in chapter 4 after half 1.
 
 <!-- walk: y1v8 ch4 → p.147 -->
+
+### y1v8 p.154–169 — Ch.6 half 1: strategy frays, then the hip
+[scene] (p.154) Walking the course as group representative; day six cleaning collapses under the sprain.
+[says:yukimura-teruhiko] (p.154) “Then we have to run, Ishizaki. The more we run, the sooner it’ll be over”
+[says:yukimura-teruhiko] (p.154) “Don’t tire yourself out by talking for no reason. We’re all here because you agreed with my strategy, right?”
+[says:yukimura-teruhiko] (p.154) “Shut up… Just be quiet and walk.”
+[says:yukimura-teruhiko] (p.155) “I’m saying this for the sake of the group, as the representative. Please don’t talk.”
+[says:yukimura-teruhiko] (p.169) “I-I know. I’ll do the work. Let go.”
+[rel:ishizaki-daichi] (p.154–155, 168–169) Target of the slope and cleaning assaults; folds under pressure as designed.
+[rel:ayanokouji-kiyotaka] (p.155–156, 162–164, 169) Apologetic leave at the turnaround; takes the cleaning veto to heart; “Sorry, Kiyotaka.”
+[rel:hashimoto-masayoshi] (p.162–164) Carried with Hashimoto’s support line; p.172 half 2 named worst-case expulsion body if the group fails.
+[trait] (p.154) Walk-then-run nine-k strategy with downhill factor — composure frays under heat.
+[limit] (p.162–163) Light sprain; “I’m so pathetic” — the academic who cannot run the course clean.
+[goal] (p.166–167) Still “have to work hard as the representative” with the metaphorical bomb in the leg.
+
+### y1v8 p.170–185 — Ch.6 half 2: the shoulder-everything speech and the sister classroom
+[scene] (p.170) Cleaning under the veto; night circle as the second voice after Hashimoto.
+[says:yukimura-teruhiko] (p.170) “Sorry, Kiyotaka. Guess I have no choice but to hang in there.”
+[says:yukimura-teruhiko] (p.184) “Ever since I was little, all I ever did was study. Maybe I was influenced by my older sister. She was a lot older than me, and she wanted to be a teacher, which meant I always had to play the role of the student. My sister was pretty ridiculous. She was always giving me these stupidly difficult problems to solve, even when I was in elementary school.”
+[says:yukimura-teruhiko] (p.184) “Yeah. And on top of that, I’m terrible at sports. No matter what I did, I generally came in near last place, just barely squeaking by. I decided to just focus on developing my strengths rather than conquering my weaknesses. I used to think there was no point in training your body if you weren’t planning to become a professional athlete. Enrolling in this school made me begin to doubt that for the first time…but I still believed that I could study hard and be considered an appropriate pick for Class A”
+[says:yukimura-teruhiko] (p.184) “But then all these things I couldn’t accept just kept happening. I don’t agree with the solidarity system, and living on the deserted island made even less sense to me… In my own class, Sudou was like the polar opposite of me. He was great at sports, but he couldn’t study. At first, I thought I’d been saddled with some ridiculous baggage. But on the uninhabited island and during the Sports Festival, Sudou’s skills were far more useful than mine. I could see him shine, right beside me.”
+[says:yukimura-teruhiko] (p.184) “There’s still a part of me that can’t accept it, to be honest. But I’m slowly beginning to realize that if all you can do is study, or all you can do is sports, then that’s no good. That’s the thing about this exam. If you can’t do both of those things, then you can’t score high. Am I wrong? Ishizaki?”
+[says:yukimura-teruhiko] (p.185) “I feel completely humiliated. Just like back on the uninhabited island and during the Sports Festival. I’m dragging the group down. I hurt myself, which has meant being a burden on others, and more importantly, I dragged down the group’s morale. I have absolutely nothing to show Ishizaki, who, despite his complaints, has been contributing to the group just as much if not more than the average.”
+[says:yukimura-teruhiko] (p.185) “I’m sorry, Ishizaki… I’m sorry that your representative, who should be setting an example for the rest of you, is in this condition.”
+[rel:ishizaki-daichi] (p.170, 184–185) Veto target; ends apologizing to him by name in the dark.
+[rel:sudou-ken] (p.184) Named as the polar opposite whose island and festival skills shone beside him — regret and conversion evidence.
+[rel:ayanokouji-kiyotaka] (p.172) Takes the advice not to shoulder everything alone into the night talk.
+[trait] (p.184–185) Sister-classroom backstory; solidarity-system dissenter turning; bitter tears held back.
+[goal] (p.184) Still wants Class A on study alone — the belief the exam is breaking.
+
+<!-- walk: y1v8 ch6 → p.185 -->

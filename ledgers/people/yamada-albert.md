@@ -170,3 +170,15 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 [limit] (p.137) Only English line in the chapter — Japanese still absent.
 
 <!-- walk: y1v8 ch4 → p.147 -->
+
+### y1v8 p.153–161 — Ch.6 half 1: the applaud and the early clear
+[scene] (p.153) On the slope; applauds the Ayanokōji taunt; later signs the turnaround board and runs.
+[says:yamada-albert] (p.161) “I’m going”
+[rel:ishizaki-daichi] (p.153) Applauds Ishizaki’s wild-boar joke; follows Ishizaki’s early departure from the turnaround.
+[rel:ayanokouji-kiyotaka] (p.153) Part of the compliment pile-on that makes him uncomfortable.
+[limit] (p.161) Named for the early clear — no dialogue beyond the departure line.
+
+### y1v8 p.185 — Ch.6 closer
+[limit] (p.185) No presence in chapter 6 after half 1.
+
+<!-- walk: y1v8 ch6 → p.185 -->

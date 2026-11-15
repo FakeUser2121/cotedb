@@ -1617,3 +1617,9 @@ Shiina’s volunteer representative turn through the girls’ night romance talk
 to Ichinose’s soft-lie rule (“delaying the pain ’til later”). New entities
 nishi-haruka, motodoi-chikako, rokkaku-momoe. Determinism hash across
 consecutive builds: `fa8622c988de69a0d7746449928f62c6`.
+
+Year 1 Volume 8 chapter 6 runs from the 18 km relay course walk and Kōenji’s
+wild-boar detour through the Asahina Nazuna charm bargain on Nagumo to the
+pitch-dark group talk that becomes the first real group night. New entity
+asahina-nazuna. Determinism hash across consecutive builds:
+`1dcb68fe8aded93c733229f0b33f43a7`.

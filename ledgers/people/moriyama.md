@@ -22,3 +22,15 @@ char_id: moriyama · status: minor
 [note] (p.147) No further presence in chapter 4 after half 1.
 
 <!-- walk: y1v8 ch4 → p.147 -->
+
+### y1v8 p.154 — Ch.6 half 1: the bitter run advice
+[scene] (p.154) Class B on the slope march; answers Ishizaki’s lunch-time panic.
+[says:moriyama] (p.154) “Then we have to run, Ishizaki. The more we run, the sooner it’ll be over”
+[rel:ishizaki-daichi] (p.154) “rather bitterly” — the Class B retort to the complaint.
+[rel:yukimura-teruhiko] (p.155) With bare Tokitou, backs the representative (Tokitou unassigned).
+[limit] (p.154) One line on the course — no further half 1 presence.
+
+### y1v8 p.185 — Ch.6 closer
+[limit] (p.185) No presence in chapter 6 after half 1.
+
+<!-- walk: y1v8 ch6 → p.185 -->

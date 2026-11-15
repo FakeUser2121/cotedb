@@ -291,3 +291,20 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [note] (p.76) Chapter ends with the group-chat mention; no further pages this chapter.
 
 <!-- walk: y1v8 ch2 → p.76 -->
+
+### y1v8 p.165–167 — Ch.6 half 1: the Kiyopon seat
+[scene] (p.165) Ayanokōji Group dinner; calls the free seat and reports the week apart.
+[says:hasebe-haruka] (p.165) “Hey, Kiyopon, the seat next to you free?”
+[says:hasebe-haruka] (p.165) “Sheesh, Kiyopon. We’ve had a hard time trying to find you these past few days. You’ve been in weirdly difficult places to spot.”
+[says:hasebe-haruka] (p.165) “More importantly, you doing okay, Miyacchi? You’re with Ryuuen, right?”
+[says:hasebe-haruka] (p.165) “Like, even zazen and the relay?”
+[says:hasebe-haruka] (p.166) “It seems like our group has the most problems, Kiyotaka.”
+[rel:sakura-airi] (p.166) Same group; “I’m really glad that Haruka-chan is there for me.”
+[rel:miyake-akito] (p.165–166) Directs the Ryuuen question at him; hears the normal-but-scary report.
+[rel:ayanokouji-kiyotaka] (p.165–167) Reunites the five; boys’ worst-group report; ends on the girls-are-fine reassurance.
+[trait] (p.165) The loud open that finds the table after a week of missing each other.
+
+### y1v8 p.185 — Ch.6 closer
+[limit] (p.185) No presence in chapter 6 after half 1.
+
+<!-- walk: y1v8 ch6 → p.185 -->

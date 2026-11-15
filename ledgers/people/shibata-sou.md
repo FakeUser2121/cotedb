@@ -130,3 +130,12 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 [trait] (p.129) Knows the talk is childish and says so — “it’s surprisingly fun.”
 
 <!-- walk: y1v8 ch4 → p.147 -->
+
+### y1v8 p.183 — Ch.6 half 2: the field Hashimoto watches
+[scene] (p.183) Named in Hashimoto’s regret speech — practicing on the field.
+[note] (p.183) “Whenever I see Hirata and Shibata practicing out on the field, I think it could have been me out there.”
+[rel:hirata-yousuke] (p.183) Paired with him as the field pair.
+[rel:hashimoto-masayoshi] (p.183) The contrast case for Hashimoto’s quit-soccer alienation.
+[limit] (p.183) Named only.
+
+<!-- walk: y1v8 ch6 → p.185 -->

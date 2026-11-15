@@ -65,3 +65,12 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 [note] (p.147) No further presence in chapter 4 after half 1.
 
 <!-- walk: y1v8 ch4 → p.147 -->
+
+### y1v8 p.173 — Ch.6 half 2: the blocked contact
+[scene] (p.173) Named only in Ayanokōji’s contact plan.
+[note] (p.173) Left a clue for him to find; “Kiriyama was in Nagumo’s group. Even if he resented Nagumo, he probably couldn’t help me this time.”
+[rel:nagumo-miyabi] (p.173) In Nagumo’s group — the reason the contact fails.
+[rel:ayanokouji-kiyotaka] (p.173) Attempted second-year channel before the Asahina pivot.
+[limit] (p.173) No presence beyond the plan line.
+
+<!-- walk: y1v8 ch6 → p.185 -->

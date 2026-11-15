@@ -472,3 +472,16 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [rel:horikita-suzune] — not on these pages as speaker.
 
 <!-- walk: y1v8 ch4 → p.147 -->
+
+### y1v8 p.173, 180–181 — Ch.6 half 2: the brother under the Nagumo lens
+[scene] (p.173) Named as the reason for the second-year probe; p.180–181 inside Asahina’s account.
+[note] (p.173) “I needed to confirm Nagumo’s true intentions toward Horikita’s brother.”
+[note] (p.176) Asahina: Nagumo made Horikita-senpai a goal; jealous of the missed relay challenge.
+[note] (p.180) Tachibana is his secretary in the girls’ large group; “their representative is a different person.”
+[note] (p.181) Asahina: traps in the girls’ group “won’t have any effect on Horikita-senpai and Miyabi’s fight.”
+[rel:nagumo-miyabi] (p.176, 181) The rivalry Asahina describes — fair square on Nagumo’s side of the promise.
+[rel:tachibana-akane] (p.180) Secretary named in the group topology.
+[rel:ayanokouji-kiyotaka] (p.173, 180) The outsider reading both men through Asahina and his own contact limits.
+[status] (p.181) Placed trust in what Nagumo said (parallel to Ayanokōji’s read of Manabu’s trust).
+
+<!-- walk: y1v8 ch6 → p.185 -->

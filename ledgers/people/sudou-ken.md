@@ -1185,3 +1185,12 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [trait] (p.130–134) Proudly naked king who still shows no fear shouting “Bring it on!” at Albert.
 
 <!-- walk: y1v8 ch4 → p.147 -->
+
+### y1v8 p.184 — Ch.6 half 2: named as Yukimura’s opposite
+[scene] (p.184) Named in Yukimura’s night confession — the sports-only classmate whose skills shone.
+[note] (p.184) “In my own class, Sudou was like the polar opposite of me… on the uninhabited island and during the Sports Festival, Sudou’s skills were far more useful than mine. I could see him shine, right beside me.”
+[rel:yukimura-teruhiko] (p.184) The conversion evidence — baggage that became useful beside him.
+[status] (p.184) Still only part-accepted by Yukimura: “There’s still a part of me that can’t accept it.”
+[limit] (p.184) Named only.
+
+<!-- walk: y1v8 ch6 → p.185 -->

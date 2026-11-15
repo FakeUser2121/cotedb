@@ -484,3 +484,30 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [feat] (p.136–137) First dramatic expression change is when Albert stands beside Katsuragi; then the towel drop silences the room.
 
 <!-- walk: y1v8 ch4 → p.147 -->
+
+### y1v8 p.155–162 — Ch.6 half 1: the forest detour and the roll-call shout
+[scene] (p.155) Veers off the byroad into the forest; pursued and confronted on the dirt road.
+[says:kouenji-rokusuke] (p.157) “Oh, ho, if it isn’t Ayanokouji Boy. This isn’t the correct route, is it?”
+[says:kouenji-rokusuke] (p.157) “I caught a glimpse of a wild boar. I dare say I was interested. So I gave chase.”
+[says:kouenji-rokusuke] (p.157) “Rest easy. I shall return in time. It shouldn’t take someone like me even thirty minutes”
+[says:kouenji-rokusuke] (p.158) “You do not get to decide that. I do. You know that, don’t you? I will see you later”
+[says:kouenji-rokusuke] (p.158) “The person who tamed the Dragon Boy.”
+[says:kouenji-rokusuke] (p.158) “Because of your touch on my arm. I can tell by the heat being transmitted through your skin.”
+[says:kouenji-rokusuke] (p.159) “I will act in accordance with my own wishes. That is my philosophy.”
+[says:kouenji-rokusuke] (p.162) “My name is Kouenji Rokusuke. Remember it well, teacher”
+[says:kouenji-rokusuke] (p.162) “Wild boar?” — Chabashira’s echo; see [note].
+[rel:ayanokouji-kiyotaka] (p.157–159) Confronted over the detour; reads Ryuuen-taming from arm heat; refuses group help and walks off to the boar.
+[rel:ryuuen-kakeru] (p.158) Named “Dragon Boy” / “Delinquent-kun” as the one Ayanokōji allegedly tamed.
+[rel:chabashira-sae] (p.161–162) Last at the turnaround; skips class on the roll call; boisterous laughter down the hill.
+[trait] (p.157–159) Wild-boar chase as cover; philosophy of moment-to-moment grades; “small fry to me” on the secret.
+[feat] (p.161–163) Around in twenty minutes with leaf-and-dirt traces; “limitless stamina… number one in our grade level.”
+[limit] (p.159) Won’t be persuaded on group help.
+
+### y1v8 p.171 — Ch.6 half 2: the broom that fails
+[scene] (p.171) Still never cleans; Yahiko’s thrust ends in the other boy’s exhaustion.
+[limit] (p.171) Total non-participation in cleaning — the group’s permanent hole.
+[rel:totsuka-yahiko] (p.170–171) The one who tries him with a broom and gives up.
+[rel:ishizaki-daichi] (p.170–171) Cannot be argued with in “Japanese”; gorilla frame.
+[note] (p.171) No dialogue this half — presence is the refusal itself.
+
+<!-- walk: y1v8 ch6 → p.185 -->

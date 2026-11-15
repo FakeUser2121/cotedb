@@ -838,3 +838,20 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [note] (p.76) Chapter ends with the bus briefing and arrival; no further pages this chapter.
 
 <!-- walk: y1v8 ch2 → p.76 -->
+
+### y1v8 p.160–162 — Ch.6 half 1: the turnaround teacher
+[scene] (p.160) Waiting at the turnaround, arms crossed; holds roll call as the tail-end teacher.
+[says:chabashira-sae] (p.160) “The second-years and third-years have turned back. You guys are all that’s left”
+[says:chabashira-sae] (p.160) “It’s almost eleven o’clock now.”
+[says:chabashira-sae] (p.160) “Wait. We’ll be taking roll call before you head back down. Each person has to state their class and name.”
+[says:chabashira-sae] (p.161) “You’re the last one, Kouenji. You have forty minutes left.”
+[says:chabashira-sae] (p.162) “Roll call, Kouenji. You’ll be disqualified otherwise”
+[says:chabashira-sae] (p.162) “Well, he gave his name. Let’s cut him some slack.”
+[rel:ayanokouji-kiyotaka] (p.160–162) Waits the tail with him; notes he seems to have nothing he wants to discuss with her.
+[rel:kouenji-rokusuke] (p.161–162) Time check, disqualification warning, slack on the missing class.
+[trait] (p.160–162) Arms-crossed practicality — records the stragglers without a scene.
+
+### y1v8 p.185 — Ch.6 closer
+[limit] (p.185) No presence in chapter 6 after half 1.
+
+<!-- walk: y1v8 ch6 → p.185 -->

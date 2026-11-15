@@ -260,3 +260,24 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [note] (p.147) No further presence in chapter 4 after half 1.
 
 <!-- walk: y1v8 ch4 → p.147 -->
+
+### y1v8 p.165–167 — Ch.6 half 1: the Ryuuen groups report
+[scene] (p.165) Ayanokōji Group dinner; pressed on his Class D group under Ryuuen.
+[says:miyake-akito] (p.165) “Well, I guess. I’m keeping my guard up, but it doesn’t seem there’s been any change. He’s actually taking the classes seriously and participating.”
+[says:miyake-akito] (p.165) “Yeah. He’s acting so normal, it’s almost scary. If anything, he’s handling himself way better than the awkward guys. It’s just, well, I’ve tried talking to him a few times, but he doesn’t seem to want to hang out with anyone.”
+[says:miyake-akito] (p.165) “Maybe he kind of went crazy from the shock of losing a fight?”
+[says:miyake-akito] (p.166) “I dunno. I think this is just the way he’s always been.”
+[says:miyake-akito] (p.166) “Not much to say, personally. I’m not close with anyone in it, but I’m not fighting with anyone either. Airi and I are in the same group, so I’m good.”
+[says:miyake-akito] (p.166) “If anything, I’d say Ishizaki’s the real problem child. Maybe he’s gotten carried away since Ryuuen-kun was defeated. Not so long ago, he was just a lackey.”
+[says:miyake-akito] (p.167) “Come on, it’s all right. I mean, if you girls are doing okay, that puts us at ease. Right?”
+[rel:ryuuen-kakeru] (p.165–166) Reports him taking classes seriously, closed to socializing — “this is just the way he’s always been.”
+[rel:hasebe-haruka] (p.165–166) Same-group with Airi; her Ryuuen question opens the report.
+[rel:sakura-airi] (p.166) Confirms they share a group.
+[rel:ishizaki-daichi] (p.166) Names him the real problem child post-Ryuuen defeat.
+[rel:ayanokouji-kiyotaka] (p.165–167) Miyacchi’s table report; ends on the girls-are-fine reassurance.
+[trait] (p.165) “Keeping my guard up” — the careful witness in Ryuuen’s group.
+
+### y1v8 p.185 — Ch.6 closer
+[limit] (p.185) No presence in chapter 6 after half 1.
+
+<!-- walk: y1v8 ch6 → p.185 -->

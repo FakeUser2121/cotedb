@@ -1034,3 +1034,12 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [note] (p.147) No further presence in chapter 4 after half 1.
 
 <!-- walk: y1v8 ch4 → p.147 -->
+
+### y1v8 p.173 — Ch.6 half 2: the Kei task
+[scene] (p.173) Named only as the investigator assigned to Asahina.
+[note] (p.173) “I had Kei investigate a certain second-year girl for me.” Direct contact limited so others do not suspect the relationship.
+[rel:ayanokouji-kiyotaka] (p.173) The handler relationship — careful, capped, still the preferred channel for girls’ side intel.
+[rel:asahina-nazuna] (p.173) The target of Kei’s look into Nagumo-adjacent second-years.
+[limit] (p.173) No dialogue this chapter.
+
+<!-- walk: y1v8 ch6 → p.185 -->

@@ -73,3 +73,40 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [feat] (p.131) Personally checked Katsuragi’s build — the detail that makes the Class A claim credible to the circle.
 
 <!-- walk: y1v8 ch4 → p.147 -->
+
+### y1v8 p.153–164 — Ch.6 half 1: the joke, the refusal, the carry
+[scene] (p.153) On the slope with the group; offers to help fetch Kōenji, then carries sprained Keisei with Ayanokōji.
+[says:hashimoto-masayoshi] (p.153) “Truly amazing. I underestimated you, Ayanokouji.”
+[says:hashimoto-masayoshi] (p.160) “No dice, huh?”
+[says:hashimoto-masayoshi] (p.163) “Ayanokouji? Yeah, looks that way. I’m guessing his ankle was at its limit by the turnaround point”
+[says:hashimoto-masayoshi] (p.163) “Don’t worry about it. We’ll keep this between us. That’ll be more convenient, right?”
+[rel:ayanokouji-kiyotaka] (p.155–156) Offers Kōenji help; declined; later partners the Keisei carry and keeps the sprain quiet.
+[rel:yukimura-teruhiko] (p.162–164) Supports the injured representative; warns not to let it get worse before the exam.
+[rel:kouenji-rokusuke] (p.163) “that Kouenji dude runs insanely fast… Dude’s a monster.”
+[trait] (p.164) Reads Keisei’s unfinished “but…” without words — the convenient silence.
+
+### y1v8 p.171–185 — Ch.6 half 2: keep cleaning, then the soccer story
+[scene] (p.171) Cleaning rebuke; night breaks the silence with his own past when Ishizaki shuts the door.
+[says:hashimoto-masayoshi] (p.171) “You’re free to curse us all you want, but keep cleaning.”
+[says:hashimoto-masayoshi] (p.171) “Then you have no right to say anything to Yukimura, do you?”
+[says:hashimoto-masayoshi] (p.182) “Hey, Ishizaki. You got a minute?”
+[says:hashimoto-masayoshi] (p.182) “At this rate, our group will be in extreme danger. We have the advantage of our team not being too big, but that also disadvantages us when it comes to the exam itself. In the worst-case scenario, Yukimura and someone else will be expelled”
+[says:hashimoto-masayoshi] (p.182) “Dude, come on…”
+[says:hashimoto-masayoshi] (p.183) “I played soccer in elementary school and junior high. Our school was pretty prestigious, so our team competed in national championships each year. I wasn’t an ace player or anything, but I played in most games and did pretty well”
+[says:hashimoto-masayoshi] (p.183) “No, I’m not. I know it’s not really popular these days, but I used to smoke.”
+[says:hashimoto-masayoshi] (p.183) “No. I hid my smoking habit well. Only my family knew.”
+[says:hashimoto-masayoshi] (p.183) “I guess I just felt this sense of alienation or something. Everyone else would be working together to win the national championships, and part of me would just kind of observe them coldly. I knew I didn’t belong. Also, I didn’t really like soccer all that much. I decided to quit playing and just focus on my studies. I was pretty smart to begin with, so it wasn’t that hard to keep getting good grades.”
+[says:hashimoto-masayoshi] (p.183) “For better or worse, my only saving grace was that I could do reasonably well out in the world, I suppose. But there are still times when I feel regret. Whenever I see Hirata and Shibata practicing out on the field, I think it could have been me out there. Even though I didn’t even like it that much. Strange, huh?”
+[says:hashimoto-masayoshi] (p.183) “What about you? What was your childhood like, Ishizaki?”
+[says:hashimoto-masayoshi] (p.183) “No reason.”
+[says:hashimoto-masayoshi] (p.184) “So that’s why you’re so good at studying, huh?”
+[says:hashimoto-masayoshi] (p.185) “No doubts there,”
+[rel:ishizaki-daichi] (p.171, 182–185) Cleaning rebute; night “minute” refused; draws the childhood question that opens the thaw.
+[rel:yukimura-teruhiko] (p.171, 182) Defends Keisei’s cleaning; names him worst-case expulsion body in the dark warning.
+[rel:hirata-yousuke] (p.183) Named in the soccer-field regret — practicing while Hashimoto watches the could-have-been.
+[rel:shibata-sou] (p.183) Same field named with Hirata.
+[trait] (p.183–185) Alienation story — smart kid who quit what he didn’t love; self-deprecating chuckle; keeps the sprain secret earlier (half 1).
+[rel:hashimoto-masayoshi] (p.172) Ayanokōji’s grade: right-distance glue, harder to read than Sakayanagi or Katsuragi.
+[limit] (p.182) Withdraws with a sigh when Ishizaki refuses the helping hand.
+
+<!-- walk: y1v8 ch6 → p.185 -->

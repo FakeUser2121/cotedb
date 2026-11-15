@@ -218,3 +218,22 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [status] (p.150) Confirmed she worked a lot with him after joining the student council — the grain of truth under the dating rumor.
 
 <!-- walk: y1v8 ch5 → p.152 -->
+
+### y1v8 p.165 — Ch.6 half 1: named only as the group force
+[scene] (p.165) Not on the page in half 1; the Ryuuen-groups context sits under Nagumo’s exam design (half 2 develops it).
+[limit] (p.165) No half 1 dialogue or action — half 2 Asahina interview carries his picture.
+
+### y1v8 p.173–181 — Ch.6 half 2: the picture Asahina draws
+[scene] (p.173) Not on the page; built entirely through Ayanokōji’s plan and Asahina’s interview.
+[note] (p.173) Target of the probe: true intentions toward Horikita’s brother.
+[note] (p.176) Asahina: respects Horikita-senpai, made him a goal, jealous of missing the relay challenge.
+[note] (p.179) Second-years shared bus exam info at his urging; four classes on the way to allies.
+[note] (p.180) Girls’ large group adjusted with members Miyabi could count on; Tachibana’s group has the secretary.
+[note] (p.181) Asahina: always sticks to his word, no dirty tricks; “whoever cares too much is the one who loses.”
+[rel:asahina-nazuna] (p.176–181) The source of the fair-square / care-too-much picture; deep classmate relationship named.
+[rel:horikita-manabu] (p.176, 180–181) The rival frame — goal, jealousy, and the girls’ group irrelevance to their fight.
+[rel:ayanokouji-kiyotaka] (p.173–181) The one probing; reads clues-that-disappear as a unique strategy vs Sakayanagi and Ryuuen.
+[rel:ishikura] (p.181) “Ishikura-senpai” named as the third-year his group met — not assigned (see volume note).
+[status] (p.181) Public promise of fair square plus shadow-manufacturing under investigation — feint or real still open.
+
+<!-- walk: y1v8 ch6 → p.185 -->

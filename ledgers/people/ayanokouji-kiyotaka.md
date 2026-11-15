@@ -4057,3 +4057,71 @@ walk: y1v1 → DONE
 [trait] (p.145–146) Lies to Manabu about Nagumo while knowing several concerns; reads the meeting risk as worth the information.
 
 <!-- walk: y1v8 ch4 → p.147 -->
+
+### y1v8 p.153–169 — Ch.6 half 1: the slope, Kōenji, and the Ayanokōji Group dinner
+[scene] (p.153) Day-five 18 km course walk as group representative’s escort; POV runs the retrieval of Kōenji and the dinner table after.
+[says:ayanokouji-kiyotaka] (p.155) “Kouenji went off on some other path back there. I’ll go call him back.”
+[says:ayanokouji-kiyotaka] (p.156) “No matter who goes, we might not be able to bring him back.”
+[says:ayanokouji-kiyotaka] (p.157) “I’m here to keep you from potentially getting expelled via the solidarity rule. Why did you take this detour?”
+[says:ayanokouji-kiyotaka] (p.157) “About the exam. I want you to help the group.”
+[says:ayanokouji-kiyotaka] (p.158) “What do you mean? What’s how what is?”
+[says:ayanokouji-kiyotaka] (p.160) “What time is it, sensei?”
+[says:ayanokouji-kiyotaka] (p.163) “It was just good timing that the two of us were running near you.”
+[says:ayanokouji-kiyotaka] (p.166) “You might be right about that.”
+[says:ayanokouji-kiyotaka] (p.169) “Grab a breather. I’ll take your spot.”
+[says:ayanokouji-kiyotaka] (p.169) “Hey, we help each other out when we’re in trouble.”
+[says:ayanokouji-kiyotaka] (p.169) “I’ll handle it”
+[says:ayanokouji-kiyotaka] (p.170) “Even if Keisei injures himself as a result?”
+[rel:kouenji-rokusuke] (p.155–159) Chases the forest detour to stop solidarity expulsion; grabs his arm; accepts the Dragon Boy read and leaves him to the boar.
+[rel:yukimura-teruhiko] (p.155, 161–164) Takes Keisei’s leave at the turnaround; carries the sprained leg with Hashimoto; “Don’t feel embarrassed.”
+[rel:hashimoto-masayoshi] (p.160–164) Refuses his help offer on Kōenji; later partners the carry; rates him the group’s right-distance glue (p.172 half 2).
+[rel:ishizaki-daichi] (p.169–170) Blocked from helping Keisei; Ishizaki speaks to him for the first time then backs away.
+[rel:hasebe-haruka] (p.165–167) Reunited at dinner; her group-with-Sakura report steadies the boys’ side.
+[rel:sakura-airi] (p.165–166) Bashful “been a while”; same group as Hasebe.
+[rel:miyake-akito] (p.165–167) Presses the Ryuuen-groups report; ends on the girls-are-fine reassurance.
+[rel:chabashira-sae] (p.160–162) Turnaround roll call exchange; waits with her for Kōenji.
+[trait] (p.157, 160–161) Will not actively make a move but takes the private Kōenji chance; waits past everyone for the tail end.
+[trait] (p.169) Takes Keisei’s cleaning slot; absorbs Ishizaki’s order without a scene.
+[limit] (p.158) Cannot clear the Dragon Boy misunderstanding — “Too bad. That’s not going to happen.”
+[rel:nagumo-miyabi] (p.165–166) Not present; Miyacchi’s report that Ryuuen is acting normal is the dinner intel he keeps.
+
+### y1v8 p.170–185 — Ch.6 half 2: Asahina and the first real night
+[scene] (p.170) Cleaning veto aftermath, the Asahina charm approach at dinner, and the pitch-dark group talk that ends the chapter.
+[says:ayanokouji-kiyotaka] (p.170) “Even if Keisei injures himself as a result?”
+[says:ayanokouji-kiyotaka] (p.172) “Keisei, you need to stop trying to shoulder everything alone. You can’t change anything in the one or two days we have left. If you make an error in judgment now, you might regret it later”
+[says:ayanokouji-kiyotaka] (p.172) “Look, just don’t forget that I’m here. If you’re in trouble, I’ll help.”
+[says:ayanokouji-kiyotaka] (p.175) “Hmm?”
+[says:ayanokouji-kiyotaka] (p.175) “Oh, sorry. I was just thinking I’d seen that charm before. Please don’t mind me”
+[says:ayanokouji-kiyotaka] (p.175) “Oh, that so? Did you happen to drop it a while back, by any chance?”
+[says:ayanokouji-kiyotaka] (p.175) “Maybe… I picked it up on my way back to the dorm, uh…when was that, again?”
+[says:ayanokouji-kiyotaka] (p.176) “Do you know me?”
+[says:ayanokouji-kiyotaka] (p.176) “Wait. Were you there too?”
+[says:ayanokouji-kiyotaka] (p.176) “I’m pretty fast, but to be honest I don’t really have anything else going for me. Maybe I’ve caught President Nagumo’s eye through some kind of misunderstanding”
+[says:ayanokouji-kiyotaka] (p.176) “How can I get Nagumo-senpai to stop paying attention to me?”
+[says:ayanokouji-kiyotaka] (p.178) “I see. That might be one option”
+[says:ayanokouji-kiyotaka] (p.178) “So if Nagumo’s ever defeated, that would be trouble, huh?”
+[says:ayanokouji-kiyotaka] (p.178) “So you were joking, senpai?”
+[says:ayanokouji-kiyotaka] (p.178) “Among all the second-years I’ve met until now, you seem to be the most straightforward one, Asahina-senpai.”
+[says:ayanokouji-kiyotaka] (p.178) “It’s not about being shallow or deep. What matters is how much you’ve been influenced by him.”
+[says:ayanokouji-kiyotaka] (p.178) “In that case, think of this as nonsense from a first-year.”
+[says:ayanokouji-kiyotaka] (p.179) “Are you sure? It might be seen as rebelling against Nagumo-senpai, you know.”
+[says:ayanokouji-kiyotaka] (p.179) “Out of the girls in your grade level, how many would you say are especially close with Nagumo-senpai?”
+[says:ayanokouji-kiyotaka] (p.179) “What about the people who act as Nagumo-senpai’s eyes and ears?”
+[says:ayanokouji-kiyotaka] (p.179) “Well, as a senpai, it’s okay to help a first-year out a bit, right?”
+[says:ayanokouji-kiyotaka] (p.180) “What about when you met up with the first- and third-year groups? Did you decide things randomly then too?”
+[says:ayanokouji-kiyotaka] (p.180) “Are there any first- or third-years who were selected to join that girls’ large group that stand out in particular?”
+[says:ayanokouji-kiyotaka] (p.180) “You have a lot of faith in Nagumo-senpai, huh?”
+[says:ayanokouji-kiyotaka] (p.181) “You were a big help,”
+[rel:asahina-nazuna] (p.173–181) Charm re-accident; five-minute corridor pitch; takes her Nagumo picture and second-year unity intel.
+[rel:karuizawa-kei] (p.173) Tasks Kei on Asahina; limits direct contact to avoid relationship suspicion.
+[rel:kiriyama-ikuto] (p.173) Left a clue for him; blocked because he is in Nagumo’s group.
+[rel:nagumo-miyabi] (p.173–181) The real target of the Asahina probe — true intentions toward Horikita’s brother.
+[rel:horikita-manabu] (p.173, 180) Needs Nagumo’s intent toward him; Asahina’s fair-square line read against Manabu’s own trust.
+[rel:hashimoto-masayoshi] (p.172) Private grade: could hold the group at the right distance; harder to read than Sakayanagi or Katsuragi.
+[rel:ishizaki-daichi] (p.170) Pushes the injury question; gets “that’s that.”
+[rel:yukimura-teruhiko] (p.172) Advice against shouldering alone; “don’t forget that I’m here.”
+[trait] (p.173–174) Will not deepen into the boys’ group — fading into the background is the point; small risk for the Asahina contact.
+[trait] (p.178–181) Plays the uppity first-year on purpose; reads Nagumo’s clues-popping-up strategy as different from Sakayanagi and Ryuuen.
+[goal] (p.181) Confirm whether Nagumo fights above the board while manufacturing shadow-fear.
+
+<!-- walk: y1v8 ch6 → p.185 -->

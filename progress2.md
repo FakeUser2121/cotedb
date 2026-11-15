@@ -2290,3 +2290,24 @@ class as ch4 closers); expulsions/points/results 0 — no pattern change.
 verify y1v8: 201 [says] ALL PASS + 143 non-says ALL PASS; make check OK
 (R18 0, R19 82/82); gate exit 0; hash `fa8622c988de69a0d7746449928f62c6`
 twice. New tags: none. Next: ch6 (pp.153–185).
+
+### y1v8 ch6 — walked
+Ubiquitous Things pp.153–185 walked in two halves (33pp). Day-five 18 km
+course: Ishizaki’s slope heat, Keisei’s walk-then-run strategy, Kōenji’s
+forest boar detour and Dragon Boy arm-read, turnaround roll call with
+Chabashira, sprained Keisei carried by Hashimoto and Ayanokōji; Ayanokōji
+Group dinner (Hasebe–Sakura pair, Miyacchi’s Ryuuen-normal report); day-six
+cleaning veto and Ishizaki’s group rant; Asahina Nazuna charm bargain and
+Nagumo picture (bus-time second-year unity, girls’ group adjustment,
+Tachibana named, “whoever cares too much is the one who loses”); pitch-dark
+Hashimoto soccer/smoking story, Yukimura sister-classroom and Sudō
+conversion, Ishizaki’s grudging credit — first real group night. New ledger:
+asahina-nazuna. Attribution gaps: bare Tokitou Class B unassigned;
+Ishikura-senpai third-year identity not assigned (ishikura header Class
+1-D). Translation defect kept: “These rancor between us” (p.182). Rule 12
+sample: relationships clean; who-knew-what mixes real intel (Ryuuen report)
+with structural `[limit]`/`[note]` noise; expulsions 4 real solidarity/
+expel hits; points/results 0 — no pattern change. verify y1v8: 361 [says]
+ALL PASS + 185 non-says ALL PASS; make check OK (R18 0, R19 82/82); gate
+exit 0; hash `1dcb68fe8aded93c733229f0b33f43a7` twice. New tags: none.
+Next: ch7 (pp.186–211).

@@ -308,3 +308,45 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [trait] (p.133–136) Strategic about who represents Class D; loud enough to drive the whole bathhouse mood.
 
 <!-- walk: y1v8 ch4 → p.147 -->
+
+### y1v8 p.153–169 — Ch.6 half 1: the slope mouth and the cleaning veto
+[scene] (p.153) On the 18 km course walk; escalates against Keisei and blocks Ayanokōji’s help on day six cleaning.
+[says:ishizaki-daichi] (p.153) “Seriously, how much higher does this slope go?! This is friggin’ nuts, dude. This is way too hard”
+[says:ishizaki-daichi] (p.154) “You’ve gotta be screwing with me. We ain’t gonna have any time left to eat lunch!”
+[says:ishizaki-daichi] (p.155) “Oh, as the representative? Screw you.”
+[says:ishizaki-daichi] (p.169) “Hey. You just said you’d do it yourself!”
+[says:ishizaki-daichi] (p.169) “All right then, there you have it. Do not, under any circumstance, give him a hand, Ayanokouji.”
+[rel:yukimura-teruhiko] (p.154–155, 168–169) Verbal assault on the representative through slope and cleaning; refuses to meet Ayanokōji’s eye when ordering him off Keisei.
+[rel:hashimoto-masayoshi] (p.153) Joins the wild-boar pile-on; later “keep cleaning” exchange (p.171 half 2).
+[rel:yamada-albert] (p.153) Albert applauds the taunt; later runs the course with Ishizaki (p.161).
+[rel:kouenji-rokusuke] (p.170–171) Cannot “communicate with that dude in Japanese”; gave up persuading the gorilla (setup in half 1 context).
+[trait] (p.153, 169) Taunts then vetoes help even knowing the injury risk to the group.
+[limit] (p.169) Still will not meet Ayanokōji’s eyes — backs away after the order.
+
+### y1v8 p.170–185 — Ch.6 half 2: the veto, the rant, the dark-room thaw
+[scene] (p.170) Cleaning duty; abandons post-rant; night confession circle in the dark.
+[says:ishizaki-daichi] (p.170) “If he gets injured, that’s that.”
+[says:ishizaki-daichi] (p.170) “It’s his own fault for not being able to clean properly”
+[says:ishizaki-daichi] (p.171) “I can’t even communicate with that dude in Japanese. I ain’t got time to persuade a gorilla”
+[says:ishizaki-daichi] (p.171) “Fine. If I have to go, I’ll go”
+[says:ishizaki-daichi] (p.171) “Aagh! I don’t wanna do this! This is just so friggin’ dumb! Why do we even gotta play nice? Pretend like we’re friends with dudes from the other classes? Right, Albert?”
+[says:ishizaki-daichi] (p.171) “Seriously, dude. I hate this group so friggin’ much, I could die. There’s that gorilla Kouenji, and the annoying loudmouth Yukimura who talks a big game even though he can’t even run a friggin’ marathon. Then there’s those Class B dudes who just smile and laugh without a care in the world, and those do-nothin’ Class A jerks. Idiotic.”
+[says:ishizaki-daichi] (p.171) “Shut up. Kouenji ain’t doin’ nothin’, so why do I gotta?”
+[says:ishizaki-daichi] (p.182) “No,” — reply to Hashimoto’s “You got a minute?”
+[says:ishizaki-daichi] (p.182) “Shut it. Even if I get expelled, whatever. I don’t care. Shit happens.”
+[says:ishizaki-daichi] (p.183) “What, now you’re bragging? I ain’t listenin’ to this”
+[says:ishizaki-daichi] (p.184) “Huh? Why you askin’?”
+[says:ishizaki-daichi] (p.184) “Hmph. Well, I ain’t got anything to say.”
+[says:ishizaki-daichi] (p.185) “Seriously, are you askin’ me—?”
+[says:ishizaki-daichi] (p.185) “Stop screwing around. Why are you apologizing? I mean, I’m the one who blamed you”
+[says:ishizaki-daichi] (p.185) “I mean, you were the one who agreed to be representative when no one else was willin’.”
+[says:ishizaki-daichi] (p.185) “It pissed me off, gettin’ ordered around by you. But if you didn’t give those orders, our group probably would’ve been way worse off. For makin’ breakfast, and for the marathon.”
+[rel:yukimura-teruhiko] (p.170–171, 185) Veto and rant against the representative; ends crediting Keisei’s orders as what kept the group from being worse.
+[rel:kouenji-rokusuke] (p.170–171) Cannot argue with the gorilla; gave up.
+[rel:hashimoto-masayoshi] (p.171, 182–185) “keep cleaning” exchange; refuses the night “minute”; swallows the mock then chucks at himself.
+[rel:yamada-albert] (p.171) Rants at Albert for the “Right, Albert?” beat; Albert neither agrees nor disagrees.
+[trait] (p.170–171) Permits no help to Keisei even knowing the injury cost; kicks the broom and walks.
+[trait] (p.185) Dark-room thaw — self-directed chuckle, credits the representative, first real-group night.
+[limit] (p.182) “Even if I get expelled, whatever” — the expulsion shrug under Hashimoto’s warning.
+
+<!-- walk: y1v8 ch6 → p.185 -->

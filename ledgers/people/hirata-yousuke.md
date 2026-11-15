@@ -1235,3 +1235,12 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:katsuragi-kouhei] (p.143) Named with Ichinose as a likely cooperation driver in their group.
 
 <!-- walk: y1v8 ch4 → p.147 -->
+
+### y1v8 p.183 — Ch.6 half 2: the field Hashimoto watches
+[scene] (p.183) Named in Hashimoto’s regret speech — practicing on the field.
+[note] (p.183) “Whenever I see Hirata and Shibata practicing out on the field, I think it could have been me out there.”
+[rel:hashimoto-masayoshi] (p.183) The contrast case for Hashimoto’s quit-soccer alienation.
+[rel:shibata-sou] (p.183) Paired with him as the field pair.
+[limit] (p.183) Named only.
+
+<!-- walk: y1v8 ch6 → p.185 -->

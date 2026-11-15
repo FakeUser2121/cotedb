@@ -97,3 +97,16 @@ aliases used for anchors: tachibana, secretary, student council secretary
 [rel:horikita-suzune] (p.100–101) Number forwarded so Suzune can call her brother.
 
 <!-- walk: y1v7.5 ch4 → p.106 -->
+
+## y1v8
+
+<!-- walk: y1v8 → start -->
+
+### y1v8 p.180 — Ch.6 half 2: named as the secretary in the large group
+[scene] (p.180) Named in Asahina’s third-year list inside the girls’ large group.
+[note] (p.180) “From the third-years, I guess there’s Tachibana-senpai, who was Horikita-senpai’s secretary. Ah, but their representative is a different person, though.”
+[rel:horikita-manabu] (p.180) His student-council secretary, carried into the adjusted large group.
+[rel:nagumo-miyabi] (p.180) Group sits where Miyabi could count on people — Asahina’s adjustment note.
+[limit] (p.180) Named only — no dialogue.
+
+<!-- walk: y1v8 ch6 → p.185 -->

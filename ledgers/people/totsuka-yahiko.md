@@ -135,3 +135,26 @@ char_id: totsuka-yahiko · class: Class 1-A (enrolled April 2015) · status: min
 [rel:ryuuen-kakeru] (p.139) Joins the “Take it off!” chant without needing to know who goaded it.
 
 <!-- walk: y1v8 ch4 → p.147 -->
+
+### y1v8 p.155 — Ch.6 half 1: defending the representative
+[scene] (p.155) Class B voice against Ishizaki’s assault on Yukimura.
+[says:totsuka-yahiko] (p.155) “Enough, Ishizaki. Yukimura’s right.”
+[rel:ishizaki-daichi] (p.155) Calls him out on attacking the representative.
+[rel:yukimura-teruhiko] (p.155) Defends Keisei’s right to speak as representative.
+[trait] (p.155) “Couldn’t let that slide” with Moriyama — Class B backstop.
+
+### y1v8 p.170–183 — Ch.6 half 2: broom thrust and the dark-room doubts
+[scene] (p.170) Takes the broom to Kōenji; fails; night cuts through with the soccer question.
+[says:totsuka-yahiko] (p.170) “Hey, Ishizaki. You’re taking this a little too far”
+[says:totsuka-yahiko] (p.170) “I know that. But what about him? Go warn him too.”
+[says:totsuka-yahiko] (p.170) “If you have a problem, then you try and argue with him. It’ll just be a waste of time, though.”
+[says:totsuka-yahiko] (p.170) “Fine. If I have to go, I’ll go”
+[says:totsuka-yahiko] (p.183) “Wait, you’re not part of the soccer team now though, are you? It doesn’t look like you got injured or anything”
+[says:totsuka-yahiko] (p.183) “So they found you out and kicked you out of soccer?”
+[says:totsuka-yahiko] (p.183) “Even if smoking is disgusting, it’s not a reason to quit soccer.”
+[rel:ishizaki-daichi] (p.170) Challenges the one-sided Keisei pressure; points at Kōenji’s zero cleaning.
+[rel:kouenji-rokusuke] (p.170–171) Thrusts the broom; walks away “totally exhausted.”
+[rel:hashimoto-masayoshi] (p.183) Presses the soccer/smoking logic until the alienation story lands.
+[trait] (p.170, 183) Will not sit silent; the doubt that forces Hashimoto’s reasons into the open.
+
+<!-- walk: y1v8 ch6 → p.185 -->
