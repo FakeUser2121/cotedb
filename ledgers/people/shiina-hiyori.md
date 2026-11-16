@@ -216,3 +216,20 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [rel:ayanokouji-kiyotaka] (p.202) Conversation used as cover for the rumor operation.
 
 <!-- walk: y1v9 Epilogue → p.225 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->
+
+### y1v11 pp.382–399 — Ch.8: Guiding Class D’s plan
+
+[scene] (p.382) After the matchups are decided, works to guide Class D toward facing Class B and making use of Ryūen’s advice.
+[scene] (p.383) Gathers Ishizaki and Ibuki in a karaoke room, saying Ryūen will come.
+[scene] (p.386) Persuades Ibuki to stay and wait for Ryūen.
+[scene] (p.391) Analyzes Class B’s strengths and flaws during the discussion.
+[scene] (p.393) Helps interpret Ryūen’s tournament-style event strategy.
+[rel:ishizaki-daichi] (p.382–399) Works with him to involve Ryūen and prepare for the exam.
+[rel:ibuki-mio] (p.383–399) Meets with her and persuades her to wait for Ryūen.
+[rel:ryuuen-kakeru] (p.382–399) Invites him, waits for him, and supports his plan against Class B.
+
+<!-- walk: y1v11 ch9 → p.399 -->

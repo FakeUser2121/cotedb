@@ -176,3 +176,14 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 [rel:chabashira-sae] (p.67–71) Explains the system alongside her.
 
 <!-- walk: y1v11 ch4 → p.92 -->
+
+### y1v11 pp.368–374 — Ch.8: Proctoring Class B vs Class D
+
+[scene] (p.368) Announces the results of the fourth event in the Class B vs Class D matchup.
+[scene] (p.369) Checks on the condition of Class B students who reported feeling unwell.
+[scene] (p.371) Proceeds with the fifth event drawing at Ryūen’s insistence.
+[scene] (p.374) Rules the Judo event a default loss for Class B and declares Class D the overall victor.
+[rel:ichinose-honami] (p.368–374) Reports results and rulings to her as Class B’s commander.
+[rel:ryuuen-kakeru] (p.368–374) Oversees the matchup as he commands Class D.
+
+<!-- walk: y1v11 ch9 → p.399 -->

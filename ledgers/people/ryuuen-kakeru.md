@@ -1557,3 +1557,22 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:ayanokouji-kiyotaka] (p.324) Appears before him at the multipurpose room.
 
 <!-- walk: y1v11 ch8 → p.367 -->
+
+### y1v11 pp.368–399 — Ch.8: Commanding Class D and flashbacks
+
+[scene] (p.368) As substitute commander for Class D, remains composed while the fourth event ends in a tie at 2–2.
+[scene] (p.370) Pressures the teachers to proceed and casts suspicion on Class B’s sick students.
+[scene] (p.371) Chooses participants for the Karate event and wins, taking the lead.
+[scene] (p.373) Selects Yamada Albert for Judo and secures Class D’s overall victory when Class B defaults.
+[back] (p.375) After the exam announcement, is approached by Ishizaki asking for help.
+[back] (p.379) Advises Ishizaki that Class B is the only class Class D can beat.
+[back] (p.387) Arrives late to the karaoke meeting with Ishizaki, Ibuki, and Shiina.
+[back] (p.392) Presents Class D’s event strategy and plans harassment, information gathering, and interference to defeat Class B.
+[back] (p.398) Explains he became commander to test whether he still has lingering attachment to facing Ayanokōji.
+[rel:ichinose-honami] (p.368–374) Pressures and defeats her as Class B’s commander.
+[rel:ishizaki-daichi] (p.375–399) Is asked for help by him and later directs him in the plan against Class B.
+[rel:ibuki-mio] (p.383–399) Meets with her and includes her in the plan against Class B.
+[rel:shiina-hiyori] (p.382–399) Works with her and accepts her role in guiding Class D’s preparations.
+[rel:ayanokouji-kiyotaka] (p.398–399) Considers his desire for a rematch with him as motivation to remain.
+
+<!-- walk: y1v11 ch9 → p.399 -->

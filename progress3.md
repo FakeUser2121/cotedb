@@ -1758,3 +1758,7 @@ hash: `c4881954e6794ba9bd94fd940bc3153b`.
 Year 1 Volume 11 Chapter 7 "Ayanokōji vs. Sakayanagi" (pp.318–367)
 walked. First five exam events: Class C down 2–3 to Class A. Determinism
 hash: `0daddbc64cd4f58f4327f68505e3dce0`.
+
+Year 1 Volume 11 Chapter 8 "Class B vs. Class D" (pp.368–399) walked.
+Ryūen leads Class D to a 4–2 victory over Class B. Determinism hash:
+`95de910a6fb1594b45627d29a76c7bb9`.

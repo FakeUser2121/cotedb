@@ -690,3 +690,19 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:manabe-shiho] (p.338–339) Chooses her as the replacement target.
 
 <!-- walk: y1v10 Epilogue → p.362 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->
+
+### y1v11 pp.383–399 — Ch.8: Planning against Class B
+
+[scene] (p.383) Meets with Ishizaki and Shiina in a karaoke room to discuss the special exam.
+[scene] (p.384) Is surprised to learn Shiina invited Ryūen and tries to leave when he is late.
+[scene] (p.387) Confronts Ryūen when he finally arrives and demands he explain himself.
+[scene] (p.392) Questions the practicality of Class D’s event strategy but agrees to cooperate after hearing Ryūen’s plan.
+[rel:ishizaki-daichi] (p.383–399) Meets and argues with him while planning.
+[rel:shiina-hiyori] (p.383–399) Is persuaded by her to stay and wait for Ryūen.
+[rel:ryuuen-kakeru] (p.387–399) Confronts him and ultimately agrees to follow his plan against Class B.
+
+<!-- walk: y1v11 ch9 → p.399 -->

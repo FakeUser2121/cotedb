@@ -1306,3 +1306,16 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:kaneda-satoru] (p.324) Expects him as Class D’s commander before Ryūen appears.
 
 <!-- walk: y1v11 ch8 → p.367 -->
+
+### y1v11 pp.368–374 — Ch.8: Loss to Class D
+
+[scene] (p.368) As commander for Class B, hears Mashima announce Class B’s win in the fourth event but remains distraught as the score stays tied 2–2.
+[scene] (p.369) Asks about Class B students who fell ill during the exam, contributing to their loss in the Chemistry event.
+[scene] (p.370) Tries to compose herself while Ryūen pressures the teachers to continue.
+[scene] (p.371) Loses the fifth event, Karate, despite calling for a rematch.
+[scene] (p.373) Faces Judo as the sixth event and cannot choose a participant in time.
+[scene] (p.374) Loses the exam by default when Class D secures its fourth win.
+[rel:ryuuen-kakeru] (p.368–374) Faces him as the opposing commander and is pressured by his tactics.
+[rel:mashima-tomonari] (p.368–374) Receives event results and rulings from him.
+
+<!-- walk: y1v11 ch9 → p.399 -->

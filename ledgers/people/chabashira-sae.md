@@ -1009,3 +1009,12 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:ryuuen-kakeru] (p.328) Accompanies him to the Class B vs Class D side.
 
 <!-- walk: y1v11 ch8 → p.367 -->
+
+### y1v11 pp.370–371 — Ch.8: Proctoring Class B vs Class D
+
+[scene] (p.370) Warns Ryūen about his language when he pressures for the exam to continue.
+[scene] (p.371) Supports proceeding with the fifth event drawing.
+[rel:ryuuen-kakeru] (p.370–371) Reprimands him during the matchup.
+[rel:mashima-tomonari] (p.371) Acts alongside him as the exam proceeds.
+
+<!-- walk: y1v11 ch9 → p.399 -->

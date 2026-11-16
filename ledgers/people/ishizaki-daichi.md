@@ -470,3 +470,21 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [rel:ichinose-honami] (p.342–346) Participates in the deal with her.
 
 <!-- walk: y1v10 Epilogue → p.362 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->
+
+### y1v11 pp.375–399 — Ch.8: Seeking Ryūen’s help
+
+[scene] (p.375) After the exam announcement, chases after Ryūen and asks for his help in the special exam.
+[scene] (p.376) Prostrates himself and begs Ryūen to lend his strength to Class D.
+[scene] (p.379) Hears Ryūen say Class B is the only class Class D can beat.
+[scene] (p.382) Joins Ibuki and Shiina in a karaoke room to discuss how to win.
+[scene] (p.387) Waits with them until Ryūen arrives late.
+[scene] (p.392) Listens to Ryūen’s strategy for using physical events, harassment, and information gathering against Class B.
+[rel:ryuuen-kakeru] (p.375–399) Asks for his help and follows his plan against Class B.
+[rel:ibuki-mio] (p.382–399) Meets with her to plan for the exam.
+[rel:shiina-hiyori] (p.382–399) Works with her to involve Ryūen and prepare against Class B.
+
+<!-- walk: y1v11 ch9 → p.399 -->

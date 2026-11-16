@@ -2880,3 +2880,13 @@ karuizawa-kei, shinohara-satsuki, wang-mei-yu, ishikura,
 inogashira-kokoro, ichihashi-ruri, satou-maya, hondou-ryoutaro,
 hoshinomiya-chie, chabashira-sae, ledgers/volumes/y1v11.md. verify
 y1v11: ALL PASS; make check OK; gate exit 0. Next: ch9 pp.368–399.
+
+### y1v11 ch9 — walked, shipped
+
+Chapter 8 "Class B vs. Class D" (pp.368–399). Class D defeats Class B
+4–2 as Ryūen commands and Class B falters after disruptions; flashbacks
+show Ishizaki, Ibuki, and Shiina planning with Ryūen to target Class B.
+Ledgers touched: ichinose-honami, ryuuen-kakeru, mashima-tomonari,
+chabashira-sae, ishizaki-daichi, ibuki-mio, shiina-hiyori,
+ledgers/volumes/y1v11.md. verify y1v11: ALL PASS; make check OK; gate
+exit 0. Next: ch10 pp.400–476.
