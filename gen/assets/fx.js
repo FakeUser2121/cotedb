@@ -34,7 +34,19 @@ function ripple(x,y){if(!d.body.animate)return;
  var s=d.createElement('span');s.className='fxrip';d.body.appendChild(s);
  var t='translate('+x+'px,'+y+'px) scale(';
  var a=s.animate([{transform:t+'.15)',opacity:.9},{transform:t+'1.9)',opacity:0}],{duration:520,easing:'cubic-bezier(.2,.7,.2,1)'});
- a.onfinish=function(){s.remove()}}
+ a.onfinish=function(){s.remove();var j=rips.indexOf(a);if(j>-1)rips.splice(j,1)}}
+var rips=[];
+function settleRips(){var q=rips.slice();rips=[];var i;
+ for(i=0;i<q.length;i++){try{q[i].finish()}catch(e){}}}
+d.addEventListener('click',function(e){
+ var a=null;
+ if(e.button>0||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;
+ a=e.target.closest?e.target.closest('a[href]'):null;
+ if(!a||a.download)return;
+ var t=a.getAttribute('target');
+ if(t&&t!=='_self')return;
+ if(a.hash&&a.pathname===location.pathname&&a.search===location.search)return;
+ settleRips()},false);
 
 // ---- 3D tilt
 var TILT='.task,.card,.facts,.chap',cur=null,rect=null,px=0,py=0,pend=0,MAX=6;
