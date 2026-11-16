@@ -961,3 +961,10 @@ aliases used for anchors: sakura, airi, sakura-san
 [says] (p.87) [I agree too.]
 
 <!-- walk: y1v10 Ch3 → p.147 -->
+
+### y1v10 pp.154–161 — Ch.4: Ayanokōji Group discussion
+
+[scene] (p.154) Discusses the large group at lunch with the Ayanokōji Group.
+[scene] (p.159) Expresses worry about being targeted.
+
+<!-- walk: y1v10 Ch4 → p.181 -->

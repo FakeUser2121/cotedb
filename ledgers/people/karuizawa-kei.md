@@ -1183,3 +1183,14 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:ayanokouji-kiyotaka] (p.75–79) Phone call; she has seven-girl group; he advises low profile.
 
 <!-- walk: y1v10 Ch2 → p.84 -->
+
+### y1v10 pp.168–170 — Ch.4: Warning Ayanokōji
+
+[scene] (p.168) Calls Ayanokōji to warn him that around half the class plans to vote him out.
+[says] (p.168) “Jeez, finally you pick up…!”
+[says] (p.168) “everyone’s gonna vote you out of school.”
+[scene] (p.169) Says she does not know exactly who is behind it but the group is large.
+[scene] (p.170) Ayanokōji thanks her for the information.
+[rel:ayanokouji-kiyotaka] (p.168–170) Warns him he is the target of the Class Poll.
+
+<!-- walk: y1v10 Ch4 → p.181 -->

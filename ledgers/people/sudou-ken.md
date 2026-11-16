@@ -1305,3 +1305,10 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [scene] (p.61) Sudō, Ike, Yamauchi expected to form a small group.
 
 <!-- walk: y1v10 Ch2 → p.84 -->
+
+### y1v10 pp.149 — Ch.4: Morning walk
+
+[scene] (p.149) Walks to school with Ayanokōji; says he has been improving and does not want to be expelled.
+[says] (p.149) “I may be stupid and short-tempered, but I’ve been making huge improvements recently. That’s why I absolutely don’t wanna be expelled.”
+
+<!-- walk: y1v10 Ch4 → p.181 -->

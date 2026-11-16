@@ -761,3 +761,12 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [scene] (p.61) Ike, Yamauchi, Sudō expected to form a small group.
 
 <!-- walk: y1v10 Ch2 → p.84 -->
+
+### y1v10 pp.179–180 — Ch.4: Named as mastermind
+
+[scene] (p.179) Kushida reveals Yamauchi Haruki is the tentative mastermind targeting Ayanokōji.
+[status] (p.179) Tentative mastermind of the group targeting Ayanokōji in the Class Poll.
+[rel:sakayanagi-arisu] (p.180) Supported behind the scenes by Sakayanagi Arisu.
+[rel:kushida-kikyou] (p.179–180) Kushida reveals him as the tentative mastermind.
+
+<!-- walk: y1v10 Ch4 → p.181 -->

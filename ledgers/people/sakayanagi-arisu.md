@@ -543,3 +543,12 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:katsuragi-kouhei] (p.122, 125) Decides to expel him from Class A.
 
 <!-- walk: y1v10 Ch3 → p.147 -->
+
+### y1v10 pp.180–181 — Ch.4: Supporting Yamauchi
+
+[scene] (p.180) Kushida reveals Sakayanagi Arisu is supporting Yamauchi behind the scenes to target Ayanokōji.
+[note] (p.180–181) This appears to violate her earlier agreement to postpone their match and not cast censure votes for Ayanokōji.
+[rel:yamauchi-haruki] (p.180) Supports him behind the scenes.
+[rel:ayanokouji-kiyotaka] (p.180–181) Her support of Yamauchi targets him.
+
+<!-- walk: y1v10 Ch4 → p.181 -->

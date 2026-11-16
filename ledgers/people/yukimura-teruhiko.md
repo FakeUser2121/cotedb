@@ -694,3 +694,11 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [scene] (p.87) The group agrees and decides to move forward.
 
 <!-- walk: y1v10 Ch3 → p.147 -->
+
+### y1v10 pp.152–153 — Ch.4: Classroom atmosphere
+
+[scene] (p.152) Messages Ayanokōji that he has no idea about the classroom change but notices something is different.
+[scene] (p.153) Confirms the gloomy atmosphere is gone after Ayanokōji points it out.
+[scene] (p.154) Reports to the Ayanokōji Group that there were signs a large group formed.
+
+<!-- walk: y1v10 Ch4 → p.181 -->

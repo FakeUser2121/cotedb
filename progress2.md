@@ -2720,3 +2720,17 @@ sakayanagi-arisu, kamuro-masumi, katsuragi-kouhei, totsuka-yahiko,
 hirata-yousuke, yukimura-teruhiko, hasebe-haruka, miyake-akito,
 sakura-airi, nagumo-miyabi, ledgers/volumes/y1v10.md. verify y1v10:
 ALL PASS; make check OK; gate exit 0. Next: ch4 pp.148–181.
+
+### y1v10 Chapter 4 — walked, shipped
+
+Chapter 4: Brother and Sister (pp.148–181). Classroom atmosphere shift
+suggests a large group formed; Ayanokōji Group lunch discussion; meeting
+with Horikita Manabu and Tachibana Akane; Kei warns Ayanokōji he is the
+target; Ayanokōji calls Manabu for strategy and Kushida reveals Yamauchi
+as tentative mastermind supported by Sakayanagi. Ledgers touched:
+ayanokouji-kiyotaka, sudou-ken, hirata-yousuke, horikita-suzune,
+yukimura-teruhiko, hasebe-haruka, miyake-akito, sakura-airi,
+horikita-manabu, tachibana-akane, karuizawa-kei, kushida-kikyou,
+yamauchi-haruki, sakayanagi-arisu, nagumo-miyabi,
+ledgers/volumes/y1v10.md. verify y1v10: ALL PASS; make check OK; gate
+exit 0. Next: ch5 pp.182–237.

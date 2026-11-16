@@ -388,3 +388,10 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [scene] (p.104) Messages Ayanokōji that nothing unusual has happened in the classroom.
 
 <!-- walk: y1v10 Ch3 → p.147 -->
+
+### y1v10 pp.154–161 — Ch.4: Ayanokōji Group discussion
+
+[scene] (p.154) Discusses the large group at lunch with the Ayanokōji Group.
+[scene] (p.158) Suggests talking about something more positive.
+
+<!-- walk: y1v10 Ch4 → p.181 -->

@@ -1710,3 +1710,7 @@ consecutive builds: `1a8afb9b6b224ad5ea2f225cf210ee72`.
 Year 1 Volume 10 Chapter 3 (pp.85–147) walked. Class Poll politics:
 Ichinose/Nagumo deal revealed, Sakayanagi targets Katsuragi. Determinism
 hash: `5927541cbc7102484dbdcc91f173cf23`.
+
+Year 1 Volume 10 Chapter 4 (pp.148–181) walked. Ayanokōji targeted in
+Class Poll; Yamauchi/Sakayanagi identified as masterminds. Determinism
+hash: `be8ab39d1e86f26dbe3599d47cc1e77b`.

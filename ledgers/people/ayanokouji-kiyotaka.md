@@ -4686,3 +4686,30 @@ walk: y1v1 → DONE
 [rel:hirata-yousuke] (p.128–132) Hirata seeks a way to avoid expulsion.
 
 <!-- walk: y1v10 Ch3 → p.147 -->
+
+### y1v10 pp.148–181 — Ch.4: The target and the mastermind
+
+[scene] (p.149) Walks to school with Sudō; Sudō says he does not want to be expelled.
+[scene] (p.150) Notices the classroom atmosphere has shifted to unusual unity.
+[scene] (p.152) Horikita notices the change; Ayanokōji messages Keisei about a possible large group.
+[scene] (p.154) Ayanokōji Group discusses the large group at lunch; Hirata looks distraught.
+[scene] (p.155) Receives a message and leaves to meet someone.
+[scene] (p.162) Meets Horikita Manabu and Tachibana Akane at a rest area.
+[scene] (p.163) Manabu explains third-years need private points for their own exams.
+[scene] (p.165) Ayanokōji and Manabu discuss Suzune and Nagumo’s moves.
+[says:horikita-manabu] (p.166) “I’ll do what I can.”
+[scene] (p.168) Kei calls to warn that around half the class plans to vote him out.
+[says:karuizawa-kei] (p.168) “everyone’s gonna vote you out of school.”
+[scene] (p.171) Calls Horikita Manabu to propose a strategy.
+[scene] (p.174) Calls Kushida; she reveals Yamauchi is the tentative mastermind.
+[says:kushida-kikyou] (p.179) “It’s Yamauchi-kun.”
+[says:kushida-kikyou] (p.180) “Sakayanagi-san from Class A seems to be the one supporting Yamauchi-kun.”
+[scene] (p.181) Ends the call with Kushida; decides to relay information to Manabu.
+[rel:horikita-manabu] (p.162–167, 171–173) Meets him; later calls to propose strategy.
+[rel:tachibana-akane] (p.162–167) Present at the meeting.
+[rel:karuizawa-kei] (p.168–170) Warns him he is the target.
+[rel:kushida-kikyou] (p.174–181) Reveals Yamauchi as tentative mastermind.
+[rel:yamauchi-haruki] (p.179) Named as tentative mastermind.
+[rel:sakayanagi-arisu] (p.180) Named as supporting Yamauchi behind the scenes.
+
+<!-- walk: y1v10 Ch4 → p.181 -->

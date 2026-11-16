@@ -626,3 +626,17 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [rel:ayanokouji-kiyotaka] (p.15–16) Backs Ayanokōji up against Nagumo.
 
 <!-- walk: y1v10 Prologue+Ch1 → p.29 -->
+
+### y1v10 pp.162–167, 171–173 — Ch.4: Meeting and strategy
+
+[scene] (p.162) Meets Ayanokōji with Tachibana at a rest area.
+[scene] (p.163) Explains third-years need private points for their own exams.
+[says] (p.163) “The special exam given to the third-years will probably be decided by the number of private points we have. We don’t have enough to leave any behind for our underclassmen.”
+[scene] (p.165) Discusses Suzune and Nagumo’s moves.
+[says] (p.166) “I’ll do what I can.”
+[scene] (p.171) Ayanokōji calls him to propose a strategy; he agrees to act tomorrow.
+[rel:ayanokouji-kiyotaka] (p.162–167, 171–173) Meets him and agrees to cooperate.
+[rel:tachibana-akane] (p.162–167) Present at the meeting.
+[rel:horikita-suzune] (p.164) Discusses Suzune’s situation.
+
+<!-- walk: y1v10 Ch4 → p.181 -->

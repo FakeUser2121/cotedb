@@ -431,3 +431,10 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [note] (p.99–101) Nagumo does not appear in person; his actions are reported by Asahina.
 
 <!-- walk: y1v10 Ch3 → p.147 -->
+
+### y1v10 pp.165–166 — Ch.4: Third-year politics
+
+[scene] (p.166) Tachibana reports Nagumo has been in close contact with third-year Class B recently.
+[note] (p.166) Nagumo does not appear in person; his moves are discussed at the meeting.
+
+<!-- walk: y1v10 Ch4 → p.181 -->

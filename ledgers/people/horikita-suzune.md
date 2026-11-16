@@ -2970,3 +2970,12 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ayanokouji-kiyotaka] (p.50, 73) Discusses exam cruelty; leaves with him.
 
 <!-- walk: y1v10 Ch2 → p.84 -->
+
+### y1v10 pp.152–153 — Ch.4: Classroom atmosphere
+
+[scene] (p.152) Notices the unusual unity in the classroom; asks what happened.
+[says] (p.152) “…What happened?”
+[scene] (p.153) Suggests Ayanokōji ask them himself if interested.
+[rel:ayanokouji-kiyotaka] (p.152–153) Discusses the classroom atmosphere with him.
+
+<!-- walk: y1v10 Ch4 → p.181 -->

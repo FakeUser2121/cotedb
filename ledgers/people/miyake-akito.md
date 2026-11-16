@@ -369,3 +369,10 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [says] (p.87) [Since we’re such a small group, that might be a good idea. I’m on board.]
 
 <!-- walk: y1v10 Ch3 → p.147 -->
+
+### y1v10 pp.154–161 — Ch.4: Ayanokōji Group discussion
+
+[scene] (p.154) Discusses the large group at lunch with the Ayanokōji Group.
+[scene] (p.158) Notes Hirata looks distraught.
+
+<!-- walk: y1v10 Ch4 → p.181 -->

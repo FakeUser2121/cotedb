@@ -1408,3 +1408,18 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [scene] (p.42) Kushida mentioned as someone who could be put in a position to cast censure votes for Horikita.
 
 <!-- walk: y1v10 Ch2 → p.84 -->
+
+### y1v10 pp.174–181 — Ch.4: Revealing the mastermind
+
+[scene] (p.174) Ayanokōji calls Kushida; she says she knows he is in a pinch.
+[scene] (p.176) Kushida says she is the only one who knows who the mastermind is.
+[says] (p.176) “I regret to have to inform you this, but I’m the only one who knows who the mastermind is.”
+[scene] (p.179) Kushida reveals Yamauchi Haruki is the tentative mastermind.
+[says] (p.179) “It’s Yamauchi-kun.”
+[scene] (p.180) Kushida reveals Sakayanagi Arisu is supporting Yamauchi behind the scenes.
+[says] (p.180) “Sakayanagi-san from Class A seems to be the one supporting Yamauchi-kun.”
+[rel:ayanokouji-kiyotaka] (p.174–181) Reveals Yamauchi as tentative mastermind and Sakayanagi’s support.
+[rel:yamauchi-haruki] (p.179) Named as tentative mastermind.
+[rel:sakayanagi-arisu] (p.180) Named as supporting Yamauchi.
+
+<!-- walk: y1v10 Ch4 → p.181 -->

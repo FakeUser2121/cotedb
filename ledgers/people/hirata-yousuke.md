@@ -1407,3 +1407,13 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:ayanokouji-kiyotaka] (p.128–132) Seeks his help to avoid an expulsion.
 
 <!-- walk: y1v10 Ch3 → p.147 -->
+
+### y1v10 pp.150–151 — Ch.4: Classroom atmosphere
+
+[scene] (p.150) Greets Ayanokōji; the classroom atmosphere has shifted to unusual unity.
+[says] (p.150) “Good morning Ayanokōji-kun.”
+[scene] (p.151) Looks at Ayanokōji with the same expression as always; does not seem to notice anything strange.
+[scene] (p.154) Ayanokōji Group observes Hirata looking distraught at lunch.
+[note] (p.154) Hirata is walking listlessly by himself, looking distraught despite being safe from expulsion.
+
+<!-- walk: y1v10 Ch4 → p.181 -->

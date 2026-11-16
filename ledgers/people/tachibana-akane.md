@@ -179,3 +179,18 @@ aliases used for anchors: tachibana, secretary, student council secretary
 [back] (p.165) The reference is to her being targeted during the training camp; Nagumo goes for weak points that are easy to exploit.
 
 <!-- walk: y1v9 ch7 → p.175 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->
+
+### y1v10 pp.162–167 — Ch.4: Meeting with Manabu and Ayanokōji
+
+[scene] (p.162) Present at the rest area meeting with Horikita Manabu and Ayanokōji.
+[says] (p.162) “…Greetings.”
+[scene] (p.163) Apologizes to Manabu for her mistake that cost Class A 20 million points.
+[says] (p.163) “I’m so sorry. If only I were more reliable…”
+[rel:horikita-manabu] (p.162–167) Stays beside him at the meeting.
+[rel:ayanokouji-kiyotaka] (p.162–167) Meets him at the rest area.
+
+<!-- walk: y1v10 Ch4 → p.181 -->
