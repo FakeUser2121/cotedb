@@ -1,6 +1,13 @@
 (function(){
 var d=document,h=d.documentElement,N=navigator;
-var ls=function(k,v){try{return v===undefined?localStorage.getItem(k):localStorage.setItem(k,v)}catch(e){return null}};
+var file=location.protocol==='file:';
+function wn(){try{var m=/(?:^|;)cotefx=([^;]*)/.exec(window.name);return m?JSON.parse(decodeURIComponent(m[1])):{}}catch(e){return{}}}
+var store={
+ get:function(k){if(file){var o=wn();if(k in o)return o[k]}try{return localStorage.getItem(k)}catch(e){return null}},
+ set:function(k,v){v=String(v);try{localStorage.setItem(k,v)}catch(e){}
+  if(file){var o=wn();o[k]=v;try{window.name='cotefx='+encodeURIComponent(JSON.stringify(o))}catch(e){}}}};
+window.COTE_STORE=store;
+var ls=function(k,v){return v===undefined?store.get(k):store.set(k,v)};
 var me=d.currentScript,base=((me&&me.src)||'').replace(/assets\/meta\.js.*$/,'');
 var mem=N.deviceMemory,cpu=N.hardwareConcurrency;
 var weak=(mem&&mem<=1)||(cpu&&cpu<=2);
@@ -38,7 +45,7 @@ function sync(){var b=d.getElementById('fxtoggle');if(!b)return;var on=h.dataset
  b.setAttribute('aria-pressed',on);
  b.title=on?'Animations on. Click for the static look.':'Animations off. Click to turn them on.'}
 function set(on){h.dataset.fx=on?'full':'static';if(on)loadFx();sync()}
-function mount(){var t=d.querySelector('.top');if(!t||d.getElementById('fxtoggle'))return;
+function mount(){var t=d.querySelector('.tools')||d.querySelector('.top');if(!t||d.getElementById('fxtoggle'))return;
  var b=d.createElement('button');b.id='fxtoggle';b.type='button';b.setAttribute('aria-label','Animations');b.innerHTML='<i></i>FX';
  b.onclick=function(){var on=h.dataset.fx!=='full';ls('fx',on?'on':'off');set(on)};
  t.appendChild(b);sync()}

@@ -65,5 +65,8 @@ const type=(w,el,v)=>{el.value=v;el.dispatchEvent(new w.Event('input',{bubbles:t
  await wait(500);ok(H.dataset.fx==='full','full mode can be switched on by the toggle');
  ok(!!$('.fxind'),'fx.js loads and mounts the tab indicator');
  const tk=$('.task');if(tk){tk.dispatchEvent(new w.MouseEvent('pointerdown',{bubbles:true}));ok(true,'pointerdown on a task does not throw')}
+ ok(!!$('.tools #fxtoggle'),'FX toggle sits inside the header tools row');
+ const th=$('#theme');if(th){click(w,th);const stored=decodeURIComponent(w.name||'');
+  ok(/"theme":"(light|dark)"/.test(stored),'theme choice is mirrored for file:// pages ('+stored+')')}
  w.close();
  console.log(fails?`\n${fails} FAILED`:'\nall browser checks passed');process.exit(fails?1:0)})();

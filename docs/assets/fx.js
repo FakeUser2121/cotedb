@@ -50,8 +50,11 @@ d.addEventListener('click',function(e){
 
 // ---- 3D tilt
 var TILT='.task,.card,.facts,.chap',cur=null,rect=null,px=0,py=0,pend=0,MAX=6;
-function paint(){pend=0;if(!cur)return;
- var x=(px-rect.left)/rect.width,y=(py-rect.top)/rect.height,s=cur.style;
+function syncRect(){if(!cur)return;rect=cur.getBoundingClientRect();
+ var w=rect.width||1,h=rect.height||1;MAX=Math.max(2,Math.min(8,2400/Math.max(w,h)))}
+function paint(){pend=0;if(!cur)return;syncRect();
+ var w=rect.width||1,h=rect.height||1,x=(px-rect.left)/w,y=(py-rect.top)/h,s=cur.style;
+ x=x<0?0:x>1?1:x;y=y<0?0:y>1?1:y;
  s.setProperty('--ry',((x-.5)*MAX*2).toFixed(2)+'deg');
  s.setProperty('--rx',((.5-y)*MAX*2).toFixed(2)+'deg');
  s.setProperty('--gx',(px-rect.left).toFixed(0)+'px');
@@ -59,12 +62,13 @@ function paint(){pend=0;if(!cur)return;
 function leave(){if(!cur)return;
  cur.classList.remove('fx-tilt');
  ['--rx','--ry','--gx','--gy'].forEach(function(k){cur.style.removeProperty(k)});
- cur=null}
+ cur=null;rect=null}
 function enter(el,x,y){if(cur===el)return;leave();
- var r=el.getBoundingClientRect();if(r.height>600||r.width<40)return;
- cur=el;rect=r;MAX=Math.max(2,Math.min(8,2400/Math.max(r.width,r.height)));
+ var r=el.getBoundingClientRect();
+ if(r.width<40||(r.height>600&&!el.matches('details.chap')))return;
+ cur=el;syncRect();
  el.classList.add('fx-tilt');move(x,y)}
-function move(x,y){px=x;py=y;if(!pend){pend=1;raf(paint)}}
+function move(x,y){if(!cur)return;px=x;py=y;if(!pend){pend=1;raf(paint)}}
 function hit(e){return e.target&&e.target.closest?e.target.closest(TILT):null}
 
 d.addEventListener('pointermove',function(e){
@@ -73,6 +77,9 @@ d.addEventListener('pointermove',function(e){
  if(t!==cur)enter(t,e.clientX,e.clientY);else move(e.clientX,e.clientY)},{passive:true});
 d.addEventListener('mouseout',function(e){if(cur&&!cur.contains(e.relatedTarget))leave()});
 d.addEventListener('scroll',function(){if(cur&&mouse)leave()},{passive:true,capture:true});
+d.addEventListener('toggle',function(e){if(!cur||!on())return;var t=e.target;
+ if(t===cur||cur.contains(t)||t.contains(cur)){syncRect();if(!pend){pend=1;raf(paint)}}},true);
+addEventListener('resize',function(){if(cur&&mouse)syncRect()});
 
 d.addEventListener('pointerdown',function(e){
  if(!on()||e.button>0)return;

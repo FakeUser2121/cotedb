@@ -231,7 +231,7 @@ def build_character(c):
     roles = posts(c)
     info = facts([("Class", esc(c["class"])), ("Posts", esc(roles)),
                   ("Appears in", " · ".join(yname(y) for y in years)),
-                  ("Named in", f"{len(named)} volumes"),
+                  ("Named in", plural(len(named), "volume")),
                   ("Read so far", f"{len(sc)} scenes, {c['lines']} quoted lines"),
                   ("First read scene", f'{ent(P, "volumes", first["vol"])} <span class="pg">{esc(first["pages"])}</span>' if first else "")])
     items = [item(P, s, ("people", cid)) for s in sc]
@@ -394,7 +394,7 @@ def entity_page(kind, e, rel, section, sec_rel, kicker):
         sections.append(("scenes", "Scenes"))
         body += '<h2 id="scenes">Scenes</h2>' + cards_block(P, [item(P, s, (kind, eid), LISTED if s["owner"] == (kind, eid) else ()) for s in scenes])
     else:
-        body += f'<p class="empty">Nothing here has been read line by line yet. It is named in {len(e["volumes"])} volumes, listed below.</p>'
+        body += f'<p class="empty">Nothing here has been read line by line yet. It is named in {plural(len(e["volumes"]), "volume")}, listed below.</p>'
     sections.append(("named", "Named in"))
     body += '<h2 id="named">Named in</h2><ul class="plain cols">' + "".join(
         f'<li data-o="{m.vol[v]["ord"]}">{ent(P, "volumes", v)}</li>' for v in e["volumes"]) + "</ul>"
@@ -410,7 +410,7 @@ def build_school():
 
     def lis(kind, ents):
         return "".join(f'<li>{dot("partial" if m.scenes_of(kind, e["id"]) else "stub")} {ent(P, kind, e["id"])} '
-                       f'<span class="n">{esc(e.get("kind", ""))}{" · " if e.get("kind") else ""}{len(e["volumes"])} volumes</span></li>' for e in ents)
+                       f'<span class="n">{esc(e.get("kind", ""))}{" · " if e.get("kind") else ""}{plural(len(e["volumes"]), "volume")}</span></li>' for e in ents)
     body = (f'<h2 id="exams">Exams <span class="n">{len(ex)}</span></h2><ul class="plain vols">{lis("exams", ex)}</ul>'
             f'<h2 id="systems">Systems <span class="n">{len(m.systems)}</span></h2><ul class="plain vols">{lis("systems", sorted(m.systems.values(), key=lambda e: e["name"]))}</ul>')
     add("school/index.html", h1="Exams & School", body=body, trail=[("Exams & School", "school/index.html")],
@@ -430,7 +430,7 @@ def build_world():
     body = ""
     for k in sorted(kinds):
         lis = "".join(f'<li>{dot("partial" if m.scenes_of("places", p["id"]) or m.scenes_tagged("places", p["id"]) else "stub")} '
-                      f'{ent(P, "places", p["id"])} <span class="n">{len(p["volumes"])} volumes</span></li>'
+                      f'{ent(P, "places", p["id"])} <span class="n">{plural(len(p["volumes"]), "volume")}</span></li>'
                       for p in sorted(kinds[k], key=lambda p: p["name"]))
         body += f'<h2 id="{R.m and fold(k).replace(" ", "-")}">{esc(k)}</h2><ul class="plain vols">{lis}</ul>'
     add("world/index.html", h1="World & Places", body=body, trail=[("World & Places", "world/index.html")],
@@ -589,6 +589,11 @@ def build_redirects():
 
 
 # ------------------------------------------------------------------- main
+def plural(n, word):
+    """'1 volume', '14 volumes'."""
+    return f"{n} {word}" + ("" if n == 1 else "s")
+
+
 def service_worker(files):
     """Offline cache worker. Its version is a hash of every page and asset, so any change retires the old cache."""
     h = hashlib.md5()
