@@ -2945,3 +2945,20 @@ Tachibana Akane. Ledgers touched: `ledgers/volumes/y1v11.5.md`,
 `ledgers/people/hoshinomiya-chie.md`, `ledgers/people/sakagami.md`.
 `verify --vol y1v11.5`: ALL PASS; `build`/`gate`/`make check` OK; hash
 stable `e5b41a99926b0436ec5c0f0ac722c58d`. Next: y1v11.5 ch2 pp.121–143.
+
+### y1v11.5 Ch.2 — walked, shipped
+
+Chapter 2 "Date Hiyori" (pp.121–143). Spring break begins; Ayanokōji
+reflects on his contract with Kushida and meets Shiina Hiyori at Keyaki
+mall café. They overhear Ike Kanji and Shinohara Satsuki discuss Class D,
+grades, and expulsion fears before the pair notice them and leave.
+Hiyori asks Ayanokōji about Ryūen’s change and Class C’s strategy
+against Class B, and agrees to pass a message to Ryūen. Ayanokōji then
+has a brief encounter with Karuizawa Kei, who leaves wary of rumors.
+Ledgers touched: `ledgers/volumes/y1v11.5.md`,
+`ledgers/people/ayanokouji-kiyotaka.md`,
+`ledgers/people/shiina-hiyori.md`, `ledgers/people/ike-kanji.md`,
+`ledgers/people/shinohara-satsuki.md`,
+`ledgers/people/karuizawa-kei.md`. `verify --vol y1v11.5`: ALL PASS;
+`build`/`gate`/`make check` OK; hash stable
+`46ca9d3997bf8a1c5f991590fea07c2f`. Next: y1v11.5 ch3 pp.144–236.

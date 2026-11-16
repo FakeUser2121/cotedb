@@ -1004,3 +1004,18 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:ayanokouji-kiyotaka] (p.470–474) Invites him to join the VR game.
 
 <!-- walk: y1v11 ch10 → p.476 -->
+
+### y1v11.5 pp.128–134 — Ch.2: Café conversation
+
+[scene] (p.128) Ike sits at the Keyaki mall café with Shinohara during spring break, unaware that Ayanokōji and Hiyori are nearby.
+[scene] (p.129) He talks with Shinohara about the drop in private points, Class D’s demotion, and accepts blame for part of the class’s loss.
+[scene] (p.130) Ike says he wants to try harder next year in academics and sports, citing Sudō and Yamauchi as reasons.
+[scene] (p.131) He admits fear that he could become the next student expelled if he does not improve.
+[scene] (p.132) Ike begins to tell Shinohara something serious before their conversation is interrupted.
+[scene] (p.133) He reacts in surprise after noticing Ayanokōji and Hiyori at the café.
+[scene] (p.134) Ike argues with Shinohara and leaves the café with her.
+[rel:shinohara-satsuki] (p.128–134) Talks with her about the exam and their futures before leaving together.
+[rel:ayanokouji-kiyotaka] (p.133–134) Is noticed by him in the café.
+[rel:shiina-hiyori] (p.133–134) Is seen with Ayanokōji in the café.
+
+<!-- walk: y1v11.5 ch2 → p.143 -->

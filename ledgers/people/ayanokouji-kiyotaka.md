@@ -5063,3 +5063,28 @@ walk: y1v1 → DONE
 [rel:sakagami-kazuma] (p.47–87) Present in the meeting about exam interference.
 
 <!-- walk: y1v11.5 ch1 → p.120 -->
+
+### y1v11.5 pp.121–143 — Ch.2: Date Hiyori
+
+[scene] (p.121) At the start of spring break, Ayanokōji reflects on campus life during the break and his situation after the end-of-year exam.
+[scene] (p.122) He notes his contract requires him to hand over half his private points to Kushida each month and considers how that relationship may change.
+[scene] (p.124) Ayanokōji meets Shiina Hiyori at Keyaki mall; she has arrived early carrying newly added library books.
+[says:shiina-hiyori] (p.124) “Hello, Ayanokouji-kun.”
+[scene] (p.127) He and Hiyori take seats at a crowded café and prepare to talk about books.
+[scene] (p.128) Ike Kanji and Shinohara Satsuki sit nearby; Hiyori recognizes them as Ayanokōji’s classmates.
+[scene] (p.129) Ayanokōji listens as Ike and Shinohara discuss the drop in private points, Class D’s demotion, and Ike’s sense of responsibility for the loss.
+[scene] (p.131) He hears Ike express fear of becoming the next expulsion candidate and Shinohara respond seriously.
+[scene] (p.132) Ike begins to say something important to Shinohara before being interrupted when she notices Ayanokōji and Hiyori.
+[scene] (p.134) After an awkward exchange and argument, Ike and Shinohara leave the café.
+[scene] (p.136) Hiyori asks Ayanokōji about the end-of-year exam and whether he changed Ryūen.
+[scene] (p.137) She explains she connected Ryūen’s withdrawal and later behavior, including inquiries involving Ishizaki and Ibuki.
+[scene] (p.138) Hiyori discusses Class C’s risky strategy against Class B and asks for Ayanokōji’s view.
+[scene] (p.141) Ayanokōji asks Hiyori to pass Ryūen a message that he could have secured more than five wins by a better method.
+[scene] (p.142) After parting with Hiyori, Ayanokōji meets Karuizawa Kei at Keyaki mall.
+[scene] (p.143) Kei, concerned about rumors, leaves after Ayanokōji says he will contact her later.
+[rel:shiina-hiyori] (p.124–142) Meets her at the café to discuss books and Ryūen.
+[rel:ike-kanji] (p.128–134) Overhears his conversation with Shinohara.
+[rel:shinohara-satsuki] (p.128–134) Overhears her conversation with Ike.
+[rel:karuizawa-kei] (p.142–143) Meets her briefly after the café meeting.
+
+<!-- walk: y1v11.5 ch2 → p.143 -->

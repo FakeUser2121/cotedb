@@ -233,3 +233,24 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [rel:ryuuen-kakeru] (p.382–399) Invites him, waits for him, and supports his plan against Class B.
 
 <!-- walk: y1v11 ch9 → p.399 -->
+
+### y1v11.5 pp.124–142 — Ch.2: Café meeting with Ayanokōji
+
+[scene] (p.124) Hiyori meets Ayanokōji at Keyaki mall at the start of spring break, already waiting with newly added library books.
+[says] (p.124) “Hello, Ayanokouji-kun.”
+[scene] (p.125) She says she wanted to share information about the new books as soon as possible.
+[says] (p.125) “I wanted to share some information with Ayanokouji-kun as soon as possible.”
+[scene] (p.127) At the crowded café, Hiyori remarks on how unusual it feels to meet on a holiday.
+[scene] (p.128) She recognizes Ike and Shinohara sitting nearby and notes she has come to know many students from other classes.
+[scene] (p.135) After Ike and Shinohara leave, Hiyori returns to what she wanted to discuss with Ayanokōji.
+[scene] (p.136) She asks Ayanokōji about the end-of-year exam and whether he changed Ryūen.
+[scene] (p.137) Hiyori explains she reached her suspicion by connecting Ryūen’s withdrawal and by asking Ishizaki and Ibuki about him.
+[scene] (p.138) She discusses Class C’s victory over Class B as risky and asks Ayanokōji for his perspective.
+[scene] (p.140) Hiyori says Ryūen might listen to criticism from someone he acknowledges as more powerful.
+[scene] (p.141) She agrees to pass Ayanokōji’s message to Ryūen that he could have secured more than five wins by a better method.
+[scene] (p.142) Before leaving, she lends Ayanokōji the book she brought.
+[rel:ayanokouji-kiyotaka] (p.124–142) Meets him at the café, discusses books and Ryūen, and relays his message.
+[rel:ike-kanji] (p.128–134) Recognizes him in the café.
+[rel:shinohara-satsuki] (p.128–134) Recognizes her in the café.
+
+<!-- walk: y1v11.5 ch2 → p.143 -->

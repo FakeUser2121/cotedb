@@ -249,3 +249,17 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [rel:ayanokouji-kiyotaka] (p.353) Is chosen by him for the English test.
 
 <!-- walk: y1v11 ch8 → p.367 -->
+
+### y1v11.5 pp.128–135 — Ch.2: Café conversation
+
+[scene] (p.128) Shinohara sits at the Keyaki mall café with Ike during spring break, talking without noticing Ayanokōji and Hiyori nearby.
+[scene] (p.129) She listens as Ike discusses Class D’s situation and takes responsibility for part of the loss.
+[scene] (p.130) Shinohara responds skeptically but continues the conversation as Ike talks about improving.
+[scene] (p.131) She reacts seriously when Ike says he could become the next expulsion candidate.
+[scene] (p.133) Shinohara notices Ayanokōji and Hiyori and interrupts the moment between her and Ike.
+[scene] (p.134) She denies being on a date with Ike, argues with him, and leaves the café together with him.
+[rel:ike-kanji] (p.128–135) Talks with him at the café and leaves with him after an argument.
+[rel:ayanokouji-kiyotaka] (p.133–134) Notices him at the café.
+[rel:shiina-hiyori] (p.133–134) Notices her with Ayanokōji at the café.
+
+<!-- walk: y1v11.5 ch2 → p.143 -->

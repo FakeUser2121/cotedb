@@ -1267,3 +1267,12 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:ayanokouji-kiyotaka] (p.456–458) Receives the necklace from him and reflects on her feelings.
 
 <!-- walk: y1v11 ch10 → p.476 -->
+
+### y1v11.5 pp.142–143 — Ch.2: Brief meeting at Keyaki mall
+
+[scene] (p.142) Karuizawa encounters Ayanokōji at Keyaki mall after his meeting with Hiyori.
+[scene] (p.142) She appears unhappy and refuses to sit down, worried that being seen together could start rumors.
+[scene] (p.143) After Ayanokōji says he will contact her later, Karuizawa leaves in a bad mood.
+[rel:ayanokouji-kiyotaka] (p.142–143) Meets him briefly and leaves upset over the situation and rumors.
+
+<!-- walk: y1v11.5 ch2 → p.143 -->
