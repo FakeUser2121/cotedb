@@ -1448,8 +1448,11 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [scene] (p.233) Sits alone on a bench outside the dorms with a defeated expression.
 [scene] (p.234) When Ayanokōji speaks to him, Hirata says he wanted to talk as well.
 [scene] (p.235) He says he hates leaving someone behind and asks Ayanokōji to lead Class C in his stead.
+[says] (p.235) “Having to leave someone behind… I hate it.”
 [says] (p.235) “Could I entrust it to you?”
 [scene] (p.236) He says it is impossible for him to continue leading and that he can no longer do it.
+[says] (p.236) “That’s impossible. I… just can’t do that anymore.”
+[says] (p.236) “I’m glad I talked with you. I… I really feel like I might be able to find an answer now.”
 [rel:horikita-suzune] (p.200, 221–225) Opposes her nomination process and says he will vote for her.
 [rel:ayanokouji-kiyotaka] (p.233–237) Talks with him on the bench and asks him to lead the class.
 [rel:yamauchi-haruki] (p.219–221) Refuses to accept expelling him despite the accusations.
@@ -1460,6 +1463,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 [scene] (p.288) Before the vote, apologises to Horikita for saying he would vote against her the previous day.
 [scene] (p.289) Stands at the podium and says he has decided Horikita is necessary and asks everyone to cast censure votes for him.
+[says] (p.289) “I decided that you are necessary for the success of our class.”
 [says] (p.289) “I want everyone to cast a censure vote for me.”
 [scene] (p.290) Says he is prepared to be expelled and refuses to change his mind.
 [scene] (p.291) Claims he has come to hate the class and asks them to let him make it easier.

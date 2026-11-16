@@ -1003,6 +1003,14 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [scene] (p.40) Warns that losing could drop Class C back to Class D and explains class-point changes.
 [rel:ike-kanji] (p.29–32) Encourages him to ask questions and uses his example.
 [rel:horikita-suzune] (p.33, 35, 38) Answers her questions about events, rules, and matchups.
+[says] (p.28) “-Without any further ado, I will now announce the final special exam.”
+[says] (p.28) “We will be finishing off the year with one final special exam where you’ll be asked to show off a culmination of everything that you’ve learned up until now, including knowledge, physical ability, cooperation, and maybe even a little bit of luck. In short, all of you will need to demonstrate the full extent of your potential.”
+[says] (p.28) “The special exam is called the ‘Event Selection Exam’, an exam where each class will compete in terms of their comprehensive ability. The class you’ll be competing against will be decided in accordance with the rules, similar to how it was during the Paper Shuffle exam.”
+[action] (p.29) Attaches ten white cards and yellow name cards to the blackboard to illustrate the exam.
+[says] (p.29) “To start things off, I’ll use these cards to make the explanation easier for all of you to understand. There are ten white cards and a certain number of yellow ones, modeled after the number of students in the class.”
+[says] (p.30) “If there’s something on your mind, why don’t you speak up?”
+[says] (p.30) “Either way, I just can’t get ahold of myself unless you get this nonsense off your chest.”
+[says] (p.32) “Okay, so let’s suppose you chose rock-paper-scissors as one of the events.”
 
 <!-- walk: y1v11 ch3 → p.54 -->
 

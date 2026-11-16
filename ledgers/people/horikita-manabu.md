@@ -659,6 +659,33 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [scene] (p.195) Encourages Suzune to take a step forward and tells her he will help her find the answers she is looking for.
 [rel:horikita-suzune] (p.186–195) Meets her, questions her, and helps her find resolve before the class vote.
 [rel:ayanokouji-kiyotaka] (p.194) Gives Suzune his assessment that she will not catch up to Ayanokōji.
+[says] (p.187) “You said you wanted to talk?”
+[says] (p.187) “What did you want to talk about?”
+[says] (p.187) “Is that really important right now? Is this really what you needed to talk to me about over the phone?”
+[says] (p.188) “In person?”
+[says] (p.188) “When you first enrolled here, I suggested that it would be better for you to drop out. The moment you rejected my offer, your relationship with me was over. You do understand that, don’t you?”
+[says] (p.188) “Alright, I understand.”
+[says] (p.190) “How long has it been since the two of us talked alone like this?”
+[says] (p.190) “I see. It has probably been around that long.”
+[says] (p.190) “You said that you wanted to talk with me, so let’s hear it.”
+[says] (p.191) “Mhm. Each class is being forced to expel one student.”
+[says] (p.191) “And?”
+[says] (p.191) “If you’re asking about my own personal supply of private points, it was nearly exhausted back during the training camp. In which case, you’re just wasting your time.”
+[says] (p.192) “How much time do you have?”
+[says] (p.192) “Really?”
+[says] (p.192) “Then, I’d like to ask you a few things before I hear you out. What do you think of this school?”
+[says] (p.192) “Are you enjoying it here?”
+[says] (p.193) “Is that so?”
+[says] (p.193) “It seems you’ve managed to overcome one of your shortcomings.”
+[says] (p.193) “Indeed. You focused so much on yourself that you never paid attention to what was going on around you. By broadening your own horizons, you’ve managed to break away from spending your days in boredom.”
+[says] (p.193) “You only ever paid attention to my academic achievements, always obsessed with scoring high on tests.”
+[says] (p.193) “Role model, huh?”
+[says] (p.194) “What do you think of Ayanokōji?”
+[says] (p.194) “Just tell me your honest impression of him.”
+[says] (p.194) “That said, there’s no need for you to catch up with him. It’s absolutely fine for you to grow at your own pace.”
+[says] (p.194) “Are you scared?”
+[says] (p.195) “To get closer, you have to be willing to take a step forward.”
+[says] (p.195) “Let me help you find the answers you’re looking for. So tell me, what do you want to put forward to your class?”
 
 <!-- walk: y1v10 Ch5 → p.237 -->
 

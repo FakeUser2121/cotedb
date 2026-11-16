@@ -778,6 +778,7 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [scene] (p.198) Tries to leave with Ike after school before Horikita can speak, but is forced to stay.
 [scene] (p.201) Horikita nominates him for expulsion as the student with the lowest contribution to the class.
 [scene] (p.202) He protests and tries to deflect blame onto others, including Ike and Sudō.
+[says] (p.202) “W-why me, Horikitaa!?”
 [scene] (p.206) When Horikita presses for the mastermind, Yamauchi first blames Ike, then says Kushida asked him to help target Ayanokōji.
 [says] (p.206) “No, no! So, err… Kikyō-chan came to me, asking for help… She said that there was someone who was in a lot of trouble, so she needed me to cast my censure vote for Ayanokōji.”
 [scene] (p.207) He insists Kushida told him to do it as the class turns against him.

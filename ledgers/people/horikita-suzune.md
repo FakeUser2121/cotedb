@@ -3053,6 +3053,32 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:kushida-kikyou] (p.207–209) Rebukes her for helping target Ayanokōji.
 [rel:hirata-yousuke] (p.200, 219–221) Overrules his attempt to stop the discussion.
 [rel:sudou-ken] (p.216–217) Rejects his plea to protect Yamauchi.
+[says] (p.187) “…It’s me. Suzune.”
+[says] (p.187) “Yes…”
+[says] (p.187) “…Uh, your message… Why did you send me it…”
+[says] (p.187) “N-no that’s not it.”
+[says] (p.187) “If it’s okay with you… would you be willing to meet with me in person?”
+[says] (p.188) “Y-yes.”
+[says] (p.188) “It’s something I want to ask you about in person.”
+[says] (p.188) “This will be the last time… After this, I will not involve myself with you ever again.”
+[says] (p.190) “Sorry to keep you waiting…”
+[says] (p.190) “…If we don’t count what happened immediately after I enrolled here, about three years…”
+[says] (p.191) “It has to do with this supplementary exam. You’re aware of what the firstyears are going through, right?”
+[says] (p.191) “Yes.”
+[says] (p.191) “It’s nothing like that. I had never considered asking you for that kind of support.”
+[says] (p.191) “I want to face this exam head-on. Other people are forming groups, trying to take control of the votes in order to ensure that they’re safe from expulsion. But, they’ll definitely regret doing that later on down the line. That’s why I… I want to stand up against them.”
+[says] (p.192) “I don’t have any plans after this…”
+[says] (p.192) “I-I’m sorry. That, uh…”
+[says] (p.193) “Whether or not I enjoy being here… I honestly don’t know. At the very least, it’s not boring.”
+[says] (p.193) “My shortcomings…?”
+[says] (p.193) “You somehow… seem different today.”
+[says] (p.193) “That’s because… you’ve always been my role model.”
+[says] (p.193) “…I understand. That it’s absolutely impossible for me to catch up with you. But still, striving to shorten the distance as much as possible shouldn’t be a bad thing.”
+[says] (p.194) “…What do I, think of him?”
+[says] (p.194) “He’s an irritable classmate. Even though he’s capable enough to be recognized by you, I don’t like how he doesn’t even try to make use of it. But, I think that, someday, I’ll be able to catch up with him and, hopefully, surpass him.”
+[says] (p.194) “My own pace…”
+[says] (p.194) “…Yes…”
+[says] (p.195) “What can I do…? What can I do to get rid of this distance…?”
 
 <!-- walk: y1v10 Ch5 → p.237 -->
 

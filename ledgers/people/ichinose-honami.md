@@ -1234,6 +1234,13 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:shibata-sou] (p.253–254) Supports her and transfers his points.
 [rel:hoshinomiya-chie] (p.252–253) Her teacher worries but listens as Ichinose addresses the class.
 [rel:nagumo-miyabi] (p.255) Borrows the remaining private points from him with no interest.
+[says] (p.252) “Everyone, thank you for everything you’ve done this past week. I’m grateful that you all went along with my selfish request.”
+[says] (p.254) “There’s only one way to ensure that everyone survives this provisional exam, right?”
+[says] (p.254) “That’s why I’d like to ask everybody to entrust me with all your private points. You won’t have any spending points until April, but this way, everyone can be saved.”
+[says] (p.255) “Yup, just as calculated, we’re roughly four million points short.”
+[says] (p.255) “Of course, we’ll have to pay him back afterward.”
+[says] (p.256) “Our repayment period is three months, and there’s no interest.”
+[says] (p.256) “Because of this, I feel like I’ll be inconveniencing everyone for a little while… Is that alright?”
 
 <!-- walk: y1v10 Ch6 → p.285 -->
 
