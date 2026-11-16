@@ -1373,3 +1373,27 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [status] (p.165) Reported as handled; the call moves on without further detail.
 
 <!-- walk: y1v9 ch7 → p.175 -->
+
+### y1v9 p.186–200 — The midnight negotiation
+
+[scene] (p.186) Comes to Ayanokōji’s room at midnight February 11 with Valentine chocolate.
+[says] (p.186) “Sorry for calling you at such a bad time. If you don’t mind, please come in.”
+[scene] (p.187) Ayanokōji asks for personal information about first-years to stop the Ichinose rumors; she resists betraying friends.
+[says] (p.187) “I’m on good terms with Ichinose-san as well. If there’s anything I can do for her, I’d want to do that.”
+[says] (p.187) “I can’t just betray my friends.”
+[scene] (p.188) Ayanokōji explains the plan to escalate rumors so the school cannot sit back; Class A would be first suspect.
+[scene] (p.189) Ayanokōji reveals he knows she is recording (phone and backup recorder); she stops the recording.
+[says] (p.189) “So you already knew? That I’ve been recording?”
+[scene] (p.190) Asks for Horikita’s withdrawal as her condition; Ayanokōji refuses; he offers half of all future private points.
+[says] (p.190) “Horikita Suzune’s withdrawal from school.”
+[says] (p.190) “Unacceptable.”
+[scene] (p.191) Accepts the deal; takes out a backup voice recorder; Ayanokōji’s defense is making himself useful to her.
+[says] (p.191) “Alright, I’m on board.”
+[says] (p.192) “I have all the evidence I need right here. If you betray me at all… you know what will happen, yes?”
+[scene] (p.193) Begins sharing secrets: crushes, hatreds, family circumstances, past delinquency.
+[scene] (p.195) Explains the surface group chat versus the hidden group chat that badmouths excluded members; dozens of such two-faced groups; leaves.
+[says] (p.195) “For example, there’s this group chat, we’ll call it group A… there’s a second group chat, made by the same girls. Let’s call that one group B.”
+[says] (p.195) “It’s late, I’m going home. I’m looking forward to the outcome of our agreement, Ayanokōji-kun.”
+[rel:ayanokouji-kiyotaka] (p.186–195) Negotiates for her secrets; accepts half his future private points and provides both recordings as insurance.
+
+<!-- walk: y1v9 Epilogue → p.200 -->

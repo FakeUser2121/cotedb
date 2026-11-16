@@ -2633,3 +2633,49 @@ who-knew-what. New tags: none. New entities: shiranami-chihiro ledger file
 y1v9: 467 [says] (0 skipped) + 77 non-says ALL PASS; make check OK
 (R18 0, R19 82/82); gate exit 0; hash
 `2e1d8cdb9fdba31f8b60985244261f7a` twice. Next: ch8 pp.176–200.
+### y1v9 chapters 8–10 (Epilogue + Short Stories) — walked, shipped
+
+Epilogue: The Return (pp.176–225) and Short Stories (pp.226–238). Epilogue
+covers Ichinose’s confession to Class B, Sakayanagi’s attack and the school’s
+rumor ban, Sakayanagi’s challenge to Ayanokōji (ranking competition with
+mutual stakes), the February 11 midnight negotiation with Kushida (half of
+future private points for her secrets, both recordings as insurance), the
+rumor operation via Kiriyama on the school forums, Ayanokōji’s repeated
+visits to Ichinose’s door until she confesses, end-of-year exam day and
+Ichinose’s Valentine chocolate, plus short stories “The First Gift”
+(Ichinose) and “A Special Day for Students” (Karuizawa). Short Stories:
+“Kamuro’s Intention”, “Reliable Classmates?” (Satō), “Sakayanagi’s
+Preparations” (Ryuuen, Yamauchi).
+
+Ledgers touched: ayanokouji-kiyotaka, ichinose-honami, sakayanagi-arisu,
+kushida-kikyou, hashimoto-masayoshi, kamuro-masumi, kanzaki-ryuuji,
+shibata-sou, nagumo-miyabi, hoshinomiya-chie, chabashira-sae,
+horikita-suzune, hasebe-haruka, miyake-akito, karuizawa-kei, shiina-hiyori,
+kiriyama-ikuto, satou-maya, ryuuen-kakeru, yamauchi-haruki,
+ledgers/volumes/y1v9.md.
+
+New entities: none. New tags: none. Defects kept as printed: p.188
+“end-ofyear”; p.191 “Chabashirasensei” (missing hyphen); p.224 “Valen---”;
+blank pages p.175, p.200, p.205, p.221, p.238; printed page numbers 170 on
+p.176 and 195 on p.201. Attribution gaps: none — all speakers tagged.
+
+verify y1v9: 83 [says] ALL PASS + non-says ALL PASS; make check OK; gate
+exit 0; hash stable. Next: volume-end coverage gate.### y1v9 volume-end coverage gate — walked, shipped
+
+Locator vs ledger pages for all 51 roster characters with y1v9 in their
+volumes cell. Real gaps (word-boundary name on a locator hit page with no
+row cite) got grouped passing-mention entries in the volume Coverage notes
+section (hirata-yousuke, hondou-ryoutaro, horikita-manabu, ibuki-mio,
+ishizaki-daichi, kitou-hayato, karuizawa-kei, katsuragi-kouhei,
+mori-nene, onodera/onodera-kayano, ryuuen-kakeru, sakura-airi, satou-maya,
+shinohara-satsuki, sudou-ken, yamauchi-haruki). Substring FPs and
+wrong-person hits recorded in the volume Coverage notes (ike=like,
+kei inside Keisei, Horikita = Suzune vs Manabu, Onodera = student vs
+Kayano, Ayanokōji = Kiyotaka vs Atsuomi, Sudō as passing mention only).
+amikura-mako / asakura-mako list y1v9 but have no name hit on most pages
+(carried from y1v8); shiranami-chihiro has zero locator hits (noted).
+No character was found in the volume missing from their volumes cell.
+Closing stamp added to ledgers/volumes/y1v9.md.
+
+verify y1v9: 83 [says] ALL PASS + non-says ALL PASS; make check OK
+(R18 0, R19 82/82); gate exit 0; hash stable. Next: ship.

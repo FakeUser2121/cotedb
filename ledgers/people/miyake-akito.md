@@ -341,3 +341,11 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [says] (p.168) “It looks like I don’t have any other choice. If it turns into the same type of thing that happened a few days ago, somebody will have to be there to stop it.”
 
 <!-- walk: y1v9 ch7 → p.175 -->
+
+### y1v9 p.181 — The school’s intervention
+
+[scene] (p.181) Gives a straightforward account of what happened in Class B.
+[says] (p.181) “It went in an unexpected direction. Ichinose managed to repel Sakayanagi.”
+[rel:ayanokouji-kiyotaka] (p.181) Informed of the Ichinose rumors and the school’s ban.
+
+<!-- walk: y1v9 Epilogue → p.200 -->

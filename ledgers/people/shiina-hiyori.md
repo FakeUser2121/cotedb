@@ -209,3 +209,10 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [rel:hashimoto-masayoshi] (p.164) Takes his complaint head-on until he agrees to call it a day.
 
 <!-- walk: y1v9 ch7 → p.175 -->
+
+### y1v9 p.202 — The rumors
+
+[scene] (p.202) Meets Ayanokōji at the library; their conversation is a preface for the rumors that will spread the following day.
+[rel:ayanokouji-kiyotaka] (p.202) Conversation used as cover for the rumor operation.
+
+<!-- walk: y1v9 Epilogue → p.225 -->

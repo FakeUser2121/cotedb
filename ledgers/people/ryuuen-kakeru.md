@@ -1479,3 +1479,14 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [back] (p.158) Invoked by Ishizaki against Hashimoto: Class D is no longer under his leadership.
 
 <!-- walk: y1v9 ch7 → p.175 -->
+
+### y1v9 p.232–236 — Short story: Sakayanagi’s Preparations
+
+[scene] (p.232) Sakayanagi visits Ryuuen after school and proposes studying together; he refuses.
+[says] (p.233) “I have no intention of having a casual chat with you.”
+[scene] (p.233) Ryuuen asks why Sakayanagi deals with his point swindling; she explains Class A feeds him because there is no risk and Katsuragi will never make a comeback.
+[says] (p.235) “I’m swindling large amounts of private points from you incompetent lot every month thanks to my contract with Katsuragi. Why are you dealing with that?”
+[scene] (p.236) Sakayanagi warns him to save up 20 million points; Ryuuen walks off.
+[rel:sakayanagi-arisu] (p.232–236) Sakayanagi visits him; they discuss the point contract and his status.
+
+<!-- walk: y1v9 Short Stories → p.238 -->

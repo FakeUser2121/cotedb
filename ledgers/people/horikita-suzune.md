@@ -2920,3 +2920,12 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ichinose-honami] (p.168) Goes to Class B for Ichinose the moment she reads Sakayanagi’s timing.
 
 <!-- walk: y1v9 ch7 → p.175 -->
+
+### y1v9 p.181 — The school’s intervention and the phone call
+
+[scene] (p.181) Observes that the school’s move saves every class; Sakayanagi’s simultaneous framing of all classes backfired.
+[thinks] (p.181) Sakayanagi went a bit too far — she attempted to frame each class with the same strategy at the same time, but it backfired because it attracted the school’s attention.
+[says] (p.181) “Let’s withdraw here. Now that the school has made their move, our presence is no longer necessary.”
+[rel:sakayanagi-arisu] (p.181) Notes her strategy backfired.
+
+<!-- walk: y1v9 Epilogue → p.200 -->

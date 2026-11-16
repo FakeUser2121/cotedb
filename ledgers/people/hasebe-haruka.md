@@ -357,3 +357,11 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [action] (p.167) Her sandwich hits the floor when Ike bursts in; she glares and demands to know what he thinks he is doing.
 
 <!-- walk: y1v9 ch7 → p.175 -->
+
+### y1v9 p.181 — The school’s intervention
+
+[scene] (p.181) Greets the returning group and is informed of the details.
+[says] (p.181) “Hey, how’s Class B? It looks like a lot went down.”
+[rel:ayanokouji-kiyotaka] (p.181) Informed of the Ichinose rumors and the school’s ban.
+
+<!-- walk: y1v9 Epilogue → p.200 -->

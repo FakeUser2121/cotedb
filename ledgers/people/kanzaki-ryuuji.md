@@ -331,3 +331,11 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [says] (p.171) “Hold on Ichinose. You don’t have to say anything else right now.”
 
 <!-- walk: y1v9 ch7 → p.175 -->
+
+### y1v9 p.178–180 — The confession and the school’s intervention
+
+[scene] (p.178) Asks Ichinose whether she will continue to lead the class.
+[says] (p.178) “What are you going to do, Ichinose?”
+[rel:ichinose-honami] (p.178) Poses the question on behalf of Class B.
+
+<!-- walk: y1v9 Epilogue → p.200 -->

@@ -4486,3 +4486,132 @@ walk: y1v1 → DONE
 [scene] (p.172) Watches from outside the circle with Keisei and Akito, both struck by a student like Ichinose admitting to a crime.
 
 <!-- walk: y1v9 ch7 → p.175 -->
+
+### y1v9 p.176–200 — Epilogue: Ichinose’s confession and the Kushida negotiation
+
+[scene] (p.176) Class B classroom: Ichinose confesses to the class how she stole a hair clip for her sister; Hashimoto asks if she was caught.
+[says:hashimoto-masayoshi] (p.176) “Are you saying you got caught?”
+[says] (p.176) “I just left the department store with the hair clip. It was the first time I ever shoplifted, the first time I ever committed a crime.”
+[says] (p.176) “In the end, the store didn’t hand me over to the police. But, in the blink of an eye, the commotion still spread, so I closed myself off.”
+[scene] (p.177) Sakayanagi brushes aside the sympathy: shoplifting is a crime born of self-interest; she demands Ichinose return the pooled points and step down.
+[says:sakayanagi-arisu] (p.177) “Really, what a trivial, boorish farce. Are you trying to gain sympathy by bringing up all these needless details about your past?”
+[says:sakayanagi-arisu] (p.177) “Take this opportunity to return the private points to your classmates and step down as the leader of Class B.”
+[says:ichinose-honami] (p.178) “However, I’ve never been persecuted for it. In other words, there’s effectively no reason for me to atone for my sin now.”
+[says:ichinose-honami] (p.178) “I refuse to keep looking back. I won’t let my past control me anymore.”
+[scene] (p.179) Ichinose asks the class to follow her to the end; Class B cheers in unity; Sakayanagi laughs that the rumors will not disappear.
+[says:ichinose-honami] (p.179) “Despite being so shameless… everyone, will you follow me until the very end?”
+[says:shibata-sou] (p.179) “You already have our support, right!?”
+[says:sakayanagi-arisu] (p.179) “I see. It seems you’ve managed to successfully trick your classmates.”
+[scene] (p.180) Nagumo, Hoshinomiya and Chabashira enter; Chabashira announces the school will punish anyone spreading meaningless rumors.
+[says:nagumo-miyabi] (p.180) “You’re correct. This dispute does only involve the first-years. However, as of today, it is against the rules to spread irresponsible rumors.”
+[says:chabashira-sae] (p.180) “Moving forward, anyone found spreading meaningless rumors may be subjected to punishment.”
+[says:sakayanagi-arisu] (p.180) “In other words, the school’s finally taking action.”
+[scene] (p.181) Horikita observes that the school’s move saves every class; Sakayanagi’s simultaneous framing backfired; Ayanokōji’s phone rings with an unregistered number.
+[thinks] (p.181) Sakayanagi went a bit too far — she attempted to frame each class with the same strategy at the same time, but it backfired because it attracted the school’s attention.
+[says:horikita-suzune] (p.181) “Let’s withdraw here. Now that the school has made their move, our presence is no longer necessary.”
+[scene] (p.182) Ayanokōji answers the call: it is Sakayanagi, asking him to meet at the first-floor entryway.
+[scene] (p.183) Sakayanagi confronts Ayanokōji alone at the entryway; she accuses him of protecting Ichinose behind the scenes and asks why.
+[says:sakayanagi-arisu] (p.183) “It seems as though, without me noticing, you’ve gone and made your move behind the scenes.”
+[says:sakayanagi-arisu] (p.183) “Why did you decide to protect Ichinose-san?”
+[says] (p.183) “Wait. I don’t understand what you’re talking about.”
+[scene] (p.184) Ayanokōji reveals his deduction: Kamuro stole the beer can months ago; Sakayanagi admits she wanted him involved and orchestrated Ichinose’s downfall to lure him out.
+[says] (p.184) “She presented me with a can of alcohol as proof of her shoplifting. But, she hadn’t stolen it that day. Kamuro had stolen it when she first enrolled here.”
+[says:sakayanagi-arisu] (p.184) “It didn’t matter to me if Ichinose-san broke down along the way, but if there was even a slight chance that you may decide to intervene, I was hoping that you would seize the opportunity to do so.”
+[scene] (p.185) Sakayanagi proposes a competition over exam rankings; Ayanokōji accepts; she will drop out and her father the chairman will be guarantor if she loses, and his identity as Class C’s mastermind will be exposed if he loses.
+[says:sakayanagi-arisu] (p.185) “Let’s have a competition, Ayanokōji-kun.”
+[says:sakayanagi-arisu] (p.185) “While you may claim that it wouldn’t cause much damage, I’d expose you as the mastermind leading Class C from the shadows.”
+[says] (p.185) “If you’re really alright with those conditions, I’ll agree to it.”
+[scene] (p.186) Flashback to February 11 midnight: Ayanokōji calls Kushida to his room; she brings Valentine chocolate.
+[scene] (p.187) Kushida enters; Ayanokōji asks for personal information about first-years to stop the Ichinose rumors; Kushida resists betraying friends.
+[says:kushida-kikyou] (p.187) “I’m on good terms with Ichinose-san as well. If there’s anything I can do for her, I’d want to do that.”
+[says:kushida-kikyou] (p.187) “I can’t just betray my friends.”
+[scene] (p.188) Ayanokōji explains the plan: escalate rumors so the school cannot sit back; Class A would be first suspect.
+[scene] (p.189) Ayanokōji reveals he knows Kushida is recording (phone and backup recorder); she stops the recording.
+[says] (p.189) “Even if I don’t say anything, you should probably understand. A cell phone… Voice recorder… Maybe even both?”
+[says:kushida-kikyou] (p.189) “So you already knew? That I’ve been recording?”
+[scene] (p.190) Kushida asks for Horikita’s withdrawal as her condition; Ayanokōji refuses; he offers half of all future private points; Kushida considers.
+[says:kushida-kikyou] (p.190) “Horikita Suzune’s withdrawal from school.”
+[says] (p.190) “Unacceptable.”
+[scene] (p.191) Kushida accepts the deal; she takes out a backup voice recorder; Ayanokōji’s true defense is making himself useful to her.
+[says:kushida-kikyou] (p.191) “Alright, I’m on board.”
+[says:kushida-kikyou] (p.192) “I have all the evidence I need right here. If you betray me at all… you know what will happen, yes?”
+[scene] (p.193) Kushida begins sharing secrets: crushes, hatreds, family circumstances, past delinquency; Ayanokōji’s true aim is to gauge her information network in order to remove her from the school.
+[thinks] (p.193) Saving Ichinose, responding to Sakayanagi’s provocation, diverting Hashimoto’s attention, the looming threat of Nagumo — all of these were only one piece of the puzzle; the one thing he truly wanted was to ascertain the quantity and quality of information held by Kushida Kikyō, all for the sake of removing her from the school.
+[scene] (p.194) Kushida shares more: she has a terrifying understanding of the character and personalities of the students around her.
+[scene] (p.195) Kushida explains the surface group chat versus the hidden group chat that badmouths excluded members; dozens of such two-faced groups exist; she leaves.
+[says:kushida-kikyou] (p.195) “For example, there’s this group chat, we’ll call it group A… there’s a second group chat, made by the same girls. Let’s call that one group B.”
+[says:kushida-kikyou] (p.195) “It’s late, I’m going home. I’m looking forward to the outcome of our agreement, Ayanokōji-kun.”
+[rel:sakayanagi-arisu] (p.183–185) Sakayanagi challenges him to a ranking competition with mutual stakes; he accepts.
+[rel:kushida-kikyou] (p.186–195) Negotiates for her secrets: offers half his future private points; she accepts and provides both recordings as insurance.
+[rel:ichinose-honami] (p.176–180) Defends her behind the scenes; her confession and the school’s intervention resolve the rumor crisis.
+[rel:horikita-suzune] (p.181) Horikita observes the school’s move and agrees they should withdraw.
+
+<!-- walk: y1v9 Epilogue → p.200 -->
+
+### y1v9 p.201–225 — Epilogue: The rumors, the door, and Valentine’s Day
+
+[scene] (p.201) After Kushida leaves, Ayanokōji prepares the rumors he will spread for each class, using her intelligence as the source.
+[thinks] (p.201) The fact that Nagumo and Kushida had come into contact was learned coincidentally; there was no reason not to make use of it.
+[scene] (p.201) February 14, Valentine’s Day: Ayanokōji turns off his phone the night before to arrange a secret meeting with Kei and an exchange of chocolate, giving Hashimoto a hint that something is happening.
+[scene] (p.202) Hashimoto confronts Ayanokōji and Kei in person; Hashimoto’s stalking sessions stop the next day; Ayanokōji meets Hiyori Shiina at the library as a preface for the rumors.
+[says:shiina-hiyori] (p.202) (idle chatter about books; her conversation is a preface for the rumors)
+[scene] (p.202) After most students leave, Ayanokōji meets Kiriyama (second-year vice president) at the school building and reveals his plan to save Ichinose.
+[scene] (p.203) Kiriyama resists posting rumors on the forums; Ayanokōji argues it would create a new relationship and that Ichinose is a valuable asset for the student council.
+[says:kiriyama-ikuto] (p.203) “I see. So you’re telling me to post the rumors with my own phone? There’d be no benefit in that for me at all.”
+[says] (p.203) “That’s not true. There are benefits in this for you.”
+[scene] (p.204) Ayanokōji reveals Kushida has already established contact with Nagumo; Kiriyama, lost in thought, agrees to cooperate.
+[says:kiriyama-ikuto] (p.204) “Why do you…… Horikita-senpai’s really placed a lot of trust in someone like you, hasn’t he?”
+[scene] (p.205–206) Kiriyama posts the rumors; Ayanokōji notes the groundwork is complete; only Ichinose’s spirit remains to be crushed; Ichinose is still absent on February 18.
+[scene] (p.206) Ayanokōji visits Ichinose’s room during lunch break; she asks him to come back later; he sits with his back to the door and waits.
+[says:ichinose-honami] (p.206) “I’m sorry Ayanokōji-kun. You went to the trouble of coming to see me, but would you please come back again sometime later?”
+[scene] (p.207) Ayanokōji returns on Monday the 21st; Ichinose does not respond; he sits with his back to the door until lunch break ends.
+[scene] (p.208) Tuesday: Ayanokōji returns again; Ichinose is still absent; he sits with his back to the door.
+[scene] (p.209) Wednesday: Ayanokōji visits with coffee; Ichinose speaks for the first time in days; she asks why he never asks her anything while others try to convince her.
+[says:ichinose-honami] (p.209) “Why haven’t you been saying anything to me, or asking me anything?”
+[says] (p.209) “Compared to someone like me, students who are far more worried about you have already tried to convince you many times now.”
+[scene] (p.210) Ayanokōji reveals he knows about her crime; he tells her she saves others but cannot save herself; he becomes her “door.”
+[says] (p.210) “I already know about the crime you’ve committed.”
+[says] (p.210) “I am your door now. You can’t see my face, and you can’t touch me. I’m just a door.”
+[scene] (p.211) Ichinose asks if it is okay to be pathetic; Ayanokōji tells her everyone has the right to be forgiven; she begins confessing through the door.
+[says:ichinose-honami] (p.211) “Even though I’m so pathetic… Is it really okay?”
+[says] (p.211) “Who has the right to deny you of it?”
+[says:ichinose-honami] (p.211) “I… was a shoplifter.”
+[scene] (p.212) Ichinose confesses everything: the shoplifting, the half-year shut-in, Nagumo’s knowledge, Sakayanagi’s approach, her inability to show weakness.
+[scene] (p.213) Ayanokōji listens without consoling or reprimanding; Ichinose sobs; he says nothing, because her opponent is herself.
+[scene] (p.214) End-of-year exam day: Ichinose greets Ayanokōji with a beaming smile; she thanks him for helping her get back on her feet.
+[says:ichinose-honami] (p.214) “Good morning, Ayanokōji-kun!”
+[says:ichinose-honami] (p.215) “And it’s all thanks to you, Ayanokōji-kun. For helping me get back on my feet.”
+[says] (p.215) “I was just the trigger. In the end, you’re the only one who can overcome your own past.”
+[scene] (p.216) Ichinose says she will face her sins head on; Ayanokōji offers to listen if she loses sight of herself again.
+[says:ichinose-honami] (p.216) “But, I’ll live my life, properly facing it head on from this day forward.”
+[scene] (p.218) Ichinose catches up to Nagumo and thanks him for recruiting her to the student council; Nagumo looks at Ayanokōji with displeasure.
+[says:ichinose-honami] (p.218) “Good morning, Nagumo-senpai.”
+[says:nagumo-miyabi] (p.218) “Don’t you resent me, Honami?”
+[says:ichinose-honami] (p.218) “No such thing, I’m grateful to you, President Nagumo.”
+[scene] (p.219) Ichinose gives Ayanokōji Valentine’s chocolate; he accepts.
+[says:ichinose-honami] (p.219) “This may be a bit late now but here, Valentines chocolate… W-would you accept it?”
+[scene] (p.222–223) Short story “The First Gift”: Ichinose buys Valentine chocolate at Keyaki Mall for Ayanokōji; it is her first gift since birth.
+[scene] (p.224–225) Short story “A Special Day for Students”: Karuizawa gives Ayanokōji Valentine chocolate, lying that she bought it for Hirata.
+[says:karuizawa-kei] (p.224) “What day is it today? Alright, 5, 4, 3---”
+[says:karuizawa-kei] (p.225) “I actually prepared this for Yousuke-kun but that’s no longer necessary.”
+[rel:kushida-kikyou] (p.201) Uses her intelligence as the source for the rumors.
+[rel:karuizawa-kei] (p.201, 224–225) Arranges a secret meeting and chocolate exchange to give Hashimoto a hint; Karuizawa later gives him Valentine chocolate.
+[rel:shiina-hiyori] (p.202) Meets her at the library as a preface for the rumors.
+[rel:kiriyama-ikuto] (p.202–204) Recruits him to post the rumors on the school forums.
+[rel:ichinose-honami] (p.206–219) Visits her room repeatedly until she confesses; she gives him Valentine chocolate.
+[rel:nagumo-miyabi] (p.218) Nagumo looks at him with displeasure, knowing he interfered.
+
+<!-- walk: y1v9 Epilogue → p.225 -->
+
+### y1v9 p.226–228 — Short story: Kamuro’s Intention
+
+[scene] (p.226) Kamuro visits Ayanokōji’s room; she asks for a drink and tests his defensiveness.
+[says:kamuro-masumi] (p.226) “Give me something to drink. It’s going to take a while.”
+[scene] (p.227) Kamuro asks about Yamauchi and the letter calling Ichinose a criminal; Ayanokōji says he is not interested.
+[says:kamuro-masumi] (p.227) “That letter about Ichinose earlier. What do you think?”
+[says] (p.227) “I haven’t a clue. Besides, I’m not interested.”
+[scene] (p.228) Kamuro tries to unsettle him; she was sent by Sakayanagi to assess whether he can be used.
+[thinks] (p.228) Sakayanagi told her to keep an eye on Ayanokōji; she has no idea what he is capable of.
+[rel:kamuro-masumi] (p.226–228) Kamuro visits his room to test and assess him.
+
+<!-- walk: y1v9 Short Stories → p.238 -->

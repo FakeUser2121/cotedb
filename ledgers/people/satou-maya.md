@@ -260,3 +260,15 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [note] (p.145) Present in the classroom circle; no direct speech this chapter beyond the Maezono exchange.
 
 <!-- walk: y1v9 ch6 → p.150 -->
+
+### y1v9 p.229–231 — Short story: Reliable Classmates?
+
+[scene] (p.229) Satō asks Ayanokōji for advice at a cafe; she is nervous and struggles to speak.
+[scene] (p.230) Satō reveals she wants to know about Hirata; Hirata called Ayanokōji the most reliable one in class.
+[says] (p.230) “I want you to tell me all about him......”
+[says] (p.230) “Hirata-kun told me Ayanokouji-kun is the most reliable one though?”
+[scene] (p.231) Satō asks if Hirata currently has someone he is interested in; she is working up courage to confess.
+[says] (p.231) “.....d-does Hirata-kun currently have someone he’s interested in?”
+[rel:ayanokouji-kiyotaka] (p.229–231) Asks him for advice about Hirata.
+
+<!-- walk: y1v9 Short Stories → p.238 -->

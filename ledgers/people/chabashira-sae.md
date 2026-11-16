@@ -883,3 +883,12 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [status] (p.108) Class C promoted — the warning names the promotion explicitly.
 
 <!-- walk: y1v9 ch5 → p.125 -->
+
+### y1v9 p.180 — The school’s intervention
+
+[scene] (p.180) Announces the school will punish anyone spreading meaningless rumors, with close to twenty rumors circulating.
+[says] (p.180) “I won’t go into the details, but we’ve already confirmed that there has been an ongoing exchange of slander amongst the first-year students.”
+[says] (p.180) “Moving forward, anyone found spreading meaningless rumors may be subjected to punishment.”
+[rel:ichinose-honami] (p.180) Intervenes to stop the rumors against her.
+
+<!-- walk: y1v9 Epilogue → p.200 -->

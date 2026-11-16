@@ -147,3 +147,27 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [scene] (p.169) Stands with Sakayanagi and Hashimoto at the head of the Class B visit; one of only three from Class A to come.
 
 <!-- walk: y1v9 ch7 → p.175 -->
+
+### y1v9 p.177–179 — The attack and the class’s answer
+
+[scene] (p.177) Stands beside Sakayanagi with a stiff expression when she attacks Ichinose.
+[scene] (p.179) Asks Sakayanagi what to do now that her attack has been negated.
+[says] (p.179) “Sakayanagi… What now?”
+[rel:sakayanagi-arisu] (p.177–179) Follows Sakayanagi into Class B.
+
+<!-- walk: y1v9 Epilogue → p.200 -->
+
+### y1v9 p.226–229 — Short story: Kamuro’s Intention
+
+[scene] (p.226) Kamuro visits Ayanokōji’s room; she asks for a drink and he prepares tea; she tests his defensiveness.
+[says:kamuro-masumi] (p.226) “Give me something to drink. It’s going to take a while.”
+[says] (p.226) “Then I’ll boil some tea or coffee.”
+[scene] (p.227) Kamuro questions Ayanokōji about Yamauchi; she then asks about the letter calling Ichinose a criminal.
+[says:kamuro-masumi] (p.227) “That letter about Ichinose earlier. What do you think?”
+[says] (p.227) “I haven’t a clue. Besides, I’m not interested.”
+[scene] (p.228) Kamuro tries to unsettle Ayanokōji, testing whether he can be used; Sakayanagi sent her to keep an eye on him.
+[thinks] (p.228) Sakayanagi told her to keep an eye on Ayanokōji; she has no idea what he is capable of.
+[rel:ayanokouji-kiyotaka] (p.226–228) Kamuro visits his room to test and assess him for Sakayanagi.
+[rel:sakayanagi-arisu] (p.226) Sent by Sakayanagi to keep an eye on Ayanokōji.
+
+<!-- walk: y1v9 Short Stories → p.238 -->

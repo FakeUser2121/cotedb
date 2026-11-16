@@ -1158,3 +1158,13 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:ayanokouji-kiyotaka] (p.162) The sight of them meeting in secret is exactly what Hashimoto uses as a test.
 
 <!-- walk: y1v9 ch7 → p.175 -->
+
+### y1v9 p.201, 224–225 — The rumors and Valentine’s Day
+
+[scene] (p.201) Ayanokōji turns off his phone the night before to arrange a secret meeting with Kei and an exchange of chocolate, giving Hashimoto a hint that something is happening.
+[scene] (p.224–225) Short story “A Special Day for Students”: Karuizawa gives Ayanokōji Valentine chocolate, lying that she bought it for Hirata.
+[says] (p.224) “What day is it today? Alright, 5, 4, 3---”
+[says] (p.225) “I actually prepared this for Yousuke-kun but that’s no longer necessary.”
+[rel:ayanokouji-kiyotaka] (p.201, 224–225) Secret meeting and chocolate exchange; later gives him Valentine chocolate.
+
+<!-- walk: y1v9 Epilogue → p.225 -->

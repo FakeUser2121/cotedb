@@ -1143,3 +1143,45 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [says] (p.174) “In the end, a crime is a crime. No matter what you do to repent, your sin will never go away.”
 
 <!-- walk: y1v9 ch7 → p.175 -->
+
+### y1v9 p.176–179 — The confession and the class’s answer
+
+[scene] (p.176) Confesses to Class B how she stole a hair clip for her sister; the store did not involve police but the commotion spread and she shut herself in for half of third year.
+[says] (p.176) “I just left the department store with the hair clip. It was the first time I ever shoplifted, the first time I ever committed a crime.”
+[says] (p.176) “In the end, the store didn’t hand me over to the police. But, in the blink of an eye, the commotion still spread, so I closed myself off.”
+[scene] (p.177) Sakayanagi brushes aside sympathy and demands she return the pooled points and step down; Ichinose refuses to let her past control her.
+[says] (p.178) “I refuse to keep looking back. I won’t let my past control me anymore.”
+[scene] (p.179) Asks the class to follow her to the end; Class B cheers in unity.
+[says] (p.179) “Despite being so shameless… everyone, will you follow me until the very end?”
+[rel:sakayanagi-arisu] (p.177–179) Sakayanagi attacks her with the shoplifting past and demands she step down; Ichinose stands firm.
+[rel:shibata-sou] (p.179) Shibata shouts support and the class follows.
+[rel:kanzaki-ryuuji] (p.178) Kanzaki asks whether she will keep leading; she decides herself.
+
+<!-- walk: y1v9 Epilogue → p.200 -->
+
+### y1v9 p.206–219 — The door and the confession
+
+[scene] (p.206) Ayanokōji visits her room during lunch break; she asks him to come back later; he sits with his back to the door.
+[scene] (p.209) On Wednesday, Ichinose speaks for the first time in days; she asks why he never asks her anything.
+[says] (p.209) “Why haven’t you been saying anything to me, or asking me anything?”
+[scene] (p.210) Ayanokōji reveals he knows about her crime; he tells her she saves others but cannot save herself; he becomes her “door.”
+[says] (p.210) “I already know about the crime you’ve committed.”
+[says] (p.211) “Who has the right to deny you of it?”
+[scene] (p.211) Ichinose asks if it is okay to be pathetic; Ayanokōji tells her everyone has the right to be forgiven; she begins confessing.
+[says] (p.211) “Even though I’m so pathetic… Is it really okay?”
+[says] (p.211) “I… was a shoplifter.”
+[scene] (p.212) Confesses everything: the shoplifting, the half-year shut-in, Nagumo’s knowledge, Sakayanagi’s approach.
+[scene] (p.214) End-of-year exam day: greets Ayanokōji with a beaming smile; thanks him for helping her get back on her feet.
+[says] (p.214) “Good morning, Ayanokōji-kun!”
+[says] (p.215) “And it’s all thanks to you, Ayanokōji-kun. For helping me get back on my feet.”
+[scene] (p.216) Says she will face her sins head on; Ayanokōji offers to listen if she loses sight of herself again.
+[says] (p.216) “But, I’ll live my life, properly facing it head on from this day forward.”
+[scene] (p.218) Catches up to Nagumo and thanks him for recruiting her to the student council.
+[says] (p.218) “Good morning, Nagumo-senpai.”
+[says] (p.218) “No such thing, I’m grateful to you, President Nagumo.”
+[scene] (p.219) Gives Ayanokōji Valentine’s chocolate.
+[says] (p.219) “This may be a bit late now but here, Valentines chocolate… W-would you accept it?”
+[rel:ayanokouji-kiyotaka] (p.206–219) He visits her room repeatedly until she confesses; she gives him Valentine chocolate.
+[rel:nagumo-miyabi] (p.218) Thanks him for recruiting her to the student council.
+
+<!-- walk: y1v9 Epilogue → p.225 -->

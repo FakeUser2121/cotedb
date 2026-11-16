@@ -482,3 +482,43 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:ichinose-honami] (p.171–172) Drives her to the confession she had kept buried, watching with an unwavering smile.
 
 <!-- walk: y1v9 ch7 → p.175 -->
+
+### y1v9 p.177–180 — The attack and the school’s intervention
+
+[scene] (p.177) Brushes aside Ichinose’s sympathy-seeking and demands she return the pooled points and step down.
+[says] (p.177) “Really, what a trivial, boorish farce. Are you trying to gain sympathy by bringing up all these needless details about your past?”
+[says] (p.177) “Take this opportunity to return the private points to your classmates and step down as the leader of Class B.”
+[scene] (p.179) Ichinose asks the class to follow her; Class B cheers; Sakayanagi laughs that the rumors will not disappear.
+[says] (p.179) “I see. It seems you’ve managed to successfully trick your classmates.”
+[says] (p.179) “However, as you said earlier, a criminal’s past doesn’t just disappear.”
+[scene] (p.180) The school intervenes: Nagumo, Hoshinomiya and Chabashira enter; Chabashira announces punishment for spreading meaningless rumors.
+[says] (p.180) “In other words, the school’s finally taking action.”
+[scene] (p.182–185) Calls Ayanokōji to the entryway; accuses him of protecting Ichinose behind the scenes; proposes a ranking competition with mutual stakes; he accepts.
+[says] (p.183) “It seems as though, without me noticing, you’ve gone and made your move behind the scenes.”
+[says] (p.183) “Why did you decide to protect Ichinose-san?”
+[says] (p.184) “It didn’t matter to me if Ichinose-san broke down along the way, but if there was even a slight chance that you may decide to intervene, I was hoping that you would seize the opportunity to do so.”
+[says] (p.185) “Let’s have a competition, Ayanokōji-kun.”
+[says] (p.185) “If you’re really alright with those conditions, I’ll agree to it.”
+[rel:ichinose-honami] (p.177–179) Attacks her with the shoplifting past and demands she step down; Ichinose stands firm.
+[rel:ayanokouji-kiyotaka] (p.182–185) Challenges him to a ranking competition; he accepts.
+
+<!-- walk: y1v9 Epilogue → p.200 -->
+
+### y1v9 p.232–238 — Short story: Sakayanagi’s Preparations
+
+[scene] (p.232) February 7: Sakayanagi visits Ryuuen after school; she proposes studying together; he refuses.
+[says] (p.232) “Are you fine today?”
+[says:ryuuen-kakeru] (p.233) “I have no intention of having a casual chat with you.”
+[scene] (p.233) Sakayanagi asks Ryuuen about the rumors; he is uninterested; she notes he has been dethroned.
+[scene] (p.234) Sakayanagi explains why Class A feeds Ryuuen points: no risk, and Katsuragi will never make a comeback while his contract holds.
+[says:ryuuen-kakeru] (p.235) “I’m swindling large amounts of private points from you incompetent lot every month thanks to my contract with Katsuragi. Why are you dealing with that?”
+[scene] (p.236) Sakayanagi warns Ryuuen to save up 20 million points; she then heads to Class C to find Yamauchi.
+[says] (p.236) “Please do your best to save up 20 million points while you can.”
+[scene] (p.237) Sakayanagi finds Yamauchi and invites him to the corridor by the stairs; she holds a ticket that leads to “Heaven or Hell.”
+[says] (p.237) “Is Yamauchi Haruki-kun here?”
+[says:yamauchi-haruki] (p.237) “Ehh, that’s me but.....you need something?”
+[rel:ryuuen-kakeru] (p.232–236) Visits him after school; proposes studying together; discusses the point contract.
+[rel:yamauchi-haruki] (p.237–238) Invites him to the corridor with a ticket to “Heaven or Hell.”
+[rel:kamuro-masumi] (p.232) Kamuro accompanies her; Sakayanagi sends her home.
+
+<!-- walk: y1v9 Short Stories → p.238 -->

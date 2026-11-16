@@ -732,3 +732,12 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [status] (p.144–145) The classroom turns against his method; the narration marks his social fall as instant.
 
 <!-- walk: y1v9 ch6 → p.150 -->
+
+### y1v9 p.237–238 — Short story: Sakayanagi’s Preparations
+
+[scene] (p.237) Sakayanagi finds Yamauchi in Class C and asks for a few moments of his time.
+[says] (p.237) “Ehh, that’s me but.....you need something?”
+[scene] (p.238) Sakayanagi invites Yamauchi to the corridor by the stairs; she holds a ticket that leads to “Heaven or Hell.”
+[rel:sakayanagi-arisu] (p.237–238) Sakayanagi approaches him with an invitation.
+
+<!-- walk: y1v9 Short Stories → p.238 -->

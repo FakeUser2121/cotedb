@@ -1693,3 +1693,12 @@ fallout, Hashimoto’s failed test, the mock-exam numbers, Sakayanagi’s
 exam-eve timing, and Ichinose’s shoplifter confession to her whole class.
 Determinism hash across consecutive builds:
 `2e1d8cdb9fdba31f8b60985244261f7a`.
+Year 1 Volume 9 chapters 8–10 (Epilogue + Short Stories) and volume-end
+coverage gate. Epilogue: The Return (pp.176–225): Ichinose's confession,
+Sakayanagi's attack, school rumor ban, ranking competition, Kushida
+negotiation, rumor operation via Kiriyama, door conversations, exam day,
+Valentine chocolate. Short Stories (pp.226–238): Kamuro's Intention,
+Reliable Classmates (Satō), Sakayanagi's Preparations. Coverage gate:
+all 51 roster characters checked, passing mentions recorded, closing
+stamp added. Determinism hash across consecutive builds:
+`8703cdda39e154c3aaf10f8287cf8199`.

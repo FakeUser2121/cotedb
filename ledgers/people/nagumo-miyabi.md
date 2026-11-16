@@ -385,3 +385,20 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [back] (p.165) In the call: his influence over all of the second-years could be lent to the third-year Class B, and he goes for weak points that are easy to exploit — as with targeting Tachibana Akane during the training camp.
 
 <!-- walk: y1v9 ch7 → p.175 -->
+
+### y1v9 p.180 — The school’s intervention
+
+[scene] (p.180) Enters Class B with Hoshinomiya and Chabashira; announces the school will punish rumor-spreading.
+[says] (p.180) “You’re correct. This dispute does only involve the first-years. However, as of today, it is against the rules to spread irresponsible rumors.”
+[rel:ichinose-honami] (p.180) Intervenes to stop the rumors against her.
+
+<!-- walk: y1v9 Epilogue → p.200 -->
+
+### y1v9 p.218 — The encounter on exam day
+
+[scene] (p.218) Ichinose catches up to Nagumo on the morning of the end-of-year exam and thanks him for recruiting her to the student council.
+[says] (p.218) “Don’t you resent me, Honami?”
+[scene] (p.218) Looks at Ayanokōji with displeasure, knowing he interfered.
+[rel:ichinose-honami] (p.218) She thanks him; he is displeased with Ayanokōji’s interference.
+
+<!-- walk: y1v9 Epilogue → p.225 -->

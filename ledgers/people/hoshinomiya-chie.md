@@ -157,3 +157,10 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 [note] (p.8) Hoshinomiya does not appear in person; only named as the source of Nagumo’s information.
 
 <!-- walk: y1v9 ch1 → p.25 -->
+
+### y1v9 p.180 — The school’s intervention
+
+[scene] (p.180) Enters Class B with Nagumo and Chabashira.
+[rel:ichinose-honami] (p.180) Present as Class B’s homeroom teacher during the intervention.
+
+<!-- walk: y1v9 Epilogue → p.200 -->

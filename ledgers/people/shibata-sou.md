@@ -157,3 +157,13 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 [says] (p.171) “W-what are you apologizing for Ichinose? There’s no reason for you to be apologizing, right?”
 
 <!-- walk: y1v9 ch7 → p.175 -->
+
+### y1v9 p.177–179 — The confession and the class’s answer
+
+[scene] (p.177) Speaks up in support of Ichinose after her confession.
+[says] (p.177) “After listening to everything you’ve had to say, I’m sure of it. You’re still a good person.”
+[scene] (p.179) Shouts support when Ichinose asks the class to follow her.
+[says] (p.179) “You already have our support, right!?”
+[rel:ichinose-honami] (p.177–179) Voices support for Ichinose.
+
+<!-- walk: y1v9 Epilogue → p.200 -->

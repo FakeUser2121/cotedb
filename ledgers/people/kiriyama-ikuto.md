@@ -92,3 +92,14 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 [note] (p.100) Does not appear; named in the call only.
 
 <!-- walk: y1v9 ch4 → p.100 -->
+
+### y1v9 p.202–204 — The forum rumors
+
+[scene] (p.202) Meets Ayanokōji at the school building after most students have gone home; Ayanokōji reveals his plan to save Ichinose.
+[scene] (p.203) Resists posting rumors on the forums; Ayanokōji argues it would create a new relationship.
+[says] (p.203) “I see. So you’re telling me to post the rumors with my own phone? There’d be no benefit in that for me at all.”
+[scene] (p.204) Ayanokōji reveals Kushida has already established contact with Nagumo; Kiriyama agrees to cooperate.
+[says] (p.204) “Why do you…… Horikita-senpai’s really placed a lot of trust in someone like you, hasn’t he?”
+[rel:ayanokouji-kiyotaka] (p.202–204) Recruits him to post the rumors on the school forums.
+
+<!-- walk: y1v9 Epilogue → p.225 -->

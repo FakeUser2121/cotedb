@@ -320,3 +320,12 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [scene] (p.169) Stands with Sakayanagi and Kamuro at the head of the Class B confrontation; Kitō and the rest of Class A stay behind.
 
 <!-- walk: y1v9 ch7 → p.175 -->
+
+### y1v9 p.176–180 — The confession and the school’s intervention
+
+[scene] (p.176) Asks Ichinose if she was caught shoplifting.
+[says] (p.176) “Are you saying you got caught?”
+[scene] (p.180) Enters with Nagumo and Hoshinomiya; the school bans spreading rumors.
+[rel:ichinose-honami] (p.176) Questions her during the confession.
+
+<!-- walk: y1v9 Epilogue → p.200 -->
