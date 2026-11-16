@@ -2706,3 +2706,17 @@ hasebe-haruka, miyake-akito, sakura-airi, kushida-kikyou,
 ledgers/volumes/y1v10.md. Ryūen quote spanning p.72/78 recorded as
 [note] due to page-break split in corpus. verify y1v10: ALL PASS; make
 check OK; gate exit 0. Next: ch3 pp.85–147.
+
+### y1v10 Chapter 3 — walked, shipped
+
+Chapter 3: The Difficulty of Salvation (pp.85–147). Morning group chat
+strategy; Ichinose walk (considers bearing risk, offers cross-class praise
+vote); Asahina reveals Nagumo’s condition (relationship) for lending
+points to save a Class B student; Sakayanagi/Kamuro conversation and
+Sakayanagi postpones match with Ayanokōji, promises no censure votes,
+names Katsuragi as Class A target; Hirata seeks a way to avoid expulsion.
+Ledgers touched: ayanokouji-kiyotaka, ichinose-honami, asahina-nazuna,
+sakayanagi-arisu, kamuro-masumi, katsuragi-kouhei, totsuka-yahiko,
+hirata-yousuke, yukimura-teruhiko, hasebe-haruka, miyake-akito,
+sakura-airi, nagumo-miyabi, ledgers/volumes/y1v10.md. verify y1v10:
+ALL PASS; make check OK; gate exit 0. Next: ch4 pp.148–181.

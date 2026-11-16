@@ -644,3 +644,17 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.118, 123) Does not appear; named in Hashimoto’s section only.
 
 <!-- walk: y1v9 ch5 → p.125 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->
+
+### y1v10 pp.122, 125 — Ch.3: Target of Class A
+
+[scene] (p.122) Sakayanagi reveals she has already decided Class A will expel Katsuragi.
+[scene] (p.125) Sakayanagi names him as the target; Yahiko and some others still follow him but are outnumbered.
+[status] (p.125) Targeted for expulsion by Sakayanagi’s faction in the Class Poll.
+[rel:sakayanagi-arisu] (p.122, 125) Chosen by Sakayanagi to be expelled from Class A.
+[rel:totsuka-yahiko] (p.125) Yahiko still follows him but is outnumbered.
+
+<!-- walk: y1v10 Ch3 → p.147 -->

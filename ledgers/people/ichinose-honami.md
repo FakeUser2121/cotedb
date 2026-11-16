@@ -1185,3 +1185,22 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:nagumo-miyabi] (p.218) Thanks him for recruiting her to the student council.
 
 <!-- walk: y1v9 Epilogue → p.225 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->
+
+### y1v10 pp.89–96 — Ch.3: Morning walk and Asahina’s interruption
+
+[scene] (p.89) Joins Ayanokōji on the walk to school; she is stiff at first but walks with him.
+[scene] (p.93) Admits the exam is the toughest for Class B and considers bearing the risk herself.
+[says] (p.93) “In the face of such a terrible exam… I really have no choice but to do something, don’t I?”
+[says] (p.94) “Not exactly. I just feel like I have to fight, and bear responsibility for the risk on my own.”
+[scene] (p.95) Offers to use her cross-class praise vote on Ayanokōji; he declines.
+[says] (p.96) “Since I have a praise vote I can use on someone in another class, I could use it on you.”
+[says] (p.96) “Yeah, I can’t think of anyone more worthy than you, as the one who saved me.”
+[scene] (p.96) Asahina Nazuna greets Ichinose and asks to borrow Ayanokōji; Ichinose leaves.
+[rel:ayanokouji-kiyotaka] (p.89–96) Morning walk; offers her praise vote.
+[rel:asahina-nazuna] (p.96) Greets Asahina before leaving.
+
+<!-- walk: y1v10 Ch3 → p.147 -->

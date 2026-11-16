@@ -1393,3 +1393,17 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:yukimura-teruhiko] (p.52–57) Keisei proposes mutual praise votes.
 
 <!-- walk: y1v10 Ch2 → p.84 -->
+
+### y1v10 pp.128–132 — Ch.3: Conversation in his room
+
+[scene] (p.128) Meets Ayanokōji after school and asks to talk in his room.
+[says] (p.128) “Thanks for coming today.”
+[scene] (p.129) Says he has been unable to sleep and cannot find a way to save the class.
+[says] (p.130) “This exam… I just can’t think of a solution. No matter how many times I think about it, nothing comes to mind.”
+[scene] (p.130) Asks Ayanokōji if there is a way to save 20 million points or avoid expulsion.
+[says] (p.130) “If… if there’s a way to save the class, please tell me.”
+[scene] (p.132) Asks if it is fine for someone to be expelled.
+[says] (p.132) “Ayanokōji-kun, do you think it’s fine for someone to be expelled?”
+[rel:ayanokouji-kiyotaka] (p.128–132) Seeks his help to avoid an expulsion.
+
+<!-- walk: y1v10 Ch3 → p.147 -->

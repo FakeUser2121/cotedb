@@ -423,3 +423,11 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [rel:ayanokouji-kiyotaka] (p.14–15) Tests Ayanokōji about forum rumors.
 
 <!-- walk: y1v10 Prologue+Ch1 → p.29 -->
+
+### y1v10 pp.97–103 — Ch.3: Ichinose’s deal
+
+[scene] (p.99) Asahina reveals Ichinose asked Nagumo for points and he consented.
+[scene] (p.101) Nagumo’s condition for lending points is a relationship with Ichinose.
+[note] (p.99–101) Nagumo does not appear in person; his actions are reported by Asahina.
+
+<!-- walk: y1v10 Ch3 → p.147 -->

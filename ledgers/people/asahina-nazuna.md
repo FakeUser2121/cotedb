@@ -66,3 +66,23 @@ char_id: asahina-nazuna · class: Class 2-A · status: supporting
 [note] (p.232) Cited alongside Kei as a source of post-exam information.
 
 <!-- walk: y1v8 coverage → p.244 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->
+
+### y1v10 pp.96–103 — Ch.3: Conversation with Ayanokōji
+
+[scene] (p.96) Greets Ichinose and borrows Ayanokōji to speak with him alone.
+[says] (p.96) “Good morning Honami.”
+[scene] (p.97) Tells Ayanokōji Ichinose cares deeply for her friends and would not sit back.
+[scene] (p.99) Reveals Ichinose asked Nagumo for points and Nagumo consented.
+[says] (p.99) “Bingo again.”
+[scene] (p.101) Reveals Nagumo’s condition is for the two of them to get into a relationship.
+[says] (p.101) “The condition he set for lending the points to her… is for the two of them to get into a relationship.”
+[scene] (p.102) Says she hopes Ayanokōji can do something; he says he cannot.
+[rel:ichinose-honami] (p.96–103) Speaks on her behalf about the deal with Nagumo.
+[rel:nagumo-miyabi] (p.99–101) Reveals his condition for lending points.
+[rel:ayanokouji-kiyotaka] (p.96–103) Asks him to help Ichinose.
+
+<!-- walk: y1v10 Ch3 → p.147 -->

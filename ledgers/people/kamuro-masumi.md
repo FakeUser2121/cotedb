@@ -171,3 +171,21 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [rel:sakayanagi-arisu] (p.226) Sent by Sakayanagi to keep an eye on Ayanokōji.
 
 <!-- walk: y1v9 Short Stories → p.238 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->
+
+### y1v10 pp.117–120 — Ch.3: Walk with Sakayanagi
+
+[scene] (p.117) Walks with Sakayanagi; asks about her father’s suspension.
+[says] (p.117) “Suspended… Your father… If I’m not mistaken, he’s the board chairman right?”
+[scene] (p.118) Asks why Sakayanagi keeps an eye on Ayanokōji.
+[says] (p.118) “I’ve tried not being bothered by it until now, but you… Why have you been keeping your eye on Ayanokōji?”
+[scene] (p.119) Says Sakayanagi has never been so fixated on someone before.
+[says] (p.119) “You’ve never been so fixated on someone like this before.”
+[scene] (p.120) Sakayanagi sends her back to the dorms; Kamuro leaves without resisting.
+[rel:sakayanagi-arisu] (p.117–120) Accompanies her and questions her interest in Ayanokōji.
+[rel:ayanokouji-kiyotaka] (p.118–119) Questions Sakayanagi’s fixation on him.
+
+<!-- walk: y1v10 Ch3 → p.147 -->

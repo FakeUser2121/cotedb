@@ -4659,3 +4659,30 @@ walk: y1v1 → DONE
 [rel:yukimura-teruhiko] (p.52–57) Keisei proposes mutual praise votes.
 
 <!-- walk: y1v10 Ch2 → p.84 -->
+
+### y1v10 pp.85–132 — Ch.3: Morning conversations and after-school meetings
+
+[scene] (p.85) Checks the Ayanokōji Group chat: Keisei proposes arriving early to collect information; the group agrees and Haruka volunteers for the next day.
+[scene] (p.89) Ichinose joins Ayanokōji on the walk to school; she admits the exam is tough for Class B and considers bearing the risk herself.
+[says:ichinose-honami] (p.93) “In the face of such a terrible exam… I really have no choice but to do something, don’t I?”
+[scene] (p.95) Ichinose offers to use her cross-class praise vote on Ayanokōji; he declines.
+[says:ichinose-honami] (p.96) “Since I have a praise vote I can use on someone in another class, I could use it on you.”
+[scene] (p.97) Asahina Nazuna borrows Ayanokōji and reveals Ichinose asked Nagumo for points; Nagumo’s condition is a relationship.
+[says:asahina-nazuna] (p.101) “The condition he set for lending the points to her… is for the two of them to get into a relationship.”
+[scene] (p.104) Classroom atmosphere is tense; Haruka messages that nothing unusual has happened.
+[scene] (p.117) Overhears Sakayanagi and Kamuro discuss Sakayanagi’s father’s suspension and the supplementary exam.
+[scene] (p.118) Sakayanagi tells Kamuro she knows Ayanokōji from long ago.
+[says:sakayanagi-arisu] (p.118) “I simply know him from a long time ago. Is this answer not acceptable enough?”
+[scene] (p.120) Sakayanagi asks to postpone their match for this exam and promises not to cast censure votes for Ayanokōji.
+[says:sakayanagi-arisu] (p.121) “For this exam, I won’t do anything that would put you at a disadvantage. That is to say, I absolutely won’t cast you any censure votes.”
+[scene] (p.122) Sakayanagi says she has already decided Class A will expel Katsuragi Kōhei.
+[says:sakayanagi-arisu] (p.125) “Katsuragi Kōhei-kun.”
+[scene] (p.128) Meets Hirata and goes to his room; Hirata cannot find a way to avoid an expulsion.
+[says:hirata-yousuke] (p.130) “If… if there’s a way to save the class, please tell me.”
+[says:hirata-yousuke] (p.132) “Ayanokōji-kun, do you think it’s fine for someone to be expelled?”
+[rel:ichinose-honami] (p.89–96) Morning walk; she considers bearing the risk and offers her praise vote.
+[rel:asahina-nazuna] (p.97–103) Reveals Ichinose asked Nagumo for points and his condition.
+[rel:sakayanagi-arisu] (p.117–127) Postpones their match; promises no censure votes; reveals Katsuragi as Class A target.
+[rel:hirata-yousuke] (p.128–132) Hirata seeks a way to avoid expulsion.
+
+<!-- walk: y1v10 Ch3 → p.147 -->

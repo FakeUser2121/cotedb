@@ -204,3 +204,14 @@ char_id: totsuka-yahiko · class: Class 1-A (enrolled April 2015) · status: min
 [note] (p.79–83) Present for the whole lobby beat; no further involvement in the chapter.
 
 <!-- walk: y1v9 ch4 → p.100 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->
+
+### y1v10 pp.125 — Ch.3: Following Katsuragi
+
+[scene] (p.125) Mentioned as one of the students who still follow Katsuragi, though outnumbered.
+[rel:katsuragi-kouhei] (p.125) Still follows him despite Sakayanagi’s decision.
+
+<!-- walk: y1v10 Ch3 → p.147 -->

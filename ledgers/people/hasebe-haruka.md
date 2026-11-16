@@ -380,3 +380,11 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [rel:ayanokouji-kiyotaka] (p.52–65) Discusses exam strategy; asks him to watch over Horikita.
 
 <!-- walk: y1v10 Ch2 → p.84 -->
+
+### y1v10 pp.85–88 — Ch.3: Group chat strategy
+
+[scene] (p.87) Volunteers in the group chat to go to school early the next day.
+[says] (p.87) [I’ll do it tomorrow since I’ll be heading out early.]
+[scene] (p.104) Messages Ayanokōji that nothing unusual has happened in the classroom.
+
+<!-- walk: y1v10 Ch3 → p.147 -->

@@ -686,3 +686,11 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [rel:ayanokouji-kiyotaka] (p.52–57) Proposes mutual praise votes; identifies censure targets.
 
 <!-- walk: y1v10 Ch2 → p.84 -->
+
+### y1v10 pp.85–88 — Ch.3: Group chat strategy
+
+[scene] (p.86) Proposes in the Ayanokōji Group chat that one of them go to school early for the next three days to collect information.
+[says] (p.86) [How do you guys feel about having one of us go to school early for the next three days to collect information?]
+[scene] (p.87) The group agrees and decides to move forward.
+
+<!-- walk: y1v10 Ch3 → p.147 -->

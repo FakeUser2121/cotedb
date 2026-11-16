@@ -362,3 +362,10 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [scene] (p.64) Akito says Ryūen is doing all he can to put up a calm front.
 
 <!-- walk: y1v10 Ch2 → p.84 -->
+
+### y1v10 pp.85–88 — Ch.3: Group chat strategy
+
+[scene] (p.87) Agrees in the group chat to have someone go to school early to collect information.
+[says] (p.87) [Since we’re such a small group, that might be a good idea. I’m on board.]
+
+<!-- walk: y1v10 Ch3 → p.147 -->

@@ -522,3 +522,24 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:kamuro-masumi] (p.232) Kamuro accompanies her; Sakayanagi sends her home.
 
 <!-- walk: y1v9 Short Stories → p.238 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->
+
+### y1v10 pp.117–127 — Ch.3: Sakayanagi’s decision and postponed match
+
+[scene] (p.117) Walks with Kamuro; discusses her father’s suspension and the supplementary exam.
+[says] (p.117) “It’s a personal matter that I’m a bit ashamed of, but my father was suspended from his position a few days ago.”
+[scene] (p.118) Tells Kamuro she knows Ayanokōji from long ago.
+[says] (p.118) “I simply know him from a long time ago. Is this answer not acceptable enough?”
+[scene] (p.120) Asks Ayanokōji to postpone their match; promises not to cast censure votes for him.
+[says] (p.121) “For this exam, I won’t do anything that would put you at a disadvantage. That is to say, I absolutely won’t cast you any censure votes.”
+[scene] (p.122) Says she has already decided Class A will expel Katsuragi Kōhei.
+[says] (p.125) “Katsuragi Kōhei-kun.”
+[says] (p.125) “He’s the former leader of Class A who opposed me earlier in the year. There’s no need for two people to stand at the top of the same class, after all.”
+[rel:ayanokouji-kiyotaka] (p.117–127) Postpones match; promises no censure votes.
+[rel:kamuro-masumi] (p.117–120) Walks and talks with Kamuro before sending her back.
+[rel:katsuragi-kouhei] (p.122, 125) Decides to expel him from Class A.
+
+<!-- walk: y1v10 Ch3 → p.147 -->

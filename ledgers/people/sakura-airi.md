@@ -954,3 +954,10 @@ aliases used for anchors: sakura, airi, sakura-san
 [scene] (p.64) Airi asks about Ryūen’s situation.
 
 <!-- walk: y1v10 Ch2 → p.84 -->
+
+### y1v10 pp.85–88 — Ch.3: Group chat strategy
+
+[scene] (p.87) Agrees in the group chat to the plan to collect information early.
+[says] (p.87) [I agree too.]
+
+<!-- walk: y1v10 Ch3 → p.147 -->
