@@ -316,7 +316,13 @@ def build_volume(v):
             inner = ""
             for sec in ch["secs"]:
                 if sec["items"]:
-                    inner += f'<h4>{pgify(esc(sec["key"]))}</h4><ul>{"".join(f"<li>{pgify(esc(t))}</li>" for t in sec["items"])}</ul>'
+                    lis = []
+                    for t in sec["items"]:
+                        rendered = pgify(esc(t))
+                        if sec["key"] == "Narrative beats":
+                            rendered = rendered.replace("; ", ";<br>\n  ")
+                        lis.append(f"<li>{rendered}</li>")
+                    inner += f'<h4>{pgify(esc(sec["key"]))}</h4><ul>{"".join(lis)}</ul>'
                     if sec["text"]:
                         inner = f'<p>{pgify(esc(sec["text"]))}</p>' + inner
                 else:
