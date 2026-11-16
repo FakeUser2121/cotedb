@@ -318,9 +318,17 @@ def build_volume(v):
                 if sec["items"]:
                     lis = []
                     for t in sec["items"]:
-                        rendered = pgify(esc(t))
                         if sec["key"] == "Narrative beats":
-                            rendered = rendered.replace("; ", ";<br>\n  ")
+                            pm = re.match(r'^(pp?\.\s*[\d\u2013\u2014\-]+):\s*(.*)$', t, re.S)
+                            if pm:
+                                pref = pm.group(1).strip()
+                                beats = [b.strip().rstrip(';').strip() for b in pm.group(2).split(';') if b.strip()]
+                                sub = "".join(f"<li>{pgify(esc(b))}</li>" for b in beats)
+                                rendered = f'<span class="pg">{esc(pref)}</span>.<ul class="beats">{sub}</ul>'
+                            else:
+                                rendered = pgify(esc(t)).replace("; ", ";<br>\n  ")
+                        else:
+                            rendered = pgify(esc(t))
                         lis.append(f"<li>{rendered}</li>")
                     inner += f'<h4>{pgify(esc(sec["key"]))}</h4><ul>{"".join(lis)}</ul>'
                     if sec["text"]:
