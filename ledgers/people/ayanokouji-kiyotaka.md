@@ -4554,7 +4554,7 @@ walk: y1v1 → DONE
 [thinks] (p.201) The fact that Nagumo and Kushida had come into contact was learned coincidentally; there was no reason not to make use of it.
 [scene] (p.201) February 14, Valentine’s Day: Ayanokōji turns off his phone the night before to arrange a secret meeting with Kei and an exchange of chocolate, giving Hashimoto a hint that something is happening.
 [scene] (p.202) Hashimoto confronts Ayanokōji and Kei in person; Hashimoto’s stalking sessions stop the next day; Ayanokōji meets Hiyori Shiina at the library as a preface for the rumors.
-[says:shiina-hiyori] (p.202) (idle chatter about books; her conversation is a preface for the rumors)
+[note] (p.202) Hiyori and Ayanokōji’s conversation at the library consists of idle chatter about books; it serves as a preface for the rumors that will spread the following day.
 [scene] (p.202) After most students leave, Ayanokōji meets Kiriyama (second-year vice president) at the school building and reveals his plan to save Ichinose.
 [scene] (p.203) Kiriyama resists posting rumors on the forums; Ayanokōji argues it would create a new relationship and that Ichinose is a valuable asset for the student council.
 [says:kiriyama-ikuto] (p.203) “I see. So you’re telling me to post the rumors with my own phone? There’d be no benefit in that for me at all.”
