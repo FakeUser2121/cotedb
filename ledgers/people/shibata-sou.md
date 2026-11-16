@@ -181,3 +181,19 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 [rel:ichinose-honami] (p.253–255) Trusts her plan and contributes his points.
 
 <!-- walk: y1v10 Ch6 → p.285 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->
+
+### y1v11 pp.170–180 — Ch.5: Reporting Class D’s harassment
+
+[scene] (p.170) Angrily complains to Ichinose about Class D targeting Class B students.
+[scene] (p.171) Insists it is not a coincidence and that Class D is trying to pick a fight.
+[scene] (p.177) Tells the Ayanokōji Group that he, Nakanishi, and Beppu have been harassed by Class D, including Albert cornering Beppu.
+[scene] (p.179) Says Class D is scary and recalls trouble involving Sudō, Ishizaki, and Komiya.
+[rel:ichinose-honami] (p.170–180) Complains to her and is calmed by her.
+[rel:kanzaki-ryuuji] (p.170–180) Is restrained by him and discusses the situation together.
+[rel:ayanokouji-kiyotaka] (p.172–180) Shares information with him and his group over lunch.
+
+<!-- walk: y1v11 ch6 → p.280 -->

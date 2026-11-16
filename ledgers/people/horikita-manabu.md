@@ -655,3 +655,21 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [rel:ayanokouji-kiyotaka] (p.194) Gives Suzune his assessment that she will not catch up to Ayanokōji.
 
 <!-- walk: y1v10 Ch5 → p.237 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->
+
+### y1v11 pp.217–229 — Ch.5: Talking with Ayanokōji
+
+[scene] (p.217) Encounters Ayanokōji on the way to school with Tachibana and asks about the special exam.
+[scene] (p.218) Says Suzune has been working hard and that Ayanokōji has influenced her more than he expected.
+[scene] (p.221) Explains to Ayanokōji that he was disappointed in Suzune not for grades or class placement but for her lack of maturity and dependence on him.
+[scene] (p.224) Says he is waiting to see whether Suzune can stop chasing his shadow and become honest with herself.
+[scene] (p.225) Tells Ayanokōji that if Suzune changes, she could surpass him and become someone Ayanokōji could not ignore.
+[scene] (p.227) Denies dating Tachibana.
+[rel:ayanokouji-kiyotaka] (p.217–229) Talks with him about Suzune, the school, and his graduation.
+[rel:tachibana-akane] (p.217–229) Walks with her on the way to school.
+[rel:horikita-suzune] (p.218–225) Discusses her growth and dependence on him.
+
+<!-- walk: y1v11 ch6 → p.280 -->

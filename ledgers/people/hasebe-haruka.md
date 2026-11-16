@@ -425,3 +425,18 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [rel:sakura-airi] (p.93–109) Present with her in the group discussion.
 
 <!-- walk: y1v11 ch5 → p.169 -->
+
+### y1v11 pp.170–191 — Ch.5: Lunch with Class B and after
+
+[scene] (p.170) Walks with the Ayanokōji Group when they overhear Shibata’s outburst near Ichinose and Kanzaki.
+[scene] (p.171) Comments that it is unusual for Shibata to get angry.
+[scene] (p.184) After lunch, says Ichinose is cute and teases Keisei about blushing.
+[scene] (p.188) Grabs Keisei to stop and listen when they overhear Ike inviting Shinohara out.
+[scene] (p.191) Wants to keep listening but is pulled away by Akito.
+[rel:ayanokouji-kiyotaka] (p.170–191) Walks and eats with him in the Ayanokōji Group.
+[rel:miyake-akito] (p.170–191) Talks with him during and after lunch.
+[rel:sakura-airi] (p.170–191) Shares reactions with her about Ichinose and Ike/Shinohara.
+[rel:yukimura-teruhiko] (p.170–191) Teases him after lunch.
+[rel:ichinose-honami] (p.172–184) Eats lunch with her group and comments on her.
+
+<!-- walk: y1v11 ch6 → p.280 -->

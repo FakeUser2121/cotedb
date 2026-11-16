@@ -688,3 +688,21 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [rel:ryuuen-kakeru] (p.316–317) Speaks with him at the bulletin board.
 
 <!-- walk: y1v10 Epilogue → p.362 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->
+
+### y1v11 pp.271–280 — Ch.5: Meeting with Keisei and Ayanokōji
+
+[scene] (p.271) Meets Keisei and Ayanokōji after Keisei contacts him, having anticipated they want information about Class A.
+[scene] (p.272) Rejects Keisei’s offer of future transfer to Class C in exchange for betrayal, calling it unrealistic.
+[scene] (p.276) Says his hatred for Sakayanagi is enough reason to act and that she has not told anyone which events Class A will choose.
+[scene] (p.277) Predicts Class A will likely choose Chess, the English Test, and the Math Test, and possibly Modern Literature and Flash Mental Arithmetic.
+[scene] (p.279) Explains he might be able to help in Flash Mental Arithmetic or Long Rope Jumping if selected, but cannot guarantee participation.
+[rel:yukimura-teruhiko] (p.271–280) Hears his proposal, rejects it, but gives him event predictions.
+[rel:ayanokouji-kiyotaka] (p.271–280) Answers his questions about participation and Sakayanagi’s plans.
+[rel:sakayanagi-arisu] (p.276–279) Expresses resentment toward her and describes her secrecy.
+[rel:totsuka-yahiko] (p.273) Is reminded of his expulsion during Keisei’s appeal.
+
+<!-- walk: y1v11 ch6 → p.280 -->

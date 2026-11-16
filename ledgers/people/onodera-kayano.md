@@ -13,3 +13,7 @@ char_id: onodera-kayano · status: minor
 [limit] (p.138) Does not appear; one of the four full-name victims posted to the class forum.
 
 <!-- walk: y1v9 ch6 → p.150 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->

@@ -2837,3 +2837,19 @@ hirata-yousuke, wang-mei-yu, kushida-kikyou, ike-kanji, sudou-ken,
 karuizawa-kei, kouenji-rokusuke, chabashira-sae, hoshinomiya-chie,
 hashimoto-masayoshi, ledgers/volumes/y1v11.md. verify y1v11: ALL PASS;
 make check OK; gate exit 0. Next: ch6 pp.170–280.
+
+### y1v11 ch6 — walked, shipped
+
+Chapter 5 "A Trap, a Home-Cooked Meal, and a Favor" (pp.170–280).
+Class B reports Class D harassment over lunch with the Ayanokōji Group;
+Ike invites Shinohara out; Kushida declines to help the exam; Ayanokōji
+meets Ichinose on White Day; talks with Horikita Manabu and Tachibana;
+Class A’s ten events are announced; Horikita shares her notebook and
+agrees to play chess; Keisei and Ayanokōji meet Katsuragi for event
+predictions. Ledgers touched: ayanokouji-kiyotaka, hasebe-haruka,
+miyake-akito, sakura-airi, yukimura-teruhiko, ichinose-honami,
+kanzaki-ryuuji, shibata-sou, ike-kanji, shinohara-satsuki,
+karuizawa-kei, kushida-kikyou, wang-mei-yu, horikita-suzune,
+horikita-manabu, tachibana-akane, miyamoto-soshi, katsuragi-kouhei,
+ledgers/volumes/y1v11.md. verify y1v11: ALL PASS; make check OK; gate
+exit 0. Next: ch7 pp.281–317.

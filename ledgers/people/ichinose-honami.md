@@ -1268,3 +1268,27 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:ayanokouji-kiyotaka] (p.62–66) Meets him at the commanders’ meeting.
 
 <!-- walk: y1v11 ch4 → p.92 -->
+
+### y1v11 pp.170–216 — Ch.5: Class D harassment and White Day
+
+[scene] (p.172) Invites the Ayanokōji Group to join her, Kanzaki, and Shibata for lunch at the café.
+[scene] (p.174) Treats the group as equals and offers to pay, but accepts when they decline.
+[scene] (p.175) Explains that she invited them to prevent rumors after they overheard Shibata’s anger.
+[scene] (p.177) Tells the group that Class D has recently been harassing some Class B students.
+[scene] (p.180) Says Class B will focus on preparing for Class D’s events rather than retaliating.
+[scene] (p.183) Asks the Ayanokōji Group not to spread what they heard.
+[scene] (p.208) Encounters Ayanokōji at the dorm mailboxes on White Day morning while checking her mail.
+[scene] (p.209) Receives Ayanokōji’s return gift and thanks him.
+[scene] (p.210) Reports that the number of Class B students harassed by Class D increased from three to nine by Friday.
+[scene] (p.212) Names Ishizaki, Komiya, Yamada, Kondō, Ibuki, and Kishita as students involved in the harassment.
+[scene] (p.214) Says Class B has chosen its ten events and asks about Ayanokōji’s role as commander.
+[scene] (p.216) Leaves in a flustered panic after parting with Ayanokōji in the elevator.
+[rel:kanzaki-ryuuji] (p.170–183) Discusses Class D’s harassment with him.
+[rel:shibata-sou] (p.170–183) Calms him and shares his concerns about Class D.
+[rel:ayanokouji-kiyotaka] (p.172–183, 208–216) Invites him to lunch and later meets him on White Day morning.
+[rel:hasebe-haruka] (p.172–183) Eats lunch with her group.
+[rel:miyake-akito] (p.172–183) Eats lunch with his group.
+[rel:sakura-airi] (p.172–183) Eats lunch with her group.
+[rel:yukimura-teruhiko] (p.172–183) Eats lunch with his group.
+
+<!-- walk: y1v11 ch6 → p.280 -->

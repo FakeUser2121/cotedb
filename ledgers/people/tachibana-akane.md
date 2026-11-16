@@ -194,3 +194,17 @@ aliases used for anchors: tachibana, secretary, student council secretary
 [rel:ayanokouji-kiyotaka] (p.162–167) Meets him at the rest area.
 
 <!-- walk: y1v10 Ch4 → p.181 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->
+
+### y1v11 pp.217–229 — Ch.5: Walking with Horikita Manabu
+
+[scene] (p.217) Discreetly distances herself when Ayanokōji and Horikita Manabu begin talking on the way to school.
+[scene] (p.229) Interrupts to warn that saying Ayanokōji and Suzune would not get together could become a flag.
+[rel:horikita-manabu] (p.217–229) Accompanies him and listens to his conversation with Ayanokōji.
+[rel:ayanokouji-kiyotaka] (p.217–229) Makes space for his conversation with Manabu and later reacts to it.
+[rel:horikita-suzune] (p.229) Reacts to the idea of her ending up with Ayanokōji.
+
+<!-- walk: y1v11 ch6 → p.280 -->

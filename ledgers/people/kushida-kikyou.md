@@ -1472,3 +1472,14 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:hirata-yousuke] (p.138) Is present as Mii-chan struggles with his rejection.
 
 <!-- walk: y1v11 ch5 → p.169 -->
+
+### y1v11 pp.195–206 — Ch.5: Refusing to get involved
+
+[scene] (p.195) Is approached by Ayanokōji after school about her lack of support for Horikita in the exam.
+[scene] (p.199) Says she plans to hang out with girls from Class B and explains she does not feel she has the right to lead the class after the previous exam.
+[scene] (p.205) Refuses to cooperate with Ayanokōji this time, saying she will lay low but will not get in the way.
+[scene] (p.206) Leaves for the Keyaki Mall after the conversation.
+[rel:ayanokouji-kiyotaka] (p.195–206) Discusses her stance on the exam with him and refuses to actively help.
+[rel:horikita-suzune] (p.198–205) Avoids supporting her leadership in this exam.
+
+<!-- walk: y1v11 ch6 → p.280 -->

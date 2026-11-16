@@ -405,3 +405,17 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [rel:hirata-yousuke] (p.108–109) Reacts to seeing his withdrawn state in the cafeteria.
 
 <!-- walk: y1v11 ch5 → p.169 -->
+
+### y1v11 pp.170–191 — Ch.5: Lunch with Class B and after
+
+[scene] (p.170) Walks with the Ayanokōji Group and hears Shibata arguing near Ichinose and Kanzaki.
+[scene] (p.171) Finds Shibata’s anger unexpected.
+[scene] (p.186) Changes the subject from Ichinose’s perfume to Class D’s harassment of Class B.
+[scene] (p.190) Pulls Haruka away to stop the group from eavesdropping on Ike and Shinohara.
+[rel:ayanokouji-kiyotaka] (p.170–191) Walks and eats with him in the Ayanokōji Group.
+[rel:hasebe-haruka] (p.170–191) Stops her from listening to Ike and Shinohara.
+[rel:sakura-airi] (p.170–191) Present with her in the group.
+[rel:yukimura-teruhiko] (p.170–191) Discusses Class B and Class D with him.
+[rel:ichinose-honami] (p.172–183) Eats lunch with her group.
+
+<!-- walk: y1v11 ch6 → p.280 -->

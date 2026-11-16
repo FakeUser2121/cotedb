@@ -1004,3 +1004,17 @@ aliases used for anchors: sakura, airi, sakura-san
 [rel:miyake-akito] (p.98–109) Present with him in the group discussion.
 
 <!-- walk: y1v11 ch5 → p.169 -->
+
+### y1v11 pp.170–191 — Ch.5: Lunch with Class B and after
+
+[scene] (p.170) Walks with the Ayanokōji Group when they encounter Ichinose, Kanzaki, and Shibata.
+[scene] (p.185) Notices Ichinose may have been wearing citrus perfume.
+[scene] (p.189) Reacts excitedly while overhearing Ike invite Shinohara out.
+[scene] (p.191) Says her heart is beating fast but agrees they should not embarrass Ike and Shinohara.
+[rel:ayanokouji-kiyotaka] (p.170–191) Walks and eats with him in the Ayanokōji Group.
+[rel:hasebe-haruka] (p.170–191) Shares reactions with her.
+[rel:miyake-akito] (p.170–191) Present with him in the group.
+[rel:yukimura-teruhiko] (p.170–191) Present with him in the group.
+[rel:ichinose-honami] (p.172–185) Eats lunch with her group and notices her perfume.
+
+<!-- walk: y1v11 ch6 → p.280 -->

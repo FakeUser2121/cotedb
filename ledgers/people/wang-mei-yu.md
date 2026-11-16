@@ -97,3 +97,10 @@ char_id: wang-mei-yu · status: minor
 [rel:ayanokouji-kiyotaka] (p.148–151) Receives encouragement from him to reach out to Hirata.
 
 <!-- walk: y1v11 ch5 → p.169 -->
+
+### y1v11 pp.193 — Ch.5: Following Hirata again
+
+[scene] (p.193) Runs out after Hirata when he leaves to go home, continuing to reach out despite others giving up.
+[rel:hirata-yousuke] (p.193) Chases after him again.
+
+<!-- walk: y1v11 ch6 → p.280 -->

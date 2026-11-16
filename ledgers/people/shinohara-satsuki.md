@@ -233,3 +233,12 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [rel:horikita-suzune] (p.52–53) Challenges her support for Ayanokōji.
 
 <!-- walk: y1v11 ch3 → p.54 -->
+
+### y1v11 pp.188–190 — Ch.5: Invited by Ike
+
+[scene] (p.188) Walks with Ike ahead of the Ayanokōji Group in the hallway.
+[scene] (p.189) Responds skeptically when Ike asks if she is free on Sunday.
+[scene] (p.190) Accepts Ike’s White Day invitation while insisting it is just a chance to relax before the exam.
+[rel:ike-kanji] (p.188–190) Accepts his White Day invitation.
+
+<!-- walk: y1v11 ch6 → p.280 -->

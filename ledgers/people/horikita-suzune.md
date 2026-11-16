@@ -3086,3 +3086,22 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ayanokouji-kiyotaka] (p.125–146) Discusses Hirata and exam planning with him.
 
 <!-- walk: y1v11 ch5 → p.169 -->
+
+### y1v11 pp.230–270 — Ch.5: Class A events and exam planning
+
+[scene] (p.230) Reads and reviews the ten events submitted by Class A after morning homeroom.
+[scene] (p.233) Shares her first impression that Class A’s choices mix academic and sporting events to limit Class C’s options.
+[scene] (p.237) Asks the class about experience with chess and Go.
+[scene] (p.239) Focuses on understanding the class’s position on Class A’s events rather than immediately pursuing intelligence gathering.
+[scene] (p.240) Discusses intelligence gathering with Keisei and Ayanokōji in the hallway.
+[scene] (p.245) Rejects Keisei’s proposal to recruit Katsuragi, saying the offer is not good enough.
+[scene] (p.248) Calls Ayanokōji and invites him to her room to talk.
+[scene] (p.249) Welcomes Ayanokōji into her room and serves him dinner.
+[scene] (p.259) Shows Ayanokōji her notebook compiling Class C’s event plans and evaluations.
+[scene] (p.262) Agrees when Ayanokōji suggests she take part in the chess event and let him teach her.
+[scene] (p.266) Confronts Ayanokōji about his behind-the-scenes role in the previous exam and asks whether they can win against Sakayanagi.
+[rel:ayanokouji-kiyotaka] (p.240–270) Discusses strategy with him, shows him her notebook, and accepts his chess plan.
+[rel:yukimura-teruhiko] (p.238–247) Listens to his request for intelligence gathering but rejects his Katsuragi plan.
+[rel:miyamoto-soshi] (p.237) Hears his response about having played Go a few times.
+
+<!-- walk: y1v11 ch6 → p.280 -->

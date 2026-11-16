@@ -1745,3 +1745,8 @@ Determinism hash: `28193ff9b8eb1a3fdab81680d2764421`.
 Year 1 Volume 11 Chapter 4 "What the Class Lacks" (pp.93–169) walked.
 Class C struggles to prepare; Hirata isolates himself and Mii-chan keeps
 reaching out. Determinism hash: `b425ad0e8e7356d8b96786004ee421d4`.
+
+Year 1 Volume 11 Chapter 5 "A Trap, a Home-Cooked Meal, and a Favor"
+(pp.170–280) walked. Class A events revealed; Horikita plans and
+Ayanokōji/Keisei get predictions from Katsuragi. Determinism hash:
+`d39733ac0f9d63dafc97764f8a00158c`.

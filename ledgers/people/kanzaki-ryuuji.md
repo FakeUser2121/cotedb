@@ -354,3 +354,22 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [rel:ichinose-honami] (p.253–256) Questions and supports her plan to save the class.
 
 <!-- walk: y1v10 Ch6 → p.285 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->
+
+### y1v11 pp.170–183 — Ch.5: Reporting Class D’s harassment
+
+[scene] (p.170) Stands with Ichinose and Shibata while Shibata complains about Class D.
+[scene] (p.171) Notices the Ayanokōji Group and signals Shibata to calm down.
+[scene] (p.173) Questions Ichinose’s decision to invite Class C students to join them.
+[scene] (p.176) Hesitates to discuss the harassment but eventually explains it after Shibata speaks openly.
+[scene] (p.178) Confirms that Class D has been targeting some Class B students and that the harassment has not become physical.
+[scene] (p.180) Analyzes the harassment as pressure and says Class B should focus on preparing for the exam.
+[rel:ichinose-honami] (p.170–183) Supports and questions her handling of the situation.
+[rel:shibata-sou] (p.170–183) Tries to restrain him and later confirms his account.
+[rel:ayanokouji-kiyotaka] (p.172–183) Shares information with him and his group over lunch.
+[rel:yukimura-teruhiko] (p.175–183) Discusses Class D’s tactics with him.
+
+<!-- walk: y1v11 ch6 → p.280 -->

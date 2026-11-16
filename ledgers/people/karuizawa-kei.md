@@ -1243,3 +1243,11 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:wang-mei-yu] (p.133–135) Intervenes on her behalf when Hirata rejects her.
 
 <!-- walk: y1v11 ch5 → p.169 -->
+
+### y1v11 pp.194 — Ch.5: After Hirata’s withdrawal
+
+[scene] (p.194) Talks quietly with her friends in the classroom about Hirata’s condition after he leaves.
+[scene] (p.194) Says it would be useless for her to say anything because Hirata might hold a grudge against her.
+[rel:hirata-yousuke] (p.194) Discusses his withdrawal and avoids reaching out after being rejected earlier.
+
+<!-- walk: y1v11 ch6 → p.280 -->

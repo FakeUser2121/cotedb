@@ -968,3 +968,12 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:karuizawa-kei] (p.114) Responds to her suggestion about events needing many people.
 
 <!-- walk: y1v11 ch5 → p.169 -->
+
+### y1v11 pp.188–190 — Ch.5: Inviting Shinohara out
+
+[scene] (p.188) Walks ahead of the Ayanokōji Group in the hallway with Shinohara.
+[scene] (p.189) Hesitantly asks Shinohara if she is free on Sunday.
+[scene] (p.190) Invites her to hang out on White Day to return the favor for Valentine’s chocolate.
+[rel:shinohara-satsuki] (p.188–190) Invites her out on White Day.
+
+<!-- walk: y1v11 ch6 → p.280 -->

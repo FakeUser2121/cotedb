@@ -4858,3 +4858,37 @@ walk: y1v1 → DONE
 [rel:chabashira-sae] (p.168–169) Answers her after Hoshinomiya leaves.
 
 <!-- walk: y1v11 ch5 → p.169 -->
+
+### y1v11 pp.170–280 — Ch.5: Information, preparation, and Katsuragi
+
+[scene] (p.170) Walks with the Ayanokōji Group and encounters Shibata, Ichinose, and Kanzaki discussing Class D’s harassment.
+[scene] (p.172) Speaks for his group when Ichinose invites them to eat together at the café.
+[scene] (p.175) Declines Ichinose’s offer to pay, saying they will pay for themselves.
+[scene] (p.188) Stops with his group to overhear Ike inviting Shinohara out for White Day.
+[scene] (p.195) Approaches Kushida after school to ask about her lack of involvement in the exam.
+[scene] (p.203) Asks Kushida for cooperation and information, but accepts her decision to stay uninvolved while not interfering.
+[scene] (p.208) Delivers White Day return gifts early in the morning and runs into Ichinose at the dorm mailboxes.
+[scene] (p.210) Confirms his gift to Ichinose and asks about Class D’s harassment of Class B.
+[scene] (p.217) Meets Horikita Manabu and Tachibana on the way to school and discusses Suzune and the special exam.
+[scene] (p.226) Resolves inwardly to make Horikita change for real.
+[scene] (p.237) Tells the class he can play chess more or less but has never played Go.
+[scene] (p.240) Joins Keisei and Horikita in the hallway to discuss intelligence gathering.
+[scene] (p.249) Goes to Horikita’s room after her call and is served dinner.
+[scene] (p.260) Reviews Horikita’s exam notebook and suggests she be the one to play chess in Class A’s event.
+[scene] (p.271) Accompanies Keisei to meet Katsuragi.
+[scene] (p.279) Asks Katsuragi whether Sakayanagi would let him participate despite being wary of him.
+[scene] (p.280) Advises Keisei not to tell Horikita immediately that they contacted Katsuragi.
+[rel:hasebe-haruka] (p.170–191) Walks and eats with her in the Ayanokōji Group.
+[rel:miyake-akito] (p.170–191) Walks and eats with him in the Ayanokōji Group.
+[rel:sakura-airi] (p.170–191) Walks and eats with her in the Ayanokōji Group.
+[rel:yukimura-teruhiko] (p.170–191, 240–247, 271–280) Eats with him, discusses information gathering, and meets Katsuragi together.
+[rel:ichinose-honami] (p.172–183, 208–216) Eats with her group and later meets her on White Day morning.
+[rel:kanzaki-ryuuji] (p.170–183) Hears his concerns about Class D’s harassment.
+[rel:shibata-sou] (p.170–183) Hears his account of Class D’s harassment.
+[rel:kushida-kikyou] (p.195–206) Questions her about involvement in the exam.
+[rel:horikita-manabu] (p.217–229) Talks with him about Suzune and his future.
+[rel:tachibana-akane] (p.217, 229) Encounters her with Horikita Manabu.
+[rel:horikita-suzune] (p.240–270) Discusses strategy with her and reviews her notebook.
+[rel:katsuragi-kouhei] (p.271–280) Meets him with Keisei to seek information on Class A.
+
+<!-- walk: y1v11 ch6 → p.280 -->

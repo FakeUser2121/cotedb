@@ -738,3 +738,25 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [rel:hirata-yousuke] (p.109) Comments on his condition as a problem for the exam.
 
 <!-- walk: y1v11 ch5 → p.169 -->
+
+### y1v11 pp.175–280 — Ch.5: Information and Katsuragi
+
+[scene] (p.175) Asks Ichinose why she invited the Ayanokōji Group to lunch.
+[scene] (p.179) Tells Class B that Class A may be spying on Class C and that some external pressure is understandable.
+[scene] (p.182) Notes that Class B’s strength is hard for Class C to match and agrees not to spread rumors.
+[scene] (p.186) Says Class D’s harassment of Class B may intensify.
+[scene] (p.234) Reacts to Class A’s announced events, noting chess and Go are unfamiliar and sports require coordination.
+[scene] (p.238) Urges Horikita to start gathering intelligence on which events Class A will choose.
+[scene] (p.240) Pulls Horikita into the hallway to discuss intelligence gathering and includes Ayanokōji.
+[scene] (p.242) Proposes bringing Katsuragi over to Class C’s side in exchange for information and future transfer support.
+[scene] (p.271) Meets Katsuragi with Ayanokōji and asks for Class A’s event choices and for him to throw matches.
+[scene] (p.277) Listens as Katsuragi predicts likely Class A events and offers limited help.
+[scene] (p.280) Wants to tell Horikita immediately but agrees to wait after Ayanokōji advises caution.
+[rel:ayanokouji-kiyotaka] (p.175–280) Eats with him, discusses strategy, and meets Katsuragi together.
+[rel:horikita-suzune] (p.238–247) Presses her to gather information and is rebuffed.
+[rel:ichinose-honami] (p.175–183) Questions her and hears about Class D’s harassment.
+[rel:kanzaki-ryuuji] (p.175–183) Discusses Class D’s pressure with him.
+[rel:shibata-sou] (p.175–183) Hears his account of harassment.
+[rel:katsuragi-kouhei] (p.271–280) Tries to recruit him and receives event predictions.
+
+<!-- walk: y1v11 ch6 → p.280 -->
