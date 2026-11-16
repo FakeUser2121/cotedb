@@ -564,3 +564,18 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [note] (p.14, 19, 23) Always “Horikita-senpai” or “Horikita Manabu” in these pages — never bare “Horikita” as a first-year reference.
 
 <!-- walk: y1v9 ch1 → p.25 -->
+
+### y1v9 p.99–100 — The call about Kushida and Nagumo
+[scene] (p.99) Ayanokōji’s phone rings on the way to the convenience store — the older Horikita.
+[says] (p.99) “There are a few things I want to talk to you about.”
+[says] (p.99) “Depending on the situation, it may already be too late. It’s about my sister.”
+[rel:kushida-kikyou] (p.100) Reports Kushida’s contact with Nagumo: assistance in expelling Suzune.
+[says] (p.100) “She asked him for assistance with expelling Suzune Horikita. A very bold move.”
+[rel:nagumo-miyabi] (p.100) Training-camp fallout with Nagumo makes him decide he must act.
+[says] (p.100) “This information came from Kiriyama. It’s clear that my relationship with Nagumo deteriorated at the last training camp. He’s definitely going to try something else. I’ll have to take action at this point.”
+[rel:kiriyama-ikuto] (p.100) Source of the report; Ayanokōji asks whether he can be trusted.
+[says] (p.100) “You can’t completely trust him, can you?”
+[trait] (p.100) Approaches others with a set amount of trust until suspicion or betrayal — Ayanokōji notes he could never imitate it.
+[rel:horikita-suzune] (p.99–100) His sister is the target of the expel request; he brings the threat unprompted.
+
+<!-- walk: y1v9 ch4 → p.100 -->

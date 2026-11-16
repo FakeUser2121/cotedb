@@ -226,3 +226,9 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [note] (p.53, 56) Never looks at or speaks to Ayanokōji while passing; purpose of the tail not stated on these pages.
 
 <!-- walk: y1v9 ch3 → p.75 -->
+
+### y1v9 p.81 — Named among possible rumor sources
+[rel:sakayanagi-arisu] (p.81) Ayanokōji’s narration: Hashimoto may have acted alone or under second- or third-year instructions — Sakayanagi still ostensibly denies involvement.
+[note] (p.81) Does not appear; named in the source-elimination aside only.
+
+<!-- walk: y1v9 ch4 → p.100 -->

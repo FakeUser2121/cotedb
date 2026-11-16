@@ -80,3 +80,15 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 [note] (p.120) Named as an alternative grouping option beside Class D members and Kei.
 
 <!-- walk: y1v8 coverage → p.244 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.100 — The source of Manabu’s report
+[rel:horikita-manabu] (p.100) The vice president is who told Manabu about Kushida and Nagumo.
+[rel:kushida-kikyou] (p.100) His information is what surfaces Kushida’s contact.
+[limit] (p.100) Ayanokōji flags that he cannot be completely trusted — Manabu answers he does not know Kiriyama as well as Ayanokōji does.
+[note] (p.100) Does not appear; named in the call only.
+
+<!-- walk: y1v9 ch4 → p.100 -->

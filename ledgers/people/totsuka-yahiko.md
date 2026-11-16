@@ -190,3 +190,17 @@ char_id: totsuka-yahiko · class: Class 1-A (enrolled April 2015) · status: min
 [note] (p.187) With Keisei, noted as lacking what the task required.
 
 <!-- walk: y1v8 coverage → p.244 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.79–83 — The mailbox debrief
+[scene] (p.79–80) Dorm lobby crowd beside Katsuragi — Yahiko already standing with him.
+[rel:katsuragi-kouhei] (p.80–81) Asks Katsuragi whether the straightforward letter hurts the sender; accepts the “rough idea” answer.
+[says] (p.80) “Didn’t you get one in yours as well? Ayanokouji?”
+[rel:ayanokouji-kiyotaka] (p.80–83) Presses him to check his mailbox; walks out with Katsuragi in the elevator after.
+[says] (p.81) “But if it’s presented in such a straightforward way, won’t it cause the sender all sorts of problems? Isn’t there an issue with doing something so malicious in such a public way?”
+[note] (p.79–83) Present for the whole lobby beat; no further involvement in the chapter.
+
+<!-- walk: y1v9 ch4 → p.100 -->

@@ -1054,3 +1054,23 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [note] (p.69–72) Never says whether the rumors are true; only the Sakayanagi attribution is stated as her guess.
 
 <!-- walk: y1v9 ch3 → p.75 -->
+
+### y1v9 p.76–83 — The apology, then the criminal letter
+[scene] (p.76) Night rest area — Ichinose apologizes for the worry she has caused Class C.
+[says] (p.76) “I truly am sorry.”
+[says] (p.76) “I guess it’s because I’ve troubled Horikita-san and Ayanokouji-kun, as well as everyone else from Class C. These rumors have caused everyone so much unnecessary worry. Anyhow, please forget about it.”
+[says] (p.76) “This is simply the very best option available to me. This is the stance I will take until the rumors have subsided.”
+[trait] (p.76) Eyes blazing with determination — Ayanokōji sees why Class B’s supporters have to listen.
+[action] (p.76) Urges him back first so they do not arrive together.
+[rel:kanzaki-ryuuji] (p.76) Confirms the same stance was already given to Kanzaki and the others.
+[scene] (p.79–83) Friday lobby — the second letter; students start speaking in her favor as the rumors fade, then the letter stokes them again.
+[limit] (p.79) Never reported anything to the school; the defamation plan failed only because she stayed silent.
+[says] (p.82) “I’m okay. Something like this isn’t enough to get to me.”
+[says] (p.83) “I’m sorry everyone, for continuing to trouble all of you. But please, don’t worry about me.”
+[rel:amikura-mako] (p.82–83) Amikura hugs her and pleads for the teachers; Ichinose smiles her down.
+[trait] (p.82–83) Spends dozens of seconds on the single line, then declines the physical-evidence route that would corner her.
+[rel:kamuro-masumi] (p.83) Watches the whole reaction from beside the trash can — Katsuragi’s glare on her.
+[status] (p.83) Still the centre of a lobby of onlookers while refusing to move.
+[note] (p.89) Kamuro asserts Ichinose hides the same secret — the shoplifting inference, stated on this volume’s pages.
+
+<!-- walk: y1v9 ch4 → p.100 -->

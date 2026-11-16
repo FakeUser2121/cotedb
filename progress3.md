@@ -1664,3 +1664,8 @@ Year 1 Volume 9 chapter 3 keeps the intention unchanged — Mii-chan’s
 Hirata consultation, Hiyori’s offer, and the Ichinose–Horikita–
 Ayanokōji meeting that ends in advice to do nothing. Determinism hash
 across consecutive builds: `56c4e12bc682b46950105485effec166`.
+
+Year 1 Volume 9 chapter 4 is the two secrets chapter — the criminal
+letter in the mailboxes and Kamuro’s shoplifter confession with the
+beer proof, closing on Manabu’s call about Kushida and Nagumo.
+Determinism hash across consecutive builds: `f6ebafbfe3d02ea457fefaa960e9e8e6`.

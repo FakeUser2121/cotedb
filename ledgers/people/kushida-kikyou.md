@@ -1346,3 +1346,14 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [note] (p.74) Does not appear; only named in Ayanokōji’s assessment of Horikita.
 
 <!-- walk: y1v9 ch3 → p.75 -->
+
+### y1v9 p.100 — Asking Nagumo to expel Suzune
+[rel:horikita-manabu] (p.100) Reported by him: she made contact with Nagumo.
+[says:horikita-manabu] (p.100) “She asked him for assistance with expelling Suzune Horikita. A very bold move.”
+[rel:nagumo-miyabi] (p.100) Reached out to Nagumo after what he did at the training camp — Ayanokōji finds the choice not surprising.
+[rel:horikita-suzune] (p.100) Target of the request — she broke the non-interference word given as her penalty for losing the bet.
+[rel:ryuuen-kakeru] (p.100) Same pattern as using Ryuuen before; necessity knows no law.
+[back] (p.100) References the lost bet with Horikita and her promise not to interfere — earlier volumes’ fact, restated on this page.
+[note] (p.100) Not present; reported through Manabu’s call.
+
+<!-- walk: y1v9 ch4 → p.100 -->

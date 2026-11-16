@@ -622,3 +622,19 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.70) Katsuragi does not appear; only named as the past target of Sakayanagi’s intra-class war.
 
 <!-- walk: y1v9 ch3 → p.75 -->
+
+### y1v9 p.79–83 — The lobby read on the letter
+[scene] (p.79) Back in the same spot as an earlier lobby scene — arms crossed, dissatisfaction at the second letter.
+[rel:totsuka-yahiko] (p.79–83) Standing together; Yahiko asks whether the public letter makes the sender an idiot.
+[says] (p.80) “Ah. It seems like a letter has been put into everyone’s mailboxes. It’s similar to that case that happened earlier this year.”
+[says] (p.81) “No, I’m not so sure.”
+[says] (p.81) “Huh… Is it possible that the person spreading the rumors… That Katsuragi-san knows who it is?” — Yahiko’s question, prompting the rough idea.
+[says] (p.81) “It’s nothing more than a rough idea.”
+[feat] (p.81) Contrasts the two letters — the first allegation collapsed and the school recognised her points; this one is plain defamation, so a report could find the sender.
+[rel:sakayanagi-arisu] (p.81) Narration: his rough idea makes Sakayanagi the clear favourite.
+[says] (p.81) “Whether or not the school takes action here. It will depend on Ichinose as the person at the very center of this incident.”
+[rel:kamuro-masumi] (p.83) Glares at her through the whole scene, then answers Ayanokōji with “No… It’s nothing.” and leaves.
+[action] (p.83) Tosses his letter into the trash and takes the elevator with Yahiko, expression stern to the doors closing.
+[rel:ichinose-honami] (p.81–83) Reads her silence as the variable the whole incident turns on.
+
+<!-- walk: y1v9 ch4 → p.100 -->

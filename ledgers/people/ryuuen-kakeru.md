@@ -1457,3 +1457,10 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [note] (p.52, 56) Ryuuen is not present; only named in recollection and Ayanokōji’s elimination list.
 
 <!-- walk: y1v9 ch3 → p.75 -->
+
+### y1v9 p.100 — The earlier lever, recalled
+[rel:kushida-kikyou] (p.100) Kushida tried to use Ryuuen to reach her goal before reaching out to Nagumo.
+[back] (p.100) Ayanokōji had thought she jumped the gun siding with Ryuuen — earlier volumes’ fact, restated here.
+[note] (p.100) Does not appear; recalled in the call’s analysis only.
+
+<!-- walk: y1v9 ch4 → p.100 -->

@@ -700,3 +700,10 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [note] (p.34) Refers to the training-camp collision with Sakayanagi as the basis for his toast fantasy — that incident is not re-shown on these pages.
 
 <!-- walk: y1v9 ch2 → p.50 -->
+
+### y1v9 p.85 — Named in Kamuro’s taunt
+[rel:kamuro-masumi] (p.85) She contrasts Ayanokōji’s wariness with how Yamauchi reacted to her.
+[rel:ayanokouji-kiyotaka] (p.85) The comparison is used to dare him — “that sure is nothing like how Yamauchi reacted.”
+[note] (p.85) Does not appear; named in Kamuro’s line only.
+
+<!-- walk: y1v9 ch4 → p.100 -->

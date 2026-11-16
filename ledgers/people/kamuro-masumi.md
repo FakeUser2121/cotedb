@@ -95,3 +95,43 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [note] (p.56) Kamuro does not appear; only named in Ayanokōji’s internal elimination of who could be tailing him.
 
 <!-- walk: y1v9 ch3 → p.75 -->
+
+### y1v9 p.79–89 — Watching alone, then Room 401
+[scene] (p.79–84) Friday lobby — first-year Class A girl, alone today, watches the upset Class B students; then the elevator and Room 401.
+[rel:katsuragi-kouhei] (p.83) Katsuragi glares at her with a sharp look; she answers nothing.
+[rel:ayanokouji-kiyotaka] (p.84–89) Follows him to the fourth floor, talks her way in, demands a drink, and steers to the letter.
+[says] (p.84) “I want to talk.”
+[says] (p.84) “I’m sensitive to the cold. If it’s alright with you, could you invite me in?”
+[says] (p.84) “What a dull room.”
+[says] (p.84) “Get me something to drink. We’ll be talking for a while.”
+[says] (p.85) “I’ll have hot chocolate then.”
+[says] (p.85) “Does my presence make you feel apprehensive?”
+[says] (p.88) “Do you believe that she’s a criminal?”
+[rel:ichinose-honami] (p.88–89) Opens with Ichinose being targeted by someone who knows her hidden secret.
+[says] (p.89) “It’s just like you thought. Right now, Ichinose is being targeted by a student who knows the secret that she wants to keep hidden.”
+
+### y1v9 p.89–95 — The shoplifter’s story
+[says] (p.89) “That said, Sakayanagi doesn’t know that I’m here right now talking with you about this. She’d probably be angry if she knew.”
+[says] (p.89) “In other words, you’re saying you betrayed Sakayanagi?” — Ayanokouji’s question, answered under her story.
+[says] (p.89) “That’s one way to put it.”
+[rel:sakayanagi-arisu] (p.89–95) Flashback: caught shoplifting a week after the entrance ceremony; Sakayanagi kept the secret in exchange for friendship and work.
+[says] (p.94) “I’ve grown to like you, Masumi Kamuro-san. You have to become my first friend.” — Sakayanagi’s line, remembered by Kamuro.
+[says] (p.95) “In short, I’m a habitual shoplifter.”
+[limit] (p.95) No spare time to steal lately — “Sakayanagi has been working me hard.”
+[rel:ichinose-honami] (p.95–96) Says Ichinose has the same history and that her own popularity should satisfy her — “really hit me hard.”
+[says] (p.96) “Stop Sakayanagi. You can do that, can’t you?”
+[says] (p.96) “Yes. As it is now, Ichinose will definitely be crushed. I’m not talking about her being crushed physically, I mean her heart.”
+[goal] (p.96) Wants Ayanokōji to stop Sakayanagi on Ichinose’s behalf — “There’s nobody else I can count on in this school other than you.”
+[trait] (p.95) Self-derisive laugh about the gap between Ichinose’s popularity and her own conduct.
+
+### y1v9 p.97–99 — Beer as proof
+[action] (p.97) Leaves her student ID behind, steals a can of beer in about ten minutes, and returns to prove the story.
+[says] (p.97) “While I thought about taking a pack of gum or something, I grabbed a beer. This way was more credible.”
+[says] (p.98) “Anyway, do you believe me?”
+[says] (p.98) “You showed me the real thing. I can’t not believe you.” — Ayanokouji’s concession.
+[says] (p.99) “I’ll be looking forward to the end results.”
+[action] (p.99) Tries to end the conversation one-sidedly and leaves — forgets the ID card until called back.
+[feat] (p.97–98) Reads the credibility logic herself: alcohol cannot be bought by students, so the can must be stolen.
+[note] (p.99) Ayanokōji judged her almost certainly truthful even before the proof, withholding the admission.
+
+<!-- walk: y1v9 ch4 → p.100 -->

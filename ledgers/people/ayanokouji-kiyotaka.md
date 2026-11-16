@@ -4301,3 +4301,48 @@ walk: y1v1 → DONE
 [rel:ichinose-honami] (p.75) Waves him into the elevator — “Can you keep me company for a little bit?” — and takes him outside the lobby.
 
 <!-- walk: y1v9 ch3 → p.75 -->
+
+### y1v9 p.76–78 — The night walk and the 1 a.m. call
+[scene] (p.76) Dark rest area on the way to the school buildings — Ichinose walks him back after the elevator.
+[rel:ichinose-honami] (p.76) Accepts her apology without pressing; parts first so they do not arrive together.
+[says] (p.76) “Why are you apologizing?”
+[thinks] (p.76) The everyday life he was looking for may look like this — passively drifting with busy surroundings, close to an answer.
+[scene] (p.77) Just past one in the morning — unknown on-campus number.
+[rule] (p.77) School phones dial only an approved list and accept only other school phones; the call therefore comes from campus.
+[says] (p.77) “I’m going to hang up if you don’t say anything.”
+[says] (p.78) “Ayanokouji Kiyotaka.” — the caller’s line, recorded as received.
+[says] (p.78) “Even if you’re just going to say my name…”
+[thinks] (p.78) Reads it as that man’s strategy begun — if the goal were forcing him out, surprise would suit better; the warning means threat.
+[rel:ayanokouji-atsuomi] (p.78) “That man… Is there anything outside of his reach?” — father named as the mover.
+[says] (p.78) “In other words, you’ve finally started to take action…?”
+
+### y1v9 p.79–83 — The criminal letter in the lobby
+[scene] (p.79) Friday after school, dorm lobby — crowd around the mailboxes, Katsuragi back in his old spot with Yahiko.
+[rel:katsuragi-kouhei] (p.79–83) Approach and debrief: asks what the commotion is; hears Katsuragi’s rough read that Sakayanagi is the favourite.
+[rel:totsuka-yahiko] (p.80) Yahiko presses him to check his own mailbox; he agrees.
+[says] (p.80) “What’s with all the commotion?”
+[says] (p.80) “I’ll go check to make sure.”
+[feat] (p.80) Opens his mailbox to the same four-fold letter as earlier in the year — 『Ichinose Honami is a criminal.』 unattributed, personal-printer font.
+[rel:ichinose-honami] (p.82) Watches her read the line for dozens of seconds while about ten others stand around.
+[rel:kamuro-masumi] (p.83–84) Notices her watching the Class B reactions; follows him into the elevator.
+
+### y1v9 p.84–89 — Room 401 with Kamuro
+[scene] (p.84) Room 401 — Kamuro gets on at the fourth floor and talks her way inside.
+[rel:kamuro-masumi] (p.84–89) Host of the uninvited visit; grants the room and the drink while taking control of the conversation.
+[says] (p.84) “Is there something you want from me?”
+[says] (p.85) “There isn’t anyone who can bother us here. Talking in your room was for the best.”
+[feat] (p.88) Lays out the full read: some rumors are true, so Ichinose will not fight the letters or the hidden truth would surface.
+[says] (p.88) “Her strategy is to continue to ignore it so that the rumors don’t end up as anything more than suspicion.”
+[rel:sakayanagi-arisu] (p.85) Reasoning: Sakayanagi already knows about him, so Kamuro is not here to catch him off guard for her.
+
+### y1v9 p.89–100 — Hearing Kamuro out; Manabu’s call
+[rel:kamuro-masumi] (p.89–99) Listens to her whole story without admitting belief; takes the stolen beer as proof and concedes it.
+[says] (p.97) “To be honest, there’s no absolute guarantee that what you said is true.”
+[says] (p.98) “You showed me the real thing. I can’t not believe you.”
+[rel:horikita-manabu] (p.99–100) Takes the unexpected call on the way to the convenience store.
+[rel:kushida-kikyou] (p.100) Learns Kushida asked Nagumo for help expelling Suzune — tracks it against her broken non-interference word.
+[thinks] (p.99) Reconsiders whether ignoring Ichinose is still right — or whether to take advantage of the opportunity.
+[feat] (p.100) Judges Manabu’s information network impressive while staying cautious of Kiriyama as its source.
+[says] (p.100) “I wonder what happened that prompted her to change strategies?”
+
+<!-- walk: y1v9 ch4 → p.100 -->

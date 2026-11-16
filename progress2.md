@@ -2490,3 +2490,33 @@ results list (lede is exam decisions). New tags: none. New entities:
 none. verify y1v9: 138 [says] + 51 non-says ALL PASS; make check OK
 (R18 0, R19 82/82); gate exit 0; hash `56c4e12bc682b46950105485effec166`
 twice. Next: ch4 pp.76–100.
+
+y1v9 ch4 Ichinose’s Secret, Kamuro’s Secret. (pp.76–100): night apology
+walk with Ichinose; the 1 a.m. unknown on-campus call saying his full
+name — read as that man’s declared move; Friday mailbox letter
+『Ichinose Honami is a criminal.』 in every first-year box, Katsuragi’s
+rough read that Sakayanagi is the favourite and that school action
+depends on Ichinose’s silence, Amikura’s failed plea to go to the
+teachers; Kamuro follows him into Room 401, tells the shoplifting
+backstory Sakayanagi caught a week after the entrance ceremony, claims
+Ichinose hides the same secret, and proves it by stealing a beer in ten
+minutes; Manabu calls from the walk — Kiriyama reports Kushida asked
+Nagumo to help expel Suzune. People touched this chapter: ayanokouji-
+kiyotaka, ichinose-honami, kamuro-masumi, katsuragi-kouhei, totsuka-
+yahiko, sakayanagi-arisu, horikita-manabu, kushida-kikyou, nagumo-
+miyabi, horikita-suzune, yamauchi-haruki, hashimoto-masayoshi,
+ryuuen-kakeru, kiriyama-ikuto, amikura-mako (new ledger file, roster row
+already present — first recorded scene). Translated quotes kept as
+printed: p.77 “determine whether was a student” (object missing).
+Rule 12 sample: expulsions +7 rows on the Kushida→Nagumo expel request —
+a near-miss of a student’s place on the table, accepted against title
+and lede; points 0; results +1 system [rule] (phone dial/accept list) —
+consistent with ch1’s accepted non-exam rules; who-knew-what +20
+structural note/limit/status/thinks rows — same known marker-set noise,
+no pattern change without owner OK; relationships takes the new [rel:]
+pairs as intended. New tags: none. New entities: none (amikura-mako
+ledger file created for an existing roster row). Fixed before ship: the
+volume “New named entities” beat said “ledger file” — reworded, R18
+caught it at 1 and it is back to 0. verify y1v9: 196 [says] + 60
+non-says ALL PASS; make check OK (R18 0, R19 82/82); gate exit 0; hash
+`f6ebafbfe3d02ea457fefaa960e9e8e6` twice. Next: ch5 pp.101–125.

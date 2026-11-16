@@ -427,3 +427,19 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.56–71) Never present; only named as source, monitor-employer, and past Class A aggressor.
 
 <!-- walk: y1v9 ch3 → p.75 -->
+
+### y1v9 p.89–95 — The shoplifting catch, as Kamuro tells it
+[scene] (p.89–95) Embedded flashback — a week after the entrance ceremony, convenience store to dormitory path.
+[rel:kamuro-masumi] (p.90–95) Accosts her, names the shoplifting, refuses to report it, and makes the secret conditional on friendship and work.
+[says] (p.90) “I have memorized the names and faces of all my classmates.”
+[says] (p.91) “You were shoplifting, were you not?”
+[says] (p.91) “Your execution was magnificent. What surprised me the most was how you kept your composure.”
+[says] (p.94) “I’ve grown to like you, Masumi Kamuro-san. You have to become my first friend.”
+[says] (p.94) “I’ll keep your secret, so in return, please help me out with a few things.”
+[feat] (p.91) Spotted the theft after scoping camera positions; reads routine from the absence of guilt-buying.
+[rel:ichinose-honami] (p.89, 95) Said in front of Ayanokōji that she and Ichinose hide the same secret — the premise of Kamuro’s visit.
+[limit] (p.89) Does not know Kamuro is in Room 401 right now, per Kamuro’s claim.
+[status] (p.97) Ayanokōji suspects the whole visit is her instruction — using Ichinose as the medium for a head-on confrontation.
+[note] (p.89–95) Present only as remembered speech; the narration is Kamuro’s, delivered in Ayanokōji’s room.
+
+<!-- walk: y1v9 ch4 → p.100 -->

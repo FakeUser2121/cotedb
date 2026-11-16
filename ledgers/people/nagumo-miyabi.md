@@ -363,3 +363,10 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [rel:horikita-manabu] (p.14, 19, 23) Contrasts his own council posture with Horikita-senpai’s; admits losing Horikita-senpai’s trust; planned the break with Manabu from the start.
 
 <!-- walk: y1v9 ch1 → p.25 -->
+
+### y1v9 p.100 — Named as Kushida’s new lever
+[rel:kushida-kikyou] (p.100) She made contact with him asking for help expelling Suzune.
+[rel:horikita-manabu] (p.100) Manabu’s relationship with him deteriorated at the last training camp — he expects another move.
+[note] (p.100) Does not appear; named in Manabu’s call only.
+
+<!-- walk: y1v9 ch4 → p.100 -->

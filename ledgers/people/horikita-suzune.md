@@ -2859,3 +2859,11 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (p.75) Does not stop Ichinose from leaving; the final elevator beat is Ichinose and Ayanokōji, not Horikita.
 
 <!-- walk: y1v9 ch3 → p.75 -->
+
+### y1v9 p.100 — Named as the expel target
+[rel:kushida-kikyou] (p.100) The target of Kushida’s request to Nagumo; Ayanokōji traces it back to her broken non-interference word.
+[rel:horikita-manabu] (p.100) His sister — the subject that makes him call unprompted.
+[rel:nagumo-miyabi] (p.100) Would be expelled with Nagumo’s assistance if the plan proceeds.
+[note] (p.100) Not present; named in Manabu’s call only.
+
+<!-- walk: y1v9 ch4 → p.100 -->
