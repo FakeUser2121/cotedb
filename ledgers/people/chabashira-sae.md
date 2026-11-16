@@ -1053,3 +1053,14 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:mashima-tomonari] (p.371) Acts alongside him as the exam proceeds.
 
 <!-- walk: y1v11 ch9 → p.399 -->
+
+### y1v11.5 pp.47–87 — Ch.1: Chess exam meeting
+
+[scene] (p.47) Participates in the meeting with Ayanokōji, Sakayanagi, Tsukishiro, and other teachers concerning the chess exam.
+[scene] (p.54) Hears Sakayanagi claim that Ayanokōji was the original winner of the chess game and that the process was manipulated.
+[scene] (p.63) Takes part in the teachers’ response as the issue of Acting Director Tsukishiro’s interference is pressed.
+[rel:tsukishiro] (p.47–87) Confronts the acting director over exam interference.
+[rel:sakayanagi-arisu] (p.47–87) Hears her accusation regarding the chess exam.
+[rel:ayanokouji-kiyotaka] (p.47–87) Present in the meeting involving his exam.
+
+<!-- walk: y1v11.5 ch1 → p.120 -->

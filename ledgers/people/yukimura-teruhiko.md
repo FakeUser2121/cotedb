@@ -768,3 +768,17 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [rel:ayanokouji-kiyotaka] (p.356) Is chosen by him for the math test.
 
 <!-- walk: y1v11 ch8 → p.367 -->
+
+### y1v11.5 pp.14–23 — Ch.1: After the final exam
+
+[scene] (p.14) Keisei greets Ayanokōji in the elevator on the morning of the graduation ceremony and laments Class D’s demotion.
+[says] (p.14) “Good morning.”
+[scene] (p.16) He explains that he pushed to recruit Katsuragi before the final exam and feels responsible for the class’s loss.
+[scene] (p.17) Keisei says Horikita did not blame him and discusses how the class views Ayanokōji’s command.
+[scene] (p.19) Keisei asks Ayanokōji why he did not report the Katsuragi plan.
+[scene] (p.21) He reflects that Horikita did not scold him harshly but made clear the consequences if he had failed.
+[scene] (p.22) Keisei discusses Horikita’s leadership and notes he has changed since the start of school.
+[rel:ayanokouji-kiyotaka] (p.14–23) Confides in him about the final exam and Horikita.
+[rel:horikita-suzune] (p.16–23) Discusses her response and leadership after the exam.
+
+<!-- walk: y1v11.5 ch1 → p.120 -->

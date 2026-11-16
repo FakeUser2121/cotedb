@@ -1770,3 +1770,4 @@ Volume y1v11 completed with coverage notes and DONE stamp. Determinism
 hash: `6bea783884c7cb8573db97157f0b718a`.
 
 | y1v11.5 Prologue (pp.8-12) | 5 | 0 | 342aba6642427bb7cfbe092356ab20b9 |
+| y1v11.5 Ch.1 (pp.13-120) | 108 | 0 | e5b41a99926b0436ec5c0f0ac722c58d |

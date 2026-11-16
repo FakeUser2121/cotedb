@@ -3243,3 +3243,24 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:horikita-manabu] (p.8–12) Reflects on parting from her brother on the day of his graduation departure.
 
 <!-- walk: y1v11.5 Prologue → p.12 -->
+
+### y1v11.5 pp.32–33, 89–104 — Ch.1: Graduation farewells
+
+[scene] (p.32) After the ceremony and class, Suzune tells Ayanokōji she has no plans to see her brother off.
+[scene] (p.33) After Ayanokōji presses her, Suzune admits it may be the last time she sees her brother and decides she may go.
+[says] (p.33) “Although I don’t communicate well with him, this might be the last time I see him.”
+[scene] (p.89) Suzune waits near the gym for the third-years to emerge and responds curtly when Ayanokōji greets her.
+[says] (p.89) “…What’s wrong with that?”
+[scene] (p.92) Hesitant to approach her brother amid the crowd, Suzune resists when Ayanokōji pushes her forward.
+[says] (p.92) “It’s definitely weird. I’ll be a complete outsider.”
+[scene] (p.93) Suzune says she wanted to see the culmination of her brother’s three years rather than have only a small chat.
+[scene] (p.98) Nagumo approaches Suzune after speaking with Horikita Manabu and addresses her as Manabu’s sister.
+[scene] (p.99) Suzune introduces herself nervously when Nagumo asks her name.
+[says] (p.99) “Horik-Suzune.”
+[scene] (p.99) Suzune says she is proud to be her brother’s sister.
+[says] (p.99) “Yes. I am proud of that.”
+[rel:ayanokouji-kiyotaka] (p.32–33, 89–104) Discusses seeing her brother with him and remains with him during the farewells.
+[rel:horikita-manabu] (p.32–33, 89–99) Struggles over whether to approach him and watches his graduation farewell.
+[rel:nagumo-miyabi] (p.98–104) Is approached and spoken to by him after his exchange with her brother.
+
+<!-- walk: y1v11.5 ch1 → p.120 -->

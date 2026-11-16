@@ -5020,3 +5020,46 @@ walk: y1v1 → DONE
 [rel:sotomura-hideo] (p.470–476) Plays the VR game with him in Horikita’s short story.
 
 <!-- walk: y1v11 ch10 → p.476 -->
+
+### y1v11.5 pp.13–120 — Ch.1: Graduation ceremony and farewells
+
+[scene] (p.13) On March 24, Ayanokōji attends the third-year graduation ceremony curious about the outcome of Horikita Manabu and Nagumo’s conflict and the ceremony itself.
+[scene] (p.14) In the elevator, Yukimura Keisei greets him and talks about Class D’s demotion after the final exam.
+[says:yukimura-teruhiko] (p.14) “Good morning.”
+[scene] (p.16) Keisei blames himself for pushing the Katsuragi recruitment and says he told Horikita about it.
+[scene] (p.17) Keisei explains that Horikita did not blame him and discusses the risk of Katsuragi betraying Class A.
+[scene] (p.20) Keisei asks why Ayanokōji did not report his Katsuragi plan to Horikita; Ayanokōji downplays it.
+[scene] (p.22) Keisei reflects on Horikita’s leadership and how he has changed since enrolling.
+[scene] (p.25) During the ceremony, graduates are called to the stage; Horikita Manabu gives the representative address as a Class A graduate.
+[scene] (p.30) Back in class after the ceremony, Chabashira praises the class’s growth despite their demotion.
+[says:chabashira-sae] (p.30) “Okay, even though we can mention this tomorrow during the closing ceremony, let’s briefly summarise what happened this year. “
+[scene] (p.32) After class, Ayanokōji asks Horikita Suzune whether she will see her brother; she initially says she has no plans.
+[scene] (p.33) Suzune decides she may see her brother and asks Ayanokōji to wait while he kills time until the graduates’ meeting ends.
+[scene] (p.34) In a flashback to the previous night, Ayanokōji calls Chairman Sakayanagi from his room.
+[action] (p.34) In a flashback to the previous night, Ayanokōji calls Chairman Sakayanagi from his room and identifies himself.
+[scene] (p.37) Ayanokōji asks Chairman Sakayanagi about his house arrest and explains he is calling because of circumstances affecting his own status.
+[scene] (p.40) Ayanokōji tells Chairman Sakayanagi that Acting Director Tsukishiro is acting against him and asks the chairman to return to the school.
+[scene] (p.45) In the present, Ayanokōji meets Sakayanagi Arisu while waiting and they head to a meeting room.
+[scene] (p.47) Ayanokōji attends a meeting with Sakayanagi, Tsukishiro, Mashima, Chabashira, Sakagami, and Hoshinomiya concerning the chess exam.
+[scene] (p.54) Sakayanagi states that Ayanokōji originally won the chess match, prompting a dispute over the process and Tsukishiro’s role.
+[says:sakayanagi-arisu] (p.54) “I was originally the loser of that chess game, Ayanokouji-kun came out victorious.”
+[scene] (p.63) Mashima and the teachers decide the matter must be reported despite Tsukishiro’s denials.
+[scene] (p.89) After the meeting, Ayanokōji finds Horikita Suzune waiting near the gym for the third-years to emerge from the graduates’ meeting.
+[scene] (p.92) As more graduates gather, Ayanokōji urges Suzune to approach her brother and pushes her forward.
+[scene] (p.94) Ayanokōji watches Nagumo Miyabi congratulate Horikita Manabu as Asahina Nazuna and other student council members stand nearby.
+[scene] (p.98) Nagumo approaches Suzune after parting from Manabu, and their exchange draws attention to her as Manabu’s sister.
+[scene] (p.100) Ayanokōji listens as Nagumo and Asahina discuss the outcome of Nagumo’s conflict with Horikita Manabu.
+[scene] (p.104) Ayanokōji observes the farewells as the graduates’ send-off continues around them.
+[rel:yukimura-teruhiko] (p.14–22) Talks with Keisei before and after the ceremony.
+[rel:horikita-suzune] (p.32–33, 89–104) Discusses seeing her brother and stays with her during the farewell gathering.
+[rel:horikita-manabu] (p.25–28, 94–98) Watches his graduation speech and later observes him among graduates.
+[rel:sakayanagi-arisu] (p.45–87) Meets her and participates in the confrontation over the chess exam.
+[rel:tsukishiro] (p.47–87) Confronts him in the meeting over exam interference.
+[rel:nagumo-miyabi] (p.94–104) Observes his exchange with Horikita Manabu and later with Suzune and Asahina.
+[rel:asahina-nazuna] (p.94–104) Sees her with Nagumo during the farewell gathering.
+[rel:chabashira-sae] (p.30–31, 47–87) Hears her address in class and later attends the meeting.
+[rel:mashima-tomonari] (p.47–87) Present in the meeting about exam interference.
+[rel:hoshinomiya-chie] (p.47–87) Present in the meeting about exam interference.
+[rel:sakagami-kazuma] (p.47–87) Present in the meeting about exam interference.
+
+<!-- walk: y1v11.5 ch1 → p.120 -->

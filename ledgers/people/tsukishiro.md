@@ -45,3 +45,18 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 ## y1v11
 
 <!-- walk: y1v11 → start -->
+
+### y1v11.5 pp.47–87 — Ch.1: Confronted over chess interference
+
+[scene] (p.47) Tsukishiro attends a meeting with Ayanokōji, Sakayanagi, and the teachers regarding the chess exam.
+[scene] (p.54) He is confronted after Sakayanagi claims Ayanokōji was the original winner of the chess game.
+[scene] (p.55) Tsukishiro questions the basis for the accusation and the lack of direct observation by the teachers.
+[scene] (p.63) Despite his position, the teachers move toward reporting the matter rather than accepting his stance.
+[rel:ayanokouji-kiyotaka] (p.47–87) Is confronted by him over exam interference.
+[rel:sakayanagi-arisu] (p.47–87) Is accused by her of manipulating the chess exam.
+[rel:mashima-tomonari] (p.47–87) Faces questioning and reporting pressure from him.
+[rel:chabashira-sae] (p.47–87) Faces questioning from her during the meeting.
+[rel:hoshinomiya-chie] (p.47–87) Present during the confrontation.
+[rel:sakagami-kazuma] (p.47–87) Present during the confrontation.
+
+<!-- walk: y1v11.5 ch1 → p.120 -->

@@ -2920,3 +2920,28 @@ her past imitation of herself, and resolves to act. Ledgers touched:
 `ledgers/volumes/y1v11.5.md`, `ledgers/people/horikita-suzune.md`.
 `verify --vol y1v11.5`: ALL PASS; `build`/`gate`/`make check` OK; hash
 stable `342aba6642427bb7cfbe092356ab20b9`. Next: y1v11.5 ch1 pp.13–120.
+
+### y1v11.5 Ch.1 — walked, shipped
+
+Chapter 1 "Graduation Ceremony" (pp.13–120). Ayanokōji attends the
+graduation ceremony, talks with Yukimura Keisei, hears Horikita Manabu’s
+address, and later speaks with Horikita Suzune about seeing her brother.
+A flashback covers Ayanokōji’s call to Chairman Sakayanagi about Acting
+Director Tsukishiro; in the present Ayanokōji and Sakayanagi Arisu join
+teachers to confront Tsukishiro over chess exam interference. After the
+graduates’ meeting, Suzune and Ayanokōji observe farewells involving
+Horikita Manabu, Nagumo Miyabi, Asahina Nazuna, Kiriyama Ikuto, and
+Tachibana Akane. Ledgers touched: `ledgers/volumes/y1v11.5.md`,
+`ledgers/people/ayanokouji-kiyotaka.md`,
+`ledgers/people/horikita-suzune.md`,
+`ledgers/people/horikita-manabu.md`,
+`ledgers/people/yukimura-teruhiko.md`,
+`ledgers/people/sakayanagi-arisu.md`,
+`ledgers/people/tsukishiro.md`, `ledgers/people/nagumo-miyabi.md`,
+`ledgers/people/kiriyama-ikuto.md`, `ledgers/people/asahina-nazuna.md`,
+`ledgers/people/tachibana-akane.md`,
+`ledgers/people/mashima-tomonari.md`,
+`ledgers/people/chabashira-sae.md`,
+`ledgers/people/hoshinomiya-chie.md`, `ledgers/people/sakagami.md`.
+`verify --vol y1v11.5`: ALL PASS; `build`/`gate`/`make check` OK; hash
+stable `e5b41a99926b0436ec5c0f0ac722c58d`. Next: y1v11.5 ch2 pp.121–143.

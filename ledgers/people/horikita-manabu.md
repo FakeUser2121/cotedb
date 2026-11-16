@@ -706,3 +706,17 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [rel:horikita-suzune] (p.218–225) Discusses her growth and dependence on him.
 
 <!-- walk: y1v11 ch6 → p.280 -->
+
+### y1v11.5 pp.25–28, 94–98 — Ch.1: Graduation and farewells
+
+[scene] (p.25) At the graduation ceremony, Horikita Manabu is called as Class A’s representative and delivers the graduation address.
+[scene] (p.28) He concludes his speech by thanking the students for the past three years.
+[scene] (p.94) After the graduates’ meeting, Manabu receives graduates and underclassmen; Nagumo congratulates him on graduating.
+[scene] (p.95) He accepts Nagumo’s handshake and responds to his comments about their indirect conflict.
+[says] (p.95) “Of course, I have no reason to refuse.”
+[scene] (p.97) Manabu advises Nagumo to spend his remaining year in a satisfying way and reflects that he will not see Nagumo’s changes firsthand.
+[rel:horikita-suzune] (p.25–28, 93–99) His sister watches him from afar during the farewell gathering.
+[rel:nagumo-miyabi] (p.94–98) Exchanges words and a handshake with him as former and current student council presidents.
+[rel:ayanokouji-kiyotaka] (p.25–28, 94–98) Is observed by Ayanokōji during the ceremony and farewells.
+
+<!-- walk: y1v11.5 ch1 → p.120 -->

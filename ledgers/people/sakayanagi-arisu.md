@@ -705,3 +705,20 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:tsukishiro] (p.433–444) Confronts him over interfering in the chess match.
 
 <!-- walk: y1v11 ch10 → p.476 -->
+
+### y1v11.5 pp.45–87 — Ch.1: Chess exam confrontation
+
+[scene] (p.45) Sakayanagi meets Ayanokōji while he is waiting and accompanies him.
+[scene] (p.47) She attends a meeting with Ayanokōji, Tsukishiro, Mashima, Chabashira, Sakagami, and Hoshinomiya about the chess exam.
+[scene] (p.54) Sakayanagi states that Ayanokōji was the original winner of the chess game and challenges the official process.
+[says] (p.54) “I was originally the loser of that chess game, Ayanokouji-kun came out victorious.”
+[scene] (p.55) She argues that the issue lies in the process of the match rather than the recorded result.
+[scene] (p.67) Sakayanagi presses the teachers to recognize that Acting Director Tsukishiro manipulated the exam.
+[rel:ayanokouji-kiyotaka] (p.45–87) Meets him and supports exposing the chess exam interference.
+[rel:tsukishiro] (p.47–87) Confronts him over manipulating the chess exam.
+[rel:mashima-tomonari] (p.47–87) Participates in the meeting with him.
+[rel:chabashira-sae] (p.47–87) Participates in the meeting with her.
+[rel:sakagami-kazuma] (p.47–87) Participates in the meeting with him.
+[rel:hoshinomiya-chie] (p.47–87) Participates in the meeting with her.
+
+<!-- walk: y1v11.5 ch1 → p.120 -->

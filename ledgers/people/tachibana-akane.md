@@ -208,3 +208,12 @@ aliases used for anchors: tachibana, secretary, student council secretary
 [rel:horikita-suzune] (p.229) Reacts to the idea of her ending up with Ayanokōji.
 
 <!-- walk: y1v11 ch6 → p.280 -->
+
+### y1v11.5 pp.94–98 — Ch.1: Graduation farewell
+
+[scene] (p.94) Tachibana Akane is present among the graduates and third-years during Horikita Manabu’s farewell after the graduates’ meeting.
+[scene] (p.98) She remains near Horikita Manabu as students and Nagumo exchange parting words with him.
+[rel:horikita-manabu] (p.94–98) Accompanies him during the graduation farewell gathering.
+[rel:nagumo-miyabi] (p.94–98) Present during Nagumo’s exchange with Manabu.
+
+<!-- walk: y1v11.5 ch1 → p.120 -->

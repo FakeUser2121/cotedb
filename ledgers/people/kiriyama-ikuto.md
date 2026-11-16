@@ -103,3 +103,13 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 [rel:ayanokouji-kiyotaka] (p.202–204) Recruits him to post the rumors on the school forums.
 
 <!-- walk: y1v9 Epilogue → p.225 -->
+
+### y1v11.5 pp.94–104 — Ch.1: Graduation farewells
+
+[scene] (p.94) Kiriyama appears with Nagumo Miyabi and other student council members during the third-year farewells after the graduates’ meeting.
+[scene] (p.100) He is present in the circle around Nagumo as Nagumo discusses Horikita Manabu’s graduation and the outcome of their conflict.
+[rel:nagumo-miyabi] (p.94–104) Accompanies him as a student council member during the farewells.
+[rel:asahina-nazuna] (p.94–104) Present alongside her in the student council group.
+[rel:horikita-manabu] (p.94–98) Present during the farewell exchanges with the former president.
+
+<!-- walk: y1v11.5 ch1 → p.120 -->

@@ -460,3 +460,20 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [note] (p.166) Nagumo does not appear in person; his moves are discussed at the meeting.
 
 <!-- walk: y1v10 Ch4 → p.181 -->
+
+### y1v11.5 pp.94–104 — Ch.1: Graduation farewells
+
+[scene] (p.94) As current student council president, Nagumo approaches Horikita Manabu after the graduates’ meeting and congratulates him on graduating.
+[says] (p.94) “Congratulations on graduating, Horikita-senpai.”
+[scene] (p.94) He tells Manabu he was unable to threaten him, attributing it in part to being in a different year.
+[scene] (p.95) Nagumo shakes Manabu’s hand and exchanges words with him about the past year.
+[scene] (p.97) He declares he will use his remaining year to turn the school into a meritocracy based on ability.
+[scene] (p.98) After parting from Manabu, Nagumo approaches Horikita Suzune and speaks to her as Manabu’s sister.
+[scene] (p.100) In conversation with Asahina and others, Nagumo maintains that he did not lose to Horikita Manabu despite Manabu graduating from Class A.
+[rel:horikita-manabu] (p.94–98) Congratulates him and exchanges parting words as successor and graduate.
+[rel:horikita-suzune] (p.98–104) Approaches and speaks to her during the farewells.
+[rel:asahina-nazuna] (p.94–104) Is accompanied by her and discusses the outcome with her.
+[rel:kiriyama-ikuto] (p.94) Appears with him among student council members at the farewell.
+[rel:ayanokouji-kiyotaka] (p.94–104) Is observed by him during the farewell exchanges.
+
+<!-- walk: y1v11.5 ch1 → p.120 -->

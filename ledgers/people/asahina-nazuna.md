@@ -98,3 +98,15 @@ char_id: asahina-nazuna · class: Class 2-A · status: supporting
 [action] (p.103) Slaps Ayanokōji on the back and runs toward the school after asking him to help.
 
 <!-- walk: y1v10 Ch3 → p.147 -->
+
+### y1v11.5 pp.94–104 — Ch.1: Graduation farewells
+
+[scene] (p.94) Asahina Nazuna appears with Nagumo Miyabi and other student council members during the third-year farewells.
+[scene] (p.100) She questions Nagumo when he says he did not lose to Horikita Manabu despite Manabu graduating from Class A.
+[scene] (p.101) She presses Nagumo on what counts as losing in his conflict with Horikita Manabu.
+[rel:nagumo-miyabi] (p.94–104) Accompanies him and questions his view of the outcome.
+[rel:horikita-manabu] (p.94–101) Present during farewells involving the former student council president.
+[rel:horikita-suzune] (p.98–104) Present nearby when Nagumo approaches Suzune.
+[rel:kiriyama-ikuto] (p.94–104) Present with him among student council members.
+
+<!-- walk: y1v11.5 ch1 → p.120 -->
