@@ -1204,3 +1204,16 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:ayanokouji-kiyotaka] (p.371–372) Discusses him with Horikita.
 
 <!-- walk: y1v10 Short Stories → p.376 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->
+
+### y1v11 pp.49, 53 — Ch.2: Class discussion
+
+[scene] (p.49) Agrees with Horikita’s deduction that no one would give praise votes to a strong opponent.
+[scene] (p.53) Calls out Horikita for covering for Ayanokōji and then supporting him as commander.
+[rel:horikita-suzune] (p.49, 53) Agrees with her reasoning, then questions her inconsistency.
+[rel:ayanokouji-kiyotaka] (p.53) Reacts to the discussion about him becoming commander.
+
+<!-- walk: y1v11 ch3 → p.54 -->

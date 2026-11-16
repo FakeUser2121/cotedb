@@ -962,3 +962,19 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:tsukishiro] (p.18, 22) Is dissatisfied with his decisions.
 
 <!-- walk: y1v11 ch2 → p.26 -->
+
+### y1v11 pp.27–41 — Ch.2: Announcing the Event Selection Exam
+
+[scene] (p.27) Enters Class C on March 8 to announce the final special exam.
+[scene] (p.28) Explains the Event Selection Exam as a comprehensive competition between classes.
+[scene] (p.29) Uses white and yellow cards to show that the class must propose ten events.
+[scene] (p.30) Prompts Ike to speak and takes his rock-paper-scissors example seriously.
+[scene] (p.32) Explains event rules must be fair, understandable, and include tiebreakers to prevent draws.
+[scene] (p.33) Outlines the exam schedule and says seven events will be randomly selected from the five chosen by each class.
+[scene] (p.36) Explains that a commander is required, can intervene in events, and will be expelled if the class loses.
+[scene] (p.38) Says the class matchups will be decided by raffle among commanders after school.
+[scene] (p.40) Warns that losing could drop Class C back to Class D and explains class-point changes.
+[rel:ike-kanji] (p.29–32) Encourages him to ask questions and uses his example.
+[rel:horikita-suzune] (p.33, 35, 38) Answers her questions about events, rules, and matchups.
+
+<!-- walk: y1v11 ch3 → p.54 -->

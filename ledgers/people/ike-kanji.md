@@ -937,3 +937,22 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:sudou-ken] (p.306, 311) Shares the aftermath of the vote with him.
 
 <!-- walk: y1v10 Epilogue → p.362 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->
+
+### y1v11 pp.29–52 — Ch.2: Exam explanation and aftermath
+
+[scene] (p.29) Hesitates to interrupt Chabashira but asks what she means by “events”.
+[says] (p.29) “N-no, it’s just… don’t you get angry at us when we interrupt you while you’re still talking?”
+[scene] (p.32) Answers Chabashira’s question by saying he is good at rock-paper-scissors.
+[says] (p.32) “I-I guess I’m pretty good at stuff like rock-paper-scissors?”
+[scene] (p.46) Questions how Ayanokōji ended up with 42 praise votes in the Class Poll.
+[says] (p.47) “…Well, I dunno if I’m unhappy with it. I really just don’t get what happened is all. Everyone’s been wondering how Ayanokōji ended up with the most praise votes. Like, how’d he even get 42 of ‘em?”
+[scene] (p.52) Supports Ayanokōji volunteering as commander so no one will be expelled.
+[rel:chabashira-sae] (p.29–32) Asks her questions during the exam explanation.
+[rel:ayanokouji-kiyotaka] (p.46–52) Questions his praise votes, then supports him as commander.
+[rel:sudou-ken] (p.46) Raises concerns together about Yamauchi and the votes.
+
+<!-- walk: y1v11 ch3 → p.54 -->

@@ -979,3 +979,15 @@ aliases used for anchors: sakura, airi, sakura-san
 [rel:horikita-suzune] (p.231) Wonders how she learned of Yamauchi’s betrayal.
 
 <!-- walk: y1v10 Ch5 → p.237 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->
+
+### y1v11 pp.49 — Ch.2: Class discussion
+
+[scene] (p.49) Agrees with Horikita’s deduction that no one would give praise votes to a strong opponent.
+[rel:horikita-suzune] (p.49) Supports her explanation.
+[rel:ayanokouji-kiyotaka] (p.49) Participates in the discussion about his praise votes.
+
+<!-- walk: y1v11 ch3 → p.54 -->

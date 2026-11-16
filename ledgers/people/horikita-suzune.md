@@ -3029,3 +3029,23 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:karuizawa-kei] (p.371–372) Talks with her about Ayanokōji.
 
 <!-- walk: y1v10 Short Stories → p.376 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->
+
+### y1v11 pp.33–54 — Ch.2: Exam rules and commander decision
+
+[scene] (p.33) Asks whether the extra events are meant to mislead opponents and questions rules about participation and commanders.
+[scene] (p.42) Takes photos of the event-rule handout and shares them with Ayanokōji.
+[scene] (p.45) Comments that the exam favors classes whose events are selected on the day.
+[scene] (p.47) Explains to Sudō and Ike that Sakayanagi likely targeted Yamauchi and used Ayanokōji for praise votes.
+[scene] (p.50) Says she takes responsibility for exposing Yamauchi and refuses to blame Ayanokōji.
+[scene] (p.53) When Ayanokōji volunteers as commander, Horikita says she does not want the risk but supports Ayanokōji taking the role.
+[scene] (p.54) Suggests the class arrange a meeting to prepare, taking initiative in Hirata’s place.
+[rel:ayanokouji-kiyotaka] (p.42, 47–54) Shares the rules with him, defends him, and helps steer him into the commander role.
+[rel:sudou-ken] (p.47–51) Explains Sakayanagi’s plan to him.
+[rel:ike-kanji] (p.47–51) Explains the Class Poll outcome to him.
+[rel:shinohara-satsuki] (p.52–53) Responds to concerns about Ayanokōji as commander.
+
+<!-- walk: y1v11 ch3 → p.54 -->

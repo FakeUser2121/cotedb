@@ -1733,3 +1733,7 @@ Room memory and Ayanokōji. Determinism hash: `6616223090c987c7e9262af9f554cf44`
 Year 1 Volume 11 Chapter 1 "The Teachers’ Battle" (pp.13–26) walked.
 Tsukishiro imposes first-year exam changes; teacher conflict. Determinism
 hash: `b4c834dcff42ea32623ae022084291ce`.
+
+Year 1 Volume 11 Chapter 2 "The First Years’ Final Battle" (pp.27–54)
+walked. Event Selection Exam rules and Ayanokōji named commander.
+Determinism hash: `66e5f9106099b1fdbf430914a61305a7`.

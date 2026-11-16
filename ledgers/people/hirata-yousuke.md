@@ -1454,3 +1454,16 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:wang-mei-yu] (p.290, 311) Is defended by her and later does not respond when she calls out to him.
 
 <!-- walk: y1v10 Epilogue → p.362 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->
+
+### y1v11 pp.46, 54 — Ch.2: Withdrawn during the exam announcement
+
+[scene] (p.46) Remains motionless at his desk with his eyes downcast while the class discusses the new exam.
+[scene] (p.54) Does not take initiative in organizing the class, leaving Horikita to step in.
+[rel:horikita-suzune] (p.54) She takes initiative in his place.
+[rel:ayanokouji-kiyotaka] (p.46) Present as the class discusses his praise votes and commander role.
+
+<!-- walk: y1v11 ch3 → p.54 -->

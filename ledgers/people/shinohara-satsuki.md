@@ -220,3 +220,16 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [rel:hirata-yousuke] (p.290) Refuses to accept his offer to be expelled.
 
 <!-- walk: y1v10 Epilogue → p.362 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->
+
+### y1v11 pp.52–53 — Ch.2: Objecting to Ayanokōji as commander
+
+[scene] (p.52) Objects to Ayanokōji becoming commander, saying it could feel like giving up on winning and that he is only average.
+[scene] (p.53) Asks if anyone else is interested in taking the role instead.
+[rel:ayanokouji-kiyotaka] (p.52–53) Opposes him serving as commander.
+[rel:horikita-suzune] (p.52–53) Challenges her support for Ayanokōji.
+
+<!-- walk: y1v11 ch3 → p.54 -->

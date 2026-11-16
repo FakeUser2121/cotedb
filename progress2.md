@@ -2799,3 +2799,13 @@ Mashima, and Hoshinomiya. Ledgers touched: tsukishiro (created),
 mashima-tomonari, chabashira-sae, hoshinomiya-chie,
 ledgers/volumes/y1v11.md. verify y1v11: ALL PASS; make check OK; gate
 exit 0. Next: ch3 pp.27–54.
+
+### y1v11 ch3 — walked, shipped
+
+Chapter 2 "The First Years’ Final Battle" (pp.27–54). Event Selection
+Exam announced: rules, schedule, commander role, class-point changes,
+and class discussion leading to Ayanokōji volunteering as commander.
+Ledgers touched: chabashira-sae, ike-kanji, sudou-ken, horikita-suzune,
+shinohara-satsuki, karuizawa-kei, sakura-airi, hirata-yousuke,
+ayanokouji-kiyotaka, ledgers/volumes/y1v11.md. verify y1v11: ALL PASS;
+make check OK; gate exit 0. Next: ch4 pp.55–92.

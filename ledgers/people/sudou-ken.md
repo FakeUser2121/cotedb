@@ -1336,3 +1336,20 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:ike-kanji] (p.306, 311) Shares the aftermath of the vote with him.
 
 <!-- walk: y1v10 Epilogue → p.362 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->
+
+### y1v11 pp.46–52 — Ch.2: Questioning the Class Poll result
+
+[scene] (p.46) Speaks up before the class discussion to ask about what happened in the previous exam.
+[scene] (p.47) Says he wants to hear from Ayanokōji because they lost Yamauchi.
+[says] (p.47) “Hold up. We want to hear it from Ayanokōji. We lost a buddy… You know that right?”
+[scene] (p.48) Struggles to accept Horikita’s explanation and suggests Ayanokōji might have been chosen because he is incredible.
+[scene] (p.52) Is surprised when Ayanokōji volunteers to be commander.
+[rel:ayanokouji-kiyotaka] (p.46–52) Wants an explanation from him and reacts to his volunteering.
+[rel:horikita-suzune] (p.47–51) Listens to her explanation of Sakayanagi’s plan.
+[rel:ike-kanji] (p.46) Raises the issue together with him.
+
+<!-- walk: y1v11 ch3 → p.54 -->

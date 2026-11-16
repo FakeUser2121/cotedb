@@ -4793,3 +4793,19 @@ walk: y1v1 → DONE
 [rel:sakayanagi-arisu] (p.10–12) She observes him through glass during her childhood visit.
 
 <!-- walk: y1v11 ch1 → p.12 -->
+
+### y1v11 pp.27–54 — Ch.2: Event Selection Exam announced
+
+[scene] (p.27) Attends homeroom as Chabashira announces the Event Selection Exam after Yamauchi’s expulsion.
+[scene] (p.42) Receives photos of the event-rule handout from Horikita.
+[scene] (p.46) Ike and Sudō question him about receiving 42 praise votes in the Class Poll.
+[scene] (p.47) Horikita explains Sakayanagi’s plan on his behalf.
+[scene] (p.51) Volunteers to become the class commander to clear suspicions and because he holds a protection point.
+[scene] (p.53) Horikita supports him taking the commander role despite objections.
+[rel:horikita-suzune] (p.42, 47–54) Receives the rules from her and is defended and steered into the commander role by her.
+[rel:ike-kanji] (p.46–52) Is questioned by him and later supported when he volunteers.
+[rel:sudou-ken] (p.46–52) Is questioned by him about the praise votes.
+[rel:shinohara-satsuki] (p.52–53) Faces her objection to him becoming commander.
+[rel:chabashira-sae] (p.27–41) Hears her explain the Event Selection Exam rules.
+
+<!-- walk: y1v11 ch3 → p.54 -->
