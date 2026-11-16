@@ -11,18 +11,22 @@ var want=pref==='on'||(pref!=='off'&&!weak&&!calm);
 h.dataset.theme=ls('theme')||'dark';
 h.dataset.fx=want?'full':'static';
 
-var seen;try{seen=sessionStorage.getItem('fxboot')}catch(e){}
-var fast=false;
-function coverMiss(){h.classList.add('fx-boot');
- setTimeout(function(){if(h.classList.contains('fx-boot'))h.classList.remove('fx-boot')},2000);
- if(window.__fxbell)window.__fxbell()}
-if(want){
- if(!seen){h.classList.add('fx-boot');try{sessionStorage.setItem('fxboot','1')}catch(e){}
-  setTimeout(function(){h.classList.remove('fx-boot')},2000)}
- else{
-  fast=(window.performance&&performance.now())<300;
-  if(!fast)coverMiss()}
+if(!window.__bootCritical){
+ var seen;try{seen=sessionStorage.getItem('fxboot')}catch(e){}
+ var fast=false;
+ function coverMiss(){h.classList.add('fx-boot');
+  setTimeout(function(){if(h.classList.contains('fx-boot'))h.classList.remove('fx-boot')},2000);
+  if(window.__fxbell)window.__fxbell()}
+ if(want){
+  if(!seen){h.classList.add('fx-boot');try{sessionStorage.setItem('fxboot','1')}catch(e){}
+   setTimeout(function(){h.classList.remove('fx-boot')},2000)}
+  else{
+   fast=(window.performance&&performance.now())<300;
+   if(!fast)coverMiss()}
+ }
 }
+if(h.classList.contains('fx-boot')){
+ setTimeout(function(){if(h.classList.contains('fx-boot'))h.classList.remove('fx-boot')},2000)}
 
 var loaded=false;
 function loadFx(){if(loaded)return;loaded=true;
