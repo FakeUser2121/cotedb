@@ -6,7 +6,7 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y1v3 → start -->
 
-### y1v3 p.32–35, p.41–42 — Ch.2 §2.1: the toilet war
+### y1v3 p.32–35, p.41–42 — Ch.2 sec. 2.1: the toilet war
 [scene] (p.34) Rules huddle on the beach; the cardboard toilet demonstration lands on the girls.
 [says] (p.34) “Don’t tell me we have to use that?!” — raised "in horrified surprise" at the assembled box.
 [rel:ike-kanji] (p.35) The argument that runs the section: "Don’t screw around! It probably doesn’t matter to you boys." / "It’s true though, isn’t it? You do seem to be really perverted." / "A gentleman? Get real. You’re by far the top contender for biggest pervert."
@@ -14,7 +14,7 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [rel:hirata-yousuke] (p.42) Keeps pleading with Hirata as the only decision-maker she trusts: "Hirata-kun is going to consider all of our opinions and decide. Right, Hirata-kun?"
 [rel:yukimura-teruhiko] (p.43) Gets the discrimination charge from him for framing it as a girls-only need: "Isn’t that simply a form of discrimination?"
 
-### y1v3 p.67–68, p.88, p.91 — Ch.2 §2.4–§2.8: the river fight, the apology, and the vote
+### y1v3 p.67–68, p.88, p.91 — Ch.2 sec. 2.4–sec. 2.8: the river fight, the apology, and the vote
 [rel:ike-kanji] (p.67–68) The drinking-water round: "Then you drink it, as an experiment." → his gulp → "Okay, that’s a major turn off. No way, no way! … Gross!" / "No way! Ugh, I hate barbarians like you most of all, god!"
 [rel:sudou-ken] (p.68–69) Mocks Sudou's cooperation line — "Oh, don’t make me laugh. Cooperate? That’s funny coming from you, Sudou-kun." — and then tells him to stop with the thoughtful suggestions.
 [rel:ike-kanji] (p.88) Accepts his apology and answers with her own: "I think I got way too emotional. We won’t be able to keep any of our points if we don’t learn to adjust."
@@ -43,7 +43,7 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [says:shinohara-satsuki] (p.166) “That’s weird… I thought for sure it was one of them. But if you say so, Hirata-kun…”
 [status] (p.166) Accepts Hirata’s report and stands down the search of the boys.
 
-### y1v3 p.171–178 — Ch.6 §6.1: the dividing line
+### y1v3 p.171–178 — Ch.6 sec. 6.1: the dividing line
 [scene] (p.171) Draws the line between boys and girls with a tree branch and evicts the boys from her side of the camp.
 [says:shinohara-satsuki] (p.171) “We think the culprit is a boy, so we’re drawing a dividing line between boys and girls. Boys are absolutely prohibited from entering our side.”
 [says:shinohara-satsuki] (p.171) “It might not have been hidden in a bag, though. Men are perverts. Anyway, don’t enter the girls’ territory until the culprit has been found. Go over there.”
@@ -59,7 +59,7 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [rel:karuizawa-kei] (p.178) She asks Karuizawa to confirm that the boys stay distrusted, and Karuizawa answers her.
 
 ### y1v3 p.182, p.191–239 — Ch.6: after her part ends
-[scene] (p.182) The chapter keeps going without her: after §6.1 she appears only in Ibuki’s recollection of the morning’s accusations.
+[scene] (p.182) The chapter keeps going without her: after sec. 6.1 she appears only in Ibuki’s recollection of the morning’s accusations.
 [note] (p.182) Ibuki had seen her and the others treat Ayanokōji like a criminal — named, but not present in any later scene.
 [note] (p.239) The rest of the chapter carries no scenes for her; her last rows stand at p.178.
 
@@ -69,11 +69,11 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y1v4 → start -->
 
-### y1v4 p.27 — Ch.2 §2.2: named as Sakura’s roommate
+### y1v4 p.27 — Ch.2 sec. 2.2: named as Sakura’s roommate
 [scene] (p.27) Named as Sakura’s first roommate, with the narration’s character sketch.
 [rel:sakura-airi] (p.27) Roommate; the narration sizes her up — close with Karuizawa, “like her boss, really” — reliable and unafraid of a fight, but relentless against people she doesn’t like, so she “probably wouldn’t go out of her way to befriend her.”
 
-### y1v4 p.174 — Ch.4 §4.4: the excuse name
+### y1v4 p.174 — Ch.4 sec. 4.4: the excuse name
 [scene] (p.174) Named in Karuizawa’s “I didn’t have any choice!” outburst at the vending machine — Shinohara and the others were there.
 [rel:karuizawa-kei] (p.174) The witness list she uses to justify the old Rika incident; Ayanokōji cuts her off with “What does that mean?”
 [note] (p.174) No scene presence; one spoken name in Karuizawa’s line.
@@ -101,7 +101,7 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y1v5 → start -->
 
-### y1v5 p.39–53 — Ch.3 §3: Objects to the ability plan
+### y1v5 p.39–53 — Ch.3 sec. 3: Objects to the ability plan
 [scene] (p.40) Shinohara is the first student to object when Sudou claims the recommended events, and she argues her case against Horikita for two pages.
 [says] (p.40) “Won’t that leave slower people high and dry?”
 [says] (p.40) “I don’t want to throw away my shot.”
@@ -112,7 +112,7 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y1v5 ch3 → p.53 -->
 
-### y1v5 p.121 — Ch.6 §6: passing mention
+### y1v5 p.121 — Ch.6 sec. 6: passing mention
 [scene] (p.121) Shinohara hurries over to support Karuizawa’s rescue ride in the girls’ cavalry.
 [rel:karuizawa-kei] (p.121) Second rider in the support dash that Ichinose’s unit intercepts.
 [note] (p.121) No further action shown for her on these pages.

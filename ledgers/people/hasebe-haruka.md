@@ -6,7 +6,7 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 
 <!-- walk: y1v6 → start -->
 
-### y1v6 p.85–103 — Ch.5 §5.2–5.5: the reluctant partner
+### y1v6 p.85–103 — Ch.5 sec. 5.2–5.5: the reluctant partner
 [scene] (p.85) Named with Miyake as his final-exam partner; short-quiz 79 vs 1 as planned, midterms nearly equal.
 [rel:miyake-akito] (p.85) Equally good and bad at the same subjects; wrong answers match his almost exactly.
 [rel:hirata-yousuke] (p.85–86) Sheets handed to Hirata; declines group tutoring for Ichihashi’s clique and leaves.
@@ -92,7 +92,7 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [says:hasebe-haruka] (p.102) “Well, I’m not in any clubs, so I’m good. Let’s decide when to meet based on what works for Miyacchi.”
 [says:hasebe-haruka] (p.102) “If it were just me getting expelled, I wouldn’t care. But I don’t want to drag you down with me, Miyacchi. You know?”
 
-### y1v6 p.132–135 — Ch.6 §6.0: the fifth session and the gossip derail
+### y1v6 p.132–135 — Ch.6 sec. 6.0: the fifth session and the gossip derail
 [scene] (p.132) Fifth study session in the Keyaki Mall café; she insists café beats a stuffy room and accepts Yukimura’s humanities packet.
 [says:hasebe-haruka] (p.132) “Wow, it’s even noisier than I imagined,”
 [says:hasebe-haruka] (p.132) “No way. It’s easier to do it here. Right, Miyacchi?”
@@ -113,7 +113,7 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [rel:yoshimoto-kosetsu] (p.135) Gossip target: Class C archery club, dating a second-year, talking marriage — no scene with him.
 [trait] (p.132–135) Hates studying and her weakest subject, yet stays for the fifth session; coffee is so sweet the dregs let Hiyori reverse-engineer the sugar.
 
-### y1v6 p.156 — Ch.6 §6.4: group-chat organizer
+### y1v6 p.156 — Ch.6 sec. 6.4: group-chat organizer
 [scene] (p.156) Creates the group chat and books the movie tickets once everyone replies.
 [says:hasebe-haruka] (p.156) “Of course! You’re part of the group, Yukimuu. But I guess I did spring this on you guys. If you don’t have time, we can wait and go after the test.”
 [says:hasebe-haruka] (p.156) “Sure. I’ll collect points from you later. Thanks, everyone!”

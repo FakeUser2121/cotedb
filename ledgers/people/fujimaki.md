@@ -6,7 +6,7 @@ char_id: fujimaki · class: Class 3-A · status: minor
 
 <!-- walk: y1v5 → start -->
 
-### y1v5 p.26–27 — Ch.2 §2.2: Red Team command
+### y1v5 p.26–27 — Ch.2 sec. 2.2: Red Team command
 [scene] (p.26) Steps forward in the crowded Gymnasium 1 among instructors and students and takes command of the Red Team for the sports festival.
 [says] (p.26) “I’m Fujimaki, from the third-year Class A.”
 [role:red-team-command] (p.26) Announced as the student who will assume command of Red Team — the student council president does not take it.
@@ -18,7 +18,7 @@ char_id: fujimaki · class: Class 3-A · status: minor
 
 <!-- walk: y1v5 ch2 → p.38 -->
 
-### y1v5 p.86 — Ch.6 §6: the opening speech
+### y1v5 p.86 — Ch.6 sec. 6: the opening speech
 [scene] (p.86) Fujimaki, third-year Class A, gives a speech during the opening ceremony as the whole student body stands in jerseys.
 [action] (p.86) Speaks for the Red Team command he took at the assembly; spectators on the outskirts watch without strict restriction.
 [note] (p.86) The speech’s content is not quoted; only the fact of it is on the page.

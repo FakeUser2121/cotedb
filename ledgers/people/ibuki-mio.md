@@ -6,7 +6,7 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y1v3 → start -->
 
-### y1v3 p.78–96 — Ch.2 §2.6–§2.8: the Class C girl with the swollen cheek
+### y1v3 p.78–96 — Ch.2 sec. 2.6–sec. 2.8: the Class C girl with the swollen cheek
 [scene] (p.78) A path in the forest on the way back to camp; she sits against a large tree, not a Class D student, with a red, swollen mark on her cheek.
 [status] (p.80) "Just a class dispute. Don’t worry about it" — her answer when asked who did it; "her voice was low and even, but it was clear she wasn’t feeling well."
 [rel:ayanokouji-kiyotaka] (p.81) Names the barrier herself: “I’m from Class C. In other words, I’m your enemy. You understand that, right?”
@@ -24,7 +24,7 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [scene] (p.100) The luggage pile outside the tent before dawn; her singularly colored bag is easy to spot.
 [status] (p.100) Her rented digital camera — no data, no sign it was ever used — is found in the bag while she sleeps and put back untouched.
 
-### y1v3 p.105–106 — Ch.3 §3.1: the visit to the campsite
+### y1v3 p.105–106 — Ch.3 sec. 3.1: the visit to the campsite
 [scene] (p.105) Class C's boys stride into the campsite; a pained expression flashes across her face and she ducks behind the tent to hide.
 [says] (p.105) “Do you know Ryuuen?”
 [trait] (p.105) Sounds irritated discussing him — “as if she were discussing a family enemy.”
@@ -34,12 +34,12 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y1v3 ch3 → p.130 -->
 
-### y1v3 p.171–178 — Ch.6 §6.1: the new suspect
+### y1v3 p.171–178 — Ch.6 sec. 6.1: the new suspect
 [scene] (p.178) Sitting at the far edge of the camp, she becomes the class’s new prey the moment someone says her name.
 [status] (p.178) The collective’s doubts swing to her instantly; she is the outsider from Class C.
 [note] (p.178) “Hey. What if it was that girl, Ibuki?” and the sabotage theory that follows are left untagged in the translation.
 
-### y1v3 p.181–183 — Ch.6 §6.2: the test
+### y1v3 p.181–183 — Ch.6 sec. 6.2: the test
 [scene] (p.181) Walks up to Ayanokōji alone after the morning’s accusations and tests whether he suspects her.
 [says:ibuki-mio] (p.181) “Do you have a minute?”
 [says:ibuki-mio] (p.181) “What you were talking about this morning sounded really serious. The … underwear incident, I mean. I mean, Class D isn’t a monolith.”
@@ -55,25 +55,25 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [says:ibuki-mio] (p.183) “Thank you. I didn’t think you would say something like that.”
 [rel:ayanokouji-kiyotaka] (p.183) He says he trusts her while his own narration names her the culprit.
 
-### y1v3 p.194–199 — Ch.6 §6.4: joining the search
+### y1v3 p.194–199 — Ch.6 sec. 6.4: joining the search
 [scene] (p.194) Invited along on the last forage, she agrees out of a debt to Class D.
 [says:ibuki-mio] (p.194) “Okay. I owe Class D a debt of gratitude… Sure, I’ll help.”
 [action] (p.194) Slings her bag over her shoulder and steps into the forest with the group.
 [rel:kushida-kikyou] (p.197) Paired with Kushida for the search — the last two left once the others split.
 
-### y1v3 p.201–202 — Ch.6 §6.5: the shower line
+### y1v3 p.201–202 — Ch.6 sec. 6.5: the shower line
 [scene] (p.201) Waits out the river swim in the shower queue — the line position that will later clear Karuizawa, and place her.
 [says] (p.201) “I’ll pass. I don’t really like swimming, so I’ll just wait to use the shower room,”
 [action] (p.202) Takes the tail of the line behind Karuizawa’s group and Sakura.
 [rel:sakura-airi] (p.202) Sakura follows her lead in refusing the swim; the two wait in line together.
 [says] (p.202) “Whoa, looks like it’s moving now.”
 
-### y1v3 p.206–208 — Ch.6 §6.7: the fire she did not set
+### y1v3 p.206–208 — Ch.6 sec. 6.7: the fire she did not set
 [scene] (p.206) Stands at the burning bundle wearing such genuine confusion that Horikita hesitates to call her over.
 [rel:horikita-suzune] (p.206) Held as the likeliest culprit by Horikita — and watched being surprised by a fire she insists later she did not start.
 [action] (p.208) Slips away with one of the bags while suspicion turns on her.
 
-### y1v3 p.213–220 — Ch.6 §6.8: cornered in the rain
+### y1v3 p.213–220 — Ch.6 sec. 6.8: cornered in the rain
 [scene] (p.213) Waits in the mud knowing Horikita is behind her, then turns and talks her in circles until the fight starts.
 [says] (p.213) “What are you doing, Horikita?”
 [says:horikita-suzune] (p.213) “When did you notice me?”
@@ -135,7 +135,7 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [says:horikita-suzune] (p.220) “Do you think they’ll permit such coercive methods?”
 [says] (p.220) “Come on, now. I don’t feel like answering that.”
 
-### y1v3 p.221–224 — Ch.6 §6.9: the handover
+### y1v3 p.221–224 — Ch.6 sec. 6.9: the handover
 [scene] (p.221) Her viewpoint: she stands over the unconscious Horikita, digs up the flashlight and transceiver, and calls her leader in.
 [says] (p.221) “What?”
 [says] (p.221) “Is it because of the rain?”
@@ -204,7 +204,7 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y1v4 → start -->
 
-### y1v4 p.16 — Ch.2 §2.0: a passing mention as the culprit
+### y1v4 p.16 — Ch.2 sec. 2.0: a passing mention as the culprit
 [scene] (p.16) Named once as the underwear culprit; Ayanokōji asks whether Karuizawa got hers back.
 [note] (p.16) Hirata confirms the fallout: naming her resolved things — “When she heard Ibuki-san was the culprit, things went smoothly.”
 
@@ -215,7 +215,7 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y1v4 ch2 → p.62 -->
 
-### y1v4 p.68–75, p.88 — Ch.3 §3.0–§3.1: the café shadow and the Rabbit holdout
+### y1v4 p.68–75, p.88 — Ch.3 sec. 3.0–sec. 3.1: the café shadow and the Rabbit holdout
 [scene] (p.68) Walks into Blue Ocean at Ryūen’s side as the island spy Horikita caught; later sits silent through the whole Rabbit first discussion until Ichinose calls her name.
 [says] (p.69) “I’m not so stupid that I’d let someone like her see through me. Things were simply more difficult because of my fever.” (on losing to Horikita)
 [says] (p.69) “In that case, let’s have a rematch,” she challenged.
@@ -236,7 +236,7 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [scene] (p.76) Named in the read of who was watching the café meeting.
 [note] (p.76) Asked whether Ibuki-san was the culprit of the watch, the answer floats: maybe forced to keep an eye on them, maybe just passing — but she wasn’t tired, and she was walking with Ryuuen, so she was likely involved.
 
-### y1v4 p.94–95 — Ch.3 §3.1: the outsider’s verdict
+### y1v4 p.94–95 — Ch.3 sec. 3.1: the outsider’s verdict
 [scene] (p.94) Watches the Manabe–Karuizawa picture fight from the circle and speaks once, as an outsider.
 [says] (p.94) “Stupid,” said Ibuki.
 [says] (p.95) “That’s right. This absolutely has nothing to do with me. So I said what I thought as an outsider.”
@@ -256,7 +256,7 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [scene] (p.127) Named as an example of the gap between a person’s outer and inner selves.
 [note] (p.127) Innermost thoughts aren’t immediately apparent — take Kushida, Ibuki, or even me.
 
-### y1v4 p.128 — Ch.4 §4.0: not at the shade meeting
+### y1v4 p.128 — Ch.4 sec. 4.0: not at the shade meeting
 [scene] (p.128) Named once as absent from Ryuuen’s side when he drops into the Horikita conversation.
 [rel:ryuuen-kakeru] (p.128) “He wasn’t with Ibuki, apparently” — the usual pair is split for this scene.
 [note] (p.128) No dialogue and no further presence in the range.
@@ -265,7 +265,7 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [scene] (p.155) Named as one of the two Class B girls not staring at Machida.
 [note] (p.155) Apart from Ichinose and Ibuki, the girls seemed interested in Machida.
 
-### y1v4 p.159 — Ch.4 §4.2: the absent buffer
+### y1v4 p.159 — Ch.4 sec. 4.2: the absent buffer
 [scene] (p.159) Named as the Class C girl who might have mitigated the trio on Karuizawa’s tail — and she wasn’t around.
 [rel:karuizawa-kei] (p.159) Her absence is why the three can close on Karuizawa alone in the corridor.
 [rel:manabe-shiho] (p.159) The buffer between Manabe’s set and Karuizawa is missing for the stairwell.
@@ -273,7 +273,7 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y1v4 ch4 → p.204 -->
 
-### y1v4 p.222–223 — Ch.5 §5.2: the lone girl agrees
+### y1v4 p.222–223 — Ch.5 sec. 5.2: the lone girl agrees
 [scene] (p.222) The unexpected first volunteer after Ayanokōji — threatens Manabe into the show with the VIP-or-class logic.
 [says] (p.222) “Anyone who isn’t the VIP or who’s not in the same class as a VIP gains nothing if things keep going like this. Class B understands that. If we sit around, we won’t catch up to the classes above us. That’s why they’re showing everyone their phones. I agree with their idea,” she answered.
 [rel:manabe-shiho] (pp.222-223) Enemy tone, not ally: “Or maybe you’re the VIP” → “In that case, show everyone your phone.”
@@ -290,7 +290,7 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y1v4.5 → start -->
 
-### y1v4.5 p.20–27 — Ch.2 §2.1: the couples-only encounter
+### y1v4.5 p.20–27 — Ch.2 sec. 2.1: the couples-only encounter
 [scene] (p.20) Turned away from the couples-only line, she spots Ayanokōji in the next queue, chases him down, and demands to know where Horikita is.
 [says] (p.20) “Where’s Horikita?”
 [rel:horikita-suzune] (p.21) The page recaps the island: sent to infiltrate Class D, she and Horikita traded blows in a fistfight; the narration reads her as hostile since.
@@ -305,25 +305,25 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [says] (p.26) “Put simply, it’s a type of fortune-telling that tells you what times are unlucky for you.”
 [says] (p.27) “Fortune-telling isn’t all about romance and such.”
 
-### y1v4.5 p.28–29 — Ch.2 §2.2–2.3: named in the list, then fate
+### y1v4.5 p.28–29 — Ch.2 sec. 2.2–2.3: named in the list, then fate
 [scene] (p.28) Named in Ayanokōji’s list of the people he will not invite, she is back at the booth the next day — same place, exact same time.
 [note] (p.28) On the couples-only rule the two agree: “Ibuki and I agreed on that.”
 [rel:ayanokouji-kiyotaka] (p.29) The second meeting turns from the booth to belief: he asks directly whether she believes in fortune-telling, and she answers that the over-skeptical get nothing out of it.
 
-### y1v4.5 p.30–32 — Ch.2 §2.3: agreeing to the pair
+### y1v4.5 p.30–32 — Ch.2 sec. 2.3: agreeing to the pair
 [scene] (p.30) She accepts the pairing for the reading itself, then flags the island grudge her classmates may still hold against Ayanokōji.
 [says] (p.30) “I would like to have my fortune read, after all.”
 [says] (p.30) “Some students still hold a bit of a grudge toward me because of what happened on the island.”
 [rel:ayanokouji-kiyotaka] (p.31–32) Calls him “surprisingly shameless” for shrugging the grudge off; sets the queue rule: no pointless chit-chat — “We’re only together to have our fortunes read.”
 
-### y1v4.5 p.33–37 — Ch.2 §2.4: her reading
+### y1v4.5 p.33–37 — Ch.2 sec. 2.4: her reading
 [scene] (p.33) First into the tent: name, ID card, and “Do whatever you want” to the warning about unpleasant sights.
 [says] (p.34) “Ibuki. Ibuki Mio,” she answered flatly.
 [says] (p.34) “Do whatever you want,” Ibuki replied.
 [says] (p.35) “Thank you very much,” said Ibuki. — the predictions are ordinary and bright, and she listens with satisfaction.
 [rel:ayanokouji-kiyotaka] (p.36) Genuinely shocked by the fate tenchuusatsu pronouncement, and explains it to him as a life of constant misfortune; annoyed at being called the little girl.
 
-### y1v4.5 p.38–47 — Ch.2 §2.5: the detour and the elevator
+### y1v4.5 p.38–47 — Ch.2 sec. 2.5: the detour and the elevator
 [scene] (p.38) She agrees the fortune-teller is famous and accurate, then chooses the detour with him — to see how accurate.
 [says] (p.38) “The fortune-teller said not to take any detours,” Ibuki said.
 [feat] (p.40) Phone dead from a battery she never watches: “I don’t have anyone to talk to, so I don’t usually notice when my battery is about to die.”
@@ -357,7 +357,7 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y1v5 ch2 → p.38 -->
 
-### y1v5 p.94–95 — Ch.6 §6: the rivalry heat
+### y1v5 p.94–95 — Ch.6 sec. 6: the rivalry heat
 [scene] (p.94) Ibuki draws the same 100-metre group as Horikita — her most bitter rival — and burns to beat her.
 [action] (p.94) Starts better than Horikita, stays neck and neck, then loses by a narrow margin at the tape.
 [rel:horikita-suzune] (p.94–95) Hyperawareness of Horikita costs her the win; had she not watched her, the result might have differed.
@@ -365,7 +365,7 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [action] (p.94) Kicks the ground in frustration after the loss.
 [trait] (p.94) Determined never to lose to Horikita, no matter the event — fire in her eyes from the line.
 
-### y1v5 p.120 — Ch.6 §6: the order on Horikita
+### y1v5 p.120 — Ch.6 sec. 6: the order on Horikita
 [scene] (p.120) Ibuki rides as a Class B/C jockey in the girls’ cavalry and singles out Horikita.
 [action] (p.120) Issues an order and heads straight for Horikita — first of the four horsemen to commit.
 [rel:horikita-suzune] (p.120) Personal rivalry continues off the track: she is out for blood against the same girl she lost to in the dash.
@@ -373,7 +373,7 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y1v5 ch6 → p.143 -->
 
-### y1v5 p.200 — Ch.9 §9.3: voice on the trap recording
+### y1v5 p.200 — Ch.9 sec. 9.3: voice on the trap recording
 [scene] (p.200) Ibuki’s voice appears on the email recording of Ryuuen’s Class C strategy meeting.
 [says:ibuki-mio] (p.200) “Look, I’m not discounting your strategy or whatever, but give me a chance to fight Horikita.”
 [rel:ryuuen-kakeru] (p.200) Interrupts Ryuuen on the tape; he then orders her obstacle-course collision with Horikita and the staged injury.
@@ -385,7 +385,7 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y1v6 → start -->
 
-### y1v6 p.62–69 — Ch.4 §4: the only one who talks back
+### y1v6 p.62–69 — Ch.4 sec. 4: the only one who talks back
 [scene] (p.62) Standing near the window, arms crossed, posture defiant — she challenges Ryuuen’s Class D theory.
 [says:ibuki-mio] (p.62) “What are you trying to say, Ryuuen?”
 [says:ibuki-mio] (p.62) “I don’t have that luxury. Besides, you’re just trying to intimidate the entire class. I gain nothing from silence, right?”
@@ -440,7 +440,7 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y1v7 ch4 → p.119 -->
 
-### y1v7 p.121–134 — Ch.5 §5.1–5.2: the reluctant hand
+### y1v7 p.121–134 — Ch.5 sec. 5.1–5.2: the reluctant hand
 [scene] (p.121) Named in Ryuuen’s head as the one who called identifying X meaningless; joins the rooftop party anyway.
 [says] (p.123) “So, where are we going? Cut the crap and tell us”
 [says] (p.123) “You make me nervous, dragging me into all your stupid schemes.”
@@ -649,3 +649,7 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [action] (p.161) Kicks at Miyake’s head, then knocks Kitō’s lunge away the moment Ishizaki warns her.
 
 <!-- walk: y1v9 ch7 → p.175 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->

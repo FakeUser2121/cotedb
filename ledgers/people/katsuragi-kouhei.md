@@ -6,7 +6,7 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y1v3 → start -->
 
-### y1v3 p.59–62 — Ch.2 §2.3: the Class A leader who showed his card
+### y1v3 p.59–62 — Ch.2 sec. 2.3: the Class A leader who showed his card
 [scene] (p.59) A reinforced cave on the mountainside; he comes out and stands watch at the entrance.
 [rel:totsuka-yahiko] (p.59–60) Lectures his partner on the school's hints — the ship's deliberate circle around the island, the path visible from the deck — "Finding it was inevitable. Be mindful of what you say and do."
 [feat] (p.59–60) The chapter's model of Class A thinking: "Before the ship docked at the pier, it had already taken a trip around…the island as a detour for some reason. That was probably a deliberate move by the school to give the students some hints."
@@ -16,7 +16,7 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y1v3 ch2 → p.99 -->
 
-### y1v3 p.127–129 — Ch.3 §3.4: the parley at the cave
+### y1v3 p.127–129 — Ch.3 sec. 3.4: the parley at the cave
 [scene] (p.127) Named first as absent from the Class A cave, then arriving at the entrance midway through the standoff with Horikita.
 [note] (p.127) The page introduces him as the sharp-witted one of the pair who found the cave on the first day.
 [says] (p.128) “What are you doing? I don’t recall giving you permission to invite guests.”
@@ -33,7 +33,7 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y1v3 ch3 → p.130 -->
 
-### y1v3 p.140–142 — Ch.4 §4.3: the cornfield offer
+### y1v3 p.140–142 — Ch.4 sec. 4.3: the cornfield offer
 [scene] (p.140) Arrives with Yahiko at the thicket while Sakura is staring at the corn; apologizes for the surprise.
 [rel:sakura-airi] (p.140) Apologizes for startling her — he has seen where she ran to behind his back.
 [says] (p.140) “I’m sorry. We didn’t mean to surprise you. He had no bad intentions, either. Please forgive us.”
@@ -51,13 +51,13 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y1v3 ch4 → p.143 -->
 
-### y1v3 p.198 — Ch.6 §6.4: the card in the memory
+### y1v3 p.198 — Ch.6 sec. 6.4: the card in the memory
 [scene] (p.198) Named from day one: Ayanokōji tells Horikita he saw Katsuragi hold a card in front of the Class A cave.
 [back] (p.198) The sighting is the cave moment from the volume’s second chapter — his card, now weighed against Horikita’s.
 [says:horikita-suzune] (p.198) “Well? Is this the same card that Katsuragi-kun had?”
 [note] (p.198) He takes no part in the day’s scenes; the chapter keeps him named only.
 
-### y1v3 p.222–224 — Ch.6 §6.9: the handshake in the woods
+### y1v3 p.222–224 — Ch.6 sec. 6.9: the handshake in the woods
 [scene] (p.222) Steps out of the shadows at Ryūen’s call to inspect the stolen leader card under his own condition.
 [says] (p.222) “It looks like the real thing,”
 [trait] (p.222) The narration frames him as calm and dependable — the complete opposite of Class C’s leader — and calls his caution near-paranoid.
@@ -90,7 +90,7 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y1v4 → start -->
 
-### y1v4 p.54–60 — Ch.2 §2.5: the Class A pivot on Horikita
+### y1v4 p.54–60 — Ch.2 sec. 2.5: the Class A pivot on Horikita
 [scene] (p.54) At the 20:40 gathering he singles Horikita out of the line, then holds court against her, Kanzaki, and Ryūen.
 [says] (p.54) “Unless I’m mistaken, you’re also in the group meeting at 20:40, yes?”
 [says] (p.55) “That’s good news. I wanted to speak with you again. I’m also in the 20:40 group. Starting tomorrow, we will be working together.”
@@ -146,7 +146,7 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.128) A counter says he has no support like Ichinose-san and Katsuragi-kun do — only enemies, no reliable information.
 [note] (p.139) Ichinose intends to see the man who devised Class A’s plan; Ayanokōji asks to come along and whether she wants to talk to Katsuragi-kun too.
 
-### y1v4 p.140–143 — Ch.4 §4.1: the castle gate holds
+### y1v4 p.140–143 — Ch.4 sec. 4.1: the castle gate holds
 [scene] (p.140) Leaves the Dragon room into Ichinose’s ambush; refuses to reopen discussion for the fourth time running and walks away with the strategy intact.
 [says] (p.140) “Ichinose? What are you doing here?”
 [says] (p.140) “Well, the testing period is three days long. I have several minutes available.”
@@ -174,13 +174,13 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y1v4 ch4 → p.204 -->
 
-### y1v4 p.205 — Ch.5 §5.0: the iron fortress still running
+### y1v4 p.205 — Ch.5 sec. 5.0: the iron fortress still running
 [scene] (p.205) Named in the final-day opening as the unchanged half of the stalemate — no counter to Ichinose’s cards, strategy unbroken.
 [rel:ryuuen-kakeru] (p.205) The pair of strategies the narration sets against Ichinose’s missing countermeasure — frontal assault versus iron fortress.
 [rel:ichinose-honami] (p.205) Still no counter from Class B to his silence; that is why cards win the hour.
 [note] (p.205) No scene presence in this half; the row records the opening status line.
 
-### y1v4 p.226, 233, 242 — Ch.5 §5.2–5.3: instructions, faction, the defensive vote
+### y1v4 p.226, 233, 242 — Ch.5 sec. 5.2–5.3: instructions, faction, the defensive vote
 [scene] (p.226) The chain Machida cites, the plan Morishige was expected to disobey, and the defensive-player example in Ayanokōji’s Dragon Outcome #1 explanation.
 [rel:machida-kouji] (p.226) “We’ve been acting on Katsuragi-san’s instructions from the very beginning” — Class A’s chain-of-command line: no action on their own.
 [rel:morishige-takurou] (p.233) Ichinose’s read: he would not quietly sit on Katsuragi’s plan — Sakayanagi faction first.
@@ -331,7 +331,7 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y1v5 → start -->
 
-### y1v5 p.26–31 — Ch.2 §2.2: the Class A face
+### y1v5 p.26–31 — Ch.2 sec. 2.2: the Class A face
 [scene] (p.26) Assembles the first-year Class A students in droves after Fujimaki’s speech and becomes the class’s negotiating face at the Red Team meeting.
 [says] (p.27) “I hope we can join forces without any problems,”
 [rel:hirata-yousuke] (p.27) Strikes the keep-out-of-each-other’s-way pact with Hirata — no shared competition details, only a meeting to come for the group events.
@@ -348,20 +348,20 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y1v5 ch2 → p.38 -->
 
-### y1v5 p.54–67 — Ch.4 §4: The standing Class A meetings
+### y1v5 p.54–67 — Ch.4 sec. 4: The standing Class A meetings
 [scene] (p.64) Katsuragi is named as Hirata’s periodic counterpart on how the two classes should compete.
 [rel:hirata-yousuke] (p.64) Meetings continue through the run-up — Class D, an inch from disaster, is doing almost too well.
 [rel:ryuuen-kakeru] (p.54–55) Background: Ryuuen refused to cooperate with Class B earlier in the volume, so no Class C–B channel exists.
 
 <!-- walk: y1v5 ch4 → p.67 -->
 
-### y1v5 p.68–85 — Ch.5 §5: Named in the cruise-ship theory
+### y1v5 p.68–85 — Ch.5 sec. 5: Named in the cruise-ship theory
 [scene] (p.80) Katsuragi is the other upperclassman Horikita names when she asks Kushida the VIP question.
 [rel:kushida-kikyou] (p.80) “did you tell Ryuuen-kun or Katsuragi-kun that you were the VIP?” — the question, with Ryuuen.
 
 <!-- walk: y1v5 ch5 → p.85 -->
 
-### y1v5 p.88–110 — Ch.6 §6: Class A’s split on the field
+### y1v5 p.88–110 — Ch.6 sec. 6: Class A’s split on the field
 [scene] (p.88) Katsuragi takes third in his 100-metre group behind Kanzaki, then co-directs the D/A teams through capture the flag and the tug-of-war.
 [action] (p.88–89) Is named by Ike as “Baldy” at the line; his scalp catches the sun; Kanzaki wins the heat and Katsuragi third.
 [action] (p.100–104) Holds the defensive side of capture the flag; after Sudou’s flag falls he accepts shared blame with Hirata.
@@ -377,7 +377,7 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [says] (p.110) “I wasn’t able to lead my class,” he told Hirata.
 [trait] (p.107–110) Control under fire is masterful — Class A’s crisis is visible, but he does not panic in front of the coalition.
 
-### y1v5 p.123–126 — Ch.6 §6: the abandoned rescue and the pincer
+### y1v5 p.123–126 — Ch.6 sec. 6: the abandoned rescue and the pincer
 [scene] (p.123) Class A’s cavalry units sit out the attack on Horikita and only re-engage after her headband falls.
 [action] (p.123) After Horikita’s loss, Class A and Class C wipe the rest of the A/D side; Katsuragi’s group takes down Shibata and Kanzaki’s unit later in the boys’ match.
 [rel:horikita-suzune] (p.120–123) Class A shows no sign of helping her — Ayanokōji suspects bait-and-swoop.
@@ -409,7 +409,7 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y1v6 → start -->
 
-### y1v6 p.22–24 — Ch.2 §2.1: corridor warning to Ayanokouji
+### y1v6 p.22–24 — Ch.2 sec. 2.1: corridor warning to Ayanokouji
 [scene] (p.22) Stops Ayanokouji after the gym passage, sends Yahiko ahead, and opens with “Horikita isn’t with you.”
 [says:katsuragi-kouhei] (p.22) “Sorry, but you go on ahead. I have a little something to discuss with Ayanokouji.”
 [says:katsuragi-kouhei] (p.22) “I just wanted to say that I was surprised by your performance in the sports festival’s final relay. I doubt anyone could’ve expected it”
@@ -447,7 +447,7 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [rel:sakayanagi-arisu] (p.80) His influence is on the decline in this reading.
 [note] (p.80) No dialogue or action from Katsuragi on these pages.
 
-### y1v6 p.168–170, 173–174 — Ch.6 §6.7: fountain talk and the letter read
+### y1v6 p.168–170, 173–174 — Ch.6 sec. 6.7: fountain talk and the letter read
 [scene] (p.168) Standing by a fountain thinking about the final; walks Ayanokōji back to the dorm and finds the lobby crowd around the mass letter.
 [says:katsuragi-kouhei] (p.168) “Ayanokouji? Oh, nothing. Just thinking a little about the final exam next week,”
 [says:katsuragi-kouhei] (p.168) “I wanted some time alone to think in peace and quiet,”

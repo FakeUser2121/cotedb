@@ -6,20 +6,20 @@ char_id: onodera · class: Class 1-D · status: minor
 
 <!-- walk: y1v5 → start -->
 
-### y1v5 p.39–53 — Ch.3 §3: Volunteers for the recommended events
+### y1v5 p.39–53 — Ch.3 sec. 3: Volunteers for the recommended events
 [scene] (p.44) Onodera is named with Kushida among the students who volunteer for recommended competitions after Horikita’s plan carries the vote.
 [action] (p.44) Offers herself for the recommended-participant events once the class resolves to win as a class.
 
 <!-- walk: y1v5 ch3 → p.53 -->
 
-### y1v5 p.54–67 — Ch.4 §4: Three-legged partner for Horikita
+### y1v5 p.54–67 — Ch.4 sec. 4: Three-legged partner for Horikita
 [scene] (p.62) Onodera, the swimming-club sprinter, is paired with Horikita for three-legged race practice — and they come in third.
 [rel:horikita-suzune] (p.62) Two failed runs: “Hey, Horikita-san, can’t you try to keep pace with me better?”
 [rel:horikita-suzune] (p.62) Horikita answers that Onodera is the slow one; the partnership dissolves on the spot.
 
 <!-- walk: y1v5 ch4 → p.67 -->
 
-### y1v5 p.182–184 — Ch.9 §9: third relay leg
+### y1v5 p.182–184 — Ch.9 sec. 9: third relay leg
 [scene] (p.182) Onodera is named on the six-person relay list and runs third; second- and third-year Class A runners overtake her.
 [passing mention] (p.182) Listed among Hirata, Miyake, Maezono and Onodera with Sudou at the top.
 [feat] (p.184) Fast for a girl, but the senior boys close and pass; the lead is almost gone by Maezono.

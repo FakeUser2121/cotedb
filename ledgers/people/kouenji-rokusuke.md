@@ -70,7 +70,7 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y1v2 → start -->
 
-### y1v2 p.20 — Ch.2 §2.2 (lunch): the balance that bought him out of the cafeteria
+### y1v2 p.20 — Ch.2 sec. 2.2 (lunch): the balance that bought him out of the cafeteria
 [scene] (p.20) Lunch in the Class D room: Horikita, Ayanokōji and Kōenji are the students still at their desks while the rest have gone to eat — "a few students were still all alone".
 [back] (p.20) AK's account of how his social calendar changed: "On first starting here, he’d enjoyed the company of girls from other classes and grade levels. However, once he ran low on points, he began to spend most of his time in the classroom."
 [scene] (p.20) "He was currently completely lost in examining his face in a hand mirror, his daily routine."
@@ -80,7 +80,7 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y1v2 ch2 → p.39 -->
 
-### y1v2 p.92–93 — Ch.4 §4.3: he speaks to Sudou's face without looking at him
+### y1v2 p.92–93 — Ch.4 sec. 4.3: he speaks to Sudou's face without looking at him
 [scene] (p.92) His intervention is announced by the mirror, not the man: "The voice came from a boy checking his reflection in a hand mirror to fix his hair. It was Kouenji Rokusuke, an especially odd guy even amongst the remarkably strange people of our class."
 [says] (p.92) “Don’t you think it would’ve been better if you’d been expelled? Your existence is far from beautiful. No, in fact, I could say your life is an ugly one, Red Hair-kun.” — he nicknames Sudou by his hair, the same detail the class's witness used for him.
 [scene] (p.92) AK on the delivery: "Kouenji didn’t even look at Sudou as he spoke. It was as if this were a soliloquy."
@@ -90,7 +90,7 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [feat] (p.92) What his two sentences cost: a desk is kicked apart, Sudou walks on him, and the class's last organised effort to save anyone collapses into Hirata physically holding Sudou back.
 [trait] (p.92–93) He is the only student in the volume who treats expulsion as a preference rather than a threat, and he says it to the one student whose expulsion risk he cannot lose anything from.
 
-### y1v2 p.119, p.129 — Ch.4 §4.6, §4.8: he exists in the rest of the chapter as other people's summary
+### y1v2 p.119, p.129 — Ch.4 sec. 4.6, sec. 4.8: he exists in the rest of the chapter as other people's summary
 [feat] (p.119) In the narrator's private list of students who were wrongly sorted into Class D: "Horikita, Kouenji, and Yukimura were undoubtedly three people who deserved to be at the top based on their academics alone."
 [says] (p.129) Kushida, reopening the corridor incident on the phone: "That reminds me. It was really scary when Kouenji-kun and Sudoukun looked like they were about to start fighting." — printed as one word; kept as the translation has it.
 [limit] (p.129) In Ayanokōji's estimate of what that fight would have become: "Kouenji always seemed laid-back, but if Sudou started taking swings at him, he would fight. If that happened, it’d be a disaster."
@@ -101,7 +101,7 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 ## y1v3
 
 
-### y1v3 p.52–63, p.97–98 — Ch.2 §2.3 & §2.8: the forest walk, and the retirement that costs thirty points
+### y1v3 p.52–63, p.97–98 — Ch.2 sec. 2.3 & sec. 2.8: the forest walk, and the retirement that costs thirty points
 [scene] (p.52) Volunteer circle for the forest search; he raises a hand last, "The sun certainly is refreshing. My body needs energy."
 [rel:ayanokouji-kiyotaka] (p.55–57) Answers Ayanokōji's worry about getting lost with the perfect-human disclaimer — "I am a perfect human being. I would never foolishly lose my way in a forest. If any problem occurs, it would most likely be because you two lost sight of me. When that happens, you should give up."
 [feat] (p.56) Reads the island in one line: "I wouldn’t call this a natural forest. The probability of getting lost during the day is extremely low. It’s precisely for that reason that I’m a little curious."
@@ -129,7 +129,7 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y1v4 → start -->
 
-### y1v4 p.21–24 — Ch.2 §2.1: the wet corridor and the signature
+### y1v4 p.21–24 — Ch.2 sec. 2.1: the wet corridor and the signature
 [scene] (p.21) Corridor by the pool: dripping wet in a bathing suit, a fourth warning from the bellhop, a signature demanded.
 [says] (p.21) “Ha ha ha! It appears you’ve found me, eh?”
 [says] (p.21) “I don’t dry myself off with a towel on principle ever since reaching the age of reason.”
@@ -148,7 +148,7 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [scene] (p.26) Named in a question about who rooms with whom.
 [note] (p.26) A question in the hallway confirms the roommates: Ayanokōji with Hirata, Kouenji, and Yukimura.
 
-### y1v4 p.52 — Ch.2 §2.4: absent from the room
+### y1v4 p.52 — Ch.2 sec. 2.4: absent from the room
 [scene] (p.52) Named only as missing: when Ayanokōji wakes in the cabin at 20:30, the narration notes the room’s other occupants are gone.
 [note] (p.52) “Neither Yukimura nor Kouenji were in the room.” — absent from the third-deck cabin while Hirata straightens his luggage.
 
@@ -161,7 +161,7 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:ayanokouji-kiyotaka] (p.64) The narrator who doubts he would ever help a team.
 [rel:horikita-suzune] (p.65) Named in her grouping hypothesis.
 
-### y1v4 p.112–115 — Ch.3 §3.5: push-ups, refusal, and the Monkey exit
+### y1v4 p.112–115 — Ch.3 sec. 3.5: push-ups, refusal, and the Monkey exit
 [scene] (p.112) Naked from the waist up doing push-ups in the cabin, declines the huddle, then ends the Monkey group with a traitor submission while the others watch.
 [says] (p.112) “I did say that it was pointless to include you, Ayanokouji,” added Kouenji. How nice.
 [says] (p.112) “Sorry, Hirata Boy. I’m far too busy with the pursuit of physical beauty.”
@@ -177,7 +177,7 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y1v4 ch3 → p.124 -->
 
-### y1v4 p.125–130 — Ch.4 §4.0: the traitor act on everyone’s lips
+### y1v4 p.125–130 — Ch.4 sec. 4.0: the traitor act on everyone’s lips
 [scene] (p.125) The chapter opens on the aftermath of his Monkey-group traitor submission — the classes are in an uproar and Horikita wants Ayanokōji to answer for it as roommate.
 [status] (p.125) Kouenji’s treasonous act has circulated around the ship; the classes were in an uproar.
 [rel:horikita-suzune] (p.125) She blames the roommate and vows to reprimand him herself; the “make him beg for mercy” line is hers.
@@ -191,7 +191,7 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y1v4 ch4 → p.204 -->
 
-### y1v4 p.237–242 — Ch.5 §5.3: the automated calibration and the saviour
+### y1v4 p.237–242 — Ch.5 sec. 5.3: the automated calibration and the saviour
 [scene] (p.237) His earlier betrayal email fixes the school’s response speed in Horikita’s timing deduction; p.242 names him as having saved Class D’s victory from total Class C sweep.
 [rel:horikita-suzune] (p.237) The data point — school responded without delay, so the four simultaneous emails must be automated.
 [status] (p.242) “Kouenji saved our asses” — without his group’s betrayal email the victory would have belonged exclusively to Class C; his action also sent stray bullets at other VIPs.
@@ -232,7 +232,7 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y1v5 → start -->
 
-### y1v5 p.39–53 — Ch.3 §3: Refuses to cooperate
+### y1v5 p.39–53 — Ch.3 sec. 3: Refuses to cooperate
 [scene] (p.45) Sudou confronts Kōenji over his abstention in the homeroom vote; Kōenji refuses to join the festival plan.
 [says] (p.45) “I have no interest in this.”
 [says] (p.45) “I have no reason to let you bully me into anything,”
@@ -242,14 +242,14 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y1v5 ch3 → p.53 -->
 
-### y1v5 p.54–67 — Ch.4 §4: Sits out the tests
+### y1v5 p.54–67 — Ch.4 sec. 4: Sits out the tests
 [scene] (p.57) Kōenji is named among the few who sit out the aptitude testing — along with the Professor.
 [rel:sudou-ken] (p.57) Sudou’s grudge: nobody in the class has seen him run seriously, though he beat Sudou’s swimming time.
 [trait] (p.57) Won’t budge unless he wants to — his skill is obvious, his participation isn’t.
 
 <!-- walk: y1v5 ch4 → p.67 -->
 
-### y1v5 p.88–91 — Ch.6 §6: the cottage refusal
+### y1v5 p.88–91 — Ch.6 sec. 6: the cottage refusal
 [scene] (p.88) Kōenji fails to appear in his assigned lane for the third group of the 100-metre dash; the school marks an absence without searching.
 [action] (p.89) Found inside the medical cottage fussing with his hair while Class D and the Red Team lose a competitor.
 [says] (p.90) “You’re quite foul, aren’t you?”
@@ -264,7 +264,7 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:hirata-yousuke] (p.91) Is lectured on violence and leader-absence by Hirata, then escorted out of the way as Sudou is walked back.
 [trait] (p.89–91) Illness is openly a pose; he cooperated only through the opening ceremonies and bows out when it counts.
 
-### y1v5 p.134 — Ch.6 §6: still absent
+### y1v5 p.134 — Ch.6 sec. 6: still absent
 [scene] (p.134) With Sudou gone, the page notes Kōenji was already absent — Class D’s two strongest both off the board.
 [note] (p.134) No new Kōenji action in the second half; the morning ends on his continued absence.
 
@@ -393,7 +393,7 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y1v7 ch4 → p.119 -->
 
-### y1v7 p.123 — Ch.5 §5.1: the press nobody knows
+### y1v7 p.123 — Ch.5 sec. 5.1: the press nobody knows
 [scene] (p.123) Named in one line of Ryuuen’s plan notes; the reason stays hidden from his own followers.
 [note] (p.123) Ibuki and the rest do not know the real reason Ryuuen pressed Kouenji after the Paper Shuffle.
 [rel:ryuuen-kakeru] (p.123) The Class D student he separately pressed while keeping the true aim from Class C.

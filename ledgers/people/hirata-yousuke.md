@@ -142,7 +142,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y1v2 → start -->
 
-### y1v2 p.17–18 — Ch.2 §2.1: decoding Horikita in public
+### y1v2 p.17–18 — Ch.2 sec. 2.1: decoding Horikita in public
 [scene] (p.17) "The class leader, Hirata Yousuke, answered for her." — after Horikita bait-and-silences the class on "get something."
 [says] (p.18) "I believe that Horikita-san is referring to the deductions we incurred throughout April and May. In other words, we didn’t see a reduction in points for talking in class or being late."
 [trait] (p.17–18) Reads peers' half-thoughts accurately and translates them for the room without seeking credit; AK: "The sharp-witted Hirata hadn’t missed a beat. Splendid."
@@ -165,7 +165,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y1v2 ch3 → p.65 -->
 
-### y1v2 p.66–72 — Ch.4 §4.0: the speech that wins the room and the recall nobody else has
+### y1v2 p.66–72 — Ch.4 sec. 4.0: the speech that wins the room and the recall nobody else has
 [scene] (p.66) His team's canvass produced records, not results: "I heard that Hirata and his group hadn’t obtained any valuable information. They’d recorded the names of the people to whom they’d spoken, and occasionally taken notes on their cell phones."
 [says] (p.66) "Then it would be a good idea for everyone to start saving up again," — and the reason he gives: "It’s only been three months since we started here." — AK: "Our classroom hero didn’t waver as he delivered his magnificent speech. The girls immediately blushed in response."
 [says] (p.67) "I understand how you feel. However, it can be dangerous to cling to our points and lose sight of reality. The most important thing is to treasure our friends as much as possible."
@@ -173,7 +173,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [says] (p.71) "You know, if you think back on it now, it was obvious from the start." — the one student who had already connected the school's signals: "Remember what our P.E. instructor Higashiyama-sensei said when we went to the pool? He said the student who got the best time during our first class would get 5000 points. That was a stepping stone to prepare us for other opportunities. It seems plausible, right?"
 [feat] (p.71) His memory of a teacher's throwaway promise is the evidence that the club-points track exists, and Ike cannot supply any of it: "Ike scratched his head and slumped. 'I don’t remember,' he said."
 
-### y1v2 p.83–84, p.92–93 — Ch.4 §4.2–4.3: he will greet Sakura but not ask her, and he physically stops Sudou
+### y1v2 p.83–84, p.92–93 — Ch.4 sec. 4.2–4.3: he will greet Sakura but not ask her, and he physically stops Sudou
 [says] (p.83) "Good morning, Ayanokouji-kun." — "Hirata called to me, his expression as fresh and friendly as usual. The sweet yet subtle fragrance of flowers always emanated from him."
 [says] (p.83) Why he does not go to the witness himself: "Me? No. I’m going to greet her, that’s all. I’ve wanted to talk to her since she’s always by herself, but as a guy I don’t want to come off as forceful or anything. Also, if I asked Karuizawa-san to talk with her, that might cause a few problems."
 [says] (p.83) "I think that for the time being, we’ll just wait for more information from Kushida-san." — the hero's plan is to let someone else do the asking.
@@ -186,7 +186,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [says] (p.93) Then, alone with Kōenji after Sudou slams out: "Kouenji-kun. I don’t intend to compel you to help. But you were wrong to blame him." — and AK's conclusion from watching the pair: "Watching their bizarre interaction unfold, I realized that our class lacked unity."
 [limit] (p.83–93) He never asks the witness anything, never challenges Horikita's write-off of Sudou, and stops a fight by citing the school's evaluation — leadership that avoids being the one who pressures anyone.
 
-### y1v2 p.120, p.149 — Ch.4 §4.7, §4.11: he is the name people reach for when a conversation is going badly
+### y1v2 p.120, p.149 — Ch.4 sec. 4.7, sec. 4.11: he is the name people reach for when a conversation is going badly
 [feat] (p.120) Kushida, on the phone about the corridor fight: "I couldn’t even move. Hirata-kun was so amazing, though." — Ayanokōji's jealous gloss on the praise: "Hearing her praise Hirata like that made me a little jealous."
 [feat] (p.120) The couple the class copies: "It seemed like many students were striving every day to couple up like Hirata and Karuizawa."
 [feat] (p.149) He is invoked as a teacher of social technique by the one person who watches him most closely: "What should I do? Please, Hirata. Teach me."
@@ -202,7 +202,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 ## y1v3
 
-### y1v3 p.16, p.30–51 — Ch.2 §2.0–2.2: the leader tries to hold a class that won't hold still
+### y1v3 p.16, p.30–51 — Ch.2 sec. 2.0–2.2: the leader tries to hold a class that won't hold still
 [scene] (p.16) Deck of the liner; he pulls Ayanokōji into the group the moment he appears.
 [rel:ayanokouji-kiyotaka] (p.16) Called over as rescue; Hirata himself is too busy — "Miyake-kun looks like he's having trouble" — and leaves for the cabins.
 [rel:karuizawa-kei] (p.16) Asked why he isn't with her: “We just kind of take things at our own pace.”
@@ -211,7 +211,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [feat] (p.50–51) Breaks his own neutrality on the toilet: "I've thought it over, and I believe we should install one toilet first" — then beats Yukimura's objection with the arithmetic of thirty-plus students sharing one box.
 [trait] (p.51) The chapter's verdict on the method: "It wasn’t just to provoke arguments; he was convinced that he’d get their approval eventually."
 
-### y1v3 p.63–96 — Ch.2 §2.4–2.8: the river, the 120-point speech, and taking Ibuki in
+### y1v3 p.63–96 — Ch.2 sec. 2.4–2.8: the river, the 120-point speech, and taking Ibuki in
 [scene] (p.63) Receives Ike's river report and moves the class toward a base camp.
 [rel:ike-kanji] (p.64) Praised the find — "Amazing, Ike-kun!" — then takes his name to Chabashira as leader-candidate filing errand-boy.
 [rel:horikita-suzune] (p.66) Files Horikita's name and hands her the card; orchestrates the fake collective touch to hide the leader.
@@ -239,7 +239,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y1v3 ch3 → p.130 -->
 
-### y1v3 p.142 — Ch.4 §4.3: the corn report
+### y1v3 p.142 — Ch.4 sec. 4.3: the corn report
 [scene] (p.142) At base camp when Ayanokōji cuts out of Yamauchi’s rant to reach him.
 [rel:ayanokouji-kiyotaka] (p.142) Gets the corn report first-hand; soon afterward students are organized into a team that brings the harvest back.
 
@@ -288,7 +288,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [says:hirata-yousuke] (p.169) “Thank you. Well then, I’ll be getting back to work.”
 [trait] (p.169) The narration marks one contradiction: right after saying he believes Ayanokōji, he insists the truth be concealed.
 
-### y1v3 p.171–178 — Ch.6 §6.1: the meeting that splits the camp
+### y1v3 p.171–178 — Ch.6 sec. 6.1: the meeting that splits the camp
 [scene] (p.171) Runs the meeting where Karuizawa’s fear turns into a ban on the boys, and takes the mediator’s role once more.
 [says:hirata-yousuke] (p.171) “Could everyone please gather around?”
 [note] (p.171) The opening call of the meeting is left untagged in the translation; the narration has his meeting already begun as Ayanokōji steps out.
@@ -307,7 +307,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [says:hirata-yousuke] (p.178) “I understand what everyone wants to say here, but I disagree with suspecting a classmate without evidence. There shouldn’t be anyone in our class who’d do such an awful thing,”
 [says:hirata-yousuke] (p.178) “I don’t know, but I don’t want to doubt my classmates.”
 
-### y1v3 p.180–189 — Ch.6 §6.2–§6.3: the stakes, the points, the fever
+### y1v3 p.180–189 — Ch.6 sec. 6.2–sec. 6.3: the stakes, the points, the fever
 [scene] (p.180) Pitches the girls’ second tent at Ayanokōji’s side after the split, then is pulled away by Karuizawa and the other girls.
 [trait] (p.180) The narration opens on him: a really cool guy, principled, taking the initiative on troublesome work and answering opponents respectfully.
 [says:hirata-yousuke] (p.180) “I’m sorry. I’ve put you in a tough spot again.”
@@ -324,14 +324,14 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [says:horikita-suzune] (p.186) “Karuizawa-san reported this to Hirata-kun, so he definitely knew about it. But you didn’t know, nor did he inform anyone else. I think he absolutely should have shared this information.”
 [trait] (p.186) Kept quiet about the girls’ twelve-point spending, known to him through Karuizawa’s report.
 
-### y1v3 p.192–199 — Ch.6 §6.4: the last forage
+### y1v3 p.192–199 — Ch.6 sec. 6.4: the last forage
 [scene] (p.192) Reports a quiet night, then sorts the class into teams for one last search for food.
 [says:hirata-yousuke] (p.192) “I’m glad. We haven’t had any incidents,”
 [says:ike-kanji] (p.192) “Would it be better if we went, too?”
 [says:hirata-yousuke] (p.192) “No. Ike-kun, Sudou-kun, I want you two to continue fishing. We don’t have enough time to instruct the other students how to do it.”
 [action] (p.192) Keeps Ike and Sudou on the river and sets the search groups by volunteers, with Ayanokōji as backup.
 
-### y1v3 p.206–211 — Ch.6 §6.7: the fire and the crack
+### y1v3 p.206–211 — Ch.6 sec. 6.7: the fire and the crack
 [scene] (p.206) At the fire behind the temporary toilet — the survival manual was in his bag, and he takes the blame before the culprit.
 [says] (p.207) “I’m responsible for this. The manual was in my bag. We piled the bags up in front of the tent and I didn’t think that someone would steal anything in the daytime. But first, we need to extinguish this fire properly…”
 [action] (p.207) Goes to the river to douse the fire instead of hunting the culprit, and crushes a plastic bottle in his fist.
@@ -402,7 +402,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y1v4 → start -->
 
-### y1v4 p.13–16 — Ch.2 §2.0: he pulls Ayanokōji to lunch
+### y1v4 p.13–16 — Ch.2 sec. 2.0: he pulls Ayanokōji to lunch
 [scene] (p.13) Ship cabin: he draws Ayanokōji out of his sea-gazing and steers him toward lunch, cancelling Karuizawa’s plan to do it.
 [says] (p.13) “Hmm? You haven’t been in the room all this time, have you?”
 [says] (p.13) “You might make more friends if you were a little more proactive, Ayanokouji-kun. Though I suppose it’s none of my business.”
@@ -416,7 +416,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [says] (p.16) “Even so, I’m grateful to you for helping.”
 [rel:karuizawa-kei] (pp.14–15) Cancels their lunch without flinching; Ayanokōji expects her to blame him later, and he doesn’t seem to care.
 
-### y1v4 p.17–20 — Ch.2 §2.0: the ask, be the bridge to Horikita
+### y1v4 p.17–20 — Ch.2 sec. 2.0: the ask, be the bridge to Horikita
 [scene] (p.17) Top-deck restaurant: over lunch he finally names his ask — Ayanokōji as the bridge to Horikita.
 [says] (p.17) “Honestly, there’s something I’d like your advice on.”
 [says] (p.17) “I wondered if you would act as a bridge to help reach Horikita-san. After all, Class D will have to come together and work hard in the future, and I think Horikita-san will be indispensable.”
@@ -442,7 +442,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [note] (p.37) She wails that Hirata-kun would have been so much better; the Professor offers to surpass the good Hirata-dono with three heads.
 [note] (p.50) She calls out to Hirata-kun about something she wanted to talk about, then strides off — probably going to complain to him.
 
-### y1v4 p.52–53 — Ch.2 §2.4: the wake-up and the scattered explanations
+### y1v4 p.52–53 — Ch.2 sec. 2.4: the wake-up and the scattered explanations
 [scene] (p.52) In the third-deck cabin he straightens his luggage, puts on his uniform, and wakes Ayanokōji for the evening’s meetings.
 [says] (p.52) “I’m sorry. Did I wake you?”
 [says] (p.52) “Would you like to come with me? I was thinking the school’s message should be coming pretty soon.”
@@ -453,7 +453,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:ayanokouji-kiyotaka] (pp.52–53) Wakes him, walks him down, gets only a deflection for his troubles.
 [rel:yukimura-teruhiko] (p.52) His inside source on the Rabbit rules.
 
-### y1v4 p.54–61 — Ch.2 §2.5: the 20:40 gathering
+### y1v4 p.54–61 — Ch.2 sec. 2.5: the 20:40 gathering
 [scene] (p.54) Second-deck meeting place: he names the waiting students for Ayanokōji, then stands inside the Katsuragi–Horikita–Ryūen current.
 [says] (p.54) “It doesn’t seem like all of these people are in my group.”
 [says] (p.54) “That’s Morimiya-kun, from Class A. And that one near the elevator is Tokitou-kun, from Class C.” (the well-connected answer)
@@ -486,7 +486,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [note] (p.108) The joke read of Ibuki: maybe she was communicating with Hirata in real time so he could listen to their conversation.
 [note] (p.109) Whatever her reputation, she and Hirata often brought the class together — and Hirata was always Hirata, no matter the situation.
 
-### y1v4 p.112–115 — Ch.3 §3.5: the trusted conduit
+### y1v4 p.112–115 — Ch.3 sec. 3.5: the trusted conduit
 [scene] (p.112) Waiting when Ayanokōji returns near midnight; shares the Yukimura info chat, whispers the two known VIPs, and shows them by phone.
 [says] (p.112) “Good work today, Ayanokouji-kun. You’re rather late,” said Hirata.
 [says] (p.112) “I’m sure you’re tired, but if you’re up for it, do you mind talking with me?” he asked. (the simultaneous ask with Ayanokōji)
@@ -517,7 +517,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [scene] (p.126) Named as the contact to avoid when asking about Karuizawa.
 [note] (p.126) Ayanokōji’s note: Hirata probably remembered he’d passed on the lunch with Karuizawa, so he wanted to avoid asking him about this — the suggestion on the page is to talk to Hirata-kun instead.
 
-### y1v4 p.131–144 — Ch.4 §4.0–4.1: the absent roommate and the corridor pass
+### y1v4 p.131–144 — Ch.4 sec. 4.0–4.1: the absent roommate and the corridor pass
 [scene] (p.131) Named as the better source on Dragon-group detail while Ayanokōji walks back to an empty room, then passes Ayanokōji in the Dragon doorway on day two.
 [rel:ayanokouji-kiyotaka] (p.131) The planned mining target — “Hirata would likely approach this test from a different perspective than Horikita.”
 [rel:horikita-suzune] (p.131) Set up as the alternate Dragon-group lens beside her.
@@ -530,7 +530,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [note] (p.157) Would Hirata have been able to get them a little more organized? — her influence grew by becoming Hirata’s girlfriend.
 [note] (p.164) The stairwell taunt on who she’d call: Hirata-kun? Machida-kun?
 
-### y1v4 p.170–178 — Ch.4 §4.4: the farce ends at the vending machine
+### y1v4 p.170–178 — Ch.4 sec. 4.4: the farce ends at the vending machine
 [scene] (p.170) Slips out of the room at 2 a.m. into Ayanokōji’s hallway trap, takes him to Karuizawa’s meeting, and ends the fake dating on the spot when revenge is refused.
 [rel:ayanokouji-kiyotaka] (pp.170-178) The night walk: “Did I wake you?” → “Karuizawa contacted you, didn’t she?” → tasks him with saving her — then “I honestly find you a little weird. You kind of creep me out.”
 [says] (p.170) “Did I wake you? Or were you already awake?” he asked.
@@ -576,7 +576,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [says] (p.178) “Well. I suppose Horikita-san must’ve determined that saving Karuizawa-san will give our class a lead,” he reasoned.
 [trait] (p.177) The four-month farce as mutual necessity: she proposed, he honored; “host” and “parasite” is Ayanokōji’s caste reading of it.
 
-### y1v4 p.179–183 — Ch.4 §4.4: Sugimura and the last Class D VIP
+### y1v4 p.179–183 — Ch.4 sec. 4.4: Sugimura and the last Class D VIP
 [scene] (p.179) Explains the boyfriend farce as anti-bullying penance, tells the Sugimura window story, pledges confidentiality, then reveals he knows the last Class D VIP.
 [says] (p.179) “Yeah. But I do think you’re amazing, Ayanokouji-kun. You’re different from Ike-kun and Yamauchi-kun.”
 [says] (p.179) “Even if you’re just following Horikita-san’s orders, you’re still the one talking to me right now, Ayanokouji-kun. It isn’t as though Horikita gave you a list of prepared responses. I think that you show clear, well-reasoned logic. That’s not something you can pretend to have.”
@@ -622,7 +622,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [note] (p.208) To Horikita: I’ve brought Hirata over to our side — a lot of cooperation expected — and I’ll handle him and maintain things.
 [note] (p.210) When Hirata and the others left the room, he headed to the meeting alone, with half the period still to run.
 
-### y1v4 p.231–242 — Ch.5 §5.2–5.3: the paper, the survey, the model
+### y1v4 p.231–242 — Ch.5 sec. 5.2–5.3: the paper, the survey, the model
 [scene] (p.231) The withheld VIP knowledge named on the page; then the café approach about “that piece of paper,” the group survey proving no Class D betrayal, the timing deduction with Horikita, and the puzzled Dragon Outcome #1 question.
 [rel:ayanokouji-kiyotaka] (pp.231, 234) Kept Karuizawa’s VIP status from him and Yukimura at first; the café line “that piece of paper you gave me” ties back to the earlier insurance.
 [says] (p.234) “I’m guessing you’re talking about that piece of paper you gave me. Right, Ayanokouji-kun?” Hirata’s approach from behind made Karuizawa jump in shock.
@@ -697,14 +697,14 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:kushida-kikyou] (p.15) Proposes her as the fourth ally to unite the boys — starting with Ike-kun and Yamauchi-kun — over Horikita’s refusal.
 [rel:horikita-suzune] (p.15) His proposal is rejected; she side-eyes Ayanokōji instead of softening.
 
-### y1v5 p.16–25 — Ch.2 §2.1: the briefing
+### y1v5 p.16–25 — Ch.2 sec. 2.1: the briefing
 [scene] (p.16) In homeroom he is the first to ask whether the festival is another special exam; Chabashira’s answer stays vague.
 [says] (p.16) “Sensei, is this festival another of the special exams?”
 [says] (p.18) “Um, sensei, how many points does the winning team get?” — Chabashira answers: none.
 [says] (p.22) “Wait. So, we can decide the order in which we’ll participate?” — on the participation table.
 [action] (p.22) The absence questions in the room are his and Horikita’s — both read the handout like exam material.
 
-### y1v5 p.26–34 — Ch.2 §2.2: the assembly
+### y1v5 p.26–34 — Ch.2 sec. 2.2: the assembly
 [scene] (p.27) Meets Katsuragi at the Red Team assembly and becomes Class D’s negotiating face.
 [says] (p.27) “I look forward to working with you,”
 [rel:katsuragi-kouhei] (p.31) Accepts the keep-out-of-each-other’s-way pact — no shared competition details — and thanks him with “I’m counting on you.”
@@ -716,7 +716,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y1v5 ch2 → p.38 -->
 
-### y1v5 p.39–53 — Ch.3 §3: Runs the homeroom, the vote and the roster
+### y1v5 p.39–53 — Ch.3 sec. 3: Runs the homeroom, the vote and the roster
 [scene] (p.39) Hirata takes the two-hour homeroom in hand while Chabashira watches from the back, chalks two systems on the board, and walks the class through them.
 [says] (p.39) “This is a rough outline, but I think that everything boils down to these two approaches.”
 [says] (p.39) “The strength of the raising-hands system is, naturally, that everyone gets to voice their wishes.”
@@ -736,7 +736,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y1v5 ch3 → p.53 -->
 
-### y1v5 p.54–67 — Ch.4 §4: Gentle methods, three-legged partner
+### y1v5 p.54–67 — Ch.4 sec. 4: Gentle methods, three-legged partner
 [scene] (p.57) Hirata records the aptitude scores and asks Sudou to take the festival leadership.
 [rel:sakura-airi] (p.57) Records Sakura’s last-place finish; the praise line that follows is untagged, and Sakura answers Ayanokouji-kun.
 [rel:sudou-ken] (p.57) “Would you mind leading our class for this?”
@@ -748,7 +748,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y1v5 ch4 → p.67 -->
 
-### y1v5 p.68–85 — Ch.5 §5: On the pitch and at the podium
+### y1v5 p.68–85 — Ch.5 sec. 5: On the pitch and at the podium
 [scene] (p.75) Hirata is playing in the mixed-year soccer practice the trio comes to watch.
 [rel:nagumo-miyabi] (p.76–77) Outplayed by Nagumo in the practice game — sharp, but in a different league.
 [rel:shibata-sou] (p.79) Walks over with Shibata and forms the five-person group; calls Shibata the fastest in Class B.
@@ -758,7 +758,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y1v5 ch5 → p.85 -->
 
-### y1v5 p.88–114 — Ch.6 §6: steady hands
+### y1v5 p.88–114 — Ch.6 sec. 6: steady hands
 [scene] (p.88) Hirata runs the seventh group of the 100-metre dash and takes first, then spends the day as Class D’s calmer counterweight to Sudou.
 [action] (p.89) Takes first in his heat; when Ayanokōji apologizes for fifth he refuses to blame him — “That’s not true. Everyone was fast. It was a good race,”
 [action] (p.89–90) Goes with Ayanokōji to stop Sudou’s confrontation with Kōenji at the cottage.
@@ -779,16 +779,16 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [says] (p.114) “That’s my role, after all.”
 [trait] (p.114) Takes his caretaker role without a hint of disgust even when asked to carry it alone.
 
-### y1v5 p.115–142 — Ch.6 §6: jockey, victim, cover
+### y1v5 p.115–142 — Ch.6 sec. 6: jockey, victim, cover
 [scene] (p.115) Hirata ties legs with Ayanokōji for the boys’ three-legged and worries about Horikita’s injury between races.
 [says] (p.115) “How’s Horikita-san doing?”
 [says] (p.115) “It’s pretty serious.”
 [action] (p.115–116) Partners Ayanokōji to three-legged first; the girls cheer only for him.
 [rel:horikita-suzune] (p.116–117) Watches the Horikita–Kushida pair fade; later takes the cavalry jockey seat for the boys.
-[action] (p.118–119, §6.7) Describes Sakayanagi to Ayanokōji — polite, mature, but Class A calls her aggressive and ruthless.
+[action] (p.118–119, sec. 6.7) Describes Sakayanagi to Ayanokōji — polite, mature, but Class A calls her aggressive and ruthless.
 [says] (p.118) “So, you’re also curious about her, Ayanokouji-kun?”
 [says] (p.118) “She’s very polite, she’s good with people, and she’s mature.”
-[action] (p.123–128, §6.8) Jockeys the strongest D unit; merges with Class A on his plan, twice snags the edge of Ryuuen’s headband, then loses his own.
+[action] (p.123–128, sec. 6.8) Jockeys the strongest D unit; merges with Class A on his plan, twice snags the edge of Ryuuen’s headband, then loses his own.
 [says] (p.124) “I have an idea, if it’s okay with you guys.”
 [says] (p.127) “Sorry. My hand was slippery!”
 [says] (p.127) “Ugh! Sorry, Sudou-kun! Fall back for now!”
@@ -800,11 +800,11 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [says] (p.133) “No, that’s not it, sensei. I just fell down, that’s all.”
 [says] (p.133) “Well, you’d be wrong to think he hit me. Look, I fell, so there shouldn’t be a problem,”
 [rel:chabashira-sae] (p.133) Convinces her to log a preventative report rather than a violence case.
-[action] (p.135, §6.9) Confronts Ryuuen with the stolen participation table and the weak-opponent pattern.
+[action] (p.135, sec. 6.9) Confronts Ryuuen with the stolen participation table and the weak-opponent pattern.
 [says] (p.135) “It looks like the only reason you’ve come in first is because you went up against much weaker people. You’re quite lucky, Ryuuen-kun.”
 [says] (p.135) “You got Class D’s participation table, and you obtained detailed information about all our students’ athletic abilities, too.”
 [says] (p.135) “I just have one thing to say to you.”
-[action] (p.140–142, §6.10) Pulls Ike and Yamauchi into the lunch circle with Karuizawa and Ayanokōji; presses the traitor question and accepts the Horikita-orders story.
+[action] (p.140–142, sec. 6.10) Pulls Ike and Yamauchi into the lunch circle with Karuizawa and Ayanokōji; presses the traitor question and accepts the Horikita-orders story.
 [says] (p.141) “Okay. I won’t hound you.”
 [says] (p.141) “And this is all on Horikita’s orders, right, Ayanokouji-kun?”
 [says] (p.142) “Yeah. We’re relying on Sudou-kun,”
@@ -812,13 +812,13 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y1v5 ch6 → p.143 -->
 
-### y1v5 p.160–161 — Ch.8 §8: pays for substitutes
+### y1v5 p.160–161 — Ch.8 sec. 8: pays for substitutes
 [scene] (p.160) Hirata takes Ayanokouji’s opinion on a substitute and funds Ike for the scavenger hunt.
 [says:hirata-yousuke] (p.160) “I think we need a substitute. In the individual competitions, our class ranks right at the bottom. To win in overall points, we need to win the next events,”
 [says:hirata-yousuke] (p.160) “We need 100,000 points to put in a substitute. I’ll figure something out with the points. I think we’d do well substituting Ike-kun or Yamauchi-kun,”
 [says:hirata-yousuke] (p.160) “Yeah. We can use that to our advantage.”
 
-### y1v5 p.168–169 — Ch.8 §8.2: the 500,000-point burden
+### y1v5 p.168–169 — Ch.8 sec. 8.2: the 500,000-point burden
 [scene] (p.168) After the lost tug-of-war Hirata has paid three times and faces a fourth; he still agrees because the class needs the points.
 [says:hirata-yousuke] (p.168) “Yeah, I am. We need it,”
 [says:hirata-yousuke] (p.168) “You might be right, but 100,000 points is a lot, and it’s hard to save that many. Also, I’m the one who gave the go-ahead to use substitutes, so I can’t exactly go asking for points,”
@@ -830,7 +830,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y1v5 ch8 → p.180 -->
 
-### y1v5 p.181–183 — Ch.9 §9: builds the relay team
+### y1v5 p.181–183 — Ch.9 sec. 9: builds the relay team
 [scene] (p.181) Hirata accepts Sudou back, backs Ayanokouji as substitute, and sets the head-start strategy for a weak first-year squad.
 [says:hirata-yousuke] (p.181) “The final event, huh? I guess we need to choose a substitute for this one, too.”
 [note] (p.181) Speaker untagged before Sudou’s entrance; recorded under Hirata’s field.
@@ -905,14 +905,14 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:chabashira-sae] (p.38–39) 400-question workload: “That’ll make for a pretty tight schedule”; looks flustered.
 [says:hirata-yousuke] (p.38) “Creating four hundred questions, huh? That’ll make for a pretty tight schedule”
 
-### y1v6 p.40–42 — Ch.3 §3.1: called into the strategy meeting
+### y1v6 p.40–42 — Ch.3 sec. 3.1: called into the strategy meeting
 [scene] (p.40) Sent for by Horikita via Ayanokouji; arrives and calls Karuizawa over.
 [rel:horikita-suzune] (p.40–41) Horikita and he are becoming the class’s prime movers.
 [says:hirata-yousuke] (p.41) “Sorry to have kept you waiting. You wanted to discuss plans, right?”
 [rel:karuizawa-kei] (p.41–42) Calls her to the group; she hugs his arm to push for Pallet.
 [rel:kushida-kikyou] (p.42) Leaves with Kushida and Karuizawa for Pallet ahead of the planners.
 
-### y1v6 p.52–58 — Ch.3 §3.2: Pallet logic
+### y1v6 p.52–58 — Ch.3 sec. 3.2: Pallet logic
 [scene] (p.52) Present at Pallet; soccer club at 4:30 but he is calm, eyes shining.
 [rel:karuizawa-kei] (p.52–53) Her admiration shower (“Wow, just as expected, Yousuke-kun!”) after his upperclassman idea.
 [says:hirata-yousuke] (p.53) “So, there’s some special significance to the short test? Does the school want to measure something other than our academics?”
@@ -946,7 +946,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [note] (p.73) Hirata does not appear in person on these pages.
 <!-- walk: y1v6 ch4 → p.75 -->
 
-### y1v6 p.76–88 — Ch.5 §5: support role and the tutoring gap
+### y1v6 p.76–88 — Ch.5 sec. 5: support role and the tutoring gap
 [scene] (p.76) Takes the podium with Chabashira’s permission; summons Horikita — their first public solidarity.
 [says:hirata-yousuke] (p.76) “During homeroom today, I’d like to discuss our strategy for the short quiz tomorrow. I’ve received Chabashira-sensei’s permission. First, Horikita-san, would you please come up?”
 [rel:horikita-suzune] (p.76) She always fought alone until now; the class finds the pair weird.
@@ -985,7 +985,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:shiina-hiyori] (p.137) One of the four names she manages; she forgets faces more readily than names.
 [note] (p.137) No scene presence; named only.
 
-### y1v6 p.163–167 — Ch.6 §6.6: stopping the juice
+### y1v6 p.163–167 — Ch.6 sec. 6.6: stopping the juice
 [scene] (p.163) Chairs the karaoke meeting’s social rules with Horikita; grabs Karuizawa’s hand when she dumps the juice.
 [says:hirata-yousuke] (p.163) “Wait, Karuizawa-san. We didn’t meet here to have fun,”
 [says:hirata-yousuke] (p.163) “We came because you said that you didn’t want to use the dorms to study.”
@@ -1091,7 +1091,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y1v7 ch4 → p.119 -->
 
-### y1v7 p.120 — Ch.5 §5.1: the conservative on the shortlist
+### y1v7 p.120 — Ch.5 sec. 5.1: the conservative on the shortlist
 [scene] (p.120) Named in Ryuuen’s narrowing of Class D suspects after the Paper Shuffle.
 [note] (p.120) Excluded weaklings, then kept delinquents like Sudou and Miyake and conservative people like Hirata.
 [rel:ryuuen-kakeru] (p.120) One of the few Class D names still standing on X’s shortlist.
@@ -1156,7 +1156,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 <!-- walk: y1v7.5 ch4 → p.106 -->
 
 ### y1v7.5 p.109–140 — Ch.5: the saint of the double date
-[scene] (p.109) Arrives with Karuizawa; holds the day together; exits before the confession; White Room–adjacent romance talk in §5.2.
+[scene] (p.109) Arrives with Karuizawa; holds the day together; exits before the confession; White Room–adjacent romance talk in sec. 5.2.
 [says:hirata-yousuke] (p.111) “I really don’t think it’s our place to say that to them, Karuizawa-san.”
 [says:hirata-yousuke] (p.123) “Kushida-san’s quite popular, but I don’t think everyone necessarily wants to date her. Anyway, I doubt Ayanokouji-kun has feelings for anyone in particular,”
 [says:hirata-yousuke] (p.125) “Good morning, Nagumo-senpai.”

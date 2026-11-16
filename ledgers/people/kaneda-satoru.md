@@ -7,7 +7,7 @@ aliases used for anchors: kaneda, kaneda satoru, kaneda-kun
 
 <!-- walk: y1v3 → start -->
 
-### y1v3 p.124 — Ch.3 §3.3: the Class C boy who offers to help
+### y1v3 p.124 — Ch.3 sec. 3.3: the Class C boy who offers to help
 [scene] (p.124) At Class B's camp he interrupts Ichinose in a reserved voice while Horikita and Ayanokōji are still there.
 [says] (p.124) “Pardon me, Ichinose-san? I’m sorry to interrupt. Do you know where Nakanishi-kun is?”
 [says] (p.124) “I thought I’d offer to help. Is that unnecessary?”

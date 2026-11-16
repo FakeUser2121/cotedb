@@ -44,7 +44,7 @@ aliases used for anchors: sakura, airi, sakura-san
 [scene] (p.13) Sudou, sensing movement, calls "Is someone there?" toward her hiding spot; she escapes by seconds: "I’d successfully escaped by a hair’s breadth. If I’d lagged a mere two seconds, he probably would’ve seen me."
 [trait] (p.12–13) Document-first, confront-never instinct: she photographs the fight but flees rather than intervene or report; self-protection through invisibility.
 [rel:sudou-ken] (p.12–13) Unseen witness to his brawl; nearly discovered by him — she does not know his name-to-face link yet beyond "Sudou-kun" heard in his taunts.
-[scene] (p.20) §2.2 lunch, observed by Ayanokōji: still eating alone, hunched over a homemade bento; the glasses-and-plain-girl reputation ("At one time Ike had made a ruckus about how large her breasts were, but because she was considered plain, everyone quickly lost interest.").
+[scene] (p.20) sec. 2.2 lunch, observed by Ayanokōji: still eating alone, hunched over a homemade bento; the glasses-and-plain-girl reputation ("At one time Ike had made a ruckus about how large her breasts were, but because she was considered plain, everyone quickly lost interest.").
 
 <!-- walk: y1v2 ch2 → p.39 -->
 
@@ -59,7 +59,7 @@ aliases used for anchors: sakura, airi, sakura-san
 
 <!-- walk: y1v2 ch3 → p.65 -->
 
-### y1v2 p.77–82 — Ch.4 §4.1: she is named, and stays a rumour to the people who sit near her
+### y1v2 p.77–82 — Ch.4 sec. 4.1: she is named, and stays a rumour to the people who sit near her
 [says] (p.77) "Sakura-san." — the first time anyone in Class D says her name out loud in the volume, spoken by Horikita in Ayanokōji's room.
 [says] (p.77) Horikita's proof, which is entirely about Sakura's own behaviour: "When Kushida-san said that she was looking for a witness in class, Sakura looked down. A lot of students were staring at Kushida-san. Sakura was the only one who didn’t appear interested."
 [status] (p.77–78) She is now identified as the witness by the one student who was watching the wrong student, and Horikita's confidence is absolute: "No, Sakura-san is undoubtedly the witness. Her actions confirmed it. Although she may not admit to it, she is definitely the one."
@@ -77,7 +77,7 @@ aliases used for anchors: sakura, airi, sakura-san
 [rel:kushida-kikyou] (p.80–82) Kushida holds her contact number, her seating position and the class's only defence of her, and still cannot reach her by phone.
 [note] (p.77–82) All of this is Class D talking about her in a room she is not in. Chapter 4 gives her no line of her own until her own section later in the chapter; nothing here is her choice.
 
-### y1v2 p.132–142 — Ch.4 §4.9–4.10: she lets two people take a camera to a repair counter
+### y1v2 p.132–142 — Ch.4 sec. 4.9–4.10: she lets two people take a camera to a repair counter
 [scene] (p.136) She has already arrived and is unnoticed at her own meeting: "Had Sakura really been sitting there the entire time? Amazing that we hadn’t noticed her at all. Not a sign of her presence or aura."
 [says] (p.136) "I’m sorry, I don’t stand out much, I suppose… Good morning," — the first line she speaks aloud in the volume, and she apologises for it before it is needed.
 [says] (p.136) "Oh, you don’t need to say that for my sake, Ayanokouji-kun." — his compliment that he felt her presence is declined.
@@ -101,7 +101,7 @@ aliases used for anchors: sakura, airi, sakura-san
 [says] (p.142) "W-well, it’s just… It’s embarrassing," — "replied Sakura, her cheeks reddening. She looked down as she spoke."
 [note] (p.142) Whether she photographs people is asked but not answered in this volume, and the asker is not tagged in the translation; only her refusal is hers.
 
-### y1v2 p.144–146 — Ch.4 §4.10: she is offered a friendship and answers with the case
+### y1v2 p.144–146 — Ch.4 sec. 4.10: she is offered a friendship and answers with the case
 [scene] (p.144) Kushida asks her to take off her glasses and she refuses in front of a stranger's question: "Huh?! B-but that’s… My eyesight is so bad, I wouldn’t be able to see a thing…" — "Sakura put her hand up and waved it, signaling to Kushida that she did not want to."
 [says] (p.144) "Umm… Thank you for everything today. You really helped me out,"
 [says] (p.145) "I didn’t mean to sound that way. I wasn’t aware of it… I sound weird?" — on being told she speaks too formally for a classmate.
@@ -118,7 +118,7 @@ aliases used for anchors: sakura, airi, sakura-san
 [rel:kushida-kikyou] (p.142, p.144–146) She tells Kushida the camera history, refuses Kushida the glasses, and hands Kushida the testimony — the friendship is real before the evidence is.
 [rel:ayanokouji-kiyotaka] (p.140) He wrote his own name and dorm room on her repair form so she would not have to hand over her address; her first unscheduled call is to him, not to Kushida.
 
-### y1v2 p.148–150 — Ch.4 §4.11: the call she cannot finish
+### y1v2 p.148–150 — Ch.4 sec. 4.11: the call she cannot finish
 [scene] (p.148) The name on Ayanokōji's screen that night: "I answered Sakura’s call before it cut out."
 [says] (p.149) "Um… Hello. This is Sakura…"
 [says] (p.149) "Thank you for coming out with me today,"
@@ -129,7 +129,7 @@ aliases used for anchors: sakura, airi, sakura-san
 
 <!-- walk: y1v2 ch4 → p.151 -->
 
-### y1v2 p.163–166 — Ch.5 §5.2: she testifies in the faculty room, and the teacher tests her
+### y1v2 p.163–166 — Ch.5 sec. 5.2: she testifies in the faculty room, and the teacher tests her
 [scene] (p.163) After homeroom, the faculty room. Kushida brings her forward; Ayanokōji waits at the back "out of consideration for Sakura".
 [says] (p.163) "Yes. I saw it."
 [feat] (p.163) She gives the account in full for the first time: "None of us, not even the teacher, spoke a single word or even moved until the very end."
@@ -143,7 +143,7 @@ aliases used for anchors: sakura, airi, sakura-san
 [says] (p.166) "N-no, it’s fine."
 [note] (p.166) She agrees to an arrangement she does not want: "She didn’t seem to like this at all, but she also didn’t have much choice right now."
 
-### y1v2 p.169–175 — Ch.5 §5.4: the night she asks him to come to her room
+### y1v2 p.169–175 — Ch.5 sec. 5.4: the night she asks him to come to her room
 [scene] (p.169) Evening, her dorm room 1106 on the eleventh floor — "This was my first time setting foot there" — reached by email rather than a call.
 [says] (p.169) "If I was absent from school tomorrow, what do you think would happen?"
 [says] (p.169) "If it’s okay with you, could we meet right now? I’m in room 1106."
@@ -160,7 +160,7 @@ aliases used for anchors: sakura, airi, sakura-san
 [note] (p.172) A cause is guessed and not confirmed: "I wondered if something had happened in Sakura’s past to cause her intense fear of men."
 [says] (p.172) "I know it would be good to simply say what it is I saw. But no matter what I do, I can’t seem to imagine it… How can I speak that assertively?"
 
-### y1v2 p.176–178 — Ch.5 §5.5: the club building, and advice she did not ask for
+### y1v2 p.176–178 — Ch.5 sec. 5.5: the club building, and advice she did not ask for
 [scene] (p.176) She takes him to the club-activities building away from the school, the one "that hosted things like the archery club and the tea ceremony club", where arrows can be heard.
 [says] (p.176) "I’m not, but I’ve wanted to come here at least once. I’d stand out if I came by myself, so…"
 [says] (p.176) "Why did you ask me to come out, anyway?"
@@ -170,7 +170,7 @@ aliases used for anchors: sakura, airi, sakura-san
 [says] (p.177) "Thank you, Ayanokouji-kun."
 [note] (p.178) Whether the advice lands is left unresolved: "Hopefully, my words had found purchase somewhere in Sakura’s heart."
 
-### y1v2 p.179–181 — Ch.5 §5.6: the class finds out what she does with her face
+### y1v2 p.179–181 — Ch.5 sec. 5.6: the class finds out what she does with her face
 [scene] (p.179) Ayanokōji's room, that night; Kushida has called everyone but Sudō.
 [note] (p.179) She is not present when the class identifies her; the blog is found by Kushida, under the name Shizuku.
 [note] (p.180) The proof the narrator offers is a dormitory door visible in one photograph, and his line is: "You can barely see it, but the door to her dorm room is in this picture."
@@ -178,7 +178,7 @@ aliases used for anchors: sakura, airi, sakura-san
 [limit] (p.181) Why she made the second life is not answered: "Why had she wanted to create another life? It was like a coin with two very different sides."
 [note] (p.180–181) The lensless glasses she dropped the night before are the disguise the class is now discussing, though not in her own words.
 
-### y1v2 p.186–188 — Ch.5 §5.7: the comments that explain her fear
+### y1v2 p.186–188 — Ch.5 sec. 5.7: the comments that explain her fear
 [scene] (p.186) Her blog ran about two years, starting when she began working as an idol; more than 5000 followers on Twitter; she stopped replying after being accepted to the school.
 [limit] (p.187) The record of one commenter escalates in public view: "Do you believe in fate? I do. I believe we will be together forever." then "Look, God is real after all."
 [note] (p.187) The chapter's connection, kept as the narrator's inference: the electronics-store clerk recognised her, and the repair form carried her real name and phone number.
@@ -196,7 +196,7 @@ aliases used for anchors: sakura, airi, sakura-san
 [note] (p.190) She can tell Ike and Yamauchi know about the idol work, and answers the room without being asked: she "quietly mouthed the words, 'It’s all right.'"
 [trait] (p.190) The narrator credits the double life with the sensitivity: "Maybe working as an idol had made her sensitive to subtle changes in a room."
 
-### y1v2 p.191–200 — Ch.6 §6.1: the testimony that nearly does not start
+### y1v2 p.191–200 — Ch.6 sec. 6.1: the testimony that nearly does not start
 [scene] (p.191) Class D’s classroom at 3:50 PM, ten minutes before the hearing; she is "still sitting down, her body rigid" and stands with her lips trembling.
 [says] (p.191) "Yeah… I’m okay. Thank you…"
 [trait] (p.191) "Sakura was far tenser than I’d expected" — enough that the narrator fears she "might not be able to speak satisfactorily."
@@ -209,7 +209,7 @@ aliases used for anchors: sakura, airi, sakura-san
 [says] (p.200) "The students in Class C threw the first punch. There’s no mistake about that!"
 [trait] (p.202) The delivery carries force beyond her manner: "She spoke so desperately that you wanted to believe she was telling the truth."
 
-### y1v2 p.202–205 — Ch.6 §6.1: the photographs
+### y1v2 p.202–205 — Ch.6 sec. 6.1: the photographs
 [says] (p.202) "That’s… Well, that’s… I didn’t want to get involved…"
 [says] (p.202) "Because I’m not very good at talking with other people…"
 [says] (p.202) "That’s… I’m just…telling the truth…"
@@ -223,7 +223,7 @@ aliases used for anchors: sakura, airi, sakura-san
 [note] (p.204) The line presenting the decisive photo is untagged in the translation — "I think that you’ll believe I was there after seeing…this." — so it is recorded here without a speaker.
 [note] (p.204) The last photo shows the fight itself: "The setting sun bathed the hallway in dusky light," and the image appears to be "what had happened immediately after Sudou hit Ishizaki."
 
-### y1v2 p.209–212 — Ch.6 §6.1: after the hearing
+### y1v2 p.209–212 — Ch.6 sec. 6.1: after the hearing
 [says] (p.209) "I tried my absolute hardest to speak up during the discussion, but do we even have a chance? Horikita?"
 [says] (p.210) "You understand that we won’t solve this problem just by being stubborn. Won’t that just hurt more people in the process?"
 [says] (p.210) "I’m sorry, Ayanokouji-kun… If I’d only stepped forward in the very beginning, everything would have been fine, but… Everything turned out this way because I didn’t have the courage."
@@ -234,7 +234,7 @@ aliases used for anchors: sakura, airi, sakura-san
 [says] (p.212) "But… I… Wasn’t I completely useless?"
 [trait] (p.213) The narrator’s read of the crying: "Sakura seemed to be the type who bottled up her feelings," and the hearing "might have been an important step forward for her."
 
-### y1v2 p.213–214 — Ch.6 §6.2: walking out
+### y1v2 p.213–214 — Ch.6 sec. 6.2: walking out
 [says] (p.213) "I let you see something so embarrassing…"
 [says] (p.213) "It’s been such a long time since I cried in front of someone. I feel a little relieved, actually."
 [says] (p.213) "I had no idea that you were like that, Ayanokouji-kun. That’s completely unlike the image I have of you."
@@ -248,7 +248,7 @@ aliases used for anchors: sakura, airi, sakura-san
 
 <!-- walk: y1v2 ch6 → p.219 -->
 
-### y1v2 p.222–225 — Ch.7 §7.1–7.2: the morning greeting and the last talk before the trial
+### y1v2 p.222–225 — Ch.7 sec. 7.1–7.2: the morning greeting and the last talk before the trial
 [scene] (p.222) She is already at her desk when Ayanokōji arrives — earlier than usual — sitting up straight, "as if ready for something."
 [says] (p.222) "Um… Good morning, Ayanokouji-kun. Horikita-san."
 [note] (p.222) The answer she gets back, "G-good morning…", is printed with no speaker; the narrator only records that his own response stuck in his throat.
@@ -261,7 +261,7 @@ aliases used for anchors: sakura, airi, sakura-san
 [says] (p.224) "See you later, Ayanokouji-kun."
 [says] (p.225) "I have plans today. Maybe tomorrow?"
 
-### y1v2 p.236–238 — Ch.7 §7.4: the shuttered door
+### y1v2 p.236–238 — Ch.7 sec. 7.4: the shuttered door
 [scene] (p.236) At the electronics-store entrance her fan — the store clerk who has been sending hundreds of letters to her room — catches her alone.
 [says] (p.236) "Please don’t contact me anymore!"
 [says] (p.236) "Stop… Please, stop it!"
@@ -276,7 +276,7 @@ aliases used for anchors: sakura, airi, sakura-san
 [says] (p.238) "Ayanokouji… kun. Why are you here?"
 [says] (p.238) "I guess I’m no good after all… I couldn’t do anything by myself in the end."
 
-### y1v2 p.239–240 — Ch.7 §7.4: permission, and a footing with Class B
+### y1v2 p.239–240 — Ch.7 sec. 7.4: permission, and a footing with Class B
 [action] (p.239) She meets Ayanokōji’s eyes and gives him a slight nod — permission to tell Ichinose the idol name.
 [says] (p.239) "When did you realize, Ayanokouji-kun?"
 [says] (p.239) "But I never appeared on TV or anything…"
@@ -308,7 +308,7 @@ aliases used for anchors: sakura, airi, sakura-san
 
 <!-- walk: y1v3 ch2 → p.99 -->
 
-### y1v3 p.131–135 — Ch.4 §4.1: chasing him into the forest
+### y1v3 p.131–135 — Ch.4 sec. 4.1: chasing him into the forest
 [scene] (p.131) Chases him out of base camp breathless on the third day and insists on coming along, rumors or not.
 [says] (p.131) “Ahh, ahh, ahh… Wh-where are you planning to go now, Ayanokouji-kun?”
 [says] (p.131) “I-It’s probably not okay for me…to come along, is it? I’d only slow you down, probably, but…”
@@ -338,7 +338,7 @@ aliases used for anchors: sakura, airi, sakura-san
 [rel:ayanokouji-kiyotaka] (p.135) Frames herself and him with thumb and forefingers several times, then makes an embarrassed face at having done it.
 [trait] (p.135) The camera habit runs deep enough to frame a shot that cannot be taken — and the new thing she names is a picture with a friend.
 
-### y1v3 p.137–140 — Ch.4 §4.2: the caterpillar and the corn
+### y1v3 p.137–140 — Ch.4 sec. 4.2: the caterpillar and the corn
 [scene] (p.137) Panics when he seizes her shoulders mid-break — a caterpillar is in her hair, a fact he never tells her.
 [says] (p.137) “Wh-what?! What is it?!”
 [says] (p.137) “Wh-what is it?”
@@ -352,7 +352,7 @@ aliases used for anchors: sakura, airi, sakura-san
 [says] (p.139) “Huh?! Wh-wh-wh-what are you doing, Ayanokouji-kun?! It’s way too soon for that!”
 [action] (p.139) Drops the corn and covers her eyes with both hands when he takes his shirt off.
 
-### y1v3 p.140–142 — Ch.4 §4.3: Katsuragi at the cornfield
+### y1v3 p.140–142 — Ch.4 sec. 4.3: Katsuragi at the cornfield
 [scene] (p.140) Jumps when Katsuragi and Yahiko arrive at the thicket and hides behind his back.
 [rel:katsuragi-kouhei] (p.140) Draws his apology for the surprise — he saw where she had run to.
 [rel:totsuka-yahiko] (p.140) His shout makes her jump again and curl into a ball; Katsuragi answers with a thump to his head.
@@ -363,7 +363,7 @@ aliases used for anchors: sakura, airi, sakura-san
 
 <!-- walk: y1v3 ch4 → p.143 -->
 
-### y1v3 p.171–178 — Ch.6 §6.1: speaking up
+### y1v3 p.171–178 — Ch.6 sec. 6.1: speaking up
 [scene] (p.175) Cowering behind everyone, she speaks up for Ayanokōji when no other girl will — and becomes Karuizawa’s next target.
 [rel:ayanokouji-kiyotaka] (p.175) Speaks in his defense when the girls turn on him; the narration notes she dislikes being noticed more than anything.
 [says:sakura-airi] (p.175) “Um… I don’t think that A-Ayanokouji-kun would do such a thing…”
@@ -374,14 +374,14 @@ aliases used for anchors: sakura, airi, sakura-san
 [action] (p.176) Runs off into the forest under the teasing; Kushida chases after her.
 [rel:kushida-kikyou] (p.176) Chases after her into the woods, judging it dangerous to go alone.
 
-### y1v3 p.194–199 — Ch.6 §6.4: the forest search
+### y1v3 p.194–199 — Ch.6 sec. 6.4: the forest search
 [scene] (p.194) On the last forage with Yamauchi watching her, she trails the pair that heads off with Horikita.
 [says:sakura-airi] (p.194) “Eh? O-oh, it’s okay. I’m fine.”
 [action] (p.194) Leans forward to avoid Yamauchi’s gaze.
 [rel:yamauchi-haruki] (p.194) He looks for excuses to talk to her while staring at her chest.
 [action] (p.197) Trails behind Horikita and Ayanokōji with her shoulders slumped as the pairs form.
 
-### y1v3 p.201–202 — Ch.6 §6.5: waiting for the shower
+### y1v3 p.201–202 — Ch.6 sec. 6.5: waiting for the shower
 [scene] (p.201) Refuses the river behind Ibuki’s lead and keeps her place in the shower line.
 [says] (p.201) “W-well, I will, too…”
 [action] (p.202) Stays in the line rather than swim — she does not want the boys to see her in a swimsuit.
@@ -397,7 +397,7 @@ aliases used for anchors: sakura, airi, sakura-san
 [scene] (p.15) Named in Ayanokōji’s recollection of the people he could talk to in the first semester.
 [note] (p.15) Listed with Horikita and Kushida as the three he talked with — his school life hadn’t been all that bad.
 
-### y1v4 p.25–28 — Ch.2 §2.2: the roommate appeal
+### y1v4 p.25–28 — Ch.2 sec. 2.2: the roommate appeal
 [scene] (p.25–26) Emails Ayanokōji to the second deck and stammers through her roommate worry; flees when Kushida appears.
 [says] (p.26) “Wah! A-Ayanokouji-kun?!”
 [says] (p.26) “N-no, no. I’m just kind of strangely nervous is all.”
@@ -417,7 +417,7 @@ aliases used for anchors: sakura, airi, sakura-san
 
 <!-- walk: y1v4 ch2 → p.62 -->
 
-### y1v4 p.97–102 — Ch.3 §3.2: the bow stress-talk
+### y1v4 p.97–102 — Ch.3 sec. 3.2: the bow stress-talk
 [scene] (p.98) Waits behind a pillar on the bow deck after moving from the crowded elevator route; mutters to herself, hands Ayanokōji the Cow roster, and finds the one person who will take her call.
 [says] (p.98) “I was thinking about it, but…h-how do I do it?” she murmured out loud. (before he arrives — self-talk over the wind)
 [says] (p.98) “Aaaieeeeeeeeeeee!” Sakura yelped, practically jumping out of her own skin. Seemed like I’d surprised her after all. “Wh-wh-when did you get here? How much did you hear?” she asked frantically.
@@ -449,7 +449,7 @@ aliases used for anchors: sakura, airi, sakura-san
 
 <!-- walk: y1v4 ch3 → p.124 -->
 
-### y1v4 p.183–184 — Ch.4 §4.5: the Cow group ends
+### y1v4 p.183–184 — Ch.4 sec. 4.5: the Cow group ends
 [scene] (p.183) Calls Ayanokōji after the Cow-group early-end email; denies the VIP role, reports Class A’s silence, and waves goodbye.
 [says] (p.183) “Yeah…” she replied.
 [says] (p.183) “Have I done something wrong?” she asked.
@@ -515,7 +515,7 @@ aliases used for anchors: sakura, airi, sakura-san
 
 <!-- walk: y1v4.5 ch4 → p.131 -->
 
-### y1v4.5 p.137–143 — Ch.5 §5.1: the letter
+### y1v4.5 p.137–143 — Ch.5 sec. 5.1: the letter
 [scene] (p.137) Kushida's invitation brings her behind the school building; finding only AK is a relief.
 [rel:kushida-kikyou] (p.137) She doesn't normally talk to Kushida and feared she had done something to make her angry.
 [says] (p.137) “I don’t normally talk to Kushida-san, so I was worried I did something to make her angry.”
@@ -532,7 +532,7 @@ aliases used for anchors: sakura, airi, sakura-san
 [says] (p.142) “I-I’ll try reading it!”
 [action] (p.142) She hangs her head and leaves to read the letter alone in her room.
 
-### y1v4.5 p.144–146 — Ch.5 §5.2: the night call
+### y1v4.5 p.144–146 — Ch.5 sec. 5.2: the night call
 [scene] (p.144) Her midnight texts become a phone call; tomorrow's answer keeps her awake.
 [says] (p.144) “Are you awake?”
 [says] (p.144) “Did I wake you?”
@@ -550,7 +550,7 @@ aliases used for anchors: sakura, airi, sakura-san
 [says] (p.146) “Okay, I see!”
 [action] (p.146) She sounds happy again; they chat until she grows drowsy and the call ends.
 
-### y1v4.5 p.147–152 — Ch.5 §5.3: the rejection
+### y1v4.5 p.147–152 — Ch.5 sec. 5.3: the rejection
 [scene] (p.147) She waits ten minutes early with a pained, shifting look; rain soaks them before the answer.
 [says] (p.147) “Thank you for coming here, Ayanokouji-kun.”
 [says] (p.148) “It’s raining,”
@@ -623,14 +623,14 @@ aliases used for anchors: sakura, airi, sakura-san
 
 <!-- walk: y1v5 ch2 → p.38 -->
 
-### y1v5 p.39–53 — Ch.3 §3: Follows Sudou’s hand
+### y1v5 p.39–53 — Ch.3 sec. 3: Follows Sudou’s hand
 [scene] (p.43) Sakura raises her hand with Sudou and Yukimura for Horikita’s ability plan during the homeroom vote.
 [action] (p.43) Votes with the ability camp — one of the sixteen hands for Horikita’s plan.
 [rel:sudou-ken] (p.43) Follows Sudou’s declared choice into the same camp.
 
 <!-- walk: y1v5 ch3 → p.53 -->
 
-### y1v5 p.54–67 — Ch.4 §4: Last place, then the worst pair
+### y1v5 p.54–67 — Ch.4 sec. 4: Last place, then the worst pair
 [scene] (p.57) Sakura finishes last in the aptitude tests, barely able to stand, and is praised for giving it her all.
 [says] (p.57) “A-Ayanokouji-kun.”
 [trait] (p.57) Works hard to contribute for the class, but her lack of physical endurance is still the problem.
@@ -638,14 +638,14 @@ aliases used for anchors: sakura, airi, sakura-san
 
 <!-- walk: y1v5 ch4 → p.67 -->
 
-### y1v5 p.68–85 — Ch.5 §5: Named in passing
+### y1v5 p.68–85 — Ch.5 sec. 5: Named in passing
 [scene] (p.72) Sakura is named as the girl Yamauchi confessed to over the summer — and lost.
 [rel:yamauchi-haruki] (p.72) The defeat still shows in Yamauchi’s forced smile during the noodle talk.
 [note] (p.74) Ayanokōji considers bringing her or Karuizawa to the grounds instead of Kushida, but judges the wrong person for the job.
 
 <!-- walk: y1v5 ch5 → p.85 -->
 
-### y1v5 p.92–99 — Ch.6 §6: not last
+### y1v5 p.92–99 — Ch.6 sec. 6: not last
 [scene] (p.92) Sakura arrives breathless beside Ayanokōji after the girls’ 100-metre dash, still hurting from the effort.
 [note] (p.92) Sakura arrives panting “Ahh…ahh…! I-It hurts…” — the broken cry is too short for a quote row.
 [says] (p.92) “W-were you watching me, Ayanokouji-kun?” she asked.
@@ -667,7 +667,7 @@ aliases used for anchors: sakura, airi, sakura-san
 
 <!-- walk: y1v6 → start -->
 
-### y1v6 p.19, 22 — Ch.2 §2.1: almost says something
+### y1v6 p.19, 22 — Ch.2 sec. 2.1: almost says something
 [scene] (p.19) As Ayanokouji follows Satou out, Sakura makes a sound as if to speak — no words come out, and she does not follow.
 [rel:satou-maya] (p.19) Present at the classroom door when Satou leads him away for the phone-number talk.
 [rel:yamauchi-haruki] (p.22) Ayanokouji recalls Yamauchi’s earlier confession to her while reflecting on his own unexpected “confession.”
@@ -701,7 +701,7 @@ aliases used for anchors: sakura, airi, sakura-san
 [rel:yukimura-teruhiko] (p.102) Still has not come over when the group leaves.
 [trait] (p.97–98) Public places remain hard; she almost flees to the dorm but holds her seat — something is going on in her mind.
 
-### y1v6 p.152–154 — Ch.6 §6.3: she asks to join the new group
+### y1v6 p.152–154 — Ch.6 sec. 6.3: she asks to join the new group
 [scene] (p.152) Has tailed every study session; when the four stand outside the convenience store and name the Ayanokouji Group, she trips out of hiding and forces a request.
 [says:sakura-airi] (p.152) “U-u-um, excuse me!”
 [says:sakura-airi] (p.152) “I-I also want to join Ayanokouji-kun’s group!”
@@ -721,7 +721,7 @@ aliases used for anchors: sakura, airi, sakura-san
 [rel:miyake-akito] (p.153) First to say she fits: all loners, no qualifications needed.
 [trait] (p.152–154) Crooked glasses, deep blush, stammer that worsens under attention — but she does not leave until the vote is in.
 
-### y1v6 p.156, 159–162 — Ch.6 §6.4–6.5: the movie seat and the jealousy check
+### y1v6 p.156, 159–162 — Ch.6 sec. 6.4–6.5: the movie seat and the jealousy check
 [scene] (p.156) Texts that she wants to go; at the theater she walks beside Ayanokōji and later quizzes him about Satou.
 [says:sakura-airi] (p.156) “I want to go, too.”
 [says:sakura-airi] (p.156) “I’m really excited about tomorrow, Kiyotaka-kun. Goodnight.”
@@ -828,7 +828,7 @@ aliases used for anchors: sakura, airi, sakura-san
 
 <!-- walk: y1v7.5 ch3 → p.72 -->
 
-### y1v7.5 p.103–106 — Ch.4 §4.3: the glove gift
+### y1v7.5 p.103–106 — Ch.4 sec. 4.3: the glove gift
 [scene] (p.103) Past ten on Christmas Eve, Ayanokōji’s door; Airi returns from an afternoon with Haruka and hands him a red-ribbon package.
 [says:sakura-airi] (p.103) “G-g-good evening, K-Kiyotaka-kun!” stammered a familiar voice
 [says:sakura-airi] (p.103) “I heard from Haruka-chan that you have something going on tomorrow, Kiyotaka-kun. That means you won’t be able to come with us.”

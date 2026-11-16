@@ -25,7 +25,7 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.24) He wouldn’t return to his room just yet — he’d head back to where Hirata and Yukimura, his other roommates, would be.
 [note] (p.26) A hallway question confirms the roommates: Ayanokōji with Hirata, Kouenji, and Yukimura.
 
-### y1v4 p.32, p.36 — Ch.2 §2.3: odd company, first quarrel
+### y1v4 p.32, p.36 — Ch.2 sec. 2.3: odd company, first quarrel
 [scene] (p.32) Seated at Mashima’s table with the Professor; first to spot that the gathering is odd.
 [says] (p.32) “This is rather odd, isn’t it? Ayanokouji?”
 [says] (p.36) “How about you shut up and try listening? The test is probably going to start soon. If they dock our points because you keep blabbing, are you gonna take responsibility?”
@@ -34,13 +34,13 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [rel:karuizawa-kei] (p.36) Trades insults with her under the teacher’s eye.
 [rel:sotomura-hideo] (p.32) Paired oddly at the table, by the narrator’s note.
 
-### y1v4 p.33–35 — Ch.2 §2.3: the seat and the roll call
+### y1v4 p.33–35 — Ch.2 sec. 2.3: the seat and the roll call
 [scene] (p.33) Sits beside Ayanokōji at Mashima-sensei’s table as the zodiac group fills.
 [note] (p.33) Ayanokōji silently takes the seat next to Yukimura; Kushida asks why Yukimura-kun and these other guys are here.
 [note] (p.34) Mashima-sensei rolls the group: Sotomura, Yukimura, Ayanokouji, and Karuizawa, from Class D.
 [note] (p.35) He and the Professor stay silent through Karuizawa’s complaining — how seriously they took the test is left open.
 
-### y1v4 p.37–46 — Ch.2 §2.3: the quarrel at the table
+### y1v4 p.37–46 — Ch.2 sec. 2.3: the quarrel at the table
 [scene] (p.37) Spends the briefing trading barbs with Karuizawa and absorbing Mashima’s rebuke.
 [action] (p.37) Snorted derisively at Karuizawa without saying a word.
 [says] (p.38) “I… P-pardon me.” (after Mashima cuts him off)
@@ -50,7 +50,7 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [rel:karuizawa-kei] (pp.37–46) The main target of his exasperation.
 [rel:mashima-tomonari] (p.38) The teacher he stammers an apology to.
 
-### y1v4 p.49–51 — Ch.2 §2.3: the failed huddle
+### y1v4 p.49–51 — Ch.2 sec. 2.3: the failed huddle
 [scene] (p.49) In the room and then the hallway: he probes Ayanokōji, pitches a three-man plan, and watches it dissolve.
 [says] (p.49) “Hey, Ayanokouji. You’ve been quiet. Do you actually understand everything?”
 [says] (p.49) “For crying out loud, why on earth was I lumped in with a bunch of space cadets?” (said once in the room)
@@ -65,7 +65,7 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [rel:sotomura-hideo] (p.51) The invitee who bows out for Love Love Alive.
 [rel:ayanokouji-kiyotaka] (p.49) Probes whether he understood the briefing.
 
-### y1v4 p.52 — Ch.2 §2.4: absent from the room
+### y1v4 p.52 — Ch.2 sec. 2.4: absent from the room
 [scene] (p.52) Named only as missing: when Ayanokōji wakes in the cabin, neither he nor Kōenji is there.
 [note] (p.52) Absent from the third-deck cabin at 20:30 — Ayanokōji notes the room holds only himself and Hirata.
 
@@ -79,7 +79,7 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [scene] (p.65) Named in Horikita’s score-grouping hypothesis.
 [note] (p.65) Horikita’s grade theory: Yukimura-kun has high academic ability, and so does Kouenji-kun — they’re at the top of the class.
 
-### y1v4 p.78–92 — Ch.3 §3.1: from the convenient plan to Ichinose
+### y1v4 p.78–92 — Ch.3 sec. 3.1: from the convenient plan to Ichinose
 [scene] (p.78) Storms off the Professor’s dialect bit, briefs the room hard, then swings through the Rabbit discussion — convenient plan first, Ichinose’s downside last.
 [says] (p.78) “Stop talking like that. It’s weird,” said Yukimura.
 [says] (p.78) “Whatever, I don’t care. Just talk normal.”
@@ -96,7 +96,7 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [rel:sotomura-hideo] (p.78) The dialect sparring partner; they walk into Rabbit together.
 [rel:ayanokouji-kiyotaka] (pp.78, 86) Hallway companion; one of the names Machida uses to teach the outcomes.
 
-### y1v4 p.96–97, p.107, p.112–115 — Ch.3 §3.2–§3.5: strategy talk and the Kouenji explosion
+### y1v4 p.96–97, p.107, p.112–115 — Ch.3 sec. 3.2–sec. 3.5: strategy talk and the Kouenji explosion
 [scene] (p.96) Eager to start the Class D strategy huddle after the first discussion; back for the second gathering and the cabin when Kouenji ends the Monkey group.
 [says] (p.97) “She’s always acting strangely,” he replied. (on Karuizawa; the straightforward answer Ayanokōji did not want)
 [says] (p.107) “I don’t think we need a breakthrough right now, but we do need a discussion. Class A might be breaking away from this test, but I think we need to pinpoint the VIP,” said Yukimura.
@@ -128,7 +128,7 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [scene] (p.126) Named as the group member Ayanokōji expects to be able to read.
 [note] (p.126) He should be able to find out whatever he needs about the Professor and Yukimura — the loss is Karuizawa alone.
 
-### y1v4 p.131–133 — Ch.4 §4.0: the roommate’s VIP probe
+### y1v4 p.131–133 — Ch.4 sec. 4.0: the roommate’s VIP probe
 [scene] (p.131) Alone in the room looking grave; he rants about the group-draw rumor, then runs the mutual VIP denial with Ayanokōji.
 [says] (p.131) “For crying out loud, why did we get stuck with this group? Why am I partnered with Karuizawa and Sotomura? We can’t win,” he mumbled.
 [says] (p.131) “Didn’t you hear? There’s a rumor going around saying that they use guidelines to create the groups. When I heard that all the superior students got grouped into the Dragon group, I knew it was true,” he answered.
@@ -147,7 +147,7 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.152) Ayanokōji states with certainty that neither he nor Yukimura is the VIP, and leaves the Yukimura-sourced clear of Karuizawa and the Professor unsaid.
 [note] (p.153) Convinced Yukimura isn’t the VIP either, the four cleared leave ten suspects remaining.
 
-### y1v4 p.155–165 — Ch.4 §4.2: the stairwell
+### y1v4 p.155–165 — Ch.4 sec. 4.2: the stairwell
 [scene] (p.155) Sits near Ayanokōji in the evening room, mutters the VIP worry, then follows the Class C trio into the emergency stairwell and breaks the corner with a shout.
 [says] (p.155) “This isn’t good.”
 [says] (p.155) “Yeah. If things continue like this, the VIP will get away.” (Yukimura, next to Ayanokōji)
@@ -171,7 +171,7 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y1v4 ch4 → p.204 -->
 
-### y1v4 p.205–224 — Ch.5 §5.0–5.2: the VIP steps forward
+### y1v4 p.205–224 — Ch.5 sec. 5.0–5.2: the VIP steps forward
 [scene] (p.205) Melancholy at the card table, the self-reliance rebuke, then under the email-show pressure he demands phones on the table and reveals himself as the Rabbit VIP — after Ayanokōji’s secret swap.
 [says] (p.205) “Is it okay to just sit here like this?” Yukimura sighed.
 [says] (p.206) “No thanks. I don’t really feel like it. Really, is this okay, Ichinose-san? I mean, just doing this until the test ends. I thought you were the one leading the group here.”
@@ -196,7 +196,7 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [status] (p.224) The VIP email on screen; Class D’s 500,000 given up in the room — but the phones were already exchanged in secret.
 [trait] (p.224) “If I’d known things would turn out like this, I would’ve talked from the start…” — the regret that makes the reveal human.
 
-### y1v4 p.225–228 — Ch.5 §5.2: the cover holds, then cracks
+### y1v4 p.225–228 — Ch.5 sec. 5.2: the cover holds, then cracks
 [scene] (p.225) Accepts the blame as the points-grabber, begs every class to trust Outcome #1, and rages when Ichinose’s call exposes the swap — “Too bad” from Machida is the last he hears before the room empties.
 [says] (p.225) “No, it’s okay. It’s probably for the best. I thought I could lie my way out of this, but I was wrong. I’m sure you, Sotomura, and Karuizawa would agree this was for the best,” said Yukimura.
 [rel:sotomura-hideo] (p.225) Named in the trio who all agree the reveal was for the best.
@@ -223,7 +223,7 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y1v5 → start -->
 
-### y1v5 p.39–53 — Ch.3 §3: Hands, votes and the roster
+### y1v5 p.39–53 — Ch.3 sec. 3: Hands, votes and the roster
 [scene] (p.43) Yukimura is named among the students who follow Sudou into Horikita’s camp, and he later handles the grip-strength device and makes the scavenger-hunt roster.
 [action] (p.43) Raises his hand with Sudou and Sakura for Horikita’s ability plan.
 [rel:hirata-yousuke] (p.49) Takes his turn at the grip-strength meter after Sudou’s 82.4.
@@ -232,7 +232,7 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y1v5 ch3 → p.53 -->
 
-### y1v5 p.98–101 — Ch.6 §6: seventh and seventh
+### y1v5 p.98–101 — Ch.6 sec. 6: seventh and seventh
 [scene] (p.98) Yukimura grumbles back to camp after a second straight seventh place, downtrodden before the hurdles and flag.
 [says] (p.98) “Seventh and seventh,” he grumbled.
 [rel:ayanokouji-kiyotaka] (p.98–99) Gets space rather than comfort, then a redirect to the written tests he still plans to ace.
@@ -240,7 +240,7 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [trait] (p.99) Wants Class A more than anyone, so the burden of a bad sports day sits heavier on him than on most.
 [action] (p.101) Brings up the rear of the capture-the-flag offense with Ike and Ayanokōji.
 
-### y1v5 p.132 — Ch.6 §6: cutting the leader
+### y1v5 p.132 — Ch.6 sec. 6: cutting the leader
 [scene] (p.132) Yukimura interjects while Sudou demands the class follow him after the cavalry loss.
 [says] (p.132) “Is that really the case?”
 [says] (p.132) “It seems like you just want to show off how amazing you are.”
@@ -275,7 +275,7 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.74) Yukimura does not appear in person on these pages.
 <!-- walk: y1v6 ch4 → p.75 -->
 
-### y1v6 p.87–103 — Ch.5 §5.3–5.5: the cavalry who tutors
+### y1v6 p.87–103 — Ch.5 sec. 5.3–5.5: the cavalry who tutors
 [scene] (p.87) Inserts himself into the Horikita–Hirata–Ayanokōji talk and offers to tutor Miyake and Hasebe.
 [says:yukimura-teruhiko] (p.87) “In that case, I’ll take care of tutoring them,”
 [says:yukimura-teruhiko] (p.87) “If I don’t help out where I can, we won’t be able to pass the test,”
@@ -327,7 +327,7 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.104–105) No dialogue from Yukimura on these pages; present only in the dorm-call analysis.
 <!-- walk: y1v6 ch5 → p.131 -->
 
-### y1v6 p.132–134 — Ch.6 §6.0: teaching method under fire
+### y1v6 p.132–134 — Ch.6 sec. 6.0: teaching method under fire
 [scene] (p.132) Fifth session at the Keyaki Mall café; he is overwhelmed by the crowd and wishes they had met in the library or his room.
 [says:yukimura-teruhiko] (p.133) “How can you be so terrified before you even start?”
 [says:yukimura-teruhiko] (p.133) “Of course not.”
@@ -341,7 +341,7 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [rel:horikita-suzune] (p.133–134) Teaching methods compared in narration: fixed time (Horikita) versus until-finished (Yukimura).
 [rel:ike-kanji] (p.133) Method would bust on lazy students like Ike — they would answer without thinking to escape early.
 
-### y1v6 p.156–158 — Ch.6 §6.4: conditional yes to the movie
+### y1v6 p.156–158 — Ch.6 sec. 6.4: conditional yes to the movie
 [scene] (p.156) Accepts the group-chat movie once Akito agrees; also noted on Horikita’s prep call as the co-tutor Ayanokōji will consult.
 [says:yukimura-teruhiko] (p.156) “I suppose that taking a break is a good idea. When you say “you all,” I assume I’m invited?”
 [says:yukimura-teruhiko] (p.156) “All right. If Akito goes, I’ll come as well,”

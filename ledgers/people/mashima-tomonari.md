@@ -6,7 +6,7 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 
 <!-- walk: y1v3 → start -->
 
-### y1v3 p.24–29 — Ch.2 §2.1: the announcement that erases the vacation
+### y1v3 p.24–29 — Ch.2 sec. 2.1: the announcement that erases the vacation
 [scene] (p.24) A prepared white platform on the beach; uniformed adults setting up a tent and computers behind him.
 [role:teacher] (p.24) Introduced as Class A's homeroom teacher, English, "well-known for having a stubborn disposition," built like a wrestler but "actually quite intelligent" — and he opens grim: "it’s unfortunate that one of you was unable to participate due to illness."
 [says] (p.25) “Well then. We shall commence the current academic year’s first special test.”
@@ -37,7 +37,7 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 
 <!-- walk: y1v4 → start -->
 
-### y1v4 p.32–36 — Ch.2 §2.3: the zodiac briefing
+### y1v4 p.32–36 — Ch.2 sec. 2.3: the zodiac briefing
 [scene] (p.32) Briefs the four Class D students in Room 204: zodiac groups, thinking tested four ways.
 [says] (p.33) “What are you doing? Hurry and take a seat.”
 [says] (p.33) “We are still waiting on one more. Please sit quietly.”
@@ -54,7 +54,7 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 [rel:chabashira-sae] (p.34) The comparison the narrator draws between the two homeroom instructors.
 [rel:karuizawa-kei] (pp.34–35) Warns her twice before shutting her questions down.
 
-### y1v4 p.37–49 — Ch.2 §2.3: the handout and the four outcomes
+### y1v4 p.37–49 — Ch.2 sec. 2.3: the handout and the four outcomes
 [scene] (p.37) Carries the briefing to its end: cross-class groups, the printed roster, the VIP handout, Werewolf, and the meeting logistics.
 [says] (p.37) “Listen. Your group assignments are a done deal. You cannot change them. To gain a good result on the test, you must get along.”
 [says] (p.37) “Finished? Please let me continue my explanation.”
@@ -92,7 +92,7 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 [back] (p.67) “Mashima-sensei had said something to the same effect. The VIP had been chosen based on certain considerations. There was something about the chosen that set them apart.” — Ayanokōji folds Mashima’s words into the email’s “After thorough consideration.”
 [rel:ayanokouji-kiyotaka] (p.67) His reading of the VIP rule still runs on her briefing.
 
-### y1v4 p.121–123 — Ch.3 §3.6: the teachers’ sofa
+### y1v4 p.121–123 — Ch.3 sec. 3.6: the teachers’ sofa
 [scene] (p.121) One of three homeroom instructors on the first-level sofa — Chabashira with a cocktail, Hoshinomiya with whiskey, Mashima beside them — while Ayanokouji hides and listens.
 [note] (p.121) The opening lines of the table are untagged in the translation: “You know, it’s been a long time since the three of us all got together.” / “It is what it is. Fate. After bouncing around from one thing to the next, we all chose the teacher’s life.” / “Enough. There’s no point talking about that.” / the Mashima playboy needle / “Chie, what happened to the man you were with?” — only Hoshinomiya’s break-up line and Mashima’s “Relax. I’m not worried about that.” are safely assigned by address or tag; the volume attribution list keeps the rest.
 [says] (p.121) “Ah ha ha! We broke up two weeks ago. I’m the type of girl who breaks it off once the relationship starts getting serious. It’s just like, see ya later!” Hoshinomiya-sensei said. (her own tagged line; kept here because the table is the scene)
@@ -119,3 +119,7 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 [note] (p.76) Chapter ends at the group report mention; no further pages this chapter.
 
 <!-- walk: y1v8 ch2 → p.76 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->

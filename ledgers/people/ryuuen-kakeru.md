@@ -7,12 +7,12 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y1v2 → start -->
 
-### y1v2 p.241 — Ch.7 §7.4: named before he is seen
+### y1v2 p.241 — Ch.7 sec. 7.4: named before he is seen
 [note] (p.241) The volume names him for the first time in Ichinose’s warning: "Someone named Ryuuen-kun masterminded that one." — the earlier Class B–Class C dispute, and the Sudou setup behind this case.
 [trait] (p.241) As Ichinose describes him: "He doesn’t hesitate to hurt other people for the sake of his own interests. He’s a formidable opponent."
 [limit] (p.241) She adds that he "hasn’t seen any reason to reveal himself just yet," which is why Ayanokōji does not know the name.
 
-### y1v2 p.254–255 — Ch.7 §7.6: the boy in the corridor
+### y1v2 p.254–255 — Ch.7 sec. 7.6: the boy in the corridor
 [scene] (p.254) He stops in front of Ayanokōji and Horikita in the corridor — black hair worn long, about Ayanokōji’s height, a wide grin the page calls ominous, never fully turning to face them. The scene does not name him.
 [says] (p.254) "Setting up a camera? You really did something funny, huh?"
 [says] (p.254) "Next time, I’ll be your opponent. I look forward to it."
@@ -25,7 +25,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y1v3 → start -->
 
-### y1v3 p.109–115 — Ch.3 §3.2: the beach at zero
+### y1v3 p.109–115 — Ch.3 sec. 3.2: the beach at zero
 [scene] (p.109) Holds court on the Class C beach in swimwear — tanned, laid back in his chair, flashing white teeth.
 [says] (p.111) “Just as you see. We're enjoying our summer vacation.”
 [says] (p.111) “Hmm. Well, I didn't make a precise calculation,”
@@ -47,7 +47,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y1v3 ch3 → p.130 -->
 
-### y1v3 p.221–224 — Ch.6 §6.9: collecting the card
+### y1v3 p.221–224 — Ch.6 sec. 6.9: collecting the card
 [scene] (p.221) Answers Ibuki’s flashlight signal in the wet woods to collect what his operation stole.
 [rel:ibuki-mio] (p.221) His spy since the test began — she reports to him over the transceiver and hands the card over.
 [says] (p.221) “Yo. Excellent work, Ibuki. You did well.”
@@ -106,7 +106,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y1v4 → start -->
 
-### y1v4 p.57–60 — Ch.2 §2.5: the walk-through provocation
+### y1v4 p.57–60 — Ch.2 sec. 2.5: the walk-through provocation
 [scene] (p.57) Arrives uninvited at the gathering with three terrified lackeys, sizes up the pond, and picks a fight with Katsuragi.
 [says] (p.57) “Well, well. So many fish in this pond. I’ve come to take a look for myself.”
 [says] (p.58) “Unfortunately, it looks like I’m with you.” (to Katsuragi’s question whether he belongs to the meeting)
@@ -126,7 +126,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [note] (p.65) The group read: Horikita’s inclusion isn’t necessarily advantageous — she and Ryuuen are especially incompatible, like fire and water.
 [note] (p.67) Asked who he’s most wary of, Ayanokōji answers Ryuuen, by a mile — after naming Katsuragi the most excellent.
 
-### y1v4 p.68–75 — Ch.3 §3.0: the café provocation
+### y1v4 p.68–75 — Ch.3 sec. 3.0: the café provocation
 [scene] (p.68) Walks into Blue Ocean with Ibuki mid-Horikita-briefing, straddles a vacant seat, and spends the coffee working the island result until he leaves with his lackey.
 [says] (p.68) “Nice weather, eh Suzune? You having breakfast with this clingy beta male?”
 [says] (p.68) “You should have received the message already. What were the results? Were you chosen as the VIP?”
@@ -172,7 +172,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y1v4 ch3 → p.124 -->
 
-### y1v4 p.128–131 — Ch.4 §4.0: the shade meeting and the planted phone
+### y1v4 p.128–131 — Ch.4 sec. 4.0: the shade meeting and the planted phone
 [scene] (p.128) He drops into Horikita and Ayanokōji’s shade conversation, claims Class C can win by rule-logic, and leaves a silent recording phone under his own chair.
 [says] (p.128) “Hey, you two. Having yourselves a nice date in the shade? Let me in on the fun.”
 [says] (p.128) “That’s for me to decide. Well then, have you decided how to find the VIP?” he asked.
@@ -215,13 +215,13 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y1v4 ch4 → p.204 -->
 
-### y1v4 p.205 — Ch.5 §5.0: the frontal assault still running
+### y1v4 p.205 — Ch.5 sec. 5.0: the frontal assault still running
 [scene] (p.205) Named in the final-day opening as the unchanged half of the stalemate — united frontal assault against Katsuragi’s fortress.
 [rel:katsuragi-kouhei] (p.205) The two strategies Ichinose has not answered; the chapter opens between them.
 [rel:horikita-suzune] (p.207) Still the fear she won’t detail under listener risk at the 5.1 meet.
 [note] (p.205) No scene presence in this half; the row records the opening status line.
 
-### y1v4 p.237–243 — Ch.5 §5.3: the sixth guest
+### y1v4 p.237–243 — Ch.5 sec. 5.3: the sixth guest
 [scene] (p.237) Invited as the deliberate sixth seat, slams a chair beside Horikita, names Kushida as Dragon VIP from her body language, shows the Class A VIP list, claims the four-email timing, and declares Horikita his next target.
 [rel:horikita-suzune] (pp.237-241) The whole set piece is aimed at her — teasing, the reveal, “you’re my next target… tear you to shreds, both in mind and body.”
 [says] (p.238) “I thought I’d enjoy finding out the results with you all. Thanks so much for gathering in such an easy-to-find place,” he said mockingly.
@@ -293,7 +293,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y1v5 → start -->
 
-### y1v5 p.27–28 — Ch.2 §2.2: the walkout
+### y1v5 p.27–28 — Ch.2 sec. 2.2: the walkout
 [scene] (p.27) When Ichinose asks why Class C won’t discuss strategy, he turns with his hands in his pockets and leads the whole class out of the gym.
 [says] (p.27) “It’s a waste of time,”
 [says] (p.27) “You should be grateful.”
@@ -306,7 +306,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y1v5 ch2 → p.38 -->
 
-### y1v5 p.54–67 — Ch.4 §4: The reconnaissance that isn’t
+### y1v5 p.54–67 — Ch.4 sec. 4: The reconnaissance that isn’t
 [scene] (p.54) Ayanokōji and Horikita discuss Ryuuen at the edge of the first practice: not one Class C student is watching D.
 [rel:horikita-suzune] (p.54–55) She reads the silence as a strategy already in place — “Reconnaissance isn’t necessary for him.”
 [rel:ayanokouji-kiyotaka] (p.55) The tell is that he isn’t hiding it: making the absence of reconnaissance obvious is itself the display.
@@ -314,7 +314,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y1v5 ch4 → p.67 -->
 
-### y1v5 p.68–85 — Ch.5 §5: Named in the cruise-ship theory
+### y1v5 p.68–85 — Ch.5 sec. 5: Named in the cruise-ship theory
 [scene] (p.69–70) Ryuuen is the first name in Ayanokōji’s theory about how the VIP identity leaked.
 [rel:horikita-suzune] (p.70) Horikita’s own dead end: “I assume Ryuuen-kun was involved somehow,”
 [rel:kushida-kikyou] (p.80) Horikita puts the direct question to Kushida — did she tell Ryuuen or Katsuragi she was the VIP?
@@ -322,7 +322,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y1v5 ch5 → p.85 -->
 
-### y1v5 p.100–110 — Ch.6 §6: foul play and the forfeit
+### y1v5 p.100–110 — Ch.6 sec. 6: foul play and the forfeit
 [scene] (p.100) Ryuuen leads Class C into the boys’ capture the flag against the D/A coalition, laughing from the rear like a general.
 [action] (p.103) Stomps Sudou’s back as he guards the flag — a low blow the referee culture will call heat-of-the-moment.
 [says] (p.104) “Oh, I didn’t notice you,” replied Ryuuen. He picked up the flag without any hesitation.
@@ -335,7 +335,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:katsuragi-kouhei] (p.109–110) Is read by Katsuragi as wasting their energy and trying to provoke a foul; he turns his back when provocation yields nothing.
 [trait] (p.103–110) Violence and psychological games are interchangeable tools; even a lost round is a chance to tilt the opponents.
 
-### y1v5 p.120–136 — Ch.6 §6: the cavalry crown and the bait
+### y1v5 p.120–136 — Ch.6 sec. 6: the cavalry crown and the bait
 [scene] (p.120) Ryuuen’s Class C horsemen ignore Class A and take Horikita alone in the girls’ cavalry — the crush plan made visible.
 [action] (p.120–123) Orders the four-on-one; Class C wipes the remaining A/D units after her headband falls.
 [rel:horikita-suzune] (p.120–123, 130) Sole target; Ayanokōji reads it as humiliation for its own sake, not points.
@@ -348,7 +348,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:sudou-ken] (p.125–129) Studies him, offers the kneel, then wins when Hirata’s grip fails on the treated cloth.
 [says] (p.129) “I don’t know what you’re talking about.”
 [says] (p.129) “If there’s anything on my headband, it’s probably just hair gel. Don’t be a sore loser,”
-[action] (p.135, §6.9) Approaches the tent to ask after Sudou while knowing exactly what happened; takes first in the 200-metre dash.
+[action] (p.135, sec. 6.9) Approaches the tent to ask after Sudou while knowing exactly what happened; takes first in the 200-metre dash.
 [says] (p.135) “Hirata, what happened to Sudou? He taking a dump?”
 [says] (p.135) “Heh. I really don’t think lying suits you,”
 [rel:hirata-yousuke] (p.135–136) Is told the leak is known; answers that the class gap fills D with despair and looks forward to Hirata’s “something interesting.”
@@ -358,14 +358,14 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y1v5 ch6 → p.143 -->
 
-### y1v5 p.148–149 — Ch.7 §7.1: arrives at the infirmary
+### y1v5 p.148–149 — Ch.7 sec. 7.1: arrives at the infirmary
 [scene] (p.148) Ryuuen struts into the hallway and then the infirmary to inspect Kinoshita’s leg.
 [says:ryuuen-kakeru] (p.148) “Looks like things have gotten really serious.”
 [says:ryuuen-kakeru] (p.149) “I rushed over after Kinoshita asked for me. To think someone did this on purpose…”
 [says:ryuuen-kakeru] (p.149) “Hey, Kinoshita. You all right? Looks like you’ve had a rough time,”
 [says:ryuuen-kakeru] (p.149) “Whoa, this looks bad. I’m impressed you’ve held up, considering all you’re dealing with.”
 
-### y1v5 p.151–153 — Ch.7 §7.1: builds the case, demands a million points
+### y1v5 p.151–153 — Ch.7 sec. 7.1: builds the case, demands a million points
 [scene] (p.151) Ryuuen turns the collision into intent, then offers to withdraw the complaint for a million points.
 [says:ryuuen-kakeru] (p.151) “Don’t blame yourself, Kinoshita. I know you wanted to participate in the three-legged race,”
 [says:ryuuen-kakeru] (p.151) “You really did this on purpose, didn’t you?”
@@ -378,7 +378,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [says:ryuuen-kakeru] (p.153) “Then go ahead and prove that, Suzune. Lay it all out in black and white for us.”
 [says:ryuuen-kakeru] (p.153) “We can prove that we aren’t lying. Let’s hurry up and have the student council president render his judgment,”
 
-### y1v5 p.154–156 — Ch.7 §7.1: the kneeling condition and the deadline
+### y1v5 p.154–156 — Ch.7 sec. 7.1: the kneeling condition and the deadline
 [scene] (p.154) Ryuuen refuses Kushida’s points, orders the report upward, then adds a kneeling demand after Horikita agrees to pay.
 [says:ryuuen-kakeru] (p.154) “Oh, that’s quaint. Sorry—using your points is a no-go.”
 [says:ryuuen-kakeru] (p.154) “Very well. Kinoshita, we’re going to report this to the teachers, then to the student council.”
@@ -392,7 +392,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y1v5 ch7 → p.159 -->
 
-### y1v5 p.161 — Ch.8 §8: checks on Sudou’s absence
+### y1v5 p.161 — Ch.8 sec. 8: checks on Sudou’s absence
 [scene] (p.161) Ryuuen needles Ayanokouji about Sudou and Horikita both being missing before the scavenger hunt.
 [says:ryuuen-kakeru] (p.161) “So, that muscle-headed moron won’t be participating in the scavenger hunt, huh? I thought he’d take part for sure. Suzune’s not here, either. They couldn’t be doing each other backstage, right?”
 [says:ryuuen-kakeru] (p.161) “What a shitty answer.”
@@ -401,11 +401,11 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y1v5 ch8 → p.180 -->
 
-### y1v5 p.182–183 — Ch.9 §9: watches the relay plan
+### y1v5 p.182–183 — Ch.9 sec. 9: watches the relay plan
 [scene] (p.182) Named in Hirata’s talk as the rival Ryuuen must not beat them again.
 [rel:hira-ta] (p.183) Hirata’s line about hating to lose to Ryuuen again — recorded under Hirata’s row.
 
-### y1v5 p.195–201 — Ch.9 §9.3: the full confession and the counter-recording
+### y1v5 p.195–201 — Ch.9 sec. 9.3: the full confession and the counter-recording
 [scene] (p.195) Ryuuen receives Horikita at the appointment, praises her for not running, then lays out the whole festival plot — until a recording of his own trap plan arrives.
 [says:ryuuen-kakeru] (p.195) “So, you didn’t run away, Suzune. You came,”
 [says:ryuuen-kakeru] (p.195) “You’ve got a good heart. You’ve become a finer woman than before,”
@@ -468,7 +468,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y1v6 → start -->
 
-### y1v6 p.22–24 — Ch.2 §2.1: named as the shared enemy
+### y1v6 p.22–24 — Ch.2 sec. 2.1: named as the shared enemy
 [scene] (p.22) Katsuragi’s corridor warning makes him the subject: blackmail, violence, and a past team-up.
 [says:katsuragi-kouhei] (p.22) “He’ll do anything for the sake of winning. Even if that means resorting to blackmail or violence.”
 [rel:katsuragi-kouhei] (p.23) Katsuragi regrets having gotten involved with him and says Ryuuen is everyone’s enemy; Ayanokouji recalls the team-up rumor.
@@ -489,7 +489,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y1v6 ch3 → p.59 -->
 
-### y1v6 p.60–70 — Ch.4 §4: dictator’s spy theatre
+### y1v6 p.60–70 — Ch.4 sec. 4: dictator’s spy theatre
 [scene] (p.60) Class C assembled under intimidation; Ryuuen at the podium with Yamada and martial-arts enforcers beside him.
 [says:ryuuen-kakeru] (p.60) “There’ve been many unnatural goings-on, wouldn’t you say?”
 [says:ryuuen-kakeru] (p.60) “First there was that test on the uninhabited island, and then the sports festival. Someone lurking in Class D knows how to think like me.”
@@ -541,7 +541,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [says:ryuuen-kakeru] (p.70) “I’ll welcome the traitor’s confession even now. However, this is your last chance. If you step forward and honestly admit what you’ve done, I promise to forgive and forget. I also swear that I won’t let your classmates harass you. As I said from the very start, if you believe in me, I’ll raise us all to Class A. As long as you follow me, I will protect you.”
 [says:ryuuen-kakeru] (p.70) “Do you understand what it means to make me angry?”
 
-### y1v6 p.71–74 — Ch.4 §4.2: Manabe unmasked, spies debriefed
+### y1v6 p.71–74 — Ch.4 sec. 4.2: Manabe unmasked, spies debriefed
 [scene] (p.71) Stops in front of Manabe, names her as the traitor, and caresses her face after brushing aside her hair.
 [says:ryuuen-kakeru] (p.71) “Heh. It’s you, isn’t it, Manabe? You’re the traitor.”
 [says:ryuuen-kakeru] (p.71) “Don’t be afraid, Manabe. Although you didn’t come forward and tell me, I knew you were the spy from the very beginning. You’ve looked sick, like it was written on your face. There was no way you could hide.”
@@ -589,7 +589,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [note] (p.106) The email body is one line of dialogue from Ryuuen; no scene presence on these pages.
 <!-- walk: y1v6 ch5 → p.131 -->
 
-### y1v6 p.136–138 — Ch.6 §6.1: the café crash and the “gift”
+### y1v6 p.136–138 — Ch.6 sec. 6.1: the café crash and the “gift”
 [scene] (p.136) Ryuuen arrives at the study-group table with Ishizaki, Komiya, Kondou and a calm new girl; Hasebe’s dropped cup rolls to his feet and he crushes it.
 [says:ryuuen-kakeru] (p.136) “My, you seem to be enjoying yourselves. Mind if we join?”
 [says:ryuuen-kakeru] (p.136) “It rolled up to my feet, so I thought you were throwing it away. I stomped it to save you the trouble,”
@@ -613,7 +613,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:kouenji-rokusuke] (p.137) Hiyori will remember only Kouenji; Ryuuen treats him as a talent to watch.
 [rel:hirata-yousuke] (p.137) Named as the fourth face from the earlier group.
 
-### y1v6 p.170–174 — Ch.6 §6.7: the signed letter and the lobby confrontation
+### y1v6 p.170–174 — Ch.6 sec. 6.7: the signed letter and the lobby confrontation
 [scene] (p.170) Enters the dorm lobby to the crowd his signed letter created; faces a Class B student and then Ichinose.
 [says:ryuuen-kakeru] (p.170) “Hmm? What in the world are you talking about?”
 [says:ryuuen-kakeru] (p.170) “Oh, that. Pretty interesting stuff, huh?” said Ryuuen.
@@ -637,7 +637,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y1v6 ch6 → p.176 -->
 
-### y1v6 p.177–185 — Ch.7 §7.0: the shadow submission and the mockery
+### y1v6 p.177–185 — Ch.7 sec. 7.0: the shadow submission and the mockery
 [scene] (p.178) Waits in the hallway with his own manila envelope; walks with Horikita and Ayanokōji to the staff room and watches the handover.
 [says:ryuuen-kakeru] (p.178) “Yo, Suzune.”
 [says:ryuuen-kakeru] (p.178) “It’s inevitable. I was waiting for you.”
@@ -658,7 +658,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:sakagami-sensei] (p.179) First to take Ryuuen’s manila envelope.
 [note] (p.184) Horikita’s counter means Class C students who trusted the fake acceptance may fail — Ryuuen is completely unaware of the damage.
 
-### y1v6 p.200–208 — Ch.7 §7.4–7.5: the photo threat and the rooftop recount
+### y1v6 p.200–208 — Ch.7 sec. 7.4–7.5: the photo threat and the rooftop recount
 [scene] (p.200) Sends Ayanokouji the photograph and a pay-up message; then holds the rooftop summit with Kushida after the exam day.
 [says:ryuuen-kakeru] (p.202) “You’re late, Kikyou. What, couldn’t slip past your classmates?”
 [says:ryuuen-kakeru] (p.202) “Huh?”
@@ -857,7 +857,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y1v7 ch4 → p.119 -->
 
-### y1v7 p.120–134 — Ch.5 §5.1–5.2: the strike on the rooftop
+### y1v7 p.120–134 — Ch.5 sec. 5.1–5.2: the strike on the rooftop
 [scene] (p.120) Closing ceremony ends; he takes out his phone and finally moves against Karuizawa to draw out X.
 [says] (p.120) “I eliminated everyone I can, but that still leaves about ten possible candidates”
 [says] (p.120) “Well, I guess this just means I get to have some more fun.”

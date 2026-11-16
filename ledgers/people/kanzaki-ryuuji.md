@@ -7,7 +7,7 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 
 <!-- walk: y1v2 → start -->
 
-### y1v2 p.214–215 — Ch.6 §6.2: the one who wanted the compromise
+### y1v2 p.214–215 — Ch.6 sec. 6.2: the one who wanted the compromise
 [scene] (p.214) The entranceway after the hearing; he has been waiting with Ichinose for the result.
 [note] (p.214) He is present as Ichinose's second rather than as a party to the case.
 [note] (p.214) The narrator records his position first through disagreement: "Kanzaki in particular insisted that we’d made the wrong choice."
@@ -18,7 +18,7 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [says] (p.215) "We’re in too deep now. Besides, it’s like we said before. We can’t forgive liars."
 [trait] (p.215) He loses the argument and then works the losing side anyway; the narrator's verdict is "These were really good people."
 
-### y1v2 p.216–217 — Ch.6 §6.2: what the request costs
+### y1v2 p.216–217 — Ch.6 sec. 6.2: what the request costs
 [note] (p.216) Horikita's request leaves him silent: "Kanzaki fell silent and appeared deep in thought."
 [says] (p.217) "It might be contrary to your ethics and morals, Ichinose."
 [says] (p.217) "Yeah. That’s what I thought as well. It’s something that never should have been done."
@@ -33,7 +33,7 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 
 <!-- walk: y1v2 ch6 → p.219 -->
 
-### y1v2 p.234 — Ch.7 §7.3: he installs the fake cameras
+### y1v2 p.234 — Ch.7 sec. 7.3: he installs the fake cameras
 [action] (p.234) He and Ichinose bought the cameras, and with the Professor installed them during the lunch break.
 [rel:ichinose-honami] (p.234) The Class B operation is theirs together: she applies the pressure in the corridor, he handles the hardware.
 
@@ -52,7 +52,7 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [says] (p.103) “There are large broken trees along the path from here to the beach. If you enter the forest to the southwest and walk a bit, you can find our campsite. You shouldn't get lost if you enter by those large trees. If you need something, go ahead and tell her you can come by.”
 [note] (p.103) The invitation names no one — the her is read across as Ichinose from the false-accusation case, an inference on Ayanokōji's side.
 
-### y1v3 p.117, p.120 — Ch.3 §3.3: at his own camp while Class D visits
+### y1v3 p.117, p.120 — Ch.3 sec. 3.3: at his own camp while Class D visits
 [scene] (p.117) Sitting a little way off from Ichinose when Class D walks into the Class B camp.
 [note] (p.117) He says nothing during the visit; the pages place him in the background of the scene.
 [note] (p.120) Ayanokōji credits him with having deduced Class D's spending from what he saw at the river that morning.
@@ -60,7 +60,7 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 
 <!-- walk: y1v3 ch3 → p.130 -->
 
-### y1v3 p.149–151 — Ch.5 §5.1: the ghost camp with Ichinose
+### y1v3 p.149–151 — Ch.5 sec. 5.1: the ghost camp with Ichinose
 [scene] (p.149) Arrives with Ichinose at the emptied Class C camp to read the same ghost town.
 [rel:ayanokouji-kiyotaka] (p.149–151) Part of the pair that answers his Class A question with the account that Sakayanagi and Katsuragi quarrel and would see no merit in a rift.
 [note] (p.149–150) The answer to his Class A question, the Class C points block and the strategy verdicts run untagged between the three; left with the chapter’s gaps.
@@ -74,7 +74,7 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 
 <!-- walk: y1v4 → start -->
 
-### y1v4 p.56–57 — Ch.2 §2.5: the Class B interlude
+### y1v4 p.56–57 — Ch.2 sec. 2.5: the Class B interlude
 [scene] (p.56) Walks quietly past Katsuragi’s entourage to pull the heat off Horikita, then greets Hirata’s arrival.
 [says] (p.56) “I don’t much like ganging up on people, or threatening other classes.”
 [says] (p.56) “You don’t need to waste time on Katsuragi. He’s just trying to get to you.” (to Horikita, gentlemanly despite not being on good terms with her)
@@ -99,7 +99,7 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 
 <!-- walk: y1v4 ch3 → p.124 -->
 
-### y1v4 p.143–150 — Ch.4 §4.1: the Dragon deadlock
+### y1v4 p.143–150 — Ch.4 sec. 4.1: the Dragon deadlock
 [scene] (p.143) Still inside the Dragon room with Horikita and Ryuuen when Ichinose and Ayanokōji are waved in; the three-way holds until Ryuuen leaves.
 [rel:ichinose-honami] (p.140) Named as the one who should have taken his seat in the group — Ryuuen’s jab that she ended up elsewhere instead.
 [trait] (p.140) “Kanzaki-kun isn’t the type to take the spotlight” — Ichinose’s read of why Class A’s refusal doesn’t land on him.
@@ -115,7 +115,7 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 
 <!-- walk: y1v4 ch4 → p.204 -->
 
-### y1v4 p.207 — Ch.5 §5.1: named in the VIP arithmetic
+### y1v4 p.207 — Ch.5 sec. 5.1: named in the VIP arithmetic
 [scene] (p.207) Named only as one of the Dragon group who surely worked to learn the VIP — Horikita’s win still surprises Ayanokōji.
 [rel:ryuuen-kakeru] (p.207) The pair he expects to have exhausted every angle on Kushida’s screen.
 [rel:kushida-kikyou] (p.207) The Dragon VIP both sides were hunting — Hirata’s tip already gave Ayanokōji the answer.
@@ -155,7 +155,7 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 
 <!-- walk: y1v5 → start -->
 
-### y1v5 p.88–98 — Ch.6 §6: the chats at the line
+### y1v5 p.88–98 — Ch.6 sec. 6: the chats at the line
 [scene] (p.88) Kanzaki wins the third group of the 100-metre dash ahead of Katsuragi, then meets Ayanokōji again in the hurdles.
 [action] (p.88) Takes first place; Katsuragi is third — Class B’s runner outclasses Class A’s wall in pure speed.
 [says] (p.98) “We meet again,” said Kanzaki.
@@ -166,7 +166,7 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [note] (p.98) He follows with “It’s scary.” — a two-word reply kept as note, not a quote row.
 [rel:ayanokouji-kiyotaka] (p.98) Weighs him as a strategist who would not waste effort holding back, and finishes ahead of him in the heat.
 
-### y1v5 p.124–125 — Ch.6 §6: cavalry horse under a Class B general
+### y1v5 p.124–125 — Ch.6 sec. 6: cavalry horse under a Class B general
 [scene] (p.124) Kanzaki rides in the Class B general’s cavalry unit against the merged D/A mass in the boys’ match.
 [action] (p.125) That unit is taken down by Katsuragi and other Class A students after three of their own fall.
 [rel:shibata-sou] (p.124–125) Rides with Shibata under the same Class B general — one of the two units the coalition must clear before Ryuuen.
@@ -339,3 +339,7 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [rel:ichinose-honami] (p.178) Poses the question on behalf of Class B.
 
 <!-- walk: y1v9 Epilogue → p.200 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->

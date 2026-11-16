@@ -8,7 +8,7 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 
 <!-- walk: y1v6 → start -->
 
-### y1v6 p.136–142 — Ch.6 §6.1: the calm girl in Ryuuen’s party
+### y1v6 p.136–142 — Ch.6 sec. 6.1: the calm girl in Ryuuen’s party
 [scene] (p.136) Stands beside Ishizaki in Ryuuen’s café party, “extremely calm,” and is addressed as Hiyori by Ryuuen.
 [says:shiina-hiyori] (p.137) “I can’t say anything at this stage,”
 [says:shiina-hiyori] (p.137) “Both their faces are weak. I’ll probably forget them immediately,”
@@ -85,7 +85,7 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 
 <!-- walk: y1v7 ch3 → p.97 -->
 
-### y1v7 p.121–122 — Ch.5 §5.1: the library good-bye
+### y1v7 p.121–122 — Ch.5 sec. 5.1: the library good-bye
 [scene] (p.121) Sits beside Ryuuen as Class C grows restless on the closing-ceremony day.
 [says:ryuuen-kakeru] (p.121) “What?”
 [says] (p.121) “Everyone seems really restless today, don’t they?”

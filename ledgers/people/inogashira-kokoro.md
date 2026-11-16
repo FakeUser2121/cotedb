@@ -25,7 +25,7 @@ char_id: inogashira-kokoro · class: Class 1-D · status: minor
 
 <!-- walk: y1v5 → start -->
 
-### y1v5 p.54–67 — Ch.4 §4: The slowest pair
+### y1v5 p.54–67 — Ch.4 sec. 4: The slowest pair
 [scene] (p.62) Inogashira runs the three-legged race with Sakura — the worst of the five girl pairs, “slow as molasses.”
 [rel:sakura-airi] (p.62) Their third-place-last finish is what prompts Horikita and Onodera to try the race again.
 

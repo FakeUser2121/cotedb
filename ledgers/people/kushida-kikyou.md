@@ -226,13 +226,13 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y1v2 → start -->
 
-### y1v2 p.19 — Ch.2 §2.2: the social ceiling, narrated
+### y1v2 p.19 — Ch.2 sec. 2.2: the social ceiling, narrated
 [back] (p.19) AK's snapshot of her position: "She’s extremely popular and has many friends, both girls and boys. She gets in-person invitations, along with constant invites over the phone and through email... when she eats with friends she appears to have a real life."
 
-### y1v2 p.24 — Ch.2 §2.3: group-chat wistfulness
+### y1v2 p.24 — Ch.2 sec. 2.3: group-chat wistfulness
 [scene] (p.24) Kushida was the one who doubted Horikita would ever join the class group chat after the midterm invite ("Kushida had doubted whether Horikita would actually participate, since she hated talking with others.").
 
-### y1v2 p.27–38 — Ch.2 §2.4: Sudou's crisis conference — angel mode with an icy seam
+### y1v2 p.27–38 — Ch.2 sec. 2.4: Sudou's crisis conference — angel mode with an icy seam
 [scene] (p.28) Knocks during AK's kettle moment; "Kushida, the Madonna of Class D, poked her head through the entrance. She looked as cute as ever."
 [says] (p.28) "Oh, Sudou-kun’s already here,"
 [says] (p.28) "Yeah, I do. That’s so we can meet up here… Wait, did you not know about that, Ayanokouji-kun?" (she also holds a duplicate key to his room — assumed he'd consented)
@@ -284,11 +284,11 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:hirata-yousuke] (p.43) He backs her appeal publicly; AK credits the pair of them plus Karuizawa with converting the class, which is the closest the volume comes to the two leaders acting together.
 [rel:karuizawa-kei] (p.43) AK's paired mechanism, stated in the same breath: "If Kushida lived by the softness of her heart, then Karuizawa lived by the strength of her will."
 
-### y1v2 p.44, p.47 — Ch.3 §3.1: keeping Ayanokōji inside the group
+### y1v2 p.44, p.47 — Ch.3 sec. 3.1: keeping Ayanokōji inside the group
 [scene] (p.44) She assembles the lunch table — AK, Horikita, Ike, Yamauchi, Sudou — by asking him directly: "When lunchtime came, Kushida had invited me with a smile. She’d said, 'Want to get lunch?' I’d said okay, of course. I mean, I didn’t have any choice in the matter."
 [scene] (p.47) She leaves the table early to work her own network: “Ah, sorry. I have to go for a bit. I’m going to try asking my upperclassmen friends if they saw anything.”
 
-### y1v2 p.54–63 — Ch.3 §3.2–3.3: Horikita, the lesson, and Class B
+### y1v2 p.54–63 — Ch.3 sec. 3.2–3.3: Horikita, the lesson, and Class B
 [says] (p.54) “Are you really heading back? Horikita-san?”
 [says] (p.54) “You will…help us out, won’t you?” (stopping AK from slipping out; AK: "I couldn’t refuse. Slightly upturned eyes + pleading = lethal.")
 [says] (p.55) “I want to get Horikita-san to help us out this time. Can you try asking her again?”
@@ -313,7 +313,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y1v2 ch3 → p.65 -->
 
-### y1v2 p.66–82 — Ch.4 §4.0–4.1: she runs the search, and is the only one who can name Sakura's seat
+### y1v2 p.66–82 — Ch.4 sec. 4.0–4.1: she runs the search, and is the only one who can name Sakura's seat
 [says] (p.66) "As long as we can find a witness, it’s not impossible. Let’s keep trying our best, Ike-kun." — the pep line she gives the boy who has just declared the case hopeless.
 [feat] (p.74) Her method of remembering is exact: "It’s certainly true that Sudou-kun didn’t say he saw anyone. He said that he had a feeling that someone was there." — she corrects the class's summary of a claim three days old.
 [says] (p.75) She re-engineers the search from the witness to the witness's surroundings: "We might want to change our methods a little. For example, let’s look for someone who might have found a witness." — AK's judgement: "That wasn’t a bad idea."
@@ -325,7 +325,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [says] (p.82) She reads the room's failure before it happens and shrinks the plan to one person: "Well, I’ll try to talk to her myself tomorrow. I think she might be on her guard if a lot of people approach her."
 [rel:sakura-airi] (p.80–82) She holds Sakura's number and Sakura's seating position and none of Sakura's trust, and is the one student whose name she will not let Ike reduce to a body.
 
-### y1v2 p.86–93 — Ch.4 §4.2–4.3: the approach fails in front of the whole class
+### y1v2 p.86–93 — Ch.4 sec. 4.2–4.3: the approach fails in front of the whole class
 [scene] (p.86) "Class was over. Kushida stood up right as homeroom ended and walked over towards Sakura, who was quietly preparing to leave. Kushida seemed oddly nervous."
 [says] (p.86) "Sakura-san?" then "I wanted to ask you something, Sakura-san. Do you have a moment? It’s about Sudou’s case."
 [says] (p.88) "Can you please make some time? This is important, so I’d like to talk to you. When Sudou-kun was involved in the incident, were you perhaps somewhere nearby?"
@@ -335,7 +335,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [feat] (p.91) Even after failing she keeps the case alive by asking the quietest boy in the room: "Ayanokouji-kun, you’re Sudou-kun’s ally, aren’t you?" — "Well, it’s just that things seem to a bit tense. Everyone’s desire to save Sudou is fading."
 [rel:ayanokouji-kiyotaka] (p.91) She uses his proximity as a resource twice in one day: the ally question, and the earlier instruction that he keep Horikita reachable (Hirata briefs AK about her because "she doesn’t talk to anyone except for you").
 
-### y1v2 p.128–131 — Ch.4 §4.8: she phones him at night, and cannot finish what she starts
+### y1v2 p.128–131 — Ch.4 sec. 4.8: she phones him at night, and cannot finish what she starts
 [scene] (p.128) The first time she reaches him unbidden, after ten: "I’m sorry for calling you so late. You’re still up?" she asked.
 [says] (p.128) "Sakura-san’s digital camera was broken, right? I feel like I’m partially to blame since I made her so flustered. So I wanted to take responsibility for that…"
 [says] (p.129) "Yeah. She seemed hesitant at first, but then said that she’d be fine with the day after tomorrow. I think that Sakura’s digital camera is probably really important to her."
@@ -354,7 +354,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [trait] (p.130–131) She is the only classmate who tests his account of Horikita instead of accepting it — and his reaction to being read is discomfort rather than deflection: "I didn’t like being misunderstood by Kushida."
 [note] (p.131) She hesitates immediately after being asked for her floor number, and the volume never says whether the two are connected. What is recorded is only the sequence: the question, the halt, the swallowed sentence, the goodbye.
 
-### y1v2 p.132–145 — Ch.4 §4.9–4.10: how she works on someone who cannot be worked on
+### y1v2 p.132–145 — Ch.4 sec. 4.9–4.10: how she works on someone who cannot be worked on
 [says] (p.132) "Good morning!" and "Sorry. Were you waiting long?"
 [says] (p.132) "This is the first time we’ve met up on a day off. It’s refreshing."
 [says] (p.133) The opening test of whether he has been excluded from his own class: "Weren’t you really busy during your downtime last week? I’m glad that you came despite that, Ayanokouji-kun." — then, precisely: "I’m talking about Ike-kun and the others going to that café, of course."
@@ -390,7 +390,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:ayanokouji-kiyotaka] (p.128–145) She recruits him by asking, tests whether he has been left out of his own friend group, and lets him fill in a form; he is her one witness that she is capable of a plain conversation.
 [limit] (p.144) Her instinct to close on Sakura stops short of the truth: she asks about the glasses, gets refused, and "Kushida seemed to feel that it would make trouble if she pressed the issue, so she kept quiet. Or rather, she didn’t ask anything else."
 
-### y1v2 p.147–150 — Ch.4 §4.11: the same evening, on two calls
+### y1v2 p.147–150 — Ch.4 sec. 4.11: the same evening, on two calls
 [says] (p.147) "We got closer to Sakura, but… Is it really okay for me to say that?" — her voice on the phone that night; the translation leaves the reply's speaker untagged and it is not assigned.
 [says] (p.147) Her reason for the glasses, which turns out not to be a reason: "Well, I mean… I thought saying so might be kind of cruel, but… I just feel like her glasses don’t really suit her, for some reason. It’s like she doesn’t really need them, or something. I don’t understand it myself. I also thought that we’d met somewhere before, but that was probably just a misunderstanding."
 [says] (p.147) "Huh? Sakura-san wears fake glasses? But she said that her eyesight was really bad…"
@@ -402,7 +402,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y1v2 ch4 → p.151 -->
 
-### y1v2 p.159–162 — Ch.5 §5.1: she reads Horikita better than Horikita reads herself
+### y1v2 p.159–162 — Ch.5 sec. 5.1: she reads Horikita better than Horikita reads herself
 [says] (p.159) "Good morning! Ayanokouji-kun!"
 [says] (p.159) "Thanks for yesterday. You really saved me."
 [says] (p.159) "Let’s hang out again sometime, okay?"
@@ -414,7 +414,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [trait] (p.162) The reading is hers alone; the narrator calls it "a bizarre thought" and cannot accept it.
 [rel:horikita-suzune] (p.162) She names Horikita's feeling as loneliness while disliking her, and says it in the hallway where Horikita cannot hear.
 
-### y1v2 p.163–168 — Ch.5 §5.2–5.3: she brings the witness, then loses the seat
+### y1v2 p.163–168 — Ch.5 sec. 5.2–5.3: she brings the witness, then loses the seat
 [says] (p.163) "Yes. Sakura-san saw everything from start to finish."
 [action] (p.163) "Kushida called for Sakura, who stood quietly behind her."
 [says] (p.164) "Sensei, Sakura-san is…" — cut off: "Chabashira-sensei cut Kushida off sharply."
@@ -427,7 +427,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [says] (p.168) "Perhaps…" — murmured, then she opens her phone and says nothing more about it.
 [says] (p.168) "Ah, nothing. It’s nothing. There was just something on my mind."
 
-### y1v2 p.179–185 — Ch.5 §5.6: the idol, the persona theory, and the whisper at the door
+### y1v2 p.179–185 — Ch.5 sec. 5.6: the idol, the persona theory, and the whisper at the door
 [scene] (p.179) That night "under Kushida’s orders" everyone but Sudō gathers in Ayanokōji's room; she asks for his computer and opens a blog.
 [says] (p.179) "There has been progress, yes, but I’ve also noticed something incredible. Ayanokouji-kun, can I borrow your computer for a minute?"
 [says] (p.179) "Okay. Have a look at this!"
@@ -452,7 +452,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [note] (p.191) Her only spoken line in the chapter is the room’s send-off to the two people going into the hearing — "Do your best, Horikita-san. Sudou-kun." — and Horikita does not answer it.
 [trait] (p.191) She gives the encouragement to both of them together, including the girl who has spent the volume refusing her, and the page records no reply.
 
-### y1v2 p.213 — Ch.6 §6.2: named among the people who believe Sakura
+### y1v2 p.213 — Ch.6 sec. 6.2: named among the people who believe Sakura
 [rel:sakura-airi] (p.213) Ayanokōji tells Sakura that the belief is not his alone — "Horikita, Kushida, and Sudou do, too. All of our classmates believe you." Her part is reported by him, not shown in this chapter.
 
 <!-- walk: y1v2 ch6 → p.219 -->
@@ -481,11 +481,11 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [scene] (p.160) Named by Shinohara as one of the girls inside the tent comforting the crying Karuizawa.
 [status] (p.160) With the victim’s group from the first moment of the crisis.
 
-### y1v3 p.171–178 — Ch.6 §6.1: chasing Sakura
+### y1v3 p.171–178 — Ch.6 sec. 6.1: chasing Sakura
 [scene] (p.176) Chases Sakura into the forest after Karuizawa’s teasing drives her off.
 [rel:sakura-airi] (p.176) Goes after her alone, judging it dangerous for someone to enter the woods by herself.
 
-### y1v3 p.192–199 — Ch.6 §6.4: the smile question
+### y1v3 p.192–199 — Ch.6 sec. 6.4: the smile question
 [scene] (p.192) Left behind with Horikita’s group, she whispers why — and spends the walk trying to draw Horikita out.
 [says:horikita-suzune] (p.192) “Why were you left behind? What about your usual group of friends?”
 [says:kushida-kikyou] (p.192) “Ah, yeah. Well, it’s…”
@@ -508,7 +508,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:ibuki-mio] (p.197) The last one left, she pairs off with Ibuki for the search.
 [says:kushida-kikyou] (p.197) “I’m looking forward to working with you, Ibuki-san!”
 
-### y1v3 p.200–202 — Ch.6 §6.5: witness and swimmer
+### y1v3 p.200–202 — Ch.6 sec. 6.5: witness and swimmer
 [scene] (p.200) Watches Yamauchi’s strange approach to Horikita with Ibuki, quizzical, and sees the mud go on before anyone reacts.
 [action] (p.200) With Ibuki, one of the two who notices Yamauchi’s behavior in time to wonder at it.
 [action] (p.202) Goes down to the river in her swimsuit with Horikita while the shower line waits.
@@ -526,7 +526,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [note] (p.15) Listed with Horikita and Sakura as the three he talked with — his school life hadn’t been all that bad.
 [note] (p.18) Her push for friendship with Horikita in the café during the first semester is cited as proof that pushing would only make her distance herself further.
 
-### y1v4 p.27–31 — Ch.2 §2.2: the hallway interrupt and the message compare
+### y1v4 p.27–31 — Ch.2 sec. 2.2: the hallway interrupt and the message compare
 [scene] (p.27) Exits a second-deck room into the hallway mid-meeting-plan; interrupts Sakura’s appeal, then compares school messages with Ayanokōji.
 [says] (p.27) “Huh? Ayanokouji-kun and Sakura-san? What are you doing here?”
 [says] (p.28) “Ah, did I interrupt? I didn’t mean to. I was supposed to meet up with some friends.”
@@ -538,7 +538,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:sakura-airi] (pp.27–28) The bright entrance that sends Sakura fleeing; Kushida apologises to no evident purpose.
 [rel:ayanokouji-kiyotaka] (pp.27–31) Invites, reads his joke, shares her phone, watches his screen.
 
-### y1v4 p.60–61 — Ch.2 §2.5: the puzzled arrival
+### y1v4 p.60–61 — Ch.2 sec. 2.5: the puzzled arrival
 [scene] (p.60) Wanders into the 20:40 gathering without understanding the group structure, then reads the room fast enough to keep up.
 [says] (p.60) “Huh, Hirata-kun? Oh, Ayanokouji-kun, too? What are you all doing here?”
 [says] (p.60) “Hmm? Group? I don’t understand. I did get an email telling me to come here at this time… Wow, there really are some amazing people here, huh?”
@@ -565,7 +565,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [note] (p.84) In the talent comparison, even Hirata and Kushida might find themselves outmatched, despite their overabundance of friends.
 [note] (p.109) Kushida was always Kushida — and Karuizawa probably rivaled Kushida in terms of popularity.
 
-### y1v4 p.113, p.117–121 — Ch.3 §3.5–§3.6: the VIP name and the starlit hug
+### y1v4 p.113, p.117–121 — Ch.3 sec. 3.5–sec. 3.6: the VIP name and the starlit hug
 [scene] (p.113) Named Dragon VIP on Hirata’s erased screen; four pages later alone on the night deck among the couples, she hugs Ayanokōji and flees.
 [status] (p.113) “Dragon Group, Kushida-san.” — the VIP position in the extremely well-stacked Dragon group is an enormous advantage and terrifying: “Once they knew her identity, she was at their mercy.”
 [status] (p.113) Hirata’s reassurance rides on the three Class D Dragon members being “the best we had to offer” — they would not reveal her.
@@ -592,7 +592,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [note] (p.127) Innermost thoughts aren’t immediately apparent — take Kushida, Ibuki, or even me.
 [note] (p.140) With Horikita and Hirata, she is called a star player in the Class D line-up.
 
-### y1v4 p.144–149 — Ch.4 §4.1: the invitation inside
+### y1v4 p.144–149 — Ch.4 sec. 4.1: the invitation inside
 [scene] (p.144) Spots Ayanokōji and Ichinose in the Dragon corridor, waves them into the three-way, then exits when Ryuuen leaves with “My friends are calling me.”
 [says] (p.144) “Huh? Ayanokouji-kun, what are you doing here? Are you waiting for Horikita-san?” asked Kushida.
 [says] (p.144) “Oh! Ichinose-san! Hello. Now, this is odd. Well, I should say I didn’t expect to see the two of you together,” said Kushida.
@@ -604,21 +604,21 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:ryuuen-kakeru] (p.144) The Ryuuen conversation she reports is the reason she opens the door — “they may not be talking about the test.”
 [rel:horikita-suzune] (p.144) Named in the corridor as the person Ayanokōji is waiting for; the excuse Ichinose accepts.
 
-### y1v4 p.185 — Ch.4 §4.5: the fallback contact
+### y1v4 p.185 — Ch.4 sec. 4.5: the fallback contact
 [scene] (p.185) Named once as the risk Ayanokōji avoids — if Hirata had not had Manabe’s info, he would have had to ask her for it.
 [rel:hirata-yousuke] (p.185) The cross-class contact info Hirata supplies saves the Kushida detour.
 [note] (p.185) No scene presence; one line of planning in Ayanokōji’s narration.
 
 <!-- walk: y1v4 ch4 → p.204 -->
 
-### y1v4 p.207, 217 — Ch.5 §5.1–5.2: the Dragon VIP behind the swap
+### y1v4 p.207, 217 — Ch.5 sec. 5.1–5.2: the Dragon VIP behind the swap
 [scene] (p.207) Named as the Dragon group’s VIP from Hirata’s tip — the name Ayanokōji’s phone-swap trap runs on, never spoken in the room.
 [rel:hirata-yousuke] (p.207) The source of the identification; “I’d already heard from Hirata that Kushida was the Dragon group’s VIP.”
 [rel:horikita-suzune] (p.217) The swap pairs her phone with Kushida’s so a traitor submitting Horikita fails.
 [rel:ayanokouji-kiyotaka] (p.217) The hidden mechanism of Outcome #1 — she never appears on screen in this half.
 [note] (p.207) No scene presence; the row records the fact the plan depends on.
 
-### y1v4 p.239–242 — Ch.5 §5.3: the name that broke the table
+### y1v4 p.239–242 — Ch.5 sec. 5.3: the name that broke the table
 [scene] (p.239) Named aloud as Dragon group VIP by Ryuuen — known to him since day two — and the fact that Dragon cleared Outcome #1 without a traitor makes her the centre of Ayanokōji’s 1% explanation.
 [rel:ryuuen-kakeru] (p.239) He never turned traitor despite knowing; the reveal is saved for the café audience.
 [says] (p.239) “Kushida Kikyou.” (his line, naming her)
@@ -762,7 +762,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y1v5 ch2 → p.38 -->
 
-### y1v5 p.39–53 — Ch.3 §3: Asked for the middle ground
+### y1v5 p.39–53 — Ch.3 sec. 3: Asked for the middle ground
 [scene] (p.41) Karuizawa calls on Kushida during the homeroom debate, and Kushida voices the class’s wish for a solution both sides can accept.
 [says] (p.41) “If there were some kind of middle-ground solution, that would be ideal.”
 [says] (p.41) “A strategy we could all get behind.”
@@ -771,7 +771,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y1v5 ch3 → p.53 -->
 
-### y1v5 p.54–67 — Ch.4 §4: Names Sudou the leader; named the second problem
+### y1v5 p.54–67 — Ch.4 sec. 4: Names Sudou the leader; named the second problem
 [scene] (p.57) Kushida cheers Sudou through the aptitude tests and is the first to call him the festival leader.
 [says] (p.57) “You always end up taking first place in our class, no matter the event.”
 [says] (p.57) “Really, Sudou-kun, you’re definitely the sports festival leader,”
@@ -781,7 +781,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y1v5 ch4 → p.67 -->
 
-### y1v5 p.68–85 — Ch.5 §5: “It’s me”
+### y1v5 p.68–85 — Ch.5 sec. 5: “It’s me”
 [scene] (p.68) Kushida is recruited for the Saturday outing and accepts with her usual warmth, noting how unusual the invitation is.
 [says] (p.68) “Hmm? What is it, Ayanokouji-kun?”
 [says] (p.68) “You know, it’s really unusual for you to invite me out, Ayanokouji-kun.”
@@ -798,17 +798,17 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y1v5 ch5 → p.85 -->
 
-### y1v5 p.116–140 — Ch.6 §6: compromise partner and searcher
+### y1v5 p.116–140 — Ch.6 sec. 6: compromise partner and searcher
 [scene] (p.116) Kushida pairs with Horikita in the girls’ three-legged — always willing to compromise against Horikita’s grudge.
 [action] (p.116–117) Takes the lead when Horikita’s leg stiffens; the pair drops to last after a brief second and an obstructing lane change.
 [rel:horikita-suzune] (p.116–117) The bizarre pair looks safe to Class D and fails on the field; neither bridges the gap.
-[action] (p.140, §6.10) Abstains from lunch, tells other girls she is going to look for Sudou, and leaves.
+[action] (p.140, sec. 6.10) Abstains from lunch, tells other girls she is going to look for Sudou, and leaves.
 [rel:sudou-ken] (p.140) One of the two girls who go searching while Ike and Yamauchi refuse to.
 [note] (p.140) Her search is reported, not shown, before the chapter closes.
 
 <!-- walk: y1v5 ch6 → p.143 -->
 
-### y1v5 p.145–148 — Ch.7 §7: fetches Horikita, admits she told the teacher
+### y1v5 p.145–148 — Ch.7 sec. 7: fetches Horikita, admits she told the teacher
 [scene] (p.145) Kushida runs up to Horikita in a panic and leads her back to the nurse’s office for Kinoshita’s accusation.
 [says:kushida-kikyou] (p.145) “I’m so glad I found you, Horikita-san! I need to talk to you about something,”
 [says:kushida-kikyou] (p.145) “Would you mind coming with me? Things are going to get difficult,”
@@ -818,7 +818,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [says:kushida-kikyou] (p.148) “She seems frightened, and might be emotionally unstable,”
 [rel:kinoshita-minori] (p.148) Claims friendship with Kinoshita as the reason she heard the accusation first.
 
-### y1v5 p.152–156 — Ch.7 §7.1: defends Horikita, offers her points
+### y1v5 p.152–156 — Ch.7 sec. 7.1: defends Horikita, offers her points
 [scene] (p.152) Kushida speaks up quietly for Horikita, then offers her own points when Ryuuen demands payment.
 [says:kushida-kikyou] (p.152) “I think this is all just bad luck. I can’t imagine that Horikita-san would deliberately hurt her opponent.”
 [says:kushida-kikyou] (p.152) “Don’t you think your desire not to lose just got to you?”
@@ -831,7 +831,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y1v5 ch7 → p.159 -->
 
-### y1v5 p.169 — Ch.8 §8.2: volunteers for the three-legged race
+### y1v5 p.169 — Ch.8 sec. 8.2: volunteers for the three-legged race
 [scene] (p.169) Kushida offers to pay for Horikita’s three-legged place so Hirata is not left holding the bill alone.
 [says:kushida-kikyou] (p.169) “Um, Hirata-kun, would you mind if I helped, too? I’d like to participate in the three-legged race. Of course, I’ll pay the points for it. Is that okay?”
 [says:kushida-kikyou] (p.169) “I can’t let you bear this burden alone. Besides, I want to try my best for the class, and for Horikita-san and Sudou-kun’s sake.”
@@ -839,7 +839,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [says:kushida-kikyou] (p.169) “You’re taking Sudou-kun’s place, then, Ayanokouji-kun? I’m looking forward to racing with you!”
 [says:kushida-kikyou] (p.169) “In the three-legged race, coordination’s more important than simple speed,”
 
-### y1v5 p.172–175 — Ch.8 §8.2: named as the traitor
+### y1v5 p.172–175 — Ch.8 sec. 8.2: named as the traitor
 [scene] (p.172) While tying their legs together, Ayanokouji names Kushida as the leaker of the participation table; she admits it and states her goal.
 [says:kushida-kikyou] (p.172) “Come on, Ayanokouji-kun. What’s the matter with you? Even as a joke, that’s a cruel thing to say,”
 [says:kushida-kikyou] (p.172) “I did that to record the information, so I would remember.”
@@ -858,13 +858,13 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y1v5 ch8 → p.180 -->
 
-### y1v5 p.181–188 — Ch.9 §9: relay substitute and the track cry
+### y1v5 p.181–188 — Ch.9 sec. 9: relay substitute and the track cry
 [scene] (p.181) Kushida takes Horikita’s relay place; she runs the fifth leg into Ayanokouji’s anchor start.
 [rel:horikita-suzune] (p.182) Named as Horikita’s replacement once she withdraws.
 [says:kushida-kikyou] (p.188) “Ayanokouji-kun!”
 [rel:ayanokouji-kiyotaka] (p.188) Hands him the baton for the serious run.
 
-### y1v5 p.194–201 — Ch.9 §9.2–9.3: the hallway confession
+### y1v5 p.194–201 — Ch.9 sec. 9.2–9.3: the hallway confession
 [scene] (p.194) Kushida returns to escort Horikita to Ryuuen; in the hallway Horikita names her junior-high past and the leak.
 [says:kushida-kikyou] (p.194) “Sorry to keep you waiting, Horikita-san. I got caught up talking with a friend.”
 [says:kushida-kikyou] (p.195) “Huh? Charade? What in the world do you mean?”
@@ -909,7 +909,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y1v6 → start -->
 
-### y1v6 p.10–12 — Ch.1 §1: Kushida Kikyou’s Soliloquy
+### y1v6 p.10–12 — Ch.1 sec. 1: Kushida Kikyou’s Soliloquy
 [scene] (p.10) Cold-open soliloquy: Kushida narrates the ideal self she built, the junior-high incident that broke it, and the bus meeting that reopened the wound.
 [says:kushida-kikyou] (p.10) “Do people live according to their own ideals, I wonder? Well, I do.”
 [says:kushida-kikyou] (p.10) “Wouldn’t you say I’m perfect?”
@@ -932,21 +932,21 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y1v6 ch1 → p.13 -->
 
-### y1v6 p.18 — Ch.2 §2.1: the social clout Satou envies
+### y1v6 p.18 — Ch.2 sec. 2.1: the social clout Satou envies
 [scene] (p.18) Narration while Satou waits for Ayanokouji: Satou seemed to want the kind of social clout Kushida has.
 [rel:satou-maya] (p.18) Satou is cast as wanting Kushida’s trusted-network position but lacking the guy-side popularity.
 [note] (p.18) Kushida does not appear or speak in this chapter; only her reputation is cited.
 
 <!-- walk: y1v6 ch2 → p.29 -->
 
-### y1v6 p.42–43 — Ch.3 §3.1: joining the huddle
+### y1v6 p.42–43 — Ch.3 sec. 3.1: joining the huddle
 [scene] (p.42) Asks to join the strategy talk after Horikita, Ayanokouji, Hirata and Karuizawa are set.
 [says:kushida-kikyou] (p.42) “Excuse me, but would it be all right if I joined you, too?”
 [says:kushida-kikyou] (p.42) “Is that okay…?”
 [rel:horikita-suzune] (p.42) Horikita: “Of course, Kushida-san. I planned on inviting you, anyway.”
 [rel:ayanokouji-kiyotaka] (p.42–43) Flags the sports-festival betrayal and her hatred of Horikita; still needed for class goodwill.
 
-### y1v6 p.43–49 — Ch.3 §3.1: the subject of the junior-high story
+### y1v6 p.43–49 — Ch.3 sec. 3.1: the subject of the junior-high story
 [scene] (p.43) Off-stage for the campus walk: the story is about her past, not her presence.
 [rel:horikita-suzune] (p.43–46) Same junior high, different prefecture; bus seat kindness; remembered only after the study group; popular with student-council-level influence.
 [rel:kouenji-rokusuke] (p.44) Kouenji also refused the bus seat — not why Suzune alone is hated.
@@ -959,7 +959,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:horikita-suzune] (p.49) Horikita refuses to expel her; calls her an excellent student and keen observer who could be a great asset.
 [rel:sudou-ken] (p.49) Precedent contrast: people with something to offer are not abandoned.
 
-### y1v6 p.52–58 — Ch.3 §3.2: Pallet and the senior-student errand
+### y1v6 p.52–58 — Ch.3 sec. 3.2: Pallet and the senior-student errand
 [scene] (p.52) At Pallet with the full strategy group; listens quietly until Hirata’s upperclassman point.
 [rel:hirata-yousuke] (p.53) After his comment, she offers her own senior contact.
 [says:kushida-kikyou] (p.53) “I was a little curious, too. I think an upperclassman I’m close with might be willing to tell me.”
@@ -972,7 +972,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y1v6 ch3 → p.59 -->
 
-### y1v6 p.83–87 — Ch.5 §5.2: study-group tutor in chief
+### y1v6 p.83–87 — Ch.5 sec. 5.2: study-group tutor in chief
 [scene] (p.83) Paired with Ike on the short quiz; then assigned the fifty-point-worrier tutoring role.
 [rel:horikita-suzune] (p.84) Attends both daily sessions; unique role for students afraid of fifty points.
 [rel:miyake-akito] (p.86) Offered Miyake and Hasebe as one-on-one cases; Miyake declines the girls-only group.
@@ -981,7 +981,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:horikita-suzune] (p.84) Named with Hirata as the pair Horikita needs before the double study schedule.
 [note] (p.84) Only three students can handle being tutors; quality drops as groups grow.
 
-### y1v6 p.104–130 — Ch.5 §5.5–5.9: the bet and the blog truth
+### y1v6 p.104–130 — Ch.5 sec. 5.5–5.9: the bet and the blog truth
 [scene] (p.104) Promised daily study sessions; Horikita still treats her attendance as reliable while questions stay off-limits.
 [rel:horikita-suzune] (p.104–106) Attendance promise noted; leak-risk talk keeps her out of question creation.
 [rel:horikita-suzune] (p.112) Goodbye to Ichinose and Horikita; playing it cool — both checking each other out.
@@ -1062,7 +1062,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:ayanokouji-kiyotaka] (p.145) Named as the person he hangs out with; he withholds the referral because of the Horikita issue.
 [rel:satou-maya] (p.145) Close to Satou per Hasebe — the reason she is suggested as the Satou-intel source.
 
-### y1v6 p.165–167 — Ch.6 §6.6: juice, forgiveness, no spare blazer
+### y1v6 p.165–167 — Ch.6 sec. 6.6: juice, forgiveness, no spare blazer
 [scene] (p.165) Says she would hate to lose anyone; takes Karuizawa’s rant and the grape juice without fighting back.
 [says:kushida-kikyou] (p.165) “I’d absolutely hate to lose anybody from Class D,”
 [says:kushida-kikyou] (p.165) “Well, I can’t guarantee that,” Kushida said. “But…”
@@ -1093,7 +1093,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:ryuuen-kakeru] (p.184) Implied collusion on answers; later rooftop shows the questions were switched.
 [trait] (p.193) Normally calm and composed; shaken through the math portion in front of the class.
 
-### y1v6 p.194–199 — Ch.7 §7.3: the bet conceded, the hatred kept
+### y1v6 p.194–199 — Ch.7 sec. 7.3: the bet conceded, the hatred kept
 [scene] (p.194) Leaves the classroom quickly after the first day; admits under eighty in the special building and refuses Horikita’s hand.
 [says:kushida-kikyou] (p.194) “What?”
 [says:kushida-kikyou] (p.196) “That depends on what you want to talk about,”
@@ -1114,7 +1114,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:hirata-yousuke] (p.204–205) Pacifist pattern at the meeting is part of the trap deduction.
 [trait] (p.194–199) Exhaustion written on her face; admits eighty without surprise at Horikita’s claim; hatred kept intact while the written promise is offered and refused by Horikita.
 
-### y1v6 p.202–208 — Ch.7 §7.5: the rooftop, the switch, the planted sheet
+### y1v6 p.202–208 — Ch.7 sec. 7.5: the rooftop, the switch, the planted sheet
 [scene] (p.202) Isolated rooftop: confronts Ryuuen that the questions she handed in were not the exam questions.
 [says:kushida-kikyou] (p.202) “What are you plotting, Ryuuen-kun?”
 [says:kushida-kikyou] (p.202) “The questions and answers you gave me were completely different than the ones on the exam.”
@@ -1208,7 +1208,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y1v7 ch4 → p.119 -->
 
-### y1v7 p.123 — Ch.5 §5.1: the traitor whose name stays shut
+### y1v7 p.123 — Ch.5 sec. 5.1: the traitor whose name stays shut
 [scene] (p.123) Named only as the girl Ryuuen will not publicly credit for the Karuizawa email address.
 [note] (p.123) He got Karuizawa’s email address from another girl in her class and avoids saying the traitor’s name; Kushida Kikyou’s part stays unneeded for now.
 [rel:ryuuen-kakeru] (p.123) The Class D leak he deliberately keeps quiet about while using her information.

@@ -581,11 +581,11 @@ volumes/y1v2, plus a new ledgers/people/ryuuen-kakeru.md — the roster already
 carried the id, so he arrived as one principal-character page and the page count
 stayed at 162. +443 lines in the tracked ledgers, 22 in the new file.
 
-The chapter's own shape drove the fan-out: §7.0–7.4 is Ayanokōji on the path, in
+The chapter's own shape drove the fan-out: sec. 7.0–7.4 is Ayanokōji on the path, in
 the classroom, in the special-building corridor and at the shuttered electronics
-store; §7.5 is Horikita's first-person retrial — the volume's second
+store; sec. 7.5 is Horikita's first-person retrial — the volume's second
 different-narrator section after Sakura's cold open — which is where Chabashira's
-lecture, the point fee and the private "defective products" session land; §7.6
+lecture, the point fee and the private "defective products" session land; sec. 7.6
 returns to Ayanokōji for the secretary offer, the puppet question and the
 corridor brush-off that names Ryuuen. The camera bluff belongs to Ichinose, the
 hardware to Kanzaki, the email to Kushida, and the withdrawal's cost to the point
@@ -604,7 +604,7 @@ respectively — both are now [note] rows and gaps in the volume section; Sakura
 "I'm done talking." sits on p.254, not p.255. Five lines that the chapter gives
 these characters had also gone unrecorded (Ayanokōji's "I have no intension of
 arguing…" at p.226, "Well. I'll be heading back now." and "You sort of forced me
-to…" at p.254, Horikita's "Who are you?" at p.254), and Ichinose's §7.2 entrance
+to…" at p.254, Horikita's "Who are you?" at p.254), and Ichinose's sec. 7.2 entrance
 was worded as her leaving the building when the page has her stepping into a
 corridor where the group already stands.
 
@@ -811,7 +811,7 @@ herself because she had been "pushed into a corner" (p.11). p.12 carries no
 prose. Chabashira's ledger got the full sweep (`## y1v3` block, 10 rows); no
 other roster character is present — the boy is never named on these pages, so
 no stamp or row was written for anyone else and the attribution gap is listed
-in the volume section (AGENTS.md §7: never assign from context alone). New
+in the volume section (AGENTS.md sec. 7: never assign from context alone). New
 entities: none (only the myth figures inside her retelling). Verifiers pass;
 the wording gate caught one row that said "in the ledgers" — rewritten to
 "he stays unnamed in the records" before the commit. No defects kept as
@@ -958,7 +958,7 @@ confession (pp.200–205), the burned manual and Hirata's crack
 (pp.206–212), Horikita's chase and knockout from her own viewpoint
 (pp.213–220), Ibuki's handover and the Class A–C alliance from hers
 (pp.221–224), the night carry and the 7:58 retirement (pp.226–239).
-Ryūen and Katsuragi are on scene only in the handover (§6.9);
+Ryūen and Katsuragi are on scene only in the handover (sec. 6.9);
 Shinohara is absent after p.178 and gets an absence section
 carrying her p.182 passing mention. No new ledgers, no roster rows, no
 new tags. Named but absent, listed in the volume section: Kōenji
@@ -983,14 +983,14 @@ pp.259–262.
 
 y1v3 ch7: The Curtain Rises (pp.240–258)
 
-Read and recorded in two halves (pp.240–249, then §7.1 pp.250–258), one
+Read and recorded in two halves (pp.240–249, then sec. 7.1 pp.250–258), one
 stamp `y1v3 ch7 → p.258` on fifteen people ledgers plus the volume file:
 Ayanokōji, Horikita, Hirata, Sudō, Ike, Yamauchi, Karuizawa, Ryūen,
 Kōenji, Chabashira, Katsuragi, Totsuka/Yahiko, Kaneda, Mashima, Ibuki.
 First half: the results announcement and Ryūen's leader-name reveal on
 the beach (pp.240–245), the deck — Kōenji's drink, Horikita's
 first-name withdrawal, Karuizawa's apology (pp.245–247), Chabashira's
-Icarus talk and the father reveal (pp.248–249). Second half: §7.1, the
+Icarus talk and the father reveal (pp.248–249). Second half: sec. 7.1, the
 whole explanation on the silence condition — the circling-ship hints,
 Yahiko as Class A's leader, the card with his own name, the
 leader-change clause, Ibuki's camera and eye-contact tell, Kaneda the
@@ -1061,7 +1061,7 @@ the Miyake precedent (owner can override at the report). Named-only
 pages confirmed recorded without ledgers: Sakagami (p.155), Nakanishi
 (p.124), Miyake (p.16), Tomose (p.261), Ichino (p.259), Chihiro-chan
 (p.124). Every named id's `volumes` cell already carries y1v3 — no
-content/*.tsv change. Open question for the owner (§11): whether
+content/*.tsv change. Open question for the owner (sec. 11): whether
 "Yahiko" should join totsuka-yahiko's aliases so the locator can
 surface him (the volume never prints "Totsuka"). Verifiers, gate and
 make check all pass; hash 5ad45779effcb8153e1f603096d13b84 twice.
@@ -1139,7 +1139,7 @@ printed without a first name — which Tokitou is not printed, both roster
 rows keep y1v4). New tags: none; roster rows: none (every name already
 on the roster with y1v4). Attribution gaps recorded in the volume section:
 five untagged lines (p.42 x3, p.43, p.60) plus the two unassigned
-Horikita-chat lines of §2.2 (pp.30-31). Verify: 167 [says] (1 skipped
+Horikita-chat lines of sec. 2.2 (pp.30-31). Verify: 167 [says] (1 skipped
 micro-quote "Hmph.") and 69 non-says, ALL PASS. Three first-run verify
 failures were cross-page quotes — durable note for this volume: y1v4's
 footers print `Page N` (space form), which verify2/3 do not strip (they
@@ -1317,7 +1317,7 @@ now has a ledger carries a row (machida, hamaguchi, manabe, ibuki,
 beppu, takemoto, yabu, yamashita, morishige, ichinose, and the ch4-opened
 files). The volume file gained its closing stamp
 <!-- walk: y1v4 postscript → DONE -->; the byte-identical duplicate
-ch5 and ch6 boundary stamps were reduced to one each (§6 one stamp per
+ch5 and ch6 boundary stamps were reduced to one each (sec. 6 one stamp per
 chapter; no content rows touched).
 
 Verify 1074 [says] + 316 non-says ALL PASS; gate exit 0 (R18 0, R19
@@ -1412,9 +1412,9 @@ queue talk (island fistfight recap, Ryuuen hatred, the Class D leader
 question), the awareness lecture and the mass-murderer jibe; the
 no-partner list (Horikita, Kushida, Sakura, the guys) and the next-day
 reunion; the pair queues and Ibuki’s grudge worry is dismissed on
-ability-versus-feelings grounds; §2.4 the reading — hooded fortune-
+ability-versus-feelings grounds; sec. 2.4 the reading — hooded fortune-
 teller, Basic Plan, balance “barely enough” at roughly 6,000 points,
-the fate tenchuusatsu pronouncement and the no-detour advice; §2.5 the
+the fate tenchuusatsu pronouncement and the no-detour advice; sec. 2.5 the
 detour taken on purpose, the elevator trapped on the third floor (dead
 emergency line, phones at four percent and dead, magic-marker number,
 heat, hatch, button schemes, the floor-plus-close press coinciding
@@ -1757,8 +1757,8 @@ Read the full chapter with blank flags (549-line extract). The blackboard
 meeting: Hirata's "Raising Hands" versus "Ability", Sudou claims every
 recommended event, Shinohara's objection, Karuizawa/Kushida's counter and
 Horikita's private-point compromise, the 16–13 vote, Kōenji's refusal.
-§3.1: the entrance meeting — Karuizawa's text message, the Class A answer,
-the classmate-will-betray-us prediction, the life-jacket parable. §3.2:
+sec. 3.1: the entrance meeting — Karuizawa's text message, the Class A answer,
+the classmate-will-betray-us prediction, the life-jacket parable. sec. 3.2:
 grip strength (Sudou 82.4, Ayanokōji 60.6 second, Hirata 57.9, Ike 42.6),
 four-way tug-of-war order, rock-paper-scissors roster, top-secret notebook.
 Ledgers touched: 24 files stamped y1v5 ch3 → p.53 — volumes/y1v5,
@@ -1780,12 +1780,12 @@ Open: ch4 pp.54–67.
 Read the full chapter with blank flags (463-line extract). First independent
 practice: Class A/B watch from the windows, Class C’s silence reads as
 Ryuuen’s strategy already set; the Sudou–Horikita name bet (first in grade
-buys the first name, failure forbids it forever); §4.1 aptitude tests —
+buys the first name, failure forbids it forever); sec. 4.1 aptitude tests —
 Sakura last, Sudou unbeatable, Kushida names him leader and Horikita gives
-a cold half-approval; §4.2 Sudou coaches (tug-of-war, cavalry, dirt-kicked
+a cold half-approval; sec. 4.2 Sudou coaches (tug-of-war, cavalry, dirt-kicked
 Ike and Yamauchi) while Horikita drives partners away and Ayanokōji boxes
 her in on the holding-back question, then outpaces her in the three-legged
-demo; §4.3 mid-September, two named problems — Horikita’s partnerships and
+demo; sec. 4.3 mid-September, two named problems — Horikita’s partnerships and
 Kushida’s rooftop hatred. Ledger appends: 15 files stamped y1v5 ch4 → p.67
 (volumes/y1v5, ayanokouji-kiyotaka, horikita-suzune, sudou-ken, hirata-yousuke,
 ike-kanji, kushida-kikyou, kouenji-rokusuke, sakura-airi, yamauchi-haruki,
@@ -1805,7 +1805,7 @@ and p.85). The Saturday outing: Ayanokōji recruits Horikita and Kushida,
 lays the cruise-ship theory (Kushida may have sold her own VIP identity),
 noodles with Sudou/Ike/Yamauchi, then the grounds — Shibata's goal, Nagumo
 outclassing Hirata and Shibata, Kushida's “It’s me,” Horikita’s direct VIP
-question and ally demand, and Ayanokōji’s exit. §5.3: the participation
+question and ally demand, and Ayanokōji’s exit. sec. 5.3: the participation
 table, the anchor fight, and the brother reveal (student council president).
 Ledger appends: 16 files stamped y1v5 ch5 → p.85 (volumes/y1v5,
 ayanokouji-kiyotaka, horikita-suzune, kushida-kikyou, sudou-ken, ike-kanji,
@@ -1873,11 +1873,11 @@ none. Open: ch8 pp.160–180.
 ### y1v5 ch8 (pp.160–180) — What You and I Lack — walked
 Full chapter read in one pass (blank/short scans p.171, p.177, p.180).
 Split POV: Ayanokouji’s scavenger-hunt last place (three bad lots);
-§8.1 Horikita finds Sudou in the dorm lobby and the worthless-parents
-argument; §8.2 Hirata’s 500,000-point substitute burden, Kushida’s
+sec. 8.1 Horikita finds Sudou in the dorm lobby and the worthless-parents
+argument; sec. 8.2 Hirata’s 500,000-point substitute burden, Kushida’s
 volunteer offer, Ayanokouji taking Sudou’s place, and the traitor
 confrontation — Kushida admits leaking the participation table and her
-expel-Horikita goal; §8.3 Sudou returns and the ally bargain until
+expel-Horikita goal; sec. 8.3 Sudou returns and the ally bargain until
 graduation. Ledger appends: 13 files stamped y1v5 ch8 → p.180 (12 people
 + volume Chapter 8 section). Quote hygiene: single-sentence pairs kept
 where corpus-exact; short cries as notes (“Horikita.”, “Shut up!”,
@@ -2063,7 +2063,7 @@ interrupt, Hirata names Ayanokōji the mastermind and offers backup;
 first subject, Keisei’s predictions hold, Kushida’s agitated math slip.
 Post-day: Horikita’s ninety-eight math claim, Sudou’s forty-point
 apology, bet settled — Kushida concedes under eighty and refuses the
-handshake. §7.4 photo declaration of war; §7.5 rooftop cheat-sheet
+handshake. sec. 7.4 photo declaration of war; sec. 7.5 rooftop cheat-sheet
 plant, juice-and-cleaners deduction, Ichinose letter, Transaction email,
 three options, “destroy her.” People stamped: ayanokouji-kiyotaka,
 chabashira-sae, hasebe-haruka, hirata-yousuke, horikita-suzune,
@@ -2117,7 +2117,7 @@ Ch3 “Reunions and Farewells” read in two halves (pp.32–64, pp.65–97). Ha
 Ch4 “Insanity”: Ryuuen storms Class D with Ishizaki, Yamada, Komiya and Kondou; Chabashira walks out; Hirata holds the line then is sent back; the path ambush smokes out Ayanokōji, Miyake and Yukimura; rest-area duel with Kouenji (mirror smash, zodiac debt, “moron with a paltry intellect”); Sakayanagi arrives with Kamuro, Hashimoto and Kitou — island contract recited (twenty-thousand private points per person per month, Katsuragi’s signature); Ryuuen’s kick blocked by Hashimoto; Kouenji’s little-girl jab; show ends with the narrowed list “that weird creep lurking behind you.” New ledger: kitou-hayato. People stamped ch4 → p.119: ayanokouji-kiyotaka, ryuuen-kakeru, horikita-suzune, sudou-ken, kouenji-rokusuke, sakayanagi-arisu, hirata-yousuke, ishizaki-daichi, miyake-akito, yukimura-teruhiko, hashimoto-masayoshi, kitou-hayato, kamuro-masumi, katsuragi-kouhei, komiya-kyogo, kondou-reo, yamada-albert, ibuki-mio, ike-kanji, yamauchi-haruki, kushida-kikyou, chabashira-sae. Quote fixes: Kouenji’s “My apologies…” line cited p.109–110 with ellipsis across footer; Sudou’s line corrected to corpus “The heck is with that guy?”. horikita-manabu locator hits were bare-“Horikita” false positives (sort is Horikita). verify y1v7: 473 [says] ALL PASS + 26 non-says ALL PASS; make check OK (R18 0, R19 82/82); gate exit 0; hash `56d212bf5d41b6d17a9087cf7c70df6d` twice. New tags: none. Next: ch5 pp.120–151.
 
 ### y1v7 ch5 (pp.120–151) — walked
-Ch5 “Time to Settle Things” read in two halves (pp.120–135, pp.136–151). Closing ceremony; Ryuuen’s shortlist down to about ten (Sudou, Miyake, Hirata still standing); Shiina declines the hunt for the library; rooftop trap — camera sprayed black, Albert on standby below, Karuizawa summoned alone under past-exposure threat with X warned in parallel; §5.2 interrogation and Manabe leverage; Ibuki holds her while Ishizaki fetches buckets; first dousing. Half 2: school-rule loopholes and the silent-upperclassman rule (Komiya/Kondou evidence); second bucket; §5.3 Karuizawa POV — four dousings, junior-high hell on loop, cruise-ship setup revealed (X used Hirata to place her, then let Manabe bully her for evidence); lips form “K…t…”, then “K-knock…it…off”; she never gives the name; Ryuuen’s respect; “Goodbye, fake me.” People stamped ch5 → p.151: sakagami, horikita-suzune, miyake-akito, shiina-hiyori, kushida-kikyou, kouenji-rokusuke (half1-only, EOF stamps), hirata-yousuke, sudou-ken, manabe-shiho, yamada-albert, ibuki-mio, ishizaki-daichi, karuizawa-kei, ryuuen-kakeru, komiya-kyogo, kondou-reo, morofuji-rika, ayanokouji-kiyotaka (half2 stamps). Structure: ## y1v7 + start inserted for kondou-reo, kouenji-rokusuke, shiina-hiyori, yamada-albert (orphan sections from ch3/ch4); duplicate ## y1v7 removed from horikita-suzune and miyake-akito after a mis-typed first-block append. Quote fixes: Ibuki’s two camera lines split; Ryuuen’s “have you ever noticed…” cited p.137–138 with ellipsis across footer. Two uncommitted [place:rooftop] rows on ryuuen pushed world/rooftop.html over R12 max_words (3238 > 3000) — removed those place-tag rows (scene evidence kept). bare “Albert” (pp.122, 125–126, 146) is Yamada Albert — volume Coverage-notes bullet. verify y1v7: 679 [says] ALL PASS (21 too short/skipped) + 30 non-says ALL PASS; make check OK (R18 0, R19 82/82); gate exit 0; hash `2eca4fc952f66af0ea617cc42cd3bdd3` twice. New tags: none. Next: ch6 pp.152–196.
+Ch5 “Time to Settle Things” read in two halves (pp.120–135, pp.136–151). Closing ceremony; Ryuuen’s shortlist down to about ten (Sudou, Miyake, Hirata still standing); Shiina declines the hunt for the library; rooftop trap — camera sprayed black, Albert on standby below, Karuizawa summoned alone under past-exposure threat with X warned in parallel; sec. 5.2 interrogation and Manabe leverage; Ibuki holds her while Ishizaki fetches buckets; first dousing. Half 2: school-rule loopholes and the silent-upperclassman rule (Komiya/Kondou evidence); second bucket; sec. 5.3 Karuizawa POV — four dousings, junior-high hell on loop, cruise-ship setup revealed (X used Hirata to place her, then let Manabe bully her for evidence); lips form “K…t…”, then “K-knock…it…off”; she never gives the name; Ryuuen’s respect; “Goodbye, fake me.” People stamped ch5 → p.151: sakagami, horikita-suzune, miyake-akito, shiina-hiyori, kushida-kikyou, kouenji-rokusuke (half1-only, EOF stamps), hirata-yousuke, sudou-ken, manabe-shiho, yamada-albert, ibuki-mio, ishizaki-daichi, karuizawa-kei, ryuuen-kakeru, komiya-kyogo, kondou-reo, morofuji-rika, ayanokouji-kiyotaka (half2 stamps). Structure: ## y1v7 + start inserted for kondou-reo, kouenji-rokusuke, shiina-hiyori, yamada-albert (orphan sections from ch3/ch4); duplicate ## y1v7 removed from horikita-suzune and miyake-akito after a mis-typed first-block append. Quote fixes: Ibuki’s two camera lines split; Ryuuen’s “have you ever noticed…” cited p.137–138 with ellipsis across footer. Two uncommitted [place:rooftop] rows on ryuuen pushed world/rooftop.html over R12 max_words (3238 > 3000) — removed those place-tag rows (scene evidence kept). bare “Albert” (pp.122, 125–126, 146) is Yamada Albert — volume Coverage-notes bullet. verify y1v7: 679 [says] ALL PASS (21 too short/skipped) + 30 non-says ALL PASS; make check OK (R18 0, R19 82/82); gate exit 0; hash `2eca4fc952f66af0ea617cc42cd3bdd3` twice. New tags: none. Next: ch6 pp.152–196.
 
 ### y1v7 ch6 (pp.152–196) — walked
 Ch6 “Intersecting Thoughts” read in two halves (pp.152–174, pp.175–196). Half 1: Chabashira’s closing lecture (promotion almost guaranteed); Karuizawa’s emergency text; mall group — Satou date accepted, Haruka’s off-campus itch, Akito no-tail report, Airi’s quiet Christmas; private-point test (100k/test-point pre-legislated, disclosure conditional — one mystery solved); Chabashira’s chairman briefing and resignation; Manabu arrives as stair witness; English door with Albert; Ibuki defends Ayanokōji as too soft to be X (island underwear sabotage); camera/water/dirt retelling proves X; mutual-destruction stalemate. Half 2: Ibuki objects and is slapped; door shut; Ishizaki punch caught, Albert’s heavy swing caught on purpose, both dropped; Ibuki kick flurry ends in a neck throw; full trap explanation (Manabe recording → Ryuuen’s trail → planned violence); Ayanokōji vs Ryuuen fear/pain dialogue, Ryuuen knocked out; Karuizawa collapses into his arms; stair witness blocks the report; order-of-foes lecture; Ryuuen transfers points to Ibuki, volunteers for expulsion, rewrites the story; Ayanokōji spares him as a live Class D tool. People stamped ch6 → p.196: half1-only EOF — ike-kanji, yukimura-teruhiko, hasebe-haruka, miyake-akito, sakura-airi, satou-maya, shinohara-satsuki, yamauchi-haruki, hirata-yousuke; half2 body stamps — ayanokouji-kiyotaka, chabashira-sae, horikita-manabu, horikita-suzune, ibuki-mio, ichinose-honami, ishizaki-daichi, karuizawa-kei, manabe-shiho, ryuuen-kakeru, sakayanagi-arisu, sudou-ken, yamada-albert, katsuragi-kouhei, komiya-kyogo, kondou-reo, kouenji-rokusuke. Structure: ## y1v7 + start inserted before first orphan section for chabashira-sae, satou-maya, yamauchi-haruki; shinohara-satsuki true first-block. Quote fixes: chabashira Karuizawa line cited p.162–163 with ellipsis; ayanokouji “no trick” line p.172–173; ryuuen “What’s the matter, Ibuki?” split from the following pair; six more cross-page quotes joined with ellipsis (ayanokouji rematch, ishizaki bad-guy, ryuuen entertained/underestimated/apologize/violence-shows). Ibuki “Iwon’t” kept as printed. R18: volume note “in people ledgers” reworded. R12: ten uncommitted [place:rooftop] rows pushed world/rooftop.html to 7756 > 3000 — all ch6 place-tag rows removed (scene evidence kept). Coverage notes: bare Albert = Yamada; bare Horikita mostly Suzune (p.165 elder); bare Keisei/Yukimuu = Yukimura; bare Haruka = Hasebe; bare Akito = Miyake (empty alias cells). Attribution gap: p.176 three-line reply untagged. verify y1v7: 1132 [says] ALL PASS (52 too short/skipped) + 55 non-says ALL PASS; make check OK (R18 0, R19 82/82); gate exit 0; hash `13bd47a168a32c287a29f03204acc5f7` twice. New tags: none. Next: ch7 pp.197–207.
@@ -2160,7 +2160,7 @@ DONE stamp, gate, ship; then next volume per owner order.
 ### Expulsions topic pattern fix + y1v7.5 R18/R19 content fixes
 Owner: edit AGENTS.md, then fix the expulsion page; hand-curated membership,
 nothing auto-placed (new AGENTS.md rule 12; rule 3 amended so AGENTS.md may
-be edited on a standing instruction; §5 checklist extended to sample any
+be edited on a standing instruction; sec. 5 checklist extended to sample any
 topic that would republish new rows). `content/topics.tsv` expulsions
 pattern `expel|drop out|leaving the school|vote` → `expel|drop out|leaving
 the school` (bare `vote` matched ordinary elections and “devo**ted**”;

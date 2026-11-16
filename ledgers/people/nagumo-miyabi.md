@@ -35,7 +35,7 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y1v5 → start -->
 
-### y1v5 p.68–85 — Ch.5 §5: The practice pitch
+### y1v5 p.68–85 — Ch.5 sec. 5: The practice pitch
 [scene] (p.76) Nagumo strolls onto the soccer pitch mid-practice and is greeted by Kushida by nickname.
 [says] (p.76) “I see you’re on a date.”
 [says] (p.76) “We don’t really hold back here, so I think this is a good way to measure our players’ strengths,”
@@ -46,7 +46,7 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y1v5 ch5 → p.85 -->
 
-### y1v5 p.183–185 — Ch.9 §9: the second-year anchor’s politics
+### y1v5 p.183–185 — Ch.9 sec. 9: the second-year anchor’s politics
 [scene] (p.183) Nagumo runs the second-year anchor leg and tells the student council president he will remake the school as a meritocracy.
 [says:nagumo-miyabi] (p.184) “Looks like victory is ours this time, President Horikita. I would’ve liked to run against you directly, if possible.”
 [says:nagumo-miyabi] (p.184) “Looks like we’re going to win in overall points, too. Guess this is the dawn of a new era, eh?”

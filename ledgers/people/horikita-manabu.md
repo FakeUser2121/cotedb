@@ -52,7 +52,7 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 
 <!-- walk: y1v2 → start -->
 
-### y1v2 p.193–196 — Ch.6 §6.1: the president at the head of the table
+### y1v2 p.193–196 — Ch.6 sec. 6.1: the president at the head of the table
 [scene] (p.193) The student council room on the fourth floor; he sits in the back and does not look at his sister as she enters.
 [says] (p.193) "Because I am quite busy, there are certain agenda topics upon which I will defer. As a general rule, though, I would prefer to attend to these issues, as I’m entrusted to lead this student council."
 [note] (p.194) Chabashira’s probe about whether his presence is chance does not move him at all; the narrator notes his record — Class A on entry, student council secretary, president by December of his first year on an overwhelming vote.
@@ -60,7 +60,7 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [says] (p.196) "Regardless which party called the other over, the fact remains that it was a one-sided fight between Sudou and the other students. We can clearly see that from the injuries they sustained. We have no choice but to come up with a conclusion based on that."
 [trait] (p.196) He decides the case on visible injuries and closes the evidentiary question before Class D has finished speaking; the narrator describes his intervention as wanting "to draw a conclusion as soon as possible."
 
-### y1v2 p.199–204 — Ch.6 §6.1: witness and photograph
+### y1v2 p.199–204 — Ch.6 sec. 6.1: witness and photograph
 [says] (p.199) "Are you finished with your claims now, Class D?"
 [note] (p.199) The question lands after Horikita’s martial-arts argument and is described as "few and icy," carrying the implication that Class D should have said nothing.
 [says] (p.197) "I’ll allow it. However, please answer more quickly next time."
@@ -70,7 +70,7 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [says] (p.204) "Thank you, Sakura-san."
 [note] (p.204) The thanks is the only courtesy the hearing gives her before the cross-examination resumes.
 
-### y1v2 p.208–209 — Ch.6 §6.1: the retrial and the expulsion warning
+### y1v2 p.208–209 — Ch.6 sec. 6.1: the retrial and the expulsion warning
 [says] (p.208) "So then…what do you mean?"
 [note] (p.208) It is the first time he looks directly at his sister in the hearing.
 [says] (p.208) "That’s enough. Continuing this discussion would just be a waste of time."
@@ -81,7 +81,7 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [rule] (p.208–209) The retrial is set for 4:00 PM the next day, and if neither side is proven to have lied or admits fault, judgment falls back on the collected evidence with expulsion as a possible outcome.
 [note] (p.209) The escalation is deliberate: the charge shifts from a fight to which class lied to the school.
 
-### y1v2 p.210–212 — Ch.6 §6.1: the corridor conversation
+### y1v2 p.210–212 — Ch.6 sec. 6.1: the corridor conversation
 [says] (p.210) "You’re still here?"
 [says] (p.210) "What are you planning to do?"
 [says] (p.211) "I thought that when you came here with Suzune, you’d unveil some kind of master plan."
@@ -100,14 +100,14 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 
 <!-- walk: y1v2 ch6 → p.219 -->
 
-### y1v2 p.244–246 — Ch.7 §7.5: the withdrawal ruling
+### y1v2 p.244–246 — Ch.7 sec. 7.5: the withdrawal ruling
 [says] (p.244) "Did you want to come to an agreement? Or did you already do something to the effect?"
 [action] (p.244) He gazes sharply at the Class C students while they signal that they do not want to compromise.
 [says] (p.245) "If you wish to withdraw your complaint, we have no intention of fighting it. We accept."
 [note] (p.245) The regulations line that demands a point payment for the deliberation expenses is printed with no speaker attached.
 [says] (p.246) "Very well, the proceedings have come to an end. We will now call this discussion closed."
 
-### y1v2 p.252–253 — Ch.7 §7.6: the thanks, and the secretary seat
+### y1v2 p.252–253 — Ch.7 sec. 7.6: the thanks, and the secretary seat
 [says] (p.252) "Excellent work."
 [says] (p.252) "I have approved Class C’s request to withdraw their complaint."
 [says] (p.252) "So this was all to prove that Sakura wasn’t a liar, as you said? I suppose if Class C withdrew their complaint, then talk would spread quite naturally. If Sudou or Sakura weren’t the liars, then Class C was."
@@ -201,7 +201,7 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 
 <!-- walk: y1v5 ch2 → p.38 -->
 
-### y1v5 p.68–85 — Ch.5 §5: The brother, revealed to the group
+### y1v5 p.68–85 — Ch.5 sec. 5: The brother, revealed to the group
 [scene] (p.84) Horikita’s brother is named as the student council president when she asks for the relay anchor.
 [rel:horikita-suzune] (p.84) “It’s because I think my brother…is an anchor,” — the reason the group had been pressing for.
 [rel:nagumo-miyabi] (p.76) Nagumo is framed as the candidate whose abilities are on par with the president’s.
@@ -209,21 +209,21 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 
 <!-- walk: y1v5 ch5 → p.85 -->
 
-### y1v5 p.95–96 — Ch.6 §6: first again
+### y1v5 p.95–96 — Ch.6 sec. 6: first again
 [scene] (p.95) Horikita Manabu runs in the second group of the third-year 100-metre dash as his sister watches.
 [action] (p.96) Naturally takes first place.
 [rel:horikita-suzune] (p.96) She answers Ayanokōji’s comment as simple fact: her brother is perfect and always number one.
 [says:horikita-suzune] (p.96) “That’s because my brother is perfect.”
 [note] (p.95) Ayanokōji adds that the president does not care about his little sister’s feelings in the slightest — his read, not a page quote.
 
-### y1v5 p.135 — Ch.6 §6: passing mention
+### y1v5 p.135 — Ch.6 sec. 6: passing mention
 [scene] (p.135) Horikita keeps staring at her brother during the upperclassmen’s cavalry — someone she cannot approach.
 [rel:horikita-suzune] (p.135) The distance is both social and physical while she is injured and the class is collapsing.
 [note] (p.135) The president does not act on or answer the look on these pages.
 
 <!-- walk: y1v5 ch6 → p.143 -->
 
-### y1v5 p.157 — Ch.7 §7.2: speaks to Suzune at the entrance
+### y1v5 p.157 — Ch.7 sec. 7.2: speaks to Suzune at the entrance
 [scene] (p.157) Walking in with Tachibana, Manabu stops and asks his sister whether she understands Class D’s situation.
 [role:student-council] (p.157) Student council president; Tachibana, secretary, is with him.
 [says:horikita-manabu] (p.157) “Do you understand Class D’s situation right now?”
@@ -231,7 +231,7 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 
 <!-- walk: y1v5 ch7 → p.159 -->
 
-### y1v5 p.178 — Ch.8 §8.3: named as the one she runs for
+### y1v5 p.178 — Ch.8 sec. 8.3: named as the one she runs for
 [scene] (p.178) Horikita tells Sudou the prim-and-proper president is her older brother and why she chases his regard.
 [rel:horikita-suzune] (p.178) “He’s my older brother.”; far from good because she lacks talent; she chases Class A for his respect.
 [says:horikita-suzune] (p.178) “That’s why I’ve been running straight ahead, not caring what anyone else thinks of me.”
@@ -239,7 +239,7 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 
 <!-- walk: y1v5 ch8 → p.180 -->
 
-### y1v5 p.183–188 — Ch.9 §9: the relay one-on-one
+### y1v5 p.183–188 — Ch.9 sec. 9: the relay one-on-one
 [scene] (p.183) The president runs third-year Class A’s anchor; on the back straight he stops still to race Ayanokouji after the first-year’s challenge.
 [role:student-council] (p.183) Among the chosen elites in the mixed 1200-metre relay.
 [says:horikita-manabu] (p.184) “Do you seriously plan to change this school?”

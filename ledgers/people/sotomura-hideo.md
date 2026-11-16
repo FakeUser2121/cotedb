@@ -6,7 +6,7 @@ char_id: sotomura-hideo · class: Class 1-D (enrolled April 2015) · status: min
 
 <!-- walk: y1v4 → start -->
 
-### y1v4 p.32–36 — Ch.2 §2.3: the Professor at the briefing table
+### y1v4 p.32–36 — Ch.2 sec. 2.3: the Professor at the briefing table
 [scene] (p.32) Already seated in Room 204 beside Yukimura when Ayanokōji arrives for the zodiac briefing.
 [says] (p.32) “So, one of the remaining two spots belongs to Ayanokouji-dono, I see! Most agreeable!”
 [trait] (p.32) Introduced as “The Professor”: overweight first-year in glasses, the male-otaku stereotype, deep in history and machinery — though his speech and inflection come off unintelligible, he somehow communicates.
@@ -14,7 +14,7 @@ char_id: sotomura-hideo · class: Class 1-D (enrolled April 2015) · status: min
 [rel:ayanokouji-kiyotaka] (p.32) Greets him with the nerdy “Ayanokouji-dono.”
 [rel:yukimura-teruhiko] (p.32) The unexpected pairing — the narrator notes the Professor and Yukimura don’t normally sit together.
 
-### y1v4 p.37, p.41, p.51 — Ch.2 §2.3: the Professor’s interjections
+### y1v4 p.37, p.41, p.51 — Ch.2 sec. 2.3: the Professor’s interjections
 [scene] (p.37) Three appearances inside the briefing day: the three-heads quip, the confused handout, and the anime-powered exit.
 [says] (p.37) “Heh. But you know, three heads are better than one. Thus, if the three of us join together, we might be able to surpass the good Hirata-dono, my dear lady,”
 [action] (p.41) Cocked his head over the handout alongside Karuizawa, “as if wracking their brains.”
@@ -37,7 +37,7 @@ char_id: sotomura-hideo · class: Class 1-D (enrolled April 2015) · status: min
 [scene] (p.65) Named in the grade-comparison talk as the measure of one gap.
 [note] (p.65) The score-theory line puts the gap between the speaker and the Professor beside the one with Hirata — too many details don’t fit the theory.
 
-### y1v4 p.78–88 — Ch.3 §3.1: the Professor in Rabbit
+### y1v4 p.78–88 — Ch.3 sec. 3.1: the Professor in Rabbit
 [scene] (p.78) Meets Ayanokōji and Yukimura outside the Rabbit room full from three heavy lunches, then sits through the first discussion as the otaku who votes the convenient way.
 [says] (p.78) “Sorry to keep you waiting! Urrp! Urp! If you eat three heavy meals for lunch, you’ll naturally have a full belly. I considered going on a diet, but it seemed futile,” said the Professor.
 [says] (p.78) “If you’re not at full strength, there’ll be trouble. It’s like choosing a higher difficulty setting in a video game, wouldn’t you say?” the Professor responded.
@@ -58,7 +58,7 @@ char_id: sotomura-hideo · class: Class 1-D (enrolled April 2015) · status: min
 [rel:machida-kouji] (p.88) Votes with the Class A pitch he praises.
 [rel:manabe-shiho] (p.88) His sentiment “spread to Class C” and she agrees next.
 
-### y1v4 p.97, p.107 — Ch.3 §3.2–§3.4: hunger and the Sunrise gag
+### y1v4 p.97, p.107 — Ch.3 sec. 3.2–sec. 3.4: hunger and the Sunrise gag
 [scene] (p.97) Last out of the first Rabbit room with the Class B trio and Ibuki; back for the second gathering’s one comic beat.
 [says] (p.97) “I’m hungry again. I wonder if there’s a lunch buffet,” mused the Professor.
 [trait] (p.97) The narrator: how can he be hungry again after three heavy lunches in an hour — “What kind of body lets you digest all that food in just an hour?!” — and doubts the heartfelt advice will reach him.
@@ -74,7 +74,7 @@ char_id: sotomura-hideo · class: Class 1-D (enrolled April 2015) · status: min
 [scene] (p.126) Named as the group member Ayanokōji expects to report on — and the one he can’t read.
 [note] (p.126) Ayanokōji expects to find out whatever he needs about the Professor and Yukimura, but is at a complete loss with Karuizawa.
 
-### y1v4 p.132–139 — Ch.4 §4.0–4.1: the VIP alibi and the card heat
+### y1v4 p.132–139 — Ch.4 sec. 4.0–4.1: the VIP alibi and the card heat
 [scene] (p.132) Named as Yukimura’s Rabbit-group partner in the room rant, then one of the five at Ichinose’s card table where the Professor fires up and cools off.
 [rel:yukimura-teruhiko] (p.132) Yukimura vouches he is not the VIP in the same breath as his own denial — “Neither is Sotomura, by the way.”
 [rel:karuizawa-kei] (p.131) The partner pair Yukimura names as unwinnable: “Why am I partnered with Karuizawa and Sotomura?”
@@ -87,7 +87,7 @@ char_id: sotomura-hideo · class: Class 1-D (enrolled April 2015) · status: min
 [scene] (p.152) Named in the exchange where the Professor’s non-VIP status is known but withheld.
 [note] (p.152) He says he doesn’t really know about Karuizawa or the Professor — err, Sotomura — having heard from Yukimura that neither was the VIP, and deciding it best to leave that unsaid.
 
-### y1v4 p.155–160 — Ch.4 §4.2: the chair and the exit
+### y1v4 p.155–160 — Ch.4 sec. 4.2: the chair and the exit
 [scene] (p.155) Arrives coincidentally with Karuizawa, earns her disgust, then gives the pompous non-notice answer before heading back to the room.
 [rel:karuizawa-kei] (pp.155-156) Open disgust at his presence; she moves to the back the moment they enter together.
 [rel:yukimura-teruhiko] (pp.159-160) “You think so? I can’t say that I noticed anything of the sort,” answered the Professor — tone ridiculously pompous; Yukimura’s vibe read called right.
@@ -102,7 +102,7 @@ char_id: sotomura-hideo · class: Class 1-D (enrolled April 2015) · status: min
 [note] (p.222) He mutters what he should do; told to think for himself because the show is voluntary, he says he doesn’t want to get wrapped up in this.
 [note] (p.224) He stammers Yukimura-dono’s name in shock at the VIP screen — as astonished as Karuizawa that Yukimura was the VIP.
 
-### y1v4 p.225 — Ch.5 §5.2: named in the cover trio
+### y1v4 p.225 — Ch.5 sec. 5.2: named in the cover trio
 [scene] (p.225) Yukimura cites him as one of the three who agree the reveal was for the best.
 [rel:yukimura-teruhiko] (p.225) “I’m sure you, Sotomura, and Karuizawa would agree this was for the best.”
 [rel:karuizawa-kei] (p.225) The third of the trio — the real VIP neither of them knew about yet.
@@ -127,7 +127,7 @@ char_id: sotomura-hideo · class: Class 1-D (enrolled April 2015) · status: min
 
 <!-- walk: y1v5 → start -->
 
-### y1v5 p.39–53 — Ch.3 §3: The Professor’s bad luck
+### y1v5 p.39–53 — Ch.3 sec. 3: The Professor’s bad luck
 [scene] (p.49) Sotomura — “the Professor” — is called up for the grip-strength test alongside Sudou, then loses the rock-paper-scissors for the scavenger hunt.
 [rel:hirata-yousuke] (p.49) Hirata pairs him with Sudou for simultaneous measurements: “Well then, let’s have Sotomura-kun stand next to you and take his measurement simultaneously, Sudou-kun”
 [feat] (p.50) Posts 42 kilograms of grip strength, the class’s lowest printed score.
@@ -136,13 +136,13 @@ char_id: sotomura-hideo · class: Class 1-D (enrolled April 2015) · status: min
 
 <!-- walk: y1v5 ch3 → p.53 -->
 
-### y1v5 p.54–67 — Ch.4 §4: Sits out the tests
+### y1v5 p.54–67 — Ch.4 sec. 4: Sits out the tests
 [scene] (p.57) Sotomura — the Professor — is named with Kōenji as one of the few who sit out the aptitude testing.
 [trait] (p.57) opts out of the physical tests while roughly 90 percent of the class takes part.
 
 <!-- walk: y1v5 ch4 → p.67 -->
 
-### y1v5 p.97–98 — Ch.6 §6: the Professor bows out
+### y1v5 p.97–98 — Ch.6 sec. 6: the Professor bows out
 [scene] (p.97) The referee calls for Sotomura before the hurdle race; he tries to take an absence for an upset stomach.
 [says] (p.97) “Would it be permissible for me to take an absence?”
 [rel:sudou-ken] (p.97) Sudou glares him into running — knocking every hurdle is better than disqualification.
@@ -161,7 +161,7 @@ char_id: sotomura-hideo · class: Class 1-D (enrolled April 2015) · status: min
 
 <!-- walk: y1v6 → start -->
 
-### y1v6 p.17 — Ch.2 §2.1: “the Professor” in tow
+### y1v6 p.17 — Ch.2 sec. 2.1: “the Professor” in tow
 [scene] (p.17) Named as leading Ike and Yamauchi out of the classroom toward Keyaki Mall.
 [passing mention] (p.17) Called “the Professor” in narration; no dialogue on these pages.
 
@@ -187,7 +187,7 @@ char_id: sotomura-hideo · class: Class 1-D (enrolled April 2015) · status: min
 [rel:sudou-ken] (p.77) Target of the glare after “Haruki and the Professor weren’t really much help.”
 [note] (p.77) No dialogue of his own on these pages.
 
-### y1v6 p.169–170 — Ch.6 §6.7: the Professor on the mass letter
+### y1v6 p.169–170 — Ch.6 sec. 6.7: the Professor on the mass letter
 [scene] (p.169) Caught in the lobby crowd; tells Ayanokōji every first-year received the same missive.
 [says:sotomura-hideo] (p.169) “Oh, Ayanokouji, is that you? It seems that all us first years somehow received the same missive in our mailboxes.”
 [says:sotomura-hideo] (p.170) “Yes, it would seem so!”

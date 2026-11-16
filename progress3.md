@@ -12,7 +12,7 @@ by what a reader asks. Measured before rebuilding:
   content siloed by *type*, so "what happens in Volume 5" had no home.
 - Internal agent taxonomy leaked into public nav: "Main / Mid / Background",
   "dossier", "walk", "checkpoint", char_id lines, `cote_kb.db` notes.
-- The locked plan (§6) requires a Story axis, a Topics axis, reader-intent doors
+- The locked plan (sec. 6) requires a Story axis, a Topics axis, reader-intent doors
   and an Appendix. None existed — there was a `vol1/` bolt-on instead of a
   Year 1 → Year 3 spine.
 - No spoiler control, no citation chips (both locked requirements).
@@ -874,7 +874,7 @@ that already owned `people/ryuuen-kakeru.html`, so the page count stayed at 162
 and the change was a replacement instead of a duplication: the lede that read
 "Nothing about Ryūen Kakeru has been read line by line yet. This encyclopedia
 only publishes what someone has read and anchored to a page…" gave way to two
-anchored sections, "Ch.7 §7.4: named before he is seen" (p.241) and "Ch.7 §7.6:
+anchored sections, "Ch.7 sec. 7.4: named before he is seen" (p.241) and "Ch.7 sec. 7.6:
 the boy in the corridor" (pp.254–255). He is grouped as a principal character in
 the People rail, not a minor page, because the roster puts him in a top tier — the
 same rule that sent Kanzaki to `people/minor/k.html` does not apply to him.
@@ -1218,7 +1218,7 @@ block of the Year 1 Volume 4 page: 22 people ledgers extended, one
 opened this chapter (beppu-ryouta) — 177 pages, 48 assets, search
 index rebuilt. The chapter carries the email-show Outcome #1 plan,
 Ichinose’s call-and-SIM dismantling of the double swap (real VIP
-Karuizawa), and the §5.3 café results (Class C +150 cl / +5.5M pr;
+Karuizawa), and the sec. 5.3 café results (Class C +150 cl / +5.5M pr;
 Ryuuen’s Kushida reveal and next-target threat). Quotes: 1074 [says]
 spans (31 skipped as too short) and 314 non-says, all corpus-exact
 after six first-run fixes (four cross-page … splits, two exact-text

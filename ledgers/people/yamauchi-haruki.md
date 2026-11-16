@@ -102,7 +102,7 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 
 <!-- walk: y1v2 → start -->
 
-### y1v2 p.19, p.27–28 — Ch.2 §2.2 & §2.4: crew member, key-club member
+### y1v2 p.19, p.27–28 — Ch.2 sec. 2.2 & sec. 2.4: crew member, key-club member
 [scene] (p.19) Lunch ensemble: "you’ve got people like Ike and Yamauchi, who aren’t very popular with girls. They eat with their group of guy friends, including Sudou and Hondou, almost every day."
 [back] (p.27–28) One of "the rest of us" who made duplicate keycards to Ayanokōji's room and treat it as the group's meeting spot; Sudou refuses to surrender his clone.
 [trait] (p.19) Still grouped with Ike as the class's non-popular boy clique two months in.
@@ -117,7 +117,7 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [rel:ike-kanji] (p.42) His accusation is spoken to Kushida by name and lands because the class already half-believes it — he says out loud what Sudou has bragged about to him and Ike privately.
 
 
-### y1v2 p.48–52 — Ch.3 §3.1: the other half of the crush council
+### y1v2 p.48–52 — Ch.3 sec. 3.1: the other half of the crush council
 [says] (p.48) “No way. You seriously think she’ll stoop to your level, Ike?”
 [says] (p.48) “H-hey, what are you fantasizing about?! Spill it!” — AK: "Apparently Yamauchi couldn’t stand the fact that Ike could do as he pleased in his fantasies."
 [says] (p.50) “Damn it! I won’t be outdone! I’ve also thought of a few things!”
@@ -129,7 +129,7 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [rel:horikita-suzune] (p.51) He is lost in a Horikita fantasy while she is, at that same table, refusing Sudou outright — the gap between his version of her and the real one is the joke AK records.
 
 
-### y1v2 p.54, p.61–63 — Ch.3 §3.2–3.3: held in the classroom, then frozen in Class B
+### y1v2 p.54, p.61–63 — Ch.3 sec. 3.2–3.3: held in the classroom, then frozen in Class B
 [scene] (p.61) Conscripted as the waiting crew while Kushida chases Horikita: "“Okay!” the boys chorused."
 [scene] (p.63) In the doorway of Class B: "Even Ike and Yamauchi appeared to be shaking in their boots. They simply stood frozen in the classroom doorway, unable to move." — "The pair, comrades in vexation, grasped each other’s arms."
 [says] (p.63) “Don’t panic, Ike. It’s okay. We’re in Kushida-chan’s class, so we’re one step ahead of them!”
@@ -138,7 +138,7 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 
 <!-- walk: y1v2 ch3 → p.65 -->
 
-### y1v2 p.79–82 — Ch.4 §4.1: he has the only confident opinion of Sakura, and it is invented
+### y1v2 p.79–82 — Ch.4 sec. 4.1: he has the only confident opinion of Sakura, and it is invented
 [scene] (p.79) He is the one surprised by Sudou's blankness about the girl who sits near him: "Yamauchi appeared quite surprised."
 [says] (p.80) “Can’t we just go to Sakura’s room right now? We don’t have much time.” — AK: "I thought that Yamauchi’s proposal seemed innocuous, but it all came down to Sakura’s personality and behavior."
 [says] (p.81) “She’s plain, that’s it. Talk about a waste, man. Like pearls before swine.” — AK's staging of the line: "While Yamauchi spoke, he gestured with his hands near his chest, to represent Sakura’s breasts."
@@ -147,17 +147,17 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [trait] (p.81–82) He will say anything about a girl he has never spoken to and retract it in the same breath to stay socially safe; his cruelty is reflexive and his cowardice immediate.
 [rel:sakura-airi] (p.82) The volume's only claim that anyone ever confessed to her is a claim he withdraws under pressure — and the withdrawal describes her as "gloomy and ugly" while doing it.
 
-### y1v2 p.129, p.148 — Ch.4 §4.8, §4.11: he is a category in someone else's phone etiquette
+### y1v2 p.129, p.148 — Ch.4 sec. 4.8, sec. 4.11: he is a category in someone else's phone etiquette
 [feat] (p.129) He is ruled out of Kushida's errand before it is offered: "If she’d invited Ike or Yamauchi along, they would have had eyes only for Kushida."
 [status] (p.148) In the narrator's ranking of callers he is in the call-back-later tier: "If it were Ike or Yamauchi, I’d call them back later. But if it were Horikita…I’d have to think about it."
 [note] (p.129–148) He has no scene of his own in the second half of Chapter 4; both mentions are the class's assumptions about him rather than anything he does.
 
 <!-- walk: y1v2 ch4 → p.151 -->
 
-### y1v2 p.167–168 — Ch.5 §5.3: the magazine fight
+### y1v2 p.167–168 — Ch.5 sec. 5.3: the magazine fight
 [note] (p.167) "Ike and Yamauchi scrambled over a weekly manga magazine" during the lunch strategy meeting; the exchange that follows has one untagged line, and the second speaker is not assigned here.
 
-### y1v2 p.179–180 — Ch.5 §5.6: he half-sees it first
+### y1v2 p.179–180 — Ch.5 sec. 5.6: he half-sees it first
 [note] (p.180) The narration marks him as persuaded before Ike: "Ike laughed, but Yamauchi’s expression stiffened."
 [says] (p.180) "Hey, Ike… You know, when I actually get a good look at her, I…think she probably does look a little like Sakura."
 [says] (p.180) "Those are simplistic ways to identify somebody…"
@@ -172,7 +172,7 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 
 ## y1v3
 
-### y1v3 p.13–17, p.73–98 — Ch.2 §2.0–§2.8: the target-switch, the matches, and bringing Ibuki in
+### y1v3 p.13–17, p.73–98 — Ch.2 sec. 2.0–sec. 2.8: the target-switch, the matches, and bringing Ibuki in
 [scene] (p.13) Deck of the liner; insults Sudou about his near-expulsion while Sudou laughs it off.
 [rel:ike-kanji] (p.16–17) Goes oddly quiet during Ike's Kushida campaign; never raises the subject again.
 [rel:sakura-airi] (p.73–77) Confides the plan in a whisper — "I think…I’m gonna go for Sakura" — framing her as the reachable backup after Kushida; asks Ayanokōji to leave him alone with her.
@@ -184,7 +184,7 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 
 <!-- walk: y1v3 ch2 → p.99 -->
 
-### y1v3 p.141–142 — Ch.4 §4.3: the shirtless accusation
+### y1v3 p.141–142 — Ch.4 sec. 4.3: the shirtless accusation
 [scene] (p.141) Dashes over when Ike calls, grabs his arm and shoves him away from Sakura.
 [says] (p.141) “H-h-hey, you! Why were you all alone and shirtless with Sakura?! Why?! Huh?!”
 [rel:sakura-airi] (p.141) The whole challenge is the pairing — he puts himself between them in front of the camp.
@@ -209,13 +209,13 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [action] (p.164) Apologizes and hurries away, leaving Ayanokōji holding the evidence.
 [status] (p.165) Stands still through the pat-down; nothing is found on him.
 
-### y1v3 p.171–178 — Ch.6 §6.1: volunteering
+### y1v3 p.171–178 — Ch.6 sec. 6.1: volunteering
 [scene] (p.174) Raises his hand for the girls’ physical work the moment Hirata asks for another boy.
 [says:yamauchi-haruki] (p.174) “Wait. If you’re looking for the guy with the skills, then I’m your man!”
 [trait] (p.174) Whatever the heat of the argument with the girls, he still wants to get closer to them.
 [status] (p.175) Feigned ignorance with Ike when the girls turned on Ayanokōji.
 
-### y1v3 p.194–199 — Ch.6 §6.4: the mud bribe
+### y1v3 p.194–199 — Ch.6 sec. 6.4: the mud bribe
 [scene] (p.194) Happy that Ibuki joined, he eyes Sakura through the forest — and ends up bribed into smearing mud on Horikita’s hair.
 [says:yamauchi-haruki] (p.194) “Hey, that’s great, that’s great! You know, this kinda feels like a harem or something!”
 [rel:sakura-airi] (p.194) Tries to talk to her kindly while staring at her chest.
@@ -235,7 +235,7 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [says:yamauchi-haruki] (p.199) “Huh? B-but if I do something like that, I’ll be killed! No way!”
 [says:yamauchi-haruki] (p.199) “Listen here, dude. No matter how angry you say you are at Horikita, trying to get revenge on her is uncool!”
 
-### y1v3 p.200–202 — Ch.6 §6.5: paid in full
+### y1v3 p.200–202 — Ch.6 sec. 6.5: paid in full
 [scene] (p.200) Delivers the bribe: mud over Horikita’s hair in exchange for Sakura’s address.
 [says] (p.200) “S-Sakura’s e-mail address? Man! I-I guess I have to do this now, huh?”
 [says] (p.200) “Ha ha ha ha! You’re all covered in mud, Horikita! Hilarious!”
@@ -261,7 +261,7 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 
 <!-- walk: y1v4 → start -->
 
-### y1v4 p.19 — Ch.2 §2.0: a hypothetical at the deck restaurant
+### y1v4 p.19 — Ch.2 sec. 2.0: a hypothetical at the deck restaurant
 [scene] (p.19) Named once, hypothetically — what he and Ike would have done at the deck restaurant.
 [note] (p.19) Ayanokōji’s aside: had they been there, they would have “foregone the food and feasted their eyes on the girls instead.”
 
@@ -269,7 +269,7 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [scene] (p.101) Named in a check on whether he had contacted anyone since the discussion ended.
 [note] (p.101) The question whether Yamauchi has gotten in touch since the discussion ended is answered: no, he hasn’t — and the reply asks whether something is the matter.
 
-### y1v4 p.103–105 — Ch.3 §3.3: the neck-grab and the camera stimulus
+### y1v4 p.103–105 — Ch.3 sec. 3.3: the neck-grab and the camera stimulus
 [scene] (p.103) Ambushes Ayanokōji inside the ship over Sakura’s email, nearly chokes him, then walks out of the cabin door with a mission.
 [action] (p.103) Grabs Ayanokōji from behind and tightens on his neck until he taps out — “looking like some sort of oni or an asura.”
 [says] (p.103) “‘What’s the matter’ my ass! You said you’d tell me Sakura’s email address, for chrissakes! And you were talking with Sakura just now! I knew it. You were after her all along!” he shouted.
@@ -295,7 +295,7 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 
 <!-- walk: y1v4 ch3 → p.124 -->
 
-### y1v4 p.179 — Ch.4 §4.4: the contrast name
+### y1v4 p.179 — Ch.4 sec. 4.4: the contrast name
 [scene] (p.179) Named with Ike in Hirata’s compliment — Ayanokōji is “different from Ike-kun and Yamauchi-kun.”
 [rel:hirata-yousuke] (p.179) The comparison class for “amazing.”
 [rel:ayanokouji-kiyotaka] (p.179) “I’m worse than them” — his self-ranking under Yamauchi.
@@ -303,7 +303,7 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 
 <!-- walk: y1v4 ch4 → p.204 -->
 
-### y1v4 p.236 — Ch.5 §5.3: the Rooster who hesitated
+### y1v4 p.236 — Ch.5 sec. 5.3: the Rooster who hesitated
 [scene] (p.236) Reported by Horikita: Rooster group, tried to send the betrayal email, agonized too long, test ended first.
 [rel:horikita-suzune] (p.236) Her report and her prediction he would have guessed wrong — “the moment he hesitated to send that email, it was all over for him.”
 [trait] (p.236) “He wasn’t the cocksure guy he imagined himself to be” — the reckless image broken by one hesitation.
@@ -372,7 +372,7 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 
 <!-- walk: y1v4.5 ch3 → p.107 -->
 
-### y1v4.5 p.132–143 — Ch.5 §5.1: the letter and the plan
+### y1v4.5 p.132–143 — Ch.5 sec. 5.1: the letter and the plan
 [scene] (p.132) He bursts into AK's room on the last days of vacation to demand the day's obedience.
 [says] (p.132) “You’re gonna do what I say today, Ayanokouji!”
 [rel:sakura-airi] (p.133) The printed love letter carries all his feelings — and a monthly-points tribute line.
@@ -395,7 +395,7 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [says] (p.142) “D-don’t use a scary word like ‘judgment’!”
 [says] (p.143) “Isn’t that a sigh of love?”
 
-### y1v4.5 p.150–152 — Ch.5 §5.3: the rejection and the phone
+### y1v4.5 p.150–152 — Ch.5 sec. 5.3: the rejection and the phone
 [scene] (p.150) He arrives stiff for the answer and finds AK already there at Sakura's request.
 [says] (p.150) “Wh-why are you here, Ayanokouji?”
 [says] (p.150) “So, did you read my letter?”
@@ -422,7 +422,7 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 
 <!-- walk: y1v4.5 ch5 → p.152 -->
 
-### y1v4.5 p.163–178 — Ch.6 §6.1–6.4: the pool plot
+### y1v4.5 p.163–178 — Ch.6 sec. 6.1–6.4: the pool plot
 [scene] (p.163) In the group chat he agrees the summer must not end like this — a fresh start after the rejection.
 [says] (p.163) “No, it’s not okay!”
 [says] (p.163) “Invite Sakura for me! Please, I beg you, Ayanokouji!”
@@ -466,7 +466,7 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 
 <!-- walk: y1v5 → start -->
 
-### y1v5 p.23–25 — Ch.2 §2.1: the huddle
+### y1v5 p.23–25 — Ch.2 sec. 2.1: the huddle
 [scene] (p.23) Gathers with Sudou and Ike around Horikita the moment free homeroom starts.
 [rel:ike-kanji] (p.24) The pair voice the demand for a personal shot at points; only Ike’s lines are tagged by the translation.
 [rel:sudou-ken] (p.24) Sudou’s recommended-events claim brushes them off; he and Ike appear frustrated but say nothing.
@@ -474,13 +474,13 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 
 <!-- walk: y1v5 ch2 → p.38 -->
 
-### y1v5 p.54–67 — Ch.4 §4: On the losing end of the demo
+### y1v5 p.54–67 — Ch.4 sec. 4: On the losing end of the demo
 [scene] (p.59) Yamauchi faces Sudou in the tug-of-war demonstration alongside Ike and is pulled down in seconds.
 [rel:sudou-ken] (p.60) Gets dirt kicked at him when Sudou snaps during the coaching session.
 
 <!-- walk: y1v5 ch4 → p.67 -->
 
-### y1v5 p.68–85 — Ch.5 §5: The Sakura defeat still stings
+### y1v5 p.68–85 — Ch.5 sec. 5: The Sakura defeat still stings
 [scene] (p.72) Yamauchi is in the Saturday noodle group, forced-smiling through the talk.
 [rel:sakura-airi] (p.72) Still nursing the summer confession defeat — “Y-yeah.” to Ike’s teasing.
 [rel:sakayanagi-arisu] (p.73) Passes on the class-leader rumor: “From what I’ve heard, people say that she’s the class leader.”
@@ -488,7 +488,7 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 
 <!-- walk: y1v5 ch5 → p.85 -->
 
-### y1v5 p.140–141 — Ch.6 §6: lunch detail
+### y1v5 p.140–141 — Ch.6 sec. 6: lunch detail
 [scene] (p.140) Yamauchi loses rock-paper-scissors and is sent to fetch the group’s lunches.
 [says] (p.140) “Man, I’m starving. I’m gonna inhale this!”
 [action] (p.140) Shows no interest in Sudou’s whereabouts — same as Ike; the three have known each other since day one.
@@ -496,7 +496,7 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 
 <!-- walk: y1v5 ch6 → p.143 -->
 
-### y1v5 p.160 — Ch.8 §8: loses the sub draw
+### y1v5 p.160 — Ch.8 sec. 8: loses the sub draw
 [scene] (p.160) Yamauchi plays rock-paper-scissors with Ike for the scavenger-hunt substitute and loses.
 [passing mention] (p.160) Named only as the other candidate Hirata and Ayanokouji consider for Sudou’s replacement; Ike wins the draw.
 
@@ -512,7 +512,7 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 
 <!-- walk: y1v6 → start -->
 
-### y1v6 p.17–18 — Ch.2 §2.1: the friend group that left
+### y1v6 p.17–18 — Ch.2 sec. 2.1: the friend group that left
 [scene] (p.17) Named as leaving the classroom with Ike and the Professor toward Keyaki Mall, without inviting Ayanokouji.
 [rel:ayanokouji-kiyotaka] (p.17–18) Horikita names him and Ike as the “dear friends” who stopped inviting Ayanokouji out.
 [rel:ike-kanji] (p.17) Leaves with him toward Keyaki Mall.
@@ -532,7 +532,7 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 
 <!-- walk: y1v6 ch3 → p.59 -->
 
-### y1v6 p.77–83 — Ch.5 §5: confused by the score targets
+### y1v6 p.77–83 — Ch.5 sec. 5: confused by the score targets
 [scene] (p.77) Named with the Professor as not much help in the festival by Sudou’s account.
 [rel:sudou-ken] (p.77) Vexed glare at Sudou’s jab.
 [rel:horikita-suzune] (p.78) Asks what the bottom-ten plan means for him.

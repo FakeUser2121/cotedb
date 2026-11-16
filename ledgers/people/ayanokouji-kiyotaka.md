@@ -585,7 +585,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y1v2 → start -->
 
-### y1v2 p.15–18 — Ch.2 §2.1 (July 1): first class points, delayed deposit
+### y1v2 p.15–18 — Ch.2 sec. 2.1 (July 1): first class points, delayed deposit
 [scene] (p.15) July 1, Class D homeroom, abnormally raucous: the first monthly point deposit since enrollment is expected.
 [thinks] (p.15) System recap for the reader: "We used these private points to purchase daily necessities, meals, even electrical appliances. At this school, points are currency. They are very important."
 [thinks] (p.15) "If you didn’t have any private points, you were forced to live day-today without spending money. You couldn’t use real currency anywhere on campus."
@@ -595,7 +595,7 @@ walk: y1v1 → DONE
 [thinks] (p.18) "The sharp-witted Hirata hadn’t missed a beat. Splendid." (Hirata decoding Horikita's "get something")
 [trait] (p.16–19) Reads Chabashira's hedged closing ("If there are still points left, that is.") as deliberate: "There was deeper meaning behind Chabashira-sensei’s words."
 
-### y1v2 p.19–21 — Ch.2 §2.2 (lunch): having friends and still eating alone
+### y1v2 p.19–21 — Ch.2 sec. 2.2 (lunch): having friends and still eating alone
 [thinks] (p.19) "Meanwhile, I don’t really belong anywhere."
 [thinks] (p.19) "However, now I was experiencing a strange phenomenon: I had friends, yet I was still on my own."
 [thinks] (p.19) "I’m over here, guys. It’s okay for you to invite me. My glances were filled with selfishness and anticipation. I was flooded by feelings of self-loathing."
@@ -609,7 +609,7 @@ walk: y1v1 → DONE
 [thinks] (p.20) Notes the quiet bespectacled classmate (Sakura) making her own bento: "She was always alone, and I’d never seen her talk to anyone."
 [trait] (p.21) Sticks to Horikita despite constant insults: "I wished I had a comeback for that, but I couldn’t argue. I just wanted her to cut me a break."
 
-### y1v2 p.22–26 — Ch.2 §2.3 (after school): Horikita, Kushida, and the "hate" chat
+### y1v2 p.22–26 — Ch.2 sec. 2.3 (after school): Horikita, Kushida, and the "hate" chat
 [thinks] (p.22) "There was some value in being able to vanish like a ninja into a crowd. If I hung toward the back of some group of friends, I could pretend I was one of them."
 [says] (p.23) "I don’t really think so. What about you, Horikita? You were the only person who gave Sudou a helping hand."
 [thinks] (p.24) On walking home with Horikita: "Since we didn’t have lunch together or just casually hang out, I found it odd. Then again, we had the same path back to the dormitory."
@@ -621,7 +621,7 @@ walk: y1v1 → DONE
 [says] (p.26) "No need. I’m fine with the Kushida we have now," — "Even though I’d spoken the words, I did feel disgusted with myself."
 [rel:horikita-suzune] (p.19–26) Routine walking-and-talking pair now; she notices he is "quite talkative lately"; he admits he only relaxes around a few specific people ("If she were another girl, I probably wouldn’t have been able to converse normally.").
 
-### y1v2 p.27–38 — Ch.2 §2.4 (night): Sudou's brawl, duplicate keys, Kushida's pressure
+### y1v2 p.27–38 — Ch.2 sec. 2.4 (night): Sudou's brawl, duplicate keys, Kushida's pressure
 [status:points] (p.27) Private balance after the midterm point purchase: "I saw that I had 8,320 private points." — "I had nearly bankrupted myself just to buy the point Sudou needed to pass."
 [thinks] (p.27) "Converted, the points came to roughly 8700 yen. Although that wasn’t a giant improvement, it was still big bucks." (87 class points expected payout)
 [says] (p.27) "Why’re you here? Actually, forget that – how did you even get in?"
@@ -667,7 +667,7 @@ walk: y1v1 → DONE
 [thinks] (p.43) "This was typical of Japanese people. They would follow suit when someone took the lead. Though they probably mocked him in their hearts, they would help Sudou a little bit."
 [thinks] (p.43) "Well, I guessed I didn’t have to take a turn. I wouldn’t be any good at this, anyway. Better to just leave it to them and fade out quietly."
 
-### y1v2 p.44–53 — Ch.3 §3.1 (cafeteria): Horikita's refusal dissected, the boys' romance council
+### y1v2 p.44–53 — Ch.3 sec. 3.1 (cafeteria): Horikita's refusal dissected, the boys' romance council
 [thinks] (p.45) On being ranked: "Apparently I was second to Yamauchi, judging by the 'too.'" (Sudou's "I'm really counting on you too, Ayanokouji.")
 [says] (p.45) "Even if you ask me to help, you do know that there’s not much I can do, right?"
 [thinks] (p.45) "Just as expected, Ike couldn’t come up with how I’d be useful. I looked over at Kushida smugly. It was like I was showing off a talentless person’s power."
@@ -692,7 +692,7 @@ walk: y1v1 → DONE
 [rel:ike-kanji] (p.45) Ike's grudging "At least him being there is better than not, I guess? Probably?" — AK's utility officially unexplained even to his defenders.
 [rel:horikita-suzune] (p.46–47) Publicly defends her reasoning to the boys; Ike reads it as romance-leaning ("She’s important to him, right?").
 
-### y1v2 p.54–64 — Ch.3 §3.2–3.3: roped in by Kushida; the Class B strategy session
+### y1v2 p.54–64 — Ch.3 sec. 3.2–3.3: roped in by Kushida; the Class B strategy session
 [scene] (p.54) Team map: Hirata & Karuizawa lead the "Hero & Gal Team," Kushida the "Beautiful Girl & Entourage Team"; AK tries to slip out.
 [says] (p.54) "What? Do you need something?"
 [thinks] (p.54) "I’m sorry, Kushida. I’m going to steel my heart and refuse your invitation." → [thinks] (p.55) "I couldn’t refuse. Slightly upturned eyes + pleading = lethal." with the willpower-breakdown analogy ("everyone has their breaking point. It’s a human mechanism.").
@@ -726,7 +726,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y1v2 ch3 → p.65 -->
 
-### y1v2 p.66–74 — Ch.4 §4.0–4.1: the class-change rule, and the mean-teacher read
+### y1v2 p.66–74 — Ch.4 sec. 4.0–4.1: the class-change rule, and the mean-teacher read
 [thinks] (p.66) On the search's division of labour: "Meanwhile, I was alone, like always. I could talk to Kushida, but felt disadvantaged when it came to a big group. I couldn’t really talk, so I asked Kushida to fill in me later."
 [thinks] (p.67) The only witness to Horikita's contempt for the grievance session: "As her neighbor, I was the only one who noticed." — and on her book: "At a glance, I saw she was reading Dostoevsky’s Demons. A good choice."
 [rule] (p.68) He is one of two who can authenticate the class-change claim, and he reads the teacher's glance: "Chabashira-sensei shot a quick glance over at Horikita and me. We had tested out that very method ourselves by buying a test point from the school."
@@ -739,7 +739,7 @@ walk: y1v1 → DONE
 [thinks] (p.74) His self-assessment on the canvassing: "I hung behind Kushida, Ike, and the others, trailing them like a ghost. I was impressed, surprised, and in awe of their natural conversation skills... How could they talk with people they’d never met before and behave like old friends? Monsters."
 [thinks] (p.74) On Horikita's refusal of Kushida's invitations, which he watches daily: "my neighbor—who continued to reject Kushida’s invitations, no matter what—sat with a nonchalant expression as she prepared for class."
 
-### y1v2 p.75–82 — Ch.4 §4.1: Horikita names the witness, and he cannot place her either
+### y1v2 p.75–82 — Ch.4 sec. 4.1: Horikita names the witness, and he cannot place her either
 [scene] (p.75) He notices the game Sudou is playing while the meeting works: "the person of interest, Sudou, was completely engrossed in some kind of digital basketball game on his phone... I think the game was called Generation of Miracles or something, but I still didn’t quite understand."
 [thinks] (p.77) "She spoke as if she had already found the hypothetical witness." — and the room's verdict on it: "No one, myself included, really believed her…until we heard her next words."
 [limit] (p.77) Horikita's observation beats his own, and he says so plainly: "I hadn’t noticed that at all. I was genuinely impressed by Horikita’s observational prowess."
@@ -749,7 +749,7 @@ walk: y1v1 → DONE
 [thinks] (p.82) "I could barely match Sakura’s name to a face. I recalled seeing her back when we were making bets. The bet had been about boobs, though. I guess we were birds of a feather after all."
 [scene] (p.85) His taxonomy of the class's four kinds of solitude, with himself as a category: "Kushida and Hirata were proactive and able to open up to just about anyone. Horikita didn’t feel the agony of solitude. So what about Sakura? Did she like being alone, like Horikita? Or was she suffering because she didn’t know how to connect with people, like me?"
 
-### y1v2 p.86–96 — Ch.4 §4.2–4.3: the theory of personal space, and the cameras he had already found
+### y1v2 p.86–96 — Ch.4 sec. 4.2–4.3: the theory of personal space, and the cameras he had already found
 [feat] (p.88) He diagnoses Kushida's failure analytically, in the middle of an awkward conversation, by citing a discipline: "Cultural anthropologist Edward Hall further divided the idea of personal space into four parts. One such zone is the so-called “intimate space.”" — and applies it: "However, Sakura had clearly rejected Kushida. No…rather, it looked like she was running away."
 [thinks] (p.88) What he notices about Sakura's body that nobody else in the room reports: "Sakura concealed her dominant hand while also avoiding eye contact. Even if she weren’t comfortable meeting someone’s eyes, people generally looked in the direction of those to whom they were speaking."
 [thinks] (p.88) His own reading of Kushida's one-to-one manner, held alongside the class's: "Though it was mostly out of formal obligation, Sakura had exchanged numbers with Kushida. Kushida’s behavior in a one on one conversation was different, though. I don’t think Horikita was wrong to feel some discomfort when speaking with Kushida. I’d found something a bit off-putting about it myself."
@@ -762,7 +762,7 @@ walk: y1v1 → DONE
 [scene] (p.95–96) Horikita asks him to walk back and he touches her forehead first: "After hearing that invitation, I reflexively placed my hand against her forehead. It felt nice and cool, but I noticed the softness of her skin." — "It was rare for Horikita to invite me anywhere. With the world going so topsy-turvy, I wondered if it would rain tomorrow."
 [rel:hirata-yousuke] (p.83–84) Hirata briefs him on the witness for Horikita-relay reasons, and invites him to hang out with the couple; AK's interior reaction is the volume's most explicit record of wanting to be included: "Hirata smiled, agreeably. If I were a girl, I would have gone from zero to 100 right there" and "Ahh, I said the exact opposite of what I’d been thinking. Damn, curse my terrible mouth."
 
-### y1v2 p.97–107 — Ch.4 §4.4: the special building, and the friend line he chooses to say
+### y1v2 p.97–107 — Ch.4 sec. 4.4: the special building, and the friend line he chooses to say
 [says] (p.97) "Sudou was the first friend that I made here. I want to help him." — said to Horikita at the scene of the fight; nothing in his narration supports it, and she answers it as a contradiction: "you’re as contradictory as ever, since you’re helping out a friend."
 [says] (p.97) "I decided to take some initiative by myself, since I’m not very good at interacting with Hirata, Kushida, or large groups of people. Being social’s definitely not my forte. I thought everyone would make me run around the school or the classroom today, so I decided to bolt instead. I like to avoid trouble, remember?" — the cover persona, offered as his own explanation for being at the building.
 [says] (p.99) "Of course I haven’t. It’s your job to come up with plans, Horikita. I won’t ask you to save Sudou, but it’d be nice for you to point Class D in the right direction."
@@ -777,7 +777,7 @@ walk: y1v1 → DONE
 [thinks] (p.106) On who decides: "I glanced over to see what Horikita thought... I didn’t really have the power to decide in the first place; that was Horikita’s job."
 [status] (p.107) The information gap is now his explicit grievance against the school: "This was yet another oversight, another instance where Chabashira-sensei had failed to disclose something important... A usual, our teacher didn’t even pretend to give us equal treatment. I felt discriminated against."
 
-### y1v2 p.116–122 — Ch.4 §4.6: walking to school with Class B's representative
+### y1v2 p.116–122 — Ch.4 sec. 4.6: walking to school with Class B's representative
 [thinks] (p.116) "It seemed I could have normal, relationship-building conversations after all."
 [says] (p.116) "I don’t have to leave so early. I usually hang around my room for about 20 minutes." — his answer to her question, "Aren’t you usually a little late?"
 [thinks] (p.116) "Was this the so-called popularity phase I was told would occur three times in my life? I hadn’t experienced it yet; it was about time that I entered my first phase."
@@ -798,7 +798,7 @@ walk: y1v1 → DONE
 [says] (p.121) "I don’t think there’s much point in looking for evidence or another witness. Doing that would be a waste of time and a headache." — his own dismissal of the case he is still working; speaker fixed by her answer, "But you went to the scene of the crime the other day to investigate, right?"
 [thinks] (p.122) "Even though I knew absolutely nothing was going to happen, I was pretty excited. That was what being a man was all about."
 
-### y1v2 p.123–127 — Ch.4 §4.7: he refuses to be the lie in someone else's confession
+### y1v2 p.123–127 — Ch.4 sec. 4.7: he refuses to be the lie in someone else's confession
 [says] (p.123) "So, what should I do next?"
 [thinks] (p.123) "No way… Did Ichinose plan to confess to me?!" — the misread the section is built on, corrected in the next line by her "I think someone will confess their feelings to me here".
 [says] (p.124) "Wouldn’t it be better if I weren’t here?"
@@ -816,7 +816,7 @@ walk: y1v1 → DONE
 [thinks] (p.127) "I wondered how Class B’s Ichinose Honami planned to resolve this difficult situation. I had to admit, I was looking forward to seeing it."
 [trait] (p.126–127) The one extended piece of sincere moral advice he gives all volume is about someone else's confession, delivered to a girl who did not ask for it, and followed by walking away before the answer arrives.
 
-### y1v2 p.128–131 — Ch.4 §4.8: the first call she makes to him, and the silence she cannot finish
+### y1v2 p.128–131 — Ch.4 sec. 4.8: the first call she makes to him, and the silence she cannot finish
 [scene] (p.128) "Caller ID displayed the name: Kushida Kikyou. I did a double take to make sure of what I saw. Knowing I wouldn’t have the guts to call her back, I rolled my chair across the room, snatched my phone off the stand, and dove onto the bed."
 [says] (p.128) "I don’t think you should feel responsible, Kushida. Not in the least. Besides, she’s going to get it fixed, right? Since it’s so important to her, wouldn’t she get it repaired no matter what?"
 [thinks] (p.128) He corrects his own answer mid-call: "However, as I spoke I realized it probably wasn’t that simple." and "It was probably similar to how someone might feel about dining alone in a restaurant."
@@ -834,7 +834,7 @@ walk: y1v1 → DONE
 [note] (p.129–130) One modest reply in this call carries no speaker tag in the translation and is not assigned here: after Kushida credits "you and Hirata" for Class D coming together, an unattributed voice disowns any specialness and is answered, "I think Hirata would definitely say the same thing."
 [rel:kushida-kikyou] (p.128–131) She calls him first, late, to ask a favour; he reports her near-confession and does not ask her to finish it: "I lacked the courage to say" and "to her, so I let it go."
 
-### y1v2 p.132–144 — Ch.4 §4.9–4.10: the mall, and the form he fills in himself
+### y1v2 p.132–144 — Ch.4 sec. 4.9–4.10: the mall, and the form he fills in himself
 [scene] (p.132) "Our back and forth felt like the template for a date."
 [thinks] (p.132) "Seeing Kushida in casual attire for the first time was so overwhelming, I couldn’t look away."
 [thinks] (p.133) The gathering he was not told about: "Last week? Really glad I came despite that? What the heck was she talking about?" and "This was the first I’d heard about it. I didn’t recall any previous, hidden event."
@@ -866,7 +866,7 @@ walk: y1v1 → DONE
 [thinks] (p.144) "When entering a subject that I didn’t understand, it was important to find an expert."
 [note] (p.143–144) The object he is shopping for is not named in Chapter 4: it is described only as something with "many similar products" on the display, the visit is booked as a "preliminary inspection", and the purchase is deferred for lack of points.
 
-### y1v2 p.145–151 — Ch.4 §4.10–4.11: the wall around Sakura, and the call that goes nowhere
+### y1v2 p.145–151 — Ch.4 sec. 4.10–4.11: the wall around Sakura, and the call that goes nowhere
 [thinks] (p.145) "Perhaps this was how people became friends, little by little. Even Sakura, who seemed to have hardly interacted with another person ever, was steadily growing closer to Kushida."
 [thinks] (p.145) His stated theory of how to reach an unsociable person, in the same breath as Kushida's practice of it: "If you tried to strong-arm people who weren’t good at socializing, it could backfire. Rather than be grateful, they’d probably find it off-putting. Rather than draw them nearer, being overbearing would probably end up pushing them further away."
 [thinks] (p.146) "The fact that Sakura had waited until now to talk proved that she was more concerned about Sudou’s case than anything else. I wondered if getting a foothold on friendship made her want to cooperate."
@@ -889,7 +889,7 @@ walk: y1v1 → DONE
 [thinks] (p.150) "All of the puzzle pieces I’d collected were too small, and too few. I was able to conjure up several scenarios and speculations, but they all lacked credibility. I didn’t have enough information to come to a definitive decision."
 [thinks] (p.150) Why he will not simply go and ask her: "If I just went up and started talking to Sakura, who normally didn’t talk to anyone, it would make her stand out. She wouldn’t like that."
 
-### y1v2 p.152–158 — Ch.5 §5.0: the last day, and a screen he should not have seen
+### y1v2 p.152–158 — Ch.5 sec. 5.0: the last day, and a screen he should not have seen
 [scene] (p.152) One day before the meeting; the class is united but "it was obvious that we lacked firm, irrefutable evidence".
 [scene] (p.152) A flyer on the bulletin board by the stairway offers points to anyone with information on Sudou and Class C; Kanzaki of Class B posted it on Friday.
 [says] (p.152) "I saw the paper on the bulletin board. Did you post it, Ichinose?"
@@ -904,7 +904,7 @@ walk: y1v1 → DONE
 [thinks] (p.158) What he sees on her phone is never described, only its effect: "The fragment of screen I’d noticed had burned itself into my mind and wouldn’t go away." then "Ichinose might prove a huge obstacle for Horikita in her quest to reach Class A."
 [note] (p.158) The chapter does not name what was on the screen; it stays open.
 
-### y1v2 p.159–177 — Ch.5 §5.1–5.5: the night visit, and a definition of friendship
+### y1v2 p.159–177 — Ch.5 sec. 5.1–5.5: the night visit, and a definition of friendship
 [trait] (p.162) He refuses the obvious reading of Horikita's face and then accepts it as a baffling realization: "In that moment, I had come to a rather baffling realization."
 [note] (p.166) He explains the seating outcome to himself: "It was precisely because they might not make the best team that I’d been appointed as a substitute, I supposed."
 [scene] (p.169) Her email asks him to room 1106; the girls' floor is open to boys, but entry is prohibited after 8:00 PM.
@@ -917,7 +917,7 @@ walk: y1v1 → DONE
 [says] (p.177) The advice he gives her: "For Sudou. For Kushida. For your classmates. Throw all of those thoughts away." then "Tell the truth for your own sake. Do that, and Sudou will be saved. That’s enough."
 [thinks] (p.177) His reason for giving it: "Maybe I did it because I understood how it felt to be wanted."
 
-### y1v2 p.179–188 — Ch.5 §5.6–5.7: proof, and what cannot be fixed by morning
+### y1v2 p.179–188 — Ch.5 sec. 5.6–5.7: proof, and what cannot be fixed by morning
 [says] (p.180) "No, Kushida is definitely right. That’s Sakura. Here."
 [says] (p.180) "You can barely see it, but the door to her dorm room is in this picture."
 [says] (p.180) "Good job noticing this, Kushida."
@@ -933,7 +933,7 @@ walk: y1v1 → DONE
 [says] (p.190) "Don’t forget what I said yesterday. Testify for your own sake, more than anyone else’s."
 [note] (p.190) The sentence is the volume’s thesis carried forward from the club building: the testimony must belong to her, not to Sudō or the class.
 
-### y1v2 p.191–200 — Ch.6 §6.1: the hearing he cannot fix
+### y1v2 p.191–200 — Ch.6 sec. 6.1: the hearing he cannot fix
 [scene] (p.191) Class D’s room before the 4:00 PM hearing; he watches Sudō and Horikita spar and reads Sudō’s cooperation as proof he does not hate her.
 [note] (p.191) His estimate of Sakura is the chapter’s first alarm: "If she was in this psychological state before the meeting had even begun, she might not be able to speak satisfactorily."
 [scene] (p.193) The student council room: three Class C students, Sakagami-sensei, the president and Secretary Tachibana; Horikita freezes at the word "student council."
@@ -943,7 +943,7 @@ walk: y1v1 → DONE
 [action] (p.196–197) He gets up, stands behind Horikita, grips her sides "as hard as I could" and tickles her until she returns to herself, in front of the teachers and the student council.
 [action] (p.196–197) The provocation is deliberate and public: he accepts that he "might be killed later for doing this" but judged that no lesser stimulus would bring her back.
 
-### y1v2 p.202–206 — Ch.6 §6.1: the performance of giving up
+### y1v2 p.202–206 — Ch.6 sec. 6.1: the performance of giving up
 [note] (p.203) His conclusion about Sakagami before the photos: "no matter what response we volleyed back, I was convinced that he’d do anything to block us."
 [says] (p.206) "Horikita, are we really out of options?"
 [says] (p.206) "I’m not very smart, so I can’t really come up with a solution. I do, however, think that we probably should accept the compromise that you have offered us, Sakagami-sensei,"
@@ -952,7 +952,7 @@ walk: y1v1 → DONE
 [feat] (p.206) The surrender speech is a performance aimed at Horikita, not at Sakagami: "I spoke as if we were accepting defeat." He had decided to speak "perhaps out of respect for Sakura’s earlier courage."
 [note] (p.206) The move depends on Sakagami taking it literally, which he does: "In other words, as a declaration of defeat."
 
-### y1v2 p.210–212 — Ch.6 §6.1: the corridor, and what he will not concede
+### y1v2 p.210–212 — Ch.6 sec. 6.1: the corridor, and what he will not concede
 [says] (p.210) "It would’ve ended the same even if you had stepped forward at the beginning. They would’ve fought to discredit your testimony simply because the witness came from Class D. The result would be the same."
 [says] (p.211) "I’m not exactly Zhuge Liang or Kuroda Kanbei. I don’t have any plans."
 [says] (p.211) "Hyperbole, you mean? I don’t think so."
@@ -962,7 +962,7 @@ walk: y1v1 → DONE
 [rel:horikita-manabu] (p.210–212) The first long conversation between them without a crisis forcing it; the narrator finds him "easy to talk to now" and credits "a superior understanding of human nature."
 [trait] (p.211) He separates belief from wish in one sentence, and refuses the president’s framing that his support is merely class loyalty.
 
-### y1v2 p.213–215 — Ch.6 §6.2: leaving the hearing, and Class B’s offer
+### y1v2 p.213–215 — Ch.6 sec. 6.2: leaving the hearing, and Class B’s offer
 [scene] (p.213) The walk back after the hearing; Sakura has stopped crying and the silence between them is comfortable.
 [says] (p.213) "I’m glad. When I was a kid, I used to cry in front of people all the time."
 [says] (p.213) "Yeah, I cried a lot. Maybe 10 or 20 times in front of other people."
@@ -978,7 +978,7 @@ walk: y1v1 → DONE
 [says] (p.215) "You’re still willing to help us?"
 [rel:kanzaki-ryuuji] (p.214–215) Kanzaki argues for the compromise and then stays to search for evidence anyway; the narrator’s verdict is "These were really good people."
 
-### y1v2 p.218 — Ch.6 §6.2: the price of touching Horikita
+### y1v2 p.218 — Ch.6 sec. 6.2: the price of touching Horikita
 [says] (p.218) "If it’s not something really bothersome, sure. I’ll help."
 [says] (p.218) "Wha— Ah, ah!"
 [action] (p.218) Horikita answers the tickling in the hearing with a blow to his side that drops him into the corner, and warns him: "I’ll forgive you for touching me this time. However, next time I’ll pay you back double."
@@ -986,7 +986,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y1v2 ch6 → p.219 -->
 
-### y1v2 p.220–221 — Ch.7 §7.0: the morning walk to the retrial
+### y1v2 p.220–221 — Ch.7 sec. 7.0: the morning walk to the retrial
 [scene] (p.220) Summer morning on the tree-lined path to school; Horikita waits against the handrail specifically for him, and the case is decided the same day.
 [says] (p.220) "Were you waiting for someone, Horikita?"
 [says] (p.220) "I guess if you wanted to confess your feelings, it’d be best just to get the words out."
@@ -998,7 +998,7 @@ walk: y1v1 → DONE
 [says] (p.221) "Hmm?"
 [note] (p.221) Horikita begins "Nothing. After we settle this case," and shuts her mouth; the sentence is never finished.
 
-### y1v2 p.222–225 — Ch.7 §7.1–7.2: Sakura’s first greeting
+### y1v2 p.222–225 — Ch.7 sec. 7.1–7.2: Sakura’s first greeting
 [scene] (p.222) In the classroom Sakura is already at her desk, sitting up straight "as if ready for something," and gives her first morning greeting to both of them.
 [note] (p.222) The reply to Horikita’s "What’s with her?" — "Maybe because of what happened yesterday, she took a step forward on the path to adulthood?" — carries no speaker tag; the page only says her next remark "shattered the lovely image I’d created", so the line is not assigned.
 [thinks] (p.222) He judges the change smaller than it looks: "There was no truly major difference between the today’s Sakura and yesterday’s."
@@ -1013,7 +1013,7 @@ walk: y1v1 → DONE
 [says] (p.224) "Hey, Sakura. Do you have any time later? I wanted to talk to you about something."
 [note] (p.225) The invitation feels "like they were being squeezed out of me"; she answers that she has plans today, and he lets her go.
 
-### y1v2 p.225–233 — Ch.7 §7.2: the special-building rendezvous and the camera trap
+### y1v2 p.225–233 — Ch.7 sec. 7.2: the special-building rendezvous and the camera trap
 [scene] (p.225) After 3:40, in the special building: the three Class C students arrive expecting a date or a confession from Kushida.
 [says] (p.225) "Kushida won’t be here. I asked her to send an email to compel you all to come."
 [says] (p.226) "If I hadn’t used an underhanded method, you would’ve just ignored me, right? I wanted to talk to you."
@@ -1024,7 +1024,7 @@ walk: y1v1 → DONE
 [thinks] (p.233) On the escort to the student council room: "Horikita had put everything together really well."
 [rel:ichinose-honami] (p.225–232) He supplies the trap and the pressure — the luring email, the student-council gambit, the nod to the ultimatum — and hands the open argument to her.
 
-### y1v2 p.234–241 — Ch.7 §7.3–7.4: the fake cameras and the shuttered door
+### y1v2 p.234–241 — Ch.7 sec. 7.3–7.4: the fake cameras and the shuttered door
 [says] (p.234) "I was wondering what you were up to when you asked me to lend you some points yesterday."
 [says] (p.235) "As long as you pay me back by graduation, it’s fine. So what are you going to do now? Wait in front of the student council room?"
 [thinks] (p.235) Sakura’s "plans today" keep bothering him; he runs off before Ichinose can say what she wanted to tell him, and she follows.
@@ -1046,7 +1046,7 @@ walk: y1v1 → DONE
 [thinks] (p.241) On Ichinose’s warning about Ryuuen: "I didn’t know who this Ryuuen was, but he was undoubtedly a very dangerous opponent."
 [says] (p.241) "Yeah. I’ll keep that in mind."
 
-### y1v2 p.252–256 — Ch.7 §7.6: the corridor after the withdrawal
+### y1v2 p.252–256 — Ch.7 sec. 7.6: the corridor after the withdrawal
 [scene] (p.252) He waits outside the student council room; Sudō leaves cheerful, then the president and Secretary Tachibana come out.
 [says] (p.252) "Looks like it went well"
 [says] (p.252) "Yeah." — to Sudō’s proposal of a party that night
@@ -1078,7 +1078,7 @@ walk: y1v1 → DONE
 
 ## y1v3
 
-### y1v3 p.13–23 — Ch.2 §2.0: the cruise, the first-name fever, and the boundary
+### y1v3 p.13–23 — Ch.2 sec. 2.0: the cruise, the first-name fever, and the boundary
 [scene] (p.13) Deck of the luxury liner on the way to the school's private island; first-years of Class D around him after midterms and finals.
 [narrates] (p.13) The chapter is his first-person account: "The endless summer sea. The infinite blue skies. The perfectly clear air."
 [thinks] (p.14) Prices the trip honestly: on his own it "would probably have cost me about 100,000 yen, even in the off season."
@@ -1090,7 +1090,7 @@ walk: y1v1 → DONE
 [limit] (p.22–23) Suspects Horikita's hiding ("a slight difference—something felt out of place") but drops it: "it would be silly to investigate further. Best just to drop it."
 [thinks] (p.23) The chapter's thesis, stated before he understands it: "I had yet to realize that this place was going to be the boundary between heaven and hell."
 
-### y1v3 p.24–46 — Ch.2 §2.1–2.2: the test is announced, and Class D splits three ways
+### y1v3 p.24–46 — Ch.2 sec. 2.1–2.2: the test is announced, and Class D splits three ways
 [scene] (p.24) Beach landing; Mashima-sensei announces the deserted-island special test from a white platform.
 [action] (p.30–31) Works the rules the way the chapter needs them read: the penalties page "will determine whether you live or die"; the watches are safety kit — "the school had gifted us these watches to keep us safe."
 [feat] (p.31) First to ask the question that sets the economy: "is it possible to get by without using any points?" — Chabashira answers that the school "isn't involved in the test process at all."
@@ -1099,7 +1099,7 @@ walk: y1v1 → DONE
 [rel:horikita-suzune] (p.44–45) Sidles up to her read of the class; she admits she can't see a solution and he agrees — "I think the same. There's too much we don't know."
 [rel:hoshinomiya-chie] (p.38) Given the season-opening advice about confessing to a girl before the ocean; wishes she would leave his love life alone.
 
-### y1v3 p.47–52 — Ch.2 §2.2–2.3: he volunteers, and Horikita's isolation is priced
+### y1v3 p.47–52 — Ch.2 sec. 2.2–2.3: he volunteers, and Horikita's isolation is priced
 [scene] (p.47) Walking from beach toward the forest with the tent party; Horikita trails the group alone.
 [rel:horikita-suzune] (p.47–48) Her depression out loud — "I can't be alone" — and his answer that this test is the one her academics can't win; he watches her realise Ike and Sudou moved faster than she could.
 [thinks] (p.49) His standing theory of her, filed as interpretation not fact: "Horikita had enrolled here to be at the same school as her older brother. She wasn't aiming for Class A for her own sake, but rather, sought her older brother's approval."
@@ -1107,7 +1107,7 @@ walk: y1v1 → DONE
 [trait] (p.52) Raises his hand for the search party for a stated system reason: "without a role to fill in the class, you'll get cut off."
 [rel:sakura-airi] (p.52) Paired by leftovers' logic with Sakura and Kouenji; notes the pairing works — "I'd be able to move without any difficulty."
 
-### y1v3 p.53–62 — Ch.2 §2.3: the forest team, and Class A's leader in the open
+### y1v3 p.53–62 — Ch.2 sec. 2.3: the forest team, and Class A's leader in the open
 [scene] (p.53) Forest path with Kouenji ahead and Sakura behind; damp heat, unstable footing.
 [rel:sakura-airi] (p.54–55) Talks to her because she is the only one left to talk to; she trips on roots and he pulls her up, brushing dirt from her hands.
 [feat] (p.57) Borrows Sakura's handkerchief and ties it to a branch as a trail marker — the chapter's first quiet competence beat.
@@ -1116,7 +1116,7 @@ walk: y1v1 → DONE
 [feat] (p.61–62) Works out the fatal leak on the spot — "They had clearly made their leader known to us" — and takes the report on himself so Sakura, who has poor communication skills, doesn't have to carry it.
 [rel:sakura-airi] (p.60–61) Holds her hand through the hiding without meaning to; she goes "almost comatose" and he checks on her twice.
 
-### y1v3 p.63–71 — Ch.2 §2.4–2.5: the river camp, the leader vote, and Horikita's favour
+### y1v3 p.63–71 — Ch.2 sec. 2.4–2.5: the river camp, the leader vote, and Horikita's favour
 [scene] (p.63) Back at the assembly point; Ike's group reports a river with a possession device ten minutes away.
 [rel:horikita-suzune] (p.64) Answer for both of them to her question about Kouenji — "I can't control that guy. You know that." — then deflects her glare when she asks what he said.
 [feat] (p.66) In the leader vote, reads the room instead of speaking: Kushida's nomination of Horikita is "the least risky choice, since she was so desperate to reach Class A."
@@ -1124,7 +1124,7 @@ walk: y1v1 → DONE
 [rel:horikita-suzune] (p.70–71) She delegates the Ike problem to him — "I'm relying on you because I know I can't do it" — and he takes the timing as his own: "I'll talk to him, but leave the timing to me."
 [thinks] (p.71) Prices her isolation as the test's real subject: "An academically brilliant girl was less useful than a normal student in a situation like this." and "This week would test Horikita Suzune's limits, and show her at her worst."
 
-### y1v3 p.72–77 — Ch.2 §2.5–2.6: branches, Yamauchi's plan, and the bonfire
+### y1v3 p.72–77 — Ch.2 sec. 2.5–2.6: branches, Yamauchi's plan, and the bonfire
 [scene] (p.72) Evening at the river camp; Hirata asks him to gather branches for a bonfire.
 [action] (p.74) After Sudou and Yamauchi refuse, Sakura volunteers and he lets her; Yamauchi then reverses and joins.
 [rel:yamauchi-haruki] (p.76–77) Yamauchi confides the switch from Kushida to Sakura as a body-driven target plan; he refuses the ask — "I'd like to go back and start the bonfire while it's still early."
@@ -1132,7 +1132,7 @@ walk: y1v1 → DONE
 [feat] (p.84–85) Diagnoses the failed fire when Yamauchi cannot — damp wood, branches too thick — and stays quiet so Ike can be the one to fix it.
 [rel:ike-kanji] (p.86) Explains the quiet help to Sakura: "building up Ike and displaying his usefulness will be more helpful to the class."
 
-### y1v3 p.78–86 — Ch.2 §2.6–2.7: Ibuki, and the decision not to leave her
+### y1v3 p.78–86 — Ch.2 sec. 2.6–2.7: Ibuki, and the decision not to leave her
 [scene] (p.78) Walking back with branches; a girl from another class sits against a tree with a red, swollen mark on her cheek.
 [action] (p.80) Stops Yamauchi from walking past her; the three of them agree to wait rather than leave an injured girl in the jungle.
 [rel:ibuki-mio] (p.82) Answers her "I'm from Class C. In other words, I'm your enemy" with "That wasn't any reason not to help."
@@ -1140,7 +1140,7 @@ walk: y1v1 → DONE
 [rel:ibuki-mio] (p.91) Introduces himself properly and holds the space while Hirata works the crowd: "Sorry. Can you wait a little longer? I'm going to talk to him about you."
 [rel:hirata-yousuke] (p.95) Watches Hirata take Ibuki in and wonders why he was the one left with her: "I wondered if Hirata had left me with her because he trusted me, or at least trusted me more than Yamauchi."
 
-### y1v3 p.87–98 — Ch.2 §2.8: the points speech, the river vote, and Kouenji's exit
+### y1v3 p.87–98 — Ch.2 sec. 2.8: the points speech, the river vote, and Kouenji's exit
 [scene] (p.87) Five o'clock; Kushida's group returns with fruit, the bonfire is up, and the class settles into its first night.
 [rel:ike-kanji] (p.88) Credits Ike, not himself, for the fire: "You should be thanking Ike, not me."
 [rel:hirata-yousuke] (p.90) Tries to raise the Ibuki report during the excitement and gets no opening: "I didn't have any chance to butt in."
@@ -1166,7 +1166,7 @@ walk: y1v1 → DONE
 [tactic] (p.103) Reads the visit as reconnaissance — “You could estimate the number of points spent just by the number of toilets, showers, and tents.”
 [tactic] (p.104) The second spot update was postponed so ownership expires right after eight o'clock, letting the roll-call crowds camouflage the renewal.
 
-### y1v3 p.105–107 — Ch.3 §3.1: Class C comes to provoke
+### y1v3 p.105–107 — Ch.3 sec. 3.1: Class C comes to provoke
 [scene] (p.105) Morning roll call over, exploration begins; two Class C boys stride into the campsite eating chips.
 [place:uninhabited-island] (p.105) The campsite after roll call, the river base holding, Class D setting out to explore.
 [action] (p.105) Recognizes Komiya and Kondou and recalls their earlier fight with Sudō as acting on Ryūen's orders rather than just looking for a fight.
@@ -1174,7 +1174,7 @@ walk: y1v1 → DONE
 [rel:ibuki-mio] (p.106) Files Ibuki's worst-case remark and decides telling Horikita “seemed like a good idea.”
 [rel:horikita-suzune] (p.106–107) Pulls the leader out of the tent — “You've got eyes on Ryuuen, and you've even been observing Ichinose. People will remember that you're the student council president's younger sister. No matter what you do, you'll be a target.”
 
-### y1v3 p.108–115 — Ch.3 §3.2: Ryūen's beach, spent to zero
+### y1v3 p.108–115 — Ch.3 sec. 3.2: Ryūen's beach, spent to zero
 [scene] (p.108) The Class C beach: temporary toilets and showers, a tarp, a barbecue, chairs, a parasol, jet skis on the shoreline.
 [place:uninhabited-island] (p.108) The Class C shore: cooking smoke, laughter, a hundred and fifty points or more already burned.
 [says] (p.108) “It's up to you, Horikita.”
@@ -1195,7 +1195,7 @@ walk: y1v1 → DONE
 [note] (p.116) The walk-back exchange is never tagged; her line is confirmed by the narration that follows it, and both of his stand as the remarks she answers.
 [tactic] (p.116) Reads winning as more than saving the class's own points: dissent inside the group would have to be silenced before a zero-points route could work.
 
-### y1v3 p.117–125 — Ch.3 §3.3: Class B’s camp at the well
+### y1v3 p.117–125 — Ch.3 sec. 3.3: Class B’s camp at the well
 [scene] (p.117) Deep forest past the broken landmark tree: Class B's base is set around a well with hammocks strung between the trees, Ichinose tying a cord, Kanzaki sitting a little way off.
 [place:uninhabited-island] (p.117) Class B's site — trees around a well, hammocks instead of tents, and a path of student tracks already beaten through the forest.
 [feat] (p.117) Reads the broken tree as a landmark the school left on purpose, which is why Kanzaki's directions needed no detail.
@@ -1221,7 +1221,7 @@ walk: y1v1 → DONE
 [back:kouenji-rokusuke] (p.125) Sets Class D against Class B on the way out: Class D has selfish students like Kōenji who run off alone, and nobody with the power to step in.
 [note] (p.125) The two untagged verdict lines that follow the departure are left as a chapter attribution gap.
 
-### y1v3 p.126–129 — Ch.3 §3.4: the Class A cave
+### y1v3 p.126–129 — Ch.3 sec. 3.4: the Class A cave
 [scene] (p.126) The cave mouth cut deep into the mountainside like a demon's mouth, with two temporary toilets and a shower room outside; he steps over Horikita and walks up to it.
 [place:uninhabited-island] (p.126) The Class A site: a cave in the mountainside, its entrance hidden behind vinyl sheets joined into one giant tarp.
 [says] (p.126) “Let’s go. I mean, it’s Class A, so of course we’re going to be scared. There’s nothing we can do about that.”
@@ -1234,7 +1234,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y1v3 ch3 → p.130 -->
 
-### y1v3 p.131–135 — Ch.4 §4.1: the walk with Sakura
+### y1v3 p.131–135 — Ch.4 sec. 4.1: the walk with Sakura
 [scene] (p.131) Third day, before noon: he slips out of base camp alone for the forest entrance to see what Kouenji had been looking at, and Sakura catches up, out of breath.
 [place:uninhabited-island] (p.131) The forest path out of base camp, marked by a handkerchief tied around a tree.
 [says] (p.131) “Didn’t I tie a handkerchief around a tree? Anyway, I thought I’d just go and check something out.”
@@ -1262,7 +1262,7 @@ walk: y1v1 → DONE
 [thinks] (p.135) Watching her frame the shot with thumb and forefingers: “Preserving memories, huh? So that was why Ibuki had a digital camera.”
 [note] (p.135) His inference rather than a fact about Ibuki: her reason for carrying a camera at school is applied to the Class C girl.
 
-### y1v3 p.137–140 — Ch.4 §4.2: the caterpillar and the corn
+### y1v3 p.137–140 — Ch.4 sec. 4.2: the caterpillar and the corn
 [scene] (p.137) A hairy caterpillar drops into Sakura’s hair during the break; pointing it out might make her scream it into her clothes, so he has to remove it without telling her.
 [says] (p.137) “Sakura, there’s something I want to ask you…”
 [says] (p.137) “You…are you okay with bugs?”
@@ -1283,7 +1283,7 @@ walk: y1v1 → DONE
 [tactic] (p.140) Turns his shirt into a carry bag rather than leave the ears behind for another class to harvest while they are away.
 [note] (p.139) The bags line that opens the harvest is untagged — either speaker fits — and is left as an attribution gap.
 
-### y1v3 p.140–142 — Ch.4 §4.3: Katsuragi at the cornfield
+### y1v3 p.140–142 — Ch.4 sec. 4.3: Katsuragi at the cornfield
 [scene] (p.140) Katsuragi and Yahiko arrive at the thicket while Sakura is staring at the corn.
 [says] (p.140) “I’m Ayanokouji, from Class D. This is Sakura.”
 [says] (p.140) “There’s nothing we can do. There’s only the two of us here.”
@@ -1329,7 +1329,7 @@ walk: y1v1 → DONE
 [says] (p.148) “I’ve heard rumors that Katsuragi is Class A’s representative.”
 [inference] (p.148) Their correction — “Don’t make me laugh. Sakayanagi is the representative of Class A. Not Katsuragi. You can go now.” — marks the pair as Katsuragi's enemies and puts who really leads Class A in question.
 
-### y1v3 p.149–151 — Ch.5 §5.1: the ghost camp and the Class A question
+### y1v3 p.149–151 — Ch.5 sec. 5.1: the ghost camp and the Class A question
 [scene] (p.149) At the emptied Class C beach — yesterday's carnival now a ghost town — when Ichinose and Kanzaki arrive behind him.
 [says] (p.149) “I’m in charge of finding food. I was searching around the forest, and ended up here.”
 [note] (p.149–151) His replies through the visit are untagged POV lines; the pair's strategy exchange runs untagged too, and only their addressee- or narration-anchored lines are recorded on their pages — the rest are listed with the chapter's gaps.
@@ -1341,7 +1341,7 @@ walk: y1v1 → DONE
 [says] (p.151) “I see. Well, I’ll tell Horikita later. Ah jeez, she told me to investigate on my own. She gets flustered working with others. Well…please pretend that you didn’t hear that last part. It’s going to be bothersome if she gets angry with me.”
 [says] (p.151) “It’s about time for me to look for food. They’ll be angry if I return empty-handed.”
 
-### y1v3 p.152–157 — Ch.5 §5.2: the faculty-room deal
+### y1v3 p.152–157 — Ch.5 sec. 5.2: the faculty-room deal
 [scene] (p.152) Flashback to the first semester's closing ceremonies: Chabashira calls him to the faculty room the moment homeroom ends, before summer vacation can start.
 [says] (p.152) “I don’t remember doing anything.”
 [says] (p.152) “Why did you sound all sarcastic?”
@@ -1410,7 +1410,7 @@ walk: y1v1 → DONE
 [note] (p.169) The printed line in Hirata's speech reads “turns out to the be the culprit” — kept as printed.
 [inference] (p.169–170) Hirata's contradiction — believe Ayanokōji, then conceal the truth — reads as distrust: the suspect was handed the detective's role as a lifeline and a warning; Hirata himself may be the culprit.
 
-### y1v3 p.171–178 — Ch.6 §6.1: the meeting that splits the camp
+### y1v3 p.171–178 — Ch.6 sec. 6.1: the meeting that splits the camp
 [scene] (p.171) Returns from the tent into Hirata's meeting; after Horikita's objection the camp splits into a boys' side and a girls' side.
 [action] (p.174) Stands mute while the boys volunteer and Karuizawa rejects them one by one.
 [rel:horikita-suzune] (p.174) She nominates him as the one other boy the girls can trust, over Karuizawa's objections.
@@ -1419,7 +1419,7 @@ walk: y1v1 → DONE
 [rel:sakura-airi] (p.175) She speaks up for him when no one else will — the only defense he gets.
 [action] (p.176) Keeps silent through Karuizawa's public excoriation of Sakura.
 
-### y1v3 p.180–189 — Ch.6 §6.2–§6.3: the stakes, Ibuki's test, the fever
+### y1v3 p.180–189 — Ch.6 sec. 6.2–sec. 6.3: the stakes, Ibuki's test, the fever
 [scene] (p.180) Pitches the girls' second tent with Hirata after the split, the other boys off playing or fishing.
 [says] (p.181) “Ah, it’s okay. You don’t have to apologize, Hirata. If anything, I’d feel bad to leave it all to you.”
 [says] (p.181) “This question might come off as weird, but why do you work so hard?”
@@ -1452,7 +1452,7 @@ walk: y1v1 → DONE
 [says] (p.188) “I definitely don’t plan to do that. Anyway, do you intend to hide your condition?”
 [status] (p.188) Horikita has a fever near 38°C and is hiding it; reporting illness would hit the class with a bigger penalty.
 
-### y1v3 p.191–199 — Ch.6 §6.4: the sixth morning and the key card
+### y1v3 p.191–199 — Ch.6 sec. 6.4: the sixth morning and the key card
 [scene] (p.191) Sixth day dawns overcast; he wakes with Sudou's legs laid across his face.
 [says:sudou-ken] (p.191) “Suzune…I can’t hold back anymore…”
 [says:sudou-ken] (p.191) “Gah, shut up… The hell? Ayanokouji, don’t wake me up like that.”
@@ -1483,7 +1483,7 @@ walk: y1v1 → DONE
 [action] (p.199) Bribes Yamauchi with Sakura's e-mail address to smear mud on Horikita's hair.
 [note] (p.199) What the mud is for is not stated on this page; it follows the dropped key card.
 
-### y1v3 p.200–202 — Ch.6 §6.5: the mud payoff
+### y1v3 p.200–202 — Ch.6 sec. 6.5: the mud payoff
 [scene] (p.200) Yamauchi delivers the mud bribe; Horikita seizes his pointing arm and throws him in front of the watching camp.
 [says] (p.200) “You’re absolutely going to do it? If you’re lying, I won’t agree.”
 [action] (p.200) Nods him on, then watches the throw without intervening.
@@ -1498,7 +1498,7 @@ walk: y1v1 → DONE
 [says:ibuki-mio] (p.202) “Whoa, looks like it’s moving now.”
 [rel:kushida-kikyou] (p.202) Watches her and Horikita come down to the river in swimsuits while the shower line waits.
 
-### y1v3 p.203–205 — Ch.6 §6.6: the confession in the forest
+### y1v3 p.203–205 — Ch.6 sec. 6.6: the confession in the forest
 [scene] (p.203) Horikita draws him into the forest and confesses that the leader’s key card was stolen.
 [says:horikita-suzune] (p.203) “Ayanokouji-kun. Could you please come here for a moment?”
 [says] (p.203) “What’s wrong? Did something happen?”
@@ -1526,7 +1526,7 @@ walk: y1v1 → DONE
 [says] (p.205) “Sure. I understand. I’ll keep an eye on her.”
 [action] (p.205) Leaves her in the forest and goes back to camp to keep Ibuki in sight.
 
-### y1v3 p.206–212 — Ch.6 §6.7: the fire and the breakdown
+### y1v3 p.206–212 — Ch.6 sec. 6.7: the fire and the breakdown
 [scene] (p.206) Smoke behind the temporary toilet: the survival manual is burning while the camp argues.
 [says:ike-kanji] (p.206) “What’s that smoke? What in the world happened?”
 [says:ike-kanji] (p.206) “This is serious. There’s a fire! Fire! Something is burning behind the toilet!”
@@ -1564,13 +1564,13 @@ walk: y1v1 → DONE
 [note] (p.211) The narration calls Sudou’s read surprisingly accurate.
 [action] (p.212) Secures his share of the luggage, then sees both Ibuki and Horikita gone and sets out along the road to the beach.
 
-### y1v3 p.226–227 — Ch.6 §6.10: the footprints
+### y1v3 p.226–227 — Ch.6 sec. 6.10: the footprints
 [scene] (p.226) Follows two pairs of footprints deep into the forest and hears a distant flashlight exchange he cannot make out.
 [action] (p.226) Kills his own light and closes on the signal — the page does not let him catch the conversation.
 [action] (p.227) Finds Horikita unconscious by a large tree with her key card on the ground, and lifts her into his arms.
 [action] (p.227) Reads the excavated soil on her as proof that more than Ibuki found her position.
 
-### y1v3 p.229–235 — Ch.6 §6.10: carrying Horikita
+### y1v3 p.229–235 — Ch.6 sec. 6.10: carrying Horikita
 [scene] (p.229) She wakes in his arms under a tree, fever high, and the night turns on the choice between carrying on and retiring.
 [says] (p.229) “Are you awake?”
 [says:horikita-suzune] (p.229) “Ayano…kouji-kun?”
@@ -1634,7 +1634,7 @@ walk: y1v1 → DONE
 [thinks] (p.235) “You, Hirata—no, all other people are nothing more than tools. I was complicit in what drove you to this. So, don’t blame yourself, Horikita. You were useful to me.”
 [note] (p.235) The monologue answers her friend line without ever being spoken to her.
 
-### y1v3 p.237–238 — Ch.6 §6.10: the ship at 7:58
+### y1v3 p.237–238 — Ch.6 sec. 6.10: the ship at 7:58
 [scene] (p.237) Reaches the ship at the pier with the storm still on, minutes before roll call.
 [action] (p.237) Walks the muddy road by the map in his head, picks her up again, and carries her up the ramp.
 [action] (p.237) A teacher stops him on the deck — “You’re prohibited from entering here. You’ll be disqualified.” — and he answers the emergency.
@@ -1763,7 +1763,7 @@ walk: y1v1 → DONE
 [says] (p.249) “You should know, Sensei. Icarus won’t heed Daedalus’ warnings.”
 [voice] (p.249) Answers her myth with the myth — burned wings and all, he flies on for his freedom.
 
-### y1v3 p.250–258 — Ch.7 §7.1: the whole explanation
+### y1v3 p.250–258 — Ch.7 sec. 7.1: the whole explanation
 [scene] (p.250) Section 7.1 opens with Horikita storming the lounge for the full story; he gives it on one condition — she never investigates him.
 [says:horikita-suzune] (p.250) “What do these test results mean? What in the world happened?”
 [says] (p.250) “You look like you don’t have any idea at all.”
@@ -1875,7 +1875,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y1v4 → start -->
 
-### y1v4 p.12–20 — Ch.2 §2.0: the cabin reverie and the Horikita bridge
+### y1v4 p.12–20 — Ch.2 sec. 2.0: the cabin reverie and the Horikita bridge
 [scene] (p.12) Three days after the island test, the cruise-ship respite; Ayanokōji’s cabin reverie, Hirata’s interruption, and the deck lunch that follows.
 [back] (p.12) The rule he entered school under: “Contact with anyone outside is forbidden until graduation.” Chabashira’s leverage rides on it — she threatened to expel him from this paradise unless he works toward Class A.
 [action] (p.13) A “little devil” perched on his shoulder whispers that “It’s better to get them before they get you”; he spends a second imagining forcing Chabashira to resign, then returns to blank thinking.
@@ -1893,14 +1893,14 @@ walk: y1v1 → DONE
 [rel:karuizawa-kei] (pp.14, 20) Declines her group, then watches her reclaim Hirata anyway.
 [rel:horikita-suzune] (pp.17–19) The subject of Hirata’s request; he warns she will shut down if she senses manipulation.
 
-### y1v4 p.21–25 — Ch.2 §2.1: the Kōenji corridor and Sakura’s call
+### y1v4 p.21–25 — Ch.2 sec. 2.1: the Kōenji corridor and Sakura’s call
 [scene] (p.21) Corridor on the third deck: Kōenji dripping from the pool, the bellhop’s fourth warning, and Ayanokōji’s escape route.
 [says] (p.23) “Do you want something from me?”
 [action] (p.23) Throws the bellhop’s warning back at Kōenji — “I passed the ball, if you will” — to engineer his own escape.
 [feat] (p.24) Reads the ship’s signboard map and fixes the layout in his head: nine decks plus a roof, guys on the third deck and girls on the fourth, the 24-hour lounge on the first.
 [action] (p.25) Takes Sakura’s email call rather than kill time alone.
 
-### y1v4 p.26–31 — Ch.2 §2.2: Sakura’s worry, Kushida’s interrupt, the school message
+### y1v4 p.26–31 — Ch.2 sec. 2.2: Sakura’s worry, Kushida’s interrupt, the school message
 [scene] (p.26) Second-deck hallway: Sakura’s roommate appeal, Kushida’s interruption, the school’s test message, and the chat with Horikita.
 [trivia] (p.26) Ship cabin roommates: Hirata, Kōenji, and Yukimura — Sakura states it; he doesn’t dispute it.
 [says] (p.27) “You’re worried because even though you want to get along with them, you don’t think you can?”
@@ -1918,7 +1918,7 @@ walk: y1v1 → DONE
 [rel:kushida-kikyou] (pp.27–31) Refuses her Class C outing, lets her see the phone, shares nothing about the chat.
 [rel:sakura-airi] (pp.25–28) Receives her roommate appeal; can only offer limited help.
 
-### y1v4 p.32–36 — Ch.2 §2.3: the zodiac briefing opens
+### y1v4 p.32–36 — Ch.2 sec. 2.3: the zodiac briefing opens
 [scene] (p.32) Room 204 on the second deck: Mashima’s briefing table, Sotomura and Yukimura already seated, Karuizawa as the late fourth.
 [action] (p.32) Takes the vacant seat beside Yukimura and waits out the unseen fourth member.
 [trait] (p.32) Reads the setup as ominous — small groups, private rooms, a teacher who won’t take questions: “There was a storm coming, the curtain rising on a new test.”
@@ -1927,7 +1927,7 @@ walk: y1v1 → DONE
 [rel:mashima-tomonari] (pp.32–36) The briefer: cold, unanswerable, “impossible to read.”
 [rel:karuizawa-kei] (pp.33–36) The fourth member; she moves her chair away from him.
 
-### y1v4 p.37–49 — Ch.2 §2.3: the four outcomes and the traitor rules
+### y1v4 p.37–49 — Ch.2 sec. 2.3: the four outcomes and the traitor rules
 [scene] (p.37) Still at Mashima’s table: the group roster, the handout of four outcomes, and the Werewolf detour, all read through Ayanokōji’s eyes.
 [says] (p.37) “Karuizawa, if you don’t change your attitude toward the teachers, it might leave a mark on your permanent record. That wouldn’t be good, right?”
 [trait] (p.37) Depressed hearing Karuizawa rank the three of them below Hirata, though he tries not to care.
@@ -1940,21 +1940,21 @@ walk: y1v1 → DONE
 [rel:karuizawa-kei] (p.37) Warns her about her permanent record; she brushes it off.
 [rel:mashima-tomonari] (pp.37–49) The briefer he watches absorb Karuizawa’s interruptions without expression.
 
-### y1v4 p.50–51 — Ch.2 §2.3: the hallway split
+### y1v4 p.50–51 — Ch.2 sec. 2.3: the hallway split
 [scene] (p.50) Leaving Mashima’s room: Yukimura’s huddle plan collapses when Karuizawa calls Hirata and the Professor declines.
 [says] (p.50) “For the most part, I guess. I’d like you to explain the things I don’t fully understand later, though.” (to Yukimura, who asked whether he understood)
 [trait] (p.50) Feigns incompleteness on purpose — “I wasn’t going to tell Hirata anything more” in the later hallway talk — and lets Yukimura’s discontent pass unnoticed.
 [action] (p.51) Agrees the ship may be bugged, accepts Yukimura’s secure-location plan in principle, then reports the Rabbit rules to Horikita by chat and starts shaping a strategy alone.
 [rel:yukimura-teruhiko] (pp.50–51) The one classmate who tries to build a three-man huddle with him; Yukimura sighs and drops it.
 
-### y1v4 p.52–53 — Ch.2 §2.4: the wake-up and the scattered explanations
+### y1v4 p.52–53 — Ch.2 sec. 2.4: the wake-up and the scattered explanations
 [scene] (p.52) Just before 20:30 he wakes in the third-deck cabin to Hirata’s apology, and they step out together toward the evening’s meetings.
 [says] (p.53) “Can’t really say. I haven’t been thinking about the exam like you, Horikita, and Yukimura have. I’m not smart, either, so I haven’t really noticed much.” (deflecting Hirata’s request for observations)
 [says] (p.53) “Yeah, I think you’re right, Hirata. It would definitely be more efficient to explain the test to all the students at the same time, rather than dividing us into groups and doing it in stages.”
 [thinks] (p.53) Suspects the school’s deliberately scattered briefings mean their “thinking” is already being tested.
 [rel:hirata-yousuke] (pp.52–53) Walks him to the second deck while sharing nothing of substance.
 
-### y1v4 p.54–61 — Ch.2 §2.5: the 20:40 gathering
+### y1v4 p.54–61 — Ch.2 sec. 2.5: the 20:40 gathering
 [scene] (p.54) At the second-deck meeting place he watches Katsuragi confront Horikita, Kanzaki intercede, Ryūen prowl, and Kushida arrive puzzled.
 [says] (p.54) “Who are those people?” (asking Hirata to name the waiting students)
 [action] (p.54) Burns Morimiya and Tokitō’s names and faces into memory on Hirata’s tip, then keeps to the line without making a fuss.
@@ -1969,7 +1969,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y1v4 ch2 → p.62 -->
 
-### y1v4 p.63–77 — Ch.3 §3.0: the 8:00 café and the Ryūen interrupt
+### y1v4 p.63–77 — Ch.3 sec. 3.0: the 8:00 café and the Ryūen interrupt
 [scene] (p.63) Blue Ocean café on the ship’s deck at 7:55 — he meets Horikita for the 8:00 VIP message, then Ryūen and Ibuki sit down uninvited and pick at the island result until the coffee is done.
 [says] (p.63) “I was waiting for an hour.” (teasing Horikita; she arrived before the designated time anyway)
 [says] (p.64) “I see. This really seems like an inevitable grouping,” (reading Horikita’s Dragon list)
@@ -1994,7 +1994,7 @@ walk: y1v1 → DONE
 [rel:ibuki-mio] (pp.68, 76) She is his Rabbit groupmate and, he suspects, Ryūen’s lookout.
 [rel:katsuragi-kouhei] (p.67) Names him the most excellent first-year, but not the one he fears.
 
-### y1v4 p.78–93 — Ch.3 §3.1: observing the Rabbit group
+### y1v4 p.78–93 — Ch.3 sec. 3.1: observing the Rabbit group
 [scene] (p.78) Meets Yukimura and the Professor outside the Rabbit room, then sits through the first group discussion as Ichinose and Machida trade Katsuragi’s no-discussion plan.
 [says] (p.79) “No, I don’t have a favorite speech pattern or anything. Not especially, anyway,” I answered. (to the Professor’s moe-dialect question)
 [says] (p.79) “Well, Professor, what about you? Do you have a speech pattern you like?” I asked.
@@ -2015,7 +2015,7 @@ walk: y1v1 → DONE
 [rel:yukimura-teruhiko] (pp.78, 86–92) Walks in with him; tracks his swing from the convenient plan to Ichinose.
 [rel:sotomura-hideo] (pp.78–88) The dialect small-talk partner outside, then the vote he drags the Professor into.
 
-### y1v4 p.94–97 — Ch.3 §3.2: the first discussion breaks up
+### y1v4 p.94–97 — Ch.3 sec. 3.2: the first discussion breaks up
 [scene] (p.94) Watches the Manabe–Karuizawa phone fight resolve through Machida’s intervention, then leaves with the group and decides to pull Sakura for a second opinion on the test.
 [action] (p.95) Stays out of the middle of Manabe’s glare — “I didn’t want to get caught in the middle of anything, so I averted my eyes and got out of there.”
 [says] (p.96) “Well, we’re heading back, too. I want to talk to Hirata about some things,” I said. (cover for slipping away)
@@ -2027,7 +2027,7 @@ walk: y1v1 → DONE
 [rel:sakura-airi] (p.97) Answers her meet-up message and heads for the bow.
 [rel:yukimura-teruhiko] (p.97) Asks him first about Karuizawa’s mood.
 
-### y1v4 p.97–102 — Ch.3 §3.2: the bow with Sakura
+### y1v4 p.97–102 — Ch.3 sec. 3.2: the bow with Sakura
 [scene] (p.98) Meets Sakura behind a pillar on the quiet bow deck; she stress-mutters, hands him the Cow group list, and they compete over who has fewer friends.
 [says] (p.98) “Sakura? What’s the matter?” I asked, trying not to surprise her.
 [says] (p.100) “I didn’t really hear anything. I just got here now.”
@@ -2046,7 +2046,7 @@ walk: y1v1 → DONE
 [rel:ichinose-honami] (p.101) One of only two people who could help Sakura from another class — already taken by his own group.
 [rel:kanzaki-ryuuji] (p.101) The other name; not available either.
 
-### y1v4 p.103–105 — Ch.3 §3.3: the Yamauchi redirect
+### y1v4 p.103–105 — Ch.3 sec. 3.3: the Yamauchi redirect
 [scene] (p.103) Choked by Yamauchi Haruki the moment he re-enters the ship; the Sakura-email lie becomes a camera-and-points pep talk.
 [says] (p.103) “Wh-what’s the matter?” I knew the reason, but asked as a formality.
 [says] (p.103) “I never meant to go after her. Well, this is kind of hard to say, but…I lied to you before,” I croaked.
@@ -2065,7 +2065,7 @@ walk: y1v1 → DONE
 [rel:yamauchi-haruki] (pp.103–105) The mark, the lie, and the stimulus.
 [rel:sakura-airi] (pp.104–105) Her camera and her idol past become the bait; her contact stays protected.
 
-### y1v4 p.106–111 — Ch.3 §3.4: the second gathering and the Manabe fuse
+### y1v4 p.106–111 — Ch.3 sec. 3.4: the second gathering and the Manabe fuse
 [scene] (p.106) Sits the gloomy second Rabbit discussion with Class A absent, watches Ichinose bait Machida, then lies to Manabe about seeing Karuizawa fight to light a fuse.
 [trait] (pp.106–107) Reads the alliance map: only Class A guaranteed advancement, so B+D against C+A — “like putting carnivores and herbivores together in the same cage.”
 [trait] (p.106) Notes Class A’s phone use is legal and calm is Katsuragi’s maintained image — “an exceptionally effective strategy.”
@@ -2080,7 +2080,7 @@ walk: y1v1 → DONE
 [rel:machida-kouji] (pp.107–108) Watches him take Ichinose’s bait despite the no-talk policy.
 [rel:hamaguchi-tetsuya] (p.110) The Class B off-switch when the hour ends — “No, we didn’t do much of anything. Well, shall we?”
 
-### y1v4 p.112–116 — Ch.3 §3.5: the cabin, the VIP sheet, Kouenji’s exit
+### y1v4 p.112–116 — Ch.3 sec. 3.5: the cabin, the VIP sheet, Kouenji’s exit
 [scene] (p.112) Returns near midnight to Hirata, Yukimura and a push-uping Kouenji; gets the two known VIP names by phone, then walks out after Kouenji ends the Monkey group.
 [says] (p.112) “Yeah, a bit. Ah, that reminds me. I wanted to talk to you for a minute, if you have the time.”
 [says] (p.112) “Oh no, that’s okay. You go first, Hirata. We can talk about my thing later.”
@@ -2099,7 +2099,7 @@ walk: y1v1 → DONE
 [rel:horikita-suzune] (p.115) Her message: “I’m sorry. Things seem really confusing right now. I’m going to give you a call.”
 [rel:sakura-airi] (p.116) One of the few eyes-and-ears he still counts on.
 
-### y1v4 p.117–124 — Ch.3 §3.6: the starlit hug and the teachers’ table
+### y1v4 p.117–124 — Ch.3 sec. 3.6: the starlit hug and the teachers’ table
 [scene] (p.117) Wanders the dark deck alone, stumbles into Kushida among the couples, takes her sudden hug, then overhears Chabashira, Hoshinomiya and Mashima at the vending machines.
 [says] (p.117) “That voice… Kushida?”
 [says] (p.117) “Are you…alone?” I asked. Perhaps she was waiting to meet her boyfriend. Just imagining that made my chest tighten and ache.
@@ -2120,7 +2120,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y1v4 ch3 → p.124 -->
 
-### y1v4 p.125–133 — Ch.4 §4.0: the Karuizawa brief and the planted phone
+### y1v4 p.125–133 — Ch.4 sec. 4.0: the Karuizawa brief and the planted phone
 [scene] (p.125) Face-to-face with Horikita on day two; the Kouenji traitor act is public, then he asks her for Karuizawa intelligence and a recording phone sits under Ryuuen’s chair.
 [says] (p.125) “Unfortunately, it’s the truth. Kouenji just ended the test for his group,” I said.
 [says] (p.125) “That’s an impossible task. Besides, there’s nothing I can do about it now. No use crying over spilt milk.”
@@ -2158,7 +2158,7 @@ walk: y1v1 → DONE
 [note] (p.150) Ichinose addresses Horikita-san and Ayanokouji-kun together, asking whether the test will create trust between people of different classes.
 [note] (p.151) Ichinose on not hiding her identity: everything I do is for the sake of Class B.
 
-### y1v4 p.152–154 — Ch.4 §4.1: the deck VIP exchange
+### y1v4 p.152–154 — Ch.4 sec. 4.1: the deck VIP exchange
 [scene] (p.152) Ends the deck walk with Ichinose by denying his own VIP role and vouching only for Yukimura — Karuizawa and Sotomura left unsaid on purpose.
 [says] (p.152) “I’m not the VIP. Neither is Yukimura, I can say that with absolutely certainty. Unfortunately, I don’t really know about Karuizawa or the Professor…err, I mean, Sotomura. It’s not clear yet. Personally, I agree with you on principle.”
 [trait] (p.152) Withholds Yukimura’s Karuizawa/Sotomura alibis — careless confirmation could cost Ichinose’s trust if either were the VIP.
@@ -2180,7 +2180,7 @@ walk: y1v1 → DONE
 [note] (p.176) Hirata asks whether he has any ideas, then admits he has his limits and can’t do everything.
 [note] (p.178) The creeped-out confession: he’s watched him since school started — the Ayanokouji-kun back then and now are like two different people.
 
-### y1v4 p.179–183 — Ch.4 §4.4: the Sugimura bargain
+### y1v4 p.179–183 — Ch.4 sec. 4.4: the Sugimura bargain
 [scene] (p.179) Takes Hirata’s backstory and the fake-dating motive, buys his silence for the Karuizawa plan, and receives the Class D VIP’s identity as a parting gift.
 [says] (p.179) “But I do think you’re amazing, Ayanokouji-kun. You’re different from Ike-kun and Yamauchi-kun.” (Hirata’s line, in exchange)
 [says] (p.179) “I’m worse than them.”
@@ -2206,7 +2206,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y1v4 ch4 → p.204 -->
 
-### y1v4 p.205–224 — Ch.5 §5.0–5.2: the phone swap and the dam
+### y1v4 p.205–224 — Ch.5 sec. 5.0–5.2: the phone swap and the dam
 [scene] (p.205) Final day: Manabe kept obedient by the stairwell photo, Ichinose’s card hour, the 5.1 meet with Horikita, the sleeping-Ichinose phone approach, then the group email-show where his swapped phone opens the dam.
 [trait] (p.205) Reads Manabe’s constraint: the photo came “from a classmate,” so she cannot pin the sub-account on him or Yukimura with certainty.
 [rel:manabe-shiho] (p.205) The picture effect — obedient, no move against him.
@@ -2249,7 +2249,7 @@ walk: y1v1 → DONE
 [trait] (p.223) Denying further would invite suspicion — stops because Yukimura is the swapped VIP.
 [rel:yukimura-teruhiko] (pp.223-224) The withheld truth: he exchanged phones in secret; Class D’s 500,000 was already gambled on the swap.
 
-### y1v4 p.225–243 — Ch.5 §5.2–5.3: found out, then the café
+### y1v4 p.225–243 — Ch.5 sec. 5.2–5.3: found out, then the café
 [scene] (p.225) The password-show settles Yukimura’s cover in the room; Ichinose’s call and SIM-lock lecture strip the double swap bare; then the 11 p.m. café with Karuizawa, Hirata, Horikita, Sudou and Ryuuen, the twelve-group results, and a warning over Class C’s lead.
 [trait] (p.225) Names the real weakness of the password theatre: judging whose phone it was stayed hard, but the six-digit unlock “wasn’t the result of deduction, but rather of preconceived notions.”
 [says] (p.225) “I’m sorry, Yukimura-kun. This happened because I came up with this idea at the very last minute,” I muttered.
@@ -2322,7 +2322,7 @@ walk: y1v1 → DONE
 [says:horikita-suzune] (p.17) “I refuse,” she answered.
 [rel:horikita-suzune] (p.15–17) She talks him through cold reading, then declines the crowded outing; Sudou’s reply to the report is “Then forget about it.”
 
-### y1v4.5 p.18–27 — Ch.2 §2.1: the couples-only floor
+### y1v4.5 p.18–27 — Ch.2 sec. 2.1: the couples-only floor
 [scene] (p.18) At 9:30 the next morning the fifth floor is already a wall of couples; the booth’s rule turns him away and puts Ibuki Mio in his path.
 [action] (p.18) Crowd reflex on display: alone in an elevator he would hammer the close button, so he detours across the building for an empty car.
 [rule] (p.19–20) The written notice and the attendant agree: guidance is for couples only — Ukon-sensei reads fortunes for couples.
@@ -2330,13 +2330,13 @@ walk: y1v1 → DONE
 [says] (p.25) “The difference between you now, and you then, is awareness.”
 [trait] (p.26) His loner’s answer to the jibe: “More or less.” — the comparison lands without flinching.
 
-### y1v4.5 p.28–29 — Ch.2 §2.2–2.3: no partner, then fate
+### y1v4.5 p.28–29 — Ch.2 sec. 2.2–2.3: no partner, then fate
 [scene] (p.28) Back in the dorm he researches tenchuusatsu and rejects every possible partner, only to meet Ibuki at the booth again the next day.
 [note] (p.28) The list of refusals: Horikita would decline, he lacks the courage to ask Kushida, Sakura would be ill at ease among couples, and the guys would not spend their last summer days on a paired reading.
 [says] (p.28) “I wonder if tenchuusatsu is only being offered this month?” I muttered.
 [rel:ibuki-mio] (p.29) The second meeting turns from the booth’s rule to belief itself: he asks directly whether she believes, and she answers that the over-skeptical get nothing out of it.
 
-### y1v4.5 p.30–32 — Ch.2 §2.3: the pair proposal
+### y1v4.5 p.30–32 — Ch.2 sec. 2.3: the pair proposal
 [scene] (p.30) Ibuki’s belief speech closes; he proposes they pair up for the couples-only booth — no relationship, no complications.
 [says] (p.30) “In that case, why don’t we go together?”
 [trait] (p.30) On his own feelings: “I honestly felt absolutely nothing for Ibuki.” — a flat line, first-time-customer ease.
@@ -2344,14 +2344,14 @@ walk: y1v1 → DONE
 [says] (p.31) “I don’t think people like that would be admitted to this school in the first place.”
 [trait] (p.31) “All I am is an unremarkable student.” — no ladder to climb, no rung to be kicked off; coasting with Horikita is luck enough.
 
-### y1v4.5 p.33–37 — Ch.2 §2.4: the reading
+### y1v4.5 p.33–37 — Ch.2 sec. 2.4: the reading
 [scene] (p.33) After about fifteen minutes a pair at a time, the tent: thirty lux, hood, crystal ball, card reader — and the Basic Plan for both.
 [says] (p.33) “I’ll take the same,” I replied.
 [status:points] (p.34) Balance check before paying: roughly 6,000 points left — “barely enough” — and the Basic Plan deducts by card, price not printed.
 [rel:ukon] (p.35–37) The reading turns on him: a broad “harsh childhood,” then the pronouncement that he holds the fate tenchuusatsu, and the advice to go straight home without detours.
 [says] (p.38) “I’m not going to dismiss fortune-telling from now on,” I added.
 
-### y1v4.5 p.38–47 — Ch.2 §2.5: the detour and the elevator
+### y1v4.5 p.38–47 — Ch.2 sec. 2.5: the detour and the elevator
 [scene] (p.38) They take the detour on purpose — to test the prediction — and the car grinds to a halt on the third floor.
 [action] (p.39–40) Works the dead emergency line like a technician: backup battery alive, control panel likely dead, hearing-impaired button silent too.
 [says] (p.40) “Apparently, our situation is far more serious than I originally thought.” — his own battery at four percent.
@@ -2381,7 +2381,7 @@ walk: y1v1 → DONE
 [rule] (p.50) Free meals and free water make going without spending possible, but most students run dry near month's end, as with the first month's 100,000 points.
 [action] (p.50) All three agree to the pooled gift and set out to buy it together.
 
-### y1v4.5 p.51–57 — Ch.3 §3.1: shopping with the two idiots
+### y1v4.5 p.51–57 — Ch.3 sec. 3.1: shopping with the two idiots
 [scene] (p.51) The boys meet without Kushida to buy Inogashira's present; Ike complains, Yamauchi bickers, and AK mediates with Sudou's share of the points.
 [says:ike-kanji] (p.51) “She’s the most important person!”
 [says] (p.51) “Remember, Kushida never said that she’d go with us.”
@@ -2404,14 +2404,14 @@ walk: y1v1 → DONE
 [says:ike-kanji] (p.56) “Maybe he doesn’t want anyone to see what he’s buying?”
 [rel:katsuragi-kouhei] (p.56) Katsuragi picks a box and pays without noticing the Class D boys watching him.
 
-### y1v4.5 p.58–59 — Ch.3 §3.1: the chocolate and the date
+### y1v4.5 p.58–59 — Ch.3 sec. 3.1: the chocolate and the date
 [scene] (p.58) Ike and Yamauchi inspect the box Katsuragi bought: chocolate in cute wrapping, for a girl.
 [says:katsuragi-kouhei] (p.58) “The birthday is August 29.”
 [says:ike-kanji] (p.58) “Which girl has a birthday on the twenty-ninth?”
 [says:yamauchi-haruki] (p.58) “Do you know who it might be, Ayanokouji?”
 [note] (p.59) Page 59 is a single line — AK has no clue either, and the date stays unmatched.
 
-### y1v4.5 p.60–66 — Ch.3 §3.2: birthdays in AK's room
+### y1v4.5 p.60–66 — Ch.3 sec. 3.2: birthdays in AK's room
 [scene] (p.60) After dinner Ike, Yamauchi, Kushida and Sudou gather in AK's room to identify Katsuragi's August 29 birthday girl.
 [says:ike-kanji] (p.60) “Kikyou-chan, do you know the other girls’ birthdays?”
 [says:kushida-kikyou] (p.60) “I think I’ve memorized the birthdates of everyone who’s told me, more or less.”
@@ -2447,7 +2447,7 @@ walk: y1v1 → DONE
 [says:sudou-ken] (p.66) “Should I force you?”
 [says] (p.66) “I’ll do some digging tomorrow.”
 
-### y1v4.5 p.67–73 — Ch.3 §3.3: the crossroads and the offer
+### y1v4.5 p.67–73 — Ch.3 sec. 3.3: the crossroads and the offer
 [scene] (p.67) Staking out the dorm crossroads for Katsuragi, AK is intercepted by Student Council President Horikita Manabu and Secretary Tachibana.
 [says] (p.67) “It’s so hot, I feel like I could die…”
 [says:horikita-manabu] (p.67) “It’s been a while.”
@@ -2491,7 +2491,7 @@ walk: y1v1 → DONE
 [says:horikita-manabu] (p.73) “Please feel free to stop by the student council whenever you like.”
 [status] (p.73) Manabu gives up for now; AK reads even the president as wrestling with his own anxieties.
 
-### y1v4.5 p.74–78 — Ch.3 §3.4: trailing Katsuragi
+### y1v4.5 p.74–78 — Ch.3 sec. 3.4: trailing Katsuragi
 [scene] (p.74) Thirty minutes later AK tails Katsuragi from the crossroads — toward the school building, which he enters in uniform.
 [says] (p.74) “That’s why he’s wearing his uniform, huh?”
 [rel:katsuragi-kouhei] (p.74) Casual clothes are forbidden inside the school; the uniform was for entry, not fashion.
@@ -2521,7 +2521,7 @@ walk: y1v1 → DONE
 [says:katsuragi-kouhei] (p.78) “It’s personal.”
 [limit] (p.78) Katsuragi refuses to name the recipient; AK ends the chapter's first half with the school-building and store-return mysteries open.
 
-### y1v4.5 p.79–82 — Ch.3 §3.5: the self-gift theory
+### y1v4.5 p.79–82 — Ch.3 sec. 3.5: the self-gift theory
 [scene] (p.79) AK reports he found no girl with the August 29 birthday; Ike and Yamauchi pivot to a new theory.
 [says] (p.79) “Unfortunately, I couldn’t find out who the present was for,”
 [says:yamauchi-haruki] (p.79) “I think he actually bought the gift for himself,”
@@ -2535,7 +2535,7 @@ walk: y1v1 → DONE
 [says] (p.82) “Are you really buying something?”
 [action] (p.82) AK decides not to refuse; they agree to meet the next day and disperse.
 
-### y1v4.5 p.83–87 — Ch.3 §3.6: Kushida joins, and the bench with Horikita
+### y1v4.5 p.83–87 — Ch.3 sec. 3.6: Kushida joins, and the bench with Horikita
 [scene] (p.83) The next afternoon Kushida volunteers for the present run; AK walks out in uniform and peels off to talk to Horikita.
 [rel:kushida-kikyou] (p.83) She offers to share the cost because Katsuragi has done quite a bit for her too.
 [says:kushida-kikyou] (p.83) “I’ll help out with the present’s cost, of course,”
@@ -2553,7 +2553,7 @@ walk: y1v1 → DONE
 [says:horikita-suzune] (p.87) “None of your business.”
 [says:horikita-suzune] (p.87) “I refuse.”
 
-### y1v4.5 p.88–94 — Ch.3 §3.7: the student council room
+### y1v4.5 p.88–94 — Ch.3 sec. 3.7: the student council room
 [scene] (p.88) The four surround Katsuragi to celebrate; Kushida fronts, and he stays guarded.
 [says:kushida-kikyou] (p.88) “Isn’t it your birthday today, Katsuragi-kun?”
 [says:katsuragi-kouhei] (p.88) “If you have an ulterior motive, please tell me,”
@@ -2589,7 +2589,7 @@ walk: y1v1 → DONE
 [says:horikita-manabu] (p.94) “Even if you act behind the scenes, I won’t investigate.”
 [status] (p.94) AK walks out muttering that the president is shrewd — and suspects his involvement in what follows.
 
-### y1v4.5 p.95–97 — Ch.3 §3.8: the offer in the lobby
+### y1v4.5 p.95–97 — Ch.3 sec. 3.8: the offer in the lobby
 [scene] (p.95) In the dorm lobby Katsuragi, depressed, tries to hand AK the rejected gift.
 [says:katsuragi-kouhei] (p.95) “I don’t really care for sweets,”
 [says] (p.95) “It’s wasted on me.”
@@ -2606,7 +2606,7 @@ walk: y1v1 → DONE
 [says] (p.97) “They wouldn’t search every square inch of your body.”
 [rel:sudou-ken] (p.97) AK confirms he has a talented, trustworthy individual in mind — Sudou, tournament the day after tomorrow.
 
-### y1v4.5 p.98–104 — Ch.3 §3.9: Sudou takes the job
+### y1v4.5 p.98–104 — Ch.3 sec. 3.9: Sudou takes the job
 [scene] (p.98) An hour after club, AK and Katsuragi pitch Sudou; he rejects it flatly at first.
 [says:sudou-ken] (p.98) “Seriously, who in their right mind would want to do something like that?”
 [rel:katsuragi-kouhei] (p.98) A promised reward changes Sudou's mind; he lays out the tournament logistics.
@@ -2665,7 +2665,7 @@ walk: y1v1 → DONE
 [action] (p.119) He offers Ike or Sudou as a water source; she refuses their water on principle.
 [action] (p.119) A second dry pull fails; the bottle only comes off with soap and water.
 
-### y1v4.5 p.120–131 — Ch.4 §4.4–4.6: the run for water
+### y1v4.5 p.120–131 — Ch.4 sec. 4.4–4.6: the run for water
 [scene] (p.120) With every local source dry, AK proposes Hirata and then Kushida or Sakura; Horikita vetoes Kushida on the spot.
 [action] (p.120) Hirata doesn't pick up, and his chat stays unread.
 [says] (p.120) “I’m not getting a response.”
@@ -2701,7 +2701,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y1v4.5 ch4 → p.131 -->
 
-### y1v4.5 p.132–143 — Ch.5 §5.1: the letter
+### y1v4.5 p.132–143 — Ch.5 sec. 5.1: the letter
 [scene] (p.132) Yamauchi bursts in on the last days of vacation with a printed love letter and drafts AK to proofread and deliver it.
 [action] (p.132) AK lets him in with barley tea and admits he owes him one after the old phone-number bargain.
 [rel:yamauchi-haruki] (p.132) The debt runs to a promise AK made without Sakura's consent that made Yamauchi look foolish in Horikita's eyes.
@@ -2732,7 +2732,7 @@ walk: y1v1 → DONE
 [says] (p.142) “Maybe the letter’s from someone you like,”
 [action] (p.143) Yamauchi's belief rests on her averted eyes and heavy sighs; AK reads them as exhaustion.
 
-### y1v4.5 p.144–146 — Ch.5 §5.2: the night call
+### y1v4.5 p.144–146 — Ch.5 sec. 5.2: the night call
 [scene] (p.144) Sakura's midnight texts turn into a phone call about tomorrow's answer.
 [action] (p.144) He lies about doing laundry so she will not feel she woke him.
 [says] (p.144) “You can’t sleep?”
@@ -2741,7 +2741,7 @@ walk: y1v1 → DONE
 [says] (p.146) “I have zero experience, same as you.”
 [action] (p.146) They chat until she grows drowsy and the call ends.
 
-### y1v4.5 p.147–152 — Ch.5 §5.3: the answer
+### y1v4.5 p.147–152 — Ch.5 sec. 5.3: the answer
 [scene] (p.147) At four they meet behind the school building; rain soaks them before Yamauchi arrives.
 [action] (p.148) He refuses her handkerchief; she dries his hair and face anyway.
 [back] (p.148) The handkerchief is the one Sakura lent him on the uninhabited island.
@@ -2784,7 +2784,7 @@ walk: y1v1 → DONE
 [rel:horikita-suzune] (p.162) He uses her as a conspicuous cover while acting entirely on his own since the ship.
 [action] (p.162) They head for the pool to take care of something in advance.
 
-### y1v4.5 p.163–165 — Ch.6 §6.1: the invitations
+### y1v4.5 p.163–165 — Ch.6 sec. 6.1: the invitations
 [scene] (p.163) The night before: Ike's group-chat call to action recruits the girls for the pool — and Sudou's friend line recruits AK.
 [action] (p.163) He answers the chat with a noncommittal promise to see what he can do.
 [says] (p.164) “Can’t I call you without a reason?”
@@ -2794,7 +2794,7 @@ walk: y1v1 → DONE
 [says] (p.165) “We’ll meet at 8:30 in the lobby, and plan to go our separate ways in the evening,”
 [action] (p.165) He frames the coercion as cashing in the favor from the water-bottle night, then calls Sakura.
 
-### y1v4.5 p.166–171 — Ch.6 §6.2–6.3: the lobby and the lie
+### y1v4.5 p.166–171 — Ch.6 sec. 6.2–6.3: the lobby and the lie
 [scene] (p.166) At 8:30 the group assembles; Sudou is missing and his phone won't connect.
 [says] (p.166) “There’s still about ten seconds left until we were scheduled to meet.”
 [says] (p.166) “It’s no use. The call’s not connecting,”
@@ -2804,7 +2804,7 @@ walk: y1v1 → DONE
 [rel:sudou-ken] (p.169) He watches Sudou and Horikita both for the same tendency: making enemies easily.
 [action] (p.171) Karuizawa texts that she is in the locker room; he puts his phone away from Ike's peek.
 
-### y1v4.5 p.172–178 — Ch.6 §6.4: the pool
+### y1v4.5 p.172–178 — Ch.6 sec. 6.4: the pool
 [scene] (p.172) The club pool is ringed with food stalls run by upperclassmen; the crowd lifts the group's mood.
 [says] (p.174) “I don’t really like showing skin in front of people.”
 [action] (p.174) Ichinose pokes his rash-guarded stomach; he credits Katsuragi's payment for the funds.
@@ -2880,7 +2880,7 @@ walk: y1v1 → DONE
 [rel:horikita-suzune] (p.15) Exchanges the no-presence / long-shadows banter with her; she is not joking when she takes the bait.
 [rel:sudou-ken] (p.16) Names Sudou among the athletic students the festival is built to give their first real opening.
 
-### y1v5 p.16–25 — Ch.2 §2.1: the rules and the huddle
+### y1v5 p.16–25 — Ch.2 sec. 2.1: the rules and the huddle
 [scene] (p.16) Afternoon homeroom becomes a two-hour session: Chabashira announces the September sports festival and its handout; the class erupts.
 [rel:horikita-suzune] (p.17) Teases her about finally having an opportunity to get in touch with her brother on the Red Team; she glares and tells him to drop it.
 [says] (p.17) “At least you have an opportunity to get in touch now, huh?”
@@ -2888,7 +2888,7 @@ walk: y1v1 → DONE
 [rel:yamauchi-haruki] (p.24) Yamauchi is present at the huddle; no line of his is tagged in the translation.
 [says] (p.23) “It’s a sad fact of reality,” — answering Horikita’s complaint that only guys like these come to her.
 
-### y1v5 p.26–34 — Ch.2 §2.2: the Red Team assembly
+### y1v5 p.26–34 — Ch.2 sec. 2.2: the Red Team assembly
 [scene] (p.26) Over four hundred people gather in Gymnasium 1: Fujimaki takes Red Team command, first-year Class A assembles under Katsuragi, Ryuuen walks Class C out, Sakayanagi Arisu is introduced, and Ayanokōji and Horikita argue strategy in the corner.
 [rel:horikita-manabu] (p.26) Notes that the student council president does not take Red Team command and wonders when he will make a move.
 [rel:katsuragi-kouhei] (p.31) Takes the Class A–Class D pact at face value — no shared competition details, only a promise not to get in each other’s way.
@@ -2904,7 +2904,7 @@ walk: y1v1 → DONE
 [says] (p.34) “We have to think like that to rise to Class A’s level,”
 [feat] (p.34) Has studied Ryuuen’s strategies and thought processes ever since the fight that nearly got Sudou expelled.
 
-### y1v5 p.35–38 — Ch.2 §2.3: the gate
+### y1v5 p.35–38 — Ch.2 sec. 2.3: the gate
 [scene] (p.35) After class he stays behind alone with a file on his phone — whatever it showed, he decides no traps are necessary — then runs into Chabashira spraying water at the main gate.
 [says] (p.35) “Are you on duty today?”
 [says] (p.37) “Don’t you think that’s an exaggeration?”
@@ -2915,7 +2915,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y1v5 ch2 → p.38 -->
 
-### y1v5 p.39–53 — Ch.3 §3: The blackboard vote, the betrayal warning, the roster
+### y1v5 p.39–53 — Ch.3 sec. 3: The blackboard vote, the betrayal warning, the roster
 [scene] (p.39) Class 1-D homeroom: Hirata chalks two systems for the sports festival while Ayanokōji narrates the class’s first real strategy meeting of the volume.
 [thinks] (p.39) “We began making comprehensive preparations for the sports festival, which was only one month away.”
 [action] (p.41) Lets Horikita’s jab about his phone pass, then stays out of the debate: “Well, if I just leave it to you and Hirata, you’ll sort out our problems, right?”
@@ -2938,7 +2938,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y1v5 ch3 → p.53 -->
 
-### y1v5 p.54–67 — Ch.4 §4: The Ryuuen read, the partner lesson, the two problems
+### y1v5 p.54–67 — Ch.4 sec. 4: The Ryuuen read, the partner lesson, the two problems
 [scene] (p.54) First independent practice on the athletic grounds: Class A and B watch from the windows, Class C does not, and Ayanokōji and Horikita talk strategy at the edge of the field.
 [rel:ryuuen-kakeru] (p.55) Reads the missing reconnaissance as the tell: “He’s making it obvious by not bothering to do any reconnaissance,”
 [says] (p.55) “Normally, when someone has a secret plan in place, they do whatever it takes to ensure that their enemies don’t figure it out.”
@@ -2957,7 +2957,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y1v5 ch4 → p.67 -->
 
-### y1v5 p.68–85 — Ch.5 §5: The invitation, the theory, the exit
+### y1v5 p.68–85 — Ch.5 sec. 5: The invitation, the theory, the exit
 [scene] (p.68) Two weeks before the festival, Ayanokōji recruits Horikita and Kushida for a Saturday reconnaissance — the first move against “the bomb waiting to go off inside Class D.”
 [says] (p.68) “Hang out with me today.”
 [says] (p.68) “You’ll understand better if you come with me.”
@@ -2981,7 +2981,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y1v5 ch5 → p.85 -->
 
-### y1v5 p.86–114 — Ch.6 §6: festival day, first events
+### y1v5 p.86–114 — Ch.6 sec. 6: festival day, first events
 [scene] (p.86) Sports festival day opens: Fujimaki’s speech, medical cottage and facing team tents, a camera on the 100-metre finish line; Class D marches in jerseys.
 [says:ike-kanji] (p.86) “All right, time to really show off for Kikyou-chan!” shouted Ike as he walked directly behind me.
 [action] (p.87) Tells Horikita he drew the seventh group for the 100-metre dash; his only aim is not to come in last.
@@ -2999,38 +2999,38 @@ walk: y1v1 → DONE
 [rel:hirata-yousuke] (p.114) Leaves Hirata in charge of the group and goes to Horikita after her fall; he judges that another such “accident” would be too much to believe.
 [trait] (p.114) Treats the stacked mishaps as deliberate and takes Hirata’s uneasy agreement as confirmation someone is working the class.
 
-### y1v5 p.115–142 — Ch.6 §6.7–6.10: observation, cavalry, and the plan
+### y1v5 p.115–142 — Ch.6 sec. 6.7–6.10: observation, cavalry, and the plan
 [scene] (p.115) Second half opens mid-conversation with injured Horikita after the obstacle fall; Ayanokōji then runs three-legged, watches the cavalry battles, confronts the leak with Karuizawa, and sends Horikita after Sudou.
 [action] (p.115) Learns Kinoshita called Horikita’s name to force the collision; notes Horikita has thirty points to his twenty-seven.
 [says] (p.115) “I’ll do everything I can.”
 [rel:sudou-ken] (p.115–116) Watches Sudou carry Ike to three-legged first, then pairs with Hirata for their own first place.
 [rel:horikita-suzune] (p.115–117) Sees Horikita and Kushida fade to last in the girls’ three-legged as the leg injury tells; later names the stack of hard matchups as deliberate.
-[action] (p.118–119, §6.7) Stays through the ten-minute break observing Class A’s two-faction split and asks Hirata what kind of student Sakayanagi is.
+[action] (p.118–119, sec. 6.7) Stays through the ten-minute break observing Class A’s two-faction split and asks Hirata what kind of student Sakayanagi is.
 [says] (p.118) “Amazing that they’ve gotten this far with such internal discord,”
 [rel:sakayanagi-arisu] (p.118–119) Reads her silence and single focus on Katsuragi as willingness to lose points for his downfall.
-[action] (p.120–129, §6.8) Serves as a right-side horse under Hirata’s jockey in the boys’ cavalry; holds position while Sudou crashes the line and Hirata twice grabs Ryuuen’s headband.
+[action] (p.120–129, sec. 6.8) Serves as a right-side horse under Hirata’s jockey in the boys’ cavalry; holds position while Sudou crashes the line and Hirata twice grabs Ryuuen’s headband.
 [rel:ryuuen-kakeru] (p.126–129) Watches the one-on-one bait take Sudou, then the hair-gel trick that makes the stolen headband unprovable.
 [rel:karuizawa-kei] (p.129–132) Explains the leak, the fixed matchups and the Horikita crush to Karuizawa; answers “no intention of winning” with “do nothing.”
 [says] (p.130) “She’s being targeted,”
 [says] (p.131) “Win? I have no intention of winning.”
 [action] (p.132–134) Keeps distance while Sudou punches Hirata and walks off; tells Karuizawa the mess has nothing to do with him.
-[action] (p.135–139, §6.9) Takes third in the 200-metre dash, then delivers the “burden” and “weapon” confrontation that is meant to wake Horikita and send her for Sudou.
+[action] (p.135–139, sec. 6.9) Takes third in the 200-metre dash, then delivers the “burden” and “weapon” confrontation that is meant to wake Horikita and send her for Sudou.
 [says] (p.136) “You’re nothing but a burden.”
 [says] (p.137) “How long do you plan to be useless, Horikita?”
 [says] (p.137) “I’m calling you useless because you are useless.”
 [rel:horikita-suzune] (p.136–138) Calls her useless on purpose so she will reclaim Sudou as her asset for Class A’s climb.
-[action] (p.141–142, §6.10) At lunch he lies to Hirata and Karuizawa that the traitor acts on Horikita’s orders; the morning ends with Horikita and Sudou both missing.
+[action] (p.141–142, sec. 6.10) At lunch he lies to Hirata and Karuizawa that the traitor acts on Horikita’s orders; the morning ends with Horikita and Sudou both missing.
 [says] (p.141) “I’ve taken stock of the traitor’s moral fiber,”
 [says] (p.142) “Yeah. Everything is going according to Horikita’s plan.”
 [trait] (p.129–142) Runs a deliberate double game: full analysis for his inner circle, controlled misinformation for the class, and one surgical pressure campaign on Horikita.
 
 <!-- walk: y1v5 ch6 → p.143 -->
 
-### y1v5 p.144 — Ch.7 §7: the beatdown already landed
+### y1v5 p.144 — Ch.7 sec. 7: the beatdown already landed
 [scene] (p.144) Horikita walks to the nurse’s office still stinging from Ayanokouji’s earlier speech.
 [rel:horikita-suzune] (p.144) Horikita admits he was absolutely right and she had no reply.
 
-### y1v5 p.158 — Ch.7 §7.2: declines the search
+### y1v5 p.158 — Ch.7 sec. 7.2: declines the search
 [scene] (p.158) On the field after Horikita’s failed search, Ayanokouji notes her breath and refuses to come along.
 [says:ayanokouji-kiyotaka] (p.158) “You sound like you’re out of breath,”
 [says:ayanokouji-kiyotaka] (p.158) “Is your leg all right?”
@@ -3039,7 +3039,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y1v5 ch7 → p.159 -->
 
-### y1v5 p.160–162 — Ch.8 §8: the scavenger hunt draws
+### y1v5 p.160–162 — Ch.8 sec. 8: the scavenger hunt draws
 [scene] (p.160) Second half opens with Ayanokouji stuck in the scavenger hunt after losing rock-paper-scissors, while Sudou and Horikita are both missing.
 [says:ike-kanji] (p.160) “You’re participating in the scavenger hunt, right, Ayanokouji-kun?”
 [says:ayanokouji-kiyotaka] (p.160) “I’d rather not, if possible.”
@@ -3055,7 +3055,7 @@ walk: y1v1 → DONE
 [feat] (p.161) Ike takes first on a lucky draw; Ayanokouji’s own lots are “Ten friends” then “A person you love”; he redraws to a table clock and finishes last.
 [says:ayanokouji-kiyotaka] (p.162) “I’d like to request a change.”
 
-### y1v5 p.168–175 — Ch.8 §8.2: the points crisis and Kushida
+### y1v5 p.168–175 — Ch.8 sec. 8.2: the points crisis and Kushida
 [scene] (p.168) After a lost four-way tug-of-war, Hirata has paid three substitutes; Kushida volunteers for the three-legged race and Ayanokouji takes Sudou’s place.
 [says:ayanokouji-kiyotaka] (p.168) “Hirata, are you going to pay for the next competition, too?”
 [says:hirata-yousuke] (p.168) “Yeah, I am. We need it,”
@@ -3077,7 +3077,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y1v5 ch8 → p.180 -->
 
-### y1v5 p.181–188 — Ch.9 §9: the relay anchor
+### y1v5 p.181–188 — Ch.9 sec. 9: the relay anchor
 [scene] (p.181) Sudou returns for the 1200-metre relay; after Miyake’s ankle withdrawal Ayanokouji volunteers as substitute and is made anchor.
 [says:hirata-yousuke] (p.181) “The final event, huh? I guess we need to choose a substitute for this one, too.”
 [note] (p.181) Speaker untagged before Sudou’s entrance; recorded under Hirata’s field.
@@ -3100,7 +3100,7 @@ walk: y1v1 → DONE
 [says:horikita-manabu] (p.187) “Interesting.”
 [feat] (p.188) First serious run of his life: closes on the frontrunners in a one-on-one against Horikita Manabu; blocked by a fallen runner before the line.
 
-### y1v5 p.189–193 — Ch.9 §9.1: attention and the first-name bargain
+### y1v5 p.189–193 — Ch.9 sec. 9.1: attention and the first-name bargain
 [scene] (p.189) After the race Karuizawa, Sudou and Horikita crowd him; the scoreboard brings Red Team victory and Class D fourth among first-years.
 [says:karuizawa-kei] (p.189) “You were super fast.”
 [says:ayanokouji-kiyotaka] (p.189) “Wasn’t it just that my opponent was slow?”
@@ -3113,7 +3113,7 @@ walk: y1v1 → DONE
 [says:horikita-suzune] (p.193) “This class is going to get stronger. Then we’ll definitely climb the ranks to the upper classes,”
 [rel:horikita-suzune] (p.193) She says she must first “get down on my knees” — the Ryuuen appointment he is not told about.
 
-### y1v5 p.202–204 — Ch.9 §9.4: the White Room greeting
+### y1v5 p.202–204 — Ch.9 sec. 9.4: the White Room greeting
 [scene] (p.202) At the special building Kamuro delivers him to Sakayanagi, who names the White Room and claims eight years and 243 days of knowledge of him.
 [says:sakayanagi-arisu] (p.202) “You drew quite a lot of attention in that final relay, Ayanokouji Kiyotaka-kun.”
 [says:sakayanagi-arisu] (p.202) “After seeing you run, I remembered something. I called you here because I wanted to share the shock I felt with you.”
@@ -3155,7 +3155,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y1v6 → start -->
 
-### y1v6 p.14–16 — Ch.2 §2: student council handover
+### y1v6 p.14–16 — Ch.2 sec. 2: student council handover
 [scene] (p.14) Mid-October: student council election ceremony; Horikita Manabu hands over and Nagumo Miyabi is sworn in as president.
 [says:nagumo-miyabi] (p.14) “Hello. I’m Nagumo, second-year Class A. Student Council President Horikita, I sincerely appreciate the strict yet kind guidance you’ve shown me.”
 [trait] (p.14) The younger Horikita no longer shrinks from her brother; she remains steadfast watching him leave the stage.
@@ -3165,7 +3165,7 @@ walk: y1v1 → DONE
 [says:nagumo-miyabi] (p.16) “A revolution is coming. Students with real ability will rise to the top, and students without any will fall.”
 [narrates] (p.16) Second-years shout delight at the announcement; first years do not know the second/third-year tension behind it.
 
-### y1v6 p.17–19 — Ch.2 §2.1: changed classmates and Satou’s approach
+### y1v6 p.17–19 — Ch.2 sec. 2.1: changed classmates and Satou’s approach
 [scene] (p.17) Second semester: Class D is coalescing; Ayanokouji finds himself alone when Ike, Yamauchi and the Professor leave for Keyaki Mall.
 [action] (p.17) Sudou now takes notes after Horikita’s check-in and softens toward Ike and Yamauchi.
 [says:horikita-suzune] (p.17) “Your dear friends Ike-kun and Yamauchi-kun haven’t been inviting you out much. Isn’t that right?”
@@ -3176,14 +3176,14 @@ walk: y1v1 → DONE
 [rel:sakura-airi] (p.19) Sakura makes a sound as if to speak, then neither speaks nor follows.
 [rel:satou-maya] (p.19) In the gym passage Satou asks whether he has a girlfriend and proposes exchanging phone numbers as friends.
 
-### y1v6 p.21 — Ch.2 §2.1: the “confession”
+### y1v6 p.21 — Ch.2 sec. 2.1: the “confession”
 [scene] (p.21) Satou registers his number, blushes, and runs off after saying the relay made him look cool — Ayanokouji is left stunned.
 [says:satou-maya] (p.21) “I thought the best guy in class was, you know, Hirata-kun. But since he’s Karuizawa-san’s boyfriend, there’s nothing I can do about that, right?”
 [says:satou-maya] (p.21) “To be honest, after getting a good look at you, you’re even cooler than Hirata-kun, and more mature and gentler, too.”
 [rel:sakura-airi] (p.22) Recalling Yamauchi’s earlier confession to Sakura puts his own situation in perspective.
 [rel:satou-maya] (p.21) He feels nothing for Satou either way and notes she never actually asked him to go out.
 
-### y1v6 p.22–24 — Ch.2 §2.1: Katsuragi’s corridor warning
+### y1v6 p.22–24 — Ch.2 sec. 2.1: Katsuragi’s corridor warning
 [scene] (p.22) Walking back, Ayanokouji is stopped by Katsuragi (with Yahiko) about his relay speed and Class A’s problems.
 [says:katsuragi-kouhei] (p.22) “Sorry, but you go on ahead. I have a little something to discuss with Ayanokouji.”
 [says:katsuragi-kouhei] (p.22) “I have enough problems right now. I simply can’t afford to focus on other classes.”
@@ -3196,7 +3196,7 @@ walk: y1v1 → DONE
 [rel:horikita-suzune] (p.24) Ayanokouji promises to warn Horikita about Ryuuen.
 [narrates] (p.24) Class B is the peaceful one; Class C is a dictatorship; Class A is split between two factions.
 
-### y1v6 p.25–28 — Ch.2 §2.2: Karuizawa’s phone call
+### y1v6 p.25–28 — Ch.2 sec. 2.2: Karuizawa’s phone call
 [scene] (p.25) That night Karuizawa phones: she already knew about Satou because Satou told her in advance.
 [rel:satou-maya] (p.25) “Satou-san herself. She told me in advance that she was going to confess to you”
 [rel:karuizawa-kei] (p.25–26) Karuizawa frames it as risk to her own standing if Ayanokouji dates Satou — she was threatened into serving him and needs the protection to continue.
@@ -3209,7 +3209,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y1v6 ch2 → p.29 -->
 
-### y1v6 p.30–39 — Ch.3 §3: midterm results and the Paper Shuffle rules
+### y1v6 p.30–39 — Ch.3 sec. 3: midterm results and the Paper Shuffle rules
 [scene] (p.30) Chabashira posts midterms; Class D has matured; no one fails this round.
 [rel:chabashira-sae] (p.30) Her warning about expulsion for failing grades is genuine; surveillance cameras watch for reactions.
 [says:chabashira-sae] (p.30) “The school will expel you immediately if you fail the midterm or final exam. I told you as much before, so I imagine it’s fresh in your memory.”
@@ -3229,7 +3229,7 @@ walk: y1v1 → DONE
 [rule] (p.37–38) Cheating expels both partners; class writes 400 questions for another class; higher class score takes 50 points.
 [note] (p.39) “Paper Shuffle” named as the usual title for this exam.
 
-### y1v6 p.40–42 — Ch.3 §3.1: meeting call and Kushida’s invitation
+### y1v6 p.40–42 — Ch.3 sec. 3.1: meeting call and Kushida’s invitation
 [scene] (p.40) After class Horikita asks Ayanokouji to fetch Hirata; he weighs distancing from her now that Ryuuen and Ichinose want the hidden hand identified.
 [rel:ichinose-honami] (p.40) Named as wanting the identity of the person pulling Horikita’s strings.
 [rel:ryuuen-kakeru] (p.40) Same: wants that identity after the relay.
@@ -3240,7 +3240,7 @@ walk: y1v1 → DONE
 [rel:sudou-ken] (p.42) Asks to peek in on club first; Horikita agrees.
 [rel:horikita-suzune] (p.43) Keeps him for the Pallet talk: intermediary between Hirata and Karuizawa; offers everything she knows about Kushida.
 
-### y1v6 p.43–48 — Ch.3 §3.1: the junior-high incident on the walk
+### y1v6 p.43–48 — Ch.3 sec. 3.1: the junior-high incident on the walk
 [scene] (p.43) On a detour away from Pallet, Horikita begins the Kushida story — first-day bus, same junior high in another prefecture.
 [rel:kushida-kikyou] (p.43–44) Same junior high; she did not remember Horikita then; bus seat scene with the elderly woman and Kouenji’s refusal.
 [rel:kouenji-rokusuke] (p.44) Also refused the bus seat — not the cause of Kushida’s hate.
@@ -3254,7 +3254,7 @@ walk: y1v1 → DONE
 [rel:ichinose-honami] (p.48) Named on Kushida’s expulsion list.
 [rel:ryuuen-kakeru] (p.48) Already allied with Kushida to entrap Horikita.
 
-### y1v6 p.48–51 — Ch.3 §3.1: expel-or-befriend, then the Ryuuen question
+### y1v6 p.48–51 — Ch.3 sec. 3.1: expel-or-befriend, then the Ryuuen question
 [scene] (p.48) Ayanokouji suggests giving up on Kushida for Class A; Horikita refuses and owns the problem as her responsibility.
 [rel:kushida-kikyou] (p.49) Horikita cites Sudou’s turnaround as proof people with something to offer should not be abandoned.
 [rel:sudou-ken] (p.49) The prior decision not to let him fail is cited back at Ayanokouji.
@@ -3266,7 +3266,7 @@ walk: y1v1 → DONE
 [rel:sakayanagi-arisu] (p.51) Named again as someone who knows his past; Chabashira had mentioned a man who wanted to see him.
 [rel:horikita-suzune] (p.50–51) Roundabout words of thanks; warns Ryuuen has him on the list; “I’m starting to understand you less and less.”
 
-### y1v6 p.52–58 — Ch.3 §3.2: Pallet strategy
+### y1v6 p.52–58 — Ch.3 sec. 3.2: Pallet strategy
 [scene] (p.52) At Pallet: Horikita, Ayanokouji, Hirata, Karuizawa, Kushida and Sudou; short test’s partner-selection significance.
 [rel:karuizawa-kei] (p.52) Glares at Horikita for lateness; “Wow, you just ignored me. Typical.”
 [rel:hirata-yousuke] (p.52–53) Soccer club anxiety absent; eyes shine for the meeting; proposes checking rules with upperclassmen.
@@ -3283,7 +3283,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y1v6 ch3 → p.59 -->
 
-### y1v6 p.60–70 — Ch.4 §4: Class C’s “X” hunt (named only)
+### y1v6 p.60–70 — Ch.4 sec. 4: Class C’s “X” hunt (named only)
 [scene] (p.60) Cold open in Class C: Ryuuen names a Class D mind that thinks like him and vows to smoke out the hidden mind
 [rel:ryuuen-kakeru] (p.60) The island and sports-festival failures are read as one hidden hand; Classes A and B set aside to hit Class D.
 [rel:horikita-suzune] (p.62, 67–68) The class still centres on Horikita as the visible front; X is hypothesised as someone who let Suzune suffer on purpose.
@@ -3293,14 +3293,14 @@ walk: y1v1 → DONE
 [rel:hirata-yousuke] (p.73) floated as a capable alternative mastermind and dismissed.
 [note] (p.74) Ayanokouji is discussed as a suspect throughout; he does not appear in the room.
 
-### y1v6 p.74 — Ch.4 §4: Ryuuen’s next move targets him
+### y1v6 p.74 — Ch.4 sec. 4: Ryuuen’s next move targets him
 [scene] (p.74) After the Yukimura/Ayanokouji photo dead-end, Ryuuen decides to try using one of them and sends a text.
 [rel:ryuuen-kakeru] (p.74) How about we try using him? — the text is the chapter’s closing hook; addressee not printed on these pages.
 [rel:yukimura-teruhiko] (p.74) One of the two photo names; both still treated as possible pawns.
 [note] (p.75) Blank page (page number only).
 <!-- walk: y1v6 ch4 → p.75 -->
 
-### y1v6 p.76–103 — Ch.5 §5: the quiet middleman
+### y1v6 p.76–103 — Ch.5 sec. 5: the quiet middleman
 [scene] (p.76) Homeroom strategy meeting; Ayanokōji watches Horikita take the podium with Hirata as her support for the first time.
 [rel:horikita-suzune] (p.76) Portmann’s premature-birth metaphor frames her as still underdeveloped but full of possibility; she bows an apology for the sports festival.
 [rel:sudou-ken] (p.77) Reads Sudou’s embarrassed smile after Horikita’s look as the one thing she gained — his alliance.
@@ -3322,7 +3322,7 @@ walk: y1v1 → DONE
 [rel:horikita-suzune] (p.103) Dorm call: tests the school’s question standards; asked to manage her sessions too — a word he does not understand.
 [says] (p.103) “That’s not what we agreed.”
 
-### y1v6 p.104–130 — Ch.5 §5.5–5.9: eavesdrop, library, the bet
+### y1v6 p.104–130 — Ch.5 sec. 5.5–5.9: eavesdrop, library, the bet
 [scene] (p.104) Continues the dorm call on study-group management and Kushida; Ryuuen’s dummy-account email closes the night.
 [rel:horikita-suzune] (p.104–106) Pressed on Kushida and question leaks; told to face the worst case for Class D’s lifeline.
 [says] (p.105) “It’d certainly be difficult to rule out any possibility of leaks if we factored in Kushida. Wait, aren’t you and her both participating in the evening study sessions?”
@@ -3369,7 +3369,7 @@ walk: y1v1 → DONE
 [note] (p.131) Blank page (page number only).
 <!-- walk: y1v6 ch5 → p.131 -->
 
-### y1v6 p.132–134 — Ch.6 §6.0: fifth session pulled wider
+### y1v6 p.132–134 — Ch.6 sec. 6.0: fifth session pulled wider
 [scene] (p.132) Fifth Yukimura session with Miyake and Hasebe, moved from Pallet to the Keyaki Mall café because clubs have stopped for the final.
 [says:yukimura-teruhiko] (p.132) “We should’ve met in the library,”
 [says:hasebe-haruka] (p.132) “No way. It’s easier to do it here. Right, Miyacchi?”
@@ -3380,7 +3380,7 @@ walk: y1v1 → DONE
 [rel:hasebe-haruka] (p.132–134) Still in the study trio; she treats the humanities packet as torture and drags him in with a vengeful-spirit bit.
 [rel:miyake-akito] (p.132–134) Archery club tension noted; Miyake wants free time after club but stays for the session.
 
-### y1v6 p.156–158 — Ch.6 §6.4: group chat, Horikita call, birthday notice
+### y1v6 p.156–158 — Ch.6 sec. 6.4: group chat, Horikita call, birthday notice
 [scene] (p.156) The new group’s chat proposes a movie; Ayanokōji joins, then takes Horikita’s exam-prep call and Karuizawa’s texts the same night.
 [says] (p.156) “I’ll join you.”
 [says] (p.156) “Yeah, me too.”
@@ -3399,7 +3399,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y1v6 ch6 → p.176 -->
 
-### y1v6 p.177–185 — Ch.7 §7.0: the envelope, the trap, the counter
+### y1v6 p.177–185 — Ch.7 sec. 7.0: the envelope, the trap, the counter
 [scene] (p.177) Three days before the final; Horikita carries Class D’s confidential question envelope; Ryuuen shadows them to the staff room.
 [says] (p.177) “Oh, sorry,”
 [says] (p.177) “What are our chances?”
@@ -3419,7 +3419,7 @@ walk: y1v1 → DONE
 [rel:karuizawa-kei] (p.188–189) Watches the Satou greeting; Hirata flags her growing attention.
 [rel:yukimura-teruhiko] (p.192–193) Keisei’s predicted questions prove right on the money during the first subject.
 
-### y1v6 p.194–201 — Ch.7 §7.4: the photo and the open challenge
+### y1v6 p.194–201 — Ch.7 sec. 7.4: the photo and the open challenge
 [scene] (p.194) After the first exam day, watches Horikita’s near-perfect math claim and Sudou’s apology; later alone receives Ryuuen’s photograph by phone.
 [says] (p.194) “Looks like you’re all finished,”
 [says] (p.194) “What score would you say you got for the math portion?”
@@ -3501,7 +3501,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y1v7 ch2 → p.31 -->
 
-### y1v7 p.32–64 — Ch.3 §3.1–3.5: library lunch, group gossip, the father’s office
+### y1v7 p.32–64 — Ch.3 sec. 3.1–3.5: library lunch, group gossip, the father’s office
 [scene] (p.32) Narrates the day after the winter meetup: Sudou’s tail report, Horikita’s decoy talk, the Shiina library lunch, the group’s mastermind speculation, then Chabashira’s summons to Atsuomi.
 [says] (p.34) “There aren’t any exams in the immediate future,”
 [says] (p.34) “In other words, he’s looking for you?”
@@ -3534,7 +3534,7 @@ walk: y1v1 → DONE
 [trait] (p.32–64) Keeps the official strategist fiction; reads Shiina as unknown quantity; refuses the drop-out demand without raising his voice; credits freedom and curiosity over the White Room’s single path.
 [note] (p.40, 58) Blank pages (page number only).
 
-### y1v7 p.65–97 — Ch.3 §3.6–3.8: chairman, Chabashira unmasked, Karuizawa cut off, Manabu’s bridge
+### y1v7 p.65–97 — Ch.3 sec. 3.6–3.8: chairman, Chabashira unmasked, Karuizawa cut off, Manabu’s bridge
 [scene] (p.65) Finishes the office fight with his father, survives Chairman Sakayanagi’s admission revelations, unmasks Chabashira on the walk out, ends the Karuizawa pipeline by phone, then takes Manabu’s number over tea.
 [says] (p.65) “This is the last thing I’ll say to you, Kiyotaka. Consider very carefully before answering me. Which would you prefer? To run away from this school of your own free will, or to have your parent force you to leave?”
 [says] (p.65) “I don’t know if there’s any help for a man like you, but I have no intention of giving up. This school is developing its students’ talents, even if it goes about it differently from you. I expect to learn a lot here,”
@@ -3814,7 +3814,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y1v7 ch6 → p.196 -->
 
-### y1v7 p.205–206 — Ch.7 §7.2: the mirror and the tool
+### y1v7 p.205–206 — Ch.7 sec. 7.2: the mirror and the tool
 [scene] (p.205) Ayanokōji POV on the rumors of Ryuuen’s abdication; sees his own first-week self in the dragon boy.
 [note] (p.205) Rumors: Ryuuen abandoned Class C’s leadership; Ishizaki and the others no longer his entourage; he talks to no one.
 [says] (p.205) “It was like looking in a mirror—a mirror of the person I’d been when I first started at this school. I wondered whether there would come a day when Ryuuen regained what he lost. I was sure of one thing, though. He and I were similar.”
@@ -3876,7 +3876,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y1v7.5 ch3 → p.72 -->
 
-### y1v7.5 p.73–85 — Ch.4 §4.0: the snow bench with Ryuuen
+### y1v7.5 p.73–85 — Ch.4 sec. 4.0: the snow bench with Ryuuen
 [scene] (p.73) December 24 before seven, bench near Keyaki Mall; Ayanokōji meets Ryuuen alone in heavy snow, then Horikita Manabu arrives on cue.
 [says:ayanokouji-kiyotaka] (p.73) “I needed to meet you when I was sure no one else would be around.”
 [says:ayanokouji-kiyotaka] (p.76) “I’d like you to hold off on that, if possible. I’d rather live peacefully. Fighting you again would just be a pain,”
@@ -3894,7 +3894,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y1v7.5 ch4 → p.106 -->
 
-### y1v7.5 p.107–120 — Ch.5 §5.1: the double date forms
+### y1v7.5 p.107–120 — Ch.5 sec. 5.1: the double date forms
 [scene] (p.107) Christmas Day; Ayanokōji meets Satou for a one-on-one movie, then Hirata and Karuizawa force a spontaneous double date.
 [says:ayanokouji-kiyotaka] (p.107) “Just go with the flow, I guess.”
 [says:ayanokouji-kiyotaka] (p.112) “If you three are okay with it, I don’t have any objections,” I said.
@@ -3909,7 +3909,7 @@ walk: y1v1 → DONE
 <!-- walk: y1v7.5 ch5 → p.153 -->
 
 ### y1v7.5 p.154–170 — Ch.6: the Kiriyama meet and the Kei Christmas gift
-[scene] (p.154) Dusk after the double date: Ayanokōji and Karuizawa wait at an isolated campus spot; Vice President Kiriyama arrives instead of the expected contact; §6.1 walks back to the dorms with the partner talk and gift exchange.
+[scene] (p.154) Dusk after the double date: Ayanokōji and Karuizawa wait at an isolated campus spot; Vice President Kiriyama arrives instead of the expected contact; sec. 6.1 walks back to the dorms with the partner talk and gift exchange.
 [says:ayanokouji-kiyotaka] (p.154) “They’re late,” I replied.
 [says:ayanokouji-kiyotaka] (p.155) “She’s trustworthy. She’s my partner,” I replied.
 [says:ayanokouji-kiyotaka] (p.158) “Tell us what you want,” I said. “We’ll decide how to go about it.”
@@ -3950,7 +3950,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y1v8 → start -->
 
-### y1v8 p.11–32 — Ch.2 §2.1: the bus briefing and his safety list
+### y1v8 p.11–32 — Ch.2 sec. 2.1: the bus briefing and his safety list
 [scene] (p.11) Third-semester road trip; Ayanokōji rides the Class C bus in a school-mandated jersey and listens to Chabashira’s Mixed Training Camp briefing while Ike talks across the aisle.
 [says:chabashira-sae] (p.13) “I’m sorry. You are Class C now. Allow me to give you newly promoted students an overview of the special exam.”
 [says:chabashira-sae] (p.22) “Yes. The penalty is expulsion.”
@@ -3967,7 +3967,7 @@ walk: y1v1 → DONE
 [rel:nagumo-miyabi] (p.32) Plans to keep an eye on Nagumo during the rare mixed-grade exam.
 [trait] (p.32) Claims he does not care about winning this exam — only passing it safely — while still engineering small interventions.
 
-### y1v8 p.33–43 — Ch.2 §2.2: arrival and the Class A pitch
+### y1v8 p.33–43 — Ch.2 sec. 2.2: arrival and the Class A pitch
 [scene] (p.33) The bus climbs the mountain road; phones are surrendered by syllabary order; Ayanokōji disembarks into cold air before the camp grounds.
 [says:ayanokouji-kiyotaka] (p.33) “I’m not cut out for this…”
 [trait] (p.33) Rare honest slip — special exams still do not suit him because he so rarely had to cooperate with others before.
@@ -3980,7 +3980,7 @@ walk: y1v1 → DONE
 [rel:ike-kanji] (p.41–42) Watches Ike and Yamauchi take Hirata’s bait for the safe Class A seat; Yamauchi wins the rock-paper-scissors.
 [rel:kaneda-satoru] (p.40–43) Hears Kaneda’s all-four-class siege; accepts that Ryuuen’s absence is deliberate and that Kaneda is the one holding Class D’s line.
 
-### y1v8 p.44–76 — Ch.2 §2.3–2.6: group six, Nagumo’s draft, Kōenji, cafeteria
+### y1v8 p.44–76 — Ch.2 sec. 2.3–2.6: group six, Nagumo’s draft, Kōenji, cafeteria
 [scene] (p.44) Gym group-forming after the Class A pitch; Ayanokōji watches the four-class math, ends in a ten-person mixed group, faces Nagumo’s early draft and the cafeteria hour.
 [rel:yukimura-teruhiko] (p.44–45, 55, 61–68) Keisei and Akito check his plan; he bats the question back; later he shoves Keisei forward as the delayed group’s rock-paper-scissors proxy and Keisei ends up representative.
 [rel:miyake-akito] (p.44–45, 50) Akito says his head is not his strong suit and sticks with Keisei; Ayanokōji suspects Akito’s Ryuuen bid is a cover for taking the seat no one wants.
@@ -4001,7 +4001,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y1v8 ch2 → p.76 -->
 
-### y1v8 p.77–93 — Ch.3 §3.1–3.6: first morning, dojo, PE, hallway
+### y1v8 p.77–93 — Ch.3 sec. 3.1–3.6: first morning, dojo, PE, hallway
 [scene] (p.77) Six a.m. wake-up in group six’s dorm; Ayanokōji watches Kōenji’s training bait, Ishizaki’s temper, and Hashimoto’s peacemaking through cleaning, zazen, breakfast, PE and the Sakayanagi bump.
 [rel:kouenji-rokusuke] (p.77–79, 83, 87–88) Tracks Kōenji’s dawn training and lotus ease; slows to jog beside him and asks him to ease the group’s pace — “Ayanokouji Boy” — gets nothing; concludes threats and pleas are meaningless to him.
 [says:ayanokouji-kiyotaka] (p.88) “It would be nice if the group could score reasonably well. I’d like to avoid expulsion.”
@@ -4014,7 +4014,7 @@ walk: y1v1 → DONE
 [goal] (p.87–88) Realizes he wants the group safe from expulsion enough to move on Kōenji sooner rather than later; rules out pure observation.
 [trait] (p.87–88) Would rather give Yukimura the bare minimum than watch him fail as representative under solidarity risk.
 
-### y1v8 p.96–109 — Ch.3 §3.7–3.9: the marked deck
+### y1v8 p.96–109 — Ch.3 sec. 3.7–3.9: the marked deck
 [scene] (p.96) Nagumo’s card visit to group six; Ayanokōji is pulled in for the fifth Old Maid and reads the stacked senior play.
 [rel:nagumo-miyabi] (p.100, 104, 107–108) Nagumo never looks at him until he calls him in; the final offer is a marked joker — Ayanokōji picks the right-hand winning card after a two-second feint of thought.
 [says:ayanokouji-kiyotaka] (p.108) “I like the one on the right. I’ll take that one”
@@ -4026,7 +4026,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y1v8 ch3 → p.109 -->
 
-### y1v8 p.110–128 — Ch.4 §4.1–4.3: cooking, window, Kiriyama, Kei, bath
+### y1v8 p.110–128 — Ch.4 sec. 4.1–4.3: cooking, window, Kiriyama, Kei, bath
 [scene] (p.110) Third camp morning through night bath: cook-duty fracture, Ichinose’s group through the glass, Kiriyama’s confrontation, dinner intel with Karuizawa, Kanzaki’s Ryuuen report.
 [rel:ishizaki-daichi] (p.110–112) Watches the oversalted soup and Kōenji hunt; notes the Ishizaki–Kōenji relationship wrecked beyond repair.
 [rel:kouenji-rokusuke] (p.111–112, 116–117) Tracks Kōenji’s half-hour bathroom absence and later the classroom clash where he refuses group judgment.
@@ -4044,7 +4044,7 @@ walk: y1v1 → DONE
 [says:ayanokouji-kiyotaka] (p.126) “But this exam… Let’s just say a storm is coming.”
 [trait] (p.124–125) Has memorized first-year names-to-faces from exam necessity; quizzes Kei to prove it.
 
-### y1v8 p.129–147 — Ch.4 §4.4–4.5: the note and the corridor
+### y1v8 p.129–147 — Ch.4 sec. 4.4–4.5: the note and the corridor
 [scene] (p.129) Bathhouse exit and Kanzaki’s Class C offer; later 1 a.m. “25” note and the Morse-light corridor meeting with Horikita Manabu.
 [rel:kanzaki-ryuuji] (p.129) Accepts the offer to keep Class C relations; files Kanzaki’s honesty read of Horikita as integrity, not naivety.
 [rel:sudou-ken] (p.130, 139) Dodges the size question; waves off Sudou’s “last rites” offer when the chant forces his hand.

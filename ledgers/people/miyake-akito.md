@@ -6,13 +6,13 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 
 <!-- walk: y1v5 → start -->
 
-### y1v5 p.39–53 — Ch.3 §3: Grip strength and the tug-of-war order
+### y1v5 p.39–53 — Ch.3 sec. 3: Grip strength and the tug-of-war order
 [scene] (p.51) Miyake is named in the four-way tug-of-war order that Hirata sets by grip strength.
 [rel:hirata-yousuke] (p.51) Takes the third tug-of-war slot behind Sudou and Ayanokōji: “Sudou-kun, Ayanokouji-kun, Miyake-kun, and me.”
 
 <!-- walk: y1v5 ch3 → p.53 -->
 
-### y1v5 p.123–127 — Ch.6 §6: left-side horse
+### y1v5 p.123–127 — Ch.6 sec. 6: left-side horse
 [scene] (p.123) Miyake takes the left of Ayanokōji’s unit in the boys’ cavalry — Sudou centre, Ayanokōji right, Miyake left, Hirata jockey.
 [rel:hirata-yousuke] (p.123–127) Supports the jockey from the side; with Ayanokōji has maybe half Sudou’s power against Ryuuen’s wall.
 [rel:sudou-ken] (p.123–127) Rides in the class’s strongest unit; cannot match Sudou’s crashes but holds the formation.
@@ -20,7 +20,7 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 
 <!-- walk: y1v5 ch6 → p.143 -->
 
-### y1v5 p.182–184 — Ch.9 §9: ankle withdrawal
+### y1v5 p.182–184 — Ch.9 sec. 9: ankle withdrawal
 [scene] (p.182) Miyake asks out of the 1200-metre relay after twisting his ankle in the 200-metre dash before lunch.
 [says:miyake-akito] (p.182) “Sorry, but…would you please let me withdraw, too?”
 [says:miyake-akito] (p.182) “To tell you the truth, I twisted my ankle before lunch during the 200-meter dash. I thought it would feel better after I rested, but it still hurts.”
@@ -37,7 +37,7 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 
 <!-- walk: y1v6 → start -->
 
-### y1v6 p.85–103 — Ch.5 §5.2–5.5: the pair that thinks alike
+### y1v6 p.85–103 — Ch.5 sec. 5.2–5.5: the pair that thinks alike
 [scene] (p.85) Approaches Horikita with Hasebe; midterms show near-identical averages and near-identical wrong answers.
 [says:miyake-akito] (p.85) “Well, yes. We’re partners, but we’re equally good and bad at all the same subjects. We’re a little nervous about how we’ll perform in the final, so we wanted to ask for your advice.”
 [rel:hirata-yousuke] (p.85) Hands Hirata both short-quiz and midterm sheets; apologises for the cruise ship and sports festival.
@@ -73,7 +73,7 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 
 <!-- walk: y1v6 ch5 → p.131 -->
 
-### y1v6 p.132–137 — Ch.6 §6.0: the archery boy who stands up to Ryuuen
+### y1v6 p.132–137 — Ch.6 sec. 6.0: the archery boy who stands up to Ryuuen
 [scene] (p.132) Fifth session; archery club already tense enough, so he prefers the café to a stuffy room.
 [says:miyake-akito] (p.132) “Yeah. Archery club is already quiet and tense enough,”
 [says:miyake-akito] (p.133) “It’s just… There are clearly way more questions here than last time, and they look harder.”
@@ -94,7 +94,7 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [rel:yoshimoto-kosetsu] (p.135) Archery clubmate; confirms the second-year girlfriend story.
 [rel:hasebe-haruka] (p.132–135) Study partner; nicknames and coffee mockery.
 
-### y1v6 p.156 — Ch.6 §6.4: late but in
+### y1v6 p.156 — Ch.6 sec. 6.4: late but in
 [scene] (p.156) Answers the group-chat movie plan after the others have already committed.
 [says:miyake-akito] (p.156) “Sounds good to me.”
 [says:miyake-akito] (p.156) “Can you reserve our tickets?”
@@ -202,7 +202,7 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 
 <!-- walk: y1v7 ch4 → p.119 -->
 
-### y1v7 p.120, 123 — Ch.5 §5.1: on the tail list
+### y1v7 p.120, 123 — Ch.5 sec. 5.1: on the tail list
 [scene] (p.120) Named among the delinquents Class C is tailing after the Paper Shuffle.
 [note] (p.120) Grouped with Sudou as a weakling-excluded suspect class; Hirata is the conservative contrast.
 [note] (p.123) Ishizaki and the other guys were ordered to keep an eye on Miyake and a few more people; Ibuki and the rest are not told the real reason.

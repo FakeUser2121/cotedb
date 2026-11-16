@@ -12,7 +12,7 @@ char_id: yamashita-saki · class: Class 1-C · status: minor (allies)
 
 <!-- walk: y1v4 ch2 → p.62 -->
 
-### y1v4 p.161–163 — Ch.4 §4.2: the stairwell trio
+### y1v4 p.161–163 — Ch.4 sec. 4.2: the stairwell trio
 [scene] (p.161) Loses patience first in the cornering — “Karuizawa’s unforgivable” — and strikes her shoulder with extra force.
 [rel:manabe-shiho] (p.161) “Shiho-chan. I’ve had enough. Karuizawa’s unforgivable.” — the Manabe address that starts the strike.
 [rel:karuizawa-kei] (pp.161-163) The shoulder hit, then the face taunts with Manabe and Yabu — “don’t you just want to cut her face?”

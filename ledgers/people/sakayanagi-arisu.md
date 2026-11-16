@@ -53,7 +53,7 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y1v4 ch3 → p.124 -->
 
-### y1v4 p.158 — Ch.4 §4.2: the absent faction leader
+### y1v4 p.158 — Ch.4 sec. 4.2: the absent faction leader
 [scene] (p.158) Named in Morishige’s Class A background — one of the two factions led by Katsuragi and her; she was sick and absent from the trip.
 [rel:morishige-takurou] (p.158) Without her presence he has no choice but to follow Katsuragi’s no-discussion orders.
 [rel:katsuragi-kouhei] (p.158) The other faction leader; Morishige had turned against him on the island.
@@ -61,7 +61,7 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y1v4 ch4 → p.204 -->
 
-### y1v4 p.233 — Ch.5 §5.2: the faction behind the traitor
+### y1v4 p.233 — Ch.5 sec. 5.2: the faction behind the traitor
 [scene] (p.233) Named as the faction Morishige answers to in Ichinose’s traitor prediction.
 [rel:morishige-takurou] (p.233) “He’s a member of Sakayanagi’s faction” — the reason he would break Katsuragi’s plan.
 [rel:ichinose-honami] (p.233) The analyst making the guess from Class B’s side.
@@ -73,7 +73,7 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y1v5 → start -->
 
-### y1v5 p.28–31 — Ch.2 §2.2: the introduction
+### y1v5 p.28–31 — Ch.2 sec. 2.2: the introduction
 [scene] (p.28) First full appearance: the petite girl alone with a thin cane, introduced by Katsuragi as disabled — Class A’s other rumored leader.
 [says] (p.30) “Unfortunately, I won’t be very useful in this competition.”
 [says] (p.30) “Your kindness overwhelms me,” — to the Class D boys who rush to reassure her.
@@ -84,7 +84,7 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y1v5 ch2 → p.38 -->
 
-### y1v5 p.68–85 — Ch.5 §5: Rumored from a distance
+### y1v5 p.68–85 — Ch.5 sec. 5: Rumored from a distance
 [scene] (p.72) Sakayanagi is raised in Ayanokōji’s room as a possible source of Class A information.
 [rel:ike-kanji] (p.72) Ike remembers her as “that beautiful girl”; no usable rumors come back.
 [rel:yamauchi-haruki] (p.73) Yamauchi’s contribution: people say she’s the class leader and “really, like, mature.”
@@ -92,14 +92,14 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y1v5 ch5 → p.85 -->
 
-### y1v5 p.106–107 — Ch.6 §6: the thin smile
+### y1v5 p.106–107 — Ch.6 sec. 6: the thin smile
 [scene] (p.106) Sakayanagi watches from the Class A camp while Hashimoto’s half openly challenges Katsuragi’s tug-of-war orders.
 [inference] (p.106) Ayanokōji reads her thin smile as proof she instigated the rebellion — a bid to crush Katsuragi, her opposition inside Class A.
 [rel:katsuragi-kouhei] (p.106–107) Her faction’s timing is too strange to be coincidence; Katsuragi names her fault if the coalition loses to the bickering.
 [rel:hashimoto-masayoshi] (p.106–107) Hashimoto’s public doubt of Katsuragi’s strategy is read as her handiwork; she does not need to appear on the rope.
 [trait] (p.106) Unsettling in a different way than Ryuuen — no brawl, only a smile and the perfectly timed question.
 
-### y1v5 p.202–204 — Ch.9 §9.4: the White Room greeting
+### y1v5 p.202–204 — Ch.9 sec. 9.4: the White Room greeting
 [scene] (p.202) Sakayanagi waits on the special building’s third floor, sends Kamuro away, and names the White Room to Ayanokouji.
 [says:sakayanagi-arisu] (p.202) “You drew quite a lot of attention in that final relay, Ayanokouji Kiyotaka-kun.”
 [says:sakayanagi-arisu] (p.202) “After seeing you run, I remembered something. I called you here because I wanted to share the shock I felt with you. It’s almost like the buildup toward a romantic confession, don’t you think?”

@@ -7,7 +7,7 @@ aliases used for anchors: tachibana, secretary, student council secretary
 
 <!-- walk: y1v2 → start -->
 
-### y1v2 p.193–195 — Ch.6 §6.1: the secretary who runs the hearing
+### y1v2 p.193–195 — Ch.6 sec. 6.1: the secretary who runs the hearing
 [scene] (p.193) The student council room on the fourth floor; she receives the parties and opens the proceedings.
 [role:student-council] (p.193) Student council secretary; short-haired, and by her own account handles the bulk of proceedings "as usual."
 [says] (p.193) "Of course, considering the magnitude of this dispute, there are times when the student council president will take over. There are several unusual things about this incident. Other than that, the bulk of the proceedings will be handled solely by Tachibana, as usual."
@@ -21,7 +21,7 @@ aliases used for anchors: tachibana, secretary, student council secretary
 [says] (p.195) "Both sides have given their grievances, but now we have to come to a judgment with the collected evidence."
 [trait] (p.195) She keeps the hearing on evidence while the room escalates, and asks the question that turns Komiya's grievance into a concession of shared history.
 
-### y1v2 p.199–210 — Ch.6 §6.1: the room's procedure
+### y1v2 p.199–210 — Ch.6 sec. 6.1: the room's procedure
 [note] (p.199) Three lines in the witness sequence carry no speaker tag — "1-D, Sakura Airi-san.", "You may begin your testimony, if you wouldn't mind, Sakura-san." and, earlier, "If Class D has no further proof to offer, would you mind if we continued the proceedings?" They sit where the secretary has been speaking, but the translation does not name her, so they are recorded as gaps.
 [action] (p.203–204) She walks to Sakura, hesitates, then takes the photographs and hands them to the president.
 [says] (p.204) "President."
@@ -33,7 +33,7 @@ aliases used for anchors: tachibana, secretary, student council secretary
 
 <!-- walk: y1v2 ch6 → p.219 -->
 
-### y1v2 p.243–253 — Ch.7 §7.5–7.6: running the room and the seat she does not expect to fill
+### y1v2 p.243–253 — Ch.7 sec. 7.5–7.6: running the room and the seat she does not expect to fill
 [action] (p.243) She urges the standing Class C students to sit down; they do not move.
 [says] (p.243) "Can you please sit down?"
 [action] (p.252) "The unflappable Secretary Tachibana clapped her hands."
@@ -78,7 +78,7 @@ aliases used for anchors: tachibana, secretary, student council secretary
 <!-- walk: y1v4.5 ch3 → p.107 -->
 ## y1v5
 
-### y1v5 p.157 — Ch.7 §7.2: passing mention with the president
+### y1v5 p.157 — Ch.7 sec. 7.2: passing mention with the president
 [scene] (p.157) Tachibana walks in beside the student council president; she notices Horikita, he does not glance her way.
 [passing mention] (p.157) Named only as Secretary Tachibana with the president at the school entrance.
 

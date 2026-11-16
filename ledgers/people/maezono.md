@@ -18,13 +18,13 @@ char_id: maezono · class: Class 1-D · status: minor
 
 <!-- walk: y1v5 → start -->
 
-### y1v5 p.39–53 — Ch.3 §3: On the scavenger-hunt roster
+### y1v5 p.39–53 — Ch.3 sec. 3: On the scavenger-hunt roster
 [scene] (p.52) Maezono is named by Hirata as one of the five picked for the scavenger hunt after the rock-paper-scissors.
 [rel:hirata-yousuke] (p.52) Picked into the group — “Ayanokouji-kun, Yukimura-kun, Sotomura-kun, Mori-san, and Maezono-san.”
 
 <!-- walk: y1v5 ch3 → p.53 -->
 
-### y1v5 p.182–184 — Ch.9 §9: fourth relay leg
+### y1v5 p.182–184 — Ch.9 sec. 9: fourth relay leg
 [scene] (p.182) Maezono is on the six-person relay list and runs fourth; by his handoff Class D has fallen to seventh.
 [passing mention] (p.182) Named on Hirata’s relay list with Hirata, Miyake, Onodera and Sudou.
 [feat] (p.184) Takes the baton with the lead almost gone; passes to Kushida with Class A already ahead.

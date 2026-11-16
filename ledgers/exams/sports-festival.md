@@ -6,7 +6,7 @@ exam_id: sports-festival · scope: school event; Red vs White across all grades;
 
 <!-- walk: y1v5 → start -->
 
-### y1v5 p.16–23 — Ch.2 §2.1: the rules briefing
+### y1v5 p.16–23 — Ch.2 sec. 2.1: the rules briefing
 [scene] (p.16) Chabashira’s two-hour homeroom hands out the printed sports festival rules; September to early October becomes heavy physical education.
 [rule] (p.17) Classes A and D form the Red Team, Classes B and C the White Team, across all grade levels; Class D competes alongside Class A.
 [rule] (p.17) Individual events score 15/12/10/8; fifth place loses one point and each place below loses one more; a team-competition win is worth 500.
@@ -24,7 +24,7 @@ exam_id: sports-festival · scope: school event; Red vs White across all grades;
 [rel:horikita-suzune] (p.22–23) Her absence and health questions draw out the substitute price and the student-decides health policy.
 [rel:chabashira-sae] (p.16) Delivers the whole briefing in a detached, matter-of-fact manner and lets out one slight laugh at Ike’s question.
 
-### y1v5 p.26–34 — Ch.2 §2.2: the assembly
+### y1v5 p.26–34 — Ch.2 sec. 2.2: the assembly
 [scene] (p.26) Gymnasium 1, four hundred strong: Fujimaki briefs the Red Team, first-year Class A assembles under Katsuragi, Class C walks out, Sakayanagi is introduced, and the Class A–Class D pact is struck.
 [rule] (p.26) Only the final event — the 1200-metre relay — brings all classes from all grade levels together; every other event is divided by grade level.
 [rel:fujimaki] (p.26) Third-year Class A takes Red Team command in place of the student council president.
@@ -34,14 +34,14 @@ exam_id: sports-festival · scope: school event; Red vs White across all grades;
 
 <!-- walk: y1v5 ch2 → p.38 -->
 
-### y1v5 p.39–53 — Ch.3 §3: Four-way tug-of-war and the luck events
+### y1v5 p.39–53 — Ch.3 sec. 3: Four-way tug-of-war and the luck events
 [rule] (p.51) The four-way tug-of-war takes four people from each of the four classes — sixteen in all — who pull simultaneously, so tactics matter beyond raw strength.
 [rule] (p.51) Luck-based events such as the scavenger hunt are staffed by rock-paper-scissors among the volunteers, on Hirata’s call: “Simple is best. How about we go with rock-paper-scissors?”
 [scope] (p.44) Class D’s roster fills only about a third of the all-participant spots at the first pass; the rest stay open for later practice.
 
 <!-- walk: y1v5 ch3 → p.53 -->
 
-### y1v5 p.86–114 — Ch.6 §6: the festival runs
+### y1v5 p.86–114 — Ch.6 sec. 6: the festival runs
 [scene] (p.86) Festival day: opening ceremony, then the thirteen-event schedule begins with the 100-metre dash under a finish-line camera.
 [rule] (p.87) First-year boys form ten groups of eight for the 100-metre dash — two from each class — run at about twenty-second intervals.
 [rule] (p.97) Hurdle penalties: 0.5 seconds for a knocked-down hurdle, 0.3 for a touch; ten hurdles at ten-metre intervals; all down adds five seconds.
@@ -53,7 +53,7 @@ exam_id: sports-festival · scope: school event; Red vs White across all grades;
 [rel:kouenji-rokusuke] (p.88–89) Absent from his lane; the school marks the absence without searching — a missing Red Team scorer.
 [rel:sakayanagi-arisu] (p.88–89) Also non-participating, but with a valid reason in the text’s account — two Red Team handicaps against B and C full rosters.
 
-### y1v5 p.115–143 — Ch.6 §6.7–6.10: afternoon rules and the morning’s end
+### y1v5 p.115–143 — Ch.6 sec. 6.7–6.10: afternoon rules and the morning’s end
 [scene] (p.115) Second half runs three-legged through cavalry to the lunch break that ends the morning half.
 [rule] (p.115) Three-legged: two people per team, only four teams run at once; races follow one another like a live television program.
 [rule] (p.120) Cavalry: three-minute period; points from enemy units defeated and allied units remaining; four horsemen per unit; each horseman fifty points, each class’s “general” one hundred; a stolen headband scores even if the opponent stands.

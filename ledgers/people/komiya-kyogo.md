@@ -6,7 +6,7 @@ char_id: komiya-kyogo · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y1v3 → start -->
 
-### y1v3 p.105–106 — Ch.3 §3.1: the campsite visit
+### y1v3 p.105–106 — Ch.3 sec. 3.1: the campsite visit
 [scene] (p.105) Strides into the Class D campsite with Kondō, chips and soda in hand, smug grins on.
 [says] (p.105) “Wow, you Class D rejects are really living frugal, eh? I guess that's what I'd expect from a class of defectives.”
 [note] (p.105) The translation voices the taunt and the whole visit to the pair without saying which of them speaks.
@@ -22,12 +22,12 @@ char_id: komiya-kyogo · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y1v5 → start -->
 
-### y1v5 p.100 — Ch.6 §6: passing mention
+### y1v5 p.100 — Ch.6 sec. 6: passing mention
 [scene] (p.100) Named with Sakazaki as one of the Class C students from the earlier fight with Sudou, assembled for capture the flag.
 [rel:sudou-ken] (p.100) Recalled among those involved in the fight that almost got Sudou expelled.
 [note] (p.100) Sakazaki is named on the same page but has no roster row; only Komiya is ledgered here.
 
-### y1v5 p.120 — Ch.6 §6: passing mention
+### y1v5 p.120 — Ch.6 sec. 6: passing mention
 [scene] (p.120) Named as one of the three Class D horsemen supporting Horikita’s jockey in the girls’ cavalry.
 [rel:horikita-suzune] (p.120) Horse under her; the unit holds until four enemy horsemen commit to the jockey.
 [note] (p.120) No separate action is shown for him on these pages beyond the formation.
@@ -38,7 +38,7 @@ char_id: komiya-kyogo · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y1v6 → start -->
 
-### y1v6 p.136 — Ch.6 §6.1: named among the goons
+### y1v6 p.136 — Ch.6 sec. 6.1: named among the goons
 [scene] (p.136) Named as one of the evergreen trio of goons standing behind Ryuuen when the study group’s cup is crushed.
 [rel:ryuuen-kakeru] (p.136) Enforcer in the café crash; no dialogue from him on these pages.
 [note] (p.136) Present only in the roll-call of Ryuuen’s party.

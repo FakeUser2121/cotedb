@@ -6,7 +6,7 @@ char_id: totsuka-yahiko · class: Class 1-A (enrolled April 2015) · status: min
 
 <!-- walk: y1v3 → start -->
 
-### y1v3 p.59–60 — Ch.2 §2.3: the second man in the cave
+### y1v3 p.59–60 — Ch.2 sec. 2.3: the second man in the cave
 [scene] (p.59) Inside and around the Class A cave with Katsuragi on day one.
 [says] (p.59) “In a cave this size, we should have enough room for two tents, Katsuragi-san. We sure were lucky. We secured a spot really quickly.” — corrected on the spot: luck was inference.
 [says] (p.60) “I didn’t notice anything at all, and yet… Katsuragi-san, you managed to see the school’s true intentions. Because of that, you understood there was a cave here. Just as we’d expect from you!”
@@ -15,7 +15,7 @@ char_id: totsuka-yahiko · class: Class 1-A (enrolled April 2015) · status: min
 
 <!-- walk: y1v3 ch2 → p.99 -->
 
-### y1v3 p.126–129 — Ch.3 §3.4: holding the entrance
+### y1v3 p.126–129 — Ch.3 sec. 3.4: holding the entrance
 [scene] (p.126) At the Class A cave entrance as Class D approaches; the two temporary toilets and the shower room stand outside.
 [says] (p.126) “Who are you guys? What class are you from?”
 [note] (p.127) Identified as the one of the pair who found the cave quickly on the first day.
@@ -35,7 +35,7 @@ char_id: totsuka-yahiko · class: Class 1-A (enrolled April 2015) · status: min
 
 <!-- walk: y1v3 ch3 → p.130 -->
 
-### y1v3 p.140–141 — Ch.4 §4.3: the second meeting at the thicket
+### y1v3 p.140–141 — Ch.4 sec. 4.3: the second meeting at the thicket
 [scene] (p.140) Arrives with Katsuragi at the corn thicket; his first words are about the food.
 [says] (p.140) “Wow. Look, Katsuragi-san! There’s an incredible amount of food here!”
 [action] (p.140) Apologizes in low spirits under Katsuragi’s stern look.
@@ -54,7 +54,7 @@ char_id: totsuka-yahiko · class: Class 1-A (enrolled April 2015) · status: min
 [rel:katsuragi-kouhei] (p.251) Follows Katsuragi around and was the leader he was covering for at the cave.
 [rel:ayanokouji-kiyotaka] (p.251) The one whose careless occupation Ayanokōji read off the displayed card, checked after the pair walked away.
 
-### y1v3 p.252 — Ch.7 §7.1: the insurance and the narrowing
+### y1v3 p.252 — Ch.7 sec. 7.1: the insurance and the narrowing
 [scene] (p.252) Still inside the lounge retelling; the explanation of why Katsuragi displayed the cave card, and the leader narrowing that ends on his name.
 [fact] (p.252) Katsuragi held the space down "probably because Yahiko had been careless" — the card display was insurance against a witness.
 [rel:katsuragi-kouhei] (p.252) The loop closes on the pair: once the retelling "narrowed it down to Yahiko", further effort "would’ve been a waste of time."
@@ -71,7 +71,7 @@ char_id: totsuka-yahiko · class: Class 1-A (enrolled April 2015) · status: min
 
 <!-- walk: y1v5 ch2 → p.38 -->
 
-### y1v5 p.107 — Ch.6 §6: shouting for Katsuragi
+### y1v5 p.107 — Ch.6 sec. 6: shouting for Katsuragi
 [scene] (p.107) Yahiko, from Katsuragi’s faction, answers Hashimoto’s half by thrusting the rope at a rebel.
 [says] (p.106) “Hurry up and do it!”
 [says] (p.107) “Enough with the shameful behavior!” Yahiko, from Katsuragi’s faction, shouted at Sakayanagi’s faction.
@@ -79,7 +79,7 @@ char_id: totsuka-yahiko · class: Class 1-A (enrolled April 2015) · status: min
 [rel:sakayanagi-arisu] (p.107) Directs the shout at Sakayanagi’s faction across the rope.
 [rel:hashimoto-masayoshi] (p.106–107) Faces Hashimoto’s group as the visible counterweight inside Class A.
 
-### y1v5 p.128 — Ch.6 §6: passing mention
+### y1v5 p.128 — Ch.6 sec. 6: passing mention
 [scene] (p.128) Named among the Class D jockeys who lose their headbands in the last stand against Ryuuen.
 [rel:ryuuen-kakeru] (p.128) Part of the two-against-one that still cannot strip the treated headband.
 [note] (p.128) No separate dialogue on these pages.
@@ -94,7 +94,7 @@ char_id: totsuka-yahiko · class: Class 1-A (enrolled April 2015) · status: min
 
 <!-- walk: y1v6 → start -->
 
-### y1v6 p.22 — Ch.2 §2.1: Class A errand
+### y1v6 p.22 — Ch.2 sec. 2.1: Class A errand
 [scene] (p.22) Walking with Katsuragi, he is told to go on ahead while Katsuragi speaks to Ayanokouji.
 [action] (p.22) Immediately nods and agrees to Katsuragi’s orders.
 [rel:katsuragi-kouhei] (p.22) Takes orders from him without pushback; exits before the Ryuuen/points talk.

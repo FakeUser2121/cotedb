@@ -95,7 +95,7 @@ system_id: point-economy · scope: Tokyo Metropolitan Advanced Nurturing High Sc
 
 <!-- walk: y1v2 ch2 → p.39 -->
 
-### y1v2 p.40–47 — Ch.3 §3.1: what a disciplinary case does to a class's balance
+### y1v2 p.40–47 — Ch.3 sec. 3.1: what a disciplinary case does to a class's balance
 [rule] (p.40) The two-headed cost of a fight, stated by the school: "Depending on the degree of responsibility that Class C saddled him with, Sudou could face suspension, and we might see a reduction in our class points." Individual punishment and class punishment are separate dials turned by the same incident.
 [rule] (p.41) Punishment is deferred against evidence, not against pleas: "We’ll make our final judgment next Tuesday, taking into account any eyewitnesses and evidence." A witness is worth a stay of execution.
 [rule] (p.41) The search is institutionally widened, which is itself a cost: "In order to check for witnesses, every teacher will inform their classes of the details of this incident." — the incident's reputation is now school-wide property.
@@ -108,7 +108,7 @@ system_id: point-economy · scope: Tokyo Metropolitan Advanced Nurturing High Sc
 
 <!-- walk: y1v2 ch3 → p.65 -->
 
-### y1v2 p.68–72 — Ch.4 §4.0: the price of a class change, and the points nobody told Class D about
+### y1v2 p.68–72 — Ch.4 sec. 4.0: the price of a class change, and the points nobody told Class D about
 [rule] (p.68) Class change is a purchase, announced by the school itself: "I said that there’s a way to reach Class A without class points." and "I told you on the day you arrived. I said there’s nothing you cannot buy with your points at this school. In other words, you can change classes by using your personal points."
 [rule] (p.69) The price is fixed and stated as a rule, not a rumour: "Twenty million. Do your best to conserve points. Do that, and you can enter whichever class you like."
 [rule] (p.69) Why the number is that high: "If I were reduce the number by one digit, there would probably be over 100 people in Class A come graduation. Then there’d be no point to our system." (sic — "If I were reduce")
@@ -123,7 +123,7 @@ system_id: point-economy · scope: Tokyo Metropolitan Advanced Nurturing High Sc
 [limit] (p.70) The scale gap is the real content of the announcement: "For students in Class D, who dreamed of a mere 100 or 200 private points, reaching 20 million was a faraway dream."
 [note] (p.68) AK and Horikita are the only two who can verify the claim from experience — "We had tested out that very method ourselves by buying a test point from the school." — the Volume 1 English-point purchase is the private proof behind a school-wide rule.
 
-### y1v2 p.95, p.107 — Ch.4 §4.3–4.4: the cameras that grade you, and the tracks Class D was never told about
+### y1v2 p.95, p.107 — Ch.4 sec. 4.3–4.4: the cameras that grade you, and the tracks Class D was never told about
 [rule] (p.95) Classrooms are recorded, and the recording is the grading instrument: "The school checks those cameras to see if we talk or fall asleep during class. Otherwise, they wouldn’t be able to accurately assess our monthly performance." — AK locates them physically: "I pointed at the two or so cameras affixed to the ceiling near the corners of the classroom. They were small enough that they wouldn’t be a distraction, and they blended in well with their surroundings, but they were undeniably security cameras."
 [rule] (p.95) The cameras' evidentiary value, established the same day: "Well, there are cameras that record what goes on in the classrooms, right? Therefore, if anything did happen, there’d be evidence of it. Those recordings would blow the Class C guys’ lies away."
 [status] (p.98–99) The coverage boundary, checked on site: the special building's hallways have no cameras — "There were electrical outlets by the ceiling, but no signs they were being used." — and AK generalises: "It probably wasn’t just the special building. The hallways in the main school buildings probably didn’t have cameras, either." Horikita's own limit case: "If I had to think of places where they wouldn’t be installed, I’d probably say the bathrooms and the locker rooms. Right?"
@@ -132,14 +132,14 @@ system_id: point-economy · scope: Tokyo Metropolitan Advanced Nurturing High Sc
 [limit] (p.95) Nobody in Class D knew about the cameras either: "Seriously?! I never knew that!" and "They’re not easily spotted. I also didn’t notice until they talked about points for the first time."
 [note] (p.95–107) Three system facts in one day (classroom cameras, club points reaching the class total, teacher evaluation) all arrived from a teacher's slip, a student's memory or another class — none of them from an official notice. The information gap, not the point maths, is what Class D keeps paying for.
 
-### y1v2 p.108, p.114–115 — Ch.4 §4.4–4.6: the teacher's own incentive, and the roles Class D never made
+### y1v2 p.108, p.114–115 — Ch.4 sec. 4.4–4.6: the teacher's own incentive, and the roles Class D never made
 [rule] (p.108) The staff side of the class system, from a Class B student: "the homeroom teacher for Class A gets a special bonus" — reported as Hoshinomiya-sensei's stated motivation, and the first explanation the volume offers for why teaching quality is uneven between classes.
 [status] (p.108) Class D's own reading of the gap: AK on Chabashira — "Our teacher appeared to lack ambition, or even an interest in money. It felt like even if we collapsed into failure, she’d just say it was great." and "Other classes pitied us. If anything, this showed how little interest Chabashira-sensei felt for her own students."
 [rule] (p.114–115) Classes may invent their own governance with no school mandate: Class B elected a class representative, a vice representative and a secretary "purely informal", "something Class B set up on its own" — and the roles are justified as machinery for the cultural fair and sports festival.
 [status] (p.115) Class D has none: "I understood her point, but we certainly weren’t going to assign our own class representative." — the volume's explanation of why Class D organises through four individuals (Hirata, Kushida, Horikita, Ayanokōji) instead of through offices.
 [note] (p.108, p.115) Neither fact is confirmed by the school; both arrive as secondhand report from Class B. The bonus claim is the volume's only stated material incentive attached to a teacher, and it is never repeated by a teacher.
 
-### y1v2 p.116–118 — Ch.4 §4.6: the first figures any student says out loud
+### y1v2 p.116–118 — Ch.4 sec. 4.6: the first figures any student says out loud
 [says] (p.116) "I’ve heard rumors that we might be taking a vacation to a tropical island." — the summer reward exists in July only as a rumour a Class B student repeats; the school has announced nothing.
 [thinks] (p.116) The connection back to Class D's own teacher: "That sparked a memory. I’d forgotten about it, but Chabashira-sensei had mentioned a vacation."
 [rule] (p.117) What Class B expects the break to be worth: "I think there might be a hidden task, one that has a bigger impact on us than the midterms or final exams. Otherwise, the difference between Class A and us wouldn’t close much. We could diminish the gap little by little."
@@ -149,21 +149,21 @@ system_id: point-economy · scope: Tokyo Metropolitan Advanced Nurturing High Sc
 [rule] (p.118) The narrator's own sizing of the coming event: "It would probably be worth more than 10 or 20 points. However, it was difficult to imagine that it would change things by 500 or even 1,000 points."
 [note] (p.117–118) Every figure in this stretch is a student's report, not a school announcement, and the only two classes whose numbers are compared are B and A; Class C is absent from the account entirely.
 
-### y1v2 p.138–140 — Ch.4 §4.10: the shops licensed to the school, and what a warranty is worth
+### y1v2 p.138–140 — Ch.4 sec. 4.10: the shops licensed to the school, and what a warranty is worth
 [rule] (p.138) "There were some incredibly famous, nationally known stores that did business with our school. Even though their customers were only students and the stores themselves weren’t too very big, they sold items for everyday use and electronic appliances."
 [rule] (p.139) The camera's fault, and its cure: "when the store clerk opened up the camera to confirm the contents, he saw that part of it had been damaged from the fall. That was why the camera wouldn’t turn on properly. Fortunately, because Sakura still had the warranty card, the item could be repaired free of charge."
 [status] (p.140) The wait: the repair is quoted at two weeks, and Chapter 4 ends long before the camera comes back.
 [rule] (p.140) A student's own account of consumer law, used to shield a classmate from handing over her address: "The manufacturer warranty explicitly shows where the item was sold and the date of purchase. Also, I doubt there’d be any legal problems with me putting my information down. It should be perfectly fine if the user’s name is different than the purchaser’s."
 [feat] (p.140) The store accepts it without argument: "N-no, not at all. I understand. There’s nothing to worry about," the clerk said.
 
-### y1v2 p.143–144 — Ch.4 §4.10: a price a student actually paid
+### y1v2 p.143–144 — Ch.4 sec. 4.10: a price a student actually paid
 [status] (p.143) The one hard price named by a student in the volume, in the buyer's own words: "Yes, I most certainly did. It cost 80,000 points. But what of it?"
 [rule] (p.143) That points can be spent on electronics at all is established only by this purchase and by the shopping trip it prompts; no rule about what may be bought, or from which pool, is stated.
 [status] (p.144) The narrator's ceiling, stated to the two girls waiting beside him: "Today was just a preliminary inspection. I don’t have enough points to buy anything."
 [trivia] (p.143) The contact is stored in his phone as "Sotomura (Professor)" — students trade points and expertise with each other faster than the school explains either.
 [note] (p.143–144) The thing he is price-checking is not named in Chapter 4; the trip is a preliminary inspection and the purchase is postponed for lack of points.
 
-### y1v2 p.152–158 — Ch.5 §5.0: paying informants, and paying them anonymously
+### y1v2 p.152–158 — Ch.5 sec. 5.0: paying informants, and paying them anonymously
 [fact] (p.152) A bulletin-board flyer promises points for information about Sudou and Class C; it is the first time in the volume that students offer their own points as a bounty.
 [fact] (p.153) A school-homepage message board is used to canvass witnesses; the view counter is "still only in the dozens".
 [fact] (p.154) The bounty is Class B's own money, not the school's: "We just decided to do that on our own."
@@ -259,7 +259,7 @@ system_id: point-economy · scope: Tokyo Metropolitan Advanced Nurturing High Sc
 
 <!-- walk: y1v5 ch2 → p.38 -->
 
-### y1v5 p.39–53 — Ch.3 §3: Class D’s festival point compromise
+### y1v5 p.39–53 — Ch.3 sec. 3: Class D’s festival point compromise
 [rule] (p.42) Horikita’s compromise, carried by the class vote: top placers who don’t need test-score boosts spend their private points lifting the bottom placers’ test scores, and the whole class shares the festival’s gains and losses in private points.
 [impact] (p.42) The narrator notes the cost — chances of victory drop across the board, and the bottom ten students per grade would still be in trouble.
 

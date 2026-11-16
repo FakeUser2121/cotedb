@@ -6,7 +6,7 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 
 <!-- walk: y1v3 → start -->
 
-### y1v3 p.93 — Ch.2 §2.8: she spots the interloper
+### y1v3 p.93 — Ch.2 sec. 2.8: she spots the interloper
 [scene] (p.93) Evening at the river camp, during the food discussion.
 [says] (p.93) “By the way… That girl, Ibuki-san from Class C? I’ve seen her before.” — eyed Ibuki with suspicion from across the camp.
 [rel:ibuki-mio] (p.93) Her naming is what moves Ibuki from background problem to class agenda; Yamauchi then supplies the explanation.
@@ -17,14 +17,14 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 
 <!-- walk: y1v6 → start -->
 
-### y1v6 p.18–19 — Ch.2 §2.1: waiting to get him alone
+### y1v6 p.18–19 — Ch.2 sec. 2.1: waiting to get him alone
 [scene] (p.18) After Karuizawa leaves, Satou waits for Ayanokouji, glances around anxiously, and asks to talk elsewhere.
 [trait] (p.18) Fashionable gyaru like Karuizawa; gets along with Ike and Yamauchi; wanted the social clout Kushida has but is not that popular with the guys.
 [rel:ike-kanji] (p.18) His description of her: “the sort of girl who’s used to being around guys.”
 [rel:kushida-kikyou] (p.18) Narration: Satou seemed to want the kind of social clout Kushida had.
 [rel:sakura-airi] (p.19) Sakura tries to speak as Satou leads Ayanokouji away.
 
-### y1v6 p.19–21 — Ch.2 §2.1: the gym-passage approach
+### y1v6 p.19–21 — Ch.2 sec. 2.1: the gym-passage approach
 [scene] (p.19) In the gym passage she asks whether he has a girlfriend and proposes exchanging phone numbers as friends.
 [says:satou-maya] (p.19) “Ayanokouji-kun, are you going out with anyone?”
 [says:satou-maya] (p.19) “I mean exactly what it sounds like. I’m asking you if you have a girlfriend. Do you?”
@@ -50,7 +50,7 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [rel:horikita-suzune] (p.84) Horikita: “You’re paired up with Satou-san. You should be fine.”
 [note] (p.83) No dialogue from Satou on these pages; only the smile and the name on the list.
 
-### y1v6 p.107–111 — Ch.5 §5.6: library crush on her exam partner
+### y1v6 p.107–111 — Ch.5 sec. 5.6: library crush on her exam partner
 [scene] (p.107) First time in the library; joins the study session as Ayanokōji’s short-quiz partner; awkward since exchanging contacts.
 [rel:ayanokouji-kiyotaka] (p.107–111) Asks if she is a bother; sits close; midterm near-fifty across the board; cool read rejected.
 [says:satou-maya] (p.107) “Wow. So, this is the library, huh?”
@@ -85,7 +85,7 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [rel:kushida-kikyou] (p.145) Hasebe redirects the intel job to Kushida because she and Satou are close.
 [note] (p.134, 145–146) Named only in this chapter’s first half; her crush and partner scenes are ch5.
 
-### y1v6 p.159–161 — Ch.6 §6.5: the theater ambush
+### y1v6 p.159–161 — Ch.6 sec. 6.5: the theater ambush
 [scene] (p.159) Catches Ayanokōji at the movie with her own group in tow and latches onto his arm.
 [says:satou-maya] (p.159) “Ayanokouji-kun!”
 [says:satou-maya] (p.159) “Hey, are you going to see that movie right now? You know, that one everyone’s talking about?!”
@@ -99,7 +99,7 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 
 <!-- walk: y1v6 ch6 → p.176 -->
 
-### y1v6 p.188–189 — Ch.7 §7.1: exam-morning partner
+### y1v6 p.188–189 — Ch.7 sec. 7.1: exam-morning partner
 [scene] (p.188) Waiting in the hall before the first day; hands-on-chest nerves after studying until one.
 [says:satou-maya] (p.188) “Good morning, Ayanokouji-kun. It’s almost time for the test, isn’t it?”
 [says:satou-maya] (p.188) “I studied until about one o’clock. I feel a little nervous,”

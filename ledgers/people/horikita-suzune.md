@@ -363,14 +363,14 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y1v2 → start -->
 
-### y1v2 p.17–18 — Ch.2 §2.1 (July 1): reading the point board correctly
+### y1v2 p.17–18 — Ch.2 sec. 2.1 (July 1): reading the point board correctly
 [says] (p.17) "This isn’t good. Could they have figured out a way to increase their point total?!"
 [says] (p.17) "It’s too early to celebrate. All the other classes saw a similar increase in their points. We didn’t close the distance at all. This might just be a reward first-year students receive for getting through the midterm. Every class seems to have gotten at least 100 points."
 [says] (p.17) "So that’s what happened. I thought it odd that we’d been awarded points so quickly."
 [says] (p.17) "No, that’s not it. We managed to get something this time, after all." (to AK's jab about the widening gap; then falls silent, refusing to explain)
 [trait] (p.17) Only student tracking other classes' totals; celebration-proof — measures relative gap, not absolute gain.
 
-### y1v2 p.19–21 — Ch.2 §2.2 (lunch): the bento era
+### y1v2 p.19–21 — Ch.2 sec. 2.2 (lunch): the bento era
 [says] (p.19) "You’re still not used to it. You’re as pathetic as ever, Ayanokouji-kun." (noticing him scanning for lunch invitations)
 [says] (p.20) "I’m quite fine, thank you." (his sarcasm about her solitude taken literally)
 [says] (p.20) "I’m not sure about that. The school supermarket provides free ingredients, you know."
@@ -379,7 +379,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says] (p.21) "You’re always staring out at the ocean, but you don’t have a surfboard. You lack even the determination to ride the wave, don’t you? And you talk about missing it? You’re awfully full of yourself."
 [trait] (p.19–21) New budget coping routine: home-made bento from free supermarket ingredients; refuses the free-cafeteria-subsidy optics; roasts AK with ocean/surfboard metaphor unprompted.
 
-### y1v2 p.22–26 — Ch.2 §2.3 (after school): points paranoia, chat refusal, oil and water
+### y1v2 p.22–26 — Ch.2 sec. 2.3 (after school): points paranoia, chat refusal, oil and water
 [says] (p.22) "Do you think so, too? That it would have been better if Sudou-kun were expelled?" (opening, while packing every textbook)
 [says] (p.23) "Hmm. Well, we still don’t know whether our points would go up as a class, really," (on her own midterm rescue of Sudou — feigned disinterest)
 [says] (p.22) "I’m a little worried about what Chabashira-sensei said this morning,"
@@ -403,7 +403,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y1v2 ch2 → p.39 -->
 
-### y1v2 p.44–47 — Ch.3 §3.1 (cafeteria): refusing Sudou in front of the group
+### y1v2 p.44–47 — Ch.3 sec. 3.1 (cafeteria): refusing Sudou in front of the group
 [says] (p.44) “You seem to get yourself into trouble time and time again, Sudou-kun.”
 [says] (p.44) “Sorry, but I don’t feel like helping you this time.”
 [says] (p.44) “For Class D to rise through the ranks, it’s important to recover the class points we lost as quickly as possible. However, we probably won’t get any points now, thanks to you. You hindered those plans.”
@@ -414,7 +414,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [scene] (p.46) She takes her tray and sits elsewhere in the cafeteria; AK watches her "looking slightly irritated" while the group tries to work out her reasons without her.
 [says] (p.47) “What idea? To toss me out like the trash?” (Sudou throwing her refusal back at AK)
 
-### y1v2 p.54–57 — Ch.3 §3.2: walked out on, chased down, and still not moved
+### y1v2 p.54–57 — Ch.3 sec. 3.2: walked out on, chased down, and still not moved
 [scene] (p.54) Announces "All right, I’m going to the dorms," nods "without hesitation" and leaves; she "didn’t quail under everyone’s gazes, which all expressed variations on 'You’re leaving?'"
 [trait] (p.54) AK's portrait of the manner: "She would probably grow up to be a fierce woman, the type that leaves social outings without reading the room and concludes meetings exactly on time."
 [says] (p.56) “What is it?”
@@ -430,7 +430,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y1v2 ch3 → p.65 -->
 
-### y1v2 p.67–73 — Ch.4 §4.0: the class-change question, and a point-based reason to save Sudou
+### y1v2 p.67–73 — Ch.4 sec. 4.0: the class-change question, and a point-based reason to save Sudou
 [feat] (p.67) She is the only student in the room who reacts to the class's griping with contempt, and AK is the only one who sees it: "Horikita spontaneously broke into derisive laughter in response to Ike and Karuizawa’s delusions. As her neighbor, I was the only one who noticed."
 [scene] (p.67) Her reading material while the class argues about points: "Horikita immediately took out a library book and began reading, almost as if she was trying not to be distracted by the noise. At a glance, I saw she was reading Dostoevsky’s Demons."
 [scene] (p.68) Chabashira's announcement of a paid class change lands on her first: "Horikita looked up from her book, probably trying to gauge whether Chabashira-sensei was lying."
@@ -444,7 +444,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [trait] (p.67–73) She asks the school for data, not for sympathy: the only two questions she volunteers in the chapter are about the maximum points ever saved and whether the rule is a lie — and she stops arguing the moment the arithmetic says no.
 [rel:ayanokouji-kiyotaka] (p.68) Chabashira's claim that a class can be bought is verified by exactly two people in the room, and the teacher's glance names them: "Chabashira-sensei shot a quick glance over at Horikita and me. We had tested out that very method ourselves by buying a test point from the school."
 
-### y1v2 p.75–81 — Ch.4 §4.1: she names the witness, and refuses the credit
+### y1v2 p.75–81 — Ch.4 sec. 4.1: she names the witness, and refuses the credit
 [scene] (p.75) She appears at AK's door unannounced, the first time in the volume she seeks him out: "Just then, my doorbell rang and a visitor appeared... While I considered who this new visitor might be, she peered through the door."
 [says] (p.75) "Have you made any progress finding the witness?" — AK: "asked Horikita, looking as if she already knew the response."
 [says] (p.76) "I’m only telling you this because it’s you, but I may have found out something—" — she stops mid-sentence on seeing shoes at the door and turns to leave; Kushida's wave forces her in.
@@ -462,7 +462,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:kushida-kikyou] (p.76–80) Kushida is the one who physically keeps her in the room and then the one who asks for her advice; she answers Kushida's plan with a judgement, not participation.
 [rel:sudou-ken] (p.78) She refuses to let him believe she did it for him, twice, in the same breath in which she hands him the witness.
 
-### y1v2 p.88–94 — Ch.4 §4.2–4.3: she writes Sudou off out loud, and prices the witness
+### y1v2 p.88–94 — Ch.4 sec. 4.2–4.3: she writes Sudou off out loud, and prices the witness
 [says] (p.88) "My, how unfortunate. Kushida failed to persuade her." — spoken as Kushida's approach to Sakura collapses in front of the class; AK agrees: "Horikita was correct. If Kushida couldn’t do it, then I didn’t think that anyone else in our class would be able to."
 [says] (p.90–91) The thesis she alone will say, that a bad witness is a better outcome: "She won’t testify on your behalf. They’ll determine you caused the incident. In the end, Class D will be affected by your actions, but we’ll be okay. We have testimony that they lied about the violence. It’s hard to imagine that the school would penalize us by more than 100 or 200 points for being involved in this incident. That way we’ll only lose 87 points, and you won’t face expulsion. However, we’ll shoulder more of the blame than Class C will."
 [trait] (p.91) AK's tag on that speech: "Horikita relentlessly spoke her thoughts out loud, as if she’d been hiding them deep inside her all this time."
@@ -475,7 +475,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says] (p.94) The only case that would actually work: "the best and most miraculous situation would be if there was a trusted witness from another class or grade who saw the entire incident from start to finish. There isn’t anyone who fits that description, though," — AK: "said Horikita with confidence." and "I thought the same."
 [limit] (p.93) She takes no part in stopping Sudou from hitting Kōenji; the physical intervention is Hirata's, and her contribution is the sentence that made him angry enough to need it.
 
-### y1v2 p.95–107 — Ch.4 §4.4: she invites Ayanokōji out, and decides on Class B
+### y1v2 p.95–107 — Ch.4 sec. 4.4: she invites Ayanokōji out, and decides on Class B
 [scene] (p.95) She initiates, for the first time in the volume: "Ayanokouji-kun, do you want to head back together?" — and asks for a ten-minute stop on the way, "It should only take about 10 minutes."
 [feat] (p.95–96) She absorbs an unasked-for physical check without punishment: after AK's hand goes to her forehead she says only "Do you mind? Your hand." — where minutes earlier she had put Ike in a headlock for touching her shoulder, a contrast AK's own line records.
 [says] (p.97) Her first question at the special building is about him, not the case: "You’ve really changed, haven’t you? It’s odd that you stuck your neck out in this case. The witness has already been found, and we’ve confirmed that there’s nothing left to be done. What are you even trying to do?"
@@ -493,7 +493,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ayanokouji-kiyotaka] (p.102) She accepts being cast as the threat in his speech to Sakura without argument: "Are you talking about me?" — muttered, then dropped.
 [rel:ichinose-honami] (p.102–107) Hostility on sight, then a partnership in the same afternoon: she is the one who says no twice, the one who says yes, and the one whose name seals it.
 
-### y1v2 p.108–113 — Ch.4 §4.4–4.5: she follows him to his room and names what she thinks he is
+### y1v2 p.108–113 — Ch.4 sec. 4.4–4.5: she follows him to his room and names what she thinks he is
 [says] (p.108) Her only environmental protest in the volume, delivered to a stranger: “A school that constantly runs air conditioning in empty buildings and is unkind to the environment is the worst,” — Ichinose laughs anyway: "Ha ha ha, that’s probably true. You’re pretty interesting."
 [scene] (p.109) She outsources the social half of the alliance to him with a look: "Horikita shot me a look that seemed to say, I don’t want to do it. Give her yours."
 [says] (p.110) She declines a spare key to his room before being offered one, and calls the visit itself a failing: “For your room? Ike-kun asked earlier if I wanted one. I refused.” … “After all, it’s rare for me to visit your room, Ayanokouji-kun. Besides, coming here is a shameful act in itself. A disgrace. Understand?” — AK: "I wasn’t hurt at all. I definitely wasn’t thinking anything like, Wow, that was unexpectedly harsh."
@@ -513,7 +513,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ayanokouji-kiyotaka] (p.110) AK's own note on the setting, which should not be over-read: "I wondered why I felt a little nervous being alone with Horikita behind closed doors."
 [status] (p.113) AK's projection of her, the chapter's last word on her: "At this rate, when she reached adulthood, she’d probably become a teacher like Chabashira-sensei."
 
-### y1v2 p.118–130 — Ch.4 §4.6–4.8: named by everyone, present nowhere
+### y1v2 p.118–130 — Ch.4 sec. 4.6–4.8: named by everyone, present nowhere
 [feat] (p.118) The narrator's roster of who is actually carrying Class D, in his own words: "Actually, the ones who had to work especially hard were Horikita, Hirata, and Kushida."
 [feat] (p.119) The first name in his private list of students wrongly sorted into Class D: "Horikita, Kouenji, and Yukimura were undoubtedly three people who deserved to be at the top based on their academics alone."
 [says] (p.129) Kushida, relaying her conclusion to the one person Horikita will not speak to directly: "Horikita-san seems convinced that Sakura saw everything."
@@ -526,14 +526,14 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y1v2 ch4 → p.151 -->
 
-### y1v2 p.159–162 — Ch.5 §5.1: the face she does not intend to make
+### y1v2 p.159–162 — Ch.5 sec. 5.1: the face she does not intend to make
 [scene] (p.159) Morning, the classroom; she asks about his day off in what the narrator calls "an icy voice".
 [says] (p.159) "Did you spend your day off with Kushida-san?"
 [says] (p.159) "Really? I didn’t intend to make any kind of face. I should look the same as I always do. However, I will say that I admire how freely you’ve been moving. When I ask you for help, you’re often reluctant, but when Kushida-san asks you, you accept readily. I was calmly and discretely analyzing the difference between us."
 [trait] (p.159–160) The denial is contradicted on the page: "I looked over at my neighbor, and saw an expression on Horikita’s face that I’d never glimpsed before." then "She did not remotely look calm and discreet."
 [note] (p.162) Kushida reads the same face as exclusion; the narrator refuses that reading and then concedes a realization he cannot name.
 
-### y1v2 p.165–167 — Ch.5 §5.2–5.3: she takes the seats and refuses the optimism
+### y1v2 p.165–167 — Ch.5 sec. 5.2–5.3: she takes the seats and refuses the optimism
 [says] (p.165) "Well, naturally that was the result. It’s to be expected."
 [says] (p.165) "Now then, Kushida-san. It would be best for Ayanokouji-kun and me to sit in on the deliberation. I fully understand you supporting Sakura-san. However, if it comes to a debate, then that’s a different story."
 [feat] (p.166) She takes the two observer places Kushida asked for, and Sakura is left agreeing to it.
@@ -541,7 +541,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says] (p.167) "Don’t bring your dirty face so close to me."
 [says] (p.167) "I can’t help but be mystified by your belief that your innocence can easily be proven. Although you’ve gained evidence that works in your favor, you’re still in a very disadvantageous situation."
 
-### y1v2 p.170–171 — Ch.5 §5.4: the elevator, and a question she answers herself
+### y1v2 p.170–171 — Ch.5 sec. 5.4: the elevator, and a question she answers herself
 [scene] (p.170) The elevator: she is inside with shopping bags, the thirteenth-floor button lit; he presses eleven.
 [says] (p.170) "What? You’re not getting on?"
 [says] (p.170) "I was out shopping. Did you not see?"
@@ -563,7 +563,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says] (p.192) "I’ll go. I’m fine."
 [note] (p.192) The glance she gives the narrator is read as a request not to worry on her account.
 
-### y1v2 p.193–200 — Ch.6 §6.1: frozen, then roused, then cross-examining
+### y1v2 p.193–200 — Ch.6 sec. 6.1: frozen, then roused, then cross-examining
 [note] (p.193–194) Her brother’s presence undoes her before testimony begins: "Horikita —Horikita the younger sister, I mean—couldn’t hide her trembling," and the narrator concludes their kinship makes the room "extremely disadvantageous."
 [says] (p.197) "Hyah?!"
 [says] (p.197) "W-wait. S-stop, stop!"
@@ -581,11 +581,11 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (p.198) The narrator credits the method as "very objective, grounded in evidence, rules, and her own logic," and notes Komiya answers it with his actual injuries rather than with argument.
 [says] (p.199) "It’s true that Sudou injured the other students. However, Class C started the fight. There is one student witness who saw the entire incident and can attest to this."
 
-### y1v2 p.203 — Ch.6 §6.1: the answer to the false-witness charge
+### y1v2 p.203 — Ch.6 sec. 6.1: the answer to the false-witness charge
 [says] (p.203) "That is not the case. It is certainly true that Sakura-san is not good at speaking before others. However, it is precisely because she witnessed the incident that she is standing here today. Otherwise, she most likely would not, even if we’d asked her. Don’t you think that if we needed someone who could speak boldly, we would have found a replacement?"
 [note] (p.203) Sakagami answers it by claiming the choice of a poor speaker is itself the staging: "it would establish a sense of realism that you yourself could not."
 
-### y1v2 p.207–209 — Ch.6 §6.1: the false concession, then the refusal
+### y1v2 p.207–209 — Ch.6 sec. 6.1: the false concession, then the refusal
 [says] (p.207) "I understand…"
 [says] (p.207) "I think that Sudou, who caused the incident, has a problem. He doesn’t ever stop to consider his actions, which inconveniences everyone around him. He has a history of getting in fights. He’s the type to raise his voice and fists right away whenever something displeases him. In the event of an uproar such as this, well, it should be obvious who caused it."
 [says] (p.207) "You need to understand, Sudou. Your attitude caused all of this."
@@ -598,12 +598,12 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says] (p.209) "Would be possible to have a little more time before we reconvene?"
 [note] (p.209) The line answering the president’s question to Class D — "I haven’t lied. Everything we’ve said has been the truth." — is untagged in the translation; it is recorded as Class D’s answer, not attributed to her by name on the page.
 
-### y1v2 p.210 — Ch.6 §6.1: what she says to Sakura on the way out
+### y1v2 p.210 — Ch.6 sec. 6.1: what she says to Sakura on the way out
 [says] (p.210) "I won’t give up. I will keep fighting to support your testimony until the end,"
 [says] (p.210) "I have no intention of losing. Well then, I must excuse myself."
 [note] (p.210) She leaves immediately after the promise rather than staying to comfort Sakura, and the chapter reads the haste as strategy, not coldness.
 
-### y1v2 p.216–218 — Ch.6 §6.2: the request she makes of Class B
+### y1v2 p.216–218 — Ch.6 sec. 6.2: the request she makes of Class B
 [says] (p.216) "I sincerely appreciate the offer, but it’s not necessary."
 [says] (p.216) "We cannot get Sudou acquitted. Even if a new witness were to come from Class A or B, it would be impossible. However…there is something I would like you to prepare for us. It is the only possible solution."
 [says] (p.216) "I understand that I’m in no position to ask this," "The burden I’d be placing upon you is exceptionally great. But—"
@@ -618,14 +618,14 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [feat] (p.216) She has a plan before the hearing ends and has already verified that its material exists by the time she explains it in the entranceway.
 [limit] (p.216–217) The plan requires a lie from a person who hates lying; Horikita acknowledges the burden instead of softening it, and Ichinose supplies the justification herself.
 
-### y1v2 p.218 — Ch.6 §6.2: the debt she collects
+### y1v2 p.218 — Ch.6 sec. 6.2: the debt she collects
 [action] (p.218) She answers the hearing’s tickling with a blow to the narrator’s side that drops him into the corner.
 [says] (p.218) "I’ll forgive you for touching me this time. However, next time I’ll pay you back double."
 [rel:ayanokouji-kiyotaka] (p.196–218) The chapter runs her from paralysis to leadership and closes the account with the blow: she accepts his intervention in the hearing and prices it immediately.
 
 <!-- walk: y1v2 ch6 → p.219 -->
 
-### y1v2 p.220–223 — Ch.7 §7.0–7.1: waiting on the path, judging the change
+### y1v2 p.220–223 — Ch.7 sec. 7.0–7.1: waiting on the path, judging the change
 [says] (p.220) "Good morning, Ayanokouji-kun."
 [says] (p.220) "Yes. I was waiting for you."
 [says] (p.220) "Are you an idiot?"
@@ -641,7 +641,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [trait] (p.223) The warning lands with "a mysterious yet convincing power," almost as if she were speaking from experience.
 [says] (p.223) "Do you want to die for good?"
 
-### y1v2 p.242–243 — Ch.7 §7.5: the retrial, from her side
+### y1v2 p.242–243 — Ch.7 sec. 7.5: the retrial, from her side
 [scene] (p.242) She and Sudō arrive ten minutes before deliberation; Tachibana is already in the room, and neither her brother nor Class C has come in yet. The chapter turns to her first person here.
 [says] (p.242) "I feel the same as ever."
 [thinks] (p.242) The line she has committed to: "I’d declared that Sudou was completely innocent, after all. If my strategy failed, it would be for nothing."
@@ -655,7 +655,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [thinks] (p.243) Her read on Chabashira’s puzzlement: "I had the gut feeling that what Chabashira-sensei was seeing was the evidence of Ayanokouji-kun’s involvement."
 [thinks] (p.243) "This was a battle between truth and lies. We could bandy about ideas, but there could only be one solution."
 
-### y1v2 p.244–245 — Ch.7 §7.5: the withdrawal she did not have to ask for
+### y1v2 p.244–245 — Ch.7 sec. 7.5: the withdrawal she did not have to ask for
 [thinks] (p.244) "It wasn’t just me. Everyone else noticed that this situation was strange."
 [thinks] (p.244) "It seemed that Ayanokouji-kun and Ichinose-san had handled things quite well. I tried to act calm and collected, without letting my relief show."
 [action] (p.245) She grabs Sudō’s arm to stop his question and pulls him down into his seat.
@@ -663,7 +663,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [thinks] (p.245) "If the complaint was withdrawn there would be no winners or losers. This was what we’d been working toward."
 [note] (p.245) The regulations line that announces a point payment for the deliberation expenses is printed with no speaker attached.
 
-### y1v2 p.246–248 — Ch.7 §7.5: the verdict, and Chabashira’s lecture to Sudō
+### y1v2 p.246–248 — Ch.7 sec. 7.5: the verdict, and Chabashira’s lecture to Sudō
 [says] (p.246) "You will no longer face suspension. The school will not consider you a problem child. You will be able to participate in club activities from today onward. Right?"
 [note] (p.246) She notes that Kushida-san and Hirata-kun’s actions in the hearing "would be rewarded as well."
 [says] (p.247) "No, I don’t." — asked whether Sudō will become a model student
@@ -672,7 +672,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [thinks] (p.248) On his exit for club practice: "He was not remorseful. He was definitely going to cause trouble for us again soon. He was a nuisance."
 [rel:chabashira-sae] (p.248) She stays behind at Chabashira’s request once her brother and Tachibana are sent out.
 
-### y1v2 p.248–251 — Ch.7 §7.5: the private lesson about Ayanokōji
+### y1v2 p.248–251 — Ch.7 sec. 7.5: the private lesson about Ayanokōji
 [says] (p.248) "What do you mean?"
 [says] (p.248) "Why do you care about that?"
 [says] (p.248) "I’ll leave that to your imagination."
@@ -692,7 +692,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [thinks] (p.251) "Why was Chabashira-sensei telling me such things?"
 [rel:chabashira-sae] (p.248–251) The session ends with Chabashira saying nothing more and Horikita carrying the questions out of the room.
 
-### y1v2 p.253–255 — Ch.7 §7.6: the puppet question
+### y1v2 p.253–255 — Ch.7 sec. 7.6: the puppet question
 [says] (p.253) "You’d already know, right?"
 [says] (p.253) "Hey, Ayanokouji-kun. Am I just your puppet?"
 [says] (p.253–254) "Ayanokouji-kun, you brought up the idea of surveillance cameras in the classrooms. Next, you took me to the special building and made me realize that there were no cameras. Then, you guided me to the idea of inventing false evidence, so that we could parse the truth from lies… When I look back on it now, that’s all I can think of."
@@ -708,27 +708,27 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 ## y1v3
 
-### y1v3 p.22–23 — Ch.2 §2.0: she comes down from the ship wrong
+### y1v3 p.22–23 — Ch.2 sec. 2.0: she comes down from the ship wrong
 [scene] (p.22) Deck of the liner at disembark call; Class D waits in the heat.
 [status] (p.22) "Even Horikita, normally so meticulous, was concerned about her appearance. Right now, though, her hair was disheveled." — and she rubs her arms as if cold.
 [says] (p.22) “I was just reading a book in my room. For Whom the Bell Tolls. You wouldn’t know it.”
 [limit] (p.23) Her stated excuse for locking herself away doesn't cover what Ayanokōji saw; the chapter leaves the gap open.
 
-### y1v3 p.33–45 — Ch.2 §2.1: she asks the questions that price the test
+### y1v3 p.33–45 — Ch.2 sec. 2.1: she asks the questions that price the test
 [scene] (p.33) Class D's first rules huddle on the beach after Mashima's announcement.
 [says] (p.33) “In the event that someone were to retire after we had already used all 300 points, what would happen?” — the question that establishes the floor at zero.
 [rel:hirata-yousuke] (p.43–44) Stands beside Ayanokōji watching Hirata fail to decide: "Class D has no leadership, which worries me. Besides, Hirata’s a pushover. He can’t even make one decision, can he?"
 [says] (p.44) “I’m the same as the others. I’ve never lived in such an environment before, so I can’t really make any predictions… What an unpleasant test.” — her first open admission that academics don't transfer here.
 [rel:ayanokouji-kiyotaka] (p.44–45) Asks him to take her side on endurance; he agrees; Classes A and B are already moving into the forest while C and D still can't start.
 
-### y1v3 p.47–49 — Ch.2 §2.2: she admits the isolation, and blocks the probe
+### y1v3 p.47–49 — Ch.2 sec. 2.2: she admits the isolation, and blocks the probe
 [scene] (p.47) Walking from beach to forest; she trails the group alone.
 [says] (p.47) “To be honest, I’m depressed. These kinds of things just aren’t for me. Life on an island seems primitive, and worst of all, I can’t be alone.”
 [limit] (p.48) Concedes the classroom verdict against her own tools: "This test will likely fall outside of my academic abilities. I’d determined that Ike-kun and Sudou-kun would be hindrances, but they took the initiative to go out searching. I wasn’t able to do anything."
 [says] (p.49) “It doesn’t feel good to have someone pry into your past” — and names Chabashira as the leak: “Chabashira-sensei leaked the information. Don’t misunderstand me. All right? Besides, we’re still not friends. Don’t forget that.”
 [rel:ayanokouji-kiyotaka] (p.49) Ends the exchange on her own terms before he can go deeper.
 
-### y1v3 p.63–71 — Ch.2 §2.4: the leader's card, and the favour she can't do herself
+### y1v3 p.63–71 — Ch.2 sec. 2.4: the leader's card, and the favour she can't do herself
 [scene] (p.66) The circle that picks Class D's spot-leader.
 [rel:kushida-kikyou] (p.66) Kushida nominates her as the responsible choice; she accepts without visible surprise.
 [says] (p.66) “I understand. I accept.” — after Sudou tries to take the role to spare her.
@@ -737,21 +737,21 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ayanokouji-kiyotaka] (p.70–71) Delegates the Ike problem — "I'm relying on you because I know I can't do it. Can I count on you?" — then delivers the standard put-down: “I suppose it must be relaxing to be unreliable and underachieving. … Isn’t it, Ayanokouji-kun?”
 [trait] (p.71) The chapter's closing read of her: alone she is "amazing…but only alone"; the school "had made her isolated life impossible."
 
-### y1v3 p.73–74, p.92 — Ch.2 §2.5 & §2.8: she refuses the assistantship, and votes last
+### y1v3 p.73–74, p.92 — Ch.2 sec. 2.5 & sec. 2.8: she refuses the assistantship, and votes last
 [rel:ayanokouji-kiyotaka] (p.73) On becoming Hirata's assistant: “Me, his assistant? Don’t joke around. I’d rather dance with a mongoose.”
 [limit] (p.73–74) Names her own usable condition — "If there were a clear enemy and a goal, I might be of…use" — and admits she still can't decide how far the class should spend.
 [rel:kushida-kikyou] (p.92) Raises her hand for river water last, with Ayanokōji, after the whole class has already committed.
 
 <!-- walk: y1v3 ch2 → p.99 -->
 
-### y1v3 p.106–107 — Ch.3 §3.1: called out of the tent
+### y1v3 p.106–107 — Ch.3 sec. 3.1: called out of the tent
 [scene] (p.106) Summoned from the girls' tent after the Class C provocation; the cloth moves, and she steps out.
 [says] (p.106) “The cheap provocation coming from Class C? Yes, I heard.”
 [says] (p.106) “I don't want to move too much. Since I'm the leader, if I stand out too much, we'll be in a bad spot.”
 [limit] (p.107) Concedes she cannot stay hidden — the president's younger sister, seen watching Ryūen and Ichinose: “You're right. I suppose I can't say what's correct. Fine. I'm rather concerned about the state of the other classes. Let's go.”
 [rel:ayanokouji-kiyotaka] (p.107) Takes his read that hiding will not change anything and sets out with him for the Class C beach.
 
-### y1v3 p.108–114 — Ch.3 §3.2: the confrontation on the beach
+### y1v3 p.108–114 — Ch.3 sec. 3.2: the confrontation on the beach
 [scene] (p.108) The Class C beach spectacle; she cannot believe what she is looking at.
 [says] (p.108) “No way… All this stuff… Is it even possible?”
 [rel:ryuuen-kakeru] (p.109–114) Walks up to his chair with Ayanokōji and holds the confrontation to the end.
@@ -765,7 +765,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says] (p.114) “I don't know where exactly you found that out, but do not call me by my first name so casually.”
 [note] (p.114) Also untagged; she is the one addressed by the first-name call.
 
-### y1v3 p.116–125 — Ch.3 §3.3: the walk back, and Class B’s camp
+### y1v3 p.116–125 — Ch.3 sec. 3.3: the walk back, and Class B’s camp
 [scene] (p.116) Walking inland from the Class C shore, she is still arguing over Ryūen's spending when the visit to Class B's camp begins.
 [says] (p.116) “We ought to think of a way to get points back without giving up. Ryuuen is most definitely wrong. I cannot possibly understand him,”
 [trait] (p.116) Rejects the zero-points route on principle: points are to be won back, not written off.
@@ -789,7 +789,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [status] (p.125) Says it as a declaration of defeat: the distance between D and B is not only a matter of points.
 [note] (p.125) The two untagged verdict lines that follow are left as a chapter attribution gap.
 
-### y1v3 p.126–129 — Ch.3 §3.4: talking past Class A at the cave
+### y1v3 p.126–129 — Ch.3 sec. 3.4: talking past Class A at the cave
 [scene] (p.126) She and Ayanokōji walk up to the Class A cave together after watching from a distance fails to show anything.
 [says] (p.126) “What are you planning? We gain nothing by carelessly exposing ourselves.”
 [note] (p.126) The approach dialogue is untagged; the question-and-answer chain, and the question tagged to her at the end of it, put these on her.
@@ -814,7 +814,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y1v3 ch3 → p.130 -->
 
-### y1v3 p.152–153 — Ch.5 §5.2: the invitation at her desk
+### y1v3 p.152–153 — Ch.5 sec. 5.2: the invitation at her desk
 [scene] (p.152) Closing ceremonies at her desk neighbour’s side; Sudou’s summer invitation arrives the moment the bell rings.
 [says] (p.152) “Why?”
 [says] (p.152) “How stupid. It doesn’t matter at all that it’s summer vacation. Why are you even inviting me out in the first place?”
@@ -823,7 +823,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y1v3 ch5 → p.158 -->
 
-### y1v3 p.171–178 — Ch.6 §6.1: the objection
+### y1v3 p.171–178 — Ch.6 sec. 6.1: the objection
 [scene] (p.172) Breaks the girls’ unanimity by objecting to Karuizawa, distrusting Hirata as much as the other boys.
 [says:horikita-suzune] (p.172) “Wait a minute. I’d like to raise an objection—especially against you, Karuizawa-san.”
 [says:horikita-suzune] (p.172) “I don’t particularly mind dividing up the living areas for men and women. As long as the culprit hasn’t been found, it is certainly a good idea to keep our distance from the men, considering the likelihood that the culprit is among them. However, I don’t trust Hirata-kun. I cannot dismiss the possibility that he might be the underwear thief. Also, I’m unconvinced that he should be excluded from the ban on men.”
@@ -845,7 +845,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says:horikita-suzune] (p.177) “But we need to ask if Hirata-kun can trust Ayanokouji-kun. It would only be awkward and uncomfortable if you endorsed someone meaningless to Hirata-kun. The truth is, there is not one thing that I trust about him, but I have no intention of inserting my own personal feelings into the matter. By process of elimination, I’ve concluded that he is the most trustworthy boy in the class. Or is another boy in our class preferable? If there is, I’d like for you to tell me.”
 [trait] (p.177) The other girls treat her poorly; both sides ignore each other, and living together now makes a clash of tempers inevitable.
 
-### y1v3 p.184–189 — Ch.6 §6.3: points and the fever
+### y1v3 p.184–189 — Ch.6 sec. 6.3: points and the fever
 [scene] (p.184) Pulls Ayanokōji into the girls’ tent to show what the class has been spending, then proposes a partnership against the split.
 [says:horikita-suzune] (p.184) “It must be really tough, being forced to do routine chores,”
 [says:horikita-suzune] (p.184) “There was no other way. Hirata-kun can’t be trusted, and I needed insurance.”
@@ -877,7 +877,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says:horikita-suzune] (p.188) “I just need to hang in there for another few days. If I give up now, it’ll … all be for nothing. Goodnight.”
 [trait] (p.189) She intends to soldier through to the bitter end — an iron will.
 
-### y1v3 p.191–199 — Ch.6 §6.4: search in pairs
+### y1v3 p.191–199 — Ch.6 sec. 6.4: search in pairs
 [scene] (p.192) Overhears Kushida’s excuse for being left behind, then takes the lead on the last forage.
 [says:horikita-suzune] (p.192) “Why were you left behind? What about your usual group of friends?”
 [says:horikita-suzune] (p.193) “Even if she’s not feeling well, it’s a natural physiological phenomenon. She should be fine. I suppose that’s to be expected, though. However, why did you deliberately choose our group? You must have had other options available.”
@@ -898,7 +898,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says:horikita-suzune] (p.199) “Yeah, but we don’t have enough evidence to make a solid judgment. If we make a mistake, we won’t recover from it.”
 [action] (p.199) Snatches the dropped card from the mud, then keeps her distance from him in fury.
 
-### y1v3 p.200–202 — Ch.6 §6.5: thrown, then washed
+### y1v3 p.200–202 — Ch.6 sec. 6.5: thrown, then washed
 [scene] (p.200) Ill and distracted, she does not see Yamauchi coming until mud goes over her hair — she throws him without a word.
 [says:yamauchi-haruki] (p.200) “Ha ha ha ha! You’re all covered in mud, Horikita! Hilarious!”
 [action] (p.200) Grabs his pointing arm and throws him the moment he laughs.
@@ -909,7 +909,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [action] (p.201) With the shower line blocked by Karuizawa’s group, she takes the river instead.
 [action] (p.202) Washes the mud off in the cold river while sick, then appears in a swimsuit with Kushida.
 
-### y1v3 p.203–205 — Ch.6 §6.6: the confession
+### y1v3 p.203–205 — Ch.6 sec. 6.6: the confession
 [scene] (p.203) She draws Ayanokōji into the forest and tells him the key card was stolen.
 [says] (p.203) “Ayanokouji-kun. Could you please come here for a moment?”
 [says] (p.203) “Follow me. We can’t talk here.”
@@ -936,7 +936,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says:ayanokouji-kiyotaka] (p.205) “Sure. I understand. I’ll keep an eye on her.”
 [action] (p.205) Sent back to camp alone, likely wanting room to be sick by herself.
 
-### y1v3 p.206–208 — Ch.6 §6.7: the fire from her side
+### y1v3 p.206–208 — Ch.6 sec. 6.7: the fire from her side
 [scene] (p.206) Returns to a smoke-filled camp and turns the fire straight onto Ibuki.
 [says] (p.206) “I can’t see Ibuki. The fire might have been her handiwork. Where is she?”
 [rel:ibuki-mio] (p.206) Ready to call out to Ibuki at the fire, but hesitates when she sees her genuine confusion.
@@ -944,7 +944,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says] (p.206) “It’s just one thing after another…”
 [action] (p.212) Gone from the camp by the time the luggage is secured — she has set out after Ibuki.
 
-### y1v3 p.213–220 — Ch.6 §6.8: the pursuit
+### y1v3 p.213–220 — Ch.6 sec. 6.8: the pursuit
 [scene] (p.213) Her viewpoint: she chases Ibuki’s footprints through the downpour, sick and alone, until Ibuki waits for her as if expecting her.
 [says:ibuki-mio] (p.213) “What are you doing, Horikita?”
 [says] (p.213) “When did you notice me?”
@@ -1006,7 +1006,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says:ibuki-mio] (p.220) “Come on, now. I don’t feel like answering that.”
 [thinks] (p.220) “By attempting to fix that mistake myself, I ended up turning it into a situation that couldn’t be fixed.”
 
-### y1v3 p.229–235 — Ch.6 §6.10: in his arms
+### y1v3 p.229–235 — Ch.6 sec. 6.10: in his arms
 [scene] (p.229) Wakes in his arms under the tree, fever high, and pieces the day together before choosing to go on alone.
 [says:ayanokouji-kiyotaka] (p.229) “Are you awake?”
 [says] (p.229) “Ayano…kouji-kun?”
@@ -1092,7 +1092,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says] (p.247) “W-wait a second!”
 [action] (p.247) Is buried in the crowd’s congratulations while he withdraws, and shouts after him from inside it.
 
-### y1v3 p.250–258 — Ch.7 §7.1: the whole explanation
+### y1v3 p.250–258 — Ch.7 sec. 7.1: the whole explanation
 [scene] (p.250) Section 7.1 opens with her storming the lounge for the full story; he gives it on one condition — she never investigates him.
 [says] (p.250) “What do these test results mean? What in the world happened?”
 [says:ayanokouji-kiyotaka] (p.250) “You look like you don’t have any idea at all.”
@@ -1202,7 +1202,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (p.16) On the thanks for finding the culprit: he wasn’t even useful — Horikita found the underwear thief.
 [note] (p.20) Said to Hirata for him to understand: Horikita isn’t the type to make friends easily.
 
-### y1v4 p.30–31 — Ch.2 §2.2: the message chat
+### y1v4 p.30–31 — Ch.2 sec. 2.2: the message chat
 [scene] (p.30) Chat only: Ayanokōji messages her about the school’s test notice; she replies instantly.
 [says] (p.30) “Yeah. I did.” (chat reply; the translation leaves the thread’s lines untagged)
 [says] (p.30) “Mine says 20:40. That seems like a pretty big difference.” (chat)
@@ -1212,7 +1212,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (pp.17–19) Off-page: Hirata’s whole lunch ask is about winning her over, routed through Ayanokōji.
 [rel:ayanokouji-kiyotaka] (pp.30–31) The chat partner with the earlier slot; she defers his report.
 
-### y1v4 p.51, p.55–61 — Ch.2 §2.5: the Katsuragi warning and the cold exit
+### y1v4 p.51, p.55–61 — Ch.2 sec. 2.5: the Katsuragi warning and the cold exit
 [scene] (p.51) Off-screen first — Ayanokōji reports the Rabbit rules to her by chat — then on the second deck she faces Katsuragi, holds against Kanzaki’s interlude, and turns her back on Ryūen.
 [note] (p.51) Receives his chat report on the Rabbit group’s rules; her reply is not printed.
 [says] (p.55) “Yes, I am. And what exactly does that have to do with you?” (to Katsuragi)
@@ -1236,7 +1236,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y1v4 ch2 → p.62 -->
 
-### y1v4 p.63–77 — Ch.3 §3.0: the Blue Ocean briefing
+### y1v4 p.63–77 — Ch.3 sec. 3.0: the Blue Ocean briefing
 [scene] (p.63) Meets Ayanokōji at the empty Blue Ocean café an hour early, hands over her memorized Dragon group list at 8:00, and holds the table through Ryūen’s interrupt.
 [says] (p.63) “You’re rather early.”
 [says] (p.63) “That’s not my problem, as I’ve still arrived before the designated time. Besides, how would I know if you’d been waiting even ten hours or more?”
@@ -1301,7 +1301,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y1v4 ch3 → p.124 -->
 
-### y1v4 p.125–133 — Ch.4 §4.0: the Karuizawa brief and the planted phone
+### y1v4 p.125–133 — Ch.4 sec. 4.0: the Karuizawa brief and the planted phone
 [scene] (p.125) She meets Ayanokōji face-to-face about Kouenji’s traitor exit, then argues Karuizawa’s worth while Ryuuen’s recording phone sits under his chair.
 [says] (p.125) “You’re joking, right?”
 [says] (p.125) “Are you an idiot? Why didn’t you stop him? Wasn’t that your responsibility as his roommate?” she asked.
@@ -1371,7 +1371,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [scene] (p.206) Named in the post-island humbling that hit everyone.
 [note] (p.206) In the two summer tests everyone had experienced the bitter sense of their own powerlessness, even Horikita.
 
-### y1v4 p.207–209 — Ch.5 §5.1: the night meet
+### y1v4 p.207–209 — Ch.5 sec. 5.1: the night meet
 [scene] (p.207) Last pre-final meeting with Ayanokóji in person; claims the win flatly, refuses detail on listener risk, and takes the Hirata/recruitment plan with gritted teeth.
 [says] (p.207) “I’ll win,” she replied flatly.
 [says] (p.207) “I’m not sure who might be listening to us right now, so I won’t go into detail. I’ll just ask that you believe in me. Everything will be fine.”
@@ -1398,7 +1398,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (p.216) The discretion check: even if the information were shared with Horikita-san, he wouldn’t go blabbing to everyone after seeing her phone.
 [note] (p.217) The swap camouflage: if Kushida and Horikita switched phones, a spy would suspect Horikita was the VIP — and a traitor submitting her name would then be wrong.
 
-### y1v4 p.230–243 — Ch.5 §5.2–5.3: the plan’s author, then the café
+### y1v4 p.230–243 — Ch.5 sec. 5.2–5.3: the plan’s author, then the café
 [scene] (p.230) Gets the credit line from Ichinose — “her plan was a huge success” — then runs the café debrief with Hirata, absorbs Ryuuen’s Kushida reveal and the Class C blowout, and talks Ayanokōji out of his premonition.
 [rel:ichinose-honami] (p.230) The relayed verdict on the phone swap; Ayanokōji is told to say it was her plan.
 [says] (p.235) “Ahh. When I see you people, I can’t help but sigh,” muttered Horikita.
@@ -1692,7 +1692,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says] (p.15) “Those who claim that they have no presence usually cast long shadows,”
 [says] (p.15) “Do you take me for a fool?” — stung by Ayanokōji’s no-presence bait; not joking.
 
-### y1v5 p.16–25 — Ch.2 §2.1: the briefing and the huddle
+### y1v5 p.16–25 — Ch.2 sec. 2.1: the briefing and the huddle
 [scene] (p.16) In homeroom she spots the testing method on the handout before most of the class and calls Ayanokōji over.
 [rel:horikita-manabu] (p.17) At the mention that Class A — her brother’s year — rides the same Red Team, she mutters at Ayanokōji to drop it.
 [says] (p.17) “Don’t talk about that here,”
@@ -1705,7 +1705,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says] (p.24) “Stamina isn’t an unlimited resource.” — her counter to entering Sudou in everything.
 [says] (p.25) “We’re not coming to any decisions right now.” — ends the huddle without a decision.
 
-### y1v5 p.26–34 — Ch.2 §2.2: the assembly and the coin
+### y1v5 p.26–34 — Ch.2 sec. 2.2: the assembly and the coin
 [scene] (p.26) In Gymnasium 1 she scans restlessly for her brother; he never takes Red Team command, and Fujimaki does instead.
 [rel:horikita-manabu] (p.26) Has never gone to meet him first — he always initiates contact — and cannot spot him in the crowd of four hundred.
 [rel:katsuragi-kouhei] (p.28) Gets his warning about Ryuuen and answers with a pointed question about personal experience; he leaves it at “I’ve warned you.”
@@ -1723,7 +1723,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y1v5 ch2 → p.38 -->
 
-### y1v5 p.39–53 — Ch.3 §3: Her plan wins the vote
+### y1v5 p.39–53 — Ch.3 sec. 3: Her plan wins the vote
 [scene] (p.40) Horikita cuts into Hirata’s homeroom with a supplementary proposal while Sudou is claiming every recommended event.
 [says] (p.40) “However, that single tactic isn’t guaranteed to carry us to victory,”
 [says] (p.40) “Put simply, the strongest, fastest students should be grouped together,”
@@ -1744,7 +1744,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y1v5 ch3 → p.53 -->
 
-### y1v5 p.54–67 — Ch.4 §4: The name bet and the partner problem
+### y1v5 p.54–67 — Ch.4 sec. 4: The name bet and the partner problem
 [scene] (p.54) Horikita talks strategy at the first practice, then is interrupted by Sudou calling her by her first name.
 [rel:ryuuen-kakeru] (p.54) “Surely the other students must think they’re safe, though.” — on the classes watching D practice.
 [rel:ryuuen-kakeru] (p.54) “Anyone would want information on the other classes.”
@@ -1766,7 +1766,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y1v5 ch4 → p.67 -->
 
-### y1v5 p.68–85 — Ch.5 §5: The theory, the ally question, the anchor
+### y1v5 p.68–85 — Ch.5 sec. 5: The theory, the ally question, the anchor
 [scene] (p.68) Horikita is pulled into Ayanokōji’s Saturday plan and spends the walk to the dorms listening to his cruise-ship theory.
 [rel:ayanokouji-kiyotaka] (p.68) “And if I say I don’t want to?”
 [rel:ayanokouji-kiyotaka] (p.69) “What are you planning?”
@@ -1788,7 +1788,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y1v5 ch5 → p.85 -->
 
-### y1v5 p.87–114 — Ch.6 §6: races, Kōenji, and the fall
+### y1v5 p.87–114 — Ch.6 sec. 6: races, Kōenji, and the fall
 [scene] (p.87) Horikita opens the chapter asking Ayanokōji which 100-metre group he drew, then runs her own races through the day.
 [says] (p.87) “What group are you in for the 100-meter dash, again?” Horikita asked.
 [says] (p.87) “I’ll be cheering you on for the class’s sake.”
@@ -1806,7 +1806,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ayanokouji-kiyotaka] (p.114) Tries to look tough after the fall while he checks her injury; the pride that produced results now has to sit out.
 [trait] (p.114) Takes pride in producing results, so an injury she cannot train through hits harder than the pain.
 
-### y1v5 p.115–138 — Ch.6 §6: injury, cavalry, and the wake-up call
+### y1v5 p.115–138 — Ch.6 sec. 6: injury, cavalry, and the wake-up call
 [scene] (p.115) Horikita sits with her injured leg after the obstacle fall and tells Ayanokōji the collision was no accident.
 [says] (p.115) “That girl’s a sneak.”
 [says] (p.115) “While she was running behind me, she called my name over and over.”
@@ -1815,12 +1815,12 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [action] (p.116–117) Pairs with Kushida in the girls’ three-legged; second early, then last as the stiff leg and an obstructing line do the rest.
 [rel:kushida-kikyou] (p.116–117) The odd pair looks safe to Class D but finishes last; Sudou’s “Go, Suzune!” does not reach them.
 [action] (p.118) Leaves for the nurse’s office for a poultice during the ten-minute break.
-[action] (p.120–123, §6.8) Jockeys Class D in the girls’ cavalry with Ishizaki, Komiya and Kondou as horses; Class C’s four horsemen take her alone and snatch her headband.
+[action] (p.120–123, sec. 6.8) Jockeys Class D in the girls’ cavalry with Ishizaki, Komiya and Kondou as horses; Class C’s four horsemen take her alone and snatch her headband.
 [rel:ibuki-mio] (p.120) Ibuki, also a jockey, issues the order and heads straight for her.
 [rel:ryuuen-kakeru] (p.120–123) Is the sole target of the B/C attack — Ryuuen’s plan to break her, not merely to score.
 [says] (p.123) “That doesn’t change the fact that I lost.”
 [says] (p.123) “I’d expect no less of you,”
-[action] (p.135, §6.9) Stares at her brother from a distance she cannot close while the upperclassmen’s cavalry runs.
+[action] (p.135, sec. 6.9) Stares at her brother from a distance she cannot close while the upperclassmen’s cavalry runs.
 [rel:horikita-manabu] (p.135) Keeps watching the president through the second- and third-year events with no way to approach.
 [rel:ayanokouji-kiyotaka] (p.136–138) Is told she is useless and a burden, then pressed to choose her own ranking or Sudou’s return; the “weapon” speech is the pivot.
 [says] (p.136) “That’s an awful thing to say.”
@@ -1829,11 +1829,11 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says] (p.137) “On what grounds do you call me useless?”
 [says] (p.137) “How dare you? I’m a highly capable student and athlete.”
 [trait] (p.115–138) Pride and injury together: she will not withdraw, will not accept the crash as luck once pressed, and is finally pushed toward acting for the class rather than only for her rank.
-[action] (p.140, §6.10) Skips lunch and leaves — perhaps for Sudou — after Ayanokōji’s words.
+[action] (p.140, sec. 6.10) Skips lunch and leaves — perhaps for Sudou — after Ayanokōji’s words.
 
 <!-- walk: y1v5 ch6 → p.143 -->
 
-### y1v5 p.144–145 — Ch.7 §7: alone after the beatdown
+### y1v5 p.144–145 — Ch.7 sec. 7: alone after the beatdown
 [scene] (p.144) Horikita leaves Ayanokouji’s verbal beatdown for the school nurse alone, her leg still stiff from the obstacle fall.
 [rel:ayanokouji-kiyotaka] (p.144) “Since he usually followed his so-called policy of noninterference, I never would’ve imagined he would speak to me like that.”
 [thinks] (p.144) “Ayanokouji-kun had been absolutely right, and I’d had nothing to say in reply.”
@@ -1844,7 +1844,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [fact] (p.145) A substitute for all three recommended events costs 300,000 points; her dream of running alongside her brother ends with the withdrawal.
 [rel:kushida-kikyou] (p.145) Kushida runs up in a panic and says Kinoshita is badly hurt and wants to talk.
 
-### y1v5 p.146–148 — Ch.7 §7.1: the accusation
+### y1v5 p.146–148 — Ch.7 sec. 7.1: the accusation
 [scene] (p.146) Back in the infirmary, Chabashira opens the curtain on a sobbing Kinoshita and says Kinoshita claims Horikita knocked her down deliberately.
 [says:chabashira-sae] (p.146) “I had Kushida fetch you. Looks like she was quick about it,”
 [says:chabashira-sae] (p.146) “Well, Kinoshita says that you deliberately knocked her down, Horikita.”
@@ -1861,7 +1861,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says:kushida-kikyou] (p.148) “Sorry, Horikita-san. Kinoshita-san asked me to talk to a teacher,”
 [rel:ryuuen-kakeru] (p.148) Ryuuen arrives strutting, both hands in his pockets, and says things have gotten really serious.
 
-### y1v5 p.149–152 — Ch.7 §7.1: Kinoshita’s story and the denial
+### y1v5 p.149–152 — Ch.7 sec. 7.1: Kinoshita’s story and the denial
 [scene] (p.149) Ryuuen inspects Kinoshita’s bandaged leg, then the three of them confront Horikita in the hallway.
 [says:ryuuen-kakeru] (p.149) “Hey, Kinoshita. You all right? Looks like you’ve had a rough time,”
 [says:ryuuen-kakeru] (p.149) “Whoa, this looks bad. I’m impressed you’ve held up, considering all you’re dealing with.”
@@ -1878,7 +1878,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says:horikita-suzune] (p.152) “Don’t you feel any shame at all?”
 [says:ryuuen-kakeru] (p.152) “It’s clear you did this, isn’t it?”
 
-### y1v5 p.153–156 — Ch.7 §7.1: the million-point deal
+### y1v5 p.153–156 — Ch.7 sec. 7.1: the million-point deal
 [scene] (p.153) Ryuuen offers to drop the complaint for a million points, then adds a kneeling condition after Horikita first refuses.
 [says:kushida-kikyou] (p.153) “Would you let me talk things over a little more with Horikita-san, please?”
 [says:ryuuen-kakeru] (p.153) “I don’t have the time to drag this out,”
@@ -1909,7 +1909,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says:horikita-suzune] (p.156) “I’m okay. More importantly, how long has it been? Sensei, how much time is left for our lunch break?”
 [says:chabashira-sae] (p.156) “You still have about twenty minutes. You haven’t eaten yet, right?”
 
-### y1v5 p.157–158 — Ch.7 §7.2: the brother and the search
+### y1v5 p.157–158 — Ch.7 sec. 7.2: the brother and the search
 [scene] (p.157) On the way out Horikita spots her brother, the student council president, with Secretary Tachibana; he speaks to her for the first time today.
 [says:horikita-suzune] (p.157) “This was all due to my carelessness. I’d only thought of myself.”
 [rel:horikita-manabu] (p.157) “Big brother…”; he asks whether she understands Class D’s situation.
@@ -1928,7 +1928,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y1v5 ch7 → p.159 -->
 
-### y1v5 p.163–167 — Ch.8 §8.1: the dorm lobby with Sudou
+### y1v5 p.163–167 — Ch.8 sec. 8.1: the dorm lobby with Sudou
 [scene] (p.163) Horikita finds Sudou alone on a sofa in the dormitory lobby and refuses to leave until he comes back.
 [note] (p.163) Sudou greets her with “Horikita.” — too short for a says row.
 [says:sudou-ken] (p.163) “Why are you here? Don’t tell me you came to persuade me to go back?”
@@ -1950,7 +1950,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says:horikita-suzune] (p.167) “I’ll wait here. Forever.”
 [rel:horikita-manabu] (p.165) Compares herself to Sudou: Ayanokouji destroyed her, Ryuuen defeated her, her brother abandoned her.
 
-### y1v5 p.176–179 — Ch.8 §8.3: the ally
+### y1v5 p.176–179 — Ch.8 sec. 8.3: the ally
 [scene] (p.176) After an hour at the elevator, Sudou returns; Horikita admits she is worthless and asks for his strength until graduation.
 [says:sudou-ken] (p.176) “Did…did you seriously wait around here?”
 [says:horikita-suzune] (p.176) “You came back, Sudou-kun.”
@@ -1971,14 +1971,14 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y1v5 ch8 → p.180 -->
 
-### y1v5 p.181–182 — Ch.9 §9: withdraws from the relay
+### y1v5 p.181–182 — Ch.9 sec. 9: withdraws from the relay
 [scene] (p.181) Back for the final event, Horikita asks to withdraw from the 1200-metre relay because of her leg.
 [says:horikita-suzune] (p.181) “Can I ask for a substitute? I wouldn’t run very well with my leg like this,”
 [says:horikita-suzune] (p.182) “There’s nothing I can do about it. In the state I’m in right now, I’m not sure I could even win against Ike-kun. Sorry,”
 [rel:horikita-manabu] (p.182) Narration: she had craved the anchor to run alongside her brother; Ryuuen crushed body and spirit.
 [rel:kushida-kikyou] (p.182) Hirata puts Kushida in Horikita’s relay place.
 
-### y1v5 p.189–193 — Ch.9 §9.1: the first-name bargain
+### y1v5 p.189–193 — Ch.9 sec. 9.1: the first-name bargain
 [scene] (p.189) After the race Horikita needles Ayanokouji about his hidden speed; at the scoreboard she holds Sudou to their bet.
 [says:horikita-suzune] (p.189) “That still doesn’t explain it, though. That speed. You liar.”
 [says:horikita-suzune] (p.189) “If you’d run like that from the very beginning, this situation would’ve been different. But now you’re going to be basking in lots of attention,”
@@ -1995,7 +1995,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says:horikita-suzune] (p.193) “This class is going to get stronger. Then we’ll definitely climb the ranks to the upper classes,”
 [says:horikita-suzune] (p.193) “But I suppose, first of all, I have to get down on my knees.”
 
-### y1v5 p.194–201 — Ch.9 §9.2–9.3: the confrontation
+### y1v5 p.194–201 — Ch.9 sec. 9.2–9.3: the confrontation
 [scene] (p.194) Horikita stays behind after the festival, waits for Ryuuen’s appointment with Kushida as escort, and faces them both in the hallway.
 [says:horikita-suzune] (p.194) “That’s right. I’m…well, I have some trifling matters to take care of,”
 [says:horikita-suzune] (p.194) “Well, these things do happen. Thank you for everything,”
@@ -2092,7 +2092,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 ### y1v6 p.14 — Ch.2: watching her brother step down
 [scene] (p.14) At the election ceremony Suzune remains steadfast as Horikita Manabu leaves the stage; she no longer shrinks in fear at the sight of him.
 
-### y1v6 p.17–19 — Ch.2 §2.1: the solitude lecture
+### y1v6 p.17–19 — Ch.2 sec. 2.1: the solitude lecture
 [scene] (p.17) She finds Ayanokouji alone after Ike, Yamauchi and the Professor leave for Keyaki Mall and diagnoses his social fracture.
 [says:horikita-suzune] (p.17) “They used to think that all of you were in the same terrible-student boat. Then they discovered that you were actually hiding remarkable physical ability.”
 [rel:ayanokouji-kiyotaka] (p.17–18) Cites his grip-strength score and speed as the reason the friend group cut him out; leaves him with “enjoy your life of solitude.”
@@ -2117,7 +2117,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says:horikita-suzune] (p.38) “If Class A successfully carries out their attack on Class B while simultaneously defending against Class D, they’ll gain a total of one hundred points. However, if Class A attacks Class D and Class D attacks Class A, won’t things just cancel each other out?”
 [rel:yukimura-teruhiko] (p.36) Named with him as an excellent student still at risk on partner assignment.
 
-### y1v6 p.40–43 — Ch.3 §3.1: meeting call and the offer of Kushida’s truth
+### y1v6 p.40–43 — Ch.3 sec. 3.1: meeting call and the offer of Kushida’s truth
 [scene] (p.40) Calls the strategy meeting; walks to Sudou while Ayanokouji fetches Hirata.
 [rel:ayanokouji-kiyotaka] (p.40–41) Three-key-points breakdown of Chabashira’s hints; her perfect concise summary earns his smile.
 [says:horikita-suzune] (p.41) “Yes. I noticed,”
@@ -2129,7 +2129,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says:horikita-suzune] (p.43) “Honestly, I don’t want to go around spreading rumors, but I think informing you is necessary.”
 [rel:sudou-ken] (p.42) Accepts his club detour.
 
-### y1v6 p.43–48 — Ch.3 §3.1: the junior-high incident
+### y1v6 p.43–48 — Ch.3 sec. 3.1: the junior-high incident
 [scene] (p.43) On a campus detour she opens the Kushida story: same junior high, different prefecture, first-day bus.
 [rel:kushida-kikyou] (p.43–44) Did not remember her then; junior high over a thousand students, never same class; recalled after the first-semester study group.
 [rel:kushida-kikyou] (p.44) Bus seat scene: elderly woman forced to stand; Kushida asked for a seat; no one offered at first.
@@ -2153,7 +2153,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ryuuen-kakeru] (p.48) Already allied with Kushida to entrap her.
 [says:horikita-suzune] (p.48) “Kushida-san told me that she’d use any means necessary to get rid of anyone who knew about her past. That she’d even work with Katsuragi-kun, Sakayanagi-san, or Ichinose-san to drive me out. She’s already formed an alliance with Ryuuen-kun to entrap me. She won’t stop as long as I’m here, even if Class D suffers”
 
-### y1v6 p.48–51 — Ch.3 §3.1: refuse to abandon, then the Ryuuen thanks
+### y1v6 p.48–51 — Ch.3 sec. 3.1: refuse to abandon, then the Ryuuen thanks
 [rel:ayanokouji-kiyotaka] (p.48–49) Her plan is to talk Kushida down; Ayanokouji floats expulsion; she refuses and owns it as her responsibility.
 [says:horikita-suzune] (p.49) “I still think my best option is to talk to her. Am I wrong?”
 [rel:sudou-ken] (p.49) Cites his near-failure and turnaround as the reason not to abandon people with something to offer.
@@ -2170,7 +2170,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says:horikita-suzune] (p.51) “I’m starting to understand you less and less”
 [rel:sakayanagi-arisu] (p.51) Ayanokouji’s inner note: Sakayanagi knows his past; peace was never a full option.
 
-### y1v6 p.52–58 — Ch.3 §3.2: Pallet chairing
+### y1v6 p.52–58 — Ch.3 sec. 3.2: Pallet chairing
 [scene] (p.52) Takes her seat and immediately opens the short-test discussion; 3:50 p.m., clubs at 4:30.
 [rel:karuizawa-kei] (p.52) Glare for lateness gets a straight “Let’s get started.”
 [says:horikita-suzune] (p.52) “Let’s get started. After all, Hirata-kun has club activities, right?”
@@ -2207,7 +2207,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (p.74) Suzune does not appear in person on these pages.
 <!-- walk: y1v6 ch4 → p.75 -->
 
-### y1v6 p.76–88 — Ch.5 §5.0–5.2: apology, pairing strategy, study plan
+### y1v6 p.76–88 — Ch.5 sec. 5.0–5.2: apology, pairing strategy, study plan
 [scene] (p.76) Called up by Hirata at homeroom; bows a public apology for the sports festival before turning to the short quiz.
 [says:horikita-suzune] (p.76) “First, there’s something I’d like to say. Please allow me to apologize.”
 [says:horikita-suzune] (p.76) “My performance during the sports festival was disappointing. Though I act tough in front of you all, in the end, I didn’t do anything for Class D. For that, I apologize.”
@@ -2250,7 +2250,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says:horikita-suzune] (p.88) “All you need to do is help corral them into studying with Yukimura. I didn’t say I wanted you to teach them.”
 [says:horikita-suzune] (p.88) “Can I count on you?”
 
-### y1v6 p.104–130 — Ch.5 §5.5–5.9: management, mediation, the mathematics bet
+### y1v6 p.104–130 — Ch.5 sec. 5.5–5.9: management, mediation, the mathematics bet
 [scene] (p.104) Dorm call continues: too many needing tutoring, not enough teachers; Ayanokōji conscripted to watch the sessions.
 [says:horikita-suzune] (p.104) “Too many people need tutoring, compared to the number who can teach. I can’t keep my eye on everyone, no matter how hard I try. I’d like you to make sure everybody studies properly,”
 [says:horikita-suzune] (p.104) “At the risk of sounding self-aggrandizing, it’s not as though even our teachers can watch everyone by themselves. That’s why you have some students, like Ike-kun, who fall behind. Even if they fool the teacher into thinking they understood, in the end, they struggle to keep up,”
@@ -2373,7 +2373,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says:miyake-akito] (p.141) “Yeah. The only person I can think of is Horikita-san,”
 [note] (p.141) Class D’s study group names her as the obvious master tactician; Hiyori rejects that answer by name.
 
-### y1v6 p.157, 163–167 — Ch.6 §6.4, §6.6: prep call and the juice dump
+### y1v6 p.157, 163–167 — Ch.6 sec. 6.4, sec. 6.6: prep call and the juice dump
 [scene] (p.157) Calls at ten about finishing exam questions; next day chairs the karaoke study meeting and adjudicates Karuizawa’s attack on Kushida.
 [says:horikita-suzune] (p.157) “The library study groups are just about finished. After tomorrow’s session, I’d like to make some final preparations for the exam. Can you come along with me? If you could tell Yukimura-kun as well, that’d be a big help.”
 [says:horikita-suzune] (p.157) “If that’s inconvenient, the day after tomorrow is fine. But Thursday is the limit. The questions are almost complete, but I think we need to change some of them.”
@@ -2398,7 +2398,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y1v6 ch6 → p.176 -->
 
-### y1v6 p.177–187 — Ch.7 §7.0: the preemptive counter
+### y1v6 p.177–187 — Ch.7 sec. 7.0: the preemptive counter
 [scene] (p.177) At the base of the stairs with the manila envelope of questions she and Hirata spent a month building; only she knows all of them.
 [says:horikita-suzune] (p.177) “Thinking about something?”
 [says:horikita-suzune] (p.177) “Hard to say. Don’t expect too much. The school made many”
@@ -2448,7 +2448,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:miyake-akito] (p.185) Named with Haruka as the hardest-hit average students.
 [rel:sakagami-sensei] (p.179) Sakagami takes Ryuuen’s envelope first at the staff room.
 
-### y1v6 p.194–199 — Ch.7 §7.3: the score claim and the bet settled
+### y1v6 p.194–199 — Ch.7 sec. 7.3: the score claim and the bet settled
 [scene] (p.194) After the first exam day, claims ninety-eight or higher in math; walks Kushida to the special building to settle the bet.
 [says:horikita-suzune] (p.194) “A hundred. Or, at least, that’s what I’d like to say. Since there was one part where the question seemed ambiguous, I can probably only say I got ninety-eight points for certain. A few reasonably difficult questions were mixed in.”
 [says:horikita-suzune] (p.194) “None. I’m certain that I overcame this test. I think I managed to get near-perfect scores in the other three areas as well.”
@@ -2600,7 +2600,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y1v7 ch4 → p.119 -->
 
-### y1v7 p.120 — Ch.5 §5.1: the cover that keeps working
+### y1v7 p.120 — Ch.5 sec. 5.1: the cover that keeps working
 [scene] (p.120) Named in Ryuuen’s Class D suspect notes on the day he moves against Karuizawa.
 [note] (p.120) Class D members continued to use Suzune as a cover, which kept X hidden; Ryuuen tightens the noose anyway.
 [rel:ryuuen-kakeru] (p.120) The name he still treats as Class D’s public shield.

@@ -12,7 +12,7 @@ char_id: yabu-nanami · class: Class 1-C · status: minor (allies)
 
 <!-- walk: y1v4 ch2 → p.62 -->
 
-### y1v4 p.163 — Ch.4 §4.2: the face taunts
+### y1v4 p.163 — Ch.4 sec. 4.2: the face taunts
 [scene] (p.163) One of the three in the stairwell who tear Karuizawa’s looks apart while she is held against the wall.
 [rel:karuizawa-kei] (p.163) Named with Manabe and Yamashita as the group that “wouldn’t be satisfied until they’d verbally torn Karuizawa’s pretty face apart.”
 [rel:manabe-shiho] (p.163) The trio’s shared line of attack — Manabe leads, Yamashita and Yabu answer.

@@ -26,7 +26,7 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 
 <!-- walk: y1v5 → start -->
 
-### y1v5 p.68–85 — Ch.5 §5: The fastest in Class B
+### y1v5 p.68–85 — Ch.5 sec. 5: The fastest in Class B
 [scene] (p.76) Shibata scores on a brilliant arc during the practice the trio watches, then joins their group the next day.
 [rel:hirata-yousuke] (p.76) Better than Hirata by his own senior’s account — “Hirata-kun says that Shibata-kun is better than he is.”
 [rel:ayanokouji-kiyotaka] (p.79) Remembers Ayanokōji’s name and asks if he is on a date with the two girls.
@@ -35,7 +35,7 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 
 <!-- walk: y1v5 ch5 → p.85 -->
 
-### y1v5 p.95–112 — Ch.6 §6: Sudou’s rival on the clock
+### y1v5 p.95–112 — Ch.6 sec. 6: Sudou’s rival on the clock
 [scene] (p.95) Shibata is named again as faster than Hirata as the 100-metre results settle.
 [rel:hirata-yousuke] (p.95) Hirata: “Shibata-kun’s even faster than me, after all,” — seen during club practice.
 [action] (p.97) Wins the hurdle race without much difficulty and becomes Sudou’s main individual rival.
@@ -46,7 +46,7 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 [rel:sudou-ken] (p.112) Sudou after the race: the Shibata guy was really fast, and he only just beat him.
 [trait] (p.97–112) Like Ichinose, his leadership makes others rally around him — a standing threat to Sudou’s all-grade first-place dream.
 
-### y1v5 p.124–125 — Ch.6 §6: cavalry horse under a Class B general
+### y1v5 p.124–125 — Ch.6 sec. 6: cavalry horse under a Class B general
 [scene] (p.124) Shibata rides in the Class B general’s cavalry unit against the merged D/A mass in the boys’ match.
 [action] (p.125) That unit is taken down by Katsuragi and other Class A students after three of their own fall.
 [rel:kanzaki-ryuuji] (p.124–125) Rides with Kanzaki under the same Class B general.
@@ -54,7 +54,7 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 
 <!-- walk: y1v5 ch6 → p.143 -->
 
-### y1v5 p.169–170 — Ch.8 §8.2: Ichinose’s three-legged partner
+### y1v5 p.169–170 — Ch.8 sec. 8.2: Ichinose’s three-legged partner
 [scene] (p.169) Shibata walks up with Ichinose as her three-legged-race partner.
 [passing mention] (p.169) Named only as Ichinose’s partner beside her when the Class B pair approaches.
 [note] (p.170) Shibata answers “Okay.” — too short for a says row.
@@ -62,7 +62,7 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 
 <!-- walk: y1v5 ch8 → p.180 -->
 
-### y1v5 p.184–191 — Ch.9 §9: first-year MVP
+### y1v5 p.184–191 — Ch.9 sec. 9: first-year MVP
 [scene] (p.184) Shibata is Class B’s anchor and chases Nagumo; at the closing he takes first-year MVP over Sudou.
 [says:shibata-sou] (p.185) “All right! Nice! Leave the rest to me!”
 [feat] (p.184) Class B first-years sit third with Shibata waiting as anchor, same role as Ayanokouji.
@@ -167,3 +167,7 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 [rel:ichinose-honami] (p.177–179) Voices support for Ichinose.
 
 <!-- walk: y1v9 Epilogue → p.200 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->

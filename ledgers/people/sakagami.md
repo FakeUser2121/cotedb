@@ -7,14 +7,14 @@ aliases used for anchors: sakagami, sakagami-sensei
 
 <!-- walk: y1v2 → start -->
 
-### y1v2 p.193–196 — Ch.6 §6.1: Class C's teacher at the table
+### y1v2 p.193–196 — Ch.6 sec. 6.1: Class C's teacher at the table
 [scene] (p.193) The student council room; he sits beside his three students, "a bespectacled male teacher in his 30s."
 [role:faculty] (p.193) Homeroom teacher of Class C, present as the accused class's teacher.
 [says] (p.196) "Then can it really be considered self-defense when fighting against opponents of such unequal strength?"
 [says] (p.196) "But only the Class C students were hurt."
 [note] (p.196) He smiles the moment Sudō calls the others wimps; the narrator catches the expression and treats the question as a trap laid for exactly that answer.
 
-### y1v2 p.199–203 — Ch.6 §6.1: the attack on the witness
+### y1v2 p.199–203 — Ch.6 sec. 6.1: the attack on the witness
 [says] (p.199) "I thought I’d heard something or other about a witness, but you’re a Class D student?"
 [says] (p.199) "Apparently she didn’t witness anything. More of this would just be a waste of our time."
 [says] (p.199) "I want to speed this along. If we waste time, my students will suffer. These students are the joyful heart of their class, so I’ve no doubt that their many friends are worried about them. Also, they’re striving to improve their basketball skills, and we’re depriving them of valuable practice time. As a teacher, I can’t overlook this."
@@ -29,7 +29,7 @@ aliases used for anchors: sakagami, sakagami-sensei
 [trait] (p.202–203) The cross-examination is built to make the witness doubt herself rather than to test her account; the narrator's read is that "Sakagami-sensei probably didn't actually believe this."
 [says] (p.203) "Please, let’s not force this situation to continue. If there really was evidence, you would have presented it at an earlier stage—"
 
-### y1v2 p.204–205 — Ch.6 §6.1: the photographs, and the compromise
+### y1v2 p.204–205 — Ch.6 sec. 6.1: the photographs, and the compromise
 [says] (p.204) "What did you use to take these photos?"
 [says] (p.204) "You can alter the date rather easily with a digital camera, though. If you manipulated these photos on a computer, you could effectively set them at the time and date of the incident. This are inadequate evidence."
 [note] (p.204) The run-together "This are inadequate evidence" is kept as printed.
@@ -42,7 +42,7 @@ aliases used for anchors: sakagami, sakagami-sensei
 [says] (p.205) "Chabashira-sensei. What do you think?"
 [trait] (p.205) The proposal is a settlement that still assigns Sudō the larger share; the narrator calls it "asking for less than half" of a month and therefore "a considerable concession" for Class C.
 
-### y1v2 p.208–209 — Ch.6 §6.1: the two verdicts
+### y1v2 p.208–209 — Ch.6 sec. 6.1: the two verdicts
 [says] (p.208) "Ha ha… What can I even say? We did this intentionally? What a bizarre claim. Apparently, the student council president’s younger sister can’t help but spew nonsense."
 [says] (p.209) "I want you to reflect on the fact that many students will be involved in this due to your lies. Also, if you think that we’ll go easy on you if you start crying, then I am afraid you are being foolish. You should be ashamed of yourself."
 [limit] (p.209) The parting speech is delivered to Sakura on the way out, after the hearing has ended and no one can answer it; the chapter gives no reply.
@@ -51,7 +51,7 @@ aliases used for anchors: sakagami, sakagami-sensei
 
 <!-- walk: y1v2 ch6 → p.219 -->
 
-### y1v2 p.243–246 — Ch.7 §7.5: he loses his students in the room
+### y1v2 p.243–246 — Ch.7 sec. 7.5: he loses his students in the room
 [says] (p.243) "Oh, my. I see that the boy from yesterday isn’t here."
 [says] (p.243) "Well, whatever. It’s up to you guys to decide."
 [says] (p.243) "You made it just in the nick of time," — a slight sigh of relief when his three students arrive
@@ -94,7 +94,7 @@ aliases used for anchors: sakagami, sakagami-sensei
 
 <!-- walk: y1v7 → start -->
 
-### y1v7 p.120, 126 — Ch.5 §5.1: the closing homeroom and the camera debt
+### y1v7 p.120, 126 — Ch.5 sec. 5.1: the closing homeroom and the camera debt
 [scene] (p.120) Class C’s teacher closes the second semester; later pages remember the earlier camera-painting report.
 [says] (p.120) “I’d like to remind everyone to please be on your best behavior, even during winter vacation, and to make good use of your time. That’s all.”
 [note] (p.120) Ryuuen listens to what he calls gracious, meaningless words, then turns to his own plan.

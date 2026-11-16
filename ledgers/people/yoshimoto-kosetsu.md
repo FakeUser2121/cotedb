@@ -8,7 +8,7 @@ aliases used for anchors: yoshimoto, kosetsu
 
 <!-- walk: y1v6 → start -->
 
-### y1v6 p.135 — Ch.6 §6.0: archery club gossip
+### y1v6 p.135 — Ch.6 sec. 6.0: archery club gossip
 [scene] (p.135) Named only in Hasebe’s café gossip; no scene with him.
 [says:hasebe-haruka] (p.135) “That reminds me. There’s a guy named Yoshimoto-kun in Class C, right? Do you know him, Miyacchi?”
 [says:miyake-akito] (p.135) “Yoshimoto Kousetsu? Yeah, he’s in the archery club.”

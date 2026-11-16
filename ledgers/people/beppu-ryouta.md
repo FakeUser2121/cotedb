@@ -12,7 +12,7 @@ char_id: beppu-ryouta · class: Class 1-B · status: minor
 
 <!-- walk: y1v4 ch2 → p.62 -->
 
-### y1v4 p.219 — Ch.5 §5.2: the second phone
+### y1v4 p.219 — Ch.5 sec. 5.2: the second phone
 [scene] (p.219) First Class B student to follow Hamaguchi’s show after he opens his email.
 [rel:hamaguchi-tetsuya] (p.219) “I agree with Hamaguchi-kun. I’ll show mine, too.” — the coordinated Class B start, not a spur-of-the-moment idea.
 [rel:ichinose-honami] (p.219) Read as her strategy reaching the table — Hamaguchi and Beppu move as one.

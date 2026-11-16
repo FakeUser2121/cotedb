@@ -6,7 +6,7 @@ char_id: kondou-reo · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y1v3 → start -->
 
-### y1v3 p.105–106 — Ch.3 §3.1: the campsite visit
+### y1v3 p.105–106 — Ch.3 sec. 3.1: the campsite visit
 [scene] (p.105) Follows Komiya into the Class D campsite during the morning provocation.
 [rel:komiya-kyogo] (p.105–106) Partner in every line of the visit — the taunts, the chip toss, the message — the translation never separates their voices.
 [back] (p.105) One of the two who fought Sudō; Ayanokōji recalls them as “acting on orders from Ryuuen, rather than just looking for a fight.”
@@ -17,7 +17,7 @@ char_id: kondou-reo · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y1v5 → start -->
 
-### y1v5 p.120 — Ch.6 §6: passing mention
+### y1v5 p.120 — Ch.6 sec. 6: passing mention
 [scene] (p.120) Named as one of the three Class D horsemen supporting Horikita’s jockey in the girls’ cavalry.
 [rel:horikita-suzune] (p.120) Horse under her; the unit is named as not bad before the sole-target attack.
 [note] (p.120) No separate action is shown for him on these pages beyond the formation.
@@ -28,7 +28,7 @@ char_id: kondou-reo · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y1v6 → start -->
 
-### y1v6 p.136 — Ch.6 §6.1: named among the goons
+### y1v6 p.136 — Ch.6 sec. 6.1: named among the goons
 [scene] (p.136) Named as one of the evergreen trio of goons standing behind Ryuuen when the study group’s cup is crushed.
 [rel:ryuuen-kakeru] (p.136) Enforcer in the café crash; no dialogue from him on these pages.
 [note] (p.136) Present only in the roll-call of Ryuuen’s party.

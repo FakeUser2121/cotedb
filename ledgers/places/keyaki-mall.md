@@ -24,15 +24,15 @@ place_id: keyaki-mall · location: ANHS Campus Commercial District · type: shop
 
 <!-- walk: y1v4.5 → start -->
 
-### y1v4.5 p.18–20 — Ch.2 §2.1: the couples-only floor
+### y1v4.5 p.18–20 — Ch.2 sec. 2.1: the couples-only floor
 [scene] (p.18–20) A summer-vacation morning packs the mall before ten: students queue on the fifth floor for Ukon-sensei’s booth; Ayanokōji and Ibuki are both turned away at the line.
 [place:keyaki-mall] (p.18–19) The complex draws the crowd out of season — elevator banks backed up, pairs all over the floor, solo students a minority.
 [rule] (p.19–20) The booth’s written notice and the attendant’s answer: guidance is for couples only; Ukon-sensei reads fortunes for couples.
 
-### y1v4.5 p.29 — Ch.2 §2.3: the same place, the same time
+### y1v4.5 p.29 — Ch.2 sec. 2.3: the same place, the same time
 [scene] (p.29) The day after giving up he is drawn back, and he and Ibuki happen upon the booth at the exact same time.
 
-### y1v4.5 p.38–47 — Ch.2 §2.5: the elevator on the external wall
+### y1v4.5 p.38–47 — Ch.2 sec. 2.5: the elevator on the external wall
 [scene] (p.38–47) The detour elevator: grinds to a halt on the third floor with Ayanokōji and Ibuki inside — dead emergency line, dead phones, dying AC, thirty minutes of heat before the doors open.
 [place:keyaki-mall] (p.43) The car sits in the Keyaki Mall’s external wall — the narration notes it only once the air conditioning dies: under the sun the interior runs to heatstroke danger.
 [note] (p.47) Rescue is external: two adults move the car by remote control from the first floor; the pair’s button work coincides with it.

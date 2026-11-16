@@ -6,7 +6,7 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 
 <!-- walk: y1v5 → start -->
 
-### y1v5 p.192, 202 — Ch.9 §9.1/9.4: the courier
+### y1v5 p.192, 202 — Ch.9 sec. 9.1/9.4: the courier
 [scene] (p.192) A calm Class A girl from the cavalry battle summons Ayanokouji to the front gate; at the special building she delivers him to Sakayanagi.
 [says:kamuro-masumi] (p.192) “Would you mind coming with me after you finish changing?”
 [says:kamuro-masumi] (p.192) “Because I have something to talk to you about. At five o’clock, go to the front gate.”

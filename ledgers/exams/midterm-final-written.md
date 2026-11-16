@@ -49,14 +49,14 @@ exam_id: midterm-exam · scope: ANHS first-year midterm examination (y1v1, May 2
 
 <!-- walk: y1v2 → start -->
 
-### y1v2 p.45, p.52–53 — Ch.3 §3.1: the midterm's social residue gets spent
+### y1v2 p.45, p.52–53 — Ch.3 sec. 3.1: the midterm's social residue gets spent
 [scene] (p.45) Two weeks after the results, the shared prep is invoked as an obligation on Sudou's behalf: “This is a little disheartening. I thought that preparing for that test together brought us all a bit closer,” — AK's tag: "said a disappointed Ike."
 [note] (p.44–45) The exam's after-effect runs one way only: it buys group feeling, and Horikita is the one student who refuses to spend it on Sudou ("I’ve never once considered you a friend."). No pass rule, threshold or buyback from the midterm is restated, revised or appealed anywhere in Chapter 3.
 [status] (p.52–53) The reward the class was promised is still the horizon the boys talk over: “Hey, Sae-chan-sensei said that we’d have a vacation this summer, right?" — the vacation, not the scores, is what the midterm is remembered as in July.
 
 <!-- walk: y1v2 ch3 → p.65 -->
 
-### y1v2 p.116–117 — Ch.4 §4.6: the exam as the only lever, priced by a Class B student
+### y1v2 p.116–117 — Ch.4 sec. 4.6: the exam as the only lever, priced by a Class B student
 [says] (p.116) "I’ve heard rumors that we might be taking a vacation to a tropical island." — the reward Class D was promised at the end of the previous volume reaches the rest of the year as rumour.
 [thinks] (p.116) The link back to their own teacher: "That sparked a memory. I’d forgotten about it, but Chabashira-sensei had mentioned a vacation."
 [status] (p.117) "So far, the midterm is all that’s given us a chance to raise our class points, so losing at least a few points was unavoidable for us. I mean, even Class A has lost points." — two weeks after the results, Class B's representative states the midterm as the only point-raiser the school has run so far.

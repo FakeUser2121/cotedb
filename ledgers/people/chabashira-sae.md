@@ -170,7 +170,7 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y1v2 → start -->
 
-### y1v2 p.16–18 — Ch.2 §2.1 (July 1): the point board, and a deposit with a rider
+### y1v2 p.16–18 — Ch.2 sec. 2.1 (July 1): the point board, and a deposit with a rider
 [scene] (p.16) She "strode into the classroom as the homeroom bell rang" to a Class D more raucous than usual, the first payout day since enrollment.
 [says] (p.16) “Good morning, everyone. You all seem more restless than usual today.”
 [says] (p.16) “Oh, so that’s why you’re all so restless?”
@@ -184,7 +184,7 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [back] (p.16) AK's memory of her entrance-day line is what taught the class to spend: he "understood that our homeroom teacher, Chabashira-sensei, hadn’t been kidding when she told us, 'At this school, you can buy anything with your points.'"
 
 
-### y1v2 p.22 — Ch.2 §2.3: collecting Sudou for the faculty room
+### y1v2 p.22 — Ch.2 sec. 2.3: collecting Sudou for the faculty room
 [says] (p.22) “Sudou. I have to talk to you about something. Come to the faculty room,”
 [says] (p.22) “I’ve already spoken with the advisor. You don’t have to come with me if you don’t want to, but you will face the consequences later.”
 [says] (p.22) “That all depends on you. The longer you stand there, the more time you waste.”
@@ -210,7 +210,7 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y1v2 ch3 → p.65 -->
 
-### y1v2 p.163–166 — Ch.5 §5.2: the teacher who will not take the witness on trust
+### y1v2 p.163–166 — Ch.5 sec. 5.2: the teacher who will not take the witness on trust
 [scene] (p.163) The faculty room, after homeroom, at the class's request; Ayanokōji hangs back.
 [says] (p.163) "A witness? For Sudou’s case?"
 [says] (p.163) "I understand what you’re said. However, I can’t simply accept what you’re telling me,"
@@ -248,13 +248,13 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [says] (p.193) "So, this is all by chance?"
 [note] (p.193) The question is aimed at the president’s claim of attending by choice; he does not answer it.
 
-### y1v2 p.199–200 — Ch.6 §6.1: the witness she dismisses
+### y1v2 p.199–200 — Ch.6 sec. 6.1: the witness she dismisses
 [says] (p.199) "Why are you in such a hurry, Sakagami-sensei?"
 [note] (p.199–200) When Sakagami moves to strike the witness, she agrees with him instead of resisting: "You’d think that Chabashira-sensei would ally herself with Class D, but that didn’t seem to be the case."
 [says] (p.200) "You’re certainly right that this is a waste of time, so I suppose we have no choice. You can come down now, Sakura."
 [limit] (p.200) The order is what forces Sakura’s outburst; the chapter does not say whether Chabashira expected it, and the narrator records only that she "ordered Sakura to leave, almost as if she’d lost interest."
 
-### y1v2 p.205–209 — Ch.6 §6.1: the compromise she will not refuse
+### y1v2 p.205–209 — Ch.6 sec. 6.1: the compromise she will not refuse
 [says] (p.205) "Compromise?"
 [says] (p.206) "We seem to have already reached a logical conclusion. There’s no reason to refuse Sakagami-sensei’s proposal,"
 [trait] (p.206) She treats the settlement as arithmetic rather than advocacy: the proposal is "certainly a reasonable compromise," and she says so in front of her own student.
@@ -264,7 +264,7 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y1v2 ch6 → p.219 -->
 
-### y1v2 p.243–246 — Ch.7 §7.5: the empty seat and the unexpected ending
+### y1v2 p.243–246 — Ch.7 sec. 7.5: the empty seat and the unexpected ending
 [scene] (p.243) She arrives with Sakagami for the retrial and finds Ayanokōji’s seat empty.
 [says] (p.243) "What happened to Ayanokouji, Horikita?"
 [says] (p.243) "Not participating?"
@@ -275,7 +275,7 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rule] (p.246) She confirms the practical result to both sides: no suspension for Sudō, no punishment for Class C, with this incident as the example to remember next time.
 [says] (p.246) "Of course. The same goes for the students in Class C, naturally. Youthful zeal is a good quality. However, the next time you think about causing problems, you should remember this incident as an example. Do not forget. Okay?"
 
-### y1v2 p.246–247 — Ch.7 §7.5: what she says to Sudō
+### y1v2 p.246–247 — Ch.7 sec. 7.5: what she says to Sudō
 [says] (p.246) "I’m glad, Sudou,"
 [says] (p.246) "Personally, I think you should have been punished,"
 [says] (p.246) "The reason this incident occurred at all is because of your behavior. Who told the truth and who lied is trivial. It’s important that you don’t let this kind of thing happen again. You do understand that, yes?"
@@ -285,7 +285,7 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [says] (p.247) "You shouldn’t make promises so casually. You’ll cause trouble soon again."
 [says] (p.247) "What do you think, Horikita? Do you think that Sudou will become a model student?"
 
-### y1v2 p.248–251 — Ch.7 §7.5: the private lesson about Ayanokōji
+### y1v2 p.248–251 — Ch.7 sec. 7.5: the private lesson about Ayanokōji
 [says] (p.248) "So. What methods did you use, Horikita?"
 [says] (p.248) "Don’t try to dodge the question. They wouldn’t withdraw their complaint without a reason, would they?"
 [says] (p.248) "So it’s a secret, hmm? Well, allow me to change the question. Who came up with the strategy that defeated Class C?"
@@ -326,7 +326,7 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y1v3 ch1 → p.12 -->
 
-### y1v3 p.24–39 — Ch.2 §2.1: she runs the rules that sink the summer
+### y1v3 p.24–39 — Ch.2 sec. 2.1: she runs the rules that sink the summer
 [scene] (p.24) Beach landing; she takes Class D's roll call in the same jersey as the students.
 [says] (p.26) “Keeping on like that would be shameful, Ike, so stop talking.” — and the world-widening follow-up: “There are workplaces where there aren’t any chairs in the office, and companies that decide salaries with dice rolls. The world is wider and deeper than you even know.”
 [says] (p.26–27) “In other words, you are ill-equipped to distinguish between what is reality and what isn’t.” / “In my opinion, you’re all equally worthless.”
@@ -337,12 +337,12 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:ike-kanji] (p.30) Refuses the emergency-bear question on process grounds: "the test has already begun. I cannot answer any questions that might possibly influence your results."
 [role:teacher] (p.33) Confirms the school "isn’t involved in the test process at all" — survival is the test.
 
-### y1v3 p.97–98 — Ch.2 §2.8: she announces the retirement
+### y1v3 p.97–98 — Ch.2 sec. 2.8: she announces the retirement
 [rule] (p.97–98) Reads the class the cost of Kouenji's exit without inflection: "Kouenji complained about being in poor physical condition and returned to the ship. Of course, that means that you’ve had thirty points deducted. Those are the rules, so there’s nothing to be done."
 
 <!-- walk: y1v3 ch2 → p.99 -->
 
-### y1v3 p.152–157 — Ch.5 §5.2: the faculty-room deal
+### y1v3 p.152–157 — Ch.5 sec. 5.2: the faculty-room deal
 [scene] (p.152) Closing ceremonies: she catches him the moment homeroom ends — faculty room, before he leaves — and gives nothing else away until the door shuts.
 [says] (p.152) “Ayanokouji. I have to talk to you before you leave. Come to the faculty room.”
 [action] (p.153) Waits in the faculty-room doorway and answers in short sentences that raise his “incoming depression” meter.
@@ -423,7 +423,7 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y1v4 ch3 → p.124 -->
 
-### y1v4 p.166–169 — Ch.4 §4.3: the midnight point question
+### y1v4 p.166–169 — Ch.4 sec. 4.3: the midnight point question
 [scene] (p.166) Meets Ayanokōji by the night pool after his call; answers the buy-anything exceptions question, survives Hoshinomiya’s drunk interruption, and gets asked for a future favour.
 [says] (p.166) “Sorry to keep you waiting, Ayanokouji.”
 [says] (p.166) “It’s okay. I’m sorry for calling you so late.” (his line, in exchange)
@@ -473,7 +473,7 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y1v5 → start -->
 
-### y1v5 p.16–25 — Ch.2 §2.1: the sports festival briefing
+### y1v5 p.16–25 — Ch.2 sec. 2.1: the sports festival briefing
 [scene] (p.16) Afternoon homeroom runs two hours: she distributes the festival handout and weekly schedules in a detached, matter-of-fact manner.
 [says] (p.16) “However, from September to the beginning of October, we will be holding more physical education classes to prepare for the school sports festival.”
 [says] (p.16) “In any case, this event will massively impact each and every class.” — answers Hirata’s special-exam question vaguely.
@@ -486,7 +486,7 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [says] (p.23) “A substitute requires 100,000 private points per competition.”
 [says] (p.23) “Next period’s location will move to Gymnasium 1, where you’ll meet with students from other classes and grade levels.”
 
-### y1v5 p.35–37 — Ch.2 §2.3: the gate
+### y1v5 p.35–37 — Ch.2 sec. 2.3: the gate
 [scene] (p.35) Spraying water at the main gate after school; she’s on duty and clocks that he stayed behind later than usual.
 [says] (p.35) “You stayed behind longer than usual, Ayanokouji.”
 [says] (p.37) “Are you prepared for the sports festival?”
@@ -497,14 +497,14 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y1v5 ch2 → p.38 -->
 
-### y1v5 p.39–53 — Ch.3 §3: Watches the homeroom from the back
+### y1v5 p.39–53 — Ch.3 sec. 3: Watches the homeroom from the back
 [scene] (p.39) Chabashira moves to the back of the classroom during Hirata’s two-hour homeroom and does not speak — she intends to watch the class run itself.
 [rel:hirata-yousuke] (p.39) Lets Hirata run the session unopposed — she speaks no word during the whole strategy meeting.
 [note] (p.41) The chapter prints nothing further about her; her last stated posture is watching from the back (p.39).
 
 <!-- walk: y1v5 ch3 → p.53 -->
 
-### y1v5 p.133 — Ch.6 §6: the report she cannot prove
+### y1v5 p.133 — Ch.6 sec. 6: the report she cannot prove
 [scene] (p.133) Chabashira approaches Hirata on the ground after Sudou’s punch and reads the rage immediately.
 [says] (p.133) “What’s going on?”
 [says] (p.133) “Did you hit him?”
@@ -516,7 +516,7 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y1v5 ch6 → p.143 -->
 
-### y1v5 p.146–148 — Ch.7 §7.1: relays Kinoshita’s accusation
+### y1v5 p.146–148 — Ch.7 sec. 7.1: relays Kinoshita’s accusation
 [scene] (p.146) In the infirmary Chabashira tells Horikita that Kinoshita claims she was knocked down deliberately.
 [says:chabashira-sae] (p.146) “I had Kushida fetch you. Looks like she was quick about it,”
 [says:chabashira-sae] (p.146) “Well, Kinoshita says that you deliberately knocked her down, Horikita.”
@@ -531,7 +531,7 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [says:chabashira-sae] (p.148) “Kushida consulted me on the matter.”
 [says:chabashira-sae] (p.148) “Okay. I’ll let you try,”
 
-### y1v5 p.151–156 — Ch.7 §7.1: presses the look-back, objects to Ryuuen
+### y1v5 p.151–156 — Ch.7 sec. 7.1: presses the look-back, objects to Ryuuen
 [scene] (p.151) Chabashira presses Horikita on why she looked back during the race, then tries to stop Ryuuen’s kneeling demand.
 [says:chabashira-sae] (p.151) “Horikita, you only looked behind you when you raced with Kinoshita. Why did you do that?”
 [says:chabashira-sae] (p.152) “Is that true, Kinoshita?”
@@ -540,7 +540,7 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y1v5 ch7 → p.159 -->
 
-### y1v5 p.169 — Ch.8 §8.2: accepts Ayanokouji as substitute
+### y1v5 p.169 — Ch.8 sec. 8.2: accepts Ayanokouji as substitute
 [scene] (p.169) Chabashira raises an eyebrow at Ayanokouji volunteering for Sudou’s three-legged place.
 [says:chabashira-sae] (p.169) “So, you’re going to be Sudou’s substitute, Ayanokouji?”
 [says:chabashira-sae] (p.169) “Rather unusual, since you tend to prefer watching on the sidelines.”
@@ -590,14 +590,14 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [trait] (p.33) Her gentler side is new; Horikita reads it as the creepier signal that something worse is coming.
 [rel:horikita-suzune] (p.33) Suzune: “You praising us feels weird.”
 
-### y1v6 p.54 — Ch.3 §3.2: cited from the Pallet table
+### y1v6 p.54 — Ch.3 sec. 3.2: cited from the Pallet table
 [scene] (p.54) Horikita cites Chabashira’s first Class D without expulsions and the historical one-or-two-pair figure while arguing pairs are balanced.
 [rel:horikita-suzune] (p.54) Her earlier briefing is the premise of the balanced-pairs inference.
 [note] (p.54) Chabashira is not present at Pallet; only her prior rules are quoted.
 
 <!-- walk: y1v6 ch3 → p.59 -->
 
-### y1v6 p.76, 80–83 — Ch.5 §5: nomination and quiz day
+### y1v6 p.76, 80–83 — Ch.5 sec. 5: nomination and quiz day
 [scene] (p.76) Leaves the classroom after homeroom begins at 6 p.m.; Hirata takes the podium with her permission.
 [rel:horikita-suzune] (p.80) Confirms Class D’s Class C nomination had no competing conflict; Classes A and B both nominated Class D.
 [says:chabashira-sae] (p.80) “We will begin shortly, but I’d like to say something. You nominated Class C as the class you wanted to attack for this test. Since there was no conflict with any other class, your nomination was approved,”
@@ -622,7 +622,7 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [note] (p.105) No dialogue from Chabashira on these pages.
 <!-- walk: y1v6 ch5 → p.131 -->
 
-### y1v6 p.179–187 — Ch.7 §7.0: conditions, the reveal, the warning
+### y1v6 p.179–187 — Ch.7 sec. 7.0: conditions, the reveal, the warning
 [scene] (p.179) Takes Horikita’s envelope at the staff room after Sakagami has taken Ryuuen’s; bargains conditions before honouring secrecy.
 [says:chabashira-sae] (p.179) “I’ll hold on to them,”
 [says:chabashira-sae] (p.179) “You want me to turn down absolutely anyone who asks to see them?”
@@ -717,7 +717,7 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y1v7 ch4 → p.119 -->
 
-### y1v7 p.152, 156–165 — Ch.6 §6.1: the closing lecture and the private-point test
+### y1v7 p.152, 156–165 — Ch.6 sec. 6.1: the closing lecture and the private-point test
 [scene] (p.152) Closes the second semester with renovation warnings, then surprises the class with a rare praise; later meets Ayanokōji alone in the empty classroom.
 [says] (p.152) “Parts of the school will undergo renovations, so those areas will be off-limits. Also, all clubs will take the day off after the closing ceremony. Be sure to head back as soon as you can.”
 [says] (p.152) “I’m sure that many of you are already aware of this, but your promotion to Class C is almost guaranteed. Well done.”
@@ -820,7 +820,7 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y1v8 → start -->
 
-### y1v8 p.11–32 — Ch.2 §2.1: the Mixed Training Camp briefing
+### y1v8 p.11–32 — Ch.2 sec. 2.1: the Mixed Training Camp briefing
 [scene] (p.11) On the Class C bus Chabashira hands out the exam handout and delivers the full Mixed Training Camp rules before phones are collected.
 [says:chabashira-sae] (p.13) “I’m sorry. You are Class C now. Allow me to give you newly promoted students an overview of the special exam.”
 [says:chabashira-sae] (p.22) “Yes. The penalty is expulsion.”

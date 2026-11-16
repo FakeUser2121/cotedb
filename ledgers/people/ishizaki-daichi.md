@@ -6,7 +6,7 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y1v3 → start -->
 
-### y1v3 p.111–112 — Ch.3 §3.2: the warm water
+### y1v3 p.111–112 — Ch.3 sec. 3.2: the warm water
 [scene] (p.111) Volleyball on the Class C beach until Ryūen calls him over to serve.
 [action] (p.111) Rushes sweat-dripping to the tent and hands over a bottle; Ryūen pours it out and throws it back at him.
 [says:ryuuen-kakeru] (p.112) “I said to bring me cold water. This water's warm.”
@@ -18,7 +18,7 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y1v5 → start -->
 
-### y1v5 p.120 — Ch.6 §6: passing mention
+### y1v5 p.120 — Ch.6 sec. 6: passing mention
 [scene] (p.120) Named as one of the three Class D horsemen supporting Horikita’s jockey in the girls’ cavalry.
 [rel:horikita-suzune] (p.120) Horse under her; the unit is called not bad at all before Class C’s focus fire.
 [note] (p.120) No separate action is shown for him on these pages beyond the formation.
@@ -29,7 +29,7 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y1v6 → start -->
 
-### y1v6 p.60–66 — Ch.4 §4: Ryuuen’s enforcer and phone collector
+### y1v6 p.60–66 — Ch.4 sec. 4: Ryuuen’s enforcer and phone collector
 [scene] (p.60) Named at Ryuuen’s side among the martial-arts students willing to punish with fists.
 [rel:ryuuen-kakeru] (p.60) Commands respect and contempt; executes the dictator’s orders without pushback.
 [says:ishizaki-daichi] (p.62) “Someone thinks like you, Ryuuen-san? I can’t imagine someone like that in Class D, though,”
@@ -42,7 +42,7 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [says:ishizaki-daichi] (p.65) “Six people are standing up to Ryuuen-san. The spy is definitely among them, I’m sure of it! Nomura-san, you were the last one to raise your hand. You’re not jumping on the bandwagon to save your own skin, are you?”
 [rel:ryuuen-kakeru] (p.66) Ordered to gather six phones and return them when Ryuuen clears the six.
 
-### y1v6 p.70, 73 — Ch.4 §4: entrance-ceremony terror and Yukimura read
+### y1v6 p.70, 73 — Ch.4 sec. 4: entrance-ceremony terror and Yukimura read
 [rel:ryuuen-kakeru] (p.70) Y-yes… when the entrance-ceremony fate of opposers is cited; trembling.
 [rel:yamada-albert] (p.70) Both resisted Ryuuen at first; violence brought them to their knees.
 [says:ishizaki-daichi] (p.73) “Well, I suppose that Yukimura does look a little suspicious. He seems pretty smart”
@@ -59,7 +59,7 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y1v6 ch5 → p.131 -->
 
-### y1v6 p.136–137 — Ch.6 §6.1: collar grab, then silence
+### y1v6 p.136–137 — Ch.6 sec. 6.1: collar grab, then silence
 [scene] (p.136) One of Ryuuen’s goons standing behind him at the café table when the cup is crushed.
 [action] (p.136) Grabs Miyake by the collar after Miyake tells Ryuuen to knock it off.
 [says:ishizaki-daichi] (p.136) “Bastard!”
@@ -112,7 +112,7 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y1v7 ch4 → p.119 -->
 
-### y1v7 p.122–134 — Ch.5 §5.1–5.2: the buckets and the blunder
+### y1v7 p.122–134 — Ch.5 sec. 5.1–5.2: the buckets and the blunder
 [scene] (p.122) Looks restless as Ryuuen calls the time; takes the bag of indispensable items.
 [says] (p.122) “It’s time, isn’t it, Ryuuen-san?”
 [says:ryuuen-kakeru] (p.122) “Let’s make the most of today,”
@@ -438,3 +438,7 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [voice] (p.163) His protest under her order comes out as a broken stammer — the one time he cannot finish a sentence.
 
 <!-- walk: y1v9 ch7 → p.175 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->

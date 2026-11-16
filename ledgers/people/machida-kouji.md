@@ -12,7 +12,7 @@ char_id: machida-kouji · class: Class 1-A · status: minor
 
 <!-- walk: y1v4 ch2 → p.62 -->
 
-### y1v4 p.81–91 — Ch.3 §3.1: the Class A no-discussion pitch
+### y1v4 p.81–91 — Ch.3 sec. 3.1: the Class A no-discussion pitch
 [scene] (p.81) Opens the Rabbit discussion by objecting to introductions, then fronts Katsuragi’s “don’t talk” strategy until Class A withdraws to the corner of the room.
 [says] (p.81) “Is it really necessary to introduce ourselves, though? I don’t think the school seriously meant that. I think it’s fine if only the people who want to introduce themselves do it, right?”
 [says] (p.83) “Ichinose, that question was unfair, wouldn’t you say? If you say something like, ‘assume that no one here’s the VIP,’ aren’t you subtly calling the VIP a villain? Besides, no normal person would announce that they’re going to betray anyone.”
@@ -47,7 +47,7 @@ char_id: machida-kouji · class: Class 1-A · status: minor
 [scene] (p.92) Named in the wake of the failed proposals.
 [note] (p.92) Those who rejected both Machida’s and Ichinose’s plans had no third option.
 
-### y1v4 p.95, p.107–108 — Ch.3 §3.1–§3.4: the fair intervention and the second-gathering snicker
+### y1v4 p.95, p.107–108 — Ch.3 sec. 3.1–sec. 3.4: the fair intervention and the second-gathering snicker
 [scene] (p.95) Called over by Karuizawa mid-fight, rules Manabe in the wrong on pictures, then reappears in the second discussion as Ichinose’s baited target.
 [says] (p.95) “I agree. Manabe, Karuizawa has told you that she doesn’t want you to take her picture. Stop it,” Machida added.
 [says] (p.95) “From what I’ve heard just now, I think you’re the one in the wrong here, Manabe. Karuizawa told you she doesn’t know what you’re talking about, so it’s wrong for you to forcefully take her picture. Don’t you agree? I think it’s best to talk to your friend again and confirm if the story is true.”
@@ -67,14 +67,14 @@ char_id: machida-kouji · class: Class 1-A · status: minor
 
 <!-- walk: y1v4 ch3 → p.124 -->
 
-### y1v4 p.137 — Ch.4 §4.1: the protection offer
+### y1v4 p.137 — Ch.4 sec. 4.1: the protection offer
 [scene] (p.137) Karuizawa crosses to his Class A corner; he accepts the seat and offers cover for the hour.
 [says] (p.137) “Don’t worry. If anything happens, I’ll help you,” said Machida.
 [rel:karuizawa-kei] (p.137) Takes her dependence on him as something to be conscious of; the cute-girl protection logic is the narrator’s read, not a spoken line.
 [trait] (p.137) Doesn’t participate in the discussion but his presence weighs on the room — Class A’s distance plus Machida in the circle is the power imbalance of the hour.
 [rel:manabe-shiho] (p.137) His presence is what keeps the Class C girls from hounding her (the seat’s whole point).
 
-### y1v4 p.155–159 — Ch.4 §4.2: the seat arbitration
+### y1v4 p.155–159 — Ch.4 sec. 4.2: the seat arbitration
 [scene] (p.155) Invited out by the Class C girls, then made to choose between them and Karuizawa — he picks her and keeps the no-discussion policy.
 [says] (p.155) “I see,” replied Machida. (to the hang-out invite)
 [trait] (pp.155-156) Pleased by the female attention; “a little troubled” picking a girl until Karuizawa removes the choice.
@@ -99,7 +99,7 @@ char_id: machida-kouji · class: Class 1-A · status: minor
 [scene] (p.206) Named in the reading of the group’s frustration.
 [note] (p.206) Ayanokōji wonders whether Ichinose and Machida felt irritated about being locked into a stalemate.
 
-### y1v4 p.218–224 — Ch.5 §5.2: the flat refusal and the audit
+### y1v4 p.218–224 — Ch.5 sec. 5.2: the flat refusal and the audit
 [scene] (p.218) Refuses Hamaguchi’s show as naive, then audits Yukimura’s revealed VIP screen for the room.
 [says] (p.218) “I can’t believe it. There’s no way we can arrive at Outcome #1 without discussion,” Machida huffed.
 [says] (p.218) “This is dumb. Why would anyone show their phone just because you told us to? Someone could betray us all the moment we show our emails. No one would do this,” answered Machida flatly.
@@ -114,7 +114,7 @@ char_id: machida-kouji · class: Class 1-A · status: minor
 [says] (p.224) “Well, fine. Whatever. If you want to see my phone, here.”
 [feat] (p.224) The only student who verifies the VIP screen with logs — Class A’s technical audit of the reveal.
 
-### y1v4 p.225–228 — Ch.5 §5.2: the audit overturned
+### y1v4 p.225–228 — Ch.5 sec. 5.2: the audit overturned
 [scene] (p.225) Accepts the Yukimura verdict after the password-show, then loses the argument to Ichinose’s call and SIM lecture — his log-check is declared fake — and leaves with a promise for Outcome #1.
 [says] (p.225) “So that means it’s definitely Yukimura-kun.”
 Manabe nodded. (he anchors the room’s conclusion)

@@ -186,13 +186,13 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [trait] (p.13) Leaves like the winners' corner doesn't matter: "dropped the student, picked up his bag, and then turned and walked away as if the defeated three completely disinterested him."
 [says] (p.13) "Is someone there?" (senses Sakura's movement; misses her by two seconds — he never learns there was a witness)
 
-### y1v2 p.22–23 — Ch.2 §2.3: hauled to the faculty room
+### y1v2 p.22–23 — Ch.2 sec. 2.3: hauled to the faculty room
 [scene] (p.22) Tries to bolt to basketball practice when Chabashira calls him; lazily flashes his sports uniform; only follows her after her consequence threat, clicking his tongue.
 [says] (p.22) "Huh? What do you want with me? I’ve got basketball practice now."
 [says] (p.22) "What? Will this be over quickly?"
 [back] (p.22) A classmate's mutter sums his reputation: "I thought that he might have changed, but I guess Sudou’s the same as ever. Wouldn’t it have been better if he just got kicked out?"
 
-### y1v2 p.27–38 — Ch.2 §2.4: confesses the fight to AK + Kushida, begs for secrecy
+### y1v2 p.27–38 — Ch.2 sec. 2.4: confesses the fight to AK + Kushida, begs for secrecy
 [scene] (p.27) Bursts into Ayanokōji's locked room (duplicate keycard made by Ike's group) with a beet-red face: he may be suspended.
 [says] (p.27) "Save me, Ayanokouji!"
 [says] (p.27) "This the room where our group meets, isn’t it? Ike and the rest of us made duplicate keys. Didn’t you know that? Everyone else in the group has a key, too."
@@ -245,7 +245,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [scene] (p.41) He leaves with Chabashira immediately: "Chabashira-sensei left, and Sudou followed right after her. He probably realized that if he stayed in the classroom, he’d lose his temper with someone."
 
 
-### y1v2 p.42–45 — Ch.3 §3.1: the class's own memory of him is the case against him
+### y1v2 p.42–45 — Ch.3 sec. 3.1: the class's own memory of him is the case against him
 [scene] (p.42–43) Classmates answer Kushida's appeal with their own sightings, speakers unnamed: "I saw him grab some kid by the collar just because they bumped into each other in the hallway." / "I saw him cut in line in the cafeteria and lash out when someone tried to tell him that wasn’t okay."
 [back] (p.42) Yamauchi's public counter-testimony, which turns the room: that Sudou "lied so he could justify what he did", that "He talked about beating up kids all the time in junior high. He even told us how much fun it was to beat people up."
 [scene] (p.44) In the cafeteria he pleads to Horikita in flat, external terms: "Sudou spoke to Horikita with indifference, almost as if he were describing someone else’s problems."
@@ -258,7 +258,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:horikita-suzune] (p.44–45) He assumes the friendship she refused to name; her answer — that she has "never once considered you a friend" — is the first time the class hears her draw that line out loud.
 
 
-### y1v2 p.46–47 — Ch.3 §3.1: he cannot accept that her refusal has a reason
+### y1v2 p.46–47 — Ch.3 sec. 3.1: he cannot accept that her refusal has a reason
 [says] (p.46) “I don’t really want to think about it, but I guess it might be true.”
 [says] (p.46) “Is it because she hates Sudou? I mean, she just said she didn’t consider him a friend.” — read as Kushida's line to the group, on Sudou's behalf; the text attributes neither to a named speaker.
 [says] (p.46) “What’s trivial about it? ...” — see p.44; he returns to the same refusal to examine his own part.
@@ -268,7 +268,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:kushida-kikyou] (p.44) He accepts her defence of him and never credits it; his own attitude flip in this chapter comes from Ike being recruited by her, not from him changing anything.
 
 
-### y1v2 p.51 — Ch.3 §3.1: the Horikita fantasy, stated in front of the class
+### y1v2 p.51 — Ch.3 sec. 3.1: the Horikita fantasy, stated in front of the class
 [says] (p.51) “Just to be sure, there’s really nothing between you and Horikita?”
 [says] (p.51) “Okay, fine then. I guess I misunderstood. I thought you were clinging to her too much. That’d be a bother for Horikita.”
 [says] (p.51) “You guys don’t know anything. Horikita is hands down better than Kushida, anyway.”
@@ -278,7 +278,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y1v2 ch3 → p.65 -->
 
-### y1v2 p.74–82 — Ch.4 §4.1: he never claimed a witness, and nobody had understood that
+### y1v2 p.74–82 — Ch.4 sec. 4.1: he never claimed a witness, and nobody had understood that
 [says] (p.74) “What happened today? Did you make any progress?” — he comes to the conference at AK's room the morning after being told Tuesday is the deadline.
 [says] (p.74) The sentence that quietly invalidates three days of searching: “Huh? I never said there was someone there. I said that it felt like someone was there.”
 [scene] (p.75) While the group works he plays a phone basketball game and celebrates: "After he won the match, he struck a victory pose." — AK's title for it: "I think the game was called Generation of Miracles or something."
@@ -298,7 +298,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [scene] (p.93) He is stopped by Hirata rather than by reason and leaves by force: "Sudou glared at Kouenji and left the classroom, slamming the door on his way out."
 [trait] (p.74–93) His whole defence is a feeling he cannot evidence and a story he told so loosely that the class built three days of work on a misreading of it; his violence stays available on demand and is the only thing in the chapter that reliably changes the room.
 
-### y1v2 p.146 — Ch.4 §4.10: the witness is secured for him, in a mall, without him
+### y1v2 p.146 — Ch.4 sec. 4.10: the witness is secured for him, in a mall, without him
 [scene] (p.146) The obstacle the whole class failed to move for three weeks clears while he is not in the room: "In her own words, Sakura told us that she was the witness."
 [says] (p.146) What she is promised to him for: "Thank you, Sakura-san. I’m sure Sudou-kun will be really happy."
 [status] (p.146) By the close of Chapter 4 he has a witness, obtained by Kushida and Ayanokōji over a camera repair; he never asks Sakura anything, and the volume does not show him learning that she saw it.
@@ -306,7 +306,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y1v2 ch4 → p.151 -->
 
-### y1v2 p.165–167 — Ch.5 §5.2–5.3: told he will be there, and certain of the outcome
+### y1v2 p.165–167 — Ch.5 sec. 5.2–5.3: told he will be there, and certain of the outcome
 [note] (p.165) He is not in the faculty room; Chabashira says the school will inform him: "we’ll tell Sudou that he will be participating in the deliberation."
 [scene] (p.167) Lunch strategy session; he and Kushida both turn to Horikita for a verdict.
 [says] (p.167) "Of course we will. It’s obvious that I was set up. I’m definitely innocent. Right?"
@@ -324,7 +324,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [trait] (p.191) The bickering is affection in his idiom; the narrator notes he would have refused Horikita’s help outright if he truly hated her.
 [note] (p.191) Kushida’s send-off — "Do your best, Horikita-san. Sudou-kun." — is answered by Sudou pumping his fist to show resolve.
 
-### y1v2 p.194–196 — Ch.6 §6.1: his account, and the traps in it
+### y1v2 p.194–196 — Ch.6 sec. 6.1: his account, and the traps in it
 [says] (p.194) "What those guys said was a lie. I was the one that got called over to the special building,"
 [says] (p.194) "That day, after practice, Komiya and Kondou asked me to go to the special building. Honestly, I thought it was kind of annoying, but I also thought it might’ve been because they were always hostile towards me. So, I went to meet them."
 [says] (p.194) "Don’t screw with me, Komiya! You were the one who called me, you jerk!"
@@ -336,7 +336,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [says] (p.196) "B-but, hey. I was fighting against three people! Three people!"
 [limit] (p.196) The wimps line hands Sakagami the question that nearly ends the case — whether overwhelming force against weaker opponents can be self-defence.
 
-### y1v2 p.205–208 — Ch.6 §6.1: the compromise he refuses
+### y1v2 p.205–208 — Ch.6 sec. 6.1: the compromise he refuses
 [says] (p.205) "You jerk!"
 [action] (p.205) He stands ready to fly out of his chair, then grabs his own arms and pins himself down.
 [trait] (p.205) The restraint is new and deliberate: the same anger that struck the desk at p.195 is now turned on himself.
@@ -346,12 +346,12 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [note] (p.207) The bellow is his only answer to her closing statement, and he cannot tell that it is a performance.
 [note] (p.207) After she refuses to sit, "Sudou’s clearly irritated bellow" fills the silence; he still does not understand the reversal until she states it.
 
-### y1v2 p.210 — Ch.6 §6.1: after the hearing
+### y1v2 p.210 — Ch.6 sec. 6.1: after the hearing
 [note] (p.210) He leaves the student council room behind Horikita without a recorded line; the chapter gives him no scene with Sakura after the testimony he did not defend.
 
 <!-- walk: y1v2 ch6 → p.219 -->
 
-### y1v2 p.242–245 — Ch.7 §7.5: waiting for the retrial to start
+### y1v2 p.242–245 — Ch.7 sec. 7.5: waiting for the retrial to start
 [scene] (p.242) He arrives ten minutes before deliberation with Horikita, nervous about the verdict they walked into.
 [says] (p.242) "Oh jeez, I’m so nervous. How about you, Horikita?"
 [says] (p.245) "Huh? Don’t screw around. I didn’t do anything,"
@@ -359,7 +359,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [says] (p.245) "Horikita?"
 [action] (p.245) Horikita pulls him down into his seat mid-question and shuts him up.
 
-### y1v2 p.246–252 — Ch.7 §7.5–7.6: the lecture, the apology, the party
+### y1v2 p.246–252 — Ch.7 sec. 7.5–7.6: the lecture, the apology, the party
 [action] (p.246) Dissatisfied but nodding: the suspension is gone and his club activities restart that day.
 [says] (p.246) "He he. Well, of course!" — to "I’m glad, Sudou"
 [says] (p.246) "Yeah…" — after Chabashira tells him the incident happened because of his behavior
@@ -380,14 +380,14 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 ## y1v3
 
-### y1v3 p.13–19 — Ch.2 §2.0: the cruise, the Class A shove, and the name practice
+### y1v3 p.13–19 — Ch.2 sec. 2.0: the cruise, the Class A shove, and the name practice
 [scene] (p.13) Deck of the liner; survives the joke about his expulsion-scoring final.
 [says] (p.14) “With my skills, there was nothing to worry about. Didn’t I tell you I’d prove myself, and it’d be easy?”
 [trait] (p.15–16) Answers a Class A shove with intimidation and is talked down by the situation, not by fear — "A fistfight didn’t break out, evidence that he was perhaps growing up."
 [rel:horikita-suzune] (p.17–19) Forces Ayanokōji into imaginary-Horikita practice so he can ask for her first name; the look "really creeped me out."
 [rel:ike-kanji] (p.19) Puts Ike in a chokehold for the gyaru performance.
 
-### y1v3 p.33, p.66–74 — Ch.2 §2.1–§2.5: the toilet, the leader card, and a first calm intervention
+### y1v3 p.33, p.66–74 — Ch.2 sec. 2.1–sec. 2.5: the toilet, the leader card, and a first calm intervention
 [feat] (p.33) Opens the cardboard-toilet crisis by needing it before the explanation is finished.
 [rel:horikita-suzune] (p.66) Steps forward to take the leader role in her place — "You don’t want to do it though, right? Don’t make her do it. I can do it in her place." — and the offer is what triggers her acceptance.
 [rel:shinohara-satsuki] (p.68–69) Chides her in an unusually calm tone — "I know I’ve caused trouble for the class. That’s what I’m saying." — and offers the boiling compromise nobody expected from him.
@@ -396,7 +396,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y1v3 ch2 → p.99 -->
 
-### y1v3 p.152–153 — Ch.5 §5.2: the invitation that fails
+### y1v3 p.152–153 — Ch.5 sec. 5.2: the invitation that fails
 [scene] (p.152) Closing ceremonies: the moment the bell rings he goes after Horikita with a summer invitation.
 [says] (p.152) “Why? Did you do something?”
 [says] (p.152) “Yeah. You’re not good or bad. You live a plain, boring, steady life.”
@@ -421,11 +421,11 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [scene] (p.159) Stumbles out of the tent at Shinohara’s call, swearing he is exhausted.
 [says:sudou-ken] (p.159) “What the hell? God, I’m so goddamn tired…”
 
-### y1v3 p.171–178 — Ch.6 §6.1: volunteering
+### y1v3 p.171–178 — Ch.6 sec. 6.1: volunteering
 [scene] (p.174) Raises his hand for the girls’ physical work as soon as Hirata asks for another boy.
 [says:sudou-ken] (p.174) “Wait. If it’s physical work, I’ll do it!”
 
-### y1v3 p.191–199 — Ch.6 §6.4: the river
+### y1v3 p.191–199 — Ch.6 sec. 6.4: the river
 [scene] (p.191) Wakes Ayanokōji by sleeping with his legs across his face, calling for Suzune in his sleep.
 [says:sudou-ken] (p.191) “Suzune…I can’t hold back anymore…”
 [rel:ayanokouji-kiyotaka] (p.191) Mistakes him for someone else in his sleep and lashes out when woken.
@@ -433,7 +433,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [says:hirata-yousuke] (p.192) “No. Ike-kun, Sudou-kun, I want you two to continue fishing. We don’t have enough time to instruct the other students how to do it.”
 [status] (p.192) Kept on fishing with Ike through the last day.
 
-### y1v3 p.211 — Ch.6 §6.7: reading Hirata’s collapse
+### y1v3 p.211 — Ch.6 sec. 6.7: reading Hirata’s collapse
 [scene] (p.211) Comes through the rain to ask after Hirata, and delivers the chapter’s sharpest read of him.
 [says] (p.211) “Ayanokouji. Is Hirata okay?”
 [says] (p.211) “Looks like he’s in shock. I suppose it’s probably because of all these things going wrong one after the other.”
@@ -481,11 +481,11 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y1v4 → start -->
 
-### y1v4 p.13 — Ch.2 §2.0: a passing mention in Hirata’s inventory
+### y1v4 p.13 — Ch.2 sec. 2.0: a passing mention in Hirata’s inventory
 [scene] (p.13) Named once at the cabin lunch, in Hirata’s list of the people who treat Ayanokōji as a friend.
 [note] (p.13) Hirata’s line carries him: “you have Sudou-kun and the guys, and Horikita-san.”
 
-### y1v4 p.43 — Ch.2 §2.3: a passing mention in the comprehension sketch
+### y1v4 p.43 — Ch.2 sec. 2.3: a passing mention in the comprehension sketch
 [scene] (p.43) Named once as a contrast while the narration sizes up Karuizawa’s refusal to listen.
 [note] (p.43) The comparison: her problem “wasn’t that she scored poorly on tests like Sudou or Ike” — unlike them, she simply won’t listen.
 
@@ -498,7 +498,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y1v4 ch3 → p.124 -->
 
-### y1v4 p.183, 195 — Ch.4 §4.5–4.7: the Cow name and the warning
+### y1v4 p.183, 195 — Ch.4 sec. 4.5–4.7: the Cow name and the warning
 [scene] (p.183) Named in Sakura’s Cow-group VIP uncertainty, then again as Ayanokōji’s example that eye-for-eye brings a school investigation.
 [rel:sakura-airi] (p.183) “I’m not sure about Sudou-kun or, um, the others” — the only Cow-roster name she speaks.
 [rel:karuizawa-kei] (p.195) The Sudou precedent cited to her: “You should know from what happened with Sudou that this isn’t a simple matter.”
@@ -506,7 +506,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y1v4 ch4 → p.204 -->
 
-### y1v4 p.235–241 — Ch.5 §5.3: the sixth wheel
+### y1v4 p.235–241 — Ch.5 sec. 5.3: the sixth wheel
 [scene] (p.235) Trails Horikita into the café as the attached ghost, is told to get lost twice, stays anyway, chides Ryuuen about the last results, and is ignored through the Kushida reveal.
 [rel:horikita-suzune] (pp.235-238) “I just thought you might be nervous… I came to check on you”; she calls him a ghost, spat “Get lost,” and shuts him up — he sinks back obediently.
 [says] (p.235) “Aw, come on. Don’t say that, Horikita. I just thought you might be nervous during the test, so I was worried about you. That’s why I came to check on you.”
@@ -676,7 +676,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y1v5 ch1 → p.12 -->
 
-### y1v5 p.16, 23–25 — Ch.2 §2.1: the huddle
+### y1v5 p.16, 23–25 — Ch.2 sec. 2.1: the huddle
 [scene] (p.16) Named as one of the athletic students fired up by the sports festival — probably the first exam that lets him contribute meaningfully.
 [feat] (p.16) His athletic ability is the class’s read on him before the events are even set.
 [rel:horikita-suzune] (p.23) Pulls Ike and Yamauchi to her and opens the strategy huddle.
@@ -690,7 +690,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y1v5 ch2 → p.38 -->
 
-### y1v5 p.39–53 — Ch.3 §3: The ability camp, then the grip-strength king
+### y1v5 p.39–53 — Ch.3 sec. 3: The ability camp, then the grip-strength king
 [scene] (p.39) Sudou argues the ability side of Hirata’s blackboard and, by p.40, has claimed every recommended competition for himself.
 [says] (p.40) “If I win, then it’s more likely our class wins.”
 [says] (p.40) “I’ll do all the events for recommended participants,”
@@ -706,7 +706,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y1v5 ch3 → p.53 -->
 
-### y1v5 p.54–67 — Ch.4 §4: The name bet and the leader’s first week
+### y1v5 p.54–67 — Ch.4 sec. 4: The name bet and the leader’s first week
 [scene] (p.55) Sudou arrives mid-practice and calls Horikita by her first name, starting the chapter’s central bet.
 [rel:horikita-suzune] (p.55) “You have a minute?” — how the “Suzune” address opens.
 [rel:horikita-suzune] (p.55) “Not too long ago, you saved me.” — why he wants to do things properly.
@@ -724,7 +724,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y1v5 ch4 → p.67 -->
 
-### y1v5 p.68–85 — Ch.5 §5: Noodles, first names, and the anchor he gives up
+### y1v5 p.68–85 — Ch.5 sec. 5: Noodles, first names, and the anchor he gives up
 [scene] (p.72) Sudou spends Saturday morning in Ayanokōji’s room with Ike and Yamauchi, cup noodles in hand, talking about Horikita.
 [says] (p.72) “What flavor did you get?”
 [says] (p.72) “Trade with me, please?”
@@ -739,7 +739,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y1v5 ch5 → p.85 -->
 
-### y1v5 p.87–114 — Ch.6 §6: the leader’s festival
+### y1v5 p.87–114 — Ch.6 sec. 6: the leader’s festival
 [scene] (p.87) Sudou lines up for the first-year boys’ 100-metre dash in group one and carries Class D’s hopes on his speed.
 [action] (p.88) Wins the 100-metre dash by a landslide; the Professor, in the same heat, comes in last.
 [action] (p.90–91) Storms the cottage to confront Kōenji for sitting out; his punch is caught in Kōenji’s palm, and Hirata walks him back to camp.
@@ -764,7 +764,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:horikita-suzune] (p.113) Balls his fists cheering Horikita on in the girls’ obstacle course.
 [trait] (p.110) His leadership style is open threats — kick the asses of the people under him — and he admits no one really wants such a leader.
 
-### y1v5 p.115–135 — Ch.6 §6: first place, bait, and the punch
+### y1v5 p.115–135 — Ch.6 sec. 6: first place, bait, and the punch
 [scene] (p.115) Sudou runs the boys’ three-legged with Ike, practically carrying him, and takes first.
 [action] (p.115–116) Carries Ike across the line; Hirata and Ayanokōji follow with their own first of the day.
 [note] (p.115) Ike cried in agony as Sudou bolted with him; the pair still nabbed first.
@@ -772,7 +772,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:horikita-suzune] (p.116, 123) Cheeks her first name, then volunteers to get Class C back for her after the cavalry loss.
 [says] (p.123) “Hey, don’t worry ’bout it. It was hopeless.”
 [says] (p.123) “Leave it to me. I’ll get ’em back for you,”
-[action] (p.123–128, §6.8) Anchors the boys’ cavalry at the centre of Hirata’s unit; smashes through Class B, then takes Ryuuen’s one-on-one bait and rejects Katsuragi’s pincer.
+[action] (p.123–128, sec. 6.8) Anchors the boys’ cavalry at the centre of Hirata’s unit; smashes through Class B, then takes Ryuuen’s one-on-one bait and rejects Katsuragi’s pincer.
 [says] (p.124) “Aim for that shitty Ryuuen’s head!”
 [says] (p.125) “Oh, I remember your name. Sudou.”
 [rel:ryuuen-kakeru] (p.125–129) Bites the one-on-one offer, threatens Katsuragi’s unit if he interferes, then loses when the sticky headband kills Hirata’s grip.
@@ -793,7 +793,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y1v5 ch6 → p.143 -->
 
-### y1v5 p.163–167 — Ch.8 §8.1: the lobby lecture
+### y1v5 p.163–167 — Ch.8 sec. 8.1: the lobby lecture
 [scene] (p.163) Sudou sits alone on a dorm lobby sofa after walking out; he expects a scolding and gets Horikita’s honesty instead.
 [note] (p.163) Sudou greets her with “Horikita.” — too short for a says row.
 [says:sudou-ken] (p.163) “Why are you here? Don’t tell me you came to persuade me to go back?”
@@ -810,7 +810,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [says:sudou-ken] (p.167) “Go back, Horikita.”
 [says:sudou-ken] (p.167) “Do what you want.”
 
-### y1v5 p.176–179 — Ch.8 §8.3: comes back for her
+### y1v5 p.176–179 — Ch.8 sec. 8.3: comes back for her
 [scene] (p.176) An hour later Sudou returns only to see if she is still at the elevator, then agrees to work with her until graduation.
 [says:sudou-ken] (p.176) “Did…did you seriously wait around here?”
 [says:sudou-ken] (p.176) “It’s already over, isn’t it? The sports festival, I mean.”
@@ -827,7 +827,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y1v5 ch8 → p.180 -->
 
-### y1v5 p.181–184 — Ch.9 §9: the apology and the lead leg
+### y1v5 p.181–184 — Ch.9 sec. 9: the apology and the lead leg
 [scene] (p.181) Sudou returns out of breath, bows to the class, apologizes for the Hirata punch, and takes the first relay leg.
 [says:sudou-ken] (p.181) “Yeah, sorry. My bad. It took way longer to take a dump than I thought.”
 [says:sudou-ken] (p.181) “Sorry. I punched Hirata and crashed our morale because I lost my temper. It’s my fault that Class D is about to lose,”
@@ -837,7 +837,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [says:sudou-ken] (p.183) “Well, guess we don’t got much choice. There ain’t any other way for us to win,”
 [feat] (p.183) Explosive start: passes eleven people in the first stride and hands off with a fifteen-metre lead.
 
-### y1v5 p.189–192 — Ch.9 §9.1: MVP loss and the promise
+### y1v5 p.189–192 — Ch.9 sec. 9.1: MVP loss and the promise
 [scene] (p.189) Sudou slaps Ayanokouji’s back after the race; at the scoreboard Shibata takes first-year MVP and Sudou keeps the first-name ban.
 [says:sudou-ken] (p.189) “Ayanokouji! You really are super fast, dude. Whoa! Have you been holding back until now?!”
 [says:sudou-ken] (p.191) “Gaaahh! I knew it!”
@@ -902,7 +902,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y1v6 → start -->
 
-### y1v6 p.17 — Ch.2 §2.1: taking notes now
+### y1v6 p.17 — Ch.2 sec. 2.1: taking notes now
 [scene] (p.17) Second-semester classroom: Sudou is named as changing for the better after the sports festival.
 [action] (p.17) Sleeps through class less; actually takes notes, probably because Horikita checked in on him after the festival.
 [rel:horikita-suzune] (p.17) Her post-festival check-in is credited with the improvement.
@@ -921,14 +921,14 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:horikita-suzune] (p.32, 37) She tutored him one-on-one on free days; English 52; “power of love” line from narration.
 [rel:chabashira-sae] (p.31, 33) Her compliment that no one drops out this time rides on his improvement.
 
-### y1v6 p.35, 37, 40, 42 — Ch.3 §3.1: partner panic and the meeting call
+### y1v6 p.35, 37, 40, 42 — Ch.3 sec. 3.1: partner panic and the meeting call
 [says:sudou-ken] (p.35) “Wait, what kind of impact? Can you tell us?”
 [rel:chabashira-sae] (p.35–37) Drawn-out rules exacerbate his frustration; later the bottom-partner jab at Yamauchi.
 [rel:yamauchi-haruki] (p.37) “Ugh! Ken’s humiliating me!” — Sudou’s studying claim back.
 [rel:horikita-suzune] (p.40) Horikita walks over to him when the meeting is called.
 [rel:horikita-suzune] (p.42) Asks to peek at basketball club first; she agrees.
 
-### y1v6 p.49, 52–58 — Ch.3 §3.1–§3.2: the Sudou precedent and Pallet
+### y1v6 p.49, 52–58 — Ch.3 sec. 3.1–sec. 3.2: the Sudou precedent and Pallet
 [rel:horikita-suzune] (p.49) His earlier near-expulsion and turnaround is the precedent Horikita uses against “give up on Kushida.”
 [scene] (p.52) Present at Pallet with Hirata, Karuizawa, Kushida and the two Horikita-side planners.
 [rel:kushida-kikyou] (p.53–55) Somber at partner-selection talk; bangs forehead; then restrained one-on-one case for targeting Class C.
@@ -943,7 +943,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y1v6 ch3 → p.59 -->
 
-### y1v6 p.77, 81, 83–85 — Ch.5 §5: steady under Suzune’s hand
+### y1v6 p.77, 81, 83–85 — Ch.5 sec. 5: steady under Suzune’s hand
 [scene] (p.77) Speaks up after Horikita’s apology; sad but true about Yamauchi and the Professor.
 [says:sudou-ken] (p.77) “That’s right, Suzune. I mean, Haruki and the Professor weren’t really much help, either.”
 [rel:yamauchi-haruki] (p.77) Yamauchi and Sotomura shoot vexed glares at him.
@@ -969,7 +969,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:miyake-akito] (p.149) Explicit non-fit with Sudou’s circle.
 [note] (p.149) Named only.
 
-### y1v6 p.164, 167 — Ch.6 §6.6: pi, progress, blazer run
+### y1v6 p.164, 167 — Ch.6 sec. 6.6: pi, progress, blazer run
 [scene] (p.164) Brags about English fluency, learns he is still first-year junior high, and later offers to rush Kushida’s blazer through the cleaner.
 [says:sudou-ken] (p.164) “It’s like an English dictionary is just flying out of my mouth all the time, dude!”
 [says:sudou-ken] (p.164) “I studied this hard, and I’m still only at a first-year junior high level?”
@@ -983,7 +983,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y1v6 ch6 → p.176 -->
 
-### y1v6 p.194–195 — Ch.7 §7.3: post-math apology
+### y1v6 p.194–195 — Ch.7 sec. 7.3: post-math apology
 [scene] (p.194) Approaches Horikita after the first day, bag in hand, drained, to apologize for possibly missing forty in every subject.
 [says:sudou-ken] (p.194) “Suzune, there’s something I want to tell you. Can I head back to the dorm with you?”
 [says:sudou-ken] (p.195) “About today’s test… I’m not sure if I hit the forty-point mark in every subject. I wanted to apologize. I’m sorry,”
@@ -1074,7 +1074,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y1v7 ch4 → p.119 -->
 
-### y1v7 p.120 — Ch.5 §5.1: dumb enough to need provoking
+### y1v7 p.120 — Ch.5 sec. 5.1: dumb enough to need provoking
 [scene] (p.120) Named in Ryuuen’s surveillance notes on the closing day.
 [note] (p.120) Grouped with Miyake as a delinquent suspect; the Class D punks noticed they were tailed except Sudou, so dull that Ryuuen’s people had to provoke him directly.
 [rel:ryuuen-kakeru] (p.120) The tail target who never noticed until made to notice.

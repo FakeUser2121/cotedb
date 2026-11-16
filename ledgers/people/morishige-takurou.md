@@ -18,7 +18,7 @@ char_id: morishige-takurou · class: Class 1-A · status: minor (allies)
 
 <!-- walk: y1v4 ch3 → p.124 -->
 
-### y1v4 p.155–158 — Ch.4 §4.2: the silent Class A seat
+### y1v4 p.155–158 — Ch.4 sec. 4.2: the silent Class A seat
 [scene] (p.155) Enters alone after Machida and Takemoto, sits far end by the Class C girls, and shows no human emotion for the whole hour.
 [trait] (p.155) “Morishige came in by himself” — apart from the group he still keeps the corner.
 [trait] (p.158) “Morishige, who had erased all semblance of human emotion from his expression” — silent for two days under orders.
@@ -28,7 +28,7 @@ char_id: morishige-takurou · class: Class 1-A · status: minor (allies)
 
 <!-- walk: y1v4 ch4 → p.204 -->
 
-### y1v4 p.233 — Ch.5 §5.2: the predicted traitor
+### y1v4 p.233 — Ch.5 sec. 5.2: the predicted traitor
 [scene] (p.233) Ichinose names him as her guess for Class A’s traitor — Sakayanagi’s faction, too independent for Katsuragi’s plan.
 [rel:ichinose-honami] (p.233) Her reasoning: he “probably figured that, if anything, it was better for him to betray the group and take the points.”
 [rel:sakayanagi-arisu] (p.233) The faction tie that makes him disobey Katsuragi.

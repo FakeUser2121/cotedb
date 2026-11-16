@@ -12,7 +12,7 @@ char_id: hamaguchi-tetsuya · class: Class 1-B · status: minor
 
 <!-- walk: y1v4 ch2 → p.62 -->
 
-### y1v4 p.82–90 — Ch.3 §3.1: the Class B counter
+### y1v4 p.82–90 — Ch.3 sec. 3.1: the Class B counter
 [scene] (p.82) First Class B hand in the Rabbit room, then the steady counter to Machida’s silence until he and Ichinose hold the middle of the circle.
 [says] (p.82) “I agree, of course. We’re a group, and it’s only natural for us to cooperate,” said Tetsuya.
 [trait] (p.82) Introduced as Hamaguchi Tetsuya — thin, somewhat androgynous, blue smooth hair; his early yes helps Ichinose’s opening trap work.
@@ -37,7 +37,7 @@ char_id: hamaguchi-tetsuya · class: Class 1-B · status: minor
 [note] (p.91) Ichinose and Hamaguchi’s arguments make Katsuragi’s proposal look like a flustered bluff.
 [note] (p.92) As Hamaguchi had said, it isn’t fair to complain without first suggesting a plan.
 
-### y1v4 p.106, p.110 — Ch.3 §3.4: the Class B off-switch
+### y1v4 p.106, p.110 — Ch.3 sec. 3.4: the Class B off-switch
 [scene] (p.106) Second gathering: named with the other Class B students as ready to make alliances without hesitation, then closes the hour with the group’s flip to OFF.
 [note] (p.106) “Hamaguchi and the other Class B students were exactly like that, too. They were ready to make alliances without hesitation. It was like how Hirata operated. They were similar, but still fundamentally different.”
 [says] (p.110) “No, we didn’t do much of anything. Well, shall we?” said Hamaguchi. (when Ichinose says they’re done for today)
@@ -47,7 +47,7 @@ char_id: hamaguchi-tetsuya · class: Class 1-B · status: minor
 
 <!-- walk: y1v4 ch3 → p.124 -->
 
-### y1v4 p.138–140 — Ch.4 §4.1: the card table and the corridor
+### y1v4 p.138–140 — Ch.4 sec. 4.1: the card table and the corridor
 [scene] (p.138) One of Ichinose’s five for Daifugō and Old Maid; asks where she’s going when the hour ends and watches her leave with Ayanokōji.
 [rel:ichinose-honami] (pp.138-140) Plays under her deal; “Where are you going?” then nods them off — Class B’s mutual-respect pattern, set against Katsuragi and Ryuuen’s subject relationships (his read of the group).
 [says] (p.139) “Where are you going?” asked Hamaguchi.
@@ -59,7 +59,7 @@ char_id: hamaguchi-tetsuya · class: Class 1-B · status: minor
 [note] (p.150) Ichinose, on her way out, meets up with Hamaguchi, who appears to be waiting for her.
 [note] (p.152) Ichinose calls him over for a minute, and he asks what she wants.
 
-### y1v4 p.153–154 — Ch.4 §4.1: the second denial
+### y1v4 p.153–154 — Ch.4 sec. 4.1: the second denial
 [scene] (p.153) Called over by Ichinose; denies the VIP role on Ayanokouji’s confirmation, then asks how anyone can be made to talk.
 [says] (p.153) “If Ayanokouji’s confirmed it, there’s no reason for me to refuse. I’m not the VIP,” said Hamaguchi.
 [rel:ichinose-honami] (p.153) His relationship with her is why Ayanokōji believes him — little merit in lying, big risk of fracturing the Horikita truce.
@@ -69,7 +69,7 @@ char_id: hamaguchi-tetsuya · class: Class 1-B · status: minor
 
 <!-- walk: y1v4 ch4 → p.204 -->
 
-### y1v4 p.217–220 — Ch.5 §5.2: the Outcome #1 plan
+### y1v4 p.217–220 — Ch.5 sec. 5.2: the Outcome #1 plan
 [scene] (p.217) Arrives with Yukimura and the Professor, then stakes the final hour on a voluntary email show — the plan that matches Ayanokōji’s swap by accident.
 [says] (p.217) “This is the end, huh? So, have you found any hints?” asked Hamaguchi.
 [rel:ayanokouji-kiyotaka] (pp.217-220) Gentle lead-in; simultaneous “excuse me” with him; then the plan that shatters the swap timing.
@@ -90,7 +90,7 @@ char_id: hamaguchi-tetsuya · class: Class 1-B · status: minor
 [note] (p.222) Among the people scoffing at Hamaguchi’s strategy, Ibuki Mio is the one who agrees.
 [note] (p.223) Machida admits he had the same thing Hamaguchi said on his mind, and is a little jealous that Hamaguchi-kun beat him to the punch.
 
-### y1v4 p.227 — Ch.5 §5.2: the SIM experiment
+### y1v4 p.227 — Ch.5 sec. 5.2: the SIM experiment
 [scene] (p.227) Named in Ichinose’s lecture as her partner in the SIM-card swap test that found the lock.
 [rel:ichinose-honami] (p.227) “Hamaguchi and I had tried swapping SIM cards once to see what would happen, but the SIM cards are locked to their designated phones.”
 [rule] (p.227) The experiment’s result — SIM locked to device — is the weak point he and Ichinose built their counter-swap on.

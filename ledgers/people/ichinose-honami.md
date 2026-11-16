@@ -37,7 +37,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y1v2 → start -->
 
-### y1v2 p.102–107 — Ch.4 §4.4: she walks into the special building alone and offers Class B's help
+### y1v2 p.102–107 — Ch.4 sec. 4.4: she walks into the special building alone and offers Class B's help
 [scene] (p.102) Her entrance is unannounced and physically striking to the narrator: "We turned in response to the unexpected voice. A beautiful girl with strawberry-blonde hair stood behind us. I recognized her, though I hadn’t ever spoken to her before. She was a student from Class B, Ichinose. Rumor had it she was a superb student."
 [says] (p.102) “Hey, you two. What are you doing?”
 [says] (p.102) “Sorry to interrupt you like that. Do you have a moment? Oh, if you happen to be in the middle of a so-so date, though, I’d like you to break it up right away.”
@@ -62,7 +62,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:horikita-suzune] (p.104–107) Horikita suspects her on sight and hires her within the same conversation; the two are the pair who decide, over Sakura's silence, to bring another class in.
 [note] (p.102–107) This is her first direct contact with Ayanokōji in the volume; every fact about her here comes from what she says in one afternoon, and no Class B student corroborates any of it.
 
-### y1v2 p.108–115 — Ch.4 §4.4–4.6: what Class B's representative actually does
+### y1v2 p.108–115 — Ch.4 sec. 4.4–4.6: what Class B's representative actually does
 [says] (p.108) The reason her own teacher is different, given as a third party's motto: “Our homeroom teacher, Hoshinomiya-sensei, says it like it’s her motto. She says she wants to do her best because the homeroom teacher for Class A gets a special bonus. Looks like it’s pretty different for you guys.”
 [says] (p.108) “I think it would probably be good for us to meet up and discuss things.” — Horikita's answer, which she takes without offence: “I never thought I’d receive aid from the enemy.”
 [says] (p.108) “This seems like a problem we need to address before we can fight. We’re not really on equal footing, are we?” — the clearest statement in the volume of what the class-rank system does between classes.
@@ -79,7 +79,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:horikita-suzune] (p.108–110) She is the first person outside Class D Horikita will negotiate with, and the negotiation is conducted entirely by Horikita's hostility plus Horikita's yes.
 [rel:ayanokouji-kiyotaka] (p.114–115) Two weeks in, she greets him first, knows his name, and walks to school with him — while he is still cataloguing her as an asset with unclear motive.
 
-### y1v2 p.116–121 — Ch.4 §4.6: walking to school, and what she thinks the class system is hiding
+### y1v2 p.116–121 — Ch.4 sec. 4.6: walking to school, and what she thinks the class system is hiding
 [says] (p.116) "Aren’t you usually a little late? This reminds me that I’ve never seen you around this time." — his narration of the ask: "Ichinose’s question sounded harmless, as if she were following some kind of template."
 [says] (p.116) "I just stand out because I’m the class rep. That’s all." — and his read of whether that is modesty: "It didn’t seem like she was trying to act modest. Apparently that’s what she truly thought."
 [feat] (p.116) The corridor's reaction, in one line each: "Ichinose, who was walking next to me, monopolized all of the girls’ attention."
@@ -105,7 +105,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [trait] (p.119–120) She works out the class-sorting problem in front of a stranger from the worst class in the school, offers her conclusion to him, and refuses to treat it as leverage: the only structural analysis of the four-class system a student gives all volume arrives unprompted and unguarded.
 [limit] (p.121) She asks the question she cannot follow up on: "Oh no, I’m sorry. It’s nothing." — and his note on it: "It didn’t look like it was nothing."
 
-### y1v2 p.121–127 — Ch.4 §4.7: she tries to dodge a confession and is made to give it
+### y1v2 p.121–127 — Ch.4 sec. 4.7: she tries to dodge a confession and is made to give it
 [says] (p.121) "Huh? Oh, yeah. Kind of." — that someone has confessed to her.
 [says] (p.121) "Well, if you’re okay with it, can you spare a little time after class? I have some questions about confessions. I know all too well how busy you are with the incident right now, but…"
 [says] (p.121) "But you went to the scene of the crime the other day to investigate, right?" — Class B is tracking Class D's movements on the Sudō case.
@@ -138,7 +138,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y1v2 ch4 → p.151 -->
 
-### y1v2 p.152–158 — Ch.5 §5.0: a message board, a leaked past, and a screen
+### y1v2 p.152–158 — Ch.5 sec. 5.0: a message board, a leaked past, and a screen
 [scene] (p.153) Outside the shoe cubbies, she shows her phone: a message on the school homepage's board seeking witnesses, with a view count still in the dozens.
 [says] (p.153) "Have you ever checked out the school homepage? There’s a message board. I requested that people come forward with information there. I said that if there anyone witnessed a violent incident at our school, I’d like to hear about it."
 [says] (p.154) "Ah, regarding the stuff about points, don’t worry. We just decided to do that on our own. Besides, it will probably be difficult for us to get new information now. Ah!"
@@ -153,7 +153,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y1v2 ch5 → p.189 -->
 
-### y1v2 p.214–215 — Ch.6 §6.2: waiting at the entranceway
+### y1v2 p.214–215 — Ch.6 sec. 6.2: waiting at the entranceway
 [scene] (p.214) The entranceway after the hearing; Ichinose and Kanzaki have been waiting, "on tenterhooks about the trial’s results."
 [says] (p.214) "Yahoo! You’re really late, huh?"
 [says] (p.214) "We were wondering what happened."
@@ -168,7 +168,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [says] (p.215) "Hmm. Well, I don’t think we’ll be able to obtain any more leads, but I’ll go check what information I can gather from the Internet."
 [rel:ayanokouji-kiyotaka] (p.215) She laughs while offering help "though it wouldn’t have been odd for her to wash her hands off us at this point."
 
-### y1v2 p.216–218 — Ch.6 §6.2: the request, and the price
+### y1v2 p.216–218 — Ch.6 sec. 6.2: the request, and the price
 [says] (p.216) "Not necessary? What do you mean, Horikita-san?"
 [says] (p.216) "Preparing something?"
 [says] (p.216) "Oh… That’s going to be a really hard request."
@@ -190,7 +190,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y1v2 ch6 → p.219 -->
 
-### y1v2 p.226–228 — Ch.7 §7.2: she steps into the corridor
+### y1v2 p.226–228 — Ch.7 sec. 7.2: she steps into the corridor
 [scene] (p.226) As the three turn to leave, one other person stands in their way — the page introduces her as "who’d been waiting for all of the players in this drama to appear" — and she puts herself between Class C and the exit.
 [says] (p.226) "I think you guys might want to consider that idea, actually."
 [says] (p.226) "What do you mean? What if I said that I’m here because I’m involved in this case?"
@@ -207,7 +207,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [says] (p.228) "You’ve been dancing to my tune all this time."
 [says] (p.228) "I have actual evidence,"
 
-### y1v2 p.228–231 — Ch.7 §7.2: the security-camera argument
+### y1v2 p.228–231 — Ch.7 sec. 7.2: the security-camera argument
 [says] (p.228–229) "Did you know that there are security cameras installed everywhere around the school? It’s a measure they’ve taken in order to monitor what we do every day."
 [says] (p.229) "That’s too bad, isn’t it? If you want to set a trap for someone, you’d need to do it in a place without any cameras."
 [says] (p.229) "You’re right that, by and large, cameras aren’t installed in most of this building’s hallways. However, there are exceptions, and several places in which security cameras have been installed, like in front of the faculty room and the science lab. Obviously, there are many valuables stored in the faculty room, you know? Additionally, the science lab has many chemical products. Since the science lab is on this level, it’s only natural that a camera would be installed here."
@@ -220,7 +220,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [says] (p.231) "Innocence? That depends on what you’re innocent of. We know that both parties took damage during the incident. No matter the circumstances, Sudou hit the three of you. That’s undeniable. Of course, if the security footage can prove that Sudou wasn’t the one who called you three over here, he’d probably receive the lightest possible punishment. However, his position as a regular would still be threatened. He might not be allowed to participate in tournaments."
 [says] (p.231) "If someone checked the security camera footage, it would expose your lies. If that were to happen, chances are good you’d be expelled. Anyone could see that."
 
-### y1v2 p.232–235 — Ch.7 §7.2–7.3: the only way out, and the cameras that were never the school’s
+### y1v2 p.232–235 — Ch.7 sec. 7.2–7.3: the only way out, and the cameras that were never the school’s
 [says] (p.232) "It’s rather early to draw a conclusion. We’ll give you one last chance. There’s only one way to save both Class C and Class D."
 [says] (p.232) "There’s only one way to resolve this issue. Tell the school that you wish to withdraw your complaint. If you do that, the school will not bring forward the security camera footage. If there’s no complaint, no one can be punished. Additionally, if the security footage is never brought up, Class D benefits, too. As we already know, if the security footage were brought produced, Sudou would still face some degree of punishment. In other words, Class C and Class D can come to a compromise together. The school can’t investigate if they can’t watch the video and see that you lied, right?"
 [action] (p.232) She refuses to let Ishizaki call anyone and gives him no time to think.
@@ -236,7 +236,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [says] (p.235) "Oh, yeah, that reminds me. There was one thing I wanted to tell you, Ayanokouji-kun."
 [note] (p.235) What she wanted to tell him is cut off by his sprint; it comes out later as the warning about Ryuuen.
 
-### y1v2 p.236–241 — Ch.7 §7.4: the act at the shutter, and the warning about Ryuuen
+### y1v2 p.236–241 — Ch.7 sec. 7.4: the act at the shutter, and the warning about Ryuuen
 [action] (p.236) She sticks close when Ayanokōji runs to the electronics store and goes quiet on his signal.
 [trait] (p.237) Matching the delinquent act, "her tone was cruel"; she pinches the letters up by their corners with finger and thumb.
 [says] (p.239) "Huh?! Idol?! That’s amazing! She’s an entertainer! Ooh, shake my hand, shake my hand!"
@@ -259,7 +259,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y1v3 → start -->
 
-### y1v3 p.117–125 — Ch.3 §3.3: the camp that already works
+### y1v3 p.117–125 — Ch.3 sec. 3.3: the camp that already works
 [scene] (p.117) Class B's base around the well: she is tying a hammock cord to a tree when Horikita and Ayanokōji walk in, and Kanzaki sits a little way off.
 [place:uninhabited-island] (p.117) Class B's site — trees around a well, hammocks strung for lack of tent space, unfamiliar equipment beside the water.
 [says] (p.117) “Huh? Horikita-san? And Ayanokouji-kun?”
@@ -308,7 +308,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y1v3 ch3 → p.130 -->
 
-### y1v3 p.149–151 — Ch.5 §5.1: the ghost camp with the Class B pair
+### y1v3 p.149–151 — Ch.5 sec. 5.1: the ghost camp with the Class B pair
 [scene] (p.149) Arrives behind him at the emptied Class C beach with Kanzaki, following the same curiosity about the silent camp.
 [note] (p.149) The pair’s two arrival lines are untagged voices — either could be speaking — and both are left with the chapter’s gaps.
 [says] (p.149) “Even though it’s the middle of the day, I think it’s dangerous to be running around alone.”
@@ -346,7 +346,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [note] (p.75) Horikita asks Ryūen whether he’s concerned about anyone else — like Ichinose-san or Katsuragi-kun; he answers neither is his enemy and he could crush them any time.
 [note] (p.80) In the Rabbit room’s late arrival, aside from Ichinose and Ibuki, there was another student he recognized.
 
-### y1v4 p.81–92 — Ch.3 §3.1: taking the lead in Rabbit
+### y1v4 p.81–92 — Ch.3 sec. 3.1: taking the lead in Rabbit
 [scene] (p.81) Stands into the awkward first discussion, runs introductions over Machida’s objection, then leads the room against Katsuragi’s no-discussion plan.
 [says] (p.81) “Your attention, please! I don’t know most of you, but I think we ought to introduce ourselves. After all, there are probably people here who haven’t met before,” she said.
 [trait] (p.81) Immediately volunteers as leader — the narration says it wasn’t easy to pull a group together, “but Ichinose didn’t seem to dislike her role. If anything, she seemed to be having fun.”
@@ -387,7 +387,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:yukimura-teruhiko] (pp.89–92) Pulls him toward the downside argument, then takes his trust refusal.
 [rel:karuizawa-kei] (pp.82, 88) Works around her bluntness and her honest non-answer.
 
-### y1v4 p.94, p.96, p.106–110 — Ch.3 §3.2–§3.4: bystander, closer, and the Machida bait
+### y1v4 p.94, p.96, p.106–110 — Ch.3 sec. 3.2–sec. 3.4: bystander, closer, and the Machida bait
 [scene] (p.94) Watches the phone fight as a bystander judging who is right; closes the first session kindly; leads the gloomy second gathering and works Machida through Yukimura and Karuizawa.
 [action] (p.94) “Ichinose watched it unfold, a bystander. It was as if she was trying to determine who was right and wrong.”
 [says] (p.96) “Well, we have five more discussion periods left. How about we bring this session to a close?” Ichinose spoke kindly.
@@ -423,7 +423,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [note] (p.128) A counter claims he has no support like Ichinose-san and Katsuragi-kun do — only enemies, no reliable information.
 [note] (p.136) He could’ve killed time in the hall until Ichinose and the others arrived, but since he was first, leaving would look awkward.
 
-### y1v4 p.137–151 — Ch.4 §4.1: cards, the castle gate, and the deck pledge
+### y1v4 p.137–151 — Ch.4 sec. 4.1: cards, the castle gate, and the deck pledge
 [scene] (p.137) Arrives with the Class B trio, proposes cards over silence, walks Ayanokōji to Katsuragi, sits in on the Ryuuen three-way, and ends on the deck telling him she is not the VIP.
 [says] (p.137) “You two sure are early,” said Ichinose.
 [says] (p.137) “Now then. I’m sure we all discussed this amongst ourselves last night, but I think we should try and find the VIPs after all,” said Ichinose.
@@ -477,7 +477,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [feat] (p.151) Public VIP denial without showing the phone — his read: a fraction of doubt left, trust would need the screen; she doesn’t offer it.
 [says] (p.151) “It must sound strange,” said Ichinose, seemingly a little dissatisfied with my silence.
 
-### y1v4 p.152–154 — Ch.4 §4.1: the deck VIP exchange
+### y1v4 p.152–154 — Ch.4 sec. 4.1: the deck VIP exchange
 [scene] (p.152) Presses her own honesty after the pledge, accepts his partial answer, then pulls Hamaguchi in without telling Class B about the Class D deal.
 [says] (p.152) “I’m not lying. I think that lying might be necessary in competition, but I like to be honest as much as possible. I do want my class to win, fair and square.”
 [says] (p.152) “Ah, you don’t have to tell me anything if you don’t want to, Ayanokouji-kun. I just wanted to explain my feelings. I thought if I told you, things might be easier.”
@@ -504,7 +504,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y1v4 ch4 → p.204 -->
 
-### y1v4 p.205–223 — Ch.5 §5.0–5.2: cards, the dream question, the show
+### y1v4 p.205–223 — Ch.5 sec. 5.0–5.2: cards, the dream question, the show
 [scene] (p.205) Fifth discussion still on Old Maid; lectures Yukimura on self-reliance; then the early nap, the Class A dream talk, and joins Hamaguchi’s email show.
 [says] (p.205) “Gah! I drew it again! Am I seriously this awful at Old Maid?”
 [trait] (p.205) Fifth period cards again — no Class A counter to her, so the small group plays rather than sits silent.
@@ -550,7 +550,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [scene] (p.224) Named as the one who walks the doubtful Machida through the truth.
 [note] (p.224) Machida, after checking Yukimura’s private email and chat logs, confirmed the truth but still appeared doubtful — Ichinose tried to explain the situation calmly.
 
-### y1v4 p.225–233 — Ch.5 §5.2: the call that ends it
+### y1v4 p.225–233 — Ch.5 sec. 5.2: the call that ends it
 [scene] (p.225) Pleads with Class A for Outcome #1, then exposes the phone swap by calling it, lectures on the SIM lock she confirmed with Hoshinomiya-sensei, and admits she never intended to clear or betray.
 [says] (p.225) “Please. Cooperate with us. Don’t let Yukimura-kun’s courage go to waste. I don’t want you to betray us.”
 [rel:yukimura-teruhiko] (p.225) Thanks his courage; he is already the sacrificial cover.
@@ -585,7 +585,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [says] (p.233) “No, no. Morishige-kun. He’s a member of Sakayanagi’s faction. I doubt he’d just quietly go along with Katsuragi’s plan. He probably figured that, if anything, it was better for him to betray the group and take the points. Don’t you think?”
 [says] (p.233) “Ayanokouji-kun, you’re amazing. You know that? Our conversation just now proves how cunning you really are, doesn’t it?”
 [says] (p.233) “Wh-what does this mean?” asked Ichinose. (the four-note alert)
-[status] (p.233) The four-times-quick sound on both phones — the shock face before §5.3.
+[status] (p.233) The four-times-quick sound on both phones — the shock face before sec. 5.3.
 
 ### y1v4 p.236 — Ch.5: the parting interrupted
 [scene] (p.236) Named in the goodbye cut short by the four end-of-test emails.
@@ -667,7 +667,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y1v5 → start -->
 
-### y1v5 p.27 — Ch.2 §2.2: confronting the walkout
+### y1v5 p.27 — Ch.2 sec. 2.2: confronting the walkout
 [scene] (p.27) Interrupts Katsuragi’s briefing as almost her entire class’s counterpart walks out — she questions Ryuuen to his face.
 [says] (p.27) “So, you don’t intend to hold a discussion?”
 [says] (p.27) “I see. So, you’re just saving us the hassle, then,”
@@ -677,22 +677,22 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y1v5 ch2 → p.38 -->
 
-### y1v5 p.97–98 — Ch.6 §6: passing mentions
+### y1v5 p.97–98 — Ch.6 sec. 6: passing mentions
 [scene] (p.97) Ichinose is named as Shibata’s leadership peer as he pulls ahead of Sudou in the hurdles.
 [rel:shibata-sou] (p.97) “like Ichinose, his leadership qualities made others rally around him.”
 [rel:kanzaki-ryuuji] (p.98) Kanzaki carries her read of Ayanokōji into the pre-race talk: “Ichinose says you’re pretty fast,”
 [note] (p.98) Ichinose does not appear on these pages; both rows are other characters’ reports of her.
 
-### y1v5 p.119–123 — Ch.6 §6: fair play under the smile
+### y1v5 p.119–123 — Ch.6 sec. 6: fair play under the smile
 [scene] (p.119) Ichinose and Class B are watched enjoying the festival — cheerful and fair while C and A scheme.
-[action] (p.121–123, §6.8) As Class B’s cavalry general she blocks Karuizawa’s rescue of Horikita and holds the collision course until the melee.
+[action] (p.121–123, sec. 6.8) As Class B’s cavalry general she blocks Karuizawa’s rescue of Horikita and holds the collision course until the melee.
 [rel:karuizawa-kei] (p.121–123) Direct fight — unity versus manoeuvrability — that drags on while Class C finishes Horikita.
 [rel:horikita-suzune] (p.120–123) Does not join the four-on-one; Class B still supports its ally team, unlike Class A’s sit-out.
 [trait] (p.119–123) Genuinely enjoying the games while playing them straight — the text’s contrast with Ryuuen’s psychological war.
 
 <!-- walk: y1v5 ch6 → p.143 -->
 
-### y1v5 p.169–170 — Ch.8 §8.2: the Class B three-legged pair
+### y1v5 p.169–170 — Ch.8 sec. 8.2: the Class B three-legged pair
 [scene] (p.169) Ichinose greets Kushida and Ayanokouji as fellow three-legged competitors with Shibata as her partner.
 [says:ichinose-honami] (p.169) “Yoo-hoo! Ayanokouji-kun! Oh, Kikyou-chan, too. Looks like we’re competing in the same group, huh?”
 [says:ichinose-honami] (p.170) “Well, Shibata-kun might be tough, but I’m really not all that special, you know? I haven’t gotten first place in anything yet,”
@@ -730,7 +730,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y1v6 ch3 → p.59 -->
 
-### y1v6 p.108–116 — Ch.5 §5.6–5.7: joint study group and friendship criteria
+### y1v6 p.108–116 — Ch.5 sec. 5.6–5.7: joint study group and friendship criteria
 [scene] (p.108) Enters the first-year library area with eight Class B students; waves the Class D group over.
 [rel:horikita-suzune] (p.108–116) Joint study group proposed by Horikita the day before; corner talk on who counts as a friend; mediator pitch for Kushida declined.
 [says:ichinose-honami] (p.109) “Oh no, not at all. We just got here ourselves,”
@@ -767,7 +767,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [note] (p.116) Does not appear for the Kushida confrontation stretch; only the earlier library and corner talk.
 <!-- walk: y1v6 ch5 → p.131 -->
 
-### y1v6 p.170–174 — Ch.6 §6.7: the fraud letter answered calmly
+### y1v6 p.170–174 — Ch.6 sec. 6.7: the fraud letter answered calmly
 [scene] (p.170) Arrives as Ryuuen’s signed letter circulates; refuses to open her point book to the lobby and routes the proof to the school.
 [says:ichinose-honami] (p.170) “No matter what I say to you right now, you probably won’t believe me, will you, Ryuuen-kun?”
 [says:ichinose-honami] (p.171) “I suppose so. Sorry, everyone. But please don’t worry. I’ll report to the teachers tomorrow and prove that this is just a misunderstanding on Ryuuen-kun’s part,”

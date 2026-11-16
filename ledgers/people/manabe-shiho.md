@@ -12,7 +12,7 @@ char_id: manabe-shiho · class: Class 1-C · status: minor
 
 <!-- walk: y1v4 ch2 → p.62 -->
 
-### y1v4 p.82–93 — Ch.3 §3.1: Class C alignment and the Rika charge
+### y1v4 p.82–93 — Ch.3 sec. 3.1: Class C alignment and the Rika charge
 [scene] (p.82) Follows Karuizawa into the Rabbit room’s first yes, votes the convenient plan with the Class C block, then crosses the circle to confront Karuizawa with a summer story.
 [says] (p.88) “I agree. Everyone sharing the same answer would be the most rewarding result, but if anyone lied or betrayed us, we’d be doomed. Finding the VIP just isn’t realistic.”
 [trait] (p.88) Her line is what spreads the Professor’s sentiment through Class C; the Class C block then raises for the no-discussion plan.
@@ -29,7 +29,7 @@ char_id: manabe-shiho · class: Class 1-C · status: minor
 [rel:sotomura-hideo] (p.88) Votes the same way after his line lands on Class C.
 [rel:ichinose-honami] (pp.88, 92) First aligns with the convenient plan, then refuses the alliance.
 
-### y1v4 p.94–96, p.110–111 — Ch.3 §3.1–§3.4: beaten back, then handed the fuse
+### y1v4 p.94–96, p.110–111 — Ch.3 sec. 3.1–sec. 3.4: beaten back, then handed the fuse
 [scene] (p.94) After the phone is knocked down, presses the picture demand with two Class C girls, loses to Machida’s fairness argument, takes the stepped foot, then meets Ayanokōji’s elevator lie.
 [says] (p.94) “What the hell?!” shouted Manabe.
 [says] (p.94) “What’ll you do if my phone’s broken?” shouted Manabe.
@@ -51,7 +51,7 @@ char_id: manabe-shiho · class: Class 1-C · status: minor
 [note] (p.108) The list of Horikita’s recent odd moves: Karuizawa, the reunion with Ibuki, confronting Manabe.
 [note] (p.109) Ayanokōji places Karuizawa below Manabe and the other Class C girls in the group’s hierarchy — maybe why she was acting strangely.
 
-### y1v4 p.110–111 — Ch.3 §3.4: the elevator fuse
+### y1v4 p.110–111 — Ch.3 sec. 3.4: the elevator fuse
 [scene] (p.110) Trailing Class C out of the second discussion, Ayanokōji stops her with the fabricated Karuizawa café story.
 [says] (p.110) “I heard about your problem with Karuizawa. Something about her pushing someone at the café, right?” (Ayanokōji’s opener; recorded here as the row that lands on her)
 [says] (p.110) “Yeah. Why do you ask?” snapped Manabe.
@@ -63,13 +63,13 @@ char_id: manabe-shiho · class: Class 1-C · status: minor
 
 <!-- walk: y1v4 ch3 → p.124 -->
 
-### y1v4 p.137 — Ch.4 §4.1: the threat across the room
+### y1v4 p.137 — Ch.4 sec. 4.1: the threat across the room
 [scene] (p.137) Named as the reason Karuizawa seats herself beside Machida — the Class C girls’ side has no one who can answer Machida, and Manabe is the hound to avoid.
 [rel:karuizawa-kei] (p.137) The defensive move is measured against her; had Karuizawa sat with a weak link, Manabe and the others could have hounded her (his read).
 [rel:machida-kouji] (p.137) The power imbalance: Manabe’s group versus Machida in the circle.
 [note] (p.137) No line in this range; presence is narrated through the seating logic.
 
-### y1v4 p.155–164 — Ch.4 §4.2: the seat and the stairwell
+### y1v4 p.155–164 — Ch.4 sec. 4.2: the seat and the stairwell
 [scene] (p.155) Holds the Machida hang-out invite over Karuizawa’s seat claim, loses the seat, then leads the emergency-stairwell cornering over Rika with Yamashita and Yabu.
 [says] (p.155) “Hey, Machida-kun. After we’re done here, do you want to hang out with us? The three of us were looking to have some fun.”
 [rel:machida-kouji] (pp.155-156) The invite that starts the seat war; “He promised to hang out with me tonight” loses to Karuizawa’s hand-grab.
@@ -101,7 +101,7 @@ char_id: manabe-shiho · class: Class 1-C · status: minor
 [note] (p.180) Ayanokōji notes Hirata’s concern for others is downright pathological — he considered Manabe and the others friends, too.
 [note] (p.182) Ayanokōji puts the impossible choice to him: he wants to save both Karuizawa and Manabe, and that is not possible.
 
-### y1v4 p.185–193 — Ch.4 §4.5–4.6: the anonymous buyer and the subject
+### y1v4 p.185–193 — Ch.4 sec. 4.5–4.6: the anonymous buyer and the subject
 [scene] (p.185) Accepts the sub-account revenge pitch, brings Rika into the switchboard room at four, runs the Milgram frame on Karuizawa, and invites Rika to strike.
 [rel:ayanokouji-kiyotaka] (pp.185-188) The anonymous Class D classmate who hates the same person — trust won with “show this chat log to the teachers”; she never learns the sender.
 [says] (p.186) Who is this? (chat)
@@ -148,14 +148,14 @@ char_id: manabe-shiho · class: Class 1-C · status: minor
 [scene] (p.205) Named in Ayanokōji’s check that the planted picture held her group in line.
 [note] (p.205) He was concerned Manabe and her friends would confront Karuizawa again, but the picture he sent had its desired effect — they were being obedient.
 
-### y1v4 p.222–223 — Ch.5 §5.2: the shouted objection
+### y1v4 p.222–223 — Ch.5 sec. 5.2: the shouted objection
 [scene] (p.222) Screams that the show gains nothing, then is ordered into it by Ibuki and complies with her friends.
 [says] (p.222) “Are you nuts? We don’t get anything out of this!” shouted Manabe.
 [rel:ibuki-mio] (pp.222-223) The enemy-tone exchange: “Or maybe you’re the VIP” → “N-no. I…” → “In that case, show everyone your phone.” She and her friends obey.
 [rel:karuizawa-kei] (p.222) In the same forced-show wave as Karuizawa’s strapped phone.
 [trait] (p.223) Accepts Ibuki’s order like a command — the cornering leader reduced to complying in the circle.
 
-### y1v4 p.225–228 — Ch.5 §5.2: the nod and the exit
+### y1v4 p.225–228 — Ch.5 sec. 5.2: the nod and the exit
 [scene] (p.225) Ratifies the Yukimura verdict, then leaves with her group once Ichinose extracts the no-betrayal pledge.
 [says] (p.225) “So that means it’s definitely Yukimura-kun.” (Machida’s line, with her nod)
 [rel:machida-kouji] (p.225) The joint Class A/C conclusion — her nod is cited as the confirming beat.
@@ -200,7 +200,7 @@ char_id: manabe-shiho · class: Class 1-C · status: minor
 
 <!-- walk: y1v6 ch3 → p.59 -->
 
-### y1v6 p.71–73 — Ch.4 §4.2: unmasked as the lead spy
+### y1v6 p.71–73 — Ch.4 sec. 4.2: unmasked as the lead spy
 [scene] (p.71) Ryuuen stops in front of Manabe and names her as the traitor; she is terrified, on the verge of tears.
 [rel:ryuuen-kakeru] (p.71) Brushed aside her hair, caressed her face; states he knew from the very beginning; demands the name of X.
 [says:manabe-shiho] (p.71) “I-I’m…I’m sorry. I-I—”
@@ -244,7 +244,7 @@ char_id: manabe-shiho · class: Class 1-C · status: minor
 
 <!-- walk: y1v7 ch3 → p.97 -->
 
-### y1v7 p.123–131 — Ch.5 §5.1–5.2: the leverage behind the roof
+### y1v7 p.123–131 — Ch.5 sec. 5.1–5.2: the leverage behind the roof
 [scene] (p.123) Her name and her friends are the pressure Ryuuen uses to force Karuizawa onto the rooftop.
 [note] (p.123) Strategy is kept from Ibuki and the rest to eliminate the possibility of spies like Manabe and her friends.
 [note] (p.123) Karuizawa is described as the reason Manabe and her friends were strong-armed into spying on Class C for Class D.
@@ -320,3 +320,7 @@ char_id: manabe-shiho · class: Class 1-C · status: minor
 [limit] (p.148) Named only in the roster/problem-child line — no dialogue on these pages.
 
 <!-- walk: y1v8 ch5 → p.152 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->

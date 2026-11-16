@@ -36,7 +36,7 @@ pages were reached).
 ## 2. Page types, and what each type contains
 
 Every type has exactly one layout signature (no per-type drift was found), except the `<h1>` rule in
-§5.1. Counts are of pages; "in" = incoming internal links, "out" = distinct pages linked.
+sec. 5.1. Counts are of pages; "in" = incoming internal links, "out" = distinct pages linked.
 
 | page type | pages | URL pattern | words | in | out | sections (h2) |
 |---|---|---|---|---|---|---|

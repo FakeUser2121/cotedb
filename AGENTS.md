@@ -161,7 +161,7 @@ aliases used for anchors: sakura, airi, sakura-san
 
 <!-- walk: y1v2 → start -->
 
-### y1v2 p.152–158 — Ch.5 §5.1: <what the scene does>
+### y1v2 p.152–158 — Ch.5 sec. 5.1: <what the scene does>
 [scene] (p.152) Place, time, who is present, what the page states outright.
 [says:ike-kanji] (p.153) “One quoted line.”
 [rel:horikita-suzune] (p.155) Relation, scoped to this volume.

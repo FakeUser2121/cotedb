@@ -148,7 +148,7 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y1v2 → start -->
 
-### y1v2 p.16–19 — Ch.2 §2.1–2.2: front-row advocate for the Class D payout
+### y1v2 p.16–19 — Ch.2 sec. 2.1–2.2: front-row advocate for the Class D payout
 [says] (p.16) "Sae-chan-sensei! Do we have zero points again this month?! When I checked this morning, I didn’t see a single point deposited into my account!"
 [says] (p.16) "We worked ourselves half to death this past month! We passed the midterm, so why are we still at zero points?! No one’s been late or absent, and no one’s talked during class, either!"
 [says] (p.17) "Huh? Wait, 87? Does that mean we actually went up? Yahoo!" (jumping at the board)
@@ -164,7 +164,7 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y1v2 ch2 → p.39 -->
 
-### y1v2 p.41–48 — Ch.3 open & §3.1: first to turn on Sudou, first to be turned around
+### y1v2 p.41–48 — Ch.3 open & sec. 3.1: first to turn on Sudou, first to be turned around
 [says] (p.41) “Man, isn’t Sudou just the worst?” — AK flags him as the opener: "Ike was the first to talk."
 [says] (p.41) “If we lose points because of Sudou, will we be at zero again this month?” — his objection is arithmetic, not moral; the class's anger arrives as a points question.
 [scene] (p.44) Seated at the cafeteria table with AK, Horikita, Kushida, Yamauchi and Sudou — "Our group consisted of myself, Kushida, Horikita, Ike, Yamauchi, and Sudou."
@@ -181,7 +181,7 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:kushida-kikyou] (p.47–50) He claims her publicly ("my Kushida-chan"), and her single request is what converts him into Sudou's helper; AK's pity: "In some ways, I felt a little sorry for Kushida."
 
 
-### y1v2 p.50–53 — Ch.3 §3.1: the phone, the ranking, the contest
+### y1v2 p.50–53 — Ch.3 sec. 3.1: the phone, the ranking, the contest
 [says] (p.50) “Do you want to know? I bet you both want to know.” — AK: "Ike whipped out his phone with an air of unavoidable weariness."
 [says] (p.50) “You can track your registered friends’ locations on your school phones.”
 [feat] (p.50) He demonstrates it: "Ike searched for Kushida’s present location. Shortly afterward, details about her position were displayed on the screen. A marker appeared on the cafeteria." — the school phone's friend-list location service, known to Class D's least reliable student.
@@ -197,7 +197,7 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:yamauchi-haruki] (p.50–52) Co-dependent rivals for the same girl — they trade fantasies, check each other for "outdone" moves, and leave AK as the audience.
 
 
-### y1v2 p.61–64 — Ch.3 §3.2–3.3: Kushida's entourage, in Class B
+### y1v2 p.61–64 — Ch.3 sec. 3.2–3.3: Kushida's entourage, in Class B
 [scene] (p.61) Kept behind at the table while Kushida and AK chase Horikita: “Ike-kun, Yamauchi-kun, could you two please wait here? We’ll be back right away,” and "“Okay!” the boys chorused." — AK's aside: "You certainly couldn’t claim those two were friendly with Horikita."
 [says] (p.62) “Wait, ask them one by one? Wouldn’t it be way easier to ask everyone at the same time?” — AK: "He didn’t seem to like this roundabout way of doing things."
 [says] (p.63) “D-damn it! There are way too many guys after my Kushida-chan. This sucks!” — in the doorway of Class B, "shaking in his boots" and frozen with Yamauchi.
@@ -209,7 +209,7 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y1v2 ch3 → p.65 -->
 
-### y1v2 p.66–72 — Ch.4 §4.0: he is the audience for the class-change rule, and the one who remembers nothing
+### y1v2 p.66–72 — Ch.4 sec. 4.0: he is the audience for the class-change rule, and the one who remembers nothing
 [says] (p.66) “Man, can we even prove that those Class C guys were in the wrong?”
 [says] (p.66) “Before we try our best, though, is there even a witness in the first place? Didn’t Sudou only say that he thought someone might’ve been there? Wasn’t that just a lie? I mean, he is violent, and he does provoke people.”
 [says] (p.66) “Our dreams of screwing around to our hearts’ content will remain unrealized!” — his objection to saving Sudou, in full: "if Sudou is in the wrong, then our hard-earned points are all going be stripped away, right? We’ll be at zero. Zero! We’ll be back to having no pocket money at all." (sic — "going be")
@@ -224,7 +224,7 @@ aliases used for anchors: ike, kanji, ike-kun
 [says] (p.72) “If I got points for it, I probably would’ve joined calligraphy club, or some other kind of art club.”
 [trait] (p.66–72) He is the class's memory test: every system fact in this chapter was available to him earlier and he retained none of it, while his own grievance — zero points, no pocket money — is stated more accurately than anyone else's.
 
-### y1v2 p.74–96 — Ch.4 §4.1–4.3: he describes Sakura as a body, is corrected, and does it again
+### y1v2 p.74–96 — Ch.4 sec. 4.1–4.3: he describes Sakura as a body, is corrected, and does it again
 [says] (p.74) “None at all. Sudou, are you sure there was a witness?”
 [scene] (p.75) Sudou puts him in a headlock for asking, and his surrender is a shout: "“Gyahh! I give, I give!” Ike cried."
 [says] (p.78) “Come on, don’t lie! You’re a tsundere, Horikita!” — "Ike went to hit Horikita’s shoulders playfully, as if teasing her. Horikita grabbed his arm and tossed him to the ground."
@@ -240,19 +240,19 @@ aliases used for anchors: ike, kanji, ike-kun
 [scene] (p.95) The classroom cameras are news to him specifically: "Seriously?! I never knew that!" — "Ike looked utterly shocked."
 [scene] (p.96) His jealousy is documented as a live grudge against Horikita and against AK at the same time: “You two really have gotten close, huh? I mean, you looked like you were going to murder me after I just touched your shoulder yesterday, and now…” — AK: "Ike looked at my hand on Horikita’s forehead with seeming discontent."
 
-### y1v2 p.133, p.143 — Ch.4 §4.9: he organises a café trip, and one of the four is not told
+### y1v2 p.133, p.143 — Ch.4 sec. 4.9: he organises a café trip, and one of the four is not told
 [says] (p.133) Kushida's reference to the outing, delivered as small talk at a mall: "I’m talking about Ike-kun and the others going to that café, of course." — the volume records the trip only as something Ayanokōji did not hear about.
 [feat] (p.143) His name is the reason the narrator owns the Professor's number at all: "Back when Ike had involved me in the whole gambling thing, I’d exchanged contact information with some people."
 [note] (p.133) Nothing in the text says whether Ike deliberately left Ayanokōji out; the only reading on record is Ayanokōji's own, and he takes the blame rather than Ike: "It’s not like Ike and the others were bad for not inviting me. I was the bad guy, the one who hadn’t been invited."
 
 <!-- walk: y1v2 ch4 → p.151 -->
 
-### y1v2 p.167–168 — Ch.5 §5.3: the magazine fight in the middle of the meeting
+### y1v2 p.167–168 — Ch.5 sec. 5.3: the magazine fight in the middle of the meeting
 [scene] (p.167) Lunch; "Ike and Yamauchi scrambled over a weekly manga magazine" while the strategy meeting runs.
 [note] (p.167) The exchange that follows has one speaker tagged and one left untagged: "I’m still reading that! Give it back!" then "It’s fine, isn’t it? I paid for half of it, anyway. I’ll give it back later." — the second line is not assigned by the translation.
 [note] (p.167–168) The narrator's aside on their finances: "Considering their bitter tears over having absolutely no points at all, I found it kind of amazing that they still managed to buy a magazine each week."
 
-### y1v2 p.179–183 — Ch.5 §5.6: the idol in his class
+### y1v2 p.179–183 — Ch.5 sec. 5.6: the idol in his class
 [says] (p.179) "She’s cute." — after "Ike took a long hard look at her".
 [says] (p.180) "Huh? No way, no way. Sakura-san? No, no, no, there’s no way that’s true."
 [says] (p.180) "But she’s not wearing glasses, right? And her hair is different."
@@ -272,7 +272,7 @@ aliases used for anchors: ike, kanji, ike-kun
 
 ## y1v3
 
-### y1v3 p.13–17, p.67–70 — Ch.2 §2.0 & §2.4: the cruise loudmouth who turns out to be the useful one
+### y1v3 p.13–17, p.67–70 — Ch.2 sec. 2.0 & sec. 2.4: the cruise loudmouth who turns out to be the useful one
 [scene] (p.13) Deck of the liner; he opens the chapter with both hands in the air.
 [says] (p.13) “Whoa! This is the beeeeeeesssssst!”
 [rel:sudou-ken] (p.13–14) Teased by Yamauchi about his low final score; Sudou howls it off — "With my skills, there was nothing to worry about."
@@ -282,7 +282,7 @@ aliases used for anchors: ike, kanji, ike-kun
 [feat] (p.67–69) Drinks the river on demand when challenged — "Ah! Whew, that’s ice cold. It feels great! It’s damn good!" — and gets the girls' disgust instead of trust.
 [feat] (p.69–70) The camping background surfaces properly: family trips as a child; he can read a clean water source on sight; first-ever expressed regret — "I guess the stuff I said was probably a little unreasonable."
 
-### y1v3 p.85–92 — Ch.2 §2.7–2.8: the bonfire, the apology, and the river vote
+### y1v3 p.85–92 — Ch.2 sec. 2.7–2.8: the bonfire, the apology, and the river vote
 [scene] (p.85) Evening at camp; Yamauchi's matches have failed for the last time.
 [feat] (p.85–86) Takes over without being asked — dead leaves, thin twigs, then thicker branches — and the fire is up "in the blink of an eye."
 [rel:ike-kanji] (p.86) The bonfire doubles as a smoke signal: "If you can see the smoke, you’ll be able to find the campsite even if you get lost."
@@ -294,7 +294,7 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y1v3 ch2 → p.99 -->
 
-### y1v3 p.105–106 — Ch.3 §3.1: the chips at his feet
+### y1v3 p.105–106 — Ch.3 sec. 3.1: the chips at his feet
 [scene] (p.105) The provocation reaches him in the middle of the campsite.
 [says] (p.105) “What the hell, you guys?!”
 [action] (p.105–106) The chips bag lands at his feet; he snaps at the two Class C boys for ten minutes until Hirata's group returns and they leave.
@@ -302,7 +302,7 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y1v3 ch3 → p.130 -->
 
-### y1v3 p.141 — Ch.4 §4.3: the camp greeting
+### y1v3 p.141 — Ch.4 sec. 4.3: the camp greeting
 [scene] (p.141) At base camp when the pair comes back from the forest.
 [says] (p.141) “What an amazing find, Ayanokouji! You too, Sakura! Let’s go get it, Yamauchi!”
 [rel:ayanokouji-kiyotaka] (p.141) Greets him as the finder of the food, before the class knows what has been found.
@@ -338,19 +338,19 @@ aliases used for anchors: ike, kanji, ike-kun
 [says:ike-kanji] (p.165) “Jeez, enough is enough!”
 [says:ike-kanji] (p.165) “Huh?! I-I’m not hiding anything! Search me if you gotta!”
 
-### y1v3 p.171–178 — Ch.6 §6.1: volunteering
+### y1v3 p.171–178 — Ch.6 sec. 6.1: volunteering
 [scene] (p.174) Raises his hand to help the girls even though he was just fighting Shinohara.
 [says:ike-kanji] (p.174) “How about me?”
 [action] (p.174) Volunteers along with Sudou and Yamauchi; Karuizawa rejects all three.
 [trait] (p.175) Feigned ignorance along with Yamauchi when the girls turned on Ayanokōji.
 
-### y1v3 p.192–199 — Ch.6 §6.4: fishing duty
+### y1v3 p.192–199 — Ch.6 sec. 6.4: fishing duty
 [scene] (p.192) Asked from the riverbank whether he should join the last forage, and kept on the fishing rod instead.
 [says:ike-kanji] (p.192) “Would it be better if we went, too?”
 [says:hirata-yousuke] (p.192) “No. Ike-kun, Sudou-kun, I want you two to continue fishing. We don’t have enough time to instruct the other students how to do it.”
 [status] (p.192) Kept on fishing with Sudou through the last day.
 
-### y1v3 p.206–209 — Ch.6 §6.7: the one who raises the alarm
+### y1v3 p.206–209 — Ch.6 sec. 6.7: the one who raises the alarm
 [scene] (p.206) Spots the dark smoke behind the temporary toilet and shouts it across the camp.
 [says] (p.206) “What’s that smoke? What in the world happened?”
 [says] (p.206) “This is serious. There’s a fire! Fire! Something is burning behind the toilet!”
@@ -377,11 +377,11 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y1v4 → start -->
 
-### y1v4 p.19 — Ch.2 §2.0: a hypothetical at the deck restaurant
+### y1v4 p.19 — Ch.2 sec. 2.0: a hypothetical at the deck restaurant
 [scene] (p.19) Named once, hypothetically — what he and Yamauchi would have done at the deck restaurant.
 [note] (p.19) Ayanokōji’s aside: had they been there, they would have “foregone the food and feasted their eyes on the girls instead.”
 
-### y1v4 p.43 — Ch.2 §2.3: a passing mention in the comprehension sketch
+### y1v4 p.43 — Ch.2 sec. 2.3: a passing mention in the comprehension sketch
 [scene] (p.43) Named once as a contrast while the narration sizes up Karuizawa’s refusal to listen.
 [note] (p.43) The comparison: her problem “wasn’t that she scored poorly on tests like Sudou or Ike” — unlike them, she simply won’t listen.
 
@@ -394,7 +394,7 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y1v4 ch3 → p.124 -->
 
-### y1v4 p.179 — Ch.4 §4.4: the contrast name
+### y1v4 p.179 — Ch.4 sec. 4.4: the contrast name
 [scene] (p.179) Named once in Hirata’s compliment — Ayanokōji is “different from Ike-kun and Yamauchi-kun,” and he ranks himself worse than both.
 [rel:hirata-yousuke] (p.179) The comparison class for “amazing.”
 [rel:ayanokouji-kiyotaka] (p.179) “I’m worse than them” — his self-ranking under Ike.
@@ -547,7 +547,7 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y1v5 ch2 → p.38 -->
 
-### y1v5 p.39–53 — Ch.3 §3: Grip strength and the scavenger hunt
+### y1v5 p.39–53 — Ch.3 sec. 3: Grip strength and the scavenger hunt
 [scene] (p.50) Ike takes his turn at the grip-strength meter and pleads for bonus points on his score.
 [says] (p.50) “I got a 42.6.”
 [rel:hirata-yousuke] (p.50) Begs Hirata to round 42.6 up to 50 — “Can you give me a few tiny bonus points and make it 50?”
@@ -557,7 +557,7 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y1v5 ch3 → p.53 -->
 
-### y1v5 p.54–67 — Ch.4 §4: The watching classes and the tug demo
+### y1v5 p.54–67 — Ch.4 sec. 4: The watching classes and the tug demo
 [scene] (p.54) Ike spots Class B and A students watching the first practice from the school-building windows.
 [says] (p.54) “Hey, they’re from Class B, right?”
 [rel:sudou-ken] (p.59) On the receiving end of Sudou’s tug-of-war demonstration — he and Yamauchi go down in seconds.
@@ -565,7 +565,7 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y1v5 ch4 → p.67 -->
 
-### y1v5 p.68–85 — Ch.5 §5: Rumors and suspicion
+### y1v5 p.68–85 — Ch.5 sec. 5: Rumors and suspicion
 [scene] (p.72) Ike spends Saturday in Ayanokōji’s room and is the one who brings up Sakayanagi.
 [rel:sakayanagi-arisu] (p.72) On the Class A girl: “Yeah, dude, of course I remember her.”
 [rel:sakayanagi-arisu] (p.73) “She doesn’t really put it out there, you know?” — no usable rumors.
@@ -574,7 +574,7 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y1v5 ch5 → p.85 -->
 
-### y1v5 p.86–114 — Ch.6 §6: loud from the sidelines
+### y1v5 p.86–114 — Ch.6 sec. 6: loud from the sidelines
 [scene] (p.86) Ike walks behind Ayanokōji into the festival already vowing to show off for Kushida.
 [says] (p.86) “All right, time to really show off for Kikyou-chan!” shouted Ike as he walked directly behind me.
 [says] (p.87) “Sudou’s got first place covered!”
@@ -595,23 +595,23 @@ aliases used for anchors: ike, kanji, ike-kun
 [says] (p.112) “We’re practically equal!” blubbered Ike.
 [trait] (p.86–114) All bark and no bite by Ayanokōji’s account; his festival voice is crude cheer and panic in equal measure.
 
-### y1v5 p.115–141 — Ch.6 §6: carried, then lunch
+### y1v5 p.115–141 — Ch.6 sec. 6: carried, then lunch
 [scene] (p.115) Ike is Sudou’s three-legged partner and spends the race being practically dragged to first.
 [note] (p.115) Ike cried in agony during the forced carry to first.
 [action] (p.115–116) Nabbed first place by Sudou’s forced carry; watches the girls’ three-legged from the side.
 [rel:sudou-ken] (p.115–116) Body as ballast for Sudou’s strength; later cowers with the others when Sudou’s temper peaks.
-[action] (p.120, §6.8) Shouts at the girls’ cavalry as Class C zeroes in on Horikita.
+[action] (p.120, sec. 6.8) Shouts at the girls’ cavalry as Class C zeroes in on Horikita.
 [says] (p.120) “H-hey, what the hell?”
 [says] (p.121) “They’re just going after Horikita, aren’t they, dude?!”
 [says] (p.121) “Dude, this is an awesome game!”
-[action] (p.140, §6.10) Loses rock-paper-scissors for lunch duty with Yamauchi and shows no interest in finding Sudou.
+[action] (p.140, sec. 6.10) Loses rock-paper-scissors for lunch duty with Yamauchi and shows no interest in finding Sudou.
 [says] (p.140) “Gah! God, I’m so tired! Why do I gotta suffer through this, dude?!”
 [note] (p.140) He and Yamauchi have known Sudou since day one and will not chase him; most girls who saw the punch have dropped any goodwill.
 [rel:yamauchi-haruki] (p.140–141) Paired for the lunch run; joins Hirata’s ten-person eating group without caring about Sudou.
 
 <!-- walk: y1v5 ch6 → p.143 -->
 
-### y1v5 p.160–162 — Ch.8 §8: scavenger-hunt substitute
+### y1v5 p.160–162 — Ch.8 sec. 8: scavenger-hunt substitute
 [scene] (p.160) Ike wins the rock-paper-scissors against Yamauchi and takes Sudou’s scavenger-hunt place.
 [says:ike-kanji] (p.160) “All right. I’ll do my best, for Sudou’s sake!”
 [says:ike-kanji] (p.161) “Ayanokouji! Lend me your left foot! Your left foot!”
@@ -622,7 +622,7 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y1v5 ch8 → p.180 -->
 
-### y1v5 p.181 — Ch.9 §9: accepts Sudou’s apology
+### y1v5 p.181 — Ch.9 sec. 9: accepts Sudou’s apology
 [scene] (p.181) Ike greets Sudou’s return and accepts the apology for the class’s mood.
 [says:ike-kanji] (p.181) “The heck, Ken? This isn’t like you,”
 [says:ike-kanji] (p.181) “It’s not like it’s your fault I lost or anything. I’m just no good at sports, really. Sorry I wasn’t useful,”
@@ -647,7 +647,7 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y1v6 → start -->
 
-### y1v6 p.17–18 — Ch.2 §2.1: the friend group that left
+### y1v6 p.17–18 — Ch.2 sec. 2.1: the friend group that left
 [scene] (p.17) Named as leaving the classroom with Yamauchi and the Professor toward Keyaki Mall, without inviting Ayanokouji.
 [rel:ayanokouji-kiyotaka] (p.17–18) Horikita names him and Yamauchi as the “dear friends” who stopped inviting Ayanokouji out; the cut is attributed to resenting concealed excellence.
 [rel:sudou-ken] (p.17) Part of the circle Sudou softened toward.
@@ -676,7 +676,7 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y1v6 ch3 → p.59 -->
 
-### y1v6 p.80–81, 83, 97 — Ch.5 §5: the blank-sheet confidence
+### y1v6 p.80–81, 83, 97 — Ch.5 sec. 5: the blank-sheet confidence
 [scene] (p.80) Dark circles gone; self-confident; needs no study for a quiz that does not touch his final grade.
 [rel:chabashira-sae] (p.80–81) Watch-and-learn to Chabashira; then the final-grade clarification settles him.
 [says:ike-kanji] (p.80) “Heh heh heh. Watch and learn, sensei.”
@@ -788,7 +788,7 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y1v7.5 ch3 → p.72 -->
 
-### y1v7.5 p.93–95 — Ch.4 §4.1: the Shinohara dinner leak
+### y1v7.5 p.93–95 — Ch.4 sec. 4.1: the Shinohara dinner leak
 [scene] (p.93) Lobby eavesdrop with Yamauchi and Sudou after turning down karaoke; admits a Christmas Eve dinner with Shinohara.
 [says:ike-kanji] (p.94) “Oh, uh…sorry, Haruki. I kinda can’t today.”
 [says:ike-kanji] (p.94) “Look, I’m just going out to dinner with a friend, that’s all.”

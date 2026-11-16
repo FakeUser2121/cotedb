@@ -7,12 +7,12 @@ aliases used for anchors: ukon, ukon-sensei
 
 <!-- walk: y1v4.5 → start -->
 
-### y1v4.5 p.19–20 — Ch.2 §2.1: couples only at the booth
+### y1v4.5 p.19–20 — Ch.2 sec. 2.1: couples only at the booth
 [scene] (p.19–20) The fifth-floor line at Keyaki Mall: the booth’s notice and the attendant’s answer turn solo students away — guidance for couples only.
 [rule] (p.20) The attendant states it outright: “Ukon-sensei is only reading fortunes for couples.”
 [note] (p.19–20) The name comes second-hand from the attendant and the notice; no appearance of the fortune-teller on these pages.
 
-### y1v4.5 p.33–37 — Ch.2 §2.4: the reading
+### y1v4.5 p.33–37 — Ch.2 sec. 2.4: the reading
 [scene] (p.33) The tent behind the couples-only line: thirty lux, hood over the face, thick book and crystal ball, card reader on the table.
 [says] (p.33) “Sorry to have kept you waiting.”
 [says] (p.33) “First…you must pay,” she commanded.

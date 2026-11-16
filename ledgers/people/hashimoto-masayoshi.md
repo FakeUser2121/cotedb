@@ -6,7 +6,7 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 
 <!-- walk: y1v5 → start -->
 
-### y1v5 p.106–107 — Ch.6 §6: the rebellion on the rope
+### y1v5 p.106–107 — Ch.6 sec. 6: the rebellion on the rope
 [scene] (p.106) Hashimoto steps out of Katsuragi’s formation as the tug-of-war lines up and openly doubts Class A’s slump is Katsuragi’s fault to fix.
 [says] (p.106) “What do you mean by that, Hashimoto?” asked Katsuragi.
 [says] (p.106) “It’s your fault that Class A is in a slump now.”
@@ -329,3 +329,7 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [rel:ichinose-honami] (p.176) Questions her during the confession.
 
 <!-- walk: y1v9 Epilogue → p.200 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->

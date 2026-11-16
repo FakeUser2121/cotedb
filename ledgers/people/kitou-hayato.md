@@ -38,3 +38,7 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 [note] (p.169) Deliberately left out of Sakayanagi’s small group — there is no sign of him at the Class B visit.
 
 <!-- walk: y1v9 ch7 → p.175 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->

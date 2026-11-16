@@ -56,7 +56,7 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 ## y1v3
 
 
-### y1v3 p.36–38 — Ch.2 §2.1: the corridor ambush
+### y1v3 p.36–38 — Ch.2 sec. 2.1: the corridor ambush
 [scene] (p.36) Beach-side, during Class D's rules huddle; she tackles Chabashira from behind.
 [says] (p.36) “What, I can’t be friendly? I honestly wanted to see what you’d do.” / “Whenever I touch your hair, Sae-chan, it’s always so smooth!”
 [rel:chabashira-sae] (p.38) Gets the eavesdropping rebuke and the "fate" double-meaning ignored; leaves with a sad look when threatened with a behavioural report.
@@ -69,7 +69,7 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 
 <!-- walk: y1v4 → start -->
 
-### y1v4 p.121–123 — Ch.3 §3.6: the Class B homeroom at the sofa
+### y1v4 p.121–123 — Ch.3 sec. 3.6: the Class B homeroom at the sofa
 [scene] (p.121) With Chabashira and Mashima at the first-level vending machines, she drinks whiskey neat, owns the Ichinose-to-Rabbit move, and is ordered to stop spying.
 [says] (p.121) “Ah ha ha! We broke up two weeks ago. I’m the type of girl who breaks it off once the relationship starts getting serious. It’s just like, see ya later!” Hoshinomiya-sensei said.
 [note] (p.121) Also addresses Mashima as “Mashima-kun” and is called “Chie” back; most of the date-talk lines are untagged — recorded on the volume attribution list.
@@ -89,12 +89,12 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 
 <!-- walk: y1v4 ch3 → p.124 -->
 
-### y1v4 p.125 — Ch.4 §4.0: the spy order in the brief
+### y1v4 p.125 — Ch.4 sec. 4.0: the spy order in the brief
 [scene] (p.125) Named only as the teacher who secretly sent Ichinose and the Class B trio to watch Ayanokōji — his private inventory of problems for the day.
 [rel:ichinose-honami] (p.125) The Class B three in the Rabbit group are filed as her agents on him, not as random group-mates.
 [note] (p.125) No scene presence this range; the row records the brief’s attribution of the spy order.
 
-### y1v4 p.167–168 — Ch.4 §4.3: the drunk interruption
+### y1v4 p.167–168 — Ch.4 sec. 4.3: the drunk interruption
 [scene] (p.167) Follows Chabashira to the night pool, hugs Ayanokōji smelling of alcohol, baits the private meeting as suspicious, and leaves with a “no sexy times” shot.
 [says] (p.167) “Yoohoo, Sae-chan! How you feeling?”
 [says] (p.167) “Hmm? Oh no, of course I’m not, I’m not drunk. I was just acting all sleepy, you know?”
@@ -117,7 +117,7 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 
 <!-- walk: y1v4 ch4 → p.204 -->
 
-### y1v4 p.230 — Ch.5 §5.2: the unlock authority
+### y1v4 p.230 — Ch.5 sec. 5.2: the unlock authority
 [scene] (p.230) Ichinose cites her confirmation: with enough points the SIM device lock releases immediately.
 [rel:ichinose-honami] (p.230) “I checked with Hoshinomiya-sensei to confirm. She said that with enough points, you can unlock the device right away.”
 [rule] (p.230) SIM lock release is a point purchase — the loophole that makes the double swap work on a ship at sea.
@@ -164,3 +164,7 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 [rel:ichinose-honami] (p.180) Present as Class B’s homeroom teacher during the intervention.
 
 <!-- walk: y1v9 Epilogue → p.200 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->
