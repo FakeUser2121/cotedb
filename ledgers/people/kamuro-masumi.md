@@ -189,3 +189,17 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [rel:ayanokouji-kiyotaka] (p.118–119) Questions Sakayanagi’s fixation on him.
 
 <!-- walk: y1v10 Ch3 → p.147 -->
+
+### y1v10 pp.266–284 — Ch.6: With Sakayanagi and Yamauchi
+
+[scene] (p.266) Leaves school with Sakayanagi and hears her accept Yamauchi’s call.
+[scene] (p.267) Notes Sakayanagi has been talking with Yamauchi a lot and asks what she is planning.
+[scene] (p.270) Meets Yamauchi with Sakayanagi at Keyaki Mall karaoke; feels uneasy about the situation.
+[scene] (p.276) Frisk-searches Yamauchi at Sakayanagi’s request to check for recording devices.
+[scene] (p.282) Listens as Sakayanagi says Horikita exposed the collaboration with Yamauchi; points out Sakayanagi messed up by letting Karuizawa into the group.
+[scene] (p.284) Criticises the lack of written contracts and says Ayanokōji may not be easily expelled.
+[rel:sakayanagi-arisu] (p.266–284) Stays with her through the Yamauchi meetings and post-mortem discussion.
+[rel:yamauchi-haruki] (p.270–276) Meets him at karaoke and searches him.
+[rel:hashimoto-masayoshi] (p.282–284) Debates the failed plan with him and Sakayanagi.
+
+<!-- walk: y1v10 Ch6 → p.285 -->

@@ -168,3 +168,10 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 ## y1v10
 
 <!-- walk: y1v10 → start -->
+
+### y1v10 pp.252–253 — Ch.6: Listening to Ichinose
+
+[scene] (p.252) As homeroom teacher listens to Ichinose speak to Class B after school; she feels uneasy about the exam and worries about the class unity being damaged by an expulsion.
+[rel:ichinose-honami] (p.252–253) Listens as Ichinose assures the class no one will be expelled.
+
+<!-- walk: y1v10 Ch6 → p.285 -->

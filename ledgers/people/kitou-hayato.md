@@ -42,3 +42,10 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 ## y1v10
 
 <!-- walk: y1v10 → start -->
+
+### y1v10 pp.282 — Ch.6: Present at discussion
+
+[scene] (p.282) Present in the karaoke room with Sakayanagi, Kamuro, and Hashimoto during the discussion about the exposed plan.
+[rel:sakayanagi-arisu] (p.282) Present during her post-mortem with Hashimoto and Kamuro.
+
+<!-- walk: y1v10 Ch6 → p.285 -->

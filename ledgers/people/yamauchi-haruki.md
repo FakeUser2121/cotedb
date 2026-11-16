@@ -792,3 +792,19 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [rel:ike-kanji] (p.198, 206, 211) Tries to leave with him and later questions his ties to Sakayanagi.
 
 <!-- walk: y1v10 Ch5 → p.237 -->
+
+### y1v10 pp.266–276 — Ch.6: Manipulated by Sakayanagi
+
+[scene] (p.266) Receives calls from Sakayanagi and arranges to meet her that night at Keyaki Mall karaoke.
+[scene] (p.270) Meets Sakayanagi with Kamuro present; feels embarrassed but hopeful.
+[scene] (p.271) Fears expulsion and is reassured by Sakayanagi’s false concern.
+[scene] (p.272) Says he is worried about jealous classmates voting against him and claims he is the only one who can meet Sakayanagi.
+[scene] (p.273) Is told Sakayanagi will have Class A give him praise votes and is instructed to target Ayanokōji; agrees to the plan.
+[says] (p.273) “A-are you serious?”
+[scene] (p.274) Is promised another meeting and told not to reveal the vote plan.
+[scene] (p.275) Is warned not to betray Sakayanagi’s trust and is frisked by Kamuro.
+[rel:sakayanagi-arisu] (p.266–276) Meets her and is drawn into her plan to target Ayanokōji.
+[rel:kamuro-masumi] (p.270–276) Meets her at karaoke and is searched by her.
+[rel:ayanokouji-kiyotaka] (p.273–275) Selected as the target to be expelled under Sakayanagi’s plan.
+
+<!-- walk: y1v10 Ch6 → p.285 -->

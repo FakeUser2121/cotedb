@@ -324,3 +324,13 @@ char_id: manabe-shiho · class: Class 1-C · status: minor
 ## y1v10
 
 <!-- walk: y1v10 → start -->
+
+### y1v10 pp.240–242 — Ch.6: Provoking Ibuki
+
+[scene] (p.240) Sees Ryūen leave and approaches Ibuki with provocation.
+[says] (p.241) “Well well, that’s quite the miserable look on your face, now isn’t it? Are you really ‘that’ sad to see Ryuuen get expelled?”
+[says] (p.241) “You’re gonna cast a censure vote for me, aren’t you Ibuki-san?”
+[scene] (p.242) Says Ibuki will be targeted after Ryūen is expelled.
+[rel:ibuki-mio] (p.240–242) Provokes her after Ryūen leaves the classroom.
+
+<!-- walk: y1v10 Ch6 → p.285 -->

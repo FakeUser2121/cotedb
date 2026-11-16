@@ -333,3 +333,15 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 ## y1v10
 
 <!-- walk: y1v10 → start -->
+
+### y1v10 pp.282–284 — Ch.6: Post-mortem with Sakayanagi
+
+[scene] (p.282) Present in the karaoke room with Sakayanagi, Kamuro, and Kitō as Sakayanagi discusses the leak of her plan.
+[says] (p.282) “Sakayanagi, the leak came from Karuizawa. Like I told you before, if you wanted to make sure Ayanokōji got expelled, it would’ve been better to avoid pulling Karuizawa into Yamauchi’s group.”
+[scene] (p.283) Explains why Karuizawa should have been kept out of the plan and argues Sakayanagi let greed get to her.
+[scene] (p.284) Says it is unclear who will be expelled now that Ayanokōji is not the target anymore in effect.
+[rel:sakayanagi-arisu] (p.282–284) Critiques her handling of the Karuizawa leak.
+[rel:kamuro-masumi] (p.282–284) Discusses the plan with her.
+[rel:kitou-hayato] (p.282) Present at the discussion.
+
+<!-- walk: y1v10 Ch6 → p.285 -->

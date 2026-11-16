@@ -123,3 +123,12 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 ## y1v10
 
 <!-- walk: y1v10 → start -->
+
+### y1v10 pp.262–263 — Ch.6: Class A vote
+
+[scene] (p.262) As Class A homeroom teacher explains the supplemental exam, then gives time for discussion; Sakayanagi nominates Katsuragi.
+[scene] (p.263) Quietly looks away as Class A unanimously votes to expel Katsuragi.
+[rel:sakayanagi-arisu] (p.262–263) Oversees her class’s decision to expel Katsuragi.
+[rel:katsuragi-kouhei] (p.262–263) Watches the vote to expel him.
+
+<!-- walk: y1v10 Ch6 → p.285 -->

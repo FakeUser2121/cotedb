@@ -343,3 +343,14 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 ## y1v10
 
 <!-- walk: y1v10 → start -->
+
+### y1v10 pp.253–256 — Ch.6: Questioning the plan
+
+[scene] (p.253) Expresses concern when Ichinose says she will prevent any expulsions, asking if she is sure.
+[says] (p.253) “Are you sure, Ichinose? Saying that so confidently…”
+[scene] (p.255) Asks how she will make up the four million points shortfall and presses for details about borrowing from Nagumo.
+[says] (p.255) “Now how are you going to make up for the rest? I can’t imagine that anyone from any of the other classes would be willing to give us so many, not even the upperclassmen.”
+[scene] (p.256) Agrees to support Ichinose’s plan once the repayment terms are clear.
+[rel:ichinose-honami] (p.253–256) Questions and supports her plan to save the class.
+
+<!-- walk: y1v10 Ch6 → p.285 -->

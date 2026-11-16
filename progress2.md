@@ -2748,3 +2748,16 @@ yamauchi-haruki, kushida-kikyou, chabashira-sae, kouenji-rokusuke,
 ike-kanji, sudou-ken, yukimura-teruhiko, hasebe-haruka, miyake-akito,
 sakura-airi, ledgers/volumes/y1v10.md. verify y1v10: ALL PASS; make
 check OK; gate exit 0. Next: ch6 pp.238–285.
+
+### y1v10 Chapter 6 — walked, shipped
+
+Chapter 6: "The Other Classes’ Ideas" (pp.238–285). Class D prepares to
+expel Ryūen as Ibuki recovers his private points; Class B secures points
+to avoid expulsion through Ichinose’s deal with Nagumo; Class A votes to
+expel Katsuragi and Sakayanagi manipulates Yamauchi to target Ayanokōji
+(before Horikita’s exposure). Ledgers touched: ryuuen-kakeru, ibuki-mio,
+ishizaki-daichi, manabe-shiho, ichinose-honami, kanzaki-ryuuji,
+shibata-sou, hoshinomiya-chie, sakayanagi-arisu, katsuragi-kouhei,
+totsuka-yahiko, kamuro-masumi, hashimoto-masayoshi, kitou-hayato,
+mashima-tomonari, yamauchi-haruki, ledgers/volumes/y1v10.md. verify
+y1v10: ALL PASS; make check OK; gate exit 0. Next: Epilogue pp.286–362.

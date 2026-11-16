@@ -171,3 +171,13 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 ## y1v10
 
 <!-- walk: y1v10 → start -->
+
+### y1v10 pp.253–255 — Ch.6: Supporting Ichinose
+
+[scene] (p.253) Says he is prepared to do whatever Ichinose asks even without a full explanation.
+[says] (p.253) “It’s okay, Ichinose. We’re prepared for what we have to do.”
+[scene] (p.254) Questions whether Class B has enough points to reach 20 million.
+[scene] (p.255) Transfers his private points along with the rest of the class.
+[rel:ichinose-honami] (p.253–255) Trusts her plan and contributes his points.
+
+<!-- walk: y1v10 Ch6 → p.285 -->

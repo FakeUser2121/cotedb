@@ -442,3 +442,16 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 ## y1v10
 
 <!-- walk: y1v10 → start -->
+
+### y1v10 pp.239–246 — Ch.6: Trying to save Ryūen
+
+[scene] (p.239) Has been forced into gathering censure votes against Ryūen while wanting to prevent his expulsion.
+[scene] (p.242) Takes Ibuki aside to ask about Ryūen’s private points.
+[says] (p.242) “Come with me for a bit, Ibuki.”
+[scene] (p.243) Admits he does not want Ryūen expelled and worries about Class D without him.
+[says] (p.245) “I don’t really want to admit it, but I feel the same way.”
+[scene] (p.246) Agrees with Ibuki’s plan to recover Ryūen’s private points for Class D.
+[rel:ryuuen-kakeru] (p.239–246) Wants to save him despite the exam’s pressure.
+[rel:ibuki-mio] (p.242–246) Talks with her about the points and the plan.
+
+<!-- walk: y1v10 Ch6 → p.285 -->

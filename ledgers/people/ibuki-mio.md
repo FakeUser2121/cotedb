@@ -653,3 +653,23 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 ## y1v10
 
 <!-- walk: y1v10 → start -->
+
+### y1v10 pp.240–251 — Ch.6: Seeing Ryūen off and recovering points
+
+[scene] (p.240) Watches Ryūen leave the classroom after school; Manabe provokes her about being less important.
+[says:manabe-shiho] (p.241) “Well well, that’s quite the miserable look on your face, now isn’t it? Are you really ‘that’ sad to see Ryuuen get expelled?”
+[scene] (p.242) Goes with Ishizaki to talk about Ryūen’s private points.
+[says:ishizaki-daichi] (p.242) “Come with me for a bit, Ibuki.”
+[scene] (p.246) Decides to recover Ryūen’s private points and meet him that night.
+[says] (p.246) “I’m going to see Ryūen tonight and recover the private points. I might be the only one who can.”
+[scene] (p.247) Visits Ryūen’s dorm room; he answers in boxers after a bath.
+[scene] (p.248) Demands his private points and receives them transferred to her phone.
+[says] (p.248) “Your private points. Hand them over.”
+[scene] (p.249) Is grabbed by Ryūen, kicked toward the wall, then released after a warning about Suzune.
+[says] (p.250) “Are you satisfied with your time here, at this school?”
+[scene] (p.250) Leaves Ryūen’s room with his points and calls someone to report she has them.
+[rel:ryuuen-kakeru] (p.247–251) Visits him, recovers his private points, and receives a warning.
+[rel:ishizaki-daichi] (p.242, 246) Goes with him to talk and agrees to recover the points.
+[rel:manabe-shiho] (p.241) Provoked by her after Ryūen leaves.
+
+<!-- walk: y1v10 Ch6 → p.285 -->

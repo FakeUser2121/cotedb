@@ -1204,3 +1204,21 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:asahina-nazuna] (p.96) Greets Asahina before leaving.
 
 <!-- walk: y1v10 Ch3 → p.147 -->
+
+### y1v10 pp.252–256 — Ch.6: Saving Class B
+
+[scene] (p.252) After school on Friday, Ichinose stands at the podium and thanks Class B for honoring her request to stay together.
+[scene] (p.253) Hoshinomiya worries that someone’s expulsion could damage the class, but Ichinose says she will not let anyone be expelled.
+[says] (p.253) “I imagine everyone is quite worried, but I’d like you all to feel at ease. I won’t let a single one of us be expelled.”
+[scene] (p.253) Responds to Kanzaki’s concern by saying she will act now that she has the power to change things.
+[says] (p.253) “It’s fine. Kanzaki-kun, you once told me that if somebody has the power to change things, they’re nothing more than a fool if they don’t make use of it, right? That’s why I’ve been reflecting on what I could do for all of you.”
+[scene] (p.254) Explains the plan: collect all private points to pay the 20 million override and says the class is about four million short.
+[scene] (p.255) Says she asked student council president Nagumo for the remainder with no interest and a three-month repayment period.
+[says] (p.255) “From student council president Nagumo. When I brought our situation up with him, he told me he’d be willing to supply the rest.”
+[scene] (p.256) Reassures the class that none of them will be expelled.
+[rel:kanzaki-ryuuji] (p.253, 255–256) He questions her plan and she is grateful for his support.
+[rel:shibata-sou] (p.253–254) Supports her and transfers his points.
+[rel:hoshinomiya-chie] (p.252–253) Her teacher worries but listens as Ichinose addresses the class.
+[rel:nagumo-miyabi] (p.255) Borrows the remaining private points from him with no interest.
+
+<!-- walk: y1v10 Ch6 → p.285 -->

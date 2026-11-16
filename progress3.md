@@ -1718,3 +1718,7 @@ hash: `be8ab39d1e86f26dbe3599d47cc1e77b`.
 Year 1 Volume 10 Chapter 5 (pp.182–237) walked. Horikita nominates
 Yamauchi after Manabu meeting; class confrontation and Hirata collapse.
 Determinism hash: `aaa0b75f5ebaa1f61be711b06f172d64`.
+
+Year 1 Volume 10 Chapter 6 (pp.238–285) walked. Other classes’ strategies:
+Ryūen accepts expulsion, Ichinose borrows from Nagumo, Sakayanagi targets
+Ayanokōji via Yamauchi. Determinism hash: `7aa085ff7ff7095818de72975c7ca518`.

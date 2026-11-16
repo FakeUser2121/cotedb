@@ -1510,3 +1510,17 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:horikita-suzune] (p.65) Says her class made her complacent.
 
 <!-- walk: y1v10 Ch2 → p.84 -->
+
+### y1v10 pp.239–246 — Ch.6: Accepting expulsion
+
+[scene] (p.239) Understands Ishizaki is under pressure as the one credited with defeating him and decides not to resist the class’s vote to expel him.
+[scene] (p.240) Leaves the classroom right after school, not wanting to waste time before the exam ends.
+[scene] (p.247) Receives a visit from Ibuki; appears from the bath in boxers.
+[says] (p.248) “Kuku. I just got out of the bath, come in.”
+[scene] (p.248) Transfers all his private points to Ibuki after she demands them.
+[says] (p.248) “Kuku, well aren’t you the smart one. Whatever, take em. They’re useless to me anyway.”
+[scene] (p.249) Grabs Ibuki when she tries to leave, then lets go and tells her to say goodbye.
+[scene] (p.250) When Ibuki asks if he is satisfied with his time at school, he is silent; Ibuki leaves.
+[rel:ibuki-mio] (p.247–251) Meets her in his room and transfers private points to her before her departure.
+
+<!-- walk: y1v10 Ch6 → p.285 -->

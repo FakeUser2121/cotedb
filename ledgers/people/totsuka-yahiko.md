@@ -215,3 +215,14 @@ char_id: totsuka-yahiko · class: Class 1-A (enrolled April 2015) · status: min
 [rel:katsuragi-kouhei] (p.125) Still follows him despite Sakayanagi’s decision.
 
 <!-- walk: y1v10 Ch3 → p.147 -->
+
+### y1v10 pp.263–265 — Ch.6: Defending Katsuragi
+
+[scene] (p.263) Protests when Sakayanagi nominates Katsuragi for expulsion.
+[says] (p.263) “Wha… What do you mean!? That doesn’t seem fair!”
+[scene] (p.264) Tries to argue against the expulsion by citing the contract’s benefits and possible Ryūen expulsion.
+[scene] (p.265) Begs Katsuragi not to be expelled and is told to follow Sakayanagi afterward; leaves frustrated.
+[rel:katsuragi-kouhei] (p.263–265) Defends him and is advised by him to align with Sakayanagi.
+[rel:sakayanagi-arisu] (p.263–264) Opposes her decision to expel Katsuragi.
+
+<!-- walk: y1v10 Ch6 → p.285 -->

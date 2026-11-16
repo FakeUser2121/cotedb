@@ -658,3 +658,18 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [rel:totsuka-yahiko] (p.125) Yahiko still follows him but is outnumbered.
 
 <!-- walk: y1v10 Ch3 → p.147 -->
+
+### y1v10 pp.262–265 — Ch.6: Class A votes him out
+
+[scene] (p.262) At Mashima’s class time, Sakayanagi nominates him for expulsion; he remains silent with arms crossed.
+[scene] (p.263) Totsuka protests but Katsuragi rejects the attempt to speak for him.
+[says] (p.263) “Stop it, Yahiko.”
+[scene] (p.264) Explains his expulsion is responsibility for the secret contract with Class D that has been sending private points to Ryūen.
+[says] (p.264) “I fully intend to accept what’s coming to me.”
+[scene] (p.265) Tells Totsuka to align with Sakayanagi after he is gone and warns him not to oppose her.
+[says] (p.265) “That said, after I’m gone, you should align yourself with Sakayanagi. If you foolishly go against her, her next target will be you, Yahiko.”
+[status] (p.262–265) Voted for expulsion by Class A (37 in favor, excluding Katsuragi, Totsuka, Sakayanagi).
+[rel:sakayanagi-arisu] (p.262–265) Is nominated by her and accepts the outcome.
+[rel:totsuka-yahiko] (p.263–265) Tries to defend him; he restrains and advises him.
+
+<!-- walk: y1v10 Ch6 → p.285 -->

@@ -552,3 +552,29 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:ayanokouji-kiyotaka] (p.180–181) Her support of Yamauchi targets him.
 
 <!-- walk: y1v10 Ch4 → p.181 -->
+
+### y1v10 pp.262–285 — Ch.6: Orchestrating Yamauchi and Class A’s decision
+
+[scene] (p.262) In Class A, nominates Katsuragi Kōhei for expulsion and leads the vote.
+[says] (p.262) “For this exam, I think it’d be wonderful if we had Katsuragi-kun take his exit.”
+[scene] (p.263) Confirms the unanimous approval of Class A (except Totsuka, Katsuragi, herself) to expel Katsuragi.
+[scene] (p.266) Calls Yamauchi after school and arranges to meet him later that night.
+[scene] (p.270) Meets Yamauchi at Keyaki Mall karaoke with Kamuro; uses a gentle persona to manipulate him.
+[says] (p.271) “If you got expelled, we wouldn’t be able to meet like this anymore. That… That’s the one thing I absolutely don’t want to have happen.”
+[scene] (p.273) Offers to have Class A give Yamauchi praise votes and instructs him to target Ayanokōji.
+[says] (p.273) “There are about twenty people who follow me in Class A. I’ll have all of them use their praise votes on you, Yamauchi-kun.”
+[scene] (p.274) Promises another meeting and tells Yamauchi not to reveal the vote plan.
+[scene] (p.276) After frantically reassuring her about trust, warns him that eavesdropping or recording will end their relationship.
+[scene] (p.282) Learns Horikita exposed her collaboration with Yamauchi; discusses the leak (Karuizawa) with Kamuro, Hashimoto, and Kitō.
+[scene] (p.283) Says she allowed Karuizawa into Yamauchi’s group to see how Ayanokōji would react and to test him.
+[says] (p.284) “Should it know that it’s become someone’s prey, even a herbivore will try to fight for it’s life if it comes down to it.”
+[scene] (p.285) Turns off her phone to avoid Yamauchi’s messages, saying she forgot to mention an important story about him.
+[rel:katsuragi-kouhei] (p.262–265) Nominates and secures his expulsion from Class A.
+[rel:totsuka-yahiko] (p.263–265) Overrides his protests.
+[rel:yamauchi-haruki] (p.266–276) Manipulates him into targeting Ayanokōji and promises support.
+[rel:kamuro-masumi] (p.266–285) Meets Yamauchi with her and discusses the plan.
+[rel:hashimoto-masayoshi] (p.282–284) Debates the Karuizawa leak and strategy.
+[rel:kitou-hayato] (p.282) Present at the discussion.
+[rel:mashima-tomonari] (p.262–263) Her homeroom teacher oversees the Class A vote.
+
+<!-- walk: y1v10 Ch6 → p.285 -->
