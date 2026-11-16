@@ -941,3 +941,16 @@ aliases used for anchors: sakura, airi, sakura-san
 [scene] (p.168) Told to stay behind with Haruka while the others go to Class B; the two settle in to finish lunch.
 
 <!-- walk: y1v9 ch7 → p.175 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->
+
+### y1v10 pp.30–84 — Ch.2: The Class Vote
+
+[scene] (p.53) Airi shakes her head anxiously at the thought of expulsion.
+[scene] (p.54) Airi worries about being targeted; says she’s no help to the class.
+[scene] (p.59) Airi speaks in defense of Kōenji.
+[scene] (p.64) Airi asks about Ryūen’s situation.
+
+<!-- walk: y1v10 Ch2 → p.84 -->

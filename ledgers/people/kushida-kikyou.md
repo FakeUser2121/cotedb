@@ -1397,3 +1397,14 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:ayanokouji-kiyotaka] (p.186–195) Negotiates for her secrets; accepts half his future private points and provides both recordings as insurance.
 
 <!-- walk: y1v9 Epilogue → p.200 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->
+
+### y1v10 pp.30–84 — Ch.2: The Class Vote
+
+[scene] (p.37) Kushida mentioned as someone who hates Horikita; her influence could be problematic.
+[scene] (p.42) Kushida mentioned as someone who could be put in a position to cast censure votes for Horikita.
+
+<!-- walk: y1v10 Ch2 → p.84 -->

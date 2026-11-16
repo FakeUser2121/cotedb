@@ -1490,3 +1490,23 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:sakayanagi-arisu] (p.232–236) Sakayanagi visits him; they discuss the point contract and his status.
 
 <!-- walk: y1v9 Short Stories → p.238 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->
+
+### y1v10 pp.30–84 — Ch.2: The Class Vote
+
+[scene] (p.58) Ryūen reads a book alone in Class D; Ayanokōji Group observes him.
+[scene] (p.60) Horikita visits Ryūen; he claims he could survive if he wanted.
+[says] (p.61) “I make for a good target for the whole lot.”
+[scene] (p.65) Ryūen sees through Horikita’s weakness; says her class made her complacent.
+[note] (p.72) Ryūen tells Horikita the class has made her complacent and she could not be ruthless enough to choose; he says she would have had to avoid lingering attachments from the start or treat classmates like chess pieces like Sakayanagi (pp.72, 78).
+[scene] (p.68) Ryūen reveals he accepted his defeat by Ishizaki; Horikita provokes him.
+[says] (p.68) “It’s Ishizaki’s reward as the one who defeated me, so I plan on sitting back and accepting it.”
+[scene] (p.71) Ryūen says Horikita is bluffing about steeling her resolve.
+[scene] (p.73) Horikita says Ryūen is doomed; Ayanokōji agrees.
+[rel:horikita-suzune] (p.58–74) Horikita visits him; he sees through her weakness.
+[rel:horikita-suzune] (p.65) Says her class made her complacent.
+
+<!-- walk: y1v10 Ch2 → p.84 -->

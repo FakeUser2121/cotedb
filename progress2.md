@@ -2679,3 +2679,30 @@ Closing stamp added to ledgers/volumes/y1v9.md.
 
 verify y1v9: 83 [says] ALL PASS + non-says ALL PASS; make check OK
 (R18 0, R19 82/82); gate exit 0; hash stable. Next: ship.
+### y1v10 Prologue + Chapter 1 — walked, shipped
+
+Prologue: The Monologue of Yōsuke Hirata (pp.6–10) and Chapter 1: The
+Calm Before the Storm (pp.11–29). Exam results (no expulsions, Sudō
+improvement, Keisei first/Kōenji second/Horikita third, Class C 3rd
+average), next special exam March 8 announced, hallway encounter with
+Nagumo/Manabu, Nagumo invites Horikita Suzune to student council
+(rejected). Ledgers touched: hirata-yousuke, horikita-suzune,
+chabashira-sae, ayanokouji-kiyotaka, nagumo-miyabi, horikita-manabu,
+ike-kanji, sudou-ken, yamauchi-haruki, hondou-ryoutaro, satou-maya,
+inogashira-kokoro, yukimura-teruhiko, kouenji-rokusuke,
+ledgers/volumes/y1v10.md (created). verify y1v10: ALL PASS; make check
+OK; gate exit 0.
+
+### y1v10 Chapter 2 — walked, shipped
+
+Chapter 2: "The Class Vote" (pp.30–84). Supplementary exam announced:
+Class Poll (3 praise/3 censure votes, last place expelled, protection
+point for top, 20M point override, cross-class praise vote). Ayanokōji
+Group strategy, Ryūen encounter with Horikita, Kei phone call. Ledgers
+touched: hirata-yousuke, horikita-suzune, chabashira-sae,
+ayanokouji-kiyotaka, kouenji-rokusuke, ryuuen-kakeru, karuizawa-kei,
+ike-kanji, sudou-ken, yamauchi-haruki, yukimura-teruhiko,
+hasebe-haruka, miyake-akito, sakura-airi, kushida-kikyou,
+ledgers/volumes/y1v10.md. Ryūen quote spanning p.72/78 recorded as
+[note] due to page-break split in corpus. verify y1v10: ALL PASS; make
+check OK; gate exit 0. Next: ch3 pp.85–147.

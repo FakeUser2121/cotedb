@@ -887,3 +887,27 @@ aliases used for anchors: ike, kanji, ike-kun
 [says] (p.167) “Something’s going down! A bunch of students from Class A marched into Class B just now!”
 
 <!-- walk: y1v9 ch7 → p.175 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->
+
+### y1v10 pp.12–19 — Ch.1: Exam results
+
+[scene] (p.12) Ike came last in the exam; Chabashira comments on his improvement.
+[says] (p.12) “Sensei, are you gonna announce the results now!?”
+[scene] (p.14) Ike jokes around after passing; Chabashira warns about the next exam.
+[rel:horikita-suzune] (p.12) Horikita tutored the class; Ike’s score was just above the red line.
+
+<!-- walk: y1v10 Prologue+Ch1 → p.29 -->
+
+### y1v10 pp.30–84 — Ch.2: The Class Vote
+
+[scene] (p.31) Ike panics about the supplementary exam.
+[says] (p.31) “What do we do!? What do we do!? This is a seriously terrible exam, isn’t it!?”
+[scene] (p.42) Ike argues with Kōenji; Hirata mediates.
+[scene] (p.48) Ike jokes that Hirata is safe from expulsion.
+[scene] (p.57) Identified as a likely censure target by the Ayanokōji Group.
+[scene] (p.61) Ike, Yamauchi, Sudō expected to form a small group.
+
+<!-- walk: y1v10 Ch2 → p.84 -->

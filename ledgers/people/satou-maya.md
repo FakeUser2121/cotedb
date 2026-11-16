@@ -272,3 +272,13 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [rel:ayanokouji-kiyotaka] (p.229–231) Asks him for advice about Hirata.
 
 <!-- walk: y1v9 Short Stories → p.238 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->
+
+### y1v10 pp.12–19 — Ch.1: Exam results
+
+[scene] (p.15) Satō mentioned among the lowest scorers (Hondō, Satō, Inogashira after Yamauchi).
+
+<!-- walk: y1v10 Prologue+Ch1 → p.29 -->

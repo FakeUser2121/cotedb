@@ -741,3 +741,23 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [rel:sakayanagi-arisu] (p.237–238) Sakayanagi approaches him with an invitation.
 
 <!-- walk: y1v9 Short Stories → p.238 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->
+
+### y1v10 pp.12–19 — Ch.1: Exam results
+
+[scene] (p.12) Yamauchi came second-to-last; just above Ike.
+[says] (p.15) “I only studied a little bit the day before and I still managed to pass.”
+[scene] (p.15) Yamauchi and Ike joke around after passing.
+
+<!-- walk: y1v10 Prologue+Ch1 → p.29 -->
+
+### y1v10 pp.30–84 — Ch.2: The Class Vote
+
+[scene] (p.48) Yamauchi jokes that Hirata is safe from expulsion.
+[scene] (p.57) Identified as a likely censure target by the Ayanokōji Group.
+[scene] (p.61) Ike, Yamauchi, Sudō expected to form a small group.
+
+<!-- walk: y1v10 Ch2 → p.84 -->

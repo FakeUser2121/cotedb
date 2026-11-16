@@ -1168,3 +1168,18 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:ayanokouji-kiyotaka] (p.201, 224–225) Secret meeting and chocolate exchange; later gives him Valentine chocolate.
 
 <!-- walk: y1v9 Epilogue → p.225 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->
+
+### y1v10 pp.30–84 — Ch.2: The Class Vote
+
+[scene] (p.75) Karuizawa calls Ayanokōji; she has a group of seven girls.
+[says] (p.75) “Yeah so, this exam. What should I be doing?”
+[scene] (p.76) Ayanokōji advises her to keep a low profile.
+[scene] (p.78) Karuizawa and Ayanokōji discuss likely censure targets.
+[says] (p.78) “Out of the whole class, I’d say that the three idiots and Kōuenji-kun are all kinda terrible, right?”
+[rel:ayanokouji-kiyotaka] (p.75–79) Phone call; she has seven-girl group; he advises low profile.
+
+<!-- walk: y1v10 Ch2 → p.84 -->

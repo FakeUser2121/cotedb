@@ -402,3 +402,24 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [rel:ichinose-honami] (p.218) She thanks him; he is displeased with Ayanokōji’s interference.
 
 <!-- walk: y1v9 Epilogue → p.225 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->
+
+### y1v10 pp.12–29 — Ch.1: Exam results and the hallway encounter
+
+[scene] (p.14) Nagumo and Manabu are seen talking in the hallway; Nagumo spots Ayanokōji.
+[scene] (p.15) Nagumo tests Ayanokōji about the forum rumors; Manabu backs Ayanokōji up.
+[says] (p.15) “In order to divert attention away from the slander that had been going around about Ichinose Honami, it seems that someone went and posted a bunch of rumors about various first-year students on the school forums.”
+[scene] (p.18) Nagumo invites Horikita Suzune to the student council; she rejects.
+[says] (p.18) “If it’s my senpai’s little sister, I can have her take over as the student council president after I graduate.”
+[scene] (p.20) Nagumo tells Manabu to cherish time with his sister; Manabu leaves.
+[says] (p.20) “I would cherish the time I have left with my little sister if I were you.”
+[scene] (p.21) Nagumo says taking down Manabu is his only objective.
+[says] (p.21) “Of course. Taking down Horikita-senpai is the only objective I have left at this school.”
+[rel:horikita-manabu] (p.14–21) Nagumo competes with Manabu; says taking him down is his only objective.
+[rel:horikita-suzune] (p.18) Invites her to the student council; she rejects.
+[rel:ayanokouji-kiyotaka] (p.14–15) Tests Ayanokōji about forum rumors.
+
+<!-- walk: y1v10 Prologue+Ch1 → p.29 -->

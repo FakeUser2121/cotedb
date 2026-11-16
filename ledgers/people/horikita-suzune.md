@@ -2929,3 +2929,44 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:sakayanagi-arisu] (p.181) Notes her strategy backfired.
 
 <!-- walk: y1v9 Epilogue → p.200 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->
+
+### y1v10 pp.6–10 — Prologue: Hirata’s monologue
+
+[scene] (p.7) Hirata tells Horikita to shut up; classmates including Horikita-san look at him strangely.
+[says:hirata-yousuke] (p.7) “Horikita… can you shut up a bit.”
+[rel:hirata-yousuke] (p.7–8) Looks at him strangely after his outburst.
+
+### y1v10 pp.12–29 — Ch.1: Exam results and the hallway encounter
+
+[scene] (p.12) Exam results announced; Horikita came third; she tutored Sudō in English.
+[scene] (p.18) Nagumo invites her to the student council; she rejects; Nagumo declares he will be actively involved with her.
+[scene] (p.22) Asks Ayanokōji what Nagumo and Manabu discussed; Ayanokōji tells her to face her brother.
+[says] (p.23) “You don’t understand anything. There’s no way that my brother would look after me.”
+[thinks] (p.23) She enrolled in the same school to watch over her brother; she becomes docile and meek in front of him.
+[rel:hirata-yousuke] (p.22–23) He tells her to face her brother before he graduates; she refuses.
+[rel:nagumo-miyabi] (p.18) Nagumo invites her to the student council; she rejects.
+[rel:horikita-manabu] (p.23) She says there’s no way her brother would look after her.
+
+<!-- walk: y1v10 Prologue+Ch1 → p.29 -->
+
+### y1v10 pp.30–84 — Ch.2: The Class Vote
+
+[scene] (p.32) Chabashira announces “The Class Poll”; Horikita proposes fixing votes equally.
+[scene] (p.37) Chabashira says fixing votes is impossible (revote if all zero).
+[scene] (p.42) Kōenji provokes Sudō; Horikita silences him.
+[scene] (p.50) Horikita and Ayanokōji discuss the cruelty of the exam.
+[scene] (p.58) Horikita visits Ryūen; he claims he could survive if he wanted.
+[scene] (p.65) Ryūen sees through Horikita’s weakness; says her class made her complacent.
+[scene] (p.70) Ryūen reveals he accepted defeat by Ishizaki; Horikita provokes him.
+[scene] (p.73) Horikita says Ryūen is doomed; Ayanokōji agrees.
+[thinks] (p.23) She enrolled to watch over her brother; becomes docile in front of him.
+[thinks] (p.50) The exam is cruel; the class had always cooperated until now.
+[rel:hirata-yousuke] (p.37–50) He mediates conflicts; she silences Sudō.
+[rel:ryuuen-kakeru] (p.58–74) Visits him; he sees through her weakness.
+[rel:ayanokouji-kiyotaka] (p.50, 73) Discusses exam cruelty; leaves with him.
+
+<!-- walk: y1v10 Ch2 → p.84 -->

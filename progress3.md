@@ -1702,3 +1702,7 @@ Reliable Classmates (Satō), Sakayanagi's Preparations. Coverage gate:
 all 51 roster characters checked, passing mentions recorded, closing
 stamp added. Determinism hash across consecutive builds:
 `8703cdda39e154c3aaf10f8287cf8199`.
+Year 1 Volume 10 walk started: Prologue (pp.6–10), Chapter 1 (pp.11–29),
+Chapter 2 (pp.30–84). Volume ledger created. Supplementary exam "The
+Class Vote" announced (March 2, exam March 8). Determinism hash across
+consecutive builds: `1a8afb9b6b224ad5ea2f225cf210ee72`.

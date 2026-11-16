@@ -1333,3 +1333,63 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [scene] (p.168) Follows Horikita out of the classroom when she runs for Class B, with Sudō and others.
 
 <!-- walk: y1v9 ch7 → p.175 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->
+
+### y1v10 pp.6–10 — Prologue: Hirata’s monologue
+
+[scene] (p.6) Hirata’s first-person retrospective: protecting his class became his duty; he was originally a shadow, like Ayanokōji.
+[thinks] (p.6) To protect my important friends, I have to protect the class. If I can protect the class, I can protect my friends.
+[back] (p.6) A childhood friend was bullied without him noticing and attempted suicide; that day changed his life.
+[thinks] (p.7) The class was being pinned down because they were making the wrong choices. The fights within the class itself have disappeared, but at the same time, so did the smiles.
+[scene] (p.7) The scene shows classmates watching him with surprise; he tells Horikita to shut up.
+[says] (p.7) “Horikita… can you shut up a bit.”
+[scene] (p.8) Vulgar and full of violence; classmates including Horikita-san look at him strangely.
+[scene] (p.10) At the very end of this worst special exam; “I, I—”
+[rel:horikita-suzune] (p.7–8) Tells Horikita to shut up; she looks at him strangely.
+
+### y1v10 pp.12–29 — Ch.1: Exam results and the hallway encounter
+
+[scene] (p.12) Exam results announced; Chabashira praises the class; no expulsions.
+[scene] (p.13) Chabashira reveals next special exam on March 8; Hirata encourages the class.
+[says] (p.13) “Let’s all work together and try our best. If we do, our class should be able to aim for class A without anyone being expelled.”
+[scene] (p.14) Hirata and Horikita encounter Nagumo and Manabu in the hallway; Nagumo tests Ayanokōji about forum rumors.
+[scene] (p.18) Nagumo invites Horikita Suzune to the student council; she rejects.
+[scene] (p.22) Horikita asks what Nagumo and Manabu discussed; Ayanokōji tells her to face her brother.
+[says:horikita-suzune] (p.23) “You don’t understand anything. There’s no way that my brother would look after me.”
+[rel:horikita-suzune] (p.22–23) Tells her to face her brother before he graduates; she refuses.
+[rel:nagumo-miyabi] (p.14–20) Present during Nagumo’s encounter with Manabu and Horikita.
+[rel:horikita-manabu] (p.14–21) Present during Nagumo’s conversation with Manabu.
+
+<!-- walk: y1v10 Prologue+Ch1 → p.29 -->
+
+### y1v10 pp.30–84 — Ch.2: The Class Vote
+
+[scene] (p.31) Chabashira announces the supplementary exam; the class is tense.
+[scene] (p.32) “The Class Poll” — each student casts 3 praise and 3 censure votes; last place expelled.
+[scene] (p.33) Protection points as reward for top student; censure votes determine last place.
+[scene] (p.36) Hirata asks about abstention; Chabashira says it’s prohibited.
+[scene] (p.37) Horikita proposes fixing the vote by spreading votes equally; Chabashira says it’s impossible (revote if all zero).
+[scene] (p.42) Kōenji provokes Sudō; Hirata mediates.
+[scene] (p.48) Horikita silences Sudō; Kōenji claims hidden strength matters.
+[scene] (p.50) Horikita and Ayanokōji discuss the cruelty of the exam.
+[scene] (p.52) Ayanokōji Group at cafe: Keisei proposes mutual praise votes among five.
+[scene] (p.54) Airi worries about being targeted; Keisei says to avoid standing out.
+[scene] (p.57) Keisei identifies Kōenji, Ike, Yamauchi, Sudō as likely censure targets.
+[scene] (p.58) Group discusses Ryūen’s hopeless situation.
+[scene] (p.60) Horikita visits Ryūen; he claims he could survive if he wanted.
+[scene] (p.65) Ryūen sees through Horikita’s weakness; says her class made her complacent.
+[scene] (p.70) Ryūen reveals he accepted his defeat by Ishizaki; Horikita provokes him.
+[scene] (p.73) Horikita and Ayanokōji leave; she says Ryūen is doomed.
+[scene] (p.75) Kei calls Ayanokōji; she has a group of seven girls; he advises low profile.
+[scene] (p.78) Kei and Ayanokōji discuss likely censure targets.
+[scene] (p.79) Ayanokōji intends to accept whatever outcome the class reaches.
+[rel:horikita-suzune] (p.37–50) Horikita proposes vote strategy; silences Sudō; discusses cruelty of exam with Ayanokōji.
+[rel:kouenji-rokusuke] (p.42–48) Kōenji provokes Sudō; claims hidden strength.
+[rel:ryuuen-kakeru] (p.58–74) Horikita visits Ryūen; he sees through her; accepts defeat.
+[rel:karuizawa-kei] (p.75–79) Phone call; she has seven-girl group; he advises low profile.
+[rel:yukimura-teruhiko] (p.52–57) Keisei proposes mutual praise votes.
+
+<!-- walk: y1v10 Ch2 → p.84 -->

@@ -664,3 +664,25 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [says] (p.167) “You’ve all spent a lot of time studying this past week. Since today is the last day before the real thing, I’d prefer it if all of you took a break.”
 
 <!-- walk: y1v9 ch7 → p.175 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->
+
+### y1v10 pp.12–19 — Ch.1: Exam results
+
+[scene] (p.15) Keisei came first in the exam; praised for diligence.
+
+<!-- walk: y1v10 Prologue+Ch1 → p.29 -->
+
+### y1v10 pp.30–84 — Ch.2: The Class Vote
+
+[scene] (p.52) Keisei proposes mutual praise votes among the Ayanokōji Group.
+[says] (p.52) “Why don’t we come together and vote for each other?”
+[scene] (p.54) Keisei says to avoid standing out; large groups are risky.
+[scene] (p.57) Keisei identifies Kōenji, Ike, Yamauchi, Sudō as likely censure targets.
+[scene] (p.60) Keisei says Kōenji is an unnecessary student.
+[scene] (p.62) Keisei argues Ryūen cannot survive; Horikita visits him.
+[rel:ayanokouji-kiyotaka] (p.52–57) Proposes mutual praise votes; identifies censure targets.
+
+<!-- walk: y1v10 Ch2 → p.84 -->

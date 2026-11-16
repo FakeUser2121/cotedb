@@ -1282,3 +1282,26 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [scene] (p.168) Follows Horikita out of the classroom the moment she runs, with Hirata and a few others behind them.
 
 <!-- walk: y1v9 ch7 → p.175 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->
+
+### y1v10 pp.12–19 — Ch.1: Exam results
+
+[scene] (p.13) Sudō shows confidence; Chabashira praises his improvement; he came just above Inogashira.
+[says] (p.13) “I’m confident at the very least. I absolutely won’t get a failing grade.”
+[scene] (p.13) Chabashira notes Sudō improved more than anyone; his weakest subject was English.
+[rel:horikita-suzune] (p.13) Horikita tutored him; his English improved substantially.
+
+<!-- walk: y1v10 Prologue+Ch1 → p.29 -->
+
+### y1v10 pp.30–84 — Ch.2: The Class Vote
+
+[scene] (p.42) Sudō argues with Kōenji; Hirata mediates.
+[says] (p.42) “You selfishly abstained from both the uninhabited island exam and the athletics festival!”
+[scene] (p.48) Sudō slams his fist; Horikita silences him.
+[scene] (p.57) Identified as a likely censure target by the Ayanokōji Group.
+[scene] (p.61) Sudō, Ike, Yamauchi expected to form a small group.
+
+<!-- walk: y1v10 Ch2 → p.84 -->

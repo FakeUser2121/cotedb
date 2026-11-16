@@ -47,3 +47,14 @@ char_id: inogashira-kokoro · class: Class 1-D · status: minor
 [note] (p.83) Only the name on the partner list; no dialogue or action on these pages.
 
 <!-- walk: y1v6 ch5 → p.131 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->
+
+### y1v10 pp.12–19 — Ch.1: Exam results
+
+[scene] (p.13) Inogashira mentioned; Sudō came just above Inogashira.
+[scene] (p.15) Inogashira mentioned among the lowest scorers.
+
+<!-- walk: y1v10 Prologue+Ch1 → p.29 -->

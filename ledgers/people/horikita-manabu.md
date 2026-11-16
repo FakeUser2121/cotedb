@@ -607,3 +607,22 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [rel:kushida-kikyou] (p.165) Asks after Kushida by name and accepts that she has been handled.
 
 <!-- walk: y1v9 ch7 → p.175 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->
+
+### y1v10 pp.12–29 — Ch.1: Exam results and the hallway encounter
+
+[scene] (p.14) Manabu and Nagumo are seen talking in the hallway; Ayanokōji encounters them.
+[scene] (p.15) Manabu backs Ayanokōji up against Nagumo’s questioning.
+[says] (p.16) “It’s as Ayanokōji says, Nagumo. You should refrain from saying anything too carelessly.”
+[scene] (p.18) Nagumo invites Horikita Suzune to the student council; Manabu dismisses the idea.
+[says] (p.18) “Don’t use blood relationships as a means to evaluate somebody’s capabilities.”
+[scene] (p.20) Nagumo tells Manabu to cherish time with his sister; Manabu leaves.
+[scene] (p.21) Nagumo says taking down Manabu is his only objective.
+[rel:nagumo-miyabi] (p.14–21) Nagumo competes with him; says taking him down is his only objective.
+[rel:horikita-suzune] (p.18) Dismisses the idea of evaluating her by blood relationship.
+[rel:ayanokouji-kiyotaka] (p.15–16) Backs Ayanokōji up against Nagumo.
+
+<!-- walk: y1v10 Prologue+Ch1 → p.29 -->

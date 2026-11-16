@@ -349,3 +349,16 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [rel:ayanokouji-kiyotaka] (p.181) Informed of the Ichinose rumors and the school’s ban.
 
 <!-- walk: y1v9 Epilogue → p.200 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->
+
+### y1v10 pp.30–84 — Ch.2: The Class Vote
+
+[scene] (p.52) Akito agrees with Keisei about going against other classes.
+[scene] (p.60) Akito says Kōenji is an unnecessary student.
+[scene] (p.62) Akito says he would give up if in Ryūen’s shoes.
+[scene] (p.64) Akito says Ryūen is doing all he can to put up a calm front.
+
+<!-- walk: y1v10 Ch2 → p.84 -->

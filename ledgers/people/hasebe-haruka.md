@@ -365,3 +365,18 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [rel:ayanokouji-kiyotaka] (p.181) Informed of the Ichinose rumors and the school’s ban.
 
 <!-- walk: y1v9 Epilogue → p.200 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->
+
+### y1v10 pp.30–84 — Ch.2: The Class Vote
+
+[scene] (p.52) Haruka sighs about the exam; discusses with Ayanokōji Group.
+[scene] (p.53) Haruka notes the school wants expulsions.
+[scene] (p.58) Haruka asks about Ryūen’s situation.
+[scene] (p.64) Haruka says it’s pitiful Ryūen might be forced out.
+[scene] (p.65) Haruka asks Ayanokōji to check on Horikita visiting Ryūen.
+[rel:ayanokouji-kiyotaka] (p.52–65) Discusses exam strategy; asks him to watch over Horikita.
+
+<!-- walk: y1v10 Ch2 → p.84 -->

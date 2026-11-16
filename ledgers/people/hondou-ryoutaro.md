@@ -26,3 +26,13 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 [limit] (p.141) One of the three victims whose denials still leave the classroom unsure.
 
 <!-- walk: y1v9 ch6 → p.150 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->
+
+### y1v10 pp.12–19 — Ch.1: Exam results
+
+[scene] (p.15) Hondō mentioned among the lowest scorers (Hondō, Satō, Inogashira after Yamauchi).
+
+<!-- walk: y1v10 Prologue+Ch1 → p.29 -->

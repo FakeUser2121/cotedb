@@ -572,3 +572,27 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [note] (p.20–22) Kōenji does not appear in person; rows record how Sakayanagi and Nagumo discuss his strategy.
 
 <!-- walk: y1v9 ch1 → p.25 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->
+
+### y1v10 pp.12–19 — Ch.1: Exam results
+
+[scene] (p.15) Kōenji came second; his test results fluctuate; possibly slacking off when not worth his time.
+
+<!-- walk: y1v10 Prologue+Ch1 → p.29 -->
+
+### y1v10 pp.30–84 — Ch.2: The Class Vote
+
+[scene] (p.42) Kōenji provokes Sudō; claims unnecessary students should be removed.
+[says] (p.43) “Wrong. This special exam has its sights undoubtedly set upon the next two years.”
+[scene] (p.45) Kōenji claims hidden strength matters; he can do anything if he tries.
+[says] (p.45) “If you want to know, it’s because I am amazing.”
+[scene] (p.46) Kōenji argues students without ability should strive to turn over a new leaf.
+[scene] (p.48) Kōenji ignored by Sudō; Horikita silences Sudō.
+[scene] (p.60) Identified as a likely censure target by the Ayanokōji Group.
+[scene] (p.66) Keisei says Kōenji is an unnecessary student; easy to vote against.
+[rel:sudou-ken] (p.42–48) Provokes Sudō; argues unnecessary students should be removed.
+
+<!-- walk: y1v10 Ch2 → p.84 -->

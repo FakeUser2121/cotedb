@@ -892,3 +892,27 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:ichinose-honami] (p.180) Intervenes to stop the rumors against her.
 
 <!-- walk: y1v9 Epilogue → p.200 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->
+
+### y1v10 pp.12–29 — Ch.1: Exam results and the hallway encounter
+
+[scene] (p.12) Announces exam results; red line of fate; zero expulsions; praises the class.
+[says] (p.13) “Everyone. This next special exam will be the last one this year.”
+[scene] (p.13) Reveals next special exam on March 8; watches Hirata encourage the class.
+[scene] (p.14) Present in hallway during Nagumo-Manabu conversation (not directly involved).
+[rel:horikita-suzune] (p.12) Horikita came third; tutored Sudō in English.
+
+<!-- walk: y1v10 Prologue+Ch1 → p.29 -->
+
+### y1v10 pp.30–84 — Ch.2: The Class Vote
+
+[scene] (p.31) Announces the supplementary exam; the class is tense.
+[scene] (p.32) Explains “The Class Poll” rules.
+[scene] (p.36) Explains abstention is prohibited; 20 million points can override expulsion.
+[scene] (p.37) Explains revote if all totals are zero.
+[scene] (p.46) Explains protection points and 20 million point override.
+
+<!-- walk: y1v10 Ch2 → p.84 -->

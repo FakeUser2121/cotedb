@@ -4615,3 +4615,47 @@ walk: y1v1 → DONE
 [rel:kamuro-masumi] (p.226–228) Kamuro visits his room to test and assess him.
 
 <!-- walk: y1v9 Short Stories → p.238 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->
+
+### y1v10 pp.6–10 — Prologue: Hirata’s monologue
+
+[scene] (p.6) Mentioned by Hirata as someone he may be similar to — a shadow, not the center of class.
+
+### y1v10 pp.12–29 — Ch.1: Exam results and the hallway encounter
+
+[scene] (p.14) Encounters Nagumo and Manabu in the hallway; Nagumo tests him about forum rumors.
+[says] (p.15) “Well, I have no idea. But at the end of the day, they’ve caused me nothing but trouble.”
+[scene] (p.20) Horikita watches from a distance; Nagumo reveals he called her here.
+[scene] (p.22) Horikita asks what was discussed; he tells her to face her brother before he graduates.
+[says] (p.22) “Don’t you want to try and face him at least once before he graduates?”
+[rel:nagumo-miyabi] (p.14–20) Nagumo tests him about forum rumors; he deflects.
+[rel:horikita-manabu] (p.14–21) Manabu backs him up against Nagumo.
+[rel:horikita-suzune] (p.22–23) Tells her to face her brother; she refuses.
+
+<!-- walk: y1v10 Prologue+Ch1 → p.29 -->
+
+### y1v10 pp.30–84 — Ch.2: The Class Vote
+
+[scene] (p.31) Chabashira announces the supplementary exam; the class is tense.
+[scene] (p.42) Kōenji provokes Sudō; Hirata mediates.
+[scene] (p.50) Horikita and Ayanokōji discuss the cruelty of the exam.
+[scene] (p.52) Ayanokōji Group at cafe: Keisei proposes mutual praise votes.
+[scene] (p.57) Keisei identifies Kōenji, Ike, Yamauchi, Sudō as likely censure targets.
+[scene] (p.60) Horikita visits Ryūen; he claims he could survive if he wanted.
+[scene] (p.65) Ryūen sees through Horikita’s weakness.
+[scene] (p.70) Ryūen reveals he accepted defeat by Ishizaki.
+[scene] (p.73) Horikita says Ryūen is doomed; Ayanokōji agrees.
+[scene] (p.75) Kei calls Ayanokōji; she has a group of seven girls.
+[scene] (p.78) Kei and Ayanokōji discuss likely censure targets.
+[scene] (p.79) Ayanokōji intends to accept whatever outcome the class reaches.
+[thinks] (p.50) The exam is cruel; the class had always cooperated until now.
+[thinks] (p.79) He intends to accept whatever outcome the class reaches.
+[rel:horikita-suzune] (p.50, 73) Discusses exam cruelty; leaves with her.
+[rel:ryuuen-kakeru] (p.58–74) Horikita visits Ryūen; he sees through her.
+[rel:karuizawa-kei] (p.75–79) Phone call; she has seven-girl group.
+[rel:yukimura-teruhiko] (p.52–57) Keisei proposes mutual praise votes.
+
+<!-- walk: y1v10 Ch2 → p.84 -->
