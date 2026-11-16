@@ -295,3 +295,37 @@ Short, direct verdicts ("GO"): fold implications into the plan without
 re-litigating what is locked here. Be honest about tradeoffs. Show a sample and get
 approval before scaling. Plain language. Durable progress files over conversation
 memory. Present checkpoints as files with exact paths.
+
+## 14. Common mistakes to avoid (added after y1v9 walk)
+
+These are mistakes made during the y1v9 walk. Do not repeat them.
+
+1. **Match the heading dialect of the file you are editing.** The volume ledger
+   uses `### Chapter N: Title (pp. X–Y)` or `### Prologue: Title (pp. X–Y)`.
+   Person ledgers use `### y1v9 p.RANGE — label`. Never invent a new heading
+   format like `### y1v9 p.X–Y — Epilogue: ...`. Check the existing headings
+   in the file before writing new ones.
+
+2. **`[says]` is only for quoted lines.** A row tagged `[says]` must contain
+   a corpus-exact quotation in quotation marks. If the content is a description,
+   an observation, or paraphrase, use `[note]`, `[scene]`, or another
+   appropriate tag. Never use `[says]` for non-quoted text.
+
+3. **Coverage notes must list every passing mention.** After writing entries,
+   run the page locator for every roster character with the volume in their
+   volumes cell. Compare hit pages against cited pages. Every hit page that
+   is not a scene presence must be listed as a passing mention in the volume's
+   Coverage notes section. Do not skip this step or assume "it's just a mention."
+
+4. **Verify before shipping, not after.** Run `verify`, `build`, `gate`,
+   `make check`, and `hash` twice BEFORE committing. If any check fails, fix
+   the content first. Do not commit and then discover errors.
+
+5. **Read every page yourself.** Do not rely on the page locator to discover
+   content. The locator only knows published spellings and will miss misspelled
+   names. Read the pages, write entries from what you read, then use the
+   locator only for the coverage gate cross-check.
+
+6. **Check the file's existing format before appending.** Look at the last
+   3-5 sections of the file to understand the heading style, row format, and
+   stamp placement. Match it exactly.
