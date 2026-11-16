@@ -584,6 +584,7 @@ def service_worker(files):
     core = ["index.html", "assets/style.css", "assets/app.js", "assets/meta.js", "assets/fx.js"]
     warm = sorted(PAGES) + ["assets/search-index.js"]
     text = (ASSETS / "sw.js").read_text(encoding="utf-8")
+    h.update(text.encode("utf-8"))
     return (text.replace("__VERSION__", h.hexdigest()[:12])
             .replace("__CORE__", json.dumps(core)).replace("__WARM__", json.dumps(warm)))
 
