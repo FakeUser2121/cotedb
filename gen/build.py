@@ -485,7 +485,7 @@ def build_topics():
 def build_about():
     m = R.m
     body = f"""<h2 id="citations">Citations</h2>
-<p>A page reference such as <span class="pg">p.47</span> is the printed page in the English edition. It is plain text, never a link: nothing opens when you click it. The volume is named next to it, as in <span class="pg">Y1V1 p.47</span>.</p>
+<p>A page reference such as <span class="pg">p.47</span> follows that volume's page numbering: the number is the page marker in the corpus file for that volume, which for some volumes runs ahead of the numbers printed in the book. Where a volume's printed numbers differ, its volume page explains the offset. It is plain text, never a link: nothing opens when you click it. The volume is named next to it, as in <span class="pg">Y1V1 p.47</span>.</p>
 <h2 id="status">Status dots</h2>
 <p>{dot("partial")} the volume, character or place has been read line by line. {dot("stub")} only names and pages are recorded.</p>
 <h2 id="lines">Line types</h2>
