@@ -162,3 +162,10 @@ aliases used for anchors: tachibana, secretary, student council secretary
 [status] (p.240) Expulsion revoked; Class A pays twenty million private points and three hundred class points.
 
 <!-- walk: y1v8 ch9 → p.241 -->
+
+### y1v8 p.181, 238–239 — Ch.7/9: passing mentions
+[scene] (p.181) Named as a member of Tachibana’s large group when the strategy board is read.
+[note] (p.238) Called the student with a deep connection to Horikita; her small group is said to have held back.
+[note] (p.239) The conspiracy to paint her as the obstacle and lay the way for her expulsion is laid out.
+
+<!-- walk: y1v8 coverage → p.244 -->

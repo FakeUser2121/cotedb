@@ -390,3 +390,10 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [trait] (p.227) Relief smacked onto Yukimura’s back — the old bluster under the new alliance.
 
 <!-- walk: y1v8 ch9 → p.241 -->
+
+### y1v8 p.46, 49, 51, 59–60, 68, 87, 96, 98, 104, 109, 160, 166, 172–173, 204, 221, 223–224 — Ch.2–9: passing mentions
+[scene] (p.46) Named across the mixed-group and card-party pages without individual rows beyond his cited scenes.
+[note] (p.96) Dismisses the knock as “Maybe it’s a teacher.”
+[note] (p.204) Named in the post-exam doubt about whether he and the others worked Ayanokōji over.
+
+<!-- walk: y1v8 coverage → p.244 -->

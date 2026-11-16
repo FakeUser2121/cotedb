@@ -2763,3 +2763,52 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [limit] (p.237) No speech on these pages — presence is the fixed stare.
 
 <!-- walk: y1v8 ch9 → p.241 -->
+
+### y1v8 p.9–10, 25, 29, 32, 52–53, 55, 57–60, 72, 98, 102, 116, 118, 144–147, 159, 173, 176, 180–181, 186, 199–202, 207–210, 220, 228, 230–233, 235–236, 238–240 — Ch.1–9: passing mentions
+[scene] (p.9) Chapter titles name both siblings; throughout the volume bare “Horikita,” “Horikita-san,” and “Horikita-senpai” in first-year and contest context refer to her unless brother, manabu, or kun marks the former president.
+[note] (p.9) Chapter 8 title: “The Second Half of the Girls’ Battle: Horikita Suzune.”
+[note] (p.10) Chapter 1 opening page carries the Manabu title; her name is not on the body.
+[note] (p.25) Saved by Horikita-san’s quick thinking after Sudou’s near-expulsion.
+[note] (p.29) She and Ayanokōji worked out the Sudou points solution.
+[note] (p.30) His little sister texts him about the exam; she is singled out as leader candidate.
+[note] (p.32) Named among those who must stick around for the group split.
+[note] (p.52) Nagumo addresses her as Horikita-senpai about the contest.
+[note] (p.53) Summary line of the Nagumo–Horikita conversation.
+[note] (p.55) Nagumo’s group led by Horikita’s brother is contrasted with her side; Manabu named fully once.
+[note] (p.57) Challenges her to a contest; she shoots him a sharp look.
+[note] (p.58) Rejects his demands; he calls her Horikita-senpai.
+[note] (p.59) Asks what the battle would be.
+[note] (p.60) Continues the ultimatum exchange with Nagumo; “Horikita-senpai’s pawns.”
+[note] (p.72) Bare “Horikita” expected to snap at Ayanokōji; with Kei looking for him.
+[note] (p.98) Nagumo and Horikita Manabu named; she is the reason he avoids involvement.
+[note] (p.102) “picking fights with Horikita.”
+[note] (p.116) Brother put both parties in touch.
+[note] (p.118) Genius like Horikita Manabu in the way; Horikita-senpai as group-rep question.
+[note] (p.144) She retired on the uninhabited island; brother’s limits noted.
+[note] (p.145) Manabu held the light; Ishikura/Tsunoda could have told Horikita which bed.
+[note] (p.146) Brother instructed Nagumo to fight fair; Manabu anxious.
+[note] (p.147) Brother wastes time and leaves; advice beat.
+[note] (p.159) Brother, Nagumo and the others as third-year powers.
+[note] (p.173) Nagumo’s true intentions toward Horikita’s brother.
+[note] (p.176) Nagumo respects Horikita-senpai; made him a goal.
+[note] (p.180) Tachibana was Horikita-senpai’s secretary; brother’s trust.
+[note] (p.181) Fight framed as Horikita-senpai vs Miyabi; brother’s group separate.
+[note] (p.186) As long as Horikita was helping him, Sudou would improve.
+[note] (p.199–202) Tachibana’s “Horikita-kun” is the elder; bare Horikita-senpai beats stay on her side of the family name.
+[note] (p.207) Nagumo Miyabi and Horikita Manabu stand before the two groups.
+[note] (p.208) Nagumo plans a chat with Horikita-senpai.
+[note] (p.209) Asks Horikita-senpai to abstain from tomorrow’s exam.
+[note] (p.210) Horikita-senpai prizes Ayanokōji above Sakayanagi.
+[note] (p.220) Brother’s view of Ayanokōji.
+[note] (p.228) Fujimaki praises Horikita’s brother; bare “Horikita” in the praise line is the brother.
+[note] (p.230) Brother looked on during the expulsion scare.
+[note] (p.231) Brother’s grim look; Horikita Manabu as upstanding.
+[note] (p.232) Ayanokōji looks at Horikita’s brother; Nagumo promised Horikita no further involvement.
+[note] (p.233) Brother calls Tachibana over; her “Horikita-kun” apology.
+[note] (p.235) Nagumo’s congratulations to Horikita-senpai; expulsion bait.
+[note] (p.236) Nagumo knows Horikita’s methods; she continues calmly; Tachibana’s “Horikita-kun.”
+[note] (p.238) Horikita’s deep connection with Tachibana; Horikita-senpai still in Class A.
+[note] (p.239) Brother’s lifeline; Horikita used the expulsion-revocation option.
+[note] (p.240) Brother would owe twenty million if expelled next; Manabu chose to leave Class A.
+
+<!-- walk: y1v8 coverage → p.244 -->

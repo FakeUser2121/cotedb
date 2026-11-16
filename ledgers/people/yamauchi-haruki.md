@@ -672,3 +672,9 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [trait] (p.132) Determined judge — the draw call holds even when Ike and Shibata want to object.
 
 <!-- walk: y1v8 ch4 → p.147 -->
+
+### y1v8 p.45, 130, 138 — Ch.2–4: passing mentions
+[scene] (p.45) Named as the Class A student said to drag the class down.
+[note] (p.138) Approaches with Yahiko as if to flank.
+
+<!-- walk: y1v8 coverage → p.244 -->

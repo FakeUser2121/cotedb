@@ -25,3 +25,9 @@ char_id: ikari-momoko · class: Class 3-B · status: minor
 [impact] (p.240) Two classes run the lifeline at the same time — “an extremely unusual happenstance.”
 
 <!-- walk: y1v8 ch9 → p.241 -->
+
+### y1v8 p.233, 238 — Ch.9: passing mentions
+[scene] (p.233) Named as Ikari-senpai whose group Tachibana-senpai dragged down.
+[note] (p.238) Her group is said to have banded together to demonize Tachibana.
+
+<!-- walk: y1v8 coverage → p.244 -->

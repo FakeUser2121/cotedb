@@ -183,3 +183,10 @@ char_id: totsuka-yahiko · class: Class 1-A (enrolled April 2015) · status: min
 [limit] (p.222) Order line only — no dialogue or result for him on these pages.
 
 <!-- walk: y1v8 ch9 → p.241 -->
+
+### y1v8 p.85, 105, 107, 154, 182, 185, 187 — Ch.3–7: passing mentions
+[scene] (p.85) Named across the card-game and task pages without individual rows beyond his cited scenes.
+[note] (p.154) With Keisei, judged unsuited to the running task.
+[note] (p.187) With Keisei, noted as lacking what the task required.
+
+<!-- walk: y1v8 coverage → p.244 -->

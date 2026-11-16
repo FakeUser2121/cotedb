@@ -836,3 +836,9 @@ aliases used for anchors: ike, kanji, ike-kun
 [limit] (p.132) Presence only — no line of his own in half 2.
 
 <!-- walk: y1v8 ch4 → p.147 -->
+
+### y1v8 p.12–18, 28, 34, 45 — Ch.2: passing mentions
+[scene] (p.12) Named across the briefing and bus pages without individual rows beyond the ch2 section’s cited pages.
+[note] (p.45) Named with Onizuka in the class-discussion margin.
+
+<!-- walk: y1v8 coverage → p.244 -->

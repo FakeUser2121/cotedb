@@ -2378,3 +2378,30 @@ sample for topics. verify y1v8: 626 [says] ALL PASS + 252 non-says ALL PASS;
 make check OK (R18 0, R19 82/82); gate exit 0; hash
 `fc1ad251594d13137b2f5ed5c4a27fe6` twice. New tags: none. Volume y1v8 fully
 recorded (ch1–ch10). Next: volume-end coverage locator for y1v8.
+
+### y1v8 volume-end coverage gate — walked, shipped
+Locator vs ledger pages for all 71 roster characters with y1v8 in their
+volumes cell. Real gaps (word-boundary name on a locator hit page with no
+row cite) got grouped passing-mention sections on 33 people ledgers
+(asahina-nazuna, chabashira-sae, hashimoto-masayoshi, hirata-yousuke,
+horikita-manabu, horikita-suzune, ichinose-honami, ikari-momoko, ike-kanji,
+ishikura, ishizaki-daichi, kamuro-masumi, kaneda-satoru, kanzaki-ryuuji,
+karuizawa-kei, katsuragi-kouhei, kiriyama-ikuto, kouenji-rokusuke,
+motodoi-chikako, nagumo-miyabi, ryuuen-kakeru, sakayanagi-arisu,
+sakura-airi, shibata-sou, shiina-hiyori, sudou-ken, suzuki-hidetoshi
+[new y1v8 block], tachibana-akane, totsuka-yahiko, tsunoda,
+yamauchi-haruki, yukimura-teruhiko). Stamp `y1v8 coverage → p.244` on each.
+Substring FPs and wrong-person hits recorded in the volume Coverage notes
+section (ike=like, nishi inside finishing/Nishino, kei inside Keisei,
+ayano/kiyopon nickname clusters, Onodera p.80=sensei, Ninomiya p.228=
+Kuranosuke, bare Tokitou unassigned, bare Ishikura = third-year under
+ishikura not kayoko, president disambiguation Nagumo vs Manabu, bare
+Horikita = Suzune). amikura-mako / asakura-mako list y1v8 but have no
+name hit this volume.
+Rule 12 sample of new rows against topic patterns: expulsions +1 row
+(horikita-suzune p.240 near-miss/leave-Class-A note) accepted against
+title+lede; who-knew-what picks up 94 structural [note] rows as noise —
+known marker-set issue, no pattern change without owner OK.
+verify y1v8: 626 [says] ALL PASS + 270 non-says ALL PASS; make check OK
+(R18 0, R19 82/82); gate exit 0; hash `f752960a7db85214b9047146be63bf47`
+twice. New tags: none. New entities: none. Next: ship coverage gate.

@@ -1643,3 +1643,8 @@ corridor debrief. Determinism hash across consecutive builds:
 Year 1 Volume 8 chapter 10 is the author’s postscript; the volume closes
 with a Postscript → DONE stamp. Determinism hash across consecutive builds:
 `fc1ad251594d13137b2f5ed5c4a27fe6`.
+
+Year 1 Volume 8 volume-end coverage gate closed: passing-mention sections
+on 33 people pages plus volume Coverage notes; Rule 12 sample logged.
+Determinism hash across consecutive builds:
+`f752960a7db85214b9047146be63bf47`.

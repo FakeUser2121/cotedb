@@ -1268,3 +1268,10 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [trait] (p.224) Steady ordinary tone even on the exam’s edge — the “normal” beat the POV notes.
 
 <!-- walk: y1v8 ch9 → p.241 -->
+
+### y1v8 p.17, 25–26, 28, 32, 34, 36, 43, 45, 70, 72 — Ch.2: passing mentions
+[scene] (p.17) Named across the bus-split and seating pages without individual rows beyond the ch2 section’s cited pages.
+[note] (p.70) Hypothetical: “like Hirata might have tried to get us talking.”
+[note] (p.72) Noted as having hung out with the group over Christmas alongside Satou.
+
+<!-- walk: y1v8 coverage → p.244 -->

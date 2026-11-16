@@ -855,3 +855,9 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [limit] (p.185) No presence in chapter 6 after half 1.
 
 <!-- walk: y1v8 ch6 → p.185 -->
+
+### y1v8 p.12–17, 19–21, 24, 27, 33 — Ch.2: passing mentions
+[scene] (p.12) Named across the Mixed Training Camp briefing and bus pages without individual rows until the ch6 turnaround scene.
+[note] (p.33) Announces the bus’s arrival and starts the boys’ syllabary roll call.
+
+<!-- walk: y1v8 coverage → p.244 -->

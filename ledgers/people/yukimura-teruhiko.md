@@ -606,3 +606,9 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [limit] (p.222) First runner on the relay — the least confident legs placed up front by his own plan.
 
 <!-- walk: y1v8 ch9 → p.241 -->
+
+### y1v8 p.171, 182, 207 — Ch.6–9: passing mentions
+[scene] (p.171) Named across the group-chat and post-exam pages without individual rows beyond his cited scenes.
+[note] (p.207) Listed among the class’s academically gifted students alongside Hirata.
+
+<!-- walk: y1v8 coverage → p.244 -->

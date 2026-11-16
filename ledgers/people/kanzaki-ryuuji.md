@@ -248,3 +248,9 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [limit] (p.225) Leadership named only — no dialogue or page presence beyond the group reference.
 
 <!-- walk: y1v8 ch9 → p.241 -->
+
+### y1v8 p.43, 73 — Ch.2/3: passing mentions
+[scene] (p.43) Named across the seating and cafeteria pages without individual rows beyond his cited scenes.
+[note] (p.73) Cited by an Ichinose-classmate: “according to Kanzaki-kun, the boys came to a decision pretty quickly.”
+
+<!-- walk: y1v8 coverage → p.244 -->

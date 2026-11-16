@@ -74,3 +74,9 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 [limit] (p.173) No presence beyond the plan line.
 
 <!-- walk: y1v8 ch6 → p.185 -->
+
+### y1v8 p.107, 120 — Ch.3/4: passing mentions
+[scene] (p.107) Named as the next card-player to finish after Tsunoda.
+[note] (p.120) Named as an alternative grouping option beside Class D members and Kei.
+
+<!-- walk: y1v8 coverage → p.244 -->

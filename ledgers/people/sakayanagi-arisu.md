@@ -365,3 +365,11 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [limit] (p.211) No presence in chapter 7 after half 1.
 
 <!-- walk: y1v8 ch7 → p.211 -->
+
+### y1v8 p.115, 172, 181, 210 — Ch.4–9: passing mentions
+[scene] (p.115) Named as having been strangely together with Horikita after the injury collision.
+[note] (p.172) Called harder to read than the aggressive Sakayanagi in the valuation aside.
+[note] (p.181) Named with Ryūen as a unique strategy pairing on the board.
+[note] (p.210) Horikita-senpai is said to prize Ayanokōji above even Sakayanagi.
+
+<!-- walk: y1v8 coverage → p.244 -->

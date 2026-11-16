@@ -139,3 +139,9 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 [limit] (p.183) Named only.
 
 <!-- walk: y1v8 ch6 → p.185 -->
+
+### y1v8 p.36, 44 — Ch.2: passing mentions
+[scene] (p.36) Named across the bus and observation pages without individual rows beyond his cited scenes.
+[note] (p.44) Noted as observing with Kanzaki.
+
+<!-- walk: y1v8 coverage → p.244 -->

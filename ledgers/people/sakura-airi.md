@@ -879,3 +879,9 @@ aliases used for anchors: sakura, airi, sakura-san
 [limit] (p.185) No presence in chapter 6 after half 1.
 
 <!-- walk: y1v8 ch6 → p.185 -->
+
+### y1v8 p.157, 173 — Ch.6: passing mentions
+[scene] (p.157) Named as Airi when Ayanokōji recalls the uninhabited-island days.
+[note] (p.173) Remembered alongside Haruka when deciding to investigate the Class C connection.
+
+<!-- walk: y1v8 coverage → p.244 -->

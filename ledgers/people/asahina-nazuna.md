@@ -59,3 +59,10 @@ char_id: asahina-nazuna · class: Class 2-A · status: supporting
 [limit] (p.238) Mention only — no scene presence in this chapter.
 
 <!-- walk: y1v8 ch9 → p.241 -->
+
+### y1v8 p.173, 232 — Ch.6/9: passing mentions
+[scene] (p.173) Named when Ayanokōji looks up the Class C girl who ate with Hashimoto; later cited as an information source.
+[note] (p.173) Full name printed: “That person was named Asahina Nazuna.”
+[note] (p.232) Cited alongside Kei as a source of post-exam information.
+
+<!-- walk: y1v8 coverage → p.244 -->

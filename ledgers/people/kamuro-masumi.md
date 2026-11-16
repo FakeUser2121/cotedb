@@ -78,3 +78,8 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [rel:sakayanagi-arisu] (p.94) Usual companion absent — first signal the girls’ groups are split from the usual pairings.
 
 <!-- walk: y1v8 ch3 → p.109 -->
+
+### y1v8 p.125 — Ch.4: a passing mention
+[scene] (p.125) Named when Sakayanagi’s group composition is discussed; Kamuro, not Sakayanagi, is said to have spoken.
+
+<!-- walk: y1v8 coverage → p.244 -->

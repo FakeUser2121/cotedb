@@ -161,3 +161,9 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [trait] (p.149) “Really reliable” in Ichinose’s read — takes the role even in a group of oddballs she would not aim to top.
 
 <!-- walk: y1v8 ch5 → p.152 -->
+
+### y1v8 p.48, 120 — Ch.2/4: passing mentions
+[scene] (p.48) Named as uninvolved in the rooftop scuffle when the girls’ dynamics are assessed.
+[note] (p.120) Grouped with Ichinose in the same large group, which surprises Ayanokōji.
+
+<!-- walk: y1v8 coverage → p.244 -->

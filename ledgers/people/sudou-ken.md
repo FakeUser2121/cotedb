@@ -1216,3 +1216,10 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [limit] (p.224) Indirect only — no direct speech or action on these pages.
 
 <!-- walk: y1v8 ch9 → p.241 -->
+
+### y1v8 p.27, 29, 34, 90, 139, 188 — Ch.2–7: passing mentions
+[scene] (p.27) Named across the seating, comparison and athletics pages without individual rows beyond his cited scenes.
+[note] (p.90) Used as the athletic yardstick: Ishizaki “might not be as bad as Sudou.”
+[note] (p.188) Named as the class benchmark in stamina and athleticism whom even he would not dismiss lightly.
+
+<!-- walk: y1v8 coverage → p.244 -->

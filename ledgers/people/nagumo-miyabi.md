@@ -304,3 +304,10 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [impact] (p.236–240) Forces the lifeline spend; keeps the A–B gap from widening while Class A burns cash; “warmup” for what comes next.
 
 <!-- walk: y1v8 ch9 → p.241 -->
+
+### y1v8 p.55–56, 72, 90, 116–117, 144, 159, 200–201 — Ch.2–9: passing mentions
+[scene] (p.55) Named across the third-year contest and post-exam pages without individual rows beyond his cited scenes.
+[note] (p.116) Identified as the student Kiriyama served under as vice president, demoted after losing to Nagumo.
+[note] (p.200) Tachibana’s account centres on how second-years, particularly Nagumo, operate.
+
+<!-- walk: y1v8 coverage → p.244 -->

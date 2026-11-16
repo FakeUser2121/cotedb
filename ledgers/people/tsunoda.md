@@ -23,3 +23,8 @@ char_id: tsunoda · status: minor
 [rel:ishikura] (p.145) Paired with Ishikura as the card-night third-years who knew the room.
 
 <!-- walk: y1v8 ch4 → p.147 -->
+
+### y1v8 p.96 — Ch.3: a passing mention
+[scene] (p.96) Named with Ishikura as the third-year Class B students who accompanied Nagumo to the first-years’ rooms.
+
+<!-- walk: y1v8 coverage → p.244 -->

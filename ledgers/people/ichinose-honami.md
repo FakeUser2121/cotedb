@@ -982,3 +982,11 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [limit] (p.238) Mention only — no scene presence in this chapter.
 
 <!-- walk: y1v8 ch9 → p.241 -->
+
+### y1v8 p.9, 120, 176, 210 — Ch.4–9: passing mentions
+[scene] (p.9) Chapter title names her as the first-half girls’ battle viewpoint: “The First Half of the Girls’ Battle: Ichinose Honami.”
+[note] (p.120) Grouped with Shiina in the same large group.
+[note] (p.176) Noted as present for the relevant exchange.
+[note] (p.210) Named among those in the same group as the person being addressed.
+
+<!-- walk: y1v8 coverage → p.244 -->

@@ -1074,3 +1074,10 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [trait] (p.237–240) Waited for him deliberately; sharp on the Class B representative puzzle; softens only on the personal what-about-me close.
 
 <!-- walk: y1v8 ch9 → p.241 -->
+
+### y1v8 p.167, 181, 232 — Ch.6/7/9: passing mentions
+[scene] (p.167) Named as Kei when Ayanokōji credits her for funneling information on the girls’ side.
+[note] (p.181) Information received from Kei is combined with the strategy-board read.
+[note] (p.232) Cited alongside Asahina as a post-exam information source.
+
+<!-- walk: y1v8 coverage → p.244 -->

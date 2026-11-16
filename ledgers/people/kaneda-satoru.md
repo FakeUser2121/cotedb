@@ -141,3 +141,8 @@ aliases used for anchors: kaneda, kaneda satoru, kaneda-kun
 [limit] (p.130) No intention of joining; uncomfortable the whole time — one page only.
 
 <!-- walk: y1v8 ch4 → p.147 -->
+
+### y1v8 p.38–39, 49, 55 — Ch.2: passing mentions
+[scene] (p.38) Named across the group-selection pages without individual rows beyond his cited scenes.
+
+<!-- walk: y1v8 coverage → p.244 -->

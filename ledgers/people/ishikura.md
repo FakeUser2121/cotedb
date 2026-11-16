@@ -61,3 +61,9 @@ char_id: ishikura · class: Class 1-D · status: minor
 
 
 <!-- walk: y1v8 ch9 → p.241 -->
+
+### y1v8 p.181 — Ch.7: a passing mention
+[scene] (p.181) Named as Ishikura-senpai among Tachibana’s large-group members when Ayanokōji assesses the strategy board.
+[note] (p.181) The fake-out attribution to his group is noted as part of Sakayanagi and Ryūen’s unique strategy read.
+
+<!-- walk: y1v8 coverage → p.244 -->

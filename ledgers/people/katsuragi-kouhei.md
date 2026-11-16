@@ -597,3 +597,10 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [limit] (p.218) Name only in this chapter — no further presence.
 
 <!-- walk: y1v8 ch9 → p.241 -->
+
+### y1v8 p.137, 143, 172 — Ch.4/6: passing mentions
+[scene] (p.137) Named across the cooperation and valuation pages without individual rows beyond his cited scenes.
+[note] (p.143) Named with Ichinose as someone probably focusing on others’ cooperation.
+[note] (p.172) Called the conservative voice among those Sakayanagi and Katsuragi might value.
+
+<!-- walk: y1v8 coverage → p.244 -->

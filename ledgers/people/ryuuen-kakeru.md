@@ -1420,3 +1420,10 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [limit] (p.220) Silent in this chapter — presence is the isolation only.
 
 <!-- walk: y1v8 ch9 → p.241 -->
+
+### y1v8 p.51, 59, 63, 71, 75, 120, 129, 133, 146, 158, 181, 186, 210, 221 — Ch.2–9: passing mentions
+[scene] (p.51) Named across the strategy and post-exam pages without individual rows beyond his cited scenes.
+[note] (p.75) Students’ open dislike of Ryūen is treated as common knowledge.
+[note] (p.221) Hashimoto is said to lack evidence linking Ayanokōji to Ryūen; Nagumo has expressed interest in him.
+
+<!-- walk: y1v8 coverage → p.244 -->

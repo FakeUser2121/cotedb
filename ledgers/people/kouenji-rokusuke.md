@@ -552,3 +552,10 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [limit] (p.224) Only promised the minimum 1.2 km — would hold back beyond it; the responsibility question dodged.
 
 <!-- walk: y1v8 ch9 → p.241 -->
+
+### y1v8 p.48, 50–51, 86, 100, 107, 128, 154, 156, 160, 166, 172, 193, 207 — Ch.2–9: passing mentions
+[scene] (p.48) Named across the group-selection, card-game and exam-margin pages without individual rows beyond his cited scenes.
+[note] (p.166) Called out as one who will not follow orders.
+[note] (p.207) Called “a threat, at the very least” in the post-exam read.
+
+<!-- walk: y1v8 coverage → p.244 -->

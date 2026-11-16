@@ -536,3 +536,17 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [limit] (p.231–232) Grim look and no approach while Fujimaki charges; the mind is on the trap, not the fight on the floor.
 
 <!-- walk: y1v8 ch9 → p.241 -->
+
+### y1v8 p.9, 47, 150, 159, 196, 199–202, 220 — Ch.1/2/6–9: passing mentions
+[scene] (p.9) Chapter title opens the volume with his soliloquy; later pages name him as the former president and Suzune’s brother without dedicated scene rows.
+[note] (p.47) Named as Horikita’s brother placed in Class A among the second-years’ talk.
+[note] (p.150) Named as the President Ayanokōji has been working a lot with.
+[note] (p.159) Named as Horikita’s brother among Nagumo and the other third-year powers.
+[note] (p.196) Tachibana asks about “the former student council president.”
+[note] (p.199) “Former President Horikita”; Tachibana’s “Horikita-kun” is him.
+[note] (p.200) Tachibana’s “Horikita-kun” fighting alone; the elder Horikita’s isolation.
+[note] (p.201) The 312-point Class A/B gap turns on whether Horikita’s brother was the cause.
+[note] (p.202) Warning not to say anything weird to Horikita-kun; the brother learning the truth.
+[note] (p.220) No idea what Horikita’s brother considered special about Ayanokōji.
+
+<!-- walk: y1v8 coverage → p.244 -->

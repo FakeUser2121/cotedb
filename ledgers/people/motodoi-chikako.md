@@ -15,3 +15,9 @@ char_id: motodoi-chikako · status: minor
 [trait] (p.151) Will not answer questions she does not want — the counter-model to Ichinose’s over-serious honesty.
 
 <!-- walk: y1v8 ch5 → p.152 -->
+
+### y1v8 p.148 — Ch.5: a passing mention
+[scene] (p.148) Named at the opening of the girls’ battle when Nishi lists her small group.
+[note] (p.148) Full form printed: “Motodoi Chikako-san.”
+
+<!-- walk: y1v8 coverage → p.244 -->

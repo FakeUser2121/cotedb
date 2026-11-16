@@ -183,3 +183,9 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [note] (p.233) “solidary rule” kept as printed — translation for the solidarity rule.
 
 <!-- walk: y1v8 ch9 → p.241 -->
+
+### y1v8 p.71, 98, 161, 187, 222 — Ch.2–9: passing mentions
+[scene] (p.71) Named across exam-margin pages without a dedicated scene row beyond his ch9 scene rows.
+[note] (p.222) Listed next in the large-group order after the results; ran 3.6 kilometers at full speed.
+
+<!-- walk: y1v8 coverage → p.244 -->
