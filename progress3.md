@@ -1762,3 +1762,9 @@ hash: `0daddbc64cd4f58f4327f68505e3dce0`.
 Year 1 Volume 11 Chapter 8 "Class B vs. Class D" (pp.368–399) walked.
 Ryūen leads Class D to a 4–2 victory over Class B. Determinism hash:
 `95de910a6fb1594b45627d29a76c7bb9`.
+
+Year 1 Volume 11 Epilogue "The Line Between the Winner and the Loser"
+(pp.400–476) walked. Class A defeats Class C 4–3; Tsukishiro’s
+interference revealed; Ayanokōji wins library rematch vs Sakayanagi.
+Volume y1v11 completed with coverage notes and DONE stamp. Determinism
+hash: `6bea783884c7cb8573db97157f0b718a`.

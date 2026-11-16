@@ -655,3 +655,25 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:kamuro-masumi] (p.339) Selects her for Class A’s basketball lineup.
 
 <!-- walk: y1v11 ch8 → p.367 -->
+
+### y1v11 pp.400–454 — Epilogue: Chess victory and rematch
+
+[scene] (p.400) Watches as the final event is drawn as chess with the score tied 3–3.
+[scene] (p.402) Selects Hashimoto to play the on-board chess match against Horikita.
+[scene] (p.414) Intervenes as commander when Horikita gains the advantage over Hashimoto.
+[scene] (p.417) Battles Ayanokōji as commander through the endgame.
+[scene] (p.428) Forces checkmate and secures Class A’s victory in the chess event and the special exam 4–3.
+[scene] (p.433) Thanks Ayanokōji for the match and expresses satisfaction with their competition.
+[scene] (p.441) Becomes angry after Tsukishiro reveals he interfered with Ayanokōji’s final move.
+[scene] (p.445) Asks Ayanokōji to replay the final chess position in the library.
+[scene] (p.446) Replays the position and loses to Ayanokōji, accepting the result.
+[scene] (p.451) Says she will keep her distance from Ayanokōji but reflects on having wanted to know him.
+[scene] (p.454) Walks back to the dorms with Ayanokōji and parts from him warmly.
+[scene] (p.459) Appears in her own short story reflecting on the morning of the exam and her anticipation of facing Ayanokōji.
+[scene] (p.467) Appears in another short story recalling her excitement before the special exam.
+[rel:ayanokouji-kiyotaka] (p.400–454, 459–469) Competes with him in chess, replays the final position, and reflects on him in short stories.
+[rel:horikita-suzune] (p.402–413) Faces her indirectly through Hashimoto in the chess event.
+[rel:hashimoto-masayoshi] (p.402–428) Uses him as her on-board chess player.
+[rel:tsukishiro] (p.433–444) Confronts him over interfering in the chess match.
+
+<!-- walk: y1v11 ch10 → p.476 -->

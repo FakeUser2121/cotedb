@@ -1490,3 +1490,13 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:ayanokouji-kiyotaka] (p.356) Is chosen by him for the math test.
 
 <!-- walk: y1v11 ch8 → p.367 -->
+
+### y1v11 pp.464–466 — Short story: After being questioned
+
+[scene] (p.464) In her short story, reflects on Ayanokōji calling out to her and questioning why she is not supporting Horikita.
+[scene] (p.465) Considers Ayanokōji difficult to read and more capable than she first assumed.
+[scene] (p.466) Concludes that Ayanokōji may be a frightening person she must understand to remove Horikita.
+[rel:ayanokouji-kiyotaka] (p.464–466) Reflects on his questioning and re-evaluates him.
+[rel:horikita-suzune] (p.466) Thinks of him as an obstacle in her desire to remove Horikita.
+
+<!-- walk: y1v11 ch10 → p.476 -->

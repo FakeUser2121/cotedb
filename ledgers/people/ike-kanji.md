@@ -986,3 +986,15 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:sudou-ken] (p.342) Is replaced by him at halftime.
 
 <!-- walk: y1v11 ch8 → p.367 -->
+
+### y1v11 pp.470–476 — Short story: VR game
+
+[scene] (p.470) Invites Horikita and Ayanokōji to try a VR game with Sotomura.
+[scene] (p.472) Chooses the Paladin role and enters the game world.
+[scene] (p.473) Is attacked by wolves during the tutorial and asks for help.
+[scene] (p.474) Is defeated in the VR game.
+[rel:sotomura-hideo] (p.470–474) Invites others to play the VR game with him.
+[rel:horikita-suzune] (p.470–474) Persuades her to join the VR game.
+[rel:ayanokouji-kiyotaka] (p.470–474) Invites him to join the VR game.
+
+<!-- walk: y1v11 ch10 → p.476 -->

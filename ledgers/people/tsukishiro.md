@@ -20,6 +20,20 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 [rel:hoshinomiya-chie] (p.14) Addresses the staff including her during the meeting.
 
 <!-- walk: y1v11 ch2 → p.26 -->
+
+### y1v11 pp.433–444 — Epilogue: After the chess match
+
+[scene] (p.433) Enters the multipurpose room after the exam and says he watched the commanders’ match.
+[scene] (p.436) Informs Ayanokōji and Sakayanagi that Class D defeated Class B 5–2.
+[scene] (p.437) Orders the teachers to leave and brings in outside workers to handle the data and cleanup.
+[scene] (p.440) Tells Sakayanagi that Ayanokōji should have won the chess match.
+[scene] (p.441) Reveals he intervened to alter Ayanokōji’s final chess instruction as retaliation against Sakayanagi.
+[scene] (p.444) Tells Ayanokōji to drop out voluntarily and leaves.
+[rel:ayanokouji-kiyotaka] (p.433–444) Praises, pressures, and reveals interference against him.
+[rel:sakayanagi-arisu] (p.433–444) Provokes her by admitting he tampered with the chess match.
+[rel:hoshinomiya-chie] (p.437–438) Orders her to leave the multipurpose room.
+
+<!-- walk: y1v11 ch10 → p.476 -->
 ## y1v11
 
 <!-- walk: y1v11 → start -->

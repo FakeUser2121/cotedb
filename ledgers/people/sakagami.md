@@ -135,3 +135,20 @@ aliases used for anchors: sakagami, sakagami-sensei
 
 
 <!-- walk: y1v7 ch7 → p.207 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->
+
+### y1v11 pp.404–438 — Epilogue: Proctoring the final event
+
+[scene] (p.404) Directs the start of the chess event as proctor.
+[scene] (p.429) Announces Class A’s victory in the chess event and the special exam.
+[scene] (p.431) Reprimands Hoshinomiya for joking with Ayanokōji and tells the students they may leave.
+[scene] (p.437) Questions the outside workers brought in by Tsukishiro but complies when told to leave.
+[rel:ayanokouji-kiyotaka] (p.404–431) Proctors his match and announces the result.
+[rel:sakayanagi-arisu] (p.404–429) Proctors her match against Ayanokōji.
+[rel:hoshinomiya-chie] (p.404–437) Works alongside her during and after the exam.
+[rel:tsukishiro] (p.437–438) Defers to his authority and leaves the multipurpose room.
+
+<!-- walk: y1v11 ch10 → p.476 -->

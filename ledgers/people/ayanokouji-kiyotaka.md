@@ -4937,3 +4937,33 @@ walk: y1v1 → DONE
 [rel:katsuragi-kouhei] (p.359–366) Competes against him in Flash Mental Arithmetic and loses the event.
 
 <!-- walk: y1v11 ch8 → p.367 -->
+
+### y1v11 pp.400–476 — Epilogue: Chess match and aftermath
+
+[scene] (p.400) Notes Class C won the sixth archery event to tie the score 3–3 before the final chess event is drawn.
+[scene] (p.402) Selects Horikita to play the on-board chess match against Hashimoto.
+[scene] (p.414) Watches Horikita gain an advantage, then intervenes as commander when Sakayanagi enters the match.
+[scene] (p.417) Takes over from Horikita and battles Sakayanagi through the remainder of the chess game.
+[scene] (p.429) Stops giving instructions when defeat becomes unavoidable; Class A wins the chess event and the exam 4–3.
+[scene] (p.430) Receives Hoshinomiya’s comments about his displayed abilities after the exam.
+[scene] (p.433) Exchanges words with Sakayanagi after the match as she expresses satisfaction.
+[scene] (p.436) Hears from Acting Director Tsukishiro that Class D defeated Class B 5–2.
+[scene] (p.441) Learns from Tsukishiro that his final chess instruction was altered by outside interference.
+[scene] (p.445) Agrees to Sakayanagi’s request to replay the final chess position in the library.
+[scene] (p.446) Replays the position and wins the recreated game against Sakayanagi.
+[scene] (p.454) Walks back to the dorms with Sakayanagi as they talk before parting.
+[scene] (p.456) Appears in Karuizawa’s White Day/birthday short story as the giver of the necklace.
+[scene] (p.464) Appears in Kushida’s short story as she reflects on him after he questions her lack of support.
+[scene] (p.470) Appears in Horikita’s short story playing a VR game with Horikita, Ike, and Sotomura.
+[rel:sakayanagi-arisu] (p.400–454) Faces her in the decisive chess match, learns of Tsukishiro’s interference, and replays the final position with her.
+[rel:horikita-suzune] (p.402–429, 470–476) Selects her for chess and later appears with her in the VR short story.
+[rel:hashimoto-masayoshi] (p.402–429) Faces him as Horikita’s opponent in the chess event.
+[rel:hoshinomiya-chie] (p.403, 430–432) Is observed and questioned by her during and after the exam.
+[rel:sakagami-kazuma] (p.404, 429, 431) Competes under his proctoring and hears the result announced.
+[rel:tsukishiro] (p.433–444) Is told by him about the exam outcome and the interference in the chess match.
+[rel:karuizawa-kei] (p.456–458) Is remembered in her short story as giving her the necklace.
+[rel:kushida-kikyou] (p.464–466) Is reflected on in her short story.
+[rel:ike-kanji] (p.470–476) Plays the VR game with him in Horikita’s short story.
+[rel:sotomura-hideo] (p.470–476) Plays the VR game with him in Horikita’s short story.
+
+<!-- walk: y1v11 ch10 → p.476 -->

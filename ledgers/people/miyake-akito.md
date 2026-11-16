@@ -419,3 +419,10 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [rel:ichinose-honami] (p.172–183) Eats lunch with her group.
 
 <!-- walk: y1v11 ch6 → p.280 -->
+
+### y1v11 pp.400 — Epilogue: Archery event
+
+[scene] (p.400) Contributes to Class C’s win in the sixth archery event, tying the overall score 3–3 before chess.
+[rel:ayanokouji-kiyotaka] (p.400) Helps Class C reach the final event through the archery win.
+
+<!-- walk: y1v11 ch10 → p.476 -->

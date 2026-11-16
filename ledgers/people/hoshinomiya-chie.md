@@ -225,3 +225,16 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 [scene] (p.362) Reacts in amazement at the difficulty of the Flash Mental Arithmetic questions.
 
 <!-- walk: y1v11 ch8 → p.367 -->
+
+### y1v11 pp.403–432 — Epilogue: Proctoring the final event
+
+[scene] (p.403) Offers water to the commanders before the chess event and observes the tense atmosphere.
+[scene] (p.420) Reacts in awe at the high level of the commander chess battle.
+[scene] (p.430) Consoles Ayanokōji after Class C’s loss and remarks on the abilities he displayed.
+[scene] (p.431) Quietly warns Ayanokōji that she may come to hate him if he becomes an enemy.
+[scene] (p.432) Helps with cleanup after being instructed by Tsukishiro and Sakagami.
+[rel:ayanokouji-kiyotaka] (p.403–431) Observes him during the exam and comments on his abilities afterward.
+[rel:sakagami-kazuma] (p.403–432) Proctors and cleans up alongside him.
+[rel:tsukishiro] (p.432) Follows his instruction to leave and let staff handle cleanup.
+
+<!-- walk: y1v11 ch10 → p.476 -->

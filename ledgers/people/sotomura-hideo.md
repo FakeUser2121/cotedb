@@ -261,3 +261,15 @@ char_id: sotomura-hideo · class: Class 1-D (enrolled April 2015) · status: min
 [rel:ayanokouji-kiyotaka] (p.349–350) Is chosen by him for the one-on-one typing event.
 
 <!-- walk: y1v11 ch8 → p.367 -->
+
+### y1v11 pp.470–476 — Short story: VR game
+
+[scene] (p.470) Brings a VR game setup and invites Horikita and Ayanokōji to play with Ike.
+[scene] (p.472) Chooses the Elf role and enters the game world.
+[scene] (p.473) Tries to heal Ike during the tutorial but is overwhelmed.
+[scene] (p.474) Is defeated in the VR game.
+[rel:ike-kanji] (p.470–474) Brings and plays the VR game with him.
+[rel:horikita-suzune] (p.470–474) Invites her to play the VR game.
+[rel:ayanokouji-kiyotaka] (p.470–474) Invites him to play the VR game.
+
+<!-- walk: y1v11 ch10 → p.476 -->

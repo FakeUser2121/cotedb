@@ -370,3 +370,17 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [rel:horikita-suzune] (p.146, 153) Overhears or infers her strategy and is thwarted by the group-chat countermeasure.
 
 <!-- walk: y1v11 ch5 → p.169 -->
+
+### y1v11 pp.402–429 — Epilogue: Chess match
+
+[scene] (p.402) Is selected by Sakayanagi to play the on-board chess match against Horikita.
+[scene] (p.404) Begins the chess match and engages Horikita in conversation while playing.
+[scene] (p.411) Falls behind as Horikita gains the advantage in the midgame.
+[scene] (p.415) Receives Sakayanagi’s instructions after she intervenes as commander.
+[scene] (p.418) Reacts in shock at the level of play once Ayanokōji and Sakayanagi take over as commanders.
+[scene] (p.429) Receives Horikita’s admission of defeat after Sakayanagi secures checkmate.
+[rel:sakayanagi-arisu] (p.402–429) Acts as her on-board player in the chess match.
+[rel:horikita-suzune] (p.404–429) Competes against her in the on-board chess match.
+[rel:ayanokouji-kiyotaka] (p.418–428) Is astonished by the commander-level chess between him and Sakayanagi.
+
+<!-- walk: y1v11 ch10 → p.476 -->

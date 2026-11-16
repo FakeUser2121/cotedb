@@ -3126,3 +3126,20 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ayanokouji-kiyotaka] (p.318–320) Entrusts him with command decisions and discusses chess preparation.
 
 <!-- walk: y1v11 ch8 → p.367 -->
+
+### y1v11 pp.402–429, 470–476 — Epilogue: Chess and short story
+
+[scene] (p.402) Is selected by Ayanokōji to play the on-board chess match in the final event.
+[scene] (p.404) Begins the chess match against Hashimoto and takes the first move.
+[scene] (p.411) Plays steadily and gains the advantage during the opening and midgame.
+[scene] (p.417) Struggles after Sakayanagi intervenes and entrusts the rest of the match to Ayanokōji.
+[scene] (p.425) Voices her desire not to lose as the match turns against Class C.
+[scene] (p.429) Admits defeat to Hashimoto when the chess match ends in Class A’s favor.
+[scene] (p.470) Appears in her short story reluctantly joining Ayanokōji, Ike, and Sotomura for a VR game.
+[scene] (p.475) Defeats the wolf monsters in the VR game after initially hesitating.
+[rel:ayanokouji-kiyotaka] (p.402–429, 470–476) Plays chess under his command and later plays VR with him.
+[rel:hashimoto-masayoshi] (p.404–429) Competes against him in the on-board chess match.
+[rel:ike-kanji] (p.470–476) Plays the VR game with him.
+[rel:sotomura-hideo] (p.470–476) Plays the VR game with him.
+
+<!-- walk: y1v11 ch10 → p.476 -->

@@ -2890,3 +2890,24 @@ Ledgers touched: ichinose-honami, ryuuen-kakeru, mashima-tomonari,
 chabashira-sae, ishizaki-daichi, ibuki-mio, shiina-hiyori,
 ledgers/volumes/y1v11.md. verify y1v11: ALL PASS; make check OK; gate
 exit 0. Next: ch10 pp.400–476.
+
+### y1v11 ch10 — walked, shipped
+
+Epilogue "The Line Between the Winner and the Loser" (pp.400–476).
+Class C wins archery to tie 3–3, then loses the final chess event to
+Class A (4–3 overall). Tsukishiro reveals interference in Ayanokōji’s
+final move; Ayanokōji and Sakayanagi replay the position in the library.
+Short stories for Karuizawa, Sakayanagi, Kushida, and Horikita follow.
+Ledgers touched: ayanokouji-kiyotaka, sakayanagi-arisu, horikita-suzune,
+hashimoto-masayoshi, miyake-akito, hoshinomiya-chie, sakagami,
+tsukishiro, karuizawa-kei, kushida-kikyou, ike-kanji, sotomura-hideo,
+ledgers/volumes/y1v11.md. verify y1v11: ALL PASS; make check OK; gate
+exit 0. Next: y1v11 volume coverage gate and DONE.
+
+### y1v11 — volume complete, shipped
+
+Volume coverage gate completed for existing records (no uncovered
+locator hit pages); twenty-three roster characters named for this volume
+in roster data still lack individual record files. Added closing stamp
+`<!-- walk: y1v11 Epilogue → DONE -->` to `ledgers/volumes/y1v11.md`.
+verify/build/gate/check/hash stable. Next: y1v11.5.

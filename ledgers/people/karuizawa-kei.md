@@ -1258,3 +1258,12 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:ayanokouji-kiyotaka] (p.353) Is chosen by him for the English test.
 
 <!-- walk: y1v11 ch8 → p.367 -->
+
+### y1v11 pp.456–458 — Short story: The first gift
+
+[scene] (p.456) In her short story, reflects on receiving Ayanokōji’s heart-shaped necklace as a birthday and White Day gift.
+[scene] (p.457) Reacts with surprise at the gift and questions whether it is too much for a friend.
+[scene] (p.458) Accepts the necklace and treasures it as his first gift to her.
+[rel:ayanokouji-kiyotaka] (p.456–458) Receives the necklace from him and reflects on her feelings.
+
+<!-- walk: y1v11 ch10 → p.476 -->
