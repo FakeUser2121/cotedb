@@ -1202,6 +1202,20 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [scene] (p.96) Asahina Nazuna greets Ichinose and asks to borrow Ayanokōji; Ichinose leaves.
 [rel:ayanokouji-kiyotaka] (p.89–96) Morning walk; offers her praise vote.
 [rel:asahina-nazuna] (p.96) Greets Asahina before leaving.
+[says] (p.92) “Morning Ayanokōji-kun~!”
+[says] (p.93) “Wow, uhh… it’s pretty cold again today, huh?”
+[says] (p.93) “Did you plan on walking to school with someone?”
+[says] (p.93) “Well then… do you mind if I join you?”
+[says] (p.94) “Ah, well… Yeah, I think this exam is the toughest we’ve had by far.”
+[says] (p.95) “Eh? No way. I definitely didn’t say anything like that.”
+[says] (p.95) “I told you that I never said anything about dropping out myself. But, if you really think so then I guess you’re probably right about that.”
+[says] (p.96) “R-really?”
+[says] (p.96) “Haa… Keep it a secret from everyone okay?”
+[says] (p.96) “There’s not much more I can tell you. It’s not something I’d like other people to hear about. Furthermore, you’re in Class C. No matter what kind of exam it is, there are times where we just aren’t able to collaborate.”
+[says] (p.96) “Anywho, the school is pretty terrible, isn’t it? What with making someone drop out of school and all. Even if you manage to get praise votes from the kids in the other classes, someone still has to leave in the end.”
+[says] (p.97) “Err, yes. He’s a good friend…”
+[says] (p.97) “I understand. Well then, Ayanokōji-kun, I’ll be going on ahead.”
+[says] (p.97) “Oh no! Please excuse me.”
 
 <!-- walk: y1v10 Ch3 → p.147 -->
 

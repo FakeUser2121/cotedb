@@ -1293,6 +1293,8 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [says] (p.13) “I’m confident at the very least. I absolutely won’t get a failing grade.”
 [scene] (p.13) Chabashira notes Sudō improved more than anyone; his weakest subject was English.
 [rel:horikita-suzune] (p.13) Horikita tutored him; his English improved substantially.
+[says] (p.13) “Heh. It’s nothing special.”
+[trait] (p.13) Looks pleased with how well he did despite brushing it off.
 
 <!-- walk: y1v10 Prologue+Ch1 → p.29 -->
 
@@ -1309,7 +1311,9 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 ### y1v10 pp.149 — Ch.4: Morning walk
 
 [scene] (p.149) Walks to school with Ayanokōji; says he has been improving and does not want to be expelled.
+[says] (p.149) “Sorta. Even if it’s just a short one, I thought I’d get a workout in.”
 [says] (p.149) “I may be stupid and short-tempered, but I’ve been making huge improvements recently. That’s why I absolutely don’t wanna be expelled.”
+[says] (p.149) “Nah, that sounds about right. The strong-willed are the ones who’ll make it through this exam.”
 
 <!-- walk: y1v10 Ch4 → p.181 -->
 

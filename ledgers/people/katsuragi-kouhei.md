@@ -656,6 +656,7 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [status] (p.125) Targeted for expulsion by Sakayanagi’s faction in the Class Poll.
 [rel:sakayanagi-arisu] (p.122, 125) Chosen by Sakayanagi to be expelled from Class A.
 [rel:totsuka-yahiko] (p.125) Yahiko still follows him but is outnumbered.
+[note] (p.122, 125) Does not appear in person; Sakayanagi names him as the Class A target and says he has likely accepted his fate.
 
 <!-- walk: y1v10 Ch3 → p.147 -->
 

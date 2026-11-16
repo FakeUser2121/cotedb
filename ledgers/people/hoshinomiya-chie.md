@@ -192,6 +192,15 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 [rel:chabashira-sae] (p.21–26) Talks with her about the exam and their rivalry.
 [rel:mashima-tomonari] (p.21–26) Talks with him after the meeting.
 [rel:tsukishiro] (p.22) Suspects his actions may target opposing teachers.
+[says] (p.21) “It’s depressing, isn’t it? We have to announce an exam where someone’s gonna get expelled.”
+[says] (p.21) “I wonder who’s gonna disappear…”
+[says] (p.22) “You mean, overriding the expulsion with twenty million points, right?”
+[says] (p.22) “Well, you’re not alone on that, Sae-chan. He just popped up out of nowhere and, like, started doing whatever super unreasonable thing he wanted, didn’t he?”
+[says] (p.23) “No way… Sae-chan, you’re not fantasizing that your class might make it all the way to Class A, are you?”
+[says] (p.24) “Of course not. Right, Sae-chan?”
+[says] (p.25) “Don’t lump me in with her, Mashima-kun. I’ve already gotten over any lingering attachments I had. But that girl hasn’t changed at all since back then. She’ll never be able to move past her days as a student. That’s why she’s still stuck up on that good-for-nothing first love of hers, but she would never admit to that.”
+[says] (p.26) “You may be right, but I’m not too worried since I have Ichinose-san on my side. Besides…”
+[says] (p.26) “If they seem like they’re getting close to reaching us, I’ll pummel them back down myself.”
 
 <!-- walk: y1v11 ch2 → p.26 -->
 

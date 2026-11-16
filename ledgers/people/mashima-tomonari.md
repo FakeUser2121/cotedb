@@ -162,6 +162,12 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 [rel:tsukishiro] (p.14–19) Challenges his decision but fails to change it.
 [rel:chabashira-sae] (p.21–24) Speaks with her and Hoshinomiya after the meeting.
 [rel:hoshinomiya-chie] (p.21–26) Speaks with her after the meeting and warns her about Class C.
+[says] (p.15) “While the special exams for the second and third years are just as difficult as they had been in previous years, the special exam for the first years is far more difficult than usual. There’s a huge risk that there will be expulsions because of this ‘Class Vote’ provisional exam…”
+[says] (p.16) “If it’s just about getting numerous students expelled, then wouldn’t this exam do the same thing?”
+[says] (p.16) “No. This provisional exam is obviously different than the policies we’ve had up until now. I cannot approve of something that practically forces expulsions.”
+[says] (p.18) “Then, by any chance, could you at least reconsider it?”
+[says] (p.24) “Are you two still fussing over what happened back then? How many years need to pass befー”
+[says] (p.25) “Be careful not to have the carpet pulled out from under you. This year’s Class D… No, Class C is different from usual.”
 
 <!-- walk: y1v11 ch2 → p.26 -->
 

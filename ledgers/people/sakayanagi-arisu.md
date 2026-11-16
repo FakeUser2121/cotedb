@@ -541,6 +541,30 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:ayanokouji-kiyotaka] (p.117–127) Postpones match; promises no censure votes.
 [rel:kamuro-masumi] (p.117–120) Walks and talks with Kamuro before sending her back.
 [rel:katsuragi-kouhei] (p.122, 125) Decides to expel him from Class A.
+[action] (p.117) Walks with Kamuro and discusses her father’s suspension and the supplementary exam.
+[action] (p.120) Sends Kamuro back to the dorms and speaks with Ayanokōji alone in the special building.
+[action] (p.121) Proposes postponing their match for this supplementary exam and promises not to cast Ayanokōji any censure votes.
+[action] (p.122) States she has already decided Class A will expel Katsuragi Kōhei and has informed her class.
+[says] (p.121) “I had been wondering what I would have to do if you didn’t agree. Now, I’ll be free to focus my attention on Class A’s internal politics.”
+[says] (p.122) “I had already decided who would be expelled as soon as the exam was announced.”
+[says] (p.122) “I already told them all a long time ago. Had I waited until the last minute to inform them, it would’ve only caused anxiety in its own way. By making it known ahead of time, it’s easier on the rest of the class, don’t you agree?”
+[says] (p.115) “What a coincidence. Ayanokōji-kun.”
+[says] (p.116) “Where are you off to now?”
+[says] (p.116) “Is that so? It seems that you’re living your life to the fullest. If you don’t mind, could you spare me just a little of your time?”
+[says] (p.116) “At any rate… Ayanokōji-kun, Masumi-san. Don’t you think this supplemental exam is far too unreasonable? They’ve decided to force expulsions on us just because nobody has been expelled yet. Setting up an exam like this one… Thinking about it rationally, it’s ridiculous.”
+[says] (p.118) “Don’t you think it’s possible that the school hastily prepared the exam… all for the sake of forcing a certain someone’s expulsion?”
+[says] (p.119) “I’ve tried not being bothered by it until now, but you… Why have you been keeping your eye on Ayanokōji?”
+[says] (p.119) “You’ve become quite inquisitive lately, haven’t you? Up until now, I don’t think you’ve ever thrown me this kind of question before.”
+[says] (p.120) “Nobody will bother us if we talk here.”
+[says] (p.120) “Well, Masumi-san. I apologize, but please head on back to the dorms without me.”
+[says] (p.120) “Yes. Wouldn’t you have found it troublesome if I went and revealed something?”
+[says] (p.121) “It’s about the promise we made with each other.”
+[says] (p.121) “Yes, that was certainly the plan. However… if it’s alright with you, I would like to put it off until next time. This supplementary exam isn’t a competition between the classes. Rather, it’s a screening process for us to evaluate our own peers. The only way we can influence the other classes is with praise votes, and we can’t attack one another even if we wanted to… So wouldn’t it be fine if we postponed our match until next time?”
+[says] (p.121) “Thank you very much. I had been wondering what I would have to do if you didn’t agree. Now, I’ll be free to focus my attention on Class A’s internal politics. Though…”
+[says] (p.122) “You are certainly right about that. Either way, please have some peace of mind. That’s all I’m trying to say.”
+[says] (p.123) “Fufu, you’re quite the funny one.”
+[says] (p.126) “Though, I have no idea what Class B will do. For this entire exam, I’m looking forward to seeing who gets expelled from that intimate class the most. Though, perhaps Ichinose-san has come up with something interesting?”
+[says] (p.126) “You’re right. We can leave our conversation here for the time being. After all, the next special exam begins next week.”
 
 <!-- walk: y1v10 Ch3 → p.147 -->
 
@@ -617,6 +641,10 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [scene] (p.11) Hears from her father that Kiyotaka has lived in the facility since birth and feels the loneliness of that life.
 [scene] (p.12) Recalls resolving to prove talent is not decided by education and to start playing chess; wakes in the present thinking of their approaching confrontation.
 [rel:ayanokouji-kiyotaka] (p.10–12) First saw him as a child in the White Room and has remembered him since.
+[thinks] (p.8) “The moment people are born into this world, the moment they receive life, their potential is set in stone. It was all the luck of the draw.”
+[thinks] (p.8) “People who are born ordinary will never escape the realm of the ordinary. No matter how blessed their environment is, if somebody isn’t excellent from the beginning, they won’t become a genius.”
+[thinks] (p.12) “I cannot lose to the children raised at this facility no matter what and no matter how many. I, who has inherited superior DNA, have to stop it.”
+[action] (p.12) Opens her eyes and sits up still half-asleep, recalling the memory as their confrontation approaches.
 
 <!-- walk: y1v11 ch1 → p.12 -->
 

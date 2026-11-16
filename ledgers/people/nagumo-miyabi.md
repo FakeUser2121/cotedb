@@ -421,6 +421,28 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [rel:horikita-manabu] (p.14–21) Nagumo competes with Manabu; says taking him down is his only objective.
 [rel:horikita-suzune] (p.18) Invites her to the student council; she rejects.
 [rel:ayanokouji-kiyotaka] (p.14–15) Tests Ayanokōji about forum rumors.
+[action] (p.14) Spots Ayanokōji and waves at him, preventing him from slipping away.
+[says] (p.14) “Yo Ayanokōji. Did you manage to pass the end-of-term exam?”
+[says] (p.15) “How cold. I don’t think that’s the right attitude to have when the student council president is right in front of you.”
+[says] (p.15) “Well, whatever. You’ve come by at just the right time. There’s something I’ve been wanting to ask you.”
+[says] (p.16) “So, what have you two celebrities been talking about?”
+[says] (p.16) “Just having a little discussion with Horikita-senpai. Ain’t that right?”
+[says] (p.17) “Tomorrow, a step ahead of the other school years, the third-year students will begin a decisive battle that will determine whether Horikita-senpai will successfully graduate from Class A or not. So I wanted to hear about it from him personally. Are you interested too?”
+[says] (p.17) “How cold. You’re acting like that just because you’re Horikita-senpai’s favorite, aren’t you?”
+[says] (p.17) “Don’t delude yourself, Ayanokōji. All that preferential treatment doesn’t make you special. You just got lucky with the environment you were placed in. That’s right… It’s all thanks to that watchful, anxious classmate of yours right over there.”
+[says] (p.18) “Come here.”
+[says] (p.18) “Well, not exactly, but close enough. You’re Horikita-senpai’s little sister, right?”
+[says] (p.18) “I didn’t expect my predecessor’s little sister to get placed in Class D after enrollment. I was surprised.”
+[says] (p.19) “I just wanted to meet with you and your little sister.”
+[says] (p.19) “Concession? Certainly not! Do you really think that I’d ever make a move on her? Such a cute underclassman and moreover my senpai’s precious little sister?”
+[says] (p.19) “Even so, you don’t have to be so distant do you? If only you had told me about your sister earlier. If you had, I would’ve been able to invite her to the student council much sooner.”
+[says] (p.19) “This meeting is just for introductions. I’ll invite you again another day.”
+[says] (p.21) “Good grief. Of course this isn’t enough to get him to take me seriously.”
+[says] (p.21) “I would cherish the time I have left with my little sister if I were you.”
+[says] (p.21) “Is it really so important for you to compete with the former president like this?”
+[says] (p.21) “Well, what I do will depend on the details of the exam and Horikita-senpai himself.”
+[says] (p.22) “Will there be any problems with next week’s special exam on your end, president Nagumo? I wouldn’t expect the second-years to have it easy either.”
+[says] (p.22) “Well, I wonder. Just carry on, hoping for my inevitable failure.”
 
 <!-- walk: y1v10 Prologue+Ch1 → p.29 -->
 

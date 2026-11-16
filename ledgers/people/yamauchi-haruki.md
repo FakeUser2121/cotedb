@@ -751,6 +751,8 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [scene] (p.12) Yamauchi came second-to-last; just above Ike.
 [says] (p.15) “I only studied a little bit the day before and I still managed to pass.”
 [scene] (p.15) Yamauchi and Ike joke around after passing.
+[says] (p.15) “Is that so? Wahahaha!”
+[rel:ike-kanji] (p.15) Jokes with Ike after both barely pass.
 
 <!-- walk: y1v10 Prologue+Ch1 → p.29 -->
 

@@ -187,6 +187,14 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [scene] (p.120) Sakayanagi sends her back to the dorms; Kamuro leaves without resisting.
 [rel:sakayanagi-arisu] (p.117–120) Accompanies her and questions her interest in Ayanokōji.
 [rel:ayanokouji-kiyotaka] (p.118–119) Questions Sakayanagi’s fixation on him.
+[says] (p.116) “Ayanokōji…”
+[says] (p.117) “Totally. Mashima-sensei’s usually pretty composed but even he’s been giving off a sorta shaken vibe recently.”
+[says] (p.118) “What, you know something?”
+[says] (p.119) “So you’re saying that the two of you just coincidentally reunited here? That’s such a slim possibility though.”
+[says] (p.119) “Then, is he really a difficult person to handle? Sorry, but I just don’t see it at all.”
+[says] (p.120) “You can ask anyone and they’d probably be thinking the same thing. You’ve never been so fixated on someone like this before.”
+[says] (p.120) “…Whatever.”
+[action] (p.120) Turns and walks down the stairway when Sakayanagi sends her back to the dorms.
 
 <!-- walk: y1v10 Ch3 → p.147 -->
 

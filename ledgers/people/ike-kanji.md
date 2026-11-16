@@ -898,6 +898,12 @@ aliases used for anchors: ike, kanji, ike-kun
 [says] (p.12) “Sensei, are you gonna announce the results now!?”
 [scene] (p.14) Ike jokes around after passing; Chabashira warns about the next exam.
 [rel:horikita-suzune] (p.12) Horikita tutored the class; Ike’s score was just above the red line.
+[action] (p.12) Unable to sit still, practically falls out of his seat while waiting for Chabashira to announce results.
+[says] (p.12) “O-oh well, yeah, I studied pretty hard, but…”
+[says] (p.14) “All right!”
+[says] (p.14) “Well, that wasn’t too hard. Hahahaha… That was close!”
+[action] (p.14) Cries out first when he sees everyone passed and concentrates on his name just above the red line.
+[says] (p.19) “Having sensei give us a compliment like that feels out of this world, doesn’t it?”
 
 <!-- walk: y1v10 Prologue+Ch1 → p.29 -->
 

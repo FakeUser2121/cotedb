@@ -18,6 +18,14 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 [rel:mashima-tomonari] (p.14–19) Overrules his protests against the Class Vote and new system.
 [rel:chabashira-sae] (p.18) Continues pressing after she tries to stop Mashima.
 [rel:hoshinomiya-chie] (p.14) Addresses the staff including her during the meeting.
+[says] (p.14) “If there are any questions, please feel free to ask.”
+[says] (p.14) “What do you want to say, Mashima-sensei?”
+[says] (p.17) “It seems that Mashima-sensei’s way of thinking is a little old-fashioned. Have you never considered the possibility that the way things had been done up until now was wrong?”
+[says] (p.18) “It’s not a problem. If you have something to say, I’d like to hear all of it. After all, I can understand the anxiety all you teachers must be feeling right now after all. Isn’t that right, Mashima-sensei?”
+[says] (p.18) “Reconsider? It’s not that simple. While it may be temporary, I am the director here. That is to say, even though the director holds the responsibility of determining the policies and guidelines at this school, the director is still just a puppet. That said, I’m nothing more than someone who was expressly sent here by an even higher corporate body backed by the government.”
+[says] (p.19) “Those who don’t adapt will be eliminated. That is how society works… no, that is the providence of nature itself. Besides, haven’t we already compromised by allowing the incorporation of protection points? You should be satisfied enough with that, right?”
+[says] (p.20) “Time’s almost up, so let’s leave things off here. Oh, that reminds me. I’ve been looking into whether or not our school can hold a cultural festival next year. I’m thinking I’d like to hear all of your opinions about that, so I look forward to hearing back from all of you when that time comes.”
+[action] (p.13) Finishes explaining the first-years’ final special exam and the new system to the assembled staff.
 
 <!-- walk: y1v11 ch2 → p.26 -->
 

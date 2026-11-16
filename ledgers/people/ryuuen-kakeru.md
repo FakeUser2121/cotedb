@@ -1508,6 +1508,27 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [scene] (p.73) Horikita says Ryūen is doomed; Ayanokōji agrees.
 [rel:horikita-suzune] (p.58–74) Horikita visits him; he sees through her weakness.
 [rel:horikita-suzune] (p.65) Says her class made her complacent.
+[action] (p.63) Sits alone in the cafe reading a book borrowed from the library.
+[says] (p.73) “I was wondering who it was, but it was just Suzune and her mindless little follower.”
+[action] (p.73) Closes the book and faces Horikita.
+[says] (p.73) “And what sort of business do you have with me?”
+[says] (p.73) “It’s not like I have a lot of choices. I’m not going to do anything.”
+[says] (p.73) “I make for a good target for the whole lot. In an exam like this one where someone has to be expelled, nobody wants to attract the resentment of the poor sap who gets kicked out, but in my case, that just ain’t how it works.”
+[action] (p.73) Reopens his book and continues reading.
+[says] (p.74) “That’s probably right. Class D doesn’t stand a chance after I’m gone. As students from the other classes, it would be the best and most appropriate judgment for you to crush me here.”
+[says] (p.74) “Kuku. Certainly.”
+[says] (p.75) “What a stupid question. Of course I could.”
+[says] (p.76) “Are you finally satisfied? Or do you want to hear my secret plan for surviving the exam?”
+[says] (p.76) “Your struggling may lead you to being ostracised by the rest of your class.”
+[says] (p.77) “How lame. So it was all just a bluff?”
+[says] (p.77) “You’re looking for self-confidence from talking to me, but your resolve doesn’t amount to anything.”
+[says] (p.77) “No you can’t.”
+[says] (p.77) “I’ve had plenty of time to keep tabs on you this past year, so I understand you well enough. Putting it in a way even you could understand, I can see the weakness you’re trying to keep hidden.”
+[says] (p.77) “Your class has already made you complacent.”
+[note] (p.77–78) Tells Horikita she could not be ruthless enough to make a choice at this point and would have had to avoid lingering attachments or treat classmates like chess pieces like Sakayanagi.
+[says] (p.78) “And why would you think that?”
+[says] (p.79) “It’s Ishizaki’s reward as the one who defeated me, so I plan on sitting back and accepting it. It’s an opportunity that you, and the rest of Class D, shouldn’t miss out on.”
+[action] (p.79) Turns his attention back to his book as Horikita and Ayanokōji leave.
 
 <!-- walk: y1v10 Ch2 → p.84 -->
 

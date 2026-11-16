@@ -624,6 +624,12 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [rel:nagumo-miyabi] (p.14–21) Nagumo competes with him; says taking him down is his only objective.
 [rel:horikita-suzune] (p.18) Dismisses the idea of evaluating her by blood relationship.
 [rel:ayanokouji-kiyotaka] (p.15–16) Backs Ayanokōji up against Nagumo.
+[action] (p.14) Looks calmly in Ayanokōji’s direction when Nagumo greets him.
+[says] (p.18) “What’s your goal here Nagumo?”
+[says] (p.19) “I’ll say this now just so we’re clear, but you had better not be thinking that you can use my sister to force a concession from me.”
+[says] (p.19) “For the sake of getting what you want, I think you’d do anything.”
+[says] (p.20) “Are you satisfied, Nagumo?”
+[action] (p.20) Senses the conversation has reached its conclusion and leaves without saying another word.
 
 <!-- walk: y1v10 Prologue+Ch1 → p.29 -->
 

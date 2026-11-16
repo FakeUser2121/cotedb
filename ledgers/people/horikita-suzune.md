@@ -2950,6 +2950,20 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:hirata-yousuke] (p.22–23) He tells her to face her brother before he graduates; she refuses.
 [rel:nagumo-miyabi] (p.18) Nagumo invites her to the student council; she rejects.
 [rel:horikita-manabu] (p.23) She says there’s no way her brother would look after her.
+[action] (p.16) Writes down everyone’s scores after the results are announced.
+[says] (p.17) “It’s the result of his own hard work after all. All I did was thoroughly break down each of his weaknesses until he started to see success.”
+[says] (p.17) “It looks like Ike-kun and Yamauchi-kun still have a bit of space between their scores and the red line. It was probably the right decision for us to routinely hold study sessions. If a certain you-know-who next to me would actually put in the smallest amount of effort, our class’s average score might go up a little bit more, now wouldn’t it?”
+[says] (p.17) “I’m not going to accept that. One day I’m going to make you take this seriously.”
+[scene] (p.17) Watches the hallway conversation between Nagumo, Manabu, and Ayanokōji from a distance.
+[says] (p.18) “…The one who sent me this email… Was it you, president Nagumo?”
+[says] (p.18) “Yes… my name is Horikita Suzune.”
+[says] (p.19) “…That’s right. I am not fit to be a member of the student council.”
+[says] (p.20) “I’m sorry. If you’ll excuse me.”
+[action] (p.20) Attempts to get out of the conversation and quickly hurries back to the classroom.
+[says] (p.22) “President Nagumo and my brother… what were they talking about?”
+[says] (p.22) “That’s…”
+[says] (p.23) “So what?”
+[says] (p.23) “If my brother’s interested in anyone… it’s unpleasant, but he’s only interested in you.”
 
 <!-- walk: y1v10 Prologue+Ch1 → p.29 -->
 
@@ -2968,6 +2982,41 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:hirata-yousuke] (p.37–50) He mediates conflicts; she silences Sudō.
 [rel:ryuuen-kakeru] (p.58–74) Visits him; he sees through her weakness.
 [rel:ayanokouji-kiyotaka] (p.50, 73) Discusses exam cruelty; leaves with him.
+[says] (p.36) “Are you implying that there’s something wrong with us?”
+[says] (p.37) “If the entire class unites and selects three people for the praise votes and three people for the censure votes, all six of them would end up with a total of zero votes. That way, nobody would end up in last place. Isn’t that right?”
+[says] (p.38) “Isn’t that rule strange? If we voted honestly and just so happened to end up with a total of zero votes on each side, the results would still be the same, even if we held another vote. If we forcibly distorted the results after that, it wouldn’t feel like the students were chosen by a legitimate evaluation.”
+[says] (p.38) “…Then, what happens when there’s a tie for first or last place?”
+[says] (p.43) “Stop nagging me Kōenji. I don’t think we need someone like you, and that’s not gonna change.”
+[says] (p.43) “That’s enough Sudō-kun.”
+[says] (p.43) “Don’t get so carried away just because your grades have improved a little bit.”
+[says] (p.43) “Zip it.”
+[says] (p.51) “That took a lot of extra effort.”
+[says] (p.51) “But… things have really become troublesome. Despite all the instability and collusion, the class had always been able to cooperate. And yet, they come along and force us to kick someone out… it’s far too cruel.”
+[says] (p.66) “You’re awfully composed, Ryūen-kun.”
+[says] (p.66) “I’ll be blunt. This new special exam. What are you going to do?”
+[says] (p.66) “In other words… you’re saying you’ve obediently resigned yourself to drop out of school?”
+[says] (p.67) “The censure votes will be cast for you. While many students may feel guilty about it, the mental burden on everyone would still be far less than it would be if they voted for somebody else.”
+[says] (p.67) “If you really intend on leaving the school, I won’t say a word. No, not just me. There are probably many people in Class B and Class A who want you to disappear as well. For better or worse, you went too far. Nobody’s willing to lend you a hand.”
+[says] (p.67) “That’s an awfully high evaluation of yourself. How typical of you. But even with all that confidence, you’ve fallen to Class D because of your lack of capability as a leader, haven’t you?”
+[says] (p.68) “It doesn’t seem like we’ll ever be able to understand each other.”
+[says] (p.68) “Today might be the last time we’ll be able to speak to each other, so is it alright if I ask you a single question?”
+[says] (p.68) “You’re in a more desperate situation than anyone else right now. If you put a serious amount of effort into tackling this exam… would you be able to survive and avoid expulsion?”
+[says] (p.69) “That’s what I’d expect from you, even if you’re bluffing. I don’t feel anything but confidence from you.”
+[says] (p.69) “There’s no need. I’m not in the same position you are.”
+[says] (p.69) “Thank you. It feels like I may manage to steel my resolve a bit more thanks to you.”
+[says] (p.69) “There will definitely be expulsions because of this supplementary exam. It’s an unavoidable fate. So, it’s necessary for us to correctly determine the most suitable person to remove. Do you understand the weight behind what I’m saying?”
+[says] (p.69) “If that’s how it ends up, then that would just be the full extent of my capabilities.”
+[says] (p.70) “Choosing who to kick out is the only remotely difficult part of the whole thing.”
+[says] (p.70) “…I can do that. I’ve never shown mercy to anyone who’s held my class back, ever since I enrolled here.”
+[says] (p.70) “You… what could you possibly understand about me?”
+[says] (p.71) “You sound like you have it all figured out, but you don’t really have a way to save yourself, do you?”
+[says] (p.71) “Did you truly lose to a classmate, or was it done by someone outside of your own class…?”
+[says] (p.71) “Whichever one it is, are you just going to silently accept your loser status and drop out of school?”
+[note] (p.78–79) Tells Ryūen she will keep an eye out to make sure her classmates never waste any praise votes on him.
+[says] (p.72) “That guy is the physical embodiment of a liar. It’s not that he’s not struggling to stay enrolled, he’s just putting on airs. It doesn’t matter though. No matter how much he struggles, he’s doomed to drop out of school.”
+[says] (p.72) “Impossible. There’s no way for Ryūen-kun to prevent his expulsion, no matter how you look at it. Even if he apologized to his class and started being an actually decent human being for once, it wouldn’t change how many votes he’d get either way.”
+[says] (p.73) “Or, perhaps you’ve already thought of something? A way for Ryūen-kun to avoid expulsion?”
+[says] (p.73) “Then that’s all there is to it.”
 
 <!-- walk: y1v10 Ch2 → p.84 -->
 

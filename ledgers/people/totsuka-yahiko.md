@@ -213,6 +213,7 @@ char_id: totsuka-yahiko · class: Class 1-A (enrolled April 2015) · status: min
 
 [scene] (p.125) Mentioned as one of the students who still follow Katsuragi, though outnumbered.
 [rel:katsuragi-kouhei] (p.125) Still follows him despite Sakayanagi’s decision.
+[note] (p.125) Does not appear in person; named as one of the few still following Katsuragi.
 
 <!-- walk: y1v10 Ch3 → p.147 -->
 

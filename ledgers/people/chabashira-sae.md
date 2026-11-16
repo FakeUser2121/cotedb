@@ -904,6 +904,25 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [scene] (p.13) Reveals next special exam on March 8; watches Hirata encourage the class.
 [scene] (p.14) Present in hallway during Nagumo-Manabu conversation (not directly involved).
 [rel:horikita-suzune] (p.12) Horikita came third; tutored Sudō in English.
+[note] (p.19) The encouragement line “Everyone. This next special exam will be the last one this year. Let’s all work together and try our best. If we do, our class should be able to aim for class A without anyone being expelled.” is spoken by Hirata as he addresses the class.
+[action] (p.12) Spreads a large piece of paper on the blackboard and draws the red line of fate.
+[says] (p.12) “Calm yourself. You’ll know in a couple of minutes.”
+[says] (p.12) “Are you feeling confident, Ike?”
+[says] (p.13) “You studied hard, huh? Yet you’re still so uneasy?”
+[says] (p.13) “Sudō, you always seem to be in the running for the lowest score, so how are you feeling?”
+[says] (p.14) “The results this time-”
+[says] (p.14) “Everyone successfully passed the exam. These have been your best results so far.”
+[says] (p.15) “Sudō. This past year, you managed to improve your grades better than anyone. You seemed confident that you’d pass as well. I’m looking forward to seeing how you’ll succeed in the future.”
+[scene] (p.16) Reports that all classes passed and Class C came in 3rd by average score.
+[says] (p.17) “I have to hand it to you guys. It may be a simple thing to say, but well done.”
+[says] (p.18) “Nevertheless Ike, you’re getting a bit too excited. Special exams aside, at an academic level, it’s only natural for you to pass an exam like this one. And besides, this exam wasn’t nearly as difficult as other national-level exams.”
+[scene] (p.18) Cuts into the cheerful atmosphere to announce the next special exam, scheduled for March 8th.
+[says] (p.18) “Most of you were probably already aware of this, but just because you’ve finished this end-of-term exam doesn’t mean that testing has finished for the year. There will be a particularly important special exam soon, and as in previous years, it’s scheduled to begin on March 8th.”
+[scene] (p.19) Reveals a relieved smile as the class responds to Hirata’s encouragement.
+[says] (p.19) “The way things have been going recently, I’m starting to think that all of you might just be able to graduate together two years from now.”
+[says] (p.19) “But don’t get too cocky. Your last exam is only a week away, and by no means will it be easy.”
+[rel:ike-kanji] (p.12–14) Questions Ike about confidence and notes he came in last but passed.
+[rel:sudou-ken] (p.13–15) Praises Sudō’s improvement and confidence.
 
 <!-- walk: y1v10 Prologue+Ch1 → p.29 -->
 
@@ -960,6 +979,14 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:mashima-tomonari] (p.18, 21–24) Stops his protests in the meeting and talks with him afterward.
 [rel:hoshinomiya-chie] (p.21–25) Discusses the exam and their rivalry with her.
 [rel:tsukishiro] (p.18, 22) Is dissatisfied with his decisions.
+[says] (p.18) “…Mashima-sensei, that’s enough.”
+[says] (p.21) “Mashima-sensei, Hoshinomiya-sensei. I’d like to borrow the two of you for a bit.”
+[says] (p.22) “In any case, I can’t help but feel dissatisfied about Acting Director Tsukishiro’s way of doing things.”
+[says] (p.23) “Complaining isn’t going to change anything. If you say too much, your neck will fly.”
+[says] (p.23) “You seem pretty calm even though we’ve started to close the gap.”
+[says] (p.24) “…No. Even I’m not that foolish.”
+[says] (p.24) “She’s right. It’s completely irrelevant.”
+[says] (p.25) “Just refrain from doing anything careless, Chie. That’s all I’m going to say.”
 
 <!-- walk: y1v11 ch2 → p.26 -->
 

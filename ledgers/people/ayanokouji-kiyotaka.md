@@ -4634,6 +4634,17 @@ walk: y1v1 → DONE
 [rel:nagumo-miyabi] (p.14–20) Nagumo tests him about forum rumors; he deflects.
 [rel:horikita-manabu] (p.14–21) Manabu backs him up against Nagumo.
 [rel:horikita-suzune] (p.22–23) Tells her to face her brother; she refuses.
+[action] (p.14) Uses the time between classes for a bathroom break and encounters Nagumo and Horikita Manabu in the hallway on the way back.
+[says] (p.15) “Somehow.”
+[says] (p.15) “…Is that so?”
+[action] (p.15) Straightens up in response to Nagumo’s remark about attitude toward the student council president.
+[says] (p.16) “I’m not particularly interested. Ultimately, I don’t have the time to be worrying about my upperclassmen.”
+[scene] (p.17) Looks over his shoulder and sees Horikita Suzune watching from a distance.
+[says] (p.17) “Are you the one who called her here, Nagumo?”
+[says:horikita-suzune] (p.23) “You don’t understand anything. There’s no way that my brother would look after me. Going out of my way to approach him when I know I would be treated cruelly is just plain stupid.”
+[says] (p.24) “Really? Well, maybe you’re right.”
+[thinks] (p.22) It was a difficult conversation for her; she becomes docile and meek like a lamb in front of her brother.
+[thinks] (p.23) It would be meaningless if she didn’t have the courage to face him herself.
 
 <!-- walk: y1v10 Prologue+Ch1 → p.29 -->
 
@@ -4684,6 +4695,35 @@ walk: y1v1 → DONE
 [rel:asahina-nazuna] (p.97–103) Reveals Ichinose asked Nagumo for points and his condition.
 [rel:sakayanagi-arisu] (p.117–127) Postpones their match; promises no censure votes; reveals Katsuragi as Class A target.
 [rel:hirata-yousuke] (p.128–132) Hirata seeks a way to avoid expulsion.
+[says] (p.98) “If you have business with me, I’ll hear you out.”
+[says] (p.100) “He consented immediately?”
+[says] (p.101) “I’ll ask just to make sure, but there’s no way she’d be lent enough private points with no strings attached, is there?”
+[says] (p.102) “Are the conditions he’s set too harsh? Like an obscenely high interest rate?”
+[says] (p.102) “Is it alright? For you to be telling me this?”
+[says] (p.103) “You’re overestimating me. There’s no way I can afford to make up for Class B’s lack of points.”
+[says] (p.103) “I can’t do anything about it.”
+[action] (p.111) Follows Horikita after class but stops when she tells him to leave her alone.
+[says] (p.112) “It wouldn’t be troublesome for us to take in another person.”
+[says:hirata-yousuke] (p.113) “…Could I bother you for a moment, Ayanokōji-kun?”
+[says] (p.113) “Sure.”
+[action] (p.115) Meets Sakayanagi and Kamuro and agrees to speak with Sakayanagi at the special building.
+[says] (p.116) “I have plans to meet up with a friend at Keyaki Mall in around half an hour.”
+[says] (p.120) “Was that okay?”
+[says] (p.120) “Not particularly.”
+[says] (p.121) “Going so far as to have Kamuro head back without you, what are you looking to talk to me about?”
+[says] (p.121) “Make whatever decision you want.”
+[says] (p.122) “If my classmates were to focus their censure votes on me, there wouldn’t be a next time in the first place.”
+[says] (p.122) “Perhaps it’s possible that your subordinates betray you before our match can even happen.”
+[says] (p.123) “You decided early on who’d be removed? Sounds like the right decision.”
+[says] (p.125) “A reasonable choice?”
+[says] (p.125) “Is it alright for you to be telling me this? About who you’re targeting?”
+[says] (p.126) “What are you planning to do with Class C?”
+[says] (p.126) “Sorry. It’s about time I go.”
+[action] (p.128) Meets Hirata and goes to his dorm room to talk.
+[says] (p.129) “Between being sent to the uninhabited island and being forced to participate in the training camp, it was quite the tiring year.”
+[says] (p.129) “Yeah, I think so too.”
+[says] (p.130) “It sounds difficult. In an exam like this one, the more you think about your classmates, the harder it gets.”
+[says] (p.132) “It would be nice if nobody’s expelled when the exam is over. But that’s difficult in this case.”
 
 <!-- walk: y1v10 Ch3 → p.147 -->
 
@@ -4702,6 +4742,19 @@ walk: y1v1 → DONE
 [says:karuizawa-kei] (p.168) “everyone’s gonna vote you out of school.”
 [scene] (p.171) Calls Horikita Manabu to propose a strategy.
 [scene] (p.174) Calls Kushida; she reveals Yamauchi is the tentative mastermind.
+[says] (p.168) “Is that so?”
+[says] (p.168) “Do you know how many people are going to vote against me?”
+[says] (p.169) “Thanks for letting me know this.”
+[action] (p.171) Decides to contact Horikita Manabu and calls him about the supplemental exam.
+[says] (p.171) “I need to talk to you about the supplemental exam. It’s fairly important.”
+[says] (p.172) “Something happened in my class. A large group was formed and they’ve decided on who exactly they’ll be trying to expel.”
+[says] (p.172) “Me.”
+[says] (p.172) “More than half of my class has already agreed to vote against me.”
+[action] (p.173) Offers Manabu a proposal and secures his cooperation for the next day.
+[action] (p.174) Calls Kushida to find out who the mastermind is.
+[says] (p.175) “Could it be that you’re the mastermind, Kushida?”
+[says:kushida-kikyou] (p.179) “It’s Yamauchi-kun.”
+[says] (p.181) “You’ve been a great help, Kushida.”
 [says:kushida-kikyou] (p.179) “It’s Yamauchi-kun.”
 [says:kushida-kikyou] (p.180) “Sakayanagi-san from Class A seems to be the one supporting Yamauchi-kun.”
 [scene] (p.181) Ends the call with Kushida; decides to relay information to Manabu.

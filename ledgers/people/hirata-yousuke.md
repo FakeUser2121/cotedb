@@ -1356,6 +1356,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [scene] (p.13) Chabashira reveals next special exam on March 8; Hirata encourages the class.
 [says] (p.13) “Let’s all work together and try our best. If we do, our class should be able to aim for class A without anyone being expelled.”
 [scene] (p.14) Hirata and Horikita encounter Nagumo and Manabu in the hallway; Nagumo tests Ayanokōji about forum rumors.
+[says] (p.19) “Let’s all work together and try our best. If we do, our class should be able to aim for class A without anyone being expelled.”
 [scene] (p.18) Nagumo invites Horikita Suzune to the student council; she rejects.
 [scene] (p.22) Horikita asks what Nagumo and Manabu discussed; Ayanokōji tells her to face her brother.
 [says:horikita-suzune] (p.23) “You don’t understand anything. There’s no way that my brother would look after me.”
@@ -1405,6 +1406,22 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [scene] (p.132) Asks if it is fine for someone to be expelled.
 [says] (p.132) “Ayanokōji-kun, do you think it’s fine for someone to be expelled?”
 [rel:ayanokouji-kiyotaka] (p.128–132) Seeks his help to avoid an expulsion.
+[says] (p.113) “…Could I bother you for a moment, Ayanokōji-kun?”
+[says] (p.113) “If it’s alright with you, could you join me for a bit after school? I need to talk with you.”
+[says] (p.113) “Alright, how about meeting near the southern entrance of Keyaki Mall at half-past four?”
+[says] (p.128) “I’m happy to hear that. Anyway, how about we walk for a bit?”
+[says] (p.128) “Sorry Ayanokōji-kun. Do you mind if I change our plans a little?”
+[says] (p.128) “Is it a problem if we talk in my room instead? I think I’d feel better if we did.”
+[says] (p.129) “Thanks for understanding.”
+[says] (p.129) “Our first year is already almost over. How did yours go, Ayanokōji-kun?”
+[says] (p.129) “Yeah. It was definitely tough, but I still had fun. Ever since enrolling here, I feel like I’ve been able to successfully build trusting relationships with the people around me.”
+[says] (p.129) “Honestly… There were never any problems until this exam started.”
+[says] (p.130) “Yep. Sorry… I’m well aware that you don’t want to talk about it.”
+[says] (p.131) “Do you really think it’s impossible to save up 20 million private points?”
+[says] (p.131) “I’ve tried running the numbers, but it’s just not possible to get that many points. Yesterday, I tried to casually bring it up with my upperclassmen in the soccer club, but they’re all waiting for the special exams they’ll be facing after this.”
+[says] (p.131) “Yeah…”
+[says] (p.131) “Is that so… Well, thank you.”
+[action] (p.132) Looks worn out with dark circles beneath his eyes after thinking about the exam.
 
 <!-- walk: y1v10 Ch3 → p.147 -->
 
@@ -1452,6 +1469,8 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:horikita-suzune] (p.288–291) Apologises to her and insists she is necessary.
 [rel:yamauchi-haruki] (p.291, 306–310) His attempted self-sacrifice fails and Yamauchi is expelled.
 [rel:wang-mei-yu] (p.290, 311) Is defended by her and later does not respond when she calls out to him.
+[says] (p.291) “There’s no reason for you guys to stick up for me. I’ve already come to hate all of you.”
+[says] (p.291) “So please let me make this easier on all of us.”
 
 <!-- walk: y1v10 Epilogue → p.362 -->
 

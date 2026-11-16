@@ -84,5 +84,17 @@ char_id: asahina-nazuna · class: Class 2-A · status: supporting
 [rel:ichinose-honami] (p.96–103) Speaks on her behalf about the deal with Nagumo.
 [rel:nagumo-miyabi] (p.99–101) Reveals his condition for lending points.
 [rel:ayanokouji-kiyotaka] (p.96–103) Asks him to help Ichinose.
+[says] (p.97) “Sorry Honami. See ya.”
+[says] (p.97) “She’s a real good kid isn’t she? Cute. Smart. Even among the second-years, nobody has anything bad to say about her.”
+[says] (p.98) “Could it be that you’ve managed to gain her affection?”
+[says] (p.98) “How boring. Well whatever. I happened to see the two of you acting all buddy buddy, so I wanted to tell you something.”
+[says] (p.99) “Honami cares deeply for her friends, or how should I put it… You know she’s not the type of person who would sit back and let someone from Class B be expelled, right?”
+[says] (p.100) “It seems she’s gone and asked Miyabi for assistance. Can you guess how he responded?”
+[says] (p.100) “Of course there isn’t. Sure, it’d be a different story if we were only talking about a few thousand points. In that case, there’d be plenty of room for discussion. But once it gets into the hundred thousands or the millions? Nobody’s gonna give away that many.”
+[says] (p.102) “The condition he set for lending the points to her… is for the two of them to get into a relationship.”
+[says] (p.102) “I’ve already told you. It’s for my class. If Miyabi lends all those private points to a first-year, the rest of us may suffer as a result. Furthermore, in exchange for protecting her friends, Honami’ll have to go through something painful.”
+[says] (p.103) “I dunno. But, if it’s you, you’ll probably be able to do something about it one way or another.”
+[says] (p.103) “That’s okay. Even if you don’t do anything, I won’t hold it against you. It’s just wishful thinking on my part either way. That said, even though you say you can’t, I think you just might take the chance anyway.”
+[action] (p.103) Slaps Ayanokōji on the back and runs toward the school after asking him to help.
 
 <!-- walk: y1v10 Ch3 → p.147 -->
