@@ -2789,3 +2789,13 @@ Kiyotaka; wakes in the present thinking of their confrontation. Ledgers
 touched: sakayanagi-arisu, ayanokouji-kiyotaka, ledgers/volumes/y1v11.md
 (created). verify y1v11: ALL PASS; make check OK; gate exit 0. Next:
 y1v11 ch2 pp.13–26.
+
+### y1v11 ch2 — walked, shipped
+
+Chapter 1 "The Teachers’ Battle" (pp.13–26). Staff meeting with Acting
+Director Tsukishiro over the first-years’ exams and Class Vote; Mashima
+protests but is overruled; hallway discussion between Chabashira,
+Mashima, and Hoshinomiya. Ledgers touched: tsukishiro (created),
+mashima-tomonari, chabashira-sae, hoshinomiya-chie,
+ledgers/volumes/y1v11.md. verify y1v11: ALL PASS; make check OK; gate
+exit 0. Next: ch3 pp.27–54.

@@ -1729,3 +1729,7 @@ coverage notes and DONE stamp. Determinism hash: `07c6b4817cdb3b08f1faf8f2ec1bae
 
 Year 1 Volume 11 walk started: Prologue (pp.7–12). Sakayanagi’s White
 Room memory and Ayanokōji. Determinism hash: `6616223090c987c7e9262af9f554cf44`.
+
+Year 1 Volume 11 Chapter 1 "The Teachers’ Battle" (pp.13–26) walked.
+Tsukishiro imposes first-year exam changes; teacher conflict. Determinism
+hash: `b4c834dcff42ea32623ae022084291ce`.

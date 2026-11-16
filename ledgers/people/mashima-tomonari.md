@@ -144,3 +144,23 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 [rel:katsuragi-kouhei] (p.293–296) Confirms the result when Katsuragi protests.
 
 <!-- walk: y1v10 Epilogue → p.362 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->
+
+### y1v11 pp.14–26 — Ch.1: Opposing the acting director
+
+[scene] (p.14) Breaks the silence in the staff meeting and questions Acting Director Tsukishiro about the first-years’ exams.
+[scene] (p.15) Protests that the Class Vote creates a huge risk of expulsions and is inappropriate so soon after Tsukishiro’s appointment.
+[says] (p.15) “Forgive my rudeness, Acting Director, but you’ve only just recently been appointed to your post at this school. Although I understand you’ve made this decision based on everything that has happened so far, I think it’s somewhat inappropriate for us to do something that will force expulsions just because there haven’t been any amongst the first-years yet.”
+[scene] (p.16) Argues the provisional exam is different from past policies and that expulsions should not be practically forced.
+[scene] (p.18) Asks Tsukishiro to reconsider the provisional exam, but is shut down.
+[scene] (p.21) Listens as Hoshinomiya and Chabashira discuss the exam in the hallway.
+[scene] (p.24) Tries to mediate between Chabashira and Hoshinomiya over their past rivalry.
+[scene] (p.25) Warns Hoshinomiya that Class C is different this year.
+[rel:tsukishiro] (p.14–19) Challenges his decision but fails to change it.
+[rel:chabashira-sae] (p.21–24) Speaks with her and Hoshinomiya after the meeting.
+[rel:hoshinomiya-chie] (p.21–26) Speaks with her after the meeting and warns her about Class C.
+
+<!-- walk: y1v11 ch2 → p.26 -->

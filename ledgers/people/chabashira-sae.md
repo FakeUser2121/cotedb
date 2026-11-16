@@ -943,3 +943,22 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:hirata-yousuke] (p.304) Announces his second-place praise-vote result.
 
 <!-- walk: y1v10 Epilogue → p.362 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->
+
+### y1v11 pp.14–25 — Ch.1: After the staff meeting
+
+[scene] (p.14) Watches as Mashima challenges Acting Director Tsukishiro in the staff meeting.
+[scene] (p.18) Tells Mashima that is enough when his resistance becomes futile.
+[scene] (p.21) Calls Mashima and Hoshinomiya aside in the hallway to discuss the upcoming exam.
+[scene] (p.22) Notes the 20 million private-point override does not require class points this time but remains dissatisfied with Tsukishiro’s approach.
+[scene] (p.23) Warns Hoshinomiya not to do anything reckless and denies fantasizing about reaching Class A.
+[scene] (p.24) Rejects Mashima’s attempt to bring up the past and says personal feelings are irrelevant to the time passed.
+[scene] (p.25) Tells Hoshinomiya to be careful and leaves for Class C.
+[rel:mashima-tomonari] (p.18, 21–24) Stops his protests in the meeting and talks with him afterward.
+[rel:hoshinomiya-chie] (p.21–25) Discusses the exam and their rivalry with her.
+[rel:tsukishiro] (p.18, 22) Is dissatisfied with his decisions.
+
+<!-- walk: y1v11 ch2 → p.26 -->

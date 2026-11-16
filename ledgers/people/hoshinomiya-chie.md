@@ -175,3 +175,22 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 [rel:ichinose-honami] (p.252–253) Listens as Ichinose assures the class no one will be expelled.
 
 <!-- walk: y1v10 Ch6 → p.285 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->
+
+### y1v11 pp.14–26 — Ch.1: After the staff meeting
+
+[scene] (p.14) Watches as Mashima challenges Acting Director Tsukishiro in the staff meeting.
+[scene] (p.21) Talks with Chabashira and Mashima in the hallway, saying it is depressing that someone will be expelled.
+[scene] (p.22) Suggests Tsukishiro may be trying to remove teachers who oppose him.
+[scene] (p.23) Teases Chabashira about closing the gap and presses her about reaching Class A.
+[scene] (p.24) Insists with Chabashira that she has not brought personal feelings into the exams.
+[scene] (p.25) After Chabashira leaves, tells Mashima she has gotten over the past but Chabashira has not.
+[scene] (p.26) Says she has Ichinose on her side and will not go easy on Chabashira if Class C gets close.
+[rel:chabashira-sae] (p.21–26) Talks with her about the exam and their rivalry.
+[rel:mashima-tomonari] (p.21–26) Talks with him after the meeting.
+[rel:tsukishiro] (p.22) Suspects his actions may target opposing teachers.
+
+<!-- walk: y1v11 ch2 → p.26 -->
