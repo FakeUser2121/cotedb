@@ -3218,3 +3218,28 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:sotomura-hideo] (p.470–476) Plays the VR game with him.
 
 <!-- walk: y1v11 ch10 → p.476 -->
+
+## y1v11.5
+
+<!-- walk: y1v11.5 → start -->
+
+### y1v11.5 pp.8–12 — Prologue: Before Manabu’s graduation
+
+[scene] (p.8) Morning of March 31 in her dorm room; Suzune looks at her tired reflection in the mirror before her brother’s departure from the school.
+[thinks] (p.8) «My face looks terrible.»
+[thinks] (p.8) «Is it really alright to part from him like this?»
+[scene] (p.9) She reflects that she and her brother spent less than a few hours talking over more than a year and questions whether it is acceptable to part without speaking.
+[thinks] (p.10) «…no, that won’t do.»
+[scene] (p.10) Feeling she has not shown her brother enough growth this year, she worries that sending him off would only make him worry about her.
+[thinks] (p.10) «No, that’s not it, that won’t make it better, right?»
+[scene] (p.10) With her brother set to depart at noon, she rejects running away but struggles to decide what to do as time runs out.
+[thinks] (p.11) «What can I—what should I do?»
+[thinks] (p.11) «I… who in the world… am I?»
+[scene] (p.11) She reflects that she spent much of her life as an imitation shaped to gain her brother’s recognition.
+[thinks] (p.11) «…An imitation.»
+[scene] (p.12) Accepting that past self as real, she decides what she wants to show him and resolves to act before his departure.
+[thinks] (p.12) «What I want to show him… What I really wanted my brother to see is…»
+[thinks] (p.12) «…thank you. My fake, yet without doubt, my real self.»
+[rel:horikita-manabu] (p.8–12) Reflects on parting from her brother on the day of his graduation departure.
+
+<!-- walk: y1v11.5 Prologue → p.12 -->

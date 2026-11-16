@@ -2911,3 +2911,12 @@ locator hit pages); twenty-three roster characters named for this volume
 in roster data still lack individual record files. Added closing stamp
 `<!-- walk: y1v11 Epilogue → DONE -->` to `ledgers/volumes/y1v11.md`.
 verify/build/gate/check/hash stable. Next: y1v11.5.
+
+### y1v11.5 Prologue — walked, shipped
+
+Prologue "Graduation day morning" (pp.8–12). Horikita Suzune reflects in
+her dorm on March 31 before Horikita Manabu’s noon departure, confronts
+her past imitation of herself, and resolves to act. Ledgers touched:
+`ledgers/volumes/y1v11.5.md`, `ledgers/people/horikita-suzune.md`.
+`verify --vol y1v11.5`: ALL PASS; `build`/`gate`/`make check` OK; hash
+stable `342aba6642427bb7cfbe092356ab20b9`. Next: y1v11.5 ch1 pp.13–120.

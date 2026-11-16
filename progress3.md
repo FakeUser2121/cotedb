@@ -1768,3 +1768,5 @@ Year 1 Volume 11 Epilogue "The Line Between the Winner and the Loser"
 interference revealed; Ayanokōji wins library rematch vs Sakayanagi.
 Volume y1v11 completed with coverage notes and DONE stamp. Determinism
 hash: `6bea783884c7cb8573db97157f0b718a`.
+
+| y1v11.5 Prologue (pp.8-12) | 5 | 0 | 342aba6642427bb7cfbe092356ab20b9 |
