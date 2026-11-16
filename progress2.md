@@ -2822,3 +2822,18 @@ chabashira-sae, sakayanagi-arisu, ichinose-honami, kaneda-satoru,
 mashima-tomonari, hoshinomiya-chie, kushida-kikyou, karuizawa-kei,
 ledgers/volumes/y1v11.md. verify y1v11: ALL PASS; make check OK; gate
 exit 0. Next: ch5 pp.93–169.
+
+### y1v11 ch5 — walked, shipped
+
+Chapter 4 "What the Class Lacks" (pp.93–169). Ayanokōji Group reviews
+Class C’s slow preparation and Class A’s advantage; Horikita leads
+discussions and moves planning to group chat; Kōenji participates once
+but refuses commitment; Hirata remains withdrawn and harshly rejects
+Mii-chan, who continues to pursue him with Ayanokōji’s encouragement;
+Hashimoto observes Class C; Hoshinomiya speaks with Ayanokōji before
+school. Ledgers touched: ayanokouji-kiyotaka, horikita-suzune,
+hasebe-haruka, sakura-airi, yukimura-teruhiko, miyake-akito,
+hirata-yousuke, wang-mei-yu, kushida-kikyou, ike-kanji, sudou-ken,
+karuizawa-kei, kouenji-rokusuke, chabashira-sae, hoshinomiya-chie,
+hashimoto-masayoshi, ledgers/volumes/y1v11.md. verify y1v11: ALL PASS;
+make check OK; gate exit 0. Next: ch6 pp.170–280.

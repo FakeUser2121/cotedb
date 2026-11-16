@@ -3059,3 +3059,30 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:hirata-yousuke] (p.55, 58) Notes his absence and takes initiative in his place.
 
 <!-- walk: y1v11 ch4 → p.92 -->
+
+### y1v11 pp.110–159 — Ch.4: Leading Class C’s preparation
+
+[scene] (p.110) Takes her place at the teacher’s podium for the after-school discussion as Hirata leaves.
+[scene] (p.112) Tells Kōenji the exam cannot be decided overnight and insists on continued participation.
+[scene] (p.115) Corrects Ike that baseball needs nine people and answers questions about event participation.
+[scene] (p.117) Explains that rule variations could require many students to participate in multiple events.
+[scene] (p.118) Assigns homework for everyone to submit events they are good at or confident in winning.
+[scene] (p.121) Tries to pressure Kōenji by saying he must at least submit his strengths to count as participating.
+[scene] (p.125) Tells Ayanokōji she will not consider Hirata an asset for this exam.
+[scene] (p.131) Suggests limiting class resources spent on Hirata and asks Ayanokōji what he thinks.
+[scene] (p.139) Monitors Kōenji’s departure and starts the next discussion at the podium.
+[scene] (p.141) Rejects stationing guards in the hallway and proposes using a class group chat for important details.
+[scene] (p.143) Tries to stop Mii-chan from chasing Hirata and says he should be left alone for now.
+[scene] (p.144) Leaves the classroom to bring Mii-chan back.
+[scene] (p.145) Argues with Ayanokōji but agrees to let him go after Mii-chan.
+[scene] (p.154) Questions Sudō about basketball and insists the class can submit only one one-person event.
+[scene] (p.157) Promises Sudō she will submit basketball if he can propose a workable team plan.
+[rel:hirata-yousuke] (p.110, 125, 131, 143) Treats him as unusable for now and opposes chasing him.
+[rel:kouenji-rokusuke] (p.112, 120–123, 139) Tries to secure his participation or at least his event input.
+[rel:ike-kanji] (p.113–118) Answers his questions about participation and homework.
+[rel:sudou-ken] (p.121, 154–157) Stops him from confronting Kōenji and evaluates his basketball proposal.
+[rel:wang-mei-yu] (p.142–145) Tries to stop her from following Hirata.
+[rel:kushida-kikyou] (p.138, 142) Relies on her to help manage the group and contacts.
+[rel:ayanokouji-kiyotaka] (p.125–146) Discusses Hirata and exam planning with him.
+
+<!-- walk: y1v11 ch5 → p.169 -->

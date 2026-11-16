@@ -716,3 +716,25 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [rel:sakura-airi] (p.229–230) Asks her about likely votes among the girls.
 
 <!-- walk: y1v10 Ch5 → p.237 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->
+
+### y1v11 pp.94–142 — Ch.4: Analyzing the exam and discussion security
+
+[scene] (p.94) Tells the Ayanokōji Group that the previous day’s discussion was a waste of time and that Class A students were lingering outside the classroom.
+[scene] (p.95) Warns that eavesdropping could reveal Class C’s planned events and strengths.
+[scene] (p.100) Says Class A is led by Sakayanagi and that an information war is inevitable.
+[scene] (p.102) Criticizes Akito’s luck-based event strategy as too unlikely to succeed.
+[scene] (p.109) Calls Hirata a handicap for the upcoming exam while observing him in the cafeteria.
+[scene] (p.140) Raises the risk of eavesdropping before the class discussion and asks for countermeasures.
+[scene] (p.142) Accepts Horikita’s plan to use a class group chat for important details.
+[rel:ayanokouji-kiyotaka] (p.94–109) Discusses the exam situation with him in the Ayanokōji Group.
+[rel:hasebe-haruka] (p.94–109) Discusses Class A’s advantage and strategy with her.
+[rel:miyake-akito] (p.95–109) Analyzes the situation with him.
+[rel:sakura-airi] (p.94–109) Responds to her concerns in the group.
+[rel:horikita-suzune] (p.140–142) Raises security concerns to her and agrees with the group-chat solution.
+[rel:hirata-yousuke] (p.109) Comments on his condition as a problem for the exam.
+
+<!-- walk: y1v11 ch5 → p.169 -->

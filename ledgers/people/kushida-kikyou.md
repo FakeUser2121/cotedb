@@ -1461,3 +1461,14 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:ayanokouji-kiyotaka] (p.78) He considers asking her for information about the class.
 
 <!-- walk: y1v11 ch4 → p.92 -->
+
+### y1v11 pp.138–142 — Ch.4: Supporting Mii-chan and managing contacts
+
+[scene] (p.138) Invites Mii-chan to go home together after the discussion, anticipating her distress over Hirata.
+[scene] (p.139) Is noted by Ayanokōji as reliable in situations like this.
+[scene] (p.142) Offers to create the class-wide group chat for the exam and asks everyone to let her contact them.
+[rel:wang-mei-yu] (p.138, 142) Tries to support her when she is upset about Hirata.
+[rel:horikita-suzune] (p.139, 142) Assists the class discussion by handling contacts.
+[rel:hirata-yousuke] (p.138) Is present as Mii-chan struggles with his rejection.
+
+<!-- walk: y1v11 ch5 → p.169 -->

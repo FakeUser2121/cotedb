@@ -4829,3 +4829,32 @@ walk: y1v1 → DONE
 [rel:karuizawa-kei] (p.74–92) Meets her in his room, gathers information, and gives her a necklace.
 
 <!-- walk: y1v11 ch4 → p.92 -->
+
+### y1v11 pp.93–169 — Ch.4: Class preparation, Hirata, and Hoshinomiya
+
+[scene] (p.93) The day after the matchups, eats lunch with the Ayanokōji Group and asks about the previous day’s class discussion.
+[scene] (p.98) Apologizes for losing the lottery/matchup choice while thinking he would have chosen Class A anyway.
+[scene] (p.108) Observes Hirata’s aimless, withdrawn state in the cafeteria.
+[scene] (p.125) Talks with Horikita in the morning about leaving Hirata out of the exam for now and the risks of forcing him.
+[scene] (p.130) Suggests to Horikita that Mii-chan’s concern for Hirata may be love.
+[scene] (p.144) Leaves the classroom to follow Horikita and Mii-chan after the discussion is interrupted.
+[scene] (p.145) Tells Horikita he will go after Mii-chan because someone who wants to leave Hirata alone should not be the one to approach him.
+[scene] (p.148) Catches up to Mii-chan and walks with her as she follows Hirata.
+[scene] (p.150) Tells Mii-chan she is right not to leave Hirata alone and encourages her to reach out.
+[scene] (p.151) Returns to school and encounters Hashimoto, who has been watching Class C.
+[scene] (p.159) On the way to school, is stopped by Hoshinomiya-sensei for a conversation.
+[scene] (p.160) Listens as Hoshinomiya asks about his relationship status and talks about romance in the dorms.
+[scene] (p.167) Tells Hoshinomiya that dating across rival classes could cause problems.
+[scene] (p.168) Reports to Chabashira that he and Hoshinomiya were talking about room sharing.
+[rel:hasebe-haruka] (p.93–109) Eats lunch and discusses the exam with her in the Ayanokōji Group.
+[rel:sakura-airi] (p.93–109) Eats lunch and discusses the exam with her in the Ayanokōji Group.
+[rel:yukimura-teruhiko] (p.93–109) Discusses Class A’s information advantage and exam strategy with him.
+[rel:miyake-akito] (p.93–109) Discusses the matchup and Hirata’s state with him.
+[rel:horikita-suzune] (p.125–146) Discusses Hirata and class strategy with her; goes after Mii-chan instead of her.
+[rel:hirata-yousuke] (p.108, 125–151) Observes his withdrawal and considers how to handle him.
+[rel:wang-mei-yu] (p.144–151) Follows and encourages her to reach out to Hirata.
+[rel:hashimoto-masayoshi] (p.146–153) Is observed by him and speaks briefly with him.
+[rel:hoshinomiya-chie] (p.159–168) Talks with her on the way to school.
+[rel:chabashira-sae] (p.168–169) Answers her after Hoshinomiya leaves.
+
+<!-- walk: y1v11 ch5 → p.169 -->

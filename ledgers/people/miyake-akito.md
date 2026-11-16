@@ -385,3 +385,23 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [rel:hirata-yousuke] (p.233–234) Notes his defeated state and warns Ayanokōji to be careful.
 
 <!-- walk: y1v10 Ch5 → p.237 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->
+
+### y1v11 pp.95–109 — Ch.4: Lunch with the Ayanokōji Group
+
+[scene] (p.95) Realizes Keisei means Class A students were spying on Class C’s discussion.
+[scene] (p.98) Defends Ayanokōji by saying a one-in-four lottery win should not be expected.
+[scene] (p.100) Suggests Class C could beat Class A by choosing luck-based events.
+[scene] (p.103) Admits the luck-based idea was naive after Keisei’s criticism.
+[scene] (p.105) Says fighting Class A will be tough and that Ayanokōji taking the commander risk may prevent another expulsion.
+[scene] (p.106) Changes the subject to the Class D versus Class B matchup and comments on Hirata’s condition.
+[rel:ayanokouji-kiyotaka] (p.95–109) Defends and discusses the exam with him.
+[rel:yukimura-teruhiko] (p.95–109) Discusses strategy and exam analysis with him.
+[rel:hasebe-haruka] (p.95–109) Talks with her during lunch.
+[rel:sakura-airi] (p.95–109) Present with her in the group discussion.
+[rel:hirata-yousuke] (p.108–109) Reacts to seeing his withdrawn state in the cafeteria.
+
+<!-- walk: y1v11 ch5 → p.169 -->

@@ -634,3 +634,16 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:ayanokouji-kiyotaka] (p.56) Is noted by him as someone who will not easily change.
 
 <!-- walk: y1v11 ch4 → p.92 -->
+
+### y1v11 pp.111–139 — Ch.4: Minimal participation
+
+[scene] (p.111) Attends the after-school discussion unexpectedly and says he is part of the class.
+[scene] (p.112) Says he wants the discussion wrapped up today and agrees to participate only this one time.
+[scene] (p.121) Declares there is nothing he cannot do when Horikita asks for event ideas.
+[scene] (p.122) Refuses to pledge that he will win any event, saying he will decide for himself whether to use his talent for the class.
+[scene] (p.136) Remains unconcerned and focused on grooming himself during the morning turmoil in class.
+[scene] (p.139) Leaves before the next discussion, treating his single participation as sufficient.
+[rel:horikita-suzune] (p.111–122, 139) Resists her attempts to secure his ongoing participation.
+[rel:sudou-ken] (p.111, 123) Provokes his irritation by his attitude and claims.
+
+<!-- walk: y1v11 ch5 → p.169 -->

@@ -989,3 +989,15 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:mashima-tomonari] (p.62–71) Explains the commander procedures together with him.
 
 <!-- walk: y1v11 ch4 → p.92 -->
+
+### y1v11 pp.139, 168–169 — Ch.4: Class and hallway
+
+[scene] (p.139) Casts a sidelong glance at Horikita before leaving as the after-school discussion begins.
+[scene] (p.168) Confronts Hoshinomiya after seeing her talk with Ayanokōji and says he is her student.
+[scene] (p.168) Listens as Ayanokōji offers to explain the conversation.
+[scene] (p.169) Reacts dismissively when Ayanokōji says they talked about room sharing.
+[rel:horikita-suzune] (p.139) Observes her taking charge of the discussion.
+[rel:ayanokouji-kiyotaka] (p.168–169) Intervenes in Hoshinomiya’s approach to him and questions their conversation.
+[rel:hoshinomiya-chie] (p.168) Confronts her over talking to Ayanokōji.
+
+<!-- walk: y1v11 ch5 → p.169 -->

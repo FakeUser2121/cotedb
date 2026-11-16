@@ -201,3 +201,18 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 [rel:ichinose-honami] (p.67) Jokes with her during the explanation.
 
 <!-- walk: y1v11 ch4 → p.92 -->
+
+### y1v11 pp.159–168 — Ch.4: Talking with Ayanokōji before school
+
+[scene] (p.159) Calls out cheerfully to Ayanokōji on the way to school and stops him to talk.
+[scene] (p.160) Asks about his relationship status and teases him while holding his hand.
+[scene] (p.161) Tells him the co-ed dorm environment is ideal for romance and complains about boys and girls living in the same dormitory.
+[scene] (p.162) Shares a story about company room sharing to argue that single rooms encourage relationships.
+[scene] (p.166) Asks Ayanokōji about dating across rival classes and says drama would make competition more exciting.
+[scene] (p.167) Stops the conversation when Chabashira arrives and teases her.
+[scene] (p.168) Remarks that the special exam will show what Ayanokōji can do against Sakayanagi.
+[rel:ayanokouji-kiyotaka] (p.159–168) Approaches and talks with him on the way to school.
+[rel:chabashira-sae] (p.167–168) Teases her when she intervenes.
+[rel:sakayanagi-arisu] (p.168) Mentions her as Ayanokōji’s opponent in the special exam.
+
+<!-- walk: y1v11 ch5 → p.169 -->

@@ -1476,3 +1476,23 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:horikita-suzune] (p.55, 58) Takes over class leadership in his absence.
 
 <!-- walk: y1v11 ch4 → p.92 -->
+
+### y1v11 pp.108–149 — Ch.4: Continued withdrawal
+
+[scene] (p.108) Appears in the cafeteria with aimless, heavy steps and a vacant expression.
+[scene] (p.110) Leaves the classroom immediately when after-school discussion begins, ignoring classmates calling after him.
+[scene] (p.129) Arrives at school nearly late and ignores Mii-chan’s greeting, taking his seat in silence.
+[scene] (p.132) Rejects Mii-chan when she tries to invite him to lunch.
+[says] (p.132) “Could you please leave me alone already?”
+[says] (p.133) “It’s annoying.”
+[says] (p.133) “I’m not eating. Not with you.”
+[scene] (p.134) Coldly rebuffs Karuizawa when she intervenes and threatens her into silence.
+[scene] (p.135) Tells Mii-chan to stop standing there after rejecting her again.
+[scene] (p.137) Leaves immediately after school the next day as Mii-chan hesitates to follow.
+[scene] (p.148) Walks back toward the dorms ahead of Mii-chan without noticing her call out.
+[rel:wang-mei-yu] (p.129–149) Is repeatedly reached out to by her and harshly rejects her.
+[rel:karuizawa-kei] (p.133–135) Rebukes her when she tries to intervene.
+[rel:horikita-suzune] (p.125, 131, 143) Is treated by her as someone to leave alone for now.
+[rel:ayanokouji-kiyotaka] (p.108, 125–151) Is observed and discussed as a problem for the class and exam.
+
+<!-- walk: y1v11 ch5 → p.169 -->

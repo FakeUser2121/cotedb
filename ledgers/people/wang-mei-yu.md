@@ -76,3 +76,24 @@ char_id: wang-mei-yu · status: minor
 [rel:hirata-yousuke] (p.58) Goes after him when he leaves.
 
 <!-- walk: y1v11 ch4 → p.92 -->
+
+### y1v11 pp.129–151 — Ch.4: Reaching out to Hirata
+
+[scene] (p.129) Greets Hirata when he arrives at school, but he ignores her.
+[scene] (p.132) Tries to invite Hirata to eat lunch together before he cuts her off.
+[scene] (p.133) Tries to explain that she only wanted to eat lunch with him after he rejects her.
+[scene] (p.135) Returns to her seat crying after Hirata rejects her again.
+[scene] (p.138) Hesitates to follow Hirata when he leaves after school and accepts Kushida’s invitation to go home together.
+[scene] (p.142) Tells the class she has something to do and leaves to follow Hirata.
+[says] (p.143) “I, I don’t want to abandon Hirata-kun.”
+[scene] (p.143) Refuses Horikita’s attempt to stop her and leaves the classroom.
+[scene] (p.148) Follows Hirata toward the dorms but hesitates to call out until Ayanokōji catches up.
+[scene] (p.149) Explains to Ayanokōji that she wants to help Hirata because he is in pain.
+[scene] (p.150) Says she is fine being hated if it keeps Hirata from feeling alone.
+[scene] (p.151) Runs ahead to call out to Hirata.
+[rel:hirata-yousuke] (p.129–151) Repeatedly tries to reach him despite his rejections.
+[rel:kushida-kikyou] (p.138) Accepts her offer to go home together.
+[rel:horikita-suzune] (p.142–145) Refuses her demand to stop chasing Hirata.
+[rel:ayanokouji-kiyotaka] (p.148–151) Receives encouragement from him to reach out to Hirata.
+
+<!-- walk: y1v11 ch5 → p.169 -->

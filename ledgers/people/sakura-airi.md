@@ -991,3 +991,16 @@ aliases used for anchors: sakura, airi, sakura-san
 [rel:ayanokouji-kiyotaka] (p.49) Participates in the discussion about his praise votes.
 
 <!-- walk: y1v11 ch3 → p.54 -->
+
+### y1v11 pp.93–109 — Ch.4: Lunch with the Ayanokōji Group
+
+[scene] (p.93) Eats lunch with the Ayanokōji Group and explains that the previous discussion ended once everyone understood the rules.
+[scene] (p.98) Asks whether the class has any chance after hearing Class A is ahead.
+[scene] (p.104) Worries about Ayanokōji having to act as commander against Class A.
+[scene] (p.105) Says she would likely lose a Protection Point right away if she had one.
+[rel:ayanokouji-kiyotaka] (p.93–109) Expresses concern for him as commander.
+[rel:hasebe-haruka] (p.93–109) Present with her in the group discussion.
+[rel:yukimura-teruhiko] (p.94–109) Listens to his analysis of the exam.
+[rel:miyake-akito] (p.98–109) Present with him in the group discussion.
+
+<!-- walk: y1v11 ch5 → p.169 -->

@@ -1353,3 +1353,20 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:ike-kanji] (p.46) Raises the issue together with him.
 
 <!-- walk: y1v11 ch3 → p.54 -->
+
+### y1v11 pp.111–157 — Ch.4: Class discussion and basketball proposal
+
+[scene] (p.111) Starts to stand up when Kōenji acts dismissively but sits back down after Horikita glares at him.
+[scene] (p.115) Lists sports like American football and rugby as events that can require more than ten people.
+[scene] (p.121) Reacts in alarm when Horikita proposes pressuring Kōenji with a win-or-distrust condition.
+[scene] (p.123) Says he could beat Kōenji at basketball and doubts Kōenji’s claim of being unbeatable.
+[scene] (p.144) Warns Ayanokōji not to leave the classroom after Horikita said to wait.
+[scene] (p.154) Proposes basketball as an event for Class C and says he will definitely win a one-on-one.
+[scene] (p.156) Admits he cannot guarantee victory in a five-on-five if his teammates are weak and the opponents are experienced.
+[scene] (p.157) Accepts Horikita’s request to think of teammates he could win with in a five-on-five.
+[rel:horikita-suzune] (p.111, 121, 154–157) Follows her lead in discussion and responds to her evaluation of basketball.
+[rel:kouenji-rokusuke] (p.111, 123) Is irritated by his attitude and challenges his claim of invincibility.
+[rel:ayanokouji-kiyotaka] (p.144) Tries to stop him from leaving during the discussion.
+[rel:ike-kanji] (p.115) Supports the discussion about events requiring many participants.
+
+<!-- walk: y1v11 ch5 → p.169 -->

@@ -1231,3 +1231,15 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:ayanokouji-kiyotaka] (p.74–92) Visits him, provides class information, and receives a necklace.
 
 <!-- walk: y1v11 ch4 → p.92 -->
+
+### y1v11 pp.114–135 — Ch.4: Class discussion and Hirata confrontation
+
+[scene] (p.114) Suggests during the discussion that an event might need many people, like twenty.
+[scene] (p.133) Speaks up to tell Hirata he went too far with Mii-chan.
+[scene] (p.134) Corrects herself to call him “Hirata-kun” and says she intervened for the sake of the class.
+[scene] (p.135) Backs down after Hirata threatens her and says she no longer cares.
+[rel:ike-kanji] (p.114) Responds to his point about participation numbers.
+[rel:hirata-yousuke] (p.133–135) Tries to stop him from harshly rejecting Mii-chan but is shut down.
+[rel:wang-mei-yu] (p.133–135) Intervenes on her behalf when Hirata rejects her.
+
+<!-- walk: y1v11 ch5 → p.169 -->

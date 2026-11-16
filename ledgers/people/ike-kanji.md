@@ -956,3 +956,15 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:sudou-ken] (p.46) Raises concerns together about Yamauchi and the votes.
 
 <!-- walk: y1v11 ch3 → p.54 -->
+
+### y1v11 pp.113–116 — Ch.4: Questions during the class discussion
+
+[scene] (p.113) Asks Horikita whether students who are not strong in academics or sports will have a turn to participate in the exam.
+[scene] (p.114) Argues that events requiring few skilled people could leave many classmates with nothing to do.
+[scene] (p.115) Insists baseball needs ten people and argues there are few events requiring many participants.
+[scene] (p.116) Says he does not think the class needs to keep meeting or practicing if participation may be limited.
+[rel:horikita-suzune] (p.113–116) Questions her about participation and practice.
+[rel:sudou-ken] (p.115) Hears him list sports that require larger teams.
+[rel:karuizawa-kei] (p.114) Responds to her suggestion about events needing many people.
+
+<!-- walk: y1v11 ch5 → p.169 -->

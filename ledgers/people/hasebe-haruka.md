@@ -408,3 +408,20 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [rel:sakura-airi] (p.230) Defends her intuition about the girls’ votes.
 
 <!-- walk: y1v10 Ch5 → p.237 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->
+
+### y1v11 pp.93–109 — Ch.4: Lunch with the Ayanokōji Group
+
+[scene] (p.93) Eats lunch with the Ayanokōji Group after the class matchups are decided.
+[scene] (p.96) Reacts with fear to the idea that Sakayanagi has already made a move and suggests gathering information on Class A.
+[scene] (p.98) Apologizes to Ayanokōji when she worries her words sounded like blame for losing the lottery.
+[scene] (p.104) Tells Ayanokōji he does not need to push himself as commander because he has a Protection Point.
+[rel:ayanokouji-kiyotaka] (p.93–109) Talks with him in the group and reassures him about being commander.
+[rel:yukimura-teruhiko] (p.94–101) Discusses Class A’s advantage and exam strategy with him.
+[rel:miyake-akito] (p.98–101) Talks with him during the lunch discussion.
+[rel:sakura-airi] (p.93–109) Present with her in the group discussion.
+
+<!-- walk: y1v11 ch5 → p.169 -->

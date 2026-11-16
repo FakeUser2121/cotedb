@@ -354,3 +354,19 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [rel:katsuragi-kouhei] (p.298) Moves to obstruct him.
 
 <!-- walk: y1v10 Epilogue → p.362 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->
+
+### y1v11 pp.146–153 — Ch.4: Watching Class C
+
+[scene] (p.146) Appears in the corridor as Ayanokōji leaves to follow Mii-chan, suggesting he may have overheard his conversation with Horikita.
+[scene] (p.147) Greets Ayanokōji and tells him which way Mii-chan ran.
+[scene] (p.151) Waits near Class C after school and asks Ayanokōji about chasing his classmate.
+[scene] (p.152) Comments that it must be hard for Class C to work together and asks whether Ayanokōji became commander because of his Protection Point.
+[scene] (p.153) Admits he came to do reconnaissance despite Sakayanagi’s instructions and says he could not gather information because Class C used group chat for important details.
+[rel:ayanokouji-kiyotaka] (p.146–153) Observes and questions him while gathering information on Class C.
+[rel:horikita-suzune] (p.146, 153) Overhears or infers her strategy and is thwarted by the group-chat countermeasure.
+
+<!-- walk: y1v11 ch5 → p.169 -->
