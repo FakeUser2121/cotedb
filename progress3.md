@@ -1679,5 +1679,11 @@ Year 1 Volume 9 chapter 6 is the something-vague chapter — the tail turns
 into a three-way confrontation, Ichinose answers her door sick, four
 full-name forum rumors hit the provisional-exam morning, and the rumor
 about Ayanokōji and Karuizawa becomes the cover both of them have to live
-with. Determinism hash across consecutive builds:
-`f84f5e413fcb778bed73439bdac41eae`.
+with.
+
+Correction pass across the y1v4, y1v8 and y1v9 records — the class-letter
+defects line now matches the corpus (Class C from the third semester,
+Ryūen’s class now Class D), paste artifacts are gone, and the missed
+promotion announcement at y1v8 p.13 is on both bus-briefing scenes and the
+volume beats. Determinism hash across consecutive builds:
+`3f6938d86bee3398f84ebb9f0f1f6231`.

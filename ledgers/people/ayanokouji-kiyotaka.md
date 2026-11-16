@@ -3952,6 +3952,7 @@ walk: y1v1 → DONE
 
 ### y1v8 p.11–32 — Ch.2 §2.1: the bus briefing and his safety list
 [scene] (p.11) Third-semester road trip; Ayanokōji rides the Class C bus in a school-mandated jersey and listens to Chabashira’s Mixed Training Camp briefing while Ike talks across the aisle.
+[says:chabashira-sae] (p.13) “I’m sorry. You are Class C now. Allow me to give you newly promoted students an overview of the special exam.”
 [says:chabashira-sae] (p.22) “Yes. The penalty is expulsion.”
 [thinks] (p.22) Overall ranking uses the large group’s average, but expulsions turn on each small group’s average under the school’s threshold — “That was troubling.”
 [thinks] (p.24) On the solidarity rule: a representative cannot casually drag an enemy class down unless someone was already “on the verge of dropping out anyway,” and peers would know who that was.

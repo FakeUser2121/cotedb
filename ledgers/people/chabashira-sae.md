@@ -822,6 +822,7 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 ### y1v8 p.11–32 — Ch.2 §2.1: the Mixed Training Camp briefing
 [scene] (p.11) On the Class C bus Chabashira hands out the exam handout and delivers the full Mixed Training Camp rules before phones are collected.
+[says:chabashira-sae] (p.13) “I’m sorry. You are Class C now. Allow me to give you newly promoted students an overview of the special exam.”
 [says:chabashira-sae] (p.22) “Yes. The penalty is expulsion.”
 [says:chabashira-sae] (p.22) “Expulsion will only apply to the small group within that large group whose average score falls below the threshold set by the school.”
 [says:chabashira-sae] (p.23) “There are significant benefits to being a group representative. The representative and the representative’s classmates will receive double the rewards.”

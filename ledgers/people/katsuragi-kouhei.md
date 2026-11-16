@@ -182,7 +182,7 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 
 ### y1v4 p.226, 233, 242 — Ch.5 §5.2–5.3: instructions, faction, the defensive vote
 [scene] (p.226) The chain Machida cites, the plan Morishige was expected to disobey, and the defensive-player example in Ayanokōji’s Dragon Outcome #1 explanation.
-[rel:machida-kouji] (p.226) “We’ve been acting on Katsuragi-san’s instructions from the very beginning” — Class A’s no自主 line.
+[rel:machida-kouji] (p.226) “We’ve been acting on Katsuragi-san’s instructions from the very beginning” — Class A’s chain-of-command line: no action on their own.
 [rel:morishige-takurou] (p.233) Ichinose’s read: he would not quietly sit on Katsuragi’s plan — Sakayanagi faction first.
 [rel:sakayanagi-arisu] (p.233) The faction Morishige answers to, not Katsuragi.
 [rel:ryuuen-kakeru] (p.242) The defensive vote Ryuuen bent: even Katsuragi could vote in the riskless half hour on a 1% Kushida seed.

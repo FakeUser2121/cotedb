@@ -2579,3 +2579,23 @@ too-short [says] lines dropped or folded to prose so the skip counter
 stays 0. verify y1v9: 352 [says] (0 skipped) + 72 non-says ALL PASS; make
 check OK (R18 0, R19 82/82); gate exit 0; hash
 `f84f5e413fcb778bed73439bdac41eae` twice. Next: ch7 pp.151–175.
+
+Owner-approved correction pass before ch7 (surgical in-place edits to
+shipped rows): the ch6 translation-defects line in the y1v9 volume record
+wrongly flagged five class-letter mentions as defects — the corpus is
+consistent that the class was promoted to Class C (y1v7 p.152 “almost
+guaranteed”, y1v8 p.13 “You are Class C now… formally promoted to Class C
+in the third semester”, y1v9 p.108) and that Ryūen’s class now reads
+Class D (y1v9 pp.63, 153, 206), so the line was trimmed to its two genuine
+defects (p.145 “provisionary exam”, p.149 “Sakayanagisan’s strategy”).
+Chinese paste artifacts cleared from three shipped rows (the y1v9 ch2 gym
+beat and the two y1v4 chain-of-command rows). The promotion announcement
+the y1v8 first pass missed was added: a p.13 quote row on both bus-briefing
+scene records (Chabashira, Ayanokōji) and a p.13 beat in y1v8 chapter 2.
+Header class policy as ruled by the owner: headers keep the enrollment
+class, so the site’s Class fact stays the starting class; per-year
+current-class display waits on a gen/ design approval. Rule 12 sample: 0
+new members in all five topics. verify y1v8 628, y1v9 352, y1v4 1074
+[says] lines — all ALL PASS; gate exit 0; make check OK (R18 0, R19
+82/82); hash `3f6938d86bee3398f84ebb9f0f1f6231` twice. Next: ch7
+pp.151–175, already read.

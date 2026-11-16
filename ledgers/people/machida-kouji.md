@@ -120,7 +120,7 @@ char_id: machida-kouji · class: Class 1-A · status: minor
 Manabe nodded. (he anchors the room’s conclusion)
 [rel:manabe-shiho] (p.225) Her nod makes the verdict joint — Class A and C together.
 [says] (p.226) “We’ve been acting on Katsuragi-san’s instructions from the very beginning. We won’t do anything on our own,” answered Machida.
-[rel:katsuragi-kouhei] (p.226) The chain of command cited under pressure — no自主 action.
+[rel:katsuragi-kouhei] (p.226) The chain of command cited under pressure — no action on their own.
 [says] (p.226) “What are you doing, Ichinose? There’s no point in calling Yukimura’s phone at a time like this,” said Machida, looking suspicious.
 [says] (p.227) “B-but isn’t that odd? Yukimura unlocked the phone right in front of us. I checked his private email history just to be sure,” said Machida.
 [trait] (p.227) His log audit — the exact check Ichinose demolishes as fakeable.
