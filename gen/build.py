@@ -22,6 +22,7 @@ from model import fold  # noqa: E402
 from render import (Page, card, cards_block, crumbs, dot, ent, esc, item, path, pg, row_item,  # noqa: E402
                     shell, toc)
 
+ASSETS = Path(__file__).parent / "assets"
 PAGES = {}
 TIER = {"main": "Main", "supporting": "Supporting", "minor": "Minor"}
 
@@ -574,6 +575,19 @@ def build_redirects():
 
 
 # ------------------------------------------------------------------- main
+def service_worker(files):
+    """Offline cache worker. Its version is a hash of every page and asset, so any change retires the old cache."""
+    h = hashlib.md5()
+    for rel in sorted(files):
+        h.update(rel.encode())
+        h.update(files[rel].encode("utf-8"))
+    core = ["index.html", "assets/style.css", "assets/app.js", "assets/meta.js", "assets/fx.js"]
+    warm = sorted(PAGES) + ["assets/search-index.js"]
+    text = (ASSETS / "sw.js").read_text(encoding="utf-8")
+    return (text.replace("__VERSION__", h.hexdigest()[:12])
+            .replace("__CORE__", json.dumps(core)).replace("__WARM__", json.dumps(warm)))
+
+
 def md5_tree(root):
     h = hashlib.md5()
     for p in sorted(Path(root).rglob("*")):
@@ -605,9 +619,11 @@ def main():
     build_search()
     build_redirects()
     R.FILES["assets/search-index.js"] = search_index()
-    R.FILES["assets/meta.js"] = "window.VOLS=" + json.dumps([[v["ord"], v["label"], v["short"], v["id"]] for v in m.vols], ensure_ascii=False) + ";\n"
-    for name in ("style.css", "app.js"):
-        R.FILES[f"assets/{name}"] = (Path(__file__).parent / "assets" / name).read_text(encoding="utf-8")
+    vols = "window.VOLS=" + json.dumps([[v["ord"], v["label"], v["short"], v["id"]] for v in m.vols], ensure_ascii=False) + ";\n"
+    R.FILES["assets/meta.js"] = vols + (ASSETS / "boot.js").read_text(encoding="utf-8")
+    for name in ("style.css", "app.js", "fx.js"):
+        R.FILES[f"assets/{name}"] = (ASSETS / name).read_text(encoding="utf-8")
+    R.FILES["sw.js"] = service_worker({**PAGES, **R.FILES})
     if out.exists():
         shutil.rmtree(out)
     for rel, text in {**PAGES, **R.FILES}.items():
