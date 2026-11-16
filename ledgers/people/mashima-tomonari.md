@@ -132,3 +132,15 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 [rel:katsuragi-kouhei] (p.262–263) Watches the vote to expel him.
 
 <!-- walk: y1v10 Ch6 → p.285 -->
+
+### y1v10 pp.292–297 — Epilogue: Announcing Class A results
+
+[scene] (p.292) Announces the Class A Class Poll results, naming Sakayanagi first in praise votes.
+[scene] (p.293) Announces Totsuka Yahiko received 36 censure votes and will be expelled.
+[scene] (p.296) Tells Totsuka the decision cannot be overturned and asks him to come to the staff room.
+[scene] (p.297) Answers Sakayanagi’s question about potential consequences and says they will not arise.
+[rel:sakayanagi-arisu] (p.292, 297) Announces results and responds to her question.
+[rel:totsuka-yahiko] (p.293, 296) Announces his expulsion and escorts him.
+[rel:katsuragi-kouhei] (p.293–296) Confirms the result when Katsuragi protests.
+
+<!-- walk: y1v10 Epilogue → p.362 -->

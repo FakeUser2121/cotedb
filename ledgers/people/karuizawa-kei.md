@@ -1194,3 +1194,13 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:ayanokouji-kiyotaka] (p.168–170) Warns him he is the target of the Class Poll.
 
 <!-- walk: y1v10 Ch4 → p.181 -->
+
+### y1v10 pp.371–372 — Short Stories: Neighbour
+
+[scene] (p.371) Approaches Horikita in the corridor and asks what she was talking about with Ayanokōji.
+[scene] (p.372) Tells Horikita that if she is too scared, her relationship with Ayanokōji will never begin, then returns to her friends.
+[says] (p.372) “If you are that scared, your relationship with him will never begin”.
+[rel:horikita-suzune] (p.371–372) Speaks with her about Ayanokōji.
+[rel:ayanokouji-kiyotaka] (p.371–372) Discusses him with Horikita.
+
+<!-- walk: y1v10 Short Stories → p.376 -->

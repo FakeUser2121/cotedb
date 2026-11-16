@@ -49,3 +49,12 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 [rel:sakayanagi-arisu] (p.282) Present during her post-mortem with Hashimoto and Kamuro.
 
 <!-- walk: y1v10 Ch6 → p.285 -->
+
+### y1v10 pp.298 — Epilogue: After Totsuka’s expulsion
+
+[scene] (p.298) Moves with Hashimoto to block Katsuragi’s path when he approaches Sakayanagi after Totsuka’s expulsion.
+[rel:sakayanagi-arisu] (p.298) Protects her during the confrontation with Katsuragi.
+[rel:hashimoto-masayoshi] (p.298) Acts with him to block Katsuragi.
+[rel:katsuragi-kouhei] (p.298) Moves to obstruct him.
+
+<!-- walk: y1v10 Epilogue → p.362 -->

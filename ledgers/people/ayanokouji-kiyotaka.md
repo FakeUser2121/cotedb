@@ -4739,3 +4739,45 @@ walk: y1v1 → DONE
 [rel:ike-kanji] (p.206, 211) Drawn into accusations and questions Yamauchi’s ties to Sakayanagi.
 
 <!-- walk: y1v10 Ch5 → p.237 -->
+
+### y1v10 pp.286–362 — Epilogue: The dropouts and the deals behind them
+
+[scene] (p.286) On the morning of the Class Poll, Ayanokōji and Horikita discuss whether either of them acted before the vote.
+[scene] (p.288) Hirata apologises to Horikita and says he has decided she is necessary for the class.
+[scene] (p.289) Hirata volunteers to be expelled; Ayanokōji recognises this as the answer Hirata had reached.
+[says:hirata-yousuke] (p.289) “I want everyone to cast a censure vote for me.”
+[scene] (p.300) Kōenji provokes Yamauchi before the results; Chabashira enters to announce Class C’s votes.
+[scene] (p.305) Chabashira announces Ayanokōji received 42 praise votes, placing first in Class C.
+[scene] (p.306) Yamauchi is announced expelled with 33 censure votes; Kōenji stops Yamauchi’s attack and Chabashira orders Yamauchi to leave.
+[scene] (p.311) Horikita confronts Ayanokōji after class, asking how much he anticipated and whether he told her brother about Sakayanagi and Yamauchi.
+[scene] (p.315) At the bulletin board, Ayanokōji sees the expulsions: Totsuka Yahiko (Class A), none (Class B), Yamauchi Haruki (Class C), Manabe Shiho (Class D).
+[scene] (p.316) Ryūen and Katsuragi discuss the results at the board; Ryūen then takes Ayanokōji behind the school building.
+[scene] (p.319) Flashback: Ishizaki and Ibuki come to Ayanokōji’s room asking how to prevent Ryūen’s expulsion.
+[scene] (p.335) Flashback: Ayanokōji arranges for Ichinose to come to his room and brokers a deal using Ryūen’s private points to secure Class B’s praise votes for Ryūen.
+[scene] (p.343) Ichinose agrees to ask Class B to cast 40 praise votes for Ryūen in exchange for the points transferred by Ibuki.
+[scene] (p.347) Ayanokōji explains to Ryūen that he used the situation to build trust with Ichinose.
+[scene] (p.349) Ichinose calls to report Class B avoided expulsion by paying 20 million points to negate Kanzaki’s expulsion.
+[scene] (p.354) Ayanokōji meets Sakayanagi at the special building; acting director Tsukishiro appears, kicks Sakayanagi’s cane, and restrains Ayanokōji while delivering a message from his father.
+[scene] (p.361) Ayanokōji proposes to Sakayanagi that they have their match in the next exam.
+[rel:hirata-yousuke] (p.288–291, 304–311) Volunteers to be expelled and is devastated after Yamauchi’s expulsion.
+[rel:yamauchi-haruki] (p.301–309) Expelled from Class C after the Class Poll.
+[rel:sakayanagi-arisu] (p.354–361) Meets her and agrees to face her in the next exam.
+[rel:ryuuen-kakeru] (p.316–318, 347–348) Speaks with him and reflects on saving him via Ichinose and Class D.
+[rel:ichinose-honami] (p.335–346, 349–353) Brokers the deal to save Ryūen and later speaks with her by phone.
+[rel:ibuki-mio] (p.319–346) Works with her and Ishizaki to transfer Ryūen’s points and target Manabe.
+[rel:ishizaki-daichi] (p.319–346) Seeks help to save Ryūen and cooperates in the plan.
+[rel:horikita-suzune] (p.286–287, 311–315) Discusses the morning of the vote and confronts him afterward.
+
+<!-- walk: y1v10 Epilogue → p.362 -->
+
+### y1v10 pp.366–376 — Short Stories
+
+[scene] (p.367) Meets Ichinose in the morning and agrees to walk to school with her.
+[scene] (p.370) In Horikita’s perspective after the exam, Ayanokōji speaks briefly with Kōenji and walks away as Horikita stops him.
+[scene] (p.373) Meets Sakayanagi, who asks to postpone their duel past the Class Poll.
+[scene] (p.375) Receives Ichinose in his room at night and responds to her questions.
+[rel:ichinose-honami] (p.366–369, 375–376) Walks to school with her and talks with her in his room.
+[rel:horikita-suzune] (p.370–371) Is stopped by her in the corridor after the exam.
+[rel:sakayanagi-arisu] (p.373–374) Agrees to her request to postpone their match.
+
+<!-- walk: y1v10 Short Stories → p.376 -->

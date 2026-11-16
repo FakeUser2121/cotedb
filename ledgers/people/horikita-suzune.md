@@ -3006,3 +3006,26 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:sudou-ken] (p.216–217) Rejects his plea to protect Yamauchi.
 
 <!-- walk: y1v10 Ch5 → p.237 -->
+
+### y1v10 pp.286–315 — Epilogue: Morning vote and aftermath
+
+[scene] (p.286) On the morning of the Class Poll, asks Ayanokōji if he truly stayed uninvolved and says he is the one who saved her.
+[scene] (p.288) Responds when Hirata apologises and asks what he is doing.
+[scene] (p.290) Questions Hirata for trying to sacrifice himself instead of choosing who is unnecessary.
+[says] (p.290) “Think about what you’re saying… Have you gone insane?”
+[scene] (p.311) After the results, follows Ayanokōji and asks how much he anticipated and whether he told her brother about Sakayanagi and Yamauchi.
+[says] (p.315) “Ayanokōji-kun!!”
+[rel:ayanokouji-kiyotaka] (p.286–287, 311–315) Questions him before and after the vote.
+[rel:hirata-yousuke] (p.288–291) Tries to stop him from volunteering for expulsion.
+
+<!-- walk: y1v10 Epilogue → p.362 -->
+
+### y1v10 pp.370–372 — Short Stories: Neighbour
+
+[scene] (p.370) After the exam, follows Ayanokōji in the corridor and grabs his hand to stop him.
+[scene] (p.370) Asks him how much he knew; he repeats that he did not participate in the special exam in the literal sense.
+[scene] (p.371) Speaks with Karuizawa about Ayanokōji and trust.
+[rel:ayanokouji-kiyotaka] (p.370–371) Stops him and questions him after the exam.
+[rel:karuizawa-kei] (p.371–372) Talks with her about Ayanokōji.
+
+<!-- walk: y1v10 Short Stories → p.376 -->

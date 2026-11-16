@@ -808,3 +808,20 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [rel:ayanokouji-kiyotaka] (p.273–275) Selected as the target to be expelled under Sakayanagi’s plan.
 
 <!-- walk: y1v10 Ch6 → p.285 -->
+
+### y1v10 pp.291–309 — Epilogue: Expulsion from Class C
+
+[scene] (p.291) Urges classmates to vote for Hirata so he can avoid expulsion.
+[scene] (p.299) Grows restless before the results and argues with Kōenji.
+[scene] (p.301) Claims Sakayanagi promised him twenty praise votes from Class A and says he will be safe.
+[says] (p.302) “Sakayanagi-chan promised that she would give me twenty praise votes! In other words, even if most of the class voted against me, I still won’t be the one who gets expelled!”
+[scene] (p.306) Is announced as the student with the most censure votes in Class C (33) and is told he will be expelled.
+[scene] (p.307) Denies the result and demands Sakayanagi be confronted, but cannot prove the promise.
+[scene] (p.308) Snaps after Kōenji’s provocation, swings a chair at him, and is stopped.
+[scene] (p.309) Breaks down crying and leaves the classroom after Chabashira orders him out.
+[status] (p.306–309, 315) Expelled from Class C in the Class Poll.
+[rel:sakayanagi-arisu] (p.301–307) Believed her promise of Class A praise votes, which was not fulfilled.
+[rel:kouenji-rokusuke] (p.299–308) Is provoked by him and attacks him after the results.
+[rel:hirata-yousuke] (p.291) Tries to use Hirata’s offer to save himself.
+
+<!-- walk: y1v10 Epilogue → p.362 -->

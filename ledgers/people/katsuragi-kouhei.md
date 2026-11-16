@@ -673,3 +673,18 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [rel:totsuka-yahiko] (p.263–265) Tries to defend him; he restrains and advises him.
 
 <!-- walk: y1v10 Ch6 → p.285 -->
+
+### y1v10 pp.292–317 — Epilogue: Totsuka’s expulsion
+
+[scene] (p.293) Stands up when Totsuka is announced expelled with 36 censure votes instead of him.
+[says] (p.293) “How absurd! What’s going on!?”
+[scene] (p.294) Demands an explanation from Sakayanagi and learns she lied about expelling him.
+[scene] (p.296) Tells Totsuka the decision cannot be overturned and watches him leave with Mashima.
+[scene] (p.298) Accepts Sakayanagi’s warning and agrees not to oppose Class A.
+[scene] (p.316) At the bulletin board, speaks with Ryūen about remaining in school and the contract.
+[status] (p.292–298) Remains in Class A while Totsuka is expelled.
+[rel:totsuka-yahiko] (p.293–296) Fails to protect him from expulsion.
+[rel:sakayanagi-arisu] (p.294–298) Learns he was spared and submits to her control.
+[rel:ryuuen-kakeru] (p.316–317) Speaks with him at the bulletin board.
+
+<!-- walk: y1v10 Epilogue → p.362 -->

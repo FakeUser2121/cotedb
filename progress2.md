@@ -2761,3 +2761,22 @@ shibata-sou, hoshinomiya-chie, sakayanagi-arisu, katsuragi-kouhei,
 totsuka-yahiko, kamuro-masumi, hashimoto-masayoshi, kitou-hayato,
 mashima-tomonari, yamauchi-haruki, ledgers/volumes/y1v10.md. verify
 y1v10: ALL PASS; make check OK; gate exit 0. Next: Epilogue pp.286–362.
+
+### y1v10 Epilogue + Afterword + Short Stories — walked, volume done
+
+Epilogue "The Dropouts" (pp.286–362): Class Poll results and
+expulsions (Totsuka/Class A, none/Class B override, Yamauchi/Class C,
+Manabe/Class D), flashback deal saving Ryūen via Ichinose, and acting
+director Tsukishiro confrontation; Afterword (pp.363–364); Short Stories
+(pp.365–376: Ichinose, Horikita/Karuizawa, Sakayanagi, Ichinose).
+Ledgers touched across sections include ayanokouji-kiyotaka,
+horikita-suzune, hirata-yousuke, yamauchi-haruki, chabashira-sae,
+kushida-kikyou, kouenji-rokusuke, ike-kanji, sudou-ken,
+shinohara-satsuki, wang-mei-yu, sakayanagi-arisu, katsuragi-kouhei,
+totsuka-yahiko, mashima-tomonari, hashimoto-masayoshi, kitou-hayato,
+ibuki-mio, ishizaki-daichi, ichinose-honami, ryuuen-kakeru,
+kaneda-satoru, manabe-shiho, karuizawa-kei, ledgers/volumes/y1v10.md.
+Volume-end coverage notes added (locator passing mentions/name hits for
+y1v10 roster chars) and closing stamp set to
+`<!-- walk: y1v10 Short Stories → DONE -->`. verify y1v10: ALL PASS;
+make check OK; gate exit 0. Next: y1v11 ch1.

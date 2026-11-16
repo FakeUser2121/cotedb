@@ -578,3 +578,29 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:mashima-tomonari] (p.262–263) Her homeroom teacher oversees the Class A vote.
 
 <!-- walk: y1v10 Ch6 → p.285 -->
+
+### y1v10 pp.292–361 — Epilogue: Results and the acting director
+
+[scene] (p.292) In Class A, receives 36 praise votes in the Class Poll.
+[scene] (p.294) Reveals Totsuka Yahiko, not Katsuragi, received 36 censure votes and is expelled.
+[scene] (p.294) Tells Katsuragi she lied when she said he would be expelled and explains Totsuka was unnecessary.
+[scene] (p.297) Asks Mashima whether consequences would follow if Katsuragi had been expelled, then warns Katsuragi not to oppose Class A.
+[scene] (p.354) Meets Ayanokōji at the special building and explains she used Class A praise votes to protect him while manipulating Yamauchi.
+[scene] (p.355) Says she targeted Yamauchi in part as revenge for him bumping into her at the Mixed Training Camp.
+[scene] (p.358) Acting director Tsukishiro appears; Sakayanagi falls when her cane is kicked away and is helped by Ayanokōji.
+[scene] (p.359) Questions Tsukishiro’s actions and agrees to face Ayanokōji in the next exam.
+[rel:katsuragi-kouhei] (p.292–298) Spares him and expels Totsuka instead, warning him to remain obedient.
+[rel:totsuka-yahiko] (p.292–296) Has him expelled from Class A.
+[rel:mashima-tomonari] (p.292–297) Receives the results and questions him.
+[rel:ayanokouji-kiyotaka] (p.354–361) Explains her actions and accepts his proposal for a match in the next exam.
+
+<!-- walk: y1v10 Epilogue → p.362 -->
+
+### y1v10 pp.373–374 — Short Stories
+
+[scene] (p.373) Meets Ayanokōji privately after sending Kamuro away and asks to postpone their duel past the Class Poll.
+[says] (p.373) “Won’t you accept, this deal?”
+[scene] (p.374) Promises not to give Ayanokōji any censure votes during the exam to earn his trust.
+[rel:ayanokouji-kiyotaka] (p.373–374) Proposes postponing their match and offers reassurance.
+
+<!-- walk: y1v10 Short Stories → p.376 -->

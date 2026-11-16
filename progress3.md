@@ -1722,3 +1722,7 @@ Determinism hash: `aaa0b75f5ebaa1f61be711b06f172d64`.
 Year 1 Volume 10 Chapter 6 (pp.238–285) walked. Other classes’ strategies:
 Ryūen accepts expulsion, Ichinose borrows from Nagumo, Sakayanagi targets
 Ayanokōji via Yamauchi. Determinism hash: `7aa085ff7ff7095818de72975c7ca518`.
+
+Year 1 Volume 10 completed (Prologue through Short Stories, pp.6–376).
+Epilogue covers Class Poll expulsions and outcomes; volume closed with
+coverage notes and DONE stamp. Determinism hash: `07c6b4817cdb3b08f1faf8f2ec1baee8`.

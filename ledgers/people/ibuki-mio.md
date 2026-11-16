@@ -673,3 +673,20 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:manabe-shiho] (p.241) Provoked by her after Ryūen leaves.
 
 <!-- walk: y1v10 Ch6 → p.285 -->
+
+### y1v10 pp.319–346 — Epilogue: Saving Ryūen (flashback)
+
+[scene] (p.319) Visits Ayanokōji’s room with Ishizaki at night to ask how to prevent Ryūen’s expulsion.
+[scene] (p.323) Says she was forced to come along and that Ayanokōji would not cooperate.
+[scene] (p.324) Admits she does not want to beg Ryūen for his points but later recovers them.
+[scene] (p.334) Calls Ayanokōji to report she has obtained all of Ryūen’s private points and comes to his room with Ishizaki.
+[scene] (p.338) Chooses Manabe Shiho as the replacement target to be expelled instead of Ryūen.
+[scene] (p.343) Agrees with Ichinose to exchange Ryūen’s points for Class B’s 40 praise votes to save him.
+[says] (p.345) “It… It just pisses me off that he’s running away before I can pay him back for this stupid loan I took from him, that’s all there is to it.”
+[rel:ryuuen-kakeru] (p.319–346) Helps save him from expulsion by using his points.
+[rel:ishizaki-daichi] (p.319–346) Works with him to seek help and carry out the plan.
+[rel:ichinose-honami] (p.342–346) Negotiates with her to secure praise votes for Ryūen.
+[rel:ayanokouji-kiyotaka] (p.319–346) Asks for his help and follows his plan.
+[rel:manabe-shiho] (p.338–339) Chooses her as the replacement target.
+
+<!-- walk: y1v10 Epilogue → p.362 -->

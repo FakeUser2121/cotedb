@@ -929,3 +929,17 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:hirata-yousuke] (p.221–225) Witnesses his refusal to accept expelling a classmate.
 
 <!-- walk: y1v10 Ch5 → p.237 -->
+
+### y1v10 pp.291–362 — Epilogue: Conducting the vote and aftermath
+
+[scene] (p.291) Enters the classroom and begins the Class Poll, directing students to the voting room.
+[scene] (p.303) Tells Yamauchi to be quiet and announces she will reveal the results.
+[scene] (p.306) Announces the praise-vote rankings and states Ayanokōji placed first with 42 votes.
+[scene] (p.306) Announces Yamauchi Haruki received 33 censure votes and is expelled.
+[scene] (p.307) Tries to calm Yamauchi, asks for proof of his promise with Sakayanagi, and orders him to leave.
+[scene] (p.362) On Monday, announces the final special exam to Class C.
+[rel:yamauchi-haruki] (p.291, 303–309) Oversees his expulsion from the class.
+[rel:ayanokouji-kiyotaka] (p.306) Announces his first-place praise-vote result.
+[rel:hirata-yousuke] (p.304) Announces his second-place praise-vote result.
+
+<!-- walk: y1v10 Epilogue → p.362 -->

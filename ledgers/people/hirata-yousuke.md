@@ -1438,3 +1438,19 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:yamauchi-haruki] (p.219–221) Refuses to accept expelling him despite the accusations.
 
 <!-- walk: y1v10 Ch5 → p.237 -->
+
+### y1v10 pp.288–311 — Epilogue: Volunteering and aftermath
+
+[scene] (p.288) Before the vote, apologises to Horikita for saying he would vote against her the previous day.
+[scene] (p.289) Stands at the podium and says he has decided Horikita is necessary and asks everyone to cast censure votes for him.
+[says] (p.289) “I want everyone to cast a censure vote for me.”
+[scene] (p.290) Says he is prepared to be expelled and refuses to change his mind.
+[scene] (p.291) Claims he has come to hate the class and asks them to let him make it easier.
+[scene] (p.300) Learns from Kōenji that a message had circulated asking classmates not to vote against him.
+[scene] (p.304) Is announced as second in Class C for praise votes.
+[scene] (p.310) Remains sitting motionless at his desk after Yamauchi’s expulsion, barely responding to Mii-chan.
+[rel:horikita-suzune] (p.288–291) Apologises to her and insists she is necessary.
+[rel:yamauchi-haruki] (p.291, 306–310) His attempted self-sacrifice fails and Yamauchi is expelled.
+[rel:wang-mei-yu] (p.290, 311) Is defended by her and later does not respond when she calls out to him.
+
+<!-- walk: y1v10 Epilogue → p.362 -->

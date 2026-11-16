@@ -926,3 +926,14 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:horikita-suzune] (p.203) Is named by her as a low-contribution candidate.
 
 <!-- walk: y1v10 Ch5 → p.237 -->
+
+### y1v10 pp.299–311 — Epilogue: Yamauchi’s expulsion
+
+[scene] (p.299) Quietly warns Yamauchi to calm down before the results.
+[scene] (p.301) Is told by Yamauchi that he is sorry for making him worry.
+[scene] (p.306) Places third from last in censure votes as Yamauchi is expelled.
+[scene] (p.311) Leaves the classroom quietly with Sudō after the results; on Monday he appears lacking energy.
+[rel:yamauchi-haruki] (p.299–306) Is his friend and witness to his expulsion.
+[rel:sudou-ken] (p.306, 311) Shares the aftermath of the vote with him.
+
+<!-- walk: y1v10 Epilogue → p.362 -->

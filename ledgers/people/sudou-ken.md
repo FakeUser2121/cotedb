@@ -1326,3 +1326,13 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:ike-kanji] (p.203) Named alongside him among low-contribution candidates.
 
 <!-- walk: y1v10 Ch5 → p.237 -->
+
+### y1v10 pp.299–311 — Epilogue: Yamauchi’s expulsion
+
+[scene] (p.299) Sits quietly as Kōenji provokes Yamauchi before the results.
+[scene] (p.306) Receives 21 censure votes, placing second from last, as Yamauchi is expelled.
+[scene] (p.311) Leaves the classroom quietly with Ike after the results; on Monday he appears lacking energy.
+[rel:yamauchi-haruki] (p.299–306) Witnesses his friend’s expulsion.
+[rel:ike-kanji] (p.306, 311) Shares the aftermath of the vote with him.
+
+<!-- walk: y1v10 Epilogue → p.362 -->

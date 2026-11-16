@@ -609,3 +609,16 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:ayanokouji-kiyotaka] (p.210) Asks why Yamauchi targeted him.
 
 <!-- walk: y1v10 Ch5 → p.237 -->
+
+### y1v10 pp.299–312 — Epilogue: Provoking Yamauchi
+
+[scene] (p.299) Tells Yamauchi his defeat is close at hand before the results are announced.
+[scene] (p.300) Shows Hirata a message indicating classmates were asked not to vote against him.
+[scene] (p.301) Questions Yamauchi’s claim that Sakayanagi promised him 20 praise votes and points out a verbal promise is unreliable.
+[scene] (p.308) Casually stops Yamauchi’s chair attack and releases it when Chabashira intervenes.
+[scene] (p.311) Tells Ayanokōji he cooperated to avoid expulsion and denies provoking Yamauchi out of concern for the class.
+[rel:yamauchi-haruki] (p.299–308) Provokes him before and after the results.
+[rel:hirata-yousuke] (p.300) Shows him the message asking classmates not to vote against him.
+[rel:ayanokouji-kiyotaka] (p.311–312) Speaks with him after leaving the classroom.
+
+<!-- walk: y1v10 Epilogue → p.362 -->

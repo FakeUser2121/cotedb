@@ -146,3 +146,14 @@ aliases used for anchors: kaneda, kaneda satoru, kaneda-kun
 [scene] (p.38) Named across the group-selection pages without individual rows beyond his cited scenes.
 
 <!-- walk: y1v8 coverage → p.244 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->
+
+### y1v10 pp.316 — Epilogue: Class Poll result
+
+[scene] (p.316) The bulletin board lists Kaneda as the Class D student with the most praise votes (27).
+[status] (p.316) Received the most praise votes in Class D in the Class Poll.
+
+<!-- walk: y1v10 Epilogue → p.362 -->

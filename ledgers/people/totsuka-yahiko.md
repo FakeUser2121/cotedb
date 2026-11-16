@@ -226,3 +226,15 @@ char_id: totsuka-yahiko · class: Class 1-A (enrolled April 2015) · status: min
 [rel:sakayanagi-arisu] (p.263–264) Opposes her decision to expel Katsuragi.
 
 <!-- walk: y1v10 Ch6 → p.285 -->
+
+### y1v10 pp.293–296 — Epilogue: Expulsion from Class A
+
+[scene] (p.293) Is announced as the student with 36 censure votes and expelled from Class A.
+[scene] (p.293) Reacts in disbelief when Katsuragi, not him, was expected to be expelled.
+[scene] (p.296) Is unable to overturn the result and leaves the classroom with Mashima.
+[status] (p.293–296, 315) Expelled from Class A in the Class Poll.
+[rel:katsuragi-kouhei] (p.293–296) Expected him to be expelled instead.
+[rel:sakayanagi-arisu] (p.294–296) Expelled by her decision.
+[rel:mashima-tomonari] (p.293, 296) Announces his expulsion and escorts him out.
+
+<!-- walk: y1v10 Epilogue → p.362 -->

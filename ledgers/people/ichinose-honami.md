@@ -1222,3 +1222,32 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:nagumo-miyabi] (p.255) Borrows the remaining private points from him with no interest.
 
 <!-- walk: y1v10 Ch6 → p.285 -->
+
+### y1v10 pp.342–353 — Epilogue: Saving Ryūen and Class B (flashback and call)
+
+[scene] (p.342) Comes to Ayanokōji’s room and meets Ibuki and Ishizaki to discuss saving Ryūen.
+[scene] (p.343) Agrees to ask Class B to cast 40 praise votes for Ryūen in exchange for Ryūen’s private points.
+[scene] (p.344) Says she decided to accept the deal because their sincerity was real.
+[scene] (p.345) Receives the transferred points and confirms she has twenty million in her account.
+[scene] (p.349) Calls Ayanokōji to report Class B avoided any expulsion by paying 20 million points to negate Kanzaki’s expulsion.
+[scene] (p.351) Reflects that she was relieved not to have to accept Nagumo’s condition and discusses what she would have done otherwise.
+[rel:ayanokouji-kiyotaka] (p.342–353) Makes the deal through him and later reports the outcome.
+[rel:ibuki-mio] (p.342–346) Accepts her points and agrees to save Ryūen.
+[rel:ishizaki-daichi] (p.342–346) Participates in the agreement with him.
+[rel:ryuuen-kakeru] (p.343–350) Uses Class B’s praise votes to save him from expulsion.
+[rel:kanzaki-ryuuji] (p.349) Reports that Class B saved him by paying the override.
+
+<!-- walk: y1v10 Epilogue → p.362 -->
+
+### y1v10 pp.366–369, 375–376 — Short Stories
+
+[scene] (p.366) Waits near the dorms in the cold morning to ambush Ayanokōji so she can talk to him.
+[scene] (p.367) Greets Ayanokōji and, flustered, asks to walk to school together.
+[says] (p.367) “Good morning— Ayanokouji-kun!”
+[scene] (p.368) Walks beside him to school, noticing her feelings have changed since speaking with Nagumo.
+[scene] (p.375) Visits Ayanokōji’s room late at night after their discussion and asks if he is someone amazing.
+[says] (p.375) “Ayanokouji-kun, are you perhaps someone really amazing?”
+[scene] (p.376) Reflects on his intelligence and her heartbeat, aware they will remain rivals as classmates in different classes.
+[rel:ayanokouji-kiyotaka] (p.366–369, 375–376) Walks to school with him and later visits his room.
+
+<!-- walk: y1v10 Short Stories → p.376 -->

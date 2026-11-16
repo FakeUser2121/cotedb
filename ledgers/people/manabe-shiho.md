@@ -334,3 +334,13 @@ char_id: manabe-shiho · class: Class 1-C · status: minor
 [rel:ibuki-mio] (p.240–242) Provokes her after Ryūen leaves the classroom.
 
 <!-- walk: y1v10 Ch6 → p.285 -->
+
+### y1v10 pp.315–348 — Epilogue: Expelled from Class D
+
+[scene] (p.315) The bulletin board lists Manabe Shiho as expelled from Class D in the Class Poll.
+[scene] (p.338) In the flashback, Ibuki chooses Manabe as the replacement target to be expelled instead of Ryūen.
+[status] (p.315, 348) Expelled from Class D in the Class Poll.
+[rel:ryuuen-kakeru] (p.315, 348) Expelled in his place as he avoids expulsion.
+[rel:ibuki-mio] (p.338) Chosen by her as the replacement target.
+
+<!-- walk: y1v10 Epilogue → p.362 -->

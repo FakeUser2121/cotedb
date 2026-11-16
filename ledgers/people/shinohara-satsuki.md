@@ -209,3 +209,14 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [limit] (p.140) The audience spreads the rumors onward to incoming students regardless of her denials.
 
 <!-- walk: y1v9 ch6 → p.150 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->
+
+### y1v10 pp.290 — Epilogue: Defending Hirata
+
+[scene] (p.290) Speaks up with other girls to defend Hirata when he volunteers to be expelled.
+[rel:hirata-yousuke] (p.290) Refuses to accept his offer to be expelled.
+
+<!-- walk: y1v10 Epilogue → p.362 -->

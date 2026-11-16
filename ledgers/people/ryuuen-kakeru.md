@@ -1524,3 +1524,19 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:ibuki-mio] (p.247–251) Meets her in his room and transfers private points to her before her departure.
 
 <!-- walk: y1v10 Ch6 → p.285 -->
+
+### y1v10 pp.315–348 — Epilogue: Survival and aftermath
+
+[scene] (p.315) Remains in school after the Class Poll; the bulletin board shows Manabe Shiho expelled from Class D instead of him.
+[scene] (p.316) At the bulletin board, speaks with Katsuragi and comments on Sakayanagi expelling Totsuka.
+[scene] (p.318) Takes Ayanokōji behind the school building and asks since when he became a good person.
+[scene] (p.347) Says he had known Ichinose was saving points but did not expect Ayanokōji’s involvement.
+[scene] (p.348) Learns Ibuki chose Manabe and calls his survival an annoying gift from Ishizaki and Ibuki.
+[status] (p.315–348) Avoids expulsion from Class D in the Class Poll.
+[rel:ayanokouji-kiyotaka] (p.316–318, 347–348) Talks with him about how he was saved.
+[rel:katsuragi-kouhei] (p.316–317) Speaks with him at the bulletin board.
+[rel:manabe-shiho] (p.315, 348) Survives as she is expelled in his place.
+[rel:ibuki-mio] (p.348) Acknowledges her role in his survival.
+[rel:ishizaki-daichi] (p.348) Acknowledges his role in his survival.
+
+<!-- walk: y1v10 Epilogue → p.362 -->

@@ -345,3 +345,12 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [rel:kitou-hayato] (p.282) Present at the discussion.
 
 <!-- walk: y1v10 Ch6 → p.285 -->
+
+### y1v10 pp.298 — Epilogue: After Totsuka’s expulsion
+
+[scene] (p.298) Moves with Kitō to block Katsuragi’s path when he approaches Sakayanagi after Totsuka’s expulsion.
+[rel:sakayanagi-arisu] (p.298) Protects her during the confrontation with Katsuragi.
+[rel:kitou-hayato] (p.298) Acts with him to block Katsuragi.
+[rel:katsuragi-kouhei] (p.298) Moves to obstruct him.
+
+<!-- walk: y1v10 Epilogue → p.362 -->

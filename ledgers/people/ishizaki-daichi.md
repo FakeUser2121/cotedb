@@ -455,3 +455,18 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [rel:ibuki-mio] (p.242–246) Talks with her about the points and the plan.
 
 <!-- walk: y1v10 Ch6 → p.285 -->
+
+### y1v10 pp.319–346 — Epilogue: Saving Ryūen (flashback)
+
+[scene] (p.319) Comes to Ayanokōji’s room with Ibuki and begs for a way to prevent Ryūen’s expulsion.
+[says] (p.323) “Please, Ayanokōji! Tell us how to prevent Ryūen-san from getting expelled!”
+[scene] (p.326) Insists he wants to save Ryūen even after Ayanokōji explains it is unreasonable.
+[scene] (p.336) Agrees to take responsibility for saving Ryūen, knowing someone else must be expelled.
+[scene] (p.339) Agrees to Ibuki’s choice of Manabe as the replacement target and plans to redirect votes.
+[scene] (p.342) Meets Ichinose in Ayanokōji’s room and takes part in the agreement to save Ryūen.
+[rel:ryuuen-kakeru] (p.319–346) Seeks to save him from expulsion.
+[rel:ibuki-mio] (p.319–346) Acts together with her throughout the plan.
+[rel:ayanokouji-kiyotaka] (p.319–346) Asks for his help and follows his guidance.
+[rel:ichinose-honami] (p.342–346) Participates in the deal with her.
+
+<!-- walk: y1v10 Epilogue → p.362 -->

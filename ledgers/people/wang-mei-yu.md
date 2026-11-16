@@ -52,3 +52,16 @@ char_id: wang-mei-yu · status: minor
 [note] (p.59) p.59 blank between the two halves of the cafe talk.
 
 <!-- walk: y1v9 ch3 → p.75 -->
+
+## y1v10
+
+<!-- walk: y1v10 → start -->
+
+### y1v10 pp.290–311 — Epilogue: Reacting to Hirata
+
+[scene] (p.290) Exclaims in shock when Hirata asks the class to cast censure votes for him.
+[says] (p.290) “H-how could any of us do something like that!?”
+[scene] (p.311) Timidly calls out to Hirata after Yamauchi’s expulsion, but he does not respond.
+[rel:hirata-yousuke] (p.290, 311) Objects to his self-sacrifice and worries about him afterward.
+
+<!-- walk: y1v10 Epilogue → p.362 -->

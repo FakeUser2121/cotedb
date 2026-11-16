@@ -1440,3 +1440,12 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:ayanokouji-kiyotaka] (p.208) Frames her earlier actions as reluctant help despite not wanting to abandon him.
 
 <!-- walk: y1v10 Ch5 → p.237 -->
+
+### y1v10 pp.304–362 — Epilogue: Results and aftermath
+
+[scene] (p.304) Is announced as third in Class C for praise votes and sighs with relief.
+[scene] (p.362) On Monday after Yamauchi’s expulsion, Kushida’s smile has faded in the classroom.
+[rel:ayanokouji-kiyotaka] (p.304) Places behind him in Class C praise votes.
+[rel:hirata-yousuke] (p.304) Places behind him in Class C praise votes.
+
+<!-- walk: y1v10 Epilogue → p.362 -->
