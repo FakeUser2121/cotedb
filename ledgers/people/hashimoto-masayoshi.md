@@ -291,3 +291,32 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [note] (p.148–149) Present at the confrontation but unquoted; Sakayanagi speaks for the group.
 
 <!-- walk: y1v9 ch6 → p.150 -->
+
+### y1v9 p.151–164 — Off-campus standoff: the spreader on trial
+[scene] (p.151) Arrives with Kitō to answer Ishizaki’s challenge; the exchange is tense from the first words.
+[says] (p.151) “Well, you brought Albert along with you yourself. I’m just being careful.”
+[says] (p.154) “What a chatterbox. Did you happen to hear that from those two over there?”
+[says] (p.154) “Well, Ayanokōji and Miyake over there already know about it, so I’ll just speak honestly. Back then, I just happened to hear some rumors about Ichinose, so I decided to help spread them around because it seemed like an amusing thing to do. I wasn’t the source.”
+[says] (p.155) “Isn’t it possible… that you guys in Class D are ones actually spreading the rumors?”
+[says] (p.155) “Which is why I came here today. To question you guys about whether or not you’re the ones that spread the rumors.”
+[says] (p.156) “I heard you were sent to juvie because of some stunt you pulled back in elementary school, isn’t that right, Ishizaki?”
+[tactic] (p.156) Deploys the forum’s juvie lie knowing the anger it causes is justified, to push Ishizaki over the edge.
+[says] (p.157) “It seems like the current student council president is willing to turn a blind eye to petty disputes, just like this one.”
+[says] (p.157) “Not bad, Miyake. It makes sense now why you were so confident that you could stop us from fighting.”
+[says] (p.157) “It’s just as Shiina-chan says. If we were the ones that posted the rumors, wouldn’t we have also posted some lies about Class A on the forums in order to avoid suspicion?”
+[says] (p.158) “Class A doesn’t have anything to do with it. Believe me.”
+[says] (p.159) “I’ve already told you countless times. We didn’t spread the rumors.”
+[says] (p.159) “Sorry, sorry. This is all just too absurd. I don’t understand what you want from me.”
+[says] (p.159) “Kitō. We might not have any other choice.”
+[says] (p.161) “It can’t be helped now that things have progressed this far, but you lot from Class C are really getting in the way…”
+[goal] (p.162) The secret-meeting testimony is staged to test Ayanokōji’s suspicion and to shade his own conclusion with his classmates’ answers.
+[says] (p.162) “Hmm, now that you mention it… Something about him having a crush on Karuizawa, right? Isn’t that a lovely rumor?”
+[says] (p.162) “I guess that makes sense. After all, I was the only one who saw you and Karuizawa meeting up together in secret a few days ago.”
+[rel:shiina-hiyori] (p.163–164) She carries the negotiation for Class D; he stands down once she apologizes and bows.
+[says] (p.163) “Hoooh? So you’re saying that Ishizaki isn’t the one who set up this meeting? It was all done by Shiina-chan instead?”
+[says] (p.164) “Well, it’s not like we were injured. Let’s call it a day this time, Kitō. But, please stop pointlessly doubting us.”
+
+### y1v9 p.169 — Escorting Sakayanagi into Class B
+[scene] (p.169) Stands with Sakayanagi and Kamuro at the head of the Class B confrontation; Kitō and the rest of Class A stay behind.
+
+<!-- walk: y1v9 ch7 → p.175 -->

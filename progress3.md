@@ -1687,3 +1687,9 @@ Ryūen’s class now Class D), paste artifacts are gone, and the missed
 promotion announcement at y1v8 p.13 is on both bus-briefing scenes and the
 volume beats. Determinism hash across consecutive builds:
 `3f6938d86bee3398f84ebb9f0f1f6231`.
+
+Year 1 Volume 9 chapter 7 is the how-it-all-works chapter — the standoff’s
+fallout, Hashimoto’s failed test, the mock-exam numbers, Sakayanagi’s
+exam-eve timing, and Ichinose’s shoplifter confession to her whole class.
+Determinism hash across consecutive builds:
+`2e1d8cdb9fdba31f8b60985244261f7a`.

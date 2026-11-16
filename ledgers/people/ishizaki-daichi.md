@@ -422,3 +422,19 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [note] (p.121) Does not appear; named in Hashimoto’s reasoning only.
 
 <!-- walk: y1v9 ch5 → p.125 -->
+
+### y1v9 p.151–163 — The juvie lie and the fight
+[scene] (p.151) Challenges Hashimoto over the rumors, demanding he come alone; brought Albert and was joined by Hiyori and Ibuki.
+[says] (p.155) “You’re full of shit! We already know that Sakayanagi is the one behind the rumors!!!”
+[says] (p.155) “It’s no use playing stupid, Hashimoto. Not only did you guys go and spread rumors about Ichinose, but then you even had the nerve to go and stir up shit about us as well.”
+[says] (p.156) “Stop fucking around Hashimoto!”
+[says] (p.156) “Don’t butt in, Miyake! I can’t just stand by and let Class A bad mouth us like this!! I’ll send him flying!”
+[says] (p.158) “You… Do you really think that you can look down on us just because Ryūen is no longer our leader!?”
+[status] (p.158) Speaks for Class D with Ryūen gone; the former leader’s name is invoked against him and his side.
+[says] (p.161) “Don’t get in my way, Miyaki!”
+[action] (p.161) Shoves at Miyake and is taken down; Ibuki’s kick breaks Miyake’s balance and Albert takes him from behind instead.
+[rel:shiina-hiyori] (p.163) Stopped by her order to stand down and looks at her troubled, but complies.
+[says] (p.163) “I’m the one you’re dealing with right now, Hashimoto!”
+[voice] (p.163) His protest under her order comes out as a broken stammer — the one time he cannot finish a sentence.
+
+<!-- walk: y1v9 ch7 → p.175 -->

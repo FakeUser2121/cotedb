@@ -319,3 +319,15 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [rel:horikita-suzune] (p.149) Takes her warning not to let Sakayanagi get to him and answers that he knows it.
 
 <!-- walk: y1v9 ch6 → p.150 -->
+
+### y1v9 p.170–171 — Answering Sakayanagi’s bank
+[scene] (p.170) Meets Sakayanagi’s rescue line at the front of his class and answers for it before Ichinose can speak.
+[says] (p.169) “You said you were here to ‘rescue’ us, Sakayanagi?”
+[says] (p.170) “Does that mean… you admit to spreading the rumors?”
+[says] (p.170) “If that’s the case, then what are you getting at?”
+[says] (p.170) “What about it?”
+[says] (p.170) “That’s not something I can say.”
+[goal] (p.170) Shields Class B’s internal affairs and Ichinose herself from Sakayanagi’s questioning.
+[says] (p.171) “Hold on Ichinose. You don’t have to say anything else right now.”
+
+<!-- walk: y1v9 ch7 → p.175 -->

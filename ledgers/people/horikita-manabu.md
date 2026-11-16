@@ -590,3 +590,20 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [note] (p.101–102) Voice only — the call ends at p.102.
 
 <!-- walk: y1v9 ch5 → p.125 -->
+
+### y1v9 p.164–166 — The night call
+[scene] (p.164) Ayanokōji phones him at night with what he noticed on two students’ ID cards.
+[says] (p.164) “It’s rather unusual for you to contact me.”
+[says] (p.164) “Exactly. That is, as long as it’s not a simple mistake.”
+[says] (p.164) “Of course, the school is also gradually changing and evolving every year, so this phenomenon that you’ve noticed is bound to hold at least some meaning. As the first person to notice it, you might just find the knowledge useful in the future.”
+[rule] (p.165) “It’s highly likely that you first-years will have to finish one more special exam this school year.”
+[rule] (p.165) “the third-years should have at least two more special exams left to take.”
+[says] (p.165) “It’s certainly a risky, unpredictable situation, but it’s nothing you need to be worrying yourself about.”
+[says] (p.165) “Instead of worrying about me, you should be worrying about the first-years as a whole.”
+[says] (p.165) “Ah, that is possible. Of course, if they go too far, the student council may breach the trust of the school and be forcibly disbanded.”
+[says] (p.165) “Did you run into any problems regarding Kushida?”
+[says] (p.166) “It seems as though they’re doing something behind the scenes regarding the whole ordeal with Ichinose.”
+[note] (p.166) The translation leaves this line’s speaker untagged; it falls inside Ayanokōji’s call with him, and Ayanokōji ends the call right after.
+[rel:kushida-kikyou] (p.165) Asks after Kushida by name and accepts that she has been handled.
+
+<!-- walk: y1v9 ch7 → p.175 -->

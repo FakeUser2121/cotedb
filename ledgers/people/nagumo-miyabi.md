@@ -378,3 +378,10 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [note] (p.120) Does not appear; named through his remark only.
 
 <!-- walk: y1v9 ch5 → p.125 -->
+
+### y1v9 p.157, 165 — Named at a distance
+[scene] (p.157) Named twice from a distance this chapter — as the president Hashimoto invokes, and in the call as the risk to the elder Horikita.
+[note] (p.157) Hashimoto invokes the current student council president as someone who would turn a blind eye to petty disputes — his grounds for throwing the first kick.
+[back] (p.165) In the call: his influence over all of the second-years could be lent to the third-year Class B, and he goes for weak points that are easy to exploit — as with targeting Tachibana Akane during the training camp.
+
+<!-- walk: y1v9 ch7 → p.175 -->

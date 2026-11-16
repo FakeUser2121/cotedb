@@ -1151,3 +1151,10 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:hirata-yousuke] (p.150) The reversed-position logic leans on her fresh break-up with Hirata — suspicion would fall harder on her.
 
 <!-- walk: y1v9 ch6 → p.150 -->
+
+### y1v9 p.162 — The rumor about her and Ayanokōji
+[scene] (p.162) At the center of the standoff’s rumor about her — Hashimoto claims a crush on her and a secret meeting with her.
+[back] (p.162) The Valentine’s cover story is restated: Ayanokōji as the middleman for her chocolates to her real crush, which would still require a certain closeness between them.
+[rel:ayanokouji-kiyotaka] (p.162) The sight of them meeting in secret is exactly what Hashimoto uses as a test.
+
+<!-- walk: y1v9 ch7 → p.175 -->

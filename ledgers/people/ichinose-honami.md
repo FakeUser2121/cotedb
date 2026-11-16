@@ -1108,3 +1108,38 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [note] (p.145–148) Does not appear; carried on other people’s messages and talk.
 
 <!-- walk: y1v9 ch6 → p.150 -->
+
+### y1v9 p.155–159 — The rumor target at the center of the standoff
+[scene] (p.155) Named through the Class A–Class D confrontation as the subject of the posted rumors both sides are arguing over.
+
+### y1v9 p.166 — Back at school before the exam
+[scene] (p.166) Returns on February 24 after more than a week of absences, the day before the end-of-year exam.
+
+### y1v9 p.169–171 — Surrounded, then silencing her shield
+[scene] (p.169) Class B rings her against Sakayanagi’s visit; every classmate is in the room at lunch.
+[says] (p.169) “I wonder what you mean by that, Sakayanagi-san.”
+[says] (p.169) “Yes. Thank you.”
+[action] (p.171) Asks Chihiro and Mako for space, closes the distance to Sakayanagi, then turns instead to the whole class.
+[says] (p.171) “It’s okay. You don’t need to be worried about me. I’ll be alright.”
+[says] (p.171) “Everyone, I’m sorry!”
+[says] (p.171) “This past year… The secret I’ve been hiding all along…”
+[says] (p.171) “There have been many strange rumors going around about me these past few weeks, and one of them isn’t just a baseless rumor. Just as it was written in that letter… I am a criminal.”
+[rel:sakayanagi-arisu] (p.171) Faces her question head-on instead of retreating, forcing the confession out in front of the class.
+
+### y1v9 p.172–174 — The shoplifter’s confession
+[scene] (p.172) Before the whole class she opens the story behind the letter: the family, the collapse, the hair clip.
+[says] (p.172) “I’ve kept this from all of you… but I’ll confess it all right now.”
+[says] (p.172) “I… was a shoplifter…”
+[says] (p.172) “I came from a fatherless family, living with my mother and my sister two years younger than me.”
+[says] (p.172) “Yes. I’m sorry Mako-chan.”
+[says] (p.173) “during the summer of my third year of middle school… my mother pushed herself too hard and collapsed.”
+[says] (p.173) “And then, that selfless little sister of mine… expressed that she wanted something for the very first time. A fashionable hair clip that her favorite celebrity wore back then.”
+[says] (p.173) “I can still remember everything. My mother, sobbing as she apologized from her bed in the hospital.”
+[says] (p.173) “As the elder sister… I thought that I had to find a way to return my sister’s smile. So, after school on the day of her birthday, I went to the department store.”
+[says] (p.173) “My feelings back then were surely shrouded in darkness. I told myself that it was okay… That it wasn’t a big deal to do something sinful, just once, for the sake of my younger sister.”
+[says] (p.174) “The hair clip that would normally cost over 10,000 yen… The hair clip that my sister wanted so desperately… I stole it for her.”
+[says] (p.174) “Even though it was a decision that I knew would make everyone unhappy, I still wanted to do something for my sister.”
+[says] (p.174) “But, that’s still no excuse, is it?”
+[says] (p.174) “In the end, a crime is a crime. No matter what you do to repent, your sin will never go away.”
+
+<!-- walk: y1v9 ch7 → p.175 -->

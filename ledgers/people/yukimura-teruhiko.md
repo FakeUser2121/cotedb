@@ -652,3 +652,15 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.133) Named in the group chat only; does not appear.
 
 <!-- walk: y1v9 ch6 → p.150 -->
+
+### y1v9 p.160–167 — The mock exam and the order to rest
+[scene] (p.160) On the sidelines of the standoff he catches Ayanokōji’s murmur; later, at his desk, he reports the mock-exam results and orders the group to rest.
+[says] (p.160) “What, Ayanokōji?”
+[says] (p.162) “We only happened to come here by chance, but I have something I want to say. Our friend Ayanokōji was a target of the rumors, just like Ishizaki and the others.”
+[says] (p.166) “Very good. Ayanokōji. Akito. Haruka. Airi. You’ve all done excellent.”
+[says] (p.166) “If you guys are able to get through both the provisional exam and this mock exam I made, the exam tomorrow won’t be a problem for you at all.”
+[trait] (p.167) Runs the group’s study program to the point of ordering a full rest day before the exam.
+[says] (p.167) “Don’t mention it. This much is the least I can do for all of you.”
+[says] (p.167) “You’ve all spent a lot of time studying this past week. Since today is the last day before the real thing, I’d prefer it if all of you took a break.”
+
+<!-- walk: y1v9 ch7 → p.175 -->

@@ -2912,3 +2912,11 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:kanzaki-ryuuji] (p.149) Steadies him after the exchange — his modesty and concern for others make the problem weigh on him.
 
 <!-- walk: y1v9 ch6 → p.150 -->
+
+### y1v9 p.168 — Reading the move and running
+[scene] (p.168) Across the classroom she reads Sakayanagi’s move the moment Ike’s news lands and is up before anyone can stop her.
+[says] (p.168) “With Ichinose-san returning to class, Sakayanagi-san is making her move…”
+[action] (p.168) Stands up mid-lunch without a word and rushes out; Sudō, Hirata and a few others follow her.
+[rel:ichinose-honami] (p.168) Goes to Class B for Ichinose the moment she reads Sakayanagi’s timing.
+
+<!-- walk: y1v9 ch7 → p.175 -->

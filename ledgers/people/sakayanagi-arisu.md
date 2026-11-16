@@ -466,3 +466,19 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.148) The laughter she and her classmates share at Kanzaki’s accusation is the page’s only gesture beyond the lines.
 
 <!-- walk: y1v9 ch6 → p.150 -->
+
+### y1v9 p.168–172 — The visit to Class B
+[scene] (p.168) Enters Class B at lunch with Kamuro and Hashimoto to rescue the class the day before the exam.
+[says] (p.168) “What am I doing here, you ask? Why, I’ve come to rescue everybody in Class B, you know?”
+[says] (p.169) “To start things out, congratulations on your recovery. In fact, I wanted to reach out to you earlier, but I’ve been quite busy studying for the exam.”
+[tactic] (p.169) Predicted Ichinose would avoid the cafeteria and the other facilities while the rumors raged, and timed the visit for lunch.
+[says] (p.170) “I’m not the one who spread the rumors.”
+[says] (p.170) “For example, one could periodically collect private points from all of their classmates, gathering them together under a single person. In short, they would be playing the role of a bank, and I’ve determined that Ichinose-san is carrying this very responsibility for Class B.”
+[says] (p.170) “Indeed. I didn’t come here looking for a response to that in the first place.”
+[says] (p.171) “Am I mistaken? Ichinose Honami-san?”
+[says] (p.171) “Please don’t try to stop her, Shibata-kun. She was just about to confess.”
+[feat] (p.171) Corners Ichinose into confessing in front of the whole class with a single question.
+[says] (p.172) “What kind of crime did you commit?”
+[rel:ichinose-honami] (p.171–172) Drives her to the confession she had kept buried, watching with an unwavering smile.
+
+<!-- walk: y1v9 ch7 → p.175 -->

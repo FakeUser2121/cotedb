@@ -1326,3 +1326,10 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [note] (p.145) Present in the classroom through the exam morning; the crush rumor keeps his ex’s name in circulation without him speaking to it.
 
 <!-- walk: y1v9 ch6 → p.150 -->
+
+### y1v9 p.151, 168 — The failed peacemaker, then the follow
+[scene] (p.151) The standoff forms while the new rumors he tried to stop keep spreading; he later follows Horikita toward Class B.
+[back] (p.151) Had attempted to stem the flow of the new rumors before the standoff; they spread around the school anyway.
+[scene] (p.168) Follows Horikita out of the classroom when she runs for Class B, with Sudō and others.
+
+<!-- walk: y1v9 ch7 → p.175 -->

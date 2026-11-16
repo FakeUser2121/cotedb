@@ -348,3 +348,12 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [note] (p.133) Named in the box and the group chat only; no scene together.
 
 <!-- walk: y1v9 ch6 → p.150 -->
+
+### y1v9 p.154–167 — Along on the tail, then the sandwich
+[scene] (p.154) Came along to the off-campus standoff with Airi and Keisei; remarks on how serious the scene may get.
+[says] (p.160) “It’s dangerous, Kiyotaka-kun.”
+[says] (p.166) “Wow~! Kiyopon you got a 90! Totally awesome!”
+[says] (p.167) “Roger that. I’ll follow your instructions, Yukimū.”
+[action] (p.167) Her sandwich hits the floor when Ike bursts in; she glares and demands to know what he thinks he is doing.
+
+<!-- walk: y1v9 ch7 → p.175 -->

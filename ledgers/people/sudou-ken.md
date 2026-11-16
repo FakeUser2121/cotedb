@@ -1277,3 +1277,8 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [status] (p.143) A little disappointed by the job he is given, but obediently follows Horikita’s instructions.
 
 <!-- walk: y1v9 ch6 → p.150 -->
+
+### y1v9 p.168 — Following Horikita to Class B
+[scene] (p.168) Follows Horikita out of the classroom the moment she runs, with Hirata and a few others behind them.
+
+<!-- walk: y1v9 ch7 → p.175 -->

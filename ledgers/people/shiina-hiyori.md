@@ -189,3 +189,23 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [says] (p.68) “I’m sorry, let’s do it at another time. If our conversation helps spread things any further, we may end up troubling Ichinose by just that much more.”
 
 <!-- walk: y1v9 ch3 → p.75 -->
+
+### y1v9 p.153–164 — Running the Class D side of the standoff
+[scene] (p.153) Came with Ishizaki, Albert and Ibuki as the Class D half of the summons; her worry about the temperaments present is immediate.
+[says] (p.154) “It has to do with the rumors. You guys from Class A are the ones that posted them, right?”
+[says] (p.154) “Please. Leave this to me, Ishizaki-kun.”
+[says] (p.154) “I heard it through the grapevine. I was informed about what you had told Kanzaki-kun when he confronted you about the source of Ichinose-san’s rumors.”
+[says] (p.154) “Please answer the question, Hashimoto-kun.”
+[says] (p.157) “Fighting still isn’t allowed.”
+[says] (p.157) “…Can I trust you?”
+[rel:ishizaki-daichi] (p.154, 163) Steers him away from lashing out and, later, orders him to stand down; he looks troubled but complies.
+[says] (p.163) “Please don’t keep going on like this Ishizaki-kun. I won’t allow you to continue any further.”
+[says] (p.163) “Let’s suppose that you manage to beat Hashimoto-kun and Kitō-kun in a fight here and force them to confess to everything. That still wouldn’t be real evidence.”
+[says] (p.163) “I know it seems unfair, but it is what it is. Please just bear with it for now.”
+[says] (p.163) “I promise that I will make it up to all of you later.”
+[says] (p.163) “Albert-kun. Please let Miyake-kun go as well.”
+[action] (p.163) Turns to the Ayanokōji Group and bows her head for having made them worry.
+[says] (p.164) “Could you please forgive us?”
+[rel:hashimoto-masayoshi] (p.164) Takes his complaint head-on until he agrees to call it a day.
+
+<!-- walk: y1v9 ch7 → p.175 -->

@@ -142,3 +142,8 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [note] (p.148) Present in the group only — Sakayanagi speaks, the rest stand.
 
 <!-- walk: y1v9 ch6 → p.150 -->
+
+### y1v9 p.169 — At Sakayanagi’s side in Class B
+[scene] (p.169) Stands with Sakayanagi and Hashimoto at the head of the Class B visit; one of only three from Class A to come.
+
+<!-- walk: y1v9 ch7 → p.175 -->

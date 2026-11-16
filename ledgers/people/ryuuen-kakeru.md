@@ -1473,3 +1473,9 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [note] (p.118, 121) Not present; named in Hashimoto’s reasoning only.
 
 <!-- walk: y1v9 ch5 → p.125 -->
+
+### y1v9 p.158 — Named as the leader who is gone
+[scene] (p.158) Named by Ishizaki during the standoff — a leader who is no longer there.
+[back] (p.158) Invoked by Ishizaki against Hashimoto: Class D is no longer under his leadership.
+
+<!-- walk: y1v9 ch7 → p.175 -->

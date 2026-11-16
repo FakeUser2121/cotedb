@@ -4448,3 +4448,41 @@ walk: y1v1 → DONE
 [says] (p.150) “Anyway, don’t worry about it.”
 
 <!-- walk: y1v9 ch6 → p.150 -->
+
+### y1v9 p.151–164 — Off-campus standoff: watching, testing, pocketing the ID card
+[scene] (p.151) Friday, February 18, three days after the provisional exam; Classes A, C and D gather on the road off campus over the forum rumors, the Ayanokōji Group a step behind.
+[action] (p.153) He spots Class A and Class D leaving campus, warns Miyake that something like the Kanzaki–Hashimoto clash may be starting, and follows with the rest of the group.
+[thinks] (p.155) “I was eighty to ninety percent certain that she really was behind it all.”
+[action] (p.160) Picks up the student ID card Ibuki dropped, notices one particular detail on its photo, and puts the card in his pocket.
+[says] (p.160) “No, it’s nothing. More importantly, it seems like stopping this fight should be our top priority.”
+[says] (p.160) “That’s true. Then I guess it’s better to just let Akito handle it.”
+[says] (p.162) “I hate to say it, but I suspect you as well, Hashimoto.”
+[says] (p.162) “There’s nothing going on between us.”
+[rel:karuizawa-kei] (p.162) The crush rumor and Hashimoto’s secret-meeting sighting both concern him and Karuizawa; he denies anything is going on between them.
+[thinks] (p.162) “His actions were an act, done for the sake of testing me.”
+[thinks] (p.163) “Even though he had been keeping an eye on me, thanks to this testimony, he would now end up with an incorrect conclusion.”
+
+### y1v9 p.164–166 — The night call to Horikita Manabu
+[scene] (p.164) That night he phones the former student council president to report what he noticed on two students’ ID cards.
+[says] (p.164) “There’s one thing I wanted to ask you.”
+[says:horikita-manabu] (p.164) “It’s rather unusual for you to contact me.”
+[thinks] (p.164) He hopes never to have to use the knowledge, if the future where it becomes useful comes at all.
+[inference] (p.165) If Nagumo lends his influence over the second-years to the third-year Class B, the elder Horikita may not be in a safe position.
+[back] (p.165) He notes Nagumo goes for weak points that are easy to exploit, the way he targeted Tachibana Akane during the training camp.
+[says] (p.165) “If the student council were to provide Nagumo backup, they’d be able to cover up his actions to some degree, right?”
+[says] (p.165) “If you’re asking about that, it’s been taken care of.”
+
+### y1v9 p.166–168 — Mock exam results, then the rush to Class B
+[scene] (p.166) February 24, the day before the end-of-year exam; Ichinose is back after more than a week away, and the Ayanokōji Group gathers for the mock exam Keisei wrote.
+[number] (p.166) Scores 90 on Keisei’s mock exam; the other three land around 80.
+[says] (p.166) “Well, the tests Keisei made were flawless. Didn’t you manage to score about the same?”
+[inference] (p.168) With Ichinose back, Sakayanagi would have to make her move today, a direct attack to bring her down before tomorrow’s exam.
+[says] (p.168) “I’ll come along just in case. Though, I don’t think that I’ll be much help.”
+
+### y1v9 p.168–174 — In Class B for the confession
+[scene] (p.168) Enters Class B with Miyake and Keisei as Shibata confronts Sakayanagi.
+[note] (p.169) Sakayanagi brought only Kamuro and Hashimoto; there is no sign of Kitō or anyone else from Class A.
+[narrates] (p.171) Sakayanagi shows a satisfied smile as Ichinose says she is a criminal.
+[scene] (p.172) Watches from outside the circle with Keisei and Akito, both struck by a student like Ichinose admitting to a crime.
+
+<!-- walk: y1v9 ch7 → p.175 -->

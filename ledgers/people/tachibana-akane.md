@@ -169,3 +169,13 @@ aliases used for anchors: tachibana, secretary, student council secretary
 [note] (p.239) The conspiracy to paint her as the obstacle and lay the way for her expulsion is laid out.
 
 <!-- walk: y1v8 coverage → p.244 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.165 — Named in the call with the former president
+[scene] (p.165) Named during Ayanokōji’s night call as an example of the student council president’s targets.
+[back] (p.165) The reference is to her being targeted during the training camp; Nagumo goes for weak points that are easy to exploit.
+
+<!-- walk: y1v9 ch7 → p.175 -->

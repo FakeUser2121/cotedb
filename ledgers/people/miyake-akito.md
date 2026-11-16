@@ -329,3 +329,15 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [note] (p.133) Named in the group chat only; does not appear.
 
 <!-- walk: y1v9 ch6 → p.150 -->
+
+### y1v9 p.153–168 — Holding the line
+[scene] (p.153) Brought to the standoff by Ayanokōji’s tip and stands at the front of the Ayanokōji Group.
+[says] (p.156) “Hold it Ishizaki!”
+[says] (p.156) “Stop it. All of you. You know the school is very strict when it comes to fighting.”
+[says] (p.160) “Stop it! All of you!”
+[says] (p.161) “I’m sorry Ishizaki. It’s nothing personal.”
+[rel:hashimoto-masayoshi] (p.157) Intercepts his opening kick and earns his grudging respect for having been ready for it.
+[says] (p.167) “If Keisei’s saying something like that, this exam will be a piece of cake.”
+[says] (p.168) “It looks like I don’t have any other choice. If it turns into the same type of thing that happened a few days ago, somebody will have to be there to stop it.”
+
+<!-- walk: y1v9 ch7 → p.175 -->

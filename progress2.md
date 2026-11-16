@@ -2599,3 +2599,37 @@ new members in all five topics. verify y1v8 628, y1v9 352, y1v4 1074
 [says] lines — all ALL PASS; gate exit 0; make check OK (R18 0, R19
 82/82); hash `3f6938d86bee3398f84ebb9f0f1f6231` twice. Next: ch7
 pp.151–175, already read.
+
+y1v9 ch7 How It All Works (pp.151–175): the confession chapter — the
+standoff’s fallout with Ike, Sudou and Yamauchi held out of the assembly;
+Hashimoto’s Karuizawa-meeting test against Ayanokōji, Shiina’s negotiation
+that stands the group down and Ishizaki’s stammered compliance; Yukimura’s
+mock-exam report (90 around the 80s) and his rest orders; Sakayanagi’s
+exam-eve warning to Horikita that both class years still have special exams
+left; Horikita’s walk to Class B the moment she reads the timing; the small
+Class B visit with Kamuro and Hashimoto where Chihiro gets the volume’s only
+given-name print; and Ichinose’s full shoplifter confession to her class —
+family collapse, the hair clip, the apology. Stamps: one
+`y1v9 ch7 → p.175` per touched file, the volume section included. 28 people
+ledgers touched (new ledger file: shiranami-chihiro via ledger-new for her
+first roster print at p.171 — zero locator hits in the whole volume because
+only her given name prints, recorded as a coverage-gate limitation note;
+new y1v9 blocks: shibata-sou, tachibana-akane; amikura-mako’s y1v8 cell still
+has no y1v8 ledger — recheck at the volume-end gate). Six sections were
+given [scene] setup rows after the structure check caught them leading with
+other tags; one too-short [says] line (ishizaki p.163) was folded to prose
+before ship so the skip counter stays 0. Defects kept as printed and flagged
+at the page: p.160 “HoweverOne”, p.161 “Miyaki”, p.163 “Sakayanagisan”,
+p.169 “end-ofyear”, p.172 “Ichinosesan”, p.173 “However- Due”; blank pages
+p.152 and p.175; footers print 146 on p.151 and 169 on p.174. Attribution
+gaps: the p.166 untagged Ichinose-behind-scenes line was recorded under
+horikita-manabu with a [note]; the p.153 and p.154 untagged lines were left
+unrecorded. Rule 12 sample of the 221 new content lines: relationships 14,
+who-knew-what 12 (thinks 4, note 4, status 2, inference 2), results 4,
+expulsions 0, points 0; no topic pattern or membership changed — the two
+translation-gap notes match the 161 “untagged” precedent already in
+who-knew-what. New tags: none. New entities: shiranami-chihiro ledger file
+(roster row existed; class Class 1-B from p.171 local evidence). verify
+y1v9: 467 [says] (0 skipped) + 77 non-says ALL PASS; make check OK
+(R18 0, R19 82/82); gate exit 0; hash
+`2e1d8cdb9fdba31f8b60985244261f7a` twice. Next: ch8 pp.176–200.

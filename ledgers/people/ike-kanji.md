@@ -880,3 +880,10 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:shinohara-satsuki] (p.140) The jibe that he has a crush on Shinohara is what pushes him to the collar grab — his feelings are named in the narration.
 
 <!-- walk: y1v9 ch6 → p.150 -->
+
+### y1v9 p.167 — The burst-in
+[scene] (p.167) Flings the classroom door open in the middle of the group’s lunch.
+[says] (p.167) “Oh my god! Everyone!”
+[says] (p.167) “Something’s going down! A bunch of students from Class A marched into Class B just now!”
+
+<!-- walk: y1v9 ch7 → p.175 -->

@@ -932,3 +932,12 @@ aliases used for anchors: sakura, airi, sakura-san
 [note] (p.133) Named in the box and the chat only; no scene together.
 
 <!-- walk: y1v9 ch6 → p.150 -->
+
+### y1v9 p.154–168 — Along on the tail; keeping Ayanokōji’s cover
+[scene] (p.154) Came along to the standoff with Haruka and Keisei without being asked.
+[says] (p.162) “I-it’s absolutely not lovely at all!”
+[says] (p.162) “B-but Kiyotaka-kun, I’ve been starting to think that… y-you and Karuizawa-san have been on pretty good terms with each other lately…”
+[rel:ayanokouji-kiyotaka] (p.162) Watches him carefully enough to have noticed how close he and Karuizawa have become; warns him with Haruka that the fight is dangerous.
+[scene] (p.168) Told to stay behind with Haruka while the others go to Class B; the two settle in to finish lunch.
+
+<!-- walk: y1v9 ch7 → p.175 -->

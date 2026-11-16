@@ -215,3 +215,11 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 [note] (p.56) Does not appear; only in the internal list.
 
 <!-- walk: y1v9 ch3 → p.75 -->
+
+### y1v9 p.151–163 — The strength of the Class D side
+[scene] (p.151) Brought by Ishizaki; Hashimoto names him as the reason Kitō came along too.
+[action] (p.161) Takes Miyake from behind and pins him down from above at Ishizaki’s back.
+[feat] (p.161) Overpowers Miyake’s resistance without visible effort.
+[action] (p.163) Releases Miyake on Hiyori’s request, following her directions.
+
+<!-- walk: y1v9 ch7 → p.175 -->

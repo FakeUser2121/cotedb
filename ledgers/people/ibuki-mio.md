@@ -640,3 +640,12 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [note] (p.56) Does not appear; only in the internal list.
 
 <!-- walk: y1v9 ch3 → p.75 -->
+
+### y1v9 p.153–161 — The rumor victim in the fight
+[scene] (p.153) Came with the Class D group; one of the students the forum rumors targeted.
+[says] (p.158) “Telling me to stop after picking the fight yourself, well aren’t you full of it?”
+[fact] (p.158) Like Ishizaki, she had fallen victim to the rumors posted on the school’s forums.
+[feat] (p.160) Her kick speed and strength surprise Hashimoto; her dropped phone and student ID card start the ID-card thread.
+[action] (p.161) Kicks at Miyake’s head, then knocks Kitō’s lunge away the moment Ishizaki warns her.
+
+<!-- walk: y1v9 ch7 → p.175 -->

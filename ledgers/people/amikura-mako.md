@@ -15,3 +15,10 @@ char_id: amikura-mako · class: Class 1-B · status: minor (allies)
 [status] (p.83) Part of the Class B group desperately trying to move Ichinose to report the letter.
 
 <!-- walk: y1v9 ch4 → p.100 -->
+
+### y1v9 p.171–172 — At Ichinose’s side in the confession
+[scene] (p.171) Named at Ichinose’s side when Ichinose asks her and Chihiro for space.
+[says] (p.172) “Honami-chan… a shoplifter…? R-really?”
+[rel:ichinose-honami] (p.172) Ichinose answers her by name: yes, and she is sorry.
+
+<!-- walk: y1v9 ch7 → p.175 -->

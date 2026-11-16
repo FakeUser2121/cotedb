@@ -1365,3 +1365,11 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [note] (p.107) Not on the page — named through the boys’ chocolate talk and Horikita’s plan.
 
 <!-- walk: y1v9 ch5 → p.125 -->
+
+### y1v9 p.165 — Asked after in the call
+[scene] (p.165) Named in Ayanokōji’s night call with the former student council president.
+[says:horikita-manabu] (p.165) “Did you run into any problems regarding Kushida?”
+[says:ayanokouji-kiyotaka] (p.165) “If you’re asking about that, it’s been taken care of.”
+[status] (p.165) Reported as handled; the call moves on without further detail.
+
+<!-- walk: y1v9 ch7 → p.175 -->

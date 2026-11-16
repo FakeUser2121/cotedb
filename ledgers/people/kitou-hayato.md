@@ -30,3 +30,11 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 [note] (p.148) Does not speak — listed by name in the narration only.
 
 <!-- walk: y1v9 ch6 → p.150 -->
+
+### y1v9 p.151–164 — Ready from the first exchange
+[scene] (p.151) Brought by Hashimoto as the counterweight to Albert; the pairing is read as his guard.
+[says] (p.156) “Stop it Ishizaki. You’re just gonna hurt yourself. I know you’re confident in your fighting skills, but this isn’t the right place for that, okay?”
+[action] (p.159) Steps into a fighting stance the moment Hashimoto concludes that talk is useless.
+[note] (p.169) Deliberately left out of Sakayanagi’s small group — there is no sign of him at the Class B visit.
+
+<!-- walk: y1v9 ch7 → p.175 -->

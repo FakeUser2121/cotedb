@@ -145,3 +145,15 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 [note] (p.44) Noted as observing with Kanzaki.
 
 <!-- walk: y1v8 coverage → p.244 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.168, 171 — First record of this volume: the man at the front of Class B
+[scene] (p.168) Walks up to Sakayanagi the moment she enters the classroom.
+[says] (p.168) “What are you doing here, Sakayanagi!?”
+[rel:ichinose-honami] (p.171) Tries to stop her apology, insisting there is nothing for her to apologize for.
+[says] (p.171) “W-what are you apologizing for Ichinose? There’s no reason for you to be apologizing, right?”
+
+<!-- walk: y1v9 ch7 → p.175 -->
