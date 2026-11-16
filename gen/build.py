@@ -19,7 +19,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 import model as M  # noqa: E402
 import render as R  # noqa: E402
 from model import fold  # noqa: E402
-from render import (Page, card, cards_block, crumbs, dot, ent, esc, item, path, pg, row_item,  # noqa: E402
+from render import (Page, card, cards_block, crumbs, dot, ent, esc, item, path, pg, pgify, row_item,  # noqa: E402
                     shell, toc)
 
 ASSETS = Path(__file__).parent / "assets"
@@ -316,11 +316,11 @@ def build_volume(v):
             inner = ""
             for sec in ch["secs"]:
                 if sec["items"]:
-                    inner += f'<h4>{esc(sec["key"])}</h4><ul>{"".join(f"<li>{esc(t)}</li>" for t in sec["items"])}</ul>'
+                    inner += f'<h4>{pgify(esc(sec["key"]))}</h4><ul>{"".join(f"<li>{pgify(esc(t))}</li>" for t in sec["items"])}</ul>'
                     if sec["text"]:
-                        inner = f'<p>{esc(sec["text"])}</p>' + inner
+                        inner = f'<p>{pgify(esc(sec["text"]))}</p>' + inner
                 else:
-                    inner += f'<p><strong>{esc(sec["key"])}.</strong> {esc(sec["text"])}</p>'
+                    inner += f'<p><strong>{pgify(esc(sec["key"]))}.</strong> {pgify(esc(sec["text"]))}</p>'
             ch_html.append(f'<details class="chap"{" open" if k == 0 else ""}><summary>{esc(ch["title"])} '
                            f'<span class="pg">{esc(ch["pages"])}</span></summary>{inner}</details>')
         sections.append(("chapters", "Chapters"))

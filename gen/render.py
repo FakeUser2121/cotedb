@@ -139,6 +139,13 @@ def pg(label):
     return f'<span class="pg">{esc(label)}</span>' if label else ""
 
 
+import re as _re
+_PGREF = _re.compile(r'\b(pp?\.\s*\d[\d\u2013\u2014\-]*)')
+def pgify(text):
+    """Wrap page references (p.47, pp.14-15, p. 10) in a muted page-ref span."""
+    return _PGREF.sub(lambda m: f'<span class="pg">{m.group(1)}</span>', text)
+
+
 def card(P, s, here=None, skip=()):
     ok, oid = s["owner"]
     own_page = path(ok, oid)
