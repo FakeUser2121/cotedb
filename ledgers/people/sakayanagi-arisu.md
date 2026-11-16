@@ -619,3 +619,15 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:ayanokouji-kiyotaka] (p.10–12) First saw him as a child in the White Room and has remembered him since.
 
 <!-- walk: y1v11 ch1 → p.12 -->
+
+### y1v11 pp.62–65 — Ch.3: Commanders’ meeting
+
+[scene] (p.62) Attends the commanders’ meeting as Class A’s representative.
+[scene] (p.63) Declines to draw first in the lottery and lets Ichinose go ahead.
+[scene] (p.64) Comments that avoiding Ichinose’s class would be preferable.
+[scene] (p.65) After Kaneda chooses Class B, says Class A is saved from facing Class B and wishes Class D luck.
+[rel:ayanokouji-kiyotaka] (p.62–65) Faces him as commanders when Class C is matched with Class A.
+[rel:ichinose-honami] (p.63–65) Interacts with her during the lottery and matchup discussion.
+[rel:kaneda-satoru] (p.64–65) Responds to his choice of Class B.
+
+<!-- walk: y1v11 ch4 → p.92 -->

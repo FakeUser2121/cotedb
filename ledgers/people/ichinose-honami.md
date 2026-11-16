@@ -1251,3 +1251,20 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:ayanokouji-kiyotaka] (p.366–369, 375–376) Walks to school with him and later visits his room.
 
 <!-- walk: y1v10 Short Stories → p.376 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->
+
+### y1v11 pp.62–67 — Ch.3: Commanders’ meeting
+
+[scene] (p.62) Attends the commanders’ meeting as Class B’s representative.
+[scene] (p.63) Draws first in the lottery at Sakayanagi’s suggestion.
+[scene] (p.64) Becomes the target when Kaneda chooses Class B as Class D’s opponent.
+[scene] (p.67) Reacts playfully with Hoshinomiya to the event-day interface demonstration.
+[rel:sakayanagi-arisu] (p.62–65) Draws before her and is discussed as an opponent.
+[rel:kaneda-satoru] (p.64–65) Is chosen by him as Class B’s opponent.
+[rel:hoshinomiya-chie] (p.67) Reacts with her during the system explanation.
+[rel:ayanokouji-kiyotaka] (p.62–66) Meets him at the commanders’ meeting.
+
+<!-- walk: y1v11 ch4 → p.92 -->

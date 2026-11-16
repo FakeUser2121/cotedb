@@ -1217,3 +1217,17 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:ayanokouji-kiyotaka] (p.53) Reacts to the discussion about him becoming commander.
 
 <!-- walk: y1v11 ch3 → p.54 -->
+
+### y1v11 pp.74–92 — Ch.3: Visiting Ayanokōji’s room
+
+[scene] (p.74) Visits Ayanokōji’s dorm room in the evening after school.
+[scene] (p.75) Worries about being seen but is reassured that it is less necessary to hide now.
+[scene] (p.77) Questions why he became commander and says she would not have taken the role.
+[scene] (p.78) Shares information about the girls in Class C and discusses Hirata and Kushida.
+[scene] (p.81) Asks Ayanokōji to keep her from having to participate in events.
+[scene] (p.83) Receives a necklace from Ayanokōji as a birthday and White Day present.
+[says] (p.86) “Wh… What is this!?”
+[scene] (p.89) Criticises the gift choice but tries on the necklace and keeps it.
+[rel:ayanokouji-kiyotaka] (p.74–92) Visits him, provides class information, and receives a necklace.
+
+<!-- walk: y1v11 ch4 → p.92 -->

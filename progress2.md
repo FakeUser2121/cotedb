@@ -2809,3 +2809,16 @@ Ledgers touched: chabashira-sae, ike-kanji, sudou-ken, horikita-suzune,
 shinohara-satsuki, karuizawa-kei, sakura-airi, hirata-yousuke,
 ayanokouji-kiyotaka, ledgers/volumes/y1v11.md. verify y1v11: ALL PASS;
 make check OK; gate exit 0. Next: ch4 pp.55–92.
+
+### y1v11 ch4 — walked, shipped
+
+Chapter 3 "Opponents" (pp.55–92). Class C prepares for the Event
+Selection Exam while Hirata and Kōenji remain absent; commanders meet
+and Kaneda chooses Class B (Class C vs Class A); Ayanokōji learns
+commander procedures and meets Kei, who shares class information and
+receives a necklace. Ledgers touched: ayanokouji-kiyotaka,
+horikita-suzune, hirata-yousuke, kouenji-rokusuke, wang-mei-yu,
+chabashira-sae, sakayanagi-arisu, ichinose-honami, kaneda-satoru,
+mashima-tomonari, hoshinomiya-chie, kushida-kikyou, karuizawa-kei,
+ledgers/volumes/y1v11.md. verify y1v11: ALL PASS; make check OK; gate
+exit 0. Next: ch5 pp.93–169.

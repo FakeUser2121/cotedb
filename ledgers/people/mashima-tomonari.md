@@ -164,3 +164,15 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 [rel:hoshinomiya-chie] (p.21–26) Speaks with her after the meeting and warns her about Class C.
 
 <!-- walk: y1v11 ch2 → p.26 -->
+
+### y1v11 pp.62–71 — Ch.3: Explaining the commander system
+
+[scene] (p.62) Runs the lottery to decide which commander may choose an opponent.
+[scene] (p.63) Confirms the lottery results and Kaneda’s right to choose.
+[scene] (p.65) Finalizes the matchups as Class D vs Class B and Class C vs Class A.
+[scene] (p.67) Explains the commander’s exam-day procedures, including participant selection and time limits.
+[scene] (p.70) Warns that improper interference can lead to disqualification and explains headset/text-to-speech rules.
+[rel:kaneda-satoru] (p.63–65) Confirms his choice of opponent.
+[rel:chabashira-sae] (p.67–71) Explains the system alongside her.
+
+<!-- walk: y1v11 ch4 → p.92 -->

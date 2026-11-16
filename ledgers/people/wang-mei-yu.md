@@ -65,3 +65,14 @@ char_id: wang-mei-yu · status: minor
 [rel:hirata-yousuke] (p.290, 311) Objects to his self-sacrifice and worries about him afterward.
 
 <!-- walk: y1v10 Epilogue → p.362 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->
+
+### y1v11 pp.58 — Ch.3: Chasing after Hirata
+
+[scene] (p.58) Says she is going to the bathroom but leaves to chase after Hirata when he exits the classroom.
+[rel:hirata-yousuke] (p.58) Goes after him when he leaves.
+
+<!-- walk: y1v11 ch4 → p.92 -->

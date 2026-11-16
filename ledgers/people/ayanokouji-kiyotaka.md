@@ -4809,3 +4809,23 @@ walk: y1v1 → DONE
 [rel:chabashira-sae] (p.27–41) Hears her explain the Event Selection Exam rules.
 
 <!-- walk: y1v11 ch3 → p.54 -->
+
+### y1v11 pp.55–92 — Ch.3: Opponents and Kei’s visit
+
+[scene] (p.55) Leaves during lunch to contact others before returning to Class C’s meeting.
+[scene] (p.59) Leaves the classroom as commander and heads to the multipurpose room with Chabashira.
+[scene] (p.60) Tells Chabashira he volunteered to be commander.
+[scene] (p.62) Attends the commanders’ meeting with Sakayanagi, Ichinose, and Kaneda.
+[scene] (p.64) Kaneda chooses Class B, leaving Class C matched against Class A.
+[scene] (p.67) Listens as the teachers explain the commander interface and rules for exam day.
+[scene] (p.72) Returns to his dorm thinking he needs information about Class C and plans to consult others.
+[scene] (p.74) Invites Kei into his room in the evening.
+[scene] (p.78) Asks Kei about the internal state of the class and considers consulting Hirata and Kushida later.
+[scene] (p.83) Gives Kei a necklace as a birthday and White Day present.
+[rel:chabashira-sae] (p.59–61) Walks with her to the multipurpose room and discusses becoming commander.
+[rel:sakayanagi-arisu] (p.62–65) Faces her as Class C’s commander when the matchup becomes Class C vs Class A.
+[rel:ichinose-honami] (p.62–66) Meets her at the commanders’ meeting.
+[rel:kaneda-satoru] (p.62–66) Present as he chooses Class B.
+[rel:karuizawa-kei] (p.74–92) Meets her in his room, gathers information, and gives her a necklace.
+
+<!-- walk: y1v11 ch4 → p.92 -->

@@ -1449,3 +1449,15 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:hirata-yousuke] (p.304) Places behind him in Class C praise votes.
 
 <!-- walk: y1v10 Epilogue → p.362 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->
+
+### y1v11 pp.78 — Ch.3: Considered as a source of information
+
+[scene] (p.78) Ayanokōji considers consulting Kushida later to learn about the class, while noting she may be wary after the Class Poll.
+[note] (p.78) Kushida does not appear in person in this chapter.
+[rel:ayanokouji-kiyotaka] (p.78) He considers asking her for information about the class.
+
+<!-- walk: y1v11 ch4 → p.92 -->

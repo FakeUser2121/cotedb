@@ -978,3 +978,14 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:horikita-suzune] (p.33, 35, 38) Answers her questions about events, rules, and matchups.
 
 <!-- walk: y1v11 ch3 → p.54 -->
+
+### y1v11 pp.59–71 — Ch.3: Commanders’ meeting
+
+[scene] (p.59) Instructs the class to send the commander to the hallway and goes with Ayanokōji to the special building.
+[scene] (p.60) Questions Ayanokōji about volunteering as commander and warns him of the responsibility.
+[scene] (p.62) Attends the commanders’ meeting and helps explain the exam-day system.
+[scene] (p.67) Demonstrates the participant-selection interface on the computer.
+[rel:ayanokouji-kiyotaka] (p.59–67) Accompanies him and oversees the commanders’ meeting.
+[rel:mashima-tomonari] (p.62–71) Explains the commander procedures together with him.
+
+<!-- walk: y1v11 ch4 → p.92 -->

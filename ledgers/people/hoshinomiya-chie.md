@@ -194,3 +194,10 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 [rel:tsukishiro] (p.22) Suspects his actions may target opposing teachers.
 
 <!-- walk: y1v11 ch2 → p.26 -->
+
+### y1v11 pp.67 — Ch.3: Commanders’ meeting
+
+[scene] (p.67) Attends the commanders’ meeting and reacts playfully with Ichinose during the interface demonstration.
+[rel:ichinose-honami] (p.67) Jokes with her during the explanation.
+
+<!-- walk: y1v11 ch4 → p.92 -->

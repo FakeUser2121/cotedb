@@ -1467,3 +1467,12 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:ayanokouji-kiyotaka] (p.46) Present as the class discusses his praise votes and commander role.
 
 <!-- walk: y1v11 ch3 → p.54 -->
+
+### y1v11 pp.55–58 — Ch.3: Absent from class preparation
+
+[scene] (p.55) Does not return for the Class C meeting after lunch.
+[scene] (p.58) Leaves the classroom after school despite being called back; Mii-chan goes after him.
+[rel:wang-mei-yu] (p.58) She follows him when he leaves.
+[rel:horikita-suzune] (p.55, 58) Takes over class leadership in his absence.
+
+<!-- walk: y1v11 ch4 → p.92 -->

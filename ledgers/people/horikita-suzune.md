@@ -3049,3 +3049,13 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:shinohara-satsuki] (p.52–53) Responds to concerns about Ayanokōji as commander.
 
 <!-- walk: y1v11 ch3 → p.54 -->
+
+### y1v11 pp.55–59 — Ch.3: Leading class preparation
+
+[scene] (p.55) After lunch, most of Class C gathers in the classroom to prepare for the Event Selection Exam.
+[scene] (p.57) Distributes copies of the exam handout and tells classmates to read it and ask questions.
+[scene] (p.59) Prepares to lead the after-school discussion in Hirata’s absence and tells Ayanokōji to choose Class D if given the choice.
+[rel:ayanokouji-kiyotaka] (p.59) Sends him to the commanders’ meeting with instructions.
+[rel:hirata-yousuke] (p.55, 58) Notes his absence and takes initiative in his place.
+
+<!-- walk: y1v11 ch4 → p.92 -->

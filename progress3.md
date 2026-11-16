@@ -1737,3 +1737,7 @@ hash: `b4c834dcff42ea32623ae022084291ce`.
 Year 1 Volume 11 Chapter 2 "The First Years’ Final Battle" (pp.27–54)
 walked. Event Selection Exam rules and Ayanokōji named commander.
 Determinism hash: `66e5f9106099b1fdbf430914a61305a7`.
+
+Year 1 Volume 11 Chapter 3 "Opponents" (pp.55–92) walked. Class C vs
+Class A matchup set; commander system explained; Kei meets Ayanokōji.
+Determinism hash: `28193ff9b8eb1a3fdab81680d2764421`.

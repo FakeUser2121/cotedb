@@ -157,3 +157,19 @@ aliases used for anchors: kaneda, kaneda satoru, kaneda-kun
 [status] (p.316) Received the most praise votes in Class D in the Class Poll.
 
 <!-- walk: y1v10 Epilogue → p.362 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->
+
+### y1v11 pp.62–66 — Ch.3: Choosing Class B
+
+[scene] (p.62) Attends the commanders’ meeting as Class D’s representative.
+[scene] (p.63) Wins the lottery draw for the right to choose an opponent.
+[scene] (p.64) Chooses Class B as Class D’s opponent.
+[scene] (p.65) Explains that Class D wants to take points from an upper class while avoiding Class A.
+[rel:ichinose-honami] (p.64–65) Selects her class as Class D’s opponent.
+[rel:sakayanagi-arisu] (p.64–65) Answers her question about the choice.
+[rel:ayanokouji-kiyotaka] (p.62–66) Faces him at the commanders’ meeting.
+
+<!-- walk: y1v11 ch4 → p.92 -->
