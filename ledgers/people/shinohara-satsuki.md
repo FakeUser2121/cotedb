@@ -197,3 +197,15 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.106–107) Not present; named in the boys’ talk only.
 
 <!-- walk: y1v9 ch5 → p.125 -->
+
+### y1v9 p.139–140 — The prostitute rumor and the evidence trap
+[scene] (p.139) One of the four full-name forum rumors: her middle-school past posted for the whole class.
+[says] (p.139) “A-absolutely not!”
+[trait] (p.139) Stands up in a panic, denial adamant — embarrassment and anger clear on her face.
+[says] (p.139) “You’re asking for evidence…? How am I supposed to give you something like that!?”
+[says] (p.140) “Are you stupid!? You’re getting swept away by rumors and you don’t even know where they came from!”
+[rel:yamauchi-haruki] (p.139–140) His target through the morning; her anger at him is called by no means unreasonable — she stays calm where most would not.
+[rel:ike-kanji] (p.140) The jibe about Ike’s crush on her is used as a weapon against him while she is still under attack.
+[limit] (p.140) The audience spreads the rumors onward to incoming students regardless of her denials.
+
+<!-- walk: y1v9 ch6 → p.150 -->

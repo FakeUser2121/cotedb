@@ -2881,3 +2881,34 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [goal] (p.108) Expects tea with Kushida to produce mutual understanding — Ayanokōji reads the development as only superficial.
 
 <!-- walk: y1v9 ch5 → p.125 -->
+
+### y1v9 p.137–145 — The memo, the victims, and Sakayanagi’s plan
+[scene] (p.137) The chaotic exam morning; she shows Ayanokōji the four rumors written on her phone’s memo pad.
+[rel:ayanokouji-kiyotaka] (p.138–145) Names him in the memo, asks him point-blank whether the crush is true, takes his summary of the Hashimoto encounter, and sets the after-school meeting.
+[says] (p.137) “Of course it is. It’s because of those outrageous rumors that showed up this morning.”
+[says] (p.138) “Incidentally, this has something to do with you too, Ayanokōji-kun.”
+[says] (p.138) “Are you familiar with the forums that the school set up for each class?”
+[rel:hashimoto-masayoshi] (p.139) Judges it highly probable he spread the Ichinose rumors and the new crush rumor alike.
+[says] (p.139) “There’s a high probability that Hashimoto-kun is the one that spread the rumors about Ichinose-san, so it wouldn’t be surprising if he was also spreading these new rumors about you and Karuizawa-san.”
+[says] (p.139) “Regardless of whether it’s the same perpetrator or not, there are countless ways to spread rumors. Wouldn’t you agree that there’s no reason to get caught up in the differences? It’s not something that can be covered up now that it’s been posted online.”
+[says] (p.140) “Hmm… I suppose we have no other choice than to check with each of the victims one by one like Yamauchi.”
+[rel:sudou-ken] (p.142–143) Turns his offer to ask around into a keeper’s job — watch Yamauchi, look after Hondō; he obeys, a little disappointed.
+[says] (p.142) “You shouldn’t do anything that will lower other people’s evaluations of you. You already aren’t very well respected by your peers. You should be focusing your attention on improving how other people see you. Think about how Yamauchi-kun’s tactless remarks seem to have dramatically lowered his social status within the class.”
+[rel:sakayanagi-arisu] (p.143) Reads the simultaneous Class B and Class C attack as her plan to shake both classes before the end-of-year exams.
+[says] (p.143) “In all likelihood, this has all been a part of Sakayanagi-san’s plan as well. She wasn’t satisfied with going after Ichinose-san alone, so she set up the same type of trap for Class C. Then she attacked both classes at once. I think she’s trying to shake us up before our end-of-year exams… What should we do?”
+[says] (p.144) “But… I just can’t sit back and watch this happen like you.”
+[rel:karuizawa-kei] (p.144) Wants to see Ayanokōji panic over the crush rumor and shows rare disappointment that he does not.
+[says] (p.144) “From Kanzaki-kun…”
+[rel:kanzaki-ryuuji] (p.144–145) His message reports Ichinose’s exam-day absence and Class B’s rumors; she checks Class B and D boards herself.
+[says] (p.145) “Conveniently, no rumors were posted for Class A. Do you have time after school today? I’d like to hear the details about Ichinose from Kanzaki, and I’d also like to discuss how to deal with these forums.”
+[says] (p.145) “For now, let’s focus on the provisionary exam. After all, this is a valuable opportunity for us to confirm the difficulty level of the end-of-year exam and get a good grasp on where we’re at as a class.”
+[rel:ichinose-honami] (p.137, 145, 148) Worried about her in her own way — the phone exchanges Ichinose shows Ayanokōji; the second exam-day absence; the make-up-exam judgment.
+[says] (p.148) “I guess if there’s a bright side, it’s that she’s excellent with her academics. Even though she didn’t take the provisional exam, I don’t think she’ll run into any problems.”
+
+### y1v9 p.148–149 — At the mall with Kanzaki when Sakayanagi arrives
+[scene] (p.148) Stands with Kanzaki at the mall’s southern entrance when the Sakayanagi faction approaches.
+[rel:sakayanagi-arisu] (p.148–149) Warns Kanzaki not to let her get to him — this is all part of Sakayanagi’s strategy.
+[says] (p.149) “Don’t let her get to you, Kanzaki-kun. This is all a part of Sakayanagisan’s strategy.”
+[rel:kanzaki-ryuuji] (p.149) Steadies him after the exchange — his modesty and concern for others make the problem weigh on him.
+
+<!-- walk: y1v9 ch6 → p.150 -->

@@ -340,3 +340,11 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [note] (p.51) Not at the cafe; only present for the dorm-path walk after Hashimoto’s exit.
 
 <!-- walk: y1v9 ch3 → p.75 -->
+
+### y1v9 p.133 — The square box at the door
+[scene] (p.133) Left a differently packaged chocolate box in the paper bag outside Ayanokōji’s door before seven.
+[rel:ayanokouji-kiyotaka] (p.133) First name written on the front; one of the five chocolates lined up on his desk that night.
+[rel:sakura-airi] (p.133) Her round box waits beside Haruka’s square one — the two dorm-door deliveries of the pair.
+[note] (p.133) Named in the box and the group chat only; no scene together.
+
+<!-- walk: y1v9 ch6 → p.150 -->

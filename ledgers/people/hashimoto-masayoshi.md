@@ -258,3 +258,36 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [limit] (p.122) Cannot afford to tail every day with the end-of-year exams close — wants a definitive conclusion first.
 
 <!-- walk: y1v9 ch5 → p.125 -->
+
+### y1v9 p.126–133 — The chocolate rendezvous, and the direct challenge
+[scene] (p.126) Third-person section continues — waiting for the meeting he is certain Ayanokōji arranged, expecting Horikita or Ryūen, and finding Kei Karuizawa instead.
+[says] (p.126) “Woah, woah, are you serious…?”
+[rel:karuizawa-kei] (p.126) The girl from Hirata’s recent break-up turning up reads as love, not politics — his Hirata comparison never felt intimacy like this.
+[says] (p.127) “Chocolate, huh?”
+[rel:ayanokouji-kiyotaka] (p.127) The handover proves at least Karuizawa favors him; still unrelated to the ‘other side’ he set out to uncover.
+[says] (p.127) “It’s a rare opportunity… Why not challenge him directly?”
+[goal] (p.127–128) Expose Ayanokōji’s weaknesses by dragging Karuizawa in; if there is no reaction, conclude there was nothing to worry about.
+[says] (p.128) “Yo, Karuizawa.”
+[says] (p.128) “For a man and a woman to hold a secret meeting in a place like this… You’re quite the smooth one, Ayanokōji.”
+[rel:karuizawa-kei] (p.129–131) Tests her story, gets two shifting covers, then presses her against the wall with an ask-out — and loses interest the moment she is free of it.
+[says] (p.129) “No, you knew that she’d be giving you chocolate from the beginning, didn’t you? Your bag.”
+[says] (p.130) “You hand over such an intimate gift, but then claim it’s just done on a whim? I’m sorry, but I don’t see it. Moreover, what’s with the location? For a lie, that’s a pretty bad one.”
+[says] (p.131) “I’ve thought you were fine for a while now, so how about you go out with me, Karuizawa? I don’t know who you like now, but if you still haven’t given them any chocolate, that means you haven’t conveyed your feelings yet. Isn’t that right?”
+[says] (p.131) “…Is that so? It seems like I really have misunderstood, my bad. When I thought that you two might like each other, I couldn’t help but get suspicious.”
+[says] (p.132) “I’m talking about how you’re pretty big. Girls who lack experience won’t be able to handle yours.”
+[rel:ayanokouji-kiyotaka] (p.132–133) Trades the new “King” nickname for his contact information and withdraws like a passing storm.
+[says] (p.132) “By the way, King. How about we exchange contact info?”
+[says] (p.133) “Well, I’m gonna head back myself. See ya, Ayanokōji.”
+[limit] (p.133) Ayanokōji’s existence stays uncertain for him — nothing conclusive in either direction.
+
+### y1v9 p.139 — Named as the probable source of both rumor waves
+[rel:horikita-suzune] (p.139) Horikita judges it highly probable he spread the Ichinose rumors, so the new crush rumor about Ayanokōji and Karuizawa would not be surprising from him either.
+[note] (p.139) Named in Horikita’s reasoning only; does not appear on the page.
+
+### y1v9 p.147–148 — The tail reaches the mall, and the faction arrives
+[scene] (p.147) Tails Ayanokōji from an appropriate distance to Keyaki Mall’s southern entrance and reports the meeting to Sakayanagi.
+[rel:ichinose-honami] (p.147–148) The two absences and the rumor work are the object of Sakayanagi’s approach; he has been keeping watch over Ayanokōji for days.
+[rel:sakayanagi-arisu] (p.148) Walks up with her as one of the main members of the Sakayanagi faction — with Kamuro and Kitō.
+[note] (p.148–149) Present at the confrontation but unquoted; Sakayanagi speaks for the group.
+
+<!-- walk: y1v9 ch6 → p.150 -->

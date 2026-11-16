@@ -301,3 +301,21 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [note] (p.110, 123) Does not appear; named in Ayanokōji’s and Hashimoto’s passes only.
 
 <!-- walk: y1v9 ch5 → p.125 -->
+
+### y1v9 p.144–149 — The report, the south entrance, the answer to Sakayanagi
+[scene] (p.144) Messages Horikita from Class B: Ichinose out again, and their own board carrying rumors too.
+[rel:horikita-suzune] (p.144–146) His message sets the after-school meeting at Keyaki Mall’s southern entrance, chosen to avoid standing out.
+[rel:ichinose-honami] (p.147–148) Cannot reach her — two days off in a row, answers slow, homeroom teacher repeating the cold line; the girls’ visits bounce off a closed door.
+[says] (p.147) “Two days off in a row. And you still haven’t been able to get in contact with Ichinose-san yourself?”
+[says] (p.147) “It’s not that we can’t get into contact with her, it’s just that she’s been slow to respond to us. The most I’ve gotten from her was a notification that she’s been out sick with a cold.”
+[says] (p.147) “Nothing different from usual. Just that Ichinose is staying home again because she’s caught a cold.”
+[says] (p.147) “Some of the girls from my class have tried to see her, but it doesn’t seem like any of them have been able to get her to open her door.”
+[limit] (p.147) Recently in a constant state of stress, unable to relax — uncertainty over the true reason for her absences is justified.
+[says] (p.148) “That’s not what any of us are worried about. We’re just concerned about her state of mind.”
+[rel:sakayanagi-arisu] (p.148–149) Faces her faction’s arrival head-on at the meeting with Horikita and Ayanokōji — “This has nothing to do with you” — then the unity line; he knows the strategy is hers.
+[says] (p.148) “This has nothing to do with you.”
+[says] (p.149) “I hope you know that the unity of my class won’t falter just because of a couple of rumors.”
+[trait] (p.149) Suffering precisely because of his modesty and concern for those around him.
+[rel:horikita-suzune] (p.149) Takes her warning not to let Sakayanagi get to him and answers that he knows it.
+
+<!-- walk: y1v9 ch6 → p.150 -->

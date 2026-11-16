@@ -4392,3 +4392,58 @@ walk: y1v1 → DONE
 [thinks] (p.113) Only after the first-year curriculum is cleared is Kei safe — the battle runs to the bitter end.
 
 <!-- walk: y1v9 ch5 → p.125 -->
+
+### y1v9 p.128–133 — The confrontation he anticipated
+[scene] (p.128) Sensing Hashimoto closing in from behind while alone with Kei; lets the plan run for his own benefit.
+[rel:hashimoto-masayoshi] (p.128–133) Gives the introduction, the library-book cover, and finally contact information — the tail stays unresolved in either direction.
+[says] (p.128) “He’s Class A’s Hashimoto. I was grouped together with him during the training camp.”
+[says] (p.128) “She just gave me this chocolate by coincidence. I didn’t come out here expecting to get anything.”
+[says] (p.129) “…No, I was originally intending on heading over to the library. But just before I could head out, Karuizawa called me and I agreed to meet up with her, that’s all.”
+[feat] (p.129) Produces two library books from the bag as proof the outing was unplanned.
+[rel:karuizawa-kei] (p.130) Passes her the baton deliberately — a test of how well she can keep up with him.
+[says] (p.130) “Well, it’ll be better for you to just speak honestly here, Karuizawa. If we continue to hide something here, I think it’ll just be troublesome for you afterward. If that guy ends up thinking we’re dating, you’d be troubled, right?”
+[says] (p.132) “I’m fine with giving it to you as long as you never use that nickname you just came up with ever again.”
+[goal] (p.133) Let Hashimoto’s picture of him stay uncertain — if only it would stay that way.
+[says] (p.133) “I never expected to get five of them…”
+[rel:hasebe-haruka] (p.133) The square box with Haruka’s first name on it waits at his door with Airi’s; the group chat says Akito and Keisei got the same.
+[rel:sakura-airi] (p.133) The round box carries Airi’s name — two of the five chocolates at his desk.
+
+### y1v9 p.134–137 — The sickroom after ten
+[scene] (p.134) Hoodie, elevator camera avoided, unannounced at Ichinose’s door — text sent only to check she was awake.
+[rel:ichinose-honami] (p.134–137) Presses the visit through, accepts her mask, and is the first face-to-face visitor she has had since falling ill.
+[says] (p.134) “Ichinose, it’s me. Ayanokōji.”
+[says] (p.134) “Something important has come up. I was hoping I could speak with you about it in person, is that alright?”
+[says] (p.135) “To be honest, it seems like things might get troublesome if I’m seen by another girl right now.”
+[says] (p.135) “Sorry. I definitely got a bit forceful. You don’t look like you’re doing very well.”
+[says] (p.135) “I apologize for coming by at such a bad time.”
+[says] (p.135) “So, have you been to the infirmary?”
+[rel:horikita-suzune] (p.134, 137) Horikita’s ahead-of-time contact arrangement gets him the room number; Ichinose’s phone shows her worried exchanges with Horikita.
+[limit] (p.135) The fever is real, not a dodge of the rumors — he can tell from her voice, the cough and the mask.
+[note] (p.137) Plenty of visits in both directions lately, and not one of them about a love affair — the record the crush rumor runs opposite to.
+
+### y1v9 p.137–146 — The four rumors and the provisional exam
+[scene] (p.137) Exam morning, the classroom loud with talk that has nothing to do with studying.
+[rel:horikita-suzune] (p.138–145) Reads Horikita’s memo of the four forum rumors with her, denies the crush line, summarizes the Hashimoto encounter, and agrees to the after-school meeting with Kanzaki.
+[says] (p.138) “Where did this gossip come from?”
+[says] (p.138) “The ones in the school’s app, right?”
+[says] (p.139) “No it is not.”
+[says] (p.139) “There are only a few people who know about my relationship with Karuizawa as it is now anyway.”
+[rel:hondou-ryoutaro] (p.141) Nods in response to Hondō’s plea for backup instead of speaking up himself.
+[says] (p.142) “No, I don’t.”
+[rel:sudou-ken] (p.142) Confirms the denial for Sudō, who has overheard the exchange with Horikita anyway.
+[rel:karuizawa-kei] (p.143–144) Concedes her exposure is the real problem while declaring the rumor about himself no big deal.
+[says] (p.143) “It’s not that big of a deal to me. On the other hand, Karuizawa is most likely going to be facing some problems.”
+[rel:kanzaki-ryuuji] (p.146) Meets him after school at Keyaki Mall’s southern entrance, with Horikita — the spot furthest from the school.
+[goal] (p.147) Worried about Ichinose as a friend, and letting the Class A shadow draw closer is exactly the development he wants.
+
+### y1v9 p.149–150 — The call: rumor as insurance
+[scene] (p.149) Back in his room after school, Kei calls about the crush rumor naming them both.
+[says] (p.149) “Maybe Hashimoto spread it after what happened yesterday. Or maybe some other student saw us together.”
+[says] (p.150) “Well, it’s fine, isn’t it? It would be terrible for you if our positions were reversed.”
+[says] (p.150) “A rumor like ‘Kei has a crush on me’ would be pretty troublesome, right? If it ended up like that, I think everyone would be much more suspicious of you than me since you just broke up with Hirata.”
+[rel:hashimoto-masayoshi] (p.150) The rumor is the information he is indirectly planting for the tail — contact with Kei now has cover.
+[goal] (p.150) The rumor acts as insurance: talking to her from here on reads as the rumor playing out.
+[says] (p.150) “That being said, thanks to this rumor, it should be easier for the two of us to get in contact with each other moving forward. If I start talking to you now, people will assume that it’s because of the rumor, and we could leave it at that.”
+[says] (p.150) “Anyway, don’t worry about it.”
+
+<!-- walk: y1v9 ch6 → p.150 -->

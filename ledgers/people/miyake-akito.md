@@ -321,3 +321,11 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [note] (p.107, 122) Named in the classroom scenes; no direct speech this chapter.
 
 <!-- walk: y1v9 ch5 → p.125 -->
+
+### y1v9 p.133 — Same chocolates, named in the chat
+[scene] (p.133) The group chat reports the same Valentine boxes reaching Akito and Keisei.
+[rel:ayanokouji-kiyotaka] (p.133) Identical delivery to the one Ayanokōji finds at his door — the chat is how he knows.
+[rel:hasebe-haruka] (p.133) Among the senders named in the same chat thread.
+[note] (p.133) Named in the group chat only; does not appear.
+
+<!-- walk: y1v9 ch6 → p.150 -->

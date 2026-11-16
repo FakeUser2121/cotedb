@@ -1313,3 +1313,16 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:karuizawa-kei] (p.115, 122) Named as Yousuke — the chocolate’s original target; Hashimoto reads him as healing a broken heart.
 
 <!-- walk: y1v9 ch5 → p.125 -->
+
+### y1v9 p.141, 144 — Calming the rumor room
+[scene] (p.141) Arrives at the chaotic classroom, catches the atmosphere at once and works through the girls to hear the specifics.
+[rel:shinohara-satsuki] (p.141) Goes to the girls, including the girl under attack, to hear the rumors out properly instead of joining the shouting.
+[rel:yamauchi-haruki] (p.144) Intervenes first when Yamauchi moves on Shinohara and Satō again — posted on the forum does not make it true.
+[says] (p.144) “Yamauchi-kun. Just because something’s been posted on our class’s forums doesn’t necessarily mean that it’s true. At the very least, it’s wrong for fellow classmates to be hurting each other like this.”
+[says] (p.144) “I’m not sure I agree with you about that. At least not in the current situation. That’s why, right now, I think that the proper course of action is to avoid getting tricked by these rumors while we sort everything out.”
+[feat] (p.144) His words draw strong approval from both the boys and the girls — no permanent solution, but the room holds for now.
+[rel:karuizawa-kei] (p.145) Named in the crush rumor’s setup — the ex-boyfriend whose break-up gave the story its shape; no scene together this chapter.
+[rel:hondou-ryoutaro] (p.144) Among those Horikita’s plan has him helping keep steady while the rumors sort out.
+[note] (p.145) Present in the classroom through the exam morning; the crush rumor keeps his ex’s name in circulation without him speaking to it.
+
+<!-- walk: y1v9 ch6 → p.150 -->

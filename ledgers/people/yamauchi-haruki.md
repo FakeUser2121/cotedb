@@ -713,3 +713,22 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [note] (p.107) Named in the narration only; does not appear.
 
 <!-- walk: y1v9 ch5 → p.125 -->
+
+### y1v9 p.139–144 — The hounding that flips the class
+[scene] (p.139) Shouts the Shinohara rumor at her without reading the room — with a smile on his face.
+[says] (p.139) “Oi! Were you really a prostitute, Shinohara!?”
+[rel:shinohara-satsuki] (p.139–140) Demands evidence of her, pushes the online posts as realistic, and keeps on when even Ike tries to stop him.
+[says] (p.140) “If you’re saying it’s a lie, then are you saying that everything that’s been put online was also a lie? That we’ve all just been running our mouths?”
+[says] (p.140) “Though~ Don’t you think that all of the stuff posted online seems pretty realistic?”
+[says] (p.140) “Wh-what’s wrong? This is my chance to get back at Shinohara for always acting so high and mighty.”
+[says] (p.140) “How are we supposed to know that? A relatively ugly chick like her could’ve totally done something like that.”
+[rel:ike-kanji] (p.140) Ignores his closest friend’s feelings entirely — the crush jibe ends in Ike grabbing his collar.
+[rel:hondou-ryoutaro] (p.141) Switches targets when Shinohara denies everything — turns the attack on Hondō’s rumor.
+[says] (p.141) “Well then, Hondō~ Are you seriously only into fat chicks?”
+[says] (p.141) “Dammit. What the hell? Are they all just lies?”
+[rel:sudou-ken] (p.141–143) Separated from Ike by Sudō, then put under Sudō’s watch so he does not spiral further.
+[rel:horikita-suzune] (p.142) Her example: his tactless remarks dramatically lowered his social status in the class — Sudō’s replacement as most disliked.
+[rel:hirata-yousuke] (p.144) Hirata intervenes on his next move — posted on the forum is not proof.
+[status] (p.144–145) The classroom turns against his method; the narration marks his social fall as instant.
+
+<!-- walk: y1v9 ch6 → p.150 -->

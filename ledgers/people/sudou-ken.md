@@ -1261,3 +1261,19 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [trait] (p.106) Eyes not smiling, “demonic intensity” — nervous about Horikita and Ayanokōji since the camp.
 
 <!-- walk: y1v9 ch5 → p.125 -->
+
+### y1v9 p.141–143 — Splitting the fight, then the volunteer offer
+[scene] (p.141) Forcibly separates Ike and Yamauchi when the collar grab starts.
+[says] (p.141) “Cut it out you guys.”
+[rel:ayanokouji-kiyotaka] (p.142) Comes over to ask him straight whether he really does not like Karuizawa — even Sudō needs to know.
+[says] (p.142) “Ayanokōji. You really don’t like Karuizawa?”
+[rel:horikita-suzune] (p.142–143) Offers to ask around without shame like Yamauchi did; she redirects him to shepherding Yamauchi and Hondō instead, and he obeys.
+[says] (p.142) “Ah, well, it’s just that I managed to overhear part of your conversation. If it’s alright with you, I’d like to help out.”
+[says] (p.142) “Well, I have no shame. I should be able to ask around about the rumors straightforwardly like Haruki did.”
+[says] (p.143) “…Yeah, you’re right.”
+[rel:yamauchi-haruki] (p.142) Put on duty to keep him from spiraling out of control — narration notes he took the most-disliked position from Sudō himself.
+[rel:hondou-ryoutaro] (p.143) Assigned to look after Hondō too, his spirits dampened by the rumors about him.
+[trait] (p.142) Glances at Ayanokōji and turns away — vaguely aware Horikita consults with him, and that the two sit next to each other.
+[status] (p.143) A little disappointed by the job he is given, but obediently follows Horikita’s instructions.
+
+<!-- walk: y1v9 ch6 → p.150 -->

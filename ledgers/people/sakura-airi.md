@@ -923,3 +923,12 @@ aliases used for anchors: sakura, airi, sakura-san
 [note] (p.103–109) Present through texts and one hallway exchange; not in the classroom circle.
 
 <!-- walk: y1v9 ch5 → p.125 -->
+
+### y1v9 p.133 — The round box at the door
+[scene] (p.133) Her chocolate waits in the paper bag outside Ayanokōji’s door, first name on the front.
+[rel:ayanokouji-kiyotaka] (p.133) The round package among the five boxes he counts out on his desk.
+[rel:hasebe-haruka] (p.133) The other name on the same delivery — Haruka’s square box next to hers.
+[rel:miyake-akito] (p.133) The group chat says Akito got the same thing she and Haruka sent.
+[note] (p.133) Named in the box and the chat only; no scene together.
+
+<!-- walk: y1v9 ch6 → p.150 -->

@@ -1084,3 +1084,27 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [note] (p.110) The two girls’ exchange is tagged in neither speaker; recorded under the scene instead.
 
 <!-- walk: y1v9 ch5 → p.125 -->
+
+### y1v9 p.134–137 — The room, the mask, the truth of the illness
+[scene] (p.134) Answering Ayanokōji’s late-night door in a mask, fever down but spirits low — his text had only confirmed she was awake.
+[rel:ayanokouji-kiyotaka] (p.134–137) First face-to-face visitor she has had; presses him into the mask she offers so he will not catch it.
+[says] (p.135) “Nyaha, that was a bit pushy there, Ayanokōji-kun…”
+[says] (p.135) “Yeah… I’m just a little spent is all.”
+[says] (p.135) “It’s alright. The fever is already almost gone. How should I put it, instead of feeling icky from the fever, I feel more hungry due to oversleeping, y’know? Oh, I’m sorry, but could I also get you to put on this mask?”
+[says] (p.135) “I went earlier this week.”
+[rel:horikita-suzune] (p.137) Her phone carries several exchanges with Horikita — proof she was worried in her own way.
+[says] (p.136) “You’re the first person I’ve met up with face to face since I got sick.”
+[says] (p.136) “There were a bunch of students who came to visit me while my fever was worse, but I was having a hard time so I had to turn them all away. Since then, some of my friends have been giving me space, thinking I’m depressed.”
+[says] (p.136) “I’m not going to skip out on school just because of those rumors.”
+[limit] (p.136) Narration ties the cold to the mental trauma and a weakened immune system — she will not admit that part herself.
+[says] (p.137) “No, it really is fine. It’s definitely safer not to meet up with anyone face to face right now, but it’s probably for the better to let somebody else know that I’ve actually caught something.”
+[status] (p.137) Aware that speculation about her illness’s legitimacy is already spreading — and lets a visitor see it.
+
+### y1v9 p.145, 147–148 — Exam-day absence and the worry around it
+[scene] (p.145) Absent again on provisional-exam day — the leader of Class B, the one who carries her colleagues’ burdens, out with a cold.
+[rel:kanzaki-ryuuji] (p.147) His report: slow to respond, most he got was a notification of a cold; the girls cannot get her door open.
+[limit] (p.147) Reluctant to talk about the rumors as much as her physical condition keeps her from facing classmates.
+[rel:sakayanagi-arisu] (p.148) Named in Sakayanagi’s approach — her string of absences painted as a coming problem before the end-of-year exams.
+[note] (p.145–148) Does not appear; carried on other people’s messages and talk.
+
+<!-- walk: y1v9 ch6 → p.150 -->

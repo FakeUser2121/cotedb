@@ -1119,3 +1119,35 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [status] (p.115) “You’re giving me this?” accepted — present handed over and bagged before they part.
 
 <!-- walk: y1v9 ch5 → p.125 -->
+
+### y1v9 p.126–132 — The rendezvous cover, and Hashimoto’s ask-out
+[scene] (p.126) Turns up at the off-campus meeting place on February 14 with Ayanokōji’s chocolate, watched by Hashimoto from hiding.
+[rel:hashimoto-masayoshi] (p.128–131) Does not know who he is until introduced; answers his probing with two covers, then anger at the intrusion.
+[says] (p.129) “Aah, sorry, but there’s been a misunderstanding.”
+[says] (p.129) “Yep. I originally planned to give that chocolate to Hirata-kun. It would’ve been a pity to throw it away, so I thought about giving it to someone, and then I just decided on Ayanokōji-kun.”
+[says] (p.130) “Haa? You show up out of nowhere and just say everything that comes to your mind. Who in the world do you think you are?”
+[rel:ayanokouji-kiyotaka] (p.130) Takes his prompt to stop hiding — the cover becomes the middleman story for the person she likes, delivered without hesitation.
+[says] (p.130) “I’ve only temporarily entrusted this chocolate with Ayanokōji-kun, in order for him to give it to the person I like.”
+[says] (p.130) “Huh? This is the first time I’ve ever met you, yet you want me to tell you something like that? Are you stupid?”
+[trait] (p.130–131) The gyaru guise holds — stirring things up with nothing fake about it; Hashimoto assents and apologizes.
+[says] (p.131) “This won’t blow over just by lowering your head. Seriously, spare me.”
+[says] (p.131) “Why are you sticking your neck into something you have nothing to do with in the first place?”
+[says] (p.132) “Huh? Wait, I’ll head back too.”
+[rel:hashimoto-masayoshi] (p.131–132) Refuses the wall-pinned ask-out; pushes him away and leaves for the dorms on her own.
+[feat] (p.131) Unfazed by the arm against the wall — turns the confrontation back on him until he loses interest.
+
+### y1v9 p.145–150 — The crush rumor, and the call that ends in refusal
+[scene] (p.145) Arrives late to the classroom with her group; they whisper and glance over at Ayanokōji in disgust while she is among them.
+[rel:ayanokouji-kiyotaka] (p.145–150) Describes him to her friends as the rumor demands; the phone call is about the crush rumor naming them both.
+[says] (p.149) “Wait! W-wait wait wait! What’s going on Kiyotaka!!”
+[says] (p.149) “Stop with the ‘what do I mean’! T-there’s, uh, well, a rumor going around that you have a crush on me! How could you not notice!?”
+[says] (p.149) “N-nonono. Do you think I can ignore it just cause it’s a rumor??? How did it end up like this in the first place!?”
+[says] (p.150) “R-reversed?”
+[says] (p.150) “Nonononononono.”
+[says] (p.150) “If we’re seen alone together, people will totally look at us weirdly, right!? Absolutely weirdly, right!?”
+[says] (p.150) “Even if you say that……… No, it’s still absolutely impossible!”
+[rel:hashimoto-masayoshi] (p.149–150) Names Hashimoto as one possible spreader of the crush rumor; Ayanokōji keeps the tail in mind while he talks.
+[status] (p.150) Ends the call having decided contact between them is still impossible — grumbles to herself and hangs up.
+[rel:hirata-yousuke] (p.150) The reversed-position logic leans on her fresh break-up with Hirata — suspicion would fall harder on her.
+
+<!-- walk: y1v9 ch6 → p.150 -->

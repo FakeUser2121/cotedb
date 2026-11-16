@@ -1674,3 +1674,10 @@ Year 1 Volume 9 chapter 5 is the spreading-rumors chapter — the
 provisional-test rules, Sudō’s study ask, Ichinose’s empty room and
 Hashimoto’s shadowing tail ending at the elevator to Ichinose’s floor.
 Determinism hash across consecutive builds: `27d39f3c798d24af40639d6f9733cb1d`.
+
+Year 1 Volume 9 chapter 6 is the something-vague chapter — the tail turns
+into a three-way confrontation, Ichinose answers her door sick, four
+full-name forum rumors hit the provisional-exam morning, and the rumor
+about Ayanokōji and Karuizawa becomes the cover both of them have to live
+with. Determinism hash across consecutive builds:
+`f84f5e413fcb778bed73439bdac41eae`.

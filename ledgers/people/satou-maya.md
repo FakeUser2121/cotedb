@@ -244,3 +244,19 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [rel:nagumo-miyabi] (p.72) The relationship Nagumo already understands.
 
 <!-- walk: y1v8 ch2 → p.76 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.138, 141 — The hates-Onodera rumor and Maezono’s slip
+[scene] (p.138) Named in the fourth forum rumor written on Horikita’s memo — Satō Maya hates Onodera Kayano.
+[rel:onodera-kayano] (p.138, 141) The rumor puts her opposite Onodera; Maezono’s line makes it impossible to dismiss as a simple lie in front of everyone.
+[says] (p.141) “Wha-! Ho-hold on, Maezono-san!”
+[trait] (p.141) Frantically tries to stop Maezono, but the words are already out — narration marks it too late.
+[rel:maezono] (p.141) The one who lets the secret slip; Satou cannot pull it back.
+[limit] (p.141) After the slip, the crowd turns to whether she has ever been seen with Onodera — the rumor hardens rather than dies.
+[rel:ayanokouji-kiyotaka] (p.145) With her friend group, whispering and glancing over at him in disgust as the crush rumor runs.
+[note] (p.145) Present in the classroom circle; no direct speech this chapter beyond the Maezono exchange.
+
+<!-- walk: y1v9 ch6 → p.150 -->

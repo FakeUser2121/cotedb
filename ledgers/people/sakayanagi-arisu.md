@@ -451,3 +451,18 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.118–121) Not present; named in Hashimoto’s section only.
 
 <!-- walk: y1v9 ch5 → p.125 -->
+
+### y1v9 p.148–149 — The faction at the south entrance
+[scene] (p.148) Arrives at Keyaki Mall’s southern entrance with Hashimoto, Kamuro and Kitō — the main members of her faction — clearly there for Kanzaki.
+[rel:kanzaki-ryuuji] (p.148–149) Opens on Ichinose’s absences and the coming end-of-year exams; laughs off his rumor accusation; claims to know nothing of Class B’s situation while looking forward to the future.
+[says] (p.148) “It seems that Ichinose-san is absent today as well. The end-of-year exams are going to begin at the end of next week. If her string of absences is to repeat itself until then… it may turn into quite the problem, don’t you think?”
+[says] (p.148) “Now what in the world could you be discussing with these Class C students?”
+[says] (p.148) “It seems like we’re not welcome here.”
+[says] (p.149) “Oh please. What are you talking about?”
+[says] (p.149) “I do not know anything about what sort of situation Class B is in, but I am looking forward to the future.”
+[rel:hashimoto-masayoshi] (p.148) He has already reported Ayanokōji’s meeting to her; he walks up beside her with Kamuro and Kitō.
+[rel:ichinose-honami] (p.148) The absent leader is her stated reason for coming — the same trap Horikita accuses her of setting for both classes.
+[feat] (p.149) Came in person to see the results of her plans — the narration allows no other purpose for the visit.
+[note] (p.148) The laughter she and her classmates share at Kanzaki’s accusation is the page’s only gesture beyond the lines.
+
+<!-- walk: y1v9 ch6 → p.150 -->

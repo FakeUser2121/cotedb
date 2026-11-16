@@ -30,3 +30,16 @@ char_id: maezono · class: Class 1-D · status: minor
 [feat] (p.184) Takes the baton with the lead almost gone; passes to Kushida with Class A already ahead.
 
 <!-- walk: y1v5 ch9 → p.204 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.141 — The absent-minded line
+[scene] (p.141) Muttered without a second thought while Onodera has not come to school yet.
+[says] (p.141) “But… Satō-san doesn’t like Onodera-san very much, does she?”
+[rel:satou-maya] (p.141) The one whose stop attempt comes too late — the secret is out, and the class turns to asking whether anyone has seen them together, so the rumor hardens rather than dies.
+[rel:onodera] (p.141) Names Onodera by the bare surname in the same breath; printed form is surname only here.
+[trait] (p.141) Absent-minded words — narration says they probably came out without a second thought.
+
+<!-- walk: y1v9 ch6 → p.150 -->

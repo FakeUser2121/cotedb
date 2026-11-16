@@ -18,3 +18,15 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 [trait] (p.112–116) Gloved, formal, ready; the demon-glove rumor starts on his hands.
 
 <!-- walk: y1v7 ch4 → p.119 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.148 — Named with the faction
+[scene] (p.148) The boy from Class A who arrives with Sakayanagi, Hashimoto and Kamuro at the mall’s southern entrance.
+[rel:sakayanagi-arisu] (p.148) Named as one more of her group — narration calls them the main members of the Sakayanagi faction.
+[rel:kanzaki-ryuuji] (p.148) Part of the party that closes on Kanzaki while he is meeting Horikita and Ayanokōji.
+[note] (p.148) Does not speak — listed by name in the narration only.
+
+<!-- walk: y1v9 ch6 → p.150 -->

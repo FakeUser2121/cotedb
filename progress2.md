@@ -2547,3 +2547,35 @@ entities” beat said “ledgers” — R18 caught it at 1, reworded, back to 0.
 verify y1v9: 247 [says] (0 skipped) + 70 non-says ALL PASS; make check
 OK (R18 0, R19 82/82); gate exit 0; hash
 `27d39f3c798d24af40639d6f9733cb1d` twice. Next: ch6 pp.126–150.
+
+y1v9 ch6 Something Vague (pp.126–150): opens mid-tail — Hashimoto watches
+the chocolate rendezvous and confronts the pair; Kei’s two covers and the
+wall-pinned ask-out; the “King” trade for contact info; five chocolates
+at the door and the hooded elevator; the sickroom visit to Ichinose;
+provisional-exam morning with four full-name forum rumors, Yamauchi’s
+hounding, Sudō’s redirect, Hirata’s calm and Kanzaki’s message; the Keyaki
+south-entrance meeting where Sakayanagi arrives with Hashimoto, Kamuro
+and Kitō; Kei’s call closing on rumor-as-insurance. Stamps: one
+`y1v9 ch6 → p.150` per touched file; volume section carries its stamp in
+the body. 23 people ledgers touched (full first y1v9 blocks: kitou-hayato,
+satou-maya, hondou-ryoutaro, maezono, onodera; new ledger file:
+onodera-kayano via ledger-new for the first full-name print of the volume;
+onodera’s bare-surname line sits on the existing row — identity between
+the two roster names left unsettled in both records). Double stamps from
+bodies written with the stamp plus `--stamp` were de-duplicated before
+verify (23 files). Rule 12 sample of the 266 new rows: expulsions 0,
+points 0, results 0 (one [impact] row on Maezono was re-folded into her
+[rel:satou-maya] row after the sample showed [impact] is house-used for
+exam/point consequences and would have landed on the results page),
+who-knew-what +29 (limit 9, note 16, status 4 — same structural membership
+as ch1–ch5 samples), relationships 75 new edges with 19 unmirrored against
+the shipped ch1–4 norm of 43/172; no topic pattern or membership changed.
+New tags: none. New entities: onodera-kayano ledger file (roster row
+existed). Class-letter handling: corpus prints Class C for Karuizawa
+(p.126) and for the mall meeting group (p.148) against roster classes —
+kept as printed and flagged in the volume defects line; row prose was
+rewritten not to assert the wrong classes. Fixed before ship: three
+too-short [says] lines dropped or folded to prose so the skip counter
+stays 0. verify y1v9: 352 [says] (0 skipped) + 72 non-says ALL PASS; make
+check OK (R18 0, R19 82/82); gate exit 0; hash
+`f84f5e413fcb778bed73439bdac41eae` twice. Next: ch7 pp.151–175.

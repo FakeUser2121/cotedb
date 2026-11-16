@@ -644,3 +644,11 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.113, 121) Present in name only — no direct speech this chapter.
 
 <!-- walk: y1v9 ch5 → p.125 -->
+
+### y1v9 p.133 — Keisei in the group chat
+[scene] (p.133) Keisei is the second name the group chat reports getting the same chocolates.
+[rel:ayanokouji-kiyotaka] (p.133) Same thread — his boxes and Ayanokōji’s arrive in the same round.
+[rel:miyake-akito] (p.133) Named alongside Akito as having gotten the same thing.
+[note] (p.133) Named in the group chat only; does not appear.
+
+<!-- walk: y1v9 ch6 → p.150 -->

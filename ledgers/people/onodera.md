@@ -38,3 +38,15 @@ char_id: onodera · class: Class 1-D · status: minor
 [note] (p.77) Text prints only the surname Onodera; no given name on these pages.
 
 <!-- walk: y1v6 ch5 → p.131 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.141 — The bare surname in Maezono’s line
+[scene] (p.141) Maezono mutters that Satō does not like Onodera very much — surname alone, and Onodera is not in the room.
+[rel:satou-maya] (p.141) Named opposite her; Satō’s attempt to stop the line comes too late.
+[rel:maezono] (p.141) The speaker of the line that hardens the rumor.
+[note] (p.138, 141) The memo on p.138 prints the full name Onodera Kayano for the same rumor and is recorded on her page; these pages print only the surname here and do not settle whether the two roster names are one girl.
+
+<!-- walk: y1v9 ch6 → p.150 -->

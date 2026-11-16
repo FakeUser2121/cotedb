@@ -871,3 +871,12 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:ayanokouji-kiyotaka] (p.106) Calls him a monster with the gesture; asks whether he knew about Shinohara.
 
 <!-- walk: y1v9 ch5 → p.125 -->
+
+### y1v9 p.140 — The friend who reaches for the collar
+[scene] (p.140) In the classroom as Yamauchi hounds Shinohara for evidence.
+[rel:yamauchi-haruki] (p.140) His closest friend — reaches out to grab his shoulder to signal it is time to stop, and later grabs the collar of his shirt when the crush jibe lands.
+[says] (p.140) “Getting back at her…? No matter what, those rumors have to be lies!”
+[note] (p.140) The translation leaves the “Getting back at her” line untagged; it answers Yamauchi’s “get back at Shinohara” and the next narration weighs Yamauchi’s disregard for Ike’s feelings, so it is recorded here as the responding speaker.
+[rel:shinohara-satsuki] (p.140) The jibe that he has a crush on Shinohara is what pushes him to the collar grab — his feelings are named in the narration.
+
+<!-- walk: y1v9 ch6 → p.150 -->

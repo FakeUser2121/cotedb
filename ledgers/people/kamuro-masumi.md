@@ -135,3 +135,10 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [note] (p.99) Ayanokōji judged her almost certainly truthful even before the proof, withholding the admission.
 
 <!-- walk: y1v9 ch4 → p.100 -->
+
+### y1v9 p.148 — At Sakayanagi’s side, silent
+[scene] (p.148) Walks up to Keyaki Mall’s southern entrance as one of the Sakayanagi faction — with Hashimoto and Kitō.
+[rel:sakayanagi-arisu] (p.148) Follower in the group that arrives for Kanzaki; no line of her own in the exchange.
+[note] (p.148) Present in the group only — Sakayanagi speaks, the rest stand.
+
+<!-- walk: y1v9 ch6 → p.150 -->
