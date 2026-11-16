@@ -1275,3 +1275,19 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [note] (p.72) Noted as having hung out with the group over Christmas alongside Satou.
 
 <!-- walk: y1v8 coverage → p.244 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.28–30, 38 — Dumped in public, unmoved
+[scene] (p.28–30) Class C reacts to the Karuizawa–Hirata breakup; Hirata is boxed in by classmates with a gentle expression.
+[rel:karuizawa-kei] (p.28–29) The public half of the split; narration: it was a fake relationship Kei started, and the face he showed protected her status.
+[status] (p.30) Not a smidgen of misery; Ike and Sudō do not tease him — proof the class has outgrown that.
+[says] (p.30) “It’s ok, it’s the truth after all.”
+[voice] (p.30) Accepts Yamauchi’s clumsy consolation without displeasure; the best proof he is fine is that the usual teasers stay away.
+[rel:yamauchi-haruki] (p.30) Yamauchi alone flippantly congratulates him on getting dumped; Ike and Sudō flank Yamauchi away.
+[rel:hasebe-haruka] (p.38–39) Cafe: Haruka notes many girls in class like him now that he is free; Yukimura says a quiet beautiful girl would suit him better than Kei.
+[note] (p.30) Hirata does not speak again in this chapter after the one line; rows record how others treat the news.
+
+<!-- walk: y1v9 ch2 → p.50 -->

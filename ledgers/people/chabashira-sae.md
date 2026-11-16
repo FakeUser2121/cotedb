@@ -861,3 +861,15 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [note] (p.33) Announces the bus’s arrival and starts the boys’ syllabary roll call.
 
 <!-- walk: y1v8 coverage → p.244 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.39–40 — Named as the exam’s silent teacher
+[scene] (p.39) Cafe study talk; Yukimura plans around the end-of-year exam.
+[rel:yukimura-teruhiko] (p.39) Narration: Chabashira gave no special explanation for the end-of-year exam, so it will be written as usual and a failing grade means expulsion.
+[role:homeroom-1c] (p.39) Homeroom instructor whose silence is read as “written exam as usual.”
+[note] (p.39–40) Chabashira does not appear; only named as the source of the (non-)briefing.
+
+<!-- walk: y1v9 ch2 → p.50 -->

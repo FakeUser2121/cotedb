@@ -604,3 +604,15 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.172) Called the conservative voice among those Sakayanagi and Katsuragi might value.
 
 <!-- walk: y1v8 coverage → p.244 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.49 — Named as the other Class A authority
+[scene] (p.49) Gymnasium questioning; Kanzaki names who could order Class A students.
+[rel:hashimoto-masayoshi] (p.49) Hashimoto is asked whether Sakayanagi instructed him; Kanzaki adds Katsuragi as the only other Class A figure who could.
+[says:kanzaki-ryuuji] (p.49) “Then who did? She’s the only one who can give instructions to you guys in Class A other than Katsuragi.”
+[note] (p.49) Katsuragi does not appear; only named in Kanzaki’s chain-of-command question.
+
+<!-- walk: y1v9 ch2 → p.50 -->

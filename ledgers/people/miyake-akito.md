@@ -281,3 +281,23 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [limit] (p.185) No presence in chapter 6 after half 1.
 
 <!-- walk: y1v8 ch6 → p.185 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.41–46 — Club call and gymnasium standoff
+[scene] (p.41) Phone call on speaker from club duty; later standing watch between Hashimoto and Kanzaki in the gym.
+[says] (p.41) “No… Looks like trouble’s brewing.”
+[says] (p.41) “Class A and Class B are quarreling. Worst case scenario, I have to be there to stop them if a fight breaks out.”
+[rel:hasebe-haruka] (p.41–42) Answers Haruka’s call; ends it after saying the trouble could reach their class next.
+[rel:ryuuen-kakeru] (p.42) Narration: his willingness to deal with Ryuuen in the training camp and the old “bad himself” story explain his confidence.
+[rel:hashimoto-masayoshi] (p.43–46) Stands between the two first-years; Hashimoto tries to drag him into the argument; he stays until sure they will not fistfight.
+[says:hashimoto-masayoshi] (p.43) “You’re quite persistent, Miyake. I wasn’t the one who instigated this in the first place, Kanzaki was.”
+[rel:kanzaki-ryuuji] (p.43–46) Kanzaki wanted no audience; Miyake refuses to leave until the de-escalation is clear.
+[rel:ayanokouji-kiyotaka] (p.46) Asks Ayanokōji what the group should do; accepts the stay-and-watch advice.
+[says] (p.46) “Hey, what should we do?”
+[feat] (p.43) Physical barrier between two confrontational classmates without taking a side — his standing role in the scene.
+[note] (p.41) Club activity not named on these pages beyond “done with club activities?” — archery is implied by the search path, not stated as his club in the quoted lines.
+
+<!-- walk: y1v9 ch2 → p.50 -->

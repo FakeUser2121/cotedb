@@ -885,3 +885,22 @@ aliases used for anchors: sakura, airi, sakura-san
 [note] (p.173) Remembered alongside Haruka when deciding to investigate the Class C connection.
 
 <!-- walk: y1v8 coverage → p.244 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.36–42 — Cafe blush and the walk to Miyake
+[scene] (p.36) Cafe with the Ayanokōji Group; Airi agrees the Sakayanagi approach looked sly.
+[rel:hasebe-haruka] (p.36–42) Backs Haruka’s “definitely acting” line; teased along on the walk to find Miyake.
+[says] (p.37) “I… I think that was, umm, that…”
+[says] (p.38) “Yeah, her gestures looked that way but… like Keisei-kun said, maybe she’s trying to investigate Class C so she can do something bad.”
+[rel:ayanokouji-kiyotaka] (p.38–39) Asks whether Karuizawa is cute and wants to hear his answer; accepts his reply that he never really paid attention to Karuizawa.
+[says] (p.39) “Karuizawa-san is also cute… Don’t you think so, Kiyotaka-kun?”
+[rel:hirata-yousuke] (p.38–39) Group speculation that many girls like Hirata now that he is free.
+[rel:miyake-akito] (p.41–42) Shrinks at the idea of visiting the quarrel; Haruka teases that Kiyopon will save her if she is in a pinch.
+[says] (p.42) “B-But wouldn’t that be dangerous?”
+[rel:ichinose-honami] (p.41) Puzzled by the slander — “Really?” — as if she cannot imagine popular-girl targets.
+[feat] (p.41–42) Her perplexity at the burden-of-popularity line marks her distance from the social games around Ichinose.
+
+<!-- walk: y1v9 ch2 → p.50 -->

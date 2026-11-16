@@ -1016,3 +1016,17 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [note] (p.16–18) Ichinose is absent from these pages; the rows record how other characters treat her, not her own speech.
 
 <!-- walk: y1v9 ch1 → p.25 -->
+
+### y1v9 p.31–32, 40–41, 47–50 — Slandered at a distance
+[scene] (p.31) Horikita shows Ayanokōji the written accusations against Ichinose; later the class spots her in the cafe area and Kanzaki confronts Hashimoto about the campaign.
+[status] (p.31) Four written lines: “‘A history of violence’”, “‘Engaged in compensated dating’”, “‘Engaged in theft and robbery’”, “‘A noted history of drug usage’”.
+[rel:sakayanagi-arisu] (p.32) Narration: “There’s no doubt it’s Sakayanagi pulling the strings behind the scenes.”
+[rel:horikita-suzune] (p.31–32) Horikita tracks the slander from afar and wonders whether smoke implies some fire — while calling full truth extremely unlikely.
+[status] (p.40) Seen with stiff-faced Class B classmates who appear to protect her; she chats cheerfully as usual; Kanzaki is absent from her side.
+[rel:kanzaki-ryuuji] (p.40, 47–50) His absence beside her is noticed; he is in the gym defending her name instead.
+[rel:hashimoto-masayoshi] (p.47–50) Hashimoto quotes her reply to Kanzaki and argues a good present does not prove a good past.
+[rel:kanzaki-ryuuji] (p.47) She told Kanzaki not to take the rumors to heart — neither affirmed nor denied them.
+[limit] (p.50) Not seeking help or a culprit hunt; Kanzaki says she hates extreme conflicts and would forgive defamers.
+[note] (p.31, 40, 47–50) Ichinose has no spoken line in this chapter; every row is how others write and argue about her.
+
+<!-- walk: y1v9 ch2 → p.50 -->

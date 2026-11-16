@@ -1235,3 +1235,15 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [note] (p.19) Sudou is not present; only named in the fight recollection.
 
 <!-- walk: y1v9 ch1 → p.25 -->
+
+
+
+### y1v9 p.29–34 — Eavesdropping; absent at the invitation
+[scene] (p.29) Class morning gossip about the Karuizawa–Hirata split.
+[rel:ike-kanji] (p.29–30) Group eavesdrops on the girls; together flank Yamauchi away from Hirata.
+[rel:yamauchi-haruki] (p.30) Helps shut down Yamauchi’s dumping joke — “This is in bad taste. Cut it out.” is Ike’s line in the exchange; Sudō tried to hold Yamauchi back first.
+[rel:hirata-yousuke] (p.30) One of the two who would have teased the dumped boy in earlier days — now they do not.
+[status] (p.34) Already left for basketball practice when Sakayanagi enters; Ike notes the rowdier reaction is missing without him.
+[note] (p.29–34) Present only in the morning gossip and named as absent at the invitation; no spoken line of Sudō’s is tagged on these pages.
+
+<!-- walk: y1v9 ch2 → p.50 -->

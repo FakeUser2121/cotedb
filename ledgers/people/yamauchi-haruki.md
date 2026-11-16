@@ -678,3 +678,25 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [note] (p.138) Approaches with Yahiko as if to flank.
 
 <!-- walk: y1v8 coverage → p.244 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.30–35 — Dumping jape, then Sakayanagi’s invitation
+[scene] (p.30) Class C after the Hirata–Karuizawa news; Yamauchi alone approaches Hirata to console him in bad taste.
+[says] (p.30) “Yo, Hirata~ Heard you got dumped by Karuizawa~ Don’t mind it, don’t mind it!”
+[rel:hirata-yousuke] (p.30) Flippant consolation; Ike and Sudō flank him away as bad taste.
+[rel:ike-kanji] (p.30) Ike and Sudō grab him to stop the joke; he refuses to listen.
+[rel:sudou-ken] (p.30) Sudō tries to hold him back; Yamauchi refutes instead of stopping.
+[scene] (p.33) Sakayanagi walks into Class C and names him: “Is Yamauchi Haruki-kun here?”
+[rel:sakayanagi-arisu] (p.33–35) Scared at first, then leaves immediately with his bag when she waits in the corridor.
+[rel:horikita-suzune] (p.34–35) She blocks the door and warns him; he ignores her with a toast-and-street-corner romance fantasy.
+[says] (p.34) “I’m going because Sakayanagi-chan is waiting for me.”
+[feat] (p.35) Declares himself the class’s lethal weapon and promises to handle anything: “I am indeed this class’s lethal weapon. But that is exactly why it’s okay. On the off chance anything happens, I’ll take care of it.”
+[limit] (p.35) No real countermeasure thought through — narration: “In all likelihood, he hasn’t even given it any thought.”
+[says] (p.35) “Don’t worry about it. I am well aware of that.”
+[rel:hasebe-haruka] (p.35–37) The group follows him and Sakayanagi; Haruka insists the romance is an act.
+[note] (p.34) Refers to the training-camp collision with Sakayanagi as the basis for his toast fantasy — that incident is not re-shown on these pages.
+
+<!-- walk: y1v9 ch2 → p.50 -->

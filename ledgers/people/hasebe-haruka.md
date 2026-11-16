@@ -308,3 +308,24 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [limit] (p.185) No presence in chapter 6 after half 1.
 
 <!-- walk: y1v8 ch6 → p.185 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.35–42 — Corridor watch and the cafe
+[scene] (p.35) Corridor outside Class C after Yamauchi leaves with Sakayanagi; Haruka gathers the Ayanokōji Group to watch, then the cafe.
+[rel:yamauchi-haruki] (p.35–37) Leads the tail after Yamauchi.
+[says] (p.36) “No, no, this is way too stupid. She’s super cunning. There’s absolutely no way she’s actually into Yamauchi-kun.”
+[rel:sakayanagi-arisu] (p.36–38) Reads the hair-touch and shy manner as deliberate performance for the boys’ benefit — “She’s definitely acting.”
+[rel:sotomura-hideo] (p.35) Notices the Professor no longer uses ’gozaru’ in his speech; loses interest when Ayanokōji explains the training-camp fix.
+[rel:ayanokouji-kiyotaka] (p.36–42) Cafe partner; asks him and Yukimura whether romance is possible, accepts his rational counter, then steers to Hirata’s new freedom.
+[says] (p.38) “Kiyopon and Yukimu~, what do you think? Do you really think romance is a possibility?”
+[says] (p.39) “Ahh, speaking of Hirata-kun… He broke up with Karuizawa-san, right?”
+[says] (p.39) “Quite a lot of girls in our class like Hirata-kun. I wonder what’s going to happen.”
+[rel:miyake-akito] (p.41–42) Takes his speakerphone call about the Class A–B quarrel and proposes the group go find him; teases that Airi would be saved by Kiyopon.
+[says] (p.41) “Hmm? Could it be overtime club practice?”
+[rel:ichinose-honami] (p.40–41) Looks at Ichinose coldly; frames the slander as the burden popular girls bear.
+[feat] (p.42) Says Miyache used to be bad himself — her read of why he is not afraid of Ryuuen’s class.
+
+<!-- walk: y1v9 ch2 → p.50 -->

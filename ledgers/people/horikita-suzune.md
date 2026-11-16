@@ -2812,3 +2812,30 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (p.240) Brother would owe twenty million if expelled next; Manabu chose to leave Class A.
 
 <!-- walk: y1v8 coverage → p.244 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.28–34 — The breakup question, the slander note, blocking Yamauchi
+[scene] (p.28) Class C morning after Karuizawa and Hirata’s public split; Horikita is Ayanokōji’s desk neighbour.
+[says] (p.28) “You’re rather late to school today, Ayanokōji-kun.”
+[says] (p.28) “You seem to be on good terms with Hirata-kun and Karuizawa-san. You knew, didn’t you?”
+[says] (p.28) “Looks like it’s Karuizawa-san who did it.”
+[trait] (p.28) Surprised Kei dumped Hirata — she seemed the type to keep a good man as a symbol of status; her suspicion of Ayanokōji fades when he shows nothing.
+[rel:ayanokouji-kiyotaka] (p.28–34) Daily desk-neighbour analysis partner; she presses the breakup then switches to Ichinose’s slander.
+[goal] (p.30–31) Brings up the Ichinose slander unprompted and shows a written note rather than speak the accusations.
+[says] (p.31) “Recently, I’ve been hearing slander directed at her.”
+[says] (p.31) “It’s something I’m hesitant to put to words.”
+[says] (p.31) “That’s not true. Regardless of the veracity, it’s defamation…it’s categorized that way when targeted towards a large number of people. It’s possible to sue.”
+[feat] (p.31–32) Frames the campaign as legally defamation in society while conceding the isolated campus blurs crime; wonders whether smoke implies some fire — while calling the chance of full truth extremely low.
+[says] (p.32) “But…I wonder if a tasteless strategy like this will work on Ichinose-san.”
+[says] (p.32) “Even if not all of it’s true, perhaps at least one of it is?”
+[action] (p.33–34) Blocks Yamauchi’s exit when Sakayanagi summons him: “The very fact that you’re being asked out is abnormal in and of itself.”
+[says] (p.34) “Maybe she’s trying to do something to knock Class C down.”
+[rel:yamauchi-haruki] (p.34–35) Warns him and extracts a promise not to let class internal affairs slip; he ignores the warning and leaves.
+[rel:ichinose-honami] (p.31–32) Observer stance — approaching Ichinose could draw suspicion; she keeps distance while tracking the rumors.
+[rel:sakayanagi-arisu] (p.32, 34) Names Sakayanagi as the likely string-puller behind the campaign (narration endorses this) and reads the Yamauchi invite as a possible Class C attack.
+[note] (p.33) Forces the training-camp standings notebook onto Ayanokōji’s desk; he flips it but the contents are not re-stated on these pages.
+
+<!-- walk: y1v9 ch2 → p.50 -->

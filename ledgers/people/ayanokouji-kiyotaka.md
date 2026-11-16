@@ -4228,3 +4228,39 @@ walk: y1v1 → DONE
 [note] (p.24) Ayanokōji does not appear in person; only named in the closing exchange.
 
 <!-- walk: y1v9 ch1 → p.25 -->
+
+### y1v9 p.28–32 — Morning after the breakup; the slander note
+[scene] (p.28) Early morning Class C; Karuizawa holds court with the girls; Horikita quizzes Ayanokōji on who dumped whom as the bell nears.
+[says:horikita-suzune] (p.28) “You’re rather late to school today, Ayanokōji-kun.”
+[says] (p.28) “So, which one of them dumped the other?”
+[thinks] (p.28–29) The fake relationship was Kei’s; if Hirata had done the dumping it would mean a problem with Kei and could put her status at risk — so Hirata likely suggested the public shape that protects her.
+[rel:horikita-suzune] (p.28–32) Partner for the morning analysis; she shows him the Ichinose slander note and forces the standings notebook onto his desk.
+[rel:karuizawa-kei] (p.28–29) Observes the breakup’s effect on the girls’ group; concludes Kei can only lose command if someone inside the class truly wins Hirata — unlikely.
+[rel:hirata-yousuke] (p.30) Notes Hirata boxed in by classmates with no misery; Ike and Sudō do not tease him — the class has moved past that.
+[thinks] (p.31–32) There’s no doubt Sakayanagi is behind the slander campaign; the school cannot trace diffuse word-of-mouth beyond warning perpetrators.
+[says:horikita-suzune] (p.31) “Recently, I’ve been hearing slander directed at her.”
+[trait] (p.31) Treats the four written accusations as defamation in society but weak as a school-crime inside the isolated campus.
+[note] (p.31) The note’s four lines — violence, compensated dating, theft and robbery, drug usage — are written text, not spoken.
+
+### y1v9 p.33–42 — Watching Sakayanagi and Yamauchi; the cafe study plan
+[scene] (p.33) Sakayanagi enters Class C and names Yamauchi; the Ayanokōji Group follows to the corridor and cafe.
+[rel:yamauchi-haruki] (p.34–37) Horikita blocks Yamauchi’s exit; Ayanokōji stands aside — Yamauchi does not heed the warning.
+[rel:sakayanagi-arisu] (p.35–37) Analyzes Sakayanagi’s hair-touching as a deliberate image rather than genuine interest, while allowing that boldness makes either possible.
+[says] (p.38) “Yamauchi and Sakayanagi haven’t interacted until now, it’s too abrupt. Isn’t it too much to call it romance?”
+[rel:hasebe-haruka] (p.36–38) Cafe conversation led by Haruka; he gives the rational counter that romance needs a foundation.
+[rel:yukimura-teruhiko] (p.38–40) Yukimura sets the study plan — start after the practice test on the 15th; Ayanokōji agrees the exam will be written.
+[thinks] (p.39) Chabashira gave no special explanation for the end-of-year exam, so a failing grade means expulsion as usual.
+[rel:sakura-airi] (p.38–39) Airi asks whether Karuizawa is cute; he answers he never paid attention to her.
+[rel:miyake-akito] (p.41–42) Takes Miyake’s club-time call about the Class A–B quarrel; Haruka proposes going to find him.
+
+### y1v9 p.43–50 — Gymnasium: Hashimoto against Kanzaki
+[scene] (p.43) Gymnasium off the school building — Hashimoto and Kanzaki face off with Miyake standing between them; the Ayanokōji Group arrives.
+[rel:hashimoto-masayoshi] (p.43–50) Watches Hashimoto evade and eventually admit spreading rumors without claiming origin; concludes from his manner that the rumors aren’t all lies.
+[rel:kanzaki-ryuuji] (p.44–50) Kanzaki asks his input; he advises staying until told to leave — a third party can keep a fight civil.
+[feat] (p.46) “Isn’t it fine until they tell us to leave? If at some point, this turns into a fight, the presence of a third party can help keep things civil.”
+[rel:miyake-akito] (p.43–46) Miyake called them over; Ayanokōji stays as observer at his side.
+[rel:ichinose-honami] (p.50) Concludes from Hashimoto’s speech that the circulating rumors about Ichinose “aren’t all lies”; notes defamation/libel grounds if truth does not conflict with public interest.
+[thinks] (p.50) Temporarily sets aside his position as a student and reads the situation from society’s point of view — Ichinose could sue regardless of truth where reputation damage is shown.
+[note] (p.47–48) Quoted from Hashimoto: Ichinose’s reply to Kanzaki was neither affirmation nor denial of the rumors.
+
+<!-- walk: y1v9 ch2 → p.50 -->

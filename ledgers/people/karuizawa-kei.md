@@ -1081,3 +1081,18 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [note] (p.232) Cited alongside Asahina as a post-exam information source.
 
 <!-- walk: y1v8 coverage → p.244 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.28–29, 38–39 — Public breakup with Hirata
+[scene] (p.28) Class C morning: a circle of excited girls surrounds Karuizawa after the split becomes public.
+[status] (p.28) On the surface the Hirata connection is severed; narration allows she could lose command of the girls’ group only if someone inside the class truly became Hirata’s partner — and even then ousting her is hard to imagine.
+[says] (p.29) “You see, I also thought I needed to step it up. It’s easy to be spoiled by Yōsuke-kun but I wanted to think things through on my own.”
+[rel:hirata-yousuke] (p.28–29) She dumped him; Ayanokōji reasons the fake relationship was hers and Hirata likely shaped the public story to protect her status.
+[rel:shinohara-satsuki] (p.29) Shinohara’s loud question about breaking up without a new boyfriend is the class’s public reaction.
+[rel:hasebe-haruka] (p.38–39) Cafe talk: Haruka steers back to Hirata being free; Airi asks whether Kei is cute — Ayanokōji never paid attention to her.
+[note] (p.28–29) Kei is present for the circle but her own lines on p.29 are the only quoted speech; the dumping itself is reported by Horikita and narrated, not re-enacted on these pages.
+
+<!-- walk: y1v9 ch2 → p.50 -->

@@ -2429,3 +2429,35 @@ relationships takes the new [rel:] pairs as intended. No new tags, no new
 entities, no pattern/list changes. verify y1v9: 31 [says] + 12 non-says
 ALL PASS; make check OK (R18 0, R19 82/82); gate exit 0; hash
 `821788a175bd26046e4df316336227f4` twice. Next: ship y1v9 ch1.
+
+y1v9 ch2 A Changing Relationship (pp.26–50): Karuizawa–Hirata public
+breakup and Class C’s reaction; Horikita’s Ichinose slander note (four
+written accusations) and her read that Sakayanagi pulls the strings;
+Sakayanagi summons Yamauchi from Class C — Horikita blocks him, the
+Ayanokōji Group watches, Haruka calls the romance an act; cafe study
+plan for the end-of-year exam (practice test on the 15th, fail = expel,
+last special exam after March); Miyake’s call about a Class A–B quarrel;
+gymnasium standoff where Kanzaki (Class B) has tailed Hashimoto (Class A)
+all day over the rumors — Hashimoto admits passing them along but not
+originating them, floats Ryuuen; Ayanokōji concludes the rumors “aren’t
+all lies.” People touched this chapter: ayanokouji-kiyotaka,
+horikita-suzune, karuizawa-kei, hirata-yousuke, hasebe-haruka,
+yukimura-teruhiko, sakura-airi, miyake-akito, yamauchi-haruki,
+sakayanagi-arisu, ike-kanji, sudou-ken, shinohara-satsuki,
+hashimoto-masayoshi, kanzaki-ryuuji, ichinose-honami, katsuragi-kouhei,
+ryuuen-kakeru, chabashira-sae, sotomura-hideo (as “the Professor”).
+Bare “Haruka” in the Ayanokōji Group follows the y1v7 coverage decision
+= Hasebe; Shinohara Satsuki is the loud p.29 line only. Added y1v9 to
+the volumes cells of hasebe-haruka and sotomura-hideo (named this
+chapter, cells lacked it). Translation defects kept as printed: p.36
+“analysis“No”, p.48 “helped passed them along”, p.35 ’gozaru’ single
+quote. Fix after first verify: sakura-airi “never paid attention”
+fragment unquoted to prose (corpus-exact is the full p.39 line).
+Rule 12 sample: expulsions +1 (yukimura p.39 failing-grade expulsion —
+school puts the place on the table); who-knew-what +30 structural
+status/note/limit rows — same known marker-set noise as y1v8, no pattern
+change without owner OK; relationships takes the new [rel:] pairs as
+intended; results no new marker hits this chapter. New tags: none. New
+entities: none. verify y1v9: 95 [says] + 35 non-says ALL PASS; make
+check OK (R18 0, R19 82/82); gate exit 0; hash
+`a871f9e0724a630d02f867b7afb1d312` twice. Next: ch3 pp.51–75.

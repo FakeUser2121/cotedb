@@ -612,3 +612,22 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.207) Listed among the class’s academically gifted students alongside Hirata.
 
 <!-- walk: y1v8 coverage → p.244 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.36–40 — Cafe: romance refused, exam plan set
+[scene] (p.36) Ayanokōji Group cafe after watching Sakayanagi and Yamauchi; Yukimura (“Keisei”) is present with Haruka and Airi.
+[rel:hasebe-haruka] (p.36–39) Asked twice whether the Sakayanagi–Yamauchi thing is romance; refuses the topic and turns to study.
+[says] (p.38) “Can we really call it a farce though?”
+[says] (p.38) “I’m not very well-versed in that area. Please don’t ask me that so many times.”
+[rel:sakayanagi-arisu] (p.36–37) Allows that she may be investigating Class C but says secret contact would suit that goal better than a public invite.
+[goal] (p.39–40) Sets the end-of-year study plan — start after the practice test on the 15th, about ten days on past problems and trends; pushes realism when Haruka and Airi reminisce.
+[says] (p.39) “I’ll study.”
+[says] (p.39) “If a student gets a failing grade, they’ll be expelled immediately. That’s probably how it’ll be.”
+[says] (p.40) “If you flunk the end of school year exam, it’s expulsion for you. And it still depends on the contents of the special exam.”
+[rel:hasebe-haruka] (p.40) After he starts studying, Haruka notices Ichinose across the room.
+[note] (p.38–40) Called “Keisei” and “Yukimu~” on these pages; roster id yukimura-teruhiko per standing decision.
+
+<!-- walk: y1v9 ch2 → p.50 -->

@@ -236,3 +236,16 @@ char_id: sotomura-hideo · class: Class 1-D (enrolled April 2015) · status: min
 [limit] (p.225) One short exchange only; the ordinary conversation content is not recorded.
 
 <!-- walk: y1v8 ch9 → p.241 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.35 — The Professor’s new speech
+[scene] (p.35) Corridor outside Class C; the group pauses to watch Yamauchi and Sakayanagi.
+[trait] (p.35) No longer uses ’gozaru’ as part of his speech — Haruka notices and loses interest when Ayanokōji explains he was set straight during the training camp.
+[rel:hasebe-haruka] (p.35) Haruka flags the lost individuality; Ayanokōji supplies the training-camp explanation.
+[rel:ayanokouji-kiyotaka] (p.35) Explains the serious tone to Haruka.
+[note] (p.35) Named only as “the Professor” on this page; roster alias Professor / The Professor; Sotomura not printed in y1v9 so far.
+
+<!-- walk: y1v9 ch2 → p.50 -->

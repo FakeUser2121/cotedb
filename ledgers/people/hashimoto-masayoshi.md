@@ -189,3 +189,29 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [note] (p.222) Listed next in the large-group order after the results; ran 3.6 kilometers at full speed.
 
 <!-- walk: y1v8 coverage → p.244 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.43–50 — Gymnasium: accused of spreading the Ichinose rumors
+[scene] (p.43) Gymnasium — Hashimoto faces Kanzaki with Miyake between them and the Ayanokōji Group arriving.
+[rel:kanzaki-ryuuji] (p.43–50) Target of Kanzaki’s all-day tail and questioning; eventually admits helping rumors along.
+[says] (p.43) “You guys aren’t really going to fight, are you?” — opening deflection when the group arrives; earlier: “You’re quite persistent, Miyake.”
+[says] (p.45) “Rumors? Ah, you mean the ones about Ichinose doing various malicious things? What connection do I have with those rumors?”
+[says] (p.45) “Playing dumb is just a waste of everyone’s time.” — Kanzaki’s charge; Hashimoto answers evasively.
+[says] (p.46) “You can’t have smoke without a fire. That’s probably what most students are thinking.”
+[rel:ichinose-honami] (p.47–50) Presses that Ichinose neither affirmed nor denied the rumors; quotes her reply to Kanzaki; argues a good person now need not have been good in the past.
+[says] (p.47) “She said something like: ‘I hope you aren’t entranced by any of those rumors. Don’t take them to heart.’”
+[trait] (p.47–48) Contempt for Kanzaki’s blind faith — “Oh give it up Kanzaki. Responses like that stink so much that I can’t even look you in the eyes.”
+[action] (p.48) “Then I’ll tell you. I’ve been spreading around rumors about Ichinose.” — admits passing rumors along while denying origin.
+[says] (p.48) “In other words, you have no intention of retracting those rumors.” — Kanzaki’s read; Hashimoto says rumors cannot be taken back.
+[says] (p.48) “These last few days, I’ve been doing a thorough investigation on you guys in Class A.” — Kanzaki’s counter; Hashimoto floats Ryuuen as alternative.
+[says] (p.49) “Maybe it’s the handiwork of Ryuuen and he’s actually just pretending to have retired?”
+[rel:katsuragi-kouhei] (p.49) Named as the other Class A figure who could order Class A students, after Sakayanagi.
+[rel:ryuuen-kakeru] (p.49) Invokes Ryuuen as a possible hidden hand to deflect Kanzaki.
+[rel:sakayanagi-arisu] (p.49) Denies instruction from Sakayanagi while not denying Class A involvement.
+[limit] (p.50) Ayanokōji’s read: from how Hashimoto speaks and acts, the rumors “aren’t all lies.”
+[note] (p.48) Never names the original source; only admits helping pass rumors along.
+
+<!-- walk: y1v9 ch2 → p.50 -->

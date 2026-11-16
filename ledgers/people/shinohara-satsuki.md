@@ -175,3 +175,17 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.76) Chapter ends at the bus; no further pages this chapter.
 
 <!-- walk: y1v8 ch2 → p.76 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.29 — The loud breakup question
+[scene] (p.29) Class C morning; Shinohara voices the class’s reaction to Karuizawa dumping Hirata.
+[says:shinohara-satsuki] (p.29) “Ehh, ehh? Why did you break up with him even though you don’t have a new boyfriend yet, Karuizawa-san!”
+[voice] (p.29) Unrestrained public register — her voice “reverberated” across the room while Ike and Sudō’s group eavesdropped.
+[rel:karuizawa-kei] (p.29) Presses Karuizawa directly for the reason behind the split without a new boyfriend lined up.
+[rel:ike-kanji] (p.29) The gossip cell around her includes Ike and Sudō listening in.
+[note] (p.29) Only her one line in this chapter; later Haruka in the cafe is a different classmate (Hasebe), not Shinohara.
+
+<!-- walk: y1v9 ch2 → p.50 -->

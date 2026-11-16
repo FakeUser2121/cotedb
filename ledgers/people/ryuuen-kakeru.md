@@ -1439,3 +1439,13 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [note] (p.15) Ryuuen is not present; only named in Nagumo’s line and the following narration.
 
 <!-- walk: y1v9 ch1 → p.25 -->
+
+### y1v9 p.42, 45, 49 — Named as method and possible hidden hand
+[scene] (p.42–50) Class A–B quarrel path; Ryuuen’s class is the standing “trouble” reference; Hashimoto invokes him in the gym.
+[rel:miyake-akito] (p.42) Narration: Miyake’s willingness to handle Ryuuen in the training camp reads as confidence in his own skills.
+[rel:hashimoto-masayoshi] (p.49) “Maybe it’s the handiwork of Ryuuen and he’s actually just pretending to have retired?” — deflection floated to Kanzaki.
+[rel:kanzaki-ryuuji] (p.45) Kanzaki says Class A’s malice is no different from what Ryuuen would do.
+[trait] (p.42) “It’s usually always that class stirring up trouble” — the group’s default suspect is Ryuuen’s now-Class D set.
+[note] (p.42, 45, 49) Ryuuen is not present; only named in talk about the quarrel and the rumor source.
+
+<!-- walk: y1v9 ch2 → p.50 -->

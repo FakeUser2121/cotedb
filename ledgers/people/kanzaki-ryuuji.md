@@ -254,3 +254,32 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [note] (p.73) Cited by an Ichinose-classmate: “according to Kanzaki-kun, the boys came to a decision pretty quickly.”
 
 <!-- walk: y1v8 coverage → p.244 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.43–50 — Gymnasium: tracing the rumors to Class A
+[scene] (p.43) Gymnasium — Kanzaki (Class B) confronts Hashimoto (Class A) with Miyake standing between them.
+[rel:hashimoto-masayoshi] (p.43–50) Tails him all day, then presses the rumor source; Hashimoto admits spreading but not originating.
+[says] (p.45) “Continuing from where we left off, Hashimoto. What have you been doing after school? You don’t belong to any clubs, so why are you here so late?”
+[says] (p.45) “You’re not waiting here in order to meet anyone in particular. You’re just trying to spread rumors to as many people as you can, aren’t you?”
+[says] (p.45) “Playing dumb is just a waste of everyone’s time. I want to make one thing crystal clear with you. What you and the rest of your class are doing is simply too malicious. It’s no different than the type of thing Ryuuen would do.”
+[feat] (p.46) “Rumors can create smoke without a fire as long as there’s malicious intent.”
+[rel:ichinose-honami] (p.47–50) Has asked Ichinose directly; believes her after about a year of going through thick and thin with Class B.
+[says] (p.47) “Approximately one year. That’s how long I’ve been going through thick and thin together with Class B. That’s why I’m absolutely certain.”
+[says] (p.48) “In other words, you have no intention of retracting those rumors.”
+[says] (p.48) “These last few days, I’ve been doing a thorough investigation on you guys in Class A.”
+[feat] (p.48–49) Investigation covers first-, second- and third-year students who heard the rumors from Class A; vague deflections match Hashimoto’s own.
+[says] (p.48) “The rumors about Ichinose were almost certainly propagated by your Class A.”
+[says] (p.49) “Was it Sakayanagi who gave you instructions to spread the rumors?”
+[says] (p.49) “Then who did? She’s the only one who can give instructions to you guys in Class A other than Katsuragi.”
+[rel:sakayanagi-arisu] (p.49) Names her as the only Class A superior besides Katsuragi who could order the campaign.
+[rel:katsuragi-kouhei] (p.49) The other named Class A authority in his chain-of-command question.
+[rel:ryuuen-kakeru] (p.45, 49) Compares Class A’s malice to Ryuuen’s methods; Hashimoto counters that Ryuuen may be feigning retirement.
+[rel:miyake-akito] (p.43–44) Miyake stands watch between them; Kanzaki is troubled by extra arrivals — he wanted to speak alone.
+[rel:hasebe-haruka] (p.47–50) Group witnesses; Hashimoto turns the gossip-about-girls line toward Haruka and Airi.
+[says] (p.50) “Ichinose hates extreme conflicts. I’m sure that she has a big enough heart to even forgive the people who are defaming her.”
+[trait] (p.47–50) Absolute trust in Ichinose under pressure; refuses to doubt her even when she neither confirms nor denies.
+
+<!-- walk: y1v9 ch2 → p.50 -->

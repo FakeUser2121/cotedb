@@ -1654,3 +1654,8 @@ monologue and the Nagumo interview) plus chapter 1 (Sakayanagi’s
 student-council audience; Kōenji’s private-point loophole; Kushida
 outside the door). Determinism hash across consecutive builds:
 `821788a175bd26046e4df316336227f4`.
+
+Year 1 Volume 9 chapter 2 is the changing relationships chapter —
+breakup, slander note, Yamauchi summons, and the Hashimoto–Kanzaki
+gymnasium standoff. Determinism hash across consecutive builds:
+`a871f9e0724a630d02f867b7afb1d312`.

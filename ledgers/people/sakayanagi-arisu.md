@@ -401,3 +401,19 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [trait] (p.25) Refuses to take Kushida’s benevolent reputation at face value — “At the very least, Sakayanagi doesn’t believe that she’s purely good.”
 
 <!-- walk: y1v9 ch1 → p.25 -->
+
+### y1v9 p.33–37 — Summoning Yamauchi from Class C
+[scene] (p.33) Near end of school, Sakayanagi enters Class C unannounced and asks for Yamauchi by name.
+[says] (p.33) “Would you mind giving me a few moments of your time?”
+[says] (p.33) “…This isn’t quite the right place so I’ll be waiting for you in the corridor by the stairs.”
+[action] (p.33–34) Leaves with downcast eyes under the class’s stares; Yamauchi follows instantly.
+[rel:yamauchi-haruki] (p.33–37) Invites him out; plays hair and shy gestures that Haruka reads as deliberate act; walks side-by-side at his matched slow pace.
+[says] (p.37) “The truth is, I’ve been wanting to talk to you for a while now, Yamauchi-kun.”
+[says] (p.37) “I don’t have time to lie about something like this, you know?”
+[says] (p.37) “I won’t be able to calm down here, shall we go elsewhere?”
+[says] (p.37) “In that case, please accompany me for a while.”
+[rel:horikita-suzune] (p.34) Horikita reads the public invite as a possible move to knock Class C down — Sakayanagi does not appear to respond to that warning on these pages.
+[rel:hasebe-haruka] (p.36–38) The watching group concludes she is acting, not romancing.
+[note] (p.33–37) Her purpose with Yamauchi is not stated on these pages; only the invitation and departure are shown.
+
+<!-- walk: y1v9 ch2 → p.50 -->

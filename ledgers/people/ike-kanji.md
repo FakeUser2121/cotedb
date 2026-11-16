@@ -842,3 +842,20 @@ aliases used for anchors: ike, kanji, ike-kun
 [note] (p.45) Named with Onizuka in the class-discussion margin.
 
 <!-- walk: y1v8 coverage → p.244 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.29–35 — Eavesdropping, then the corridor tail
+[scene] (p.29) Class C morning: Ike and Sudō’s group eavesdrop on the Karuizawa breakup talk.
+[rel:karuizawa-kei] (p.29) Listens in while chatting; the breakup is public spectacle for the class.
+[rel:yamauchi-haruki] (p.30–34) Flanks Yamauchi away from Hirata for bad-taste teasing; later hurries after him with the rest when Sakayanagi calls.
+[says] (p.30) “This is in bad taste. Cut it out.”
+[rel:shinohara-satsuki] (p.29) Present for Shinohara’s loud breakup question.
+[rel:sakayanagi-arisu] (p.36) Mutters in frustration that Sakayanagi might be into Yamauchi — deduced from her expressions and gestures.
+[says] (p.36) “Could it be that Sakayanagi is legit interested in Haruki?”
+[rel:hasebe-haruka] (p.35–36) Corridor watch together; Haruka rejects his romance read.
+[note] (p.35) Spots the group in the corridor and redirects them: “Ahh, stop stop. This way, this way!” — Professor is already there.
+
+<!-- walk: y1v9 ch2 → p.50 -->
