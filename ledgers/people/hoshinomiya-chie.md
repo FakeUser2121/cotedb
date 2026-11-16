@@ -145,3 +145,15 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 [rel:chabashira-sae] (p.73) The friend who knew the hidden desire first.
 
 <!-- walk: y1v7 ch3 → p.97 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.8 — Named as Ichinose’s homeroom teacher
+[scene] (p.8) During the prologue interview, Nagumo cites information obtained from Ichinose’s homeroom teacher.
+[rel:ichinose-honami] (p.8) Identified as Ichinose’s homeroom teacher; reported her entrance-exam results to Nagumo.
+[says:nagumo-miyabi] (p.8) “I heard from your homeroom teacher, Hoshinomiya-sensei. Looks like your results on the entrance exams were also outstanding.”
+[note] (p.8) Hoshinomiya does not appear in person; only named as the source of Nagumo’s information.
+
+<!-- walk: y1v9 ch1 → p.25 -->

@@ -1223,3 +1223,15 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [note] (p.188) Named as the class benchmark in stamina and athleticism whom even he would not dismiss lightly.
 
 <!-- walk: y1v8 coverage → p.244 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.19 — Class D–Class C fight recalled as precedent
+[scene] (p.19) Sakayanagi asks how Nagumo would have sentenced the first-year fight between Class D and Class C.
+[rel:ishizaki-daichi] (p.19) Named with Ishizaki’s group as the parties who quarrelled over surveillance cameras; which side punched is left open in the recollection.
+[rel:nagumo-miyabi] (p.19) Nagumo says he would suspend the parties involved rather than push them to expulsion — not a harsher sentence than the previous president.
+[note] (p.19) Sudou is not present; only named in the fight recollection.
+
+<!-- walk: y1v9 ch1 → p.25 -->

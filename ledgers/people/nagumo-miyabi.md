@@ -311,3 +311,55 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [note] (p.200) Tachibana’s account centres on how second-years, particularly Nagumo, operate.
 
 <!-- walk: y1v8 coverage → p.244 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.7–11 — Vice presidential interview of Ichinose
+[scene] (p.7) Student council room on a day off; Vice President Nagumo interviews first-year Class B Ichinose Honami one-on-one after President Horikita rejected her application.
+[says:nagumo-miyabi] (p.7) “1st year, Class B, Ichinose Honami, huh?”
+[trait] (p.8) Seeks her chiefly as personal property — Class B like himself and outstanding grades are bonuses; the important question is whether she is worth keeping at his side.
+[says:nagumo-miyabi] (p.8) “I hear you were on the student council, and student council president no less, during middle school?”
+[says:nagumo-miyabi] (p.8) “I heard from your homeroom teacher, Hoshinomiya-sensei. Looks like your results on the entrance exams were also outstanding.”
+[tactic] (p.9) Lies that Horikita rejected Ichinose out of hand for not being Class A and that the man obsesses over status — the narration states Horikita assesses talent from D or A alike.
+[says:nagumo-miyabi] (p.9) “It’s because President Horikita’s a strict person. In all likelihood, he already rejected you out of hand because you’re not in Class A.”
+[feat] (p.10) Claims he confessed the full truth behind his own Class B assignment when applying to the council and that it resulted in his current position; refuses to say what that confession was.
+[says:nagumo-miyabi] (p.10) “Sorry but I have no intention of answering that. Right now, the one being questioned is you, Ichinose.”
+[goal] (p.10) Presses why a student with her grades, interpersonal skills and middle-school presidency is in Class — “There must be some reason for that.”
+[says:nagumo-miyabi] (p.11) “Someone who is unable to grab hold of this opportunity has no place in the student council.”
+[says:nagumo-miyabi] (p.11) “It won’t leave this room, of course. Your secret is our secret.”
+[rel:ichinose-honami] (p.7–11) Interviewer who extracts her secret under a promise of confidentiality while framing her as prospective personal property.
+[rel:horikita-manabu] (p.9) Slanders Horikita’s standards to Ichinose; the narration marks the slander as a lie.
+[rel:hoshinomiya-chie] (p.8) Obtains Ichinose’s entrance-exam results from Hoshinomiya-sensei.
+
+### y1v9 p.14–24 — Audience with Sakayanagi; Kōenji’s point loophole
+[scene] (p.14) Early February after the training camp; Sakayanagi Arisu visits the student council room, which Nagumo has remade in his own formal style.
+[says:nagumo-miyabi] (p.14) “Did Horikita-senpai recommend you for the student council, by any chance?”
+[says:nagumo-miyabi] (p.15) “By showing me an appropriate amount of talent. That’s the only way. First off, it’s not too late to join the student council you know? Come over to my side, Sakayanagi.”
+[says:nagumo-miyabi] (p.15) “Both you and Ryuuen. We’ve got a lot of interesting 1st years this year, don’t we?”
+[tactic] (p.16) Mentions another ‘1st year’ has an appointment to hurry Sakayanagi; previously shared information with her about Ichinose.
+[says:nagumo-miyabi] (p.17) “I don’t recall giving you permission to ‘go that far’, Sakayanagi.”
+[says:nagumo-miyabi] (p.17) “Honami is my personal property I plan on loving. I only gave you permission to weaken her a bit.”
+[says:nagumo-miyabi] (p.17) “You’re a bold woman. Aren’t you afraid of me?”
+[goal] (p.17) Only authorized weakening of Ichinose, not expulsion; treats the possibility of expulsion as beyond the permission he granted.
+[says:nagumo-miyabi] (p.18) “Very well, Sakayanagi. The student council too will turn a blind eye to your actions.”
+[trait] (p.18) Narration: not the least bit trustworthy; will throw away someone who could become an asset for the student council.
+[says:nagumo-miyabi] (p.19) “Unfortunately for you, I don’t particularly dislike the use of violence either.”
+[says:nagumo-miyabi] (p.19) “Unlike Horikita-senpai, I don’t plan to crack down on them either”
+[rule] (p.19) For the Sudō–Ishizaki fight he would not push to expulsion — he would suspend the parties involved rather than hand down a harsher sentence than the previous president.
+[says:nagumo-miyabi] (p.21) “Kōenji seems to be the only one in possession of an amount greater than what the school permits after all. It’s a form of rule violation.”
+[rule] (p.20–22) Private points are collected at graduation and worthless afterward; a third year may entrust them to an underclassman; he wants the 20-million-point Class A rule revised and says repeal would not apply to the first years; Kōenji’s pre-graduation purchases tipped the school off to a loophole.
+[says:nagumo-miyabi] (p.23) “I definitely lost Horikita-senpai’s trust and the trust of the students of 3rd year Class A.”
+[tactic] (p.23) Deliberately threw away Horikita-senpai’s trust during the training camp; narration: even breaking the rules established with Horikita Manabu had been planned from the beginning.
+[says:nagumo-miyabi] (p.24) “Ayanokōji…? I am somewhat familiar with that name. He’s a 1st year, is he not?”
+[action] (p.24) Ends the Ayanokōji topic when Sakayanagi says she does not know the name; refuses her offer to investigate him.
+[rel:sakayanagi-arisu] (p.14–24) Receives her report on the planned Ichinose attack, grants the council a blind eye, debates violence and point rules, and asks about Ayanokōji.
+[rel:kouenji-rokusuke] (p.20–21) Kōenji’s private-points conversation at the training camp is the source Sakayanagi reopens; Nagumo treats Kōenji as the rule-violating holder of excess points.
+[rel:ryuuen-kakeru] (p.15) Names Ryuuen with Sakayanagi as an interesting first year who would not hesitate to make enemies of anyone.
+[rel:sudou-ken] (p.19) Recalls the Class D–Class C fight involving Sudou and Ishizaki’s groups when asked how he would have sentenced it.
+[rel:ishizaki-daichi] (p.19) Same fight recollection — he would suspend rather than expel.
+[rel:ayanokouji-kiyotaka] (p.24) Asks Sakayanagi about Ayanokōji by name and then drops the subject.
+[rel:horikita-manabu] (p.14, 19, 23) Contrasts his own council posture with Horikita-senpai’s; admits losing Horikita-senpai’s trust; planned the break with Manabu from the start.
+
+<!-- walk: y1v9 ch1 → p.25 -->

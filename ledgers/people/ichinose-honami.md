@@ -990,3 +990,29 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [note] (p.210) Named among those in the same group as the person being addressed.
 
 <!-- walk: y1v8 coverage → p.244 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.6–11 — Prologue: the criminal letter and the council interview
+[scene] (p.6) Ichinose narrates her middle-school life and the mistake that followed; the letter “‘Ichinose Honami is a criminal.’” appears at school, then a one-on-one student-council interview with Vice President Nagumo on a day off (p.7).
+[voice] (p.6) First-person retrospective that insists on an ‘honest me’ and an oath to face her own answer rather than run.
+[says] (p.6) “I’ve never thought of myself as either a ‘good person’ or a ‘bad person’.”
+[trait] (p.6) Student council president in her third year of middle school and offered a private high school scholarship; sports were difficult but she put in as much effort as in studies.
+[feat] (p.6) Built a comfortable school and private life before the unforgivable mistake — her mother’s illness and her little sister being left a shell of herself.
+[limit] (p.7) Wasted half her third year of middle school and was a shut-in for half a year; the letter froze her while classmates turned with curious looks.
+[goal] (p.7) To put an end to that past by enrolling here, so her mother and little sister can smile again — “That’s why I won’t run from my own ‘answer’.”
+[rel:nagumo-miyabi] (p.7–11) Interviewed by Vice President Nagumo after President Horikita rejected her application; she tells him everything about her ‘mistake’ under his assurance that the secret will not leave the room.
+[rel:hoshinomiya-chie] (p.8) Nagumo cites her entrance-exam results as reported by Hoshinomiya-sensei, her homeroom teacher.
+[rel:horikita-manabu] (p.8–9) President Horikita interviewed and rejected her council application; Nagumo lies that the rejection was for not being Class A and that Horikita obsesses over status.
+[note] (p.6–11) The prologue never prints the full content of her ‘mistake’ beyond the letter’s accusation and the family aftermath already narrated; the interview scene is third-person around her.
+
+### y1v9 p.16–18, 24 — Target of Sakayanagi’s planned attack
+[status] (p.16) Sakayanagi tells Nagumo she will launch an attack against student-council member Ichinose Honami-san of Class B and that it may get stormy; Nagumo has heard this before from their previous meeting.
+[rel:sakayanagi-arisu] (p.16–18) Sakayanagi is preparing to strike at Ichinose’s weak point with information Nagumo provided; Nagumo frames Ichinose as his personal property whom he only authorized to be weakened, not expelled.
+[rel:nagumo-miyabi] (p.17) Nagumo: “Honami is my personal property I plan on loving. I only gave you permission to weaken her a bit.”
+[limit] (p.17) Sakayanagi raises the possibility that the attack ends in expulsion; Nagumo had only permitted bullying, not going that far.
+[note] (p.16–18) Ichinose is absent from these pages; the rows record how other characters treat her, not her own speech.
+
+<!-- walk: y1v9 ch1 → p.25 -->

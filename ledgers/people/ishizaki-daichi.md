@@ -397,3 +397,15 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [note] (p.204) Named in the post-exam doubt about whether he and the others worked Ayanokōji over.
 
 <!-- walk: y1v8 coverage → p.244 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.19 — Class D–Class C fight recalled as precedent
+[scene] (p.19) Sakayanagi asks how Nagumo would have sentenced the first-year fight between Class D and Class C.
+[rel:sudou-ken] (p.19) Named with Sudou’s group as the parties who quarrelled over surveillance cameras.
+[rel:nagumo-miyabi] (p.19) Nagumo says he would suspend the parties involved rather than push them to expulsion.
+[note] (p.19) Ishizaki is not present; only named in the fight recollection.
+
+<!-- walk: y1v9 ch1 → p.25 -->

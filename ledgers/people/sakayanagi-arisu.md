@@ -373,3 +373,31 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.210) Horikita-senpai is said to prize Ayanokōji above even Sakayanagi.
 
 <!-- walk: y1v8 coverage → p.244 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.14–25 — Student council visit; Kushida outside the door
+[scene] (p.14) Early February after the training camp; Sakayanagi visits second-year president Nagumo in the remade student council room, then meets Kushida Kikyō outside.
+[says] (p.14) “The student council room has become rather flashy. It’s completely different from the way it used to be.”
+[voice] (p.14) Cool appraisal that reads the room as a symbol of Nagumo’s might rather than a working council chamber.
+[says] (p.15) “Let’s not. I think it would be a problem for there to be two leaders in one organization.”
+[trait] (p.15) Declines Nagumo’s invitation to join while implying equality or superiority to him as a first year; he does not grow angry.
+[goal] (p.16) Came to tell Nagumo she will attack student-council member Ichinose Honami-san and that it may get stormy — with information he previously supplied.
+[rel:nagumo-miyabi] (p.16–24) Presses him on permission, expulsion risk, violence policy and the 20-million-point rule; accepts his blind-eye pledge; offers to investigate Ayanokōji when he raises the name.
+[says] (p.17) “So you… won’t mind it if she does end up getting expelled?”
+[says] (p.17) “It’s just in my nature.”
+[feat] (p.17) Stands her ground when Nagumo’s smile vanishes and he asks whether she is afraid of him; coolly shrugged off his stare.
+[tactic] (p.17–18) Came to ask permission even though she could have acted without it — so Nagumo concludes she does not wish to make an enemy of him; refuses to discuss her strategy beyond “I’ll leave it at that.”
+[rel:ichinose-honami] (p.16–18) Plans an attack on Ichinose’s weak point; raises expulsion as a possible outcome of that attack.
+[feat] (p.20) Declines a student-council escort: “To fight with the pieces I hold in hand is my modus operandi.”
+[goal] (p.20) Wanted to know how far she can take the conflict until it is no longer safe; satisfied she has the right to counterattack after being attacked.
+[rule] (p.20–22) Raises Kōenji’s private-point purchase strategy — pre-graduation buying from graduating third years as “a surefire way to graduate from Class A” — and reasons about the 20-million-point rule and spy impracticality with Nagumo.
+[says] (p.24) “Ayanokōji…? I am somewhat familiar with that name. He’s a 1st year, is he not?”
+[rel:ayanokouji-kiyotaka] (p.24) Familiar with the name only; offers to investigate him for Nagumo, who refuses.
+[rel:kushida-kikyou] (p.24–25) Meets Kushida outside the student council room; doubts Kushida’s stated wish to join at a time like this and does not believe she is purely good.
+[says] (p.25) “Fufu. It’s exactly that sort of person who’d unexpectedly turn villainous though.”
+[trait] (p.25) Refuses to take Kushida’s benevolent reputation at face value — “At the very least, Sakayanagi doesn’t believe that she’s purely good.”
+
+<!-- walk: y1v9 ch1 → p.25 -->

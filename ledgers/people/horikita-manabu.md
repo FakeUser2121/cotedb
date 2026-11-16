@@ -550,3 +550,17 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [note] (p.220) No idea what Horikita’s brother considered special about Ayanokōji.
 
 <!-- walk: y1v8 coverage → p.244 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.8–9, 14, 19, 23 — Rejected applicant, slandered standards, broken trust
+[scene] (p.8) Prologue recall: President Horikita interviewed Ichinose and rejected her student-council application; Nagumo’s interview follows.
+[rel:ichinose-honami] (p.8) Interviewed and rejected Ichinose’s council application; narration does not state his reason on these pages.
+[rel:nagumo-miyabi] (p.9, 19, 23) Nagumo lies that Horikita obsesses over status when speaking to Ichinose; contrasts his own violence policy with “Horikita-senpai”; admits he lost Horikita-senpai’s trust and planned the break from the beginning.
+[trait] (p.9) Narration: at first glance he looks like someone who would obsess over status, but the truth is the opposite — he assesses whether a student is from Class D or Class A and evaluates talent.
+[rel:sakayanagi-arisu] (p.14, 23) Sakayanagi asks Nagumo whether Horikita-senpai recommended her for the council; she later presses Nagumo on throwing away the trust he established with Horikita Manabu.
+[note] (p.14, 19, 23) Always “Horikita-senpai” or “Horikita Manabu” in these pages — never bare “Horikita” as a first-year reference.
+
+<!-- walk: y1v9 ch1 → p.25 -->

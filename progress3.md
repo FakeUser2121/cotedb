@@ -1648,3 +1648,9 @@ Year 1 Volume 8 volume-end coverage gate closed: passing-mention sections
 on 33 people pages plus volume Coverage notes; Rule 12 sample logged.
 Determinism hash across consecutive builds:
 `f752960a7db85214b9047146be63bf47`.
+
+Year 1 Volume 9 walk opens with the prologue (Ichinose Honami’s
+monologue and the Nagumo interview) plus chapter 1 (Sakayanagi’s
+student-council audience; Kōenji’s private-point loophole; Kushida
+outside the door). Determinism hash across consecutive builds:
+`821788a175bd26046e4df316336227f4`.

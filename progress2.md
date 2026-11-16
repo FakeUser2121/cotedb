@@ -2405,3 +2405,27 @@ known marker-set issue, no pattern change without owner OK.
 verify y1v8: 626 [says] ALL PASS + 270 non-says ALL PASS; make check OK
 (R18 0, R19 82/82); gate exit 0; hash `f752960a7db85214b9047146be63bf47`
 twice. New tags: none. New entities: none. Next: ship coverage gate.
+
+y1v9 walk started: prologue (Ichinose monologue, pp.6–11) + Chapter 1
+The Student Council President’s Intentions (pp.14–25). New volume ledger
+ledgers/volumes/y1v9.md with start marker and ch1 stamp `y1v9 ch1 → p.25`.
+People touched: ichinose-honami, nagumo-miyabi, sakayanagi-arisu,
+kushida-kikyou, horikita-manabu, hoshinomiya-chie, kouenji-rokusuke,
+ryuuen-kakeru, sudou-ken, ishizaki-daichi, ayanokouji-kiyotaka (mentions
+get their own sections where the name appears only in recollection or
+off-page discussion). Blank pp.1–4, TOC p.5, blanks pp.12–13 recorded in
+the volume page-map note. Translation defects kept as printed: p.7
+“ButAt”, p.10 “how much talent I possess”, p.10 “Nagumosenpai”.
+R19 regression from the first build (84>82) was an unquoted “you” in the
+p.23 volume beat (trust-as-weapon paraphrase); reworded to
+“betrayal by someone regarded as certain not to betray”, baseline
+restored to 82/82. Rule 12 sample: expulsions +3 scenes (Nagumo p.17/p.19
+near-miss talk, Sakayanagi mirror, Ichinose p.16–18 planned-attack
+limit) accepted against title+lede; results +5 [rule] rows (private-point
+graduation collection, Kōenji excess, suspend-not-expel) consistent with
+existing system-rule membership; who-knew-what +14 structural notes —
+same known marker-set noise as y1v8, no pattern change without owner OK;
+relationships takes the new [rel:] pairs as intended. No new tags, no new
+entities, no pattern/list changes. verify y1v9: 31 [says] + 12 non-says
+ALL PASS; make check OK (R18 0, R19 82/82); gate exit 0; hash
+`821788a175bd26046e4df316336227f4` twice. Next: ship y1v9 ch1.

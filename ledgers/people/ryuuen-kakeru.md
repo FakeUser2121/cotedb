@@ -1427,3 +1427,15 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [note] (p.221) Hashimoto is said to lack evidence linking Ayanokōji to Ryūen; Nagumo has expressed interest in him.
 
 <!-- walk: y1v8 coverage → p.244 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.15 — Named with Sakayanagi as an interesting first year
+[scene] (p.15) After Sakayanagi refuses to join the student council, Nagumo laughs and names another first year.
+[says:nagumo-miyabi] (p.15) “Both you and Ryuuen. We’ve got a lot of interesting 1st years this year, don’t we?”
+[trait] (p.15) Narration: like Sakayanagi, Ryuuen would not think twice about making enemies out of anyone — unlike students who nestle up to the council.
+[note] (p.15) Ryuuen is not present; only named in Nagumo’s line and the following narration.
+
+<!-- walk: y1v9 ch1 → p.25 -->

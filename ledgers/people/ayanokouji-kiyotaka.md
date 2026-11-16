@@ -4216,3 +4216,15 @@ walk: y1v1 → DONE
 [impact] (p.240–241) Both classes run the lifeline at once; the chapter ends on school-wide expulsions “one after another.”
 
 <!-- walk: y1v8 ch9 → p.241 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.24 — Name raised at the end of the council visit
+[scene] (p.24) As the Sakayanagi–Nagumo audience ends, Nagumo asks about Ayanokōji.
+[rel:nagumo-miyabi] (p.24) Nagumo raises the name; Sakayanagi says she is only somewhat familiar with it; Nagumo drops the topic and refuses her offer to investigate.
+[says:sakayanagi-arisu] (p.24) “Ayanokōji…? I am somewhat familiar with that name. He’s a 1st year, is he not?”
+[note] (p.24) Ayanokōji does not appear in person; only named in the closing exchange.
+
+<!-- walk: y1v9 ch1 → p.25 -->

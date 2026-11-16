@@ -1326,3 +1326,17 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [limit] (p.229) Results roll only — no dialogue or action on these pages.
 
 <!-- walk: y1v8 ch9 → p.241 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.24–25 — Outside the student council room
+[scene] (p.24) After Sakayanagi leaves Nagumo’s office, she runs into Kushida Kikyō of Class C alone in the corridor.
+[says] (p.24) “Hello, Sakayanagi-san.”
+[says] (p.24) "Yeah. I was thinking I'd apply for the student council. Could it be you're the same, Sakayanagi-san?"
+[status] (p.24) States an intention to apply for the student council at a time when Sakayanagi finds the choice doubtful; ends with “See you later~”.
+[rel:sakayanagi-arisu] (p.24–25) Brief corridor exchange; Sakayanagi excuses herself and internally doubts the application story.
+[note] (p.25) Narration only: no bad rumors about her, nothing but benevolent — Sakayanagi still does not believe she is purely good. Kushida is not present for that thought.
+
+<!-- walk: y1v9 ch1 → p.25 -->

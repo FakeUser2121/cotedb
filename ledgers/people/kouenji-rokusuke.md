@@ -559,3 +559,16 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [note] (p.207) Called “a threat, at the very least” in the post-exam read.
 
 <!-- walk: y1v8 coverage → p.244 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.20–22 — Private-points strategy named to the council
+[scene] (p.20) Sakayanagi raises a strategy she heard at the training camp: purchasing private points from about-to-graduate third years.
+[rel:nagumo-miyabi] (p.20–21) Topic came up during Kōenji and Nagumo’s conversation at the training camp — only the boys overheard; Nagumo treats Kōenji as holding more points than the school permits.
+[rule] (p.21) “Kōenji seems to be the only one in possession of an amount greater than what the school permits after all. It’s a form of rule violation.”
+[rule] (p.20–22) His plan exploits that private points are collected at graduation and worthless afterward; announcing it tipped the school off to a loophole that may be closed with a new rule.
+[note] (p.20–22) Kōenji does not appear in person; rows record how Sakayanagi and Nagumo discuss his strategy.
+
+<!-- walk: y1v9 ch1 → p.25 -->
