@@ -493,7 +493,7 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [says] (p.37) “In your case, I would have thought that you’d already have some eccentric idea or strategy in place,”
 [says] (p.37) “But if you don’t show me some results soon, I’ll stop covering for you.”
 [rel:ayanokouji-kiyotaka] (p.37) Their talk stops when their eyes meet — public discussion helps no one; she accepts his right to choose his path but puts a deadline on her cover.
-[note] (p.36) Blank/short scan page sits inside the dialogue (footer and watermark only).
+[note] (p.36) Blank page sits inside the dialogue (page number and watermark only).
 
 <!-- walk: y1v5 ch2 → p.38 -->
 

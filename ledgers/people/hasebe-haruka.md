@@ -172,7 +172,7 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [rel:ryuuen-kakeru] (p.18) Asks whether Komiya and Ishizaki did anything to Miyake at club.
 [rel:komiya-kyogo] (p.18) Named only through the archery-club report she relays.
 [trait] (p.14–28) Casual group anchor; blunt about the school’s zero-sum design; watches the relationship battlefield with hard-won cynicism; keeps Airi included.
-[note] (p.31) Blank scan (footer only).
+[note] (p.31) Blank page (page number only).
 
 <!-- walk: y1v7 ch2 → p.31 -->
 

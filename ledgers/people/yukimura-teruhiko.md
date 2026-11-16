@@ -405,7 +405,7 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [feat] (p.15, 19) Recites the equal-points special-exam rumour and the exact class-point arithmetic (D 262, C 542, gap eighty).
 [trait] (p.14–27) Dogged pursuer of knowledge; refuses to dismiss what others like; priorities studies over Christmas; grows more confident after tutoring.
 [note] (p.14) Called Keisei by group custom; real name Teruhiko.
-[note] (p.31) Blank scan (footer only).
+[note] (p.31) Blank page (page number only).
 
 <!-- walk: y1v7 ch2 → p.31 -->
 

@@ -763,7 +763,7 @@ aliases used for anchors: sakura, airi, sakura-san
 [rel:ayanokouji-kiyotaka] (p.17, 26–27) Reacts when he defends her hobby; stammers the Christmas invitation question; happy he is present for the silly talk.
 [rel:miyake-akito] (p.16) Chimes in on his archery origin story.
 [trait] (p.14–28) No stomach for cruelty; camera hobby defended in public; opens up enough to laugh and name her happiness; no longer needs Ayanokōji standing over her to leave the table.
-[note] (p.31) Blank scan (footer only).
+[note] (p.31) Blank page (page number only).
 
 <!-- walk: y1v7 ch2 → p.31 -->
 

@@ -928,7 +928,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:horikita-suzune] (p.11–12) First day of high school she bumped into Horikita Suzune on the bus; Horikita knew about the incident.
 [says:kushida-kikyou] (p.12) “As long as she was here, I’d never have peace.”
 [status] (p.12) Volume opens with the threat named: Suzune is the only person who holds the past that can destroy her.
-[note] (p.13) Blank scan (footer only).
+[note] (p.13) Blank page (page number only).
 
 <!-- walk: y1v6 ch1 → p.13 -->
 
@@ -1048,7 +1048,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [says:kushida-kikyou] (p.129) “Don’t forget. If I score higher in math, both you and Ayanokouji-kun will drop out.”
 [rel:ryuuen-kakeru] (p.129–130) Involved with Ryuuen; Horikita and Ayanokōji weigh whether he wants expulsion or just her brought low.
 [note] (p.122) One line I nearly tagged as Kushida is Ayanokōji’s narration about her guts; not a spoken line.
-[note] (p.131) Blank scan (footer only).
+[note] (p.131) Blank page (page number only).
 <!-- walk: y1v6 ch5 → p.131 -->
 
 ### y1v6 p.145–147 — Ch.6: the Kyo-chan referral and the vital-asset read

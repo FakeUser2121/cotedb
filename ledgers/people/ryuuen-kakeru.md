@@ -572,7 +572,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:ayanokouji-kiyotaka] (p.74) Kaneda’s push for special suspicion of Ayanokouji-shi; Ryuuen’s agreement is on suspicion, not on mastermind.
 [says:ryuuen-kakeru] (p.74) “How about we try using him?”
 [rel:ayanokouji-kiyotaka] (p.74) The him of the closing move; text message sent, addressee not printed on this page.
-[note] (p.75) Blank scan (footer only).
+[note] (p.75) Blank page (page number only).
 <!-- walk: y1v6 ch4 → p.75 -->
 
 ### y1v6 p.101 — Ch.5: not a question-writer (named only)
@@ -741,7 +741,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [thinks] (p.12) “Perhaps I’d only meet my match in death.”
 [trait] (p.11–12) Abnormal from elementary school: kills a snake without fear; enemies give adrenaline; revenge and reversal as the only projects; elite defined by capacity for violence; pleasure fades without an equal.
 [note] (p.10) ToC leaf before the chapter; no story content.
-[note] (p.13) Blank scan (footer only).
+[note] (p.13) Blank page (page number only).
 
 <!-- walk: y1v7 ch1 → p.13 -->
 
@@ -757,7 +757,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:horikita-suzune] (p.22–24) Still the official strategist who saw him through on the island.
 [rel:sakayanagi-arisu] (p.29–30) Parallel Class A pressure on the same target — she tails, he hunts.
 [trait] (p.17–24) Absent from the page but omnipresent in the group’s talk; reputation at stake if Class D overtakes Class C.
-[note] (p.31) Blank scan (footer only).
+[note] (p.31) Blank page (page number only).
 
 <!-- walk: y1v7 ch2 → p.31 -->
 

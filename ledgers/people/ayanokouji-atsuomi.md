@@ -43,7 +43,7 @@ char_id: ayanokouji-atsuomi · role: White Room director, Ayanokōji’s father 
 [rel:chabashira-sae] (p.55–56) Bows out with the principal; her nerves framed the visit.
 [feat] (p.59–61) Ruined a butler’s reputation, a son’s schooling and a family’s future without raising his voice; treats the suicide as a report.
 [trait] (p.55–64) Views his son as property; speaks in corporate and White Room absolutes; admits the sixteen-year plan broke in one year; still claims the single prepared path.
-[note] (p.58) Blank scan (footer only).
+[note] (p.58) Blank page (page number only).
 
 ### y1v7 p.65–68 — Ch.3: the ultimatum answered
 [scene] (p.65) Gets the free-will refusal, watches Sakayanagi block the expulsion on autonomy and tuition rules, and leaves without a card left.

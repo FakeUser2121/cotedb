@@ -147,7 +147,7 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [rel:karuizawa-kei] (p.25) Names her with Hirata as Class D’s only couple.
 [trait] (p.14–28) Club-bound so he misses the early mall hours; reads Ryuuen’s pressure accurately; embarrassed about both archery and dating; loyal enough to report the tail without proof.
 [note] (p.14) Fifth group member, absent until p.15 because of club.
-[note] (p.31) Blank scan (footer only).
+[note] (p.31) Blank page (page number only).
 
 <!-- walk: y1v7 ch2 → p.31 -->
 

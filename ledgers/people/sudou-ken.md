@@ -672,7 +672,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [feat] (p.11) Solo sports first — tennis and pingpong, good but never top-tier — then basketball: despite not being a team player he got seriously into it, kept improving, and was recommended to a high school with one of the best basketball teams in the entire country.
 [trait] (p.11) The pulled recommendation defines his self-read: “That was when I really understood the painful truth: I was trash, born from trash.”
 [trait] (p.11) Chose this school for what it promised: “That was why I chose this school.” — free, and able to guarantee even his future.
-[note] (p.12) Blank/short scan page: running footer only; no prose to cite.
+[note] (p.12) Blank page (page number only); no prose to cite.
 
 <!-- walk: y1v5 ch1 → p.12 -->
 

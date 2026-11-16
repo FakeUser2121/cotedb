@@ -38,7 +38,7 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [rel:ayanokouji-kiyotaka] (p.28–30) Target of her tail; bargains mutual silence; leaves without denying she is right about Ryuuen’s interest.
 [rel:ryuuen-kakeru] (p.30) Names Ryuuen’s search for the Class D mastermind as her only theory about Ayanokōji.
 [trait] (p.28–30) Disguises obedience as coincidence; grabs his arm when he stands to report; cuts the deal once her own weakness is on the table; tired enough to leave mid-bargain.
-[note] (p.31) Blank scan (footer only).
+[note] (p.31) Blank page (page number only).
 
 <!-- walk: y1v7 ch2 → p.31 -->
 

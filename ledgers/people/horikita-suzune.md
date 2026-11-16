@@ -2364,7 +2364,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says:horikita-suzune] (p.130) “There’ll always be danger. It helps to have things you’re willing to put on the line.”
 [note] (p.130) Short utterance: Of course.
 [rel:ryuuen-kakeru] (p.130) Her biggest gamble yet, read against Ryuuen’s real goal of bringing her low.
-[note] (p.131) Blank scan (footer only).
+[note] (p.131) Blank page (page number only).
 <!-- walk: y1v6 ch5 → p.131 -->
 
 ### y1v6 p.133, 141 — Ch.6: named only in session comparison and tactician talk
@@ -2550,7 +2550,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:hasebe-haruka] (p.47) Reads Ayanokōji’s grin as a new cozy nook and storms off alone.
 [rel:satou-maya] (p.54) Leaves the classroom without caring about the tea approach.
 [trait] (p.32–54) Communicates better with Sudou than before; accepts the decoy role as fate; perceptive about Ayanokōji’s private joys; still revolving around Class A.
-[note] (p.58) Blank scan (footer only).
+[note] (p.58) Blank page (page number only).
 
 ### y1v7 p.73, 88, 94 — Ch.3: named, not present
 [scene] (p.73) Appears only as the hope list in Chabashira’s unmasking and as Manabu’s bridge leverage.

@@ -2911,7 +2911,7 @@ walk: y1v1 → DONE
 [says] (p.37) “No, nothing like that,” — to Chabashira’s guess that he already has an eccentric strategy in place.
 [says] (p.37) “I’m free to decide my own path.”
 [rel:chabashira-sae] (p.37) She warns that if he shows no results soon she’ll stop covering for him; the confrontation was only a matter of time.
-[note] (p.36) Blank/short scan page inside the dialogue (footer and watermark only); p.38 is likewise a blank scan.
+[note] (p.36) Blank page inside the dialogue (page number and watermark only); p.38 is likewise blank.
 
 <!-- walk: y1v5 ch2 → p.38 -->
 
@@ -3205,7 +3205,7 @@ walk: y1v1 → DONE
 [rel:ryuuen-kakeru] (p.27) Manabe’s group does not know Karuizawa’s past — Ryuuen is the one pulling strings behind them.
 [rel:karuizawa-kei] (p.27) She mollifies when he says he is putting Satou on hold; both agree to erase call and email records.
 [goal] (p.28) He withholds the coming danger from Karuizawa for now so as not to pressure her.
-[note] (p.29) Blank scan (footer only).
+[note] (p.29) Blank page (page number only).
 
 <!-- walk: y1v6 ch2 → p.29 -->
 
@@ -3279,7 +3279,7 @@ walk: y1v1 → DONE
 [rel:sudou-ken] (p.57) Observant and restrained: defeat opponents one-on-one; closest class C makes most sense.
 [rel:horikita-suzune] (p.57–58) Academic gap A>B and B>C needs investigation; accepts Hirata’s agreement; asks Ayanokouji what he will do.
 [rel:ayanokouji-kiyotaka] (p.58) Offers to adjust his score to team with a specific person and join study meetings, but will not be a leader.
-[note] (p.59) Blank scan (footer only).
+[note] (p.59) Blank page (page number only).
 
 <!-- walk: y1v6 ch3 → p.59 -->
 
@@ -3297,7 +3297,7 @@ walk: y1v1 → DONE
 [scene] (p.74) After the Yukimura/Ayanokouji photo dead-end, Ryuuen decides to try using one of them and sends a text.
 [rel:ryuuen-kakeru] (p.74) How about we try using him? — the text is the chapter’s closing hook; addressee not printed on these pages.
 [rel:yukimura-teruhiko] (p.74) One of the two photo names; both still treated as possible pawns.
-[note] (p.75) Blank scan (footer only).
+[note] (p.75) Blank page (page number only).
 <!-- walk: y1v6 ch4 → p.75 -->
 
 ### y1v6 p.76–103 — Ch.5 §5: the quiet middleman
@@ -3366,7 +3366,7 @@ walk: y1v1 → DONE
 [says] (p.130) “You’re probably right. But this is dangerous.”
 [says] (p.130) “There’s no turning back from this. We definitely need to win.”
 [rel:ryuuen-kakeru] (p.130) Would see through a Kushida lie about math answers; wants to know why.
-[note] (p.131) Blank scan (footer only).
+[note] (p.131) Blank page (page number only).
 <!-- walk: y1v6 ch5 → p.131 -->
 
 ### y1v6 p.132–134 — Ch.6 §6.0: fifth session pulled wider
@@ -3497,7 +3497,7 @@ walk: y1v1 → DONE
 [says] (p.29) “Then I suppose I’ll report this to Sakayanagi. I’ll tell her you’re not really very good at tailing me.”
 [says] (p.30) “Feel free to tail me as much as you like. I won’t say a word, and I won’t rat on you to Sakayanagi. In exchange, I want you to keep quiet. Don’t tell anyone other than Sakayanagi what you know about me.”
 [trait] (p.14–30) Keeps the group’s morale light while tracking Class C; official story always credited to Horikita; confronts Class A alone with evidence rather than force.
-[note] (p.31) Blank scan (footer only).
+[note] (p.31) Blank page (page number only).
 
 <!-- walk: y1v7 ch2 → p.31 -->
 
@@ -3532,7 +3532,7 @@ walk: y1v1 → DONE
 [says] (p.63) “I can’t imagine you’ll be able to do anything, considering that the government backs this school,”
 [says] (p.64) “Because of my insatiable curiosity, my inquisitive spirit. And also, because I want to decide my path for myself. It’s that simple,”
 [trait] (p.32–64) Keeps the official strategist fiction; reads Shiina as unknown quantity; refuses the drop-out demand without raising his voice; credits freedom and curiosity over the White Room’s single path.
-[note] (p.40, 58) Blank scans (footer only).
+[note] (p.40, 58) Blank pages (page number only).
 
 ### y1v7 p.65–97 — Ch.3 §3.6–3.8: chairman, Chabashira unmasked, Karuizawa cut off, Manabu’s bridge
 [scene] (p.65) Finishes the office fight with his father, survives Chairman Sakayanagi’s admission revelations, unmasks Chabashira on the walk out, ends the Karuizawa pipeline by phone, then takes Manabu’s number over tea.
@@ -3571,7 +3571,7 @@ walk: y1v1 → DONE
 [rel:yukimura-teruhiko] (p.90–96) Spicy takoyaki streak; Class A vow to Sakayanagi pair.
 [feat] (p.66–70) Reads the fifty-point smokescreen and recommendation admission from Sakayanagi alone; turns Chabashira’s leverage into a hostage situation of her own ambition.
 [trait] (p.65–97) Chooses free will over the White Room path; cold-cuts Karuizawa while calling it a promise kept; still refuses the stage even while taking Manabu’s number to think it over.
-[note] (p.72, 93, 97) Short scans (footer only).
+[note] (p.72, 93, 97) Short pages (page number only).
 
 <!-- walk: y1v7 ch3 → p.97 -->
 
@@ -3590,7 +3590,7 @@ walk: y1v1 → DONE
 [rel:sakayanagi-arisu] (p.109–118) Watches the Class A arrival and the kick-block.
 [feat] (p.101–102) Keeps the trailing group small; clocks shoes at the entrance as the time check.
 [trait] (p.100–118) Observer first; names Ryuuen’s preparations as nearly complete without acting on it.
-[note] (p.105, 119) Short scans (footer only).
+[note] (p.105, 119) Short pages (page number only).
 
 <!-- walk: y1v7 ch4 → p.119 -->
 

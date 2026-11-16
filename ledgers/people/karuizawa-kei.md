@@ -151,7 +151,7 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [thinks] (p.10) “The most important thing is protecting myself. I’ll do whatever it takes.”
 [trait] (p.10) Closing self-assessment: “I’m a parasite, a weak creature that can’t survive on its own.”
 [note] (p.10) Translation defect kept as printed: “Why did I have to have to go through” — the verb is doubled.
-[note] (p.11) Blank/short scan page: running footer only; no prose to cite.
+[note] (p.11) Blank page (page number only); no prose to cite.
 
 <!-- walk: y1v4 ch1 → p.11 -->
 
