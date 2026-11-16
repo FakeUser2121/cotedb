@@ -1312,3 +1312,17 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [says] (p.149) “I may be stupid and short-tempered, but I’ve been making huge improvements recently. That’s why I absolutely don’t wanna be expelled.”
 
 <!-- walk: y1v10 Ch4 → p.181 -->
+
+### y1v10 pp.184–229 — Ch.5: Objection to expelling Yamauchi
+
+[scene] (p.184) Arrives at school with Horikita in the morning.
+[scene] (p.203) Horikita names Sudō just behind Ike in her assessment of low-contribution candidates; he accepts her point.
+[scene] (p.216) When Yamauchi is cornered, Sudō says he understands the situation but is against expelling his friend.
+[says] (p.216) “Hold up, Suzune… I think I understand the gist of the situation. I also get that Haruki is the one in the wrong here… But, I’m against having Haruki get expelled.”
+[scene] (p.217) Horikita argues protecting one person means abandoning another; Sudō falls silent and apologises to Yamauchi.
+[scene] (p.229) At the cafe discussion, the Ayanokōji Group lists Sudō among boys likely to give Yamauchi support or sympathy votes.
+[rel:horikita-suzune] (p.184, 216–217) Arrives with her and argues against her nomination of Yamauchi.
+[rel:yamauchi-haruki] (p.216–217) Tries to protect him as a friend.
+[rel:ike-kanji] (p.203) Named alongside him among low-contribution candidates.
+
+<!-- walk: y1v10 Ch5 → p.237 -->

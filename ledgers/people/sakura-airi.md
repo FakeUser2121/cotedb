@@ -968,3 +968,14 @@ aliases used for anchors: sakura, airi, sakura-san
 [scene] (p.159) Expresses worry about being targeted.
 
 <!-- walk: y1v10 Ch4 → p.181 -->
+
+### y1v10 pp.226–232 — Ch.5: Cafe discussion
+
+[scene] (p.228) Nods in agreement that there is no reason for Ayanokōji to be expelled.
+[scene] (p.229) Suggests Satō and Karuizawa probably will not vote against Ayanokōji, saying it is just a feeling.
+[scene] (p.231) Encourages Ayanokōji despite her own anxiety about remaining censure votes.
+[scene] (p.231) Wonders how Horikita found out about Yamauchi’s betrayal.
+[rel:ayanokouji-kiyotaka] (p.228–231) Supports and encourages him in the cafe discussion.
+[rel:horikita-suzune] (p.231) Wonders how she learned of Yamauchi’s betrayal.
+
+<!-- walk: y1v10 Ch5 → p.237 -->

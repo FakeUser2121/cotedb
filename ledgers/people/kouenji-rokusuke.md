@@ -596,3 +596,16 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:sudou-ken] (p.42–48) Provokes Sudō; argues unnecessary students should be removed.
 
 <!-- walk: y1v10 Ch2 → p.84 -->
+
+### y1v10 pp.200–215 — Ch.5: Supporting Horikita’s nomination
+
+[scene] (p.200) Encourages Horikita to speak when she asks the class to stay, saying he has given up his time to hear her.
+[scene] (p.209) Remarks that trying to expel someone else to survive is natural in this exam and questions condemning Yamauchi alone.
+[scene] (p.210) Presses Yamauchi on why he targeted Ayanokōji and calls it unpleasant that Yamauchi colluded with Class A.
+[scene] (p.215) States that Horikita’s proposal is desirable and gives her his support.
+[says] (p.215) “No objections here. I believe that Horikita-girl’s proposal is quite desirable. We certainly don’t want to keep around someone who could potentially betray the class. I certainly couldn’t spend time with a student who could potentially betray the class. She has my support.”
+[rel:horikita-suzune] (p.200, 215) Supports her move to nominate Yamauchi.
+[rel:yamauchi-haruki] (p.209–215) Questions and condemns him for colluding with Class A.
+[rel:ayanokouji-kiyotaka] (p.210) Asks why Yamauchi targeted him.
+
+<!-- walk: y1v10 Ch5 → p.237 -->

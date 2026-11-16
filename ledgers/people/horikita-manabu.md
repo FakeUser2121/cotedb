@@ -640,3 +640,18 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [rel:horikita-suzune] (p.164) Discusses Suzune’s situation.
 
 <!-- walk: y1v10 Ch4 → p.181 -->
+
+### y1v10 pp.186–195 — Ch.5: Meeting with Suzune
+
+[scene] (p.190) Meets Suzune at the special building after she asks to talk in person.
+[scene] (p.190) Asks Suzune how long it has been since they talked alone and recalls when he pushed her away before entering the school.
+[scene] (p.191) Listens as Suzune explains the supplementary exam and asks him for courage.
+[scene] (p.192) Asks Suzune what she thinks of the school and whether she enjoys it.
+[scene] (p.193) Tells her she has overcome focusing only on herself and has broadened her horizons.
+[scene] (p.194) Asks for her impression of Ayanokōji and tells her she will never catch up to him but can grow at her own pace.
+[says] (p.194) “It’s unfortunate, but you’ll never be able to catch up to Ayanokōji.”
+[scene] (p.195) Encourages Suzune to take a step forward and tells her he will help her find the answers she is looking for.
+[rel:horikita-suzune] (p.186–195) Meets her, questions her, and helps her find resolve before the class vote.
+[rel:ayanokouji-kiyotaka] (p.194) Gives Suzune his assessment that she will not catch up to Ayanokōji.
+
+<!-- walk: y1v10 Ch5 → p.237 -->

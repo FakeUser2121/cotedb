@@ -1714,3 +1714,7 @@ hash: `5927541cbc7102484dbdcc91f173cf23`.
 Year 1 Volume 10 Chapter 4 (pp.148–181) walked. Ayanokōji targeted in
 Class Poll; Yamauchi/Sakayanagi identified as masterminds. Determinism
 hash: `be8ab39d1e86f26dbe3599d47cc1e77b`.
+
+Year 1 Volume 10 Chapter 5 (pp.182–237) walked. Horikita nominates
+Yamauchi after Manabu meeting; class confrontation and Hirata collapse.
+Determinism hash: `aaa0b75f5ebaa1f61be711b06f172d64`.

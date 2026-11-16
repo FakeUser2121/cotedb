@@ -4713,3 +4713,29 @@ walk: y1v1 → DONE
 [rel:sakayanagi-arisu] (p.180) Named as supporting Yamauchi behind the scenes.
 
 <!-- walk: y1v10 Ch4 → p.181 -->
+
+### y1v10 pp.182–237 — Ch.5: Good and Evil
+
+[scene] (p.183) In the morning classroom, most students glance at Ayanokōji and look away; he realises the large group has begun acting to expel him.
+[scene] (p.184) Sudō arrives with Horikita; Horikita asks Ayanokōji what he did and he denies doing anything.
+[scene] (p.186) Horikita meets her brother Manabu at the special building (as relayed in the chapter) to seek courage before the vote.
+[scene] (p.197) After school, Horikita stands before the class and nominates Yamauchi Haruki for expulsion.
+[says:horikita-suzune] (p.201) “For this special exam… I have decided that we should expel Yamauchi Haruki-kun.”
+[scene] (p.210) Horikita exposes Yamauchi’s collusion with Sakayanagi and his targeting of Ayanokōji; Kōenji supports hearing her out.
+[scene] (p.211) Kushida retracts her support for Yamauchi after the class turns against him.
+[scene] (p.216) Sudō objects to expelling Yamauchi; Hirata later refuses to accept the discussion and breaks down.
+[scene] (p.225) Chabashira closes by telling the class to think carefully before voting tomorrow.
+[scene] (p.227) The Ayanokōji Group goes to the cafe to discuss the fallout and plans to cast censure votes for Yamauchi.
+[scene] (p.233) Ayanokōji finds Hirata on a bench and talks with him alone.
+[says:hirata-yousuke] (p.235) “Could I entrust it to you?”
+[scene] (p.236) Hirata says he can no longer lead the class; Ayanokōji listens as Hirata struggles with the idea of leaving someone behind.
+[rel:horikita-suzune] (p.184, 197–225) Confronts the class and nominates Yamauchi.
+[rel:horikita-manabu] (p.186–195) Meets Suzune and helps her find resolve (chapter scene).
+[rel:hirata-yousuke] (p.221–237) Breaks down in class and later asks Ayanokōji to lead the class.
+[rel:yamauchi-haruki] (p.197–225) Exposed as mastermind colluding with Sakayanagi and targeting Ayanokōji.
+[rel:kushida-kikyou] (p.206–212) Retracts her support for Yamauchi when blamed.
+[rel:kouenji-rokusuke] (p.209–215) Supports Horikita’s nomination to avoid his own risk.
+[rel:sudou-ken] (p.184, 216–217) Objects to expelling Yamauchi but backs down.
+[rel:ike-kanji] (p.206, 211) Drawn into accusations and questions Yamauchi’s ties to Sakayanagi.
+
+<!-- walk: y1v10 Ch5 → p.237 -->

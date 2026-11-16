@@ -2734,3 +2734,17 @@ horikita-manabu, tachibana-akane, karuizawa-kei, kushida-kikyou,
 yamauchi-haruki, sakayanagi-arisu, nagumo-miyabi,
 ledgers/volumes/y1v10.md. verify y1v10: ALL PASS; make check OK; gate
 exit 0. Next: ch5 pp.182–237.
+
+### y1v10 Chapter 5 — walked, shipped
+
+Chapter 5: Good and Evil (pp.182–237). Horikita meets her brother
+Manabu and resolves to confront the class; after school she nominates
+Yamauchi Haruki for expulsion, exposing his collusion with Sakayanagi
+and targeting of Ayanokōji; Kushida retracts her support; Hirata
+objects and breaks down, later asking Ayanokōji to lead the class; the
+Ayanokōji Group discusses the fallout at the cafe. Ledgers touched:
+ayanokouji-kiyotaka, horikita-suzune, horikita-manabu, hirata-yousuke,
+yamauchi-haruki, kushida-kikyou, chabashira-sae, kouenji-rokusuke,
+ike-kanji, sudou-ken, yukimura-teruhiko, hasebe-haruka, miyake-akito,
+sakura-airi, ledgers/volumes/y1v10.md. verify y1v10: ALL PASS; make
+check OK; gate exit 0. Next: ch6 pp.238–285.

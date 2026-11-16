@@ -2979,3 +2979,30 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ayanokouji-kiyotaka] (p.152–153) Discusses the classroom atmosphere with him.
 
 <!-- walk: y1v10 Ch4 → p.181 -->
+
+### y1v10 pp.182–237 — Ch.5: Good and Evil
+
+[scene] (p.184) Arrives at school with Sudō and quietly asks Ayanokōji what he did regarding her.
+[scene] (p.186) At lunch break, she recalls receiving a message from her brother Manabu the night before asking if there was anything she regretted.
+[scene] (p.187) She asks Manabu to meet in person and arranges to talk at the special building.
+[scene] (p.191) She tells Manabu she wants to face the supplementary exam head-on and asks him to give her courage.
+[says] (p.191) “What I wanted to talk with you about today… Please, give me courage.”
+[scene] (p.192) Manabu asks about school and Ayanokōji; she says she wants to surpass him someday.
+[scene] (p.194) Manabu tells her she can grow at her own pace, and Suzune admits she is scared of the distance between them.
+[scene] (p.198) After school, Horikita asks the class to stay and says she has something to say about the special exam.
+[scene] (p.201) She nominates Yamauchi Haruki for expulsion and states her reason.
+[says] (p.201) “For this special exam… I have decided that we should expel Yamauchi Haruki-kun.”
+[scene] (p.202) She explains Yamauchi’s low contribution compared to others and insists the nomination is not based on sentiment.
+[scene] (p.207) When Kushida is drawn into the accusations, Horikita rebukes her for using her influence irresponsibly.
+[scene] (p.210) She exposes Yamauchi’s collusion with Sakayanagi and his attempt to have Ayanokōji expelled.
+[scene] (p.214) She tells the class the choice is between Yamauchi and Ayanokōji based on contribution and betrayal, and invites others to vote as they see fit.
+[scene] (p.216) She rejects Sudō’s plea to protect Yamauchi, arguing the exam is about theory rather than sentiment.
+[scene] (p.220) Hirata refuses to accept the process; Horikita says there is no other way under the exam’s rules.
+[rel:horikita-manabu] (p.186–195) Meets him at the special building and gains resolve from their conversation.
+[rel:ayanokouji-kiyotaka] (p.184, 214) Questions him in the morning; defends him as the better choice than Yamauchi.
+[rel:yamauchi-haruki] (p.201–218) Nominates him for expulsion and exposes his collusion with Sakayanagi.
+[rel:kushida-kikyou] (p.207–209) Rebukes her for helping target Ayanokōji.
+[rel:hirata-yousuke] (p.200, 219–221) Overrules his attempt to stop the discussion.
+[rel:sudou-ken] (p.216–217) Rejects his plea to protect Yamauchi.
+
+<!-- walk: y1v10 Ch5 → p.237 -->

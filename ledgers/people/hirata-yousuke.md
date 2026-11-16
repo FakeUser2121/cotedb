@@ -1417,3 +1417,24 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [note] (p.154) Hirata is walking listlessly by himself, looking distraught despite being safe from expulsion.
 
 <!-- walk: y1v10 Ch4 → p.181 -->
+
+### y1v10 pp.200–237 — Ch.5: Refusal and collapse
+
+[scene] (p.200) Tries to stop Horikita from throwing the class into chaos by nominating someone for expulsion.
+[says] (p.200) “No way. I’m against you throwing the class into chaos like this.”
+[scene] (p.219) After the class turns against Yamauchi, Hirata insists the discussion is wrong and says it would be better to hold a fair vote without this.
+[scene] (p.221) Hirata kicks over his desk and shouts at Horikita to stop.
+[says] (p.221) “Would you just stop, Horikita-san?”
+[scene] (p.225) He declares he will cast his censure vote for Horikita for causing problems for the class.
+[says] (p.225) “That’s why I’m going to cast my vote for you tomorrow, Horikita-san. I won’t allow you to cause problems for this class again.”
+[scene] (p.227) Leaves the classroom alone after Chabashira dismisses the class.
+[scene] (p.233) Sits alone on a bench outside the dorms with a defeated expression.
+[scene] (p.234) When Ayanokōji speaks to him, Hirata says he wanted to talk as well.
+[scene] (p.235) He says he hates leaving someone behind and asks Ayanokōji to lead Class C in his stead.
+[says] (p.235) “Could I entrust it to you?”
+[scene] (p.236) He says it is impossible for him to continue leading and that he can no longer do it.
+[rel:horikita-suzune] (p.200, 221–225) Opposes her nomination process and says he will vote for her.
+[rel:ayanokouji-kiyotaka] (p.233–237) Talks with him on the bench and asks him to lead the class.
+[rel:yamauchi-haruki] (p.219–221) Refuses to accept expelling him despite the accusations.
+
+<!-- walk: y1v10 Ch5 → p.237 -->

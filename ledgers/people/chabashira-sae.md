@@ -916,3 +916,16 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [scene] (p.46) Explains protection points and 20 million point override.
 
 <!-- walk: y1v10 Ch2 → p.84 -->
+
+### y1v10 pp.197–226 — Ch.5: Observing the class discussion
+
+[scene] (p.197) Ends homeroom after school and remains in the classroom as Horikita asks everyone to stay.
+[scene] (p.198) Watches as Horikita begins a class discussion about the special exam.
+[scene] (p.200) Is visibly impressed when Horikita says they should decide who to expel rather than avoid the issue.
+[scene] (p.225) After Hirata declares he will vote for Horikita and the discussion ends, Chabashira asks if Horikita is finished and then addresses the class.
+[scene] (p.226) She tells the students she will not give her perspective on their discussion but urges them to think carefully before voting tomorrow.
+[says] (p.226) “I’m not going to provide my perspective on this discussion of yours. I believe everybody’s participation has been valuable. I hope you all think carefully before you cast your votes tomorrow.”
+[rel:horikita-suzune] (p.197–226) Observes her leadership of the class discussion and confirms when she is finished.
+[rel:hirata-yousuke] (p.221–225) Witnesses his refusal to accept expelling a classmate.
+
+<!-- walk: y1v10 Ch5 → p.237 -->

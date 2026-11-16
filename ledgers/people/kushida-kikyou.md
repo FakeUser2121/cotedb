@@ -1423,3 +1423,20 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:sakayanagi-arisu] (p.180) Named as supporting Yamauchi.
 
 <!-- walk: y1v10 Ch4 → p.181 -->
+
+### y1v10 pp.206–218 — Ch.5: Retraction under pressure
+
+[scene] (p.206) Ike names Kushida as the one who asked him to help, drawing attention to her role as intermediary.
+[scene] (p.207) Yamauchi claims Kushida told him to target Ayanokōji; Kushida is shocked and tries to defend herself.
+[says] (p.207) “M-me!?”
+[scene] (p.208) As the class sides with her over Yamauchi, Kushida weeps and says she only wanted to help.
+[says] (p.208) “You’re so cruel Yamauchi-kun… I… even though I really didn’t want to abandon Ayanokōji-kun, you came asking for my help… but, even though I did the best I could…”
+[scene] (p.208) Horikita rebukes Kushida for using her influence to gather votes against Ayanokōji.
+[scene] (p.209) Kushida falters under Horikita’s pressure but maintains her outward persona.
+[scene] (p.218) She publicly retracts her support for Yamauchi and asks the class to take back the votes she requested.
+[says] (p.218) “…I… take back everything… I made a mistake… I wanted to help Yamauchi-kun… but I didn’t realize the gravity of the situation. I’m taking back what I asked of everyone…”
+[rel:yamauchi-haruki] (p.206–218) Distances herself from him and retracts her support.
+[rel:horikita-suzune] (p.208–209) Is rebuked by her for her role in gathering votes.
+[rel:ayanokouji-kiyotaka] (p.208) Frames her earlier actions as reluctant help despite not wanting to abandon him.
+
+<!-- walk: y1v10 Ch5 → p.237 -->

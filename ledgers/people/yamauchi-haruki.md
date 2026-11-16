@@ -770,3 +770,25 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [rel:kushida-kikyou] (p.179–180) Kushida reveals him as the tentative mastermind.
 
 <!-- walk: y1v10 Ch4 → p.181 -->
+
+### y1v10 pp.197–225 — Ch.5: Exposed and cornered
+
+[scene] (p.198) Tries to leave with Ike after school before Horikita can speak, but is forced to stay.
+[scene] (p.201) Horikita nominates him for expulsion as the student with the lowest contribution to the class.
+[scene] (p.202) He protests and tries to deflect blame onto others, including Ike and Sudō.
+[scene] (p.206) When Horikita presses for the mastermind, Yamauchi first blames Ike, then says Kushida asked him to help target Ayanokōji.
+[says] (p.206) “No, no! So, err… Kikyō-chan came to me, asking for help… She said that there was someone who was in a lot of trouble, so she needed me to cast my censure vote for Ayanokōji.”
+[scene] (p.207) He insists Kushida told him to do it as the class turns against him.
+[scene] (p.211) Horikita exposes his collusion with Sakayanagi; Yamauchi denies it and claims having her contact is not suspicious.
+[says] (p.211) “I-I’m telling you… Why would I join up with Class A!? I’d never betray my friends! This is really the first time I’ve ever heard about this! Come on and give me a break already…!”
+[scene] (p.212) He reacts strongly when Horikita suggests Sakayanagi may have offered him a relationship as motivation.
+[scene] (p.214) He argues that targeting Ayanokōji was unreasonable and that he was only trying to protect himself.
+[scene] (p.218) After Kushida retracts her support, Yamauchi panics as the class consensus turns toward expelling him.
+[status] (p.201–225) Publicly nominated for expulsion in the Class Poll after being exposed as colluding with Sakayanagi to target Ayanokōji.
+[rel:horikita-suzune] (p.201–218) Nominates and corners him in front of the class.
+[rel:kushida-kikyou] (p.206–218) Tries to shift blame to her, but she retracts support.
+[rel:sakayanagi-arisu] (p.210–215) Exposed as colluding with her behind the scenes.
+[rel:ayanokouji-kiyotaka] (p.206–215) Targeted him for censure votes under the scheme.
+[rel:ike-kanji] (p.198, 206, 211) Tries to leave with him and later questions his ties to Sakayanagi.
+
+<!-- walk: y1v10 Ch5 → p.237 -->

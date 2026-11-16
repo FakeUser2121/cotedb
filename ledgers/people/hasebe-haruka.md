@@ -395,3 +395,16 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [scene] (p.158) Suggests talking about something more positive.
 
 <!-- walk: y1v10 Ch4 → p.181 -->
+
+### y1v10 pp.226–232 — Ch.5: Cafe discussion
+
+[scene] (p.227) Invites Ayanokōji to the cafe with the group after class.
+[scene] (p.227) Says she will not let someone from their group be expelled even if Yamauchi’s group targets them.
+[says] (p.227) “If they want to aim for us then bring it on! I absolutely won’t let somebody from our group be expelled.”
+[scene] (p.228) Says Yamauchi is a good choice for their censure votes.
+[scene] (p.230) Backs Airi’s intuition about Karuizawa and Satō not voting against Ayanokōji.
+[rel:ayanokouji-kiyotaka] (p.227–232) Supports him in the cafe discussion.
+[rel:yamauchi-haruki] (p.228) Supports casting censure votes for him.
+[rel:sakura-airi] (p.230) Defends her intuition about the girls’ votes.
+
+<!-- walk: y1v10 Ch5 → p.237 -->

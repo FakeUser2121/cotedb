@@ -911,3 +911,18 @@ aliases used for anchors: ike, kanji, ike-kun
 [scene] (p.61) Ike, Yamauchi, Sudō expected to form a small group.
 
 <!-- walk: y1v10 Ch2 → p.84 -->
+
+### y1v10 pp.198–229 — Ch.5: Yamauchi’s friend in the fallout
+
+[scene] (p.198) Tries to leave after school with Yamauchi, saying they had plans, but stays for Horikita’s discussion.
+[scene] (p.203) Horikita names Ike as a candidate close to the bottom in contributions; he accepts that he has been a burden.
+[scene] (p.206) Yamauchi first blames Ike as the mastermind; Ike denies it and says Kushida asked him to help cast a censure vote for Ayanokōji.
+[says] (p.206) “No, no! So, err… Kikyō-chan came to me, asking for help… She said that there was someone who was in a lot of trouble, so she needed me to cast my censure vote for Ayanokōji.”
+[scene] (p.211) After Horikita exposes Yamauchi’s ties to Sakayanagi, Ike asks if it is true.
+[says] (p.211) “Oi Haruki, you’ve been colluding with Sakayanagi-chan…?”
+[scene] (p.229) At the cafe discussion, the Ayanokōji Group lists Ike among boys likely to give Yamauchi support or sympathy votes.
+[rel:yamauchi-haruki] (p.198, 206, 211) Tries to leave with him, is blamed by him, and questions his ties to Sakayanagi.
+[rel:kushida-kikyou] (p.206) Says she asked him to help target Ayanokōji.
+[rel:horikita-suzune] (p.203) Is named by her as a low-contribution candidate.
+
+<!-- walk: y1v10 Ch5 → p.237 -->

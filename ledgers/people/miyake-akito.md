@@ -376,3 +376,12 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [scene] (p.158) Notes Hirata looks distraught.
 
 <!-- walk: y1v10 Ch4 → p.181 -->
+
+### y1v10 pp.226–234 — Ch.5: Cafe discussion and advice
+
+[scene] (p.228) Nods in agreement that there is no reason for Ayanokōji to be expelled.
+[scene] (p.233) After seeing Hirata on a bench, advises Ayanokōji to be careful because no one knows who Hirata will vote for tomorrow.
+[rel:ayanokouji-kiyotaka] (p.228, 233–234) Supports him in the group and cautions him before he approaches Hirata.
+[rel:hirata-yousuke] (p.233–234) Notes his defeated state and warns Ayanokōji to be careful.
+
+<!-- walk: y1v10 Ch5 → p.237 -->

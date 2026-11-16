@@ -702,3 +702,17 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [scene] (p.154) Reports to the Ayanokōji Group that there were signs a large group formed.
 
 <!-- walk: y1v10 Ch4 → p.181 -->
+
+### y1v10 pp.226–232 — Ch.5: Cafe discussion
+
+[scene] (p.227) Joins the Ayanokōji Group after class when they go to the cafe to discuss the fallout.
+[scene] (p.228) Agrees there is no reason for Ayanokōji to be expelled and that Yamauchi is the obvious censure target.
+[scene] (p.229) Notes Horikita will likely give Ayanokōji a praise vote and Yamauchi a censure vote, and asks Airi about the girls’ votes.
+[scene] (p.230) Analyses the likely vote distribution, saying remaining censure votes may scatter among other options.
+[rel:ayanokouji-kiyotaka] (p.228–232) Supports him in the Ayanokōji Group discussion.
+[rel:yamauchi-haruki] (p.228) Treats him as the obvious censure target.
+[rel:hasebe-haruka] (p.227–230) Discusses the vote with the group.
+[rel:miyake-akito] (p.227–230) Discusses the vote with the group.
+[rel:sakura-airi] (p.229–230) Asks her about likely votes among the girls.
+
+<!-- walk: y1v10 Ch5 → p.237 -->
