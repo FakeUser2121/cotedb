@@ -4781,3 +4781,15 @@ walk: y1v1 → DONE
 [rel:sakayanagi-arisu] (p.373–374) Agrees to her request to postpone their match.
 
 <!-- walk: y1v10 Short Stories → p.376 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->
+
+### y1v11 pp.7–12 — Prologue: Seen in Sakayanagi’s memory
+
+[scene] (p.10) In Sakayanagi’s childhood memory, a boy identified as Ayanokōji Kiyotaka calmly solves tasks and defeats opponents at chess in the White Room.
+[note] (p.10–11) Sakayanagi’s father says he is the director’s son and has lived in the facility since birth; this is recounted in Sakayanagi’s monologue.
+[rel:sakayanagi-arisu] (p.10–12) She observes him through glass during her childhood visit.
+
+<!-- walk: y1v11 ch1 → p.12 -->

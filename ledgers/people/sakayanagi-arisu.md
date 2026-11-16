@@ -604,3 +604,18 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:ayanokouji-kiyotaka] (p.373–374) Proposes postponing their match and offers reassurance.
 
 <!-- walk: y1v10 Short Stories → p.376 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->
+
+### y1v11 pp.7–12 — Prologue: White Room memory
+
+[scene] (p.7) In a childhood memory, visits a white facility with her father and watches children through one-way glass.
+[scene] (p.8) Tells her father the experiment cannot create artificial geniuses because potential is set at birth.
+[scene] (p.10) Notices a boy calmly defeating opponents at chess; her father identifies him as Ayanokōji Kiyotaka, the director’s son.
+[scene] (p.11) Hears from her father that Kiyotaka has lived in the facility since birth and feels the loneliness of that life.
+[scene] (p.12) Recalls resolving to prove talent is not decided by education and to start playing chess; wakes in the present thinking of their approaching confrontation.
+[rel:ayanokouji-kiyotaka] (p.10–12) First saw him as a child in the White Room and has remembered him since.
+
+<!-- walk: y1v11 ch1 → p.12 -->

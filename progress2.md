@@ -2780,3 +2780,12 @@ Volume-end coverage notes added (locator passing mentions/name hits for
 y1v10 roster chars) and closing stamp set to
 `<!-- walk: y1v10 Short Stories → DONE -->`. verify y1v10: ALL PASS;
 make check OK; gate exit 0. Next: y1v11 ch1.
+
+### y1v11 Prologue (ch1) — walked, shipped
+
+Prologue "The Monologue of Sakayanagi Arisu" (pp.7–12). Sakayanagi
+recalls visiting the White Room as a child and seeing young Ayanokōji
+Kiyotaka; wakes in the present thinking of their confrontation. Ledgers
+touched: sakayanagi-arisu, ayanokouji-kiyotaka, ledgers/volumes/y1v11.md
+(created). verify y1v11: ALL PASS; make check OK; gate exit 0. Next:
+y1v11 ch2 pp.13–26.
