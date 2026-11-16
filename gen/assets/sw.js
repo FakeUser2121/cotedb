@@ -65,18 +65,16 @@ self.addEventListener('fetch', function(e) {
             return c.match(key).then(function(hit) {
                 if (hit) {
                     return cleanResponse(hit).then(function(safe) {
-                        if (!hit.redirected) return safe;
-
-                        return c.put(key, safe.clone())
-                            .catch(function() {})
-                            .then(function() {
-                                return safe;
-                            });
+                        if (hit.redirected) c.put(key, safe.clone()).catch(function() {});
+                        return safe;
                     });
                 }
                 return fetch(r).then(function(res) {
                     if (res.ok && res.type === 'basic') {
-                        return putClean(c, key, res);
+                        return cleanResponse(res).then(function(clean) {
+                            c.put(key, clean.clone()).catch(function() {});
+                            return clean;
+                        });
                     }
                     return res;
                 }).catch(function() {
