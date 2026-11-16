@@ -24,6 +24,10 @@ function boot(){
  el.addEventListener('pointerdown',out);
  setTimeout(out,1000)}
 
+var ringed=false;
+function ring(){if(ringed||!h.classList.contains('fx-boot')||!on())return;ringed=true;boot()}
+window.__fxbell=ring;
+
 // ---- ripple
 var RIP='button,.task,.tabs a,.brand,.morebtn,.ptr,summary,.alpha button';
 function ripple(x,y){if(!d.body.animate)return;
@@ -85,6 +89,6 @@ function tabs(){
  addEventListener('resize',function(){ind.style.transform=at(c)});
  addEventListener('load',function(){ind.style.transform=at(c)})}
 
-function start(){tabs();if(h.classList.contains('fx-boot')&&on())boot();else h.classList.remove('fx-boot')}
+function start(){tabs();if(h.classList.contains('fx-boot')&&on())ring();else h.classList.remove('fx-boot')}
 if(d.readyState==='loading')d.addEventListener('DOMContentLoaded',start);else start();
 })();

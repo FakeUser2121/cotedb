@@ -12,10 +12,21 @@ h.dataset.theme=ls('theme')||'dark';
 h.dataset.fx=want?'full':'static';
 
 var seen;try{seen=sessionStorage.getItem('fxboot')}catch(e){}
+var path=location.pathname;if(/\/$/.test(path))path+='index.html';
+var key=location.origin+path;
+function introFade(){h.setAttribute('data-intro','');setTimeout(function(){h.removeAttribute('data-intro')},1400)}
+function coverMiss(){h.classList.add('fx-boot');
+ setTimeout(function(){if(h.classList.contains('fx-boot'))h.classList.remove('fx-boot')},2500);
+ if(window.__fxbell)window.__fxbell()}
 if(want){
  if(!seen){h.classList.add('fx-boot');try{sessionStorage.setItem('fxboot','1')}catch(e){}
   setTimeout(function(){h.classList.remove('fx-boot')},3000)}
- else{h.setAttribute('data-intro','');setTimeout(function(){h.removeAttribute('data-intro')},1400)}
+ else{
+  try{caches.keys().then(function(ks){var k='',i;
+   for(i=0;i<ks.length;i++)if(ks[i].indexOf('cote-')===0)k=ks[i];
+   if(!k){coverMiss();return}
+   return caches.open(k).then(function(c){return c.match(key)}).then(function(hit){if(hit)introFade();else coverMiss()})}).catch(function(){introFade()})}
+  catch(e){introFade()}}
 }
 
 var loaded=false;
