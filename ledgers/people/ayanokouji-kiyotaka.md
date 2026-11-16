@@ -4892,3 +4892,22 @@ walk: y1v1 → DONE
 [rel:katsuragi-kouhei] (p.271–280) Meets him with Keisei to seek information on Class A.
 
 <!-- walk: y1v11 ch6 → p.280 -->
+
+### y1v11 pp.281–317 — Ch.6: Hirata’s recovery
+
+[scene] (p.282) Tells Horikita to focus on unifying Class C while he follows after Mii-chan and Hirata.
+[scene] (p.283) Watches from a distance as Mii-chan confronts Hirata on the way to the dormitories.
+[scene] (p.286) Observes as Kōenji intervenes in the confrontation and Hirata leaves.
+[scene] (p.292) Retrieves Mii-chan’s bag and follows Kōenji and Mii-chan to the dormitory entrance.
+[scene] (p.293) Speaks with Kōenji in the lobby about why he provoked Hirata and about participation in the exam.
+[scene] (p.295) Searches for Hirata and finds him on an outside bench.
+[scene] (p.296) Asks Hirata to talk and presses him to explain his past and his feelings about Yamauchi’s expulsion.
+[scene] (p.306) Tells Hirata he is responsible for not saving Yamauchi if he claims he wants to save everyone, forcing him to confront his ideals.
+[scene] (p.310) Tells Hirata he can rely on classmates when troubled and places a hand on his shoulder as Hirata breaks down.
+[scene] (p.315) Tells Horikita that Hirata’s recovery was a collective effort when she asks what happened.
+[rel:horikita-suzune] (p.282, 315–317) Advises her to focus on the class and later explains Hirata’s change to her.
+[rel:hirata-yousuke] (p.283–311) Observes, confronts, and supports him through his breakdown and recovery.
+[rel:wang-mei-yu] (p.283–293) Watches her confrontation with Hirata and helps her afterward.
+[rel:kouenji-rokusuke] (p.286–294) Observes his intervention and speaks with him at the dormitory.
+
+<!-- walk: y1v11 ch7 → p.317 -->

@@ -3105,3 +3105,15 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:miyamoto-soshi] (p.237) Hears his response about having played Go a few times.
 
 <!-- walk: y1v11 ch6 → p.280 -->
+
+### y1v11 pp.281–317 — Ch.6: Hirata’s return
+
+[scene] (p.281) Calls out to Hirata after school to confirm whether he will participate or at least avoid holding the class back on exam day.
+[scene] (p.282) Gives up when Hirata leaves without answering.
+[scene] (p.282) Tells Ayanokōji that Hirata still has not changed despite efforts to reach him.
+[scene] (p.315) Questions Ayanokōji about Hirata’s sudden recovery the next morning, suspecting he may be forcing himself.
+[scene] (p.316) Accepts Hirata’s apology and reconciliation, saying she will test whether he is truly ready to help with the exam.
+[rel:hirata-yousuke] (p.281–282, 316–317) Tries to confirm his stance, then reconciles with him when he returns.
+[rel:ayanokouji-kiyotaka] (p.282, 315–317) Discusses Hirata’s condition and recovery with him.
+
+<!-- walk: y1v11 ch7 → p.317 -->

@@ -2853,3 +2853,14 @@ karuizawa-kei, kushida-kikyou, wang-mei-yu, horikita-suzune,
 horikita-manabu, tachibana-akane, miyamoto-soshi, katsuragi-kouhei,
 ledgers/volumes/y1v11.md. verify y1v11: ALL PASS; make check OK; gate
 exit 0. Next: ch7 pp.281–317.
+
+### y1v11 ch7 — walked, shipped
+
+Chapter 6 "A Man’s Tears" (pp.281–317). Horikita fails to get an
+answer from Hirata; Mii-chan confronts him and Kōenji intervenes.
+Ayanokōji finds Hirata and forces him to face his guilt over Yamauchi and
+his middle-school past; Hirata breaks down and recovers. Next morning he
+apologizes and reconciles with Mii-chan and Horikita. Ledgers touched:
+ayanokouji-kiyotaka, horikita-suzune, hirata-yousuke, wang-mei-yu,
+kouenji-rokusuke, ledgers/volumes/y1v11.md. verify y1v11: ALL PASS;
+make check OK; gate exit 0. Next: ch8 pp.318–367.

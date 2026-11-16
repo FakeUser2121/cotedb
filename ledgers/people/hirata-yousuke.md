@@ -1496,3 +1496,28 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:ayanokouji-kiyotaka] (p.108, 125–151) Is observed and discussed as a problem for the class and exam.
 
 <!-- walk: y1v11 ch5 → p.169 -->
+
+### y1v11 pp.281–317 — Ch.6: Breakdown and recovery
+
+[scene] (p.281) Stops when Horikita calls out but leaves without answering her questions about exam participation.
+[scene] (p.283) Is confronted by Mii-chan on the way to the dormitories and tells her to leave him alone.
+[scene] (p.284) Says it is impossible to go back to how he used to be and tells Mii-chan to bring back Yamauchi if she wants that.
+[scene] (p.285) Shakes Mii-chan off when she grabs his arm, causing her to fall.
+[scene] (p.286) Reacts with hostility when Kōenji provokes him and tries to grab Kōenji’s collar.
+[scene] (p.288) After Kōenji restrains him, says he has nothing left to lose and threatens to act if Mii-chan keeps following him.
+[scene] (p.289) Leaves in the opposite direction as Kōenji takes Mii-chan away.
+[scene] (p.295) Is found by Ayanokōji on an outside bench, exhausted and unwilling to talk at first.
+[back] (p.300) Recalls his childhood friend Sugimura, who was bullied in middle school and attempted suicide by jumping off a building.
+[trait] (p.301) Explains that he ruled his middle-school class through fear after the bullying continued, believing he had to stop it.
+[scene] (p.306) Breaks down when Ayanokōji tells him he must bear responsibility if he claims he wants to save everyone.
+[scene] (p.310) Cries as Ayanokōji tells him he can rely on his classmates.
+[scene] (p.313) Returns to class the next morning and greets everyone with energy.
+[says] (p.313) “Good morning, Mii-chan. I’m sorry about what happened yesterday. I’ve done something very terrible to you.”
+[scene] (p.314) Apologizes to Mii-chan and the class and asks to help Class C again.
+[scene] (p.316) Reconciles with Horikita, acknowledging her actions during the class trial while asking to be filled in on the special exam.
+[rel:horikita-suzune] (p.281–282, 316–317) Ignores her questions, then reconciles with her.
+[rel:wang-mei-yu] (p.283–289, 313–314) Rejects her harshly, then apologizes and thanks her for supporting him.
+[rel:kouenji-rokusuke] (p.286–289) Is provoked and restrained by him.
+[rel:ayanokouji-kiyotaka] (p.295–311, 315) Confides in him, breaks down under his pressure, and recovers.
+
+<!-- walk: y1v11 ch7 → p.317 -->

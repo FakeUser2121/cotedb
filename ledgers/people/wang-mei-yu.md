@@ -104,3 +104,20 @@ char_id: wang-mei-yu · status: minor
 [rel:hirata-yousuke] (p.193) Chases after him again.
 
 <!-- walk: y1v11 ch6 → p.280 -->
+
+### y1v11 pp.283–314 — Ch.6: Confronting Hirata
+
+[scene] (p.283) Runs after Hirata when he leaves the classroom and confronts him on the way to the dormitories.
+[says] (p.284) “I-I won’t leave you alone… Not when you’re like this Hirata-kun, I just can’t!”
+[scene] (p.284) Insists she believes Hirata can return to how he used to be.
+[scene] (p.285) Grabs Hirata’s arm to stop him from leaving and falls when he shakes her off.
+[scene] (p.287) Tries to stop Hirata from confronting Kōenji and is shoved aside.
+[scene] (p.291) Is picked up by Kōenji and protests before being carried toward the dormitory.
+[scene] (p.293) Returns to the dormitory after Kōenji puts her down and Ayanokōji gives her bag back.
+[scene] (p.313) Greets Hirata the next morning when he returns to class.
+[scene] (p.314) Accepts Hirata’s apology as he reconciles with her.
+[rel:hirata-yousuke] (p.283–314) Refuses to abandon him, is hurt by his rejection, and receives his apology.
+[rel:kouenji-rokusuke] (p.287–293) Is defended and then carried off by him.
+[rel:ayanokouji-kiyotaka] (p.292–293) Receives her bag from him after the incident.
+
+<!-- walk: y1v11 ch7 → p.317 -->

@@ -1750,3 +1750,7 @@ Year 1 Volume 11 Chapter 5 "A Trap, a Home-Cooked Meal, and a Favor"
 (pp.170–280) walked. Class A events revealed; Horikita plans and
 Ayanokōji/Keisei get predictions from Katsuragi. Determinism hash:
 `d39733ac0f9d63dafc97764f8a00158c`.
+
+Year 1 Volume 11 Chapter 6 "A Man’s Tears" (pp.281–317) walked.
+Hirata confronts his past and returns to support Class C. Determinism
+hash: `c4881954e6794ba9bd94fd940bc3153b`.

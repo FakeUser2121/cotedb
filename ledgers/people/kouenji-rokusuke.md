@@ -647,3 +647,19 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:sudou-ken] (p.111, 123) Provokes his irritation by his attitude and claims.
 
 <!-- walk: y1v11 ch5 → p.169 -->
+
+### y1v11 pp.286–294 — Ch.6: Intervening with Hirata and Mii-chan
+
+[scene] (p.286) Comes across Hirata and Mii-chan on the way home and provokes Hirata by telling him to stop being an eyesore.
+[scene] (p.287) Suggests Hirata leave the school if it is no longer ideal for him.
+[scene] (p.288) Restrains Hirata by the wrist when Hirata tries to grab him.
+[scene] (p.289) Criticizes Hirata for ignoring Mii-chan and picks her up after Hirata knocks her down again.
+[scene] (p.291) Carries Mii-chan toward the dormitory despite her protests.
+[scene] (p.292) Sets Mii-chan down at the dorm entrance and tells her to give up on chasing Hirata for the day.
+[scene] (p.293) Tells Ayanokōji he acted for his own reasons, calling Hirata an eyesore.
+[scene] (p.294) Reminds Ayanokōji that the commander can decide participation and asks not to be made to participate.
+[rel:hirata-yousuke] (p.286–289) Provokes and restrains him during his confrontation with Mii-chan.
+[rel:wang-mei-yu] (p.287–293) Helps her up and carries her away from Hirata.
+[rel:ayanokouji-kiyotaka] (p.293–294) Speaks with him at the dormitory and comments on the commander’s authority.
+
+<!-- walk: y1v11 ch7 → p.317 -->
