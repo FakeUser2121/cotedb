@@ -27,7 +27,7 @@ h1{font-size:1.9rem;line-height:1.2;margin:.15em 0 .3em}h2{font-size:1.25rem;mar
 .chips{display:flex;flex-wrap:wrap;gap:6px;margin:8px 0}.chips button,.chipbtn,.alpha button,.morebtn,.ptr{border:1px solid var(--line);background:var(--card);border-radius:999px;padding:4px 12px;font-size:.88rem}
 .chips button.on,.alpha button.on{background:var(--ac);border-color:var(--ac);color:#fff}.chipbtn{margin-left:8px;padding:2px 10px}
 .panel{display:flex;flex-wrap:wrap;gap:8px 12px;align-items:center;margin:10px 0}.panel .fq{flex:1;min-width:200px}.panel label{font-size:.85rem;color:var(--mut)}
-.count{font-size:.85rem;color:var(--mut);margin:6px 0}.morebtn{display:block;margin:14px auto;border-radius:8px;padding:8px 18px}
+.count{font-size:.85rem;color:var(--mut);margin:6px 0}.morebtn{display:block;margin:14px auto;border-radius:8px;padding:8px 18px;background:var(--ac);border:1px solid var(--ac);color:#fff;font-weight:600}
 .card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 14px;margin:10px 0}
 .card h3{display:flex;flex-wrap:wrap;gap:2px 10px;align-items:baseline}.card .ttl{font-weight:600}.card .by{font-size:.82rem;color:var(--mut)}
 .card.flash{outline:2px solid var(--ac)}.setup{margin:.4em 0;color:var(--mut)}.tags,.with{margin:.3em 0;font-size:.88rem;color:var(--mut)}
