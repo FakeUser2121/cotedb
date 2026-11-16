@@ -3117,3 +3117,12 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ayanokouji-kiyotaka] (p.282, 315–317) Discusses Hirata’s condition and recovery with him.
 
 <!-- walk: y1v11 ch7 → p.317 -->
+
+### y1v11 pp.318–320 — Ch.7: Before the exam
+
+[scene] (p.318) Tells Ayanokōji before homeroom to forget her notes and choose events and participants as he sees fit.
+[scene] (p.319) Explains she has prepared the class so his decisions will not disrupt their plans and says no one will blame him if he loses to Class A.
+[scene] (p.320) Discusses her chess practice with Ayanokōji and estimates a 70% chance chess will be chosen.
+[rel:ayanokouji-kiyotaka] (p.318–320) Entrusts him with command decisions and discusses chess preparation.
+
+<!-- walk: y1v11 ch8 → p.367 -->

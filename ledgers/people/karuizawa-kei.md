@@ -1251,3 +1251,10 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:hirata-yousuke] (p.194) Discusses his withdrawal and avoids reaching out after being rejected earlier.
 
 <!-- walk: y1v11 ch6 → p.280 -->
+
+### y1v11 pp.353 — Ch.7: English test
+
+[scene] (p.353) Is selected by Ayanokōji for Class C’s English test lineup in the third event.
+[rel:ayanokouji-kiyotaka] (p.353) Is chosen by him for the English test.
+
+<!-- walk: y1v11 ch8 → p.367 -->

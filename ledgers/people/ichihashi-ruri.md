@@ -12,3 +12,14 @@ char_id: ichihashi-ruri · class: Class 1-D · status: minor
 [note] (p.86) No dialogue or action from Ichihashi on these pages.
 
 <!-- walk: y1v6 ch5 → p.131 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->
+
+### y1v11 pp.353 — Ch.7: English test
+
+[scene] (p.353) Is selected by Ayanokōji for Class C’s English test lineup in the third event.
+[rel:ayanokouji-kiyotaka] (p.353) Is chosen by him for the English test.
+
+<!-- walk: y1v11 ch8 → p.367 -->

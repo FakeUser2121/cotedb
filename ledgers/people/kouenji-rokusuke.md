@@ -663,3 +663,13 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:ayanokouji-kiyotaka] (p.293–294) Speaks with him at the dormitory and comments on the commander’s authority.
 
 <!-- walk: y1v11 ch7 → p.317 -->
+
+### y1v11 pp.359–364 — Ch.7: Flash Mental Arithmetic
+
+[scene] (p.359) Is selected by Ayanokōji for the Flash Mental Arithmetic event alongside Matsushita.
+[scene] (p.360) Folds his arms and closes his eyes during the event, leaving his answer sheet blank for the early questions.
+[scene] (p.364) After the event, states the correct answer to the final question despite not having participated seriously.
+[rel:ayanokouji-kiyotaka] (p.359–364) Is chosen by him but does not cooperate in the event.
+[rel:matsushita-chiaki] (p.359–364) Competes alongside her in the event.
+
+<!-- walk: y1v11 ch8 → p.367 -->

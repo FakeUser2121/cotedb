@@ -58,3 +58,18 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 [rel:katsuragi-kouhei] (p.298) Moves to obstruct him.
 
 <!-- walk: y1v10 Epilogue → p.362 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->
+
+### y1v11 pp.339–347 — Ch.7: Basketball event
+
+[scene] (p.339) Is selected for Class A’s basketball lineup.
+[scene] (p.343) Guards Sudō after he is substituted in and reveals stronger play than in the first half.
+[scene] (p.344) Provokes Sudō by claiming Class A has little basketball experience.
+[scene] (p.346) Loses the basketball event as Sudō regains focus and leads Class C to victory.
+[rel:sudou-ken] (p.343–347) Guards and provokes him during the basketball match.
+[rel:sakayanagi-arisu] (p.339–347) Plays as part of her basketball strategy.
+
+<!-- walk: y1v11 ch8 → p.367 -->

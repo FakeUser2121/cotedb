@@ -17,3 +17,19 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 [rel:hirata-yousuke] (p.65) “Karuizawa-san’s already claimed the only real prize.” — Hirata named by implication.
 
 <!-- walk: y1v7.5 ch3 → p.72 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->
+
+### y1v11 pp.359–365 — Ch.7: Flash Mental Arithmetic
+
+[scene] (p.359) Is selected by Ayanokōji for the Flash Mental Arithmetic event and wears the headset for commander intervention.
+[scene] (p.361) Answers the early questions correctly while Kōenji does not participate.
+[scene] (p.362) Keeps up through the sixth question but cannot solve the later, harder questions.
+[scene] (p.364) Writes down Ayanokōji’s answer for the final question, but Class A still wins the event.
+[rel:ayanokouji-kiyotaka] (p.359–365) Receives his intervention on the final question.
+[rel:kouenji-rokusuke] (p.359–364) Competes alongside him as he refuses to participate seriously.
+[rel:katsuragi-kouhei] (p.359–365) Competes against him in the event.
+
+<!-- walk: y1v11 ch8 → p.367 -->

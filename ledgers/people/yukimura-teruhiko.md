@@ -760,3 +760,11 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [rel:katsuragi-kouhei] (p.271–280) Tries to recruit him and receives event predictions.
 
 <!-- walk: y1v11 ch6 → p.280 -->
+
+### y1v11 pp.356–357 — Ch.7: Math test
+
+[scene] (p.356) Is selected by Ayanokōji for Class C’s math test lineup.
+[scene] (p.357) Takes the top spot in the math test as Keisei, though Class A wins the event overall.
+[rel:ayanokouji-kiyotaka] (p.356) Is chosen by him for the math test.
+
+<!-- walk: y1v11 ch8 → p.367 -->

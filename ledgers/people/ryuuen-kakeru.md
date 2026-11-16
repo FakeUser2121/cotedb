@@ -1540,3 +1540,20 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:ishizaki-daichi] (p.348) Acknowledges his role in his survival.
 
 <!-- walk: y1v10 Epilogue → p.362 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->
+
+### y1v11 pp.324–328 — Ch.7: Substitute commander
+
+[scene] (p.324) Arrives at the multipurpose room as Class D’s substitute commander instead of Kaneda.
+[scene] (p.325) Explains that Kaneda cannot participate due to the substitution penalty and that he will take responsibility if Class D loses.
+[scene] (p.326) Tells Ichinose he is only a sacrifice and that she should not be so wary, while unsettling her.
+[scene] (p.328) Enters the multipurpose room with Ichinose for the Class B vs Class D matchup.
+[rel:ichinose-honami] (p.324–328) Shocks and pressures her by appearing as Class D’s commander.
+[rel:kaneda-satoru] (p.324–326) Replaces him as commander under the substitution rule.
+[rel:sakayanagi-arisu] (p.324) Is observed by her with amusement.
+[rel:ayanokouji-kiyotaka] (p.324) Appears before him at the multipurpose room.
+
+<!-- walk: y1v11 ch8 → p.367 -->

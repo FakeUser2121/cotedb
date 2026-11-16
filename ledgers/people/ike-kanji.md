@@ -977,3 +977,12 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:shinohara-satsuki] (p.188–190) Invites her out on White Day.
 
 <!-- walk: y1v11 ch6 → p.280 -->
+
+### y1v11 pp.339, 342 — Ch.7: Basketball event
+
+[scene] (p.339) Is selected for Class C’s basketball lineup.
+[scene] (p.342) Is substituted out for Sudō at halftime during the basketball event.
+[rel:ayanokouji-kiyotaka] (p.339, 342) Is selected and then substituted out by him.
+[rel:sudou-ken] (p.342) Is replaced by him at halftime.
+
+<!-- walk: y1v11 ch8 → p.367 -->

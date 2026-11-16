@@ -1754,3 +1754,7 @@ Ayanokōji/Keisei get predictions from Katsuragi. Determinism hash:
 Year 1 Volume 11 Chapter 6 "A Man’s Tears" (pp.281–317) walked.
 Hirata confronts his past and returns to support Class C. Determinism
 hash: `c4881954e6794ba9bd94fd940bc3153b`.
+
+Year 1 Volume 11 Chapter 7 "Ayanokōji vs. Sakayanagi" (pp.318–367)
+walked. First five exam events: Class C down 2–3 to Class A. Determinism
+hash: `0daddbc64cd4f58f4327f68505e3dce0`.

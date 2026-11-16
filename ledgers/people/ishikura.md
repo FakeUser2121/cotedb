@@ -67,3 +67,14 @@ char_id: ishikura · class: Class 1-D · status: minor
 [note] (p.181) The fake-out attribution to his group is noted as part of Sakayanagi and Ryūen’s unique strategy read.
 
 <!-- walk: y1v8 coverage → p.244 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->
+
+### y1v11 pp.356 — Ch.7: Math test
+
+[scene] (p.356) Is selected by Ayanokōji for Class C’s math test lineup in the fourth event.
+[rel:ayanokouji-kiyotaka] (p.356) Is chosen by him for the math test.
+
+<!-- walk: y1v11 ch8 → p.367 -->

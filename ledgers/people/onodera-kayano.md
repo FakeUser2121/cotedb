@@ -17,3 +17,10 @@ char_id: onodera-kayano · status: minor
 ## y1v11
 
 <!-- walk: y1v11 → start -->
+
+### y1v11 pp.339 — Ch.7: Basketball event
+
+[scene] (p.339) Is selected for Class C’s basketball lineup and participates in the opening event, which Class C wins.
+[rel:ayanokouji-kiyotaka] (p.339) Is chosen by him for the basketball event.
+
+<!-- walk: y1v11 ch8 → p.367 -->

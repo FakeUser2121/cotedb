@@ -1521,3 +1521,11 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:ayanokouji-kiyotaka] (p.295–311, 315) Confides in him, breaks down under his pressure, and recovers.
 
 <!-- walk: y1v11 ch7 → p.317 -->
+
+### y1v11 pp.356 — Ch.7: Math test
+
+[scene] (p.356) Is selected by Ayanokōji for Class C’s math test lineup in the fourth event.
+[scene] (p.357) Competes in the math test, which Class A wins narrowly.
+[rel:ayanokouji-kiyotaka] (p.356) Is chosen by him for the math test.
+
+<!-- walk: y1v11 ch8 → p.367 -->

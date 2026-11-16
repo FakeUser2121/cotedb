@@ -706,3 +706,14 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [rel:totsuka-yahiko] (p.273) Is reminded of his expulsion during Keisei’s appeal.
 
 <!-- walk: y1v11 ch6 → p.280 -->
+
+### y1v11 pp.359–366 — Ch.7: Flash Mental Arithmetic
+
+[scene] (p.359) Is selected by Sakayanagi for the Flash Mental Arithmetic event and wears the headset.
+[scene] (p.365) Takes first place with eight out of ten questions correct, giving Class A the win.
+[scene] (p.366) Is revealed to have stayed loyal after Sakayanagi warned him against betraying her.
+[rel:sakayanagi-arisu] (p.359–366) Competes for her and follows her warning not to betray Class A.
+[rel:ayanokouji-kiyotaka] (p.359–366) Defeats Class C in the event despite earlier expectations.
+[rel:matsushita-chiaki] (p.359–365) Competes against her in the event.
+
+<!-- walk: y1v11 ch8 → p.367 -->

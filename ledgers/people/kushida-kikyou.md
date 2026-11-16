@@ -1483,3 +1483,10 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:horikita-suzune] (p.198–205) Avoids supporting her leadership in this exam.
 
 <!-- walk: y1v11 ch6 → p.280 -->
+
+### y1v11 pp.356 — Ch.7: Math test
+
+[scene] (p.356) Is selected by Ayanokōji for Class C’s math test lineup in the fourth event.
+[rel:ayanokouji-kiyotaka] (p.356) Is chosen by him for the math test.
+
+<!-- walk: y1v11 ch8 → p.367 -->

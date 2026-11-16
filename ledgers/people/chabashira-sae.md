@@ -1001,3 +1001,11 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:hoshinomiya-chie] (p.168) Confronts her over talking to Ayanokōji.
 
 <!-- walk: y1v11 ch5 → p.169 -->
+
+### y1v11 pp.328 — Ch.7: Exam day
+
+[scene] (p.328) Follows Ichinose and Ryūen to the other side of the partition for the Class B vs Class D matchup.
+[rel:ichinose-honami] (p.328) Accompanies her as the exam matchups are separated.
+[rel:ryuuen-kakeru] (p.328) Accompanies him to the Class B vs Class D side.
+
+<!-- walk: y1v11 ch8 → p.367 -->

@@ -631,3 +631,27 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:kaneda-satoru] (p.64–65) Responds to his choice of Class B.
 
 <!-- walk: y1v11 ch4 → p.92 -->
+
+### y1v11 pp.321–367 — Ch.7: Commander against Class C (events 1–5)
+
+[scene] (p.321) Waits with Ichinose at the multipurpose room before the exam and greets Ayanokōji.
+[scene] (p.322) Tells Ichinose that Class D is an easy opponent and remarks on her confidence.
+[scene] (p.324) Reacts with amusement when Ryūen arrives as Class D’s substitute commander.
+[scene] (p.329) Tells Ayanokōji she has long awaited competing with him and asks him to face her seriously.
+[scene] (p.333) Selects Class A’s five events and begins the exam as commander.
+[scene] (p.336) Engages Ayanokōji in conversation during the basketball selection to draw out information.
+[scene] (p.340) Anticipates Class C’s plan to hold Sudō back and fields a lineup prepared for it.
+[scene] (p.345) Uses Kitō’s provocation and strategy to pressure Sudō, but Class C still wins basketball.
+[scene] (p.351) Loses the typing event to Sotomura.
+[scene] (p.354) Wins the English test with a strong lineup.
+[scene] (p.358) Wins the math test narrowly.
+[scene] (p.359) Selects Katsuragi and Tamiya for Flash Mental Arithmetic and wins the event.
+[scene] (p.366) Reveals she warned Katsuragi against betraying her and takes a 3–2 lead after five events.
+[rel:ayanokouji-kiyotaka] (p.321–367) Competes against him as commander and probes his strategy.
+[rel:ichinose-honami] (p.321–328) Talks with her while waiting for the exam and comments on Class B vs Class D.
+[rel:ryuuen-kakeru] (p.324–328) Is surprised but amused by his appearance as substitute commander.
+[rel:katsuragi-kouhei] (p.359–366) Uses him in Flash Mental Arithmetic and prevents his betrayal.
+[rel:kitou-hayato] (p.339–347) Relies on him in the basketball event against Sudō.
+[rel:kamuro-masumi] (p.339) Selects her for Class A’s basketball lineup.
+
+<!-- walk: y1v11 ch8 → p.367 -->

@@ -4911,3 +4911,29 @@ walk: y1v1 → DONE
 [rel:kouenji-rokusuke] (p.286–294) Observes his intervention and speaks with him at the dormitory.
 
 <!-- walk: y1v11 ch7 → p.317 -->
+
+### y1v11 pp.318–367 — Ch.7: Commander against Class A (events 1–5)
+
+[scene] (p.318) Before homeroom, Horikita tells him to act freely as commander and rely on her preparation.
+[scene] (p.319) Leaves for the multipurpose room to fulfill his commander duties.
+[scene] (p.321) Arrives and meets Sakayanagi and Ichinose while waiting for the exam to begin.
+[scene] (p.324) Witnesses Ryūen arrive as substitute commander for Class D.
+[scene] (p.329) Speaks briefly with Sakayanagi before the exam begins.
+[scene] (p.333) Selects Class C’s five events and begins the commander matchup against Sakayanagi.
+[scene] (p.339) Chooses Class C’s basketball lineup without Sudō, then substitutes Sudō in at halftime; Class C wins the event.
+[scene] (p.349) Selects Sotomura for the typing event; Class C wins.
+[scene] (p.353) Chooses to give up on the English test to preserve resources; Class A wins.
+[scene] (p.356) Fields Class C’s strongest available lineup for the math test; Class A wins narrowly.
+[scene] (p.359) Selects Kōenji and Matsushita for Flash Mental Arithmetic and intervenes on the final question, but Class A wins.
+[scene] (p.366) Recognizes Class C is behind 2–3 after five events.
+[rel:horikita-suzune] (p.318–320) Receives her final instructions and preparation notes before acting as commander.
+[rel:sakayanagi-arisu] (p.321–367) Faces her as Class C’s commander throughout the first five events.
+[rel:ichinose-honami] (p.321–328) Meets her before the exam and witnesses the shock of Ryūen’s arrival.
+[rel:ryuuen-kakeru] (p.324–328) Sees him appear as Class D’s substitute commander.
+[rel:sudou-ken] (p.339–347) Substitutes him into the basketball match, leading to a Class C win.
+[rel:sotomura-hideo] (p.349–350) Selects him for typing and secures a Class C win.
+[rel:kouenji-rokusuke] (p.359–366) Selects him for Flash Mental Arithmetic but he refuses to participate seriously.
+[rel:matsushita-chiaki] (p.359–365) Relies on her in Flash Mental Arithmetic.
+[rel:katsuragi-kouhei] (p.359–366) Competes against him in Flash Mental Arithmetic and loses the event.
+
+<!-- walk: y1v11 ch8 → p.367 -->

@@ -216,3 +216,12 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 [rel:sakayanagi-arisu] (p.168) Mentions her as Ayanokōji’s opponent in the special exam.
 
 <!-- walk: y1v11 ch5 → p.169 -->
+
+### y1v11 pp.328–362 — Ch.7: Proctoring the exam
+
+[scene] (p.328) Helps facilitate the special exam for Class A and Class C in the multipurpose room.
+[scene] (p.332) Prompts Ayanokōji and Sakayanagi to take their seats as the exam begins.
+[scene] (p.334) Comments on the matchup and is reprimanded for speaking out of turn.
+[scene] (p.362) Reacts in amazement at the difficulty of the Flash Mental Arithmetic questions.
+
+<!-- walk: y1v11 ch8 → p.367 -->

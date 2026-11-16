@@ -242,3 +242,10 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [rel:ike-kanji] (p.188–190) Accepts his White Day invitation.
 
 <!-- walk: y1v11 ch6 → p.280 -->
+
+### y1v11 pp.353 — Ch.7: English test
+
+[scene] (p.353) Is selected by Ayanokōji for Class C’s English test lineup in the third event.
+[rel:ayanokouji-kiyotaka] (p.353) Is chosen by him for the English test.
+
+<!-- walk: y1v11 ch8 → p.367 -->

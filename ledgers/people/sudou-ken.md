@@ -1370,3 +1370,14 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:ike-kanji] (p.115) Supports the discussion about events requiring many participants.
 
 <!-- walk: y1v11 ch5 → p.169 -->
+
+### y1v11 pp.339–347 — Ch.7: Basketball event
+
+[scene] (p.339) Is initially held out of Class C’s basketball lineup as part of the strategy.
+[scene] (p.342) Is substituted into the match at halftime by Ayanokōji.
+[scene] (p.344) Is provoked by Kitō, who claims Class A has only practiced for a week.
+[scene] (p.346) Regains focus and leads Class C to a 24–16 victory in the basketball event.
+[rel:ayanokouji-kiyotaka] (p.339–347) Is deployed by him at halftime to secure the win.
+[rel:kitou-hayato] (p.343–347) Is guarded and provoked by him during the match.
+
+<!-- walk: y1v11 ch8 → p.367 -->

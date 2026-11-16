@@ -2864,3 +2864,19 @@ apologizes and reconciles with Mii-chan and Horikita. Ledgers touched:
 ayanokouji-kiyotaka, horikita-suzune, hirata-yousuke, wang-mei-yu,
 kouenji-rokusuke, ledgers/volumes/y1v11.md. verify y1v11: ALL PASS;
 make check OK; gate exit 0. Next: ch8 pp.318–367.
+
+### y1v11 ch8 — walked, shipped
+
+Chapter 7 "Ayanokōji vs. Sakayanagi" (pp.318–367). Event Selection
+Exam begins: Ryūen substitutes for Kaneda in Class D vs Class B.
+Class C wins Basketball (Sudō subbed in) and Typing (Sotomura); loses
+English and Math tests and Flash Mental Arithmetic (Katsuragi wins) to
+stand 2–3 after five events. Ledgers touched: ayanokouji-kiyotaka,
+horikita-suzune, sakayanagi-arisu, ichinose-honami, ryuuen-kakeru,
+sudou-ken, sotomura-hideo, kouenji-rokusuke, matsushita-chiaki,
+katsuragi-kouhei, kitou-hayato, kamuro-masumi, onodera-kayano,
+ike-kanji, hirata-yousuke, yukimura-teruhiko, kushida-kikyou,
+karuizawa-kei, shinohara-satsuki, wang-mei-yu, ishikura,
+inogashira-kokoro, ichihashi-ruri, satou-maya, hondou-ryoutaro,
+hoshinomiya-chie, chabashira-sae, ledgers/volumes/y1v11.md. verify
+y1v11: ALL PASS; make check OK; gate exit 0. Next: ch9 pp.368–399.

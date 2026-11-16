@@ -121,3 +121,10 @@ char_id: wang-mei-yu · status: minor
 [rel:ayanokouji-kiyotaka] (p.292–293) Receives her bag from him after the incident.
 
 <!-- walk: y1v11 ch7 → p.317 -->
+
+### y1v11 pp.356 — Ch.7: Math test
+
+[scene] (p.356) Is selected by Ayanokōji for Class C’s math test lineup in the fourth event.
+[rel:ayanokouji-kiyotaka] (p.356) Is chosen by him for the math test.
+
+<!-- walk: y1v11 ch8 → p.367 -->

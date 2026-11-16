@@ -36,3 +36,14 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 [scene] (p.15) Hondō mentioned among the lowest scorers (Hondō, Satō, Inogashira after Yamauchi).
 
 <!-- walk: y1v10 Prologue+Ch1 → p.29 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->
+
+### y1v11 pp.339 — Ch.7: Basketball event
+
+[scene] (p.339) Is selected for Class C’s basketball lineup in the opening event, which Class C wins.
+[rel:ayanokouji-kiyotaka] (p.339) Is chosen by him for the basketball event.
+
+<!-- walk: y1v11 ch8 → p.367 -->

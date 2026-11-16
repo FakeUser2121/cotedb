@@ -203,3 +203,14 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [rel:hashimoto-masayoshi] (p.282–284) Debates the failed plan with him and Sakayanagi.
 
 <!-- walk: y1v10 Ch6 → p.285 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->
+
+### y1v11 pp.339 — Ch.7: Basketball event
+
+[scene] (p.339) Is selected by Sakayanagi for Class A’s basketball lineup.
+[rel:sakayanagi-arisu] (p.339) Participates in the basketball event under her command.
+
+<!-- walk: y1v11 ch8 → p.367 -->

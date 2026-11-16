@@ -249,3 +249,15 @@ char_id: sotomura-hideo · class: Class 1-D (enrolled April 2015) · status: min
 [note] (p.35) Named only as “the Professor” on this page; roster alias Professor / The Professor; Sotomura not printed in y1v9 so far.
 
 <!-- walk: y1v9 ch2 → p.50 -->
+
+## y1v11
+
+<!-- walk: y1v11 → start -->
+
+### y1v11 pp.349–350 — Ch.7: Typing event
+
+[scene] (p.349) Is selected by Ayanokōji to represent Class C in the typing event.
+[scene] (p.350) Wins the typing event against Yoshida Kenta with a score of 90 to 83.
+[rel:ayanokouji-kiyotaka] (p.349–350) Is chosen by him for the one-on-one typing event.
+
+<!-- walk: y1v11 ch8 → p.367 -->

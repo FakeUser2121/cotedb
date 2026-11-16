@@ -1292,3 +1292,17 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:yukimura-teruhiko] (p.172–183) Eats lunch with his group.
 
 <!-- walk: y1v11 ch6 → p.280 -->
+
+### y1v11 pp.321–328 — Ch.7: Exam day shock
+
+[scene] (p.321) Waits with Sakayanagi at the multipurpose room before the exam and greets Ayanokōji.
+[scene] (p.322) Responds to Sakayanagi that Class B cannot let its guard down against Class D.
+[scene] (p.324) Is shocked when Ryūen arrives instead of Kaneda as Class D’s substitute commander.
+[scene] (p.326) Worries that Ryūen’s presence is meant to throw Class B off.
+[scene] (p.328) Enters the multipurpose room with Ryūen for the Class B vs Class D matchup.
+[rel:sakayanagi-arisu] (p.321–323) Talks with her while waiting for the exam.
+[rel:ayanokouji-kiyotaka] (p.321) Greets him before the exam.
+[rel:ryuuen-kakeru] (p.324–328) Is unsettled by his sudden appearance as commander.
+[rel:kaneda-satoru] (p.324) Expects him as Class D’s commander before Ryūen appears.
+
+<!-- walk: y1v11 ch8 → p.367 -->
