@@ -205,3 +205,13 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 [limit] (p.218) Silent here — the consideration is physical, not spoken.
 
 <!-- walk: y1v8 ch9 → p.241 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.56 — Camp group in Ayanokōji’s elimination list
+[rel:ryuuen-kakeru] (p.56) Named with Ryuuen, Ishizaki and Ibuki as the training-camp group.
+[note] (p.56) Does not appear; only in the internal list.
+
+<!-- walk: y1v9 ch3 → p.75 -->

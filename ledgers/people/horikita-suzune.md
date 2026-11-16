@@ -2839,3 +2839,23 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (p.33) Forces the training-camp standings notebook onto Ayanokōji’s desk; he flips it but the contents are not re-stated on these pages.
 
 <!-- walk: y1v9 ch2 → p.50 -->
+
+### y1v9 p.68–75 — Summoning Ichinose; the cold-hearted counsel
+[scene] (p.68) Texts Ayanokōji from her room: Ichinose is coming at seven under the Class B alliance.
+[says] (p.68) “[You around?]”
+[says] (p.68) “[Since the message has been marked as read, I’ll just continue talking as that’s more convenient. Ichinose-san will be coming to my room tonight. Will you come?]”
+[says] (p.68) “[We’re in an alliance with Class B. It’s only natural that we’d lend a hand given the current state of affairs. But, this time we don’t know the full story. Therefore, I was thinking of hearing about it from the person herself.]”
+[goal] (p.68–72) Hears Ichinose directly rather than through reports; keeps the meeting to a weekday seven so as not to look suspicious.
+[rel:ichinose-honami] (p.69–72) Asks who spreads the rumors and whether she will deny them; accepts Ichinose’s refusal without forcing it.
+[says] (p.70) “Yes. Do you know who has been spreading those rumors?”
+[says] (p.71) “Are you not going to deny the rumors?”
+[says] (p.71) “I don’t mean to force you to say anything here, but you do know that silence can be interpreted as though you’re saying the rumors are true, right?”
+[rel:sakayanagi-arisu] (p.70) Agrees Ichinose’s Sakayanagi guess needs no further reason — war on Class B and her warlike pattern.
+[rel:ayanokouji-kiyotaka] (p.73–75) Asks his genuine opinion after Ichinose leaves; calls him cold-hearted when he advises doing nothing; ends the night lost in thought.
+[says] (p.73) “What do you think I should do?”
+[says] (p.73) “…So you’re saying it doesn’t matter what happens to Ichinose-san? You’re being quite cold-hearted.”
+[trait] (p.74–75) Accepts “leave it alone” without strong objection — understands it is right; Ayanokōji reads her as changing but still too extreme, losing sight of herself.
+[rel:kushida-kikyou] (p.74) Ayanokōji guesses Horikita’s growth is tied to her effort to improve the relationship with Kushida.
+[note] (p.75) Does not stop Ichinose from leaving; the final elevator beat is Ichinose and Ayanokōji, not Horikita.
+
+<!-- walk: y1v9 ch3 → p.75 -->

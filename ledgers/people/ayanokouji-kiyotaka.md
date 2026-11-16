@@ -4264,3 +4264,40 @@ walk: y1v1 → DONE
 [note] (p.47–48) Quoted from Hashimoto: Ichinose’s reply to Kanzaki was neither affirmation nor denial of the rumors.
 
 <!-- walk: y1v9 ch2 → p.50 -->
+
+### y1v9 p.51–56 — Gym exit, tail, and Mii-chan’s interception
+[scene] (p.51) Gymnasium dispersal after Hashimoto and Kanzaki separate; then the dorm path Thursday evening.
+[rel:hashimoto-masayoshi] (p.51–56) Feels incongruity — Hashimoto no longer treats him as at the training camp; later confirms via front camera that Hashimoto is tailing him into the cafe.
+[thinks] (p.56) If Sakayanagi were monitoring him she would have used Kamuro, not Hashimoto; the tail may be Hashimoto’s own judgment.
+[rel:miyake-akito] (p.51–52) Goes along with the delinquent talk; concludes Miyake’s ease with confrontation comes from growing up around fights.
+[rel:ryuuen-kakeru] (p.52) Listens to Miyake’s history with Ryuuen’s neighbouring middle school and drops the thread — “somebody else’s problem.”
+[rel:wang-mei-yu] (p.54–56) Accepts Mii-chan’s first-ever face-to-face consultation; lets her choose the venue — Keyaki Mall cafe.
+[goal] (p.56) For now ignores Hashimoto and focuses on Mii-chan’s conversation.
+
+### y1v9 p.56–62 — The Hirata question
+[rel:hirata-yousuke] (p.56–62) Asked who Hirata likes after the Karuizawa breakup; answers honestly that there is nobody and advises patience because Hirata will be careful next time.
+[says] (p.58) “I don’t think so.”
+[feat] (p.60–62) Asks Mii-chan when she started liking Hirata and delivers a cold read of confess-soon odds — “you’re probably going to be rejected if you get impatient and confess to him so soon.”
+[rel:wang-mei-yu] (p.56–62) Coach for her first crush; her communication still needs the work Airi also needs, and he does not break the ice until she starts.
+[trait] (p.62) Her compliment that he is approachable is met with his own note that he is only running an unconscious analysis of what will be useful to her.
+
+### y1v9 p.63–68 — Reading buddies, mailbox, Hiyori’s ask
+[rel:shiina-hiyori] (p.63–68) Cover story about China; lobby wait where she asks him to cooperate on helping Ichinose; he declines the direct lever.
+[feat] (p.64) Names Pingyao Ancient City when Hiyori mentions the Great Wall — surprises Mii-chan.
+[rel:wang-mei-yu] (p.63–65) Parted at the elevator after the China detour.
+[rel:ichinose-honami] (p.53, 66–68) Sees her walking alone to the dorms; with Hiyori, refuses to name Sakayanagi or Hashimoto as sources; wary the rumors may be closer to truth than they appear.
+[rel:horikita-suzune] (p.68–69) Answers her text and agrees to the seven o’clock meeting with Ichinose.
+[rel:ayanokouji-atsuomi] (p.65) Checks his mailbox regularly ever since his father visited the school — expects possible contact.
+[says] (p.67) “Cooperate, huh? If that’s the case, then you should consult Horikita.”
+[says] (p.67) “I don’t have any influence over Class C at all.”
+
+### y1v9 p.69–75 — The three-way meeting and the elevator
+[scene] (p.69) Horikita’s room at seven — Ichinose arrives in the neighbouring elevator.
+[rel:ichinose-honami] (p.69–75) Witnesses her name Sakayanagi, her refusal to deny the rumors, and her “clean up my own mess” line; later pulled into the elevator for a walk.
+[rel:horikita-suzune] (p.69–75) Advises her to do nothing after she asks for a genuine opinion; notes Horikita changing but still losing sight of herself.
+[thinks] (p.74) Helping Ichinose may pull Sakayanagi’s eye to Class C; if Class B falls first, that is an upside for Class C.
+[says] (p.74) “You should leave it alone.”
+[feat] (p.75) Closing assessment: Horikita’s changes are too extreme right now; she must get along with others before she can reach her true self.
+[rel:ichinose-honami] (p.75) Waves him into the elevator — “Can you keep me company for a little bit?” — and takes him outside the lobby.
+
+<!-- walk: y1v9 ch3 → p.75 -->

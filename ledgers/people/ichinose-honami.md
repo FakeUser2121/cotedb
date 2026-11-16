@@ -1030,3 +1030,27 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [note] (p.31, 40, 47–50) Ichinose has no spoken line in this chapter; every row is how others write and argue about her.
 
 <!-- walk: y1v9 ch2 → p.50 -->
+
+### y1v9 p.53, 66–75 — Alone, then the three-way meeting
+[scene] (p.53) Thursday evening dorm path — Ichinose walks alone without her usual ambition; Ayanokōji watches her go.
+[limit] (p.53) Alone because she may be keeping friends out of the second disaster of her rumors.
+[rel:shiina-hiyori] (p.66–67) Hiyori remembers the training-camp bond and wants to help a mutual enemy.
+[scene] (p.69–72) Horikita’s room at seven with Ayanokōji — the direct meeting.
+[says] (p.69) “Ah! Good evening Ayanokouji-kun.”
+[says] (p.70) “I absolutely can’t speak with certainty here, but if I had to guess I’d say it’s Sakayanagi-san.”
+[feat] (p.70) Names Sakayanagi outright when asked who spreads the rumors — beyond Ayanokōji’s expectation for her.
+[says] (p.70) “To put it simply, I guess it’s because she declared war on Class B. Do I need to give you any other reason for it?”
+[says] (p.71) “Sorry, Horikita-san. I’m not able to tell you anything about that. Horikita-san and Ayanokouji-kun are friends, but you’re still students from another class. We may be in a cooperative relationship with each other right now, but sooner or later, we’re destined to fight against each other.”
+[says] (p.71) “I have absolutely no intention of giving this matter any excessive amount of energy. Sakayanagi-san’s strategy is to stir up Class B, I think the correct solution for dealing with it is to simply stay silent.”
+[trait] (p.71–72) Chooses silence over denial or a culprit hunt; smile unchanged through the harassment talk — typical bullying with no perfect solution.
+[says] (p.72) “So, Horikita-san and the rest of Class C can continue doing things as usual. I will clean up my own mess.”
+[action] (p.72) Came only to tell Class C not to interfere; stands to leave after saying it.
+[rel:kanzaki-ryuuji] (p.72) Says Kanzaki is very gentle and that she told him she was alright — no need for more from him.
+[says] (p.72) “I see… Kanzaki-kun is very gentle. I told him I was alright. I didn’t think I needed to say anything more to him.”
+[rel:horikita-suzune] (p.69–73) Refuses Horikita’s push to deny the rumors; assures her Class C can continue as usual.
+[rel:ayanokouji-kiyotaka] (p.69–75) Thanks him for coming out late; waits outside and pulls him into the elevator for a walk.
+[says] (p.75) “Can you keep me company for a little bit?”
+[status] (p.75) Still smiling and initiative-taking after the meeting — waves him over and takes him outside the lobby.
+[note] (p.69–72) Never says whether the rumors are true; only the Sakayanagi attribution is stated as her guess.
+
+<!-- walk: y1v9 ch3 → p.75 -->

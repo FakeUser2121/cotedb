@@ -1449,3 +1449,11 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [note] (p.42, 45, 49) Ryuuen is not present; only named in talk about the quarrel and the rumor source.
 
 <!-- walk: y1v9 ch2 → p.50 -->
+
+### y1v9 p.52, 56 — Middle-school neighbour and camp group
+[rel:miyake-akito] (p.52) Ryuuen went to the middle school next to Miyake’s; the schools clashed several times — “That guy probably never took me very seriously.”
+[trait] (p.52) Framed through Miyake’s history as the stronger top delinquent of a rough neighbourhood school.
+[rel:ayanokouji-kiyotaka] (p.56) Named among the training-camp group (with Ishizaki, Albert and Ibuki) — none of whom Ayanokōji thinks would have told Hashimoto anything.
+[note] (p.52, 56) Ryuuen is not present; only named in recollection and Ayanokōji’s elimination list.
+
+<!-- walk: y1v9 ch3 → p.75 -->

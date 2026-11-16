@@ -2461,3 +2461,32 @@ intended; results no new marker hits this chapter. New tags: none. New
 entities: none. verify y1v9: 95 [says] + 35 non-says ALL PASS; make
 check OK (R18 0, R19 82/82); gate exit 0; hash
 `a871f9e0724a630d02f867b7afb1d312` twice. Next: ch3 pp.51–75.
+
+y1v9 ch3 No Intention of Changing (pp.51–75): gym dispersal — Kanzaki
+bows out unfinished, Hashimoto tails Ayanokōji into the Keyaki Mall cafe;
+Mii-chan’s first face-to-face consultation (Hirata crush, entrance-
+ceremony origin, Ayanokōji’s patience advice); Hiyori joins, China cover
+story, mailbox checked for father contact; Hiyori asks him to cooperate
+on Ichinose and defers the introduction; the seven o’clock three-way
+meeting — Ichinose names Sakayanagi as her guess, refuses to deny the
+rumors, “I will clean up my own mess”; Ayanokōji tells Horikita to do
+nothing and reads her as changing but too extreme; Ichinose pulls him
+into the elevator for a walk. People touched this chapter: ayanokouji-
+kiyotaka, horikita-suzune, ichinose-honami, hashimoto-masayoshi,
+miyake-akito, hasebe-haruka, sakura-airi, kanzaki-ryuuji, hirata-
+yousuke, karuizawa-kei, kushida-kikyou, yukimura-teruhiko,
+sakayanagi-arisu, ryuuen-kakeru, katsuragi-kouhei, ishizaki-daichi,
+yamada-albert, ibuki-mio (all named-not-present), wang-mei-yu,
+shiina-hiyori, kamuro-masumi (named-only). “Yukimuu” in the dorm-path
+talk = yukimura-teruhiko; “reading buddies” answer on p.64 left
+untagged (translation gives no speaker). Translation defects kept as
+printed: p.63 “began to a few other questions”, p.67 “3 classes”.
+Rule 12 sample: expulsions 0; points 0; relationships takes the new
+[rel:] pairs as intended; who-knew-what +26 structural note/limit/
+status/thinks rows — same known marker-set noise, no pattern change
+without owner OK; results — no [rule]/[result] rows; the one personal
+background detail retagged from [fact] to [trivia] so it stays off the
+results list (lede is exam decisions). New tags: none. New entities:
+none. verify y1v9: 138 [says] + 51 non-says ALL PASS; make check OK
+(R18 0, R19 82/82); gate exit 0; hash `56c4e12bc682b46950105485effec166`
+twice. Next: ch4 pp.76–100.

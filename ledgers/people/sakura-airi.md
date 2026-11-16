@@ -904,3 +904,11 @@ aliases used for anchors: sakura, airi, sakura-san
 [feat] (p.41–42) Her perplexity at the burden-of-popularity line marks her distance from the social games around Ichinose.
 
 <!-- walk: y1v9 ch2 → p.50 -->
+
+### y1v9 p.51 — At the gym dispersal
+[scene] (p.51) Gymnasium exit with Haruka, Miyake and Hashimoto’s group before the walk back.
+[rel:hasebe-haruka] (p.51) Present with her when Hashimoto waves farewell and leaves.
+[rel:hashimoto-masayoshi] (p.51) Receives Hashimoto’s farewell gesture at the exit.
+[note] (p.51) Only this beat in the chapter — she does not go to the cafe or the meeting.
+
+<!-- walk: y1v9 ch3 → p.75 -->

@@ -283,3 +283,14 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [trait] (p.47–50) Absolute trust in Ichinose under pressure; refuses to doubt her even when she neither confirms nor denies.
 
 <!-- walk: y1v9 ch2 → p.50 -->
+
+### y1v9 p.51, 72 — Bowing out; reported to Ichinose
+[scene] (p.51) Gym dispersal — Kanzaki bows and leaves toward the dormitories.
+[rel:hashimoto-masayoshi] (p.51) Walks away while calling the conversation unfinished; Hashimoto ends it.
+[says] (p.51) “Our conversation isn’t over yet.”
+[action] (p.51) Bows to the group and goes toward the dormitories.
+[rel:ichinose-honami] (p.72) Reported later — Ichinose says he is very gentle and that she told him she was alright.
+[rel:hasebe-haruka] (p.51) Present in the farewell group.
+[note] (p.51, 72) Never at the cafe or the meeting; only the exit beat and Ichinose’s report of it.
+
+<!-- walk: y1v9 ch3 → p.75 -->

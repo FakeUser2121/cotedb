@@ -409,3 +409,9 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [note] (p.19) Ishizaki is not present; only named in the fight recollection.
 
 <!-- walk: y1v9 ch1 → p.25 -->
+
+### y1v9 p.56 — Camp group in Ayanokōji’s elimination list
+[rel:ryuuen-kakeru] (p.56) Named with Ryuuen, Albert and Ibuki as the training-camp group — none of whom Ayanokōji thinks told Hashimoto anything.
+[note] (p.56) Does not appear; only in the internal list.
+
+<!-- walk: y1v9 ch3 → p.75 -->

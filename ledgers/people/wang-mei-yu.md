@@ -27,3 +27,28 @@ char_id: wang-mei-yu · status: minor
 [limit] (p.149) “Couldn’t participate even if she wanted to” — active non-participation named by the POV.
 
 <!-- walk: y1v8 ch5 → p.152 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.54–65 — The Hirata consultation
+[scene] (p.54) Dorm path to Keyaki Mall cafe — Mii-chan intercepts Ayanokōji for his first face-to-face talk with her.
+[says] (p.54) “Ah, um, Ayanokouji-kun. Do you have a moment…?”
+[says] (p.55) “How about the cafe… if that’s alright with you? Though we might be somewhat late in heading back home afterward.”
+[goal] (p.56–57) Wants to know whether Hirata likes anyone after the Karuizawa breakup; cites Hirata naming Ayanokōji the most reliable person in class.
+[says] (p.56) “Hey… Uh, it’s about Hirata-kun.”
+[says] (p.57) “But then, why did Hirata-kun advise me that Ayanokouji-kun was the most reliable person in the class?”
+[says] (p.57) “…Do you know if there’s anyone, H-Hirata-kun likes right now?”
+[rel:hirata-yousuke] (p.57–62) Crush since the entrance ceremony — one gentle encounter; she fears rivals and her own inexperience.
+[says] (p.60) “-Right after the entrance ceremony?”
+[limit] (p.60) “I… I don’t think I’m good enough to become Hirata-kun’s girlfriend…” — too many rivals, never been in love before.
+[rel:ayanokouji-kiyotaka] (p.54–65) Client of his patient advice; later says he seemed scary from a distance but is approachable face-to-face.
+[says] (p.61) “Oh no, you’re totally fine. Everyone calls me that. Even though both my parents are Chinese, they both like my Japanese nickname, so even they call me Mii-chan.”
+[trivia] (p.61) Studying abroad — father came to Japan on business when she was in first year of middle school; not half-Japanese.
+[rel:shiina-hiyori] (p.63–65) Close across classes; panics at the “on a date?” joke; asks whether cross-class friends are great.
+[says] (p.63) “N-N-No! Not at all Hiyori-chan!”
+[trait] (p.60–62) Opens up once asked directly; blushing through the entrance-ceremony memory, then clouded by reality.
+[note] (p.59) p.59 blank between the two halves of the cafe talk.
+
+<!-- walk: y1v9 ch3 → p.75 -->

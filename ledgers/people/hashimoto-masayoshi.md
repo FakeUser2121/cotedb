@@ -215,3 +215,14 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [note] (p.48) Never names the original source; only admits helping pass rumors along.
 
 <!-- walk: y1v9 ch2 → p.50 -->
+
+### y1v9 p.51, 53, 56 — Leaving the gym; the dorm tail
+[scene] (p.51) Gym dispersal — Hashimoto pats Kanzaki’s shoulder on the way out.
+[says] (p.51) “Haven’t we said enough? Even if we continue the conversation, we won’t end up being able to agree on anything anyway.”
+[action] (p.51) Gestures farewell to Haruka and Airi and leaves toward the school building.
+[rel:kanzaki-ryuuji] (p.51) Ends the standoff by walking away while the conversation is declared unfinished.
+[rel:hasebe-haruka] (p.51) Farewell gesture; Haruka and Airi stay with the group.
+[rel:ayanokouji-kiyotaka] (p.51, 53, 56) Ayanokōji feels incongruity in how Hashimoto treats him now; later camera-confirms Hashimoto is following him and has come to the cafe.
+[note] (p.53, 56) Never looks at or speaks to Ayanokōji while passing; purpose of the tail not stated on these pages.
+
+<!-- walk: y1v9 ch3 → p.75 -->

@@ -616,3 +616,9 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.49) Katsuragi does not appear; only named in Kanzaki’s chain-of-command question.
 
 <!-- walk: y1v9 ch2 → p.50 -->
+
+### y1v9 p.70 — Sakayanagi’s Class A pattern recalled
+[rel:sakayanagi-arisu] (p.70) Narration: Sakayanagi deepened conflict inside her own class to defeat Katsuragi — the pattern Ichinose and Horikita use to expect an assault on Class B’s leader.
+[note] (p.70) Katsuragi does not appear; only named as the past target of Sakayanagi’s intra-class war.
+
+<!-- walk: y1v9 ch3 → p.75 -->

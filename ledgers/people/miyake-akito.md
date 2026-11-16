@@ -301,3 +301,16 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [note] (p.41) Club activity not named on these pages beyond “done with club activities?” — archery is implied by the search path, not stated as his club in the quoted lines.
 
 <!-- walk: y1v9 ch2 → p.50 -->
+
+### y1v9 p.51–52 — Delinquent history and Ryuuen’s neighbourhood
+[scene] (p.51) After the gym, the group walks back; Haruka needles Miyake about his past.
+[says] (p.52) “I don’t really wanna talk about it, Haruka. I don’t want it to spread around.”
+[says] (p.52) “Let me just say this, I wasn’t some famous delinquent. Honestly, someone else was the top delinquent at the school I went to, and he was much stronger than me.”
+[says] (p.52) “By the way, Class D’s Ryuuen went to the middle school right next to mine.”
+[rel:ryuuen-kakeru] (p.52) Their middle schools were neighbours; school conflicts brought them into contact — “that guy probably never took me very seriously.”
+[rel:hasebe-haruka] (p.52) Asks her to keep the talk inside the group; answers her “were you really strong?” with the top-delinquent demotion.
+[feat] (p.52) Origin of his ease with confrontation — grown up where “adults would live a disordered life” and kids were raised the same.
+[rel:hashimoto-masayoshi] (p.51) Present at the gym dispersal that prompts the walk-and-talk.
+[note] (p.52) Asks that the conversation not spread outside the group; Ayanokōji agrees it is somebody else’s problem.
+
+<!-- walk: y1v9 ch3 → p.75 -->

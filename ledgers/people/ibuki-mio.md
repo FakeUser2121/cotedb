@@ -630,3 +630,13 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:ayanokouji-kiyotaka] (p.143) Part of his theory that every special exam has loopholes the school cannot fully close.
 
 <!-- walk: y1v8 ch4 → p.147 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.56 — Camp group in Ayanokōji’s elimination list
+[rel:ryuuen-kakeru] (p.56) Named with Ryuuen, Ishizaki and Albert as the training-camp group.
+[note] (p.56) Does not appear; only in the internal list.
+
+<!-- walk: y1v9 ch3 → p.75 -->

@@ -417,3 +417,13 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.33–37) Her purpose with Yamauchi is not stated on these pages; only the invitation and departure are shown.
 
 <!-- walk: y1v9 ch2 → p.50 -->
+
+### y1v9 p.56, 70–71 — Named as the rumor source
+[rel:hashimoto-masayoshi] (p.56) Ayanokōji reasons she would have used Kamuro to monitor him, not Hashimoto — so the tail may not be hers.
+[rel:ichinose-honami] (p.70) Ichinose names her as the probable source because she declared war on Class B.
+[says:ichinose-honami] (p.70) “I absolutely can’t speak with certainty here, but if I had to guess I’d say it’s Sakayanagi-san.”
+[rel:horikita-suzune] (p.70–71) Horikita agrees the guess needs no further reason; Sakayanagi does not appear.
+[rel:katsuragi-kouhei] (p.70) Her intra-class war to defeat Katsuragi is the pattern behind the expected assault on Class B’s leader.
+[note] (p.56–71) Never present; only named as source, monitor-employer, and past Class A aggressor.
+
+<!-- walk: y1v9 ch3 → p.75 -->

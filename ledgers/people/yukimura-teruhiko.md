@@ -631,3 +631,9 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.38–40) Called “Keisei” and “Yukimu~” on these pages; roster id yukimura-teruhiko per standing decision.
 
 <!-- walk: y1v9 ch2 → p.50 -->
+
+### y1v9 p.52 — “Yukimuu” in the dorm-path talk
+[rel:hasebe-haruka] (p.52) Haruka is told to leave the name out of the group; Yukimuu is not present.
+[note] (p.52) Named only in the aside about who else heard the delinquent talk; does not appear.
+
+<!-- walk: y1v9 ch3 → p.75 -->

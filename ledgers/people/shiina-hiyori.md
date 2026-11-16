@@ -167,3 +167,25 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [note] (p.120) Grouped with Ichinose in the same large group, which surprises Ayanokōji.
 
 <!-- walk: y1v8 coverage → p.244 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.63–68 — Reading buddies and the Ichinose offer
+[scene] (p.63) Keyaki Mall cafe — Hiyori (Class D) spots Mii-chan with Ayanokōji and asks to join.
+[says] (p.63) “Oh? Mii-chan and… Ayanokouji-kun?”
+[says] (p.63) “Are the two of you, by any chance, on a date together?”
+[rel:wang-mei-yu] (p.63–65) Close cross-class friends — “reading buddies”; China talk with Ayanokōji covers for the real consultation.
+[note] (p.64) When Mii-chan asks whether the two are friends, one of them answers “Yep! We’re reading buddies.” and the other “Well, you’re not wrong.” — the translation tags no speaker; neither line is attributed here.
+[rel:ayanokouji-kiyotaka] (p.63–68) Waits for him in the lobby after the mailbox and asks him to cooperate on helping Ichinose.
+[says] (p.66) “That thing going on right now with Ichinose-san, have you heard anything about it?”
+[says] (p.66) “Honestly, I don’t want to see Ichinose-san tortured like this anymore. She’s the type of person who’s even willing to be friendly to somebody with barely any friends, like me.”
+[rel:ichinose-honami] (p.66–67) Training-camp bond; wants Class D (and maybe three classes) to help a mutual enemy without worsening Ichinose’s load.
+[says] (p.66) “When I first came here, I didn’t like this behavior that the school encourages, where we hurt others. But now, I think it’s necessary to fight from time to time in order to protect your friends.”
+[says] (p.67) “Even though we’re mutual enemies with Ichinose-san, there must be something we can do to help her. I haven’t been able to think of how yet, but… would you be willing to cooperate with me?”
+[rel:horikita-suzune] (p.67) Disappointed that the levers are Horikita and Hirata — she does not know them; defers the introduction.
+[trait] (p.68) Changes her mind about starting the conversation tonight so as not to spread the trouble any further.
+[says] (p.68) “I’m sorry, let’s do it at another time. If our conversation helps spread things any further, we may end up troubling Ichinose by just that much more.”
+
+<!-- walk: y1v9 ch3 → p.75 -->

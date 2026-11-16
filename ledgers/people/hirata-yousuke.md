@@ -1291,3 +1291,12 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [note] (p.30) Hirata does not speak again in this chapter after the one line; rows record how others treat the news.
 
 <!-- walk: y1v9 ch2 → p.50 -->
+
+### y1v9 p.56–62 — Mii-chan’s crush, Ayanokōji’s counsel
+[rel:wang-mei-yu] (p.56–62) She likes him since the entrance ceremony; Ayanokōji reads that he will be careful next time and that a hasty confession now means rejection.
+[rel:ayanokouji-kiyotaka] (p.57) Cited as Hirata’s own endorsement — “the most reliable person in the class.”
+[rel:karuizawa-kei] (p.56–57) The breakup with Karuizawa is the precondition for Mii-chan’s question; Ayanokōji notes nobody has seen him with anyone since.
+[limit] (p.58–60) Answered honestly “I don’t think so” — no known interest; his position as class mediator noted by Ayanokōji.
+[note] (p.56–62) Does not appear in person; only the subject of the cafe consultation.
+
+<!-- walk: y1v9 ch3 → p.75 -->

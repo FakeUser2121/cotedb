@@ -1340,3 +1340,9 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [note] (p.25) Narration only: no bad rumors about her, nothing but benevolent — Sakayanagi still does not believe she is purely good. Kushida is not present for that thought.
 
 <!-- walk: y1v9 ch1 → p.25 -->
+
+### y1v9 p.74 — Named in Ayanokōji’s growth theory
+[rel:horikita-suzune] (p.74) Ayanokōji guesses Horikita’s changes are tied to her effort to improve their relationship — Kushida is the reason for the effort.
+[note] (p.74) Does not appear; only named in Ayanokōji’s assessment of Horikita.
+
+<!-- walk: y1v9 ch3 → p.75 -->

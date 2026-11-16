@@ -329,3 +329,14 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [feat] (p.42) Says Miyache used to be bad himself — her read of why he is not afraid of Ryuuen’s class.
 
 <!-- walk: y1v9 ch2 → p.50 -->
+
+### y1v9 p.51–52 — Gym farewell and the delinquent talk
+[scene] (p.51) Gym dispersal; Haruka, Airi and Miyake stay talking after Hashimoto leaves.
+[rel:hashimoto-masayoshi] (p.51) Wishes it would have gone longer; Hashimoto’s farewell gesture cuts her off.
+[rel:miyake-akito] (p.52) Nudges the delinquent-history talk and answers his privacy request with “Were you really strong?”
+[says] (p.52) “Somehow, I feel like we just witnessed something totally awesome!”
+[says] (p.52) “It doesn’t matter, does it? You’re different now anyway. Were you really strong back then?”
+[rel:sakura-airi] (p.51) Stays in the group at the gym exit; both want the excitement to last.
+[note] (p.51) Not at the cafe; only present for the dorm-path walk after Hashimoto’s exit.
+
+<!-- walk: y1v9 ch3 → p.75 -->

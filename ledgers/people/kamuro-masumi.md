@@ -83,3 +83,15 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [scene] (p.125) Named when Sakayanagi’s group composition is discussed; Kamuro, not Sakayanagi, is said to have spoken.
 
 <!-- walk: y1v8 coverage → p.244 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.56 — Named as Sakayanagi’s preferred monitor
+[scene] (p.56) Cafe sugar counter — Ayanokōji reasons about Hashimoto’s tail.
+[rel:sakayanagi-arisu] (p.56) His read: if Sakayanagi wanted tabs on him she would have forced Kamuro to do it, not Hashimoto.
+[rel:hashimoto-masayoshi] (p.56) Implied contrast — Kamuro is the type Sakayanagi would trust with a covert watch; Hashimoto is not.
+[note] (p.56) Kamuro does not appear; only named in Ayanokōji’s internal elimination of who could be tailing him.
+
+<!-- walk: y1v9 ch3 → p.75 -->

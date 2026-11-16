@@ -1096,3 +1096,10 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [note] (p.28–29) Kei is present for the circle but her own lines on p.29 are the only quoted speech; the dumping itself is reported by Horikita and narrated, not re-enacted on these pages.
 
 <!-- walk: y1v9 ch2 → p.50 -->
+
+### y1v9 p.56–57 — The breakup as premise
+[rel:hirata-yousuke] (p.56–57) Mentioned as his ex-girlfriend — the reason Mii-chan now asks whether he likes anyone; no one has seen him with anyone since.
+[rel:ayanokouji-kiyotaka] (p.57) Ayanokōji’s internal note: Mii-chan would have asked if Hirata were already dating; he reads the answer as honest.
+[note] (p.56–57) Does not appear; only named in the breakup context.
+
+<!-- walk: y1v9 ch3 → p.75 -->

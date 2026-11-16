@@ -1659,3 +1659,8 @@ Year 1 Volume 9 chapter 2 is the changing relationships chapter —
 breakup, slander note, Yamauchi summons, and the Hashimoto–Kanzaki
 gymnasium standoff. Determinism hash across consecutive builds:
 `a871f9e0724a630d02f867b7afb1d312`.
+
+Year 1 Volume 9 chapter 3 keeps the intention unchanged — Mii-chan’s
+Hirata consultation, Hiyori’s offer, and the Ichinose–Horikita–
+Ayanokōji meeting that ends in advice to do nothing. Determinism hash
+across consecutive builds: `56c4e12bc682b46950105485effec166`.
