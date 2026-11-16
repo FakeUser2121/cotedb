@@ -55,4 +55,15 @@ const type=(w,el,v)=>{el.value=v;el.dispatchEvent(new w.Event('input',{bubbles:t
  type(w,q,'horikta');await wait(300);
  ok(!$('#sr').hidden&&/Horikita/.test($('#sr').textContent),'fuzzy search "horikta" finds Horikita ('+$('#sr').querySelectorAll('a').length+')');w.close();
  w=await open('topics/who-knew-what.html');ok(w.document.querySelectorAll('.results .card').length>0,'topic page renders entry cards');w.close();
+ w=await open('index.html');$=s=>w.document.querySelector(s);
+ const H=w.document.documentElement;
+ ok(['full','static'].includes(H.dataset.fx),'boot sets data-fx ('+H.dataset.fx+')');
+ const tg=$('#fxtoggle');ok(!!tg,'FX toggle is mounted in the header');
+ if(tg){const before=H.dataset.fx;click(w,tg);ok(H.dataset.fx!==before,'toggle flips data-fx to '+H.dataset.fx);
+  click(w,tg);ok(H.dataset.fx===before,'toggle flips back to '+H.dataset.fx)}
+ if(tg&&H.dataset.fx!=='full')click(w,tg);
+ await wait(500);ok(H.dataset.fx==='full','full mode can be switched on by the toggle');
+ ok(!!$('.fxind'),'fx.js loads and mounts the tab indicator');
+ const tk=$('.task');if(tk){tk.dispatchEvent(new w.MouseEvent('pointerdown',{bubbles:true}));ok(true,'pointerdown on a task does not throw')}
+ w.close();
  console.log(fails?`\n${fails} FAILED`:'\nall browser checks passed');process.exit(fails?1:0)})();
