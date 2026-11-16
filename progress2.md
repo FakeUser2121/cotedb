@@ -2520,3 +2520,30 @@ volume “New named entities” beat said “ledger file” — reworded, R18
 caught it at 1 and it is back to 0. verify y1v9: 196 [says] + 60
 non-says ALL PASS; make check OK (R18 0, R19 82/82); gate exit 0; hash
 `f6ebafbfe3d02ea457fefaa960e9e8e6` twice. Next: ch5 pp.101–125.
+
+y1v9 ch5 Spreading Rumors (pp.101–125): Manabu call close and Valentine
+morning — Hirata’s six chocolates, Chabashira’s provisional-test rules
+(p.107–108), Sudō’s study ask with the “wanna drop out” line (p.109),
+empty Class B/Ichinose tail (p.109–111), Kei chocolate exchange (p.112–117,
+p.116 blank), then Hashimoto’s third-person shadowing section ending at
+Nagumo’s remark, Shimizu’s rejection call and the elevator to Ichinose’s
+floor. Stamps: one `y1v9 ch5 → p.125` per touched file; volume section
+carries the stamp in its body. 27 people ledgers touched (new files:
+shimizu-naoki, nishikawa-ryouko via ledger-new; motodoi-chikako,
+sumida-makoto, moriyama got first y1v9 blocks; hasebe-haruka absent, no
+stamp). Rule 12 sample of the 182 new rows: expulsions +1 (Sudō’s
+“drop out” voicing, p.109 — accepted as near-miss talk under the exam
+system), points 0, results +1 [rule] (provisional-test scoring, accepted
+— rule is in that topic’s owner-set marker list), who-knew-what +26
+(thinks 1, status 2, limit 6, note 17 — same structural membership as
+ch1–ch4 samples; pattern/list change still owner-gated), relationships
+79 new edges with mirroring depth in line with the shipped ch1–4 norm
+(43 of 172 unmirrored there); no topic pattern or membership changed.
+New tags: none. New entities: shimizu-naoki and nishikawa-ryouko ledger
+files for existing roster rows. Fixed before ship: Chabashira’s
+multi-page quote shortened to the p.107 sentence; the “Valen-” too-short
+[says] replaced with Ayanokōji’s full p.115 line; the volume “New named
+entities” beat said “ledgers” — R18 caught it at 1, reworded, back to 0.
+verify y1v9: 247 [says] (0 skipped) + 70 non-says ALL PASS; make check
+OK (R18 0, R19 82/82); gate exit 0; hash
+`27d39f3c798d24af40639d6f9733cb1d` twice. Next: ch6 pp.126–150.

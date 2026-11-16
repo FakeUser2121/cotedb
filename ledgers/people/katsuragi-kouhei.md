@@ -638,3 +638,9 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [rel:ichinose-honami] (p.81–83) Reads her silence as the variable the whole incident turns on.
 
 <!-- walk: y1v9 ch4 → p.100 -->
+
+### y1v9 p.118, 123 — Named in the tailer’s difficulty list
+[rel:hashimoto-masayoshi] (p.118, 123) Former Class A leader Hashimoto would serve under if the post changed hands; later named as one of the hard students to tail.
+[note] (p.118, 123) Does not appear; named in Hashimoto’s section only.
+
+<!-- walk: y1v9 ch5 → p.125 -->

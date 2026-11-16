@@ -21,3 +21,18 @@ char_id: motodoi-chikako · status: minor
 [note] (p.148) Full form printed: “Motodoi Chikako-san.”
 
 <!-- walk: y1v8 coverage → p.244 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.119–120 — Valentine chocolate in the hallway
+[scene] (p.119) After school hallway — tennis-club classmate runs to catch Hashimoto after he leaves the classroom.
+[says] (p.119) “U-um, Hashimoto-kun. Do you have a minute?”
+[says] (p.119) “This is chocolate. Because, uh, it’s Valentine’s day today.”
+[rel:hashimoto-masayoshi] (p.119–120) He accepts without showing he knows the intent; she blushes, nods and flees.
+[limit] (p.119) Narration: no possibility of a relationship — he judged no merits in going out with her.
+[trait] (p.119) Fidgety, unable to maintain composure — the scene has repeated for Hashimoto several times this day.
+[note] (p.119–120) No answer to the club line beyond “Y-yeah.”
+
+<!-- walk: y1v9 ch5 → p.125 -->

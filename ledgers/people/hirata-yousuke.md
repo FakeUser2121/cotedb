@@ -1300,3 +1300,16 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [note] (p.56–62) Does not appear in person; only the subject of the cafe consultation.
 
 <!-- walk: y1v9 ch3 → p.75 -->
+
+### y1v9 p.104–105, 122 — Six chocolates, then Hashimoto’s cover talk
+[scene] (p.104–105) Late Monday elevator — chocolates from six girls across Classes A–D waiting in the lobby.
+[says] (p.104) “Hey. Good morning Ayanokouji-kun.”
+[says] (p.104) “To be honest, I had planned on leaving earlier, but…”
+[limit] (p.105) Pushing it to the last minute because of several trips to his room with chocolates; smile still strenuous.
+[rel:ayanokouji-kiyotaka] (p.104–105) The elevator partner who parts before the chorus.
+[rel:hashimoto-masayoshi] (p.122) Cover conversation when Hashimoto comes to Class C — asked about a new girlfriend, says he is not looking.
+[says] (p.122) “Is that it? I’m not thinking about finding a new one right now.”
+[says] (p.122) “Haha… Something like that.”
+[rel:karuizawa-kei] (p.115, 122) Named as Yousuke — the chocolate’s original target; Hashimoto reads him as healing a broken heart.
+
+<!-- walk: y1v9 ch5 → p.125 -->

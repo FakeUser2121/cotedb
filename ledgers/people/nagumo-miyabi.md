@@ -370,3 +370,11 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [note] (p.100) Does not appear; named in Manabu’s call only.
 
 <!-- walk: y1v9 ch4 → p.100 -->
+
+### y1v9 p.120 — The remark that set the tail running
+[rel:hashimoto-masayoshi] (p.120) His enigmatic claim — Ayanokōji is somebody Manabu holds in higher esteem than anyone — is what changed Hashimoto’s evaluation.
+[rel:horikita-manabu] (p.120) The remark is framed as Manabu’s judgement, passed through the current president.
+[rel:ayanokouji-kiyotaka] (p.120) The subject; Hashimoto planned to pass it off as a joke and could not.
+[note] (p.120) Does not appear; named through his remark only.
+
+<!-- walk: y1v9 ch5 → p.125 -->

@@ -1247,3 +1247,17 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [note] (p.29–34) Present only in the morning gossip and named as absent at the invitation; no spoken line of Sudō’s is tagged on these pages.
 
 <!-- walk: y1v9 ch2 → p.50 -->
+
+### y1v9 p.105–109 — Chocolate interrogation and the study ask
+[scene] (p.105–106) Class C boys’ circle on Valentine’s Day — Sudō calls Ayanokōji over.
+[says] (p.105) “Did you get any chocolate?”
+[rel:ayanokouji-kiyotaka] (p.105–106) Glare-first interrogation about Horikita; released when he says there is no chance.
+[says] (p.106) “Don’t say weird stuff like that, you idiot. It has nothing to do with that.”
+[rel:horikita-suzune] (p.105–106, 109) Ike names the real question as chocolate from Horikita; Sudō later asks her to help him study.
+[says] (p.109) “Ah, Suzune. Uh… When’s a good time for you to help me with my studies?”
+[says] (p.109) “That’s… well, I don’t wanna drop out, ya know?”
+[limit] (p.109) The true aim was Valentine chocolate; club-season deflection shatters it.
+[rel:ike-kanji] (p.106–107) Rests a sympathetic hand on Ike when Ike also drew a blank.
+[trait] (p.106) Eyes not smiling, “demonic intensity” — nervous about Horikita and Ayanokōji since the camp.
+
+<!-- walk: y1v9 ch5 → p.125 -->

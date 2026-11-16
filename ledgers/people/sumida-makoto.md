@@ -21,3 +21,14 @@ char_id: sumida-makoto · status: minor
 [limit] (p.222) Order line only — no dialogue or result for him on these pages.
 
 <!-- walk: y1v8 ch9 → p.241 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.109–110 — One of the three Class B contacts
+[rel:ayanokouji-kiyotaka] (p.109–110) Named with Moriyama as a training-camp roommate Ayanokōji would have talked to — both gone from the classroom.
+[rel:kanzaki-ryuuji] (p.110) Together with Kanzaki as the missing reliable contacts on Ichinose’s absent day.
+[note] (p.109–110) Does not appear; named in the search of Class B only.
+
+<!-- walk: y1v9 ch5 → p.125 -->

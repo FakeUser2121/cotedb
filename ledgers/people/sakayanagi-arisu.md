@@ -443,3 +443,11 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.89–95) Present only as remembered speech; the narration is Kamuro’s, delivered in Ayanokōji’s room.
 
 <!-- walk: y1v9 ch4 → p.100 -->
+
+### y1v9 p.118, 120 — The employer whose approval ends matters
+[rel:hashimoto-masayoshi] (p.118, 121) His actual employer for the Ichinose rumors — and the person whose thumbs-down stops any plan against her follower.
+[rel:ryuuen-kakeru] (p.118) The leader Hashimoto prefers if power shifts; he would double-cross her for it.
+[rel:ayanokouji-kiyotaka] (p.102, 120–121) Ranked with Ryūen as too quick to overlook Ayanokōji — yet the one he suspects least of having noticed.
+[note] (p.118–121) Not present; named in Hashimoto’s section only.
+
+<!-- walk: y1v9 ch5 → p.125 -->

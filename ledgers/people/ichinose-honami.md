@@ -1074,3 +1074,13 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [note] (p.89) Kamuro asserts Ichinose hides the same secret — the shoplifting inference, stated on this volume’s pages.
 
 <!-- walk: y1v9 ch4 → p.100 -->
+
+### y1v9 p.110–111, 124–125 — The absent day and the floor
+[scene] (p.110) Class B classroom — Ichinose absent; two girls speculate about the reason.
+[rel:ayanokouji-kiyotaka] (p.110–111) Her absence feeds his question of who else could know the secret; he gets her room number and is blocked by friends at her door.
+[rel:kamuro-masumi] (p.111) Only her premise stands as proof so far; only Ichinose herself could disprove it.
+[rel:hashimoto-masayoshi] (p.124–125) The floor Ayanokōji rides to is hers, per Hashimoto’s lobby watch — he concludes the Class B girls got there first.
+[limit] (p.110) Not present all chapter — described through others’ talk and the empty classroom.
+[note] (p.110) The two girls’ exchange is tagged in neither speaker; recorded under the scene instead.
+
+<!-- walk: y1v9 ch5 → p.125 -->

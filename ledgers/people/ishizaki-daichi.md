@@ -415,3 +415,10 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [note] (p.56) Does not appear; only in the internal list.
 
 <!-- walk: y1v9 ch3 → p.75 -->
+
+### y1v9 p.121 — Named in the overthrown-leader doubt
+[rel:ryuuen-kakeru] (p.121) The story that Ryūen was overthrown by Ishizaki and others is something Hashimoto is still unconvinced by.
+[rel:hashimoto-masayoshi] (p.121) Named inside Hashimoto’s suspicion that Ayanokōji was involved in each event.
+[note] (p.121) Does not appear; named in Hashimoto’s reasoning only.
+
+<!-- walk: y1v9 ch5 → p.125 -->

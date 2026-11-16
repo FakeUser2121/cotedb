@@ -637,3 +637,10 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.52) Named only in the aside about who else heard the delinquent talk; does not appear.
 
 <!-- walk: y1v9 ch3 → p.75 -->
+
+### y1v9 p.113, 121 — Keisei, then the classroom alibi
+[rel:karuizawa-kei] (p.113) The Keisei tutoring idea is called unrealistic — tossing her into Ayanokōji’s group would cause problems.
+[rel:hashimoto-masayoshi] (p.121) Still in the classroom with Sakura, which kills Hashimoto’s guess that Ayanokōji left with them.
+[note] (p.113, 121) Present in name only — no direct speech this chapter.
+
+<!-- walk: y1v9 ch5 → p.125 -->

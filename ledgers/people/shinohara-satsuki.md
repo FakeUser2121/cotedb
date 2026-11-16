@@ -189,3 +189,11 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.29) Only her one line in this chapter; later Haruka in the cafe is a different classmate (Hasebe), not Shinohara.
 
 <!-- walk: y1v9 ch2 → p.50 -->
+
+### y1v9 p.106–107 — The romance everybody already knows
+[rel:ike-kanji] (p.106–107) The Ike–Shinohara pairing is open class knowledge; Ike is pressed about it in the circle.
+[says:ike-kanji] (p.106) “H-huh? Why bring up Shinohara now?” — Ike’s deflection, recorded here because it names her.
+[rel:sudou-ken] (p.107) The gossip is why no envy was in the voices — she is not popular within the class, per the narration.
+[note] (p.106–107) Not present; named in the boys’ talk only.
+
+<!-- walk: y1v9 ch5 → p.125 -->

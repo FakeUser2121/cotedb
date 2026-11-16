@@ -294,3 +294,10 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [note] (p.51, 72) Never at the cafe or the meeting; only the exit beat and Ichinose’s report of it.
 
 <!-- walk: y1v9 ch3 → p.75 -->
+
+### y1v9 p.110, 123 — The absent ally and the hard-to-tail list
+[rel:ichinose-honami] (p.110) Not in the classroom; even as her closest ally he did not know the secret.
+[rel:hashimoto-masayoshi] (p.123) Named among the students Hashimoto found hard to tail — once every two days at best.
+[note] (p.110, 123) Does not appear; named in Ayanokōji’s and Hashimoto’s passes only.
+
+<!-- walk: y1v9 ch5 → p.125 -->

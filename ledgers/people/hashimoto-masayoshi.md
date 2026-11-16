@@ -232,3 +232,29 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [note] (p.81) Does not appear; named in the source-elimination aside only.
 
 <!-- walk: y1v9 ch4 → p.100 -->
+
+### y1v9 p.118–125 — The tailer’s own section
+[scene] (p.118) Third-person section — whose side Hashimoto supports is trivial to him; he would take whichever leader benefits him.
+[rel:sakayanagi-arisu] (p.118, 121) Works under her orders spreading rumors about Ichinose, but would double-cross her if Ryūen could overtake the classes.
+[rel:ryuuen-kakeru] (p.118) Contacted Ryūen early in the year as insurance — “an ominous amount of strength”; ready to leak Class A information if asked.
+[rel:ichinose-honami] (p.118) Underhanded deals do not work on her, so he built a connection with someone in Class B close to her.
+[feat] (p.118) Set up a social network across every class immediately on entering the school — insurance against surprises.
+[rel:motodoi-chikako] (p.119–120) Takes her Valentine chocolate, keeps the option open, feels nothing.
+[says] (p.119) “Sure thing, Motodoi. What’s up?”
+[says] (p.120) “You should show your face around the club every once in a while.”
+[rel:ayanokouji-kiyotaka] (p.120–125) Shadowing project — Nagumo’s remark about Manabu valuing Ayanokōji most, relay doubts, Ryūen’s fall, Class C closing the gap.
+[says] (p.120) “Why is it that I care so much about him…”
+[says] (p.121) “What if… he’s an existence that surpasses both Sakayanagi and Ryūen…?”
+[says] (p.121) “You never do waste time, do you Ayanokōji?”
+[rel:nagumo-miyabi] (p.120) Carries the current president’s enigmatic claim — Ayanokōji is who Manabu holds in higher esteem than anyone.
+[rel:hirata-yousuke] (p.122) Uses him as cover in the classroom; learns Ayanokōji left a minute or two ago.
+[rel:shimizu-naoki] (p.123–124) Takes Shimizu’s complaint call mid-tail and promises to call back in the evening.
+[says] (p.123) “Hello. Has something happened, Naoki?”
+[rel:katsuragi-kouhei] (p.123) Names him among the hard-to-tail students — unlike Ayanokōji, whose routines are fixed.
+[rel:ichinose-honami] (p.124–125) Watches Ayanokōji ride to Ichinose’s floor and back down; concludes the girls got there first.
+[says] (p.124) “If my memory serves me right… that’s the floor Ichinose is on, isn’t it?”
+[says] (p.125) “So in the end, I don’t find out anything today either, huh?”
+[says] (p.125) “I’m looking forward to seeing where this goes from here.”
+[limit] (p.122) Cannot afford to tail every day with the end-of-year exams close — wants a definitive conclusion first.
+
+<!-- walk: y1v9 ch5 → p.125 -->

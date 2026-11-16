@@ -579,3 +579,14 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [rel:horikita-suzune] (p.99–100) His sister is the target of the expel request; he brings the threat unprompted.
 
 <!-- walk: y1v9 ch4 → p.100 -->
+
+### y1v9 p.101–102 — Closing the call
+[rel:nagumo-miyabi] (p.101) Confirms Nagumo told Hashimoto about Ayanokōji during the training camp.
+[says] (p.101) “It’s as you say. During the training camp, Nagumo told Hashimoto about you. That said, Hashimoto still probably hasn’t reached the conclusion that you’re the student manipulating Suzune.”
+[rel:hashimoto-masayoshi] (p.101) Hashimoto is poking around for the truth rather than holding a conclusion.
+[rel:horikita-suzune] (p.101) If Suzune drops out that is her own responsibility, but Ayanokōji’s name was listed too.
+[says] (p.102) “I’ve given you the information. It’s up to you to decide what to do with it.”
+[feat] (p.102) Rated by Ayanokōji as smaller network than Nagumo but far higher credibility and accuracy.
+[note] (p.101–102) Voice only — the call ends at p.102.
+
+<!-- walk: y1v9 ch5 → p.125 -->

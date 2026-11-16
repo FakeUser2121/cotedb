@@ -1357,3 +1357,11 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [note] (p.100) Not present; reported through Manabu’s call.
 
 <!-- walk: y1v9 ch4 → p.100 -->
+
+### y1v9 p.107–108 — Chocolate for every first-year boy; the tea plan
+[rel:ike-kanji] (p.107) Her pink-ribbon chocolate is Ike’s consolation; every male first-year got one.
+[rel:horikita-suzune] (p.108) Agrees to tea at Keyaki Mall after class — the change Horikita reports.
+[rel:ayanokouji-kiyotaka] (p.107) Ayanokōji notes he had not expected her to give every male first-year chocolate and wonders how she managed it.
+[note] (p.107) Not on the page — named through the boys’ chocolate talk and Horikita’s plan.
+
+<!-- walk: y1v9 ch5 → p.125 -->

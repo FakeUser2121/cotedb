@@ -1464,3 +1464,12 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [note] (p.100) Does not appear; recalled in the call’s analysis only.
 
 <!-- walk: y1v9 ch4 → p.100 -->
+
+### y1v9 p.118, 121 — Hashimoto’s insurance and the fall
+[rel:hashimoto-masayoshi] (p.118) Contacted Hashimoto early in the year; would have received Class A leaks if he asked.
+[rel:sakayanagi-arisu] (p.118) The alternative leader Hashimoto would switch to if Ryūen could overtake the classes.
+[rel:ishizaki-daichi] (p.121) The overthrown-by-Ishizaki story Hashimoto still finds unconvincing.
+[rel:ayanokouji-kiyotaka] (p.121) Part of the “surpasses both Sakayanagi and Ryūen” suspicion.
+[note] (p.118, 121) Not present; named in Hashimoto’s reasoning only.
+
+<!-- walk: y1v9 ch5 → p.125 -->

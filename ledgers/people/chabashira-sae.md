@@ -873,3 +873,12 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [note] (p.39–40) Chabashira does not appear; only named as the source of the (non-)briefing.
 
 <!-- walk: y1v9 ch2 → p.50 -->
+
+### y1v9 p.107–108 — The provisional test briefing
+[scene] (p.107–108) End of lessons — Chabashira explains tomorrow’s comprehensive provisional test.
+[says] (p.107) “Tomorrow on the 15th, all of you will be expected to complete a comprehensive provisional test.”
+[rule] (p.107–108) Provisional exam on the 15th has no effect on grades; questions similar to the finals; warning not to slack after promotion to Class C.
+[rel:ayanokouji-kiyotaka] (p.108) Her briefing closes the day right before he questions Horikita about Kushida.
+[status] (p.108) Class C promoted — the warning names the promotion explicitly.
+
+<!-- walk: y1v9 ch5 → p.125 -->

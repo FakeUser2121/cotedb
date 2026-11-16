@@ -912,3 +912,14 @@ aliases used for anchors: sakura, airi, sakura-san
 [note] (p.51) Only this beat in the chapter — she does not go to the cafe or the meeting.
 
 <!-- walk: y1v9 ch3 → p.75 -->
+
+### y1v9 p.103, 109 — Morning text and hallway call
+[rel:ayanokouji-kiyotaka] (p.103, 109) Texts asking for morning time; when he refuses the group, gets him to promise sometime after six.
+[says] (p.103) “[Kiyotaka-kun, do you have a bit of time this morning? Is it fine if I come by your room?]”
+[says] (p.109) “Kiyotaka-kun!”
+[says] (p.109) “I-it’s fine if you’re late, so could you still try joining up with everyone?”
+[trait] (p.109) Reserved call from behind, then a beaming smile when he agrees — “reservedly being called.”
+[rel:hasebe-haruka] (p.109) Part of the Ayanokōji Group still together after six.
+[note] (p.103–109) Present through texts and one hallway exchange; not in the classroom circle.
+
+<!-- walk: y1v9 ch5 → p.125 -->

@@ -4346,3 +4346,49 @@ walk: y1v1 → DONE
 [says] (p.100) “I wonder what happened that prompted her to change strategies?”
 
 <!-- walk: y1v9 ch4 → p.100 -->
+
+### y1v9 p.101–102 — Ending Manabu’s call
+[rel:horikita-manabu] (p.101–102) Takes the rest of the call; notes Nagumo told Hashimoto about him at the camp.
+[says] (p.101) “What’s the possibility that Nagumo got in touch with Hashimoto?”
+[rel:hashimoto-masayoshi] (p.101) Realises Hashimoto’s behaviour change traces to camp-end information about him.
+[feat] (p.101) Deduces the leak from a change in Hashimoto’s behaviour between the start and end of the training camp.
+[rel:kushida-kikyou] (p.101) Learns Kushida listed his name to Nagumo as a troublesome existence.
+[rel:nagumo-miyabi] (p.101–102) Judges him all-bases-covered and unsuitable for a wait-and-see approach — decides to move first.
+[rel:sakayanagi-arisu] (p.102) Rates a follower’s distrust as low risk: Sakayanagi’s thumbs-down ends any matter.
+
+### y1v9 p.103–109 — Valentine’s morning and after class
+[scene] (p.103) Monday, February 14 — phone back on after the shower; Airi’s text and Kei’s missed call.
+[rel:sakura-airi] (p.103, 109) Answers her morning text, then promises the Ayanokōji Group after six.
+[says] (p.103) “[Sorry. I was in the shower so I didn’t notice your messages. There isn’t much time right now. Can we talk at school?]”
+[rel:hirata-yousuke] (p.104–105) Elevator encounter with six chocolates waiting; parts to avoid the girls.
+[trait] (p.105) “I’ve never been given chocolates before…” — muttered aloud, then surprised at his own desire.
+[rel:sudou-ken] (p.105–106) Gives the flat answer about Horikita and is released from the glare.
+[says] (p.106) “I didn’t get anything from her. There’s no chance she’d give me anything.”
+[rel:ike-kanji] (p.106–107) Nods along the Shinohara gossip when Ike asks him directly.
+[rel:horikita-suzune] (p.108) Deflects her Kushida talk with ridicule, then leaves.
+[says] (p.108) “How’s it going with Kushida?”
+[says] (p.108) “Glad to hear it. See you.”
+[rel:chabashira-sae] (p.107–108) Hears the provisional-test briefing before asking Horikita about Kushida.
+
+### y1v9 p.109–111 — The quiet Class B and the tail turned
+[scene] (p.109–110) Class B classroom after school — Ichinose absent, the three usual contacts gone.
+[rel:ichinose-honami] (p.110–111) Tracks her absence back to the events of days ago; suspects only she can disprove Kamuro’s premise.
+[feat] (p.111) Gets her room number from dormitory management on a pretext while walking.
+[rel:hashimoto-masayoshi] (p.111) Feels the tail by day and evening and decides the watch is exactly what makes showing his move worthwhile.
+[says] (p.111) “If Nagumo abandoned Ichinose and sided with Sakayanagi, it would be possible.”
+[rel:kanzaki-ryuuji] (p.110–111) Notes even the closest ally did not know the secret.
+[goal] (p.111) Means to confirm things with Ichinose in person today; her floor’s knot of friends blocks it.
+
+### y1v9 p.112–117 — Five o’clock with Kei
+[scene] (p.112) Cold, unpopular meeting place a short walk from the dorms — chosen so the lobby cannot be used.
+[rel:karuizawa-kei] (p.112–117) Gives her the unknown-number errand and receives her Valentine chocolate.
+[rel:ayanokouji-atsuomi] (p.114) The unregistered number from the night call is what he wants checked.
+[feat] (p.114) Tried calling the number back; the other side is always off.
+[says] (p.114) “Yeah. That’s why I called you out here today. But, don’t be careless with how you go about it.”
+[says] (p.115) “This is an easier question than I imagined. So much so that I feel like I’m being tricked into giving a wrong answer.”
+[rel:hirata-yousuke] (p.115) The chocolate was originally meant for Yousuke, Kei says; Ayanokōji says it never crossed his mind.
+[says] (p.115) “Sorry. It never crossed my mind.”
+[rel:nagumo-miyabi] (p.113) Names the March special exam as the danger beyond passing the end-of-term tests.
+[thinks] (p.113) Only after the first-year curriculum is cleared is Kei safe — the battle runs to the bitter end.
+
+<!-- walk: y1v9 ch5 → p.125 -->

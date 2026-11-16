@@ -707,3 +707,9 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [note] (p.85) Does not appear; named in Kamuro’s line only.
 
 <!-- walk: y1v9 ch4 → p.100 -->
+
+### y1v9 p.107 — Absent from the chocolate circle
+[rel:shinohara-satsuki] (p.107) Would have shown poor irritation over the Ike gossip, but “he was nowhere to be seen at the moment.”
+[note] (p.107) Named in the narration only; does not appear.
+
+<!-- walk: y1v9 ch5 → p.125 -->

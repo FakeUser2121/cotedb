@@ -1103,3 +1103,19 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [note] (p.56–57) Does not appear; only named in the breakup context.
 
 <!-- walk: y1v9 ch3 → p.75 -->
+
+### y1v9 p.112–117 — The errand and the chocolate
+[scene] (p.112) Cold off-campus meeting place — she complains about the venue, accepts the covert logic.
+[rel:ayanokouji-kiyotaka] (p.112–117) Takes the unknown-number check, then gives him her Valentine chocolate.
+[says] (p.112) “Ah, it’s chilly. Why are we meeting up at a place like this? There are other options, you know?”
+[says] (p.113) “Could you help me study?”
+[limit] (p.113) Studies are failing her — end-of-year exams will be difficult; agrees to midnight tutoring rather than risk dropping out.
+[rel:hirata-yousuke] (p.115) The chocolate was originally for Yousuke — a month after resolving to break up.
+[says] (p.115) “I was originally going to give it to Yousuke-kun, but there’s no reason for me to do that anymore.”
+[says] (p.115) “I-I make careful preparations ahead of time, okay? Even though I had already decided to break up with him, there was still a chance I would need to have it, you know?”
+[says] (p.117) “Serves you right. A man absolutely unsuitable for others~”
+[rel:nagumo-miyabi] (p.112–113) Asks whether a special exam is due this month — Ayanokōji names the March exam instead.
+[trait] (p.115–117) Changes the subject twice, then stares and swallows her words when he looks back.
+[status] (p.115) “You’re giving me this?” accepted — present handed over and bagged before they part.
+
+<!-- walk: y1v9 ch5 → p.125 -->

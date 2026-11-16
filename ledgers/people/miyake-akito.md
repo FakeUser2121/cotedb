@@ -314,3 +314,10 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [note] (p.52) Asks that the conversation not spread outside the group; Ayanokōji agrees it is somebody else’s problem.
 
 <!-- walk: y1v9 ch3 → p.75 -->
+
+### y1v9 p.107, 122 — Chocolate in the circle; the friend-group guess
+[rel:hasebe-haruka] (p.107) A Class B girl offers Akito a box of chocolates while the boys stew.
+[rel:hashimoto-masayoshi] (p.122) Hashimoto guesses Ayanokōji may be with Yukimura, Miyake and that group — then dismisses it.
+[note] (p.107, 122) Named in the classroom scenes; no direct speech this chapter.
+
+<!-- walk: y1v9 ch5 → p.125 -->

@@ -1669,3 +1669,8 @@ Year 1 Volume 9 chapter 4 is the two secrets chapter — the criminal
 letter in the mailboxes and Kamuro’s shoplifter confession with the
 beer proof, closing on Manabu’s call about Kushida and Nagumo.
 Determinism hash across consecutive builds: `f6ebafbfe3d02ea457fefaa960e9e8e6`.
+
+Year 1 Volume 9 chapter 5 is the spreading-rumors chapter — the
+provisional-test rules, Sudō’s study ask, Ichinose’s empty room and
+Hashimoto’s shadowing tail ending at the elevator to Ichinose’s floor.
+Determinism hash across consecutive builds: `27d39f3c798d24af40639d6f9733cb1d`.

@@ -43,3 +43,14 @@ char_id: moriyama · status: minor
 
 
 <!-- walk: y1v8 ch9 → p.241 -->
+
+## y1v9
+
+<!-- walk: y1v9 → start -->
+
+### y1v9 p.109–110 — Named with Sumida in the empty room
+[rel:ayanokouji-kiyotaka] (p.109–110) Training-camp roommate named as an alternative to Kanzaki for a reliable Class B contact — not in the classroom.
+[rel:sumida-makoto] (p.110) Paired with Sumida as the two who “would’ve also been fine.”
+[note] (p.109–110) Does not appear; named in the search only.
+
+<!-- walk: y1v9 ch5 → p.125 -->

@@ -859,3 +859,15 @@ aliases used for anchors: ike, kanji, ike-kun
 [note] (p.35) Spots the group in the corridor and redirects them: “Ahh, stop stop. This way, this way!” — Professor is already there.
 
 <!-- walk: y1v9 ch2 → p.50 -->
+
+### y1v9 p.105–107 — Grin, gesture, and the Shinohara gossip
+[rel:sudou-ken] (p.106–107) Sours Sudō’s secret with a sly grin, then shares the boat — Kushida’s chocolate was his consolation.
+[says] (p.106) “To explain, it seems like he’s really asking if you’ve gotten any chocolate from Horikita.”
+[says] (p.106) “Well, I can understand why Ken is nervous. After all, that Ayanokōji is a monster, you know~?”
+[action] (p.106) Draws the water-bottle outline in the air — the camp night everyone still talks about.
+[rel:shinohara-satsuki] (p.106–107) Pressed about Shinohara, groans and crouches to hide his reddening face.
+[says] (p.107) “No, it’s fine. I got chocolates from Kushida-chan, after all.”
+[rel:kushida-kikyou] (p.107) Flaunts the pink-ribbon box; notes all the guys got something.
+[rel:ayanokouji-kiyotaka] (p.106) Calls him a monster with the gesture; asks whether he knew about Shinohara.
+
+<!-- walk: y1v9 ch5 → p.125 -->

@@ -2867,3 +2867,17 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (p.100) Not present; named in Manabu’s call only.
 
 <!-- walk: y1v9 ch4 → p.100 -->
+
+### y1v9 p.108–109 — The Kushida tea and Sudō deflected
+[rel:kushida-kikyou] (p.108) Reports she is changing little by little and accepts Ayanokōji’s ridicule of the plan.
+[says] (p.108) “I wonder. I’m hard at work planning out how to improve my relationship with her. Are you looking to cooperate?”
+[says] (p.108) “Kushida-san has been changing, little by little.”
+[says] (p.108) “Today, after we wrap things up here, I’ll be having tea together with her at Keyaki Mall. The Kushida from before would’ve turned down such an offer without hesitation.”
+[rel:ayanokouji-kiyotaka] (p.108) Takes his “Glad to hear it. See you.” as ridicule — a trace of contempt, then looks away.
+[rel:sudou-ken] (p.109) Deflects his study request until after the provisional exams because club season has not broken.
+[says] (p.109) “That’s quite proactive of you, Sudō-kun.”
+[says] (p.109) “Any time works for me. Even today.”
+[says] (p.109) “However your club activities still haven’t gone on break yet, have they? We’ll have time for studying after the provisional exams.” — printed as “However“Your club activities”.
+[goal] (p.108) Expects tea with Kushida to produce mutual understanding — Ayanokōji reads the development as only superficial.
+
+<!-- walk: y1v9 ch5 → p.125 -->
