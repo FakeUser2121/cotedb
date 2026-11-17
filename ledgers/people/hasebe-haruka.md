@@ -519,7 +519,7 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 
 <!-- walk: y3v2 Epilogue → p.263 -->
 
-### y3v2 Ch.5 — depth read: Hasebe's guilt and Sakura's success
+### y3v2 p.152–181 — Ch.5 — depth read: Hasebe's guilt and Sakura's success
 [scene] (p.169) Appears in the hallway to the library and hesitantly asks to talk to Ayanokōji.
 [says] (p.170) "I... I wanted to talk for a bit, if that's... okay?"
 [says] (p.172) "You remembered."

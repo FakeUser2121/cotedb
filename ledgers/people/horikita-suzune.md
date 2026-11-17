@@ -3593,7 +3593,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y3v2 Epilogue → p.263 -->
 
-### y3v2 Ch.3 — depth read: Horikita's leadership tested
+### y3v2 p.66–125 — Ch.3 — depth read: Horikita's leadership tested
 [scene] (p.67) Calls for calm in Class A after Chabashira's cold announcement and proposes brainstorming the exam rules.
 [says] (p.67) "The special exam doesn't start until tomorrow, so just panicking here is a waste of time. First, we should calm down, brainstorm ideas, and discuss things."
 [says] (p.71) "It's necessary for the class to unite once again. I don't want you to disrupt that harmony."
@@ -3610,7 +3610,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:kushida-kikyou] (p.111–113) Talks with her after Ibuki leaves; draws the key insight about Chabashira's hint.
 [rel:sudou-ken] (p.115–125) Shares her theory with him, borrows him for the Kōenji visit, and thanks him.
 
-### y3v2 Epilogue — depth read: investigating Ayanokōji's past
+### y3v2 p.231–263 — Epilogue — depth read: investigating Ayanokōji's past
 [says] (p.231) "Good morning, I apologize for contacting you so suddenly last night."
 [says] (p.231) "If that's what you were expecting, then I'm afraid I'll have to apologize. I didn't invite you to hang out for fun."
 [says] (p.232) "You're sharp. That is one of my objectives."
@@ -3622,6 +3622,114 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ishigami-kyou] (p.238–246) Is approached by him; receives the lead about Nanase and agrees to keep his identity secret.
 [rel:amasawa-ichika] (p.235–236) Tails her as a possible link to Ayanokōji's past.
 [rel:nanase-tsubasa] (p.244–246) Learns from Ishigami that she may know Ayanokōji's past; plans to investigate.
+
+### y3v2 p.66–68 — Class A reels from Chabashira's cold announcement
+[scene] (p.66) Waters as Chabashira announces the exam with no rules and leaves; the class grumbles.
+[says] (p.67) "The special exam doesn't start until tomorrow, so just panicking here is a waste of time. First, we should calm down, brainstorm ideas, and discuss things."
+[says] (p.68) "If we pool our wisdom, it's possible we can get closer to the rules."
+[trait] (p.66–68) Calm and proactive — calls for brainstorming while others complain; reads Chabashira's coldness as possibly a way to make the class refocus, not mere harassment.
+[rel:kouenji-rokusuke] (p.69–73) Chases him down after he walks out; he rebuffs her with his "contract."
+
+### y3v2 p.69–73 — Confronting Kōenji in the hallway
+[says] (p.70) "Would you mind waiting a moment?"
+[says] (p.70) "I just want you to at least hear me out."
+[says] (p.71) "It's necessary for the class to unite once again. I don't want you to disrupt that harmony."
+[says] (p.71) "Yes, I am aware of that. But all I'm asking is for you to listen to the discussion."
+[says] (p.72) "It's true that Ayanokouji-kun left our class. But we didn't win through his power alone."
+[says] (p.72) "Yes, that might be true. But that doesn't mean it's okay for me to just stand still here, does it?"
+[says] (p.73) "Without his cooperation, we might not be able to graduate from Class A."
+[trait] (p.69–73) Persistent but rattled — presses Kōenji about "unity," is stung by his claim that Class A only won through Ayanokōji, and admits he is right that she has not truly grown.
+[rel:kouenji-rokusuke] (p.69–73) He calls her "Horikita Girl," cites their contract, bluntly says victory is impossible while she leads, and warns her not to make an enemy of him.
+
+### y3v2 p.86–88 — The student council case: deducing a girl attacked the first-years
+[scene] (p.86) Reviews the case of first-years Kusanagi and Maki with Nanase in the student council room.
+[says] (p.87) "Boys can be a bit childish in the way they think, don't you agree?"
+[says] (p.87) "But what if their opponent wasn't a boy... but a girl... and just one at that?"
+[says] (p.87) "Since neither of them is filing a complaint, we have no choice but to investigate."
+[says] (p.87) "I'm nothing special. I was told I was exceptional quite often back in middle school, but..."
+[says] (p.88) "A mediocre Horikita-senpai isn't bad at all." — Nanase, correcting her
+[trait] (p.86–88) Sharp deductive reasoning — realizes two proud boys would be too embarrassed to admit losing to a single girl, and asks Nanase to help investigate; brushes off her praise with honest self-doubt.
+[rel:nanase-tsubasa] (p.86–88) Works the case with her; Nanase admires her and calls her "amazing."
+
+### y3v2 p.89–93 — The supermarket: asking Karuizawa's opinion
+[scene] (p.89) Meets Karuizawa at the Keyaki Mall supermarket to discuss the exam.
+[says] (p.90) "We can't keep doing the same things as always. That's why I want to take a step toward changing things."
+[says] (p.90) "You're really merciless, Horikita-san. But, y'know, I like that about you." — Karuizawa
+[says] (p.91) "This is just my guess, but I think Class C and Class D are connected." — Karuizawa
+[says] (p.91) "...I don't think the possibility is low."
+[trait] (p.89–93) Genuinely seeks Karuizawa's view as a way to change the class's thinking; recognizes she is "far more clever" than credited.
+[rel:karuizawa-kei] (p.89–93) Consults her; they grow closer as she values her opinion.
+[rel:ayanokouji-kiyotaka] (p.91) Reasons he would give Ichinose information to hurt Class A because he knows it better than anyone.
+
+### y3v2 p.96–114 — The wagyu dinner; probing Ibuki and Kushida about Ayanokōji
+[scene] (p.96) Cooks a meal (kuroge wagyu hamburger steak, rice) for Ibuki and Kushida in her room, intending to ask their opinions.
+[trivia] (p.96) The ingredients cost twice her usual budget; she notes the noisy voices of her two guests now reach her "like strangely calming music" — a shift in perspective.
+[trivia] (p.96–97) Admits to herself she told Ibuki a small lie — that she has fully recovered from Ayanokōji's departure; her wounded heart is far from healed, and the lie was meant to prevent another victim of Ibuki's kicks and to deceive herself.
+[says] (p.101) "I want to hear both of your opinions."
+[says] (p.101) "Regarding Ayanokouji-kun, who has become quite the topic of conversation."
+[says] (p.101) "It seems that when you think of 'defeating him,' you only consider it in a physical sense."
+[says] (p.104) "Wanting to know his roots, I actually went to the three-way conference hoping to meet his parents."
+[says] (p.104) "It was his father who came for the interview, and while he had a somewhat stern look, he was a calm, ordinary person."
+[says] (p.104) "Even among them, Ayanokouji-kun feels... anomalous... as if he alone is clearly standing on a different plane."
+[inference] (p.102–109) Reconstructs Ayanokōji's background: Ibuki and Kushida both suspect he has a "secret," Yagami and Amasawa knew him and bore resentment, and he avoided leaving any trace (no middle-school records online) — concluding their relationship was more than mere acquaintance.
+[trait] (p.96–114) Vulnerable under the confident surface — still wounded by the transfer, deifying Ayanokōji to preserve her peace of mind, yet methodically gathering intelligence.
+[rel:ibuki-mio] (p.96–110) Feeds her and probes her for insights into Ayanokōji; Ibuki says beating him is impossible and calls her "useless."
+[rel:kushida-kikyou] (p.96–113) Shares the meal; Kushida reveals Yagami was not actually her kouhai and that Ayanokōji got him expelled to save her.
+[rel:ayanokouji-atsuomi] (p.104) Met his father at the three-way conference — "calm, ordinary," claimed nothing special about his education; she suspects a lie.
+
+### y3v2 p.111–114 — Kushida's goodbye; the conduct-exam breakthrough
+[scene] (p.111) After Ibuki leaves, Kushida lingers and thanks her for the meal before departing.
+[says] (p.112) "But Class C has Ayanokouji-kun."
+[says] (p.112) "It's strange, isn't it? ... just hearing his name makes my body instinctively tense up and feel intimidated."
+[says] (p.112) "Even so, I'll fight with the belief that I can win."
+[says] (p.113) "I just love the cute me who pretends to be kind."
+[says] (p.113) "I expect your strength isn't just for show."
+[trait] (p.111–113) Reflects on Kushida's way of life — endlessly concerned with appearances — and is impressed; resolves to live up to her parting words.
+[inference] (p.114) Noticing the mess Ibuki left (spilled miso soup, rice grains), and recalling Chabashira's coldness and "show me you've grown," she realizes the exam likely observes daily conduct/manners — and must secure Kōenji's cooperation by tomorrow.
+
+### y3v2 p.115–124 — Enlisting Sudō and Onodera; the Kōenji deal
+[scene] (p.115) Visits Sudō's room after 8 p.m. to explain her conduct-exam theory; Onodera is there studying with him.
+[says] (p.115) "I apologize for visiting without notice. I have something I'd like to talk about."
+[says] (p.117) "Your guess isn't technically wrong, Onodera-san."
+[says] (p.117) "That's how I interpreted it."
+[says] (p.118) "I want to share this with the entire class today and have them lead a thoroughly disciplined life starting tomorrow."
+[says] (p.119) "But that's impossible, ain't it? Gettin' that guy to do what he's told." — Sudō
+[says] (p.119) "Simply asking him will likely be impossible. However, I have an idea."
+[says] (p.121) "If you exhibit no problematic behavior whatsoever, just like the other classmates, I will pay you 200,000 Private Points."
+[says] (p.121) "Coincidentally, that is precisely what I was thinking, myself." — Kōenji
+[says] (p.122) "The deal is done. And don't speak of this contract to anyone."
+[inference] (p.114–124) Concludes from Chabashira's coldness and "show me you've grown" that the exam observes daily conduct; identifies Kōenji as the one obstacle who could drag Class A down and secures his "discipline" for 500,000 points.
+[trait] (p.115–124) Decisive and calculating — shares the plan only with trusted students, takes a gamble on the conduct theory, and accepts Kōenji's extortion because ordinary requests wouldn't work with him.
+[rel:sudou-ken] (p.115–119) Brings him along to Kōenji's room as backup; he readily agrees.
+[rel:onodera-kayano] (p.115–119) Explains the plan to her too; she is studying with Sudō.
+[rel:kouenji-rokusuke] (p.120–124) Negotiates in his room; he doubles her 200,000 offer to 500,000 and sees through her bluff about the upper limit.
+[rel:karuizawa-kei] (p.118) Recalls her fear that the information might reach Class D.
+
+### y3v2 p.231–237 — Meeting Karuizawa; tailing Amasawa
+[scene] (p.231) Meets Karuizawa near the dorm lobby on a Saturday before 11 a.m., in uniform for a 2 p.m. Student Council matter.
+[says] (p.231) "Good morning. I apologize for contacting you so suddenly last night."
+[says] (p.232) "You're sharp. That is one of my objectives."
+[says] (p.234) "I have no intention of keeping secrets or telling you any clumsy lies, either."
+[says] (p.235) "Amasawa Ichika-san has a connection to Ayanokouji-kun's past."
+[says] (p.235) "You seem awfully excited about this."
+[trait] (p.231–237) Opens up to Karuizawa about wanting to defeat Ayanokōji and investigate his roots; trusts her discretion and enjoys tailing Amasawa despite herself.
+[rel:karuizawa-kei] (p.231–237) Invites her to help; she knows Ayanokōji best and agrees to answer, though she blushes at "anything."
+[rel:amasawa-ichika] (p.235–237) Tails her through Keyaki Mall, noting she acts alone and forms no close relationships; loses the lead when a message calls Horikita away.
+
+### y3v2 p.237–247 — The unexplained message; Ishigami's consultation
+[scene] (p.237) Receives an unregistered text, "I'm waiting in the Student Council room," and rushes to school, but the room is empty — a prank.
+[says] (p.241) "Were you the one who sent me the message?"
+[says] (p.241) "So you're not going to start with denial."
+[says] (p.243) "To know your enemy, you must get inside their camp."
+[says] (p.244) "If that's what you wish, I promise to protect your anonymity."
+[says] (p.244) "Perhaps she simply wasn't telling the truth?"
+[says] (p.245) "I can't doubt her without reason."
+[says] (p.246) "Yes, thank you. Even if I'm pressed for information, I'll protect you at all costs."
+[inference] (p.241–247) Ishigami reveals Nanase knew Ayanokōji from early on and may have orchestrated the first-year alliance just to contact him — a possibility Horikita can't dismiss, though Nanase had told her she didn't know.
+[trait] (p.241–247) Sharp and methodical — deduces Ishigami sent the message and confirmed she was alone before approaching; promises anonymity and presses for the truth, feeling she is "sinking into a swamp."
+[rel:ishigami-kyou] (p.238–247) He sends the message, reveals Nanase as the person who may know Ayanokōji's past, and agrees to probe on the condition he stay anonymous.
+[rel:nanase-tsubasa] (p.244–246) Learned from Ishigami that she may know Ayanokōji's past; suspects she lied when she said she didn't.
+[rel:ayanokouji-kiyotaka] (p.246–247) Pushes deeper into his past, unknowingly at the start of a "great change" — an orchestrated encounter.
 ## y3v3
 
 <!-- walk: y3v3 → start -->

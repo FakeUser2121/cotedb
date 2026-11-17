@@ -102,7 +102,7 @@ char_id: ishigami-kyou · class: unknown · status: unknown
 
 <!-- walk: y3v2 → start -->
 
-### y3v2 Epilogue — depth read: Ishigami's hidden lead
+### y3v2 p.231–263 — Epilogue — depth read: Ishigami's hidden lead
 [scene] (p.238) Stops Horikita in the hallway on a holiday after luring her to the empty student council room.
 [says] (p.239) "It's been a while. I have something I'd like to discuss, so may I have a moment of your time?"
 [says] (p.241) "Were you the one who sent me the message?"

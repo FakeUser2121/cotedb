@@ -1459,7 +1459,7 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y3v2 Epilogue → p.263 -->
 
-### y3v2 Ch.3 — depth read: Karuizawa's read on Ayanokōji
+### y3v2 p.66–125 — Ch.3 — depth read: Karuizawa's read on Ayanokōji
 [scene] (p.89) Meets Horikita at the Keyaki Mall supermarket to discuss the exam.
 [says] (p.89) "Nah, not at all. I was planning to go to the supermarket myself, so don't worry about it."
 [says] (p.90) "You're really merciless, Horikita-san. But, y'know, I like that about you."
@@ -1471,7 +1471,7 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:ayanokouji-kiyotaka] (p.91–93) Analyzes his alliance with Ichinose and his transfer motives.
 [rel:ichinose-honami] (p.91) Believes Ayanokōji is helping her.
 
-### y3v2 Epilogue — depth read: Karuizawa helps investigate
+### y3v2 p.231–263 — Epilogue — depth read: Karuizawa helps investigate
 [says] (p.231) "Getting an invitation from you, Horikita-san, was kinda new and exciting, so I was happy."
 [says] (p.232) "Okay. Then ask me anything. If it's something I know, I'll answer whatever!"
 [says] (p.234) "I was dating Ayanokouji-kun, but to be honest, I doubt I have much more information than you do."

@@ -730,7 +730,7 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y3v2 Epilogue → p.263 -->
 
-### y3v2 Ch.3 — depth read: Kōenji rejects and then sells his discipline
+### y3v2 p.66–125 — Ch.3 — depth read: Kōenji rejects and then sells his discipline
 [scene] (p.69) Walks out of Class A's discussion; Horikita chases him into the hallway.
 [says] (p.70) "Well, well, Horikita Girl. Is there something I can do for you?"
 [says] (p.70) "I don't mind listening a bit, as long as we're walking."
@@ -744,6 +744,22 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:horikita-suzune] (p.69–123) Rebuffs her in the hallway, then accepts a secret 500,000-point deal for one week of good behavior.
 [rel:ayanokouji-kiyotaka] (p.72) Credits his moves, not class unity, for Class A's wins.
 [rel:sudou-ken] (p.121) Calls him "red-hair-kun"; claims he is the first man in his room.
+
+### y3v2 p.120–124 — Kōenji's deal: selling his discipline for 500,000
+[scene] (p.120) Opens his door late at night to Horikita and Sudō; welcomes them in when he hears "special exam."
+[says] (p.120) "Oh my, oh my. To think the fools at my door were none other than my own classmates."
+[says] (p.120) "If you wished to make an appointment with me, I should think you would have used your cell phone."
+[says] (p.120) "I wondered what this request could be, but are you still not giving up, Horikita-girl?"
+[says] (p.121) "Fufufu. You should be purely delighted, red-hair-kun. You are the first man to have ever set foot in my room."
+[says] (p.121) "Coincidentally, that is precisely what I was thinking, myself."
+[says] (p.122) "Most likely the same way you did. From our teacher's attitude."
+[says] (p.122) "There is nothing more expensive than something free, you know."
+[says] (p.122) "For one week, starting tomorrow—I shall sell you my discipline. For the exceptional price of 500,000 Private Points."
+[says] (p.122) "Even this is me showing considerable kindness, you know?"
+[says] (p.123) "Of course. It will be a sad time from tomorrow, not being able to take in the sight of my beautiful, long legs upon my desk."
+[trait] (p.120–124) Arrogant, theatrical and sharp — had deduced the discipline exam himself from Chabashira's attitude, demands payment even if his compliance proves irrelevant, and doubles her offer after seeing through her bluff about the upper limit.
+[rel:horikita-suzune] (p.120–124) Negotiates with her; calls her "Horikita-girl," sees through her 200,000-point ceiling, and strikes the 500,000-point deal.
+[rel:sudou-ken] (p.121) Calls him "red-hair-kun" and "the first man" in his room.
 ## y3v3
 
 <!-- walk: y3v3 → start -->

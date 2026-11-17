@@ -43,6 +43,9 @@ char_id: motodoi-chikako · status: minor
 
 <!-- walk: y3v2 Epilogue → p.263 -->
 
+### y3v2 p.46 — Motodoi: the preparation-period reading
+[says] (p.46) "Really? Didn't Mashima-sensei say the details would be announced in a week?"
+[trait] (p.46) Argues the week starting tomorrow is a preparation period, refuting Shimizu.
 ## y3v3
 
 <!-- walk: y3v3 → start -->

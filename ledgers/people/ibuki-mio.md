@@ -864,13 +864,26 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y3v2 Epilogue → p.263 -->
 
-### y3v2 Ch.3 — depth read: Ibuki's meal and the kick warning
+### y3v2 p.66–125 — Ch.3 — depth read: Ibuki's meal and the kick warning
 [scene] (p.94) Comes to Horikita's room after 6:30 PM for a meal (after the flying kick she gave her earlier).
 [says] (p.94) "For a loser, your color's looking a little better, Horikita."
 [says] (p.94) "If it happens again, I'll be sure to kick you then, too, so be grateful."
 [trait] (p.94–95) Blunt and sarcastic; takes Horikita's thanks as praise and laughs off the warning about kicking her in the back.
 [rel:horikita-suzune] (p.94–95) Eats at her room; warned not to kick people in the back again.
 [note] (p.95) Horikita notes Ibuki ate every grain of rice, but left a mess — a clue toward the "daily conduct" theory.
+
+### y3v2 p.96–110 — Ibuki at the dinner: Ayanokōji is impossible to beat
+[scene] (p.96) Eats the wagyu meal enthusiastically in Horikita's room.
+[says] (p.96) "Huh? What, what? Why are you trying to pick a fight all of a sudden?"
+[says] (p.99) "Savage."
+[says] (p.101) "Beat Ayanokouji, huh? That's impossible."
+[says] (p.101) "He's as strong as a monster and surprise attacks don't work on him."
+[says] (p.102) "Neither you nor I could even touch him. Even that Albert guy was like a kid in front of Ayanokouji."
+[says] (p.102) "You're useless, aren't ya."
+[says] (p.103) "That guy was already a monster back in the winter of our first year."
+[trait] (p.96–110) Combative and blunt — enjoys the free meal ("I've been flat broke lately"), admits defeat against Ayanokōji outright, and calls Horikita useless for not knowing the secret to his strength; argues with Kushida throughout.
+[rel:ayanokouji-kiyotaka] (p.101–103) Considers him unbeatable, a "monster" already in their first year.
+[rel:kushida-kikyou] (p.96–110) Bickers with her, calling her an "idiot"; both restrain themselves from fighting in Horikita's room.
 ## y3v3
 
 <!-- walk: y3v3 → start -->

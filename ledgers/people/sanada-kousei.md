@@ -12,6 +12,10 @@ char_id: sanada-kousei · class: unknown · status: unknown
 
 <!-- walk: y3v2 Epilogue → p.263 -->
 
+### y3v2 p.46–47 — Sanada runs the poll
+[says] (p.46) "For sensei to not mention any details about the exam at all is, of course, a first."
+[says] (p.47) "Alright then, let's start by getting a quick poll of everyone's opinions."
+[trait] (p.46–47) The analyst efficiently polls the class (19 vs 12) and doesn't press those who don't answer.
 ## y3v3
 
 <!-- walk: y3v3 → start -->

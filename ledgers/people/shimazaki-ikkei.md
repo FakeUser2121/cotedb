@@ -12,7 +12,7 @@ char_id: shimazaki-ikkei · class: unknown · status: unknown
 
 <!-- walk: y3v2 Epilogue → p.263 -->
 
-### y3v2 Ch.1 — depth read: the studious rival
+### y3v2 p.13–42 — Ch.1 — depth read: the studious rival
 [scene] (p.13) Is in the dorm lobby listening to English listening practice on a wireless earbud before class.
 [says] (p.13) "English listening practice for the entrance exams. Personally, English isn't my strong suit, so I want to devote as much time as possible to it now, while I still can."
 [says] (p.14) "I try to set aside at least five hours a day to study, but that's about it."
@@ -25,6 +25,36 @@ char_id: shimazaki-ikkei · class: unknown · status: unknown
 [rel:ayanokouji-kiyotaka] (p.16–33) Presses him for study secrets; decides to trust his advice and owes him a future favor.
 [rel:yoshida-kenta] (p.13–32) Friends with him; debates study habits and the Shiraishi rumors; secretly also likes Shiraishi.
 [rel:shiraishi-asuka] (p.30–31) Has watched her since enrollment; theorizes about the "100-man slayer" lie and her preferences.
+
+### y3v2 p.13–16 — The invitation: studying on a day off
+[scene] (p.13) Waits in the dorm lobby having come down early; greets Ayanokōji and Yoshida.
+[says] (p.13) "English listening practice for the entrance exams. Personally, English isn't my strong suit, so I want to devote as much time as possible to it now, while I still can."
+[says] (p.14) "There's no point in comparing me to you. In reality, it's my weakest subject."
+[says] (p.14) "I wonder. I try to set aside at least five hours a day to study, but that's about it."
+[says] (p.14) "The right to graduate from Class A is ultimately just a trump card. To get into a reasonably good university, this much is a given."
+[says] (p.15) "You don't know? Speaking only of third-years, there are twenty of us right now."
+[says] (p.16) "The truth is, my business is only with Ayanokouji, but we aren't exactly on terms where we can just go out and talk."
+[says] (p.16) "Today, I'm going to make you confess all of your secrets."
+[trait] (p.13–16) Diligent and competitive — a top-ranked former Class A student who studies ~5 hours daily and attends the Keyaki Mall cram school; aware of his weaknesses and determined to close the gap.
+
+### y3v2 p.17–20 — Pressing for the study method
+[says] (p.17) "Tell me what kind of study guides you usually use, and how you study."
+[says] (p.17) "After seeing the results of the last special exam, I know you're ranked higher than me."
+[says] (p.18) "It's a study method you developed on your own. I'm not expecting you to teach me for free."
+[says] (p.19) "Of course, I won't blame you if it's not effective."
+[says] (p.20) "Alright. I'll take your advice without any hesitation."
+[trait] (p.17–20) Sincere and relentless — offers Private Points or anything else for the method, presses Ayanokōji without reservation, and accepts partial advice after weighing whether to write him off.
+[rel:ayanokouji-kiyotaka] (p.16–20) Presses him for his study secrets; notices his subconscious sense of rivalry toward him.
+[rel:yoshida-kenta] (p.13–16) Friends with him; the two banter about study habits.
+
+### y3v2 p.46–51 — Shimazaki's exam theories
+[says] (p.47) "What's certain at this point is that, either way, the rules probably aren't that complex."
+[says] (p.47) "He also mentioned 'student-like behavior,' which I took to mean studying, the fundamental duty of a student."
+[says] (p.49) "I get what you're trying to say, but our approach will be completely different depending on whether we prepare for this week or for a week from now."
+[says] (p.49) "What do you think, Ayanokouji? It's about time you gave us an answer."
+[says] (p.50) "So, you're saying they'd do something similar to what happened in our first year?"
+[says] (p.51) "There's no need to be certain."
+[trait] (p.46–51) Analytical and proactive — focuses on the "student-like behavior" phrasing, proposes a written test, dislikes the discussion going nowhere and pushes Ayanokōji for a decision.
 ## y3v3
 
 <!-- walk: y3v3 → start -->

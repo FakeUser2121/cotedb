@@ -39,7 +39,7 @@ char_id: nishikawa-ryouko · class: Class 1-A · status: minor
 
 <!-- walk: y3v2 Epilogue → p.263 -->
 
-### y3v2 Ch.2 — depth read: Nishikawa's skepticism
+### y3v2 p.43–65 — Ch.2 — depth read: Nishikawa's skepticism
 [scene] (p.52) Joins the lunch group at Shiraishi's invitation; keeps up a running critique of Ayanokōji and Yoshida.
 [says] (p.55) "Looks like you've become quite hated, Ayanokouji-kun."
 [says] (p.57) "I'm more jealous than happy, though~."
@@ -51,6 +51,18 @@ char_id: nishikawa-ryouko · class: Class 1-A · status: minor
 [rel:ayanokouji-kiyotaka] (p.55–62) Skeptical of him and his OAA; floats the "assassin" theory before softening.
 [rel:yoshida-kenta] (p.57–62) Teases him mercilessly as Ayanokōji's follower and a second Hashimoto; needles him about Shiraishi.
 [rel:shiraishi-asuka] (p.52–63) Is her friend; calls her "Asuka."
+
+### y3v2 p.55–58 — Nishikawa's suspicion
+[says] (p.55) "Looks like you've become quite hated, Ayanokouji-kun."
+[says] (p.55) "The special exam's about to start, so maybe they don't want to carelessly give away any information?"
+[says] (p.57) "You seem awfully happy, Yosshii."
+[says] (p.57) "I'm more jealous than happy, though~."
+[says] (p.57) "I think blind faith is a dangerous way of thinking."
+[says] (p.58) "I'm the kind of person who gets fed up with one-sided media coverage." — leading into her suspicion he's an assassin sent by Horikita
+[trait] (p.55–58) Skeptical and negative — refuses to root for Ayanokōji, calling it "blind faith," and suspects he was sent by Horikita as an assassin.
+[rel:ayanokouji-kiyotaka] (p.55–58) Calls him a traitor from Ike's view; suspects him.
+[rel:yoshida-kenta] (p.57–58) Needles him for his enthusiasm; calls him narrow-minded.
+[rel:shiraishi-asuka] (p.53) Joined the lunch at Shiraishi's invitation ("I'm in, too").
 ## y3v3
 
 <!-- walk: y3v3 → start -->

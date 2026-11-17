@@ -1080,7 +1080,7 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y3v2 Epilogue → p.263 -->
 
-### y3v2 Ch.4 — depth read: Ike's accusations
+### y3v2 p.126–151 — Ch.4 — depth read: Ike's accusations
 [scene] (p.141) Arrives at the café with Hondou, forced to sit near Ayanokōji's group due to the crowd.
 [says] (p.141) "Crap... Ayanokouji again...?!"
 [says] (p.141) "Don't act so familiar, you traitor."
@@ -1090,6 +1090,10 @@ aliases used for anchors: ike, kanji, ike-kun
 [trait] (p.141–143) Bitter and hot-headed — blames Ayanokōji for every expulsion, works himself into a rage (which Ayanokōji deliberately lets happen).
 [rel:ayanokouji-kiyotaka] (p.141–143) vents his anger and hatred at him.
 [rel:yamauchi-haruki] (p.142) Brings up the expelled Yamauchi as a supposed victim.
+
+### y3v2 p.55 — Ike and Hondou avoid Ayanokōji
+[scene] (p.55) In the cafeteria, he and Hondou spot Ayanokōji's table and deliberately steer away.
+[note] (p.55) Ike and Hondou, former classmates, spot Ayanokōji's cafeteria table and deliberately steer away — a "normal reaction" to his transfer, which Ayanokōji notes but does not pursue. No line of Ike's is quoted here.
 ## y3v3
 
 <!-- walk: y3v3 → start -->

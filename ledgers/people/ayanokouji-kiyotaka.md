@@ -5627,7 +5627,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y3v2 Epilogue → p.263 -->
 
-### y3v2 Ch.1 — depth read: study secrets and romance he can't feel
+### y3v2 p.13–42 — Ch.1 — depth read: study secrets and romance he can't feel
 [scene] (p.13) Meets Yoshida and Shimazaki in the rainy dorm lobby; joins them to Keyaki Mall.
 [says] (p.18) "If this was a problem I could solve, I would've been more than willing to cooperate."
 [says] (p.19) "To be honest, I hardly ever use these kinds of study guides anymore."
@@ -5639,7 +5639,7 @@ walk: y1v1 → DONE
 [rel:shimazaki-ikkei] (p.16–33) Is pressed for his study secrets; gives partial answers and helps him choose study guides.
 [rel:yoshida-kenta] (p.34–42) Advises him over Shiraishi and the romance rumors; discusses his own inability to feel love.
 
-### y3v2 Ch.2 — depth read: the vague exam and the OAA reveal
+### y3v2 p.43–65 — Ch.2 — depth read: the vague exam and the OAA reveal
 [scene] (p.43) Notes third-years busily preparing for entrance exams/employment; Morishita teases him about fitting in during homeroom.
 [says] (p.45) "If possible, I'd like to hear my classmates' opinions first."
 [says] (p.49) "My opinion is mostly the same as the ones already brought up. The fact that the school deliberately didn't explain the rules this time means it must be something that can be understood and established without explanation."
@@ -5652,7 +5652,7 @@ walk: y1v1 → DONE
 [rel:yoshida-kenta] (p.57–62) Yoshida defends him and cheers his high OAA as a comrade.
 [note] (p.56) Ayanokōji's new OAA: Academic A+ (96), Physical A (81), Adaptability B (66), Social Contribution B+ (77), Overall B+ (80); a year earlier it was all C-level (Academic C 51, Physical C+ 60, Adaptability D+ 37, Social C+ 60, Overall C 51).
 
-### y3v2 Ch.4 — depth read: 90% certain it's conduct
+### y3v2 p.126–151 — Ch.4 — depth read: 90% certain it's conduct
 [scene] (p.126) Tries to leave early for school but is blocked from the elevator by cold-eyed Class A girls; ends up walking with Hiyori.
 [says] (p.136) "To be precise, it may be more accurate to say that it's not that I don't care about winning or losing, but rather that I can't."
 [says] (p.137) "Over 90%. At least, that's my assessment."
@@ -5667,7 +5667,7 @@ walk: y1v1 → DONE
 [rel:hashimoto-masayoshi] (p.131–145) Discusses the exam and intel with him at the café.
 [note] (p.139) Notes that a high-stakes exam with expulsion may come next; Morishita cites ~15 expulsions the previous year.
 
-### y3v2 Ch.5 — depth read: Yamamura, Hasebe and his own avoidance
+### y3v2 p.152–181 — Ch.5 — depth read: Yamamura, Hasebe and his own avoidance
 [scene] (p.152) Is pulled out of his thoughts by Morishita tugging his hair, saying Yamamura wants to see him.
 [says] (p.154) "Is that so?"
 [says] (p.162) "I want you to find out about Shiraishi Asuka."
@@ -5682,7 +5682,7 @@ walk: y1v1 → DONE
 [rel:shiina-hiyori] (p.168–169) Reflects on avoiding her out of guilt.
 [rel:hashimoto-masayoshi] (p.164–167) Notes his full commitment to Class C.
 
-### y3v2 Ch.6 — depth read: Hoshinomiya's test and Hiyori
+### y3v2 p.182–210 — Ch.6 — depth read: Hoshinomiya's test and Hiyori
 [says] (p.186) "You leave no openings, do you, Hoshinomiya-sensei."
 [says] (p.186) "What the school will judge over the course of one week is our 'attitude in our daily school life.'"
 [says] (p.188) "Isn't it also necessary to believe in your own class?"
@@ -5697,7 +5697,7 @@ walk: y1v1 → DONE
 [rel:kaneda-satoru] (p.195–200) Talks with him in the library; is praised and envied, and questioned about Hiyori.
 [rel:morishita-ai] (p.182–184) Is shot repeatedly with her rubber-band gun.
 
-### y3v2 Ch.7 — depth read: results, the gym plan and a new emotion
+### y3v2 p.211–230 — Ch.7 — depth read: results, the gym plan and a new emotion
 [says] (p.212) "I don't think it's a concern with this class, but make sure to tell everyone not to slander the two who are absent under any circumstances."
 [says] (p.214) "Letting her know you like her is also a valid strategy, you know."
 [says] (p.215) "Kanzaki and Himeno. Then Hamaguchi. Should be okay with these three, right?"
@@ -5711,6 +5711,221 @@ walk: y1v1 → DONE
 [rel:shiina-hiyori] (p.224) Recalls the library moment and flower as his "blissful" memory.
 [rel:watanabe-norihito] (p.213–216) Advises him on approaching Amikura.
 [rel:nanase-tsubasa] (p.216–217) Not on friendly terms; she appears at the gym.
+
+### y3v2 p.13–16 — The rainy day out; Shimazaki's real reason
+[scene] (p.13) Leaves his room before 10 a.m. on a rainy Sunday with an umbrella; in the elevator notes the wet floor from early risers.
+[trivia] (p.13–14) Shimazaki, a former Class A student, removed a white wireless earbud from his right ear and put it in a small case — he was listening to English listening practice for entrance exams; he studies about five hours a day outside of class.
+[says] (p.16) "That depends on the topic of discussion. What exactly did you want to talk about?"
+[trivia] (p.16) Shimazaki arranged the meeting through Yoshida because he and Ayanokōji were not close enough to go out and talk directly; he asked Ayanokōji to bring an umbrella — odd for a mere talk that could have happened in a room.
+[says:shimazaki-ikkei] (p.16) "Today, I'm going to make you confess all of your secrets."
+[inference] (p.16) Ayanokōji realizes the study-method conversation is the real purpose; follows Shimazaki, who walks briskly toward Keyaki Mall.
+
+### y3v2 p.17–20 — The bookstore: deflecting about study methods
+[scene] (p.17) At Keyaki Mall's bookstore, Shimazaki leads them to the study-guide section — his destination.
+[says:shimazaki-ikkei] (p.17) "Tell me what kind of study guides you usually use, and how you study."
+[says:shimazaki-ikkei] (p.17) "After seeing the results of the last special exam, I know you're ranked higher than me."
+[note] (p.17) Ayanokōji cannot give the real answer: his current "studying" is complete review of material mastered in childhood, not learning, so he has no method to teach.
+[says] (p.18) "If this was a problem I could solve, I would've been more than willing to cooperate."
+[says] (p.18) "It's not that I want to show off being number one, nor do I want to be."
+[thinks] (p.18) He wants others to be able to surpass him in academics — there are students better than him in various fields, and he wants it that way.
+[says] (p.19) "To be honest, I hardly ever use these kinds of study guides anymore."
+[says] (p.19) "To be honest, a lot of it is just coincidence. I usually pick up my knowledge from the internet."
+[inference] (p.19) He gives partial truths — internet videos, browsing guides — rather than the White Room-based method, which he could not realistically teach; he still recommends a suitable study guide from memory.
+[rel:shimazaki-ikkei] (p.17–20) Recognizes his sincere determination and rivalry; gives partial answers and offers advice he can.
+[rel:yoshida-kenta] (p.19) Yoshida joins in asking to be taught too.
+
+### y3v2 p.44–51 — The vague exam; steering the class discussion
+[scene] (p.44) In homeroom, Morishita whispers from behind, asking if he has gotten used to the class.
+[says] (p.45) "If possible, I'd like to hear my classmates' opinions first."
+[trivia] (p.44) Mashima-sensei announces a new exam starting "tomorrow," rewards only (+50/+20/0/−25 Class Points), details in one week, no questions — phrasing that catches Ayanokōji's attention.
+[says] (p.49) "My opinion is mostly the same as the ones already brought up. The fact that the school deliberately didn't explain the rules this time means it must be something that can be understood and established without explanation."
+[says] (p.50) "A lot of different opinions have been thrown around, but one that I feel is a strong possibility is that our 'attitude in daily life' will be observed for the next week, starting tomorrow."
+[inference] (p.48–50) Judges the exam's intent is to see how long students can maintain tension toward a vague goal; proposes "attitude in daily life" (echoing the first-year conduct exam) as a provisional guidepost — even picking up a piece of trash could decide it.
+[note] (p.51) He notices Mashima said "exam," not "special exam," but holds back, judging it could be a slip of the tongue.
+[rel:hashimoto-masayoshi] (p.45) He tries to start the discussion; Ayanokōji defers to the class.
+[rel:shimazaki-ikkei] (p.47–51) Pushes for a decision; later accepts the daily-attitude possibility.
+
+### y3v2 p.52–54 — The lunch invitation; inviting Kitou
+[scene] (p.52) At lunch break, Shiraishi invites him to eat; Yoshida transparently tries to muscle in.
+[says] (p.52) "I don't mind. What's up?"
+[says] (p.52) "What a coincidence to get two invitations at once. Is it alright if Yoshida joins us?"
+[says] (p.53) "Wait a minute. There's someone else I want to invite, is that alright?"
+[says] (p.53) "Dead serious."
+[inference] (p.53–54) Invites Kitou specifically to observe him — noting the others' surprise and Yoshida's worry that "things could get ugly."
+[rel:shiraishi-asuka] (p.52–54) Accepts her invitation; she good-naturedly approves inviting Kitou.
+[rel:yoshida-kenta] (p.52–54) Allows him to join; notes his transparent, easily-read antics.
+[rel:kitou-hayato] (p.53–54) Deliberately invites him to lunch to gauge him.
+
+### y3v2 p.55–58 — The cafeteria: OAA and Ike's avoidance
+[scene] (p.55) In the cafeteria, arranges seating with Yoshida right, Kitou left, Shiraishi across; notes Ike and Hondou deliberately avoid them.
+[thinks] (p.55) He wanted Ike and friends to sit nearby as harassment and to prevent careless remarks — but they showed no such inclination.
+[says] (p.56) "Something like that, probably."
+[trivia] (p.56) Yoshida reveals Ayanokōji's OAA: Academic A+ (96), Physical A (81), Adaptability B (66), Social Contribution B+ (77), Overall B+ (80) — top-class among third-years.
+[inference] (p.56–57) His scores rose after transferring to Class C and not holding back; the transfer itself, being legal, likely did not hurt Social Contribution.
+[trait] (p.52–58) Quietly strategic — uses the lunch to gather reactions, welcomes suspicion as healthy, and reads the class's shifting attitudes.
+[rel:nishikawa-ryouko] (p.55–58) She calls him "quite hated" / a "traitor" from Ike's view and voices suspicion he's an assassin sent by Horikita.
+[rel:yoshida-kenta] (p.56–57) He root for Ayanokōji's high OAA as a "comrade."
+[rel:kitou-hayato] (p.55–56) Sits on his left; reacts to nothing, including the OAA.
+
+### y3v2 p.126–128 — The elevator with Hiyori; a failed conversation
+[scene] (p.126) Takes the elevator early; three Class A girls (Shinohara, Matsushita, Inogashira) stare coldly so he waits for the next one, then steps in beside Hiyori.
+[says] (p.127) "Good morning."
+[says] (p.127) "Same as always."
+[inference] (p.127) He struggles to keep the conversation going — unthinkable for him — and realizes being alone with Hiyori was something he should have anticipated in the small community; the encounter leaves him unable to find words.
+[trait] (p.126–127) Atypically flustered around Hiyori; he had envisioned going to the library to apologize for the transfer and talk about books but keeps procrastinating.
+[rel:shiina-hiyori] (p.126–127) Walks with her briefly; they have never had a proper conversation since his transfer.
+
+### y3v2 p.127–130 — Hashimoto, Morishita, Shiraishi interrogate him; Kondou intrudes
+[scene] (p.127) Outside the dorms, Hashimoto, Morishita and Shiraishi intercept them; Hiyori takes the cue and leaves for school alone.
+[says] (p.128) "It's fine."
+[says] (p.128) "Why would you think that?"
+[says] (p.129) "Of course. As allies, we need to share information."
+[says] (p.133) "The moment you let your guard down is when the rug gets pulled out from under you."
+[says] (p.133) "By the way, how I procured information from the two classes is a trade secret."
+[trivia] (p.128) He posted in the group chat that daily conduct was likely the exam focus, advising students not confident in their actions not to leave the dorms even on weekends.
+[trait] (p.127–133) Deliberately drives Hiyori away so the questioning can happen, then uses it to gather intel; hides his sources (Ichinose, Horikita) as a trade secret.
+[rel:hashimoto-masayoshi] (p.127–133) He and the others question him about the exam plan; Hashimoto investigated the other classes with no real find.
+[rel:morishita-ai] (p.128–129) Calls him "traitorous Hashimoto THE Righteous"; defends Sakayanagi's legacy.
+[rel:shiraishi-asuka] (p.129) Defends Sakayanagi's two years of Class A stability; deduces the conduct exam.
+[rel:kondou-reo] (p.130) He and Komiya from Ryūen's class apply pressure, fishing for hints.
+
+### y3v2 p.136–140 — The café: revealing the 90% conduct deduction
+[scene] (p.136) In the Keyaki Mall café with Hashimoto, Morishita and Shiraishi, begins the "serious discussion."
+[says] (p.136) "Alright, time for a serious discussion."
+[says] (p.136) "You seem fired up, but to be honest, I don't intend to be particularly concerned with winning or losing this exam."
+[says] (p.136) "To be precise, it may be more accurate to say that it's not that I don't care about winning or losing, but rather that I can't."
+[says] (p.137) "You can avoid obvious demerits, but you can't earn merits. The only thing we can do is wait for the other classes to make a mistake."
+[says] (p.137) "Over 90%. At least, that's my assessment."
+[says] (p.138) "If it was only Mashima-sensei's comment, the probability wouldn't even have reached 50%."
+[says] (p.138) "Hoshinomiya-sensei apparently said, 'You'll be fine as your usual selves.' Chabashira-sensei supposedly said, 'I want you to show me that you're different from when you enrolled.'"
+[says] (p.139) "I wouldn't be surprised if that was included in the rules with a fairly high probability."
+[inference] (p.137–139) Deduces the conduct exam with >90% confidence by comparing the teachers' parting words across all four classes — Mashima's remark about behaving befitting a student, Hoshinomiya's about being one's usual self, Chabashira's about being different from when they enrolled — each matched to that class's situation.
+[trait] (p.136–140) Specifies he is unconcerned because conduct can't decide the outcome — only others' mistakes can — and shifts focus to the next likely high-stakes exam.
+[rel:shiraishi-asuka] (p.137–138) She challenges his 90% figure; he explains his cross-class reasoning, and she is convinced.
+
+### y3v2 p.141–143 — Ike's accusation in the café
+[scene] (p.141) Ike and Hondou arrive at the next table; Ike calls him a "traitor."
+[says] (p.141) "We're fated to meet."
+[says] (p.142) "Yeah, we're Class A, but Ayanokouji hid how smart he was."
+[says] (p.142) "I'm hearing all sorts of nasty rumors, y'know. That you intentionally set up both Sakura and Maezono to get expelled from the very beginning."
+[trait] (p.141–143) Stays cold under Ike's hatred, letting him direct it at him to unite Class A; privately notes Ike may be acting to drag down Class C, but doubts it.
+[rel:ike-kanji] (p.141–142) He vents his anger and blames him for Sakura, Maezono and Yamauchi's expulsions.
+[rel:hashimoto-masayoshi] (p.141–142) Hashimoto tries to defuse Ike's rage by flattering Class A.
+
+### y3v2 p.168–174 — Avoiding the library; Hasebe and Sakura's TV success
+[scene] (p.168) Walks toward the library after 5 p.m., admitting to himself he has been avoiding it because he doesn't want to see sadness on Hiyori's face.
+[inference] (p.168–169) Realizes he unconsciously avoided Hiyori — he betrayed the girl who invited him with all her heart, and though he knows he should apologize and repair it, he keeps finding excuses.
+[trait] (p.168–169) Wrestles with an unfamiliar reluctance; notes Hiyori wasn't the only one saddened by his transfer (Horikita's class above all) yet he is concerned only about her.
+[says] (p.172) "Yeah. I couldn't hear you out when you came to talk to me before."
+[says] (p.172) "It was just the other day."
+[says] (p.172) "It's completely unrelated, so you can rest easy."
+[says] (p.173) "That's not true. I'd like to hear it."
+[says] (p.173) "Yeah. I didn't have the courage to look into it myself, but to be honest, I've been wondering about her all this time."
+[says] (p.174) "It's fine. I enjoyed talking with you, Hasebe, it's been a while."
+[trivia] (p.173) Hasebe reveals the expelled Sakura Airi has begun appearing on late-night TV — having passed an audition in under a year since her expulsion; Ayanokōji sees it as a way to test winning over Class A students.
+[rel:hasebe-haruka] (p.169–174) Hears her out about Sakura; she unconsciously calls him "Kiyopon."
+[rel:sakura-airi] (p.173) Learns of her TV appearances.
+[rel:shiina-hiyori] (p.168, 174) Still avoiding her; arrives at the library after six but she left ten minutes earlier — "I'll try again another day."
+
+### y3v2 p.164–167 — Hashimoto's declaration of loyalty
+[says] (p.166) "Then you'll have to be prepared for people to keep secrets from you or avoid you to some extent."
+[says] (p.167) "It'd be a lie to say I wasn't wondering about it."
+[inference] (p.166) Hashimoto reveals he abandoned his escape route (threw away his Private Points) and now believes Class C can win; Ayanokōji sees this as proof of his resolve.
+[rel:hashimoto-masayoshi] (p.164–167) Listens to his declaration; Hashimoto says he'll keep "pestering" him and steps aside for the library visit.
+
+### y3v2 p.182–189 — The rubber-band gun; Hoshinomiya's "service" confirms the exam
+[scene] (p.182) As school ends on day five, notes all four classes have maintained perfect conduct; Morishita shoots him with a rubber-band gun made from chopsticks.
+[says] (p.182) "Ow, ow, that hurts. What the...?"
+[says] (p.182) "It is a gun. A gun."
+[says] (p.183) "That's because I'm shooting you with the intent to cause pain."
+[trivia] (p.183) Satonaka invites him to hang out Sunday with Yanagibashi, Tsukasaki and Hoashi; Morishita bluntly refuses.
+[scene] (p.185) Goes to the special building after Ichinose's message that Hoshinomiya wants to see him; Hoshinomiya presses against him and entwines her arm with his.
+[says] (p.186) "You leave no openings, do you, Hoshinomiya-sensei."
+[says] (p.186) "What the school will judge over the course of one week is our 'attitude in our daily school life.'"
+[says] (p.188) "Please, rest assured. Even if you were to intentionally act in a way that lowers my evaluation, Hoshinomiya-sensei, it won't affect our alliance."
+[says] (p.188) "Isn't it also necessary to believe in your own class?"
+[says] (p.189) "Remember to watch over them. That's something even Chabashira-sensei is capable of."
+[says] (p.189) "Please consider our alliance from a long-term perspective, not a short-term one."
+[inference] (p.185–189) Uses Hoshinomiya's deliberate physical advance to confirm the conduct exam (cameras would record it, affecting assessment); invokes Chabashira (her rival) to make her withdraw, and refuses to manipulate the exam's outcome for her class.
+[rel:hoshinomiya-chie] (p.184–189) She tests/entices him; he stops her with words, invokes her desire to beat Chabashira, and tells her to trust the alliance long-term.
+[rel:ichinose-honami] (p.184–188) Sent his message; the alliance is why he restrains Hoshinomiya.
+[rel:satonaka-satoru] (p.183) Invited him to a Sunday outing.
+[rel:morishita-ai] (p.182–184) Shoots him repeatedly with her rubber-band gun.
+
+### y3v2 p.190–194 — The library reunion: apologizing to Hiyori
+[scene] (p.190) Arrives at the library; the librarian points him to the mystery-novel section where Hiyori is hiding behind shelves, avoiding his eyes.
+[says] (p.191) "Was I bothering you?"
+[says] (p.191) "Did you come here to look for a book to read...?"
+[says] (p.193) "No, I came to see you today, Hiyori."
+[says] (p.194) "I thought I was prepared..."
+[says] (p.194) "We're in different classes now, Ayanokouji-kun. I thought that our relationship, where we could chat so familiarly, had to come to an end."
+[says] (p.194) "If you don't mind, Hiyori, why don't we talk about this past month we've been apart? We have plenty of time today."
+[says] (p.194) "Of course. I came here today because I wanted to see you and talk with you, Hiyori."
+[inference] (p.190–194) Realizes Hiyori had been trying to sever their friendly relationship and see him as an enemy; feels relief he made it in time; her face shows its first smile of the day.
+[rel:shiina-hiyori] (p.190–194) Reconciles with her after a month of avoidance; she had been apologizing when he had the greater reason to.
+
+### y3v2 p.195–205 — Talking with Hiyori; the corn poppy; mutual feelings
+[scene] (p.195) Sits with Hiyori in the empty library seats, filling the month's blank with conversation; Kaneda joins.
+[says] (p.195) "So, even after becoming a third-year student, the bookworm remains unchanged."
+[says] (p.196) "It seems like we've been swapping places."
+[says] (p.198) "Envy me? I'm a traitor who abandoned Class A."
+[says] (p.199) "That's not it. I would say the same thing in the same way to anyone."
+[says] (p.201) "It was different from willfully moving a category from right to left."
+[says] (p.203) "It's fine. I want to give this to you."
+[says] (p.203) "It's an apology for making you wait a month."
+[says] (p.204) "Why are you crying?"
+[says] (p.204) "It's much the same for me. This was supposed to end as just another ordinary day."
+[trait] (p.200–205) Realizes Hiyori has been making friends (Kaneda) and that "just reading books and sharing the same space" fills him with a sense of fulfillment he can only call "happiness" — she is "a little different from the frameworks" he used.
+[inference] (p.204–205) Buys her a single corn poppy (<400 points) as an impulsive, "selfish" apology; her tears and his identical state of mind confirm mutual feelings; burning the image of her into memory.
+[rel:shiina-hiyori] (p.195–205) Their feelings are shown to be mutual beneath the sunset.
+[rel:kaneda-satoru] (p.195–200) He joins them; praises Ayanokōji while disparaging himself ("the very picture of a hero"), envies him, and asks "what if that person were Shiina-shi?" before leaving abruptly.
+
+### y3v2 p.206–209 — Hashimoto's questioning; "Perhaps I'm in love with Hiyori"
+[scene] (p.206) Back at the dorm lobby, Hashimoto pulls him aside to ask about Hiyori and the flower.
+[says] (p.207) "It's not just me. Ichinose probably isn't too happy about it either, is she?"
+[says] (p.207) "We're not dating."
+[says] (p.207) "Ichinose and I have an alliance. Nothing more, nothing less."
+[says] (p.208) "Perhaps I'm in love with Hiyori."
+[says] (p.208) "I can't say for sure what this feeling is just yet. But I might at least be harboring, or starting to harbor, feelings for Hiyori that I don't have for anyone else."
+[trait] (p.206–209) Pressed by Hashimoto's insistence that he treats Hiyori differently, admits for the first time that he may be in love with her — an emotion outside his empirical rules; decides to observe it as a fascinating subject for experimentation rather than deduce it hastily.
+[rel:hashimoto-masayoshi] (p.206–209) He presses him about Hiyori, Ichinose and romance; Ayanokōji realizes Hashimoto's "view on love" drives the questioning.
+[rel:ichinose-honami] (p.207) Rumored to like him and a "girlfriend candidate"; he insists they are only allies.
+[rel:karuizawa-kei] (p.207) Hashimoto notes he recently broke up with her.
+
+### y3v2 p.211–212 — The exam reveal: two absences, no ranking change
+[scene] (p.211) On reveal Thursday, Hashimoto reports Rokkaku and Yano are absent (sick after a mall employee sneezed on them).
+[says] (p.212) "I don't think it's a concern with this class, but make sure to tell everyone not to slander the two who are absent under any circumstances."
+[says] (p.212) "Probably."
+[inference] (p.211–212) The exam's scope extends to that morning's attendance; the absences could be fatal in a neck-and-neck race, but he ensures the class doesn't blame them.
+[trait] (p.211–212) Calm and protective of class unity; notes Ryūen's class also had an exemplary week — the outcome will hinge on a trivial difference.
+[rel:hashimoto-masayoshi] (p.211–212) He reports the absences and sends out the notice not to slander them.
+
+### y3v2 p.213–216 — Watanabe's gym plan; camouflaging his romance
+[scene] (p.213) Meets Watanabe pacing outside the gym at Keyaki Mall, wanting to join to be near Amikura.
+[says] (p.214) "Letting her know you like her is also a valid strategy, you know."
+[says] (p.215) "Kanzaki and Himeno. Then Hamaguchi. Should be okay with these three, right?"
+[says] (p.216) "For now, hold off on joining today and give me a little time."
+[trait] (p.213–216) Tactically coaches Watanabe's romance — suggests camouflage by having several classmates join at once, deliberately picking people from Class D, and plans "to use Kanzaki and the others to bring about a change in Ichinose."
+[rel:watanabe-norihito] (p.213–216) Advises him on approaching Amikura; he calls Ayanokōji "a good guy."
+[rel:ichinose-honami] (p.216) Intends to use the gym recruitment to elevate her and her class.
+
+### y3v2 p.216–219 — Utomiya at the gym; Akiyama's gossip
+[says] (p.217) "They offer a free trial, so if you're interested, you should give it a try."
+[says] (p.219) "While I cannot definitively deny the possibility that he possesses such a side, I do believe he's a reliable teacher."
+[trivia] (p.217–218) Utomiya from Class 2-C has been coming to the gym for two days; Akiyama says a first-year girl he brought joined two days ago and can run at a 20 km/h treadmill pace for several minutes — Akiyama jokes "perhaps a storm of love is brewing."
+[inference] (p.218) Ayanokōji notes even some White Room dropouts couldn't reach that level — the girl is remarkably talented.
+[rel:utomiya-riku] (p.216–217) He appears at the gym with a cold attitude; they are not on friendly terms.
+[rel:akiyama-san] (p.217–219) Chats with him at the gym; asks if Mashima is "a player."
+
+### y3v2 p.221–225 — Results and the walk home with Ichinose; her hand, his new emotion
+[scene] (p.221) Results: Horikita 1240, Ryūen 1081, Ayanokōji 867, Ichinose 864 — no ranking change, Class C last (−25) from the two absences.
+[says] (p.221) "It's not a problem in the grand scheme of things. It's a gap we can close if we aim to win the next special exam."
+[says] (p.223) "The three I'm thinking of asking are Watanabe, Kanzaki, and Himeno."
+[thinks] (p.224) Recalls the blissful library moment with Hiyori holding the flower — "a space enveloped in a sense of bliss" he desires to repeat, "an emotion I had no memory of experiencing."
+[says] (p.224) "Because you looked so happy, I suppose."
+[trait] (p.224–225) Denies his heart was swayed by romance toward Ichinose even as she touched his hand; dwells on the "joy of learning a new emotion" and whether it brings prosperity or ruin — a "very fulfilling, contented moment."
+[rel:ichinose-honami] (p.221–225) Walks home with her; she sees through his trio choices, their hands touch and she apologizes, her perception having sharpened since "that night."
+[rel:shiina-hiyori] (p.224) His thoughts turn to her holding the flower — the blissful memory.
 ## y3v3
 
 <!-- walk: y3v3 → start -->

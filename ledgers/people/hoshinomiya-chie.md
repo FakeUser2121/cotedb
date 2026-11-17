@@ -318,7 +318,7 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 
 <!-- walk: y3v2 Epilogue → p.263 -->
 
-### y3v2 Ch.6 — depth read: Hoshinomiya's boundary test
+### y3v2 p.182–210 — Ch.6 — depth read: Hoshinomiya's boundary test
 [scene] (p.185) Meets Ayanokōji in the special building (both claim the other was called by Ichinose); presses against him.
 [says] (p.185) "Whaaat are you talking about~? A teacher would never call a student out to a place like this."
 [says] (p.186) "I need you to do your best this year, Ayanokouji-kun, so it's fine if I give you a little bit of service, right?"
@@ -329,6 +329,20 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 [rel:ayanokouji-kiyotaka] (p.184–189) Tests him physically to probe the exam; wants him to make her class win.
 [rel:ichinose-honami] (p.188) Her class is allied with Ayanokōji's.
 [rel:chabashira-sae] (p.189) Rival; wants her class to fall.
+
+### y3v2 p.184–189 — Hoshinomiya's advance and the alliance check
+[scene] (p.185) Arrives at the special building in high spirits, claiming Ichinose told her Ayanokōji wanted to see her; presses against him and entwines her arm with his.
+[says] (p.185) "Sorry for the wait, Ayanokouji-kun. Did you need something from me, calling me out to a place like this?"
+[says] (p.185) "Whaaat are you talking about~? A teacher would never call a student out to a place like this."
+[says] (p.186) "I need you to do your best this year, Ayanokouji-kun, so it's fine if I give you a little bit of service, right?"
+[says] (p.188) "We're in this together, aren't we? So there's no way I'd do anything to drag you down, right?"
+[says] (p.188) "You just have to arrange things so my class takes first and your class takes second."
+[says] (p.189) "I can trust you, right?" — with a threat hidden behind it
+[says] (p.189) "I see. Well, you certainly did come through for me during the last special exam, so I suppose I'll just wait and see for now."
+[trait] (p.184–189) Playful and flirtatious on the surface, still desperate to return her class to Class A and see Chabashira fall; her advance is a deliberate test that Ayanokōji reads; withdraws when he invokes Chabashira.
+[rel:ayanokouji-kiyotaka] (p.184–189) Tests him physically; he stops her with words and orders her to trust the alliance long-term.
+[rel:ichinose-honami] (p.184) Her class is allied with Ayanokōji's.
+[rel:chabashira-sae] (p.189) Her rival, whose class she wants to see fall; the mere name makes her withdraw her arm.
 ## y3v3
 
 <!-- walk: y3v3 → start -->

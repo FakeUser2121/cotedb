@@ -1806,7 +1806,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y3v2 Epilogue → p.263 -->
 
-### y3v2 Ch.5 — depth read: Ryūen's class prepares
+### y3v2 p.152–181 — Ch.5 — depth read: Ryūen's class prepares
 [says] (p.177) "So he's made up his mind, huh?"
 [says] (p.177) "If he makes a clumsy move to secure his own escape route, he'll be cut off without mercy."
 [says] (p.178) "I don't give a damn what kind of feelings you have for Ayanokouji. But as long as you're a member of my class, you need to work to make us win."
@@ -1818,6 +1818,20 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:kaneda-satoru] (p.177) Notes Hashimoto has stopped contacting him — proof of his commitment to Ayanokōji.
 [rel:katsuragi-kouhei] (p.180) Clashes with him over fighting dirty vs. by the rules.
 [rel:hashimoto-masayoshi] (p.177) Interprets his silence as a decision to commit fully.
+
+### y3v2 p.177–179 — Ryūen's karaoke meeting: Shiina's feelings and Hashimoto's loyalty
+[says] (p.177) "They let me know they'd be late. More importantly, Kaneda, have you heard anything from that Hashimoto guy?"
+[says] (p.177) "So he's made up his mind, huh?"
+[says] (p.177) "Well, Sakayanagi probably would've found Hashimoto's two-timing diplomacy amusing, but with Ayanokouji, you never know how things will turn out."
+[says] (p.177) "If he makes a clumsy move to secure his own escape route, he'll be cut off without mercy."
+[says] (p.178) "What's your read on Ayanokouji right now?"
+[says] (p.178) "I don't give a damn what kind of feelings you have for Ayanokouji. But as long as you're a member of my class, you need to work to make us win."
+[says] (p.178) "That's enough out of you. Just sing."
+[says] (p.179) "I figured I'd listen to a useless guy's opinion for once. It's just a whim." — to Tokitou
+[trait] (p.177–179) Ruthless and perceptive — reads Hashimoto's silence as commitment to Ayanokōji, dismisses Shiina's feelings as irrelevant to winning, and cuts off the speculation to force action.
+[rel:shiina-hiyori] (p.178) Presses her for her read on Ayanokōji; dismisses her feelings but demands she work for the class.
+[rel:hashimoto-masayoshi] (p.177) Interprets his silence as having chosen Ayanokōji.
+[rel:tokitou-hayato] (p.179) Summons him and calls him "useless."
 ## y3v3
 
 <!-- walk: y3v3 → start -->

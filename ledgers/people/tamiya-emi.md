@@ -29,3 +29,10 @@ char_id: tamiya-emi · class: unknown · status: unknown
 
 
 <!-- walk: y2v12 Epilogue → p.228 -->
+## y3v2
+
+<!-- walk: y3v2 → start -->
+
+### y3v2 p.46 — Tamiya: exam starts tomorrow
+[says] (p.46) "Wait. I thought the week starting tomorrow was the exam period."
+[trait] (p.46) Reads the ambiguous announcement as the exam period beginning immediately.

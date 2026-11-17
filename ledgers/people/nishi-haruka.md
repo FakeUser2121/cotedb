@@ -30,3 +30,10 @@ char_id: nishi-haruka · status: minor
 
 
 <!-- walk: y2v12 Epilogue → p.228 -->
+## y3v2
+
+<!-- walk: y3v2 → start -->
+
+### y3v2 p.51 — Nishi: private-life exam
+[says] (p.51) "I, uh, also kind of thought there might be an exam about our private lives."
+[trait] (p.51) Interprets "try to act like a student" as pointing to a private-life exam; several students silently agree.

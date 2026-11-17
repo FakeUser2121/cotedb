@@ -23,6 +23,9 @@ char_id: shimizu-naoki · class: Class 1-A · status: minor
 
 <!-- walk: y3v2 Epilogue → p.263 -->
 
+### y3v2 p.46 — Shimizu: exam tomorrow, results in a week
+[says] (p.46) "I agree with Tamiya. I took it to mean the exam period starts tomorrow, and the results will be announced in a week."
+[trait] (p.46) Joins the discussion without hesitation, agreeing with Tamiya's immediate-start reading.
 ## y3v3
 
 <!-- walk: y3v3 → start -->

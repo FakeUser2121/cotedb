@@ -248,7 +248,7 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 
 <!-- walk: y3v2 → start -->
 
-### y3v2 Ch.2 — depth read: Kitou's silent scrutiny
+### y3v2 p.43–65 — Ch.2 — depth read: Kitou's silent scrutiny
 [scene] (p.54) Joins the lunch group at Ayanokōji's request; sits silently eating curry rice.
 [says] (p.58) "I have no interest in other people's OAA ratings."
 [says] (p.58) "I am interested in the reason why you hid this much ability for two years. And also… why you've started to get serious now."

@@ -1535,7 +1535,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y3v2 Epilogue → p.263 -->
 
-### y3v2 Ch.7 — depth read: Ichinose sees through him
+### y3v2 p.211–230 — Ch.7 — depth read: Ichinose sees through him
 [says] (p.220) "Mm, I think she was just being considerate. So that you and I could talk alone, Ayanokouji-kun."
 [says] (p.221) "I see. That's very reassuring. I'll do my best to help out as much as I can, too."
 [says] (p.221) "I think that's a great idea! I was actually getting a little worried about things like sales, since the number of members is so low."
@@ -1548,11 +1548,19 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:amikura-mako] (p.220) Notes Amikura left early to give them privacy; knows Watanabe likes her ("Mako-chan").
 [rel:watanabe-norihito] (p.221) Agrees to welcome him to the gym.
 
-### y3v2 SS: To Love Too Much… — depth read
+### y3v2 p.249–263 — SS: To Love Too Much… — depth read
 [says] (p.249) "Okay, thank you. I'm really happy for your support, Ayanokouji-kun."
 [says] (p.250) "I-I'm sorry... I'm sorry. I just... couldn't help wanting to touch you... even though we're just friends, aren't we."
 [trait] (p.249–250) Aches during the week apart without seeing him; yearns for his fingers and wonders how to make him yearn for her too — "loving someone too much" is painful.
 [rel:ayanokouji-kiyotaka] (p.249–250) Their hands touch on the walk home; she pulls back, determined to stay on his level.
+
+### y3v2 p.249–250 — "To Love Too Much…"
+[scene] (p.249) Reflects on the week apart from Ayanokōji during the exam, aching not to be face-to-face with him.
+[narrates] (p.249) "From Hoshinomiya-sensei's remark, I had sensed the possibility that the rules of the special exam were whether or not we could follow regulations."
+[says] (p.250) "I-I'm sorry... I'm sorry. I just... couldn't help wanting to touch you... even though we're just friends, aren't we."
+[trait] (p.249–250) Aching with love — the week without seeing him had her "heart crying out in anguish"; mixed nervousness and joy as their hands touched; resolves to stay on his level until he yearns for her too.
+[inference] (p.250) "I never knew that loving someone too much could be this painful." — her real reason for touching him, per her own short story.
+[rel:ayanokouji-kiyotaka] (p.249–250) Yearns for his fingers; wants him to come to yearn for her.
 ## y3v3
 
 <!-- walk: y3v3 → start -->

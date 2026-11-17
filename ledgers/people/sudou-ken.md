@@ -1522,7 +1522,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y3v2 Epilogue → p.263 -->
 
-### y3v2 Ch.3 — depth read: Sudō, the reliable ally
+### y3v2 p.66–125 — Ch.3 — depth read: Sudō, the reliable ally
 [scene] (p.115) Is in his room studying with Onodera when Horikita visits late at night.
 [says] (p.115) "S-S-S-Suzune!? Wh-what are you doing here?"
 [says] (p.115) "Well, y'see, about this special exam. They said we don't gotta study yet, but it'd be bad if there was a written test, right?"
@@ -1535,6 +1535,24 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:horikita-suzune] (p.115–125) Is trusted with her exam theory and the Kōenji deal; silently supportive, which warms her.
 [rel:onodera-kayano] (p.115) Is studying with her when Horikita arrives.
 [rel:kouenji-rokusuke] (p.119–123) Accompanies Horikita to his room and beats on his door.
+
+### y3v2 p.115–123 — Sudō: studying with Onodera; backing Horikita with Kōenji
+[scene] (p.115) Opens his door in his uniform (blazer off), glasses on, a mechanical pencil in hand — flustered to find Horikita.
+[says] (p.115) "Who the hell is it at this hour—"
+[says] (p.115) "S-S-S-Suzune!? Wh-what are you doing here? I mean, uh, it's not a problem or anything!"
+[says] (p.115) "N-No, you're not interrupting anything at all! We were just studying together, that's it!"
+[says] (p.116) "Well, y'see, about this special exam. They said we don't gotta study yet, but it'd be bad if there was a written test, right?"
+[says] (p.117) "Oh, right. They were checkin' stuff like tardiness, absences, and our attitude in class."
+[says] (p.118) "Then we gotta make damn sure no one finds out about this."
+[says] (p.118) "Ayanokouji's probably figured it out."
+[says] (p.118) "Yeah. I've even got an idea how to make those guys stick to the rules and keep their mouths shut."
+[says] (p.119) "Koenji's room? Right now? Yeah, that does sound a little dicey."
+[says] (p.121) "Never thought I'd see the day I'd be stepping into your room."
+[says] (p.122) "Hey, that ain't fair!"
+[trait] (p.115–123) Flustered and bashful around Horikita and Onodera, but dependable and transformed — already preparing for a possible written test, grasping the conduct theory quickly, and willing to confront Kōenji for the class.
+[rel:onodera-kayano] (p.115–119) Is studying with her; insists nothing improper is happening.
+[rel:horikita-suzune] (p.115–123) Is trusted with the plan and accompanies her to Kōenji's room.
+[rel:kouenji-rokusuke] (p.120–123) Beats on his door with brute force; is made the "first man" in Kōenji's room; nearly grabs him over the 500,000-point price.
 ## y3v3
 
 <!-- walk: y3v3 → start -->

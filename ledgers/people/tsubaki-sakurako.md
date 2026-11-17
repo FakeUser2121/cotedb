@@ -50,6 +50,25 @@ char_id: tsubaki-sakurako · class: Class 1-C · status: unknown
 
 <!-- walk: y3v2 Epilogue → p.263 -->
 
+### y3v2 p.257–260 — "The Six First-Year Students": the plot against Ayanokōji
+[scene] (p.257) Tsubaki and Utomiya watch second-year Ayanokōji from a cafe; Tsubaki asks if Utomiya wants to move up to Class A.
+[says] (p.257) "Tsubaki, do you want to move up to Class A?" — Utomiya
+[says] (p.257) "Not really."
+[says] (p.257) "It's Housen and Nanase."
+[says] (p.258) "His actual fighting ability is unknown, but I can't imagine him losing to someone at Housen's level."
+[says] (p.258) "I think I've become a little interested in getting to know you, Utomiya-kun." — Tsubaki
+[says] (p.258) "Stop it. I don't pry into anyone's business, and I don't want anyone prying into mine." — Utomiya
+[says] (p.259) "Either way, we're enemies." — Yagami
+[trivia] (p.257) Hōsen and Nanase (first-year Class D) pass Ayanokōji with only a polite nod from Nanase; Utomiya notices a bandage on Ayanokōji's left hand and suspects a clash with Hōsen.
+[trivia] (p.257–258) Utomiya rates Ayanokōji far above Hōsen — "everyone around him is weak" — and dismisses Hōsen's rampages as because of weak opponents.
+[trivia] (p.258–259) Amasawa (first-year Class A) teases the two about dating and leaves a blown kiss; she, Takahashi and Ishigami know of the special exam in Class A. Yagami joins, drawn by the "whole other level" of Private Points.
+[inference] (p.260) Utomiya, Tsubaki, Hōsen, Nanase, Yagami and Amasawa all target Ayanokōji — a "baffling exam" targeting a specific individual; from this gathering the story connects to the upcoming uninhabited-island special exam.
+[rel:utomiya-riku] (p.257–260) Tsubaki's cafe companion; both lack interest in Class A/special privileges; he is wary of prying.
+[rel:housen-kazuomi] (p.257–258) First-year Class D; Utomiya suspects he may have clashed with Ayanokōji and rates him low.
+[rel:nanase-tsubasa] (p.257) First-year Class D; gave Ayanokōji a polite nod.
+[rel:amasawa-ichika] (p.258–259) First-year Class A; teases Tsubaki and Utomiya and is involved in the first-year special exam.
+[rel:yagami-takuya] (p.259–260) First-year Class B; joins the conversation, drawn by the Private Points.
+[rel:ayanokouji-kiyotaka] (p.257–260) The target of all six first-years; they watch him and the bandage on his hand.
 ## y2v2
 
 <!-- walk: y2v2 → start -->

@@ -180,7 +180,7 @@ aliases used for anchors: kaneda, kaneda satoru, kaneda-kun
 
 <!-- walk: y3v2 Epilogue → p.263 -->
 
-### y3v2 Ch.5 — depth read: Kaneda's early arrival
+### y3v2 p.152–181 — Ch.5 — depth read: Kaneda's early arrival
 [scene] (p.175) Arrives 20 minutes early to the karaoke parlor, hoping to catch Shiina alone.
 [says] (p.175) "T-Thank you for coming today, Shiina-shi."
 [says] (p.176) "I have regular meetings with Ryuuen-shi, so I would appreciate it if you didn't lump us together."
@@ -191,7 +191,7 @@ aliases used for anchors: kaneda, kaneda satoru, kaneda-kun
 [rel:ishizaki-daichi] (p.176) Is needled by him for arriving early to see Shiina.
 [rel:hashimoto-masayoshi] (p.177) Notes he stopped replying after Ayanokōji's transfer.
 
-### y3v2 Ch.6 — depth read: Kaneda's envy and probe
+### y3v2 p.182–210 — Ch.6 — depth read: Kaneda's envy and probe
 [scene] (p.195) Arrives at the library to visit Hiyori; finds Ayanokōji with her and joins their table.
 [says] (p.196) "I'm not very good at such meaningless small talk."
 [says] (p.197) "It was the first time in a long while I'd seen her genuine smile."
@@ -201,6 +201,32 @@ aliases used for anchors: kaneda, kaneda satoru, kaneda-kun
 [trait] (p.196–199) Eloquent and passionate but self-deprecating — heaps praise on Ayanokōji while belittling himself, and envies him deeply; dislikes but is fascinated by him.
 [rel:ayanokouji-kiyotaka] (p.196–200) Envies him as a "hero," disparages himself, and probes what if Hiyori hated him; leaves abruptly.
 [rel:shiina-hiyori] (p.195–200) Is a frequent library visitor to see her; has feelings for her and was surprised by her genuine smile.
+
+### y3v2 p.175–178 — Kaneda arrives early to meet Shiina; the Class B meeting
+[scene] (p.175) Arrives at the karaoke parlor at 7:40 for an 8 p.m. meeting, restless — having come early hoping Shiina would too.
+[says] (p.175) "T-Thank you for coming today, Shiina-shi."
+[says] (p.175) "Yes, it really is. I wonder what Ryuuen-shi is thinking."
+[says] (p.176) "I don't know about Tokitou-shi, but I have regular meetings with Ryuuenshi."
+[says] (p.176) "Yes. We haven't received any additional orders as of now."
+[says] (p.177) "No, I have not."
+[trait] (p.175–178) Nervous and precise around Shiina — adjusts his crooked glasses, burns the sight of her into memory; objectively revised his evaluation of Ayanokōji several times but still rates him below Ryūen/Sakayanagi.
+[rel:shiina-hiyori] (p.175) Arrived early hoping to find her alone; calls her "Shiina-shi."
+[rel:ryuuen-kakeru] (p.175–177) Has regular one-on-one meetings with him; reports Hashimoto has stopped replying.
+[rel:ishizaki-daichi] (p.175–176) Is needled by him for arriving early to see Shiina.
+
+### y3v2 p.196–200 — Kaneda's envy in the library
+[scene] (p.196) Sits with Ayanokōji in the library after Hiyori is called away by the librarian.
+[says] (p.196) "I'm not very good at such meaningless small talk."
+[says] (p.197) "With Shiina-shi—you seem to be on good terms."
+[says] (p.197) "When I saw you two from the entrance, I was frankly surprised. It was the first time in a long while I'd seen her genuine smile."
+[says] (p.198) "You're the very picture of a hero, are you not? I envy you from the bottom of my heart."
+[says] (p.199) "That just makes you an anti-hero, which is still a hero."
+[says] (p.199) "Even that part of you is so cool it's infuriating, Ayanokouji-shi."
+[says] (p.199) "Then, what if that person were Shiina-shi...?"
+[says] (p.200) "It's quite all right. It makes no difference whether someone like me is here or not right now."
+[trait] (p.196–200) Eloquent and self-deprecating — praises Ayanokōji's looks, academics and physical ability while belittling himself, envies him deeply, and asks the cutting question of what would happen if Shiina hated him, before leaving abruptly on supposed urgent business.
+[rel:ayanokouji-kiyotaka] (p.196–200) Holds a one-sided conversation; envies him and leaves after testing him with Hiyori's name.
+[rel:shiina-hiyori] (p.197–200) Has feelings for her — notices her genuine smile and asks what if she hated Ayanokōji; leaves so as not to intrude.
 ## y3v3
 
 <!-- walk: y3v3 → start -->

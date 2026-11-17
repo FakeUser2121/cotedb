@@ -162,6 +162,25 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 
 <!-- walk: y3v2 Epilogue → p.263 -->
 
+### y3v2 p.10–12 — Tsukishiro recruits Nanase at the hospital
+[scene] (p.10) Stands beside Eiichirou's hospital bed, stroking the name card, speaking to Nanase in an unreadable tone.
+[says] (p.10) "He suffers from a prolonged disturbance of consciousness. That's the diagnosis I received."
+[says] (p.10) "I'm told Matsuo-kun was a very kind-hearted person."
+[says] (p.10) "You cannot survive in this world on kindness alone. No, in fact, you'll be preyed upon by fiends so wicked they are beyond salvation—"
+[says] (p.10) "The world works on give-and-take. You understand that, yes?"
+[says] (p.10) "I have brought you an opportunity to exact your revenge."
+[says] (p.10) "I will teach you how to get close to the person you should take revenge on."
+[says] (p.11) "Attending ANHS is the only way to get close to your target—"
+[says] (p.11) "My apologies. My name is Tsukishiro. I've been well acquainted with you and Matsuo-kun sleeping here, since you were children."
+[says] (p.11) "Is Shirogane-san doing well?"
+[says] (p.11) "She took good care of me when I was young."
+[says] (p.11) "You're not evil. But the inhabitants of the world I live in are nothing but evil, no matter where you look."
+[says] (p.12) "You must mix lies with the truth."
+[says] (p.12) "It is because you are in a perfect position. Neither clearly on one side, nor the other."
+[trait] (p.10–12) Eerie and manipulative — smiles while describing a world of pure evil, uses Nanase's genuine grief as the foundation for a false persona, and chose her precisely because she is "ordinary, yet excellent."
+[inference] (p.11) He knew Nanase and Eiichirou since childhood and was "taken care of" by Shirogane — an ambiguous phrase given his nature.
+[rel:nanase-tsubasa] (p.10–12) Recruits her as an "insignificant being" to approach Ayanokōji and reach the true revenge target.
+[rel:ayanokouji-kiyotaka] (p.11–12) Names him as the key figure who will lead Nanase to the target; warns he has "outstanding, refined instincts" despite being "inorganic."
 ## y0
 
 <!-- walk: y0 → start -->

@@ -618,6 +618,17 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y3v2 Epilogue → p.263 -->
 
+### y3v2 p.175–179 — Ishizaki at the karaoke meeting
+[says] (p.175) "What the heck?! I thought I'd be the first one here, but you two already beat me to it!"
+[says] (p.176) "You look pretty bummed, Kaneda. Don't tell me you—"
+[says] (p.176) "It's my job to greet Ryuuen-san, got it? I'm not gonna let you look cool!"
+[says] (p.176) "Man, I wonder what Ryuuen-san's thinking."
+[says] (p.178) "That's impossible, Ryuuen-san. It's 'cause Shiina sees Ayanokouji through a filter."
+[says] (p.178) "It's a special filter, man. A special one. The kind ya call the Ayanokouji Filter."
+[trait] (p.175–179) Loud and playful — arrived early to greet Ryūen, teases Kaneda about Shiina, and calls out Shiina's bias with the "Ayanokouji Filter."
+[rel:kaneda-satoru] (p.175–176) Teases him about arriving early for Shiina.
+[rel:shiina-hiyori] (p.178) Points out her bias toward Ayanokōji.
+[rel:ryuuen-kakeru] (p.175–177) Arrived early to greet him; is told to "just sing."
 ## y3v3
 
 <!-- walk: y3v3 → start -->
