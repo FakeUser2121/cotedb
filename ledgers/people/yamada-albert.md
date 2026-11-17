@@ -322,3 +322,14 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 
 
 <!-- walk: y2v9 Epilogue → p.225 -->
+
+## y2v9.5
+
+<!-- walk: y2v9.5 → start -->
+
+### y2v9.5 pp.10-219 — Full volume
+
+[scene] (p.10) Appears in this volume.
+
+
+<!-- walk: y2v9.5 Epilogue → p.219 -->

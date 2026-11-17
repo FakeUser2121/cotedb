@@ -190,3 +190,14 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 
 
 <!-- walk: y2v8 Epilogue → p.208 -->
+
+## y2v9.5
+
+<!-- walk: y2v9.5 → start -->
+
+### y2v9.5 pp.10-219 — Full volume
+
+[scene] (p.10) Appears in this volume.
+
+
+<!-- walk: y2v9.5 Epilogue → p.219 -->

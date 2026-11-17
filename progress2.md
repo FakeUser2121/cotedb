@@ -3243,3 +3243,9 @@ da33a4eca56f5f4e87201de29ce71701.
 Volume 2, Volume 9 (pp.8–225): signs of momentum; Nagumo; Kei's anxiety.
 Ledgers touched: volume + 57 people. verify ALL PASS; build/gate/check OK;
 hash stable bdf77052e6f4a786e185e4690b42f063.
+
+### y2v9.5 — walked, shipped
+
+Volume 2, Volume 9.5 (pp.10–219): winter break; changing relationships.
+Ledgers touched: volume + 58 people. verify ALL PASS; build/gate/check OK;
+hash stable 6375c6765bd30c3818d91e9ea573b4ad.

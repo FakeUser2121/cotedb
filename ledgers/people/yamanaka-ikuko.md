@@ -8,3 +8,6 @@ char_id: yamanaka-ikuko · class: unknown · status: unknown
 
 
 <!-- walk: y2v9 Epilogue → p.225 -->
+
+
+<!-- walk: y2v9.5 Epilogue → p.219 -->
