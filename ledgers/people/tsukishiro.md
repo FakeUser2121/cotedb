@@ -274,6 +274,22 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 
 <!-- walk: y2v3 Epilogue → p.368 -->
 
+### y2v3 p.342–346 — Tsukishiro threatens Ichinose; expects his trap to spring
+[scene] (p.342) Arrives (slightly late) with Ichinose's backpack, reining in Shiba from disposing of her; questions her about what she overheard.
+[says] (p.342) "If I'm not mistaken, you're Ichinose Honami from Class 2-C, correct?"
+[says] (p.342) "It's a bit premature to resort to such violent methods, Shiba-sensei."
+[says] (p.343) "I'm not so naive as to trust those words of yours."
+[says] (p.343) "Should we perhaps roughen you up a bit until you forget the memory, Ichinose-san?"
+[says] (p.344) "If you tell a soul about any of this, I'll personally see to it that a group composed entirely of Class 2-C students retires from the exam."
+[says] (p.344) "As the man in control of the rules, fabricating a justification would be trivial."
+[says] (p.345) "It's not your enemies that you should be protecting, but your own classmates."
+[says] (p.346) "I was 99% certain that Nanase-san would fail, but it seems that she's finally taken action."
+[says] (p.346) "If everything goes according to plan, Ayanokōji-kun's Emergency Alert should go off any time now."
+[trait] (p.342–346) Calm, ominous and manipulative — covers for Shiba's brutality, threatens Ichinose with her classmates' expulsion to silence her (knowing she prioritizes them), lets her go to influence Ayanokōji, and waits confidently for his "99% certain" trap to close via Nanase — showing not a trace of uncertainty.
+[rel:ichinose-honami] (p.342–345) Threatens and releases her as a calculated warning.
+[rel:shiba-katsunori] (p.342–345) His subordinate, eager to dispose of Ichinose; Tsukishiro restrains him.
+[rel:ayanokouji-kiyotaka] (p.346) Expects his Emergency Alert to go off — his plan to expel him.
+[rel:nanase-tsubasa] (p.346) Believes she's "finally taken action" (unaware she's about to fail).
 ## y2v4
 
 <!-- walk: y2v4 → start -->

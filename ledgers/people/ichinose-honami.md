@@ -1684,6 +1684,17 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v3 Epilogue → p.368 -->
 
+### y2v3 p.331–345 — Ichinose's broken watch; Tsukishiro's threat
+[scene] (p.331) On the island, her watch breaks (leaving her group unable to earn points or use GPS); she sets off alone to get it fixed, while her group (expanded via a Task and merged with Hashimoto's) aims for the top.
+[says] (p.333) "daytime and all, but it's really cloudy today, so rain…"
+[says] (p.334) "…Alright, but please don't do anything foolish."
+[says] (p.342) "Ah- Uh- Y-yes, that's correct…"
+[says] (p.343) "N-not at all. I didn't hear anything…"
+[trait] (p.331–345) Overhears Tsukishiro and Shiba discussing Ayanokōji's expulsion; terrified, she is threatened by Tsukishiro (if she tells anyone, an all-Class-2-C group will be forced to retire without points to save themselves) and nearly disposed of by Shiba (who pulls out rubber gloves); Tsukishiro lets her go with her backpack and a veiled warning to protect her own classmates rather than enemies — she flees in panic.
+[rel:tsukishiro] (p.342–345) Threatens and interrogates her; lets her go as a calculated "warning" to influence Ayanokōji.
+[rel:shiba-katsunori] (p.342–344) Class 1-D's teacher, who moves to "dispose of" her with rubber gloves.
+[rel:ayanokouji-kiyotaka] (p.345) Tsukishiro's warning targets her loyalty to him; she considers whether to tell him.
+[rel:shibata-sou] (p.331) Her group member, worried about her broken watch.
 ## y2v4
 
 <!-- walk: y2v4 → start -->

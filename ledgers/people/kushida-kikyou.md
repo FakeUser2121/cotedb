@@ -1746,6 +1746,16 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y2v3 Epilogue → p.368 -->
 
+### y2v3 p.305–320 — Kushida tails Ayanokōji; her plot exposed by Amasawa
+[scene] (p.305) On day seven, tails Ayanokōji through the storm toward D3 using a hidden walkie-talkie and the GPS Search feature, coordinating with an accomplice to pinpoint his location.
+[says] (p.307) "I received your report over the walkie-talkie this morning. You're going to explain what happened, right?"
+[narrates] (p.307) "[Please hold on for a moment, Kushida-senpai. It seems the two of them]" — Amasawa over the walkie-talkie
+[narrates] (p.307) "Also, don't forget to take a recording with your tablet." — Amasawa
+[says] (p.320) "I… What am I even doing…?"
+[says] (p.320) "First Ayanokōji and now Amasawa… people threatening to disturb my calm, peaceful life kept showing up one after the other."
+[trait] (p.305–320) Secretly plots to get dirt on Ayanokōji (having dropped a tablet near the fight to record him), but Amasawa — the "accomplice" — turns the tables, exposing Kushida's "nasty, vile" true nature and her plan; broken, Kushida collapses in the mud, realizing her mask and schemes are unraveling (the consequence of Yagami having revealed her past to the first-years).
+[rel:amasawa-ichika] (p.307–319) Her walkie-talkie accomplice, who sees through her and taunts her; nearest thing to a defeat of her persona.
+[rel:ayanokouji-kiyotaka] (p.305–320) She tails him to record evidence for expulsion; Ayanokōji has already sensed the watchers.
 ## y2v4
 
 <!-- walk: y2v4 → start -->

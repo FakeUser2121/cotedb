@@ -995,6 +995,13 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v3 Epilogue → p.368 -->
 
+### y2v3 p.14–16 — Ibuki at the briefing, stuck beside Ayanokōji
+[says] (p.15) "…Ugh. Why the hell are you sitting here?"
+[says] (p.15) "You didn't sit there on purpose, right?"
+[says] (p.15) "I'm goin' somewhere else, so don't you dare follow me, got it?"
+[trait] (p.14–16) Tries to leave the back seat when Ayanokōji sits beside her, but Kitō takes her escape seat and the groups fill the rest; grudgingly stays "sandwiched between Kitō and myself" — she'd rather tolerate him than join a group, having chosen to take the exam alone.
+[rel:ayanokouji-kiyotaka] (p.15–16) Refuses to follow him; forced to sit beside him anyway.
+[rel:kitou-hayato] (p.15) Takes the seat she wanted, glowering at him as he folds his arms.
 ## y2v4
 
 <!-- walk: y2v4 → start -->

@@ -2073,6 +2073,21 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v3 Epilogue → p.368 -->
 
+### y2v3 p.213–219 — Ryūen agrees to the Shinohara rescue plan
+[scene] (p.213) Emerges from his tent at the bottom-eight commotion; later fishing by a river with Katsuragi when Ayanokōji seeks him out.
+[says] (p.217) "Well, sure. I dunno what those idiots from my class are doin' down there in the bottom eight though."
+[says] (p.217) "I assume this 'someone' was kicked outta here right along with 'em then, right?"
+[says] (p.218) "What should we do Ryūen? Even if we manage to place in the top three, it'll be meaningless if Komiya and Kinoshita get expelled." — Katsuragi
+[says] (p.218) "You said you were lookin' for me, right?"
+[says] (p.218) "will it all go smoothly?"
+[says] (p.218) "If the other groups realize what's happening, they'll start takin' action too."
+[says] (p.218) "If it were a couple of small fry I wouldn't even hesitate to let 'em go, but Komiya and Kinoshita still have their uses."
+[says] (p.219) "That doormat Ichinose aside, I don't think Sakayanagi'll choose to lend a hand so easily."
+[trait] (p.213–219) Serious the moment he hears Komiya/Kinoshita retired; helps Ayanokōji keep the rescue plan secret from Nanase, praises his audacity, and agrees to cooperate because their interests align — Komiya and Kinoshita are useful to him.
+[rel:ayanokouji-kiyotaka] (p.216–219) Agrees to the secret strategy to save Shinohara; trusts him to execute it.
+[rel:katsuragi-kouhei] (p.216–218) His classmate; has persuaded him to take breaks and manage risk.
+[rel:ichinose-honami] (p.219) Dismisses her as a "doormat."
+[rel:sakayanagi-arisu] (p.219) Doubts she'll help easily.
 ## y2v4
 
 <!-- walk: y2v4 → start -->

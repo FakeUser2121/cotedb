@@ -26,6 +26,16 @@ char_id: shiba-katsunori · class: Class 1-D · status: unknown
 
 <!-- walk: y2v3 Epilogue → p.368 -->
 
+### y2v3 p.342–345 — Shiba moves to silence Ichinose
+[scene] (p.342) Clamps a hand on Ichinose's shoulder from behind as she tries to get her broken watch fixed, towering over her.
+[says] (p.342) "Why are you here?"
+[says] (p.342) "It doesn't really matter how much you heard."
+[says] (p.342) "We're just going to have to dispose of you. Immediately."
+[says] (p.344) "If Ichinose were to disappear, I doubt that Chabashira and Mashima would notice."
+[says] (p.344) "If you're willing to leave it to me, I'll handle her myself." — pulls out rubber gloves
+[trait] (p.342–345) Intimidating and ruthless — Class 1-D's homeroom teacher, willing to "dispose of" a student who overheard the conspiracy, and eager to exercise authority rather than Tsukishiro's "leniency"; visibly apprehensive when Tsukishiro lets her go, unable to grasp his superior's true intent.
+[rel:ichinose-honami] (p.342–344) Interrogates and threatens her with rubber gloves.
+[rel:tsukishiro] (p.342–345) His superior; restrained by him and confused by his leniency.
 ## y2v4
 
 <!-- walk: y2v4 → start -->

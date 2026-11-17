@@ -314,6 +314,135 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 <!-- walk: y2v3 Epilogue → p.368 -->
 
+### y2v3 p.7–8 — Nanase's monologue: resolving to defeat Ayanokōji for real
+[scene] (p.7) Reflects on the shock of discovering the cruel reality about Ayanokōji — the evening sun in an old apartment, a long shadow swinging "like the pendulum of a grandfather clock."
+[narrates] (p.7) "That warm hand that would caress my head."
+[narrates] (p.7) "That gentle smile that healed my soul."
+[narrates] (p.7) "That sincere gaze that taught me admiration."
+[narrates] (p.7) "That silent, blank expression that brought me to the edge of despair."
+[narrates] (p.8) "And that's why, 『I』 will."
+[narrates] (p.8) "To send him back to the place he's meant to be."
+[narrates] (p.8) "Because, if I don't, there will surely be a second or even third victim that follows."
+[narrates] (p.8) "after all, my true objective lies far beyond defeating him."
+[trait] (p.7–8) Cannot forgive, and cannot fight under a banner of "justice" with a "fragile heart" — so she (as "I," distinct from the justice-driven others) will defeat Ayanokōji for real, to prevent further victims; her true objective lies beyond defeating him; she sees him standing before her, eyes fixed on her, and decides the time to act is now.
+[rel:ayanokouji-kiyotaka] (p.8) Her target; she is determined to end it on the island and send him "back to the place he's meant to be."
+[rel:tsukishiro] (p.8) Implied — the "others" fight under their own justice; she fights with her own reason rooted in a personal loss.
+
+### y2v3 p.78–96 — Nanase tags along: "travel companion"
+[scene] (p.78) Appears alone again at his break — the third time they've crossed paths in six designated areas; hints they may share a Table.
+[says] (p.78) "Ayanokōji-senpai, it seems we meet again."
+[says] (p.79) "If it's not too much trouble, would you perhaps allow me to accompany you for a while?"
+[says] (p.79) "Both Hōsen-kun and Amasawa-san felt that we would be better off if we all acted independently, so everything more or less fell apart."
+[says] (p.80) "I would be perfectly fine with taking the back seat in that regard,"
+[says] (p.81) "I'm fairly confident in my stamina."
+[says] (p.81) "You're not uncertain because you think I might hold you back, it's more that you're not able to trust me, isn't it?"
+[says] (p.93) "Once again, just to reiterate, please disregard my presence and choose what you truly believe to be the most ideal route."
+[says] (p.94) "It seems I have the same Table as Senpai after all."
+[trait] (p.78–96) Polite, perceptive and calculating — asks to join claiming her group dissolved into independent action, defers all bonuses/Tasks and route choices to him, sees through his concern for Sudō's group and discerns Ike is unwell; her tablet confirms the same Table; she repeatedly insists he ignore her so as not to distort his decisions — the White Room agent deliberately embedding herself with her target.
+[rel:ayanokouji-kiyotaka] (p.78–96) Travels with him; he suspects her motives but allows it, using it to gauge her.
+[rel:housen-kazuomi] (p.79) Says he and Amasawa chose independent action.
+[rel:amasawa-ichika] (p.79) Likewise.
+
+### y2v3 p.110–138 — Nanase: worry, Beach Flags victory, and mutual probing
+[scene] (p.110) Wakes Ayanokōji early, worried she said too much to Ike the night before.
+[says] (p.110) "It's about Ike-senpai. Do you think I said a little too much last night…?"
+[says] (p.110) "Thanks to you, Ike's managed to get back on his feet."
+[says] (p.111) "I feel like Ike-senpai is in a sort-of precarious position right now."
+[says] (p.120) "If Senpai can't participate then I'll sit this one out as well."
+[says] (p.124) "A reason? From what I've seen of Beach Flags on TV, girls usually compete wearing swimsuits like this, right?"
+[says] (p.126) "Thank you very much. I managed to get through it somehow."
+[says] (p.127) "Seeing you stare at me so closely like that, it's… well, it's a little unsettling, you know…?"
+[says] (p.135) "Ayanokōji-senpai, why did you decide to take part in the exam alone?"
+[says] (p.135) "Back when you faced off against Hōsen-kun, your movements were different from those of a normal high school student."
+[says] (p.136) "Even so, it's not like it's impossible for me to win either."
+[says] (p.136) "Have you always been like that?" — about his disposition
+[says] (p.137) "In the past─ I get the sense that I used to smile more."
+[says] (p.137) "an incident took place that I believe changed me forever…"
+[trait] (p.110–138) Anxious about Ike, protective, and a formidable athlete — in a blue-green bikini she wins Beach Flags in perfect sync with the gun with energy to spare (true ability beyond OAA B+); cleverly probes Ayanokōji's White Room nature (noting his movements are those of no normal high school student) while deflecting about her own middle-school "incident" that changed her from light to dark — the White Room agent testing her target.
+[rel:ayanokouji-kiyotaka] (p.135–138) Mutual probing — she notes his unusual movements; he notes a White Room student wouldn't have middle school; she hints at a past "incident."
+[rel:ike-kanji] (p.110–111) Worried her words to him might backfire; credits Ayanokōji with helping him "take a stand."
+[rel:housen-kazuomi] (p.138) Says her group (Hōsen/Amasawa) is earning points from Tasks.
+[rel:amasawa-ichika] (p.138) Likewise.
+
+### y2v3 p.164–207 — Nanase in the cliff crisis and rescue planning
+[scene] (p.164) Joins the pre-dawn search; carries a flashlight and later takes charge of leading the group back.
+[says] (p.189) "I wasn't able to see you and Ike-senpai anymore so I─" — she came to find them
+[says] (p.189) "I'm glad that you managed to find Shinohara-senpai safe and sound."
+[says] (p.190) "isn't it strange that Komiya-senpai didn't notice anybody?"
+[says] (p.191) "As for me… If I were to attack Komiya-senpai and Kinoshita-senpai… I don't think it would be impossible."
+[says] (p.200) "It's possible to lighten the burden by bunkering down near the starting area."
+[says] (p.205) "rather than going through the effort of forming another group, it may very well be more realistic for her to prioritize accumulating points."
+[trait] (p.164–207) Composed and insightful — points out the "out-of-place" vibration that leads to finding people, analyzes Shinohara's testimony with Ayanokōji (reaching the same skeptical conclusion), holds his tablet, comes to find them, proposes Shinohara bunker near the harbor to survive, and advises against trying to merge into another group — all while monitoring Ayanokōji.
+[rel:ayanokouji-kiyotaka] (p.190–205) Reasons with him about the "culprit," holds his tablet, and discusses the rescue plan.
+[rel:shinohara] (p.200) Proposes the harbor-survival strategy to save her.
+[rel:ike-kanji] (p.189) Comes looking for him and Shinohara.
+
+### y2v3 p.260–266 — Nanase's cliff struggle and her strange air
+[says] (p.261) "I… I can do this!"
+[says] (p.261) "Oww, that hurt…!"
+[says] (p.262) "I-I can do it!"
+[says] (p.263) "Please… don't mind me. I've made the choice to follow after you of my own volition, Ayanokōji-senpai…!"
+[says] (p.264) "I, I can't do that Senpai. I promised you that I wouldn't get in your way back when I asked to accompany you."
+[says] (p.265) "T-thank goodness…!"
+[says] (p.265) "Senpai, do you enjoy it? This school?"
+[says] (p.265) "While it feels like graduation is a long ways away, it'll probably be here in the blink of an eye."
+[trait] (p.260–266) Falls while tying up her hair to climb, but insists on following Ayanokōji; exhausted, she accepts his hand; afterward she asks if he enjoys the school and speaks of living without regrets — her bearing briefly resembles the Nanase he first met, a faint, unsettling change Ayanokōji notes.
+[rel:ayanokouji-kiyotaka] (p.260–266) Follows him up the cliff; her "loyal dog" devotion and subtle shift in demeanor hint at her true nature.
+
+### y2v3 p.287–304 — Nanase's trap: the White Room agent reveals herself and attacks
+[scene] (p.287) On the mountain path, stops Ayanokōji, sets down her bag, and reveals she lured him to northern D3 — not E2.
+[says] (p.287) "Ayanokōji-senpai, I have something I'd like to ask you."
+[says] (p.288) "I'm afraid you won't be reaching area E2 today, Senpai."
+[says] (p.288) "The reason I wanted to head up the mountain was to lure you here, Senpai."
+[says] (p.288) "But, Ayanokōji-senpai, I don't think you're someone who belongs at this school."
+[says] (p.289) "It's because you're from the White Room."
+[says] (p.289) "As you may have already guessed, I enrolled here in this school under Acting Director Tsukishiro's orders."
+[says] (p.289) "I'm going to knock you out here and injure you, setting off your Emergency Alert in the process."
+[says] (p.296) "Therefore…『I』will. Right here, right now."
+[says] (p.296) "『I』came back from 'that place' in order to put a stop to you."
+[says] (p.299) "『I'm』not Nanase. The one standing here before you right now is… Matsuo Eiichiro."
+[says] (p.302) "AAAAAAAAHHHHHHH!!!"
+[trait] (p.287–304) The White Room enforcer sent by Tsukishiro to get Ayanokōji expelled — lures him to a secluded spot to knock him out and trigger his Emergency Alert (framing him like Komiya/Kinoshita); after praising his abilities, she attacks, and when her "Watashi" persona falters, she switches to the aggressive "Boku" persona of "Matsuo Eiichiro" (the son of a man killed by Atsuomi) — faster karate strikes fueled by hatred. Ayanokōji dismantles the persona as self-deception (she's too nonviolent to truly fight), and she collapses in tears, defeated without ever landing a hit.
+[rel:ayanokouji-kiyotaka] (p.287–304) Her target; she confesses her mission and fights him, but cannot bring herself to truly hurt him.
+[rel:tsukishiro] (p.289) Her handler who ordered the expulsion and would cover it up.
+[rel:matsuo-eiichiro] (p.299) The persona she impersonates — a real boy whose father was connected to Atsuomi.
+
+### y2v3 p.347–353 — Nanase's motive; accepting Ayanokōji's hand
+[scene] (p.347) In the rain, defeated, admits her loss and explains why she targeted him.
+[says] (p.347) "It's my loss… Ayanokōji-senpai."
+[says] (p.347) "Yes. It seems that, despite my best efforts, it truly isn't possible for me to beat you Senpai."
+[says] (p.347) "I… I enrolled in this school because I wanted to avenge my childhood friend."
+[says] (p.348) "Even after he was kicked out of his home, Eiichiro-kun said he wouldn't give up until the very end."
+[says] (p.349) "Earlier this year, on the evening of February 14th, I paid a visit to Eiichiro-kun's apartment."
+[says] (p.350) "If I could successfully get you expelled, he promised to let me meet your father, Senpai."
+[says] (p.350) "I knew that you weren't the one at fault, Ayanokōji-senpai, but… I wanted… no, needed someone to take it out on…"
+[says] (p.351) "I… I don't know how I can face you anymore, Senpai… I'm so, so sorry…"
+[says] (p.351) "I've failed to carry out the Acting Director's orders. There's no point in me staying here anymore."
+[says] (p.352) "─It's a promise."
+[trait] (p.347–353) Driven by grief and vindication — her childhood friend Eiichiro (the butler's son) was ruined by Atsuomi's schemes, his father self-immolated, and Eiichiro took his own life; Tsukishiro exploited this, promising her a meeting with Atsuomi if she expelled Ayanokōji; her contradictory behavior (helping him while trying to expel him) came from not truly believing in her mission; ashamed, she wanted to drop out, but accepts Ayanokōji's hand and promise to cooperate — finally meeting his eyes.
+[rel:ayanokouji-kiyotaka] (p.347–353) Confesses her vendetta, is forgiven, and becomes his ally.
+[rel:tsukishiro] (p.349–350) Manipulated her with the promise of meeting Atsuomi.
+[note] (p.348) Eiichiro's father (the Matsuo butler who served Atsuomi) burned himself to death; "that man" = Atsuomi.
+
+### y2v3 p.360–362 — Short story: "Unfathomable" — the cliff climb from her POV
+[scene] (p.360) From her own POV, reflects that her belief in equal stamina with Ayanokōji was naive — he clears obstacles at 50–60% capacity while she struggles, and she fears falling too far behind.
+[narrates] (p.360) "Don't… mind me. I will, catch up to you, at my own pace…!"
+[narrates] (p.360) "Retiring will be the least of your worries if you fall from here." — Ayanokōji
+[narrates] (p.361) "N-no, I won't have it."
+[narrates] (p.361) "It would leave a bad aftertaste if I went ahead and you hurt yourself." — Ayanokōji
+[narrates] (p.361) "No, this is the first time I'm moving up like this." — Ayanokōji
+[trait] (p.360–362) Grudgingly accepts his hand after he descends to help — moved that he offers kindness of his own accord; realizes he possesses "unfathomable abilities" and is "not normal," reaffirming her goal to defeat him and drag out "that person" (Matsuo) — the reason she came to this school.
+[rel:ayanokouji-kiyotaka] (p.360–362) Her target and reluctant climbing partner; she's awed by his effortless strength and resolves to defeat him.
+
+### y2v3 p.365–366 — Tapestry SS: "What Could Be Seen From that Back" — Beach Flags from her POV
+[scene] (p.365) From her own POV, lies prone for the Beach Flags final against third-year Tokunaga, aware Ayanokōji is watching.
+[narrates] (p.365) "Fuu…"
+[narrates] (p.366) "What a terrifying 1st year. It's my loss." — Tokunaga
+[narrates] (p.366) "I looked at the OAA app for any upperclassmen I had to be wary of when preparing for this special exam."
+[narrates] (p.366) "Thank you so much. I managed to win somehow."
+[trait] (p.365–366) Goes "all out" despite the demerit of showing her abilities, because she feels she must display full power at all times; wins decisively via flawless timing (synced to the pistol) and preparation (studied Tokunaga's OAA), then accepts the congratulations.
+[rel:ayanokouji-kiyotaka] (p.365–366) Watches her victory; she's conscious of performing for him.
+[rel:tokunaga] (p.366) The third-year opponent she studied and defeated.
 ## y2v4
 
 <!-- walk: y2v4 → start -->

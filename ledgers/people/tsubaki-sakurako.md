@@ -115,6 +115,23 @@ char_id: tsubaki-sakurako · class: Class 1-C · status: unknown
 
 <!-- walk: y2v3 Epilogue → p.368 -->
 
+### y2v3 p.267–273 — Tsubaki's trap: exposing and coercing Yagami
+[scene] (p.267) At 9 PM on day six, the first-year reps meet at F9 beach (bonfire signal) — Tsubaki (the unlikely organizer), Takahashi, Yagami, Utomiya, Hōsen (absent).
+[says] (p.268) "Well, he doesn't really seem the type to show up on time. Or maybe he's just not coming."
+[says] (p.270) "Not for you? Sorry, but I'm having a hard time believing that."
+[says] (p.270) "you might even be more obsessed with it than Hōsen-kun and Amasawa-san."
+[says] (p.270) "It's the kinda thing I can tell just by looking at you."
+[says] (p.271) "we gotta take action sooner rather than later."
+[says] (p.271) "If you don't willingly cooperate starting now, you might end up paying dearly later."
+[says] (p.271) "someone important to you'll be in danger, or something like that."
+[says] (p.272) "Ah, what's that about Kushida-senpai? Do tell."
+[says] (p.272) "Either you come clean and tell us what you know, or you retire right here, right now."
+[trait] (p.267–273) The hidden mastermind — perceptive ("eye for people"), she deduces Yagami's plot to use Kushida and that he's obsessed with expelling Ayanokōji; uses Utomiya's violence to coerce him, threatens Kushida, and forces his confession about Kushida's past and Ayanokōji's knowledge — proving she's been pulling strings from the shadows.
+[rel:yagami-takuya] (p.268–273) Sees through his "harmless" act; coerces his confession about Kushida.
+[rel:utomiya-riku] (p.272) Uses him as the muscle (Full Nelson/headlock) to intimidate Yagami.
+[rel:kushida-kikyou] (p.271–272) Knows Yagami is connected to her and threatens her to force cooperation.
+[rel:ayanokouji-kiyotaka] (p.271) Wants him expelled before Hōsen succeeds.
+[rel:housen-kazuomi] (p.268) Notes he never showed up to the meeting.
 ## y2v4
 
 <!-- walk: y2v4 → start -->

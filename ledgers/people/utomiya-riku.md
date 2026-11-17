@@ -82,6 +82,13 @@ char_id: utomiya-riku · class: Class 1-C · status: unknown
 
 <!-- walk: y2v3 Epilogue → p.368 -->
 
+### y2v3 p.267–273 — Utomiya enforces Tsubaki's will on Yagami
+[says] (p.272) "Sorry Yagami. I don't have anything against you, but… it can't be helped."
+[says] (p.272) "Either you come clean and tell us what you know, or you retire right here, right now."
+[says] (p.273) "Yer nearing your limit, Yagami-kun."
+[trait] (p.267–273) Acts as Tsubaki's enforcer — restrains Yagami in a Full Nelson then a headlock, apologizing but not relenting, threatening to retire him or extract Kushida's secrets directly; his control of Class 1-C is revealed to be a front for Tsubaki's manipulations.
+[rel:tsubaki-sakurako] (p.272) Carries out her coercion — "using Utomiya as a medium."
+[rel:yagami-takuya] (p.272–273) Physically interrogates him.
 ## y2v4
 
 <!-- walk: y2v4 → start -->

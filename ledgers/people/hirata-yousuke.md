@@ -1776,6 +1776,14 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y2v3 Epilogue → p.368 -->
 
+### y2v3 p.9–11 — Hirata's resolve before the island exam
+[says] (p.9) "This is a much bigger island than the last one, just like Mashima-sensei said it'd be."
+[says] (p.9) "We'll only have to stay there for two weeks, but some students might end up having to retire at some point."
+[says] (p.10) "I wonder if people used to live here?"
+[says] (p.10) "Securing water will probably be our first priority."
+[says] (p.11) "I'll put forth every effort so I have no regrets. That's the only thing I can do for the class."
+[trait] (p.9–11) Anxious about the coming changes (classes rising/falling, expulsions) but resolute — his hands clench the railing, yet when Ayanokōji asks if he's resolved he fixes his gaze and nods once; doesn't want anyone expelled but knows casualties are unavoidable.
+[rel:ayanokouji-kiyotaka] (p.9–11) Talks beside him on the ship; his resolve is tested and confirmed.
 ## y2v4
 
 <!-- walk: y2v4 → start -->

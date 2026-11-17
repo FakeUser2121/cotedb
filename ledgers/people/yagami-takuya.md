@@ -103,6 +103,34 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 
 <!-- walk: y2v3 Epilogue → p.368 -->
 
+### y2v3 p.268–273 — Yagami's plot exposed; forced confession
+[scene] (p.268) At the first-year reps meeting, presses Tsubaki to reveal her plan, having deduced she's the true mastermind.
+[says] (p.268) "While Hōsen-kun still isn't here yet, just a little should be fine, right?"
+[says] (p.269) "You've been scheming something big, have you not?"
+[says] (p.269) "Utomiya-kun's control of Class C is just a front. You're the one pulling the strings from the shadows, aren't you?"
+[says] (p.270) "That may be true for others, but not for me."
+[says] (p.272) "I think of each and every first-year student as I would my own classmate!"
+[says] (p.273) "…I understand. I'll tell you everything."
+[trait] (p.268–273) Shrewd and principled — correctly deduces Tsubaki's hidden role, refuses the 20-million bounty on moral grounds, tries to protect Kushida and his secret, but is overpowered by Utomiya and forced to confess everything about Kushida's past and Ayanokōji's knowledge.
+[rel:tsubaki-sakurako] (p.268–272) Deduces she's the mastermind; she sees through him and threatens Kushida.
+[rel:kushida-kikyou] (p.271–272) The "key" to his plot — his connection and hidden secret with her; he panics at the threat to her.
+[rel:utomiya-riku] (p.272–273) Physically coerces him into confessing.
+
+### y2v3 p.321–330 — Yagami confronts Kushida; his plan unravels
+[scene] (p.321–322) On day five, Kushida (via walkie-talkie) arranges to meet Yagami, the de-facto leader of Class 1-B, to demand an explanation for the first-years learning her past.
+[says:kushida-kikyou] (p.322) "I received your report over the walkie-talkie this morning. You're going to explain what happened, right?"
+[says] (p.322) "Yagami-kun."
+[says] (p.322) "Thank you very much for coming all the way out here on such short notice." — Yagami
+[says] (p.322) "Things have their way of taking a turn for the unexpected from time to time, Kushida-senpai."
+[says] (p.323) "Please allow me to apologize for that."
+[says] (p.324) "Yes, I suppose that's true. Looking at it from Senpai's perspective, that must be awfully important."
+[says] (p.324) "For your sake, Kushida-senpai, I'll add on a few things to my strategy."
+[says] (p.325) "You can still come back from this."
+[says] (p.326) "On the fifth day of my time on the uninhabited island, I encountered a lone first-year student." — narration
+[trait] (p.321–330) Calm and evasive — apologizes for the first-years (Takahashi, Tsubaki, Utomiya, Hōsen) learning Kushida's secret, claims it wasn't his fault, and tries to keep her aligned by promising to also expel those four once Ayanokōji is gone; reveals he knows Hōsen/Nanase's violent plan and that Nanase will be the one to fight Ayanokōji — maneuvering Kushida into a "chance" to act.
+[rel:kushida-kikyou] (p.321–326) His accomplice; she angrily confronts him for exposing her past and realizes she followed the wrong person.
+[rel:tsubaki-sakurako] (p.322–324) Names her among the first-years who pressured him into confessing.
+[rel:ayanokouji-kiyotaka] (p.325–326) His expulsion target; knows Nanase will fight him.
 ## y2v4
 
 <!-- walk: y2v4 → start -->

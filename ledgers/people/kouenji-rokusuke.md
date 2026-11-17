@@ -824,6 +824,18 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y2v3 Epilogue → p.368 -->
 
+### y2v3 p.221–237 — Kōenji's dominance: Tug of War and swimming
+[scene] (p.221) Already at the C5 summit when Ayanokōji arrives — traveled light with only a bottle of water, no tablet/bag; pours water over himself, basking in his own "masculine beauty."
+[says] (p.224) "Ah… such a splendidly handsome man I am, these drops of masculine beauty trickling down my magnificent body."
+[says] (p.224) "It seeeeems that my opponent is you, Ayanokōji-boy."
+[says] (p.225) "Fufu, so you're a man who thinks about things from the perspective of efficiency, hmmmm?"
+[says] (p.226) "you believe you have a chance to prevail over me is the fundamental reason you're having these wasteful thoughts."
+[says] (p.226) "Ayanokōji-boy, quit overselling your worth inside that head of yours."
+[says] (p.227) "To win at Tug of War, one needs not these paltry parlor tricks, but raw, unbridled power."
+[trait] (p.221–237) Supreme confidence and physical prowess — sees through Ayanokōji's efficiency-thinking instantly, overpowers his calculated counter-pull with raw strength, wins the Tug of War; later dominates a swimming Task too (takes the last spot at a harbor Task, wins, "powered up all the more since the year before"); undefeated in strength/stamina Tasks across all three years — a strong, hard-to-control force moving alone.
+[rel:ayanokouji-kiyotaka] (p.224–226) His first direct one-on-one opponent; reads him like an open book.
+[rel:nanase-tsubasa] (p.224) His self-talk baffles her.
+[rel:sakayanagi-arisu] (p.237) She notes his "surprisingly motivated" performance.
 ## y2v4
 
 <!-- walk: y2v4 → start -->

@@ -302,6 +302,16 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 
 <!-- walk: y2v3 Epilogue → p.368 -->
 
+### y2v3 p.16–27 — Mashima's island exam briefing
+[scene] (p.16) Class 2-A's homeroom teacher stands before the screen in the movie theater, microphone in hand, explaining the rules (with Hoshinomiya handing him the watch).
+[says] (p.16) "Starting tomorrow, your stay on the island will last for the next two weeks."
+[says] (p.18) "The first three groups to arrive at area C8 will receive an 'Early Bird Bonus', with the first receiving 10 points, the second receiving 5 points, and the third receiving 3 points."
+[says] (p.19) "should a group fail to reach a designated area three times in a row, they will lose one point."
+[says] (p.24) "Starting tomorrow, all students will be required to wear one of these watches until the end of the exam."
+[says] (p.25) "the school will continuously monitor the wearer's body temperature, heart rate, blood pressure, blood oxygen level, sleep cycle, stress levels, and so on."
+[says] (p.25) "Instead of a 'Warning Alert', this final alert is known as an 'Emergency Alert'."
+[trait] (p.16–27) Methodical — explains the Basic Movement rule (designated areas, bonuses, penalties), the 12-table system, and demonstrates the health-monitoring watch's Warning/Emergency alerts (with a staff member fastening it, since special tools are needed).
+[note] (p.20) Mashima notes only one member needs to reach a designated area to avoid the penalty, though the Arrival Bonus is per person.
 ## y2v4
 
 <!-- walk: y2v4 → start -->

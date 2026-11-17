@@ -1144,6 +1144,21 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y2v3 Epilogue → p.368 -->
 
+### y2v3 p.169–207 — Ike's ordeal: Shinohara's accident and his confession
+[scene] (p.169) Rushes to Komiya's side; learns Shinohara is missing and calls her name into the forest.
+[says] (p.172) "Shinohara-!!"
+[says] (p.176) "Komiya, where's Shinohara!?"
+[says] (p.178) "Shinohara-!!"
+[says] (p.195) "Shinohara would never lie!"
+[says] (p.196) "How could you! Then what's gonna happen to Komiya and Kinoshita!?"
+[says] (p.202) "I… I'll do something about it!"
+[says] (p.202) "I won't! You think I'm gonna let you get expelled cuz of somethin' like this?"
+[says] (p.204) "There is! There's all sorts of stuff! I really don't want you to get expelled! That's why I'm gonna save you whether you like it or not!"
+[trait] (p.169–207) Desperate and lovesick but transformed — defends Shinohara furiously against Sakagami's suggestion she's lying, and after Komiya entrusts her to him ("Show me how much of a man you are"), repeatedly takes her wrist and finally blurts an inelegant, emotion-filled declaration that he'll save her "whether you like it or not" — his own way of confessing.
+[rel:shinohara] (p.172–204) Desperately searches for her and refuses to let her be expelled.
+[rel:komiya] (p.195–200) His rival in love; defends his account and receives his entrustment.
+[rel:sudou-ken] (p.203) Sudō and Hondō back his resolve; Sudō beats his chest to encourage him.
+[rel:ayanokouji-kiyotaka] (p.205–207) Receives his plan and instructions for protecting Shinohara.
 ## y2v4
 
 <!-- walk: y2v4 → start -->

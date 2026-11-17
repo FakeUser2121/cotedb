@@ -1730,6 +1730,23 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v3 Epilogue → p.368 -->
 
+### y2v3 p.84–96 — Sudō's group: quiz win, Ike's funk, and the beach meetup
+[scene] (p.84) At the quiz Task registration, spots Ayanokōji and warns him only three spots remain.
+[says] (p.84) "Yo! Ayanokōji! There's only three spots left!"
+[says] (p.85) "I'm doin' aight' on points."
+[says] (p.85) "Took third in one of our designated areas today, and first in two Tasks so far as well."
+[says] (p.85) "Hell, you were gonna join in too!? If that happened you wouldda prolly given me a run for my money, so lucky me eh?"
+[says] (p.86) "we're runnin' outta water faster than expected… Kinda feels like I mighta been runnin' around too much."
+[says] (p.87) "Looks to me like you came here with her, but you know she's an enemy right?"
+[says] (p.87) "That chick is workin' together with Hōsen to get you kicked outta here right?"
+[says] (p.87) "If you run into trouble make sure you let me know aight?"
+[says] (p.90) "We freakin' did it Kanji!"
+[says] (p.95) "how 'bout we all meet up after an' camp together? Should be more fun with friends."
+[trait] (p.84–96) Mature and protective — leads his group to 1st in the anime quiz (95%), worries about Ayanokōji traveling with the enemy Nanase, admits his own group is burning through water and that Ike has been listless before the exam; proposes a friendly beach camp meetup and asks Ayanokōji for strategy advice.
+[rel:ayanokouji-kiyotaka] (p.84–96) Warns him about Nanase; offers to help if he's in trouble; arranges the 5:30 G9 beach meetup.
+[rel:nanase-tsubasa] (p.87) Suspicious of her as Hōsen's ally; would have told her to "buzz off."
+[rel:ike-kanji] (p.86–90) Notes he's been listless and acting strangely before the exam; celebrates the quiz win with him.
+[rel:hondou-ryoutarou] (p.85) His group member, strong at trivia.
 ## y2v4
 
 <!-- walk: y2v4 → start -->

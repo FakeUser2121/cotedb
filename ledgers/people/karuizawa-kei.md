@@ -1635,6 +1635,16 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v3 Epilogue → p.368 -->
 
+### y2v3 p.11–14 — A secret moment with Kiyotaka on the ship
+[scene] (p.11) Waves Ayanokōji over on theaft deck of the "Saint Venus," making sure nobody's around; they stand together looking at the sparkling sea.
+[says] (p.11) "Such an amazing view, huh…?"
+[says] (p.12) "So anyway like, is it really okay for us to be on a date together out in the open like this…?"
+[says] (p.13) "It still kinda doesn't feel real…"
+[says] (p.13) "Not that… I'm talking 'bout how it doesn't feel real that I'm goin' out with you."
+[says] (p.13) "You're so smart, and yet you totally miss the mark about this kinda stuff, huh?"
+[says] (p.14) "Sounds like the first-years are done. We can't go together, so I'll head off first."
+[trait] (p.11–14) Romantic and nervous — enjoys the "date" but restless about being seen; admits it doesn't feel real that she's dating him; takes the initiative to leave alone first so they aren't seen walking together.
+[rel:ayanokouji-kiyotaka] (p.11–14) His girlfriend; they steal a rare private moment and she goes to the briefing separately.
 ## y2v4
 
 <!-- walk: y2v4 → start -->

@@ -360,6 +360,17 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 
 <!-- walk: y2v3 Epilogue → p.368 -->
 
+### y2v3 p.65–67 — Hoshinomiya at the Task site; her transfer proposal
+[scene] (p.65) Keeps Ayanokōji at the Grip Strength Measurement Task site as an excuse to talk, openly dissatisfied that her Class 2-C fell to Class C.
+[says] (p.65) "Sudō-kun has changed an awful lot, don'tcha think? I wonder who's responsible."
+[says] (p.65) "Anyway, I've really like, lost my cool here. This is the first time I've ever had a class go and drop down to Class C like this."
+[says] (p.65) "there always used to be an order to things. Class A would compete with Class B while Class C and Class D went at each other, you feel me~?"
+[says] (p.66) "you know what, Sensei's got a totally revolutionary idea for you!"
+[says] (p.66) "Ah! Me, me!" — covering her ears when he suggests it's her duty as homeroom teacher
+[says] (p.67) "There are two weeks until the end of the exam. I'm prolly gonna get sent around the island a lot, so maybe we'll meet each other again~."
+[trait] (p.65–67) Childlike and flirtatious ("a woman who had never truly graduated from her years as a student"), uses physical contact as a "weapon" but falters recalling his warning; proposes he transfer to her class (now Class C) to aim for Class A — a "revolutionary" idea Ayanokōji finds not at all clever.
+[rel:ayanokouji-kiyotaka] (p.65–67) Tries to recruit him; he declines with reasoned logic (20M points, uncertain Class A outcome) and hopes not to meet her again.
+[rel:sudou-ken] (p.65) Notes his dramatic growth; Ayanokōji credits Horikita.
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

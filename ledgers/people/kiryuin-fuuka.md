@@ -9,6 +9,18 @@ char_id: kiryuin-fuuka · class: unknown · status: unknown
 ### y2v3 pp.7-368 — Full volume
 
 [scene] (p.7) Appears in this volume.
+
+### y2v3 p.50–52 — Kiryūin-senpai, a fellow solo third-year
+[scene] (p.50) Spotted among the calm Class 3-B students disembarking; approaches Ayanokōji at the starting area while he searches for Nagumo.
+[says] (p.51) "You're still here, Ayanokōji?"
+[says] (p.51) "But you're alone, right? You should be fine to think it over while you walk."
+[says] (p.51) "If there's something you wanna know, I can help explain it to you."
+[says] (p.51) "There's something… enchanting about seeing the entire student body scatter throughout the uninhabited island."
+[says] (p.52) "Though there are more than 400 of us, we're nothing but insignificant specks of dust in comparison."
+[says] (p.52) "Hoh? Sounds like we've got the same destination then. At least for this first one."
+[says] (p.52) "Please don't be too hard on me, then."
+[trait] (p.50–52) A third-year (Class 3-B) who also chose to tackle the exam alone — keen-eyed (questions why he lingers), calm, even wistful ("enchanting," "insignificant specks of dust"), and seemingly looking forward to the exam; shares his D7 destination and proposes traveling together.
+[rel:ayanokouji-kiyotaka] (p.50–52) Recognizes him; offers help, then travels with him toward D7.
 ## y2v2
 
 <!-- walk: y2v2 → start -->

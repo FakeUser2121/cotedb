@@ -188,6 +188,18 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 
 <!-- walk: y2v3 Epilogue → p.368 -->
 
+### y2v3 p.309–319 — Amasawa exposes Kushida; declares Ayanokōji "special"
+[scene] (p.309) Revealed as Kushida's walkie-talkie accomplice; records the fight on her tablet, then drags Kushida away and confronts her.
+[says] (p.309) "Shh~ I get you're surprised but you've like, gotta be quiet, Kushida-senpai."
+[says] (p.312) "You're a nasty, vile woman who's totally caught"
+[says] (p.314) "Don't try and hide it, Kushida-senpai. I can see through your every move."
+[says] (p.315) "I'm going to get dirt on Ayanokōji and get him kicked outta here,"
+[says] (p.315) "I'll say it again. Ayanokōji-senpai is a very special person to me. I'll never allow him to get expelled by an outsider like you."
+[says] (p.318) "Your strength," —admiring Kushida even as she defeats her
+[trait] (p.309–319) Playful, cruel and perceptive — knows far more than Ayanokōji about Kushida's true nature and Yagami's plot, taunts her about wanting to assert her "mask," and though she too wants Ayanokōji expelled, refuses to let an "outsider" like Kushida do it — "Ayanokōji-senpai is a very special person to me."
+[rel:kushida-kikyou] (p.309–319) Exposes and defeats her;admires her strength even while mocking her.
+[rel:ayanokouji-kiyotaka] (p.315) Calls him "a very special person" — protective of him against other threats.
+[rel:yagami-takuya] (p.322) Later confronts him too — he had been manipulating Kushida.
 ## y2v4
 
 <!-- walk: y2v4 → start -->

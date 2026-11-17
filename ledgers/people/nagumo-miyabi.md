@@ -558,6 +558,19 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y2v3 Epilogue → p.368 -->
 
+### y2v3 p.130–132 — Nagumo's beach warning and hidden strategy
+[scene] (p.130) In the ocean near the Task site with Asahina and other third-years, having rented swimsuits and a beach ball; beckons Ayanokōji over.
+[says] (p.130) "I'll say it again just to be sure: Don't get in my way, got it?"
+[says] (p.130) "How about you come take a swim with us?"
+[says] (p.131) "the real event starts tomorrow."
+[says] (p.131) "First and second-years have no right to stand on the winners' podium. You're no exception either, so keep that in mind."
+[says] (p.131) "Horikita-senpai would probably be fairly disappointed if you self-destructed and got yourself expelled."
+[says] (p.131) "In that case, you'd better group up with someone as soon as possible."
+[trait] (p.130–132) Confident and calculating — plays relaxed on the beach while hiding a strategy to keep first/second-years off the podium (to be used if they threaten the top); warns Ayanokōji pointedly, references Horikita, and walks off with Masuwaka to discuss something privately (away from Ayanokōji).
+[rel:ayanokouji-kiyotaka] (p.130–132) Warns him not to get in his way; hints he has a strategy against lower years — Ayanokōji suspects it's real.
+[rel:asahina-nazuna] (p.131–132) Class 2-C's Mii-chan playing in the ocean; tries to warn Ayanokōji about Nagumo.
+[rel:horikita-suzune] (p.131) References her — knows of their connection.
+[rel:masuwaka] (p.131) Third-year who calls Nagumo away for a private talk.
 ## y2v4
 
 <!-- walk: y2v4 → start -->

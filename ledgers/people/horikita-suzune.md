@@ -4136,6 +4136,31 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v3 Epilogue → p.368 -->
 
+### y2v3 p.44–50 — Horikita before and after disembarking
+[says] (p.44) "Good morning. Did you sleep well yesterday?"
+[says] (p.45) "I see you're still patronizing me about what happened last year."
+[says] (p.45) "You're awfully chipper even though such a serious special exam is about to start."
+[says] (p.45) "Yes, I have. I'm just glad that it didn't happen to one of our classmates."
+[says] (p.46) "Mine is F9. Looks like the two of us have different Tables."
+[says] (p.46) "That… would be troublesome."
+[says] (p.47) "I lent you some points just the other day. I'd be mad if I didn't get any back."
+[says] (p.47) "I know you have that contract with Kushida-san, so I can't blame you for being troubled for money."
+[says] (p.48) "Thanks for your most exceptional advice then."
+[says] (p.50) "What do you want?" — to Ibuki
+[says] (p.50) "I don't see myself as her rival at all though?"
+[trait] (p.44–50) Chipper and confident (leagues ahead of a year ago); her Table differs from Ayanokōji's; says she'd be "troubled" if he were expelled (jokingly citing the points she lent him); heads east; wears a hat (he can't afford one); Ibuki declares she'll never lose to her.
+[rel:ayanokouji-kiyotaka] (p.44–48) Chats before departing; would be troubled by his expulsion; he warns her about going solo.
+[rel:ibuki-mio] (p.50) She approaches to declare she'll never lose; Horikita doesn't see her as a rival.
+[rel:kouenji-rokusuke] (p.48) Notes Kōenji strode past smiling — a coin flip whether he'll take the exam seriously.
+
+### y2v3 p.363–364 — Short story: "A Brief Farewell" — leaving Ayanokōji at the starting line
+[scene] (p.363) From her own POV, tells Ayanokōji she's leaving as she adjusts her sun hat, he staying at the starting line having seen her off.
+[narrates] (p.363) "Well then, I'll be leaving."
+[narrates] (p.363) "…no need to worry, huh?"
+[narrates] (p.364) "As if… I guess that wasn't like me."
+[narrates] (p.364) "First priority is to fight in the best way only I knew possible"
+[trait] (p.363–364) Reflects she needn't worry about him — having watched him up close all year, always calm, always finding the right answer and winning; acknowledges his flaws (needing to reveal some ability, poor communication) but that he shields them using others; realizes she wants to become someone who can "cover his back, a partner he could rely on," but that mimicking his style is useless — her priority is to fight her own way on the island.
+[rel:ayanokouji-kiyotaka] (p.363–364) She wants to become someone who can stand shoulder-to-shoulder with him and cover his back — a feeling she can't quite name.
 ## y2v4
 
 <!-- walk: y2v4 → start -->
