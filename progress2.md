@@ -3163,3 +3163,11 @@ perfect in math; Ryuuen's strategy; Horikita recovers; Epilogue with Kushida,
 Kitou, and Nanase/Tsukishiro phone call. Ledgers touched: volume + 40+
 people ledgers. verify ALL PASS; build/gate/check OK; hash stable
 db6948f25f64cc3204eed2143f7a7156. Next: y3v2.
+
+### y3v2 — walked, shipped
+
+Volume 3, Volume 2 (pp.10–263): Nanase's monologue, Ayanokōji's transfer to Class C,
+school life, special exam (daily conduct), Hiyori reunion, Yamamura's courage,
+Horikita's struggle, Epilogue with Horikita/Karuizawa/Ishigami, short stories.
+Ledgers touched: volume + 50+ people ledgers. verify ALL PASS; build/gate/check OK;
+hash stable 73ad0bafe656a36a390cf0b4846ec97f. Next: y3v3.

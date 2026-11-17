@@ -282,3 +282,14 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [scene] (p.190) Tells Ike not to get the wrong idea about accepting.
 [says] (p.190) “D-don’t get the wrong idea, kay? The special exam is coming up soon, so this is just my last chance to relax. And since you’re saying you’ll pay and everything, how could I say no?”
 [rel:ike-kanji] (p.190) Accepts his White Day invitation.
+
+## y3v2
+
+<!-- walk: y3v2 → start -->
+
+### y3v2 pp.10-263 — Full volume
+
+[scene] (p.10) Appears in this volume.
+
+
+<!-- walk: y3v2 Epilogue → p.263 -->
