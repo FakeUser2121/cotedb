@@ -690,6 +690,13 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y1v10 Epilogue → p.362 -->
 
+### y1v10 pp.294, 298 — Epilogue: Spared from expulsion
+
+[scene] (p.294) Demands an explanation when Sakayanagi says he was never the target.
+[says] (p.294) “Wait, Sakayanagi! The one who should’ve been expelled was me!”
+[scene] (p.298) Accepts Sakayanagi’s warning not to oppose Class A.
+[says] (p.298) “I told you I understood. You don’t have to drag anyone else into this.”
+[rel:sakayanagi-arisu] (p.294, 298) Learns he was spared and submits to her control.
 ## y1v11
 
 <!-- walk: y1v11 → start -->

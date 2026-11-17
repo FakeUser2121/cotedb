@@ -4835,6 +4835,17 @@ walk: y1v1 → DONE
 
 <!-- walk: y1v10 Short Stories → p.376 -->
 
+### y1v10 pp.287, 332, 350 — Epilogue: Added voice lines
+
+[scene] (p.287) Denies having done anything when Horikita asks.
+[says] (p.287) “Does it look like I’ve done something?”
+[scene] (p.332) Tells Ishizaki and Ibuki the exam is not simple enough to save someone just by wanting to.
+[says] (p.332) “This exam isn’t so simple that you can save someone just because you want to.”
+[scene] (p.350) Teases Ichinose about having started dating Nagumo otherwise.
+[says] (p.350) “Would’ve started dating Nagumo?”
+[rel:horikita-suzune] (p.287) Talks with her on the morning of the vote.
+[rel:ishizaki-daichi] (p.332) Advises him on saving Ryūen.
+[rel:ichinose-honami] (p.350) Speaks with her by phone after the exam.
 ## y1v11
 
 <!-- walk: y1v11 → start -->

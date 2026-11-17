@@ -1450,6 +1450,18 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y1v10 Epilogue → p.362 -->
 
+### y1v10 pp.174–180 — Ch.4: Revealing the mastermind
+
+[scene] (p.174) Greets Ayanokōji and notes he is in a pinch.
+[says] (p.174) “Good evening, Ayanokōji-kun. I somehow thought I’d be getting a call from you today.”
+[says] (p.174) “Yep. Looks like you’re in quite the pinch.”
+[scene] (p.174) Refuses to leak information because she would be targeted next.
+[says] (p.174) “Oh don’t tell me that you wanted me to clue you in just because of our cooperative relationship, okay? If I leaked any information to you, I’d be the one being targeted next time, after all~”
+[scene] (p.179) Names Yamauchi as the tentative mastermind.
+[says] (p.179) “It’s Yamauchi-kun.”
+[scene] (p.180) Confirms Sakayanagi is supporting Yamauchi from behind the scenes.
+[says] (p.180) “It’s surprising, but, yes, that’s exactly what’s going on.”
+[rel:ayanokouji-kiyotaka] (p.174–180) Tells him who is behind the expulsion plot.
 ## y1v11
 
 <!-- walk: y1v11 → start -->

@@ -1273,6 +1273,20 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y1v10 Short Stories → p.376 -->
 
+### y1v10 pp.253, 259, 261, 344, 350 — Ch.6/Epilogue: Added voice lines
+
+[scene] (p.253) States she will not let a single Class B student be expelled.
+[says] (p.253) “I won’t let a single one of us be expelled.”
+[scene] (p.259) Asks Nagumo whether he likes her before agreeing to date him.
+[says] (p.259) “Senpai… D-do you, uh… do you like me?”
+[scene] (p.261) Steels her resolve to protect everyone on her own.
+[says] (p.261) “I… will protect everyone.”
+[scene] (p.344) Confirms she will use Class B’s twenty million points to save one of her classmates.
+[says] (p.344) “With twenty million points, I’ll save one of my classmates… Right?”
+[scene] (p.350) Tells Ayanokōji she will rise to Class A with her friends.
+[says] (p.350) “I’m gonna rise up to Class A together with all my friends and graduate.”
+[rel:nagumo-miyabi] (p.259) Asks him whether he likes her.
+[rel:ayanokouji-kiyotaka] (p.344, 350) Confirms the deal and reports her resolve.
 ## y1v11
 
 <!-- walk: y1v11 → start -->

@@ -689,6 +689,27 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 
 <!-- walk: y1v10 Ch5 → p.237 -->
 
+### y1v10 pp.162–168 — Ch.4: Meeting with Ayanokōji
+
+[scene] (p.162) Meets Ayanokōji at a rest area and asks about Suzune.
+[says:ayanokouji-kiyotaka] (p.162) “Sorry for calling you out here.”
+[scene] (p.163) Reacts to news of the supplemental exam.
+[says] (p.163) “I hear a supplemental special exam has begun.”
+[scene] (p.163) Dismisses Ayanokōji’s involvement.
+[says] (p.163) “You’re doing something unnecessary.”
+[scene] (p.164) Says Suzune will not approach him.
+[says] (p.164) “Suzune isn’t going to approach me.”
+[scene] (p.164) Says he and Suzune are too different.
+[says] (p.164) “You’re asking for the impossible. Horikita and I are far too different.”
+[scene] (p.164) Replies that Ayanokōji is more similar to Suzune than he is.
+[says] (p.164) “At least more so than me.”
+[scene] (p.166) Answers Ayanokōji’s call after doing the dishes.
+[says] (p.166) “What is it?”
+[scene] (p.167) Agrees to Ayanokōji’s proposal.
+[says] (p.167) “Indeed. I wouldn’t have agreed if that were not the case.”
+[scene] (p.168) Agrees to act the next day.
+[says] (p.168) “...Alright. We’ll act tomorrow.”
+[rel:ayanokouji-kiyotaka] (p.162–168) Meets him and agrees to cooperate.
 ## y1v11
 
 <!-- walk: y1v11 → start -->

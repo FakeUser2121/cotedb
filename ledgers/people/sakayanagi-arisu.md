@@ -629,6 +629,27 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y1v10 Short Stories → p.376 -->
 
+### y1v10 pp.269, 273–274, 277–278, 284, 294, 298 — Ch.6/Epilogue: Added voice lines
+
+[scene] (p.269) Tells Kamuro she is training Yamauchi to use him as a spy within Class C.
+[says] (p.269) “I’m training him. To see whether or not I can use him as a spy within Class C.”
+[scene] (p.273) Promises Yamauchi that about twenty Class A students will use their praise votes on him.
+[says] (p.273) “There are about twenty people who follow me in Class A. I’ll have all of them use their praise votes on you, Yamauchi-kun.”
+[scene] (p.274) Decides to make Ayanokōji the sacrifice in Yamauchi’s place.
+[says] (p.274) “In which case, let’s have him be the sacrifice.”
+[scene] (p.277) Tells Kamuro that Ayanokōji is powerful, beyond Katsuragi, Ryūen, and Ichinose.
+[says] (p.277) “He’s powerful.”
+[says] (p.277) “People like Katsuragi-kun, Ryūen-kun, and Ichinose-san wouldn’t even stand a chance against him.”
+[scene] (p.278) Says she hopes to see Ayanokōji take things seriously before having him expelled.
+[says] (p.278) “I hope I can see him take things seriously before I have him expelled.”
+[scene] (p.284) Explains that even a herbivore will fight when it knows it has become prey.
+[says] (p.284) “Should it know that it’s become someone’s prey, even a herbivore will try to fight for it’s life if it comes down to it.”
+[scene] (p.294) Reveals to Katsuragi that she never intended to expel him.
+[says] (p.294) “Expulsion? You? You weren’t the target in the first place.”
+[scene] (p.298) Tells Katsuragi he has no reason to bear a grudge against her.
+[says] (p.298) “There’s no reason for you to bear a grudge against me, Katsuragi-kun.”
+[rel:katsuragi-kouhei] (p.294, 298) Spares him and warns him.
+[rel:kamuro-masumi] (p.277–278) Discusses Ayanokōji’s strength with her.
 ## y1v11
 
 <!-- walk: y1v11 → start -->

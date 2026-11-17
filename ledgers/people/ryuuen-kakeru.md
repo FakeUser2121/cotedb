@@ -1562,6 +1562,18 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y1v10 Epilogue → p.362 -->
 
+### y1v10 pp.249, 316, 348 — Ch.6/Epilogue: Added voice lines
+
+[scene] (p.249) Says goodbye to Ibuki after transferring his private points.
+[says] (p.249) “Goodbye Ibuki.”
+[scene] (p.316) Comments on surviving the Class Poll at the bulletin board.
+[says] (p.316) “Kuku. It seems like the Grim Reaper has taken pity on me.”
+[scene] (p.348) Complains that being saved by Ishizaki and Ibuki is an annoying gift.
+[says] (p.348) “So you’re sayin’ I was saved by Ishizaki and Ibuki, huh? What an annoying gift they’ve given me.”
+[scene] (p.348) Answers Ayanokōji’s question about a future exam with a laugh.
+[says] (p.348) “Kuku. Who knows?”
+[rel:ibuki-mio] (p.249, 348) Transfers points to her and later acknowledges her role.
+[rel:ayanokouji-kiyotaka] (p.316, 347–348) Speaks with him about how he was saved.
 ## y1v11
 
 <!-- walk: y1v11 → start -->

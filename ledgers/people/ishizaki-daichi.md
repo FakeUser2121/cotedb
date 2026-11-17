@@ -471,6 +471,13 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y1v10 Epilogue → p.362 -->
 
+### y1v10 pp.331, 332 — Epilogue: Saving Ryūen
+
+[scene] (p.331) Says he will not take Ryūen’s private points either.
+[says] (p.331) “I won’t either!”
+[scene] (p.332) Threatens to get at least one hit on Ayanokōji.
+[says] (p.332) “Even if I’m no match for him, I’ll at least get one hit in!”
+[rel:ibuki-mio] (p.331–332) Agrees with her to recover nothing and threatens Ayanokōji.
 ## y1v11
 
 <!-- walk: y1v11 → start -->

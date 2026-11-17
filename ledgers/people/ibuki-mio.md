@@ -691,6 +691,24 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y1v10 Epilogue → p.362 -->
 
+### y1v10 pp.245, 334, 338, 344 — Ch.6/Epilogue: Added voice lines
+
+[scene] (p.245) Asks Ishizaki whether he really wants Ryūen expelled.
+[says] (p.245) “You don’t really want Ryūen to be expelled, do you?”
+[scene] (p.334) Reports by phone that she has recovered all of Ryūen’s private points.
+[says] (p.334) “It’s me. I’ve gotten all of Ryūen’s private points.”
+[scene] (p.338) Tells Ayanokōji she wants Manabe expelled.
+[says] (p.338) “Manabe. It’s just my personal preference though.”
+[scene] (p.344) Calls Ichinose an idiot for throwing away her points.
+[says] (p.344) “You’re an idiot, aren’t you Ichinose?”
+[rel:ishizaki-daichi] (p.245) Discusses saving Ryūen with him.
+[rel:ichinose-honami] (p.338, 344) Makes the deal to save Ryūen with her.
+
+### y1v10 pp.245 — Ch.6: Recalling Ayanokōji’s words
+
+[scene] (p.245) Ibuki recalls Ayanokōji’s warning about the exam.
+[says:ayanokouji-kiyotaka] (p.245) “This exam isn’t simple enough for you to be able to save someone just because you say you want to.”
+[rel:ayanokouji-kiyotaka] (p.245) Remembers his words while deciding whether to act.
 ## y1v11
 
 <!-- walk: y1v11 → start -->

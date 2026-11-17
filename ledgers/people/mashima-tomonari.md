@@ -145,6 +145,12 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 
 <!-- walk: y1v10 Epilogue → p.362 -->
 
+### y1v10 pp.294 — Epilogue: Announcing Class A results
+
+[scene] (p.294) Calmly confirms there were no mistakes when Katsuragi protests Totsuka’s expulsion.
+[says] (p.294) “There haven’t been any mistakes.”
+[rel:katsuragi-kouhei] (p.294) Confirms the result when Katsuragi protests.
+[rel:totsuka-yahiko] (p.293–294) Announces his expulsion.
 ## y1v11
 
 <!-- walk: y1v11 → start -->

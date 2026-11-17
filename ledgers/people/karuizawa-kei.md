@@ -1205,6 +1205,21 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y1v10 Short Stories → p.376 -->
 
+### y1v10 pp.168–170 — Ch.4: Warning by phone
+
+[scene] (p.168) Calls Ayanokōji in a panic to warn him.
+[says] (p.168) “Jeez, finally you pick up…!”
+[scene] (p.168) Tells him the whole class plans to vote him out.
+[says] (p.168) “No duh I’m panicked… Like, something absolutely terrible’s happened Kiyotaka.”
+[scene] (p.169) Says around half the class has agreed to vote against him.
+[says] (p.169) “I dunno exactly… But, from the feel of it, it’s prolly already around half the class.”
+[scene] (p.170) Urges him to do something.
+[says] (p.170) “You’re gonna do something, right? Like, you can do something about it, right?”
+[scene] (p.170) Asks what he will do.
+[says] (p.170) “It’s no big deal or anything, but… For real, what’re you gonna do?”
+[scene] (p.170) Says he could have been expelled unnoticed without her.
+[says] (p.170) “You may seem perfect, but even you have flaws okay? If I wasn’t here, isn’t it totally possible you could’ve been expelled without noticing anything?”
+[rel:ayanokouji-kiyotaka] (p.168–170) Warns him by phone.
 ## y1v11
 
 <!-- walk: y1v11 → start -->

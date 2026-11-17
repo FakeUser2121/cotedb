@@ -212,6 +212,13 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 
 <!-- walk: y1v10 Ch6 → p.285 -->
 
+### y1v10 pp.269, 283 — Ch.6: With Sakayanagi and Yamauchi
+
+[scene] (p.269) Reacts with disbelief when Sakayanagi says she likes Yamauchi.
+[says] (p.269) “Caught your eye…? Do you like him?”
+[scene] (p.283) Accuses Sakayanagi of messing up by letting Karuizawa into the plan.
+[says] (p.283) “You messed up, didn’t you, Sakayanagi?”
+[rel:sakayanagi-arisu] (p.269, 283) Questions her manipulation of Yamauchi and the leak.
 ## y1v11
 
 <!-- walk: y1v11 → start -->

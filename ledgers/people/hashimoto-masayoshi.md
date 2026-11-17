@@ -355,6 +355,11 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 
 <!-- walk: y1v10 Epilogue → p.362 -->
 
+### y1v10 pp.283 — Ch.6: Post-mortem with Sakayanagi
+
+[scene] (p.283) Points out that Yamauchi might have had a way out if the plan had not come to light.
+[says] (p.283) “But, if things hadn’t come to light, Yamauchi might’ve had a way out too.”
+[rel:sakayanagi-arisu] (p.283) Discusses the consequences of the leak.
 ## y1v11
 
 <!-- walk: y1v11 → start -->

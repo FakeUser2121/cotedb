@@ -1478,6 +1478,13 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y1v10 Epilogue → p.362 -->
 
+### y1v10 pp.290 — Epilogue: Volunteering
+
+[scene] (p.290) Volunteers to be expelled and says he is prepared for it.
+[says] (p.290) “It’ll be fine if I’m expelled. I’m prepared to do at least that much.”
+[scene] (p.290) Says he is volunteering as the one to be expelled.
+[says] (p.290) “So I’m volunteering.”
+[rel:horikita-suzune] (p.290) Volunteers in her place.
 ## y1v11
 
 <!-- walk: y1v11 → start -->

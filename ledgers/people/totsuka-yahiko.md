@@ -240,6 +240,11 @@ char_id: totsuka-yahiko · class: Class 1-A (enrolled April 2015) · status: min
 
 <!-- walk: y1v10 Epilogue → p.362 -->
 
+### y1v10 pp.293 — Epilogue: Expulsion from Class A
+
+[scene] (p.293) Reacts in disbelief when announced as the one expelled instead of Katsuragi.
+[says] (p.293) “K-Katsuragi-san… Why? Wha…?”
+[rel:katsuragi-kouhei] (p.293) Expected him to be expelled instead.
 ## y1v11
 
 <!-- walk: y1v11 → start -->

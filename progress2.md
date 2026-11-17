@@ -3069,3 +3069,34 @@ titles/ledes (rule 12). Added closing stamp
 `<!-- walk: y1v11.75 Section → DONE -->`. `verify --vol y1v11.75`: ALL PASS;
 `build`/`gate`/`make check` OK; hash stable
 `c94d311b46e7064be17d0bbb329e2f51`. Next: y1v10 redo remaining gaps.
+
+### y1v10 redo enrichment — Ch.4 residuals, Ch.6, Epilogue (added voice lines)
+
+Append-only enrichment pass over `text/COTE Y1 V10.txt` vs ledgers for
+y1v10. Added corpus-anchored `[says]` rows (plus supporting `[scene]`/`[rel]`)
+for previously under-quoted chapters: Ch.4 residuals (Manabu/Tachibana
+rest-area conversation, Karuizawa’s phone warning, Kushida revealing
+Yamauchi/Sakayanagi), Ch.6 (Ichinose, Nagumo, Sakayanagi, Katsuragi,
+Mashima, Kamuro, Hashimoto, Totsuka, Hirata, Ryūen, Ibuki, Ishizaki,
+Ayanokōji), and Epilogue (Hirata, Ryūen, Ibuki, Ishizaki, Ayanokōji,
+Ichinose, Katsuragi, Sakayanagi, Mashima, Kamuro, Hashimoto, Totsuka,
+plus Ibuki’s recalled Ayanokōji quote). Existing rows and stamps preserved.
+Ledgers touched: `ledgers/people/ichinose-honami.md`,
+`ledgers/people/nagumo-miyabi.md`,
+`ledgers/people/sakayanagi-arisu.md`,
+`ledgers/people/katsuragi-kouhei.md`,
+`ledgers/people/mashima-tomonari.md`,
+`ledgers/people/kamuro-masumi.md`,
+`ledgers/people/hashimoto-masayoshi.md`,
+`ledgers/people/totsuka-yahiko.md`,
+`ledgers/people/hirata-yousuke.md`,
+`ledgers/people/ryuuen-kakeru.md`,
+`ledgers/people/ibuki-mio.md`,
+`ledgers/people/ishizaki-daichi.md`,
+`ledgers/people/ayanokouji-kiyotaka.md`,
+`ledgers/people/horikita-manabu.md`,
+`ledgers/people/karuizawa-kei.md`,
+`ledgers/people/kushida-kikyou.md`.
+`verify --vol y1v10`: ALL PASS (473 [says], 9 non-says quoted);
+`build`/`gate`/`make check` OK; hash stable
+`ac71ffe4c4cdd2f1ea2e2131a2abc5ef`. Next: y1v11 redo from Ch.2 onward.

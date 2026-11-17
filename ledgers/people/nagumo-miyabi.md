@@ -477,3 +477,15 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [rel:ayanokouji-kiyotaka] (p.94–104) Is observed by him during the farewell exchanges.
 
 <!-- walk: y1v11.5 ch1 → p.120 -->
+
+### y1v10 pp.257–259 — Ch.6: Lending points to Ichinose
+
+[scene] (p.257) Takes Ichinose’s call and confirms their arrangement.
+[says] (p.257) “Honami? This is about our little arrangement, right?”
+[scene] (p.258) Asks how many more points she needs after she collects her classmates’ points.
+[says] (p.258) “How many more do you need?”
+[scene] (p.259) Answers without hesitation when Ichinose asks whether he likes her.
+[says] (p.259) “I wouldn’t have made this a condition if I didn’t like you.”
+[scene] (p.259) Warns her about his deadline before transferring the points.
+[says] (p.259) “Be careful. I’m a man who’s fussy about keeping deadlines.”
+[rel:ichinose-honami] (p.257–259) Confirms the conditions and pressures her to decide.
