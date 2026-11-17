@@ -3261,3 +3261,9 @@ hash stable 5d5ac4a00ff7cbf080545264a203e959.
 Volume 2, Volume 10 (pp.9–235): third term opens; special exam; Kamuro expelled
 by lottery. Ledgers touched: volume + 84 people. verify ALL PASS; build/gate/check
 OK; hash stable 5f397e582c47d59cdc47c1a578e9b29f.
+
+### y2v10.25 — walked, shipped
+
+Volume 2, Volume 10.25 (pp.1–10): From That Time On short story; gym.
+Ledgers touched: volume + 9 people. verify ALL PASS; build/gate/check OK;
+hash stable edd9335c73121a3699ded619bfdf69f3.

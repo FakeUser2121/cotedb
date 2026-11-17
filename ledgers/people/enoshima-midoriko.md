@@ -8,3 +8,6 @@ char_id: enoshima-midoriko · class: unknown · status: unknown
 
 
 <!-- walk: y2v10 Epilogue → p.235 -->
+
+
+<!-- walk: y2v10.25 Epilogue → p.10 -->
