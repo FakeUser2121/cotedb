@@ -60,3 +60,16 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 [rel:sakagami-kazuma] (p.47–87) Present during the confrontation.
 
 <!-- walk: y1v11.5 ch1 → p.120 -->
+
+### y1v11.5 pp.324–338 — Ch.5: Confrontation at Keyaki mall
+
+[scene] (p.324) Tsukishiro approaches Ayanokōji at Keyaki mall and dismisses nearby workers before speaking with him.
+[scene] (p.326) He pressures Ayanokōji to drop out during spring break and return to his father, citing the White Room.
+[scene] (p.327) Tsukishiro notes that Matsushita is following Ayanokōji.
+[scene] (p.330) He discusses the history and outcomes of the White Room with Ayanokōji.
+[scene] (p.335) Tsukishiro proposes a “game,” claiming a White Room student will enroll as a freshman and challenging Ayanokōji to identify that student by the end of April.
+[scene] (p.338) He ends the conversation after Ayanokōji accepts the challenge on the surface.
+[rel:ayanokouji-kiyotaka] (p.324–338) Pressures him to drop out and proposes the White Room enrollment challenge.
+[rel:matsushita-chiaki] (p.327) Observes that she is following Ayanokōji.
+
+<!-- walk: y1v11.5 ch5 → p.351 -->

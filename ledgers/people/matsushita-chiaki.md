@@ -33,3 +33,24 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 [rel:katsuragi-kouhei] (p.359–365) Competes against him in the event.
 
 <!-- walk: y1v11 ch8 → p.367 -->
+
+### y1v11.5 pp.296–323, 339–351 — Ch.5: Suspicion and pursuit
+
+[scene] (p.296) During spring break, Matsushita reflects on her suspicions about Ayanokōji Kiyotaka and decides to investigate him.
+[thinks] (p.296) “Sure enough, this interests me.”
+[scene] (p.299) She considers Class D’s situation and concludes that hidden capable students like Ayanokōji could change their prospects.
+[scene] (p.301) Matsushita recalls observations that led her to suspect Ayanokōji, including his relationships and performance in key events.
+[scene] (p.306) At Keyaki mall, she meets Shinohara and Satō and steers the conversation toward Ayanokōji.
+[scene] (p.313) Satō tells Matsushita and Shinohara that she confessed to Ayanokōji and was rejected.
+[scene] (p.316) Matsushita listens as Satō shares her belief that Ayanokōji and Karuizawa like each other.
+[scene] (p.320) After spotting Ayanokōji at the mall, Matsushita follows him while pretending to be on her phone.
+[scene] (p.321) She observes Ayanokōji speaking with Acting Director Tsukishiro from a distance.
+[scene] (p.339) After Ayanokōji confronts her for following him, Matsushita admits she tailed him and questions him about hiding his strength.
+[scene] (p.343) She cites the mental arithmetic event and seeing him with Hirata during the Class Vote as reasons for her suspicion.
+[scene] (p.350) Matsushita accepts Ayanokōji’s explanation for the moment and agrees not to tell anyone about him and Karuizawa.
+[rel:ayanokouji-kiyotaka] (p.296–305, 320–323, 339–351) Suspects he is hiding his abilities, follows him, and confronts him.
+[rel:shinohara-satsuki] (p.306–319) Meets and talks with her at the mall.
+[rel:satou-maya] (p.306–319) Hears about her confession to Ayanokōji.
+[rel:tsukishiro] (p.321–323) Observes his conversation with Ayanokōji from afar.
+
+<!-- walk: y1v11.5 ch5 → p.351 -->

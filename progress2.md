@@ -2999,3 +2999,21 @@ Ayanokōji reflects on Manabu’s parting words. Ledgers touched:
 `ledgers/people/horikita-suzune.md`. `verify --vol y1v11.5`: ALL PASS;
 `build`/`gate`/`make check` OK; hash stable
 `28e7a1f600026c6322c783cf4b17b2aa`. Next: y1v11.5 ch5 pp.296–351.
+
+### y1v11.5 Ch.5 — walked, shipped
+
+Chapter 5 "Matsushita suspicion" (pp.296–351). Matsushita Chiaki
+reflects on Class D and her suspicions about Ayanokōji Kiyotaka, then
+meets Shinohara Satsuki and Satō Maya at Keyaki mall and hears Satō
+confess she was rejected by Ayanokōji. Matsushita follows Ayanokōji and
+observes his conversation with Acting Director Tsukishiro. Tsukishiro
+pressures Ayanokōji to drop out, discusses the White Room, and proposes
+a “game” involving a White Room student enrolling as a freshman.
+Ayanokōji confronts Matsushita about following him and deflects her
+suspicions. Ledgers touched: `ledgers/volumes/y1v11.5.md`,
+`ledgers/people/matsushita-chiaki.md`,
+`ledgers/people/ayanokouji-kiyotaka.md`,
+`ledgers/people/tsukishiro.md`, `ledgers/people/satou-maya.md`,
+`ledgers/people/shinohara-satsuki.md`. `verify --vol y1v11.5`: ALL PASS;
+`build`/`gate`/`make check` OK; hash stable
+`76339b4b1acd8c2b015aa453bbfbd6ae`. Next: y1v11.5 ch7 (epilogue) pp.352–423.

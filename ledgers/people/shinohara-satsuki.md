@@ -263,3 +263,16 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [rel:shiina-hiyori] (p.133–134) Notices her with Ayanokōji at the café.
 
 <!-- walk: y1v11.5 ch2 → p.143 -->
+
+### y1v11.5 pp.306–319 — Ch.5: Conversation with friends
+
+[scene] (p.306) Shinohara meets Matsushita and Satō at Keyaki mall during spring break.
+[scene] (p.306) She is teased by Matsushita about her relationship with Ike and reacts defensively.
+[scene] (p.313) Shinohara listens as Satō reveals she confessed to Ayanokōji and was rejected.
+[scene] (p.316) She reacts with surprise to Satō’s suspicion that Ayanokōji and Karuizawa like each other.
+[rel:matsushita-chiaki] (p.306–319) Talks with her during the mall meetup.
+[rel:satou-maya] (p.306–319) Talks with her and hears about her confession.
+[rel:ike-kanji] (p.306–312) Is discussed as the person she has been growing closer to.
+[rel:ayanokouji-kiyotaka] (p.313–319) Is discussed in relation to Satō’s confession and Karuizawa.
+
+<!-- walk: y1v11.5 ch5 → p.351 -->

@@ -293,3 +293,14 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [rel:ayanokouji-kiyotaka] (p.353) Is chosen by him for the English test.
 
 <!-- walk: y1v11 ch8 → p.367 -->
+
+### y1v11.5 pp.306–319 — Ch.5: Conversation with friends
+
+[scene] (p.306) Satō meets Matsushita and Shinohara at Keyaki mall during spring break.
+[scene] (p.313) When asked about Ayanokōji, Satō reveals she confessed to him and was rejected.
+[scene] (p.316) Satō tells them she believes Ayanokōji and Karuizawa have feelings for each other.
+[rel:matsushita-chiaki] (p.306–319) Talks with her about Ayanokōji.
+[rel:shinohara-satsuki] (p.306–319) Talks with her during the mall meetup.
+[rel:ayanokouji-kiyotaka] (p.313–316) Is discussed as the person she confessed to and was rejected by.
+
+<!-- walk: y1v11.5 ch5 → p.351 -->

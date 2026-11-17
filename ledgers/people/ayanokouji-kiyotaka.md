@@ -5141,3 +5141,20 @@ walk: y1v1 → DONE
 [rel:horikita-suzune] (p.237–293) Waits with her for Manabu, witnesses their farewell, and talks with her afterward.
 
 <!-- walk: y1v11.5 ch4 → p.295 -->
+
+### y1v11.5 pp.324–351 — Ch.5: Tsukishiro and Matsushita
+
+[scene] (p.324) At Keyaki mall, Ayanokōji is approached by Acting Director Tsukishiro, who speaks with him after dismissing nearby workers.
+[scene] (p.326) Tsukishiro pressures Ayanokōji to drop out and return to his father, while Ayanokōji refuses.
+[scene] (p.327) Ayanokōji notices Matsushita following him as Tsukishiro mentions her presence.
+[scene] (p.330) Tsukishiro discusses the White Room’s history and its results, and Ayanokōji questions him about it.
+[scene] (p.335) Tsukishiro proposes a “game”: a White Room student will enroll as a freshman, and if Ayanokōji identifies that student by the end of April, Tsukishiro will give up.
+[scene] (p.338) Ayanokōji accepts the challenge on the surface and states his confidence regarding the White Room.
+[scene] (p.340) After Tsukishiro leaves, Ayanokōji deliberately lets Matsushita follow him and then confronts her.
+[scene] (p.343) Matsushita questions him about the mental arithmetic event and about seeing him with Hirata during the Class Vote.
+[scene] (p.346) Ayanokōji admits to holding back to some extent but downplays his abilities and deflects her suspicions.
+[scene] (p.350) He explains Karuizawa’s interest as a result of his confession rather than his hidden strength and asks Matsushita to keep it secret.
+[rel:tsukishiro] (p.324–338) Is confronted and pressured by him at the mall.
+[rel:matsushita-chiaki] (p.327, 339–351) Is followed by her and then confronted; deflects her questions.
+
+<!-- walk: y1v11.5 ch5 → p.351 -->
