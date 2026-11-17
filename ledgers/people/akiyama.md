@@ -16,3 +16,6 @@ char_id: akiyama · class: unknown · status: unknown
 
 
 <!-- walk: y2v9.5 Epilogue → p.219 -->
+
+
+<!-- walk: y2v9.75 Epilogue → p.17 -->

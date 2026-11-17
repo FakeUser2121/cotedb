@@ -946,3 +946,14 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 
 <!-- walk: y2v8 Epilogue → p.208 -->
+
+## y2v9.75
+
+<!-- walk: y2v9.75 → start -->
+
+### y2v9.75 pp.4-8 — Full volume
+
+[scene] (p.4) Appears in this volume.
+
+
+<!-- walk: y2v9.75 Epilogue → p.17 -->

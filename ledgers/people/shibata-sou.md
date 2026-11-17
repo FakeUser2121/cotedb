@@ -351,3 +351,14 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 
 
 <!-- walk: y2v9.5 Epilogue → p.219 -->
+
+## y2v9.75
+
+<!-- walk: y2v9.75 → start -->
+
+### y2v9.75 pp.4-8 — Full volume
+
+[scene] (p.4) Appears in this volume.
+
+
+<!-- walk: y2v9.75 Epilogue → p.17 -->

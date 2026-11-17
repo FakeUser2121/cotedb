@@ -3249,3 +3249,9 @@ hash stable bdf77052e6f4a786e185e4690b42f063.
 Volume 2, Volume 9.5 (pp.10–219): winter break; changing relationships.
 Ledgers touched: volume + 58 people. verify ALL PASS; build/gate/check OK;
 hash stable 6375c6765bd30c3818d91e9ea573b4ad.
+
+### y2v9.75 — walked, shipped
+
+Volume 2, Volume 9.75 (pp.4–8): New Year's dissonance; Kushida/Horikita/Ibuki.
+Ledgers touched: volume + 8 people. verify ALL PASS; build/gate/check OK;
+hash stable 5d5ac4a00ff7cbf080545264a203e959.
