@@ -236,7 +236,7 @@ def cards_block(P, items, noun="scenes", with_id=None, kinds=True, key=None):
     years = sorted({it["y"] for it in items}, key=lambda y: y or 9)
     ychips = ""
     if len(years) > 1:
-        ychips = ('<div class="chips scope" data-scope><button type="button" class="on" data-y="">All</button>'
+        ychips = ('<div class="chips scope" data-pagescope aria-label="Scope"><button type="button" class="on" data-y="">All</button>'
                   + "".join(f'<button type="button" data-y="{y}">Year {y}</button>' for y in years if y) + "</div>")
     kchips = ""
     if kinds:
