@@ -3100,3 +3100,31 @@ Ledgers touched: `ledgers/people/ichinose-honami.md`,
 `verify --vol y1v10`: ALL PASS (473 [says], 9 non-says quoted);
 `build`/`gate`/`make check` OK; hash stable
 `ac71ffe4c4cdd2f1ea2e2131a2abc5ef`. Next: y1v11 redo from Ch.2 onward.
+
+### y1v11 redo enrichment — Ch.2–Epilogue (added voice lines)
+
+Append-only enrichment pass over `text/COTE Y1 V11.txt` vs ledgers for
+y1v11. Added corpus-anchored `[says]` rows (plus supporting `[scene]`/`[rel]`)
+across Ch.2–Epilogue: Event Selection Exam prep, Manabu/Tachibana meeting,
+Horikita dinner, Katsuragi leak, Hirata breakdown, exam day (Sakayanagi/
+Horikita/Hoshinomiya/Ryūen/Ichinose/Ayanokōji/Sudō), Ch.8 karaoke planning
+(Ishizaki/Ibuki/Shiina), and Epilogue chess match (Sakayanagi/Hashimoto/
+Horikita/Tsukishiro/Ayanokōji/Hoshinomiya/Sakagami). Existing rows and
+stamps preserved; y1v11 DONE stamp unchanged. Ledgers touched:
+`ledgers/people/horikita-manabu.md`, `ledgers/people/tachibana-akane.md`,
+`ledgers/people/horikita-suzune.md`, `ledgers/people/yukimura-teruhiko.md`,
+`ledgers/people/katsuragi-kouhei.md`, `ledgers/people/ichinose-honami.md`,
+`ledgers/people/shibata-sou.md`, `ledgers/people/kanzaki-ryuuji.md`,
+`ledgers/people/hasebe-haruka.md`, `ledgers/people/ike-kanji.md`,
+`ledgers/people/shinohara-satsuki.md`, `ledgers/people/ayanokouji-kiyotaka.md`,
+`ledgers/people/hirata-yousuke.md`, `ledgers/people/kouenji-rokusuke.md`,
+`ledgers/people/wang-mei-yu.md`, `ledgers/people/sakayanagi-arisu.md`,
+`ledgers/people/hoshinomiya-chie.md`, `ledgers/people/ryuuen-kakeru.md`,
+`ledgers/people/ishizaki-daichi.md`, `ledgers/people/ibuki-mio.md`,
+`ledgers/people/shiina-hiyori.md`, `ledgers/people/hashimoto-masayoshi.md`,
+`ledgers/people/tsukishiro.md`, `ledgers/people/sakagami.md`,
+`ledgers/people/sudou-ken.md`. `verify --vol y1v11`: ALL PASS (234 [says],
+4 non-says quoted); `build`/`gate`/`make check` OK; hash stable
+`b62d2d58e58653f19323a801512a8084`. y1v10 and y1v11 redo enrichment now
+complete per plan; next would be owner-directed work (y2v1 etc.) or further
+review.

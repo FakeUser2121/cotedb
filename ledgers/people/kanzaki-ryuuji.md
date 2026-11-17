@@ -385,3 +385,11 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [rel:ichinose-honami] (p.202) States he has supported her but sees limits in her ability to respond to emergencies.
 
 <!-- walk: y1v11.5 ch3 → p.236 -->
+
+### y1v11 pp.171, 176, 178 — Ch.5: Class D harassment
+
+[scene] (p.176) Asks whether they can tell the Ayanokōji Group.
+[says] (p.176) “Are you sure you can tell them?”
+[scene] (p.178) Confirms he spoke to the targeted students.
+[says] (p.178) “I’ve spoken to those two about it myself, and pretty much everything checks out.”
+[rel:ichinose-honami] (p.171, 176, 178) Discusses the situation with her.

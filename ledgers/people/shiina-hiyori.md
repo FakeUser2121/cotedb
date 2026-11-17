@@ -263,3 +263,17 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [rel:ayanokouji-kiyotaka] (p.371–373) Meets him at the café and prepares to question him about Ryūen.
 
 <!-- walk: y1v11.5 ch7 → p.423 -->
+
+### y1v11 pp.383–386 — Ch.8: Karaoke wait
+
+[scene] (p.383) Describes the group as Ishizaki and his merry band.
+[says] (p.383) “How shall we put it... This is Ishizaki-kun and his merry band of friends?”
+[scene] (p.384) Says she already invited Ryūen.
+[says] (p.384) “Yes. I’ve already invited him.”
+[scene] (p.385) Says Ryūen is just a tiny bit late.
+[says] (p.385) “It looks like he’s just a tiny bit late.”
+[scene] (p.386) Says she has a feeling Ryūen will come.
+[says] (p.386) “I’ve just got a feeling that he is.”
+[rel:ishizaki-daichi] (p.383–386) Waits with him.
+[rel:ibuki-mio] (p.383–386) Waits with her.
+[rel:ryuuen-kakeru] (p.383–386) Invites him.

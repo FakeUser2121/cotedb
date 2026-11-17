@@ -516,3 +516,14 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [rel:ayanokouji-kiyotaka] (p.387) Reports having met him earlier.
 
 <!-- walk: y1v11.5 ch7 → p.423 -->
+
+### y1v11 pp.375–388 — Ch.8: Asking Ryūen for help
+
+[scene] (p.375) Asks Ryūen for a moment.
+[says] (p.375) “Uhh─ could ya spare a moment, Ryūen-san?”
+[scene] (p.376) Begs Ryūen to lend his strength.
+[says] (p.376) “Ryūen-san, please... lend your strength to Class D for this special exam!”
+[scene] (p.378) Asks whether they should go for Class C.
+[says] (p.378) “...So what should we do? Should we go for Class C after all?”
+[rel:ryuuen-kakeru] (p.375–388) Begs him for help.
+[rel:ibuki-mio] (p.382–388) Waits with her for Ryūen.

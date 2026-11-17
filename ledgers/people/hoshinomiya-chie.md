@@ -258,3 +258,23 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 [rel:ayanokouji-kiyotaka] (p.47–87) Present in the meeting involving his exam.
 
 <!-- walk: y1v11.5 ch1 → p.120 -->
+
+### y1v11 pp.332, 334–335, 338 — Ch.7: Proctoring the exam
+
+[scene] (p.332) Tells the commanders to take a seat.
+[says] (p.332) “Okaaay, the exam will begin any second now~ Please take a seat~”
+[scene] (p.334) Says it is a shame Ayanokōji faces Sakayanagi.
+[says] (p.334) “Anywho, Ayanokōji-kun~ It sure is a shame that you’re gonna haveta go up against somebody like Sakayanagi-san.”
+[scene] (p.335) Calls Sakayanagi merciless.
+[says] (p.335) “Uwaa~ Sakayanagi-san is soooo merciless!”
+[rel:sakayanagi-arisu] (p.334–335) Proctors the exam.
+
+### y1v11 pp.430–431 — Epilogue: After the exam
+
+[scene] (p.430) Asks whether he hid his abilities.
+[says] (p.430) “The heck? Does this mean you’ve been hiding your abilities until now?”
+[scene] (p.431) Announces the exam is over.
+[says] (p.431) “The exam is over. Students, please leave the room as soon as possible.”
+[scene] (p.431) Says the students are lucky to go home.
+[says] (p.431) “The students are so lucky, aren’t they? Getting to go back home and all.”
+[rel:sakagami] (p.431) Cleans up with him.

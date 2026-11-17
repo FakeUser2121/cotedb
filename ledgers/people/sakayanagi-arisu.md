@@ -757,6 +757,54 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y1v11.5 ch7 → p.423 -->
 
+### y1v11 pp.318–345 — Ch.7: Exam day confrontation
+
+[scene] (p.322) Says Class B came ready to win.
+[says] (p.322) “Class B also came here with a strategy, ready to win.”
+[scene] (p.324) Reacts to Ryūen appearing as substitute commander.
+[says] (p.324) “...Ryūen-kun? Why... Why are you here...?”
+[scene] (p.329) Says she has been waiting for this day.
+[says] (p.329) “Finally... The day I’ve been waiting for has finally arrived.”
+[scene] (p.331) Says she feels conflicted about the exam’s inadequacy.
+[says] (p.331) “I’d be lying if I told you I didn’t feel conflicted.”
+[scene] (p.336) Says Ayanokōji already gave her important information.
+[says] (p.336) “Fufu. That’s no good, Ayanokōji-kun. You’ve already gone and provided me with important information.”
+[scene] (p.340) Asks who came up with the commander intervention rules.
+[says] (p.340) “By the way, who was it that came up with these rules regarding commander intervention?”
+[scene] (p.345) Reveals Kitō was holding back.
+[says] (p.345) “Fufu, that was a lie. Kitō-kun is an experienced basketball player.”
+[rel:ayanokouji-kiyotaka] (p.329–345) Faces him in the exam.
+[rel:ichinose-honami] (p.321–327) Speaks with her before the exam.
+[rel:ryuuen-kakeru] (p.324–327) Reacts to him becoming substitute commander.
+
+### y1v11 pp.401–447 — Epilogue: Chess match and aftermath
+
+[scene] (p.401) Says she is very good at chess.
+[says] (p.401) “I’m sorry to inform you, but I happen to be very good at chess.”
+[scene] (p.402) Says she no longer needs to hold onto her trump card.
+[says] (p.402) “There’s no reason for me to hold onto my trump card anymore.”
+[scene] (p.415) Says she may not have given Horikita enough of a handicap.
+[says] (p.415) “Maybe I didn’t give her enough of a handicap.”
+[scene] (p.417) Says their match can truly begin.
+[says] (p.417) “At long last... our match can truly begin.”
+[scene] (p.424) Says it was a fun match.
+[says] (p.424) “It was a fun match. It really is quite regrettable that it has to end.”
+[scene] (p.427) Congratulates Ayanokōji on winning.
+[says] (p.427) “Splendidly done, Ayanokōji-kun.”
+[scene] (p.427) Says her victory is set in stone.
+[says] (p.427) “With this, my victory is all but set in stone.”
+[scene] (p.439) Says she imagined something silly.
+[says] (p.439) “No... I’m sorry. It looks like I’ve gone and imagined something silly.”
+[scene] (p.439) Asks whether he is happy he beat her.
+[says] (p.439) “Aren’t you happy that you beat me?”
+[scene] (p.440) Calls him a cruel man.
+[says] (p.440) “You’re such a cruel man, Ayanokōji-kun.”
+[scene] (p.446) Acknowledges her loss.
+[says] (p.446) “As expected of you, Ayanokōji-kun. It’s my loss.”
+[scene] (p.447) Says she is satisfied with the result.
+[says] (p.447) “I’m satisfied with this result. Isn’t that enough?”
+[rel:ayanokouji-kiyotaka] (p.400–447) Faces him in chess and speaks afterward.
+[rel:hashimoto-masayoshi] (p.404–414) Plays against Horikita.
 ## y1v11.75
 
 <!-- walk: y1v11.75 → start -->

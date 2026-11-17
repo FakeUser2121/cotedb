@@ -217,3 +217,11 @@ aliases used for anchors: tachibana, secretary, student council secretary
 [rel:nagumo-miyabi] (p.94–98) Present during Nagumo’s exchange with Manabu.
 
 <!-- walk: y1v11.5 ch1 → p.120 -->
+
+### y1v11 p.229 — Ch.5: Flag remark
+
+[scene] (p.229) Warns that calling Ayanokōji and Manabu a couple could become a flag.
+[says] (p.229) “T-that’s no good. You do know saying something like that can become a flag, right?”
+[scene] (p.229) Explains the idea of situational irony.
+[says] (p.229) “No, uh, I guess it’s like, situational irony or something…? Y’know, the type of thing that happens from time to time where two people who never thought they’d get together end up going out? It’s a common scenario.”
+[rel:horikita-manabu] (p.229) Interrupts his conversation with Ayanokōji.

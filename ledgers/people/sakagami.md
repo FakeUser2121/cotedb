@@ -163,3 +163,9 @@ aliases used for anchors: sakagami, sakagami-sensei
 [rel:ayanokouji-kiyotaka] (p.47–87) Present in the meeting involving his exam.
 
 <!-- walk: y1v11.5 ch1 → p.120 -->
+
+### y1v11 p.431 — Epilogue: After the exam
+
+[scene] (p.431) Says the students are done for the day.
+[says] (p.431) “No, you’re done for today. You’re free to go straight home if you want.”
+[rel:hoshinomiya-chie] (p.431) Cleans up with her.

@@ -276,3 +276,9 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [rel:ayanokouji-kiyotaka] (p.313–319) Is discussed in relation to Satō’s confession and Karuizawa.
 
 <!-- walk: y1v11.5 ch5 → p.351 -->
+
+### y1v11 p.190 — Ch.5: Accepting Ike’s invitation
+
+[scene] (p.190) Tells Ike not to get the wrong idea about accepting.
+[says] (p.190) “D-don’t get the wrong idea, kay? The special exam is coming up soon, so this is just my last chance to relax. And since you’re saying you’ll pay and everything, how could I say no?”
+[rel:ike-kanji] (p.190) Accepts his White Day invitation.

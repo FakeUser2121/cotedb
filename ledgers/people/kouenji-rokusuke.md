@@ -673,3 +673,18 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:matsushita-chiaki] (p.359–364) Competes alongside her in the event.
 
 <!-- walk: y1v11 ch8 → p.367 -->
+
+### y1v11 pp.286–293 — Ch.6: Intervening with Hirata
+
+[scene] (p.286) Provokes Hirata on his way home.
+[says] (p.286) “My my. It seems you’re dawdling today as well, hmm?”
+[scene] (p.287) Tells Hirata he is an eyesore.
+[says] (p.287) “You’re an eyesore, so could you try and make sure you stay out of my sight?”
+[scene] (p.288) Says he shows no mercy.
+[says] (p.288) “I don’t show mercy to those who come at me, okay?”
+[scene] (p.291) Asks Hirata if he still has complaints.
+[says] (p.291) “Do you still have complaints for me?”
+[scene] (p.293) Says Hirata’s existence is like a fly.
+[says] (p.293) “His existence is like a fly, that is, absolutely irritating.”
+[rel:hirata-yousuke] (p.286–293) Provokes and carries Mii-chan away.
+[rel:wang-mei-yu] (p.289–292) Picks her up.

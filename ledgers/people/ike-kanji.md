@@ -1019,3 +1019,9 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:shiina-hiyori] (p.133–134) Is seen with Ayanokōji in the café.
 
 <!-- walk: y1v11.5 ch2 → p.143 -->
+
+### y1v11 p.189 — Ch.5: Inviting Shinohara
+
+[scene] (p.189) Invites Shinohara to hang out on Sunday.
+[says] (p.189) “...A-are you free on Sunday... or, something?”
+[rel:shinohara-satsuki] (p.189) Invites her out.

@@ -1780,3 +1780,4 @@ hash: `6bea783884c7cb8573db97157f0b718a`.
 | y1v11.75 Section (pp.1-18) | 18 | 0 | c94d311b46e7064be17d0bbb329e2f51 |
 | y1v11.75 DONE | 18 | 0 | c94d311b46e7064be17d0bbb329e2f51 |
 | y1v10 redo enrichment (Ch.4/Ch.6/Epilogue voice) | 473 | 0 | ac71ffe4c4cdd2f1ea2e2131a2abc5ef |
+| y1v11 redo enrichment (Ch.2-Epilogue voice) | 234 | 0 | b62d2d58e58653f19323a801512a8084 |

@@ -1559,3 +1559,24 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:ayanokouji-kiyotaka] (p.356) Is chosen by him for the math test.
 
 <!-- walk: y1v11 ch8 → p.367 -->
+
+### y1v11 pp.281–308 — Ch.6: Breakdown and confession
+
+[scene] (p.283) Tells Mii-chan to leave him alone.
+[says] (p.283) “Mii-chan, just stop. Can’t you just leave me alone already…?”
+[scene] (p.284) Warns Mii-chan not to bother him.
+[says] (p.284) “...Stop bothering me already. If you don’t, I… I’ll…”
+[scene] (p.296) Says he is sick and tired of everyone coming after him.
+[says] (p.296) “I’m sick and tired of all of this. Of everyone coming after me over and over again.”
+[scene] (p.297) Is asked about his past.
+[says] (p.297) “I want you to tell me your story.”
+[scene] (p.300) Says his childhood friend committed suicide.
+[says] (p.300) “My friend… committed suicide by jumping off a building.”
+[scene] (p.302) Says he controlled the class through fear-mongering.
+[says] (p.302) “Well, to put it simply, I tried to control the class through fear-mongering.”
+[scene] (p.306) Is told Yamauchi’s expulsion is his fault.
+[says] (p.306) “It’s your fault that Yamauchi got expelled, Hirata.”
+[scene] (p.307) Is called a shallow, incompetent student.
+[says] (p.307) “You’re just a shallow, incompetent student who boasts about things you can’t even do.”
+[rel:ayanokouji-kiyotaka] (p.295–308) Is confronted by him on the bench.
+[rel:wang-mei-yu] (p.283–285) Is followed by her.

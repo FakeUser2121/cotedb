@@ -197,3 +197,11 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 [rel:ayanokouji-kiyotaka] (p.172–180) Shares information with him and his group over lunch.
 
 <!-- walk: y1v11 ch6 → p.280 -->
+
+### y1v11 pp.171, 177 — Ch.5: Class D harassment
+
+[scene] (p.171) Says Class D is definitely trying to pick a fight.
+[says] (p.171) “I don’t think so. You do know it’s the third time today, right? They’re definitely trying to pick a fight.”
+[scene] (p.177) Says Class D is scary.
+[says] (p.177) “Gimme a break. Class D is scary enough as it is.”
+[rel:ichinose-honami] (p.171, 177) Discusses the harassment with her.

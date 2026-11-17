@@ -42,6 +42,35 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 [rel:hoshinomiya-chie] (p.437–438) Orders her to leave the multipurpose room.
 
 <!-- walk: y1v11 ch10 → p.476 -->
+
+### y1v11 pp.436–444 — Epilogue: After the exam
+
+[scene] (p.436) Asks whether Class B and D have settled.
+[says] (p.436) “Come to think of it, has the dust settled between Class B and Class D?”
+[scene] (p.436) Asks which class won.
+[says] (p.436) “Which class won?”
+[scene] (p.436) Reports Class D won 5–2.
+[says] (p.436) “Class D won with five wins and two losses. It was a big upset.”
+[scene] (p.437) Says they will take care of the cleanup.
+[says] (p.437) “We will take care of that on our end.”
+[scene] (p.439) Asks Ayanokōji to wait.
+[says] (p.439) “─Could you please wait a moment, Ayanokōji-kun?”
+[scene] (p.439) Says the winner should have been Ayanokōji.
+[says] (p.439) “Properly speaking, the winner of that chess match should’ve been Ayanokōji-kun.”
+[scene] (p.440) Asks what he means.
+[says] (p.440) “What do you mean by that, Acting Director Tsukishiro?”
+[scene] (p.440) Tells him to give Sakayanagi the answer.
+[says] (p.440) “How about you give her the answer, Ayanokōji-kun?”
+[scene] (p.440) Says he should have told her honestly.
+[says] (p.440) “You should’ve just told her honestly.”
+[scene] (p.441) Says his input was different.
+[says] (p.441) “But, your input was different... wouldn’t you say?”
+[scene] (p.443) Says a victory is a victory.
+[says] (p.443) “Even if it’s tragic, a victory is a victory. You should be grateful.”
+[scene] (p.444) Says everything is ruined.
+[says] (p.444) “Well, this has gone and ruined everything. How immensely unsatisfying.”
+[rel:sakayanagi-arisu] (p.436–444) Speaks with her after the exam.
+[rel:ayanokouji-kiyotaka] (p.439–444) Confronts him about interference.
 ## y1v11
 
 <!-- walk: y1v11 → start -->

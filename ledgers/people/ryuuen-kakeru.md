@@ -1643,6 +1643,37 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y1v11.5 ch7 → p.423 -->
 
+### y1v11 pp.324–326 — Ch.7: Substitute commander
+
+[scene] (p.324) Asks why Ichinose is shaking.
+[says] (p.324) “What’s wrong with you? What’s got ya shaking there?”
+[scene] (p.326) Says he is just Class D’s sacrifice.
+[says] (p.326) “Oi, don’t be so wary of me will ya? I’m just their sacrifice.”
+[rel:ichinose-honami] (p.324–326) Confronts her as substitute commander.
+[rel:sakayanagi-arisu] (p.324–326) Arrives in Kaneda’s place.
+
+### y1v11 pp.324, 375–388 — Ch.7/Ch.8: Substitute commander and planning
+
+[scene] (p.324) Asks why Ichinose is shaking.
+[says] (p.324) “What’s wrong with you? What’s got ya shaking there?”
+[scene] (p.326) Says he is just Class D’s sacrifice.
+[says] (p.326) “Oi, don’t be so wary of me will ya? I’m just their sacrifice.”
+[scene] (p.376) Says Ishizaki has gotten big enough to oppose him.
+[says] (p.376) “Oh, so you’ve gotten big enough to oppose me now, huh?”
+[scene] (p.376) Says Ishizaki is practically the leader of Class D.
+[says] (p.376) “Kuku. Well, whatever. You’re practically the leader of Class D right now.”
+[scene] (p.379) Tells Ishizaki Class B is their only option.
+[says] (p.379) “That’s got nothing to do with it, blockhead.”
+[says] (p.380) “If you’re lookin’ to win this exam, Class B is your only option.”
+[scene] (p.380) Says even an idiot can be useful.
+[says] (p.380) “Even an idiot can be useful depending on what ya do with ‘em.”
+[scene] (p.384) Asks whether they waited thinking he would show up.
+[says] (p.384) “The hell? Did you guys seriously wait here thinking I’d show up eventually?”
+[scene] (p.388) Says Shiina looks like she is enjoying herself.
+[says] (p.388) “You say that, but it looks like you’re enjoying yourself.”
+[rel:ishizaki-daichi] (p.375–380) Is begged for help by him.
+[rel:ibuki-mio] (p.383–388) Meets her at karaoke.
+[rel:shiina-hiyori] (p.383–388) Meets her at karaoke.
 ## y1v11.75
 
 <!-- walk: y1v11.75 → start -->

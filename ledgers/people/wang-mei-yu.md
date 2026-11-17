@@ -128,3 +128,14 @@ char_id: wang-mei-yu · status: minor
 [rel:ayanokouji-kiyotaka] (p.356) Is chosen by him for the math test.
 
 <!-- walk: y1v11 ch8 → p.367 -->
+
+### y1v11 pp.283–292 — Ch.6: Following Hirata
+
+[scene] (p.283) Begs Hirata to come back.
+[says] (p.283) “Please, Hirata-kun. Everyone needs your help... So─”
+[scene] (p.284) Says she will not leave him alone.
+[says] (p.284) “I-I won’t leave you alone... Not when you’re like this Hirata-kun, I just can’t!”
+[scene] (p.284) Says she believes he can go back.
+[says] (p.284) “No it’s not! I... I have faith that you can still go back to the way you used to be!”
+[rel:hirata-yousuke] (p.283–292) Follows and tries to reach him.
+[rel:kouenji-rokusuke] (p.289–292) Is carried by him.

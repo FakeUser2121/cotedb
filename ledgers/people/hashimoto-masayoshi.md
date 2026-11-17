@@ -401,3 +401,24 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [rel:kanzaki-ryuuji] (p.199–204) Brings him to meet Ryūen.
 
 <!-- walk: y1v11.5 ch3 → p.236 -->
+
+### y1v11 pp.401–414 — Epilogue: Chess match
+
+[scene] (p.401) Says he is very good at chess.
+[says] (p.401) “I’m sorry to inform you, but I happen to be very good at chess.”
+[scene] (p.402) Says there is no reason to hold onto his trump card.
+[says] (p.402) “There’s no reason for me to hold onto my trump card anymore.”
+[scene] (p.405) Says he has only been playing a few months.
+[says] (p.405) “I’ve only been playing chess for a few months now. Go easy on me, aight?”
+[scene] (p.408) Says let’s get started.
+[says] (p.408) “Welp, let’s get started.”
+[scene] (p.410) Says he has a twisted playstyle.
+[says] (p.410) “I’ve got quite the twisted playstyle, don’t I?”
+[scene] (p.411) Asks to ask about Ayanokōji.
+[says] (p.411) “Well, that’s fine. More importantly, can I ask you some stuff about Ayanokōji?”
+[scene] (p.412) Says she seems shaken.
+[says] (p.412) “Is that so? You seem fairly shaken to me, though.”
+[scene] (p.414) Says it is an interesting game.
+[says] (p.414) “It’s an interesting game. I’d love to see it through until the end.”
+[rel:horikita-suzune] (p.404–413) Competes against her.
+[rel:sakayanagi-arisu] (p.400–414) Plays under her direction.

@@ -440,3 +440,13 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [rel:ichinose-honami] (p.172–184) Eats lunch with her group and comments on her.
 
 <!-- walk: y1v11 ch6 → p.280 -->
+
+### y1v11 pp.170, 184, 188–191 — Ch.5: Lunch and Ike/Shinohara
+
+[scene] (p.170) Says Shibata getting angry is unusual.
+[says] (p.170) “It’s like, totally unusual, right guys? For Shibata-kun to get angry like that?”
+[scene] (p.184) Says Ichinose is cute.
+[says] (p.184) “Man, Ichinose-san sure is cute isn’t she?”
+[scene] (p.188) Stops Keisei when she spots Ike and Shinohara.
+[says] (p.188) “Hey, hey, Stop!”
+[rel:ayanokouji-kiyotaka] (p.170, 184, 188) Eats lunch and eavesdrops with him.

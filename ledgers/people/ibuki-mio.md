@@ -746,3 +746,17 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:ayanokouji-kiyotaka] (p.387) Reacts to Ishizaki’s mention of him.
 
 <!-- walk: y1v11.5 ch7 → p.423 -->
+
+### y1v11 pp.385–388 — Ch.8: Waiting for Ryūen
+
+[scene] (p.385) Says she does not have time for this.
+[says] (p.385) “I don’t have the time for this...”
+[scene] (p.386) Says she is having fun with Ishizaki and Shiina.
+[says] (p.386) “Besides, I’m having tons of fun spending time with you two. Won’t you stay?”
+[scene] (p.387) Says she is at her limit.
+[says] (p.387) “I can’t take it anymore! I’m at my limit!”
+[scene] (p.388) Threatens to kick Ryūen’s ass.
+[says] (p.388) “I’ll kick your ass if you leave me here in karaoke hell any longer.”
+[rel:ishizaki-daichi] (p.382–388) Waits with him.
+[rel:shiina-hiyori] (p.383–388) Waits with her.
+[rel:ryuuen-kakeru] (p.383–388) Waits for him.

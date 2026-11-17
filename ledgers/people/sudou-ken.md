@@ -1385,3 +1385,15 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:kitou-hayato] (p.343–347) Is guarded and provoked by him during the match.
 
 <!-- walk: y1v11 ch8 → p.367 -->
+
+### y1v11 pp.344, 346 — Ch.7: Basketball
+
+[scene] (p.344) Yells at Kitō for holding back.
+[says] (p.344) “[I knew it...! You bastard, so you were holding back, eh!?]”
+[scene] (p.344) Calls Kitō a liar.
+[says] (p.344) “[You liar!]”
+[scene] (p.346) Says he got heated but won’t be beaten.
+[says] (p.346) “[Heh... I got a little bit heated there, but... there’s no way you’re beating me.]”
+[scene] (p.346) Celebrates winning the basketball event.
+[says] (p.346) “[Hell yeah! I did it Suzune!]”
+[rel:kouenji-rokusuke] (p.344) Argues with him.

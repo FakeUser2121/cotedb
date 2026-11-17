@@ -725,3 +725,22 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [rel:matsushita-chiaki] (p.359–365) Competes against her in the event.
 
 <!-- walk: y1v11 ch8 → p.367 -->
+
+### y1v11 pp.271–280 — Ch.5: Meeting with Keisei and Ayanokōji
+
+[scene] (p.271) Says he can guess what they want.
+[says] (p.271) “Given the current circumstances, I can already guess what you’re here to talk to me about.”
+[scene] (p.272) Rejects Keisei’s proposal to betray Class A.
+[says] (p.272) “That’s an amusing proposal. You want me to betray Class A and drop down to Class C?”
+[scene] (p.273) Asks whether they can wait two years for the points.
+[says] (p.273) “Don’t tell me you want me to wait two years for you to prepare the points?”
+[scene] (p.274) Asks Ayanokōji if he has anything to say.
+[says] (p.274) “Do you have anything to say, Ayanokōji?”
+[scene] (p.276) Says he harbors immense hatred for Sakayanagi.
+[says] (p.276) “I do harbor an immense, unwavering hatred for Sakayanagi.”
+[scene] (p.277) Lists the events he thinks Sakayanagi will choose.
+[says] (p.277) “Of the ten events, the three I’m most certain she’ll end up choosing are Chess, the English Test, and the Mathematics Test.”
+[scene] (p.279) Explains why Sakayanagi will let him participate in Flash Mental Arithmetic.
+[says] (p.279) “That’s because the only students in Class A who specialize in Flash Mental Arithmetic are me and one other student named Tamiya.”
+[rel:yukimura-teruhiko] (p.271–280) Gives him information out of hatred for Sakayanagi.
+[rel:ayanokouji-kiyotaka] (p.274, 279) Speaks with him about Sakayanagi.

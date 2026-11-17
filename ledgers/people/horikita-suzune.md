@@ -3219,6 +3219,82 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y1v11 ch10 → p.476 -->
 
+### y1v11 pp.237–241, 248–270 — Ch.5: Event preparation and dinner
+
+[scene] (p.237) Asks the class about experience with chess or go.
+[says] (p.237) “Does anyone have any particular experience with chess or go?”
+[scene] (p.238) Says it is a relief that at least somebody has experience.
+[says] (p.238) “I guess it’s a relief that we have at least somebody with experience.”
+[scene] (p.239) Asks whether Keisei wants to find out which events Class A will choose.
+[says] (p.239) “Are you saying you want us to find out which of the ten events Class A plan on choosing in the end…?”
+[scene] (p.240) Agrees to let Keisei and Ayanokōji talk in the hallway.
+[says] (p.240) “No problem. What is it?”
+[scene] (p.241) Asks whether sticking around Class A students will solve the problem.
+[says] (p.241) “Do you think just sticking around the students in Class A will solve the problem?”
+[scene] (p.244) Says an ordinary student would not agree to Keisei’s terms.
+[says] (p.244) “First of all, an ordinary student wouldn’t agree to these terms.”
+[scene] (p.250) Greets Ayanokōji at her door.
+[says] (p.250) “Welcome.”
+[scene] (p.251) Invites him to sit down.
+[says] (p.251) “Feel free to take a seat.”
+[scene] (p.252) Tells him to sit when he refuses.
+[says] (p.252) “Do you plan to stand around as we talk? I still have some preparations to do, so could you please take a seat and wait for me to finish up?”
+[says] (p.252) “No… I just feel like standing.”
+[says] (p.252) “You what? I don’t feel comfortable having you stand there like that. Sit.”
+[scene] (p.255) Tells him to eat.
+[says] (p.255) “Eat.”
+[scene] (p.256) Asks whether he is suspecting her.
+[says] (p.256) “Are you suspecting something? Of me?”
+[scene] (p.256) Says doubting kindness proves a problem as a human being.
+[says] (p.256) “If you start doubting the kindness of others, it just serves as proof that you have a problem as a human being.”
+[scene] (p.256) Says today is special.
+[says] (p.256) “Today is special, you know.”
+[scene] (p.259) Proposes getting down to business.
+[says] (p.259) “Well now. If you don’t mind, how about we get down to business?”
+[says] (p.259) “You ate my food, didn’t you?”
+[scene] (p.263) Questions why she should play chess.
+[says] (p.263) “...Me? I get that we’ll need to have somebody practice for it, but... Why me?”
+[scene] (p.268) Asks whether they can win against Sakayanagi.
+[says] (p.268) “Do you think we can win against Sakayanagi-san?”
+[scene] (p.269) Says he is naive to think he can win with just her notebook.
+[says] (p.269) “Good grief... If you think you can beat Class A with that, you’re just being naive.”
+[rel:ayanokouji-kiyotaka] (p.237–241, 248–270) Prepares events with him and hosts him for dinner.
+
+### y1v11 pp.281–282 — Ch.6: Confronting Hirata
+
+[scene] (p.281) Calls out to Hirata after school.
+[says] (p.281) “Wait a moment, Hirata-kun.”
+[scene] (p.282) Says Hirata still hasn’t changed.
+[says] (p.282) “You told me that fixing his problem was a collective effort. But in the end, he still hasn’t changed at all.”
+[rel:hirata-yousuke] (p.281–282) Tries to get an answer from him.
+
+### y1v11 pp.318–320 — Ch.7: Before the exam
+
+[scene] (p.318) Tells Ayanokōji to forget her notes and pick freely.
+[says] (p.318) “Today, I want you to forget about all the notes and pointers I’ve given you.”
+[says] (p.318) “Choose whichever five events you want, and then pick whoever you want to participate in them.”
+[scene] (p.319) Says she never told anyone which events she would choose.
+[says] (p.319) “I never told anyone which events I’d be choosing or which events they’d be participating in.”
+[scene] (p.319) Says he shouldn’t blame himself if something goes wrong.
+[says] (p.319) “Don’t blame me if something goes wrong.”
+[scene] (p.320) Says nobody is stronger than her even when going easy.
+[says] (p.320) “Nobody is stronger than me, even when I’m going easy on them. Remember that.”
+[rel:ayanokouji-kiyotaka] (p.318–320) Briefs him before the exam.
+
+### y1v11 pp.404–413 — Epilogue: Chess match
+
+[scene] (p.404) Wishes Ayanokōji good luck.
+[says] (p.404) “Good luck, Horikita.”
+[scene] (p.405) Greets Hashimoto.
+[says] (p.405) “I’ve never spoken to you before, but it’s Hashimoto-kun, isn’t it?”
+[scene] (p.411) Asks whether he has only played one week.
+[says] (p.411) “Have you really only played one week?”
+[scene] (p.412) Says tricks won’t get through to her.
+[says] (p.412) “No matter what kind of tricks you try to pull, you won’t get through to me.”
+[scene] (p.413) Says he seems skilled.
+[says] (p.413) “Despite your appearance, you also seem to be quite skilled yourself.”
+[rel:sakayanagi-arisu] (p.400–414) Plays chess against Hashimoto.
+[rel:hashimoto-masayoshi] (p.404–413) Competes against him.
 ## y1v11.5
 
 <!-- walk: y1v11.5 → start -->

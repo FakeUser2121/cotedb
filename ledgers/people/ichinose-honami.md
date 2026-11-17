@@ -1371,6 +1371,36 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y1v11.5 ch3 → p.236 -->
 
+### y1v11 pp.170–183 — Ch.5: Class B harassment
+
+[scene] (p.172) Invites the Ayanokōji Group to lunch.
+[says] (p.172) “Wow, what a coincidence. We were just headed there ourselves.”
+[scene] (p.173) Says there is no problem eating together.
+[says] (p.173) “What am I doing...? We’re not competing against Class C, so what’s the problem?”
+[scene] (p.174) Apologizes for inviting them suddenly.
+[says] (p.174) “Sorry for inviting you all so suddenly like this. It’s my treat, so don’t hold back!”
+[scene] (p.176) Asks whether they can tell them about Class D.
+[says] (p.176) “Do you really think this is something we need to keep quiet about?”
+[scene] (p.180) Says she does not think Kaneda is behind it.
+[says] (p.180) “I don’t really think this is the kind of thing Kaneda-kun would be behind.”
+[scene] (p.181) Asks whether they will take measures against Class D.
+[says] (p.181) “Are you saying you aren’t gonna take any measures against Class D? Not even basic investigation?”
+[scene] (p.182) Asks them not to spread the information.
+[says] (p.182) “Indeed. That’s why I’d like to ask that you all do your best to keep this from spreading further.”
+[rel:shibata-sou] (p.170–183) Calms him down and discusses Class D’s harassment.
+[rel:kanzaki-ryuuji] (p.170–183) Discusses the situation with him.
+[rel:ayanokouji-kiyotaka] (p.172–183) Invites his group and explains Class D’s pressure.
+
+### y1v11 pp.322, 324–327 — Ch.7: Before the exam
+
+[scene] (p.322) Says Class B cannot let its guard down.
+[says] (p.322) “Oh no, there’s no way to tell what’s going to happen.”
+[scene] (p.324) Asks why Ryūen is there.
+[says] (p.324) “...Ryūen-kun? Why... Why are you here...?”
+[scene] (p.327) Says Ryūen’s unpredictability is alarming.
+[says] (p.327) “It seems the showdown between Class B and D is going to be quite intriguing as well.”
+[rel:ryuuen-kakeru] (p.324–327) Reacts to him becoming substitute commander.
+[rel:sakayanagi-arisu] (p.321–327) Speaks with her before the exam.
 ## y1v11.75
 
 <!-- walk: y1v11.75 → start -->

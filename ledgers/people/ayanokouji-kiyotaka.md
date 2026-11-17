@@ -5188,6 +5188,63 @@ walk: y1v1 → DONE
 
 <!-- walk: y1v11.5 ch7 → p.423 -->
 
+### y1v11 pp.217–229, 248–270 — Ch.5: Manabu and Horikita
+
+[scene] (p.217) Greets Manabu on the way to school.
+[says] (p.217) “Is the special exam going well?”
+[scene] (p.256) Says Horikita is the last person to talk about kindness.
+[says] (p.256) “You of all people are telling me that?”
+[scene] (p.261) Says Horikita didn’t think he’d read her notebook so seriously.
+[says] (p.261) “Dinner aside, you didn’t think I’d read through this so seriously, did you?”
+[scene] (p.262) Asks Horikita to play chess.
+[says] (p.262) “About that, I’d like you to be the one to take part in it.”
+[scene] (p.264) Says Horikita’s fascination with chess is not just about knowing the rules.
+[says] (p.264) “Your fascination with the chess event isn’t just because you know the rules, is it?”
+[scene] (p.269) Says he doesn’t know much about the class.
+[says] (p.269) “I don’t really know all that much about our class anyway.”
+[rel:horikita-manabu] (p.217–229) Talks with him about Suzune.
+[rel:horikita-suzune] (p.248–270) Has dinner with her and discusses the notebook.
+
+### y1v11 pp.282, 295–306 — Ch.6: Searching for Hirata
+
+[scene] (p.282) Says he wonders whether Hirata has changed.
+[says] (p.282) “I wonder about that.”
+[scene] (p.295) Asks Hirata for some time.
+[says] (p.295) “Can you spare some time?”
+[scene] (p.305) Says it is not Horikita’s fault Yamauchi was expelled.
+[says] (p.305) “There’s something I want to make clear to you. It’s not Horikita’s fault that Yamauchi got expelled from the school, and, of course, it’s not my fault either.”
+[rel:hirata-yousuke] (p.295–308) Confronts him on the bench.
+
+### y1v11 pp.329–337 — Ch.7: Facing Sakayanagi
+
+[scene] (p.329) Asks whether Sakayanagi is afraid to wake from her dream.
+[says] (p.329) “Aren’t you afraid to wake up from your dream?”
+[scene] (p.336) Says Horikita warned him not to say too much.
+[says] (p.336) “Horikita warned me not to say anything excessive to you.”
+[scene] (p.337) Clarifies that Horikita may not be the one instructing him.
+[says] (p.337) “No, I just said that Horikita warned me... The instructions could’ve come from somebody else.”
+[rel:sakayanagi-arisu] (p.329–345) Faces her in the exam.
+
+### y1v11 pp.430, 439–450 — Epilogue: After the exam
+
+[scene] (p.430) Is asked whether he hid his abilities.
+[says] (p.430) “The heck? Does this mean you’ve been hiding your abilities until now?”
+[scene] (p.439) Says Sakayanagi won, so there is nothing more.
+[says] (p.439) “You’re the one who won. What more could there be to it?”
+[scene] (p.441) Says he lost at the end of the day.
+[says] (p.441) “What are you talking about? At the end of the day, I lost.”
+[scene] (p.445) Asks about a chessboard in the library.
+[says] (p.445) “Did you know that there’s a chessboard in the library?”
+[scene] (p.446) Says Sakayanagi is honest about her defeat.
+[says] (p.446) “You sure are honest about it.”
+[scene] (p.447) Says he was objectively stating facts.
+[says] (p.447) “That’s not it. I was just objectively stating the facts.”
+[scene] (p.449) Says Sakayanagi is honest.
+[says] (p.449) “Fufu, how honest.”
+[scene] (p.450) Says he will put the chessboard away.
+[says] (p.450) “I’ll put it away. Just sit there and wait for a bit.”
+[rel:sakayanagi-arisu] (p.439–450) Speaks with her after the exam.
+[rel:tsukishiro] (p.439–444) Is confronted by him.
 ## y1v11.75
 
 <!-- walk: y1v11.75 → start -->

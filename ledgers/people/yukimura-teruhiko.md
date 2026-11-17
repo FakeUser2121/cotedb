@@ -782,3 +782,25 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [rel:horikita-suzune] (p.16–23) Discusses her response and leadership after the exam.
 
 <!-- walk: y1v11.5 ch1 → p.120 -->
+
+### y1v11 pp.238–244, 271–280 — Ch.5: Intel gathering and Katsuragi
+
+[scene] (p.238) Urges Horikita to start collecting intel.
+[says] (p.238) “Hey, Horikita. Shouldn’t we also start seriously collecting intel at this point?”
+[scene] (p.239) Says preparing for all ten events will be tough.
+[says] (p.239) “Yeah. Honestly, it’ll be pretty tough for us to prepare for all ten of these events in the time we have left.”
+[scene] (p.240) Asks to talk about the special exam in the hallway.
+[says] (p.240) “Talking here is a little bit... well, it’s about the special exam.”
+[scene] (p.242) Says Totsuka’s expulsion probably left Katsuragi with a grudge.
+[says] (p.242) “Recently, Katsuragi’s biggest supporter Totsuka got expelled due to Sakayanagi, so he probably still bears a grudge, right?”
+[scene] (p.243) Proposes offering Katsuragi a transfer to Class C.
+[says] (p.243) “Then, when we manage to climb up to Class A, we’ll offer Katsuragi the opportunity to transfer classes. How about that for a bargaining chip?”
+[scene] (p.271) Greets Katsuragi.
+[says] (p.271) “...So, what can I do for you, Yukimura?”
+[scene] (p.273) Curses when Katsuragi refuses.
+[says] (p.273) “Dammit!”
+[scene] (p.278) Celebrates getting Katsuragi’s information.
+[says] (p.278) “W-we did it Kiyotaka! Now we finally have a chance to win this!”
+[rel:horikita-suzune] (p.238–244) Urges her to collect intel.
+[rel:katsuragi-kouhei] (p.271–280) Negotiates with him for information.
+[rel:ayanokouji-kiyotaka] (p.240–244, 271–280) Works with him on the plan.

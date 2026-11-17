@@ -761,3 +761,23 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [rel:horikita-suzune] (p.259–270) Reunites with her, reconciles, and gives her a final farewell.
 
 <!-- walk: y1v11.5 ch4 → p.295 -->
+
+### y1v11 pp.217–229 — Ch.5: Meeting on the way to school
+
+[scene] (p.218) Asks whether Ayanokōji can graduate as a member of Class A.
+[says] (p.218) “That’s supposed to be my line. Are you sure you can graduate as a member of Class A?”
+[scene] (p.220) Explains his discretion as a former student council president.
+[says] (p.220) “Maybe so. You can think of it as an obligation I have as a former student council president.”
+[scene] (p.222) Says no human is perfect.
+[says] (p.222) “There is no such thing as a perfect human. Am I wrong?”
+[scene] (p.225) Says Suzune would surpass him if she became honest with herself.
+[says] (p.225) “If Suzune could stop chasing after my shadow, break away from her dependency, and become honest with herself…”
+[says] (p.226) “She would surpass me altogether, and probably become someone you wouldn’t be able to ignore.”
+[scene] (p.226) Says it depends on whether she can change.
+[says] (p.226) “But in the end, it all depends on whether she can make the change at all.”
+[scene] (p.227) Denies dating Tachibana.
+[says] (p.227) “No. Nothing of the sort.”
+[scene] (p.228) Says he spent three years thinking only about school.
+[says] (p.228) “I’ve spent these last three years thinking about nothing but school, for better or for worse.”
+[rel:ayanokouji-kiyotaka] (p.217–229) Talks with him about Suzune and graduation.
+[rel:tachibana-akane] (p.227–229) Is asked about her; she listens in.
