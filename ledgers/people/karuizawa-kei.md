@@ -1428,7 +1428,7 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
-### y3v1 Ch.7 — depth read: Karuizawa's heartbreak and the exam
+### y3v1 p.163–202 — Ch.7 — depth read: Karuizawa's heartbreak and the exam
 [scene] (p.163) Arrives at school early, still unable to smile since the breakup; sees Ayanokōji sitting on a bench and her heart constricts.
 [says] (p.165) "Are you… uh, are you and Ayanokouji-kun… dating…?"
 [says] (p.166) "If you're holding back from telling the truth for my sake—"
@@ -1438,7 +1438,7 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:ichinose-honami] (p.164–173) Questions whether she is dating Ayanokōji; is devastated when Ichinose admits her feelings, and asks her for help only to be refused.
 [note] (p.173) Hides in the bushes so no one sees her crying after Ichinose walks away with Ayanokōji.
 
-### y3v1 Ch.8 — depth read: Karuizawa reaches out
+### y3v1 p.203–224 — Ch.8 — depth read: Karuizawa reaches out
 [scene] (p.209) Sees Ibuki kick Horikita from the bench; approaches and offers a hand, helping her up and brushing dirt from her uniform.
 [says] (p.209) "Are you okay?"
 [says] (p.210) "I don't think it's your fault. If we had scored more points, we could've won the full-class battle."
@@ -1453,6 +1453,54 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:horikita-suzune] (p.209–215) Helps her up and confides in her — they become close, realizing they share feelings for the same person.
 [rel:ayanokouji-kiyotaka] (p.211–215) Says he saved her from darkness; still loves him and wants him to regret leaving.
 [rel:satou-maya] (p.213) Notes even Maya-chan doesn't know her secret.
+
+### y3v1 p.14–26 — Karuizawa after the breakup, questioned about the transfer
+[scene] (p.14) Sits near the back by the window, listless, gazing outside; blatantly avoiding Ayanokōji since morning.
+[says] (p.26) "…I don't know. I really don't know anything. It's not that I'm hiding anything; I truly don't know."
+[trait] (p.14–26) Heartbroken after the breakup — listless and avoiding Ayanokōji; when the class turns to her as his girlfriend, she says indifferently she knows nothing, her expression clouded also by guilt that the breakup caused his transfer.
+[rel:ayanokouji-kiyotaka] (p.14–26) Recently broke up with him; everyone assumes she might know why he transferred, but she doesn't.
+[rel:horikita-suzune] (p.26) Horikita senses her guilt and reads the room for her.
+
+### y3v1 p.163–173 — Karuizawa's heartbreak; confronting Ichinose about Ayanokōji
+[scene] (p.163) Walks to school alone on exam day, having not smiled since the breakup; sees Ayanokōji sitting on a bench.
+[narrates] (p.163) "From the time she parted with Ayanokouji until this very day, Karuizawa hasn't been able to smile even once."
+[narrates] (p.165) "Are you… uh, are you and Ayanokouji-kun… dating…?"
+[narrates] (p.166) "Me? No way." — Ichinose
+[trait] (p.163–173) Heartbroken and jealous but stubbornly attending school — she presses Ichinose about dating Ayanokōji, can't take the denial at face value, and is both relieved and tortured; ultimately hides in the bushes, unseen, as Ichinose walks off with him.
+[rel:ichinose-honami] (p.164–173) Interrogates her about Ayanokōji; senses her popularity and that she knows his secrets; asks her for help as a "rival" and is quietly refused.
+[rel:ayanokouji-kiyotaka] (p.163–173) Still in love with her ex; observes he shows no lingering attachment and walks away with Ichinose without looking back.
+
+### y3v1 p.209–215 — Karuizawa finds Horikita; sharing her painful past
+[scene] (p.209) Still in uniform, sees Ibuki kick Horikita from a nearby bench, comes over and gently helps the bloodied, dirtied girl up, brushing dirt from her uniform with a handkerchief.
+[says] (p.209) "Are you okay?"
+[says] (p.209) "It looked like she hit your back really hard, are you hurt? Should I call a teacher?"
+[says] (p.210) "I don't think it's your fault. If we had scored more points, we could've won the full-class battle."
+[says] (p.211) "That's not true. You've had a distinct backbone from the moment you entered school."
+[says] (p.211) "He's a crucial person to me. Someone important… someone I love…"
+[says] (p.211) "I can't say. Not saying it… that's become my reason for existence."
+[says] (p.212) "Do you… like Ayanokouji-kun too?"
+[says] (p.212) "But you couldn't respond right away, isn't that telling?"
+[says] (p.213) "Kiyotaka—no, Ayanokouji-kun… he saved me from the darkness."
+[says] (p.213) "I'll tell only you, Horikita-san, the secret I have with Ayanokouji-kun. Even Maya-chan doesn't know."
+[says] (p.214) "I feel the same way."
+[says] (p.214) "We both got involved with a really difficult person, didn't we?"
+[says] (p.215) "You really are strong, Horikita-san."
+[says] (p.215) "Let's make him regret transferring out of our class."
+[trivia] (p.213) Reveals her first-year secret: middle-school bullying, resolving to climb the school's social hierarchy even if disliked, the fake romance with Hirata, the new wave of bullying when the truth emerged, her rescue through Ayanokōji's intervention (itself orchestrated), and the rooftop battle with Ryūen — details Ibuki's account had lacked.
+[trait] (p.209–215) Kind and emotionally open — tends to Horikita's wounds, shares her vulnerable past and feelings for Ayanokōji, and resolves to change her mindset and make him regret leaving Class A; her "natural smile" is something Horikita had not seen since the breakup.
+[rel:horikita-suzune] (p.209–215) Helps her up, confides in her, and bonds over their shared feelings — feeling more connected to her than anyone else in the class.
+[rel:ayanokouji-kiyotaka] (p.211–215) Still loves him; refuses to say whether the transfer was his idea, calls him the one who saved her from darkness, and vows to make him regret leaving.
+[rel:hasebe-haruka] (p.213) Refers to her as "Maya-chan" — her close friend who doesn't know her secret.
+[rel:hirata-yousuke] (p.213) The fake romance in her first year.
+
+### y3v1 p.271–274 — "Mock Date": a secret date at Keyaki Mall
+[scene] (p.271) Goes alone to Keyaki Mall before the island exam to try a "mock date" with Ayanokōji — arriving separately and messaging each other while browsing the stores.
+[narrates] (p.272) "Phew, I'm kind of nervous."
+[narrates] (p.272) "This is cute~"
+[narrates] (p.273) "It's almost as if he stepped out of a manga…"
+[narrates] (p.274) "He really is simple-minded."
+[trait] (p.271–274) Playful and affectionate — enjoys the secret text-message date, teases his "terrible taste" in a skull strap, and wants to date him "openly and proudly" as soon as possible; touched that he silently left the kitten strap she liked at her door.
+[rel:ayanokouji-kiyotaka] (p.271–274) Her boyfriend; they hold a secret mock date via messages, and he later leaves the kitten phone strap at her door.
 ## y3v2
 
 <!-- walk: y3v2 → start -->

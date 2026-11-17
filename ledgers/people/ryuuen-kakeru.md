@@ -1779,7 +1779,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
-### y3v1 Ch.5 — depth read: Ryūen welcomes a direct fight
+### y3v1 p.98–145 — Ch.5 — depth read: Ryūen welcomes a direct fight
 [scene] (p.123) At the mall, intervenes as Ishizaki angrily confronts Ayanokōji, pushing his shoulder aside.
 [says] (p.123) "Shut up, Ishizaki. You're bothering the other students, calm down."
 [says] (p.123) "You're as desperate as ever. If Sakayanagi disappears, you immediately stick to Ayanokouji without a hint of hesitation. Can't you survive without clinging to the strong?"
@@ -1790,7 +1790,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:ishizaki-daichi] (p.123) Holds him back from the confrontation.
 [rel:hashimoto-masayoshi] (p.123) Mocks him for clinging to Ayanokōji.
 
-### y3v1 Ch.7 — depth read: Ryūen's victory interview
+### y3v1 p.163–202 — Ch.7 — depth read: Ryūen's victory interview
 [scene] (p.189) Leads Ishizaki, Ibuki and Albert into Class C's classroom without permission for a "winner's interview."
 [says] (p.189) "Yo, don't mind me."
 [says] (p.190) "I came all the way here for a winner's interview, move it."
@@ -1800,6 +1800,37 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [trait] (p.189–190) Ruthless and intimidating — shoves Sawada and Hashimoto aside.
 [rel:ayanokouji-kiyotaka] (p.189–193) Barges in to confirm whether he has been recognized as leader; his "gift" of a near-win was calculated.
 [rel:ishizaki-daichi] (p.189) Enters with him; the two banter about being called "idiots."
+
+### y3v1 p.139–144 — Ryūen's camp plans to crush Class C's first victory
+[says] (p.137) "There's no cure for stupidity. Besides, there's no need to play on their turf."
+[says] (p.138) "That's where my ultimate goal lies." — on wanting a formidable opponent
+[says] (p.140) "Well, if you only look at the returns you can see, sure, that might be the case."
+[says] (p.141) "This is an exam we're expected to lose. But that also means it's an exam they absolutely cannot afford to lose."
+[says] (p.141) "If we can strike them down during his first exam, his maiden voyage, it will be a bigger advantage than the actual Class Point difference."
+[says] (p.143) "…I've decided how I'll fight."
+[trait] (p.136–144) Aggressive but calculating — plans to pour Private Points into penalty points (even ~15 million) not just for Class Points but to shatter Ayanokōji's "first victory" and momentum; wants to test whether the "impossible" prediction can be done.
+[rel:ayanokouji-kiyotaka] (p.138–144) Sees him as a formidable opponent; wants to strike down his first exam as leader; believes he'll take the exam seriously and may see through their five participants.
+[rel:katsuragi-kouhei] (p.136–144) Debates the plan with him; Katsuragi estimates ~15 million needed and urges against a half-hearted approach.
+[rel:ibuki-mio] (p.136–138) She recommends giving up; discusses Ayanokōji and Horikita; says she truly hates him.
+[rel:ishizaki-daichi] (p.136–144) Wants deep-fried pasta; surprised at the cost.
+
+### y3v1 p.142–144 — Horikita's state discussed; info-leak precautions
+[says] (p.142) "I don't think she's recovered. She turns me away when I come, and she always has a gloomy expression."
+[says] (p.142) "Good. She should just lose miserably."
+[says] (p.144) "We should start off with Hashimoto, and it also seems wise to pay special attention to Yamamura." — Katsuragi
+[rel:horikita-suzune] (p.142) Ibuki reports she hasn't recovered from the transfer; Ryūen is pleased at the prospect of Class A stumbling.
+[rel:hashimoto-masayoshi] (p.144) Identified as the primary information-leak risk to watch.
+[rel:yamamura-miki] (p.144) Katsuragi flags her as someone to watch despite Ibuki not knowing her.
+
+### y3v1 p.190–197 — Ryūen's "winner's interview" and defeat
+[says] (p.190) "Yo, don't mind me."
+[says] (p.190) "I came all the way here for a winner's interview, move it."
+[says] (p.191) "So? Has it been officially decided that you'll lead Class C from now on, Ayanokouji?"
+[says] (p.192) "Kukuku. I see, it does seem like you're busy."
+[says] (p.196) "That's how it is, huh…? Bring it on."
+[trait] (p.189–197) Barges into Class C to gloat and confirm Ayanokōji wasn't recognized as leader — but is outmaneuvered: his 100-point penalty and strategy of abandoning the academic fight were read and turned into Ayanokōji's proof of strength; leaves in miserable retreat.
+[rel:ayanokouji-kiyotaka] (p.190–197) Tried to delay his leadership; gives him all 100 penalty points out of caution, which backfires into Ayanokōji's demonstration.
+[rel:ishizaki-daichi] (p.199) Ibuki covers Ishizaki's mouth as he tries to speak to Ryūen after.
 ## y3v2
 
 <!-- walk: y3v2 → start -->

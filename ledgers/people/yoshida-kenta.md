@@ -15,7 +15,7 @@ char_id: yoshida-kenta · class: unknown · status: unknown
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
-### y3v1 Ch.6 — depth read: Yoshida, the lovestruck classmate
+### y3v1 p.146–162 — Ch.6 — depth read: Yoshida, the lovestruck classmate
 [scene] (p.146) Has been waiting outside the dorm since 9:30 for the 10:30 meeting with Shiraishi.
 [says] (p.146) "Y-Yo, you're early, Ayanokouji."
 [says] (p.146) "Well, I'm a gentleman. I don't make ladies wait."
@@ -27,6 +27,16 @@ char_id: yoshida-kenta · class: unknown · status: unknown
 [rel:ayanokouji-kiyotaka] (p.146–148) Talks with him about Shiraishi and the class; admits the class's negative view of Hashimoto.
 [rel:shiraishi-asuka] (p.146–152) Waiting an hour early to see her; sings at karaoke to impress her.
 [rel:nishikawa-ryouko] (p.148–152) Is teased mercilessly by her about his feelings.
+
+### y3v1 p.81–83 — Yoshida arrives; needled into helping
+[says] (p.81) "H-Hey, Shiraishi. Good morning."
+[says] (p.82) "What's up, Ayanokouji? You're quite early this morning, huh?"
+[says] (p.82) "In that case, come as soon as the gates open starting tomorrow."
+[says] (p.82) "No, I wouldn't do that!"
+[says] (p.83) "Wait a minute! I guess I have no choice but to help you out too."
+[trait] (p.81–83) Friendly but easily flustered — suggests Ayanokōji arrive first daily to set an example, then is tied in knots by Shiraishi into retracting it and agreeing to help him fit in; "popular in the class."
+[rel:shiraishi-asuka] (p.81–83) Greets her first, is manipulated by her, and can't refuse her request.
+[rel:ayanokouji-kiyotaka] (p.81–83) Gives a sharp look, then grudgingly agrees to help him get along with classmates.
 ## y3v2
 
 <!-- walk: y3v2 → start -->

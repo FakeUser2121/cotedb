@@ -1141,7 +1141,7 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
-### y3v1 Ch.1 — depth read: the stunned homeroom teacher and speculation
+### y3v1 p.13–28 — Ch.1 — depth read: the stunned homeroom teacher and speculation
 [scene] (p.16) Arrives at the classroom panicked and pale, her gaze unfocused and hollow; does not respond to Hirata or Kikuchi at first.
 [says] (p.17) "I'm fine."
 [says] (p.18) "There's something I need to tell all of you. This morning—no, just a little while ago—a certain student used their Private Points to exercise a certain right… or so it seems."
@@ -1151,7 +1151,7 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [trait] (p.16–21) Uncharacteristically shaken; keeps glancing at her tablet and struggles to explain clearly.
 [rel:ayanokouji-kiyotaka] (p.17–21) Delivers the news of his transfer; her demeanor suggests she knew something was wrong before class.
 
-### y3v1 Ch.4 — depth read: Chabashira's suspicion
+### y3v1 p.75–97 — Ch.4 — depth read: Chabashira's suspicion
 [scene] (p.87) Pulls Ayanokōji aside near the gym, having followed him from the dorm to ask about the transfer.
 [says] (p.88) "…I wanted to talk to you. As your homeroom teacher… no, as your former homeroom teacher, I thought it might be inappropriate to carelessly make contact, but I couldn't help wanting to check something."
 [says] (p.88) "Isn't there something inconvenient… something that forced you to transfer?"

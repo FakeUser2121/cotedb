@@ -88,7 +88,7 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
-### y3v1 Ch.4 — depth read: Hōsen hunts for a fight
+### y3v1 p.75–97 — Ch.4 — depth read: Hōsen hunts for a fight
 [scene] (p.85) Approaches Ayanokōji at Keyaki Mall while he waits for Ichinose, drawn by the rumors of his transfer.
 [says] (p.85) "I've been hearing some flashy rumors lately about a stupid senpai who voluntarily transferred to Class C amidst its fall."
 [says] (p.86) "It's just that my skills have been getting dull lately, and it's bothering me. I'm looking for someone to be my punching bag. Got any ideas?"

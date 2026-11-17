@@ -498,12 +498,18 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
-### y3v1 Ch.3 — depth read: Akito's plea
+### y3v1 p.40–74 — Ch.3 — depth read: Akito's plea
 [scene] (p.70) Joins the confrontation behind the dorm, relaying how Hasebe took the transfer.
 [says] (p.70) "She kept repeating over and over that"
 [says] (p.74) "We're still friends even if you left the class. If you ever encounter any problems, feel free to consult us."
 [rel:ayanokouji-kiyotaka] (p.70–74) Says they remain friends and offers help despite the transfer.
 [rel:hasebe-haruka] (p.70) Reports that she blamed herself for the transfer over their earlier reconciliation talk.
+
+### y3v1 p.70–74 — Akito asks, then offers friendship
+[says] (p.70) "So, what's the real reason?"
+[says] (p.74) "We're still friends even if you left the class. If you ever encounter any problems, feel free to consult us."
+[trait] (p.70–74) Holds back anger, asks the real reason, then accepts the departure gracefully — telling Ayanokōji they remain friends and offering help.
+[rel:ayanokouji-kiyotaka] (p.70–74) His friend; asks why and pledges continued friendship.
 ## y3v2
 
 <!-- walk: y3v2 → start -->

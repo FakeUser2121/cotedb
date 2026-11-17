@@ -1497,7 +1497,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
-### y3v1 Ch.1 — depth read: Sudō's read on the breakup
+### y3v1 p.13–28 — Ch.1 — depth read: Sudō's read on the breakup
 [scene] (p.13) Sits diagonally behind Horikita and notices Ayanokōji's absence with concern.
 [says] (p.14) "Maybe he's pretending to be sick."
 [says] (p.14) "He and Karuizawa recently broke up, right? It must be pretty awkward to face each other."
@@ -1506,7 +1506,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:horikita-suzune] (p.13–15) Discusses the absence and relationship troubles with her; recalls his own confession.
 [rel:ayanokouji-kiyotaka] (p.14) Speculates the breakup explains his absence.
 
-### y3v1 Ch.3 — depth read: Sudō demands an answer
+### y3v1 p.40–74 — Ch.3 — depth read: Sudō demands an answer
 [scene] (p.69) Runs into Ayanokōji and Hirata outside the dorm with Ike, Keisei and Akito and demands to know why he transferred.
 [says] (p.69) "I just met Suzune and heard a bit of the situation... Rather than transferring to Class C for some strategy, you seriously did it on your own free will?"
 [says] (p.70) "Why the hell did you do that, Ayanokouji? Why did you transfer classes? There's no need to go down to Class C after finally moving up to Class A, right?"
@@ -1516,6 +1516,37 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:ayanokouji-kiyotaka] (p.69–74) Confronts him ferociously but is ultimately made to accept the transfer was his own choice.
 [rel:hirata-yousuke] (p.69–74) Is calmed by Hirata, who does not want a crowd gathering.
 [rel:horikita-suzune] (p.69) Learned part of the situation from Suzune before confronting Ayanokōji.
+
+### y3v1 p.13–15 — Sudō's theory: Ayanokōji is dodging Karuizawa
+[says] (p.13) "Come to think of it, yeah."
+[says] (p.14) "Maybe he's pretending to be sick."
+[says] (p.14) "He and Karuizawa recently broke up, right? It must be pretty awkward to face each other."
+[says] (p.14) "For me too, you know, when I experienced heartbreak, it really took a toll on me mentally."
+[says] (p.15) "Well, it's just a possibility. Cut him some slack if he's a bit late."
+[trait] (p.13–15) Speaks from personal experience (he confessed to Horikita on the school trip); suggests the breakup explains Ayanokōji's absence, and urges giving him slack; later stands up when Kushida needles Horikita.
+[rel:horikita-suzune] (p.13–15) Sits diagonally behind her, worried about Ayanokōji; recalls his own confession to her.
+[rel:ayanokouji-kiyotaka] (p.14) Speculates he's avoiding Karuizawa after their breakup.
+[rel:karuizawa-kei] (p.14) Notes she's been blatantly avoiding Ayanokōji since morning.
+
+### y3v1 p.69–74 — Sudō demands answers from Ayanokōji
+[says] (p.69) "Hirata… Ayanokouji."
+[says] (p.69) "Why did you do it?"
+[says] (p.70) "Why the hell did you do that, Ayanokouji? Why did you transfer classes?"
+[says] (p.72) "Wha… Are you serious…?"
+[says] (p.73) "Suzune was relying on you. What kind of face do you plan to make from tomorrow onward…"
+[trait] (p.69–74) Angry and hurt — demands to know why Ayanokōji left, slaps Ike for the Karuizawa joke, tries to rally the others, but is left frustrated when Ayanokōji gives no real reason and Hirata accepts it.
+[rel:ayanokouji-kiyotaka] (p.69–74) Confronts him outside the dorm; gets no satisfying answer.
+[rel:horikita-suzune] (p.73) Is upset on Suzune's behalf — she was relying on Ayanokōji.
+[rel:ike-kanji] (p.70) Slaps him on the back for joking about the breakup.
+
+### y3v1 p.103–107 — Sudō's concern for Horikita
+[says] (p.103) "Looks like it's going to be a tough fight…"
+[narrates] (p.106) "Are you okay?"
+[narrates] (p.106) "That's true, but… you're still worried about Ayanokouji, aren't you?"
+[narrates] (p.106) "It's impossible not to worry, but don't keep it all to yourself."
+[trait] (p.103–107) Stern about the exam but gentle with Horikita — notices she's preoccupied, puts a hand on her shoulder, and urges her not to bottle up her worry about Ayanokōji.
+[rel:horikita-suzune] (p.106) Checks on her when she spaces out.
+[rel:ayanokouji-kiyotaka] (p.106) Knows she's still worried about him.
 ## y3v2
 
 <!-- walk: y3v2 → start -->

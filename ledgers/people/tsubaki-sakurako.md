@@ -36,7 +36,7 @@ char_id: tsubaki-sakurako · class: Class 1-C · status: unknown
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
-### y3v1 Epilogue — depth read: Tsubaki's lingering question
+### y3v1 p.225–287 — Epilogue — depth read: Tsubaki's lingering question
 [scene] (p.225) Encounters Ayanokōji on the way back from school with Utomiya; brings up the rumor of his transfer.
 [says] (p.225) "It feels like it's been a while since I've seen the two of you together."
 [says] (p.226) "What is it? It's creepy when you suddenly call me by my full name."

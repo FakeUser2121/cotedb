@@ -110,7 +110,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
-### y3v1 Epilogue — depth read: Nanase's secret call
+### y3v1 p.225–287 — Epilogue — depth read: Nanase's secret call
 [scene] (p.241) Is with Horikita in the student council room when the three eavesdroppers arrive; after Horikita leaves, takes a phone call.
 [says] (p.242) "It's not like that. It's all thanks to your precise instructions, President Horikita."
 [says] (p.242) "Yes, I definitely want to graduate from Class A. However, as long as I can finish my school life safely, that would be the best outcome for me."

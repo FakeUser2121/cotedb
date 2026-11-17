@@ -15,7 +15,7 @@ char_id: shiraishi-asuka · class: unknown · status: unknown
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
-### y3v1 Ch.4 — depth read: Shiraishi, the sharp neighbor
+### y3v1 p.75–97 — Ch.4 — depth read: Shiraishi, the sharp neighbor
 [scene] (p.75) Is already in the classroom when Ayanokōji arrives early; greets him politely.
 [says] (p.75) "Good morning."
 [says] (p.79) "…Yes, I woke up unusually early today. But you're early too, Ayanokouji-kun."
@@ -30,7 +30,7 @@ char_id: shiraishi-asuka · class: unknown · status: unknown
 [rel:yoshida-kenta] (p.82–83) Points out he likes her and manipulates him into retracting his advice and helping Ayanokōji.
 [note] (p.83) Says flatly that even if she and Yoshida were the last people on Earth, she still would not choose him.
 
-### y3v1 Ch.6 — depth read: Shiraishi's curiosity and the timing tip
+### y3v1 p.146–162 — Ch.6 — depth read: Shiraishi's curiosity and the timing tip
 [scene] (p.152) Arrives at the karaoke room and sits close to Ayanokōji during the singing.
 [says] (p.153) "I've been wanting to have a proper conversation with you at least once, Ayanokouji-kun."
 [says] (p.153) "It's never very relaxing at school."
@@ -43,7 +43,7 @@ char_id: shiraishi-asuka · class: unknown · status: unknown
 [rel:nishikawa-ryouko] (p.153) Calls Ryouko her best friend.
 [rel:morishita-ai] (p.161) Tips off Ayanokōji to her prank.
 
-### y3v1 Epilogue — depth read: Shiraishi's interest and the eavesdropping
+### y3v1 p.225–287 — Epilogue — depth read: Shiraishi's interest and the eavesdropping
 [says] (p.238) "May I join you?"
 [says] (p.238) "It's fine to have secrets, but we're classmates. We're allies, right?"
 [says] (p.241) "Above all, his voice is wonderful."
@@ -53,6 +53,53 @@ char_id: shiraishi-asuka · class: unknown · status: unknown
 [rel:ayanokouji-kiyotaka] (p.241) Admires his abilities and voice; undeterred by warnings he is dangerous.
 [rel:morishita-chiaki] (p.238–241) Tags along uninvited and trades barbs with her.
 [rel:nanase-tsubasa] (p.246–247) Is named by Nanase as one of the eavesdroppers; advises against following her.
+
+### y3v1 p.75–84 — Shiraishi, the early riser at the next desk
+[scene] (p.75) Is already at her desk studying on a tablet when Ayanokōji arrives unusually early.
+[says] (p.75) "Good morning to you, too."
+[says] (p.79) "…Yes, I woke up unusually early today. But you're early too, Ayanokouji-kun."
+[says] (p.79) "Why did you decide to transfer to this class, Ayanokouji-kun?"
+[says] (p.80) "I can't believe you'd choose to drop to a lower class after finally making it to Class A."
+[says] (p.80) "Of course, I understand that. But that's to save us. No one has explained how this would benefit you, Ayanokouji-kun."
+[says] (p.81) "I have a high regard for you, Ayanokouji-kun, so I honestly have high expectations."
+[says] (p.83) "He likes me."
+[says] (p.84) "Next time, please be sure to tell me the reason why you transferred."
+[trait] (p.75–84) Polite, perceptive and direct — presses Ayanokōji on why he transferred, sees things "from the outside," calmly turns Yoshida's words against him, and states plainly that Yoshida likes her but she'd never choose him; her calm insight makes Ayanokōji suspect there's more to her than a "kind neighbor."
+[rel:ayanokouji-kiyotaka] (p.75–84) His new desk neighbor; questions him closely and volunteers to introduce him to friends.
+[rel:yoshida-kenta] (p.81–83) Aware he likes her; rejects him outright and manipulates him into helping Ayanokōji.
+
+### y3v1 p.152–162 — Shiraishi up close at karaoke; signaling the prank
+[says] (p.153) "I've been wanting to have a proper conversation with you at least once, Ayanokouji-kun."
+[says] (p.153) "It's never very relaxing at school."
+[says] (p.153) "Ryouko-san is my best friend."
+[says] (p.153) "Now that we're in the same class, let's exchange contact information."
+[says] (p.154) "Maybe not for you, Ayanokouji-kun, but I genuinely interpret it that way."
+[says] (p.161) "I'm sorry. I couldn't just leave Ayanokouji-kun feeling troubled."
+[trait] (p.152–162) Warm and physically familiar — closes the distance until their clothes almost touch, touches his hand and admires his fingers; calls their being seated together "fate"; silently signals Morishita's prank timing to help him; her eyes convey not romance but curiosity at "an interesting experimental subject."
+[rel:ayanokouji-kiyotaka] (p.152–162) Sits close, exchanges numbers, helps him catch Morishita's prank; sees him as a fascinating subject.
+[rel:nishikawa-ryouko] (p.153) Her best friend.
+[rel:morishita-ai] (p.157–162) Signals the eraser-prank timing so Ayanokōji can catch her; finds their exchange "cute."
+
+### y3v1 p.258–260 — "The Secrets She Harbors": drawn to the empty seat
+[scene] (p.258) Arrives at school earlier than anyone, takes her seat, and gazes at the empty seat on her left — now Ayanokōji's — troubled by his transfer.
+[narrates] (p.258) "This is troubling, isn't it?"
+[narrates] (p.258) "…There's a… mountain of problems, isn't there?"
+[narrates] (p.259) "…I am… foolish, aren't I?"
+[narrates] (p.260) "Why did you decide to transfer to this class, Ayanokouji-kun?" — asked aloud
+[trait] (p.258–260) Harbors inexpressible feelings she understands but pretends not to; draws Ayanokōji's face on her tablet to learn his expressions, deletes it when he appears, and listens intently to his "voice with little inflection," resolving to memorize it.
+[rel:ayanokouji-kiyotaka] (p.258–260) Watches his empty seat and questions his transfer; wants to know his true intentions.
+
+### y3v1 p.263–264 — "An Extra Pair of Ears": entranced by his voice
+[scene] (p.263) Presses the phone to her right ear, eavesdropping on the conversation between Nishikawa, Yoshida and Ayanokōji about the "Hundred-Man Slayer" rumor.
+[narrates] (p.263) "Aah… It's this voice after all, isn't it?"
+[narrates] (p.263) "Does that 'Hundred-Man Slayer' expression change to the 'Two-Hundred-Man Slayer' when it reaches two hundred?"
+[narrates] (p.264) "As expected, your way of thinking is wonderful, Ayanokouji-kun."
+[narrates] (p.264) "Sakayanagi-san. Please leave the rest to me."
+[trait] (p.263–264) Entranced by Ayanokōji's "clinical and colorless" voice — a voice impossible to analyze yet which makes her heart race; belittles Yoshida's voice as a "racket" by comparison and decides to hear him in person rather than through the phone.
+[rel:ayanokouji-kiyotaka] (p.263–264) Eavesdrops on him, delighted by his reasoning that a specialist in any field is worthy of respect; resolves to go to him directly.
+[rel:sakayanagi-arisu] (p.264) Announces to her (off-page) that she'll handle matters from here.
+[rel:nishikawa-ryouko] (p.263) Hears her "Hundred-Man Slayer" voice on the phone; refers to her as Ryouko-san.
+[rel:yoshida-kenta] (p.263) Hears his "flat and uninteresting" voice, which irritates her by comparison.
 ## y3v2
 
 <!-- walk: y3v2 → start -->

@@ -899,3 +899,18 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 
 
 <!-- walk: y2v12 Epilogue → p.228 -->
+
+## y3v1
+
+<!-- walk: y3v1 → start -->
+
+### y3v1 p.136–145 — Katsuragi weighs the penalty-point plan
+[says] (p.136) "This special exam won't be easy. No, I should say 'also' this time."
+[says] (p.137) "It was made for the class. In fact, students who are taking these seriously have already seen steady improvements."
+[says] (p.139) "To have a high chance of winning… we'd want to take away an additional three hundred points. That would require about 15 million private points."
+[says] (p.140) "Even then, there's no absolute guarantee."
+[says] (p.144) "We should start off with Hashimoto, and it also seems wise to pay special attention to Yamamura."
+[trait] (p.136–145) Serious and responsible — gave the class study assignments, calculates the cost of victory (~15 million), warns about the risk of wasted funds and information leaks, and heads off to act, feeling responsible for the class's academic performance.
+[rel:ryuuen-kakeru] (p.139–144) Debates the plan and ultimately supports going all out.
+[rel:ishizaki-daichi] (p.137) Urges him to study; frustrated by his lack of effort.
+[rel:ayanokouji-kiyotaka] (p.138) Doubts whether he can surpass Sakayanagi; recognizes his calmness and sharpness.

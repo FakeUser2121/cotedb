@@ -1643,7 +1643,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
-### y3v1 Ch.3 — depth read: Hirata pulls him aside
+### y3v1 p.40–74 — Ch.3 — depth read: Hirata pulls him aside
 [scene] (p.69) Waits for Ayanokōji at the dorm lobby and asks to move somewhere private so they can talk.
 [says] (p.69) "Would you mind changing the location a bit? It seems like people might gather here."
 [says] (p.71) "I was once saved by you too, Ayanokouji-kun. If it weren't for you, I probably wouldn't have stayed at this school."
@@ -1653,6 +1653,46 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [trait] (p.69–74) Sensitive to class trouble; respected Ayanokōji's strength but had come to distrust him over the last two exams — hints at a rift, and unusually calls him "Kiyotaka."
 [rel:ayanokouji-kiyotaka] (p.69–74) Seeks the reason for the transfer, then accepts it is his choice and leaves.
 [rel:sudou-ken] (p.69–74) Holds him back from confronting Ayanokōji too aggressively.
+
+### y3v1 p.10–12 — Hirata enters Class 3-A, seated beside Ayanokōji
+[scene] (p.10) Arrives early, climbs to the third-year floor and stops before the "Class 3-A" nameplate.
+[narrates] (p.10) "I've finally made it here…"
+[narrates] (p.10) "From Class 1-D to Class 3-A."
+[trivia] (p.10) Reflects on the journey — built on the sacrifices of Yamauchi, Sakura and Maezono, who had to leave the class; he came to school only to follow his older brother, but came to understand his brother's true feelings through being pushed away.
+[narrates] (p.11) "Though his inscrutable demeanor sometimes troubles me, that is part of his charm."
+[narrates] (p.11) "Not just for my brother or for myself—But to share the joy with everyone in the class, starting with Ayanokouji-kun."
+[narrates] (p.11) "Ryuuen-kun's class is quickly catching up right behind us."
+[narrates] (p.12) "To think I'd be next to him again, huh…?"
+[trait] (p.10–12) Grateful and determined — now on the student council and a congratulatory entrance-ceremony speaker, he resolves to graduate from Class A with everyone, aware of the rivals closing in.
+[rel:ayanokouji-kiyotaka] (p.10–12) Credits his presence for who he has become; delighted to be seated next to him again as in their first year.
+[rel:horikita-manabu] (p.10) His older brother, whom he followed to school and whose true feelings he came to understand.
+
+### y3v1 p.16–28 — Hirata checks on Chabashira; urges accepting reality
+[says] (p.16) "Sensei, are you alright?"
+[says] (p.17) "You say that, but you clearly seem unwell."
+[says] (p.27) "I think we should start by accepting reality."
+[says] (p.27) "Just what it sounds like. He, Ayanokouji-kun, has transferred classes."
+[says] (p.27) "Transfer and expulsion are different. Especially if it's his own decision."
+[says] (p.28) "I agree with Chabashira-sensei. Not only from a rules perspective, but also because approaching him in large numbers without understanding the situation can easily lead to trouble. I'll check on things first."
+[trait] (p.16–28) The first to check on the dazed Chabashira, and the calmest student after the announcement — urges accepting the confirmed reality, refuses to panic, and takes charge of investigating to keep the class from acting rashly (uncharacteristically composed, which Kushida notes).
+[rel:horikita-suzune] (p.27) Tries to reach the flustered Horikita; she can't match his calm.
+[rel:chabashira-sae] (p.16–17) First to notice and check on her unwell state.
+
+### y3v1 p.66–74 — Hirata's private talk and respectful acceptance
+[says] (p.69) "Would you mind changing the location a bit? It seems like people might gather here."
+[says] (p.70) "Sudou-kun. If we keep talking here, more and more people will gather."
+[says] (p.71) "I was once saved by you too, Ayanokouji-kun. If it weren't for you, I probably wouldn't have stayed at this school."
+[says] (p.74) "We have to respect that."
+[says] (p.74) "Is there anything you need to tell the class?"
+[trait] (p.69–74) Calm and mediating — tries to move the confrontation away from onlookers, admits he came to distrust Ayanokōji somewhat during the examinations, then respectfully accepts his departure and leaves, addressing him as "Kiyotaka."
+[rel:ayanokouji-kiyotaka] (p.69–74) His close friend; once saved by him, now distancing (by first/last name) and accepting his choice.
+[rel:sudou-ken] (p.70) Holds him back from confronting Ayanokōji in public.
+
+### y3v1 p.106–107, 133 — Hirata leads the exam discussion
+[narrates] (p.106) "How we use the penalty points is important… Focusing on targeting students likely to score high and getting it wrong is scary."
+[says] (p.133) "[We should discuss what to do about the special exam.]" — his message to Horikita
+[trait] (p.106–133) Takes the lead in the class discussion on penalty points and later messages the isolated Horikita to pull her back to reality and focus on the exam.
+[rel:horikita-suzune] (p.133) Messages her about the exam, reaching her when she's collapsed on her bed.
 ## y3v2
 
 <!-- walk: y3v2 → start -->

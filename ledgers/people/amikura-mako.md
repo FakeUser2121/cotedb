@@ -139,3 +139,17 @@ char_id: amikura-mako · class: Class 1-B · status: minor (allies)
 
 
 <!-- walk: y2v12 Epilogue → p.228 -->
+
+## y3v1
+
+<!-- walk: y3v1 → start -->
+
+### y3v1 p.275–283 — "Ever Since That Time…": Amikura's warning about Ichinose
+[scene] (p.275) At the gym after the survival exam, Amikura and Ichinose join him; after Akiyama calls Ichinose away over paperwork, Amikura speaks to him alone.
+[says:amikura-mako] (p.277) "Honami-chan's really changed, huh? It's like, unimaginable when you think about how she was like a few months ago…"
+[says:amikura-mako] (p.281) "I'm telling you this because… I don't want you to make Honami-chan sad or hurt her."
+[says:amikura-mako] (p.281) "It's tough for Honami-chan, falling for a guy who has a girlfriend."
+[says:amikura-mako] (p.282) "You can't just abandon her as a friend. It's not a bad thing."
+[trait] (p.275–283) Understands Ichinose well and watches over her — recounts the misdirected-message incident that sparked rumors about Ayanokōji, and asks him plainly not to hurt her, knowing she sees him as someone special.
+[rel:ichinose-honami] (p.275–282) Her best friend; recounts how the girls helped her through the message rumor and asks Ayanokōji to protect her feelings.
+[rel:ayanokouji-kiyotaka] (p.275–283) Gym buddy; warns him not to hurt Ichinose; sees he is unflustered by the blunt request.

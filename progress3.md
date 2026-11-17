@@ -1810,3 +1810,4 @@ hash: `6bea783884c7cb8573db97157f0b718a`.
 | y3v3 depth redo | 256 | 223 | 3a1de15fcba81419f7cb00a5bd55ba0c |
 | y0 depth pass (foundational) | 265 | 322 quotes / 64 scenes | 105a6f1d0edffa5982c5a3895229f8d1 |
 | y3v2 depth redo | 263 | 613 quotes / 113 scenes | 52997afde409a6b0b362b9657a2a92e9 |
+| y3v1 depth redo | 287 | 548 quotes / 126 scenes | 2e4ce48bde64e5c31502cc7c01a46f2d |

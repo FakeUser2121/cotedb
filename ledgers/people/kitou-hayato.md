@@ -229,7 +229,7 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 
 <!-- walk: y3v1 → start -->
 
-### y3v1 Epilogue — depth read: Kitou's challenge
+### y3v1 p.225–287 — Epilogue — depth read: Kitou's challenge
 [scene] (p.229) Calls Ayanokōji to a spot behind the dorm and steps out of the shadows.
 [says] (p.229) "Good, you didn't run away."
 [says] (p.229) "I don't recognize you as a leader."

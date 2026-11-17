@@ -116,7 +116,7 @@ char_id: shimazaki-ikkei · class: unknown · status: unknown
 
 <!-- walk: y3v1 → start -->
 
-### y3v1 Ch.7 — depth read: Shimazaki's confrontation and acknowledgement
+### y3v1 p.163–202 — Ch.7 — depth read: Shimazaki's confrontation and acknowledgement
 [scene] (p.189) Stands up the moment the exam results are shown and walks to Ayanokōji's desk, stern-faced.
 [says] (p.189) "Ayanokouji. You know what I want to say, right?"
 [says] (p.189) "You missed every single participant. You really made a remarkable debut."
@@ -128,3 +128,14 @@ char_id: shimazaki-ikkei · class: unknown · status: unknown
 [rel:ryuuen-kakeru] (p.192) Flinches at Ryūen but holds his ground.
 
 <!-- walk: y3v1 Epilogue → p.287 -->
+
+### y3v1 p.189–198 — Shimazaki confronts, then acknowledges Ayanokōji
+[says] (p.189) "Ayanokouji. You know what I want to say, right?"
+[says] (p.189) "You missed every single participant. You really made a remarkable debut."
+[says] (p.192) "I told you, this special exam was supposed to be an easy win."
+[says] (p.192) "Then I won't be holding back, Ayanokouji."
+[says] (p.194) "Honestly, you're far more amazing than I imagined. No wonder Hashimoto relies on you."
+[says] (p.198) "Ayanokouji… welcome to Class C."
+[trait] (p.189–198) Stern and academically proud — confronts Ayanokōji over his "disastrous" 0/5 prediction, but after Ayanokōji explains his true intent and shows a perfect 100 score (far above other A-rated students), shifts from anger to genuine acknowledgment and welcomes him.
+[rel:ayanokouji-kiyotaka] (p.189–198) Challenges him, then accepts him as Class C's leader.
+[rel:ryuuen-kakeru] (p.192–196) Defies Ryūen's mocking by praising Ayanokōji.

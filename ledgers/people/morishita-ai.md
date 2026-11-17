@@ -25,7 +25,7 @@ char_id: morishita-ai · class: Class 2-A · status: unknown
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
-### y3v1 Ch.3 — depth read: Morishita's seat and blunt assessment
+### y3v1 p.40–74 — Ch.3 — depth read: Morishita's seat and blunt assessment
 [scene] (p.41) Proposes Ayanokōji sit in front of her, arguing he is new, should not be marginalized but also not given the prime back seat, and needs surveillance as a former enemy.
 [says] (p.42) "First, Ayanokouji Kiyotaka is like a transfer student, meaning he is new to the class and unfamiliar with it. Placing him in the center of the class right away would make him shrink back like a loner."
 [says] (p.42) "Moreover, since he's an unexpected foreign element from an opposing class, who was an enemy until recently, proper surveillance is necessary."
@@ -36,7 +36,7 @@ char_id: morishita-ai · class: Class 2-A · status: unknown
 [rel:ayanokouji-kiyotaka] (p.41–47) Arranges his seat, teases his ignorance of a classic song reference and bluntly tells him he is unpopular.
 [rel:hashimoto-masayoshi] (p.67) Points out he would have led the opposition to Ayanokōji had he not brought him in.
 
-### y3v1 Ch.5 — depth read: Morishita's skepticism
+### y3v1 p.98–145 — Ch.5 — depth read: Morishita's skepticism
 [scene] (p.111) Whispers doubts to Ayanokōji about letting the "betrayer" Hashimoto in on the strategy.
 [says] (p.111) "Is it really okay to let someone who might betray us in on our strategy?"
 [says] (p.113) "So if Yamamura Miki wants to stand out, it's okay for her to do so?"
@@ -45,7 +45,7 @@ char_id: morishita-ai · class: Class 2-A · status: unknown
 [rel:ayanokouji-kiyotaka] (p.111–117) Sits beside him at the café, questioning and probing his plans.
 [rel:yamamura-miki] (p.113) Asks why he is keeping Yamamura at a distance.
 
-### y3v1 Ch.6 — depth read: the eraser-crumb culprit
+### y3v1 p.146–162 — Ch.6 — depth read: the eraser-crumb culprit
 [scene] (p.161) Confronted by Ayanokōji after rubbing an eraser on her desk and throwing the crumbs at his head.
 [says] (p.161) "Well, what could it be?"
 [says] (p.161) "I don't know."
@@ -55,7 +55,7 @@ char_id: morishita-ai · class: Class 2-A · status: unknown
 [trait] (p.161–162) Eccentric and theatrical — casts herself as a "weak maiden" and Jeanne d'Arc fighting evil to justify teasing Ayanokōji.
 [rel:ayanokouji-kiyotaka] (p.161) Teases him with eraser crumbs; called out, she reframes it as heroic.
 
-### y3v1 Epilogue — depth read: Morishita spies on Horikita
+### y3v1 p.225–287 — Epilogue — depth read: Morishita spies on Horikita
 [scene] (p.237) Drags Hashimoto to the student council room to check on Horikita; Shiraishi tags along uninvited.
 [says] (p.237) "I'll get straight to the point. Please go out with me."
 [says] (p.238) "I want to check on Horikita Suzune's condition."
@@ -66,6 +66,41 @@ char_id: morishita-ai · class: Class 2-A · status: unknown
 [rel:hashimoto-masayoshi] (p.237–240) Drags him along, calling him a traitor; banters with him.
 [rel:shiraishi-asuka] (p.238–241) Allows her to tag along; warns her about Ayanokōji.
 [rel:horikita-suzune] (p.238) Goes to check on her after the defeat.
+
+### y3v1 p.41–68 — Morishita seats, needles and vets Ayanokōji
+[says] (p.42) "First, Ayanokouji Kiyotaka is like a transfer student, meaning he is new to the class and unfamiliar with it."
+[says] (p.42) "Moreover, since he's an unexpected foreign element from an opposing class, who was an enemy until recently, proper surveillance is necessary."
+[says] (p.43) "It'll be a pleasure going forward, Ayanokouji Kiyotaka."
+[says] (p.43) "Wondering if you can make a hundred friends?"
+[says] (p.47) "Ayanokouji Kiyotaka, you're spectacularly unpopular. It's like you're leftover merchandise."
+[says] (p.48) "I refuse." — to the welcome party
+[says] (p.58) "Are you serious? I mean, the arrangement is easy to understand, but what I want to point out is that there's no point in an alliance where victories are conceded."
+[says] (p.62) "A tightly bound contract can sometimes be a fatal blow."
+[says] (p.67) "Can you unconditionally entrust an unknown student to create a strategy for the special exam?"
+[trait] (p.41–68) Eccentric and sharp — arranges his seating under the pretext of surveillance, delivers odd onigiri/make-100-friends jokes, bluntly calls him unpopular, refuses the party, then sharply vets the alliance (conceding victories wastes opportunities) and points out Hashimoto would oppose the plan if he weren't invested.
+[rel:ayanokouji-kiyotaka] (p.41–68) Seats him, needles him, follows him to vet the alliance; one of the few who was informed in advance.
+[rel:hashimoto-masayoshi] (p.67) Points out that if Hashimoto hadn't brought Ayanokōji in, he'd be the prime candidate for opposing him.
+[rel:ichinose-honami] (p.54) Doubts the "good-natured" Class D leader; attends to verify whether collaborating makes sense.
+
+### y3v1 p.146–162 — Morishita's eraser-crumb prank and "Jeanne d'Arc" defense
+[says] (p.156) "Looking behind you during class, even during the self-study period, is something only a naughty, naughty student would do."
+[says] (p.157) "Staring at my face from such a close distance, what a pervert."
+[says] (p.161) "Bullying? What a laughable accusation."
+[says] (p.161) "Would you call it bullying if a kitten messes with a lion?"
+[says] (p.161) "What I'm doing, if I must say, is similar to Jeanne d'Arc."
+[says] (p.162) "As long as evil exists in this world, it's my duty to keep fighting."
+[trait] (p.146–162) Playful and eccentric — rubs an eraser on the desk and flicks the crumbs at Ayanokōji's head during class, plays ignorant when caught, and absurdly frames herself as Jeanne d'Arc fighting evil (the physically superior Ayanokōji as the "lion").
+[rel:ayanokouji-kiyotaka] (p.156–162) Pranks him with eraser crumbs; caught red-handed.
+[rel:shiraishi-asuka] (p.161–162) Shiraishi helps catch her and finds the exchange cute.
+
+### y3v1 p.261–262 — "Gatling Gun": the eraser-shaving battlefield
+[narrates] (p.261) "THIS WOULD BE a life-or-death battle. I firmly resolved myself for this."
+[narrates] (p.261) "Fire—!"
+[narrates] (p.261) "Looking behind you during class, even during the self-study period, is something only a naughty, naughty student would do. Please face forward and focus on what you have to do."
+[narrates] (p.262) "Staring at my face from such a close distance, what a pervert."
+[narrates] (p.262) "Not at all? I'm seriously engaged in the class."
+[trait] (p.261–262) Frames flicking eraser shavings at Ayanokōji's head as a "Gatling gun" assault by a commander against an "evil titan"; fires a single "bullet" then a rapid volley, and when caught diverts attention with the "pervert" line — all in playful, melodramatic combat language.
+[rel:ayanokouji-kiyotaka] (p.261–262) Her "target," the "evil titan"; notes a second enemy (Shiraishi) is also present.
 ## y3v2
 
 <!-- walk: y3v2 → start -->

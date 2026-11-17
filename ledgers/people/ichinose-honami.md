@@ -1485,7 +1485,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
-### y3v1 Ch.3 — depth read: Ichinose's trust in the alliance
+### y3v1 p.40–74 — Ch.3 — depth read: Ichinose's trust in the alliance
 [scene] (p.55) Discusses the proposed Class C–D alliance with Ayanokōji, Hashimoto and Morishita at the café.
 [says] (p.60) "Of course, if the time comes, the alliance will be dissolved."
 [says] (p.60) "It's exactly because we're in a situation where there's truly no next time that I want to maintain the cooperative relationship with Ayanokouji-kun until the last possible moment."
@@ -1499,7 +1499,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:ayanokouji-kiyotaka] (p.55–65) Agrees to the alliance, trusting him without a contract; her confidence impresses even Hashimoto.
 [rel:hashimoto-masayoshi] (p.59–64) Withstands his probing about betrayal and equal footing.
 
-### y3v1 Ch.4 — depth read: Ichinose counters Amasawa's probing
+### y3v1 p.75–97 — Ch.4 — depth read: Ichinose counters Amasawa's probing
 [scene] (p.90) At Keyaki Mall after the gym, is approached by Amasawa, who probes about Ayanokōji.
 [says] (p.90) "Yeah, just for about an hour though."
 [says] (p.91) "Me? I'm not in that kind of relationship with Ayanokouji-kun."
@@ -1514,7 +1514,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:ayanokouji-kiyotaka] (p.90–96) Defends their bond; had only heard the term "White Room" during the second-year island exam, and Ayanokōji has told her nothing of the truth.
 [note] (p.96) Ichinose deduces Amasawa likely came from the White Room from her reaction.
 
-### y3v1 Ch.7 — depth read: Ichinose's honesty and new resolve
+### y3v1 p.163–202 — Ch.7 — depth read: Ichinose's honesty and new resolve
 [scene] (p.164) Approaches Karuizawa on the school path; notes she left the dorm unusually early.
 [says] (p.164) "Do you know… how early I usually leave by?"
 [says] (p.165) "Recently, Ayanokouji-kun has been sitting on that bench like that."
@@ -1529,6 +1529,66 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:karuizawa-kei] (p.164–173) Answers her questions truthfully but ultimately refuses to help her.
 [rel:shiranami-chihiro] (p.187) Exchanges high-fives with her over Class D's win.
 [note] (p.187) Texts Ayanokōji praising his perfect score; he replies crediting her courage in trusting his advice.
+
+### y3v1 p.37 — Ichinose watches the confrontation with keen interest
+[says] (p.37) "I didn't know she was such a reliable person. I still have much to learn about the students here. From now on, I'll have to pay close attention to Matsushita-san."
+[trait] (p.37) Resting her chin on her hands and smiling, she absorbs the exchange — surprises Horikita by already recognizing Matsushita's reliability and resolves to watch her closely.
+[rel:matsushita-chiaki] (p.37) Impressed by her; decides to pay close attention to her.
+[rel:ayanokouji-kiyotaka] (p.34–37) Present at the café with him; listens keenly to the confrontation.
+
+### y3v1 p.55–64 — Ichinose at the café: the alliance explained and defended
+[says] (p.55) "Sorry to keep you waiting, Ayanokouji-kun."
+[says] (p.56) "I found out a little while ago."
+[says] (p.58) "So, anticipating that, we've already made detailed arrangements."
+[says] (p.60) "Of course, if the time comes, the alliance will be dissolved."
+[says] (p.60) "There's no contract. We've just exchanged promises verbally."
+[says] (p.60) "No, that's enough for me. Just like Ayanokouji-kun trusts me, I trust him too."
+[says] (p.63) "Having fallen into Class D, our backs are against the wall."
+[says] (p.63) "Sorry, Hashimoto, but the alliance I want to reap benefits from is based on equality, not subordination."
+[says] (p.64) "Because it's Ayanokouji-kun's proposal."
+[trait] (p.55–64) Calm, trustworthy and grown — explains the concession arrangement, insists on a verbal promise over a contract, refuses to pressure Hashimoto for a "return," and puts her faith squarely in Ayanokōji because the proposal is his.
+[rel:ayanokouji-kiyotaka] (p.55–64) Complete alliance with him; trusts him unconditionally and defends him against Hashimoto's probing.
+[rel:hashimoto-masayoshi] (p.58–64) Answered his skeptical questions; Hashimoto called her a "burden" and demanded a return for the alliance.
+
+### y3v1 p.90–96 — Ichinose's gym meeting with Amasawa; deflecting the probe
+[scene] (p.90) Descends to the first floor after the gym; is called out by Amasawa Ichika (Class 2-A).
+[says] (p.90) "Yeah, just for about an hour though."
+[says] (p.90) "Really? If you're interested, why not try it out or come for a visit?"
+[says] (p.91) "Me? I'm not in that kind of relationship with Ayanokouji-kun."
+[says] (p.91) "It's true, so don't worry."
+[says] (p.93) "It was you who asked me not to lie, Amasawa-san."
+[says] (p.93) "Ayanokouji-kun and I are bound by a strong bond. That's all there is to it."
+[says] (p.94) "That's why you shouldn't eat too much."
+[says] (p.94) "There are no more secrets between me and Ayanokouji-kun."
+[says] (p.95) "Like matters, for example, about the White Room."
+[says] (p.96) "I can't tell you that. It might be the same as you, or even more."
+[inference] (p.95–96) Bluffs that Ayanokōji told her about the "White Room" — a term she only overheard during the second-year island exam — to probe whether Amasawa is connected to it; confirms Amasawa likely originated there when she stiffens at the word.
+[trait] (p.90–96) Calm and strategically canny beneath the mature smile — refuses to be rattled by increasingly venomous questions, turns Amasawa's "don't lie" against her, and learns something new about Ayanokōji through the exchange.
+[rel:amasawa-ichika] (p.90–96) Is probed by her about her relationship with Ayanokōji; counters by bluffing knowledge of the White Room.
+[rel:ayanokouji-kiyotaka] (p.90–96) Defends their "strong bond" and denies dating; uses a White Room bluff to gauge Amasawa.
+
+### y3v1 p.164–173 — Ichinose's confrontation with Karuizawa; a new resolve
+[scene] (p.164) Encounters Karuizawa on the way to school; reveals she knows her routine (7:50 AM) and that Ayanokōji waits on the bench to meet her.
+[says] (p.165) "Popular? I'm just greeting my friends, like I did with you."
+[says] (p.166) "Me? No way. There's no way Ayanokouji-kun would date me."
+[says] (p.166) "It's really true. Ayanokouji-kun and I are not in that kind of relationship."
+[says] (p.170) "Perhaps he's different from your average person. Is that what you wanted to say?"
+[says] (p.171) "You know, don't you, Karuizawa-san? That I like Ayanokouji-kun."
+[says] (p.172) "I guess I'm more about giving than receiving."
+[says] (p.172) "Sorry, I take back what I said earlier. Maybe I can't help you."
+[says] (p.173) "He's waiting to meet with me at this time."
+[trait] (p.164–173) Kind but newly decisive — admits she likes Ayanokōji, feels a "flicker of malice" toward Karuizawa, and adopts a new value system of saving the fifty within reach rather than aiming for a hundred; refuses to help her romantic rival and assures her nothing happened before the breakup.
+[rel:ayanokouji-kiyotaka] (p.164–173) Openly admits she likes him; walking to school together and meeting at the bench; "a strong bond."
+[rel:karuizawa-kei] (p.164–173) Reads her jealousy, refuses to help, and calmly asserts her own position.
+
+### y3v1 p.184–188 — Class D's victory; message to Ayanokōji
+[says] (p.187) "Congratulations, everyone. We definitely had to defeat Class A, and we did it splendidly!"
+[trivia] (p.184–186) Hoshinomiya's joy gives away Class D's win before the results; Class D beat Class A (full-class 2712 vs 2633) with well-placed penalty points (including on Hirata and Kushida, ~1.25M PP split 40 ways); Ayanokōji scored a perfect 100 despite receiving all 100 penalty points in his loss.
+[says] (p.187) "Getting a perfect score sure is amazing."
+[says] (p.188) "It's thanks to your courage in choosing to trust in my advice that you won."
+[note] (p.187) The p.187 line is a phone message to Ayanokōji (praising his perfect score, noting wasted penalty points, thanking him, and mentioning Kōenji's showing up and Horikita's non-participation); the p.188 line is his reply.
+[trait] (p.184–188) Overjoyed at defeating Class A, humbled by Ayanokōji's reply, and quietly credited by onlookers (Kobashi/Iizuka) with having won over the mysterious boy.
+[rel:ayanokouji-kiyotaka] (p.187–188) Messages him, praising his perfect score and thanking him; he credits her courage in trusting his advice.
 ## y3v2
 
 <!-- walk: y3v2 → start -->

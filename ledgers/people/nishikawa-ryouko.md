@@ -22,7 +22,7 @@ char_id: nishikawa-ryouko · class: Class 1-A · status: minor
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
-### y3v1 Ch.6 — depth read: Nishikawa's teasing and bait
+### y3v1 p.146–162 — Ch.6 — depth read: Nishikawa's teasing and bait
 [scene] (p.148) Arrives at the dorm in place of Shiraishi, revealing she is Shiraishi's friend.
 [says] (p.148) "Good morning, Yoshi, Ayanokouji-kun!"
 [says] (p.148) "Of course. You didn't think you could have a date just with Asuka, did you, Ayanokouji-kun?"
@@ -33,6 +33,18 @@ char_id: nishikawa-ryouko · class: Class 1-A · status: minor
 [rel:ayanokouji-kiyotaka] (p.148–151) Tries to tempt him with a rumor about Shiraishi; becomes hostile after his refusal.
 [rel:shiraishi-asuka] (p.148) Is her best friend and warns others off her.
 [rel:yoshida-kenta] (p.148–152) Teases him relentlessly about liking Shiraishi.
+
+### y3v1 p.148–152 — Nishikawa's warnings and teasing at the outing
+[says] (p.148) "Good morning, Yoshi, Ayanokouji-kun!"
+[says] (p.148) "You don't have to look so unwelcoming~"
+[says] (p.148) "Asuka is the one person you shouldn't be going after."
+[says] (p.148) "Asuka's experience level isn't like that of your ordinary student, you know?"
+[says] (p.149) "The 'Hundred-Man Slayer' nickname means she's been in that kind of relationship with a hundred guys."
+[says] (p.151) "It's because Asuka thinks it'd be okay to make you the 101st, Ayanokouji-kun."
+[trait] (p.148–152) Cheerful, teasing and sharp — warns both boys off Shiraishi, enjoys needling Yoshida, and tests Ayanokōji with the "101st" bait; turns hostile when he refuses, and orchestrates the karaoke seating to trap Yoshida into singing.
+[rel:shiraishi-asuka] (p.148) Her best friend; protective of her reputation.
+[rel:yoshida-kenta] (p.148–152) Teases him mercilessly about Shiraishi and forces him to sing.
+[rel:ayanokouji-kiyotaka] (p.148–151) Tests him about Shiraishi; reconsiders her impression of him after his refusal.
 ## y3v2
 
 <!-- walk: y3v2 → start -->

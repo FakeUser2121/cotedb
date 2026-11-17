@@ -81,7 +81,7 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
-### y3v1 Ch.4 — depth read: Amasawa's venomous probing
+### y3v1 p.75–97 — Ch.4 — depth read: Amasawa's venomous probing
 [scene] (p.90) Approaches Ichinose at Keyaki Mall, professing fondness for Ayanokōji and probing for a reaction.
 [says] (p.90) "Did you go to the gym today?"
 [says] (p.91) "It does matter. I like Ayanokouji-senpai a lot."
@@ -95,6 +95,22 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 [rel:ayanokouji-kiyotaka] (p.90–97) Obsessed with him — the reason she stays at the school; wants to make him happy and warns Ichinose off.
 [rel:ichinose-honami] (p.90–96) Probes and tries to provoke her, but ends up flustered and revising her opinion of her.
 [note] (p.94–96) She does not actually know whether Ichinose and Ayanokōji are physical; her goal was to see Ichinose's agitation.
+
+### y3v1 p.90–97 — Amasawa probes Ichinose about Ayanokōji
+[scene] (p.90) Calls out to Ichinose in Keyaki Mall, smiling innocently; brings up the gym and Ayanokōji.
+[says] (p.90) "Did you go to the gym today?"
+[says] (p.90) "But I tend to spend a lot of money, so the monthly expense is kind of painful."
+[says] (p.90) "It does matter. I like Ayanokouji-senpai a lot."
+[says] (p.91) "Oh, I mean I like him as a senpai, not that there are any romantic feelings~"
+[says] (p.91) "Actually, I really do love him in that way."
+[says] (p.92) "I'm pretty sharp, you know."
+[says] (p.92) "After all… you've slept with Ayanokouji-senpai, right?"
+[says] (p.94) "You're saying you're that special cake, but you're dangerously full of yourself."
+[says] (p.95) "Hold on. Did Ayanokouji-senpai really talk to you about the White Room, Ichinose-senpai?"
+[says] (p.96) "…Shoot. I'm the one getting carried away here."
+[trait] (p.90–97) Playful but venomous — feigns innocence then turns hostile, probing Ichinose with a "bomb" question about sleeping with Ayanokōji to see her agitation; is outmaneuvered when Ichinose mentions the White Room, stiffens, then realizes she was the one countered.
+[rel:ichinose-honami] (p.90–96) Probes her about her relationship with Ayanokōji; ends up respecting her more.
+[rel:ayanokouji-kiyotaka] (p.90–97) Claims to love him "in that way"; the reason she remains at the school is to make Ayanokōji happy.
 ## y3v2
 
 <!-- walk: y3v2 → start -->

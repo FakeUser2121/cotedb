@@ -513,6 +513,18 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
+### y3v1 p.267–270 — "A Pillar of Support": watching Sakura on TV
+[scene] (p.267) Sits before her computer at 1 a.m. Thursday, waiting for the online show "Idol in the Making" to broadcast, thinking about Ayanokōji's transfer.
+[narrates] (p.267) "…My fault?"
+[narrates] (p.267) "How arrogant of me, right?"
+[narrates] (p.268) "Is it okay if I talk a little?"
+[narrates] (p.268) "Yeah, that's right. He transferred."
+[narrates] (p.269) "Keep going…"
+[narrates] (p.270) "I'll also work hard for one more year… so you won't laugh at me when we finally meet on the outside, okay?"
+[narrates] (p.270) "Keep going, Airi."
+[trait] (p.267–270) Guilt-ridden over having resented Ayanokōji for Sakura's expulsion, she resolves to keep cheering her friend on from afar — realizing Sakura has "started walking forward" while she was left behind, and vowing to work hard for one more year so they can meet again outside the school.
+[rel:sakura-airi] (p.267–270) Sakura, now idol #9 on the show; she watches her confess a crush from her first year and keeps cheering her on.
+[rel:ayanokouji-kiyotaka] (p.267–269) Blames herself for his transfer, then concludes he must have had reasons beyond her understanding.
 ## y3v2
 
 <!-- walk: y3v2 → start -->

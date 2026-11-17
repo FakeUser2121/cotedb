@@ -483,7 +483,7 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
-### y3v1 Ch.2 — depth read: guarding the "leader candidate"
+### y3v1 p.29–39 — Ch.2 — depth read: guarding the "leader candidate"
 [scene] (p.34) At the café with Ayanokōji, Morishita and Ichinose; notices Horikita and Matsushita approaching.
 [says] (p.34) "Hey, Horikita. We're in the middle of a strategy meeting right now, but do you need something?"
 [says] (p.35) "If you want to talk to our leader candidate, you'll have to go through me first."
@@ -494,7 +494,7 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [rel:ayanokouji-kiyotaka] (p.34–38) Acts as his gatekeeper in Class C; seeks his agreement on calling him a leader candidate.
 [rel:horikita-suzune] (p.34–38) Treats her as an unwanted guest and turns her away.
 
-### y3v1 Ch.5 — depth read: Hashimoto pushes Ayanokōji to lead
+### y3v1 p.98–145 — Ch.5 — depth read: Hashimoto pushes Ayanokōji to lead
 [scene] (p.108) In Class C after homeroom, proposes leaving the exam entirely to Ayanokōji.
 [says] (p.108) "Alright. So, we're all good with leaving this special exam up to Ayanokouji, right?"
 [says] (p.108) "Lose? Don't be stupid, there's no way we'll lose. Right, Ayanokouji?"
@@ -504,7 +504,7 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [rel:ayanokouji-kiyotaka] (p.108–117) Secures the class's agreement to let him lead; strategizes with him at the café.
 [rel:shimazaki-ikkei] (p.109–110) Argues with him over whether to entrust the exam to Ayanokōji.
 
-### y3v1 Ch.7 — depth read: Hashimoto caught in the middle
+### y3v1 p.163–202 — Ch.7 — depth read: Hashimoto caught in the middle
 [says] (p.189) "Calm down, Shimazaki. We won the exam, so it's all the same in the end."
 [says] (p.190) "We're busy here, you know? Geez, I only have one body."
 [says] (p.191) "Give me a break, Ryuuen. I'm busy today."
@@ -514,7 +514,7 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [rel:shimazaki-ikkei] (p.189–192) Tries to calm him and keep the dispute private.
 [rel:ryuuen-kakeru] (p.190–191) Is shoved aside by him.
 
-### y3v1 Epilogue — depth read: Hashimoto's read on Ayanokōji
+### y3v1 p.225–287 — Epilogue — depth read: Hashimoto's read on Ayanokōji
 [says] (p.237) "Hey, that hurts, Morishita. Don't call me out so violently—"
 [says] (p.240) "He's not a robot. You're thinking too much. He does have emotions, even if there isn't much."
 [says] (p.240) "That's good then. But I recommend not getting too involved."
@@ -523,6 +523,26 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [rel:morishita-chiaki] (p.237–240) Is dragged along by her; defends Ayanokōji against her accusations.
 [rel:ayanokouji-kiyotaka] (p.239–240) Defends him as having emotions, if few.
 [rel:nanase-tsubasa] (p.246–247) Overhears her suspicious phone call with "Tsukishiro."
+
+### y3v1 p.34–35 — Hashimoto the gatekeeper
+[says] (p.34) "Hey, Horikita. We're in the middle of a strategy meeting right now, but do you need something?"
+[says] (p.35) "If you want to talk to our leader candidate, you'll have to go through me first."
+[says] (p.35) "It's not sudden. I've been waiting for this moment all along. Right, Ayanokouji?"
+[says] (p.35) "I see, as the class leader, huh? Well, it's certainly natural since a classmate suddenly left, but that makes it all the more reason why I can't let you check. It's convenient for us if you guys are troubled."
+[says] (p.35) "Don't glare at me like that. By the way, why's Matsushita here at this crucial moment?"
+[trait] (p.34–35) Sly and opportunistic — blocks Horikita from reaching Ayanokōji, calls him the "leader candidate," openly enjoys Class A's trouble, and pokes into why Matsushita came.
+[rel:ayanokouji-kiyotaka] (p.35) Supports him as Class C's leader candidate.
+[rel:horikita-suzune] (p.34–35) Acts as gatekeeper, denying her access.
+
+### y3v1 p.45–53 — The welcome party and the money talk
+[says] (p.45) "Kay. So, how about we all throw a welcome party for Ayanokouji at Keyaki Mall and make it flashy?"
+[says] (p.49) "Man, your boldness is something else… I never imagined you'd plan to transfer to our class. And to think you used my money for it."
+[says] (p.50) "In these past two years, I've crossed many dangerous bridges on my own."
+[says] (p.51) "It's fine to trust you on that, right, Ayanokouji? That from here on, you'll seriously aim for Class A."
+[says] (p.52) "Hey, stop with the bad jokes, Ayanokouji. I'm all in on you, literally penniless."
+[trait] (p.45–53) The transfer's biggest investor — proposes the welcome party, repeatedly complains about the 20 million but accepted the risk, insisting he's fully committed and "penniless"; calls Ayanokōji's betrayal joke unfunny.
+[rel:ayanokouji-kiyotaka] (p.45–53) Invested the transfer money; committed to him despite the cost.
+[rel:yoshida-kenta] (p.46) His welcome-party proposal is refused by Yoshida and others.
 ## y3v2
 
 <!-- walk: y3v2 → start -->

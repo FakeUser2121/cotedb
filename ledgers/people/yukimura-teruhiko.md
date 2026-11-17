@@ -875,11 +875,16 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
-### y3v1 Ch.3 — depth read: Keisei presses for hidden circumstances
+### y3v1 p.40–74 — Ch.3 — depth read: Keisei presses for hidden circumstances
 [scene] (p.69) Joins the group confronting Ayanokōji behind the dorm.
 [says] (p.72) "I also thought so at first too. That's why I was concerned that there might've been something behind the transfer. You really aren't willing to tell us the full story?"
 [trait] (p.71–72) Earlier backed Akito's plea that Ayanokōji saved him; skeptical of the self-serving explanation and adjusts his glasses in disbelief.
 [rel:ayanokouji-kiyotaka] (p.70–72) Says Ayanokōji saved him from leaving school; questions whether hidden circumstances lie behind the transfer.
+
+### y3v1 p.107 — Yukimura's advice on the small-group battles
+[says] (p.107) "I think it's better not to rely solely on the OAA evaluations for the small-group battles."
+[says] (p.107) "A student who's extremely weak in one subject but strong in others can still score high."
+[trait] (p.107) Suggests leveraging detailed, class-only knowledge of who is strong in which subjects — noting OAA is only an average across all subjects.
 ## y3v2
 
 <!-- walk: y3v2 → start -->

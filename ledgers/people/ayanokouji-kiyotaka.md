@@ -5512,7 +5512,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
-### y3v1 Ch.2 — depth read: refusing to explain
+### y3v1 p.29–39 — Ch.2 — depth read: refusing to explain
 [scene] (p.34) Is at the Keyaki Mall café with Hashimoto, Morishita and Ichinose when Horikita and Matsushita arrive.
 [says] (p.35) "I won't deny it. With Sakayanagi around, that chance was nonexistent anyway." — on becoming a leader candidate
 [says] (p.36) "What Matsushita just mentioned about being an accompaniment must be a pretext."
@@ -5525,7 +5525,7 @@ walk: y1v1 → DONE
 [rel:matsushita-chiaki] (p.36–37) Publicly reveals their behind-the-scenes cooperation, shaking her composure.
 [note] (p.37) States that Hashimoto, Morishita and Ichinose were not surprised by his transfer — implying he told them in advance.
 
-### y3v1 Ch.3 — depth read (half 1): entering Class C
+### y3v1 p.40–74 — Ch.3 — depth read (half 1): entering Class C
 [scene] (p.40) Flashback: after the opening ceremony, submits his transfer notice and introduces himself to Class 3-C.
 [says] (p.40) "The opening ceremony just ended, but I, Ayanokouji Kiyotaka, have transferred to this class using twenty million Private Points. I can't replace Sakayanagi, who voluntarily withdrew, but if there's still a will to fight among everyone here, I'm confident that I can help overcome the class's greatly deteriorated situation."
 [says:hashimoto-masayoshi] (p.41) "Glad to have ya, Ayanokouji."
@@ -5534,7 +5534,7 @@ walk: y1v1 → DONE
 [rel:hashimoto-masayoshi] (p.41) Hashimoto, the biggest investor in his transfer, publicly welcomes him.
 [rel:morishita-ai] (p.41–44) Is seated in front of her at her proposal; she questions his pop-culture ignorance.
 
-### y3v1 Ch.3 — depth read (half 2): the confrontation behind the dorm
+### y3v1 p.40–74 — Ch.3 — depth read (half 2): the confrontation behind the dorm
 [says] (p.69) "Yeah. Sorry." — to Sudō, confirming the transfer was his own free will
 [says] (p.71) "Worry and confusion, huh? Well, that's right. I transferred classes without telling anyone to get that reaction."
 [says] (p.72) "Just take it at face value. I didn't say anything because I wanted to trouble the class. And my reason that you wanted to hear is simple. Class C was in trouble without Sakayanagi. So, I chose to help by transferring in exchange for Private Points."
@@ -5547,7 +5547,7 @@ walk: y1v1 → DONE
 [rel:miyake-akito] (p.70–74) Akito relays Hasebe's guilt and says they remain friends.
 [note] (p.66) Hashimoto notes Ayanokōji deliberately timed the transfer just after the ceremony to maximise the shock to Class A.
 
-### y3v1 Ch.4 — depth read: observing Class C and the Shiraishi talk
+### y3v1 p.75–97 — Ch.4 — depth read: observing Class C and the Shiraishi talk
 [scene] (p.75) Arrives at Class 3-C thirty minutes early to observe the students directly, not just through OAA; finds Shiraishi already there.
 [says] (p.79) "I didn't expect someone to be here already. You're rather early."
 [says] (p.79) "Since I've switched classes, it's like I'm a transfer student from a different school. Rather than being welcomed, I thought it'd be better to be the one doing the welcoming."
@@ -5560,7 +5560,7 @@ walk: y1v1 → DONE
 [rel:yoshida-kenta] (p.82–83) Yoshida offers to help him fit in after Shiraishi's needling.
 [note] (p.76) Shiraishi's OAA: Academics B+ (76), Physical D (34), Adaptability C+ (57), Social Contribution C– (44), Overall C (54).
 
-### y3v1 Ch.5 — depth read: taking charge and planning
+### y3v1 p.98–145 — Ch.5 — depth read: taking charge and planning
 [scene] (p.108) In Class C, is asked to take charge of the special exam; plays down his chances deliberately to sound safe.
 [says] (p.108) "I can't guarantee our victory or defeat, but if you entrust me with it, I intend to give it my all."
 [says] (p.111) "Whether it's the dorm, karaoke, or behind the school building, I'll join you." — proposing a meeting place
@@ -5573,7 +5573,7 @@ walk: y1v1 → DONE
 [rel:ryuuen-kakeru] (p.123–124) Is told Ryūen welcomes the chance to defeat him now that he leads Class C directly.
 [rel:morishita-ai] (p.111–117) Strategizes with her; she questions his plans and Yamamura's involvement.
 
-### y3v1 Ch.6 — depth read: new friendships and the eraser prank
+### y3v1 p.146–162 — Ch.6 — depth read: new friendships and the eraser prank
 [says] (p.146) "So are you, Yoshida."
 [says] (p.146) "Do you like Shiraishi?"
 [says] (p.147) "Unfortunately, I don't have those types of feelings for her."
@@ -5586,7 +5586,7 @@ walk: y1v1 → DONE
 [rel:nishikawa-ryouko] (p.148–151) Refuses her whispered offer; earns her hostility.
 [rel:morishita-ai] (p.161) Catches her throwing eraser crumbs at him after Shiraishi tips him off.
 
-### y3v1 Ch.7 — depth read: zero predictions, still acknowledged
+### y3v1 p.163–202 — Ch.7 — depth read: zero predictions, still acknowledged
 [says] (p.190) "Give me a break, Ryuuen. I'm busy today."
 [says] (p.191) "According to Shimazaki, the outcome doesn't matter; what mattered was my precision in selecting the right students to assign the penalty points to in the small-group battles. Unfortunately, I couldn't identify any of the students you nominated."
 [says] (p.192) "Ryuuen, considering that's your take on it, aren't your senses a bit too numb?"
@@ -5597,7 +5597,7 @@ walk: y1v1 → DONE
 [rel:ryuuen-kakeru] (p.189–193) Ryūen barges in and taunts him; he fires back that Ryūen's senses are "numb."
 [rel:ichinose-honami] (p.187–188) Credits her courage in trusting his advice for Class D's win.
 
-### y3v1 Ch.8 — depth read: recruiting an insider
+### y3v1 p.203–224 — Ch.8 — depth read: recruiting an insider
 [says] (p.221) "To close the gap we have with Class A, it would be easier to have an insider from now on."
 [says] (p.221) "That's exactly it. If you deliver results, I'll pay you in private points."
 [says] (p.221) "You're free not to cooperate, but in that case, I can't guarantee I'll keep your secrets."
@@ -5610,7 +5610,7 @@ walk: y1v1 → DONE
 [rel:ichinose-honami] (p.223) Explains how they coordinated to target the right students — her intel plus his advice.
 [rel:horikita-suzune] (p.222) Expects her to recover soon and become an obstacle.
 
-### y3v1 Epilogue — depth read: Tsubaki, Kitou and the White Room memory
+### y3v1 p.225–287 — Epilogue — depth read: Tsubaki, Kitou and the White Room memory
 [says] (p.226) "Tsubaki Sakurako… huh?"
 [says] (p.227) "Recently, I suddenly thought of someone other than my family that I'd like to meet."
 [says] (p.227) "I'm not actually going to meet them. It's just that I suddenly felt nostalgic."
@@ -5621,6 +5621,223 @@ walk: y1v1 → DONE
 [trait] (p.226–228) Remembers a forgotten White Room girl named "Yuki," triggered by Tsubaki and the snow wordplay, but decides not to seek her out.
 [rel:tsubaki-sakurako] (p.225–228) Encounters her and Utomiya; her words trigger a memory of the White Room.
 [rel:kitou-hayato] (p.229–234) Is challenged by him; defeats him in a fight and secures his conditional loyalty.
+
+### y3v1 p.34–38 — Ayanokōji at the café: coldly cutting ties with Class A
+[scene] (p.34) Sits in the Keyaki Mall café with Hashimoto, Morishita and Ichinose, conversing indifferently an hour after the transfer.
+[says] (p.35) "I won't deny it. With Sakayanagi around, that chance was nonexistent anyway."
+[says] (p.36) "What Matsushita just mentioned about being an accompaniment must be a pretext."
+[says] (p.36) "But in reality, she's quite a schemer."
+[says] (p.37) "There have been several instances where you've skillfully arranged things from behind the scenes when I needed help."
+[says] (p.37) "There's no point in exploring the reasons for the transfer. I haven't told anyone about this, not Horikita, not Matsushita—not anyone in the class."
+[says] (p.37) "It's scary when a student leaves the class, huh, Horikita?"
+[trait] (p.34–38) Deliberately cold — refuses to explain, reveals he told no one in Class A, and casually exposes his secret cooperation with Matsushita (including Maezono's expulsion), making it clear he is no longer their ally and shifting the ground to Class C's advantage.
+[rel:horikita-suzune] (p.35–38) Blocks her questions, exposes Matsushita to rattle her, and tells her there's no point exploring the transfer's reasons.
+[rel:matsushita-chiaki] (p.36–37) Reveals their behind-the-scenes cooperation, praising her as "one of the sharpest minds in Horikita's class."
+[rel:hashimoto-masayoshi] (p.35) Lets him act as gatekeeper; chuckles at his "leader candidate" claim.
+[rel:ichinose-honami] (p.37) Present at the café; she listens with keen interest.
+
+### y3v1 p.40–44 — Arriving in Class C; Morishita seats him
+[scene] (p.40) After submitting his transfer notice to the chairman, stands before Class C and introduces himself.
+[says] (p.40) "The opening ceremony just ended, but I, Ayanokouji Kiyotaka, have transferred to this class using twenty million Private Points."
+[says] (p.40) "I can't replace Sakayanagi, who voluntarily withdrew, but if there's still a will to fight among everyone here, I'm confident that I can help overcome the class's greatly deteriorated situation."
+[trivia] (p.41) Hashimoto — the biggest investor in his transfer — applauds first: "Glad to have ya, Ayanokouji"; most others watch with cold, skeptical gazes, which he judges is a sign of the class's quality.
+[trivia] (p.41–42) Morishita proposes he sit in front of her (center-ish, easily surveilled, not the coveted back window seat); Sugio eagerly gives it up.
+[says] (p.43) "About what's to come."
+[trait] (p.40–44) Carefully chooses his words, reflecting on his failed first-year self-introduction; reads the class as high-quality but cautious and easy to navigate.
+[rel:morishita-ai] (p.41–44) She arranges his seat in front of her and peppers him with jokes (making 100 friends, eating onigiri with 100 people) — classic references he doesn't know.
+[rel:hashimoto-masayoshi] (p.41) The transfer's biggest investor; publicly welcomes him.
+
+### y3v1 p.45–48 — The rejected welcome party
+[scene] (p.45) Hashimoto proposes a flashy welcome party at Keyaki Mall; the room goes tense.
+[says] (p.47) "It's natural that they can't welcome me wholeheartedly."
+[says] (p.47) "…Well… maybe."
+[trait] (p.45–48) Sits as a bystander, unable to ask for or refuse the party; notes the awkwardness is about him, and accepts Morishita's blunt observation that he is "spectacularly unpopular."
+[rel:hashimoto-masayoshi] (p.45–48) Tries to throw him a welcome party; Yoshida, Machida and others refuse, saying he must prove his worth first.
+[rel:morishita-ai] (p.47) Tells him he is "leftover merchandise," unpopular, and that if Ichinose or Kushida had transferred they'd be surrounded by smiles.
+
+### y3v1 p.49–54 — The contract with Hashimoto; reason for transferring via Class A money
+[says] (p.49) "It's only a matter of time."
+[says] (p.51) "I told you when we talked about the transfer. I won't guarantee anything when making decisions."
+[says] (p.52) "I'm worried about being betrayed like Sakayanagi."
+[says] (p.53) "For this transfer, Class C's unanimous consent was a must. There were things I couldn't entrust to you and your problematic issues."
+[inference] (p.49–51) He gave Hashimoto a choice: give up his fortune and accept him, or forgo accepting him entirely — knowing Hashimoto's sunk-cost investment and risky position made accepting the only rational choice.
+[trait] (p.49–54) Coldly strategic — keeps Hashimoto slightly tense, withholds strategy, and brought Morishita in because her doubts forced him to share information Hashimoto couldn't be trusted with.
+[rel:hashimoto-masayoshi] (p.49–53) Discusses the transfer, the money, and his risks; Hashimoto insists he's "all in... penniless."
+[rel:morishita-ai] (p.52–54) She followed them, calls him the "embodiment of unpopularity" and attacks on "presence"/"popularity" wordplay; she joins to verify the alliance with Ichinose.
+
+### y3v1 p.55–65 — The café: explaining the alliance; the delayed reveal to Horikita
+[says] (p.56) "It's because for the next year, as Class C aims for Class A, Ichinose and her class's cooperation is essential."
+[says] (p.57) "Indeed, I'm serious. In fact, Ichinose and I have formed a complete alliance."
+[says] (p.61) "Forming an alliance isn't just about yielding to each other and not fighting."
+[says] (p.62) "A tightly bound contract can sometimes be a fatal blow."
+[says] (p.64) "It's more effective when we make it known."
+[says] (p.65) "for them to learn about it once the wound of the transfer has healed a bit. That will hurt them more deeply."
+[inference] (p.58–65) Explains the alliance's logic: doubled information, coordinated Private Points, no binding contract (allowing flexibility), and mutual concession only while the classes are unequal; deliberately delays telling Horikita to maximize the psychological damage.
+[trait] (p.64–65) Ruthless toward Horikita — his true goal is not her downfall but her growth, trusting her classmates will help her recover; uses lip service for Hashimoto's benefit.
+[rel:ichinose-honami] (p.55–65) Reveals their complete alliance; she explains the arrangement of conceding victory to whichever class has fewer points, based on equality and trust, no contract.
+[rel:hashimoto-masayoshi] (p.56–64) Answers his skeptical questions; Hashimoto calls Ichinose a "burden" and probes what return she wants.
+[rel:morishita-ai] (p.58–62) Skeptical of the alliance; argues conceding victories throws away opportunities, and that Hashimoto would oppose the plan if he weren't invested.
+
+### y3v1 p.66–74 — Aftermath and the confrontation with former classmates
+[says] (p.67) "I'm aware of that. Sooner or later, there will be students who voice their opinions against me."
+[says] (p.72) "I didn't say anything because I wanted to trouble the class."
+[says] (p.72) "Class C was in trouble without Sakayanagi. So, I chose to help by transferring in exchange for Private Points."
+[says] (p.74) "Nothing."
+[inference] (p.66–72) Times the transfer for immediately after the opening ceremony to maximize Class A's shock; tells his former friends the transfer was selfish and for Private Points — a contrived half-truth, since he wanted that reaction.
+[trait] (p.69–74) Cold and indifferent to their pleas — gives them no real reason, calls his departure voluntary, and accepts Hirata's respectful withdrawal; notes he and Hirata had been intentionally distancing by first/last name.
+[rel:hirata-yousuke] (p.69–74) He approaches privately; later respectfully accepts that Kiyotaka left on his own free will and departs, having grown to distrust him somewhat.
+[rel:sudou-ken] (p.69–74) He demands to know why; Ayanokōji says there's no meaning in answering; Sudō is left frustrated.
+[rel:ike-kanji] (p.70–72) Blames the Karuizawa breakup; confused why Class C would pay 20 million for him.
+[rel:miyake-akito] (p.70–74) Asks the real reason and notes Hasebe was heartbroken, blaming herself.
+[rel:ishigami-kyou] (p.70–72) Keisei says Ayanokōji saved him (he might not have stayed at the school) and asks for the full story.
+
+### y3v1 p.75–84 — Getting to know Shiraishi; the morning conversation
+[scene] (p.75) Arrives 30+ minutes early to observe Class C; finds Shiraishi already at the desk beside his.
+[trivia] (p.76) Shiraishi's OAA: Academic B+ (76), Physical D (34), Adaptability C+ (57), Social C− (44), Overall C (54); noted beauty mark under her left eye, long blonde hair, headband, calm aura.
+[says] (p.79) "I didn't expect someone to be here already. You're rather early."
+[says] (p.79) "Since I've switched classes, it's like I'm a transfer student from a different school. Rather than being welcomed, I thought it'd be better to be the one doing the welcoming."
+[says] (p.80) "That's only natural."
+[says] (p.80) "It's too late to start now. Couldn't you have opposed and refused my transfer?"
+[trait] (p.75–84) Deliberately mixes truths to probe her, finds it harder to talk than expected (unlike Hirata), and learns she holds him in high regard with high expectations; accepts her offer to introduce friends.
+[rel:shiraishi-asuka] (p.75–84) His new desk neighbor; has a long morning conversation, learns her views, and accepts her offer to meet her friends.
+[rel:yoshida-kenta] (p.81–83) Yoshida arrives, is needled by Shiraishi into retracting his "acknowledge him" demand and helping Ayanokōji fit in.
+
+### y3v1 p.85–89 — Hōsen's challenge; Chabashira's tailing
+[says] (p.86) "Sorry, but I'm not interested in fighting."
+[says] (p.86) "If that's what you're looking for, you should ask Ryuuen."
+[says] (p.87) "Nanase seems more capable of being a solid leader than you, Housen."
+[says] (p.88) "I thought you might think that way, Chabashira-sensei."
+[says] (p.89) "This transfer is entirely for my own sake."
+[trait] (p.85–89) Declines Hōsen's challenge (a "punching bag" search), notes he delegated class leadership to Nanase, and repeatedly deflects Chabashira's probing about the transfer's true reason; tells her it wasn't because of Hoshinomiya and won't disclose his task.
+[rel:housen-kazuomi] (p.85–87) Second-year Class D; approaches aggressively, calls him "Paisen," wants a fight, and threatens to return for a "sparring partner."
+[rel:chabashira-sae] (p.87–89) His former homeroom teacher has been tailing him in the cold mornings; confronts him, suspects he sacrificed himself over Hoshinomiya — he denies it.
+[rel:nanase-tsubasa] (p.86) Hōsen says he's delegated class matters to her.
+
+### y3v1 p.108–110 — Class C entrusts the exam to Ayanokōji
+[says] (p.108) "I can't guarantee our victory or defeat, but if you entrust me with it, I intend to give it my all."
+[says] (p.109) "If you entrust it to me, I'll do my best."
+[trivia] (p.108–110) Hashimoto pushes to leave the exam to him; Shimazaki objects, wanting class discussion; Sanada proposes a compromise — test him by seeing whether he can predict the opponent's small-group participants and penalty distribution.
+[trait] (p.108–110) Deliberately plays it safe with his words (unlike his confident opening-ceremony speech) to avoid a unanimous delegation, accepting the "test" framing.
+[rel:hashimoto-masayoshi] (p.108–110) Pushes fiercely for Ayanokōji to lead; agitated about being excluded from the transfer talks.
+[rel:shimazaki-ikkei] (p.109) Skeptical; doesn't want to entrust the exam to him.
+[rel:sanada-kousei] (p.109) Proposes judging him by his prediction accuracy.
+
+### y3v1 p.112–121 — The café strategy: penalty points, spies, and withheld info
+[says] (p.113) "I've already given Yamamura a heads-up. It's better for her to keep her distance from me for a while."
+[says] (p.116) "I can't talk about that at this point yet. Saying anything careless here and having them taken at face value would be troublesome."
+[says] (p.119) "I don't know a thing about it."
+[says] (p.119) "There's still time until the exam. All I have to do is come up with a winning strategy by then."
+[says] (p.119) "I have no intention of participating in the small-group battles in this special exam."
+[says] (p.120) "There's an eighty to ninety percent chance Ryuuen will impose multiple penalty points on me."
+[inference] (p.116–121) Identifies Komiya/Yamawaki and two first-years (including Takikura) as Ryūen's surveillance — the first-years' phones placed face-down toward them, never checked; deduces Ryūen has been recruiting first-years within a week.
+[trait] (p.119–121) Withholds real analysis (only shares "safe" information), reasons that Ryūen will target him so he needn't participate, and reads the enemy's spy network sharply.
+[rel:morishita-ai] (p.112–115) Discusses Yamamura (has told her to keep her distance); Morishita joins as a listener and needles him.
+[rel:yamamura-miki] (p.112–113) Has told her to keep her distance so she isn't stressed by the attention around him.
+
+### y3v1 p.122–125 — Ryūen and Ishizaki confront him at the café
+[says] (p.123) "There's no particular reason. Sakayanagi left, and Class C came to help me transfer."
+[says] (p.123) "Does my transferring to Class C cause any inconvenience to you?"
+[says] (p.124) "My class expects results in the upcoming special exam. Please go easy on us."
+[says] (p.124) "I intend to." — on seeing Shiina
+[trait] (p.122–125) Faces Ryūen calmly, gives the same "no reason" line, and privately notes Ryūen welcomed the transfer as a better stage to defeat him; has deliberately avoided the library and decides to see Hiyori after the exam.
+[rel:ryuuen-kakeru] (p.122–124) He comes to the café with Ishizaki and Albert; welcomes the transfer because now Ayanokōji leads Class C directly, and vows to play every card.
+[rel:ishizaki-daichi] (p.122–124) Explodes demanding why he transferred; leaves frustrated, tells him to meet Shiina (who's been down).
+[note] (p.124) Ishizaki's message about Shiina being down is what Ayanokōji uses to decide to visit the library after the exam.
+
+### y3v1 p.146–154 — The Sunday karaoke outing; Nishikawa's warnings
+[scene] (p.146) Meets Yoshida outside the dorm for the outing; Yoshida has been waiting since 9:30 for a 10:30 meeting.
+[says] (p.149) "That rumor's real…?" — Yoshida
+[trivia] (p.148–150) Nishikawa joins in place of Shiraishi initially; warns that Shiraishi is the "Hundred-Man Slayer" (romantically involved with a hundred guys) — advice "for Ayanokouji-kun too."
+[says] (p.150) "I've come to respect her. It's honestly amazing for someone my age to be involved with a hundred people."
+[trait] (p.146–154) Reads Yoshida's infatuation calmly (learning about romance through Karuizawa), probes the class's view of Hashimoto, and refuses Nishikawa's bait to become Shiraishi's 101st — because word could reach Yoshida and hinder his Class C battles.
+[rel:yoshida-kenta] (p.146–150) Confirms he likes Shiraishi; asks about the class and Hashimoto's reputation.
+[rel:nishikawa-ryouko] (p.148–151) She teases him about Shiraishi and makes a suggestive offer he refuses; she ends up reconsidering her impression of him with something like hostility.
+[rel:shiraishi-asuka] (p.152–154) Sits beside her in the karaoke L-seating; she touches his hand, examines his long fingers/nails, and treats him as an interesting experimental subject, like a guinea pig in a small box.
+
+### y3v1 p.156–162 — The eraser-crumb prank; Shiraishi signals the timing
+[scene] (p.156) During self-study, feels an uncomfortable sensation in his hair — Morishita behind him is rubbing an eraser on the desk and throwing crumbs at his head.
+[says] (p.161) "You saved me, Shiraishi. Thanks to you telling me the timing, I caught her red-handed."
+[trivia] (p.157–158) Shiraishi silently signals the timing of the eraser-taps by pointing at the floor and tapping her desk; he grabs Morishita's clenched fist and finds the worn eraser.
+[trait] (p.156–162) Sharp-sensing and composed — uses Shiraishi's silent cues to catch Morishita, declines to call it "bullying," and learns Sugio had given up his seat because of the same trouble.
+[rel:shiraishi-asuka] (p.157–162) She silently signals the prank's timing to help him; he thanks her and calls her "impressive."
+[rel:morishita-ai] (p.156–162) Catches her throwing eraser crumbs; she plays ignorant and justifies it as "Jeanne d'Arc" defeating evil.
+
+### y3v1 p.189–198 — The aftermath: Shimazaki's challenge and Ayanokōji's true plan
+[says] (p.189) "Calm down, Shimazaki. We won the exam, so it's all the same in the end."
+[says] (p.190) "Give me a break, Ryuuen. I'm busy today."
+[says] (p.193) "The key to victory lies in the small-group battles."
+[says] (p.194) "What I really had to see through wasn't your irrational selection after you chose to abandon thinking, but the essence of the opponent—your very aim."
+[says] (p.196) "Ryuuen, did this turn out the way you wanted it to?"
+[says] (p.198) "An alliance brings various benefits."
+[inference] (p.193–197) His true aim wasn't penalty-point accuracy but a demonstrative loss — taking all 100 penalty points and a perfect 100 score to show Class C his ability and that Ryūen feared him; predicted Ryūen would abandon the academic fight and delay his leadership, and deliberately fed that via leaked "tasks" to the first-year spies.
+[trait] (p.189–198) Coldly calculating — enters the small-group battle assuming defeat because he "had to see through" Ryūen's aim, not his lineup; turns the enemy's surveillance into a channel for his own message.
+[rel:ryuuen-kakeru] (p.190–197) Ryūen barges in for a "winner's interview"; Ayanokōji reveals he read his intent and turned it against him; Ryūen leaves, outmaneuvered.
+[rel:shimazaki-ikkei] (p.189–198) Shimazaki confronts him over 0/5 penalty accuracy but ultimately acknowledges him ("welcome to Class C"); they shake hands.
+[rel:hashimoto-masayoshi] (p.189–198) He mediates; Ayanokōji later explains the plan to him and Morishita.
+[rel:ichinose-honami] (p.197) Reveals he had Ichinose quietly gather intel on the first-years (her cross-class trust made her ideal), enabling the alliance's win.
+[rel:morishita-ai] (p.197–198) Explains the plan; she had been skeptical about the first-years being Ryūen's spies.
+
+### y3v1 p.216–220 — After the welcome party; the dusk meeting with Kushida
+[scene] (p.216) Returns from a small Class C welcome party at Keyaki Mall, takes a detour from the dorm route, and meets Kushida — whom he called out — waiting at the railing at dusk.
+[says] (p.216) "Why did you choose this place to meet?"
+[says] (p.216) "That did happen."
+[says] (p.220) "It was something like an accident, but I was really anxious when you threatened me." — Kushida
+[trivia] (p.216) Reflects that for third-years there is no time to rest — it is "already April," and preparation for career choices and the next exam is like stocking emergency supplies before a catastrophe.
+[trait] (p.216–220) Deliberately chose an isolated spot (echoing where Kushida once offered her body to keep him silent); notes her true nature was revealed to Class A but not widely known elsewhere.
+[rel:kushida-kikyou] (p.216–220) Called her out to a secluded dusk meeting; she evades his question about the place, guarded after their first-year transaction.
+
+### y3v1 p.220–223 — Recruiting Kushida as an insider; subtle threats
+[says] (p.221) "I was just wondering how the class is doing. I'm a bit worried."
+[says] (p.221) "To close the gap we have with Class A, it would be easier to have an insider from now on."
+[says] (p.221) "That's exactly it. If you deliver results, I'll pay you in private points."
+[says] (p.221) "You're free not to cooperate, but in that case, I can't guarantee I'll keep your secrets."
+[says] (p.222) "It won't be that easy. Horikita will definitely recover soon."
+[says] (p.222) "Besides, if we need to forcibly expel some people in the future, that would change things."
+[says] (p.222) "Then you'll have to save up enough Private Points to transfer in the remaining year."
+[says] (p.222) "I'm not asking for an immediate answer. You're free to tell Horikita or anyone else about this invitation to betrayal."
+[says] (p.223) "Unfortunately, I want more than just one thing."
+[inference] (p.220–223) Uses her exposed secret as leverage (her nature known to Class A but not other classes; Ryūen's rumors would lack credibility); hints at future expulsions from Class A, giving her an incentive to save transfer money, and lets her record the whole thing to strengthen Class A's unity if she wishes — a calculated, multi-layered gambit.
+[trait] (p.220–223) Calm and manipulative — makes an open offer of betrayal backed by veiled blackmail, refuses to over-explain, and deliberately leaves her room to maneuver; notes she is masking her true intentions as much as he is.
+[rel:kushida-kikyou] (p.220–223) Offers to pay her for Class A intel; implicitly threatens to expose her secret and hints at expelling her classmates.
+[rel:horikita-suzune] (p.222–223) Expects her to recover soon and become a significant obstacle; has no intention of recruiting her while she leads.
+[rel:ichinose-honami] (p.223) Discusses how he advised her class — Yukimura, Hirata and Wan Mei-Yui's roles, and Kōenji as the exploitable opportunity; credits Ichinose's own intel gathering as the reason she could accept his advice.
+[rel:shiina-hiyori] (p.220) Reminisces about a White Room dropout girl he met once before enrolling — a memory he has almost entirely forgotten ("99% of it").
+
+### y3v1 p.225–228 — Meeting Tsubaki and Utomiya; remembering Yuki
+[scene] (p.225) Leaves school after class and runs into Utomiya and Tsubaki on the way to the dorm; they mention the rumor about his transfer.
+[says] (p.226) "It feels like it's been a while since I've seen the two of you together."
+[says] (p.226) "We're not together all the time." — Tsubaki
+[says] (p.226) "Tsubaki Sakurako… huh?"
+[says:tsubaki-sakurako] (p.226) "What is it? It's creepy when you suddenly call me by my full name."
+[says] (p.227) "Recently, I suddenly thought of someone other than my family that I'd like to meet."
+[says] (p.227) "How should I put this? If I had to put it in familiar terms, they would probably be a childhood friend… I guess."
+[inference] (p.226–228) Tsubaki's name and her training-camp question "do you like snow?" (snow = yuki) trigger a faint memory of a White Room girl named Yuki; the snow camellia (yuki-tsubaki) connection makes him wonder whether it was really coincidence.
+[trait] (p.225–228) Finds himself recalling "unnecessary memories" of the White Room; concludes it would be better not to actually meet Yuki again, since the past and present would likely be unchanged.
+[rel:tsubaki-sakurako] (p.225–228) Meets her and Utomiya; calling her by her full name startles her; she presses him about the person he'd like to meet.
+[rel:utomiya-riku] (p.225–227) He greets him reluctantly; Utomiya sharply interjects when Tsubaki's conversation turns personal.
+[rel:yuki] (p.227–228) Remembered as a White Room classmate — the only girl he studied with there.
+
+### y3v1 p.229–234 — Kitou's challenge: a show of strength behind the dorm
+[scene] (p.229) Meets Kitou Hayato, who called him to a spot near the garbage disposal area behind the dorm; Kitou refuses to recognize him as leader.
+[says] (p.229) "Good, you didn't run away." — Kitou
+[says] (p.229) "I don't recognize you as a leader." — Kitou
+[says] (p.229) "You can't bring yourself to recognize anyone other than Sakayanagi, can you?"
+[says] (p.229) "As long as I'm not the person leading the class, someone needs to step forward." — Kitou
+[says] (p.230) "You're the same as Sakayanagi. You don't really care about graduating from Class A." — Kitou
+[says] (p.230) "I don't trust you." — Kitou
+[says] (p.231) "Show me that you can suppress my dissatisfaction with your strength." — Kitou
+[says] (p.231) "if you had acted fast enough, you could've prevented Sawada from getting into danger."
+[says] (p.233) "Ugh…!" — Kitou
+[says] (p.234) "You're strong… Is there this much of a difference…?" — Kitou
+[says] (p.234) "I'll look forward to that."
+[trait] (p.229–234) Accepts Kitou's physical challenge on his terms — dodges punches and kicks, lands one left-fist blow to the abdomen and slaps both ears to break his guard; then offers respect and a promise to raise Class C, winning him over.
+[rel:kitou-hayato] (p.229–234) Tests him; refuses to follow until bested, then takes his hand and pledges loyalty.
+[rel:ryuuen-kakeru] (p.231) Compares Kitou's fighting style to Ryūen's — Kitou's upper body more refined, legs less so.
+[rel:sawada] (p.231) Rebukes Kitou for not acting when she was endangered during Ryūen's classroom intrusion.
+[rel:sakayanagi-arisu] (p.229–230) Kitou had followed her believing she had the higher chance of winning.
+
+### y3v1 p.236 — Closing the distance
+[scene] (p.236) Reflects that he must close the distance with each student in the way most suitable to them — a conversation for those who seek it, a show of strength for those who seek it.
 ## y3v2
 
 <!-- walk: y3v2 → start -->

@@ -847,7 +847,7 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
-### y3v1 Ch.8 — depth read: Ibuki's blunt "concern"
+### y3v1 p.203–224 — Ch.8 — depth read: Ibuki's blunt "concern"
 [scene] (p.207) Kicks Horikita in the back from behind on the gravel path outside the dorm.
 [says] (p.207) "You've grown pathetic, Horikita. You can't even dodge a kick like that."
 [says] (p.208) "Your pathetic appearance has always been irritating to me. It pisses me off just looking at you."
@@ -858,6 +858,48 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:ayanokouji-kiyotaka] (p.208) Is irritated that he defeated Ryūen and angry just thinking about him.
 [rel:karuizawa-kei] (p.211, per Karuizawa) Has been coming to Horikita (and previously Karuizawa) for food.
 [note] (p.208) Karuizawa speculates Ibuki's anger and lingering may be a rough form of concern for Horikita.
+
+### y3v1 p.136–143 — Ibuki's disdain and Horikita's cooking
+[says] (p.136) "Why are you asking me? Just do what you want."
+[says] (p.136) "Why not just give up? Losing the opportunity to gain about a hundred class points isn't a big deal, right?"
+[says] (p.137) "I don't care about that story."
+[says] (p.137) "Don't ask me. You shouldn't even try to understand his thoughts."
+[says] (p.138) "I get really annoyed just talking about him. I truly hate him."
+[says] (p.142) "It's annoying."
+[says] (p.142) "Haaaaaaa? She's not my friend."
+[trait] (p.136–143) Combative and blunt — recommends giving up the academic exam, refuses to engage with Ayanokōji (having learned it leads to complications), genuinely hates him, and denies being Horikita's friend despite eating at her room.
+[rel:ayanokouji-kiyotaka] (p.137–138) Refuses to think about him; says she truly hates him.
+[rel:horikita-suzune] (p.142) Has been coming to her room for food but says they aren't friends; notes she hasn't recovered.
+[rel:ishizaki-daichi] (p.136–138) Bickers with him over food and Ayanokōji.
+
+### y3v1 p.207–208 — Ibuki kicks Horikita out of frustration
+[scene] (p.207) Finds Horikita walking alone on the gravel outside the dorm after the exam and kicks her hard in the back without warning.
+[says] (p.207) "You've grown pathetic, Horikita. You can't even dodge a kick like that."
+[says] (p.207) "Your pathetic appearance has always been irritating to me. It pisses me off just looking at you."
+[says] (p.208) "See, that's what I mean. That kind of spineless attitude keeps jumping into my line of sight; it can't be helped. You should be thankful I only kicked you."
+[says] (p.208) "Everyone's always going off about Ayanokouji this, Ayanokouji that. Can't you be glad that the plague is finally gone from your class?"
+[says] (p.208) "I'd jump for joy. Just seeing his face makes me so angry… Ah, just thinking about it makes me angry."
+[says] (p.208) "If you plan to stay this pathetic forever, I'm done with you. Don't ever get involved with me again, in fact, don't even come into my sight."
+[trait] (p.207–208) Combative and foul-tempered — kicks a defenseless Horikita in frustration, insists it had not one percent of malice, vents that Ayanokōji's departure should be celebrated but it was Ryūen who got embarrassed, and storms off.
+[inference] (p.211) She had been lingering by the bench as if waiting for someone — possibly worried about Horikita in her own rough way, though Horikita dismisses the notion.
+[rel:horikita-suzune] (p.207–208) Kicks her, calls her pathetic, and orders her to stay out of her sight; she had helped Ibuki when she was short on cash but was never thanked.
+[rel:ayanokouji-kiyotaka] (p.208) Enraged at the mere thought of him; claims she'd "jump for joy" at his leaving.
+[rel:ryuuen-kakeru] (p.208) Bitter that it was Ryūen, not Ayanokōji, who ended up embarrassed in the exam.
+
+### y3v1 p.257 — "Behind the Scenes, Part 1": resisting the comfort of Horikita's room
+[scene] (p.257) Flops on the floor of Horikita's room, staring at the ceiling, resolving that she should stop coming for the free meals before she grows too close.
+[narrates] (p.257) "If it weren't for the free meals, I wouldn't have come to a place like this…"
+[trait] (p.257) Secretly admits she has come to see Horikita and Kushida's room as a "comfortable space" and that she is getting closer to people she detests; decides to distance herself — until the smell of food makes her forget the resolve.
+[rel:horikita-suzune] (p.257) Enjoys her cooking but tells herself she should leave before growing attached.
+[rel:kushida-kikyou] (p.257) Also growing closer to her despite detesting her.
+
+### y3v1 p.265–266 — "Concern?": the impulse behind the kick
+[scene] (p.265) Paces near the school entrance after school, waiting for Horikita, irritated that the free meals have stopped and that Horikita has been dejected since Ayanokōji's transfer.
+[narrates] (p.266) "Come out already. How concerned do you plan to make… no, no, I'm not concerned."
+[trait] (p.265–266) Cannot admit she is worried — pushes the feeling away as odd thinking from not having eaten well; recalls Katsuragi's advice that a person should only be kicked if they would benefit from it, and acts on impulse when Horikita emerges lifeless.
+[rel:horikita-suzune] (p.265–266) Waits over half an hour for her, then delivers the "merciless kick" in Ch.8 — framed here as a rough attempt to snap her out of her depression and get meals again.
+[rel:katsuragi-kouhei] (p.266) Recalls his words about when it is permissible to kick someone.
+[rel:ayanokouji-kiyotaka] (p.265) Secretly pleased at his transfer and at Ryūen's strategy being seen through, but the greater frustration is Horikita's state.
 ## y3v2
 
 <!-- walk: y3v2 → start -->

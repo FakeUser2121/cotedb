@@ -1074,6 +1074,14 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
+### y3v1 p.70–74 — Ike's confusion and theory
+[says] (p.70) "Haha, was it because of Karuizawa after all?"
+[says] (p.70) "Come on. I can't think of any other reason. It must be embarrassing to be dumped."
+[says] (p.71) "I get that it's a pinch without Sakayanagi, but why pay a huge sum of twenty million to poach Ayanokouji?"
+[says] (p.74) "Hey Ken, now that we know Ayanokouji left on his own, let's go back too."
+[trait] (p.70–74) Blunt and confused — clings to the Karuizawa-breakup theory, can't understand why Class C would pay 20 million for Ayanokōji, and ultimately pushes Sudō to leave.
+[rel:ayanokouji-kiyotaka] (p.70–74) Speculates on his motives; gets no answer.
+[rel:sudou-ken] (p.70) Is slapped by him for the breakup joke; later urges him to go back.
 ## y3v2
 
 <!-- walk: y3v2 → start -->
