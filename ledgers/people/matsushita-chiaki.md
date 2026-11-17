@@ -54,3 +54,13 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 [rel:tsukishiro] (p.321–323) Observes his conversation with Ayanokōji from afar.
 
 <!-- walk: y1v11.5 ch5 → p.351 -->
+
+### y1v11.5 pp.374–377 — Short story: Mind Games
+
+[scene] (p.374) In her short story perspective, Matsushita recounts following Ayanokōji and being caught when he confronts her.
+[scene] (p.375) She describes trying to question him about his conversation with Acting Director Tsukishiro and about the end-of-year exam.
+[scene] (p.376) Matsushita recalls pressing him on his performance in the mental arithmetic event and his reasons for hiding his ability.
+[rel:ayanokouji-kiyotaka] (p.374–377) Recounts confronting him about his abilities.
+[rel:tsukishiro] (p.375) Mentions observing his conversation with Ayanokōji.
+
+<!-- walk: y1v11.5 ch7 → p.423 -->

@@ -1775,3 +1775,5 @@ hash: `6bea783884c7cb8573db97157f0b718a`.
 | y1v11.5 Ch.3 (pp.144-236) | 93 | 0 | 868ed83c02b68ae5db926b854d8de3ea |
 | y1v11.5 Ch.4 (pp.237-295) | 59 | 0 | 28e7a1f600026c6322c783cf4b17b2aa |
 | y1v11.5 Ch.5 (pp.296-351) | 56 | 0 | 76339b4b1acd8c2b015aa453bbfbd6ae |
+| y1v11.5 Ch.7 Epilogue (pp.352-423) | 72 | 0 | ccae3b82136b217ee9e22dedb831af88 |
+| y1v11.5 DONE | 423 | 0 | ccae3b82136b217ee9e22dedb831af88 |

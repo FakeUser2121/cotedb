@@ -5158,3 +5158,21 @@ walk: y1v1 → DONE
 [rel:matsushita-chiaki] (p.327, 339–351) Is followed by her and then confronted; deflects her questions.
 
 <!-- walk: y1v11.5 ch5 → p.351 -->
+
+### y1v11.5 pp.352–370, 381–398 — Epilogue: Confession and reflections
+
+[scene] (p.352) Near the end of spring break, Ayanokōji reflects on unresolved issues involving Tsukishiro, Matsushita, Horikita, Ichinose, and the coming year.
+[scene] (p.355) He calls Karuizawa Kei and asks her to come to his room.
+[scene] (p.358) Kei visits his room and they discuss rumors involving Satō and Matsushita about their relationship.
+[scene] (p.365) Ayanokōji stops Kei from leaving and confesses to her, asking her to go out with him.
+[scene] (p.366) After Kei asks for confirmation, Ayanokōji tells her he likes her and hears her answer.
+[scene] (p.368) He embraces Kei in his room.
+[scene] (p.369) Later, Ayanokōji and Kei sit together under cherry blossoms on campus and view them.
+[scene] (p.396) In Ryūen’s recollection, Ayanokōji meets Ryūen at Keyaki mall and responds to his message about the end-of-year exam.
+[scene] (p.397) Ayanokōji tells Ryūen he could have done better and warns about the risks of Ryūen’s methods.
+[scene] (p.401) He avoids Ryūen’s sudden attacks during their confrontation.
+[scene] (p.402) Ayanokōji advises Ryūen to grow and be less careless, then parts from him.
+[rel:karuizawa-kei] (p.355–370, 399–423) Confesses to her, becomes her boyfriend, and views cherry blossoms with her.
+[rel:ryuuen-kakeru] (p.396–404) Meets and clashes with him in Ryūen’s account.
+
+<!-- walk: y1v11.5 ch7 → p.423 -->

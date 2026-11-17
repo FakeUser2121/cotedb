@@ -722,3 +722,16 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:hoshinomiya-chie] (p.47–87) Participates in the meeting with her.
 
 <!-- walk: y1v11.5 ch1 → p.120 -->
+
+### y1v11.5 pp.378–380, 381–386 — Short stories: After exams and Keyaki mall
+
+[scene] (p.378) In her short story perspective, Sakayanagi waits for Mashima after the end-of-term ceremonies and asks to accompany him.
+[scene] (p.379) She tells Mashima she knows about the planned meeting involving Ayanokōji and Chairman Sakayanagi’s message.
+[scene] (p.380) Sakayanagi accompanies Mashima toward the reception room, anticipating developments involving Ayanokōji and Tsukishiro.
+[scene] (p.382) In Ryūen’s recollection, Sakayanagi approaches him at Keyaki mall and comments on his return and change over the past year.
+[scene] (p.384) She exchanges words with Ryūen about their rivalry before he leaves.
+[rel:mashima-tomonari] (p.378–380) Asks to accompany him to the meeting.
+[rel:ayanokouji-kiyotaka] (p.379–380) Anticipates meeting developments involving him.
+[rel:ryuuen-kakeru] (p.382–386) Speaks with him at Keyaki mall in his recollection.
+
+<!-- walk: y1v11.5 ch7 → p.423 -->

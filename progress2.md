@@ -3017,3 +3017,33 @@ suspicions. Ledgers touched: `ledgers/volumes/y1v11.5.md`,
 `ledgers/people/shinohara-satsuki.md`. `verify --vol y1v11.5`: ALL PASS;
 `build`/`gate`/`make check` OK; hash stable
 `76339b4b1acd8c2b015aa453bbfbd6ae`. Next: y1v11.5 ch7 (epilogue) pp.352–423.
+
+### y1v11.5 Ch.7 (Epilogue) — walked, shipped
+
+Epilogue "Youth is About to Bloom" (pp.352–423). Ayanokōji reflects on
+lingering issues, calls Karuizawa Kei to his room, confesses, and they
+become a couple before viewing cherry blossoms. The volume also includes
+short-story perspectives for Shiina Hiyori, Matsushita Chiaki, Sakayanagi
+Arisu (with Mashima), Ryūen Kakeru (with Ishizaki/Ibuki and confrontation
+with Ayanokōji), and Karuizawa Kei. Ledgers touched:
+`ledgers/volumes/y1v11.5.md`, `ledgers/people/ayanokouji-kiyotaka.md`,
+`ledgers/people/karuizawa-kei.md`, `ledgers/people/shiina-hiyori.md`,
+`ledgers/people/matsushita-chiaki.md`,
+`ledgers/people/sakayanagi-arisu.md`,
+`ledgers/people/mashima-tomonari.md`,
+`ledgers/people/ryuuen-kakeru.md`, `ledgers/people/ishizaki-daichi.md`,
+`ledgers/people/ibuki-mio.md`. `verify --vol y1v11.5`: ALL PASS;
+`build`/`gate`/`make check` OK; hash stable
+`bbd2165737d8ce11ead9c66f98cc65aa` (pre-DONE) / final
+`ccae3b82136b217ee9e22dedb831af88`.
+
+### y1v11.5 — volume complete, shipped
+
+Volume coverage gate completed: page-locator name hits for roster
+characters listed for y1v11.5 were cross-checked against pages cited in
+y1v11.5 records with no uncovered hit pages found. Topic membership for
+patterns that could match rows written this volume was spot-checked
+against topic titles and ledes. Added closing stamp
+`<!-- walk: y1v11.5 Epilogue → DONE -->` to `ledgers/volumes/y1v11.5.md`.
+verify/build/gate/check/hash stable `ccae3b82136b217ee9e22dedb831af88`.
+Next: y1v11.75.

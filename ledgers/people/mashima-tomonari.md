@@ -204,3 +204,12 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 [rel:ayanokouji-kiyotaka] (p.47–87) Present in the meeting involving his exam.
 
 <!-- walk: y1v11.5 ch1 → p.120 -->
+
+### y1v11.5 pp.378–380 — Short story: Sakayanagi’s request
+
+[scene] (p.378) In Sakayanagi’s short story, Mashima encounters her after the ceremonies and questions why she is waiting for him.
+[scene] (p.379) He initially hesitates but agrees to let Sakayanagi accompany him after she reveals knowledge of the meeting.
+[rel:sakayanagi-arisu] (p.378–380) Is approached by her and takes her along toward the reception room.
+[rel:ayanokouji-kiyotaka] (p.379–380) Is headed to a meeting that involves him.
+
+<!-- walk: y1v11.5 ch7 → p.423 -->

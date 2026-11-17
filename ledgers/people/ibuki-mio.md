@@ -718,3 +718,13 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:ryuuen-kakeru] (p.153) Is implied to be the person they are going to meet.
 
 <!-- walk: y1v11.5 ch3 → p.236 -->
+
+### y1v11.5 pp.387–388 — Short story: Meeting with Ryūen
+
+[scene] (p.387) In Ryūen’s short story, Ibuki meets him at Keyaki mall with Ishizaki.
+[scene] (p.387) She dismisses Ishizaki’s idea of Ayanokōji joining forces with Ryūen.
+[rel:ryuuen-kakeru] (p.387–388) Meets him at the mall.
+[rel:ishizaki-daichi] (p.387–388) Is present with him.
+[rel:ayanokouji-kiyotaka] (p.387) Reacts to Ishizaki’s mention of him.
+
+<!-- walk: y1v11.5 ch7 → p.423 -->

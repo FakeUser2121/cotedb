@@ -1613,3 +1613,20 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:shiina-hiyori] (p.206) Responds to the message she relayed from Ayanokōji.
 
 <!-- walk: y1v11.5 ch3 → p.236 -->
+
+### y1v11.5 pp.381–398 — Short story: After spring break
+
+[scene] (p.381) In his short story perspective, Ryūen reflects near the end of spring break on his return and his desire to face Ayanokōji again.
+[scene] (p.382) Sakayanagi approaches him at Keyaki mall and they exchange remarks about his comeback and their rivalry.
+[scene] (p.387) Ishizaki and Ibuki meet Ryūen and report having seen Ayanokōji; Ishizaki mentions proposing that Ayanokōji join Class D.
+[scene] (p.388) Ryūen tells them he intends to crush Class A this year while dismissing Class B.
+[scene] (p.396) Ryūen meets Ayanokōji at Keyaki mall and confronts him over the message relayed through Hiyori.
+[scene] (p.398) He declares his intention to target Ichinose and Sakayanagi after the break and attacks Ayanokōji but fails to land a hit.
+[scene] (p.402) Ryūen listens to Ayanokōji’s criticism of his methods and resolves to improve while vowing to defeat him.
+[rel:sakayanagi-arisu] (p.382–386) Exchanges words with her at Keyaki mall.
+[rel:ishizaki-daichi] (p.387–388) Meets him and hears his report about Ayanokōji.
+[rel:ibuki-mio] (p.387–388) Meets with her and Ishizaki.
+[rel:ayanokouji-kiyotaka] (p.381, 396–404) Seeks a rematch with him and confronts him at the mall.
+[rel:shiina-hiyori] (p.396) Acts on the message she relayed.
+
+<!-- walk: y1v11.5 ch7 → p.423 -->

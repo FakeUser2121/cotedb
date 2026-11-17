@@ -1276,3 +1276,19 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:ayanokouji-kiyotaka] (p.142–143) Meets him briefly and leaves upset over the situation and rumors.
 
 <!-- walk: y1v11.5 ch2 → p.143 -->
+
+### y1v11.5 pp.355–370, 399–423 — Epilogue: Confession and cherry blossoms
+
+[scene] (p.355) Karuizawa receives Ayanokōji’s call and agrees to visit his room near the end of spring break.
+[scene] (p.358) In Ayanokōji’s room, she tells him Satō suspects their relationship and worries about rumors spreading.
+[scene] (p.360) Kei reacts with alarm when Ayanokōji explains Matsushita also has doubts about them.
+[scene] (p.365) As she tries to leave, Ayanokōji calls her back and asks her to go out with him.
+[scene] (p.366) Kei asks whether he is serious and, after hearing his confession, answers him.
+[scene] (p.368) She and Ayanokōji embrace in his room.
+[scene] (p.369) Later, Kei invites Ayanokōji to sit with her and they view cherry blossoms together.
+[scene] (p.399) In her short story perspective, Kei reflects on her feelings before going to Ayanokōji’s room and on the confession that follows.
+[rel:ayanokouji-kiyotaka] (p.355–370, 399–423) Visits him, hears his confession, becomes his girlfriend, and views cherry blossoms with him.
+[rel:satou-maya] (p.358–359) Mentions her suspicions about Kei and Ayanokōji.
+[rel:matsushita-chiaki] (p.360) Reacts to Ayanokōji’s report of Matsushita’s suspicions.
+
+<!-- walk: y1v11.5 ch7 → p.423 -->

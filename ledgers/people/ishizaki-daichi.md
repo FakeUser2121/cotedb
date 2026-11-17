@@ -499,3 +499,13 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [rel:ryuuen-kakeru] (p.153–157) Is on his way to meet him secretly.
 
 <!-- walk: y1v11.5 ch3 → p.236 -->
+
+### y1v11.5 pp.387–388 — Short story: Meeting with Ryūen
+
+[scene] (p.387) In Ryūen’s short story, Ishizaki meets him at Keyaki mall with Ibuki and reports seeing Ayanokōji earlier.
+[scene] (p.387) He mentions having suggested to Ayanokōji that he and Ryūen join forces in the same class.
+[rel:ryuuen-kakeru] (p.387–388) Meets and reports to him.
+[rel:ibuki-mio] (p.387–388) Is present with him.
+[rel:ayanokouji-kiyotaka] (p.387) Reports having met him earlier.
+
+<!-- walk: y1v11.5 ch7 → p.423 -->

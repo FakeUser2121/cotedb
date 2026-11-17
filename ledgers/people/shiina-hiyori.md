@@ -254,3 +254,12 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [rel:shinohara-satsuki] (p.128–134) Recognizes her in the café.
 
 <!-- walk: y1v11.5 ch2 → p.143 -->
+
+### y1v11.5 pp.371–373 — Short story: By Reading Books
+
+[scene] (p.371) In her short story perspective, Hiyori reflects on meeting Ayanokōji during spring break and going to a café with him.
+[scene] (p.372) She recalls feeling nervous but wanting to talk with him, and bringing up that the library had new books.
+[scene] (p.373) Before discussing books, Hiyori decides to ask Ayanokōji about her class’s concerns regarding Ryūen.
+[rel:ayanokouji-kiyotaka] (p.371–373) Meets him at the café and prepares to question him about Ryūen.
+
+<!-- walk: y1v11.5 ch7 → p.423 -->
