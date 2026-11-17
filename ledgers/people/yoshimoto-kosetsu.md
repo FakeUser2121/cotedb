@@ -19,3 +19,14 @@ aliases used for anchors: yoshimoto, kosetsu
 [note] (p.135) Roster spelling is Yoshimoto Kosetsu; the page prints “Yoshimoto Kousetsu.”
 
 <!-- walk: y1v6 ch6 → p.176 -->
+
+## y3v3
+
+<!-- walk: y3v3 → start -->
+
+### y3v3 pp.12-256 — Full volume
+
+[scene] (p.12) Appears in this volume.
+
+
+<!-- walk: y3v3 Epilogue → p.256 -->

@@ -19,3 +19,14 @@ char_id: suzuki-hidetoshi · class: Class 1-C (enrolled April 2015) · status: m
 [scene] (p.124) Named when a classmate asks after Suzuki-kun during the girls’ group discussion.
 
 <!-- walk: y1v8 coverage → p.244 -->
+
+## y3v3
+
+<!-- walk: y3v3 → start -->
+
+### y3v3 pp.12-256 — Full volume
+
+[scene] (p.12) Appears in this volume.
+
+
+<!-- walk: y3v3 Epilogue → p.256 -->

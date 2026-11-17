@@ -135,3 +135,14 @@ Manabe nodded. (he anchors the room’s conclusion)
 [note] (p.233) The guess that the traitor was probably from Class A draws the name Machida before she corrects to Morishige-kun.
 
 <!-- walk: y1v4 ch5 → p.243 -->
+
+## y3v3
+
+<!-- walk: y3v3 → start -->
+
+### y3v3 pp.12-256 — Full volume
+
+[scene] (p.12) Appears in this volume.
+
+
+<!-- walk: y3v3 Epilogue → p.256 -->

@@ -19,3 +19,14 @@ char_id: mori-nene · class: Class 1-D · status: minor
 [trait] (p.120) The roster logic that turns weakness into a scoring shell — visible Class D tactic under fire.
 
 <!-- walk: y1v5 ch6 → p.143 -->
+
+## y3v3
+
+<!-- walk: y3v3 → start -->
+
+### y3v3 pp.12-256 — Full volume
+
+[scene] (p.12) Appears in this volume.
+
+
+<!-- walk: y3v3 Epilogue → p.256 -->

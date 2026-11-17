@@ -31,3 +31,14 @@ char_id: tsukasaki-taiga · class: Class 2-A · status: minor
 [note] (p.147) No further presence in chapter 4 after half 1.
 
 <!-- walk: y1v8 ch4 → p.147 -->
+
+## y3v3
+
+<!-- walk: y3v3 → start -->
+
+### y3v3 pp.12-256 — Full volume
+
+[scene] (p.12) Appears in this volume.
+
+
+<!-- walk: y3v3 Epilogue → p.256 -->

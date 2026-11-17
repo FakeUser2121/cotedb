@@ -73,3 +73,14 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 [rel:sakayanagi-arisu] (p.339–347) Plays as part of her basketball strategy.
 
 <!-- walk: y1v11 ch8 → p.367 -->
+
+## y3v3
+
+<!-- walk: y3v3 → start -->
+
+### y3v3 pp.12-256 — Full volume
+
+[scene] (p.12) Appears in this volume.
+
+
+<!-- walk: y3v3 Epilogue → p.256 -->

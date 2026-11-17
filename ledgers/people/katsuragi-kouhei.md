@@ -744,3 +744,14 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [says] (p.279) “That’s because the only students in Class A who specialize in Flash Mental Arithmetic are me and one other student named Tamiya.”
 [rel:yukimura-teruhiko] (p.271–280) Gives him information out of hatred for Sakayanagi.
 [rel:ayanokouji-kiyotaka] (p.274, 279) Speaks with him about Sakayanagi.
+
+## y3v3
+
+<!-- walk: y3v3 → start -->
+
+### y3v3 pp.12-256 — Full volume
+
+[scene] (p.12) Appears in this volume.
+
+
+<!-- walk: y3v3 Epilogue → p.256 -->

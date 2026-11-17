@@ -24,3 +24,14 @@ char_id: takemoto-shigeru · class: Class 1-A · status: minor (allies)
 [note] (p.155) No line in this range; presence is narrated only.
 
 <!-- walk: y1v4 ch4 → p.204 -->
+
+## y3v3
+
+<!-- walk: y3v3 → start -->
+
+### y3v3 pp.12-256 — Full volume
+
+[scene] (p.12) Appears in this volume.
+
+
+<!-- walk: y3v3 Epilogue → p.256 -->

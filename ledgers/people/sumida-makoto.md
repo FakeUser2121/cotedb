@@ -32,3 +32,14 @@ char_id: sumida-makoto · status: minor
 [note] (p.109–110) Does not appear; named in the search of Class B only.
 
 <!-- walk: y1v9 ch5 → p.125 -->
+
+## y3v3
+
+<!-- walk: y3v3 → start -->
+
+### y3v3 pp.12-256 — Full volume
+
+[scene] (p.12) Appears in this volume.
+
+
+<!-- walk: y3v3 Epilogue → p.256 -->

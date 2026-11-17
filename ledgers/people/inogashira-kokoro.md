@@ -69,3 +69,14 @@ char_id: inogashira-kokoro · class: Class 1-D · status: minor
 [rel:ayanokouji-kiyotaka] (p.353) Is chosen by him for the English test.
 
 <!-- walk: y1v11 ch8 → p.367 -->
+
+## y3v3
+
+<!-- walk: y3v3 → start -->
+
+### y3v3 pp.12-256 — Full volume
+
+[scene] (p.12) Appears in this volume.
+
+
+<!-- walk: y3v3 Epilogue → p.256 -->

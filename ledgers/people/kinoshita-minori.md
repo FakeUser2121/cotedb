@@ -70,3 +70,14 @@ char_id: kinoshita-minori · class: Class 1-C (enrolled April 2015) · status: m
 [limit] (p.148) Named only in the list — no dialogue on these pages.
 
 <!-- walk: y1v8 ch5 → p.152 -->
+
+## y3v3
+
+<!-- walk: y3v3 → start -->
+
+### y3v3 pp.12-256 — Full volume
+
+[scene] (p.12) Appears in this volume.
+
+
+<!-- walk: y3v3 Epilogue → p.256 -->

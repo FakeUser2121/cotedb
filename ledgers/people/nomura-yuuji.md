@@ -24,3 +24,14 @@ char_id: nomura-yuuji · class: Class 1-C (enrolled April 2015) · status: minor
 [note] (p.66) Reacts with a short startled cry when the six phones are ordered collected; not a full line.
 [trait] (p.66) Timid personality, on the verge of fainting; Ryuuen’s amused chuckle before clearing him.
 <!-- walk: y1v6 ch4 → p.75 -->
+
+## y3v3
+
+<!-- walk: y3v3 → start -->
+
+### y3v3 pp.12-256 — Full volume
+
+[scene] (p.12) Appears in this volume.
+
+
+<!-- walk: y3v3 Epilogue → p.256 -->

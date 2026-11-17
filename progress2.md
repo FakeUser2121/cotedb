@@ -3171,3 +3171,11 @@ school life, special exam (daily conduct), Hiyori reunion, Yamamura's courage,
 Horikita's struggle, Epilogue with Horikita/Karuizawa/Ishigami, short stories.
 Ledgers touched: volume + 50+ people ledgers. verify ALL PASS; build/gate/check OK;
 hash stable 73ad0bafe656a36a390cf0b4846ec97f. Next: y3v3.
+
+### y3v3 — walked, shipped
+
+Volume 3, Volume 3 (pp.12–256): Uninhabited Island Survival Game special exam;
+Class C and D alliance; Class A eliminated; Ayanokōji vs Ryuuen on the beach;
+Class D wins first place. Ledgers touched: volume + 92 people ledgers. verify
+ALL PASS; build/gate/check OK; hash stable ae48217efe34306afdce69374fd25464.
+Next: y0 (side stories).

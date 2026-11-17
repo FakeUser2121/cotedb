@@ -63,3 +63,14 @@ char_id: morofuji-rika · class: Class 1-D · status: minor (allies)
 [rel:karuizawa-kei] (p.147) The target of that grudge on the ship.
 
 <!-- walk: y1v7 ch5 → p.151 -->
+
+## y3v3
+
+<!-- walk: y3v3 → start -->
+
+### y3v3 pp.12-256 — Full volume
+
+[scene] (p.12) Appears in this volume.
+
+
+<!-- walk: y3v3 Epilogue → p.256 -->

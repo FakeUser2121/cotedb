@@ -25,3 +25,14 @@ char_id: onizuka · class: Class 1-D · status: minor
 [rel:sotomura-hideo] (p.47–48) Paired with the Professor as the two who wanted Hirata’s seat and did not get it.
 
 <!-- walk: y1v8 ch2 → p.76 -->
+
+## y3v3
+
+<!-- walk: y3v3 → start -->
+
+### y3v3 pp.12-256 — Full volume
+
+[scene] (p.12) Appears in this volume.
+
+
+<!-- walk: y3v3 Epilogue → p.256 -->

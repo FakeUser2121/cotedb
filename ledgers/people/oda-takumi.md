@@ -13,3 +13,14 @@ char_id: oda-takumi · class: Class 1-C · status: minor
 [rel:nishino-takeko] (p.65) Presses her privacy panic as guilt.
 [rel:ryuuen-kakeru] (p.65) Present for the exchange; Ryuuen shows no interest in the argument.
 <!-- walk: y1v6 ch4 → p.75 -->
+
+## y3v3
+
+<!-- walk: y3v3 → start -->
+
+### y3v3 pp.12-256 — Full volume
+
+[scene] (p.12) Appears in this volume.
+
+
+<!-- walk: y3v3 Epilogue → p.256 -->

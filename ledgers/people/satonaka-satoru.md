@@ -11,3 +11,14 @@ char_id: satonaka-satoru · class: Class 1-B · status: minor
 [note] (p.18) Passing mention: “Well, I think he’s cool and all, but…I guess I just don’t feel that way about him,” said Satou.
 
 <!-- walk: y1v7.5 ch2 → p.34 -->
+
+## y3v3
+
+<!-- walk: y3v3 → start -->
+
+### y3v3 pp.12-256 — Full volume
+
+[scene] (p.12) Appears in this volume.
+
+
+<!-- walk: y3v3 Epilogue → p.256 -->

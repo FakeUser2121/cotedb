@@ -50,3 +50,14 @@ char_id: onodera · class: Class 1-D · status: minor
 [note] (p.138, 141) The memo on p.138 prints the full name Onodera Kayano for the same rumor and is recorded on her page; these pages print only the surname here and do not settle whether the two roster names are one girl.
 
 <!-- walk: y1v9 ch6 → p.150 -->
+
+## y3v3
+
+<!-- walk: y3v3 → start -->
+
+### y3v3 pp.12-256 — Full volume
+
+[scene] (p.12) Appears in this volume.
+
+
+<!-- walk: y3v3 Epilogue → p.256 -->
