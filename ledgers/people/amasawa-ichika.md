@@ -76,16 +76,25 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 
 <!-- walk: y3v1 → start -->
 
-### y3v1 pp.10-287 — Full volume
-
-[scene] (p.10) Appears in this volume.
-
-
 <!-- walk: y3v1 Epilogue → p.287 -->
 
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
+### y3v1 Ch.4 — depth read: Amasawa's venomous probing
+[scene] (p.90) Approaches Ichinose at Keyaki Mall, professing fondness for Ayanokōji and probing for a reaction.
+[says] (p.90) "Did you go to the gym today?"
+[says] (p.91) "It does matter. I like Ayanokouji-senpai a lot."
+[says] (p.91) "I was just kidding~ Actually, I really do love him in that way."
+[says] (p.91) "I definitely don't have the courage to confess, but I do feel a bit jealous when I see Ichinose-senpai getting along so well with Ayanokouji-senpai."
+[says] (p.92) "Ichinose-senpai, are you perhaps getting a bit carried away lately?"
+[says] (p.92) "After all… you've slept with Ayanokouji-senpai, right?"
+[says] (p.96) "…Shoot. I'm the one getting carried away here."
+[says] (p.97) "It's going to be an interesting fight for all the third-year senpai."
+[trait] (p.91–97) Plays the innocent kouhai then turns venomous; sharp and observant but is outmaneuvered by Ichinose's White Room bluff.
+[rel:ayanokouji-kiyotaka] (p.90–97) Obsessed with him — the reason she stays at the school; wants to make him happy and warns Ichinose off.
+[rel:ichinose-honami] (p.90–96) Probes and tries to provoke her, but ends up flustered and revising her opinion of her.
+[note] (p.94–96) She does not actually know whether Ichinose and Ayanokōji are physical; her goal was to see Ichinose's agitation.
 ## y3v2
 
 <!-- walk: y3v2 → start -->

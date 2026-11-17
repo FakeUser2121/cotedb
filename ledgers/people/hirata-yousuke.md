@@ -1638,16 +1638,21 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y3v1 → start -->
 
-### y3v1 pp.10-287 — Full volume
-
-[scene] (p.10) Appears in this volume.
-
-
 <!-- walk: y3v1 Epilogue → p.287 -->
 
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
+### y3v1 Ch.3 — depth read: Hirata pulls him aside
+[scene] (p.69) Waits for Ayanokōji at the dorm lobby and asks to move somewhere private so they can talk.
+[says] (p.69) "Would you mind changing the location a bit? It seems like people might gather here."
+[says] (p.71) "I was once saved by you too, Ayanokouji-kun. If it weren't for you, I probably wouldn't have stayed at this school."
+[says] (p.71) "But during the unanimous special exam and the end-of-year special exam, there were things I couldn't digest, no, couldn't accept."
+[says] (p.71) "It's not just Sudou-kun and the others here. Everyone in the class is very worried and confused."
+[says] (p.74) "left the class on his own free will. We have to respect that."
+[trait] (p.69–74) Sensitive to class trouble; respected Ayanokōji's strength but had come to distrust him over the last two exams — hints at a rift, and unusually calls him "Kiyotaka."
+[rel:ayanokouji-kiyotaka] (p.69–74) Seeks the reason for the transfer, then accepts it is his choice and leaves.
+[rel:sudou-ken] (p.69–74) Holds him back from confronting Ayanokōji too aggressively.
 ## y3v2
 
 <!-- walk: y3v2 → start -->

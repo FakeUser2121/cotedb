@@ -198,11 +198,6 @@ aliases used for anchors: sakagami, sakagami-sensei
 
 <!-- walk: y3v1 → start -->
 
-### y3v1 pp.10-287 — Full volume
-
-[scene] (p.10) Appears in this volume.
-
-
 <!-- walk: y3v1 Epilogue → p.287 -->
 
 

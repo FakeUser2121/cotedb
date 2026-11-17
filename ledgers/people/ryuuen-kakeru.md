@@ -1774,16 +1774,32 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y3v1 → start -->
 
-### y3v1 pp.10-287 — Full volume
-
-[scene] (p.10) Appears in this volume.
-
-
 <!-- walk: y3v1 Epilogue → p.287 -->
 
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
+### y3v1 Ch.5 — depth read: Ryūen welcomes a direct fight
+[scene] (p.123) At the mall, intervenes as Ishizaki angrily confronts Ayanokōji, pushing his shoulder aside.
+[says] (p.123) "Shut up, Ishizaki. You're bothering the other students, calm down."
+[says] (p.123) "You're as desperate as ever. If Sakayanagi disappears, you immediately stick to Ayanokouji without a hint of hesitation. Can't you survive without clinging to the strong?"
+[says] (p.123) "Kukuku. No? Far from it, I welcome this development. If you yourself lead the class, there could be no better stage for me to bring you down."
+[says] (p.124) "That's an impossible request. This is a good opportunity for us to fight you. I'll play every card I can without holding back."
+[trait] (p.123–124) Eager to fight Ayanokōji directly now that he leads Class C, rather than through a proxy like Horikita; has been probing Class C's state for a week.
+[rel:ayanokouji-kiyotaka] (p.123–124) Declares he wants to defeat him as leader and promises no holding back in the special exam.
+[rel:ishizaki-daichi] (p.123) Holds him back from the confrontation.
+[rel:hashimoto-masayoshi] (p.123) Mocks him for clinging to Ayanokōji.
+
+### y3v1 Ch.7 — depth read: Ryūen's victory interview
+[scene] (p.189) Leads Ishizaki, Ibuki and Albert into Class C's classroom without permission for a "winner's interview."
+[says] (p.189) "Yo, don't mind me."
+[says] (p.190) "I came all the way here for a winner's interview, move it."
+[says] (p.191) "So? Has it been officially decided that you'll lead Class C from now on, Ayanokouji?"
+[says] (p.192) "Kukuku. I see, it does seem like you're busy. It looks like the celebration for Ayanokouji's rise to leadership will have to wait."
+[feat] (p.185–193) Deliberately fielded predictable small-group participants and let Ayanokōji take all 100 penalty points, denying Class C a complete victory — the result he aimed for.
+[trait] (p.189–190) Ruthless and intimidating — shoves Sawada and Hashimoto aside.
+[rel:ayanokouji-kiyotaka] (p.189–193) Barges in to confirm whether he has been recognized as leader; his "gift" of a near-win was calculated.
+[rel:ishizaki-daichi] (p.189) Enters with him; the two banter about being called "idiots."
 ## y3v2
 
 <!-- walk: y3v2 → start -->

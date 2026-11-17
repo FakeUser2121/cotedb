@@ -842,16 +842,22 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y3v1 → start -->
 
-### y3v1 pp.10-287 — Full volume
-
-[scene] (p.10) Appears in this volume.
-
-
 <!-- walk: y3v1 Epilogue → p.287 -->
 
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
+### y3v1 Ch.8 — depth read: Ibuki's blunt "concern"
+[scene] (p.207) Kicks Horikita in the back from behind on the gravel path outside the dorm.
+[says] (p.207) "You've grown pathetic, Horikita. You can't even dodge a kick like that."
+[says] (p.208) "Your pathetic appearance has always been irritating to me. It pisses me off just looking at you."
+[says] (p.208) "I'd jump for joy. Just seeing his face makes me so angry."
+[says] (p.208) "If you plan to stay this pathetic forever, I'm done with you. Don't ever get involved with me again."
+[trait] (p.207–208) Blunt and violent, but the chapter hints (through Karuizawa) that she may have been worried in her own way — she lingered near the bench rather than going home.
+[rel:horikita-suzune] (p.207–208) Kicks her for being pathetic since Ayanokōji's departure and tells her to stay out of her sight.
+[rel:ayanokouji-kiyotaka] (p.208) Is irritated that he defeated Ryūen and angry just thinking about him.
+[rel:karuizawa-kei] (p.211, per Karuizawa) Has been coming to Horikita (and previously Karuizawa) for food.
+[note] (p.208) Karuizawa speculates Ibuki's anger and lingering may be a rough form of concern for Horikita.
 ## y3v2
 
 <!-- walk: y3v2 → start -->

@@ -3531,16 +3531,62 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y3v1 → start -->
 
-### y3v1 pp.10-287 — Full volume
-
-[scene] (p.10) Appears in this volume.
-
-
 <!-- walk: y3v1 Epilogue → p.287 -->
 
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
+### y3v1 Ch.1 — depth read: shock at the transfer
+[scene] (p.13) Notices Ayanokōji is absent from the classroom on the first day of Class 3-A and questions Sudō about it.
+[says] (p.15) "I understand what you're saying, but weren't both of them prepared for that when they started dating?"
+[thinks] (p.20) Her heartbeat races and she tells herself "please stop" — she understood the transfer but did not want to.
+[says:matsushita-chiaki] (p.21) "T-This is a lie, right, Sensei? That Ayanokouji-kun has transferred to Class C…"
+[scene] (p.21) Checks the Class 3-C OAA and finds Ayanokōji's name added there, confirming the transfer.
+[rel:ayanokouji-kiyotaka] (p.13–21) Is deeply unsettled by his unexplained transfer out of Class A.
+[rel:sudou-ken] (p.13–15) Discusses the absence and the Karuizawa breakup with him.
+[rel:chabashira-sae] (p.16–21) Presses Chabashira for the reason; struggles to accept her answer.
+[note] (p.25) Kushida asks her to confirm that Ayanokōji contributed to the class in unseen ways; she nods in agreement.
+
+### y3v1 Ch.2 — depth read: trying to confirm his intentions
+[scene] (p.29) Still in disbelief over the transfer, decides she must hear Ayanokōji's true intentions from his own lips before acting.
+[thinks] (p.29) Admits she was "very scared" of seeing him and that her palms were trembling.
+[says] (p.30) "Sorry, but can we talk later? I'm going to meet him now." — to Hirata
+[says] (p.31) "Unfortunately, I have no such plan." — to Matsushita, denying the transfer was her strategy
+[says] (p.34) "I want you to let me have a conversation with Ayanokouji-kun."
+[says] (p.38) "You really want to know the reason for the class transfer?"
+[says] (p.39) "Let's go, Matsushita-san. He's become my enemy, I understand that well."
+[feat] (p.36–39) Confronts Ayanokōji and Class C at the café but is rebuffed; leaves accepting he is now an enemy.
+[rel:ayanokouji-kiyotaka] (p.29–39) Seeks a direct explanation, is refused, and resolves to treat him as an enemy.
+[rel:matsushita-chiaki] (p.31–39) Lets her accompany him to Keyaki Mall; both are unsettled by Ayanokōji's exposure of their cooperation.
+[rel:hashimoto-masayoshi] (p.34–38) Is blocked by him from reaching Ayanokōji; he calls her an unwanted guest.
+[note] (p.33) Worries she lacked the qualifications for Ayanokōji to rely on her — "Am I really that unreliable?"
+
+### y3v1 Ch.5 — depth read: spiralling over the transfer and the exam
+[scene] (p.98) A week into the third year, sits alone before homeroom, noting how quickly the class has adapted to Ayanokōji's absence while she has not.
+[thinks] (p.98) Feels "the cruelty and mercilessness of time" — the realization that he is gone grows stronger day by day.
+[thinks] (p.99) Blames herself: was the class not good enough, was she not reliable enough that he had to leave? Regrets the words she never spoke at the celebration party.
+[says] (p.100) "Sorry, yes. It's okay, I'm listening." — a lie; she had not heard a word of the exam announcement
+[says] (p.106) "There's no problem. I was just thinking about how to fight in the exam."
+[says] (p.106) "Yes, I'll try." — to Sudō's concern that she is still worried about Ayanokōji
+[feat] (p.100–106) Takes in the exam rules and works through the penalty-point strategy despite her distress; feels relieved the opponent is Ichinose's class, not Ayanokōji's.
+[trait] (p.133–135) Collapses on her bed crying, unable to accept the transfer; wishes she could return to the morning of the ceremony and grab his arm.
+[rel:ayanokouji-kiyotaka] (p.98–135) Obsesses over why he left and whether she could have stopped him.
+[rel:sudou-ken] (p.106–107) Hides her pain from him and thanks him for his concern.
+[rel:kushida-kikyou] (p.126–132) Is confronted on the bench; Kushida needles her about waiting for Ayanokōji under the guise of coincidence.
+
+### y3v1 Ch.8 — depth read: Ibuki's kick and the breaking point
+[scene] (p.203) Sits alone in the empty Class 3-A classroom at dusk, blaming herself for the defeat and unable to answer what her goal is.
+[says] (p.207) "You've grown pathetic, Horikita. You can't even dodge a kick like that." — Ibuki
+[says] (p.210) "I realized that it was only because Ayanokouji-kun was in the class that I was able to stand up straight."
+[says] (p.210) "I'm a weak person. It's okay if you laugh."
+[says] (p.214) "How pathetic." — realizing she acted as though she alone was hurt
+[says] (p.215) "Now that it's come to this, I have no choice but to make him turn his head this way. And I will graduate with everyone in Class A. I promise."
+[says] (p.215) "Not at all. I'm a weak person, but I've realized that I'm not alone."
+[feat] (p.203–215) Breaks down, is kicked by Ibuki, then reconciles with Karuizawa — and resolves to recover and lead Class A to graduation.
+[trait] (p.210–215) Admits her weakness but finds resolve through Karuizawa's friendship; a "first proper laugh in a while."
+[rel:ibuki-mio] (p.207–208) Is kicked by her and told she has become pathetic.
+[rel:karuizawa-kei] (p.209–215) Is helped up by her and shares a heartfelt conversation; hears her secret past.
+[rel:ayanokouji-kiyotaka] (p.203–215) Realizes she was only strong because of him and vows to make him regret leaving.
 ## y3v2
 
 <!-- walk: y3v2 → start -->

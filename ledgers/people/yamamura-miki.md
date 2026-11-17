@@ -20,11 +20,6 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 
 <!-- walk: y3v1 → start -->
 
-### y3v1 pp.10-287 — Full volume
-
-[scene] (p.10) Appears in this volume.
-
-
 <!-- walk: y3v1 Epilogue → p.287 -->
 
 

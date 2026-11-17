@@ -31,16 +31,19 @@ char_id: tsubaki-sakurako · class: Class 1-C · status: unknown
 
 <!-- walk: y3v1 → start -->
 
-### y3v1 pp.10-287 — Full volume
-
-[scene] (p.10) Appears in this volume.
-
-
 <!-- walk: y3v1 Epilogue → p.287 -->
 
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
+### y3v1 Epilogue — depth read: Tsubaki's lingering question
+[scene] (p.225) Encounters Ayanokōji on the way back from school with Utomiya; brings up the rumor of his transfer.
+[says] (p.225) "It feels like it's been a while since I've seen the two of you together."
+[says] (p.226) "What is it? It's creepy when you suddenly call me by my full name."
+[says] (p.227) "Someone other than your family? Who is it?"
+[trait] (p.226–227) Curious and perceptive; her question about whom he would like to meet and her "snow" remark echo his forgotten White Room memories.
+[rel:ayanokouji-kiyotaka] (p.225–227) Speaks with him about the transfer and his hopes for meeting someone; her presence triggers his memory of "Yuki."
+[rel:utomiya-riku] (p.225–226) Is walking back to the dorm with him.
 ## y3v2
 
 <!-- walk: y3v2 → start -->

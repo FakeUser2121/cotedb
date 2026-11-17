@@ -3305,3 +3305,19 @@ Both short stories given corpus-exact depth: Ayanokōji's first phone call with
 Kei and Ichinose's spring-vacation reflection (21 verified quotes across
 Ayanokōji, Kei and Ichinose). verify ALL PASS; build/gate/check OK; hash stable
 a33dc3ec85f7fe022e246f2b65654f92.
+
+### y3v1 — DEPTH PASS IN PROGRESS (chapter by chapter)
+
+Redoing y3v1 as a true chapter-by-chapter depth read (not the earlier catch-up
+stubs). Done so far: Prologue + Ch.1 (pp.10–28) with verified page-anchored
+quotes for Horikita, Chabashira, Sudō, Kushida + volume beats. Stub removal and
+remaining chapters pending. NOT YET SHIPPED as depth.
+  - Ch.2 (pp.29–39) done: volume beats + Horikita/Ayanokōji/Matsushita/Hashimoto, verified (34 says ALL PASS).
+  - Ch.3 (pp.40–74, read in two halves) done: volume beats + Ayanokōji (×2), Morishita, Ichinose, Sudō, Hirata, Akito, Keisei; verified (66 says ALL PASS).
+  - Ch.4 (pp.75–97, two halves) done: volume beats + Ayanokōji, Shiraishi, Hōsen, Chabashira, Ichinose, Amasawa; verified (105 says ALL PASS).
+  - Ch.5 (pp.98–145, two halves) done: volume beats + Horikita, Ayanokōji, Kushida, Ryūen, Hashimoto, Morishita; verified (129 says ALL PASS).
+  - Ch.6 (pp.146–162) done: volume beats + Ayanokōji, Yoshida, Shiraishi, Nishikawa, Morishita; verified (156 says ALL PASS).
+  - Ch.7 (pp.163–193, two halves) done: volume beats + Karuizawa, Ichinose, Ayanokōji, Shimazaki (block created), Ryūen, Hashimoto; verified (183 says ALL PASS).
+  - Ch.8 (pp.203–224) done: volume beats + Horikita, Ibuki, Karuizawa, Kushida, Ayanokōji; verified (213 says ALL PASS).
+  - Epilogue (pp.225–247) done: volume beats + Ayanokōji, Kitou (block created), Tsubaki, Morishita, Hashimoto, Shiraishi, Nanase; verified (246 says ALL PASS).
+  - y3v1 DEPTH COMPLETE: all 10 sections read chapter by chapter, 246 verified quotes, 41 placeholder stubs removed across ledgers. Ayanokōji's y3v1 cards now 9 real chapter scenes (no stubs). verify/gate/check OK, hash stable 8ab9fd1c057e2735619f58a8f8235eb9.

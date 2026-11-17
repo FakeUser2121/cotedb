@@ -106,16 +106,21 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 
 <!-- walk: y3v1 → start -->
 
-### y3v1 pp.10-287 — Full volume
-
-[scene] (p.10) Appears in this volume.
-
-
 <!-- walk: y3v1 Epilogue → p.287 -->
 
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
+### y3v1 Ch.2 — depth read: exposed as a schemer
+[scene] (p.31) Catches up with Horikita in the hallway and insists on coming to see Ayanokōji.
+[says] (p.31) "I know. You're going to see Ayanokouji-kun, right? Let me come with you."
+[says] (p.31) "…I want to know the reason behind Ayanokouji-kun's transfer. Just to confirm once more, this isn't part of your strategy, Horikita-san, right?"
+[says] (p.36) "I'm just accompanying her. I'm only here to convey to my class what I've seen and heard as a normal classmate rather than a leader."
+[says] (p.36) "Oh no, Ayanokouji-kun, you really seem to be overestimating me."
+[says] (p.38) "You're okay with not answering anything? Ayanokouji-kun, you'll be treated as a traitor, you know?"
+[trait] (p.31–39) Composed and sharp; Ayanokōji calls her one of the sharpest minds in Class A who works behind the scenes, and her calm is visibly shaken when he reveals their cooperation.
+[rel:ayanokouji-kiyotaka] (p.31–39) Came to verify his true intentions; has secretly cooperated with him, including over Maezono's expulsion.
+[rel:horikita-suzune] (p.31–39) Accompanies her but is more clear-sighted than Ayanokōji gives her credit for.
 ## y3v2
 
 <!-- walk: y3v2 → start -->

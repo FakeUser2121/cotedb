@@ -105,16 +105,23 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 <!-- walk: y3v1 → start -->
 
-### y3v1 pp.10-287 — Full volume
-
-[scene] (p.10) Appears in this volume.
-
-
 <!-- walk: y3v1 Epilogue → p.287 -->
 
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
+### y3v1 Epilogue — depth read: Nanase's secret call
+[scene] (p.241) Is with Horikita in the student council room when the three eavesdroppers arrive; after Horikita leaves, takes a phone call.
+[says] (p.242) "It's not like that. It's all thanks to your precise instructions, President Horikita."
+[says] (p.242) "Yes, I definitely want to graduate from Class A. However, as long as I can finish my school life safely, that would be the best outcome for me."
+[says] (p.243) "We agreed not to make any unnecessary calls, didn't we, Tsukishiro-san?"
+[says] (p.246) "I'll continue to monitor Ayanokouji-senpai for another year."
+[says] (p.247) "Senpai, what might you guys be doing in a place like this?"
+[feat] (p.243–247) Is revealed to be in contact with Tsukishiro, monitoring Ayanokōji, possessing two phones against school rules, and noticing the eavesdroppers.
+[trait] (p.241–247) Polite and diligent in public, secretly duplicitous — plays the loyal student council member while carrying out Tsukishiro's surveillance.
+[rel:tsukishiro] (p.243–246) Calls him and reports on monitoring Ayanokōji, Ishigami Kyou and a notable first-year.
+[rel:horikita-suzune] (p.241–243) Works alongside her in the student council and praises her instructions.
+[rel:ayanokouji-kiyotaka] (p.246) Is monitoring him on Tsukishiro's orders.
 ## y3v2
 
 <!-- walk: y3v2 → start -->

@@ -1136,16 +1136,31 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y3v1 → start -->
 
-### y3v1 pp.10-287 — Full volume
-
-[scene] (p.10) Appears in this volume.
-
-
 <!-- walk: y3v1 Epilogue → p.287 -->
 
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
+### y3v1 Ch.1 — depth read: the stunned homeroom teacher and speculation
+[scene] (p.16) Arrives at the classroom panicked and pale, her gaze unfocused and hollow; does not respond to Hirata or Kikuchi at first.
+[says] (p.17) "I'm fine."
+[says] (p.18) "There's something I need to tell all of you. This morning—no, just a little while ago—a certain student used their Private Points to exercise a certain right… or so it seems."
+[says] (p.18) "…Class… transfer."
+[says] (p.18) "The student who's absent from the classroom right now… Ayanokouji. He's the one who exercised that right."
+[says] (p.20) "Ayanokouji has been transferred from this class to Class C as of today."
+[trait] (p.16–21) Uncharacteristically shaken; keeps glancing at her tablet and struggles to explain clearly.
+[rel:ayanokouji-kiyotaka] (p.17–21) Delivers the news of his transfer; her demeanor suggests she knew something was wrong before class.
+
+### y3v1 Ch.4 — depth read: Chabashira's suspicion
+[scene] (p.87) Pulls Ayanokōji aside near the gym, having followed him from the dorm to ask about the transfer.
+[says] (p.88) "…I wanted to talk to you. As your homeroom teacher… no, as your former homeroom teacher, I thought it might be inappropriate to carelessly make contact, but I couldn't help wanting to check something."
+[says] (p.88) "Isn't there something inconvenient… something that forced you to transfer?"
+[says] (p.88) "Is it really because of me? Because I was troubled with Chie's problem… Did you sacrifice yourself to solve it?"
+[says] (p.89) "What's the reason then? Why do something so meaningless…?"
+[trait] (p.87–89) Still cares for him as his former teacher; visibly worried and unable to accept his vague answers, but respects that he need not explain.
+[rel:ayanokouji-kiyotaka] (p.87–89) Followed him to ask why he transferred; he reassures her it was not on her account and that Hoshinomiya's issue is resolved.
+[rel:hoshinomiya-chie] (p.88) The prior trouble with her is what Chabashira suspects prompted the transfer.
+[note] (p.87) Ayanokōji notes her tailing skills are "on par with Morishita's" — and not good.
 ## y3v2
 
 <!-- walk: y3v2 → start -->

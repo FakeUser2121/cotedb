@@ -205,3 +205,22 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 
 
 <!-- walk: y2v12 Epilogue → p.228 -->
+
+## y3v1
+
+<!-- walk: y3v1 → start -->
+
+### y3v1 Epilogue — depth read: Kitou's challenge
+[scene] (p.229) Calls Ayanokōji to a spot behind the dorm and steps out of the shadows.
+[says] (p.229) "Good, you didn't run away."
+[says] (p.229) "I don't recognize you as a leader."
+[says] (p.229) "As long as I'm not the person leading the class, someone needs to step forward."
+[says] (p.230) "I don't trust you."
+[says] (p.230) "You're strong, I already know that… Show me that you can suppress my dissatisfaction with your strength."
+[says] (p.234) "You're strong… Is there this much of a difference…?"
+[trait] (p.229–234) Detached and results-driven — followed Sakayanagi only for her winning odds, not loyalty; tests Ayanokōji purely by strength.
+[rel:ayanokouji-kiyotaka] (p.229–234) Challenges him to a fight, loses, and agrees to follow him if he leads Class C toward Class A.
+[rel:sakayanagi-arisu] (p.229–230) Followed her as leader because she had the best chance of reaching Class A.
+[rel:sawada-yasumi] (p.231) Is rebuked by Ayanokōji for not protecting her when Ryūen barged into the classroom.
+
+<!-- walk: y3v1 Epilogue → p.287 -->
