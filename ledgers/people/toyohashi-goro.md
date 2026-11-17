@@ -16,3 +16,6 @@ char_id: toyohashi-goro · class: unknown · status: unknown
 
 
 <!-- walk: y0 Epilogue → p.265 -->
+
+
+<!-- walk: y2v2 Epilogue → p.354 -->

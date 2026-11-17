@@ -51,3 +51,6 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 
 
 <!-- walk: y3v3 Epilogue → p.256 -->
+
+
+<!-- walk: y2v2 Epilogue → p.354 -->

@@ -43,3 +43,14 @@ char_id: nishino-takeko · class: Class 1-C · status: minor
 
 
 <!-- walk: y3v3 Epilogue → p.256 -->
+
+## y2v2
+
+<!-- walk: y2v2 → start -->
+
+### y2v2 pp.6-354 — Full volume
+
+[scene] (p.6) Appears in this volume.
+
+
+<!-- walk: y2v2 Epilogue → p.354 -->

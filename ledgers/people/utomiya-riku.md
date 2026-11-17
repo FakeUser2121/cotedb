@@ -51,3 +51,14 @@ char_id: utomiya-riku · class: Class 1-C · status: unknown
 
 
 <!-- walk: y3v2 Epilogue → p.263 -->
+
+## y2v2
+
+<!-- walk: y2v2 → start -->
+
+### y2v2 pp.6-354 — Full volume
+
+[scene] (p.6) Appears in this volume.
+
+
+<!-- walk: y2v2 Epilogue → p.354 -->

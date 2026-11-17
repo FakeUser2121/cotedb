@@ -113,3 +113,14 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 [rel:horikita-manabu] (p.94–98) Present during the farewell exchanges with the former president.
 
 <!-- walk: y1v11.5 ch1 → p.120 -->
+
+## y2v2
+
+<!-- walk: y2v2 → start -->
+
+### y2v2 pp.6-354 — Full volume
+
+[scene] (p.6) Appears in this volume.
+
+
+<!-- walk: y2v2 Epilogue → p.354 -->

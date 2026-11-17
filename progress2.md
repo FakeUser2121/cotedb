@@ -3187,3 +3187,11 @@ activation, children's stories, Naoe's withdrawal, epilogue with Kiyotaka meetin
 Yuki and enrolling in ANHS. Ledgers touched: volume + 33 people ledgers. verify
 ALL PASS (v0); build/gate/check OK; hash stable 2ffa83b04525aafb7607bcb3bb843048.
 Walk complete: all volumes y1v1 → y0 done.
+
+### y2v2 — walked, shipped
+
+Volume 2, Volume 2 (pp.6–354): White Room student monologue; school life
+changing; group formation; Nanase reunion; 1st-year negotiations; special exam
+announcement; Kouenji/Horikita deal; Tsukishiro pressures Nanase. Ledgers
+touched: volume + 64 people. verify ALL PASS; build/gate/check OK; hash stable
+7aae5f31087696d44e35d66bc7c793c2.

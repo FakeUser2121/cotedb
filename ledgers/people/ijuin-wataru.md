@@ -16,3 +16,6 @@ char_id: ijuin-wataru · class: unknown · status: unknown
 
 
 <!-- walk: y3v3 Epilogue → p.256 -->
+
+
+<!-- walk: y2v2 Epilogue → p.354 -->

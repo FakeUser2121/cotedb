@@ -43,3 +43,14 @@ char_id: maezono · class: Class 1-D · status: minor
 [trait] (p.141) Absent-minded words — narration says they probably came out without a second thought.
 
 <!-- walk: y1v9 ch6 → p.150 -->
+
+## y2v2
+
+<!-- walk: y2v2 → start -->
+
+### y2v2 pp.6-354 — Full volume
+
+[scene] (p.6) Appears in this volume.
+
+
+<!-- walk: y2v2 Epilogue → p.354 -->

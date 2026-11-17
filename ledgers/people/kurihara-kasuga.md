@@ -16,3 +16,6 @@ char_id: kurihara-kasuga · class: unknown · status: unknown
 
 
 <!-- walk: y3v2 Epilogue → p.263 -->
+
+
+<!-- walk: y2v2 Epilogue → p.354 -->

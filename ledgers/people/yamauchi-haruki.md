@@ -828,3 +828,14 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [rel:hirata-yousuke] (p.291) Tries to use Hirata’s offer to save himself.
 
 <!-- walk: y1v10 Epilogue → p.362 -->
+
+## y2v2
+
+<!-- walk: y2v2 → start -->
+
+### y2v2 pp.6-354 — Full volume
+
+[scene] (p.6) Appears in this volume.
+
+
+<!-- walk: y2v2 Epilogue → p.354 -->

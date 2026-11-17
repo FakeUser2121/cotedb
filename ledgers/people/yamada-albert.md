@@ -223,3 +223,14 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 [action] (p.163) Releases Miyake on Hiyori’s request, following her directions.
 
 <!-- walk: y1v9 ch7 → p.175 -->
+
+## y2v2
+
+<!-- walk: y2v2 → start -->
+
+### y2v2 pp.6-354 — Full volume
+
+[scene] (p.6) Appears in this volume.
+
+
+<!-- walk: y2v2 Epilogue → p.354 -->
