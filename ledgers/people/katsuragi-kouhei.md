@@ -766,3 +766,14 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 
 
 <!-- walk: y2v2 Epilogue → p.354 -->
+
+## y2v3
+
+<!-- walk: y2v3 → start -->
+
+### y2v3 pp.7-368 — Full volume
+
+[scene] (p.7) Appears in this volume.
+
+
+<!-- walk: y2v3 Epilogue → p.368 -->

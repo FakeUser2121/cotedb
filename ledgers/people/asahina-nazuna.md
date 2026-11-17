@@ -110,3 +110,14 @@ char_id: asahina-nazuna · class: Class 2-A · status: supporting
 [rel:kiriyama-ikuto] (p.94–104) Present with him among student council members.
 
 <!-- walk: y1v11.5 ch1 → p.120 -->
+
+## y2v3
+
+<!-- walk: y2v3 → start -->
+
+### y2v3 pp.7-368 — Full volume
+
+[scene] (p.7) Appears in this volume.
+
+
+<!-- walk: y2v3 Epilogue → p.368 -->

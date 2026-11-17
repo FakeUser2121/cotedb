@@ -24,3 +24,14 @@ char_id: matsuo · role: former butler to Ayanokōji · status: deceased (this v
 [note] (p.60–61) Full leverage story remains in half 1 of this chapter.
 
 <!-- walk: y1v7 ch3 → p.97 -->
+
+## y2v3
+
+<!-- walk: y2v3 → start -->
+
+### y2v3 pp.7-368 — Full volume
+
+[scene] (p.7) Appears in this volume.
+
+
+<!-- walk: y2v3 Epilogue → p.368 -->

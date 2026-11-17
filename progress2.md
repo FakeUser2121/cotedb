@@ -3195,3 +3195,9 @@ changing; group formation; Nanase reunion; 1st-year negotiations; special exam
 announcement; Kouenji/Horikita deal; Tsukishiro pressures Nanase. Ledgers
 touched: volume + 64 people. verify ALL PASS; build/gate/check OK; hash stable
 7aae5f31087696d44e35d66bc7c793c2.
+
+### y2v3 — walked, shipped
+
+Volume 2, Volume 3 (pp.7–368): uninhabited island exam; Nanase confronts
+Ayanokōji; Koenji solo; Ichinose watch breaks. Ledgers touched: volume + 64
+people. verify ALL PASS; build/gate/check OK; hash stable 62bfe007829db085350d3ca16a496571.

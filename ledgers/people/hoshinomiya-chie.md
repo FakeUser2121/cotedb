@@ -338,3 +338,14 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 
 
 <!-- walk: y3v3 Epilogue → p.256 -->
+
+## y2v3
+
+<!-- walk: y2v3 → start -->
+
+### y2v3 pp.7-368 — Full volume
+
+[scene] (p.7) Appears in this volume.
+
+
+<!-- walk: y2v3 Epilogue → p.368 -->

@@ -16,3 +16,6 @@ char_id: asakura-mako · class: unknown · status: unknown
 
 
 <!-- walk: y2v2 Epilogue → p.354 -->
+
+
+<!-- walk: y2v3 Epilogue → p.368 -->
