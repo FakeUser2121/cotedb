@@ -488,3 +488,14 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [rel:shiina-hiyori] (p.382–399) Works with her to involve Ryūen and prepare against Class B.
 
 <!-- walk: y1v11 ch9 → p.399 -->
+
+### y1v11.5 pp.153–157 — Ch.3: Meeting before seeing Ryūen
+
+[scene] (p.153) Ishizaki catches up to Ibuki and Ayanokōji on the way to Keyaki mall and accidentally reveals they are meeting Ryūen.
+[scene] (p.154) He tells Ayanokōji his “ultimate strategy” is for Ayanokōji to transfer to Class D so he and Ryūen can work together.
+[scene] (p.156) After Ayanokōji refuses, Ishizaki accepts the answer and parts ways with him at the mall.
+[rel:ayanokouji-kiyotaka] (p.153–157) Invites him to join Class D and talks with him before meeting Ryūen.
+[rel:ibuki-mio] (p.153–157) Meets her on the way to Keyaki mall.
+[rel:ryuuen-kakeru] (p.153–157) Is on his way to meet him secretly.
+
+<!-- walk: y1v11.5 ch3 → p.236 -->

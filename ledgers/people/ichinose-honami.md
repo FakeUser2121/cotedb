@@ -1340,3 +1340,19 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:mashima-tomonari] (p.368–374) Receives event results and rulings from him.
 
 <!-- walk: y1v11 ch9 → p.399 -->
+
+### y1v11.5 pp.144–148, 162–190, 216–236 — Ch.3: Meeting and promise
+
+[scene] (p.144) Ichinose messages Ayanokōji during spring break asking to meet and to include Horikita.
+[scene] (p.162) She meets Ayanokōji and Horikita at the café to discuss the end-of-year exam and the future relationship between their classes.
+[scene] (p.175) Ichinose reflects on Class B’s defeat and the uncertainty of continuing cooperation as the classes become closer in points.
+[scene] (p.216) After the meeting, Ichinose remains alone in heavy rain near the school, standing without an umbrella.
+[scene] (p.218) When Ayanokōji approaches, she says she wants to be soaked in the rain for a while.
+[scene] (p.221) Ichinose agrees to return when Ayanokōji stays in the rain with her.
+[scene] (p.225) In Ayanokōji’s room, she hesitates but begins to speak about her worries as Class B’s leader.
+[scene] (p.231) Ichinose says she fears she cannot see her own growth compared to other class leaders and asks whether she will be able to win in the future.
+[scene] (p.234) She accepts Ayanokōji’s request to meet again one year later and promises to fight with all her strength.
+[rel:ayanokouji-kiyotaka] (p.144–148, 162–190, 216–236) Meets him for discussion and later confides in him during the rain.
+[rel:horikita-suzune] (p.162–190) Meets with her to discuss their classes’ situation.
+
+<!-- walk: y1v11.5 ch3 → p.236 -->

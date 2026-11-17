@@ -1597,3 +1597,19 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:ayanokouji-kiyotaka] (p.398–399) Considers his desire for a rematch with him as motivation to remain.
 
 <!-- walk: y1v11 ch9 → p.399 -->
+
+### y1v11.5 pp.194–214 — Ch.3: Return preparations and confrontation
+
+[scene] (p.194) In the Keyaki mall men’s toilet, Ryūen meets Hashimoto Masayoshi, who has called him there to discuss the year’s events.
+[scene] (p.199) Hashimoto brings Kanzaki Ryūji to the meeting; Ryūen listens as Kanzaki criticizes his tactics in the end-of-year exam.
+[scene] (p.205) After Kanzaki leaves, Ryūen reflects that he must be more careful while continuing to use ruthless methods.
+[scene] (p.206) Ryūen meets Ayanokōji at Keyaki mall after receiving Hiyori’s message.
+[scene] (p.208) He says he intends to enjoy the holidays longer before returning officially and claims he will destroy Ichinose and Sakayanagi as a warm-up.
+[scene] (p.210) Ryūen suddenly attacks Ayanokōji but fails to land a decisive blow.
+[scene] (p.213) After hearing Ayanokōji’s criticism of his laxative strategy, Ryūen accepts the advice while declaring he will defeat him one day.
+[rel:hashimoto-masayoshi] (p.194–205) Meets him and discusses future moves.
+[rel:kanzaki-ryuuji] (p.199–205) Hears his warning about Class B.
+[rel:ayanokouji-kiyotaka] (p.206–214) Meets and clashes with him at the mall.
+[rel:shiina-hiyori] (p.206) Responds to the message she relayed from Ayanokōji.
+
+<!-- walk: y1v11.5 ch3 → p.236 -->

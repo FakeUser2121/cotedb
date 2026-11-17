@@ -1772,3 +1772,4 @@ hash: `6bea783884c7cb8573db97157f0b718a`.
 | y1v11.5 Prologue (pp.8-12) | 5 | 0 | 342aba6642427bb7cfbe092356ab20b9 |
 | y1v11.5 Ch.1 (pp.13-120) | 108 | 0 | e5b41a99926b0436ec5c0f0ac722c58d |
 | y1v11.5 Ch.2 (pp.121-143) | 23 | 0 | 46ca9d3997bf8a1c5f991590fea07c2f |
+| y1v11.5 Ch.3 (pp.144-236) | 93 | 0 | 868ed83c02b68ae5db926b854d8de3ea |

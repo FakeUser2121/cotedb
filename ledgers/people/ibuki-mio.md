@@ -706,3 +706,15 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:ryuuen-kakeru] (p.387–399) Confronts him and ultimately agrees to follow his plan against Class B.
 
 <!-- walk: y1v11 ch9 → p.399 -->
+
+### y1v11.5 pp.150–156 — Ch.3: Encounter on the way to the mall
+
+[scene] (p.150) Ibuki encounters Ayanokōji in the dormitory elevator and walks toward Keyaki mall at the same pace despite her irritation.
+[scene] (p.153) When Ishizaki arrives, Ibuki scolds him for letting slip that they are meeting Ryūen.
+[scene] (p.154) She dismisses Ishizaki’s idea of bringing Ayanokōji into Class D as impossible.
+[scene] (p.156) Ibuki parts from Ayanokōji with Ishizaki at Keyaki mall.
+[rel:ayanokouji-kiyotaka] (p.150–156) Encounters him and reacts negatively to Ishizaki’s proposal involving him.
+[rel:ishizaki-daichi] (p.153–156) Meets him on the way to see Ryūen.
+[rel:ryuuen-kakeru] (p.153) Is implied to be the person they are going to meet.
+
+<!-- walk: y1v11.5 ch3 → p.236 -->

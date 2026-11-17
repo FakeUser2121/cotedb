@@ -384,3 +384,15 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [rel:ayanokouji-kiyotaka] (p.418–428) Is astonished by the commander-level chess between him and Sakayanagi.
 
 <!-- walk: y1v11 ch10 → p.476 -->
+
+### y1v11.5 pp.194–205, 213–214 — Ch.3: Meeting Ryūen and Kanzaki
+
+[scene] (p.194) Hashimoto meets Ryūen in the Keyaki mall men’s toilet to gauge his intentions after the end-of-year exam.
+[scene] (p.197) He probes Ryūen about future plans and his relationships, trying to gather information.
+[scene] (p.199) Hashimoto calls in Kanzaki Ryūji, arranging a meeting between him and Ryūen.
+[scene] (p.203) After Kanzaki warns Ryūen, Hashimoto reacts with interest and continues to position himself for future cooperation.
+[scene] (p.214) Hashimoto reflects that building a relationship with Ryūen early may prove valuable depending on how the classes shift.
+[rel:ryuuen-kakeru] (p.194–205, 214) Meets him to assess and maintain a connection.
+[rel:kanzaki-ryuuji] (p.199–204) Brings him to meet Ryūen.
+
+<!-- walk: y1v11.5 ch3 → p.236 -->

@@ -5088,3 +5088,32 @@ walk: y1v1 → DONE
 [rel:karuizawa-kei] (p.142–143) Meets her briefly after the café meeting.
 
 <!-- walk: y1v11.5 ch2 → p.143 -->
+
+### y1v11.5 pp.144–236 — Ch.3: Lost Lamb
+
+[scene] (p.144) During spring break, Ayanokōji receives a message from Ichinose Honami asking to meet and to include Horikita Suzune.
+[scene] (p.147) He contacts Horikita, who insists on meeting the same day despite his concern about her brother’s departure.
+[scene] (p.150) On the way to Keyaki mall, Ayanokōji shares an elevator and walk with Ibuki Mio.
+[scene] (p.153) Ishizaki Daichi joins them and accidentally reveals he and Ibuki are meeting Ryūen Kakeru.
+[scene] (p.154) Ishizaki proposes that Ayanokōji transfer to Class D as an “ultimate strategy” to reach Class A.
+[scene] (p.156) Ayanokōji refuses Ishizaki’s proposal and parts from Ibuki and Ishizaki at the mall.
+[scene] (p.160) He meets Horikita at the mall before the meeting with Ichinose.
+[scene] (p.162) Ayanokōji and Horikita meet Ichinose at the café to discuss the end-of-year exam and the future relationship between their classes.
+[scene] (p.191) After the café meeting, Horikita challenges Ayanokōji to compete in a written exam subject of her choosing after April.
+[scene] (p.193) Ayanokōji accepts Horikita’s challenge and they agree on the terms.
+[scene] (p.206) Ayanokōji meets Ryūen at Keyaki mall after Hiyori relays his message.
+[scene] (p.207) He tells Ryūen he could have secured more than five wins with a better strategy in the end-of-year exam.
+[scene] (p.208) Ryūen declares he will eventually return to target Ichinose and Sakayanagi; Ayanokōji responds and they briefly clash when Ryūen attacks.
+[scene] (p.213) Ayanokōji advises Ryūen to be less obvious in his methods, and they part after Ryūen says he will defeat him.
+[scene] (p.216) In heavy rain, Ayanokōji finds Ichinose standing alone outside and approaches her with umbrellas.
+[scene] (p.221) When Ichinose refuses to leave the rain, Ayanokōji closes his umbrella and stays with her until she agrees to return.
+[scene] (p.225) He brings Ichinose to his room to warm up and encourages her to talk about her worries.
+[scene] (p.234) Ayanokōji promises to meet Ichinose again one year later and tells her to keep moving forward.
+[scene] (p.236) He reflects that if Ichinose falls in the second year, he will be the one to finish her off.
+[rel:ichinose-honami] (p.144–148, 162–190, 216–236) Meets her to discuss class relations and later comforts her in the rain and in his room.
+[rel:horikita-suzune] (p.147–148, 160–193) Arranges and attends the meeting with Ichinose and accepts her written-exam challenge.
+[rel:ibuki-mio] (p.150–156) Encounters her on the way to Keyaki mall.
+[rel:ishizaki-daichi] (p.153–157) Hears his proposal and learns of plans involving Ryūen.
+[rel:ryuuen-kakeru] (p.153, 206–214) Infers his return and later meets him at the mall.
+
+<!-- walk: y1v11.5 ch3 → p.236 -->

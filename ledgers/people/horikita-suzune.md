@@ -3264,3 +3264,16 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:nagumo-miyabi] (p.98–104) Is approached and spoken to by him after his exchange with her brother.
 
 <!-- walk: y1v11.5 ch1 → p.120 -->
+
+### y1v11.5 pp.147–148, 160–193 — Ch.3: Café meeting and challenge
+
+[scene] (p.147) Horikita replies to Ayanokōji that she is available to meet Ichinose the same day, avoiding discussion of meeting her brother.
+[scene] (p.160) She meets Ayanokōji at Keyaki mall before the meeting with Ichinose.
+[scene] (p.162) Horikita joins Ayanokōji and Ichinose at the café to discuss the end-of-year exam and the future of class cooperation.
+[scene] (p.191) After leaving Ichinose, Horikita challenges Ayanokōji to prove his ability in a written exam.
+[scene] (p.192) She agrees to his proposal to compete for the highest score in one subject of her choosing in a written exam after April.
+[scene] (p.193) Horikita accepts the wager and leaves, saying she looks forward to a direct confrontation.
+[rel:ayanokouji-kiyotaka] (p.147–148, 160–193) Meets with him and challenges him to a written-exam contest.
+[rel:ichinose-honami] (p.162–190) Participates in the discussion with her about their classes.
+
+<!-- walk: y1v11.5 ch3 → p.236 -->

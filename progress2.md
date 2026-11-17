@@ -2962,3 +2962,24 @@ Ledgers touched: `ledgers/volumes/y1v11.5.md`,
 `ledgers/people/karuizawa-kei.md`. `verify --vol y1v11.5`: ALL PASS;
 `build`/`gate`/`make check` OK; hash stable
 `46ca9d3997bf8a1c5f991590fea07c2f`. Next: y1v11.5 ch3 pp.144–236.
+
+### y1v11.5 Ch.3 — walked, shipped
+
+Chapter 3 "Lost Lamb" (pp.144–236). Ayanokōji arranges a meeting with
+Ichinose Honami and Horikita Suzune; on the way he encounters Ibuki Mio
+and Ishizaki Daichi, who hint at Ryūen Kakeru’s return. At the café
+Ichinose and Horikita discuss class relations and defeat, after which
+Horikita challenges Ayanokōji to a written-exam contest. Hashimoto
+Masayoshi brings Kanzaki Ryūji to meet Ryūen in Keyaki mall; Kanzaki
+warns Ryūen about future conflict with Class B. Ayanokōji meets Ryūen
+and they clash briefly. In heavy rain Ayanokōji finds Ichinose, brings
+her to his room, and they promise to meet again a year later. Ledgers
+touched: `ledgers/volumes/y1v11.5.md`,
+`ledgers/people/ayanokouji-kiyotaka.md`,
+`ledgers/people/ichinose-honami.md`,
+`ledgers/people/horikita-suzune.md`, `ledgers/people/ibuki-mio.md`,
+`ledgers/people/ishizaki-daichi.md`, `ledgers/people/ryuuen-kakeru.md`,
+`ledgers/people/hashimoto-masayoshi.md`,
+`ledgers/people/kanzaki-ryuuji.md`. `verify --vol y1v11.5`: ALL PASS;
+`build`/`gate`/`make check` OK; hash stable
+`868ed83c02b68ae5db926b854d8de3ea`. Next: y1v11.5 ch4 pp.237–295.

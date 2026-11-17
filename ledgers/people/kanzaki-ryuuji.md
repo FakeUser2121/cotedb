@@ -373,3 +373,15 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [rel:yukimura-teruhiko] (p.175–183) Discusses Class D’s tactics with him.
 
 <!-- walk: y1v11 ch6 → p.280 -->
+
+### y1v11.5 pp.199–205 — Ch.3: Warning to Ryūen
+
+[scene] (p.199) Kanzaki arrives at the Keyaki mall men’s toilet after Hashimoto arranges a meeting with Ryūen.
+[scene] (p.201) He tells Ryūen that Class B does not accept the end-of-year exam result as a fair loss and criticizes his underhanded tactics.
+[scene] (p.202) Kanzaki declares he will act to prevent such methods from working against Class B in the future, even if he must step beyond Ichinose’s usual approach.
+[scene] (p.205) He leaves after warning Ryūen to remember what he said.
+[rel:ryuuen-kakeru] (p.199–205) Confronts and warns him about future conflict with Class B.
+[rel:hashimoto-masayoshi] (p.199–204) Meets him through Hashimoto’s arrangement.
+[rel:ichinose-honami] (p.202) States he has supported her but sees limits in her ability to respond to emergencies.
+
+<!-- walk: y1v11.5 ch3 → p.236 -->
