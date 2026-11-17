@@ -1292,3 +1292,19 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:matsushita-chiaki] (p.360) Reacts to Ayanokōji’s report of Matsushita’s suspicions.
 
 <!-- walk: y1v11.5 ch7 → p.423 -->
+
+## y1v11.75
+
+<!-- walk: y1v11.75 → start -->
+
+### y1v11.75 pp.4–14 — Short story: The First Phone Call
+
+[scene] (p.4) On the final night of spring break, Karuizawa Kei calls Ayanokōji at 10 PM as they had arranged.
+[scene] (p.5) She reacts with surprise and embarrassment as they speak as a couple for the first time by phone.
+[scene] (p.6) Kei admits she delayed calling because she was unsure about their relationship and then talks about everyday topics.
+[scene] (p.9) When Ayanokōji ends the call abruptly, Kei calls him back and complains.
+[scene] (p.11) She asks him to end the call in a way that will not upset her.
+[scene] (p.13) After hearing his explanation, Kei accepts it and they end the call.
+[rel:ayanokouji-kiyotaka] (p.4–14) Speaks with him by phone on the last night of spring break.
+
+<!-- walk: y1v11.75 Section → p.18 -->

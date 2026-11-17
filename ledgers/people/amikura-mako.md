@@ -22,3 +22,16 @@ char_id: amikura-mako · class: Class 1-B · status: minor (allies)
 [rel:ichinose-honami] (p.172) Ichinose answers her by name: yes, and she is sorry.
 
 <!-- walk: y1v9 ch7 → p.175 -->
+
+## y1v11.75
+
+<!-- walk: y1v11.75 → start -->
+
+### y1v11.75 p.15 — Short story: Keyaki mall meetup
+
+[scene] (p.15) Mako-chan meets Ichinose and Chihiro-chan at Keyaki mall on the last day of spring break.
+[scene] (p.15) She asks Ichinose whether she is feeling well after Ichinose spent much of the break alone.
+[rel:ichinose-honami] (p.15) Meets her and checks on her at Keyaki mall.
+[rel:shiranami-chihiro] (p.15) Meets with her and Ichinose.
+
+<!-- walk: y1v11.75 Section → p.18 -->

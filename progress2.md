@@ -3047,3 +3047,25 @@ against topic titles and ledes. Added closing stamp
 `<!-- walk: y1v11.5 Epilogue → DONE -->` to `ledgers/volumes/y1v11.5.md`.
 verify/build/gate/check/hash stable `ccae3b82136b217ee9e22dedb831af88`.
 Next: y1v11.75.
+
+### y1v11.75 — walked, shipped
+
+Volume 11.75 (Section, pp.1–18): two short stories at the end of spring
+break. Ayanokōji Kiyotaka receives and has a long phone call with
+Karuizawa Kei on the final night. Ichinose Honami meets Shiranami
+Chihiro and Amikura Mako at Keyaki mall on the last day and reflects on
+Ayanokōji’s support and the coming second year. Ledgers touched:
+`ledgers/volumes/y1v11.75.md`, `ledgers/people/ayanokouji-kiyotaka.md`,
+`ledgers/people/karuizawa-kei.md`, `ledgers/people/ichinose-honami.md`,
+`ledgers/people/shiranami-chihiro.md`,
+`ledgers/people/amikura-mako.md`, `ledgers/people/horikita-suzune.md`,
+`ledgers/people/tsukishiro.md`, `ledgers/people/ryuuen-kakeru.md`,
+`ledgers/people/sakayanagi-arisu.md`. Page-locator hits for roster
+characters listed for y1v11.75 were cross-checked against cited pages;
+passing/rival mentions (Horikita Suzune, Tsukishiro, Ryūen, Sakayanagi)
+were recorded; the `horikita-manabu` pattern hit on pp.16–17 refers to
+Horikita Suzune, not Horikita Manabu. Topic patterns spot-checked against
+titles/ledes (rule 12). Added closing stamp
+`<!-- walk: y1v11.75 Section → DONE -->`. `verify --vol y1v11.75`: ALL PASS;
+`build`/`gate`/`make check` OK; hash stable
+`c94d311b46e7064be17d0bbb329e2f51`. Next: y1v10 redo remaining gaps.

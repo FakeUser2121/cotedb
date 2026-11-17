@@ -735,3 +735,14 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:ryuuen-kakeru] (p.382–386) Speaks with him at Keyaki mall in his recollection.
 
 <!-- walk: y1v11.5 ch7 → p.423 -->
+
+## y1v11.75
+
+<!-- walk: y1v11.75 → start -->
+
+### y1v11.75 p.16 — Short story: Mention in Ichinose’s reflection
+
+[scene] (p.16) In Ichinose’s reflections, Sakayanagi is named among the rival class leaders Ayanokōji faced during the first year.
+[rel:ayanokouji-kiyotaka] (p.16) Is mentioned in Ichinose’s comparison of rival classes.
+
+<!-- walk: y1v11.75 Section → p.18 -->

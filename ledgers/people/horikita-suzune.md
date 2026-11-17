@@ -3298,3 +3298,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ayanokouji-kiyotaka] (p.273–293) Talks with him after the farewell and discusses the exam wager and Kushida.
 
 <!-- walk: y1v11.5 ch4 → p.295 -->
+
+[scene] (p.3) In Ayanokōji’s reflections on the last night of spring break, the bet with Horikita is named among the issues awaiting him in the new year.
+[scene] (p.16) In Ichinose’s reflections, Horikita is named among the rival class leaders Ayanokōji faced during the first year.
+[rel:ayanokouji-kiyotaka] (p.3, 16) Is mentioned in his reflection and in Ichinose’s comparison of rival classes.

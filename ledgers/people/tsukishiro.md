@@ -73,3 +73,6 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 [rel:matsushita-chiaki] (p.327) Observes that she is following Ayanokōji.
 
 <!-- walk: y1v11.5 ch5 → p.351 -->
+
+[scene] (p.3) In Ayanokōji’s reflections on the last night of spring break, Tsukishiro is mentioned in connection with the possibility of a White Room first-year student entering the school.
+[rel:ayanokouji-kiyotaka] (p.3) Is considered by him as a concern for the coming term.

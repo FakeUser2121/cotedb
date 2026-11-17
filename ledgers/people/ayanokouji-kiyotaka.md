@@ -5176,3 +5176,21 @@ walk: y1v1 → DONE
 [rel:ryuuen-kakeru] (p.396–404) Meets and clashes with him in Ryūen’s account.
 
 <!-- walk: y1v11.5 ch7 → p.423 -->
+
+## y1v11.75
+
+<!-- walk: y1v11.75 → start -->
+
+### y1v11.75 pp.3–14 — Short story: The First Phone Call
+
+[scene] (p.3) On the final night of spring break, Ayanokōji reflects on school resuming and on issues awaiting him in the new year.
+[scene] (p.4) At 10 PM he receives a scheduled phone call from Karuizawa Kei.
+[scene] (p.5) Ayanokōji and Kei talk awkwardly at first about their new relationship.
+[scene] (p.6) He tells Kei he waited for her call, and they continue talking about everyday matters.
+[scene] (p.8) Ayanokōji shares trivial topics in response to Kei’s request, and their call continues for about an hour.
+[scene] (p.9) They try to end the call for the night but Kei calls back, upset by how abruptly he ended it.
+[scene] (p.12) Ayanokōji explains why he ended the call without hesitation, and they end the conversation more calmly.
+[scene] (p.14) He reflects on their changed relationship and looks ahead to the start of the new school term.
+[rel:karuizawa-kei] (p.4–14) Speaks with her by phone on the last night of spring break.
+
+<!-- walk: y1v11.75 Section → p.18 -->

@@ -1356,3 +1356,21 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:horikita-suzune] (p.162–190) Meets with her to discuss their classes’ situation.
 
 <!-- walk: y1v11.5 ch3 → p.236 -->
+
+## y1v11.75
+
+<!-- walk: y1v11.75 → start -->
+
+### y1v11.75 pp.15–18 — Short story: Ichinose Honami’s Spring Vacation
+
+[scene] (p.15) On the last day of spring break, Ichinose meets Chihiro-chan and Mako-chan at Keyaki mall.
+[scene] (p.15) Mako-chan asks whether she is feeling well after spending much of the break alone.
+[scene] (p.15) Ichinose tells them she has been thinking about strategies for the second year and is feeling better.
+[scene] (p.16) She reflects on the support Ayanokōji gave her during the break and feels able to fight on as Class B’s leader.
+[scene] (p.17) Ichinose reminds herself that she and Ayanokōji are rivals in different classes despite her feelings.
+[scene] (p.18) She resolves to focus on the start of the second year and leading Class 2-B.
+[rel:ayanokouji-kiyotaka] (p.16–17) Reflects on his support and her feelings toward him.
+[rel:shiranami-chihiro] (p.15) Meets her at Keyaki mall on the last day of spring break.
+[rel:amikura-mako] (p.15) Meets her at Keyaki mall on the last day of spring break.
+
+<!-- walk: y1v11.75 Section → p.18 -->

@@ -1777,3 +1777,5 @@ hash: `6bea783884c7cb8573db97157f0b718a`.
 | y1v11.5 Ch.5 (pp.296-351) | 56 | 0 | 76339b4b1acd8c2b015aa453bbfbd6ae |
 | y1v11.5 Ch.7 Epilogue (pp.352-423) | 72 | 0 | ccae3b82136b217ee9e22dedb831af88 |
 | y1v11.5 DONE | 423 | 0 | ccae3b82136b217ee9e22dedb831af88 |
+| y1v11.75 Section (pp.1-18) | 18 | 0 | c94d311b46e7064be17d0bbb329e2f51 |
+| y1v11.75 DONE | 18 | 0 | c94d311b46e7064be17d0bbb329e2f51 |
