@@ -862,13 +862,15 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y3v2 → start -->
 
-### y3v2 pp.10-263 — Full volume
-
-[scene] (p.10) Appears in this volume.
-
-
 <!-- walk: y3v2 Epilogue → p.263 -->
 
+### y3v2 Ch.3 — depth read: Ibuki's meal and the kick warning
+[scene] (p.94) Comes to Horikita's room after 6:30 PM for a meal (after the flying kick she gave her earlier).
+[says] (p.94) "For a loser, your color's looking a little better, Horikita."
+[says] (p.94) "If it happens again, I'll be sure to kick you then, too, so be grateful."
+[trait] (p.94–95) Blunt and sarcastic; takes Horikita's thanks as praise and laughs off the warning about kicking her in the back.
+[rel:horikita-suzune] (p.94–95) Eats at her room; warned not to kick people in the back again.
+[note] (p.95) Horikita notes Ibuki ate every grain of rice, but left a mess — a clue toward the "daily conduct" theory.
 ## y3v3
 
 <!-- walk: y3v3 → start -->

@@ -728,13 +728,22 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y3v2 → start -->
 
-### y3v2 pp.10-263 — Full volume
-
-[scene] (p.10) Appears in this volume.
-
-
 <!-- walk: y3v2 Epilogue → p.263 -->
 
+### y3v2 Ch.3 — depth read: Kōenji rejects and then sells his discipline
+[scene] (p.69) Walks out of Class A's discussion; Horikita chases him into the hallway.
+[says] (p.70) "Well, well, Horikita Girl. Is there something I can do for you?"
+[says] (p.70) "I don't mind listening a bit, as long as we're walking."
+[says] (p.71) "Wouldn't that simply be pointless? My time is quite priceless, you see."
+[says] (p.71) "If the class falls apart simply because I've left, that just goes to show the limits of your own abilities, Horikita Girl."
+[says] (p.72) "Being in Class A is proof of unity? The only reason the class was lucky enough to win was because Ayanokouji-boy was making his moves."
+[says] (p.74) "Are you planning to make an enemy of me too, Horikita-girl?"
+[says] (p.122) "For one week, starting tomorrow—I shall sell you my discipline. For the exceptional price of 500,000 Private Points."
+[trait] (p.70–74) Arrogant, blunt and self-assured; sees through Horikita's carrot-and-threat tactics and warns her with rare killing intent.
+[feat] (p.121–122) Recognizes independently that the exam is about discipline (~70%) and doubles her offer to 500,000 points.
+[rel:horikita-suzune] (p.69–123) Rebuffs her in the hallway, then accepts a secret 500,000-point deal for one week of good behavior.
+[rel:ayanokouji-kiyotaka] (p.72) Credits his moves, not class unity, for Class A's wins.
+[rel:sudou-ken] (p.121) Calls him "red-hair-kun"; claims he is the first man in his room.
 ## y3v3
 
 <!-- walk: y3v3 → start -->

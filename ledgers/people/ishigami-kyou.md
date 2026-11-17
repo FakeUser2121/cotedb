@@ -88,3 +88,24 @@ char_id: ishigami-kyou · class: unknown · status: unknown
 
 
 <!-- walk: y2v12 Epilogue → p.228 -->
+
+## y3v2
+
+<!-- walk: y3v2 → start -->
+
+### y3v2 Epilogue — depth read: Ishigami's hidden lead
+[scene] (p.238) Stops Horikita in the hallway on a holiday after luring her to the empty student council room.
+[says] (p.239) "It's been a while. I have something I'd like to discuss, so may I have a moment of your time?"
+[says] (p.241) "Were you the one who sent me the message?"
+[says] (p.241) "Regarding my consultation—it seems you've been looking into Amasawa, President."
+[says] (p.244) "You must absolutely keep the identity of the person who gave you this student's name—in other words, me—confidential."
+[says] (p.244) "She's a female student from second-year Class D named Nanase."
+[says] (p.245) "I've learned that Nanase was in contact with Ayanokouji-senpai from very early on."
+[feat] (p.238–246) Secretly arranges the meeting, reveals Nanase (not Amasawa) as the one who knows Ayanokōji's past, and agrees to probe anonymously.
+[trait] (p.239–246) Cautious and analytical — orchestrates a roundabout, unobserved meeting, pressures Horikita to protect his anonymity, and only deals in his own class's affairs.
+[rel:horikita-suzune] (p.238–246) Gives her the Nanase lead in exchange for anonymity.
+[rel:nanase-tsubasa] (p.244–246) Claims she knows Ayanokōji's past and dislikes him.
+[rel:ayanokouji-kiyotaka] (p.245) Refers to him as "Ayanokouji-senpai"; says Nanase was in early contact with him.
+[rel:amasawa-ichika] (p.241) Is in the same class; knew Horikita was tailing her.
+
+<!-- walk: y3v2 Epilogue → p.263 -->

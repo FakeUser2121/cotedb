@@ -3591,13 +3591,37 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y3v2 → start -->
 
-### y3v2 pp.10-263 — Full volume
-
-[scene] (p.10) Appears in this volume.
-
-
 <!-- walk: y3v2 Epilogue → p.263 -->
 
+### y3v2 Ch.3 — depth read: Horikita's leadership tested
+[scene] (p.67) Calls for calm in Class A after Chabashira's cold announcement and proposes brainstorming the exam rules.
+[says] (p.67) "The special exam doesn't start until tomorrow, so just panicking here is a waste of time. First, we should calm down, brainstorm ideas, and discuss things."
+[says] (p.71) "It's necessary for the class to unite once again. I don't want you to disrupt that harmony."
+[says] (p.72) "It's true that Ayanokouji-kun left our class. But we didn't win through his power alone."
+[says] (p.87) "I'm nothing special. I was told I was exceptional quite often back in middle school, but… Ayanokouji-kun, my brother, Nagumo-senpai… no, Sakayanagi-san and Ichinose-san are the same."
+[says] (p.88) "Hmph… You know, hearing that repeatedly is starting to get on my nerves."
+[says] (p.121) "If you exhibit no problematic behavior whatsoever, just like the other classmates, I will pay you 200,000 Private Points."
+[says] (p.121) "Yes." — agreeing with Kōenji that discipline is likely the basis
+[feat] (p.114–123) Deduces the exam is likely a repeat of the first-year conduct test, secures Kōenji's week of perfect discipline for 500,000 points, and swears Sudō to secrecy.
+[trait] (p.71–73) Stands up to Kōenji despite his killing intent and blunt criticism of her leadership; rattled but refuses to back down.
+[rel:kouenji-rokusuke] (p.69–74, 120–123) Chases him down twice; strikes a secret deal for his discipline.
+[rel:nanase-tsubasa] (p.85–88) Investigates the first-year fight with her in the student council room.
+[rel:karuizawa-kei] (p.89–93) Consults her at the supermarket about the exam and Ayanokōji/Ichinose.
+[rel:kushida-kikyou] (p.111–113) Talks with her after Ibuki leaves; draws the key insight about Chabashira's hint.
+[rel:sudou-ken] (p.115–125) Shares her theory with him, borrows him for the Kōenji visit, and thanks him.
+
+### y3v2 Epilogue — depth read: investigating Ayanokōji's past
+[says] (p.231) "Good morning, I apologize for contacting you so suddenly last night."
+[says] (p.231) "If that's what you were expecting, then I'm afraid I'll have to apologize. I didn't invite you to hang out for fun."
+[says] (p.232) "You're sharp. That is one of my objectives."
+[says] (p.232) "But if it's something even you don't know, then I can give up."
+[says] (p.234) "I have no intention of keeping secrets or telling you any clumsy lies, either."
+[says] (p.237) "I'm sorry. I know it's sudden, but I have to go to the student council."
+[feat] (p.231–246) Begins investigating Ayanokōji's past — tails Amasawa with Karuizawa, then receives Ishigami's lead that Nanase is the one who knows his past.
+[rel:karuizawa-kei] (p.231–237) Invites her out; they tail Amasawa together.
+[rel:ishigami-kyou] (p.238–246) Is approached by him; receives the lead about Nanase and agrees to keep his identity secret.
+[rel:amasawa-ichika] (p.235–236) Tails her as a possible link to Ayanokōji's past.
+[rel:nanase-tsubasa] (p.244–246) Learns from Ishigami that she may know Ayanokōji's past; plans to investigate.
 ## y3v3
 
 <!-- walk: y3v3 → start -->

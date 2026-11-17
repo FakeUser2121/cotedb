@@ -1806,3 +1806,4 @@ hash: `6bea783884c7cb8573db97157f0b718a`.
 | y1v11.5 depth pass | 423 | 207 | 07d2540f276ab5918afa28b49e02b9e2 |
 | y1v11.75 depth pass | 18 | 21 | a33dc3ec85f7fe022e246f2b65654f92 |
 | y3v1 depth pass | 287 | 246 | 8ab9fd1c057e2735619f58a8f8235eb9 |
+| y3v2 depth pass | 263 | 233 | 0adbcd0fd10a63a5965b7e604216805b |

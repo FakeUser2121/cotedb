@@ -1533,13 +1533,26 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y3v2 → start -->
 
-### y3v2 pp.10-263 — Full volume
-
-[scene] (p.10) Appears in this volume.
-
-
 <!-- walk: y3v2 Epilogue → p.263 -->
 
+### y3v2 Ch.7 — depth read: Ichinose sees through him
+[says] (p.220) "Mm, I think she was just being considerate. So that you and I could talk alone, Ayanokouji-kun."
+[says] (p.221) "I see. That's very reassuring. I'll do my best to help out as much as I can, too."
+[says] (p.221) "I think that's a great idea! I was actually getting a little worried about things like sales, since the number of members is so low."
+[says] (p.223) "That's an interesting trio. Kanzaki-kun has seemed a little distant from me lately."
+[says] (p.223) "And Watanabe-kun simply wants to get closer to Mako-chan—I guess that's about it, right?"
+[says] (p.224) "I-I'm sorry... I'm sorry. I just... couldn't help wanting to touch you... even though we're just friends, aren't we."
+[says] (p.224) "Because you looked so happy, I suppose."
+[trait] (p.223–224) Sharp and perceptive — reads through Ayanokōji's "natural" trio selection and senses he was thinking of someone else; her perception has sharpened since "that night."
+[rel:ayanokouji-kiyotaka] (p.220–225) Walks home with him; their hands touch and she apologizes, left with a lonely expression when he seems distracted.
+[rel:amikura-mako] (p.220) Notes Amikura left early to give them privacy; knows Watanabe likes her ("Mako-chan").
+[rel:watanabe-norihito] (p.221) Agrees to welcome him to the gym.
+
+### y3v2 SS: To Love Too Much… — depth read
+[says] (p.249) "Okay, thank you. I'm really happy for your support, Ayanokouji-kun."
+[says] (p.250) "I-I'm sorry... I'm sorry. I just... couldn't help wanting to touch you... even though we're just friends, aren't we."
+[trait] (p.249–250) Aches during the week apart without seeing him; yearns for his fingers and wonders how to make him yearn for her too — "loving someone too much" is painful.
+[rel:ayanokouji-kiyotaka] (p.249–250) Their hands touch on the walk home; she pulls back, determined to stay on his level.
 ## y3v3
 
 <!-- walk: y3v3 → start -->

@@ -66,11 +66,6 @@ char_id: miyamoto-soshi · class: Class 1-D · status: minor
 
 <!-- walk: y3v2 → start -->
 
-### y3v2 pp.10-263 — Full volume
-
-[scene] (p.10) Appears in this volume.
-
-
 <!-- walk: y3v2 Epilogue → p.263 -->
 
 ## y3v3

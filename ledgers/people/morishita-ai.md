@@ -70,13 +70,31 @@ char_id: morishita-ai · class: Class 2-A · status: unknown
 
 <!-- walk: y3v2 → start -->
 
-### y3v2 pp.10-263 — Full volume
-
-[scene] (p.10) Appears in this volume.
-
-
 <!-- walk: y3v2 Epilogue → p.263 -->
 
+### y3v2 Ch.5 — depth read: Morishita's comic manipulation
+[scene] (p.152) Tugs Ayanokōji's hair from behind and announces Yamamura wants to see him; leads him on a deliberately pointless detour.
+[says] (p.152) "Ayanokouji Kiyotaka. I must ask you to lend me your face."
+[says] (p.152) "It appears Yamamura Miki wishes to see you now."
+[says] (p.155) "You mustn't be so easily swayed and deceived by the words of others."
+[says] (p.159) "Hmph. That's the Ear Gun. All those who're caught unaware are startled, you see."
+[says] (p.159) "How about it, Yamamura Miki? Don't you feel a little less tense now?"
+[says] (p.165) "Trust isn't built in a day."
+[trait] (p.152–165) Eccentric, theatrical and manipulative — plays the straight-man comedy routine, tricks Ayanokōji into touching a "warm" floor and blows in Yamamura's ear, yet her odd methods ease Yamamura's tension.
+[rel:ayanokouji-kiyotaka] (p.152–163) Leads him to Yamamura and claims he owes her.
+[rel:yamamura-miki] (p.158–161) Uses the "Ear Gun" to help her relax.
+[rel:hashimoto-masayoshi] (p.164–165) Sharply rejects him ("Trust isn't built in a day").
+
+### y3v2 Ch.6 — depth read: Morishita's rubber-band gun
+[scene] (p.182) Fires a rubber band at Ayanokōji from a gun made of disposable chopsticks.
+[says] (p.182) "To think you're still alive. You're quite something."
+[says] (p.183) "It is a gun. A gun."
+[says] (p.183) "That's because I'm shooting you with the intent to cause pain."
+[says] (p.184) "A face as hideously distorted as yours, Ayanokouji Kiyotaka, is better—at least it warrants pity."
+[says] (p.184) "For no reason other than I'm simply not interested." — refusing Satonaka's invitation
+[trait] (p.182–184) Eccentric and violent-playful — crafted a "lethal" rubber-band gun during break, targets only Ayanokōji, and teases him about having feelings.
+[rel:ayanokouji-kiyotaka] (p.182–184) Shoots him with rubber bands and needles him.
+[note] (p.183–184) Turns down Satonaka's group invitation bluntly; teases Ayanokōji about having feelings for him.
 ## y3v3
 
 <!-- walk: y3v3 → start -->

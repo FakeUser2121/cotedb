@@ -527,13 +527,31 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 
 <!-- walk: y3v2 → start -->
 
-### y3v2 pp.10-263 — Full volume
-
-[scene] (p.10) Appears in this volume.
-
-
 <!-- walk: y3v2 Epilogue → p.263 -->
 
+### y3v2 Ch.4 — depth read: Hashimoto's intel and Ike's anger
+[scene] (p.127) Intercepts Ayanokōji and Hiyori in the morning; later joins the café discussion.
+[says] (p.128) "'Yo, good mornin'. And mornin' to you too, Shiina."
+[says] (p.128) "Ayanokouji Kiyotaka, you certainly don't discriminate, do you? Are you trying to make a move on Shiina Hiyori, too?"
+[says] (p.132) "I spent all day yesterday looking into the other classes."
+[says] (p.133) "You must have a skilled scout, or maybe you've got a spy planted in there."
+[says] (p.141) "Why're you so bent out of shape about it? It's not like Ayanokouji transferred from C to A."
+[trait] (p.127–145) Eager, gossipy and self-serving — investigates other classes, defends Ayanokōji for his own benefit, and tries to defuse Ike's anger.
+[rel:ayanokouji-kiyotaka] (p.127–145) Confirms his group-chat instructions and probes his sources.
+[rel:shiina-hiyori] (p.127) Unintentionally drives her away by intercepting them.
+[rel:ike-kanji] (p.141–143) Tries to calm him in the café.
+
+### y3v2 Ch.5 — depth read: Hashimoto's declaration of loyalty
+[scene] (p.164) Tracks Ayanokōji and Morishita down at the south entrance by process of elimination.
+[says] (p.164) "Kinda cold, isn't it? Not inviting me to what looks like a pretty important chat."
+[says] (p.165) "Are you making Yamamura your aide, Ayanokouji?"
+[says] (p.166) "Am I really that untrustworthy?"
+[says] (p.166) "I've decided this class can win. The fact that I threw away my Private Points is proof of that."
+[says] (p.166) "I'm gonna keep pestering you anyway."
+[trait] (p.164–167) Persistent and self-aware — knows his classmates distrust him, but has committed fully to Class C, sacrificing his escape funds as proof.
+[rel:ayanokouji-kiyotaka] (p.164–167) Declares his loyalty and reasons for staying.
+[rel:morishita-ai] (p.164–165) Is repeatedly rebuffed by her.
+[rel:yamamura-miki] (p.165) Calls her "Miki-chan," drawing a rebuke.
 ## y3v3
 
 <!-- walk: y3v3 → start -->

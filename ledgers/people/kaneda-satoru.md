@@ -178,13 +178,29 @@ aliases used for anchors: kaneda, kaneda satoru, kaneda-kun
 
 <!-- walk: y3v2 → start -->
 
-### y3v2 pp.10-263 — Full volume
-
-[scene] (p.10) Appears in this volume.
-
-
 <!-- walk: y3v2 Epilogue → p.263 -->
 
+### y3v2 Ch.5 — depth read: Kaneda's early arrival
+[scene] (p.175) Arrives 20 minutes early to the karaoke parlor, hoping to catch Shiina alone.
+[says] (p.175) "T-Thank you for coming today, Shiina-shi."
+[says] (p.176) "I have regular meetings with Ryuuen-shi, so I would appreciate it if you didn't lump us together."
+[says] (p.177) "No, I have not." — reporting Hashimoto has ignored his messages since the transfer
+[trait] (p.175–177) Nervous and reserved around Shiina, sharp with Ishizaki; objectively revises his evaluation of Ayanokōji but rates him below Ryūen/Sakayanagi.
+[rel:shiina-hiyori] (p.175) Arrives early hoping to spend time with her; calls her "Shiina-shi."
+[rel:ryuuen-kakeru] (p.176–177) Reports to him and has regular one-on-one meetings.
+[rel:ishizaki-daichi] (p.176) Is needled by him for arriving early to see Shiina.
+[rel:hashimoto-masayoshi] (p.177) Notes he stopped replying after Ayanokōji's transfer.
+
+### y3v2 Ch.6 — depth read: Kaneda's envy and probe
+[scene] (p.195) Arrives at the library to visit Hiyori; finds Ayanokōji with her and joins their table.
+[says] (p.196) "I'm not very good at such meaningless small talk."
+[says] (p.197) "It was the first time in a long while I'd seen her genuine smile."
+[says] (p.198) "You're the very picture of a hero, are you not? I envy you from the bottom of my heart."
+[says] (p.199) "Even that part of you is so cool it's infuriating, Ayanokouji-shi."
+[says] (p.199) "Then, what if that person were Shiina-shi...?"
+[trait] (p.196–199) Eloquent and passionate but self-deprecating — heaps praise on Ayanokōji while belittling himself, and envies him deeply; dislikes but is fascinated by him.
+[rel:ayanokouji-kiyotaka] (p.196–200) Envies him as a "hero," disparages himself, and probes what if Hiyori hated him; leaves abruptly.
+[rel:shiina-hiyori] (p.195–200) Is a frequent library visitor to see her; has feelings for her and was surprised by her genuine smile.
 ## y3v3
 
 <!-- walk: y3v3 → start -->

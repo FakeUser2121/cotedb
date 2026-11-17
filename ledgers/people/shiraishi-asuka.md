@@ -57,13 +57,48 @@ char_id: shiraishi-asuka · class: unknown · status: unknown
 
 <!-- walk: y3v2 → start -->
 
-### y3v2 pp.10-263 — Full volume
-
-[scene] (p.10) Appears in this volume.
-
-
 <!-- walk: y3v2 Epilogue → p.263 -->
 
+### y3v2 Ch.2 — depth read: Shiraishi digs deeper
+[scene] (p.52) Invites Ayanokōji to lunch; arranges the group and proposes everyone share private-life details.
+[says] (p.52) "If you'd like, would you care to have lunch with me in the cafeteria today?"
+[says] (p.53) "Fufufu. Doesn't that sound interesting? I'm all for it." — on including Kitou
+[says] (p.59) "If you demonstrated your current potential from the very beginning, Ayanokouji-kun, Horikita-san's Class A would have surely earned more Class Points by now."
+[says] (p.63) "You can't truly know someone without seeing their private life."
+[trait] (p.52–63) Cheerful and sociable; orchestrates the group and steers the conversation toward knowing one another.
+[rel:ayanokouji-kiyotaka] (p.52–63) Invites him to lunch, supports him and questions why he hid his ability.
+[rel:nishikawa-ryouko] (p.52–63) Friends with her; calls her by first name.
+[rel:kitou-hayato] (p.53) Approves of including him in the meal.
+
+### y3v2 Ch.4 — depth read: Shiraishi's deliberate mystery
+[scene] (p.127) Is in the elevator with Ayanokōji and walks with him briefly in the morning; interrupts again after school to walk back to school with him.
+[says] (p.129) "Well, I hold our former leader, Sakayanagi-san, in high regard."
+[says] (p.137) "May I ask a small question? You've concluded that the exam is based on our everyday conduct, Ayanokouji-kun, but what would you say the probability of that is?"
+[says] (p.138) "It seems you based your judgment on Mashima-sensei's comment to 'try to act in a way that befits a student,' Ayanokouji-kun, but I feel that alone is insufficient grounds for such a conclusion."
+[says] (p.147) "I thought you were a more reserved person. I must say, that was a bold question."
+[says] (p.148) "There were actually quite a few who, like me, wanted to hold onto hope and believe in you."
+[says] (p.148) "Ahh... that just won't do."
+[says] (p.148) "I'm Shiraishi Asuka."
+[says] (p.148) "And you—who are you?"
+[trait] (p.146–151) Playful and opaque — reintroduces herself as a test, never answers his question about her, deepening rather than resolving the mystery.
+[rel:ayanokouji-kiyotaka] (p.127, 146–151) Walk together; she probes his deduction and then resets their introduction.
+[rel:sakayanagi-arisu] (p.129) Defends her former leader's legacy against Hashimoto.
+[rel:morishita-ai] (p.148) Notes his full-name speech reminds her of Morishita.
+
+### y3v2 Ch.7 — depth read: Shiraishi reveals herself as an observer
+[scene] (p.226) Meets Nanase back-to-back at a quiet restaurant to avoid being seen together.
+[says] (p.227) "How I procured that information is a trade secret."
+[says] (p.229) "That's because I am, strictly speaking, an observer."
+[says] (p.229) "From the very beginning, I was never given any role beyond that."
+[says] (p.229) "Through an ironic twist of fate, he and I ended up in the same class."
+[says] (p.229) "All that is required of us is to spend three years as ordinary students."
+[says] (p.230) "If you wish to know, I suggest you ask your superiors directly. Tsukishiro-san, was it?"
+[feat] (p.229) Reveals she is a White Room "observer" — tasked only to live as an ordinary student for three years; her proximity to Ayanokōji is coincidence she chooses to enjoy.
+[trait] (p.226–230) Calm and strategic — chose the covert meeting setup deliberately, sees through Nanase's probes, and refuses to cooperate while reassuring her selectively.
+[rel:nanase-tsubasa] (p.226–230) Meets her secretly; refuses to provide intelligence, only reassures about Hashimoto/Morishita, and warns of consequences if she is expelled.
+[rel:ayanokouji-kiyotaka] (p.229) Is his classmate and neighbor; enjoys the environment as an observer.
+[rel:tsukishiro] (p.230) Names him as Nanase's superior; does not like him.
+[note] (p.229) Uses Ayanokōji's own line ("trade secret") back on him, per Nanase's recollection.
 ## y3v3
 
 <!-- walk: y3v3 → start -->

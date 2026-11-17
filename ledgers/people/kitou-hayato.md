@@ -224,3 +224,17 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 [rel:sawada-yasumi] (p.231) Is rebuked by Ayanokōji for not protecting her when Ryūen barged into the classroom.
 
 <!-- walk: y3v1 Epilogue → p.287 -->
+
+## y3v2
+
+<!-- walk: y3v2 → start -->
+
+### y3v2 Ch.2 — depth read: Kitou's silent scrutiny
+[scene] (p.54) Joins the lunch group at Ayanokōji's request; sits silently eating curry rice.
+[says] (p.58) "I have no interest in other people's OAA ratings."
+[says] (p.58) "I am interested in the reason why you hid this much ability for two years. And also… why you've started to get serious now."
+[trait] (p.54–64) Silent, blunt and observant — uninterested in others' grades but fixated on why Ayanokōji hid his ability and why he changed; barely participates and leaves early.
+[rel:ayanokouji-kiyotaka] (p.58) Presses him on hiding his ability and getting serious.
+[note] (p.64) He eats without joining the discussion about getting to know one another and departs abruptly.
+
+<!-- walk: y3v2 Ch.2 → p.65 -->

@@ -126,13 +126,46 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 <!-- walk: y3v2 → start -->
 
-### y3v2 pp.10-263 — Full volume
-
-[scene] (p.10) Appears in this volume.
-
-
 <!-- walk: y3v2 Epilogue → p.263 -->
 
+### y3v2 Prologue — depth read: Tsukishiro's offer
+[scene] (p.10) Sits beside the unconscious Matsuo Eiichirou in his hospital room, overwhelmed with regret.
+[says] (p.10) "How did it come to this—"
+[says] (p.10) "If I'd noticed something was wrong with Eiichirou-kun, this wouldn't have happened."
+[says:tsukishiro] (p.10) "I have brought you an opportunity to exact your revenge."
+[says:tsukishiro] (p.11) "Attending ANHS is the only way to get close to your target—"
+[says:tsukishiro] (p.11) "My apologies. My name is Tsukishiro. I've been well acquainted with you and Matsuo-kun sleeping here, since you were children."
+[says:tsukishiro] (p.12) "You must mix lies with the truth."
+[trait] (p.12) Her goal has shifted from revenge — to help Ayanokōji so he won't become a "pure evil" who creates more victims like Eiichirou.
+[rel:tsukishiro] (p.10–12) Is recruited by him to get close to Ayanokōji in exchange for revenge.
+[rel:ayanokouji-kiyotaka] (p.11–12) Is tasked with approaching him as an insignificant being; now wants to save him.
+[rel:ayanokouji-atsuomi] (p.12) Holds him responsible for cornering Eiichirou — the true target of her revenge.
+[note] (p.11) Tsukishiro's mention of "Shirogane-san" proves he knew Nanase since childhood.
+[note] (p.10) Eiichirou is in a vegetative state — a "prolonged disturbance of consciousness."
+
+### y3v2 Ch.3 — depth read: Nanase and the first-year fight
+[scene] (p.85) Works with Horikita in the student council room on the case of first-years Kusanagi and Maki.
+[says] (p.87) "You mean their pride was wounded because they lost a two-on-one fight? It's not out of the question, but would they really be that tight-lipped about it?"
+[says] (p.87) "Of course, Student Council President. But being the president is a lot of work, isn't it? You're amazing, Horikita-senpai."
+[says] (p.88) "No—mediocre. Even so, I think that's fine. A mediocre Horikita-senpai isn't bad at all."
+[says] (p.88) "W-Wha—!? I-I'm so sorry! I think Student Council President Horikita is very admirable!"
+[trait] (p.87–88) Helpful but awkward — blurted out the honest view that being mediocre is fine and panicked, trying to smooth it over.
+[rel:horikita-suzune] (p.85–88) Assists her in the investigation and is asked to help uncover the truth.
+[note] (p.86) The two first-years Kusanagi Minato and Maki Yuuma got into a fight; neither would report it, hinting a third party (possibly a girl) was involved.
+
+### y3v2 Ch.7 — depth read: Nanase works the White Room angle
+[scene] (p.226) Meets Shiraishi back-to-back in a quiet restaurant, having called her out.
+[says] (p.226) "Have I kept you waiting?"
+[says] (p.228) "Why...is that?"
+[says] (p.229) "Then why have you started to close the distance now?"
+[says] (p.229) "I am from that side."
+[says] (p.230) "At least give me some information... Please, just disclose the names of your associates."
+[says] (p.230) "That if I am expelled before Ayanokouji-senpai's fate is decided... things may very well head in a direction that Shirogane-sensei would not desire."
+[trait] (p.226–230) Cautious and probing — arranged a covert meeting, tries to read Shiraishi through emphases and emphasized names, and aligns herself with Tsukishiro's anti-Ayanokōji faction.
+[rel:shiraishi-asuka] (p.226–230) Demands her cooperation/intelligence; is refused, and warns her of consequences if expelled.
+[rel:tsukishiro] (p.230) Reveals she is aligned with his faction ("that side"/"superiors").
+[rel:ayanokouji-kiyotaka] (p.226–230) Is working against him; refers to him as "Ayanokouji-senpai."
+[note] (p.230) Cites "Shirogane-sensei" in her warning — a name tied to her past (not on the roster).
 ## y2v2
 
 <!-- walk: y2v2 → start -->
