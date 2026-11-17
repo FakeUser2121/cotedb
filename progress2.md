@@ -2983,3 +2983,19 @@ touched: `ledgers/volumes/y1v11.5.md`,
 `ledgers/people/kanzaki-ryuuji.md`. `verify --vol y1v11.5`: ALL PASS;
 `build`/`gate`/`make check` OK; hash stable
 `868ed83c02b68ae5db926b854d8de3ea`. Next: y1v11.5 ch4 pp.237–295.
+
+### y1v11.5 Ch.4 — walked, shipped
+
+Chapter 4 "From a Brother to a Sister" (pp.237–295). On March 31,
+Ayanokōji meets Horikita Manabu at the main entrance before his
+departure; they discuss the school, Nagumo, and Ayanokōji’s future.
+Horikita Suzune arrives late with short hair, reconciles with her brother,
+and sees him off after he promises to wait for her two years later.
+Afterward Ayanokōji stays with Suzune as she breaks down, then they
+discuss the written-exam wager/student council request and Kushida.
+Ayanokōji reflects on Manabu’s parting words. Ledgers touched:
+`ledgers/volumes/y1v11.5.md`, `ledgers/people/ayanokouji-kiyotaka.md`,
+`ledgers/people/horikita-manabu.md`,
+`ledgers/people/horikita-suzune.md`. `verify --vol y1v11.5`: ALL PASS;
+`build`/`gate`/`make check` OK; hash stable
+`28e7a1f600026c6322c783cf4b17b2aa`. Next: y1v11.5 ch5 pp.296–351.

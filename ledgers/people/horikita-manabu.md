@@ -720,3 +720,23 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [rel:ayanokouji-kiyotaka] (p.25–28, 94–98) Is observed by Ayanokōji during the ceremony and farewells.
 
 <!-- walk: y1v11.5 ch1 → p.120 -->
+
+### y1v11.5 pp.237–270 — Ch.4: Departure and farewell to Suzune
+
+[scene] (p.237) On March 31, Horikita Manabu arrives at the school’s main entrance to depart, meeting Ayanokōji while waiting for Suzune.
+[scene] (p.239) He declines to call Suzune when she has not arrived, saying he does not want to interfere with her choices.
+[scene] (p.241) Manabu talks with Ayanokōji about the school’s system, the balance between classes, and Nagumo’s push toward a meritocracy.
+[scene] (p.250) Even after noon passes, he waits briefly but remains prepared to leave if Suzune does not come.
+[scene] (p.252) Manabu asks Ayanokōji why he hides his abilities and urges him to leave a lasting impression at the school.
+[scene] (p.257) He entrusts Suzune to Ayanokōji, shakes his hand, and prepares to depart.
+[scene] (p.259) Manabu stops when Suzune arrives late and calls out to him.
+[scene] (p.262) Seeing Suzune with short hair, he says she has returned to her former self.
+[scene] (p.263) Manabu asks how she will live going forward and listens as Suzune says she will walk her own path and lead her classmates.
+[scene] (p.265) He explains that he pushed Suzune away because he believed in her potential and did not want her to stop at chasing him.
+[scene] (p.266) Manabu embraces Suzune and apologizes for lying in the past about preferring her long hair.
+[scene] (p.269) He shares a final gentle moment with Suzune and accepts her forgiveness.
+[scene] (p.270) Manabu tells Suzune he will wait for her outside the main entrance two years later, bids farewell, and leaves the school.
+[rel:ayanokouji-kiyotaka] (p.237–270) Talks with him before departure and entrusts Suzune to him.
+[rel:horikita-suzune] (p.259–270) Reunites with her, reconciles, and gives her a final farewell.
+
+<!-- walk: y1v11.5 ch4 → p.295 -->

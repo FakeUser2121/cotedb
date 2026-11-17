@@ -5117,3 +5117,27 @@ walk: y1v1 → DONE
 [rel:ryuuen-kakeru] (p.153, 206–214) Infers his return and later meets him at the mall.
 
 <!-- walk: y1v11.5 ch3 → p.236 -->
+
+### y1v11.5 pp.237–295 — Ch.4: From a Brother to a Sister
+
+[scene] (p.237) On March 31, Ayanokōji arrives early at the school’s main entrance to see Horikita Manabu off.
+[scene] (p.238) Manabu arrives before noon; Suzune has not yet appeared.
+[scene] (p.240) While waiting, Ayanokōji and Manabu talk about the past year, the student council, and Nagumo’s influence.
+[scene] (p.241) Manabu discusses the school’s class system and the chances for lower classes, and they consider Nagumo’s meritocratic ideas.
+[scene] (p.250) As noon passes, Manabu decides not to call Suzune and prepares to leave on schedule.
+[scene] (p.252) Manabu asks Ayanokōji why he hides his abilities and advises him to leave something behind at the school.
+[scene] (p.259) Suzune arrives late and calls out to her brother as he is about to depart.
+[scene] (p.261) Ayanokōji observes Suzune’s changed appearance with short hair and watches the siblings reunite.
+[scene] (p.262) Manabu tells Suzune she has returned to her former self; Suzune says she will no longer chase his shadow and will find her own path.
+[scene] (p.265) Ayanokōji listens as Manabu explains why he pushed Suzune away and acknowledges her potential.
+[scene] (p.266) The siblings share a final embrace and farewell; Manabu apologizes for lying about preferring her long hair.
+[scene] (p.270) Manabu tells Suzune he will wait for her outside the main entrance two years later and departs.
+[scene] (p.273) After the farewell, Ayanokōji walks back with Suzune and asks about her decision to cut her hair.
+[scene] (p.277) When Suzune tries to leave alone, Ayanokōji stays with her as she breaks down in tears over parting from her brother.
+[scene] (p.284) After she recovers, Ayanokōji proposes that if he wins their written-exam contest, Suzune will join the student council.
+[scene] (p.289) He tells Suzune about his contract with Kushida and says he will leave decisions about Kushida to her.
+[scene] (p.294) After parting from Suzune, Ayanokōji reflects on Manabu’s words and his own future at the school.
+[rel:horikita-manabu] (p.237–270, 294–295) Sees him off, talks with him, and reflects on his parting words.
+[rel:horikita-suzune] (p.237–293) Waits with her for Manabu, witnesses their farewell, and talks with her afterward.
+
+<!-- walk: y1v11.5 ch4 → p.295 -->

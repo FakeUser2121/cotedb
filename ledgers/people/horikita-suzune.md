@@ -3277,3 +3277,24 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ichinose-honami] (p.162–190) Participates in the discussion with her about their classes.
 
 <!-- walk: y1v11.5 ch3 → p.236 -->
+
+### y1v11.5 pp.259–293 — Ch.4: Farewell and aftermath
+
+[scene] (p.259) Suzune arrives late to the main entrance as her brother is about to leave and calls out to him.
+[says] (p.259) “Brother——!”
+[scene] (p.260) She apologizes for her lateness, having arrived with her hair cut short.
+[says] (p.260) “I’m sorry, I’m late…!”
+[scene] (p.262) Suzune tells Manabu she is no longer the person who only followed his shadow.
+[scene] (p.263) She says she will find her own path and, for her classmates, walk ahead of them while learning together.
+[scene] (p.266) Suzune embraces her brother during their farewell and listens as he explains his past actions and apologizes for lying about her hair.
+[scene] (p.270) She promises to do her best until the end and watches Manabu depart.
+[scene] (p.273) Afterward, Suzune tells Ayanokōji she cut her hair that morning in a last-minute decision.
+[scene] (p.277) Once alone with Ayanokōji, Suzune breaks down and cries over parting from her brother again.
+[scene] (p.285) After recovering, Suzune reflects on how she acted and regains her composure.
+[scene] (p.287) She agrees to Ayanokōji’s condition that she join the student council if she loses their written-exam contest.
+[scene] (p.289) Suzune listens to Ayanokōji’s explanation about his contract with Kushida and states her position on expulsion and class decisions.
+[scene] (p.293) She parts from Ayanokōji and heads back toward the dormitory.
+[rel:horikita-manabu] (p.259–270) Reunites with him, reconciles, and sees him off at his departure.
+[rel:ayanokouji-kiyotaka] (p.273–293) Talks with him after the farewell and discusses the exam wager and Kushida.
+
+<!-- walk: y1v11.5 ch4 → p.295 -->
