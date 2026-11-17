@@ -781,3 +781,17 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [says] (p.228) “I’ve spent these last three years thinking about nothing but school, for better or for worse.”
 [rel:ayanokouji-kiyotaka] (p.217–229) Talks with him about Suzune and graduation.
 [rel:tachibana-akane] (p.227–229) Is asked about her; she listens in.
+
+## y2v12.5
+
+<!-- walk: y2v12.5 → start -->
+
+### y2v12.5 pp.213-216 — Epilogue
+
+[scene] (p.213-216) Mentioned/appears in Epilogue.
+[rel:ayanokouji-kiyotaka] (pp.213-216) Appears in this volume.
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->
+
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->

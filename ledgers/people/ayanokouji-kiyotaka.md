@@ -5298,3 +5298,114 @@ walk: y1v1 → DONE
 
 
 <!-- walk: y2v1 ch2 → p.65 -->
+
+### y2v1 pp.66–141 — Ch.3: Observing and strategizing
+
+[scene] (p.66) Observes the meet-and-greet and Ichinose’s strategy.
+[scene] (p.75) Watches Ryūen and Hōsen confront each other.
+[scene] (p.85) Notes Hōsen’s strength and Nanase’s control over him.
+[scene] (p.100) Watches Yagami greet Kushida.
+[scene] (p.107) Negotiates with Class 1-D students at Keyaki Mall.
+[scene] (p.118) Agrees with Horikita’s three goals.
+[scene] (p.126) Is asked to cook for Amasawa’s test.
+[scene] (p.137) Agrees to cook for Amasawa tomorrow.
+[rel:horikita-suzune] (p.66–141) Strategizes with her.
+[rel:housen-kazuomi] (p.82–95) Observes his confrontation.
+[rel:amasawa-ichika] (p.120–141) Is set up for her cooking test.
+
+
+<!-- walk: y2v1 ch3 → p.141 -->
+
+### y2v1 pp.142–193 — Ch.4: White Room threat and Amasawa test
+
+[scene] (p.142) Reflects on the White Room enforcer threat.
+[scene] (p.148) Is approached by Nanase on the way to school.
+[scene] (p.150) Discusses cooperation with Nanase.
+[scene] (p.156) Reports to Horikita and discusses Class 1-D strategy.
+[scene] (p.160) Cooks tom yum goong for Amasawa using a wireless earpiece.
+[scene] (p.181) Learns Amasawa will partner with Sudō.
+[scene] (p.191) Reflects on Amasawa and the White Room threat.
+[rel:nanase-tsubasa] (p.148–155) Is approached by her.
+[rel:horikita-suzune] (p.156–162) Discusses strategy with her.
+[rel:amasawa-ichika] (p.160–189) Cooks for her test.
+
+
+<!-- walk: y2v1 ch4 → p.203 -->
+
+### y2v1 pp.204–269 — Ch.5: Nanase, Amasawa, and partners
+
+[scene] (p.204) Meets Nanase in the library.
+[scene] (p.234) Is tested by Nanase.
+[scene] (p.242) Learns Class 1-D has 800 class points.
+[scene] (p.256) Reflects on partner odds and White Room threat.
+[scene] (p.259) Meets Sakayanagi at Keyaki Mall.
+[scene] (p.268) Meets Tsubaki and Utomiya.
+[scene] (p.274) Declines their offer but keeps contact.
+[rel:nanase-tsubasa] (p.204–242) Meets her in the library.
+[rel:sakayanagi-arisu] (p.259–261) Speaks with her.
+[rel:tsubaki-sakurako] (p.268–275) Meets her.
+[rel:utomiya-riku] (p.268–275) Meets him.
+
+
+<!-- walk: y2v1 ch5 → p.285 -->
+
+### y2v1 pp.286–343 — Ch.6: Self-stabbing and conditions
+
+[scene] (p.318) Lets the knife pierce his palm to expose Hōsen’s plan.
+[scene] (p.325) Explains Hōsen’s framing plan.
+[scene] (p.329) Imposes two conditions: equal cooperation and partnership.
+[scene] (p.333) Calls Chabashira for help.
+[scene] (p.334) Learns about the 20-million-point bounty.
+[rel:housen-kazuomi] (p.290–331) Confronts him.
+[rel:horikita-suzune] (p.286–343) Negotiates with him.
+[rel:sudou-ken] (p.286–343) Protects Horikita with him.
+[rel:nanase-tsubasa] (p.333–335) Hears her explanation.
+
+
+<!-- walk: y2v1 ch6 → p.343 -->
+
+### y2v1 pp.344–357 — Epilogue: Perfect score and Tsukishiro
+
+[scene] (p.344) Scores a perfect 100 in math.
+[scene] (p.347) Explains he deliberately showed his ability.
+[scene] (p.349) Is interrupted by Chabashira.
+[scene] (p.352) Meets Tsukishiro and learns the enforcer disobeyed orders.
+[scene] (p.355) Is warned the enforcer is acting independently.
+[rel:chabashira-sae] (p.349–352) Is called by her.
+[rel:tsukishiro] (p.352–357) Meets him and learns the truth.
+
+
+<!-- walk: y2v1 Epilogue → p.369 -->
+
+## y2v12.5
+
+<!-- walk: y2v12.5 → start -->
+
+### y2v12.5 pp.11–216 — Ch.1–Epilogue: Full volume
+
+[scene] (p.11) Horikita explains the end-of-year special exam to the class.
+[scene] (p.14) Reveals Maezono leaked his role as general.
+[scene] (p.33) Meets Sakayanagi and Ryūen; Sakayanagi reveals Ayanokōji's message.
+[scene] (p.43) Meets Morishita and Yamamura; learns Class A's state.
+[scene] (p.54) Meets Matsushita, Mii-chan, Onodera at Keyaki Mall.
+[scene] (p.58) Meets Hoshinomiya at a café; she proposes he concede victory.
+[scene] (p.77) Breaks up with Karuizawa Kei.
+[scene] (p.80) Date at cinema with Kei; Ibuki appears.
+[scene] (p.93) Meets Sakayanagi at her farewell; she makes two requests.
+[scene] (p.107) Three-way meeting with Atsuomi; Atsuomi meets Kōenji's father and Kijima.
+[scene] (p.139) Reflects on breakup; Horikita visits.
+[scene] (p.148) Meets Ishizaki and Hiyori; Ishizaki recruits him to Ryūen's class.
+[scene] (p.163) Meets Ichinose at night; proposes kaishaku; she reveals her plan.
+[scene] (p.192) Victory celebration; Horikita asks about his goal.
+[scene] (p.200) Transfers to Class 2-A.
+[rel:sakayanagi-arisu] (p.33, 93–99) Meets her farewell.
+[rel:ryuuen-kakeru] (p.31–42) Meets him.
+[rel:karuizawa-kei] (p.77–91) Breaks up with her.
+[rel:horikita-suzune] (p.11–20, 139–147, 192–199) Discusses exam and goals.
+[rel:ichinose-honami] (p.148–176) Meets her at night.
+[rel:tsukishiro] (p.107–118, 137–138) Meets Atsuomi.
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->
+
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->

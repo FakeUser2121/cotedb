@@ -1334,3 +1334,42 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:ayanokouji-kiyotaka] (p.20) Is his girlfriend.
 
 <!-- walk: y2v1 ch2 → p.65 -->
+
+### y2v1 pp.222–285 — Ch.5: Studying and Satō
+
+[scene] (p.222) Calls Ayanokōji and he tutors her.
+[scene] (p.245) Studies with him; finds a red hair.
+[scene] (p.247) Confronts him about the hair.
+[scene] (p.250) Meets Amasawa in his room.
+[scene] (p.270) Meets Satō at Keyaki Mall.
+[scene] (p.276) Confesses her relationship with Ayanokōji to Satō.
+[scene] (p.277) Is slapped by Satō but they reconcile.
+[rel:ayanokouji-kiyotaka] (p.222–254) Is tutored by him.
+[rel:amasawa-ichika] (p.250–254) Meets her.
+[rel:satou-maya] (p.270–279) Confesses to her.
+
+
+<!-- walk: y2v1 ch5 → p.285 -->
+
+### y2v1 pp.362–363 — Short Story: A Time for Them Alone
+
+[scene] (p.362) Reflects on Ayanokōji’s 400-point boast.
+[scene] (p.363) Studies with him side by side.
+[rel:ayanokouji-kiyotaka] (p.362–363) Studies with him.
+
+
+<!-- walk: y2v1 Epilogue → p.369 -->
+
+## y2v12.5
+
+<!-- walk: y2v12.5 → start -->
+
+### y2v12.5 pp.77-92 — Ch.5
+
+[scene] (p.77-92) Mentioned/appears in Ch.5.
+[rel:ayanokouji-kiyotaka] (pp.77-92) Appears in this volume.
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->
+
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->

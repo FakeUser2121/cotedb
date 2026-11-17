@@ -1039,3 +1039,17 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:chabashira-sae] (p.27, 34, 47) Questions her about the exam.
 
 <!-- walk: y2v1 ch2 → p.65 -->
+
+## y2v12.5
+
+<!-- walk: y2v12.5 → start -->
+
+### y2v12.5 pp.11-23, 192-196 — Ch.1, Ch.10
+
+[scene] (p.11-23) Mentioned/appears in Ch.1, Ch.10.
+[rel:ayanokouji-kiyotaka] (pp.11-23, 192-196) Appears in this volume.
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->
+
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->

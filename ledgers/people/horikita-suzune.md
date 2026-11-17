@@ -3401,3 +3401,93 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:sudou-ken] (p.50, 53–54) Manages his situation.
 
 <!-- walk: y2v1 ch2 → p.65 -->
+
+### y2v1 pp.66–124, 125–141 — Ch.3: Meet-and-greet and Class 1-D
+
+[scene] (p.68) Observes Ichinose’s meet-and-greet and calls her approach dazzling.
+[scene] (p.71) Leaves the meet-and-greet to target first-years who did not attend.
+[scene] (p.75) Confronts Ryūen in the Class 1-D hallway.
+[scene] (p.82) Confronts Hōsen Kazuomi and denies Class D is inferior.
+[scene] (p.88) Warns Hōsen that evidence would be reported.
+[scene] (p.107) Negotiates with Class 1-D students at Keyaki Mall.
+[scene] (p.114) Learns Class 1-D was approached by Hashimoto and Ryūen.
+[scene] (p.116) Sets three goals: no expulsions, third place or higher, no monetary exchanges.
+[scene] (p.120) Meets Amasawa Ichika on the stairs.
+[scene] (p.126) Agrees to Amasawa’s cooking condition to secure Sudō a partner.
+[scene] (p.134) Rejects Amasawa’s same-day request and sets tomorrow after school.
+[rel:ayanokouji-kiyotaka] (p.66–141) Strategizes with him throughout.
+[rel:sudou-ken] (p.66–141) Manages his partner search.
+[rel:ryuuen-kakeru] (p.75–81) Confronts him at Class 1-D.
+[rel:housen-kazuomi] (p.82–95) Confronts him in the hallway.
+[rel:amasawa-ichika] (p.120–141) Negotiates with her.
+
+
+<!-- walk: y2v1 ch3 → p.141 -->
+
+### y2v1 pp.150–162, 190 — Ch.4: Strategy and Amasawa
+
+[scene] (p.150) Discusses Class 1-D cooperation with Ayanokōji.
+[scene] (p.156) Sets three goals and a fake money game plan.
+[scene] (p.160) Discusses Hirata’s report on Class A and C.
+[scene] (p.190) Calls Ayanokōji calculated.
+[rel:ayanokouji-kiyotaka] (p.150–190) Strategizes with him.
+
+
+<!-- walk: y2v1 ch4 → p.203 -->
+
+### y2v1 pp.204–233 — Ch.5: Library meeting with Nanase
+
+[scene] (p.204) Meets Nanase in the library.
+[scene] (p.208) Rejects Nanase’s leadership proposal.
+[scene] (p.211) Discusses Class 1-D’s situation.
+[scene] (p.228) Considers Nanase’s secret negotiation proposal.
+[scene] (p.233) Agrees to meet Hōsen on Sunday.
+[rel:nanase-tsubasa] (p.204–233) Negotiates with her.
+[rel:ayanokouji-kiyotaka] (p.204–233) Strategizes with him.
+
+
+<!-- walk: y2v1 ch5 → p.285 -->
+
+### y2v1 pp.286–343 — Ch.6: Karaoke negotiation with Hōsen
+
+[scene] (p.287) Arrives early at the karaoke room with Sudō and Ayanokōji.
+[scene] (p.290) Confronts Hōsen and proposes equality.
+[scene] (p.292) Refuses to pay points.
+[scene] (p.294) Is splashed with water by Hōsen.
+[scene] (p.298) Is slapped by Hōsen.
+[scene] (p.300) Is threatened with a knife.
+[scene] (p.305) Refuses to pay two million points.
+[scene] (p.307) Calls off negotiations.
+[scene] (p.314) Tries to stop Hōsen but is slapped.
+[scene] (p.318) Is saved by Ayanokōji’s self-stabbing.
+[scene] (p.333) Is calmed after the incident.
+[rel:ayanokouji-kiyotaka] (p.286–343) Negotiates with Hōsen together.
+[rel:sudou-ken] (p.286–343) Accompanies her.
+[rel:housen-kazuomi] (p.290–331) Confronts him.
+[rel:nanase-tsubasa] (p.290–333) Negotiates with her mediation.
+
+
+<!-- walk: y2v1 ch6 → p.343 -->
+
+### y2v1 pp.344–349 — Epilogue: Exam results and bet
+
+[scene] (p.344) Is told Ayanokōji scored a perfect 100 in math.
+[scene] (p.349) Admits defeat in their bet.
+[rel:ayanokouji-kiyotaka] (p.344–349) Loses the competition to him.
+
+
+<!-- walk: y2v1 Epilogue → p.369 -->
+
+## y2v12.5
+
+<!-- walk: y2v12.5 → start -->
+
+### y2v12.5 pp.11-20, 139-199 — Ch.1-10, Epilogue
+
+[scene] (p.11-20) Mentioned/appears in Ch.1-10, Epilogue.
+[rel:ayanokouji-kiyotaka] (pp.11-20, 139-199) Appears in this volume.
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->
+
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->

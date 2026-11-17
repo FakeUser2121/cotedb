@@ -277,3 +277,41 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [rel:ishizaki-daichi] (p.383–386) Waits with him.
 [rel:ibuki-mio] (p.383–386) Waits with her.
 [rel:ryuuen-kakeru] (p.383–386) Invites him.
+
+## y2v1
+
+<!-- walk: y2v1 → start -->
+
+### y2v1 pp.206, 226 — Ch.5: Library
+
+[scene] (p.206) Greets Horikita and Ayanokōji at the library.
+[scene] (p.226) Reserves seats for them.
+[rel:ayanokouji-kiyotaka] (p.206, 226) Helps them.
+
+<!-- walk: y2v1 ch5 → p.285 -->
+
+
+<!-- walk: y2v1 ch5 → p.285 -->
+
+### y2v1 pp.206, 226 — Epilogue: Library
+
+[scene] (p.206) Greets Horikita and Ayanokōji at the library.
+[scene] (p.226) Reserves seats for them.
+[rel:ayanokouji-kiyotaka] (p.206, 226) Helps them.
+
+
+<!-- walk: y2v1 Epilogue → p.369 -->
+
+## y2v12.5
+
+<!-- walk: y2v12.5 → start -->
+
+### y2v12.5 pp.148-157 — Ch.9
+
+[scene] (p.148-157) Mentioned/appears in Ch.9.
+[rel:ayanokouji-kiyotaka] (pp.148-157) Appears in this volume.
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->
+
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->

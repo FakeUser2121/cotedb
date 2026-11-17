@@ -23,3 +23,32 @@ char_id: miyamoto-soshi · class: Class 1-D · status: minor
 [rel:horikita-suzune] (p.237) Answers her question about experience with Go.
 
 <!-- walk: y1v11 ch6 → p.280 -->
+
+## y2v1
+
+<!-- walk: y2v1 → start -->
+
+### y2v1 pp.221 — Epilogue: Mention
+
+[scene] (p.221) Mentioned as a talented student.
+
+<!-- walk: y2v1 Epilogue → p.369 -->
+
+## y2v12.5
+
+<!-- walk: y2v12.5 → start -->
+
+### y2v12.5 pp.54-57 — Ch.4
+
+[scene] (p.54-57) Mentioned/appears in Ch.4.
+[rel:ayanokouji-kiyotaka] (pp.54-57) Appears in this volume.
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->
+
+### y2v12.5 pp.54-57 — Ch.4
+
+[scene] (p.54-57) Mentioned/appears in Ch.4.
+[rel:ayanokouji-kiyotaka] (pp.54-57) Appears in this volume.
+
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->

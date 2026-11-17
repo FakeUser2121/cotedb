@@ -489,3 +489,17 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [scene] (p.259) Warns her about his deadline before transferring the points.
 [says] (p.259) “Be careful. I’m a man who’s fussy about keeping deadlines.”
 [rel:ichinose-honami] (p.257–259) Confirms the conditions and pressures her to decide.
+
+## y2v12.5
+
+<!-- walk: y2v12.5 → start -->
+
+### y2v12.5 pp.213-216 — Epilogue
+
+[scene] (p.213-216) Mentioned/appears in Epilogue.
+[rel:ayanokouji-kiyotaka] (pp.213-216) Appears in this volume.
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->
+
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->

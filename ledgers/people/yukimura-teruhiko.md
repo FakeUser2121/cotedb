@@ -804,3 +804,52 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [rel:horikita-suzune] (p.238–244) Urges her to collect intel.
 [rel:katsuragi-kouhei] (p.271–280) Negotiates with him for information.
 [rel:ayanokouji-kiyotaka] (p.240–244, 271–280) Works with him on the plan.
+
+## y2v1
+
+<!-- walk: y2v1 → start -->
+
+### y2v1 pp.101–104 — Ch.3: Hōsen’s reputation
+
+[scene] (p.101) Listens to Miyake’s account of Hōsen.
+[rel:ayanokouji-kiyotaka] (p.101–104) Discusses him with the group.
+
+<!-- walk: y2v1 ch3 → p.141 -->
+
+### y2v1 pp.101–104 — Ch.4: Hōsen’s reputation
+
+[scene] (p.101) Listens to Miyake’s account of Hōsen.
+[rel:ayanokouji-kiyotaka] (p.101–104) Discusses him with the group.
+
+
+<!-- walk: y2v1 ch4 → p.203 -->
+
+### y2v1 pp.101–104 — Ch.5: Hōsen’s reputation
+
+[scene] (p.101) Listens to Miyake’s account.
+[rel:ayanokouji-kiyotaka] (p.101–104) Discusses him.
+
+
+<!-- walk: y2v1 ch5 → p.285 -->
+
+### y2v1 pp.101–104 — Epilogue: Hōsen’s reputation
+
+[scene] (p.101) Listens to Miyake’s account.
+[rel:ayanokouji-kiyotaka] (p.101–104) Discusses him.
+
+
+<!-- walk: y2v1 Epilogue → p.369 -->
+
+## y2v12.5
+
+<!-- walk: y2v12.5 → start -->
+
+### y2v12.5 pp.192-196 — Ch.10
+
+[scene] (p.192-196) Mentioned/appears in Ch.10.
+[rel:ayanokouji-kiyotaka] (pp.192-196) Appears in this volume.
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->
+
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->

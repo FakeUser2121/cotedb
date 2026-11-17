@@ -1591,3 +1591,45 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:chabashira-sae] (p.32) Questions her about the app.
 
 <!-- walk: y2v1 ch2 → p.65 -->
+
+### y2v1 pp.163 — Ch.4: Reporting buyouts
+
+[scene] (p.163) Reports that Class A and C are buying first-years with points.
+[rel:horikita-suzune] (p.163) Reports to her.
+
+
+<!-- walk: y2v1 ch4 → p.203 -->
+
+### y2v1 pp.163, 165, 227 — Ch.5: Reporting and study sessions
+
+[scene] (p.163) Reports Class A and C buyouts.
+[scene] (p.165) Is praised for reliability.
+[scene] (p.227) Holds study sessions.
+[rel:horikita-suzune] (p.163, 227) Reports to her.
+
+
+<!-- walk: y2v1 ch5 → p.285 -->
+
+### y2v1 pp.163, 165, 227 — Epilogue: Reporting and study sessions
+
+[scene] (p.163) Reports Class A and C buyouts.
+[scene] (p.165) Is praised for reliability.
+[scene] (p.227) Holds study sessions.
+[rel:horikita-suzune] (p.163, 227) Reports to her.
+
+
+<!-- walk: y2v1 Epilogue → p.369 -->
+
+## y2v12.5
+
+<!-- walk: y2v12.5 → start -->
+
+### y2v12.5 pp.192-196 — Ch.10
+
+[scene] (p.192-196) Mentioned/appears in Ch.10.
+[rel:ayanokouji-kiyotaka] (pp.192-196) Appears in this volume.
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->
+
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->

@@ -139,3 +139,17 @@ char_id: wang-mei-yu · status: minor
 [says] (p.284) “No it’s not! I... I have faith that you can still go back to the way you used to be!”
 [rel:hirata-yousuke] (p.283–292) Follows and tries to reach him.
 [rel:kouenji-rokusuke] (p.289–292) Is carried by him.
+
+## y2v12.5
+
+<!-- walk: y2v12.5 → start -->
+
+### y2v12.5 pp.54-57 — Ch.4
+
+[scene] (p.54-57) Mentioned/appears in Ch.4.
+[rel:ayanokouji-kiyotaka] (pp.54-57) Appears in this volume.
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->
+
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->

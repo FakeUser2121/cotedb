@@ -219,3 +219,27 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 [rel:ayanokouji-kiyotaka] (p.379–380) Is headed to a meeting that involves him.
 
 <!-- walk: y1v11.5 ch7 → p.423 -->
+
+## y2v1
+
+<!-- walk: y2v1 → start -->
+
+### y2v1 pp.344 — Epilogue: Mention
+
+[scene] (p.344) Mentioned in passing.
+
+<!-- walk: y2v1 Epilogue → p.369 -->
+
+## y2v12.5
+
+<!-- walk: y2v12.5 → start -->
+
+### y2v12.5 pp.65-76, 194-203 — Ch.4, Ch.9
+
+[scene] (p.65-76) Mentioned/appears in Ch.4, Ch.9.
+[rel:ayanokouji-kiyotaka] (pp.65-76, 194-203) Appears in this volume.
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->
+
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->

@@ -1526,3 +1526,58 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:horikita-suzune] (p.21, 23–24) Reacts to her new look.
 
 <!-- walk: y2v1 ch2 → p.65 -->
+
+### y2v1 pp.102–107 — Ch.3: Meeting Yagami
+
+[scene] (p.102) Is greeted by Yagami as a former middle-school acquaintance.
+[scene] (p.103) Is offered a partnership by Yagami.
+[scene] (p.106) Puts his offer on hold.
+[rel:yagami-takuya] (p.102–107) Is approached by him.
+
+
+<!-- walk: y2v1 ch3 → p.141 -->
+
+### y2v1 pp.102–107, 155, 163 — Ch.4: Yagami and negotiations
+
+[scene] (p.102) Is greeted by Yagami as a former acquaintance.
+[scene] (p.103) Is offered a partnership by Yagami.
+[scene] (p.106) Puts his offer on hold.
+[scene] (p.155) Is mentioned as having partnered with Yagami.
+[scene] (p.163) Hirata reports on Class A and C’s buyouts.
+[rel:yagami-takuya] (p.102–107) Is approached by him.
+[rel:hirata-yousuke] (p.163) Reports through him.
+
+
+<!-- walk: y2v1 ch4 → p.203 -->
+
+### y2v1 pp.221, 227 — Ch.5: Partner status
+
+[scene] (p.221) Partners with Yagami.
+[scene] (p.227) Helps Kushida introduce first-years.
+[rel:yagami-takuya] (p.221, 227) Partners with him.
+
+
+<!-- walk: y2v1 ch5 → p.285 -->
+
+### y2v1 pp.221, 227 — Epilogue: Partner status
+
+[scene] (p.221) Partners with Yagami.
+[scene] (p.227) Helps Kushida introduce first-years.
+[rel:yagami-takuya] (p.221, 227) Partners with him.
+
+
+<!-- walk: y2v1 Epilogue → p.369 -->
+
+## y2v12.5
+
+<!-- walk: y2v12.5 → start -->
+
+### y2v12.5 pp.11-25 — Ch.1
+
+[scene] (p.11-25) Mentioned/appears in Ch.1.
+[rel:ayanokouji-kiyotaka] (pp.11-25) Appears in this volume.
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->
+
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->

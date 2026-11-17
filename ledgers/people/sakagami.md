@@ -169,3 +169,27 @@ aliases used for anchors: sakagami, sakagami-sensei
 [scene] (p.431) Says the students are done for the day.
 [says] (p.431) “No, you’re done for today. You’re free to go straight home if you want.”
 [rel:hoshinomiya-chie] (p.431) Cleans up with her.
+
+## y2v1
+
+<!-- walk: y2v1 → start -->
+
+### y2v1 pp.344 — Epilogue: Mention
+
+[scene] (p.344) Mentioned in passing.
+
+<!-- walk: y2v1 Epilogue → p.369 -->
+
+## y2v12.5
+
+<!-- walk: y2v12.5 → start -->
+
+### y2v12.5 pp.65-76, 194-203 — Ch.4, Ch.9
+
+[scene] (p.65-76) Mentioned/appears in Ch.4, Ch.9.
+[rel:ayanokouji-kiyotaka] (pp.65-76, 194-203) Appears in this volume.
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->
+
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->

@@ -688,3 +688,29 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [says] (p.293) “His existence is like a fly, that is, absolutely irritating.”
 [rel:hirata-yousuke] (p.286–293) Provokes and carries Mii-chan away.
 [rel:wang-mei-yu] (p.289–292) Picks her up.
+
+## y2v1
+
+<!-- walk: y2v1 → start -->
+
+### y2v1 pp.221–224 — Epilogue: Refusing to cooperate
+
+[scene] (p.221) Refuses to find a partner.
+[scene] (p.223) Says he doesn't need to do anything.
+[rel:horikita-suzune] (p.221–224) Refuses her request.
+
+<!-- walk: y2v1 Epilogue → p.369 -->
+
+## y2v12.5
+
+<!-- walk: y2v12.5 → start -->
+
+### y2v12.5 pp.11-23 — Ch.1
+
+[scene] (p.11-23) Mentioned/appears in Ch.1.
+[rel:ayanokouji-kiyotaka] (pp.11-23) Appears in this volume.
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->
+
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->

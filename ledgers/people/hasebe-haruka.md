@@ -450,3 +450,56 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [scene] (p.188) Stops Keisei when she spots Ike and Shinohara.
 [says] (p.188) “Hey, hey, Stop!”
 [rel:ayanokouji-kiyotaka] (p.170, 184, 188) Eats lunch and eavesdrops with him.
+
+## y2v1
+
+<!-- walk: y2v1 → start -->
+
+### y2v1 pp.101–104 — Ch.3: Hōsen’s reputation
+
+[scene] (p.101) Reacts to Hōsen’s intimidating presence.
+[scene] (p.103) Calls Hōsen spooky.
+[rel:ayanokouji-kiyotaka] (p.101–104) Discusses him with Miyake.
+
+<!-- walk: y2v1 ch3 → p.141 -->
+
+### y2v1 pp.101–104 — Ch.4: Hōsen’s reputation
+
+[scene] (p.101) Reacts to Hōsen’s intimidating presence.
+[scene] (p.103) Calls Hōsen spooky.
+[rel:ayanokouji-kiyotaka] (p.101–104) Discusses him with Miyake.
+
+
+<!-- walk: y2v1 ch4 → p.203 -->
+
+### y2v1 pp.101–104 — Ch.5: Hōsen’s reputation
+
+[scene] (p.101) Reacts to Hōsen.
+[scene] (p.103) Calls Hōsen spooky.
+[rel:ayanokouji-kiyotaka] (p.101–104) Discusses him.
+
+
+<!-- walk: y2v1 ch5 → p.285 -->
+
+### y2v1 pp.101–104 — Epilogue: Hōsen’s reputation
+
+[scene] (p.101) Reacts to Hōsen.
+[scene] (p.103) Calls Hōsen spooky.
+[rel:ayanokouji-kiyotaka] (p.101–104) Discusses him.
+
+
+<!-- walk: y2v1 Epilogue → p.369 -->
+
+## y2v12.5
+
+<!-- walk: y2v12.5 → start -->
+
+### y2v12.5 pp.192-196 — Ch.10
+
+[scene] (p.192-196) Mentioned/appears in Ch.10.
+[rel:ayanokouji-kiyotaka] (pp.192-196) Appears in this volume.
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->
+
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->

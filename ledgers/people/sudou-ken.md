@@ -1415,3 +1415,75 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:kouenji-rokusuke] (p.31) Compares ratings with him.
 
 <!-- walk: y2v1 ch2 → p.65 -->
+
+### y2v1 pp.69–85, 105–141 — Ch.3: Hōsen and Amasawa
+
+[scene] (p.69) Accompanies Horikita to the meet-and-greet.
+[scene] (p.82) Is shoved by Hōsen and nearly explodes.
+[scene] (p.85) Is stopped by Horikita and Ryūen’s intervention.
+[scene] (p.107) Negotiates with Class 1-D students at Keyaki Mall.
+[scene] (p.123) Is offered as Amasawa’s partner if he is the strongest fighter.
+[scene] (p.135) Is overwhelmed by Amasawa’s cooking request.
+[rel:horikita-suzune] (p.69–141) Accompanies her.
+[rel:housen-kazuomi] (p.82–85) Is shoved by him.
+[rel:ryuuen-kakeru] (p.85–90) Is backed up by him.
+[rel:amasawa-ichika] (p.123–141) Is conditionally offered as her partner.
+
+
+<!-- walk: y2v1 ch3 → p.141 -->
+
+### y2v1 pp.123–181 — Ch.4: Amasawa partnership
+
+[scene] (p.123) Is offered as Amasawa’s partner if he is the strongest fighter.
+[scene] (p.135) Is overwhelmed by her cooking request.
+[scene] (p.181) Learns Amasawa will partner with him.
+[rel:amasawa-ichika] (p.123–181) Is conditionally partnered with her.
+
+
+<!-- walk: y2v1 ch4 → p.203 -->
+
+### y2v1 pp.204–215, 221–224 — Ch.5: Library and study sessions
+
+[scene] (p.204) Accompanies Horikita to the library.
+[scene] (p.221) Studies with Horikita.
+[scene] (p.223) Kōenji refuses to cooperate.
+[rel:horikita-suzune] (p.204–224) Accompanies her.
+
+
+<!-- walk: y2v1 ch5 → p.285 -->
+
+### y2v1 pp.286–343 — Ch.6: Fighting Hōsen
+
+[scene] (p.288) Arrives early and is restless.
+[scene] (p.290) Fights Hōsen to protect Horikita.
+[scene] (p.307) Is kicked down by Hōsen.
+[scene] (p.314) Is punched in the back of the head.
+[scene] (p.318) Is calmed by Ayanokōji.
+[rel:horikita-suzune] (p.286–343) Protects her.
+[rel:housen-kazuomi] (p.290–317) Fights him.
+
+
+<!-- walk: y2v1 ch6 → p.343 -->
+
+### y2v1 pp.344–348 — Epilogue: Exam results
+
+[scene] (p.344) Is surprised by Ayanokōji’s perfect score.
+[scene] (p.348) Is calmed by Ayanokōji’s explanation.
+[rel:ayanokouji-kiyotaka] (p.344–348) Reacts to his score.
+
+
+<!-- walk: y2v1 Epilogue → p.369 -->
+
+## y2v12.5
+
+<!-- walk: y2v12.5 → start -->
+
+### y2v12.5 pp.11-23, 192-196 — Ch.1, Ch.10
+
+[scene] (p.11-23) Mentioned/appears in Ch.1, Ch.10.
+[rel:ayanokouji-kiyotaka] (pp.11-23, 192-196) Appears in this volume.
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->
+
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->

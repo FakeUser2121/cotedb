@@ -527,3 +527,65 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [says] (p.378) “...So what should we do? Should we go for Class C after all?”
 [rel:ryuuen-kakeru] (p.375–388) Begs him for help.
 [rel:ibuki-mio] (p.382–388) Waits with her for Ryūen.
+
+## y2v1
+
+<!-- walk: y2v1 → start -->
+
+### y2v1 pp.86–87 — Ch.3: Class 1-D hallway
+
+[scene] (p.86) Jumps in to stop Hōsen from bullying Sudō.
+[scene] (p.87) Is stopped by Ryūen from grabbing Hōsen.
+[rel:sudou-ken] (p.86) Defends him.
+[rel:ryuuen-kakeru] (p.87) Is stopped by him.
+[rel:housen-kazuomi] (p.86–87) Confronts him.
+
+<!-- walk: y2v1 ch3 → p.141 -->
+
+### y2v1 pp.200–203 — Ch.4: Karaoke strategy session
+
+[scene] (p.200) Reports Class 1-B student put offer on hold.
+[scene] (p.201) Questions Ryūen’s strategy.
+[rel:ryuuen-kakeru] (p.200–203) Discusses strategy with him.
+
+
+<!-- walk: y2v1 ch4 → p.203 -->
+
+### y2v1 pp.200–203 — Ch.5: Strategy session
+
+[scene] (p.200) Reports Class 1-B student put offer on hold.
+[scene] (p.201) Questions Ryūen’s strategy.
+[rel:ryuuen-kakeru] (p.200–203) Discusses strategy with him.
+
+
+<!-- walk: y2v1 ch5 → p.285 -->
+
+### y2v1 pp.311 — Ch.6: Mention
+
+[scene] (p.311) Mentioned as Class 2-C student.
+
+
+<!-- walk: y2v1 ch6 → p.343 -->
+
+### y2v1 pp.200–203 — Epilogue: Strategy session
+
+[scene] (p.200) Reports Class 1-B student put offer on hold.
+[scene] (p.201) Questions Ryūen’s strategy.
+[rel:ryuuen-kakeru] (p.200–203) Discusses strategy with him.
+
+
+<!-- walk: y2v1 Epilogue → p.369 -->
+
+## y2v12.5
+
+<!-- walk: y2v12.5 → start -->
+
+### y2v12.5 pp.148-157 — Ch.9
+
+[scene] (p.148-157) Mentioned/appears in Ch.9.
+[rel:ayanokouji-kiyotaka] (pp.148-157) Appears in this volume.
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->
+
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->

@@ -122,3 +122,27 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 [rel:ayanokouji-kiyotaka] (p.7–11) Plans his expulsion.
 
 <!-- walk: y2v1 Prologue → p.11 -->
+
+### y2v1 pp.352–357 — Epilogue: Meeting Ayanokōji
+
+[scene] (p.352) Meets Ayanokōji in the reception office.
+[scene] (p.353) Admits the enforcer disobeyed orders.
+[scene] (p.355) Warns the enforcer is acting independently.
+[rel:ayanokouji-kiyotaka] (p.352–357) Meets him.
+
+
+<!-- walk: y2v1 Epilogue → p.369 -->
+
+## y2v12.5
+
+<!-- walk: y2v12.5 → start -->
+
+### y2v12.5 pp.107-118 — Ch.7
+
+[scene] (p.107-118) Mentioned/appears in Ch.7.
+[rel:ayanokouji-kiyotaka] (pp.107-118) Appears in this volume.
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->
+
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->

@@ -815,3 +815,51 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:ayanokouji-kiyotaka] (p.16) Is mentioned in Ichinose’s comparison of rival classes.
 
 <!-- walk: y1v11.75 Section → p.18 -->
+
+## y2v1
+
+<!-- walk: y2v1 → start -->
+
+### y2v1 pp.194–199 — Ch.4: Strategy with Kamuro
+
+[scene] (p.194) Discusses Class C’s buyout tactics with Kamuro.
+[scene] (p.195) Says Ryūen forced Class A into a money game.
+[scene] (p.196) Says Ryūen misread the situation.
+[scene] (p.199) Prays Ryūen is a worthy opponent.
+[rel:kamuro-masumi] (p.194–199) Discusses strategy with her.
+[rel:ryuuen-kakeru] (p.194–199) Analyzes his strategy.
+
+<!-- walk: y2v1 ch4 → p.203 -->
+
+### y2v1 pp.259–261 — Ch.5: Offering help
+
+[scene] (p.259) Meets Ayanokōji at Keyaki Mall.
+[scene] (p.260) Offers to help him find a partner.
+[scene] (p.261) He declines; she leaves.
+[rel:ayanokouji-kiyotaka] (p.259–261) Speaks with him.
+
+
+<!-- walk: y2v1 ch5 → p.285 -->
+
+### y2v1 pp.349, 259–261 — Epilogue: Offering help
+
+[scene] (p.259) Meets Ayanokōji at Keyaki Mall.
+[scene] (p.261) Offers to help him find a partner.
+[rel:ayanokouji-kiyotaka] (p.259–261) Speaks with him.
+
+
+<!-- walk: y2v1 Epilogue → p.369 -->
+
+## y2v12.5
+
+<!-- walk: y2v12.5 → start -->
+
+### y2v12.5 pp.31-42, 93-99, 128-138, 194-203 — Ch.2, Ch.6, Ch.7, Ch.9
+
+[scene] (p.31-42) Mentioned/appears in Ch.2, Ch.6, Ch.7, Ch.9.
+[rel:ayanokouji-kiyotaka] (pp.31-42, 93-99, 128-138, 194-203) Appears in this volume.
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->
+
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->

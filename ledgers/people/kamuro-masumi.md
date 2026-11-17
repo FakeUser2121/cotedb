@@ -229,3 +229,48 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [rel:sakayanagi-arisu] (p.339) Participates in the basketball event under her command.
 
 <!-- walk: y1v11 ch8 → p.367 -->
+
+## y2v1
+
+<!-- walk: y2v1 → start -->
+
+### y2v1 pp.194–199 — Ch.4: Strategy discussion
+
+[scene] (p.194) Reports Hashimoto’s findings to Sakayanagi.
+[scene] (p.195) Questions Sakayanagi’s strategy.
+[scene] (p.199) Sighs at Sakayanagi’s explanations.
+[rel:sakayanagi-arisu] (p.194–199) Discusses strategy with her.
+
+<!-- walk: y2v1 ch4 → p.203 -->
+
+### y2v1 pp.194–199 — Ch.5: Strategy discussion
+
+[scene] (p.194) Reports findings to Sakayanagi.
+[scene] (p.199) Sighs at Sakayanagi’s explanations.
+[rel:sakayanagi-arisu] (p.194–199) Discusses strategy with her.
+
+
+<!-- walk: y2v1 ch5 → p.285 -->
+
+### y2v1 pp.194–199 — Epilogue: Strategy discussion
+
+[scene] (p.194) Reports findings to Sakayanagi.
+[scene] (p.199) Sighs at Sakayanagi’s explanations.
+[rel:sakayanagi-arisu] (p.194–199) Discusses strategy with her.
+
+
+<!-- walk: y2v1 Epilogue → p.369 -->
+
+## y2v12.5
+
+<!-- walk: y2v12.5 → start -->
+
+### y2v12.5 pp.93-99 — Ch.6
+
+[scene] (p.93-99) Mentioned/appears in Ch.6.
+[rel:ayanokouji-kiyotaka] (pp.93-99) Appears in this volume.
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->
+
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->

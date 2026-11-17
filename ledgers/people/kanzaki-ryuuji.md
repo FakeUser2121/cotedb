@@ -393,3 +393,17 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [scene] (p.178) Confirms he spoke to the targeted students.
 [says] (p.178) “I’ve spoken to those two about it myself, and pretty much everything checks out.”
 [rel:ichinose-honami] (p.171, 176, 178) Discusses the situation with her.
+
+## y2v12.5
+
+<!-- walk: y2v12.5 → start -->
+
+### y2v12.5 pp.177-191 — Ch.9
+
+[scene] (p.177-191) Mentioned/appears in Ch.9.
+[rel:ayanokouji-kiyotaka] (pp.177-191) Appears in this volume.
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->
+
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->

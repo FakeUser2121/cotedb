@@ -304,3 +304,43 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [rel:ayanokouji-kiyotaka] (p.313–316) Is discussed as the person she confessed to and was rejected by.
 
 <!-- walk: y1v11.5 ch5 → p.351 -->
+
+## y2v1
+
+<!-- walk: y2v1 → start -->
+
+### y2v1 pp.270–279 — Ch.5: Confronting Karuizawa
+
+[scene] (p.270) Meets Karuizawa at Keyaki Mall.
+[scene] (p.274) Asks if she is dating Ayanokōji.
+[scene] (p.276) Slaps Karuizawa and they reconcile.
+[rel:karuizawa-kei] (p.270–279) Confronts her.
+
+<!-- walk: y2v1 ch5 → p.285 -->
+
+
+<!-- walk: y2v1 ch5 → p.285 -->
+
+### y2v1 pp.270–279 — Ch.5: Confronting Karuizawa
+
+[scene] (p.270) Meets Karuizawa at Keyaki Mall.
+[scene] (p.274) Asks if she is dating Ayanokōji.
+[scene] (p.276) Slaps Karuizawa and they reconcile.
+[rel:karuizawa-kei] (p.270–279) Confronts her.
+
+
+<!-- walk: y2v1 Epilogue → p.369 -->
+
+## y2v12.5
+
+<!-- walk: y2v12.5 → start -->
+
+### y2v12.5 pp.77-92, 192-196 — Ch.5, Ch.10
+
+[scene] (p.77-92) Mentioned/appears in Ch.5, Ch.10.
+[rel:ayanokouji-kiyotaka] (pp.77-92, 192-196) Appears in this volume.
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->
+
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->

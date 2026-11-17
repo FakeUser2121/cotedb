@@ -438,3 +438,53 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [rel:ayanokouji-kiyotaka] (p.18) Advises him.
 
 <!-- walk: y2v1 ch2 → p.65 -->
+
+### y2v1 pp.101–104 — Ch.3: Hōsen’s reputation
+
+[scene] (p.101) Explains Hōsen’s reputation as a middle-school fighter.
+[scene] (p.104) Says Hōsen tightened his grip on local middle schools.
+[rel:ayanokouji-kiyotaka] (p.101–104) Shares information with him.
+
+
+<!-- walk: y2v1 ch3 → p.141 -->
+
+### y2v1 pp.101–104 — Ch.4: Hōsen’s reputation
+
+[scene] (p.101) Explains Hōsen’s reputation as a middle-school fighter.
+[scene] (p.104) Says Hōsen tightened his grip on local middle schools.
+[rel:ayanokouji-kiyotaka] (p.101–104) Shares information with him.
+
+
+<!-- walk: y2v1 ch4 → p.203 -->
+
+### y2v1 pp.101–104, 255 — Ch.5: Hōsen and partner counts
+
+[scene] (p.101) Explains Hōsen’s reputation.
+[scene] (p.255) Partner counts noted.
+[rel:ayanokouji-kiyotaka] (p.101–104) Shares information.
+
+
+<!-- walk: y2v1 ch5 → p.285 -->
+
+### y2v1 pp.101–104, 255 — Epilogue: Hōsen and partner counts
+
+[scene] (p.101) Explains Hōsen’s reputation.
+[scene] (p.255) Partner counts noted.
+[rel:ayanokouji-kiyotaka] (p.101–104) Shares information.
+
+
+<!-- walk: y2v1 Epilogue → p.369 -->
+
+## y2v12.5
+
+<!-- walk: y2v12.5 → start -->
+
+### y2v12.5 pp.192-196 — Ch.10
+
+[scene] (p.192-196) Mentioned/appears in Ch.10.
+[rel:ayanokouji-kiyotaka] (pp.192-196) Appears in this volume.
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->
+
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->

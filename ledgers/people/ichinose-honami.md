@@ -1418,3 +1418,30 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:amikura-mako] (p.15) Meets her at Keyaki mall on the last day of spring break.
 
 <!-- walk: y1v11.75 Section → p.18 -->
+
+## y2v1
+
+<!-- walk: y2v1 → start -->
+
+### y2v1 pp.67–68 — Ch.3: Meet-and-greet
+
+[scene] (p.67) Hosts the meet-and-greet and builds trust with first-years.
+[scene] (p.68) Horikita calls her approach dazzling.
+[rel:horikita-suzune] (p.67–68) Is observed by her.
+[rel:ayanokouji-kiyotaka] (p.66–68) Is observed by him.
+
+<!-- walk: y2v1 ch3 → p.141 -->
+
+## y2v12.5
+
+<!-- walk: y2v12.5 → start -->
+
+### y2v12.5 pp.148-191 — Ch.9
+
+[scene] (p.148-191) Mentioned/appears in Ch.9.
+[rel:ayanokouji-kiyotaka] (pp.148-191) Appears in this volume.
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->
+
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->

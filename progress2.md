@@ -3145,3 +3145,12 @@ Ichinose hosts a meet-and-greet. Ledgers touched: `ledgers/volumes/y2v1.md`,
 `ledgers/people/karuizawa-kei.md`. `verify --vol y2v1`: ALL PASS;
 `build`/`gate`/`make check` OK; hash stable
 `872eb01573a38ff441915291d1033211`. Next: y2v1 Ch.3 pp.66–141.
+
+### y2v12.5 — walked, shipped
+
+Volume 12.5 (pp.8–216): end-of-year special exam aftermath, Ryūen/Sakayanagi
+farewell, Sakayanagi's withdrawal, Ayanokōji's breakup with Karuizawa, his
+father's visit and meeting with Kijima/Kōenji, transfer to Class 2-A, and
+Ichinose's kaishaku. Ledgers touched: volume + 40+ people ledgers. verify
+ALL PASS; build/gate/check OK; hash stable
+5b6dc03f68a30257921993d2f04237bf. Next: y3v1.

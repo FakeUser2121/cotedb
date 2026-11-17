@@ -70,3 +70,17 @@ char_id: ayanokouji-atsuomi · role: White Room director, Ayanokōji’s father 
 [trait] (p.65–68) Ideologue about genius and rabble; admits no pressure while implying force; leaves rather than argue with the board.
 
 <!-- walk: y1v7 ch3 → p.97 -->
+
+## y2v12.5
+
+<!-- walk: y2v12.5 → start -->
+
+### y2v12.5 pp.107-121 — Ch.7
+
+[scene] (p.107-121) Mentioned/appears in Ch.7.
+[rel:ayanokouji-kiyotaka] (pp.107-121) Appears in this volume.
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->
+
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->

@@ -1082,3 +1082,52 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:ayanokouji-kiyotaka] (p.27–49) Briefs him and the class.
 
 <!-- walk: y2v1 ch2 → p.65 -->
+
+### y2v1 pp.143–147 — Ch.4: OAA refresh
+
+[scene] (p.143) OAA refreshes; 34 new pairs formed.
+[scene] (p.143) Notes Class 1-D has no partners yet.
+[rel:ayanokouji-kiyotaka] (p.143) Briefs the class.
+
+
+<!-- walk: y2v1 ch4 → p.203 -->
+
+### y2v1 pp.205, 227 — Ch.5: Library and study sessions
+
+[scene] (p.205) OAA update noted.
+[scene] (p.227) Holds study sessions.
+[rel:horikita-suzune] (p.227) Supports her.
+
+
+<!-- walk: y2v1 ch5 → p.285 -->
+
+### y2v1 pp.333 — Ch.6: Treating Ayanokōji’s hand
+
+[scene] (p.333) Is called by Ayanokōji and brings a towel.
+[rel:ayanokouji-kiyotaka] (p.333) Treats his hand.
+
+
+<!-- walk: y2v1 ch6 → p.343 -->
+
+### y2v1 pp.349–352 — Epilogue: Calling Ayanokōji
+
+[scene] (p.349) Calls Ayanokōji to meet Tsukishiro.
+[scene] (p.351) Asks about Tsukishiro’s plans.
+[rel:ayanokouji-kiyotaka] (p.349–352) Calls him.
+
+
+<!-- walk: y2v1 Epilogue → p.369 -->
+
+## y2v12.5
+
+<!-- walk: y2v12.5 → start -->
+
+### y2v12.5 pp.11-23, 58-76, 107-114, 200-202 — Ch.1, Ch.4, Ch.7, Epilogue
+
+[scene] (p.11-23) Mentioned/appears in Ch.1, Ch.4, Ch.7, Epilogue.
+[rel:ayanokouji-kiyotaka] (pp.11-23, 58-76, 107-114, 200-202) Appears in this volume.
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->
+
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->

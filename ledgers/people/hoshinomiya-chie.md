@@ -278,3 +278,27 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 [scene] (p.431) Says the students are lucky to go home.
 [says] (p.431) “The students are so lucky, aren’t they? Getting to go back home and all.”
 [rel:sakagami] (p.431) Cleans up with him.
+
+## y2v1
+
+<!-- walk: y2v1 → start -->
+
+### y2v1 pp.344 — Epilogue: Mention
+
+[scene] (p.344) Mentioned in passing.
+
+<!-- walk: y2v1 Epilogue → p.369 -->
+
+## y2v12.5
+
+<!-- walk: y2v12.5 → start -->
+
+### y2v12.5 pp.8-10, 58-76, 200-202 — Prologue, Ch.4, Epilogue
+
+[scene] (p.8-10) Mentioned/appears in Prologue, Ch.4, Epilogue.
+[rel:ayanokouji-kiyotaka] (pp.8-10, 58-76, 200-202) Appears in this volume.
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->
+
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->

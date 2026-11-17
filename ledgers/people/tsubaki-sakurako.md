@@ -1,0 +1,28 @@
+# Tsubaki Sakurako — walk ledger
+
+char_id: tsubaki-sakurako · class: Class 1-C · status: unknown
+
+## y2v1
+
+<!-- walk: y2v1 → start -->
+
+### y2v1 pp.268–275 — Ch.5: Seeking a partner
+
+[scene] (p.268) Approaches Ayanokōji at Keyaki Mall with Utomiya.
+[scene] (p.271) Explains she hasn’t found a partner yet.
+[scene] (p.275) Leaves to search elsewhere.
+[rel:utomiya-riku] (p.268–275) Searches with him.
+[rel:ayanokouji-kiyotaka] (p.268–275) Approaches him.
+
+
+<!-- walk: y2v1 ch5 → p.285 -->
+
+### y2v1 pp.268–275 — Epilogue: Seeking a partner
+
+[scene] (p.268) Approaches Ayanokōji at Keyaki Mall.
+[scene] (p.275) Leaves to search elsewhere.
+[rel:utomiya-riku] (p.268–275) Searches with him.
+[rel:ayanokouji-kiyotaka] (p.268–275) Approaches him.
+
+
+<!-- walk: y2v1 Epilogue → p.369 -->

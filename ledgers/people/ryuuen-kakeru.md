@@ -1684,3 +1684,70 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:ayanokouji-kiyotaka] (p.16) Is mentioned in Ichinose’s comparison of rival classes.
 
 <!-- walk: y1v11.75 Section → p.18 -->
+
+## y2v1
+
+<!-- walk: y2v1 → start -->
+
+### y2v1 pp.75–90 — Ch.3: Class 1-D hallway
+
+[scene] (p.75) Meets Horikita at Class 1-D and says first-years are unusually calm.
+[scene] (p.79) Warns that first-years may have been briefed by the school.
+[scene] (p.85) Steps in when Hōsen chokes Ibuki.
+[scene] (p.87) Exchanges threats with Hōsen.
+[scene] (p.90) Turns his back on Hōsen and withdraws.
+[rel:horikita-suzune] (p.75–81) Speaks with her.
+[rel:housen-kazuomi] (p.87–90) Confronts him.
+[rel:ibuki-mio] (p.90–92) Is defended by him.
+
+<!-- walk: y2v1 ch3 → p.141 -->
+
+### y2v1 pp.194–203 — Ch.4: Karaoke strategy session
+
+[scene] (p.200) Tells Ishizaki and Ibuki he is cherry-picking first-years.
+[scene] (p.201) Says money is not his real goal.
+[scene] (p.202) Says he is learning about the first-years.
+[scene] (p.203) Reveals his goal is to drag down Sakayanagi.
+[rel:ishizaki-daichi] (p.200–203) Discusses strategy with him.
+[rel:ibuki-mio] (p.200–203) Discusses strategy with her.
+
+
+<!-- walk: y2v1 ch4 → p.203 -->
+
+### y2v1 pp.194–203, 255 — Ch.5: Strategy and status
+
+[scene] (p.194) Discusses buyout tactics.
+[scene] (p.201) Says money is not his real goal.
+[scene] (p.203) Reveals his goal is to drag down Sakayanagi.
+[scene] (p.255) Partner status noted.
+[rel:ishizaki-daichi] (p.200–203) Discusses strategy with him.
+[rel:ibuki-mio] (p.200–203) Discusses strategy with her.
+
+
+<!-- walk: y2v1 ch5 → p.285 -->
+
+### y2v1 pp.194–203, 255 — Epilogue: Strategy and status
+
+[scene] (p.194) Discusses buyout tactics.
+[scene] (p.201) Says money is not his real goal.
+[scene] (p.203) Reveals his goal is to drag down Sakayanagi.
+[scene] (p.255) Partner status noted.
+[rel:ishizaki-daichi] (p.200–203) Discusses strategy with him.
+[rel:ibuki-mio] (p.200–203) Discusses strategy with her.
+
+
+<!-- walk: y2v1 Epilogue → p.369 -->
+
+## y2v12.5
+
+<!-- walk: y2v12.5 → start -->
+
+### y2v12.5 pp.31-42, 194-203 — Ch.2, Ch.9
+
+[scene] (p.31-42) Mentioned/appears in Ch.2, Ch.9.
+[rel:ayanokouji-kiyotaka] (pp.31-42, 194-203) Appears in this volume.
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->
+
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->

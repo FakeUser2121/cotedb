@@ -1018,3 +1018,17 @@ aliases used for anchors: sakura, airi, sakura-san
 [rel:ichinose-honami] (p.172–185) Eats lunch with her group and notices her perfume.
 
 <!-- walk: y1v11 ch6 → p.280 -->
+
+## y2v12.5
+
+<!-- walk: y2v12.5 → start -->
+
+### y2v12.5 pp.192-196 — Ch.10
+
+[scene] (p.192-196) Mentioned/appears in Ch.10.
+[rel:ayanokouji-kiyotaka] (pp.192-196) Appears in this volume.
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->
+
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->

@@ -205,3 +205,17 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 [scene] (p.177) Says Class D is scary.
 [says] (p.177) “Gimme a break. Class D is scary enough as it is.”
 [rel:ichinose-honami] (p.171, 177) Discusses the harassment with her.
+
+## y2v12.5
+
+<!-- walk: y2v12.5 → start -->
+
+### y2v12.5 pp.177-191 — Ch.9
+
+[scene] (p.177-191) Mentioned/appears in Ch.9.
+[rel:ayanokouji-kiyotaka] (pp.177-191) Appears in this volume.
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->
+
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->

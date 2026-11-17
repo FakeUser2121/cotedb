@@ -422,3 +422,42 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [says] (p.414) “It’s an interesting game. I’d love to see it through until the end.”
 [rel:horikita-suzune] (p.404–413) Competes against her.
 [rel:sakayanagi-arisu] (p.400–414) Plays under her direction.
+
+## y2v1
+
+<!-- walk: y2v1 → start -->
+
+### y2v1 pp.67, 74, 111, 118 — Ch.3: Scouting
+
+[scene] (p.67) Attends the meet-and-greet as Class A’s scout.
+[scene] (p.74) Speaks with Horikita after leaving the gym.
+[scene] (p.111) Is named as having approached Class 1-D students.
+[scene] (p.118) Is named as having approached Class 1-D students.
+[rel:horikita-suzune] (p.74) Speaks with her.
+[rel:sakayanagi-arisu] (p.67, 74) Scouts for her.
+
+<!-- walk: y2v1 ch3 → p.141 -->
+
+### y2v1 pp.194 — Ch.4: Reporting findings
+
+[scene] (p.194) Reports that Class C is offering 10,000 points to turn down Class A offers.
+[rel:sakayanagi-arisu] (p.194) Reports to her.
+
+
+<!-- walk: y2v1 ch4 → p.203 -->
+
+### y2v1 pp.194 — Ch.5: Reporting findings
+
+[scene] (p.194) Reports Class C’s buyout tactics.
+[rel:sakayanagi-arisu] (p.194) Reports to her.
+
+
+<!-- walk: y2v1 ch5 → p.285 -->
+
+### y2v1 pp.194 — Epilogue: Reporting findings
+
+[scene] (p.194) Reports Class C’s buyout tactics.
+[rel:sakayanagi-arisu] (p.194) Reports to her.
+
+
+<!-- walk: y2v1 Epilogue → p.369 -->

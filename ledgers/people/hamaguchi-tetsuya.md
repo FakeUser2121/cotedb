@@ -98,3 +98,17 @@ char_id: hamaguchi-tetsuya · class: Class 1-B · status: minor
 [note] (p.227) Mention only; not at the café.
 
 <!-- walk: y1v4 ch5 → p.243 -->
+
+## y2v12.5
+
+<!-- walk: y2v12.5 → start -->
+
+### y2v12.5 pp.177-191 — Ch.9
+
+[scene] (p.177-191) Mentioned/appears in Ch.9.
+[rel:ayanokouji-kiyotaka] (pp.177-191) Appears in this volume.
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->
+
+
+<!-- walk: y2v12.5 Epilogue → p.216 -->
