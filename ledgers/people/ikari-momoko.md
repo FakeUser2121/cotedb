@@ -31,3 +31,14 @@ char_id: ikari-momoko · class: Class 3-B · status: minor
 [note] (p.238) Her group is said to have banded together to demonize Tachibana.
 
 <!-- walk: y1v8 coverage → p.244 -->
+
+## y2v5
+
+<!-- walk: y2v5 → start -->
+
+### y2v5 pp.7-243 — Full volume
+
+[scene] (p.7) Appears in this volume.
+
+
+<!-- walk: y2v5 Epilogue → p.243 -->

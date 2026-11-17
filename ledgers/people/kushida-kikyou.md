@@ -1661,3 +1661,14 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 
 <!-- walk: y2v4.5 Epilogue → p.290 -->
+
+## y2v5
+
+<!-- walk: y2v5 → start -->
+
+### y2v5 pp.7-243 — Full volume
+
+[scene] (p.7) Appears in this volume.
+
+
+<!-- walk: y2v5 Epilogue → p.243 -->

@@ -78,3 +78,14 @@ char_id: ishikura · class: Class 1-D · status: minor
 [rel:ayanokouji-kiyotaka] (p.356) Is chosen by him for the math test.
 
 <!-- walk: y1v11 ch8 → p.367 -->
+
+## y2v5
+
+<!-- walk: y2v5 → start -->
+
+### y2v5 pp.7-243 — Full volume
+
+[scene] (p.7) Appears in this volume.
+
+
+<!-- walk: y2v5 Epilogue → p.243 -->

@@ -6,6 +6,9 @@ char_id: tokitou · class: unknown · status: unknown
 
 <!-- walk: y2v5 → start -->
 
+### y2v5 pp.7-243 — Full volume
+
+[scene] (p.7) Appears in this volume.
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
@@ -16,3 +19,6 @@ char_id: tokitou · class: unknown · status: unknown
 
 
 <!-- walk: y2v4.5 Epilogue → p.290 -->
+
+
+<!-- walk: y2v5 Epilogue → p.243 -->

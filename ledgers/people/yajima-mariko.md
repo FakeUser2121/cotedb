@@ -24,3 +24,14 @@ char_id: yajima-mariko · class: Class 1-C (enrolled April 2015) · status: mino
 ### y1v5 p.130 — Ch.6: a passing mention
 [scene] (p.130) Named as one of Horikita’s recurring obstacle-course matchups.
 [note] (p.130) “Horikita was always up against Yajima-san and Kinoshita-san” — the leak knew the pairings.
+
+## y2v5
+
+<!-- walk: y2v5 → start -->
+
+### y2v5 pp.7-243 — Full volume
+
+[scene] (p.7) Appears in this volume.
+
+
+<!-- walk: y2v5 Epilogue → p.243 -->

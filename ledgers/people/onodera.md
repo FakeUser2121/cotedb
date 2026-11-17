@@ -72,3 +72,14 @@ char_id: onodera · class: Class 1-D · status: minor
 
 
 <!-- walk: y2v3 Epilogue → p.368 -->
+
+## y2v5
+
+<!-- walk: y2v5 → start -->
+
+### y2v5 pp.7-243 — Full volume
+
+[scene] (p.7) Appears in this volume.
+
+
+<!-- walk: y2v5 Epilogue → p.243 -->

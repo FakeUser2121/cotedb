@@ -3213,3 +3213,9 @@ people. verify ALL PASS; build/gate/check OK; hash stable d2acb6217fa83ffd61612c
 Volume 2, Volume 4.5 (pp.10–290): summer cruise; treasure hunt; Kei/Ayanokōji
 kiss. Ledgers touched: volume + 80 people. verify ALL PASS; build/gate/check OK;
 hash stable 31962a8ef8042eaa275a781e825250e3.
+
+### y2v5 — walked, shipped
+
+Volume 2, Volume 5 (pp.7–243): Chabashira's monologue; unanimous special exam;
+150 class points. Ledgers touched: volume + 64 people. verify ALL PASS;
+build/gate/check OK; hash stable c15213576899fc8e8f2179e2afeb4c02.
