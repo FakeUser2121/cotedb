@@ -3255,3 +3255,9 @@ hash stable 6375c6765bd30c3818d91e9ea573b4ad.
 Volume 2, Volume 9.75 (pp.4–8): New Year's dissonance; Kushida/Horikita/Ibuki.
 Ledgers touched: volume + 8 people. verify ALL PASS; build/gate/check OK;
 hash stable 5d5ac4a00ff7cbf080545264a203e959.
+
+### y2v10 — walked, shipped
+
+Volume 2, Volume 10 (pp.9–235): third term opens; special exam; Kamuro expelled
+by lottery. Ledgers touched: volume + 84 people. verify ALL PASS; build/gate/check
+OK; hash stable 5f397e582c47d59cdc47c1a578e9b29f.

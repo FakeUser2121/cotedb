@@ -414,3 +414,14 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 
 <!-- walk: y2v9.5 Epilogue → p.219 -->
+
+## y2v10
+
+<!-- walk: y2v10 → start -->
+
+### y2v10 pp.9-235 — Full volume
+
+[scene] (p.9) Appears in this volume.
+
+
+<!-- walk: y2v10 Epilogue → p.235 -->

@@ -65,3 +65,14 @@ char_id: moriyama · status: minor
 
 
 <!-- walk: y3v3 Epilogue → p.256 -->
+
+## y2v10
+
+<!-- walk: y2v10 → start -->
+
+### y2v10 pp.9-235 — Full volume
+
+[scene] (p.9) Appears in this volume.
+
+
+<!-- walk: y2v10 Epilogue → p.235 -->

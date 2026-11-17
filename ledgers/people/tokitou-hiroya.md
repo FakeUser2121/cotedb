@@ -52,3 +52,14 @@ char_id: tokitou-hiroya · class: unknown · status: unknown
 
 
 <!-- walk: y2v8 Epilogue → p.208 -->
+
+## y2v10
+
+<!-- walk: y2v10 → start -->
+
+### y2v10 pp.9-235 — Full volume
+
+[scene] (p.9) Appears in this volume.
+
+
+<!-- walk: y2v10 Epilogue → p.235 -->

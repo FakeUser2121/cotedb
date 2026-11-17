@@ -1,0 +1,10 @@
+# Enoshima Midoriko — walk ledger
+
+char_id: enoshima-midoriko · class: unknown · status: unknown
+
+## y2v10.25
+
+<!-- walk: y2v10.25 → start -->
+
+
+<!-- walk: y2v10 Epilogue → p.235 -->
