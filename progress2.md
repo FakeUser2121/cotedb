@@ -3237,3 +3237,9 @@ hash stable 75b28b9fd394816fa7b08d4036a6a2e4.
 Volume 2, Volume 8 (pp.11–208): school trip preparation; Kyoto. Ledgers touched:
 volume + 71 people. verify ALL PASS; build/gate/check OK; hash stable
 da33a4eca56f5f4e87201de29ce71701.
+
+### y2v9 — walked, shipped
+
+Volume 2, Volume 9 (pp.8–225): signs of momentum; Nagumo; Kei's anxiety.
+Ledgers touched: volume + 57 people. verify ALL PASS; build/gate/check OK;
+hash stable bdf77052e6f4a786e185e4690b42f063.

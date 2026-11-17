@@ -225,3 +225,14 @@ aliases used for anchors: tachibana, secretary, student council secretary
 [scene] (p.229) Explains the idea of situational irony.
 [says] (p.229) “No, uh, I guess it’s like, situational irony or something…? Y’know, the type of thing that happens from time to time where two people who never thought they’d get together end up going out? It’s a common scenario.”
 [rel:horikita-manabu] (p.229) Interrupts his conversation with Ayanokōji.
+
+## y2v9
+
+<!-- walk: y2v9 → start -->
+
+### y2v9 pp.8-225 — Full volume
+
+[scene] (p.8) Appears in this volume.
+
+
+<!-- walk: y2v9 Epilogue → p.225 -->

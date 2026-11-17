@@ -13,3 +13,14 @@ char_id: kimura · class: Keyaki Mall Pharmacy staff · status: minor
 [says:kimura] (p.62–63) Staff lecture on why they came inside and why they didn’t contact anyone sooner — printed as reported speech; he agrees not to report because it would look bad for him too.
 
 <!-- walk: y1v7.5 ch3 → p.72 -->
+
+## y2v9
+
+<!-- walk: y2v9 → start -->
+
+### y2v9 pp.8-225 — Full volume
+
+[scene] (p.8) Appears in this volume.
+
+
+<!-- walk: y2v9 Epilogue → p.225 -->
