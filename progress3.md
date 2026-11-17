@@ -1783,3 +1783,4 @@ hash: `6bea783884c7cb8573db97157f0b718a`.
 | y1v11 redo enrichment (Ch.2-Epilogue voice) | 234 | 0 | b62d2d58e58653f19323a801512a8084 |
 | y2v1 Prologue+Ch.1+Ch.2 (pp.7-65) | 59 | 0 | 872eb01573a38ff441915291d1033211 |
 | y2v12.5 (pp.8-216) | 216 | 0 | 5b6dc03f68a30257921993d2f04237bf |
+| y3v1 (pp.10-287) | 287 | 0 | db6948f25f64cc3204eed2143f7a7156 |

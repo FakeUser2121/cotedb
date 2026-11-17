@@ -3154,3 +3154,12 @@ father's visit and meeting with Kijima/Kōenji, transfer to Class 2-A, and
 Ichinose's kaishaku. Ledgers touched: volume + 40+ people ledgers. verify
 ALL PASS; build/gate/check OK; hash stable
 5b6dc03f68a30257921993d2f04237bf. Next: y3v1.
+
+### y3v1 — walked, shipped
+
+Volume 3, Volume 1 (pp.10–287): Ayanokōji transfers to Class C; Horikita's
+struggle; special exam (Comprehensive Academic Ability); Ayanokōji scores
+perfect in math; Ryuuen's strategy; Horikita recovers; Epilogue with Kushida,
+Kitou, and Nanase/Tsukishiro phone call. Ledgers touched: volume + 40+
+people ledgers. verify ALL PASS; build/gate/check OK; hash stable
+db6948f25f64cc3204eed2143f7a7156. Next: y3v2.

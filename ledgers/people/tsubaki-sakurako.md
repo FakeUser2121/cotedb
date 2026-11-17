@@ -26,3 +26,17 @@ char_id: tsubaki-sakurako · class: Class 1-C · status: unknown
 
 
 <!-- walk: y2v1 Epilogue → p.369 -->
+
+## y3v1
+
+<!-- walk: y3v1 → start -->
+
+### y3v1 pp.10-287 — Full volume
+
+[scene] (p.10) Appears in this volume.
+
+
+<!-- walk: y3v1 Epilogue → p.287 -->
+
+
+<!-- walk: y3v1 Epilogue → p.287 -->
