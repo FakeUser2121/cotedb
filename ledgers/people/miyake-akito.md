@@ -590,3 +590,14 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 
 
 <!-- walk: y2v7 Epilogue → p.207 -->
+
+## y2v8
+
+<!-- walk: y2v8 → start -->
+
+### y2v8 pp.11-208 — Full volume
+
+[scene] (p.11) Appears in this volume.
+
+
+<!-- walk: y2v8 Epilogue → p.208 -->

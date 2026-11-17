@@ -3231,3 +3231,9 @@ hash stable 42ca7779490d72057b8c63f051a2eea1.
 Volume 2, Volume 7 (pp.7–207): cultural festival; Hasebe's confession; Airi idol.
 Ledgers touched: volume + 69 people. verify ALL PASS; build/gate/check OK;
 hash stable 75b28b9fd394816fa7b08d4036a6a2e4.
+
+### y2v8 — walked, shipped
+
+Volume 2, Volume 8 (pp.11–208): school trip preparation; Kyoto. Ledgers touched:
+volume + 71 people. verify ALL PASS; build/gate/check OK; hash stable
+da33a4eca56f5f4e87201de29ce71701.

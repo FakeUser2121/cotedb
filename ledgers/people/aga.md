@@ -16,3 +16,6 @@ char_id: aga · class: unknown · status: unknown
 
 
 <!-- walk: y2v7 Epilogue → p.207 -->
+
+
+<!-- walk: y2v8 Epilogue → p.208 -->

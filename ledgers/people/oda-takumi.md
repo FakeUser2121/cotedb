@@ -24,3 +24,14 @@ char_id: oda-takumi · class: Class 1-C · status: minor
 
 
 <!-- walk: y3v3 Epilogue → p.256 -->
+
+## y2v8
+
+<!-- walk: y2v8 → start -->
+
+### y2v8 pp.11-208 — Full volume
+
+[scene] (p.11) Appears in this volume.
+
+
+<!-- walk: y2v8 Epilogue → p.208 -->

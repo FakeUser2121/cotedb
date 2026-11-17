@@ -30,3 +30,14 @@ char_id: watanabe-norihito · class: unknown · status: unknown
 
 
 <!-- walk: y2v2 Epilogue → p.354 -->
+
+## y2v8
+
+<!-- walk: y2v8 → start -->
+
+### y2v8 pp.11-208 — Full volume
+
+[scene] (p.11) Appears in this volume.
+
+
+<!-- walk: y2v8 Epilogue → p.208 -->
