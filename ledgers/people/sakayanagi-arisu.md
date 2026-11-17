@@ -864,6 +864,34 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
+### y2v1 p.194–196 — Sakayanagi declines a monetary war with Ryūen
+[scene] (p.194) At a Keyaki Mall café with Kamuro and Kitō, learns via Hashimoto that Class C is offering 10,000 points just to reject Class A's offers, and Ryūen 100,000 up front plus 100,000 more for 501+ points.
+[says] (p.194) "10,000 points, just for deciding not to join up with us? Is that stupid or what?" — Kamuro; Sakayanagi responds
+[says] (p.194) "Fufu. It seems that Ryūen-kun fully intends to see this match through to the end."
+[says] (p.194) "If we fought the financial battle, we simply wouldn't lose. However, beating him with his own strategy would lack a certain… artistic potency, don't you think?"
+[says] (p.195) "First of all, there's quite a large difference in the academic prowess of Ryūen-kun's class and our own."
+[says] (p.195) "Even if we don't do anything, our odds of winning would be at a solid 50%."
+[says] (p.196) "Wouldn't you agree?"
+[trait] (p.194–196) Confident and composed — refuses to outbid Ryūen in points ("artistic potency"), reasoning her class's academic superiority gives them ~50% odds even doing nothing, and that a bidding war would waste millions needlessly; notes Ryūen has changed from saving 20 million to transfer to fighting for his class.
+[rel:ryuuen-kakeru] (p.194–196) Recognizes his all-in point strategy and "change of heart"; declines to fight him on his own terms.
+[rel:kamuro] (p.194–196) Field's her frustrated questioning; Kamuro wants to fight back with points.
+[rel:kitou-hayato] (p.194) Present at the café discussion.
+[rel:hashimoto-masayoshi] (p.194) Kamuro's source on Class C's and Ryūen's offers.
+
+### y2v1 p.265–267 — Sakayanagi's warning and offer on the way back from Hamming
+[scene] (p.265) Runs into Ayanokōji on the walk back from Hamming, and probes his recent proactive contact with first-years.
+[says] (p.265) "It seems you've been quite proactive about interacting with the first-year students recently, Ayanokōji-kun."
+[says] (p.266) "In order to get you expelled, I would imagine that the White Room might send somebody… an enforcer of sorts to infiltrate the first-year students."
+[says] (p.266) "Even if you got a perfect score, if your partner gets a zero, the both of you would be expelled from the school."
+[says] (p.266) "There's no way you can maintain a peaceful school life indefinitely, you know?"
+[says] (p.266) "if your opponent feels like it, they may even be willing to expose your true abilities to everyone."
+[says] (p.266) "So that's how it is. You've already revealed some of your abilities to certain individuals such as Mashima-sensei."
+[says] (p.267) "If you still haven't found a partner yet, how about I help you out and save you some time?"
+[says] (p.267) "Is it that you don't trust my judgment?"
+[says] (p.267) "I'll be watching to see what you do from afar, Ayanokōji-kun. I look forward to the day when we can have our rematch."
+[trait] (p.265–267) Perceptive and quietly supportive — knew from the start about the White Room enforcer threat and deliberately left "safe" first-years available to help him; declines to press when he refuses, never doubting he'll survive, and looks forward to their rematch.
+[rel:ayanokouji-kiyotaka] (p.265–267) Warns him about the enforcer, offers a safe partner (refused), and places great trust in him.
+[rel:tsukishiro] (p.266) Knows the White Room may send an enforcer to expel him.
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

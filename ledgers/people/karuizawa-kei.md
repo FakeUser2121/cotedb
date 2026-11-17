@@ -1405,6 +1405,38 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
+### y2v1 p.246–260 — Kei's diagnostic test, tutoring session, and the red-hair jealousy
+[scene] (p.246) Sits for five 10-minute diagnostic tests in Ayanokōji's room, and after 50 minutes collapses onto the table, exhausted.
+[says] (p.246) "I'm soooooo tired of this…!"
+[says] (p.247) "B-but like, my partner, Shimazaki-san, has a B-. Shouldn't I be fine?"
+[says] (p.247) "I think I'm like, gettin' a little scared all of a sudden…"
+[says] (p.247) "You're tryin' to tutor me and all, but Kiyotaka, you've got a C rating right now, right?"
+[says] (p.248) "Stop avoiding the question and tell me already~!"
+[says] (p.248) "I'll go I'll go. I felt like, a sense of danger from what you said earlier anyway."
+[says] (p.249) "Come sit here and teach me."
+[says] (p.252) "The heck is this?"
+[says] (p.253) "A red hair! A freaking long hair at that! No matter how you look at it, this is a girl's hair!"
+[says] (p.253) "Who did you have over!?"
+[says] (p.253) "I'm your girlfriend Kiyotaka! I have the right to stick my nose in all sorts of stuff!"
+[says] (p.254) "A girl I've never seen before with red hair…"
+[says] (p.256) "...Karuizawa Kei."
+[says] (p.258) "That's got nothin' to do with you. What about it anyway? What's your relationship with Kiyotaka?"
+[trait] (p.246–260) Capable but academically behind (her bullying interrupted her middle-school education), she resists studying until the expulsion risk frightens her; furiously jealous over a red hair and insists on her rights as his girlfriend; endures Amasawa's visit to confirm the hair's owner.
+[rel:ayanokouji-kiyotaka] (p.246–260) His girlfriend; tutors her, reveals his 400-point intent, and manages the jealousy/Amasawa situation; they keep their relationship secret.
+[rel:amasawa-ichika] (p.253–260) Suspects the red hair belongs to her; meets her at Ayanokōji's room, tense but polite; Amasawa proposes they all eat together next time.
+[rel:shimazaki-ikkei] (p.247) Her B−-rated partner.
+
+### y2v1 p.362–363 — Short story: "A Time for Them Alone"
+[scene] (p.362) Recounts the moment Ayanokōji said he'd take 400 points, and their subsequent studying together in his room.
+[narrates] (p.362) "400 points."
+[narrates] (p.362) "Academics level A."
+[narrates] (p.362) "Y-you think just wishing it makes you able to do it?"
+[narrates] (p.362) "It comes natural to me, but I haven't encountered any problems I thought I couldn't solve since I entered this school."
+[narrates] (p.363) "Well… maybe I should study a bit before I leave…"
+[narrates] (p.363) "Teach me from here, then"
+[trait] (p.362–363) Awe-struck by his casually stated 400 points (an A-equivalent) and his claim that he controls his score; decides to study with "my boyfriend," and is delighted when he comes to sit beside her — "a gentle breeze had taken his scent along with it" — resolving to focus so they can spend a fun school life together.
+[rel:ayanokouji-kiyotaka] (p.362–363) Her boyfriend; amazed by his ability and happy to study side by side with him.
+[rel:ishigami-kyou] (p.362) 400 points would let him compete with Yukimura.
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

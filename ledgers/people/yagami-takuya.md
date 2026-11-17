@@ -45,6 +45,19 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
+### y2v1 p.100–107 — Yagami Takuya: the eloquent first-year and Kushida's middle-school acquaintance
+[scene] (p.100) Defuses Hōsen's confrontation with a proverb, then apologizes to the second-years on behalf of the first-year students.
+[says] (p.100) "A wise man keeps away from danger. Perhaps you've never heard the proverb?"
+[says] (p.100) "A friendly conversation is one thing, but it's not a very good idea for you to cause any more trouble here, Hōsen-kun. I think you should be the one to withdraw first."
+[says] (p.102) "We first-years still don't really understand this whole special exam thing. I apologize for the inconvenience, but we'd appreciate it if you all could take care of us."
+[says] (p.103) "Don't you recognize me? I suppose it's understandable if you don't but, it's me, Yagami Takuya."
+[says] (p.105) "I know this is sudden, but if it's you, Kushida-senpai, then I'd have no complaints. Would you be willing to partner up with me?"
+[says] (p.106) "I don't know my left from right at this school yet, so I'd like to partner with somebody I can trust."
+[says] (p.106) "Why of course. I'll hold off on partnering up with anyone and patiently await your reply, Kushida-senpai."
+[trait] (p.100–107) Well-versed in communication — smooth, polite and strategic; holds an A Academic rating, admires Kushida from their middle school, and wants a partner he can trust; patiently agrees to wait for her answer.
+[rel:kushida-kikyou] (p.102–107) His middle-school senpai whom he admired; offers to partner with her.
+[rel:housen-kazuomi] (p.100) Calmly advises the aggressive Hōsen to withdraw.
+[rel:shiba-katsunori] (p.100) His class's teacher, whose arrival ends the confrontation.
 ## y3v3
 
 <!-- walk: y3v3 → start -->

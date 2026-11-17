@@ -27,6 +27,14 @@ char_id: tsubaki-sakurako · class: Class 1-C · status: unknown
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
+### y2v1 p.268–271 — Tsubaki and Utomiya approach Ayanokōji about partnering
+[scene] (p.268) On the walk back from Keyaki Mall, she and Utomiya Riku (Class 1-C) call out to Ayanokōji; she repeatedly checks her phone (the OAA app).
+[says:utomiya-riku] (p.270) "I'm Utomiya, and her name is Tsubaki. Could we talk with you for a bit about becoming partners for this special exam?"
+[says:utomiya-riku] (p.270) "We're currently going around searching for upperclassmen with Academic Ability ratings of a C or higher who are willing to cooperate with us."
+[narrates] (p.270) "You're Class 2-D's… Ayanokōji-senpai, correct?" — Tsubaki
+[trait] (p.268–271) A Class 1-C first-year with a C− Academic rating, still unpaired; she and Utomiya seek a C-or-higher upperclassman, and propose moving to a café to discuss — a timing that strikes Ayanokōji as "far too good to be true."
+[rel:utomiya-riku] (p.268–271) Her classmate; he spearheads the conversation and already has a partner.
+[rel:ayanokouji-kiyotaka] (p.268–271) Approaches him about partnering; he is wary the encounter was arranged.
 ## y3v1
 
 <!-- walk: y3v1 → start -->

@@ -65,6 +65,37 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
+### y2v1 p.99–101 — Hōsen's confrontation and control of Class 1-D
+[scene] (p.99) Confronts Ryūen in the first-year hallway after the meet-and-greet, having watched the upperclassmen; his sudden appearance and aggression draw a crowd.
+[says] (p.100) "I'll stop. We did what we came for. Let's get outta here, Nanase."
+[says] (p.100) "If you prostrate yourself to me, I suppose I could let you pair up with me, Ryūen-paisen."
+[says] (p.100) "What a shame."
+[says] (p.101) "I'll see ya later, Horikita."
+[says] (p.101) "This shit wasn't even a fight."
+[trait] (p.99–101) An overwhelmingly powerful, foul-mouthed delinquent who calls Ryūen "paisen" and demands he prostrate himself; backs down surprisingly easily when his teacher Shiba arrives, then pointedly drops Horikita's name as a message to Class 2-D; governs Class 1-D with an iron grip (orders classmates to hold out for 500,000 points).
+[rel:ryuuen-kakeru] (p.99–100) Squares off with him; Ryūen refuses to partner with a "wild gorilla."
+[rel:nanase-tsubasa] (p.99–101) Has her accompany him; orders her to retreat.
+[rel:horikita-suzune] (p.101) Names her as he leaves — a deliberate parting shot.
+[rel:shiba-katsunori] (p.100–101) His homeroom teacher, who breaks up the confrontation.
+
+### y2v1 p.296–337 — Hōsen's violent negotiation and framing plot
+[scene] (p.296) Arrives at the karaoke room with Nanase, slouches across three seats, and treats Class 1-D as his own property — demanding "equal" cooperation while posturing.
+[says] (p.296) "Outta the way Nanase."
+[says] (p.296) "So you came on time. I was nearly certain that you'd be late."
+[says] (p.297) "Oh really? So you aren't gonna bring up the fact that you're one grade up on us, eh? Ain't lettin' yer seniority get to yer head. Smart move."
+[says] (p.321) "Aight, seems that your trusty bodyguard's eatin' the dirt. Who's next?"
+[says] (p.322) "Five million points. That much, and all your problems'll go away. How 'bout it?"
+[says] (p.325) "If you submit to me right here, right now, an' fork over the points─ I'll let Ayanokōji live."
+[says] (p.326) "Somethin' wrong with your eyes? It's a knife, plain an' simple!"
+[says] (p.327) "'The hell…? Who the fuck are you…?"
+[says] (p.331) "Ha! So even though you managed to piece it all together, you still came an' got stabbed yourself? You outta your mind?"
+[says] (p.337) "Fuckin' good shit there, Ayanokōji-sempai! You're the first opponent who's gotten my blood boilin' like this."
+[trait] (p.296–337) Violent, proud and cunning — escalates from posturing to slapping Horikita and sucker-punching Sudō, then draws a knife intending to stab himself in the thigh with Ayanokōji's own Petty knife and frame him for expulsion (to claim a 20-million-point bounty); outsmarted when Ayanokōji lets himself be stabbed, his plot backfires and he accepts the deal, his pride wounded that Ayanokōji called Ryūen better.
+[rel:ayanokouji-kiyotaka] (p.321–337) Targets him for the bounty; is completely outwitted and bested, then becomes his partner — "the first opponent who's gotten my blood boilin'."
+[rel:nanase-tsubasa] (p.296–328) Brought her as mediator/block; berates her when she reveals the plot and stops his knife.
+[rel:horikita-suzune] (p.296–324) Bullies her, demands five million points, slaps her.
+[rel:sudou-ken] (p.321–325) Sucker-punches and kicks him.
+[rel:amasawa-ichika] (p.334) She helped refine his knife plot and retrieved the knife; he calls her a "random chick" he shouldn't have trusted.
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

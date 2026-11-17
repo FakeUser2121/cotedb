@@ -1568,6 +1568,13 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
+### y2v1 p.21–24 — Kushida on Horikita's haircut
+[says] (p.21) "Horikita-san, that is… quite the drastic makeover. I'm surprised."
+[says] (p.23) "I think… so? Yeah. I think it really suits you, but… did something happen?"
+[says] (p.24) "Ah, I see. Well… I guess I'll do the opposite and try growing my hair out."
+[trait] (p.21–24) Cant hide her bewilderment at Horikita's new look and probes for the reason; her remark about growing her own hair out is read by Ayanokōji as disgust at matching her hated rival's hair length — innocent-sounding words hiding raging emotions.
+[rel:horikita-suzune] (p.21–24) Same-middle-school acquaintance and secret rival; hides her true reaction behind a cute, innocent front.
+[rel:sudou-ken] (p.23) Is asked to agree the short hair looks good.
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

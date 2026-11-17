@@ -5470,6 +5470,325 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
+### y2v1 p.17–19 — Opening ceremony: Miyake's advice; Class D's first-year reflection
+[scene] (p.17) Arrives in the new second-year classroom, instructed by the blackboard-monitor to sit in last year's seat — the back window seat.
+[says:miyake-akito] (p.18) "I've been a little worried about you cuz you didn't really hang out with the group all that much over spring break."
+[says] (p.18) "My bad. I'll hang out with you guys more often moving forward."
+[trivia] (p.17) The chalk blackboard has been replaced by a large, brand-new monitor; the room is otherwise the same, and the opening ceremony will be in the gym followed by a two-hour homeroom briefing.
+[trivia] (p.18) Miyake notes Haruka and Airi were also worried about him; he decides he has "found myself a truly good friend" after Miyake's good-natured advice.
+[trivia] (p.19–20) Reflects on Class D's first year: given 1000 points (¥100,000/month) they squandered it with tardiness and dozing, receiving the lowest assessment and dropping to zero points by May 1 — the school's unspoken first "special exam" testing whether they'd do what was needed without being told.
+[trait] (p.19–20) Sees the class slowly piece itself back together after hitting bottom; they rose to Class C once but fell back to D after the end-of-term exam, ending the year at 275 points.
+[rel:miyake-akito] (p.18) Receives friendly advice about the group; resolves to spend more time with them.
+[rel:hasebe-haruka] (p.18) Was worried about him over spring break.
+[rel:sakura-airi] (p.18) Was thinking about him a lot.
+
+### y2v1 p.20–24 — Karuizawa's entrance; Horikita's short hair
+[scene] (p.20) Watches Karuizawa enter to a lively "G'mornin'~" and gather the girls around her — he began dating Kei just the other day, known only to her.
+[trivia] (p.21) Horikita enters to a commotion, her once-long black hair now short, not reaching her shoulders — cut after reconciling with her brother Manabu and bidding farewell to her former self; she takes the seat right next to Ayanokōji.
+[says:sudou-ken] (p.21) "S-Suzune…? Wha… What's up with your hair!?"
+[says:kushida-kikyou] (p.21) "Horikita-san, that is… quite the drastic makeover. I'm surprised."
+[says] (p.23) "Is it really so strange that I chose to get a haircut?" — Horikita
+[says:horikita-suzune] (p.24) "This year, as a second-year student, I'll be fighting to bring Class D to the top. I wanted to do what I could in order to make that happen."
+[trivia] (p.24) Reads the true meaning in Kushida's "I guess I'll do the opposite and try growing my hair out" — disgust that her hair is now the same length as the person she hates, and senses her raging emotions.
+[rel:horikita-suzune] (p.21–24) Observes the reaction to her haircut, already knowing about it in advance.
+[rel:karuizawa-kei] (p.20) Secretly dating her.
+[rel:kushida-kikyou] (p.21–24) Perceives her concealed hostility behind innocent words.
+
+### y2v1 p.25–47 — The digitalized school; the Paper Shuffle–style exam announced
+[scene] (p.25) On Monday, examines the new 12-inch tablet replacing textbooks, with charging ports, portable batteries, and school wireless; notes the first-years are now around but he hasn't spoken to any.
+[trivia] (p.25–26) He moved from the back window seat to the hallway-side back desk ( seats can now be chosen with private points); a 12-inch tablet holds all materials, supports graphics/photos and globalized English use.
+[says:chabashira-sae] (p.40) "Now, I'll give you guys an overview of the next special exam."
+[says:chabashira-sae] (p.40) "The bottom line is that the exam will take the form of a written test where you second-years will be partnering up with the newly admitted first-years."
+[says:chabashira-sae] (p.41) "This special exam will primarily focus on your test-taking and communication skills."
+[says:chabashira-sae] (p.42) "this particular exam is about helping you build cooperative relationships, so do well to keep that in mind."
+[says:chabashira-sae] (p.42) "You can think of this exam as an improved version of the Paper Shuffle exam, where you were partnered up from among your classmates."
+[inference] (p.40–43) Suspects Tsukishiro or Nagumo is behind the school's changes; reasons the exam breaks the year barrier deliberately for communication, and sees OAA as the tool making cross-year partnerships practical (matching faces to names and gauging ability).
+[trait] (p.40–47) Follows the reasoning skeptically — doubts Chabashira's grade-skipping explanation is the whole story, and sees how weaker students will be abandoned as smart students pair off.
+[rel:chabashira-sae] (p.40–47) Delivers the exam briefing; he reads between the lines of her scripted explanation.
+[rel:tsukishiro] (p.40) Suspects he may be behind the sudden school changes.
+
+### y2v1 p.44–49 — Exam rewards, rules, and the expulsion condition
+[trivia] (p.44) Five subjects, 100 points each (500 total); class rewards 50/30/10/0 by average; individual rewards — top five pairs ¥100,000, top 30% ¥10,000.
+[rule] (p.44) A pair scoring under 500 expels the second-year; the first-year loses private points for three months. Deliberately lowering scores (or forcing another to) expels the offender regardless of year.
+[rule] (p.46) One partnership application per day via OAA; accept = final and irreversible (except expulsion/serious illness); profiles show results at 8:00 AM next day; partner identity not listed.
+[rule] (p.47) Unpaired students get a random partner at 8:00 AM on exam day but suffer a 5% score penalty; the three leftover first-years (from three second-year expulsions) have scores doubled with the same 5% penalty.
+[inference] (p.48–49) Analyzes that his own expulsion is certain unless his partner scores at least 1 point — even with his own full marks, a partner's zero dooms him; the anti-throwing rule is "indispensable" to legitimize the exam and protect average students.
+[trait] (p.44–49) Recognizes this is an "exceedingly difficult" exam for him specifically; notes the rules make blatant misbehavior impossible.
+
+### y2v1 p.49–50 — The White Room student threat; Ayanokōji's C rating
+[scene] (p.49) Realizes the anti-throwing rule is meaningless against the White Room transfer student, who plans to be expelled anyway and would take a 0 without hesitation if paired with him.
+[inference] (p.49–50) Concludes he already faces at least a 1-in-160 chance of expulsion; suspects Tsukishiro concocted the rules with a small loophole allowing flexible, biased enforcement, and would expel Ayanokōji without batting an eye if he partnered with someone who didn't take the exam seriously.
+[trait] (p.50) Notes his own OAA Academic Ability is a C — he can't freely choose a partner, and must avoid the White Room student who may be "lying in wait" for someone with a similar rating; judges this "more challenging than any other special exam."
+[rel:tsukishiro] (p.49–50) Certain he devised the rules to target him via the White Room agent.
+
+### y2v1 p.57–59 — The hallway talk with Horikita: reaffirming the bet; OAA strategy
+[scene] (p.57) Is called out to the hallway by Horikita at lunch, who wants to discuss matters unsuitable for the classroom.
+[says] (p.58) "There are 4 students in our class that have an E rating in Academic Ability. Make that 12 if you include those with D ratings."
+[says] (p.58) "The question then becomes, how many of the first-year honor students can we draw to our side?"
+[trivia] (p.58) Horikita's count: 17 B-or-higher first-years in Class A, 13 in B, 13 in C, 11 in D — 54 total; the class with the most of these wins, the one stuck with D+ or lower loses.
+[trivia] (p.57) Recalls the spring-break bet: if he wins the written-exam subject, Horikita joins the Student Council; if she wins, he must use the abilities he's hidden all year for the class — with A-rated students unlikely to top 90, a draw is impossible.
+[trait] (p.57–59) Readily agrees to settle the bet on this exam; analyzes the OAA data with Horikita and expects Sakayanagi, Ryūen and Ichinose to make their first move that day.
+[rel:horikita-suzune] (p.57–59) Reaffirms their competition and strategizes in perfect sync; she looks up the OAA numbers and prioritizes the D/E-rated students.
+[rel:sakayanagi-arisu] (p.58) Expects her to attack first — Class A has the fewest academically weak students.
+[rel:ryuuen-kakeru] (p.58) Expects him to make a move.
+[rel:ichinose-honami] (p.58) Expects her to make a move.
+
+### y2v1 p.67–74 — The meet-and-greet: reading each class's intentions
+[scene] (p.67) Attends the gym meet-and-greet with Horikita and Sudō, scanning which second-years came — Sakayanagi absent, only Hashimoto from Class A (likely recon); about half of Class B present (Ichinose, Kanzaki); nobody from Class C.
+[trivia] (p.67) Notes Sakayanagi's weak legs and limited range of motion — Hashimoto compensates for her and is likely her reconnaissance here.
+[trivia] (p.68–69) Ichinose avoids mentioning the special exam, focusing on casual friendship to melt the first-years' "walls of ice"; Horikita calls it "a dazzling approach" and admits Class D can't replicate it.
+[says:horikita-suzune] (p.68) "Instead of prioritizing the special exam, she's focusing on building up relationships based on mutual trust."
+[says] (p.69) "Are you thinking of a similar strategy yourself?"
+[says:horikita-suzune] (p.69) "A strategy based on private points would be too much for our class to handle."
+[inference] (p.67–69) From this one gathering he can roughly grasp the intentions of each class; sees the OAA app as Horikita's constant companion as she observes first-years, gleaning an idea.
+[trait] (p.67–74) Observes quietly, concedes he/Horikita/Sudō can't out-socialize Class B (that would take Hirata or Kushida); follows Horikita's lead when she decides to leave.
+[rel:ichinose-honami] (p.68–69) Her trusting relationship-building approach is "dazzling"; she is well-known and favored by first-years.
+[rel:horikita-suzune] (p.68–74) Observes her strategizing and accepts her decision to leave the meet-and-greet.
+[rel:hashimoto-masayoshi] (p.67, 74) Sees him scouting the event for Sakayanagi/Class A.
+
+### y2v1 p.71–75 — Horikita's real target: the first-years who didn't attend
+[says] (p.71) "More than half of the students invited to this didn't even attend. Those are the students I'm going to negotiate with."
+[says:horikita-suzune] (p.72) "The students from Class 1-D didn't attend the event at all."
+[says:horikita-suzune] (p.73) "If there's someone we can negotiate with at the class level, it isn't necessary to try and bargain with people at the individual level."
+[inference] (p.71–75) Understands none of Class 1-D attended, reflecting the will of the class — clear evidence a leader controls it; realizes Horikita plans class-level cooperation between Class 2-D and 1-D, abandoning the inter-class competition.
+[trait] (p.71–75) Notes her strategy is essentially the same as Ichinose's (give up class points to prevent expulsions) beneath different approaches; watches Hashimoto leave after finishing recon.
+[rel:nanase-tsubasa] (p.74) Hashimoto discusses Nanase as a possible Class 1-D contact.
+
+### y2v1 p.77–102 — The Class 1-D hallway clash: Ryūen, Hōsen, Shiba, Yagami
+[scene] (p.77) Follows Horikita to the first-year floor; Ryūen appears beside her with a daring look, taunting "You're awfully late, eh Suzune?"
+[scene] (p.99–101) Watches Hōsen and Nanase clash with Ryūen; Hōsen offers to let Ryūen pair with him only if he prostrates himself, and Ryūen retorts that he works only with humans.
+[says:housen-kazuomi] (p.100) "If you prostrate yourself to me, I suppose I could let you pair up with me, Ryūen-paisen."
+[says:ryuuen-kakeru] (p.100) "Sorry, but I only work together with humans. I have no intention of being with a wild gorilla."
+[trivia] (p.100–101) The eloquent first-year (Yagami) defuses the situation with a proverb ("A wise man keeps away from danger"); Class 1-D's homeroom teacher Shiba Katsunori arrives in a suit to break it up, and Hōsen backs down surprisingly easily; Nanase bows an apology and gives Ayanokōji an inquisitive, probing look before leaving.
+[rel:ryuuen-kakeru] (p.77–100) Ryūen taunts Horikita; he and Hōsen size each other up without coming to blows.
+[rel:housen-kazuomi] (p.99–101) The overwhelming first-year delinquent; controls Class 1-D.
+[rel:nanase-tsubasa] (p.100–101) She gives him a probing look — as if testing him — then flees after Hōsen.
+[rel:yagami-takuya] (p.100–102) The eloquent first-year who fends off Hōsen and apologizes on behalf of the first-years.
+
+### y2v1 p.102–106 — Yagami reunites with Kushida; the A-rating partnership offer
+[scene] (p.102) Watches Yagami Takuya spot Kushida and recognize her from middle school; she genuinely doesn't remember him at first.
+[says:yagami-takuya] (p.103) "Don't you recognize me? I suppose it's understandable if you don't but, it's me, Yagami Takuya."
+[says:yagami-takuya] (p.105) "I know this is sudden, but if it's you, Kushida-senpai, then I'd have no complaints. Would you be willing to partner up with me?"
+[says:kushida-kikyou] (p.106) "Would you really be fine with someone like me? You should pair up with someone who's better at studying, Yagami-kun."
+[says:yagami-takuya] (p.106) "I don't know my left from right at this school yet, so I'd like to partner with somebody I can trust."
+[inference] (p.104–106) Wondering whether Yagami knows about Kushida's middle-school past (she destroyed her class); he has an A Academic rating and wants someone he can trust, so Kushida puts his offer on hold.
+[trait] (p.103–106) Notes Kushida didn't pay attention to classmates she wasn't interested in; a boy could hardly forget someone as eye-catching as her.
+[rel:kushida-kikyou] (p.102–106) Yagami offers to partner with her; she is wary and defers her answer.
+[rel:horikita-suzune] (p.104–105) He asks her if Yagami might know Kushida's secret; she says there's no guarantee.
+
+### y2v1 p.108–110 — Miyake's account of Hōsen's delinquent reputation
+[scene] (p.108) Joins the Ayanokōji group (Haruka, Akito, Keisei, Sakura) after Hōsen's departure; Haruka calls Hōsen "super scary."
+[says:miyake-akito] (p.108) "One hell of a guy just enrolled here. This school might get pretty stormy moving forward."
+[says:miyake-akito] (p.108) "Hōsen is so strong that Sudō and Ryūen can't even compare to him."
+[says:miyake-akito] (p.109) "Hōsen had beaten him to a pulp in a one-on-one and sent him to the hospital."
+[says:miyake-akito] (p.110) "I'm one to choose my opponent before I fight with someone, and there's no way that I'd choose to fight Hōsen."
+[trait] (p.108–110) Learns Akito was a former delinquent (bad temper until second year of middle school, then channelled it into archery) and grew up near the middle schools of Ryūen and Hōsen; Akito refuses to fight Hōsen, acknowledging his strength.
+[rel:miyake-akito] (p.108–110) His friend; reveals his delinquent past and Hōsen's fearsome reputation.
+[rel:housen-kazuomi] (p.108–110) Reputed to have hospitalized a gang leader two years his senior; Miyake rates him above Sudō and Ryūen.
+[rel:hasebe-haruka] (p.108–110) Calls Hōsen scary and teases Akito about being a delinquent.
+
+### y2v1 p.111–123 — Sudō's partner search; Shiratori's 500,000-point demand
+[scene] (p.111) Walks with Horikita and Sudō to Keyaki Mall (she avoids the first-year floor after the lunchtime trouble and Hōsen); approaches Class 1-D students Kaga, Mikami and Shiratori (B− or higher).
+[says:horikita-suzune] (p.114) "We're searching for partners for the upcoming special exam. You guys don't have partners yet, right?"
+[says] (p.116) "500,000. If you give me 500,000 points, I'll happily partner up with you right here, right now." — Shiratori
+[says:horikita-suzune] (p.116) "It's natural to desire points, but is chasing after short-sighted greed really worth it?"
+[says:horikita-suzune] (p.118) "You guys are in Class D, just the same as us. I don't believe the higher-ranked classes would've approached you so easily." — a bluff
+[says] (p.121) "Before you arrived, we were consulted by another class of second-year students." — Shiratori
+[inference] (p.115–122) Notices all three first-years agreed from the start to wait a week; deduces Hōsen instructed Class 1-D to hold out for 500,000 and use the deadline penalty as a weapon to wring maximum points from desperate second-years — a reckless strategy disregarding the future.
+[trait] (p.111–122) Reads the situation sharply — sees Shiratori leak the buyout info under Horikita's bluff, notes Shiratori calls Hōsen when asked to gather classmates (confirming Hōsen controls 1-D), and recognizes the point-exchange mindset now permeates the first-years (likely Sakayanagi and Ryūen's doing).
+[rel:horikita-suzune] (p.111–123) Accompanies her; listens as she negotiates using Sudō's A+ physical rating as leverage and sets three goals.
+[rel:sudou-ken] (p.113–120) Watches him get ticked off at Shiratori's tactful jab about his E+ rating and carelessly reveal he lacks 500,000 points.
+[rel:shiratori] (p.114–121) Class 1-D A-rated first-year who demands 500,000 points to partner with Sudō.
+[rel:housen-kazuomi] (p.119–122) Confirmed as the one controlling Class 1-D, holding out for maximum points.
+
+### y2v1 p.122–123 — Horikita's three goals
+[says:horikita-suzune] (p.122) "The most important one is to not let anyone get expelled."
+[says:horikita-suzune] (p.123) "The next is that we try to get third place or higher in the overall class ranking."
+[says:horikita-suzune] (p.123) "The third is to avoid participating in any monetary exchanges."
+[trivia] (p.123) Reasons that even first place yields only 50 class points — just over 2 million points spread across the year — not worth spending the class's entire reserve.
+[trait] (p.122–123) Sets principled goals: no expulsions, third place or higher, no monetary exchanges — declining to fight a points bidding war.
+
+### y2v1 p.143–147 — The partner-formation race; narrowing down the White Room agent
+[scene] (p.143) On day three, checks the 8 AM OAA refresh — 56 pairs formed of a maximum 157; Class 2-B (Ichinose) drove pairings, and not a single Class 1-D student has paired up.
+[inference] (p.143–147) Reasons that first-years see classmates as rivals and will leave him (a C rating) until the high-rated students are taken; concludes Tsukishiro's enforcer is waiting for him to hesitate, so any student who approaches him is a "big red flag."
+[trait] (p.144–147) Works through ways to identify the White Room agent — physique (White Room children can't be obese, but the agent could have gained/lost weight), academic rating (they could deliberately hold an E), class affiliation (no help) — and concludes there's no way to narrow the list; decides to investigate every first-year with his own eyes and reach out to all he meets.
+[rel:tsukishiro] (p.144–147) Knows the enforcer is instructed to pair with him to expel him; assumes ordinary students may also be bribed with college admission.
+[rel:ichinose-honami] (p.143) Credits her class with driving most of the pairings.
+
+### y2v1 p.148–152 — Testing Nanase on the morning walk
+[scene] (p.148) Walks to school and is called out by Nanase Tsubasa — certain she timed her approach, since no first-year would speak to him by coincidence.
+[says:nanase-tsubasa] (p.148) "Good morning to you, Ayanokōji-senpai."
+[says:nanase-tsubasa] (p.148) "Do you need something from those two? Would you like me to call out to them for you?"
+[says] (p.149) "Have you decided on your partner for this special exam yet?"
+[says:nanase-tsubasa] (p.150) "My apologies, but I'm unable to answer that."
+[says] (p.150) "If it's okay with you, how about we have our fellow D Classes work together to find suitable partners for each other?"
+[says:nanase-tsubasa] (p.151) "I am in agreement. As much as possible, I would like to cooperate with you, Ayanokōji-senpai."
+[says] (p.152) "Hōsen… wasn't it? It seems like that guy's got a lot of influence over Class 1-D, huh?"
+[trivia] (p.149) Nanase has a B Academic rating with all other ratings C+ or better — an "ideal partner" — and still unpaired on day three (likely Class 1-D's plan); he wonders why someone so well-rounded was placed in Class D, suspecting a latent "problem."
+[inference] (p.148–152) Notes her earlier probing gaze is now gone, "completely natural" — doesn't know if she's the White Room agent; probes her gently (why unpaired, Hōsen's influence) while offering D-Class cooperation, testing her authenticity.
+[rel:nanase-tsubasa] (p.148–152) Tests her as a possible White Room enforcer; she agrees in principle to cooperate but is hesitant about her classmates and the top-30% reward.
+[rel:housen-kazuomi] (p.152) Brings him up to probe Nanase's knowledge of Class 1-D's control.
+
+### y2v1 p.176–188 — The Amasawa cooking test: tom yum goong via earpiece
+[scene] (p.176) Brings Amasawa Ichika and groceries back to his room; she sets strict rules — no phone, a dish made from memory — and tasks him with tom yum goong.
+[says:amasawa-ichika] (p.176) "Anyway, I'm super picky about taste~ If it's not yummy enough, the deal's off, okay?"
+[says:amasawa-ichika] (p.176) "Oh, looking up anything on your phone is against the rules, okay~?"
+[says:amasawa-ichika] (p.179) "The dish you're gonna make is… tom yum goong!"
+[says:amasawa-ichika] (p.179) "Could you make it for me~? Please, Seeenpai~?"
+[says:amasawa-ichika] (p.184) "Your tom yum goong—… Yeah, I guess it was just barely good enough."
+[says:amasawa-ichika] (p.187) "I'll pair up with Sudō-senpai, outta respect for your efforts."
+[trivia] (p.177–183) Had Horikita teach him knife techniques (slicing, shredding, dicing, chopping) overnight — not recipes; hides a <2cm wireless earpiece, with Horikita feeding him recipe steps in real time from her room via Sudō's phone (held in his bag), and plans discrete signals; places the phone on his bed and leaves the TV on as cover.
+[trivia] (p.184–186) Leaves out cilantro deliberately; Ayanokōji serves the dish and peels an apple with a Petty knife to demonstrate skill; Amasawa eats every bite, calls it "just barely good enough," and cleans the kitchen meticulously.
+[trait] (p.176–188) Carefully orchestrates every detail — seats her where she can see but with the TV distraction, anticipates her rules, and uses the earpiece to compensate for lacking recipe knowledge; still can't tell if she's the White Room agent.
+[rel:amasawa-ichika] (p.176–189) Cooks for her to win Sudō a partner; finds her speech and conduct hard to fake for a White Room dropout but remains suspicious of select quirks.
+[rel:horikita-suzune] (p.180–191) Her real-time earpiece instructions make the cooking possible; they debrief afterward.
+[rel:sudou-ken] (p.187–188) His phone is used for the relay; Amasawa submits a partnership application to him.
+
+### y2v1 p.188–193 — The debrief with Horikita; hiding the Class 1-A strategy
+[says] (p.190) "I get the feeling that we were saved by Amasawa's merciful judgment, though."
+[says] (p.190) "It was just a formality."
+[says] (p.191) "Neither of us know what kind of person that Amasawa girl really is."
+[says:horikita-suzune] (p.191) "Your way of thinking is… How do I put it…? Extremely calculated, and yet clever."
+[inference] (p.190–191) Explains he asked Amasawa to be an intermediary only as a "formality" — acting as if grasping at straws so she won't realize Class 2-D gave up on Class 1-A from the start and never intended to win the competition.
+[trait] (p.190–193) Horikita notes his thinking has changed — he now shares specifics he wouldn't have before; he stays guarded, deciding to be suspicious of any student who comes close (noting Hōsen and Nanase locked eyes with him first), and rules out already-paired students only tentatively.
+[rel:horikita-suzune] (p.190–191) Praises his cleverness and asks what changed in him; he deflects.
+[rel:nanase-tsubasa] (p.193) Receives her message: "[May we meet up after school tomorrow?]"
+
+### y2v1 p.205–215 — Library: the Class 1-D negotiation begins
+[scene] (p.205) Brings Horikita to the library to meet the Class 1-D students Nanase is bringing; en route, notes 17 more pairs (73 total) and that two Class 1-D students finally paired — reading it as Hōsen's orders/a gag order.
+[says] (p.208) "I'm a little annoyed. I thought Hōsen-kun would wait and see how the situation developed for a little while longer." — Horikita
+[says] (p.205) "There's a fine line between them actually not knowing anything and them having a gag order in place."
+[trivia] (p.206–207) Hiyori, in the library, thoughtfully suggests the far-end seats so they won't disturb patrons and can spot anyone approaching; Ayanokōji is vaguely concerned about her (Ryūen's class).
+[trivia] (p.208) Nanase arrives alone (Hōsen not with her); she fumbles her self-introduction, starting with the masculine "Boku" before correcting to "Watashi" (a detail flagged by the translation).
+[trait] (p.205–215) Sees in Nanase an honest, straightforward, upright personality "that reminded me of Ichinose"; stays alert to whether Hōsen will appear, and suspects the two Class 1-D pairings were bought with large points.
+[rel:shiina-hiyori] (p.206–207) She advises them on seating; he notes her situation with concern.
+[rel:nanase-tsubasa] (p.205–215) The negotiation with her; her upright honesty and "I will never yield to violence" conviction impress him despite suspicion about her identity.
+[rel:horikita-suzune] (p.207–208) They probe whether the other has been studying for their bet; each worries the other is neglecting it to use as an excuse.
+
+### y2v1 p.209–214 — Nanase confirms Hōsen's control; the 15-pair proposal
+[says:nanase-tsubasa] (p.209) "Many students have already begun taking action in accordance with Hōsen-kun's orders."
+[says:nanase-tsubasa] (p.210) "an act of betrayal."
+[says:horikita-suzune] (p.211) "You're not afraid of Hōsen-kun, Nanase-san?"
+[says:nanase-tsubasa] (p.211) "Yes." — an immediate, unfazed answer
+[says:nanase-tsubasa] (p.212) "At this point, I believe that approximately fifteen students would find it difficult to search for a partner on their own."
+[says:horikita-suzune] (p.212) "I'm hoping that you and I can decide on a combination of fifteen sets of partners and get this over with all at once."
+[says:nanase-tsubasa] (p.213) "Hōsen-kun would never allow us to help you out for free. Especially not now."
+[says] (p.214) "The only thing I know for sure is that Hōsen isn't just collecting points for himself."
+[inference] (p.214) Reasons Hōsen isn't hoarding points personally — if he were, he'd actively help low-rated classmates find partners; concludes he imposes rules to control the class, not for profit.
+[trait] (p.211–214) Is struck by Nanase's fearless resolve and the "same look" in her eyes (as when she vowed never to yield to violence); recognizes she may be the only one able to bring Class 1-D over.
+[rel:nanase-tsubasa] (p.209–214) Negotiates with her; she confirms Hōsen controls the class and that most struggling students are C/D-rated, making equal pairing difficult.
+[rel:housen-kazuomi] (p.209–214) Nanase confirms he orders the class and takes no compensation — pure control.
+
+### y2v1 p.246–249 — Tutoring Kei; revealing his intended 400-point score
+[scene] (p.246) Administers five 10-minute diagnostic test sheets (created by Keisei) to Karuizawa in his room to gauge her abilities; after 50 minutes she collapses, exhausted.
+[says] (p.247) "You'll definitely be attending Yōsuke's study sessions starting tomorrow."
+[says] (p.247) "if you don't study, you'll only be a stone's throw from being expelled."
+[says] (p.247) "You need to score 501 points to pass this special exam."
+[says:karuizawa-kei] (p.247) "You're like this with your fighting skills too."
+[says] (p.248) "I don't want to stand out, so I don't put in the effort with my grades."
+[says] (p.248) "400 points."
+[says] (p.248) "The equivalent of an A rating in Academic Ability."
+[says] (p.249) "There hasn't been a problem I couldn't solve ever since I enrolled here."
+[trait] (p.246–249) Diagnoses Kei as capable but held back by her bullying-interrupted middle-school education; tells her he intends to score 400 (an A-equivalent) in the exam — saving one subject for his bet with Horikita — and assures her no problem at the school has ever stumped him.
+[rel:karuizawa-kei] (p.246–249) Tutors her into Hirata's study sessions; she questions why he hides his abilities.
+[rel:ishigami-kyou] (p.246) Uses Keisei's diagnostic sheets.
+
+### y2v1 p.252–260 — The red hair; Amasawa's interruption
+[scene] (p.252) Studies with Kei; she finds a long red strand of hair on the floor, and the intercom shows Amasawa at the lobby — Kei, furious, lets her up to confirm the hair's owner.
+[says:karuizawa-kei] (p.253) "A red hair! A freaking long hair at that!"
+[says:karuizawa-kei] (p.253) "Who did you have over!?"
+[says] (p.253) "Is this that one thing? Jealousy…?"
+[says:karuizawa-kei] (p.253) "I'm your girlfriend Kiyotaka! I have the right to stick my nose in all sorts of stuff!"
+[narrates:amasawa-ichika] (p.255) "Girlfriend?"
+[narrates:amasawa-ichika] (p.257) "Ayanokōji-senpai is my… How should I put it… My exclusive, personal chef?"
+[trait] (p.252–260) Realizes he must clean thoroughly after inviting girls over; manages the situation by letting Amasawa search for her lost hair tie, keeping Kei quiet with a finger to her lips, and re-explaining the cooking; notes he learned Kei wants their relationship kept secret yet nearly exposed it.
+[rel:karuizawa-kei] (p.252–260) His girlfriend — fiercely jealous over the red hair; he tutors her and calms her.
+[rel:amasawa-ichika] (p.255–260) Shows up unannounced looking for a hair tie; teases that he has a "cute girlfriend" and proposes they all eat together next time.
+
+### y2v1 p.261–267 — The week in review; Sakayanagi's warning and offer
+[scene] (p.261) Reviews the week: 105 pairs (70%) formed; Class 1-A leaderless with 34/40 paired, 1-B 33/40, 1-D (Hōsen's iron fist) only 8, 1-C secretly saved by Ichinose's meet-and-greet (a hidden mediator).
+[trivia] (p.263) Realizes the White Room enforcer gives off "no scent" and blending in is their weapon; recalls he himself once put on a "slightly impertinent student" act before reverting to his true self — his opponent is different, hiding identity on purpose.
+[says:sakayanagi-arisu] (p.265) "It seems you've been quite proactive about interacting with the first-year students recently, Ayanokōji-kun."
+[says:sakayanagi-arisu] (p.266) "the White Room might send somebody… an enforcer of sorts to infiltrate the first-year students."
+[says:sakayanagi-arisu] (p.266) "they may even be willing to expose your true abilities to everyone."
+[says] (p.266) "I've decided to abandon my old way of thinking. I don't plan on hiding anything from now on."
+[says:sakayanagi-arisu] (p.267) "If you still haven't found a partner yet, how about I help you out and save you some time?"
+[says] (p.267) "I acknowledge your abilities, but I'll decide my own fate for myself."
+[trait] (p.265–267) Sakayanagi sees through him but he declines her offer of "safe" partners, choosing to decide his own fate; his top priority is continuing his school life, so he abandons hiding his abilities.
+[rel:sakayanagi-arisu] (p.265–267) She warns him about the enforcer and offers help, knowing he needs to decide soon; he refuses, and she looks forward to their rematch — she never believed he'd be expelled.
+
+### y2v1 p.287–292 — Preparing for the Hōsen meeting; the Karaoke parlor plan
+[scene] (p.287) On Sunday near 8:30 p.m., heads with Horikita (and Sudō, whom he backed so he can act if things turn violent) to the karaoke parlor — chosen for its privacy and the stage it sets.
+[says] (p.289) "If I confess to her right now, d'ya think Suzune would accept it?" — Sudō
+[says] (p.289) "Probably not."
+[says] (p.290) "Say you put in all the effort and become the most distinguished student in our class… and yet, Horikita still doesn't look at you. What would you do then?"
+[inference] (p.287–292) Recognizes Hōsen as both crisis and opportunity — he won't be swayed by Class A's brand, points, or Ichinose's trust, so Class D has a chance; wants Hōsen as a partner because his "problematic behavior" means he doesn't need to stand out (ideal if he were Tsukishiro's enforcer).
+[trait] (p.288–291) Observes Sudō's genuine growth — aiming for 250+ points (E→C), diligent, no longer late, proud of solving problems and of Suzune's praise; tests his resolve and finds it real.
+[rel:sudou-ken] (p.288–291) Backs his joining the meeting as a backup; tests his feelings for Horikita.
+[rel:horikita-suzune] (p.287–292) Goes early to the karaoke room with her; she stages the half-finished drinks/food to look as though they'd been enjoying themselves, to deny Hōsen the satisfaction of thinking they waited anxiously.
+
+### y2v1 p.296–320 — The negotiation turns violent; Hōsen's knife plot exposed
+[scene] (p.296) At the karaoke room, Hōsen arrives with Nanase, slouches across three seats, and demands "equal" cooperation while treating Class 1-D as his property.
+[says:housen-kazuomi] (p.297) "So? From what Nanase's told me, sounds like you lot want my class to help ya out."
+[says] (p.297) "It's slightly different from that. We're looking to have our two classes collaborate with each other. There would be no difference in status between us, a relationship of equality so to speak."
+[says:housen-kazuomi] (p.322) "Five million points. That much, and all your problems'll go away."
+[says:housen-kazuomi] (p.325) "If you submit to me right here, right now, an' fork over the points─ I'll let Ayanokōji live."
+[narrates] (p.331) "You were going to stab yourself in the thigh with my own knife. After that, you'd raise a fuss to the school about your injury, and use that as evidence to get me expelled. That was your plan, wasn't it?"
+[trivia] (p.321–330) Hōsen sucker-punches Sudō (who turned away at Horikita's distress), slaps Horikita, then draws a knife. Ayanokōji charges in and deliberately lets the blade pierce his own palm — stopping Hōsen from using the knife on himself to frame him; he reveals he bought the only such Petty knife, and that Amasawa helped refine the plot.
+[inference] (p.329–335) Deduced the pseudo-special exam's premise (expel him for 20 million points) and that Hōsen's "knife" was the very one Ayanokōji bought — held blade-up and reverse-gripped to drive into his own thigh; by getting stabbed himself he turns the trap back on Hōsen, whose fingerprints plus the prior purchase attempt ensure his own expulsion if exposed.
+[trait] (p.329–337) Calm under a knife — "lowered my stance," rushed the opponent rather than flee, accepted a self-inflicted wound as "the best way to completely shut you down"; spares Hōsen in exchange for equal cooperation and partnership with him.
+[rel:housen-kazuomi] (p.296–337) Outsmarts and physically bests him, then offers him a deal — equal class cooperation plus himself as partner, leveraging Hōsen's pride (claims Ryūen is better) to keep him compliant.
+[rel:nanase-tsubasa] (p.326–328) She intervenes to stop Hōsen's knife, reveals the whole meeting was a ploy from the start, and later explains the 20-million-point bounty.
+[rel:amasawa-ichika] (p.334) Identifies her as the one who refined Hōsen's knife plot — she stopped him buying the knife at the mall and later used a supposed lost hair tie as an excuse to retrieve it from his room.
+[rel:sudou-ken] (p.321–338) Hōsen's blow leaves him nearly fainting; he recovers, and is relieved/proud of Ayanokōji.
+
+### y2v1 p.338–341 — Aftermath: the knife stays in; Nanase's 20-million reveal
+[says] (p.338) "No. I know it isn't exactly pleasant to look at, but it's better to leave the knife where it is for now."
+[says:nanase-tsubasa] (p.340) "We were told that the student who manages to expel Ayanokōji Kiyotaka of Class 2-D will receive a bulk sum of 20 million private points. That's the special exam that was given to us."
+[says:nanase-tsubasa] (p.341) "For the sake of my class, of Class 1-D, I chose to cooperate with Hōsen-kun knowing full well just how awful his methods truly were."
+[says:nanase-tsubasa] (p.341) "I*… simply didn't believe a person like you would be suitable for this school, Ayanokōji-senpai."
+[trivia] (p.338) Refuses to let Horikita pull the knife out (risk of hemorrhaging); tells the others not to worry. Nanase uses the masculine katakana "boku" in her final line — the translation's notes flag a deliberate link to Ayanokōji's own unusual first-person pronoun.
+[trait] (p.338–341) Keeps calm with a knife through his hand; accepts Nanase's bare-minimum explanation, and is left puzzling over her undisguised hatred — the White Room agent's true motive still hidden.
+[rel:horikita-suzune] (p.338–341) She loses her cool at the sight of the knife and presses Nanase for answers; he calms her.
+[rel:nanase-tsubasa] (p.340–341) She reveals the 20-million bounty and that she cooperated for Class 1-D's sake — then directs a sudden, unexplained hatred at him.
+
+### y2v1 p.345–348 — After the knife; the results and the perfect math score
+[scene] (p.345) On Monday/Tuesday, Nanase and Horikita finalize the inter-class agreement; all 157 pairs formed. Kōenji unexpectedly agrees to partner with Nanase. His bandaged hand is kept confidential by Chabashira and Mashima.
+[inference] (p.345–346) Still can't identify the White Room student; reconsiders everyone — Hōsen could be an imposter who took the real Hōsen's identity (Ryūen and Akito never met him in person), Nanase's method of approaching him is suspicious, and Amasawa may simply have wanted the 20-million bounty.
+[trait] (p.345–346) Feels he must stay wary of all first-years he came into contact with — "If I showed even the slightest hint of weakness, I could be swallowed whole."
+[trivia] (p.346–348) On May 1 results day: no expulsions (lowest combined score 579); Chabashira had deliberately lowered the score estimates; Horikita scored 87 in math (next was Keisei's 84), but Ayanokōji placed just above her with a perfect 100 — the only student to break 90 in any subject.
+[trait] (p.348) Deliberately refused to cut corners (a perfect score carried a risk) to show "a glimpse of this side of myself beforehand" — making the first move to save trouble later against Tsukishiro; notes Sudō's calm surprise (he knew of the Hōsen incident).
+[rel:horikita-suzune] (p.346–350) Their math competition — she scored 87, he 100; she admits defeat but is frustrated.
+[rel:kouenji-rokusuke] (p.345) He instantly agreed to partner with Nanase at her request, surprising him and Horikita.
+
+### y2v1 p.349–351 — Keisei and Horikita after class; Chabashira's summons
+[says:ishigami-kyou] (p.349) "Kiyotaka, do you have a moment?"
+[says] (p.350) "Theory of measurement, Lebesgue integrals… maybe sometime around college, I think?"
+[says] (p.350) "It's frustrating, but I admit defeat. The events of these last couple days have pretty much forced me to recognize your abilities."
+[says:chabashira-sae] (p.350) "How awfully cold. Where would you be if not for my help the other day?"
+[says:chabashira-sae] (p.351) "I see I've interrupted you, but it's urgent. Acting Director Tsukishiro is asking for you. Come."
+[trait] (p.349–351) Deflects Keisei's questions (Horikita cuts in), gives Horikita a vague answer about the college-level concepts (can't reveal he learned them as a child), and is summoned by Chabashira to Tsukishiro.
+[rel:ishigami-kyou] (p.349) Tries to question him about the perfect score; Horikita pushes him aside.
+[rel:horikita-suzune] (p.350) She concedes the bet after the demonstration of his abilities; he deflects her questions.
+[rel:chabashira-sae] (p.350–351) She helped keep the knife incident confidential and now summons him; he has already secretly won her to his side.
+
+### y2v1 p.351–356 — Tsukishiro's office: the enforcer "disobeyed orders"
+[scene] (p.352) Goes alone to the reception office; Tsukishiro (Acting Director) asks whether he's identified the student he sent, referencing their end-of-April promise.
+[says:tsukishiro] (p.352) "Now that April has come to a close, have you managed to figure out who the student I sent is?"
+[says] (p.353) "Unfortunately, I still don't have any idea of who it might be."
+[says:tsukishiro] (p.353) "I see. So that child has managed to stay hidden quite well, it seems."
+[says] (p.354) "Acting Director Tsukishiro, could it be that you miscalculated something?"
+[says] (p.354) "In fact, I'm almost tempted to start thinking that there isn't even a White Room student amongst the first-years at all."
+[says:tsukishiro] (p.355) "It's true that I had planned on guaranteeing your expulsion this time around. However, that child simply disregarded it."
+[says:tsukishiro] (p.355) "Do take care, Ayanokōji-kun."
+[inference] (p.354–356) Pressures Tsukishiro by suggesting he miscalculated or acted forcefully; deduces/gains an admission that the enforcer disobeyed orders — raising the possibility that the relationship between Tsukishiro and the White Room student isn't simple, or that "that man" is pulling strings; weighs both options as equally likely and stays wary of Tsukishiro's deceit.
+[trait] (p.352–356) Plays dumb ("I won't speak of things I'm not certain of"), hides that Chabashira is on his side, and stands his ground despite Tsukishiro's veiled warning that he might be "better off choosing to get expelled"; walks away calmly.
+[rel:tsukishiro] (p.351–356) Their end-of-April reckoning — he can't name the enforcer; Tsukishiro admits the student acted independently; both probe each other.
+[rel:chabashira-sae] (p.351) She walked him to the office, worried Tsukishiro might forcibly remove him; he reassures her.
+
+### y2v1 p.356–357 — Final class standings
+[trivia] (p.356) Special Exam Overall Ranking: 1st Class 2-A (725 avg), 2nd 2-C (673), 3rd 2-D (640), 4th 2-B (621) — Class D achieved Horikita's goal of third place or higher.
+[trivia] (p.357) Class points as of May 1: 2-A (Sakayanagi) 1169, 2-B (Ryūen) 565 [note: corpus labels swapped], 2-C (Ichinose) 539, 2-D (Horikita) 283.
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

@@ -1620,6 +1620,14 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
+### y2v1 p.53–56 — Hirata calms Ike and coordinates with Horikita
+[says] (p.53) "Let's calm down first, and then we'll settle on a course of action."
+[says] (p.54) "Yes. It's exactly as Horikita-san says. If we work together, we should all be able to get through the exam safely."
+[says] (p.54) "For now, I'm going to try and negotiate with the first-years who joined the soccer club. It seems like some of them are good at studying, so I'm thinking we might be able to get them to partner with us."
+[says] (p.55) "Additionally, I think we should consider holding a hearing for the students with Academic Ability ratings below a C-, just in case."
+[trait] (p.53–56) Steady and cooperative — calms the panicking Ike, echoes Horikita's plan, leverages his soccer-club connections to recruit first-year partners, and proposes checking in with the lowest-rated students; works in seamless sync with Horikita.
+[rel:horikita-suzune] (p.54–55) Coordinates the class strategy with her in perfect agreement.
+[rel:ike-kanji] (p.53) Calms him down when he panics about his E rating.
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

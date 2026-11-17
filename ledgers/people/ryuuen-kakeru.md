@@ -1756,6 +1756,12 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
+### y2v1 p.77, 99–100 — Ryūen's taunts and standoff with Hōsen
+[says] (p.77) "Kuku. You're awfully late, eh Suzune?"
+[says] (p.100) "Sorry, but I only work together with humans. I have no intention of being with a wild gorilla."
+[trait] (p.77–100) Appears sudden and daring beside Horikita on the first-year floor, taunting her; when Hōsen demands he prostrate himself to partner, he refuses with a cutting insult, declining a physical fight with the stronger delinquent; had already been buying up first-year honor students with points (per Shiratori).
+[rel:horikita-suzune] (p.77) Taunts her on the first-year floor.
+[rel:housen-kazuomi] (p.99–100) Stands off against him; calls him a "wild gorilla."
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

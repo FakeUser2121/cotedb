@@ -3513,6 +3513,131 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
+### y2v1 p.21–24 — Horikita's short hair and her resolve
+[scene] (p.21) Enters the new classroom to a stir, her long black hair now cut short, and takes the seat next to Ayanokōji.
+[says] (p.23) "Is it really so strange that I chose to get a haircut?"
+[says] (p.24) "If I had to say, I suppose I'd call it my way of showing my resolve."
+[says] (p.24) "This year, as a second-year student, I'll be fighting to bring Class D to the top. I wanted to do what I could in order to make that happen."
+[says] (p.24) "If you're satisfied, could you both return to your seats?"
+[trait] (p.21–24) Cut her hair after reconciling with her brother Manabu and bidding farewell to her former self; glares at the staring students, quickly dispels Sudō's "heartbroken" speculation, and is somewhat unhappy about all the attention — the haircut is a deliberate symbol of resolve.
+[rel:horikita-manabu] (p.21) Reconciled with him before cutting her hair.
+[rel:sudou-ken] (p.21–24) Deflects his fussing over her hair; he rushes over and fusses that short hair "looks really good" on her.
+[rel:kushida-kikyou] (p.21–24) Kushida is bewildered and probes whether something happened; Horikita sees through her.
+
+### y2v1 p.50, 53–56 — Horikita organizes the class's partner strategy
+[says] (p.50) "Sensei. How difficult are the exam questions going to be?"
+[says] (p.53) "This certainly won't be an easy exam, that's for sure. A second-year student with an E rating in Academic Ability needs to pair up with a first-year student with at least a B to ensure they'll score above 500."
+[says] (p.54) "The important part of all of this is that you don't partner up with someone without thinking it through first."
+[says] (p.54) "As for those of you with a B+ rating or higher, I'd like for you to take a good objective look at the situation."
+[says] (p.54) "regardless of whether you're good at studying or not, if something comes up please consult either Hirata-kun or me."
+[says] (p.55) "Some of the students who have ratings above a C aren't very good at communicating. I'll also follow up with those of us who'd struggle to find partners for reasons other than poor academics."
+[trait] (p.50–56) Takes charge calmly — asks the crucial difficulty question, reassures Ike by simplifying the requirement, urges the class not to rush partnerships, and coordinates with Hirata so no one is abandoned; asks only the bare minimum to keep negotiations smooth.
+[rel:hirata-yousuke] (p.54–55) Works "unbelievably well" with him — their thoughts so in tune they barely need words; credits his flexible thinking for their improved synergy.
+[rel:sudou-ken] (p.55–56) Asks about basketball-club first-years; learns he was harsh ("Spartan") with them and tells him to just focus on studies and not worry about the exam.
+[rel:ishigami-kyou] (p.54) Keisei, an honor student, nods in willingness to cooperate.
+
+### y2v1 p.68–74 — The meet-and-greet: a strategy of leaving
+[says] (p.68) "Instead of prioritizing the special exam, she's focusing on building up relationships based on mutual trust. What an incredibly Ichinose-san way of doing things; A dazzling approach that not just anyone would be able to implement."
+[says] (p.69) "we're no match for Ichinose-san when it comes to doing that."
+[says] (p.71) "More than half of the students invited to this didn't even attend. Those are the students I'm going to negotiate with."
+[says] (p.71) "There are two reasons."
+[says] (p.71) "we need to be looking for students with a B- rating as a bare minimum."
+[says] (p.72) "The students from Class 1-D didn't attend the event at all."
+[says] (p.73) "If there's someone we can negotiate with at the class level, it isn't necessary to try and bargain with people at the individual level."
+[says] (p.73) "In that sense, I don't plan on engaging in the inter-class competition this time around."
+[trait] (p.68–74) Astute and decisive — reads Ichinose's approach, concludes she can't out-socialize Class B, and targets the first-years who skipped the event; identifies Class 1-D's collective absence as proof of a controller, aiming for class-level cooperation with them.
+[rel:ichinose-honami] (p.68–69) Admires her "dazzling" trust-building; concedes Class D cannot replicate it.
+[rel:ayanokouji-kiyotaka] (p.68–74) Shares her observations and strategy with him as they leave the meet-and-greet.
+
+### y2v1 p.111–123 — The Keyaki Mall negotiation; three goals
+[note] (p.113) Sudō complains about the first-years "messin' around without a care in the world"; Horikita notes their lack of urgency compared to second-years.
+[says] (p.114) "We're searching for partners for the upcoming special exam. You guys don't have partners yet, right?"
+[says] (p.116) "It's natural to desire points, but is chasing after short-sighted greed really worth it?"
+[says] (p.117) "if you were to do us a favor here, we might be able help you out in a similar situation later on down the line."
+[says] (p.117) "There are also times where athletic ability is required." — leveraging Sudō's A+ physical rating
+[says] (p.118) "You guys are in Class D, just the same as us. I don't believe the higher-ranked classes would've approached you so easily."
+[says] (p.122) "I had decided on three goals for us back when I first heard about this special exam."
+[says] (p.122) "The most important one is to not let anyone get expelled."
+[says] (p.123) "The next is that we try to get third place or higher in the overall class ranking."
+[says] (p.123) "The third is to avoid participating in any monetary exchanges."
+[trait] (p.111–123) Negotiates shrewdly — tries to trade future favors and Sudō's athletic ability instead of points, bluffs to expose that Class 2-A and 2-C bought off the first-years, and refuses to chase a bidding war.
+[rel:sudou-ken] (p.111–120) Brings him along; uses his A+ Physical Ability as leverage, then tells him to focus on studies.
+[rel:shiratori] (p.114–121) Negotiates with him; he demands 500,000 points.
+[rel:hashimoto-masayoshi] (p.118) Correctly guesses he approached the Class 1-D honor students (per Shiratori).
+
+### y2v1 p.180–191 — Horikita coaches the cooking test by earpiece; debrief
+[note] (p.181–191) Horikita feeds Ayanokōji recipe instructions in real time through a wireless earpiece (rendered as bracketed inner-voice in the corpus) — guidance on knife work, telling him to ask Amasawa about the whisk/Petty knife and apple, and a 15–30 minute cooking target.
+[says] (p.190) "Well done. It looks like everything worked out one way or another."
+[says] (p.190) "Even so, this has gone and solved Sudō's problem. It's quite the accomplishment."
+[says] (p.191) "Your way of thinking is… How do I put it…? Extremely calculated, and yet clever."
+[says] (p.191) "It seems quite obvious when you say it after the fact, but it's a completely different thing for you to think so far ahead in the moment."
+[says] (p.191) "What changed?"
+[trait] (p.180–191) Orchestrated the cooking operation — taught him knife techniques overnight, prepared recipes on her computer, used a <2cm wireless earpiece and Sudō's phone to feed real-time instructions; openly praises his cleverness and notices his behavior has changed from the past.
+[rel:ayanokouji-kiyotaka] (p.180–191) Coached him through the test and debriefed; impressed by his far-sighted calculation and curious about what changed in him.
+[rel:sudou-ken] (p.180) His phone relayed the call; their plan solves his partner problem.
+
+### y2v1 p.205–214 — Horikita negotiates the Class 1-D agreement
+[says] (p.205) "I'm a little annoyed. I thought Hōsen-kun would wait and see how the situation developed for a little while longer."
+[says] (p.208) "Don't worry. I'm not going to lose." — on their bet
+[says] (p.212) "Fifteen… That's more than I expected."
+[says] (p.212) "I'm hoping that you and I can decide on a combination of fifteen sets of partners and get this over with all at once."
+[says] (p.212) "It wouldn't matter what Academic Ability rating they might have. And, naturally, there wouldn't be any points involved either."
+[says] (p.212) "It would be an equal, collaborative relationship based on helping those who need to be helped."
+[says] (p.211) "Yeah. If nobody is ever willing to help the class as a whole, the ongoing individualist battle would naturally accelerate."
+[trait] (p.205–214) Proposes a 15-pair, no-points, equal cooperation agreement between Class 2-D and 1-D; predicts Class 1-D's individualism will accelerate and leave the weak behind, leaving them unable to handle cohesion exams; respects Nanase's loyalty.
+[rel:nanase-tsubasa] (p.208–214) Negotiates the agreement with her; impressed by her principled refusal to betray Hōsen's strategy.
+[rel:ayanokouji-kiyotaka] (p.207–208) Checks whether he's studying for their bet, worried he'll make excuses; wants to win.
+
+### y2v1 p.287–295 — The karaoke setup; arriving early
+[says] (p.294) "By the way… The meeting's at 9, right? Aren't we way too early?" — Sudō
+[says] (p.294) "It's fine. I want to get there early."
+[says] (p.295) "Sudō-kun. Just to remind you again, absolutely do not say anything unnecessary, okay?"
+[says] (p.295) "He's not the type of person to talk when it isn't needed. Rather, he doesn't even talk when he ought to."
+[trait] (p.287–295) Refuses to let Sudō join until Ayanokōji intervenes, then allows it on condition he not interrupt or threaten; arrives half an hour early, wary of Hōsen and wanting to compose herself, and stages the half-eaten food/drinks so Hōsen won't think they waited in fear.
+[rel:sudou-ken] (p.287–295) Reluctantly lets him come as backup; warns him to stay quiet — he wants to hear her sing.
+[rel:ayanokouji-kiyotaka] (p.295) Teases him for not talking even when he should.
+
+### y2v1 p.296–324 — Confronting Hōsen; the fighting and the knife
+[says] (p.296) "So you came on time. I was nearly certain that you'd be late."
+[says] (p.296) "What a selfish interpretation. We were just taking advantage of this rare opportunity to enjoy ourselves."
+[says] (p.297) "It's slightly different from that. We're looking to have our two classes collaborate with each other. There would be no difference in status between us, a relationship of equality so to speak."
+[says] (p.298) "Do you really think we will submit to violence?"
+[says] (p.323) "…So be it. I'll be the one to stop you then."
+[trait] (p.296–324) Stands firm on equality, calmly needling Hōsen about his lateness metaphor (Musashi); when violence erupts she is distressed and screams for Sudō to turn back, then takes a fighting stance herself — her one knockout strike is caught, and Hōsen slaps her down.
+[rel:housen-kazuomi] (p.296–324) Negotiates as an equal, then is forced to defend herself; he slaps her, demands five million points, and calls the teachers.
+[rel:sudou-ken] (p.321–324) Cries out for him when he's knocked down; her distress causes his fatal lapse.
+
+### y2v1 p.338–341 — Aftermath: panic over the knife; pressing Nanase
+[says] (p.338) "W-what should we do…? Should we, uhm, p-pull the knife out?"
+[says] (p.340) "Are you saying that the kindness you've shown us was all just part of an act meant to fulfill that goal?"
+[says] (p.341) "Why was that your goal? I don't remember pardoning you for what happened here tonight."
+[says] (p.341) "I don't understand what you're saying. That doesn't make any sense. Who on earth would come up with such an outrageous, stupid special exam?"
+[trait] (p.338–341) Usually level-headed but loses her cool at the sight of the knife through Ayanokōji's hand; hounds Nanase for answers about the 20-million-point bounty and is furious on Ayanokōji's behalf — he has to cut in to stop her.
+[rel:nanase-tsubasa] (p.340–341) Presses her for the truth about targeting Ayanokōji; learns the bounty.
+[rel:ayanokouji-kiyotaka] (p.338–341) Desperate about his injury, wanting to report the attack — he tells her to leave the knife in and accepts Nanase's explanation.
+
+### y2v1 p.349–351 — Horikita concedes the bet
+[says] (p.349) "I won't make any excuses. I did everything I possibly could, and got a score that I'm satisfied with."
+[says] (p.349) "Are you sure you don't want a rematch?"
+[says] (p.350) "I couldn't even understand what those final questions meant,"
+[says] (p.350) "…Forget it. It was stupid of me to even ask in the first place."
+[says] (p.350) "It's frustrating, but I admit defeat. The events of these last couple days have pretty much forced me to recognize your abilities."
+[says] (p.350) "Dragging my heels any more than this would just be foolishness on my part."
+[trait] (p.349–351) Scored 87 in math (her best, far above Keisei's 84) and fought admirably, but concedes the bet after the knife incident and his perfect score forced her to recognize his abilities; is about to raise the Student Council condition when Chabashira interrupts.
+[rel:ayanokouji-kiyotaka] (p.349–351) Lost their bet; admits defeat, still frustrated but honest.
+[rel:chabashira-sae] (p.350–351) Excuses herself when Chabashira comes to take Ayanokōji away; doesn't want to talk in her presence.
+
+### y2v1 p.360–361 — Short story: "What's the Fuss About My Hair?"
+[scene] (p.360) Recounts the string of reactions to her short hair — people from other classes whispering, then her own classmates' even bigger reaction in the classroom.
+[narrates] (p.360) "Is it that weird to change my hairstyle?"
+[narrates] (p.361) "For example… unrequited love?"
+[narrates] (p.361) "U-u-u-unrequited love!?"
+[narrates] (p.361) "It's more like showing my resolution if I have to say it."
+[narrates] (p.361) "We are 2nd years now so we shall soon have to fight to raise our class up."
+[trait] (p.360–361) Firmly refutes Sudō's "unrequited love" guess — the biggest reason she cut her hair was so her best memory of her brother wouldn't be tainted by that description; the haircut marks separating her past self from her present self and her resolve to support the class and reach Class A.
+[rel:horikita-manabu] (p.361) Her best memory of him must not be tainted by "unrequited love."
+[rel:sudou-ken] (p.360–361) He raises the loudest voice about her hair and guesses "unrequited love."
+[rel:kushida-kikyou] (p.361) She is more interested in why she cut it than the image change.
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

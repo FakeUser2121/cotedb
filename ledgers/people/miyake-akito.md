@@ -475,6 +475,29 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
+### y2v1 p.18 — Miyake advises Ayanokōji about the group
+[says] (p.18) "Yo."
+[says] (p.18) "I've been a little worried about you cuz you didn't really hang out with the group all that much over spring break."
+[says] (p.18) "Don't get me wrong, there's no rule stating you've gotta hang out with us, but even Haruka was kinda worried, and on top of that, Airi really seemed like she was thinking about you a lot."
+[says] (p.18) "That sounds good to me. I was feeling pretty lonely without you too, you know."
+[trait] (p.18) A close friend of Ayanokōji's small group — good-naturedly concerned he neglected them over break, passes on the girls' worry, and admits he was lonely; his casual advice makes Ayanokōji feel he found "a truly good friend."
+[rel:ayanokouji-kiyotaka] (p.18) Close friend; gives him friendly advice.
+[rel:hasebe-haruka] (p.18) Notes she was worried about Ayanokōji.
+[rel:sakura-airi] (p.18) Says she thought about Ayanokōji a lot.
+
+### y2v1 p.108–110 — Miyake reveals Hōsen's reputation and his own delinquent past
+[note] (p.108) Sakura (Airi) says Hōsen "was super scary"; Miyake responds with what he knows.
+[says] (p.108) "One hell of a guy just enrolled here. This school might get pretty stormy moving forward."
+[says] (p.108) "Hōsen is so strong that Sudō and Ryūen can't even compare to him."
+[says] (p.109) "I've never seen him in person or anything, but Ryūen and Hōsen are both quite famous back where I'm from."
+[says] (p.109) "Hōsen had beaten him to a pulp in a one-on-one and sent him to the hospital."
+[says] (p.109) "I… I've stopped doing that sorta stuff. I'm a proper student these days."
+[says] (p.109) "I had a bad temper until my second year of middle school. Ever since then I channelled all of it into archery."
+[says] (p.110) "Stop joking around. I'm one to choose my opponent before I fight with someone, and there's no way that I'd choose to fight Hōsen."
+[trait] (p.108–110) A former delinquent from a delinquent-heavy area — earned a reputation as a fighter (nerves of steel, agile movements) before channelling his temper into archery; admits he'd never choose to fight Hōsen, acknowledging the first-year's overwhelming strength.
+[rel:ayanokouji-kiyotaka] (p.108–110) In the Ayanokōji group; shares what he knows of Hōsen.
+[rel:housen-kazuomi] (p.108–110) Rates him far above Sudō and Ryūen; refuses to fight him.
+[rel:hasebe-haruka] (p.108–110) Teases him about having been a delinquent; he scratches his head uncomfortably.
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

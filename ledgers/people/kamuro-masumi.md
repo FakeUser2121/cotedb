@@ -261,6 +261,16 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
+### y2v1 p.194–196 — Kamuro relays the bidding war to Sakayanagi
+[says] (p.194) "It happened again. It seems that the students we reached out to have all gotten offers from Class C."
+[says] (p.194) "10,000 points, just for deciding not to join up with us? Is that stupid or what?"
+[says] (p.194) "So you're just fine with losing? To Ryūen?"
+[says] (p.194) "If we need to be dishing out 100,000 or 200,000 points,"
+[says] (p.195) "Maybe so. But, that doesn't mean we're absolutely gonna win either, right?"
+[says] (p.196) "Are you saying we can win over the students even if we offer them less points?"
+[trait] (p.194–196) Frustrated and eager to act — relays Hashimoto's intelligence about the rival classes' point offers and repeatedly urges Sakayanagi to fight back with points; can't accept her sitting idle against Ryūen, but it's loyalty rather than a desire to win for herself.
+[rel:sakayanagi-arisu] (p.194–196) Her classmate; argues with her about countering Ryūen's bids.
+[rel:hashimoto-masayoshi] (p.194) On the phone with him, relaying his findings.
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

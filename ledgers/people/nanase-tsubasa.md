@@ -87,6 +87,68 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
+### y2v1 p.100–101 — Nanase with Hōsen; a probing look at Ayanokōji
+[scene] (p.100) Accompanies Hōsen during his confrontation with Ryūen, and obeys his order to withdraw.
+[says] (p.100) "Yes. That's a wise choice."
+[says] (p.101) "I'm sorry for the disturbance."
+[trait] (p.100–101) Calm and composed beside the volatile Hōsen — bows a polite final apology on behalf of Class 1-D; when she raises her head she fixes Ayanokōji with the same inquisitive, probing look as when she first arrived, then quickly looks away and runs after Hōsen.
+[rel:ayanokouji-kiyotaka] (p.101) Gives him a knowing, probing look — the White Room agent silently assessing her target.
+[rel:housen-kazuomi] (p.100–101) Obeys his withdrawal order; seen as his second-in-command in Class 1-D.
+
+### y2v1 p.205–214 — Nanase negotiates on behalf of Class 1-D
+[scene] (p.208) Arrives alone at the library for the discussion with Horikita and Ayanokōji; fumbles her self-introduction (starting with the masculine "Boku," a detail the translation flags).
+[says] (p.208) "I─ No, that's not right… I am known as Nanase Tsubasa. I haven't done anything worthy of your thanks."
+[says] (p.209) "Many students have already begun taking action in accordance with Hōsen-kun's orders."
+[says] (p.209) "I'm immensely sorry, but I'm afraid I can't provide you with any specifics."
+[says] (p.210) "an act of betrayal."
+[says] (p.210) "our doors are always open to you. As long as you present us with at least a fixed number of private points, we'll accept the partnership without the slightest bit of hesitation."
+[says] (p.211) "What really gets to me is the thought that this individualistic mindset might never go away, preventing us from being able to unite as a class in the future."
+[says] (p.211) "Yes." — when asked if she fears Hōsen
+[says] (p.212) "At this point, I believe that approximately fifteen students would find it difficult to search for a partner on their own."
+[says] (p.213) "Hōsen-kun would never allow us to help you out for free. Especially not now."
+[says] (p.214) "Hōsen-kun has not received any compensation from our classmates."
+[trait] (p.208–214) Upright, fearless and loyal — refuses to leak Hōsen's strategy (calling it betrayal), admits she fears him yet opposes his individualism for the class's future, and reveals he takes no profit; she negotiates single-handedly to save the weak.
+[rel:horikita-suzune] (p.208–214) Negotiates the 15-pair equal-cooperation proposal with her.
+[rel:housen-kazuomi] (p.209–214) Confirms he controls Class 1-D via orders, with no personal compensation; she opposes his individualist policy.
+[rel:ayanokouji-kiyotaka] (p.208–214) Treats him with respect; fixes her "same look" on him — the hidden White Room agent quietly assessing her target.
+
+### y2v1 p.326–341 — Nanase stops Hōsen; reveals the 20-million bounty and her hatred
+[scene] (p.326) Steps between Hōsen and Ayanokōji as he advances with the knife, spreading her arms to block him.
+[says] (p.326) "Please don't go any further! I can't approve of your methods after all… I can't!"
+[says] (p.328) "I made the decision to lend you my strength until the very end, telling myself that it was for the good of the class."
+[says] (p.328) "Horikita-senpai, working together with Hōsen-kun has been impossible from the very beginning."
+[says] (p.328) "That was just a ploy to get things to progress to this point."
+[says] (p.340) "No, nothing of the sort, Horikita-senpai. I truly did want to join hands with you and establish a supporting relationship between our two classes."
+[says] (p.340) "We were told that the student who manages to expel Ayanokōji Kiyotaka of Class 2-D will receive a bulk sum of 20 million private points. That's the special exam that was given to us."
+[says] (p.341) "For the sake of my class, of Class 1-D, I chose to cooperate with Hōsen-kun knowing full well just how awful his methods truly were."
+[says] (p.341) "Because, if the 20 million point bounty were to fall into the hands of another class, it would bring about serious ramifications for us moving forward."
+[says] (p.341) "I*… simply didn't believe a person like you would be suitable for this school, Ayanokōji-senpai."
+[trait] (p.326–341) Breaks with Hōsen to stop the knife, reveals the negotiation was a ploy from the start and the 20-million-point bounty, and explains she cooperated to keep the bounty from another class — then reveals an unexplained personal hatred, using the masculine katakana "boku" in her final line (deliberately linking herself to Ayanokōji, per the translation notes).
+[rel:housen-kazuomi] (p.326–328) Physically stops him, declares she was wrong to accept his methods, and is brushed aside.
+[rel:horikita-suzune] (p.328–341) Reveals the plot and bounty to her and Ayanokōji; urges them to beware other first-year classes.
+[rel:ayanokouji-kiyotaka] (p.341) Directs open hatred at him — the White Room agent's true motive remains hidden; she stays behind to explain, then leaves.
+
+### y2v1 p.364–367 — Short story: "What is Reflected in Her Eyes"
+[scene] (p.364) After leaving the dorm, spots Ayanokōji approaching two Class 1-A girls and decides to intercept him first, running to match his pace.
+[narrates] (p.364) "Good morning, Ayanokouji-senpai."
+[narrates] (p.365) "I definitely think I managed a perfect smile."
+[narrates] (p.365) "Ayanokouji-senpai's presence is unusually peculiar."
+[narrates] (p.366) "I will force him to deepen his relationship with class 1-D"
+[narrates] (p.367) "You can't judge people by their apperances."
+[trait] (p.364–367) From her own viewpoint, deliberately engineers the chance morning encounter, judging Ayanokōji an absentminded sharpened blade whose good-or-evil nature is all that matters to her; holds strongly to the belief that appearances can't tell a person's worth (the corpus prints "apperances") and notes his D-Class cooperation proposal is exactly what she'd wanted — the White Room agent manipulating the meeting.
+[rel:ayanokouji-kiyotaka] (p.364–367) Deliberately approaches him to draw him into Class 1-D; he unexpectedly proposes the very cooperation she sought.
+[rel:housen-kazuomi] (p.365) She follows him to stop his outbursts, feeling powerless.
+
+### y2v1 p.368–369 — Short story: "The Voice in My Heart"
+[scene] (p.368) After Horikita leaves the library, probes Ayanokōji about how he'll convince Hōsen, then turns the question on him.
+[narrates] (p.368) "That… I don't have a problem answering that question but only if, if you can tell me about you."
+[narrates] (p.368) "What— kind of person are you, senpai?"
+[narrates] (p.369) "What you want to know isn't about her relationship with me, it seems."
+[narrates] (p.369) "Yes, I think you are a wicked and a filthy human being, Ayanokouji-senpai."
+[narrates] (p.369) "As far as I can see, you look like a regular human being, Ayanokouji-senpai."
+[trait] (p.368–369) Boldly voices her belief that he is a wicked, filthy human being yet looks like a regular human — testing him about his true nature (good or evil); retreats when she fears she's come too close, while noting he seemed to understand exactly what she wanted to ask; uses the masculine "boku" (katakana), hinting at her link to him.
+[rel:ayanokouji-kiyotaka] (p.368–369) Presses him on what kind of person he is; he sees through her intended question.
+[rel:horikita-suzune] (p.368) Admires her and wishes to become as splendid as her by next year.
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

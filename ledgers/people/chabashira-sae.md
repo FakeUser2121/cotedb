@@ -1118,6 +1118,34 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
+### y2v1 p.50–52 — Chabashira's score estimates and exam scope
+[says] (p.51) "To tell you the truth, there are many extremely difficult questions on the exam."
+[says] (p.51) "It'll definitely be one of the most challenging exams you've taken so far."
+[says] (p.51) "The exam has been designed so that even students with an E rating in Academic Ability can score at least 150 points without any prior preparation."
+[says] (p.51) "If you study properly, you should be able to get a score close to those shown here. However, don't forget that if you're conceited and neglect your studies, you may end up with a lower score than this."
+[says] (p.51) "it's unlikely that anyone will score over 90 points in each subject, let alone get a perfect score."
+[says] (p.52) "That should be everything for the overview of the special exam you'll be taking in April. Get ready to buckle down and do your best."
+[number] (p.51) Score estimates by rating: E 150–200, D 200–250, C 250–300, B ~350, A ~400. Two E-rated partners would put the second-year at risk of expulsion.
+[trait] (p.51–52) Blunt and matter-of-fact — frames the exam as one of the hardest yet, displays the score table, and warns against blindly trusting it; notes the test scope is mostly last year's material.
+
+### y2v1 p.27, 40–47 — Chabashira delivers the exam briefing
+[says] (p.27) "Everyone's here, right?"
+[says] (p.41) "While the world as a whole is slowly shifting over to a meritocracy, many Japanese companies are still bound up in the concepts of seniority and lifetime employment."
+[says] (p.41) "let's consider the concept of grade skipping."
+[says] (p.47) "Don't worry. It has been set up so that, no matter how many of you are unable to find partners, nobody will be left without one."
+[says] (p.47) "pairs formed past the deadline will be subject to a 5% penalty to their overall score."
+[says] (p.48) "The three extra students will have their exam scores doubled to make up for their missing partner."
+[trait] (p.27–52) Enters with an "extremely serious look," announces the partner exam calmly as if a normal lesson, gives the scripted grade-skipping justification, and field's students' questions (laterally, indifferently) about penalties and the leftover first-years.
+
+### y2v1 p.350–352 — Chabashira keeps the knife incident quiet; summons Ayanokōji
+[says] (p.350) "How awfully cold. Where would you be if not for my help the other day?"
+[says] (p.351) "I see I've interrupted you, but it's urgent. Acting Director Tsukishiro is asking for you. Come."
+[says] (p.351) "Just so you know… According to Mashima-sensei, it seems like Acting Director Tsukishiro didn't do anything out of the ordinary during the special exam."
+[says] (p.351) "Being stabbed with a knife is no laughing matter, you know. Your father took action, didn't he?"
+[says] (p.352) "Great. I need you here, I need you to be useful for me. Your perfect score on the math test has made it clear to me just how special you really are after all."
+[trait] (p.350–352) Helped keep Ayanokōji's knife wound confidential, worries Tsukishiro might forcibly remove him ("take you out of the school by force"), and is proven right that his perfect math score reveals his special nature; leads him to Tsukishiro's office.
+[rel:ayanokouji-kiyotaka] (p.350–352) Is secretly allied with him; keeps his secret and summons him.
+[rel:tsukishiro] (p.351) Reports his apparent inactivity during the exam; is uneasy about his intentions.
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

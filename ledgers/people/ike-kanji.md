@@ -1051,6 +1051,13 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y2v1 ch2 → p.65 -->
 
+### y2v1 p.27, 47 — Ike panics about the exam and his E rating
+[says] (p.27) "Sensei, is there a special exam?"
+[says] (p.41) "B-but we'll still be competing with others in our own school year, right? Something feels suspicious about this."
+[says] (p.47) "Sensei! There's no way that one of the first-years is gonna wanna pair up with me! Is an idiot like me really supposta rely on communication skills in order to get through this!?"
+[says] (p.53) "W-w-w-what should I do, Hirata!? My Academic Ability rating is an E! I'm screwed!"
+[trait] (p.27–53) Restless and easily panicked — asks the obvious question, is frustrated by cross-year involvement, laments nobody would pair with "an idiot like me," and begs Hirata for help with his E rating; breathes a sigh of relief at the random-partner safety net.
+[rel:hirata-yousuke] (p.53) Begs him for help when he panics about his E rating.
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

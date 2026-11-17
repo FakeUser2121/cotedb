@@ -133,6 +133,45 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
+### y2v1 p.7–10 — Tsukishiro's briefing: the mission to expel Ayanokōji
+[scene] (p.7) In a Tokyo facility meeting room in February, briefs a 15-year-old White Room teenager on data gathered over the past year about 156 second-year students.
+[says] (p.7) "With this, we've now gone over the data for Ayanokōji Kiyotaka and the other 156 second-year students. Have you committed everything to memory?"
+[says] (p.7) "I believe you're already aware of this, but it's crucial that Ayanokōji-kun is expelled and returned to the White Room before the end of April."
+[says] (p.7) "After all, we can't afford to prolong the plan any longer. Please be clever about how you do it though. Make sure the public learns nothing."
+[says] (p.7) "If the government hears of this, that person… Sensei's name might be stained, I'm afraid."
+[says] (p.8) "That's right. That's precisely why only someone like you, who can pose as a student, is able to do this."
+[says] (p.8) "You seem to have some complaints, I can see it on your face."
+[says] (p.8) "You aren't pleased that he, Ayanokōji-kun, is being praised as our masterpiece, are you?"
+[trivia] (p.7) The data includes full names, birthdates, former schools, parents and siblings, grades and accomplishments since early childhood, and typical associates — top-secret detail even homeroom teachers can't see.
+[trivia] (p.8–9) Deliberately fans the teenager's rivalry by emphasizing Ayanokōji is called the White Room's "masterpiece" and that the teenager was pulled from the resumed experiments; knows the White Room instills the idea "Become someone who can surpass Ayanokōji Kiyotaka," which breeds a hatred capable of reckless acts.
+[trait] (p.7–10) Manipulative and proud — believes he has "dealt with everything flawlessly," though the narration notes he misread the teenager; is "slightly bothered by their calm attitude" and calls out to ask if they are hiding something.
+
+### y2v1 p.10–11 — Tsukishiro alone: Ayanokōji the "monster"
+[scene] (p.10) Alone after the teenager leaves, powers the lights back on and studies Ayanokōji's White Room data on the screen.
+[says] (p.10) "You aren't hiding something from me, are you?"
+[says] (p.10) "I don't really like using these types of words to describe things, but… he really is a monster."
+[says] (p.10) "A battle between two fellow White Room students… I wonder how it would turn out in a fair fight?"
+[says] (p.10) "It's hunt or be hunted. It may be a game between children, but it will certainly still be an interesting one."
+[trivia] (p.10) Notes Ayanokōji's academics are excellent, his physical ability "could put adults to shame," and his fight record against professional fighters is nothing but victories.
+[trait] (p.10–11) Has devised a clever plan to ensure victory but admits victory isn't guaranteed; as an adult, unhurried, he slowly took his time executing the mission.
+[rel:ayanokouji-kiyotaka] (p.7–11) Targets him for expulsion before end of April — a "monster" he must return to the White Room.
+
+### y2v1 p.352–356 — Tsukishiro's office: the end-of-April reckoning
+[scene] (p.352) Sitting in the reception office as Acting Director, receives Ayanokōji; motions for him to sit (he stays standing) and asks whether the infiltrator has been identified.
+[says] (p.352) "Thank you for coming all the way out here to meet me, Ayanokōji-kun."
+[says] (p.352) "Now that April has come to a close, have you managed to figure out who the student I sent is?"
+[says] (p.353) "What a concise response. Shouldn't you at least list off the names of the students who you found reasonably suspicious?"
+[says] (p.353) "They've worked hard these past several months on a specially-built curriculum tailored to make them into a full-fledged high school student."
+[says] (p.353) "It seems that you, on the other hand, had to go through quite a lot of trouble."
+[says] (p.354) "No no. There's no need to rush things. I've been given a surprisingly long extension."
+[says] (p.355) "Very well. It's a bother to have you seek credibility from my words and the like, but I'll admit it. It's true that I had planned on guaranteeing your expulsion this time around."
+[says] (p.355) "However, that child simply disregarded it."
+[says] (p.355) "If I fail and end up getting cast aside, well, that's that. I'll simply move on to my next posting."
+[says] (p.356) "If that child is going so far as to ignore your father's intentions, then depending on the circumstances, you might even be better off choosing to get expelled yourself."
+[trait] (p.352–356) Calm, amused and deceptive — first denies, then admits the enforcer disobeyed orders, claims he was given an extension and may be a pawn; sips tea and warns darkly of the envy Ayanokōji's "magnum opus" status attracts, masking whether he or "that man" truly pulls the strings.
+[rel:ayanokouji-kiyotaka] (p.351–356) Their reckoning — he expected Ayanokōji might be expelled by now; admits his plan failed and issues a veiled warning.
+[rel:chabashira-sae] (p.351) Sent her to fetch Ayanokōji rather than go to the classroom himself.
+[note] (p.355) Tsukishiro states the White Room student he sent simply disregarded his order to expel Ayanokōji — an enforcer acting on their own, which deeply concerns him.
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

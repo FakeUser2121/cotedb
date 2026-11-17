@@ -1474,6 +1474,60 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
+### y2v1 p.21–24 — Sudō fusses over Horikita's haircut
+[says] (p.21) "S-Suzune…? Wha… What's up with your hair!?"
+[says] (p.23) "N-no, rather than strange, it's more, surprising, ya know…? It like, makes you seem like a totally different person…"
+[says] (p.23) "Short hair actually looks really good on you. W-wouldn't you agree, Kushida?"
+[says] (p.23) "Whattaya mean by 'did something happen'!?"
+[says] (p.23) "Like… maybe she had her heartbroken, or something?"
+[says] (p.23) "T-that makes sense. There's no way you'd be dealing with an unrequited love or anything, right? Right?"
+[trait] (p.21–24) Rushes over from his chat to gawk at Horikita's hair, readily approves of the new look (to him hair length is trivial), speculates nervously about heartbreak, and breaks out in a cold sweat at the thought of unrequited love.
+[rel:horikita-suzune] (p.21–24) Has fallen in love with her; fusses over her appearance.
+[rel:kushida-kikyou] (p.23) Seeks her agreement that the short hair suits Horikita.
+
+### y2v1 p.55–56 — Sudō's harsh training of the basketball first-years
+[says] (p.56) "Y-yeah. But…"
+[says] (p.56) "Club started a few days ago and all, but, well, we've kinda gone full-on Spartan on 'em… or how should I say it? We've been pretty harsh on 'em, ya know?"
+[says] (p.56) "Well, I guess it might be like that. Basketball can be pretty hardcore, aight?"
+[trait] (p.55–56) Devoted to basketball — admits he and the club went "full-on Spartan" on the new first-years, possibly making them dislike him; Horikita reads this as having already put himself in a bad position and tells him to set it aside and focus on studying.
+[rel:horikita-suzune] (p.55–56) Is questioned about basketball first-years and warned to focus on studies instead of the exam.
+
+### y2v1 p.69–70, 113–120 — Sudō at the meet-and-greet and in the partner search
+[says] (p.69) "Every last one of 'em looks damn wimpy to me."
+[note] (p.69) Horikita tells him not to glare at the first-years; he replies that it's "just the face I was born with."
+[says] (p.70) "This is just the face I was born with."
+[says] (p.70) "is it really alright to be taking it easy like this? Won't the smart guys get snatched up by Ichinose? Shouldn't we go and say somethin to 'em?"
+[says] (p.107) "Damn, how lucky. I wouldn't have hesitated to pair up with ya if it were me…"
+[says] (p.108) "I'll definitely get me some way better scores!"
+[says] (p.113) "Just look at 'em, messin' around without a care in the world."
+[says] (p.113) "I-I didn't forget… I've reflected on it a lot, okay?"
+[says] (p.115) "What!? You wanna take points from us? And 50,000 points at that…? That's way too many!"
+[says] (p.116) "O-oi, Suzune, I ain't even got close to 500,000 points though?"
+[trait] (p.69–120) Blunt and impatient — calls the first-years "wimpy," wants to rush in before Ichinose grabs the smart ones, is jealous of Kushida's pick of partners, and is outraged at Shiratori's 50,000/500,000-point demands; carelessly reveals his own lack of funds.
+[rel:horikita-suzune] (p.69–70, 113) Presses her to act at the meet-and-greet and accompanies her partner search; she tells him not to glare and to stop worrying about the exam.
+[rel:ichinose-honami] (p.70) Fears the smart first-years will be snatched up by her.
+[rel:kushida-kikyou] (p.107) Envies her A-rated ability to choose a partner.
+
+### y2v1 p.287–291 — Sudō's growth and feelings before the meeting
+[says] (p.288) "Hey man!"
+[says] (p.288) "Of course. Sorry, but I'm gonna get at least 250 points this time."
+[says] (p.288) "It ain't like I enjoy it man. But I'll tell ya, it sure feels good to solve those problems. And when Suzune praises me, I get so pumped up that it feels like I can study forever!"
+[says] (p.289) "If I confess to her right now, d'ya think Suzune would accept it?"
+[says] (p.289) "Right?"
+[says] (p.290) "I'm workin' hard these days aight? But I'm not gonna pretend that it cancels out the burden I've put on everyone else."
+[says] (p.290) "'Course I'd wanna stop. Hell, I'd prolly wanna die. There's even a chance I might end up punchin' someone. But the thing is, Suzune would prolly be disappointed in me if I did, right?"
+[trait] (p.288–291) Transformed — diligent, no longer late, aiming for 250+ points to raise his E to a C; open about his love for Horikita and humble about his past arrogance; insists he won't give up even if she never returns his feelings, because disappointing her would be "super lame."
+[rel:horikita-suzune] (p.288–291) Deeply in love with her; wants to confess but knows she isn't the romantic type and feels unworthy; his praise-driven motivation is clear to Ayanokōji.
+[rel:ayanokouji-kiyotaka] (p.288–291) Friends; asks him honestly whether Horikita would accept a confession.
+
+### y2v1 p.295, 321–338 — Sudō brawls with Hōsen and is knocked out
+[says] (p.321) "Guh─!?"
+[says] (p.325) "You son of a bitch!!"
+[says] (p.325) "S-Suzune!"
+[note] (p.321) Hōsen punches Sudō in the cheek from behind when he turns away, worried about Horikita — a blow that sends him sliding across the floor, nearly fainting; he throws himself at Hōsen again but is kicked down.
+[trait] (p.321–338) Fiercely protective of Horikita but outmatched — loses his cool in the brawl, turned his back for a fatal instant, and is brutally knocked around; struggles to his feet and is relieved and awed by Ayanokōji's calm with the knife through his hand.
+[rel:housen-kazuomi] (p.321–325) Fights him to defend Horikita but is overpowered by the stronger first-year.
+[rel:horikita-suzune] (p.321) His concern for her causes the opening Hōsen exploits.
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
