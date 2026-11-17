@@ -16,3 +16,6 @@ char_id: tokunaga · class: unknown · status: unknown
 
 
 <!-- walk: y2v3 Epilogue → p.368 -->
+
+
+<!-- walk: y2v4 Epilogue → p.284 -->

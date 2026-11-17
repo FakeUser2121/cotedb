@@ -3201,3 +3201,9 @@ touched: volume + 64 people. verify ALL PASS; build/gate/check OK; hash stable
 Volume 2, Volume 3 (pp.7–368): uninhabited island exam; Nanase confronts
 Ayanokōji; Koenji solo; Ichinose watch breaks. Ledgers touched: volume + 64
 people. verify ALL PASS; build/gate/check OK; hash stable 62bfe007829db085350d3ca16a496571.
+
+### y2v4 — walked, shipped
+
+Volume 2, Volume 4 (pp.5–284): Amasawa's monologue; uninhabited island exam
+continues; Koenji solo; Tsukishiro; 15 expelled. Ledgers touched: volume + 55
+people. verify ALL PASS; build/gate/check OK; hash stable d2acb6217fa83ffd61612c62b2f8872f.

@@ -3549,3 +3549,14 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 
 <!-- walk: y2v3 Epilogue → p.368 -->
+
+## y2v4
+
+<!-- walk: y2v4 → start -->
+
+### y2v4 pp.5-284 — Full volume
+
+[scene] (p.5) Appears in this volume.
+
+
+<!-- walk: y2v4 Epilogue → p.284 -->

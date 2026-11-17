@@ -19,3 +19,14 @@ char_id: isoyama-nagisa · class: unknown · status: unknown
 
 
 <!-- walk: y2v2 Epilogue → p.354 -->
+
+## y2v4
+
+<!-- walk: y2v4 → start -->
+
+### y2v4 pp.5-284 — Full volume
+
+[scene] (p.5) Appears in this volume.
+
+
+<!-- walk: y2v4 Epilogue → p.284 -->

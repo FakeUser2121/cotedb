@@ -1,0 +1,10 @@
+# Sasaki — walk ledger
+
+char_id: sasaki · class: unknown · status: unknown
+
+## y2v4.5
+
+<!-- walk: y2v4.5 → start -->
+
+
+<!-- walk: y2v4 Epilogue → p.284 -->
