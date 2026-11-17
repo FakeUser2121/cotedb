@@ -73,3 +73,14 @@ char_id: himeno-yuki · class: Class 2-A · status: unknown
 
 
 <!-- walk: y2v6 Epilogue → p.346 -->
+
+## y2v7
+
+<!-- walk: y2v7 → start -->
+
+### y2v7 pp.7-207 — Full volume
+
+[scene] (p.7) Appears in this volume.
+
+
+<!-- walk: y2v7 Epilogue → p.207 -->

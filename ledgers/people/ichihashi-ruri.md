@@ -23,3 +23,14 @@ char_id: ichihashi-ruri · class: Class 1-D · status: minor
 [rel:ayanokouji-kiyotaka] (p.353) Is chosen by him for the English test.
 
 <!-- walk: y1v11 ch8 → p.367 -->
+
+## y2v7
+
+<!-- walk: y2v7 → start -->
+
+### y2v7 pp.7-207 — Full volume
+
+[scene] (p.7) Appears in this volume.
+
+
+<!-- walk: y2v7 Epilogue → p.207 -->

@@ -3225,3 +3225,9 @@ build/gate/check OK; hash stable c15213576899fc8e8f2179e2afeb4c02.
 Volume 2, Volume 6 (pp.11–346): Miyake/Hasebe revenge; sports festival.
 Ledgers touched: volume + 54 people. verify ALL PASS; build/gate/check OK;
 hash stable 42ca7779490d72057b8c63f051a2eea1.
+
+### y2v7 — walked, shipped
+
+Volume 2, Volume 7 (pp.7–207): cultural festival; Hasebe's confession; Airi idol.
+Ledgers touched: volume + 69 people. verify ALL PASS; build/gate/check OK;
+hash stable 75b28b9fd394816fa7b08d4036a6a2e4.

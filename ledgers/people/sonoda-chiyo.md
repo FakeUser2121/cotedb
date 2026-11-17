@@ -19,3 +19,14 @@ char_id: sonoda-chiyo · class: unknown · status: unknown
 
 
 <!-- walk: y2v2 Epilogue → p.354 -->
+
+## y2v7
+
+<!-- walk: y2v7 → start -->
+
+### y2v7 pp.7-207 — Full volume
+
+[scene] (p.7) Appears in this volume.
+
+
+<!-- walk: y2v7 Epilogue → p.207 -->

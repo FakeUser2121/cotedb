@@ -114,3 +114,14 @@ char_id: kinoshita-minori · class: Class 1-C (enrolled April 2015) · status: m
 
 
 <!-- walk: y2v4 Epilogue → p.284 -->
+
+## y2v7
+
+<!-- walk: y2v7 → start -->
+
+### y2v7 pp.7-207 — Full volume
+
+[scene] (p.7) Appears in this volume.
+
+
+<!-- walk: y2v7 Epilogue → p.207 -->
