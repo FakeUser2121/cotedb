@@ -3267,3 +3267,9 @@ OK; hash stable 5f397e582c47d59cdc47c1a578e9b29f.
 Volume 2, Volume 10.25 (pp.1–10): From That Time On short story; gym.
 Ledgers touched: volume + 9 people. verify ALL PASS; build/gate/check OK;
 hash stable edd9335c73121a3699ded619bfdf69f3.
+
+### y2v11 — walked, shipped
+
+Volume 2, Volume 11 (pp.11–223): two-person interviews; exchange meeting;
+Ayanokōji's plans for Kei/Ichinose. Ledgers touched: volume + 85 people.
+verify ALL PASS; build/gate/check OK; hash stable dc7c7824c249172c296c5e251febbfc8.

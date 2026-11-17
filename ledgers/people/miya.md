@@ -19,3 +19,14 @@ char_id: miya · class: unknown · status: unknown
 
 
 <!-- walk: y2v9.75 Epilogue → p.17 -->
+
+## y2v11
+
+<!-- walk: y2v11 → start -->
+
+### y2v11 pp.11-223 — Full volume
+
+[scene] (p.11) Appears in this volume.
+
+
+<!-- walk: y2v11 Epilogue → p.223 -->

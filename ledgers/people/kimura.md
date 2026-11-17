@@ -46,3 +46,14 @@ char_id: kimura · class: Keyaki Mall Pharmacy staff · status: minor
 
 
 <!-- walk: y2v10 Epilogue → p.235 -->
+
+## y2v11
+
+<!-- walk: y2v11 → start -->
+
+### y2v11 pp.11-223 — Full volume
+
+[scene] (p.11) Appears in this volume.
+
+
+<!-- walk: y2v11 Epilogue → p.223 -->

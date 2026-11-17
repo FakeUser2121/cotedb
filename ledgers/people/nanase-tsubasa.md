@@ -224,3 +224,14 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 
 <!-- walk: y2v9.5 Epilogue → p.219 -->
+
+## y2v11
+
+<!-- walk: y2v11 → start -->
+
+### y2v11 pp.11-223 — Full volume
+
+[scene] (p.11) Appears in this volume.
+
+
+<!-- walk: y2v11 Epilogue → p.223 -->

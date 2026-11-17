@@ -143,3 +143,14 @@ char_id: asahina-nazuna · class: Class 2-A · status: supporting
 
 
 <!-- walk: y2v9 Epilogue → p.225 -->
+
+## y2v11
+
+<!-- walk: y2v11 → start -->
+
+### y2v11 pp.11-223 — Full volume
+
+[scene] (p.11) Appears in this volume.
+
+
+<!-- walk: y2v11 Epilogue → p.223 -->
