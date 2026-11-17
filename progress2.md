@@ -3179,3 +3179,11 @@ Class C and D alliance; Class A eliminated; Ayanokōji vs Ryuuen on the beach;
 Class D wins first place. Ledgers touched: volume + 92 people ledgers. verify
 ALL PASS; build/gate/check OK; hash stable ae48217efe34306afdce69374fd25464.
 Next: y0 (side stories).
+
+### y0 (v0) — walked, shipped
+
+Side Stories / Year 0 (pp.10–265): Atsuomi's monologue, White Room Project launch,
+activation, children's stories, Naoe's withdrawal, epilogue with Kiyotaka meeting
+Yuki and enrolling in ANHS. Ledgers touched: volume + 33 people ledgers. verify
+ALL PASS (v0); build/gate/check OK; hash stable 2ffa83b04525aafb7607bcb3bb843048.
+Walk complete: all volumes y1v1 → y0 done.

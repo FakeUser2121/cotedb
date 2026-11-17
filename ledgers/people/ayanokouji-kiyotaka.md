@@ -5445,3 +5445,14 @@ walk: y1v1 → DONE
 
 
 <!-- walk: y3v3 Epilogue → p.256 -->
+
+## y0
+
+<!-- walk: y0 → start -->
+
+### y0 pp.10-265 — Full volume
+
+[scene] (p.10) Appears in this volume.
+
+
+<!-- walk: y0 Epilogue → p.265 -->
