@@ -3207,3 +3207,9 @@ people. verify ALL PASS; build/gate/check OK; hash stable 62bfe007829db085350d3c
 Volume 2, Volume 4 (pp.5–284): Amasawa's monologue; uninhabited island exam
 continues; Koenji solo; Tsukishiro; 15 expelled. Ledgers touched: volume + 55
 people. verify ALL PASS; build/gate/check OK; hash stable d2acb6217fa83ffd61612c62b2f8872f.
+
+### y2v4.5 — walked, shipped
+
+Volume 2, Volume 4.5 (pp.10–290): summer cruise; treasure hunt; Kei/Ayanokōji
+kiss. Ledgers touched: volume + 80 people. verify ALL PASS; build/gate/check OK;
+hash stable 31962a8ef8042eaa275a781e825250e3.

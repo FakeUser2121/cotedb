@@ -8,3 +8,6 @@ char_id: mikitani · class: unknown · status: unknown
 
 
 <!-- walk: y2v4 Epilogue → p.284 -->
+
+
+<!-- walk: y2v4.5 Epilogue → p.290 -->

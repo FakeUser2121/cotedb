@@ -59,3 +59,14 @@ char_id: shiranami-chihiro · class: Class 1-B · status: minor (allies)
 
 
 <!-- walk: y2v4 Epilogue → p.284 -->
+
+## y2v4.5
+
+<!-- walk: y2v4.5 → start -->
+
+### y2v4.5 pp.10-290 — Full volume
+
+[scene] (p.10) Appears in this volume.
+
+
+<!-- walk: y2v4.5 Epilogue → p.290 -->

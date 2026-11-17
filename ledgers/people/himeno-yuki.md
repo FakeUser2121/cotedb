@@ -40,3 +40,14 @@ char_id: himeno-yuki · class: Class 2-A · status: unknown
 
 
 <!-- walk: y2v2 Epilogue → p.354 -->
+
+## y2v4.5
+
+<!-- walk: y2v4.5 → start -->
+
+### y2v4.5 pp.10-290 — Full volume
+
+[scene] (p.10) Appears in this volume.
+
+
+<!-- walk: y2v4.5 Epilogue → p.290 -->

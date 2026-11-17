@@ -41,3 +41,14 @@ char_id: suzuki-hidetoshi · class: Class 1-C (enrolled April 2015) · status: m
 
 
 <!-- walk: y0 Epilogue → p.265 -->
+
+## y2v4.5
+
+<!-- walk: y2v4.5 → start -->
+
+### y2v4.5 pp.10-290 — Full volume
+
+[scene] (p.10) Appears in this volume.
+
+
+<!-- walk: y2v4.5 Epilogue → p.290 -->

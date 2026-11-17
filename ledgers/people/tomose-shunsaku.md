@@ -21,3 +21,14 @@ char_id: tomose-shunsaku · role: Illustrator · status: minor
 [scene] (p.205) Credited in the author’s New Year note as the illustrator of the volume.
 [fact] (p.205) Kinugasa: “most of all my illustrator, Tomoseshunsaku-sama” — indebted for the year’s work.
 [fact] (p.206) The bio page lists Illustrator: Tomoseshunsaku, born in September, lead animator for the Sagittarius games.
+
+## y2v4.5
+
+<!-- walk: y2v4.5 → start -->
+
+### y2v4.5 pp.10-290 — Full volume
+
+[scene] (p.10) Appears in this volume.
+
+
+<!-- walk: y2v4.5 Epilogue → p.290 -->

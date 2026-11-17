@@ -96,3 +96,14 @@ char_id: kondou-reo · class: Class 1-C (enrolled April 2015) · status: minor
 
 
 <!-- walk: y3v3 Epilogue → p.256 -->
+
+## y2v4.5
+
+<!-- walk: y2v4.5 → start -->
+
+### y2v4.5 pp.10-290 — Full volume
+
+[scene] (p.10) Appears in this volume.
+
+
+<!-- walk: y2v4.5 Epilogue → p.290 -->
