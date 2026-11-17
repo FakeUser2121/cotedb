@@ -220,6 +220,21 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 
 <!-- walk: y1v11.5 ch7 → p.423 -->
 
+### y1v11.5 Ch.1 — Depth review: confronting Tsukishiro's manipulation
+[scene] (p.60) Joins Ayanokōji and Sakayanagi in a secret meeting with teachers Mashima and Chabashira during the closing ceremony.
+[says] (p.60) "You seem to have something to say to us, Ayanokouji. Making a special announcement through Chairman Sakayanagi, allowing us to skip the closing ceremony to have a secret meeting… What's the big deal? What's going on?"
+[says] (p.68) "Never mind what I think, the current situation is hard for anyone to accept."
+[says] (p.71) "Do you two have any evidence?"
+[says] (p.75) "Yeah…The part about how the father was dissatisfied with his child's decision to enrol into the school and tried to get him expelled, I believe. And I don't want to help him with that."
+[says] (p.76) "Are you trying to feel me out, Ayanokouji?"
+[says] (p.76) "In future special examinations and tests, I will handle it appropriately, and will not allow"
+[says] (p.79) "Both these situations are connected. If something is considered dangerous to the students, I'll quickly stop it. If there's improper behaviour, I'll quickly see it corrected."
+[says] (p.79) "I've always consciously done my job as a teacher."
+[trait] (p.77–79) Strong sense of righteousness; accepted a pay cut for declaring Class B's judo event a forfeit rather than risk an accident against Yamada, and accepts he may be fired for opposing Tsukishiro.
+[rel:ayanokouji-kiyotaka] (p.64–77) Hears the account of Tsukishiro's interference and agrees to act against it.
+[rel:chabashira-sae] (p.70–79) Consults with her, warns her resisting Tsukishiro could cost their jobs.
+[rel:sakayanagi-arisu] (p.80–81) Notes her harshness, accepts her pledge to crush Class D once Tsukishiro is gone.
+[note] (p.78–79) His pay cut is explained as a result of the Class B/D event-selection exam where he declared Ichinose's judo forfeit against Yamada.
 ## y2v1
 
 <!-- walk: y2v1 → start -->

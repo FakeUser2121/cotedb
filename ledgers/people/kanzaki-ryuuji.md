@@ -394,6 +394,20 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [says] (p.178) “I’ve spoken to those two about it myself, and pretty much everything checks out.”
 [rel:ichinose-honami] (p.171, 176, 178) Discusses the situation with her.
 
+### y1v11.5 Ch.3 — Depth review: confronting Ryūen over the unfair win
+[scene] (p.199) Brought in by Hashimoto as a middleman to a secret meeting with Ryūen in the Keyaki Mall toilet.
+[says] (p.199) "I won't trust you, Hashimoto. But you're of value."
+[says] (p.201) "I'm sorry Ryuuen, I don't think we lost to you."
+[says] (p.201) "You played dirty to steal the win from us. Don't forget this!"
+[says] (p.202) "No, she shouldn't be able to do anything about it."
+[says] (p.202) "I will."
+[says] (p.203) "Watch me. I'll prove it."
+[says] (p.203) "I don't know what dirty trick you still have up your sleeve, but I'm not the same as Ichinose. I won't show mercy. I hate that we lost in our own territory, so I'll fight with everything I've got."
+[says] (p.205) "Remember what I said, Ryuuen."
+[trait] (p.202–203) Sees through Ichinose's weakness — her inability to abandon the weak and handle emergencies — and pledges to be the one to stop Ryūen.
+[rel:ryuuen-kakeru] (p.199–205) Confronts him over the laxative/mental tactics and vows a merciless rematch.
+[rel:hashimoto-masayoshi] (p.199) Accepts his go-between role solely because Class B and Class A share an enemy in Sakayanagi.
+[rel:ichinose-honami] (p.202) Faithful to her leadership but critical of her inability to handle emergencies.
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

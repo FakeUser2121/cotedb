@@ -1401,6 +1401,24 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [says] (p.327) “It seems the showdown between Class B and D is going to be quite intriguing as well.”
 [rel:ryuuen-kakeru] (p.324–327) Reacts to him becoming substitute commander.
 [rel:sakayanagi-arisu] (p.321–327) Speaks with her before the exam.
+
+### y1v11.5 Ch.3 — Depth review: the defeated leader who refuses to complain
+[scene] (p.164) Arrives early at the café in casual clothes and treats Ayanokōji and Horikita to lunch.
+[says] (p.164) "Good morning Horikita-san, Ayanokouji-kun. I just arrived."
+[says] (p.165) "Okay, order whatever you want to eat, I'll treat you."
+[says] (p.166) "I got this money after selling my hairdryer to Class A's Nishikawa-san. I needed to do it so I could survive in March. The others also had to resort to this."
+[says] (p.168) "Ahhhhh, umm, I lost. We were completely defeated by Ryuuen-san's strategy."
+[says] (p.168) "The reason we failed is obvious. It's because I lack the ability."
+[says:ayanokouji-kiyotaka] (p.175) "There's no harm in reporting this to the school. Even if it yields no result this time, the report you make now might play a role in the next incident."
+[says] (p.176) "Maybe. But it doesn't matter, I won't report this to the school."
+[says] (p.177) "I think I'm lucky."
+[says] (p.177) "Our whole class is taking this defeat seriously, and we've decided to make good use of this failure, and not repeat the same mistakes in the future."
+[says] (p.179) "I thought you would say that."
+[says] (p.181) "How can I hate you? We were enemies from the start, and we only had a temporary truce."
+[trait] (p.168–177) Blames only herself for the loss, refuses to report Ryūen's poisoning, and treats the defeat as a lesson — her kindness both her strength and her weakness.
+[rel:horikita-suzune] (p.167–181) Agrees to end the partnership and accepts the role of enemy from April without bitterness.
+[rel:ryuuen-kakeru] (p.168–175) Holds him responsible for the tactics that beat Class B but declines to report him.
+[rel:nishikawa-ryouko] (p.166) Sold her hairdryer to her to survive March.
 ## y1v11.75
 
 <!-- walk: y1v11.75 → start -->

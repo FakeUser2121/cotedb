@@ -5245,6 +5245,85 @@ walk: y1v1 → DONE
 [says] (p.450) “I’ll put it away. Just sit there and wait for a bit.”
 [rel:sakayanagi-arisu] (p.439–450) Speaks with her after the exam.
 [rel:tsukishiro] (p.439–444) Is confronted by him.
+
+### y1v11.5 Ch.1 — Depth review: graduation ceremony & the Tsukishiro meeting
+[scene] (p.13) Attends the third-years' graduation ceremony, curious whether Manabu Horikita graduated from Class A or Nagumo stopped him.
+[says] (p.60) "I will explain that now."
+[says] (p.64) "If I said that I'm the reason why Tsukishiro replaced Chairman Sakayanagi after being confined for suspected wrongdoing, what would you say, Mashima-sensei?"
+[says] (p.76) "Yeah. Even if I told you, it wouldn't be of any help… no, it would be meaningless."
+[says] (p.82) "Heh. Even if it doesn't stop Tsukishiro completely, if it'll restrain him, then it'll be a good result."
+[thinks] (p.76) Considers explaining the White Room from the start but judges the adults could not understand it, and that the matter has already been covered up.
+[inference] (p.17) Reckons his class gained 347 points over the year — the fastest in the grade, well above Class A's 191 — despite the demotion to Class D.
+[rel:yukimura-teruhiko] (p.14–23) Talks with Keisei on the morning of the ceremony; they mutually admit responsibility over the failed Katsuragi plan.
+[rel:sakayanagi-arisu] (p.60–82) Stages the secret meeting with teachers; walks with her afterward and notes her happiness at Mashima's righteousness being a weakness.
+[rel:mashima-tomonari] (p.64–79) Wins him over as an ally against Tsukishiro's exam interference.
+[rel:chabashira-sae] (p.64–80) Briefs her and enlists her help.
+
+### y1v11.5 Ch.2 — Depth review: the date with Hiyori
+[scene] (p.124) Meets Hiyori at Keyaki Mall on the first day of spring break; she is already waiting and shows him the new library books.
+[says] (p.124) "Good morning."
+[says] (p.136) "Yes. But, since it's you I'm asking, I don't think I need to elaborate on it."
+[says] (p.137) "Why do you think that?"
+[says] (p.140) "Hiyori, can you help me pass on a message?"
+[says] (p.141) "Tell Ryuuen that if it were me, I would have been able to secure more than 5 wins, using a better method. Please pass that on to him."
+[says] (p.142) "It seems that I should change my evaluation of her."
+[inference] (p.141) Judges Hiyori more dangerous than Ishizaki or Ibuki because she could keep those three from going out of control, and chose not to answer her directly because she would not exploit the situation.
+[status] (p.142) Revises his view of Hiyori from a same-year student to a friend with mutual interests.
+[rel:shiina-hiyori] (p.124–142) Accepts her question about changing Ryūen, tests her reasoning, then entrusts her with the message to Ryūen.
+[rel:karuizawa-kei] (p.142–143) Deliberately upsets Kei afterward by arranging the meeting in front of her.
+
+### y1v11.5 Ch.3 — Depth review: the challenge and the confessions
+[scene] (p.144) Anticipates Ichinose's meeting and the question of whether the Class B–Class D cooperation will continue into the second year.
+[says] (p.156) "I'm happy that you invited me, but I'll have to refuse. It's more fun being opponents than allies anyway."
+[says] (p.183) "Because I thought our best chance of winning came from opposing Class A"
+[says] (p.184) "What do you think? Why would I go out of my way to set this up, can you guess?"
+[says] (p.185) "Maybe. That's why I used Class B as a sacrifice."
+[says] (p.206) "I wanted to talk to you and look at your senseless, severe face at the same time."
+[says] (p.207) "I meant what I meant. I would have done a better job if it were up to me."
+[inference] (p.171) Observes Horikita's improved patience and judgement when she let his arranged "Class A" story stand without questioning it in front of Ichinose.
+[tactic] (p.171) Deliberately exposed himself as the one who asked Ichinose for Class A to test how much Horikita had grown.
+[rel:horikita-suzune] (p.182–185) Is confronted about acting alone to target Class A; admits he ignored her orders but holds back his true reasons (Sakayanagi, the White Room).
+[rel:ryuuen-kakeru] (p.206–212) Meets him after the message via Hiyori; warns him his laxative ploy was too obvious and that he must grow stronger.
+[rel:ishizaki-daichi] (p.154–157) Declines his "ultimate strategy" to transfer to Class D.
+[rel:shiina-hiyori] (p.206) Her message to Ryūen prompted this meeting.
+
+### y1v11.5 Ch.4 — Depth review: Manabu's farewell and the "parting gifts"
+[scene] (p.237) Waits at the school's main entrance at 11:40 for Manabu Horikita's noon departure; Suzune has not yet arrived.
+[says] (p.240) "Sorry. If only I could have done more for you when you were on the student council."
+[says] (p.241) "I don't think that's very reasonable considering the fact you've stayed in Class A for three whole years."
+[says] (p.242) "Perhaps what Nagumo wants to do isn't necessarily wrong."
+[says] (p.246) "I plan to observe what Nagumo wants to do. If he really plans to change the entire grade, no, the entire school into a meritocracy, I'll have to witness it first before making any judgements."
+[says] (p.252) "I simply just don't like attracting attention to myself."
+[says] (p.252) "It's hard to say. There's been an increase in things that attracted my attention."
+[says] (p.254) "I understand….yeah. I will think about this more carefully."
+[feat] (p.248) Speaks with Manabu as an equal — discusses Nagumo's meritocracy, the pooled-points gamble to reach Class A, and receives his "parting gift" evaluation.
+[rel:horikita-manabu] (p.237–270) Shares a long farewell; receives his private phone number, his challenge not to disappoint him, and a handshake; asks why he hides his abilities.
+[note] (p.242) March class points given by Manabu: Nagumo's Class A 1491, Class B 889, Class C 280, Class D 76.
+[note] (p.249) Manabu gives Ayanokōji his own and Tachibana's phone numbers to memorise, to be deleted later.
+
+### y1v11.5 Ch.5 — Depth review: the truth about Matsushita (Ayanokōji's POV)
+[scene] (p.351) Confronts Matsushita; she has deduced his hidden ability and pressed about his relationship with Kei.
+[says] (p.351) "I've got one request, my thing with Karuizawa-"
+[says:matsushita-chiaki] (p.351) "I know. I won't tell anyone, no matter what."
+[trait] (p.351) Notes that if Matsushita spread the Kei rumour or withheld cooperation it would only hurt her, so the matter is contained.
+[rel:matsushita-chiaki] (p.296–351) Confirmed she had seen through him; extracted her silence about his relationship with Kei in exchange for information.
+[note] (p.351) The chapter is mostly Matsushita's first-person narration (pp.296–307); the confrontation is resolved by p.351.
+
+### y1v11.5 Epilogue — Depth review: the confession to Kei
+[scene] (p.355) Calls Kei and asks her to come to his room, saying he has remembered what he wanted to tell her.
+[says] (p.357) "It's me. I'm sorry to call you."
+[says] (p.364) "If you don't like it, then just ignore it."
+[says] (p.364) "Will you go out with me?"
+[says] (p.365) "I don't mean that. I mean to ask you if you would go out with me?"
+[says] (p.365) "That was a joke."
+[says] (p.366) "I wanted to try to see if you were jealous, Kei."
+[says] (p.366) "Because I wanted to prevent you from becoming someone else's girlfriend."
+[says] (p.366) "That's right, I like Karuizawa Kei."
+[says] (p.370) "I don't plan to do that, at least for now."
+[tactic] (p.365–366) Staged the café scene with Hiyori and the hints about her to make Kei jealous, then proposed — a calculated but genuine confession.
+[rel:karuizawa-kei] (p.355–373) Confesses his feelings, has her say she likes him in return, and embraces her — a major step in their relationship.
+[rel:shiina-hiyori] (p.365) Used the book date with Hiyori as the setup to provoke Kei's jealousy.
+[note] (p.370–372) Reflects that he is "learning to fall in love" through Kei — something the White Room could not teach — and that the relationship is also necessary for her growth.
 ## y1v11.75
 
 <!-- walk: y1v11.75 → start -->

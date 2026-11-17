@@ -805,6 +805,20 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [says] (p.447) “I’m satisfied with this result. Isn’t that enough?”
 [rel:ayanokouji-kiyotaka] (p.400–447) Faces him in chess and speaks afterward.
 [rel:hashimoto-masayoshi] (p.404–414) Plays against Horikita.
+
+### y1v11.5 Ch.1 — Depth review: the secret meeting and teacher confrontation
+[scene] (p.60) Attends the secret reception-room meeting arranged through Chairman Sakayanagi, alongside Mashima, Chabashira and Ayanokōji.
+[says] (p.65) "Sorry, but is it alright for me to explain?"
+[says] (p.65) "Well, if you may excuse my rudeness, I think I understand the situation a little better than you teachers."
+[says] (p.66) "Ayanokouji-kun and I- How should I say this… Simply put, we're like childhood friends."
+[says] (p.67) "What if I said during then, someone stepped in to interfere with the match, which changed the outcome, and therefore had a great impact on the test results? Wouldn't that be a serious issue?"
+[says] (p.73) "Yes. I understand Ayanokouji-kun more than you do, Chabashira-sensei."
+[says] (p.80) "Of course I'm going give him special treatment. I've got the right to do so."
+[tactic] (p.66–68) Takes over the explanation to the teachers, subtly intertwining lies, mysteries and truth, and presenting conjecture as fact because the teachers cannot verify it.
+[trait] (p.73–82) Haughty and self-assured — claims superiority of understanding over Chabashira, admits she would abandon Class A to save Ayanokōji, and is openly delighted at Mashima's righteousness being a weakness.
+[rel:ayanokouji-kiyotaka] (p.60–82) Calls them childhood friends, pledges to stand at his side, and says she will crush Class D once Tsukishiro is gone.
+[rel:mashima-tomonari] (p.80–81) Pledges special treatment for Ayanokōji and warns Mashima not to involve himself too deeply.
+[rel:chabashira-sae] (p.73) Counters her claim to understand Ayanokōji.
 ## y1v11.75
 
 <!-- walk: y1v11.75 → start -->

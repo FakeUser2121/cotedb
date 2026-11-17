@@ -1308,6 +1308,38 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y1v11.5 ch7 → p.423 -->
 
+### y1v11.5 Ch.2 — Depth review: jealousy at the café
+[scene] (p.142) Appears at Keyaki Mall just after Hiyori leaves and approaches Ayanokōji, clearly unhappy.
+[says] (p.142) "…What do you want?"
+[says] (p.142) "Rumours about us would circulate if anyone saw us sitting together and drinking tea."
+[says] (p.143) "That's a huge problem! If you just casually interact with the opposite sex, rumours will start immediately, shouldn't you know this already? You don't understand this situation at all."
+[says] (p.143) "What the hell? This is such a mess. I'm going back…"
+[trait] (p.142–143) Jealous and self-conscious about appearances; refuses the seat Hiyori occupied and treats it "as if it were trash."
+[rel:ayanokouji-kiyotaka] (p.142–143) Confronts him about the rumours; he deliberately provokes her and she storms off.
+[rel:shiina-hiyori] (p.142) Seen immediately after the meeting; her jealousy is aimed at the perceived date.
+[note] (p.143) Ayanokōji deliberately upset her — the chapter ends on the note that he expected nothing less.
+
+### y1v11.5 Epilogue — Depth review: the confession and Kei's answer
+[scene] (p.358) Arrives at Ayanokōji's room unhappy and dressed for a 7 o'clock dinner with friends.
+[says] (p.358) "So, what is it?"
+[says] (p.359) "Sato-san is suspicious about our relationship."
+[says] (p.360) "Eh? What? Are you lying? Is that true? Are you joking?"
+[says] (p.361) "No, no, that's not ok! Besides, there's nothing between us at all!"
+[says] (p.362) "Because, if that rumour spread, it would really affect me."
+[says] (p.363) "If the rumour with me spread, then it would be harder for you to get closer to her, right?"
+[says] (p.364) "I don't care, whoever you want to get closer to is up to you."
+[says] (p.364) "Because I've broken up with Hirata-kun, I want to find a new boyfriend. Got a problem?"
+[says] (p.365) "Wait, eh, ha, ehhhh!? This, what kind of joke is this, it's such a bad one…!?"
+[says] (p.366) "Bu, but! Just now, you were hinting that you liked Shiina-san!"
+[says] (p.367) "-We-well, I'll go out with you…then."
+[says] (p.369) "I also… like… like…you. I don't want to say it but…I-I admit! I admit it alright!"
+[says] (p.369) "W-wait!? D-don't say you want to kiss!?"
+[trait] (p.361–364) Fears the rumour will lower her status and block a new boyfriend; reacts with jealousy to Hiyori.
+[trait] (p.367–369) Once she decides, carries it through — stammers but persists in saying she likes him.
+[rel:ayanokouji-kiyotaka] (p.358–373) Accepts his confession, says she likes him back, and is embraced.
+[rel:matsushita-chiaki] (p.359) Reports that Matsushita doubts their relationship.
+[rel:satou-maya] (p.359) Reports that Satō probed whether she broke up with Hirata to date Ayanokōji.
+[rel:shiina-hiyori] (p.362–366) Jealous of her close relationship with Ayanokōji over books.
 ## y1v11.75
 
 <!-- walk: y1v11.75 → start -->

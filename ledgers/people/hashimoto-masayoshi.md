@@ -423,6 +423,18 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [rel:horikita-suzune] (p.404–413) Competes against her.
 [rel:sakayanagi-arisu] (p.400–414) Plays under her direction.
 
+### y1v11.5 Ch.3 — Depth review: feeling out Ryūen
+[scene] (p.194) Calls Ryūen to the second-floor men's toilet to "summarise what happened this year," choosing a camera-free location.
+[says:ryuuen-kakeru] (p.194) "So? What kind of prank are you trying to pull on me, calling me out here?"
+[says] (p.195) "Calling it a prank doesn't sound very good. I just wanted to summarise what happened this year."
+[says] (p.195) "A whim? If that's the case, what a terribly frightening whim. I cannot take it if you're aiming for Class A on a whim!"
+[says] (p.200) "I intend to plant my seeds in Ayanokouji's class too."
+[says] (p.214) "You've grown this year, Ryuuen. Establishing a relationship with you early on really was a good decision." — spoken by Hashimoto
+[tactic] (p.197–200) Calls Ayanokōji's name to gauge Ryūen's reaction, then brings Kanzaki as a middleman to forge a cooperative relationship with Class B.
+[trait] (p.196–200) Cautious and manipulative — a double agent playing several classes, but finds Ryūen hard to read.
+[rel:ryuuen-kakeru] (p.194–214) Mutual-interest talks; ends with a new assessment of his growth.
+[rel:kanzaki-ryuuji] (p.199–200) Brought him in as go-between in exchange for a Class B alliance.
+[note] (p.194, 214) Ryūen's lines are tagged with his id; only Hashimoto's lines carry the plain [says] tag.
 ## y2v1
 
 <!-- walk: y2v1 → start -->

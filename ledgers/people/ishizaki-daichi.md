@@ -528,6 +528,19 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [rel:ryuuen-kakeru] (p.375–388) Begs him for help.
 [rel:ibuki-mio] (p.382–388) Waits with her for Ryūen.
 
+### y1v11.5 Ch.3 — Depth review: the "ultimate strategy"
+[scene] (p.152) Catches up with Ibuki and Ayanokōji on the way to Keyaki Mall after a covert meeting with Ryūen's group.
+[says] (p.152) "Yo, Ibuki, wait for me-!"
+[says] (p.152) "But that's because you didn't respond-oh? Ayanokouji's with you, huh? What are you two doing? Could it be… a date?"
+[says] (p.154) "In order to rise to Class A, I've devised the ultimate strategy. Want to help?"
+[says] (p.154) "You, come to our class. That way, we can definitely reach Class A."
+[says] (p.154) "If Ryuuen and Ayanokouji work together, they'll be unstoppable. Not even Sakayanagi and Ichinose will stand a chance."
+[says] (p.156) "Are you sure? I think that if you're willing to join us, Ryuuen will cooperate."
+[says] (p.157) "Really? Damn, I thought it was a great idea."
+[trait] (p.154–157) Well-meaning but naive — proud of his "ultimate strategy" to recruit Ayanokōji, disappointed when refused.
+[rel:ayanokouji-kiyotaka] (p.152–157) Invites him to transfer to Class D to fight alongside Ryūen; accepts the refusal.
+[rel:ryuuen-kakeru] (p.153) Was meeting covertly with Ryūen's group; believes Ryūen would cooperate to get Ayanokōji.
+[rel:shiina-hiyori] (p.153) Referred to by Ibuki as someone being investigated — see Hiyori's Ch.2 section.
 ## y2v1
 
 <!-- walk: y2v1 → start -->

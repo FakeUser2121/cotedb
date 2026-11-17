@@ -3379,6 +3379,41 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [scene] (p.16) In Ichinose’s reflections, Horikita is named among the rival class leaders Ayanokōji faced during the first year.
 [rel:ayanokouji-kiyotaka] (p.3, 16) Is mentioned in his reflection and in Ichinose’s comparison of rival classes.
 
+### y1v11.5 Ch.3 — Depth review: ending the partnership, challenging Ayanokōji
+[scene] (p.160) Arrives early at the café and, with Ayanokōji, waits for Ichinose; presses him about what he knows.
+[says] (p.163) "You really don't know? If it turns out you do, then I won't let you off that easily.."
+[says] (p.163) "At first, I thought she was a hypocrite who acted like a good person."
+[says] (p.163) "But after a year, my thoughts of her has changed completely. She really is a good person."
+[says] (p.163) "Being kind-hearted would be great if you were living in the mountains, surrounded by nature."
+[says] (p.175) "I'm sure that this was part of Ryuuen-san's trap."
+[says] (p.175) "Shouldn't you try to report this to the school?"
+[says] (p.178) "Bluntly speaking, I want to cancel our partnership next year."
+[says] (p.180) "Next year, I will definitely lead our class to Class B or above. And in order to defeat Class A, I plan to obtain all of the class points possible."
+[says] (p.181) "I'm grateful to you, Ichinose, having proposed a cooperative relationship with us when we were at our weakest. But… even if you resent us now, we'll still be enemies in the future."
+[says] (p.183) "You negotiated with Ichinose in order to challenge Class A, didn't you?"
+[feat] (p.178–181) Initiates the dissolution of the Class B/D partnership and shakes Ichinose's hand as enemies from the second year.
+[trait] (p.163–164) Has grown more astute and sarcastic; sees kindness as a weakness in a competitive society yet acknowledges Ichinose's genuine goodness.
+[rel:ichinose-honami] (p.167–181) Leads the joint debrief, then formally ends their cooperative relationship.
+[rel:ayanokouji-kiyotaka] (p.182–185) Confronts him on the stairs about acting alone to target Class A and about his ties to Sakayanagi.
+[rel:sakayanagi-arisu] (p.185) Suspects he and Sakayanagi planned the Class A match in advance.
+
+### y1v11.5 Ch.4 — Depth review: the farewell she almost missed
+[scene] (p.259) Arrives at the main entrance after noon, out of breath, just as Manabu is about to leave.
+[says] (p.260) "Brother——!"
+[says] (p.260) "I'm sorry, I'm late…!"
+[says] (p.262) "What couldn't I return to my past self earlier… I've always felt regret over that."
+[says] (p.262) "But, the only thing I can say for certain is this. The old me…always, always just followed your shadow, but I'm no longer that person anymore."
+[says] (p.263) "I'll no longer chase the backs of others, so I'll have to find my own path."
+[says] (p.263) "After that, for my classmates, I'll walk ahead of them."
+[says] (p.263) "And in order to find my own way, I will learn together with my companions at this school."
+[says] (p.267) "That was excessive, brother."
+[says] (p.269) "I'll forgive you for lying. Because that lie made me what I am now."
+[says] (p.270) "Yeah. I will do my best…until the very end."
+[feat] (p.260–269) Turns up having cut her hair short — the visible proof of her change — and reconciles with Manabu before he leaves.
+[trait] (p.262–263) Has stopped chasing her brother's shadow and resolved to walk her own path while leading her classmates.
+[rel:horikita-manabu] (p.260–270) Final farewell; forgives the long-hair lie and promises to be waiting for him in two years.
+[rel:ayanokouji-kiyotaka] (p.272) Thanks him afterward — without his talk with Manabu she would not have made it in time.
+[note] (p.261) Her lateness is explained by the last-minute decision to cut her hair short.
 ## y2v1
 
 <!-- walk: y2v1 → start -->

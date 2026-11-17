@@ -3290,3 +3290,11 @@ Shiraishi and Kōenji (28 verified quotes). Coverage gate caught Hiyori/Ryūen's
 pp.172–173 beach conversation, missed by the catch-up pass, now recorded.
 verify 28 [says] ALL PASS; build/gate/check OK; hash stable
 e5dcb795239b7ac22dab2165f02cae48.
+
+### y1v11.5 — depth review pass (gold standard)
+
+Full depth pass across all 7 sections: 207 corpus-exact [says] verified across
+Ayanokōji, Suzune, Manabu, Hiyori, Kei, Ichinose, Ryūen, Hashimoto, Kanzaki,
+Ishizaki, Ibuki, Ike, Shinohara, Matsushita; coverage gate run for all 48 roster
+characters with passing mentions recorded. verify ALL PASS; build/gate/check OK;
+hash stable 07d2540f276ab5918afa28b49e02b9e2.

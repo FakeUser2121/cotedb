@@ -278,6 +278,23 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [rel:ibuki-mio] (p.383–386) Waits with her.
 [rel:ryuuen-kakeru] (p.383–386) Invites him.
 
+### y1v11.5 Ch.2 — Depth review: she deduced the Ryūen change
+[scene] (p.124) Arrives early at Keyaki Mall to meet Ayanokōji, carrying newly-arrived library books by their shared favourite author.
+[says] (p.124) "Hello, Ayanokouji-kun."
+[says] (p.125) "I wanted to share some information with Ayanokouji-kun as soon as possible."
+[says] (p.136) "I have something to ask you regarding the end of year examination."
+[says] (p.136) "I apologise if I'm wrong, but I'll ask this bluntly. Are you the one who changed Ryuuen?"
+[says] (p.137) "I just put the pieces of the puzzle together. Ryuuen-kun had always targeted your class. But he suddenly stepped down from his position during his targeting of Class D."
+[says] (p.137) "If we can't be friends after this… I'll definitely regret it."
+[says] (p.140) "By someone similar in power to him… No, by the criticisms from someone even more powerful than him."
+[says] (p.140) "-Okay, I understand. I've memorised your message, and I'll pass it on for you."
+[feat] (p.137) Investigated behind Ayanokōji's back — contacted Ryūen's close associates Ishizaki and Ibuki — and deduced that Ayanokōji was behind Ryūen's change of behaviour.
+[trait] (p.137) Nervous all day about revealing what she knew, afraid of angering him and losing the friendship; careful and considerate rather than gossiping.
+[trait] (p.139) Analysed her own class's five wins as extremely flawed and too greedy, and judged targeting Class B's bodies a clear violation.
+[rel:ayanokouji-kiyotaka] (p.124–141) Confronts him with her deduction and agrees to carry his message to Ryūen.
+[rel:ryuuen-kakeru] (p.137–141) Believes he would not listen to her, but that he would heed criticism from someone he acknowledges — hence the message.
+[rel:ishizaki-daichi] (p.137) Contacted him to investigate Ryūen.
+[rel:ibuki-mio] (p.137) Contacted her to investigate Ryūen.
 ## y2v1
 
 <!-- walk: y2v1 → start -->

@@ -761,6 +761,21 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:shiina-hiyori] (p.383–388) Waits with her.
 [rel:ryuuen-kakeru] (p.383–388) Waits for him.
 
+### y1v11.5 Ch.3 — Depth review: the hostile walk to the mall
+[scene] (p.149) Bumps into Ayanokōji in the dorm elevator, then ends up walking beside him toward Keyaki Mall.
+[says] (p.149) "You again…"
+[says] (p.150) "You say that… but I don't want to have anything to do with you anymore."
+[says] (p.150) "It's not going to break down again…?"
+[says] (p.152) "Shut up, you're noisy."
+[says] (p.152) "You know why you got kicked. I'm not going to say anything else, so get away from me."
+[says] (p.153) "Stupid-idiot."
+[says] (p.154) "Impossible, impossible, absolutely impossible."
+[says] (p.156) "He definitely won't help."
+[says] (p.157) "You're weird. Why are you happy about going up against him again?"
+[trait] (p.150–152) Openly hostile toward Ayanokōji yet won't be the first to break away — stubborn, unable to accept defeat.
+[rel:ayanokouji-kiyotaka] (p.149–157) Walks with him in tense silence; remains dismissive but now able to hold a conversation.
+[rel:ryuuen-kakeru] (p.153) Went along with the covert gathering for his sake, showing she regards him as integral to the class.
+[rel:ishizaki-daichi] (p.152–156) Kicks him for teasing her and dismisses his recruitment plan as impossible.
 ## y2v1
 
 <!-- walk: y2v1 → start -->

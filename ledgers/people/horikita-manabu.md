@@ -782,6 +782,42 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [rel:ayanokouji-kiyotaka] (p.217–229) Talks with him about Suzune and graduation.
 [rel:tachibana-akane] (p.227–229) Is asked about her; she listens in.
 
+### y1v11.5 Ch.1 — Depth review: graduation speech and teacher meeting
+[scene] (p.26) Called up as the Class A representative to deliver the graduation valedictory — confirming he graduated from Class A despite Nagumo.
+[says] (p.26) "Greetings. On this beautiful, blossoming spring day, I welcome you to this graduation ceremony."
+[says] (p.27) "I still clearly remember the first day I set foot into the campus of the Advanced Nurturing High School. I felt that there was a different atmosphere compared to normal schools. As I was shouldering the burden of the future, I vowed to make these three years a meaningful one."
+[says] (p.27) "Compared to what you were like last year, I can see how much you've grown with just a glance."
+[says] (p.28) "I wanted to assure you that the things we learn in this school will not only play a role in our future lives but also become our most valuable asset."
+[says] (p.28) "Thank you, all of you, for the past three years."
+[trait] (p.26–28) His speech is warm and composed; Ayanokōji notes he seems a different person from a year earlier and that not a student whispers during it.
+[rel:horikita-suzune] (p.31–32) Is the subject of Suzune's reluctance to attend the farewell — she tells Ayanokōji she has no plans to see him off.
+
+### y1v11.5 Ch.4 — Depth review: Manabu's final day and farewell
+[scene] (p.238) Arrives 20 minutes early for his own departure; Suzune is not yet there.
+[says] (p.239) "That's alright, there's no need."
+[says] (p.239) "If that's the case, there's no need to wake her up."
+[says] (p.240) "That was my responsibility. It was my fault to impose it all on you, so don't mind it."
+[says] (p.241) "But even so, I'll give you this last piece of advice. I've always adopted an assured attitude towards the rules of the school. Although it's a meritocracy, the lower-ranked classes still have a chance for victory."
+[says] (p.245) "That bastard is bored with what it takes to win as it is now. That's probably the reason for all this."
+[says] (p.248) "You have greatly surpassed my prediction based on my experience in life so far. There are no flaws in your strategies."
+[says] (p.251) "I'm afraid that temporarily showing emotion could hinder my sister's growth."
+[says] (p.253) "Have I completely shown my strength, did I still have room to grow, those kinds of things."
+[says] (p.254) "You are not a man who would stop at just this level. And that's why… don't disappoint me."
+[says] (p.257) "I can say that these three years, I have continuously walked at the forefront of the school itself."
+[says] (p.258) "Although this is a one-sided request, I'll leave Suzune in your care."
+[says] (p.259) "Until we meet again, Ayanokouji."
+[says] (p.261) "You've changed."
+[says] (p.262) "No-let me correct myself. You've returned back to your own self, Suzune."
+[says] (p.265) "I sensed great potential in you. Although not yet mature, I saw an unpolished diamond."
+[says] (p.265) "However, you were trapped in an illusion. You decided that you were inferior to me, and gave up because you thought it was impossible to surpass me."
+[says] (p.266) "You must become even stronger, and even kinder than everyone else."
+[says] (p.267) "In the past, I said I liked your long hair. That was a lie that I told on purpose."
+[says] (p.270) "Suzune, 2 years later, I'll be waiting for you outside the main entrance. Let me see you all grown up then."
+[trait] (p.239–251) Refuses to contact Suzune even when she is late, believing showing emotion would hinder her growth; leaves her the "key" to why he pushed her away.
+[trait] (p.257–258) Reflects solemnly on his three years and 24 dropouts without bitterness toward the school.
+[rel:ayanokouji-kiyotaka] (p.237–259) Gives him his parting evaluation, phone numbers and a firm handshake; entrusts Suzune to him.
+[rel:horikita-suzune] (p.259–270) Reconciles with her at the entrance; reveals the long-hair lie and asks her to surpass him.
+[rel:tachibana-akane] (p.249) Gives Ayanokōji her phone number as a future contact.
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

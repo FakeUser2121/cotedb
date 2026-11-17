@@ -805,6 +805,18 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [rel:katsuragi-kouhei] (p.271–280) Negotiates with him for information.
 [rel:ayanokouji-kiyotaka] (p.240–244, 271–280) Works with him on the plan.
 
+### y1v11.5 Ch.1 — Depth review: the graduation conversation
+[scene] (p.14) Greets Ayanokōji in the elevator and laments that Class C's promotion was undone, returning them to Class D.
+[says] (p.14) "We worked so hard to get promoted to Class C only to get pushed back to where we started… At least we didn't suffer as much damage as I thought we would."
+[says] (p.19) "…Kiyotaka, I need to ask you something."
+[says] (p.20) "Ah. I mentioned this to Horikita. I think I should be responsible for this"
+[says] (p.22) "Bluntly speaking, I'm not sure how Horikita still holds the spot as the class's leader. Sure, she's smart, and she's good at sports, but no matter what she says, she still has this condescending attitude towards people."
+[says] (p.23) "Of course, I'm not going to obey Horikita blindly. If I believe that she'd made some sort of mistake with her judgement, then I won't hesitate to object and call her out on it."
+[trait] (p.22) Has changed over the year — now accepts that athletics, communication and friendship matter alongside academics, and has come to trust Horikita more.
+[trait] (p.19–21) Takes responsibility bluntly for his failed attempt to win Katsuragi over on his own.
+[rel:ayanokouji-kiyotaka] (p.14–23) Confides in him and asks why the Katsuragi plan was not reported; they agree to put the matter to rest.
+[rel:horikita-suzune] (p.20–23) Says Horikita did not blame him but told him to consult her next time; calls out her condescension while affirming her growth.
+[rel:katsuragi-kouhei] (p.19–21) Regrets his failed solo attempt to recruit him before the final exam.
 ## y2v1
 
 <!-- walk: y2v1 → start -->

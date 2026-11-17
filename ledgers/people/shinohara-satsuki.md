@@ -283,6 +283,17 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [says] (p.190) “D-don’t get the wrong idea, kay? The special exam is coming up soon, so this is just my last chance to relax. And since you’re saying you’ll pay and everything, how could I say no?”
 [rel:ike-kanji] (p.190) Accepts his White Day invitation.
 
+### y1v11.5 Ch.2 — Depth review: Shinohara and Ike's near-confession
+[scene] (p.128) Sits beside Ike at the café, not noticing Ayanokōji and Hiyori at the next table.
+[says] (p.129) "Hmm, that's how you see this, huh? You saying this is really surprising to me, Ike."
+[says] (p.130) "Don't use my first name, Shinohara."
+[says] (p.131) "I don't laugh at guys who want to work hard."
+[says] (p.131) "I'll work harder next year. I won't lose to you!"
+[says] (p.134) "…Hmm, are you and Hiyori-san on a date?"
+[says] (p.135) "Huhh?? Who's the ugly one here?!"
+[trait] (p.131) Sympathises with Ike's fear of expulsion and resolves to work harder herself, refusing to laugh at someone trying.
+[rel:ike-kanji] (p.129–135) Mutual resolve to improve; interrupts his confession by noticing Ayanokōji, then argues with him out of the café.
+[rel:ayanokouji-kiyotaka] (p.134) Asks teasingly whether he is on a date with Hiyori.
 ## y3v2
 
 <!-- walk: y3v2 → start -->

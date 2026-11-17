@@ -1674,6 +1674,24 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:ishizaki-daichi] (p.375–380) Is begged for help by him.
 [rel:ibuki-mio] (p.383–388) Meets her at karaoke.
 [rel:shiina-hiyori] (p.383–388) Meets her at karaoke.
+
+### y1v11.5 Ch.3 — Depth review: the returning snake and the toilet confrontation
+[scene] (p.194) Meets Hashimoto in the second-floor men's toilet of Keyaki Mall, a secret, camera-free meeting.
+[says] (p.195) "Who knows. Maybe it's just a whim."
+[says] (p.196) "Don't think you can win just by wandering in the middle of the two sides as a double spy."
+[says] (p.197) "Ayanokouji? Ah, for a moment I thought it would be him."
+[says] (p.198) "Did you really call him over? I don't think you did."
+[says:kanzaki-ryuuji] (p.201) "I'm sorry Ryuuen, I don't think we lost to you."
+[says] (p.207) "You, who have defeated even me, can't be weaker than Sakayanagi."
+[says] (p.208) "Relax. The only person who can get you expelled is me."
+[says] (p.209) "My instincts are telling me that I should eat you alive."
+[says] (p.211) "Grow even stronger? Who are you, my teacher?"
+[says] (p.212) "I'll accept your garbage advice now. But one day I'll defeat you."
+[says] (p.213) "Next time, I'll destroy them even more perfectly and beautifully."
+[trait] (p.194–213) Returns with renewed spirit; accepts advice from Ayanokōji to grow stronger and reflects that his win over Class B was sloppy — not the method but being careless.
+[rel:hashimoto-masayoshi] (p.194–200) Mutual-interest talks; sees through his bluff about calling Ayanokōji.
+[rel:kanzaki-ryuuji] (p.199–205) Confronted by him over the "dirty" tactics; respects his resolve and promises a harder fight.
+[rel:ayanokouji-kiyotaka] (p.206–212) Meets him after Hiyori's message; lashes out physically, then accepts his advice to grow.
 ## y1v11.75
 
 <!-- walk: y1v11.75 → start -->

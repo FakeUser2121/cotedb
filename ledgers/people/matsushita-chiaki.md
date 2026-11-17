@@ -65,6 +65,19 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 
 <!-- walk: y1v11.5 ch7 → p.423 -->
 
+### y1v11.5 Ch.5 — Depth review: Matsushita's suspicion (her POV)
+[scene] (p.296) Matsushita decides, in first-person narration, to investigate Ayanokōji — not out of love but vigilance.
+[says] (p.296) "Sure enough, this interests me."
+[says] (p.298) "No, that's impossible."
+[says] (p.301) "I was tormented by that thought until Ayanokouji-kun appeared right in front of my eyes."
+[says] (p.304) "I want to understand the mystery behind his strength."
+[says] (p.304) "And if his strength is true ── there's no reason not to make use of it."
+[says] (p.305) "… Just kidding."
+[inference] (p.301–302) Deduced from Karuizawa dating him, his ties to Horikita/Hirata/Ichinose, and Sakayanagi organising Class A to give him protection points that he possesses hidden strength.
+[trait] (p.297–300) Sees herself as a top-10% student who hid her ability in Class D to avoid jealousy and over-reliance; wants a stable route to Class A.
+[trait] (p.305) Driven also by boredom and a desire for the "thrill of life," not only class advancement.
+[rel:ayanokouji-kiyotaka] (p.296–305) Intends to draw out his true nature under the guise of curiosity and make him cooperate.
+[rel:karuizawa-kei] (p.301) Read Karuizawa's dating choice as evidence of Ayanokōji's hidden strength.
 ## y2v1
 
 <!-- walk: y2v1 → start -->

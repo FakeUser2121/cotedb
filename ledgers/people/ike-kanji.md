@@ -1026,6 +1026,17 @@ aliases used for anchors: ike, kanji, ike-kun
 [says] (p.189) “...A-are you free on Sunday... or, something?”
 [rel:shinohara-satsuki] (p.189) Invites her out.
 
+### y1v11.5 Ch.2 — Depth review: near-confession and jealousy
+[scene] (p.128) Sits at the café next to Ayanokōji and Hiyori with Shinohara, unaware they are being overheard.
+[says] (p.129) "It's me, it was my fault."
+[says] (p.129) "No, I'm serious, I think that I was one of the reasons that we lost. To be honest, we could have won if our class was more unified."
+[says] (p.130) "Because of Ken and Haruki."
+[says] (p.131) "If I go on like this, the next candidate to be expelled will be me."
+[says] (p.132) "This- look, I have something to tell you, so will you listen to me?"
+[says] (p.134) "Yes, yes, Ayanokouji, don't misunderstand, okay? Who would want to date someone as ugly as her!"
+[trait] (p.129–131) Blames himself for the exam loss, resolves to work harder in academics and sports, and fears being the next candidate for expulsion now that Yamauchi is gone.
+[rel:shinohara-satsuki] (p.129–135) Has grown close to her over break; is about to confess when she notices Ayanokōji and Hiyori, and the two argue their way out of the café.
+[rel:ayanokouji-kiyotaka] (p.133) Is startled to be overheard; accuses him of being "sneaky" for not greeting him.
 ## y2v1
 
 <!-- walk: y2v1 → start -->
