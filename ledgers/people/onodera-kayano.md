@@ -82,3 +82,14 @@ char_id: onodera-kayano · status: minor
 
 
 <!-- walk: y2v5 Epilogue → p.243 -->
+
+## y2v6
+
+<!-- walk: y2v6 → start -->
+
+### y2v6 pp.11-346 — Full volume
+
+[scene] (p.11) Appears in this volume.
+
+
+<!-- walk: y2v6 Epilogue → p.346 -->

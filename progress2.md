@@ -3219,3 +3219,9 @@ hash stable 31962a8ef8042eaa275a781e825250e3.
 Volume 2, Volume 5 (pp.7–243): Chabashira's monologue; unanimous special exam;
 150 class points. Ledgers touched: volume + 64 people. verify ALL PASS;
 build/gate/check OK; hash stable c15213576899fc8e8f2179e2afeb4c02.
+
+### y2v6 — walked, shipped
+
+Volume 2, Volume 6 (pp.11–346): Miyake/Hasebe revenge; sports festival.
+Ledgers touched: volume + 54 people. verify ALL PASS; build/gate/check OK;
+hash stable 42ca7779490d72057b8c63f051a2eea1.

@@ -16,3 +16,6 @@ char_id: ikari-sensei · class: unknown · status: unknown
 
 
 <!-- walk: y2v5 Epilogue → p.243 -->
+
+
+<!-- walk: y2v6 Epilogue → p.346 -->
