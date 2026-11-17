@@ -1206,6 +1206,16 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
+### y2v2 p.117–132 — Chabashira's island exam briefing
+[says] (p.117) "It's true that we'll be discussing the topic of the special exam after this, but to maintain the suspense for a bit longer, I'll pick it up later."
+[says] (p.118) "From August 4 to August 11, you can enjoy to your heart's content your summer vacation on this luxury cruise for a total of eight days and seven nights."
+[says] (p.118) "But in order to fully enjoy this cruise trip, you must successfully complete the next special exam."
+[says] (p.119) "Looks like you're indeed learning."
+[says] (p.123) "I know what you're saying, but I'm going to state in advance that no exam can be 100% fair."
+[says] (p.128) "this year's exam can be considered to require 'all types of abilities'."
+[trait] (p.117–132) Dangles the cruise then snatches it back — "lifting us up and then bringing us down," a tactic that works because the class has learned to brace itself; wants Class D to prove they differ from a year ago; explains the groups and rewards thoroughly.
+[rel:ayanokouji-kiyotaka] (p.117–132) Delivers the briefing; he reads her motivational intent.
+[rel:horikita-suzune] (p.119) Her smile of admiration at the class's alertness.
 ## y2v3
 
 <!-- walk: y2v3 → start -->

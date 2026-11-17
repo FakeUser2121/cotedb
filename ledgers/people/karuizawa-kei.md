@@ -1602,6 +1602,28 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
+### y2v2 p.15–18 — Karuizawa's "math genius" theory and the argument
+[says] (p.16) "Maybe Ayanokouji-kun is just a math genius!"
+[says] (p.16) "sometimes in those TV dramas and stuff, isn't there, like, a protagonist that only uses math or something to solve the murder case?"
+[says] (p.16) "Waaah, I hate this! Wouldn't this mean that a lot of people will know my scores? This is the worst!"
+[says] (p.17) "You've got a big mouth, but couldn't it just be that you didn't understand the question?"
+[says] (p.16) "You're pissing me off."
+[trait] (p.15–18) Laments that the tablet lets other classes see everyone's scores; offers the off-the-point "math genius" theory and plays the fool deliberately even knowing her words are far-fetched; grows angry at Yukimura's blunt dismissal.
+[rel:ayanokouji-kiyotaka] (p.16–18) Speculates he's a "math genius" or hid his ability.
+[rel:yukimura-teruhiko] (p.16–18) Arguments escalate with him; he calls her words stupid.
+[rel:maezono] (p.17) Maezono backs her up and fires back at Yukimura.
+
+### y2v2 p.100–107 — Karuizawa and Amasawa in Ayanokōji's room
+[scene] (p.100) Studying with Ayanokōji when Amasawa arrives; she becomes angry (afraid Amasawa will expose their secret relationship) but is lost for words at the lewd questions.
+[narrates:amasawa-ichika] (p.100) "I thought you would have an illicit sexual relationship for sure… I mean having sex."
+[note] (p.100–103) Amasawa openly reveals she helped Hōsen with the knife plot and mentions the 20-million bounty — information Ayanokōji hadn't told Karuizawa; Karuizawa is startled and asks what it means.
+[says] (p.102) "Wa-wait a minute. You said you were going to get Kiyotaka expelled… What does that mean?"
+[says] (p.106) "Hey! Don't go writing in my notebooks without permission!"
+[says] (p.106) "Not at all!"
+[says] (p.107) "Huh? What do you mean? Not drinking? You told me to make it though?!"
+[trait] (p.100–107) Jealous, suspicious and short-tempered — fears Amasawa will expose the relationship, is goaded into making her coffee (with milk and sugar) rather than talk with her, warns her off her notebook, and is openly disgusted by Amasawa's teasing.
+[rel:amasawa-ichika] (p.100–107) Hostile toward her; learns she helped Hōsen and is forced to serve her coffee.
+[rel:ayanokouji-kiyotaka] (p.100–107) His girlfriend; learns new details about the bounty and the knife plot from Amasawa.
 ## y2v3
 
 <!-- walk: y2v3 → start -->

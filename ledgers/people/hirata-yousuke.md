@@ -1753,6 +1753,18 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
+### y2v2 p.21–22 — Hirata defuses the escalating argument
+[says] (p.21) "Let's all calm down a bit. We can't solve the problem by just getting heated up here, can we?"
+[says] (p.21) "Sudo-kun, isn't it almost time for your club activities?"
+[says] (p.21) "You know by now that the 'I'll be late just this one time' excuse won't work, right?"
+[trait] (p.21–22) The class's unifier stays quiet until he's sure what everyone thinks, then presses pause — gently sending Sudō and the club members off to activities (judging reducing numbers the primary goal) so the speculation doesn't derail into internal strife.
+[rel:sudou-ken] (p.21) Gently reminds him of club activities to cool him down.
+
+### y2v2 p.123, 126 — Hirata questions the exam rules
+[says] (p.123) "Wouldn't that… be extremely disadvantageous to the first-year students, and advantageous for the third years?"
+[says] (p.126) "We can't change groups, but we could form a group of up to 6 for the special exam, right?"
+[trait] (p.123–126) Hates inequality — objects to the cross-year unfairness and asks about the small-group/big-group mechanics; Chabashira explains no exam is 100% fair and that younger students get higher rewards/lighter penalties.
+[rel:chabashira-sae] (p.123–126) Questions her on the rules; she answers that there are gaps between years and that the groups combine later.
 ## y2v3
 
 <!-- walk: y2v3 → start -->

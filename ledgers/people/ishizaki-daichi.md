@@ -658,6 +658,19 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
+### y2v2 p.152–166 — Ishizaki's group proposal to Ayanokōji
+[scene] (p.152) Spots Ayanokōji at school, calls out with a smile, and brings him to meet Albert and Hiyori — proposing they form a group for the island exam.
+[says] (p.155) "We stand out here a lot. We should move, Ishizaki-kun?" — Ayanokōji
+[says] (p.159) "Let's cut to the chase, here's my proposal…. Let's form a group for the next"
+[says] (p.159) "when the exam starts, you'll combine your group with another three person group from Class B, so it'll be a perfect six person group."
+[says] (p.159) "With five people from our class, and you being the sixth, Ayanakouji, let's aim for first place!"
+[says] (p.161) "but Ryuuen-kun is indispensable."
+[says] (p.163) "Don't be ridiculous! Do you think Ryuuen-kun will ever approve of our" — Hiyori; Ishizaki continues
+[trait] (p.152–166) Cheerful, sociable and unexpectedly strategic — devises a cross-class six-person group plan on his own (not Ryūen's orders), supported by Albert and Hiyori; grows flustered and panicked under Ayanokōji's probing, his brow visibly sweating, but insists on the goal of first place.
+[rel:ayanokouji-kiyotaka] (p.152–166) Proposes the group; wants his academic strength — he calls his math "truly incredible" — for the exam.
+[rel:shiina-hiyori] (p.157–165) His classmate and supporter; she corrects his plan's flaws.
+[rel:yamada-albert] (p.153–165) His classmate, part of the proposed group.
+[rel:ryuuen-kakeru] (p.163) The plan is his own idea; he knows Ryūen wouldn't approve of certain group choices.
 ## y2v3
 
 <!-- walk: y2v3 → start -->

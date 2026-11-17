@@ -88,6 +88,22 @@ char_id: tsubaki-sakurako · class: Class 1-C · status: unknown
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
+### y2v2 p.258–270 — Tsubaki observes; helps contact Ayanokōji
+[scene] (p.258) Watches Ayanokōji, Yagami and Kushida from behind in the crowded café/store, taking a lookout position; later appears with Utomiya.
+[says] (p.264) "Is it Utomiya?"
+[note] (p.264–270) Tsubaki helps Utomiya contact Ayanokōji; she doesn't mention Yagami's disclosure to him, and he doesn't mention it to her — both guard their separate contact. Tsubaki knew Ayanokōji would have been expelled if she'd given up on the earlier exam.
+[trait] (p.258–270) Observant and calculating — quietly monitors the group, orchestrates the introduction to Utomiya, and keeps her own counsel about what she knows.
+[rel:ayanokouji-kiyotaka] (p.264–270) Brings Utomiya to him; neither reveals their separate knowledge.
+[rel:utomiya-riku] (p.264) Her classmate; helps him contact Ayanokōji for the Hōsen plot.
+[rel:yagami-takuya] (p.258) She observed his conversation with Ayanokōji without his noticing.
+
+### y2v2 p.351–352 — Short story: "What Could Be Seen From That Back" — trailing Ayanokōji
+[scene] (p.351) From her own POV, silently tails Ayanokōji back from Keyaki Mall, proud of her insight/intuition, and calls out to him at the convenience store.
+[narrates] (p.351) "Excuse me~~?"
+[narrates] (p.352) "You were Tsubaki, right? Do you need something from me?" — Ayanokōji
+[narrates] (p.352) "There's something I want to speak to you about, so could you wait outside for a moment?"
+[trait] (p.351–352) Confident in her intuition, she notes he behaves "just like a normal student" yet is sure he noticed her; buys a lollipop to justify the stop and asks to speak outside; probes him about the earlier café incident indirectly.
+[rel:ayanokouji-kiyotaka] (p.351–352) Trails him; certain he noticed her despite his ordinary demeanor.
 ## y2v3
 
 <!-- walk: y2v3 → start -->

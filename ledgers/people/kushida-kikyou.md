@@ -1726,6 +1726,15 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
+### y2v2 p.250–258 — Kushida learns of the bounty from Yagami
+[scene] (p.250) Walks with Ayanokōji and Yagami to Keyaki Mall; listens dumbfounded as Yagami reveals the secret exam.
+[says] (p.253) "Excuse me, I have no idea what you guys are talking about…"
+[says] (p.254) "Eh?! To get Ayanokouji-kun expelled?"
+[says] (p.255) "Th-that's a lot of points… I-is that sort of thing allowed?"
+[says] (p.255) "Isn't it a bit strange that the student council president is conducting this special exam on his own…?"
+[trait] (p.250–258) Genuinely unaware of the bounty, she is surprised and uneasy at the 20 million points; Ayanokōji worries the information could affect her, and notes she would tell Yagami things anyway.
+[rel:yagami-takuya] (p.252–258) Her middle-school kouhai; he arranged the meeting partly to protect her and explains everything.
+[rel:ayanokouji-kiyotaka] (p.252–255) Walks with him; learns about the bounty on him.
 ## y2v3
 
 <!-- walk: y2v3 → start -->

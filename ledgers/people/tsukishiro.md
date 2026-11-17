@@ -253,6 +253,16 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
+### y2v2 p.336–337 — Tsukishiro's final push before losing his position
+[says] (p.336) "We're in late July already. It's certainly getting hotter, right?"
+[says] (p.336) "Please, are you done with your analysis yet? Prolonging it anymore won't help you."
+[says] (p.337) "You mean you've been forced to be unreasonable?"
+[says] (p.337) "Yes. I've been quite unreasonable with pressuring for an increase in the budget for this special exam."
+[says] (p.337) "I've prepared some splendid fireworks for the end. I want you to expel Ayanokouji Kiyotaka by any means necessary, is that clear?"
+[says] (p.337) "I'm expecting great things from you— Nanase Tsubasa-san."
+[trait] (p.336–337) Under pressure — admits to forcing budget increases and silencing the school over the exam's strict rules, and that the allegations against Chairman Sakayanagi have cleared so his acting-chairman role is nearly over; launches a final, desperate "fireworks" push to expel Ayanokōji.
+[rel:nanase-tsubasa] (p.336–337) His enforcer; he reveals her identity and orders her to act.
+[rel:sakayanagi-arisu] (p.337) The chairman whose allegations are clearing, ending Tsukishiro's temporary tenure.
 ## y2v3
 
 <!-- walk: y2v3 → start -->

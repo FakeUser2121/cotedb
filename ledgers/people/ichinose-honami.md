@@ -1661,6 +1661,18 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
+### y2v2 p.47–52 — Ichinose at Keyaki Mall: praise and a warning
+[scene] (p.47) Waiting at Keyaki Mall with Kanzaki, bumps into Ayanokōji and congratulates him on the perfect math score.
+[says] (p.47) "Ayanokouji-kun, are you waiting for someone?"
+[says] (p.47) "You actually got a perfect score in math, that's amazing!"
+[says] (p.48) "Ayanokouji-kun is not our enemy."
+[says] (p.48) "No matter what class it is, they'll have their own ideas, and of course, their own strategies."
+[says] (p.51) "I want for you to trust your classmates, put their safety first and continue the fight."
+[says] (p.51) "It's okay. I'm definitely going to protect them. If there comes a time someone from my class has to leave, I think I will be the first one."
+[says] (p.52) "Y-you…. Are really amazing, Ayanokouji-kun…"
+[trait] (p.47–52) Pleasant to Ayanokōji even after Class B's fall, but still herself (choosing to trust, not merely ignoring Kanzaki's warnings); vows she'd be the first to leave rather than let a classmate be expelled; departs embarrassed but resolved to stay, her eyes lit with Ayanokōji's "fire."
+[rel:ayanokouji-kiyotaka] (p.47–52) Defends him against Kanzaki, receives his promise never to let her be expelled, and renews her resolve to protect her class.
+[rel:kanzaki-ryuuji] (p.48–50) Checks his hostility; insists Ayanokōji isn't their enemy and stops his argument in a rare forceful tone.
 ## y2v3
 
 <!-- walk: y2v3 → start -->

@@ -908,6 +908,18 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
+### y2v2 p.12–18 — Yukimura's agitation over the perfect score
+[scene] (p.12) Waits restlessly in the classroom for Ayanokōji (called away by Chabashira), his right leg trembling repeatedly despite Hasebe's attempts to calm him.
+[says] (p.14) "It's not a question of whether it's hard or not. I didn't even understand the meaning of the question during the exam."
+[says] (p.14) "this was a question that we shouldn't have been able to solve."
+[says] (p.14) "Ayanokouji got a perfect score, which should be impossible. I…it's like I'm witnessing a magic trick!"
+[says] (p.15) "I've worked to understand everyone's academic abilities during our first year, at least at a certain level."
+[says] (p.15) "Not a single student, not even Ichinose or Sakayanagi, got a perfect score."
+[says] (p.17) "If you can't even understand that, then keep your mouth shut."
+[trait] (p.12–18) The academically strongest in Class D — analyzed the questions from memory and found them beyond a high-school scope; his resentment shows in calling Ayanokōji by his last name; grows irritated with Karuizawa's math-genius and cramming theories and bluntly rebukes her.
+[rel:ayanokouji-kiyotaka] (p.14–18) Deeply unsettled that the "impossible" perfect score came from someone whose ability he'd judged; later leads the questioning.
+[rel:karuizawa-kei] (p.16–17) Argues with her over her dismissive theories; snaps at her.
+[rel:hasebe-haruka] (p.12) She tries to calm his trembling leg.
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

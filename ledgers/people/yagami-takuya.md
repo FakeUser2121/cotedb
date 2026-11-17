@@ -75,6 +75,23 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
+### y2v2 p.250–258 — Yagami defects: reveals the bounty to warn Ayanokōji
+[scene] (p.250) Walks with Ayanokōji and Kushida to Keyaki Mall (joined the student council, asked Nagumo about the prior island exam), then reveals the secret exam.
+[says] (p.252) "there's something I want to tell you, Ayanokouji-senpai. There's a special exam that only a very small of 1st year students have been informed about."
+[says] (p.253) "In April, I received a notification about this. However, since I wasn't interested in getting paid for setting people up, I decided not to participate."
+[says] (p.253) "I recently heard that Housen-kun had failed in his first attempt."
+[says] (p.254) "For the sake of protecting the first year students, I was going to be a complete bystander."
+[says] (p.254) "if I don't do anything about it, Ayanokouji-senpai… depending on the situation there's a possibility that the situation will also affect your classmate, Kushida-senpai."
+[says] (p.254) "It all started when I was contacted by President Nagumo of the student council."
+[says] (p.255) "The student council president Nagumo-senpai told the six of us that he'll give 20 million points to the student who got him expelled."
+[says] (p.257) "In fact, I've already confirmed with my own eyes that he has 20 million points."
+[says] (p.257) "When the student council president announced the exam, the acting director was also present."
+[says] (p.258) "I'm already prepared to be hated by the 1st years, because I'm going to have to face the other classes sooner or later."
+[trait] (p.250–258) An honor student (A in academics, beautiful calligraphy from a calligraphy-teacher grandfather) who is unobnoxious and principled — refuses the bounty, defects to warn Ayanokōji out of concern for Kushida and the first-years, and accepts he'll be hated; a defensive fighter willing to strike pre-emptively.
+[rel:ayanokouji-kiyotaka] (p.250–258) Warns him about the bounty and Nagumo/Tsukishiro's involvement.
+[rel:kushida-kikyou] (p.252–258) His middle-school senpai whom he admires; asks her to help arrange the meeting and worries the situation will affect her.
+[rel:nagumo-miyabi] (p.254–257) Summoned him and offered the bounty; he confirmed Nagumo has 20 million points.
+[rel:utomiya-riku] (p.255) Fellow bounty participant from Class 1-C; notes Utomiya may have told someone in his class.
 ## y2v3
 
 <!-- walk: y2v3 → start -->

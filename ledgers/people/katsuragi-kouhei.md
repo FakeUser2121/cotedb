@@ -779,6 +779,22 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
+### y2v2 p.298–312 — Katsuragi's vendetta; signs Ryūen's contract to transfer
+[scene] (p.298) Joins Ryūen's café meeting with Ayanokōji, stiff and uneasy at being seen with Ryūen.
+[says] (p.298) "You said there was someone else, were you talking about Ayanokouji?"
+[says] (p.298) "What kind of meeting is this supposed to be, anyway?"
+[says] (p.299) "There's no way I can chill. if people see me with you, I'll be in trouble."
+[says] (p.300) "Then, let me make this simple for you. I'm not going to tell you anything about this, you bastard."
+[says] (p.301) "Didn't you also lose to Ishizaki that one time?"
+[says] (p.301) "I don't know what you're planning to do, but that's impossible. Even if you trap her on the island, she has plenty of private points for relief."
+[says] (p.308) "If you wanted to make me angry, then you've succeeded, Ryuuen. Are you satisfied now?"
+[says] (p.311) "You seem to be serious."
+[says] (p.312) "Although I don't really care that you brought me into your ranks, what exactly are you looking for?"
+[trait] (p.298–312) The isolated Class A outsider (not in Sakayanagi's faction) with a buried vendetta over Yahiko Totsuka's expulsion; refuses to betray Sakayanagi's plans, but Ryūen exploits his hatred (~20 million points to nullify his contract and transfer him) and he signs — moving DOWN to Class B, the first individual class transfer in the school's history.
+[rel:ryuuen-kakeru] (p.298–312) Manipulates him via his vendetta; he accepts the transfer despite knowing Ryūen's self-serving motives.
+[rel:sakayanagi-arisu] (p.300–311) His class leader and rival; refuses to reveal her plans, but agrees to leave after Ryūen's offer.
+[rel:totsuka-yahiko] (p.301) His admirer, whose expulsion (linked to Ryūen) fuels his anger.
+[rel:ayanokouji-kiyotaka] (p.298–312) Calls his perfect score impressive; notices he beat Ryūen; later questions why Ryūen wants his Trial card; he holds the Half Off card that gets swapped to Class D.
 ## y2v3
 
 <!-- walk: y2v3 → start -->

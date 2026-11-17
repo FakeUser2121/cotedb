@@ -4068,6 +4068,63 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
+### y2v2 p.27–30 — Horikita stays back to smooth things over
+[scene] (p.27) Remains in the classroom after Ayanokōji's summons (having not answered his call), having assessed that the remaining students are waiting for him.
+[says] (p.28) "Well, let me explain this."
+[says] (p.29) "Yukimura-kun and I- no, the entire 2nd year couldn't get this perfect score, so how was Ayanokouji-kun able to achieve that?"
+[says] (p.30) "it's hard not to be suspicious. If I were a student who knew nothing, I would definitely feel the same way… However, that isn't the case here."
+[trait] (p.27–30) Accurately judges the situation and stays to help; steps to Ayanokōji's side, using a deliberately mystifying expression to gather the class's attention and pivot the cheating accusation — she is the one with the "answers" they seek.
+[rel:ayanokouji-kiyotaka] (p.27–30) Covers for him; he is grateful for her accurate reading.
+[rel:ishigami-kyou] (p.28–30) Blocks Keisei's direct questioning — he resents her as an "unnecessary outsider."
+
+### y2v2 p.67–80 — Horikita joins the student council
+[says] (p.67) "Sorry to keep you waiting."
+[says] (p.68) "By the way, what would you have done if I hadn't been there at the time?"
+[says] (p.72) "I was troubled since the only member in the student council from the 2nd year was just Honami." — Nagumo; Horikita responds
+[says] (p.77) "I also want to walk the same path my brother has."
+[says] (p.77) "That's right. Just like the road my brother walked, I also want to become student council president."
+[says] (p.77) "I don't think it's a distance that can't be recovered." — on being a year behind Ichinose
+[says] (p.80) "Don't worry. I don't plan to graduate outside of Class A."
+[trait] (p.67–80) Mixes truths to join the council — genuinely wants to follow Manabu's path and become president, hiding that she lost the bet to Ayanokōji; faces Nagumo's lie-detecting questions and commits to the goal without a hint of falsehood; becomes an official member and resolves to observe his reformist system with her own eyes.
+[rel:nagumo-miyabi] (p.75–80) Joins his student council; he calls her "Suzune" and tells her past presidents graduated in Class A.
+[rel:horikita-manabu] (p.77) Wants to walk the same path as her brother.
+[rel:ichinose-honami] (p.77) Nagumo notes she's a year behind Ichinose in the quest for the presidency; she says the gap is recoverable.
+[rel:ayanokouji-kiyotaka] (p.72–74) Asked him to accompany her to the meeting.
+[note] (p.77) The narration notes part of Horikita's answer about wanting to follow her brother was not from the heart — she covered her true reason (the bet) with several truths to blur Nagumo's eyes.
+
+### y2v2 p.119, 174–179 — Horikita on the exam and group selection
+[says] (p.119) "When would the special exam begin?"
+[says] (p.124) "Which means… the students in the 2nd year, are our allies…?"
+[says] (p.178) "It seems like we can only form groups that leave us with no regrets."
+[says] (p.178) "For me, I'd like to select 2 people from Class D to form a group." — see note
+[trait] (p.119–179) Initially views all non-class students as enemies, so the same-year grouping rule gives her pause; as leader, plans to pick two from Class D and struggles with the fairness of group formation — Ayanokōji notes she has become more cheeky, or rather more difficult to deal with.
+[rel:ayanokouji-kiyotaka] (p.174–179) He considers relying on her but knows she must avoid favoritism as leader.
+[rel:hirata-yousuke] (p.178–179) They discuss group formation; Hirata worries about Airi (last in academics), who plans to group with Akito and Haruka, and had hoped to scout Ayanokōji for his mind.
+
+### y2v2 p.316–318 — Horikita's solo stance; agrees to meet Ibuki
+[says] (p.316) "It's too late to bring that up. Anyway, I'm not going to group up with anyone this time."
+[says] (p.317) "I can't believe you're bringing up something which happened a year ago. Anyone can get sick."
+[says] (p.317) "In terms of taking care of myself, I'm more confident than you are."
+[says] (p.317) "I see. It's true that I'm not as good as you at taking care of myself. I admit that."
+[says] (p.317) "It's enough that you know. I had no intention of opposing you."
+[says] (p.318) "Me and Ibuki?"
+[says] (p.318) "That's true, having some kind of insurance would be better… All right, I'll hear her out."
+[trait] (p.316–318) Plans to go solo to act as the situation demands; defends her health (illness last island exam + winter fever) but concedes Ayanokōji's perfect attendance; refuses to fight him, and agrees to hear out grouping with Ibuki as insurance.
+[rel:ayanokouji-kiyotaka] (p.316–318) Debates the solo-exam risks; he proposes she group with Ibuki.
+[rel:ibuki-mio] (p.318) Agrees to hear out a partnership with her.
+[rel:kouenji-rokusuke] (p.317) One of the three in Class D still ungrouped (with Horikita and Ayanokōji).
+
+### y2v2 p.348–350 — Short story: "He Who Stands Beside Me" — joining the council
+[scene] (p.348) From her own POV, recounts Nagumo's condition that she state why she wants to join the student council at this point in time.
+[narrates] (p.348) "You wish to join the student council?" — Nagumo
+[narrates] (p.348) "Tell me the reason why you, at this point in time, want to join the student council."
+[narrates] (p.349) "I had a discord with my brother. And I enrolled into this school to make peace."
+[narrates] (p.349) "I spent a whole year without being able to have a properly talk with with until the very last moments."
+[narrates] (p.350) "Welcome to the Student Council. I'll have you work hard as a council member from today, Suzune." — Nagumo
+[trait] (p.348–350) Honest and self-reflective — gives a truthful answer about her unresolved relationship with Manabu (not mentioning Ayanokōji), realizes she unconsciously values Ayanokōji highly and wants *him* to acknowledge her; resolves to grow through learning from Nagumo so they can reach Class A.
+[rel:horikita-manabu] (p.348–349) Her brother; she joined to make peace but never could before he graduated.
+[rel:ayanokouji-kiyotaka] (p.349–350) Wants his acknowledgment — a feeling she only admits to herself here.
+[rel:nagumo-miyabi] (p.348–350) Sets the condition, welcomes her, calls her "Suzune."
 ## y2v3
 
 <!-- walk: y2v3 → start -->

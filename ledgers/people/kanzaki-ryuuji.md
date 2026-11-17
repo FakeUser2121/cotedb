@@ -552,6 +552,16 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
+### y2v2 p.47–50 — Kanzaki's hostility toward Ayanokōji
+[scene] (p.47) Waiting with Ichinose at Keyaki Mall; his gaze is fixed more on her than on Ayanokōji.
+[says] (p.47) "Judging from last year's OAA, you shouldn't have the strength to get a full score."
+[says] (p.48) "So you're saying that you've been hiding it all this time. It looks like you're even more of an issue than I thought."
+[says] (p.49) "What other abilities are you hiding?"
+[says] (p.49) "Our overall scores in Class C are much higher than that."
+[says] (p.50) "It seems like I've indeed lost my cool."
+[trait] (p.47–50) Openly suspicious and thorny — presses Ayanokōji about the perfect score and other hidden abilities, argues Class B can make up the points gap as a whole, and is stopped by Ichinose's rare force; admits he lost his cool and leaves first, his reaction understandable given Class B's fall to Class C.
+[rel:ayanokouji-kiyotaka] (p.47–50) Views him as a hidden threat and potential enemy; rejects his explanation as incomplete.
+[rel:ichinose-honami] (p.48–50) His classmate; her naivety frustrates him, but he accepts her criticism.
 ## y2v4
 
 <!-- walk: y2v4 → start -->

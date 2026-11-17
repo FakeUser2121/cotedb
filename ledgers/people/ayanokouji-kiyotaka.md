@@ -7213,6 +7213,247 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
+### y2v2 p.23–26 — After Tsukishiro's office; Chabashira's carelessness
+[scene] (p.23) Leaves the reception room after Tsukishiro, breathing a short sigh; his left hand (from Hōsen's knife) still wounded, he reflects he "escaped to this school" but a chain now follows him forever — only expulsion could free him.
+[says:chabashira-sae] (p.23) "Looks like you're done talking?"
+[says:chabashira-sae] (p.24) "You'll be a bit of a celebrity from now on."
+[says] (p.25) "There's no use in acting in advance. I'll start from this stage."
+[says] (p.25) "This is going to be hard for you. Prepare yourself to be bombarded with questions."
+[says] (p.25) "Can we stop here? If I'm walking with a teacher alone from now on, it'll attract a lot of unnecessary attention."
+[inference] (p.23–26) Notes Chabashira waiting for him after Tsukishiro's summons is careless (Tsukishiro might suspect a trap); her caution differs from his because she sees Tsukishiro only as Ayanokōji's father's connection, not knowing the White Room's background; sees through her joy at his perfect score.
+[trait] (p.23–26) Keeps his distance from Chabashira yet relies on her — she is overflowing with joy beneath a poker face and, despite her distance from students, might actually be the closest to them.
+[rel:chabashira-sae] (p.23–26) Secretly allied; she worries about the attention his perfect score will bring; he casts her from his mind as easy to manipulate.
+[rel:tsukishiro] (p.23–24) Just left his office; the "chain" he can't escape.
+
+### y2v2 p.27–30 — The class confronts him; Horikita's cover story
+[scene] (p.27) Returns to the classroom to find students who didn't have club activities still waiting for him; Keisei leads the charge, resentful, with Haruka and Airi gathered around.
+[says:ishigami-kyou] (p.27) "You… what's with the 100 points in math?"
+[says:ishigami-kyou] (p.28) "You're the only one in the entire year."
+[says:horikita-suzune] (p.28) "Well, let me explain this."
+[says:horikita-suzune] (p.29) "Yukimura-kun and I- no, the entire 2nd year couldn't get this perfect score, so how was Ayanokouji-kun able to achieve that?"
+[says:horikita-suzune] (p.30) "it's hard not to be suspicious. If I were a student who knew nothing, I would definitely feel the same way… However, that isn't the case here."
+[inference] (p.28–30) Had hoped most students would have left; realizes Horikita stayed back (having not answered his call) specifically to smooth things over — an accurate judgment, and he is grateful.
+[rel:horikita-suzune] (p.27–30) She steps in to speak for him, using a mystifying expression to gather attention and defuse the cheating accusation.
+[rel:ishigami-kyou] (p.27–30) Presses him resentfully about the perfect score; he wanted to talk right after school.
+
+### y2v2 p.46–52 — Keyaki Mall: Ichinose and Kanzaki
+[scene] (p.46) Arrives at 6:30 a.m. (before the agreed 7) to wait alone in front of Keyaki Mall — his "special skill" of emptying his mind; learns Airi is already leaving the dorm via the group chat.
+[says:ichinose-honami] (p.47) "Ayanokouji-kun, are you waiting for someone?"
+[says] (p.47) "I'm waiting for my friends to go eat."
+[says:ichinose-honami] (p.47) "You actually got a perfect score in math, that's amazing!"
+[says:kanzaki-ryuuji] (p.47) "Judging from last year's OAA, you shouldn't have the strength to get a full score."
+[says] (p.48) "There's a lot of reasons for this. It was only after discussing with my comrades that I decided to hide the fact that I'm good at math."
+[says:ichinose-honami] (p.48) "Ayanokouji-kun is not our enemy."
+[says:ichinose-honami] (p.51) "I want for you to trust your classmates, put their safety first and continue the fight."
+[says] (p.51) "I won't ever let you get expelled."
+[says] (p.52) "You are the same too. You certainly have such a weapon yourself."
+[trait] (p.46–52) Gives the explanation he knows Ichinose/Kanzaki can fill in; judges Kanzaki's guardedness correct and Ichinose's trust unusual; ignites a "blazing fire" in Ichinose's eyes to keep her from stopping, and analyzes that her inclusiveness kills her classmates' individuality.
+[rel:ichinose-honami] (p.46–52) Encourages her after Class B's fall; promises never to let her be expelled — she departs embarrassed but resolved to stay.
+[rel:kanzaki-ryuuji] (p.47–50) He is openly hostile/suspicious, presses about other hidden abilities; he leaves first; Ayanokōji notes his reaction is understandable given Class B's fall.
+
+### y2v2 p.53–56 — The group after Ichinose; Sudō's questions
+[says:hasebe-haruka] (p.53) "What were you talking about with Ichinose-san just now?"
+[says] (p.53) "My perfect score in math."
+[says:sudou-ken] (p.54) "So you were hiding the fact you're good at studying because of Suzune's strategy, right?"
+[says:sudou-ken] (p.55) "is the fact that you're good at fighting also a secret?"
+[says:sudou-ken] (p.56) "That was the first time I've ever felt scared in a fight."
+[trait] (p.53–56) Gives the group a sensible reason; notices Haruka is "off" and doesn't ask further; declines to point out Sudō's romantic view of Horikita; admits Sudō fought bravely against Hōsen.
+[rel:hasebe-haruka] (p.53) She asks about the Ichinose conversation then quickly returns to her usual expression — something feels off.
+[rel:sudou-ken] (p.54–56) He accepts the explanation that he hid his ability for Horikita's strategy, is more interested in his fighting secret, and describes Hōsen as a monster who scared him.
+
+### y2v2 p.65–74 — OAA updates; analyzing the 20-million bounty with Horikita
+[scene] (p.65) On a mid-May morning waits for Horikita, reviewing the updated OAA: his own Academics jumped to A− (81) from the perfect math score, overall B− (62); Sudō's Academics rose to C (54) overall B− (63).
+[trivia] (p.66) Notes Sudō's physical A+ (96) and amazing growth from a first-year overall C (47) — his overall now exceeds Keisei and Akito; others with low adaptability/social scores all improved.
+[says] (p.67) "Thanks again. Because of your quick-witted speech, I didn't need to be baptized under the attentive eyes of my classmates for this to end." — Horikita
+[says] (p.68) "It's nothing; I just thought that it would be good for the class in the future."
+[says] (p.68) "Is your left hand alright now?" — Horikita
+[says] (p.68) "Not at all. I passed by Housen and Nanase once, but I didn't say anything."
+[says] (p.68) "That, if someone gets you expelled, they get 20 million points, is that true?" — Horikita
+[says] (p.71) "The other possibility is that it wasn't really a special exam. In other words, someone offered to pay 20 million private points in order to get me expelled."
+[inference] (p.70–73) Rules out a first-year-funded bounty (no trust/capital) and reasons someone in the same or higher grade with 20 million points and first-year trust is behind it; Chabashira knew nothing; considers Nagumo a possibility but doubts he'd use unknown first-years; notes Nagumo's title would remove first-years' doubts.
+[trait] (p.65–74) Feigns ignorance about what he'd have done without Horikita's intervention; appraises the brave first-years who made a massive move without wavering; carefully hides that he has already secretly won Chabashira to his side.
+[rel:horikita-suzune] (p.65–74) Walks to school with her, thanks her for the cover story, and reasons through the bounty together; she suspects Nagumo.
+[rel:tsukishiro] (p.65) Notes the White Room student still hasn't acted — "out of Tsukishiro's control" — and wonders what they're thinking.
+[rel:amasawa-ichika] (p.69) Considers her almost certainly aware of the 20-million bounty, given she teamed with Hōsen.
+[rel:nagumo-miyabi] (p.71–74) Discusses him as a possible bounty source; plans for Horikita to join the student council to investigate, and to observe his meritocratic reforms.
+
+### y2v2 p.72–74 — Why Horikita should join the student council
+[says] (p.72) "I'm preparing after school to go to the student council, and ask President Nagumo about joining it." — Horikita
+[says] (p.73) "that's not the only reason, right?"
+[says] (p.73) "What your brother thinks is completely different from what Nagumo thinks."
+[says] (p.73) "Now, I just want to see Nagumo's reforms."
+[says] (p.73) "If Nagumo is going in the wrong direction, there's a need to stop him."
+[says] (p.74) "will you come with me?" — Horikita
+[trait] (p.72–74) Explains Manabu valued tradition and opposed Nagumo's reforms ("the class is a community that should share the same fate"); refuses to judge who's right, wanting only to observe — but would have Horikita (Manabu's sister) stop Nagumo if needed; won her compliance via their bet.
+[rel:horikita-manabu] (p.73) His values (tradition, shared class fate) differ from Nagumo's; Ayanokōji relays Manabu's words from before graduation.
+[rel:horikita-suzune] (p.74) She asks him to accompany her to the Nagumo meeting as evidence.
+
+### y2v2 p.75–81 — The Nagumo meeting; Horikita joins; Nagumo's challenge
+[scene] (p.75) Accompanies Horikita to the student council office; Nagumo (president) and Kiriyama (vice president) react with surprise to her request to join.
+[says:nagumo-miyabi] (p.75) "Well, what a turn of events! I don't really want to obediently say yes."
+[says:nagumo-miyabi] (p.78) "Welcome to the student council. From today onward, I want you to work for me as a member of the council without any worries, Suzune."
+[says:nagumo-miyabi] (p.78) "As a congratulations for joining, I'll tell you something interesting. The past presidents of the student council have always graduated in Class A."
+[says:horikita-suzune] (p.80) "Don't worry. I don't plan to graduate outside of Class A."
+[says:nagumo-miyabi] (p.80) "Are you going to join the student council by the way? Ayanokouji."
+[says] (p.81) "I'll pass, my personality isn't suited to being on the council."
+[says:nagumo-miyabi] (p.81) "I'll play with you, so look forward to it."
+[trait] (p.75–81) Observes Nagumo see through Horikita's half-truths yet accept her (open to anyone, unlike Manabu); declines Nagumo's casual invitation; reads his parting "I'll play with you" as "an order from the strong to the weak."
+[rel:nagumo-miyabi] (p.75–81) He invites him to the council and declares he'll "play" with him over summer — a veiled challenge.
+[rel:kiriyama] (p.78, 80) Vice president; surprised at Nagumo inviting Ayanokōji; shakes Horikita's hand.
+
+### y2v2 p.110–116 — Mid-June morning: Nanase's apology and the ongoing bounty
+[scene] (p.111) Walking to school looking at the blue sky, is greeted by Nanase, who may have deliberately waited for him; reflects summer is his favorite season and that the White Room student still hasn't moved.
+[says:nanase-tsubasa] (p.112) "I've always felt sorry for what I did to you, Ayanokouji-senpai."
+[says:nanase-tsubasa] (p.112) "Senpai, do you hate me?"
+[says] (p.112) "I don't have any reason to hate you. It was for the special exam, right?"
+[says] (p.112) "Besides, I saw how you were trying to protect me, Nanase."
+[says:nanase-tsubasa] (p.112) "No, the exam is still going on. The deadline is the start of the second semester."
+[says:nanase-tsubasa] (p.113) "Because of what happened last time, I'm convinced that even with a plan, it might not work out that easily."
+[says] (p.113) "And since even someone like Housen failed, people judged that it wouldn't work out without good preparation?"
+[inference] (p.112–114) Reasons it was fortunate Hōsen (who attracts all the attention) was the first to act; the other three first-year classes now know of the bounty and are waiting to act with preparation; decides not to press Nanase (she can't betray the insiders and only admitted the exam's existence to avoid disadvantaging Class 1-D).
+[trait] (p.110–116) Recalls that he and Kei still haven't kissed again — an "invisible wall" from the knife incident — but doesn't rush, letting her remove it naturally for her growth; notes Nanase has shed her naivety and speaks of living "without regrets."
+[rel:nanase-tsubasa] (p.111–116) She apologizes, reveals the bounty runs until second semester and that Hōsen has grown "more well-behaved" toward first-years (focusing on Ayanokōji), and warns him not to leave regrets.
+[rel:housen-kazuomi] (p.115) Now fixated on Ayanokōji ("Let me fight the 2nd years"); his attention shifted from first-years, which helped them.
+[rel:karuizawa-kei] (p.110) Still hasn't kissed again after the knife incident.
+
+### y2v2 p.117–132 — The island survival exam announced; rules
+[scene] (p.117) In homeroom, Chabashira teases a luxury cruise (Aug 4–11) before revealing the "Uninhabited Island Survival" special exam — bigger, two weeks, all school years competing together.
+[says:chabashira-sae] (p.119) "You will have to participate in the 'Uninhabited Island Survival' special exam and compete with each other."
+[says:chabashira-sae] (p.120) "the exam this year is very different from the previous one. It's probably going to be tougher and more unforgiving than any other special exam before."
+[says:chabashira-sae] (p.124) "not all the rules will be made public today."
+[says:chabashira-sae] (p.124) "a maximum of 6 people to form a big group to work with each other."
+[says:horikita-suzune] (p.124) "Which means… the students in the 2nd year, are our allies…?"
+[rule] (p.125–127) Small groups of up to 3 (2nd/3rd years) or 4 (1st years), same-year only, formed by July 16; mixed-gender groups need ≥2 girls per 3 (≥50% in big groups); groups can't change; big groups of up to 6 form after the exam starts.
+[rule] (p.128–130) The exam requires all abilities (academic, physical, mental, communication); if a member drops out the group continues — the more people, the more chances to survive.
+[number] (p.130–131) Rewards: 1st place 300 class points + 1M private + 1 Protection Point; 2nd 200 + 500k; 3rd 100 + 250k; top 50% 50k, top 70% 10k — collected from bottom groups' years, split by class.
+[trait] (p.117–132) Notices Chabashira dangles the cruise then yanks it back — a tactic that works because the class has learned how to brace itself; realizes rewards/penalties are given by group per class, so a mixed-class winning group won't change standings.
+[rel:chabashira-sae] (p.117–132) Delivers the exam briefing; he notes she wants Class D to prove they're different from a year ago.
+
+### y2v2 p.152–166 — Ishizaki's group proposal
+[scene] (p.152) Is approached by Ishizaki Daichi (Class 2-C) at school, who proposes forming a group for the island exam; Ayanokōji follows him and meets Albert and Hiyori.
+[says:ishizaki-daichi] (p.159) "Let's cut to the chase, here's my proposal…. Let's form a group for the next"
+[says] (p.159) "Form…a group? Can you give me more details?"
+[says:ishizaki-daichi] (p.159) "when the exam starts, you'll combine your group with another three person group from Class B, so it'll be a perfect six person group."
+[says] (p.159) "Hiyori, did you carefully explain the exam rules to Ishizaki?"
+[inference] (p.163–166) Realizes the plan was Ishizaki's own (not Ryūen's) — Ishizaki tenses when asked; understands why Ibuki hangs around him; Hiyori and Albert support him; declines to commit for now, knowing forming a group would draw others in.
+[trait] (p.152–166) Reads the group-formation dynamics sharply; recognizes the rules mean same-year grouping and that Ryūen couldn't object to intra-class grouping.
+[rel:ishizaki-daichi] (p.152–166) His proposal — a 3-person small group with Ishizaki/Albert/Hiyori combining with another Class B group; Ayanokōji declines to commit.
+[rel:shiina-hiyori] (p.157–166) Supports Ishizaki's plan; listens with interest.
+[rel:yamada-albert] (p.153–166) Ishizaki's classmate, part of the proposed group.
+[rel:ryuuen-kakeru] (p.163) Ayanokōji checks whether Ryūen decided the invitation; it was Ishizaki's own idea.
+
+### y2v2 p.169–185 — Class D group formation; Matsushita's offer
+[scene] (p.169) Fields classmates' questions about grouping — Ike asks (wanting to pair with Shinohara), then Matsushita approach him with an offer.
+[says:matsushita-chiaki] (p.183) "Did you judge that your odds of survival are the highest if you grouped up"
+[note] (p.182–184) Matsushita (holding a "trial card" that makes a group more likely to be expelled) offers to help Ayanokōji despite the danger, saying she chose him because he seemed unlikely to be snapped up quickly; he decides not to settle his group "at least for this month," suspecting the others are scheming.
+[trait] (p.169–185) Is wary of committing early (others will get involved); watches Ike/Shinohara dynamics and notes Horikita has become "more difficult to deal with"; considers relying on Horikita but knows as leader she must avoid favoritism.
+[rel:matsushita-chiaki] (p.182–184) She offers to assist him despite the risk of her trial card; he declined to decide immediately.
+[rel:ike-kanji] (p.169–176) He wants to group with Shinohara; asks Ayanokōji's advice.
+[rel:horikita-suzune] (p.174–179) Considers relying on her but recognizes her position; she plans to select two from Class D.
+
+### y2v2 p.250–258 — Yagami's revelation: Nagumo and Tsukishiro behind the bounty
+[scene] (p.250) Walks with Yagami and Kushida to Keyaki Mall; Yagami (having joined the student council) reveals he asked Nagumo about the previous island exam, and starts explaining the bounty.
+[says:yagami-takuya] (p.252) "there's something I want to tell you, Ayanokouji-senpai. There's a special exam that only a very small of 1st year students have been informed about."
+[says:yagami-takuya] (p.253) "In April, I received a notification about this. However, since I wasn't interested in getting paid for setting people up, I decided not to participate."
+[says:yagami-takuya] (p.254) "For the sake of protecting the first year students, I was going to be a complete bystander."
+[says:yagami-takuya] (p.254) "It all started when I was contacted by President Nagumo of the student council."
+[says:yagami-takuya] (p.254) "The first year students there were Takahashi Osamu-kun and Ishigami Kyou-kun from Class A, me from Class B, Utomiya Riku-kun from Class C, and Housen Kazuomi-kun and Nanase Tsubasa-san from Class D. A total of 6 students."
+[says:yagami-takuya] (p.255) "The student council president Nagumo-senpai told the six of us that he'll give 20 million points to the student who got him expelled."
+[says:yagami-takuya] (p.256) "President Nagumo said that the student was selected at random from the 2nd years'."
+[says:yagami-takuya] (p.257) "In fact, I've already confirmed with my own eyes that he has 20 million points."
+[says:yagami-takuya] (p.257) "When the student council president announced the exam, the acting director was also present."
+[inference] (p.254–257) Learns the six first-years summoned by Nagumo (Takahashi, Ishigami, Yagami, Utomiya, Hōsen, Nanase); Amasawa's absence noted; the claimed random 1-in-157 selection is judged false; Tsukishiro's presence confirms Nagumo and the acting director are behind the 20-million bounty — giving Horikita a clear direction.
+[trait] (p.250–258) Prudent — neither confirms nor denies, lets Yagami talk; judges he isn't lying but weighs the risk to Class 2-D; notes Yagami is a defensive fighter who pre-emptively strikes; spots Tsubaki observing them from behind.
+[rel:yagami-takuya] (p.250–258) He defects, revealing the whole bounty scheme to warn him (partly to protect Kushida).
+[rel:kushida-kikyou] (p.252–255) Is present; surprised by the revelation; Ayanokōji worries the information could affect her.
+[rel:nagumo-miyabi] (p.254–257) Confirmed as the one who summoned the first-years and offered the bounty; Ayanokōji doubts the "random selection" story.
+[rel:tsukishiro] (p.257) His presence at the announcement confirms his involvement.
+
+### y2v2 p.264–270 — Utomiya and Tsubaki's plot to expel Hōsen
+[scene] (p.264) At the convenience store, Tsubaki and Utomiya approach him; Utomiya reveals they want to take Hōsen by surprise on the island and force him out of Class 1-D.
+[says:utomiya-riku] (p.266) "We want to take Housen by surprise on the uninhabited island exam."
+[says:utomiya-riku] (p.267) "In Class C, a boy named Hatano was expelled from the school. I think Housen had something to do with it."
+[says] (p.267) "Are you trying to force Housen out of the school?"
+[says:utomiya-riku] (p.268) "if you're able to get Housen expelled from this school."
+[says] (p.269) "Did you ever consider that I might be Housen's comrade?"
+[says:utomiya-riku] (p.270) "If we get you expelled, news of that'll spread throughout the school."
+[trait] (p.264–270) Sees through their plan (Hōsen lacks points and would be forced out if he can't get the bounty); pretends not to know about Yagami's disclosure or his own role; neither he nor Tsubaki mentions their separate contact with him; declines to be drawn in.
+[rel:utomiya-riku] (p.264–270) Wants to force Hōsen out (Hatano's expulsion cost Class C 100 points), and offers him a deal; Ayanokōji is wary.
+[rel:tsubaki-sakurako] (p.264–270) Facilitated the contact; didn't mention Yagami's disclosure.
+[rel:housen-kazuomi] (p.266–270) Target of their plot; Ayanokōji is asked about his past partnership with him.
+
+### y2v2 p.294–297 — Kanzaki's appeal about Ichinose
+[scene] (p.295) On the way to Keyaki Mall (summoned by Ryūen), runs into Kanzaki with two 2-liter bottles; Kanzaki (growing more wary as his opinion rises) probes whether Ayanokōji and Horikita will act as "reinforcements."
+[says] (p.295) "You and Horikita, are both of you going to act as reinforcements for your class's groups?"
+[says] (p.295) "Ayanokouji, Ichinose seems to trust you a lot, but can 'we' really trust you?"
+[says] (p.296) "Although we've broken off the alliance, I don't consider Ichinose to be an enemy."
+[says] (p.296) "Kanazki, what do you want from me?"
+[says] (p.296) "I'm simply going to come out and ask you for help. Ichinose trusts you a lot. That is why I want you to tell her yourself: the way she is right now, she isn't good enough."
+[says] (p.297) "Sorry, but I can't help you. I'd like to keep seeing her own way of dealing with things."
+[says] (p.297) "Well, fundamentally speaking, one has to care of their own class by themselves. Isn't that right?"
+[trait] (p.294–297) Sees through Kanzaki's attempt to get a statement for Ichinose to hear; is briefly conflicted about telling him his fear that Ichinose's next fall would be her last, but stops himself (it would only contaminate them); notes a cornered rat can bite the cat.
+[rel:kanzaki-ryuuji] (p.294–297) Desperately asks him to warn Ichinose; admits he was "too childish" and walks away.
+[rel:ichinose-honami] (p.296–297) Refuses to help because she must see things her own way; worries about her fragility.
+
+### y2v2 p.298–311 — Ryūen and Katsuragi's meeting; buying Katsuragi
+[scene] (p.298) Arrives at the Keyaki Mall café to find Ryūen (who summoned him) with Katsuragi of Class A — an oil-and-water pair; the atmosphere peculiar.
+[says:katsuragi-kouhei] (p.298) "You said there was someone else, were you talking about Ayanokouji?"
+[says:ryuuen-kakeru] (p.298) "You never had the vibe of an ordinary student, Ayanokouji, but that was quite the trick you hid up your sleeve."
+[says:katsuragi-kouhei] (p.300) "Then, let me make this simple for you. I'm not going to tell you anything about this, you bastard."
+[says:ryuuen-kakeru] (p.301) "Don't you want to crawl back to the top again?"
+[says:ryuuen-kakeru] (p.301) "Don't you think it'll be an interesting development if we manage to get Sakayanagi expelled from the next special exam?"
+[says:ryuuen-kakeru] (p.304) "The most important thing about this special exam is to not lose any points from the 2nd year."
+[says:ryuuen-kakeru] (p.308) "Come to Class B, Katsuragi."
+[says:ryuuen-kakeru] (p.311) "This is your fate. Accept it."
+[inference] (p.301–311) Sees Ryūen's real aim: exploit Katsuragi's buried vendetta against Sakayanagi (and the Totsuka-expulsion wound), use ~20 million points (5M to nullify his contract + class funds) to bring him to Class B — never truly to expel Sakayanagi, but to climb past Class A; Katsuragi signs the prepared contract.
+[trait] (p.298–311) Plays dumb ("I echoed Katsuragi and shrugged"), watches the maneuvering; pours diluted coffee and when asked says he wondered what it'd taste like 3–4x diluted, baffling them — a strange, detached presence.
+[rel:ryuuen-kakeru] (p.298–311) Invites him (for his Trial card) and uses him as a wedge against Katsuragi; he refuses to join the group.
+[rel:katsuragi-kouhei] (p.298–311) The Class A outsider; signs Ryūen's contract to transfer to Class B.
+
+### y2v2 p.313–314 — Selling the Trial card for the Half Off card
+[says] (p.313) "Why, it's the Trial card he received."
+[says:ryuuen-kakeru] (p.313) "Sell it to me."
+[says] (p.313) "I have one condition. Make a student in your class that has a Half Off card exchange their card with one of our students that has the Free Ride card."
+[trait] (p.313–314) Refuses to join Ryūen's group but agrees to sell the Trial card (~500,000 points) on condition a Half Off card is swapped to Class D — to keep Kei safe (limiting relief cost to 1 million if she's hit with the penalty); with the Trial card and first place Ryūen could gain 450 class points, pushing Class B past 1000.
+[rel:ryuuen-kakeru] (p.313–314) Sells him the Trial card in exchange for the Half Off card swap.
+[rel:karuizawa-kei] (p.313) Arranges the Half Off card so she can be protected in the exam.
+
+### y2v2 p.315–318 — Arranging a partner for Ibuki; the "go alone" debate with Horikita
+[says] (p.316) "Give me some time. I think I have an idea."
+[says] (p.316) "What are you going to do about your group?" — Horikita
+[says] (p.316) "I know you're doing that so you can act as the situation demands. But what if you get sick and are eliminated?"
+[says] (p.317) "You had a problem with your health during the uninhabited island exam last year."
+[says] (p.317) "But, my risks and your risks are different."
+[says] (p.318) "How about grouping up with her for the special exam, Horikita?"
+[trait] (p.315–318) Arranges for the unpaired Ibuki (Class B) to group with Horikita (two girls can merge with another small group later); argues with Horikita about going solo, citing her prior-year illness and winter fever versus his perfect attendance, and wins her agreement to hear Ibuki out.
+[rel:horikita-suzune] (p.316–318) Debates the risks of going alone; proposes she group with Ibuki; she agrees to hear her out.
+[rel:ibuki-mio] (p.315–318) Left unpaired; he finds her a partner in Horikita.
+[rel:ishizaki-daichi] (p.315–316) Calls him about Ibuki being alone; he promises to help.
+
+### y2v2 p.327–335 — The eve of the island exam; Kōenji's deal with Horikita
+[scene] (p.327) On the last day of the first semester, waits in the classroom; Keisei comes to his seat, grim about surviving the island ("you might as well ask me to catch a cloud") and vows to help his comrades despite being in a different group.
+[says:ishigami-kyou] (p.327) "Honestly, surviving on an uninhabited island isn't something very good at."
+[says] (p.328) "My perfect attendance record at least until now is one of the few things that I'm proud of."
+[says:ishigami-kyou] (p.328) "You're starting to sound a bit sarcastic lately, you know?"
+[trait] (p.327–335) Notes the girl-specific hardships of the exam, promises Keisei he'll lend a hand; Chabashira warns the class not to be complacent and wishes none disappear; watches Kōenji negotiate with Horikita.
+[rel:ishigami-kyou] (p.327–328) He fears the island exam and worries about Ayanokōji going solo (6-million-point penalty); vows to protect his comrades.
+[rel:chabashira-sae] (p.328–329) Gives the final checklist and a warning; hopes no one is expelled.
+[rel:kouenji-rokusuke] (p.330–334) Negotiates with Horikita for "full freedom" in exchange for a top result; Ayanokōji admires her "beautifully added condition" (if he fails to get first, he must contribute in future exams).
+[rel:horikita-suzune] (p.330–334) She extracts a no-lose deal from Kōenji; hopes Class 2-D can take first while he takes 2nd/3rd to jump to Class B.
+[rel:tsubaki-sakurako] (p.335) Among the first-year "up and coming" threats (with Hōsen) eyeing first place.
+[note] (p.335) Competitors for first place include Sakayanagi, Ichinose, Ryūen, first-years Hōsen and Amasawa, and third-years Nagumo, Kiriyama and Kiryūin; Ayanokōji himself intends a high spot.
+
+### y2v2 p.336–337 — Tsukishiro's bombshell: Nanase is the enforcer
+[scene] (p.336) In late July, Tsukishiro ( Acting Director) watches buses enter the school and presses a first-year student to expel Ayanokōji by any means in the island exam.
+[says:tsukishiro] (p.336) "Please, are you done with your analysis yet? Prolonging it anymore won't help you."
+[says] (p.336) "You're saying I should— expel Ayanokouji Kiyotaka?"
+[says:tsukishiro] (p.337) "I want you to expel Ayanokouji Kiyotaka by any means necessary, is that clear?"
+[says:tsukishiro] (p.337) "Once everything is taken care of, you will also return to your previous life."
+[says:tsukishiro] (p.337) "I'm expecting great things from you— Nanase Tsubasa-san."
+[inference] (p.336–337) Tsukishiro admits he pressured for budget increases and silenced school authorities over the exam's strict rules; with the allegations against Chairman Sakayanagi cleared, his tenure as temporary chairman is ending, so he's prepared "splendid fireworks."
+[trait] (p.336–337) Confirms Nanase Tsubasa is the White Room enforcer sent to expel him — the girl's left hand clenches with "natural power," and Tsukishiro smiles, expecting great things.
+[rel:nanase-tsubasa] (p.337) Revealed as the White Room student — the mystery of the agent is solved for the reader.
+[rel:tsukishiro] (p.336–337) Desperate to expel Ayanokōji before losing his position; he and the enforcer will return to the place they're supposed to be.
 ## y2v3
 
 <!-- walk: y2v3 → start -->

@@ -154,6 +154,12 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
+### y2v2 p.182–184 — Matsushita's offer to group with Ayanokōji
+[says] (p.182) "If you've got any problems, I would like to help you, Ayanokouji-kun."
+[says] (p.183) "Did you judge that your odds of survival are the highest if you grouped up"
+[says] (p.183) "I thought you'd get snapped up quickly, Ayanokouji-kun."
+[trait] (p.182–184) Shrewd and calculating — holds a "trial card" that makes a group more likely to be expelled, yet offers to assist Ayanokōji despite the danger; explains she chose him because she thought he'd be snapped up quickly and preferred taking the risk with capable people over a "half-assed group" with friends.
+[rel:ayanokouji-kiyotaka] (p.182–184) Offers to group with him; he declines to decide immediately, suspecting she is scheming.
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

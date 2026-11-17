@@ -552,6 +552,16 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
+### y2v2 p.12–15 — Hasebe tries to calm Yukimura
+[says] (p.12) "Can you calm down a little? It hasn't even been 5 minutes since Kiyopon left."
+[says] (p.12) "I'm calm… don't worry." — Yukimura's reply; Hasebe isn't convinced
+[says] (p.13) "It's only been 6 minutes, huh… I don't think he'll come back yet."
+[trivia] (p.12–15) Sits with Sakura and Miyake around the restless Yukimura, knowing he doesn't normally shake his leg; decides there's no point calming him and stays to distract him; marvels that Ayanokōji alone got a perfect score — not explainable by cramming or luck.
+[trait] (p.12–15) Gentle and intuitive — reads Yukimura's agitation, notes the beautiful May sky and how the mood has darkened, and chooses to stay with him rather than leave him alone.
+[rel:yukimura-teruhiko] (p.12–15) Tries to calm him; stays with him to distract him.
+[rel:ayanokouji-kiyotaka] (p.13–15) Wondering how incredible the perfect-score feat is.
+[rel:sakura-airi] (p.12) Sits with her and Miyake.
+[rel:miyake-akito] (p.12, 22) Sits with the group; later leaves for archery club.
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

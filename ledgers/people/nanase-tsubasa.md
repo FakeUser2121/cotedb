@@ -295,6 +295,14 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
+### y2v2 p.336–337 — Tsukishiro reveals Nanase as the enforcer
+[scene] (p.336) Stands with Tsukishiro as buses arrive, responding without emotion to his question about the late July heat; pressed to finally expel Ayanokōji.
+[narrates] (p.336) "Yes, you are right." — her emotionless reply
+[narrates] (p.336) "You're saying I should— expel Ayanokouji Kiyotaka?"
+[narrates] (p.337) "—Yes. I won't hesitate anymore."
+[trait] (p.336–337) The White Room enforcer whose left hand clenches as if brimming with natural power when Tsukishiro names her — after his urging she resolves to stop hesitating and act in the island exam; Tsukishiro calls her "Nanase Tsubasa-san."
+[rel:tsukishiro] (p.336–337) Her handler; pressures her to expel Ayanokōji before his tenure ends and promises they'll return to their "previous life."
+[rel:ayanokouji-kiyotaka] (p.336–337) Her target; she agrees to act without hesitation.
 ## y2v3
 
 <!-- walk: y2v3 → start -->

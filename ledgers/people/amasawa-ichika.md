@@ -152,6 +152,31 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
+### y2v2 p.100–107 — Amasawa's visit: the condom "gift" and her hints
+[scene] (p.100) Visits Ayanokōji's room (where he and Karuizawa were studying), teasing them about an illicit sexual relationship, then places a contraceptive on the table as a supposed gift and apology.
+[says] (p.100) "I thought you would have an illicit sexual relationship for sure… I mean having sex."
+[says] (p.101) "Take this as a gift from me… No, take it as an apology."
+[says] (p.101) "Quit playing dumb, the wound on your hand, I had a part in that right? Because I teamed up with Housen."
+[says] (p.102) "I'm not Ayanokouji-senpai's enemy."
+[says] (p.103) "Ayanokouji-senpai, haven't you told your girlfriend about that? Then what about the 20 million point bounty?"
+[says] (p.104) "Because senpai suddenly had a bounty for his head, and I thought that it was a pity that you would be expelled without even knowing the situation."
+[says] (p.105) "Go make a cup of coffee for Amasawa." — Ayanokōji; she piles on requests
+[says] (p.105) "Don't put garbage or sewage into my coffee because you don't like me."
+[says] (p.106) "Let's see, hmmm? What was the convention adopted at the General Conference of the United Nations Educational, Scientific and Cultural Organization in 1972?" — she correctly writes "World Heritage Convention"
+[trait] (p.100–107) Playful, shameless and razor-sharp — probes the couple mercilessly, openly admits her role in the knife plot, claims she isn't his enemy, and reveals she left a deliberate "trace" (her instant choice of the knife at the store) so Ayanokōji could defend himself; answers a college-level question with ease and has Karuizawa make her coffee purely to tease her, then leaves without drinking it.
+[rel:ayanokouji-kiyotaka] (p.100–107) Admits helping Hōsen, claims not to be his enemy, and leaves clues that raise Ayanokōji's vigilance that she could be the White Room student.
+[rel:karuizawa-kei] (p.100–107) Teases her mercilessly about the relationship, has her make coffee (with milk and sugar), and writes in her notebook; Karuizawa shows undisguised disgust.
+
+### y2v2 p.345–347 — Short story: "What is Reflected in Her Eyes" — staking out Karuizawa
+[scene] (p.345) From her own POV, spends two weeks watching Karuizawa, then stalks her from the dorm to Ayanokōji's floor, changes into cute clothes, buys ingredients and a "small amorous box," and tails another resident through the auto-lock.
+[narrates] (p.345) "Will he think I'm cute?"
+[narrates] (p.346) "Hmm, perfect!"
+[narrates] (p.347) "Se~npai."
+[narrates] (p.347) "It's me!"
+[trait] (p.345–347) Obsessive, playful and calculating — delights in the "hardship" of the stakeout, carefully plans her outfit and props, aims at Ayanokōji's few weaknesses to get invited in, and anticipates all his ways of rejecting her ("two arrows, three arrows").
+[rel:ayanokouji-kiyotaka] (p.345–347) Obsessed with him — wants him to find her cute and to be invited into his room.
+[rel:karuizawa-kei] (p.345–346) Stalks her for two weeks to confirm the secret "date."
+[rel:nomura-shuuji] (p.346) Follows him through the dorm auto-lock to reach room 401.
 ## y2v3
 
 <!-- walk: y2v3 → start -->

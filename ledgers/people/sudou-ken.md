@@ -1708,6 +1708,17 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
+### y2v2 p.19–22 — Sudō defends Ayanokōji against the cheating talk
+[says] (p.19) "You seem to be getting rather excited, but there isn't even a shred of evidence of Ayanokouji cheating, is there?"
+[says] (p.19) "Don't just jump to conclusions when the person in question isn't here."
+[says] (p.20) "That's not what I meant. But there is no way he was easily able to see the question paper, right?"
+[says] (p.20) "I just thought that it's more likely that he got that perfect score with his own abilities."
+[says] (p.20) "That just means he's different from last year. Anyone can grow."
+[trait] (p.19–22) Stands up (his 186cm frame gathering the class's attention) to reject the cheating speculation as unreasonable — surprising everyone, especially Ike; argues Ayanokōji more likely earned it and that people can improve; leaves quietly for club activities after Hirata's nudge, glancing at the silent Horikita.
+[rel:ayanokouji-kiyotaka] (p.19–20) Defends him against the class's suspicion.
+[rel:ike-kanji] (p.19–20) His longtime friend is displeased that he took Ayanokōji's side.
+[rel:miyamoto-soshi] (p.20) Miyamoto insists Ayanokōji's OAA was lower; Sudō notes his own rise above Miyamoto (54 vs 53).
+[rel:horikita-suzune] (p.22) Glances at her before leaving; she sat silent through the whole commotion.
 ## y2v3
 
 <!-- walk: y2v3 → start -->

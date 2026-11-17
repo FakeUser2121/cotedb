@@ -1126,6 +1126,13 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
+### y2v2 p.169–176 — Ike wants to group with Shinohara
+[says] (p.169) "uh, it's gotta do with that. Ya know, the groups for this new uninhabited island exam… Have you talked to anyone about grouping up yet?"
+[says] (p.170) "you're feeling troubled… uh, I can form a group with you, yeah?"
+[note] (p.169–176) Ike essentially wants a reason to group with Shinohara (he "just wanted a reason to group up with her"); Ayanokōji suggests he discuss it with her directly; Ike is shocked to learn Shinohara has already decided on a group.
+[trait] (p.169–176) Eager and lovestruck — wants to be Shinohara's group partner, tries to help Ayanokōji as a pretext, and is flustered when he learns she's already grouped.
+[rel:shinohara] (p.169–176) Wants to form a group with her.
+[rel:ayanokouji-kiyotaka] (p.169–176) Asks his advice about grouping.
 ## y2v3
 
 <!-- walk: y2v3 → start -->

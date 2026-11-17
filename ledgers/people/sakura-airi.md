@@ -1059,6 +1059,11 @@ aliases used for anchors: sakura, airi, sakura-san
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
+### y2v2 p.15 — Sakura's praise of Kiyotaka
+[says] (p.15) "S-so he solved such a question, Kiyotaka-kun sure is amazing!"
+[trait] (p.15) Tries to lighten the dreary mood with a sage smile and praise of Ayanokōji — but it has the opposite effect, tightening Yukimura's face.
+[rel:ayanokouji-kiyotaka] (p.15) Admires him; calls him "Kiyotaka-kun."
+[rel:yukimura-teruhiko] (p.15) Her well-meant comment irritates him.
 ## y2v3
 
 <!-- walk: y2v3 → start -->

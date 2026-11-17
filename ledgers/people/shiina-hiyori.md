@@ -486,6 +486,23 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
+### y2v2 p.157–166 — Hiyori supports Ishizaki's group plan
+[scene] (p.157) Approaches the group with a gentle smile "like a leader," having listened to Ishizaki's proposal.
+[note] (p.159–166) Hiyori supports Ishizaki's plan and listens with great interest, but also points out its problems (along with Ayanokōji), knowing forming a group with him won't be easy; she gently places a hand on his shoulder as he reluctantly agrees.
+[trait] (p.157–166) Gentle and socially skilled — acts as a calming, leader-like presence, backs Ishizaki while realistically acknowledging the difficulties, and helps soften the negotiation.
+[rel:ishizaki-daichi] (p.157–166) Supports his proposal, corrects its flaws, and comforts him when he's flustered.
+[rel:ayanokouji-kiyotaka] (p.159–166) Listens to his questions about the group plan; knew forming it wouldn't be easy.
+
+### y2v2 p.342–344 — Short story: "An excuse" — the forced invitation
+[scene] (p.342) Waits with Albert around a corner while Ishizaki invites Ayanokōji to form a group; from her own POV, reveals she cooperated only as an excuse to get close to him.
+[narrates] (p.342) "Good day, Ayanokouji-kun."
+[narrates] (p.343) "I have a really bad feeling about this so, can I leave now?" — Ayanokōji
+[narrates] (p.343) "I am sorry Ayanokouji-kun! But we can't let you leave!"
+[narrates] (p.344) "We are attracting to much attention here so let's move on Ishizaki-kun."
+[trait] (p.342–344) Clever and quietly infatuated — predicts Ishizaki's forceful invitation would be futile (he'd go solo or with Class D) yet helps anyway, holding Ayanokōji's arm with Albert so she can "meet Ayanokouji-kun" under the pretext of the group; looks forward to even a second longer beside him.
+[rel:ayanokouji-kiyotaka] (p.342–344) Her true reason for joining the invitation — she wanted an excuse to be close to him.
+[rel:ishizaki-daichi] (p.342–344) Helps his plan without advising him, using it as cover.
+[rel:yamada-albert] (p.342–344) Together with her, physically restrains Ayanokōji.
 ## y2v4
 
 <!-- walk: y2v4 → start -->
