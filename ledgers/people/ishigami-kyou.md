@@ -13,16 +13,25 @@ char_id: ishigami-kyou · class: unknown · status: unknown
 
 <!-- walk: y0 → start -->
 
-### y0 pp.10-265 — Full volume
-
-[scene] (p.10) Appears in this volume.
-
-
 <!-- walk: y0 Epilogue → p.265 -->
 
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
+### y0 p.225–233 — Ishigami defends Fuji and outwits Nogi
+[scene] (p.225) A sixth child who arrives late; defends the accused Fuji against Nogi's group.
+[narrates] (p.227) "Fuji isn't lying—that's what I think."
+[narrates] (p.227) "I'm not defending him for no reason. I just think it's true."
+[narrates] (p.229) "When you're going to hit someone, it's better to grab them by the collar first so they can't escape."
+[narrates] (p.229) "I'm not bragging, and I've never fought before. I'm sure you could beat me. However, I can run away."
+[narrates] (p.230) "Help me! Someone, please help!!"
+[narrates] (p.232) "I noticed early on that Fuji was calling for help, yet you just stood by and observed. I couldn't be sure you'd be on our side."
+[feat] (p.227–230) Reasons that Fuji has no motive to keep lying while surrounded, dismantles Nogi's claim that he was the first to receive an autograph, then goads Nogi into grabbing his collar and calls for help with the adults watching — provoking a scene that would humiliate the powerful father.
+[trait] (p.225–233) Exceptionally clever and calm — a cut above the other children; avoids conflict when only he is involved ("it's just a hassle to get angry at every low-level comment") but defends a friend; deliberately doesn't call on Atsuomi, whom he saw only observing.
+[rel:fuji] (p.227) Defends him against the bullying.
+[rel:nogi] (p.229–230) Outwits him in the confrontation.
+[rel:ishigami-gorou] (p.232) His father, president of the Ishigami Group; gently scolded for causing trouble.
+[rel:ayanokouji-kiyotaka] (p.232–233) Questions why Atsuomi didn't help; his father asks Atsuomi to take him into politics later.
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

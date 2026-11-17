@@ -1509,11 +1509,6 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y0 → start -->
 
-### y0 pp.10-265 — Full volume
-
-[scene] (p.10) Appears in this volume.
-
-
 <!-- walk: y0 Epilogue → p.265 -->
 
 ## y2v2

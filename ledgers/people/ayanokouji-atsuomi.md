@@ -273,6 +273,165 @@ char_id: ayanokouji-atsuomi · role: White Room director, Ayanokōji’s father 
 [trait] (p.78–84) Unfazed by a possible killer — feels anger rather than fear, reads Tsukishiro's strategy, and agrees to work with him while calmly disclosing his deprived childhood.
 [rel:tsukishiro] (p.76–84) Meets him; recognizes him as Naoe's observer/cleanup man and supporter, and decides to use him to recruit personnel.
 [rel:naoe-sensei] (p.79–82) Realizes Naoe had Tsukishiro watching/insuring the project from the start.
+
+### y0 p.96–100 — The drive to the facility; three years of the White Room
+[scene] (p.96) Dozes in the back seat of a car on rough mountain roads, heading to the White Room three years after the project began.
+[trivia] (p.96) The car has genuine leather seats, deep and soft, "far more luxurious" than his old used kei car.
+[trivia] (p.96) His dream recalls the used kei car he bought as a teen — over a hundred thousand kilometers on it, interior barely maintained, "a clunker," yet he felt like head of a household driving it.
+[trivia] (p.96) He made no friends or lovers then; time alone with the car was irreplaceable.
+[trivia] (p.96) The urban scenery gave way to rough roads surrounded by mountains; the driver warns it will be bumpy.
+[narrates] (p.96) "Three years had passed since Naoe-sensei entrusted me with the Human Resource Development Project."
+[trivia] (p.97) The project, officially named the White Room Project, began in secrecy; financiers grew daily and funds were in surplus; the White Room became a status symbol known only to those in the know.
+[trivia] (p.98) Illegitimate children placed by mistresses to erase them publicly exceeded 30% of the second batch of children.
+[trait] (p.96–100) He views the children overwhelmingly as experimental subjects, not charges; keeps distance from the political world and wears "both the masks of a politician and a financier."
+
+### y0 p.101–103 — Showing Sakayanagi the lab; the exam setup
+[scene] (p.101) Greets Sakayanagi at the guest room — he had been standing looking out the window rather than sitting on the sofa.
+[says] (p.101) "Sorry to keep you waiting."
+[says] (p.101) "It can't be helped. We can't make this public right now. There are countless people desperately searching for scandals involving me and Naoe-sensei."
+[says] (p.101) "You were the one who helped with the White Room project the most. I wanted to show it to you first."
+[says] (p.103) "No. For these three years, I've basically been hands-off. I've just continued to provide the necessary support for them without meddling in their plans."
+[trivia] (p.101) Sakayanagi is surprised by the security, which "doesn't seem to fit this place."
+[trait] (p.101–102) Finds meeting the agenda-free Sakayanagi a "relief rather than a pain"; notes he is "incorrigibly good" and could become an enemy if he learns the children's futures aren't guaranteed.
+[rel:sakayanagi-narimori] (p.101–111) Guides him through the facility and seeks his assessment; values his support but distrusts his idealism.
+
+### y0 p.104–108 — Watching the exam: the one-way mirror and the three groups
+[scene] (p.104) Stands with Sakayanagi watching the children take a comprehensive exam through the glass that "became a one-way mirror."
+[trivia] (p.104) The children each wear a researcher's nameplate and quietly take their seats.
+[trivia] (p.104) At "Begin!" all the children flip their papers over and take up pens; no one stands up.
+[trivia] (p.104) Three-year-old motor development noted: standing on one foot, walking on tiptoes, smoothly climbing stairs.
+[trivia] (p.105) The test is math — addition, subtraction, multiplication, division; problems elementary students would tackle.
+[trivia] (p.105) Suzukake's group doesn't move at all — the "first sense of discomfort"; real-time camera tracking shows some answer incorrectly but without panic, agitation or distress.
+[trivia] (p.106) Suzukake plays flashy music; Ishida's and Souya's children stop and look around, but Suzukake's students keep solving problems without excessive reaction.
+[trivia] (p.107) Physical tests follow: Ishida's children craft with small hands; Souya's use horizontal bars and jungle gyms; Suzukake's play the piano — "far from professional" but more than adults could do with a little practice.
+[feat] (p.104–108) Watches Suzukake's emotionless, fear-trained children outperform the other two groups in both academics and physical skill.
+[rel:suzukake-tanji] (p.105–109) His brutal "education" (punishment from newborns, fear until it "truly vanishes," eliminating emotions) wins; Atsuomi puts him in charge of the second generation.
+[rel:ishida-yuusuke] (p.105–108) His orthodox group shows natural human development but lesser results.
+[rel:souya] (p.105–108) His group shows natural development; horrified by Suzukake's corporal punishment yet impressed by results.
+
+### y0 p.109–113 — Sakayanagi's objection; the decision to sacrifice himself
+[scene] (p.109) Sakayanagi turns his back and leaves the lab, displeased with Suzukake's methods.
+[says] (p.111) "What's needed are exceptional abilities—a brain that can surpass Japan's top universities and win at the world's prestigious schools, physical abilities beyond Olympic athletes, and an indomitable spirit that doesn't flinch even against world leaders."
+[says] (p.111) "I understand what you're trying to say. Your opinion will sufficiently act as a reference."
+[says] (p.112) "Without sacrificing yourself, there was no true success."
+[inference] (p.112) Realizes his words carry no weight because the education is someone else's — he must personally enter the White Room as a subject to give the project persuasive power.
+[trait] (p.109–113) Pragmatic and relentless — dismisses Sakayanagi's idealism as naive, and resolves to sacrifice himself to make the White Room "change the world."
+[rel:mika] (p.113) Calls her in the evening with a favor — the first step of his plan.
+
+### y0 p.117–122 — Paying Mika; the naming of Kiyotaka
+[scene] (p.117) Meets Mika in a room with bundles of bills arranged on a white table — fifty million yen in cash, no trace.
+[trivia] (p.117) The fifty million is the amount after deducting all childbirth and hospitalization expenses; Mika is dressed in a suit she "probably wasn't used to wearing."
+[trivia] (p.118) A normal surrogacy would cost nearly half this at the high end — he pays more than double the market rate.
+[says] (p.117) "Money is heavy, but I can prepare as much as necessary to live. That's what the world's like on this side."
+[says] (p.118) "I hardly remember ever doing so. Well, maybe I'll pay them when I start a new job, so it's fine."
+[says] (p.118) "No matter what, you will never be recognized as the mother in the future."
+[says] (p.118) "That's none of your business. Once the contract is finalized, our connection ends."
+[says] (p.121) "You would do anything for money and yourself. That's the highest praise I can give you."
+[says] (p.122) "Names are just symbols. No matter who assigns them, a person's essence doesn't change."
+[says] (p.122) "That suggestion is very like you."
+[trivia] (p.121–122) Adds three million yen as a "celebration gift"/severance; hands her a pre-filled divorce form; eleven days since the birth, three days left before registration.
+[trivia] (p.122) Mika names the child "Kiyotaka" — after the host she is seeing. Atsuomi writes "Kiyotaka" in the register after she leaves.
+[trait] (p.117–123) Utterly cold and transactional — feels no attachment, offers his own child as a "cheap purchase" so long as he is useful for five years, and keeps Mika as legal mother only to protect credibility.
+[rel:mika] (p.117–123) Pays her for the surrogacy, severs all rights, and keeps her as a nominal wife; she names the child Kiyotaka.
+[rel:ayanokouji-kiyotaka] (p.122) His newborn son, named Kiyotaka by Mika; registered by Atsuomi and destined to enter the White Room as a fourth-generation subject.
+[rel:tsukishiro] (p.123) Waits in the next room; discusses disposing of Mika.
+
+### y0 p.124–129 — The Beta curriculum decision; 74 samples
+[scene] (p.124) On the day Kiyotaka arrives, gathers the researchers; Tabuchi (with dark circles under his eyes) projects the curriculum onto a large screen.
+[trivia] (p.124) Dropout rates: first generation 14% at age five; second 6% at age two (predicted >20% by five); third 6% at age one (predicted >25%). Ability increase between first and third generations: 11–37%.
+[trivia] (p.125) Dropouts' problem: extremely low social adaptability — 99% lived only in the White Room; first generation knows the outside only through fragmented materials/photos and can't imagine a cityscape; no real experience with vending machines, streetlights, shopping streets, convenience stores or supermarkets.
+[says] (p.126) "Adopt the Beta curriculum."
+[says] (p.126) "I said to adopt the Beta curriculum. Don't make me repeat myself."
+[says] (p.126) "I will provide the strictest education to my own child. It's an excellent opportunity."
+[says] (p.126) "Frankly, I wouldn't mind if it kills them."
+[says] (p.127) "I've mostly picked up those who are disposable."
+[says] (p.128) "We'll proceed as planned. Send them to the facility we prepared and let them fend for themselves."
+[says] (p.128) "Just follow the orders. If you defy my commands, I won't hesitate to cut you off, even if it's you."
+[inference] (p.127) Kept the list of wealthy-family children secret from researchers so they receive no special treatment; used the Ooba group and dark brokers to acquire "disposable" samples.
+[trait] (p.124–129) Relentlessly experimental — applies the "unreachable" Beta curriculum to his own son, assembles 74 samples (double the third generation), and crushes Tabuchi's objections.
+[rel:suzukake-tanji] (p.126–128) Orders him to adopt Beta; Suzukake regrets creating it but accepts.
+[rel:tabuchi] (p.124, 128–129) Presents the data; resists and is told to obey or be cut off.
+[rel:ishida-yuusuke] (p.127) Objects ("Is it really… all right?"); Atsuomi holds firm.
+
+### y0 p.129–130 — Sakayanagi's phone call: offering to take his child
+[scene] (p.129) Steps into the corridor to answer a call from Sakayanagi about the newborn.
+[says] (p.129) "I've been prepared ever since I decided to create this White Room. A person in charge of educating abandoned babies can't expect to have a proper family."
+[says] (p.130) "I see. I knew you would say that."
+[trait] (p.129–130) Dismisses Sakayanagi's concern that his son deserves parental love; notes Sakayanagi would raise his own unborn child with love and looks forward to it as one of his achievements.
+[rel:sakayanagi-narimori] (p.129–130) Calls about the birth; offers to take Atsuomi's child; intends to give his own unborn child all the love he can.
+
+### y0 p.199–207 — Naoe withdraws; the White Room scrapped
+[scene] (p.199) At the ryoutei in Sasagawa on a snowy January night, waits with Kamogawa to report the White Room's success to Naoe-sensei.
+[trivia] (p.199) Tokyo is struck by unusually heavy snow; the garden visible from the corridor window is lit up; the meeting is over ten years after they first waited in the cold for Naoe.
+[trivia] (p.199) Kamogawa's father died of a myocardial infarction around this time last year; delivering the White Room announcement had been Kamogawa's goal.
+[narrates] (p.200) "Just achieve results that reach the heavens. Don't be satisfied with just today, Kamogawa."
+[narrates] (p.201) "Sorry to keep you waiting." — Naoe, arriving only ~10 minutes late
+[narrates] (p.202) "I've decided to withdraw my candidacy for the next party leader election."
+[narrates] (p.203) "The calculations show that I'm short by twenty to thirty votes."
+[narrates] (p.205) "Yet, Kijima hasn't changed at all. He's taking politics seriously."
+[narrates] (p.206) "For Kijima, you've become an eyesore."
+[narrates] (p.206) "It's decided. It's a blank slate."
+[narrates] (p.207) "If Kijima acknowledges that you have no fangs, I'll put you forward again."
+[narrates] (p.207) "—Don't joke with me."
+[inference] (p.202–207) Naoe withdraws because he is 20–30 votes short and the opposition plus Kijima's clean record make running futile; he supports Kijima to keep his position, and scraps the White Room because Atsuomi's flashy financial/yakuza dealings have made him a liability.
+[trait] (p.207) For the first time loses composure — "Don't joke with me" — after over a decade of sacrificing everything for the project; resolves not to let it go to waste.
+[rel:naoe-sensei] (p.199–207) His mentor and patron abandons him and the White Room; Atsuomi is ordered to "lay low."
+[rel:kamogawa] (p.199–207) Shares the shock; Kamogawa's joy turns to despair at the "blank slate."
+
+### y0 p.219–223 — The funding party: President Amasawa
+[scene] (p.219) At a party, negotiates with President Amasawa, who wants his unborn child placed in the White Room.
+[narrates] (p.221) "We're already taking care of your daughter in the White Room, President Amasawa."
+[narrates] (p.221) "This year, I'll double last year's amount. I'll give one hundred million." — Amasawa
+[narrates] (p.222) "Unless there's a special reason, visits are basically impossible. You can only meet your children regularly after they become adults or leave the White Room."
+[narrates] (p.222) "As for the future, please do as you like, Ayanokouji-sensei. After all, that was a test-tube baby, and I don't really feel like she's my own child." — Amasawa
+[trivia] (p.221–223) Amasawa's wife wants to give birth in Japan (she is a "Hawaii enthusiast") and suspects cheating; he treats the White Room as convenient daycare, offers ¥100 million, never visits his daughter, and hums happily.
+[trait] (p.219–223) Maintains control of tone with a billionaire, ensuring he isn't offended; sees such children as profitable, no-danger additions.
+[rel:amasawa-president] (p.219–223) Negotiates financing; the president entrusts another child to the White Room.
+[rel:amasawa-ichika] (p.222–223) Amasawa's test-tube daughter, the second most developed fifth-generation student.
+
+### y0 p.232–240 — The children's dispute; Kanzaki and Ishigami; Sakayanagi's farewell
+[scene] (p.224) Watches a group of party children bullying one boy (Fuji) over a Kazuya autograph.
+[trivia] (p.224–230) Five boys; three surround Fuji, Nogi the leader, Ryuuji and Ishigami also present; the leader demands a vote; Ishigami defends Fuji, reasons the claim of being the first to receive an autograph can't be proven, and tricks Nogi into grabbing his collar before calling for help from adults — Atsuomi notes Ishigami deliberately didn't choose him because Atsuomi had only observed.
+[narrates] (p.232) "I noticed early on that Fuji was calling for help, yet you just stood by and observed. I couldn't be sure you'd be on our side." — Ishigami
+[narrates] (p.236) "If you don't have the power to help, you might as well just give up and run away. But if you do have the power and don't use it, then you're a fool."
+[narrates] (p.238) "Being associated with a man like me would pose many problems for you as the chairman of ANHS."
+[narrates] (p.239) "I have to solidify the White Room and send personnel capable of overhauling the country's organizational structure. Then, I plan to overturn that system from the ground up."
+[narrates] (p.240) "Good luck, Sakayanagi. Let's meet again someday."
+[trait] (p.232–240) Reads people sharply, gives Ryuuji a calculated "lecture" in front of his father to keep Kanzaki Engineering's investment, and lays out a 10–20 year plan to overturn Japan's seniority-bound political system from within.
+[rel:ishigami-kyou] (p.227–233) The clever son of the Ishigami Group president; Atsuomi is impressed by his calm and is asked (noncommittally) to take him into politics later.
+[rel:kanzaki-ryuuji] (p.234–237) Ryuuji, son of Kanzaki Tomohiro; Atsuomi lectures him about using one's power to help others.
+[rel:sakayanagi-narimori] (p.238–240) Becomes ANHS chairman and must distance himself from Atsuomi; they part on good terms.
+[rel:nogi] (p.225–230) Nogi Pharmaceuticals' son, the bullying leader.
+[rel:fuji] (p.224–230) The boy falsely accused of lying about the autograph.
+
+### y0 p.247–250 — Returning to Tokyo; preparing the comeback
+[scene] (p.247) Returns to Tokyo from Saitama as cherry blossoms bloom; goes to his long-unused office instead of his Meguro home.
+[narrates] (p.247) "You've grown old, Naoe."
+[trivia] (p.247) Naoe, the fixer in Kijima's shadow, is over eighty and was seriously ill — officially recovered but in reality his life hangs by a thread; his sabotage of the White Room is proof he means to eliminate Atsuomi before he dies.
+[narrates] (p.249) "It's frustrating that I can't bury him with my own hands, but having him buried by illness might be best." — Kamogawa
+[narrates] (p.249) "That's why we need to make sure the timing is right when we go for the kill."
+[trait] (p.247–249) Sees the White Room's freeze as a setback but readies a counterattack; notes Kijima (in his sixties) could stay in power another ten or twenty years, making this "the last chance to strike."
+[rel:naoe-sensei] (p.247–249) His old mentor is now an enemy dying by inches; Atsuomi waits for his health to fail.
+[rel:kamogawa] (p.247–249) Meets him by the office; they discuss timing and Naoe's deteriorating health.
+
+### y0 p.249–256 — Moving the children; the plan for Kiyotaka
+[scene] (p.249) Arranges the children's temporary supervision at a purchased orphanage and waits for Kiyotaka to be brought from a counseling clinic.
+[narrates] (p.249) "As planned, the children are temporarily being supervised and managed at the orphanage we purchased." — Tabuchi
+[narrates] (p.249) "I have no intention of favoring him just because he's my son."
+[narrates] (p.250) "He's a monster. You shouldn't look at him with such a frivolous attitude." — Ishida
+[trivia] (p.250) Kiyotaka was sent to the clinic because a major funder's daughter desperately wanted to meet him — Atsuomi calls it a "shallow idea" that heals wounds in a counterproductive way; Ishida calls Kiyotaka a "monster," having watched him since birth.
+[trait] (p.249–250) Deliberately avoids favoritism toward his son in public, yet calls him the White Room's "greatest masterpiece" with the "qualifications."
+
+### y0 p.259–260 — The political plan; Tsukishiro enlisted
+[scene] (p.259) Left alone with Kamogawa after dropping Kiyotaka off, lays out his political ambitions.
+[narrates] (p.259) "It's the fact that the ultimate, perfected existence only exists in one person."
+[narrates] (p.259) "It's frustrating that there's an age limit in the political world; it's the first time I've felt this way."
+[narrates] (p.259) "The earliest Kiyotaka can become an elected official, after reaching adulthood, is at age twenty-five. By then, I'll be sixty-one."
+[narrates] (p.260) "I haven't decided yet."
+[narrates] (p.260) "If either I or Kiyotaka can dominate the political scene, we could significantly change Japan without having to discuss matters fifty or a hundred years into the future."
+[trait] (p.259–260) Weighing whether to make Kiyotaka a politician — the "ultimate, perfected existence" exists in only one person; notes the disadvantage of nepotism and his son's lack of emotions and worldly knowledge, and begins preparing to change the plan and develop Kiyotaka's individuality.
+[rel:tsukishiro] (p.260–261) Enlisted to handle background arrangements; agrees to cooperate when Atsuomi implements his plan.
+[rel:kamogawa] (p.259–260) Left in shock by the plan; kept close.
 ## y2v2
 
 <!-- walk: y2v2 → start -->

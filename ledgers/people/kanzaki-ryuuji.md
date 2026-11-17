@@ -529,13 +529,18 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 
 <!-- walk: y0 → start -->
 
-### y0 pp.10-265 — Full volume
-
-[scene] (p.10) Appears in this volume.
-
-
 <!-- walk: y0 Epilogue → p.265 -->
 
+### y0 p.225–237 — Ryuuji at the party: the autograph dispute and the lecture
+[scene] (p.225) Present among the children disputing whether Fuji received Kazuya's autograph.
+[narrates] (p.225) "It doesn't matter to me. Whichever is fine."
+[narrates] (p.225) "If I have to judge objectively, I think he's lying. It'd be better to apologize sooner."
+[trait] (p.225–237) Objective and pragmatic — judges Fuji is lying and urges apology given the numbers and physique against him; quiet and avert-his-gaze shy when introduced to Atsuomi.
+[rel:fuji] (p.225) Judges him to be lying.
+[rel:ishigami-kyou] (p.228) Calls him out as "exceptionally talented"; can't help snapping at him.
+[rel:kanzaki-tomohiro] (p.234) His father, president of Kanzaki Engineering, who dotes on him and touts his black-belt-level karate skill.
+[rel:ayanokouji-kiyotaka] (p.236–237) Is lectured by Atsuomi about using one's power to help others — a calculated move to keep his father's investment; moved, he bows happily.
+[note] (p.234) Atsuomi notices an inconsistency: the father claims Ryuuji is black-belt-level in karate, yet Ryuuji did little when Fuji was bullied.
 ## y2v2
 
 <!-- walk: y2v2 → start -->

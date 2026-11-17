@@ -6259,13 +6259,198 @@ walk: y1v1 → DONE
 
 <!-- walk: y0 → start -->
 
-### y0 pp.10-265 — Full volume
-
-[scene] (p.10) Appears in this volume.
-
-
 <!-- walk: y0 Epilogue → p.265 -->
 
+### y0 p.131 — First memory: the pure white ceiling
+[scene] (p.131) Recalls his very first memory in the White Room — staring at a pure white ceiling.
+[narrates] (p.131) "The first memory everyone shared was of 'white' spreading across the entirety of the surface."
+[narrates] (p.131) "As the name 'White Room' implied, this facility was based on the color white."
+[narrates] (p.131) "The ceiling was no exception."
+[narrates] (p.131) "In my first memory, I was staring at that pure white ceiling."
+[narrates] (p.131) "Before showing interest in my own fingertips, I just wondered what this white ceiling was."
+[narrates] (p.131) "Day after day, I just stared at the ceiling."
+[narrates] (p.131) "At first, I cried, crying out of loneliness. Eventually, I learned that no one would come to help."
+[trivia] (p.131) A newborn, unable to speak, accepted the environment as "the first lesson"; later he became aware of his fingers, sucking and licking them to pass empty time.
+[trivia] (p.131) "Inhuman adults" brought only the nutrition necessary to live; even when sick, treatment was unemotional and life returned to normal — no one panicked, worried or rejoiced.
+[trait] (p.131) Learned at an early stage that joy, anger, sorrow and pleasure were "practically useless" in the facility.
+
+### y0 p.132–137 — The gummy hand-game at age two; the third option
+[scene] (p.132) Recalls a one-on-one test at around age two — an instructor holds a tiny gummy in one hand.
+[narrates] (p.132) "If you can guess where the gummy is, you can eat it."
+[narrates] (p.132) "I'll keep giving you a chance to answer until you miss three times."
+[trivia] (p.132) A tiny gummy — a rare snack in the facility, with a sweetness he craved; the instructor's face was stern, almost expressionless, and so was the two-year-old Kiyotaka's, naturally.
+[trivia] (p.133) The first four rounds the gummy is in the right hand; the fifth the instructor crosses both arms behind his back, grip and position identical, gaze unchanged — a fifty-fifty choice; he touches the right, which is empty.
+[trivia] (p.134) Other children had a slightly higher right-hand bias with "no clear reason"; all instructors actually held the gummies in their left hands that round.
+[trivia] (p.134) He observes the other children's choices — an overwhelming number point left, but the answer is right — and infers the instructor's gummy is in the right; he points right and a green gummy appears.
+[trivia] (p.134) The hands won't open until everyone has answered ("You're the last one"); everyone guesses wrong, and most children hit three misses and lose their chance.
+[narrates] (p.135) "Why point behind?"
+[narrates] (p.135) "Gummy, it's not there."
+[trivia] (p.135) On his last chance he points behind (neither hand), reasoning the gummy might be hidden elsewhere; the instructor opens both hands — the gummy was in the right; the instructor eats it himself.
+[narrates] (p.136) "Behind."
+[trivia] (p.136) With a special extra chance, he again points behind; the gummy was in the left — "Too bad again. Are you frustrated?" He nods, frustrated not by wanting the gummy but by his thinking being off.
+[inference] (p.136) The adults whisper that he — unlike the other children — observed others' choices, conceived a third option, and didn't discard it even after it was disproved; they remark it is not the thought process of a two-year-old, and argue over whether he understands them.
+[trait] (p.132–137) Even at two, reasons by observation and inference rather than instinct — tracks others' behavior, considers hidden alternatives, and is driven by accuracy rather than reward.
+[note] (p.137) When the buzzer ends the test, the adults leave and not a single child cries — being left alone with no help was deeply ingrained by age two.
+
+### y0 p.138–139 — Names, no surnames; the written exam at four
+[scene] (p.138) Recalls being told to state his name — "Kiyotaka" — a symbol, an identifying sequence of letters.
+[narrates] (p.138) "Kiyotaka."
+[trivia] (p.138) White Room children were taught names to identify people, but not surnames when young — instructors used first names, a rule set to prevent future identification.
+[trivia] (p.138) By age four, new curriculums were implemented one after another; the written exam used hiragana, katakana, the alphabet, numbers and simple kanji, with pen-gripping fingers moving without hesitation.
+[trivia] (p.138–139) A certain score within a time limit was required or there was a penalty; elegant handwriting was mandatory — no extra points for good handwriting, but hurried or poor handwriting meant deductions.
+[trivia] (p.139) "No one in this facility asked whether the problems could be solved or not. The only answer was that everyone could do it"; those who couldn't were eliminated at age three.
+[number] (p.139) The fourth generation initially numbered seventy-four; those judged incapable at three had already dropped out. The written exam lasted thirty minutes but strong students finished in half to two-thirds the time.
+
+### y0 p.140–142 — Judo, randori, and Mikuru's collapse
+[scene] (p.140) Recalls the judo curriculum added in their fourth year — being slammed to the floor by instructors, breathing knocked out, forced to stand.
+[note] (p.140–141) The instructor shouts for them to get up, that he doesn't spare even children, and that no one will cry for them — the translation leaves these lines untagged, so no `[says]` row is claimed for them.
+[trivia] (p.140) Judo had been learned for four months, progressing to randori (one-on-one sparring); the children were always made to taste bitter defeat against instructors.
+[trivia] (p.140) Mikuru, pleading "I can't… stand anymore…!", clung to the instructor's leg, was shaken off, kicked away "spinning across the floor while scattering vomit around her," and lost consciousness; the instructor called her a "weakling" and had her removed.
+[trivia] (p.141) The instructors were "the kind who wouldn't hesitate to push women and children to the brink of death"; being thrown, breathing difficulty and sobbing pain were normal, and even thinking about them a waste of energy.
+[trivia] (p.142) After harsh lessons, they did randori with three other children at day's end; weak prey was hunted by the strong — a lesson learned. His record: 144 fights, 127 wins, 17 losses, currently a four-win streak.
+[rel:mikuru] (p.140–141) Witnesses her brutal breakdown and removal.
+[rel:shiro] (p.142) Faces him in randori — Shiro's record 135 wins, 9 losses, best at judo; waited and aimed for a counter this third fight.
+
+### y0 p.144–148 — Yuki, carrots, and the first smile
+[scene] (p.144) Recalls dinner at age five, when the children had never directly spoken to one another.
+[trivia] (p.144) The number of children had dropped to about fifty by age five; no one paid attention — "there was no room to care."
+[trivia] (p.144) The children never talked: no favoritism in food, no sense of comradeship; their presence was "no different from the surrounding scenery."
+[narrates:yuki] (p.144) "I don't like it…"
+[narrates:yuki] (p.145) "Kiyotaka, do you like it?"
+[narrates:shiro] (p.145) "I don't like them either."
+[trivia] (p.145) He analyzed carrots — beta-carotene → Vitamin A, cell aging, skin and mucous membranes, immunity — but had never considered liking or disliking them; concluded he didn't dislike them.
+[trivia] (p.145) Checked the surveillance camera; the instructors monitored meals and audio, and since there was no scolding, such conversation was apparently allowed, though never encouraged.
+[trivia] (p.146) Yuki walked three laps around the small room, then tripped before him; he caught her and noted "It's strange to trip over nothing," then considered accumulated fatigue and dismissed it.
+[trivia] (p.146–148) She made an expression he had never seen — the orbicularis oculi around the eyes and corrugator supercilii near the eyebrows — which she realized was a "smile," something humans have from birth as instinct, never taught in the White Room.
+[rel:yuki] (p.144–148) The girl who always sat in front of him; her carrot question and unlearned smile are his first encounters with spontaneous emotion.
+[rel:shiro] (p.145) Sits on his left and answers Yuki's question for him.
+
+### y0 p.149–150 — The daily schedule at age five
+[scene] (p.149) Recalls the strict daily routine in the latter half of their fifth year.
+[trivia] (p.149) 7:00 AM — an inorganic mechanical voice announces "Time to wake up," alarm exact to the second; staff remove the electrodes attached to them.
+[trivia] (p.149) Immediate health check — height and weight changes; then bathroom; urine tests once a month and a small blood draw; staff leave without greetings.
+[trivia] (p.149) Hydrate, thirty minutes of basic warmup training, record daily physical data such as grip strength, then training room with set quotas separated by gender — those who can't comply are barred from the room the next day.
+[trivia] (p.149) By 8:00 AM — breakfast, nutrition-focused, evolved into supplements and nutrition blocks; taste and preference irrelevant, eaten in the order served.
+[trivia] (p.150) Subjects: language arts, mathematics, economics, political science, with brief breaks until noon; similar lunch; studies at desks until 5:00 PM, then physical education; everything ends at 7:00 PM.
+[trivia] (p.150) After dinner, bath and physical exam at 9:00 PM — a thirty-minute "meeting" for children only, no educators, to reflect on the day; topics not freely chosen, adults intervene only for "unnecessary chatter," silence permitted, conversations overheard — part of the curriculum with no assigned quota.
+[trait] (p.149–150) Never spoke voluntarily in all this time; always just listened during the "meeting."
+
+### y0 p.152–157 — Deliberately scoring 80 to keep the ceiling low
+[scene] (p.152) Recalls the "thinning out" — as studies grew harder by two or three levels, children fell behind and were gradually removed.
+[trivia] (p.152) The special high-difficulty exam's difficulty was set to the top score — a perfect score raised the ceiling and forced low scorers to struggle more next time; a sub-perfect top score lowered it.
+[trivia] (p.153) Trivial calculation errors, careless oversights and excuses were unacceptable; children repeatedly checked papers even after finishing. He had already filled every answer and stared ahead, the questions and answers "etched word for word" in his mind.
+[trivia] (p.154) He intentionally held back to score eighty points; an adult representative summoned him to a small private room after glancing at his paper.
+[narrates] (p.154) "No."
+[narrates] (p.154) "I wasn't instructed not to."
+[narrates] (p.155) "In the first place, I've never once recognized the other children around me as comrades."
+[narrates] (p.155) "It was more time-efficient to leave it blank."
+[narrates] (p.155) "I won't make a mistake."
+[narrates] (p.155) "If I hadn't held back, the percentage of children dropping out would have been much higher than it is now."
+[narrates] (p.156) "No. Losing experience—that's how I thought of it."
+[narrates] (p.156) "I want to know what the weak can see and feel."
+[note] (p.154–156) The instructor's lines — calling his name, "it is foolish not to use the power you have," "leave the room," "why did you hold back," the accusation of camaraderie, and the warning that knowledge fades — are untagged in the corpus; no `[says]` row is claimed for them.
+[inference] (p.152–156) He held back not from camaraderie (which he denies) but to gain data on weaker children and because writing answers he already knew was inefficient — a reason the instructors had never considered.
+[trait] (p.156) Begins to dislike the instructor who lectures him; understands Yuki's aversion to carrots as a comparable irrational feeling.
+[rel:suzukake-tanji] (p.156) Suzukake argues for observing him — "if he does something we hadn't even considered, that's exactly what we hoped for."
+[rel:ishida-yuusuke] (p.156) Ishida is among the researchers who question his deliberate underperformance.
+[note] (p.157) Another boy, sobbing, keeps writing after the buzzer and is dragged out screaming that he doesn't want to drop out, scattering gastric fluid over his paper, neck and clothes — though no one could drop out on that exam. Most children just stare ahead.
+
+### y0 p.158–166 — The "Travel" virtual class and the odd instructor
+[scene] (p.158) Recalls the "Travel" class, introduced the year they turned six, run once or twice a month for half a day using a virtual console.
+[trivia] (p.158) The class taught about places like New York and Hawaii, previously known only from materials; used goggles and a virtual console, and doubled as observation/insight training.
+[note] (p.159–160) The instructor announces an "equipment malfunction" ending the virtual session, then a new instructor appears for one-on-one sessions with "ten seconds per turn" and a demonstration to observe — the translation leaves these lines untagged; no `[says]` row is claimed.
+[trait] (p.158–166) Notes the session's abrupt end and the unfamiliar one-on-one format as curriculum detail.
+
+### y0 p.167–168 — The conversation with Yuki about smiling
+[narrates:yuki] (p.167) "I don't know, but I feel like I can laugh again if I'm near you, Kiyotaka."
+[narrates] (p.167) "I can't understand that."
+[trivia] (p.167) Yuki says she can't laugh now, though she laughed before; Kiyotaka notes he himself doesn't know how to smile — "I hadn't learned the basics of emotions."
+[inference] (p.167–168) He speculates that laughter may require being near a specific person, noting instructors show anger and smiles toward others; concludes emotions are probably unnecessary since he wasn't taught them.
+
+### y0 p.172–176 — Arisu Sakayanagi observes the White Room
+[scene] (p.172) Arisu, held by her father, watches the White Room students through a one-way mirror in the observation room.
+[trivia] (p.172) Sakayanagi tells his daughter "these children might someday be responsible for Japan's future"; she presses her hands to the glass, staring for five then ten minutes without tiring.
+[narrates:sakayanagi-arisu] (p.172) "An experiment to artificially create geniuses. How could I not be interested?"
+[narrates:sakayanagi-arisu] (p.173) "From a humanitarian perspective, people are likely to criticize it from all sides."
+[narrates:sakayanagi-arisu] (p.175) "Ultimately, I think the children who stand out just have excellent DNA."
+[narrates:sakayanagi-arisu] (p.175) "That child, he's been handling all the tasks calmly and effortlessly since earlier."
+[narrates:sakayanagi-narimori] (p.176) "He's spent his entire life in this facility since he was born. The first thing he saw wasn't his mother or father, but the facility's white ceiling."
+[narrates:sakayanagi-arisu] (p.176) "Do you dislike this facility, Father?"
+[narrates:sakayanagi-narimori] (p.176) "I'm not sure… I can't honestly support it."
+[narrates:sakayanagi-arisu] (p.176) "Rest assured. I will shatter it. I will prove that a genius is not determined by their education, but by the moment they're born."
+[narrates:sakayanagi-arisu] (p.176) "By the way, Father. I think I'll try to learn chess…"
+[inference] (p.175–176) Arisu notices Kiyotaka's unusual aura; Narimori pities him as the ideal subject, and Arisu concludes the survivors and dropouts exist for future children — a fight decided fifty or even a hundred years from now.
+[rel:sakayanagi-arisu] (p.172–176) A young girl with an adult-like perspective who resolves to "shatter" the White Room and takes up chess — the origin of her rivalry with Kiyotaka.
+[rel:sakayanagi-narimori] (p.172–176) Watches with his daughter; Atsuomi monitors their conversation via camera audio but concludes it was "an unnecessary concern."
+
+### y0 p.178–185 — Yuki fails and leaves
+[scene] (p.178) Waits as papers are graded; Yuki's small back trembles in the front row.
+[narrates] (p.184) "Please wait."
+[narrates] (p.184) "Yuki seemed unwell since before noon. She was restless during the test, and perhaps she couldn't demonstrate her abilities due to reasons other than her capabilities—"
+[trivia] (p.184) He speaks without permission and is kicked by the instructor; the adults notice bleeding — the onset of menstruation, unusual this early (normally age nine at the earliest), likely from stress; she also has a fever.
+[trivia] (p.184) The instructor orders her to the infirmary; as she leaves crying, she looks at Kiyotaka but he doesn't meet her gaze; from that day on, Yuki never returned.
+[trivia] (p.185) He provokes a rookie instructor into a wild swing that he dodges; another instructor stops the "rookie" — he wanted to test and either properly educate or dispose of the new instructor.
+[trait] (p.184–185) Detects Yuki's irregular condition through observation and challenges the instructor's authority deliberately — testing those who would use him.
+[rel:yuki] (p.178–185) Tries to argue for her; she leaves crying and never returns.
+
+### y0 p.186–191 — Shiro's farewell: wanting freedom
+[scene] (p.186) With only him and Shiro left, they begin a judo randori while the referee steps out.
+[narrates:shiro] (p.186) "Can I say something?"
+[narrates:shiro] (p.186) "It's been years since I last won against you in judo, hasn't it?"
+[narrates:shiro] (p.187) "I've decided to leave this facility."
+[narrates:shiro] (p.187) "That's why I'm going to drop out voluntarily."
+[narrates:shiro] (p.187) "I want to be free. I want friends."
+[narrates:shiro] (p.190) "I'll go ahead. Let's meet again someday, Kiyotaka."
+[narrates:shiro] (p.191) "In the end… I lost again, huh?"
+[narrates] (p.191) "Goodbye, Shiro."
+[narrates:shiro] (p.191) "Goodbye, Kiyotaka."
+[trivia] (p.186–190) Shiro, hurt in boxing, karate and Jeet Kune Do too, wants the real world rather than a virtual one; Kiyotaka cannot understand wanting freedom or friends. In the final match Kiyotaka resolves to out-exert him ("if the opponent exerted 140% effort, I would exert 150%") and slams him onto the tatami; they are watched from the second floor beyond the glass.
+[trait] (p.187–191) Cannot comprehend Shiro's desire for freedom or the outside world — he is not dissatisfied, and intellectual curiosity drives him to stay and keep learning.
+[rel:shiro] (p.186–191) His last real rival; their final randori and farewell — Shiro drops out soon after.
+
+### y0 p.192–196 — The baton fight against grown men; father revealed
+[scene] (p.192) At age nine, after defeating all the martial-arts instructors, he is ordered to fight multiple grown men in "actual combat."
+[narrates] (p.192) "Kiyotaka, from now on, you will fight multiple people in actual combat format."
+[narrates] (p.192) "And you don't need to hold back at all. You can go as far as killing."
+[narrates] (p.192) "I was ordered to kill."
+[narrates] (p.196) "You probably understand by now, but I am the head of the White Room, and I'm also your biological father."
+[narrates] (p.196) "I know."
+[narrates] (p.196) "When I was four. I remember hearing it while the instructors were talking."
+[narrates] (p.196) "You are special to me."
+[trivia] (p.193–194) Chooses a collapsing baton (~30 cm, extends to ~60 cm) for reach; shatters the last man's leg and aims a head blow to knock him out, stopped by "STOP!"; the men are carried out on stretchers.
+[trivia] (p.196) Atsuomi tells him alone that he is his biological father; Kiyotaka had known since age four — "a father—to me, that was nothing special."
+[rel:ayanokouji-atsuomi] (p.196) His biological father reveals himself; Kiyotaka is unmoved.
+[trait] (p.192–196) Follows the kill order literally and without emotion; treats the father reveal as "just a fact."
+
+### y0 p.197–198 — The researchers on his lack of emotion
+[narrates] (p.197) "That is both Kiyotaka's strength and a permanent weakness."
+[narrates] (p.197) "It's too late to instill emotions in the White Room now. If so, we have no choice but to significantly change his environment."
+[narrates] (p.198) "Kiyotaka is clearly an anomaly. This isn't just favoritism because he's your son."
+[trivia] (p.197–198) Ishida and Atsuomi discuss him in front of him — his pulse barely changes even in conversation or combat; he has "almost nothing" in the way of emotion, but can skillfully lie and disguise himself. Atsuomi orders them to investigate why he has no limits, paying them enough to pursue it.
+[trait] (p.198) He listens without reaction — praise or criticism doesn't matter; "everything comes down to whether you drop out."
+
+### y0 p.251–258 — The Yuki reunion; first day outside
+[scene] (p.251) At a counseling clinic, meets a man in his early forties holding a vase of sakura flowers — Kiyotaka's first time outside the White Room after fourteen years.
+[narrates] (p.251) "Who are you?"
+[narrates] (p.251) "Is that… sakura?"
+[narrates] (p.252) "Yuki, I'm Yuki!"
+[narrates] (p.252) "Why are you here?"
+[narrates] (p.252) "I've been there for fourteen years. Today is the first time I've come outside."
+[narrates] (p.253) "I have nothing to say."
+[narrates] (p.253) "It's better if you stop. Talking with me is impossible for you."
+[narrates] (p.254) "Then I refuse."
+[narrates] (p.254) "Nothing has changed since the time you've disappeared."
+[narrates] (p.256) "Goodbye. It's better if we never meet again."
+[narrates] (p.256) "Nothing."
+[narrates] (p.258) "Understood."
+[trivia] (p.251–252) The man is Yuki's father; she has grown weak, shut herself in, and could only be calmed by meeting a fellow fourth-generation student — sakura is her favorite flower. Her smile is "a bit awkward" but her emotions are rich.
+[trivia] (p.252–254) Yuki trembles and hyperventilates recalling the White Room; clings to his sleeve; her father blocks the exit and admits neither he, his wife nor his younger daughter can reach her.
+[trait] (p.251–258) Circumspect and cold — sees the meeting as "a meeting with the dead," declines to talk about the White Room, refuses the father's personal request ("It isn't, right? The White Room representative didn't give me any specific instructions"), and judges continued contact would only make Yuki suffer.
+[inference] (p.258) Tells his father "Nothing" about the outside scenery, deliberately letting him believe he feels no emotion — "it was just easier to let him think everything was under control"; in truth he is "constantly sharpening my fangs."
+[rel:yuki] (p.251–256) His former White Room classmate; refuses her desperate plea to talk, and leaves saying they should never meet again.
+[rel:ayanokouji-atsuomi] (p.256–258) His father; hides his true sharpening resolve from him.
+[rel:kamogawa] (p.256) Meets him in the car after leaving the clinic; doesn't respond to his greeting.
+[rel:ishida-yuusuke] (p.250) Ishida warns Kamogawa that Kiyotaka is a "monster."
 ## y2v2
 
 <!-- walk: y2v2 → start -->

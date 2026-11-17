@@ -10,16 +10,19 @@ char_id: yuki · class: unknown · status: unknown
 
 <!-- walk: y0 → start -->
 
-### y0 pp.10-265 — Full volume
-
-[scene] (p.10) Appears in this volume.
-
-
 <!-- walk: y0 Epilogue → p.265 -->
 
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
+### y0 p.144–148 — Yuki's carrot question and the first smile
+[scene] (p.144) Sits in front of Kiyotaka at dinner and, in a first, speaks to another child.
+[narrates] (p.144) "I don't like it…"
+[narrates] (p.145) "Kiyotaka, do you like it?"
+[narrates] (p.146) "Yeah. I'm not tired, but I somehow tripped. It's a bit strange, isn't it?"
+[trait] (p.144–148) The first child to initiate conversation and to display a spontaneous emotion — after tripping and being caught by Kiyotaka, she makes a "smile," an expression never taught in the White Room but instinctive to humans.
+[rel:ayanokouji-kiyotaka] (p.144–148) Sits in front of him; asks if he likes carrots and trips before him, prompting his analysis of her unfamiliar expression.
+[rel:shiro] (p.145) Her carrot question is answered by Shiro instead of Kiyotaka.
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
