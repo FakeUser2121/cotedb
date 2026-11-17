@@ -5262,3 +5262,39 @@ walk: y1v1 → DONE
 [rel:karuizawa-kei] (p.4–14) Speaks with her by phone on the last night of spring break.
 
 <!-- walk: y1v11.75 Section → p.18 -->
+
+## y2v1
+
+<!-- walk: y2v1 → start -->
+
+### y2v1 pp.7–11 — Prologue: Targeted by Tsukishiro
+
+[scene] (p.7) Tsukishiro reviews Ayanokōji’s White Room data and plans his expulsion before the end of April.
+[scene] (p.10) Tsukishiro calls him a monster and wonders how a fair fight between White Room students would turn out.
+[rel:tsukishiro] (p.7–11) Is targeted by him.
+[rel:nanase-tsubasa] (p.7–11) Is to be opposed by her.
+
+<!-- walk: y2v1 Prologue → p.11 -->
+
+### y2v1 pp.12–15 — Ch.1: School overview
+
+[scene] (p.15) States he is a Class D student with 275 class points at the start of his second year.
+[scene] (p.15) Notes Class A (Sakayanagi, 1119), Class B (Ichinose, 542), and Class C (Ryūen, 540) class point totals.
+[rel:sakayanagi-arisu] (p.15) Leads Class A with 1119 points.
+[rel:ichinose-honami] (p.15) Leads Class B with 542 points.
+[rel:ryuuen-kakeru] (p.15) Leads Class C with 540 points.
+
+### y2v1 pp.18, 20, 51–65 — Ch.2: New stage
+
+[scene] (p.18) Miyake warns him he neglected the group over spring break.
+[scene] (p.20) Reflects on Class D’s first year and 275 class points.
+[scene] (p.51) Agrees to the competition with Horikita over a written exam subject.
+[scene] (p.54) Agrees to help Horikita find partners.
+[scene] (p.61) Is told Horikita trusts him the most.
+[scene] (p.62) Agrees to attend Ichinose’s meet-and-greet.
+[rel:miyake-akito] (p.18) Receives his advice.
+[rel:horikita-suzune] (p.51–65) Discusses the exam with her.
+[rel:ichinose-honami] (p.61–62) Notes her meet-and-greet message.
+
+
+<!-- walk: y2v1 ch2 → p.65 -->

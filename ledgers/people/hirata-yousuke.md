@@ -1580,3 +1580,14 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [says] (p.307) “You’re just a shallow, incompetent student who boasts about things you can’t even do.”
 [rel:ayanokouji-kiyotaka] (p.295–308) Is confronted by him on the bench.
 [rel:wang-mei-yu] (p.283–285) Is followed by her.
+
+## y2v1
+
+<!-- walk: y2v1 → start -->
+
+### y2v1 pp.32 — Ch.2: OAA categories
+
+[scene] (p.32) Asks why Social Contribution has less weight on Overall Ability.
+[rel:chabashira-sae] (p.32) Questions her about the app.
+
+<!-- walk: y2v1 ch2 → p.65 -->

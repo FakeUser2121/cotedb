@@ -1064,3 +1064,21 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:ayanokouji-kiyotaka] (p.47–87) Present in the meeting involving his exam.
 
 <!-- walk: y1v11.5 ch1 → p.120 -->
+
+## y2v1
+
+<!-- walk: y2v1 → start -->
+
+### y2v1 pp.27–49 — Ch.2: OAA app and special exam
+
+[scene] (p.27) Tells the class to install the OAA app on their phones.
+[scene] (p.29) Explains the OAA ratings and shows Ayanokōji’s first-year scores.
+[scene] (p.32) Explains why Social Contribution has less weight on Overall Ability.
+[scene] (p.34) Announces the first special exam: second-years pair with first-years.
+[scene] (p.36) Explains the exam is an improved version of Paper Shuffle.
+[scene] (p.40) Explains partner-choosing rules and the 5% late penalty.
+[scene] (p.44) Says the exam is very difficult and shows estimated scores by rating.
+[scene] (p.47) Calms Ike and explains how to improve ratings.
+[rel:ayanokouji-kiyotaka] (p.27–49) Briefs him and the class.
+
+<!-- walk: y2v1 ch2 → p.65 -->

@@ -3128,3 +3128,20 @@ stamps preserved; y1v11 DONE stamp unchanged. Ledgers touched:
 `b62d2d58e58653f19323a801512a8084`. y1v10 and y1v11 redo enrichment now
 complete per plan; next would be owner-directed work (y2v1 etc.) or further
 review.
+
+### y2v1 Prologue + Ch.1 + Ch.2 — walked, shipped
+
+Prologue (pp.7–11): Tsukishiro briefs White Room student Nanase Tsubasa and
+plans Ayanokōji’s expulsion before end of April. Ch.1 (pp.12–15): school
+overview and class point totals. Ch.2 (pp.16–65): spring break ends, secondyear classroom, OAA app introduced (ratings + Overall Ability), first special
+exam announced (second/first-year partnering, 500-point baseline, 5% late
+penalty, expulsion risk), Horikita and Ayanokōji discuss partner strategy;
+Ichinose hosts a meet-and-greet. Ledgers touched: `ledgers/volumes/y2v1.md`,
+`ledgers/people/tsukishiro.md`, `ledgers/people/nanase-tsubasa.md`,
+`ledgers/people/ayanokouji-kiyotaka.md`, `ledgers/people/chabashira-sae.md`,
+`ledgers/people/horikita-suzune.md`, `ledgers/people/ike-kanji.md`,
+`ledgers/people/sudou-ken.md`, `ledgers/people/kushida-kikyou.md`,
+`ledgers/people/hirata-yousuke.md`, `ledgers/people/miyake-akito.md`,
+`ledgers/people/karuizawa-kei.md`. `verify --vol y2v1`: ALL PASS;
+`build`/`gate`/`make check` OK; hash stable
+`872eb01573a38ff441915291d1033211`. Next: y2v1 Ch.3 pp.66–141.

@@ -1512,3 +1512,17 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:horikita-suzune] (p.466) Thinks of him as an obstacle in her desire to remove Horikita.
 
 <!-- walk: y1v11 ch10 → p.476 -->
+
+## y2v1
+
+<!-- walk: y2v1 → start -->
+
+### y2v1 pp.21, 23–24 — Ch.2: Horikita’s haircut
+
+[scene] (p.21) Is surprised by Horikita’s short hair.
+[scene] (p.23) Says the haircut suits her but asks if something happened.
+[says] (p.23) “I think… so? Yeah. I think it really suits you, but… did something happen?”
+[scene] (p.24) Says she might grow her hair out.
+[rel:horikita-suzune] (p.21, 23–24) Reacts to her new look.
+
+<!-- walk: y2v1 ch2 → p.65 -->

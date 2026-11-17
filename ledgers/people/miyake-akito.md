@@ -426,3 +426,15 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [rel:ayanokouji-kiyotaka] (p.400) Helps Class C reach the final event through the archery win.
 
 <!-- walk: y1v11 ch10 → p.476 -->
+
+## y2v1
+
+<!-- walk: y2v1 → start -->
+
+### y2v1 pp.18 — Ch.2: Checking on Ayanokōji
+
+[scene] (p.18) Warns Ayanokōji he neglected the group over spring break.
+[says] (p.18) “I’ve been a little worried about you cuz you didn’t really hang out with the group all that much over spring break.”
+[rel:ayanokouji-kiyotaka] (p.18) Advises him.
+
+<!-- walk: y2v1 ch2 → p.65 -->

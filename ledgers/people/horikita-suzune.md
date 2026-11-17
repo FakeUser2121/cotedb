@@ -3378,3 +3378,26 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [scene] (p.3) In Ayanokōji’s reflections on the last night of spring break, the bet with Horikita is named among the issues awaiting him in the new year.
 [scene] (p.16) In Ichinose’s reflections, Horikita is named among the rival class leaders Ayanokōji faced during the first year.
 [rel:ayanokouji-kiyotaka] (p.3, 16) Is mentioned in his reflection and in Ichinose’s comparison of rival classes.
+
+## y2v1
+
+<!-- walk: y2v1 → start -->
+
+### y2v1 pp.21, 23–24, 50–65 — Ch.2: Short hair and partner planning
+
+[scene] (p.21) Surprises classmates with her short hair on the first day of second year.
+[says] (p.23) “If I had to say, I suppose I’d call it my way of showing my resolve.”
+[scene] (p.23) Explains she cut her hair to show her resolve to bring Class D to the top.
+[says] (p.24) “This year, as a second-year student, I’ll be fighting to bring Class D to the top.”
+[scene] (p.50) Calms Sudō and tells him to focus on studies.
+[scene] (p.51) Calls Ayanokōji to the hallway to discuss the exam.
+[scene] (p.53) Says Sudō is between a D and D+ in her book.
+[scene] (p.54) Says Sudō’s personality and appearance make pairing hard.
+[scene] (p.57) Prioritizes helping classmates with D/E ratings find partners.
+[scene] (p.58) Expects Sakayanagi, Ryūen, and Ichinose to make their first move today.
+[scene] (p.61) Says she trusts Ayanokōji the most among independent classmates.
+[says] (p.61) “I trust you the most out of our classmates who act independently.”
+[rel:ayanokouji-kiyotaka] (p.51–65) Discusses the exam with him.
+[rel:sudou-ken] (p.50, 53–54) Manages his situation.
+
+<!-- walk: y2v1 ch2 → p.65 -->

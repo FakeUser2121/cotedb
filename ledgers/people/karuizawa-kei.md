@@ -1323,3 +1323,14 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:ayanokouji-kiyotaka] (p.4–14) Speaks with him by phone on the last night of spring break.
 
 <!-- walk: y1v11.75 Section → p.18 -->
+
+## y2v1
+
+<!-- walk: y2v1 → start -->
+
+### y2v1 p.20 — Ch.2: Class D’s second year
+
+[scene] (p.20) Is the leading figure of the girls; Ayanokōji notes they are now dating.
+[rel:ayanokouji-kiyotaka] (p.20) Is his girlfriend.
+
+<!-- walk: y2v1 ch2 → p.65 -->

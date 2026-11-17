@@ -1025,3 +1025,17 @@ aliases used for anchors: ike, kanji, ike-kun
 [scene] (p.189) Invites Shinohara to hang out on Sunday.
 [says] (p.189) “...A-are you free on Sunday... or, something?”
 [rel:shinohara-satsuki] (p.189) Invites her out.
+
+## y2v1
+
+<!-- walk: y2v1 → start -->
+
+### y2v1 pp.27, 34, 47, 53–54 — Ch.2: OAA and partner worries
+
+[scene] (p.27) Asks Chabashira if there is a special exam.
+[scene] (p.34) Asks whether they still compete within their own school year.
+[scene] (p.47) Worries no first-year will want to pair with him.
+[scene] (p.53) Is told Sudō is between a D and D+.
+[rel:chabashira-sae] (p.27, 34, 47) Questions her about the exam.
+
+<!-- walk: y2v1 ch2 → p.65 -->

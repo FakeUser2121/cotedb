@@ -1397,3 +1397,21 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [scene] (p.346) Celebrates winning the basketball event.
 [says] (p.346) “[Hell yeah! I did it Suzune!]”
 [rel:kouenji-rokusuke] (p.344) Argues with him.
+
+## y2v1
+
+<!-- walk: y2v1 → start -->
+
+### y2v1 pp.21, 23, 31, 37–38, 50, 55–56 — Ch.2: OAA and basketball club
+
+[scene] (p.21) Shouts in surprise at Horikita’s short hair.
+[says] (p.21) “S-Suzune…? Wha… What’s up with your hair!?”
+[scene] (p.23) Is told Horikita cut her hair to show resolve.
+[scene] (p.31) Complains his Social Contribution rating is lower than Kōenji’s.
+[scene] (p.37) Has A+ Physical Ability but E+ Academic and Social Contribution.
+[scene] (p.50) Admits he has been harsh with first-year basketball recruits.
+[scene] (p.55) Is told to focus on studies instead.
+[rel:horikita-suzune] (p.21, 23, 50, 55) Interacts with her.
+[rel:kouenji-rokusuke] (p.31) Compares ratings with him.
+
+<!-- walk: y2v1 ch2 → p.65 -->

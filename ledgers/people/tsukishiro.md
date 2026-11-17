@@ -105,3 +105,20 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 
 [scene] (p.3) In Ayanokōji’s reflections on the last night of spring break, Tsukishiro is mentioned in connection with the possibility of a White Room first-year student entering the school.
 [rel:ayanokouji-kiyotaka] (p.3) Is considered by him as a concern for the coming term.
+
+## y2v1
+
+<!-- walk: y2v1 → start -->
+
+### y2v1 pp.7–11 — Prologue: Briefing the White Room student
+
+[scene] (p.7) In a Tokyo facility two months earlier, Tsukishiro briefs a White Room teenager on Ayanokōji Kiyotaka.
+[scene] (p.7) Orders that Ayanokōji be expelled and returned to the White Room before the end of April, without attracting public attention.
+[scene] (p.8) Shows data on Ayanokōji and the other 156 second-year students.
+[scene] (p.8) Fans the teenager’s rivalry by praising Ayanokōji as the White Room’s masterpiece.
+[scene] (p.9) Is slightly bothered by the teenager’s calm attitude as they leave.
+[scene] (p.10) Reviews Ayanokōji’s White Room data alone and reflects on the matchup.
+[rel:nanase-tsubasa] (p.7–11) Briefs her and sends her to the school.
+[rel:ayanokouji-kiyotaka] (p.7–11) Plans his expulsion.
+
+<!-- walk: y2v1 Prologue → p.11 -->
