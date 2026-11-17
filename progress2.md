@@ -3298,3 +3298,10 @@ Ayanokōji, Suzune, Manabu, Hiyori, Kei, Ichinose, Ryūen, Hashimoto, Kanzaki,
 Ishizaki, Ibuki, Ike, Shinohara, Matsushita; coverage gate run for all 48 roster
 characters with passing mentions recorded. verify ALL PASS; build/gate/check OK;
 hash stable 07d2540f276ab5918afa28b49e02b9e2.
+
+### y1v11.75 — depth review pass (gold standard)
+
+Both short stories given corpus-exact depth: Ayanokōji's first phone call with
+Kei and Ichinose's spring-vacation reflection (21 verified quotes across
+Ayanokōji, Kei and Ichinose). verify ALL PASS; build/gate/check OK; hash stable
+a33dc3ec85f7fe022e246f2b65654f92.

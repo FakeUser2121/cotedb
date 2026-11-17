@@ -1356,6 +1356,19 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y1v11.75 Section → p.18 -->
 
+### y1v11.75 SS — Depth review: the first call as a couple
+[scene] (p.4) Calls Ayanokōji at 10 PM on the last night of break — their first contact since the confession.
+[says] (p.5) "Yikes, that's blunt."
+[says] (p.5) "Eeeeh!?"
+[says] (p.5) "I-I'm fine! I just tumbled and fell from by bed. Ow ow…"
+[says] (p.6) "I thought that, if I asked you about your confession again, you would say that there never was a confession to begin with."
+[says] (p.9) "You didn't even hesitate a bit, did you! Why!"
+[says] (p.10) "B-but, we had so much fun, didn't we!"
+[says] (p.11) "Won't you fulfill this cute wish from your girlfriend?"
+[says] (p.12) "Yes. I also want to see you, Kiyotaka…"
+[trait] (p.5–12) Playful and impish but easily wounded — falls off her bed at his blunt greeting, curly about his unhesitant hang-up, yet relishes being called his girlfriend.
+[trait] (p.13) Decides to keep the relationship hidden at school for now.
+[rel:ayanokouji-kiyotaka] (p.4–13) First phone call as a couple; pulls him into a longer, teasing conversation.
 ## y2v1
 
 <!-- walk: y2v1 → start -->

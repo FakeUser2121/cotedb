@@ -1437,6 +1437,18 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y1v11.75 Section → p.18 -->
 
+### y1v11.75 SS — Depth review: spring vacation, renewed resolve
+[scene] (p.15) Meets Shiranami Chihiro and Amikura Mako at Keyaki Mall on the last day of spring break.
+[says] (p.15) "No, everything is fine. Sorry for that, even when you invited me so many times. I was thinking about strategies for the second year, you could say."
+[says] (p.15) "Yes, I'm relying on you all so if something happens, I'll definitely talk to you."
+[says] (p.16) "Oh, don't worry, really. I'm hundred percent fine! Spring vacation had me fully charged!"
+[says] (p.17) "Stop stop. Don't think any further…!"
+[says] (p.18) "Standing still is not an option."
+[trait] (p.16) Revealing her weakness in Ayanokōji's room lifted a weight and restored her will to fight Sakayanagi, Ryūen and Horikita.
+[trait] (p.17) Catches herself wishing they were in the same class, then stops — they are rivals now and must not let personal feelings interfere.
+[rel:ayanokouji-kiyotaka] (p.16–17) Feels she would not be where she is without him; a "treasured friend," but now a rival.
+[rel:shiranami-chihiro] (p.15–16) Reassures her worried friend.
+[rel:amikura-mako] (p.15–16) Reassures her worried friend.
 ## y2v1
 
 <!-- walk: y2v1 → start -->

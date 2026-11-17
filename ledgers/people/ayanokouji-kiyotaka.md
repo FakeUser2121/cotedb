@@ -5342,6 +5342,20 @@ walk: y1v1 → DONE
 
 <!-- walk: y1v11.75 Section → p.18 -->
 
+### y1v11.75 SS — Depth review: the first phone call with Kei
+[scene] (p.3) On the last night of spring break, reflects on the coming second year — the Horikita bet and the White Room first-year Tsukishiro mentioned.
+[says] (p.4) "Karuizawa Kei."
+[says] (p.5) "I was waiting for your call."
+[says] (p.5) "It's normal for a boyfriend to wait expectantly for a call from his lover, isn't it?"
+[says] (p.6) "Of course we are."
+[says] (p.8) "We should probably end this call soon."
+[says] (p.9) "Good night, Kei."
+[says] (p.12) "It's true I hanged up without hesitation. But, that wasn't because I thought lightly of you."
+[says] (p.12) "It's a bit sad to end the conversation, true. But that just means we can see each other tomorrow."
+[trait] (p.5–8) Deliberately practices being a boyfriend, clumsy but genuine — finds the trivial conversation novel and even fun.
+[trait] (p.13–14) Still holds the wish for a calm school life, but accepts that academic, sports and love currents will all rage — "that's the fun part of school life."
+[rel:karuizawa-kei] (p.4–13) Has their first call since the confession; learns to handle her feelings and agrees to keep the relationship secret at school.
+[rel:tsukishiro] (p.3) Notes the possibility that the White Room first-year has already enrolled.
 ## y2v1
 
 <!-- walk: y2v1 → start -->
