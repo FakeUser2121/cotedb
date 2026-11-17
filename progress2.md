@@ -3280,3 +3280,13 @@ Volume 2, Volume 12 (pp.12–228): unusual end-of-year special exam; one-on-one
 battles; Ichinose vs Sakayanagi; Ayanokōji's message via Ryūen. Ledgers touched:
 volume + 135 people. verify ALL PASS; build/gate/check OK; hash stable
 c36336d4930122ca663b6d8f825a1c88. Year 2 now complete.
+
+### y3v3 — depth review pass (sample)
+
+Added corpus-exact, page-anchored depth to y3v3: rich volume chapter beats,
+page-map, new facts, open threads, attribution gaps; depth sections for Ayanokōji,
+Hiyori (+ beach scene), Ryūen (+ beach scene), Ibuki, Hashimoto, Hirata,
+Shiraishi and Kōenji (28 verified quotes). Coverage gate caught Hiyori/Ryūen's
+pp.172–173 beach conversation, missed by the catch-up pass, now recorded.
+verify 28 [says] ALL PASS; build/gate/check OK; hash stable
+e5dcb795239b7ac22dab2165f02cae48.

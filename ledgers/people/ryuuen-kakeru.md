@@ -1785,9 +1785,29 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 [scene] (p.12) Appears in this volume.
 
+### y3v3 pp.89–250 — Depth review: the defeated rival
+[scene] (p.89) Orders his Class B to withdraw from the surprise attack on Class C after Kitō holds out longer than expected.
+[says] (p.237) "Sounds like you were pretty successful."
+[says] (p.241) "I just wanna know, is this really you surrendering?"
+[says] (p.248) "You... threw it...!?"
+[says] (p.250) "I've seen your process of using any environment to win."
+[feat] (p.89) Calls off the ambush on Class C when the reserve he expected to exploit does not materialise; Katsuragi and Ishizaki question the caution.
+[trait] (p.241) Obsessed with victory — chooses the 2-v-1 against Ayanokōji over the safer shot at a VIP because "settling things by running away on a rare occasion like this" is not fun.
+[limit] (p.248) Is beaten by a thrown paintball after burning his ammunition chasing Ayanokōji onto the beach.
+[status] (p.250) Concedes defeat and declares he will show no mercy in the truest sense from now on.
+[rel:ayanokouji-kiyotaka] (p.236–250) Fights him on the beach after Ayanokōji fed Class B the VIP names; loses and vows revenge.
+[rel:ibuki-mio] (p.236–240) Fights alongside her; she is eliminated first and protests bitterly.
+[rel:katsuragi-kouhei] (p.89) Discusses the withdrawal decision with him.
+
+### y3v3 pp.172–173 — Depth review: beach conversation with Hiyori
+[scene] (p.172) Rolling up his map, approaches Shiina on the beach and asks why she looks so pleased with herself.
+[says] (p.172) "Lookin' pretty happy all by yourself, Shiina."
+[says] (p.172) "There ain't nothin' to it."
+[says] (p.172) "Unfortunately, I'm not a fan of stories with depressin' beginnings."
+[trait] (p.172) Declares he will win the exam "with my own damn power," forcefully masking his own indecisiveness.
+[rel:shiina-hiyori] (p.172–173) Listens seriously to her novel-ending metaphor about being prepared for any outcome; accepts her reaffirmation of Class D's support.
 
 <!-- walk: y3v3 Epilogue → p.256 -->
-
 ## y2v2
 
 <!-- walk: y2v2 → start -->

@@ -748,9 +748,17 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 [scene] (p.12) Appears in this volume.
 
+### y3v3 pp.131–134 — Depth review: the unreachable lone wolf
+[scene] (p.131) Appears unseen and eliminates eight Class B guards around Morofuji in under thirty seconds.
+[says] (p.133) "You're the VIP, aren't you?"
+[says] (p.133) "There is nothing to it, is there? I am from Class A, you are from Class B. We're enemies."
+[says] (p.134) "For me, winning or losing this special exam is a matter of supreme indifference."
+[feat] (p.131) Single-handedly dismantles a Class B guard unit with precise, unseen fire; spares VIP Morofuji and lets her keep the supplies.
+[voice] (p.133) Courtly, theatrical and self-assured — "My, my..." and grand pronouncements about the "great wilderness."
+[trait] (p.134) Acts purely for his own amusement; true to his word that winning or losing is a matter of indifference to him.
+[rel:morofuji-rika] (p.131–134) Spares her with a warning dressed as kindness.
 
 <!-- walk: y3v3 Epilogue → p.256 -->
-
 ## y2v2
 
 <!-- walk: y2v2 → start -->

@@ -40,7 +40,18 @@ char_id: shiraishi-asuka · class: unknown · status: unknown
 [scene] (p.12) Appears in this volume.
 
 
-<!-- walk: y3v3 Epilogue → p.256 -->
 
 
 <!-- walk: y2v2 Epilogue → p.354 -->
+
+### y3v3 pp.117–232 — Depth review: Class C's recon commander
+[scene] (p.117) Speaks privately with Ayanokōji after the surprise attack, assuring him she trusts him completely.
+[says] (p.117) "At the very least, I trust you."
+[says] (p.117) "Then I'll make use of that trust without reservation."
+[says] (p.230) "Just as you said, Ayanokouji-kun, it's turned into quite a chaotic battle, hasn't it?"
+[role] (p.230) Acts as Class C's commander over the radio, relaying other classes' positions and directing the GPS-jammer tactics.
+[trait] (p.117) Shows respect and a willingness to tell a "gentle lie" for someone's own good, or speak plainly when it is not — Ayanokōji notes this diverges from his first impression of her.
+[trait] (p.117) Expresses no doubt about Ayanokōji's leadership even after the failed prediction, which unsettles him.
+[rel:ayanokouji-kiyotaka] (p.117–232) Places unconditional trust in him and serves as his reconnaissance lead.
+
+<!-- walk: y3v3 Epilogue → p.256 -->

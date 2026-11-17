@@ -5443,9 +5443,22 @@ walk: y1v1 → DONE
 
 [scene] (p.12) Appears in this volume.
 
+### y3v3 pp.14–251 — Depth review: survival game mastermind
+[scene] (p.14) Leads Class C onto the uninhabited island for the third straight year, under the Survival Game exam rules.
+[says] (p.241) "I surrender."
+[says] (p.248) "There's nothing in the rules against it."
+[says] (p.249) "I'll make it official here."
+[feat] (p.241) Runs out of ammunition against Ryuuen and Ibuki, eliminates Ibuki with a paintball to the thigh, then defeats Ryuuen by throwing a deliberately damaged paintball that bursts on impact.
+[tactic] (p.249) Allowed Class B's surprise attack on his own class so that cornered Class C would be forced to accept an alliance with Ichinose's Class D — then declares that alliance after Class A is eliminated.
+[tactic] (p.231) Identified Class A's three VIPs by attacking at night and watching the guards rush to protect Wang Mei-Yu, Satō Maya and Yukimura Teruhiko; passed the names to Class B.
+[status] (p.252) Class C places second; the alliance with Class D is now open.
+[rel:shiina-hiyori] (p.12–251) Is the object of Hiyori's unspoken confession; she resolves to defeat him in this exam.
+[rel:ryuuen-kakeru] (p.236–250) Fights him on the beach; Ryuuen concedes and vows no mercy from here on.
+[rel:ichinose-honami] (p.249) Declares the C–D alliance with her class.
+[rel:hashimoto-masayoshi] (p.117–229) Commands him in Class C; Hashimoto loses a duel to Hirata.
+[rel:shiraishi-asuka] (p.117–232) Uses her as recon commander over the radio.
 
 <!-- walk: y3v3 Epilogue → p.256 -->
-
 ## y0
 
 <!-- walk: y0 → start -->

@@ -349,9 +349,28 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 
 [scene] (p.12) Appears in this volume.
 
+### y3v3 pp.12–13, 233–251 — Depth review: the unspoken confession
+[scene] (p.12) Seaside monologue before the exam: Hiyori looks out at the ocean, alone.
+[says] (p.12) "I am sorry, Ryuuen-kun."
+[says] (p.12) "Please forgive me for being so pathetic."
+[voice] (p.12) Speaks in apologetic, self-effacing terms toward both Ryūen and Ayanokōji.
+[trait] (p.12) Keeps her feelings to herself — admits she never said "I like you" because they are now enemies.
+[status] (p.12) Resolves to defeat Ayanokōji so Class D can reach Class A; sees the exam as "a path to survival and a path to death at the same time."
+[rel:ayanokouji-kiyotaka] (p.12) Vows to inflict defeat on him while her feelings remain unchanged.
+[rel:ryuuen-kakeru] (p.12) Apologises to him for not being able to help the class.
+[note] (p.251) Her only direct lines in this volume are in the prologue monologue; later appearances (with Kaneda on the ship) are silent, recorded as a passing mention.
+
+### y3v3 pp.172–173 — Depth review: beach conversation with Ryūen
+[scene] (p.172) Walks the beach and is approached by Ryūen, who remarks on her being alone.
+[says] (p.172) "Since we're at the beach, I was taking a little walk."
+[says] (p.172) "Yes. We believe in your words, Ryuuen-kun and we will follow you, now and always."
+[says] (p.173) "That it's best to be mentally prepared for whatever might happen."
+[says] (p.173) "However, it's a wide world out there. There are many masterpieces that are sad from beginning to end."
+[trait] (p.172) Reads Ryūen's state of mind from his expression and answers with a cheerful smile.
+[rel:ryuuen-kakeru] (p.172–173) Reaffirms Class D's faith in his leadership; uses a novel-ending metaphor to warn him to be prepared for either victory or defeat.
+[note] (p.9) The page locator also hits the Table of Contents entry "Prologue: Shiina Hiyori's Monologue" — not a content page, no scene entry required.
 
 <!-- walk: y3v3 Epilogue → p.256 -->
-
 ## y0
 
 <!-- walk: y0 → start -->

@@ -495,9 +495,19 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 
 [scene] (p.12) Appears in this volume.
 
+### y3v3 pp.222–229 — Depth review: the duel lost
+[scene] (p.222) Faces Hirata in the forest after Class A's guard units are split up; outnumbered and without his VIP nearby.
+[says] (p.222) "Not bad, Hirata... You're way more skilled than I thought."
+[says] (p.223) "Never seen you with such a desperate look on your face before!"
+[says] (p.228) "That was some serious spirit, Hirata."
+[says] (p.229) "Guess I pushed the honor student a little too far—"
+[feat] (p.222–228) Fights a disciplined close-range duel, uses psychological taunts about Ayanokōji abandoning Hirata, and is eliminated by a slightly faster shot to the chest.
+[trait] (p.222) Frank and observant, admits respect for an opponent mid-fight; quick to read the killing intent in Hirata's aim.
+[limit] (p.228) Loses narrowly to Hirata; is left shaken when Hirata raises the gun again after the match is decided.
+[rel:hirata-yousuke] (p.222–229) Duel opponent; praises his spirit, then fears for his life when the trigger is squeezed partway.
+[rel:ayanokouji-kiyotaka] (p.223) Tries to rattle Hirata by invoking Ayanokōji's abandonment.
 
 <!-- walk: y3v3 Epilogue → p.256 -->
-
 ## y2v2
 
 <!-- walk: y2v2 → start -->

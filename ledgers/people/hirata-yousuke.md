@@ -1667,9 +1667,16 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 [scene] (p.12) Appears in this volume.
 
+### y3v3 pp.222–230 — Depth review: the honor student's restraint
+[scene] (p.222) Engages Hashimoto in a close-range paintball duel in the forest after Class A's GPS is jammed.
+[feat] (p.228) Eliminates Hashimoto with a slightly faster shot to the chest.
+[trait] (p.222) Fights with "naked killing intent, unbecoming of a mere honor student," driven by resentment over Ayanokōji's transfer.
+[status] (p.229) After the match is decided, raises the muzzle to Hashimoto's forehead and places a finger on the trigger — then stops and walks away without firing.
+[rel:hashimoto-masayoshi] (p.222–229) Duel opponent; nearly fires a follow-up shot at the already-eliminated Hashimoto.
+[rel:ayanokouji-kiyotaka] (p.223) Resents being "abandoned" by his transfer — the emotional core of his aggression in this volume.
+[note] (p.222–229) Hirata's internal state is shown only through Hashimoto's observations; the narration never enters his head, so no direct quote is attributed to him in this duel.
 
 <!-- walk: y3v3 Epilogue → p.256 -->
-
 ## y2v2
 
 <!-- walk: y2v2 → start -->
