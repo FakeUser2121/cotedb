@@ -3628,7 +3628,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y3v3 Epilogue → p.256 -->
 
-### y3v3 Ch.3 — depth read: Horikita's disbelief and invisible pressure
+### y3v3 p.86–118 — Ch.3 — depth read: Horikita's disbelief and invisible pressure
 [says] (p.96) "My honest impression is, 'Really? Is it possible?'"
 [says] (p.96) "Ayanokouji-kun is—how should I put it... He's not the type of person to be careless in this kind of fight."
 [says] (p.97) "I probably... just don't want to frankly acknowledge it. Acknowledge Ryuuen-kun, who managed to get the better of him."
@@ -3641,7 +3641,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:sudou-ken] (p.99) Comforts her and vows to crush any class in a straight fight.
 [rel:kouenji-rokusuke] (p.97–98) Expects him to retire at any moment; notes the large sum spent on his cooperation previously.
 
-### y3v3 Ch.7 — depth read: Horikita on the final day
+### y3v3 p.197–232 — Ch.7 — depth read: Horikita on the final day
 [scene] (p.197) Breaks down camp early, tense; the final day begins with four classes a stone's throw apart.
 [says] (p.199) "Fortunately, it was only the guards who were taken out."
 [says] (p.200) "That's not a bad idea... In fact, that's probably the correct answer. I was thinking the same thing." — on moving G8→E9
@@ -3653,6 +3653,72 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ayanokouji-kiyotaka] (p.198–203) Deeply unsettled by his raid; predicts he'll flee and refuses to send Sudō after him.
 [rel:sudou-ken] (p.198–203) Consults with him; holds him back from chasing Ayanokōji.
 [rel:hirata-yousuke] (p.199–201) Plans the final positioning and tactic timing with him.
+[rel:hondou-ryoutaro] (p.201) Stops him from illegally surrounding Ayanokōji.
+
+### y3v3 p.95–98 — Class A reacts: disbelief and "invisible pressure"
+[scene] (p.95) Leads Class A north toward G7 after the first event, refusing involvement at H9.
+[says] (p.96) "Me too. To use a tactic for an all-out attack right at the start... even if you thought of it, it would take considerable courage to execute."
+[says] (p.96) "My honest impression is, 'Really? Is it possible?'"
+[says] (p.96) "Ayanokouji-kun is—how should I put it... He's not the type of person to be careless in this kind of fight."
+[says] (p.97) "I probably... just don't want to frankly acknowledge it. Acknowledge Ryuuen-kun, who managed to get the better of him."
+[says] (p.97) "But let's gratefully accept the result. The situation is now slightly in our favor."
+[says] (p.98) "Even without Koenji-kun, our situation isn't bad."
+[says] (p.98) "Still, I wonder why I can't feel relieved in the slightest, even though Class C is in a jam."
+[says] (p.98) "Even though their numbers have been halved, I still can't help but feel this invisible pressure."
+[trait] (p.96–98) Refuses to accept that Ayanokōji could be defeated easily — a dangerous "faith" bordering on worship — yet moves north to gain distance from him.
+[rel:ayanokouji-kiyotaka] (p.96–98) Is unsettled by the "invisible pressure" he still exerts even half-destroyed; moves away to avoid any surprise attack.
+[rel:hirata-yousuke] (p.96–98) Discusses the exam and Ayanokōji's apparent defeat with him.
+[rel:sudou-ken] (p.95–99) Consults with him; accepts his offer to crush any class in a straight fight.
+[rel:kouenji-rokusuke] (p.97–98) Expects him to retire at any moment; notes the large point expenditure to secure his cooperation before.
+[note] (p.97) Horikita and Kōenji hold Protection Points, relevant to the expulsion penalty.
+
+### y3v3 p.185–186 — Class A reaches G8; the unease
+[scene] (p.185) Arrives at G8 around 5:25 p.m. after keeping the southern route open as an anti-ambush precaution.
+[says] (p.185) "I wonder what happened to the eight GPS signals that went to retrieve supplies at G9?"
+[says] (p.185) "In any case, we need to focus on ourselves rather than the other classes right now."
+[says] (p.186) "Good work, everyone—we can get some proper rest around here today."
+[says] (p.186) "It can't be helped. This is the best position if we're to prepare for tomorrow. Be careful as you work."
+[trait] (p.185–186) Vigilant about a possible GPS-shutdown attack and physically exhausted after three hungry days; keeps her class disciplined.
+[rel:sudou-ken] (p.185) Agrees with his assessment that Kōenji wasn't fighting for Class A.
+[rel:matsushita-chiaki] (p.185) The commander confirms the G9 group's movements via VIP Wang.
+
+### y3v3 p.186–189 — The private talk with Karuizawa
+[scene] (p.186) Spots Karuizawa after setting up her tent and pulls her aside for a private conversation.
+[says] (p.187) "There's something I want to ask you... but it's difficult to talk about here—"
+[says] (p.187) "It's about Class C and D. In the end, we've come to the evening of the third day without the GPS signals of either class decreasing significantly all day."
+[says] (p.188) "What's bothering me is when the two classes decided to team up."
+[says] (p.188) "Right after he left the class, he and Ichinose-san became close... well, 'close' might be the wrong word, but I've sensed that they've been closing the distance between them."
+[says:karuizawa-kei] (p.188) "Even though you're enemies now, do you like Ayanokouji-kun, Horikita-san?"
+[says] (p.188) "I-I already told you, I've never been in love with anyone, have I not?"
+[says] (p.189) "Of course not. He's a dependable classmate." — on Sudō
+[says] (p.189) "...She does...? No, I'm not that surprised, but... is that true?"
+[says] (p.189) "You mean... they're dating?"
+[trait] (p.187–189) Sharp on the alliance's hidden origins and flustered when Karuizawa turns the questions to her own feelings — her mind freezes where Ayanokōji is concerned.
+[rel:karuizawa-kei] (p.186–189) Confides in her as a friend; is caught off guard by the personal questions.
+[rel:ayanokouji-kiyotaka] (p.188–189) Pressed on whether she likes him; cannot answer clearly.
+[rel:ichinose-honami] (p.188–189) Learns from Karuizawa that Ichinose also likes Ayanokōji and that their bond may be deeper than it seems.
+[rel:sudou-ken] (p.189) Instantly rules out romantic feelings for him — which Karuizawa uses to expose her hesitation over Ayanokōji.
+
+### y3v3 p.190 — Gunfire near the tents
+[scene] (p.190) Hears paintball fire near the camp just before 6 p.m. and runs back with Karuizawa.
+[note] (p.190) The narration, in Horikita's viewpoint, registers the question of whether someone is shooting, then the certainty of it, and the decision to go back — the translation leaves the lines untagged, so no `[says]` row is claimed.
+[note] (p.190) Finds Ijuuin and Mori hit with paint — an apparently impossible attack given the distance and timing.
+
+### y3v3 p.197–203 — The final day: containing Ayanokōji legally
+[scene] (p.197) Breaks down camp early on the final day, the four classes a stone's throw apart.
+[narrates] (p.197) Remaining: A (3 VIPs + 27), B (3 VIPs + 24), C (2 VIPs + 12), D (3 VIPs + 35).
+[says] (p.199) "Let's try to look on the bright side. Fortunately, it was only the guards who were taken out."
+[says] (p.199) "Supplies are little more than a bonus at this point."
+[says] (p.200) "For my part, I think we should bite the bullet and move from G8 to E9."
+[says] (p.201) "Stop that, Hondou-kun. Forcibly surrounding him here won't solve anything."
+[says] (p.201) "We are to maintain a suitable distance and wait for 9:00 a.m."
+[says] (p.203) "Don't... I'm sure it's no use."
+[says] (p.203) "If he had resolved to fight us at nine o'clock sharp, we could defeat him. But I'm sure he won't fight."
+[tactic] (p.199–201) Saves her GPS shutdown tactic for defense, locks on to Ayanokōji's GPS, and leaves a meter-wide path so surrounding him isn't ruled "restraint."
+[trait] (p.198–203) Clear-headed and restrained under provocation — refuses to let the class break the rules, predicts Ayanokōji will flee rather than fight, and stops Sudō chasing.
+[rel:ayanokouji-kiyotaka] (p.198–203) Deeply unsettled by his raid; predicts he will try to escape and refuses to take the bait.
+[rel:sudou-ken] (p.198–203) Holds him back from chasing Ayanokōji.
+[rel:hirata-yousuke] (p.198–201) Plans the final positioning and tactic timing with him.
 [rel:hondou-ryoutaro] (p.201) Stops him from illegally surrounding Ayanokōji.
 ## y2v2
 

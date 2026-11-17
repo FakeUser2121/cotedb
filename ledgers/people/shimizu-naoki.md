@@ -29,6 +29,9 @@ char_id: shimizu-naoki · class: Class 1-A · status: minor
 
 <!-- walk: y3v3 Epilogue → p.256 -->
 
+### y3v3 p.64 — First to object to aiming for second
+[says] (p.64) "Second place? I mean, I wouldn't say it's a bad goal, but what's the deal with aiming for that right from the start?"
+[trait] (p.64) The first to voice dissatisfaction at aiming for second — an orthodox honors student who cannot hide his objection to the passive target.
 ## y2v6
 
 <!-- walk: y2v6 → start -->

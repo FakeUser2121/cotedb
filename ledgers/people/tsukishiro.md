@@ -173,6 +173,22 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 
 <!-- walk: y0 Epilogue → p.265 -->
 
+### y0 p.78–84 — Tsukishiro's meeting: observer, cleanup man, negotiator
+[scene] (p.79) Arrives at Atsuomi's office in a black BMW, having driven himself.
+[narrates] (p.79) "'I usually work alone. Besides, I don't like entrusting someone else to drive me. It's like putting your life in their hands.'"
+[narrates] (p.79) "'Yes. It's about the Human Resource Development Project, isn't it?'"
+[narrates] (p.80) "'Maybe so, or maybe not.'"
+[narrates] (p.80) "'Well done. You're half right, Ayanokouji-san.'"
+[narrates] (p.80) "'Yes. I have two roles. One of the roles is just as you've mentioned. The other is to assist the politician entrusted with the Human Resource Development Project.'"
+[narrates] (p.80) "'You ask very direct questions, Ayanokouji-san. And what if I said yes?'"
+[narrates] (p.82) "'That's the correct answer. You should think about things without letting your personal feelings get in the way.'"
+[narrates] (p.82) "'Don't worry. I know some capable individuals who will satisfy you, Ayanokouji-san.'"
+[narrates] (p.83) "'However, whether I introduce them to you is another matter. You understand, right?'"
+[narrates] (p.83) "'It's important.'"
+[trait] (p.79–84) Eerie, confident and transactional — never drops his faint smile, works alone, admits nothing about the journalist, and treats personnel introductions as a business deal.
+[rel:ayanokouji-kiyotaka] (p.78–84) Meets him as Naoe's observer/assistant; negotiates to supply personnel.
+[rel:naoe-sensei] (p.79–82) Works for him as a watcher and "strong supporter" (cleanup) on the project.
+[inference] (p.80–82) The journalist's body was left to be found intentionally, to chill those watching Naoe — Tsukishiro's handiwork is implied but never admitted.
 ## y2v2
 
 <!-- walk: y2v2 → start -->

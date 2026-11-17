@@ -48,6 +48,11 @@ section, and the local-LLM extraction experiment (rejected by the owner).
 
 1. **Never edit `docs/`.** It is generated: `python3 kb/cote.py build`.
 2. **Ledgers are append-only.** Never reword, reorder or delete an existing row.
+   **Exception (owner, 2026-11-18): editing and deletion are permitted when you
+   are fixing a mistake** — e.g. removing placeholder stubs, malformed
+   chapter-sized sections, or wrong rows you or a prior pass introduced. This is
+   repair, not polishing: the row being removed must be an error, not genuine
+   walk evidence. State in `progress2.md` exactly what was removed and why.
 3. **Never edit `gen/`, `kb/validate_site.py`, `kb/schema/`** unless
    the owner's task says so. This file may be edited when the owner's task
    or a standing instruction says so. If a check fails, fix the content. If
@@ -115,6 +120,17 @@ stories, last). `next` tells you where you are; do not trust a remembered list.
 Read in page order and never skip pages. Rhythm: **small steps. One change,
 verify, next.** Write ledger entries right after each read, before reading on.
 
+**"One chapter" is the work unit, NOT the ledger-section unit.** A chapter is
+read once, but it produces MANY ledger sections — one per scene, typically 2–4
+pages each. Never write one section per chapter, and never compress a 30-page
+chapter into a single section. §6 defines the section shape; check your headings
+against it before moving on.
+
+**Re-read this file at every chapter boundary and again before every ship.** In
+a long session these rules decay from context; the harness injecting them once
+is not enough. Record any standing reminder in `progress2.md`, which you read
+at the start of every task.
+
 Per chapter:
 1. `next`, then `read` the range with `--blank`. A chapter over about 30 pages is
    read in two halves with entries written between them.
@@ -139,7 +155,15 @@ Per volume: a coverage gate. Run the page locator (`kb/walk_locate.py locate`)
 for each roster character the volume names and compare its hit pages against
 the pages cited in the ledgers; every hit page gets an entry or an explicit
 `passing mention`. The locator only knows published spellings, so a page where
-the text misspells a name may not surface. Also check every topic whose
+the text misspells a name may not surface. **You must actually run the locator
+for every roster character with this volume in their `volumes` cell and record
+the result in `progress2.md` before you may write a "Coverage notes" claim,
+a `→ DONE` stamp, or a completion entry. Writing "hits cross-checked" or
+"topic membership spot-checked" without having run the check is a false claim,
+not a shortcut.** Note that the locator matches name forms as substrings, so
+short aliases produce false positives (e.g. `ike` matches "like", and both
+Horikitas match the shared `Horikita`); read the hit pages to triage them, do
+not assume every hit needs a new entry. Also check every topic whose
 pattern or membership list could match rows written this volume: hand-check
 each new hit against that topic's title and lede (rule 12); list noise for an
 owner-approved pattern or list change rather than shipping it silently. Then
@@ -172,6 +196,24 @@ aliases used for anchors: sakura, airi, sakura-san
 - One `## <vol>` block per volume, oldest first. One `### <vol> p.RANGE — <label>`
   section per scene, in page order. **The first row of every section is `[scene]`:
   one setup sentence.** That sentence is the card's setup line on the site.
+- **`p.RANGE` in the heading is mandatory and is not optional decoration.** The
+  site parser (`gen/model.py`, `SHEAD`) reads the page range from the heading
+  itself; a row's `(p.NN)` does NOT fill it in. A heading like
+  `### y3v3 Ch.1 — depth read: ...` missing `p.RANGE` produces a card with a
+  *blank* page range. Always write `### y3v3 p.14–45 — <label>`. `pp.X–Y` is fine
+  for a multi-page scene; a chapter number is never a substitute.
+- **Section = scene, not chapter, not volume.** Target 2–4 pages per section and
+  one section per distinct scene/beat. A single section spanning a whole chapter
+  (20+ pages) or a whole volume (`pp.14–251`) is wrong, even if every row inside
+  it carries a page. Compare your section count to the volume's scene density:
+  a 250-page volume should yield on the order of 150–200 sections, not ~50.
+
+**Self-check before shipping (do not skip):** for each volume you touched, run
+`grep -rh '^### <vol> ' ledgers/people/ | grep -vE '^### <vol> pp?\.'` — the
+output must be empty. Then check the count with
+`grep -rh '^### <vol> ' ledgers/people/ | wc -l` against the density above. Paste
+both results into `progress2.md`. A green build/gate/check does NOT prove the
+headings are well-formed; this grep does.
 - **Every row starts with its page, `(p.NN)`.** A row without a page does not go in.
 - Exactly one `<!-- walk: … chN → p.X -->` boundary stamp per chapter per file, at
   the end of that chapter's last section. `append --stamp` enforces it.
@@ -277,6 +319,19 @@ spelling already used in the file; if unsure, ask. Separate list cells with `;`.
 6. One change per commit; put the `make check` output in the message.
 7. Do not push if any step failed.
 
+**Steps 1–7 are not sufficient on their own.** They validate the built site
+(quotes, markers, links, wording, baseline) but do NOT check ledger heading
+shape, scene granularity, or whether the §5 coverage gate was run. Before every
+commit of walk work you must ALSO:
+
+8. Run the §6 heading self-check grep for every volume touched (output empty)
+   and the section-count sanity check; paste both into `progress2.md`.
+9. Run the §5 coverage gate for every roster character with the volume in their
+   `volumes` cell; record the uncovered hits and how each was resolved in the
+   volume's Coverage notes and in `progress2.md`.
+10. Only then write the `→ DONE` stamp and the completion entry. If 8 or 9 was
+    not actually performed, do not write a claim that it was.
+
 ## 11. Stop and ask when
 
 A check fails and you cannot fix it by editing content; the build names an unknown
@@ -329,3 +384,24 @@ These are mistakes made during the y1v9 walk. Do not repeat them.
 6. **Check the file's existing format before appending.** Look at the last
    3-5 sections of the file to understand the heading style, row format, and
    stamp placement. Match it exactly.
+
+7. **Do not turn "one chapter" into "one section."** This mistake shipped three
+   bad volumes (y3v1–v3). §5's "unit: one chapter" describes the work rhythm
+   (read once, touch all ledgers), NOT the ledger-section shape. Each chapter
+   must be broken into many scene sections with `### <vol> p.RANGE — label`
+   headings. A chapter-sized section with 3 quotes is a summary, not a scene,
+   and a bare `### y3v3 Ch.1 — depth read` heading produces a card with no page
+   range. Compare against y1v1's headings before you write.
+
+8. **Do not claim a check you did not run.** "Coverage notes: hits cross-checked"
+   and "topic membership spot-checked" are claims about work done. Writing them
+   without running the locator is the same failure as inventing a quote: the
+   record asserts something false. Run the §5 gate and paste its result into
+   `progress2.md` before you write the claim, the DONE stamp, or COMPLETE.
+
+9. **Repair is not polishing.** §3.2's exception lets you delete an erroneous
+   row (a stub, a malformed chapter-sized section, a quote from the wrong
+   volume), but not to "improve" genuine walk evidence. When you remove rows,
+   log in `progress2.md` exactly which sections you deleted and why they were
+   errors. A wrong row you catch before shipping is a fix; genuine history is
+   never rewritten to look tidier.

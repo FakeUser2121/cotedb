@@ -226,11 +226,20 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 
 <!-- walk: y3v3 Epilogue → p.256 -->
 
-### y3v3 Ch.5 — depth read: Shibata's interrupted greeting
+### y3v3 p.151–166 — Ch.5 — depth read: Shibata's interrupted greeting
 [says] (p.162) "H-Hey, Ayanokouji. Sorry to bother you before you eat, but you got a sec?"
 [says] (p.162) "Uh... how should I put it? We're allies now, right? So, I just wanted to say hi, or something..."
 [trait] (p.162) Nervous and eager to befriend Ayanokōji now that they're allies; cut off by Kanzaki before he can ask his question.
 [rel:ayanokouji-kiyotaka] (p.162) Tries to greet him at the campfire; flees when Kanzaki intervenes.
+
+### y3v3 p.162 — The interrupted greeting
+[scene] (p.162) Approaches Ayanokōji at the campfire as he cooks white rice.
+[says] (p.162) "H-Hey, Ayanokouji. Sorry to bother you before you eat, but you got a sec?"
+[says] (p.162) "Uh... how should I put it? We're allies now, right? So, I just wanted to say hi, or something..."
+[says] (p.163) "O-Oh, yeah, n-no problem at all. See ya later, Ayanokouji...!"
+[trait] (p.162–163) Nervous and eager to befriend Ayanokōji now they are allies; flees in embarrassment when Kanzaki interrupts before he can ask his question.
+[rel:ayanokouji-kiyotaka] (p.162) Tries to greet him; is cut off by Kanzaki.
+[rel:kanzaki-ryuuji] (p.163) Is dismissed by him so he can speak to Ayanokōji.
 ## y0
 
 <!-- walk: y0 → start -->

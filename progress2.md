@@ -3343,3 +3343,37 @@ remaining chapters pending. NOT YET SHIPPED as depth.
   - Ch.7 (pp.197–232, two halves) done: volume beats + Ayanokōji, Horikita, Sudō, Hirata, Hashimoto, Shiraishi, Satō; verified (186 says ALL PASS).
   - Epilogue (pp.233–252) done: volume beats already present; depth rows for Ayanokōji, Ryūen, Ibuki, Shiraishi, Yamamura, Kanzaki, Beppu, Hashimoto, Hiyori; verified (223 says ALL PASS).
   - y3v3 DEPTH REDO COMPLETE: all 9 sections read chapter by chapter, 223 verified quotes, 92 placeholder stubs removed. Epilogue depth rows added for 9 characters. verify/gate/check OK, hash stable 3a1de15fcba81419f7cb00a5bd55ba0c.
+
+---
+STANDING REMINDER (owner, 2026-11-18): re-read AGENTS.md at every chapter
+boundary and again before every ship. The harness injects it, but in a long
+session it decays from context and gets forgotten. Do not write a "Coverage
+notes" claim ("hits cross-checked", "topic membership spot-checked") until the
+page-locator gate in AGENTS.md §5 / §14.3 has actually been RUN and its result
+recorded. Claiming a check you did not run is the failure being fixed here.
+
+---
+### y3v3 Ch.1 SCENE-GRANULARITY SAMPLE (2026-11-18, owner asked to continue)
+  - Wrote 7 scene sections for Ayanokōji pp.14–35 with correct `### y3v3 p.RANGE — label` headings, `[scene]` first rows, full verbatim sweeps (7–15 rows each). This is the NEW format per the amended AGENTS.md §6 — compare against y1v1.
+  - verify y3v3: 256 [says] ALL PASS (quote fixed on p.33: "something like this").
+  - Self-check grep: 7 new well-formed headings; 48 OLD malformed chapter-sized headings remain (Q1 in session-owner-questions.md — need owner OK to remove, append-only rule).
+  - Section count y3v3 now 65 (was 58). Target ~150–200; Ch.1 sample adds 7. NOT COMPLETE — sample only, awaiting owner review of format before scaling.
+  - ORDER (owner 2026-11-18): after y3v3 is finished, do y0 FIRST — every line of y0 is the basis for every future incident. Then y3v2, y3v1, y2v1, y2v2–y2v12.5, y1v10, y1v11 partial, y0 done last-of-side-stories. Do not let a summary reorder this.
+  - y3v3 Ch.1 (pp.14–45) FULLY RE-WALKED at scene granularity: 20 new scene sections (Ayanokōji 10, Hashimoto 6, Morishita 3, Shiraishi/Sugio/Shimazaki/Tamiya). All `### y3v3 p.RANGE — label` format, [scene] first, verbatim sweeps. verify 324 says ALL PASS. Two untagged p.42 lines left unattributed per §7. Q1 (old malformed headings) still pending.
+  - y3v3 Ch.2 (pp.46–85) FULLY RE-WALKED at scene granularity: 17 scene sections across Ayanokōji (5), Hashimoto (4), Nishikawa, Takemoto, Shiraishi, Yoshida, Morishita, Kitou, Toba, Sanada, Shimizu, Motodoi, Matoba. verify 414 says ALL PASS. Fixed 3 quote issues (p.60 omitted middle sentence; p.50 non-corpus prefix; Morishita trait editorial quotes). Alliance debate + surprise attack covered.
+  - y3v3 Ch.3 (pp.86–118) FULLY RE-WALKED at scene granularity: 16 scene sections across Ayanokōji (5), Ryūen (2), Horikita, Sudō, Morishita, Matoba, Hashimoto, Sanada, Yamamura, Katsuragi. verify 473 says ALL PASS. Ryūen's aftermath, Horikita's "invisible pressure", Class C provisioning + I10 solo plan.
+  - y3v3 Ch.4 (pp.119–150) FULLY RE-WALKED at scene granularity: 10 scene sections across Ryūen, Kōenji, Kanzaki, Komiya, Ayanokōji (3). verify 508 says ALL PASS. Kōenji's unseen massacre of Class B's E9 group, Class D's shrinking-map dread, Ayanokōji's G11 offensive. Fixed 3 editorial-paraphrase quotes.
+  - y3v3 Ch.5 (pp.151–166) FULLY RE-WALKED at scene granularity: 7 sections across Ayanokōji (3), Kanzaki (2), Ichinose, Hashimoto (2), Shiraishi, Shibata, Kobashi. verify 562 says ALL PASS. Unarmed C–D negotiation, Ichinose's pre-briefing, merged camp, Kanzaki's motive talk. Fixed 1 page-break quote + 1 fabricated row removed before append.
+  - y3v3 Ch.6 (pp.167–196) FULLY RE-WALKED at scene granularity: 12 sections across Ryūen (2), Shiina, Ayanokōji (4), Kanzaki (2), Hashimoto (3), Horikita (3), Karuizawa, Ninomiya, Amikura. verify 644 says ALL PASS. Fixed speaker tags (Karuizawa's question, Amikura's fever line) and left 3 untagged p.190 lines as notes. Ninomiya now has both an old malformed section (Q1) and a new scene section.
+  - y3v3 Ch.7 (pp.197–232) RE-WALK at scene granularity: Ayanokōji (2 valid), Sudō (2), Horikita, Hirata (2), Hashimoto, Shiraishi, Satō. verify 693 says ALL PASS. IMPORTANT: caught and removed 3 quotes wrongly copied from y3v2 Ch.7 from memory (gym plan/Ichinose walk) — they don't exist in y3v3 corpus; logged in session-owner-questions.md. Ch.7 still haspp.204-216 + 228-232 gaps (ratios) to finish.
+  - y3v3 Ch.7 COMPLETE at scene granularity: added Katsuragi, Ibuki, Ishizaki, Sudō p.216. 713 says ALL PASS. Final-day battle covered across 13 characters.
+  - y3v3 Epilogue (pp.233–252) RE-WALK at scene granularity: Ayanokōji (3), Ryūen, Ibuki, Beppu. verify 753 says ALL PASS. Beach duel + damaged paintball + Ryūen's concession. Fixed 1 paraphrase quote before append.
+  - y3v3 scene-granularity re-walk now covers all 9 sections. Well-formed scene headings: see count below. Old malformed headings remain pending Q1 (owner OK needed to remove, append-only rule). NOT shipping until Q1 resolved.
+  - REPAIR (owner granted edit-to-fix-mistakes 2026-11-18, now AGENTS.md §3.2): fixed all 48 malformed y3v3 headings by adding page ranges (`### y3v3 Ch.N — depth read` → `### y3v3 p.X–Y — ...`). Kept every quote row — no evidence lost. Blank page ranges on y3v3 cards: 0. verify 753 says ALL PASS; gate/check OK; hash cf68eae183f789298c901c405053c558.
+  - Note: ~70 quotes in the old chapter-sized sections are not repeated in the new scene sections; kept rather than deleted (capture-everything priority). They now carry page ranges and render as valid cards.
+  - y0 Prologue (pp.10–16) re-walk: 4 scene sections for Atsuomi (origins, election/backroom rise, newborn/White Room, staged goodbye). Removed his Full-volume stub. temp verify 25 lines ALL PASS (see Q5 — official verifier can't check y0).
+  - y0 Ch.1 (pp.17–41) re-walk: 6 Atsuomi + 1 Kamogawa scene sections (waiting in cold, Naoe arrives, private room seiza, Kijima/project, sushi metaphor). temp verify 59 lines ALL PASS.
+  - STANDING (owner 2026-11-18): add every distinct named person to the roster (new row + ledger), don't fold distinct people into one ledger. After y0, continue as planned (y3v2, y3v1, y2v1, ...).
+  - TOOL FIX: kb/verify2.py + verify3.py (owner authorized) now recognize `y0` as a volume token and map it to the `COTE V0.txt` corpus key. Official `verify --vol y0` now works (125 non-says + 10 says ALL PASS). 
+  - REPAIR: removed Atsuomi's y0 Full-volume stub; added Narimori to roster.
+  - y0 CONTINUING (foundational, every detail matters): fixed verifier y0/v0 mismatch (kb/verify2.py+verify3.py, owner authorized). Added roster rows: sakayanagi-narimori, ooba (owner: add distinct people). y0 Prologue + Ch.1 + Ch.2 re-walked at scene granularity (Atsuomi, Kamogawa, Sakayanagi Narimori, Souya, Tsukishiro). Removed Atsuomi Full-volume stub. verify y0: 10 says + 125 non-says ALL PASS. gate/check OK. NOT COMPLETE — y0 Ch.3–Epilogue + fine physical detail still pending.

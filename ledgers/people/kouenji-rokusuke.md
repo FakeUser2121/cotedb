@@ -760,7 +760,7 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y3v3 Epilogue → p.256 -->
 
-### y3v3 Ch.4 — depth read: Kōenji's casual massacre
+### y3v3 p.119–150 — Ch.4 — depth read: Kōenji's casual massacre
 [scene] (p.131) Ambushes Class B's E9 supply group from the forest with unseen, precise shots.
 [says] (p.133) "You're the VIP, aren't you? If you were to fight back, you would simply be eliminated for nothing."
 [says] (p.133) "There is nothing to it, is there? I am from Class A, you are from Class B. We're enemies."
@@ -771,6 +771,21 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [trait] (p.133–134) Detached and theatrical — fights purely for amusement, indifferent to winning, yet his "kindness" (sparing Morofuji) doubles as a stern warning.
 [rel:morofuji-rika] (p.133–134) Spares her and lets her take the supplies.
 [rel:komiya-kyogo] (p.128–133) Is baited by his shouting, which reveals their position; takes him out first.
+
+### y3v3 p.128–134 — The unseen ambush on Class B's supply group
+[scene] (p.133) Appears walking with a confident stride after eliminating Class B's guards from unseen positions in the forest.
+[says] (p.133) "You're the VIP, aren't you? If you were to fight back, you would simply be eliminated for nothing."
+[says] (p.133) "There is nothing to it, is there? I am from Class A, you are from Class B. We're enemies."
+[says] (p.133) "My, my. I had no knowledge that I would stumble upon you. However, when one hears voices and gunshots so unsuited for this great wilderness, it is something one would understand whether one likes it or not."
+[says] (p.133) "I enjoyed the uninhabited island for a day and thinking I had my fill, was on my way back to the ship—but I thought I'd give this a try for the novelty of it."
+[says] (p.134) "Is that so? In that case, you may take the supplies and return with them to Class B."
+[says] (p.134) "For me, winning or losing this special exam is a matter of supreme indifference."
+[says] (p.134) "Very well. I shall take my leave now. I trust you will take care not to get in my way again."
+[feat] (p.130–133) Eliminates six of Class B's guards in under thirty seconds with unseen, precise shots, then appears and takes out the last two — all eight guards around VIP Morofuji down without ever being located.
+[trait] (p.133–134) Detached, theatrical and bored — fought purely for novelty, indifferent to winning, and let Morofuji keep the supplies; his "kindness" doubles as a stern warning.
+[inference] (p.133) He located the group by following Komiya's loud provoking shouts and gunfire, which were quite unsuited for the great wilderness.
+[rel:morofuji-rika] (p.133–134) Spares her and lets her take the supplies despite her aiming a dropped weapon at him.
+[rel:komiya-kyogo] (p.128–133) Komiya's bragging and shotgun blasts give away their position; Koenji takes him out first.
 ## y2v2
 
 <!-- walk: y2v2 → start -->

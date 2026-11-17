@@ -49,6 +49,10 @@ char_id: motodoi-chikako · status: minor
 
 <!-- walk: y3v3 Epilogue → p.256 -->
 
+### y3v3 p.67 — Objecting to the alliance
+[says] (p.67) "Let me say something, too. This talk about an alliance... do we have to decide right now? No matter how you look at it, this isn't the right time."
+[says] (p.67) "I'll admit, this special exam isn't exactly in our favor. But to throw away first place and aim for second just to get a better advantage... I can't accept that."
+[trait] (p.67) Articulate and principled — accepts Class C's disadvantage but refuses to throw away its own chance to win for an alliance.
 ## y2v12
 
 <!-- walk: y2v12 → start -->

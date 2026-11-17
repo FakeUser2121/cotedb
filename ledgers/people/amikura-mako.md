@@ -56,6 +56,10 @@ char_id: amikura-mako · class: Class 1-B · status: minor (allies)
 
 <!-- walk: y3v3 Epilogue → p.256 -->
 
+### y3v3 p.182 — Caring for the ill Ninomiya
+[says] (p.182) "She hasn't been feeling well since this morning... I think she's started running a fever."
+[trait] (p.182) Anxiously tends to Ninomiya, placing a hand on her forehead and reporting her condition to Ayanokōji and Kanzaki.
+[rel:ninomiya-yui] (p.182) Stays by her side as she falls ill.
 ## y2v2
 
 <!-- walk: y2v2 → start -->

@@ -1559,7 +1559,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y3v3 Epilogue → p.256 -->
 
-### y3v3 Ch.5 — depth read: Ichinose's faith from afar
+### y3v3 p.151–166 — Ch.5 — depth read: Ichinose's faith from afar
 [scene] (p.158) Watches the G11 battle on her tablet and, seeing Class C flee, prepares her class to receive them.
 [says] (p.159) "Ayanokouji-kun won't lose. No, I won't let him lose."
 [says] (p.159) "If we absorb Class C, we'll become the largest force."
@@ -1569,6 +1569,19 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:ayanokouji-kiyotaka] (p.158–159) Trusts him completely, attributes his "carelessness" to a deeper plan, and entrusts command to him.
 [rel:kobashi-yume] (p.158–159) VIP; relays her instructions to the class.
 [rel:kanzaki-ryuuji] (p.159) Sends instructions via Kobashi; Kanzaki wonders whether the alliance benefits Class D.
+
+### y3v3 p.158–159 — Watching the G11 battle; pre-briefing Class D
+[scene] (p.158) Watches the G11 battle on her tablet and sees Class C flee southeast.
+[says] (p.159) "That's not true."
+[says] (p.159) "Ayanokouji-kun won't lose. No, I won't let him lose."
+[says] (p.159) "If we absorb Class C, we'll become the largest force."
+[says] (p.159) "I need you to tell everyone in the class properly beforehand. Ayanokouji-kun will be making contact with Class D, so when he does, make sure we absolutely do not attack first."
+[says] (p.159) "—I understand, Ayanokouji-kun. I know what you're thinking."
+[trait] (p.158–159) Calmly confident in Ayanokōji despite his "uncharacteristic carelessness"; orchestrates Class D's reception of Class C and pre-empts any attack.
+[inference] (p.158) Reasons that absorbing Class C makes them the largest force, which neither Class A nor B can attack lightly, forcing them to fight each other.
+[rel:ayanokouji-kiyotaka] (p.158–159) Trusts him completely, attributes his blunders to a deeper plan and entrusts command to him.
+[rel:kobashi-yume] (p.158–159) VIP; relays her instructions to the class.
+[rel:kanzaki-ryuuji] (p.159) Sends word via Kobashi; answers his doubt about Class D's benefit.
 ## y2v2
 
 <!-- walk: y2v2 → start -->

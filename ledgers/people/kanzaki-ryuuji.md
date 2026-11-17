@@ -428,7 +428,7 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 
 <!-- walk: y3v3 Epilogue → p.256 -->
 
-### y3v3 Ch.4 — depth read: Kanzaki sees the shrinking map
+### y3v3 p.119–150 — Ch.4 — depth read: Kanzaki sees the shrinking map
 [scene] (p.126) Stares at the analyst's tablet as the 11:00 event's outer squares are marked as soon-to-be restricted.
 [says] (p.126) "It's too early to draw conclusions, but if the next event has a similar mechanic, the probability will be orders of magnitude higher."
 [says] (p.126) "There's no way to avoid a fight from here on—"
@@ -438,7 +438,7 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [rel:ichinose-honami] (p.127) Receives her message not to worry and not to push for O14.
 [rel:andou] (p.126) Class D's analyst operates the tablet he reads.
 
-### y3v3 Ch.5 — depth read: Kanzaki's armed scrutiny
+### y3v3 p.151–166 — Ch.5 — depth read: Kanzaki's armed scrutiny
 [scene] (p.155) Leads ten Class D guards in a wall, guns trained on Ayanokōji and Hashimoto as they approach unarmed.
 [says] (p.155) "I wonder about that. There's a possibility your allies are hiding nearby."
 [says] (p.155) "Just three people ain't gonna do nothin'."
@@ -451,7 +451,7 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [rel:ichinose-honami] (p.163) Fully loyal; reports that she entrusted command to Ayanokōji.
 [rel:ayanokouji-atsuomi] (p.164) Admires Ayanokōji's father, which colors his high opinion of Ayanokōji.
 
-### y3v3 Ch.6 — depth read: Kanzaki's report and debate
+### y3v3 p.167–196 — Ch.6 — depth read: Kanzaki's report and debate
 [says] (p.174) "I was just saying that we've reached a difficult phase. We've used most of our handheld provisions."
 [says] (p.174) "Also, Sumida and Minamikata have seemed somewhat unwell since this morning."
 [says] (p.178) "That's right. I want to avoid the risk of pushing ourselves unnecessarily, losing stamina, or getting injured."
@@ -462,7 +462,7 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [rel:hashimoto-masayoshi] (p.174–180) Debates positioning with him.
 [rel:moriyama] (p.174) Sends him to relay Ayanokōji's words to the unwell students.
 
-### y3v3 Epilogue — depth read: the guard who relays the map
+### y3v3 p.233–252 — Epilogue — depth read: the guard who relays the map
 [scene] (p.233) Spreads out a map for the breathless Yamamura and reports the surviving Class B members and their location.
 [says] (p.233) "The ones left in Class B are Ryuuen and Ibuki, as well as Yamashita and Yoshimoto. Their location is D11—"
 [says] (p.234) "I appreciate it, but doesn't this break the rules—?"
@@ -471,6 +471,60 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [trait] (p.233–234) Practical and rule-conscious — takes charge of the map and intel, and hesitates to accept Ayanokōji's spare magazines until he is assured his leader has enough.
 [rel:ayanokouji-kiyotaka] (p.234) Receives two spare magazines from him to protect the Class D VIPs.
 [rel:ichinose-honami] (p.233) Protects her class's VIPs, Beppu and Himeno, in the final stage.
+
+### y3v3 p.126 — Kanzaki sees the map shrinking
+[scene] (p.126) Stares at Andou's tablet as the 11 a.m. event marks the outer squares as soon-to-be-restricted.
+[says] (p.126) "It's too early to draw conclusions, but if the next event has a similar mechanic, the probability will be orders of magnitude higher."
+[says] (p.126) "There's no way to avoid a fight from here on out—"
+[says] (p.127) "If one or two more prohibited areas are created today by shrinking the perimeter, we should probably consider making a major move."
+[trait] (p.126–127) Sharp and analytical — immediately grasps that the map is shrinking inward each event and combat is unavoidable; worries about the detour and Class A's ambush risk in the north.
+[rel:ichinose-honami] (p.127) Is called back to the present when his name is repeatedly called; Ichinose's earlier message told him not to push for O14.
+[rel:andou-sayo] (p.126) Class D's analyst operates the tablet he reads.
+
+### y3v3 p.155–157 — The armed reception; lowering the guns
+[scene] (p.155) Leads ten Class D guards in a wall, guns trained on Ayanokōji and Hashimoto as they approach unarmed.
+[says] (p.155) "—Halt."
+[says] (p.155) "I wonder about that. There's a possibility your allies are hiding nearby."
+[says] (p.155) "If your commander is using tactics, that's not necessarily the case, as you should be well aware."
+[says] (p.156) "It seems you were caught in a surprise attack by Ryuuen and lost the morning battle as well."
+[says] (p.156) "If we defeat the two of you here, we can significantly lower our chances of coming in last. This is a golden opportunity."
+[says] (p.156) "An alliance... What if we trust you and are betrayed? That would be a crisis for our class."
+[says] (p.156) "You can bring your allies. As you wish, let's talk first."
+[says] (p.157) "Ichinose told us that Class C might make contact at some point. She also warned us not to make the first move until we were attacked."
+[feat] (p.155–157) Holds a disciplined armed line and probes their story about GPS jamming, then lowers his gun once Ayanokōji's reasoning and Ichinose's prior briefing align.
+[trait] (p.155–157) Stern and loyal to Ichinose but principled — no hostility once the logic is clear, willing to talk rather than fire.
+[rel:ayanokouji-kiyotaka] (p.155–157) Confronts him at gunpoint then accepts the alliance.
+[rel:ichinose-honami] (p.157) Acts on her instruction not to attack first.
+[rel:hashimoto-masayoshi] (p.155) Debates the GPS-jamming possibilities with him.
+
+### y3v3 p.162–166 — Serving duty; questioning Ayanokōji's motives
+[scene] (p.162) Interrupts Shibata's greeting to speak with Ayanokōji at the campfire.
+[says] (p.163) "I forgot to tell you something important. Regarding the chain of command from here on, Ichinose has said to entrust everything to you, Ayanokouji."
+[says] (p.163) "My satisfaction is irrelevant. Ichinose is the leader of Class D."
+[says] (p.163) "...There's something that I just can't seem to accept."
+[says] (p.163) "Why did you propose something as unprofitable as an alliance with Class D?"
+[says] (p.165) "You have the power to turn the tide of battle all by yourself."
+[says] (p.165) "I can't shake the feeling that they're still out of our reach... But I suppose Ichinose believes; believes that with you, we can aim for that."
+[trait] (p.162–166) Loyal, humble and still troubled — accepts Ichinose's command transfer without complaint but needs to understand why Ayanokōji helped; slowly won over.
+[rel:ayanokouji-kiyotaka] (p.162–166) Questions his motives, overestimates him based on two years of watching, and is urged to share Ichinose's confidence.
+[rel:shibata-sou] (p.162–163) Cuts off his conversation with Ayanokōji; Shibata flees.
+[rel:ayanokouji-atsuomi] (p.165) Admires Atsuomi (as his father did), which raises his opinion of Ayanokōji.
+
+### y3v3 p.174–178 — Reporting supplies and illness; debating expansion
+[scene] (p.174) Reports to Ayanokōji at the alliance base.
+[says] (p.174) "I was just saying that we've reached a difficult phase. We've used most of our handheld provisions."
+[says] (p.174) "Also, Sumida and Minamikata have seemed somewhat unwell since this morning."
+[says] (p.176) "There's a troublesome presence in Class A from the start. Needless to say, it's Koenji."
+[says] (p.177) "Then should we attack instead?"
+[says] (p.178) "That's right. I want to avoid the risk of pushing ourselves unnecessarily."
+[says] (p.180) "However, waiting right on the edge of the designated area has its own risks."
+[says] (p.180) "We can secure a better position if we move now."
+[trait] (p.174–180) Practical and cautious — reports the alliance's dwindling food and illness, reasons that Kōenji's unpredictability justified Ryūen not attacking Class A, and argues for the H10 position.
+[rel:ayanokouji-kiyotaka] (p.174–180) Receives his strategic instructions and carries them out.
+[rel:hashimoto-masayoshi] (p.180) Debates whether to move forward or wait.
+
+### y3v3 p.182 — Ninomiya's fever
+[note] (p.182) Kanzaki nods when Ayanokōji orders the ill Ninomiya to retire; Amikura stays anxiously by her side.
 ## y0
 
 <!-- walk: y0 → start -->

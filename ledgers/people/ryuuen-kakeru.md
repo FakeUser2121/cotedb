@@ -1846,7 +1846,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y3v3 Epilogue → p.256 -->
 
-### y3v3 Ch.3 — depth read: Ryūen's caution after the ambush
+### y3v3 p.86–118 — Ch.3 — depth read: Ryūen's caution after the ambush
 [scene] (p.86) Looks down at the shattered Class C students after the surprise attack.
 [says] (p.87) "Yeah. If things go well, that's eighteen people. Not bad."
 [says] (p.87) "It's probably better if Kondou doesn't catch up."
@@ -1860,7 +1860,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:katsuragi-kouhei] (p.87–90) Receives casualty reports and gives orders.
 [rel:ishizaki-daichi] (p.88) Holds him back from pursuing Class C.
 
-### y3v3 Ch.4 — depth read: Ryūen deliberates the next attack
+### y3v3 p.119–150 — Ch.4 — depth read: Ryūen deliberates the next attack
 [says] (p.120) "I've got him cornered... but how're you gonna move, Ayanokouji?"
 [says] (p.120) "There's always the option of crushin' that eyesore Class A first... but that'd just make the guys at the bottom happy."
 [says] (p.120) "The main target's always Class C."
@@ -1869,7 +1869,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:katsuragi-kouhei] (p.120–122) Debates strategy with him; accepts the advice to stay defensive for now.
 [rel:ayanokouji-kiyotaka] (p.120) Focuses on him as the main target.
 
-### y3v3 Ch.6 — depth read: Ryūen through Shiina
+### y3v3 p.167–196 — Ch.6 — depth read: Ryūen through Shiina
 [says] (p.172) "Lookin' pretty happy all by yourself, Shiina."
 [says] (p.172) "There ain't nothin' to it. I'm gonna win this special exam and I'm gonna do it with my own damn power."
 [says] (p.173) "So in the end, it means we don't know shit about what's comin', huh."
@@ -1881,7 +1881,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:katsuragi-kouhei] (p.167–170) Assesses the alliance and rejects allying with Class A.
 [rel:ibuki-mio] (p.167) Discusses the situation with her.
 
-### y3v3 Epilogue — depth read: the duel lost, defeat conceded
+### y3v3 p.233–252 — Epilogue — depth read: the duel lost, defeat conceded
 [scene] (p.236) Emerges from the trees with Ibuki and Yamashita to confront Ayanokōji in the shrinking center of E11.
 [says] (p.237) "Sounds like you were pretty successful. How many people did you take out?"
 [says] (p.237) "I don't like it, but it's thanks to the information you sent. A convergence of interests, I suppose?"
@@ -1899,6 +1899,88 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [trait] (p.241–242) Driven by obsession with a certain victory — refuses the safe all-or-nothing shot at a VIP and insists on beating Ayanokōji directly, even at the risk of his own defeat.
 [rel:ayanokouji-kiyotaka] (p.236–250) Fights him on the beach, concedes defeat, and vows no mercy from here on.
 [rel:ibuki-mio] (p.241) Says her preference was to gamble on an all-or-nothing shot at a VIP rather than challenge Ayanokōji.
+
+### y3v3 p.86–90 — After the ambush: calling off the pursuit
+[scene] (p.86) Looks down at the shattered Class C students; the surprise attack has taken 15 of theirs including Kitou and VIP Nishikawa.
+[says] (p.87) "Yeah. If things go well, that's eighteen people. Not bad."
+[says] (p.87) "It's probably better if Kondou doesn't catch up."
+[says] (p.87) "No—send ten people."
+[says] (p.88) "I almost forgot myself, but moving in a small group will just give them a hint."
+[says] (p.88) "—No, this is as far as we go."
+[says] (p.89) "He held out longer than I expected."
+[says] (p.89) "This ain't about our losses. The problem is we failed to take down the one guy we needed to."
+[says] (p.89) "But as long as the most troublesome bastard is still standing, I wouldn't be surprised if he managed to turn the tables on us even when we've got twice the strength."
+[says] (p.90) "Now that one of their VIPs is down, Ayanokouji has no choice but to go on the offensive, like it or not. So there's no need for us to jump the gun."
+[inference] (p.86) The ambush was conceived at once on reading the rules and drawing the adjacent start — strike Ayanokōji before he has time to think, the best counter to his superhuman intellect.
+[tactic] (p.87–88) Raises the search party from the minimum to ten so Identify Person cannot cheaply reveal VIP Yamashita — one in ten odds.
+[trait] (p.86–90) Ruthlessly rational — values the psychological proof that Ayanokōji is not infallible more than the casualties, and refuses to press an advantage that could become a trap.
+[rel:ayanokouji-kiyotaka] (p.86–90) Launched the ambush to defeat him before he could plan; calls off pursuit because he survived.
+[rel:katsuragi-kouhei] (p.87–90) Receives casualty reports and debate, ultimately agrees to send the ten-person party.
+[rel:ishizaki-daichi] (p.88–89) Rebuffs his eager demand to chase Class C.
+
+### y3v3 p.90 — The real prize: proof of an opening
+[trait] (p.90) What he gained was not just half of Class C but the certainty that even Ayanokōji has exploitable openings — a "great relief."
+[rel:katsuragi-kouhei] (p.90) Katsuragi notes that being cautious with Ayanokōji is itself a victory; Ryūen answers "Exactly."
+
+### y3v3 p.119–122 — Morning deliberation: whom to attack next
+[scene] (p.119) Wakes before 6 a.m. and studies the map, deciding whom to fight on day two.
+[says] (p.120) "I've got him cornered... but how're you gonna move, Ayanokouji?"
+[says] (p.120) "There's always the option of crushin' that eyesore Class A first... but that'd just make the guys at the bottom happy."
+[says] (p.120) "Well, the main target's always Class C."
+[says] (p.120) "Sure, maintainin' our numbers advantage ain't a bad thing. We're the ones holdin' the initiative here. But we already used our main tactic yesterday to get the first strike."
+[says] (p.121) "It's a strange thing. They should've been half-destroyed by that surprise attack, but lookin' at this map, I can't see Ayanokouji showin' any sign of weakness."
+[says] (p.121) "It's the fear of not being able to see your opponent's face. The stronger the enemy, the more one's imagination is stirred up."
+[inference] (p.119) Judges an all-out attack on Class C would win ~99% if the exam ended immediately, but would leave too few forces to beat A and D — rejects a war of attrition that benefits the bottom classes.
+[trait] (p.119–122) Obsessed with Ayanokōji and belligerent, but rational — recognizes the minuscule opening he found is hard to press and that time/hunger will force Class C's hand anyway.
+[rel:ayanokouji-kiyotaka] (p.120–121) Fixates on him as the main target even half-destroyed; cannot see any sign of weakness.
+[rel:katsuragi-kouhei] (p.120–122) Debates strategy with him; agrees ("Maybe so") to consider turning on Class A.
+
+### y3v3 p.167–170 — The C–D alliance sinks in; rejecting an alliance with Class A
+[scene] (p.167) Emerges from his tent after 9 p.m. to Katsuragi's report that Class C and D have intermingled.
+[says] (p.167) "So they teamed up, huh?"
+[says] (p.167) "It's the only way for the nearly-annihilated Class C to survive, I guess. Heard they were making some weird contact with Ichinose, too."
+[says] (p.167) "Man, I really wish he'd just charged into Class C and Class D instead."
+[says] (p.168) "Nah. The timing was just too damn perfect."
+[says] (p.169) "Obviously Class C's gonna compromise. No matter how you look at it, they're headed straight for last place on their own."
+[says] (p.169) "And would we, who are similarly at a numerical disadvantage, concede and give first place to Class A?"
+[says] (p.170) "Things are finally gettin' interesting."
+[inference] (p.168) Suspects Ayanokōji orchestrated the timing of Kōenji's clash with Komiya's group as a by-product of his own attack — the radio delay was too perfect.
+[trait] (p.167–170) Grudgingly impressed but boxed in — the lower-class alliance of fifty has seized the initiative and stripped him of his GPS-shutdown tactic.
+[rel:katsuragi-kouhei] (p.167–170) Debates the situation; both conclude the tables have turned.
+[rel:ibuki-mio] (p.167–168) Present at the late-night briefing.
+[rel:ishizaki-daichi] (p.167–169) Fields his suggestions (ally with Class A) and dismisses them.
+
+### y3v3 p.171–173 — The beach talk with Shiina; the cruel question
+[says] (p.171) "Don't like this one bit."
+[says] (p.171) "Heh, he ain't that naive."
+[says] (p.171) "What do I want to do... No, what do I want?"
+[says] (p.172) "Lookin' pretty happy all by yourself, Shiina."
+[says] (p.172) "There ain't nothin' to it. I'm gonna win this special exam and I'm gonna do it with my own damn power."
+[says] (p.172) "Unfortunately, I'm not a fan of stories with depressin' beginnings."
+[says] (p.173) "So in the end, it means we don't know shit about what's comin', huh."
+[says] (p.173) "But still—I'll force my way through with my own power. Whatever it takes to take down Ayanokouji."
+[says] (p.173) "And that's even if I force some kinda cruel choice on you down the line?"
+[trait] (p.171–173) Deliberates alone, refuses to be dictated to by Ayanokōji, and tests Shiina with a malicious "cruel choice" question — he wants a certain victory, not merely a safe one.
+[rel:shiina-hiyori] (p.171–173) Speaks with her on the beach; she pledges to follow him no matter what.
+[rel:ayanokouji-kiyotaka] (p.171–173) Vows to beat him with his own power; senses Ayanokōji anticipated both attacking options.
+
+### y3v3 p.237–248 — The beach duel and concession
+[scene] (p.237) Confronts Ayanokōji in the shrinking area with Ibuki and Yamashita.
+[says] (p.237) "Hah, we've been playing this exam seriously, all trial and error, but in the end, it's just a flashy shootout with no brains involved that wears everyone down."
+[says] (p.237) "I don't like it, but it's thanks to the information you sent. A convergence of interests, I suppose?"
+[says] (p.237) "Yeah. But I'd like to hand you a loss just as much. Time's running out. Let's settle this here and now and decide our ranks."
+[says] (p.241) "So even you can't dodge every bullet here, can you?"
+[says] (p.241) "Gotta take every precaution when I'm up against you, Ayanokouji, right?"
+[says] (p.241) "Nah. If it were just about winning, I'd have thought that was the better move, too."
+[says] (p.242) "I just wanna know, is this really you surrendering?"
+[says] (p.242) "Even if it means risking my own defeat."
+[says] (p.248) "You... threw it...!?"
+[says] (p.250) "In the end, that idiot Ibuki was the most right, huh."
+[says] (p.250) "I've seen your process of using any environment to win. In that case, from here on out, I'm not gonna show you any mercy in the truest sense."
+[feat] (p.237–248) Cornered Ayanokōji on the beach with overwhelming ammunition but lost to the thrown damaged paintball; accepts defeat with a declaration of future merciless rivalry.
+[trait] (p.241–242) Obsessed with a certain victory — refuses the safe VIP shot, insists on beating Ayanokōji directly, and demands to see how he can escape even at the risk of his own defeat.
+[rel:ayanokouji-kiyotaka] (p.236–250) Fights him on the beach; concedes and vows no mercy from here on.
+[rel:ibuki-mio] (p.241) Says she favored an all-or-nothing shot at a VIP over the 2-v-1.
 ## y2v2
 
 <!-- walk: y2v2 → start -->

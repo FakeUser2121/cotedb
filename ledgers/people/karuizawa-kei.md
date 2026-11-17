@@ -1489,6 +1489,22 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y3v3 Epilogue → p.256 -->
 
+### y3v3 p.186–189 — The private talk with Horikita
+[scene] (p.186) Is approached by Horikita after setting up camp; moves away to speak privately.
+[says] (p.187) "Hm? What's up, Horikita-san?"
+[says] (p.187) "Something you want to talk to me about? It's something you don't want overheard, right?"
+[says] (p.187) "Ask me anything. We're friends, aren't we?"
+[says] (p.187) "Yeah, there's no mistake about that. It's easy for losing classes to team up."
+[says] (p.188) "Yeah. Hirata-kun and the others said the same thing."
+[says] (p.188) "So you think the same."
+[says] (p.188) "Even though you're enemies now, do you like Ayanokouji-kun, Horikita-san?"
+[says] (p.189) "It's pretty important to me."
+[says] (p.189) "See? You answered instantly. And it was a similar question."
+[says] (p.189) "It's not just me and you who like Ayanokouji-kun, Horikita-san. Ichinose-san does too."
+[trait] (p.187–189) Warm and perceptive — confirms the alliance's obvious origins, then deftly turns the conversation to feelings, exposing Horikita's hesitation by contrast with her instant answer about Sudō.
+[rel:horikita-suzune] (p.186–189) Speaks privately as friends; presses her on her feelings for Ayanokōji.
+[rel:ayanokouji-kiyotaka] (p.188–189) Admits she likes him and reveals Ichinose does too.
+[rel:ichinose-honami] (p.189) Says their relationship is "close to" dating.
 ## y0
 
 <!-- walk: y0 → start -->

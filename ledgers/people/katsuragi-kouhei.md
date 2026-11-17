@@ -751,6 +751,23 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y3v3 Epilogue → p.256 -->
 
+### y3v3 p.87–90 — Katsuragi reports and debates the pursuit
+[scene] (p.87) Approaches Ryūen with the casualty report from the surprise attack.
+[says] (p.87) "I've finished confirming with Kaneda through the VIP. We have three casualties and they have fifteen."
+[says] (p.87) "Among those fifteen were our target, Kitou and the designated VIP, Nishikawa."
+[says] (p.87) "Then, may I send Yamashita to retrieve Komiya?"
+[says] (p.87) "Ten people? The risk of engagement seems low, but is this for insurance?"
+[says] (p.88) "That may be true, but... are you sure? This will interfere with our plans for later."
+[says] (p.90) "I can't say the thought that you're being overly cautious with Ayanokouji hasn't crossed my mind... but if we're speaking from a position of maximum vigilance, then perhaps pulling back here is the best move."
+[trait] (p.87–90) Methodical and principled — confirms casualties, proposes retrieving the stray VIP, and rationally accepts Ryūen's call to stop, recognizing the ambush itself was a victory.
+[rel:ryuuen-kakeru] (p.87–90) Relays reports and debates strategy; ultimately agrees with his decision to withdraw.
+
+### y3v3 p.210–212 — The final confrontation with Class A
+[scene] (p.210) Takes a half step forward to quietly inform his classmates Class A is only a few dozen meters away.
+[says] (p.210) "Class A is right in front of us. They're probably a few dozen meters away. Everyone, stay sharp."
+[says] (p.212) "They got behind us?! Fall back while returning fire! C and D are coming, hurry!"
+[trait] (p.210–212) Calm and commanding — gives quiet, precise orders and switches to shouting hand signals become useless once Class A gets behind them.
+[rel:ryuuen-kakeru] (p.210–212) Coordinates with him as Class B is caught between Class A and the alliance.
 ## y2v2
 
 <!-- walk: y2v2 → start -->

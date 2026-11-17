@@ -21,6 +21,14 @@ char_id: sanada-kousei · class: unknown · status: unknown
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
+### y3v3 p.53 — Sanada suggests using Identity Check
+[says] (p.53) "Wouldn't it be a good idea to have the commander use a tactic?"
+[trait] (p.53) Proposes spending a tactic to identify the student splitting off toward H9; Ayanokōji declines for now.
+
+### y3v3 p.103 — Sanada reads the final drop locations
+[says] (p.103) "Moreover, you could hardly say these are favorable areas for us, either."
+[says] (p.103) "Class B has no intention of letting us escape, so we'll definitely be competing there."
+[trait] (p.103) The analyst reads the nine final locations and judges that Class B will contest them; adjusts his glasses as he points them out.
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->

@@ -570,7 +570,7 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 
 <!-- walk: y3v3 Epilogue → p.256 -->
 
-### y3v3 Ch.1 — depth read: Hashimoto's read on the exam
+### y3v3 p.14–45 — Ch.1 — depth read: Hashimoto's read on the exam
 [says] (p.15) "Ah~, I'm sleepy. I should've gone to bed a little earlier yesterday."
 [says] (p.15) "But isn't this unbearable for students preparing for entrance exams? Being pulled away from their desks at this time of year."
 [says] (p.23) "An expulsion from the class whose three VIP's get taken out first, huh? Well, I figured they'd pull something like that."
@@ -578,7 +578,7 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [trait] (p.14–32) Sleepy and complaining about the timing, but reads the exam's expulsion mechanic quickly; favors a passive strategy of letting other classes fight.
 [rel:ayanokouji-kiyotaka] (p.14–32) Chats through the rules and strategy with him.
 
-### y3v3 Ch.2 — depth read: Hashimoto's reactions to the ambush
+### y3v3 p.46–85 — Ch.2 — depth read: Hashimoto's reactions to the ambush
 [says] (p.47) "Let's hear it."
 [says] (p.50) "If Ryuuen and his crew are heading for B10, that means they'll come out by the sea."
 [says] (p.58) "Ayanokouji Kiyotaka said as much, but when push comes to shove, Hashimoto Masayoshi is our only choice."
@@ -587,7 +587,7 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [rel:ayanokouji-kiyotaka] (p.46–73) Relays his instructions; notes his lack of fighting spirit.
 [rel:ryuuen-kakeru] (p.73) Admires the risky surprise attack.
 
-### y3v3 Ch.3 — depth read: Hashimoto rallies the gloomy class
+### y3v3 p.86–118 — Ch.3 — depth read: Hashimoto rallies the gloomy class
 [says] (p.101) "Ayanokouji Kiyotaka. You could just charge in by yourself and annihilate the enemy unit, you know?"
 [says] (p.110) "Man, everyone's lookin' so gloomy. Well, can't be helped, given our results so far."
 [says] (p.111) "Isn't there somethin' you can say as our leader?"
@@ -595,14 +595,14 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [trait] (p.101–113) Keeps the class's morale up after the disastrous start; cheerful, a natural straight man, and tells a funny middle-school bike story in the tent.
 [rel:ayanokouji-kiyotaka] (p.108–113) Admires his securing the I10 supplies alone and prods him to encourage the class.
 
-### y3v3 Ch.5 — depth read: Hashimoto's lingering doubt
+### y3v3 p.151–166 — Ch.5 — depth read: Hashimoto's lingering doubt
 [says] (p.151) "We're lucky Ayanokouji brought up the idea of an alliance."
 [says] (p.153) "You're sure this is gonna be okay, right?"
 [says] (p.154) "I'm going too and don't try to stop me, alright? If they start shootin' without askin' questions, I can be your shield."
 [trait] (p.151–154) Publicly champions the alliance to steady the class but privately doubts it; offers to shield Ayanokōji, showing genuine loyalty.
 [rel:ayanokouji-kiyotaka] (p.151–154) Persuades classmates, voices doubts, and offers to protect him in negotiations.
 
-### y3v3 Ch.6 — depth read: Hashimoto on the shrinking area
+### y3v3 p.167–196 — Ch.6 — depth read: Hashimoto on the shrinking area
 [says] (p.174) "But man, we're obviously runnin' low on supplies. We got nothin' but a bunch of starving folks over here, too."
 [says] (p.178) "They're really testing us... but J5 and K10? That's just asking too much."
 [says] (p.180) "We're inside the area and getting too close to the center is kinda sketchy."
@@ -610,7 +610,7 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [trait] (p.174–183) Worries about supplies and the shrinking area, and is concerned when Ayanokōji decides to go on the supply run himself.
 [rel:ayanokouji-kiyotaka] (p.174–183) Discusses strategy and tries to talk him out of the supply run.
 
-### y3v3 Ch.7 — depth read: Hashimoto's duel with Hirata
+### y3v3 p.197–232 — Ch.7 — depth read: Hashimoto's duel with Hirata
 [scene] (p.221) Is caught in the allied advance when Class A splits its forces; faces Hirata in a close-range firefight.
 [says] (p.222) "What's going on...?"
 [says] (p.222) "Take us out with a small group? Are they serious?"
@@ -623,11 +623,157 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [rel:ayanokouji-kiyotaka] (p.223–226) Uses his abandonment of Hirata as psychological ammunition.
 [rel:matoba-shinji] (p.221) Matoba is shot beside him; he flees.
 
-### y3v3 Epilogue — depth read: praise, then a bad feeling
+### y3v3 p.233–252 — Epilogue — depth read: praise, then a bad feeling
 [says] (p.252) "Man, don't you get a really bad feeling about this?"
 [trait] (p.251–252) Comes to praise Ayanokōji for the second-place finish, then — with Yoshida — senses the strange, solemn atmosphere of the results announcement before the new exam is revealed.
 [rel:ayanokouji-kiyotaka] (p.251) Congratulates him on the result and shares his unease.
 [rel:yoshida-kenta] (p.251) Celebrates second place with him at the disembarkation.
+
+### y3v3 p.14–16 — Sleepy on the crossing: grumbling about the exam
+[scene] (p.14) Rides the ship's café with Ayanokōji, stretching and yawning as the island comes into view.
+[says] (p.14) "Looks like we're finally arriving."
+[says] (p.15) "Ah~, I'm sleepy. I should've gone to bed a little earlier yesterday."
+[says] (p.15) "Well then... I wonder what kind of troublesome, no, pain-in-the-ass exam is waiting for us this year."
+[says] (p.15) "There's probably a reason they went out of their way to distribute new gym clothes to us, too."
+[says] (p.15) "But isn't this unbearable for students preparing for entrance exams? Being pulled away from their desks at this time of year. Have the third-years up until now never complained about this?"
+[says] (p.15) "So he's stuck studying even on the ship, huh?"
+[says] (p.15) "They wouldn't cut into our precious summer vacation, would they? If that's how they 'make up for it', then spare me."
+[says] (p.16) "The fact that the first and second-years haven't been called yet... does that mean, by any chance, that they won't be landing on the uninhabited island right away?"
+[says] (p.16) "True..."
+[trait] (p.14–16) Sleepy, grumpy and comic — complains about the timing and entrance exams while missing the point of the new gym clothes; has no intention of taking the exams himself.
+[rel:ayanokouji-kiyotaka] (p.14–16) Chats idly with him on the ship.
+
+### y3v3 p.21–22 — Reading the room and the expulsion rule
+[scene] (p.21) On the beach during the rule explanation, checks whether anyone knows survival games.
+[says] (p.21) "Anyone here ever played a survival game? Or know anything about it?"
+[says] (p.22) "An expulsion from the class whose three VIP's get taken out first, huh? Well, I figured they'd pull something like that."
+[says:ayanokouji-kiyotaka] (p.22) "Is this what you expected?"
+[says] (p.22) "Well, pretty much—"
+[trait] (p.21–22) Quick to read the exam's harsh logic — he had anticipated the expulsion rule — and candid that no one in Class C knows survival games.
+
+### y3v3 p.29–30 — Wanting the other classes to crush each other
+[scene] (p.29) After the starting-position lottery, sums up the exam for Ayanokōji.
+[says] (p.29) "There were a lot of messy explanations, but basically, it means we just have to win a class vs class survival game, right?"
+[says:ayanokouji-kiyotaka] (p.29) "Pretty much."
+[says] (p.29) "For now, we keep our distance from the other classes and wait things out, yeah? Let's just have them crush each other."
+[trait] (p.29) Favors a passive strategy of letting the other classes fight — the "most graceful outcome," though Ayanokōji doubts it will work.
+
+### y3v3 p.32–34 — Mediating the argument; tents and guns
+[scene] (p.32) Steps between Sugio and Shimazaki to pause the strategy argument over supplies.
+[says] (p.32) "Okay, okay. I get what you want to say, Sugio, but for now, let's look at the other supplies before we argue about that. Our leader will squeeze out a good idea for us in the meantime."
+[says] (p.33) "Tents, huh? We need to think about what to take and how much right away. The question is how much of the thinking we should burden Ayanokouji with —"
+[says] (p.33) "They look real up close. This is my first time touching something like this."
+[says] (p.33) "Man, the shotguns look hard to use, though. And they're heavy."
+[trait] (p.32–34) The class's self-appointed straight man — defuses the heated debate, defers to Ayanokōji as leader, and is wide-eyed handling real-looking weapons for the first time.
+[rel:sugio-hiroshi] (p.32) Cuts off his argument with Shimazaki.
+
+### y3v3 p.36–37 — Reacting to being named the sacrifice
+[says] (p.36) "I see, if that's the case, I accept—like hell I would...! Good grief, give me a break. I was an idiot for even thinking about listening seriously for a second."
+[says] (p.36) "Well, if they're safe themselves, I guess they would."
+[says] (p.36) "Then are you saying it's okay to make me the victim?"
+[says] (p.36) "Anyway, you just forced my name out there hoping to actually make me the sacrifice, didn't you?"
+[says] (p.37) "You seriously just clicked your tongue at me... I can't let my guard down around you at all."
+[says] (p.37) "Wait a minute. I said this earlier, but just because you're the leader doesn't mean you can decide everything—"
+[says] (p.38) "You're really dying to sacrifice me no matter what, aren't you?"
+[trait] (p.36–38) Comically cornered by Morishita's needling and shaken when Ayanokōji declares himself the sacrifice; sharp enough to see through their maneuvers but powerless to stop them.
+[rel:ayanokouji-kiyotaka] (p.37–38) Is stunned by the self-sacrifice declaration, which leaves him no choice but to believe in Ayanokōji.
+[rel:morishita-ai] (p.36–38) Spars with her over being the named sacrifice.
+
+### y3v3 p.40–41 — Arguing for Ayanokōji as a guard
+[scene] (p.40) Argues against making Ayanokōji the commander during role assignment.
+[says] (p.40) "She sure says the obvious with a self-important attitude, that girl." — muttered about Morishita
+[says] (p.41) "Isn't the reason obvious? It's because I view Ayanokouji as a special combat asset. Putting it bluntly, guards are pawns, but they're the only ones given a means of attack. Aside from me and Kitou, we don't have many students skilled in this kind of combat. That's why it's absolutely better to have Ayanokouji fight on the front lines. Besides, just because he can't directly communicate with the commander doesn't mean he can't organize the class, right?"
+[trait] (p.40–41) Passionate and strategic — wants Ayanokōji on the front line as a "combat asset," showing he grasps the value of concentrating offensive power in guards.
+[rel:ayanokouji-kiyotaka] (p.40–41) Argues for him as a guard rather than commander.
+
+### y3v3 p.47–51 — Reading the reports and the map
+[scene] (p.47) Steps closer to Nishikawa to hear the commander's first report.
+[says] (p.47) "Let's hear it."
+[says] (p.50) "If Ryuuen and his crew are heading for B10, that means they'll come out by the sea."
+[says] (p.50) "If by some chance they ambush us, we might not be able to get through..."
+[says] (p.51) "I think getting into a fight right now would be bad news. We should stop for a bit and let Class A go on ahead."
+[trait] (p.47–51) Manages the map and radio traffic, reads the other classes' routes, and urges avoiding an early fight until the guns are mastered.
+
+### y3v3 p.52–55 — Doubts about the captain's policy; Kōenji
+[scene] (p.52) Is surprised how easily Ayanokōji agrees to let Class A pass.
+[says] (p.52) "Are you for real? You agreed to that pretty easily."
+[says] (p.52) "What, is that right? Then I guess this is your decision, Ayanokouji."
+[says] (p.53) "I9? Damn, he's fast."
+[says] (p.54) "Nah, we shouldn't use it yet. This could be a strategy to get us to waste one of our tactics."
+[says] (p.55) "So it's that guy, huh. Let's just pray he goofs around for a bit and then calls it quits."
+[trait] (p.52–55) Loyal but uneasy — wants a clear fighting policy, misreads the Kōenji split-off as a reason to save tactics, and is proven wrong when Identity Check confirms it.
+[rel:ayanokouji-kiyotaka] (p.52) Is reassured when the wait-and-see decision is framed as Ayanokōji's own.
+
+### y3v3 p.63–68 — The alliance bombshell and its defense
+[scene] (p.63) Cuts in when Kitou presses Ayanokōji for a commitment to win.
+[says] (p.63) "Ayanokouji is betting his own expulsion on this, you know? Of course he's going to play for real."
+[says] (p.65) "Hey, Ayanokouji..."
+[says] (p.65) "You should probably stop talking about that here. No matter how you look at it, now's not the time..."
+[says] (p.66) "If Class D is on our side, we can focus just on Class A and Class B... huh."
+[says] (p.66) "I think it's a good idea. It'd be no laughing matter if we gave it our all and ended up in last, or third place at best."
+[says] (p.67) "How about we discipline them?"
+[trait] (p.63–68) The only class member already in on the alliance — tries to stop Ayanokōji announcing it at the wrong moment, then argues its merits and offers to discipline the critics.
+[rel:ayanokouji-kiyotaka] (p.65) Whispers urgently that the timing is wrong; Ayanokōji ignores him.
+
+### y3v3 p.69–73 — The ambush: shouting to the class
+[scene] (p.69) Is caught in the surprise attack from the rear.
+[says] (p.70) "Your packs, don't forget your packs! Just run!"
+[says] (p.70) "We don't even know how many of them there are. For now, run! Just run!"
+[says] (p.73) "A surprise attack, huh... If they'd just waited and watched, another class might've crushed each other for them. Heh... That bastard Ryuuen, he took on a pretty big risk, didn't he?"
+[trait] (p.69–73) Keeps his head in the panic — shouts practical orders about packs and running, then mixes frustration with open admiration for Ryūen's gamble.
+
+### y3v3 p.101–102 — Hashimoto on the food situation
+[says] (p.102) "But man, we're barely managing to endure this as it is. Classes with forty people must be struggling big time."
+[trait] (p.101–102) Worries about the dwindling supplies but points out larger classes must be suffering more.
+
+### y3v3 p.151–154 — Selling the alliance, then private doubts
+[says] (p.151) "We're lucky Ayanokouji brought up the idea of an alliance. If no one had even mentioned the word 'alliance' at this point, there's no way one would've been formed during this special exam."
+[says] (p.151) "Don't you worry about that. Ayanokouji'll handle the talks."
+[says] (p.153) "You're sure this is gonna be okay, right?"
+[says] (p.153) "...Nah, forget I said that. It's your plan and you're the one who said you'd drop out if we lose."
+[trait] (p.151–153) Publicly champions the alliance to steady the class but cannot shake his own doubts; reveals he never told the class Ichinose might have formed it anyway.
+[rel:ayanokouji-kiyotaka] (p.153) Voices private doubts; accepts Ayanokōji's offer to consult him anytime.
+
+### y3v3 p.154–157 — Going as Ayanokōji's shield
+[says] (p.154) "I'm going too and don't try to stop me, alright? If they start shootin' without askin' questions, I can be your shield."
+[says] (p.154) "So now we've got no way to fight back, huh."
+[says] (p.157) "I'm grateful we didn't get shot, but... you're being awfully reasonable, aren't ya?"
+[says] (p.157) "Well, what do you know— You're sayin' Ichinose saw it comin' that we'd ask for your help?"
+[trait] (p.154–157) Genuinely loyal — offers to shield Ayanokōji unarmed, then is suspicious of Class D's reasonableness until Ichinose's foresight is revealed.
+
+### y3v3 p.174–175 — Worries about supplies
+[says] (p.174) "Ain't it kinda dirty?"
+[says] (p.175) "But man, we're obviously runnin' low on supplies. We got nothin' but a bunch of starving folks over here, too."
+[trait] (p.174–175) Notices Ayanokōji's dirty hand and worries openly about the alliance's hunger.
+
+### y3v3 p.178–180 — The supply run and the shifting area
+[says] (p.178) "They're really testing us... but J5 and K10? That's just asking too much."
+[says] (p.178) "Well then, guess I'll step up. I'll make a run for it and see if I can secure them."
+[says] (p.180) "We're inside the area and getting too close to the center is kinda sketchy, y'know?"
+[says] (p.180) "I get what you're saying, Kanzaki, but are you suggesting we move forward one whole area?"
+[trait] (p.178–180) Volunteers for the H10 supply run and weighs the risk of the shifting restricted area.
+
+### y3v3 p.183 — The shrinking area means less food
+[says] (p.183) "Since the area's gettin' smaller, the number of supply drops is down to eight."
+[says] (p.183) "Looks like we're gonna be sleepin' on emptier stomachs tonight than yesterday."
+[trait] (p.183) Wryly notes the shrinking area means fewer supply drops and hungrier nights.
+
+### y3v3 p.221–229 — The duel with Hirata
+[scene] (p.221) Is caught in the allied advance when Matoba is shot beside him and he realizes Class A split its forces.
+[says] (p.221) "It's Class A! Hirata's here, Hashimoto!"
+[says] (p.221) "Take us out with a small group? Are they serious?"
+[says] (p.222) "...What's going on...?"
+[says] (p.222) "Not bad, Hirata... You're way more skilled than I thought. There's no hesitation or mercy in your aim."
+[says] (p.223) "Never seen you with such a desperate look on your face before! Did getting abandoned by Ayanokouji really piss you off that much?!"
+[says] (p.223) "How 'bout it? I could ask Ayanokouji to negotiate pulling you into our class."
+[says] (p.226) "Ayanokouji was sayin' he felt bad about what he did to you, Hirata."
+[says] (p.227) "So this is what they call a desperate situation...!"
+[says] (p.228) "...That was some serious spirit, Hirata. This match is my loss."
+[says] (p.229) "Guess I pushed the honor student a little too far—"
+[feat] (p.222–228) Duels Hirata, uses taunts about Ayanokōji to rattle him, but loses to a slightly faster shot; nearly gets shot again after being eliminated.
+[trait] (p.221–229) Quick and psychological — reads the divided enemy, fights with feints and mind games, and praises his opponent's spirit in defeat; shaken by Hirata's revealed killing intent.
+[rel:hirata-yousuke] (p.221–229) Duel opponent; is nearly shot again after being eliminated.
+[rel:matoba-shinji] (p.221) Is beside him when Matoba is shot.
 ## y2v2
 
 <!-- walk: y2v2 → start -->

@@ -624,6 +624,18 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y3v3 Epilogue → p.256 -->
 
+### y3v3 p.212–215 — Ishizaki dragged into Ibuki's charge
+[scene] (p.212) Hides behind a tree with Ibuki as Class A attacks from behind.
+[says] (p.212) "W-what's with that creepy laugh? You're givin' me the creeps, Ibuki!"
+[says] (p.215) "Ooh... pretty ambitious for you. Thinkin' Class A is the biggest enemy, huh?"
+[says] (p.215) "Huh? Give me a break. I've gotta protect Ryuuen-san."
+[says] (p.215) "No way in hell!"
+[says] (p.215) "If I go now, it's like I'm asking them to shoot me!"
+[says] (p.215) "It's not all that matters!"
+[says] (p.215) "Agh, fine! I guess I've got no choice! Follow me, Ibuki!"
+[trait] (p.212–215) Reluctant and practical — resists Ibuki's reckless plan and wants to protect Ryūen, but is dragged into charging as her shield.
+[rel:ibuki-mio] (p.212–215) Is bullied into being her shield and charges with her.
+[rel:ryuuen-kakeru] (p.215) Feels obligated to protect him.
 ## y2v2
 
 <!-- walk: y2v2 → start -->

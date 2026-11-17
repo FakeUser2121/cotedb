@@ -1674,12 +1674,26 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y3v3 Epilogue → p.256 -->
 
-### y3v3 Ch.7 — depth read: Hirata's killing intent
+### y3v3 p.197–232 — Ch.7 — depth read: Hirata's killing intent
 [says] (p.222) "Not bad, Hirata... You're way more skilled than I thought. There's no hesitation or mercy in your aim." — Hashimoto
 [trait] (p.222–229) Fights with "naked killing intent, unbecoming of a mere honor student," driven by resentment over Ayanokōji's transfer; after defeating Hashimoto he raises the gun on the already-out opponent but stops before firing.
 [rel:hashimoto-masayoshi] (p.222–229) Duels him and wins; nearly fires a follow-up shot but restrains himself.
 [rel:ayanokouji-kiyotaka] (p.223) His anger at being "abandoned" by the transfer fuels his aggression (noted by Hashimoto's taunt).
 [note] (p.229) Hirata's internal state is shown only through Hashimoto's observations; no Hirata line is quoted in the duel.
+
+### y3v3 p.198–201 — The final-day planning and the restraint rule
+[says] (p.198) "Everyone seems quite bloodthirsty, don't they?"
+[says] (p.199) "Let's try to look on the bright side. Fortunately, it was only the guards who were taken out."
+[says] (p.200) "Up until now, everything has gone more or less as expected, with the exception of the matter concerning Ayanokouji-kun."
+[trait] (p.198–201) Calm and strategic — helps plan the final positioning, notes Ayanokōji is the one variable, and upholds the restraint rule.
+
+### y3v3 p.221–229 — The duel with Hashimoto; the killing intent
+[scene] (p.221) Is among the Class A students who circle around behind Class B to engage the alliance.
+[feat] (p.224–228) Duels Hashimoto at close range and wins with a slightly faster shot; his "naked killing intent, unbecoming of a mere honor student," shocks Hashimoto.
+[note] (p.228–229) After the duel is decided, he raises the gun on the already-out Hashimoto and presses the muzzle to his forehead, then stops before firing and walks away — the translation gives him no line in the duel; his state is shown only through Hashimoto's observations.
+[trait] (p.222–229) Driven by resentment over Ayanokōji's transfer — his aggression and near-follow-up shot reveal a violent edge concealed beneath the honor-student façade.
+[rel:hashimoto-masayoshi] (p.221–229) Duels and defeats him; nearly fires a follow-up shot but restrains himself.
+[rel:ayanokouji-kiyotaka] (p.223) Hashimoto's taunt claims Ayanokōji's abandonment fueled his aggression.
 ## y2v2
 
 <!-- walk: y2v2 → start -->

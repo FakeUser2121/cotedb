@@ -5732,7 +5732,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y3v3 Epilogue → p.256 -->
 
-### y3v3 Ch.1 — depth read: the survival game opens
+### y3v3 p.14–45 — Ch.1 — depth read: the survival game opens
 [scene] (p.14) Arrives on the same uninhabited island for his third straight year; notes the grid is now A–O × 1–15 (larger than last year's A–J × 1–10).
 [says] (p.16) "Maybe. But speculating now won't tell us anything."
 [says:hashimoto-masayoshi] (p.16) "Looks like we're finally arriving."
@@ -5744,7 +5744,7 @@ walk: y1v1 → DONE
 [rel:shiraishi-asuka] (p.31) Hears her point about the food shortage forcing event participation.
 [note] (p.20) Exam rules: 3 nights/4 days; roles Commander/VIP/Guard/Analyst/Scout; Global GPS Shutdown ×1, Individual ×3, Identity Check ×5; first wiped-out class selects one for expulsion.
 
-### y3v3 Ch.2 — depth read: the ambush and the alliance reveal
+### y3v3 p.46–85 — Ch.2 — depth read: the ambush and the alliance reveal
 [says] (p.49) "Even if we were to pick up the pace, the enemy would find out within five minutes. If they knew we'd quickened our movement, Class A would do the same."
 [says] (p.50) "Yeah. If I determine the supplies are necessary, I'll go for them without hesitation."
 [says] (p.64) "I believe this class's ultimate goal, the rank we should be aiming for, is second place."
@@ -5758,7 +5758,7 @@ walk: y1v1 → DONE
 [rel:hashimoto-masayoshi] (p.46–73) Relays instructions and reports; both react to the ambush.
 [rel:shiina-hiyori] (p.52–74) VIP in the front row; struggles to keep up during the retreat.
 
-### y3v3 Ch.3 — depth read: pressure, provisioning and camp
+### y3v3 p.86–118 — Ch.3 — depth read: pressure, provisioning and camp
 [says] (p.94) "If you, Yamamura, can just stay in for even one second longer without getting out, that alone is useful."
 [says] (p.102) "Head north and Class A's there to greet you; head east and it's Class D. There's no escaping a scenario where we get pincered by Class B coming up from behind."
 [says] (p.105) "If I were Ryuuen—no, if I were any other class, I'd be grateful to see Class C moving in one big clump."
@@ -5774,7 +5774,7 @@ walk: y1v1 → DONE
 [rel:matoba-shinji] (p.102–105) Rebuts his group-up and escape plans.
 [rel:ryuuen-kakeru] (p.105) Reasons about how Ryūen would exploit Class C's mistakes.
 
-### y3v3 Ch.4 — depth read: Kōenji and the G11 offensive
+### y3v3 p.119–150 — Ch.4 — depth read: Kōenji and the G11 offensive
 [says] (p.124) "That's our common understanding, but there's just a certain... creepiness to it. It's because I don't understand the reason why he's still here instead of retiring."
 [says] (p.136) "Right now, everyone's focused on moving around the island, gathering supplies and staying healthy, but that's nothing more than a prelude."
 [says] (p.137) "We're leaving now. We're going to secure the supplies and food at G11."
@@ -5787,7 +5787,7 @@ walk: y1v1 → DONE
 [rel:ryuuen-kakeru] (p.137–140) Anticipates his moves at G11 and positions the class for the confrontation.
 [rel:hashimoto-masayoshi] (p.137–139) Relies on him to steady the anxious class.
 
-### y3v3 Ch.5 — depth read: sealing the alliance
+### y3v3 p.151–166 — Ch.5 — depth read: sealing the alliance
 [says] (p.152) "If you've seen the kind of student Ichinose is, you should understand that she can be trusted."
 [says] (p.152) "It's not like taking first place one time will get them to Class A."
 [says] (p.153) "What's wrong? Are you worried about the alliance after all?"
@@ -5800,7 +5800,7 @@ walk: y1v1 → DONE
 [rel:kanzaki-ryuuji] (p.156–166) Negotiates with him, defuses his armed welcome, and later urges him to trust in Class D and know Ichinose.
 [rel:shiraishi-asuka] (p.160) Discusses Class D's trust with her.
 
-### y3v3 Ch.6 — depth read: the solo plan
+### y3v3 p.167–196 — Ch.6 — depth read: the solo plan
 [says] (p.174) "My bad, I had some business to take care of."
 [says] (p.175) "The damage will only be greater if they lie to themselves and force it."
 [says] (p.175) "There are broadly two methods for determining our plan. One is to envision the objective you wish to achieve and map out a path to it. The other is to gauge the enemy's aim and thwart their intentions."
@@ -5816,7 +5816,7 @@ walk: y1v1 → DONE
 [rel:takemoto] (p.184) Instructs him to disable his GPS and handle the plan if he's "taken out."
 [rel:ninomiya-yui] (p.182) Directs that she retire immediately due to fever.
 
-### y3v3 Ch.7 — depth read: the mastermind's final-day moves
+### y3v3 p.197–232 — Ch.7 — depth read: the mastermind's final-day moves
 [says] (p.202) "The right call. Headquarters is undoubtedly tracking every student's GPS in real-time, 24/7."
 [says] (p.202) "What am I planning? Nothing. If there's a path, I'll walk it."
 [says] (p.204) "We kept losing points in the beginning. I'm glad I could make up for it, even just a little."
@@ -5832,7 +5832,7 @@ walk: y1v1 → DONE
 [rel:shiraishi-asuka] (p.230–232) Has her report the battlefield state; leaves her with Yamamura.
 [rel:satou-maya] (p.231) Identified her as a Class A VIP; her elimination narrows Class A to one VIP.
 
-### y3v3 Epilogue — depth read: the bluff and the true goal
+### y3v3 p.233–252 — Epilogue — depth read: the bluff and the true goal
 [scene] (p.233) Stands over the battlefield as the three-minute mark seals Class A's elimination; Kanzaki, the two Class D VIPs, Shiraishi and Yamamura gather before him.
 [says] (p.233) "Were the remaining guards taken out?"
 [says] (p.233) "Tell me the details."
@@ -5855,6 +5855,406 @@ walk: y1v1 → DONE
 [rel:ibuki-mio] (p.236–240) Outmaneuvers her in the forest and eliminates her with a paintball to the thigh.
 [rel:shiina-hiyori] (p.251) Looks for her on the disembarkation beach and finds her talking with Kaneda, in good spirits.
 [rel:beppu-ryouta] (p.235–236) Takes the Class D VIP with him to the center of E11 to bait the confrontation.
+
+### y3v3 p.14–16 — Arrival: the ship, Hashimoto's complaints and the landing order
+[scene] (p.14) Cruise ship crossing to the same uninhabited island at just past 8 a.m.; Ayanokōji and Hashimoto wait in the ship's café to disembark.
+[narrates] (p.14) The third-years are on their third straight uninhabited-island exam, and the stage is the exact same island as last year — the schedule moved up about a month from prior years.
+[says:hashimoto-masayoshi] (p.14) "Looks like we're finally arriving."
+[says:hashimoto-masayoshi] (p.15) "Ah~, I'm sleepy. I should've gone to bed a little earlier yesterday."
+[says:hashimoto-masayoshi] (p.15) "Well then... I wonder what kind of troublesome, no, pain-in-the-ass exam is waiting for us this year."
+[narrates] (p.15) New gym clothes were distributed to all third-years on boarding — jersey tops and bottoms plus shirts, nearly identical to the usual ones but with slightly thicker fabric.
+[says:hashimoto-masayoshi] (p.15) "But isn't this unbearable for students preparing for entrance exams? Being pulled away from their desks at this time of year. Have the third-years up until now never complained about this?"
+[says] (p.15) "Who knows. But I did see Shimazaki bringing a set of study materials onto the ship."
+[says:hashimoto-masayoshi] (p.15) "So he's stuck studying even on the ship, huh?"
+[says:hashimoto-masayoshi] (p.15) "They wouldn't cut into our precious summer vacation, would they? If that's how they 'make up for it', then spare me."
+[narrates] (p.15) An onboard announcement orders third-years to leave all personal belongings, including phones, in their rooms and change into the designated gym clothes.
+[says:hashimoto-masayoshi] (p.16) "The fact that the first and second-years haven't been called yet... does that mean, by any chance, that they won't be landing on the uninhabited island right away?"
+[says] (p.16) "Maybe. But speculating now won't tell us anything."
+[says:hashimoto-masayoshi] (p.16) "True..."
+
+### y3v3 p.17–20 — Disembarkation: the grid, Nakanishi's absence and the rules begin
+[scene] (p.17) Disembarks onto the beach; the island is more developed than last year and cardboard boxes are stacked up.
+[narrates] (p.17) A school official directs the third-years to line up by class at their homeroom teachers; no first- or second-years are landing yet.
+[says] (p.17) "I remember quite a bit. Talk about nostalgia."
+[narrates] (p.17) Mashima-sensei announces that Nakanishi of Class D is absent due to a fever, so his class begins with one less person.
+[thinks] (p.18) Nakanishi's absence was touched on lightly with no heavy penalty; since it is Ichinose's class and he is not a standout, the damage is likely minimal — the downside is real but small.
+[narrates] (p.18) The island grid has been subdivided: last year A–J × 1–10, this year A–O × 1–15.
+[narrates] (p.18) Exam duration is a maximum of three nights and four days, ending early on a decisive result; daily hours 9:00 a.m.–6:00 p.m. (4:00 p.m. on the final day).
+[narrates] (p.18) Five mandatory roles: Commander ×1 (GPS tablet, tactics, cannot be eliminated, confined to HQ F14), VIP ×3, plus Guards, Analysts ×2 and Scout ×1; the exam is won by eliminating other classes' VIPs and guards with paint guns.
+
+### y3v3 p.21–24 — Tactics, watches, events and the expulsion penalty
+[scene] (p.21) On the beach, Mashima-sensei explains that handling assigned roles and the commander's limited-use tactics will be critical.
+[says:hashimoto-masayoshi] (p.21) "Anyone here ever played a survival game? Or know anything about it?"
+[narrates] (p.21) No one in Class C admits to knowing survival games, while Class A's Onizuka and Ijuuin chat excitedly, suggesting prior experience.
+[narrates] (p.21) Commander tactics: Global GPS Shutdown (30 min, ×1), Individual GPS Shutdown (30 min, ×3), Identity Check (reveals name and role at a location, ×5); the using commander can still see positions every five minutes.
+[thinks] (p.22) The global GPS shutdown in particular could be a trump card for surprise attacks or escaping pursuers, but poor timing would waste it.
+[narrates] (p.22) Wristwatches are distributed and must be worn 24 hours a day; removal risks disqualification. The watch shows vitals, area and direction, and issues an "Out" when a paintball bursts on the sensor clothes.
+[says:hashimoto-masayoshi] (p.22) "An expulsion from the class whose three VIP's get taken out first, huh? Well, I figured they'd pull something like that."
+[says] (p.22) "Is this what you expected?"
+[says:hashimoto-masayoshi] (p.22) "Well, pretty much—"
+[thinks] (p.24) The expulsion can be minimized — a class can nominate a student with Protection Points — but fear of it could produce a draw, and since a draw is decided by luck, no class can keep running; combat is forced.
+
+### y3v3 p.25–28 — Weapons: the prototype paintball guns
+[scene] (p.25) Mashima-sensei unveils the guards' weapons — assault rifles, shotguns, submachine guns and handguns — and Kishinami of Kanto Shooter Co. explains the prototype system.
+[narrates] (p.25) The gym clothes incorporate proprietary temperature-sensitive, color-reacting and impact-sensor technology; a strong hit to the abdomen or back links to the watch and declares an out, while a tiny edge hit may not activate.
+[narrates] (p.26) Self-reporting a malfunction-induced out avoids penalty, but continuing while knowing one is out is a serious violation that can cost the whole class the exam.
+[thinks] (p.25) The lunchtime announcement and rules suggest the school is still going easy on them — an escape route far more lenient than expected.
+
+### y3v3 p.29–30 — The starting-position lottery and meager supplies
+[scene] (p.29) Mashima-sensei has one representative per class draw lots for the four starting areas — C12, E12, G12, I12 — about a 15-minute walk apart.
+[thinks] (p.29) The western C12 (not sandwiched) and eastern I12 (easy to escape) look advantageous, but the result is the same whoever draws, so he has Sanada draw.
+[says:hashimoto-masayoshi] (p.29) "There were a lot of messy explanations, but basically, it means we just have to win a class vs class survival game, right?"
+[says] (p.29) "Pretty much."
+[says:hashimoto-masayoshi] (p.29) "For now, we keep our distance from the other classes and wait things out, yeah? Let's just have them crush each other."
+[thinks] (p.29) That would be the most graceful outcome, but the rules are built so that anyone would want to reap the benefits of the chaos.
+[narrates] (p.30) Class C starts at E12; Ryūen's B at C12, Horikita's A at G12, Ichinose's D at I12. Sanada apologizes for not drawing a corner area; Ayanokōji tells him not to worry.
+[narrates] (p.30) Initial supplies are identical for every class and must be chosen now — leftovers are collected once the exam starts. The food is only two nutritional supplement blocks and mineral water per person, barely one lunch.
+[thinks] (p.30) Securing food from event supplies becomes essential, which forces event participation and raises the risk of contact with other classes — clearly designed to induce combat.
+
+### y3v3 p.31–32 — The food debate: Shiraishi, Sugio and Shimazaki
+[scene] (p.31) The class debates strategy over the meager food supply before the first event.
+[says:shiraishi-asuka] (p.31) "Looking at the rules, if we can keep running away, we won't lose for the time being. Paintballs won't be consumed unless we fight, but the food problem is unavoidable."
+[says:sugio-hiroshi] (p.31) "I definitely think aiming for nearby events is dangerous. If we're going to shoulder the risk of fighting poorly and getting out, why don't we just avoid Class A from the start and cross the mountain? That way, it'll be easier for us to monopolize the events in the northeast area. Other classes wouldn't bother traveling that far to fight us, right?"
+[says:shimazaki-ikkei] (p.31) "I'm against it. Other classes might be thinking something similar. Besides, even if we force ourselves to cross the mountain, there's no guarantee that events will necessarily occur in the northeast, is there?"
+[says] (p.31) "In that case, I think it's better not to go too far from the starting point until the first event begins."
+[thinks] (p.31) Deriving the correct opening move is impossible at this stage; the shortest safe route north runs through the narrow riverside G8, where Class A might arrive first.
+[says:sugio-hiroshi] (p.32) "Not moving, huh? I don't intend to deny that, but if we do that, it means we're resolving ourselves to a shootout right from the start, doesn't it? If, by some chance, three VIPs get taken out because of—"
+[says:hashimoto-masayoshi] (p.32) "Okay, okay. I get what you want to say, Sugio, but for now, let's look at the other supplies before we argue about that. Our leader will squeeze out a good idea for us in the meantime."
+[thinks] (p.32) Neither Sugio nor Shimazaki had the resolve to push their opinion and shoulder the responsibility, so they left the judgment to the leader.
+
+### y3v3 p.33–35 — Tents and weapons: supplying the class
+[scene] (p.33) The class sorts through the remaining boxes — small items, tents and weapons — and Ayanokōji sets a supply guideline.
+[says:hashimoto-masayoshi] (p.33) "Tents, huh? We need to think about what to take and how much right away. The question is how much of the thinking we should burden Ayanokouji with —"
+[says] (p.33) "I will provide a guideline for what supplies are necessary and how much to carry. If there are objections, voice them then with your reasoning."
+[thinks] (p.33) He sets a framework first and folds in classmates' views later — the optimal way to avoid wasting time; favors two- and multi-person tents for shared carrying, since small tents become convenient as the class shrinks.
+[narrates] (p.33) Forty main weapons are prepared — twenty assault rifles, ten submachine guns, ten shotguns — plus two handguns; each Guard can carry one main weapon.
+[says:hashimoto-masayoshi] (p.33) "They look real up close. This is my first time touching something like this."
+[says:hashimoto-masayoshi] (p.33) "Man, the shotguns look hard to use, though. And they're heavy."
+[thinks] (p.33) The assault rifle looks the most user-friendly and well-balanced; submachine guns and shotguns would only fill out the Guard ranks.
+[says:morishita-ai] (p.34) "If we start with zero analysts, it looks like we can take two extra guns; what will you do?"
+[says] (p.34) "Getting slightly more paintballs is certainly an advantage, but we will need analysts immediately. Considering the trouble of carrying and managing the guns at that time, it's hard to say if it's worth it."
+[says] (p.34) "We'll go with a policy of not increasing our luggage."
+[says:morishita-ai] (p.34) "So you don't intend to take any surplus. At times like this, human psychology makes us want to prepare at least a little insurance; one tends to get greedy."
+[says] (p.34) "If we need something, we can just obtain it through an event. That's what the rules are for."
+
+### y3v3 p.36–39 — Taking responsibility: I will be the one expelled
+[scene] (p.36) The class reacts with horror to the idea of naming an expulsion sacrifice before the exam; Ayanokōji lets Morishita float Hashimoto's name, then intervenes.
+[says] (p.37) "If Hashimoto is willing to volunteer, that's fine, but unfortunately, I have already decided who will be expelled, and I won't change it even if there are objections."
+[says] (p.37) "If we end up receiving the penalty, I'll take on that role."
+[says] (p.37) "Taking responsibility for defeat precisely because I am the leader. It sounds cool if I say it like that, but the reason is different. For better or worse, I'm an outsider. Not many days have gone by since I entered this class. If I, who joined to lead the class to victory, instead lead us to defeat, then bearing that responsibility is only logical."
+[says] (p.37) "Either way, you wouldn't be able to trust a leader who lost miserably without being able to do anything, right?"
+[says] (p.38) "As I just said, in the event that an expulsion occurs in the class, I want to confirm it's me. This is to prevent something like retracting it later. Announcing and determining it in advance is unrelated to the rules of the exam, right?"
+[says] (p.38) "Of course. These aren't words that should be spoken merely to ease the anxiety of my classmates."
+[thinks] (p.38) Without a firm public commitment he could resist at the last moment and shift the blame onto someone else — announcing it in advance removes that escape.
+[inference] (p.37–38) The declaration is a calculated move to galvanize the class: it buys their trust and unites them behind him, while costing him nothing he intends to pay.
+[trait] (p.36–39) Calm and strategically ruthless — deliberately lets the class squirm over the sacrifice before naming himself, knowing a leader who owns defeat is one they will follow.
+[rel:hashimoto-masayoshi] (p.36–38) Lets Morishita name him as sacrifice; Hashimoto is trapped into relying on Ayanokōji's ability since he has no other route to Class A.
+[rel:morishita-ai] (p.36–38) Plays along with her proposal that Hashimoto be the victim.
+
+### y3v3 p.40–43 — Assigning roles: guard, not commander
+[scene] (p.40) Mashima-sensei leaves the class thirty minutes to assign the five roles or the school picks randomly.
+[says:hashimoto-masayoshi] (p.41) "Isn't the reason obvious? It's because I view Ayanokouji as a special combat asset."
+[says] (p.42) "My hope is to be a guard."
+[note] (p.42) Two untagged lines follow his "guard" statement in the text — one approving the choice, one adding that it depends on finding a trustworthy commander. The translation leaves both speakers unmarked, so no `[says]` row is claimed for them.
+[thinks] (p.41–42) He had already ruled out VIP, analyst and scout for himself; the choice was commander or guard. Commander's GPS overview is attractive, but as a guard he can demonstrate his ability without relying on others — and Class C lacks physically gifted students to execute orders.
+[action] (p.43–44) Appoints Shimazaki as commander, Takemoto/Shiraishi/Nishikawa as VIPs, Sanada/Nakajima as analysts, Tsukaji as scout, the rest as guards.
+[rel:shimazaki-ikkei] (p.43) Chooses him as commander by elimination despite doubts about his flexibility; takes full responsibility for the outcome to ease his burden.
+[rel:hashimoto-masayoshi] (p.40–41) Rebuts the suggestion he be commander; relies on his Case for him as guard.
+
+### y3v3 p.44–45 — Briefing Shimazaki: report everything to Shiraishi
+[scene] (p.44) Pulls Shimazaki aside before parting — they cannot speak directly until the exam ends.
+[says] (p.44) "No matter how trivial, I want you to report anything you find strange or unusual without hesitation."
+[says] (p.44) "That's not it. The more you feel the weight of the commander position, the more likely you are to miss what's right under your nose. A commander from another class laughed, or got angry. Changes in the GPS that feels slightly off but doesn't seem worth mentioning. Please report anything that concerns you personally, Shimazaki."
+[says] (p.44) "That's true, which is why it can't just be anyone. Let's narrow it down to one person."
+[says] (p.44) "It doesn't matter who, but let's see. Let's go with Shiraishi for now. That should make things easier for you as well."
+[says] (p.45) "There's no need to favor only Yoshida. To me, both of you are important friends."
+[says] (p.45) "In other words, you can tell Shiraishi anything and everything, no matter what it is."
+[inference] (p.44–45) Routes Shimazaki's reports through Shiraishi deliberately — knowing he likes her, this raises their contact, and she is the VIP he reads most clearly.
+[trait] (p.44–45) Quietly matchmaking while optimizing command: uses the briefing to increase Shimazaki's contact with Shiraishi under the guise of avoiding "telephone game" confusion.
+[rel:shimazaki-ikkei] (p.44–45) Briefs him on reporting; knows of his feelings for Shiraishi.
+[rel:shiraishi-asuka] (p.44–45) Names her as the single reporting conduit; trusts her judgment most.
+[rel:yoshida-kenta] (p.45) Cites him as another important friend to defuse Shimazaki's objection.
+[note] (p.45) Safety goggles recommended at all times; sensors are on the gym uniform only, though hits register through a tracksuit.
+
+### y3v3 p.46–50 — The first reports: other classes' commanders and movements
+[scene] (p.46) Leads Class C north in scattered formation from E12 toward G8, head of the group.
+[narrates] (p.46) The self-sacrifice declaration had a greater effect than expected; the first strategy is to head north and be first across G8, avoiding the pincer between Ryuuen west and Horikita east.
+[narrates] (p.47) Commanders revealed: Matsushita (A), Kaneda (B), Ichinose (D) — only Ichinose commands her own class.
+[thinks] (p.47) Matsushita is a solid, fitting choice for Class A's honor-student makeup; Kaneda is safe and unremarkable — unlikely to shine or blunder.
+[narrates] (p.48) First GPS update: Class B heading north into C11, Class A in G11 also north, Class D east toward J12 — all avoiding early conflict.
+[says] (p.49) "Even if we were to pick up the pace, the enemy would find out within five minutes. If they knew we'd quickened our movement, Class A would do the same. That would be nothing more than an act that increases risk."
+[says] (p.49) "That's the situation. I don't want to do anything that would give another class the chance to profit from our conflict."
+[says] (p.50) "Yeah. If I determine the supplies are necessary, I'll go for them without hesitation."
+[trait] (p.46–50) Cautious and controlling — refuses to quicken pace because the five-minute GPS update exposes it; commits to fighting for supplies if needed.
+
+### y3v3 p.51–56 — Halting for weapons practice; the Kōenji question
+[scene] (p.51) Class stops to learn weapon handling as Yoshida and Morishita urge caution about fighting before they know the guns.
+[says] (p.52) "It's not like I decided this because Yoshida told me to. I was also thinking we should wait and see for a bit."
+[says] (p.52) "Ten minutes have passed and we've gotten a small glimpse of each class's intentions. Our primary objective was to pass through G8 first, but allow me to revise that. First, we'll learn how to properly handle our weapons here and once we're ready to fight, we'll check the GPS positions again."
+[says] (p.53) "I can't say for sure, but if anything, the usual Koenji has no motivation. In almost every exam, he does as he pleases."
+[thinks] (p.53) Last year's island was an exception to Kōenji's apathy because of his "complete freedom until graduation" bet with Horikita, which she lost — he is now a free agent, but he could still be bought with points.
+[says] (p.54) "Have the commander identify the GPS of the student who started acting alone."
+[says] (p.54) "I don't mind. It's worth a try. Let's use one as a test."
+[thinks] (p.54) Has Nishikawa test whether a second VIP can contact the commander while she is speaking — confirms the line is one-to-one and busy when occupied.
+[says] (p.55) "Tell them I want to know the movements of the three classes every five minutes until the event starts."
+[says] (p.55) "Let's decide on our positions and formation for when the whole class moves together from now on."
+[says] (p.56) "I considered that at one point, but I figured it's important to place someone who can react instantly in the rear precisely because she can. Besides, Shiraishi isn't good at raising her voice and it won't carry far. But Nishikawa, on the other hand, has a loud voice."
+[tactic] (p.55–56) Disperses the three VIPs across front/middle/rear rows and places fast responders to the rear so enemies can't wipe the class out at once.
+[trait] (p.51–56) Probing and efficient — uses the lull to gather intel (commander loopholes, radio line limits, Kōenji's identity) and locks down formation and communications.
+
+### y3v3 p.58–63 — The weapon lecture and the misdirection plan
+[scene] (p.59) Has Shimazaki check what commanders can and cannot do — direct contact and messages are banned, screenshots are blacked out, but GPS markers can be annotated.
+[says] (p.59) "I had him look into it because I thought there might be things he could do outside of his official authority as commander, but it seems they're being monitored more strictly than I anticipated."
+[says] (p.60) "That's why I'm going to take the time now to properly lecture you all on how to use these weapons."
+[says] (p.60) "Then, after the lecture, I want one of the guards who isn't confident in their fighting ability to temporarily give their weapon to one of the three VIPs, one after another."
+[says] (p.60) "One method for identifying another class's VIP is to see if they can use a weapon. If we get into an unexpected fight, it's entirely conceivable that they'll prioritize targeting any student without one."
+[says] (p.62) "The firing chamber—basically, there might be cases where a round remains inside even after you remove the magazine."
+[says] (p.62) "Regarding this type of firearm, Ijuuin from Horikita's class is very knowledgeable and he taught me a few things in the past."
+[inference] (p.62) His firearms knowledge actually comes from the White Room; the Ijuuin story is a cover Toba cannot verify.
+[tactic] (p.60–62) Rotates a magazine-removed, chamber-checked weapon among the VIPs as misdirection so enemies cannot identify them by their lack of a gun.
+[rel:toba-shigeru] (p.60–62) Teaches him to check the chamber; notes he is athletic and a capable fighter.
+[rel:kitou-hayato] (p.63) Is pressed by him for a commitment to win.
+
+### y3v3 p.64–68 — Announcing the alliance; postponing the vote
+[scene] (p.64) Addresses the whole class after Kitou's question and reveals the true aim.
+[says] (p.64) "I believe this class's ultimate goal, the rank we should be aiming for, is second place."
+[says] (p.64) "The reason is simple and clear. I'm thinking we can give first place to Ichinose's class."
+[says] (p.65) "I transferred to raise this class to Class A. But given that the hurdle is actually very high, we must use a strategy to win efficiently."
+[says] (p.65) "That strategy, I believe, lies in an alliance with Ichinose's class."
+[says] (p.66) "In this survival exam, we're supposed to be fighting three other classes. That means we're facing nearly 120 enemies, but an alliance can change that premise."
+[says] (p.67) "You can refuse—or rather, reject the idea—but it's not something we can pick up and drop as we please."
+[says] (p.68) "Look, we're not going to form an alliance just from this one discussion. There's no way. That said, I'm not going to reject the idea out of hand, either."
+[says] (p.68) "My bad for bringing this up so suddenly. Like Matoba and the others said, let's talk about the alliance again after this special exam is over. For now, just forget we had this conversation."
+[tactic] (p.65–68) Introduces the C–D alliance deliberately when the class is desperate, then withdraws the immediate vote — a big step toward making them accept it later.
+[inference] (p.68) The backlash is expected and welcomed; a single change in perspective can overturn it, and postponing is not the same as abandoning.
+[rel:hashimoto-masayoshi] (p.65) He tries to interrupt and whisper that now is the wrong time; Ayanokōji ignores him and says it anyway.
+[rel:matoba-shinji] (p.67–68) Faces his criticism of the "selfish proposition" and lets him think he has won the postponement.
+
+### y3v3 p.68–73 — The surprise attack and the retreat
+[scene] (p.68) Senses the rustle of trees before anyone else as the class stands at ease after the alliance debate.
+[says] (p.69) "—Everyone, run! Now!"
+[says] (p.70) "We'll leave this place to Kitou and the others and retreat."
+[says] (p.72) "The answer is quite simple. Ryuuen's class deliberately kept its distance after the start to make it seem like they were avoiding engagement."
+[says] (p.73) "Judging by the speed of their decision, they must have been planning to use it from the moment they understood the rules of the special exam."
+[says] (p.73) "No, this is about our limit. If we force ourselves to keep going, we'll only increase the risk of our allies dropping out."
+[tactic] (p.72–73) Deduced Ryūen's fake-retreat + Global GPS Shutdown ambush from the frozen position updates; stops the retreat when laggards start falling behind.
+[trait] (p.69–73) Calm under sudden violence — issues one word of warning, abandons the rear to Kitou, and manages the retreat pace to prevent further dropouts.
+[rel:kitou-hayato] (p.70) Leaves him and several boys to hold off the ambush while the front line withdraws.
+
+### y3v3 p.91–94 — Event one: splitting for supplies
+[scene] (p.91) The first event begins; he directs the class from the F12 base as Sanada reads the ten locations.
+[says] (p.93) "The main unit will move to G13 and we'll form a separate detachment with four people to escort our VIP, Takemoto."
+[says] (p.93) "Just getting there wouldn't be a problem, but no matter how safe D14 is, I want to avoid a situation where we can't find the event location, or the supplies are too much to carry back all at once."
+[says] (p.93) "Yeah. The base is an easy landmark, so F13 is fine."
+[action] (p.91–94) Sends the main unit to G13 and a four-person escort with Takemoto to D14; keeps watch from F12/G12 for Class B.
+
+### y3v3 p.94 — Reassuring Yamamura
+[scene] (p.94) Notices Yamamura's anxious look as the class prepares to depart.
+[says] (p.94) "What is it? If you have a problem, I'll hear you out."
+[says] (p.94) "That's not true. Our class was half-decimated due to my poor judgment, but at least we still have half of us left. As long as half of us are still here, it means there's still a chance to win."
+[says] (p.94) "If you, Yamamura, can just stay in for even one second longer without getting out, that alone is useful."
+[says] (p.94) "Even if you can't shoot, as long as you don't get shot, that alone is a huge plus for the class. You should remember that the value is the same."
+[trait] (p.94) Reframes survival itself as contribution — calmly turns Yamamura's fear into a concrete, achievable role.
+[rel:yamamura-miki] (p.94) Reassures her that simply staying in the exam is useful.
+
+### y3v3 p.100–103 — The stalemate with Class B's "stalkers"
+[scene] (p.100) By 5 p.m. the class has secured five supply sets; Class B's main camp between G9 and G10 pins them in.
+[narrates] (p.101) Five sets: 200 rounds, 1.5 kg rice, eight cans, nuts, chicken, a few provisions, 15 liters of water — a minimal harvest from 39 crates.
+[says] (p.101) "I can't exactly pull off something like the protagonist of an American action movie. At best, I'd get taken down after defeating two or three of them."
+[says] (p.102) "That'd be rough. Attacking them from our position is a complete suicide mission."
+[says] (p.102) "Head north and Class A's there to greet you; head east and it's Class D. There's no escaping a scenario where we get pincered by Class B coming up from behind."
+[says] (p.102) "I'm sure they don't want to fight. But we'd be crashing an event they're trying to claim in safety, right?"
+[trait] (p.101–103) Clear-eyed about the hopeless position — rejects both a heroic charge and a breakout, reading the other classes' incentives precisely.
+
+### y3v3 p.104–107 — Going alone to I10
+[scene] (p.104) The final 5 p.m. event offers only D12 and I10; he decides to go after both.
+[says] (p.104) "We're staying based in the southern area and securing the supplies."
+[says] (p.104) "If we were only thinking about today, avoiding them would be fine. But tomorrow's event isn't until 11:00 AM at the earliest."
+[says] (p.105) "The other classes are the ones who desperately need supplies right now. If we group up, we'd just be helping them out, huh."
+[says] (p.105) "Sorry, but we don't have time to debate this any further. This is my decision as the one temporarily in charge of Class C."
+[says] (p.105) "If I were Ryuuen—no, if I were any other class, I'd be grateful to see Class C moving in one big clump."
+[says] (p.105) "I'll go to I10 alone."
+[says] (p.106) "Even so. I have no intention of changing my decision."
+[says] (p.106) "After that, we'll regroup in one to one and a half hours. The primary rendezvous is F12."
+[inference] (p.104–105) Rejects Matoba's group-up plan because a large, slow-moving clump would let other classes ignore them and gather supplies freely, starving Class C by morning.
+[tactic] (p.105–106) Splits the team — goes alone to I10 while Takemoto/Hashimoto take D12 — and sets F12 primary / H12 secondary rendezvous points.
+[trait] (p.104–106) Decisive and unyielding under dissent — makes the call alone and makes clear that objections carry the risk of expulsion.
+[rel:matoba-shinji] (p.104–105) Overrules his group-up and eastward-escape proposals.
+[rel:hashimoto-masayoshi] (p.106) Sends him with Takemoto to D12; brushes off his alarm at going alone.
+
+### y3v3 p.123–125 — Day two: Kōenji still alive; waiting strategy
+[scene] (p.123) Hears the first report of day two — no one is missing and Kōenji is still alive alone in D6.
+[says] (p.124) "That's our common understanding, but there's just a certain... creepiness to it. It's because I don't understand the reason why he's still here instead of retiring."
+[says] (p.124) "It's more accurate to say that's how I saw him. That's why I expected him to have already retired by this morning."
+[says] (p.124) "This place is the same as last year. There shouldn't be anything new about it for Koenji."
+[says] (p.125) "Unless the other classes make any suspicious moves, our basic strategy is to wait until an event occurs."
+[trait] (p.123–125) Finds Kōenji's continued presence "creepy" and unreadable — expected him to retire — and keeps monitoring his GPS rather than dismissing him.
+[rel:hashimoto-masayoshi] (p.123–124) Discusses Kōenji's survival with him.
+[rel:shiraishi-asuka] (p.124) She suggests leaving Kōenji alone; he agrees it is the common understanding but remains uneasy.
+
+### y3v3 p.135–137 — Reading the shrinking map; deciding on G11
+[scene] (p.135) After the perimeter is restricted, weighs how the four classes will move as the map shrinks.
+[says] (p.136) "Right now, everyone's focused on moving around the island, gathering supplies and staying healthy, but that's nothing more than a prelude."
+[says] (p.136) "It's become more likely that the class that can secure the best position for the final firefight or the one that can seize even the slightest momentum, will be the victor."
+[says] (p.137) "We're leaving now. We're going to secure the supplies and food at G11."
+[says] (p.137) "Enough idle talk. It's precisely because the enemy is closer that we must get there first."
+[inference] (p.137) Deduces the exam's endgame is a chaotic final firefight in the shrinking area; decides to strike rather than wait — he already knew the result.
+[rel:matoba-shinji] (p.137) Overrides his objection to the risky offensive.
+
+### y3v3 p.139–143 — The G11 standoff: waiting five minutes twice
+[scene] (p.139) Halts the class two or three minutes from the hidden Class B positions.
+[says] (p.139) "We'll wait here for five minutes."
+[says] (p.139) "They don't have that luxury."
+[says] (p.139) "We're not using any tactics. If we save them, the enemy will have to remain constantly on guard."
+[says] (p.139) "We'll wait another five minutes."
+[says] (p.140) "Let's advance. Once you find the enemy, you have my permission to attack without hesitation."
+[says] (p.140) "Also, Matoba, you'll take command during the battle."
+[tactic] (p.139–140) Delays twice by five minutes — saving tactics and forcing the enemy to stay constantly vigilant — then hands battlefield command to Matoba, knowing the outcome already.
+[trait] (p.139–140) Patient and coldly calculating — times the engagement for the ideal moment and stays behind to protect the VIPs rather than take command.
+[rel:matoba-shinji] (p.140) Appoints him battlefield commander to coordinate the front line.
+[rel:hashimoto-masayoshi] (p.138, 140) Manages the weapon alongside him; asks Ayanokōji to stay back and protect the VIPs.
+
+### y3v3 p.151–154 — Moving to contact Class D; the class accepts
+[scene] (p.151) After the retreat, moves east toward Class D at M10 as the map shrinks toward the center.
+[says] (p.152) "If you've seen the kind of student Ichinose is, you should understand that she can be trusted."
+[says] (p.152) "It's not like taking first place one time will get them to Class A. If they were to carelessly throw away our alliance, the backlash would be greater than you can imagine. The collapse of a class that's been built on trust would be inevitable."
+[says] (p.153) "What's wrong? Are you worried about the alliance after all?"
+[says] (p.153) "I don't mind. In fact, actively speaking your mind is a benefit to me, not a detriment."
+[trait] (p.151–153) Argues Ichinose can be trusted because betrayal would destroy the trust-based class she built; encourages Hashimoto's doubts as useful.
+[rel:hashimoto-masayoshi] (p.151–154) Persuades the class; fields Hashimoto's private doubts.
+
+### y3v3 p.154–157 — Going unarmed to negotiate
+[scene] (p.154) Hands his weapon to Matoba and walks unarmed toward Class D's standby point with Hashimoto.
+[says] (p.154) "We'll wait here for now. I'll go talk to them by myself first."
+[says] (p.154) "I suppose I'll gratefully accept your sentiment."
+[says] (p.154) "It would be the same even if we had our weapons. Standing up to them would be futile against their overwhelming numbers."
+[says] (p.156) "We have no intention of attacking."
+[says] (p.156) "But in reality, we have no desire to fight Class D. First, let us talk."
+[says] (p.156) "Let's join forces. That way, Class C and Class D can form a group of fifty."
+[says] (p.156) "Right now, we need Class D's help. And we believe we can be the strength that Class D needs."
+[action] (p.154–157) Walks unarmed into Kanzaki's gun wall, argues that beating Class C doesn't win the exam, and secures Class D's acceptance of the alliance.
+[rel:kanzaki-ryuuji] (p.155–157) Negotiates with him at gunpoint; his calm win-or-lose logic and Ichinose's prior briefing win him over.
+[rel:hashimoto-masayoshi] (p.154) Lets him come as a shield, grateful for his resolve.
+
+### y3v3 p.160–166 — The merged campsite and the talk with Kanzaki
+[scene] (p.160) The combined C–D camp; Class D treats the wary Class C students as equals, lowering their guard.
+[says] (p.160) "I'm surprised, too. It's a strength that can't be seen from class rankings or test scores alone."
+[says] (p.160) "To maintain an alliance, both sides must be equal. It would never work if the powerful party tried to dominate from above."
+[says] (p.161) "If I'm just stating my wishful thinking, I'd want them to crush each other somewhere that doesn't involve us."
+[says] (p.163) "I see. I appreciate that, but are you ok with that?"
+[says] (p.163) "Such impressive loyalty."
+[says] (p.163) "There's no 'why' to it. We were hit with a surprise attack from Ryuuen's class and lost half our classmates in an instant."
+[says] (p.165) "You're overestimating me."
+[says] (p.165) "Can't you think of the alliance as insurance, just in case?"
+[says] (p.166) "You should try to better understand just how incredible it is to be trusted."
+[inference] (p.165) Frames the alliance as insurance that divides Horikita's and Ryūen's attention — it makes Class C easier to operate, not a gift.
+[trait] (p.163–166) Humble about his own losses yet quietly pushing Kanzaki to believe in Class D's potential and trust.
+[rel:kanzaki-ryuuji] (p.163–166) Explains his motives; presses him to share Ichinose's confidence and resolve.
+[rel:ichinose-honami] (p.163) She entrusted command of Class D to him.
+[rel:shiraishi-asuka] (p.160) They discuss Class D's trust-building together.
+[rel:ayanokouji-atsuomi] (p.165) Kanzaki's admiration of his father colors his high opinion of Ayanokōji.
+
+### y3v3 p.174–177 — The alliance base: supply report and defensive strategy
+[scene] (p.174) Returns to the K13 alliance base after "business" the previous night; Hashimoto notices his dirty right hand.
+[says] (p.174) "My bad, I had some business to take care of."
+[says] (p.174) "It's nothing serious, don't worry about it."
+[says] (p.174) "If one is the VIP, it would be a bit of a hassle, but if they're guards, having them retire now may be an option."
+[says] (p.175) "The damage will only be greater if they lie to themselves and force it."
+[says] (p.176) "There's a troublesome presence in Class A from the start. Needless to say, it's Koenji."
+[says] (p.177) "He'll wait until the last possible moment without launching a hasty attack."
+[says] (p.177) "No, avoiding engagement is best for now. We'll stick to a defensive strategy."
+[inference] (p.175–177) Predicts Ryūen will not attack until the shrinking area forces a confrontation; chooses to wait for the general firefight they have been hoping for.
+[trait] (p.174–177) Calm and strategic — hides the late-night infiltration, manages the ill students, and reasons precisely about Ryūen's motives.
+[rel:kanzaki-ryuuji] (p.174–177) Receives supply and illness reports; debates Ryūen's likely moves.
+[rel:hashimoto-masayoshi] (p.174–175) Concerns about dwindling supplies.
+[rel:moriyama] (p.175) Sends him to relay his words to the unwell students.
+
+### y3v3 p.178–181 — Moving toward the center
+[scene] (p.178) The 11 a.m. event shrinks the area to a 9×9 grid (D4–L12).
+[says] (p.178) "That's right. I want to avoid the risk of pushing ourselves unnecessarily, losing stamina, or getting injured."
+[says] (p.178) "However, I want to send a few people ahead to secure the food at H10."
+[says] (p.179) "It's simply a matter of the priority of fighting changing depending on what you prioritize."
+[says] (p.181) "Moving a little closer now would be the better option. H10 isn't a bad choice."
+[says] (p.181) "Form a retrieval squad and send a small group to J12."
+[tactic] (p.178–181) Ignores treacherous supply routes, sends a light group for H10 food, and moves the alliance to H10 for flexibility as the area shifts southwest.
+[rel:kanzaki-ryuuji] (p.178–181) Agrees on the H10 move and the retrieval squads.
+
+### y3v3 p.182–184 — Ninomiya's fever; the G9 run and the GPS shutdown
+[scene] (p.182) Finds Ninomiya ill with a fever in the shade of a tree; Amikura is anxiously by her side.
+[says] (p.182) "She should retire immediately and have the school come pick her up."
+[says] (p.182) "A few students have been coughing since this morning. It's possible we might have a few more students retire between tonight and tomorrow."
+[says] (p.183) "I'll go to G9. Takemoto... and about six others, lend me a hand."
+[says] (p.184) "Class A is moving as planned. Contact the commander now and tell them to disable my personal GPS the moment the next GPS update occurs."
+[says] (p.184) "Yeah, I'm not coming back today."
+[inference] (p.183) Suspects a cold is spreading through the alliance, worsened by shared food and close proximity over three days.
+[tactic] (p.184) Goes to retrieve G9 supplies then has his GPS disabled — disappearing from the exam to execute a solo plan, with a contingency already shared with Shimazaki via Takemoto.
+[rel:ninomiya-yui] (p.182) Orders her immediate retirement.
+[rel:takemoto-shigeru] (p.184) Instructs him to disable his GPS and handle the "taken out" contingency.
+[rel:moriyama] (p.182–184) Relays his words to the ill students; accompanies the G9 run.
+[rel:amikura-mako] (p.182) Is with the ill Ninomiya.
+
+### y3v3 p.204–206 — Shaking Class A; the "adjustment"
+[scene] (p.204) Returns to H10 a little after 10 a.m., having shaken off Class A's guards overnight.
+[says] (p.204) "Yo! I got the report yesterday that you were out right at the very end and I—"
+[says] (p.204) "We kept losing points in the beginning. I'm glad I could make up for it, even just a little."
+[says] (p.204) "There was something I came to understand from infiltrating Class A. It was that Class A was slightly lacking the tension it should've had."
+[trait] (p.204) Released after the rule-violation elimination, calmly rejoins the alliance and notes Class A's lack of tension.
+[rel:hashimoto-masayoshi] (p.204) Is greeted by him and Takemoto at H10.
+
+### y3v3 p.230–232 — Sowing chaos; how he found Class A's VIPs
+[says] (p.230) "Appoint a commander, gather supplies, keep your distance, read the enemy's movements and avoid engagement."
+[says] (p.230) "They can carry things out reasonably well up to this point, but once the firefight actually starts, anyone would lose their ability to think calmly."
+[says] (p.231) "The objective wasn't to eliminate as many people as possible, but to find out who the VIPs were."
+[says] (p.231) "If they could have predicted the attack beforehand, it could've been a feint."
+[says] (p.232) "I think Class A's movements weren't bad, considering they knew they were a target."
+[says] (p.232) "Adjustments."
+[tactic] (p.230–232) Sows chaos so students panic and eliminate each other; identified Class A's three VIPs (Wang, Satō, Yukimura) by attacking at night and watching who the guards protected, then fed the names to Class B.
+[tactic] (p.231) Uses the individual GPS shutdown on the Class D VIPs (not his own class) to hide them — no rule against targeting any class.
+[rel:shiraishi-asuka] (p.230–232) Has her report the battlefield state; leaves her with Yamamura before heading to F11.
+[rel:ichinose-honami] (p.220) Walked home with her earlier.
+
+### y3v3 p.233–235 — Class A eliminated; handing over ammo
+[scene] (p.233) At 3 p.m. Class A is eliminated; Yamamura, Shiraishi, Kanzaki and the two Class D VIPs gather before him.
+[says] (p.233) "Were the remaining guards taken out?"
+[says] (p.233) "Tell me the details."
+[says] (p.233) "Then there are three left. I just took down Yoshimoto there a moment ago."
+[says] (p.233) "I cleaned up the area within my line of sight to a certain extent. But it seems the two troublesome ones are still left."
+[says] (p.234) "I figured. There's no merit whatsoever in making Ibuki the VIP."
+[says] (p.234) "Then take this."
+[says] (p.234) "It's not robbery or anything. It's just a transfer."
+[says] (p.234) "I have 22 rounds left. That should be enough."
+[says] (p.234) "Ryuuen won't be satisfied with the exam ending like this."
+[says] (p.235) "Sorry, but Beppu, could you come with me for a bit?"
+[inference] (p.234) Class A last is set (no expulsion risk), but third place and above are undecided — one surviving guard could decide it.
+[tactic] (p.234) Gives his two spare magazines to Kanzaki so the guards can protect the VIPs, keeping only 22 rounds — an intentionally small amount to enjoy the uncertain fight.
+[rel:kanzaki-ryuuji] (p.234) Transfers spare ammo to him.
+[rel:beppu-ryouta] (p.235) Takes the Class D VIP with him toward E11 to bait a confrontation.
+
+### y3v3 p.236–240 — Eliminating Ibuki; out of ammo
+[scene] (p.236) Walks into the center of E11 with Beppu; Ryūen and Ibuki emerge from the trees, Yamashita behind them.
+[says] (p.236) "That's unlikely. Yamashita isn't very athletic and she's probably nearing her limit."
+[says] (p.236) "She's fast, as expected."
+[says] (p.237) "Sounds like you were pretty successful. How many people did you take out?"
+[says] (p.237) "It would be a problem for the other three classes if Class A didn't lose. Right?"
+[says:ibuki-mio] (p.238) "Die, Ayanokouji!"
+[feat] (p.240) Reads Ibuki's predictable movement and, with the muzzle alone aimed at her new position, hits her right thigh — then finds his rifle empty.
+[trait] (p.237–240) Calculation under pressure — with ~20 rounds he processes distance, cover angles, Ibuki's habits and Ryūen's line of fire, refusing to waste shots.
+[rel:ibuki-mio] (p.238–240) Outmaneuvers and eliminates her with a thigh shot.
+[rel:beppu-ryouta] (p.236) Has him check the enemy's position, then sends him away ("I'm outta here").
+
+### y3v3 p.241–248 — The beach surrender and the damaged paintball
+[scene] (p.241) Throws down the empty weapon on the coverless beach and surrenders to Ryūen at gunpoint.
+[says] (p.241) "I surrender."
+[says] (p.241) "Impossible. There's no way I can dodge them all."
+[says] (p.242) "Correct. While we're standing here like this, Yamashita might be getting targeted by one of our guards."
+[says] (p.244) "I already told you it's impossible. The muzzle velocity of these paint guns is about 90 m/s."
+[says] (p.245) "It's a matter of perspective."
+[says] (p.246) "She's skilled at erasing her presence, she's lightweight and nimble."
+[says] (p.248) "There's nothing in the rules against it."
+[feat] (p.248) Throws a deliberately damaged paintball that bursts on Ryūen's abdomen, eliminating both — prepared over three days of trial and error on how much damage makes it rupture on impact.
+[tactic] (p.245–248) Lures Ryūen onto the coverless beach, bluffs that Yamamura is behind him to force a glance, then strikes with the concealed paintball — winning the psychological duel by making Ryūen need "all the answers."
+[trait] (p.241–248) Coldly theatrical — surrenders in appearance while manipulating every variable, "fine with losing here" because the true goal is already achieved.
+[rel:ryuuen-kakeru] (p.236–250) Duels him on the beach; Ryūen concedes defeat.
 ## y0
 
 <!-- walk: y0 → start -->

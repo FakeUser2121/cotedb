@@ -34,10 +34,32 @@ char_id: shimazaki-ikkei · class: unknown · status: unknown
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
-### y3v3 Ch.1 — depth read: opposing the mountain plan
+### y3v3 p.14–45 — Ch.1 — depth read: opposing the mountain plan
 [says] (p.31) "I'm against it. Other classes might be thinking something similar. Besides, even if we force ourselves to cross the mountain, there's no guarantee that events will necessarily occur in the northeast, is there?"
 [trait] (p.31) Cautious and analytical — rejects Sugio's plan as risky and uncertain.
 [rel:sugio-hiroshi] (p.31) Opposes his mountain-crossing proposal.
+
+### y3v3 p.31 — Opposing the mountain plan
+[scene] (p.31) Voices immediate opposition to Sugio's mountain-crossing proposal.
+[says] (p.31) "I'm against it. Other classes might be thinking something similar. Besides, even if we force ourselves to cross the mountain, there's no guarantee that events will necessarily occur in the northeast, is there?"
+[trait] (p.31) Cautious and analytical — rejects the plan as risky and built on an assumption about even event distribution.
+[rel:sugio-hiroshi] (p.31) Opposes his proposal.
+
+### y3v3 p.43–45 — Volunteering as commander
+[scene] (p.43) Steps forward when Ayanokōji is at a loss for a commander.
+[says] (p.43) "Ayanokouji. If you're lost on who to make commander, could you let me handle it?"
+[says] (p.43) "I don't know how well I'll be able to live up to your expectations, but I think I can handle the role without any issues."
+[says] (p.43) "Yeah. I don't really like moving around on a deserted island in the first place. I figured I'd be more useful if I could focus on thinking."
+[says] (p.44) "I've been entrusted with an important role; that goes without saying."
+[says] (p.44) "That's... Won't receiving miscellaneous information throw the chain of command into chaos?"
+[says] (p.45) "No, no... That actually makes it harder... Yoshida will get mad at me."
+[says] (p.45) "I can't believe you can say something like that with a straight face... But, still, Shiraishi is..."
+[says] (p.45) "No, actually... You're right, Shiraishi is fine. I'll do it properly, so don't worry."
+[says] (p.45) "...Right. Got it, let's do that."
+[trait] (p.43–45) Honors student and orthodox thinker — eager to be useful where he can think rather than roam, visibly nervous about the weight of command, and flustered when Ayanokōji routes reports through Shiraishi (whom he likes).
+[rel:ayanokouji-kiyotaka] (p.43–45) Is appointed commander; humbled when Ayanokōji takes full responsibility for the exam's outcome.
+[rel:shiraishi-asuka] (p.44–45) Is told to report all concerns to her; resists then accepts because of his feelings for her.
+[rel:yoshida-kenta] (p.45) Worries Yoshida will be angry if he reports through Shiraishi.
 ## y2v3
 
 <!-- walk: y2v3 → start -->

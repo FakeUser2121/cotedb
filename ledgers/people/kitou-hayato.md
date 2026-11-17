@@ -80,13 +80,30 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 
 <!-- walk: y3v3 Epilogue → p.256 -->
 
-### y3v3 Ch.2 — depth read: Kitou's counterattack
+### y3v3 p.46–85 — Ch.2 — depth read: Kitou's counterattack
 [says] (p.63) "Let me confirm something, just to be sure. You're aiming to take first place in this exam... Am I right to think that?"
 [says] (p.63) "A survival game... This feels like nothing more than playtime, but if we're aiming to win, I'm going to take this seriously."
 [says] (p.63) "...In other words, you're not confident?"
 [feat] (p.70) During the surprise attack, takes cover behind a tree and counterattacks, taking out an enemy and halting the assault — showing skill despite never having fired in a real fight.
 [trait] (p.63–70) Intense and serious about winning; his intuition senses Ayanokōji's lack of fighting spirit, and he acts decisively in the ambush.
 [rel:ayanokouji-kiyotaka] (p.63–70) Presses him for a commitment to win; backs up the retreat with his counterattack.
+
+### y3v3 p.55–56 — Placed in the front guard
+[scene] (p.55) Assigned to the front row as a main guard protecting the rear.
+[trait] (p.55) Recognized by Ayanokōji as one of the few students skilled in combat, placed in the front guard row.
+
+### y3v3 p.63–64 — Demanding a commitment to win
+[says] (p.63) "...Let me confirm something, just to be sure. You're aiming to take first place in this exam... Am I right to think that?"
+[says] (p.63) "A survival game... This feels like nothing more than playtime, but if we're aiming to win, I'm going to take this seriously."
+[says] (p.63) "...In other words, you're not confident?"
+[trait] (p.63–64) Intense and serious — suspicious of Ayanokōji's lack of fighting spirit and presses him for a commitment to win, his eyes sharpening at the evasive answer.
+[rel:ayanokouji-kiyotaka] (p.63–64) Confronts him about aiming for first place; unsettled when he says he cannot meet that expectation.
+
+### y3v3 p.70 — Counterattacking during the ambush
+[scene] (p.70) Takes cover behind a tree the instant the ambush begins.
+[feat] (p.70) Counterattacks from cover with skill and courage "hard to believe" from someone who had never fired in a real fight, taking out an enemy and halting the assault — giving the front line time to retreat.
+[trait] (p.70) Instinctive and composed under fire — reads the predicament before any verbal order and acts.
+[rel:ayanokouji-kiyotaka] (p.70) Is left to hold off the ambush while the front line withdraws.
 ## y2v2
 
 <!-- walk: y2v2 → start -->

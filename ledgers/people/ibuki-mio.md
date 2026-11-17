@@ -890,7 +890,7 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y3v3 Epilogue → p.256 -->
 
-### y3v3 Epilogue — depth read: the wild card falls
+### y3v3 p.233–252 — Epilogue — depth read: the wild card falls
 [scene] (p.236) Emerges from the trees beside Ryūen to confront Ayanokōji in the final shrinking area.
 [says] (p.238) "Die, Ayanokouji!"
 [says] (p.239) "Where are you even aiming? You think you're gonna hit me with a shot that pathetic? You're a lousy shot."
@@ -899,6 +899,25 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [trait] (p.236–240) Ferocious and impatient — relishes the frontal fight, taunts her opponent, and rages at being eliminated in a game she never wanted to play.
 [rel:ayanokouji-kiyotaka] (p.236–240) Is outmaneuvered and eliminated by him.
 [rel:ryuuen-kakeru] (p.241) Ryūen reveals she had wanted to gamble everything on a shot at a Class D VIP rather than the 2-v-1.
+
+### y3v3 p.212–215 — Ibuki's grudge against Horikita
+[scene] (p.212) Breaks into a fierce smile on learning Class A is behind them.
+[says] (p.212) "Because I've finally met the opponent I'm supposed to take down."
+[says] (p.213) "I've just been itching for a fight... because I wanted so, so badly to see that look of frustration on that Horikita girl's face!"
+[says] (p.215) "All my pent-up grudges, I'm gonna pay them back right here, right now!"
+[says] (p.215) "You're my support."
+[says] (p.215) "As long as I can take down Horikita, that's all that matters!"
+[trait] (p.212–215) Ferocious and single-minded — cares nothing for the exam's result, only for beating Horikita, and drags Ishizaki in as her shield to charge the enemy.
+[rel:ishizaki-daichi] (p.215) Forces him to be her shield; they charge together.
+[rel:horikita-suzune] (p.213–215) Obsessed with seeing the look of frustration on Horikita's face.
+
+### y3v3 p.236–240 — Ibuki's last stand and elimination
+[says] (p.238) "Die, Ayanokouji!"
+[says] (p.239) "Where are you even aiming? You think you're gonna hit me with a shot that pathetic? You're a lousy shot."
+[says] (p.240) "Agh, dammit! So this is how it ends!? This is so fucking annoying!! I told you I didn't want to do this!"
+[feat] (p.238–240) Suppresses Ayanokōji with a submachine-gun spray and moves between the trees with animal speed, but is eliminated by a paintball to the thigh when she misreads his aim.
+[trait] (p.236–240) Ferocious and impatient — relishes the frontal fight, taunts her opponent, and rages at being eliminated.
+[rel:ayanokouji-kiyotaka] (p.238–240) Is outmaneuvered and eliminated by him.
 ## y2v2
 
 <!-- walk: y2v2 → start -->

@@ -52,16 +52,24 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
-### y3v3 Ch.3 — depth read: Yamamura's fear and reassurance
+### y3v3 p.86–118 — Ch.3 — depth read: Yamamura's fear and reassurance
 [says] (p.94) "It's just... it's scary, isn't it? If I get separated, I won't have any idea where my allies are or where the enemy is, right?"
 [trait] (p.94) Anxious about being separated and feeling useless after Class C lost Nishikawa (a VIP); nods with resolve after Ayanokōji's reassurance.
 [rel:ayanokouji-kiyotaka] (p.94) Is reassured by him that simply surviving is a contribution.
 
-### y3v3 Epilogue — depth read: the unseen final guard
+### y3v3 p.233–252 — Epilogue — depth read: the unseen final guard
 [scene] (p.233) Arrives out of breath with Shiraishi, Kanzaki and the two Class D VIPs after Ayanokōji's solo action; too exhausted to speak.
 [trait] (p.233, 246) Survives to the final stage as Class C's last guard and is named by Ayanokōji as the ideal person to sneak up silently — light, nimble and skilled at erasing her presence — which makes the bluff against Ryūen credible.
 [rel:ayanokouji-kiyotaka] (p.246) Is named as the guard who might be positioned behind Ryūen, though she was never actually there.
 [rel:ryuuen-kakeru] (p.246) Is used as a phantom threat to force him to turn around in the final standoff.
+
+### y3v3 p.94 — Yamamura's fear of being separated
+[scene] (p.94) Looks anxious as the class prepares to split into supply teams.
+[says] (p.94) "It's just... it's scary, isn't it? If I get separated, I won't have any idea where my allies are or where the enemy is, right?"
+[says] (p.94) "And there's nothing I can do to be of use..."
+[says] (p.94) "Is that... really all it takes?"
+[trait] (p.94) Anxious about being separated and feeling useless after Class C lost VIP Nishikawa; gives a small, definite nod after Ayanokōji's reassurance.
+[rel:ayanokouji-kiyotaka] (p.94) Is reassured by him that simply surviving is a contribution.
 ## y2v4
 
 <!-- walk: y2v4 → start -->

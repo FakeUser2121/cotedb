@@ -403,7 +403,7 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 
 <!-- walk: y3v3 Epilogue → p.256 -->
 
-### y3v3 Ch.6 — depth read: Shiina's resolve
+### y3v3 p.167–196 — Ch.6 — depth read: Shiina's resolve
 [scene] (p.171) Walking alone on the beach, smiling at the waves, when Ryūen approaches.
 [says] (p.172) "Oh my, good morning, Ryuuen-kun."
 [says] (p.172) "Yes. We believe in your words, Ryuuen-kun and we will follow you, now and always."
@@ -414,11 +414,25 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [trait] (p.172–173) Calm and perceptive — reads Ryūen's state of mind, uses a novel metaphor to urge preparation for any outcome, and pledges unwavering loyalty even under a "cruel choice."
 [rel:ryuuen-kakeru] (p.171–173) Reassures and advises him on the beach; declares she'll follow him no matter what.
 
-### y3v3 Epilogue — depth read: found in good spirits
+### y3v3 p.233–252 — Epilogue — depth read: found in good spirits
 [scene] (p.251) Is not seen once during the island exam; on the disembarkation beach Ayanokōji spots her in the distance talking with Kaneda.
 [trait] (p.251) Appears uninjured and in good spirits, continuing the reconciliation begun in the library — a quiet sign of the friends she has made.
 [rel:ayanokouji-kiyotaka] (p.251) Is searched for by him after the exam; he wonders whether to go over but is swept up by Yoshida and Hashimoto.
 [rel:kaneda-satoru] (p.251) Is seen talking with him on the beach.
+
+### y3v3 p.171–173 — The beach conversation with Ryūen
+[scene] (p.171) Walks alone smiling at the waves when Ryūen approaches on the beach.
+[says] (p.172) "Oh my, good morning, Ryuuen-kun."
+[says] (p.172) "Since we're at the beach, I was taking a little walk."
+[says] (p.172) "I heard that there is a high probability that Class C and Class D have joined forces. What do you intend to do?"
+[says] (p.172) "Yes. We believe in your words, Ryuuen-kun and we will follow you, now and always."
+[says] (p.172) "Ryuuen-kun, if the beginning of a novel you were reading was hopelessly pessimistic, what kind of ending would you imagine?"
+[says] (p.172) "That's true. The structure of a story is such that readers are most moved when it turns from darkness to light."
+[says] (p.173) "That it's best to be mentally prepared for whatever might happen."
+[says] (p.173) "If it would be for the sake of everyone... for the sake of the Class B that is so important to me..."
+[says] (p.173) "In that case—I won't hesitate. No matter who my opponent is, or what the outcome may be."
+[trait] (p.172–173) Calm and perceptive — reads Ryūen's state of mind, uses a novel metaphor to urge preparation for any outcome, and pledges loyalty even under a "cruel choice."
+[rel:ryuuen-kakeru] (p.171–173) Reassures and advises him; holds his sharp gaze without looking away.
 ## y0
 
 <!-- walk: y0 → start -->

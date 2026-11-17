@@ -16,14 +16,14 @@ import unicodedata
 
 os.chdir("/home/user3/Documents/unsafe/cote")
 
-VOL_TOKEN_RE = re.compile(r"\b((?:y\d+v|v)\d+(?:\.\d+)?|v0)\b")
+VOL_TOKEN_RE = re.compile(r"\b((?:y\d+v|v)\d+(?:\.\d+)?|v0|y0)\b")
 SKIP_LINE_RE = re.compile(r"(?i)^(goldenagato|royalmtls?|legacyemtls|page\|\d+)")
 
 
 def fold_vol(stem):
     s = unicodedata.normalize("NFKD", stem.lower())
     s = "".join(c for c in s if not unicodedata.combining(c))
-    return s.replace("cote", "").replace(" ", "").replace(".", "")
+    return s.replace("cote", "").replace(" ", "").replace(".", "").replace("y0", "v0")
 
 
 def vol_files():

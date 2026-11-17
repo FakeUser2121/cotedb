@@ -104,7 +104,7 @@ char_id: morishita-ai · class: Class 2-A · status: unknown
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
-### y3v3 Ch.2 — depth read: Morishita's complaints and exhaustion
+### y3v3 p.46–85 — Ch.2 — depth read: Morishita's complaints and exhaustion
 [says] (p.56) "I'm not pleased with being placed in the middle row, Ayanokouji Kiyotaka. I'm the main strength of this class."
 [says] (p.56) "To demote me and place a traitor in the front row instead... It seems we've been saddled with an incompetent leader."
 [says] (p.58) "This special exam is on a deserted island, so the rewards are pretty huge, y'know."
@@ -112,6 +112,59 @@ char_id: morishita-ai · class: Class 2-A · status: unknown
 [trait] (p.56–74) Complains about her placement and calls others names (traitor, "tissue paper"), but lags furthest behind on the retreat — an "Amazoness of the Dense Forest" who overexerts herself.
 [rel:ayanokouji-kiyotaka] (p.56) Complain about her middle-row placement.
 [rel:hashimoto-masayoshi] (p.56–58) Calls him a traitor and argues with him.
+
+### y3v3 p.34 — The surplus-weapons question
+[scene] (p.34) Approaches Ayanokōji after he checks the weapon count.
+[says] (p.34) "If we start with zero analysts, it looks like we can take two extra guns; what will you do?"
+[says] (p.34) "So you don't intend to take any surplus. At times like this, human psychology makes us want to prepare at least a little insurance; one tends to get greedy."
+[trait] (p.34) Thinks about the extra-gun option and voices the natural "insurance" instinct, then accepts the reasoning against excess luggage.
+
+### y3v3 p.36–38 — Naming Hashimoto as the sacrifice
+[scene] (p.36) Proposes that Hashimoto be the class's sacrifice if they lose.
+[says] (p.36) "Hashimoto Masayoshi, it seems Ayanokouji Kiyotaka's policy is already decided. I understand his decision without even receiving an explanation from him."
+[says] (p.36) "If we end up receiving the penalty, then Hashimoto Masayoshi will be the first sacrifice to protect the classmates. This would be the fairest and most balanced conclusion."
+[says] (p.36) "Is that so? I am speaking with absolute, total seriousness, you know? Don't you think everyone other than Hashimoto Masayoshi would happily accept this proposal?"
+[says] (p.36) "See? Everyone's saved. No unfortunate victims."
+[says] (p.36) "That can't be helped. You'll protect your classmates and become a star. A hero. Goodbye, Hashimoto Masayoshi. I will make sure to remember your existence for at least a week."
+[says] (p.37) "Tch, you noticed?"
+[says] (p.38) "However, if that really happens, you should offer yourself for expulsion through self-sacrifice, right, Hashimoto Masayoshi?"
+[trait] (p.36–38) Needling and theatrical — pushes Hashimoto as the "fairest" sacrifice with a smirk, enjoys provoking him, but her barbs are at least partly performance; later concedes Ayanokōji's own declaration should stand for now.
+[rel:hashimoto-masayoshi] (p.36–38) Repeatedly names him as the expulsion sacrifice.
+[rel:ayanokouji-kiyotaka] (p.37–38) Accepts his self-declaration as the sacrifice "for now" out of consideration for the class's mental burden.
+
+### y3v3 p.40, 43 — Pushing for the commander to be chosen first; declining a guard role
+[scene] (p.40) Steps forward as the class begins assigning roles.
+[says] (p.40) "The commander is an extremely important position. They must survey the entire battlefield, anticipate other classes' movements and above all, determine the timing for using tactics. If so, we should determine it first while we're free to choose from all thirty-seven students in our class."
+[says] (p.43) "Reason? Because I'll participate as a guard. When I see an uninhabited island, my old blood stirs no matter what. Yes, back then, I was known and feared as the Warrior Woman of the Dense Forest—no, this is an old story, please forget it. It's not worth discussing."
+[trait] (p.40, 43) Articulate about the commander's importance and self-dramatizing about her "Warrior Woman" past — a tall tale Ayanokōji writes off as one hundred percent fiction.
+
+### y3v3 p.51 — Demanding weapons practice
+[says] (p.51) "So why don't we get on with a lecture on how to handle weapons and stuff?"
+[says] (p.51) "I'm in agreement with that opinion."
+[says] (p.51) "That couldn't possibly be the case. It's merely that this morning, I had an excess of energy and repeatedly dashed through the ship at full speed for about an hour. Perhaps that's why I've accumulated some slight fatigue."
+[trait] (p.51) Pushes for weapons training while pretending her exhaustion comes from a burst of energy the previous morning — the self-styled Amazoness of the Dense Forest imposing a burden on herself.
+
+### y3v3 p.56–58 — Complaining about her formation placement
+[scene] (p.56) Approaches Ayanokōji, weapon in hand, angry at being placed in the middle row.
+[says] (p.56) "I'm not pleased with being placed in the middle row, Ayanokouji Kiyotaka. I'm the main strength of this class."
+[says] (p.56) "To demote me and place a traitor in the front row instead... It seems we've been saddled with an incompetent leader. Let us go, Yamamura Miki."
+[says] (p.56) "Oh? So in addition to a traitor, you've appointed tissue paper to the front row. You are beyond saving."
+[says] (p.58) "The exam's only just begun. There's no need to rush."
+[trait] (p.56–58) Loudly complains about her placement, insults Hashimoto and Yamamura, yet sits down for a "complete break" and tells the impatient Hashimoto there is no rush — more bluster than action.
+[rel:hashimoto-masayoshi] (p.56) Calls him a traitor for being in the front row.
+[rel:yamamura-miki] (p.56) Drags her along, calling her "tissue paper."
+
+### y3v3 p.66–67 — Doubting the alliance and Hashimoto
+[says] (p.66) "Just when this pain-in-the-ass exam starts, you drop a bombshell like this on us. And the fact that Hashimoto's so into the idea is shady as hell."
+[says] (p.67) "How about we discipline them?"
+[trait] (p.66–67) Suspicious that Hashimoto backed the alliance from the start, and delighted when others share her doubt — the "See?" of someone vindicated.
+[rel:hashimoto-masayoshi] (p.66–67) Suspects he was briefed in advance and wants him disciplined.
+
+### y3v3 p.101–103 — Morishita calls Class B "stalkers"
+[says] (p.101) "Being pinned down like this is just so unpleasant. They're practically stalkers at this point. Stalkers."
+[says] (p.101) "Just that many? How pathetic. If it were me, the so-called 'Amazoness of the Jungle,' I could easily dispose of a hundred of them."
+[says] (p.101) "You're such a stickler for details. 'Jungle' and 'dense forest' mean basically the same thing."
+[trait] (p.101–103) Fumes at Class B's suffocating presence and boasts about fighting a hundred enemies — bluster Ayanokōji notes is wasted breath.
 ## y2v5
 
 <!-- walk: y2v5 → start -->

@@ -1541,7 +1541,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y3v3 Epilogue → p.256 -->
 
-### y3v3 Ch.7 — depth read: Sudō protects Satō
+### y3v3 p.197–232 — Ch.7 — depth read: Sudō protects Satō
 [says] (p.198) "What are we gonna do, Suzune? About him."
 [says] (p.198) "Yesterday seriously had me in a cold sweat."
 [says:satou-maya] (p.219) "Isn't it because you're here, Sudou-kun?"
@@ -1551,6 +1551,49 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:satou-maya] (p.217–220) Saves her from being eliminated; recognizes she's the VIP Class B is targeting.
 [rel:horikita-suzune] (p.198–203) Discusses Ayanokōji; is held back from chasing him.
 [rel:ayanokouji-kiyotaka] (p.198) Deeply resentful of his surprise attack on Class A.
+
+### y3v3 p.95–99 — Sudō's read and his vow
+[scene] (p.95) Crosses his arms and approaches Horikita after Ike's group mocks Class C's defeat.
+[says] (p.95) "Suzune. About that fight between Class B and Class C just now. Honestly, I was surprised."
+[says] (p.96) "Yeah. But still, for Ayanokouji to get taken down so easily..."
+[says] (p.99) "Well, let's just focus on what we can do. If it comes to a straight-up fight, we'll crush 'em, whether it's Class B, Class D... or even Ayanokouji. Right?"
+[trait] (p.95–99) Bashful around Horikita (a shy hand on her shoulder) but bluntly confident in his physical stamina — ready to protect the class with all his might.
+[rel:horikita-suzune] (p.95–99) Reassures her with a vow to crush any opponent; she gives a short reply as they move north.
+[rel:ike-kanji] (p.95) Overhears Ike laughing at Ayanokōji's defeat.
+
+### y3v3 p.198–203 — Protecting Satō on the final day
+[scene] (p.198) Approaches Horikita about Ayanokōji's overnight solo raid on their camp.
+[says] (p.198) "What are we gonna do, Suzune? About him."
+[says] (p.198) "Yesterday seriously had me in a cold sweat."
+[says] (p.199) "It seems several people managed to coordinate on the spot and form a defense to protect the three VIPs."
+[says] (p.203) "I'm goin' too—"
+[says] (p.203) "But I'm confident I can keep up with him. He's got a lot of luggage, too."
+[trait] (p.198–203) Bloodthirsty toward Ayanokōji for the raid yet protective of Satō; held back from chasing Ayanokōji by Horikita.
+[rel:horikita-suzune] (p.198–203) Discusses Ayanokōji; is stopped from dashing after him.
+[rel:ayanokouji-kiyotaka] (p.198) Deeply resentful of his surprise attack on Class A.
+
+### y3v3 p.217–220 — Saving Satō from the barrage
+[feat] (p.217–220) Pulls Satō out of a paintball shower and leaps in front of the enemy to draw fire aimed at her, sacrificing himself to protect the VIP.
+[says] (p.217) "Are you okay?!"
+[says] (p.217) "They're comin' at us with everything they've got. Are they plannin' on using up all their ammo here?!"
+[says:satou-maya] (p.219) "Isn't it because you're here, Sudou-kun?"
+[says] (p.219) "Nah, it's been like this since before I jumped in. In other words, doesn't that mean Class B knew you were the VIP before we even started fightin'?"
+[says] (p.219) "If that's what it takes to win, maybe that's what I should do. But I'm not gonna let 'em take you out this easily... We just gotta fight!"
+[trait] (p.217–220) Fiercely protective of Satō — willing to sacrifice himself — and sharp enough to realize Class B already knew she was the VIP.
+[rel:satou-maya] (p.217–220) Saves her repeatedly; recognizes she is the VIP Class B is targeting.
+[note] (p.219) Satō was hiding in the tent during Ayanokōji's raid — the likely moment her VIP identity was exposed.
+
+### y3v3 p.216 — Sudō's ace-level last stand
+[says] (p.216) "I'm out of ammo! Let me reload!"
+[says] (p.216) "Oh, for real? That's lucky...! Just two more!"
+[says] (p.216) "That's Suzune for ya—"
+[says] (p.216) "They're closing in! You stay hidden!"
+[says] (p.216) "I won't let you get away!"
+[says] (p.216) "Tch! I'm leaving this place to you guys!"
+[feat] (p.215–216) Takes out five opponents in an "ace-level performance," protected and supplied by VIP Yukimura, then breaks past the flank to chase two Class B students and defend Satō.
+[trait] (p.216) In his element — blessed with great physical ability and polished skill, he fights without holding back and delights in the class's successes.
+[rel:yukimura-teruhiko] (p.216) The VIP hands him a loaded magazine — support that does not violate the rules.
+[rel:satou-maya] (p.216) Leaves orders to protect her before chasing Class B.
 ## y2v2
 
 <!-- walk: y2v2 → start -->

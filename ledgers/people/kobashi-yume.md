@@ -24,6 +24,14 @@ char_id: kobashi-yume · class: unknown · status: unknown
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
+### y3v3 p.158–159 — Kobashi relays Ichinose's instructions
+[scene] (p.158) Class D's VIP, listening to the G11 battle and passing Ichinose's words to the class.
+[says] (p.158) "We're just going to keep our distance like we've been doing, right?"
+[says] (p.159) "At this rate, Class C might just end up losing."
+[says] (p.159) "...Does that mean we're supposed to help Class C?"
+[trait] (p.158–159) Voices the safe, standard strategy and the worry that Class C will lose, before Ichinose corrects her; hurries off to relay the order not to attack first.
+[rel:ichinose-honami] (p.158–159) Receives and conveys her instructions.
+[rel:kanzaki-ryuuji] (p.159) Hurries off to get him with Ichinose's message.
 ## y2v4
 
 <!-- walk: y2v4 → start -->

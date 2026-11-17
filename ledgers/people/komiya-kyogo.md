@@ -125,6 +125,16 @@ char_id: komiya-kyogo · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y3v3 Epilogue → p.256 -->
 
+### y3v3 p.128–131 — Komiya's bravado and downfall
+[scene] (p.128) Leads Class B's ten-person E9 supply group, accompanied by VIP Morofuji.
+[says] (p.128) "You say he's comin' our way, but it's just one guy, right? Some scrub like that doesn't even know where we are, so there's no need to sweat it."
+[says] (p.129) "See, I told ya you're worryin' too much. If we run into him, I'll put a round right through his heart."
+[says] (p.129) "Where are you, Koenji!"
+[says] (p.129) "Here!? It's over here, huh!?"
+[says] (p.131) "Why are you attacking us, Koenji!"
+[trait] (p.128–131) Overconfident and loud — dismisses the lone Kōenji as a "scrub," fires his shotgun into the forest to bait him, and is the first cut down; his bragging reveals the group's position.
+[rel:morofuji-rika] (p.128) Leads the guard group escorting her.
+[rel:kouenji-rokusuke] (p.129–131) Taunts him; is eliminated by him first.
 ## y2v2
 
 <!-- walk: y2v2 → start -->

@@ -15,6 +15,10 @@ char_id: tamiya-emi · class: unknown · status: unknown
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
+### y3v3 p.40 — Backing Ayanokōji as commander
+[scene] (p.40) Weighs in during the role-assignment discussion.
+[says] (p.40) "I agree with Morishita-san too, I guess. It will likely be a tough fight without the commander's instructions. Wouldn't Ayanokouji-kun be the natural choice? He is the leader, after all."
+[trait] (p.40) Backs Ayanokōji for commander on the grounds that he is the leader — a simple, reasonable view that contrasts with Hashimoto's guard argument.
 ## y2v12
 
 <!-- walk: y2v12 → start -->
