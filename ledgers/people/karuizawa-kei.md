@@ -1574,3 +1574,6 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 
 <!-- walk: y2v11 Epilogue → p.223 -->
+
+
+<!-- walk: y2v12 Epilogue → p.228 -->

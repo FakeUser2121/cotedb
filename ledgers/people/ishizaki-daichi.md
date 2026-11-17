@@ -768,3 +768,6 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 
 <!-- walk: y2v11 Epilogue → p.223 -->
+
+
+<!-- walk: y2v12 Epilogue → p.228 -->

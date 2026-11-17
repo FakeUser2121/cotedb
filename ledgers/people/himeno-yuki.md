@@ -117,3 +117,6 @@ char_id: himeno-yuki · class: Class 2-A · status: unknown
 
 
 <!-- walk: y2v10 Epilogue → p.235 -->
+
+
+<!-- walk: y2v12 Epilogue → p.228 -->

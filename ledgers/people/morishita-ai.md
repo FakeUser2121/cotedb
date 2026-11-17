@@ -98,3 +98,6 @@ char_id: morishita-ai · class: Class 2-A · status: unknown
 
 
 <!-- walk: y2v11 Epilogue → p.223 -->
+
+
+<!-- walk: y2v12 Epilogue → p.228 -->

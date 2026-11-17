@@ -1760,3 +1760,6 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 
 <!-- walk: y2v11 Epilogue → p.223 -->
+
+
+<!-- walk: y2v12 Epilogue → p.228 -->

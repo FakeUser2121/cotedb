@@ -1167,3 +1167,6 @@ aliases used for anchors: sakura, airi, sakura-san
 
 
 <!-- walk: y2v9.5 Epilogue → p.219 -->
+
+
+<!-- walk: y2v12 Epilogue → p.228 -->

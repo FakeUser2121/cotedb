@@ -3273,3 +3273,10 @@ hash stable edd9335c73121a3699ded619bfdf69f3.
 Volume 2, Volume 11 (pp.11–223): two-person interviews; exchange meeting;
 Ayanokōji's plans for Kei/Ichinose. Ledgers touched: volume + 85 people.
 verify ALL PASS; build/gate/check OK; hash stable dc7c7824c249172c296c5e251febbfc8.
+
+### y2v12 — walked, shipped
+
+Volume 2, Volume 12 (pp.12–228): unusual end-of-year special exam; one-on-one
+battles; Ichinose vs Sakayanagi; Ayanokōji's message via Ryūen. Ledgers touched:
+volume + 135 people. verify ALL PASS; build/gate/check OK; hash stable
+c36336d4930122ca663b6d8f825a1c88. Year 2 now complete.

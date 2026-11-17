@@ -137,3 +137,6 @@ char_id: amikura-mako · class: Class 1-B · status: minor (allies)
 
 
 <!-- walk: y2v10.25 Epilogue → p.10 -->
+
+
+<!-- walk: y2v12 Epilogue → p.228 -->

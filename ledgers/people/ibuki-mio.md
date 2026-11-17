@@ -979,3 +979,6 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 
 <!-- walk: y2v11 Epilogue → p.223 -->
+
+
+<!-- walk: y2v12 Epilogue → p.228 -->

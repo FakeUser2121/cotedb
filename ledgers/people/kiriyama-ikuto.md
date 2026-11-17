@@ -190,3 +190,14 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 
 
 <!-- walk: y2v9.5 Epilogue → p.219 -->
+
+## y2v12
+
+<!-- walk: y2v12 → start -->
+
+### y2v12 pp.12-228 — Full volume
+
+[scene] (p.12) Appears in this volume.
+
+
+<!-- walk: y2v12 Epilogue → p.228 -->

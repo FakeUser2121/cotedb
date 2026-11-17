@@ -154,3 +154,6 @@ char_id: miyamoto-soshi · class: Class 1-D · status: minor
 
 
 <!-- walk: y2v10 Epilogue → p.235 -->
+
+
+<!-- walk: y2v12 Epilogue → p.228 -->

@@ -64,3 +64,14 @@ char_id: tsukasaki-taiga · class: Class 2-A · status: minor
 
 
 <!-- walk: y2v4.5 Epilogue → p.290 -->
+
+## y2v12
+
+<!-- walk: y2v12 → start -->
+
+### y2v12 pp.12-228 — Full volume
+
+[scene] (p.12) Appears in this volume.
+
+
+<!-- walk: y2v12 Epilogue → p.228 -->

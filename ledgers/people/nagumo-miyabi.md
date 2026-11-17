@@ -660,3 +660,6 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 
 <!-- walk: y2v11 Epilogue → p.223 -->
+
+
+<!-- walk: y2v12 Epilogue → p.228 -->

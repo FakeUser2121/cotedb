@@ -16,3 +16,6 @@ char_id: kosumi-dan · class: unknown · status: unknown
 
 
 <!-- walk: y2v11 Epilogue → p.223 -->
+
+
+<!-- walk: y2v12 Epilogue → p.228 -->

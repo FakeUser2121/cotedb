@@ -292,3 +292,6 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 
 
 <!-- walk: y2v11 Epilogue → p.223 -->
+
+
+<!-- walk: y2v12 Epilogue → p.228 -->

@@ -426,3 +426,6 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 
 
 <!-- walk: y2v10 Epilogue → p.235 -->
+
+
+<!-- walk: y2v12 Epilogue → p.228 -->

@@ -974,3 +974,6 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 
 
 <!-- walk: y2v11 Epilogue → p.223 -->
+
+
+<!-- walk: y2v12 Epilogue → p.228 -->

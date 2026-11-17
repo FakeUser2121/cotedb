@@ -103,3 +103,6 @@ char_id: shiranami-chihiro · class: Class 1-B · status: minor (allies)
 
 
 <!-- walk: y2v10 Epilogue → p.235 -->
+
+
+<!-- walk: y2v12 Epilogue → p.228 -->
