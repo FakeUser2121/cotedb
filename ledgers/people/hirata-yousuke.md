@@ -1663,10 +1663,6 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y3v3 → start -->
 
-### y3v3 pp.12-256 — Full volume
-
-[scene] (p.12) Appears in this volume.
-
 ### y3v3 pp.222–230 — Depth review: the honor student's restraint
 [scene] (p.222) Engages Hashimoto in a close-range paintball duel in the forest after Class A's GPS is jammed.
 [feat] (p.228) Eliminates Hashimoto with a slightly faster shot to the chest.
@@ -1677,6 +1673,13 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [note] (p.222–229) Hirata's internal state is shown only through Hashimoto's observations; the narration never enters his head, so no direct quote is attributed to him in this duel.
 
 <!-- walk: y3v3 Epilogue → p.256 -->
+
+### y3v3 Ch.7 — depth read: Hirata's killing intent
+[says] (p.222) "Not bad, Hirata... You're way more skilled than I thought. There's no hesitation or mercy in your aim." — Hashimoto
+[trait] (p.222–229) Fights with "naked killing intent, unbecoming of a mere honor student," driven by resentment over Ayanokōji's transfer; after defeating Hashimoto he raises the gun on the already-out opponent but stops before firing.
+[rel:hashimoto-masayoshi] (p.222–229) Duels him and wins; nearly fires a follow-up shot but restrains himself.
+[rel:ayanokouji-kiyotaka] (p.223) His anger at being "abandoned" by the transfer fuels his aggression (noted by Hashimoto's taunt).
+[note] (p.229) Hirata's internal state is shown only through Hashimoto's observations; no Hirata line is quoted in the duel.
 ## y2v2
 
 <!-- walk: y2v2 → start -->

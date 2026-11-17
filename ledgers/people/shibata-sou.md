@@ -224,13 +224,13 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 
 <!-- walk: y3v3 → start -->
 
-### y3v3 pp.12-256 — Full volume
-
-[scene] (p.12) Appears in this volume.
-
-
 <!-- walk: y3v3 Epilogue → p.256 -->
 
+### y3v3 Ch.5 — depth read: Shibata's interrupted greeting
+[says] (p.162) "H-Hey, Ayanokouji. Sorry to bother you before you eat, but you got a sec?"
+[says] (p.162) "Uh... how should I put it? We're allies now, right? So, I just wanted to say hi, or something..."
+[trait] (p.162) Nervous and eager to befriend Ayanokōji now that they're allies; cut off by Kanzaki before he can ask his question.
+[rel:ayanokouji-kiyotaka] (p.162) Tries to greet him at the campfire; flees when Kanzaki intervenes.
 ## y0
 
 <!-- walk: y0 → start -->

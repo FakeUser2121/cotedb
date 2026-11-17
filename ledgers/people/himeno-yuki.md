@@ -20,11 +20,6 @@ char_id: himeno-yuki · class: Class 2-A · status: unknown
 
 <!-- walk: y3v3 → start -->
 
-### y3v3 pp.12-256 — Full volume
-
-[scene] (p.12) Appears in this volume.
-
-
 <!-- walk: y3v3 Epilogue → p.256 -->
 
 ## y0

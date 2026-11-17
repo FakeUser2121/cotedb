@@ -748,10 +748,6 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y3v3 → start -->
 
-### y3v3 pp.12-256 — Full volume
-
-[scene] (p.12) Appears in this volume.
-
 ### y3v3 pp.131–134 — Depth review: the unreachable lone wolf
 [scene] (p.131) Appears unseen and eliminates eight Class B guards around Morofuji in under thirty seconds.
 [says] (p.133) "You're the VIP, aren't you?"
@@ -763,6 +759,18 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:morofuji-rika] (p.131–134) Spares her with a warning dressed as kindness.
 
 <!-- walk: y3v3 Epilogue → p.256 -->
+
+### y3v3 Ch.4 — depth read: Kōenji's casual massacre
+[scene] (p.131) Ambushes Class B's E9 supply group from the forest with unseen, precise shots.
+[says] (p.133) "You're the VIP, aren't you? If you were to fight back, you would simply be eliminated for nothing."
+[says] (p.133) "There is nothing to it, is there? I am from Class A, you are from Class B. We're enemies."
+[says] (p.133) "I enjoyed the uninhabited island for a day and thinking I had my fill, was on my way back to the ship—but I thought I'd give this a try for the novelty of it."
+[says] (p.134) "For me, winning or losing this special exam is a matter of supreme indifference."
+[says] (p.134) "Very well. I shall take my leave now. I trust you will take care not to get in my way again."
+[feat] (p.130–134) Eliminates six of Class B's eight guards in under thirty seconds without being seen, then spares VIP Morofuji and lets her keep the supplies.
+[trait] (p.133–134) Detached and theatrical — fights purely for amusement, indifferent to winning, yet his "kindness" (sparing Morofuji) doubles as a stern warning.
+[rel:morofuji-rika] (p.133–134) Spares her and lets her take the supplies.
+[rel:komiya-kyogo] (p.128–133) Is baited by his shouting, which reveals their position; takes him out first.
 ## y2v2
 
 <!-- walk: y2v2 → start -->

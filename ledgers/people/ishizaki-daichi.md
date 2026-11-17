@@ -622,11 +622,6 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y3v3 → start -->
 
-### y3v3 pp.12-256 — Full volume
-
-[scene] (p.12) Appears in this volume.
-
-
 <!-- walk: y3v3 Epilogue → p.256 -->
 
 ## y2v2

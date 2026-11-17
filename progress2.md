@@ -3332,3 +3332,14 @@ remaining chapters pending. NOT YET SHIPPED as depth.
   - Ch.6 (pp.182–210) done: volume beats + Ayanokōji, Hiyori, Kaneda, Hoshinomiya, Morishita; verified (175 says ALL PASS).
   - Epilogue (pp.231–247) + short stories done: volume beats + Horikita, Ishigami (block created), Karuizawa, Ichinose SS, Hiyori SS; verified (233 says ALL PASS).
   - y3v2 DEPTH COMPLETE: all 9 sections read chapter by chapter, 233 verified quotes, 63 placeholder stubs removed. Ayanokōji's y3v2 cards now 6 real scenes (0 stubs). verify/gate/check OK, hash stable 0adbcd0fd10a63a5965b7e604216805b.
+
+### y3v3 — DEPTH REDO IN PROGRESS (chapter by chapter)
+  - Prologue (existing sample) + Ch.1 (pp.14–45, two halves) done: volume beats + Ayanokōji, Hashimoto, Shiraishi, Sugio, Shimazaki; verified (39 says ALL PASS).
+  - Ch.2 (pp.46–85, two halves) done: volume beats + Ayanokōji, Kitou, Morishita, Hashimoto, Yoshida, Shiraishi; verified (62 says ALL PASS).
+  - Ch.3 (pp.86–118) done: volume beats + Ayanokōji, Ryūen, Horikita, Hashimoto, Yamamura; verified (87 says ALL PASS).
+  - Ch.4 (pp.119–150) done: volume beats + Ayanokōji, Kōenji, Ryūen, Kanzaki; verified (106 says ALL PASS).
+  - Ch.5 (pp.151–166) done: volume beats + Ayanokōji, Kanzaki, Ichinose, Hashimoto, Shiraishi, Shibata; verified (128 says ALL PASS).
+  - Ch.6 (pp.167–196) done: volume beats + Ayanokōji, Ryūen, Shiina, Kanzaki, Hashimoto, Ninomiya; verified (156 says ALL PASS).
+  - Ch.7 (pp.197–232, two halves) done: volume beats + Ayanokōji, Horikita, Sudō, Hirata, Hashimoto, Shiraishi, Satō; verified (186 says ALL PASS).
+  - Epilogue (pp.233–252) done: volume beats already present; depth rows for Ayanokōji, Ryūen, Ibuki, Shiraishi, Yamamura, Kanzaki, Beppu, Hashimoto, Hiyori; verified (223 says ALL PASS).
+  - y3v3 DEPTH REDO COMPLETE: all 9 sections read chapter by chapter, 223 verified quotes, 92 placeholder stubs removed. Epilogue depth rows added for 9 characters. verify/gate/check OK, hash stable 3a1de15fcba81419f7cb00a5bd55ba0c.

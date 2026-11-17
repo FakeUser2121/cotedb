@@ -1557,13 +1557,18 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y3v3 → start -->
 
-### y3v3 pp.12-256 — Full volume
-
-[scene] (p.12) Appears in this volume.
-
-
 <!-- walk: y3v3 Epilogue → p.256 -->
 
+### y3v3 Ch.5 — depth read: Ichinose's faith from afar
+[scene] (p.158) Watches the G11 battle on her tablet and, seeing Class C flee, prepares her class to receive them.
+[says] (p.159) "Ayanokouji-kun won't lose. No, I won't let him lose."
+[says] (p.159) "If we absorb Class C, we'll become the largest force."
+[says] (p.159) "I need you to tell everyone in the class properly beforehand. Ayanokouji-kun will be making contact with Class D, so when he does, make sure we absolutely do not attack first."
+[says] (p.159) "I understand, Ayanokouji-kun. I know what you're thinking."
+[trait] (p.158–159) Calmly confident in Ayanokōji despite his apparent blunders; orchestrates Class D's reception of Class C and pre-empts any attack.
+[rel:ayanokouji-kiyotaka] (p.158–159) Trusts him completely, attributes his "carelessness" to a deeper plan, and entrusts command to him.
+[rel:kobashi-yume] (p.158–159) VIP; relays her instructions to the class.
+[rel:kanzaki-ryuuji] (p.159) Sends instructions via Kobashi; Kanzaki wonders whether the alliance benefits Class D.
 ## y2v2
 
 <!-- walk: y2v2 → start -->

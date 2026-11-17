@@ -875,10 +875,6 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y3v3 → start -->
 
-### y3v3 pp.12-256 — Full volume
-
-[scene] (p.12) Appears in this volume.
-
 ### y3v3 pp.131–240 — Depth review: the wild card eliminated
 [scene] (p.131) Ambushes a Class B supply group surrounding Morofuji, unseen, eliminating eight guards in under thirty seconds.
 [says] (p.238) "Die, Ayanokouji!"
@@ -893,6 +889,16 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:morofuji-rika] (p.131–134) Spares her and lets Class B keep the supplies.
 
 <!-- walk: y3v3 Epilogue → p.256 -->
+
+### y3v3 Epilogue — depth read: the wild card falls
+[scene] (p.236) Emerges from the trees beside Ryūen to confront Ayanokōji in the final shrinking area.
+[says] (p.238) "Die, Ayanokouji!"
+[says] (p.239) "Where are you even aiming? You think you're gonna hit me with a shot that pathetic? You're a lousy shot."
+[says] (p.240) "Agh, dammit! So this is how it ends!? This is so fucking annoying!! I told you I didn't want to do this!"
+[feat] (p.238–240) Suppresses Ayanokōji with a submachine-gun spray and runs between the trees with animal-like speed, but is eliminated by a paintball to the right thigh when she misreads his aim.
+[trait] (p.236–240) Ferocious and impatient — relishes the frontal fight, taunts her opponent, and rages at being eliminated in a game she never wanted to play.
+[rel:ayanokouji-kiyotaka] (p.236–240) Is outmaneuvered and eliminated by him.
+[rel:ryuuen-kakeru] (p.241) Ryūen reveals she had wanted to gamble everything on a shot at a Class D VIP rather than the 2-v-1.
 ## y2v2
 
 <!-- walk: y2v2 → start -->

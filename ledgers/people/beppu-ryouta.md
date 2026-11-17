@@ -43,9 +43,12 @@ char_id: beppu-ryouta · class: Class 1-B · status: minor
 
 <!-- walk: y3v3 → start -->
 
-### y3v3 pp.12-256 — Full volume
-
-[scene] (p.12) Appears in this volume.
-
-
 <!-- walk: y3v3 Epilogue → p.256 -->
+
+### y3v3 Epilogue — depth read: the VIP who walks into the trap
+[scene] (p.235) Is asked by Ayanokōji to accompany him to the center of E11 to check the enemy's position and bait the confrontation.
+[says] (p.235) "What are you going to do...?"
+[says] (p.236) "I hope you're right... To be honest, I'm at my absolute limit..."
+[says] (p.236) "What's with her, is she a tsundere or something...? Well, I'm outta here, then?"
+[trait] (p.235–236) Exhausted after nearly four days on the island but game — tracks the enemy positions for Ayanokōji, then withdraws lightly when Ibuki's shout reveals their approach.
+[rel:ayanokouji-kiyotaka] (p.235–236) Acts as his spotter and is sent away before the confrontation.

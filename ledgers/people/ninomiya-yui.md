@@ -13,16 +13,17 @@ char_id: ninomiya-yui · class: unknown · status: unknown
 
 <!-- walk: y3v3 → start -->
 
-### y3v3 pp.12-256 — Full volume
-
-[scene] (p.12) Appears in this volume.
-
-
 <!-- walk: y3v3 Epilogue → p.256 -->
 
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
+### y3v3 Ch.6 — depth read: Ninomiya's fever
+[scene] (p.182) Found lying in the shade of a tree, breathing heavily, having fallen ill with a fever.
+[says:amikura-mako] (p.182) "She hasn't been feeling well since this morning... I think she's started running a fever."
+[trait] (p.182) Too ill to pretend she's fine; coughing and in pain, she is ordered to retire and be picked up by the school.
+[rel:amikura-mako] (p.182) Amikura stays anxiously by her side.
+[rel:ayanokouji-kiyotaka] (p.182) He orders her immediate retirement.
 ## y2v3
 
 <!-- walk: y2v3 → start -->

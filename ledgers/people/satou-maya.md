@@ -364,13 +364,13 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 
 <!-- walk: y3v3 → start -->
 
-### y3v3 pp.12-256 — Full volume
-
-[scene] (p.12) Appears in this volume.
-
-
 <!-- walk: y3v3 Epilogue → p.256 -->
 
+### y3v3 Ch.7 — depth read: Satō, targeted VIP
+[scene] (p.217) Is almost showered in paintballs as Class B concentrates fire on her, having learned she's a Class A VIP.
+[trait] (p.217–219) Terrified, hides in the tent during Ayanokōji's previous-night raid — the moment that likely exposed the VIPs' identities.
+[rel:sudou-ken] (p.217–220) Is saved by him and urges him to flee and protect the other VIPs.
+[rel:ayanokouji-kiyotaka] (p.219) Suspects her VIP identity was exposed when he raided the camp.
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

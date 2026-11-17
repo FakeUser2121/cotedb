@@ -99,16 +99,19 @@ char_id: morishita-ai · class: Class 2-A · status: unknown
 
 <!-- walk: y3v3 → start -->
 
-### y3v3 pp.12-256 — Full volume
-
-[scene] (p.12) Appears in this volume.
-
-
 <!-- walk: y3v3 Epilogue → p.256 -->
 
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
+### y3v3 Ch.2 — depth read: Morishita's complaints and exhaustion
+[says] (p.56) "I'm not pleased with being placed in the middle row, Ayanokouji Kiyotaka. I'm the main strength of this class."
+[says] (p.56) "To demote me and place a traitor in the front row instead... It seems we've been saddled with an incompetent leader."
+[says] (p.58) "This special exam is on a deserted island, so the rewards are pretty huge, y'know."
+[says] (p.74) "Hah... hah... I suppose this is because I ran a full marathon in the schoolyard yesterday, isn't it... hah."
+[trait] (p.56–74) Complains about her placement and calls others names (traitor, "tissue paper"), but lags furthest behind on the retreat — an "Amazoness of the Dense Forest" who overexerts herself.
+[rel:ayanokouji-kiyotaka] (p.56) Complain about her middle-row placement.
+[rel:hashimoto-masayoshi] (p.56–58) Calls him a traitor and argues with him.
 ## y2v5
 
 <!-- walk: y2v5 → start -->

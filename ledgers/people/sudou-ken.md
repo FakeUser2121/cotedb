@@ -1539,13 +1539,18 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y3v3 → start -->
 
-### y3v3 pp.12-256 — Full volume
-
-[scene] (p.12) Appears in this volume.
-
-
 <!-- walk: y3v3 Epilogue → p.256 -->
 
+### y3v3 Ch.7 — depth read: Sudō protects Satō
+[says] (p.198) "What are we gonna do, Suzune? About him."
+[says] (p.198) "Yesterday seriously had me in a cold sweat."
+[says:satou-maya] (p.219) "Isn't it because you're here, Sudou-kun?"
+[says] (p.219) "If that's what it takes to win, maybe that's what I should do. But I'm not gonna let 'em take you out this easily... We just gotta fight!"
+[feat] (p.217–220) Pulls Satō out of a paintball barrage and leaps out to draw the enemy fire aimed at her.
+[trait] (p.198–219) Bloodthirsty toward Ayanokōji but fiercely protective of Satō; willing to sacrifice himself to save her.
+[rel:satou-maya] (p.217–220) Saves her from being eliminated; recognizes she's the VIP Class B is targeting.
+[rel:horikita-suzune] (p.198–203) Discusses Ayanokōji; is held back from chasing him.
+[rel:ayanokouji-kiyotaka] (p.198) Deeply resentful of his surprise attack on Class A.
 ## y2v2
 
 <!-- walk: y2v2 → start -->

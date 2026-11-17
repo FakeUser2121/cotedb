@@ -78,13 +78,15 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 
 <!-- walk: y3v3 → start -->
 
-### y3v3 pp.12-256 — Full volume
-
-[scene] (p.12) Appears in this volume.
-
-
 <!-- walk: y3v3 Epilogue → p.256 -->
 
+### y3v3 Ch.2 — depth read: Kitou's counterattack
+[says] (p.63) "Let me confirm something, just to be sure. You're aiming to take first place in this exam... Am I right to think that?"
+[says] (p.63) "A survival game... This feels like nothing more than playtime, but if we're aiming to win, I'm going to take this seriously."
+[says] (p.63) "...In other words, you're not confident?"
+[feat] (p.70) During the surprise attack, takes cover behind a tree and counterattacks, taking out an enemy and halting the assault — showing skill despite never having fired in a real fight.
+[trait] (p.63–70) Intense and serious about winning; his intuition senses Ayanokōji's lack of fighting spirit, and he acts decisively in the ambush.
+[rel:ayanokouji-kiyotaka] (p.63–70) Presses him for a commitment to win; backs up the retreat with his counterattack.
 ## y2v2
 
 <!-- walk: y2v2 → start -->

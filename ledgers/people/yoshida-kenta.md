@@ -61,16 +61,17 @@ char_id: yoshida-kenta · class: unknown · status: unknown
 
 <!-- walk: y3v3 → start -->
 
-### y3v3 pp.12-256 — Full volume
-
-[scene] (p.12) Appears in this volume.
-
-
 <!-- walk: y3v3 Epilogue → p.256 -->
 
 
 <!-- walk: y2v2 Epilogue → p.354 -->
 
+### y3v3 Ch.2 — depth read: Yoshida's panic and questions
+[says] (p.72) "What the hell!"
+[says] (p.73) "So they used their one-time-only big move right from the get-go..."
+[says] (p.74) "Thinking about it normally, there was no way to defend against that surprise attack, was there...? It's a flaw in the rules."
+[trait] (p.51–74) Urges learning to handle weapons before fighting; panics and grumbles at the surprise attack, calling it a rules flaw.
+[rel:ayanokouji-kiyotaka] (p.51) Argues for stopping to let Class A pass and learn the guns.
 ## y2v7
 
 <!-- walk: y2v7 → start -->
