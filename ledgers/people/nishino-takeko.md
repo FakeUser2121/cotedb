@@ -43,12 +43,13 @@ char_id: nishino-takeko · class: Class 1-C · status: minor
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
+### y2v2 p.187–189 — Nishino follows Ishizaki to Ayanokōji
+[scene] (p.187–189) She follows Ishizaki to his meeting with Ayanokōji, asking questions about Komiya and Shinohara.
+[trait] (p.187–189) Curious and nosy — she inserts herself into the conversation.
 
-[scene] (p.6) Appears in this volume.
+<!-- walk: y2v2 Ch.3 → p.189 -->
 
 
-<!-- walk: y2v2 Epilogue → p.354 -->
 
 ## y2v3
 

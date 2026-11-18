@@ -64,12 +64,13 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
+### y2v2 p.169 — Hondou mentioned as Sudō's group partner
+[scene] (p.169) Shinohara mentions that Sudō and Hondou will be in a group together.
+[trait] (p.169) Mentioned in passing as a group member.
 
-[scene] (p.6) Appears in this volume.
+<!-- walk: y2v2 Ch.3 → p.169 -->
 
 
-<!-- walk: y2v2 Epilogue → p.354 -->
 
 ## y2v3
 

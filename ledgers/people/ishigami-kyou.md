@@ -6,9 +6,6 @@ char_id: ishigami-kyou · class: unknown · status: unknown
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
-
-[scene] (p.6) Appears in this volume.
 ## y0
 
 <!-- walk: y0 → start -->

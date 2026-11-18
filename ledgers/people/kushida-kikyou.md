@@ -1719,12 +1719,21 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
+### y2v2 p.171 — Kushida relays Kobashi's invitation to Ike
+[scene] (p.171) She interrupts Ike and Shinohara to relay Kobashi's invitation for Ike to join a Class C group.
+[trait] (p.171) Mediating and helpful in group formation.
 
-[scene] (p.6) Appears in this volume.
+<!-- walk: y2v2 Ch.3 → p.171 -->
+
+### y2v2 p.243–261 — Kushida arranges Ayanokōji's meeting with Yagami
+[scene] (p.243–247) She relays Yagami's request to meet Ayanokōji and accompanies them to Keyaki Mall.
+[scene] (p.258–261) After Yagami leaves, she talks with Ayanokōji and reveals her hostility toward him; she warns him about Yagami and mentions she plans to get rid of him.
+[says] (p.262) "I'll have to get rid of him as soon as possible. Yagami-kun, that is."
+[trait] (p.243–263) Manipulative and calculating — she uses the meeting to gather intelligence and threaten.
+
+<!-- walk: y2v2 Ch.4 → p.263 -->
 
 
-<!-- walk: y2v2 Epilogue → p.354 -->
 
 ### y2v2 p.250–258 — Kushida learns of the bounty from Yagami
 [scene] (p.250) Walks with Ayanokōji and Yagami to Keyaki Mall; listens dumbfounded as Yagami reveals the secret exam.

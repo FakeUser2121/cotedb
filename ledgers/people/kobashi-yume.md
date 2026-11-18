@@ -6,9 +6,12 @@ char_id: kobashi-yume · class: unknown · status: unknown
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
+### y2v2 p.171 — Kobashi invites Ike to a Class C group
+[scene] (p.171) Kushida relays Kobashi's invitation for Ike to join a Class C group.
+[trait] (p.171) Proactive in recruiting group members.
 
-[scene] (p.6) Appears in this volume.
+<!-- walk: y2v2 Ch.3 → p.171 -->
+
 ## y3v2
 
 <!-- walk: y3v2 → start -->

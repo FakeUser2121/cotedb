@@ -1199,12 +1199,27 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
+### y2v2 p.23–26 — Chabashira waits for Ayanokōji after Tsukishiro's summons
+[scene] (p.23–26) She waits for Ayanokōji near the reception room after his summons by Tsukishiro, overjoyed by his perfect score; he worries her presence is unnatural and careless, but she can't suppress her joy.
+[trait] (p.23–26) Emotionally invested in his success — her poker face fails, which he finds comical and risky.
 
-[scene] (p.6) Appears in this volume.
+<!-- walk: y2v2 Ch.1 → p.26 -->
+
+### y2v2 p.117–128 — Chabashira announces the uninhabited island exam
+[scene] (p.117–128) She announces the summer special exam: two weeks on an uninhabited island, all school years competing, with a luxury cruise afterward; she explains the group rules (max 3 per same-year group, gender ratios).
+[says] (p.119) "You will have to participate in the \"Uninhabited Island Survival\" special exam and compete with each other."
+[trait] (p.117–128) Informative and measured — she delivers the rules clearly.
+
+<!-- walk: y2v2 Ch.3 → p.128 -->
+
+### y2v2 p.328–329 — Chabashira's pre-exam speech
+[scene] (p.328–329) She gives a serious pre-exam speech, warning the class not to get complacent and hoping no one disappears.
+[says] (p.329) "I've only got one wish for all of you. If you can, don't let a single one of your classmates disappear, and return to this classroom once again."
+[trait] (p.328–329) Stern and caring — she warns the class about the difficulty ahead.
+
+<!-- walk: y2v2 Epilogue → p.329 -->
 
 
-<!-- walk: y2v2 Epilogue → p.354 -->
 
 ### y2v2 p.117–132 — Chabashira's island exam briefing
 [says] (p.117) "It's true that we'll be discussing the topic of the special exam after this, but to maintain the suspense for a bit longer, I'll pick it up later."

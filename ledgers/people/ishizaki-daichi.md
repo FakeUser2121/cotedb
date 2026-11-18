@@ -651,12 +651,15 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
+### y2v2 p.160–167 — Ishizaki invites Ayanokōji to Ryūen's group
+[scene] (p.160–167) He, Albert and Hiyori invite Ayanokōji to join Ryūen's group for the island exam, offering 20M points; he declines for now.
+[scene] (p.187–194) He helps Ayanokōji investigate Komiya's feelings for Shinohara by calling Komiya.
+[trait] (p.160–194) Enthusiastic and loyal — he pushes the invitation and then helps his friend.
+[rel:ayanokouji-kiyotaka] (p.160–194) He invites and then assists him.
 
-[scene] (p.6) Appears in this volume.
+<!-- walk: y2v2 Ch.3 → p.194 -->
 
 
-<!-- walk: y2v2 Epilogue → p.354 -->
 
 ### y2v2 p.152–166 — Ishizaki's group proposal to Ayanokōji
 [scene] (p.152) Spots Ayanokōji at school, calls out with a smile, and brings him to meet Albert and Hiyori — proposing they form a group for the island exam.

@@ -147,12 +147,15 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
+### y2v2 p.178–184 — Matsushita proposes cooperation to Ayanokōji
+[scene] (p.178–184) She approaches him with her contact info, proposing they cooperate during the exam; he keeps his options open.
+[says] (p.182) "I do. That's why I think it's important for me to cooperate with you to help"
+[trait] (p.178–184) Strategic and proactive — she seeks alliances early.
+[rel:ayanokouji-kiyotaka] (p.178–184) She proposes cooperation.
 
-[scene] (p.6) Appears in this volume.
+<!-- walk: y2v2 Ch.3 → p.184 -->
 
 
-<!-- walk: y2v2 Epilogue → p.354 -->
 
 ### y2v2 p.182–184 — Matsushita's offer to group with Ayanokōji
 [says] (p.182) "If you've got any problems, I would like to help you, Ayanokouji-kun."

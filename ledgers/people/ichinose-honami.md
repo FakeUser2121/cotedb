@@ -1654,12 +1654,26 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
+### y2v2 p.46–52 — Ichinose meets Ayanokōji at Keyaki Mall
+[scene] (p.46–47) She bumps into Ayanokōji at Keyaki Mall and congratulates him on the perfect score; Kanzaki is suspicious and hostile.
+[says] (p.47) "Say, I've seen your exam results. You actually got a perfect score in math, that's amazing!"
+[scene] (p.48–51) She defuses Kanzaki's argument, then privately tells Ayanokōji to trust his classmates and promises to protect him from expulsion.
+[says] (p.48) "Ayanokouji-kun is not our enemy."
+[says] (p.50) "Class 1-B, the class that only you protected, that class doesn't exist anymore."
+[says] (p.51) "I won't ever let you get expelled."
+[trait] (p.46–52) Pacifist but resolute — she stands up to Kanzaki's hostility and reassures Ayanokōji.
 
-[scene] (p.6) Appears in this volume.
+<!-- walk: y2v2 Ch.1 → p.52 -->
+
+### y2v2 p.203–218 — Ichinose meets Sakayanagi
+[scene] (p.203–204) Sakayanagi invites Ichinose to meet at Keyaki Mall; Ichinose is surprised but agrees.
+[says] (p.203) "Is this a good time? Since I asked so suddenly, I was also prepared for you"
+[trait] (p.203–218) Open and willing — she accepts the meeting despite the surprise.
+[rel:sakayanagi-arisu] (p.203–218) They meet at Sakayanagi's invitation.
+
+<!-- walk: y2v2 Ch.3 → p.218 -->
 
 
-<!-- walk: y2v2 Epilogue → p.354 -->
 
 ### y2v2 p.47–52 — Ichinose at Keyaki Mall: praise and a warning
 [scene] (p.47) Waiting at Keyaki Mall with Kanzaki, bumps into Ayanokōji and congratulates him on the perfect math score.

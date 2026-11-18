@@ -772,12 +772,16 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
+### y2v2 p.298–311 — Katsuragi is summoned by Ryūen
+[scene] (p.298–303) He is summoned to a café by Ryūen, who proposes a three-class alliance; he is hostile and refuses.
+[scene] (p.304–311) Ryūen tries to recruit him to Class B using money from nullifying his contract with Sakayanagi.
+[says] (p.308) "Are you crazy? You're asking me to come to Class B?"
+[trait] (p.298–311) Proud and principled — he refuses Ryūen's overtures.
+[rel:ryuuen-kakeru] (p.298–311) He is hostile to Ryūen's alliance.
 
-[scene] (p.6) Appears in this volume.
+<!-- walk: y2v2 Ch.5 → p.311 -->
 
 
-<!-- walk: y2v2 Epilogue → p.354 -->
 
 ### y2v2 p.298–312 — Katsuragi's vendetta; signs Ryūen's contract to transfer
 [scene] (p.298) Joins Ryūen's café meeting with Ayanokōji, stiff and uneasy at being seen with Ryūen.

@@ -6,9 +6,6 @@ char_id: tsube-hitomi · class: unknown · status: unknown
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
-
-[scene] (p.6) Appears in this volume.
 ## y3v2
 
 <!-- walk: y3v2 → start -->

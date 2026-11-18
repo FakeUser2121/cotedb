@@ -46,12 +46,7 @@ char_id: utomiya-riku · class: Class 1-C · status: unknown
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
 
-[scene] (p.6) Appears in this volume.
-
-
-<!-- walk: y2v2 Epilogue → p.354 -->
 
 ### y2v2 p.221–231, 264–270 — Utomiya: representative and Hōsen-plot mastermind
 [scene] (p.221) Arrives at the first-year rep gathering (Class 1-C), sent because his classmates avoid "troublesome matters"; later approaches Ayanokōji at the convenience store with Tsubaki.

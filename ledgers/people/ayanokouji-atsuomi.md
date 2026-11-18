@@ -436,12 +436,7 @@ char_id: ayanokouji-atsuomi · role: White Room director, Ayanokōji’s father 
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
 
-[scene] (p.6) Appears in this volume.
-
-
-<!-- walk: y2v2 Epilogue → p.354 -->
 
 ## y2v3
 

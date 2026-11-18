@@ -1701,12 +1701,24 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
+### y2v2 p.19–20 — Sudō defends Ayanokōji against cheating accusations
+[scene] (p.19–20) He stands up and silences the cheating speculation, arguing there's no evidence; Miyamoto counters with OAA data.
+[says] (p.19) "You seem to be getting rather excited, but there isn't even a shred of evidence of Ayanokouji cheating, is there?"
+[scene] (p.53–63) After Golden Week, he runs into Ayanokōji at the shoe lockers and confronts him about his hidden math and fighting strength; he grabs his bicep, concludes he is "someone we need to rise up to Class A," and promises not to tell anyone about the Hōsen fight.
+[says] (p.54) "So you were hiding the fact you're good at studying because of Suzune's strategy, right?"
+[says] (p.57) "You… you surpassed that monster Housen's strength and stopped him. I'm not wrong, am I?"
+[says] (p.62) "It might be cold coming from a friend of Haruki, but I'm glad you didn't get expelled during the class vote. There's no doubt that you're someone we need to rise up to Class A."
+[trait] (p.19–63) Matured and perceptive — he assesses the situation calmly, trusts Ayanokōji, and keeps his secrets.
 
-[scene] (p.6) Appears in this volume.
+<!-- walk: y2v2 Ch.1 → p.63 -->
+
+### y2v2 p.169–170 — Sudō's group situation
+[scene] (p.169–170) Shinohara mentions that Sudō and Hondou will be in a group together; Sudō's basketball commitment is noted.
+[trait] (p.169–170) His group plans are discussed by others.
+
+<!-- walk: y2v2 Ch.3 → p.170 -->
 
 
-<!-- walk: y2v2 Epilogue → p.354 -->
 
 ### y2v2 p.19–22 — Sudō defends Ayanokōji against the cheating talk
 [says] (p.19) "You seem to be getting rather excited, but there isn't even a shred of evidence of Ayanokouji cheating, is there?"

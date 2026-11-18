@@ -288,12 +288,17 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
+### y2v2 p.111–116 — Nanase walks with Ayanokōji to school
+[scene] (p.111–116) She greets him on the way to school, apologizes for the expulsion attempt, and shares 1st-year intelligence: the special exam is still active until the second semester, Class 1-D placed third in their second exam, and Hōsen is now focused on fighting 2nd years.
+[says] (p.112) "I've always felt sorry for what I did to you, Ayanokouji-senpai."
+[says] (p.114) "One boy dropped out of Class C in the first year."
+[says] (p.116) "You must not leave any regrets in your school life as well, Ayanokouji-senpai"
+[trait] (p.111–116) Mature and remorseful — she has shed her naivety and fits in well with the school.
+[rel:ayanokouji-kiyotaka] (p.111–116) She walks with him and shares intelligence.
 
-[scene] (p.6) Appears in this volume.
+<!-- walk: y2v2 Ch.3 → p.116 -->
 
 
-<!-- walk: y2v2 Epilogue → p.354 -->
 
 ### y2v2 p.336–337 — Tsukishiro reveals Nanase as the enforcer
 [scene] (p.336) Stands with Tsukishiro as buses arrive, responding without emotion to his question about the late July heat; pressed to finally expel Ayanokōji.

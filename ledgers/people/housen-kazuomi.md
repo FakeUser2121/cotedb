@@ -140,12 +140,7 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
 
-[scene] (p.6) Appears in this volume.
-
-
-<!-- walk: y2v2 Epilogue → p.354 -->
 
 ### y2v2 p.225–231 — Hōsen at the first-year rep gathering
 [scene] (p.225) Arrives last at the gathering, "with his terrifying white teeth as usual," refusing to pay or cooperate.

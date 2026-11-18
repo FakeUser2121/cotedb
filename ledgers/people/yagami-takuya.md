@@ -68,12 +68,7 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
 
-[scene] (p.6) Appears in this volume.
-
-
-<!-- walk: y2v2 Epilogue → p.354 -->
 
 ### y2v2 p.250–258 — Yagami defects: reveals the bounty to warn Ayanokōji
 [scene] (p.250) Walks with Ayanokōji and Kushida to Keyaki Mall (joined the student council, asked Nagumo about the prior island exam), then reveals the secret exam.

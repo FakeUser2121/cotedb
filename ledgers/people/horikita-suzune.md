@@ -4061,12 +4061,54 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
+### y2v2 p.23–38 — Horikita's cover story for Ayanokōji's perfect score
+[scene] (p.23–27) She takes the floor and spins the "reserve strategy" — claiming she discovered his math talent last spring and asked him to hold back; the class is skeptical.
+[says] (p.23) "Yukimura-kun and I- no, the entire 2nd year couldn't get this perfect score, so how was Ayanokouji-kun able to achieve that?"
+[scene] (p.27–34) She argues that hiding his strength protected him from becoming a target, and that the class has grown enough to protect him now; Yousuke and Kei back her up.
+[says] (p.27) "From the very start he had the knowledge to get perfect scores in math. As I knew this before anyone else, I thought up a little strategy."
+[scene] (p.38) She closes the topic and leaves first, letting Ayanokōji handle the rest.
+[trait] (p.23–38) Quick-witted and eloquent under pressure — she improvises a convincing cover story without prior preparation.
+[rel:ayanokouji-kiyotaka] (p.23–38) She protects him by fabricating a strategic narrative.
 
-[scene] (p.6) Appears in this volume.
+<!-- walk: y2v2 Ch.1 → p.38 -->
+
+### y2v2 p.65–74 — Horikita and Ayanokōji theorize about the bounty
+[scene] (p.65–69) She meets Ayanokōji at the lobby and they walk to school; she confirms Chabashira doesn't know about the bounty, and they theorize it's a private 20M-point bounty, possibly connected to Nagumo.
+[says] (p.68) "Could it be that President Nagumo might have something to do with this?"
+[scene] (p.69–74) Horikita explains she is joining the student council to observe Nagumo's reforms; she asks Ayanokōji to accompany her.
+[trait] (p.65–74) Analytical and determined — she works through the logic of the bounty and accepts the council role.
+[rel:ayanokouji-kiyotaka] (p.65–74) They theorize together.
+
+<!-- walk: y2v2 Ch.2 → p.74 -->
+
+### y2v2 p.75–78 — Horikita joins the student council
+[scene] (p.75–78) She requests membership; Nagumo accepts with a condition, warning her that past presidents graduated in Class A; she declares her ambition to become president.
+[says] (p.75) "I want to join the student council."
+[says] (p.78) "Don't worry. I don't plan to graduate outside of Class A."
+[trait] (p.75–78) Bold and direct — she challenges Nagumo's condition head-on.
+
+<!-- walk: y2v2 Ch.2 → p.78 -->
+
+### y2v2 p.119–128 — Horikita reacts to the island exam rules
+[scene] (p.119–128) She reacts to the group rules, noting that 2nd years can be allies; she and Ayanokōji later discuss the Ike/Shinohara situation.
+[says] (p.119) "Which means… the students in the 2nd year, are our allies…?"
+[scene] (p.195–197) She discusses the Ike/Shinohara/Komiya situation with Ayanokōji and suggests making Ike confess.
+[trait] (p.119–197) Strategic and practical — she focuses on group dynamics and class stability.
+
+<!-- walk: y2v2 Ch.3 → p.197 -->
+
+### y2v2 p.329–335 — Horikita negotiates with Kōenji
+[scene] (p.329–335) Kōenji offers to get first place alone in exchange for full freedom; she counters with a condition — if he doesn't win, he must help in future exams.
+[says] (p.329) "Sorry Kouenji-kun, I put too much value on your talent to let you do \"just alright\" on this exam and be a spectator later on."
+[says] (p.333) "If you don't get first place, then you will have to help the class in the future, such as the next special exam, and get results."
+[trait] (p.329–335) Strategic and firm — she extracts a commitment from Kōenji.
+[rel:kouenji-rokusuke] (p.329–335) She negotiates with him.
+
+<!-- walk: y2v2 Epilogue → p.335 -->
+
+<!-- walk: y2v2 Ch.1 → p.38 -->
 
 
-<!-- walk: y2v2 Epilogue → p.354 -->
 
 ### y2v2 p.27–30 — Horikita stays back to smooth things over
 [scene] (p.27) Remains in the classroom after Ayanokōji's summons (having not answered his call), having assessed that the remaining students are waiting for him.
