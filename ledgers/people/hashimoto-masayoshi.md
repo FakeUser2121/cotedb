@@ -829,6 +829,13 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 
 <!-- walk: y2v2 → start -->
 
+### y2v2 p.215, 299–300 — Hashimoto mentioned in passing
+[scene] (p.215) Named in the group formation context.
+[scene] (p.299–300) Named in Ryūen's alliance meeting.
+[note] (p.215, 299–300) Passing mentions; not a distinct scene presence.
+
+<!-- walk: y2v2 Ch.5 → p.300 -->
+
 
 
 ## y2v3

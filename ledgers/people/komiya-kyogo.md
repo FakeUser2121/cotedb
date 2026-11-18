@@ -139,6 +139,13 @@ char_id: komiya-kyogo · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v2 → start -->
 
+### y2v2 p.172–197 — Komiya in the Shinohara confession plot
+[scene] (p.172–177) He is mentioned as Sudō's friend; Shinohara agrees to meet him at a café.
+[scene] (p.185–197) He is called by Ishizaki and reveals he plans to confess to Shinohara on the uninhabited island.
+[note] (p.172–197) Komiya is discussed but not present in these scenes; the confession plot is reported secondhand.
+
+<!-- walk: y2v2 Ch.3 → p.197 -->
+
 ### y2v2 p.174–194 — Komiya invites Shinohara and plans to confess
 [scene] (p.174–177) He invites Shinohara to meet at a café; she agrees.
 [scene] (p.193–194) Ishizaki calls him and learns he plans to confess to Shinohara on the uninhabited island.

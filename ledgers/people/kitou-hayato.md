@@ -108,6 +108,13 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 
 <!-- walk: y2v2 → start -->
 
+### y2v2 p.12, 27, 44, 53, 66 — Kitō mentioned in passing
+[scene] (p.12) Named in the classroom discussion about Ayanokōji's perfect score.
+[scene] (p.66) Named in the student council recruitment context.
+[note] (p.12, 27, 44, 53, 66) Passing mentions; not a distinct scene presence.
+
+<!-- walk: y2v2 Ch.2 → p.66 -->
+
 
 
 ## y2v3

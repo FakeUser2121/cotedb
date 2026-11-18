@@ -977,6 +977,13 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v2 → start -->
 
+### y2v2 p.163, 188, 315–325 — Ibuki mentioned in passing
+[scene] (p.163) Named in the Ryūen alliance meeting context.
+[scene] (p.315–325) Named in the Ryūen-Katsuragi negotiation.
+[note] (p.163, 188, 315–325) Passing mentions; not a distinct scene presence.
+
+<!-- walk: y2v2 Ch.5 → p.325 -->
+
 
 
 ## y2v3

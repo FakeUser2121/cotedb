@@ -304,6 +304,12 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 
 <!-- walk: y2v2 → start -->
 
+### y2v2 p.299 — Kamuro mentioned in passing
+[scene] (p.299) Named in Ryūen's alliance meeting.
+[note] (p.299) Passing mention; not a distinct scene presence.
+
+<!-- walk: y2v2 Ch.5 → p.299 -->
+
 
 
 ## y2v3
