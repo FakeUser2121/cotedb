@@ -1191,6 +1191,13 @@ aliases used for anchors: sakura, airi, sakura-san
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.11, 13–14 — Her expulsion shadows the class
+[mentioned] (p.11) "I'm no longer needed in that group" — the former Ayanokōji group broke after Airi was expelled.
+[mentioned] (p.13) The Unanimous Vote Special Exam that expelled her raised the stakes for the bottom ranks: students no longer coast, knowing what the school can do.
+[mentioned] (p.14) Class B's 38 students exclude "Airi and Yamauchi, who had been expelled from the school."
+
+<!-- walk: y2v8 Ch.1 → p.45 -->
+
 ### y2v8 p.11-208 — sakura-airi mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.11, p.13-14, p.40.

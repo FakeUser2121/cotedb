@@ -1451,6 +1451,36 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.12–16 — Final exam results; the anonymous 0–37 evaluation task
+[scene] (p.12) Final exam results are announced in homeroom; she knows this time last year was the Paper Shuffle; the rules were standardized this year; first place gains 50 Class Points, fourth loses 50; cutoff averages of 39 or less in all subjects mean expulsion.
+[says] (p.13) “Regarding this year's final exam results, I'll start with the lowest-ranked student.”
+[scene] (p.13) She calls Hondō last (53), then moves up the ranks; top 10: Sudō; finally Horikita and Keisei (93.5); announces Class A 1st, Class B 2nd (+25 pts).
+[scene] (p.14–17) She then unveils the anonymous evaluation task: each student numbers every second-year classmate 0–37 except themselves, on memory and feelings alone — no OAA, no internet, no speaking; the teachers will never see the lists; one hour; groups for the trip will be built from it.
+[says] (p.14) “But there's one thing I want you to do before we discuss it.”
+[says] (p.15) “The numbers you're about to assign represent how you evaluate your fellow classmates from your point of view.”
+[says] (p.15) “You have one hour to finish. If you fail to finish within the time limit, you will not receive the full explanation for the school trip.”
+[says:hondou-ryoutaro] (p.15) “Seriously, there are a lot of girls I've never spoken to, and I have no idea about their OAA or anything like that, so it's going to be random, is that okay…?”
+[trait] (p.13–17) She deliberately agitates the students ("It seemed as though she was trying to agitate the students") while calling results from the bottom up; she fields the trip-briefing questions with mild teasing; she allowed the whole school trip to hinge on this one hour.
+[rel:horikita-suzune] (p.12–14) She announces Horikita's tie for first.
+[rel:hondou-ryoutaro] (p.13) She gives him the lowest rank.
+[rel:sudou-ken] (p.13) She names him 10th.
+
+### y2v8 p.17–24 — Hokkaido wins; the trip's rules and purpose
+[scene] (p.17) The class-vote results are revealed: Hokkaido, which received three of the class votes, is designated as the destination; Ayanokōji, Horikita and Keisei had voted Kyoto.
+[says] (p.17) “As a result of each class's choice, Hokkaido, which received three of the class votes, was designated as the school trip destination.”
+[says] (p.18) “Rest assured, there will be no special exam to compete for class points.”
+[scene] (p.19) She frames the trip with Sun Tzu: "If you know the enemy and know yourself, you will not be in danger in a hundred battles. That's the theme of this school trip."
+[says] (p.19) “If you know the enemy and know yourself, you will not be in danger in a hundred battles.”
+[scene] (p.20–24) She lays out the stakes: the school's strict structure hinders friendships; the trip exists to remove those boundaries; mixed fixed groups (one boy, one girl per second-year class), eight per group (two groups of six), fixed for five days, group behavior mandatory outside the ryokan ("deprivation of freedom" if disrespected), cell phones allowed, cash exchange up to 10,000 yen private points.
+[says] (p.21) “The most important thing for you is whether or not you graduate in Class A.”
+[says] (p.23) “Even in free activities, individuals are not allowed to do as they please.”
+[says] (p.24) “You made a good point, Hirata.”
+[trait] (p.17–24) She answers Hondō's special-exam fear with a laugh; fields Hirata's questions about group rotation; the whole trip is themed on breaking down inter-class barriers — possibly a set piece for an exam to come.
+[rel:hirata-yousuke] (p.21–24) She fields his questions and defends the fixed-group decision ("superficial acquaintanceships").
+[rel:hondou-ryoutaro] (p.18) She teases his fear of a special exam.
+
+<!-- walk: y2v8 Ch.1 → p.45 -->
+
 ### y2v8 p.11-208 — chabashira-sae mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.13-18, p.20, p.23-24, p.46, p.49.

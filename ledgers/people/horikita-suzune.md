@@ -4579,6 +4579,29 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.12–14, 18 — Final exam results: Horikita and Keisei tie 1st (93.5 avg)
+[scene] (p.12) Chabashira announces the second-semester final exam results; the class holds its breath; last year's Paper Shuffle aftermath is recalled; this year is "purely a competition for class points."
+[trivia] (p.12) Final exam stakes: first place 50 pts, second 25, third −25, fourth −50; expulsion cutoff averages of 39 or less in all subjects; the ranking was a class-based competition.
+[trivia] (p.13–14) Horikita and Keisei tie for 1st with an average of 93.5; Sudō moves into the top 10 (10th, a new personal best); Kei scores about 56; Class A takes 1st place, Class B 2nd (+25 pts), Class D 3rd, Class C 4th; the gap between Class A and Class B was "minute, but it was still there"; Horikita's back at the Hokkaido vote shows no disappointment (p.18); the anonymous 0–37 evaluation task follows the announcement (p.14–17).
+[rel:ishigami-kyou] (p.13) She ties him for first place (93.5) — their usual arrangement.
+[rel:chabashira-sae] (p.12–13) She announces the results; Class B takes second.
+[rel:sudou-ken] (p.13) His rise into the top 10 is Horikita's work as much as his.
+[rel:sakayanagi-arisu] (p.14) Her class takes 1st again.
+
+### y2v8 p.17–18 — The trip vote: Kyoto lost; Hokkaido wins
+[scene] (p.17) The destinations vote results are revealed: Hokkaido, the class's choice, wins (three class votes); Ayanokōji, Horikita and Keisei were among the minority who voted Kyoto.
+[mentioned] (p.17–18) Horikita voted Kyoto; Hokkaido wins anyway; from her back she doesn't appear disappointed; Sudō (Okinawa) "showed signs of having already accepted the situation."
+[rel:ishigami-kyou] (p.17) Keisei also voted Kyoto.
+[rel:sudou-ken] (p.18) He had wanted Okinawa.
+
+### y2v8 p.39–45 — Sudō's confession plan points at her
+[scene] (p.39–42) Sudō visits at night; Ayanokōji learns he will formally confess to Horikita on the school trip — "I want to say, 'please go out with me.'"
+[mentioned] (p.39–45) She is the target of the planned confession; Ayanokōji (and Kei, betting against him) assess her: Kei doubts she is interested in love at all; Ayanokōji suspects she is learning and could step into that stage ("Horikita is also at the stage where she's learning a lot right now" — Ayanokōji's thought, p.45).
+[rel:sudou-ken] (p.39–45) He intends to confess on the trip with Ayanokōji as a witness ("I'm going to offer you my hand, and ask you to watch over me"); her agreement is far from certain.
+[rel:karuizawa-kei] (p.44–45) Kei bets against the confession ("I'll bet on failure... I don't think she's interested in love"); Ayanokōji holds out hope ("I feel like it's possible").
+
+<!-- walk: y2v8 Ch.1 → p.45 -->
+
 ### y2v8 p.11-208 — horikita-suzune mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.12-14, p.16-18, p.41-42, p.44-45, p.57-58.

@@ -1851,6 +1851,11 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.12 — Paper Shuffle aftermath (back)
+[back] (p.12) Chabashira recalls last year's Paper Shuffle: "Kushida's plans and Ryuen's influence nearly jeopardized the exam, but Horikita's strategy and capabilities were equally as strong." This year's exam is standardized — the first under the new rules.
+
+<!-- walk: y2v8 Ch.1 → p.45 -->
+
 ### y2v8 p.11-208 — kushida-kikyou mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.12, p.46-47, p.49-50, p.52, p.55-64.

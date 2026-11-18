@@ -252,6 +252,12 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.16 — Rated high in the anonymous evaluation
+[scene] (p.16) Present in homeroom for the results and the 0–37 evaluation task.
+[trait] (p.16) Ayanokōji, listing the students he had rated highly, names "Horikita, Keisei, and Mii-chan" among "the students who have always performed well academically" — he rated her high in the task.
+
+<!-- walk: y2v8 Ch.1 → p.45 -->
+
 ### y2v8 p.11-208 — matsushita-chiaki mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.48.

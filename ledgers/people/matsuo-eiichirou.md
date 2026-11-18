@@ -29,10 +29,14 @@ char_id: matsuo-eiichirou · role: former butler to Ayanokōji · status: deceas
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.35–38 — "The death of Matsuo Eiichirou" — the bait
+[mentioned] (p.35) "Tsubasa Nanase had her feelings exploited by Tsukishiro in order to avenge the death of Matsuo Eiichirou."
+[mentioned] (p.37) Ayanokōji: "Did Matsuo really commit suicide? And did his son, Eiichiro, die?" — the son's death is the lever used on Nanase; its truth is questioned on these pages.
+[note] (p.37) The son's death is reported speech, unverified: "Your statement, which I thought was coming from a third party, gave more credibility to Matsuo's death… but if you're here with your mind made up from the beginning, then all credibility is lost."
+
+<!-- walk: y2v8 Ch.1 → p.45 -->
+
 ### y2v8 p.11-208 — matsuo-eiichirou mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.35, p.37-38.
 [mentioned] (p.11) Passing mention only.
-
-
-

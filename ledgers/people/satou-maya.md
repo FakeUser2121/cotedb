@@ -474,6 +474,17 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.25–27 — Lunch: "a double date"; the trip debate
+[scene] (p.25) Lunch with Ayanokōji, Kei and Yōsuke; the school trip dominates; her classmates circle the question of why the school would tolerate this much freedom.
+[says] (p.25) “It's kind of like a double date, isn't it, Ayanokōji-kun?”
+[says] (p.26) “Hmm... I see. I think I kinda get what you're saying, Hirata. It's sympathy.”
+[trait] (p.25–27) She is "somewhat convinced" by Hirata's fear of Class A ("someone in the other classes might need to graduate from Class A at all costs"), calls it sympathy, then wavers; at the end she and Hirata both feel the anxiety of the future ("If that's the case, it could get nasty… I'm genuinely scared." / "It's kind of a bad feeling." — the translation leaves the second pair untagged; shared by Yōsuke and Satō).
+[rel:karuizawa-kei] (p.25–27) They lunch together; Satō ribs Ayanokōji about the "double date."
+[rel:hirata-yousuke] (p.26) She hears him out on his fear of the other classes and calls it "sympathy."
+[rel:ayanokouji-kiyotaka] (p.25) She needles him about being "a double date" on a girls' outing.
+
+<!-- walk: y2v8 Ch.1 → p.45 -->
+
 ### y2v8 p.11-208 — satou-maya mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.25-28, p.48.

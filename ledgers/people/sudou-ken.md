@@ -1858,6 +1858,21 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.12–13 — Sudō: 10th place, a new personal best
+[scene] (p.12) Final exam results are announced; the Paper Shuffle comparison looms; lower ranks called before higher.
+[mentioned] (p.13) Sudō is 10th, "a solid score to move into the top group"; he improved his ranking by one and set a personal best; Horikita and Keisei tie for first (93.5).
+[rel:horikita-suzune] (p.13) His growth "is unmistakably attributed to the talent of his educator, Horikita" (Ayanokōji's assessment).
+[rel:chabashira-sae] (p.13) She names him in the top 10.
+
+### y2v8 p.19–20 — Sudō explains the Sun Tzu theme
+[scene] (p.19) Chabashira sets the trip's theme: "If you know the enemy and know yourself, you will not be in danger in a hundred battles." Hondō is lost; Sudō steps in.
+[says] (p.19) “Understand the reality of the opponent you are fighting, and know your… own strength.”
+[says] (p.20) “It's just what the phrase means.”
+[trait] (p.20) No conceit about his knowledge ("Oh, wow, you can understand all that?" / "It's not that amazing."); he explains the proverb before anyone else without showing off.
+[note] (p.19) The Sun Tzu line is Chabashira's, not Sudō's.
+
+<!-- walk: y2v8 Ch.1 → p.45 -->
+
 ### y2v8 p.39–42 — Sudō: planning to confess to Horikita
 [says] (p.39) "Sorry for suddenly showing up without calling."
 [says] (p.41) "I'm going to officially confess to Suzune on the school trip. I'm serious, I"

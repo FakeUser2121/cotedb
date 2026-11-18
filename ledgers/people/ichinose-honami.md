@@ -1847,6 +1847,17 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.9–10 — Kanzaki's monologue: why he entered Advanced Nurturing High School
+[mentioned] (p.10) Kanzaki enters the school intending to socialize and help Ichinose as the recognized class leader; "However, in the end, I was not able to do so, and my heart was broken." (Kanzaki's monologue; his account, not her deeds; appears as the volume's front matter.)
+
+<!-- walk: y2v8 Prologue → p.10 -->
+
+### y2v8 p.12–14 — Class D finished third behind Class B
+[back] (p.12–13) Last year's Paper Shuffle recap (Kushida's plans and Ryūen's influence vs Horikita's strategy) frames this year's standardized exam; not present.
+[mentioned] (p.13–14) Chabashira reports Class B surpassed "Ichinose's class" to take second; first Class A, second Class B, third Class D (her class), fourth Class C.
+
+<!-- walk: y2v8 Ch.1 → p.45 -->
+
 ### y2v8 p.11-208 — ichinose-honami mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.10, p.13-14, p.49, p.65, p.69.

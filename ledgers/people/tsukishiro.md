@@ -361,6 +361,13 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.34–38 — Ayanokōji's theory: this was never a real mission
+[mentioned] (p.34–36) Ayanokōji doubts Nanase's story out loud: why did Tsukishiro never tell her what the White Room planned? "He was using his influential position to employ a number of forceful methods" — he never had need of subtle expulsion, so why go through the motions?
+[mentioned] (p.36–38) His hypothesis: Tsukishiro had no intention of expelling him from the start; Nanase was "an aid to me" — assigned to support while watching him; the fight over Matsuo was itself "a way to get me to let my guard down"; Amasawa and Yagami never knew the true purpose either.
+[note] (p.35, 37–38) His theory is labeled a hypothesis even by him ("It's just a theory"); it inverts every assumption about Nanase's recruitment; no confirmation exists on these pages.
+
+<!-- walk: y2v8 Ch.1 → p.45 -->
+
 ### y2v8 p.11-208 — tsukishiro mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.34-36, p.60, p.190.

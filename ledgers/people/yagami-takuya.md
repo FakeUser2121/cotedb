@@ -213,6 +213,13 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.29–32 — Amasawa's account: Yagami was afraid
+[mentioned] (p.29–32) Amasawa recounts Yagami Takuya (White Room student, her ally and same generation): he was scared of fighting Ayanokōji, hiding the fear so deep he never faced it; the school announced his misconduct as his own; many people became aware of it.
+[rel:amasawa-ichika] (p.29–32) Her White Room generation partner; expelled after the events she believes flow from his fear.
+[rel:ayanokouji-kiyotaka] (p.32) The man Yagami was afraid of.
+
+<!-- walk: y2v8 Ch.1 → p.45 -->
+
 ### y2v8 p.11-208 — yagami-takuya mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.29-32, p.35-36, p.52-53, p.59-61, p.152-153.

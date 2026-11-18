@@ -886,6 +886,11 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.14 — Expelled from Class B
+[mentioned] (p.14) Class B's roster has 38 students excluding "Airi and Yamauchi, who had been expelled from the school"; the 0–37 scale counts 37 classmates.
+
+<!-- walk: y2v8 Ch.1 → p.45 -->
+
 ### y2v8 p.11-208 — yamauchi-haruki mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.14.

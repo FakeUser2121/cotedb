@@ -2323,6 +2323,12 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.12, 14 — Paper Shuffle aftermath (back); Class C fourth
+[back] (p.12) Last year's Paper Shuffle: "Ryuen's influence nearly jeopardized the exam, but Horikita's strategy and capabilities were equally as strong." Not present at Class B's homeroom; the citation is to the recap.
+[mentioned] (p.14) Class C takes 4th place (behind Ichinose's Class D); not present.
+
+<!-- walk: y2v8 Ch.1 → p.45 -->
+
 ### y2v8 p.11-208 — ryuuen-kakeru mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.12, p.14, p.46-47, p.49-53, p.55-57.

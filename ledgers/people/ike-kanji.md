@@ -1248,6 +1248,15 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.17, 21 — Claps at the trip announcement; grumbles at the mixed groups
+[scene] (p.17) When the trip is announced, Ike and others clap; Chabashira ignores Ike and moves on.
+[scene] (p.21) Ike argues against the fixed mixed groups ("There's no way I'll be able to enjoy the trip with these conditions, and I don't feel like I'll have fun at all!" — words attributed in the translation to the classroom grumblers; Ike is named among them).
+[note] (p.21) Ike has only had a girlfriend for a short period of time; the risk of not grouping with Shinohara is named as his likely motive.
+[rel:shinohara-satsuki] (p.21) His girlfriend — the group-mixing rule threatens their trip.
+[rel:hirata-yousuke] (p.21) Hirata publicly backs the school's idea over the grumblers like Ike.
+
+<!-- walk: y2v8 Ch.1 → p.45 -->
+
 ### y2v8 p.11-208 — ike-kanji mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.11, p.15-18, p.20-21, p.23-25, p.27.

@@ -1926,6 +1926,25 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.21–24 — Hirata: for the school's fixed-group idea
+[scene] (p.21) As the class grumbles about fixed mixed groups, Hirata stands and endorses the school's plan; the girls split on the same question.
+[says] (p.21) “I agree with the school's idea.”
+[says] (p.21) “I don't think it's a good idea to think about it like that.”
+[says] (p.21) “Because I felt it's important, I guess.”
+[says] (p.23) “If we're going to be in contact with a large number of people, isn't it a little… strange being in the same group for the entire trip.”
+[trait] (p.21–24) Argues the trip matters because the school gives few cross-class chances ("except for club activities and the like"); admits he knows no one in other classes who understands him better than his classmates; yet he wants the opportunity anyway; later questions whether four days in one fixed group is excessive — Chabashira answers that daily-rotation would only produce "superficial acquaintanceships."
+[rel:chabashira-sae] (p.21–24) She fields his questions about the fixed groups and defends the fixed-combination rationale.
+[rel:ike-kanji] (p.21) He disagrees with Ike's objection to spending the whole trip with people from other classes.
+
+### y2v8 p.25–27 — Lunch: Hirata's fear beneath the polite question
+[scene] (p.25) Lunch with Ayanokōji, Kei and Satō.
+[says] (p.26) “I'm a little scared. Someone in the other classes might need to graduate from Class A at all costs, and the idea of finding out what's going on with them or getting too close is unsettling.”
+[trait] (p.25–27) Names his fear plainly: a rival whose whole future hinges on Class A — and the danger of getting too close; Satō calls it "sympathy"; by day's end he and Satō agree the trip "could get nasty" and feel the unease of it (his last line is untagged in the translation; shared with Satō).
+[rel:ayanokouji-kiyotaka] (p.25–27) Ayanokōji probes his fear without mocking it.
+[rel:satou-maya] (p.26) She reframes his fear as "sympathy."
+
+<!-- walk: y2v8 Ch.1 → p.45 -->
+
 ### y2v8 p.11-208 — hirata-yousuke mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.13, p.16, p.21-27, p.41, p.47-48.

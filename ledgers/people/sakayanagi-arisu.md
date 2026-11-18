@@ -1292,6 +1292,11 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.14 — Class A first again
+[mentioned] (p.14) Her class takes 1st place; even the lower-ranked students in Class A performed well, and Class B failed to take first again; the gap between the classes "was minute, but it was still there."
+
+<!-- walk: y2v8 Ch.1 → p.45 -->
+
 ### y2v8 p.180–184 — Sakayanagi and Kanzaki confer on Ishigami; she phones him
 [scene] (p.180) Ayanokōji asks how they know each other; Sakayanagi explains a parental connection through well-known families, then says she wants to know more about Ishigami-kun, the only first-year student at the school with that surname.
 [scene] (p.182) She presses Kanzaki on whether Ishigami is excellent and speculates he enrolled to check Ayanokōji's ability.

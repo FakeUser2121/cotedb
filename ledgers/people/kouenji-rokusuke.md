@@ -922,6 +922,16 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.16–17, 24 — First to finish the evaluation; the whole class stares at him
+[scene] (p.16) Nearly 40 minutes into the one-hour evaluation task Kōenji finishes first; Chabashira sees it; he's already "blowing lightly on his fingernails" without looking at the tablet again.
+[trait] (p.16) Ayanokōji suspects he "assigned the numbers without thinking about it"; he ranks Kōenji No. 2 in the class (hidden potential, concrete contributions to Class B).
+[scene] (p.24) When group-behavior discipline is mentioned, every gaze in the class turns to Kōenji at once; he notices and is unbothered.
+[says] (p.24) “You've been giving me envious glances.”
+[rel:chabashira-sae] (p.16–24) She runs the task he speed-runs; she lets him coast.
+[note] (p.16) Whether he assigned meaningless numbers on purpose is left open.
+
+<!-- walk: y2v8 Ch.1 → p.45 -->
+
 ### y2v8 p.11-208 — kouenji-rokusuke mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.16, p.24, p.103-104, p.118-119.

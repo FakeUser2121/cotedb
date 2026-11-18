@@ -66,6 +66,16 @@ char_id: ishigami-kyou · class: unknown · status: unknown
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.12–14, 17–18 — Tied for 1st (93.5); Kyoto vote
+[scene] (p.12) Class B's second-semester final exam results are announced; the Room falls quiet; he is watched as closely as Horikita.
+[trivia] (p.13–14) Horikita and Keisei tie 1st with an average of 93.5; Sudō 10th; Kei ≈56; Class B 2nd (+25 pts), behind Sakayanagi's Class A; the two were usually tied for first place anyway.
+[scene] (p.17–18) Both he and Horikita voted Kyoto for the trip; Hokkaido wins by class votes; Horikita's back shows no disappointment.
+[rel:horikita-suzune] (p.13–14) His tie partner.
+[rel:chabashira-sae] (p.12–13) She delivers the results.
+[rel:sakayanagi-arisu] (p.14) Her class stays first.
+
+<!-- walk: y2v8 Ch.1 → p.45 -->
+
 ### y2v8 p.11-208 — ishigami-kyou mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.180, p.182-185, p.196, p.207.

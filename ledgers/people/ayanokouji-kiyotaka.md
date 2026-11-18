@@ -9370,6 +9370,11 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.9–10 — Kanzaki's monologue names him
+[mentioned] (p.10) Kanzaki's monologue: broken-hearted after failing Ichinose, "Ayanokōji Kiyotaka's words rescued me from such a situation"; "Truly, fate is a mysterious thing." (POV is Kanzaki's; not a scene presence for Kiyotaka.)
+
+<!-- walk: y2v8 Prologue → p.10 -->
+
 ### y2v8 p.11–18 — Final exam results; the anonymous evaluation task; school trip to Hokkaido
 [scene] (p.11) Late November; school trip to Hokkaido approaches; former Ayanokōji group (Haruka/Akito/Keisei) walks ahead — he notes the "group of three" remains separate.
 [trivia] (p.13–14) Final exams: Horikita and Keisei tie 1st (93.5 avg), Sudō 10th (solid); Kei 56 avg; Class A 1st, Class B 2nd (+25 pts); lowest-ranked students get extra "guidance" but no expulsion.
@@ -9386,6 +9391,19 @@ walk: y1v1 → DONE
 [trait] (p.19–24) Analyzes the fixed-group pressure (the pressure of a fixed group: students must make it work even with people they dislike); notes all eyes turn to Kōenji when discipline is mentioned (he's not listening); realizes the trip's "theme" is cross-class relationships.
 [rel:chabashira-sae] (p.19–24) She explains the rules and warns against confusing the trip with a regular school trip.
 [rel:kouenji-rokusuke] (p.24) He's not paying attention — the obvious target of the group-behavior rule.
+
+### y2v8 p.25–27 — Lunch with Kei, Satō and Hirata: the strip beneath the lax trip
+[scene] (p.25) Lunch with Kei, Hirata and Satō; the school trip dominates the table; none of them can see why the school would tolerate two free days.
+[says] (p.26) “Since we're all competing to be Class A, feeling mercy is going to slow us down.”
+[says] (p.27) “Suppose there's a student in another class who has to graduate from Class A, as Yōsuke said.”
+[says] (p.27) “I've continued to exaggerate a bit, but knowing your enemy is not purely a merit.”
+[trait] (p.25–27) Maps the threat surface for the others: a 20M-point insurance class, a classmate whose life may be on the line, faked willingness to help; he suspects the chart and the trip are set pieces and the real event may be the end-of-year exam; he dangles hypotheticals to test how the others feel.
+[rel:karuizawa-kei] (p.25–27) She fixates on the possibility of being grouped apart (about 5%); wonders aloud why the school wants them to get along; cynically cool on Class A ("Am I cold?" — she isn't either).
+[rel:hirata-yousuke] (p.26) His honest fear: a rival who must graduate into Class A or may later not survive; Ayanokōji tests it and Satō calls it "sympathy."
+[rel:satou-maya] (p.25) She calls lunch "a double date"; she buys into Hirata's fear as sympathy, then doubts him.
+[note] (p.25–27) Speakers untagged in the translation: the "I was surprised too", "I don't mind having a lot of free time" and group-aspect lines are not marked; the scared / bad-feeling lines are shared by Yōsuke and Satō per the narration; "Then why does the school try to make us get along" is Kei's per the narration.
+
+<!-- walk: y2v8 Ch.1 → p.45 -->
 
 ### y2v8 p.28–38 — Nanase's warnings; Amasawa; the outside world
 [says] (p.33) "I want Ayanokōji-senpai to remain at this school and graduate."
