@@ -974,6 +974,12 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [mentioned] (p.40) Named as a second-year Class C member of Nagumo's group: Kaneda Satoru, Katsuragi Kōhei.
 
 <!-- walk: y2v11 ch2 → p.84 -->
+
+### y2v11 p.115 — Ch.5: The glasswork obsessive
+[scene] (p.115) Kushida reports that yesterday Katsuragi was immersed in practicing glasswork because he couldn't do it well.
+[note] (p.115) He lined up many times at the activity; no scene; glassed over for his group.
+
+<!-- walk: y2v11 ch5 → p.144 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -984,6 +990,11 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.17) Named only; not present; recalled as the student Ryūen's class invested points to bring in after Manabe's expulsion.
 
 <!-- walk: y2v12 ch1 → p.25 -->
+### y2v12 p.65–66, 101–112 — Ch.3–5: Middle guard, Class C
+[scene] (p.65) Exam morning; he takes his seat with the Class C reps (Nishino, Ryūen); he studies the monitor when the match order drops — middle guard again; he has fought through this structure once before; he says little and reads much.
+[scene] (p.69–70) The announcement names him middle guard of Class C; he accepts the role without applause; the opponent is not yet known — but likely Class A's Kitō or Sanada; he mentally catalogs the field.
+
+<!-- walk: y2v12 ch3 → p.86 -->
 
 
 

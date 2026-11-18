@@ -683,6 +683,7 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [rel:sugio-hiroshi] (p.32) Cuts off his argument with Shimazaki.
 
 ### y3v3 p.36–37 — Reacting to being named the sacrifice
+[scene] (p.36) Reacts as Morishita names him first sacrifice, then as Ayanokōji declares himself the one who will be expelled.
 [says] (p.36) "I see, if that's the case, I accept—like hell I would...! Good grief, give me a break. I was an idiot for even thinking about listening seriously for a second."
 [says] (p.36) "Well, if they're safe themselves, I guess they would."
 [says] (p.36) "Then are you saying it's okay to make me the victim?"
@@ -1043,6 +1044,37 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [rel:kiryuin-fuuka] (p.109) She tries to milk him for the secret of why he is feared.
 
 <!-- walk: y2v11 ch4 → p.113 -->
+
+### y2v11 p.135–141 — Ch.5: The girls' room vote
+[scene] (p.135) After dinner; he messages Kiyotaka to meet at the girls'room; the atmosphere is heavy; he brings the deck.
+[says] (p.135) “We're a bit stuck. Do you have anything to liven things up? The room's atmosphere is a bit heavy, isn't it? How about a one-liner to dispel that?”
+[says] (p.135) “Oh, that's nice. You're quite thoughtful.”
+[says] (p.136) “How about this? Four players per game. A game for boys only and a game for girls only. Then a mixed game.”
+[says] (p.136) “You've never done it? There really are fossil-like people who still exist?”
+[says] (p.137) “That's a cheap evaluation. Are you satisfied just because you can play cards?”
+[says] (p.137) “I won't reveal your hand.”
+[note] (p.136–137) He is amazed people exist without cards in life; he sustains the flow of the game.
+[rel:ayanokouji-kiyotaka] (p.135–144) He borrows his cards; Kiyotaka stalls the games playfully.
+[rel:morishita-ai] (p.136–141) He is amazed by her bluffs; he side-eyes her dangerously.
+
+### y2v11 p.142–144 — Ch.5: The long walk and the toilet
+[scene] (p.142) Walk back; he ends the fun; he keeps Kiyotaka behind a little longer.
+[says] (p.142) “It looks like they had fun.”
+[says] (p.142) “Sorry, but could you guys go back first? Ayanokōji, could you stay with me a little longer?”
+[says] (p.142) “You'll just go to sleep when you return to your room, right? I haven't heard anything about Sakayanagi.”
+[says] (p.142) “But you did meet Sakayanagi today, didn't you?”
+[says] (p.142) “...Well, it's fine. Either way, the outcome won't change in the future.”
+[says] (p.143) “Well, I guess they gave up on the exchange meeting. Those two didn't show up at any of the experiential learning sessions. They probably didn't intend to receive any rewards from the start, right?”
+[says] (p.143) “Well, of course. It's unsettling. It's weird that those two dropped out so abruptly.”
+[says] (p.144) “Could it be that Sakayanagi had set up a spy even before we formed the group?”
+[says] (p.144) “Yeah... probably not... Basically, Sakayanagi didn't make direct negotiations. I was basically the one who interacted with the promising first-years. But indirectly—”
+[says] (p.144) “I know, I know, but... it's Sakayanagi. I can't deny the possibility that she might do something I can't imagine.”
+[says] (p.144) “Let's stop. I should forget about Sakayanagi for now.”
+[says] (p.144) “Alright, I'll stop by the lobby toilet before I go back. You can go back and sleep first.”
+[note] (p.143–144) Sakayanagi 5–7; Ryūen 3–9; both out of first place; Hashimoto spirals over Sakayanagi's abrupt exit; he heads to an empty bathroom.
+[rel:ayanokouji-kiyotaka] (p.142–144) He fishes for Sakayanagi info; he unravels in front of him.
+
+<!-- walk: y2v11 ch5 → p.144 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -1053,3 +1085,12 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [note] (p.20) Named only; not present; recalled as the back-channel through which the competitive balance might be tipped.
 
 <!-- walk: y2v12 ch1 → p.25 -->
+### y2v12 p.49–52 — Ch.2: The 2-A betrayal pitch
+[scene] (p.49) Night, just after 10 PM; he lets himself in via the stairs, casual clothes, eyes roving the dorm; he asks for advice on the exam; he reveals his position: still siding with Ryūen (his survival requires Ryūen to win); he hoped to leak prep intel but the school disclosed nothing.
+[says] (p.49) "Is anyone watching?"
+[scene] (p.50) He extrapolates: with no disclosed rules, Sakayanagi's preemptive traps fail; the only cost is getting passed over as a representative; he asks the transfer question openly — would Ayanokōji jump to Class C? Fee is 20 million; Ryūen's war chest is deep from first- and third-years; his own share from Nagumo was 600k (he got 3M, spread 20% to him, the rest 160k each); AK covers only 3% of the total.
+[scene] (p.51–52) AK tells him lies will fail against Sakayanagi; he admits lies are his only tool; AK advises: don't lie to yourself; Hashimoto leaves; AK decides this may be the last time he sees him.
+[note] (p.49–52) His request hangs: should Ayanokōji transfer? Unresolved on-page; he leaves without a yes.
+[rel:ayanokouji-kiyotaka] (p.49–52) Asks him to jump to Ryūen's class; expects it as a final fixture before tomorrow's match.
+
+<!-- walk: y2v12 ch2 → p.62 -->

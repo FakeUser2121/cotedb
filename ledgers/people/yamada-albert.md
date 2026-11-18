@@ -342,9 +342,16 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 [scene] (p.11) Rostered for this volume.
 [note] (p.11) Page locator found no matches for this name in this volume; possible spelling/alias variant missed. Not read line-by-line.
 
+### y2v11 p.130–132 — Ch.5: The brick wall with a numb hand
+[scene] (p.130) He blocks Hōsen's path without a word; the clash of wills begins.
+[says] (p.130) “Fighting isn't just about charging in alone like an idiot.”
+[says] (p.131) “How many times do I have to tell you? I'll take you on anytime.”
+[says] (p.132) “His fighting ability may be equal to or greater than Ayanokoji. He's a tremendous freshman.”
+[note] (p.132) He mutters it after the scene; his hand went numb from Hōsen's punch; Ryūen laughs and discounts it.
+[rel:housen-kazuomi] (p.130–132) Their clash nearly goes loud; he absorbs the punch; he is subsumed by Ryūen's group anyway.
+[rel:ryuuen-kakeru] (p.130–132) Ryūen uses him as the wall; he recalls the rooftop punch.
 
-
-
+<!-- walk: y2v11 ch5 → p.144 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

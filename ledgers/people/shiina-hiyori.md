@@ -631,3 +631,19 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [rel:morishita-ai] (p.108) She neutralizes her verdict.
 
 <!-- walk: y2v11 ch4 → p.113 -->
+
+### y2v11 p.137–141 — Ch.5: The joker loss
+[scene] (p.137) The girls' room; she sits across from Morishita; the joker game begins.
+[says] (p.137) “Somehow... I'm a little curious about this one card.”
+[says] (p.138) “Please choose as you like.”
+[says] (p.138) “What should I do…?”
+[says] (p.140) “...What?”
+[says] (p.140) “I can't answer that.”
+[says] (p.140) “I see... then you might want to avoid it. Do you want to switch to the opposite card?”
+[says] (p.140) “But I don't actually know which one the Joker is.”
+[says] (p.140) “I lost.”
+[note] (p.137–141) She is mesmerized by the isolated joker; she draws it; she loses the last-card showdown to Morishita; she enjoys even losing.
+[rel:morishita-ai] (p.137–141) Morishita outmaneuvers her in the advanced-bluff; she loses graciously.
+[rel:yamamura-miki] (p.141) She invites Yamamura to the game when the archer mood sours.
+
+<!-- walk: y2v11 ch5 → p.144 -->

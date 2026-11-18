@@ -2311,3 +2311,38 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [note] (p.86) No further detail on these pages; named only as the leader of the group that lost twice on Day 1.
 
 <!-- walk: y2v11 ch3 → p.99 -->
+
+### y2v11 p.123–132 — Ch.5: The wall, the discipline
+[scene] (p.123) After dinner; Ishizaki summons Tokitō to the experiential classrooms; Ryūen ambushes him in front of the pottery class window.
+[says] (p.124) “I thought you needed more discipline, so I made a surprise appearance.”
+[says] (p.124) “Do you really not understand?”
+[says] (p.124) “Really? I've got a report from my underlings about you.”
+[says] (p.124) “Since coming to the training camp, I've received four reports that you've been trying to get along with Sakayanagi.”
+[says] (p.125) “She's on the decline now. She'll fall and be done by the next end-of-year exam. That's why I told you not to carelessly intervene, didn't I?”
+
+[says] (p.128) “Huh. You want to fuck Sakayanagi that bad?”
+[says] (p.129) “Should I set up a stage for you to assault her then? Even that composed woman will be torn apart physically and mentally if you fuck her.”
+[says] (p.130) “Hehehe, don't take it seriously. But if you're up for it, I could let you take on the role to corner Sakayanagi.”
+[says] (p.130) “Then shall I make you understand with your body?”
+[says] (p.131) “I understand what you want to say, Tokitō. I've been rampaging with full control of the class, but I once gave up that position. You must have felt good then, right?”
+[says] (p.131) “That's too bad. After all, I'm back in my former position and doing whatever I want. It must be frustrating.”
+[says] (p.131) “Do you hate me?”
+[says] (p.131) “Then don't hold back. Show me you can take me down by force. I won't run or hide. But if you raise your fist, I'll corner you no matter what. The only way out is expulsion. Be prepared for that.”
+[says] (p.132) “Got it? This is my advice. If you understand, don't ever help Sakayanagi again.”
+[says] (p.132) “I'll crush you. Simple as that.”
+[says] (p.132) “That's good, Tokitō. I find that part of you interesting. So let's see how long you can keep that look in your eyes.”
+[says] (p.132) “You can rest assured knowing that I won't let Ishizaki lay a hand on you.”
+[note] (p.124–132) Four reported approaches; Tokitō wanted to comfort Sakayanagi over Kamuro; Ryūen calls it fucking; he beats Tokitō to the floor; the school has no surveillance cameras there; Ryūen tells him to stop helping Sakayanagi forever.
+[rel:ishizaki-daichi] (p.123–132) He sets the trap; he is dragged through Ryūen's punishing session; he reports everything.
+[rel:housen-kazuomi] (p.128–132) He appears at the right moment; Ryūen sizes him up; Hōsen refuses to leave.
+[rel:yamada-albert] (p.130–132) Albert engages Hōsen; his fist gets numbed.
+
+
+[says] (p.129) “Get lost. You're in the way.”
+[says] (p.132) “Don't make me laugh. If it's just simple power, he might be able to compete with him, but if you compare their overall strength, there's no comparison. The source of Ayanokōji's strength is not so simple.”
+[says] (p.132) “Tokitō is not that stupid. We should leave it at that. We've already nailed him enough.”
+[says] (p.132) “We'll focus on Class A. The most troublesome one right now is Kitō, not Sakayanagi. He could go berserk at any moment.”
+[says] (p.132) “War, huh? Indeed, anything could happen from here on out.”
+[note] (p.132) He warns that Kitō is the wild card now; the end-of-year exams will detonate; everything hinges on them.
+
+<!-- walk: y2v11 ch5 → p.144 -->

@@ -5881,7 +5881,7 @@ walk: y1v1 → DONE
 ### y2v12 p.53–57 — Ch.2: Ichinose on the bench, Kanzaki at the gym
 [scene] (p.53) Sunday, bench along the school route; she is there early; he asks her to keep today's meeting loose; they reminisce about last year's bench-promise — one year hence, meet again alone; she agrees: definitely.
 [says:ichinose-honami] (p.53) "Good morning, Ayanokōji-kun. Is it okay? Calling me out to a place like this."
-[scene] (p.54) The meeting lasts briefly; he says he doesn't plan to be a representative — a real lie (he already accepted the role); she relaxes, slightly relieved; he asks for a rain check on the "by next year, just the two of us" promise, she accepts.
+[scene] (p.54) The meeting lasts briefly; he says he doesn't plan to be a representative — a real lie (he already accepted the role); she relaxes, slightly relieved; he asks to honor the bench promise from a year ago; she accepts.
 [says:ichinose-honami] (p.54) "Definitely."
 [rel:ichinose-honami] (p.53–54) Reconfirms the one-year bench promise; she relaxes at his "no" about representing; he knows she doesn't know.
 [scene] (p.55) Sunday at the gym exit; Kanzaki is waiting; asks first whether it's true he won't be a representative; pushes plainly: if Horikita asks, please refuse — she and Ichinose count on that; he lets the rumor die without confirming it.
@@ -5899,6 +5899,46 @@ walk: y1v1 → DONE
 [rel:sakayanagi-arisu] (p.58–62) The call swaps shop intel and stakes; she rebuffs his intervention plan; the third-year match teased.
 
 <!-- walk: y2v12 ch2 → p.62 -->
+### y2v12 p.63–68 — Ch.3: Exam morning
+[scene] (p.63) Exam day, 7:40 AM; he leaves the dorm; near the school building path he finds Kiryūin-senpai waiting; she carries a bag — she is about to leave for the real world (graduation long past, new apartment hunt); she delivers Nagumo's proxy message: Nagumo wants to know how he'll handle the exam; she says she found it amusing.
+[says:kiryuin-fuuka] (p.63) "I was waiting for you. I wanted to see you before you tackle the end-of-year special exam."
+[rel:kiryuin-fuuka] (p.63–64) Reports Nagumo's interest; exits school life; her last reconnaissance standing between him and Nagumo.
+[scene] (p.64–66) Special building; waiting at the classroom door with Hirata and Horikita — the last of the representatives; an adult waits with them; they are waved in; the nine reps sit; Sakagami and Hoshinomiya collect phones in white cases ("2-B"); body checks; they wait; he studies the opponents: Ichinose + Kanzaki + Hamaguchi; Sakayanagi's kitsch choice of Kitō; Ryūen's shocking Nishino Takeko pick.
+[says:hirata-yousuke] (p.64) "Good morning, Kiyotaka-kun."
+[says:sakagami] (p.65) "Please submit all phones, other metals, and electronic devices you have."
+[scene] (p.67) Horikita is visibly tense; he reaches over and squeezes/pokes her side hard to break the frosty hush; she jumps; reps turn to look; he plays it as forgetting their history — he just wants to tease her awake.
+[says] (p.67) "I thought I’d help you relax a bit. It’s a bit better now, right?"
+[says] (p.67) "I thought I’d add a bit of nostalgia to the mix. It’s my way of showing concern."
+[rel:horikita-suzune] (p.64–67) Waits stiffly beside him; panic-energy management; he pokes her to keep her head in the game.
+[rel:hirata-yousuke] (p.64–67) Calm companion; eyes the opponents alongside him.
+[scene] (p.67–68) Mashima-sensei appears with Chabashira-sensei; all second-year homeroom teachers are present; Mashima prepares the detailed exam explanation; the real exam info finally drops.
+[says:mashima-tomonari] (p.68) "My name is Mashima, and I will be explaining the end-of-year special exam."
+
+### y2v12 p.69–76 — Ch.3: The rules drop
+[scene] (p.69–70) Monitor reveals the representatives and match order: Class A (Sanada v, Kitō m, Sakayanagi g), Class B (Hirata v, Horikita m, Ayanokōji g), Class C (Nishino v, Katsuragi m, Ryūen g), Class D (Hamaguchi v, Kanzaki m, Ichinose g); venue classroom with 2 monitors/2 desks/tablets each; B vs D identical setup next door; the exam resembles the luxury cruise exam (Werewolf-type).
+[rule] (p.70) Exam structure: reps select 5 groups of 7 participants by rotation; no consecutive group use; fewer than 35 → reuse allowed; each round 5 minutes; after each round each rep nominates one participant with a guessed role; correct ID shifts lives (honor student −3, mis-ID costs lives, etc.); discussion ends when all ordinary or all honor students leave; 5000 private points to survivors.
+[rule] (p.72) Roles: honor students (2), teacher (1), graduate (1), underclassman (1), upperclassman (1), ordinary students (6-8), traitor (0-2 per class, one per exam); honor student correct ID costs opponent 3 lives; teacher/graduate successful ID 2 lives, executes role powers (teacher may block one nomination per game; graduate may learn one role per round but never a traitor).
+[rule] (p.73) Leader eliminated is not replaced; general zero lives loses; both zero → rematch one-life-each; participants failing to attend lose; 50,000-pt rewards for teacher/graduate leftovers; traitors 5M pts or 50 class points if they survive; ordinary-side win → 10,000 pts each.
+[scene] (p.71–76) He digests the mechanics: it's a social-deduction game; the win is measured in pressure-tested relationships; physical and academic ability are near-irrelevant; reps may watch only; discussion is watched 14-player; honor students call the shots on eliminations; traitors wreck predictions.
+[note] (p.70–76) The design is deliberate: classes with deeper bonds and keener readers win; he recognizes the game instantly as a scaled-down sibling of the island/cruise exams.
+
+### y2v12 p.77–83 — Ch.3: Sanada's question; group formation
+[scene] (p.77) The reps are digesting; Sanada speaks up — how would the traitor system even work given everyone declares themselves; Mashima answers that participants get a stripped, different briefing; deduction is left to reps watching reactions.
+[says:sanada-kousei] (p.77) "wouldn’t it be immediately obvious if I were to sneak in a traitor among the opponent’s participants?"
+[scene] (p.79–80) The twelve reps move to a waiting room between battles — two monitors showing only lives and match results; recess intervals of ten minutes enforced; discussing on the way; Hirata and Horikita fret about participant quality (Ike and others); the monitoring is ten-minute recesses, restroom an allowed break.
+[scene] (p.80–83) Horikita and Yōsuke build five groups of seven on the tablet; asks his opinion; he suggests one group of pure all-rounders; Horikita is unsure how to place Kushida; he studies the traitor clause: asks Horikita for the traitor designation right now; she balks, then accepts — his collateral: full cooperation until graduation if he loses the match as general; she takes the trade, delighted.
+[rel:horikita-suzune] (p.67–83) Tense in the room; accepts him as general; hands over the traitor designation at his request.
+[rel:hirata-yousuke] (p.64–83) Builds groups with Horikita; fret over participant readiness.
+
+### y2v12 p.84–86 — Ch.3: Hoshinomiya's approach
+[scene] (p.84) During the break he excuses himself to the restroom; Hoshinomiya-sensei stops him in the hallway; tells him straight: she hadn't expected him as general; she pushes him to hold back — for her class's win; she even floats insider info on next year's third-year exams as a reward.
+[says:hoshinomiya-chie] (p.84) "Going to the restroom? Can I have a moment?"
+[says:hoshinomiya-chie] (p.85) "Sae-chan is the one I definitely can’t lose to. For that, I’m willing to do anything."
+[scene] (p.85–86) She closes the distance to arm's length; touches his ear; claims she can do anything for victory; he reads every word; he knows she can't be trusted — any promise could be weaponized; he declines everything; she curses her inability to sway him; he leaves.
+[rel:hoshinomiya-chie] (p.84–86) Offers graduation-gift hints to make him fold; he declines flat; he sees her resolve is genuine and dangerous.
+[note] (p.84–86) Her motive (monologue, Ch.-front): ruin Chabashira's Class A dream at any cost; she's willing to cross any line — his guard must stay up for the whole exam.
+
+<!-- walk: y2v12 ch3 → p.86 -->
 
 ## y2v12.5
 
@@ -7178,6 +7218,13 @@ walk: y1v1 → DONE
 
 <!-- walk: y0 Epilogue → p.265 -->
 
+### y0 p.12–16 — Born into the White Room
+[scene] (p.12) A newborn, one month old, is first seen by Atsuomi through the glass; the experiment starts immediately.
+[note] (p.12–16) He is one month old here and the scene is told entirely through Atsuomi; the translation gives him no words. The farewell staged for the cameras (p.15) is fundraising material, not a real goodbye.
+[note] (p.16) After being taken away, the father closes his eyes alone; the White Room's fourth phase begins without him knowing.
+[rel:ayanokouji-atsuomi] (p.12–16) The father who enters him into the White Room.
+[rel:tabuchi] (p.12–16) Runs the newborn's tests and is ordered to start the experiment.
+
 ### y0 p.131 — First memory: the pure white ceiling
 [scene] (p.131) Recalls his very first memory in the White Room — staring at a pure white ceiling.
 [narrates] (p.131) "The first memory everyone shared was of 'white' spreading across the entirety of the surface."
@@ -7368,6 +7415,7 @@ walk: y1v1 → DONE
 [rel:ayanokouji-atsuomi] (p.256–258) His father; hides his true sharpening resolve from him.
 [rel:kamogawa] (p.256) Meets him in the car after leaving the clinic; doesn't respond to his greeting.
 [rel:ishida-yuusuke] (p.250) Ishida warns Kamogawa that Kiyotaka is a "monster."
+
 ## y2v2
 
 <!-- walk: y2v2 → start -->
@@ -10032,3 +10080,82 @@ walk: y1v1 → DONE
 [rel:amasawa-ichika] (p.112–113) Amasawa waltzes in and taunts Sakayanagi; Kitō holds her back; she names the threat openly.
 
 <!-- walk: y2v11 ch4 → p.113 -->
+
+### y2v11 p.114–119 — Ch.5: The sculpture and the gauntlet
+[scene] (p.114) Day 2; game six (Sculpture Experience); the field is open; uncarved stones sit; he notes only Nagumo's scouting knows his streak.
+[says:kushida-kikyou] (p.115) “It seems that your group had a good start with five consecutive wins yesterday, Ayanokōji-kun.”
+[says] (p.115) “It’s just that the first-year students are doing their best. You also have four wins, so it seems you're doing well too.”
+[says:kushida-kikyou] (p.115) “We decided not to worry about winning or losing. But that's because we decided to do our best and enjoy ourselves. But everyone just wanted to take it easy and kept asking me for favors. This is my sixth consecutive participation.”
+[says:kushida-kikyou] (p.115) “It's really stupid. Experiential learning is so lame. I wish this training camp would end soon.”
+[says:kushida-kikyou] (p.115) “I just do it because I don't want to lose out if I don't put on a good face. Honestly, I don’t think we need to take this exchange meeting seriously. There are people's eyes everywhere, in the shared room, in the large bath, at meals, and I don't have time to relax.”
+[note] (p.115–116) Kushida rides the "good girl" face under scrutiny; she calls Ibuki/Horikita her best two stress-outlets.
+[note] (p.117) Group 20 wins sculpture 3-2 vs her group; his trump defeat hands the group its first loss; patience threshold: one more loss allowed.
+[note] (p.117–118) Chalk Art win; Miniature Golf (all-male, all-rookie field) second group loss by a hair; Patchwork vs Tatebayashi's group (1 win, 9 losses), Inogashira's sewing costs his second individual loss and the team's third loss.
+[note] (p.118) Archery (recurve, 20 m): Morishita volunteers, hits nothing, group's record saved (fourth loss avoided as penultimate avoids consecutive loss); Glasswork: he and Hiyori shine.
+[note] (p.119) Halfway total: 12 games, 9 wins, 3 losses for Group 20.
+[rel:kushida-kikyou] (p.114–117) She chats at his sculpture station; he wins one on artistry; she wants Horikita–Ibuki to lose.
+[rel:morishita-ai] (p.118) She arches and still matters; he patches up her bad day.
+[rel:shiina-hiyori] (p.118–119) Her craft elevates the group in glasswork.
+
+### y2v11 p.120–122 — Ch.5: The rest-area check-in
+[scene] (p.120) Just before 6 p.m.; tired bodies flock to the drink corner; Sanada falls in step beside him.
+[says:sanada-kousei] (p.120) “Your group seems to be doing quite well.”
+[says:sanada-kousei] (p.121) “How are the students of Class A? Are they cooperating well?”
+[says] (p.120) “I have reliable allies helping.”
+[says] (p.120) “Hashimoto hasn't participated in any activities yet. He's in more of a support role. Yamamura is participating in the matches, and her honesty is helpful.”
+[says] (p.120) “Then there's Morishita... Well, cooperative... no, creative, I guess.”
+[says:sanada-kousei] (p.121) “I see. Honestly, I'm glad that the three of them are in the same group as you this time.”
+[says:sanada-kousei] (p.122) “Well, it's largely because of how Sakayanagi-san sees it. Even I can tell that she treats you in a special way. After the last exam, Kitō-kun has been on edge, but I think he's still able to keep his self-control in check because you’re by Hashimoto-kun's side.”
+[note] (p.121) Sanada's worry about Morishita: near him since their first-year; she speaks every thought; Morishita is an outsider in the class; he watched over her.
+[note] (p.122) A class 1-B girl named Miya chases after Sanada; he melts into her zone.
+[rel:sanada-kousei] (p.120–122) He probes on behalf of Class A; he shares his class's nervousness about Morishita and Yamamura.
+
+### y2v11 p.133–134 — Ch.5: Satō's regret
+[scene] (p.133) After the bath; he lounges on the lobby sofa; Satō heads to her room and changes course when she sees him.
+[says:satou-maya] (p.133) “Ah~! Ayanokōji-kun! Hey, can you listen to my story~!?”
+[says:satou-maya] (p.133) “It's the exchange meeting—the exchange meeting. I was seriously aiming for the top, so...”
+[says:satou-maya] (p.133) “I wanted to buy something, and I tried my best in my own way. Ugh.”
+[says] (p.133) “If you keep up the good work, there's a pretty good chance you'll finish in the top ten, isn't there?”
+[says:satou-maya] (p.134) “—It was Minamikawa-senpai's group.”
+[note] (p.133–134) Satō's group: seven wins, five losses in 12 matches; five off from the third-place line; their last loss came against Class 3-C's Minamikawa — Onodera is in that group; Satō and Onodera were at odds.
+[rel:satou-maya] (p.133–134) She vents; he is kind enough to listen.
+
+### y2v11 p.135–142 — Ch.5: The girls' room
+[scene] (p.135) After dinner; Hashimoto summons him to the girls' shared room; the games drag; the deck comes out.
+[says:hashimoto-masayoshi] (p.135) “We're a bit stuck. Do you have anything to liven things up? The room's atmosphere is a bit heavy, isn't it? How about a one-liner to dispel that?”
+[says:kiryuin-fuuka] (p.135) “Playing cards is the most classic of classics, isn't it, Ayanokōji?”
+[says:morishita-ai] (p.136) “Let's do that. That. The game where the person who has the Joker at the end loses.”
+[says:morishita-ai] (p.136) “I can't say whether I like it or not. I've never done it before.”
+[says:morishita-ai] (p.136) “There were no people worth playing cards with.”
+[says:kiryuin-fuuka] (p.136) “Isn't it suspicious to say you're confident in playing cards? That's why I left you out.”
+[note] (p.136–137) Morishita rated herself five for confidence in cards; Kiryūin left her out because it looked suspicious; she pulls the group into one.
+[note] (p.140) The joker game ends with Morishita outwitting Hiyori; Eikura draws out first, then Hatsukawa; Morishita only needs to dodge the joker at the end.
+[says:yamamura-miki] (p.141) “Um... I'll... watch.”
+[note] (p.141–142) Yamamura declines, then joins under Hiyori's wing; she gets skipped; her name is botched as “Yamashita-senpai”; she does not correct it.
+[rel:hashimoto-masayoshi] (p.135–144) He engineers the mixed evening; he grows suspicious on the walk back; he stops by the lobby toilet.
+[rel:yamamura-miki] (p.135–142) She retreats into the corner; she cannot refuse Hiyori; she is barely seen.
+[rel:morishita-ai] (p.135–141) She plays without experience and wins; her psychological warfare is second to none.
+[rel:shiina-hiyori] (p.135–141) She is dazzled by Morishita's bluff; she draws the joker; she loses graciously.
+
+### y2v11 p.142–144 — Ch.5: The walk back
+[scene] (p.142) Past the girls' floor; lights-out is 20 minutes away; the boys buzz about Tsubaki-san.
+[note] (p.142) “Man, that was fun! But why do girls' rooms smell so good?” — first-year, untagged; “And wasn't Tsubaki-san cute?” — untagged first-year.
+[says:hashimoto-masayoshi] (p.142) “It looks like they had fun.”
+[says:hashimoto-masayoshi] (p.142) “Sorry, but could you guys go back first? Ayanokōji, could you stay with me a little longer?”
+[says] (p.142) “What's wrong?”
+[says:hashimoto-masayoshi] (p.142) “You'll just go to sleep when you return to your room, right? I haven't heard anything about Sakayanagi.”
+[says] (p.142) “If you were expecting to learn something, I'm sorry to disappoint you, but there's nothing.”
+[says] (p.142) “I did put some pressure on her, but it’s Sakayanagi. Honestly, I couldn't get much out of her. You know she's a tough opponent, right?”
+[says:hashimoto-masayoshi] (p.142) “...Well, it's fine. Either way, the outcome won't change in the future.”
+[note] (p.143) Sakayanagi 5–7 and Ryūen 3–9 after 12 matches; dropped out of first place; “anticlimactic” — the speaker of the line is not tagged; Hashimoto is the suspicious one.
+[says:hashimoto-masayoshi] (p.143) “Well, I guess they gave up on the exchange meeting. Those two didn't show up at any of the experiential learning sessions. They probably didn't intend to receive any rewards from the start, right?”
+[says:hashimoto-masayoshi] (p.143) “Well, of course. It's unsettling. It's weird that those two dropped out so abruptly.”
+[says:hashimoto-masayoshi] (p.143) “Could it be that Sakayanagi had set up a spy even before we formed the group?”
+[says] (p.143) “It isn’t easy to expel someone specific except in special exams.”
+[says:hashimoto-masayoshi] (p.144) “I know, I know, but... it's Sakayanagi. I can't deny the possibility that she might do something I can't imagine.”
+[says:hashimoto-masayoshi] (p.144) “Let's stop. I should forget about Sakayanagi for now.”
+[says:hashimoto-masayoshi] (p.144) “Alright, I'll stop by the lobby toilet before I go back. You can go back and sleep first.”
+[note] (p.143) Sakayanagi's group 5–7; Ryūen's 3–9; both are out of first place; Hashimoto is rattled by the abrupt exits.
+[rel:hashimoto-masayoshi] (p.142–144) He fishes for Sakayanagi intel; he unravels anyway; he hints he might misjudge Sakayanagi's reach; he heads to the empty lobby toilet.
+
+<!-- walk: y2v11 ch5 → p.144 -->
