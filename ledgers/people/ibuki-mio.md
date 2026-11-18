@@ -1131,3 +1131,22 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:ayanokouji-kiyotaka] (p.93–95) He spots her eavesdropping instantly.
 
 <!-- walk: y2v11 ch3 → p.99 -->
+
+### y2v11 p.100–107 — Ch.4: The dawn circle test
+[scene] (p.100) Before 6 a.m.; she drags herself out; Horikita's rematch with Amasawa looms; she will not let her go alone.
+[says] (p.100) “Yawn... I'm sleepy. And it's cold.”
+[says] (p.101) “You're kidding. I can't let you get revenge on your own.”
+[says] (p.101) “Huh? If it's a weak point, I'll aim anywhere. Actually, the first thing I should do is kick Amasawa in the face, right?”
+[says] (p.101) “Huh!? What's this two-against-one in a match? That's so lame. It's impossible.”
+[says] (p.102) “Funny. Well, I'll burn that arrogance to ashes first.”
+[says] (p.103) “How cheeky! If I can grab your left arm, it's my game!”
+[says] (p.103) “W-What the hell...!?”
+[says] (p.105) “I don't like it.”
+[says] (p.106) “I've been doing the same. I've been trying not to lose to those around me, with karate as my main focus.”
+[says] (p.106) “I'll definitely make you use both hands tomorrow.”
+[note] (p.102–105) She grabs for the left wrist, gets brushed off, lands on her back; the all-against-one fight against Kiyotaka fails; she's left grumbling.
+[note] (p.106) She storms off after his Aikido tap; she'll be back tomorrow; she's a sore loser.
+[rel:horikita-suzune] (p.100–107) She comes along to keep Horikita from facing Amasawa alone.
+[rel:ayanokouji-kiyotaka] (p.100–107) She burns with competitive fury at losing to him with one hand.
+
+<!-- walk: y2v11 ch4 → p.113 -->

@@ -4587,3 +4587,25 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ibuki-mio] (p.93–95) Sparring fatigue; she brings up Ibuki's help; the prearranged plan is exposed.
 
 <!-- walk: y2v11 ch3 → p.99 -->
+
+### y2v11 p.100–107 — Ch.4: The dawn circle test
+[scene] (p.100) Before 6 a.m.; she arrives with the Amasawa rematch set; Ayanokōji begins the training with a circle of sand.
+[says] (p.100) “It seems she was happy to accept the rematch.”
+[says] (p.100) “I asked for the morning of the fourth day as promised with you, but she negotiated to change it to the morning of the third day.”
+[says] (p.100) “Since I was the one asking, I didn't dig too much into it since it was a private matter. There might be some problems unique to girls, so if you understand, could you give us permission to change it to the third day?”
+[note] (p.100–101) Amasawa agreed at once but asked to move the rematch earlier; Horikita refused; Amasawa gave in; a debt of sorts lingers unexplained.
+[says] (p.101) “I'm sorry. What do you mean by two against one—”
+[says] (p.102) “I don't like it. I can't accept that condition.”
+[says] (p.104) “So the pattern I was caught in was the same as just now...”
+[says] (p.104) “...I wasn’t going to let the same thing happen to me, but before I knew it, I was forcibly taken...”
+[says] (p.104) “This is the difference in ability between us and Amasawa-san right now, isn't it?”
+[note] (p.102–105) She moves in, falls into the Aikido pattern; she is shown the exact 50-vs-60 gap with a technique bonus; she accepts the two-on-one condition.
+[says] (p.106) “How did you become so strong...?”
+[says] (p.106) “It's okay. I'll have a talk with her later and review today's experience. Even if I have to force it upon her.”
+[says] (p.106) “But I've decided to think of you as an exception. The fact that my brother recognized you is now a great source of support for me.”
+[says] (p.107) “It's suspicious. I can't help but suspect there's something behind it.”
+[says] (p.107) “Right. Let's be patient with each other.”
+[rel:ayanokouji-kiyotaka] (p.100–107) She takes his training; she swallows her pride; she gets her first honest read on Amasawa's wall.
+[rel:ibuki-mio] (p.100–107) They are oil and water; she will review Ibuki's experience later by force.
+
+<!-- walk: y2v11 ch4 → p.113 -->

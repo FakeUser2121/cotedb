@@ -239,6 +239,17 @@ char_id: kiryuin-fuuka · class: unknown · status: unknown
 [rel:ayanokouji-kiyotaka] (p.79–83) She teases that he might become a politician; he declines; she is entertained by his defeat with Kōenji.
 
 <!-- walk: y2v11 ch2 → p.84 -->
+
+### y2v11 p.109 — Ch.4: The third-year who won't carry trays
+[scene] (p.109) Breakfast; she finishes early; she probes the “magic” that tamed the first-years.
+[says] (p.109) “In less than a day, you've tamed the first-year students so well. What kind of magic did you use?”
+[says] (p.109) “Do you intend to hide it from me too?”
+[says] (p.109) “Hmm, a secret between men. That's not so bad.”
+[says] (p.109) “I appreciate the thought, but I can clean up after myself. Let's meet again at the next exchange meeting.”
+[rel:hashimoto-masayoshi] (p.109) He blocks her probe with “a secret between men”; she leaves oddly satisfied.
+[rel:ayanokouji-kiyotaka] (p.109) She reads that he hides something from her too.
+
+<!-- walk: y2v11 ch4 → p.113 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

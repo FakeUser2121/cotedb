@@ -1027,6 +1027,22 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [rel:ayanokouji-kiyotaka] (p.85–99) He leans on Kiyotaka as a scout; Kiyotaka refuses open support but lets him talk.
 
 <!-- walk: y2v11 ch3 → p.99 -->
+
+### y2v11 p.107–109 — Ch.4: Morning bath mobilization
+[scene] (p.107) Before seven; he and Kiyotaka head to the morning bath; the first-years barge in; breakfast follows.
+[says] (p.107) “Alright. Then I'll leave for the morning bath. What about you guys?”
+[says] (p.107) “Yanagi, Kobayashi, Kozumi, let's go too!”
+[note] (p.107) He calls Yanagi, Kobayashi, Kozumi — unrostered names; “Kozumi” likely Kosumi Dan misspelled; unverified.
+[says] (p.109) “Do you not get why your kōhais respect you?”
+[note] (p.109) “I might not understand it myself, but there's a part of me that admires you—or rather, fears you.” — untagged; Hashimoto and Kiryūin both heard it; translation leaves the speaker unresolved; “Fear?” follows without attribution.
+[says] (p.109) “Sorry, but it's a secret between men. I can't tell you about it.”
+[says] (p.109) “We'll clean up. You don't have to worry about it, Senpai.”
+[says] (p.109) “Whether it's easy or hard to deal with, she's a difficult senpai to understand.”
+[note] (p.108–109) He credits the first-year frenzy to “that” (unknown to the room); fears-of-senpai line; he won't share the secret; Kitō-adjacent energy noted by Kiryūin.
+[rel:ayanokouji-kiyotaka] (p.107–109) He plays the fear-monger senpai for Kiyotaka's legend; they trade the mystery.
+[rel:kiryuin-fuuka] (p.109) She tries to milk him for the secret of why he is feared.
+
+<!-- walk: y2v11 ch4 → p.113 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

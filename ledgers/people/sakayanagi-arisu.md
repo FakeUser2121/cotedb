@@ -1300,3 +1300,32 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:sanada-kousei] (p.88–92) Sanada tries to probe her team's inner workings; he cannot tell Kiyotaka anything solid; she avoids the camp matches.
 
 <!-- walk: y2v11 ch3 → p.99 -->
+
+### y2v11 p.110–113 — Ch.4: The sleepy princess on the sofa
+[scene] (p.110) Morning after the first day; she sits alone on the lobby sofa; barely keeping her eyes open; the old dance resumes with Ayanokōji.
+[says] (p.110) “Good morning, Ayanokōji-kun.”
+[says] (p.110) “Yes. It seems I'm not good at sharing a room, so I couldn't sleep well. I decided to take a short break after I had a light meal.”
+[says] (p.110) “Usually, I get eight hours of sleep a day. It seems I'll struggle for a few days.”
+[says] (p.110) “Speaking of him, there's a strange rumor going around. Something about him betraying the class. I'd appreciate it if you could warn him to be careful.”
+[says:amasawa-ichika] (p.112) “Good morning!”
+[says:amasawa-ichika] (p.112) “It seems like Ayanokōji-senpai has been winning all along, but... you lost three times on the first day, Arisu-senpai. I'm worried that you might be in a pinch already.”
+[says] (p.110) “Ayanokōji-kun, you're in the same group as Hashimoto-kun and Morishita-san. How is Hashimoto-kun doing?”
+[says] (p.111) “You're not usually one to take things at face value, Ayanokōji-kun. It's probably just one of the excuses he used to have you scout me.”
+[says] (p.111) “Certainly, right after Masumi-san left, there was unexpected damage. You know that too, Ayanokōji-kun. But, I won't dwell on it for long.”
+[says] (p.111) “The person I keep close to me must be someone I can trust as much as possible.”
+[says] (p.111) “If there's a reason why I didn't do anything at this exchange meeting, it might be because I'm focusing on identifying someone who can become my new hands and feet.”
+[says] (p.111) “There is no problem at all. Thank you for your concern.”
+[says] (p.112) “Unfortunately, I am not in command this time. I have left it all to the third-year.”
+[says:amasawa-ichika] (p.112) “Hmm? So if you lose, it can't be helped? I was hoping for a little bit of interaction with other years this time, as it's a valuable opportunity.”
+[says] (p.112) “There's no need to set limitations within constraints. If you wish to challenge me, I am always ready to accept, so please rest assured.”
+[says:amasawa-ichika] (p.112) “You're bluffing. I've heard that you lost in the previous special exam and ended up at the bottom.”
+[says] (p.112) “Don't take it the wrong way, Ayanokōji-kun.”
+[says:amasawa-ichika] (p.113) “You're like a knight protecting a princess, but it's interesting. I don't mind even if you're violent against a girl... Maybe I went too far with my joke.”
+[says:amasawa-ichika] (p.113) “I'll play with you again next time. Please be ready to give it your all, Arisu-senpai!”
+[note] (p.110–113) She agreed the camp was not worth her command; her real aim is recruiting a successor to Kamuro; Kitō is loyal but excluded (opposite sex); Amasawa probes her and is restrained by Kitō.
+[rel:ayanokouji-kiyotaka] (p.110–113) He probes her; she declines to explain; both feign ignorance of the leak's consequences.
+[rel:kitou-hayato] (p.111–113) He checks her from afar; he grabs Amasawa's wrist to shield her.
+[rel:amasawa-ichika] (p.112–113) Amasawa waltzes in, taunts her; Sakayanagi is unmoved; Kitō intervenes.
+[rel:hashimoto-masayoshi] (p.110) She plants the warning deliberately; she wants him to keep his mouth shut.
+
+<!-- walk: y2v11 ch4 → p.113 -->
