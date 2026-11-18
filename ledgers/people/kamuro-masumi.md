@@ -329,14 +329,15 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 
 ## y2v4.5
 
+
+### y2v4.5 p.10-290 — kamuro-masumi mentioned in passing
+[scene] (p.10) Named in this volume.
+[note] (p.10) Passing mentions on pages: p.15, p.93-95.
+[mentioned] (p.10) Passing mention only.
+
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 pp.10-290 — Full volume
 
-[scene] (p.10) Appears in this volume.
-
-
-<!-- walk: y2v4.5 Epilogue → p.290 -->
 
 ## y2v6
 

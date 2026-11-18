@@ -392,12 +392,7 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 pp.10-290 — Full volume
 
-[scene] (p.10) Appears in this volume.
-
-
-<!-- walk: y2v4.5 Epilogue → p.290 -->
 
 ### y2v4.5 p.167–181, 192–193, 204–205 — Satō partners with Ayanokōji
 [says] (p.167) "You know…Ayanokōji-kun, have you partnered up with anyone yet?"

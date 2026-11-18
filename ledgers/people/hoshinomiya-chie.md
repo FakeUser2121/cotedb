@@ -378,12 +378,7 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 pp.10-290 — Full volume
 
-[scene] (p.10) Appears in this volume.
-
-
-<!-- walk: y2v4.5 Epilogue → p.290 -->
 
 ### y2v4.5 p.225–236 — Hoshinomiya drinks: the exam that ruined Class A
 [scene] (p.225) Slumped face-down on the bar at 1 a.m., demanding a strong drink ("master's choice") — exhausted from the island exam and bitter that teachers get no summer vacation.

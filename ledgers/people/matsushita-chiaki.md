@@ -165,14 +165,15 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 [rel:ayanokouji-kiyotaka] (p.182–184) Offers to group with him; he declines to decide immediately, suspecting she is scheming.
 ## y2v4.5
 
+
+### y2v4.5 p.10-290 — matsushita-chiaki mentioned in passing
+[scene] (p.10) Named in this volume.
+[note] (p.10) Passing mentions on pages: p.127, p.168, p.172-175, p.218, p.220.
+[mentioned] (p.10) Passing mention only.
+
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 pp.10-290 — Full volume
 
-[scene] (p.10) Appears in this volume.
-
-
-<!-- walk: y2v4.5 Epilogue → p.290 -->
 
 ## y2v5
 

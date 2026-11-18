@@ -327,12 +327,7 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 pp.10-290 — Full volume
 
-[scene] (p.10) Appears in this volume.
-
-
-<!-- walk: y2v4.5 Epilogue → p.290 -->
 
 ### y2v4.5 p.227–233 — Mashima reveals the next special exam
 [scene] (p.227) Sandwiched between the two women, sets down his half-empty beer forcefully and warns that the second-years' success "can invite trouble" — not one second-year has ever dropped out.

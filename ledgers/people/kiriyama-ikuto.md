@@ -175,14 +175,15 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 
 ## y2v4.5
 
+
+### y2v4.5 p.10-290 — kiriyama-ikuto mentioned in passing
+[scene] (p.10) Named in this volume.
+[note] (p.10) Passing mentions on pages: p.36-37, p.43-50, p.52-53, p.153-154.
+[mentioned] (p.10) Passing mention only.
+
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 pp.10-290 — Full volume
 
-[scene] (p.10) Appears in this volume.
-
-
-<!-- walk: y2v4.5 Epilogue → p.290 -->
 
 ## y2v7
 

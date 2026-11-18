@@ -1194,12 +1194,7 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 pp.10-290 — Full volume
 
-[scene] (p.10) Appears in this volume.
-
-
-<!-- walk: y2v4.5 Epilogue → p.290 -->
 
 ### y2v4.5 p.26–30 — Ike's confession; visiting the injured Komiya
 [says] (p.26) "I'm thinking of going to visit Komiya right now."

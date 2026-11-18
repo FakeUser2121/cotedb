@@ -1786,12 +1786,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 pp.10-290 — Full volume
 
-[scene] (p.10) Appears in this volume.
-
-
-<!-- walk: y2v4.5 Epilogue → p.290 -->
 
 ### y2v4.5 p.194–202 — Kushida's lunch with Horikita: demanding her expulsion
 [says] (p.196) "You're going to take a break now, right Horikita-san? Would you have lunch together with me?"

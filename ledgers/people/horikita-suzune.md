@@ -4240,12 +4240,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 pp.10-290 — Full volume
 
-[scene] (p.10) Appears in this volume.
-
-
-<!-- walk: y2v4.5 Epilogue → p.290 -->
 
 ### y2v4.5 p.194–202 — The Kushida lunch: "drop out of school"
 [scene] (p.194) Administering treasure-hunt rewards on the student council with Yagami; takes a break and has lunch with Kushida, who proposed it.

@@ -137,12 +137,7 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 pp.10-290 — Full volume
 
-[scene] (p.10) Appears in this volume.
-
-
-<!-- walk: y2v4.5 Epilogue → p.290 -->
 
 ### y2v4.5 p.251–254 — Yagami summons Amasawa: her real intentions
 [scene] (p.251) In a guest cabin, Amasawa (now a "civilian" after Tsukishiro's disqualification) meets Yagami, who has calculated that their roommates won't return; she warns he'd normally question the timing.

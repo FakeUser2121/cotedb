@@ -875,14 +875,15 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:nagumo-miyabi] (p.281) Beat him by 2 points.
 ## y2v4.5
 
+
+### y2v4.5 p.10-290 — kouenji-rokusuke mentioned in passing
+[scene] (p.10) Named in this volume.
+[note] (p.10) Passing mentions on pages: p.13, p.37, p.45, p.48-49, p.87-88.
+[mentioned] (p.10) Passing mention only.
+
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 pp.10-290 — Full volume
 
-[scene] (p.10) Appears in this volume.
-
-
-<!-- walk: y2v4.5 Epilogue → p.290 -->
 
 ## y2v5
 

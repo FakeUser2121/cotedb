@@ -528,12 +528,7 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 pp.10-290 — Full volume
 
-[scene] (p.10) Appears in this volume.
-
-
-<!-- walk: y2v4.5 Epilogue → p.290 -->
 
 ### y2v4.5 p.119–128 — Hiyori: witness to the dispute; serious invitation to Ayanokōji
 [says] (p.119) "Have you seen Katsuragi?"

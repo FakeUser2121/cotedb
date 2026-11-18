@@ -1739,12 +1739,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 pp.10-290 — Full volume
 
-[scene] (p.10) Appears in this volume.
-
-
-<!-- walk: y2v4.5 Epilogue → p.290 -->
 
 ### y2v4.5 p.38, 54–58 — Ichinose at the pool; the party she declined
 [scene] (p.38) At the pool with her classmates, is the first to notice Ayanokōji; her shoulders jerk and she hides behind her classmates, awkward after her confession.

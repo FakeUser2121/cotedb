@@ -846,12 +846,7 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 pp.10-290 — Full volume
 
-[scene] (p.10) Appears in this volume.
-
-
-<!-- walk: y2v4.5 Epilogue → p.290 -->
 
 ### y2v4.5 p.119–127 — Katsuragi confronts Tokitō; his doubts about Ryūen's class
 [says] (p.119) "There's no way to answer. I keep asking you to clarify what you mean by 'following'."

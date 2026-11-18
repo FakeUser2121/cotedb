@@ -8,14 +8,15 @@ char_id: okabe-fuyu · class: unknown · status: unknown
 
 ## y2v4.5
 
+
+### y2v4.5 p.10-290 — okabe-fuyu mentioned in passing
+[scene] (p.10) Named in this volume.
+[note] (p.10) Passing mentions on pages: p.119, p.121-122, p.124-125.
+[mentioned] (p.10) Passing mention only.
+
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 pp.10-290 — Full volume
 
-[scene] (p.10) Appears in this volume.
-
-
-<!-- walk: y2v4.5 Epilogue → p.290 -->
 
 
 <!-- walk: y2v5 Epilogue → p.243 -->

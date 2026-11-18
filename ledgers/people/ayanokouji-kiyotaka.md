@@ -8290,12 +8290,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 pp.10-290 — Full volume
 
-[scene] (p.10) Appears in this volume.
-
-
-<!-- walk: y2v4.5 Epilogue → p.290 -->
 
 ### y2v4.5 p.10–16 — Prologue note; August class points; settling in
 [note] (p.10) The prologue is Ayanokōji's monologue (phones returned, cruise rules stricter — no leaving rooms after 10 p.m., some levels off-limits); recorded as narration on his own page.

@@ -1118,12 +1118,7 @@ aliases used for anchors: sakura, airi, sakura-san
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 pp.10-290 — Full volume
 
-[scene] (p.10) Appears in this volume.
-
-
-<!-- walk: y2v4.5 Epilogue → p.290 -->
 
 ### y2v4.5 p.100–113 — Airi's "remodelling": new swimsuit, no glasses, a resolve to change
 [says] (p.100) "P-pushing me like that…you're awful Haruka-chan!"

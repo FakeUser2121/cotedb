@@ -179,14 +179,15 @@ char_id: komiya-kyogo · class: Class 1-C (enrolled April 2015) · status: minor
 
 ## y2v4.5
 
+
+### y2v4.5 p.10-290 — komiya-kyogo mentioned in passing
+[scene] (p.10) Named in this volume.
+[note] (p.10) Passing mentions on pages: p.4, p.12, p.26-35, p.178, p.183-185.
+[mentioned] (p.10) Passing mention only.
+
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 pp.10-290 — Full volume
 
-[scene] (p.10) Appears in this volume.
-
-
-<!-- walk: y2v4.5 Epilogue → p.290 -->
 
 ## y2v5
 

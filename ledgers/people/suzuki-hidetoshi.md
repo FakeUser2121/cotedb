@@ -34,14 +34,15 @@ char_id: suzuki-hidetoshi · class: Class 1-C (enrolled April 2015) · status: m
 
 ## y2v4.5
 
+
+### y2v4.5 p.10-290 — suzuki-hidetoshi mentioned in passing
+[scene] (p.10) Named in this volume.
+[note] (p.10) Passing mentions on pages: p.74, p.114-115.
+[mentioned] (p.10) Passing mention only.
+
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 pp.10-290 — Full volume
 
-[scene] (p.10) Appears in this volume.
-
-
-<!-- walk: y2v4.5 Epilogue → p.290 -->
 
 ## y2v5
 
