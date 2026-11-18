@@ -1865,12 +1865,20 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v9 → start -->
 
-### y2v9 pp.8-225 — Full volume
+### y2v9 p.69–71 — Sudō at the café study group: glasses, maturity and study tips
+[scene] (p.69) Arrives late and out of breath to the Keyaki café study group after basketball practice; takes out a rectangular case and puts on reading glasses, surprising classmates who have never seen him study.
+[says] (p.69) "It's no big deal. I do it all the time."
+[says] (p.69) "What are you staring at me for?"
+[scene] (p.70–71) Shinohara and the others ask how he keeps at it; he reflects that he once saw study as a distraction from basketball, but worried that if he fails to go pro he'd have few options, so he now calls study an investment in his future.
+[says] (p.71) "Studying is an investment in your future. That's what I think."
+[says] (p.71) "That's enough small talk, right? Let's get on with our studies."
+[trait] (p.69–71) Matured considerably — the former bottom-of-the-class athlete now studies in glasses, balances basketball with homework without complaint, and articulates a realistic reason to keep studying; his short, unpolished speech is credited with motivating peers who once laughed at him.
+[rel:horikita-suzune] (p.70) She was the original reason he started studying; the group notes his rise from the class's lowest academic rank.
+[rel:shinohara-satsuki] (p.69–70) She admires how different he looks in glasses and asks for his tips on sustained study.
 
-[scene] (p.8) Appears in this volume.
+<!-- walk: y2v9 Ch.2 → p.71 -->
 
 
-<!-- walk: y2v9 Epilogue → p.225 -->
 
 ## y2v9.5
 

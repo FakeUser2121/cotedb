@@ -130,12 +130,12 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 
 <!-- walk: y2v9 → start -->
 
-### y2v9 pp.8-225 — Full volume
+### y2v9 p.9 — Hondō: named in Kei's morning comparison
+[scene] (p.9) Named only — Ayanokōji tells Kei that Hondō and Ike have worse sleeping habits than her bedhead, as she fusses over her hair walking to school.
 
-[scene] (p.8) Appears in this volume.
+<!-- walk: y2v9 Ch.1 → p.9 -->
 
 
-<!-- walk: y2v9 Epilogue → p.225 -->
 
 ## y2v9.5
 

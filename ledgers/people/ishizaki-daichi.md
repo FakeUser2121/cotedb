@@ -794,12 +794,17 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y2v9 → start -->
 
-### y2v9 pp.8-225 — Full volume
+### y2v9 p.96, 145 — Ishizaki: karaoke intrusion and harassment duty
+[scene] (p.96) He and Komiya barge into the karaoke room where Kanzaki's group is holding a secret meeting; he spins lame excuses about checking on fellow second-years and leaves clicking his tongue when asked to go.
+[says] (p.96) "Why, well, there are a lot of reasons. You know?"
+[scene] (p.145) He joins Ryūen in confronting Ichinose's study group as part of the ordered harassment.
+[trait] (p.96, 145) A loyal Ryūen lieutenant who carries out the class's harassment and doesn't hide his irritation when a bluff fails.
+[rel:ryuuen-kakeru] (p.96, 145) Acts on his orders to harass Ichinose's class.
+[rel:komiya-kyogo] (p.96) His classmate and partner in the karaoke intrusion.
 
-[scene] (p.8) Appears in this volume.
+<!-- walk: y2v9 Ch.5 → p.145 -->
 
 
-<!-- walk: y2v9 Epilogue → p.225 -->
 
 ## y2v9.5
 

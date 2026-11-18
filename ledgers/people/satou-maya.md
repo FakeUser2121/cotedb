@@ -487,12 +487,19 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 
 <!-- walk: y2v9 → start -->
 
-### y2v9 pp.8-225 — Full volume
+### y2v9 p.204–211 — Satō: counseling Kei through her "relationship trouble"
+[scene] (p.204–207) At Keyaki Mall she listens as Kei confides that her relationship with Ayanokōji may be in trouble after a fight, and offers her blunt, pure-girl verdict that he was at fault.
+[says] (p.204) "Does 'relationship trouble' mean... that you might break up?"
+[says] (p.206) "I see... it's definitely Ayanokouji-kun's fault!"
+[scene] (p.209–211) When Kei sees a photo of Ayanokōji with Ichinose at the gym, Satō tries to console her, then questions Ichinose directly; she is reassured when Ichinose denies anything between them.
+[says] (p.209) "Does Ayanokouji-kun go to the gym?"
+[trait] (p.204–211) A loyal, emotionally direct best friend — eagerly hears Kei out, takes her side without bias, and confronts Ichinose to defend her friend.
+[rel:karuizawa-kei] (p.204–211) Kei's confidante; she had been waiting for Kei to open up and supports her.
+[rel:ichinose-honami] (p.209–211) Questions her closely about the gym photo and the alleged date.
 
-[scene] (p.8) Appears in this volume.
+<!-- walk: y2v9 Epilogue → p.211 -->
 
 
-<!-- walk: y2v9 Epilogue → p.225 -->
 
 ## y2v9.5
 

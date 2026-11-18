@@ -205,12 +205,16 @@ char_id: komiya-kyogo · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v9 → start -->
 
-### y2v9 pp.8-225 — Full volume
+### y2v9 p.96 — Komiya: karaoke intrusion with Ishizaki
+[scene] (p.96) He and Ishizaki barge into Kanzaki's karaoke meeting, claiming they only came to join the singing; Kanzaki sees through the excuse and they leave clicking their tongues.
+[says] (p.96) "Oh, oh. We were both at karaoke and I saw you guys. I thought it would be more fun to have a bunch of people singing than just two guys singing in solitude."
+[trait] (p.96) Playfully evasive — helps keep up the pretense that the intrusion is harmless fun.
+[rel:ishizaki-daichi] (p.96) His classmate and partner in the intrusion.
+[rel:ryuuen-kakeru] (p.96) The harassment is done on his orders.
 
-[scene] (p.8) Appears in this volume.
+<!-- walk: y2v9 Ch.3 → p.96 -->
 
 
-<!-- walk: y2v9 Epilogue → p.225 -->
 
 ## y2v12
 

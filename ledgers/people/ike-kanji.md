@@ -1241,12 +1241,26 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y2v9 → start -->
 
-### y2v9 pp.8-225 — Full volume
+### y2v9 p.11, 69–70 — Ike: the exam brief and the café study group
+[scene] (p.11) In homeroom, on hearing Class B must fight Class A in the academic match, he objects that it is a bad idea.
+[says] (p.11) "So, if it's a class-based academic competition, then it's simply not a good idea to fight against Class A!"
+[scene] (p.69–70) At the café study group he arrives late, claims he is also trying, but Shinohara's comparison to Sudō's progress silences his argument.
+[says] (p.69) "Oh, I'm trying, too!"
+[trait] (p.11, 69–70) Still the loud, defensive class clown, but now making a visible effort at the study groups — though he bristles when his girlfriend measures him against Sudō's growth.
 
-[scene] (p.8) Appears in this volume.
+<!-- walk: y2v9 Ch.2 → p.70 -->
+
+### y2v9 p.141–142 — Ike: the lunch study grind with Shinohara
+[scene] (p.141–142) At lunch he studies side by side with Shinohara, says he is "suddenly motivated" and riding a wave, and tries to hug her when she finishes — only to get a textbook dropped on his head.
+[says] (p.141) "It's been tough, I feel like I'm paying for all the time I've been slacking off…"
+[says] (p.142) "You're so reliable. That's my girlfriend!"
+[trait] (p.141–142) Newly motivated and playful — he studies hard for the exam and fawns on Shinohara, but Hirata warns him not to push himself to collapse.
+[rel:shinohara-satsuki] (p.141–142) His girlfriend; studies beside her and gets a textbook on the head for his trouble.
+[rel:hirata-yousuke] (p.142) Compliments his effort and cautions him against overwork.
+
+<!-- walk: y2v9 Ch.5 → p.142 -->
 
 
-<!-- walk: y2v9 Epilogue → p.225 -->
 
 ## y2v9.5
 

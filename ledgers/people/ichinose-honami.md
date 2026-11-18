@@ -1806,12 +1806,21 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v9 → start -->
 
-### y2v9 pp.8-225 — Full volume
+### y2v9 p.118–140 — Ichinose: the "mirror your day off" gym date and café talk
+[scene] (p.118–123) She meets Ayanokōji before opening time at Keyaki Mall, accepts his request to shadow how she spends her day off, and leads him to the gym she joined in September — noting he has never been to one.
+[says] (p.121) "How do I spend my days off?"
+[says] (p.123) "Ayanokouji-kun, you haven't been to the gym before, have you?"
+[scene] (p.124–129) She shows him the machines, is flustered when Amikura finds them together and realizes her outfit is embarrassing, and works out happily; she is more tired than Amikura and goes to rehydrate.
+[scene] (p.130–132) While she is away Amikura confesses she has had a crush on someone for five years and that Watanabe is "normal" but Ichinose could aim higher; after changing, Ichinose suggests a bench rather than a café to avoid being seen with him.
+[says] (p.132) "Yeah. You know, it kind of stands out."
+[scene] (p.133–140) In a small second-floor café she rightly guesses the meeting was about her council resignation; they discuss how she gets along with everyone, and she agrees to shadow her life to learn social skills she lacks.
+[says] (p.133) "Does the reason why you invited me here today have anything to do with my resignation from the student council?"
+[trait] (p.118–140) Cheerful, physically active (a self-described "bit of an athlete"), and naive about romance — she enjoys showing Ayanokōji her routine, is easily embarrassed, and honestly admits her social confidence is a learned act.
+[rel:ayanokouji-kiyotaka] (p.118–140) Spends her day off with him at the gym and café; feels "bursting with happiness."
+[rel:amikura-mako] (p.124–131) Her best friend ("Mako-chan"), who joins the workout and confides her five-year crush.
+[rel:watanabe-norihito] (p.130) Named by Ayanokōji as a potential match; Amikura says she could aim higher.
 
-[scene] (p.8) Appears in this volume.
-
-
-<!-- walk: y2v9 Epilogue → p.225 -->
+<!-- walk: y2v9 Ch.4 → p.140 -->
 
 ### y2v9 p.33–35 — Ichinose withdraws; resigns from the student council
 [says] (p.33) "I'm—not going to run for the student council this time."
@@ -1831,6 +1840,18 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [trait] (p.144–147) Ryūen arrives to provoke her about quitting the student council (infiltrated it to earn good points), calling her a "shoplifter" — but she, having "developed a resistance to such discussions," is no longer shaken; she calmly endures it, and Kanzaki steps in to defend her — a sign of her new strength.
 [rel:ryuuen-kakeru] (p.145–147) He tries to break her before the special exam by taunting her about the student council/shoplifting — "If you lose to me in the next special exam, you're going to fall off a cliff."
 [rel:kanzaki-ryuuji] (p.146) He interrupts to defend her — "Cut it out, Ryuuen."
+
+### y2v9 p.213–217 — Ichinose: "not yet," and the rain talk with Ryūen
+[scene] (p.213) After Kei and Satō walk away, she quietly mutters to herself that things with Ayanokōji are "not yet" resolved, and leaves.
+[says] (p.213) "Not yet, you know..."
+[scene] (p.214–217) On the first day of winter break she meets Ryūen in the pouring rain; she reveals she waited ready to leave after 30 minutes, defends her class's honest studying against his sabotage, and says his underhanded strategy was a mistake.
+[says] (p.214) "I was prepared to wait for 30 minutes. If you didn't show up by then, I was going to leave without hesitation."
+[says] (p.214) "You're such a softy for taking the trouble to answer my call."
+[says] (p.215) "There is no wisdom in there, Ryuuen-kun. We just continued to study in the midst of the noise."
+[trait] (p.213–217) Quietly resolute — she has not given up on Ayanokōji ("not yet"), and calmly stands her ground against Ryūen, crediting her class's growth rather than any trick.
+[rel:ryuuen-kakeru] (p.214–217) Meets him in the rain; defends her class's win and tells him his sabotage was a mistake.
+
+<!-- walk: y2v9 Epilogue → p.217 -->
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->

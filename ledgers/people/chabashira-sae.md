@@ -1374,12 +1374,16 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v9 → start -->
 
-### y2v9 pp.8-225 — Full volume
+### y2v9 p.10–15 — Chabashira announces the final special exam of the semester
+[scene] (p.10) She arrives for homeroom and tells Class 1-D that before winter break they must take the last special exam of the second semester — an academic one-on-one match with no expulsion but a swing of 50 class points.
+[says] (p.10) "It should come as no surprise to you that you didn't have any warning, but before winter break, you'll have to take the last special exam of the second semester."
+[says] (p.11) "I understand your concerns, but there's no need to panic so much. It isn't the most feared kind of special exam that will cause students to drop out."
+[scene] (p.12–15) She lays out the rules — a cooperative written test of 100 questions solved one at a time, points scored inversely to OAA academic rating, time bonuses, and unanswerable questions for absences — and insists the class has a real chance to win.
+[trait] (p.10–15) Calm, matter-of-fact instructor who downplays panic and frames the exam as Class B's genuine opportunity; she spoke like a mother watching over her children.
 
-[scene] (p.8) Appears in this volume.
+<!-- walk: y2v9 Ch.1 → p.15 -->
 
 
-<!-- walk: y2v9 Epilogue → p.225 -->
 
 ## y2v9.5
 

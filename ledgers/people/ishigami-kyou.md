@@ -69,12 +69,12 @@ char_id: ishigami-kyou · class: unknown · status: unknown
 
 <!-- walk: y2v9 → start -->
 
-### y2v9 pp.8-225 — Full volume
+### y2v9 p.61–66 — Named as "the Ishigami I pictured": the Class 1-A confusion
+[scene] (p.61–66) Named in conversation only — when Horikita says she is meeting "Ishigami-kun," Ayanokōji assumes it is the second-year Keisei he has in mind ("There were no other first-year students with the same surname"), before realizing Horikita means the first-year; Keisei himself is not on-page.
 
-[scene] (p.8) Appears in this volume.
+<!-- walk: y2v9 Ch.2 → p.66 -->
 
 
-<!-- walk: y2v9 Epilogue → p.225 -->
 
 ## y2v11
 

@@ -952,12 +952,15 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y2v9 → start -->
 
-### y2v9 pp.8-225 — Full volume
+### y2v9 p.177–180 — Kōenji: the unpredictable last solver in the exam
+[scene] (p.177–180) On the morning of the special exam he is, as usual, utterly relaxed — browsing the internet with a hand mirror while others study hard; Horikita, unsure whether he will take it seriously, places him last in the order so that 98 of 100 questions are already filled in before his turn.
+[note] (p.178) He replies only that he has the right to do whatever he wants.
+[trait] (p.177–180) Free and unpredictable — his refusal to commit to seriousness forces Horikita to design the order around him, giving him the final, safest slot.
+[rel:horikita-suzune] (p.178) She works around his unpredictability by putting him last.
 
-[scene] (p.8) Appears in this volume.
+<!-- walk: y2v9 Ch.6 → p.180 -->
 
 
-<!-- walk: y2v9 Epilogue → p.225 -->
 
 ## y2v9.5
 

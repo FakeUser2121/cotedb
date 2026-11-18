@@ -1876,12 +1876,30 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y2v9 → start -->
 
-### y2v9 pp.8-225 — Full volume
+### y2v9 p.8, 46–49 — Kushida: a morning glare, then recruited to the student council
+[scene] (p.8) Walking to school, she waves and smiles at Ayanokōji, then flashes him a glare the moment she thinks no one is watching — the hit-and-run he can't account for.
+[scene] (p.46–49) Horikita approaches her outside the classroom with the offer to fill Ichinose's vacated student-council seat; Kushida probes who will be president, then agrees.
+[says] (p.46) "Is Nagumo still going to be the student council president?"
+[says] (p.47) "What...? I see. Was there a problem?"
+[trait] (p.8, 46–49) Two-faced as ever — friendly in public, openly hostile when unobserved; she is flattered and surprised to be hand-picked by Horikita despite their friction.
+[rel:horikita-suzune] (p.46–49) Like oil and water, yet Horikita needs her high reputation and B+ academics; she accepts the seat.
+[rel:ayanokouji-kiyotaka] (p.8) Glared at him when she thought no one saw.
 
-[scene] (p.8) Appears in this volume.
+<!-- walk: y2v9 Ch.2 → p.49 -->
+
+### y2v9 p.73, 180–187 — Kushida: sworn in, then secretary on the shoplifting case
+[scene] (p.73) Sworn in alongside Nanase as a new student-council member; she tells Horikita she had been nervous about who else would join and was relieved it was Nanase.
+[says] (p.73) "I was relieved earlier when I heard that Nanase-san was also joining the student council. I was so nervous about who else would be joining us."
+[scene] (p.180–187) In the hearing into Kiryūin's shoplifting complaint she brings her own notebook, proud to be keeping the record as the new secretary, and supplies the key reasoning: framing Nagumo only makes sense if the culprit fears someone else more.
+[says] (p.181) "I've got some third-party testimony in this shoplifting case."
+[says] (p.185) "Trying to pin the blame on Nagumo-senpai in the third year is only a..."
+[trait] (p.180–187) Eager to prove herself in her first student-council job, and perceptive — she reads the contradiction in the testimonies and correctly suggests the accusers fear the real culprit.
+[rel:horikita-suzune] (p.181–187) Brings evidence to the new president's first hearing.
+[rel:nanase-tsubasa] (p.73) Relieved to be joining the council with her.
+
+<!-- walk: y2v9 Ch.6 → p.187 -->
 
 
-<!-- walk: y2v9 Epilogue → p.225 -->
 
 ## y2v9.5
 

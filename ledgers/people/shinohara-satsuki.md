@@ -398,12 +398,27 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y2v9 → start -->
 
-### y2v9 pp.8-225 — Full volume
+### y2v9 p.69–70 — Shinohara at the café study group: admiring Sudō, needling Ike
+[scene] (p.69) At the Keyaki café study group, she notices Sudō arrive in reading glasses and admires how different he looks.
+[says] (p.69) "What? Sudou-kun wears glasses?"
+[says] (p.69) "You look pretty different just by wearing glasses. And you've started to study more, haven't you?"
+[scene] (p.70) She pokes her boyfriend Ike beside her and, with barbed praise, compares his effort to Sudō's; when he tries to argue, her stinging words make him fall silent.
+[says] (p.70) "I know that. I know, but there's still a big gap between Sudou-kun and the two of us."
+[trait] (p.69–70) Now an active participant in the study groups ("suddenly motivated," riding a wave), but still sharp-tongued toward Ike; she openly admires Sudō's growth while needling her boyfriend to keep up.
+[rel:ike-kanji] (p.69–70) Her boyfriend; she pokes him and undercuts his boasting.
+[rel:sudou-ken] (p.69–70) Admires his transformation and asks him for tips on sustaining study.
 
-[scene] (p.8) Appears in this volume.
+<!-- walk: y2v9 Ch.2 → p.70 -->
+
+### y2v9 p.141–142 — Shinohara: motivated in the lunch study grind
+[scene] (p.141–142) At lunch she studies beside Ike, says she is suddenly motivated and riding a wave, has never felt this way before, and drops her textbook on Ike's head when he tries to hug her.
+[says] (p.141) "I'm suddenly motivated now, and I'm riding the wave. I'm in a good mood."
+[trait] (p.141–142) Newly enthusiastic about studying — a big change from her old slacking — and briskly dismissive of Ike's antics.
+[rel:ike-kanji] (p.141–142) Her boyfriend; study partner whom she silences with a textbook.
+
+<!-- walk: y2v9 Ch.5 → p.142 -->
 
 
-<!-- walk: y2v9 Epilogue → p.225 -->
 
 ## y2v9.5
 

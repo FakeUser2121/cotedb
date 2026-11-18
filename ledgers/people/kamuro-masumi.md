@@ -370,12 +370,14 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 
 <!-- walk: y2v9 → start -->
 
-### y2v9 pp.8-225 — Full volume
+### y2v9 p.149 — Kamuro: curious about studying in public
+[scene] (p.149) At the café with Sakayanagi and Hashimoto, she asks why they study in public places rather than the dorms, tearing a piece of bread, and nods as Sakayanagi explains it helps her concentrate.
+[trait] (p.149) An attentive, questioning classmate who listens to Sakayanagi's reasoning about studying where interruptions occur.
+[rel:sakayanagi-arisu] (p.149) Explains to her why studying in public aids concentration.
 
-[scene] (p.8) Appears in this volume.
+<!-- walk: y2v9 Ch.5 → p.149 -->
 
 
-<!-- walk: y2v9 Epilogue → p.225 -->
 
 ## y2v9.5
 
