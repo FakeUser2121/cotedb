@@ -2407,6 +2407,15 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [note] (p.39) The deserted-island contract is referenced, not narrated; no scene, no dialogue.
 
 <!-- walk: y2v10 Ch.2 → p.59 -->
+
+### y2v10 p.85–86, 91, 96 — Ch.4: Ryūen, the feared rival named
+[mentioned] (p.85) Passing mention: the hypothetical — "If Ryūen-kun’s class were to use that strategy... one person expelled from his class, the addition of Katsuragi-kun has kept their numbers at 40."
+[mentioned] (p.86) Passing mention: "If Ryūen-kun’s class could only get up to 66 points, the other three classes should team up and aim for more."
+[mentioned] (p.91) Passing mention: memory — "When we were at karaoke with Ryūen, Horikita had witnessed the time when I was about to be splashed with orange juice by surprise."
+[mentioned] (p.96) Passing mention: "Ryūen is ruthless to whoever he is up against. He’s always thinking of ways to defeat the enemy’s most capable students."
+[note] (p.85) Rank speculation on these pages: the page places Ryūen's class among the bottom two with Ichinose's.
+
+<!-- walk: y2v10 Ch.4 → p.100 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

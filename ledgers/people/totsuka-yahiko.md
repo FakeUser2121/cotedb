@@ -299,9 +299,11 @@ char_id: totsuka-yahiko · class: Class 1-A (enrolled April 2015) · status: min
 [note] (p.9) Passing mention (locator pages: p.96, p.197; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.96 — Ch.4: Totsuka, the textbook case
+[mentioned] (p.96) Passing mention: "Sakayanagi tends to target people she dislikes, regardless of strength or weakness. Totsuka is a good example." — his dislike-target status is the page's own summary of Sakayanagi's pattern.
+[note] (p.96) No scene presence; no dialogue; the mention exists to contrast her style against Ichinose's and Ryūen's.
 
-
-
+<!-- walk: y2v10 Ch.4 → p.100 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

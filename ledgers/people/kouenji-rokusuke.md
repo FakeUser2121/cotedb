@@ -1010,7 +1010,7 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [says] (p.79) “So be it. I have dates after this, so I’d better get going.”
 [note] (p.73) "Wang girl" is a portmanteau of Wang 王(ワン) Mei-Yui; the page says it's likely a nickname only Kōenji would use.
 [note] (p.79) TL Note kept as printed: his word for dates is a corrupt spelling that isn't how "Date" is spelled/pronounced — used to sound more "Englishy" and to show off.
-[note] (p.79) The ostracism warning is never explained; the page says it is "not as simple as attacking a specific person" and "could shake the class's position" — the mechanism is unknown.
+[note] (p.79) The ostracism warning is never explained; the page says it would not be as simple as attacking a specific person, and that one should prepare for actions that could shake the class’s position — the mechanism is unknown.
 [voice] (p.73–80) Grandiose, performatively casual; detests hypocrisy; repays hidden debts of goodwill with deniable generosity; zero need of money.
 [limit] (p.78–79) Immune to being obligated; refuses the ally-at-any-price frame outright; "I won't change until I graduate".
 [rel:wang-mei-yu] (p.66–80) He secretly helped her for three weeks; he wants no thanks, no money, no contact, ever.

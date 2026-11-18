@@ -2016,6 +2016,12 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [note] (p.69) The page does not print whether the morning-after date ever happened; only the adjustment plan.
 
 <!-- walk: y2v10 Ch.3 → p.80 -->
+
+### y2v10 p.88, 98 — Ch.4: Karuizawa, named over the karaoke exit
+[mentioned] (p.88) Passing mention: Horikita jokes — "Unless it’s about trouble with Karuizawa-san, in which case I’d like to decline." — the exam-eve nickname stands for the known relationship drama.
+[mentioned] (p.98) Passing mention: "you started dating Karuizawasan, you started to help the class knowing that it’d make you stand out." — Horikita's read-back of AK's arc.
+
+<!-- walk: y2v10 Ch.4 → p.100 -->
 ## y2v10.25
 
 <!-- walk: y2v10.25 → start -->

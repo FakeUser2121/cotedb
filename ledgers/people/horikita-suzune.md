@@ -4739,6 +4739,120 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [trait] (p.31) Received hints from senpais; more concerned than the class; keeps it off her face.
 
 <!-- walk: y2v10 Ch.2 → p.59 -->
+
+### y2v10 p.81–89 — Ch.4: The karaoke; the 68-point autopsy
+[scene] (p.81) Wednesday afternoon, two days before the exam; Ike stands up with his winning strategy; she responds seriously but shuts down on-the-spot strategy talk.
+[says] (p.81) “Ike-kun. I will respond seriously for now, but I don’t want to discuss strategy here. Understand?”
+[says] (p.81) “That sounds good. Those who are interested can come with us, however, keep in mind that it’s a hassle if there are too many people. Can you raise your hand if you would like to come along?”
+[note] (p.81) Speaker of the "That sounds good..." line: Horikita answers Yōsuke's suggestion by turn-taking; untagged in the print.
+[scene] (p.82) Karaoke room; she finishes ordering for everyone; the plum kelp tea arrives scalding — AK apologizes.
+[says] (p.83) “Ahem, let’s hear Ike-kun’s idea.”
+[scene] (p.83) She engages Ike with full seriousness; her expression shows no amusement; his face goes tense.
+[says] (p.83) “68 points? Sure, if we had 68 points, there would indeed be a good chance of victory, but that seems like a very specific score.”
+[scene] (p.83) She sees the arithmetic instantly: 32 eliminations → 68 guaranteed; she stays keenly listening.
+[says] (p.84) “That’s a great idea for you. It’s certainly a strategy that could maintain a high average score.”
+[says] (p.85) “If it weren’t for ‘a certain rule’ in this special exam, this might’ve remained a candidate that we could have implemented.”
+[says] (p.85) “Let’s say, hypothetically, that Ryūen-kun’s class implements this strategy right after the exam starts.”
+[says] (p.85) “Even though there was one person expelled from his class, the addition of Katsuragi-kun has kept their numbers at 40. Except the leader and five others, there would be 34 eliminations. This means they would secure 66 points. While that certainly isn’t a bad score, it also means they can’t possibly score any higher. If the remaining three classes each manage to score 67 points or more, that approach becomes a ‘no-win’ strategy.”
+[says] (p.85) “No. Most likely, if Ryūen-kun’s class were to use that strategy, they would end up in last place.”
+[says] (p.86) “Listen. If they’re going to use the faking sickness strategy to cause mass elimination, they should naturally do that in the first turn. There’s little merit in implementing this strategy after the second turn.”
+[says] (p.86) “Moreover, this strategy is conspicuous. All three classes would quickly find out. Just imagine their class situation when the classes see through that strategy. Will they think, ‘Oh no, they’ve played a good move?’”
+[says] (p.86) “No. On the contrary. If they play that strategy, it would actually make things easier for the other three classes.”
+[says] (p.86) “Yes. So as soon as we see their aim, we would use this to cooperate with the other classes. If Ryūen-kun’s class could only get up to 66 points, the other three classes should team up and aim for more. If they judge that a losing class has appeared, Ichinose-san and Sakayanagi-san will also positively consider this option.”
+[says] (p.86) “They’d lose. Who to nominate, who to protect. Just by doing this, the two classes Ryūen-kun’s class targets would definitely get 50 points. Hence, they would only need to earn 17 more points. Under the current rules, they can raise the difficulty by using points, but if the score is zero or less, they can only attack with the base difficulty. Therefore, it wouldn’t be difficult to score more than 17 points.”
+[scene] (p.86) She shows him her phone during the explanation — the coordination channel is ready.
+[says] (p.87) “You don’t have to apologize. Your strategy was well thought out. What I need to apologize for is for assuming from the start that it definitely wouldn’t be helpful.”
+[says] (p.87) “Your strategy has a chance of winning. If the other three classes can’t cooperate, the chances of winning would increase. Even if they gang up on us, there’s still a chance of winning. For lower-ability classes, it’s not a bad idea to pin their hopes on this strategy. However, I believe our class has the ability to fight without depending on that method.”
+[says] (p.87) “It became clear that this special exam would be troublesome if the others gang up on us.”
+[says] (p.87) “You were brave to speak up.”
+[says] (p.88) “Shinohara-san, Hondō-kun, and Miyamoto-kun, too. Please feel free to voice any ideas you may have. Also, relay this to classmates who aren’t present here. I promise not to look down on anyone from the get-go.”
+[scene] (p.88–89) The others leave smiling; AK proposes a change of location; she jokes about the Karuizawa trouble; he asks for the one-on-one.
+[says] (p.88) “I’m going home. Until yesterday, I was meeting Hirata-kun and the others here every day, but it was a day off to rest.”
+[says] (p.89) “I don’t have any plans after this, but it’s unusual for you to want to talk. Unless it’s about trouble with Karuizawa-san, in which case I’d like to decline.”
+[says] (p.89) “You? About the special exam?”
+[says] (p.89) “I see. You want to assess if I’m prepared to fight well?”
+[says] (p.89) “Would I be self-conscious if I said I’m worried about others spying and listening in?”
+[says] (p.89) “Well, as long as you say so, there won’t be any problem. Shall we get going right away then?”
+
+### y2v10 p.90–100 — Ch.4: The café; the Ibuki hypothesis
+[scene] (p.90) Weekday café; two blended coffees; the window seat; he studies her profile — the fatigue of constant thinking; the glare at being stared at.
+[says] (p.90) “Thank you. The money—”
+[says] (p.90) “Well then, I’ll gladly accept your offer.”
+[says] (p.90) “...Is there something on my face?”
+[scene] (p.91) She ran her fingers through her hair — almost a year since she cut it short; she teases him about the spilled-coffee threat; the Ryūen orange-juice memory surfaces.
+[says] (p.91) “It’s been almost a year since I cut it short. Time flies, doesn’t it?”
+[says] (p.91) “What would happen if a tragic accident occurred here, and I grabbed you and poured hot coffee directly into your shirt?”
+[says] (p.91) “You would dodge it if I tried to spill the contents all over you here, right?”
+[says] (p.91) “Why are you trying to move seats? I would never do such a thing. I wouldn’t cause so much trouble for the store.”
+[says] (p.91) “Please prioritize not causing major burns to a classmate instead.”
+[says] (p.91) “Really... you’re such a strange one, aren’t you?”
+[says] (p.91) “I’m not weird. I just... sometimes my seriousness is misplaced.”
+[scene] (p.92) The mindset talk; her post-unanimous-vote self-questioning; she steadies her posture.
+[says] (p.92) “...Um, I’m sorry, I’m not quite sure what you mean by ‘mindset.’”
+[says] (p.92) “Should I assume that you’ll correct me if you think my mindset is wrong?”
+[says] (p.92) “That’s suspicious.”
+[says] (p.92) “Am I really that suspicious?”
+[says] (p.92) “I mean, you being concerned about me is, well, kind of creepy, don’t you think?”
+[says] (p.92) “Yeah, you’re right. Um, let me get my thoughts together.”
+[says] (p.92) “I want to ask you frankly. Have you decided what to do if we come in last place in this special exam?”
+[says] (p.92) “It’s a hard question to immediately answer, isn’t it?”
+[says] (p.92) “Since that day, I have been questioning myself over and over again. At times, I feel guilty and regretful, even though I believe I made the right decision. It’s a depressing thought.”
+[says] (p.92) “I can’t say for sure what will happen in the future. It’s not just me, everyone in the class is growing little by little every day. Even if we rank them based on their abilities, it would fluctuate.”
+[says] (p.92) “But the next special exam is different. At least, I plan to face it with two options in mind in case we end up at the bottom. One is a less painful choice, the”
+[says] (p.93) “other is a bitter one. However, since there are various obstacles, there’s no guarantee that the less painful choice can be realized...”
+[says] (p.93) “Whichever it turns out to be, I’ve set up my own guidelines to choose without hesitation.”
+[says] (p.93) “True... but... you don’t normally think about losing first...”
+[says] (p.93) “...Thank you...”
+[says] (p.93) “You helped me in the unanimous voting exam. Ah, is that all you wanted to know?”
+[says] (p.94) “I guess so.”
+[says] (p.94) “There’s no question about it. I want my class to win; there’s no other choice.”
+[says] (p.94) “I’m sorry, but we prioritize our victory. That’s the right choice, isn’t it?”
+[says] (p.94) “...Ibuki-san...?”
+[says] (p.94) “Hold on a minute. Ibuki-san is close to Ryūen-kun. I can’t imagine she would be the first candidate for expulsion. Is this even a valid hypothesis?”
+[says] (p.94) “But—”
+[says] (p.95) “...For the sake of our class’s victory, it’s natural to choose victory, even if it means Ibuki-san is the specific person who has to be expelled.”
+[says] (p.95) “What are you trying to say?”
+[says] (p.95) “If you’re also considering ‘not close’ relationships, then yes, I won’t deny it.”
+[says] (p.96) “But I don’t know what kind of battle suits me yet...”
+[says] (p.96) “Well… no, I haven’t. All I was thinking about was how to minimize the damage if I lose, who to expel from our side in case of emergency, and what I would need to do to win for the class.”
+[says] (p.96) “You mean... I should be ready to lose someone like Ibuki-san or someone in the same position?”
+[says] (p.96) “To be honest, I don’t think I can maintain that awareness at this moment.”
+[says] (p.97) “But I’ll keep repeating it to myself until the special exam. If that doesn’t work, I’ll keep telling myself even after that. I don’t know how far I can go... I’m sorry. I’m not good enough...”
+[says] (p.97) “Hey—what are you, exactly?”
+[says] (p.97) “That’s exactly what I mean. I don’t understand you at all...”
+[says] (p.97) “At the very least, as long as I’m the appointed leader, it isn’t bad to get to know my classmates. Even for the next special exam, being aware of the details puts us in an advantageous position.”
+[says] (p.97) “So, you understand Kōenji?”
+[says] (p.97) “...Quite right.”
+[says] (p.98) “You were uninterested in reaching Class A, and were fundamentally reserved and unsociable. But before I knew it, you started dating Karuizawasan, you started to help the class knowing that it’d make you stand out. There is no consistency in what you do.”
+[says] (p.98) “I can’t see it like that. You don’t fit into any conventionally assumed categories. I’m convinced of that. There’s always a reason beyond ordinary thinking for what you do. Because...”
+[says] (p.98) “...How could such a personality be born, I wonder. What kind of child were you?”
+[says] (p.98) “That’s not what I mean. I mean when you were much younger. What elementary school did you go to?”
+[says] (p.98) “That’s not necessarily the case, right? I might unexpectedly be from the area.”
+[says] (p.98) “...Is that so? Sorry, but I don’t recall, can you tell me again?”
+[says] (p.99) “It’s gotten cold, hasn’t it?”
+[says] (p.99) “Please don’t copy me.”
+[says] (p.99) “No... that... I just... saw you smile a little...”
+[says] (p.99) “It’s just that I feel like I’ve never seen that expression on your face in the last two years...”
+[says] (p.99) “I... I wouldn’t know either if you asked me with such a serious face.”
+[says] (p.99) “...As I said, I wouldn’t know even if you asked me.”
+[says] (p.99) “Because of your strange thinking, I feel like a fool for laughing as well...”
+[says] (p.99) “Are we done talking? I have plans, so I should be going.”
+[says] (p.100) “I just remembered I had plans.”
+[says] (p.100) “I’ll think about it by myself. About the next special exam, and everything thereafter.”
+[says] (p.100) “Oh, right, sorry. There’s something I need to confirm with you.”
+[says] (p.100) “That’s right.”
+[says] (p.100) “I’ve heard from everyone but you. We really need to decide soon.”
+[says] (p.100) “Those categories have nothing to do with studying. Same choices as mine.”
+[says] (p.100) “There were other categories that I was unsure about, but I wanted to exclude those in which I wasn’t proficient.”
+[says] (p.100) “Thanks.”
+[trait] (p.90) Constant, even-weekday/holiday brain; the fatigue of being a leader; her stare-glares.
+[limit] (p.95–97) Cannot maintain the cold perspective AK demands; self-mocks as "not good enough".
+[rel:ayanokouji-kiyotaka] (p.81–100) He probes her moral ceiling; she emerges shaken but carrying his awareness planted; “I’ll think about it by myself” is her way of absorbing him.
+[rel:ike-kanji] (p.81–88) She listens seriously to his strategy; rejects it on the cooperation logic; he's unexpectedly inspired by the rejection itself.
+[rel:ibuki-mio] (p.94–96) The hypothetical expulsion target; she cannot say the word "Ibuki" out loud twice.
+[rel:hirata-yousuke] (p.81–90) Their secret exam preparation partnership is what the “usual location” means.
+
+<!-- walk: y2v10 Ch.4 → p.100 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

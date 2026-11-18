@@ -148,3 +148,12 @@ char_id: miyamoto-soshi · class: Class 1-D · status: minor
 
 
 <!-- walk: y2v12 Epilogue → p.228 -->
+
+### y2v10 p.81, 84 — Ch.4: Miyamoto catches on first
+[scene] (p.81) He raises his hand with Shinohara and Hondō; quieter in the room, visibly processing.
+[says] (p.84) “Ah—”
+[says] (p.84) “So, for all 20 turns, we can get 5 points each. That’s a perfect score, right?”
+[says] (p.84) “It certainly looks like something underhanded, you know.”
+[note] (p.84) He understood the paradox before Hondō did; his audible "Ah—" is the moment the room begins to believe.
+
+<!-- walk: y2v10 Ch.4 → p.100 -->

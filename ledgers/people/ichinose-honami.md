@@ -1969,6 +1969,12 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [note] (p.40) Mention only; no scene presence; no dialogue.
 
 <!-- walk: y2v10 Ch.2 → p.59 -->
+
+### y2v10 p.86, 96 — Ch.4: Ichinose, the anti-collusion leader
+[mentioned] (p.86) Passing mention: "Ichinose-san and Sakayanagi-san will also positively consider this option." — in the gang-up scenario, her class would likely sign on.
+[mentioned] (p.96) Passing mention: "On the contrary, in Ichinose’s case, she doesn’t think about expelling the other party." — the page contrasts her style with Ryūen's and Sakayanagi's.
+
+<!-- walk: y2v10 Ch.4 → p.100 -->
 ## y2v10.25
 
 <!-- walk: y2v10.25 → start -->

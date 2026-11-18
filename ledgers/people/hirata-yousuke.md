@@ -2015,6 +2015,15 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [note] (p.60) The page gives no dialogue of his own on these pages; his involvement is her account of events.
 
 <!-- walk: y2v10 Ch.3 → p.80 -->
+
+### y2v10 p.81 — Ch.4: The usual location
+[scene] (p.81) After Ike blurts the plan, Yōsuke steers the conversation to the private location — evidence he and Horikita have been meeting frequently in secret to prepare for the exam.
+[says] (p.81) “Horikita-san, let’s go to the usual location.”
+[note] (p.81) "It seemed like he was frequently meeting with Horikita in secret. That much was evident just from the conversation." — the page's own assessment.
+[note] (p.81) No dialogue of his own beyond the location line on these pages; he defers to the karaoke process as the knowledgeable insider.
+[rel:horikita-suzune] (p.81) Their secret exam preparation is the connective tissue of Class D's strategy.
+
+<!-- walk: y2v10 Ch.4 → p.100 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

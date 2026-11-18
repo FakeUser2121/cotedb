@@ -1155,6 +1155,15 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:ayanokouji-kiyotaka] (p.20–26) Sickly-sweet demand that he apologize; his deserted-island ratings analogy saves her a little dignity.
 
 <!-- walk: y2v10 Ch.1 → p.30 -->
+
+### y2v10 p.94–96 — Ch.4: The hypothetical expulsion target
+[mentioned] (p.94) Passing mention: the hard condition lands — the candidate class is Ryūen's and the one expelled is Ibuki Mio; Horikita freezes.
+[mentioned] (p.94) Passing mention: "she is perfectly disposable" — the OAA read on Ibuki as the disposable piece of Ryūen's class.
+[mentioned] (p.95) Passing mention: "Among the other classes, Ibuki is closer to you than most."
+[mentioned] (p.96) Passing mention: "I should be ready to lose someone like Ibuki-san or someone in the same position?" — the question AK compels Horikita to face.
+[note] (p.94) She gets no scene presence; her hypothetical exists only as the breaking point of Horikita's composure.
+
+<!-- walk: y2v10 Ch.4 → p.100 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

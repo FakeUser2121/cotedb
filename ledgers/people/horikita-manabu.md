@@ -978,6 +978,10 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [note] (p.9) Passing mention (locator pages: p.16-24, p.26-28, p.31, p.40, p.43-51, p.58; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.97 — Ch.4: Manabu, whose perspective unlocked Horikita
+[mentioned] (p.97) Passing mention: "This was thanks to the new perspective that Horikita Manabu taught me. If I hadn’t been taught by him, I wouldn’t have noticed her shining potential." — the narrator credits Manabu's framing for seeing Suzune's promise.
+
+<!-- walk: y2v10 Ch.4 → p.100 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

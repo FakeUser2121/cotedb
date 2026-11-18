@@ -1419,6 +1419,13 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.40) All mentions; she never speaks on these pages.
 
 <!-- walk: y2v10 Ch.2 → p.59 -->
+
+### y2v10 p.86, 96 — Ch.4: Sakayanagi, the collusion candidate
+[mentioned] (p.86) Passing mention: "If they judge that a losing class has appeared, Ichinose-san and Sakayanagi-san will also positively consider this option." — the gang-up counter-strategy names her as a likely co-signer.
+[mentioned] (p.96) Passing mention: "Sakayanagi tends to target people she dislikes, regardless of strength or weakness. Totsuka is a good example."
+[note] (p.96) The Totsuka reference — Sakayanagi's dislike-target profile — is left exactly as printed; no example of a Sakayanagi move is given on these pages.
+
+<!-- walk: y2v10 Ch.4 → p.100 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

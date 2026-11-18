@@ -10109,69 +10109,211 @@ walk: y1v1 → DONE
 
 
 
-### y2v10 p.81–92 — Ch.4: Ike's 68-point plan rejected
-[scene] (p.81) Wednesday afternoon, two days before the exam; Ike stands up: he has figured out an unbeatable strategy for the special exam; class wakes just enough to watch him; others walk out; he stays confident and counts on his fingers.
+### y2v10 p.81–89 — Ch.4: Ike's 68-point plan, at karaoke
+[scene] (p.81) Wednesday afternoon, two days before the exam; Ike stands up, slams his hands on his desk: an unbeatable strategy; class empties one by one, skeptical; he recalculates, undeterred.
 [says:ike-kanji] (p.81) “Dude... I think... I might have an incredible winning strategy...!”
 [says:shinohara-satsuki] (p.81) “Wh-what? You do, Kanji? No way!”
-[scene] (p.82) He leaves the school with Horikita, Yōsuke, Shinohara, Hondō, and Miyamoto to karaoke; room 5; usual ordering for two; he counts on his fingers; Shinohara smiles knowing his plan — she's already heard it.
-[scene] (p.83) Ike reveals his proposal: Class B can win by forcing an elimination zone plan — every class member except Horikita + five protected eliminated; everyone else scores points through 20 turns regardless; a perfect score is impossible to block; 68 points secured.
-[says:ike-kanji] (p.83) “While it’s risky, we could secure exactly 68 points. We do this by feigning sickness right as the exam starts.”
+[scene] (p.81) Horikita shuts down on-the-spot strategy talk; Yōsuke signals the usual location; he raises his hand too, out of curiosity.
+[says:horikita-suzune] (p.81) “Ike-kun. I will respond seriously for now, but I don’t want to discuss strategy here. Understand?”
+[says:ike-kanji] (p.81) “Ah, okay. It’d be serious if my too-perfect strategy got leaked...!”
+[says:hirata-yousuke] (p.81) “Horikita-san, let’s go to the usual location.”
+[says:hirata-yousuke] (p.81) “That sounds good. Those who are interested can come with us, however, keep in mind that it’s a hassle if there are too many people. Can you raise your hand if you would like to come along?”
+[says] (p.81) “Can’t I just be curious? Ike said he’s super confident about a winning strategy. I just want to know.”
+[scene] (p.82) Six of them head to the karaoke; room-ordering for two; he checks the terminal; the Asian-song rankings are full of songs he doesn't know; the plum kelp tea arrives scalding.
+[says] (p.83) “...I see.”
+[scene] (p.82) The karaoke trivia exchange: the one-drink policy lectures; Ike eavesdrops; he lets it slide to keep Shinohara's attention.
+[says] (p.82) “Hey, Horikita.”
+[says] (p.82) “It’s kind of confusing that you can choose not to sing when you come to karaoke, but you must get a drink. After all, this is supposed to be a place for singing.”
+[says:ike-kanji] (p.82) “You’re a fool, Ayanokōji. It’s obviously because there’s a one-drink policy, right?”
+[scene] (p.83) Ike finally lays out the plan on Horikita's serious face; 68 guaranteed points.
+[says] (p.83) “Hot... Sorry, continue please.”
+[says:ike-kanji] (p.83) “Alright, let’s get to the point. Suppose we were to guarantee that we get 68 points for our class. Can we agree that this would be a winning score?”
+[says:horikita-suzune] (p.83) “68 points? Sure, if we had 68 points, there would indeed be a good chance of victory, but that seems like a very specific score.”
+[says:ike-kanji] (p.83) “While it’s risky, we could secure exactly 68 points. We do this by feigning sickness right as the exam starts. Our class has 38 students—if we only leave five for defense, plus the leader, and then have the remaining 32 eliminated...”
+[scene] (p.83) Hondō puts his hands on the sofa, sighs; Horikita instantly sees the arithmetic (32 eliminations = 68 guaranteed).
+[says:hondou-ryoutaro] (p.83) “What? If you did that, we’d be down 32 points right from the start! Don’t you even understand the rules?”
+[says:ike-kanji] (p.83) “That’s fine. Even if we subtract 32 points for the eliminated students, we are guaranteed to get 68 points.”
+[scene] (p.84) Miyamoto catches on before Hondō; the perfect-score logic dawns.
+[says:ike-kanji] (p.84) “But, you know, the opponent can only nominate five students, right? We can protect five students each round, but we only have five students left to nominate, right?”
+[says:miyamoto-soshi] (p.84) “Ah—”
+[says:miyamoto-soshi] (p.84) “So, for all 20 turns, we can get 5 points each. That’s a perfect score, right?”
+[says:ike-kanji] (p.84) “Moreover! No one even needs to study for the exam! Not a bad idea, huh?”
+[says:hondou-ryoutaro] (p.84) “But, even so, would the school really allow 32 people to feign illness? I mean, it’s too suspicious.”
+[says:ike-kanji] (p.84) “Feigning illness... It’s a bit of a gray area in terms of the rules, but I suspect the school wouldn’t be able to stop us, even if they found it suspicious. No one can prove we’ve faked it.”
+[says:horikita-suzune] (p.84) “That’s a great idea for you. It’s certainly a strategy that could maintain a high average score.”
+[scene] (p.84) Even the skeptics start acknowledging; the worst-case frame helps — a chosen Protection Point death drops the risk to zero.
+[says:hondou-ryoutaro] (p.84) “A strategy to guarantee 68 points... Well, isn’t it pretty amazing?”
+[says:shinohara-satsuki] (p.84) “I was also surprised when I heard it from Kanji. It’s a good idea, isn’t it?”
+[scene] (p.85) The catch: a rule change collapses the whole plan; she names the "certain rule" without naming it; he can't accept it.
 [says:horikita-suzune] (p.85) “If it weren’t for ‘a certain rule’ in this special exam, this might’ve remained a candidate that we could have implemented.”
-[scene] (p.86–87) Horikita slowly explains why the plan collapses: Ryūen would use it radically — eliminates 34; but the rest of the 3 classes would counter through Sanada & Ichinose collusion — boots Ryūen's rank to 4th; Ike crashes; she confirms value of the conversation.
 [says:ike-kanji] (p.85) “Wh-why? Well, I’m not insisting that you adopt it...”
-[says] (p.87) “Your strategy has a chance of winning. If the other three classes can’t cooperate, the chances of winning would increase.”
-[says] (p.87) “It became clear that this special exam would be troublesome if the others gang up on us.”
-[note] (p.85–87) Ike's 68-point plan was the strongest play anyone proposed but collapsed on one assumption — alliances.
-[rel:ike-kanji] (p.81–88) He's a real thinker; Horikita listens to him seriously — he's no enemy; she values his earnestness; he is crushed when his idea fails, but smiles at her praise.
-[rel:shinohara-satsuki] (p.82) His girlfriend; she's already heard the idea; smiles through the lecture.
-[rel:horikita-suzune] (p.81–89) She breaks his ego gently; then confirms his idea was valuable; he's oddly relieved.
+[scene] (p.85) She walks through the hypothetical — Ryūen's class, 34 eliminations, 66 points, capped forever; the remaining three cooperate for 67+; he cannot see why Ryūen would lose.
+[says:horikita-suzune] (p.85) “Let’s say, hypothetically, that Ryūen-kun’s class implements this strategy right after the exam starts.”
+[says:horikita-suzune] (p.85) “Even though there was one person expelled from his class, the addition of Katsuragi-kun has kept their numbers at 40. Except the leader and five others, there would be 34 eliminations. This means they would secure 66 points. While that certainly isn’t a bad score, it also means they can’t possibly score any higher. If the remaining three classes each manage to score 67 points or more, that approach becomes a ‘no-win’ strategy.”
+[says:ike-kanji] (p.85) “Sure, but there’s no guarantee that the other three classes will each be able to score 67 points or more, right? While there might be a risk of coming last, isn’t there a higher probability of coming first?”
+[says:horikita-suzune] (p.85) “No. Most likely, if Ryūen-kun’s class were to use that strategy, they would end up in last place.”
+[says:ike-kanji] (p.85) “Why? We won’t know how difficult the questions are until the actual exam, right? So then—”
+[scene] (p.86) She explains: all three classes see it instantly; they call each other; Ichinose and Sakayanagi sign on; two target classes each get 50; 17 more points puts them above 66; Kōenji's school rule means the cap is unavoidable.
+[says:horikita-suzune] (p.86) “Listen. If they’re going to use the faking sickness strategy to cause mass elimination, they should naturally do that in the first turn. There’s little merit in implementing this strategy after the second turn.”
+[says:horikita-suzune] (p.86) “Moreover, this strategy is conspicuous. All three classes would quickly find out. Just imagine their class situation when the classes see through that strategy. Will they think, ‘Oh no, they’ve played a good move?’”
+[says:horikita-suzune] (p.86) “No. On the contrary. If they play that strategy, it would actually make things easier for the other three classes.”
+[says:horikita-suzune] (p.86) “Yes. So as soon as we see their aim, we would use this to cooperate with the other classes. If Ryūen-kun’s class could only get up to 66 points, the other three classes should team up and aim for more. If they judge that a losing class has appeared, Ichinose-san and Sakayanagi-san will also positively consider this option.”
+[says:ike-kanji] (p.86) “Wait a minute. I don’t quite get it, but if we gang up on them, they’d lose?”
+[says:horikita-suzune] (p.86) “They’d lose. Who to nominate, who to protect. Just by doing this, the two classes Ryūen-kun’s class targets would definitely get 50 points. Hence, they would only need to earn 17 more points. Under the current rules, they can raise the difficulty by using points, but if the score is zero or less, they can only attack with the base difficulty. Therefore, it wouldn’t be difficult to score more than 17 points.”
+[scene] (p.87) Ike drops his shoulders; Horikita flusters; the praise line lands — his strategy taught her something about the exam's gang-up risk.
+[says:ike-kanji] (p.87) “Damn! I thought we could win! I feel bad for getting everyone together!”
+[says:horikita-suzune] (p.87) “You don’t have to apologize. Your strategy was well thought out. What I need to apologize for is for assuming from the start that it definitely wouldn’t be helpful.”
+[says:ike-kanji] (p.87) “Uh, oh... I feel happy, but it’s a bit complicated...”
+[says:horikita-suzune] (p.87) “Your strategy has a chance of winning. If the other three classes can’t cooperate, the chances of winning would increase. Even if they gang up on us, there’s still a chance of winning. For lower-ability classes, it’s not a bad idea to pin their hopes on this strategy. However, I believe our class has the ability to fight without depending on that method.”
+[says] (p.87) “You also taught me something valuable.”
+[says:horikita-suzune] (p.87) “It became clear that this special exam would be troublesome if the others gang up on us.”
+[note] (p.85–87) The anti-collusion rule (negative rewards, extension on tie) makes ganging up structurally self-defeating for anyone below first — precisely the pressure Horikita exploits on Ike.
+[scene] (p.87–88) Horikita applauds courage, invites ideas, and lets everyone go smiling.
+[says:horikita-suzune] (p.88) “You were brave to speak up.”
+[says:ike-kanji] (p.88) “S-so, if that’s the case, uh, good. Hehe.”
+[says:horikita-suzune] (p.88) “Shinohara-san, Hondō-kun, and Miyamoto-kun, too. Please feel free to voice any ideas you may have. Also, relay this to classmates who aren’t present here. I promise not to look down on anyone from the get-go.”
+[scene] (p.88–89) The others leave; he proposes a change of location; she jokes about the Karuizawa trouble; he asks for one-on-one time about the exam; she agrees to a café.
+[says] (p.88) “What will you do after this, Horikita?”
+[says:horikita-suzune] (p.88) “I’m going home. Until yesterday, I was meeting Hirata-kun and the others here every day, but it was a day off to rest.”
+[says] (p.88) “How about we change the location and talk about it?”
+[says:horikita-suzune] (p.89) “I don’t have any plans after this, but it’s unusual for you to want to talk. Unless it’s about trouble with Karuizawa-san, in which case I’d like to decline.”
+[says] (p.89) “If that was the case, I’m sure you wouldn’t be the best person to handle it, Horikita.”
+[says] (p.89) “I’d like to discuss the special exam with you, one-on-one.”
+[says:horikita-suzune] (p.89) “You? About the special exam?”
+[says] (p.89) “And I can’t always rely on you, so I decided against unnecessarily asking for your help this time.”
+[says] (p.89) “I’m not exactly offering a strategy. I just want to hear your thoughts.”
+[says:horikita-suzune] (p.89) “I see. You want to assess if I’m prepared to fight well?”
+[says] (p.89) “How about a café? I feel like having some good coffee.”
+[says:horikita-suzune] (p.89) “Would I be self-conscious if I said I’m worried about others spying and listening in?”
+[says] (p.89) “No worries, it won’t be like what you’re worried about.”
+[says:horikita-suzune] (p.89) “Well, as long as you say so, there won’t be any problem. Shall we get going right away then?”
+[rel:ike-kanji] (p.81–88) A genuinely creative planner; crumbles under scrutiny but recovers gracefully; his earnestness is what Horikita praises.
+[rel:shinohara-satsuki] (p.82) His hype-man; already knew the plan; smiles through the lecture.
+[rel:hondou-ryoutaro] (p.83–85) The loudest skeptic; corrects his understanding once the arithmetic clicks.
+[rel:miyamoto-soshi] (p.84) Slow but honest; catches the paradox before Hondō.
+[rel:hirata-yousuke] (p.81) Brokered the karaoke session.
+[rel:horikita-suzune] (p.81–89) Dissects his plan seriously; her composure buys his obedience.
 
-
-### y2v10 p.92–100 — Ch.4: One-on-one with Horikita; the Ibuki question
-[scene] (p.92–93) Café by the window; they wait in line; he orders two blended coffees; sits her down; she slowly opens up; silent long seconds; trickles complaints; she admits she has been worried for the exam ranking.
+### y2v10 p.90–100 — Ch.4: The one-on-one café; the Ibuki question
+[scene] (p.90) Weekday café; they arrive, he orders two blended coffees; Horikita takes the window seat; he says he isn't interested in the details — she leads, he observes.
+[says:horikita-suzune] (p.90) “Thank you. The money—”
+[says] (p.90) “That’s fine. You paid for the karaoke. Besides, you treated me to lunch the other day.”
+[scene] (p.91) She ran her fingers through her hair — almost a year since she cut it short; the orange-juice memory from the karaoke with Ryūen flashes up.
+[says] (p.91) “It’s been almost a year since I cut it short. Time flies, doesn’t it?”
+[says] (p.91) “You were crying your eyes out.”
+[says:horikita-suzune] (p.91) “What would happen if a tragic accident occurred here, and I grabbed you and poured hot coffee directly into your shirt?”
+[says] (p.91) “I would definitely get burned, and it would definitely be intentional, not an accident.”
+[says] (p.91) “You would dodge it if I tried to spill the contents all over you here, right?”
+[says] (p.91) “Why are you trying to move seats? I would never do such a thing. I wouldn’t cause so much trouble for the store.”
+[says:horikita-suzune] (p.91) “Please prioritize not causing major burns to a classmate instead.”
+[says:horikita-suzune] (p.91) “Really... you’re such a strange one, aren’t you?”
+[says] (p.91) “Which part of this exchange makes me the strange one? You’re the one who’s strange.”
+[says:horikita-suzune] (p.91) “I’m not weird. I just... sometimes my seriousness is misplaced.”
+[scene] (p.92) The real topic lands: her mindset; the unanimous-vote comparison; she steadies her posture.
 [says:horikita-suzune] (p.92) “I want to ask you frankly. Have you decided what to do if we come in last place in this special exam?”
-[scene] (p.93–94) He asks her about the three possible futures in a hard fight against another class — win, loss, draw — which would she prefer; Horikita answers without hesitation: win. He pushes harder — adds condition that the defeated class has an expulsion; she now wavers.
+[says:horikita-suzune] (p.92) “It’s a hard question to immediately answer, isn’t it?”
+[says] (p.92) “That’s right.”
+[says:horikita-suzune] (p.92) “Since that day, I have been questioning myself over and over again. At times, I feel guilty and regretful, even though I believe I made the right decision. It’s a depressing thought.”
+[says:horikita-suzune] (p.92) “I can’t say for sure what will happen in the future. It’s not just me, everyone in the class is growing little by little every day. Even if we rank them based on their abilities, it would fluctuate.”
+[scene] (p.93–94) She sets out two futures — a less painful one and a bitter one; AK asks the three-futures question; she picks victory without hesitation; the Ibuki condition lands; she freezes.
+[says:horikita-suzune] (p.92) “But the next special exam is different. At least, I plan to face it with two options in mind in case we end up at the bottom. One is a less painful choice, the”
+[says:horikita-suzune] (p.93) “other is a bitter one. However, since there are various obstacles, there’s no guarantee that the less painful choice can be realized...”
+[says:horikita-suzune] (p.93) “Whichever it turns out to be, I’ve set up my own guidelines to choose without hesitation.”
+[says] (p.93) “I understand. It seems that you won’t be at a loss if you come in last.”
+[says] (p.93) “Where’s the part to laugh at?”
+[says:horikita-suzune] (p.93) “True... but... you don’t normally think about losing first...”
+[says] (p.93) “If you aim to win in the end, whether it’s first or last, it isn’t a mistake. You thought about what to do when you lost first because you care about the class. That’s all there is to it.”
+[says:horikita-suzune] (p.93) “...Thank you...”
+[says:horikita-suzune] (p.93) “You helped me in the unanimous voting exam. Ah, is that all you wanted to know?”
+[says] (p.93) “No, it’s safe to say that we’re just getting into the main topic.”
+[scene] (p.94) The three futures: win, lose, draw; her answer is immediate — win; the defeated class's expulsion rider; she wavers but stays.
+[says] (p.94) “Let’s get specific. There will undoubtedly be a time when we face a particular class directly. At that time, you will have three futures. One is where our class wins, one is where our class loses, and the third outcome is neither a victory nor a defeat, but a draw. What future would you prefer?”
+[says:horikita-suzune] (p.94) “There’s no question about it. I want my class to win; there’s no other choice.”
+[says] (p.94) “Then let’s add a new condition to the future. Your class wins, but as a result, the defeated class has an expulsion. How would you decide in this case?”
 [says:horikita-suzune] (p.94) “I’m sorry, but we prioritize our victory. That’s the right choice, isn’t it?”
-[scene] (p.94–95) He adds the hardest condition: the class will be Ryūen’s — the person expelled will be Ibuki Mio — which would she choose; she shatters; reveals she can’t consider this — Horikita understands she now faces impossible choices.
+[says] (p.94) “Is it wrong to prioritize winning, just like in this special exam?”
+[says] (p.94) “No one said it was a mistake. Let’s add one last condition. The specific class is Ryūen’s class, and the one expelled is Ibuki Mio. Which of the three futures would you choose then?”
+[scene] (p.94–95) She freezes; tries to rationalize away the hypothetical; his OAA verdict is brutal — she is disposable; Horikita understands the shape of the trap.
 [says:horikita-suzune] (p.94) “...Ibuki-san...?”
-[says] (p.95) “Ibuki’s position and safety aren’t guaranteed. With Ibuki’s OAA assessment, she is perfectly disposable.”
-[scene] (p.96) He continues by demanding awareness: everyone has their own style of battle; her class's habits are too protective; she has to refine how she perceives this exam's decisions.
-[says] (p.96) “No one said it was a mistake.”
-[says:horikita-suzune] (p.97) “I don’t think I can maintain that awareness at this moment.”
-[says] (p.97) “I can’t say for sure what will happen in the future.”
-[says] (p.97) “You don’t normally think about losing first...”
-[scene] (p.98–100) She finally asks him directly who he is; he reassures the topic by pivoting to Kōenji; then they close down; he suggests based on the original question — and she reveals she has picked expulsion categories: entertainment, music, subculture; she matches his selection exactly.
-[says:horikita-suzune] (p.91) “It’s been almost a year since I cut it short.”
-[says] (p.98) “What would happen if a tragic accident occurred here, and I grabbed you and poured hot coffee directly into your shirt?”
-[note] (p.92–100) AK tests Horikita’s moral limit with Ibuki as the hypothetical target of expulsion; Horikita’s internal fear surfaces at this hypothetical; AK's job is to push her to walk that path regardless of friendship.
-[rel:horikita-suzune] (p.92–100) She admits she can’t decide if Ibuki is expulsion candidate; she will likely be the person to force a difficult call at the special exam — and for the first time she must accept she may not be fit for this.
-[rel:ibuki-mio] (p.94–96) Considered as a hypothetical target of expulsion; Horikita realizes this could be the hardest decision she will ever make in her life.
+[says:horikita-suzune] (p.94) “Hold on a minute. Ibuki-san is close to Ryūen-kun. I can’t imagine she would be the first candidate for expulsion. Is this even a valid hypothesis?”
+[says] (p.94) “A valid hypothesis? It’s strange what you say. A hypothesis is just a hypothesis.”
+[says] (p.94) “Ibuki’s position and safety aren’t guaranteed. With Ibuki’s OAA assessment, she is perfectly disposable. Given Ryūen’s personality, it’s a possible”
+[says] (p.95) “scenario. Moreover, there’s no guarantee that Ryūen can appoint someone to be expelled. Accidents that can’t be avoided could happen.”
+[says:horikita-suzune] (p.95) “...For the sake of our class’s victory, it’s natural to choose victory, even if it means Ibuki-san is the specific person who has to be expelled.”
+[scene] (p.95) She tries to hold the line; it breaks visibly; her previously unyielding attitude collapses; he names the truth — she wants to deny it because it matters.
+[says] (p.95) “You’re unable to respond immediately. You clearly want to deny a future where you have to choose.”
+[says:horikita-suzune] (p.95) “What are you trying to say?”
+[says] (p.95) “I don’t know every detail about your relationships, but I believe that among the other classes, Ibuki is closer to you than most. And it’s not just about whether she’s ‘close’ or ‘not close.’”
+[says:horikita-suzune] (p.95) “If you’re also considering ‘not close’ relationships, then yes, I won’t deny it.”
+[scene] (p.96) The expulsion mechanics land — first time a student expelled by another class might not be anticipated; Ryūen's real plans; her composure shatters for good.
+[says] (p.96) “But in this special exam, the rule is that a student is expelled by another class. That is, for the first time, a student who we didn’t anticipate might be expelled.”
+[says] (p.96) “If Ryūen had marked Ibuki as a candidate for expulsion, and it was clear that there was a high likelihood he was planning on expelling her if she was eliminated, would you still be able to play a move that eliminates Ibuki to win?”
+[says:horikita-suzune] (p.96) “Why… do you ask such a thing?”
+[says] (p.96) “This special exam, it’s a great chance to eliminate students you want to lose, but it’s also the basis of the fight to lose those who are easy to lose. When you know that you can gain a strategic advantage by attacking Ibuki, are you able to take the lead as a leader without hesitation? Confirming that is my primary goal. I thought it would be helpful to start considering it now.”
+[scene] (p.96–97) Her honest capitulation: she can't maintain the awareness; she'll keep repeating it; she's not good enough; he sees her as a society-in-miniature's product.
+[says:horikita-suzune] (p.96) “You mean... I should be ready to lose someone like Ibuki-san or someone in the same position?”
+[says] (p.96) “No, I’m saying it’s important to be aware. You are so focused on your own class that you don’t have a good grasp of the other classes. You just mildly thought ‘I want to get rid of that person, I don’t want this other person to drop out.’ Did you prepare for this special exam with a clear sense of what to expect?”
+[says:horikita-suzune] (p.96) “Well… no, I haven’t. All I was thinking about was how to minimize the damage if I lose, who to expel from our side in case of emergency, and what I would need to do to win for the class.”
+[says:horikita-suzune] (p.96) “So, what should I do about that problem...?”
+[says] (p.96) “I told you. All you need is to be aware of it. Everyone has their own style of battle. Ryūen is ruthless to whoever he is up against. He’s always thinking of ways to defeat the enemy’s most capable students. Sakayanagi tends to target people she dislikes, regardless of strength or weakness. Totsuka is a good example. On the contrary, in Ichinose’s case, she doesn’t think about expelling the other party. There are tendencies, strengths, and weaknesses to each person like that.”
+[says:horikita-suzune] (p.96) “But I don’t know what kind of battle suits me yet...”
+[says] (p.96) “That’s what this battle is about to show you. Whether to defeat the enemy or to protect yourself, if you are aware of both, you will see the way to fight. Don’t fight aimlessly. Be conscious. Just by doing that, the world you see will change greatly.”
+[says:horikita-suzune] (p.97) “To be honest, I don’t think I can maintain that awareness at this moment.”
+[says] (p.97) “I see.”
+[says:horikita-suzune] (p.97) “But I’ll keep repeating it to myself until the special exam. If that doesn’t work, I’ll keep telling myself even after that. I don’t know how far I can go... I’m sorry. I’m not good enough...”
+[says] (p.97) “There’s nothing wrong. You’re already beginning to be conscious. I’ve made you conscious.”
+[note] (p.97) His inner monologue: Horikita Suzune will likely not achieve remarkable feats, but in this garden-like miniature she can display abilities beyond imagination — a thought Horikita Manabu's new perspective planted in him.
+[scene] (p.97–98) She holds her gaze too long; the teasing exchange about who he is; he pivots to Kōenji; the "no consistency" read; the uncomfortable elementary-school probe; he closes it down.
+[says:horikita-suzune] (p.97) “Hey—what are you, exactly?”
+[says] (p.97) “What do you mean?”
+[says:horikita-suzune] (p.97) “That’s exactly what I mean. I don’t understand you at all...”
+[says] (p.97) “Do you need to understand?”
+[says:horikita-suzune] (p.97) “At the very least, as long as I’m the appointed leader, it isn’t bad to get to know my classmates. Even for the next special exam, being aware of the details puts us in an advantageous position.”
+[says:horikita-suzune] (p.97) “So, you understand Kōenji?”
+[says] (p.97) “I can’t say I understand him, but I think I have a grasp of him. Am I wrong?”
+[says:horikita-suzune] (p.98) “...Quite right.”
+[says:horikita-suzune] (p.98) “You were uninterested in reaching Class A, and were fundamentally reserved and unsociable. But before I knew it, you started dating Karuizawasan, you started to help the class knowing that it’d make you stand out. There is no consistency in what you do.”
+[says] (p.98) “Can’t you just take it to mean that I’ve grown? A once unassuming middle school boy goes through a High School debut, and little by little gains courage. Soon, he aims to rise to class A and starts getting excited, leading to how he is now— something like that.”
+[says:horikita-suzune] (p.98) “I can’t see it like that. You don’t fit into any conventionally assumed categories. I’m convinced of that. There’s always a reason beyond ordinary thinking for what you do. Because...”
+[says:horikita-suzune] (p.98) “...How could such a personality be born, I wonder. What kind of child were you?”
+[says] (p.98) “Changing the subject, huh? Even if you ask me what kind of child I was, I am still a child, as you can see.”
+[says:horikita-suzune] (p.98) “That’s not what I mean. I mean when you were much younger. What elementary school did you go to?”
+[says] (p.98) “You wouldn’t know even if I told you.”
+[says:horikita-suzune] (p.98) “That’s not necessarily the case, right? I might unexpectedly be from the area.”
+[says] (p.98) “It’s not something I can share. I want to keep certain things to myself.”
+[scene] (p.99) The coffee goes cold; the synchronized "it's gotten cold" exchange; her smile-shock; she denies knowing why she laughed; she finishes the cup.
+[says:horikita-suzune] (p.99) “It’s gotten cold.”
+[says:horikita-suzune] (p.99) “It’s gotten cold, hasn’t it?”
+[says] (p.99) “Don’t copy me.”
+[says:horikita-suzune] (p.99) “Please don’t copy me.”
+[says:horikita-suzune] (p.99) “No... that... I just... saw you smile a little...”
+[says] (p.99) “Huh? So, what’s wrong with that?”
+[says:horikita-suzune] (p.99) “It’s just that I feel like I’ve never seen that expression on your face in the last two years...”
+[says] (p.99) “How rude. I’m not a baby who’s just learned to smile.”
+[says] (p.99) “You’re right, it might’ve been a rare moment.”
+[says:horikita-suzune] (p.99) “I... I wouldn’t know either if you asked me with such a serious face.”
+[says] (p.99) “So, it’s not that something particularly funny happened, right?”
+[says:horikita-suzune] (p.99) “...As I said, I wouldn’t know even if you asked me.”
+[says:horikita-suzune] (p.99) “Because of your strange thinking, I feel like a fool for laughing as well...”
+[says:horikita-suzune] (p.100) “Are we done talking? I have plans, so I should be going.”
+[says] (p.100) “Didn’t you say you had no plans?”
+[says:horikita-suzune] (p.100) “I just remembered I had plans.”
+[scene] (p.100) The expulsion-category question; her answers: entertainment, music, subculture — identical to his own list; she has left the rest to him.
+[says:horikita-suzune] (p.100) “Oh, right, sorry. There’s something I need to confirm with you.”
+[says:horikita-suzune] (p.100) “That’s right.”
+[says] (p.100) “What about our other classmates?”
+[says:horikita-suzune] (p.100) “I’ve heard from everyone but you. We really need to decide soon.”
+[says] (p.100) “Well, you probably wouldn’t need to exclude anything, but what do you think?”
+[says] (p.100) “Entertainment, music, and subculture.”
+[says:horikita-suzune] (p.100) “Those categories have nothing to do with studying. Same choices as mine.”
+[says:horikita-suzune] (p.100) “There were other categories that I was unsure about, but I wanted to exclude those in which I wasn’t proficient.”
+[says] (p.100) “News, lifestyle, and food.”
+[says:horikita-suzune] (p.100) “Alright, I’ll register those for you.”
+[says:horikita-suzune] (p.100) “Thanks.”
+[note] (p.100) News, lifestyle, and food = AK's own exclusions, noted as such on the page; the three matches she suspected ("Same choices as mine") are entertainment, music, subculture.
+[rel:horikita-suzune] (p.90–100) The two-coffee mentorship session; she walks away with his awareness planted and her priorities reshuffled; she registers his exclusions without questioning them.
+[rel:ike-kanji] (p.81–88) His plan sharpens Horikita's thinking — the 68-point arithmetic was valuable even in failure; he leaves believing he helped.
 
-<!-- walk: y2v10 Ch.4 → p.100 -->
-
-### y2v10 p.101–109 — Ch.5: Hashimoto overhears; Sakayanagi shrugs
-[scene] (p.101–102) Hashimoto agonizes over whether he should sleep; his class's anxiety about losing to Ryūen's class is on the eve of the exam; regrets the underprepared state; decides to call Sakayanagi with his intel.
-[scene] (p.103–105) They meet at the Keyaki Mall café with Kamuro and Kitō; Sakayanagi denies it's a strategy meeting, calls it a tea party — enjoying it for her own reasons; Hashimoto that turns it into a stealth intel-drop.
-[scene] (p.106–109) Sat in his dorm with Kei until late, then his phone rings; it's Kanzaki asking if he wants to talk — and he says yes; they invite Ichinose and Amikura; Kei's mild jealousy; the visit lasts past six.
-
-
-### y2v10 p.110–118 — Ch.5: Ichinose returns alone
-[scene] (p.110–113) Ichinose returns alone claiming she forgot her phone; she quietly asks if he's alone; locks the door; he suggests closing it for privacy; she pushes back with herself as logistics; she tackles him accidentally; he catches her; the scene is unusual.
-[scene] (p.114–118) Watanabe storms in without knocking; he flees; she holds him inside and interrogates him; she extracts his junior high story; he talks about girlfriend who abandoned him; he and Ichinose reach understanding; she invites him to keep it secret; he becomes helplessly loyal to her.
-[says] (p.111) "...Ayanokōji-kun."
-[says] (p.112) "I love you, Ayanokōji-kun. I'm helplessly in love with you..."
-[says] (p.118) "I think I understand you better after our conversation today, Watanabe-kun. You like Mako-chan, don't you?"
-[rel:ichinose-honami] (p.110–118) She pursues him; he lets her; she extracts dominance from Watanabe through honesty.
-[rel:kanzaki-ryuuji] (p.106–118) He visits in the evening; Ichinose then engineers a private moment with him.
-[rel:watanabe-norihito] (p.110–118) Storms in accidentally; gets cornered by Ichinose; becomes her puppet.
-
-
-### y2v10 p.119–122 — Ch.5: Hashimoto calls Sakayanagi
-[scene] (p.119) Phone call to Sakayanagi the night before; he warns about collusion; she deflects; he offers everything he has; Sakayanagi shows alarm at collusion; he emphasizes Ryūen cooperation suspicion; she concedes nothing — Enjoy the battle as her own project; his intel is mostly noise; he returns to his dorm troubled.
-[says] (p.119) "Jeez, you're so confident... I get it. Then don't worry about what I said. I'll just observe, as long as no problems arise."
-[rel:sakayanagi-arisu] (p.119–122) Calls her about collusion; she shrugs him off; he burns her playing into his own hands.
-
-<!-- walk: y2v10 Ch.5 → p.122 -->
 ### y2v10 p.123–127 — Ch.6: Special exam setup; Sakagami-sensei supervises
 [scene] (p.123) The exam begins; interlude with the class reshuffling seats; she says she won't use protection slots on Ayanokōji; Sudō gulps; Sakagami arrives too; Sakayanagi is ready.
 [scene] (p.124–127) Sakagami lays the ground rules — everyone takes their seats in the front-of-class desk, the rest of the class sits in the rows behind; rule of limited communal activity; he turns on the monitor with the board design and names order.

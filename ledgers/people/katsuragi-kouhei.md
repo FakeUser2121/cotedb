@@ -963,6 +963,12 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.39) Both mentions are references; no scene presence; no dialogue attributed to him on these pages.
 
 <!-- walk: y2v10 Ch.2 → p.59 -->
+
+### y2v10 p.85 — Ch.4: Katsuragi, the class number named
+[mentioned] (p.85) Passing mention: "Even though there was one person expelled from his class, the addition of Katsuragi-kun has kept their numbers at 40." — in the hypothetical Ryūen-class scenario, his enrollment keeps the arithmetic honest.
+[note] (p.85) Reference only; no scene presence; no dialogue.
+
+<!-- walk: y2v10 Ch.4 → p.100 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

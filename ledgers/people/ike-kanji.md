@@ -1332,6 +1332,33 @@ aliases used for anchors: ike, kanji, ike-kun
 [note] (p.39) Unnamed student screams at the expulsion prospect; he is not that voice.
 
 <!-- walk: y2v10 Ch.2 → p.59 -->
+
+### y2v10 p.81–88 — Ch.4: The 68-point strategy, dissected
+[scene] (p.81) Wednesday afternoon, two days before the exam; he slams his hands on his desk: an unbeatable strategy; the class empties skeptically; he recalculates on his fingers and pulls out his phone; undeterred.
+[says] (p.81) “Dude... I think... I might have an incredible winning strategy...!”
+[says] (p.81) “No, seriously. But wait, let me recalculate a little...”
+[says] (p.81) “No doubt! This is a winning idea!? Can I talk about it?!”
+[says] (p.81) “Ah, okay. It’d be serious if my too-perfect strategy got leaked...!”
+[scene] (p.83) Karaoke, the usual crew; his proposal on Horikita's serious face — 68 guaranteed points.
+[says] (p.83) “Alright, let’s get to the point. Suppose we were to guarantee that we get 68 points for our class. Can we agree that this would be a winning score?”
+[says] (p.83) “While it’s risky, we could secure exactly 68 points. We do this by feigning sickness right as the exam starts. Our class has 38 students—if we only leave five for defense, plus the leader, and then have the remaining 32 eliminated...”
+[says] (p.83) “That’s fine. Even if we subtract 32 points for the eliminated students, we are guaranteed to get 68 points.”
+[says] (p.84) “But, you know, the opponent can only nominate five students, right? We can protect five students each round, but we only have five students left to nominate, right?”
+[says] (p.84) “Moreover! No one even needs to study for the exam! Not a bad idea, huh?”
+[says] (p.84) “Feigning illness... It’s a bit of a gray area in terms of the rules, but I suspect the school wouldn’t be able to stop us, even if they found it suspicious. No one can prove we’ve faked it.”
+[says] (p.85) “Wh-why? Well, I’m not insisting that you adopt it...”
+[says] (p.85) “Sure, but there’s no guarantee that the other three classes will each be able to score 67 points or more, right? While there might be a risk of coming last, isn’t there a higher probability of coming first?”
+[says] (p.85) “Why? We won’t know how difficult the questions are until the actual exam, right? So then—”
+[says] (p.86) “Wait a minute. I don’t quite get it, but if we gang up on them, they’d lose?”
+[scene] (p.87) His shoulders drop; he succumbs; he apologizes unprompted; he accepts her critique; the 68-point idea was real, only beatable by cooperation.
+[says] (p.87) “Damn! I thought we could win! I feel bad for getting everyone together!”
+[says] (p.87) “Uh, oh... I feel happy, but it’s a bit complicated...”
+[says] (p.88) “S-so, if that’s the case, uh, good. Hehe.”
+[voice] (p.81) Aims high, cares about fair play (leak anxiety), fingers-counting procrastination, humility when corrected; apologizes earnestly.
+[trait] (p.83–87) Genuinely clever — the 32-elimination 68-point guarantee was a real idea; he absorbs rigorous critique and leaves with more understanding than he came.
+[rel:horikita-suzune] (p.81–88) She takes his strategy seriously; he's crestfallen but oddly relieved.
+
+<!-- walk: y2v10 Ch.4 → p.100 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

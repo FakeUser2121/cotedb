@@ -174,6 +174,16 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 [note] (p.9) Passing mention (locator pages: p.81, p.83-84, p.88, p.92, p.138; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.81, 83–85, 88 — Ch.4: Hondō, loud skeptic, converted
+[scene] (p.81) He raises his hand with Shinohara and Miyamoto for the karaoke outing; it is not clear he expected much from Ike's idea.
+[says] (p.83) “What? If you did that, we’d be down 32 points right from the start! Don’t you even understand the rules?”
+[says] (p.84) “But, even so, would the school really allow 32 people to feign illness? I mean, it’s too suspicious.”
+[says] (p.84) “A strategy to guarantee 68 points... Well, isn’t it pretty amazing?”
+[note] (p.84) The "isn't it pretty amazing?" line is printed in a paragraph naming Hondō as the one who, "who was initially skeptical, started to acknowledge it" — attribution rests on that sentence.
+[scene] (p.85) He sighs and puts his hands on the sofa at the 32-elimination explanation; by p.84 he is visibly warming to the idea.
+[rel:ike-kanji] (p.83–85) Starts as the loudest skeptic; absorbed by the arithmetic; leaves acknowledging it.
+
+<!-- walk: y2v10 Ch.4 → p.100 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

@@ -468,6 +468,15 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.9) Passing mention (locator pages: p.81-84, p.88, p.136, p.151, p.164; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.81–84, 88 — Ch.4: Shinohara rides along
+[scene] (p.81) The instant he stands up, she is the most surprised and the most dismissive; she raises her hand with him instantly.
+[says] (p.81) “Wh-what? You do, Kanji? No way!”
+[scene] (p.82) The couple nestles up at karaoke; she explores the menu with him; she already knew the plan — she smiles knowingly through the reveal; she accompanies his 68-point pitch with practiced calm.
+[says] (p.82) “Yeah. You too, Kanji?”
+[note] (p.84) The “I was also surprised when I heard it from Kanji. It’s a good idea, isn’t it?” line is printed without a speaker tag; she and Miyamoto are the only candidates by turn-taking; attribution left open.
+[note] (p.81) "Wh-what? You do, Kanji? No way!" — her disbelief is the social pressure Ike survived to bring the plan forward.
+
+<!-- walk: y2v10 Ch.4 → p.100 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->
