@@ -235,6 +235,14 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 
 <!-- walk: y0 Epilogue → p.265 -->
 
+### y0 p.38–41 — The introduction: "Tsukishiro Tokinari"
+[scene] (p.39) Approaches Atsuomi in the corridor with a faint, unwavering smile; gives his business card.
+[says] (p.39) “My name is Tsukishiro Tokinari. Unfortunately, I am not a bodyguard, but I look forward to working with you.”
+[says] (p.39) “From personal security to information gathering, I will do whatever is necessary.”
+[note] (p.39) Naoe introduces him as "a jack-of-all-trades" who works with any client — not merely Naoe's employee; the opposition's Peace Party is in his orbit too.
+[rel:ayanokouji-atsuomi] (p.38–41)
+[rel:naoe] (p.38–40)
+
 ### y0 p.78–84 — Tsukishiro's meeting: observer, cleanup man, negotiator
 [scene] (p.79) Arrives at Atsuomi's office in a black BMW, having driven himself.
 [narrates] (p.79) "'I usually work alone. Besides, I don't like entrusting someone else to drive me. It's like putting your life in their hands.'"

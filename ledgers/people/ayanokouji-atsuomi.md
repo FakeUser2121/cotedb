@@ -224,6 +224,22 @@ char_id: ayanokouji-atsuomi · role: White Room director, Ayanokōji’s father 
 [rel:naoe-sensei] (p.31–33) Challenges and delights him with the sushi metaphor; accepts the envelope project that promises fame.
 [rel:kamogawa] (p.31) Watches him give a simplistic answer about responding to the citizens' wishes.
 
+### y0 p.33–41 — The Human Resource Development Plan
+[scene] (p.33) Takes the brown envelope from Naoe — “Human Resource Development Plan (Provisional)” — and accepts the assignment in all but name.
+[narrates] (p.33) “Japan's standard of education is only declining. We need to implement education that looks not only five or ten years ahead of our time, but twenty to thirty years into the future.”
+[narrates] (p.33) “Politicians need to focus on education. Even if they have no interest, it connects to votes and support both domestically and internationally.”
+[narrates] (p.35) “It's a valid question. Can you answer that, Ayanokouji?” (Naoe)
+[narrates] (p.37) “Of course, I will accept it.”
+[narrates] (p.37) “This is a top-secret project. It isn't at the stage where we can inform others about it.”
+[narrates] (p.38) “Also, I have something important to tell you: don't expect any financial support from me.”
+[note] (p.33) Naoe's framing: use abandoned and illegitimate children, provide government-backed education, and route them into the political world as obedient servants sharing business tycoons' blood.
+[note] (p.37–38) The financial liaison named is a Sakayanagi — “the Sakayanagi I'm talking about has a son—that's who I meant.”
+[note] (p.41) Kamogawa is deliberately kept by his side; Atsuomi suspects it as a deliberate shackle.
+[rel:kamogawa] (p.34–41)
+[rel:naoe] (p.33–41)
+[rel:sakayanagi-narimori] (p.37–38)
+[rel:tsukishiro] (p.38–41)
+
 ### y0 p.42–47 — Planning the Human Resource Development Project; using Kamogawa
 [scene] (p.42) At his cluttered office, plans the "Human Resource Development Project" — gathering newborns and securing a huge budget.
 [narrates] (p.42) "…This project is going to be troublesome."
