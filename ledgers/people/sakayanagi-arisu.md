@@ -1011,12 +1011,7 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 pp.7-243 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v5 Epilogue → p.243 -->
 
 ### y2v5 p.168–170 — Sakayanagi's class: the queen bluffs
 [scene] (p.168) Class A reaches Q5; like Horikita, Sakayanagi arranged two controlled "for" votes to keep round one non-unanimous and gauge the class.

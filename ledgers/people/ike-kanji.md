@@ -1210,14 +1210,15 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:ayanokouji-kiyotaka] (p.26–28) Asks him to come along for moral support; Ayanokōji goads him about the coming punch.
 ## y2v5
 
+
+### y2v5 p.7-243 — ike-kanji mentioned in passing
+[scene] (p.7) Named in this volume.
+[note] (p.7) Passing mentions on pages: p.9-11, p.13-14, p.17, p.20, p.23-25.
+[mentioned] (p.7) Passing mention only.
+
 <!-- walk: y2v5 → start -->
 
-### y2v5 pp.7-243 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v5 Epilogue → p.243 -->
 
 ## y2v6
 

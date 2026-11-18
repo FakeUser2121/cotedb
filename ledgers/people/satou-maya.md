@@ -424,12 +424,7 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 pp.7-243 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v5 Epilogue → p.243 -->
 
 ### y2v5 p.19–25 — Satō's elaborate maid-café pitch
 [scene] (p.19) Approaches Horikita with a "winning" festival idea, then invites Ayanokōji too — secretly setting up a live demonstration in a rented special-building classroom with a guard (Maezono) and shaded windows.

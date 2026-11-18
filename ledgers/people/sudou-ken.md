@@ -1820,12 +1820,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 pp.7-243 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v5 Epilogue → p.243 -->
 
 ### y2v5 p.9–12 — Sudō studies hard; shocked by Ayanokōji's dating news
 [says] (p.9) "Suzune warned me about the possibility of a written exam early in the second semester, so I'm staying up all night."

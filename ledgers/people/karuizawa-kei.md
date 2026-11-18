@@ -1724,14 +1724,15 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:ayanokouji-kiyotaka] (p.277–278) Her boyfriend — plans to tell her closest friends first, then let it spread "like wildfire."
 ## y2v5
 
+
+### y2v5 p.7-243 — karuizawa-kei mentioned in passing
+[scene] (p.7) Named in this volume.
+[note] (p.7) Passing mentions on pages: p.10-13, p.19, p.46, p.48-50, p.53-56.
+[mentioned] (p.7) Passing mention only.
+
 <!-- walk: y2v5 → start -->
 
-### y2v5 pp.7-243 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v5 Epilogue → p.243 -->
 
 ## y2v6
 

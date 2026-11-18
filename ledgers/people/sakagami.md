@@ -230,14 +230,15 @@ aliases used for anchors: sakagami, sakagami-sensei
 
 ## y2v5
 
+
+### y2v5 p.7-243 — sakagami mentioned in passing
+[scene] (p.7) Named in this volume.
+[note] (p.7) Passing mentions on pages: p.141, p.143, p.155, p.162, p.165.
+[mentioned] (p.7) Passing mention only.
+
 <!-- walk: y2v5 → start -->
 
-### y2v5 pp.7-243 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v5 Epilogue → p.243 -->
 
 ## y2v6
 

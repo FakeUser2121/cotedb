@@ -1280,12 +1280,7 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 pp.7-243 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v5 Epilogue → p.243 -->
 
 ### y2v5 p.7–8 — Chabashira's monologue: the nightmare of the exam that cost her Class A
 [scene] (p.7) From her own POV, reveals a recurring nightmare she's never told anyone about — the events of the special exam in her third year, which always ends the same way.

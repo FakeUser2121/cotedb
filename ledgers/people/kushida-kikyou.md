@@ -1807,12 +1807,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 pp.7-243 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v5 Epilogue → p.243 -->
 
 ### y2v5 p.45 — Kushida proposes Horikita as emergency leader
 [says] (p.45) "Um, this special exam means that there are going to be separate options and there's going to be trouble, right?"

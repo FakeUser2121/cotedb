@@ -59,14 +59,15 @@ char_id: maezono · class: Class 1-D · status: minor
 
 ## y2v5
 
+
+### y2v5 p.7-243 — maezono mentioned in passing
+[scene] (p.7) Named in this volume.
+[note] (p.7) Passing mentions on pages: p.22-23, p.25, p.93, p.95.
+[mentioned] (p.7) Passing mention only.
+
 <!-- walk: y2v5 → start -->
 
-### y2v5 pp.7-243 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v5 Epilogue → p.243 -->
 
 ## y2v6
 
