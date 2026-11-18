@@ -19,4 +19,3 @@ char_id: tatewaki-aoi · class: unknown · status: unknown
 
 
 
-<!-- walk: y2v12 Epilogue → p.228 -->

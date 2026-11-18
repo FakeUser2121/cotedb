@@ -1016,4 +1016,3 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [scene] (p.11) Rostered for this volume.
 [note] (p.11) Page locator found no matches for this name in this volume; possible spelling/alias variant missed. Not read line-by-line.
 
-<!-- walk: y2v12 Epilogue → p.228 -->

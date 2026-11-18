@@ -590,4 +590,3 @@ char_id: ayanokouji-atsuomi · role: White Room director, Ayanokōji’s father 
 
 
 
-<!-- walk: y2v12 Epilogue → p.228 -->

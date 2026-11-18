@@ -1915,4 +1915,3 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [note] (p.11) Passing mention (locator pages: p.19, p.21, p.26, p.30, p.34-35, p.37-38; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
-<!-- walk: y2v12 Epilogue → p.228 -->

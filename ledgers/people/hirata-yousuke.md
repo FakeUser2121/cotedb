@@ -1975,4 +1975,3 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 
 
-<!-- walk: y2v12 Epilogue → p.228 -->

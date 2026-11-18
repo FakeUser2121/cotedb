@@ -1944,4 +1944,3 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [note] (p.11) Passing mention (locator pages: p.185-186; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
-<!-- walk: y2v12 Epilogue → p.228 -->

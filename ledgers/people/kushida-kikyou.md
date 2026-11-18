@@ -1982,4 +1982,3 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 
 
-<!-- walk: y2v12 Epilogue → p.228 -->

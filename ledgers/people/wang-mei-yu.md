@@ -331,4 +331,3 @@ char_id: wang-mei-yu · status: minor
 
 
 
-<!-- walk: y2v12 Epilogue → p.228 -->

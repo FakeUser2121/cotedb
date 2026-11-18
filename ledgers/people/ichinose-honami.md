@@ -1931,4 +1931,3 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [note] (p.11) Passing mention (locator pages: p.37-38, p.121, p.194, p.209; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
-<!-- walk: y2v12 Epilogue → p.228 -->

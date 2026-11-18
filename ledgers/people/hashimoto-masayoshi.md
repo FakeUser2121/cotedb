@@ -977,11 +977,34 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — hashimoto-masayoshi mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.19-33, p.46-47, p.49-53, p.60, p.67-70, p.72; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
+### y2v11 p.19–26 — Ch.1: The heavy matter in Ayanokōji's room
+[scene] (p.19) After Ayanokōji's two-person interview, Hashimoto waits by his door; he is let in with the traces of Kei's visits scattered about.
+[says] (p.20) “It's a pretty heavy matter. I'm struggling with what to do with myself. I want you to listen to my concerns.”
+[says] (p.20) “I was the first one to be suspected. Now, every day, I'm being looked at with suspicion by various people in the class.”
+[says] (p.22) “The reason I betrayed Sakayanagi was because of your existence, Ayanokōji. The trigger was my attempt to persuade Sakayanagi to pull you into Class A at all costs.”
+[says] (p.22) “Interesting expression. Well, it's mostly correct.”
+[says] (p.23) “You have the ability to turn the class ranking upside down by yourself. That's why I threatened Sakayanagi that if she doesn't secure you, I'll betray her again.”
+[says] (p.26) “Can I join you then? Of course, no more heavy talk, okay?”
+[note] (p.20–25) He volunteered the leak story before being asked; no concrete evidence against him is known; he speaks of "his own chances of winning" against Sakayanagi without elaborating.
+[note] (p.24–25) Kiyotaka reads him as mixing truth and lies; his aim is to be the only one to survive and win.
+[rel:ayanokouji-kiyotaka] (p.19–26) Hashimoto seeks his counsel on what to do with himself; the meeting ends with them heading to the convenience store together.
+[rel:sakayanagi-arisu] (p.20–24) He is suspected of betraying her and of drawing Kamuro's departure; he speaks of beating her, acknowledging his odds are poor.
+[rel:karuizawa-kei] (p.26) He learns Kei is due at Kiyotaka's room afterward.
 
+### y2v11 p.26–33 — Ch.1: Tagging along to the convenience store
+[scene] (p.26) He follows Kiyotaka to the lobby; they meet Morishita; the three walk to the store; Yamamura and Kiryūin join in.
+[says] (p.26) “Hey, hey, don't start with that. Give me a break.”
+[says] (p.27) “Stop it. It's okay to suspect me of being a traitor, but it's better not to involve outsiders without instructions from the princess.”
+[says] (p.30) “This is the first time I've seen you use a convenience store.”
+[says] (p.31) “Don't deliberately throw me under the bus like that... Well, I guess Yamamura is suspicious of me too.”
+[says] (p.32) “Nice to meet you, Kiryūin-senpai. I'm Hashimoto, also from Class A.”
+[note] (p.27) He deflects Morishita's questions about his own movements.
+[rel:morishita-ai] (p.26–33) She needles him publicly as "the traitor" and he deflects.
+[rel:yamamura-miki] (p.30–32) He probes her convenience-store habit in front of the others.
+[rel:kiryuin-fuuka] (p.32) He offers his hand; she brushes it off and pays first.
+[note] (p.28) To deflect Morishita he falls back on the “there are things that only guys can talk about” line.
+
+<!-- walk: y2v11 ch1 → p.33 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -990,4 +1013,3 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [scene] (p.12) Named in this volume.
 [note] (p.12) Passing mention (locator pages: p.20, p.49-52, p.59, p.162, p.165-166, p.173-174; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.12) Passing mention only.
-

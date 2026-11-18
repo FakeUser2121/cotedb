@@ -306,13 +306,17 @@ char_id: morishita-ai · class: Class 2-A · status: unknown
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — morishita-ai mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.26-29, p.31-32, p.46-47, p.49-50, p.60, p.108; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
+### y2v11 p.26–33 — Ch.1: The coincidence in the lobby
+[scene] (p.26) She runs into Kiyotaka and Hashimoto in the lobby; she calls Hashimoto the traitor to his face; the three walk to the convenience store together.
+[says] (p.26) “What a coincidence, Ayanokōji Kiyotaka.”
+[says] (p.26) “And the traitor, Hashimoto Masayoshi, is here too.”
+[says] (p.26) “Ayanokōji Kiyotaka, you don't seem surprised.”
+[says] (p.27) “That's strange. Ayanokōji Kiyotaka's two-person meeting should’ve ended a long time ago. It seems you two have been talking a lot today.”
+[says] (p.31) “I'm just a little curious about Hashimoto Masayoshi. Is it love?”
+[says] (p.31) “Let's shop together since we're all here. You don't mind, do you?”
+[rel:hashimoto-masayoshi] (p.26–33) She publicly suspects him of the Class A leak; she follows him to the store.
+[rel:yamamura-miki] (p.31–32) She drags her into the shopping; her recommendations stick.
+[rel:ayanokouji-kiyotaka] (p.26–33) She probes whether he was consulted; she reveals she knows his two-person meeting ended long ago.
+[note] (p.27) She knows something about his interview timing; the source of her knowledge is not stated.
 
-
-
-
-
-<!-- walk: y2v12 Epilogue → p.228 -->
+<!-- walk: y2v11 ch1 → p.33 -->

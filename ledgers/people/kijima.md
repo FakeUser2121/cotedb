@@ -66,4 +66,3 @@ char_id: kijima · class: Class 2-A · status: unknown
 
 
 
-<!-- walk: y2v12 Epilogue → p.228 -->

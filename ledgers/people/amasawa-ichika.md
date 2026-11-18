@@ -360,4 +360,3 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 
 
 
-<!-- walk: y2v12 Epilogue → p.228 -->

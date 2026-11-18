@@ -428,4 +428,3 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 
 
 
-<!-- walk: y2v12 Epilogue → p.228 -->
