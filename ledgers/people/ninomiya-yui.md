@@ -32,6 +32,13 @@ char_id: ninomiya-yui · class: unknown · status: unknown
 
 <!-- walk: y2v3 → start -->
 
+### y2v3 p.142, 332 — Ninomiya mentioned in passing
+[scene] (p.142) Named in the Beach Flags Task context.
+[scene] (p.332) Named in the Epilogue context.
+[note] (p.142, 332) Passing mentions; not a distinct scene presence.
+
+<!-- walk: y2v3 Epilogue → p.332 -->
+
 
 
 ## y2v4.5

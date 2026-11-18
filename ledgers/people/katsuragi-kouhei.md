@@ -803,6 +803,14 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v3 → start -->
 
+### y2v3 p.66, 213–218, 276 — Katsuragi mentioned in passing
+[scene] (p.66) Named in the student council context.
+[scene] (p.213–218) Named in the Ryūen meeting context.
+[scene] (p.276) Named in the class meeting context.
+[note] (p.66, 213–218, 276) Passing mentions; not a distinct scene presence.
+
+<!-- walk: y2v3 Ch.6 → p.276 -->
+
 
 
 ## y2v4

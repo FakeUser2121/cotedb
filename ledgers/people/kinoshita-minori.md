@@ -87,6 +87,12 @@ char_id: kinoshita-minori · class: Class 1-C (enrolled April 2015) · status: m
 
 <!-- walk: y2v3 → start -->
 
+### y2v3 p.169–180 — Kinoshita injured in the emergency
+[scene] (p.169–180) He is found unconscious and injured alongside Komiya; Shinohara reports seeing someone push them.
+[note] (p.169–180) Kinoshita is injured; not a distinct scene presence beyond the emergency.
+
+<!-- walk: y2v3 Ch.5 → p.180 -->
+
 
 
 ## y2v4

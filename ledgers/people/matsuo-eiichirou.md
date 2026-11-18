@@ -15,6 +15,13 @@ char_id: matsuo-eiichirou · role: former butler to Ayanokōji · status: deceas
 
 <!-- walk: y2v3 → start -->
 
+### y2v3 p.299–302, 347–352 — Matsuo mentioned in passing
+[scene] (p.299–302) Named in the Ryūen meeting context.
+[scene] (p.347–352) Named in the short stories context.
+[note] (p.299–302, 347–352) Passing mentions; not a distinct scene presence.
+
+<!-- walk: y2v3 Ch.8 → p.352 -->
+
 
 
 ## y2v8

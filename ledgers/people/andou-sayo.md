@@ -19,6 +19,12 @@ char_id: andou-sayo · class: unknown · status: unknown
 
 <!-- walk: y2v3 → start -->
 
+### y2v3 p.251–256 — Andou mentioned in passing
+[scene] (p.251–256) Named in the first-year representative meeting context.
+[note] (p.251–256) Passing mentions; not a distinct scene presence.
+
+<!-- walk: y2v3 Ch.7 → p.256 -->
+
 
 
 ## y2v8

@@ -147,6 +147,14 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 
 <!-- walk: y2v3 → start -->
 
+### y2v3 p.120–130 — Kiriyama at the Beach Flags Task
+[scene] (p.120–125) He is present at the Beach Flags Task; Ayanokōji notes his presence and Kiriyama warns him.
+[scene] (p.127) He warns Ayanokōji not to get in his way.
+[scene] (p.130) He is mentioned in the context of Nagumo's strategy.
+[note] (p.120–130) Kiriyama is present in these scenes; see the y2v2 block for his full entry.
+
+<!-- walk: y2v3 Ch.4 → p.130 -->
+
 
 
 ## y2v4

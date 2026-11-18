@@ -562,6 +562,12 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 
 <!-- walk: y2v3 → start -->
 
+### y2v3 p.110–114 — Miyake mentioned in passing
+[scene] (p.110–114) Named in the group discussion context.
+[note] (p.110–114) Passing mentions; not a distinct scene presence.
+
+<!-- walk: y2v3 Ch.4 → p.114 -->
+
 
 
 ## y2v4.5

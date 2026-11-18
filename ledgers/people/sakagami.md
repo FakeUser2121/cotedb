@@ -219,6 +219,13 @@ aliases used for anchors: sakagami, sakagami-sensei
 
 <!-- walk: y2v3 → start -->
 
+### y2v3 p.150–151, 193–201 — Sakagami (teacher) at Tasks
+[scene] (p.150–151) He is the teacher at the Task site; Ayanokōji registers for a Task.
+[scene] (p.193–201) He is present at the Task site where Ayanokōji and Nanase participate.
+[note] (p.150–151, 193–201) Sakagami is a teacher, not a student; passing mentions.
+
+<!-- walk: y2v3 Ch.4 → p.201 -->
+
 
 
 ## y2v5

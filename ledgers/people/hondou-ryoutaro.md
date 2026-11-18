@@ -88,6 +88,12 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 
 <!-- walk: y2v3 → start -->
 
+### y2v3 p.84–88 — Hondō at Task site C6
+[scene] (p.84–88) He is present at Task site C6 with Sudō and Ike.
+[trait] (p.84–88) Present but not very engaged.
+
+<!-- walk: y2v3 Ch.3 → p.88 -->
+
 
 
 ## y2v4.5
