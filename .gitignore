@@ -25,3 +25,6 @@ site-audit/graph.html
 
 # a chat transcript is not part of the archive
 session-*.md
+
+# experimental search-lab POC (not for review, scratch only)
+/search-poc/
