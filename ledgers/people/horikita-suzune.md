@@ -4635,6 +4635,24 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ichinose-honami] (p.204) "Ichinose-san, who had resolved the fight, was called by Ando-san, from her class, as she was leaving." — she protects everyone by leaving.
 [rel:andou-sayo] (p.204) Ando-san calls Ichinose out of the bath by name.
 
+### y2v8 p.57–58, 60–61, 69, 93, 110–111, 147–149, 181, 183, 192, 194, 202 — Passing-mention records
+[mentioned] (p.57) "I'm confident in my ability to read a person's aura and understand what others are thinking. This applies to Horikita-san and Ryūen-kun as well." (Kushida to Ayanokōji)
+[mentioned] (p.58) "As soon as Horikita decided to keep you, the line of me expelling you from the school disappeared. If I wanted to keep that possibility open even now, I would’ve told off Horikita." (Ayanokōji to Kushida)
+[mentioned] (p.60) "The only people who went to the same junior high school as me were the Horikita siblings." (Kushida, on her affinity)
+[mentioned] (p.61) "I had been in contact with Nagumo, Ryūen, and Horikita, several people who either knew of or suspected my involvement." (Ayanokōji, chronicling his suspects)
+[mentioned] (p.69) "This was definitely true for Sudō; he was determined to confess his feelings to Horikita on the school trip. Was that not an unusual thing to do, or was it an important event for students?"
+[mentioned] (p.93) "fourth group. She should be with Hondō and Onodera from Horikita's class." (Ayanokōji, piecing together her sighting of Sakayanagi)
+[mentioned] (p.110) "I'm sure that since that time last year, when he and I discussed it, Horikita's class had been able to move so freely that they'd partially forgotten about Ryūen's presence."
+[mentioned] (p.111) "If Horikita and you, along with both classes really clash, and you win and move up to Class A, our side will be the only one to have made fools of ourselves."
+[mentioned] (p.147) "Whenever I have to deal with Suzune's class, I'll use this weapon without mercy." (Ryūen's plan to use Kushida as a weapon on her class)
+[mentioned] (p.148) "That's right. Kushida is now taking a new step forward as Horikita's classmate. I'm not going to let you destroy that with your provocations." (Ayanokōji to Ryūen)
+[mentioned] (p.149) "I'm sure that he'll challenge Horikita's class to a fight with a strategy that I can't even think of."
+[mentioned] (p.181) "If there was a child of Ayanokōji-sensei in Horikita's class, he must have been a powerful card."
+[mentioned] (p.183) "It's my role to bury Horikita's class, including Ayanokōji." (Sakayanagi)
+[mentioned] (p.192) "If only I could command my classmates like Sakayanagi-san. If only I could lead as strongly as Ryūen-kun. If only I could coordinate like Horikita-san."
+[mentioned] (p.194) "Neither Horikita, Ryūen, nor Sakayanagi, who walk in front of the pack, will stand still and allow her to catch up."
+[mentioned] (p.202) "It's okay, it's just a joke after drinking, I'll put a deaf ear to it. Horikita said something unlike a student."
+
 <!-- walk: y2v8 Postscript → p.208 -->
 
 ### y2v8 p.11-208 — horikita-suzune mentioned in passing

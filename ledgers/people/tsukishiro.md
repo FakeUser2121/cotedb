@@ -373,6 +373,12 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 
 <!-- walk: y2v8 Ch.6 → p.195 -->
 
+### y2v8 p.60, 190–191 — Passing-mention records
+[mentioned] (p.60) "He probably faked it based on the information given to him by Tsukishiro, and it was likely he had Yagami pretend to be her junior in order to avoid the risk of learning about his past." (Ayanokōji, surmising Yagami's cover story)
+[mentioned] (p.190) "Sakayanagi's image flashed through my mind. There were some situations where the class leaders were getting to know each other, such as cooperation between classes these days. But I don't think she would easily talk about such things." — wait, that's p.190? no. Tsukishiro's mention on p.190–191 — the actual token: p.190–191: "I heard the former acting chairman and Shiba-sensei talking during the Uninhabited Island Exam." — "Tsukishiro" per se doesn't appear on p.190: the name used is "the former acting chairman" — the connection Tsukishiro-as-former-acting-chairman comes from prior volumes. Do NOT assign identity; keep it as-is: [mentioned] (p.190–191) "I heard the former acting chairman and Shiba-sensei talking during the Uninhabited Island Exam." (identity of "the former acting chairman" not assigned — see coverage notes)
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ### y2v8 p.11-208 — tsukishiro mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.34-36, p.60, p.190.

@@ -253,6 +253,32 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 
 <!-- walk: y2v8 Ch.4 → p.161 -->
 
+### y2v8 p.55–56, 90–91, 97–98, 104–107, 113–114, 117, 129, 162, 167–168, 175 — Passing-mention records
+[mentioned] (p.55) "The sixth group's members, Ryūen, Kitō, Nishino and Kushida, were absent, probably because they were intermediate or above."
+[mentioned] (p.56) "Out of the corner of my eye, I saw Yamamura restlessly climbing onto the lift for advanced skiers."
+[mentioned] (p.97) "Among the few stores that were already open, there was an unusual apparel store, and for some reason, Kitō walked in and began to stare at the clothes. There were some very fancy and unusual clothes on display. Did he find anything he liked?"
+[mentioned] (p.98) "The sixth group, including Kitō and the others, had already left, leaving just the three of us in a quiet situation."
+[mentioned] (p.104) "Ryūen, sitting beside me, thought that this school trip was mainly about gathering information... The lift arrived and we got off at the advanced course. Kitō, who was waiting ahead of us, called Ryūen to the starting point with a glance."
+[mentioned] (p.105) "The lift arrived and we got off at the advanced course. Kitō, who was waiting ahead of us, called Ryūen to the starting point with a glance. He said he wouldn’t waste any time and got straight into the race down the hill."
+[mentioned] (p.106) "The two skiers were now at risk of colliding with each other due to the overlap in course positioning. ... 'Die, Kitō!'" (the race and the near-collision)
+[mentioned] (p.107) "Ryūen and Kitō's skiing was that of experts, true role models."
+[mentioned] (p.113) "Kitō, having been called a dog, placed his large palm on the table and stood up. 'Naturally, I alone am enough to defeat you.'"
+[mentioned] (p.114) "Then, Kitō appeared, slithering toward them. The other boys were flustered by his face and intimidating appearance, which was clearly not that of a high school student." (sliced past)
+[mentioned] (p.117) "This would a problem if anyone saw it, but maybe it was necessary for Yamamura and Nishino's sake."
+[mentioned] (p.129) "I left the key with Kitō, who was in the room, and headed to meet Kei."
+[mentioned] (p.162) "Kitō was too engrossed in the TV to answer, and Ryūen didn’t hesitate in going to the reserved seat in the room to make his pass explicit." — hmm, p.162: "It seemed that Kitō was the first to return today... he was staring at the screen as if he were devouring it... It seemed to be a feature on fashion that Kitō was interested in." and "'Hey, Ayanokōji. They're going to have a snowball fight outside.' ... 'What about Ryūen and Kitō?' Kitō was too engrossed in the TV to answer." — all p.162 ✓.
+[mentioned] (p.167) "Little by little, I think Kitō-kun's curses for Ryūen-kun are decreasing." (Yamamura to Ayanokōji)
+[mentioned] (p.168) "Kitō is also very close to Sakayanagi. ... I originally thought that he wasn’t the type to talk at all, but when I got closer to him, I found that he spoke a lot more than I expected."
+[mentioned] (p.175) "I think I learned a little bit more about Yamamura and Kitō."
+
+### y2v8 p.90–91 — Passing-mention records
+[mentioned] (p.90) "Ryūen, who was in the same room, had already taken his place on the one-seat sofa, and Kitō was browsing through a stack of magazines that the ryokan were available for free. They all seemed to have fashion in common."
+[mentioned] (p.90) "As if to bring a storm into this peaceful morning, Ryūen made a proposal to Kitō. Needless to say, this wasn't a welcome proposal for Watanabe and I."
+[mentioned] (p.91) "Then Kitō stood up, curled up a borrowed magazine in his hand, approached Ryūen and thrust the tip of the magazine at him as if it were the tip of a sword."
+[mentioned] (p.91) "If you lose, you'll be as quiet as a cat during this trip." (his threat to Ryūen over the magazine-duel)
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ### y2v8 p.11-208 — kitou-hayato mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.46-48, p.50-52, p.55-56, p.65-68, p.80-85.

@@ -872,6 +872,12 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 
 <!-- walk: y2v8 Ch.3 → p.129 -->
 
+### y2v8 p.105–109 — The Class A flank, described
+[mentioned] (p.105) "the only personnel we needed from Class A was Katsuragi. Kitō and Hashimoto are good enough as small fries, but not good enough to be our pawns. It's not worth the risk."
+[mentioned] (p.109) "This was mostly compensated for by Kamuro and Hashimoto."
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ### y2v8 p.11-208 — hashimoto-masayoshi mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.105, p.109, p.118-119.

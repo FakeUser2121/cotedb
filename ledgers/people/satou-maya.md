@@ -485,6 +485,11 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 
 <!-- walk: y2v8 Ch.1 → p.45 -->
 
+### y2v8 p.28 — Passing-mention record
+[mentioned] (p.28) "Kei had promised to hang out with Satō and some other girls at the dormitory today so there was no need to worry about her."
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ### y2v8 p.11-208 — satou-maya mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.25-28, p.48.

@@ -148,6 +148,11 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 
 <!-- walk: y2v8 Ch.3 → p.129 -->
 
+### y2v8 p.19 — Passing-mention record
+[mentioned] (p.19) "Hondō tilted his head, unable to understand the famous quote from Sun Tzu's The Art of War."
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ### y2v8 p.11-208 — hondou-ryoutaro mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.13, p.15, p.18-19, p.93.

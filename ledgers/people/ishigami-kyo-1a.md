@@ -50,6 +50,9 @@ char_id: ishigami-kyo-1a · class: Class 1-A · status: first-year honor student
 ### y2v8 p.207 — The credits: Nagumo > Ishigami
 [mentioned] (p.207) BGS003 (Illustration Cleaner): "Nagumo > Ishigami".
 
+### y2v8 p.185 — Passing-mention record
+[mentioned] (p.185) "at least in all my interactions with Ishigami, I had never sensed any danger, and the same went for the current phone call." (Int.: Ayanokōji, after the call ends)
+
 <!-- walk: y2v8 Postscript → p.208 -->
 
 ## y2v9

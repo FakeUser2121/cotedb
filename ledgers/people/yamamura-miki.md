@@ -262,6 +262,55 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 [rel:nishino-takeko] (p.200) She credits Nishino ditto.
 [rel:amikura-mako] (p.200) She credits Amikura ditto.
 
+
+### y2v8 p.92–117 — Day two: the silent shadow detective
+[scene] (p.92–93) The snowman morning: she refuses to participate; she observes the builders bare-handed and frozen; she tries to need nobody.
+[scene] (p.97–102) She declines the shop browse; stands quietly in the cold; Ryūen spots her; he pulls her arm out of the pocket to prove she has no gloves; she gives up nothing; Ayanokōji offers his gloves; she takes them; she doesn't want to feel anything about this; she asks if she can pay him back; he teases out why she didn't go back to get them earlier — she has no answer that satisfies her either.
+[says] (p.92) “No, I'm... Not interested.”
+[says] (p.98) “What...!?”
+[says] (p.98) “I don't want to.”
+[says] (p.98) “I don't want to pull them out. It's too cold.”
+[says] (p.99) “I forgot...”
+[says] (p.100) “I'd feel bad giving them back to you... after I wore them. They're dirty.” — hmm, she says: “Um, when we get to the ski resort, please let me reimburse you for the gloves.” + “I'd feel bad giving them back to you... after I wore them. They're dirty.” — split quoting is fine.
+[says] (p.100) “Um, when we get to the ski resort, please let me reimburse you for the gloves.”
+[says] (p.100) “That's not what I mean. I'll get them dirty by wearing them ...”
+[says] (p.101) “The kind of mood that is hard to get through, sort of.”
+[says] (p.101) “No one really. I usually spend most of my time alone.”
+[says] (p.102) “I have such a weak presence that... you probably wouldn't even notice that I'm alone. It's an everyday occurrence, so I'm not particularly concerned about it.”
+[says] (p.102) “I don't like myself at all. It's impossible.”
+[scene] (p.108–109) Soup curry lunch; everyone covers Yamamura's embarrassment; nobody mentions it; she sits darker than the rest; she says nothing.
+[note] (p.108) “Yamamura is... Well, she's not ready yet.” — the beginner-course report (Watanabe or Amikura — the translation leaves the reporter untagged).
+[scene] (p.113–117) She returns to the table; quietly leaves it; Kushida and Nishino track her; five Gifu students swarm her and Nishino; Yamamura apologizes for the spill — the boys ridicule her; Kitō shows up barking silence; his relief is silent; she survives; Kushida watches the boys get dragged off by Ryūen and Kitō.
+[rel:ayanokouji-kiyotaka] (p.98–102) He sees her; provides her with gloves; she owes him and hates that she owes him.
+[rel:kitou-hayato] (p.114–117) She apologized for bumping into a boy; the man she failed to see gets a pair of knees-on-throat treatment on his behalf; she barely processes it.
+[rel:ryuuen-kakeru] (p.98–99) Forces the glove discovery by grabbing her arm.
+[rel:kushida-kikyou] (p.92–117) Observes her invisibility; tries to reach her with no luck.
+[rel:nishino-takeko] (p.114–117) They ride into the Gifu ambush together; Nishino shields her.
+
+<!-- walk: y2v8 Ch.3 → p.129 -->
+
+### y2v8 p.92–93, 98–103, 108–109, 113–114, 117, 143, 175 — Passing-mention records
+[mentioned] (p.92) "That sounds fun. Why don't we make one with Nishino-san and Yamamura-san?" (Amikura's snowman push)
+[mentioned] (p.92) "What about Yamamura-san?" — she says nothing; she declines with a tiny voice.
+[mentioned] (p.93) "On the other hand, there were those who continued to quietly gaze at the snowman as it was being built. It was Yamamura, who had been gradually distancing herself from us without being noticed."
+[mentioned] (p.98) "Kushida immediately accepted Amikura's invitation, but Yamamura refused, apparently intending on staying behind."
+[mentioned] (p.98) "Yamamura-san? Aren't you going?" — she says: "...Ah, I'll stay... Please don't mind me."
+[mentioned] (p.99) "snow-covered road and invaded Yamamura's personal space."
+[mentioned] (p.99) "I don't want to." — she says no firmly.
+[mentioned] (p.100) "I half forcefully pushed the gloves I took off to Yamamura."
+[mentioned] (p.100) "Um, when we get to the ski resort, please let me reimburse you for the gloves."
+[mentioned] (p.101) "The kind of mood that is hard to get through, sort of."
+[mentioned] (p.102) "I have such a weak presence that... you probably wouldn't even notice that I'm alone. It's an everyday occurrence, so I'm not particularly concerned about it."
+[mentioned] (p.103) "What about Yamamura-san?" (Kushida, at the plan stage) — wait, is that right? p.103: "'Yamamura and I are confirmed for the beginner course'" — that's WATANABE's line (attribution verfied earlier). The p.103 token: "what about Yamamura..." — line 17: "I think it would be better if someone who can ski to follow Yamamura-san" — kushida ✓. cite: [mentioned] (p.103) "I think it would be better if someone who can ski to follow Yamamura-san and the others." (Kushida)
+[mentioned] (p.108) "On the other hand, Yamamura, whose name wasn't mentioned, had a darker expression and wasn't in high spirits."
+[mentioned] (p.109) "Yamamura-san is on her way to you." (Kushida's warning text)
+[mentioned] (p.113) "Yamamura had already returned and was silently using her cellphone with a nonchalant look on her face."
+[mentioned] (p.113) "Yamamura, who had been eating slowly here, finished her meal and took her tray to the west to match Nishino."
+[mentioned] (p.114) "Apparently, it wasn’t Nishino who started the trouble, but Yamamura, who seemed to have bumped into the man."
+[mentioned] (p.117) "They made them get down on their knees in front of Yamamura and Nishino and beg for forgiveness."
+[mentioned] (p.143) "She spoke back without fear to interject between Yamamura and the guys, as if she was a shield for her." (Nishino)
+[mentioned] (p.175) "I think I learned a little bit more about Yamamura and Kitō."
+
 <!-- walk: y2v8 Postscript → p.208 -->
 
 ### y2v8 p.11-208 — yamamura-miki mentioned in passing

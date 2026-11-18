@@ -57,6 +57,11 @@ char_id: tokitou-hiroya · class: unknown · status: unknown
 
 <!-- walk: y2v8 Ch.3 → p.129 -->
 
+### y2v8 p.52 — Group 4's Class C members
+[mentioned] (p.52) "Sakayanagi was in group 4. I recalled the members who were assigned to the group. From Ryūen's class, it was Tokitō Hiroya, and Morofuji Rika."
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ### y2v8 p.11-208 — tokitou-hiroya mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.52, p.94-95.

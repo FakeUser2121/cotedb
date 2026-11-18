@@ -1960,6 +1960,14 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y2v8 Ch.5 → p.186 -->
 
+### y2v8 p.13, 16, 41, 128 — Passing-mention records
+[mentioned] (p.13) "I should ask Horikita, Keisei, or even Yōsuke to teach her." (Ayanokōji, weighing options for Kei's tutoring)
+[mentioned] (p.16) "I'll consider their hidden potential, communication skills, and growth potential... I think Yōsuke would be first at this point. If you take into account not only his simple overall value but also his day-to-day contribution to the class, he's the best choice. Without Yōsuke, there would be no cooperation in this class."
+[mentioned] (p.41) "You're dating Kei, but she was dating Hirata at one point, right?" (Sudō to Ayanokōji)
+[mentioned] (p.128) "My immediate goal is to get to Hirata's level." (Sudō's new target)
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ### y2v8 p.11-208 — hirata-yousuke mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.13, p.16, p.21-27, p.41, p.47-48.

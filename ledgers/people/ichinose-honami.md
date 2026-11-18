@@ -1896,6 +1896,14 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [mentioned] (p.204) "Ichinose-san, who had resolved the fight, was called by Ando-san, from her class, as she was leaving."
 [mentioned] (p.207) Ichisamui (translator, Short Stories): "I told you didn't I? Honami is the one and only queen! You must be pretty salty, do you mind rubbing your hands on my popcorn?"
 
+### y2v8 p.49, 65, 79, 84, 110, 157 — Passing-mention records
+[mentioned] (p.49) "a boy and a girl from Ichinose's class raised their hands." (Watanabe and Amikura, claiming their Group 6 seats)
+[mentioned] (p.65) "Watanabe is a student from Ichinose's class." (Kitō, defending Watanabe to Ayanokōji)
+[mentioned] (p.79) "After we're done talking, why don't we go to Honami's room? They're having a girls' gathering until just before lights out." (the girls discussing her afterparty invitation)
+[mentioned] (p.84) "I wonder if the students in Ichinose's class were fundamentally made up of goodness."
+[mentioned] (p.110) "Just as Ichinose had gradually pooled everyone's private points in trust, Ryūen also needed to work with his classmates to reach the target amount."
+[mentioned] (p.157) "If the students in Ichinose's class were to hear this, they'd be shocked."
+
 <!-- walk: y2v8 Postscript → p.208 -->
 
 ### y2v8 p.11-208 — ichinose-honami mentioned in passing

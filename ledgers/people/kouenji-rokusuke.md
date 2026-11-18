@@ -932,6 +932,15 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y2v8 Ch.1 → p.45 -->
 
+### y2v8 p.103–119 — The horse ride; the ranch rampage
+[scene] (p.103–104) As the group begins moving for the ski lifts, an unfamiliar sound — the beating of horses' hooves — fills the air; Kōenji is riding a horse straight down the slope into the resort; students stare; staff chase him in panic; he's clearly not obeying any track-and-field sorting of humanity by now; he doesn't care.
+[says:hashimoto-masayoshi] (p.118) “Well, there's Kōenji.”
+[mentioned] (p.119) “We were planning on having lunch at a famous TV restaurant before noon, but that guy Kōenji said he was going skiing. Without even a moment's hesitation, he went straight to the ski resort on his own. I was so exhausted that I didn't have time to have fun.” (Hashimoto, recounting the day)
+[rel:hashimoto-masayoshi] (p.118–119) He's Hashimoto's charge; he ruined their ranch day and their famous TV lunch.
+[rel:ayanokouji-kiyotaka] (p.108–119) He's talked about at every turn; he mostly acts around the group without speaking.
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ### y2v8 p.11-208 — kouenji-rokusuke mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.16, p.24, p.103-104, p.118-119.

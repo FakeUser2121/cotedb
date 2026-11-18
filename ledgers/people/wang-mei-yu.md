@@ -261,6 +261,14 @@ char_id: wang-mei-yu · status: minor
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.16, 47, 162 — Passing-mention records (the Mii-chan question)
+[mentioned] (p.16) "The students who have always performed well academically, such as Horikita, Keisei, and Mii-chan, are also highly rated."
+[mentioned] (p.47) "Because of Kushida's revelation, Mii-chan, who had the fact that she's in love with Yōsuke exposed, didn't seem to have the courage to openly ask him out."
+[mentioned] (p.162) "the members of Group 15, to which both Mii-chan and Miyamoto belonged, were disqualified because they failed to meet the time limit, so they had to sit for a study session at the inn."
+[note] (p.16, 47, 162) The roster maps the aliases "Mii-chan" and "Miichan" to wang-mei-yu (content/characters.tsv, aliases cell). The corpus prints only "Mii-chan". Matsushita Chiaki (matsushita-chiaki) has her own roster row and y2v8 roster-cell; the corpus does not establish which student the name refers to. Not decided here — flagged for the owner to rule on.
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ### y2v8 p.11-208 — wang-mei-yu mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.16, p.47, p.162.

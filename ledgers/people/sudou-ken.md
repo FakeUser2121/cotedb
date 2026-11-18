@@ -1919,6 +1919,17 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v8 Ch.5 → p.186 -->
 
+### y2v8 p.11, 18, 44–45, 69, 76, 129 — Passing-mention records
+[mentioned] (p.11) “I think I should spend more time studying with you, just like Sudō-kun.” (Kei)
+[mentioned] (p.18) "Sudō and the others, who had been wanting to go to Okinawa, also showed signs of having already accepted the situation."
+[mentioned] (p.44) "About what Sudō said earlier...." (Ayanokōji to Kei, reopening the subject)
+[mentioned] (p.45) "About what Sudō said earlier...." (Kei bets on it; the Christmas-present wager)
+[mentioned] (p.69) "This was definitely true for Sudō; he was determined to confess his feelings to Horikita on the school trip. Was that not an unusual thing to do, or was it an important event for students?"
+[mentioned] (p.76) "Sudō and the others seem like they'd be friendly." (Kushida, testing Horikita in the bath)
+[mentioned] (p.129) "That's what Sudō asked me to do. He asked me to watch over him as he confessed." (Horikita to Ayanokōji)
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ## y2v9
 
 <!-- walk: y2v9 → start -->

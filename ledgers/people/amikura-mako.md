@@ -143,6 +143,14 @@ char_id: amikura-mako · class: Class 1-B · status: minor (allies)
 
 <!-- walk: y2v8 Ch.5 → p.186 -->
 
+### y2v8 p.108, 114, 187, 200 — Passing-mention records
+[mentioned] (p.108) "I've learned to ski pretty well. I'm still not as good as Amikura and Nishino, though." (Watanabe, rating himself)
+[mentioned] (p.114) "I instructed Kushida, Amikura, and Watanabe not to move." (Ayanokōji, holding the group back during the Gifu incident)
+[mentioned] (p.187) "My bad, it's not really a coincidence. Amikura and the others were making a fuss that they couldn’t find you."
+[mentioned] (p.200) "Kushida-san, Nishino-san, Amikura-san and everyone in the group watched me and saw me as a companion." (Yamamura's SS credit)
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ### y2v8 p.11-208 — amikura-mako mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.46-47, p.49-50, p.67, p.79, p.83.

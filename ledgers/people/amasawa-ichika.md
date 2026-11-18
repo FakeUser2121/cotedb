@@ -319,6 +319,21 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 
 <!-- walk: y2v8 Ch.1 → p.45 -->
 
+### y2v8 p.34–38, 53, 59–61, 107, 176 — Passing-mention records
+[mentioned] (p.34) "The matter of Amasawa and the school trip. Even if ordinary students couldn’t determine a connection between the two, Nanase could."
+[mentioned] (p.35) "Amasawa and the school trip for so long."
+[mentioned] (p.35) "If you're so wary of Amasawa, they would be plenty more dangerous." (Ayanokōji's hypothetical worry about the open trap)
+[mentioned] (p.36) "It's because you couldn't guess what Amasawa would do as of today, right?"
+[mentioned] (p.38) "Amasawa and the others."
+[mentioned] (p.53) "I see. He wasn't so much interested in Yagami, but in the possibility that he might've been a weak point of mine. ... I hear there's another girl left, Amasawa, who's been with you from the first years. I can play with her if I want." (Ryūen, on the bus)
+[mentioned] (p.59) "Hey, can I ask you a few questions about... Yagami-kun and Amasawa-san?" (Kushida)
+[mentioned] (p.60) "Moreover, it was obvious that Amasawa, who was also involved with Yagami, became even more suspicious."
+[mentioned] (p.61) "And so did Amasawa. I think I gave those two the wrong impression, and they've been holding a grudge against me for a long time. I was able to clear up the misunderstanding with Amasawa, but not so with Yagami."
+[mentioned] (p.107) "But I might not have believed you if I hadn't seen your skills when dealing with Amasawa." (Kushida, about the fight)
+[mentioned] (p.176) "Is it possible that he could have the same origins as you, like Amasawa-san or Yagami-kun?" (Sakayanagi's question about the mystery caller)
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ### y2v8 p.11-208 — amasawa-ichika mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.28-36, p.38, p.53, p.59-61, p.107.

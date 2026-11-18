@@ -1949,6 +1949,18 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 ### y2v8 p.207 — The credits: Kushida is the strongest girl in ANHS
 [mentioned] (p.207) Rhymar's (Translator) credit line: "Kushida is the strongest girl in ANHS".
 
+### y2v8 p.63–64, 66–68, 126, 200, 204–205, 208 — Passing-mention records
+[mentioned] (p.63) "Sure enough, in the direction Kushida was looking, was Yamamura. ... 'There she is, Ayanokōji-kun. Yamamura-san.'"
+[mentioned] (p.64) "I denied it, but Kushida laughed in a funny way."
+[mentioned] (p.66) "At about the same time, Kushida and the other three girls also received their keys."
+[mentioned] (p.66–67) "It was important to make plans in advance... 'So, I was thinking that at night, the girls can visit the boys' room.'" (she drafts the plan; the others agree; lights-out is at 11:00)
+[mentioned] (p.68) "Maybe I'll have a chance to use it in discussions with Kushida and the other girls."
+[mentioned] (p.126) "about the eleventh group from Kushida, so I was relieved on my own." (Kei's update from Kushida's gossip channel)
+[mentioned] (p.200) "Kushida-san, Nishino-san, Amikura-san and everyone in the group watched me and saw me as a companion." (Yamamura's SS)
+[mentioned] (p.204) "It's rare for you to be so understanding." — wait, that's Horikita's line to Kushida, fine. Cite: [mentioned] (p.204) "You're really tough, Horikita-san. Well, if I had persisted in that situation, I would have won." (Kushida to Horikita, re the bath-race)
+[mentioned] (p.205) "Kushida-san didn't take it either. As a result, neither of us drank water where we could see each other." (Horikita's SS)
+[mentioned] (p.208) "Damn Kushida end game girl" (editor's credit line)
+
 <!-- walk: y2v8 Postscript → p.208 -->
 
 ### y2v8 p.11-208 — kushida-kikyou mentioned in passing

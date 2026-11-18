@@ -9621,6 +9621,10 @@ walk: y1v1 → DONE
 [mentioned] (p.197–205) He's present in all four short stories (as himself, quoted and observed); no new events — retellings only.
 [note] (p.197–205) The SS narratives re-traverse scenes from non-POV sides; nothing new is canonically added beyond what the main text established.
 
+### y2v8 p.76, 185 — Passing-mention records
+[mentioned] (p.76) "gouge more information about Ayanokōji; to find out why she liked Ayanokōji so much." (Kushida, openly scheming in the bath)
+[mentioned] (p.185) "Ah, Ayanokōji-kun!" (Amikura bursting in to report Ichinose missing)
+
 <!-- walk: y2v8 Postscript → p.208 -->
 
 ## y2v9

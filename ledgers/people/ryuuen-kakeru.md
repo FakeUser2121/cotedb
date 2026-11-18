@@ -2366,6 +2366,46 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v8 Ch.2 → p.89 -->
 
+### y2v8 p.90–117 — Day two: the pillow truce, the Gifu incident
+[scene] (p.90–91) Morning TV: kittens special; he makes a proposal to Kitō over the indigestion ("Let's have another game today."); he needles him with the magazine-sword; Kitō plays it deadly serious; Ryūen accepts the draw of a truce-ish morning.
+[says] (p.90) “Hey, Kitō. You got a little indigestion from yesterday's pillow fight, didn't you? Let's have another game today.”
+[says] (p.91) “The skiing we're going to do sounds good, doesn't it?”
+[scene] (p.92–93) The bus is delayed; he watches the snowman building critically; Kushida needles him about the snowman invite; he finds it pathetic; he turns from the sight.
+[says] (p.93) “I thought that some checks and balances would make her quieter, but I guess I misread her.”
+[scene] (p.98–102) Yamamura is bare-handed and shivering; he hauls her arm out of the pocket by force; she refuses; he proves there are no gloves on her; he orders Ayanokōji to lend her his; he calls it "clumsy kindness" his way; she wears them and keeps her distance afterward.
+[says] (p.98) “Hey, Yamamura, give me your hand.”
+[says] (p.99) “Well, that must be cold. Where are your gloves?”
+[says] (p.99) “You're probably not even good at skiing to begin with but you're not gonna wear gloves on top of that?”
+[says] (p.99) “Ha, I guess there are dumbasses like that.”
+[says] (p.99) “Oi, Ayanokōji, lend her your gloves.”
+[scene] (p.103–107) Advanced course; dead-heat with Kitō on the steep slope; the two nearly collide; Ayanokōji inserts himself between them; both sides glare at him; Ryūen stomps off to the lift; wrestles with his own competitive streak.
+[says:ayanokouji-kiyotaka] (p.104) “Can't you and Kitō get along a little better?” (AK to Ryūen)
+[says] (p.104) “That's impossible. If Kitō insists on it though, that's a different story.”
+[says] (p.105) “Kitō's appearance ain't completely human, but he seems to be full of loyalty. Besides, Sakayanagi was naturally wary of me when he formed a group with me. A bad negotiation would be counterproductive.”
+[says] (p.105) “Hey, give the signal.”
+[says] (p.106) “Die, Kitō!”
+[scene] (p.108–114) Soup curry lunch; he pulls Ayanokōji aside at the food court corner; he delivers the 800M plan (Sakayanagi must die by any means necessary; his class is being prepped; the plan is already in motion); he reminds Ayanokōji of last year's promise; he's genuine; then the Gifu confrontation.
+[says] (p.109) “This school trip isn't for cultivating friendship. In order to crush your enemies, it's important to first rip off their limbs.”
+[says] (p.109) “I'm going to instruct the rest of my class to start preparing for an all-out war against Sakayanagi. Whether the assignment for the end-of-year exam is a written exam or not, I'll crush her by any means necessary.”
+[says] (p.110) “I hope you remember what I said a year ago about my 800 million points plan.”
+[says] (p.111) “After defeating Class A at the end of the school year, it will be a one-on-one battle between my class and your class, that's a given.”
+[says] (p.111) “That's an impossible proposition. The extra private points are ours, of course. It's money that will carry on after we graduate, and we're not going to use it to save students who have nothing to do with it.”
+[says] (p.112) “I'm not going to change my strategy now. My main goal is to save the 800 million. After that, I'm going to beat Sakayanagi, and then you.”
+[says] (p.112) “Up till this point, we've spent money on pulling out Katsuragi and using the first-year brats, but now it's the time to recoup it.”
+[says] (p.112) “It's simple. I can't destroy you if I'm still halfway connected to you. But if you break it like this, it's different. We can go toe-to-toe.”
+[says] (p.112) “Ha. I know she's smart. But that's all there is to it.”
+[says] (p.113) “Don't wait for the end-of-year exam, you can always try to set me up.”
+[scene] (p.114–117) Five Gifu students gang up on Yamamura and Nishino; Yamamura apologized for the ramen-broth stain on his clothes; the boys won't accept it; Ryūen lands a knee kick to the stomach; Kitō appears behind them blocking escape; the boys beg on their knees in front of the girls; he forces them to swear; it's settled violently.
+[says] (p.115) “Don't squeal like a peeping bird in front of a woman!”
+[says] (p.117) “Even a boring school trip can have a slightly interesting event, can't it?”
+[rel:kitou-hayato] (p.90–117) The ski-race rival; the dead heat; mutual exasperation.
+[rel:yamamura-miki] (p.98–100) He sees her shivering; the gloves scene.
+[rel:kushida-kikyou] (p.92–93) He bats away her snowman invite; a long war of nerves.
+[rel:kaneda-satoru] (p.62–64) His class's runner (on the advanced course).
+[rel:sakayanagi-arisu] (p.109–117) All-out war declared; 800M plan in motion.
+
+<!-- walk: y2v8 Ch.3 → p.129 -->
+
 ### y2v8 p.130–139 — The tour-test obstruction; the backing-down
 [scene] (p.130–139) The group debates the spot tour: he wants the 30,000 (800M plan is in motion); Kitō blocks him; Ayanokōji out-thinks him using Kitō's rebellion and the five-eighths majority; he backs down to avoid breaking the group for free.
 [says] (p.133) “I'm going to score.”
@@ -2415,6 +2455,29 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 ### y2v8 p.207 — The credits: Ryūen hot
 [mentioned] (p.207) Akuma's (Editor) credit line: "Ryūen hot".
+
+### y2v8 p.60, 61, 89, 127, 140, 143, 153, 160, 162, 167, 168, 174, 177, 178, 180, 192, 194, 197 — Passing-mention records
+[mentioned] (p.60) "Ryūen-kun also knows my true nature, but he doesn't know about my past, so we can rule him out." (Kushida)
+[mentioned] (p.61) "I had been in contact with Nagumo, Ryūen, and Horikita, several people who either knew of or suspected my involvement."
+[mentioned] (p.89) "Suit yourself." — no wait, re-check: Ryūen's relinquishing of the ski-day vote is on p.89? The ski vote is p.88 left (“Well, lunch is at noon...”) — the vote line "Suit yourself." is p.88? or p.89? The corpus p.89: "'Suit yourself.' He seemed to have no particular argument and simply relinquished his right to speak." — p.89 ✓ right.
+[mentioned] (p.127) "I don't think we should do that. I have Ryūen in my room." (Kei, calls him)
+[mentioned] (p.140) "In the beginning, he seemed to dislike Ryūen, and he was a bit rebellious." (Ishizaki's history with him, per Nishino)
+[mentioned] (p.143) "aren't you in the same group as Ryūen-san?" (Nishino to Ayanokōji)
+[mentioned] (p.143) "You're not bothering Ryūen-san, are you?" (Ishizaki to Nishino)
+[mentioned] (p.143) "isn't Nishino afraid of Ryūen-san?" (Ishizaki)
+[mentioned] (p.153) "By the way, there's no connection between the student council president and Ryūen. I approached them individually." (Ayanokōji to Horikita)
+[mentioned] (p.160) "the same was true for Watanabe, who had no goals at the moment, and for Ryūen, who didn’t speak." (sleep talk)
+[mentioned] (p.162) "Was everyone that interested in a snowball fight? ... What about Ryūen and Kitō?" (Watanabe to Ayanokōji)
+[mentioned] (p.167) "Little by little, I think Kitō-kun's curses for Ryūen-kun are decreasing." (Yamamura)
+[mentioned] (p.168) "The students in Sakayanagi and Ryūen’s classes were especially wary of each other."
+[mentioned] (p.174) "Ryūen seemed bored from start to finish, but it was a good thing he didn't act selfishly on his own."
+[mentioned] (p.177) "Do you think I would lose in a direct confrontation with Ryūen-kun?" (Sakayanagi's question about him)
+[mentioned] (p.178) "For you, no matter how things unfold between Ryūen-kun and I, there won't be any obstruction to your plan will there?" (Sakayanagi)
+[mentioned] (p.180) "It's hard to believe that even Ryūen would do such a random thing, let alone Ayanokōji." (Kanzaki, skeptical of Ryūen's reach)
+[mentioned] (p.192) "If only I could lead as strongly as Ryūen-kun." (Ichinose)
+[mentioned] (p.194) "Neither Horikita, Ryūen, nor Sakayanagi, who walk in front of the pack..."
+
+[mentioned] (p.197) "Why ..... to come to my rescue? It's not good for Ayanokoji-kun, right?" (Kushida's SS, addressing him)
 
 <!-- walk: y2v8 Postscript → p.208 -->
 

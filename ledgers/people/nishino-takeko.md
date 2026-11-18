@@ -161,6 +161,11 @@ char_id: nishino-takeko · class: Class 1-C · status: minor
 
 <!-- walk: y2v8 Ch.5 → p.186 -->
 
+### y2v8 p.200 — Passing-mention record
+[mentioned] (p.200) "But Kushida-san, Nishino-san, Amikura-san and everyone in the group watched me and saw me as a companion." (Yamamura's SS, on her group)
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ### y2v8 p.11-208 — nishino-takeko mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.46-47, p.50, p.55, p.79-81, p.83.

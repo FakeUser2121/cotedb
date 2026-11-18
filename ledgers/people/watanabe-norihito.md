@@ -118,6 +118,15 @@ char_id: watanabe-norihito · class: unknown · status: unknown
 
 <!-- walk: y2v8 Ch.4 → p.161 -->
 
+### y2v8 p.56, 159–160, 162, 167 — Passing-mention records
+[mentioned] (p.56) "After the training, Watanabe and the others were all heading towards the beginner course, which had a gentle slope."
+[mentioned] (p.159) "We're going to be senior high school students in half a year, and even though we're competing for Class A, we still have to think about the future–like going on to college or getting a job. I still can't imagine myself after graduating from high school. There's nothing in particular that I want to do. What about you, Ayanokōji?"
+[mentioned] (p.160) "Watanabe was doubly surprised, both by the fact that he received an answer and by the contents of it." (Kitō's fashion designer dream)
+[mentioned] (p.162) "Watanabe, who had also finished getting dressed, showed me his cell phone. It seemed that there were a lot of people who wanted to have an unrestricted snowball fight."
+[mentioned] (p.167) "Surely you're not the only one that's changed. Kitō, Watanabe, Amikura and Nishino must've also changed to some extent after this experience."
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ### y2v8 p.11-208 — watanabe-norihito mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.46-47, p.49-51, p.56, p.65-70, p.78-84.

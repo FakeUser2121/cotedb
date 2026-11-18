@@ -1854,6 +1854,36 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 ### y2v8 p.207 — The credits: Kei fanatics
 [mentioned] (p.207) Amadeus's (Senior Editor) credit line: "Dear Kei fanatics... please overlook the NTRing you had to endure. It's clearly just bait, after all. Or is it? Can't wait for the Karuizawa/Ichinose cat fight next volume! Fufu."
 
+
+### y2v8 p.126–129 — The jealousy spiral; the Touwa! call; the eleventh-group report
+[scene] (p.126) In the souvenir corner; his screen lights up: her message wall + a call — "[Touwa!]" (cat-growl); "[Are you mad at me?]"; she checks in on his safety; she's pissed he's being inattentive; he checks in: "I've already confirmed that you're doing a good job of getting information about the eleventh group from Kushida, so I was relieved on my own."
+[scene] (p.127) She's back to sweet when he invites her to meet — then cancels; she says the three girls are still in the bathtub; the scars are behind her now, it seems — she's no longer hiding them; he returns to his room to fetch the key first.
+[scene] (p.128–129) After seeing Sudō; he calls and waits; she waits for him at a private-bath area; she scolds him severely on meeting, then softens at the hug; the evening stays theirs.
+[says] (p.126) “Where are you?” (her text)
+[says] (p.126) “I miss you.” (her text)
+[says] (p.126) “Are you mad at me?” (her text)
+[says] (p.126) “Why don't you at least give me a little attention?” (her text)
+[says] (p.126) “Hmmm? You seem to be having a lot of fun with her?! You're so rude! Cheater!” (her text)
+[says] (p.127) “Really? Then let's go have fun!” (her text)
+[says] (p.127) “Oh... I see.” (her text)
+[says] (p.127) “[I'm in my room, but I think the three girls are still in the bathtub. I was with them a while ago, but I came back first to call you.]” — brackets are corpus; keep her text unbracketed: “I'm in my room, but I think the three girls are still in the bathtub. I was with them a while ago, but I came back first to call you.”
+[trait] (p.126–129) Her "Touwa!" cat-growl name for him leaks through any radio silence in her arsenal; she can pivot from scorned lover to eager girlfriend within seconds; her news network of the girls/behind-the-scenes brain is precise (knows there were three girls, knows they were in the bath, knew she'd be caught between time zones of irritation and pose).
+[rel:ayanokouji-kiyotaka] (p.126–129) He manages her jealousy via texts; he listens patiently; she stays happy as long as she continues to feel in the loop.
+[rel:kushida-kikyou] (p.126) She's the gossip channel closest to the eleventh-group mission.
+
+<!-- walk: y2v8 Ch.3 → p.129 -->
+
+### y2v8 p.69, 76, 136, 139, 148, 175, 189, 191, 194 — Passing-mention records
+[mentioned] (p.69) "you're dating Karuizawa, who's in the same class as you, right?" (Watanabe leaks it to him in the corridor)
+[mentioned] (p.76) "she'd be able to talk about Karuizawa or something more in-depth" (Kushida hoping Ichinose would open up about him and her in the bath)
+[mentioned] (p.136) "You're dating Karuizawa, aren't you?" (Watanabe, catching Ayanokōji and Kushida in a huddle)
+[mentioned] (p.139) "Kei was also with many girls today, and I could hear them laughing from time to time even from afar." (buffet crowd)
+[mentioned] (p.148) "Just like when he once fearlessly abducted Kei, or even more so." (Ayanokōji's cold face reminder — Ryūen's smile dies on the spot)
+[mentioned] (p.175) "if Karuizawa-san sees you like this, she'll suspect our relationship" (Sakayanagi, joking about being seen meeting)
+[mentioned] (p.189) "Karuizawa-san would be upset if she knew that you and I were alone in a place like this." (Ichinose)
+[mentioned] (p.191) "But because of what happened with Kei, Ichinose seemed to have pushed the question to the back of her mind."
+[mentioned] (p.194) "Her love for me and the presence of Karuizawa Kei." (narration — the wedge between them)
+
 <!-- walk: y2v8 Postscript → p.208 -->
 
 ## y2v9

@@ -220,6 +220,23 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 
 <!-- walk: y2v8 Ch.1 → p.45 -->
 
+### y2v8 p.35, 53, 59–61, 152–153, 176, 182 — Passing-mention records
+[mentioned] (p.35) "Yagami Takuya. I considered the possibilities and there is no doubt that he was from the same generation as Amasawa."
+[mentioned] (p.53) "I see. He wasn't so much interested in Yagami, but in the possibility that he might've been a weak point of mine."
+[mentioned] (p.59) "Hey, can I ask you a few questions about... Yagami-kun and Amasawa-san?"
+[mentioned] (p.60) "Yagami was a White Room student. In other words, there was no connection between Kushida and her past."
+[mentioned] (p.61) "I used to know Yagami, even though we were in different... Schools."
+[mentioned] (p.152) "Did you arrange it so that Yagami-kun was expelled?" (Horikita)
+[mentioned] (p.153) "For example, I was involved in the Yagami case that you're so interested in."
+[mentioned] (p.176) "Is it possible that he could have the same origins as you, like Amasawa-san or Yagami-kun?"
+[mentioned] (p.182) "he had contacted me several times, and even indirectly helped with Yagami's expulsion at the cultural festival."
+
+### y2v8 p.36, 52 — Passing-mention records
+[mentioned] (p.36) "Isn’t that strange? How do you explain the existence of Amasawa-san and Yagami-kun? Yagami-kun was specifically working to get Ayanokōji-senpai expelled from the school, and that's only what we know from his conversation with Amasawa-san." (Nanase's counter to Ayanokōji's hypothesis)
+[mentioned] (p.52) "I felt some similar vibes as you from that first-year kid, Yagami. How do you know him?" (Ryūen, probing on the bus)
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ### y2v8 p.11-208 — yagami-takuya mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.29-32, p.35-36, p.52-53, p.59-61, p.152-153.

@@ -1124,6 +1124,9 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 ### y2v8 p.204 — "Possessed by Ibuki-san"
 [mentioned] (p.204) Horikita's SS: Kushida "acted like she was possessed by Ibuki-san" in the bath-race theatre.
 
+### y2v8 p.74 — Passing-mention record
+[mentioned] (p.74) "Ibuki already had a good understanding of Kushida's true nature, along with Horikita."
+
 <!-- walk: y2v8 Postscript → p.208 -->
 
 ### y2v8 p.11-208 — ibuki-mio mentioned in passing

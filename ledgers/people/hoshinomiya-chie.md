@@ -550,6 +550,32 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 ### y2v8 p.202–203 — Named in the Chabashira SS
 [mentioned] (p.202–203) "Confused and Enlightened" retells the drunk Chie scene: she shouts "I'm going back to my room! Bye!" and leaves; Chabashira regrets it immediately and sets off after her ("if I leave her alone she might drink until dawn").
 
+### y2v8 p.153–159 — The second-floor master of ceremony
+[scene] (p.153–159) She monopolizes the massage chairs; she's drunk and deflated; everything that comes out of her is a confession in card-game form; the words "the only one with a joker" escape with all the damage attached; she storms out declaring they would have him by now otherwise; she blows the whole night out.
+[says] (p.155) “Too bad~ Tonight we're kind of on a half day off~ Right, Sae-chan?”
+[says] (p.155) “As you get older and more mature, massages become indispensable. There are a lot of hardships that you young people wouldn't understand.”
+[says] (p.155) “Especially in Sae-chan's case, her shoulders are very stiff.”
+[says] (p.156) “By the way, Horikita-san, you've totally become a leader. Are you still comfortable in Class B? Ah, how could a former homeroom teacher of Class B ask you such a question?”
+[says] (p.156) “Indeed, I think Horikita-san's class is making remarkable progress; Class B is just a stopping point, and you need to aim for Class A. It's obvious, but I think that's wonderful and very admirable too.”
+[says] (p.156) “It doesn't matter. I'm just trying to say what I think.”
+[says] (p.156) “Mhhh~.”
+[says] (p.157) “Then I'll speak freely. As a homeroom teacher with a class, I have always thought that teachers from Class A to Class D are also competing with each other.”
+[says] (p.156) “If a student with only 3s clashes with a student with 6s, of course the student with 6s wins.”
+[says] (p.156) “In Mashima's Class A, the cards in his hand are all in order, and he is dealt more 10s and 11s.”
+[says] (p.157) “Of course the students change from day to day; I'm sure some who were worth 3 or 4 will grow up and become 12 or 13, or in rare cases, the strongest number, 2. So class fluctuations do happen, and sometimes Class D can move up to Class B. Well, it's extremely rare though.”
+[says] (p.157) “But the important thing is to fight equally. Every class is always fighting within the numbers 1 through 13. You don't want there to be any unfairness or cheating in any particular class, do you?”
+[says] (p.157) “But you know what? Don't you think there's one card in your class that shouldn't be mixed in?”
+[says] (p.157) “Yes, it's cheating. Sae-chan's class is the only one with a joker.”
+[says] (p.157) “You must be tempted to argue. Even if I'm trying my best to use my head and fight, a single joker will turn the situation upside down. No, it's much worse than playing Daifugō. Because you can play the joker over and over and over again, unlike the other games where you use it once and it's gone from your hand. There's no way we can win.”
+[says] (p.158) “I see. Sorry, sorry. Maybe I got a little drunk from the massage.”
+[says] (p.158) “You got the joker because you and Sae were lucky. It's not cheating if you use it to reach Class A, right?”
+[says] (p.158) “I'm going back to my room! Sayonara!”
+[trait] (p.153–159) A drunk player with the honesty of a truther; the Daifugō monologue is her whole philosophy of teaching as competition; she hears everything she says and hates herself for saying it.
+[rel:chabashira-sae] (p.155–159) They spar with Shushi's old teammates' ease; she withdraws with grace exits.
+
+### y2v8 p.49 — The bus assignments
+[mentioned] (p.49) "Hoshinomiya-sensei was in charge of groups 16 through 20" (the ski-group teacher assignments)
+
 <!-- walk: y2v8 Postscript → p.208 -->
 
 ### y2v8 p.11-208 — hoshinomiya-chie mentioned in passing

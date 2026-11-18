@@ -728,6 +728,12 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 
 <!-- walk: y2v8 Ch.5 → p.183 -->
 
+### y2v8 p.178, 194 — Passing-mention records
+[mentioned] (p.178) "Thanks for waiting." (Kanzaki's arrival line at the lobby meeting)
+[mentioned] (p.194) "Although Kanzaki and Himeno were starting to make a move, there won’t be enough time for the growth of their fellow students." (narration — the second-year endgame is already in motion)
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ## y2v9
 
 <!-- walk: y2v9 → start -->

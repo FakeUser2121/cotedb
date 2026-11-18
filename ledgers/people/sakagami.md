@@ -293,6 +293,11 @@ aliases used for anchors: sakagami, sakagami-sensei
 
 <!-- walk: y2v8 Ch.2 → p.89 -->
 
+### y2v8 p.49 — The bus assignments
+[mentioned] (p.49) "Mashima-sensei was in charge of groups 1 through 5, Chabashira-sensei was in charge of groups 6 through 10, Sakagami-sensei was in charge of groups 11 through 15, and Hoshinomiya-sensei was in charge of groups 16 through 20."
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ### y2v8 p.11-208 — sakagami mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.46, p.49.

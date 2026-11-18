@@ -1495,6 +1495,27 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:horikita-suzune] (p.202) Horikita's composure vs Chabashira's restraint — two leaders who respect each other's edges.
 [rel:ayanokouji-kiyotaka] (p.202) The "Joker" naming is hers to carry now.
 
+### y2v8 p.153–159 — The second-floor Daifugō speech
+[scene] (p.153–158) Two mid-level teachers hogging the massage chairs; the room is tense; Horikita and Ayanokōji wander in; the banter escalates; Chie turns on Ayanokōji first, then on Chabashira's Class B; the Daifugō analogy unfolds; the Joker gets named; Chie storms off drunk; Horikita chides her about it later down the hall.
+[scene] (p.155) The massage intensity is set to five; the machine screams; Chabashira howls; Ayanokōji's curiosity is to blame.
+[says] (p.155) “Nn, hya, nn, nn!”
+[says] (p.155) “Of course not! There's a strength that suits each person!”
+[says] (p.157) “Chie. Stop it already.” (Chabashira, under her breath)
+[says] (p.157) “I don't know what you want to say, but you're not free to say whatever you're thinking.” (Chabashira)
+[says] (p.158) “Chie. Stop it already.”
+[says] (p.158) “It's not that I don't think about it, to be honest. The situation is too different from that of the class I taught three years ago.”
+[says] (p.158) “That's right. I would expect nothing less...”
+[says] (p.158) “Well, I'm going after Chie. If I let her go like that, she might drink heavily until the sun rises.”
+[says] (p.158) “That's all for today, Horikita.”
+[trait] (p.153–159) Ex-Class-B homeroom teacher; brought low but not bowed; the Daifugō monologue is Chabashira's own view filtered through Chie's mouth — she'd actually use the joker honestly and never say so.
+[rel:hoshinomiya-chie] (p.153–159) They bicker over stiff shoulders and old failures; she's the only one Chie listens to.
+[rel:horikita-suzune] (p.153–159) Awkward confrontation about the class lineage; she takes the teaching role seriously.
+[rel:ayanokouji-kiyotaka] (p.153–159) He malfunctions a massage chair for fun; she tries to cover him from Chie's glare.
+
+### y2v8 p.46, 49 — The bus assignments
+[mentioned] (p.46) "Chabashira-sensei No. 2" (the Class B bus)
+[mentioned] (p.49) "Chabashira-sensei was in charge of groups 6 through 10" (the ski-group teacher assignments)
+
 <!-- walk: y2v8 Postscript → p.208 -->
 
 ### y2v8 p.11-208 — chabashira-sae mentioned in passing

@@ -585,6 +585,11 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 <!-- walk: y2v8 Ch.3 → p.129 -->
 
+### y2v8 p.176 — Passing-mention record
+[mentioned] (p.176) "Including what I felt from Nanase, it remained very unclear whether or not the caller was an enemy." (Ayanokōji, mid-Sakayanagi meeting)
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ## y2v9
 
 <!-- walk: y2v9 → start -->

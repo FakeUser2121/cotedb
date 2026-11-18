@@ -54,6 +54,11 @@ char_id: takahashi-osamu · class: unknown · status: unknown
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.182 — Passing-mention record
+[mentioned] (p.182) "my interactions with first year Class A were through Takahashi Osamu-kun" (Kanzaki, explaining how he knew of Ishigami)
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ### y2v8 p.11-208 — takahashi-osamu mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.182.
