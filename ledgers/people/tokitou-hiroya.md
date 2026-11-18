@@ -66,6 +66,11 @@ char_id: tokitou-hiroya · class: unknown · status: unknown
 [mentioned] (p.175) Protected in the same breath as Katsuragi, Shiina, Nomura and Ibuki; the perfect protection streak begins with him.
 [note] (p.176) He was the one most at risk of being expelled — Ryūen defused his own threat by protecting him and keeping him alive.
 
+### y2v10 p.164–175 — Ch.6: The perfect-protection anchor
+[mentioned] (p.164) “Tokitō Hiroya” is one of the five names in Sakayanagi’s attack line on Ryūen’s class — Katsuragi, Shiina, Tokitō, Nomura, Ibuki; all five protected again; he was one of the answerers.
+[mentioned] (p.175) He is one of the five who didn’t flinch — the fourth consecutive perfect result in the turns 11–14 stretch; the exam’s turning point belongs to these five.
+[rel:ryuuen-kakeru] (p.164–175) One of the five perfect-protection members of Ryūen’s class; the price of that safety is the note Hiyori found impossible to celebrate.
+
 <!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v11
 

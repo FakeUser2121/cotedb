@@ -339,6 +339,12 @@ aliases used for anchors: kaneda, kaneda satoru, kaneda-kun
 [note] (p.109) Mention only; no dialogue attributed to Kaneda on these pages.
 
 <!-- walk: y2v10 Ch.5 → p.122 -->
+
+### y2v10 p.144–147 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.144) Passing mention — If Kaneda, who was in the role of advisor, moved, the situation would be
+[mentioned] (p.147) Passing mention (see p.147).
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

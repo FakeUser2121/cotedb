@@ -1970,7 +1970,6 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [scene] (p.29) After 9 p.m., Kei returned home after coming over; the TV left on aired a variety show (five paintings, guess the real one); she loves watching TV and often leaves it on when the two of them are alone; he found himself not especially fond of variety shows.
 [note] (p.29) The sketchbook and colored pencils he bought with private points shortly after enrolling sat untouched in the second drawer; Kei's puzzled look when she discovered them is recalled here; his inability to decide what to draw is the page's quiet beat.
 
-<!-- walk: y2v10 Ch.1 → p.30 -->
 
 ### y2v10 p.51–59 — Ch.2: The shop detour; the bench; the handshake
 [scene] (p.51) School ended; they stopped by Keyaki Mall though unplanned; she requested the detour; she is gloomier than usual; in the mall she finally breaks — fears being targeted and losing it.
@@ -2021,7 +2020,6 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [mentioned] (p.88) Passing mention: Horikita jokes — "Unless it’s about trouble with Karuizawa-san, in which case I’d like to decline." — the exam-eve nickname stands for the known relationship drama.
 [mentioned] (p.98) Passing mention: "you started dating Karuizawasan, you started to help the class knowing that it’d make you stand out." — Horikita's read-back of AK's arc.
 
-<!-- walk: y2v10 Ch.4 → p.100 -->
 
 ### y2v10 p.106–109 — Ch.5: Her morning, her guests
 [scene] (p.106) A day off with AK at Keyaki Mall; his phone rings mid-morning with Kanzaki; she waves it away; they head back to the dorm; at the fourth floor they part ways — she had plans with friends, not interest in the awkward visit.
@@ -2034,7 +2032,6 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:kanzaki-ryuuji] (p.106) She sizes him instantly; friendly but measuring.
 [rel:watanabe-norihito] (p.106) The school-trip group member AK mentioned.
 
-<!-- walk: y2v10 Ch.5 → p.122 -->
 
 ### y2v10 p.164–170, 183, 185–188 — Ch.6: The long nomination
 [scene] (p.165) She is nominated alongside AK in turn 11's Sports D1; her first mistake — the Infield Fly; she leaves the tablet convinced she has let the class down.
@@ -2053,7 +2050,58 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:ichinose-honami] (p.164–188) The relentless attacker who never tires of her name.
 [rel:satou-maya] (p.170, 187) Her anchor in the storm; Satō worries aloud; she is the compassionate one.
 
+
+### y2v10 p.110–115 — Ch.5: passing mentions (locator cross-check)
+[mentioned] (p.110) Passing mention — As I had not yet contacted Kei, it was unlikely anyone would be visiting
+[mentioned] (p.111) Passing mention — If she had forced her way to visit, patching things up with Kei would be
+[mentioned] (p.114) Passing mention (see p.114).
+[mentioned] (p.115) Passing mention — the people in his situation could be replaced with myself, Kei, and Ichinose.
+
+<!-- walk: y2v10 Ch.5 → p.122 -->
+
+### y2v10 p.143–155 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.143) Passing mention — Well, I might as well. Kei is probably having a staring contest with her
+[mentioned] (p.155) Passing mention — classrooms, glued to their phones just like Kei.
+
 <!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.17–17 — Ch.1: passing mentions (locator cross-check)
+[mentioned] (p.17) Passing mention — Today, since Kei isn't around, there wasn't a problem hanging out with
+
+<!-- walk: y2v10 Ch.1 → p.30 -->
+
+### y2v10 p.199–201 — Ch.7: The burst-in apology; Kei receives it
+[scene] (p.199) Ichinose bursts into the Class B room right after the exam is officially declared over; the monitor shows the final results (Class D 69, Class C 62, Class B 59, Class A 53); Satō slips in front of Kei protectively; Horikita rises from the back row.
+[says:ichinose-honami] (p.199) “Sorry, Karuizawa-san!” — the name anchor is on-page (“… stiffened at Ichinose’s appearance”).
+[note] (p.199) “Eh, Ichinose-san...!?” — untagged in the print; Kei stiffened at the entrance, but no name is attached to this line; none assigned.
+[says:horikita-suzune] (p.199) “Calm down, Karuizawa-san. Those mysterious consecutive nominations were Ichinose-san trying to throw us a lifeline.” — Horikita stood up from the very back row just before this line; the name anchor is on-page.
+[note] (p.199) The page prints that Ichinose apologized while agreeing with Horikita’s words.
+[note] (p.199) “Eh? What, what does that mean…?” — untagged in the print; none assigned.
+[note] (p.199) “She was trying, in her own way, to give us points. Right?” — untagged in the print; none assigned.
+[note] (p.199) Ichinose explains — she had considered contacting Kei through text or by call, but saying so directly wasn’t natural (“unnatural to say that we would be giving your points”), so the class sent the message through consecutive nominations; Horikita-san got suspicious and contacted her, not the other way around — the direction of the contact is the important part.
+[scene] (p.200) Kei processes — the year’s most embarrassing run of nominations was a kindness she’d been waiting to despise.
+[note] (p.200) “Why would they... Why would they need to do that…?” — untagged; none assigned.
+[note] (p.200) “To defeat Class A, probably. Essentially, every class in second place and below was able to fight so that no one would lose.” — untagged; none assigned.
+[note] (p.200) “Yes, our only option was to face Sakayanagi-san head-on. That’s what we call a godsend.” — untagged; none assigned.
+[note] (p.200) “If it wasn’t for Ichinose’s support, the six-point difference might’ve been a setback.” — free indirect narration; no speaker tag.
+[rel:ichinose-honami] (p.199–200) The source of Kei’s private hell was, to Ichinose, a gift; Kei has to survive ten nominations to receive it.
+[rel:satou-maya] (p.199) First shield on the scene, wordless.
+[rel:horikita-suzune] (p.199–200) The anchor of the room; Kei trusts her reading of the nomination strategy.
+
+<!-- walk: y2v10 Ch.7 → p.216 -->
+
+### y2v10 p.224–224 — Epilogue: passing mentions (locator cross-check)
+[mentioned] (p.224) Passing mention — About Karuizawa Kei.
+
+### y2v10 p.227–227 — SS/Credits: passing mentions (locator cross-check)
+[mentioned] (p.227) Passing mention — I responded to Karuizawa Kei's accurate answer.
+
+<!-- walk: y2v10 Epilogue → p.235 -->
+
+### y2v10 p.99–99 — Ch.4: passing mentions (locator cross-check)
+[mentioned] (p.99) Passing mention — Not in front of Kei, nor in front of a friend like Yōsuke.
+
+<!-- walk: y2v10 Ch.4 → p.100 -->
 ## y2v10.25
 
 <!-- walk: y2v10.25 → start -->

@@ -37,6 +37,9 @@ char_id: toba-shigeru · class: unknown · status: unknown
 [scene] (p.195) Only Kamuro and Yamamura remain after he draws; the remaining two know one of them must be expelled.
 [note] (p.193) He is one of the five students eliminated in the special exam; the lottery spared him.
 
+### y2v10 p.207–207 — Ch.7: passing mentions (locator cross-check)
+[mentioned] (p.207) Passing mention — Toba or the others expelled instead.
+
 <!-- walk: y2v10 Ch.7 → p.216 -->
 ## y2v12
 

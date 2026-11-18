@@ -1969,6 +1969,11 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [scene] (p.168) He stays glued to the monitor during turns 11–14; he needs a plan that doesn't rely on mercy.
 [trait] (p.130) Hot-blooded, blunt, loyal to a fault; the conscience of Class B.
 
+### y2v10 p.151–188 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.151) Passing mention — Shinohara Satsuki,' Sudō Ken'
+[mentioned] (p.166) Passing mention — Ishikura Kayoko,' Sudō Ken'
+[mentioned] (p.188) Passing mention — Karuizawa Kei,' Sudō Ken'
+
 <!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v11
 

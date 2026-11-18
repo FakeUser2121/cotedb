@@ -978,7 +978,6 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [note] (p.50) The email's wording is printed inside Horikita's speech as the text she shows the class on her phone screen; the page frames it as Kōenji's email.
 [note] (p.45) The advanced-payment/immunity background is narration, not his speech; no scene presence; he never speaks on these pages.
 
-<!-- walk: y2v10 Ch.2 → p.59 -->
 
 ### y2v10 p.66–80 — Ch.3: The benefactor is named; the gifts refused
 [scene] (p.66) The convenience-store reveal: the transferred shift leader, remembering the buyer, identifies him — Kōenji.
@@ -1037,7 +1036,30 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:sakayanagi-arisu] (p.133–152) She studied him for three turns then stopped striking; she learned to leave him alone.
 [rel:ayanokouji-kiyotaka] (p.137, 150) He appreciates the game as much as Kōenji; they read each other constantly.
 
+
+### y2v10 p.120–120 — Ch.5: passing mentions (locator cross-check)
+[mentioned] (p.120) Passing mention — Kōenji made a promise with Horikita, and she was going to honor it. I
+
+<!-- walk: y2v10 Ch.5 → p.122 -->
+
+### y2v10 p.161–171 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.161) Passing mention — Like her setup against Kōenji, Sakayanagi read what the opponent's leader
+[mentioned] (p.170) Passing mention — when Kōenji-kun was targeted in the first half. I wonder what Ichinose-san is
+[mentioned] (p.171) Passing mention — Kōenji's three consecutive nominations. There were some inexplicable aspects, but
+
 <!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.48–49 — Ch.2: passing mentions (locator cross-check)
+[mentioned] (p.48) Passing mention — Or should we ask Kōenji-kun, who is the only one who hasn't participated
+[mentioned] (p.49) Passing mention — Kōenji certainly possessed strong individuality that could answer any
+
+<!-- walk: y2v10 Ch.2 → p.59 -->
+
+### y2v10 p.97–98 — Ch.4: passing mentions (locator cross-check)
+[mentioned] (p.97) Passing mention (see p.97).
+[mentioned] (p.98) Passing mention — I brought up Kōenji's name to divert the topic from myself, but it was easy
+
+<!-- walk: y2v10 Ch.4 → p.100 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

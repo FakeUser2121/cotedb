@@ -539,7 +539,6 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [note] (p.11) TL Note: Satō says ご馳走様 (Gochisōsama) — the phrase said after finishing a meal (いただきます is said before it); here it thanks Kiyotaka for the lovey-dovey shipping material.
 [note] (p.11) Apparently she had witnessed the walk to school from behind.
 
-<!-- walk: y2v10 Ch.1 → p.30 -->
 
 ### y2v10 p.134, 170, 187 — Ch.6: The turn-3 answerer and the shielded
 [scene] (p.134) Named in turn 3 — Gourmet Food D1 again — nominees Kōenji, Sōshi, Ijūin, Satō, Azuma; she is among the four who answered correctly.
@@ -549,6 +548,16 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [rel:karuizawa-kei] (p.170, 187) The quiet defender; she worries aloud about Kei being singled out.
 
 <!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.16–16 — Ch.1: passing mentions (locator cross-check)
+[mentioned] (p.16) Passing mention — returned. Kei had already formed a group with the girls, Satō included, and was
+
+<!-- walk: y2v10 Ch.1 → p.30 -->
+
+### y2v10 p.199–199 — Ch.7: passing mentions (locator cross-check)
+[mentioned] (p.199) Passing mention — Protectively, Satō slipped in front of Kei.
+
+<!-- walk: y2v10 Ch.7 → p.216 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

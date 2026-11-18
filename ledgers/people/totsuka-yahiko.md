@@ -304,6 +304,11 @@ char_id: totsuka-yahiko · class: Class 1-A (enrolled April 2015) · status: min
 [note] (p.96) No scene presence; no dialogue; the mention exists to contrast her style against Ichinose's and Ryūen's.
 
 <!-- walk: y2v10 Ch.4 → p.100 -->
+
+### y2v10 p.197–197 — Ch.7: passing mentions (locator cross-check)
+[mentioned] (p.197) Passing mention — It was a completely different situation from when Totsuka had previously
+
+<!-- walk: y2v10 Ch.7 → p.216 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

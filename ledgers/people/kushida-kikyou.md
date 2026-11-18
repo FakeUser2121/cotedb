@@ -1983,6 +1983,25 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [mentioned] (p.60) Passing mention: "after Kushida revealed in the unanimous voting exam that Mii-chan had a crush on Hirata" — the reveal is referenced, not re-narrated; what happened after the reveal on these pages is unknown.
 
 <!-- walk: y2v10 Ch.3 → p.80 -->
+
+### y2v10 p.168–171 — Ch.6: The rare information network
+[scene] (p.168) The turn-13 attack stalls — “Why not choose Satonaka?” A bored student simply murmurs; this is Kushida, who hadn’t been selected once during the special exam and had too much free time; Horikita doesn’t even ask why — Satonaka isn’t protected; he answers incorrectly.
+[says:kushida-kikyou] (p.168) “Why not choose Satonaka?”
+[says:horikita-suzune] (p.168) “Thank you, Kushida-san. Then, Sensei, I would like the last person to be Satonaka-kun.”
+[says:horikita-suzune] (p.168) “Where did you find out that Satonaka has trouble with kanji?”
+[scene] (p.170) Horikita thanks her without pressing; Makida claps, admiring her.
+[says:kushida-kikyou] (p.170) “That kind of information comes from everywhere.”
+[says:kushida-kikyou] (p.170) “Not really.”
+[trait] (p.170) The rare information network — a wide circle of friends, exceptional memory for opponents’ weaknesses; she wasn’t showing all her cards, but the pages say she had fed Horikita lots of information in advance.
+[note] (p.170) Her position in the class wasn’t illustrious, so visibly contributing wasn’t a bad thing; the narration treats her as a genuinely reassuring presence.
+[scene] (p.171) Turn 14 — Kei’s nomination comes again; Horikita weighs protecting her; Kushida counsels the hesitant leader.
+[says:kushida-kikyou] (p.171) “What about trying to protect her once more? I think she might be aiming for it.”
+[note] (p.171) The answer back to her — “Do you think so from the flow so far?” — is printed without a name; none assigned.
+[says:kushida-kikyou] (p.171) “Not really. I just judged it based on what I’ve seen of Ichinose-san up until now.”
+[rel:horikita-suzune] (p.168–171) Her supply line for target intelligence; Horikita wields her without auditing the source — the trust is total and it works.
+[note] (p.170) Makida’s admiration (he clapped) belongs to her read on Satonaka, not to anyone else in the scene.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

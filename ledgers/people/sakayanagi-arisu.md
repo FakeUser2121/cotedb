@@ -1417,7 +1417,6 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [mentioned] (p.58) Passing mention: AK recalls "if I had been in Class A like Morishita when I enrolled, and if Sakayanagi and I hadn’t known each other, the situation would be completely different."
 [note] (p.40) All mentions; she never speaks on these pages.
 
-<!-- walk: y2v10 Ch.2 → p.59 -->
 
 ### y2v10 p.86, 96 — Ch.4: Sakayanagi, the collusion candidate
 [mentioned] (p.86) Passing mention: "If they judge that a losing class has appeared, Ichinose-san and Sakayanagi-san will also positively consider this option." — the gang-up counter-strategy names her as a likely co-signer.
@@ -1455,7 +1454,6 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:kamuro-masumi] (p.103–104) Kitō and Kamuro orbit her; she permits them to keep her entertained.
 [rel:kitou-hayato] (p.101, 103) He delivers the intel she never asked for; she lets him in on none of it.
 
-<!-- walk: y2v10 Ch.5 → p.122 -->
 
 ### y2v10 p.127–138, 141–142, 148–153, 154–161, 163–188 — Ch.6: The maths of survival
 [scene] (p.128) She attacks Horikita's class with Arithmetic D1; the arithmetic answer is mental-math; Ishikura answers correctly, the others miss it; one point.
@@ -1509,7 +1507,6 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:kamuro-masumi] (p.138, 148–153, 155) The one premium elimination she couldn't protect; the loss is felt in Class A.
 [rel:kitou-hayato] (p.148–153, 155) The second premium elimination she couldn't protect.
 
-<!-- walk: y2v10 Ch.6 → p.188 -->
 
 ### y2v10 p.189–192 — Ch.7: The silent loss; the leak hypothesis
 [scene] (p.189) Sakayanagi's POV — she weighs Shiina Hiyori as a possible expulsion target; her 11th-turn attack on Ryūen's class goes perfectly — and fails completely (all five protected); a comprehensive loss with no excuse.
@@ -1522,7 +1519,6 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:morishita-ai] (p.191–192) The only one to voice the leak aloud; she is pushed back by Kitō and Hashimoto.
 [rel:sanada-kousei] (p.192) Soft agreement with Morishita; unwilling to push.
 
-<!-- walk: y2v10 Ch.7 → p.216 -->
 
 ### y2v10 p.232 — SS: Arisu Sakayanagi's Short Story: Feelings of Concern
 [scene] (p.232) Sakayanagi recounts the bench scene from her POV — Ayanokōji's lines that cut her deepest; her own reluctant recognition.
@@ -1537,7 +1533,71 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [says:sakayanagi-arisu] (p.232) “He is truly… a dreadful person.”
 [note] (p.232) The SS recounts the bench scene from her POV; AK's lines dominate; Sakayanagi is mostly silent.
 
+
+### y2v10 p.101–101 — Ch.5: passing mentions (locator cross-check)
+[mentioned] (p.101) Passing mention — Sakayanagi always thought and acted independently.
+
+<!-- walk: y2v10 Ch.5 → p.122 -->
+
+### y2v10 p.123–183 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.123) Passing mention — There was no way Sakayanagi or Ichinose would attack me with a
+[mentioned] (p.125) Passing mention — attacking Sakayanagi's Class A. Finally, Sakayanagi's Class A would attack
+[mentioned] (p.126) Passing mention — against Ichinose's class and Sakayanagi's class.
+[mentioned] (p.129) Passing mention — In Ryūen class's attack, Sakayanagi protected one person, and three
+[mentioned] (p.134) Passing mention — On the contrary, Sakayanagi hadn't nominated Keisei, whom Horikita had
+[mentioned] (p.139) Passing mention — Sakayanagi's class was a step ahead from the beginning, but Horikita was
+[mentioned] (p.141) Passing mention — What caught my attention was Sakayanagi's naming order from the second
+[mentioned] (p.142) Passing mention — ...Does Sakayanagi-san know about the promise I made with Kōenji-kun?
+[mentioned] (p.143) Passing mention — It's reasonable to assume that Sakayanagi, given her personality, didn't
+[mentioned] (p.145) Passing mention — This was an excuse. The reality was that she couldn't let Sakayanagi's class,
+[mentioned] (p.146) Passing mention — close to Sakayanagi were picked.
+[mentioned] (p.158) Passing mention — of about eight people, centering on the students supporting Sakayanagi, like Kitō,
+[mentioned] (p.161) Passing mention — Like her setup against Kōenji, Sakayanagi read what the opponent's leader
+[mentioned] (p.163) Passing mention — Horikita's target for the offensive was Sakayanagi's class, the most
+[mentioned] (p.165) Passing mention — This made it four points. We temporarily surpassed Sakayanagi's class and
+[mentioned] (p.172) Passing mention — He decided that it would be necessary to suppress Sakayanagi, who had been
+[mentioned] (p.175) Passing mention — that Sakayanagi's nomination was completed. It was his turn now to protect five
+[mentioned] (p.176) Passing mention — Even if Sakayanagi's nominations were dispersed, they all stuck together
+[mentioned] (p.180) Passing mention — Sakayanagi's class would start moving. That was a situation to avoid.
+[mentioned] (p.181) Passing mention (see p.181).
+[mentioned] (p.182) Passing mention (see p.182).
+[mentioned] (p.183) Passing mention — to accept the points. Therefore, if their class was losing to Sakayanagi's, it would
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.200–216 — Ch.7: passing mentions (locator cross-check)
+[mentioned] (p.200) Passing mention — Yes, our only option was to face Sakayanagi-san head-on. That's what we
+[mentioned] (p.201) Passing mention — Sakayanagi's attack targets beforehand.
+[mentioned] (p.204) Passing mention — I also wanted to see how Ichinose's and Sakayanagi's classes were doing.
+[mentioned] (p.205) Passing mention — Horikita, relegating Sakayanagi's position to the very bottom.
+[mentioned] (p.206) Passing mention — Sakayanagi was seated at Kamuro's desk, which had yet to be cleared away,
+[mentioned] (p.209) Passing mention — Sakayanagi laughed and then slowly stood up from her chair, leaning on her
+[mentioned] (p.210) Passing mention — At Sakayanagi's words, Hashimoto choked up in the back of his throat.
+[mentioned] (p.211) Passing mention — intentions, but Sakayanagi didn't.
+[mentioned] (p.212) Passing mention — Sakayanagi, who had mobility impairments, couldn't make nimble
+[mentioned] (p.213) Passing mention — Sakayanagi Arisu.
+[mentioned] (p.214) Passing mention — Clear anger was leaking from the previously calm Sakayanagi.
+[mentioned] (p.215) Passing mention — While looking at Hashimoto, Sakayanagi spoke indifferently, as she was
+[mentioned] (p.216) Passing mention — At his words, which could be described as a complete parting, Sakayanagi
+
+<!-- walk: y2v10 Ch.7 → p.216 -->
+
+### y2v10 p.217–224 — Epilogue: passing mentions (locator cross-check)
+[mentioned] (p.217) Passing mention — EAR THE STAFF room, Sakayanagi was quietly waiting alone.
+[mentioned] (p.218) Passing mention — in the class. I don't know how Sakayanagi chose who to expel, so it's only natural
+[mentioned] (p.219) Passing mention — Slowly, the distance between Kamuro and Sakayanagi widened.
+[mentioned] (p.220) Passing mention — Kamuro nodded to Sakayanagi, who made the promise, and then turned her
+[mentioned] (p.221) Passing mention — She usually would have a much wider field of view, but Sakayanagi hadn't
+[mentioned] (p.222) Passing mention — If Kamuro's expulsion hadn't affected Sakayanagi at all, I wouldn't be
+[mentioned] (p.223) Passing mention — Ichinose, Sakayanagi, whomever.
+[mentioned] (p.224) Passing mention — Surely by now, even Sakayanagi couldn't deny the true answer she could
+
 <!-- walk: y2v10 Epilogue → p.235 -->
+
+### y2v10 p.41–41 — Ch.2: passing mentions (locator cross-check)
+[mentioned] (p.41) Passing mention — While someone like Ryūen or Sakayanagi might easily undertake such
+
+<!-- walk: y2v10 Ch.2 → p.59 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

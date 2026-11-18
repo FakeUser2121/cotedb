@@ -241,7 +241,6 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 [note] (p.138) No dialogue attributed to him on these pages; the page does not record his last answer.
 [note] (p.146) "Yamamura" in the nominee cluster and the "Yamamura from Sakayanagi’s class" elimination list both refer to the same individual — same class, same exam.
 
-<!-- walk: y2v10 Ch.6 → p.188 -->
 
 ### y2v10 p.193–196 — Ch.7: The last to draw
 [scene] (p.194) She draws last alongside Kamuro; her hand trembles too much to move on her own; Kamuro must forcibly guide her left hand to clutch the lot.
@@ -251,6 +250,18 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 [says:kamuro-masumi] (p.195) “Don’t hold a grudge.”
 [scene] (p.196) She remains; her shoulder patted by Kamuro, who drew the colored paper; her survival feels neither triumphant nor grateful.
 [note] (p.193) She is one of the five students eliminated in the special exam; the lottery spares her, not Kamuro.
+
+
+### y2v10 p.157–160 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.157) Passing mention — close to having Kamuro or Yamamura expelled. If Kitō or Hashimoto messes up,
+[mentioned] (p.158) Passing mention — fully protect Kamuro or Yamamura.
+[mentioned] (p.159) Passing mention (see p.159).
+[mentioned] (p.160) Passing mention — instead, only push key players like Kamuro or Yamamura, as well as Kitō or
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.209–209 — Ch.7: passing mentions (locator cross-check)
+[mentioned] (p.209) Passing mention (see p.209).
 
 <!-- walk: y2v10 Ch.7 → p.216 -->
 ## y2v11

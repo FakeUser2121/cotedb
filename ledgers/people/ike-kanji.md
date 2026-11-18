@@ -1331,7 +1331,6 @@ aliases used for anchors: ike, kanji, ike-kun
 [says] (p.47) “So, Maezono, do you have someone better in mind? I don’t get it.”
 [note] (p.39) Unnamed student screams at the expulsion prospect; he is not that voice.
 
-<!-- walk: y2v10 Ch.2 → p.59 -->
 
 ### y2v10 p.81–88 — Ch.4: The 68-point strategy, dissected
 [scene] (p.81) Wednesday afternoon, two days before the exam; he slams his hands on his desk: an unbeatable strategy; the class empties skeptically; he recalculates on his fingers and pulls out his phone; undeterred.
@@ -1358,7 +1357,6 @@ aliases used for anchors: ike, kanji, ike-kun
 [trait] (p.83–87) Genuinely clever — the 32-elimination 68-point guarantee was a real idea; he absorbs rigorous critique and leaves with more understanding than he came.
 [rel:horikita-suzune] (p.81–88) She takes his strategy seriously; he's crestfallen but oddly relieved.
 
-<!-- walk: y2v10 Ch.4 → p.100 -->
 
 ### y2v10 p.128, 131, 165–166, 168 — Ch.6: The canary in the coal mine
 [scene] (p.128) When the English problem appears; his head hits the table; he cries out; he recovers.
@@ -1369,7 +1367,29 @@ aliases used for anchors: ike, kanji, ike-kun
 [scene] (p.168) He watches the exam evolve; his trust in Horikita never wavers — not once.
 [voice] (p.128) Open book; reacts instantly; the emotional reactor of the class.
 
+### y2v10 p.129–167 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.129) Passing mention — Sonoda Chiyoda,' Ichihashi Ruri,' Okitani Kyōsuke,' Ike Kanji,' Makida
+[mentioned] (p.130) Passing mention — Okitani Kyōsuke,' Ike Kanji'
+[mentioned] (p.132) Passing mention — (TL NOTE: 八 is the kanji for 8, they are meant to trace this shape.)
+[mentioned] (p.167) Passing mention — The genre was Kanji' with a difficulty level of 1. However, to my surprise,
+
 <!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.34–34 — Ch.2: passing mentions (locator cross-check)
+[mentioned] (p.34) Passing mention — kanji, and history, to subjects which are not related to academics, such as
+
+<!-- walk: y2v10 Ch.2 → p.59 -->
+
+### y2v10 p.8–8 — Prologue: passing mentions (locator cross-check)
+[mentioned] (p.8) Passing mention — (TL Note: Masayoshi's kanji can be interpreted as justice)
+
+<!-- walk: y2v10 Prologue → p.8 -->
+
+### y2v10 p.91–92 — Ch.4: passing mentions (locator cross-check)
+[mentioned] (p.91) Passing mention (see p.91).
+[mentioned] (p.92) Passing mention — I couldn't deny that. There were days when Ike was at the bottom and days
+
+<!-- walk: y2v10 Ch.4 → p.100 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

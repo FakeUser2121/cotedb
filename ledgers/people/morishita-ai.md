@@ -382,6 +382,18 @@ char_id: morishita-ai · class: Class 2-A · status: unknown
 [note] (p.228) The SS recounts the same events of the main tale twice — once in narration third person, once in her first person.
 [rel:ayanokouji-kiyotaka] (p.227–228) She has been investigating him for class purposes; her interest in him is academic and warily professional; she wants to see the pattern he brings under stress.
 
+
+### y2v10 p.192–206 — Ch.7: passing mentions (locator cross-check)
+[mentioned] (p.192) Passing mention — The one who shattered the class's silence was Morishita Ai.
+[mentioned] (p.194) Passing mention (see p.194).
+[mentioned] (p.195) Passing mention — Morishita offered two lots for them to draw.
+[mentioned] (p.206) Passing mention (see p.206).
+
+<!-- walk: y2v10 Ch.7 → p.216 -->
+
+### y2v10 p.221–221 — Epilogue: passing mentions (locator cross-check)
+[mentioned] (p.221) Passing mention — Morishita about a week ago.
+
 <!-- walk: y2v10 Epilogue → p.235 -->
 ## y2v11
 

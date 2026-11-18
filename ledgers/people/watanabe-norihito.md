@@ -159,6 +159,11 @@ char_id: watanabe-norihito · class: unknown · status: unknown
 [rel:kanzaki-ryuuji] (p.106–108) The plus-one orchestrated by Ichinose; he knows nothing of it until it happens.
 
 <!-- walk: y2v10 Ch.5 → p.122 -->
+
+### y2v10 p.127–127 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.127) Passing mention — Kobashi Yume,' Watanabe Norihito,' Sumida Makoto,' Ninomiya Yui,'
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

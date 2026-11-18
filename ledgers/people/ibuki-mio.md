@@ -1154,7 +1154,6 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:kushida-kikyou] (p.19–26) The “What are you looking at” barb lands on Kushida; threatens kicks; stays engaged.
 [rel:ayanokouji-kiyotaka] (p.20–26) Sickly-sweet demand that he apologize; his deserted-island ratings analogy saves her a little dignity.
 
-<!-- walk: y2v10 Ch.1 → p.30 -->
 
 ### y2v10 p.94–96 — Ch.4: The hypothetical expulsion target
 [mentioned] (p.94) Passing mention: the hard condition lands — the candidate class is Ryūen's and the one expelled is Ibuki Mio; Horikita freezes.
@@ -1171,7 +1170,15 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [note] (p.164) Her name anchors Ryūen's protection list; she is the least likely of his five to be left open.
 [rel:ryuuen-kakeru] (p.164, 175) The hidden hand behind Ryūen's comeback; her presence is the move nobody saw coming.
 
+### y2v10 p.145–145 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.145) Passing mention — Ibuki could be irrationally arrogant, but Katsuragi was rational. However,
+
 <!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.27–27 — Ch.1: passing mentions (locator cross-check)
+[mentioned] (p.27) Passing mention — But it must be expensive to feed both Ibuki and Kushida. Two people,
+
+<!-- walk: y2v10 Ch.1 → p.30 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

@@ -1054,7 +1054,34 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [rel:sakayanagi-arisu] (p.206–216) He gets caught flat-footed; he surrenders almost immediately once she drops the photo.
 [rel:sakayanagi-arisu] (p.216) The endgame begins — if he pushes again for Ayanokōji, she'll expel him.
 
+
+### y2v10 p.146–160 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.146) Passing mention — Kitō Hayato,' Kamuro Masumi,' Hashimoto Masayoshi,' Machida Kōji,'
+[mentioned] (p.148) Passing mention — nominations from Horikita's class, Hashimoto stood up and walked towards
+[mentioned] (p.149) Passing mention — Seeing the results, Hashimoto couldn't make a strong argument on the
+[mentioned] (p.150) Passing mention — Hashimoto grumbled at the fact that Kōenji was once again unprotected.
+[mentioned] (p.151) Passing mention — With the emphasis on the part that it was indeed useful, Hashimoto also felt
+[mentioned] (p.152) Passing mention — Hashimoto thought the enemy class was in disarray because Horikita chose
+[mentioned] (p.154) Passing mention — by only one point. Hashimoto, who forgot to get up from his seat, was staring at
+[mentioned] (p.157) Passing mention — close to having Kamuro or Yamamura expelled. If Kitō or Hashimoto messes up,
+[mentioned] (p.158) Passing mention — Kamuro, and Hashimoto.
+[mentioned] (p.160) Passing mention — Hashimoto, into expulsion.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.189–192 — Ch.7: passing mentions (locator cross-check)
+[mentioned] (p.189) Passing mention — by her classmate, Hashimoto.
+[mentioned] (p.192) Passing mention — Kitō and Hashimoto immediately rose.
+
 <!-- walk: y2v10 Ch.7 → p.216 -->
+
+### y2v10 p.223–223 — Epilogue: passing mentions (locator cross-check)
+[mentioned] (p.223) Passing mention — It hasn't changed even at this school. Masumi-san, Hashimoto-kun, and
+
+### y2v10 p.232–232 — SS/Credits: passing mentions (locator cross-check)
+[mentioned] (p.232) Passing mention — 'It hasn't changed even at this school. Masumi-san, Hashimoto-kun, and
+
+<!-- walk: y2v10 Epilogue → p.235 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

@@ -1030,6 +1030,9 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.132) The page prints the name "Yukimura Teruhiko"; the surrounding analysis calls the same classmate "Keisei" — this translation uses both names for him on these pages.
 [note] (p.5448, 5451) The same identification confusion; treat the two roster rows as unresolved.
 
+### y2v10 p.148–148 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.148) Passing mention — 'Kōenji Rokusuke,' Hasebe Haruka,' Hirata Yōsuke,' Yukimura
+
 <!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v11
 

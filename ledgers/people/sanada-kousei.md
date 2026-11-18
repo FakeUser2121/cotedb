@@ -55,6 +55,11 @@
 [note] (p.146) The page lists his name alongside Kitō, Kamuro, Hashimoto, Yamamura, Machida and Matoba; no dialogue attributed to him on these pages.
 
 <!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.192–192 — Ch.7: passing mentions (locator cross-check)
+[mentioned] (p.192) Passing mention — Sanada, slightly delayed, agreed with Morishita's words, asking Sakayanagi
+
+<!-- walk: y2v10 Ch.7 → p.216 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

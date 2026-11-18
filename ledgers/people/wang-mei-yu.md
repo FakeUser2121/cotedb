@@ -430,6 +430,16 @@ char_id: wang-mei-yu · status: minor
 [rel:hirata-yousuke] (p.60) The crush behind the absence; she has barely seen him since.
 
 <!-- walk: y2v10 Ch.3 → p.80 -->
+
+### y2v10 p.164–164 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.164) Passing mention — Wang Mei-Yui,' Shinohara Satsuki'
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.81–81 — Ch.4: passing mentions (locator cross-check)
+[mentioned] (p.81) Passing mention — AVING FIGURED OUT the identity of Mii-chan's benefactor during my day
+
+<!-- walk: y2v10 Ch.4 → p.100 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

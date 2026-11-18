@@ -430,6 +430,11 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 [mentioned] (p.72) Passing mention: "I had also promised to meet Mashima-sensei, but I could surely skip it for today." — no scene presence; no dialogue; the appointment is simply dropped.
 
 <!-- walk: y2v10 Ch.3 → p.80 -->
+
+### y2v10 p.180–180 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.180) Passing mention — Upon receiving Mashima-sensei's signal, Ichinose opened her phone.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

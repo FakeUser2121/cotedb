@@ -425,7 +425,6 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [rel:kitou-hayato] (p.103) Same docket of unwanted information; they manage each other.
 [rel:hashimoto-masayoshi] (p.103–104) Her suspicion-filter; bad at calming him.
 
-<!-- walk: y2v10 Ch.5 → p.122 -->
 
 ### y2v10 p.138, 154–157, 187 — Ch.6: The premium elimination
 [scene] (p.138) Eliminated in the first half — the scoreboard shows Sakayanagi's class at 29 points with two eliminated — Kamuro, Yamamura.
@@ -438,7 +437,6 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [rel:kitou-hayato] (p.154–156) The food courier; he buys her lunch; their respect is mutual.
 [rel:hashimoto-masayoshi] (p.148–153) The intel-provider; he keeps her in the loop on everything.
 
-<!-- walk: y2v10 Ch.6 → p.188 -->
 
 ### y2v10 p.193–199, 217–220 — Ch.7/Epilogue: The lottery's colored paper
 [scene] (p.193) She is one of the five eliminated in this exam — Kamuro Masumi, Yamamura Miki, Sugio Hiroshi, Toba Shigeru, Machida Kōji; Sakayanagi refuses to grade them and announces a lottery.
@@ -509,6 +507,29 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [rel:sakayanagi-arisu] (p.193–218) The most painful lottery in her life — she chose the randomness herself and lost someone real.
 
 <!-- walk: y2v10 Ch.7 → p.216 -->
+
+### y2v10 p.121–121 — Ch.5: passing mentions (locator cross-check)
+[mentioned] (p.121) Passing mention — Even if I asked Kamuro, she would probably say, I wasn't told not to tell
+
+<!-- walk: y2v10 Ch.5 → p.122 -->
+
+### y2v10 p.146–160 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.146) Passing mention — Kitō Hayato,' Kamuro Masumi,' Hashimoto Masayoshi,' Machida Kōji,'
+[mentioned] (p.158) Passing mention — Kamuro, and Hashimoto.
+[mentioned] (p.160) Passing mention — instead, only push key players like Kamuro or Yamamura, as well as Kitō or
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.221–224 — Epilogue: passing mentions (locator cross-check)
+[mentioned] (p.221) Passing mention (see p.221).
+[mentioned] (p.222) Passing mention — If Kamuro's expulsion hadn't affected Sakayanagi at all, I wouldn't be
+[mentioned] (p.223) Passing mention (see p.223).
+[mentioned] (p.224) Passing mention (see p.224).
+
+### y2v10 p.232–232 — SS/Credits: passing mentions (locator cross-check)
+[mentioned] (p.232) Passing mention (see p.232).
+
+<!-- walk: y2v10 Epilogue → p.235 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

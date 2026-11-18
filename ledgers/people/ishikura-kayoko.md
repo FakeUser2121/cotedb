@@ -59,6 +59,9 @@ char_id: ishikura-kayoko · class: unknown · status: unknown
 [note] (p.130–131) Mentioned only as a correct answer in the monitor's list; the narration singles her out as "Ishikura is one of the strongest math students in the class."
 [note] (p.131) The print of the monitor's list names "Ishikura Kayoko" — the same student as this entry; no ambiguity detected on these pages.
 
+### y2v10 p.166–166 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.166) Passing mention — Ishikura Kayoko,' Sudō Ken'
+
 <!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v12
 

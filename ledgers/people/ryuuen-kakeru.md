@@ -2405,7 +2405,6 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [mentioned] (p.42) Passing mention: "someone like Ryūen or Sakayanagi might easily undertake such merciless tasks" (the expulsion-nomination burden of a losing leader).
 [note] (p.39) The deserted-island contract is referenced, not narrated; no scene, no dialogue.
 
-<!-- walk: y2v10 Ch.2 → p.59 -->
 
 ### y2v10 p.85–86, 91, 96 — Ch.4: Ryūen, the feared rival named
 [mentioned] (p.85) Passing mention: the hypothetical — "If Ryūen-kun’s class were to use that strategy... one person expelled from his class, the addition of Katsuragi-kun has kept their numbers at 40."
@@ -2414,7 +2413,6 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [mentioned] (p.96) Passing mention: "Ryūen is ruthless to whoever he is up against. He’s always thinking of ways to defeat the enemy’s most capable students."
 [note] (p.85) Rank speculation on these pages: the page places Ryūen's class among the bottom two with Ichinose's.
 
-<!-- walk: y2v10 Ch.4 → p.100 -->
 
 ### y2v10 p.105 — Ch.5: The restroom run-in
 [scene] (p.105) Leaning against the wall beside the entrance with his phone in his hand; snorted a laugh at Hashimoto's refuge habit; they trade barbs about being seen together before the exam.
@@ -2424,7 +2422,6 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [note] (p.105) He's curious, not hostile; the pages never say whether he knows why Hashimoto was there.
 [note] (p.105) He is also Class A; the two of them pass each other at least outwardly civil; neither says why he was there. The pages leave the reason for the restroom encounter unspoken.
 
-<!-- walk: y2v10 Ch.5 → p.122 -->
 
 ### y2v10 p.144–153, 156–161, 172–176, 180–184 — Ch.6: The hidden hand surfaces
 [scene] (p.144) The exam begins; Class C's lead attack lands on his class; he zones out staring at his phone for nearly a minute; classmates freeze; Hoshinomiya intervenes; his decision comes only at the deadline.
@@ -2464,14 +2461,76 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:sakayanagi-arisu] (p.172, 176) The target he's hunting; her counter is gambling-adjacent, his is mathematics.
 [rel:hoshinomiya-chie] (p.144, 145, 176) He treats his homeroom teacher as background noise; she is used to it.
 
-<!-- walk: y2v10 Ch.6 → p.188 -->
 
 ### y2v10 p.202–205 — Ch.7: The victory seen from the window
 [scene] (p.202) Ryūen's class is in high spirits; Ishizaki leaps for joy; Katsuragi walks majestically toward Keyaki Mall; Hiyori watches from the window with a forced smile.
 [scene] (p.204–205) He arrives to find Hiyori pale and thoughtful; her unease about Ryūen's gambles has not landed him in trouble — yet.
 [note] (p.205) He never once appears on these pages; the whole chapter is anchored on his effect, his entourage, and Hiyori's worry.
 
+
+### y2v10 p.102–120 — Ch.5: passing mentions (locator cross-check)
+[mentioned] (p.102) Passing mention — The future where I might lose to Ryūen in a direct showdown with a
+[mentioned] (p.120) Passing mention — drop from the top. Ichinose and Ryūen's classes wouldn't profit substantially.
+
+<!-- walk: y2v10 Ch.5 → p.122 -->
+
+### y2v10 p.124–185 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.124) Passing mention — Shortly after, Sakagami-sensei, Ryūen's homeroom teacher, appeared in the
+[mentioned] (p.125) Passing mention — Class C. Then Ichinose would attack Ryūen's Class D, followed by Ryūen
+[mentioned] (p.128) Passing mention — Next, Ichinose's class launched an attack on Ryūen's class. The category
+[mentioned] (p.129) Passing mention — In response, Ryūen managed to protect one person.
+[mentioned] (p.131) Passing mention — Ryūen's class successfully protected one student and one of them got the
+[mentioned] (p.134) Passing mention — place with 9 points, and Ryūen's class at the bottom with 5 points. If Kōenji had
+[mentioned] (p.135) Passing mention — happen in the first half of the exam, and everything depended on Ryūen's skill.
+[mentioned] (p.138) Passing mention — Ryūen's class was the first to be out. He was followed in the 8th turn by Sotomura
+[mentioned] (p.139) Passing mention — Knowing Ryūen, he might make a big move in the last turn or two.
+[mentioned] (p.140) Passing mention — bottom two classes were concerning too, especially Ryūen's class, which had
+[mentioned] (p.145) Passing mention — class as Ryūen's advisor.
+[mentioned] (p.159) Passing mention — Ryūen, who evidently wasn't privy to all of Class A's intricacies, expressed
+[mentioned] (p.163) Passing mention — During the first half, she successfully protected against Ryūen's attacks, and
+[mentioned] (p.164) Passing mention — Ryūen.
+[mentioned] (p.165) Passing mention — with four correct answers, but what surprised the class was once again Ryūen's
+[mentioned] (p.166) Passing mention — Ike, having probably assumed that Ryūen's class would be at the bottom,
+[mentioned] (p.171) Passing mention — However, Ryūen's class showed even more momentum. Even though
+[mentioned] (p.177) Passing mention — regular manner, unlike Ryūen. Ichinose used the protection function primarily for
+[mentioned] (p.185) Passing mention — place with 40 points each. In third place was Ryūen's class with 39 points.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.189–215 — Ch.7: passing mentions (locator cross-check)
+[mentioned] (p.189) Passing mention — This time, the target shifted from Horikita's class to Ryūen's.
+[mentioned] (p.190) Passing mention — Some sighed at Ryūen's luck, others desperately clung to their phones to
+[mentioned] (p.191) Passing mention — It wasn't because she was wracking her brain to avoid Ryūen's flawless
+[mentioned] (p.192) Passing mention — touching their phones and check them. Ryūen-kun might have a trick up his
+[mentioned] (p.199) Passing mention — 1st: Ryūen【Class D】69 points
+[mentioned] (p.200) Passing mention — some kind of deal between Ryūen-kun's and Ichinose-san's classes... Of course,
+[mentioned] (p.201) Passing mention — But the turning point of all this was that Ryūen was able to sense all of
+[mentioned] (p.206) Passing mention — about it, the class's information must have leaked to Ryūen.
+[mentioned] (p.209) Passing mention — The screen showed Hashimoto walking with Ryūen at Keyaki Mall.
+[mentioned] (p.210) Passing mention (see p.210).
+[mentioned] (p.211) Passing mention (see p.211).
+[mentioned] (p.214) Passing mention (see p.214).
+[mentioned] (p.215) Passing mention (see p.215).
+
 <!-- walk: y2v10 Ch.7 → p.216 -->
+
+### y2v10 p.223–224 — Epilogue: passing mentions (locator cross-check)
+[mentioned] (p.223) Passing mention — to bring out each class's maximum potential. To do this, I will meddle with Ryūen,
+[mentioned] (p.224) Passing mention — Ryūen had shed a layer and started moving forward.
+
+<!-- walk: y2v10 Epilogue → p.235 -->
+
+### y2v10 p.41–41 — Ch.2: passing mentions (locator cross-check)
+[mentioned] (p.41) Passing mention — While someone like Ryūen or Sakayanagi might easily undertake such
+
+<!-- walk: y2v10 Ch.2 → p.59 -->
+
+### y2v10 p.87–95 — Ch.4: passing mentions (locator cross-check)
+[mentioned] (p.87) Passing mention — Considering the current point differences among the four classes, Ryūen's
+[mentioned] (p.94) Passing mention — class is Ryūen's class, and the one expelled is Ibuki Mio. Which of the three
+[mentioned] (p.95) Passing mention — scenario. Moreover, there's no guarantee that Ryūen can appoint someone to be
+
+<!-- walk: y2v10 Ch.4 → p.100 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

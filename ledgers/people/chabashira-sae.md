@@ -1514,7 +1514,6 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [note] (p.13) The page prints a doubled period in the narration (“head..Apparently”); kept as printed.
 [note] (p.12) Her talk of parent-teacher conferences lands ominously for Ayanokōji (his parent might come again) — his interior beat, not hers.
 
-<!-- walk: y2v10 Ch.1 → p.30 -->
 
 ### y2v10 p.31–42 — Ch.2: The announcement and the rules
 [scene] (p.31) Thursday of the third term; she arrives stern-faced as ever; her expression is always severe; she straightens herself; several students already sense something is different.
@@ -1540,13 +1539,33 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [says] (p.42) “Do your best not to place last. That’s it.”
 [note] (p.42) Pages 39–42 print the reward table (1st +100; 2nd/3rd −50; 4th −100; extension on tie; all-tie −100 each) and the bottom-rank expulsion rule as displayed slides, not as her speech beyond the line "as follows".
 
-<!-- walk: y2v10 Ch.2 → p.59 -->
 
 ### y2v10 p.199 — Ch.7: The dismissal
 [scene] (p.199) She is present at the dismissal — announces the exam is complete; says details including Class A’s expulsion will follow next week; she dismisses class for the day.
 [note] (p.199) She reveals nothing about Class A’s fate beyond the order of events; the dismissal feels surreal after the long exam.
 
+
+### y2v10 p.124–124 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.124) Passing mention — without any absences, Chabashira-sensei left the classroom with words of
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.14–30 — Ch.1: passing mentions (locator cross-check)
+[mentioned] (p.14) Passing mention — After Chabashira-sensei left the classroom, the class was engrossed in topics
+[mentioned] (p.30) Passing mention — the second drawer. Maybe, as Chabashira-sensei said, this third term might pass by
+
+<!-- walk: y2v10 Ch.1 → p.30 -->
+
+### y2v10 p.191–197 — Ch.7: passing mentions (locator cross-check)
+[mentioned] (p.191) Passing mention — Chabashira-sensei.
+[mentioned] (p.197) Passing mention — Sakayanagi took her eyes off her and urged Chabashira, the teacher in
+
 <!-- walk: y2v10 Ch.7 → p.216 -->
+
+### y2v10 p.50–50 — Ch.2: passing mentions (locator cross-check)
+[mentioned] (p.50) Passing mention — Including what they couldn't hear during Chabashira-sensei's explanation,
+
+<!-- walk: y2v10 Ch.2 → p.59 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

@@ -148,4 +148,9 @@ char_id: himeno-yuki · class: Class 2-A · status: unknown
 [mentioned] (p.107) Passing mention: "There were no signs of Himeno and Hamaguchi, who supported Kanzaki." — their absence is the page's way of signalling the meeting's importance.
 [note] (p.107) Mention only; neither speaks on these pages.
 
+### y2v10 p.109–117 — Ch.5: passing mentions (locator cross-check)
+[mentioned] (p.109) Passing mention — understand, but it was useless. Right around the time Kanzaki and Himeno started
+[mentioned] (p.112) Passing mention — I had prepared different actors, like Kanzaki and Himeno, to cause a stir in
+[mentioned] (p.117) Passing mention — Watanabe had heard from Amikura and Himeno that Ichinose might have a
+
 <!-- walk: y2v10 Ch.5 → p.122 -->

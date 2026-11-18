@@ -156,11 +156,18 @@ char_id: miyamoto-soshi · class: Class 1-D · status: minor
 [says] (p.84) “It certainly looks like something underhanded, you know.”
 [note] (p.84) He understood the paradox before Hondō did; his audible "Ah—" is the moment the room begins to believe.
 
-<!-- walk: y2v10 Ch.4 → p.100 -->
 
 ### y2v10 p.164–166 — Ch.6: The surprise correct answer
 [scene] (p.165) Named in turn 11 — Ichinose's Sports D1 attack on our class — the question: the Infield Fly rule; he, Kei and AK are the three nominated; he answers correctly alongside AK.
 [scene] (p.166) Reaction from him and classmates — he's the one who answered the baseball question aloud from games; he shares joy with his classmates.
 [note] (p.165) "Miyamoto Sōshi" — not to be confused with Miyamoto whoever; the printed name is exact.
 
+### y2v10 p.134–134 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.134) Passing mention — Kōenji Rokusuke,' Sōshi Miyamoto,' Wataru Ijūin,' Satō Maya,' Sana
+
 <!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.88–88 — Ch.4: passing mentions (locator cross-check)
+[mentioned] (p.88) Passing mention — Shinohara-san, Hondō-kun, and Miyamoto-kun, too. Please feel free to
+
+<!-- walk: y2v10 Ch.4 → p.100 -->

@@ -183,7 +183,6 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 [scene] (p.85) He sighs and puts his hands on the sofa at the 32-elimination explanation; by p.84 he is visibly warming to the idea.
 [rel:ike-kanji] (p.83–85) Starts as the loudest skeptic; absorbed by the arithmetic; leaves acknowledging it.
 
-<!-- walk: y2v10 Ch.4 → p.100 -->
 
 ### y2v10 p.84, 138 — Ch.6: The skeptic gone quiet
 [mentioned] (p.83) Present at the karaoke session; he made fun of Ike's plan with "What? If you did that, we’d be down 32 points right from the start!" — he was the loudest skeptic.
@@ -191,6 +190,12 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 [note] (p.138) No further dialogue; the page does not give his last answer.
 
 <!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.88–92 — Ch.4: passing mentions (locator cross-check)
+[mentioned] (p.88) Passing mention — Shinohara-san, Hondō-kun, and Miyamoto-kun, too. Please feel free to
+[mentioned] (p.92) Passing mention — when Hondō was. Because we strove to avoid being at the bottom, it was natural
+
+<!-- walk: y2v10 Ch.4 → p.100 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

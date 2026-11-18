@@ -56,9 +56,12 @@ char_id: tokitou · class: unknown · status: unknown
 [note] (p.9) Passing mention (locator pages: p.164, p.175; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.164–175 — Ch.6: Tokitō Katsumi — cannot be placed
+[mentioned] (p.164) The print shows a bare “Tokitō” inside the five perfect protections of Ryūen’s class (Katsuragi, Shiina, Tokitō, Nomura, Ibuki) — the surrounding lines identify that man as Tokitō Hiroya, not this roster row.
+[mentioned] (p.175) The “Tokitō” who fearlessly fired back at Ryūen on these pages is the same man from the protection list — Tokitō Hiroya.
+[note] (p.164, 175) Whether a distinct Tokitō Katsumi sits on these pages cannot be determined; treated as the shared-family-name case in the volume’s Coverage notes; no identity assigned.
 
-
-
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

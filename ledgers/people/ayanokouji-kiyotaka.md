@@ -10562,7 +10562,6 @@ walk: y1v1 → DONE
 [scene] (p.187) 15th turn defense — Kei, Satō, Miyake protected; perfect score; five points; the Kei-targeting carousel.
 [scene] (p.188) Turns 16–20 — Ichinose nominates Kei without end; Horikita protects her every time; the whole class is uneasy; AK watches in silence.
 
-<!-- walk: y2v10 Ch.6 → p.188 -->
 
 ### y2v10 p.189–215 — Ch.7: Class A betrayals; Morishita's warning; lottery decides
 [scene] (p.189–192) After exam ends, Sakayanagi obsesses over Shiina Hiyori possibility — but eats bread first; after three consecutive failures, she suspects a leak within her class; Morishita speaks (first time); says there are 100% signs of betrayal; Sanada agrees but won't move; Kitō/Hashimoto smile generously at her announcement.
@@ -10590,8 +10589,25 @@ walk: y1v1 → DONE
 [rel:sakayanagi-arisu] (p.217–228) Loses first elimination match; devastated by Kamuro's expulsion; she carried the second half of the exam on her shoulders and made the fatal mistake; she cannot recover her momentum until someone breaks through her stone-wall defense.
 [rel:kamuro-masumi] (p.218–225) Sakayanagi's friend; drawn-lots expelled by Sakayanagi; the class buys her one last farewell picnic; Sakayanagi doesn't attend; AK arrives to see her leave school.
 
-<!-- walk: y2v10 Epilogue → p.235 -->
 
+### y2v10 p.120–121 — Ch.5: passing mentions (locator cross-check)
+[mentioned] (p.120) Passing mention — Ayanokōji and Horikita's class would stand to lose if they got first.
+[mentioned] (p.121) Passing mention (see p.121).
+
+<!-- walk: y2v10 Ch.5 → p.122 -->
+
+### y2v10 p.152–156 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.152) Passing mention — Sakayanagi wondered whether Ayanokōji was lurking behind Horikita or
+[mentioned] (p.156) Passing mention — Huh? Here? Eating with Horikita and Ayanokōji? I'm not up for that.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.230–232 — SS/Credits: passing mentions (locator cross-check)
+[mentioned] (p.230) Passing mention — Even though I was extremely interested in Ayanokōji-kun's past, I definitely
+[mentioned] (p.231) Passing mention — one in front of me wasn't just a someone,' it was Ayanokōji-kun.
+[mentioned] (p.232) Passing mention — Indeed, it was a typical Ayanokōji-kun move.
+
+<!-- walk: y2v10 Epilogue → p.235 -->
 ## y2v10.25
 
 <!-- walk: y2v10.25 → start -->

@@ -985,6 +985,11 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [rel:shiina-hiyori] (p.205) Her worry registers him first; he doesn't reciprocate it in any way she can tell.
 
 <!-- walk: y2v10 Ch.7 → p.216 -->
+
+### y2v10 p.229–229 — SS/Credits: passing mentions (locator cross-check)
+[mentioned] (p.229) Passing mention — Perhaps only Katsuragi-kun in my class understood this. He was much more
+
+<!-- walk: y2v10 Epilogue → p.235 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

@@ -723,3 +723,10 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [note] (p.48) The page credits her with understanding why Horikita made that tough decision at the time — irritation, not hostility.
 
 <!-- walk: y2v10 Ch.2 → p.59 -->
+
+### y2v10 p.132–188 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.132) Passing mention — Kōenji Rokusuke,' Hasebe Haruka,' Hirata Yōsuke,' Yukimura
+[mentioned] (p.148) Passing mention — 'Kōenji Rokusuke,' Hasebe Haruka,' Hirata Yōsuke,' Yukimura
+[mentioned] (p.188) Passing mention — Karuizawa Kei,' Hasebe Haruka,' Onodera Kayano'
+
+<!-- walk: y2v10 Ch.6 → p.188 -->

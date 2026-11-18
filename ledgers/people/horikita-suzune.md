@@ -4737,7 +4737,6 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:hirata-yousuke] (p.45–50) He backs her from the first pre-lunch question to the end; they alternate explaining and eating.
 [trait] (p.31) Received hints from senpais; more concerned than the class; keeps it off her face.
 
-<!-- walk: y2v10 Ch.2 → p.59 -->
 
 ### y2v10 p.81–89 — Ch.4: The karaoke; the 68-point autopsy
 [scene] (p.81) Wednesday afternoon, two days before the exam; Ike stands up with his winning strategy; she responds seriously but shuts down on-the-spot strategy talk.
@@ -4929,7 +4928,6 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says:horikita-suzune] (p.201) “I’m going to check out Ryūen’s class. What are you going to do?”
 [says:ayanokouji-kiyotaka] (p.201) “I’ll go home for today. I don’t have the confidence that I can listen to his sarcasm maturely.”
 
-<!-- walk: y2v10 Ch.7 → p.216 -->
 
 ### y2v10 p.230–231 — SS: Suzune Horikita’s Short Story: Unconscious Awakening
 [scene] (p.230) Horikita recounts the coffee scene from her own POV — the same one the main volume told chronologically; she finds him wryly funny.
@@ -4953,6 +4951,37 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (p.230–231) The SS recounts the coffee scene from her POV; the same dialogue runs in both directions, mirrored; no new facts.
 
 <!-- walk: y2v10 Epilogue → p.235 -->
+
+### y2v10 p.108–120 — Ch.5: passing mentions (locator cross-check)
+[mentioned] (p.108) Passing mention — directly with Horikita.
+[mentioned] (p.109) Passing mention — intended that, it would be proper to talk to Horikita-san directly.
+[mentioned] (p.120) Passing mention — Ayanokōji and Horikita's class would stand to lose if they got first.
+
+<!-- walk: y2v10 Ch.5 → p.122 -->
+
+### y2v10 p.189–215 — Ch.7: passing mentions (locator cross-check)
+[mentioned] (p.189) Passing mention — This time, the target shifted from Horikita's class to Ryūen's.
+[mentioned] (p.193) Passing mention — They tried to defend against Horikita's attacks as much as possible and aim
+[mentioned] (p.199) Passing mention — 3rd: Horikita 【Class B】59 points
+[mentioned] (p.204) Passing mention — Horikita determined her goal and deliberately orchestrated the strategy in the
+[mentioned] (p.205) Passing mention — Horikita, relegating Sakayanagi's position to the very bottom.
+[mentioned] (p.211) Passing mention — benefits, he'll accept it without hesitation. Horikita and Ichinose wouldn't have
+[mentioned] (p.215) Passing mention — On the other hand, Horikita and Ichinose possess passion. It's strange.
+
+<!-- walk: y2v10 Ch.7 → p.216 -->
+
+### y2v10 p.51–58 — Ch.2: passing mentions (locator cross-check)
+[mentioned] (p.51) Passing mention — course, Horikita, who is serving as the leader, fully understands this.
+[mentioned] (p.58) Passing mention — out as much, if not more than, Horikita. Additionally, I was being warily watched.
+
+<!-- walk: y2v10 Ch.2 → p.59 -->
+
+### y2v10 p.60–79 — Ch.3: passing mentions (locator cross-check)
+[mentioned] (p.60) Passing mention — Bearing the responsibility for leading the class, I hoped that Horikita had
+[mentioned] (p.78) Passing mention (see p.78).
+[mentioned] (p.79) Passing mention — Well, that makes things easy. I'll tell Horikita that there's no need to
+
+<!-- walk: y2v10 Ch.3 → p.80 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

@@ -651,7 +651,6 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [rel:katsuragi-kouhei] (p.202) He strides toward the mall; she tolerates his posturing silently.
 [rel:ishizaki-daichi] (p.202) He leaps about in the joy of the winner; she doesn’t share it today.
 
-<!-- walk: y2v10 Ch.7 → p.216 -->
 
 ### y2v10 p.229 — SS: Shiina Hiyori's Short Story: A Small Spark
 [scene] (p.229) Hiyori recounts the hallway conversation with Ayanokōji from her own POV — the small spark of doubt about Ryūen's approach and the future of her class.
@@ -668,6 +667,12 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [rel:katsuragi-kouhei] (p.229) He is the only one in Class D who truly sees her; his presence is a quiet anchor.
 
 <!-- walk: y2v10 Epilogue → p.235 -->
+
+### y2v10 p.189–190 — Ch.7: passing mentions (locator cross-check)
+[mentioned] (p.189) Passing mention — One of them was the conversation about eliminating Shiina Hiyori and
+[mentioned] (p.190) Passing mention — Immediately, she had reset her self-imposed challenge regarding Shiina in
+
+<!-- walk: y2v10 Ch.7 → p.216 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

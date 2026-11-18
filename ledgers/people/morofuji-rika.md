@@ -131,6 +131,11 @@ char_id: morofuji-rika · class: Class 1-D · status: minor (allies)
 [note] (p.138) No dialogue attributed to him.
 
 <!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.189–189 — Ch.7: passing mentions (locator cross-check)
+[mentioned] (p.189) Passing mention — people merely in the first half: Ishizaki, Isoyama, Yano, and Morofuji.
+
+<!-- walk: y2v10 Ch.7 → p.216 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

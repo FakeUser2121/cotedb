@@ -157,6 +157,9 @@ char_id: onodera-kayano · status: minor
 [scene] (p.188) Turn 18 defence — she stands with Kei and Hasebe Haruka as protected members.
 [note] (p.132) She is among the three correct students of turn 2; the page does not record her demeanor.
 
+### y2v10 p.148–148 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.148) Passing mention — Teruhiko, Onodera Kayano'
+
 <!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v11
 

@@ -43,6 +43,11 @@ char_id: isoyama-nagisa · class: unknown · status: unknown
 [note] (p.138) No dialogue attributed to him; he is only in the monitor's elimination list.
 
 <!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.189–189 — Ch.7: passing mentions (locator cross-check)
+[mentioned] (p.189) Passing mention — people merely in the first half: Ishizaki, Isoyama, Yano, and Morofuji.
+
+<!-- walk: y2v10 Ch.7 → p.216 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

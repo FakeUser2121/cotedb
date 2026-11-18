@@ -672,3 +672,9 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 
 
 <!-- walk: y2v12 Epilogue → p.228 -->
+
+### y2v10 p.136–187 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.136) Passing mention — Kōenji Rokusuke,' Sotomura Hideo,' Miyake Akito'
+[mentioned] (p.187) Passing mention — Karuizawa Kei,' Satō Maya,' and Miyake Akito'
+
+<!-- walk: y2v10 Ch.6 → p.188 -->

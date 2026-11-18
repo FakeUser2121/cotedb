@@ -584,4 +584,9 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 [note] (p.144) She is the homeroom teacher type who feels outclassed by her own students' strategy — the pages show her struggling to keep up with the tempo.
 [trait] (p.147, 149) No-nonsense; observant; quietly defeated by the class's collective calm.
 
+### y2v10 p.145–175 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.145) Passing mention — Hoshinomiya cheered them on, treating the fact that they couldn't withstand
+[mentioned] (p.146) Passing mention — Hoshinomiya quickly finished inputting the names, but she was taken aback
+[mentioned] (p.175) Passing mention — Hey, be respectful when addressing the teacher, Hoshinomiya interjected,
+
 <!-- walk: y2v10 Ch.6 → p.188 -->

@@ -1974,7 +1974,6 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [mentioned] (p.86) Passing mention: "Ichinose-san and Sakayanagi-san will also positively consider this option." — in the gang-up scenario, her class would likely sign on.
 [mentioned] (p.96) Passing mention: "On the contrary, in Ichinose’s case, she doesn’t think about expelling the other party." — the page contrasts her style with Ryūen's and Sakayanagi's.
 
-<!-- walk: y2v10 Ch.4 → p.100 -->
 
 ### y2v10 p.106–118 — Ch.5: The pre-exam inspection visit
 [scene] (p.106) The day off; she texts ahead via Kanzaki; the four of them arrive together — Kanzaki, Watanabe, Ichinose, Amikura — coded around the unstated reason; snacks in hand; she wants his ear but not his agreement.
@@ -2024,7 +2023,6 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:kanzaki-ryuuji] (p.106–109) She rides in under his auspices; he resents it; she manages him gently.
 [rel:amikura-mako] (p.107–109) Her best friend; the fourth seat; she minds the breach with gentle rebuke.
 
-<!-- walk: y2v10 Ch.5 → p.122 -->
 
 ### y2v10 p.127–136, 160, 163–188 — Ch.6: The unseen game-changer
 [scene] (p.127) Our class's lead attack lands on her plate: English D1; she protects Ninomiya and Watanabe — her two English-R strugglers; Kobashi and Shibata prove the rest right; she pockets four points.
@@ -2047,7 +2045,6 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:ryuuen-kakeru] (p.180–183) The secret negotiation; she loses him at the final hurdle; her conscience wins (or loses) anyway.
 [rel:horikita-suzune] (p.170–188) The foil; she tests Horikita's promise with the Kei carousel; she discovers what protection means to Horikita.
 
-<!-- walk: y2v10 Ch.6 → p.188 -->
 
 ### y2v10 p.199–200 — Ch.7: The burst-in apology
 [scene] (p.199) Ichinose bursts into the Class B room right after the exam is declared complete; apologizes to Karuizawa; Satō jumps protectively in front of Kei; Horikita steps up from the back seat.
@@ -2066,7 +2063,54 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [says:ichinose-honami] (p.200) “You, Karuizawa-san, have been playing a central role among the girls, and naturally, Horikita-san would think of protecting you from being eliminated, wouldn’t she? That’s why I planned to keep nominating you from the beginning. However, I thought you must’ve been feeling anxious, so I rushed over here. I’m truly sorry!”
 [scene] (p.201) Ichinose continues to apologize several times before leaving to be with her class; Kei processes the logic; Horikita accepts the end-of-fight read, walks out to the hallway to talk with Ayanokōji.
 
+
+### y2v10 p.120–120 — Ch.5: passing mentions (locator cross-check)
+[mentioned] (p.120) Passing mention — drop from the top. Ichinose and Ryūen's classes wouldn't profit substantially.
+
+<!-- walk: y2v10 Ch.5 → p.122 -->
+
+### y2v10 p.123–164 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.123) Passing mention — There was no way Sakayanagi or Ichinose would attack me with a
+[mentioned] (p.125) Passing mention — First, the turn began with Class B, Horikita's class, attacking Ichinose's
+[mentioned] (p.126) Passing mention — against Ichinose's class and Sakayanagi's class.
+[mentioned] (p.128) Passing mention — In Ichinose's class, three students had opted out of doing the English'
+[mentioned] (p.129) Passing mention — It was a painful situation, as Ichinose had gained four points in comparison,
+[mentioned] (p.131) Passing mention — Ichinose's class failed to protect any students, and two of them got the
+[mentioned] (p.134) Passing mention — points, Horikita's class in second place with 10 points, Ichinose's class in third
+[mentioned] (p.138) Passing mention — 3rd: Ichinose【Class C】24 points, with no losses.
+[mentioned] (p.139) Passing mention — In spite of this, only Ichinose's class had yet to have any eliminations.
+[mentioned] (p.144) Passing mention — Ryūen, who received the first attack from Ichinose's class, had only one
+[mentioned] (p.145) Passing mention — who were up against her class led by Ichinose, score points. If they kept getting
+[mentioned] (p.160) Passing mention — Speaking of which, the only one not here is Ichinose, right?
+[mentioned] (p.163) Passing mention — However, compared to Ichinose's class, information seemed scarce, and it
+[mentioned] (p.164) Passing mention — with 24 points and temporarily tied with Ichinose.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.189–215 — Ch.7: passing mentions (locator cross-check)
+[mentioned] (p.189) Passing mention — In the first half, Ichinose's way of fighting was more determined than
+[mentioned] (p.193) Passing mention — that Ichinose was assisting Horikita. A strategy was being constructed—to use a
+[mentioned] (p.204) Passing mention — I also wanted to see how Ichinose's and Sakayanagi's classes were doing.
+[mentioned] (p.211) Passing mention — benefits, he'll accept it without hesitation. Horikita and Ichinose wouldn't have
+[mentioned] (p.215) Passing mention — On the other hand, Horikita and Ichinose possess passion. It's strange.
+
 <!-- walk: y2v10 Ch.7 → p.216 -->
+
+### y2v10 p.223–224 — Epilogue: passing mentions (locator cross-check)
+[mentioned] (p.223) Passing mention — Ichinose, Sakayanagi, whomever.
+[mentioned] (p.224) Passing mention — About Ichinose Honami.
+
+### y2v10 p.233–235 — SS/Credits: passing mentions (locator cross-check)
+[mentioned] (p.233) Passing mention — haven't seen a special exam in a very long time so that was nice. Ichinose seemed
+[mentioned] (p.234) Passing mention — Ichinose stocks up, I kneel to our new queen. Also hi Nathan :D
+[mentioned] (p.235) Passing mention — Ichinose still the goat, my queen on the come up. Let's go Ichinose!!!!
+
+<!-- walk: y2v10 Epilogue → p.235 -->
+
+### y2v10 p.87–87 — Ch.4: passing mentions (locator cross-check)
+[mentioned] (p.87) Passing mention — and Ichinose's classes, the bottom two, would want as many class points as
+
+<!-- walk: y2v10 Ch.4 → p.100 -->
 ## y2v10.25
 
 <!-- walk: y2v10.25 → start -->

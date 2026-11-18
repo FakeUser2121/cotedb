@@ -272,7 +272,30 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 [scene] (p.157) The wolf taunt is over; he disappears into the background; his purpose is clear — he protects her at all costs.
 [note] (p.156) "Kitō-kun" — the diminutive from Sakayanagi; he's her right-hand man.
 
+### y2v10 p.148–160 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.148) Passing mention — on so soon. Sensing a change from his usual cheerful demeanor, Kitō slowly pulled
+[mentioned] (p.150) Passing mention — Having understood those words, Kitō muttered so.
+[mentioned] (p.151) Passing mention — Rather than thinking negatively, Kitō advised that they should target Kōenji
+[mentioned] (p.155) Passing mention — Masumi-san and Kitō-kun are buying lunch for me now. They should arrive
+[mentioned] (p.158) Passing mention — of about eight people, centering on the students supporting Sakayanagi, like Kitō,
+[mentioned] (p.160) Passing mention — instead, only push key players like Kamuro or Yamamura, as well as Kitō or
+
 <!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.192–212 — Ch.7: passing mentions (locator cross-check)
+[mentioned] (p.192) Passing mention — Kitō and Hashimoto immediately rose.
+[mentioned] (p.212) Passing mention — If she showed signs of whispering to Kamuro or Kitō, Hashimoto would
+
+<!-- walk: y2v10 Ch.7 → p.216 -->
+
+### y2v10 p.217–223 — Epilogue: passing mentions (locator cross-check)
+[mentioned] (p.217) Passing mention — Kitō told me when I went to check on Class A.
+[mentioned] (p.223) Passing mention — Kitō-kun were the same. They were close to me, but only to be used as tools.
+
+### y2v10 p.232–232 — SS/Credits: passing mentions (locator cross-check)
+[mentioned] (p.232) Passing mention — Kitō-kun were the same. They were close to me, but only to be used as tools.
+
+<!-- walk: y2v10 Epilogue → p.235 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

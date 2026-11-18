@@ -150,6 +150,9 @@ char_id: amikura-mako · class: Class 1-B · status: minor (allies)
 [rel:watanabe-norihito] (p.106–109) He likes Mako-chan; she is aware; she hears everything.
 [rel:kanzaki-ryuuji] (p.108) She agrees publicly with the coordination logic; he is relieved to find an ally.
 
+### y2v10 p.117–117 — Ch.5: passing mentions (locator cross-check)
+[mentioned] (p.117) Passing mention — What did Amikura look like today? Was she watching me? Was my story
+
 <!-- walk: y2v10 Ch.5 → p.122 -->
 ## y2v10.25
 
