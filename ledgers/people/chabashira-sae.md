@@ -1164,6 +1164,11 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:horikita-suzune] (p.18) Horikita stands and floats "a battle through conversation" as a possibility; Chabashira answers only that it is quite possible, without confirming.
 
 <!-- walk: y2v12 ch1 → p.25 -->
+### y2v12 p.67–68 — Ch.3: Present for the rules
+[scene] (p.67) She steps into the representative waiting room with Mashima-sensei; the atmosphere snaps tight; she takes position; Mashima introduces himself and the exam's big picture; she says nothing beyond what the script requires.
+[note] (p.67–68) She backs her class silently; all second-year homeroom teachers are present in the special building today; she is one of the watchers, not the stage.
+
+<!-- walk: y2v12 ch3 → p.86 -->
 
 ## y2v12.5
 

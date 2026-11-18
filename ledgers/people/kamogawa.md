@@ -68,6 +68,26 @@ char_id: kamogawa · class: unknown · status: unknown
 [rel:ayanokouji-kiyotaka] (p.43–46) Assigned by him to select a facility location; eager to prove himself.
 [rel:kamogawa-toshizou] (p.45) Invokes his father's name to claim he can be useful.
 
+### y0 p.58–63 — Saitama found; the plan for children
+[scene] (p.58) Wakes Atsuomi at the office with the news: the ideal location found — a bankrupt Saitama pharmaceutical factory an hour from the nearest station.
+[says] (p.58) “Ayanokouji-san, please wake up! We've found it, the ideal location!”
+[says] (p.59) “It's a good place, isn't it?”
+[says] (p.59) “Yes. I asked someone I know in the construction industry. Of course, I haven't mentioned this project at all, so don't worry… What do you think?”
+[says] (p.60) “What about the intermediary? Shall we skip them?”
+[says] (p.60) “Understood.”
+[says] (p.60) “If things go smoothly… what about the children? Even if we have the money and facilities, and the educators are ready, it's useless without the children, right?”
+[says] (p.60) “You've figured it out? Can you be more specific? I'm part of the team, after all.”
+[says] (p.60) “No… I definitely don't want that…!”
+[says] (p.61) “Is that how it is?”
+[says] (p.61) “…I see.”
+[says] (p.62) “You're preparing to abandon giving the perfect education for the first few years, right?”
+[says] (p.62) “But can education even be given to infants? They can't even understand words, right?”
+[says] (p.62) “Baby signs? What's that?”
+[says] (p.62) “Ah…”
+[note] (p.58–60) The location — Saitama, an hour from the nearest station, no bus access, asking price 2.4 million yen; rent first, buy later; 3D model built through his construction-industry connection.
+[rel:ayanokouji-atsuomi] (p.58–63)
+[rel:ooba] (p.60–63)
+
 ### y0 p.70–76 — Reporting the facility complete; the interviews
 [narrates] (p.70) "'All construction is completed.'"
 [narrates] (p.70) "'But to rebuild it so beautifully with that budget… Normally, it would cost nearly double the amount.'"
@@ -76,3 +96,30 @@ char_id: kamogawa · class: unknown · status: unknown
 [narrates] (p.76) "'Ah, it's over… I'm more tired than I thought.'"
 [trait] (p.70–76) Admiring and out of his depth — impressed by the funding and the White Room name, exhausted by the interviews, and worried about the questionable hires.
 [rel:ayanokouji-kiyotaka] (p.70–76) Reports to him and accompanies the interviews.
+
+### y0 p.76–84 — Tsukishiro's business card; sent away to eat
+[scene] (p.76) Exhausted after the four-PM interviews (eight PM finish); picks up Tsukishiro's dropped business card at the office.
+[says] (p.76) “Ah, it's over… I'm more tired than I thought.”
+[says] (p.76) “Ayanokouji-san, I think you dropped something?”
+[says] (p.78) “Um, what happened?”
+[note] (p.76) Eight PM — six interviews done; he is worn out; Atsuomi invites him to a meal.
+[note] (p.77) Atsuomi dials the card's number; Tsukishiro answers without hesitation, having foreseen the call.
+[note] (p.78) Atsuomi sends him to eat alone while he meets Tsukishiro.
+[rel:ayanokouji-atsuomi] (p.76–78)
+[rel:tsukishiro] (p.76–78)
+
+### y0 p.90–95 — The White Room meeting: three groups, three years
+[scene] (p.90) Arrives at the White Room to check on progress; sits through the four researchers' first face-to-face meeting.
+[says] (p.90) “Good work, Ayanokouji-san. As for the important piece—the children… is the arrangement progressing?”
+[says] (p.90) “Ah, I see… of course, you don't have to tell me the details. I still, uh, don't want to get caught.”
+[says] (p.92) “That sounds… quite difficult. It's not exactly clean…”
+[says] (p.92) “Such a person… Though, while it's good news that he's found, there has to be some concerns, aren't there?”
+[says] (p.93) “What is this disrespectful attitude towards Ayanokouji-san? I know you've been paid a decent amount of money during the preparation phase.”
+[says] (p.95) “It's like the ruling party and the opposition, isn't it?”
+[note] (p.93) Reprimanded by Atsuomi for jumping to conclusions.
+[note] (p.94–95) The plan: three parallel groups of five children each — Ishida, Souya, Suzukake — a three-year race; winner becomes the White Room's official leader; Tabuchi monitors all three.
+[rel:ayanokouji-atsuomi] (p.90–95)
+[rel:ishida-yuusuke] (p.93–95)
+[rel:suzukake-tanji] (p.93–95)
+[rel:souya] (p.93–95)
+[rel:tabuchi] (p.93–95)

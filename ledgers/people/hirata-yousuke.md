@@ -1655,6 +1655,15 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:chabashira-sae] (p.16) Draws out of her the existence of unspecified participant roles.
 
 <!-- walk: y2v12 ch1 → p.25 -->
+### y2v12 p.64–83 — Ch.3: Selected as vanguard
+[scene] (p.64) Exam morning; he greets Ayanokōji at the special building door with a dazzling smile; he waits with him and Horikita; he inspects the opponent tree with him; the three 2-B reps walk in — the last group to arrive.
+[says] (p.64) "Good morning, Kiyotaka-kun."
+[scene] (p.69–70) The monitor lists the nine representatives and the battle order; he takes vanguard for Class B: 5 lives against Hamaguchi's 5; he looks serious but keeps the friendly light on.
+[scene] (p.79–83) During the waiting-room hour he and Horikita discuss the upcoming discussion-rules; he asks whether Ike and the others can grasp their roles; he builds the five groups alongside Horikita — his role is support, not pressure; he observes the opposing reps without hiding interest.
+[rel:horikita-suzune] (p.64–83) Group-building partner; worried for participant readiness.
+[rel:ayanokouji-kiyotaka] (p.64–83) Waits with him; builds groups with him and Horikita; friendly as ever.
+
+<!-- walk: y2v12 ch3 → p.86 -->
 
 ## y2v12.5
 

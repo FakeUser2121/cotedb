@@ -262,6 +262,40 @@ char_id: ayanokouji-atsuomi · role: White Room director, Ayanokōji’s father 
 [note] (p.48–49) Sakayanagi Narimori (Arisu's father) receives him — slender, gentle, feigning humility. He says Naoe spoke highly of Ayanokouji and that they are the same age. His own lines are recorded on his own card.
 [trait] (p.48–49) Confident but mannerly — chooses to sit without making himself small, while knowing he is the one asking a favor.
 
+### y0 p.55–57 — The ANHS condition; the meal invitation
+[scene] (p.55) The pitch reaches its final stretch — Sakayanagi finally agrees to introduce him, on one condition.
+[narrates] (p.56) “I promise. If the facility is actually built, Sakayanagi-san, you're free to come and go as you please.”
+[narrates] (p.56) “An invitation to a meal—a service to make a superficial relationship seem appropriate.”
+[note] (p.55) Sakayanagi says his father's and his own educational philosophies differ greatly from Atsuomi's — but it's an important approach; his father runs ANHS as a separate attempt.
+[note] (p.56) His condition: when the project is realized, he may come and observe the methods up close — he would learn a lot.
+[note] (p.56–57) He suspects Sakayanagi has an ulterior motive but cannot check him — the risk of silence is acceptable; he accepts the dinner invitation as the price of access.
+[rel:sakayanagi-narimori] (p.55–57)
+
+### y0 p.58–63 — The Saitama property; the hidden plan for children
+[scene] (p.58) Kamogawa bursts into the office: the ideal location found — a bankrupt Saitama pharmaceutical factory over an hour from the nearest station.
+[narrates] (p.60) “No, since we're already involving an intermediary, any petty tricks might backfire. It's better to have them on our side and move forward.”
+[narrates] (p.60) “The world has things better left unknown. If you learn of these things carelessly, I won't be able to help you in an emergency. Not only would I no longer be a politician, but are you prepared to spend years, even decades, in prison?”
+[note] (p.58–60) The location — Saitama, deep in the mountains, no bus access, asking price 2.4 million yen; rent first, purchase later after negotiation; Kamogawa's 3D model impresses him.
+[note] (p.61–62) The hidden plan: illegally obtain newborns through the Ooba group from underground brokers; a phony "you can't raise this child" hospital receptacle; contracts under-28-days; health management to six months; education from day zero; baby signs.
+[rel:kamogawa] (p.58–63)
+[rel:ooba] (p.58–63)
+
+### y0 p.64–69 — Kabukicho; the seven names
+[scene] (p.64) Late-night cabaret club in Kabukicho he visits two or three times a month; Mika waits in the VIP room she reserves for him.
+[narrates] (p.65) “I have a favor to ask you.”
+[narrates] (p.65) “That's not possible.”
+[narrates] (p.66) “For a woman who knows nothing about the world of politics, you sure talk big.”
+[narrates] (p.67) “Do you recognize any faces here, or see someone you might be able to pull in?”
+[narrates] (p.68) “This Sonezaki is a married man with two daughters who are in middle school. As a wealthy man, it's natural for him to have affairs, but he wouldn't want his family to know about them.”
+[narrates] (p.68) “Try to hit on the rest of the people as much as you can too.”
+[narrates] (p.68) “And one more thing. I want you to get close to Sasada. Lately, it seems his position has been rising. I want to hold one or two weaknesses over him.”
+[narrates] (p.68) “Then that's perfect. Fulfill his wish. Extract more money from him than he's expecting.”
+[note] (p.67) Seven business figures laid out as photos; Mika identifies Sonezaki as a regular at the sister club Sophia — a married man with two middle-school daughters.
+[note] (p.68) The scheme: Mika uses her body and information networks to secure leverage over the seven; politics as a game of secrets.
+[rel:mika] (p.64–69)
+[rel:sonezaki] (p.67–68)
+[rel:sasada] (p.68)
+
 ### y0 p.70–71 — The White Room facility named; the mentor's warning
 [scene] (p.70) Reviews photos of the finished facility in Saitama; Kamogawa reports construction complete.
 [narrates] (p.70) "'We'll call it White Room. We want to emphasize white's purity in the image.'"

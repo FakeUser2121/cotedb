@@ -1,19 +1,16 @@
-# Ijuin Wataru — walk ledger
-
-char_id: ijuin-wataru · class: unknown · status: unknown
-
-## y2v2
-
-<!-- walk: y2v2 → start -->
-
 ## y3v3
 
 <!-- walk: y3v3 → start -->
 
-<!-- walk: y3v3 Epilogue → p.256 -->
 
 
 <!-- walk: y2v2 Epilogue → p.354 -->
+
+### y3v3 p.21 — Named on the beach (Class A)
+[mentioned] (p.21) Named on the beach, “figures like Onizuka and Ijuuin chatting happily and getting excited,” seeming confident about survival games. Not a scene presence.
+[note] (p.62) The text later names an "Ijuuin" of Horikita's class who knew firearms — but no given name is ever printed, so Kō and Wataru cannot be told apart from the volume alone.
+
+<!-- walk: y3v3 Epilogue → p.256 -->
 
 ## y2v4.5
 

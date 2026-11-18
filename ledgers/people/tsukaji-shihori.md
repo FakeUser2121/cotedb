@@ -1,19 +1,16 @@
-# Tsukaji Shihori — walk ledger
-
-char_id: tsukaji-shihori · class: unknown · status: unknown
-
-## y2v2
-
-<!-- walk: y2v2 → start -->
-
 ## y3v3
 
 <!-- walk: y3v3 → start -->
 
-<!-- walk: y3v3 Epilogue → p.256 -->
 
 
 <!-- walk: y2v2 Epilogue → p.354 -->
+
+### y3v3 p.44 — Appointed scout
+[scene] (p.44) Named during the role assignment — appointed class Scout, the only student who can detect other classes' presence in her area and the surrounding eight.
+[action] (p.44) Appointed Scout; the remaining students all become Guards.
+
+<!-- walk: y3v3 Epilogue → p.256 -->
 
 ## y2v12
 

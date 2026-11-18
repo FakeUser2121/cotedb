@@ -1,19 +1,15 @@
-# Nakanishi — walk ledger
-
-char_id: nakanishi · class: unknown · status: unknown
-
-## y2v2
-
-<!-- walk: y2v2 → start -->
-
 ## y3v3
 
 <!-- walk: y3v3 → start -->
 
-<!-- walk: y3v3 Epilogue → p.256 -->
 
 
 <!-- walk: y2v2 Epilogue → p.354 -->
+
+### y3v3 p.17 — Absent with a fever
+[mentioned] (p.17–18) Third-year Class D; absent from the special exam due to a fever — Mashima announces his class begins with one less person; the absence is touched on lightly with no heavy penalty. Not a scene presence.
+
+<!-- walk: y3v3 Epilogue → p.256 -->
 
 ## y2v12
 

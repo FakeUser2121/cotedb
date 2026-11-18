@@ -10159,3 +10159,22 @@ walk: y1v1 → DONE
 [rel:hashimoto-masayoshi] (p.142–144) He fishes for Sakayanagi intel; he unravels anyway; he hints he might misjudge Sakayanagi's reach; he heads to the empty lobby toilet.
 
 <!-- walk: y2v11 ch5 → p.144 -->
+
+### y2v11 p.145–151 — Ch.6: Morning training, third days
+[scene] (p.145) Day 3 morning; Horikita and Ibuki still show up; he trains them once more.
+[says:ibuki-mio] (p.145) “You, do the match with us blindfolded today.”
+[says:ibuki-mio] (p.145) “I have to kick you at least once, or I'll be frustrated.”
+[note] (p.145) He declines the blindfold; Ibuki goes to the toilet for ages.
+[says:horikita-suzune] (p.146) “There's something I realized today.”
+[says:horikita-suzune] (p.146) “The reason you set the revenge match against Amasawa-san on the morning of the fourth day as a condition. It could’ve been to increase the amount of special training sessions as much as possible.”
+[says:horikita-suzune] (p.145) “Blindfolding him won't help with the training, so rejected.”
+[says:ibuki-mio] (p.147) “I thought I was fine. But when it gets cold, I have to go a little, so wait for me.”
+[says:ibuki-mio] (p.148) “Damn! I missed! I even took the long way back!”
+[note] (p.148) Ibuki attacks him by ambush with an excited shout; he reads her; Horikita berates her.
+[note] (p.148–149) Ibuki drops the Yagami-kun bomb; Yagami's name surfaces again; she digs in; Horikita shuts it down.
+[says:horikita-suzune] (p.148) “Ishizaki-kun? Have you had a dispute with Ishizaki-kun too?”
+[says:ibuki-mio] (p.149) “Yagami? Why is Yagami coming up now? I don't use violence against my kōhais. I'd like to exclude the Hōsen incident though.”
+[says:ibuki-mio] (p.149) “Who's Yagami? Was there someone like that?”
+[says:horikita-suzune] (p.149) “...Fine. We don't have much time, so can we start the special training?”
+
+<!-- walk: y2v11 ch6 → p.167 -->

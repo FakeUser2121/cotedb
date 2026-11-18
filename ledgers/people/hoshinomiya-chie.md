@@ -303,6 +303,16 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 [note] (p.11) The monologue reframes everything that follows: her patience and her hostility toward Ayanokōji in Ch.3 both flow from this oath.
 
 <!-- walk: y2v12 ch1 → p.25 -->
+### y2v12 p.65–66, 84–86 — Ch.3: Body check, then the hallway
+[scene] (p.65) She and Sakagami collect the representatives' phones into white cases; she runs a handheld metal detector over the reps from head to toe — thorough and impassive; she clears them all; the reps submit to it without query.
+[says:sakagami] (p.65) "Please submit all phones, other metals, and electronic devices you have."
+[scene] (p.84–86) After the reps disperse to plan, she corners Ayanokōji in the hallway on his way to the restroom; she tells him straight she hadn't expected him as general; bluntly asks him to hold back; sweetens with third-year exam leaks; steps to arm's length; touches his ear; he declines everything; she ends on "Sae-chan is the one I definitely can't lose to."
+[says] (p.84) "Going to the restroom? Can I have a moment?"
+[says] (p.85) "Sae-chan is the one I definitely can’t lose to. For that, I’m willing to do anything."
+[rel:ayanokouji-kiyotaka] (p.84–86) Presses him to fold; he declines; she takes it as an opening for worse.
+[note] (p.84–86) Her resolve is authentic; the proximity touch is both provocation and test; he logs every word as evidence of what she'll do next.
+
+<!-- walk: y2v12 ch3 → p.86 -->
 
 ## y2v12.5
 

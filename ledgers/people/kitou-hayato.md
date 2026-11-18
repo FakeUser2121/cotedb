@@ -1,106 +1,10 @@
-# Kitō Hayato — walk ledger
-
-char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
-
-## y2v1
-
-<!-- walk: y2v1 → start -->
-
-### y2v1 p.18, 108–110, 194 — Kitō mentioned in passing
-[scene] (p.18) Named in the classroom context.
-[scene] (p.108–110) Named in the group context.
-[scene] (p.194) Named in the council context.
-[note] (p.18, 108–110, 194) Passing mentions; not a distinct scene presence.
-[mentioned] (p.18, 108–110, 194) Passing mention only.
-
-<!-- walk: y2v1 Ch.2 → p.194 -->
-
-## y1v7
-
-<!-- walk: y1v7 → start -->
-
-### y1v7 p.112, 115–116 — Ch.4: the white gloves
-[scene] (p.112) Named among Sakayanagi’s Class A followers; steps forward in a fighting stance after the kick and offers to correct Kouenji.
-[note] (p.112) One of two unknown Class A faces with Kamuro and Hashimoto; later named Kitou.
-[note] (p.115) Immediately takes a fighting stance when Ryuuen’s kick is blocked.
-[note] (p.116) “Knock it off, Kouenji,” removing white gloves that are not for the cold; offers to correct the boy’s behavior for Sakayanagi.
-[rel:sakayanagi-arisu] (p.112–116) The bodyguard who asks before he acts.
-[rel:ryuuen-kakeru] (p.115) Faces him after the kick.
-[rel:kouenji-rokusuke] (p.116) The target of the correction offer.
-[rel:sudou-ken] (p.116) Sudou’s white-glove manga aside is about him.
-[trait] (p.112–116) Gloved, formal, ready; the demon-glove rumor starts on his hands.
-
-<!-- walk: y1v7 ch4 → p.119 -->
-
-## y1v9
-
-<!-- walk: y1v9 → start -->
-
-### y1v9 p.148 — Named with the faction
-[scene] (p.148) The boy from Class A who arrives with Sakayanagi, Hashimoto and Kamuro at the mall’s southern entrance.
-[rel:sakayanagi-arisu] (p.148) Named as one more of her group — narration calls them the main members of the Sakayanagi faction.
-[rel:kanzaki-ryuuji] (p.148) Part of the party that closes on Kanzaki while he is meeting Horikita and Ayanokōji.
-[note] (p.148) Does not speak — listed by name in the narration only.
-
-<!-- walk: y1v9 ch6 → p.150 -->
-
-### y1v9 p.151–164 — Ready from the first exchange
-[scene] (p.151) Brought by Hashimoto as the counterweight to Albert; the pairing is read as his guard.
-[says] (p.156) “Stop it Ishizaki. You’re just gonna hurt yourself. I know you’re confident in your fighting skills, but this isn’t the right place for that, okay?”
-[action] (p.159) Steps into a fighting stance the moment Hashimoto concludes that talk is useless.
-[note] (p.169) Deliberately left out of Sakayanagi’s small group — there is no sign of him at the Class B visit.
-
-<!-- walk: y1v9 ch7 → p.175 -->
-
-## y1v10
-
-<!-- walk: y1v10 → start -->
-
-### y1v10 pp.282 — Ch.6: Present at discussion
-
-[scene] (p.282) Present in the karaoke room with Sakayanagi, Kamuro, and Hashimoto during the discussion about the exposed plan.
-[rel:sakayanagi-arisu] (p.282) Present during her post-mortem with Hashimoto and Kamuro.
-
-<!-- walk: y1v10 Ch6 → p.285 -->
-
-### y1v10 pp.298 — Epilogue: After Totsuka’s expulsion
-
-[scene] (p.298) Moves with Hashimoto to block Katsuragi’s path when he approaches Sakayanagi after Totsuka’s expulsion.
-[rel:sakayanagi-arisu] (p.298) Protects her during the confrontation with Katsuragi.
-[rel:hashimoto-masayoshi] (p.298) Acts with him to block Katsuragi.
-[rel:katsuragi-kouhei] (p.298) Moves to obstruct him.
-
-<!-- walk: y1v10 Epilogue → p.362 -->
-
-## y1v11
-
-<!-- walk: y1v11 → start -->
-
-### y1v11 pp.339–347 — Ch.7: Basketball event
-
-[scene] (p.339) Is selected for Class A’s basketball lineup.
-[scene] (p.343) Guards Sudō after he is substituted in and reveals stronger play than in the first half.
-[scene] (p.344) Provokes Sudō by claiming Class A has little basketball experience.
-[scene] (p.346) Loses the basketball event as Sudō regains focus and leads Class C to victory.
-[rel:sudou-ken] (p.343–347) Guards and provokes him during the basketball match.
-[rel:sakayanagi-arisu] (p.339–347) Plays as part of her basketball strategy.
-
-<!-- walk: y1v11 ch8 → p.367 -->
-
-## y2v12.5
-
-<!-- walk: y2v12.5 → start -->
-
-### y2v12.5 p.11-216 — kitou-hayato mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.55, 95) Passing mentions only: Mii-chan-san recounts seeing Kitō confront Ryūen in the dorm lobby (p.55); Sakayanagi notes Kitō did not come to see her off, unlike Masumi and Hashimoto (p.95). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ## y3v3
 
 <!-- walk: y3v3 → start -->
 
-<!-- walk: y3v3 Epilogue → p.256 -->
+### y3v3 p.41–42 — Named as the class's combat talent
+[mentioned] (p.41) Named by Hashimoto — “Aside from me and Kitou, we don't have many students skilled in this kind of combat.” Not a scene presence.
+[mentioned] (p.42) Named in Ayanokōji's narration as one of the few students who could move — “while students who could move like Kitou and Hashimoto existed.” Not a scene presence.
 
 ### y3v3 p.46–85 — Ch.2 — depth read: Kitou's counterattack
 [says] (p.63) "Let me confirm something, just to be sure. You're aiming to take first place in this exam... Am I right to think that?"
@@ -126,6 +30,9 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 [feat] (p.70) Counterattacks from cover with skill and courage "hard to believe" from someone who had never fired in a real fight, taking out an enemy and halting the assault — giving the front line time to retreat.
 [trait] (p.70) Instinctive and composed under fire — reads the predicament before any verbal order and acts.
 [rel:ayanokouji-kiyotaka] (p.70) Is left to hold off the ambush while the front line withdraws.
+
+<!-- walk: y3v3 Epilogue → p.256 -->
+
 ## y2v2
 
 <!-- walk: y2v2 → start -->
