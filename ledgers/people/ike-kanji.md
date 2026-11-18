@@ -1217,6 +1217,9 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:shinohara] (p.26–27) His new girlfriend — he confessed on the ship and she accepted.
 [rel:komiya] (p.26–30) His rival in love; visits him in the infirmary, feeling he stole a march on him.
 [rel:ayanokouji-kiyotaka] (p.26–28) Asks him to come along for moral support; Ayanokōji goads him about the coming punch.
+
+<!-- walk: y2v4.5 ch1 → p.35 -->
+
 ## y2v5
 
 <!-- walk: y2v5 → start -->

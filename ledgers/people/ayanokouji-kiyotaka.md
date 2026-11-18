@@ -8648,6 +8648,8 @@ walk: y1v1 → DONE
 [rel:komiya] (p.28–30) In the infirmary with an injured leg; Ryūen and classmates had just visited; he notes Ryūen has become "a bit more mellow"; still can't remember being attacked, and Ryūen is investigating who pushed him.
 [rel:ryuuen-kakeru] (p.28–29) Komiya says he's softened; Ryūen left without acknowledging Ayanokōji.
 
+<!-- walk: y2v4.5 ch1 → p.35 -->
+
 ### y2v4.5 p.36–43 — Results check; third-years' stares; Kiryūin at the pool
 [scene] (p.37) Checks the detailed results by the gym — Kōenji 1st, Nagumo 2nd, Sakayanagi 3rd (261), Kiriyama 4th (255, just 6 points behind); all expulsions were third-years.
 [inference] (p.37–38) Heads to the pool to confirm the stares are a coordinated plan, not paranoia — within seconds all third-years at the pool begin watching him; estimates 80–90% chance Nagumo ordered it, but the content is unknown; decides to pretend not to notice.

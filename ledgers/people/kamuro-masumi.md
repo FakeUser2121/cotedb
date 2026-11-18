@@ -339,10 +339,17 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — kamuro-masumi mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.15, p.93-95.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.15, 93–95 — Kamuro: Class A limb; spotted during the Amasawa surveillance
+[mentioned] (p.15) Ayanokōji lists him as one of Sakayanagi's "limbs" alongside Hashimoto and Kitō.
+[scene] (p.93) Sakayanagi lightly taps her cane against the deck — a signal; "As if it were a signal, her classmate Kamuro appeared in the distance." Amasawa spots him and asks whether the upperclassman following her can compete with her; Sakayanagi says she only meant that uncivilized conduct is easily detected.
+[says] (p.94) “That first-year looks dangerous.”
+[says] (p.94) “It's just a feeling. I guess after being around you for so long, I've developed some kind of strange sense. Honestly, I don't want to get involved any further.”
+[scene] (p.95) Sakayanagi thanks him for his work and sends him off; his role in the surveillance is over for now.
+[rel:sakayanagi-arisu] (p.93–95) Her eyes and ears — the follower Amasawa noticed; Sakayanagi deflects the offer to use him further, leaving the surveillance to Yamamura instead.
+
+<!-- walk: y2v4.5 ch1 → p.35 -->
+
 
 ## y2v6
 

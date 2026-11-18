@@ -181,10 +181,26 @@ char_id: komiya-kyogo · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — komiya-kyogo mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.4, p.12, p.26-35, p.178, p.183-185.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.26–35 — Shinohara confession report; the infirmary visit
+[scene] (p.28) Ike and Ayanokōji arrive at the infirmary and find Ryūen's group (Albert, Kaneda, Kondō, Yamawaki) leaving Komiya's room; Komiya, leg fixed in a brace, welcomes them and asks after his condition.
+[says] (p.29) “Well, he certainly has that power. Despite appearances, he just came to visit me.”
+[says] (p.29) “But somethin’ about Ryūen-san’s changed a little bit. He’s become a bit more mellow…or maybe not…”
+[says] (p.29) “If it’s that guy from now, I feel like I can honestly follow him, you know?”
+[says] (p.30) “As you can see, I’m fine except for my leg.”
+[says] (p.30) “I’m in the process of asking for permission to walk on crutches.”
+[says] (p.30) “Ryūen-san’s trying to figure out who pushed me during the exam. He asked me a bunch of questions to see if I remembered anything, but just like I told Ayanokōji, I don’t even remember being attacked at all…”
+[says] (p.32) “If you make Satsuki cry, I’ll show you no mercy.”
+[says] (p.32) “Satsuki’s had her eye on you for a while, that’s why she accepted your confession.”
+[says] (p.34) “I’m against it. To be honest, I’d rather chalk this one up as an accident caused by my own mistake.”
+[trait] (p.29–30) Cheerful and nostalgic despite his injury; his memory of the attack never returned; Ryūen's visit softened his image of him — he now believes he can follow Ryūen honestly.
+[rel:ike-kanji] (p.31–32) His rival in love; accepts the confession gracefully, grabs Ike's shoulder, presses a fist to his chest and extracts a promise that he won't make Shinohara cry.
+[rel:ryuuen-kakeru] (p.28–30) Ryūen visited him in person; snacks and juice were left at his bedside; he worries Ryūen will go too far hunting the culprit.
+[rel:ayanokouji-kiyotaka] (p.33–34) Asks him to keep an eye on Ryūen's culprit hunt in case Shinohara saw the attacker; they exchange contact information.
+[note] (p.28–35) The same scene is recorded in the duplicate ledger komiya.md (this file is the roster entry tracked in content/characters.tsv with y2v4.5 in its volumes cell); the two rows for Komiya are a pre-existing duplication flagged to the owner, not resolved here.
+
+<!-- walk: y2v4.5 ch1 → p.35 -->
+
 
 
 

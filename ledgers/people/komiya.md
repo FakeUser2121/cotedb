@@ -35,3 +35,5 @@ char_id: komiya · class: Class 2-B · status: student (y2v3)
 [rel:ryuuen-kakeru] (p.28–29) Ryūen visited him; he now feels he can follow him "honestly."
 [rel:ike-kanji] (p.28–30) His rival in love, who comes to visit him guilt-ridden over Shinohara.
 [rel:ayanokouji-kiyotaka] (p.29–30) Welcomes him and Ike, discusses his leg and the unresolved attack.
+
+<!-- walk: y2v4.5 ch1 → p.35 -->

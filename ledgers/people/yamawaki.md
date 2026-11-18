@@ -25,10 +25,13 @@ char_id: yamawaki · class: unknown · status: unknown
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — yamawaki mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.28.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.28–29 — Infirmary visit with Ryūen's party
+[scene] (p.28) Named as part of the four-person party (Albert, Kaneda, Kondō, Yamawaki) accompanying Ryūen to the infirmary; they leave before Ike and Ayanokōji enter; Ryūen stands and exits first.
+[mentioned] (p.28) Named in the party list only; no individual line or action.
+
+<!-- walk: y2v4.5 ch1 → p.35 -->
+
 
 
 

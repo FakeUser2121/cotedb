@@ -744,6 +744,9 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [rel:yamada-albert] (p.21) His best friend; inspired his flag-collecting hobby.
 [rel:ryuuen-kakeru] (p.21–22) His class leader; he's returned to following him with determination.
 [rel:nanase-tsubasa] (p.25) Teases Ayanokōji about "dating" her — thinks she's cute.
+
+<!-- walk: y2v4.5 ch1 → p.35 -->
+
 ## y2v5
 
 <!-- walk: y2v5 → start -->

@@ -856,6 +856,10 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 <!-- walk: y2v4.5 → start -->
 
 
+### y2v4.5 p.14 — Class D's new stability
+[mentioned] (p.14) Ayanokōji's assessment of Ryūen's class: "The addition of Katsuragi would raise the overall academic performance of the class and provide them with a sense of stability."
+
+<!-- walk: y2v4.5 ch1 → p.35 -->
 
 ### y2v4.5 p.119–127 — Katsuragi confronts Tokitō; his doubts about Ryūen's class
 [says] (p.119) "There's no way to answer. I keep asking you to clarify what you mean by 'following'."

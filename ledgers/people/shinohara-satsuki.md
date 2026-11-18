@@ -375,10 +375,15 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — shinohara-satsuki mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.27, p.31-34, p.116-117, p.211.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.26–35 — Ike's confession to her; her reply; rivalry with Komiya
+[scene] (p.27) Ike, waiting at Ayanokōji's door, admits he confessed his feelings to her on the way back to the ship after the exam — they were alone for a moment — and he was "so relieved that the island exam was over, Shinohara was right by my side…and then…it just hit me that I didn't want to give her to Komiya."
+[mentioned] (p.27) Ike reports he got the okay — they are dating now; the question of Komiya's reaction hangs over him.
+[mentioned] (p.32) Komiya's warning to Ike about her: “If you make Satsuki cry, I'll show you no mercy.”; Komiya tells him Satsuki "had her eye on you for a while, that's why she accepted your confession."
+[mentioned] (p.33) Shinohara apparently asked about Ike studying properly — Komiya passes it on; Ike: "That's right. I can't afford to get expelled."
+
+<!-- walk: y2v4.5 ch1 → p.35 -->
+
 
 ## y2v5
 

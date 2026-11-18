@@ -2234,6 +2234,10 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
+### y2v4.5 p.12–14 — Class D by the narrowest of margins; the Sakayanagi deal
+[mentioned] (p.13–14) His class ends August at Class D with 551 points — no podium, no class points from the exam; Katsuragi's addition is expected to raise the class's academics and stability; Ayanokōji notes a deal Ryūen made with Sakayanagi (terms unknown) and calls Class D "in name only; in fact, I am sure they don't care one bit."
+
+<!-- walk: y2v4.5 ch1 → p.35 -->
 
 ### y2v4.5 p.182–191 — Ryūen investigates Komiya's attacker
 [says] (p.183) "Nanase Tsubasa, right?"

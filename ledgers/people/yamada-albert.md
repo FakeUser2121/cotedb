@@ -264,10 +264,14 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — yamada-albert mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: none.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.21, 28 — Albert: flag-collecting inspiration; Ryūen's infirmary visit
+[mentioned] (p.21) Ishizaki, flag in hand in the store, says Albert had a collection of flags in his room and that he has been collecting them too — "I dunno, maybe I've been inspired by him."
+[mentioned] (p.21) Asked if he knows Albert, Ishizaki calls him "my best friend"; they often travel together.
+[mentioned] (p.28) Named as part of Ryūen's four-person party (with Kaneda, Kondō, Yamawaki) visiting Komiya in the infirmary; leaves without a line.
+
+<!-- walk: y2v4.5 ch1 → p.35 -->
+
 
 
 

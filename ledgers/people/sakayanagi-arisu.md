@@ -1205,6 +1205,10 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
+### y2v4.5 p.12–15 — August class points: Class A's lead; the "limbs" problem
+[mentioned] (p.13–15) Her class leads August: Class A 1206, Class B 578, Class C (Horikita) 571, Class D 551; Kōenji's 300-point solo win carried the year's race, and Class A's third-place finish in the exam preserved the gap; Ayanokōji contemplates breaking her class via Kamuro, Hashimoto and Kitō ("the limbs", p.15).
+
+<!-- walk: y2v4.5 ch1 → p.35 -->
 
 ### y2v4.5 p.78–85 — Sakayanagi: lunch with Ayanokōji; Ichinose's apology
 [says] (p.78) "It was a coincidence. Or so I would like to say, but I've been chasing after you, Ayanokōji-kun."

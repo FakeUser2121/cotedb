@@ -874,11 +874,13 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
+### y2v4.5 p.12–13, 37 — Kōenji's 300 points; first place in the exam
+[mentioned] (p.13) His solo win earned 300 class points for Class C alone, lifting the class to third by a narrow margin; Ayanokōji calls it "the destructive power of this overwhelming points bonus" and doubts the class's admiration will last.
+[mentioned] (p.37) The exam results: Kōenji's solo group first place, Nagumo's second, Sakayanagi's third; Kiriyama's group fourth with 255 points, six short of the podium.
 
-### y2v4.5 p.10-290 — kouenji-rokusuke mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.13, p.37, p.45, p.48-49, p.87-88.
-[mentioned] (p.10) Passing mention only.
+
+
+<!-- walk: y2v4.5 ch1 → p.35 -->
 
 ## y2v5
 

@@ -818,10 +818,13 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — hashimoto-masayoshi mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.15, p.95.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.15, 95 — Hashimoto: Class A limb; Sakayanagi considers him for surveillance
+[mentioned] (p.15) Ayanokōji counts him among Sakayanagi's "limbs": “if Kamuro, Hashimoto, and Kitō were absent or otherwise made dysfunctional, there was only so much Sakayanagi would be able to do. …the other two seemed to be people with a lot of problems that could be exploited.”
+[mentioned] (p.95) Sakayanagi, having detected Amasawa noticing the surveillance: “If it's him, even if he were seen, he might be able to get through it, but…” — and later: "Will you use Hashimoto?" is Kamuro's question to her (p.95); she does not commit to either.
+
+<!-- walk: y2v4.5 ch1 → p.35 -->
+
 
 ## y2v5
 

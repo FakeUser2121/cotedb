@@ -266,10 +266,14 @@ aliases used for anchors: kaneda, kaneda satoru, kaneda-kun
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — kaneda-satoru mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.21, p.28, p.123.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.21, 28, 123–127 — Kaneda: Ishizaki's "weirdo" comparison; Ryūen's visit; Hiyori's general-counsel line
+[mentioned] (p.21) Ishizaki compares Ayanokōji favourably against him: “You’re way easier to talk to than that weirdo Kaneda.”
+[mentioned] (p.28) Kaneda is one of the four named as accompanying Ryūen to the infirmary (with Albert, Kondō, Yamawaki); leaves without a line.
+[mentioned] (p.123) Hiyori lists "Hiyori, Katsuragi and Kaneda backing me up as general counsel" as the lineup she imagines against Nagumo.
+
+<!-- walk: y2v4.5 ch1 → p.35 -->
+
 
 
 

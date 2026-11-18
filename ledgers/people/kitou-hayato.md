@@ -174,10 +174,13 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — kitou-hayato mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.15-20, p.96-100, p.105-112, p.114-127, p.160.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.15, 237 — Kitō: Class A limb named by Ayanokōji; absent again in Suzune's review
+[mentioned] (p.15) Ayanokōji's read on breaking Sakayanagi: “if Kamuro, Hashimoto, and Kitō were absent or otherwise made dysfunctional, there was only so much Sakayanagi would be able to do. There were unknowns about Kitō, but the other two seemed to be people with a lot of problems that could be exploited.”
+[note] (p.15) The only on-page appearance of Kitō in this volume; he never appears in person in the cruise-ship chapters.
+
+<!-- walk: y2v4.5 ch1 → p.35 -->
+
 
 
 

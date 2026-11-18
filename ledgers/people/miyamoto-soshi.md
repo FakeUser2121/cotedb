@@ -95,10 +95,19 @@ char_id: miyamoto-soshi · class: Class 1-D · status: minor
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — miyamoto-soshi mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.16-18, p.117-119, p.137, p.160.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.16–18 — The cabin conversation about the exam results
+[scene] (p.16) In the cabin, calls out asking who wants to see the exam results; Hondō refuses, Akito waves it off.
+[says] (p.16) “Hey Ryōtarō, the exam results are out. Wanna go take a look?”
+[says] (p.17) “What about you guys, Miyake and Ayanokōji? Aren't you a little curious about your rankings?”
+[says] (p.17) “I was in a group with three guys, so it was a hell of a sweaty time, but you must've been in heaven surrounded by girls, right?”
+[scene] (p.117–118) Back in the cabin, reports that Tokitō had a hold of Katsuragi's collar by the nearby restroom; refuses to get involved because Ryūen could be watching.
+[says] (p.118) “It's none of my business and I'd get in trouble if I got involved.”
+[mentioned] (p.160) Goes with Hondō to the treasure hunt venue.
+[mentioned] (p.217) Roommate present in the cabin in the evening.
+
+<!-- walk: y2v4.5 ch1 → p.35 -->
+
 
 
 

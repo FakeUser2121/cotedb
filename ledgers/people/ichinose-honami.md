@@ -1795,6 +1795,10 @@ aliases used for anchors: ichinose, honami, ichinose-san
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
+### y2v4.5 p.14 — The anxiety of the 27-point gap
+[mentioned] (p.14) Her class rose back to Class B at 578, but "The gap between Class B and Class D was only 27 points"; Ayanokōji concludes her anxiety "must be quite strong" and sends an unsent message in his heart — "The moment of truth will come soon, Ichinose."
+
+<!-- walk: y2v4.5 ch1 → p.35 -->
 
 ### y2v4.5 p.38, 54–58 — Ichinose at the pool; the party she declined
 [scene] (p.38) At the pool with her classmates, is the first to notice Ayanokōji; her shoulders jerk and she hides behind her classmates, awkward after her confession.
