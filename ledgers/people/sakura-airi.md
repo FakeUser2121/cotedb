@@ -1134,12 +1134,7 @@ aliases used for anchors: sakura, airi, sakura-san
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 pp.7-243 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v5 Epilogue → p.243 -->
 
 ### y2v5 p.219–229 — Sakura Airi's voluntary expulsion
 [says] (p.223) "If there is one student in the class who deserve it... maybe it's me."

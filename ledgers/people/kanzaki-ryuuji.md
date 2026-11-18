@@ -613,12 +613,7 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 pp.7-243 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v5 Epilogue → p.243 -->
 
 ### y2v5 p.127–138 — Kanzaki's principled one-vote stand
 [says] (p.128) "I can only believe that everyone is suffering from normality bias if they don't think it's abnormal that 39 opposing votes were gathered without any hesitation or doubt."

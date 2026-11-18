@@ -596,12 +596,7 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 pp.7-243 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v5 Epilogue → p.243 -->
 
 ### y2v5 p.46–55 — Haruka: heartbroken over Airi, yet reaches out
 [scene] (p.46) Stunned as Kei publicly claims Ayanokōji (his girlfriend and his priority); Airi is too shocked to speak.[says] (p.48) "Hey Kiyopon, would you like to walk home with me?"

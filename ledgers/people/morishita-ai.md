@@ -245,14 +245,15 @@ char_id: morishita-ai · class: Class 2-A · status: unknown
 [trait] (p.101–103) Fumes at Class B's suffocating presence and boasts about fighting a hundred enemies — bluster Ayanokōji notes is wasted breath.
 ## y2v5
 
+
+### y2v5 p.7-243 — morishita-ai mentioned in passing
+[scene] (p.7) Named in this volume.
+[note] (p.7) Passing mentions on pages: none.
+[mentioned] (p.7) Passing mention only.
+
 <!-- walk: y2v5 → start -->
 
-### y2v5 pp.7-243 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v5 Epilogue → p.243 -->
 
 ## y2v9.5
 

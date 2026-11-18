@@ -1759,12 +1759,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 pp.7-243 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v5 Epilogue → p.243 -->
 
 ### y2v5 p.127–138 — Ichinose's class: Kanzaki's one-vote revolt
 [scene] (p.127) Class B reaches Q5 early; the class expects a smooth unanimous "against," but Kanzaki cast the single "for" vote intentionally.

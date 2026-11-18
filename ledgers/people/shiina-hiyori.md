@@ -543,14 +543,15 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [rel:ryuuen-kakeru] (p.121–122) Warns his dictatorship breeds resentment and that the class would collapse if he fell.
 ## y2v5
 
+
+### y2v5 p.7-243 — shiina-hiyori mentioned in passing
+[scene] (p.7) Named in this volume.
+[note] (p.7) Passing mentions on pages: p.164, p.166-167, p.242.
+[mentioned] (p.7) Passing mention only.
+
 <!-- walk: y2v5 → start -->
 
-### y2v5 pp.7-243 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v5 Epilogue → p.243 -->
 
 ## y2v6
 

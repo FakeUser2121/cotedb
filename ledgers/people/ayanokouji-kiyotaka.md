@@ -8505,12 +8505,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 pp.7-243 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v5 Epilogue → p.243 -->
 
 ### y2v5 p.9–12 — Second semester begins; the dating reveal to Sudō
 [scene] (p.9) Walks to school with Sudō (yawning, up all night studying to raise his Academics to B); asks whether Ike has already kissed Shinohara.
