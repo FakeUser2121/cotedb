@@ -546,6 +546,14 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 <!-- walk: y2v8 Epilogue → p.208 -->
 
+### y2v8 p.28–38 — Nanase: Yagami's fear; warnings about the trip
+[says] (p.32) "I think he was scared. Yagami was afraid of fighting Ayanokōji-senpai."
+[says] (p.33) "I want Ayanokōji-senpai to remain at this school and graduate."
+[says] (p.35) "the outside world is full of danger."
+[trait] (p.28–38) Reports a first-year's approach to him, reveals Yagami was "scared" of fighting Ayanokōji (why he lashed out), and warns about dangers on the school trip — the outside world, possible White Room involvement (family registers); now openly wants him to stay and graduate, and chides him for being too calm about the danger.
+[rel:ayanokouji-kiyotaka] (p.32–38) She worried about him on the trip — "I can't believe I'm the one worried about Ayanokōji-senpai."
+[rel:yagami-takuya] (p.32) He was "afraid of fighting" Ayanokōji — explains his rampage.
+[rel:amasawa-ichika] (p.34–37) He brings up Amasawa; she has no new information about her plans for the trip.
 ## y2v9
 
 <!-- walk: y2v9 → start -->

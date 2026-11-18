@@ -1741,6 +1741,15 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v8 Epilogue → p.208 -->
 
+### y2v8 p.11–45 — Kei: studying, eavesdropping, the bet
+[says] (p.11) "I think I should spend more time studying with you, just like Sudō-kun."
+[says] (p.25) "It's kind of like a double date, isn't it, Ayanokōji-kun?"
+[says] (p.43) "How did you know?"
+[says] (p.44) "Oh God, please let us be together!" — praying to be in his group
+[says] (p.45) "If I win, I want an expensive Christmas present."
+[trait] (p.11–45) Wants to study with him "just like Sudō" (unaware her growth doesn't work that way); looks forward to the trip but is upset at the ~5% chance of being in his group ("If I'm not with you, I'll die of loneliness"); eavesdrops on his talk with Sudō (he catches her easily), accepts his motivation to gather class info, and makes a bet on Sudō's confession (Christmas present if she wins).
+[rel:ayanokouji-kiyotaka] (p.11–45) His girlfriend — he wants her to gather intel and enjoy the trip even if they're not grouped.
+[rel:sudou-ken] (p.44–45) She bets he'll be rejected by Horikita; Ayanokōji bets on success.
 ## y2v9
 
 <!-- walk: y2v9 → start -->

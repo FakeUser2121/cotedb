@@ -8776,6 +8776,126 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v8 Epilogue → p.208 -->
 
+### y2v8 p.11–18 — Final exam results; the anonymous evaluation task; school trip to Hokkaido
+[scene] (p.11) Late November; school trip to Hokkaido approaches; former Ayanokōji group (Haruka/Akito/Keisei) walks ahead — he notes the "group of three" remains separate.
+[trivia] (p.13–14) Final exams: Horikita and Keisei tie 1st (93.5 avg), Sudō 10th (solid); Kei 56 avg; Class A 1st, Class B 2nd (+25 pts); lowest-ranked students get extra "guidance" but no expulsion.
+[trivia] (p.14–16) New task: each student anonymously assigns each classmate a different number 0–37 (based on daily interactions) — the evaluations are secret from teachers and students; he ranks Kōenji No. 1 (hidden potential, concrete contributions), Horikita/Keisei/Mii-chan high; the data will form the school-trip groups.
+[trivia] (p.17–18) Class votes for trip destination: Hokkaido wins (he, Horikita and Keisei voted Kyoto); Chabashira promises "no special exam to compete for class points."
+[trait] (p.11–18) Notes Sudō's growth is due to Horikita (her talent as an educator); Kei wants to study more "just like Sudō-kun" — he knows forced studying won't work for her like it did for Sudō; suspects the evaluation numbers might be used for a later special exam.
+[rel:karuizawa-kei] (p.11–12) His girlfriend — she wants to study with him; her minimum score is rising.
+[rel:sudou-ken] (p.12–13) His academic growth is "unmistakably attributed" to Horikita — a model Ayanokōji can't simply replicate with Kei.
+[note] (p.16) He ranked Kōenji No. 1 — his hidden potential and concrete benefits ("extremely significant"), "undeniably responsible for the current status of Class B."
+
+### y2v8 p.19–24 — School trip rules: fixed mixed groups; Chabashira's warning
+[scene] (p.19) Chabashira explains the trip's purpose — since the school has only 160 students per year, this is a chance to know students from other classes "as a person, before being a student in another class."
+[trivia] (p.22–23) Groups: 4 students — one male and one female from each of the four second-year classes; groups are fixed from departure to the final bus ride (only the ryokan is exempt); group behavior is mandatory ("deprivation of freedom" otherwise); phones allowed (cash exchange up to 10,000 yen).
+[trait] (p.19–24) Analyzes the fixed-group pressure (the pressure of a fixed group: students must make it work even with people they dislike); notes all eyes turn to Kōenji when discipline is mentioned (he's not listening); realizes the trip's "theme" is cross-class relationships.
+[rel:chabashira-sae] (p.19–24) She explains the rules and warns against confusing the trip with a regular school trip.
+[rel:kouenji-rokusuke] (p.24) He's not paying attention — the obvious target of the group-behavior rule.
+
+### y2v8 p.28–38 — Nanase's warnings; Amasawa; the outside world
+[says] (p.33) "I want Ayanokōji-senpai to remain at this school and graduate."
+[says] (p.35) "the outside world is full of danger."
+[trait] (p.28–38) Meets Nanase (who reports a first-year's approach to him); she reveals Yagami was "scared" of fighting him, and warns about dangers on the school trip (the outside world, white-room involvement via family registers); he probes gently about what she knows, noting her vigilance — she's become an advocate for him staying at school.
+[rel:nanase-tsubasa] (p.28–38) She warns him about the school trip's dangers and Yagami's fear — "I can't believe I'm the one worried about Ayanokōji-senpai."
+[rel:amasawa-ichika] (p.34–37) He considers what she might do on the trip — she's not a normal student.
+[rel:yagami-takuya] (p.32) Nanase says he was "afraid of fighting Ayanokōji."
+
+### y2v8 p.39–45 — Sudō's confession plan; Kei's bet; information gathering
+[says] (p.41) "I'm going to officially confess to Suzune on the school trip. I'm serious, I"
+[says] (p.43) "How did you know?" / "Your acting was perfect. I just knew you would be listening." — Kei eavesdropping
+[says] (p.44) "We're getting to the point where we need information on each class in order to move up to Class A."
+[trait] (p.39–45) Sudō visits to say he'll confess to Horikita on the trip; he encourages him; Kei overhears (he catches her at the cushion), and he explains he wants them in separate groups to gather intel on other classes (kei's "remarkable ability") — he motivates her by betting on Sudō's confession (success = Christmas present; failure = Kei does whatever he says).
+[rel:sudou-ken] (p.39–42) He visits and declares he'll confess to Horikita on the trip — "I'm serious."
+[rel:karuizawa-kei] (p.43–45) She eavesdrops; he wants her to gather class information (her "remarkable ability") and makes a bet on Sudō's confession.
+[rel:horikita-suzune] (p.41) Sudō's confession target — Ayanokōji thinks it has a "chance" (betting on success).
+
+### y2v8 p.46–53 — School trip begins: group 6; bus seating
+[scene] (p.46) Four buses depart for Hokkaido; Ayanokōji is in group 6 — himself, Kushida (Class B), Ryūen and Nishino (Class D), plus Class A members (Watanabe/Amikura/etc.); surprised to be grouped with Ryūen.
+[trivia] (p.47) He reveals his private evaluation numbers (Kushida 6, Ryūen high, etc.) — the highest went to Kushida and Ryūen; Kei is in a different group (with Akito), as are Yōsuke, Satō.
+[says] (p.48) "Is it okay if I have Yōsuke sit next to me, Kei?"
+[trait] (p.46–53) Notes the groupings seem designed to mix classes; observes Kushida deftly take charge of the group (calling out to the Class A students), while Ryūen doesn't lead; recognizes Ryūen and Kushida were once "working together" but now seem cordial — deliberately lets Kushida lead to avoid conflict.
+[rel:kushida-kikyou] (p.46–53) His group-mate — she takes charge, and he notes she's resolved not to repeat her past mistakes.
+[rel:ryuuen-kakeru] (p.46–53) His group-mate — he doesn't lead, and Ayanokōji has "no complaints" about the pairing.
+[rel:karuizawa-kei] (p.47–48) Different groups — Kei sits with Satō; he notes it's easier to know who sits next to whom now that they're dating.
+
+### y2v8 p.55–64 — Skiing; Kushida probes Ayanokōji
+[scene] (p.55) At the ski resort: beginners/intermediate/advanced groups; he joins beginners with Kushida/Yamamura; Ryūen, Kitō, Nishino, Kushida were absent (on advanced).
+[says] (p.59) "I still can't read you, Ayanokōji-kun."
+[says] (p.58) "As soon as Horikita decided to keep you, the line of me expelling you from [the school disappeared]."
+[trait] (p.55–64) Rides the lift with Kushida, who probes what he thinks of her and why Horikita kept her; he tells her Horikita would have told her off if she'd cornered him — an "indisputable" fact she dislikes; observes Yamamura (quiet, closed-minded?) and Kushida's strong interpersonal skills; catches her knit hat in a gust (their hands meet) — a small, charged moment.
+[rel:kushida-kikyou] (p.57–61) She can't read him, tries to figure out what she would think and how she would act if she were him — he lets her struggle, seeing it as a way for her to understand; catches her hat.
+[rel:yamamura] (p.63–64) He notes the quiet first-year in their beginner group — she's slow to open up.
+
+### y2v8 p.65–75 — The ryokan: rooms; the bathhouse (Horikita/Kushida/Ibuki)
+[scene] (p.65) Arrive at the ryokan; group 6 gets rooms (boys/girls separate); Ryūen dumps his luggage and heads to the baths; Kitō resents it.
+[says] (p.66) "You know what? I think we should talk about our group activities"
+[trait] (p.65–75) Notes Kushida proposing the girls visit the boys' room at night (group bonding), the tension between Ryūen and Kitō, and the baths; from Horikita's POV (p.70–75): she goes to the outdoor bath, Kushida follows and needles her ("By the way, you were lucky, weren't you Horikita-san?") — Horikita admits if not for him she'd have been expelled by Kushida; Ibuki crashes the bath and challenges Horikita to a swimming race; Ichinose arrives.
+[rel:kushida-kikyou] (p.66, 73–74) She leads the group and, in the bath, tells Horikita she was "lucky" — Horikita acknowledges Ayanokōji saved her.
+[rel:horikita-suzune] (p.70–75) She's in the bath; admits Ayanokōji's role in her survival; Ibuki challenges her.
+[rel:ryuuen-kakeru] (p.65–67) He dumps his luggage on Watanabe and heads to the baths — "clumsy kindness" noted later.
+
+### y2v8 p.90–108 — Skiing day 2; Yamamura's cold; Ryūen's "clumsy kindness"
+[scene] (p.90) Morning at the ryokan; Ryūen proposes a contest (magazines about kittens); the group goes skiing.
+[trait] (p.98–100) Notices Yamamura shivering without gloves; Ryūen (of all people) points it out and orders Ayanokōji to lend his gloves — "clumsy kindness, typical of Ryūen"; Ayanokōji gives his gloves to Yamamura (costing him some comfort, not points); later skiing with Kushida/Ryūen/Kitō, he notes Ryūen/Kitō are experts ("true role models") and hides that this is only his second time skiing.
+[rel:yamamura] (p.98–100) He lends her his gloves when she's cold — the start of their bond; she's a quiet beginner.
+[rel:ryuuen-kakeru] (p.98–100) He notices Yamamura's cold and orders Ayanokōji to help — "clumsy kindness"; he and Kitō ski like experts.
+[rel:kushida-kikyou] (p.103–107) They ski together; she's impressed by his "second time" skill (unknowingly a White Room feat).
+
+### y2v8 p.108–114 — Ryūen's 800-million-point plan; the end-of-year exam
+[scene] (p.108) At lunch, Ryūen pulls Ayanokōji aside (Kushida sends a worried message) to talk.
+[says] (p.109) "This school trip isn't for cultivating friendship."
+[says] (p.110) "I hope you remember what I said a year ago about my 800 million points [plan]."
+[says] (p.110) "I've been very cordial with your class up to this point."
+[trait] (p.108–114) Ryūen reveals he's still aiming for 800 million private points (to buy Class A transfers) — he's been "cordial" because he needs Horikita's class to help crush Sakayanagi in the end-of-year exam; he's confident, "defeated and then resurrected"; Ayanokōji realizes Ryūen has grown and now respects him as a threat, not just an obstacle; warns him not to set him up.
+[rel:ryuuen-kakeru] (p.108–114) He talks strategy (800M points, Sakayanagi) — a "battle between Sakayanagi and Ryūen"; Ayanokōji notes his absolute confidence.
+[rel:sakayanagi-arisu] (p.109–112) They discuss how to defeat her — Ryūen wants to "crush her by any means necessary" in the end-of-year exam.
+[rel:kushida-kikyou] (p.110) She texted him, worried about being summoned by Ryūen.
+
+### y2v8 p.130–139 — Sapporo sightseeing: the group's 20-point challenge
+[scene] (p.130) Day 3: Sapporo sightseeing; groups must visit 6 of 15 spots (score by location, 20+ points = 30,000 private points), with a photo at each.
+[trait] (p.131–139) The sixth group debates sightseeing vs points; Ryūen (bound to his 800M goal) and Kitō (rebellious) refuse the majority's choice to tour; Ayanokōji deliberately steers Kitō (giving him "the ball") so Ryūen backs down — convincing the group to enjoy sightseeing while keeping the option open (they'd get private points another way) — "a meaningful and satisfying" outcome; notes proximity to Kushida drew attention (Ryūen noticed).
+[rel:ryuuen-kakeru] (p.133–139) He wants the 30,000 points but Ayanokōji outmaneuvers him via Kitō — "You've gone the extra mile, Ayanokōji."
+[rel:kushida-kikyou] (p.135–139) They have a "strategy meeting" (private conversation) — Kushida covers for it when Ryūen notices ("Of course, I just talked with Ayanokōji-kun").
+[rel:kitou-hayato] (p.133–138) He opposes Ryūen — Ayanokōji uses his rebelliousness to break the deadlock.
+
+### y2v8 p.140–149 — The dining hall: Kushida asks Ryūen to back off; Ayanokōji intervenes
+[says] (p.147) "It's about my relationship with Ryūen-kun."
+[says] (p.147) "I'm sorry, Ryūen, but I'm going to have to ask you to back off on this one."
+[says] (p.148) "That's right. Kushida is now taking a new step forward"
+[trait] (p.140–149) At breakfast, observes Ishizaki/Yamamura/Katsuragi; Kushida waits to ask Ryūen to stop threatening her (lighting a fuse under Kushida twice); when Ryūen won't back down, Ayanokōji steps in — warns that if Ryūen's antagonism pushes Kushida to reveal Class B's secrets in the final exam, it would hurt his own class; Ryūen's smile fades (as when he once fearlessly abducted Kei) and he relents.
+[rel:kushida-kikyou] (p.146–148) She asks him to stop Ryūen's threats; he protects her as Horikita's ally — she's "taking a new step forward."
+[rel:ryuuen-kakeru] (p.145–149) He threatens Kushida; Ayanokōji forces him to back off by invoking the final exam.
+[rel:katsuragi-kouhei] (p.144–146) He's eating with Class A — Ryūen and Ayanokōji note his situation.
+
+### y2v8 p.162–174 — Final day: the snowball fight; Yamamura's thanks
+[scene] (p.162) Day 4: an informal snowball fight (1,000-pt entry, winner takes the pot); 42 students, 6 teams; he, Ibuki and Yamamura team with Horikita's group against Sudō's boys' team.
+[says] (p.169) "Let's do our best together, Yamamura."
+[says] (p.169) "If you lose, I'll make up the points, so don't worry."
+[trait] (p.162–174) Protects the timid Yamamura in the fight (pulls her away from snowballs, draws fire himself); Sudō's team wins (his "frustration at being rejected by Horikita" channeled into snowballs); the final match is Horikita vs Ibuki — Ibuki wins (Horikita's snowball disperses; fragments hit Ibuki but Horikita concedes); Yamamura thanks Ayanokōji — she felt she formed a bit of a bond as a group, the first trip she enjoyed; he notes her joyful look suddenly faded when he mentioned something (a hidden concern).
+[rel:yamamura] (p.165–172) He protects her in the snowball fight and promises to cover her losses — she thanks him, transformed by the trip ("Little by little, I think Kitō-kun's curses for Ryūen-kun are decreasing").
+[rel:horikita-suzune] (p.171–174) She fights Ibuki in the final — concedes when her snowball fragments hit; "tried to act calm."
+[rel:ibuki-mio] (p.171–174) She wins the final match, demands 1,000 pts from Horikita — "You're responsible for getting the souvenir money."
+[rel:sudou-ken] (p.165) His team wins the first match — "quintessential top-class athlete."
+
+### y2v8 p.175–184 — The final night: Sakayanagi, Kanzaki, the "Ishigami" revelation
+[says] (p.175) "It was short, but did you enjoy the school trip?"
+[says] (p.177) "Do you think I would lose in a direct confrontation with Ryūen-kun?"
+[says] (p.184) "I don't think Ayanokōji-kun will be defeated by someone who isn't me."
+[trait] (p.175–184) Talks with Sakayanagi (she analyzed the grouping bias — high/low/middle evaluations — and the end-of-year exam; they agree neither can easily "draw"); Kanzaki reveals he knows Ayanokōji is "Ayanokōji-sensei's child" (his father adores Ayanokōji Senior) and that first-year **Ishigami Kyō** (Class A) — recommended by Ayanokōji Senior — is "testing Ayanokōji's ability"; Sakayanagi (on the phone) also knows and vows not to eliminate him unless her father orders it; he resolves to deal with Ishigami with Kanzaki/Sakayanagi.
+[rel:sakayanagi-arisu] (p.175–184) She discusses the final exam and grouping; she knows he's Ayanokōji Senior's son and says "I don't think Ayanokōji-kun will be defeated by someone who isn't me."
+[rel:kanzaki-ryuuji] (p.180–183) He reveals he knows Ayanokōji's parentage and the truth about Ishigami — "I can't believe you're his child."
+[rel:ishigami-kyo-1a] (p.180–184) First-year Class A student, recommended by Ayanokōji Senior, testing Ayanokōji's ability — a new threat.
+[rel:nanase-tsubasa] (p.175–176) She discussed the mysterious caller ("called my father 'Ayanokōji-sensei'" — not White Room) with him.
+
+### y2v8 p.187–195 — After the trip: Ichinose's resolve; Ayanokōji's refusal
+[scene] (p.187) Back from the trip; meets Ichinose (she needed a way to contact him — "we're in the same group for the school trip"); she avoids the topic of Kei.
+[says] (p.192) "If only I could command my classmates like Sakayanagi-san. If only I could lead as strongly as Ryūen-kun."
+[says] (p.192) "Our class is definitely moving farther [away]."
+[says] (p.194) "I won't let you stop until the final exam"
+[trait] (p.187–195) Ichinose admits she's struggling ("results don't follow," her class falling further behind) and wishes she could lead like Sakayanagi/Ryūen/Horikita; Ayanokōji refuses to let her give up before the final exam, telling her to keep fighting "until the end" — a firm, uncharacteristically harsh push.
+[rel:ichinose-honami] (p.187–195) She opens up about her failings; he refuses to let her stop — "W-what? Ayanokōji-kun!?" (surprised by his intensity).
+[rel:karuizawa-kei] (p.189) Ichinose steers clear of the subject of Kei ("it wasn't that something happened on the school trip").
 ## y2v9
 
 <!-- walk: y2v9 → start -->

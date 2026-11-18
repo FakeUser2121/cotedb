@@ -1853,6 +1853,14 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v8 Epilogue → p.208 -->
 
+### y2v8 p.39–42 — Sudō: planning to confess to Horikita
+[says] (p.39) "Sorry for suddenly showing up without calling."
+[says] (p.41) "I'm going to officially confess to Suzune on the school trip. I'm serious, I"
+[trait] (p.39–42) Visits Ayanokōji's room (embarrassed to find Kei there on a night of couples), and declares he'll officially confess to Horikita during the school trip — "I'm serious"; despite his rapid growth, he feels he must put his feelings into words and smash through (Horikita may not accept immediately, but he'll go to the ends of the earth to convey them); Ayanokōji encourages him, and he leaves relieved.
+[rel:ayanokouji-kiyotaka] (p.39–42) He confides his confession plan — his friend/mentor.
+[rel:horikita-suzune] (p.41) The girl he loves — he'll confess on the trip ("Suzune").
+[rel:onodera-kayano] (p.40) Ayanokōji notes Onodera has feelings for Sudō — but Sudō still sees her as "a good friend."
+[rel:karuizawa-kei] (p.39) He's awkward about her being there (and about "couples" Ike/Shinohara etc.).
 ## y2v9
 
 <!-- walk: y2v9 → start -->

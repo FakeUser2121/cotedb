@@ -1819,3 +1819,4 @@ hash: `6bea783884c7cb8573db97157f0b718a`.
 | y2v5 depth pass | 243 | 185 quotes / 106 scenes | 4e2e577f79382fa5ca418203b8cec1b3 |
 | y2v6 depth pass | 346 | 185 quotes / 112 scenes | c7180b9c2bdefd24ba37dd92d6494d88 |
 | y2v7 depth pass | 207 | 87 quotes / 100 scenes | 6a108d9815b9bfb31f48219c2d6813fe |
+| y2v8 depth pass | 208 | 33 quotes / 88 scenes | 05096153fabf6ed7ce07f595739189ce |
