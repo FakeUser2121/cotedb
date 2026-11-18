@@ -275,6 +275,16 @@ aliases used for anchors: sakagami, sakagami-sensei
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
+### y2v9.5 p.159–161 — Ch.6: Sakagami-sensei: Sudō's growth
+[scene] (p.159–161) Crosses Ayanokōji in the January 4 corridor; compliments Sudō's academic growth; asks what moved Class B; he attributes it to Horikita; mentions Class A looming; then to his staff meeting.
+[says] (p.160) "He's shown an incredible growth rate since he enrolled."
+[says] (p.160) "Was it you who changed the class known as 'defective'?"
+[note] (p.161) Knows enough about the White Room rumors to probe; deliberately deflects the lending-history question.
+[rel:ayanokouji-kiyotaka] (p.159–161) Proud of Sudō's growth; pokes his growth's origin and receives a non-answer.
+[rel:sudou-ken] (p.159–161) His homeroom pride: the class's "defective" label may finally be broken.
+
+<!-- walk: y2v9.5 Ch.6 → p.161 -->
+
 
 ## y2v10
 

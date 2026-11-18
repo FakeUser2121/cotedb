@@ -1905,6 +1905,16 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v9.5 Ch.4 → p.78 -->
 
+### y2v9.5 p.167–170 — Ch.6: Lunch with Hirata; the girl with weird questions
+[scene] (p.167–170) Spots Ayanokōji at the entrance; they walk to the convenience store; chat about Kei's reconciliation; teases about Yōsuke and Onodera; mentions the girl who asked him about his OAA growth — cute exterior, combative — probably Morishita; he couldn't name anyone's name when she left; "It was just a joke. I'm still jealous because I don't have a girlfriend."
+[says] (p.168) "I'm still jealous because I don't have a girlfriend."
+[says] (p.169) "Weird questions like?"
+[rel:hirata-yousuke] (p.167–174) Fellow basketball player; bound by lunch and new friendship; reveals hints of Onodera's feelings.
+[rel:ayanokouji-kiyotaka] (p.167–170) Warm, joking, loud-mouthed — teases his friend openly.
+
+<!-- walk: y2v9.5 Ch.6 → p.170 -->
+
+
 ## y2v10
 
 <!-- walk: y2v10 → start -->

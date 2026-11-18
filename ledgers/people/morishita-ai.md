@@ -273,6 +273,17 @@ char_id: morishita-ai · class: Class 2-A · status: unknown
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
+### y2v9.5 p.175–181 — Ch.6: Morishita investigates
+[scene] (p.175–178) Stops Ayanokōji on the way home; class 2-A; polite voice but calls him by his full name without honorifics; moves the talk to a side street.
+[scene] (p.179–181) Says she interviewed Sudō (day before yesterday) and Kōenji (yesterday), strictly her own decision, not Sakayanagi's order; class B's evaluation has risen; she found him "a considerable threat"; excuses herself — many people to investigate.
+[says] (p.180) "I've been wanting to talk to you for some time now, Ayanokōji Kiyotaka."
+[says] (p.181) "You are indeed a considerable threat, Ayanokōji Kiyotaka."
+[rel:sudou-ken] (p.179) Interviewed him earlier (the girl with weird questions).
+[rel:kouenji-rokusuke] (p.179) Interviewed him the previous day.
+[rel:ayanokouji-kiyotaka] (p.175–181) Calls him a threat; takes his measure independently.
+
+<!-- walk: y2v9.5 Ch.6 → p.181 -->
+
 
 
 

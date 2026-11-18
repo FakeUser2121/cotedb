@@ -9373,6 +9373,31 @@ walk: y1v1 → DONE
 [rel:satou-maya] (p.144–148) She checks on Kei's reconciliation; he makes the invisible contract.
 
 <!-- walk: y2v9.5 Ch.5 → p.148 -->
+### y2v9.5 p.149–157 — Ch.6: Remaining time; the date with Kei
+[scene] (p.149–150) Wakes on December 29th; Kei is meeting Satō in the afternoon; he reflects on whether he ever learned love — Kei as "a vehicle to learn about love."
+[scene] (p.150–153) At 3 p.m. she's waiting at the mall entrance; he apologizes about Ichinose; gives her a necklace she's spotted countless times on her phone searches; she cries on the spot; voices the promise to return to how things were and the birthday plan (March 8th).
+[scene] (p.155–158) Goes to karaoke; he stops at the vending machine on the way; peeks — Yamamura is there again; he urges her to leave quietly; Kei asks about Maya; they link arms and head to karaoke; the year ends as lovers.
+[note] (p.155–157) Kei's dependence peaks; his interior question is whether his heart ever wavered.
+[rel:karuizawa-kei] (p.149–157) Makes up; necklace; karaoke; her dependence reignites completely.
+[rel:yamamura-miki] (p.156–157) Found her back at the vending machine again.
+
+### y2v9.5 p.159–183 — Ch.6: The library; Sudō and Hirata; Morishita
+[scene] (p.159–161) January 4th; goes to school; Sakagami-sensei greets him and compliments Sudō's growth; asks about Class B's rise; Sudō's star is rising; he heads to the library.
+[scene] (p.161–163) Hiyori Shiina is in the library; she greets him warmly; recommends mystery novels; he asks about an unknown author (Kaminai Tsushi) she knowingly smirks about.
+[scene] (p.164–166) She presses a paper bag into his hands: a book she bought specially for him — the third copy she's owned (since junior high); he discovers her grand gestures; he resolves to be careful of her.
+[scene] (p.167–170) Sudō and Hirata (basketball/soccer) spot him; they eat lunch; Sudō mocks traditional romance, then reveals Morishita asked him awkward questions about his OAA growth; Tanaka/Hirata talk reveals Sudō's new celebrity; he'd rather be feared.
+[scene] (p.171–174) Yōsuke reveals Sudō turned down a female kōhai asking for his contact; Yōsuke notes Ayanokōji called Hiyori by her first name — a rare thing for him — and quietly disapproves.
+[scene] (p.175–181) On the way home, Morishita Ai of Class 2-A stops him — her own idea, not Sakayanagi's — says she's investigated many classmates; calls him "a considerable threat"; walks off toward the dormitory.
+[scene] (p.182–183) Back home, reads the book Hiyori gave him; notices the bookmark inside — a Christmas edition she bought before Christmas.
+[rel:hiyori-shiina] (p.161–166) Him chatting with her in the library; accepts the gift book; notes the Christmas-bookmark pattern; implies he owes her thanks.
+[rel:sudou-ken] (p.167–170) Appreciates him openly; watches him deflate when romance talk is mocked; speculates about Morishita.
+[rel:hirata-yousuke] (p.167–172) Quiet; worried about his relationship with Hiyori; judges his honesty.
+[rel:sakagami] (p.159–161) Praises Sudō's growth; hints something sharp.
+[rel:morishita-ai] (p.175–181) She scouts him personally; calls him a threat; ignores his deflection.
+[rel:kiryuin-fuuka] (p.175) Recalls their end-of-year talk as he passes her reminder about college.
+
+<!-- walk: y2v9.5 Ch.6 → p.183 -->
+
 
 
 ## y2v9.75
