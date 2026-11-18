@@ -976,6 +976,13 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y2v11 → start -->
 
+### y2v11 p.13 — Ch.1: Named on the same level
+[scene] (p.13) Chabashira's interview patter names him as the other oddball in the school.
+[says:chabashira-sae] (p.13) “What, are you shocked to be treated on the same level as Kōenji?”
+[mentioned] (p.13) Named, not present on these pages.
+
+<!-- walk: y2v11 ch1 → p.33 -->
+
 ### y2v11 p.49–50 — Ch.2: The desertion from Group 6
 [scene] (p.49) During the Group 20 lunch line-up; in another group nearby, Kōenji slips away from his leader without listening; the first-years are bewildered; Inogashira looks at Ayanokōji with an awkward lift of the shoulders.
 [note] (p.50) “Wait a minute, hey! Kōenji!” — untagged speaker; translation leaves attribution unresolved.

@@ -2294,6 +2294,15 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v11 → start -->
 
+### y2v11 p.20–25 — Ch.1: The leak's other end
+[scene] (p.20) Named as the destination of the leaked information during the special exam, the act that left Class A at the bottom.
+[note] (p.20) “Someone leaked information to Ryūen during the special exam.” — Kiyotaka's account in the interview aftermath; the leak cost Class A the win.
+[note] (p.24) “No, even if you were prepared for a mutual kill, it was difficult to defeat Sakayanagi.” — unattributed narration on the imbalance of power.
+[note] (p.24) “If that happened, Ryūen could avoid accepting the troublesome existence of the traitor Hashimoto, and at the same time, he could bury a strong enemy, which would be killing two birds with one stone for Ryūen.” — unattributed narration.
+[says:hashimoto-masayoshi] (p.25) “But Ryūen and Sakayanagi are the same, right? Other people are useless.”
+
+<!-- walk: y2v11 ch1 → p.33 -->
+
 ### y2v11 p.40–41 — Ch.2: The absence on the list
 [scene] (p.40) The organization chart is read on the bus; Ryūen is named as an example of high-OAA chemistry in any group.
 [mentioned] (p.40) Named as the example: a group with Sakayanagi or Ryūen might beat Nagumo's group.

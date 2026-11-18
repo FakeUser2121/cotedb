@@ -1280,6 +1280,17 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 ## y2v11
 
 <!-- walk: y2v11 → start -->
+
+### y2v11 p.19–30 — Ch.1: The betrayal she owns
+[scene] (p.19) Her class name hangs over Ch.1: the man at his door is “a student from Sakayanagi's class”; the shadow of her Class A looms over every page of the interview aftermath.
+[note] (p.19) “It was Hashimoto Masayoshi, a student from Sakayanagi's class.” — unattributed narration.
+[note] (p.20–21) The leak during the special exam left Class A at the bottom; Kamuro dropped out; the 100 class points lost; the betrayal's price was too high to justify.
+[note] (p.22) “Drawing a bow against Sakayanagi was tantamount to aiming for the general's head.” — unattributed narration; the target written on pp.22–25.
+[says:hashimoto-masayoshi] (p.25) “I won't deny it. But Ryūen and Sakayanagi are the same, right? Other people are useless.”
+[note] (p.28–29) Walking to the convenience store, Hashimoto mixes truth and lies in similar proportions; Kiyotaka suspects the whole encounter was engineered so that Sakayanagi would indirectly learn he contacted Kiyotaka.
+[note] (p.30) Back in the store, the question recurs: whether Yamamura is acting alone or whether Sakayanagi is hiding behind her.
+
+<!-- walk: y2v11 ch1 → p.33 -->
 ### y2v11 p.10 — Prologue: named in Yamamura's monologue
 [scene] (p.10) Her name surfaces in Yamamura Miki's Prologue monologue as the person whose defeat is being felt: the opening image of the volume.
 [note] (p.10) The monologue holds an unattributed remembered line about her — “...After all... I don't think losing suits Sakayanagi-san...” — the speaker is not identified on these pages.

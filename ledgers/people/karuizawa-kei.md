@@ -1936,6 +1936,16 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v11 → start -->
 
+### y2v11 p.19–30 — Ch.1: Due after the interview
+[scene] (p.19) His room carries Kei's traces; Hashimoto reads the whole scene with a whistle and sits on the bed.
+[mentioned] (p.19) Named as the girl due later that night; her presence is felt only through her traces on the room.
+[mentioned] (p.21) Kiyotaka keeps to himself the fact that Kei would be coming to the room later tonight; Hashimoto would not schedule around it anyway.
+[says:hashimoto-masayoshi] (p.26) “Sorry. Karuizawa is coming after this, right? I've talked too long.”
+[mentioned] (p.30) Kiyotaka contacts Kei by phone from the convenience store to settle what to buy her for dinner.
+[note] (p.30) Her replies are not shown on these pages; the dinner order is reached without on-page dialogue from her.
+
+<!-- walk: y2v11 ch1 → p.33 -->
+
 ### y2v11 p.34–44 — Ch.2: The way there, with Kiyotaka
 [scene] (p.34) 9:30 Thursday morning; she's seated right by Kiyotaka on the bus; group 7 with Tanaka-senpai; her movie date March 26 fixed on the bus.
 [says] (p.34) “I'll sit with Kiyotaka.”

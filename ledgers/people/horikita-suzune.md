@@ -4569,6 +4569,14 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v11 → start -->
 
+### y2v11 p.27 — Ch.1: Her class's internal affairs, overheard
+[scene] (p.27) One clause of her class's affairs surfaces inside the convenience-store probing.
+[note] (p.27) “However, Morishita seemed to become even more suspicious.” — unattributed narration; Hashimoto's cover attempt backfires.
+[note] (p.27) “Whether she had been investigating Horikita's class's internal affairs, she had a good grasp of things that even Hashimoto didn't know.” — unattributed narration; Horikita's class is named as the object of Morishita's investigation.
+[mentioned] (p.27) Her class named; she herself is not present on these pages.
+
+<!-- walk: y2v11 ch1 → p.33 -->
+
 ### y2v11 p.40 — Ch.2: Named in the stacked group
 [scene] (p.40) The organization chart lists Nagumo's group on the bus printout.
 [mentioned] (p.40) Named as the second-year Class B member of Nagumo's group: Horikita Suzune, Hirata Yōsuke.

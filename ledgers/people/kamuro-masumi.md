@@ -409,6 +409,15 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 
 <!-- walk: y2v11 → start -->
 
+### y2v11 p.11–21 — Ch.1: The new dropout
+[scene] (p.11) February; the fifth and final day of the two-person interviews; the year's first shadow is the Class A dropout everyone knows about.
+[note] (p.11) “Due to her close position to Sakayanagi, Kamuro becoming a new dropout surprised the second-year students. However, since Kamuro didn't have any close friends from other classes, the shock didn't last long.” — unattributed narration.
+[note] (p.21) Recounted as the cost of the betrayal: only a by-product of the ordeal, and the likelihood of her being included in the negotiations and rewards was low; the price of betraying the class was too high to justify.
+[mentioned] (p.20) Named as the reason for the suspected leak's gravity: a Class A student (Sakayanagi's side) leaked to Ryūen; Class A ended up at the bottom.
+[note] (p.20) The text's account of the leak is given through the two speakers; the narration on p.11 records the surprise, not the culprit.
+
+<!-- walk: y2v11 ch1 → p.33 -->
+
 ### y2v11 p.88–92 — Ch.3: The name that tore the class
 [scene] (p.88) Hashimoto mutters whether her leaking-role damage from losing Kamuro explains the three losses.
 [note] (p.88) Kamuro is named as Hashimoto's imagined source of Sakayanagi's weakness; no on-page presence since her departure.
