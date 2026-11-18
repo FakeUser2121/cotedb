@@ -1534,15 +1534,21 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v12.5 → start -->
 
-### y2v12.5 pp.11-23, 192-196 — Ch.1, Ch.10
+### y2v12.5 p.11–22 — Ch.1: The class debrief after the special exam
+[scene] (p.12) Sudō is the first to ask directly whether Maezono was expelled.
+[says] (p.12) “Did Maezono really get expelled?”
+[says] (p.17) “So, is there evidence that Maezono leaked it? If there is... where did you get such evidence? I’m sure Maezono wouldn’t do something that would be so easily found out.”
+[says] (p.19) “Well, I was quite convinced, but... can I say something...?”
+[says] (p.19) “I understand that you did everything you could for the class to win. The initial strategy failed because of Maezono’s leak, and Ichinose was stronger than expected, so you fought ready to harm your comrades. But… was expelling Maezono really the only option? I mean... I thought, if it were you, Ayanokōji, you could’ve come up with a way to win without sacrificing anyone.”
+[says] (p.20) “...Understood. If the class leader says so, I’ll support it. After all, Ayanokōji fought with the resolve to be resented by his comrades for the sake of the class.”
+[says] (p.21) “Are you saying Ayanokōji is deliberately causing expulsions?”
+[says] (p.21) “Where are you going, Kōenji?”
+[says] (p.22) “The discussion isn’t over yet.”
+[says] (p.22) “As usual, you’re doing whatever you want. You know this is an important discussion, right?”
+[rel:ayanokouji-kiyotaka] (p.17–22) He questions him, then accepts the decision once Horikita backs it.
+[rel:kouenji-rokusuke] (p.21–22) He challenges Kōenji's exit.
 
-[scene] (p.11-23) Mentioned/appears in Ch.1, Ch.10.
-[rel:ayanokouji-kiyotaka] (pp.11-23, 192-196) Appears in this volume.
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
+<!-- walk: y2v12.5 Ch.1 → p.22 -->
 ## y3v1
 
 <!-- walk: y3v1 → start -->

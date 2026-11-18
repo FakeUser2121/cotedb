@@ -52,7 +52,9 @@ char_id: nishimura-ryuuko · class: unknown · status: unknown
 
 <!-- walk: y2v12.5 → start -->
 
-### y2v12.5 p.11-216 — nishimura-ryuuko mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.13; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
+### y2v12.5 p.11–22 — Ch.1: The class debrief after the special exam
+[scene] (p.13) Nishimura, waiting for this moment, asks Horikita whether she will explain the expulsion.
+[says] (p.13) “Are you going to tell us what happened with Maezono-san’s expulsion?”
+[rel:horikita-suzune] (p.13) He presses her to explain; she responds by asking for everyone's cooperation.
+
+<!-- walk: y2v12.5 Ch.1 → p.22 -->

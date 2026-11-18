@@ -305,15 +305,35 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 
 <!-- walk: y2v12.5 → start -->
 
-### y2v12.5 pp.8-10, 58-76, 200-202 — Prologue, Ch.4, Epilogue
+### y2v12.5 p.8–10 — Prologue: Behind the Scenes
+[scene] (p.8) Hoshinomiya watches the end-of-year special exam unfold on the monitors with bated breath; with Kijima observing as a spectator, her means of intervention are gone.
+[scene] (p.9) Prime Minister Kijima visits; Hoshinomiya has no choice but to be content with the situation.
+[scene] (p.10) The four homeroom teachers are left behind when Kijima and the Chairman leave; Hoshinomiya burns with resentment at Chabashira's promotion to Class A.
+[note] (p.10) “Congratulations, Sae-chan. Even if it’s temporary, you’re in Class A now.” — unattributed; the reply (“I’d like to thank you, but the exam just ended...”) is Chabashira's. Hoshinomiya's resentment grows: “I will never let this woman win. I won’t let her graduate from Class A.”
 
-[scene] (p.8-10) Mentioned/appears in Prologue, Ch.4, Epilogue.
-[rel:ayanokouji-kiyotaka] (pp.8-10, 58-76, 200-202) Appears in this volume.
+<!-- walk: y2v12.5 Prologue → p.10 -->
 
-<!-- walk: y2v12.5 Epilogue → p.216 -->
+### y2v12.5 p.28–30 — Ch.1: Hoshinomiya snaps at her class
+[scene] (p.28) Unable to bear the class licking its wounds, Hoshinomiya slams her palms onto the desk, freezing the room.
+[says] (p.28) “Everyone… do you really understand the situation?”
+[says] (p.28) “I’ll say it frankly—you’re all abnormal, very abnormal.”
+[says] (p.29) “Shibata-kun, you just said we still have plenty of time ahead, right?”
+[says] (p.29) “Do you seriously think so?”
+[says] (p.29) “Two goals, three goals? Momentum? Don’t be stupid. The loss really hurt this time.”
+[says] (p.29) “If we have a year? No, that’s not it. You understand, don’t you? That we only have one year left.”
+[says] (p.29) “There isn’t. Let me use your beloved soccer as an example. Far from scoring two goals back, no matter how you think of it, we’ve probably given up three more goals today, and now we’re losing by something like ten goals. That’s how far behind we are. And to top it off, our opponents are better than us. It’s about time you understood that.”
+[says] (p.29) “Shut up. What all of you need to do is to accept reality, not babble on about these pipe dreams.”
+[says] (p.29) “We’re finished. Isn’t that right, Ichinose-san?”
+[says] (p.30) “That’s not it.”
+[says] (p.30) “I wasn’t looking for weak words like those. I just want you to look at reality.”
+[says] (p.30) “You understand that we’re losing now, and that at this rate, we won’t be able to win in the future, right?”
+[says] (p.30) “It’s alright, Ichinose-san. I believe in your abilities. Just leave all your worries to me, your teacher.”
+[says] (p.30) “So for now, take your time and take care of your heart first. Okay?”
+[rel:ichinose-honami] (p.28–30) She presses Ichinose to face reality; Ichinose agrees to stay on as leader.
+[rel:shibata-sou] (p.28–29) She shuts down his soccer pep talk.
+[note] (p.30) She resolves to take action herself, from outside the rules, to save the class.
 
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
+<!-- walk: y2v12.5 Ch.1 → p.30 -->
 ## y3v1
 
 <!-- walk: y3v1 → start -->

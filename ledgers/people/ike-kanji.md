@@ -1077,15 +1077,12 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y2v12.5 → start -->
 
-### y2v12.5 pp.11-23, 192-196 — Ch.1, Ch.10
+### y2v12.5 p.11–22 — Ch.1: The class debrief after the special exam
+[scene] (p.19) Ike speaks up, puzzled by how Ayanokōji came to know about the secret gathering.
+[says] (p.19) “Hey, why do you know about that, Ayanokōji… It was supposed to be a secret…”
+[rel:ayanokouji-kiyotaka] (p.19) He questions Ayanokōji's knowledge of the secret meeting.
 
-[scene] (p.11-23) Mentioned/appears in Ch.1, Ch.10.
-[rel:ayanokouji-kiyotaka] (pp.11-23, 192-196) Appears in this volume.
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
+<!-- walk: y2v12.5 Ch.1 → p.22 -->
 ## y3v1
 
 <!-- walk: y3v1 → start -->

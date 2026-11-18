@@ -46,7 +46,11 @@ char_id: azuma-sana · class: unknown · status: unknown
 
 <!-- walk: y2v12.5 → start -->
 
-### y2v12.5 p.11-216 — azuma-sana mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.21, p.24; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
+### y2v12.5 p.11–22 — Ch.1: The class debrief after the special exam
+[scene] (p.20) Azuma voices the suspicion that Ayanokōji was involved in all three expulsions.
+[says] (p.20) “But, you know. But… three people have been expelled from our class, right? Yamauchi-kun, Sakura-san, and then Maezono-san… All of them, Ayanokōji-kun was involved with… right?”
+[says] (p.21) “I’m not saying that much. But we won’t become victims next, right?”
+[rel:ayanokouji-kiyotaka] (p.20–21) He questions whether Ayanokōji deliberately causes expulsions.
+[rel:kushida-kikyou] (p.21) Her defense of Ayanokōji helps pull Azuma back.
+
+<!-- walk: y2v12.5 Ch.1 → p.22 -->

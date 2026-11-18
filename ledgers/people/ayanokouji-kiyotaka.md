@@ -5812,34 +5812,36 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v12.5 → start -->
 
-### y2v12.5 pp.11–216 — Ch.1–Epilogue: Full volume
+### y2v12.5 p.11–22 — Ch.1: The class debrief after the special exam
+[scene] (p.11) The representatives return to the classroom; Chabashira tells them what can be shared, and the class gathers to hear how the exam was decided.
+[says] (p.11) “Of course. I never intended to end the day with lingering doubts.”
+[scene] (p.14) Standing before the class, he apologizes for Maezono's expulsion and walks them through the hidden negotiation.
+[says] (p.14) “The method to win was—to expel the traitor early on.”
+[says] (p.14) “Horikita, you’ve fought directly as a representative, so you’d understand. In this special exam, Ichinose was an unimaginably strong opponent. We can agree on that, right?”
+[says] (p.15) “My aim was to use the traitor rights to make Ichinose complicit in the expulsion. That was the only method I could think of.”
+[says] (p.16) “I’m not trying to justify myself, but I wouldn’t mind taking a vote here. I believe most of us wouldn’t say it’d be better for us to lose the exam than to sacrifice Maezono.”
+[says] (p.17) “That’s right. But given the situation where I couldn’t consult anyone, I had no choice but to decide alone.”
+[says] (p.17) “Sorry, but there was a proper reason why it was Maezono.”
+[says] (p.17) “Yes. Originally, I asked Horikita to keep it that way.”
+[says] (p.18) “Is there anyone who knows about Maezono and Hashimoto dating?”
+[says] (p.18) “Hashimoto is well known for placing an emphasis on information gathering, including from his own class. He was intentionally extracting information from this class by connecting with Maezono.”
+[says] (p.19) “It seems their boyfriend-girlfriend relationship was taken advantage of from the beginning.”
+[rel:horikita-suzune] (p.11–22) She backs his decision as class leader.
+[rel:hirata-yousuke] (p.15–22) He objects to the sacrifice.
+[rel:ichinose-honami] (p.14–15) He negotiated with her in secret during the exam.
+[rel:maezono] (p.14) He names Maezono as the leaker of his general role.
 
-[scene] (p.11) Horikita explains the end-of-year special exam to the class.
-[scene] (p.14) Reveals Maezono leaked his role as general.
-[scene] (p.33) Meets Sakayanagi and Ryūen; Sakayanagi reveals Ayanokōji's message.
-[scene] (p.43) Meets Morishita and Yamamura; learns Class A's state.
-[scene] (p.54) Meets Matsushita, Mii-chan, Onodera at Keyaki Mall.
-[scene] (p.58) Meets Hoshinomiya at a café; she proposes he concede victory.
-[scene] (p.77) Breaks up with Karuizawa Kei.
-[scene] (p.80) Date at cinema with Kei; Ibuki appears.
-[scene] (p.93) Meets Sakayanagi at her farewell; she makes two requests.
-[scene] (p.107) Three-way meeting with Atsuomi; Atsuomi meets Kōenji's father and Kijima.
-[scene] (p.139) Reflects on breakup; Horikita visits.
-[scene] (p.148) Meets Ishizaki and Hiyori; Ishizaki recruits him to Ryūen's class.
-[scene] (p.163) Meets Ichinose at night; proposes kaishaku; she reveals her plan.
-[scene] (p.192) Victory celebration; Horikita asks about his goal.
-[scene] (p.200) Transfers to Class 2-A.
-[rel:sakayanagi-arisu] (p.33, 93–99) Meets her farewell.
-[rel:ryuuen-kakeru] (p.31–42) Meets him.
-[rel:karuizawa-kei] (p.77–91) Breaks up with her.
-[rel:horikita-suzune] (p.11–20, 139–147, 192–199) Discusses exam and goals.
-[rel:ichinose-honami] (p.148–176) Meets her at night.
-[rel:tsukishiro] (p.107–118, 137–138) Meets Atsuomi.
+<!-- walk: y2v12.5 Ch.1 → p.22 -->
 
-<!-- walk: y2v12.5 Epilogue → p.216 -->
+### y2v12.5 p.24–25 — Ch.1: Kushida corners him after class
+[scene] (p.24) Kushida waits for him after everyone leaves and probes his real intentions behind the expulsion.
+[says] (p.24) “It might be better to do this over the phone.”
+[says] (p.24) “If you don’t mind, shall we discuss the matter right here?”
+[says] (p.25) “I just did what was necessary to win. She was a tough opponent.”
+[says] (p.25) “Horikita seems to trust you too, Kushida.”
+[rel:kushida-kikyou] (p.24–25) Kushida reads him exactly and warns him she needs a safe position in the class.
 
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
+<!-- walk: y2v12.5 Ch.1 → p.25 -->
 ## y3v1
 
 <!-- walk: y3v1 → start -->

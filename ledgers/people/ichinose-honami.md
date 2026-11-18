@@ -1486,15 +1486,21 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v12.5 → start -->
 
-### y2v12.5 pp.148-191 — Ch.9
+### y2v12.5 p.26–30 — Ch.1: The other class's defeat
+[scene] (p.26) Ichinose hangs her head in the silent classroom and apologizes to her class; the class comforts her rather than blames her.
+[says] (p.26) “...Everyone... I’m sorry.”
+[says] (p.26) “Today’s exam... we lost because of me...”
+[note] (p.26) The unattributed follow-ups (“You shouldn’t be the one apologizing, Honami-chan.”; “We should’ve debated better and been more helpful, I think.”; “That’s right. You don’t need to worry about it at all.”) carry no speaker names in the text.
+[scene] (p.29) Hoshinomiya confronts her at the desk; Ichinose admits the class is losing and cannot win at this rate.
+[says] (p.29) “Sensei...”
+[says] (p.30) “This is my responsibility. From now on, I don’t have the confidence to continue being the leader of this class—”
+[says] (p.30) “...Eh?”
+[says] (p.30) “...Yes…”
+[rel:hoshinomiya-chie] (p.28–30) Her homeroom teacher presses her to face reality; Ichinose agrees to stay.
+[rel:ayanokouji-kiyotaka] (p.26–30) Defeated by his exam strategy as the class understands it.
+[note] (p.30) Ichinose falls ill from this day and begins missing school; she enters spring break without attending a single day (p.30).
 
-[scene] (p.148-191) Mentioned/appears in Ch.9.
-[rel:ayanokouji-kiyotaka] (pp.148-191) Appears in this volume.
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
+<!-- walk: y2v12.5 Ch.1 → p.30 -->
 ## y3v1
 
 <!-- walk: y3v1 → start -->

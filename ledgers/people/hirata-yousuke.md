@@ -1656,16 +1656,15 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y2v12.5 → start -->
 
-### y2v12.5 pp.192-196 — Ch.10
+### y2v12.5 p.11–22 — Ch.1: The class debrief after the special exam
+[scene] (p.11) Hirata returns to the class as representative, unsettled by the confrontation between Ichinose and Ayanokōji.
+[says] (p.15) “Wait a minute, please.”
+[says] (p.15) “I also fought as a representative. I wasn’t useful, and I understand that I don’t have the right to complain or object. But... even so, was it worth sacrificing a classmate? Even if expelling Maezono meant a 100% chance of victory, I can’t simply agree, but what if we’d lost? Wasn’t that possibility considered? No matter the representative, I think this method is bordering on overstepping.”
+[note] (p.22) “I agree. If no one else insists on continuing, let’s end it here.” — the line is unattributed; the surrounding narration points at Yōsuke, who showed no objection.
+[rel:ayanokouji-kiyotaka] (p.15–22) He objects to the Maezono sacrifice; no vote is called.
+[rel:horikita-suzune] (p.11–22) Fellow representative; they walk back to the classroom in silence.
 
-[scene] (p.192-196) Mentioned/appears in Ch.10.
-[rel:ayanokouji-kiyotaka] (pp.192-196) Appears in this volume.
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
+<!-- walk: y2v12.5 Ch.1 → p.22 -->
 ## y3v1
 
 <!-- walk: y3v1 → start -->

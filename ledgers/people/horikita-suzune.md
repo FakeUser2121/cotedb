@@ -3654,15 +3654,23 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v12.5 → start -->
 
-### y2v12.5 pp.11-20, 139-199 — Ch.1-10, Epilogue
+### y2v12.5 p.11–22 — Ch.1: The class debrief after the special exam
+[scene] (p.11) The representatives return to the classroom; Horikita will explain what she can share about the exam.
+[says] (p.13) “I’m sorry, but could everyone please stay for a while?”
+[says] (p.13) “Yes. I judged that we can’t leave any unresolved issues from this end-of-year special exam. But I can’t do it alone. Could I get everyone’s cooperation?”
+[says] (p.13) “Including myself, I want to clear up what seems to be our biggest concern first.”
+[says] (p.14) “In my opinion... There was definitely a risk of expulsion for the student assigned the role of traitor, but if the rules were properly understood, the risk of expulsion was almost zero. I thought Maezono-san and Ayanokōji-kun understood that well...”
+[says] (p.14) “...Yes, she was strong. I couldn’t envision any way to win.”
+[says] (p.15) “Expelling Maezono... the traitor, how does that lead to victory?”
+[says] (p.15) “Mutually using the rights of the traitor... Indeed, it would be easy to establish with Ichinose-san, and it indirectly implicates her in Maezono-san’s expulsion... That was your aim...”
+[says] (p.17) “...There’s a convincing reason behind it—is what you’re trying to say?”
+[says] (p.20) “I really couldn’t stand against Ichinose-san.”
+[says] (p.20) “It was... necessary for our class to win.”
+[rel:ayanokouji-kiyotaka] (p.11–22) She reports her defeat to Ichinose honestly and, at the end, backs Ayanokōji's decision as class leader.
+[rel:hirata-yousuke] (p.15–22) He objects; she does not call a vote.
+[rel:ichinose-honami] (p.14–20) She lost to Ichinose in the representative battle.
 
-[scene] (p.11-20) Mentioned/appears in Ch.1-10, Epilogue.
-[rel:ayanokouji-kiyotaka] (pp.11-20, 139-199) Appears in this volume.
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
+<!-- walk: y2v12.5 Ch.1 → p.22 -->
 ## y3v1
 
 <!-- walk: y3v1 → start -->
