@@ -10284,4 +10284,68 @@ walk: y1v1 → DONE
 [rel:yamamura-miki] (p.168–176) He finds her at the vending machine; he listens for hours to the lottery story; he offers to stand between them.
 [rel:shiina-hiyori] (p.168) He delegates the search report to her phone line; she stays in her room as lookout.
 
+
 <!-- walk: y2v11 ch7 → p.181 -->
+
+### y2v11 p.182–193 — Ch.8: The morning everything ends
+[scene] (p.182) Sunday, fourth day; the camp ends today; the fight with Amasawa is set for 7 o'clock; before 6 he comes to the dim lobby; only one message from Nagumo: “I won't say thank you.”
+[note] (p.182) The hidden special exam — a student who expelled him would get 20 million private points — has been canceled by Tsukishiro; he is disappointed to lose the right to expel in a dignified manner.
+[says] (p.182) “It seems everything is fine.”
+[note] (p.185) Horikita, Ibuki and Kushida appear; Kushida declares she will watch the whole thing on her phone; the fight itself is never narrated.
+[says:kushida-kikyou] (p.186) “For me, it's like a win-win situation no matter who loses.”
+[note] (p.186) Kushida has a cultural-festival dispute with Amasawa; she wants either side to lose; she stays as witness; Tsubaki returns to the building before they arrive.
+[says] (p.188) “We've done what we can. Now let's see how far you'll get in the real match.”
+[says:horikita-suzune] (p.188) “Yes, thank you. Thanks to you, our chances have increased.”
+[says:ibuki-mio] (p.188) “I won't say thank you. I think my way of thanking you is to kick you someday.”
+[says:kushida-kikyou] (p.188) “Eh? Aren't you going to watch, Ayanokōji-kun? I thought we were going to watch together.”
+[note] (p.188) He doesn't stay for it; the rematch could be ruined if Amasawa senses him; he has one more thing to do this morning.
+[says] (p.188) “It's cold, isn't it? You didn't have to come earlier than the promised time.”
+[says:sakayanagi-arisu] (p.188) “Don't worry about it. It's not often that you call out to me, Ayanokōji-kun. I enjoyed waiting.”
+[says] (p.189) “Can I sit next to you?”
+[says:sakayanagi-arisu] (p.189) “I've kept it open for that purpose.”
+[says] (p.189) “I'll get straight to the point. I've got Yamamura waiting in the dog park nearby.”
+[says:sakayanagi-arisu] (p.189) “Eh? The dog park? Yamamura-san? What do you mean?”
+[says] (p.189) “Didn't you expect Yamamura's name to come up?”
+[says:sakayanagi-arisu] (p.189) “She was in the same exchange meeting group as you, wasn't she? Did she do something problematic?”
+[says] (p.189) “You knew about it. That Yamamura and I were in the same group.”
+[says:sakayanagi-arisu] (p.189) “That's a surprise. Naturally, I had already figured out which group each student in the class was assigned to when we got on the bus. I was just observing this time, so I didn't interfere with the exchange meeting.”
+[says] (p.189) “On the second day of the camp, when we talked in the lobby, do you remember what you said? 'Hashimoto-kun and Morishita-san are in the same group. How is Hashimoto-kun doing?' That's what you said. It's impossible for you to overlook Class A's group assignments, as you seem to pride yourself on. Yet, you didn't even mention Yamamura's name, did you?”
+[says:sakayanagi-arisu] (p.190) “...Yes, that's right. I admit that I didn't mention Yamamura-san's name at that time. But it's none of your business, is it, Ayanokōji-kun?”
+[says] (p.190) “Indeed, it's none of my business. I'm probably meddling in others' affairs by doing this.”
+[says] (p.190) “You lost Kamuro. And at the same time, you were entrusted with her feelings. But that doesn't mean everything is back to normal. You haven't even finished choosing who to keep by your side, have you?”
+[says:sakayanagi-arisu] (p.190) “Indeed, I haven't decided yet, but are you suggesting that I should appoint Yamamura-san?”
+[says] (p.190) “That's not what I meant. People have their own strengths and weaknesses.”
+[says] (p.190) “The survival and elimination special exam—there are some people that still seem to be trapped in that exam.”
+[says:sakayanagi-arisu] (p.190) “...Are you talking about me and Yamamura-san?”
+[says] (p.190) “That's right. Yamamura is suffering and can't move forward, even though her situation is very different from yours.”
+[says] (p.190) “If you're still bothered by that, you should resolve it.”
+[says:sakayanagi-arisu] (p.190) “...What you're saying is strange, Ayanokōji-kun.”
+[says] (p.190) “Strange?”
+[says:sakayanagi-arisu] (p.190) “I thought you were just going to stand on the sidelines from now on. Isn't your unnecessary intervention excessive?”
+[says] (p.190) “That's right. I also thought until a little while ago that I should just stand on the sidelines from here on.”
+[says] (p.190) “I don't particularly want you to have anything to do with Yamamura. I don't have any such hopes at all. Whether you want to get closer or more distant, or even cut ties, is up to you. But if you're going to talk, now is the only time.”
+[says:sakayanagi-arisu] (p.190) “Wouldn't it be smartest to leave everything behind at this training camp?”
+[says] (p.190) “As I said earlier, I have Yamamura waiting in the dog park. She's been waiting for you in the cold for over 20 minutes now.”
+[says:sakayanagi-arisu] (p.190) “If that's the case, aren't you being a bit mean, Ayanokōji-kun? The time you promised to meet me was 7 o'clock. We haven't even been talking for ten minutes yet. Doesn't that mean she's been waiting since before that?”
+[says] (p.191) “This is also part of my strategy.”
+[says:sakayanagi-arisu] (p.191) “I guess there's no choice. I can't let her catch a cold because of me. Let's go pick her up for now.”
+[says] (p.191) “It's a bit of a distance, but even you can walk there in about five minutes. Go ahead.”
+[says:sakayanagi-arisu] (p.191) “...My... leg...”
+[says:sakayanagi-arisu] (p.191) “My leg... I can't move it... I wonder why.”
+[says] (p.191) “Don't feel like you can show this side to anyone else?”
+[says:sakayanagi-arisu] (p.191) “...Yes, that's right...”
+[says] (p.191) “Then, just for now, I'll be your legs. That should make it easy for you to walk.”
+[says:sakayanagi-arisu] (p.192) “...I'm sorry.”
+[says] (p.192) “It's okay. It's my own meddling that started this.”
+[note] (p.191–192) The Kamuro wound; her body won't walk; he takes her left hand; he doesn't let go; they walk in silence.
+[note] (p.193) Sakayanagi raised her hand slowly to make her presence known; he gently pushes her back; the two walk ahead on their own; the exchange meeting ends; he leaves a different way.
+[rel:sakayanagi-arisu] (p.182–193) He meddles for once with full knowledge; he lends her his legs; he leaves before the reunion to keep it private.
+[rel:yamamura-miki] (p.182–193) The vending-machine plan in action; the reunion happens off-page.
+[rel:tsubaki-sakurako] (p.182–185) She intercepts him in the lobby in the cold; her hypothetical about a hidden sibling; she leaves before Horikita and Ibuki arrive.
+[rel:kushida-kikyou] (p.185–188) She spectates the whole fight on her phone; today she wins no matter who loses.
+[rel:ibuki-mio] (p.185–188) The two-on-one fight; today it costs them; she leaves without a comment.
+[rel:horikita-suzune] (p.185–188) The rematch happens off-page; the two lose together.
+
+### y2v11 p.194 — Epilogue: The morning alone
+
+<!-- walk: y2v11 ch8 → p.193 -->

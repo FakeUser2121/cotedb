@@ -4672,3 +4672,15 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v11 ch6 → p.167 -->
 
+### y2v11 p.185–188 — Ch.8: The fight that happens off-page
+[scene] (p.185) They arrive at dawn; the Amasawa rematch is set for 7 o'clock; Kushida shows up as a spectator; Tsubaki is already gone.
+[note] (p.185) The three of them wait with the morning bird; Kushida leaks nothing she shouldn't; her chip-on-shoulder spans both fighters.
+[says:ibuki-mio] (p.186) “But I can knock him down with my kick!”
+[says:ibuki-mio] (p.186) “How this guy's so popular—I just don't understand at allllllllllllllllllllllllll.”
+[says] (p.188) “Yes, thank you. Thanks to you, our chances have increased.”
+[note] (p.188) Horikita bows politely and thanks him; she urges Ibuki to thank him too; Ibuki turns away and snorts; he leaves before the rematch starts.
+[note] (p.188) The Epilogue records that they lost; Amasawa analyzes them mid-fight; the fight itself is never narrated.
+[rel:ibuki-mio] (p.185–188) The two-on-one plan; they fight side by side; they lose together.
+[rel:amasawa-ichika] (p.185–188) The island debt; the grudge; the rematch.
+
+<!-- walk: y2v11 ch8 → p.193 -->

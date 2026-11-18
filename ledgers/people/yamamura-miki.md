@@ -308,4 +308,13 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 [rel:shiina-hiyori] (p.168) Her disappearance triggers Hiyori's worried text; Hiyori stays in the room as lookout.
 
 
+
 <!-- walk: y2v11 ch7 → p.181 -->
+
+### y2v11 p.188–193 — Ch.8: The dog park
+[scene] (p.188) The morning everything ends; she waits at the dog park in the cold for 20 minutes; the girl who always waits for others finally gets to wait for herself.
+[note] (p.188) She is in sight from the bench from the start; he positions her as the end goal; her waiting is patient and anxious.
+[note] (p.193) Sakayanagi walks in on her own after he pushes her back; the two see each other; the scene closes without a single line of dialogue.
+[rel:sakayanagi-arisu] (p.188–193) The end of the long thread — the lottery, the verdict, the forgiveness; the two finally meet on their own terms.
+
+<!-- walk: y2v11 ch8 → p.193 -->

@@ -856,4 +856,12 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 
 
+
 <!-- walk: y2v11 ch7 → p.181 -->
+
+### y2v11 p.182 — Ch.8: The message from 1:30 a.m.
+[scene] (p.182) The 4th day morning; the single message from him in the middle of the night — “I won't say thank you.”
+[note] (p.182) The message came in at 1:30 in the morning; it closes the bet's aftermath; the school trip ends Sunday.
+[mentioned] (p.182) Named in the one message received; not present on these pages.
+
+<!-- walk: y2v11 ch8 → p.193 -->

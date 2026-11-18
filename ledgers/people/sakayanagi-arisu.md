@@ -1352,4 +1352,50 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.176) Her two wishes for Kiyotaka's intervention — to know what Sakayanagi thought of her then and now; and that Sakayanagi, who doesn't suit losing, should not struggle in the end-of-year exam.
 [rel:yamamura-miki] (p.172–176) She haunts Sakayanagi's sleep and her decisions; the camp's final act brings the two to the dog park.
 
+
 <!-- walk: y2v11 ch7 → p.181 -->
+
+### y2v11 p.188–193 — Ch.8: The legs he lends
+[scene] (p.188) The morning everything ends; 7 o'clock; the fight; he leaves before it starts; he has one thing to do; she waits on a bench at the promised time.
+[says:ayanokouji-kiyotaka] (p.188) “It's cold, isn't it? You didn't have to come earlier than the promised time.”
+[says] (p.188) “Don't worry about it. It's not often that you call out to me, Ayanokōji-kun. I enjoyed waiting.”
+[says:ayanokouji-kiyotaka] (p.189) “Can I sit next to you?”
+[says] (p.189) “I've kept it open for that purpose.”
+[says:ayanokouji-kiyotaka] (p.189) “I'll get straight to the point. I've got Yamamura waiting in the dog park nearby.”
+[says] (p.189) “Eh? The dog park? Yamamura-san? What do you mean?”
+[says:ayanokouji-kiyotaka] (p.189) “You knew about it. That Yamamura and I were in the same group.”
+[says] (p.189) “That's a surprise. Naturally, I had already figured out which group each student in the class was assigned to when we got on the bus. I was just observing this time, so I didn't interfere with the exchange meeting.”
+[says:ayanokouji-kiyotaka] (p.189) “On the second day of the camp, when we talked in the lobby, do you remember what you said? 'Hashimoto-kun and Morishita-san are in the same group. How is Hashimoto-kun doing?' That's what you said. It's impossible for you to overlook Class A's group assignments, as you seem to pride yourself on. Yet, you didn't even mention Yamamura's name, did you?”
+[says] (p.190) “...Yes, that's right. I admit that I didn't mention Yamamura-san's name at that time. But it's none of your business, is it, Ayanokōji-kun?”
+[says:ayanokouji-kiyotaka] (p.190) “Indeed, it's none of my business. I'm probably meddling in others' affairs by doing this.”
+[says:ayanokouji-kiyotaka] (p.190) “You lost Kamuro. And at the same time, you were entrusted with her feelings. But that doesn't mean everything is back to normal. You haven't even finished choosing who to keep by your side, have you?”
+[says] (p.190) “Indeed, I haven't decided yet, but are you suggesting that I should appoint Yamamura-san?”
+[says:ayanokouji-kiyotaka] (p.190) “That's not what I meant. People have their own strengths and weaknesses.”
+[says:ayanokouji-kiyotaka] (p.190) “The survival and elimination special exam—there are some people that still seem to be trapped in that exam.”
+[says] (p.190) “...Are you talking about me and Yamamura-san?”
+[says:ayanokouji-kiyotaka] (p.190) “That's right. Yamamura is suffering and can't move forward, even though her situation is very different from yours.”
+[says:ayanokouji-kiyotaka] (p.190) “If you're still bothered by that, you should resolve it.”
+[says] (p.190) “...What you're saying is strange, Ayanokōji-kun.”
+[says:ayanokouji-kiyotaka] (p.190) “Strange?”
+[says] (p.190) “I thought you were just going to stand on the sidelines from now on. Isn't your unnecessary intervention excessive?”
+[says:ayanokouji-kiyotaka] (p.190) “That's right. I also thought until a little while ago that I should just stand on the sidelines from here on.”
+[says:ayanokouji-kiyotaka] (p.190) “I don't particularly want you to have anything to do with Yamamura. I don't have any such hopes at all. Whether you want to get closer or more distant, or even cut ties, is up to you. But if you're going to talk, now is the only time.”
+[says] (p.190) “Wouldn't it be smartest to leave everything behind at this training camp?”
+[says:ayanokouji-kiyotaka] (p.190) “As I said earlier, I have Yamamura waiting in the dog park. She's been waiting for you in the cold for over 20 minutes now.”
+[says] (p.190) “If that's the case, aren't you being a bit mean, Ayanokōji-kun? The time you promised to meet me was 7 o'clock. We haven't even been talking for ten minutes yet. Doesn't that mean she's been waiting since before that?”
+[says:ayanokouji-kiyotaka] (p.191) “This is also part of my strategy.”
+[says] (p.191) “I guess there's no choice. I can't let her catch a cold because of me. Let's go pick her up for now.”
+[says:ayanokouji-kiyotaka] (p.191) “It's a bit of a distance, but even you can walk there in about five minutes. Go ahead.”
+[says] (p.191) “...My... leg...”
+[says] (p.191) “My leg... I can't move it... I wonder why.”
+[says:ayanokouji-kiyotaka] (p.191) “Don't feel like you can show this side to anyone else?”
+[says] (p.191) “...Yes, that's right...”
+[says:ayanokouji-kiyotaka] (p.191) “Then, just for now, I'll be your legs. That should make it easy for you to walk.”
+[says] (p.192) “...I'm sorry.”
+[says:ayanokouji-kiyotaka] (p.192) “It's okay. It's my own meddling that started this.”
+[note] (p.191) The Kamuro wound; her body refuses to walk; he takes her left hand; he doesn't let go; they walk in silence.
+[note] (p.193) She raised her hand slowly from the distance; he gently pushes her back; the two walk ahead on their own; the exchange meeting ends; he leaves a different way.
+[rel:yamamura-miki] (p.188–193) The two finally meet at the dog park; the inseparable pair.
+[rel:ayanokouji-kiyotaka] (p.188–193) He lends her his legs; he doesn't stay for the reveal; he trusts the process.
+
+<!-- walk: y2v11 ch8 → p.193 -->

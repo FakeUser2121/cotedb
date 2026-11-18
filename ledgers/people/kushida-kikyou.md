@@ -1953,3 +1953,18 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:ayanokouji-kiyotaka] (p.114–117) She negotiates for the win bribe; he wins 3–2 anyway.
 
 <!-- walk: y2v11 ch5 → p.144 -->
+
+### y2v11 p.185–188 — Ch.8: The spectator
+[scene] (p.185) She shows up at dawn for the fight; she tags along with Horikita and Ibuki; she plans to watch everything on her phone.
+[says:horikita-suzune] (p.185) “Ibuki-san here carelessly leaked about her rematch with Amasawa-san. Carelessly.”
+[says] (p.185) “For me, it's like a win-win situation no matter who loses.”
+[says] (p.185) “About Tsubaki-san earlier, was it about love? I've been thinking for a while, but Ayanokōji-kun, you're surprisingly popular, aren't you?”
+[says] (p.186) “...Well, it's not that he doesn't have any appeal, right? If you look around, you can see that there are no other decent men, right? Compared to such riffraffs, he might look better.”
+[says] (p.186) “Then, if you had to date either Ryūen-kun or Ayanokōji-kun, who would you choose, Ibuki-san?”
+[says] (p.188) “Eh? Aren't you going to watch, Ayanokōji-kun? I thought we were going to watch together.”
+[note] (p.185) She has a dispute with Amasawa herself from the cultural festival; she wants either side to lose; her glee is indiscriminate.
+[note] (p.188) She declares she'll watch the whole thing and brought her phone as a witness.
+[rel:amasawa-ichika] (p.185–188) The cultural-festival dispute; today's rematch.
+[rel:horikita-suzune] (p.185–188) The borrowed fight; the dawn show.
+
+<!-- walk: y2v11 ch8 → p.193 -->

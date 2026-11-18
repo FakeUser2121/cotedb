@@ -1172,3 +1172,18 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [note] (p.161) Kiyotaka's 58 outlasts Amasawa's 57; the spectators' interest dries up.
 
 <!-- walk: y2v11 ch6 → p.167 -->
+
+### y2v11 p.185–188 — Ch.8: The fight that happens off-page
+[scene] (p.185) They arrive at dawn; the Amasawa rematch is set for 7 o'clock; Kushida shows up as a spectator; Tsubaki has already left.
+[note] (p.185) Kushida is a cultural-festival enemy of Amasawa; she doesn't care who wins or loses.
+[says] (p.185) “It's not my fault! It's Kushida's fault for tricking me into it!”
+[says] (p.186) “But I can knock him down with my kick!”
+[says] (p.186) “How this guy's so popular—I just don't understand at allllllllllllllllllllllllll.”
+[note] (p.186) “I think they're the same to me...!” — speaker unattributed in the text.
+[note] (p.186–187) The comparison — curry-flavored shit vs shit-flavored curry; she doesn't want to hear which; the AK story tracks — it burns.
+[says] (p.188) “I won't say thank you. I think my way of thanking you is to kick you someday.”
+[note] (p.188) She leaves before the fight; her gratitude is her own business; the Epilogue records that they lost.
+[rel:horikita-suzune] (p.185–188) The two-on-one fight; the island debt; the side-by-side loss.
+[rel:amasawa-ichika] (p.185–188) The rematch; the grudge.
+
+<!-- walk: y2v11 ch8 → p.193 -->
