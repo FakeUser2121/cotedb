@@ -2293,4 +2293,3 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [note] (p.11) Passing mention (locator pages: p.20, p.24-25, p.40, p.68, p.86, p.98; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
-<!-- walk: y2v12 Epilogue → p.228 -->

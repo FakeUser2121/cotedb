@@ -9588,9 +9588,44 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — ayanokouji-kiyotaka mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.15, p.19, p.22, p.26-28, p.32, p.34; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
+### y2v11 p.11–18 — Ch.1: The two-party interview
+[scene] (p.11) February; the fifth and final day of the two-person interviews; Ayanokōji comes to the career counseling room at the end of the day, the last slot.
+[says:chabashira-sae] (p.13) “What, are you shocked to be treated on the same level as Kōenji?”
+[says] (p.13) “I'd be lying if I said I didn't think anything of it.”
+[says] (p.13) “I don't have anything in particular. As an individual, I'm satisfied.”
+[says] (p.14) “I think my family will decide what to do about my future. I don't think there's anything to discuss here.”
+[says] (p.15) “I think I can pass any university.”
+[says] (p.15) “I don't. Even if I did, unfortunately, I don't have the right to decide.”
+[says] (p.16) “Is my father actually coming? Not someone else? Not a proxy?”
+[note] (p.14–16) His mother is absent from the school data; Chabashira notes the school has received no word from his family about higher education or a job; she expects his father at the three-party meeting.
+[note] (p.16–17) The father first told her a proxy would attend; then called to say he would come himself, and asked to be told of any change to the entire class's schedule, not only his son's.
+[note] (p.16) A three-party meeting is set for April 1st; he suspects a catch behind his father's change of heart.
+[rel:chabashira-sae] (p.11–18) She conducts his interview; he gives no plans, no complaints, and no requests; he accepts the April 1st slot on the premise his father will attend.
 
-<!-- walk: y2v12 Epilogue → p.228 -->
+### y2v11 p.19–26 — Ch.1: Hashimoto waits at his door
+[scene] (p.19) About an hour before dinner; leaving the elevator he finds Hashimoto Masayoshi of Class A leaning against his door; a presence on the emergency stairs may have been watching.
+[says] (p.21) “Isn't that enough of an opening? Why did you betray Sakayanagi?”
+[says] (p.22) “The questions just keep piling up. To begin with, betraying Sakayanagi by weighing me in the equation? Don't you think it's a story that would make other students scratch their heads in disbelief?”
+[says] (p.23) “So, even if I manage to secure a transfer, you still won't come to Class A?”
+[says] (p.24) “But you've also made a big mistake.”
+[says] (p.25) “Something that stood out in our conversation is that you don't trust people.”
+[note] (p.20) Hashimoto is suspected in Class A of leaking information to Ryūen during the special exam, leaving Class A at the bottom; no concrete evidence against him is known.
+[note] (p.22–23) His account: Sakayanagi refused to recruit Kiyotaka into Class A; he acts alone; Kiyotaka judges the enterprise a doomed pipe dream and he refuses Class A outright.
+[note] (p.24–25) Kiyotaka reads him as concealing pieces of his own plan, driven by not trusting people; even the promised "own chances of winning" go unexplained.
+[note] (p.29) Walking together later, Kiyotaka suspects the encounter was engineered so Sakayanagi would learn he had contacted Kiyotaka.
+[rel:hashimoto-masayoshi] (p.19–25) Hashimoto confesses the betrayal's trigger was his attempt to pull Kiyotaka into Class A; he asks Kiyotaka to weigh what he should do with himself.
+[rel:karuizawa-kei] (p.26) Kei is due at his room after this; he sets aside time and tells Hashimoto so.
+
+### y2v11 p.26–33 — Ch.1: The convenience store party of three (four)
+[scene] (p.26) Hashimoto joins him to the convenience store; in the lobby they run into Morishita Ai; the three walk to the store; Yamamura Miki is cornered into shopping with them; Kiryūin Fūka stops by at the cooler.
+[says] (p.29) “Isn't she just keeping an eye on the traitor?”
+[says] (p.32) “I've never had that brand before, so I can't answer.”
+[note] (p.27–29) Kiyotaka suspects Morishita is probing about his interview and Hashimoto; how she knows the meeting should have ended long ago is unstated.
+[note] (p.30) Yamamura had been watching Hashimoto on the emergency stairs; Kiyotaka sees no reason she would watch him.
+[rel:hashimoto-masayoshi] (p.26–33) Hashimoto walks and shops with them; he covers for him when Morishita probes about the interview.
+[rel:morishita-ai] (p.26–32) She needles both of them, calls Hashimoto "the traitor", then joins the shopping.
+[rel:yamamura-miki] (p.30–33) Recognized in the beverage section; says little; swept into the shopping by Morishita.
+[rel:kiryuin-fuuka] (p.32–33) Class 3-B; he answers her green-tea pitch honestly; she takes in the group and leaves.
+[rel:karuizawa-kei] (p.30) He texts Kei about dinner in the store and settles on what she wants plus his own microwave side dishes.
+
+<!-- walk: y2v11 ch1 → p.33 -->

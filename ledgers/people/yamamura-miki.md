@@ -176,13 +176,16 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — yamamura-miki mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.10, p.30-32, p.46-49, p.60, p.111, p.120-121; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
+### y2v11 p.30–33 — Ch.1: Three or four items she can't refuse
+[scene] (p.30) In the convenience-store beverage section she collides almost with Kiyotaka; she had been watching Hashimoto on the emergency stairs.
+[scene] (p.31) She ends up shopping with the group; unable to refuse Morishita's recommendations.
+[says] (p.30) “Ah... H-hello...”
+[says] (p.30) “Um, I... I use the convenience store quite a bit... about once or twice a week... but I don't stand out... I'm sorry.”
+[says] (p.31) “Eh, um, yes... if that's okay with you... I mean...”
+[says] (p.32) “No, um... I'm Yamamura...”
+[rel:hashimoto-masayoshi] (p.30–32) She had been watching him on the emergency stairs; he probes her store habit in awkward fashion.
+[rel:morishita-ai] (p.31–33) Morishita overwhelms her with recommendations; she gives in and buys three or four items.
+[note] (p.30) Kiyotaka infers she was watching Hashimoto, perhaps for Sakayanagi; there is no reason to think she was watching him.
+[note] (p.31) Morishita notes it's rare to see Yamamura talking to a boy; her own classmates struggle with her.
 
-
-
-
-
-<!-- walk: y2v12 Epilogue → p.228 -->
+<!-- walk: y2v11 ch1 → p.33 -->

@@ -304,4 +304,3 @@ aliases used for anchors: sakagami, sakagami-sensei
 [note] (p.11) Passing mention (locator pages: p.205, p.207-208; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
-<!-- walk: y2v12 Epilogue → p.228 -->

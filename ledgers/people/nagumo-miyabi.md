@@ -732,4 +732,3 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [note] (p.11) Passing mention (locator pages: p.39, p.53-62, p.64-65, p.67-72, p.78, p.84; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
-<!-- walk: y2v12 Epilogue → p.228 -->

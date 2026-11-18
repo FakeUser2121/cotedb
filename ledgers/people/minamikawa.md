@@ -19,4 +19,3 @@ char_id: minamikawa · class: unknown · status: unknown
 
 
 
-<!-- walk: y2v12 Epilogue → p.228 -->

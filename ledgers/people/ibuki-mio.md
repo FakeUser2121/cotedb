@@ -1128,4 +1128,3 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [note] (p.11) Passing mention (locator pages: p.93-94, p.100-106, p.115, p.117, p.145-151, p.161; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
-<!-- walk: y2v12 Epilogue → p.228 -->

@@ -19,4 +19,3 @@ char_id: osaki-noa · class: unknown · status: unknown
 
 
 
-<!-- walk: y2v12 Epilogue → p.228 -->

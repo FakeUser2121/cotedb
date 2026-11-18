@@ -415,4 +415,3 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [note] (p.11) Passing mention (locator pages: p.11, p.20-21, p.23, p.88, p.90-91, p.111-112; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
-<!-- walk: y2v12 Epilogue → p.228 -->

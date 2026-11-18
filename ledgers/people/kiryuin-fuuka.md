@@ -176,14 +176,17 @@ char_id: kiryuin-fuuka · class: unknown · status: unknown
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — kiryuin-fuuka mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.32-33, p.38, p.45-47, p.49, p.51-52, p.57-61; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
+### y2v11 p.32–33 — Ch.1: The green-tea brand
+[scene] (p.32) Class 3-B's Kiryūin Fūka stops by the beverage cooler; her shoulder lightly collides with Yamamura's; she turns her gaze on Kiyotaka like a beverage promoter.
+[says] (p.32) “I like this brand's tea. You can feel the umami and aroma as if it were brewed in a teapot, right Ayanokōji?”
+[says] (p.32) “Oh? It's good to have a wide circle. You should cherish your friends.”
+[says] (p.32) “I'll remember all three of you.”
+[rel:ayanokouji-kiyotaka] (p.32–33) She knows him by name; aloof reputation among third-years noted.
+[rel:yamamura-miki] (p.32) Their shoulders collide; she apologizes to her first.
+[rel:morishita-ai] (p.32) She learns Yamamura and Morishita are in Class A.
+[rel:hashimoto-masayoshi] (p.32) He introduces himself as Class A; she lightly brushes off his offered hand.
 
-
-
-
+<!-- walk: y2v11 ch1 → p.33 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -192,6 +195,3 @@ char_id: kiryuin-fuuka · class: unknown · status: unknown
 [scene] (p.12) Named in this volume.
 [note] (p.12) Passing mention (locator pages: p.63-64; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.12) Passing mention only.
-
-
-

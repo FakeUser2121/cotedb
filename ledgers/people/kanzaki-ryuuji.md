@@ -710,4 +710,3 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [note] (p.11) Passing mention (locator pages: p.40, p.160; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
-<!-- walk: y2v12 Epilogue → p.228 -->

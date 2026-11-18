@@ -981,4 +981,3 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [note] (p.11) Passing mention (locator pages: p.13, p.40, p.49-50, p.72-79, p.81, p.83; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
-<!-- walk: y2v12 Epilogue → p.228 -->

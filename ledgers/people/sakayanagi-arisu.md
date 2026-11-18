@@ -1190,4 +1190,3 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.11) Passing mention (locator pages: p.10-11, p.19, p.21-25, p.29-30, p.40, p.86-91; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
-<!-- walk: y2v12 Epilogue → p.228 -->

@@ -838,4 +838,3 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [note] (p.11) Passing mention (locator pages: p.123-124, p.126-130, p.132, p.148; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
-<!-- walk: y2v12 Epilogue → p.228 -->

@@ -624,4 +624,3 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [note] (p.11) Passing mention (locator pages: p.46, p.48-49, p.108, p.137, p.140, p.171; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
-<!-- walk: y2v12 Epilogue → p.228 -->

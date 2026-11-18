@@ -166,4 +166,3 @@ char_id: onodera-kayano · status: minor
 
 
 
-<!-- walk: y2v12 Epilogue → p.228 -->

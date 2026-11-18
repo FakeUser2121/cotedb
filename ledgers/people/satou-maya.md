@@ -536,4 +536,3 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [note] (p.11) Passing mention (locator pages: p.40, p.133-134; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
-<!-- walk: y2v12 Epilogue → p.228 -->

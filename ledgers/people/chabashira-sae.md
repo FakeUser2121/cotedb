@@ -1413,9 +1413,18 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — chabashira-sae mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.11, p.13-17, p.34-41, p.44, p.214, p.217; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
+### y2v11 p.11–18 — Ch.1: Interviewing the oddball
+[scene] (p.11) Fifth and final day of the two-person interviews; Ayanokōji is called to the career counseling room last.
+[says] (p.11) “You're finally here. Have a seat.”
+[says] (p.11) “As a homeroom teacher, I can't help but be busy during this time. But I feel a little better knowing that the two-person interviews will be over today. It was a good decision to leave the two oddballs for last.”
+[says] (p.13) “What, are you shocked to be treated on the same level as Kōenji?”
+[says] (p.13) “Well, I don't have many opportunities to talk with each student. Before we talk about your future plans, let's talk about your school life. If there's anything you want the school to improve, I'd like to hear it.”
+[says] (p.13) “I don't think you're holding back...”
+[says] (p.15) “I don't know much about your past. I think it was wrong of me to pretend to know about it and try to leverage that. But now, as a homeroom teacher, I want to fully understand the abilities of the students I'm in charge of. That's my duty.”
+[says] (p.15) “So tell me, if your parents want you to go on to higher education, can I assume that you have the ability to do so?”
+[says] (p.16) “Yes, that's what I heard.”
+[says] (p.17) “That is, you're scheduled for the last slot.”
+[note] (p.16–17) The father first told her a proxy would attend; then called to say he would come himself; he wants notice of any change to the whole class's schedule.
+[rel:ayanokouji-kiyotaka] (p.11–18) She interviews him as homeroom teacher; he gives no complaints and no plans; she takes his word at face value.
 
-<!-- walk: y2v12 Epilogue → p.228 -->
+<!-- walk: y2v11 ch1 → p.33 -->

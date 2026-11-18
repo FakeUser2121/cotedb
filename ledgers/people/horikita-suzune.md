@@ -4565,4 +4565,3 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (p.11) Passing mention (locator pages: p.27, p.40, p.54, p.56-57, p.70, p.72; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
-<!-- walk: y2v12 Epilogue → p.228 -->

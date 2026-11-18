@@ -975,4 +975,3 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [note] (p.11) Passing mention (locator pages: p.27, p.39-40, p.54, p.56-57, p.59, p.65; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
-<!-- walk: y2v12 Epilogue → p.228 -->
