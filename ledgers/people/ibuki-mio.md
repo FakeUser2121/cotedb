@@ -836,18 +836,22 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [note] (p.12) Passing mention (locator pages: p.41, p.106, p.220, p.222; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.12) Passing mention only.
 
-## y2v12.5
+### y2v12.5 p.83–84 — Ch.5: The same screening
+[scene] (p.83) Ibuki is in the same screening as Ayanokōji and Karuizawa; she is seated next to Kei and leaves in the middle of the credits.
+[says] (p.83) “Ugh, Ayanokōji and Karuizawa!”
+[says] (p.83) “Are we really watching the same movie? The worst...”
+[says] (p.83) “Ugh, why out of all places are you guys here!”
+[says] (p.83) “...Not really. Just by chance, totally by chance.”
+[says] (p.83) “How about you guys just leave me alone?”
+[says] (p.83) “No thanks.”
+[says] (p.83) “Huh? What are you talking about all of a sudden? Ask that idiot next to you.”
+[says] (p.84) “...Are you picking a fight with me?”
+[says] (p.84) “There’s no way I’d know... So, you have it figured out or something?”
+[says] (p.84) “Whatever...”
+[rel:karuizawa-kei] (p.83–84) She is visibly uncomfortable sitting next to them; Kei teases her.
+[rel:ayanokouji-kiyotaka] (p.83–84) She treats him with open irritation; she asked Kei why Sakayanagi couldn't find the traitor.
 
-<!-- walk: y2v12.5 → start -->
-
-### y2v12.5 pp.80-84, 148-157 — Ch.5, Ch.9
-
-[scene] (p.80-84) Mentioned/appears in Ch.5, Ch.9.
-[rel:ayanokouji-kiyotaka] (pp.80-84, 148-157) Appears in this volume.
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
+<!-- walk: y2v12.5 Ch.5 → p.84 -->
 
 ## y3v1
 

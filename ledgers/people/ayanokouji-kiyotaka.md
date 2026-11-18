@@ -5968,6 +5968,46 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v12.5 Ch.4 → p.76 -->
 
+### y2v12.5 p.77–84 — Ch.5: The last date, part one
+[scene] (p.77) Saturday, March 30: he meets Kei in front of the cinema for the movie she wanted to see; he has already resolved to break up with her today.
+[says] (p.80) “You’re always like this. You should’ve eaten a little.”
+[says] (p.80) “Has anyone been blaming me for anything?”
+[says] (p.80) “It’s my responsibility that Maezono got expelled. I was worried if there might’ve been any repercussions for that.”
+[says] (p.81) “But?”
+[says] (p.81) “I see. So, what do you think, Kei?”
+[says] (p.81) “Yeah.”
+[says] (p.81) “On what basis?”
+[says] (p.82) “I’m honestly impressed. That was the closest answer anyone in the class could’ve given.”
+[says] (p.82) “Worries?”
+[says] (p.82) “I see, it’s about that. I told you there was nothing.”
+[says] (p.82) “I did act boldly, but I was grateful that it didn’t attract as much attention as I expected.”
+[says] (p.82) “Didn’t you say you weren’t going to probe deeper? What’s with that suspicious look?”
+[says] (p.82) “It’s only natural to make an effort for the class, right?”
+[says] (p.83) “We can’t help it. We don’t know who’s sitting next to us, right?”
+[says] (p.84) “I don’t know. It was an exam where we couldn’t interfere with other classes, so there’s no way I’d know.”
+[rel:karuizawa-kei] (p.77–92) Today is the day he finally tells her they are breaking up; the narration registers that he loves her and does not want to part.
+[rel:ibuki-mio] (p.83–84) Ibuki is seated next to them at the screening; she is hostile to them both.
+
+<!-- walk: y2v12.5 Ch.5 → p.84 -->
+
+### y2v12.5 p.85–91 — Ch.5: The breakup at karaoke
+[scene] (p.85) After the credits end, he and Kei leave holding hands; they head to karaoke inside Keyaki Mall.
+[says] (p.86) “I agree—they set the bar too high. But even considering that, it wasn't bad. No, rather, it was more on the enjoyable side.”
+[scene] (p.87) In the karaoke room, holding hands on a large sofa, he realizes he cannot say the words; his heart throbs and he understands that he loves her.
+[scene] (p.88) He says it anyway: “Let’s break up.” In the quiet room, Kei accepts without protest.
+[says] (p.88) “Yeah. Whether it’s better this way or not, I’m not looking for such a discussion. Let’s end everything here and now.”
+[says] (p.88) “Seems like you aren’t surprised.”
+[says] (p.89) “Do you need an explanation for the reason?”
+[says] (p.89) “Sorry I couldn’t meet your expectations.”
+[says] (p.89) “That might be true.”
+[says] (p.90) “We both, kind of... feel like our romantic feelings have cooled down. Oh, it’s not that I dislike you, you know? I just thought maybe it’d be better if we went back to being friends.”
+[says] (p.90) “When asked why we broke up, you can say that you dumped me. I don’t mind.”
+[says] (p.90) “It’s okay. You can give any reason you like. If someone asks me, I’ll say I was dumped too.”
+[says] (p.90) “See you… Karuizawa.”
+[rel:karuizawa-kei] (p.85–91) He breaks up with her; he calls her by her last name for the first time and leaves without looking back.
+
+<!-- walk: y2v12.5 Ch.5 → p.91 -->
+
 ## y3v1
 
 <!-- walk: y3v1 → start -->
