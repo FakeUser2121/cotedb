@@ -2,6 +2,19 @@
 
 char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · status: minor
 
+## y2v1
+
+<!-- walk: y2v1 → start -->
+
+### y2v1 p.35–36, 40, 317–318 — Nagumo mentioned in passing
+[scene] (p.35–36) Named in the context of the student council.
+[scene] (p.40) Named in the context of Tsukishiro's actions.
+[scene] (p.317–318) Named in the context of the student council room.
+[note] (p.35–36, 40, 317–318) Passing mentions; not a distinct scene presence.
+[mentioned] (p.35–36, 40, 317–318) Passing mention only.
+
+<!-- walk: y2v1 Ch.4 → p.318 -->
+
 ## y1v4.5
 
 <!-- walk: y1v4.5 → start -->

@@ -2,6 +2,18 @@
 
 char_id: shimazaki-ikkei · class: unknown · status: unknown
 
+## y2v1
+
+<!-- walk: y2v1 → start -->
+
+### y2v1 p.224, 247 — Shimazaki mentioned in passing
+[scene] (p.224) Named in the context of the partner system.
+[scene] (p.247) Named in the context of the exam.
+[note] (p.224, 247) Passing mentions; not a distinct scene presence.
+[mentioned] (p.224, 247) Passing mention only.
+
+<!-- walk: y2v1 Ch.4 → p.247 -->
+
 ## y2v2
 
 <!-- walk: y2v2 → start -->

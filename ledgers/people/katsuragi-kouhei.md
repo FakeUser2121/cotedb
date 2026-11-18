@@ -2,6 +2,18 @@
 
 char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: minor
 
+## y2v1
+
+<!-- walk: y2v1 → start -->
+
+### y2v1 p.196, 213 — Katsuragi mentioned in passing
+[scene] (p.196) Named in the context of Ryūen's deal.
+[scene] (p.213) Named in the context of class funds.
+[note] (p.196, 213) Passing mentions; not a distinct scene presence.
+[mentioned] (p.196, 213) Passing mention only.
+
+<!-- walk: y2v1 Ch.4 → p.213 -->
+
 ## y1v3
 
 <!-- walk: y1v3 → start -->

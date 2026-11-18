@@ -2,6 +2,20 @@
 
 char_id: wang-mei-yu · status: minor
 
+## y2v1
+
+<!-- walk: y2v1 → start -->
+
+### y2v1 p.54, 102, 221, 227 — Wang (Mii-chan) mentioned in passing
+[scene] (p.54) Named in the context of the study sessions.
+[scene] (p.102) Named in the context of the group.
+[scene] (p.221) Named in the context of talented students.
+[scene] (p.227) Named in the context of the exam.
+[note] (p.54, 102, 221, 227) Passing mentions; not a distinct scene presence.
+[mentioned] (p.54, 102, 221, 227) Passing mention only.
+
+<!-- walk: y2v1 Ch.4 → p.227 -->
+
 ## y1v8
 
 <!-- walk: y1v8 → start -->
