@@ -1173,6 +1173,12 @@ aliases used for anchors: sakura, airi, sakura-san
 
 <!-- walk: y2v9 → start -->
 
+### y2v9 p.44 — Sakura mentioned in the study group context
+[scene] (p.44) Named in Horikita's speech — she references Sakura-san's withdrawal as mental pressure on the class.
+[note] (p.44) Passing mention only; not a scene presence.
+
+<!-- walk: y2v9 Ch.2 → p.44 -->
+
 
 
 ## y2v9.5
