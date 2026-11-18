@@ -368,6 +368,11 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 
 <!-- walk: y2v8 Ch.1 → p.45 -->
 
+### y2v8 p.191 — The White Room words surface
+[mentioned] (p.191) Ichinose reveals what she overheard in the Uninhabited Island Exam: "I heard the former acting chairman and Shiba-sensei talking during the Uninhabited Island Exam. There were few parts I could hear clearly, but I heard that he wanted to expel you and the words ‘White Room.’"
+
+<!-- walk: y2v8 Ch.6 → p.195 -->
+
 ### y2v8 p.11-208 — tsukishiro mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.34-36, p.60, p.190.

@@ -60,6 +60,11 @@ char_id: shiba-katsunori · class: Class 1-D · status: unknown
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.191 — Shiba-sensei in the overheard fragment
+[mentioned] (p.191) Per Ichinose: "I heard the former acting chairman and Shiba-sensei talking during the Uninhabited Island Exam." She recalls fragments — talk of expelling Ayanokōji and words about the "White Room." (Her account; unverified.)
+
+<!-- walk: y2v8 Ch.6 → p.195 -->
+
 ### y2v8 p.11-208 — shiba-katsunori mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.190.

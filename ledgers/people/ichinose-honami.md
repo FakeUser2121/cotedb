@@ -1863,6 +1863,35 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v8 Ch.5 → p.186 -->
 
+### y2v8 p.185–195 — Missing; the hill; the breakdown
+[scene] (p.185–186) Reported missing at 9 p.m.; Amikura leads the search; she's ruled out the bathhouse; Ayanokōji spots her on the hill behind the ryokan.
+[scene] (p.187–188) She's alone on the wooden deck above the inn; she's freezing; she won't come inside; she lied about how long she'd been there (30–40 minutes); the snow stops then starts again.
+[says] (p.187) “Y-yes, coincidence.”
+[says] (p.188) “I think I want to be… By myself for right now.”
+[says] (p.189) “Karuizawa-san would be upset if she knew that you and I were alone in a place like this.”
+[scene] (p.189–191) He sits down; the snow catches them both; she challenges him about why he followed; he stays put; she names what she overheard (the former acting chairman and Shiba-sensei); the words "White Room" surface for the first time this book.
+[says] (p.189) “My affairs are none of your business, are they? Why are you waiting...?”
+[says] (p.190) “Actually, I've been wanting to ask you something for a long time.”
+[says] (p.190) “Have you ever heard of the White Room...?”
+[says] (p.191) “I heard the former acting chairman and Shiba-sensei talking during the Uninhabited Island Exam.”
+[says] (p.191) “But why were the teachers trying to expel you? Are you out of trouble now?”
+[scene] (p.191–193) She draws out; confesses the real weight — her class is falling behind, no tactics left, her lead role is crushing; she wants to be like Sakayanagi/Ryūen/Horikita; tears fall.
+[says] (p.191) “I'm having fun.”
+[says] (p.192) “With my way of doing things, I can't beat any class anymore.”
+[says] (p.192) “Our class is definitely moving farther away from Class A. This is obvious to everyone.”
+[says] (p.192) “If only I could command my classmates like Sakayanagi-san.”
+[says] (p.193) “I'm so frustrated...”
+[says] (p.194) “I'm sorry, Ayanokōji-kun...”
+[says] (p.194) “Many, many things. Crying like this only troubles you.”
+[scene] (p.194–195) Her tears freeze on her face; she breaks; he takes her right shoulder and pulls her into a hug; she doesn't run; she spares everything.
+[says] (p.194) “W-what? Ayanokōji-kun!?”
+[says] (p.195) “I… No. What I wanted is no longer...”
+[rel:ayanokouji-kiyotaka] (p.187–195) He drags her back from the edge; she lets him.
+[rel:karuizawa-kei] (p.189, 191–194) She names her as the obstacle she can't beat — her restraint, her shame, her heart.
+[rel:sakayanagi-arisu] (p.192) She envies the class leader Ryūen-bender — wishes she could be Sakayanagi for an hour.
+
+<!-- walk: y2v8 Ch.6 → p.195 -->
+
 ### y2v8 p.11-208 — ichinose-honami mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.10, p.13-14, p.49, p.65, p.69.
