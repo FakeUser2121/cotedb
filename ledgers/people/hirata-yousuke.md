@@ -1867,12 +1867,16 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y2v9 → start -->
 
-### y2v9 pp.8-225 — Full volume
+### y2v9 p.10 — Hirata: still watching over Ayanokōji after the group split
+[scene] (p.10) In the classroom, surrounded by girls, he greets Ayanokōji and repeats his standing offer to help with the fallout of leaving the group.
+[says] (p.10) "This may be none of my business, but if there's anything I can do to help you, please let me know."
+[says] (p.10) "That's no good. I can't stand it when I see instability in the class…"
+[trait] (p.10) Persistent, guilt-driven caretaker — he keeps checking in daily about Ayanokōji's standing with the old group and can't tolerate unresolved instability, even though he has done nothing wrong.
+[rel:ayanokouji-kiyotaka] (p.10) Repeatedly offers help; Ayanokōji asks him to watch over things quietly.
 
-[scene] (p.8) Appears in this volume.
+<!-- walk: y2v9 Ch.1 → p.10 -->
 
 
-<!-- walk: y2v9 Epilogue → p.225 -->
 
 ## y2v9.5
 

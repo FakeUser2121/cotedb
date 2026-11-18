@@ -669,12 +669,15 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y2v9 → start -->
 
-### y2v9 pp.8-225 — Full volume
+### y2v9 p.74–75 — Nagumo's farewell: regrets at the handover
+[scene] (p.74–75) At the formal handover he pats the president's chair reluctantly, says the tenure was both long and short, and admits his regret — he wanted talented students to graduate in Class A across class lines but could not overturn the school's decisions; he tells Ayanokōji their battle is not over.
+[says] (p.74) "Well, I guess I'm relieved of my duties as student council president now."
+[says] (p.74) "It was both a long and short time. It's an indescribable feeling."
+[trait] (p.74–75) Reflective and slightly wistful at leaving — he acknowledges the limits of the council's power, takes pride in the OAA/transfer-ticket system he introduced, and hints at unfinished business with Ayanokōji.
+[rel:horikita-suzune] (p.74) Hands her the presidency; she notes his influence on the school's rules.
+[rel:ayanokouji-kiyotaka] (p.75) Reminds him their battle is not over.
 
-[scene] (p.8) Appears in this volume.
-
-
-<!-- walk: y2v9 Epilogue → p.225 -->
+<!-- walk: y2v9 Ch.2 → p.75 -->
 
 ### y2v9 p.18–38 — Nagumo: his final act as president; exposed by Kiryūin
 [says] (p.24) "If I win, I want to get some private points from you."

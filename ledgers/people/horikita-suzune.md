@@ -4482,12 +4482,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v9 → start -->
 
-### y2v9 pp.8-225 — Full volume
 
-[scene] (p.8) Appears in this volume.
-
-
-<!-- walk: y2v9 Epilogue → p.225 -->
 
 ### y2v9 p.26–37 — Horikita: endorsing Ichinose; becoming student council president
 [says] (p.27) "I believe that Ichinose-san would be a good choice for student council president. I don't think she has any faults."

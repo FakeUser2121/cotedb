@@ -121,12 +121,45 @@ char_id: kiryuin-fuuka · class: unknown · status: unknown
 
 <!-- walk: y2v9 → start -->
 
-### y2v9 pp.8-225 — Full volume
+### y2v9 p.76–78 — Kiryūin recruits Ayanokōji to investigate
+[scene] (p.76–78) She stops Ayanokōji outside the council room and asks him to dig into the shoplifting case — Nagumo and Kiriyama have blocked her from re-questioning Yamanaka, and she needs someone with a neutral perspective and fighting ability.
+[says] (p.76) "Can I have a moment of your time, Ayanokouji?"
+[says] (p.77) "No. My pride won't allow me to meditate on his attempt to incriminate me."
+[says] (p.78) "Cooperate with me. I don't have anyone I can call a friend. I can't act like a detective."
+[trait] (p.76–78) Prideful but strategic — she refuses to let the frame-up rest, flatters Ayanokōji's abilities, and invokes his debt from the island exam to force his cooperation.
+[rel:ayanokouji-kiyotaka] (p.76–78) Presses him into investigating by appealing to his neutrality and fighting sense.
+[rel:nagumo-miyabi] (p.76) Blocked by him from re-questioning Yamanaka.
 
-[scene] (p.8) Appears in this volume.
+<!-- walk: y2v9 Ch.2 → p.78 -->
+
+### y2v9 p.29–30 — Kiryūin interrupts the election meeting
+[scene] (p.29–30) She enters the student-council room without knocking to press an appointment she says Kiriyama made with her, and refuses Nagumo's attempt to put her off — going so far as to put her foot on an empty chair.
+[says] (p.29) "Let me interrupt you, Nagumo."
+[says] (p.30) "I refuse."
+[trait] (p.29–30) Blunt, impatient and confrontational — she ignores protocol, refuses to wait quietly, and is undeterred by the president.
+[rel:nagumo-miyabi] (p.29–30) She brushes off his demand that she wait; he calls her an unexpected guest.
+[rel:kiriyama-ikuto] (p.29) Says he had agreed to make time for her.
+[scene] (p.31–32) She lays out the accusation — that Yamanaka, a third-year Class D student, tried to slip lipstick into her bag at Keyaki Mall and blamed Nagumo — and offers to drop the matter if Nagumo apologizes.
+[says] (p.32) "You don't understand me well enough to say 'it's not like me.' Unfortunately, I have a great dislike for acts like shoplifting."
+[says] (p.32) "You can rest assured. If I can hear an apology from you, I promise you that this matter will be put to rest."
+[trait] (p.31–32) Unaware of Ichinose's shoplifting past, she speaks bluntly about her hatred of the act; when Nagumo refuses and walks away, she is stunned.
+[rel:ichinose-honami] (p.32) Her blunt talk of shoplifting darkens Ichinose's expression — unknowingly striking a nerve.
+
+<!-- walk: y2v9 Ch.1 → p.30 -->
+
+### y2v9 p.180–190 — Kiryūin: the shoplifting complaint and her demand for an apology
+[scene] (p.180–184) In the hearing she files a complaint over the attempt to frame her as a shoplifter, revealing that the third-year Yamanaka confessed she had been instructed — and naming Nagumo as the alleged orderer.
+[says] (p.183) "Sorry to keep you waiting, new student council president."
+[says] (p.184) "I just can't believe Yamanaka acted out of personal resentment."
+[scene] (p.184–190) She presses Nagumo, spars with Kiriyama, and rejects a quiet cover-up; when Kiriyama finally confesses he used her as the target, her sole demand is an apology from the real culprit.
+[says] (p.186) "All I want is an apology from the real culprit."
+[trait] (p.180–190) Direct and principled — she refuses to let the matter be buried, wants the truth rather than a convenient story, and cares about the apology more than punishment.
+[rel:kiriyama-ikuto] (p.189–190) Her classmate whom she suspected; he confesses he framed her deliberately.
+[rel:nagumo-miyabi] (p.184) She names him as the one who allegedly ordered the framing; he denies it.
+
+<!-- walk: y2v9 Ch.6 → p.190 -->
 
 
-<!-- walk: y2v9 Epilogue → p.225 -->
 
 ## y2v9.5
 

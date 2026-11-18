@@ -1754,12 +1754,24 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v9 → start -->
 
-### y2v9 pp.8-225 — Full volume
+### y2v9 p.8–9, 69 — Kei: bedhead in the morning, sulking at the study group
+[scene] (p.8–9) Runs breathless to meet Ayanokōji outside the dorm, embarrassed by her bedhead and flustered when he points it out; she refuses to be compared to Hondō and Ike.
+[says] (p.8) "Sorry, Kiyotaka!"
+[says] (p.9) "Don't put me in the same category with those boys! Ugh, I'm going to go to the bathroom when I get to school…"
+[scene] (p.69) At the café study group she brightens at seeing him, but is visibly put out that he is only visiting briefly.
+[says] (p.69) "Oh, Kiyotaka is here too!"
+[trait] (p.8–69) Playful and appearance-conscious, still openly affectionate toward Ayanokōji, but sensitive to his attention.
+[rel:ayanokouji-kiyotaka] (p.8–69) Her boyfriend; runs to meet him in the morning and lights up at the study group.
 
-[scene] (p.8) Appears in this volume.
+<!-- walk: y2v9 Ch.2 → p.69 -->
 
+### y2v9 p.177–180 — Kei: "it's about time I forgave you"
+[scene] (p.177–180) After the special exam she tells Ayanokōji, hesitantly, that it is about time she forgave him; a student-council matter with Horikita and Kushida cuts their conversation short.
+[says] (p.177) "Well, I think it's about time for me to forgive you…"
+[trait] (p.177–180) Softening after their fight — she is ready to make up but the moment is interrupted.
+[rel:ayanokouji-kiyotaka] (p.177) Signals willingness to reconcile.
 
-<!-- walk: y2v9 Epilogue → p.225 -->
+<!-- walk: y2v9 Ch.6 → p.180 -->
 
 ### y2v9 p.203–205 — Kei's "relationship trouble": confiding in Satō
 [scene] (p.203) The only student not celebrating the exam win — sat with Satō at Keyaki Mall, sighing repeatedly; she's been "suffering" through the "cold war" with Ayanokōji while keeping up appearances at school.
@@ -1769,6 +1781,15 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [trait] (p.203–205) She reveals to Satō that she and Ayanokōji have been distant ("a cold war") after a fight she started ("I was the one who got angry"); despite studying hard (3/4 correct) and trying to approach him after the exam, Nagumo and Horikita kept calling him away — she's uncertain whether he's angry or sulking ("He's always expressionless").
 [rel:ayanokouji-kiyotaka] (p.203–205) Her relationship with him is in trouble ("might be in trouble") — a "cold war" she can't read.
 [rel:satou-maya] (p.203–205) She confides in her best friend (who had been waiting for it) — Satō advises "aren't there a lot of fights in relationships?"
+
+### y2v9 p.208–211 — Kei: the gym photo and Ichinose confrontation
+[scene] (p.208–209) Shown a photo from Mori of Ayanokōji and Ichinose leaving the gym together, she freezes, asks when it was taken, and tries to downplay it; Satō backs up her cover.
+[scene] (p.209–211) They run into Ichinose at the gym; Satō presses her, and Kei tries to stop her while Ichinose calmly denies anything between her and Ayanokōji — which only unsettles Kei more ("Not yet").
+[trait] (p.208–211) Jealous and insecure — the photo and Ichinose's composure feed her fear that Ayanokōji may switch to someone else, despite Ichinose's denial.
+[rel:satou-maya] (p.208–211) Helps cover for her and confronts Ichinose on her behalf.
+[rel:ichinose-honami] (p.209–211) Suspects her of getting close to Ayanokōji; Ichinose denies it.
+
+<!-- walk: y2v9 Epilogue → p.211 -->
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->

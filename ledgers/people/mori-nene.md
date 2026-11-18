@@ -63,12 +63,12 @@ char_id: mori-nene · class: Class 1-D · status: minor
 
 <!-- walk: y2v9 → start -->
 
-### y2v9 pp.8-225 — Full volume
+### y2v9 p.208–209 — Mori: the gym photo that sparks Kei's suspicion
+[scene] (p.208–209) Mentioned only — Kei receives a photo from "Nene-chan" showing Ayanokōji and Ichinose leaving the gym together; when Satō asks, Kei confirms it came from Mori and checks when it was taken.
 
-[scene] (p.8) Appears in this volume.
+<!-- walk: y2v9 Epilogue → p.209 -->
 
 
-<!-- walk: y2v9 Epilogue → p.225 -->
 
 ## y2v9.5
 

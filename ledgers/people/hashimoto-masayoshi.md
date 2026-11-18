@@ -906,12 +906,16 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 
 <!-- walk: y2v9 → start -->
 
-### y2v9 pp.8-225 — Full volume
+### y2v9 p.148–151 — Hashimoto: restless at Sakayanagi's passivity
+[scene] (p.148–151) At the café he tells Sakayanagi and Kamuro he is dissatisfied that Class A is doing nothing compared with Ryūen's harassment, suggests acting alone, but is talked down — sabotage wastes study time and his class can win as it is.
+[says] (p.148) "Hey, Princess. Are you sure we don't have to do anything this time? I don't..."
+[says] (p.151) "I'm sorry, I overstepped the mark a bit. I'll go cool off."
+[trait] (p.148–151) Anxious and ambitious — jealous of Ryūen's aggressive moves, he pushes for action but accepts Sakayanagi's reasoning and apologizes for overstepping.
+[rel:sakayanagi-arisu] (p.148–151) His class leader, whose calm strategy he chafes under but ultimately respects.
 
-[scene] (p.8) Appears in this volume.
+<!-- walk: y2v9 Ch.5 → p.151 -->
 
 
-<!-- walk: y2v9 Epilogue → p.225 -->
 
 ## y2v9.5
 

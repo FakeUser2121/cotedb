@@ -303,12 +303,16 @@ aliases used for anchors: kaneda, kaneda satoru, kaneda-kun
 
 <!-- walk: y2v9 → start -->
 
-### y2v9 pp.8-225 — Full volume
+### y2v9 p.152 — Kaneda: underestimated as a "puppet"
+[scene] (p.152) Sakayanagi names him and says she can't trust him for free; he smiles wryly, adjusts his glasses, and accepts that it is natural to suspect he is Ryūen's puppet, then works for himself.
+[says] (p.152) "It's perfectly natural to suspect you of being Ryuuen's puppet. You have..."
+[says] (p.152) "I work for myself, and you work for yourself. That's the best relationship."
+[trait] (p.152) Canny and self-possessed — he erases the message he shows Hashimoto and keeps his own counsel, refusing to be anyone's agent.
+[rel:sakayanagi-arisu] (p.152) She suspects him of being Ryūen's puppet; he works independently.
 
-[scene] (p.8) Appears in this volume.
+<!-- walk: y2v9 Ch.5 → p.152 -->
 
 
-<!-- walk: y2v9 Epilogue → p.225 -->
 
 ## y2v10
 

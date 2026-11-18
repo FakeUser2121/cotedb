@@ -173,12 +173,36 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 
 <!-- walk: y2v9 → start -->
 
-### y2v9 pp.8-225 — Full volume
+### y2v9 p.26–28 — Kiriyama: the 20-million-point bet and his last stand
+[scene] (p.26) As Nagumo and Ayanokōji finalize the bet on the student-council election, Kiriyama makes a final attempt to stop a game staking 20 million points and Ayanokōji's expulsion.
+[says] (p.26) "I'll get you the contract. It's one of two things: expulsion or 20 million."
+[says] (p.26) "You don't have to risk your expulsion to play along with Nagumo's game."
+[scene] (p.28) He tries to warn Horikita that Ayanokōji has been drawn into something, but Nagumo talks over him, and he is left holding his forehead.
+[says] (p.28) "Wait a minute, President. Ayanokouji-kun is here because..."
+[trait] (p.26–28) The pragmatic vice president — deeply uneasy about the stakes and the hidden bet, unable to rein in Nagumo, and worried about Ayanokōji being drawn in.
+[rel:nagumo-miyabi] (p.26–28) His president; he cannot stop his impulsive high-stakes game.
+[rel:ayanokouji-kiyotaka] (p.26) Tries to warn him off the gamble; notes he no longer hides his true nature.
 
-[scene] (p.8) Appears in this volume.
+<!-- walk: y2v9 Ch.1 → p.28 -->
+
+### y2v9 p.75, 183–190 — Kiriyama: inauguration, then exposed as the shoplifting mastermind
+[scene] (p.75) At the handover he reminds Ayanokōji their battle is not over.
+[says] (p.75) "See you, Ayanokouji. Our battle isn't over yet."
+[scene] (p.183–188) He arranges the student-council hearing at Nagumo's request and acts as the "familiar third party," but Horikita's reasoning — that Yamanaka and Tachibana feared someone more than Nagumo — lands on him.
+[says] (p.185) "I understand that Kiryuuin's upset that she was almost made to look like a shoplifter."
+[says] (p.188) "There's no guarantee that the information Ayanokouji has given you is true."
+[scene] (p.189–190) As witnesses are about to be called, he confesses: he used Nagumo's message assigning him a point-earning job as cover and had Yamanaka frame Kiryūin.
+[says] (p.189) "Got it. Let's stop this now."
+[says] (p.189) "It means that there's no need to call witnesses. I admit that it was me who..."
+[says] (p.189) "I'm sorry Kiryuuin, but it had to be you, in order to achieve my goal."
+[trait] (p.183–190) Calculating and proud — a guaranteed Class A ticket meant he would never move against Nagumo, so he chose Kiryūin as the target; cornered by solid logic, he owns the plot rather than drag witnesses into it.
+[rel:horikita-suzune] (p.188–190) Her first case as president sees through him; he confesses.
+[rel:kiryuin-fuuka] (p.189) He admits he framed her deliberately.
+[rel:nagumo-miyabi] (p.188–190) Cites his Class A ticket as proof he had no motive; used his message as cover.
+
+<!-- walk: y2v9 Ch.6 → p.190 -->
 
 
-<!-- walk: y2v9 Epilogue → p.225 -->
 
 ## y2v9.5
 

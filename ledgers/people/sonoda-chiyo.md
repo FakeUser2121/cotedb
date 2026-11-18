@@ -30,12 +30,14 @@ char_id: sonoda-chiyo · class: unknown · status: unknown
 
 <!-- walk: y2v9 → start -->
 
-### y2v9 pp.8-225 — Full volume
+### y2v9 p.141 — Sonoda: drowsy during the lunch study grind
+[scene] (p.141) At lunch during the daily exam-prep grind, she is one of the sleep-deprived students; she holds her head, shakes off sleepiness and says "I want to sleep," while Mii-chan gives her a gentle pep talk.
+[says] (p.141) "I want to sleep…"
+[trait] (p.141) Exhausted by the relentless studying but being pushed to keep going.
 
-[scene] (p.8) Appears in this volume.
+<!-- walk: y2v9 Ch.5 → p.141 -->
 
 
-<!-- walk: y2v9 Epilogue → p.225 -->
 
 ## y2v10
 

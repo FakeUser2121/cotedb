@@ -645,12 +645,21 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 
 <!-- walk: y2v9 → start -->
 
-### y2v9 pp.8-225 — Full volume
+### y2v9 p.91–101 — Kanzaki: a secret plan to save Ichinose's class
+[scene] (p.91–93) At a karaoke gathering he and Watanabe press Ayanokōji for why Ichinose quit the council, worrying she has lost her will to reach Class A.
+[scene] (p.93–95) He reveals the real reason for the meeting: to build a team to help Ichinose's class, bringing in Hamaguchi and swearing everyone to secrecy.
+[says] (p.94) "For the time being... Hamaguchi, please sit here."
+[says] (p.94) "I've already talked to Hamaguchi about helping us on this matter."
+[says] (p.95) "It's a gamble. It's important to proceed slowly under the radar, but with..."
+[scene] (p.97–100) He argues the class must act now and, after debate with Himeno and Watanabe, asks Ayanokōji to check on Ichinose under the guise of a date.
+[trait] (p.91–101) Principled and quietly organizing — he has moved from private resistance to actively gathering allies to rescue the class, careful to work under the radar and willing to gamble on trusted outsiders.
+[rel:ichinose-honami] (p.91–101) His classmate whose withdrawal he is trying to reverse; he worries she may give up on Class A.
+[rel:hamaguchi-tetsuya] (p.93–95) Recruited as the third member of the team.
+[rel:ayanokouji-kiyotaka] (p.95–100) Trusted with the secret and asked to sound out Ichinose.
 
-[scene] (p.8) Appears in this volume.
+<!-- walk: y2v9 Ch.3 → p.101 -->
 
 
-<!-- walk: y2v9 Epilogue → p.225 -->
 
 ## y2v10
 

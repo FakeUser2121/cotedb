@@ -105,12 +105,7 @@ char_id: ishikura · class: Class 1-D · status: minor
 
 <!-- walk: y2v9 → start -->
 
-### y2v9 pp.8-225 — Full volume
 
-[scene] (p.8) Appears in this volume.
-
-
-<!-- walk: y2v9 Epilogue → p.225 -->
 
 ## y2v10
 

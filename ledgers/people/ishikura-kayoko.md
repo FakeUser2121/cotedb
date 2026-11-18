@@ -35,12 +35,12 @@ char_id: ishikura-kayoko · class: unknown · status: unknown
 
 <!-- walk: y2v9 → start -->
 
-### y2v9 pp.8-225 — Full volume
+### y2v9 p.106 — Ishikura: in Kei's girls' night message
+[scene] (p.106) Named only — Kei's photo-message shows her with Satō, Mori, Ishikura and Maezono gathered in the girls' room for the evening.
 
-[scene] (p.8) Appears in this volume.
+<!-- walk: y2v9 Ch.3 → p.106 -->
 
 
-<!-- walk: y2v9 Epilogue → p.225 -->
 
 ## y2v10
 

@@ -65,12 +65,31 @@ char_id: watanabe-norihito · class: unknown · status: unknown
 
 <!-- walk: y2v9 → start -->
 
-### y2v9 pp.8-225 — Full volume
+### y2v9 p.91–100 — Watanabe: pressing for the truth and pushing the class to act
+[scene] (p.91–93) At the karaoke meeting he joins Kanzaki in questioning Ayanokōji about why Ichinose quit the council, reading her continued drive but suspecting she has lost the will to fight for Class A.
+[says] (p.91) "Why are you so calm, Ayanokouji? I mean, you're pretty lucky to be liked..."
+[scene] (p.95–99) He is let into Kanzaki's secret plan; when Ryūen's men Ishizaki and Komiya barge in, he challenges their motive, and later argues the class must speak out rather than stand still.
+[says] (p.95) "Oooooh! I'll get out of your way~!"
+[says] (p.97) "Why are you here, Ishizaki and Komiya?"
+[trait] (p.91–100) Wry and outspoken — he talks casually with Ayanokōji, distrusts Ryūen's interference, and is one of the few urging that the class stop hesitating and act.
+[rel:kanzaki-ryuuji] (p.91–99) Co-conspirator in the plan to help Ichinose's class; they discuss how to approach her.
+[rel:ishizaki-daichi] (p.97) Challenges him and Komiya for crashing their gathering.
 
-[scene] (p.8) Appears in this volume.
+<!-- walk: y2v9 Ch.3 → p.100 -->
+
+### y2v9 p.102–105 — Watanabe's confession: he likes Amikura
+[scene] (p.102–105) He follows Ayanokōji to the restroom and, haltingly, asks him to probe Ichinose about whether Amikura likes anyone — then admits, flustered, that he has a crush on her.
+[says] (p.103) "You have a crush on Amikura."
+[says] (p.103) "Hey, hey, hey! Don't be so blunt here!"
+[scene] (p.103–105) He reveals he tried to ask Amikura out that morning but couldn't hold a conversation alone, was nervous, and ended up tagging along to the mall with the group; he asks Ayanokōji to find out casually whether she likes someone.
+[says] (p.103) "I was aiming for something close to that. I woke up early and got ready. And then we met up in the lobby of the dorm. I was so nervous."
+[trait] (p.102–105) Awkward and honest about romance — normally clear-spoken, he becomes incoherent around Amikura, can't read his own feelings, but is positive and relieved to have no rivals.
+[rel:amikura-mako] (p.102–105) The girl he likes; he is grateful to her for looking after him on the school trip.
+[rel:ayanokouji-kiyotaka] (p.102–105) Trusts him enough to ask him to probe Ichinose about Amikura.
+
+<!-- walk: y2v9 Ch.3 → p.105 -->
 
 
-<!-- walk: y2v9 Epilogue → p.225 -->
 
 ## y2v10
 

@@ -2246,12 +2246,26 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v9 → start -->
 
-### y2v9 pp.8-225 — Full volume
+### y2v9 p.144–147 — Ryūen: provoking Ichinose's class over her council exit
+[scene] (p.144–146) He and Ishizaki barge into the study group to needle Ichinose about quitting the student council, mocking the "foolish leader" and suggesting her past sins are being questioned.
+[says] (p.144) "Well, well, well. Finally, you've come out. The foolish leader who quit the..."
+[says] (p.145) "Kukuku. Or maybe your past sins are now being called into question? It"
+[says:ichinose-honami] (p.146) "You can say whatever you want to me, but I don't want you to interfere with the hardworking students."
+[trait] (p.144–147) Still the aggressive provocateur — he tries to sabotage the rival class's study time and get a rise out of Ichinose, but she refuses to be baited and warns him off.
+[rel:ichinose-honami] (p.144–147) Mocks her withdrawal; she warns him not to interfere with her studies.
+[rel:ishizaki-daichi] (p.145) His lieutenant, who joins the harassment.
 
-[scene] (p.8) Appears in this volume.
+### y2v9 p.214–217 — Ryūen in the rain: conceding the loss, vowing the next
+[scene] (p.214–217) Meeting Ichinose in the rain, he admits his class lost because they never took studying seriously, but refuses to change his methods and promises to sink her class next time.
+[says] (p.214) "Not going to complain about the delay?"
+[says] (p.215) "But did you really think you could win that way?"
+[says] (p.216) "I'm not going to change. I'm going to sink you on the spot."
+[trait] (p.214–217) A sore but self-aware loser — he acknowledges earnest study beat him, yet stubbornly refuses to abandon his aggressive style.
+[rel:ichinose-honami] (p.214–217) Concedes she won this time and warns her Class C seat is temporary.
+
+<!-- walk: y2v9 Epilogue → p.217 -->
 
 
-<!-- walk: y2v9 Epilogue → p.225 -->
 
 ## y2v9.5
 

@@ -134,12 +134,17 @@ char_id: hamaguchi-tetsuya · class: Class 1-B · status: minor
 
 <!-- walk: y2v9 → start -->
 
-### y2v9 pp.8-225 — Full volume
+### y2v9 p.93–95 — Hamaguchi: recruited to the secret team to help Ichinose
+[scene] (p.93–95) At the karaoke meeting Kanzaki introduces him to Ayanokōji as the newest member of the group working to save Ichinose's class; he greets Ayanokōji like an old acquaintance and is seated beside him.
+[says] (p.93) "Hey, Ayanokouji-kun. I wonder if we've met face to face like this since the..."
+[note] (p.94) The translation leaves it untagged who asks whether Hamaguchi was the expected late arrival; Kanzaki seats him beside Ayanokōji.
+[trait] (p.93–95) A trusted third-year ally quietly brought into Kanzaki's plan; he is indebted to Ayanokōji from a past favor and willing to work under the radar for the class.
+[rel:kanzaki-ryuuji] (p.93–95) Recruited by him as the third member of the team.
+[rel:ayanokouji-kiyotaka] (p.93) Greets him warmly, recalling a past debt.
 
-[scene] (p.8) Appears in this volume.
+<!-- walk: y2v9 Ch.3 → p.95 -->
 
 
-<!-- walk: y2v9 Epilogue → p.225 -->
 
 ## y2v10
 

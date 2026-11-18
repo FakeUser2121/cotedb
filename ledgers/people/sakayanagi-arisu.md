@@ -1096,12 +1096,31 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v9 → start -->
 
-### y2v9 pp.8-225 — Full volume
+### y2v9 p.148–153 — Sakayanagi: calmly rejecting sabotage, expecting a fight
+[scene] (p.148–150) At a café with Hashimoto and Kamuro, she explains why she will not copy Ryūen's sabotage — it costs too much manpower and study time, and her class can win by studying.
+[says] (p.148) "You seem to be very concerned about Class B, Hashimoto-kun."
+[scene] (p.151–153) She tells Hashimoto she is a realist and a romantic — realistically Class A should keep winning, but romantically an upset makes a better story — and prepares for a challenge from Horikita or Ryūen.
+[says] (p.151) "It seems that you had been struggling a lot."
+[says] (p.151) "I'm a realist, but I'm also a romantic."
+[trait] (p.148–153) Serene and strategic — she declines needless sabotage as inefficient, trusts her class's honest study, and balances pragmatism with a taste for dramatic upsets.
+[rel:hashimoto-masayoshi] (p.148–151) Her classmate whose sabotage ideas she talks down.
+[rel:ryuuen-kakeru] (p.150) Refuses to imitate his harassment strategy.
 
-[scene] (p.8) Appears in this volume.
+<!-- walk: y2v9 Ch.5 → p.153 -->
+
+### y2v9 p.199–202 — Sakayanagi's ultimatum to Ichinose
+[scene] (p.199–200) At the school entrance after the results she calls Ayanokōji and Ichinose together, congratulates them on their wins and praises Ichinose for withstanding Ryūen's obstruction.
+[says] (p.199) "First of all, Ayanokouji-kun, congratulations on your victory in this special examination."
+[scene] (p.200–202) She reveals she has pieced together Ichinose's recent meetings with Ayanokōji (the gym, cafés, the day she waited at his room) and issues an ultimatum: too much idolisation can bring painful repercussions, and she warns Ichinose about her "faint crush."
+[says] (p.200) "Too much idolisation may result in painful repercussions. Wasn't it something like that?"
+[says] (p.200) "I have called you both here today to tell you that I am here to give an ultimatum to Ichinose-san, who has a faint crush on Ayanokouji-kun."
+[trait] (p.199–202) Composed and observant — she has read Ichinose's feelings and the pattern of her contacts with Ayanokōji, and delivers her warning calmly rather than spitefully.
+[rel:ichinose-honami] (p.200–202) Warns her that her idolisation of Ayanokōji will bring pain.
+[rel:ayanokouji-kiyotaka] (p.199–202) Congratulates him and notes his win was one he was "allowed to pick up."
+
+<!-- walk: y2v9 Epilogue → p.202 -->
 
 
-<!-- walk: y2v9 Epilogue → p.225 -->
 
 ## y2v9.5
 

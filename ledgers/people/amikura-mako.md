@@ -97,12 +97,21 @@ char_id: amikura-mako · class: Class 1-B · status: minor (allies)
 
 <!-- walk: y2v9 → start -->
 
-### y2v9 pp.8-225 — Full volume
+### y2v9 p.95–97, 124–129 — Amikura: secret-keeper, gym witness, and friend
+[scene] (p.95–97) At the karaoke meeting she is one of the two let into Kanzaki's secret plan; she voices reservations about keeping it from Ichinose and is reassured it is a gamble.
+[says] (p.95) "I don't mind being trusted, but..."
+[scene] (p.124–129) At the gym she runs into Ichinose and Ayanokōji, is surprised, and quietly reads the situation — noting Ayanokōji and the gym do not fit together and later teasing Ichinose.
+[says:ichinose-honami] (p.124) "Oh, Mako-chan, good morning!"
+[says] (p.125) "W-what are you doing at the gym?"
+[says] (p.126) "This is your first time in a gym, right? Take it easy, Ayanokouji-kun."
+[trait] (p.95–129) Loyal and observant — trusted with a dangerous secret, careful about how it is used, and perceptive enough to notice the chemistry between her best friend and Ayanokōji.
+[rel:ichinose-honami] (p.124–129) Her best friend ("Honami-chan"); surprised to find her at the gym with Ayanokōji.
+[rel:ayanokouji-kiyotaka] (p.125–126) Teases him for being out of place at the gym.
+[rel:kanzaki-ryuuji] (p.95–97) Let into his secret plan to help Ichinose's class.
 
-[scene] (p.8) Appears in this volume.
+<!-- walk: y2v9 Ch.3 → p.129 -->
 
 
-<!-- walk: y2v9 Epilogue → p.225 -->
 
 ## y2v9.5
 

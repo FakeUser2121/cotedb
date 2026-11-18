@@ -307,12 +307,20 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 
 <!-- walk: y2v9 → start -->
 
-### y2v9 pp.8-225 — Full volume
+### y2v9 p.60–67 — Amasawa: trailing the council recruitment, teasing Kushida
+[scene] (p.60–61) She tags along as Horikita recruits the first-year Ishigami; while waiting she explains to Ayanokōji that she came to see how Kushida was doing after their contact at the festival.
+[says] (p.60) "To be honest, I came to see how Kushida-senpai was doing. You know, we had a little bit of forced contact at the festival, so I was just wondering how things were going."
+[says] (p.60) "I'm the only one who can tease Kushida-senpai so blatantly. I wanted to check how mentally strong she is."
+[says] (p.61) "Simple curiosity."
+[scene] (p.61) She admits she had considered joining the council but sees no point now; Ayanokōji ties this to Yagami's expulsion and her earlier hint about retracting her vow of no trouble.
+[trait] (p.60–67) Playful and calculating — openly enjoys needling Kushida, follows the recruitment out of curiosity about the new president, and drops loaded hints about her intentions toward Ayanokōji.
+[rel:kushida-kikyou] (p.60) Teases her bluntly to gauge her mental strength after the festival.
+[rel:horikita-suzune] (p.61) Observes the new president closely, calls her serious, interesting and unique.
+[rel:ishigami-kyo-1a] (p.61) Her Class A classmate; identifies him as the class's strategist.
 
-[scene] (p.8) Appears in this volume.
+<!-- walk: y2v9 Ch.2 → p.67 -->
 
 
-<!-- walk: y2v9 Epilogue → p.225 -->
 
 ## y2v9.5
 

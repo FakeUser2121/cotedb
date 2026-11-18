@@ -558,12 +558,20 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 <!-- walk: y2v9 → start -->
 
-### y2v9 pp.8-225 — Full volume
+### y2v9 p.67–73 — Nanase: accepted onto the student council
+[scene] (p.67) Horikita invites her to join the student council; she happily agrees, exchanges contact details, and says she is glad to gain more contacts.
+[says] (p.67) "Umm, what should I do from tomorrow onwards?"
+[says] (p.67) "I'm glad to have more contacts as well!"
+[says] (p.67) "Yes, I'm looking forward to hearing from you!"
+[scene] (p.72–73) She arrives at the council room, greets Horikita politely and chats easily with Kushida; Nagumo formally approves her as a new member from Class 1-D.
+[says] (p.73) "Good evening, Horikita-senpai."
+[trait] (p.67–73) Cheerful, socially eager and polite — delighted at the chance to join and quick to bond with her fellow new member.
+[rel:horikita-suzune] (p.67–73) Recruited by her; calls her senpai.
+[rel:kushida-kikyou] (p.73) Hits it off with her immediately in the council room.
 
-[scene] (p.8) Appears in this volume.
+<!-- walk: y2v9 Ch.2 → p.73 -->
 
 
-<!-- walk: y2v9 Epilogue → p.225 -->
 
 ## y2v9.5
 

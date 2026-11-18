@@ -8900,12 +8900,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v9 → start -->
 
-### y2v9 pp.8-225 — Full volume
 
-[scene] (p.8) Appears in this volume.
-
-
-<!-- walk: y2v9 Epilogue → p.225 -->
 
 ### y2v9 p.8–17 — The end-of-semester special exam: a cooperative written test
 [scene] (p.8) Summoned by Nagumo to the student council room after school; Chabashira announces the final special exam of the second semester — Class A (Sakayanagi, 1250 pts) vs Class B (Horikita, 985 pts), winner takes 50 class points from the loser.
