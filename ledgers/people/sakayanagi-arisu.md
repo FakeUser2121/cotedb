@@ -1280,6 +1280,14 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 ## y2v11
 
 <!-- walk: y2v11 → start -->
+### y2v11 p.10 — Prologue: named in Yamamura's monologue
+[scene] (p.10) Her name surfaces in Yamamura Miki's Prologue monologue as the person whose defeat is being felt: the opening image of the volume.
+[note] (p.10) The monologue holds an unattributed remembered line about her — “...After all... I don't think losing suits Sakayanagi-san...” — the speaker is not identified on these pages.
+[note] (p.10) A second remembered line, also unattributed: “Why don't you try telling her? No one has the right to criticize your actions.”
+[note] (p.10) She does not appear on these pages; the Prologue establishes her as the emotional axis of the volume before the lottery confession of Ch.7.
+[mentioned] (p.10) Named in the Prologue monologue only.
+
+<!-- walk: y2v11 Prologue → p.10 -->
 
 ### y2v11 p.40–41 — Ch.2: The absence on the list
 [scene] (p.40) The organization chart is read on the bus; Sakayanagi is named as an example of high-OAA chemistry in any group.

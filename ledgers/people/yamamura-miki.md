@@ -211,6 +211,24 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 ## y2v11
 
 <!-- walk: y2v11 → start -->
+### y2v11 p.10 — Prologue: Yamamura's monologue
+[scene] (p.10) Her own POV, addressed to no one: in kindergarten, elementary and junior high she spent her life alone; she was inconspicuous and lacking presence — too forgettable to be liked, too forgettable to be hated.
+[narrates] (p.10) “REALIZED THAT I was alone.”
+[narrates] (p.10) “It wasn't that anyone particularly disliked me.”
+[narrates] (p.10) “I just didn't catch anyone's eye.”
+[narrates] (p.10) “I was inconspicuous, lacking presence.”
+[narrates] (p.10) “Before anyone could like me, they couldn't even hate me.”
+[narrates] (p.10) “That was why I was always alone.”
+[narrates] (p.10) “Even after becoming a high school student, nothing changed.”
+[narrates] (p.10) “But I thought that was okay.”
+[narrates] (p.10) “I forced myself to believe that it was my strength…”
+[narrates] (p.10) “I thought it would be okay to live quietly alone even as an adult.”
+[narrates] (p.10) “—Until this day.”
+[note] (p.10) Two unattributed lines surface in her monologue as remembered speech: “...After all... I don't think losing suits Sakayanagi-san...” and “Why don't you try telling her? No one has the right to criticize your actions.” — the speaker is not identified on these pages; recorded as unattributed recollection.
+[note] (p.10) The Prologue is interior monologue; no other named on-page presence. Sakayanagi is referenced, never present.
+[rel:sakayanagi-arisu] (p.10) The remembered line being turned over: that losing does not suit Sakayanagi; the trigger of the monologue is the lottery scene alluded to later in Ch.7.
+
+<!-- walk: y2v11 Prologue → p.10 -->
 
 ### y2v11 p.30–33 — Ch.1: Three or four items she can't refuse
 [scene] (p.30) In the convenience-store beverage section she collides almost with Kiyotaka; she had been watching Hashimoto on the emergency stairs.
