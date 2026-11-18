@@ -1947,6 +1947,17 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 ## y2v10
 
 <!-- walk: y2v10 → start -->
+### y2v10 p.16–26 — Ch.1: Kushida: co-conspirator with Horikita
+[scene] (p.16–17) Follows them; Horikita pulls her into the plan; she makes faces; acts all-too complicit; she privately thinks it's foolish but wants to see Ibuki fail; grabs his arm so he can't run.
+[scene] (p.18–26) Roasts Horikita's cooking schedule; "Even I can cook if I put my mind to it!" (the boast that started the bet); Kushida bites her lip; she reluctantly tries a simmered dish and mini hamburger; her honest verdict obvious; Ayanokōji, unable to resist judging, digs in anyway
+[says] (p.22) "Ahh… I see. Here you go, Ayanokōji-kun."
+[says] (p.23) "What!?"
+[rel:horikita-suzune] (p.16–26) Partners in chaos.
+[rel:ibuki-mio] (p.18–26) Wants to see her fail with gusto.
+[rel:ayanokouji-kiyotaka] (p.16–26) His human shield.
+
+<!-- walk: y2v10 Ch.1 → p.26 -->
+
 
 ### y2v10 p.9-235 — kushida-kikyou mentioned in passing
 [scene] (p.9) Named in this volume.

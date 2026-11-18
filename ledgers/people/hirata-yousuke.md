@@ -1943,6 +1943,13 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 ## y2v10
 
 <!-- walk: y2v10 → start -->
+### y2v10 p.14 — Ch.1: Career talk
+[scene] (p.14–15) Surrounded by girls in a discussion about futures and Class A privileges; torn between Class A and the direct university path; his parents already expecting university from before high school; soccer side-job is still his hobby, optionally.
+[says] (p.14) "I'm planning to go to university, irrespective of the Class A privileges. My parents have told me from a young age that that's what they want."
+[rel:ishigami-kyou] (p.14) Keisei's top-company strategy is accepted; Hirata chooses his own path.
+
+<!-- walk: y2v10 Ch.1 → p.15 -->
+
 
 ### y2v10 p.9-235 — hirata-yousuke mentioned in passing
 [scene] (p.9) Named in this volume.

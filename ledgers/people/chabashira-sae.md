@@ -1388,6 +1388,14 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 ## y2v10
 
 <!-- walk: y2v10 → start -->
+### y2v10 p.12–13 — Ch.1: Third-term opening speech
+[scene] (p.12–13) Morning homeroom; warns them the term will pass in a flash; announces first-ever Feb 'student-teacher discussion' about career and parent-including path; parents already surveyed; Ike bursts out they haven't heard of it; she hears the parents' voices; realizes her bedhead after touching her own hair; leaves quietly.
+[says] (p.12) "The third term starts today. They say January comes and goes, February flies by, and March disappears; this period of time will pass by you in a flash. Make sure you don't spend your days out of habit, and stay focused."
+[rel:ike-kanji] (p.12–13) He blurts out his surprise.
+[rel:ayanokouji-kiyotaka] (p.12–13) Says the February meeting may be necessary for him.
+
+<!-- walk: y2v10 Ch.1 → p.13 -->
+
 
 ### y2v10 p.9-235 — chabashira-sae mentioned in passing
 [scene] (p.9) Named in this volume.

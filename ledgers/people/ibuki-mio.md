@@ -1106,6 +1106,17 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 ## y2v10
 
 <!-- walk: y2v10 → start -->
+### y2v10 p.18–26 — Ch.1: Ibuki's first home cooking
+[scene] (p.18) Kushida and Horikita tell the story of how she boasted "Even I can cook if I put my mind to it!"; vowing to make Horikita lose; she screams about it; she bursts into shout while carrying a full lunchbox wrapped in plain furoshiki.
+[scene] (p.19–21) Sets it on the bench; seven dishes; Horikita appoints herself judge; gives the appearance a bonus of 30 points, more than she deserves Kushida looks reluctant to try; tries the hamburger and simmered dishes; Ayanokōji gets the tamagoyaki and croquette; all unimpressed.
+[scene] (p.22–26) Argues with Horikita about salt; forced to eat her own bento; discovers it is not delicious — "Amazing!?" slip-of-tongue; Horikita whips her with a chopstick; she argues about spoonful amounts; gives up claiming innocence.
+[says] (p.20) "You'll regret ever talking about me failing. Hurry up and eat."
+[says] (p.24) "Why isn't this delicious? It has such a plain and disappointing taste! And it's salty!"
+[rel:horikita-suzune] (p.16–26) The one who set the trap; she escapes after lunch.
+[rel:kushida-kikyou] (p.18–26) Co-molation; she tracks the bet.
+
+<!-- walk: y2v10 Ch.1 → p.26 -->
+
 
 ### y2v10 p.9-235 — ibuki-mio mentioned in passing
 [scene] (p.9) Named in this volume.
