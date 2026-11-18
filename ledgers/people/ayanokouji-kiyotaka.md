@@ -9493,6 +9493,32 @@ walk: y1v1 → DONE
 [rel:wang-mei-yu] (p.60–65) She swallowed pride asking him; nervously trusts him along for the way.
 
 <!-- walk: y2v10 Ch.3 → p.65 -->
+### y2v10 p.101–109 — Ch.5: Hashimoto overhears; Sakayanagi shrugs
+[scene] (p.101–102) Hashimoto agonizes over whether he should sleep; his class's anxiety about losing to Ryūen's class is on the eve of the exam; regrets the underprepared state; decides to call Sakayanagi with his intel.
+[scene] (p.103–105) They meet at the Keyaki Mall café with Kamuro and Kitō; Sakayanagi denies it's a strategy meeting, calls it a tea party — enjoying it for her own reasons; Hashimoto that turns it into a stealth intel-drop.
+[scene] (p.106–109) Sat in his dorm with Kei until late, then his phone rings; it's Kanzaki asking if he wants to talk — and he says yes; they invite Ichinose and Amikura; Kei's mild jealousy; the visit lasts past six.
+
+<!-- walk: y2v10 Ch.5 → p.109 -->
+
+### y2v10 p.110–118 — Ch.5: Ichinose returns alone
+[scene] (p.110–113) Ichinose returns alone claiming she forgot her phone; she quietly asks if he's alone; locks the door; he suggests closing it for privacy; she pushes back with herself as logistics; she tackles him accidentally; he catches her; the scene is unusual.
+[scene] (p.114–118) Watanabe storms in without knocking; he flees; she holds him inside and interrogates him; she extracts his junior high story; he talks about girlfriend who abandoned him; he and Ichinose reach understanding; she invites him to keep it secret; he becomes helplessly loyal to her.
+[says] (p.111) "...Ayanokōji-kun."
+[says] (p.112) "I love you, Ayanokōji-kun. I'm helplessly in love with you..."
+[says] (p.118) "I think I understand you better after our conversation today, Watanabe-kun. You like Mako-chan, don't you?"
+[rel:ichinose-honami] (p.110–118) She pursues him; he lets her; she extracts dominance from Watanabe through honesty.
+[rel:kanzaki-ryuuji] (p.106–118) He visits in the evening; Ichinose then engineers a private moment with him.
+[rel:watanabe-norihito] (p.110–118) Storms in accidentally; gets cornered by Ichinose; becomes her puppet.
+
+<!-- walk: y2v10 Ch.5 → p.118 -->
+
+### y2v10 p.119–122 — Ch.5: Hashimoto calls Sakayanagi
+[scene] (p.119) Phone call to Sakayanagi the night before; he warns about collusion; she deflects; he offers everything he has; Sakayanagi shows alarm at collusion; he emphasizes Ryūen cooperation suspicion; she concedes nothing — Enjoy the battle as her own project; his intel is mostly noise; he returns to his dorm troubled.
+[says] (p.119) "Jeez, you're so confident... I get it. Then don't worry about what I said. I'll just observe, as long as no problems arise."
+[rel:sakayanagi-arisu] (p.119–122) Calls her about collusion; she shrugs him off; he burns her playing into his own hands.
+
+<!-- walk: y2v10 Ch.5 → p.122 -->
+
 
 ### y2v10 p.66–80 — Ch.3: Kōenji is the benefactor; the gift-hunt
 [scene] (p.66–68) They wait in a bench by the vending area; the clerk reveals "Kōenji, um, Rokusuke-kun" — long-haired blond; the secret deliveries were from Kōenji all along; she thanks him indirectly; watches him harder.

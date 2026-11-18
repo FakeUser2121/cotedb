@@ -687,6 +687,14 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 ## y2v10
 
 <!-- walk: y2v10 → start -->
+### y2v10 p.106–118 — Ch.5: Kanzaki's quiet visit
+[scene] (p.106–109) He calls Ayanokōji asking to talk; arrives with Watanabe; invites Ichinose; cautiously warns about the collusion worry; Ichinose keeps him at bay; the group discusses plans; he expects a decision was made that would reflect in the daily pattern.
+[says] (p.108) "Even if I were to express my opinion against colluding, if you approved of it, Ichinose, the majority of the class would concur."
+[rel:ichinose-honami] (p.106–118) Bullseye collocated opinions; she abolishes him in conversation.
+[rel:watanabe-norihito] (p.106–118) Strolls in with him pretending coincidence; Watanabe stutters.
+
+<!-- walk: y2v10 Ch.5 → p.118 -->
+
 
 ### y2v10 p.9-235 — kanzaki-ryuuji mentioned in passing
 [scene] (p.9) Named in this volume.

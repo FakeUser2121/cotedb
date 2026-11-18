@@ -240,6 +240,13 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 ## y2v10
 
 <!-- walk: y2v10 → start -->
+### y2v10 p.101 — Ch.5: Kitō's emergency text
+[scene] (p.101) Texts Hashimoto about Sakayanagi's latest decision; neutral phrasing hides suspicion.
+[says] (p.101) "It seems that the princess has finally decided on a policy."
+[rel:hashimoto-masayoshi] (p.101) Triggers the call that doesn't go anywhere.
+
+<!-- walk: y2v10 Ch.5 → p.103 -->
+
 
 ### y2v10 p.9-235 — kitou-hayato mentioned in passing
 [scene] (p.9) Named in this volume.

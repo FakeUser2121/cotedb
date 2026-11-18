@@ -945,6 +945,18 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 ## y2v10
 
 <!-- walk: y2v10 → start -->
+### y2v10 p.101–122 — Ch.5: Hashimoto: "princess" and paranoia
+[scene] (p.101–102) Hashimoto smokes after touching his phone rarely; wakes to a message from Kitō about Sakayanagi's policy decision; he can sleep at all.
+[scene] (p.103–105) Goes to the café; calls Sakayanagi "princess"; Kamuro bitterly calls him out; Sakayanagi refuses to discuss strategy; claims it's a casual tea party to avoid making classes tense; he wants to warn about collusion; she refuses.
+[scene] (p.106–122) At his dorm room after dinner; he makes the call; the news goes to him; Kōenji or Ryūen moving against her; he stews; she keeps quiet; he feels locked out and helpless; he resolves to observe.
+[says] (p.101) "Lack of sleep really is bad for you... So sleepy..."
+[says] (p.103) "My bad, my bad. It's just a habit."
+[says] (p.119) "Princess."
+[rel:sakayanagi-arisu] (p.101–122) Follows the tea pot; she's indifferent to collusion talk; he spirals.
+[rel:kitou-hayato] (p.101) Texts him about Sakayanagi's decision.
+
+<!-- walk: y2v10 Ch.5 → p.122 -->
+
 
 ### y2v10 p.9-235 — hashimoto-masayoshi mentioned in passing
 [scene] (p.9) Named in this volume.

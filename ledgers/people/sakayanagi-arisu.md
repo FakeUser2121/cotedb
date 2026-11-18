@@ -1155,6 +1155,15 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 ## y2v10
 
 <!-- walk: y2v10 → start -->
+### y2v10 p.103–122 — Ch.5: Sakayanagi: enjoy the battle
+[scene] (p.103–105) Virtually no reaction to the collusion suspicion; the three classes can't plausibly come together; she refuses to waste strategy contradicting on what she sees as motivation to engage them; treats games as playtime; she picks fights for her own amusement.
+[scene] (p.119–122) Sakayanagi accepts Hashimoto's call late at night; she doesn't believe the classes will actually collude; she doesn't care about the outcome; she wants to know what it feels like to play the battle; she'll return what she has; he's frustrated; she steadfastly refuses.
+[says] (p.104) "Special exam? No, you're mistaken, Hashimoto-kun. Today is just a simple tea party."
+[says] (p.105) "Lately, we've been doing recreational activities like cultural festivals and school trips."
+[rel:hashimoto-masayoshi] (p.103–122) She amuses herself by being unhelpful to him.
+
+<!-- walk: y2v10 Ch.5 → p.122 -->
+
 
 ### y2v10 p.9-235 — sakayanagi-arisu mentioned in passing
 [scene] (p.9) Named in this volume.
