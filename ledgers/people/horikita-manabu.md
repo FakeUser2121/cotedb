@@ -836,10 +836,13 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — horikita-manabu mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.13, p.17-18, p.20, p.22, p.24-38, p.42-43; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.20, p.42 — Ch.1–2: Mentioned
+[scene] (p.20) Named during Ayanokōji's private reckoning about the balance of the four classes.
+[mentioned] (p.20) p.20: "Both Horikita Manabu's and Nagumo Miyabi's classes had created a dominating system as a result."
+[mentioned] (p.42) p.42: "Looking at the trends of the end-of-year special exams from the generation of the graduated Horikita Manabu, Nagumo's generation, and our own, it was clear that the required skills weren't limited to academic ability."
+[note] (p.20, p.42) Named only; not present; invoked as the benchmark for what a dominant year looks like.
+
+<!-- walk: y2v12 ch1 → p.25 -->
 
 ## y2v12.5
 

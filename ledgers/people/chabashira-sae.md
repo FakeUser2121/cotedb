@@ -1150,10 +1150,20 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — chabashira-sae mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.10, p.12-14, p.16, p.18-19, p.29, p.67; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.12–19 — Ch.1: Announcing the special exam
+[scene] (p.12) Thursday, the second week of March; the morning greetings are sparse; she appears with a calm demeanor and, before announcing the exam, prefaces it with a personal story: her eighth year at Advanced Nurturing High School, six years leading two classes, never moving up from Class D.
+[says] (p.12) "I will now announce the end-of-year special exam and its contents. But before that, I would like to share a little personal story."
+[says] (p.12) "This is my eighth year as a teacher at the Advanced Nurturing High School."
+[scene] (p.13) She reflects aloud that she once believed a fair teacher must stay distant; the class's own students made her realize such detachment is also escapism; she shows the rankings (Class A 1098, Class B 983, Class C 730, Class D 654) and notes that this class dispelled the "defective goods" image.
+[says] (p.13) "However, no one calls you defective goods anymore."
+[says] (p.14) "However, I don't want you to become complacent."
+[scene] (p.15–17) The monitor reveals the setup: special building; A vs C and B vs D; three representatives per class (vanguard 5 lives, middle guard 7, general 10); at least one representative from each gender; substitutes allowed; deadline Sunday; even the teachers weren't told the details; it likely isn't physical; most of the rules will be disclosed only on the day.
+[rule] (p.15) End-of-year special exam: three representatives per class (vanguard 5 lives, middle guard 7 lives, general 10 lives); at least one representative from each gender; knockout format; winner takes all, no draws.
+[says] (p.18) "That's right. But as I've just told you, I can't tell you anything beyond what I've explained."
+[says] (p.19) "And as for the crucial reward, the winning class will earn 200 points."
+[rel:horikita-suzune] (p.18) Horikita stands and floats "a battle through conversation" as a possibility; Chabashira answers only that it is quite possible, without confirming.
+
+<!-- walk: y2v12 ch1 → p.25 -->
 
 ## y2v12.5
 
@@ -1434,3 +1444,21 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:ayanokouji-kiyotaka] (p.11–18) She interviews him as homeroom teacher; he gives no complaints and no plans; she takes his word at face value.
 
 <!-- walk: y2v11 ch1 → p.33 -->
+
+### y2v11 p.35–45 — Ch.2: Her briefing on the bus
+[scene] (p.35) 20 minutes into the highway ride; she takes the microphone and explains the camp to the whole bus before they even reach the mountains.
+[says] (p.35) “I think it's about time to explain the details of the training camp. As I mentioned briefly at school, it has been decided to hold a three-night, four-day experiential learning exchange meeting for all years.”
+[says] (p.36) “Let me remind you not to take the exchange meeting as a special exam. There will be no change in class points this time.”
+[says] (p.36) “It's unfortunate that Ichihashi had to stay home due to illness, but it was a blessing in disguise.”
+[says] (p.36) “I think some of you may have already noticed, but even though it's for all years, this time, only five representatives from each class of the third-years are participating. This is taking into account various circumstances.”
+[says] (p.36) “Your main objective will be to interact with the first-year students, but it's not like you can get along with everyone just from our vague instructions. As soon as you arrive at the camp, all years will be divided into 20 groups.”
+[says] (p.37) “This printout also includes some rewards you can get from the games and the conditions for obtaining them. You should read it carefully.”
+[says] (p.39) “OAA standards of balance are not taken into account at all. It wouldn't be strange if there was a drastic bias.”
+[says] (p.40) “But just because they're excellent doesn't mean they'll always win. Especially in this case.”
+[says] (p.43) “I hope it's clear that there's no need to be too concerned about winning or losing this time.”
+[says] (p.44) “I hope you’ll behave in a way that is not embarrassing to a senpai at the training camp.”
+[says] (p.45) “Gather in your assigned groups. From now on, for the next three days, follow your leader's instructions, have discussions, and get along with everyone.”
+[note] (p.37) Absentees named in the list: second-years Ichihashi and Ichinose; four first-years, including Ishigami.
+[rel:ayanokouji-kiyotaka] (p.35–45) She runs the briefing; the routine turns to her exchange-meeting rules.
+
+<!-- walk: y2v11 ch2 → p.84 -->

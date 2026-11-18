@@ -362,10 +362,12 @@ char_id: manabe-shiho · class: Class 1-C · status: minor
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — manabe-shiho mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.17; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.17 — Ch.1: Mentioned
+[scene] (p.17) Named in the briefing about participant numbers and the penalty system.
+[mentioned] (p.17) p.17: "After Manabe was expelled, Ryūen's class had invested heavily to bring in Katsuragi."
+[note] (p.17) Named only; not present; recalled for the shape of Ryūen's class and its investment in Katsuragi.
+
+<!-- walk: y2v12 ch1 → p.25 -->
 
 ## y2v12.5
 

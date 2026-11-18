@@ -164,6 +164,43 @@ char_id: asahina-nazuna · class: Class 2-A · status: supporting
 [note] (p.11) Passing mention (locator pages: p.53-57, p.59, p.61, p.64, p.79, p.81-83; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
+### y2v11 p.53–63 — Ch.2: Ride-or-die Nazuna
+[scene] (p.53) Rest Area, just before one; bored to death with Nagumo; she muscle-sits into the sofa beside him as Kiyotaka arrives.
+[says] (p.53) “Hey there, Ayanokōji-kun.”
+[says] (p.55) “...Yeah, I guess.”
+[says] (p.55) “I'm also going to a university, like Miyabi. But it will be different from his. My self-scoring on the common test for the university entrance exams I took recently was just under the cut-off point, and it might be a bit impossible at my level. If I can graduate from Class A, I might be able to force my way in with the help of the school... but I probably won't.”
+[says] (p.56) “But Ayanokōji-kun hasn't done anything wrong. It's not fair that he's being targeted by you. Why are you so persistent in targeting him?”
+[says] (p.56) “Isn't it because she wanted to follow in her brother's footsteps?”
+[says] (p.56) “Is that so? Then what was her motive?”
+[says] (p.57) “Wait, wait a minute. Eh, what? This is a bit different from what I thought.”
+[says] (p.58) “Eh? Isn't that too disadvantageous for Ayanokōji-kun? Card games are all about luck.”
+[says] (p.59) “Ah, well, yeah... Well, that might be true.”
+[says] (p.61) “Fūka-chan is always cool.”
+[says] (p.61) “Wow, that's a terrible thing to say, Nagumo. In this day and age, you can't complain even if you're killed.”
+[says] (p.61) “Even so, your way of speaking can cause misunderstandings, you know.”
+[says] (p.62) “Nagumo, this girl is... um...”
+[says] (p.62) “Oh, right. You're Amasawa-chan. You must be pretty good to be called into Miyabi's group, huh?”
+[says] (p.63) “Eh, oh my gosh, it's already this late!? I have to go, but feel free to consult me if you have any problems!”
+[note] (p.55) She will go to a different university than Nagumo; her own common-test score fell just under the cut-off.
+[note] (p.53–63) She sides with Kiyotaka against the bet; she apologizes for Nagumo's style; she runs off to her own duties before the Amasawa talk gets deep.
+[rel:ayanokouji-kiyotaka] (p.53–63) She rides along to the break room; she starts as his defender and ends annoyed on his behalf.
+[rel:nagumo-miyabi] (p.53–63) She sits with him on the sofa; she bristles at his "on top among the same sex" jab; he shrugs it off.
+
+### y2v11 p.79–83 — Ch.2: The swings
+[scene] (p.79) After the Kōenji affair; she and Kiryūin are found swinging at the east park; happily talking futures; Kiyotaka is dragged in.
+[says] (p.79) “We don't usually have a chance to talk, so it's kind of fresh... Really unusual, isn't it?”
+[says] (p.80) “We were talking about various things, but right now, we were talking about our future plans. I was curious about Fūka-chan's future.”
+[says] (p.81) “Eh~ Isn't that a bit of a waste? You seem like you could become anything.”
+[says] (p.82) “So you don't have a dream?”
+[says] (p.82) “Then tell me. I might aim for it too.”
+[says] (p.82) “What's the name of the politician? Do I know him?”
+[says] (p.83) “Eh, Kijima? Eh? The Prime Minister?”
+[says] (p.83) “Whether it's Miyabi or Fūka-chan, inviting Ayanokōji-kun, it must be something special, huh?”
+[says] (p.83) “See you later!”
+[note] (p.79–83) She's angling for Kiryūin's admiration; she learns the politician dream and its source; she nearly face-plants running off.
+[rel:kiryuin-fuuka] (p.79–83) Kiryūin tells her about Kijima; Asahina takes in every word of the "I don't want to become anyone" confession.
+
+<!-- walk: y2v11 ch2 → p.84 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

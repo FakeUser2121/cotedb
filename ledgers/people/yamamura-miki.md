@@ -19,17 +19,36 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 
 <!-- walk: y2v12.5 → start -->
 
-### y2v12.5 p.11-216 — Yamamura peers at the letter
-[scene] (p.105) Flustered alongside the others; peers into the envelope over Ayanokōji's shoulder and mutters that it is a phone number.
-[says] (p.105) “A phone number... it seems.”
+### y2v12.5 p.43–53 — Ch.3: Waiting for Morishita behind the dorm
+[scene] (p.43) Yamamura and Morishita are late for the 10 a.m. meeting; Ayanokōji calls her at 8-something; she answers flustered, says they are behind the dorm.
+[rel:morishita-ai] (p.43–53) She apologizes for Morishita's lateness and relays the meeting place.
+[rel:ayanokouji-kiyotaka] (p.43–53) She attends despite her shyness and low self-esteem.
+[scene] (p.45) Morishita is crouching observing insects; Yamamura urges Ayanokōji to be quiet.
+[scene] (p.47) Yamamura sighs that Morishita has been observing for over 30 minutes.
+[says] (p.47) “It’s been over 30 minutes...”
+[says] (p.47) “Uh, well, it’s not that I doubt you, but more like... surprised...”
+[says] (p.47) “Th-that’s too close—I can’t see anything. Or rather, it’s too bright...!”
+[says] (p.49) “Well... I might be a bit interested, actually.”
+[says] (p.50) “...Honestly, I still can’t quite accept it...”
+[says] (p.50) “The class atmosphere has become incredibly heavy...”
+[says] (p.50) “Well, I wouldn’t go that far...”
+[says] (p.50) “Aren’t you going to blame the person who created this situation, Sakayanagi, for acting selfishly?”
+[says] (p.50) “I don’t know... maybe we have to give up on Class A...”
+[says] (p.51) “Students like me... Well, I can’t deny it...”
+[says] (p.51) “T-The possibility is?”
+[says] (p.51) “Am... am I really being talked about like that?”
+[says] (p.52) “That’s expected. It would be a big problem if they were cheerful under these circumstances.”
+[says] (p.52) “U-Um. ‘Thin paper’...”
+[says] (p.52) “Eh, ehh...? It doesn’t feel like that at all...”
+[says] (p.52) “If possible...”
+[says] (p.52) “But... Ichinose-san’s class has a similar amount of class points, but everyone is smiling... right? They seem positive… Our situations aren’t much different, isn’t it?”
+[says] (p.52) “What do we do now?”
+[says] (p.52) “Could it be... from now on, you will lead the class, Morishita-san...?”
+[says] (p.52) “Impossible, huh…?”
+[says] (p.53) “U-Umm, Morishita-san, what traitor?”
+[rel:sakayanagi-arisu] (p.50–53) She became friends with Sakayanagi, who had merely used her at first; she still cannot accept the withdrawal.
 
-<!-- walk: y2v12.5 Ch.6 → p.106 -->
-
-### y2v12.5 p.43-218 — Yamamura elsewhere in this volume
-[scene] (p.43) Named in this volume.
-[note] (p.43) Locator pages beyond p.105-106: p.43, p.45, p.47, p.50-52, p.54, p.94-95, p.102-103, p.211-212; not line-by-line verified; substring false positives possible. Not a verified scene presence.
-
-<!-- walk: y2v12.5 Epilogue → p.212 -->
+<!-- walk: y2v12.5 Ch.3 → p.53 -->
 
 ## y3v1
 

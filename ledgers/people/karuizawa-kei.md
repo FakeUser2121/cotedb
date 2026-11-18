@@ -1456,10 +1456,16 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — karuizawa-kei mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.20-24, p.39, p.45-46, p.53, p.61, p.91-92; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.20–25 — Ch.1: Walking home; the cancelled date
+[scene] (p.20) Walking home side by side after the announcement; he is preoccupied with the exam and with the fact that one of Ryūen and Sakayanagi will be expelled no matter what; she senses it before he admits anything.
+[says] (p.21) "Were you thinking about something? You were, right?"
+[says] (p.21) "This upcoming movie... it's exciting, isn't it?"
+[says] (p.21) "It isn't something to be thinking about while we're walking home together. Are you angry?"
+[scene] (p.21–23) He explains he'll meet the four leaders before the exam; she flinches at the thought of him meeting Ichinose; accepts the cancelled weekend date with a pained smile; asks to stay over; he refuses; she bites her lip, apologizes, and asks what to do about it; he deflects with a promise of a movie after the exams.
+[note] (p.22) Her murmur — asking for permission to contact others but expecting proper consultation — lands in the middle of this conversation; she keeps her feelings concealed.
+[rel:ayanokouji-kiyotaka] (p.20–25) Notices his preoccupation first; swallows jealousy over Ichinose; cancels the date without complaint; asks to make herself more to him.
+
+<!-- walk: y2v12 ch1 → p.25 -->
 
 ## y2v12.5
 
@@ -1915,3 +1921,17 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [note] (p.11) Passing mention (locator pages: p.19, p.21, p.26, p.30, p.34-35, p.37-38; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
+### y2v11 p.34–44 — Ch.2: The way there, with Kiyotaka
+[scene] (p.34) 9:30 Thursday morning; she's seated right by Kiyotaka on the bus; group 7 with Tanaka-senpai; her movie date March 26 fixed on the bus.
+[says] (p.34) “I'll sit with Kiyotaka.”
+[says] (p.34) “I'll do that on the way back. It's fine to be together on the way there, right?”
+[says] (p.35) “Oh, that's right. I found out yesterday that my favorite movie’s going to be screened soon. Let's go see it together when it starts.”
+[says] (p.35) “Yay! It's super interesting. I think you’ll enjoy it too”
+[says] (p.37) “I'm in group seven with Tanaka-senpai. You're not there... but...”
+[says] (p.38) “It seems that at the training camp, I'll be sharing a room with the girls in the same group, and there’s someone I don't want to be with... I'm glad they aren’t there”
+[says] (p.38) “It's not that I hate Ichinose-san or anything, but, I don't know. I'm a little scared.”
+[note] (p.37–38) Her roommate fear: Ichinose; she glares at Kiyotaka when she whispers her suspicion about his closeness with Ichinose.
+[note] (p.38) The March 26 movie date is fixed during the ride.
+[rel:ayanokouji-kiyotaka] (p.34–44) Sticks to him on the way there; freezes at his reaction; keeps arguing he's too close to Ichinose.
+
+<!-- walk: y2v11 ch2 → p.84 -->

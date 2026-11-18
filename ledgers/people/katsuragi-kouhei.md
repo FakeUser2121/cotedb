@@ -976,10 +976,12 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — katsuragi-kouhei mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.17, p.65, p.69, p.101, p.105-115, p.117-118; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.17 — Ch.1: Mentioned
+[scene] (p.17) Named during the briefing about participant headcounts.
+[mentioned] (p.17) p.17: "After Manabe was expelled, Ryūen's class had invested heavily to bring in Katsuragi."
+[note] (p.17) Named only; not present; recalled as the student Ryūen's class invested points to bring in after Manabe's expulsion.
+
+<!-- walk: y2v12 ch1 → p.25 -->
 
 
 

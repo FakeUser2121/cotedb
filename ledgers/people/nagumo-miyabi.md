@@ -516,10 +516,15 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — nagumo-miyabi mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.20, p.40, p.42, p.50, p.63; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.20, p.40, p.42, p.50–51, p.63 — Ch.1–3: Mentioned
+[scene] (p.20) Named during Ayanokōji's private reckoning about the balance of the four classes.
+[mentioned] (p.20) p.20: "Both Horikita Manabu's and Nagumo Miyabi's classes had created a dominating system as a result."
+[mentioned] (p.40) p.40: Amasawa recounts her own near-expulsion over the Nagumo incident at the camp.
+[mentioned] (p.50–51) p.50–51: recalled as the transfer-fee discussion with Hashimoto (the 20 million point transfer cost) and as the source of a 3 million private-point reward for the camp bet.
+[mentioned] (p.63) p.63: Kiryūin reports that Nagumo asked her to look into how Ayanokōji would handle the special exam; he has no intention of seeing Ayanokōji anymore.
+[note] (p.20, p.40, p.42, p.50–51, p.63) Named throughout but never on-page; not present; discussed only in others' speech and Ayanokōji's thoughts.
+
+<!-- walk: y2v12 ch1 → p.25 -->
 
 ## y2v12.5
 
@@ -732,3 +737,38 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [note] (p.11) Passing mention (locator pages: p.39, p.53-62, p.64-65, p.67-72, p.78, p.84; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
+### y2v11 p.53–62 — Ch.2: The bet he sets before graduation
+[scene] (p.53) Rest Area, just before one; drooping of boredom with Asahina; beckons Kiyotaka over; Asahina muscles into the sofa next to him.
+[says] (p.53) “Need? Well, it's not much of a need, but I do have something to talk about.”
+[says] (p.54) “Many of us third-years are dealing with exams and job hunting at this time.”
+[says] (p.56) “Do you want to know?”
+[says] (p.56) “I'm going to university. I have no intention of using the Class A privilege.”
+[says] (p.56) “That’s one of the reasons I dominated the third-year and became an overwhelming presence. Whether I'm in Class B or Class D at graduation, I believe I can get into the university I want and get a job at the company I desire with my own power.”
+[says] (p.56) “Do you know why Horikita Suzune joined the student council, Nazuna?”
+[says] (p.56) “This guy right here. Ayanokōji was using Suzune to keep an eye on me.”
+[says] (p.57) “Horikita-senpai did pass the baton to me, after all.”
+[says] (p.57) “I can assume you're willing to accept a match with me, right?”
+[says] (p.57) “Actually, calling it a match is an exaggeration. It's more like a small bet.”
+[says] (p.58) “You participate in all the games. And when you lose three times, that's your defeat.”
+[says] (p.58) “Yeah. Even if Kiryūin's group loses 19 times in a row, if you don't lose to anyone, it's a win.”
+[says] (p.59) “If I make being undefeated a condition and you lose in the first battle, it would be a real turn-off, right?”
+[says] (p.59) “That’s the way I like to treat you.”
+[says] (p.60) “Nazuna seems to misunderstand, but victory or defeat is not determined solely by whether one is excellent. If the person on top isn’t more capable, using a skilled person will only lead to their loss.”
+[says] (p.60) “Ah, everything's going smoothly. It's going to be a match between me and Ayanokōji as planned”
+[says] (p.61) “Huh, you've really bought into Ayanokōji. If you want, I can challenge you individually and not just in this exchange meeting. If we're both third-years, there's no need to hold back. I'll even bet the ticket price for Class A.”
+[says] (p.61) “She's just a woman, after all.”
+[says] (p.61) “You should also practice or something and prepare for the match.”
+[says] (p.62) “Amasawa. From first-year Class A.”
+[says] (p.62) “She wasn't my pick. Somehow, she heard rumors and knew about the next social gathering.”
+[says] (p.64) “Sorry, but I don't like women who pretend to be cute or flatter me.”
+[says] (p.64) “I'm leaving now. Do your best, Ayanokōji.”
+[note] (p.54–56) His university choice: same one Horikita Manabu goes to; no need for the Class A privilege; he dominated the third-year on his own power; Asahina is also bound for university but not the same level.
+[note] (p.58–59) Terms: Kiyotaka plays all 19 games; three individual losses end the bet; his group record irrelevant; Nagumo demands his defeat; he smiles like he's already won.
+[note] (p.62–65) Amasawa pressed herself onto his group; he recruited hesitantly; she heard the plans via Yagami and Tsukishiro.
+[rel:ayanokouji-kiyotaka] (p.53–66) He sets the match inside the exchange meeting; he wants Kiyotaka to lose in any game; he offers private points.
+[rel:asahina-nazuna] (p.53–64) Nazuna sides with Kiyotaka; she's irked by his "on top among the same sex" line; she hurt-shoves him; he ignores it.
+[rel:kiryuin-fuuka] (p.60–62) Kiryūin volunteered for the leader role to watch; he chalks it up to her usual cool distance.
+[rel:horikita-suzune] (p.56) He believes Kiyotaka used Suzune to keep an eye on him when she joined the council.
+[rel:horikita-manabu] (p.54–57) Horikita Manabu's university choice drew Nagumo; the baton passed to Nagumo as president.
+
+<!-- walk: y2v11 ch2 → p.84 -->
