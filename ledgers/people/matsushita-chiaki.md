@@ -216,10 +216,23 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — matsushita-chiaki mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.127, p.168, p.172-175, p.218, p.220.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.172–176 — Matsushita latches onto the treasure hunt
+[scene] (p.172–176) Spots Ayanokōji under the sofa; invites him to pair up when she realizes he's alone; sits in on his QR-code pattern lecture; doesn't understand a word of the reasoning but contributes logistics; departs for "a slightly more dependable partner."
+[note] (p.172) “…Ayanokōji, huh” — unattributed in the translation; by position it is Tatara's, but it is not assigned as his.
+[says] (p.173) “Hey, are you perhaps alone too, Ayanokōji-kun? If you're alone, do you want to pair up?”
+[says] (p.175) “Pretty much.”
+[says] (p.175) “Naturally, there will be valuable QR codes in hard to find locations, right?”
+[says] (p.175) “It's a lot of work to put up a hundred QR codes, right?”
+[note] (p.176) “But yeah, that's too bad. To think someone beat me to it.” — unattributed in the translation; follows Ayanokōji's inward remark; by position it is either his or Matsushita's; not assigned.
+[says] (p.176) “I think I'm going to go look for a slightly more dependable partner. See you later.”
+[note] (p.172–174) Tatara trails her; she is completely oblivious to what he is; Ayanokōji never tells her.
+[rel:tatara] (p.172–174) Does not notice Tatara's interest; the encounter ends without friction.
+[rel:ayanokouji-kiyotaka] (p.172–176) Invites him; he deflects; she gives up gracefully.
+[rel:satou-maya] (p.172–176) Joins their conversation about the QR pattern; puzzled but game.
+
+<!-- walk: y2v4.5 ch5 → p.216 -->
+
 
 ## y2v5
 

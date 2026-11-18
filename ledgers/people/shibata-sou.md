@@ -304,10 +304,12 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — shibata-sou mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: none.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.10–290 — Shibata Sō: no occurrence in this volume
+[note] (p.10–290) Corpus search for "Shibata" returns nothing in this volume; no presence to record. Zero-finding record; the Y2V4.5 cell in content/characters.tsv stays as-is (add only, no removals).
+
+<!-- walk: y2v4.5 ch5 → p.216 -->
+
 
 
 

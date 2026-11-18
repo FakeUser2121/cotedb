@@ -48,10 +48,14 @@ char_id: shiba-katsunori · class: Class 1-D · status: unknown
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — shiba-katsunori mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.161, p.257.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.161, 257 — Shiba: absent from the briefing; sanctioned
+[mentioned] (p.161) At the treasure-hunt briefing, Ayanokōji notes Acting Director Tsukishiro and "Shiba, the homeroom teacher for first-year Class D" are both not present — "If Shiba had also been hired by that man, it wouldn't be surprising if he stepped aside after what happened on the island."
+[mentioned] (p.257) Yagami, meeting Amasawa: “I heard that you've already been sanctioned by Shiba. You were right not to fight back.”
+[note] (p.161) Shiba's relation to the 3rd-year Class A homeroom teacher Takatō is not stated; the translation never separates "Shiba" beyond this mention.
+
+<!-- walk: y2v4.5 ch5 → p.216 -->
+
 
 
 

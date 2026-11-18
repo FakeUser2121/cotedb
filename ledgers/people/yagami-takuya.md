@@ -147,6 +147,17 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 <!-- walk: y2v4.5 → start -->
 
 
+### y2v4.5 p.193–196 — Yagami takes the reward desk
+[scene] (p.193–195) Yagami-kun approaches with the shift-change request; tells Horikita to take a break and let him handle the reward confirmations; he's the next in line after her.
+[says] (p.194) “That won't do. I have my own job that I've been given. I can't call myself a member of the student council if I leave it to you, Horikita-senpai.”
+[says] (p.195) “Well then, I'll see you later, Kushida-senpai.”
+[note] (p.195) In this volume, Yagami is a first-year student council member; Horikita rates him "a reliable underclassman in the sense that I could trust him" — the best candidate in his cohort for future president; he works well despite being young.
+[rel:horikita-suzune] (p.193–195) Peer; holds him as the standout of his year on the council.
+[rel:kushida-kikyou] (p.193–196) Walks with him to the desk; she's assigned there with him (he's close to her; the "more than friends, less than lovers" vibe).
+
+<!-- walk: y2v4.5 ch5 → p.216 -->
+
+
 
 ### y2v4.5 p.251–254 — Yagami summons Amasawa: her real intentions
 [scene] (p.251) In a guest cabin, Amasawa (now a "civilian" after Tsukishiro's disqualification) meets Yagami, who has calculated that their roommates won't return; she warns he'd normally question the timing.

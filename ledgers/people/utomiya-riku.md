@@ -95,10 +95,16 @@ char_id: utomiya-riku · class: Class 1-C · status: unknown
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — utomiya-riku mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.189-191, p.253-255.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.189–191 — Utomiya named by Kurachi: the moneyed assailant
+[note] (p.189) Kurachi identifies him: “It was my classmate, Utomiya.” (Kurachi, p.189) — Utomiya has no lines of his own in this volume.
+[note] (p.189) Kurachi fingers Utomiya Riku, first-year Class C, as the one who promised money for the "attack" on Ayanokōji; Kurachi claims the money was transferred without him doing anything.
+[note] (p.190) Ryūen pulls up Utomiya's OAA: an A in physical ability; wonders aloud if he could have pushed Komiya without Komiya realizing; decides "I'm gonna hunt down this Utomiya brat and get him to talk."
+[mentioned] (p.190) Nanase stops him: "If Utomiya-kun is the culprit, if it was decided he was innocent, that would be the end of it, wouldn't it?" — she asks for time and gets it, on the condition that Ryūen holds off contacting Utomiya.
+[note] (p.191) Nanase claims Utomiya "might" be physically capable; leaves it at that; no contact yet.
+
+<!-- walk: y2v4.5 ch5 → p.216 -->
+
 
 
 

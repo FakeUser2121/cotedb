@@ -635,6 +635,21 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y2v4.5 ch2 → p.72 -->
 
+### y2v4.5 p.152–165 — Nagumo in person: the Ichinose reveal; the treasure hunt
+[scene] (p.152–157) Appears behind Ayanokōji and Ichinose at their secret spot; reveals he knows about Karuizawa; positions himself as Ichinose's protector; whispers to Ayanokōji.
+[says] (p.153) “It seemed like you met on the last day of the uninhabited island exam, but are the two of you having another sneaky clandestine meeting?”
+[says] (p.154) “It seems you've only told your closest friends, but I've heard that you've been going out with Karuizawa for quite some time. Isn't that right, Ayanokōji?”
+[says] (p.155) “Don't tell me you were thinking of two timing, were you?”
+[says] (p.155) “You're free to think what you like about my methods. But I haven't even gotten started yet, you know?”
+[says] (p.156) “You can mix a hundred truths with one lie and nobody would notice. You need to make a decision before it's too late. If you ever want to fight me, at that time, come and see me. If you get down on your knees, I'll be your opponent.”
+[scene] (p.161–162) Treasure-hunt briefing; delivers a short speech as the game's sponsor (Takatō-sensei presents it as inspired by him); sits Ichinose beside the faculty for the announcement.
+[says] (p.161) “With the full cooperation of the school, the bonus game is now open. The idea for this project came from the student council's daily commitment to enriching and improving school life. During the uninhabited island exam, all years often competed against each other, but in this treasure hunt, it's possible to make partners across year groups. We hope you take advantage of the merits and participate.”
+[note] (p.154–156) His information source is never revealed; Kiriyama knew they were together; Nagumo enjoys keeping it unverifiable; "hundred truths with one lie" is his stated doctrine.
+[rel:ichinose-honami] (p.153–157) Speaks to his face as "Honami," his fellow council member; plays protector while using her as bait.
+[rel:karuizawa-kei] (p.154) Weaponizes her relationship with Ayanokōji in public.
+[rel:ayanokouji-kiyotaka] (p.153–157) Delivers the warning in person: surveillance, harassment indefinite; an all-out campaign recruiting the whole third year; invites a formal challenge to the end.
+
+<!-- walk: y2v4.5 ch5 → p.216 -->
 
 ## y2v5
 

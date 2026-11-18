@@ -82,10 +82,16 @@ char_id: nishino-takeko · class: Class 1-C · status: minor
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — nishino-takeko mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.183, p.185, p.187.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.183–187 — Nishino: Ryūen's fifth member
+[scene] (p.183–184) Ryūen picks up Nishino to tail Nanase and hold her in place; walks her over; waits in the hallway while hands.
+[mentioned] (p.183) Ryūen: "I'm havin' Nishino hold it down."
+[mentioned] (p.184) "The first ones to arrive at the crime scene were Sudō, Ayanokōji, Ike, Hondō and also you." — his framing of Nanase; Nishino's job is to secure her physically.
+[mentioned] (p.185) "until Nishino caught you, you were followin' Kurachi the whole time." — Ryūen's surveillance report to Nanase.
+[mentioned] (p.187) Taguri is pulled aside from Kurachi by "Ishizaki and Nishino" — gesture from Ryūen with his chin.
+
+<!-- walk: y2v4.5 ch5 → p.216 -->
+
 
 
 

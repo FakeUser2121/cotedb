@@ -1770,9 +1770,6 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
-
-
-
 ### y2v4.5 p.194–202 — Kushida's lunch with Horikita: demanding her expulsion
 [says] (p.196) "You're going to take a break now, right Horikita-san? Would you have lunch together with me?"
 [says] (p.196) "The reason why I'm close to Yagami-kun?"
@@ -1788,6 +1785,18 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:horikita-suzune] (p.196–202) Her middle-school peer and enemy — demands she drop out, curses her an "idiot," remains committed to expelling her.
 [rel:ayanokouji-kiyotaka] (p.200–201) Knows/claims he funds Horikita's defence; plans to silence him by proving she can remove Horikita.
 [rel:yagami-takuya] (p.197–198) He has feelings for her; she's using that closeness to watch/eliminate him.
+### y2v4.5 p.213–216 — Kushida and Ayanokōji's evening: the transfer
+[scene] (p.213–216) After the treasure hunt, Ayanokōji calls her; they meet on the deck; he confesses he earned 100,000 points and transfers half — 45,000 — to buy her silence with "good faith"; she accepts the arrangement warily.
+[says] (p.214) “Hello?”
+[says] (p.215) “To be honest with you…I want you to take them, as a sign of good faith.”
+[says] (p.216) “But I think it's a much, much smarter approach than Horikita-san. I don't hate that kind of thing.”
+[says] (p.216) “For me as well, the only person I don't want to make an enemy out of is you, Ayanokōji-kun, so I hope we continue to get along.”
+[note] (p.214) Ayanokōji transfers 45,000 points (half of 90,000 after the 10,000 entry fee) — not the full 100,000; it's a purchase of non-hostility, not a bribe outright.
+[rel:ayanokouji-kiyotaka] (p.213–216) Accepts his private-point transfer; treats the truce as mutually beneficial; neither trusts the other yet.
+[rel:horikita-suzune] (p.199–216) Compares his approach favorably to Horikita's "impossible" expulsion scheme; calls him "smarter" — true to her read, perversely.
+
+<!-- walk: y2v4.5 ch5 → p.216 -->
+
 ## y2v5
 
 <!-- walk: y2v5 → start -->

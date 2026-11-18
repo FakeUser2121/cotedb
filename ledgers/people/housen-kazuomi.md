@@ -186,11 +186,22 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
+### y2v4.5 p.88–89 — Hōsen: Sakayanagi's counterweight
+[mentioned] (p.88–89) Sakayanagi admits she "decided to let him and Hōsen-kun clash" to protect her third place; Ryūen was forced to retire against him — "which was the best possible outcome for us."
 
-### y2v4.5 p.10-290 — housen-kazuomi mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.74, p.88, p.143, p.174, p.181-182.
-[mentioned] (p.10) Passing mention only.
+<!-- walk: y2v4.5 ch3 → p.95 -->
+### y2v4.5 p.181–182 — Hōsen and Ryūen in the hallway
+[scene] (p.181–182) Hōsen crosses paths with Ryūen in the hallway; banters about nearly killing him and being owed-free-ride points; Ryūen licks his shoe; they part undefeated; Ishizaki trails Ryūen.
+[says] (p.181) “Yo Ryūen, you did so much for me the other day.”
+[says] (p.181) “Don't worry 'bout it. If I half kill you…nah even if I fully kill you in this place, it won't make me feel any better. The number of targets I gotta kill's gone from one to two, so it's gonna get busy.”
+[says] (p.181) “Ha? Anyway fucker, I heard you been secretly buyin' up the effects of 'Free Ride' cards from first-years. Sounds like ya bet it all on that third-year Nagumo so you must 'ave made a good bit of money, eh?”
+[note] (p.181–182) Ryūen bought up 280,000 points of 'Free Ride' cards from first-years betting on Nagumo; most of his classmates don't know.
+[note] (p.182) Hōsen's "targets to kill" count moved from one to two — whatever Ryūen did the other day left two targets; the referent is never spelled out on these pages.
+[rel:ryuuen-kakeru] (p.181–182) Mutually loathing frenemies; Ryūen fears facing him again; their casual hallway hostility hides a serious grudge.
+
+<!-- walk: y2v4.5 ch5 → p.216 -->
+
+
 
 
 

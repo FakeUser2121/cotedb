@@ -8860,6 +8860,21 @@ walk: y1v1 → DONE
 [says] (p.269) "I'll absolutely tell them. Even if something happens, you'll protect me so I'll be fine. Right, Kiyotaka?"
 [trait] (p.268–274) Holds her hand and, after a first tentative kiss, repeats it — learning timing through practice ("the only way to learn the timing was to repeat it over and over again"); reflects that they've finished "the first half of the curriculum of love" and will face an "arduous trial" when they graduate ("a given"), when Kei will have to stand up on her own without her host.
 [rel:karuizawa-kei] (p.268–274) His girlfriend — they'll go public in second semester; they learn to kiss together.
+### y2v4.5 p.204–216 — The reward report; Sudō; the Kushida transfer
+[scene] (p.204–211) After Satō chooses the sofa QR code on instinct and it pings back already-claimed ×2, the third loads a treasure chest worth 100,000 points; he lets Satō handle the screen; reports to Horikita; Wang and Kōenji have 500,000; Sudō vents about Ike beating him to a girlfriend and wants Ike in Horikita's study group; Kushida — he calls her and offers half of his 90,000 for "good faith."
+[says] (p.211) “Just going for a little walk before dinner.”
+[says] (p.212) “There might be other members joining you, you know?”
+[says] (p.212) “It's Satō, only Satō.”
+[says] (p.213) “In moderation, right? After all, it's not easy to fall in love with something that you used to hate, like studying.”
+[says] (p.215) “To be honest with you…I want you to take them, as a sign of good faith.”
+[says] (p.215) “The way I see it, it's more dangerous to make an enemy of you, whose personal life comes into play, than a student like Sakayanagi or Ryūen, who we have to fight in special exams.”
+[says] (p.216) “Yeah. I'd like to keep our mutually beneficial relationship going.”
+[rel:satou-maya] (p.204–211) She picked the code that paid out; he let her pick it; they both get 45,000 after the fee.
+[rel:sudou-ken] (p.211–213) Shares the corridor news — Ike wants to study with him; Satō might tag along; Sudō's competitive pride.
+[rel:kushida-kikyou] (p.213–216) Buys her silence with half of the treasure-hunt winnings; "good faith" is a two-way street.
+
+<!-- walk: y2v4.5 ch5 → p.216 -->
+
 ## y2v5
 
 <!-- walk: y2v5 → start -->

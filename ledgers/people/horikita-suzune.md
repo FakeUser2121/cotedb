@@ -4347,6 +4347,10 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v4.5 ch4 → p.158 -->
 
+### y2v4.5 p.165–166 — Horikita announces the anti-fraud measure
+[scene] (p.165) Steps up with the microphone after Takatō-sensei's briefing; demands all participants fill a name register on payment to prevent proxy participation; tells them rewards may be invalidated otherwise.
+[says] (p.165) “I am Horikita from the student council. I have a request for all students who will be participating. In order to prevent fraud, participants will be asked to pay 10,000 points when they leave the room, and at the same time, they will be asked to fill their names on the register by year group.”
+
 ### y2v4.5 p.194–202 — The Kushida lunch: "drop out of school"
 [scene] (p.194) Administering treasure-hunt rewards on the student council with Yagami; takes a break and has lunch with Kushida, who proposed it.
 [says] (p.196) "Is it weird that I'm asking you out?"
@@ -4360,6 +4364,17 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:kushida-kikyou] (p.196–202) Her classmate/rival — Kushida demands she drop out; Horikita tries to ease her burden, calling her "overthinking" and offering cooperation.
 [rel:ayanokouji-kiyotaka] (p.200) Kushida reveals he's been funding Horikita's anti-expulsion defence.
 [rel:yagami-takuya] (p.194–197) Reliable council colleague; his closeness with Kushida is "more than friends, less than lovers."
+
+### y2v4.5 p.206–211 — Horikita and Ayanokōji close out the treasure hunt
+[scene] (p.208–211) Sat and returned to the starting point; Horikita updates him on the class's standouts — Wang and Kōenji pair won 500,000; her own suggestion was to be able to spot fraud; he tests her on what he needs to know.
+[says:satou-maya] (p.208) “Well then, thank you for today, Ayanokōji-kun. Let's hang out together some other time.”
+[says] (p.209) “Well good for you, you're correct. There was a pair that won 500,000 private points. It was Wang-san and Kōenji-kun.”
+[says] (p.210) “Even if you give up, I won't. His strength is vital.”
+[says:ayanokouji-kiyotaka] (p.210) “It's impossible.”
+[says:ayanokouji-kiyotaka] (p.211) “No, I was just trying to figure out how I would spend all these private points that I've been given.”
+[rel:kouenji-rokusuke] (p.209–210) Determined to recruit him for Class A; insists he must be used; he flatly refuses.
+
+<!-- walk: y2v4.5 ch5 → p.216 -->
 
 ### y2v4.5 p.236–242 — Horikita's handwriting hunt; the Ishigami encounter
 [scene] (p.236) From her own POV, uses the remaining holiday to hunt the first-year who left the note recommending Ayanokōji's expulsion — borrows the private-pool reservation clipboard at reception to study names and handwriting (the paper version is needed, not a tablet).

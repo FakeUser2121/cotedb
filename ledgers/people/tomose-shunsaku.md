@@ -26,10 +26,12 @@ char_id: tomose-shunsaku · role: Illustrator · status: minor
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — tomose-shunsaku mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.3.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.3 — Translator credit only; no story presence
+[note] (p.3) "Illustrations by Tomoseshunsaku" — appears on the title page only; no character presence anywhere in the volume (corpus searched). Zero-finding record.
+
+<!-- walk: y2v4.5 ch5 → p.216 -->
+
 
 
 

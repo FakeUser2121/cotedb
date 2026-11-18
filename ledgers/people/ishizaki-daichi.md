@@ -725,7 +725,6 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
-
 ### y2v4.5 p.16–26 — Ishizaki befriends Ayanokōji
 [says] (p.18) "Ayanokōji, let's go check out the test results together!"
 [says] (p.20) "I went to see 'World Domination 16' the day it came out."
@@ -746,6 +745,13 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [rel:nanase-tsubasa] (p.25) Teases Ayanokōji about "dating" her — thinks she's cute.
 
 <!-- walk: y2v4.5 ch1 → p.35 -->
+
+### y2v4.5 p.181–185 — Ishizaki trails Ryūen; the Hōsen standoff; Kurachi hunt
+[scene] (p.181–185) Ishizaki and Ryūen cross paths with Hōsen in the hallway; Ishizaki is wary of Hōsen but follows Ryūen anyway; Ryūen sends him to tail Nanase and check Utomiya; Ishizaki is present at the Kurachi interrogation.
+[note] (p.185) Even Ishizaki, watching from the side, feels like giving in although he is not the one being interrogated; the text prints this as narration, not as a quoted line.
+[rel:ryuuen-kakeru] (p.181–185) Shadows him; even his own side is too tense to be comfortable; he's "had felt Ryūen's intimidation many times" and can't get used to it.
+
+<!-- walk: y2v4.5 ch5 → p.216 -->
 
 ## y2v5
 

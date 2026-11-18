@@ -2239,6 +2239,17 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v4.5 ch1 → p.35 -->
 
+### y2v4.5 p.181–183 — Ryūen and Hōsen in the hallway
+[scene] (p.181–182) Crosses paths with Hōsen in a hallway; trades threats about targets and Free Ride cards; splits the difference and parts without violence; Ishizaki trails him.
+[says:housen-kazuomi] (p.181) “Yo Ryūen, you did so much for me the other day.”
+[says] (p.181) “You sure it's okay not to be sleepin'? Might as well go rest in your bed for another week or so.”
+[says] (p.182) “Kuku. Who pissed their pants? We had a contract to keep their mouths shut.”
+[says] (p.182) “If you lick my shoes, I'm okay with givin' you a little somethin' for your trouble you know? Gorilla.”
+[says] (p.183) “Leave it. I know he's a troublesome opponent, but we gotta find the culprit first.”
+[note] (p.181–182) Ryūen contracted first-years' Free Ride cards — 280,000 points net — betting on Nagumo; only the insiders running it know.
+[rel:housen-kazuomi] (p.181–182) Mutually furious; paranoid that each could kill the other; shows his resolve by not flinching.
+[rel:ishizaki-daichi] (p.181–183) Trails him; too tense to be comfortable with what Ryūen does next.
+
 ### y2v4.5 p.182–191 — Ryūen investigates Komiya's attacker
 [says] (p.183) "Nanase Tsubasa, right?"
 [says] (p.190) "You've started to see things, eh."
@@ -2248,6 +2259,9 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:nanase-tsubasa] (p.182–191) Uses her to interrogate Kurachi; agrees to her deal for information.
 [rel:utomiya-riku] (p.190) The suspected attacker — Ryūen wants to confront him directly.
 [rel:komiya] (p.182) Investigating who injured him — a mistake could half destroy the class
+
+<!-- walk: y2v4.5 ch5 → p.216 -->
+
 ## y2v5
 
 <!-- walk: y2v5 → start -->

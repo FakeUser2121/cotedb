@@ -49,10 +49,14 @@ char_id: mori-nene · class: Class 1-D · status: minor
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — mori-nene mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.30, p.37, p.80, p.167-168, p.220.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.167 — Mori: Kei's treasure-hunt pair
+[scene] (p.167) Leaves the briefing hall late with Karuizawa — they paired up for appearances, as Kei keeps her relationship a secret; Mori says nothing on-page.
+[note] (p.167) "Kei walked out of the hall late accompanied by a classmate, Mori Nene, looking friendly." — the only mention of Mori in this volume; no lines.
+[rel:karuizawa-kei] (p.167) Kei paired with her as camouflage; Mori has no idea what she's actually paired for.
+
+<!-- walk: y2v4.5 ch5 → p.216 -->
+
 
 
 

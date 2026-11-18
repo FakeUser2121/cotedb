@@ -1791,11 +1791,21 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
+### y2v4.5 p.211–213 — Sudō and Ayanokōji in the corridor; Ike's study-group plan
+[scene] (p.211–213) Two doors down from dinner, Sudō pulls Ayanokōji aside — Ike wants to study with him, starting with summer training; he's annoyed Ike got a girlfriend first; he'll give Ike the basketball club's spartan training.
+[says] (p.211) “Are you talking about how Ike and Shinohara started dating?” — that is Ayanokōji's line.
+[says] (p.211) “W-what, you already knew?”
+[says] (p.211) “Nah, 'course that was a surprise too, he beat me to it… More importantly, he said he wants to study with me. He wants to join Suzune's study group.”
+[says] (p.212) “Poor academic performance is fatal at this school after all.”
+[says] (p.212) “It's a precious time for me to be alone with Suzune, but if he's motivated, I've got no choice but to support him, right? So Kanji's gonna study hard, starting with summer training.”
+[says] (p.213) “Hmm. Well, it's okay. I'm not gonna lose no matter who's comin'.”
+[says] (p.213) “I can go for like an hour.”
+[says] (p.213) “I'm gonna hold a grudge 'bout that while givin' him proper training. Gonna give him the basketball club's spartan training.”
+[trait] (p.211–213) Proud, competitive, genuinely motivated — irritated that Ike fell in love first, yet ready to take Ike into Horikita's study group; studying for an hour straight is now his ceiling.
+[rel:ike-kanji] (p.211–213) The friend who got the girl first; being conscripted into tutoring duty; he doesn't hold it against him, much.
+[rel:horikita-suzune] (p.212–213) His study-group tutor; he dreads competition from Ike entering it.
 
-### y2v4.5 p.10-290 — sudou-ken mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.33, p.35, p.42, p.109, p.115.
-[mentioned] (p.10) Passing mention only.
+<!-- walk: y2v4.5 ch5 → p.216 -->
 
 ## y2v5
 

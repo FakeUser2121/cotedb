@@ -486,10 +486,12 @@ char_id: ayanokouji-atsuomi · role: White Room director, Ayanokōji’s father 
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — ayanokouji-atsuomi mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.17-18, p.20, p.22, p.25-26, p.29-30.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.10–290 — Atsuomi's absence; the White Room is absent from the page
+[note] (p.10–290) No occurrence of the name Atsuomi anywhere in this volume (corpus searched); the White Room is referenced only as "White Room students" in outline (Amasawa-san, p.30; "the White Room students are still around", p.89) without Atsuomi. Zero-finding record; nothing is assigned from outside.
+
+<!-- walk: y2v4.5 ch5 → p.216 -->
+
 
 
 
