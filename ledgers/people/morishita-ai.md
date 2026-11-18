@@ -366,3 +366,21 @@ char_id: morishita-ai · class: Class 2-A · status: unknown
 [rel:shiina-hiyori] (p.108) She dismisses Hiyori's soft take on the first-years.
 
 <!-- walk: y2v11 ch4 → p.113 -->
+
+### y2v11 p.140–141 — Ch.5: The joker war
+[scene] (p.136–141) The girls' room; she and Hiyori square off over the Joker; she wins by psychology.
+[says] (p.136) “Let's do that. That. The game where the person who has the Joker at the end loses.”
+[says] (p.136) “I can't say whether I like it or not. I've never done it before.”
+[says] (p.136) “There were no people worth playing cards with.”
+[says] (p.137) “Please go ahead, Shiina Hiyori. Don't hesitate to draw any card you like.”
+[says] (p.137) “Is that so? This is the advanced strategy I came up with.”
+[says] (p.140) “Is this it?”
+[says] (p.140) “I thought it might not be the Joker.”
+[says] (p.140) “I think it's the Joker.”
+[says] (p.140) “You're naive, Shiina Hiyori. The mystery is all solved.”
+[says] (p.140) “I win.”
+[note] (p.136–141) She bluffs with zero experience; she isolates the Joker; she beats Hiyori at the end of a match.
+[rel:shiina-hiyori] (p.137–141) Hiyori draws the wrong card; she loses; Morishita wins on pure psychology.
+[rel:yamamura-miki] (p.137–141) Yamamura watches from the corner; Morishita never looks at her.
+
+<!-- walk: y2v11 ch5 → p.144 -->

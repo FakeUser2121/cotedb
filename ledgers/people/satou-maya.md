@@ -536,3 +536,16 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [note] (p.11) Passing mention (locator pages: p.40, p.133-134; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
+### y2v11 p.133–134 — Ch.5: The heartbreak of the last loss
+[scene] (p.133) After the bath; passing the lobby, she pulls back from returning to her room when she sees Ayanokōji.
+[says] (p.133) “Ah~! Ayanokōji-kun! Hey, can you listen to my story~!?”
+[says] (p.133) “It's the exchange meeting—the exchange meeting. I was seriously aiming for the top, so...”
+[says] (p.133) “I wanted to buy something, and I tried my best in my own way. Ugh.”
+[says] (p.133) “Yeah, that's definitely the goal. But what worries me is that the group's motivation has dropped quite a bit because of today's results...”
+[says] (p.134) “—It was Minamikawa-senpai's group.”
+[says] (p.134) “...Yeah.”
+[note] (p.133–134) Her group: seven wins in 12 matches; a flop against Minamikawa's Class 3-C group (Onodera was in it); she is going to the hool for the reward money.
+[rel:ayanokouji-kiyotaka] (p.133–134) She vents to him about the loss.
+[rel:onodera] (p.134) Onodera was in the Minamikawa group; their old friction cost them.
+
+<!-- walk: y2v11 ch5 → p.144 -->

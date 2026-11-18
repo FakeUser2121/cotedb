@@ -26,3 +26,9 @@ char_id: hatsukawa-maho · class: unknown · status: unknown
 [mentioned] (p.46) Named as the second-year Class D member of Group 20.
 
 <!-- walk: y2v11 ch2 → p.84 -->
+
+### y2v11 p.140 — Ch.5: The second name out
+[scene] (p.140) The girls' room; joker game; she goes out second, after Eikura.
+[note] (p.140) The first one out was the first-year student Eikura, followed by Hatsukawa; that's all the pages give.
+
+<!-- walk: y2v11 ch5 → p.144 -->

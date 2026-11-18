@@ -274,3 +274,24 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 [note] (p.50) Cited as an example of a strong personality among the first-years; no further detail on these pages.
 
 <!-- walk: y2v11 ch2 → p.84 -->
+
+### y2v11 p.128–132 — Ch.5: The gorilla wades in
+[scene] (p.128) He arrives mid-beating, hand on his neck; he found Ryūen holding down Tokitō; he ignites the stand-off.
+[says] (p.128) “I came looking for Paisen. I sent him on an errand, but he didn't come back, and what do I find here?”
+[says] (p.128) “What's going on, Tokitō-paisen?”
+[says] (p.129) “If there's nothing going on, go buy us first-years some drinks right away.”
+[says] (p.129) “I don't care about that. I'm talking to Tokitō-paisen here. You're the outsider, so back off. Or do you want to die?”
+[says] (p.129) “Don't touch me. I'll kill you.”
+[says] (p.130) “I've always wanted to fight you, Albert. It might be more fun than playing table tennis.”
+[says] (p.131) “Hey, hey, hey, hey! Don't start with Ryūen on your own!”
+[says] (p.131) “Huh? What's with you? Do you know who you're talking to?”
+[says] (p.131) “Fine, then. I'll start with you before Albert-paisen.”
+[says] (p.131) “Sounds good. This camp is getting fun. First, disappear!”
+[says] (p.131) “Oh, you can endure it! That's how it should be!”
+[note] (p.128–132) He stands between Ryūen/Albert and Utomiya; his voice + the third-years ending the showdown; the stand-off cools; he clashes wrists with Albert.
+[note] (p.132) Albert quells his power assessment; Ryūen sizes up the freshman threat.
+[rel:ryuuen-kakeru] (p.128–132) First-year vs Ryūen; Ryūen is not threatened but notes him.
+[rel:yamada-albert] (p.130–132) They trade brags; Albert loses his poise.
+[rel:utomiya-riku] (p.131) He yells at Utomiya to stop; Utomiya talks past him.
+
+<!-- walk: y2v11 ch5 → p.144 -->

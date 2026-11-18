@@ -1,29 +1,19 @@
-# Sanada Kousei — walk ledger
-
-char_id: sanada-kousei · class: unknown · status: unknown
-
-## y2v2
-
-<!-- walk: y2v2 → start -->
-
-## y3v2
-
-<!-- walk: y3v2 → start -->
-
-<!-- walk: y3v2 Epilogue → p.263 -->
-
-### y3v2 p.46–47 — Sanada runs the poll
-[says] (p.46) "For sensei to not mention any details about the exam at all is, of course, a first."
-[says] (p.47) "Alright then, let's start by getting a quick poll of everyone's opinions."
-[trait] (p.46–47) The analyst efficiently polls the class (19 vs 12) and doesn't press those who don't answer.
 ## y3v3
 
 <!-- walk: y3v3 → start -->
 
-<!-- walk: y3v3 Epilogue → p.256 -->
 
 
 <!-- walk: y2v2 Epilogue → p.354 -->
+
+### y3v3 p.29 — Drawing the starting-position lot
+[scene] (p.29) Standing nearby, he is asked by Ayanokōji to draw the starting-position lot; the draw gives Class C the E12 position.
+[note] (p.30) Apologizes for failing to secure a corner area; Ayanokōji tells him not to worry, since nothing could be done about it.
+
+### y3v3 p.35–44 — The role assignment discussion
+[scene] (p.35) Speaks up in agreement with Matoba that no one would honestly volunteer for expulsion; Ayanokōji names himself instead.
+[scene] (p.40) Listens as Morishita argues the commander should be chosen first.
+[action] (p.44) Appointed one of Class C's two Analysts.
 
 ### y3v3 p.53 — Sanada suggests using Identity Check
 [says] (p.53) "Wouldn't it be a good idea to have the commander use a tactic?"
@@ -33,6 +23,9 @@ char_id: sanada-kousei · class: unknown · status: unknown
 [says] (p.103) "Moreover, you could hardly say these are favorable areas for us, either."
 [says] (p.103) "Class B has no intention of letting us escape, so we'll definitely be competing there."
 [trait] (p.103) The analyst reads the nine final locations and judges that Class B will contest them; adjusts his glasses as he points them out.
+
+<!-- walk: y3v3 Epilogue → p.256 -->
+
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
@@ -93,6 +86,26 @@ char_id: sanada-kousei · class: unknown · status: unknown
 [rel:hashimoto-masayoshi] (p.90–92) Rumors swirl about his deal; Sanada keeps no fixed view; he cannot say whether his classmates blame Hashimoto.
 
 <!-- walk: y2v11 ch3 → p.99 -->
+
+### y2v11 p.120–122 — Ch.5: The coffee confession
+[scene] (p.120) Just before 6 p.m.; rest area; they queue for tea and coffee; the talk drifts to Class A.
+[says] (p.120) “Your group seems to be doing quite well.”
+[says] (p.121) “How are the students of Class A? Are they cooperating well?”
+[says] (p.121) “I see. Honestly, I'm glad that the three of them are in the same group as you this time.”
+[says] (p.121) “Well, it's largely because of how Sakayanagi-san sees it. Even I can tell that she treats you in a special way. After the last exam, Kitō-kun has been on edge, but I think he's still able to keep his self-control in check because you’re by Hashimoto-kun's side.”
+[says] (p.121) “Actually, I've been watching over Morishita-san quite a bit since our first-year.”
+[says] (p.121) “Eh, what? No, not at all. I only have eyes for Miya-san!”
+[says] (p.121) “Part of it is because we sat near each other in our first-year... She's the type to say everything she thinks and doesn't shy away from anything, so she's had her fair share of small troubles.”
+[says] (p.121) “Yes... It's a bad way to put it, but she is perceived that way.”
+[says] (p.122) “Yes, well I've never seen her seem to care...”
+[says] (p.122) “...Yes. Thank you.”
+[says] (p.122) “Yes, see you later.”
+[note] (p.121–122) He watches Morishita like a hawk; he denies it; he has eyes only for Miya; the rest area drinks; row is social.
+[rel:morishita-ai] (p.120–122) He worries about her; he has watched her since first-year.
+[rel:miya] (p.122) Miya chases him down; he brightens for her.
+[rel:ayanokouji-kiyotaka] (p.120–122) He pries open Class A for him; he shares what little he dares.
+
+<!-- walk: y2v11 ch5 → p.144 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

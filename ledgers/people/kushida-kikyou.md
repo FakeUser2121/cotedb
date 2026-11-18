@@ -1945,7 +1945,16 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [note] (p.11) Passing mention (locator pages: p.115-117, p.121, p.150, p.185-186, p.188, p.197; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
+### y2v11 p.115 — Ch.5: On Kushida's lips
+[scene] (p.115) She is named as the opposing group's anchor at the sculpture; sixth consecutive participation.
+[says] (p.115) “It seems that your group had a good start with five consecutive wins yesterday, Ayanokōji-kun.”
+[says] (p.115) “We decided not to worry about winning or losing. But that's because we decided to do our best and enjoy ourselves. But everyone just wanted to take it easy and kept asking me for favors. This is my sixth consecutive participation.”
+[says] (p.115) “It's really stupid. Experiential learning is so lame. I wish this training camp would end soon.”
+[says] (p.115) “I just do it because I don't want to lose out if I don't put on a good face. Honestly, I don’t think we need to take this exchange meeting seriously. There are people's eyes everywhere, in the shared room, in the large bath, at meals, and I don't have time to relax.”
+[says] (p.115) “I think I'm okay for now. Lately, I've been able to let off steam by dealing with those two.”
+[says] (p.117) “I'm rooting for your group, by the way. I'd be happy if you could let Horikita-san taste defeat.”
+[says] (p.115) “Since sincerity is their only merit, isn't it because they’re working on various things with a straight face? Yesterday, Katsuragi-kun seemed to be immersed in practicing glasswork because he couldn't do it well, and he lined up many times.”
+[note] (p.115–117) She roots for the good girl mask; she wants Horikita–Ibuki to lose; she will "I wonder about that" not give the win away.
+[rel:ayanokouji-kiyotaka] (p.114–117) She negotiates for the win bribe; he wins 3–2 anyway.
 
-
-
-
+<!-- walk: y2v11 ch5 → p.144 -->

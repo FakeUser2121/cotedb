@@ -3657,6 +3657,33 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ayanokouji-kiyotaka] (p.24–25) Reaches out at the same time as everyone else; the Friday slot reserved for her.
 
 <!-- walk: y2v12 ch1 → p.25 -->
+### y2v12 p.26–37 — Ch.2: The Keyaki Mall café
+[scene] (p.26) Friday after school, Keyaki Mall; she arrives first and waits; she bought tea instead of her usual coffee (needed sugar); she is tense; he ribs her about fewer first years around; they compare notes on the first years facing their own year-end exams.
+[says] (p.26) "Is something wrong?"
+[says] (p.26) "...Is it that obvious?"
+[scene] (p.27–28) She shows him the first-year rankings on her phone (Class A 991, Class B 697, Class C 532, Class D 510); rationalizes away their comparable start; he notes the first years are coping surprisingly well; she half-retorts with Sudō (dead weight from enrollment).
+[scene] (p.29–32) She asks for strategies; admits even Chabashira doesn't know the exam content; admits relief he has no secret way to win; floats Kōenji as their only hope; he channels his plan through Hirata and Kushida; says Sudō or Onodera wouldn't work (too specialized); then reveals he'd participate as the general — forcing her to weigh giving up the seat.
+[says] (p.32) "Is it that obvious?"
+[says:ayanokouji-kiyotaka] (p.32) "I said I wouldn't mind participating if you want."
+[scene] (p.33–35) He sets terms: she fights as middle guard; he as general; his participation demands Kōenji-style detachment be acknowledged; she deliberates at length over pride and points — then accepts his premise.
+[says] (p.33) "What if I said I can't give up being the general?"
+[says:ayanokouji-kiyotaka] (p.33) "I'd just refuse."
+[scene] (p.35–37) His fallback: if he's dragged out and wins, she keeps his cooperation; if she loses outright, he cooperates for six months; she checks for loopholes (vanguard sacrificing on purpose); then she accepts formally: he is the general, she is middle guard, she fights without a seat-change, and she must get the class's consent — with Kōenji's potential objection handled by Ayanokōji if needed; he also demands the billet be kept secret from Ichinose's class.
+[says] (p.36) "If you’re willing to serve as the general… everything else is trivial."
+[rel:ayanokouji-kiyotaka] (p.26–37) Accepts him as general; concedes the seat; agrees to keep his role hidden; delegates class consent handling.
+
+<!-- walk: y2v12 ch2 → p.62 -->
+### y2v12 p.64–83 — Ch.3: Exam day, middle guard
+[scene] (p.64) Exam morning; she waits at the door with Ayanokōji and Hirata, restless and short-tempered; she complains when they arrive "the last ones"; she exhales when the entrance is granted; the tension grows as names are called.
+[says] (p.64) "You’re quite late. We’re the last ones."
+[scene] (p.65–67) The reps are revealed — she is stunned at Nishino and Kitō picks and the Yoshida/Fukuyama-style choices; he pokes her side hard to break the lockjaw hush — she springs up in her seat; she glares at him for the gesture but settles back down; she lets the exam wash over her.
+[says] (p.67) "What are you doing...!"
+[scene] (p.69–83) The monitor shows her battle order — middle guard vs Ichinose — wait, vs Kanzaki (Class D middle guard); she confirms the opponent tree with him; she asks his read; they size up Ichinose, Ryūen, Sakayanagi; he maneuvers her into asking for the traitor right — she balks, then takes his collateral (full cooperation) with a grin.
+[says] (p.82) "Let me talk about something unrelated to forming groups first. It’s about the right to designate a traitor. Could you let me have it?"
+[rel:ayanokouji-kiyotaka] (p.64–83) Poke-induced calm; trades groups for traitor rights; the general question hangs over her like weather.
+[rel:hirata-yousuke] (p.64–83) Waits with him; builds groups together; the two-front worry.
+
+<!-- walk: y2v12 ch3 → p.86 -->
 
 ## y2v12.5
 
@@ -4609,3 +4636,9 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ibuki-mio] (p.100–107) They are oil and water; she will review Ibuki's experience later by force.
 
 <!-- walk: y2v11 ch4 → p.113 -->
+
+### y2v11 p.115–117 — Ch.5: Girls vs Horikita and Ibuki
+[scene] (p.115) Kushida leaks her rivalry with the two Horikita-team girls; she roots against them.
+[note] (p.115) She wants Horikita and Ibuki to lose; the three are said to have a miraculously balanced trio; she spits venom on her own side with a smile.
+
+<!-- walk: y2v11 ch5 → p.144 -->

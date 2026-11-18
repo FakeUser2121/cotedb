@@ -124,9 +124,21 @@ char_id: utomiya-riku · class: Class 1-C · status: unknown
 [note] (p.11) Passing mention (locator pages: p.130-131, p.174; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
+### y2v11 p.130–132 — Ch.5: The mediator nobody asked for
+[scene] (p.130) He catches the commotion; talks straight into Ryūen; the third-years gather.
+[says] (p.130) “Excuse me, but could you let go of your hand, Ryūen-senpai?”
+[says] (p.130) “I came to see if you were going to raise your hand against Senpai.”
+[says] (p.130) “Tokitō-senpai is a member of my group. If he gets injured here, it could have an effect tomorrow. No matter how much it's an in-class issue, I can't overlook it.”
+[says] (p.130) “...The problem is the guy who's using his position to threaten others at this shitty exchange meeting...”
+[says] (p.130) “Are you okay with that? You'll be embarrassed in front of your friends as a senpai.”
+[says] (p.131) “Shut up, Hōsen. I don't need you. Don't cause unnecessary trouble.”
+[says] (p.131) “Even if I talk to a big gorilla, words won't get through.”
+[says] (p.132) “No, it's not. We were just having a light-hearted conversation.”
+[note] (p.130–132) He stands for Tokitō; he ignores Hōsen; he disguises the fight as a chat when the third-years appear; Ryūen barely notes him.
+[rel:ryuuen-kakeru] (p.130–132) He faces Ryūen down; Ryūen asks him to leave at the end; he lets the scene close.
+[rel:housen-kazuomi] (p.131) He treats him like Ryūen; Hōsen erupts.
 
-
-
+<!-- walk: y2v11 ch5 → p.144 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -135,6 +147,3 @@ char_id: utomiya-riku · class: Class 1-C · status: unknown
 [scene] (p.12) Named in this volume.
 [note] (p.12) Passing mention (locator pages: p.28; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.12) Passing mention only.
-
-
-

@@ -156,7 +156,8 @@ char_id: onodera-kayano · status: minor
 [note] (p.11) Passing mention (locator pages: p.134; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
+### y2v11 p.134 — Ch.5: The Onodera question (unresolved)
+[scene] (p.134) Minamikawa's group is named as Satō's conqueror.
+[note] (p.134) Onodera is said to be in Minamikawa's group; it is not clear from these pages whether this is Onodera (roster onodera) or Onodera Kayano (roster onodera-kayano); see volume ledger; no scene rows here.
 
-
-
-
+<!-- walk: y2v11 ch5 → p.144 -->

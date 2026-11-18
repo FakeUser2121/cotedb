@@ -50,6 +50,23 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 
 <!-- walk: y2v12.5 Ch.3 → p.53 -->
 
+### y2v12.5 p.93–106 — Ch.6: Sakayanagi's farewell and the advice
+[scene] (p.94) Yamamura is at the main gate to see Sakayanagi off, standing beside Morishita; she distances herself with the others when Sakayanagi asks to speak to Ayanokōji alone.
+[scene] (p.102) Sakayanagi exchanges renewed promises to reunite with her classmates; Yamamura cries at last, wanting to spend another year together.
+[says] (p.102) “Why not? I want to know.”
+[says] (p.102) “That is... true...”
+[says] (p.103) “How we should fight... But, is that even allowed?”
+[says] (p.103) “Let’s do it... It’s advice left by none other than Sakayanagi-san...”
+[says] (p.105) “I-Is it a love letter?”
+[says] (p.105) “I don’t smell anything though?”
+[says] (p.105) “A phone number... it seems.”
+[note] (p.105–106) She peers flustered into the envelope; eleven digits and the initial N. Their class cannot tell who the sender is.
+[rel:sakayanagi-arisu] (p.93–102) She cries at the farewell; Sakayanagi was her first true friend.
+[rel:morishita-ai] (p.93–102) Morishita sees her off with her, clinging rather than grieving.
+[rel:ayanokouji-kiyotaka] (p.102–106) He explains Sakayanagi's "advice" for the former Class A to her; she wants to give it a try.
+
+<!-- walk: y2v12.5 Ch.6 → p.106 -->
+
 ## y3v1
 
 <!-- walk: y3v1 → start -->
@@ -221,3 +238,14 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 [rel:shiina-hiyori] (p.48) Hiyori takes her hand and says it's thanks to Ayanokōji-kun that she loves talking.
 
 <!-- walk: y2v11 ch2 → p.84 -->
+
+### y2v11 p.135–142 — Ch.5: Watching from the corner
+[scene] (p.135) The girls'room; she watches the room; she refuses to play; Hiyori coaxes her in.
+[says] (p.137) “Um... I'll... watch.”
+[says] (p.141) “But...”
+[note] (p.135–142) She watches the girls over cards; she refuses to join; she joins only when Hiyori asks; her name is botched as “Yamashita-senpai”; she does not correct it; everyone skips her turn.
+[rel:shiina-hiyori] (p.137–141) Hiyori pulls her in; she is treated like an honorary member.
+[rel:morishita-ai] (p.135–141) She is not even a player in Morishita's advance-strategy homework.
+[rel:ayanokouji-kiyotaka] (p.135–142) He alone notices her invisibility; he points it out.
+
+<!-- walk: y2v11 ch5 → p.144 -->

@@ -178,6 +178,12 @@ char_id: tsubaki-sakurako · class: Class 1-C · status: unknown
 [note] (p.46) Kiyotaka hardly knows the first-years apart from Tsubaki.
 
 <!-- walk: y2v11 ch2 → p.84 -->
+
+### y2v11 p.142 — Ch.5: The cute one
+[scene] (p.142) On the way to the rooms; the first-year boys buzz about girls' rooms; Tsubaki makes an impression.
+[note] (p.142) “And wasn't Tsubaki-san cute?” — untagged first-year; Tsubaki is a first-year of their group; the boys gawk.
+
+<!-- walk: y2v11 ch5 → p.144 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

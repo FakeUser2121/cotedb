@@ -838,3 +838,24 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [note] (p.11) Passing mention (locator pages: p.123-124, p.126-130, p.132, p.148; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
+### y2v11 p.123–132 — Ch.5: The errand gone wrong
+[scene] (p.123) After dinner; he calls Tokitō with a can't-say-why summons; he walks into Ryūen's trap.
+[says] (p.123) “Don't you know what I want?”
+[says] (p.123) “Well, I guess you wouldn't know. To be honest, I don't even know what I want.”
+[says] (p.126) “Absolutely not!”
+[says] (p.126) “Learn your lesson, Tokitō. It'll make things easier for you. Even Ryūen-san will forgive you.”
+[says] (p.127) “Yes! I've confirmed that there are none in this area!”
+[says] (p.129) “Huh!? It-it was just a normal one! I just told him to hurry to the experiential classroom area, that's all!”
+[says] (p.129) “Sorry, Ryūen-san! Hey, Hōsen, you go over there!”
+[says] (p.130) “W-What's going on?”
+[says] (p.130) “Huh? Oh right, you were listening to Tokitō-senpai too.”
+[says] (p.131) “Y-Yes! Thank you!!”
+[says] (p.132) “It feels like a war.”
+[says] (p.132) “But Tokitō, he seemed to be quite into Sakayanagi... Don't we need to do something? Like Hashimoto’s betrayal...”
+[says] (p.132) “...Yes. If you say so, Ryūen-san.”
+[note] (p.123–132) His hint was meant as urgency only; he didn't know the aim; Ryūen catches him lying about the no-cameras note; he flinches from Hōsen's glare; he reports everything upward.
+[rel:ryuuen-kakeru] (p.123–132) He is Ryūen's trap-setter; he is also terrified of him.
+[rel:housen-kazuomi] (p.129–132) He waves Hōsen over and gets shaken off; he flinches at his stare.
+[note] (p.123–132) The target of the trap is Tokitō; the roster holds two y2v11 Tokitōs and the pages never print his given name; see volume ledger.
+
+<!-- walk: y2v11 ch5 → p.144 -->

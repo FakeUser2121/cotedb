@@ -1150,3 +1150,9 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:ayanokouji-kiyotaka] (p.100–107) She burns with competitive fury at losing to him with one hand.
 
 <!-- walk: y2v11 ch4 → p.113 -->
+
+### y2v11 p.115–117 — Ch.5: Girls vs Horikita and Ibuki
+[scene] (p.115) Kushida leaks her rivalry with the two Horikita-team girls; she roots against them.
+[note] (p.115) She wants Horikita and Ibuki to lose; the three are said to have a miraculously balanced trio; she spits venom on her own side with a smile.
+
+<!-- walk: y2v11 ch5 → p.144 -->
