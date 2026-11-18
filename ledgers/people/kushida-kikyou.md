@@ -1770,6 +1770,15 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
+
+### y2v4.5 p.94, 186, 235, 252–253 — Mentions
+[mentioned] (p.94) Amasawa: "Play around a bit with Kushida-senpai or enjoy watching Arisu-senpai's crying face…?"
+[mentioned] (p.186) Nanase's read: "Kushida Kikyō, a second-year, and Kurachi Naohiro, a first-year."
+[mentioned] (p.235) Hoshinomiya: "Hirata, Kushida, Horikita, Kōenji, Ayanokōji…No matter how much I think about it, it's too unfair."
+[mentioned] (p.252) Yagami to Amasawa: "Why did you interfere with Kushida and Kurachi, who I sent after Ayanokōji during the uninhabited island exam?"
+[mentioned] (p.253) "even If Ayanokōji forcibly took the tablet from Kushida, he wouldn't be able to unlock it."
+
+<!-- walk: y2v4.5 ch5 → p.216 -->
 ### y2v4.5 p.194–202 — Kushida's lunch with Horikita: demanding her expulsion
 [says] (p.196) "You're going to take a break now, right Horikita-san? Would you have lunch together with me?"
 [says] (p.196) "The reason why I'm close to Yagami-kun?"

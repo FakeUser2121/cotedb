@@ -10,6 +10,11 @@ char_id: okabe-fuyu · class: unknown · status: unknown
 
 <!-- walk: y2v4.5 → start -->
 
+### y2v4.5 p.125 — Mentions: the class without a leader
+[mentioned] (p.125) "These were exactly the kind of students Tokitō and Okabe, who had just confronted Katsuragi, were."
+
+<!-- walk: y2v4.5 ch4 → p.158 -->
+
 
 ### y2v4.5 p.119–124 — Okabe: Katsuragi's "traitor" case
 [scene] (p.119–124) Okabe is present at the Katsuragi–Tokitō dispute, quiet at first; taps Tokitō's shoulder to tell him it's pointless to press further; then voices the "class traitor" case herself.

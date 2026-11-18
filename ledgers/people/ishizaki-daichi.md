@@ -725,6 +725,16 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
+
+### y2v4.5 p.35, 54, 122–123, 187, 268 — Mentions
+[mentioned] (p.35) "My classmates Sudō and Ike, and from another class, Ishizaki and Komiya."
+[mentioned] (p.54) Ayanokōji: "Ishizaki was watching our conversation with curiosity."
+[mentioned] (p.122) Ayanokōji: "Compared to the beginning of the first year Ryūen, Ishizaki, and others have shown a lot of growth."
+[mentioned] (p.123) Hiyori: "I invited you the other day, but that was half-jokingly just to go along with Ishizaki-kun. This invitation is different."
+[mentioned] (p.187) "Nishino and Ishizaki to pull Taguri away from Kurachi" — chin-drop from Ryūen.
+[mentioned] (p.268) "Ishizaki and Hiyori from another class" — the expanded circle.
+
+<!-- walk: y2v4.5 ch6 → p.267 -->
 ### y2v4.5 p.16–26 — Ishizaki befriends Ayanokōji
 [says] (p.18) "Ayanokōji, let's go check out the test results together!"
 [says] (p.20) "I went to see 'World Domination 16' the day it came out."

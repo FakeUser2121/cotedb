@@ -186,6 +186,13 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
+
+### y2v4.5 p.143, 255 — Mentions: the gorilla Hōsen
+[mentioned] (p.143) Horikita to Ibuki: "Did you by any chance hear about what happened with Hōsen-kun from somewhere?"
+[mentioned] (p.255) Yagami to Amasawa: "the quickest and easiest method was to create a common enemy, Hōsen."
+[mentioned] (p.189–190) Nanase invokes him: "I'm sure that Hōsen-kun will mercilessly raise his fists against you, Kurachi-kun."; Kurachi: "don't tell Hōsen that I had anything to do with it, yeah?"
+
+<!-- walk: y2v4.5 ch5 → p.216 -->
 ### y2v4.5 p.88–89 — Hōsen: Sakayanagi's counterweight
 [mentioned] (p.88–89) Sakayanagi admits she "decided to let him and Hōsen-kun clash" to protect her third place; Ryūen was forced to retire against him — "which was the best possible outcome for us."
 

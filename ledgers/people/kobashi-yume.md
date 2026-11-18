@@ -53,6 +53,11 @@ char_id: kobashi-yume · class: unknown · status: unknown
 
 <!-- walk: y2v4.5 → start -->
 
+### y2v4.5 p.77 — Mentions: the interruption
+[mentioned] (p.77) "Back then, I was approached by Kobashi and you kind of drifted away."
+
+<!-- walk: y2v4.5 ch3 → p.95 -->
+
 
 ### y2v4.5 p.54–65 — Kobashi spots Ayanokōji past the bow deck; corrals him into the girls' party
 [scene] (p.55) Approaching him after the Kobashi interruption resolves, she invites him to the girls' exam-celebration party at room 5034 at 8pm — Ichinose's classmates, thanking him for finding Chihiro; he tries everything to decline; she bulldozes every exit.

@@ -145,7 +145,7 @@ char_id: tsubaki-sakurako · class: Class 1-C · status: unknown
 
 
 ### y2v4.5 p.254 — Tsubaki: the Utomiya–Sakayanagi angle
-[mentioned] (p.254) Yagami, explaining how he created a common enemy: "…He was thinking that he would definitely stop it the next time. To team up with another class who originally wouldn't join hands with you, the quickest and easiest method was to create a common enemy, Hōsen. I got into the pockets of Tsubaki and Utomiya…"
+[mentioned] (p.254–255) Yagami, explaining how he created a common enemy: "…He was thinking that he would definitely stop it the next time. To team up with another class who originally wouldn't join hands with you, the quickest and easiest method was to create a common enemy, Hōsen. I got into the pockets of Tsubaki and Utomiya…"; "a common enemy, Hōsen."
 [note] (p.254) Yagami's account reaches beyond this volume's exam — Tsubaki was drawn into his scheme; no on-page presence; no lines; no direct action attributed beyond Yagami's summary.
 
 <!-- walk: y2v4.5 ch6 → p.267 -->

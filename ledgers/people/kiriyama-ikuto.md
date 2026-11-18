@@ -175,6 +175,12 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 
 <!-- walk: y2v4.5 → start -->
 
+### y2v4.5 p.153–154 — Mentions: Nagumo's safety net
+[mentioned] (p.153) "fully understood that Kiriyama had joined Nagumo's side. As Nagumo approached us, he stood next to Ichinose."
+[mentioned] (p.154) "Kiriyama had seen me and Kei together. However, I didn't give any definite indication that we were dating."
+
+<!-- walk: y2v4.5 ch4 → p.158 -->
+
 
 ### y2v4.5 p.36–53 — Kiriyama summons Ayanokōji: the Class A ticket and the expulsion of fifteen third-years
 [scene] (p.36–37) Vice President Kiriyama, message inviting him to the pool, is the most unlikely host imaginable; Ayanokōji memorizes the results by the gym first: Nagumo second, Sakayanagi third, Kiriyama's group fourth with 255 points — six short of the podium; all expulsions were third-years.

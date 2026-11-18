@@ -361,6 +361,13 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 
 <!-- walk: y2v4.5 → start -->
 
+### y2v4.5 p.161, 225–226 — Mentions: the watchers
+[mentioned] (p.161) "In fact, Mashima-sensei and Chabashira had seen him, so his role had become known."
+[mentioned] (p.225) "Mashima, who was sat in between the two of them, urged her to hold her ground."
+[mentioned] (p.226) "Mashima and Chabashira also ordered beers a step later."
+
+<!-- walk: y2v4.5 ch6 → p.267 -->
+
 ### y2v4.5 p.227–233 — Mashima reveals the next special exam
 [scene] (p.227) Sandwiched between the two women, sets down his half-empty beer forcefully and warns that the second-years' success "can invite trouble" — not one second-year has ever dropped out.
 [says] (p.227) "It's not like the school wants anyone to drop out, but still, in reality, not even one of our second-year students has dropped out of school during any special exams so far."

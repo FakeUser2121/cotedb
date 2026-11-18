@@ -49,6 +49,12 @@ char_id: mori-nene · class: Class 1-D · status: minor
 
 <!-- walk: y2v4.5 → start -->
 
+### y2v4.5 p.168, 220 — Mentions: Mori at work
+[mentioned] (p.168) "Kei had already partnered up with Mori" — for appearances' sake, keeping the relationship secret.
+[mentioned] (p.220) "Even Matsushita knew about it."
+
+<!-- walk: y2v4.5 ch6 → p.267 -->
+
 
 ### y2v4.5 p.167 — Mori: Kei's treasure-hunt pair
 [scene] (p.167) Leaves the briefing hall late with Karuizawa — they paired up for appearances, as Kei keeps her relationship a secret; Mori says nothing on-page.

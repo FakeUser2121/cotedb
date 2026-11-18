@@ -105,6 +105,12 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 
 <!-- walk: y2v4.5 → start -->
 
+### y2v4.5 p.183–184 — Mentions: the first to arrive
+[mentioned] (p.183) "The first ones to arrive at the crime scene were Sudō, Ayanokōji, Ike, Hondō and also you."
+[mentioned] (p.184) Ryūen: "The other three were playin’ around like idiots, but that’s normal behaviour on this ship."
+
+<!-- walk: y2v4.5 ch5 → p.216 -->
+
 
 ### y2v4.5 p.16–18 — The cabin, exhausted; refuses the results viewing
 [scene] (p.17) Turned to the wall with the duvet over his head, too exhausted to walk; says he felt like dying when he moved and couldn't eat.

@@ -598,6 +598,11 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 <!-- walk: y2v4.5 → start -->
 
 
+### y2v4.5 p.16–17 — Mentions: the cabin conversation
+[mentioned] (p.16–18) Present in the cabin; Miyamoto asks him about rankings; he waves it off — “Honestly, I think it's enough that we didn't get expelled. I just want to relax for today, like Hondō.”
+
+<!-- walk: y2v4.5 ch1 → p.35 -->
+
 ### y2v4.5 p.96–113, 117–118 — The private pool; Katsuragi vs Tokitō
 [scene] (p.96–113) Akito arrives late to the rented private pool (and is the only one not picked to partner in any games); thrilled by the bold swimsuits, jumps in to flee the sight; wins the games; asks about Airi vs Haruka; admits feelings are smouldering but "if it might destroy this group, I'm not gonna push it."
 [says] (p.96) “Wow, it's huge…”

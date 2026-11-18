@@ -55,6 +55,11 @@ char_id: kiryuin-fuuka · class: unknown · status: unknown
 
 <!-- walk: y2v4.5 → start -->
 
+### y2v4.5 p.155 — Mentions: the type of person he's no good at
+[mentioned] (p.155) Ayanokōji: "knowing that he would be no good at dealing with."
+
+<!-- walk: y2v4.5 ch4 → p.158 -->
+
 
 
 ### y2v4.5 p.38–45 — Kiryūin at the pool: teasing Ayanokōji and Kiriyama

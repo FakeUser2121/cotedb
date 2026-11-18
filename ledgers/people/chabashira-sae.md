@@ -1358,6 +1358,14 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v4.5 → start -->
 
+### y2v4.5 p.161, 234–236 — Mentions: Shiba and Chabashira seen on the island; Hoshinomiya
+[mentioned] (p.161) "Mashima-sensei and Chabashira had seen him, so his role had become known."
+[mentioned] (p.234) Hoshinomiya: "If Sae-chan had chosen the right answer, we would’ve graduated from Class A you know?" — she never names her.
+[mentioned] (p.235) "For us, graduating from Class A was a long-held dream." — Hoshinomiya, naming neither.
+[mentioned] (p.236) Mashima refuses Hoshinomiya: "I have no intention of getting involved with you or Chabashira. It'll only cause trouble."
+
+<!-- walk: y2v4.5 ch6 → p.267 -->
+
 
 ### y2v4.5 p.225–232 — The late-night bar: Chabashira on the next special exam
 [scene] (p.225) After 1 a.m. in the adults-only bar lounge, meets Mashima and Hoshinomiya; admonishes the slumped, complaining Hoshinomiya ("you've had more than enough rest").

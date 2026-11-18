@@ -181,6 +181,16 @@ char_id: komiya-kyogo · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v4.5 → start -->
 
+### y2v4.5 p.178, 183–185, 190–191 — Mentions: the culprit hunt front
+[mentioned] (p.178) "Ryūen — he's looking for the culprit who injured Komiya and the others."
+[mentioned] (p.183) "Komiya was injured. I'm lookin' for the one who did it."
+[mentioned] (p.184) Ryūen to Nanase: "The first ones to arrive at the crime scene were Sudō, Ayanokōji, Ike, Hondō and also you."
+[mentioned] (p.190) "there is a witness to Komiya-senpai's case that you don't know about, Ryūen-senpai."
+[mentioned] (p.191) "I don't mind telling you who that person is."
+[mentioned] (p.185) "But the Komiya situation has nothing to do with Kurachi."
+
+<!-- walk: y2v4.5 ch5 → p.216 -->
+
 
 ### y2v4.5 p.26–35 — Shinohara confession report; the infirmary visit
 [scene] (p.28) Ike and Ayanokōji arrive at the infirmary and find Ryūen's group (Albert, Kaneda, Kondō, Yamawaki) leaving Komiya's room; Komiya, leg fixed in a brace, welcomes them and asks after his condition.

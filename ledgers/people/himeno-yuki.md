@@ -45,6 +45,12 @@ char_id: himeno-yuki · class: Class 2-A · status: unknown
 
 <!-- walk: y2v4.5 → start -->
 
+### y2v4.5 p.61, 78 — Mentions: the outsider
+[mentioned] (p.61) "everyone besides Ichinose, Kobashi and a student named Himeno, were watching me carefully."
+[mentioned] (p.78) "This was where I spoke with Himeno last night" — Ayanokōji, noting the stern.
+
+<!-- walk: y2v4.5 ch2 → p.72 -->
+
 
 ### y2v4.5 p.62–72 — Himeno leaves the party with a faked headache; the stern and the scream
 [scene] (p.62–63) Mid-party, she raises her hand: “The usual headache” — can she go back to her room? Ichinose and the girls fuss; she snaps about their overprotective behavior.
