@@ -145,12 +145,28 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
+### y2v2 p.6–10 — Amasawa: White Room prologue (her POV)
+[scene] (p.6–10) In her own voice she explains she is a fifth-generation White Room student, that she has always been compared to the fourth-generation "god" Ayanokōji Kiyotaka and found wanting, and that she worships only hatred, not him; she watched him through a visiting room and shivered at his figure.
+[note] (p.6–10) This is Amasawa's interior monologue (her POV); no spoken line is quoted.
+[trait] (p.6–10) Driven by hatred rather than worship — she refuses to revere Ayanokōji and treats him as her enemy, the obstacle to her being recognized as the White Room's success story.
+[goal] (p.6–10) To prove Ayanokōji is not number one and to be recognized by the organization as the true success; the opportunity comes now that he has refused to return to the restarted White Room.
+[rel:ayanokouji-kiyotaka] (p.6–10) The fourth-generation "god" she has been measured against her whole life; she has resolved to bury him.
 
-[scene] (p.6) Appears in this volume.
+<!-- walk: y2v2 Prologue → p.10 -->
 
+### y2v2 p.92–108 — Amasawa forces her way in and teases Kei
+[scene] (p.92–95) She arrives at Ayanokōji's door with ingredients, demands entry, and reveals she watched Kei enter his room.
+[says] (p.92) "Senpai, you look like you are alone anyway, so cook for me."
+[says] (p.97) "Did you lie to me because you didn't want me to come into the room?"
+[scene] (p.98–108) She enters, teases them about sex, and gives Kei a contraceptive as a "gift" and apology for her role in the Hōsen attack.
+[says] (p.100) "I thought you would have an illicit sexual relationship for sure… I mean having sex."
+[says] (p.101) "Take this as a gift from me… No, take it as an apology."
+[says] (p.102) "I'm not Ayanokouji-senpai's enemy."
+[trait] (p.92–108) Playful, shameless, and calculating — she uses leverage to force entry and gathers intelligence.
+[rel:ayanokouji-kiyotaka] (p.92–108) She pressures him and he concedes.
+[rel:karuizawa-kei] (p.98–108) She teases Kei and threatens exposure.
 
-<!-- walk: y2v2 Epilogue → p.354 -->
+<!-- walk: y2v2 Ch.2 → p.108 -->
 
 ### y2v2 p.100–107 — Amasawa's visit: the condom "gift" and her hints
 [scene] (p.100) Visits Ayanokōji's room (where he and Karuizawa were studying), teasing them about an illicit sexual relationship, then places a contraceptive on the table as a supposed gift and apology.

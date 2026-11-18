@@ -523,12 +523,18 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
+### y2v2 p.75–82 — Nagumo accepts Horikita and challenges Ayanokōji
+[scene] (p.75–78) He accepts Horikita into the student council with a condition, warning her that past presidents graduated in Class A; he invites Ayanokōji to join too (declined).
+[says] (p.75) "Well, what a turn of events! I don't really want to obediently say yes."
+[scene] (p.79–82) He tells Ayanokōji to look forward to playing together in summer, then probes Kiriyama about why he attended.
+[says] (p.81) "I'll play with you, so look forward to it."
+[trait] (p.75–82) Calculating and playful — he tests both Horikita and Ayanokōji while keeping Kiriyama off balance.
+[rel:horikita-suzune] (p.75–78) Accepts her into the council.
+[rel:ayanokouji-kiyotaka] (p.79–82) Challenges him directly.
 
-[scene] (p.6) Appears in this volume.
+<!-- walk: y2v2 Ch.2 → p.82 -->
 
 
-<!-- walk: y2v2 Epilogue → p.354 -->
 
 ### y2v2 p.75–81 — Nagumo admits Horikita; challenges Ayanokōji
 [scene] (p.75) In the student council office, receives Horikita and Ayanokōji; welcomes the conversation but invites her straight to the point.

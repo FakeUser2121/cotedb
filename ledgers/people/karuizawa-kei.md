@@ -1595,12 +1595,37 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
+### y2v2 p.83–91 — Kei visits Ayanokōji's room
+[scene] (p.83–85) She messages him and comes to his room; they study, talk, and nearly kiss before the doorbell rings.
+[says] (p.85) "I'll come!"
+[scene] (p.87–91) Amasawa arrives and forces her way in; Kei is angry and anxious about exposure.
+[says] (p.90) "Well isn't that normal! Anyway, why did you come here all of a sudden!"
+[trait] (p.83–91) Affectionate and vulnerable — she nearly kisses him, then is rattled by Amasawa's intrusion.
+[rel:ayanokouji-kiyotaka] (p.83–91) They nearly kiss; their secret relationship is threatened.
+[rel:amasawa-ichika] (p.87–91) Amasawa teases her and threatens exposure.
 
-[scene] (p.6) Appears in this volume.
+<!-- walk: y2v2 Ch.2 → p.91 -->
+
+### y2v2 p.198–202 — Kei asks to group up with Ayanokōji
+[scene] (p.198–202) She asks to be in his group; he explains he's going solo for flexibility; she worries about expulsion (short 760,000 points), and he offers to sell his Trial card to get her points.
+[says] (p.198) "Kiyotaka, if it's you, are you able to take first place?"
+[says] (p.201) "It's more important to prevent you from getting expelled."
+[trait] (p.198–202) Anxious about expulsion but trusting — she accepts his offer to sell the card.
+[rel:ayanokouji-kiyotaka] (p.198–202) He offers to protect her.
+
+<!-- walk: y2v2 Ch.3 → p.202 -->
+
+### y2v2 p.12–22 — Kei argues with Yukimura over the perfect score
+[scene] (p.16) She laments that her scores are now visible to everyone via the OAA, then suggests Ayanokōji might just be a "math genius" like in TV dramas.
+[says] (p.16) "Maybe Ayanokouji-kun is just a math genius! You know, sometimes in those TV dramas and stuff…"
+[scene] (p.16–17) She and Yukimura clash heatedly; Maezono sides with her.
+[says] (p.17) "You've got a big mouth, but couldn't it just be that you didn't understand the question?"
+[scene] (p.36–37) She covers for Ayanokōji by drawing Shinohara in to support Horikita's story.
+[trait] (p.12–37) Defensive and quick to argue, but loyal and strategically helpful when needed.
+
+<!-- walk: y2v2 Ch.1 → p.37 -->
 
 
-<!-- walk: y2v2 Epilogue → p.354 -->
 
 ### y2v2 p.15–18 — Karuizawa's "math genius" theory and the argument
 [says] (p.16) "Maybe Ayanokouji-kun is just a math genius!"

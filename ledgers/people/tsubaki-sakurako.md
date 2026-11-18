@@ -81,12 +81,7 @@ char_id: tsubaki-sakurako · class: Class 1-C · status: unknown
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
 
-[scene] (p.6) Appears in this volume.
-
-
-<!-- walk: y2v2 Epilogue → p.354 -->
 
 ### y2v2 p.258–270 — Tsubaki observes; helps contact Ayanokōji
 [scene] (p.258) Watches Ayanokōji, Yagami and Kushida from behind in the crowded café/store, taking a lookout position; later appears with Utomiya.

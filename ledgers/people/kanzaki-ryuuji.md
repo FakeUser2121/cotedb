@@ -545,12 +545,22 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
+### y2v2 p.46–49 — Kanzaki confronts Ayanokōji at Keyaki Mall
+[scene] (p.46–49) He accompanies Ichinose and is hostile toward Ayanokōji, suspecting he is hiding more than math — his legs, his fighting strength.
+[says] (p.47) "Judging from last year's OAA, you shouldn't have the strength to get a full score."
+[says] (p.49) "Then, what else? Is it just math? No, it can't be just math."
+[trait] (p.46–49) Sharp and on guard — he sees Ayanokōji as a threat to Class B's standing.
 
-[scene] (p.6) Appears in this volume.
+<!-- walk: y2v2 Ch.1 → p.49 -->
+
+### y2v2 p.294–297 — Kanzaki asks Ayanokōji for help
+[scene] (p.294–297) He meets Ayanokōji at Keyaki Mall and asks if he can trust him; he reveals Ichinose is struggling and asks for help changing her mind.
+[says] (p.295) "Ayanokouji, Ichinose seems to trust you a lot, but can 'we' really trust you?"
+[trait] (p.294–297) Worried and desperate — he wants Ayanokōji to help Ichinose.
+
+<!-- walk: y2v2 Ch.5 → p.297 -->
 
 
-<!-- walk: y2v2 Epilogue → p.354 -->
 
 ### y2v2 p.47–50 — Kanzaki's hostility toward Ayanokōji
 [scene] (p.47) Waiting with Ichinose at Keyaki Mall; his gaze is fixed more on her than on Ayanokōji.

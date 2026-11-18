@@ -549,12 +549,14 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
+### y2v2 p.12–22 — Miyake leaves for club activities
+[scene] (p.12–15) He sits with the group and leaves early for archery club; Sakura and Haruka see him off.
+[scene] (p.44) Yukimura predicts Miyake will accept Ayanokōji's situation without issue.
+[trait] (p.12–44) Easygoing and adaptable — expected to take the news in stride.
 
-[scene] (p.6) Appears in this volume.
+<!-- walk: y2v2 Ch.1 → p.44 -->
 
 
-<!-- walk: y2v2 Epilogue → p.354 -->
 
 ## y2v3
 

@@ -2036,12 +2036,19 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
+### y2v2 p.298–311 — Ryūen proposes a three-class alliance
+[scene] (p.298–303) He summons Ayanokōji and Katsuragi to a café and proposes a three-class alliance (A, B, D) to take down Sakayanagi.
+[says] (p.303) "The reward for getting 1st to 3rd place is enough to get within shooting distance of Class A."
+[scene] (p.304–311) He reveals he knows Ayanokōji beat him and tries to recruit Katsuragi to Class B.
+[says] (p.304) "Not just you. Ayanokouji as well, who's spaced out over there just listening to us."
+[says] (p.308) "Come to Class B, Katsuragi."
+[trait] (p.298–311) Calculating and bold — he uses money and leverage to build alliances.
+[rel:ayanokouji-kiyotaka] (p.298–311) He tries to recruit him.
+[rel:katsuragi-kouhei] (p.298–311) He tries to recruit him.
 
-[scene] (p.6) Appears in this volume.
+<!-- walk: y2v2 Ch.5 → p.311 -->
 
 
-<!-- walk: y2v2 Epilogue → p.354 -->
 
 ### y2v2 p.298–314 — Ryūen's three-class alliance and Katsuragi buyout
 [scene] (p.298) Summons Ayanokōji and Katsuragi to a Keyaki Mall café — an unlikely pair — to propose an alliance for the island exam.

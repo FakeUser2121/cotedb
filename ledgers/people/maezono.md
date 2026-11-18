@@ -48,12 +48,14 @@ char_id: maezono · class: Class 1-D · status: minor
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
+### y2v2 p.12–22 — Maezono sides with Kei in the classroom argument
+[scene] (p.17) She backs Karuizawa against Yukimura during the heated exchange over Ayanokōji's perfect score.
+[says] (p.17) "Yeah, yeah! Isn't it weird that you're taking your anger out on Karuizawa-san?"
+[trait] (p.17) Quick to defend her friends in a dispute.
 
-[scene] (p.6) Appears in this volume.
+<!-- walk: y2v2 Ch.1 → p.17 -->
 
 
-<!-- walk: y2v2 Epilogue → p.354 -->
 
 ## y2v5
 

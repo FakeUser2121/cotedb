@@ -1052,12 +1052,16 @@ aliases used for anchors: sakura, airi, sakura-san
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
+### y2v2 p.12–22 — Sakura tries to lighten the mood
+[scene] (p.12–15) She sits with the group and tries to defuse tension by praising Ayanokōji, but her attempt backfires on Yukimura.
+[says] (p.15) "S-so he solved such a question, Kiyotaka-kun sure is amazing!"
+[scene] (p.40–45) She suggests a reconciliation handshake between Ayanokōji and Yukimura.
+[says] (p.43) "H-how about you two do a…reconciliation handshake?"
+[trait] (p.12–45) Gentle and well-meaning, if sometimes tone-deaf.
 
-[scene] (p.6) Appears in this volume.
+<!-- walk: y2v2 Ch.1 → p.45 -->
 
 
-<!-- walk: y2v2 Epilogue → p.354 -->
 
 ### y2v2 p.15 — Sakura's praise of Kiyotaka
 [says] (p.15) "S-so he solved such a question, Kiyotaka-kun sure is amazing!"

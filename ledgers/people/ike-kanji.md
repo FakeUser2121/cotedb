@@ -1119,12 +1119,23 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
+### y2v2 p.168–177 — Ike tries to form a group with Shinohara
+[scene] (p.168–171) He tries to recruit Shinohara into his group, selling his boy-scout skills; Kushida interrupts with an invitation from Kobashi (Class C).
+[scene] (p.174–177) He is upset when Shinohara agrees to meet Komiya at a café.
+[trait] (p.168–177) Anxious and emotionally invested — he worries about Shinohara and wants to protect her.
+[rel:shinohara-satsuki] (p.168–177) He is trying to form a group with her.
+[rel:komiya-kyogo] (p.174–177) He is jealous of Komiya's invitation.
 
-[scene] (p.6) Appears in this volume.
+<!-- walk: y2v2 Ch.3 → p.177 -->
+
+### y2v2 p.12–22 — Ike suggests cheating via past papers
+[scene] (p.18) He loudly recalls a past cheating incident where a classmate got past exam questions from a third-year, suggesting Ayanokōji might have done the same.
+[says] (p.18) "It's definitely possible. Like seeing the question paper beforehand or something."
+[trait] (p.18) Quick to jump to conspiratorial explanations.
+
+<!-- walk: y2v2 Ch.1 → p.18 -->
 
 
-<!-- walk: y2v2 Epilogue → p.354 -->
 
 ### y2v2 p.169–176 — Ike wants to group with Shinohara
 [says] (p.169) "uh, it's gotta do with that. Ya know, the groups for this new uninhabited island exam… Have you talked to anyone about grouping up yet?"

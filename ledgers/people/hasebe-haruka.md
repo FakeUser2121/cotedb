@@ -545,12 +545,21 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
+### y2v2 p.12–22 — Haruka waits with Yukimura and backs the reconciliation
+[scene] (p.12–15) She sits with Yukimura, Sakura and Miyake, trying to calm him; after Ayanokōji returns she stays silent, letting Yukimura vent.
+[scene] (p.40–45) She stays quiet during the hallway confrontation to let Yukimura think, then forces Ayanokōji and Yukimura into a reconciliation handshake.
+[says] (p.43) "Alright, make up!"
+[trait] (p.12–45) Perceptive and socially adept — she reads the room and acts to defuse tension.
 
-[scene] (p.6) Appears in this volume.
+<!-- walk: y2v2 Ch.1 → p.45 -->
+
+### y2v2 p.46–53 — Haruka arrives with the group at Keyaki Mall
+[scene] (p.53) She arrives with Miyake, Yukimura and Sakura and is suspicious about Ayanokōji's conversation with Ichinose, but drops it.
+[rel:ayanokouji-kiyotaka] (p.53) Suspicious about his talk with Ichinose.
+
+<!-- walk: y2v2 Ch.1 → p.53 -->
 
 
-<!-- walk: y2v2 Epilogue → p.354 -->
 
 ### y2v2 p.12–15 — Hasebe tries to calm Yukimura
 [says] (p.12) "Can you calm down a little? It hasn't even been 5 minutes since Kiyopon left."

@@ -901,12 +901,34 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
+### y2v2 p.12–22 — Yukimura confronts Ayanokōji over the perfect score
+[scene] (p.12–15) He waits anxiously for Ayanokōji's return, shaking his leg; when Ayanokōji arrives, he demands to know how he got 100 in math when even Ichinose and Sakayanagi didn't, and argues the question was beyond high-school level.
+[says] (p.14) "It's not a question of whether it's hard or not. I didn't even understand the meaning of the question during the exam."
+[scene] (p.15–22) He leads the class speculation about cheating and hacking, but Hirata and Sudō push back; he stays behind when club members leave.
+[trait] (p.12–22) Academically proud and meticulous — he analyzed the exam question afterward and is genuinely shaken by something he can't explain.
+[rel:ayanokouji-kiyotaka] (p.12–22) Confronts him about the score; hurt that his tutoring was unnecessary.
 
-[scene] (p.6) Appears in this volume.
+<!-- walk: y2v2 Ch.1 → p.22 -->
+
+### y2v2 p.23–45 — Yukimura's reconciliation with Ayanokōji
+[scene] (p.23–34) He listens to Horikita's cover story with sharp skepticism, pressing on why hiding strength helped the class; Yousuke's support partially convinces him.
+[says] (p.30) "Better than you in academics? Hold on. I remember Kiyotaka's scores being about average all around since school started."
+[scene] (p.39–45) After class he corners Ayanokōji in the hallway; he is angry and hurt, admits he considered leaving the group, but proposes to continue tutoring him as before.
+[says] (p.40) "Why didn't you tell us before?… If it's to hide information as Horikita said, does that mean that you don't trust us at all?"
+[says] (p.42) "I want out of this group- Well, I'd be lying if I said I didn't have that thought."
+[trait] (p.23–45) Rational and fair-minded — he suppresses his hurt for the group's sake and chooses to keep tutoring Ayanokōji.
+
+<!-- walk: y2v2 Ch.1 → p.45 -->
+
+### y2v2 p.327–328 — Keisei worries about Ayanokōji going solo
+[scene] (p.327–328) He comes to Ayanokōji's seat before the exam and worries about him going alone; Ayanokōji promises to help if needed.
+[says] (p.328) "But, are you alright going alone? If you get sick, it's over."
+[trait] (p.327–328) Caring and anxious — he worries about his friend.
+[rel:ayanokouji-kiyotaka] (p.327–328) He worries about him going solo.
+
+<!-- walk: y2v2 Epilogue → p.328 -->
 
 
-<!-- walk: y2v2 Epilogue → p.354 -->
 
 ### y2v2 p.12–18 — Yukimura's agitation over the perfect score
 [scene] (p.12) Waits restlessly in the classroom for Ayanokōji (called away by Chabashira), his right leg trembling repeatedly despite Hasebe's attempts to calm him.

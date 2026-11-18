@@ -806,12 +806,16 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
+### y2v2 p.329–335 — Kōenji negotiates with Horikita
+[scene] (p.329–335) He approaches Horikita before the exam and offers to get first place alone in exchange for "full freedom" until graduation; Horikita counters with a condition.
+[says] (p.330) "Promise you full freedom… That's an unexpected proposal."
+[says] (p.332) "I see, I see. Certainly, you seem like you will be satisfied if I get 1st place by myself, riiight?"
+[trait] (p.329–335) Confident and calculating — he negotiates for freedom but accepts Horikita's condition.
+[rel:horikita-suzune] (p.329–335) He negotiates with her.
 
-[scene] (p.6) Appears in this volume.
+<!-- walk: y2v2 Epilogue → p.335 -->
 
 
-<!-- walk: y2v2 Epilogue → p.354 -->
 
 ## y2v3
 

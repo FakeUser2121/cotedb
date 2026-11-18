@@ -1746,12 +1746,23 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
+### y2v2 p.12–22 — Hirata defuses the classroom tension
+[scene] (p.21) He steps in to calm the class, dispersing club members and pressing pause on the speculation.
+[says] (p.21) "Let's all calm down a bit. We can't solve the problem by just getting heated up here, can we?"
+[scene] (p.35–38) He backs Horikita's cover story, filling gaps in her logic and closing the topic cleanly.
+[says] (p.36) "I see. I clearly understand what Horikita-san is trying to say."
+[trait] (p.21–38) Trusted by the entire class — he reads the situation and acts as the stabilizer.
 
-[scene] (p.6) Appears in this volume.
+<!-- walk: y2v2 Ch.1 → p.38 -->
+
+### y2v2 p.177–179 — Hirata discusses group strategy with Ayanokōji
+[scene] (p.177–179) He and Ayanokōji agree to investigate the Ike/Shinohara situation; he plans to form a group with two Class D members.
+[trait] (p.177–179) Thoughtful and strategic — he considers the class's overall group dynamics.
+[rel:ayanokouji-kiyotaka] (p.177–179) They agree to investigate together.
+
+<!-- walk: y2v2 Ch.3 → p.179 -->
 
 
-<!-- walk: y2v2 Epilogue → p.354 -->
 
 ### y2v2 p.21–22 — Hirata defuses the escalating argument
 [says] (p.21) "Let's all calm down a bit. We can't solve the problem by just getting heated up here, can we?"

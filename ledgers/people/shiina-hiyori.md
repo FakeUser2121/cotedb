@@ -479,12 +479,14 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
+### y2v2 p.160–167 — Hiyori supports inviting Ayanokōji
+[scene] (p.160–167) She supports Ishizaki's invitation for Ayanokōji to join Ryūen's group.
+[says] (p.161) "We didn't talk to anyone, and we don't intend to. Right?"
+[trait] (p.160–167) Thoughtful and supportive — she backs the invitation.
 
-[scene] (p.6) Appears in this volume.
+<!-- walk: y2v2 Ch.3 → p.167 -->
 
 
-<!-- walk: y2v2 Epilogue → p.354 -->
 
 ### y2v2 p.157–166 — Hiyori supports Ishizaki's group plan
 [scene] (p.157) Approaches the group with a gentle smile "like a leader," having listened to Ishizaki's proposal.

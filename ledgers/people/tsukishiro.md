@@ -246,12 +246,7 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
 
-[scene] (p.6) Appears in this volume.
-
-
-<!-- walk: y2v2 Epilogue → p.354 -->
 
 ### y2v2 p.336–337 — Tsukishiro's final push before losing his position
 [says] (p.336) "We're in late July already. It's certainly getting hotter, right?"

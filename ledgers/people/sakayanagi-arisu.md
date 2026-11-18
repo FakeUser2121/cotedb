@@ -922,12 +922,15 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
+### y2v2 p.203–218 — Sakayanagi invites Ichinose to meet
+[scene] (p.203–204) She invites Ichinose to meet at Keyaki Mall, surprising her.
+[says] (p.203) "Is this a good time? Since I asked so suddenly, I was also prepared for you"
+[trait] (p.203–218) Calculating and composed — she reaches out to Ichinose deliberately.
+[rel:ichinose-honami] (p.203–218) She invites her to a meeting.
 
-[scene] (p.6) Appears in this volume.
+<!-- walk: y2v2 Ch.3 → p.218 -->
 
 
-<!-- walk: y2v2 Epilogue → p.354 -->
 
 ## y2v3
 

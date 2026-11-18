@@ -310,12 +310,26 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
+### y2v2 p.168–177 — Shinohara is courted by Ike and Komiya
+[scene] (p.168–171) Ike tries to recruit her into his group; Kushida interrupts with an invitation from Kobashi (Class C); Shinohara is annoyed by Ike's persistence.
+[scene] (p.174–177) She agrees to meet Komiya at a café; Ike is upset.
+[trait] (p.168–177) Pragmatic and slightly exasperated by Ike's advances.
+[rel:ike-kanji] (p.168–177) She is annoyed by his recruitment attempt.
+[rel:komiya-kyogo] (p.174–177) She agrees to meet him at a café.
 
-[scene] (p.6) Appears in this volume.
+<!-- walk: y2v2 Ch.3 → p.177 -->
+
+### y2v2 p.12–22 — Shinohara joins the speculation
+[scene] (p.15) She joins the group discussion, asking how hard the exam questions were.
+[says] (p.15) "Was the question that hard?"
+[scene] (p.19) She asks Sudō how Ayanokōji could have cheated.
+[says] (p.19) "Cheat? How would he even cheat?"
+[scene] (p.36–37) Kei draws her in to support Horikita's cover story.
+[trait] (p.12–37) Curious and outspoken — engages with the debate directly.
+
+<!-- walk: y2v2 Ch.1 → p.37 -->
 
 
-<!-- walk: y2v2 Epilogue → p.354 -->
 
 ## y2v3
 

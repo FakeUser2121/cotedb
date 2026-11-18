@@ -10,12 +10,14 @@ char_id: minami-setsuya · class: unknown · status: unknown
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
+### y2v2 p.12–22 — Minami raises the cheating possibility
+[scene] (p.18) He suggests Ayanokōji might have done something shady to get the perfect score.
+[says] (p.18) "That's why I was wondering, has this Ayanokouji done something shady?"
+[trait] (p.18) Suspicious and willing to voice uncomfortable theories.
 
-[scene] (p.6) Appears in this volume.
+<!-- walk: y2v2 Ch.1 → p.18 -->
 
 
-<!-- walk: y2v2 Epilogue → p.354 -->
 
 
 <!-- walk: y2v3 Epilogue → p.368 -->

@@ -139,12 +139,14 @@ char_id: komiya-kyogo · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 pp.6-354 — Full volume
+### y2v2 p.174–194 — Komiya invites Shinohara and plans to confess
+[scene] (p.174–177) He invites Shinohara to meet at a café; she agrees.
+[scene] (p.193–194) Ishizaki calls him and learns he plans to confess to Shinohara on the uninhabited island.
+[trait] (p.174–194) Direct and bold — he pursues Shinohara openly.
 
-[scene] (p.6) Appears in this volume.
+<!-- walk: y2v2 Ch.3 → p.194 -->
 
 
-<!-- walk: y2v2 Epilogue → p.354 -->
 
 ## y2v3
 
