@@ -170,6 +170,12 @@ char_id: wang-mei-yu · status: minor
 
 <!-- walk: y2v2 → start -->
 
+### y2v2 p.66 — Wang (Mii-chan) mentioned in passing
+[scene] (p.66) Named in the student council recruitment context.
+[note] (p.66) Passing mention; not a distinct scene presence.
+
+<!-- walk: y2v2 Ch.2 → p.66 -->
+
 
 
 ## y2v4.5

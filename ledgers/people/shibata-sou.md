@@ -250,6 +250,13 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 
 <!-- walk: y2v2 → start -->
 
+### y2v2 p.215, 299 — Shibata mentioned in passing
+[scene] (p.215) Named in the group formation context.
+[scene] (p.299) Named in Ryūen's alliance meeting.
+[note] (p.215, 299) Passing mentions; not a distinct scene presence.
+
+<!-- walk: y2v2 Ch.5 → p.299 -->
+
 
 
 ## y2v3

@@ -21,6 +21,13 @@ char_id: kiryuin-fuuka · class: unknown · status: unknown
 
 <!-- walk: y2v2 → start -->
 
+### y2v2 p.29–33, 76–78 — Kiryūin in the shoplifting investigation
+[scene] (p.29–33) She bursts into the student council meeting and exposes Nagumo's shoplifting order.
+[scene] (p.76–78) She stops Ayanokōji outside the council room and asks him to investigate the shoplifting case.
+[note] (p.29–33, 76–78) Kiryūin was present in these scenes; entries already exist in the y2v9 block for the same character.
+
+<!-- walk: y2v2 Ch.2 → p.78 -->
+
 
 
 

@@ -284,6 +284,12 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 
 <!-- walk: y2v2 → start -->
 
+### y2v2 p.24 — Mashima mentioned in passing
+[scene] (p.24) Named in the context of Ayanokōji's injured left hand; Chabashira asks about it.
+[note] (p.24) Passing mention; not a distinct scene presence.
+
+<!-- walk: y2v2 Ch.1 → p.24 -->
+
 
 
 ## y2v3

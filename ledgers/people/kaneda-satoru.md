@@ -237,6 +237,12 @@ aliases used for anchors: kaneda, kaneda satoru, kaneda-kun
 
 <!-- walk: y2v2 → start -->
 
+### y2v2 p.165–166 — Kaneda mentioned in passing
+[scene] (p.165–166) Named in Ishizaki's invitation scene — he mentions Kaneda as a possible group member.
+[note] (p.165–166) Passing mention; not a distinct scene presence.
+
+<!-- walk: y2v2 Ch.3 → p.166 -->
+
 
 
 ## y2v3

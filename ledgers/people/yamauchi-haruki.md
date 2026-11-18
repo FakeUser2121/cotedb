@@ -833,6 +833,13 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 
 <!-- walk: y2v2 → start -->
 
+### y2v2 p.33, 62 — Yamauchi mentioned in passing
+[scene] (p.33) Named in Horikita's cover story — she mentions Yamauchi as someone who was expelled.
+[scene] (p.62) Named — "Yamauchi would have been more careful."
+[note] (p.33, 62) Passing mentions; not a distinct scene presence.
+
+<!-- walk: y2v2 Ch.1 → p.62 -->
+
 
 
 ## y2v5
