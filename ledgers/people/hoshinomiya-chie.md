@@ -440,6 +440,16 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
+### y2v9.5 p.59–60 — Ch.3: Teachers' Christmas Eve at the mall
+[scene] (p.59–60) Approaches Ayanokōji first ("Are you alone?"), teases him about not being with a girlfriend; says it's annoying for younger students to have lovers on Christmas; off to karaoke with Chabashira.
+[says] (p.59) "Oh? Are you alone?"
+[says] (p.60) "Don't tease the students, Chie. Besides, Karuizawa has the flu."
+[note] (p.60) Claims she can now understand Sae's feelings about being alone on Christmas.
+[rel:chabashira-sae] (p.59–60) Constant bickering partners; karaoke trip together on the 25th.
+[rel:ayanokouji-kiyotaka] (p.59–60) Sizes up his holiday solitude with a pointed jab.
+
+<!-- walk: y2v9.5 Ch.3 → p.60 -->
+
 
 ## y2v10
 

@@ -1375,6 +1375,15 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
+### y2v9.5 p.59–60 — Ch.3: Teachers' Christmas Eve at the mall
+[scene] (p.59–60) Walks with Hoshinomiya in casual clothes; ribs Ayanokōji that he's alone on Christmas; he says he misses his girlfriend; she and Chie head to karaoke; Ayanokōji thinks of Mashima-sensei choosing sides would be troublesome.
+[says] (p.59) "I thought you'd be lovey-dovey with your girlfriend today and yesterday. Did you get dumped?"
+[says] (p.60) "Chie's the only one who wants to sing. I'm just being dragged along."
+[note] (p.59) In her usual suit instead of casual clothes; not a fan of Christmas solitude.
+[rel:hoshinomiya-chie] (p.59–60) Constantly at odds but together; karaoke day out.
+
+<!-- walk: y2v9.5 Ch.3 → p.60 -->
+
 
 ## y2v10
 
