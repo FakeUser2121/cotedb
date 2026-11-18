@@ -123,7 +123,12 @@ char_id: amikura-mako · class: Class 1-B · status: minor (allies)
 
 <!-- walk: y2v9.5 → start -->
 
+### y2v9.5 p.19-32 — Amikura mentioned in passing
+[scene] (p.19) Named in this volume.
+[note] (p.19) Passing mention (locator pages: p.19, p.32; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.19) Passing mention only.
 
+<!-- walk: y2v9.5 Ch.2 → p. p.32 -->
 
 ## y2v10
 

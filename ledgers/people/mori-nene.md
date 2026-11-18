@@ -85,5 +85,12 @@ char_id: mori-nene · class: Class 1-D · status: minor
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
+### y2v9.5 p.66–78 — Ch.4: Maezono's gathering (silent attendee)
+[scene] (p.66) One of the eight invited to Maezono's café gathering: Ike, Sudō, Shinohara, Matsushita, Mori, Wang, Maezono, Onodera; sits in with them; no dedicated lines.
+[note] (p.66) Her reasons for coming are no different from the others — mild curiosity; she says nothing in the recorded dialogue.
+[rel:sudou-ken] (p.66–70) Sits through his defense of Ayanokōji.
+
+<!-- walk: y2v9.5 Ch.4 → p.78 -->
+
 
 

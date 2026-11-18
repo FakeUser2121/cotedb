@@ -1873,7 +1873,6 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [note] (p.38) He cannot figure out what she actually wanted on the call; it ends soon.
 [rel:ayanokouji-kiyotaka] (p.37–38) Reaches out with support; he gives practical answers and no commitment.
 
-<!-- walk: y2v9.5 Ch.3 → p.38 -->
 
 
 

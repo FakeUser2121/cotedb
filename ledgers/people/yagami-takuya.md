@@ -240,7 +240,12 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 
 <!-- walk: y2v9.5 → start -->
 
+### y2v9.5 p.60 — Yagami mentioned in passing
+[scene] (p.60) Named in this volume.
+[note] (p.60) Passing mention (locator pages: p.60; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.60) Passing mention only.
 
+<!-- walk: y2v9.5 Ch.3 → p.60 -->
 
 ## y2v11
 

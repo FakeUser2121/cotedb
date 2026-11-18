@@ -36,6 +36,15 @@ char_id: sanada-kousei · class: unknown · status: unknown
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
+### y2v9.5 p.92–98 — Ch.4: Sanada's Christmas favor
+[scene] (p.92) A-grade honor student with no obvious physical outline; approaches Ayanokōji where Sakayanagi is; polite speech, gentle demeanor; moves him away with a gentle hand ("she isn't someone you can approach without reason.").
+[scene] (p.92–93) Delivers a polite warning (she is the leader of Class 2-A); accepts his answers; apologizes for scary phrasing; returns to Sakayanagi.
+[scene] (p.94–98) Phone call outside the store (Miya-san, Class 1-B, his new girlfriend — her birthday four days after Christmas); Sakayanagi plays matchmaker; he buys a present at the shop; thanks her; heads off to give it to Miya.
+[rel:sakayanagi-arisu] (p.92–98) Her classmate; gets dating advice; buys a birthday present with her approval.
+[rel:miya] (p.96) His new girlfriend; met through club activities (band club); he's expected to give her a gift on Christmas.
+
+<!-- walk: y2v9.5 Ch.4 → p.98 -->
+
 
 
 

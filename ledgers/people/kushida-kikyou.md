@@ -1916,7 +1916,12 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y2v9.5 → start -->
 
+### y2v9.5 p.67-78 — Kushida mentioned in passing
+[scene] (p.67) Named in this volume.
+[note] (p.67) Passing mention (locator pages: p.67, p.77, p.78; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.67) Passing mention only.
 
+<!-- walk: y2v9.5 Ch.4 → p. p.78 -->
 
 ## y2v9.75
 

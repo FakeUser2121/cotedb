@@ -803,6 +803,13 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y2v9.5 → start -->
 
+### y2v9.5 p.116-119 — Ishizaki mentioned in passing
+[scene] (p.116) Named in this volume.
+[note] (p.116) Passing mention (locator pages: p.116, p.119; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.116) Passing mention only.
+
+<!-- walk: y2v9.5 Ch.5 → p. p.119 -->
+
 ## y2v10
 
 <!-- walk: y2v10 → start -->

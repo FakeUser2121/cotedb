@@ -9,6 +9,13 @@ char_id: miya · class: unknown · status: unknown
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
+### y2v9.5 p.96 — Ch.4: Miya mentioned: Sanada's new girlfriend
+[scene] (p.96) Mentioned as Class 1-B; Sanada's new girlfriend, met through the band club; Sanada called Sakayanagi for advice on whether to combine Christmas and her birthday present.
+[note] (p.96) Never appears on-page; a name in a dating-advice conversation.
+[mentioned] (p.96) Passing mention only.
+
+<!-- walk: y2v9.5 Ch.4 → p.96 -->
+
 
 
 

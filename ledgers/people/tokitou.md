@@ -43,7 +43,9 @@ char_id: tokitou · class: unknown · status: unknown
 
 <!-- walk: y2v9.5 → start -->
 
-
+### y2v9.5 p.10-219 — Tokitou: no page hits
+[scene] (p.10) Rostered for this volume.
+[note] (p.10) Page locator found no matches for this name in this volume; possible spelling/alias variant missed. Not read line-by-line.
 
 ## y2v10
 

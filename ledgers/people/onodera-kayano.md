@@ -129,6 +129,15 @@ char_id: onodera-kayano · status: minor
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
+### y2v9.5 p.66–78 — Ch.4: Onodera at Maezono's gathering
+[scene] (p.66) Listed as one of the eight invited to Maezono's café gathering; sits beside Sudō.
+[scene] (p.67) She whispers a question to Sudō, worried about his complex feelings; he brushes it off as "nothing."
+[scene] (p.78) She adds in a positive note at Sudō's awkward praise of Ayanokōji; even her expression lifts with his.
+[note] (p.66–68) The text uses the surname only; judgment call that the Onodera at the gathering is Kayano — Sudō's group companions; the plain `onodera` ledger records the ambiguity.
+[rel:sudou-ken] (p.66–78) Sits beside him; plays wing-woman; laughs along with him.
+
+<!-- walk: y2v9.5 Ch.4 → p.78 -->
+
 
 
 

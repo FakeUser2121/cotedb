@@ -19,7 +19,12 @@ char_id: sawada-yasumi · class: unknown · status: unknown
 
 <!-- walk: y2v9.5 → start -->
 
+### y2v9.5 p.103 — Sawada mentioned in passing
+[scene] (p.103) Named in this volume.
+[note] (p.103) Passing mention (locator pages: p.103; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.103) Passing mention only.
 
+<!-- walk: y2v9.5 Ch.4 → p.103 -->
 
 ## y2v11
 

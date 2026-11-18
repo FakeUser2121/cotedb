@@ -680,7 +680,12 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 
 <!-- walk: y2v9.5 → start -->
 
+### y2v9.5 p.70-78 — Hasebe mentioned in passing
+[scene] (p.70) Named in this volume.
+[note] (p.70) Passing mention (locator pages: p.70, p.78; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.70) Passing mention only.
 
+<!-- walk: y2v9.5 Ch.4 → p. p.78 -->
 
 ## y2v10
 

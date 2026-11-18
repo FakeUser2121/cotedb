@@ -150,6 +150,13 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 
 <!-- walk: y2v9.5 → start -->
 
+### y2v9.5 p.40-42 — Hondou mentioned in passing
+[scene] (p.40) Named in this volume.
+[note] (p.40) Passing mention (locator pages: p.40, p.42; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.40) Passing mention only.
+
+<!-- walk: y2v9.5 Ch.3 → p. p.42 -->
+
 ## y2v10
 
 <!-- walk: y2v10 → start -->
