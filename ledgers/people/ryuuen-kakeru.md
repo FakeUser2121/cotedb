@@ -2245,7 +2245,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v9.5 → start -->
 
-### y2v9.5 p.113–128 — Ryūen: the summoned meeting on the third-term exam
+### y2v9.5 p.113–134 — Ryūen: the summoned meeting on the third-term exam; the tailing reveal
 [scene] (p.113–117) He abruptly calls Ayanokōji and Katsuragi out to Keyaki Mall — ordering Ayanokōji to postpone his plans — and tears into a cake when they arrive, brushing off the suggestion that he apologize.
 [says] (p.113) "Hey, answer it faster when I call."
 [says] (p.116) "Shouldn't you apologize to Ayanokōji at least?"
@@ -2256,6 +2256,12 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:katsuragi-kouhei] (p.113–128) His lieutenant, whom he also summons; they debate strategy.
 [rel:ayanokouji-kiyotaka] (p.113–128) Calls him out and reminds him of their pending match.
 [rel:sakayanagi-arisu] (p.121–122) Wants to defeat her personally in the final exam.
+
+[scene] (p.127–128) The stroll ends; Ryūen tells Ayanokōji "our match will be in the third year"; he waves off Ayanokōji's attempt to leave.
+[scene] (p.129–133) He tails Katsuragi and Ayanokōji back; catches Yamamura watching; keeps her secret from Sakayanagi — partly out of pity, partly as a bear trap; teases Katsuragi for his schoolboy heart.
+[says] (p.133) "We'll keep the fact that we noticed you a secret."
+[rel:katsuragi-kouhei] (p.132–134) Katsuragi scolds his taste (Sakayanagi is a child, he says; keep your hands away); Ryūen calls him a prude.
+[rel:yamamura-miki] (p.130–133) He toys with her; gives her a fake out to report to Sakayanagi at her own pace.
 
 <!-- walk: y2v9.5 Ch.5 → p.128 -->
 

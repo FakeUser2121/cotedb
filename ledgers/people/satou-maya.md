@@ -494,6 +494,24 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 
 <!-- walk: y2v9.5 → start -->
 
+### y2v9.5 p.123–126 — Ch.5: Kei's goodbye outing
+[scene] (p.123–124) Welcomes Kei's recovery; asks after Christmas plans; Kei is anxious about Ayanokōji possibly liking Ichinose; Satō panics, then recovers, forcing fun.
+[scene] (p.125–126) Grabs her shoulders; the two walk hand-in-hand like childhood; "I will make you forget about everything"; they decide to have a day just for the two of them.
+[says] (p.125) "Come on, let's forget about all the unpleasant stuff and have fun!"
+[rel:karuizawa-kei] (p.123–126) Best friend; helped her through the flu; plans their make-up with Ayanokōji.
+
+<!-- walk: y2v9.5 Ch.5 → p.126 -->
+
+### y2v9.5 p.145–148 — Ch.5: Satō calls about Kei
+[scene] (p.145) Calls Ayanokōji about Kei; worries about whether they will make up; gets the message that he's about to call Kei tonight.
+[scene] (p.147–148) Declares she will protect Kei no matter what; accepts the "invisible contract" (if she can't, he will); listens to his that friendships matter as much as romance pitch; agrees to hear Kei's report tomorrow.
+[says] (p.147) "That's obvious!"
+[rel:karuizawa-kei] (p.145–148) Vows to defend her best friend.
+[rel:ayanokouji-kiyotaka] (p.145–148) Gets the promise she wants; he makes his quiet oath.
+
+<!-- walk: y2v9.5 Ch.5 → p.148 -->
+
+
 ## y2v10
 
 <!-- walk: y2v10 → start -->

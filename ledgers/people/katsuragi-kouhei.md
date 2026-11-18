@@ -927,7 +927,7 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v9.5 → start -->
 
-### y2v9.5 p.113–128 — Katsuragi: the leaked warning of a dangerous third-term exam
+### y2v9.5 p.113–134 — Katsuragi: the leaked warning of a dangerous third-term exam; the tailing reveal
 [scene] (p.113–116) Ryūen summons him and Ayanokōji; as they walk to the meeting he shares that Ryūen calls them out unilaterally, then confides his read of the class — Ryūen's strength and the "strange" students he deliberately doesn't use — trusting Ayanokōji with the secret.
 [says] (p.114) "It's a bad habit of Ryūen to unilaterally call us out whenever something..."
 [says] (p.114) "You've become quite the strategist. It seems that even Ryūen trusts your..."
@@ -937,6 +937,12 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [trait] (p.113–128) Serious and strategic — he shares intelligence candidly, weighing who benefits from the leak and how to protect the class, and openly values Ayanokōji.
 [rel:ayanokouji-kiyotaka] (p.113–128) Trusts him with class secrets and thanks him.
 [rel:ryuuen-kakeru] (p.113–122) His class leader; summoned by him, he analyses his intentions.
+
+[scene] (p.127–128) The stroll ends; Ryūen threatens Ayanokōji's class with their coming match; he offers to help with whatever comes next.
+[scene] (p.131–134) He spots Yamamura with Ayanokōji; later warns Ryūen that Sakayanagi is "a child"; Ryūen teases him back about preferring sensible women; he freezes, then accepts it.
+[says] (p.127) "I owe you a lot, Ayanokōji. If you have any problems, feel free to consult me."
+[rel:ryuuen-kakeru] (p.132–133) His class leader; scolds his taste; stands down silently.
+[rel:yamamura-miki] (p.131–134) He finds her following them; later warns Ryūen off.
 
 <!-- walk: y2v9.5 Ch.5 → p.128 -->
 
