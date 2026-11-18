@@ -70,12 +70,6 @@ char_id: shiranami-chihiro · class: Class 1-B · status: minor (allies)
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.68 — Mentions: the orange-juice squeeze
-[mentioned] (p.68) "all they did was thank me for helping Shiranami."
-
-<!-- walk: y2v4.5 ch2 → p.72 -->
-
-
 ### y2v4.5 p.61–62 — Chihiro thanks him; can't accept the debt
 [scene] (p.61) Sits to Ichinose's left; formally thanks Ayanokōji for finding her during the exam — and, moments later, admits she can't accept the gratitude yet.
 [says] (p.61) “Um, Ayanokōji-kun…”
@@ -85,11 +79,10 @@ char_id: shiranami-chihiro · class: Class 1-B · status: minor (allies)
 [rel:ayanokouji-kiyotaka] (p.61) Formal gratitude owed; she is not yet ready for it.
 [rel:ichinose-honami] (p.61–62) Her classmate; she joined the girls' celebration to thank the same person.
 
+### y2v4.5 p.68 — Mentions: the orange-juice squeeze
+[mentioned] (p.68) "all they did was thank me for helping Shiranami."
+
 <!-- walk: y2v4.5 ch2 → p.72 -->
-
-
-
-
 
 ## y2v5
 

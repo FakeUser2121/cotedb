@@ -28,7 +28,6 @@ char_id: tokitou · class: unknown · status: unknown
 
 
 
-<!-- walk: y2v5 Epilogue → p.243 -->
 
 ## y2v8
 

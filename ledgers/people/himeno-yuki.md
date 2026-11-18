@@ -49,9 +49,6 @@ char_id: himeno-yuki · class: Class 2-A · status: unknown
 [mentioned] (p.61) "everyone besides Ichinose, Kobashi and a student named Himeno, were watching me carefully."
 [mentioned] (p.78) "This was where I spoke with Himeno last night" — Ayanokōji, noting the stern.
 
-<!-- walk: y2v4.5 ch2 → p.72 -->
-
-
 ### y2v4.5 p.62–72 — Himeno leaves the party with a faked headache; the stern and the scream
 [scene] (p.62–63) Mid-party, she raises her hand: “The usual headache” — can she go back to her room? Ichinose and the girls fuss; she snaps about their overprotective behavior.
 [scene] (p.64–65) Ayanokōji, slipping out behind her, catches a glimpse of her distinctive hair color turning away from the guest cabins — and follows her to the stern of the ship, where her OAA scores (p.65) are Academic B- (63), Physical C (51), Adaptability C+ (58), Social Contribution C+ (58), Overall C+ (57).

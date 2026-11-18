@@ -103,14 +103,14 @@ char_id: miyamoto-soshi · class: Class 1-D · status: minor
 [says] (p.17) “I was in a group with three guys, so it was a hell of a sweaty time, but you must've been in heaven surrounded by girls, right?”
 <!-- walk: y2v4.5 ch1 → p.35 -->
 
-### y2v4.5 p.119 — Mentions: the shadowed lair
-[mentioned] (p.119) "Just as Miyamoto reported, it was Katsuragi and Tokitō." — a preview of what's to come.
-
 ### y2v4.5 p.117–118 — Miyamoto's warning: Tokitō vs Katsuragi
 [scene] (p.117–118) Back in the cabin, reports that Tokitō had a hold of Katsuragi's collar by the nearby restroom; refuses to get involved because Ryūen could be watching.
 [says] (p.118) “It's none of my business and I'd get in trouble if I got involved.”
 
 <!-- walk: y2v4.5 ch4 → p.158 -->
+
+### y2v4.5 p.119 — Mentions: the shadowed lair
+[mentioned] (p.119) "Just as Miyamoto reported, it was Katsuragi and Tokitō." — a preview of what's to come.
 
 ### y2v4.5 p.160 — Mentions: the treasure hunt venue
 [mentioned] (p.160) Goes with Hondō to the treasure hunt venue, leaving Akito behind with a fever.

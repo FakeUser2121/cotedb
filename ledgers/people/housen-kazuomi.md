@@ -187,16 +187,16 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.143, 255 — Mentions: the gorilla Hōsen
-[mentioned] (p.143) Horikita to Ibuki: "Did you by any chance hear about what happened with Hōsen-kun from somewhere?"
-[mentioned] (p.255) Yagami to Amasawa: "the quickest and easiest method was to create a common enemy, Hōsen."
-[mentioned] (p.189–190) Nanase invokes him: "I'm sure that Hōsen-kun will mercilessly raise his fists against you, Kurachi-kun."; Kurachi: "don't tell Hōsen that I had anything to do with it, yeah?"
-
-<!-- walk: y2v4.5 ch5 → p.216 -->
 ### y2v4.5 p.88–89 — Hōsen: Sakayanagi's counterweight
 [mentioned] (p.88–89) Sakayanagi admits she "decided to let him and Hōsen-kun clash" to protect her third place; Ryūen was forced to retire against him — "which was the best possible outcome for us."
 
 <!-- walk: y2v4.5 ch3 → p.95 -->
+
+### y2v4.5 p.143 — Mentions: the gorilla Hōsen
+[mentioned] (p.143) Horikita to Ibuki: "Did you by any chance hear about what happened with Hōsen-kun from somewhere?"
+
+<!-- walk: y2v4.5 ch4 → p.158 -->
+
 ### y2v4.5 p.181–182 — Hōsen and Ryūen in the hallway
 [scene] (p.181–182) Hōsen crosses paths with Ryūen in the hallway; banters about nearly killing him and being owed-free-ride points; Ryūen licks his shoe; they part undefeated; Ishizaki trails Ryūen.
 [says] (p.181) “Yo Ryūen, you did so much for me the other day.”
@@ -206,12 +206,15 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 [note] (p.182) Hōsen's target count moved “from one to two” — whatever Ryūen did the other day left two targets; the referent is never spelled out on these pages.
 [rel:ryuuen-kakeru] (p.181–182) Mutually loathing frenemies; Ryūen fears facing him again; their casual hallway hostility hides a serious grudge.
 
+### y2v4.5 p.189–190 — Mentions: the gorilla Hōsen
+[mentioned] (p.189–190) Nanase invokes him: "I'm sure that Hōsen-kun will mercilessly raise his fists against you, Kurachi-kun."; Kurachi: "don't tell Hōsen that I had anything to do with it, yeah?"
+
 <!-- walk: y2v4.5 ch5 → p.216 -->
 
+### y2v4.5 p.255 — Mentions: the common enemy
+[mentioned] (p.255) Yagami to Amasawa: "the quickest and easiest method was to create a common enemy, Hōsen."
 
-
-
-
+<!-- walk: y2v4.5 ch6 → p.267 -->
 
 ## y2v6
 

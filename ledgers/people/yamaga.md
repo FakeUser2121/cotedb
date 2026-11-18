@@ -22,4 +22,3 @@ char_id: yamaga · class: unknown · status: unknown
 
 
 
-<!-- walk: y2v5 Epilogue → p.243 -->

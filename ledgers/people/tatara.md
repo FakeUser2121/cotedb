@@ -25,4 +25,3 @@ char_id: tatara · class: unknown · status: unknown
 
 
 
-<!-- walk: y2v5 Epilogue → p.243 -->

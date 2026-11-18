@@ -1358,14 +1358,11 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.161, 234–236 — Mentions: Shiba and Chabashira seen on the island; Hoshinomiya
+
+### y2v4.5 p.161 — Mentions: Chabashira seen on the island
 [mentioned] (p.161) "Mashima-sensei and Chabashira had seen him, so his role had become known."
-[mentioned] (p.234) Hoshinomiya: "If Sae-chan had chosen the right answer, we would’ve graduated from Class A you know?" — she never names her.
-[mentioned] (p.235) "For us, graduating from Class A was a long-held dream." — Hoshinomiya, naming neither.
-[mentioned] (p.236) Mashima refuses Hoshinomiya: "I have no intention of getting involved with you or Chabashira. It'll only cause trouble."
 
-<!-- walk: y2v4.5 ch6 → p.267 -->
-
+<!-- walk: y2v4.5 ch5 → p.216 -->
 
 ### y2v4.5 p.225–232 — The late-night bar: Chabashira on the next special exam
 [scene] (p.225) After 1 a.m. in the adults-only bar lounge, meets Mashima and Hoshinomiya; admonishes the slumped, complaining Hoshinomiya ("you've had more than enough rest").
@@ -1379,6 +1376,11 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:hoshinomiya-chie] (p.225–233) Her drinking companion and old rival; they spar, and Hoshinomiya brutally needles her for chasing after her "boring love."
 [rel:mashima-tomonari] (p.225–232) Fellow teacher; reveals the next exam's outline.
 [rel:ayanokouji-kiyotaka] (p.229) Defends him as one of many promising students; denies relying on him.
+### y2v4.5 p.234–236 — Mentions: Sae-chan
+[mentioned] (p.234) Hoshinomiya: "If Sae-chan had chosen the right answer, we would’ve graduated from Class A you know?" — she never names her.
+[mentioned] (p.235) "For us, graduating from Class A was a long-held dream." — Hoshinomiya, naming neither.
+[mentioned] (p.236) Mashima refuses Hoshinomiya: "I have no intention of getting involved with you or Chabashira. It'll only cause trouble."
+
 ### y2v4.5 p.257–267 — Chabashira and Tsukishiro in the concert hall
 [scene] (p.257–267) Past 2am at the concert hall; Chabashira and Ayanokōji meet; Tsukishiro reveals himself — dismissed as Acting Director; the Chancellor reinstated; the last negotiation; the left-hand handshake.
 [says] (p.257) “Students aren't allowed to leave their cabins at this time, you know?”

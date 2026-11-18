@@ -325,15 +325,30 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.22, 59, 127, 254 — Mentions
+### y2v4.5 p.16, 22, 30 — Mentions: the exam-watch shadow
+[mentioned] (p.16) Ayanokōji notes the detailed exam results display on the ship is "to avoid leaving unnecessary evidence due to Tsukishiro's involvement this time."
 [mentioned] (p.22) "avoid leaving unnecessary evidence due to Tsukishiro's involvement this time."
 [mentioned] (p.30) "If Amasawa or another White Room student, or someone else related to Tsukishiro was involved, there was no guarantee that even Ryūen would be safe."
+
+<!-- walk: y2v4.5 ch1 → p.35 -->
+
+### y2v4.5 p.59 — Mentions: he had made Tsukishiro nervous
 [mentioned] (p.59) "nervous now than when I had to face Tsukishiro during the uninhabited island exam." (p.16: "uninhabited island exam had only just ended")
+
+<!-- walk: y2v4.5 ch2 → p.72 -->
+
+### y2v4.5 p.127 — Mentions: a different light
 [mentioned] (p.127) "Tsukishiro's presence turned out to be a good thing."
+
+<!-- walk: y2v4.5 ch4 → p.158 -->
+
+### y2v4.5 p.161 — Mentions: absent from the briefing
+[mentioned] (p.161) "Tsukishiro" and Shiba both absent from the treasure-hunt briefing.
+
+<!-- walk: y2v4.5 ch5 → p.216 -->
+
+### y2v4.5 p.254 — Mentions: the need has faded
 [mentioned] (p.254) "now that he's withdrawn, that need has also faded. It wouldn't mean anything if I beat Ayanokōji to a pulp in a prepared and advantageous situation after all."
-
-<!-- walk: y2v4.5 ch6 → p.267 -->
-
 
 ### y2v4.5 p.257–267 — Tsukishiro's last performance: the concert hall
 [scene] (p.261–267) Tsukishiro reveals himself from the darkness in the concert hall; dismissed as Acting Director — the Chancellor reinstated; negotiates his last interview with Ayanokōji; the left-handed handshake; the five-minute dispersion warning.
@@ -350,11 +365,8 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 [note] (p.266–267) Tsukishiro's real goal: get him expelled by any means; after being stripped of his office, he lost his leverage but not his hostility.
 [rel:ayanokouji-kiyotaka] (p.261–267) Tsukishiro tries one last time to break him; fails; leaves politely and dangerously.
 [rel:chabashira-sae] (p.263–267) Uses her exposure to pressure both of them; dismisses her as irrelevant now.
-[mentioned] (p.16) Ayanokōji notes the detailed exam results display on the ship is "to avoid leaving unnecessary evidence due to Tsukishiro's involvement this time."
-[mentioned] (p.161) "Tsukishiro" and Shiba both absent from the treasure-hunt briefing.
 
 <!-- walk: y2v4.5 ch6 → p.267 -->
-
 
 ## y2v5
 

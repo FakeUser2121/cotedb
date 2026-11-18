@@ -55,13 +55,6 @@ char_id: kiryuin-fuuka · class: unknown · status: unknown
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.155 — Mentions: the type of person he's no good at
-[mentioned] (p.155) Ayanokōji recalls Kiryūin's words: Nagumo might be "the type of person I would be no good at dealing with" — her assessment on p.42.
-
-<!-- walk: y2v4.5 ch4 → p.158 -->
-
-
-
 ### y2v4.5 p.38–45 — Kiryūin at the pool: teasing Ayanokōji and Kiriyama
 [says] (p.38) "Looks like you might be in trouble, Ayanokōji."
 [says] (p.41) "It looks like quite the frightening strategy to me."
@@ -79,6 +72,13 @@ char_id: kiryuin-fuuka · class: unknown · status: unknown
 [rel:nagumo-miyabi] (p.41–43) Understands his strategy and character well.
 
 <!-- walk: y2v4.5 ch2 → p.72 -->
+
+### y2v4.5 p.155 — Mentions: the type of person he's no good at
+[mentioned] (p.155) Ayanokōji recalls Kiryūin's words: Nagumo might be "the type of person I would be no good at dealing with" — her assessment on p.42.
+
+<!-- walk: y2v4.5 ch4 → p.158 -->
+
+
 
 ### y2v4.5 p.289–290 — Short story: "When You are the Older One" — the stares at the pool
 [scene] (p.289) From her own POV, relaxing by the pool in sunglasses, notices the third-years all look at Ayanokōji in unison; curious, she calls out to him (her "OFF-mode" switch flips ON).

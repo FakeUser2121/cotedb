@@ -142,21 +142,7 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 
 
 
-## y2v4.5
-
 <!-- walk: y2v4.5 → start -->
-
-### y2v4.5 p.197–201, 255–257 — Mentions: the Kushida pocket
-[mentioned] (p.197) "Why do you think I'm so close to Yagami-kun?"
-[mentioned] (p.198) "the best way to get rid of someone who's in your way is to get into their pocket."
-[mentioned] (p.200) "What about Yagami-kun? Even if I drop out, there will still be people that know about you."
-[mentioned] (p.201) "In the meantime, I'll just have to think up another way to get rid of Ayanokōji-kun, and then it's all over. And as for Yagami-kun, I think he'll be okay even if I don't do anything. He's a serious guy who just likes me."
-[mentioned] (p.255) "Yagami would keep talking forever, even when he was left alone."
-[mentioned] (p.256) "a grin with his teeth showing awkwardly" — unlike his usual refreshing one.
-[mentioned] (p.257) "Yagami opened the door to the guest cabin and sent Amasawa off like a gentleman."
-
-<!-- walk: y2v4.5 ch6 → p.267 -->
-
 
 ### y2v4.5 p.193–196 — Yagami takes the reward desk
 [scene] (p.193–195) Yagami-kun approaches with the shift-change request; tells Horikita to take a break and let him handle the reward confirmations; he's the next in line after her.
@@ -167,6 +153,17 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 [rel:kushida-kikyou] (p.193–196) Walks with him to the desk; she's assigned there with him (he's close to her; the "more than friends, less than lovers" vibe).
 
 <!-- walk: y2v4.5 ch5 → p.216 -->
+
+
+
+### y2v4.5 p.197–201, 255–257 — Mentions: the Kushida pocket
+[mentioned] (p.197) "Why do you think I'm so close to Yagami-kun?"
+[mentioned] (p.198) "the best way to get rid of someone who's in your way is to get into their pocket."
+[mentioned] (p.200) "What about Yagami-kun? Even if I drop out, there will still be people that know about you."
+[mentioned] (p.201) "In the meantime, I'll just have to think up another way to get rid of Ayanokōji-kun, and then it's all over. And as for Yagami-kun, I think he'll be okay even if I don't do anything. He's a serious guy who just likes me."
+[mentioned] (p.255) "Yagami would keep talking forever, even when he was left alone."
+[mentioned] (p.256) "a grin with his teeth showing awkwardly" — unlike his usual refreshing one.
+[mentioned] (p.257) "Yagami opened the door to the guest cabin and sent Amasawa off like a gentleman."
 
 
 

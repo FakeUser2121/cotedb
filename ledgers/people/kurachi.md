@@ -33,7 +33,6 @@ char_id: kurachi · class: unknown · status: unknown
 
 
 
-<!-- walk: y2v5 Epilogue → p.243 -->
 
 ### y2v4.5 p.10–290 — Relations in this volume (depth pass)
 [rel:yagami-takuya] (p.252) Yagami's scheme used him as bait against Ayanokōji; he has no idea.

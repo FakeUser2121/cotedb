@@ -726,15 +726,6 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.35, 54, 122–123, 187, 268 — Mentions
-[mentioned] (p.35) "My classmates Sudō and Ike, and from another class, Ishizaki and Komiya."
-[mentioned] (p.54) Ayanokōji: "Ishizaki was watching our conversation with curiosity."
-[mentioned] (p.122) Ayanokōji: "Compared to the beginning of the first year Ryūen, Ishizaki, and others have shown a lot of growth."
-[mentioned] (p.123) Hiyori: "I invited you the other day, but that was half-jokingly just to go along with Ishizaki-kun. This invitation is different."
-[mentioned] (p.187) "Nishino and Ishizaki to pull Taguri away from Kurachi" — chin-drop from Ryūen.
-[mentioned] (p.268) "Ishizaki and Hiyori from another class" — the expanded circle.
-
-<!-- walk: y2v4.5 ch6 → p.267 -->
 ### y2v4.5 p.16–26 — Ishizaki befriends Ayanokōji
 [says] (p.18) "Ayanokōji, let's go check out the test results together!"
 [says] (p.20) "I went to see 'World Domination 16' the day it came out."
@@ -754,14 +745,36 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [rel:ryuuen-kakeru] (p.21–22) His class leader; he's returned to following him with determination.
 [rel:nanase-tsubasa] (p.25) Teases Ayanokōji about "dating" her — thinks she's cute.
 
+### y2v4.5 p.35 — Mentions: named at parting
+[mentioned] (p.35) "My classmates Sudō and Ike, and from another class, Ishizaki and Komiya."
+
 <!-- walk: y2v4.5 ch1 → p.35 -->
+
+### y2v4.5 p.54 — Mentions: watching the conversation
+[mentioned] (p.54) Ayanokōji: "Ishizaki was watching our conversation with curiosity."
+
+<!-- walk: y2v4.5 ch2 → p.72 -->
+
+### y2v4.5 p.122–123 — Mentions: his growth; her invitation
+[mentioned] (p.122) Ayanokōji: "Compared to the beginning of the first year Ryūen, Ishizaki, and others have shown a lot of growth."
+[mentioned] (p.123) Hiyori: "I invited you the other day, but that was half-jokingly just to go along with Ishizaki-kun. This invitation is different."
+
+<!-- walk: y2v4.5 ch4 → p.158 -->
 
 ### y2v4.5 p.181–185 — Ishizaki trails Ryūen; the Hōsen standoff; Kurachi hunt
 [scene] (p.181–185) Ishizaki and Ryūen cross paths with Hōsen in the hallway; Ishizaki is wary of Hōsen but follows Ryūen anyway; Ryūen sends him to tail Nanase and check Utomiya; Ishizaki is present at the Kurachi interrogation.
 [note] (p.185) Even Ishizaki, watching from the side, feels like giving in although he is not the one being interrogated; the text prints this as narration, not as a quoted line.
 [rel:ryuuen-kakeru] (p.181–185) Shadows him; even his own side is too tense to be comfortable; he's "had felt Ryūen's intimidation many times" and can't get used to it.
 
+### y2v4.5 p.187 — Mentions: pulling Taguri away
+[mentioned] (p.187) "Nishino and Ishizaki to pull Taguri away from Kurachi" — chin-drop from Ryūen.
+
 <!-- walk: y2v4.5 ch5 → p.216 -->
+
+### y2v4.5 p.268 — Mentions: the expanded circle
+[mentioned] (p.268) "Ishizaki and Hiyori from another class" — the expanded circle.
+
+<!-- walk: y2v4.5 Epilogue → p.274 -->
 
 ## y2v5
 
