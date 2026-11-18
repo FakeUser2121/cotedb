@@ -1314,3 +1314,14 @@ aliases used for anchors: ike, kanji, ike-kun
 [note] (p.11) Passing mention (locator pages: p.10, p.13-17, p.19, p.21, p.23-24, p.26-27; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
+### y2v11 p.39 — Ch.2: Sizing up Nagumo's group
+[scene] (p.39) On the bus, reading the freshly distributed organization chart; after Sonoda asks about the bias, Ike speaks up about the group led by Nagumo.
+[says] (p.39) “Wow, it's true. Isn't Nagumo-senpai's group quite dangerous?”
+[note] (p.39) Nagumo's group is stacked with high-OAA names from all four classes; a group around Sakayanagi or Ryūen might also beat it, but no group can force a match win on paper.
+
+### y2v11 p.70–84 — Ch.2: Group 9 across the mats
+[scene] (p.70) Group 9 — Horikita's class — lines up for the Day 1 oshibana match; Horikita's classmates include Ike; the Match runs 3–2 for Group 20; Ike is named on the opposing side.
+[note] (p.70) “From Horikita's class, Ike and Keisei were there.” — “Keisei” has no roster entry; unrostered name, attribution unresolved.
+[note] (p.84) Group 9 is not heard from again that day; Group 20 sweeps five straight.
+
+<!-- walk: y2v11 ch2 → p.84 -->

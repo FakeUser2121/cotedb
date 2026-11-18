@@ -19,17 +19,49 @@ char_id: morishita-ai · class: Class 2-A · status: unknown
 
 <!-- walk: y2v12.5 → start -->
 
-### y2v12.5 p.105-106 — Morishita at the Keyaki Mall visit
-[scene] (p.105) Class 2-D; at the post–love-letter gathering she stands to act, saying "I'll start preparing right away—", until Negishi calls out and the moment breaks; Ayanokōji opens the envelope she encouraged him to open.
-[says] (p.105) “I’ll start preparing right away–”
+### y2v12.5 p.43–53 — Ch.3: Observing insects behind the dorm
+[scene] (p.43) Morishita is late for the meeting with Ayanokōji; she is crouching behind the dormitory observing insects with a magnifying glass, her casual clothes dirty with soil.
+[says] (p.45) “Shh, you’re loud. Please be quiet now. I’m in the middle of observing insects.”
+[says] (p.45) “I told you, observing insects. Have you become hard of hearing in the short time we haven’t met? Maybe you, Ayanokōji Kiyotaka, are—”
+[says] (p.47) “Whether it’s an hour or two hours, it’s my freedom. Is that a problem?”
+[says] (p.47) “That’s a troublesome expression. You should study Japanese more.”
+[says] (p.47) “I actually quite like living creatures.”
+[says] (p.47) “It’s rude to doubt. Last summer vacation, I bought an observation kit and was obsessed with raising shield shrimp. Yes, those were some truly intense days that I remember.”
+[says] (p.47) “Hard to believe? What do you mean by that, Yamamura Miki? I’d prefer if your presence was the only thing that’s faint, not your belief in me too.”
+[says] (p.47) “Once you’ve said something that can be taken that way by the other party, excuses are unnecessary. Alright, if that’s your attitude, I’ll show you the notes I’ve made in the past.”
+[says] (p.47) “Take a good look.”
+[says] (p.47) “I set the screen brightness to max. It’s a makeshift blinder.”
+[says] (p.49) “How about it? Don’t you two feel like trying to raise shrimps?”
+[says] (p.50) “Then, let’s give you the breeding set, Ayanokōji Kiyotaka. I bought two last year, so I don’t mind giving one away. Of course, at the original price.”
+[says] (p.50) “Of course.”
+[says] (p.50) “Well, alright. But please give me an answer by this summer. If you don’t want it, I’ll hatch them and observe them myself.”
+[says] (p.50) “Well, it isn’t surprising. Honestly, because of this mess, it’s fair to say that our chances of graduating from Class A have now become hopeless.”
+[says] (p.50) “You have to admit it. Some students talk about showing Class A’s former spirit or making a comeback, but they just don’t see the situation.”
+[says] (p.50) “Indeed, it’s a bit troubling that she risked her expulsion without consulting the class. But bringing that up would only expose the fact that we were all dependent on her.”
+[says] (p.51) “That’s the problem. There’s the class’s cheap pride from having maintained Class A up to this point too. But we can’t keep dreaming forever. The class points we lost due to our defeat and Sakayanagi Arisu’s voluntary withdrawal were too painful. We must understand that.”
+[says] (p.51) “It seems to vary depending on the circumstances, but this time, we were given the heaviest penalty since Sakayanagi Arisu acted out on her own personal convenience. We lost 300 class points.”
+[says] (p.51) “It’s the sound of the Ai-chan computer calculating. Don’t you even know that, Yamamura Miki? That’s why people around you say you’re gloomy, antisocial, and that your presence is more transparent than tissue paper.”
+[says] (p.51) “At least that’s what I’d say.”
+[says] (p.52) “Anyway, please don’t interrupt. Durururururururu—Don!”
+[says] (p.52) “The probability of seizing Class A on our own strength is about 10%.”
+[says] (p.52) “You, Yamamura Miki, the ‘thin paper,’ also mentioned it, but everyone is in a state of vigil.”
+[says] (p.52) “It’s like a nickname. Isn’t it cool?”
+[says] (p.52) “Do you want me to stop?”
+[says] (p.52) “I see. You mean whether Ichinose Honami is present doesn’t make much difference. You really spit venom.”
+[says] (p.52) “So what if it’s the same situation? Because they seem positive, there’s a possibility for Class A? Let me be clear—incompetent allies are more terrifying than competent enemies. In this situation, those who still have frivolous thoughts have no tomorrow.”
+[says] (p.52) “I thought it was unnecessary for me to intervene as long as Sakayanagi Arisu was in command, but...”
+[says] (p.52) “That’s impossible.”
+[says] (p.53) “Unfortunately, I’m not the type to lead people at the forefront. Therefore, it’ll be troublesome, but we’ll need to select a new leader for the class during spring break. I had hoped to finish all this before Sakayanagi Arisu left school. What I can do is guide us on that front and steer the discussion towards the accumulation of private points.”
+[says] (p.53) “Let’s end the small talk here. Shall we hear the reason you called us today?”
+[says] (p.53) “You’re not planning to mock our current situation, are you? The new Class A’s Ayanokōji Kiyotaka.”
+[says] (p.53) “Then you might as well ask the traitor. I’m sure they’ll tell you more than you need to know.”
+[says] (p.53) “My apologies. I misspoke. Anyway, the situation is as I just explained.”
+[rel:yamamura-miki] (p.43–53) She rides Yamamura relentlessly; nicknames her ‘thin paper’.
+[rel:ayanokouji-kiyotaka] (p.43–53) She explains Class A's true situation to him; she is not willing to become the class leader herself.
+[rel:sakayanagi-arisu] (p.50–53) She blames Sakayanagi's solo expulsion for Class A's collapse.
+[note] (p.48–49) Her shield-shrimp diary (Day 1–16) is shown verbatim to Ayanokōji and Yamamura; the last one died on Day 16.
 
-<!-- walk: y2v12.5 Ch.6 → p.106 -->
-
-### y2v12.5 p.43-218 — Morishita elsewhere in this volume
-[scene] (p.43) Named in this volume.
-[note] (p.43) Locator pages beyond p.105-106: p.43, p.45, p.47, p.50-54, p.84, p.94-95, p.102-104, p.211-212; not line-by-line verified; substring false positives possible. Not a verified scene presence.
-
-<!-- walk: y2v12.5 Epilogue → p.212 -->
+<!-- walk: y2v12.5 Ch.3 → p.53 -->
 
 ## y3v1
 

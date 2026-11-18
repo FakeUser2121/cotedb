@@ -296,10 +296,13 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — hoshinomiya-chie mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.10, p.20, p.40, p.50, p.65, p.84-86; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.10–11 — Monologue: her motive
+[scene] (p.10) A monologue printed before Chapter 1: Chie Hoshinomiya recounts that Sae-chan (Chabashira) was her best friend and rival; she became a teacher for one purpose — to eliminate all hope from Sae's dream of graduating a Class A; she traces her resentment to the day Sae failed to graduate from Class A eleven years ago.
+[note] (p.10) A TL NOTE printed in-line under her vow explains it literally reads "So as long as I can see."
+[scene] (p.11) She swears that if her class loses the year-end special exam and Sae-chan's class becomes Class A, at worst she will stop it by any means necessary — even if she is branded a failure as a teacher and driven out of the profession.
+[note] (p.11) The monologue reframes everything that follows: her patience and her hostility toward Ayanokōji in Ch.3 both flow from this oath.
+
+<!-- walk: y2v12 ch1 → p.25 -->
 
 ## y2v12.5
 

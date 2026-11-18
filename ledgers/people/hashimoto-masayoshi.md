@@ -1009,7 +1009,9 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — hashimoto-masayoshi mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.20, p.49-52, p.59, p.162, p.165-166, p.173-174; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.20 — Ch.1: Mentioned
+[scene] (p.20) Named during his own private reckoning about the coming exam.
+[mentioned] (p.20) p.20: he reflects on a conversation with Hashimoto and recalls that there was one point he had not originally anticipated, involving Sakayanagi and Ryūen.
+[note] (p.20) Named only; not present; recalled as the back-channel through which the competitive balance might be tipped.
+
+<!-- walk: y2v12 ch1 → p.25 -->

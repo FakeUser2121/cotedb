@@ -5803,10 +5803,38 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — ayanokouji-kiyotaka mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.21, p.23, p.31, p.33, p.38, p.43; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.12–19 — Ch.1: The announcement
+[scene] (p.12) The second week of March, Thursday. Chabashira-sensei, our homeroom teacher, appears with a calm demeanor; the announcement the class has waited days for finally comes, prefaced by a personal story about her eighth year at the school.
+[says:chabashira-sae] (p.12) "I will now announce the end-of-year special exam and its contents. But before that, I would like to share a little personal story."
+[scene] (p.13–14) The monitor shows the rankings as of March 1 (Class A 1098, Class B 983, Class C 730, Class D 654); Class A is led by Sakayanagi, Class B by Horikita, Class C by Ryūen, Class D by Ichinose; Chabashira frames the class as the one that dispelled the "defective goods" image, and admits Class B is not the goal — Class A is within reach (roughly 100 points behind).
+[rule] (p.13) End-of-year special exam role call: Class A vs Class C; Class B vs Class D. Sakayanagi leads Class A, Horikita leads Class B, Ryūen leads Class C, Ichinose leads Class D.
+[scene] (p.15–16) Overview revealed: venue the special building; each class must select three representatives by the Sunday deadline (vanguard 5 lives, middle guard 7, general 10); at least one representative from each gender; substitutes may be designated; ties impossible; win goes to the class whose general outlasts the opponent's.
+[says:hirata-yousuke] (p.16) "Are you saying that the outcome of the special exam is decided by just these three representatives?"
+[says:horikita-suzune] (p.18) "...A battle through conversation... Could that be a possibility?"
+[says:chabashira-sae] (p.18) "That's right. But as I've just told you, I can't tell you anything beyond what I've explained."
+[scene] (p.17–19) Even the homeroom teacher hasn't been told the details; the class waits for the specifics to arrive on exam day; Chabashira guesses it is not a physical contest (venue and gender mix); reward 200 class points to the winner (250 to this class given the unanimous-exam clause); Yōsuke or Kushida mentioned as plausible candidates for a dialogue-based exam.
+[says:chabashira-sae] (p.19) "And as for the crucial reward, the winning class will earn 200 points."
+[rel:chabashira-sae] (p.12–19) Reads her like a book; her eighth year ends with the class nearly Class A; nothing she says this morning is known to her in advance.
+[rel:horikita-suzune] (p.18–19) Her line "a battle through conversation" hangs in the air unanswered; the possibility of a discussion-based exam is first voiced in this exchange.
+
+### y2v12 p.20–23 — Ch.1: Walking home with Kei
+[scene] (p.20) The walk home; he reflects on the fact that one of Ryūen and Sakayanagi is certain to be expelled after this exam — whichever loses, there will be no draws; his dream of keeping all four classes alive for Class A is effectively crushed; both Horikita Manabu's and Nagumo Miyabi's classes had created dominant systems, and he had hoped to build a four-class battle instead; he decides to hold back on his plan to interfere.
+[says:karuizawa-kei] (p.21) "Were you thinking about something? You were, right?"
+[says] (p.21) "What's up?"
+[says] (p.22) "Yes, all four of them. Do you dislike me meeting Ichinose?"
+[says] (p.23) "It's fine. Let's go to a movie together after the exams are over."
+[rel:karuizawa-kei] (p.20–23) She catches his preoccupation; quails at Ichinose's name; accepts the cancelled date while asking to spend more time together; he declines the sleepover; she bites her lip and apologizes.
+[note] (p.20) The Ryūen–Sakayanagi bet (loser expelled) is recalled here as the reason one leader is certain to vanish; whether to rescue either of them is the unresolved thread driving the rest of the volume.
+
+### y2v12 p.24–25 — Ch.1: Setting the meetings
+[scene] (p.24) Sunday eve; back in the dormitory he messages the four leaders for Saturday/Sunday (Horikita: Friday to Sunday, worded differently); Ryūen replies first, accepting a Friday meeting; Ichinose replies proposing Saturday; Horikita replies, hoping to discuss the exam; Sakayanagi replies requesting a phone call on Sunday night.
+[scene] (p.25) His plan is set: Horikita at the Keyaki Mall café early Friday evening; Ryūen at a karaoke room Friday 7 PM; Ichinose at a bench by the school route before the gym Sunday morning; Sakayanagi by phone Sunday night; plus several side matters he decides to settle first.
+[rel:ryuuen-kakeru] (p.24–25) Replied first, to a Friday slot; karaoke chosen as the venue.
+[rel:ichinose-honami] (p.25) Meets Sunday morning at a bench before the gym.
+[rel:sakayanagi-arisu] (p.25) Accepts a Sunday-night phone call in place of a meeting.
+[rel:horikita-suzune] (p.25) Meets her at the mall café Friday first.
+
+<!-- walk: y2v12 ch1 → p.25 -->
 
 ## y2v12.5
 
@@ -5842,6 +5870,32 @@ walk: y1v1 → DONE
 [rel:kushida-kikyou] (p.24–25) Kushida reads him exactly and warns him she needs a safe position in the class.
 
 <!-- walk: y2v12.5 Ch.1 → p.25 -->
+### y2v12.5 p.43–53 — Ch.3: Meeting Morishita and Yamamura behind the dorm
+[scene] (p.43) Spring break has begun; Ayanokōji waits near the dormitory for Morishita and Yamamura, then calls Yamamura when they are late.
+[says] (p.43) “Maybe I should try calling Yamamura then.”
+[scene] (p.45) He finds Morishita crouching to observe insects with a magnifying glass while Yamamura hovers nearby.
+[says] (p.45) “What are you doing here?”
+[says] (p.45) “...You’re doing what?”
+[says] (p.45) “It’s not that I didn’t hear... I just couldn’t understand...”
+[says] (p.47) “How long have you been doing that?”
+[says] (p.47) “If there’s no appointment, it’s not a problem, but if there is an appointment, isn’t it a problem?”
+[says] (p.47) “Eh... really? That’s a bit hard to believe...”
+[says] (p.49) “I’ll pass...”
+[says] (p.50) “You’re planning to charge for it, huh?”
+[says] (p.50) “I appreciate the offer, but let me hold off on it. It’s a busy time for me right now.”
+[says] (p.50) “It’s a shame that Sakayanagi’s expulsion was decided just when we had become friends.”
+[says] (p.50) “You wouldn’t dream of such exchanges happening outside this school’s rules.”
+[says] (p.50) “What do you think your class should do now?”
+[says] (p.51) “That’s right. Given the situation, the only option is to switch to accumulating private points and aim to send a few students to the official Class A by the end of the third year. If the circumstances are favorable, even students like you could be saved, Yamamura Miki.”
+[says] (p.51) “But there will still be some who won’t give up easily.”
+[says] (p.51) “By the way, what’s the penalty for voluntary withdrawal? The other classes haven’t been informed.”
+[says] (p.53) “I have no intention of mocking you. I was just curious about the situation.”
+[rel:morishita-ai] (p.43–53) He gathers information from her about Class A's situation.
+[rel:yamamura-miki] (p.43–53) He consoles her about Sakayanagi's withdrawal.
+[rel:sakayanagi-arisu] (p.50–53) Her voluntary withdrawal has cost Class A 300 class points and left the class with about 800 points.
+
+<!-- walk: y2v12.5 Ch.3 → p.53 -->
+
 ## y3v1
 
 <!-- walk: y3v1 → start -->
@@ -9631,3 +9685,126 @@ walk: y1v1 → DONE
 [rel:karuizawa-kei] (p.30) He texts Kei about dinner in the store and settles on what she wants plus his own microwave side dishes.
 
 <!-- walk: y2v11 ch1 → p.33 -->
+
+### y2v11 p.34–44 — Ch.2: The bus, Kei, and the training-camp briefing
+[scene] (p.34) 9:30 Thursday morning; buses in front of the school; nine buses instead of twelve; five third-years per class called up; Kei clings to his arm.
+[says:karuizawa-kei] (p.34) “I'll sit with Kiyotaka.”
+[says:karuizawa-kei] (p.35) “Oh, that's right. I found out yesterday that my favorite movie’s going to be screened soon. Let's go see it together when it starts.”
+[says:karuizawa-kei] (p.35) “Yay! It's super interesting. I think you’ll enjoy it too”
+[note] (p.35) The movie starts March 26, inside spring break; he agrees to see it.
+[says:chabashira-sae] (p.35) “I think it's about time to explain the details of the training camp. As I mentioned briefly at school, it has been decided to hold a three-night, four-day experiential learning exchange meeting for all years.”
+[says:chabashira-sae] (p.36) “Let me remind you not to take the exchange meeting as a special exam. There will be no change in class points this time.”
+[note] (p.37) The absentees: two second-years (Ichihashi, Ichinose) and four first-years, including Ishigami; he wouldn't get the chance to deal with them.
+[note] (p.38) Kei is Group 7 with Tanaka-senpai; he is Group 20, led by Kiryūin.
+[note] (p.39–40) Nagumo's group is stacked: Takahashi, Tōdō, Amasawa; Hagiwara, Fukuchi; Namekawa, Iguchi; Tatewaki, Osaki; second-years Sanada, Sawada, Horikita, Hirata, Kaneda, Katsuragi, Kanzaki — all high-OAA.
+[note] (p.39) “Um... Chabashira-sensei. May I ask a question?” — raised by a Sonoda; both twins Chiyo and Masashi are rostered; the text does not distinguish them; attribution unresolved.
+[says:ike-kanji] (p.39) “Wow, it's true. Isn't Nagumo-senpai's group quite dangerous?”
+[says:chabashira-sae] (p.40) “Some of you may think the group assignments are a bit unfair, but there's nothing we can do about it. It's only natural that excellent students are attracted to stable groups.”
+[note] (p.42) Game overview: three days; Day 1 five matches, Days 2–3 seven each; round-robin; five first/second-years per match; third-years lead; content picked randomly from experiential list (oshibana, pottery, UNO, table tennis, flower arrangement, bonsai).
+[note] (p.39) Group ranking rewards: 1st 30,000 private points each; 16th–20th get 1,000; points non-transferable, Keyaki Mall only.
+[rel:karuizawa-kei] (p.34–44) Rides with her; she freezes at his reaction to the date and resumes with her character-chart talk.
+[rel:hondou-ryoutaro] (p.37) He hands out the remaining printouts.
+[rel:chabashira-sae] (p.35–44) She explains the camp on the bus and answers Sonoda's question with a stern look.
+[rel:ike-kanji] (p.39) Ike comments on Nagumo's group.
+
+### y2v11 p.45–52 — Ch.2: Arrival; Group 20 assembles
+[scene] (p.45) The buses stop at an old bubble-era inn in the mountains; Group 20 forms up; Kiryūin waits with hands in her jacket pockets.
+[says] (p.45) “I look forward to working with you for the next three days, Kiryūin-senpai.”
+[says:hashimoto-masayoshi] (p.46) “Hey, I never thought I'd be teaming up with you in this way.”
+[says:shiina-hiyori] (p.47) “Good morning, Ayanokōji-kun.”
+[note] (p.46) Group 20, 16 first/second-year students: 1-A Toyohashi, Kosumi; 1-B Yanagi, Eikura; 1-C Tsubaki, Shintoku; 1-D Obokata, Jute (printed “Jute Misora”); 2-A Hashimoto, Yamamura, Morishita; 2-B Kiyotaka, Nishimura; 2-C Oda, Shiina (Hiyori); 2-D Hatsukawa.
+[note] (p.47) Hashimoto overlooks Yamamura in the count — she is the seventeenth; she apologizes anyway.
+[note] (p.49) Kiryūin disbands the group for lunch; Hashimoto insists they eat as a unit; the leader leaves alone; Hashimoto takes the first-years' lead.
+[rel:kiryuin-fuuka] (p.45–52) Leader of Group 20; she leaves them to manage themselves.
+[rel:hashimoto-masayoshi] (p.46–52) He appoints himself coordinator, creates a group chat, and runs a confidence-rating survey across the group.
+[rel:morishita-ai] (p.49–50) She greets him by full name.
+[rel:yamamura-miki] (p.47–48) Overlooked in the count again; Kiyotaka notices her.
+[rel:shiina-hiyori] (p.47–52) He finds her reliable; she advises him about Yamamura.
+[rel:kouenji-rokusuke] (p.49–50) Group 6's Kōenji slips off alone; Inogashira is stuck with him.
+
+### y2v11 p.53–62 — Ch.2: The break-room match offer
+[scene] (p.53) Just before one in the afternoon; Hashimoto keeps the first-years busy; Kiyotaka meets Nagumo and Asahina in the Rest Area.
+[says:nagumo-miyabi] (p.53) “Need? Well, it's not much of a need, but I do have something to talk about.”
+[says:asahina-nazuna] (p.53) “Hey there, Ayanokōji-kun.”
+[says:nagumo-miyabi] (p.54) “Many of us third-years are dealing with exams and job hunting at this time.”
+[note] (p.54) Both Nagumo and Asahina are heading to university; Nagumo's university choice is Horikita Manabu's university.
+[says:nagumo-miyabi] (p.56) “I'm going to university. I have no intention of using the Class A privilege.”
+[says:asahina-nazuna] (p.56) “But Ayanokōji-kun hasn't done anything wrong. It's not fair that he's being targeted by you. Why are you so persistent in targeting him?”
+[says:nagumo-miyabi] (p.56) “This guy right here. Ayanokōji was using Suzune to keep an eye on me.”
+[note] (p.57) The match's rationale: he believes Kiyotaka used Suzune to watch him; he served as student council president until Horikita Manabu passed the baton to him.
+[says:nagumo-miyabi] (p.58) “You participate in all the games. And when you lose three times, that's your defeat.”
+[says:nagumo-miyabi] (p.59) “If I make being undefeated a condition and you lose in the first battle, it would be a real turn-off, right?”
+[says:nagumo-miyabi] (p.59) “Of course, I've told Kiryūin that you're participating in all the games.”
+[note] (p.58–59) The bet: Kiyotaka plays every match; three individual losses end his challenge; Group 20's pooled record is irrelevant; Nagumo has already negotiated with Kiryūin behind the scenes.
+[says:kiryuin-fuuka] (p.60) “If you want, I can even give you the authority as the leader. Of course, on the surface, I'll make it look like I chose the participants.”
+[says:kiryuin-fuuka] (p.61) “It's a rare opportunity involving Ayanokōji. Of course I want to meet his expectations.”
+[note] (p.60–61) Kiryūin knew about the match in advance; she proposes handing over leader authority; Kiyotaka declines; Nagumo shrugs it off.
+[rel:nagumo-miyabi] (p.53–62) Nagumo offers a match inside the exchange meeting: Kiyotaka plays all games, three losses end it; Kiyotaka accepts.
+[rel:asahina-nazuna] (p.53–62) Asahina rides along; she argues his cause then falls back; she heads off to her own group's duty.
+[rel:kiryuin-fuuka] (p.60–62) She wants only to watch the match.
+
+### y2v11 p.62–66 — Ch.2: Amasawa intercepts
+[scene] (p.62) Nagumo and Asahina leave; only Amasawa and Kiyotaka remain in the hallway; she had been told to wait but barged in anyway.
+[says:amasawa-ichika] (p.63) “I promised to contribute to getting first place.”
+[says:amasawa-ichika] (p.64) “Eh~ it is. Look, if I'm aiming for Nagumo-senpai, she's my rival.”
+[says:amasawa-ichika] (p.65) “We were told in advance what kind of exchange meeting would be held.”
+[note] (p.65) The advance knowledge came via Yagami and Tsukishiro; Kiyotaka notes the contradiction with her claim that she wasn't allowed in the discussion.
+[note] (p.66) She wanted onto Nagumo's side for his aura; she realizes 19 games can be meaningless to him; she admits the match is more stimulating from afar.
+[rel:amasawa-ichika] (p.62–66) She courts both sides' attention; she reveals insider knowledge of the camp's planning.
+[rel:nagumo-miyabi] (p.62–66) Nagumo tolerates her; she keeps angling for him.
+
+### y2v11 p.67–69 — Ch.2: Telling Hashimoto
+[scene] (p.67) The next morning; game details announced; he tells Hashimoto about the match in the shared room.
+[says] (p.67) “It's not the development I wanted.”
+[says:hashimoto-masayoshi] (p.67) “You always do things that are beyond my imagination. You know that, right?”
+[says:hashimoto-masayoshi] (p.67) “And it's not about the results of this group battle, but about your individual performance. That's amazing. You're being asked to win 17 out of 19 games.”
+[says:hashimoto-masayoshi] (p.68) “I'll also try to extract as much information as possible at that time, but if Kiryūin-senpai doesn't make a move, your power is indispensable. So when it gets dark, you'll have to cooperate to get along with the first-year students, okay?”
+[note] (p.68–69) Hashimoto's motives: he wants the group prize; he asks for a performance-based cut; he takes the first-years under his wing.
+[rel:hashimoto-masayoshi] (p.67–69) Kiyotaka fills him in on the Nagumo arrangement; Hashimoto folds the meeting into his own information game.
+
+### y2v11 p.70–73 — Ch.2: Oshibana; Nanase; Inogashira's plea
+[scene] (p.70) Day 1 first match: oshibana vs Group 9 (Horikita's class; Ike present); Takahashi spectates on Nagumo's orders; Kiyotaka is entered as third.
+[says:nanase-tsubasa] (p.70) “Do you also make oshibana, Ayanokōji-senpai?”
+[says] (p.71) “No, I've never done it. I just got a little guidance from a friend.”
+[says:nanase-tsubasa] (p.71) “I see. I thought you were good at it because you were the only boy participating.”
+[note] (p.71) His guide was Shiina Hiyori; she makes oshibana bookmarks; he wins his match head-on.
+[note] (p.71) Group 20 takes the oshibana match 3–2; he enjoys the work more than the contest.
+[says:kiryuin-fuuka] (p.71) “A victory's a good start. Though, I didn't feel any tension.”
+[says:inogashira-kokoro] (p.72) “Um… uh, you're good friends with Kōenji-kun, aren't you, Ayanokōji-kun?”
+[note] (p.72–73) Tatebayashi harshly ordered Kōenji back; Inogashira begs for his help; he refuses — twice, with Kiryūin present; she bows and leaves.
+[rel:nanase-tsubasa] (p.70–71) Class 1-D; asks about oshibana; beaten head-on.
+[rel:inogashira-kokoro] (p.72–73) She turns to him to retrieve Kōenji; he declines.
+[rel:shiina-hiyori] (p.70–71) She was his oshibana coach.
+[rel:takahashi-osamu] (p.70) He spectates on Nagumo's instructions.
+
+### y2v11 p.74–78 — Ch.2: Kōenji on the mountain path
+[scene] (p.74) During the 30-minute interval he hunts Kōenji; finds him on an abandoned dog park above the inn.
+[says] (p.74) “It took me quite some time to find this place. I didn't know there was a place like this here.”
+[says:kouenji-rokusuke] (p.74) “Ayanokōji boy, do you need something from me?”
+[says] (p.74) “I saw you leaving the group on your own. I thought I'd ask you about how you felt.”
+[says:kouenji-rokusuke] (p.75) “I'll tell you something special. One plus one equals two. The answer doesn't change no matter how many times you solve it.”
+[says:kouenji-rokusuke] (p.75) “One plus one equals two is the answer. The world is always simple and clear.”
+[says] (p.75) “That depends on how you look at it. In decimal, that's true, but in binary, one plus one equals ten.”
+[note] (p.75) Kōenji refuses to compete because those around him are beneath him; he went first in the island test only to distance himself from “kindergarteners.”
+[says:kouenji-rokusuke] (p.75) “The reason I went out of my way to get first place in the deserted island test was to distance myself from such kindergarteners.”
+[says:kouenji-rokusuke] (p.77) “I'll gladly tell you. The source is adaptability. I won't succumb to any environment.”
+[says:kouenji-rokusuke] (p.76) “The answer is extremely simple. Whether it's me or not. That determines the superiority or inferiority.”
+[says:kouenji-rokusuke] (p.78) “Because if you step out of the class, you won't be able to protect Horikita girl, right?”
+[note] (p.78) He sees through Kiyotaka's aim to keep Horikita Suzune in the fight ahead; Kiyotaka accepts he can't be moved.
+[rel:kouenji-rokusuke] (p.74–78) He visits to extract Kōenji from Group 6; Kōenji refuses participation altogether.
+
+### y2v11 p.79–84 — Ch.2: The swing; the day closes 5–0
+[scene] (p.79) Early afternoon; reports to Kiryūin; told she's at the east-side park; finds Kiryūin and Asahina on the swings talking future plans.
+[says:asahina-nazuna] (p.80) “We were talking about various things, but right now, we were talking about our future plans. I was curious about Fūka-chan's future.”
+[says:kiryuin-fuuka] (p.81) “Hmm? I’m not aiming for anything. I’m not trying to become anything.”
+[says:kiryuin-fuuka] (p.82) “Because it's such a corrupt world, there are also those who shine. He was one of the few people I admired.”
+[says:kiryuin-fuuka] (p.82) “It's Kijima-san. He's become quite important now.”
+[note] (p.82–83) Kiryūin's dream: to be a politician like Kijima; family met politicians; most were corrupt; she admires Kijima; her family name follows her.
+[says] (p.82) “I'm just being targeted by curiosity seekers. The next game is about to start.”
+[says:asahina-nazuna] (p.82) “Oh, is it that time already? I need to hurry!”
+[note] (p.83) He tells Kiryūin about Kōenji's refusal; she is pleased he failed.
+[note] (p.84) Results: oshibana, pottery, table tennis ×2, jewelry making; five straight wins for Group 20; Takahashi follows all games for Nagumo.
+[rel:kiryuin-fuuka] (p.79–84) She talks about Kijima on the swing; she wanted him to fail with Kōenji.
+[rel:asahina-nazuna] (p.79–83) Asahina chases Kiryūin's future plans; leaps off the swing nearly face-planting.
+
+<!-- walk: y2v11 ch2 → p.84 -->

@@ -3645,10 +3645,18 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — horikita-suzune mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.13, p.17-18, p.20, p.22, p.24-38, p.42-43; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.18 — Ch.1: "A battle through conversation"
+[scene] (p.18) After Chabashira says even the teachers aren't told the details, Horikita stands and offers the first guess in the room: conversation as the exam's currency.
+[says] (p.18) "...A battle through conversation... Could that be a possibility?"
+[note] (p.16–17) She is named as the class leader on the rankings page ("Class B by Horikita"); her class has 38 students — exactly 3 representatives + 35 participants, so one absence costs 5 points.
+[rel:ayanokouji-kiyotaka] (p.16–19) Notices his calm here the same as everyone else; his behavior matters more than she says aloud.
+
+### y2v12 p.24–25 — Ch.1: Agrees to meet first
+[scene] (p.24) That evening he messages her before the others; she had already intended to discuss the end-of-year special exam with him; the text he sends is worded to allow Friday–Sunday rather than only the weekend.
+[scene] (p.25) About an hour after the first exchange she replies, asking to discuss the exam; place and time flexible; he decides to meet her at the Keyaki Mall café after school on Friday; she will be the first of the four meetings.
+[rel:ayanokouji-kiyotaka] (p.24–25) Reaches out at the same time as everyone else; the Friday slot reserved for her.
+
+<!-- walk: y2v12 ch1 → p.25 -->
 
 ## y2v12.5
 

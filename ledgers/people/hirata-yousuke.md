@@ -1647,10 +1647,14 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — hirata-yousuke mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.16, p.19, p.30-31, p.64-65, p.67, p.69; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.16–19 — Ch.1: Asks about the representatives
+[scene] (p.16) When Chabashira-sensei sketches the exam, he asks the obvious question aloud — whether class fate really rests on just three representatives — prompting her to explain that all remaining students also have assigned roles.
+[says] (p.16) "Are you saying that the outcome of the special exam is decided by just these three representatives?"
+[note] (p.16) His worry voices the room's; the rest of the class is equally fixated on the same point.
+[note] (p.19) Named as a prime candidate for selection if the exam turns out to reward communication skills (with Kushida); whether he'd be chosen is not decided on-page here.
+[rel:chabashira-sae] (p.16) Draws out of her the existence of unspecified participant roles.
+
+<!-- walk: y2v12 ch1 → p.25 -->
 
 ## y2v12.5
 

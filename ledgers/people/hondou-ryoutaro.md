@@ -183,6 +183,12 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 [note] (p.11) Passing mention (locator pages: p.37, p.90; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
+### y2v11 p.37 — Ch.2: The printouts
+[scene] (p.37) Midway through the briefing; sitting in front of Kiyotaka and Kei, he stands and hands out the remaining printouts.
+[note] (p.37) The printouts carry the group assignments, the reward table (1st–20th private points), and the point-card conditions; a business-card-sized folded card is clipped in; Kei takes hers and passes them back.
+[rel:karuizawa-kei] (p.37) Kei takes the printouts from him and passes them further back.
+
+<!-- walk: y2v11 ch2 → p.84 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -191,4 +197,3 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 [scene] (p.12) Named in this volume.
 [note] (p.12) Passing mention (locator pages: p.156, p.159; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.12) Passing mention only.
-
