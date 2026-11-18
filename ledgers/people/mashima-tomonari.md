@@ -360,6 +360,12 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 
 <!-- walk: y2v9 → start -->
 
+### y2v9 p.124 — Mashima mentioned in passing
+[scene] (p.124) Named in the gym scene — "I often see Mashima-sensei here as well."
+[note] (p.124) Passing mention; not a scene presence.
+
+<!-- walk: y2v9 Ch.5 → p.124 -->
+
 
 
 ## y2v9.5

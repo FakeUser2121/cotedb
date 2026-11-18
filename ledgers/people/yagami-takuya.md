@@ -222,6 +222,14 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 
 <!-- walk: y2v9 → start -->
 
+### y2v9 p.36, 61, 65–66 — Yagami mentioned in passing
+[scene] (p.36) Named — Nagumo orders Horikita to appoint a first-year student council member; "Yagami unexpectedly dropped out of school."
+[note] (p.61) Named — there was still a vacancy with Yagami leaving.
+[scene] (p.65–66) Named — "Yagami-kun this year" in the context of students applying to join the student council.
+[note] (p.36, 61, 65–66) Passing mentions; Yagami is not present in any scene.
+
+<!-- walk: y2v9 Ch.2 → p.66 -->
+
 
 
 ## y2v9.5

@@ -164,6 +164,13 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 
 <!-- walk: y2v9 → start -->
 
+### y2v9 p.151 — Kitō speaks in the café study session
+[scene] (p.151) At the café study session, he throws a firm remark against Hashimoto's suggestion.
+[says] (p.151) "No, I understand what you're saying, Princess. However… I'm wary of Class B. It's not a bad thing to think that they might catch up to us if we're not careful, is it?"
+[trait] (p.151) Quiet but firm when he speaks.
+
+<!-- walk: y2v9 Ch.5 → p.151 -->
+
 
 
 ## y2v9.5

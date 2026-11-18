@@ -19,6 +19,12 @@ char_id: minami-hakuo · class: unknown · status: unknown
 
 <!-- walk: y2v9 → start -->
 
+### y2v9 p.114 — Minami-hakuo mentioned in passing
+[scene] (p.114) Named in the Sakayanagi ultimatum scene — "Minami-kun" as one of the options.
+[note] (p.114) Passing mention; not a scene presence (locator false positive on "Minami").
+
+<!-- walk: y2v9 Ch.6 → p.114 -->
+
 
 
 ## y2v12

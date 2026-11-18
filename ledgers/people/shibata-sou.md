@@ -328,6 +328,13 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 
 <!-- walk: y2v9 → start -->
 
+### y2v9 p.90, 144 — Shibata mentioned in passing
+[scene] (p.90) Named in Watanabe's conversation — "Shibata would cry if he found out."
+[scene] (p.144) Named in the Ryuuen confrontation — Shibata stops Ishizaki and Albert from barging in.
+[note] (p.90, 144) Passing mentions; not a distinct scene presence.
+
+<!-- walk: y2v9 Ch.3 → p.144 -->
+
 
 
 ## y2v9.5

@@ -240,6 +240,12 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 
 <!-- walk: y2v9 → start -->
 
+### y2v9 p.185 — Housen mentioned in passing
+[scene] (p.185) Named in Sakayanagi's ultimatum scene — "Why don't you invite someone like Housen-kun?"
+[note] (p.185) Passing mention; not a scene presence.
+
+<!-- walk: y2v9 Ch.6 → p.185 -->
+
 
 
 ## y2v9.5
