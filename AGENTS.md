@@ -238,6 +238,7 @@ and a reader label.
 | `[rel:<id>]` | relation to another entity, scoped to this volume. Write it on **each** participant's ledger, mirrored from the same scene |
 | `[place:<id>]` `[exam:<id>]` `[class:<id>]` | tags that put the scene on that place, exam or class; the id must exist in `content/` |
 | `[note]` | reasoning about the record itself: inference, absence, ambiguity |
+| `[mentioned]` | passing mention only; not a distinct scene presence. Counts as a mention, not a scene. |
 | `[trivia]` `[role:<key>]` | detail; a post held (student council, faculty) |
 | `[fact]` `[trade]` `[impact]` `[tactic]` `[scope]` `[inference]` `[goal]` `[number]` `[result]` `[flag]` `[narrates]` `[ask]` `[say]` `[think]` | already present in ledgers; use only the way a nearby existing block uses them |
 
