@@ -9472,12 +9472,43 @@ walk: y1v1 → DONE
 [rel:hirata-yousuke] (p.14) Discussed career with him.
 
 <!-- walk: y2v10 Ch.1 → p.26 -->
+### y2v10 p.31–45 — Ch.2: Survival and Elimination Special Exam announced
+[scene] (p.31–33) Thursday of the third term; Chabashira announces the term's first exam; the name hits the room; everyone suspects it means expulsion; the rotation goes A→B→C→D this half.
+[scene] (p.34–40) Rules: categories from literature through entertainment; elimination for three misses; protection by the leader for five students per round; elimination if a class bottom-ranks; rewards all negative except first place; leaders make all decisions; parentheses advisory councils; 20 turns total; negative points track forever.
+[scene] (p.41) Leader eliminated is not replaced; eliminated students don't leave the room; they participate, but nominated protection applies.
+[scene] (p.37–50) Horikita asks the leader-eliminated question; during lunch break; class pretends everything is as usual before discussing future studies and leader trust; Maezono questions Horikita's decisiveness; Horikita agrees to step aside if someone volunteers; nobody does; she stays.
+[scene] (p.50) Sudō forces the Kōenji question into the room; Sudō demands protection for him; silence.
+[scene] (p.51–52) After school, Kei panics over lunch; he answers with precision: 5 protection spots per turn, 20 turns, ~40 classmates, her worth by no means low.
+[scene] (p.53–59) On the way back, he spots Morishita lying on a cold bench; she's been waiting just for him; she studies him and his schedule; she's not impressed by his responses but is curious about his pace; walks away without a clear reason.
+[rel:chabashira-sae] (p.31–46) Explains the rule book's every peculiarity.
+[rel:horikita-suzune] (p.37–50) Tested by Maezono; she declines the honor anyway.
+[rel:karuizawa-kei] (p.51–52) Anxiety and reassurance.
+[rel:morishita-ai] (p.53–59) Lying in wait; curious; tracks him.
+
+<!-- walk: y2v10 Ch.2 → p.59 -->
+### y2v10 p.60–65 — Ch.3: Mii-chan's secret pursuit
+[scene] (p.60–63) On Friday, Mii-chan corners him about someone who sent her food once during those three weeks; she hasn't worked out who it was; the basket contents she lists are too detailed for random chance; she wants to find out.
+[scene] (p.62–65) She's been nervous for six days without knowing; he suggests asking the convenience-store clerk; they walk to a convenience store together.
+[says] (p.60) "I heard that someone was delivering food while I couldn't go out ... I've mentioned it to you before, Ayanokōji-kun, and I wanted to ask for your help."
+[rel:wang-mei-yu] (p.60–65) She swallowed pride asking him; nervously trusts him along for the way.
+
+<!-- walk: y2v10 Ch.3 → p.65 -->
+
+### y2v10 p.66–80 — Ch.3: Kōenji is the benefactor; the gift-hunt
+[scene] (p.66–68) They wait in a bench by the vending area; the clerk reveals "Kōenji, um, Rokusuke-kun" — long-haired blond; the secret deliveries were from Kōenji all along; she thanks him indirectly; watches him harder.
+[scene] (p.68–73) Mii-chan handles the implications fairly calmly; she fakes ordinary gratitude; realizes Kōenji must appreciate charm/Wang-girl gifts; she buys him towels and watches from outside the gym; he benches 200 kg; they wait for him to finish; 40 minutes pass.
+[scene] (p.74–80) They tail him to the mall; he rescues himself with cold outward calm; he tells them he won't accept the gifts; implies her debt goes unnamed; he ignores them; they part with ambiguous farewells; she thanks him for nothing concrete.
+[says] (p.67) "Wang girl."
+[says] (p.67) "He ... Was it really Kōenji-kun?"
+[says] (p.76) "It was me who gave you those items, but why does it matter?"
+[rel:kouenji-rokusuke] (p.66–80) She hunts him down and tries to give thanks for a gift she didn’t ask for.
+[rel:wang-mei-yu] (p.66–80) Together Kōenji and Ayanokōji face down the gift attempt.
+
+<!-- walk: y2v10 Ch.3 → p.80 -->
 
 
-### y2v10 p.9-235 — ayanokouji-kiyotaka mentioned in passing
-[scene] (p.9) Named in this volume.
-[note] (p.9) Passing mention (locator pages: p.8-11, p.16, p.20-22, p.24, p.51, p.53; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.9) Passing mention only.
+
+
 
 ## y2v10.25
 

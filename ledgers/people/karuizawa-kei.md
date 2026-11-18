@@ -1885,12 +1885,17 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [note] (p.10) She waves goodbye repeating "see you later."
 
 <!-- walk: y2v10 Ch.1 → p.10 -->
+### y2v10 p.51–53 — Ch.2: Kei: terrified of the exam
+[scene] (p.51–52) Conducts a full meltdown in the hallway; clings to him; begs to be protected; he answers with statistics, calmly; she clings to his arm; she hopes Horikita will vote fairly; she's asked to wait at lunch break.
+[scene] (p.53) On the way home; they stop for a snack; she spots Morishita on the bench; he tries to drag her onward.
+[says] (p.51) "Hey, hey, Kiyotaka. What will happen to me in this exam…?"
+[rel:ayanokouji-kiyotaka] (p.51–53) She reveals her deepest fear out loud; he soothes her without lying.
+[rel:horikita-suzune] (p.51) Hopes Horikita protects her.
+
+<!-- walk: y2v10 Ch.2 → p.58 -->
 
 
-### y2v10 p.9-235 — karuizawa-kei mentioned in passing
-[scene] (p.9) Named in this volume.
-[note] (p.9) Passing mention (locator pages: p.9-11, p.14, p.16-17, p.29, p.51-53, p.55-60; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.9) Passing mention only.
+
 
 ## y2v10.25
 

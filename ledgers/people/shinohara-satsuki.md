@@ -455,6 +455,13 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 ## y2v10
 
 <!-- walk: y2v10 → start -->
+### y2v10 p.81–82 — Ch.4: Shinohara by Ike's side
+[scene] (p.81–82) Ike blurts about his "winning strategy"; Shinohara is right behind him; she's his girlfriend; notices his one-track idiocy instantly; cheers/clucks him; declares he's unbelievable; sighs when everyone withdraws.
+[says] (p.81) "Wh-what? You do, Kanji? No way!"
+[rel:ike-kanji] (p.81–82) Sits by him; watches him pitch it.
+
+<!-- walk: y2v10 Ch.4 → p.82 -->
+
 
 ### y2v10 p.9-235 — shinohara-satsuki mentioned in passing
 [scene] (p.9) Named in this volume.

@@ -1949,12 +1949,15 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:ishigami-kyou] (p.14) Keisei's top-company strategy is accepted; Hirata chooses his own path.
 
 <!-- walk: y2v10 Ch.1 → p.15 -->
+### y2v10 p.47 — Ch.2: Yōsuke defends Horikita
+[scene] (p.46–47) After the tense pause, he frames the leadership question; everyone pauses; he reassures Horikita that Yōsuke already trusts her; he calls for lunch break.
+[says] (p.47) "Surely, as you said, it would be best if the person who would give us the highest chance of winning becomes leader, but wouldn't Horikita-san make the appropriate decisions to win?"
+[rel:horikita-suzune] (p.47–50) Walks between Maezono's challenge and the class's reluctance.
+
+<!-- walk: y2v10 Ch.2 → p.50 -->
 
 
-### y2v10 p.9-235 — hirata-yousuke mentioned in passing
-[scene] (p.9) Named in this volume.
-[note] (p.9) Passing mention (locator pages: p.14, p.43-47, p.49-51, p.55-56, p.60, p.67; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.9) Passing mention only.
+
 
 
 

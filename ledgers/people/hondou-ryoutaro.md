@@ -160,6 +160,14 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 ## y2v10
 
 <!-- walk: y2v10 → start -->
+### y2v10 p.81–89 — Ch.4: Hondōis the pessimist
+[scene] (p.81–84) He listens hard but asks smart questions; Ike claims the tactic needs the school to allow it; Hondō explains the others would gang up on them; rejects; Ike deflates; Ike cries a lot.
+[says] (p.81) "Dude... I think... I might have an incredible winning strategy...!"
+[says] (p.83) "But, you know, the opponent can only nominate five students, right? We can protect five students each round, but we only have five students left to nominate, right?"
+[rel:yamamoto-soshi] (p.81–84) They volley together; both skeptical but listen.
+
+<!-- walk: y2v10 Ch.4 → p.89 -->
+
 
 ### y2v10 p.9-235 — hondou-ryoutaro mentioned in passing
 [scene] (p.9) Named in this volume.

@@ -288,6 +288,27 @@ char_id: wang-mei-yu · status: minor
 ## y2v10
 
 <!-- walk: y2v10 → start -->
+### y2v10 p.60–65 — Ch.3: The secret admirer
+[scene] (p.60) As he's leaving, she stops him about who sent her food and other items during her absence; days of shame and fear have passed without him telling her; he stays to talk.
+[scene] (p.60–65) Together they go to the convenience store; everyone is away; she trembles; they wait for the store to empty.
+[says] (p.60) "I heard that someone was delivering food while I couldn't go out ... I've mentioned it to you before, Ayanokōji-kun, and I wanted to ask for your help."
+[note] (p.63) Six days of waiting; the fear of never knowing.
+[rel:ayanokouji-kiyotaka] (p.60–65) Forces herself to ask; goes to the convenience store with him.
+
+<!-- walk: y2v10 Ch.3 → p.65 -->
+
+### y2v10 p.66–80 — Ch.3: Kōenji: benchmark সন্ধান; gift exercise
+[scene] (p.66–67) Clerk reveals Kōenji as the mysterious benefactor; Mii-chan goes still; barely proceeds; grabs his arm to follow; they go to the gym and she waits awkwardly.
+[scene] (p.68–73) Mii-chan keeps up a mask of calm; they chat about Kōenji’s 200 kg bench press; she buys towels and watches the stack slip by; he’s finally free.
+[scene] (p.74–80) She and Ayanokōji tail Kōenji to the mall; he spots them; she hands over the towels; he rejects them with dignity; she runs out of things to say; they part.
+[says] (p.67) "Eh, wang-what?"
+[says] (p.74) "I wanted to discuss something with you. Can I take a little bit of your time, please?"
+[says] (p.78) "If ‘someone’ tries to ostracize me, they’d better be prepared."
+[rel:kouenji-rokusuke] (p.66–80) She recognizes his subtle kindness to her during her absence; out-and-proud attempt to return the favor.
+[rel:ayanokouji-kiyotaka] (p.60–80) Present throughout; he carries the embarrassing conversations.
+
+<!-- walk: y2v10 Ch.3 → p.80 -->
+
 
 ### y2v10 p.9-235 — wang-mei-yu mentioned in passing
 [scene] (p.9) Named in this volume.

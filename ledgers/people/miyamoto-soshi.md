@@ -125,6 +125,13 @@ char_id: miyamoto-soshi · class: Class 1-D · status: minor
 ## y2v10
 
 <!-- walk: y2v10 → start -->
+### y2v10 p.81–89 — Ch.4: Miyamoto's skepticism
+[scene] (p.81–85) He questions the acquiring of 68 points; Hondō leads; he follows; he isn't sure what a reasonable strategy looks like; situation resolves without his contribution.
+[says] (p.84) ". Wh ...let me recalculate a little."
+[rel:shinohara-satsuki] (p.81–82) Watches her boyfriend wreck himself.
+
+<!-- walk: y2v10 Ch.4 → p.89 -->
+
 
 ### y2v10 p.9-235 — miyamoto-soshi mentioned in passing
 [scene] (p.9) Named in this volume.
