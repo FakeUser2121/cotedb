@@ -8595,6 +8595,176 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v7 Epilogue → p.207 -->
 
+### y2v7 p.7–16 — Cultural festival rules; OAA results; maid café prep
+[scene] (p.7) Chabashira reviews the cultural festival rules and additional funds — Horikita's class has the most (39,400 pts: 10,000 each for Horikita/Sudō/Onodera), ahead of Ichinose (26,600) and Sakayanagi/Ryūen.
+[trivia] (p.9–10) 283 adults (10,000 pts each) + 202 minors (5,000) = 3,840,000 points across 485 guests; stall locations cost 1,000–50,000 pts (first floor = 50,000); equal sales = equal rank (collusion theoretically possible).
+[trivia] (p.11–12) OAA results: Keisei 1st, Horikita 2nd (3 points behind); Sudō jumps to 11th (C+, 367 total) — a "center of attention" surprise from his studying; bottom 20 within ~15 pts.
+[trait] (p.13–16) During maid café prep (with Horikita and the four originators), learns Haruka may "do something" at the festival (she's still bitter over Airi); proposes photo tickets (800 pts/photo, 1,200 with a maid) as a tie-in, and insists they need a "feel" for the maid café business.
+[rel:horikita-suzune] (p.13–16) Co-organizing the maid café; she's wary of Haruka going "out of control."
+[rel:hasebe-haruka] (p.13–15) She's still hostile; Ayanokōji tells Horikita she has "no intention of working as a maid" — a general role was assigned instead.
+[rel:sudou-ken] (p.11–12, 23) His 11th-place OAA jump — "the center of attention today."
+
+### y2v7 p.17–22 — Sakayanagi scouts; the Ryūen "leak"; maid café planning
+[scene] (p.17) Sakayanagi, Kamuro and Hashimoto tour the special building; Hashimoto needles Horikita about teaming with Ryūen ("do you think you can trust him forever?").
+[says] (p.21) "Since I'm in charge of running the maid café, of course I can't cut corners."
+[trait] (p.19–22) Reveals to the four originators that they'll cooperate with Ryūen again (only they plus Katsuragi know); outlines maid café details (main customers are men, photo tickets, low-cost high-quality food); Horikita is surprised by his knowledge.
+[rel:sakayanagi-arisu] (p.17–18) She watches them with a wry smile — the the leader of Class A
+[rel:hashimoto-masayoshi] (p.17–18) He asks whether she can trust Ryūen — Horikita replies on the same level.
+[rel:horikita-suzune] (p.19–22) He informs her of the plan (she knew only the four originators + Katsuragi in Ryūen's class).
+
+### y2v7 p.23–26 — Sudō's growth; Kei's night; Satō's reaction
+[says] (p.23) "You were the center of attention today, Sudō." / "Huh? Well..." — Sudō
+[says] (p.25) "If you have any trouble, you can always tell me. Well, I'm sure you don't need my help, Ayanokōji." — Sudō
+[trait] (p.23–26) At Keyaki Mall, talks with Sudō — now a "well-balanced" student (C+ academics, A+ physical), no longer a "one-trick pony," thinking about his future beyond high school; he saw Akito/Haruka and asks for help; later, Kei (who stayed the night) takes his hand without hesitation — a step up the staircase of adulthood.
+[rel:sudou-ken] (p.23–25) He's grown through studying for Horikita; admits he might need Ayanokōji's help with Haruka/Akito.
+[rel:karuizawa-kei] (p.26) She stayed the night — "I'm very happy" — growing more confident.
+[rel:satou-maya] (p.26) She spots Kei arriving and gives Ayanokōji "a gaze" — she's still hurt/jealous.
+
+### y2v7 p.27–31 — Ryūen's betrayal: leaking the maid café & copying it
+[says] (p.29) "We were on equal terms. The same goes for the cultural festival proposal." — Ryūen
+[says] (p.29) "We'll have the same concept as you guys." / "Does that mean a maid café?"
+[says] (p.29) "The one who earns as many points as possible will receive 5 million points"
+[trait] (p.27–31) Watches as Ryūen arrives with Ishizaki/Albert/Kaneda and publicly announces the alliance AND that his class will also run a maid café — a "declaration of war," leaking their secret so the whole grade knows; Ryūen pressures Nagumo to bet tens of millions (offering students as collateral), which Nagumo refuses; Ayanokōji suspects Ryūen wants a direct contest (whoever earns more gets 5 million points).
+[rel:ryuuen-kakeru] (p.28–30) He leaks the maid café plan and copies the concept — a calculated "gamble" for the 5-million-point side bet.
+[rel:horikita-suzune] (p.27–29) She confronts Maezono/Ike over the leak and greets Ryūen in the hallway.
+[rel:maezono] (p.27) She angrily asks Horikita whether Ryūen betrayed them.
+
+### y2v7 p.32–43 — Ichinose, Kanzaki, Asahina: Nagumo's plan
+[scene] (p.32) Encounters Ichinose and Kanzaki in line; Ichinose bows and averts her eyes (awkward); later meets Asahina (Mii-chan), who warns him Nagumo may start targeting people close to him.
+[says] (p.38) "Nagumo is saying that he's going to let the non-A's compete and pick one student from the class that takes first place."
+[says] (p.39) Nagumo had never experienced losing, only winning streak after winning streak
+[says] (p.40) "I'm starting to get a little interested in Student Council President Nagumo."
+[trait] (p.32–43) Analyzes Nagumo: he's never truly lost (only beat weaker opponents like Manabu avoided him), so his "warped" desire to compete festers; Mii-chan warns Nagumo could target Ichinose/Kei; realizes Nagumo is a man who has never lost and decides he's now "interested" in challenging him — the "calm before the storm."
+[rel:asahina-nazuna] (p.36–41) Mii-chan meets him secretly, warns him about Nagumo targeting his close ones (Kei/Ichinose) — she knows Nagumo well after three years.
+[rel:ichinose-honami] (p.32, 38) She's awkward around him; her class is falling in points but not disastrous — Nagumo's plan concentrates points on her.
+[rel:kanzaki-ryuuji] (p.32, 42–43) He waits for Ichinose; later explains Nagumo's plan (concentrate private points on one student to win Class A) — impossible to get consensus in Ichinose's class without her.
+[rel:karuizawa-kei] (p.38) Mii-chan warns Nagumo may target Kei.
+
+### y2v7 p.44–53 — The Nagumo negotiation: a match and a favor
+[scene] (p.44) Visits Nagumo in the student council room — a direct, one-on-one negotiation.
+[says] (p.47) "I wasn't interested." — he admits he never needed to involve Nagumo
+[says] (p.48) "I have a proposal for President Nagumo. Can I make a challenge to the student council president this time?"
+[says] (p.50) "If you refuse, that's the end of it. I will never fight the Student Council President again."
+[says] (p.51) "It doesn't matter who it is." — when Nagumo threatens Kei
+[says] (p.52) "If she disappears, she's gone, and that's all there is to it." — his bluff about Kei
+[trait] (p.44–53) Proposes a match (to settle their score) in exchange for a favor — that Nagumo stop targeting Kei/Ichinose/Horikita; when Nagumo threatens Kei, he declares "it doesn't matter who it is" and that he won't retaliate no matter who's expelled — pure sincerity that shocks Nagumo into accepting; afterward he reveals he knew Nagumo would target his classmates anyway ("you knew?"), and delivers a cold bluff that if Kei vanished "she's gone, and that's all there is to it" — Nagumo calls him "crazy" ("loose screws"), but he believes suppressing emotion with the "solution" is sanity.
+[rel:nagumo-miyabi] (p.44–53) He secures a future match with him by agreeing not to interfere with Nagumo's harassment — a calculated trade; Nagumo accepts, "playing" with him.
+[rel:karuizawa-kei] (p.51–52) He publicly bluffs indifference to her expulsion to make the deal credible — his "solution."
+[rel:ichinose-honami] (p.52) Nagumo's plan also targets her; his deal covers her too.
+
+### y2v7 p.54–57 — Kei's maturity; asking Mashima about unstated rules
+[scene] (p.54) After school, messages Kanzaki to meet (off-campus, in the special wing); Kei asks to go home with him but gracefully switches to Satō when he declines — she's grown more mature, even inviting Shinohara (formerly her enemy).
+[says] (p.55) "Ayanokōji, what are you doing here in the special building?" — Mashima-sensei
+[trait] (p.54–57) Overhears teachers discussing how Chabashira has "changed" (laughs more) since the exam; takes the opportunity to ask Mashima about "unstated rules" of the festival (e.g. purchasing a teacher's time with private points) — confirms it's possible; Mashima asks about Chabashira's change, but Ayanokōji deflects.
+[rel:karuizawa-kei] (p.54) She handles his rejection gracefully, going home with Satō and even Shinohara — grown more mature than before.
+[rel:mashima-tomonari] (p.55–57) He confirms unstated rules (buying a teacher's help) are allowed — the "hidden gem" he'll use later.
+[rel:chabashira-sae] (p.55–57) Teachers gossip about her change — Mashima notices; Ayanokōji doesn't explain.
+
+### y2v7 p.57–67 — The Kanzaki–Himeno plan: changing Ichinose's class
+[scene] (p.57) Meets Kanzaki in the special wing; Kanzaki confesses he's been struggling alone — Ichinose's class cannot reach Class A under her "protect everyone" policy, and she never listens to dissent.
+[says] (p.59) "I need your advice on... Ichinose."
+[says] (p.60) "How about now? We kept following Ichinose's policy and lost class points."
+[says] (p.61) "I don't know. I don't know, but I think there is someone more qualified." — on who can move Ichinose
+[says] (p.63) "What needs to change is the class consciousness. By changing the consciousness of the class, you can bring about change in Ichinose."
+[trait] (p.57–67) Deliberately lets Kanzaki unload first (learning the class's inner workings), then reveals he also called Himeno — another quiet dissenter. He argues the class (not Ichinose) must change: if even 2–3 students (all but Ichinose) opposed her policy in the Unanimous exam, she might have broken and even volunteered for expulsion; Kanzaki and Himeno are "the first ones" to change the class; orchestrates the conversation so Kanzaki reveals his true intention (he may transfer classes) to motivate Himeno — "a gamble."
+[rel:kanzaki-ryuuji] (p.57–67) He comes for advice; Ayanokōji manipulates him into revealing his doubts and transfer threat to Himeno.
+[rel:himeno] (p.62–67) She's summoned; reveals she privately thinks white is white even when the class says black, but stays silent due to peer pressure; Kanzaki's threat shakes her.
+[rel:ichinose-honami] (p.59–64) They discuss how to change her without Ayanokōji's direct intervention — she won't listen to others but would change if the class did.
+
+### y2v7 p.71 — Kanzaki's resolve
+[says] (p.71) "It's not too late. Be strong. And defeat the class led by Horikita in the final exam." — Ichinose (to Kanzaki, recounted)
+[says] (p.71) "Ayanokōji, I'll pay you back for this debt in the final exam."
+[trait] (p.71) Kanzaki leaves with renewed resolve — he and Himeno may now work to change Ichinose's class before the end-of-year exam.
+[rel:kanzaki-ryuuji] (p.71) He vows to repay the "debt" by changing his class.
+
+### y2v7 p.72–83 — Preliminary festival; the "love letter" anagram
+[scene] (p.72) Hears from Horikita that the third-years held a "preliminary festival" the day before to test stalls and get third-party evaluations — this was Nagumo's "strange revenge" (a separate budget collected from students); sees Horikita is concerned about losing.
+[says] (p.73) "Defeat doesn't only mean losing class points. But it's just as bad to fail to earn class points."
+[says] (p.75) "You're no longer paying contributions to Kushida-san, right?"
+[trait] (p.72–83) Notices Horikita broadening her horizons; confirms she's stopped paying Kushida (whose personality has profoundly changed); when Ichihashi asks Horikita to deliver an anonymous "love letter" to Nagumo, he realizes it's a trap and uses the situation — Horikita unwillingly becomes the messenger; at the student council meeting Nagumo acts oddly (late, not happy, mentioning "secret notes" and offering meeting records), and Ayanokōji watches Yagami's reactions — the letter is an anagram, a message only certain people can decode.
+[rel:horikita-suzune] (p.72–77) She's growth-minded; he lets her deliver the letter (she's reluctant) to draw out Yagami/Nagumo.
+[rel:nagumo-miyabi] (p.78–81) He acts strangely (late, mentions "secret notes," offers to show meeting records) — part of the anagram trap.
+[rel:yagami-takuya] (p.75, 81) He's the intended "reader" of the anagram letter; Ayanokōji watches for his reaction.
+[rel:kushida-kikyou] (p.75) Horikita has stopped paying her — Kushida has changed.
+
+### y2v7 p.84–92 — Pre-festival prep; Kushida's non-practice; Ryūen's café
+[scene] (p.84) The day before the festival; Horikita's class has four booths (maid café + food stalls); Haruka and Akito left early — suspicion they may sabotage or skip the festival.
+[says] (p.86) "I know what you mean. But I don't intend to remove her." — Horikita, on Kushida
+[says] (p.86) "Don't worry. She's thinking about the festival and the maid cafe in her own way. Just believe in Kushida-san."
+[says] (p.88) "I heard that she had a match with Ryūen-kun for complete exemption from helping at the festival."
+[trait] (p.84–92) Notes Kushida hasn't practiced as a maid at all yet Horikita defends her (she has her own way); watches Ryūen's class set up a Traditional Japanese café (they spent heavily on Japanese attire); Chabashira and Sakayanagi's classes are also preparing; confirms Ryūen can't use his usual tactics with so many guests watching ("there is no need to worry").
+[rel:horikita-suzune] (p.85–86, 91) She refuses to remove Kushida despite others' complaints — "believe in Kushida-san."
+[rel:kushida-kikyou] (p.85–86) She's aloof, doesn't practice with the other maids — but Ayanokōji trusts she has a plan (she visits Horikita late at night).
+[rel:ryuuen-kakeru] (p.88–90) His class runs a competing Traditional Japanese café; he went to check Class A; he had a match with someone (Ichinose?) for exemption from helping.
+[rel:hasebe-haruka] (p.84) She and Akito left early — potentially planning revenge/sabotage.
+
+### y2v7 p.93–100 — Festival simulation: Ishizaki's protein; Onodera's uniform; Sudō's feelings
+[says] (p.96) "Wow, how did an enforcer like you get permission from Ryūen to do this?" — Kei to Ishizaki
+[says] (p.98) "I'm going to surprise my customers tomorrow."
+[says] (p.99) "you have for Horikita, Onodera has for you." — Ayanokōji to Sudō
+[trait] (p.93–100) During the two-hour simulation, runs into Ishizaki selling protein drinks (Ryūen let him "do whatever you want with your points"); Kei refuses to drink it; Onodera wants a maid uniform but her legs are "too thick" — Sudō crouches to measure; Ayanokōji hints to Sudō that Onodera likes *him* the way he likes Horikita — leaving him to decide between them.
+[rel:ishizaki-daichi] (p.96–98) He runs a protein drink stand at the festival (500 pts/cup) — Kei distrusts him but he's grown.
+[rel:karuizawa-kei] (p.96–98) She refuses Ishizaki's drink and glares at him — still not fully trusting.
+[rel:onodera-kayano] (p.99) She wants to be a maid but is self-conscious about her legs; Ayanokōji notes her feelings for Sudō.
+[rel:sudou-ken] (p.99–100) He's conflicted between Horikita and Onodera — Ayanokōji nudges him to decide.
+
+### y2v7 p.101–106 — Yagami contacts Kushida; the anagram setup
+[scene] (p.101) Ayanokōji and Horikita discuss mandatory breaks; Yagami contacts Kushida and pushes her to a location — the "love letter" anagram trap is being sprung.
+[says] (p.102) In a unanimous special exam, Yagami expected Kushida to expel Horikita and Ayanokōji.
+[trait] (p.101–106) Sets up the trap: Yagami, believing Kushida failed to expel them, is lured by the anagram "love letter" he decoded — Ayanokōji anticipates he'll come to the student council room seeking confirmation, where Nagumo, Ryūen and others will be waiting.
+[rel:yagami-takuya] (p.101–106) He's the target of the anagram trap — he decoded the letter and will come to the student council room.
+[rel:kushida-kikyou] (p.101–106) She's contacted by Yagami — used as a pawn in the trap.
+
+### y2v7 p.107–116 — Festival day: the maid café's success; a former guest
+[scene] (p.107) The festival begins at 9 a.m.; rumors swirl that Haruka/Akito may be the ones who leaked the maid café info (Kei says not to jump to conclusions); overall OAA ranking shown — Horikita's class is strong.
+[says] (p.108) "Rumors are rumors. Haruka and Akito didn't actually leak the information."
+[says] (p.113) "New customers, please show them around." — Horikita, in an "inorganic voice" at outdoor advertising
+[trait] (p.107–116) Observes the maid café running smoothly (Horikita awkward at "customer service" but effective at advertising); photos sell for 800 pts; recognizes a guest who visited during the sports festival — connected to the political figures backing the school (Tsukishiro forced the festival through); he's prepared for the if the festival were stuck in a bad situation scenario.
+[rel:horikita-suzune] (p.108–113) She's in charge of the café, awkward as a "maid" but managing.
+[rel:hasebe-haruka] (p.107–108) She and Akito are missing — suspected of leaking the info (unfairly).
+
+### y2v7 p.117–130 — Amasawa restrains Kushida; Ayanokōji intervenes
+[scene] (p.121) Kushida asks to leave her post briefly; she slips away to an indoor pool area to meet Amasawa; Ayanokōji tracks her via phone (a "hidden gem" location) and follows.
+[says] (p.126) "What? Why is... Ayanokōji-kun here..?" — Kushida
+[says] (p.127) "Kushida-senpai will pay you back later, so can you give me a little time?"
+[says] (p.128) "You know, Kushida-senpai, if you say anything bad, I'll have you expelled" — Amasawa
+[says] (p.129) "Let's see if you break Kushida's arm first, or if I can [stop you]."
+[trait] (p.121–130) Finds Amasawa holding Kushida in a painful wrist lock (threatening to break her arm if she reveals something); he calmly challenges her — "let's see if you break Kushida's arm first, or if I can stop you" — then, in under 10 seconds, dives in, frees Kushida and twists Amasawa into a restraint on the ground (Amasawa's fighting skills, learned in the White Room, are real); he understands *why* Amasawa contacted Kushida (to silence her about something important), lets Amasawa go, and returns with Kushida — whose "thank you" surprises him.
+[rel:amasawa-ichika] (p.126–130) She grabbed Kushida to silence her; Ayanokōji overpowers her — she realizes he understood her motive.
+[rel:kushida-kikyou] (p.121–130) She met Amasawa secretly; he saves her from a broken arm — she's shocked and grateful.
+
+### y2v7 p.131–142 — Haruka's revenge; Airi's maid uniform and SNS
+[scene] (p.131) With the café overcrowded, Kushida suggests using the spare maid uniforms; Ayanokōji realizes Haruka and Akito plan to *withdraw* after the festival as revenge (costing ~600 class points), and that Haruka plans to visit Airi afterward.
+[says] (p.135) "I estimate 600 class points for the two of them combined." — Ayanokōji
+[says] (p.136) "This is the festival that Airi was looking forward to."
+[says] (p.137) "You're filthy and disgusting." — Haruka, before lunging at him
+[says] (p.139) "A-ai..." — Haruka, recognizing the maid uniform in the box
+[trait] (p.131–142) Confronts Haruka (Akito restrains her) and gives her Airi's maid uniform (Airi had left it, hoping Haruka would wear it); Kushida arrives and reveals Airi's SNS account — she's now an idol, spreading her wings in the outside world; Haruka breaks down, tears up the withdrawal letter, and decides to wear the uniform; the reason for withdrawal is gone.
+[rel:hasebe-haruka] (p.135–142) She was going to withdraw out of revenge; the uniform + Airi's SNS changes her mind — she returns to the café.
+[rel:miyake-akito] (p.135–142) He was going to withdraw with her; he stays when she does.
+[rel:kushida-kikyou] (p.142–144) She reveals Airi's SNS (she gathered information on everyone) — the key to stopping Haruka.
+[rel:sakura-airi] (p.139–142) Her maid uniform and her new life as an idol (SNS) — the "gift" that saves Haruka.
+
+### y2v7 p.153–160 — Chabashira as a maid: the 100,000-point hire
+[scene] (p.153) With sales close, Ayanokōji invokes the unstated rule (confirmed by Mashima): 100,000 private points buys one hour of a teacher's help — he pays to make Chabashira a maid for the final hour.
+[says] (p.154) "Why should I be the maid!? I'm the homeroom teacher."
+[says] (p.155) "There is nothing in this school that cannot be bought with private points."
+[says] (p.156) "That's not fair, Ayanokōji, using the school rules."
+[says] (p.157) "Standing room only, I've never heard of that idea in a maid cafe."
+[trait] (p.153–160) Pays 100,000 points (over Mashima's objections) to rent Chabashira; changes the café policy to standing room only (1,000 pts entry / 2,000 pts photo with Chabashira) — the novelty draws huge crowds; Chabashira, red-faced, takes 63 photos, "surpassing Kushida" — Chabashira's cosplay wins the festival.
+[rel:chabashira-sae] (p.153–160) He blackmails her into being a maid for an hour via the rules — she becomes the café's biggest draw (63 photos).
+[rel:kushida-kikyou] (p.158–160) She's stunned by the "standing-room-only" crowd and Chabashira's photo count — she tells him he's a nuisance to have around.
+
+### y2v7 p.184–187 — Epilogue: Haruka's apology; the results
+[scene] (p.184) After the festival, Haruka addresses the class — she hasn't forgiven them, but the person she can't forgive most is herself; she and Akito were going to withdraw as revenge (costing 600 class points), but Airi's SNS (idol) showed her Airi had "spread her wings," so she wants to stay and graduate Class A to see her without embarrassment.
+[says] (p.184) "I have not forgiven everyone here."
+[says] (p.185) "After this festival ended, I was going to leave school."
+[says] (p.185) "Airi will grow a lot. Probably more than I thought she would. So I want to be able to graduate in Class A and go see her."
+[says] (p.186) "From now on, you can think of me as your regular Hasebe-san, okay?" — Haruka
+[trait] (p.184–187) Notes Haruka's speech, Horikita's grace ("if you are going to be punished, it will only be by remaining classmates with me"), and that Keisei, Akito and Haruka reconcile — "the group of five was now three," but the bond stronger; he deliberately doesn't approach them (a "farewell"), sensing they don't need him anymore; the results: Horikita's class 1st, Ryūen's 2nd, Sakayanagi's 4th, Nagumo's 3rd-year Class A 11th.
+[rel:hasebe-haruka] (p.184–186) She apologizes and stays; he doesn't rejoin the group — "that place doesn't need me."
+[rel:horikita-suzune] (p.186) She handles Haruka's return with grace — "you made a good decision."
+[note] (p.186) The final ranking: 1st 2nd-year B (Horikita), 2nd 2nd-year C (Ryūen), 3rd 3rd-year B, 4th 2nd-year A (Sakayanagi), 11th 3rd-year A (Nagumo) — "everything is going according to plan."
 ## y2v8
 
 <!-- walk: y2v8 → start -->

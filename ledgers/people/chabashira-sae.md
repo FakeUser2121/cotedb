@@ -1355,6 +1355,10 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v7 Epilogue → p.207 -->
 
+### y2v7 p.153–160, 184 — Chabashira as a maid (epilogue note)
+[note] (p.153–160, 184) Chabashira was blackmailed (via the 100,000-point rule) into working as a maid for the festival's final hour; red-faced, she became the café's biggest attraction (63 photos, "surpassing Kushida"), and "ran out of the classroom like a rabbit as soon as 4 o'clock came" — the "cosplay" is credited by the class for their 1st-place win ("I guess Chabashira-sensei's cosplay really struck!").
+[rel:ayanokouji-kiyotaka] (p.153–156) He paid to rent her as a maid — "using the school rules" against her.
+[rel:horikita-suzune] (p.184) She handled the festival debrief; Chabashira's "cosplay" became a class joke.
 ## y2v8
 
 <!-- walk: y2v8 → start -->

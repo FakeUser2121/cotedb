@@ -663,6 +663,18 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 
 <!-- walk: y2v7 Epilogue → p.207 -->
 
+### y2v7 p.184–186 — Haruka's apology; staying for Airi
+[says] (p.184) "I have not forgiven everyone here."
+[says] (p.184) "But the person I can't forgive the most is myself."
+[says] (p.185) "I had assumed that it was best for Airi to stay at this school."
+[says] (p.185) "After this festival ended, I was going to leave school."
+[says] (p.185) "Airi will grow a lot. Probably more than I thought she would."
+[says] (p.186) "From now on, you can think of me as your regular Hasebe-san, okay?"
+[trait] (p.184–186) Publicly confesses she planned to withdraw with Akito (revenge via 600 class points lost), admits she was wrong about Airi (who's now an idol, spreading her wings), and decides to stay to graduate Class A and see Airi "without embarrassment"; accepts Horikita's "punishment" of remaining classmates, and reconciles with Akito and Keisei — the group of five becomes three.
+[rel:horikita-suzune] (p.186) She accepts Horikita's grace — "remaining classmates with me" as the only punishment.
+[rel:sakura-airi] (p.185) She wants to graduate Class A to see Airi (now an idol) without shame.
+[rel:miyake-akito] (p.185) He was going to withdraw with her; stays when she does.
+[rel:ishigami-kyou] (p.186) He reconciles with her and Akito — the three of them smiled slightly at each other.
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->

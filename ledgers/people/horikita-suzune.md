@@ -4437,6 +4437,36 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v7 Epilogue → p.207 -->
 
+### y2v7 p.8–29 — Horikita: festival prep; the Ryūen alliance leak
+[says] (p.10) "very extreme, but what happens if all classes receive the same amount of 320,000 points and are side by side?"
+[says] (p.19) "A sports festival is a sports festival, a cultural festival is a cultural festival."
+[says] (p.28) "We were on equal terms. The same goes for the cultural festival proposal."
+[trait] (p.8–29) Second in OAA (3 pts behind Keisei); as class leader, presses Chabashira on collusion rules, plans the maid café with Ayanokōji (surprised by his knowledge), and keeps the Ryūen alliance secret from most of the class; when Ike leaks the maid café and Ryūen publicly announces his own competing café, she stays calm and greets him in the hallway — "a sports festival is a sports festival."
+[rel:ayanokouji-kiyotaka] (p.19–22) She organizes the maid café with him, relying on his knowledge.
+[rel:ryuuen-kakeru] (p.28–29) She confirms the cultural-festival alliance publicly — "equal terms."
+[rel:hasebe-haruka] (p.13–15) She's wary of Haruka "doing something" at the festival.
+
+### y2v7 p.72–83 — Horikita: the love letter; Nagumo's strange behavior
+[says] (p.73) "Defeat doesn't only mean losing class points. But it's just as bad to fail to earn class points."
+[says] (p.75) "No, I don't think so." — on still paying Kushida
+[narrates] (p.76) "Um, Horikita-san... Can I have a minute?" — Ichihashi
+[narrates] (p.77) "Although reluctantly, Horikita agreed to deliver the love letter to Nagumo."
+[trait] (p.72–83) Notes Horikita is trying to broaden her horizons; she's asked by Ichihashi to pass an anonymous love letter to Nagumo (from a "friend"); though suspicious, she agrees (the Horikita of a year ago might have refused) — not realizing it's actually an anagram message in a plot; at the student council meeting Nagumo behaves oddly (late, not happy, hints at "secret notes" and offering records), and she's left puzzled.
+[rel:ayanokouji-kiyotaka] (p.72–73) He pats her on the back in encouragement; they discuss the festival.
+[rel:nagumo-miyabi] (p.78–81) She delivers him the letter; his strange behavior ("I thought it was a love letter from Horikita-senpai") confuses her.
+[rel:yagami-takuya] (p.82–83) He's present at the meeting; she notices his reactions.
+
+### y2v7 p.161–183 — Horikita's trap: Yagami exposed (from her POV)
+[scene] (p.161) On break, changes out of her maid uniform and slips to the student council room to check the meeting notes — the "love letter" (anagram) was designed to lure Yagami there; she had intended to ask Yagami (the council's contact) but used the festival as cover.
+[narrates] (p.162) "Yagami Takuya. Why would he be calling me at this time?"
+[narrates] (p.165) "Don't just stand there, let me in, Horikita!" — Ibuki, shoving Yagami in
+[narrates] (p.174) "You were going to meet up with Ayanokōji-senpai here along with Horikita-senpai through the letter."
+[trait] (p.161–183) Sets a trap for Yagami (with Ayanokōji/Nagumo/Ryūen) — using the anagram love letter and her lost notebook, she corners him: his handwriting matches the "secret notes" and the anonymous letter, and Ryūen identifies him as the one behind Komiya/Kinoshita's "accident" (his watch GPS was off); Nagumo reveals the letter was an anagram (he calls it a coincidence); Yagami snaps — attacks Mashima, tries to reach Ayanokōji — but Amasawa (with "red, swollen eyes") arrives to stop him, and finally five "instructors" (his handlers) take him away, warning everyone not to speak of it; afterward Nagumo claims he just came to talk to Ryūen.
+[rel:yagami-takuya] (p.162–183) He's the target — exposed as the island attacker; his "instructors" come to collect him.
+[rel:ibuki-mio] (p.165) She physically restrains Yagami — "You've been saved again by my exploits, Horikita."
+[rel:amasawa-ichika] (p.181–182) She arrives and tries to stop Yagami ("a frog in a well doesn't know the ocean"), then leaves with him.
+[rel:nagumo-miyabi] (p.169–183) He helps expose Yagami (reveals the anagram) and claims coincidence afterward.
+[rel:ryuuen-kakeru] (p.175–180) He appears with Komiya/Kinoshita and identifies Yagami as the one who hurt them.
 ## y2v8
 
 <!-- walk: y2v8 → start -->

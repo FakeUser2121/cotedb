@@ -646,6 +646,14 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y2v7 Epilogue → p.207 -->
 
+### y2v7 p.44–53 — Nagumo: loses his "game" to Ayanokōji's sincerity
+[says] (p.46) "the game with you is over and so is my school life. As a result, I don't give a shit about the cultural festival."
+[says] (p.48) "You ran away from the last chance I gave you at the sports festival."
+[says] (p.48) "Understand this, Ayanokōji. I'm allowed to challenge you to a fight, but you're not allowed to challenge me to a fight."
+[says] (p.52) "You have loose screws, Ayanokōji."
+[trait] (p.44–53) Belligerent but bored — he's lost interest in the festival (his "game" with Ayanokōji over), dismisses Ryūen's 5-million bet, but is drawn into Ayanokōji's proposal; when Ayanokōji genuinely says "it doesn't matter who it is" (even Kei) and refuses to fight back no matter who he expels, Nagumo's smile vanishes — he concedes ("I have no choice but to accept your current proposal"), agreeing to a future match, but leaves unsettled ("loose screws"), calling Ayanokōji crazy.
+[rel:ayanokouji-kiyotaka] (p.44–53) He accepts the match and the favor, but Ayanokōji's cold sincerity about Kei rattles him.
+[rel:karuizawa-kei] (p.51) He threatens Kei to sway Ayanokōji — it fails.
 ## y2v8
 
 <!-- walk: y2v8 → start -->

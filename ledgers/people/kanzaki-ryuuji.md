@@ -617,6 +617,19 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 
 <!-- walk: y2v7 Epilogue → p.207 -->
 
+### y2v7 p.57–71 — Kanzaki's confession; the resolve to change his class
+[scene] (p.57) Meets Ayanokōji in the special wing at his own request (though Ayanokōji called him), grim and wary.
+[says] (p.58) "What do you want from me?"
+[says] (p.58) "I don't know what I'm going to do with the rest of my school life..."
+[says] (p.58) "I probably don't need to tell you now, but our class can't win."
+[says] (p.59) "I need your advice on... Ichinose."
+[says] (p.60) "How about now? We kept following Ichinose's policy and lost class points. We're at the bottom of a pit."
+[says] (p.66) "I'm not going to sink with the current class and Ichinose forever."
+[says] (p.71) "Ayanokōji, I'll pay you back for this debt in the final exam."
+[trait] (p.57–71) Opens up about his silent struggle — Ichinose's idealism (protect everyone) can't win, and she won't listen to dissent; reveals his Unanimous-exam "yes" votes failed to change the class; through Ayanokōji's orchestration, reveals to Himeno that he may transfer classes (a "betrayal" threat) to shake her out of silence; leaves with renewed resolve to change the class and repay Ayanokōji in the final exam.
+[rel:ayanokouji-kiyotaka] (p.57–71) He seeks his advice, then realizes Ayanokōji manipulated the conversation with Himeno — still resolves to change his class.
+[rel:himeno] (p.62–67) He reveals his transfer threat to her — a calculated gamble to make her speak up.
+[rel:ichinose-honami] (p.59–66) Frustrated by her refusal to listen to dissent — but still believes she can be changed via the class.
 ## y2v8
 
 <!-- walk: y2v8 → start -->

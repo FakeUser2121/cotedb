@@ -202,6 +202,21 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 
 <!-- walk: y2v7 Epilogue → p.207 -->
 
+### y2v7 p.75–83 — Yagami: the letter's intended reader
+[note] (p.75–83) At the student council meeting, Yagami is present and reacts to Nagumo's odd behavior (late arrival, mentions of "secret notes," offering to show meeting records); he also called/approached Kushida around this time (see Ch.4). The "love letter" Horikita delivered is an anagram Yagami is expected to decode — a trap set in motion; his reactions are watched by Ayanokōji and Nagumo.
+[rel:nagumo-miyabi] (p.78–81) His student council president — acts strangely; Yagami watches closely.
+[rel:horikita-suzune] (p.82–83) He's at the meeting where she delivered the letter.
+[rel:ayanokouji-kiyotaka] (p.81) Ayanokōji notes Yagami decoded the anagram — a person who may end up being a reason for him to leave school.
+
+### y2v7 p.161–183 — Yagami's rampage and downfall
+[says] (p.180) "Why is this happening, this is beyond stupid."
+[says] (p.180) "I'm going to do it now. I'm going to kill him with my own hands!"
+[says] (p.181) "No, it's not! The instructors are waiting for me! I'm going to be the best!"
+[says] (p.181) "I'm not going to tolerate anyone who stands in front of me from now on."
+[trait] (p.161–183) Lured to the student council room by the anagram "love letter" he decoded, he's cornered by Horikita, Nagumo, Ryūen, Ibuki, Komiya/Kinoshita and teachers — evidence (handwriting, GPS) exposes him as the mastermind behind the island attacks on Ayanokōji; he denies it, then snaps: knocks Ibuki down with one elbow, kicks/punches Mashima, and lunges at Ryūen/Ayanokōji ("I'm going to kill him... get my rightful place!... the instructors are waiting for me!"); Amasawa tries to stop him, and finally five "instructors" (his handlers, connected to the facility he came from) arrive and take him away meekly — like a child caught by his parents.
+[rel:ayanokouji-kiyotaka] (p.174–181) He believes Ayanokōji orchestrated the trap and wants to kill him — "make Ayanokōji regret it."
+[rel:amasawa-ichika] (p.181–182) She tries to stop his rampage ("a frog in a well doesn't know the ocean") and leaves with him — they share "instructors."
+[rel:ryuuen-kakeru] (p.175–180) Identified by Ryūen as the one behind Komiya/Kinoshita's injuries — nearly fights him.
 ## y2v8
 
 <!-- walk: y2v8 → start -->

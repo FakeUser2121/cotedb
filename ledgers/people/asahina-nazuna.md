@@ -133,6 +133,14 @@ char_id: asahina-nazuna · class: Class 2-A · status: supporting
 
 <!-- walk: y2v7 Epilogue → p.207 -->
 
+### y2v7 p.36–41 — Mii-chan warns Ayanokōji about Nagumo
+[says] (p.38) "Nagumo is saying that he's going to let the non-A's compete and pick one student from the class that takes first place."
+[says] (p.38) "Nagumo and I never went head to head to settle our dispute for good."
+[says] (p.38) "Miyabi could start targeting people close to you."
+[trait] (p.36–41) Meets Ayanokōji privately and warns him — having watched Nagumo for three years, she knows he likes to compete and has never been clearly beaten; she fears he may target people close to Ayanokōji (Kei, Ichinose) and warns "Miyabi could start targeting people close to you."
+[rel:ayanokouji-kiyotaka] (p.36–41) She warns him about Nagumo; they discuss his "dazzling" nature and lack of real opponents.
+[rel:nagumo-miyabi] (p.38) She knows him well (watched Nagumo by his side for the past three years) — he's her class leader.
+[rel:ichinose-honami] (p.38) Nagumo's plan concentrates points on Ichinose — Ayanokōji's old flame.
 ## y2v9
 
 <!-- walk: y2v9 → start -->

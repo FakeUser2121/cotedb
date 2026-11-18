@@ -2212,6 +2212,25 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v7 Epilogue → p.207 -->
 
+### y2v7 p.28–31 — Ryūen: the "declaration of war"
+[says] (p.29) "I helped you in the sports festival to destroy Class A."
+[says] (p.29) "We'll have the same concept as you guys." — copying the maid café
+[says] (p.29) "The one who earns as many points as possible will receive 5 million points"
+[says] (p.46) "That guy told me he would give me the right to expel any student I wanted, even himself." — Nagumo on Ryūen's bet
+[trait] (p.28–31) Deliberately leaks the secret maid café plan to the whole grade and announces his own class will run a competing maid café — a "declaration of war" to force a direct contest (betting 5 million points on who earns more); he even offered Nagumo students (himself included) as collateral for tens of millions, but Nagumo refused; Ayanokōji suspects he wants the direct confrontation for its own sake.
+[rel:horikita-suzune] (p.28–29) He confirms their alliance then immediately betrays the secret — "equal terms."
+[rel:nagumo-miyabi] (p.29) He tried to bet tens of millions with him; Nagumo turned him down.
+[rel:ishizaki-daichi] (p.28) He arrives with Ishizaki, Albert and Kaneda.
+
+### y2v7 p.175–182 — Ryūen exposes Yagami
+[says] (p.176) "So you're Yagami. I heard you're the one who took care of Komiya and [Kinoshita]."
+[says] (p.177) "I know that the GPS on your watch was not functioning"
+[says] (p.180) "Kuku, I'm surprised too, but I can't help it. He was playing with fire too much."
+[says] (p.180) "Shut up. Don't yell so close to me, you little bitch."
+[trait] (p.175–182) Arrives at the student council room with Komiya and Kinoshita (having been tipped off), grabs Yagami by the bangs and exposes him — the GPS on Yagami's watch was off during the "accident" that injured Komiya/Kinoshita; when Yagami snaps and attacks, Ryūen stops the teachers ("Pull back. He's not fucking around") and prepares to fight him, telling him "you're only a punk."
+[rel:yagami-takuya] (p.175–182) He identifies and physically confronts him — "he was playing with fire too much."
+[rel:komiya] (p.176) He brought him — Yagami was behind his injury.
+[rel:ibuki-mio] (p.180) She's knocked down by Yagami; Ryūen helps her up and leaves.
 ## y2v8
 
 <!-- walk: y2v8 → start -->
