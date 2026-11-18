@@ -9810,3 +9810,17 @@ walk: y1v1 → DONE
 [rel:asahina-nazuna] (p.79–83) Asahina chases Kiryūin's future plans; leaps off the swing nearly face-planting.
 
 <!-- walk: y2v11 ch2 → p.84 -->
+
+### y2v11 p.85–89 — Ch.3: The quiet room and Hashimoto's ask
+[scene] (p.85) Night of the first day: rooms now mix first and second-years; Hashimoto broke the ice; Kiyotaka watches from the sideline.
+[note] (p.85) Four groups went 5–0; three groups 4; four groups 0; Nagumo's group is a first-place contender; Ryūen's group lost twice; Sakayanagi's group lost three times.
+[note] (p.86) Takumi Oda (2-C) mutters about it; the first-years buzz around Hashimoto; Kiyotaka stays reserved.
+[note] (p.87) Hashimoto knows Iki personally (3-D, poor academics, chosen for Sakayanagi's group); three losses raise his suspicions.
+[says:hashimoto-masayoshi] (p.88) “Could it be that the damage she took from losing Kamuro was significant?”
+[says:hashimoto-masayoshi] (p.88) “If she's really getting weaker, it's a good thing for me. If we go into the end-of-year exams like this, I might have a chance to win.”
+[says:hashimoto-masayoshi] (p.88) “Can you find out what the real situation is with Sakayanagi, Ayanokōji?”
+[says:hashimoto-masayoshi] (p.89) “That's reasonable. But as long as you and I are in the same group, Sakayanagi will be more wary than usual. I don't want you to expect useful information.”
+[note] (p.88) Hashimoto hints Kitō is the angriest about the betrayal; he is \“Class A’s most wanted man\”; his mask could crack when the betrayal lands.
+[rel:hashimoto-masayoshi] (p.85–89) He asks Kiyotaka to scout Sakayanagi; Kiyotaka agrees in name only.
+
+<!-- walk: y2v11 ch3 → p.99 -->
