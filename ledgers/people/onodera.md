@@ -133,7 +133,7 @@ char_id: onodera · class: Class 1-D · status: minor
 
 ### y2v9.5 p.66-171 — Onodera mentioned in passing
 [scene] (p.66) Named in this volume; one of the eight at the Maezono café gathering is "Onodera" (surname only), sitting next to Sudō and asking what is up.
-[note] (p.66-171) Ambiguous attribution: the roster holds two Onoderas (this ledger and onodera-kayano); scene favors Kayano (Sudō's group). Other references are passing mentions (locator pages: p.66, p.67, p.73, p.77, p.78, p.167, p.169, p.171; not line-by-line verified; substring false positives possible). Not a verified scene presence.
+[note] (p.66-171) Ambiguous attribution: the roster holds two Onoderas (this person and onodera-kayano); scene favors Kayano (Sudō's group). Other references are passing mentions (locator pages: p.66, p.67, p.73, p.77, p.78, p.167, p.169, p.171; not line-by-line verified; substring false positives possible). Not a verified scene presence.
 [mentioned] (p.66-171) Passing mention only; attribution unresolved.
 
 <!-- walk: y2v9.5 Ch.6 → p.171 -->
