@@ -32,6 +32,30 @@ char_id: kamogawa · class: unknown · status: unknown
 [rel:kamogawa-toshizou] (p.19) His father, who taught him nothing and smoothed his path as a second-generation politician.
 [rel:naoe-sensei] (p.19) Believes silently following him guarantees a safe, long career.
 
+### y0 p.24–26 — Seiza and the sake; a silhouette in the hallway
+[scene] (p.24) Sits in the lower seat; boasts about sake brands, is told off, and spots an unfamiliar suited silhouette in the corridor.
+[says] (p.24) “You can relax your posture at least in this seat.”
+[says] (p.24) “E-Eh? But there's delicious-looking sake right in front of me. What is this brand? I've never seen it in a pub.”
+[says] (p.25) “That's tough...”
+[note] (p.25) In the hallway, a distinctly recognizable back passes — Atsuomi identifies it as Kijima-sensei; Kamogawa pays the taxi fare and neither speaks of it.
+[rel:ayanokouji-atsuomi] (p.24–26)
+[rel:kijima] (p.25–26)
+
+### y0 p.27–41 — The envelope; the Human Resource Development Project
+[scene] (p.27) Led into another private room where untouched bowls betray Kijima's prior presence; struggles to follow Naoe's questions.
+[says] (p.31) “E-Eh!?”
+[says] (p.31) “Someone who… responds to the citizens' wishes… maybe?”
+[says] (p.34) “A government-run educational institution from infancy? I've never heard of such a thing.”
+[says] (p.34) “Ah, thank you very much!”
+[says] (p.34) “How…? I'm not sure how to respond.”
+[says] (p.35) “um, I was wondering… are there parents who would leave their infants and children at educational facilities? It doesn't seem to be very feasible... unless kidnapping is involved, isn't it impossible?”
+[says] (p.40) “But why was Naoe-sensei taking a taxi today? And he was openly friendly with a woman in that taxi, wasn't he? I'm not even going to talk about the age difference, but doesn't he look like he's cheating?”
+[says] (p.40) “It's an amazing project… but it's turned into something unbelievable.”
+[note] (p.30) Sweat forms on his forehead during the conversation about Kijima; he cannot respond to the envelope's contents.
+[rel:ayanokouji-atsuomi] (p.27–41) Forced to work with him as second fiddle.
+[rel:naoe] (p.27–41) His patron; also the one who keeps him as a shackle.
+[rel:kijima] (p.25–35)
+
 ### y0 p.43–46 — The shabby office; sent to find a facility
 [scene] (p.43) Visits Atsuomi's shabby office and is shocked by how he lives.
 [narrates] (p.43) "'Are you perhaps living in this office, Ayanokouji-san? It kind of smells like it's been lived in…'"

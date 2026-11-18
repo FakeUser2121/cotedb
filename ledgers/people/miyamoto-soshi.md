@@ -80,6 +80,11 @@ char_id: miyamoto-soshi · class: Class 1-D · status: minor
 
 <!-- walk: y0 Epilogue → p.265 -->
 
+### y0 p.17–18 — Miyamoto Sōshi (mentioned)
+[scene] (p.17) Not present; the only "Miyamoto" in this volume is the historical swordsman Miyamoto Musashi in Atsuomi's Ganryujima example.
+[note] (p.17–18) “Even being late is a weapon for Naoe-sensei. Like the anecdote of Miyamoto Musashi at Ganryujima.” — footnoted as the duel where Musashi arrived three hours late.
+[note] (p.17–18) No mention anywhere of the Class 1-D student Miyamoto Sōshi; the roster's listing of this volume for him is a name-collision, not an on-page presence.
+[mentioned] (p.17) Passing mention only.
 ## y2v2
 
 <!-- walk: y2v2 → start -->
