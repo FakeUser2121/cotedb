@@ -426,6 +426,10 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 [note] (p.9) Passing mention (locator pages: p.72, p.180; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.72 — Ch.3: The promised meeting, skipped
+[mentioned] (p.72) Passing mention: "I had also promised to meet Mashima-sensei, but I could surely skip it for today." — no scene presence; no dialogue; the appointment is simply dropped.
+
+<!-- walk: y2v10 Ch.3 → p.80 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

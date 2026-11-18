@@ -964,7 +964,6 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:wang-mei-yu] (p.66–80) She unexpectedly figured out he was her benefactor; a long-overdue payback.
 [rel:ayanokouji-kiyotaka] (p.66–80) Asks precisely what he owes and whether he'll agree to the deal — Kōenji will not agree.
 
-<!-- walk: y2v10 Ch.3 → p.80 -->
 
 
 ### y2v10 p.9-235 — kouenji-rokusuke mentioned in passing
@@ -980,6 +979,44 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [note] (p.45) The advanced-payment/immunity background is narration, not his speech; no scene presence; he never speaks on these pages.
 
 <!-- walk: y2v10 Ch.2 → p.59 -->
+
+### y2v10 p.66–80 — Ch.3: The benefactor is named; the gifts refused
+[scene] (p.66) The convenience-store reveal: the transferred shift leader, remembering the buyer, identifies him — Kōenji.
+[scene] (p.67) The clerk describes him: long-haired, blond, acting high and mighty, losing himself in the store-glass reflection, fixing his hair with a hand mirror — "this is Kōenji-kun, right?"
+[scene] (p.70) Kept between AK and the bench by the gym's entrance; he exits after the bench press; he spots them and crosses without a word.
+[says] (p.73) “Do you need something from me, Wang girl?”
+[note] (p.73) "Wang girl" — a portmanteau of her family name Wang 王(ワン)Mei-Yui; a nickname likely only Kōenji would use; she cannot place it.
+[says] (p.73) “I’m sorry, but I’m a bit in a rush right now. Let’s talk another time. Hahaha.”
+[scene] (p.74) He walks off mid-refusal; AK takes responsibility for the tail; they track him to the café.
+[says] (p.75) “Oh? Wang girl and Ayanokōji boy. You’ve come to chase after me again? It’s tough being popular. Hahaha.”
+[says] (p.76) “Of course. My personal business finished quicker than expected.”
+[scene] (p.76) The cafe table with Enoshima; his drink is missing when they return — only she is there, scrolling her phone; then he reappears walking back the way he came.
+[says] (p.76) “It was me who gave you those items, but why does it matter?”
+[says] (p.76) “Why? If someone is in trouble, I help them. Aren’t you the same type of person?”
+[says] (p.77) “You sure choose your words well, Ayanokōji boy. You won’t let me get away with implying it was a whim. It’s not like I helped Wang girl out on a whim. I detest hypocrisy. But that doesn’t mean I disrespect goodwill. When I feel a sincere debt, I consider it natural to repay it. It’s just that.”
+[says] (p.77) “Hahaha!”
+[says] (p.77) “That’s why it’s not out of hypocrisy but goodwill. Just a trivial matter that you don’t even need to remember.”
+[says] (p.77) “I don’t need this. I don’t think it’s a matter of receiving thanks.”
+[says] (p.77) “Unfortunately, I’m not in need of money at the moment. I don’t want it.”
+[says] (p.78) “Oh, dear. You seem to have quite a difficult personality. Didn’t I say? It’s a trivial matter that you don’t even need to remember. It’s neither more nor less than that. There’s nothing more to say.”
+[says] (p.78) “That’s nonsense, Ayanokōji boy. I’m needed for the class to win, and for that, you have to show goodwill towards me. That becomes hypocrisy, you see?”
+[says] (p.78) “Maybe.”
+[says] (p.78) “You should already know this. There’s no way you can make me your ally, not by any means.”
+[says] (p.78) “That’s right. I won’t change until I graduate, even after that. No matter how much cleverness you guys squeeze out, it won’t reach or resonate with my heart. Of course, this includes you as well.”
+[says] (p.79) “I’ve always protected myself. It’s as simple as that.”
+[says] (p.79) “Do as you please. Regardless, there’s no point in trying to obligate me when I won’t reciprocate.”
+[says] (p.79) “If ‘someone’ tries to ostracize me, they’d better be prepared.”
+[says] (p.79) “That’s part of the surprise.”
+[says] (p.79) “So be it. I have dates after this, so I’d better get going.”
+[note] (p.73) "Wang girl" is a portmanteau of Wang 王(ワン) Mei-Yui; the page says it's likely a nickname only Kōenji would use.
+[note] (p.79) TL Note kept as printed: his word for dates is a corrupt spelling that isn't how "Date" is spelled/pronounced — used to sound more "Englishy" and to show off.
+[note] (p.79) The ostracism warning is never explained; the page says it is "not as simple as attacking a specific person" and "could shake the class's position" — the mechanism is unknown.
+[voice] (p.73–80) Grandiose, performatively casual; detests hypocrisy; repays hidden debts of goodwill with deniable generosity; zero need of money.
+[limit] (p.78–79) Immune to being obligated; refuses the ally-at-any-price frame outright; "I won't change until I graduate".
+[rel:wang-mei-yu] (p.66–80) He secretly helped her for three weeks; he wants no thanks, no money, no contact, ever.
+[rel:ayanokouji-kiyotaka] (p.73–80) AK probes him, floats making him an ally, then floats ostracizing him — Kōenji closes both doors.
+
+<!-- walk: y2v10 Ch.3 → p.80 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

@@ -9948,21 +9948,160 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v10 Ch.2 → p.59 -->
 
-### y2v10 p.60–65 — Ch.3: Mii-chan's secret pursuit
-[scene] (p.60–63) On Friday, Mii-chan corners him about someone who sent her food once during those three weeks; she hasn't worked out who it was; the basket contents she lists are too detailed for random chance; she wants to find out.
-[scene] (p.62–65) She's been nervous for six days without knowing; he suggests asking the convenience-store clerk; they walk to a convenience store together.
-[says] (p.60) "I heard that someone was delivering food while I couldn't go out ... I've mentioned it to you before, Ayanokōji-kun, and I wanted to ask for your help."
-[rel:wang-mei-yu] (p.60–65) She swallowed pride asking him; nervously trusts him along for the way.
+### y2v10 p.60–63 — Ch.3: Mii-chan asks for help with the anonymous gifts
+[scene] (p.60) Friday after school, one day after the exam announcement; Mii-chan calls out to him as the classroom empties; Kei is already gone on a friends' weekend.
+[says:wang-mei-yu] (p.60) “Ayanokōji-kun… umm, do you have a moment?”
+[says:wang-mei-yu] (p.60) “I’d like to talk somewhere else if possible... not in this classroom.”
+[says:wang-mei-yu] (p.60) “Do you remember when I was absent from school for a while? It’s... embarrassing to say, but it was about Hirata-kun... Well...”
+[scene] (p.61) The crush was revealed in the unanimous-voting exam; the three-week absence's food deliveries; she shows him the grocery-bag note containing only the room number and the deliberately unidentifiable handwriting.
+[says:wang-mei-yu] (p.61) “I heard that someone was delivering food while I couldn’t go out... “
+[says:wang-mei-yu] (p.61) “I’ve mentioned it to you before, Ayanokōji-kun, and I wanted to ask for your help...”
+[says:wang-mei-yu] (p.61) “Uh, I haven’t yet, but I think we can find out if we try...”
+[scene] (p.61) The clues: the note is intentionally written to be untraceable; all items came from a convenience store; the clerk she asked first was newly assigned; the shift leader who transferred remembers a student who might be relevant.
+[scene] (p.62) She ran when the clerk unexpectedly recognized her the other day; today is the sixth day of avoiding him; she is shaken.
+[says:wang-mei-yu] (p.62) “I got caught off guard, or rather, I was shaken by the unexpected news, and I said I’d come back later to hear the details, and ran away.”
+[says] (p.62) “You ran away?”
+[says:wang-mei-yu] (p.62) “...Today is the sixth day.”
+[says:wang-mei-yu] (p.62) “I’ve... been running...”
+[scene] (p.63) He offers the other-classmates-and-boys theory; the idea of a boy worried about his crush lands like a bomb; she is flabbergasted; she draws attention; she recovers.
+[says] (p.63) “That doesn’t matter much. A close relationship isn’t a prerequisite. And it doesn’t have to be a girl.”
+[says:wang-mei-yu] (p.63) “Eh, what?”
+[says] (p.63) “To be blatant, there might be, for example, a boy who secretly likes you, right? It could be a situation where he was worried when his crush was absent and sent a gift.”
+[says:wang-mei-yu] (p.63) “Eeh!? What!?”
+[says:wang-mei-yu] (p.63) “W-w-w-w-w-well yes, you’re right!?”
 
-### y2v10 p.66–80 — Ch.3: Kōenji is the benefactor; the gift-hunt
-[scene] (p.66–68) They wait in a bench by the vending area; the clerk reveals "Kōenji, um, Rokusuke-kun" — long-haired blond; the secret deliveries were from Kōenji all along; she thanks him indirectly; watches him harder.
-[scene] (p.68–73) Mii-chan handles the implications fairly calmly; she fakes ordinary gratitude; realizes Kōenji must appreciate charm/Wang-girl gifts; she buys him towels and watches from outside the gym; he benches 200 kg; they wait for him to finish; 40 minutes pass.
-[scene] (p.74–80) They tail him to the mall; he rescues himself with cold outward calm; he tells them he won't accept the gifts; implies her debt goes unnamed; he ignores them; they part with ambiguous farewells; she thanks him for nothing concrete.
-[says] (p.67) "Wang girl."
-[says] (p.67) "He ... Was it really Kōenji-kun?"
-[says] (p.76) "It was me who gave you those items, but why does it matter?"
-[rel:kouenji-rokusuke] (p.66–80) She hunts him down and tries to give thanks for a gift she didn’t ask for.
-[rel:wang-mei-yu] (p.66–80) Together Kōenji and Ayanokōji face down the gift attempt.
+### y2v10 p.64–65 — Ch.3: The decision to open the box
+[scene] (p.64) The advice he gives honestly: if it were him, he'd want to know; then decide whether to approach.
+[says:wang-mei-yu] (p.64) “I’m not sure what to do at this point. Should I find out who it is? Should I thank them?”
+[says:wang-mei-yu] (p.64) “What would you do in this situation, Ayanokōji-kun?”
+[says] (p.64) “I’m not sure if it’ll help, but if it were me, I’d want to know who they are. And then, I would decide whether to approach them or not.”
+[says] (p.64) “Furthermore, whether you can keep quiet even after knowing the person’s identity is another matter. From what I’ve seen, I don’t think this approach is right for you, Mii-chan.”
+[says] (p.64) “Once you open the Pandora Box, you can’t close it anymore.”
+[says:wang-mei-yu] (p.65) “I… I want to know…”
+[says] (p.65) “Even though it might lead to regret?”
+[says:wang-mei-yu] (p.65) “...Yes.”
+[says] (p.65) “Then you should go to the convenience store.”
+[says:wang-mei-yu] (p.65) “Shall we go to the convenience store together?”
+[says:wang-mei-yu] (p.65) “C-Can we?”
+[says] (p.65) “I can accompany you. If it gives you a bit of courage, I believe it’s worth it.”
+[says:wang-mei-yu] (p.65) “Th…Thank you, Ayanokōji-kun!”
+[note] (p.65) "Daddy-Long-Legs" — the gift-giver's mystery-benefactor epithet; the page explains the expression as a mysterious benefactor or guardian; kept as printed.
+[rel:wang-mei-yu] (p.60–65) Her frozen courage thaws only with company; she decides to know.
+
+### y2v10 p.66–68 — Ch.3: The clerk names Kōenji
+[scene] (p.66) They wait for the store to empty; the clerk (a woman in her 20s, seen often) stops mid-sentence at the sight of Mii-chan; Mii-chan apologizes for running away.
+[note] (p.66) The clerk is unnamed; her lines go untaged by the translation — describe, don’t assign. She asks whether her boyfriend encouraged her to come, remarks he sounds cool, and says she remembered student names via the student cards; she mistakes Mii-chan for Ayanokōji's girlfriend; both firmly deny it.
+[note] (p.67) She confirms the identity after a breath — the previous shift leader couldn’t remember his name but recognized the description: someone from her class, Kōenji… um, Rokusuke-kun.
+[scene] (p.67) The confirmation, in the page's own print: he was a long-haired, blond boy always acting high and mighty, losing himself in the reflection of the store glass, fixing his hair with a hand mirror — definitely Kōenji.
+[says:wang-mei-yu] (p.67) “Huh...?”
+[says:wang-mei-yu] (p.67) “He… Was it really Kōenji-kun?”
+[scene] (p.67) Mii-chan is flabbergasted; the gifts fit Kōenji; she cannot fully take it in.
+[says:wang-mei-yu] (p.68) “Kōenji-kun...? Why?”
+[says] (p.68) “I have no idea. In a way, it was the person whose motives would be the least clear.”
+[says:wang-mei-yu] (p.68) “What should I do…?”
+[says] (p.68) “But maybe with Kōenji, you can ignore him and not thank him?”
+[says:wang-mei-yu] (p.68) “Eh, what!? No, I can’t!”
+[says] (p.68) “But why?”
+[says:wang-mei-yu] (p.68) “Well... He’s our classmate, and he also spent a considerable amount of money on the gifts.”
+[says:wang-mei-yu] (p.68) “I’m thinking of buying a thank-you gift. Should it be roughly equivalent to what was spent on the gifts?”
+[says] (p.68) “That’s too much. I think half would do.”
+
+### y2v10 p.68–70 — Ch.3: The invitation; the Saturday plan
+[scene] (p.68) He is about to leave when she asks him to come along; he agrees on the condition he may leave after seeing Kōenji.
+[says] (p.68) “Then all that’s left is to do your best in thanking him properly.”
+[says:wang-mei-yu] (p.68) “Would you come with me?”
+[says:wang-mei-yu] (p.69) “To… Kōenji-kun’s place.”
+[says] (p.69) “Asking why would be a bit too much. But it would be strange for me to be there, wouldn’t it?”
+[says] (p.69) “What if your assumption is correct? No matter how much you say that you’re dating Kei, he might have thoughts if he sees a guy accompanying the girl he likes.”
+[says] (p.69) “Well then, let’s go together for now. Depending on the situation, I might leave after seeing Kōenji. I hope you understand.”
+[says:wang-mei-yu] (p.69) “I understand. Thank you.”
+[scene] (p.69) She pulls out her mobile calendar; she wants to go early tomorrow; he has a date with Kei tomorrow morning and adjusts.
+[says:wang-mei-yu] (p.69) “It’s sudden, but would it be alright if we go early tomorrow? If we wait too long, I might have trouble sleeping...”
+[note] (p.69) She thanks him with a deep bow — "please have my most heartfelt thanks" — though he had already refused as a giver.
+
+### y2v10 p.70–73 — Ch.3: The gym; 200 kg of bench press
+[scene] (p.70) Saturday 11:30 a.m.; dorm lobby couch; Kei had stealthily stayed over Friday night; Mii-chan clutches a paper bag of towels; she has no contact info for Kōenji and had thought AK arranged the meeting; she thought he knew.
+[says] (p.70) “So? Where are you meeting up with Kōenji?”
+[says:wang-mei-yu] (p.70) “Eh?”
+[says] (p.70) “Eh? You’re going to see Kōenji after this, right?”
+[says:wang-mei-yu] (p.70) “Yes.”
+[says] (p.70) “So you’re meeting up with Kōenji, right?”
+[says:wang-mei-yu] (p.70) “...I’m not, actually...”
+[says] (p.70) “So, Kōenji knows nothing about today.”
+[says:wang-mei-yu] (p.70) “Ah, that should’ve been the obvious course of action, isn’t it? I wasn’t thinking at all because of the nerves and tension and all that. I don’t even have Kōenji-kun’s contact information. I thought you had arranged it. I interpreted it arbitrarily... I’m really sorry!”
+[says] (p.70) “First of all, you should calm down. I’m not really close with Kōenji, but I do know where to find him.”
+[scene] (p.71) He knows Kōenji trains Saturday and Sunday mornings; the Keyaki Mall gym, second floor; he spotted him finishing with the bench press more than once.
+[says] (p.71) “I think if it’s this time, Kōenji might be at the gym.”
+[scene] (p.72) 200 kg on the bench press with a smile; second-years who can do that are rare; Akiyama-san, the gym staff member, exchanges brief greetings; the Mashima-sensei meeting is skipped without regret.
+[says] (p.72) “As expected, he’s here.”
+[says:wang-mei-yu] (p.72) “How was it?”
+[says] (p.72) “I think he’ll be out in about 20 or 30 minutes. If you don’t mind, we could wait here.”
+[scene] (p.72) The wait on the bench; the towel reveal: a face towel and a hand towel, about ¥12,000 total — roughly the full amount he spent, against AK’s advice of half.
+[says:wang-mei-yu] (p.72) “Umm, I wasn’t sure what to get him, so I decided on a face towel and a hand towel.”
+[says:wang-mei-yu] (p.72) “You might think so, but I thought it was something he would like. I regularly see Kōenji-kun using both.”
+[says:wang-mei-yu] (p.72) “Yes. I thought if it’s a luxurious, organic cotton towel he might accept it, so… Oh…”
+[says:wang-mei-yu] (p.72) “Well… about ¥12,000.”
+
+### y2v10 p.73–80 — Ch.3: The confrontation; the goodwill; the warning
+[scene] (p.73) After ~40 minutes, Kōenji exits; he notices them and crosses without a word; Mii-chan gives chase.
+[says:wang-mei-yu] (p.73) “H-he came out.”
+[says:wang-mei-yu] (p.73) “Um, Kōenji-kun! Can I have a minute of your time!?!”
+[says:kouenji-rokusuke] (p.73) “Do you need something from me, Wang girl?”
+[says:wang-mei-yu] (p.73) “Eh, wang-what?”
+[says:wang-mei-yu] (p.73) “I wanted to discuss something with you. Can I take a little bit of your time, please?”
+[says:kouenji-rokusuke] (p.73) “I’m sorry, but I’m a bit in a rush right now. Let’s talk another time. Hahaha.”
+[scene] (p.74) Mii-chan is flustered; he argues for pushing through today; they tail him down the escalator.
+[says] (p.74) “Then we should just follow Kōenji.”
+[says] (p.74) “I’ll take responsibility if we’re caught following him. Let’s go.”
+[says:wang-mei-yu] (p.74) “Ye-yes! Stealth tailing it is, then!”
+[scene] (p.75) He heads to the café; at a two-person table inside sits Kōenji and a female student — Enoshima Midoriko of class 3-B; they relocate through a side door to re-enter from the opposite side.
+[note] (p.75) The page prints the exchange identifying Enoshima ("That’s Enoshima Midoriko from class 3-B." / "I’ve only seen her in the OAA app. Let’s get closer.") without tagging who says which line; attribution left open.
+[says:wang-mei-yu] (p.75) “At this point, I’d like to know what kind of conversations Kōenji-kun usually has.”
+[note] (p.75) The attribution rests on the adjacent narration naming Mii-chan ("However, Mii-chan seemed to have flipped a switch").
+[says] (p.75) “You mean eavesdrop?”
+[scene] (p.75–76) They circle around through a side door; on re-entry Kōenji is gone; only Enoshima scrolls her phone; Kōenji reappears, walking back the way he came.
+[says:kouenji-rokusuke] (p.76) “Oh? Wang girl and Ayanokōji boy. You’ve come to chase after me again? It’s tough being popular. Hahaha.”
+[says:kouenji-rokusuke] (p.76) “Of course. My personal business finished quicker than expected.”
+[says:wang-mei-yu] (p.76) “Was it you, Kōenji-kun... who left stuff from the convenience store in front of my door while I was absent from school...?”
+[says:kouenji-rokusuke] (p.76) “It was me who gave you those items, but why does it matter?”
+[says:kouenji-rokusuke] (p.76) “Why? If someone is in trouble, I help them. Aren’t you the same type of person?”
+[says] (p.76) “Hold on. It might be none of my business, but there’s something that bothers me. It’s natural to help someone in trouble. But to be frank, from what I’ve”
+[says] (p.77) “observed of you, you don’t help everyone. Yet, you helped Mii-chan. This has happened repeatedly, which suggests there’s a special reason behind it.”
+[says:kouenji-rokusuke] (p.77) “You sure choose your words well, Ayanokōji boy. You won’t let me get away with implying it was a whim. It’s not like I helped Wang girl out on a whim. I detest hypocrisy. But that doesn’t mean I disrespect goodwill. When I feel a sincere debt, I consider it natural to repay it. It’s just that.”
+[says:wang-mei-yu] (p.77) “...I, I don’t remember doing anything for you. I don’t think you owe me anything. According to what you said, it seems like I’ve helped you before...”
+[says:kouenji-rokusuke] (p.77) “Hahaha!”
+[says:kouenji-rokusuke] (p.77) “That’s why it’s not out of hypocrisy but goodwill. Just a trivial matter that you don’t even need to remember.”
+[scene] (p.77) She thrusts the towel bag at him; he refuses both towels and money; the goodwill debt is never named beyond the words "a trivial matter" — "It’s a trivial matter that you don’t even need to remember."
+[says:wang-mei-yu] (p.77) “I don’t remember it at all… but, well, please accept this for now.”
+[says:kouenji-rokusuke] (p.77) “I don’t need this. I don’t think it’s a matter of receiving thanks.”
+[says:wang-mei-yu] (p.77) “W-well, if you don’t like this, I don’t mind if you don’t accept it. But in that case, would you at least let me pay you back? The money you spent for me isn’t cheap.”
+[says:kouenji-rokusuke] (p.77) “Unfortunately, I’m not in need of money at the moment. I don’t want it.”
+[says:wang-mei-yu] (p.78) “B-but that’ll be a problem! That… I can’t get rid of the feeling of guilt… in that case, could you at least tell me what I did for you?”
+[says:kouenji-rokusuke] (p.78) “Oh, dear. You seem to have quite a difficult personality. Didn’t I say? It’s a trivial matter that you don’t even need to remember. It’s neither more nor less than that. There’s nothing more to say.”
+[says] (p.78) “It’s important. If you feel gratitude, there’s a possibility you’ll cooperate with the class in the future, right?”
+[says:kouenji-rokusuke] (p.78) “That’s nonsense, Ayanokōji boy. I’m needed for the class to win, and for that, you have to show goodwill towards me. That becomes hypocrisy, you see?”
+[says] (p.78) “As long as we live under the rules of this school, there can be no goodwill. Am I wrong?”
+[says:kouenji-rokusuke] (p.78) “Maybe.”
+[says:kouenji-rokusuke] (p.78) “You should already know this. There’s no way you can make me your ally, not by any means.”
+[says:kouenji-rokusuke] (p.78) “That’s right. I won’t change until I graduate, even after that. No matter how much cleverness you guys squeeze out, it won’t reach or resonate with my heart. Of course, this includes you as well.”
+[says] (p.78) “So what are you going to do with a special exam like this time? What if Horikita decides not to protect you? We can’t exactly say that the chance of her breaking her promise to you is zero. There might be a situation where you can’t avoid expulsion, even if you make a fuss later.”
+[says:kouenji-rokusuke] (p.79) “I’ve always protected myself. It’s as simple as that.”
+[says] (p.79) “Well, that makes things easy. I’ll tell Horikita that there’s no need to protect you.”
+[says:kouenji-rokusuke] (p.79) “Do as you please. Regardless, there’s no point in trying to obligate me when I won’t reciprocate.”
+[scene] (p.79) AK floats ostracizing him — Kōenji turns, gaze sharpening, with nothing but wild intuition on display.
+[says:kouenji-rokusuke] (p.79) “If ‘someone’ tries to ostracize me, they’d better be prepared.”
+[says] (p.79) “Prepared, huh? I wonder what you’re going to do.”
+[says:kouenji-rokusuke] (p.79) “That’s part of the surprise.”
+[says] (p.79) “Will you open that box? Although, it may cause you to reassess your overvaluation of yourself.”
+[says:kouenji-rokusuke] (p.79) “So be it. I have dates after this, so I’d better get going.”
+[says:wang-mei-yu] (p.80) “Ah, um... Ayanokōji-kun.”
+[says] (p.80) “I’m sorry. I just wanted to ask him a few things since he told us something unusual, and I got carried away.”
+[note] (p.79) TL Note kept as printed: Kōenji's word for dates is a corrupt "Dēto" spelling meant to sound more "Englishy"; he has multiple dates to attend to.
+[note] (p.75) "That’s Enoshima Midoriko from class 3-B." — Enoshima is named but speaks not a word in this scene; her phone-scrolling remains uninterpreted.
+[rel:kouenji-rokusuke] (p.73–80) His protection model is self-reliance; he repays a hidden debt of goodwill to Wang, refuses towels and money, and warns AK off ostracizing him.
+[rel:wang-mei-yu] (p.66–80) She discovers her secret benefactor; her attempt to repay fails on all fronts.
+[rel:enoshima-midoriko] (p.75–76) Present with Kōenji at the café; no attributable speech; identified only by class (3-B).
+[rel:akiyama] (p.72) The gym staff member; brief greetings exchanged; no attributable speech.
 
 <!-- walk: y2v10 Ch.3 → p.80 -->
 

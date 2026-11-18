@@ -1978,6 +1978,11 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [note] (p.48) She does not speak on these pages; her presence is social pressure embodied.
 
 <!-- walk: y2v10 Ch.2 → p.59 -->
+
+### y2v10 p.60 — Ch.3: The Kushida revelation, retold
+[mentioned] (p.60) Passing mention: "after Kushida revealed in the unanimous voting exam that Mii-chan had a crush on Hirata" — the reveal is referenced, not re-narrated; what happened after the reveal on these pages is unknown.
+
+<!-- walk: y2v10 Ch.3 → p.80 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

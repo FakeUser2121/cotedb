@@ -2008,6 +2008,14 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:morishita-ai] (p.53–59) Cross-examined Kei about Hirata, her makeup, her "casual" charm; flusters her; forces the contact exchange.
 
 <!-- walk: y2v10 Ch.2 → p.59 -->
+
+### y2v10 p.60, 69–70 — Ch.3: Kei, mentioned around the errands
+[mentioned] (p.60) Passing mention: Kei had already made plans to hang out with friends until late this weekend, so she was already gone.
+[mentioned] (p.69) Passing mention: "I have a date with Kei tomorrow morning" — the Saturday date; adjusted rather than cancelled.
+[mentioned] (p.70) Passing mention: "Kei, who had stealthily stayed over in my room Friday night and spent the early hours of the morning with me, was fast asleep."
+[note] (p.69) The page does not print whether the morning-after date ever happened; only the adjustment plan.
+
+<!-- walk: y2v10 Ch.3 → p.80 -->
 ## y2v10.25
 
 <!-- walk: y2v10.25 → start -->

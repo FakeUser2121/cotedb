@@ -2009,6 +2009,12 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:horikita-suzune] (p.43–50) Her staunchest supporter in the room; scripts the recap; nominates her early.
 
 <!-- walk: y2v10 Ch.2 → p.59 -->
+
+### y2v10 p.60 — Ch.3: The Hirata crush, retold
+[mentioned] (p.60) Passing mention: the Friday encounter opens with Mii-chan's reluctant admission — "it was about Hirata-kun" — the crush revealed in the unanimous-voting exam; the three-week absence; the anonymous food deliveries.
+[note] (p.60) The page gives no dialogue of his own on these pages; his involvement is her account of events.
+
+<!-- walk: y2v10 Ch.3 → p.80 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->
