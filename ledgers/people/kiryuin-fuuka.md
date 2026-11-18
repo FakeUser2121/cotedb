@@ -254,7 +254,16 @@ char_id: kiryuin-fuuka · class: unknown · status: unknown
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — kiryuin-fuuka mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.63-64; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.63–64 — Ch.3: The bench before the exam
+[scene] (p.63) 7:40 AM; the school path; a student in casual clothes sitting on a bench — Kiryūin-senpai; a bag placed next to her; she was waiting for him before the exam.
+[says:ayanokouji-kiyotaka] (p.63) “It’s quite an early morning. What are you doing here, Kiryūin-senpai?”
+[says] (p.63) “I was waiting for you. I wanted to see you before you tackle the end-of-year special exam.”
+[says:ayanokouji-kiyotaka] (p.63) “It looks like you’re about to leave.”
+[says] (p.63) “Normally, third-year students would’ve already had their graduation ceremony and be out in the real world by now.”
+[scene] (p.63–64) She says she is busy looking for a new place to live; Nagumo is curious how he will handle the exam but has no intention of seeing him, leaving the reconnaissance to her; she waves him off gently — she is looking forward to what he will produce.
+[says] (p.64) “My apologies. Concerned might be an overstatement.”
+[says] (p.64) “I’m looking forward to seeing what results you’ll bring about in the exam.”
+[note] (p.63) Third-years have already had their graduation ceremony; she is a third-year doing reconnaissance on Nagumo's behalf.
+[rel:nagumo-miyabi] (p.63) She speaks for Nagumo; he is curious about the exam but refuses to see him himself.
+
+<!-- walk: y2v12 ch3 → p.86 -->

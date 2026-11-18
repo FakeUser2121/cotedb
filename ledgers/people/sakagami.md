@@ -187,11 +187,15 @@ aliases used for anchors: sakagami, sakagami-sensei
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — sakagami mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.65; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.65–68 — Ch.3: The body checks
+[scene] (p.65) Inside the special building's classroom; representatives seated on folding chairs; Sakagami-sensei and Hoshinomiya-sensei approach; Sakagami holds an empty white case about 30 cm square, marked "2-B."
+[says] (p.65) “Please submit all phones, other metals, and electronic devices you have.”
+[scene] (p.65–66) She takes his phone, then Horikita's and Yōsuke's, into the case; then performs the inspection herself from head to toes with a handheld metal detector; declares all three of them clear; says the phones will be returned after the exam.
+[says] (p.66) “Sorry, it’s instructions from the school. Okay, all three of you are clear.”
+[says] (p.66) “The phones we’ve been entrusted with will be returned after the exam. Please sit in the empty seats and wait.”
+[note] (p.67) She is present when the discussion-rules explanation begins; she holds the white cases, one per class.
 
+<!-- walk: y2v12 ch3 → p.86 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
@@ -320,4 +324,3 @@ aliases used for anchors: sakagami, sakagami-sensei
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mention (locator pages: p.205, p.207-208; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
-

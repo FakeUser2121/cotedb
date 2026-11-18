@@ -1499,6 +1499,14 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:karuizawa-kei] (p.53) He notes he has already talked to Kei about today; clumsily kept secrets become shackles.
 
 <!-- walk: y2v12 ch2 → p.62 -->
+
+### y2v12 p.64, 69, 80 — Ch.3: The D-class room
+[scene] (p.64) Inside the special building's classroom, she is already seated with Sakayanagi and Ryūen — "Sakayanagi, Ryūen, and Ichinose seemed to have arrived without any issues."
+[note] (p.64) She locks eyes with Kanzaki; the narrator reads him dreading Ayanokōji's selection. No line from her is printed on these pages.
+[scene] (p.69) Her name is on the monitor under 2nd Year Class D — Vanguard: Hamaguchi Tetsuya, Middle Guard: Kanzaki Ryūji, General: Ichinose Honami.
+[scene] (p.80) During the hour-long group formation, Ichinose's class forms a small circle of three and discusses group selection seriously — no sign of the other classes' open secretive ways.
+
+<!-- walk: y2v12 ch3 → p.86 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

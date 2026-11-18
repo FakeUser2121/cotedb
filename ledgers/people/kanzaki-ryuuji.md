@@ -446,6 +446,14 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [rel:ichinose-honami] (p.55–56) His source is Ichinose; he protects her feelings above all — he fears Ayanokōji's participation would break her composure.
 
 <!-- walk: y2v12 ch2 → p.62 -->
+
+### y2v12 p.64–65, 69 — Ch.3: Locked eyes across the room
+[scene] (p.64) Inside the special building's classroom, he sits with Class D's trio — Ichinose and Hamaguchi; when the three from B enter, he locks eyes with Ayanokōji; he was dreading to the last moment that he would be the representative.
+[note] (p.64) "He really showed up, huh?" is the narrator's rendering of his unspoken thought, not a spoken line.
+[scene] (p.65) The room scans who the representatives are; the back of Class D's reps is observed from behind; Hamaguchi and Kanzaki are confirmed — Kanzaki is a safe, predictable pick alongside Ichinose.
+[scene] (p.69) His name is on the monitor under 2nd Year Class D — Vanguard: Hamaguchi Tetsuya, Middle Guard: Kanzaki Ryūji, General: Ichinose Honami.
+
+<!-- walk: y2v12 ch3 → p.86 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

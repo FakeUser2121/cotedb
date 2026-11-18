@@ -1169,6 +1169,11 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v12 ch1 → p.25 -->
 
+### y2v12 p.67–68 — Ch.3: Enters with Mashima
+[scene] (p.67) As the representatives get restless waiting, there is movement in the room — Mashima-sensei and Chabashira-sensei appear together, as if announcing the start of the special exam.
+[note] (p.67) "You better quiet down now" is printed with no speaker tag; it is unattributable on these pages (see this volume's attribution gaps).
+
+<!-- walk: y2v12 ch3 → p.86 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

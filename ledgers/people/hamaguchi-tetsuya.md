@@ -103,11 +103,12 @@ char_id: hamaguchi-tetsuya · class: Class 1-B · status: minor
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — hamaguchi-tetsuya mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.30, p.65, p.69, p.94-101, p.119, p.132-133; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.65, 69 — Ch.3: Class D's third representative
+[scene] (p.65) In the room of representatives, he is in Class D's trio alongside Ichinose and Kanzaki — both were certain picks; his abilities are comparable to Hirata's, a model-type student unlikely to cause trouble; the room's consensus is that these were Horikita's and the others' predictable choices.
+[scene] (p.69) On the monitor, he is listed as Class D's vanguard — ahead of Kanzaki (middle guard) and Ichinose (general).
+[note] (p.69) No line is printed for him on these pages.
 
+<!-- walk: y2v12 ch3 → p.86 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

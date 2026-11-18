@@ -304,6 +304,26 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 
 <!-- walk: y2v12 ch1 → p.25 -->
 
+### y2v12 p.65–66 — Ch.3: The body checks (Class B and D rooms)
+[scene] (p.65) Sakagami and Hoshinomiya-sensei handle the body checks in the representatives' room; Hoshinomiya begins the inspection from head to toes with a handheld device, probably a metal detector, working her way from Ayanokōji to Horikita.
+[says] (p.65) “Okay, don’t move now. I’m going to perform a body check.”
+[note] (p.66) She says nothing else during the checks; her remaining lines appear on pp.84–86, in the hallway.
+### y2v12 p.84–86 — Ch.3: The hallway offer
+[scene] (p.84) Right after the group lists are submitted, a hallway in the special building; she follows him out of the classroom as he heads for the restroom; closes the distance close enough to touch him without stretching her arm.
+[says] (p.84) “Going to the restroom? Can I have a moment?”
+[says] (p.84) “It’s surprising to see you coming out as a representative today.”
+[scene] (p.84–85) She bluntly admits this is her class's last chance — they are Class D; she asks him to discreetly hold back and give her the win; when he refuses, she offers "something in return" — then something only she can do — ending with her gently touching his ear.
+[says] (p.84) “Give me the win. I want you to discreetly hold back.”
+[says] (p.85) “What if I say I’ll properly give you something in return?”
+[says] (p.85) “Sae-chan is the one I definitely can’t lose to. For that, I’m willing to do anything.”
+[says] (p.86) “You know what I mean, right?”
+[scene] (p.86) He steps back; tells her that what she can do now is believe in Ichinose's class's victory; she counters "Then you don't know what measures I might take, do you?"; he calls it interesting and leaves for the restroom.
+[says] (p.86) “Then you don’t know what measures I might take, do you?”
+[note] (p.86) Per the printed TL NOTE inside this scene, "吐いた唾は飲めぬ" (spat-out saliva cannot be swallowed) glosses as "words once spoken cannot be taken back."
+[rel:chabashira-sae] (p.85) "Sae-chan is the one I definitely can't lose to" — her nemesis from the prologue monologue; her willingness to do anything is aimed at Sae's class's victory path.
+[rel:ayanokouji-kiyotaka] (p.84–86) She recognizes he is unreadable — "It's like... you can see right through my mind."
+
+<!-- walk: y2v12 ch3 → p.86 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

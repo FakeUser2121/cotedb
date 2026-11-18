@@ -118,10 +118,10 @@ char_id: nishino-takeko · class: Class 1-C · status: minor
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — nishino-takeko mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.65-66, p.69, p.101-108, p.111; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.65–70 — Ch.3: The unexpected C vanguard
+[scene] (p.65) In the room of representatives, she sits with her arms crossed, looking somewhat uneasy; she is aware her existence is out of place — Ryūen's C-class vanguard for an exam that likely requires comprehensive abilities.
+[note] (p.65) No speaker tag attaches any line to her on these pages; she says nothing. Her presence unsettles Horikita, Yōsuke and Ayanokōji far more than Katsuragi's selection.
+[scene] (p.69) On the monitor, she is named as Class C's vanguard alongside Katsuragi (middle guard) and Ryūen (general); she is the only named female vanguard in the exam.
+[note] (p.70) The rule — each class must contain at least one representative from each gender — is stated at p.15; her selection fulfills it for C.
 
-
-
+<!-- walk: y2v12 ch3 → p.86 -->

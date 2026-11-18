@@ -1656,6 +1656,19 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y2v12 ch1 → p.25 -->
 
+### y2v12 p.65, 67, 79–82 — Ch.3: The last representatives to arrive
+[scene] (p.65) He, Horikita and Ayanokōji are the last to arrive; he greets him cheerfully; then the phones are surrendered, the body checks pass, and he sits through the monitor reveal — his face registered no shock at Nishino's name; his larger worry is whether his classmates can function as participants.
+[says] (p.65) “They’re quite thorough, aren’t they?”
+[scene] (p.79) Walking to the waiting room with Horikita and Ayanokōji, he looks at the nine people ahead; he says the burden on the participants is greater than imagined; that conditions are the same for everyone; and that he can't even imagine how the discussion will go.
+[says] (p.79) “I’d be lying if I said I’m not worried, but that should be the same for the other classes.”
+[says] (p.79) “That’s right. The conditions are the same for everyone… It’s everyone’s first experience with such a discussion.”
+[says] (p.79) “It probably won’t go smoothly right away.”
+[says] (p.79) “Honestly, I can’t even imagine how it will go.”
+[scene] (p.81–82) He helps form the groups; he suggests Kushida as an excellent student; he admits uncertainty about whether grouping Kushida together leads the class to victory; he watches Ayanokōji manoeuvre for the traitor right.
+[says] (p.82) “Yeah, I also feel a strong sense of uncertainty. Even if we group students like Kushida-san together, will that be the thing that’ll end up leading our class to victory?”
+[rel:chabashira-sae] (p.65) She is the homeroom teacher he answered to that morning; the "quiet down" line printed at p.67 has no speaker tag.
+
+<!-- walk: y2v12 ch3 → p.86 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

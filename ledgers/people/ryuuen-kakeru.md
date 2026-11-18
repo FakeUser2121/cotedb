@@ -1796,6 +1796,13 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:sakayanagi-arisu] (p.42) He frames the exam as a fair-and-square crush against her; Sakayanagi's section mirrors this.
 
 <!-- walk: y2v12 ch2 → p.62 -->
+
+### y2v12 p.64, 66–67, 69 — Ch.3: The C-class room
+[scene] (p.64) Inside the special building's classroom, he is already seated with Sakayanagi and Ichinose — the three of them "seemed to have arrived without any issues"; some turned around to check who the representatives were when the three from B entered.
+[note] (p.65–67) No line from him is printed on these pages; the monitor names him as Class C's general alongside Nishino (vanguard) and Katsuragi (middle guard); the presence of Nishino is Horikita's and Yōsuke's surprise, not his.
+[scene] (p.69) His name is on the monitor under 2nd Year Class C — Vanguard: Nishino Takeko, Middle Guard: Katsuragi Kōhei, General: Ryūen Kakeru.
+
+<!-- walk: y2v12 ch3 → p.86 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

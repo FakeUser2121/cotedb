@@ -285,14 +285,13 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — kitou-hayato mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.30, p.59, p.66-67, p.69, p.105, p.113-115; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.66–69 — Ch.3: Class A's surprise middle guard
+[scene] (p.66) While size-ups swirl around Katsuragi and Nishino, the monitor confirms Kitō Hayato as Class A's middle guard — a close associate of Sakayanagi, chosen even though his athletic prowess seems irrelevant for a discussion-based exam.
+[note] (p.66) Ayanokōji wonders about Sakayanagi's intentions hidden here; he would have liked to hear each leader's reasoning for their picks.
+[scene] (p.69) On the monitor, Kitō is listed as Class A's middle guard behind Sanada (vanguard) and ahead of Sakayanagi (general).
+[note] (p.69) No line from Kitō is printed on these pages.
 
-
-
-
+<!-- walk: y2v12 ch3 → p.86 -->
 ## y3v1
 
 <!-- walk: y3v1 → start -->

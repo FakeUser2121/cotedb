@@ -255,11 +255,22 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — mashima-tomonari mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.67-69, p.71, p.73-74, p.77, p.80, p.83; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.67–78 — Ch.3: Explaining the special exam
+[scene] (p.67) Mashima-sensei and Chabashira-sensei appear in the classroom just as the reps grow restless; he steps forward — the homeroom teacher of Class A — and announces he will explain the exam and its detailed rules.
+[says] (p.68) “My name is Mashima, and I will be explaining the end-of-year special exam.”
+[scene] (p.69) On the monitor: the twelve finalists — A: Sanada, Kitō, Sakayanagi; B: Hirata, Horikita, Ayanokōji; C: Nishino, Katsuragi, Ryūen; D: Hamaguchi, Kanzaki, Ichinose; each two males and one female; the announcement notes each classroom has an identical setup and Class A vs C will compete here while B vs D faces the same arrangement elsewhere.
+[says] (p.69) “The vanguard representatives from each class will take their seats, and that’s when the special exam will begin.”
+[scene] (p.70–78) He walks through the flow: five groups of seven participants per class; discussion rounds of five minutes; roles — ordinary students, honor students ×2, one teacher, one graduate, one underclassman, one upperclassman, 0–2 traitors; traitor rights once per class per exam; interrogation rules; his tone is flat and complete.
+[says] (p.70) “The basic flow of the special exam is conducted and repeated according to steps ① to ⑤.”
+[says] (p.71) “‘participants’ refers to all students other than you representatives.”
+[says] (p.74) “If both representatives successfully nominate, a process of canceling each other out will occur.”
+[says] (p.76) “The representatives can check these rules on their tablet at any time during the exam.”
+[says] (p.77) “That’s a valid question, but that’s impossible since the participants will receive a ‘different explanation’ from you representatives.”
+[note] (p.74) He was the one explaining the zodiac exam last year as well — noted by Ayanokōji's recollection mid-explanation.
+[note] (p.78) His explanation covers ~10 pages; the questions come only from Sanada; the rest of the room is silent throughout.
+[rel:chabashira-sae] (p.67) They enter together; the half-line "You better quiet down now" is printed without a speaker tag — unattributed, possibly his or hers (see this volume's attribution gaps).
 
+<!-- walk: y2v12 ch3 → p.86 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
@@ -416,4 +427,3 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mention (locator pages: p.205, p.207-208; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
-

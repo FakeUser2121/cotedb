@@ -110,7 +110,11 @@
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — sanada-kousei mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.69, p.77, p.101-112, p.117, p.131; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.69, 77–78 — Ch.3: The vanguard who asks
+[scene] (p.69) On the monitor, he is listed as Class A's vanguard — ahead of Kitō and Sakayanagi.
+[scene] (p.77) The quiet breaks; he asks Mashima's permission to speak, stands and bows slightly to the other representatives; asks whether it wouldn't be immediately obvious if he were to sneak in a traitor among the opponent's participants.
+[says] (p.77) “wouldn’t it be immediately obvious if I were to sneak in a traitor among the opponent’s participants?”
+[note] (p.77–78) Mashima answers that participants get a different explanation — the traitor's situation is therefore never transparent; Sanada accepts the answer and says no more.
+[note] (p.78) He is the only representative who speaks during the whole explanation; no other reps ask anything.
+
+<!-- walk: y2v12 ch3 → p.86 -->

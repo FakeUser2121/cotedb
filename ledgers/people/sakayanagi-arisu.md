@@ -935,6 +935,14 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:kamuro-masumi] (p.59–60) Her regret: she could not talk to Kamuro anymore — expelled; the change in her began with that incident.
 
 <!-- walk: y2v12 ch2 → p.62 -->
+
+### y2v12 p.64, 69, 80 — Ch.3: The A-class room
+[scene] (p.64) Inside the special building's classroom, she is already seated with Ryūen and Ichinose — "Sakayanagi, Ryūen, and Ichinose seemed to have arrived without any issues"; the room checks who the representatives are.
+[note] (p.65–67) No line from her is printed on these pages; the monitor names her as Class A's general alongside Sanada (vanguard) and Kitō (middle guard); her presence in the room unnerves no one as much as his, but it is noted.
+[scene] (p.69) Her name is on the monitor under 2nd Year Class A — Vanguard: Sanada Kousei, Middle Guard: Kitō Hayato, General: Sakayanagi Arisu.
+[scene] (p.80) During the hour-long group formation, Sakayanagi's class never closes the distance or shows signs of discussion — "Those two seem to be making all the groups by themselves."
+
+<!-- walk: y2v12 ch3 → p.86 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
