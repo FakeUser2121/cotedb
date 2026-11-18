@@ -137,13 +137,24 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 
 <!-- walk: y2v9.5 → start -->
 
-### y2v9.5 p.128–129 — Yamamura: tailing Ayanokōji
+### y2v9.5 p.128–143 — Yamamura: tailing Ayanokōji
 [scene] (p.128–129) Ayanokōji catches her hiding in a blind spot near a vending machine; she admits, by silence, that she has been following him for about ten minutes — and the day before as well — but he tells her Ryūen and Katsuragi did not notice.
 [says] (p.128) "What are you doing in a place like that?"
 [says] (p.129) "Really? I felt like Ryūen-kun was trying to lure me out..."
 [trait] (p.128–129) Stealthy and anxious — she tails him out of concern about Ryūen's trap and is flustered at being caught.
 [rel:ayanokouji-kiyotaka] (p.128–129) She follows him; he calls her out gently.
 [rel:ryuuen-kakeru] (p.129) She fears he was trying to lure Ayanokōji out.
+
+[scene] (p.128) He catches her hiding by a vending machine; she's been following him for ten minutes — yesterday too; he tells her he won't report her to Ryūen.
+[scene] (p.130–131) Ryūen reappears, applauding; she's Sakayanagi's spy, not a Ryūen plant; Katsuragi figures it out too; Ryūen lets her go, telling her to visit his room alone anytime.
+[scene] (p.135–137) He finds her by the vending machines; she nearly drops a bottled tea; denies GPS; he gives her the same deal he gives everyone in the group chat; he points her to the truth.
+[scene] (p.138–141) She confesses self-worth concerns; he encourages her; she overhears Kei and Satō; his promise not to let her be expelled finally breaks her guard; he tells her to report it honestly.
+[scene] (p.143–144) She types the message "I've been caught by Ryūen-kun and Katsuragi-kun. I'll tell you the details by call." and sends it; excuses herself in a hurry.
+[says] (p.131) "You've been following me for about 10 minutes, right?"
+[says] (p.138) "Should I not keep quiet about it...?"
+[says] (p.143) "We'll keep the fact that we noticed you a secret."
+[rel:ryuuen-kakeru] (p.132–133) He catches her and teases; he chooses to keep her hunting rather than give her up.
+[rel:sakayanagi-arisu] (p.142) Sends her the message "I've been caught..." — the report to the class leader.
 
 <!-- walk: y2v9.5 Ch.5 → p.129 -->
 

@@ -9254,38 +9254,6 @@ walk: y1v1 → DONE
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
-### y2v9.5 p.58–65 — Ch.3: Back at the mall; teachers, Ichinose, Hōsen
-[scene] (p.59–60) Returns to the mall; spots Ichinose by the Christmas tree; Hoshinomiya and Chabashira intercept him about his solitary Christmas; they leave for karaoke.
-[scene] (p.60–61) Ichinose has been waiting since 10:30 for "memories" photos; 43 so far; she asks for a photo with him, her "main wish"; he agrees; she adjusts angles with him.
-[scene] (p.63–65) Nanase and Hōsen join the photo; Nanase reveals Hōsen came for Ichinose; third-year girls wave; he joins sweatered crowd and leaves.
-[rel:hoshinomiya-chie] (p.59–60) Ribs him about being alone; exits to karaoke.
-[rel:chabashira-sae] (p.59–60) Same scene.
-[rel:ichinose-honami] (p.60–65) For 43 minutes he posed with her like everyone else; she finally got her wish.
-[rel:nanase-tsubasa] (p.63–65) Spotted together for the photo session.
-[rel:housen-kazuomi] (p.64–65) Glared at him; posed anyway.
-
-<!-- walk: y2v9.5 Ch.3 → p.65 -->
-### y2v9.5 p.88–104 — Ch.4: December 26th; Sakayanagi's late-night visit
-[scene] (p.88–89) Spends the day cleaning his room and the dorm; heads out at dusk for discounted unsold cakes; the supermarket has sold them all or thrown them out.
-[scene] (p.90) Browses the supermarket empty-handed; Sakayanagi calls to him from a bench ("Were you out somewhere?"); he tells her about Kei's flu; she mocks his failed cake mission; at p.98 she intercepts his plan to buy a convenience-store cake.
-[scene] (p.92–94) Sanada from Sakayanagi's class arrives; nervous; she asks after him and Ayanokōji's relationship with her; Sanada takes him aside to warn him about Sakayanagi; Sanada makes a phone call; Sakayanagi jokes that she was on a date with Sanada — it was, she admits, a little joke.
-[says:sanada-kousei] (p.92) "She isn't someone you can approach without reason."
-[scene] (p.96–98) Sakayanagi pays a visit to Miya-san (1-B) by phone for Sanada's dating conundrum (birthday 4 days after Christmas — one gift or two?); Sanada buys the birthday present at the store, holding it carefully; Sakayanagi warns Ayanokōji off convenience-store sweets and sweet-talks him not to settle; "take my revenge next year."
-[scene] (p.99–104) At 8 p.m. she calls; tells him she'll come over; he opens the door to snow-dusted Sakayanagi with a small box; she calls it a Christmas cake ("Merry Christmas. Santa has arrived."); Sawada's delayed famous-shop cake from the Keyaki Mall sale ended up hers — she paid private points; they eat together; she asks for a walk; he accepts.
-[rel:sakayanagi-arisu] (p.90–104) Intercepts him on Christmas, counselling him about his cake failure, offering herself as occasional companion; pays for a cake for him; comes to his room uninvited; apparently fine with it.
-[rel:sanada-kousei] (p.92–98) Accompanies Sakayanagi's date-apologist errand;Sanada's nervous around him only because she is.
-
-<!-- walk: y2v9.5 Ch.4 → p.104 -->
-
-### y2v9.5 p.105–111 — Ch.5: The snow walk; Sakayanagi's confession
-[scene] (p.105–107) She waves him outside the dormitory; nearly falls in the snow; he catches her; she walks him through Class A's strengths and weaknesses; warns that Class A students watch him spontaneously; he asks her why she keeps an eye on him; she dismisses it.
-[scene] (p.108–109) At the parting, she stops; tells him she has come to like him — not as a human being, but as a person of the opposite sex; asks him to simply remember; he asks if he can turn that emotion from a weakness into a strength; she laughs.
-[scene] (p.110–111) Her POV: Sakayanagi quietly blushing and smiling alone; she sees Ayanokōji as an enemy she must defeat, and she loves him; she plans to draw out his emotions and change him unexpectedly; admits she's glad his plan went awry since the summer island exam.
-[note] (p.110–111) The chapter's last 2 pages are Sakayanagi's POV; Ayanokōji does not hear any of it.
-[rel:sakayanagi-arisu] (p.108–111) Confession: come to like him as a person of the opposite sex; she says it from a distance; few could believe she waited two years to say it.
-
-<!-- walk: y2v9.5 Ch.5 → p.111 -->
-
 
 ### y2v9.5 p.10 — Ch.1: Irreplaceable daily life
 [scene] (p.10) Reflects that the second year's winter break has begun; just being able to enjoy an ordinary holiday is best; his remaining time as a student is quietly, surely decreasing; frames the year ahead as a long, extended battle in which every day is irreplaceable.
@@ -9347,9 +9315,64 @@ walk: y1v1 → DONE
 [rel:kiryuin-fuuka] (p.45–58) She follows him from curiosity ("your hunched-over back"); he listens, learns her plan: a normal life funded by herself.
 [rel:nagumo-miyabi] (p.55–56) She hints that the third term may bring trouble.
 
-<!-- walk: y2v9.5 Ch.3 → p.58 -->
+### y2v9.5 p.58–65 — Ch.3: Back at the mall; teachers, Ichinose, Hōsen
+[scene] (p.59–60) Returns to the mall; spots Ichinose by the Christmas tree; Hoshinomiya and Chabashira intercept him about his solitary Christmas; they leave for karaoke.
+[scene] (p.60–61) Ichinose has been waiting since 10:30 for "memories" photos; 43 so far; she asks for a photo with him, her "main wish"; he agrees; she adjusts angles with him.
+[scene] (p.63–65) Nanase and Hōsen join the photo; Nanase reveals Hōsen came for Ichinose; third-year girls wave; he joins sweatered crowd and leaves.
+[rel:hoshinomiya-chie] (p.59–60) Ribs him about being alone; exits to karaoke.
+[rel:chabashira-sae] (p.59–60) Same scene.
+[rel:ichinose-honami] (p.60–65) For 43 minutes he posed with her like everyone else; she finally got her wish.
+[rel:nanase-tsubasa] (p.63–65) Spotted together for the photo session.
+[rel:housen-kazuomi] (p.64–65) Glared at him; posed anyway.
 
+<!-- walk: y2v9.5 Ch.3 → p.65 -->
 
+### y2v9.5 p.88–104 — Ch.4: December 26th; Sakayanagi's late-night visit
+[scene] (p.88–89) Spends the day cleaning his room and the dorm; heads out at dusk for discounted unsold cakes; the supermarket has sold them all or thrown them out.
+[scene] (p.90) Browses the supermarket empty-handed; Sakayanagi calls to him from a bench ("Were you out somewhere?"); he tells her about Kei's flu; she mocks his failed cake mission; at p.98 she intercepts his plan to buy a convenience-store cake.
+[scene] (p.92–94) Sanada from Sakayanagi's class arrives; nervous; she asks after him and Ayanokōji's relationship with her; Sanada takes him aside to warn him about Sakayanagi; Sanada makes a phone call; Sakayanagi jokes that she was on a date with Sanada — it was, she admits, a little joke.
+[says:sanada-kousei] (p.92) "She isn't someone you can approach without reason."
+[scene] (p.96–98) Sakayanagi pays a visit to Miya-san (1-B) by phone for Sanada's dating conundrum (birthday 4 days after Christmas — one gift or two?); Sanada buys the birthday present at the store, holding it carefully; Sakayanagi warns Ayanokōji off convenience-store sweets and sweet-talks him not to settle; "take my revenge next year."
+[scene] (p.99–104) At 8 p.m. she calls; tells him she'll come over; he opens the door to snow-dusted Sakayanagi with a small box; she calls it a Christmas cake ("Merry Christmas. Santa has arrived."); Sawada's delayed famous-shop cake from the Keyaki Mall sale ended up hers — she paid private points; they eat together; she asks for a walk; he accepts.
+[rel:sakayanagi-arisu] (p.90–104) Intercepts him on Christmas, counselling him about his cake failure, offering herself as occasional companion; pays for a cake for him; comes to his room uninvited; apparently fine with it.
+[rel:sanada-kousei] (p.92–98) Accompanies Sakayanagi's date-apologist errand;Sanada's nervous around him only because she is.
+
+### y2v9.5 p.105–111 — Ch.4: The snow walk; Sakayanagi's confession
+[scene] (p.105–107) She waves him outside the dormitory; nearly falls in the snow; he catches her; she walks him through Class A's strengths and weaknesses; warns that Class A students watch him spontaneously; he asks her why she keeps an eye on him; she dismisses it.
+[scene] (p.108–109) At the parting, she stops; tells him she has come to like him — not as a human being, but as a person of the opposite sex; asks him to simply remember; he asks if he can turn that emotion from a weakness into a strength; she laughs.
+[scene] (p.110–111) Her POV: Sakayanagi quietly blushing and smiling alone; she sees Ayanokōji as an enemy she must defeat, and she loves him; she plans to draw out his emotions and change him unexpectedly; admits she's glad his plan went awry since the summer island exam.
+[note] (p.110–111) The chapter's last 2 pages are Sakayanagi's POV; Ayanokōji does not hear any of it.
+[rel:sakayanagi-arisu] (p.108–111) Confession: come to like him as a person of the opposite sex; she says it from a distance; few could believe she waited two years to say it.
+
+<!-- walk: y2v9.5 Ch.4 → p.111 -->
+
+### y2v9.5 p.112–113 — Ch.5: Kei recovers; Ryūen calls
+[scene] (p.112) Wakes to a message from Kei: she has recovered; they agree he calls her tonight around 9; she's meeting Satō today.
+[scene] (p.113) An unknown number calls; Ryūen orders him to Keyaki Mall's north entrance in thirty minutes; he agrees to postpone his plans.
+[rel:karuizawa-kei] (p.112) Her first contact since the flu; tonight's call is pending.
+[rel:ryuuen-kakeru] (p.113) Called in without warning; obeys out of curiosity.
+
+### y2v9.5 p.114–122 — Ch.5: Katsuragi meets him; the leaked warning
+[scene] (p.114) Katsuragi waits at the north entrance — Ryūen summoned him too; they walk in circles discussing the class; Katsuragi reveals Ryūen's inner circle strategy.
+[scene] (p.117) Ryūen arrives with a hamburger; the three of them walk and talk; Ryūen reveals third-years warned of a big, risky special exam early in the third term.
+[scene] (p.119–121) Kiryūin (3-B) and Ibeyama (3-D) leaked it independently three days ago; likely the same guidance was sent to each class's leader; class voting one or two expulsions; Katsuragi suggests waiting for official disclosure.
+[scene] (p.122) Ryūen wants a one-on-one fight with Sakayanagi in the third term; Katsuragi resists naming anyone until the exam is disclosed.
+[rel:katsuragi-kouhei] (p.114–122) Shares class gossip, wonders about strategy; trusts Ayanokōji with inner-circle secrets.
+[rel:ryuuen-kakeru] (p.117–122) Threatens him; reveals the third-years' warning; asks for help with Sakayanagi; extends an olive-branch invite to his room.
+[rel:kirin... ]
+
+### y2v9.5 p.127–148 — Ch.5: Tailing game; vending-machine hiding; Satō's call
+[scene] (p.127–128) The stroll ends; Ryūen walks off, leaving him "exhausted"; on the way home he notices Yamamura following him for ten minutes with yesterday's evidence.
+[scene] (p.130–133) Ryūen reappears right behind them; Yamamura's surveillance of him and Sakayanagi is exposed; Ryūen lets her keep her secret for now; Katsuragi disapproves.
+[scene] (p.135–143) He tracks Yamamura's flight path; finds her by vending machines; she almost drops a bottled tea; he all but orders her to report the failure to Sakayanagi; she sends the "I've been caught" message to Sakayanagi right away.
+[scene] (p.139–142) Kei and Satō walk by right after; he hides with Yamamura; they talk about make-up and promises; Yamamura overhears.
+[scene] (p.144–148) At home he makes yogurt from a 1000-yen milk + yogurt mixer; Satō calls about Kei — wants to make up; he makes the "invisible contract": whoever can't protect Kei, he will.
+[says:satou-maya] (p.147) "That's obvious!"
+[rel:yamamura-miki] (p.127–143) She tails him; he teases her failure; convinces her to report honestly.
+[rel:ryuuen-kakeru] (p.130–134) He toys with her; he leaves town at last.
+[rel:satou-maya] (p.144–148) She checks on Kei's reconciliation; he makes the invisible contract.
+
+<!-- walk: y2v9.5 Ch.5 → p.148 -->
 
 
 ## y2v9.75
