@@ -1786,14 +1786,15 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 ## y2v7
 
+
+### y2v7 p.7-207 — ichinose-honami mentioned in passing
+[scene] (p.7) Named in this volume.
+[note] (p.7) Passing mentions on pages: p.9, p.29, p.32-33, p.41-43, p.52.
+[mentioned] (p.7) Passing mention only.
+
 <!-- walk: y2v7 → start -->
 
-### y2v7 pp.7-207 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v7 Epilogue → p.207 -->
 
 ## y2v8
 

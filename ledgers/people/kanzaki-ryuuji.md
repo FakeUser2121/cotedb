@@ -630,12 +630,7 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 pp.7-207 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v7 Epilogue → p.207 -->
 
 ### y2v7 p.57–71 — Kanzaki's confession; the resolve to change his class
 [scene] (p.57) Meets Ayanokōji in the special wing at his own request (though Ayanokōji called him), grim and wary.

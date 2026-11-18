@@ -653,12 +653,7 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 pp.7-207 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v7 Epilogue → p.207 -->
 
 ### y2v7 p.184–186 — Haruka's apology; staying for Airi
 [says] (p.184) "I have not forgiven everyone here."

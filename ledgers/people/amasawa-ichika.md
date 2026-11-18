@@ -286,14 +286,15 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 [rel:yagami-takuya] (p.339) She wants to expose "Takuya" so he'll fight Ayanokōji.
 ## y2v7
 
+
+### y2v7 p.7-207 — amasawa-ichika mentioned in passing
+[scene] (p.7) Named in this volume.
+[note] (p.7) Passing mentions on pages: p.104, p.108, p.126-130, p.161, p.168.
+[mentioned] (p.7) Passing mention only.
+
 <!-- walk: y2v7 → start -->
 
-### y2v7 pp.7-207 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v7 Epilogue → p.207 -->
 
 ## y2v8
 

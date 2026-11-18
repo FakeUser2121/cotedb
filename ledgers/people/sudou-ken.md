@@ -1870,14 +1870,15 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:horikita-suzune] (p.297) She congratulates him on winning every event.
 ## y2v7
 
+
+### y2v7 p.7-207 — sudou-ken mentioned in passing
+[scene] (p.7) Named in this volume.
+[note] (p.7) Passing mentions on pages: p.8-9, p.11-13, p.23-25, p.27, p.98-100.
+[mentioned] (p.7) Passing mention only.
+
 <!-- walk: y2v7 → start -->
 
-### y2v7 pp.7-207 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v7 Epilogue → p.207 -->
 
 ## y2v8
 

@@ -617,14 +617,15 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [note] (p.13) The girl inviting him to "revenge" is unnamed on these pages — no speaker attribution assigned (§7).
 ## y2v7
 
+
+### y2v7 p.7-207 — miyake-akito mentioned in passing
+[scene] (p.7) Named in this volume.
+[note] (p.7) Passing mentions on pages: p.13-14, p.84, p.107, p.110-111, p.142.
+[mentioned] (p.7) Passing mention only.
+
 <!-- walk: y2v7 → start -->
 
-### y2v7 pp.7-207 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v7 Epilogue → p.207 -->
 
 ## y2v8
 

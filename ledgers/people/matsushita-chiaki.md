@@ -201,14 +201,15 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 
 ## y2v7
 
+
+### y2v7 p.7-207 — matsushita-chiaki mentioned in passing
+[scene] (p.7) Named in this volume.
+[note] (p.7) Passing mentions on pages: p.12-18, p.20-21, p.27, p.86, p.90-92.
+[mentioned] (p.7) Passing mention only.
+
 <!-- walk: y2v7 → start -->
 
-### y2v7 pp.7-207 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v7 Epilogue → p.207 -->
 
 ## y2v8
 

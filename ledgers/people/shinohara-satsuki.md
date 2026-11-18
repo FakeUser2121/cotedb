@@ -401,14 +401,15 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 ## y2v7
 
+
+### y2v7 p.7-207 — shinohara-satsuki mentioned in passing
+[scene] (p.7) Named in this volume.
+[note] (p.7) Passing mentions on pages: p.26, p.54, p.110, p.132-133, p.177.
+[mentioned] (p.7) Passing mention only.
+
 <!-- walk: y2v7 → start -->
 
-### y2v7 pp.7-207 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v7 Epilogue → p.207 -->
 
 ## y2v8
 

@@ -95,14 +95,15 @@ char_id: onodera-kayano · status: minor
 [rel:horikita-suzune] (p.343–344) Sudō keeps looking for "Suzune" — Onodera teases him ("Hahaha, absolutely not").
 ## y2v7
 
+
+### y2v7 p.7-207 — onodera-kayano mentioned in passing
+[scene] (p.7) Named in this volume.
+[note] (p.7) Passing mentions on pages: p.8-9, p.99-100.
+[mentioned] (p.7) Passing mention only.
+
 <!-- walk: y2v7 → start -->
 
-### y2v7 pp.7-207 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v7 Epilogue → p.207 -->
 
 ## y2v8
 

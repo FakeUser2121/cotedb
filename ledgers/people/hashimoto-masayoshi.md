@@ -891,14 +891,15 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 
 ## y2v7
 
+
+### y2v7 p.7-207 — hashimoto-masayoshi mentioned in passing
+[scene] (p.7) Named in this volume.
+[note] (p.7) Passing mentions on pages: p.17-19, p.27, p.29-30, p.89-90, p.189.
+[mentioned] (p.7) Passing mention only.
+
 <!-- walk: y2v7 → start -->
 
-### y2v7 pp.7-207 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v7 Epilogue → p.207 -->
 
 ## y2v8
 

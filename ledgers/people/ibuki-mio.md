@@ -1082,14 +1082,15 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:amasawa-ichika] (p.273–275) She wants to beat the "piece of shit brat" first-year — joins Horikita's volleyball team for that chance.
 ## y2v7
 
+
+### y2v7 p.7-207 — ibuki-mio mentioned in passing
+[scene] (p.7) Named in this volume.
+[note] (p.7) Passing mentions on pages: p.88, p.119-120, p.130, p.165, p.167-170.
+[mentioned] (p.7) Passing mention only.
+
 <!-- walk: y2v7 → start -->
 
-### y2v7 pp.7-207 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v7 Epilogue → p.207 -->
 
 ## y2v8
 
