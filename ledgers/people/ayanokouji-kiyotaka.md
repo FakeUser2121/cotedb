@@ -9265,6 +9265,26 @@ walk: y1v1 → DONE
 [rel:housen-kazuomi] (p.64–65) Glared at him; posed anyway.
 
 <!-- walk: y2v9.5 Ch.3 → p.65 -->
+### y2v9.5 p.88–104 — Ch.4: December 26th; Sakayanagi's late-night visit
+[scene] (p.88–89) Spends the day cleaning his room and the dorm; heads out at dusk for discounted unsold cakes; the supermarket has sold them all or thrown them out.
+[scene] (p.90) Browses the supermarket empty-handed; Sakayanagi calls to him from a bench ("Were you out somewhere?"); he tells her about Kei's flu; she mocks his failed cake mission; at p.98 she intercepts his plan to buy a convenience-store cake.
+[scene] (p.92–94) Sanada from Sakayanagi's class arrives; nervous; she asks after him and Ayanokōji's relationship with her; Sanada takes him aside (she isn't someone you can approach without reason); Sanada makes a phone call; Sakayanagi jokes that she was on a date with Sanada — it was, she admits, a little joke.
+[scene] (p.96–98) Sakayanagi pays a visit to Miya-san (1-B) by phone for Sanada's dating conundrum (birthday 4 days after Christmas — one gift or two?); Sanada buys the birthday present at the store, holding it carefully; Sakayanagi warns Ayanokōji off convenience-store sweets and sweet-talks him not to settle; "take my revenge next year."
+[scene] (p.99–104) At 8 p.m. she calls; tells him she'll come over; he opens the door to snow-dusted Sakayanagi with a small box; she calls it a Christmas cake ("Merry Christmas. Santa has arrived."); Sawada's delayed famous-shop cake from the Keyaki Mall sale ended up hers — she paid private points; they eat together; she asks for a walk; he accepts.
+[rel:sakayanagi-arisu] (p.90–104) Intercepts him on Christmas, counselling him about his cake failure, offering herself as occasional companion; pays for a cake for him; comes to his room uninvited; apparently fine with it.
+[rel:sanada-kousei] (p.92–98) Accompanies Sakayanagi's date-apologist errand;Sanada's nervous around him only because she is.
+
+<!-- walk: y2v9.5 Ch.4 → p.104 -->
+
+### y2v9.5 p.105–111 — Ch.5: The snow walk; Sakayanagi's confession
+[scene] (p.105–107) She waves him outside the dormitory; nearly falls in the snow; he catches her; she walks him through Class A's strengths and weaknesses; warns that Class A students watch him spontaneously; he asks her why she keeps an eye on him; she dismisses it.
+[scene] (p.108–109) At the parting, she stops; tells him she has come to like him — not as a human being, but as a person of the opposite sex; asks him to simply remember; he asks if he can turn that emotion from a weakness into a strength; she laughs.
+[scene] (p.110–111) Her POV: Sakayanagi quietly blushing and smiling alone; she sees Ayanokōji as an enemy she must defeat, and she loves him; she plans to draw out his emotions and change him unexpectedly; admits she's glad his plan went awry since the summer island exam.
+[note] (p.110–111) The chapter's last 2 pages are Sakayanagi's POV; Ayanokōji does not hear any of it.
+[rel:sakayanagi-arisu] (p.108–111) Confession: come to like him as a person of the opposite sex; she says it from a distance; few could believe she waited two years to say it.
+
+<!-- walk: y2v9.5 Ch.5 → p.111 -->
+
 
 ### y2v9.5 p.10 — Ch.1: Irreplaceable daily life
 [scene] (p.10) Reflects that the second year's winter break has begun; just being able to enjoy an ordinary holiday is best; his remaining time as a student is quietly, surely decreasing; frames the year ahead as a long, extended battle in which every day is irreplaceable.

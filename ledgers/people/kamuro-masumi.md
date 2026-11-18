@@ -379,7 +379,7 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 
 <!-- walk: y2v9.5 → start -->
 
-### y2v9.5 p.80–81, 189–203 — Kamuro: intel, warnings and probing Ayanokōji
+### y2v9.5 p.80–87, 189–203 — Kamuro: intel, warnings and probing Ayanokōji
 [scene] (p.80–81) She listens to Hashimoto's eavesdropping report but says she already knew much of it; she is dismissive of his casual charm.
 [says] (p.80) "I knew some of it to some extent."
 [scene] (p.189–193) On the library outing she warns Hiyori that being seen with Ayanokōji looks abnormal, then interrogates him about snooping around Class A (Morishita) and says he is the only one who can influence Sakayanagi.
@@ -390,6 +390,10 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [rel:hashimoto-masayoshi] (p.80–203) Her classmate; rebukes his antics repeatedly.
 [rel:shiina-hiyori] (p.189–190) Warns her about being seen with Ayanokōji.
 [rel:sakayanagi-arisu] (p.193, 203) Dislikes her personally but now thinks in the class's interest.
+
+[scene] (p.82–84) Resists his bleak read that Class A is finished; rejects the class-change ticket idea and the 20M-point framing.
+[scene] (p.85–87) Accepts the scout pact with conditions: that only she makes contact with Ayanokōji; refuses his dating proposal; leaves.
+[rel:hashimoto-masayoshi] (p.82–87) Reluctant partner; controls the contact line.
 
 <!-- walk: y2v9.5 Epilogue → p.203 -->
 
