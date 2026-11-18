@@ -6,10 +6,6 @@ char_id: kiryuin-fuuka · class: unknown · status: unknown
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 pp.7-368 — Full volume
-
-[scene] (p.7) Appears in this volume.
-
 ### y2v3 p.50–52 — Kiryūin-senpai, a fellow solo third-year
 [scene] (p.50) Spotted among the calm Class 3-B students disembarking; approaches Ayanokōji at the starting area while he searches for Nagumo.
 [says] (p.51) "You're still here, Ayanokōji?"

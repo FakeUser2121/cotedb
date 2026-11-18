@@ -91,12 +91,7 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 pp.7-368 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v3 Epilogue → p.368 -->
 
 ### y2v3 p.268–273 — Yagami's plot exposed; forced confession
 [scene] (p.268) At the first-year reps meeting, presses Tsubaki to reveal her plan, having deduced she's the true mastermind.

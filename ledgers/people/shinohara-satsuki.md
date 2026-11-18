@@ -335,12 +335,14 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 pp.7-368 — Full volume
+### y2v3 p.179–181 — Shinohara found hiding
+[scene] (p.179–181) She is found hiding in the forest; she says she saw someone push Komiya and Kinoshita.
+[says] (p.180) "…Komiya-kun and Kinoshita-san… Somebody… I saw somebody push"
+[trait] (p.179–181) Terrified and traumatized — she was too scared to move.
 
-[scene] (p.7) Appears in this volume.
+<!-- walk: y2v3 Ch.5 → p.181 -->
 
 
-<!-- walk: y2v3 Epilogue → p.368 -->
 
 ## y2v4
 

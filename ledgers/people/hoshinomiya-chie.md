@@ -353,12 +353,15 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 pp.7-368 — Full volume
+### y2v3 p.62–67 — Hoshinomiya tries to recruit Ayanokōji
+[scene] (p.62–67) She meets Ayanokōji at Task site C6 and tries to recruit him to Class 2-C; she complains about her class's state and asks him to aim for Class A with them.
+[says] (p.65) "I really thought that this class would be the one to reach Class A, but…"
+[trait] (p.62–67) Frustrated and desperate — she wants Ayanokōji to join her class.
+[rel:ayanokouji-kiyotaka] (p.62–67) She tries to recruit him.
 
-[scene] (p.7) Appears in this volume.
+<!-- walk: y2v3 Ch.2 → p.67 -->
 
 
-<!-- walk: y2v3 Epilogue → p.368 -->
 
 ### y2v3 p.65–67 — Hoshinomiya at the Task site; her transfer proposal
 [scene] (p.65) Keeps Ayanokōji at the Grip Strength Measurement Task site as an excuse to talk, openly dissatisfied that her Class 2-C fell to Class C.

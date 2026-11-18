@@ -70,18 +70,25 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 
 <!-- walk: y2v2 Ch.3 → p.169 -->
 
+### y2v3 p.84–88 — Hondō at Task site C6
+[scene] (p.84–88) He is at Task site C6 with Sudō and Ike; he seems disinterested.
+[trait] (p.84–88) Present but not very engaged.
+
+<!-- walk: y2v3 Ch.3 → p.88 -->
+
+### y2v3 p.113–114 — Hondō with Sudō's group
+[scene] (p.113–114) He is with Sudō's group; he seems disinterested but participates.
+[trait] (p.113–114) Present but not very engaged.
+
+<!-- walk: y2v3 Ch.4 → p.114 -->
+
 
 
 ## y2v3
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 pp.7-368 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v3 Epilogue → p.368 -->
 
 ## y2v4.5
 

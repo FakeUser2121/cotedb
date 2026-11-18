@@ -310,12 +310,14 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 pp.7-368 — Full volume
+### y2v3 p.120–126 — Kamuro at the Beach Flags Task
+[scene] (p.120–126) She participates in the Beach Flags Task and arrives late; she is surprised Ayanokōji is there.
+[says] (p.123) "Oh shut it. Don't talk to me… It's hot and I'm all sweaty now, this"
+[trait] (p.120–126) Blunt and competitive.
 
-[scene] (p.7) Appears in this volume.
+<!-- walk: y2v3 Ch.4 → p.126 -->
 
 
-<!-- walk: y2v3 Epilogue → p.368 -->
 
 ## y2v4.5
 

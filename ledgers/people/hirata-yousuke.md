@@ -1780,12 +1780,20 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 pp.7-368 — Full volume
+### y2v3 p.9–10 — Hirata anxious about the island exam
+[scene] (p.9–10) On the ship, he walks with Ayanokōji, anxious about the exam; they discuss the island's size and heat.
+[trait] (p.9–10) Anxious but determined — he resolves to put forth every effort.
+[rel:ayanokouji-kiyotaka] (p.9–10) They discuss the exam.
 
-[scene] (p.7) Appears in this volume.
+<!-- walk: y2v3 Ch.1 → p.10 -->
+
+### y2v3 p.56 — Hirata mentioned at the first designated area
+[scene] (p.56) He is mentioned as having a different Table; Ayanokōji's group meets Sakura, Miyake and Haruka.
+[trait] (p.56) Part of the class's group dynamics.
+
+<!-- walk: y2v3 Ch.2 → p.56 -->
 
 
-<!-- walk: y2v3 Epilogue → p.368 -->
 
 ### y2v3 p.9–11 — Hirata's resolve before the island exam
 [says] (p.9) "This is a much bigger island than the last one, just like Mashima-sensei said it'd be."

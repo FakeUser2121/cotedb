@@ -262,12 +262,14 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 pp.7-368 — Full volume
+### y2v3 p.32–34 — Tsukishiro's speech at the briefing
+[scene] (p.32–34) He gives a speech warning about sexual misconduct and disputes; he condones but doesn't endorse fighting.
+[says] (p.32) "I am Tsukishiro, your Acting Director. This uninhabited island exam is..."
+[trait] (p.32–34) Authoritative and slightly ominous.
 
-[scene] (p.7) Appears in this volume.
+<!-- walk: y2v3 Ch.1 → p.34 -->
 
 
-<!-- walk: y2v3 Epilogue → p.368 -->
 
 ### y2v3 p.342–346 — Tsukishiro threatens Ichinose; expects his trap to spring
 [scene] (p.342) Arrives (slightly late) with Ichinose's backpack, reining in Shiba from disposing of her; questions her about what she overheard.

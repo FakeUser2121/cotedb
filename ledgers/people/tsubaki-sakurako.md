@@ -103,12 +103,13 @@ char_id: tsubaki-sakurako · class: Class 1-C · status: unknown
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 pp.7-368 — Full volume
+### y2v3 p.48–49 — Tsubaki at the start of the island exam
+[scene] (p.48–49) She is seen with Nishino; Ishizaki tries to motivate them.
+[trait] (p.48–49) Part of Ishizaki's group.
 
-[scene] (p.7) Appears in this volume.
+<!-- walk: y2v3 Ch.2 → p.49 -->
 
 
-<!-- walk: y2v3 Epilogue → p.368 -->
 
 ### y2v3 p.267–273 — Tsubaki's trap: exposing and coercing Yagami
 [scene] (p.267) At 9 PM on day six, the first-year reps meet at F9 beach (bonfire signal) — Tsubaki (the unlikely organizer), Takahashi, Yagami, Utomiya, Hōsen (absent).

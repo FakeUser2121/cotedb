@@ -2073,12 +2073,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 pp.7-368 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v3 Epilogue → p.368 -->
 
 ### y2v3 p.213–219 — Ryūen agrees to the Shinohara rescue plan
 [scene] (p.213) Emerges from his tent at the bottom-eight commotion; later fishing by a river with Katsuragi when Ayanokōji seeks him out.

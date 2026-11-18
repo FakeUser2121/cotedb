@@ -815,18 +815,20 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y2v2 Epilogue → p.335 -->
 
+### y2v3 p.48 — Kōenji's reliability questioned
+[scene] (p.48) Horikita and Ayanokōji discuss whether Kōenji will take the exam seriously; it's a coin flip.
+[says] (p.48) "Who knows… While he's agreed to my bet, there's no telling what he'll do."
+[trait] (p.48) Unpredictable — his participation is uncertain.
+
+<!-- walk: y2v3 Ch.2 → p.48 -->
+
 
 
 ## y2v3
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 pp.7-368 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v3 Epilogue → p.368 -->
 
 ### y2v3 p.221–237 — Kōenji's dominance: Tug of War and swimming
 [scene] (p.221) Already at the C5 summit when Ayanokōji arrives — traveled light with only a bottle of water, no tablet/bag; pours water over himself, basking in his own "masculine beauty."

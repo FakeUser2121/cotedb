@@ -1748,12 +1748,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 pp.7-368 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v3 Epilogue → p.368 -->
 
 ### y2v3 p.305–320 — Kushida tails Ayanokōji; her plot exposed by Amasawa
 [scene] (p.305) On day seven, tails Ayanokōji through the storm toward D3 using a hidden walkie-talkie and the GPS Search feature, coordinating with an accomplice to pinpoint his location.

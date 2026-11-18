@@ -1072,12 +1072,14 @@ aliases used for anchors: sakura, airi, sakura-san
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 pp.7-368 — Full volume
+### y2v3 p.56 — Sakura at the first designated area
+[scene] (p.56) She meets Ayanokōji with Miyake and Haruka at the first designated area; she is disappointed they have different Tables.
+[says] (p.56) "It kinda sucks though. I hope we can meet up again somewhere when"
+[trait] (p.56) Friendly and hopeful.
 
-[scene] (p.7) Appears in this volume.
+<!-- walk: y2v3 Ch.2 → p.56 -->
 
 
-<!-- walk: y2v3 Epilogue → p.368 -->
 
 ## y2v4
 

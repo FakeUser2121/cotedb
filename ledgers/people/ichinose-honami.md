@@ -1691,12 +1691,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 pp.7-368 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v3 Epilogue → p.368 -->
 
 ### y2v3 p.331–345 — Ichinose's broken watch; Tsukishiro's threat
 [scene] (p.331) On the island, her watch breaks (leaving her group unable to earn points or use GPS); she sets off alone to get it fixed, while her group (expanded via a Task and merged with Hashimoto's) aims for the top.

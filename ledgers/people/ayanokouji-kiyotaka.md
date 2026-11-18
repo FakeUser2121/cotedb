@@ -7675,12 +7675,85 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 pp.7-368 — Full volume
+### y2v3 p.9–13 — On the ship: Hirata and Kei
+[scene] (p.9–10) On the ship approaching the island, he walks with Hirata, who is anxious about the exam; they discuss the island's size and heat.
+[scene] (p.11–13) He meets Kei on the aft deck for a secret date; she worries about being seen, and they discuss the upcoming briefing.
+[trait] (p.9–13) Calm and observant — he reads Hirata's anxiety and manages Kei's nervousness.
+[rel:hirata-yousuke] (p.9–10) They discuss the exam.
+[rel:karuizawa-kei] (p.11–13) Secret date on the ship.
 
-[scene] (p.7) Appears in this volume.
+<!-- walk: y2v3 Ch.1 → p.13 -->
+
+### y2v3 p.14–42 — The briefing: exam rules and Tsukishiro
+[scene] (p.14–35) Mashima explains the uninhabited island exam rules: Basic Movement, Tasks, watches with health monitoring, group sizes, points, and penalties.
+[scene] (p.32–34) Tsukishiro gives a speech warning about sexual misconduct and disputes; he condones but doesn't endorse fighting.
+[scene] (p.40–42) Housen causes a scene trying to carry excessive water.
+[trait] (p.14–42) He listens carefully and mentally breaks down the rules.
+[rel:tsukishiro] (p.32–34) Tsukishiro gives his speech.
+[rel:housen-kazuomi] (p.40–42) Housen causes a scene.
+
+<!-- walk: y2v3 Ch.1 → p.42 -->
+
+### y2v3 p.43–56 — Day 1: Horikita, Hirata, Sakura, and the first designated area
+[scene] (p.43–46) He walks with Horikita at the start; they discuss their Tables, Kōenji's reliability, and point averaging.
+[scene] (p.56) He reunites with Sakura, Miyake and Haruka; they discuss their Tables and next areas.
+[trait] (p.43–56) Calm and strategic — he plans his route and point management.
+[rel:horikita-suzune] (p.43–46) They walk together at the start.
+[rel:sakura-airi] (p.56) He meets Sakura's group.
+
+<!-- walk: y2v3 Ch.2 → p.56 -->
+
+### y2v3 p.58–69 — Nanase, Hoshinomiya, and Task D7
+[scene] (p.58–59) He meets Nanase again; she has earned 3 points and he earned 2; they part ways.
+[scene] (p.62–67) At Task site C6, Hoshinomiya tries to recruit him to Class 2-C; she complains about her class's state and asks him to aim for Class A with them.
+[says] (p.62) "You came all the way here, but unfortunately, registration closed up"
+[says] (p.65) "I really thought that this class would be the one to reach Class A, but…"
+[trait] (p.58–67) He is polite but non-committal — he declines Hoshinomiya's recruitment.
+[rel:nanase-tsubasa] (p.58–59) They meet again and compare points.
+[rel:hoshinomiya-chie] (p.62–67) She tries to recruit him.
+
+<!-- walk: y2v3 Ch.2 → p.69 -->
+
+### y2v3 p.75–88 — Day 2: Nanase accompanies him
+[scene] (p.75–81) Nanase asks to accompany him; he agrees, noting she might fall behind alone.
+[says] (p.79) "If it's not too much trouble, would you perhaps allow me to accompany you?"
+[scene] (p.84–88) At Task site C6, they meet Sudō, Hondō and Ike; Sudō warns him about Nanase being an enemy.
+[says] (p.85) "I'm doin' aight' on points. Took third in one of our designated areas"
+[says] (p.87) "…Ey Ayanokōji, c'mere a sec."
+[trait] (p.75–88) He is cautious but pragmatic — he lets Nanase tag along while staying alert.
+[rel:nanase-tsubasa] (p.75–88) She accompanies him.
+[rel:sudou-ken] (p.84–88) Sudō warns him about Nanase.
+
+<!-- walk: y2v3 Ch.3 → p.88 -->
+
+### y2v3 p.110–145 — Day 3: Nanase, Sudō, and the Beach Flags Task
+[scene] (p.110–114) He wakes with Nanase; they discuss Ike's situation and head toward the next area with Sudō and Hondō.
+[scene] (p.118–126) At the Beach Flags Task, Nanase participates while he watches; Kamuro arrives late and he wins the Task.
+[says] (p.123) "I see that you chose a rather cute swimsuit. Is there a reason for that?"
+[scene] (p.127–132) Kiriyama approaches and warns him; Nagumo appears and they talk; Asahina says goodbye.
+[says] (p.127) "I'll say it again just to be sure: Don't get in my way, got it?"
+[scene] (p.134–151) He and Nanase discuss water strategy and his solo approach; they find another Task.
+[trait] (p.110–151) Strategic and observant — he plans water acquisition and manages Nanase.
+[rel:nanase-tsubasa] (p.110–151) She accompanies him.
+[rel:sudou-ken] (p.113–114) Sudō joins their group.
+[rel:kiriyama-ikuto] (p.127) Kiriyama warns him.
+[rel:nagumo-miyabi] (p.130–132) Nagumo appears and talks.
+
+<!-- walk: y2v3 Ch.4 → p.151 -->
+
+### y2v3 p.164–186 — Emergency: Komiya and Kinoshita injured, Shinohara found
+[scene] (p.164–169) An emergency alert wakes the group; they find Komiya and Kinoshita unconscious and injured; Shinohara is missing.
+[scene] (p.176–181) They search and find Shinohara hiding; she says she saw someone push Komiya and Kinoshita.
+[says] (p.180) "…Komiya-kun and Kinoshita-san… Somebody… I saw somebody push"
+[scene] (p.183–186) Ayanokōji chases the fleeing attacker but loses them in the forest.
+[trait] (p.164–186) Calm under pressure — he leads the search and manages the injured.
+[rel:shinohara-satsuki] (p.179–181) He finds her and comforts her.
+[rel:komiya-kyogo] (p.169–176) Komiya is injured.
+[rel:kinoshita] (p.169–176) Kinoshita is injured.
+
+<!-- walk: y2v3 Ch.5 → p.186 -->
 
 
-<!-- walk: y2v3 Epilogue → p.368 -->
 
 ### y2v3 p.9–11 — Arriving at the island; Hirata's resolve
 [scene] (p.9) On July 20, sails toward a much larger deserted island under a blue sky — the exam site for the next two weeks; temperature near 40°C.

@@ -1653,12 +1653,20 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 pp.7-368 — Full volume
+### y2v3 p.11–13 — Kei's secret date on the ship
+[scene] (p.11–13) She meets Ayanokōji on the aft deck for a secret date; she worries about being seen and discusses the upcoming briefing.
+[trait] (p.11–13) Nervous but affectionate — she worries about exposure but enjoys the time together.
+[rel:ayanokouji-kiyotaka] (p.11–13) Secret date on the ship.
 
-[scene] (p.7) Appears in this volume.
+<!-- walk: y2v3 Ch.1 → p.13 -->
+
+### y2v3 p.48–49 — Kei mentioned at the start
+[scene] (p.48–49) She is mentioned in passing; Nishino and Tsube are seen heading out; Ayanokōji notes Kei's group situation.
+[trait] (p.48–49) Part of the class's group dynamics.
+
+<!-- walk: y2v3 Ch.2 → p.49 -->
 
 
-<!-- walk: y2v3 Epilogue → p.368 -->
 
 ### y2v3 p.11–14 — A secret moment with Kiyotaka on the ship
 [scene] (p.11) Waves Ayanokōji over on theaft deck of the "Saint Venus," making sure nobody's around; they stand together looking at the sparkling sea.

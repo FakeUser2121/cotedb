@@ -290,12 +290,7 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 pp.7-368 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v3 Epilogue → p.368 -->
 
 ### y2v3 p.16–27 — Mashima's island exam briefing
 [scene] (p.16) Class 2-A's homeroom teacher stands before the screen in the movie theater, microphone in hand, explaining the rules (with Hoshinomiya handing him the watch).

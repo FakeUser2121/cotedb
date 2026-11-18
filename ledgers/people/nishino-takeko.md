@@ -55,12 +55,13 @@ char_id: nishino-takeko · class: Class 1-C · status: minor
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 pp.7-368 — Full volume
+### y2v3 p.48–49 — Nishino at the start of the island exam
+[scene] (p.48–49) She is seen heading out with Tsube; Ishizaki tries to motivate her.
+[trait] (p.48–49) Isolated and reluctant — she doesn't want to push herself.
 
-[scene] (p.7) Appears in this volume.
+<!-- walk: y2v3 Ch.2 → p.49 -->
 
 
-<!-- walk: y2v3 Epilogue → p.368 -->
 
 ## y2v4
 

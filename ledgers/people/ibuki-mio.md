@@ -983,12 +983,7 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 pp.7-368 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v3 Epilogue → p.368 -->
 
 ### y2v3 p.14–16 — Ibuki at the briefing, stuck beside Ayanokōji
 [says] (p.15) "…Ugh. Why the hell are you sitting here?"
