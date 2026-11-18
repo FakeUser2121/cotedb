@@ -532,6 +532,14 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [note] (p.9) Passing mention (locator pages: p.11, p.16, p.134, p.146, p.168, p.170; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.11 — Ch.1: Passing by the two
+[scene] (p.11) She entered the classroom, greeted her classmates, and passed by him.
+[says] (p.11) “You two seemed quite close this morning.”
+[says] (p.11) “Thanks for the meal,”
+[note] (p.11) TL Note: Satō says ご馳走様 (Gochisōsama) — the phrase said after finishing a meal (いただきます is said before it); here it thanks Kiyotaka for the lovey-dovey shipping material.
+[note] (p.11) Apparently she had witnessed the walk to school from behind.
+
+<!-- walk: y2v10 Ch.1 → p.30 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

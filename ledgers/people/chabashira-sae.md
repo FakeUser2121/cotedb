@@ -1503,9 +1503,18 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v10 Ch.2 → p.46 -->
 
+### y2v10 p.12–13 — Ch.1: Homeroom, bedhead and the notice
+[scene] (p.12) Third-term homeroom; she greets the class, hand on the lectern, and announces the flash-by third term; then a forgotten notice: the school's first ‘student-teacher discussion’ next month on careers and employment, parents' survey already completed.
+[says] (p.12) “The third term starts today. They say January comes and goes, February flies by, and March disappears; this period of time will pass by you in a flash. Make sure you don’t spend your days out of habit, and stay focused.”
+[says] (p.12) “I forgot to mention one important notice. Next month, we plan to have our first ‘student-teacher discussion’ at this school. It will be centered around discussions about your career and employment, interwoven with talks about your school life up till now. Of course, we have already completed a survey with your parents.”
+[says] (p.12) “Even though high school isn’t compulsory education, we can’t ignore the parents’ words and allow students to decide their own paths. Of course, there will be parent-teacher conferences when the time comes.”
+[says] (p.13) “If you’re curious about anything, it’s okay to come and ask me directly.”
+[trait] (p.12) A little bedhead at the back of her head; probably woke late and hurried; for someone telling students to stay focused, her words read a little unconvincing.
+[trait] (p.13) Realized her own bed hair on the way out; one hand closed the door, the other patted the back of her head.
+[note] (p.13) The page prints a doubled period in the narration (“head..Apparently”); kept as printed.
+[note] (p.12) Her talk of parent-teacher conferences lands ominously for Ayanokōji (his parent might come again) — his interior beat, not hers.
 
-
-
+<!-- walk: y2v10 Ch.1 → p.30 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

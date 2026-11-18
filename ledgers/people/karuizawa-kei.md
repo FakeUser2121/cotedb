@@ -1953,9 +1953,24 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v10 Ch.2 → p.58 -->
 
+### y2v10 p.9–11 — Ch.1: Kei walks him to school
+[scene] (p.9) Last morning before the third term; winter crowds on the way to school; Kei wrapped his right arm in warmth and chatted on autopilot; on the first day back, arm in arm through the gate into the classroom.
+[says] (p.9) “What’s the matter, Kiyotaka? You’ve stopped.”
+[says] (p.9) “What? You were staring at my face.”
+[says] (p.9) “It’s not that I dislike it, but... Hmm, I want to kiss you again. A lot.”
+[says] (p.10) “Everyone, good morning~”
+[action] (p.9–10) Stuck to him from start to finish except the shoe-changing at the gate; waved and winked ‘see you later’ leaving behind deep affection; went off to greet her friends.
+[trait] (p.9) Loves to chat; the daily life with her is at least free from boredom; her favorite lipstick before leaving; her moist lips caught his eye.
+[rel:ayanokouji-kiyotaka] (p.9–11) Arm in arm through the gates and to her friends; the public show he accepts because of Kei.
 
+### y2v10 p.16 — Ch.1: Watching the girls to the cafeteria
+[scene] (p.16) Lunchtime; Kei had already formed a group with the girls, Satō included, and was headed to the cafeteria; he watched her retreating figure from the corridor; the girls were neatly lined up in a row.
 
+### y2v10 p.29 — Ch.1: The TV and the untouched sketchbook
+[scene] (p.29) After 9 p.m., Kei returned home after coming over; the TV left on aired a variety show (five paintings, guess the real one); she loves watching TV and often leaves it on when the two of them are alone; he found himself not especially fond of variety shows.
+[note] (p.29) The sketchbook and colored pencils he bought with private points shortly after enrolling sat untouched in the second drawer; Kei's puzzled look when she discovered them is recalled here; his inability to decide what to draw is the page's quiet beat.
 
+<!-- walk: y2v10 Ch.1 → p.30 -->
 ## y2v10.25
 
 <!-- walk: y2v10.25 → start -->

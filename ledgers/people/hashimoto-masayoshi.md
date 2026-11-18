@@ -925,6 +925,26 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [note] (p.9) Passing mention (locator pages: p.8, p.101, p.104, p.119-120, p.146, p.148-152; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.8 — Prologue: Hashimoto Masayoshi's monologue
+[scene] (p.8) "Hashimoto Masayoshi's Monologue" opens the volume; pages 1–7 are blank/front matter (RoyalMTLs watermark kept as printed); a first-person monologue in which Hashimoto sets out his creed.
+[voice] (p.8) Distrustful, guarded, sly; despises the contrast between his name and his thoughts; says he has given up on being a defender of justice.
+[says] (p.8) “I have a deep mistrust of people.”
+[says] (p.8) “People betray easily.”
+[says] (p.8) “Isn’t that the case?”
+[says] (p.8) “It’s better to live slyly and benefit, than to live honestly and struggle like an”
+[note] (p.8) The sentence ends with “idiot.” in the page-top drop-cap block (“T” over “idiot.”) above the monologue's opening line; kept as printed.
+[says] (p.8) “I’ll definitely graduate in Class A—I’ll get back at those who betrayed me.”
+[says] (p.8) “I’ll knock anyone down.”
+[says] (p.8) “Whether the opponent is Ryūen or Sakayanagi. Or even Ayanokōji.”
+[says] (p.8) “I act solely for myself.”
+[trivia] (p.8) TL Note: Masayoshi's kanji can be interpreted as “justice.” (the note is the translator's; his "justice" is the joke he despises)
+[goal] (p.8) Since joining the school he has resolved to graduate in Class A and get back at those who betrayed him; he vows to do anything dirty to reach it, by any means, and names Ryūen, Sakayanagi and Ayanokōji as possible opponents.
+[note] (p.8) Pages 4–7 carry only watermark/page-number lines; no prose. The monologue is the volume's only prologue content.
+[rel:ryuuen-kakeru] (p.8) Named as a possible opponent in his Class A revenge.
+[rel:sakayanagi-arisu] (p.8) Named as a possible opponent in his Class A revenge.
+[rel:ayanokouji-kiyotaka] (p.8) Named as a possible opponent in his Class A revenge.
+
+<!-- walk: y2v10 Prologue → p.8 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

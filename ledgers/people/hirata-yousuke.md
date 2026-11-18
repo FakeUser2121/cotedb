@@ -1983,12 +1983,14 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y2v10 Ch.2 → p.50 -->
 
+### y2v10 p.14–15 — Ch.1: Yōsuke's university plan
+[scene] (p.14) After Chabashira-sensei left the room, the class was engrossed in the student-teacher conference and careers; the girls surrounding him started the conversation; he has a clear plan.
+[says] (p.14) “I’m planning to go to university, irrespective of the Class A privileges. My parents have told me from a young age that that’s what they want.”
+[says] (p.14) “Haha, not quite. Even if I do use the Class A privileges to forcibly become a professional, if my skills don’t match, it’s clear that I’d be let go soon. Even if I go to university, I’m planning to continue playing soccer, but only as a hobby.”
+[goal] (p.14–15) University, based on natural aptitude; soccer stays a hobby; driven by his parents' wish, not by privileges.
+[voice] (p.14) Humble, practical; doesn’t overrate his own sporting aptitude; consistent with his studies and stated ability.
 
-
-
-
-
-
+<!-- walk: y2v10 Ch.1 → p.30 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

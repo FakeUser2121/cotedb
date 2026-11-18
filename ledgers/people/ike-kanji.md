@@ -1313,8 +1313,12 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y2v10 Ch.1 → p.13 -->
 
+### y2v10 p.12 — Ch.1: Student-teacher discussions announced
+[scene] (p.12) First to speak after Chabashira-sensei's notice, as always, was Ike; the class had not known such a discussion existed at this school.
+[says] (p.12) “I didn’t know we had such a thing at this school. I actually thought we didn’t.”
+[voice] (p.12) The first to speak up, as always, as Chabashira-sensei finished the morning notice; no one in the class was surprised.
 
-
+<!-- walk: y2v10 Ch.1 → p.30 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

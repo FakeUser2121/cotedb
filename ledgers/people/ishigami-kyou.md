@@ -155,3 +155,11 @@ char_id: ishigami-kyou · class: unknown · status: unknown
 [mentioned] (p.14) Mentioned in the career discussion; spelling variance kept as printed.
 
 <!-- walk: y2v10 Ch.1 → p.15 -->
+
+### y2v10 p.14–15 — Ch.1: Keisei on the top-company path
+[scene] (p.14) “Keisei, a top student in our class, opened his mouth.” — the class's most credentialed voice on using the Class A privileges.
+[says] (p.14) “If we’re talking about the Class A privileges, then we should definitely opt for a job at a top company. Setting aside the exceptional case where one’s skills are obviously not up to par, as long as we can work as much as others, we won’t be fired easily. For us, jumping into a world where we win as long as we get in might be the best option.”
+[trait] (p.14) Logical; advocates the top-company get-in-and-win play; his statement leaves the classmates nodding, convinced.
+[note] (p.15) An untagged classmate then says: “Considering efficiency, Yukimura-kun’s choice might be correct. But I think it’s also important to aim for the job you want.” The speaker of that line is unattributed; not assigned.
+
+<!-- walk: y2v10 Ch.1 → p.30 -->

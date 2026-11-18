@@ -4622,13 +4622,13 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 <!-- walk: y2v10 → start -->
 ### y2v10 p.123–125 — Ch.6: Special exam begins; Sakagami-sensei
 [scene] (p.123–125) Horikita leads the pre-exam seating; calm; Sakagami joins; she confronts Sakayanagi directly.
-[scene] (p.128–127) The first five are nominated by Horikita to answer, class B goes on the edge; she starts the sequence.
+[scene] (p.126–128) The first five are nominated by Horikita to answer, class B goes on the edge; she starts the sequence.
 [scene] (p.141–143) Lunch break; she remains composed; she says expulsion is the price of losing; Kei and Satō worry too.
 [scene] (p.155–161) Cafeteria before the second half; she and Ayanokōji and Sakayanagi banter; she meets Sakayanagi-led chaos luck; she warns herself to stay patient.
 [scene] (p.163–164) Straightforwardly explains the exam to the class; assures Hou-era-level “can do.”
 [note] (p.128) Horikita's first turn yields both well above and below expectations; she logs each turn's data methodically.
 [note] (p.123) She's in full command; she single-handedly shaped the first half to a draw.
-[rel:sakayanagi-arisu] (p.155–161) Lunch meeting clashes with SakayanagiMadeleine's rise; she's a calm leader.
+[rel:sakayanagi-arisu] (p.155–161) Lunch meeting clashes with Sakayanagi-arisu's rise; she's a calm leader.
 
 <!-- walk: y2v10 Ch.6 → p.188 -->
 
@@ -4636,17 +4636,76 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [scene] (p.16) After Kei's group heads off to cafeteria, she appears behind him and offers to treat him; she proposes eating Ibuki's first-ever home bento on an empty outdoor bench as a full-blooded gamble.
 [scene] (p.17–20) She forces Ayanokōji and Kushida into the plan, brings him along reluctantly; they drag him outdoors to the cold bench; Ibuki arrives with a lunchbox wrapped in furoshiki from a 100-yen shop; everybody shares it with disposable chopsticks.
 [scene] (p.22–26) Her honest verdict: not delicious but visually better than zero; seasoning too rough; Ibuki tries to swallow it; fight; she walks off disgusted but with stamina; declares the match a clean win for her.
-[says] (p.16) "Kushida is coming along too. That's quite unusual."
+[says:ayanokouji-kiyotaka] (p.16) “Kushida is coming along too. That’s quite unusual.”
 [says] (p.18) "She's the type who never did any home cooking before. So she usually only had imbalanced meals."
 [says] (p.22) "I'd give you a bonus 30 points for how it looks, perhaps."
 [rel:ibuki-mio] (p.17–26) Dangles the challenge; baits her into serving them.
 [rel:kushida-kikyou] (p.16–26) Brings him into the plan.
 [rel:ayanokouji-kiyotaka] (p.16–26) Wants to feed him Ibuki's bento as comedy.
 
-<!-- walk: y2v10 Ch.1 → p.26 -->
+### y2v10 p.16–28 — Ch.1: The Ibuki bento gambit
+[scene] (p.16) Corridor; AK and Horikita exchange words about girls walking side by side; she offers to treat him to lunch; he accepts reluctantly; they head for somewhere "less popular".
+[says] (p.16) “I don’t know why you’re asking me. Walking side by side is just a nuisance.”
+[says] (p.16) “Isn’t it better to leave the mystery as it is?”
+[says] (p.16) “If you tell me why girls always walk side by side, I might consider it.”
+[says] (p.16) “I do have something. Ayanokōji-kun, can I treat you to lunch today?”
+[says] (p.17) “How rude. I won’t ask for money or anything strange, so you can relax.”
+[says] (p.17) “You sure took a while to decide.”
+[says] (p.17) “I may not like that about you, but it’s okay. Kushida-san, are you ready?”
+[says] (p.17) “No, somewhere... somewhere less popular would be better.”
+[says] (p.17) “Yes, that’s what I said, didn’t I?”
+[says] (p.17) “Please stop. I understand your anxiety, but that’s unnecessary.”
+[says] (p.18) “It’s a homemade lunch by Ibuki-san.”
+[says] (p.18) “She’s making one lunchbox for me, Kushida-san, and you today, so we’re going to divide it into three equal parts and share it. Didn’t I tell you that?”
+[says] (p.18) “She’s the type who never did any home cooking before. So she usually only had imbalanced meals. That’s probably new to your vague memory, isn’t it?”
+[says] (p.18) “Because imbalanced nutrition is unhealthy, I recently invited her to my room a few times and let her eat the food I made. She came without fail, albeit begrudgingly, because it saved her money on her food expenses.”
+[says] (p.18) “However, it was a bit of a hassle having to cook for three people, myself included.”
+[says] (p.18) “It was a tit for tat. When Horikita taunted her, saying she should at least learn how to cook, she loudly boasted, ‘Even I can cook if I put my mind to it!’ ‘Then show me you can.’ ‘Prepare yourself and wait, I’ll do it.’ ‘If you can’t even do that, go die.’ ‘If I pull it off, I’ll kill you.’”
+[says] (p.19) “And that’s how we got here.”
+[says] (p.19) “It’s not pleasant to hear you say that I tricked you. I just wanted to share Ibuki-san’s cooking with as many people as possible. And wouldn’t it be strange to involve people who aren’t close to her? And it’s too early to assume that it won’t be delicious.”
+[says] (p.19) “You hate to lose too, don’t you, Kushida-san? You came here against your better judgment just because you were cheaply provoked by Ibuki-san, asking if you were going to run away like a coward, didn’t you?”
+[says] (p.19) “It doesn’t seem like she’s here yet. We’re just in time for our appointment though...”
+[says] (p.20) “It’s indeed a pointless gathering, but I properly invited Ibuki-san too, you know? She just rejected the idea of walking together.”
+[says] (p.20) “I don’t want to assume the result, but there’s no doubt she’s probably failed.”
+[says] (p.20) “She’s clearly the overconfident type, so we can’t take her attitude seriously.”
+[says] (p.20) “Your confidence is apparent. But if that’s the case, you should handle your food more delicately. Even if your cooking turns out well, you would still fail as a chef.”
+[says] (p.22) “I won’t say yet. I don’t want my reaction to influence yours. Your turn.”
+[says] (p.22) “I’d give you a bonus 30 points for how it looks, perhaps.”
+[note] (p.22) The "30 points" line carries no name tag; attribution rests on turn-taking after Ibuki's "Of course." and Horikita's subsequent commentary on the simmered dishes — not on an explicit tag.
+[says] (p.22) “I’m giving you a compliment, you know. I thought something close to 0 points would appear.”
+[says] (p.22) “Let’s get to the tasting.”
+[says] (p.22) “Take it seriously.”
+[says] (p.23) “Since we all finished eating, I’ll give you my honest opinion. It’s not delicious.”
+[says] (p.23) “It’s not inedible and, visually, it was better than the 0-point worst case scenario. I can tell that a beginner worked hard to make this, but more than that, it’s clear that there was too much salt; the seasoning was added haphazardly.”
+[says] (p.24) “If you say that, then you eat it. You haven’t even tasted it properly, have you?”
+[says] (p.24) “I didn’t say it’s inedible. It just doesn’t taste good. Now, go on and eat it.”
+[says] (p.24) “If I were to score your cooking this time, I would give it 20 points.”
+[says] (p.24) “Out of 100.”
+[says] (p.24) “I was being generous with you. I don’t even want to eat this lunch box.”
+[says] (p.24) “Are you sane? This is a poorly made, mediocre lunch box.”
+[says] (p.25) “Your score is fair. Thanks for the somewhat unclear analogy. At least, I clearly understood that you weren’t giving it praise.”
+[says] (p.25) “If you say you’ll remake it later, I might make time for you.”
+[says] (p.25) “Giving up early isn’t a bad thing. Cooking just isn’t for you right now.”
+[says] (p.25) “You shouldn’t do that. You must consider your nutrition well when preparing meals. How long must I repeat what I have already explained? That’s why you don’t grow up.”
+[says] (p.26) “Alright, alright. Don’t bite at every little thing. The fact that you always get prickly proves that you’re not getting enough nutrition. Come to my room at seven o’clock tonight.”
+[says] (p.26) “I didn’t invite you, though?”
+[says] (p.26) “Don’t you already have enough private points?”
+[says] (p.26) “Well, that wraps things up. Good job.”
+[says] (p.26) “You could have eaten the whole horrible bento without hesitation.”
+[says] (p.27) “It was a joke. Let’s go to the cafeteria. I’ll treat you to whatever you like.”
+[says] (p.27) “Thanks to them, my food expenses have almost doubled. Kushidasan came even though I didn’t invite her.”
+[says] (p.27) “I wonder. She seems to enjoy inflicting damage on me more than anything else. Including Ibuki-san, it feels like they just can’t help wanting to see my struggles and frustrated expression.”
+[says] (p.27) “There’s nothing like that. It’s not a typical girls’ gathering. There’s no laughing, and it’s always tense. Did you not see our exchange earlier?”
+[says] (p.27) “Let’s go. It’s a waste of time to keep talking about those two forever.”
+[says] (p.28) “Just... do whatever you want.”
+[trivia] (p.27) The corpus prints "Kushidasan" as one word (p.27); kept as printed.
+[trait] (p.18) Feeds Ibuki to fix her imbalanced nutrition; cooks three portions including her own, begrudgingly but reliably.
+[feat] (p.22–24) Competent cook with an exacting palate; pinpoints the eyeballed salt and uneven prep from a single bite.
+[rel:ibuki-mio] (p.18–26) The gambit's author; 20/100 verdict; keeps feeding her at seven o'clock.
+[rel:kushida-kikyou] (p.17–27) Uninvited seven-o'clock guest; endures her for the free meals she's chasing.
+[rel:ayanokouji-kiyotaka] (p.16–28) Forces the tasting on him; her first real treat-him-to-lunch of the year.
 
-
-
+<!-- walk: y2v10 Ch.1 → p.30 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

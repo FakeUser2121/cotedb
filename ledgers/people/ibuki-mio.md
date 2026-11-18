@@ -1118,8 +1118,43 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v10 Ch.1 → p.26 -->
 
+### y2v10 p.18–26 — Ch.1: Ibuki's seven-dish bento, judged
+[scene] (p.18) The tit-for-tat background: Horikita needled her about cooking; she answered "Even I can cook if I put my mind to it!"; now the showdown lunch arrives.
+[says:ibuki-mio] (p.18) “Even I can cook if I put my mind to it!”
+[note] (p.18) This line is Horikita's retelling of Ibuki's boast, printed as direct speech inside Horikita's speech in the corpus; attribution is via Horikita.
+[scene] (p.20) She arrived at the meeting spot with a plain furoshiki-wrapped bento from a 100 yen shop; slapped it onto the bench; joined AK and the others at the dining spot.
+[says] (p.20) “Why is Ayanokōji here? I didn’t invite him.”
+[says] (p.20) “Of course not!”
+[says] (p.20) “You’ll regret ever talking about me failing. Hurry up and eat.”
+[says] (p.20) “Hmm. I wouldn’t be here if I didn’t think I could win.”
+[says] (p.20) “Shut up. Just eat quickly. Then, apologize to me, Horikushi! You too, Ayanokōji!”
+[says] (p.20) “Stop babbling about failure!”
+[note] (p.20) "Horikushi" — her portmanteau for "Horikita + Kushida"; kept as printed.
+[says] (p.22) “Of course.”
+[says] (p.22) “The taste matters in cooking, not the appearance.”
+[says] (p.23) “What!?”
+[says] (p.24) “You guys aren’t judging fairly!”
+[says] (p.24) “Taste test…? I haven’t, but it looks normal and must be edible.”
+[says] (p.24) “...Ugh, it’s not delicious—it’s delicious... Amazing!?”
+[says] (p.24) “Why isn’t this delicious? It has such a plain and disappointing taste! And it’s salty!”
+[says] (p.24) “Even if you tell me that, I just thought there wasn’t much of a difference between a tablespoon or two teaspoons, it’s just a nuisance!”
+[says] (p.24) “...Out of 20?”
+[says] (p.24) “Whaaaaat!? Is the judge bribed!?”
+[says] (p.25) “Hey Kushida! What are you looking at when you say that?!”
+[says] (p.25) “On the contrary, I realized it’s stupid to even bother with cooking. You are all wasting your time.”
+[says] (p.25) “You can simply buy a bento at a convenience store or supermarket. It saves you time and you don’t need to deal with leftover ingredients. And it even tastes delicious. Right?!”
+[says] (p.25) “I won’t make it again!”
+[says] (p.26) “I’m going to kick you now! I’m going to force you to apologize!”
+[says] (p.26) “If you insist so much, I accept!”
+[says] (p.26) “See you then!”
+[trivia] (p.21) The bento: fried rice (oversized ingredients), mini tomatoes, tamagoyaki, gratin, simmered dishes, fried items, mini hamburgers, four slices of baran; every portion small but generously laid out; seven types total.
+[limit] (p.23–25) Never cooked before; eyeballed seasoning (a tablespoon vs two teaspoons), unpeeled carrots, uneven sizes, too-moist croquette filling; quits cooking outright at the end.
+[trait] (p.20) Overconfident showman; arrives boasting rather than sheepish; first home bento ever.
+[rel:horikita-suzune] (p.18–26) Lost the wager; accepts the seven-o'clock dinner invitation despite herself.
+[rel:kushida-kikyou] (p.19–26) The “What are you looking at” barb lands on Kushida; threatens kicks; stays engaged.
+[rel:ayanokouji-kiyotaka] (p.20–26) Sickly-sweet demand that he apologize; his deserted-island ratings analogy saves her a little dignity.
 
-
+<!-- walk: y2v10 Ch.1 → p.30 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

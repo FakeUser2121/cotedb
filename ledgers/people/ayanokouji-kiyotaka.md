@@ -9770,21 +9770,25 @@ walk: y1v1 → DONE
 ## y2v10
 
 <!-- walk: y2v10 → start -->
+### y2v10 p.8 — Prologue: Hashimoto's vow
+[scene] (p.8) Hashimoto's monologue opens the volume; he names Ayanokōji as a possible opponent in his Class A revenge.
+[rel:hashimoto-masayoshi] (p.8) Named in Hashimoto's monologue as a possible opponent in his Class A revenge.
+
+<!-- walk: y2v10 Prologue → p.8 -->
+
 ### y2v10 p.9–10 — Ch.1: Third term opens; Kei walks him to school
 [scene] (p.9) The last morning before the third term began; crowds on the way to school; Kei holds his right arm and chats; he pets against her hand; the daily routine; his inward tug toward solitude.
-[scene] (p.10) Third term opens arakawa; Kei and he separate at the gate; Sudō piles on about the school email warning first-years caught during winter break; he warns carelessly about cameras.
-[says] (p.9) "It's not that I dislike it, but... Hmm, I want to kiss you again. A lot."
+[scene] (p.10) Third term opens; Kei and he separate at the gate; Sudō piles on about the school email warning first-years caught during winter break; he warns carelessly about cameras.
+[says:karuizawa-kei] (p.9) “It’s not that I dislike it, but... Hmm, I want to kiss you again. A lot.”
 [note] (p.9) Both siblings' insecurities acknowledged: his "time left" theme continues.
 [rel:karuizawa-kei] (p.9–10) Walks to school arm in arm; she's his anchor.
 
-<!-- walk: y2v10 Ch.1 → p.10 -->
 
 ### y2v10 p.11 — Ch.1: Sudō's fatigue
 [scene] (p.10–11) Sudō mocks him for it, then flags an email about first-year pairs being penalized; asks about the email; Sudō sighs heavily; he's worn down juggling studies and sports; Ayanokōji warns him not to rush.
 [says] (p.11) "Too much hurry spoils the curry."
 [rel:sudou-ken] (p.10–11) Surprisingly tender and weary; studies + basketball.
 
-<!-- walk: y2v10 Ch.1 → p.11 -->
 
 ### y2v10 p.12–15 — Ch.1: Chabashira's morning notice
 [scene] (p.12–13) Homeroom opens; Chabashira announces first 'student-teacher discussion'; "That man might come again"; Ike speaks first; she pats her own hair realizing her bedhead.
@@ -9792,7 +9796,6 @@ walk: y1v1 → DONE
 [rel:chabashira-sae] (p.12–13) Honest, slightly tired; realizes she looked rough this morning.
 [rel:hirata-yousuke] (p.14–15) Plans to go to university.
 
-<!-- walk: y2v10 Ch.1 → p.15 -->
 
 ### y2v10 p.16–26 — Ch.1: The Ibuki lunchbox wager
 [scene] (p.16) At lunchtime, watching Kei's retreating form; Horikita offers to treat him; he accepts reluctantly (bad past experiences).
@@ -9801,10 +9804,9 @@ walk: y1v1 → DONE
 [rel:horikita-suzune] (p.16–26) Proposes to feed him; enlists him against Ibuki.
 [rel:kushida-kikyou] (p.16–26) Helps her bait him.
 [rel:ibuki-mio] (p.18–26) Her first home bento ever — a failed bet.
-[rel:keisei-ishigami] (p.14) Keisei (top student) — actually text p.14 says "Keisei"; this is Ishigami-Kyō in this translation; mention only.
+[rel:ishigami-kyou] (p.14) Keisei — a top student in the class (the text says "Keisei"); mention only.
 [rel:hirata-yousuke] (p.14) Discussed career with him.
 
-<!-- walk: y2v10 Ch.1 → p.26 -->
 ### y2v10 p.27–30 — Ch.1: Sketchbook, empty of meaning
 [scene] (p.27) He walks beside Horikita after lunch; she remarks that the trio's bond is strange; he says it formed at a time of shared hardship; he considers friendship emerging between her and the others.
 [scene] (p.28) Horikita forces him to eat at the cafeteria; refuses; pays; she orders for both; the food arrives; she eats well; he pretends balance; they step out into the evening.
@@ -9830,7 +9832,6 @@ walk: y1v1 → DONE
 [rel:karuizawa-kei] (p.51–52) Anxiety and reassurance.
 [rel:morishita-ai] (p.53–59) Lying in wait; curious; tracks him.
 
-<!-- walk: y2v10 Ch.2 → p.59 -->
 ### y2v10 p.46–59 — Ch.2: The leader nomination battle; Morishita follows
 [scene] (p.46) Chabashira asks the class for a volunteer; silence; Yōsuke finally nods after thirty seconds; Horikita takes the leader role with few obstructions.
 [scene] (p.47–48) Maezono challenges: Horikita hesitated during the Kushida expulsion vote — questionable decision-maker; Hasebe tenses; Kōenji stays eerily quiet; Ike grumbles.
@@ -9855,7 +9856,6 @@ walk: y1v1 → DONE
 [says] (p.60) "I heard that someone was delivering food while I couldn't go out ... I've mentioned it to you before, Ayanokōji-kun, and I wanted to ask for your help."
 [rel:wang-mei-yu] (p.60–65) She swallowed pride asking him; nervously trusts him along for the way.
 
-<!-- walk: y2v10 Ch.3 → p.65 -->
 ### y2v10 p.66–80 — Ch.3: Kōenji is the benefactor; the gift-hunt
 [scene] (p.66–68) They wait in a bench by the vending area; the clerk reveals "Kōenji, um, Rokusuke-kun" — long-haired blond; the secret deliveries were from Kōenji all along; she thanks him indirectly; watches him harder.
 [scene] (p.68–73) Mii-chan handles the implications fairly calmly; she fakes ordinary gratitude; realizes Kōenji must appreciate charm/Wang-girl gifts; she buys him towels and watches from outside the gym; he benches 200 kg; they wait for him to finish; 40 minutes pass.
@@ -9889,7 +9889,6 @@ walk: y1v1 → DONE
 [rel:shinohara-satsuki] (p.82) His girlfriend; she's already heard the idea; smiles through the lecture.
 [rel:horikita-suzune] (p.81–89) She breaks his ego gently; then confirms his idea was valuable; he's oddly relieved.
 
-<!-- walk: y2v10 Ch.4 → p.92 -->
 
 ### y2v10 p.92–100 — Ch.4: One-on-one with Horikita; the Ibuki question
 [scene] (p.92–93) Café by the window; they wait in line; he orders two blended coffees; sits her down; she slowly opens up; silent long seconds; trickles complaints; she admits she has been worried for the exam ranking.
@@ -9918,7 +9917,6 @@ walk: y1v1 → DONE
 [scene] (p.103–105) They meet at the Keyaki Mall café with Kamuro and Kitō; Sakayanagi denies it's a strategy meeting, calls it a tea party — enjoying it for her own reasons; Hashimoto that turns it into a stealth intel-drop.
 [scene] (p.106–109) Sat in his dorm with Kei until late, then his phone rings; it's Kanzaki asking if he wants to talk — and he says yes; they invite Ichinose and Amikura; Kei's mild jealousy; the visit lasts past six.
 
-<!-- walk: y2v10 Ch.5 → p.109 -->
 
 ### y2v10 p.110–118 — Ch.5: Ichinose returns alone
 [scene] (p.110–113) Ichinose returns alone claiming she forgot her phone; she quietly asks if he's alone; locks the door; he suggests closing it for privacy; she pushes back with herself as logistics; she tackles him accidentally; he catches her; the scene is unusual.
@@ -9930,7 +9928,6 @@ walk: y1v1 → DONE
 [rel:kanzaki-ryuuji] (p.106–118) He visits in the evening; Ichinose then engineers a private moment with him.
 [rel:watanabe-norihito] (p.110–118) Storms in accidentally; gets cornered by Ichinose; becomes her puppet.
 
-<!-- walk: y2v10 Ch.5 → p.118 -->
 
 ### y2v10 p.119–122 — Ch.5: Hashimoto calls Sakayanagi
 [scene] (p.119) Phone call to Sakayanagi the night before; he warns about collusion; she deflects; he offers everything he has; Sakayanagi shows alarm at collusion; he emphasizes Ryūen cooperation suspicion; she concedes nothing — Enjoy the battle as her own project; his intel is mostly noise; he returns to his dorm troubled.
@@ -9947,7 +9944,6 @@ walk: y1v1 → DONE
 [note] (p.126) Ayanokōji's prediction: this is the exam that guarantees an elimination among the four classes.
 [rel:ryuuen-kakeru] (p.124–127) Receiver of Ichinose's aid; Sakayanagi and Horikita know he's not reliable.
 
-<!-- walk: y2v10 Ch.6 → p.127 -->
 
 ### y2v10 p.128–163 — Ch.6: A 65-point tank battle; leaks emerge
 [scene] (p.128) Ichinose attacks Ryūen; four people correct; Ishizaki, Isoyama, Yano, and Morofuji — all eliminated in this half; Horikita-Kobayashi, Shibata, and Sonoda selected as protected; Ishikura gets the answer correct by misunderstanding her own instruction — three points.
@@ -9958,7 +9954,6 @@ walk: y1v1 → DONE
 [scene] (p.144–154) Sakayanagi's reliable nominations keep flowing; her class feels her edge slip because of the unknown variable — the attacks pattern reveals a leak.
 [scene] (p.155–157) Cafeteria; Horikita status-review with AK; Sakayanagi joins; they confirm questions and selections; AK overhears; Sakayanagi improvises; she heads straight danger — priority.
 
-<!-- walk: y2v10 Ch.6 → p.163 -->
 ### y2v10 p.164–188 — Ch.6: Back half battle; traitor outed; Ryūen wins
 [scene] (p.167–170) Ayanokōji discusses points with Horikita; Ichinose targets Kei repeatedly — ten consecutive nominations; she is protected each time (probably as Ichinose-faction signal); Haruka warns Kei to stay shut.
 [scene] (p.172–176) Ryūen lives up to category; he bullies through everything in sight; Horikita announces she's not worried about outcome — the class seems lost; only Ryūen's class remains dangerous.
@@ -9995,6 +9990,10 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v10 Epilogue → p.235 -->
 
+## y2v10.25
+
+<!-- walk: y2v10.25 → start -->
+
 ### y2v10.25 p.1–9 — SS: From That Time On…
 [scene] (p.1) After the survival exam ends, the first break arrives; he goes to the gym early; remembers to look up a certain word — a red-panda photo article about the exam question he'd gotten wrong.
 [scene] (p.2) Ichinose and Amikura arrive; AMI Ichinose ribs him about flubbing the tapioca question; Amikura teases about not watching TV.
@@ -10007,6 +10006,7 @@ walk: y1v1 → DONE
 [rel:amikura-mako] (p.3–8) Listens to her warning; accepts the boundary; doesn't promise easy answers.
 
 <!-- walk: y2v10.25 Epilogue → p.9 -->
+
 ## y2v11
 
 <!-- walk: y2v11 → start -->

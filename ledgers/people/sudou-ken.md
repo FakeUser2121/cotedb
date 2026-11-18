@@ -1926,9 +1926,24 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v10 Ch.2 → p.50 -->
 
+### y2v10 p.10–11 — Ch.1: Sudō, worn thin
+[scene] (p.10) Already in the classroom at the first morning back; awkward and envious of the arm-in-arm entrance; warns him about the school email on winter-break first-years; his face closer to his when he envies.
+[says] (p.10) “Damn, don’t come to school like that. It’s embarrassing, Ayanokōji.”
+[says] (p.10) “Going to school arm in arm, isn’t that the peak of cheerful people? Dammit, I’m envious.”
+[says] (p.10) “Obviously! Hell, it’d be seriously creepy if you’d wanted that, for real.”
+[says] (p.10) “Being lovey-dovey is fine and all, but have you seen the school’s email about first-years being caught during winter break? I’m not worried about you guys, but just be careful.”
+[says] (p.10) “They should’ve just done it indoors. How about you? What are your thoughts as a senpai?”
+[says] (p.10) “Do you... want to do various things... outside?”
+[says] (p.11) “Oh, okay. That sounds like a unique perspective only you would have... It’s a bit off-putting.”
+[says] (p.11) “—Phew.”
+[says] (p.11) “That wasn’t about you. Sorry if it seemed like an unpleasant sigh.”
+[says] (p.11) “Lately, I’ve been feeling a bit tired. I thought I could balance both studies and sports, but it’s getting tougher. Eh... It’s not a big deal.”
+[says] (p.11) “Yeah... Anyway, I’m looking forward to working with you again from today forward.”
+[trait] (p.11) Weary under the raised-voice exterior; masks the tiredness as nothing; visibly deflated when his own sigh slipped out.
+[action] (p.11) Switched gears, smiled and headed to his seat after accepting the ‘Too much hurry spoils the curry’ advice.
+[rel:ayanokouji-kiyotaka] (p.10–11) Envies him; envious of the peak of cheerful people; Sudō sighs; AK answers the sensei question awkwardly.
 
-
-
+<!-- walk: y2v10 Ch.1 → p.30 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

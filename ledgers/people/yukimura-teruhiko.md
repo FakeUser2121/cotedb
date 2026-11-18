@@ -1017,6 +1017,11 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.9) Passing mention (locator pages: p.15, p.132, p.141, p.148; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.15 — Ch.1: Yukimura's choice, referenced
+[mentioned] (p.15) Passing mention: an untagged classmate says “Considering efficiency, Yukimura-kun’s choice might be correct. But I think it’s also important to aim for the job you want.” — his choice is praised as the efficiency case; its content is not detailed on the page.
+[note] (p.15) Speaker of that line is unattributed; Yukimura himself does not speak on these pages; his choice's content left empty rather than guessed.
+
+<!-- walk: y2v10 Ch.1 → p.30 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

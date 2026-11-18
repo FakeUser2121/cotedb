@@ -2394,6 +2394,11 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [note] (p.9) Passing mention (locator pages: p.8, p.39-41, p.85-87, p.91, p.94-96, p.102; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.8 — Prologue: Hashimoto's vow
+[scene] (p.8) Hashimoto's monologue opens the volume; he names Ryūen as a possible opponent in his Class A revenge.
+[rel:hashimoto-masayoshi] (p.8) Named in Hashimoto's monologue as a possible opponent in his Class A revenge.
+
+<!-- walk: y2v10 Prologue → p.8 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

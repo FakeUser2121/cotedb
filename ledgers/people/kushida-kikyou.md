@@ -1939,12 +1939,37 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y2v10 Ch.2 → p.50 -->
 
+### y2v10 p.16–27 — Ch.1: The corridor, the line of girls, the bento verdict
+[scene] (p.16) Kei and the girls head to the cafeteria; AK and Horikita exchange words about girls walking side by side; Kushida turns up behind them and trades barbs with Horikita.
+[says] (p.16) “That’s a harsh question to ask Horikita-san. She doesn’t have enough friends to form a line.”
+[scene] (p.17) Joins the lunch trap with Horikita and AK; switches from battle mode to angel mode.
+[says] (p.17) “Yeah, I’m good to go.”
+[scene] (p.19) Grabbed AK's arm at the crossroads to keep him from escaping; delivers the biologically-classified-as-a-girl line.
+[says] (p.19) “You’re lucky. You get to eat homemade food by someone biologically classified as a girl.”
+[says] (p.19) “Well, yeah. Even I have something in this, you know.”
+[says] (p.19) “...I just wanted to see Ibuki fail and apologize for it.”
+[says] (p.20) “I can tell she’s going to fail and bring us a nasty lunch box, isn’t she?”
+[says] (p.20) “I see... So now I have to eat the failed dish, huh?”
+[says] (p.20) “You seem confident, maybe a miracle occurred and you actually cooked well?”
+[scene] (p.22) Monotone "lovely memory" speech; tongue-click anticipation; enlightened hand-off to AK.
+[says] (p.22) “This is the first time I’m not looking forward to tasting something~ Such a lovely memory~”
+[says] (p.22) “How is it?”
+[says] (p.22) “Tsk, you’re too strict.”
+[says] (p.22) “Ahh… I see. Here you go, Ayanokōji-kun.”
+[note] (p.22) The tongue-click lines and the "Here you go" hand-off carry no explicit dialogue tag; the surrounding narration names Kushida ("Kushida said in a monotone voice"; "After finishing eating in silence, Kushida asked her"; "there was Kushida’s intense tongue clicking"; "From Kushida’s enlightened face, the baton of gross food was passed to me") — attribution rests on that adjacent narration, not on name tags inside the quotation lines.
+[says] (p.23) “I don’t want to eat anymore. So this is what it means to waste a meal.”
+[note] (p.23–24) Preceded by Horikita's salt/chopping verdict; the page then calls Ibuki's retort a response "to Kushida’s caustic comment" — attributing the waste-a-meal line to Kushida.
+[says] (p.25) “Ahahaha, that’s true. Not just your mentality, your physical growth seems stagnant too.”
+[says] (p.26) “Then I’ll bother you at seven o’clock too.”
+[says] (p.26) “That’s fine. I want to save as many private points as possible. And a meal paid for with your money isn’t bad. I’ll enjoy eating it.”
+[says] (p.26) “I’m far from having enough. I was supposed to receive money from someone every month, but unexpectedly, plans have changed.”
+[voice] (p.17) Angel/devil alternation; shameless about free meals; strategic appetite for Horikita's misery.
+[trait] (p.18) Drops by Horikita's room hoping a fight will break out; that's how she knew about Ibuki's imbalanced meals.
+[rel:horikita-suzune] (p.16–27) Entangled in the Ibuki bento gauntlet; free meals; enjoys inflicting damage.
+[rel:ibuki-mio] (p.19–26) Prods and needles her; wants to see Ibuki fail and apologize; Ibuki swings back.
+[rel:ayanokouji-kiyotaka] (p.18–27) Hands him her share of the tasting verdict; watches his fate with amusement.
 
-
-
-
-
-
+<!-- walk: y2v10 Ch.1 → p.30 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->
