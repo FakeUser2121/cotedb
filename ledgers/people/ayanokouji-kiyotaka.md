@@ -9423,7 +9423,7 @@ walk: y1v1 → DONE
 [rel:horikita-suzune] (p.41) Sudō's confession target — Ayanokōji thinks it has a "chance" (betting on success).
 
 ### y2v8 p.46–53 — School trip begins: group 6; bus seating
-[scene] (p.46) Four buses depart for Hokkaido; Ayanokōji is in group 6 — himself, Kushida (Class B), Ryūen and Nishino (Class D), plus Class A members (Watanabe/Amikura/etc.); surprised to be grouped with Ryūen.
+[scene] (p.46) Four buses gather on the morning of the trip (Haneda first); Ayanokōji is in group 6 — himself and Kushida (Class B), Ryūen and Nishino (Class C), Kitō and Yamamura (Class A), Watanabe and Amikura (Class D); surprised to be grouped with Ryūen.
 [trivia] (p.47) He reveals his private evaluation numbers (Kushida 6, Ryūen high, etc.) — the highest went to Kushida and Ryūen; Kei is in a different group (with Akito), as are Yōsuke, Satō.
 [says] (p.48) "Is it okay if I have Yōsuke sit next to me, Kei?"
 [trait] (p.46–53) Notes the groupings seem designed to mix classes; observes Kushida deftly take charge of the group (calling out to the Class A students), while Ryūen doesn't lead; recognizes Ryūen and Kushida were once "working together" but now seem cordial — deliberately lets Kushida lead to avoid conflict.
