@@ -864,4 +864,78 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [note] (p.182) The message came in at 1:30 in the morning; it closes the bet's aftermath; the school trip ends Sunday.
 [mentioned] (p.182) Named in the one message received; not present on these pages.
 
+
 <!-- walk: y2v11 ch8 → p.193 -->
+
+### y2v11 p.39 — Ch.2: The stacked group reveal
+[scene] (p.39) The bus ride; the printout lists him.
+[note] (p.39) “Um... Chabashira-sensei. May I ask a question?” — the Sonoda question; Nagumo's group is the example.
+[note] (p.39) “Wow, it's true. Isn't Nagumo-senpai's group quite dangerous?” — Ike's line; the stacked group is public knowledge.
+[mentioned] (p.39) Named in dialogue; not present on these pages.
+
+### y2v11 p.67–72 — Ch.2: The hands and feet
+[scene] (p.67) The Telling Hashimoto scene; he is named.
+[note] (p.67) “Even if it's an informal exchange meeting, it's still selfish. It’s an act that disrupts the group's dynamic.” — Hashimoto's objection; Nagumo is the unseen hand.
+[note] (p.68) “Kiryūin-senpai is amazing, isn't she? Maybe she already knows about us?” — his stack's architecture; he built it.
+[note] (p.70) “Among them was Takahashi Osamu, a first-year Class A student from the Nagumo group.” — his group's reach.
+[note] (p.71) “Takahashi was following all the games, probably because Nagumo had instructed him to confirm the results.” — his eyes in the oshibana room.
+[note] (p.72) “Even the great Nagumo couldn't foresee or determine whether Horikita and the others could make good oshibana.” — his one blind spot.
+[mentioned] (p.67–72) Named in dialogue; not present on these pages.
+
+### y2v11 p.78 — Ch.2: The bet's price
+[scene] (p.74) The Kōenji dog park; he is named.
+[note] (p.78) “It could waste time and potentially affect my bet with Nagumo.” — his bet hangs over Kiyotaka's head.
+[mentioned] (p.78) Named in narration; not present on these pages.
+
+### y2v11 p.84 — Ch.2: The first day closes
+[scene] (p.84) The first day closes 5–0; he is not in it.
+[note] (p.84) “Overall, it was a good first day.” — Kiyotaka's verdict; Nagumo's group is undefeated.
+[note] (p.84) “Including the oshibana, Takahashi was following all the games, probably because Nagumo had instructed him to confirm the results.” — his orders in the hall.
+[mentioned] (p.84) Named in narration; not present on these pages.
+
+### y2v11 p.86–92 — Ch.3: The first-place contender
+[scene] (p.86) The shared room; his group's standings.
+[note] (p.86) “Nagumo-senpai's group is a first-place contender, aren't they?” — Oda's verdict; his group wins all five.
+[note] (p.87) “If we don't take action, there's a high chance of that happening.” — Kiyotaka's read; his group is the problem to solve.
+[note] (p.92) “It was common knowledge that Nagumo's group had been undefeated and was in first place with five consecutive wins since the first day.” — the standings at the start of day 2.
+[mentioned] (p.86–92) Named in dialogue; not present on these pages.
+
+### y2v11 p.98 — Ch.3: The stacked class
+[scene] (p.96) The Tatebayashi corridor; he is named.
+[note] (p.98) “Nagumo-senpai and the other senpais took most of the good students, so they didn't have much leeway.” — Hashimoto's read of his group's luck.
+[mentioned] (p.98) Named in dialogue; not present on these pages.
+
+### y2v11 p.115–116 — Ch.5: The determined winner
+[scene] (p.114) The second day; the sculpture match; he is named.
+[note] (p.115) “Nagumo is determined to win, and his members are serious, so he won't hold back.” — Kushida's verdict; his determination is public.
+[note] (p.116) “If you ask with a certain amount of money and sincerity, there should be plenty of room for negotiation, right?” — Kiyotaka's counter-scenario.
+[mentioned] (p.115–116) Named in dialogue; not present on these pages.
+
+### y2v11 p.133 — Ch.5: The concentration of wins
+[scene] (p.133) The lobby; the standings.
+[note] (p.133) “The difference between the third-place group and Satō's group was three wins. Quite a significant amount.” — his group is the benchmark.
+[note] (p.133) “The wins were concentrated in groups like the Nagumo group, who were taking it seriously.” — the league's center of gravity.
+[mentioned] (p.133) Named in narration; not present on these pages.
+
+### y2v11 p.135 — Ch.5: The blonde senpai
+[scene] (p.135) Kiyotaka borrows a deck of cards.
+[note] (p.135) “Huh? Could it be Nagumo?” — Kiyotaka wonders if the blonde senpai was Nagumo.
+[note] (p.135) “That man also does such cliché things.” — Kiryūin's verdict on him.
+[mentioned] (p.135) Named in dialogue; not present on these pages.
+
+### y2v11 p.145 — Ch.6: The battle looming
+[scene] (p.145) The third day; the exchange meeting ends.
+[note] (p.145) “The exchange meeting was nearing its end, and a battle with Nagumo's group was looming” — the countdown to the final match.
+[mentioned] (p.145) Named in narration; not present on these pages.
+
+### y2v11 p.151 — Ch.6: The happy Nagumo
+[scene] (p.150) The morning training; she reports Nagumo's reaction.
+[note] (p.151) “Nagumo-senpai was really happy. He sarcastically said it was a disappointing end to a winning streak, losing at cards, of all things.” — his verdict on the loss.
+[mentioned] (p.151) Named in dialogue; not present on these pages.
+
+### y2v11 p.221 — Postscript
+[scene] (p.221) The translator's afterword; she is named as missing.
+[note] (p.221) “or the lack of detail surrounding Kiyo and Nagumo's match.” — the translator's complaint; his match is named.
+[mentioned] (p.221) Named in the afterword; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->

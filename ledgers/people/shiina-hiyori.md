@@ -680,4 +680,17 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [rel:ayanokouji-kiyotaka] (p.211–213) Her silent communication with him via the Joker; she cherishes the school life he helped unlock.
 [rel:morishita-ai] (p.211–213) The advanced-bluff battle; she loses gracefully; she remembers the moment forever.
 
+
 <!-- walk: y2v11 Epilogue → p.223 -->
+
+### y2v11 p.46 — Ch.2: The Group 20 roster
+[scene] (p.46) The Group 20 roster; she is on it.
+[note] (p.46) “• Class C Oda Takumi, Shiina Hiyori” — her name on the roster.
+[mentioned] (p.46) Named in the roster; not present in the bus scene.
+
+### y2v11 p.171 — Ch.7: The bright and cute
+[scene] (p.168) The vending machine conversation; his read.
+[note] (p.171) “You too, Ayanokōji-kun? But to me… you seem normal. You seem to have a lot of friends. And Shiina-san too. She's bright and cute… I'm jealous...” — Yamamura's envy.
+[mentioned] (p.171) Named in dialogue; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->

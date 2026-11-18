@@ -433,3 +433,39 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [mentioned] (p.172–174) Named as the other side of Yamamura's trauma; not present on these pages.
 
 <!-- walk: y2v11 ch7 → p.181 -->
+
+### y2v11 p.23 — Ch.1: The किंमत
+[scene] (p.23) The Sakayanagi weigh-in; he is named in his boyfriend's musings.
+[note] (p.23) “Drawing a bow against Sakayanagi was tantamount to aiming for the general's head.” — Kamuro named by implication as the general's head; she is the cost.
+[mentioned] (p.23) Named in narration; not present on these pages.
+
+### y2v11 p.91–112 — Ch.3–4: The successor search
+[scene] (p.91) Sakayanagi names her losses.
+[note] (p.91) “right after Masumi-san left, there was unexpected damage. You know that too, Ayanokōji-kun. But, I won't dwell on it for long.” — the vacancy she left.
+[note] (p.111) “right after Masumi-san left” — the same refrain from Sakayanagi.
+[note] (p.112) “at a time when she was unstable after losing Kamuro, not only would it be reasonable to be sensitive to contact from Hashimoto” — the context of her fragility.
+[mentioned] (p.91–112) Named in dialogue; not present on these pages.
+
+### y2v11 p.157 — Ch.6: The forest verdict
+[scene] (p.156) Morishita's verdict on Hashimoto; the damage is named.
+[note] (p.157) “it's typically disappointing, so I had lowered the hurdle” — Kiyotaka's read of Morishita's expectations; Kamuro named as the reason for the hurdle.
+[mentioned] (p.157) Named in narration; not present on these pages.
+
+### y2v11 p.189 — Ch.8: The light of Class A
+[scene] (p.189) The bench; the dog park.
+[note] (p.189) “You lost Kamuro. And at the same time, you were entrusted with her feelings.” — Kiyotaka names her loss directly.
+[note] (p.191) “It seems that the change in her heart, the change that Kamuro brought to light, was also evident here.” — the change in Sakayanagi's heart.
+[mentioned] (p.189–191) Named in dialogue; not present on these pages.
+
+### y2v11 p.196 — Epilogue: The expulsion that remains
+[scene] (p.194) The morning commute; the future.
+[note] (p.196) “The last special exam resulted in only Kamuro's expulsion.” — the exchange's one expulsion on the record.
+[mentioned] (p.196) Named in dialogue; not present on these pages.
+
+### y2v11 p.206–209 — Epilogue: The abandonment
+[scene] (p.206) The career counseling room; her abandonment weaponized.
+[note] (p.206) “she felt a change in her emotional switch within her, starting with the incident involving Kamuro and Yamamura.” — Kiyotaka's read of her change.
+[note] (p.209) “If that happens, we can decide by lottery, just like how you abandoned Kamuro.” — Ryūen's taunt.
+[mentioned] (p.206–209) Named in dialogue; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->

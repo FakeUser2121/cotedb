@@ -276,6 +276,18 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 [rel:amasawa-ichika] (p.112–113) He grabs her wrist; she jokes about it; he does not let go.
 
 <!-- walk: y2v11 ch4 → p.113 -->
+
+### y2v11 p.121 — Ch.5: The edge
+[scene] (p.120) The rest-area check-in; Sanada names him.
+[note] (p.121) “After the last exam, Kitō-kun has been on edge, but I think he's still able to keep his self-control in check because you're by Hashimoto-kun's side.” — Sanada's observation.
+[mentioned] (p.121) Named in dialogue; not present on these pages.
+
+### y2v11 p.132 — Ch.5: The class-A priority
+[scene] (p.132) The Ryūen–Tokitō–Hōsen scene; he is named.
+[note] (p.132) “We'll focus on Class A. The most troublesome one right now is Kitō, not Sakayanagi. He could go berserk at any moment.” — Ryūen's verdict; he is the priority target.
+[mentioned] (p.132) Named in dialogue; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

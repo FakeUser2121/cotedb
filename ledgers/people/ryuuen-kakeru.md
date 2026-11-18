@@ -2389,4 +2389,66 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:mashima-tomonari] (p.205–209) The witness; he knows what the contract means; he says nothing now.
 [rel:sakagami] (p.205–209) The witness; the Protection Point; he knows what the contract means; he says nothing now.
 
+
 <!-- walk: y2v11 Epilogue → p.223 -->
+
+### y2v11 p.68 — Ch.2: The hands and feet
+[scene] (p.67) The Telling Hashimoto scene; he is named.
+[note] (p.68) “It will also serve as a check on the princess, and it's not something Ryūen can ignore.” — Hashimoto's leverage; Ryūen is the unseen party.
+[mentioned] (p.68) Named in dialogue; not present on these pages.
+
+### y2v11 p.98 — Ch.3: The pillow fight
+[scene] (p.96) The Tatebayashi corridor; he is named.
+[note] (p.98) “Especially on school trips, it was a big deal when Ryūen and Kitō had a pillow fight.” — the school-trip precedent.
+[mentioned] (p.98) Named in narration; not present on these pages.
+
+### y2v11 p.109 — Ch.4: The intimidation
+[scene] (p.109) The breakfast table; he is named by comparison.
+[note] (p.109) “Though, I don't remember using any form of intimidation like Ryūen or Hōsen...” — Kiyotaka's denial of menace.
+[mentioned] (p.109) Named in narration; not present on these pages.
+
+### y2v11 p.112 — Ch.4: The knight's wrist
+[scene] (p.112) The Sakayanagi sofa; she names him.
+[note] (p.112) “isn't this something you should do to Ryūen-senpai or someone?” — Amasawa's taunt; Kitō is the knight.
+[mentioned] (p.112) Named in dialogue; not present on these pages.
+
+### y2v11 p.117 — Ch.5: The mastermind
+[scene] (p.114) The second day; he is named.
+[note] (p.117) “It sounds like something Ryūen-kun would happily use.” — Kiyotaka's read; he is the social saboteur.
+[mentioned] (p.117) Named in narration; not present on these pages.
+
+### y2v11 p.133 — Ch.5: The bath
+[scene] (p.133) The lobby; the war.
+[note] (p.133) “At the time, I had no way of knowing that there was a war going on between Ryūen, Tokitō, and Hōsen.” — the war he fights.
+[mentioned] (p.133) Named in narration; not present on these pages.
+
+### y2v11 p.143 — Ch.5: The special points
+[scene] (p.143) The walk back; he is named.
+[note] (p.143) “Ryūen valued private points, but as announced beforehand, the private points available at this camp were special. They were limited to shopping.” — his mispriced card points.
+[mentioned] (p.143) Named in narration; not present on these pages.
+
+### y2v11 p.148 — Ch.6: The rooftop dispute
+[scene] (p.148) The morning training; he is named.
+[note] (p.148) “You had a dispute with Ryūen-kun on the rooftop, didn't you? It was that time, right?” — Ibuki's question; the rooftop dispute is public.
+[mentioned] (p.148) Named in dialogue; not present on these pages.
+
+### y2v11 p.172 — Ch.7: The human nature
+[scene] (p.168) The vending machine conversation; he is named.
+[note] (p.172) “Whether it was Yōsuke, Kei, Ryūen, Sakayanagi, or any other student, human nature was the same.” — the roll of ordinary hearts.
+[mentioned] (p.172) Named in narration; not present on these pages.
+
+### y2v11 p.186 — Ch.8: The comparison
+[scene] (p.185) The dawn arrival; she is named.
+[note] (p.186) “Then, if you had to date either Ryūen-kun or Ayanokōji-kun, who would you choose, Ibuki-san?” — Kushida's calculus; he is the control case.
+[mentioned] (p.186) Named in dialogue; not present on these pages.
+
+### y2v11 p.199–204 — Epilogue: The bet flashback
+[scene] (p.199) The flashback; he is the architect.
+[note] (p.199) “It was when Hashimoto came to my room asking for help shortly before the exchange meeting began.” — the flashback starts; he is the architect.
+[note] (p.199) “Regret? Is it because Ryūen himself is confident that he'll win?” — Kiyotaka's question in the flashback.
+[note] (p.200) “She was the type who, like Ryūen, believed in her ultimate victory without a doubt.” — his mirror.
+[note] (p.202) “She must've allowed Ryūen to accumulate private points.” — the terms.
+[note] (p.204) “If he helped defeat Sakayanagi in the end-of-year exam and took the credit, he'd gain that privilege from Ryūen.” — the 20M-point prize.
+[mentioned] (p.199–204) Named in dialogue; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->

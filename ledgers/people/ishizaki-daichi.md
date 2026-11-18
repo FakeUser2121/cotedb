@@ -854,3 +854,10 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [note] (p.123–132) The target of the trap is Tokitō; the roster holds two y2v11 Tokitōs and the pages never print his given name; see this volume's chapter pages for the full account.
 
 <!-- walk: y2v11 ch5 → p.144 -->
+
+### y2v11 p.148 — Ch.6: The Ishizaki pariah
+[scene] (p.148) The morning training; Ibuki snaps at him via her accusation.
+[note] (p.148) “It's fine to be frustrated, but don't announce your attack. You're doing the same thing as Ishizaki.” — Kiyotaka's comparison of her to him.
+[mentioned] (p.148) Named in dialogue; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->

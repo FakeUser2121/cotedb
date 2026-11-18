@@ -72,6 +72,13 @@ char_id: takahashi-osamu · class: unknown · status: unknown
 [note] (p.40) Named as a first-year Class A member of Nagumo's group: Takahashi Osamu, Tōdō Rin, Amasawa Ichika.
 
 <!-- walk: y2v11 ch2 → p.84 -->
+
+### y2v11 p.164 — Ch.6: The clumsy signature
+[scene] (p.164) The empty rest area; he is cited as a witness.
+[note] (p.164) “Nagumo had always wanted to know my strength. So, in some form or another, he must've been able to see my true self without any of my clumsiness since his group members, such as Takahashi, were glued to all the games.” — the confirmation mechanism; his group's eyes in every match.
+[mentioned] (p.164) Named in narration; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

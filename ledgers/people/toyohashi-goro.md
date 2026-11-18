@@ -34,3 +34,10 @@ char_id: toyohashi-goro · class: unknown · status: unknown
 [note] (p.85–99) He beams after his table tennis turns; he denies SAKAYANAGI's first-years are bad; he ends up revering Kiyotaka like a hero.
 
 <!-- walk: y2v11 ch3 → p.99 -->
+
+### y2v11 p.143 — Ch.5: The first-years
+[scene] (p.143) The walk back; the first-years are named.
+[note] (p.143) “It's not like Toyohashi and the other first-years have already been won over by Sakayanagi, right?” — his group is named; he is one of the first-years.
+[mentioned] (p.143) Named in dialogue; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->

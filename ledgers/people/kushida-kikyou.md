@@ -1967,4 +1967,22 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:amasawa-ichika] (p.185–188) The cultural-festival dispute; today's rematch.
 [rel:horikita-suzune] (p.185–188) The borrowed fight; the dawn show.
 
+
 <!-- walk: y2v11 ch8 → p.193 -->
+
+### y2v11 p.121 — Ch.5: The capable second-year
+[scene] (p.121) Sanada's worry; her class is named.
+[note] (p.121) “Even if we limited it to Horikita's class, Yōsuke and Kushida would be much more capable.” — her class 2-B named; she is the benchmark.
+[mentioned] (p.121) Named in dialogue; not present on these pages.
+
+### y2v11 p.150 — Ch.6: The Kushida-level spite
+[scene] (p.150) The morning training; the narration compares them.
+[note] (p.150) “Just like Kushida, did she really want to see Horikita lose that much?” — his comparison of Ibuki to her.
+[mentioned] (p.150) Named in narration; not present on these pages.
+
+### y2v11 p.197 — Epilogue: The report from Kushida
+[scene] (p.194) The commute with Horikita; the results reported.
+[note] (p.197) “I heard about the results from Kushida, it seems you fought well, but you lost.” — Horikita relays the report.
+[mentioned] (p.197) Named in dialogue; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->

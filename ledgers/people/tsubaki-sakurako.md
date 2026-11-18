@@ -222,7 +222,15 @@ char_id: tsubaki-sakurako · class: Class 1-C · status: unknown
 [rel:ayanokouji-kiyotaka] (p.182–185) She tests him with the sibling hypothetical; her real subject is never named on these pages.
 [rel:hashimoto-masayoshi] (p.182–183) She heard from him that he rises early; she knows more than she lets on.
 
+
 <!-- walk: y2v11 ch8 → p.193 -->
+
+### y2v11 p.152 — Ch.6: The shogi five
+[scene] (p.152) The shogi lineup; she is named in it.
+[note] (p.152) “The participants Kiryūin chose were me, Morishita, Hashimoto, Hiyori, and Tsubaki.” — she is picked for the shogi match; she is in the room.
+[mentioned] (p.152) Named in narration; not present in the shogi scene.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

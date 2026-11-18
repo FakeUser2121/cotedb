@@ -1892,3 +1892,21 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [note] (p.37) Kiyotaka will not get the chance to involve her at the camp; her roommate dread of sharing with Ichinose is Kei's story and never materializes on these pages.
 
 <!-- walk: y2v11 ch2 → p.84 -->
+
+### y2v11 p.121 — Ch.5: Her class
+[scene] (p.121) Sanada's worry; her class is named.
+[note] (p.121) “It wasn't like Ichinose's class, where everyone was friendly. There were people you liked and people you didn't. It was normal to show it in your everyday attitude.” — Sanada's benchmark for classes like Class A.
+[mentioned] (p.121) Named in dialogue; not present on these pages.
+
+### y2v11 p.194 — Epilogue: The declining class
+[scene] (p.194) The commute; Ichinose's problem waits.
+[note] (p.194) “Next, the issue concerning Ichinose Honami. The leader of a class that was struggling to compete with the other three, with nothing special among the four classes. My prediction was correct—Class D was in decline as the end of the second-year approached.” — his plan for her.
+[note] (p.194) “My prediction was correct—Class D was in decline as the end of the second-year approached.” — his read on her class; the adjustments are pending the end-of-year exam.
+[mentioned] (p.194) Named in narration; not present on these pages.
+
+### y2v11 p.209 — Epilogue: The fourth-class battle ends
+[scene] (p.205) The career counseling room; her class's collapse is baked in.
+[note] (p.209) “considering Ichinose's declining class, there wouldn't be enough players.” — the bet's cost for Class D.
+[mentioned] (p.209) Named in narration; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->

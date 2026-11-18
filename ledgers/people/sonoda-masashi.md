@@ -73,7 +73,13 @@ char_id: sonoda-masashi · class: unknown · status: unknown
 
 <!-- walk: y2v11 ch2 → p.84 -->
 
+### y2v11 p.40 — Ch.2: The answer sets him back
+[scene] (p.40) The bus ride; the Sonoda question.
+[note] (p.40) “Sonoda, who asked, shrank back at her expression.” — his answer to his own question; the teacher's stern look lands.
+[note] (p.40) “In response to the question, Chabashira-sensei gave a curt answer.” — the stern answer; he flinches.
+[mentioned] (p.40) Named in the exchange; the text does not distinguish him from Chiyo on these pages.
 
+<!-- walk: y2v11 Coverage gate → p.223 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

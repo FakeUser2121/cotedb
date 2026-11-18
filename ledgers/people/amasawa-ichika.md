@@ -446,3 +446,41 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 
 
 <!-- walk: y2v11 ch7 → p.181 -->
+
+### y2v11 p.162 — Ch.6: “your most skillful player”
+[scene] (p.162) The final debrief; Nagumo compliments her.
+[note] (p.162) Nagumo: “Your most skillful player, Amasawa, had a great performance though. She hits her targets quite gracefully.” — quoted by Kiyotaka in the debrief; she does not appear in person on these pages.
+[mentioned] (p.162) Named as the strongest member of Nagumo's group; not present on these pages.
+
+### y2v11 p.40 — Ch.2: The stacked group printout
+[scene] (p.40) The organization chart lists her in Nagumo's stacked group.
+[note] (p.40) “• Class A Takahashi Osamu, Toudou Rin, Amasawa Ichika” — printed in the bus printout; first-years of Class A.
+[mentioned] (p.40) Named in the printout; not present on these pages.
+
+### y2v11 p.92–107 — Ch.3–4: The debt and the circle test
+[scene] (p.92) The rematch conversation; Amasawa's name recurs through Horikita's request and the circle test.
+[note] (p.92) “Did you know how good her physical abilities are? It seems that she’s also quite skilled in martial arts.” — Horikita names her as the rematch opponent; Kiyotaka already knows.
+[note] (p.93) “Setting martial arts aside, I do regularly check the OAA and have a rough grasp of it.” — Kiyotaka's knowledge of Amasawa.
+[note] (p.102) “I don't like it either. But from the way you talk, it seems you know exactly how strong Amasawa-san is, don't you?” — Horikita's probe; Amasawa is his benchmark for every fighter he tutors.
+[note] (p.102) “I've been learning martial arts since I was little. That's all there is to it.” — Kiyotaka's explanation for his own strength; he compares the two.
+[note] (p.105) “If we talk about physical ability, if we treat you two as equals and give you a score of 50, then Amasawa would be 60, so a difference of about 10.” — the printed estimate.
+[note] (p.106) “I'll definitely make you use both hands tomorrow.” — Ibuki's resolve to force the fight.
+[mentioned] (p.92–107) Named throughout; not present on these pages.
+
+### y2v11 p.145–151 — Ch.6: The blindfold and the special training
+[scene] (p.145) The third day; the blindfold demand; the Amasawa rematch looms.
+[note] (p.145) “I have to kick you at least once, or I'll be frustrated.” — Ibuki's motivation; the Amasawa rematch is the horizon.
+[note] (p.146) “The main reason you chose the last day was to manage the risk of injury, wasn't it?” — Horikita's deduction.
+[note] (p.148) “This may have been the reason why she asked me to help her to take revenge on Amasawa.” — Kiyotaka's read of Ibuki's vengeful streak.
+[mentioned] (p.145–151) Named throughout; not present on these pages.
+
+### y2v11 p.182–198 — Ch.8–Epilogue: The morning of the fight
+[scene] (p.182) The morning Everything ends; the rematch is set for 7 o'clock before breakfast.
+[note] (p.182) “The fight with Amasawa was set before breakfast, at 7 o'clock.” — the only announcement; the fight itself is never narrated.
+[note] (p.188) “It's good that you're motivated.” — the stakes settled before the fight.
+[note] (p.196) “Even with the Amasawa-san situation, you didn't look displeased even once.” — Horikita's observation.
+[note] (p.197) “She's really strong, isn't she? Even if we fought two against one, we still couldn't win in the end.” — the postmortem.
+[note] (p.198) “it looked like Amasawa-san noticed your influence right after the fight started. But she seemed very happy. What's your relationship with her?” — Horikita's probe.
+[mentioned] (p.182–198) Named throughout; present only in the off-page rematch; the fight itself is never narrated.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->

@@ -51,3 +51,9 @@ char_id: onizuka · class: Class 1-D · status: minor
 
 <!-- walk: y2v11 → start -->
 
+### y2v11 p.196 — Epilogue: The pushy gamer
+[scene] (p.195) The commute with Horikita; she confirms her knowledge.
+[note] (p.196) “When Onizuka tried pushing me to play a game before, they were talking about DP... something, DEF something, cooldown something, but my brain refused to remember those words and their meanings...” — Horikita's example of useless knowledge.
+[mentioned] (p.196) Named in dialogue; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->

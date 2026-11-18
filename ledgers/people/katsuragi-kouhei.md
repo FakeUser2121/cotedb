@@ -983,6 +983,13 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.161) He wins his match; Nagumo's group takes four of five.
 
 <!-- walk: y2v11 ch6 → p.167 -->
+
+### y2v11 p.199 — Epilogue: The lost place
+[scene] (p.205) The career counseling room; the backstory.
+[note] (p.199) “Except for cases like Katsuragi who lost his place, if you were to look at it from a while ago, Class A should’ve established a more stable position than its current status.” — the cost of the special exam.
+[mentioned] (p.199) Named in narration; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

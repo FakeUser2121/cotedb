@@ -1186,4 +1186,24 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:horikita-suzune] (p.185–188) The two-on-one fight; the island debt; the side-by-side loss.
 [rel:amasawa-ichika] (p.185–188) The rematch; the grudge.
 
+
 <!-- walk: y2v11 ch8 → p.193 -->
+
+### y2v11 p.182–183 — Ch.8: The morning she shows up
+[scene] (p.182) The camp's final morning; she and Horikita arrive at dawn.
+[note] (p.182) “Horikita and Ibuki were still showing up early in the morning.” — the morning she shows up.
+[note] (p.183) “Anyway, I was planning to go outside to accompany Horikita and Ibuki for their final special training.” — he walks with them.
+[mentioned] (p.182–183) Named in narration; on-page from p.185.
+
+### y2v11 p.198–199 — Epilogue: The second-hand report
+[scene] (p.198) The commute with Horikita; he reports the rematch outcome.
+[note] (p.198) “Well, yes. Ibuki-san said she wouldn't team up with me again.” — Horikita relays his refusal.
+[mentioned] (p.198–199) Named in dialogue; not present on these pages.
+
+### y2v11 p.221–222 — Postscript
+[scene] (p.221) The translator's afterword; she is named as missing.
+[note] (p.221) “Horikita and Ibuki's fight with Ichika was done off screen” — the translator's complaint; she is named as one of the two missing fighters.
+[note] (p.222) ““Huh? Ichika v.s. Hori/Ibuki happened? When? Where? Who even is Ichika?”” — the editor's credit line; her name in the editors' quotes as a joke.
+[mentioned] (p.221–222) Named in the postscript; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->

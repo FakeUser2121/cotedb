@@ -1428,4 +1428,72 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:mashima-tomonari] (p.205–209) The witness; he knows what the contract means; he says nothing now.
 [rel:sakagami] (p.205–209) The witness; the Protection Point; he knows what the contract means; he says nothing now.
 
+
 <!-- walk: y2v11 Epilogue → p.223 -->
+
+### y2v11 p.11 — Ch.1: The new dropout
+[scene] (p.11) February; the interviews; the year opens.
+[note] (p.11) “Due to her close position to Sakayanagi, Kamuro becoming a new dropout surprised the second-year students.” — the year opens with her shadow.
+[mentioned] (p.11) Named in narration; not present on these pages.
+
+### y2v11 p.95 — Ch.3: The empty lobby
+[scene] (p.95) The rendezvous attempt; she is nowhere.
+[note] (p.95) “I decided to look for Sakayanagi a little longer.” — his hunt; she is the quarry.
+[note] (p.95) “However, I wandered around the training ground aimlessly, but I couldn't find Sakayanagi.” — the failure.
+[mentioned] (p.95) Named in narration; not present on these pages.
+
+### y2v11 p.121 — Ch.5: The special treatment
+[scene] (p.120) The rest area; her treatment of him.
+[note] (p.121) “It's largely because of how Sakayanagi-san sees it. Even I can tell that she treats you in a special way.” — Sanada's read.
+[mentioned] (p.121) Named in dialogue; not present on these pages.
+
+### y2v11 p.124–128 — Ch.5: The Tokitō purge
+[scene] (p.124) The Tokitō trap; she is the reason.
+[note] (p.124) “Ryūen had particularly warned Kondō and Jima, who were in the same group as Sakayanagi when they were announced on the bus.” — the warning he gave.
+[note] (p.126) “It doesn't. And I told you this before too, right? Either ignore Sakayanagi or, if possible, inflict psychological damage and corner her thoroughly.” — Ryūen's order.
+[note] (p.127) “Then shall I make you understand with your body?” — the punishment she prompted? no; the punishment he prompted.
+[note] (p.128) “Got it? This is my advice. If you understand, don't ever help Sakayanagi again.” — the advice.
+[mentioned] (p.124–128) Named in dialogue; not present on these pages.
+
+### y2v11 p.132 — Ch.5: The priority
+[scene] (p.132) The Ryūen–Tokitō–Hōsen scene; she is named.
+[note] (p.132) “The most troublesome one right now is Kitō, not Sakayanagi. He could go berserk at any moment.” — the hierarchy of threats.
+[note] (p.132) “We'll focus on Class A.” — Ryūen's class-A priority; she is the target.
+[mentioned] (p.132) Named in dialogue; not present on these pages.
+
+### y2v11 p.133 — Ch.5: The sofa
+[scene] (p.133) The lobby; the war.
+[note] (p.133) “It was right next to the seat where Sakayanagi was sitting this morning.” — his position relative to her.
+[mentioned] (p.133) Named in narration; not present on these pages.
+
+### y2v11 p.142–144 — Ch.5: The walk back
+[scene] (p.142) The walk back; the standings.
+[note] (p.143) “Sakayanagi and Ryūen dropped out of the winning lineup on the second day.” — her fall from the top.
+[mentioned] (p.142–144) Named in dialogue; not present on these pages.
+
+### y2v11 p.156–158 — Ch.6: The forest verdict
+[scene] (p.156) Morishita's verdict on Hashimoto; she is named.
+[note] (p.157) “it would be, yes. I think Sakayanagi Arisu would win nine out of ten times” — Morishita's estimate of the match-up.
+[note] (p.157) “The problem between Sakayanagi and Hashimoto was already set to end soon.” — Kiyotaka's certainty.
+[mentioned] (p.156–158) Named in dialogue; not present on these pages.
+
+### y2v11 p.171 — Ch.7: The other student
+[scene] (p.168) The vending machine conversation; he is named.
+[note] (p.171) “She probably wasn't helping Sakayanagi at the time, so she wouldn't know.” — his read of her visibility to Yamamura.
+[mentioned] (p.171) Named in dialogue; not present on these pages.
+
+### y2v11 p.199–204 — Epilogue: The bet flashback
+[scene] (p.199) The flashback; she is the architect.
+[note] (p.199) “I've been tempted to betray Ryūen since before the previous special exam.” — Hashimoto's motive; she refused him.
+[note] (p.200) “That's true. However, Sakayanagi wouldn't choose to reject the bet just because of the disadvantage.” — her character.
+[note] (p.201) “Do you think Sakayanagi simply conceded or were there certain conditions” — the question he asks, split across the page break in the print.
+[note] (p.203) “If Sakayanagi had followed my instructions, whether that would be before or after I betrayed her in the previous special exam, I was planning to betray Ryūen and join her at the end of the year.” — his plan.
+[note] (p.204) “The reason he approached me and told me the details of the betrayal was all for himself.” — Kiyotaka's read of Hashimoto's motive.
+[mentioned] (p.199–204) Named in dialogue; not present on these pages.
+
+### y2v11 p.218 — Short Story: Please Listen in My Stead
+[scene] (p.218) Morishita's POV on the voice-of-the-forest prank.
+[note] (p.218) “Not to protect Sakayanagi Arisu, nor to protect Class A. I did it for myself.” — Morishita's disclaimer; she is the one not protected.
+[mentioned] (p.218) Named in the short story; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->

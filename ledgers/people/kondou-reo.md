@@ -28,6 +28,13 @@
 [note] (p.126) Kondō — very likely Kondō Reo (only rostered Kondō with y2v11); Jima is not on the roster; no scene; purely a warning named on these pages.
 
 <!-- walk: y2v11 ch5 → p.144 -->
+
+### y2v11 p.124 — Ch.5: The warning
+[scene] (p.124) The Tokitō trap; he is named in the warning.
+[note] (p.124) “Ryūen had particularly warned Kondō and Jima, who were in the same group as Sakayanagi when they were announced on the bus. There was no way Tokitō hadn't heard the warning in the silent bus.” — the warning he heard.
+[mentioned] (p.124) Named in narration; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

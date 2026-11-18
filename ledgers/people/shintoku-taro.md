@@ -29,3 +29,10 @@ char_id: shintoku-taro · class: unknown · status: unknown
 [note] (p.160) “Kanzaki Ryūji vs Shintoku Tarō.” — the lineup announcement; the result is not narrated in these pages.
 
 <!-- walk: y2v11 ch6 → p.167 -->
+
+### y2v11 p.95 — Ch.3: The bath wait
+[scene] (p.95) The lobby; the bath preparation.
+[note] (p.95) “When I returned to my room, Hashimoto, Toyohashi, and Shintoku were preparing to go to the bath and were waiting for me, so I decided to go to the large bath with them.” — he is named as waiting.
+[mentioned] (p.95) Named in narration; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->

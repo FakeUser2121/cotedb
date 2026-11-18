@@ -386,3 +386,20 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 [note] (p.65) Tsukishiro is the other (\“who that man prepared and had Tsukishiro manage\”) through whom the camp plans were leaked in advance; no further detail on these pages.
 
 <!-- walk: y2v11 ch2 → p.84 -->
+
+### y2v11 p.66 — Ch.2: The advance notice
+[scene] (p.66) The break room; the insider knowledge.
+[note] (p.66) “By the way, it seems you knew about the exchange meeting in advance.” — Kiyotaka's probe. [says:amasawa-ichika] “We were told in advance what kind of exchange meeting would be held.” — her confession; he is the source.
+[mentioned] (p.66) Named in narration; not present on these pages.
+
+### y2v11 p.180 — Epilogue: The advance knowledge
+[scene] (p.179) The career counseling room; the Tsukishiro network.
+[note] (p.180) “Pretending not to know the rules of the exchange event, despite having obtained all the information in advance from Tsukishiro.” — the lie; his network.
+[mentioned] (p.180) Named in narration; not present on these pages.
+
+### y2v11 p.183 — Ch.8: The hidden exam
+[scene] (p.183) The morning; the hidden exam.
+[note] (p.183) “That was the hidden special exam known only to a few, as Tsukishiro was involved.” — the network's existence; his involvement.
+[mentioned] (p.183) Named in narration; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->

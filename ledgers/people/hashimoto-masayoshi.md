@@ -1121,7 +1121,65 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [rel:sakayanagi-arisu] (p.199–204) She refused his recruitment of him; that refusal explains everything.
 [rel:ryuuen-kakeru] (p.199–204) Hashimoto claims Ryūen would recruit both of them; the 40-million-price; the shallow lie; the 20M-points safety net.
 
+
 <!-- walk: y2v11 Epilogue → p.223 -->
+
+### y2v11 p.189–190 — Ch.8: The suspicion he can't shake
+[scene] (p.189) The bench scene; his name surfaces in the Sakayanagi exchange.
+[note] (p.189) “Hashimoto-kun and Morishita-san are in the same group. How is Hashimoto-kun doing?” — Sakayanagi asks about him; Kiyotaka shares nothing concrete.
+[note] (p.190) “It's not like Toyohashi and the other first-years have already been won over by Sakayanagi, right?” — his fear of Sakayanagi having spies in his group.
+[mentioned] (p.189–190) Named in dialogue; not present on these pages.
+
+### y2v11 p.60 — Ch.2: The convenience store he didn't see
+[scene] (p.60) Kiryūin reveals how the group was assembled.
+[note] (p.60) “When Hashimoto and Morishita stopped by the convenience store, they ran into Yamamura, and Kiryūin happened to be there at the same time.” — the deciding factor in choosing the same group.
+[mentioned] (p.60) Named in dialogue; not present on these pages.
+
+### y2v11 p.70–72 — Ch.2: The oshibana reference
+[scene] (p.70) The oshibana match; he watches on Nagumo's orders? no — on his own initiative.
+[note] (p.70) “Among them was Takahashi Osamu, a first-year Class A student from the Nagumo group.” — the spectators include Hashimoto.
+[note] (p.72) “Hashimoto made this list for me, which makes things easier. He's surprisingly useful.” — Kiryūin's verdict on his list.
+[mentioned] (p.70–72) Named in passing; not present in the match scene proper.
+
+### y2v11 p.110–112 — Ch.4: The sleepy princess
+[scene] (p.110) The Sakayanagi sofa scene; he is named twice.
+[note] (p.110) “Ayanokōji-kun, you're in the same group as Hashimoto-kun and Morishita-san.” — Sakayanagi's probe.
+[note] (p.110) “Hashimoto said you'd aim to win in any way.” — her read of his line.
+[note] (p.112) “that's right. I admit that I didn't mention Yamamura-san's name at that time.” — he is among the people named in the exchange.
+[mentioned] (p.110–112) Named in dialogue; not present on these pages.
+
+### y2v11 p.120–121 — Ch.5: The rest-area check-in
+[scene] (p.120) The rest area; Sanada asks about the group.
+[note] (p.120) “Hashimoto hasn't participated in any activities yet. He's in more of a support role.” — Kiyotaka's honest report.
+[note] (p.121) “It's largely because of how Sakayanagi-san sees it. Even I can tell that she treats you in a special way.” — Sanada's observation.
+[mentioned] (p.120–121) Named in dialogue; not present on these pages.
+
+### y2v11 p.132–134 — Ch.5: The Satō regret
+[scene] (p.133) The lobby; he is named only in the context of Ryūen's war.
+[note] (p.133) “It was right next to the seat where Sakayanagi was sitting this morning.” — Kiyotaka's position; Hashimoto is named in the same breath as the war he's not part of.
+[note] (p.134) “I'm going to the girls' room, so let's meet up there.” — his message to Kiyotaka; the girls' room invite.
+[mentioned] (p.132–134) Named in passing; not present in these pages' scenes.
+
+### y2v11 p.156–158 — Ch.6: The forest verdict
+[scene] (p.156) Morishita's forest scene; he is the subject of the inquiry.
+[note] (p.156) “What do you think about Hashimoto Masayoshi?” — Morishita's question to Kiyotaka.
+[note] (p.157) “I intend to respond to your honesty, but frankly, since I'm from another class, I don't think it's a problem that has anything to do with me.” — the answer she's waiting for.
+[note] (p.158) “The problem between Sakayanagi and Hashimoto was already set to end soon.” — Kiyotaka's certainty; the problem has an end date.
+[mentioned] (p.156–158) Named as the subject of the inquiry; not present on these pages.
+
+### y2v11 p.182 — Ch.8: The 1:30 a.m. message
+[scene] (p.182) The camp's final morning; his warning is cited.
+[note] (p.182) “For the past two days, I heard from Hashimoto-senpai that you've been getting up early in the morning.” — Tsubaki says it; he told her.
+[mentioned] (p.182) Named in dialogue; not present on these pages.
+
+### y2v11 p.205–218 — Epilogue–Short Stories
+[scene] (p.205) The career counseling room; his betrayal is the subject of the whole scene.
+[note] (p.205) “Even if you were to deceive Hashimoto-kun, you made him do something quite bold.” — the bet's existence named in dialogue.
+[note] (p.206) “Ayanokōji did something unnecessary too.” — Ryūen grasps the Ayanokōji–Hashimoto connection instantly.
+[note] (p.218) “I was keeping my eye on Ayanokōji Kiyotaka to track Hashimoto Masayoshi's movements, and by chance, we happened to be in the same group.” — Morishita's POV; he is the subject.
+[mentioned] (p.205–218) Named as the subject of two scenes and one short story; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

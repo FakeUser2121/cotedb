@@ -10419,4 +10419,28 @@ walk: y1v1 → DONE
 [rel:mashima-tomonari] (p.205–209) He witnesses the contract; he knows what it means; he says nothing now.
 [rel:sakagami] (p.205–209) He witnesses the contract with a Protection Point caveat; he knows what it means; he says nothing now.
 
+
 <!-- walk: y2v11 Epilogue → p.223 -->
+
+### y2v11 p.132 — Ch.5: The brick-grade senpai
+[scene] (p.132) The Ryūen–Tokitō–Hōsen scene; he is named only in others’ dialogue.
+[note] (p.132) “His fighting ability may be equal to or greater than Ayanokoji.” — Albert's verdict; named in dialogue, not present.
+[mentioned] (p.132) Named in dialogue; not present on these pages.
+
+### y2v11 p.178–181 — Ch.7: The 1 a.m. summons
+[scene] (p.178) The cafeteria at 1 a.m.; the Yagami vendetta; he is the subject of the whole scene.
+[note] (p.178) “You teamed up with Ayanokōji-senpai and expelled Yagami Takuya, right?” — Amasawa's vendetta; he is the target, absent from the scene.
+[note] (p.179) “I thought about beating up Karuizawa-senpai and expelling her, but that's a bit scary.” — his goals off-limits; he is discussed, not present.
+[note] (p.180) “This year it's Ayanokōji.” — Amasawa names him as the year's chaos-maker.
+[note] (p.181) “The message from Ayanokōji is 'You still have value. Don't waste it.'” — the message Nagumo carries; he does not appear on these pages.
+[mentioned] (p.178–181) Named throughout; not present on these pages.
+
+### y2v11 p.211–223 — Short Stories and the afterword
+[scene] (p.213) Hiyori's POV ends on him silently reading the Joker.
+[note] (p.213) “I strangely felt like I could read Ayanokōji-kun's thoughts.” — Hiyori's silent read of his look at the Joker.
+[note] (p.211–213) Hiyori's POV centers on his gaze and her resolve; he never speaks in his own voice here.
+[note] (p.221) “Horikita and Ibuki's fight with Ichika was done off screen” — the translator's complaint about the off-screen fight; he is named as missing from the translation.
+[note] (p.223) “Hail the glorious king Ayanokoji” — the credits; a translator's jest, printed as such.
+[mentioned] (p.211–223) Named throughout the short stories and afterword; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->

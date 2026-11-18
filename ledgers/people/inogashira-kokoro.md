@@ -121,3 +121,21 @@ char_id: inogashira-kokoro · class: Class 1-D · status: minor
 [rel:hirata-yousuke] (p.73) She will not ask Hirata for help either.
 
 <!-- walk: y2v11 ch2 → p.84 -->
+
+### y2v11 p.74 — Ch.2: The desperate plea
+[scene] (p.74) The Kōenji mountain path; she finds him near the oshibana room.
+[note] (p.74) “Inogashira was looking for you. She appeared quite anxious.” — her anxiety; he sees her from a distance.
+[note] (p.74) “I'll tell you something special. One plus one equals two. The answer doesn't change no matter how many times you solve it.” — Kōenji's verdict on the group; her plea is irrelevant to him.
+[mentioned] (p.74) Named in dialogue; not present on these pages.
+
+### y2v11 p.118 — Ch.5: Patchwork
+[scene] (p.118) The patchwork match; she is the sewer who beats him.
+[note] (p.118) “The misfortune of colliding with Inogashira, who excelled among the experienced sewers, resulted in my second individual loss.” — his loss; her excellence in passing.
+[mentioned] (p.118) Named in narration; not present in the match record proper.
+
+### y2v11 p.151 — Ch.6: The win that isn't
+[scene] (p.151) The morning training; he tells Horikita the truth.
+[note] (p.151) “I was completely beaten by Inogashira in ‘Patchwork.’” — his only admission; her name in dialogue.
+[mentioned] (p.151) Named in dialogue; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->

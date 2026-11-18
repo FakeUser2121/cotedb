@@ -4720,4 +4720,51 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (p.194–198) She expects several dropouts in the end-of-year exam; the government's annual 10-dropout target; she promises she'll always back him; she laughs at the bad ex-girlfriend joke; the conversation never stops being about the exam.
 [rel:ayanokouji-kiyotaka] (p.194–198) The morning walk; the exam stakes; the promise of backup; the bad joke.
 
+
 <!-- walk: y2v11 Epilogue → p.223 -->
+
+### y2v11 p.70–78 — Ch.2: Her class
+[scene] (p.70) The group-9 match; her class is the opponent.
+[note] (p.70) “From Horikita's class, Ike and Keisei were there.” — her class (2-B) is the opposing group; she is not present on these pages' match.
+[note] (p.72) “Even the great Nagumo couldn't foresee or determine whether Horikita and the others could make good oshibana.” — Nagumo's blind spot; she is named.
+[note] (p.73) “Tatebayashi is the leader of the group to which Inogashira and Kōenji belong, the third-year Class D.” — her class named again in contrast.
+[note] (p.78) “Because if you step out of the class, you won't be able to protect Horikita girl, right?” — Kōenji names her exact role: the prize to be protected.
+[mentioned] (p.70–78) Named throughout; not present on these pages.
+
+### y2v11 p.85 — Ch.3: The request chapter
+[scene] (p.85) The chapter opens at the shared room; she is not in it.
+[note] (p.85) “Request from Horikita and Request from Ayanokōji” — the chapter title; the two requests both point at her.
+[mentioned] (p.85) Named in the chapter title; not present in the shared-room scene.
+
+### y2v11 p.90 — Ch.3: Honda and Shinohara
+[scene] (p.90) The lobby reconnaissance; she is not in it.
+[note] (p.90) “Hondō and Shinohara from Horikita's class are assigned to the same group as Sakayanagi” — her class named as the group Sakayanagi sits in.
+[mentioned] (p.90) Named in dialogue; not present on these pages.
+
+### y2v11 p.121 — Ch.5: Her class's bench
+[scene] (p.121) Sanada's concern; she is named.
+[note] (p.121) “Even if we limited it to Horikita's class, Yōsuke and Kushida would be much more capable.” — class 1-B named.
+[mentioned] (p.121) Named in dialogue; not present on these pages.
+
+### y2v11 p.163 — Ch.6: The leverage Nagumo holds
+[scene] (p.163) The empty rest area; he holds cards on her.
+[note] (p.163) “Well… if I was told to win at all costs, I might’ve manipulated Horikita and Yōsuke to miss the target so that I could win.” — Nagumo names her as his leverage.
+[mentioned] (p.163) Named in dialogue; not present on these pages.
+
+### y2v11 p.182–183 — Ch.8: The morning she arrives
+[scene] (p.182) The camp's final morning; she and Ibuki are the 7 o'clock fight.
+[note] (p.182) “Horikita and Ibuki were still showing up early in the morning.” — the morning she shows up; he doesn't see her yet; the special training is hers.
+[note] (p.183) “Anyway, I was planning to go outside to accompany Horikita and Ibuki for their final special training.” — the walk-out with her.
+[mentioned] (p.182–183) Named in narration; on-page from p.185.
+
+### y2v11 p.199 — Epilogue: The morning commute
+[scene] (p.199) The flashback opens; the commute from days earlier.
+[note] (p.199) “Rewinding time a little from my commute to school with Horikita and the exchange meeting.” — the morning commute established.
+[mentioned] (p.199) Named in narration; the flashback is not hers.
+
+### y2v11 p.221 — Postscript
+[scene] (p.221) The translator's afterword; she is named as missing.
+[note] (p.221) “Horikita and Ibuki's fight with Ichika was done off screen” — the translator's complaint about the off-screen fight; she is named as one of the two missing fighters.
+[mentioned] (p.221) Named in the afterword; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->

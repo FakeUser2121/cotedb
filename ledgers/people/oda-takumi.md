@@ -49,6 +49,13 @@ char_id: oda-takumi · class: Class 1-C · status: minor
 [note] (p.86–87) He fit in well with the room despite being a 2-C outsider; the three losses bug him too.
 
 <!-- walk: y2v11 ch3 → p.99 -->
+
+### y2v11 p.168 — Ch.7: The participant
+[scene] (p.168) The lights are out; the room is still awake.
+[note] (p.168) “While occasionally participating in conversations with Hashimoto, Oda, and kōhais, nodding in agreement now and then” — Oda was in those conversations.
+[mentioned] (p.168) Named in narration; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

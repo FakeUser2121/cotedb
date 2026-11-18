@@ -435,4 +435,55 @@ char_id: morishita-ai · class: Class 2-A · status: unknown
 [rel:hashimoto-masayoshi] (p.218) The person she tracks through Kiyotaka; she needs to know if they've connected.
 [rel:sakayanagi-arisu] (p.218) Explicitly NOT her motive — not to protect Sakayanagi nor Class A.
 
+
 <!-- walk: y2v11 Epilogue → p.223 -->
+
+### y2v11 p.46 — Ch.2: The Group 20 roster
+[scene] (p.46) The Group 20 roster lands on his face.
+[note] (p.46) “• Class A Hashimoto Masayoshi, Yamamura Miki, Morishita Ai” — the roster prints her name third.
+[mentioned] (p.46) Named in the roster; present from p.47 onward? no — present from p.49.
+
+### y2v11 p.47 — Ch.2: The assembly
+[scene] (p.47) The Group 20 assembly; she says little.
+[note] (p.47) “Good morning, Ayanokōji-kun.” — her greeting, soft.
+[mentioned] (p.47) Named in narration; on-page from p.49.
+
+### y2v11 p.60 — Ch.2: The deciding factor
+[scene] (p.60) Kiryūin reveals how the group was assembled.
+[note] (p.60) “When Hashimoto and Morishita stopped by the convenience store, they ran into Yamamura, and Kiryūin happened to be there at the same time.” — the deciding factor in choosing the same group.
+[mentioned] (p.60) Named in dialogue; not present on these pages.
+
+### y2v11 p.110–111 — Ch.4: The sleepy princess
+[scene] (p.110) The lobby sofa; she is named.
+[note] (p.110) “Ayanokōji-kun, you're in the same group as Hashimoto-kun and Morishita-san. How is Hashimoto-kun doing?” — Sakayanagi's probe; she is named.
+[note] (p.111) “The only girls in Class A that I interacted with were Yamamura and Morishita. Both of them had their strengths, but they weren't suitable for taking care of Sakayanagi.” — she is excluded on both counts.
+[mentioned] (p.110–111) Named in dialogue; not present on these pages.
+
+### y2v11 p.118 — Ch.5: The archery volunteer
+[scene] (p.118) The archery match; she volunteers.
+[note] (p.118) “Morishita, who volunteered to participate, entered the game but was unable to handle it well and couldn't hit the target even once, a slight accident, but both the group and I were successful in avoiding consecutive losses.” — Kiyotaka's verdict.
+[mentioned] (p.118) Named in narration; present in the match.
+
+### y2v11 p.120–121 — Ch.5: The Sanada inquiry
+[scene] (p.120) The rest area; Sanada asks about her.
+[note] (p.121) “Then there's Morishita... Well, cooperative... no, creative, I guess.” — Kiyotaka's honest report; her own assessment.
+[note] (p.121) “It wasn't like Ichinose's class, where everyone was friendly. There were people you liked and people you didn't. It was normal to show it in your everyday attitude.” — Sanada's class comparison; she is the outsider in it.
+[mentioned] (p.120–121) Named in dialogue; not present on these pages.
+
+### y2v11 p.135 — Ch.5: The girls' room card game
+[scene] (p.135) The girls' room; the joke gap.
+[note] (p.135) “Playing cards is the most classic of classics, isn't it, Ayanokōji?” — no her line; Hashimoto says it.
+[note] (p.136) “I can't say whether I like it or not. I've never done it before.” — her line; she has never played a card game.
+[mentioned] (p.135–136) Named in dialogue; on-page from p.135.
+
+### y2v11 p.189 — Ch.8: The bench
+[scene] (p.189) The bench; her name surfaces.
+[note] (p.189) “You knew about it. That Yamamura and I were in the same group.” — no her; hmm — p.189 is Sakayanagi's dialogue; she is not named here.
+[mentioned] (p.189) Named in narration; not present on these pages.
+
+### y2v11 p.211 — Short Story: The Student in Front of Me
+[scene] (p.218) Her short story; she is not present on these pages.
+[note] (p.211) Hiyori's POV on the Joker scene: Morishita extends her arm, the isolated card is the Joker, she dominates the game. The page renders with a drop-cap artifact of the translation layout.
+[mentioned] (p.211) Named in the short story; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->

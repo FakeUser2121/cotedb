@@ -299,3 +299,25 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 [mentioned] (p.149) Named in Ibuki's exclusions; not present on these pages.
 
 <!-- walk: y2v11 ch6 → p.167 -->
+
+### y2v11 p.123 — Ch.5: The class partner of Tokitō
+[scene] (p.123) The experiential hallway; he is in Group 6 with Hōsen.
+[note] (p.123) “Hōsen Kazuomi, the most problematic first-year student, was in Tokitō's group. However, Tokitō didn't see Hōsen's existence as a problem and even criticized his arrogant attitude.” — the narrative's verdict.
+[mentioned] (p.123) Named in narration; the Hōsen scenes belong to the Tokitō page.
+
+### y2v11 p.133 — Ch.5: The sofa after the bath
+[scene] (p.133) The lobby; the war between Ryūen and Class A.
+[note] (p.133) “It was right next to the seat where Sakayanagi was sitting this morning.” — Kiyotaka's position; Hōsen named in the same breath in the war.
+[mentioned] (p.133) Named in passing; not present on these pages.
+
+### y2v11 p.174 — Ch.7: The witness's account
+[scene] (p.174) Yamamura's account to Kiyotaka.
+[note] (p.174) “However, Tokitō's groupmates, Hōsen and Utomiya, joined in, and there was a risk of a brawl. It seemed that the situation was resolved when the number of students who heard the commotion suddenly increased all at once, and they dispersed.” — the witness's whole story of his entry.
+[mentioned] (p.174) Named as one of the groupmates who joined; not present on these pages.
+
+### y2v11 p.49–50 — Ch.2: The strong personality clause
+[scene] (p.49) The first-years' objections; he is the ruled-out case.
+[note] (p.49) “objections were unlikely except from people with strong personalities like Hōsen.” — the one exception named.
+[mentioned] (p.49–50) Named in the narration's exception; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->

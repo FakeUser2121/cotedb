@@ -257,11 +257,13 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 
 <!-- walk: y2v11 ch2 → p.84 -->
 
-### y2v11 p.149 — Ch.6: The Yagami-kun incident
-[scene] (p.149) The morning training; a name comes up that alarms Ibuki.
+### y2v11 p.148–149 — Ch.6: The Yagami-kun incident
+[scene] (p.148) The morning training; a name comes up that alarms Ibuki (the sentence sits at the foot of the page).
+[scene] (p.149) The training continues; Ibuki steers the conversation away.
 [says:ibuki-mio] (p.149) “Yagami? Why is Yagami coming up now? I don't use violence against my kōhais. I'd like to exclude the Hōsen incident though.”
-[note] (p.149) “The Yagami-kun incident” is named in passing; Ibuki suspects something about it; the text never elaborates; he is absent on these pages.
-[mentioned] (p.149) Named in Ibuki's suspicions; not present on these pages.
+[note] (p.148) “Really…? I still have a few things I'm suspicious about, like the Yagami-kun incident.” — Horikita's line; the name's first full appearance lands at the foot of the page.
+[note] (p.149) “Yagami? Why is Yagami coming up now? I don't use violence against my kōhais. I'd like to exclude the Hōsen incident though.” — Ibuki's answer.
+[mentioned] (p.148–149) Named in the suspicion list; not present on these pages.
 
 
 <!-- walk: y2v11 ch6 → p.167 -->

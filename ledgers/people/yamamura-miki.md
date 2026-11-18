@@ -317,4 +317,23 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 [note] (p.193) Sakayanagi walks in on her own after he pushes her back; the two see each other; the scene closes without a single line of dialogue.
 [rel:sakayanagi-arisu] (p.188–193) The end of the long thread — the lottery, the verdict, the forgiveness; the two finally meet on their own terms.
 
+
 <!-- walk: y2v11 ch8 → p.193 -->
+
+### y2v11 p.60 — Ch.2: The chance encounter
+[scene] (p.60) The break room; their paths cross.
+[note] (p.60) “When Hashimoto and Morishita stopped by the convenience store, they ran into Yamamura, and Kiryūin happened to be there at the same time.” — the choosing of the group; she is the reason.
+[mentioned] (p.60) Named in dialogue; not present on these pages.
+
+### y2v11 p.120–121 — Ch.5: The support role
+[scene] (p.120) The rest area; she is named.
+[note] (p.120) “support role. Yamamura is participating in the matches, and her honesty is helpful.” — his honest report.
+[note] (p.121) “However, Yamamura had seemed listless lately, but I didn't mention that.” — his silence.
+[mentioned] (p.120–121) Named in dialogue; not present on these pages.
+
+### y2v11 p.206 — Epilogue: The inseparable pair
+[scene] (p.206) The career counseling room; her fall from grace.
+[note] (p.206) “She felt a change in her emotional switch within her, starting with the incident involving Kamuro and Yamamura.” — the origin of her change.
+[mentioned] (p.206) Named in dialogue; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->
