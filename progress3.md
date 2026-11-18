@@ -1826,3 +1826,5 @@ hash: `6bea783884c7cb8573db97157f0b718a`.
 | Year 2 stub repair — final batch (y2v9.75, y2v10.25, y2v10, y2v11, y2v12, y2v12.5) | — | verify/gate/make check green; hash deterministic | 44d72953fa0e3416f1370ed6e0af29f0 |
 | y2v9.5 depth pass complete (full line-by-line read, coverage gate run) | 219 | verify/make check/hash green | 54d483abc37ef9538400990eaf037046 |
 | rebuild-from-origin push | — | filter-branch normalize identity; verify/hash green | 384bb8285992b890decd34b623f501b5 |
+
+| y2v12 depth pass | 228 | 432 quotes / 282 sections | 24af8babd74feccf7ee4d480a3557dd6 |
