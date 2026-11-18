@@ -1192,7 +1192,6 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:komiya-kyogo] (p.181) One of the tails Ayanokōji counts against him.
 [rel:kouenji-rokusuke] (p.181) The open move that bought thinking time.
 
-
 <!-- walk: y1v7 ch6 → p.196 -->
 
 ### y1v7 p.197–204, 205–206 — Ch.7: the phone, the form, the mirror
@@ -1245,9 +1244,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:ayanokouji-kiyotaka] (p.197–206) The man who beat him, paid the camera, and holds the hostage cards; postscript says settled for the time being.
 [rel:horikita-manabu] (p.201) The former student council president whose knowledge forces the next-day report.
 
-
 <!-- walk: y1v7 ch7 → p.207 -->
-
 
 ## y1v7.5
 
@@ -1420,7 +1417,6 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [status] (p.204) Still frames himself as bleeding Class A dry with no obligation to the others.
 
 <!-- walk: y1v8 ch7 → p.211 -->
-
 
 ### y1v8 p.220 — Ch.9: alone in the shared room
 [scene] (p.220) Two first-year small groups share a classroom; Ryuuen sits apart from the group he is still nominally in.
@@ -1620,6 +1616,42 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y1v11 ch9 → p.399 -->
 
+### y1v11 pp.324–326 — Ch.7: Substitute commander
+
+[scene] (p.324) Asks why Ichinose is shaking.
+[says] (p.324) “What’s wrong with you? What’s got ya shaking there?”
+[scene] (p.326) Says he is just Class D’s sacrifice.
+[says] (p.326) “Oi, don’t be so wary of me will ya? I’m just their sacrifice.”
+[rel:ichinose-honami] (p.324–326) Confronts her as substitute commander.
+[rel:sakayanagi-arisu] (p.324–326) Arrives in Kaneda’s place.
+
+### y1v11 pp.324, 375–388 — Ch.7/Ch.8: Substitute commander and planning
+
+[scene] (p.324) Asks why Ichinose is shaking.
+[says] (p.324) “What’s wrong with you? What’s got ya shaking there?”
+[scene] (p.326) Says he is just Class D’s sacrifice.
+[says] (p.326) “Oi, don’t be so wary of me will ya? I’m just their sacrifice.”
+[scene] (p.376) Says Ishizaki has gotten big enough to oppose him.
+[says] (p.376) “Oh, so you’ve gotten big enough to oppose me now, huh?”
+[scene] (p.376) Says Ishizaki is practically the leader of Class D.
+[says] (p.376) “Kuku. Well, whatever. You’re practically the leader of Class D right now.”
+[scene] (p.379) Tells Ishizaki Class B is their only option.
+[says] (p.379) “That’s got nothing to do with it, blockhead.”
+[says] (p.380) “If you’re lookin’ to win this exam, Class B is your only option.”
+[scene] (p.380) Says even an idiot can be useful.
+[says] (p.380) “Even an idiot can be useful depending on what ya do with ‘em.”
+[scene] (p.384) Asks whether they waited thinking he would show up.
+[says] (p.384) “The hell? Did you guys seriously wait here thinking I’d show up eventually?”
+[scene] (p.388) Says Shiina looks like she is enjoying herself.
+[says] (p.388) “You say that, but it looks like you’re enjoying yourself.”
+[rel:ishizaki-daichi] (p.375–380) Is begged for help by him.
+[rel:ibuki-mio] (p.383–388) Meets her at karaoke.
+[rel:shiina-hiyori] (p.383–388) Meets her at karaoke.
+
+## y1v11.5
+
+<!-- walk: y1v11.5 → start -->
+
 ### y1v11.5 pp.194–214 — Ch.3: Return preparations and confrontation
 
 [scene] (p.194) In the Keyaki mall men’s toilet, Ryūen meets Hashimoto Masayoshi, who has called him there to discuss the year’s events.
@@ -1653,39 +1685,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y1v11.5 ch7 → p.423 -->
 
-### y1v11 pp.324–326 — Ch.7: Substitute commander
-
-[scene] (p.324) Asks why Ichinose is shaking.
-[says] (p.324) “What’s wrong with you? What’s got ya shaking there?”
-[scene] (p.326) Says he is just Class D’s sacrifice.
-[says] (p.326) “Oi, don’t be so wary of me will ya? I’m just their sacrifice.”
-[rel:ichinose-honami] (p.324–326) Confronts her as substitute commander.
-[rel:sakayanagi-arisu] (p.324–326) Arrives in Kaneda’s place.
-
-### y1v11 pp.324, 375–388 — Ch.7/Ch.8: Substitute commander and planning
-
-[scene] (p.324) Asks why Ichinose is shaking.
-[says] (p.324) “What’s wrong with you? What’s got ya shaking there?”
-[scene] (p.326) Says he is just Class D’s sacrifice.
-[says] (p.326) “Oi, don’t be so wary of me will ya? I’m just their sacrifice.”
-[scene] (p.376) Says Ishizaki has gotten big enough to oppose him.
-[says] (p.376) “Oh, so you’ve gotten big enough to oppose me now, huh?”
-[scene] (p.376) Says Ishizaki is practically the leader of Class D.
-[says] (p.376) “Kuku. Well, whatever. You’re practically the leader of Class D right now.”
-[scene] (p.379) Tells Ishizaki Class B is their only option.
-[says] (p.379) “That’s got nothing to do with it, blockhead.”
-[says] (p.380) “If you’re lookin’ to win this exam, Class B is your only option.”
-[scene] (p.380) Says even an idiot can be useful.
-[says] (p.380) “Even an idiot can be useful depending on what ya do with ‘em.”
-[scene] (p.384) Asks whether they waited thinking he would show up.
-[says] (p.384) “The hell? Did you guys seriously wait here thinking I’d show up eventually?”
-[scene] (p.388) Says Shiina looks like she is enjoying herself.
-[says] (p.388) “You say that, but it looks like you’re enjoying yourself.”
-[rel:ishizaki-daichi] (p.375–380) Is begged for help by him.
-[rel:ibuki-mio] (p.383–388) Meets her at karaoke.
-[rel:shiina-hiyori] (p.383–388) Meets her at karaoke.
-
-### y1v11.5 Ch.3 — Depth review: the returning snake and the toilet confrontation
+### y1v11.5 p.194–213 — Depth review: the returning snake and the toilet confrontation
 [scene] (p.194) Meets Hashimoto in the second-floor men's toilet of Keyaki Mall, a secret, camera-free meeting.
 [says] (p.195) "Who knows. Maybe it's just a whim."
 [says] (p.196) "Don't think you can win just by wandering in the middle of the two sides as a double spy."
@@ -1702,6 +1702,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:hashimoto-masayoshi] (p.194–200) Mutual-interest talks; sees through his bluff about calling Ayanokōji.
 [rel:kanzaki-ryuuji] (p.199–205) Confronted by him over the "dirty" tactics; respects his resolve and promises a harder fight.
 [rel:ayanokouji-kiyotaka] (p.206–212) Meets him after Hiyori's message; lashes out physically, then accepts his advice to grow.
+
 ## y1v11.75
 
 <!-- walk: y1v11.75 → start -->
@@ -1739,7 +1740,6 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:ishizaki-daichi] (p.200–203) Discusses strategy with him.
 [rel:ibuki-mio] (p.200–203) Discusses strategy with her.
 
-
 <!-- walk: y2v1 ch4 → p.203 -->
 
 ### y2v1 pp.194–203, 255 — Ch.5: Strategy and status
@@ -1751,7 +1751,6 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:ishizaki-daichi] (p.200–203) Discusses strategy with him.
 [rel:ibuki-mio] (p.200–203) Discusses strategy with her.
 
-
 <!-- walk: y2v1 ch5 → p.285 -->
 
 ### y2v1 pp.194–203, 255 — Epilogue: Strategy and status
@@ -1762,7 +1761,6 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [scene] (p.255) Partner status noted.
 [rel:ishizaki-daichi] (p.200–203) Discusses strategy with him.
 [rel:ibuki-mio] (p.200–203) Discusses strategy with her.
-
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
@@ -1792,7 +1790,6 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
-
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
 ## y3v1
@@ -1800,7 +1797,6 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 <!-- walk: y3v1 → start -->
 
 <!-- walk: y3v1 Epilogue → p.287 -->
-
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
@@ -2067,8 +2063,6 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v2 Ch.5 → p.311 -->
 
-
-
 ### y2v2 p.298–314 — Ryūen's three-class alliance and Katsuragi buyout
 [scene] (p.298) Summons Ayanokōji and Katsuragi to a Keyaki Mall café — an unlikely pair — to propose an alliance for the island exam.
 [says] (p.298) "What, do you want to stand while we talk? Sit down."
@@ -2092,8 +2086,6 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v3 → start -->
 
-
-
 ### y2v3 p.213–219 — Ryūen agrees to the Shinohara rescue plan
 [scene] (p.213) Emerges from his tent at the bottom-eight commotion; later fishing by a river with Katsuragi when Ayanokōji seeks him out.
 [says] (p.217) "Well, sure. I dunno what those idiots from my class are doin' down there in the bottom eight though."
@@ -2112,8 +2104,6 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 ## y2v4
 
 <!-- walk: y2v4 → start -->
-
-
 
 ### y2v4 p.168–183 — Ryūen stops Hōsen; retires with him
 [scene] (p.168) Intercepts Hōsen as he moves to attack Ayanokōji, having agreed to help after Ayanokōji explained the threat.
@@ -2135,8 +2125,6 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v4.5 → start -->
 
-
-
 ### y2v4.5 p.182–191 — Ryūen investigates Komiya's attacker
 [says] (p.183) "Nanase Tsubasa, right?"
 [says] (p.190) "You've started to see things, eh."
@@ -2149,8 +2137,6 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 ## y2v5
 
 <!-- walk: y2v5 → start -->
-
-
 
 ### y2v5 p.140–151 — Ryūen's class: the dictator yields to the majority
 [scene] (p.140) Class D's Q5 first vote is 14 in favour / 26 against — far more "for" votes than other classes; a third of the class initially prioritizes points over a classmate.
@@ -2170,8 +2156,6 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 ## y2v6
 
 <!-- walk: y2v6 → start -->
-
-
 
 ### y2v6 p.196–211 — Ryūen: testing Horikita; agreeing to the alliance
 [scene] (p.196) Arrives late with Katsuragi at the karaoke parlor, sneering and calling their meeting a "date."
@@ -2206,8 +2190,6 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v7 → start -->
 
-
-
 ### y2v7 p.28–31 — Ryūen: the "declaration of war"
 [says] (p.29) "I helped you in the sports festival to destroy Class A."
 [says] (p.29) "We'll have the same concept as you guys." — copying the maid café
@@ -2236,9 +2218,6 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [note] (p.11) Passing mentions on pages: p.12, p.14, p.46-47, p.49-53, p.55-57.
 [mentioned] (p.11) Passing mention only.
 
-
-
-
 ## y2v9
 
 <!-- walk: y2v9 → start -->
@@ -2262,8 +2241,6 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v9 Epilogue → p.217 -->
 
-
-
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
@@ -2282,8 +2259,6 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v9.5 Ch.5 → p.128 -->
 
-
-
 ## y2v10
 
 <!-- walk: y2v10 → start -->
@@ -2293,9 +2268,6 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [note] (p.9) Passing mention (locator pages: p.8, p.39-41, p.85-87, p.91, p.94-96, p.102; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
-
-
-
 ## y2v11
 
 <!-- walk: y2v11 → start -->
@@ -2304,9 +2276,5 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mention (locator pages: p.20, p.24-25, p.40, p.68, p.86, p.98; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
-
-
-
-
 
 <!-- walk: y2v12 Epilogue → p.228 -->

@@ -34,6 +34,10 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 
 <!-- walk: y1v11 ch8 → p.367 -->
 
+## y1v11.5
+
+<!-- walk: y1v11.5 → start -->
+
 ### y1v11.5 pp.296–323, 339–351 — Ch.5: Suspicion and pursuit
 
 [scene] (p.296) During spring break, Matsushita reflects on her suspicions about Ayanokōji Kiyotaka and decides to investigate him.
@@ -65,7 +69,7 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 
 <!-- walk: y1v11.5 ch7 → p.423 -->
 
-### y1v11.5 Ch.5 — Depth review: Matsushita's suspicion (her POV)
+### y1v11.5 p.296–305 — Depth review: Matsushita's suspicion (her POV)
 [scene] (p.296) Matsushita decides, in first-person narration, to investigate Ayanokōji — not out of love but vigilance.
 [says] (p.296) "Sure enough, this interests me."
 [says] (p.298) "No, that's impossible."
@@ -78,6 +82,7 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 [trait] (p.305) Driven also by boredom and a desire for the "thrill of life," not only class advancement.
 [rel:ayanokouji-kiyotaka] (p.296–305) Intends to draw out his true nature under the guise of curiosity and make him cooperate.
 [rel:karuizawa-kei] (p.301) Read Karuizawa's dating choice as evidence of Ayanokōji's hidden strength.
+
 ## y2v1
 
 <!-- walk: y2v1 → start -->
@@ -108,7 +113,6 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
-
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
 ## y3v1
@@ -116,7 +120,6 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 <!-- walk: y3v1 → start -->
 
 <!-- walk: y3v1 Epilogue → p.287 -->
-
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
@@ -164,8 +167,6 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 
 <!-- walk: y2v2 Ch.3 → p.184 -->
 
-
-
 ### y2v2 p.182–184 — Matsushita's offer to group with Ayanokōji
 [says] (p.182) "If you've got any problems, I would like to help you, Ayanokouji-kun."
 [says] (p.183) "Did you judge that your odds of survival are the highest if you grouped up"
@@ -181,9 +182,6 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 [note] (p.10) Passing mentions on pages: p.127, p.168, p.172-175, p.218, p.220.
 [mentioned] (p.10) Passing mention only.
 
-
-
-
 ## y2v5
 
 <!-- walk: y2v5 → start -->
@@ -192,9 +190,6 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 [scene] (p.7) Named in this volume.
 [note] (p.7) Passing mentions on pages: p.18, p.22-24, p.26, p.54, p.172.
 [mentioned] (p.7) Passing mention only.
-
-
-
 
 ## y2v6
 
@@ -205,9 +200,6 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 [note] (p.11) Passing mentions on pages: p.26-28, p.58, p.60, p.73, p.155.
 [mentioned] (p.11) Passing mention only.
 
-
-
-
 ## y2v7
 
 <!-- walk: y2v7 → start -->
@@ -217,9 +209,6 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 [note] (p.7) Passing mentions on pages: p.12-18, p.20-21, p.27, p.86, p.90-92.
 [mentioned] (p.7) Passing mention only.
 
-
-
-
 ## y2v8
 
 <!-- walk: y2v8 → start -->
@@ -228,9 +217,6 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.48.
 [mentioned] (p.11) Passing mention only.
-
-
-
 
 ## y2v9.5
 
@@ -246,8 +232,6 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 
 <!-- walk: y2v9.5 Ch.4 → p.77 -->
 
-
-
 ## y2v10
 
 <!-- walk: y2v10 → start -->
@@ -256,9 +240,5 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 [scene] (p.9) Named in this volume.
 [note] (p.9) Passing mention (locator pages: p.166-167; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
-
-
-
-
 
 <!-- walk: y2v12 Epilogue → p.228 -->

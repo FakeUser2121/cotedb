@@ -831,7 +831,6 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:sakayanagi-arisu] (p.195) Paired with her as the dual target.
 [rel:katsuragi-kouhei] (p.192) The middle name in the order he skipped.
 
-
 <!-- walk: y1v7 ch6 → p.196 -->
 
 ### y1v7 p.206 — Postscript: named for the third semester
@@ -872,7 +871,6 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [mentioned] (p.88) Passing mention only.
 [rel:sakayanagi-arisu] (p.78) The pair Ryuuen says Class A will attack and Ichinose cannot beat.
 [rel:horikita-manabu] (p.88) Contrast to Manabu’s ideal of no expulsions.
-
 
 <!-- walk: y1v7.5 ch4 → p.106 -->
 
@@ -980,7 +978,6 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [limit] (p.211) No presence in chapter 7 after half 1.
 
 <!-- walk: y1v8 ch7 → p.211 -->
-
 
 ### y1v8 p.238 — Ch.9: named as an information source
 [scene] (p.238) One of the three people Ayanokōji credits for the Tachibana conclusion.
@@ -1364,22 +1361,6 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y1v11 ch9 → p.399 -->
 
-### y1v11.5 pp.144–148, 162–190, 216–236 — Ch.3: Meeting and promise
-
-[scene] (p.144) Ichinose messages Ayanokōji during spring break asking to meet and to include Horikita.
-[scene] (p.162) She meets Ayanokōji and Horikita at the café to discuss the end-of-year exam and the future relationship between their classes.
-[scene] (p.175) Ichinose reflects on Class B’s defeat and the uncertainty of continuing cooperation as the classes become closer in points.
-[scene] (p.216) After the meeting, Ichinose remains alone in heavy rain near the school, standing without an umbrella.
-[scene] (p.218) When Ayanokōji approaches, she says she wants to be soaked in the rain for a while.
-[scene] (p.221) Ichinose agrees to return when Ayanokōji stays in the rain with her.
-[scene] (p.225) In Ayanokōji’s room, she hesitates but begins to speak about her worries as Class B’s leader.
-[scene] (p.231) Ichinose says she fears she cannot see her own growth compared to other class leaders and asks whether she will be able to win in the future.
-[scene] (p.234) She accepts Ayanokōji’s request to meet again one year later and promises to fight with all her strength.
-[rel:ayanokouji-kiyotaka] (p.144–148, 162–190, 216–236) Meets him for discussion and later confides in him during the rain.
-[rel:horikita-suzune] (p.162–190) Meets with her to discuss their classes’ situation.
-
-<!-- walk: y1v11.5 ch3 → p.236 -->
-
 ### y1v11 pp.170–183 — Ch.5: Class B harassment
 
 [scene] (p.172) Invites the Ayanokōji Group to lunch.
@@ -1411,7 +1392,27 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:ryuuen-kakeru] (p.324–327) Reacts to him becoming substitute commander.
 [rel:sakayanagi-arisu] (p.321–327) Speaks with her before the exam.
 
-### y1v11.5 Ch.3 — Depth review: the defeated leader who refuses to complain
+## y1v11.5
+
+<!-- walk: y1v11.5 → start -->
+
+### y1v11.5 pp.144–148, 162–190, 216–236 — Ch.3: Meeting and promise
+
+[scene] (p.144) Ichinose messages Ayanokōji during spring break asking to meet and to include Horikita.
+[scene] (p.162) She meets Ayanokōji and Horikita at the café to discuss the end-of-year exam and the future relationship between their classes.
+[scene] (p.175) Ichinose reflects on Class B’s defeat and the uncertainty of continuing cooperation as the classes become closer in points.
+[scene] (p.216) After the meeting, Ichinose remains alone in heavy rain near the school, standing without an umbrella.
+[scene] (p.218) When Ayanokōji approaches, she says she wants to be soaked in the rain for a while.
+[scene] (p.221) Ichinose agrees to return when Ayanokōji stays in the rain with her.
+[scene] (p.225) In Ayanokōji’s room, she hesitates but begins to speak about her worries as Class B’s leader.
+[scene] (p.231) Ichinose says she fears she cannot see her own growth compared to other class leaders and asks whether she will be able to win in the future.
+[scene] (p.234) She accepts Ayanokōji’s request to meet again one year later and promises to fight with all her strength.
+[rel:ayanokouji-kiyotaka] (p.144–148, 162–190, 216–236) Meets him for discussion and later confides in him during the rain.
+[rel:horikita-suzune] (p.162–190) Meets with her to discuss their classes’ situation.
+
+<!-- walk: y1v11.5 ch3 → p.236 -->
+
+### y1v11.5 p.164–181 — Depth review: the defeated leader who refuses to complain
 [scene] (p.164) Arrives early at the café in casual clothes and treats Ayanokōji and Horikita to lunch.
 [says] (p.164) "Good morning Horikita-san, Ayanokouji-kun. I just arrived."
 [says] (p.165) "Okay, order whatever you want to eat, I'll treat you."
@@ -1428,6 +1429,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:horikita-suzune] (p.167–181) Agrees to end the partnership and accepts the role of enemy from April without bitterness.
 [rel:ryuuen-kakeru] (p.168–175) Holds him responsible for the tactics that beat Class B but declines to report him.
 [rel:nishikawa-ryouko] (p.166) Sold her hairdryer to her to survive March.
+
 ## y1v11.75
 
 <!-- walk: y1v11.75 → start -->
@@ -1446,7 +1448,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y1v11.75 Section → p.18 -->
 
-### y1v11.75 SS — Depth review: spring vacation, renewed resolve
+### y1v11.75 p.15–18 — Depth review: spring vacation, renewed resolve
 [scene] (p.15) Meets Shiranami Chihiro and Amikura Mako at Keyaki Mall on the last day of spring break.
 [says] (p.15) "No, everything is fine. Sorry for that, even when you invited me so many times. I was thinking about strategies for the second year, you could say."
 [says] (p.15) "Yes, I'm relying on you all so if something happens, I'll definitely talk to you."
@@ -1491,7 +1493,6 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
-
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
 ## y3v1
@@ -1499,7 +1500,6 @@ aliases used for anchors: ichinose, honami, ichinose-san
 <!-- walk: y3v1 → start -->
 
 <!-- walk: y3v1 Epilogue → p.287 -->
-
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
@@ -1691,8 +1691,6 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v2 Ch.3 → p.218 -->
 
-
-
 ### y2v2 p.47–52 — Ichinose at Keyaki Mall: praise and a warning
 [scene] (p.47) Waiting at Keyaki Mall with Kanzaki, bumps into Ayanokōji and congratulates him on the perfect math score.
 [says] (p.47) "Ayanokouji-kun, are you waiting for someone?"
@@ -1709,8 +1707,6 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v3 → start -->
 
-
-
 ### y2v3 p.331–345 — Ichinose's broken watch; Tsukishiro's threat
 [scene] (p.331) On the island, her watch breaks (leaving her group unable to earn points or use GPS); she sets off alone to get it fixed, while her group (expanded via a Task and merged with Hashimoto's) aims for the top.
 [says] (p.333) "daytime and all, but it's really cloudy today, so rain…"
@@ -1725,8 +1721,6 @@ aliases used for anchors: ichinose, honami, ichinose-san
 ## y2v4
 
 <!-- walk: y2v4 → start -->
-
-
 
 ### y2v4 p.195–201 — Ichinose's confession at H3
 [scene] (p.195) Covered in mud and exhausted, walks 4+ hours to H3 to find Ayanokōji, having been threatened by Tsukishiro/Shiba after her watch broke.
@@ -1748,8 +1742,6 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v4.5 → start -->
 
-
-
 ### y2v4.5 p.38, 54–58 — Ichinose at the pool; the party she declined
 [scene] (p.38) At the pool with her classmates, is the first to notice Ayanokōji; her shoulders jerk and she hides behind her classmates, awkward after her confession.
 [trait] (p.38, 56) Avoids him at the pool (their eyes meeting is too awkward), and reportedly declined the girls' party invitation — likely to avoid him; Ayanokōji notes their appointment in two days for his reply to her confession.
@@ -1767,8 +1759,6 @@ aliases used for anchors: ichinose, honami, ichinose-san
 ## y2v5
 
 <!-- walk: y2v5 → start -->
-
-
 
 ### y2v5 p.127–138 — Ichinose's class: Kanzaki's one-vote revolt
 [scene] (p.127) Class B reaches Q5 early; the class expects a smooth unanimous "against," but Kanzaki cast the single "for" vote intentionally.
@@ -1790,9 +1780,6 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [note] (p.11) Passing mentions on pages: p.20, p.33, p.53-55, p.57, p.82.
 [mentioned] (p.11) Passing mention only.
 
-
-
-
 ## y2v7
 
 <!-- walk: y2v7 → start -->
@@ -1802,9 +1789,6 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [note] (p.7) Passing mentions on pages: p.9, p.29, p.32-33, p.41-43, p.52.
 [mentioned] (p.7) Passing mention only.
 
-
-
-
 ## y2v8
 
 <!-- walk: y2v8 → start -->
@@ -1813,9 +1797,6 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.10, p.13-14, p.49, p.65, p.69.
 [mentioned] (p.11) Passing mention only.
-
-
-
 
 ## y2v9
 
@@ -1836,19 +1817,6 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:watanabe-norihito] (p.130) Named by Ayanokōji as a potential match; Amikura says she could aim higher.
 
 <!-- walk: y2v9 Ch.4 → p.140 -->
-
-### y2v9.5 p.59–65 — Ichinose: the 46-photo memory day at Keyaki Mall
-[scene] (p.59–63) On Christmas she takes photos with everyone at Keyaki Mall — 43 people by one count, eventually 46 — and shyly asks Ayanokōji for a photo together "to make memories," careful that many photos (not just one with a boy) avoid a rift with Kei.
-[says] (p.61) "Hey, Ayanokōji-kun, could you take a picture with me?"
-[says] (p.61) "To make some memories, I took pictures with various people here today."
-[scene] (p.63–65) She asks after Ayanokōji's meeting with Chihiro the day before, and is joined by Nanase and Hōsen; she waves him off as she smoothly turns to the next photo request.
-[says] (p.63) "By the way, Ayanokōji-kun, you met with Chihiro-chan yesterday, right?"
-[trait] (p.59–65) Cheerful, sociable and principled — she turns the holiday into a memory-making marathon and cleverly protects both herself and Ayanokōji from rumors by keeping the photos public.
-[rel:ayanokouji-kiyotaka] (p.61–63) Takes a commemorative photo with him; asks about his talk with Shiranami.
-[rel:shiranami-chihiro] (p.63) Refers to her as "Chihiro-chan," showing closeness.
-[rel:nanase-tsubasa] (p.63–65) Joins for a photo; Nanase also brings Hōsen.
-
-<!-- walk: y2v9.5 Ch.3 → p.65 -->
 
 ### y2v9 p.33–35 — Ichinose withdraws; resigns from the student council
 [says] (p.33) "I'm—not going to run for the student council this time."
@@ -1884,7 +1852,18 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v9.5 → start -->
 
+### y2v9.5 p.59–65 — Ichinose: the 46-photo memory day at Keyaki Mall
+[scene] (p.59–63) On Christmas she takes photos with everyone at Keyaki Mall — 43 people by one count, eventually 46 — and shyly asks Ayanokōji for a photo together "to make memories," careful that many photos (not just one with a boy) avoid a rift with Kei.
+[says] (p.61) "Hey, Ayanokōji-kun, could you take a picture with me?"
+[says] (p.61) "To make some memories, I took pictures with various people here today."
+[scene] (p.63–65) She asks after Ayanokōji's meeting with Chihiro the day before, and is joined by Nanase and Hōsen; she waves him off as she smoothly turns to the next photo request.
+[says] (p.63) "By the way, Ayanokōji-kun, you met with Chihiro-chan yesterday, right?"
+[trait] (p.59–65) Cheerful, sociable and principled — she turns the holiday into a memory-making marathon and cleverly protects both herself and Ayanokōji from rumors by keeping the photos public.
+[rel:ayanokouji-kiyotaka] (p.61–63) Takes a commemorative photo with him; asks about his talk with Shiranami.
+[rel:shiranami-chihiro] (p.63) Refers to her as "Chihiro-chan," showing closeness.
+[rel:nanase-tsubasa] (p.63–65) Joins for a photo; Nanase also brings Hōsen.
 
+<!-- walk: y2v9.5 Ch.3 → p.65 -->
 
 ## y2v10
 
@@ -1895,9 +1874,6 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [note] (p.9) Passing mention (locator pages: p.40, p.86-87, p.96, p.107-115, p.117-118, p.120; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
-
-
-
 ## y2v10.25
 
 <!-- walk: y2v10.25 → start -->
@@ -1907,9 +1883,6 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [note] (p.1) Passing mentions on pages: p.1-9.
 [mentioned] (p.1) Passing mention only.
 
-
-
-
 ## y2v11
 
 <!-- walk: y2v11 → start -->
@@ -1918,9 +1891,5 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mention (locator pages: p.37-38, p.121, p.194, p.209; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
-
-
-
-
 
 <!-- walk: y2v12 Epilogue → p.228 -->

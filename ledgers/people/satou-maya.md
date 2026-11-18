@@ -135,7 +135,7 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [rel:hasebe-haruka] (p.54) Deeply interested onlooker from the Ayanokouji Group.
 [trait] (p.54) Bold enough to ask in front of the group; anxious when the answer is no; keeps the exit polite.
 
-### y1v7 — Ch.3 half2
+### y1v7 p.65–97 — Ch.3 half2: not named in the second half
 [note] (pp.65–97) Not named in the second half of this chapter.
 
 <!-- walk: y1v7 ch3 → p.97 -->
@@ -156,7 +156,6 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [rel:yukimura-teruhiko] (p.154) Named in his playboy tally.
 
 <!-- walk: y1v7 ch6 → p.196 -->
-
 
 ## y1v7.5
 
@@ -302,6 +301,10 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 
 <!-- walk: y1v11 ch8 → p.367 -->
 
+## y1v11.5
+
+<!-- walk: y1v11.5 → start -->
+
 ### y1v11.5 pp.306–319 — Ch.5: Conversation with friends
 
 [scene] (p.306) Satō meets Matsushita and Shinohara at Keyaki mall during spring break.
@@ -326,7 +329,6 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 
 <!-- walk: y2v1 ch5 → p.285 -->
 
-
 <!-- walk: y2v1 ch5 → p.285 -->
 
 ### y2v1 pp.270–279 — Ch.5: Confronting Karuizawa
@@ -335,7 +337,6 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [scene] (p.274) Asks if she is dating Ayanokōji.
 [scene] (p.276) Slaps Karuizawa and they reconcile.
 [rel:karuizawa-kei] (p.270–279) Confronts her.
-
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
@@ -359,7 +360,6 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
-
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
 ## y3v1
@@ -367,7 +367,6 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 <!-- walk: y3v1 → start -->
 
 <!-- walk: y3v1 Epilogue → p.287 -->
-
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
@@ -401,8 +400,6 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 
 <!-- walk: y2v4.5 → start -->
 
-
-
 ### y2v4.5 p.167–181, 192–193, 204–205 — Satō partners with Ayanokōji
 [says] (p.167) "You know…Ayanokōji-kun, have you partnered up with anyone yet?"
 [says] (p.168) "Would you…pair up with me?"
@@ -433,8 +430,6 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 
 <!-- walk: y2v5 → start -->
 
-
-
 ### y2v5 p.19–25 — Satō's elaborate maid-café pitch
 [scene] (p.19) Approaches Horikita with a "winning" festival idea, then invites Ayanokōji too — secretly setting up a live demonstration in a rented special-building classroom with a guard (Maezono) and shaded windows.
 [narrates] (p.20) "Hey, Ayanokōji-kun. Do you have some time later...?"
@@ -451,8 +446,6 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 ## y2v6
 
 <!-- walk: y2v6 → start -->
-
-
 
 ### y2v6 p.234–237 — Satou: a first-year whispers "you'd have a chance"
 [scene] (p.234) From her own POV, after running off from Ayanokōji and Kei holding arms at the mall, sits by the girls' restroom feeling guilty; an unfamiliar first-year student approaches with an "urgent message."
@@ -472,9 +465,6 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [note] (p.7) Passing mentions on pages: p.13, p.15-20, p.26-27, p.54, p.85-86.
 [mentioned] (p.7) Passing mention only.
 
-
-
-
 ## y2v8
 
 <!-- walk: y2v8 → start -->
@@ -483,9 +473,6 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.25-28, p.48.
 [mentioned] (p.11) Passing mention only.
-
-
-
 
 ## y2v9
 
@@ -503,13 +490,9 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 
 <!-- walk: y2v9 Epilogue → p.211 -->
 
-
-
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
-
-
 
 ## y2v10
 
@@ -520,9 +503,6 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [note] (p.9) Passing mention (locator pages: p.11, p.16, p.134, p.146, p.168, p.170; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
-
-
-
 ## y2v11
 
 <!-- walk: y2v11 → start -->
@@ -531,9 +511,5 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mention (locator pages: p.40, p.133-134; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
-
-
-
-
 
 <!-- walk: y2v12 Epilogue → p.228 -->

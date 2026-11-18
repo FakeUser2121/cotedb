@@ -201,6 +201,10 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 
 <!-- walk: y1v11 ch9 → p.399 -->
 
+## y1v11.5
+
+<!-- walk: y1v11.5 → start -->
+
 ### y1v11.5 pp.47–87 — Ch.1: Chess exam meeting
 
 [scene] (p.47) Participates in the meeting with Ayanokōji, Sakayanagi, Tsukishiro, and other teachers concerning the chess exam.
@@ -221,7 +225,7 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 
 <!-- walk: y1v11.5 ch7 → p.423 -->
 
-### y1v11.5 Ch.1 — Depth review: confronting Tsukishiro's manipulation
+### y1v11.5 p.60–81 — Depth review: confronting Tsukishiro's manipulation
 [scene] (p.60) Joins Ayanokōji and Sakayanagi in a secret meeting with teachers Mashima and Chabashira during the closing ceremony.
 [says] (p.60) "You seem to have something to say to us, Ayanokouji. Making a special announcement through Chairman Sakayanagi, allowing us to skip the closing ceremony to have a secret meeting… What's the big deal? What's going on?"
 [says] (p.68) "Never mind what I think, the current situation is hard for anyone to accept."
@@ -236,6 +240,7 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 [rel:chabashira-sae] (p.70–79) Consults with her, warns her resisting Tsukishiro could cost their jobs.
 [rel:sakayanagi-arisu] (p.80–81) Notes her harshness, accepts her pledge to crush Class D once Tsukishiro is gone.
 [note] (p.78–79) His pay cut is explained as a result of the Class B/D event-selection exam where he declared Ichinose's judo forfeit against Yamada.
+
 ## y2v1
 
 <!-- walk: y2v1 → start -->
@@ -266,7 +271,6 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
-
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
 ## y3v1
@@ -274,7 +278,6 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 <!-- walk: y3v1 → start -->
 
 <!-- walk: y3v1 Epilogue → p.287 -->
-
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
@@ -301,13 +304,9 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 
 <!-- walk: y2v2 Ch.1 → p.24 -->
 
-
-
 ## y2v3
 
 <!-- walk: y2v3 → start -->
-
-
 
 ### y2v3 p.16–27 — Mashima's island exam briefing
 [scene] (p.16) Class 2-A's homeroom teacher stands before the screen in the movie theater, microphone in hand, explaining the rules (with Hoshinomiya handing him the watch).
@@ -330,13 +329,9 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 
 <!-- walk: y2v4 Ch.6 → p.272 -->
 
-
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
-
-
 
 ### y2v4.5 p.227–233 — Mashima reveals the next special exam
 [scene] (p.227) Sandwiched between the two women, sets down his half-empty beer forcefully and warns that the second-years' success "can invite trouble" — not one second-year has ever dropped out.
@@ -357,9 +352,6 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 [note] (p.7) Passing mentions on pages: p.54-57, p.175-176, p.181-182.
 [mentioned] (p.7) Passing mention only.
 
-
-
-
 ## y2v8
 
 <!-- walk: y2v8 → start -->
@@ -368,9 +360,6 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.46, p.49, p.156.
 [mentioned] (p.11) Passing mention only.
-
-
-
 
 ## y2v9
 
@@ -382,8 +371,6 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 [mentioned] (p.124) Passing mention only.
 
 <!-- walk: y2v9 Ch.5 → p.124 -->
-
-
 
 ## y2v9.5
 
@@ -402,8 +389,6 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 
 <!-- walk: y2v9.5 Ch.2 → p.23 -->
 
-
-
 ## y2v10
 
 <!-- walk: y2v10 → start -->
@@ -413,9 +398,6 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 [note] (p.9) Passing mention (locator pages: p.72, p.180; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
-
-
-
 ## y2v11
 
 <!-- walk: y2v11 → start -->
@@ -424,9 +406,5 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mention (locator pages: p.205, p.207-208; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
-
-
-
-
 
 <!-- walk: y2v12 Epilogue → p.228 -->

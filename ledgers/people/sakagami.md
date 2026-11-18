@@ -133,7 +133,6 @@ aliases used for anchors: sakagami, sakagami-sensei
 [rel:ayanokouji-kiyotaka] (p.203) The Class D student who already paid the repair — cited without a name by Sakagami.
 [rel:horikita-manabu] (p.201) The former president whose prior knowledge forces the report timing.
 
-
 <!-- walk: y1v7 ch7 → p.207 -->
 
 ## y1v11
@@ -153,6 +152,16 @@ aliases used for anchors: sakagami, sakagami-sensei
 
 <!-- walk: y1v11 ch10 → p.476 -->
 
+### y1v11 p.431 — Epilogue: After the exam
+
+[scene] (p.431) Says the students are done for the day.
+[says] (p.431) “No, you’re done for today. You’re free to go straight home if you want.”
+[rel:hoshinomiya-chie] (p.431) Cleans up with her.
+
+## y1v11.5
+
+<!-- walk: y1v11.5 → start -->
+
 ### y1v11.5 pp.47–87 — Ch.1: Chess exam meeting
 
 [scene] (p.47) Participates in the meeting with Ayanokōji, Sakayanagi, Tsukishiro, and other teachers concerning the chess exam.
@@ -163,12 +172,6 @@ aliases used for anchors: sakagami, sakagami-sensei
 [rel:ayanokouji-kiyotaka] (p.47–87) Present in the meeting involving his exam.
 
 <!-- walk: y1v11.5 ch1 → p.120 -->
-
-### y1v11 p.431 — Epilogue: After the exam
-
-[scene] (p.431) Says the students are done for the day.
-[says] (p.431) “No, you’re done for today. You’re free to go straight home if you want.”
-[rel:hoshinomiya-chie] (p.431) Cleans up with her.
 
 ## y2v1
 
@@ -200,7 +203,6 @@ aliases used for anchors: sakagami, sakagami-sensei
 
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
-
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
 ## y3v1
@@ -208,7 +210,6 @@ aliases used for anchors: sakagami, sakagami-sensei
 <!-- walk: y3v1 → start -->
 
 <!-- walk: y3v1 Epilogue → p.287 -->
-
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
@@ -235,8 +236,6 @@ aliases used for anchors: sakagami, sakagami-sensei
 
 <!-- walk: y2v3 Ch.4 → p.201 -->
 
-
-
 ## y2v5
 
 <!-- walk: y2v5 → start -->
@@ -245,9 +244,6 @@ aliases used for anchors: sakagami, sakagami-sensei
 [scene] (p.7) Named in this volume.
 [note] (p.7) Passing mentions on pages: p.141, p.143, p.155, p.162, p.165.
 [mentioned] (p.7) Passing mention only.
-
-
-
 
 ## y2v6
 
@@ -258,9 +254,6 @@ aliases used for anchors: sakagami, sakagami-sensei
 [note] (p.11) Passing mentions on pages: p.212.
 [mentioned] (p.11) Passing mention only.
 
-
-
-
 ## y2v7
 
 <!-- walk: y2v7 → start -->
@@ -269,9 +262,6 @@ aliases used for anchors: sakagami, sakagami-sensei
 [scene] (p.7) Named in this volume.
 [note] (p.7) Passing mentions on pages: p.175-176, p.181-182.
 [mentioned] (p.7) Passing mention only.
-
-
-
 
 ## y2v8
 
@@ -282,14 +272,9 @@ aliases used for anchors: sakagami, sakagami-sensei
 [note] (p.11) Passing mentions on pages: p.46, p.49.
 [mentioned] (p.11) Passing mention only.
 
-
-
-
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
-
-
 
 ## y2v10
 
@@ -300,9 +285,6 @@ aliases used for anchors: sakagami, sakagami-sensei
 [note] (p.9) Passing mention (locator pages: p.124, p.126-127, p.132, p.163; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
-
-
-
 ## y2v11
 
 <!-- walk: y2v11 → start -->
@@ -311,9 +293,5 @@ aliases used for anchors: sakagami, sakagami-sensei
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mention (locator pages: p.205, p.207-208; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
-
-
-
-
 
 <!-- walk: y2v12 Epilogue → p.228 -->

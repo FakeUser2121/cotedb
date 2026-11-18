@@ -183,7 +183,6 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [back] (p.18) Ayanokōji is the only one who hears the rider as a warning: "There was deeper meaning behind Chabashira-sensei’s words."
 [back] (p.16) AK's memory of her entrance-day line is what taught the class to spend: he "understood that our homeroom teacher, Chabashira-sensei, hadn’t been kidding when she told us, 'At this school, you can buy anything with your points.'"
 
-
 ### y1v2 p.22 — Ch.2 sec. 2.3: collecting Sudou for the faculty room
 [says] (p.22) “Sudou. I have to talk to you about something. Come to the faculty room,”
 [says] (p.22) “I’ve already spoken with the advisor. You don’t have to come with me if you don’t want to, but you will face the consequences later.”
@@ -790,7 +789,6 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:horikita-manabu] (p.191–192) The other waiter below.
 [rel:karuizawa-kei] (p.191) The soaked uniform is hers to handle.
 
-
 <!-- walk: y1v7 ch6 → p.196 -->
 
 ### y1v7 p.85 — Ch.3: name-checked in the father talk
@@ -1056,6 +1054,10 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y1v11 ch9 → p.399 -->
 
+## y1v11.5
+
+<!-- walk: y1v11.5 → start -->
+
 ### y1v11.5 pp.47–87 — Ch.1: Chess exam meeting
 
 [scene] (p.47) Participates in the meeting with Ayanokōji, Sakayanagi, Tsukishiro, and other teachers concerning the chess exam.
@@ -1091,7 +1093,6 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [scene] (p.143) Notes Class 1-D has no partners yet.
 [rel:ayanokouji-kiyotaka] (p.143) Briefs the class.
 
-
 <!-- walk: y2v1 ch4 → p.203 -->
 
 ### y2v1 pp.205, 227 — Ch.5: Library and study sessions
@@ -1100,14 +1101,12 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [scene] (p.227) Holds study sessions.
 [rel:horikita-suzune] (p.227) Supports her.
 
-
 <!-- walk: y2v1 ch5 → p.285 -->
 
 ### y2v1 pp.333 — Ch.6: Treating Ayanokōji’s hand
 
 [scene] (p.333) Is called by Ayanokōji and brings a towel.
 [rel:ayanokouji-kiyotaka] (p.333) Treats his hand.
-
 
 <!-- walk: y2v1 ch6 → p.343 -->
 
@@ -1116,7 +1115,6 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [scene] (p.349) Calls Ayanokōji to meet Tsukishiro.
 [scene] (p.351) Asks about Tsukishiro’s plans.
 [rel:ayanokouji-kiyotaka] (p.349–352) Calls him.
-
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
@@ -1168,7 +1166,6 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
-
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
 ## y3v1
@@ -1176,7 +1173,6 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 <!-- walk: y3v1 → start -->
 
 <!-- walk: y3v1 Epilogue → p.287 -->
-
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
@@ -1230,8 +1226,6 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v2 Epilogue → p.329 -->
 
-
-
 ### y2v2 p.117–132 — Chabashira's island exam briefing
 [says] (p.117) "It's true that we'll be discussing the topic of the special exam after this, but to maintain the suspense for a bit longer, I'll pick it up later."
 [says] (p.118) "From August 4 to August 11, you can enjoy to your heart's content your summer vacation on this luxury cruise for a total of eight days and seven nights."
@@ -1252,8 +1246,6 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v3 Ch.1 → p.35 -->
 
-
-
 ## y2v4
 
 <!-- walk: y2v4 → start -->
@@ -1265,13 +1257,9 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v4 Ch.6 → p.271 -->
 
-
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
-
-
 
 ### y2v4.5 p.225–232 — The late-night bar: Chabashira on the next special exam
 [scene] (p.225) After 1 a.m. in the adults-only bar lounge, meets Mashima and Hoshinomiya; admonishes the slumped, complaining Hoshinomiya ("you've had more than enough rest").
@@ -1288,8 +1276,6 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 ## y2v5
 
 <!-- walk: y2v5 → start -->
-
-
 
 ### y2v5 p.7–8 — Chabashira's monologue: the nightmare of the exam that cost her Class A
 [scene] (p.7) From her own POV, reveals a recurring nightmare she's never told anyone about — the events of the special exam in her third year, which always ends the same way.
@@ -1348,8 +1334,6 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v6 → start -->
 
-
-
 ### y2v6 p.336–338 — Short story: "Something That Can't be Forgiven" — Hoshinomiya notices
 [scene] (p.336) From her own POV, after advising Horikita to decide for herself what to do about Kushida, she heads back to the staff room; Hoshinomiya (Chie) runs up behind her, having overheard the "thanks" at the end.
 [narrates] (p.337) "Is that you, Chie? How are you going to set an example if even you are running full ahead?"
@@ -1361,8 +1345,6 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 ## y2v7
 
 <!-- walk: y2v7 → start -->
-
-
 
 ### y2v7 p.153–160, 184 — Chabashira as a maid (epilogue note)
 [note] (p.153–160, 184) Chabashira was blackmailed (via the 100,000-point rule) into working as a maid for the festival's final hour; red-faced, she became the café's biggest attraction (63 photos, "surpassing Kushida"), and "ran out of the classroom like a rabbit as soon as 4 o'clock came" — the "cosplay" is credited by the class for their 1st-place win ("I guess Chabashira-sensei's cosplay really struck!").
@@ -1377,9 +1359,6 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [note] (p.11) Passing mentions on pages: p.13-18, p.20, p.23-24, p.46, p.49.
 [mentioned] (p.11) Passing mention only.
 
-
-
-
 ## y2v9
 
 <!-- walk: y2v9 → start -->
@@ -1393,13 +1372,9 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v9 Ch.1 → p.15 -->
 
-
-
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
-
-
 
 ## y2v10
 
@@ -1410,9 +1385,6 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [note] (p.9) Passing mention (locator pages: p.12-14, p.30-32, p.34, p.36, p.38, p.40; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
-
-
-
 ## y2v11
 
 <!-- walk: y2v11 → start -->
@@ -1421,9 +1393,5 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mention (locator pages: p.11, p.13-17, p.34-41, p.44, p.214, p.217; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
-
-
-
-
 
 <!-- walk: y2v12 Epilogue → p.228 -->

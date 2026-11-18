@@ -244,7 +244,6 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [trait] (p.41) AK's verdict on the strategy: "Sudou’s plan had already fallen apart." The secrecy he begged for two nights earlier dies the moment the school canvasses every class for a witness.
 [scene] (p.41) He leaves with Chabashira immediately: "Chabashira-sensei left, and Sudou followed right after her. He probably realized that if he stayed in the classroom, he’d lose his temper with someone."
 
-
 ### y1v2 p.42–45 — Ch.3 sec. 3.1: the class's own memory of him is the case against him
 [scene] (p.42–43) Classmates answer Kushida's appeal with their own sightings, speakers unnamed: "I saw him grab some kid by the collar just because they bumped into each other in the hallway." / "I saw him cut in line in the cafeteria and lash out when someone tried to tell him that wasn’t okay."
 [back] (p.42) Yamauchi's public counter-testimony, which turns the room: that Sudou "lied so he could justify what he did", that "He talked about beating up kids all the time in junior high. He even told us how much fun it was to beat people up."
@@ -257,7 +256,6 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [feat] (p.45) His temper performs the argument against him in real time: "Unable to direct his rage anywhere else, Sudou slammed his fists on the cafeteria table, spilling a nearby student’s miso soup. The student glared, but when he saw how scary Sudou looked, he remained silent."
 [rel:horikita-suzune] (p.44–45) He assumes the friendship she refused to name; her answer — that she has "never once considered you a friend" — is the first time the class hears her draw that line out loud.
 
-
 ### y1v2 p.46–47 — Ch.3 sec. 3.1: he cannot accept that her refusal has a reason
 [says] (p.46) “I don’t really want to think about it, but I guess it might be true.”
 [says] (p.46) “Is it because she hates Sudou? I mean, she just said she didn’t consider him a friend.” — read as Kushida's line to the group, on Sudou's behalf; the text attributes neither to a named speaker.
@@ -266,7 +264,6 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [says] (p.47) “So what? You don’t have a reason?”
 [limit] (p.46–47) AK's diagnosis, which Horikita states herself one page later: he will not accept a reason for the refusal, only a verdict. "Since Horikita was definitely on his mind, he probably wasn’t too pleased about her rejection."
 [rel:kushida-kikyou] (p.44) He accepts her defence of him and never credits it; his own attitude flip in this chapter comes from Ike being recruited by her, not from him changing anything.
-
 
 ### y1v2 p.51 — Ch.3 sec. 3.1: the Horikita fantasy, stated in front of the class
 [says] (p.51) “Just to be sure, there’s really nothing between you and Horikita?”
@@ -1100,7 +1097,6 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:ishizaki-daichi] (p.178) The Class C who would have fought Sudou more readily.
 [rel:ayanokouji-kiyotaka] (p.178) The “regular student” whose reputation is deliberately thin.
 
-
 <!-- walk: y1v7 ch6 → p.196 -->
 
 ## y1v7.5
@@ -1212,7 +1208,6 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y1v8 ch7 → p.211 -->
 
-
 ### y1v8 p.224 — Ch.9: the anchor who wants more
 [scene] (p.224) Named as Hirata’s group’s anchor — raring to run more than the order allows.
 [note] (p.224) Hirata reports Sudou “raring to go—wants to run a lot”; fifteen people make that impossible.
@@ -1240,8 +1235,6 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [note] (p.19) Sudou is not present; only named in the fight recollection.
 
 <!-- walk: y1v9 ch1 → p.25 -->
-
-
 
 ### y1v9 p.29–34 — Eavesdropping; absent at the invitation
 [scene] (p.29) Class morning gossip about the Karuizawa–Hirata split.
@@ -1434,7 +1427,6 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:ryuuen-kakeru] (p.85–90) Is backed up by him.
 [rel:amasawa-ichika] (p.123–141) Is conditionally offered as her partner.
 
-
 <!-- walk: y2v1 ch3 → p.141 -->
 
 ### y2v1 pp.123–181 — Ch.4: Amasawa partnership
@@ -1444,7 +1436,6 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [scene] (p.181) Learns Amasawa will partner with him.
 [rel:amasawa-ichika] (p.123–181) Is conditionally partnered with her.
 
-
 <!-- walk: y2v1 ch4 → p.203 -->
 
 ### y2v1 pp.204–215, 221–224 — Ch.5: Library and study sessions
@@ -1453,7 +1444,6 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [scene] (p.221) Studies with Horikita.
 [scene] (p.223) Kōenji refuses to cooperate.
 [rel:horikita-suzune] (p.204–224) Accompanies her.
-
 
 <!-- walk: y2v1 ch5 → p.285 -->
 
@@ -1467,7 +1457,6 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:horikita-suzune] (p.286–343) Protects her.
 [rel:housen-kazuomi] (p.290–317) Fights him.
 
-
 <!-- walk: y2v1 ch6 → p.343 -->
 
 ### y2v1 pp.344–348 — Epilogue: Exam results
@@ -1475,7 +1464,6 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [scene] (p.344) Is surprised by Ayanokōji’s perfect score.
 [scene] (p.348) Is calmed by Ayanokōji’s explanation.
 [rel:ayanokouji-kiyotaka] (p.344–348) Reacts to his score.
-
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
@@ -1553,7 +1541,6 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
-
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
 ## y3v1
@@ -1561,7 +1548,6 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 <!-- walk: y3v1 → start -->
 
 <!-- walk: y3v1 Epilogue → p.287 -->
-
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
@@ -1732,6 +1718,39 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v2 Ch.3 → p.170 -->
 
+### y2v2 p.19–22 — Sudō defends Ayanokōji against the cheating talk
+[says] (p.19) "You seem to be getting rather excited, but there isn't even a shred of evidence of Ayanokouji cheating, is there?"
+[says] (p.19) "Don't just jump to conclusions when the person in question isn't here."
+[says] (p.20) "That's not what I meant. But there is no way he was easily able to see the question paper, right?"
+[says] (p.20) "I just thought that it's more likely that he got that perfect score with his own abilities."
+[says] (p.20) "That just means he's different from last year. Anyone can grow."
+[trait] (p.19–22) Stands up (his 186cm frame gathering the class's attention) to reject the cheating speculation as unreasonable — surprising everyone, especially Ike; argues Ayanokōji more likely earned it and that people can improve; leaves quietly for club activities after Hirata's nudge, glancing at the silent Horikita.
+[rel:ayanokouji-kiyotaka] (p.19–20) Defends him against the class's suspicion.
+[rel:ike-kanji] (p.19–20) His longtime friend is displeased that he took Ayanokōji's side.
+[rel:miyamoto-soshi] (p.20) Miyamoto insists Ayanokōji's OAA was lower; Sudō notes his own rise above Miyamoto (54 vs 53).
+[rel:horikita-suzune] (p.22) Glances at her before leaving; she sat silent through the whole commotion.
+## y2v3
+
+<!-- walk: y2v3 → start -->
+
+### y2v3 p.84–96 — Sudō's group: quiz win, Ike's funk, and the beach meetup
+[scene] (p.84) At the quiz Task registration, spots Ayanokōji and warns him only three spots remain.
+[says] (p.84) "Yo! Ayanokōji! There's only three spots left!"
+[says] (p.85) "I'm doin' aight' on points."
+[says] (p.85) "Took third in one of our designated areas today, and first in two Tasks so far as well."
+[says] (p.85) "Hell, you were gonna join in too!? If that happened you wouldda prolly given me a run for my money, so lucky me eh?"
+[says] (p.86) "we're runnin' outta water faster than expected… Kinda feels like I mighta been runnin' around too much."
+[says] (p.87) "Looks to me like you came here with her, but you know she's an enemy right?"
+[says] (p.87) "That chick is workin' together with Hōsen to get you kicked outta here right?"
+[says] (p.87) "If you run into trouble make sure you let me know aight?"
+[says] (p.90) "We freakin' did it Kanji!"
+[says] (p.95) "how 'bout we all meet up after an' camp together? Should be more fun with friends."
+[trait] (p.84–96) Mature and protective — leads his group to 1st in the anime quiz (95%), worries about Ayanokōji traveling with the enemy Nanase, admits his own group is burning through water and that Ike has been listless before the exam; proposes a friendly beach camp meetup and asks Ayanokōji for strategy advice.
+[rel:ayanokouji-kiyotaka] (p.84–96) Warns him about Nanase; offers to help if he's in trouble; arranges the 5:30 G9 beach meetup.
+[rel:nanase-tsubasa] (p.87) Suspicious of her as Hōsen's ally; would have told her to "buzz off."
+[rel:ike-kanji] (p.86–90) Notes he's been listless and acting strangely before the exam; celebrates the quiz win with him.
+[rel:hondou-ryoutarou] (p.85) His group member, strong at trivia.
+
 ### y2v3 p.48 — Sudō's group situation
 [scene] (p.48) He is mentioned as having a different Table; his group plans are discussed.
 [trait] (p.48) Part of the class's group dynamics.
@@ -1761,42 +1780,6 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v3 Ch.5 → p.186 -->
 
-
-
-### y2v2 p.19–22 — Sudō defends Ayanokōji against the cheating talk
-[says] (p.19) "You seem to be getting rather excited, but there isn't even a shred of evidence of Ayanokouji cheating, is there?"
-[says] (p.19) "Don't just jump to conclusions when the person in question isn't here."
-[says] (p.20) "That's not what I meant. But there is no way he was easily able to see the question paper, right?"
-[says] (p.20) "I just thought that it's more likely that he got that perfect score with his own abilities."
-[says] (p.20) "That just means he's different from last year. Anyone can grow."
-[trait] (p.19–22) Stands up (his 186cm frame gathering the class's attention) to reject the cheating speculation as unreasonable — surprising everyone, especially Ike; argues Ayanokōji more likely earned it and that people can improve; leaves quietly for club activities after Hirata's nudge, glancing at the silent Horikita.
-[rel:ayanokouji-kiyotaka] (p.19–20) Defends him against the class's suspicion.
-[rel:ike-kanji] (p.19–20) His longtime friend is displeased that he took Ayanokōji's side.
-[rel:miyamoto-soshi] (p.20) Miyamoto insists Ayanokōji's OAA was lower; Sudō notes his own rise above Miyamoto (54 vs 53).
-[rel:horikita-suzune] (p.22) Glances at her before leaving; she sat silent through the whole commotion.
-## y2v3
-
-<!-- walk: y2v3 → start -->
-
-
-
-### y2v3 p.84–96 — Sudō's group: quiz win, Ike's funk, and the beach meetup
-[scene] (p.84) At the quiz Task registration, spots Ayanokōji and warns him only three spots remain.
-[says] (p.84) "Yo! Ayanokōji! There's only three spots left!"
-[says] (p.85) "I'm doin' aight' on points."
-[says] (p.85) "Took third in one of our designated areas today, and first in two Tasks so far as well."
-[says] (p.85) "Hell, you were gonna join in too!? If that happened you wouldda prolly given me a run for my money, so lucky me eh?"
-[says] (p.86) "we're runnin' outta water faster than expected… Kinda feels like I mighta been runnin' around too much."
-[says] (p.87) "Looks to me like you came here with her, but you know she's an enemy right?"
-[says] (p.87) "That chick is workin' together with Hōsen to get you kicked outta here right?"
-[says] (p.87) "If you run into trouble make sure you let me know aight?"
-[says] (p.90) "We freakin' did it Kanji!"
-[says] (p.95) "how 'bout we all meet up after an' camp together? Should be more fun with friends."
-[trait] (p.84–96) Mature and protective — leads his group to 1st in the anime quiz (95%), worries about Ayanokōji traveling with the enemy Nanase, admits his own group is burning through water and that Ike has been listless before the exam; proposes a friendly beach camp meetup and asks Ayanokōji for strategy advice.
-[rel:ayanokouji-kiyotaka] (p.84–96) Warns him about Nanase; offers to help if he's in trouble; arranges the 5:30 G9 beach meetup.
-[rel:nanase-tsubasa] (p.87) Suspicious of her as Hōsen's ally; would have told her to "buzz off."
-[rel:ike-kanji] (p.86–90) Notes he's been listless and acting strangely before the exam; celebrates the quiz win with him.
-[rel:hondou-ryoutarou] (p.85) His group member, strong at trivia.
 ## y2v4
 
 <!-- walk: y2v4 → start -->
@@ -1811,8 +1794,6 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v4 Ch.1 → p.47 -->
 
-
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
@@ -1822,14 +1803,9 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [note] (p.10) Passing mentions on pages: p.33, p.35, p.42, p.109, p.115.
 [mentioned] (p.10) Passing mention only.
 
-
-
-
 ## y2v5
 
 <!-- walk: y2v5 → start -->
-
-
 
 ### y2v5 p.9–12 — Sudō studies hard; shocked by Ayanokōji's dating news
 [says] (p.9) "Suzune warned me about the possibility of a written exam early in the second semester, so I'm staying up all night."
@@ -1851,8 +1827,6 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 ## y2v6
 
 <!-- walk: y2v6 → start -->
-
-
 
 ### y2v6 p.90–97 — Sudō: doubles with Onodera; asking Hirata to mediate
 [scene] (p.90) Invites Ayanokōji to the toilet as an excuse to talk about the class's awkward relationships; Onodera intercepts to propose a doubles pairing.
@@ -1886,14 +1860,9 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [note] (p.7) Passing mentions on pages: p.8-9, p.11-13, p.23-25, p.27, p.98-100.
 [mentioned] (p.7) Passing mention only.
 
-
-
-
 ## y2v8
 
 <!-- walk: y2v8 → start -->
-
-
 
 ### y2v8 p.39–42 — Sudō: planning to confess to Horikita
 [says] (p.39) "Sorry for suddenly showing up without calling."
@@ -1920,6 +1889,10 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v9 Ch.2 → p.71 -->
 
+## y2v9.5
+
+<!-- walk: y2v9.5 → start -->
+
 ### y2v9.5 p.66–78 — Sudō: defending Ayanokōji's ability in the class meeting
 [scene] (p.66–78) At Maezono's secret gathering he reveals he once fought Ayanokōji and lost, argues his physical ability and speed exceed even his own, and defends the Sakura expulsion as an unavoidable decision; his classmates notice how much more mature his speech has become.
 [says] (p.74) "You guys saw it too, right? Ayanokōji's speed in the relay race. He's faster..."
@@ -1932,14 +1905,6 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v9.5 Ch.4 → p.78 -->
 
-
-
-## y2v9.5
-
-<!-- walk: y2v9.5 → start -->
-
-
-
 ## y2v10
 
 <!-- walk: y2v10 → start -->
@@ -1949,9 +1914,6 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [note] (p.9) Passing mention (locator pages: p.10-11, p.34, p.50, p.130, p.132, p.136; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
-
-
-
 ## y2v11
 
 <!-- walk: y2v11 → start -->
@@ -1960,9 +1922,5 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mention (locator pages: p.185-186; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
-
-
-
-
 
 <!-- walk: y2v12 Epilogue → p.228 -->

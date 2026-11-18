@@ -16,6 +16,10 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [says] (p.107) “Like you said, it would be ever so annoying if we made you think we weren’t cooperating.”
 [trait] (p.106–107) Gentle expression, harsh cynical eyes; the doubt is public, the timing too strange to be his alone.
 
+## y1v7
+
+<!-- walk: y1v7 → start -->
+
 ### y1v7 p.112, 115 — Ch.4: the block and the cover
 [scene] (p.112) Named with Kamuro as Sakayanagi’s island-intel source; p.115 eats Ryuuen’s kick blocking her face.
 [says:hashimoto-masayoshi] (p.112) “That’s going too far, Kitou. Ryuuen isn’t that much of an idiot,” replied another. I think it was Hashimoto, or whatever his name was.
@@ -162,7 +166,6 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [goal] (p.205) Slip into Class A even if Hirata’s group climbs — room for him is the condition.
 
 <!-- walk: y1v8 ch7 → p.211 -->
-
 
 ### y1v8 p.220–221 — Ch.9 half 1: the Ryuuen probe
 [scene] (p.220) Beside Ayanokōji after zazen; opens the Ryuuen-isolation read and steers toward Nagumo’s interest.
@@ -390,18 +393,6 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 
 <!-- walk: y1v11 ch10 → p.476 -->
 
-### y1v11.5 pp.194–205, 213–214 — Ch.3: Meeting Ryūen and Kanzaki
-
-[scene] (p.194) Hashimoto meets Ryūen in the Keyaki mall men’s toilet to gauge his intentions after the end-of-year exam.
-[scene] (p.197) He probes Ryūen about future plans and his relationships, trying to gather information.
-[scene] (p.199) Hashimoto calls in Kanzaki Ryūji, arranging a meeting between him and Ryūen.
-[scene] (p.203) After Kanzaki warns Ryūen, Hashimoto reacts with interest and continues to position himself for future cooperation.
-[scene] (p.214) Hashimoto reflects that building a relationship with Ryūen early may prove valuable depending on how the classes shift.
-[rel:ryuuen-kakeru] (p.194–205, 214) Meets him to assess and maintain a connection.
-[rel:kanzaki-ryuuji] (p.199–204) Brings him to meet Ryūen.
-
-<!-- walk: y1v11.5 ch3 → p.236 -->
-
 ### y1v11 pp.401–414 — Epilogue: Chess match
 
 [scene] (p.401) Says he is very good at chess.
@@ -423,7 +414,23 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [rel:horikita-suzune] (p.404–413) Competes against her.
 [rel:sakayanagi-arisu] (p.400–414) Plays under her direction.
 
-### y1v11.5 Ch.3 — Depth review: feeling out Ryūen
+## y1v11.5
+
+<!-- walk: y1v11.5 → start -->
+
+### y1v11.5 pp.194–205, 213–214 — Ch.3: Meeting Ryūen and Kanzaki
+
+[scene] (p.194) Hashimoto meets Ryūen in the Keyaki mall men’s toilet to gauge his intentions after the end-of-year exam.
+[scene] (p.197) He probes Ryūen about future plans and his relationships, trying to gather information.
+[scene] (p.199) Hashimoto calls in Kanzaki Ryūji, arranging a meeting between him and Ryūen.
+[scene] (p.203) After Kanzaki warns Ryūen, Hashimoto reacts with interest and continues to position himself for future cooperation.
+[scene] (p.214) Hashimoto reflects that building a relationship with Ryūen early may prove valuable depending on how the classes shift.
+[rel:ryuuen-kakeru] (p.194–205, 214) Meets him to assess and maintain a connection.
+[rel:kanzaki-ryuuji] (p.199–204) Brings him to meet Ryūen.
+
+<!-- walk: y1v11.5 ch3 → p.236 -->
+
+### y1v11.5 p.194–214 — Depth review: feeling out Ryūen
 [scene] (p.194) Calls Ryūen to the second-floor men's toilet to "summarise what happened this year," choosing a camera-free location.
 [says:ryuuen-kakeru] (p.194) "So? What kind of prank are you trying to pull on me, calling me out here?"
 [says] (p.195) "Calling it a prank doesn't sound very good. I just wanted to summarise what happened this year."
@@ -435,6 +442,7 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [rel:ryuuen-kakeru] (p.194–214) Mutual-interest talks; ends with a new assessment of his growth.
 [rel:kanzaki-ryuuji] (p.199–200) Brought him in as go-between in exchange for a Class B alliance.
 [note] (p.194, 214) Ryūen's lines are tagged with his id; only Hashimoto's lines carry the plain [says] tag.
+
 ## y2v1
 
 <!-- walk: y2v1 → start -->
@@ -455,7 +463,6 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [scene] (p.194) Reports that Class C is offering 10,000 points to turn down Class A offers.
 [rel:sakayanagi-arisu] (p.194) Reports to her.
 
-
 <!-- walk: y2v1 ch4 → p.203 -->
 
 ### y2v1 pp.194 — Ch.5: Reporting findings
@@ -463,14 +470,12 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [scene] (p.194) Reports Class C’s buyout tactics.
 [rel:sakayanagi-arisu] (p.194) Reports to her.
 
-
 <!-- walk: y2v1 ch5 → p.285 -->
 
 ### y2v1 pp.194 — Epilogue: Reporting findings
 
 [scene] (p.194) Reports Class C’s buyout tactics.
 [rel:sakayanagi-arisu] (p.194) Reports to her.
-
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
@@ -488,7 +493,6 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 <!-- walk: y3v1 → start -->
 
 <!-- walk: y3v1 Epilogue → p.287 -->
-
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
@@ -846,8 +850,6 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 
 <!-- walk: y2v2 Ch.5 → p.300 -->
 
-
-
 ## y2v3
 
 <!-- walk: y2v3 → start -->
@@ -860,8 +862,6 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 
 <!-- walk: y2v3 Ch.4 → p.334 -->
 
-
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
@@ -870,9 +870,6 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [scene] (p.10) Named in this volume.
 [note] (p.10) Passing mentions on pages: p.15, p.95.
 [mentioned] (p.10) Passing mention only.
-
-
-
 
 ## y2v5
 
@@ -883,9 +880,6 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [note] (p.7) Passing mentions on pages: p.168-169.
 [mentioned] (p.7) Passing mention only.
 
-
-
-
 ## y2v6
 
 <!-- walk: y2v6 → start -->
@@ -894,9 +888,6 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.219-222, p.261-267, p.305, p.319.
 [mentioned] (p.11) Passing mention only.
-
-
-
 
 ## y2v7
 
@@ -907,9 +898,6 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [note] (p.7) Passing mentions on pages: p.17-19, p.27, p.29-30, p.89-90, p.189.
 [mentioned] (p.7) Passing mention only.
 
-
-
-
 ## y2v8
 
 <!-- walk: y2v8 → start -->
@@ -918,9 +906,6 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.105, p.109, p.118-119.
 [mentioned] (p.11) Passing mention only.
-
-
-
 
 ## y2v9
 
@@ -935,6 +920,10 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 
 <!-- walk: y2v9 Ch.5 → p.151 -->
 
+## y2v9.5
+
+<!-- walk: y2v9.5 → start -->
+
 ### y2v9.5 p.80–81, 189–203 — Hashimoto: eavesdropping and probing Ayanokōji
 [scene] (p.80–81) He tells Kamuro he eavesdropped on Class 2-D's discussion of Ayanokōji, concluding Horikita is not really the core of Class B and that Ayanokōji can make ruthless decisions.
 [says] (p.80) "Horikita isn't the core of Class B after all."
@@ -948,14 +937,6 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 
 <!-- walk: y2v9.5 Epilogue → p.203 -->
 
-
-
-## y2v9.5
-
-<!-- walk: y2v9.5 → start -->
-
-
-
 ## y2v10
 
 <!-- walk: y2v10 → start -->
@@ -964,9 +945,6 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [scene] (p.9) Named in this volume.
 [note] (p.9) Passing mention (locator pages: p.8, p.101, p.104, p.119-120, p.146, p.148-152; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
-
-
-
 
 ## y2v11
 
@@ -977,9 +955,6 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [note] (p.11) Passing mention (locator pages: p.19-33, p.46-47, p.49-53, p.60, p.67-70, p.72; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
-
-
-
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -988,6 +963,4 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [scene] (p.12) Named in this volume.
 [note] (p.12) Passing mention (locator pages: p.20, p.49-52, p.59, p.162, p.165-166, p.173-174; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.12) Passing mention only.
-
-
 

@@ -351,7 +351,6 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [rel:chabashira-sae] (p.191–192) The other adult waiting below.
 [rel:sakayanagi-arisu] (p.195) The alternate witness still unused.
 
-
 <!-- walk: y1v7 ch6 → p.196 -->
 
 ### y1v7 p.201 — Ch.7: the former president named by role
@@ -359,7 +358,6 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [mentioned] (p.201) Passing mention only.
 
 <!-- walk: y1v7 ch7 → p.207 -->
-
 
 ## y1v7.5
 
@@ -523,7 +521,6 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [limit] (p.213, 215) Named only — no dialogue.
 
 <!-- walk: y1v8 ch8 → p.215 -->
-
 
 ### y1v8 p.228 — Ch.9 half 1: first place, then the look
 [scene] (p.228) His large group announced first; Fujimaki praises him; he glances at Nagumo as the smile registers.
@@ -740,6 +737,30 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 
 <!-- walk: y1v11 ch6 → p.280 -->
 
+### y1v11 pp.217–229 — Ch.5: Meeting on the way to school
+
+[scene] (p.218) Asks whether Ayanokōji can graduate as a member of Class A.
+[says] (p.218) “That’s supposed to be my line. Are you sure you can graduate as a member of Class A?”
+[scene] (p.220) Explains his discretion as a former student council president.
+[says] (p.220) “Maybe so. You can think of it as an obligation I have as a former student council president.”
+[scene] (p.222) Says no human is perfect.
+[says] (p.222) “There is no such thing as a perfect human. Am I wrong?”
+[scene] (p.225) Says Suzune would surpass him if she became honest with herself.
+[says] (p.225) “If Suzune could stop chasing after my shadow, break away from her dependency, and become honest with herself…”
+[says] (p.226) “She would surpass me altogether, and probably become someone you wouldn’t be able to ignore.”
+[scene] (p.226) Says it depends on whether she can change.
+[says] (p.226) “But in the end, it all depends on whether she can make the change at all.”
+[scene] (p.227) Denies dating Tachibana.
+[says] (p.227) “No. Nothing of the sort.”
+[scene] (p.228) Says he spent three years thinking only about school.
+[says] (p.228) “I’ve spent these last three years thinking about nothing but school, for better or for worse.”
+[rel:ayanokouji-kiyotaka] (p.217–229) Talks with him about Suzune and graduation.
+[rel:tachibana-akane] (p.227–229) Is asked about her; she listens in.
+
+## y1v11.5
+
+<!-- walk: y1v11.5 → start -->
+
 ### y1v11.5 pp.25–28, 94–98 — Ch.1: Graduation and farewells
 
 [scene] (p.25) At the graduation ceremony, Horikita Manabu is called as Class A’s representative and delivers the graduation address.
@@ -774,27 +795,7 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 
 <!-- walk: y1v11.5 ch4 → p.295 -->
 
-### y1v11 pp.217–229 — Ch.5: Meeting on the way to school
-
-[scene] (p.218) Asks whether Ayanokōji can graduate as a member of Class A.
-[says] (p.218) “That’s supposed to be my line. Are you sure you can graduate as a member of Class A?”
-[scene] (p.220) Explains his discretion as a former student council president.
-[says] (p.220) “Maybe so. You can think of it as an obligation I have as a former student council president.”
-[scene] (p.222) Says no human is perfect.
-[says] (p.222) “There is no such thing as a perfect human. Am I wrong?”
-[scene] (p.225) Says Suzune would surpass him if she became honest with herself.
-[says] (p.225) “If Suzune could stop chasing after my shadow, break away from her dependency, and become honest with herself…”
-[says] (p.226) “She would surpass me altogether, and probably become someone you wouldn’t be able to ignore.”
-[scene] (p.226) Says it depends on whether she can change.
-[says] (p.226) “But in the end, it all depends on whether she can make the change at all.”
-[scene] (p.227) Denies dating Tachibana.
-[says] (p.227) “No. Nothing of the sort.”
-[scene] (p.228) Says he spent three years thinking only about school.
-[says] (p.228) “I’ve spent these last three years thinking about nothing but school, for better or for worse.”
-[rel:ayanokouji-kiyotaka] (p.217–229) Talks with him about Suzune and graduation.
-[rel:tachibana-akane] (p.227–229) Is asked about her; she listens in.
-
-### y1v11.5 Ch.1 — Depth review: graduation speech and teacher meeting
+### y1v11.5 p.26–32 — Depth review: graduation speech and teacher meeting
 [scene] (p.26) Called up as the Class A representative to deliver the graduation valedictory — confirming he graduated from Class A despite Nagumo.
 [says] (p.26) "Greetings. On this beautiful, blossoming spring day, I welcome you to this graduation ceremony."
 [says] (p.27) "I still clearly remember the first day I set foot into the campus of the Advanced Nurturing High School. I felt that there was a different atmosphere compared to normal schools. As I was shouldering the burden of the future, I vowed to make these three years a meaningful one."
@@ -804,7 +805,7 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [trait] (p.26–28) His speech is warm and composed; Ayanokōji notes he seems a different person from a year earlier and that not a student whispers during it.
 [rel:horikita-suzune] (p.31–32) Is the subject of Suzune's reluctance to attend the farewell — she tells Ayanokōji she has no plans to see him off.
 
-### y1v11.5 Ch.4 — Depth review: Manabu's final day and farewell
+### y1v11.5 p.237–270 — Depth review: Manabu's final day and farewell
 [scene] (p.238) Arrives 20 minutes early for his own departure; Suzune is not yet there.
 [says] (p.239) "That's alright, there's no need."
 [says] (p.239) "If that's the case, there's no need to wake her up."
@@ -830,6 +831,7 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [rel:ayanokouji-kiyotaka] (p.237–259) Gives him his parting evaluation, phone numbers and a firm handshake; entrusts Suzune to him.
 [rel:horikita-suzune] (p.259–270) Reconciles with her at the entrance; reveals the long-hair lie and asks her to surpass him.
 [rel:tachibana-akane] (p.249) Gives Ayanokōji her phone number as a future contact.
+
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -850,7 +852,6 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
-
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
 ## y3v1
@@ -858,7 +859,6 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 <!-- walk: y3v1 → start -->
 
 <!-- walk: y3v1 Epilogue → p.287 -->
-
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
@@ -878,8 +878,6 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 
 <!-- walk: y2v2 → start -->
 
-
-
 ## y2v3
 
 <!-- walk: y2v3 → start -->
@@ -891,13 +889,9 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 
 <!-- walk: y2v3 Ch.1 → p.6 -->
 
-
-
 ## y2v4
 
 <!-- walk: y2v4 → start -->
-
-
 
 ## y2v4.5
 
@@ -908,9 +902,6 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [note] (p.10) Passing mentions on pages: p.13, p.15, p.36, p.41-43, p.46-47.
 [mentioned] (p.10) Passing mention only.
 
-
-
-
 ## y2v5
 
 <!-- walk: y2v5 → start -->
@@ -919,9 +910,6 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [scene] (p.7) Named in this volume.
 [note] (p.7) Passing mentions on pages: p.11, p.17, p.19-27, p.29-31, p.34.
 [mentioned] (p.7) Passing mention only.
-
-
-
 
 ## y2v6
 
@@ -932,9 +920,6 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [note] (p.11) Passing mentions on pages: p.15-25, p.27-30, p.36-37, p.40-52, p.54.
 [mentioned] (p.11) Passing mention only.
 
-
-
-
 ## y2v7
 
 <!-- walk: y2v7 → start -->
@@ -943,9 +928,6 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [scene] (p.7) Named in this volume.
 [note] (p.7) Passing mentions on pages: p.6, p.8-11, p.13-15, p.17-22, p.27-32.
 [mentioned] (p.7) Passing mention only.
-
-
-
 
 ## y2v8
 
@@ -956,20 +938,13 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [note] (p.11) Passing mentions on pages: p.12-14, p.16-18, p.41-42, p.44-45, p.57-58.
 [mentioned] (p.11) Passing mention only.
 
-
-
-
 ## y2v9
 
 <!-- walk: y2v9 → start -->
 
-
-
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
-
-
 
 ## y2v9.75
 
@@ -979,9 +954,6 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [scene] (p.1) Named in this volume.
 [note] (p.1) Passing mentions on pages: p.4-8, p.17.
 [mentioned] (p.1) Passing mention only.
-
-
-
 
 <!-- walk: y2v9.75 Epilogue → p.17 -->
 
@@ -994,9 +966,6 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [note] (p.9) Passing mention (locator pages: p.16-24, p.26-28, p.31, p.40, p.43-51, p.58; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
-
-
-
 ## y2v11
 
 <!-- walk: y2v11 → start -->
@@ -1005,9 +974,5 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mention (locator pages: p.27, p.39-40, p.54, p.56-57, p.59, p.65; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
-
-
-
-
 
 <!-- walk: y2v12 Epilogue → p.228 -->

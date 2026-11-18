@@ -49,7 +49,6 @@ char_id: asahina-nazuna · class: Class 2-A · status: supporting
 
 <!-- walk: y1v8 ch6 → p.185 -->
 
-
 ### y1v8 p.238 — Ch.9: named as an information source
 [scene] (p.238) One of the three people Ayanokōji credits for the Tachibana conclusion.
 [note] (p.238) “That was the conclusion I’d drawn after piecing together information from Kei, Ichinose, and Asahina.”
@@ -99,6 +98,10 @@ char_id: asahina-nazuna · class: Class 2-A · status: supporting
 
 <!-- walk: y1v10 Ch3 → p.147 -->
 
+## y1v11.5
+
+<!-- walk: y1v11.5 → start -->
+
 ### y1v11.5 pp.94–104 — Ch.1: Graduation farewells
 
 [scene] (p.94) Asahina Nazuna appears with Nagumo Miyabi and other student council members during the third-year farewells.
@@ -122,13 +125,9 @@ char_id: asahina-nazuna · class: Class 2-A · status: supporting
 
 <!-- walk: y2v3 Ch.4 → p.132 -->
 
-
-
 ## y2v7
 
 <!-- walk: y2v7 → start -->
-
-
 
 ### y2v7 p.36–41 — Mii-chan warns Ayanokōji about Nagumo
 [says] (p.38) "Nagumo is saying that he's going to let the non-A's compete and pick one student from the class that takes first place."
@@ -156,8 +155,6 @@ char_id: asahina-nazuna · class: Class 2-A · status: supporting
 
 <!-- walk: y2v9 Ch.5 → p.169 -->
 
-
-
 ## y2v11
 
 <!-- walk: y2v11 → start -->
@@ -166,9 +163,6 @@ char_id: asahina-nazuna · class: Class 2-A · status: supporting
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mention (locator pages: p.53-57, p.59, p.61, p.64, p.79, p.81-83; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
-
-
-
 
 ## y2v6
 

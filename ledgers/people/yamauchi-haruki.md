@@ -580,7 +580,7 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [rel:sudou-ken] (p.33) Chat partner after the tail report.
 [rel:ike-kanji] (p.33) Same trio.
 
-### y1v7 — Ch.3 half2
+### y1v7 p.65–97 — Ch.3 half2: not named in the second half
 [note] (pp.65–97) Not named in the second half of this chapter.
 
 <!-- walk: y1v7 ch3 → p.97 -->

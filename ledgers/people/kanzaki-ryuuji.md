@@ -3,6 +3,37 @@
 char_id: kanzaki-ryuuji · class: Class 1-B · status: minor (Class B)
 aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 
+## y1v11.5
+
+<!-- walk: y1v11.5 → start -->
+
+### y1v11.5 pp.199–205 — Ch.3: Warning to Ryūen
+
+[scene] (p.199) Kanzaki arrives at the Keyaki mall men’s toilet after Hashimoto arranges a meeting with Ryūen.
+[scene] (p.201) He tells Ryūen that Class B does not accept the end-of-year exam result as a fair loss and criticizes his underhanded tactics.
+[scene] (p.202) Kanzaki declares he will act to prevent such methods from working against Class B in the future, even if he must step beyond Ichinose’s usual approach.
+[scene] (p.205) He leaves after warning Ryūen to remember what he said.
+[rel:ryuuen-kakeru] (p.199–205) Confronts and warns him about future conflict with Class B.
+[rel:hashimoto-masayoshi] (p.199–204) Meets him through Hashimoto’s arrangement.
+[rel:ichinose-honami] (p.202) States he has supported her but sees limits in her ability to respond to emergencies.
+
+<!-- walk: y1v11.5 ch3 → p.236 -->
+
+### y1v11.5 p.199–205 — Depth review: confronting Ryūen over the unfair win
+[scene] (p.199) Brought in by Hashimoto as a middleman to a secret meeting with Ryūen in the Keyaki Mall toilet.
+[says] (p.199) "I won't trust you, Hashimoto. But you're of value."
+[says] (p.201) "I'm sorry Ryuuen, I don't think we lost to you."
+[says] (p.201) "You played dirty to steal the win from us. Don't forget this!"
+[says] (p.202) "No, she shouldn't be able to do anything about it."
+[says] (p.202) "I will."
+[says] (p.203) "Watch me. I'll prove it."
+[says] (p.203) "I don't know what dirty trick you still have up your sleeve, but I'm not the same as Ichinose. I won't show mercy. I hate that we lost in our own territory, so I'll fight with everything I've got."
+[says] (p.205) "Remember what I said, Ryuuen."
+[trait] (p.202–203) Sees through Ichinose's weakness — her inability to abandon the weak and handle emergencies — and pledges to be the one to stop Ryūen.
+[rel:ryuuen-kakeru] (p.199–205) Confronts him over the laxative/mental tactics and vows a merciless rematch.
+[rel:hashimoto-masayoshi] (p.199) Accepts his go-between role solely because Class B and Class A share an enemy in Sakayanagi.
+[rel:ichinose-honami] (p.202) Faithful to her leadership but critical of her inability to handle emergencies.
+
 ## y2v1
 
 <!-- walk: y2v1 → start -->
@@ -252,7 +283,6 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 
 <!-- walk: y1v8 ch4 → p.147 -->
 
-
 ### y1v8 p.225 — Ch.9: the mostly-Class-B group on the course
 [scene] (p.225) His group’s runners arrive at Ayanokōji’s marker ahead of Ishizaki’s handoff.
 [note] (p.225) “someone from the mostly Class B group led by Kanzaki” — first runner to reach the marker in that wave.
@@ -386,18 +416,6 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 
 <!-- walk: y1v11 ch6 → p.280 -->
 
-### y1v11.5 pp.199–205 — Ch.3: Warning to Ryūen
-
-[scene] (p.199) Kanzaki arrives at the Keyaki mall men’s toilet after Hashimoto arranges a meeting with Ryūen.
-[scene] (p.201) He tells Ryūen that Class B does not accept the end-of-year exam result as a fair loss and criticizes his underhanded tactics.
-[scene] (p.202) Kanzaki declares he will act to prevent such methods from working against Class B in the future, even if he must step beyond Ichinose’s usual approach.
-[scene] (p.205) He leaves after warning Ryūen to remember what he said.
-[rel:ryuuen-kakeru] (p.199–205) Confronts and warns him about future conflict with Class B.
-[rel:hashimoto-masayoshi] (p.199–204) Meets him through Hashimoto’s arrangement.
-[rel:ichinose-honami] (p.202) States he has supported her but sees limits in her ability to respond to emergencies.
-
-<!-- walk: y1v11.5 ch3 → p.236 -->
-
 ### y1v11 pp.171, 176, 178 — Ch.5: Class D harassment
 
 [scene] (p.176) Asks whether they can tell the Ayanokōji Group.
@@ -406,20 +424,6 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [says] (p.178) “I’ve spoken to those two about it myself, and pretty much everything checks out.”
 [rel:ichinose-honami] (p.171, 176, 178) Discusses the situation with her.
 
-### y1v11.5 Ch.3 — Depth review: confronting Ryūen over the unfair win
-[scene] (p.199) Brought in by Hashimoto as a middleman to a secret meeting with Ryūen in the Keyaki Mall toilet.
-[says] (p.199) "I won't trust you, Hashimoto. But you're of value."
-[says] (p.201) "I'm sorry Ryuuen, I don't think we lost to you."
-[says] (p.201) "You played dirty to steal the win from us. Don't forget this!"
-[says] (p.202) "No, she shouldn't be able to do anything about it."
-[says] (p.202) "I will."
-[says] (p.203) "Watch me. I'll prove it."
-[says] (p.203) "I don't know what dirty trick you still have up your sleeve, but I'm not the same as Ichinose. I won't show mercy. I hate that we lost in our own territory, so I'll fight with everything I've got."
-[says] (p.205) "Remember what I said, Ryuuen."
-[trait] (p.202–203) Sees through Ichinose's weakness — her inability to abandon the weak and handle emergencies — and pledges to be the one to stop Ryūen.
-[rel:ryuuen-kakeru] (p.199–205) Confronts him over the laxative/mental tactics and vows a merciless rematch.
-[rel:hashimoto-masayoshi] (p.199) Accepts his go-between role solely because Class B and Class A share an enemy in Sakayanagi.
-[rel:ichinose-honami] (p.202) Faithful to her leadership but critical of her inability to handle emergencies.
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -439,7 +443,6 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [rel:ayanokouji-kiyotaka] (pp.177-191) Appears in this volume.
 
 <!-- walk: y2v12.5 Epilogue → p.216 -->
-
 
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
@@ -581,8 +584,6 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 
 <!-- walk: y2v2 Ch.5 → p.297 -->
 
-
-
 ### y2v2 p.47–50 — Kanzaki's hostility toward Ayanokōji
 [scene] (p.47) Waiting with Ichinose at Keyaki Mall; his gaze is fixed more on her than on Ayanokōji.
 [says] (p.47) "Judging from last year's OAA, you shouldn't have the strength to get a full score."
@@ -604,8 +605,6 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 
 <!-- walk: y2v4 Ch.1 → p.49 -->
 
-
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
@@ -615,14 +614,9 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [note] (p.10) Passing mentions on pages: p.64, p.243-246, p.248-249.
 [mentioned] (p.10) Passing mention only.
 
-
-
-
 ## y2v5
 
 <!-- walk: y2v5 → start -->
-
-
 
 ### y2v5 p.127–138 — Kanzaki's principled one-vote stand
 [says] (p.128) "I can only believe that everyone is suffering from normality bias if they don't think it's abnormal that 39 opposing votes were gathered without any hesitation or doubt."
@@ -638,8 +632,6 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 ## y2v7
 
 <!-- walk: y2v7 → start -->
-
-
 
 ### y2v7 p.57–71 — Kanzaki's confession; the resolve to change his class
 [scene] (p.57) Meets Ayanokōji in the special wing at his own request (though Ayanokōji called him), grim and wary.
@@ -692,8 +684,6 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 
 <!-- walk: y2v9 Ch.3 → p.101 -->
 
-
-
 ## y2v10
 
 <!-- walk: y2v10 → start -->
@@ -703,9 +693,6 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [note] (p.9) Passing mention (locator pages: p.106-109, p.112, p.118; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
-
-
-
 ## y2v11
 
 <!-- walk: y2v11 → start -->
@@ -714,9 +701,5 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mention (locator pages: p.40, p.160; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
-
-
-
-
 
 <!-- walk: y2v12 Epilogue → p.228 -->

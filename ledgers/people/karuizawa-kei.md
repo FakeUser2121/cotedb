@@ -63,7 +63,6 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 ## y1v3
 
-
 ### y1v3 p.13, p.42, p.96 — Ch.2: she is the girls' standard, and she bends for the class points
 [scene] (p.13) Deck of the liner; the group of girls "led by Karuizawa" comes out of the cabin, and she points at the ocean with a radiant smile.
 [says] (p.13) “This view is incredible! I’m honestly super moved right now!”
@@ -907,7 +906,6 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:ryuuen-kakeru] (p.174, 178) The man whose plan she stops caring about, then defies.
 [rel:manabe-shiho] (p.190) The past that will not be dug up again.
 
-
 <!-- walk: y1v7 ch6 → p.196 -->
 
 ### y1v7 p.69, 76 — Ch.3: named in the father and exit talks
@@ -917,7 +915,6 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [mentioned] (p.76) Passing mention only.
 
 <!-- walk: y1v7 ch7 → p.207 -->
-
 
 ## y1v7.5
 
@@ -1072,7 +1069,6 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [limit] (p.211) No presence in chapter 7 after half 1.
 
 <!-- walk: y1v8 ch7 → p.211 -->
-
 
 ### y1v8 p.237–240 — Ch.9: the corridor debrief
 [scene] (p.237) Waiting near the gymnasium entrance; follows Ayanokōji into the corridor and walks him through the whole trap until they part.
@@ -1299,6 +1295,10 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y1v11 ch10 → p.476 -->
 
+## y1v11.5
+
+<!-- walk: y1v11.5 → start -->
+
 ### y1v11.5 pp.142–143 — Ch.2: Brief meeting at Keyaki mall
 
 [scene] (p.142) Karuizawa encounters Ayanokōji at Keyaki mall after his meeting with Hiyori.
@@ -1324,7 +1324,7 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y1v11.5 ch7 → p.423 -->
 
-### y1v11.5 Ch.2 — Depth review: jealousy at the café
+### y1v11.5 p.142–143 — Depth review: jealousy at the café
 [scene] (p.142) Appears at Keyaki Mall just after Hiyori leaves and approaches Ayanokōji, clearly unhappy.
 [says] (p.142) "…What do you want?"
 [says] (p.142) "Rumours about us would circulate if anyone saw us sitting together and drinking tea."
@@ -1335,7 +1335,7 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:shiina-hiyori] (p.142) Seen immediately after the meeting; her jealousy is aimed at the perceived date.
 [note] (p.143) Ayanokōji deliberately upset her — the chapter ends on the note that he expected nothing less.
 
-### y1v11.5 Epilogue — Depth review: the confession and Kei's answer
+### y1v11.5 p.358–373 — Depth review: the confession and Kei's answer
 [scene] (p.358) Arrives at Ayanokōji's room unhappy and dressed for a 7 o'clock dinner with friends.
 [says] (p.358) "So, what is it?"
 [says] (p.359) "Sato-san is suspicious about our relationship."
@@ -1356,6 +1356,7 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:matsushita-chiaki] (p.359) Reports that Matsushita doubts their relationship.
 [rel:satou-maya] (p.359) Reports that Satō probed whether she broke up with Hirata to date Ayanokōji.
 [rel:shiina-hiyori] (p.362–366) Jealous of her close relationship with Ayanokōji over books.
+
 ## y1v11.75
 
 <!-- walk: y1v11.75 → start -->
@@ -1372,7 +1373,7 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y1v11.75 Section → p.18 -->
 
-### y1v11.75 SS — Depth review: the first call as a couple
+### y1v11.75 p.4–13 — Depth review: the first call as a couple
 [scene] (p.4) Calls Ayanokōji at 10 PM on the last night of break — their first contact since the confession.
 [says] (p.5) "Yikes, that's blunt."
 [says] (p.5) "Eeeeh!?"
@@ -1409,7 +1410,6 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:amasawa-ichika] (p.250–254) Meets her.
 [rel:satou-maya] (p.270–279) Confesses to her.
 
-
 <!-- walk: y2v1 ch5 → p.285 -->
 
 ### y2v1 pp.362–363 — Short Story: A Time for Them Alone
@@ -1417,7 +1417,6 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [scene] (p.362) Reflects on Ayanokōji’s 400-point boast.
 [scene] (p.363) Studies with him side by side.
 [rel:ayanokouji-kiyotaka] (p.362–363) Studies with him.
-
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
@@ -1473,7 +1472,6 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
-
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
 ## y3v1
@@ -1481,7 +1479,6 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 <!-- walk: y3v1 → start -->
 
 <!-- walk: y3v1 Epilogue → p.287 -->
-
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
@@ -1650,8 +1647,6 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v2 Ch.1 → p.37 -->
 
-
-
 ### y2v2 p.15–18 — Karuizawa's "math genius" theory and the argument
 [says] (p.16) "Maybe Ayanokouji-kun is just a math genius!"
 [says] (p.16) "sometimes in those TV dramas and stuff, isn't there, like, a protagonist that only uses math or something to solve the murder case?"
@@ -1691,8 +1686,6 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v3 Ch.2 → p.49 -->
 
-
-
 ### y2v3 p.11–14 — A secret moment with Kiyotaka on the ship
 [scene] (p.11) Waves Ayanokōji over on theaft deck of the "Saint Venus," making sure nobody's around; they stand together looking at the sparkling sea.
 [says] (p.11) "Such an amazing view, huh…?"
@@ -1714,13 +1707,9 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v4 Ch.5 → p.200 -->
 
-
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
-
-
 
 ### y2v4.5 p.277–278 — Short story: "A Dream I Have Seen Before" — the last secret date
 [scene] (p.277) From her own POV, on the last day of summer vacation, reflects on how happy she is — she can see Kiyotaka face to face every day, and they're going public tomorrow.
@@ -1740,14 +1729,9 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [note] (p.7) Passing mentions on pages: p.10-13, p.19, p.46, p.48-50, p.53-56.
 [mentioned] (p.7) Passing mention only.
 
-
-
-
 ## y2v6
 
 <!-- walk: y2v6 → start -->
-
-
 
 ### y2v6 p.65–80 — Kei visits Ayanokōji's room; omurice and affection
 [scene] (p.67) Arrives at his room grinning, adopts it as her own ("Welcome, make yourself home~" when Hirata later arrives); eats the omurice he cooks with obvious pleasure.
@@ -1779,14 +1763,9 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [note] (p.7) Passing mentions on pages: p.11, p.16, p.22, p.25-27, p.51-52.
 [mentioned] (p.7) Passing mention only.
 
-
-
-
 ## y2v8
 
 <!-- walk: y2v8 → start -->
-
-
 
 ### y2v8 p.11–45 — Kei: studying, eavesdropping, the bet
 [says] (p.11) "I think I should spend more time studying with you, just like Sudō-kun."
@@ -1885,8 +1864,6 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v9.5 Epilogue → p.185 -->
 
-
-
 ## y2v9.75
 
 <!-- walk: y2v9.75 → start -->
@@ -1895,9 +1872,6 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [scene] (p.1) Named in this volume.
 [note] (p.1) Passing mentions on pages: p.4.
 [mentioned] (p.1) Passing mention only.
-
-
-
 
 <!-- walk: y2v9.75 Epilogue → p.17 -->
 
@@ -1910,9 +1884,6 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [note] (p.9) Passing mention (locator pages: p.9-11, p.14, p.16-17, p.29, p.51-53, p.55-60; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
-
-
-
 ## y2v10.25
 
 <!-- walk: y2v10.25 → start -->
@@ -1922,9 +1893,6 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [note] (p.1) Passing mentions on pages: p.3.
 [mentioned] (p.1) Passing mention only.
 
-
-
-
 ## y2v11
 
 <!-- walk: y2v11 → start -->
@@ -1933,9 +1901,5 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mention (locator pages: p.19, p.21, p.26, p.30, p.34-35, p.37-38; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
-
-
-
-
 
 <!-- walk: y2v12 Epilogue → p.228 -->

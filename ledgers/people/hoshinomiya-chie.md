@@ -55,7 +55,6 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 
 ## y1v3
 
-
 ### y1v3 p.36–38 — Ch.2 sec. 2.1: the corridor ambush
 [scene] (p.36) Beach-side, during Class D's rules huddle; she tackles Chabashira from behind.
 [says] (p.36) “What, I can’t be friendly? I honestly wanted to see what you’d do.” / “Whenever I touch your hair, Sae-chan, it’s always so smooth!”
@@ -248,17 +247,6 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 
 <!-- walk: y1v11 ch10 → p.476 -->
 
-### y1v11.5 pp.47–87 — Ch.1: Chess exam meeting
-
-[scene] (p.47) Participates in the meeting with Ayanokōji, Sakayanagi, Tsukishiro, and other teachers concerning the chess exam.
-[scene] (p.54) Hears Sakayanagi claim that Ayanokōji was the original winner of the chess game and that the process was manipulated.
-[scene] (p.63) Takes part in the teachers’ response as the issue of Acting Director Tsukishiro’s interference is pressed.
-[rel:tsukishiro] (p.47–87) Confronts the acting director over exam interference.
-[rel:sakayanagi-arisu] (p.47–87) Hears her accusation regarding the chess exam.
-[rel:ayanokouji-kiyotaka] (p.47–87) Present in the meeting involving his exam.
-
-<!-- walk: y1v11.5 ch1 → p.120 -->
-
 ### y1v11 pp.332, 334–335, 338 — Ch.7: Proctoring the exam
 
 [scene] (p.332) Tells the commanders to take a seat.
@@ -278,6 +266,21 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 [scene] (p.431) Says the students are lucky to go home.
 [says] (p.431) “The students are so lucky, aren’t they? Getting to go back home and all.”
 [rel:sakagami] (p.431) Cleans up with him.
+
+## y1v11.5
+
+<!-- walk: y1v11.5 → start -->
+
+### y1v11.5 pp.47–87 — Ch.1: Chess exam meeting
+
+[scene] (p.47) Participates in the meeting with Ayanokōji, Sakayanagi, Tsukishiro, and other teachers concerning the chess exam.
+[scene] (p.54) Hears Sakayanagi claim that Ayanokōji was the original winner of the chess game and that the process was manipulated.
+[scene] (p.63) Takes part in the teachers’ response as the issue of Acting Director Tsukishiro’s interference is pressed.
+[rel:tsukishiro] (p.47–87) Confronts the acting director over exam interference.
+[rel:sakayanagi-arisu] (p.47–87) Hears her accusation regarding the chess exam.
+[rel:ayanokouji-kiyotaka] (p.47–87) Present in the meeting involving his exam.
+
+<!-- walk: y1v11.5 ch1 → p.120 -->
 
 ## y2v1
 
@@ -309,7 +312,6 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
-
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
 ## y3v1
@@ -317,7 +319,6 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 <!-- walk: y3v1 → start -->
 
 <!-- walk: y3v1 Epilogue → p.287 -->
-
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
@@ -370,8 +371,6 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 
 <!-- walk: y2v3 Ch.2 → p.67 -->
 
-
-
 ### y2v3 p.65–67 — Hoshinomiya at the Task site; her transfer proposal
 [scene] (p.65) Keeps Ayanokōji at the Grip Strength Measurement Task site as an excuse to talk, openly dissatisfied that her Class 2-C fell to Class C.
 [says] (p.65) "Sudō-kun has changed an awful lot, don'tcha think? I wonder who's responsible."
@@ -386,8 +385,6 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
-
-
 
 ### y2v4.5 p.225–236 — Hoshinomiya drinks: the exam that ruined Class A
 [scene] (p.225) Slumped face-down on the bar at 1 a.m., demanding a strong drink ("master's choice") — exhausted from the island exam and bitter that teachers get no summer vacation.
@@ -413,9 +410,6 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 [note] (p.7) Passing mentions on pages: p.7, p.9, p.34, p.36, p.78-80.
 [mentioned] (p.7) Passing mention only.
 
-
-
-
 ## y2v6
 
 <!-- walk: y2v6 → start -->
@@ -424,9 +418,6 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.25, p.42, p.134, p.140, p.181.
 [mentioned] (p.11) Passing mention only.
-
-
-
 
 ## y2v7
 
@@ -437,9 +428,6 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 [note] (p.7) Passing mentions on pages: p.11-12, p.39-40, p.43, p.49, p.109.
 [mentioned] (p.7) Passing mention only.
 
-
-
-
 ## y2v8
 
 <!-- walk: y2v8 → start -->
@@ -449,14 +437,9 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 [note] (p.11) Passing mentions on pages: p.46, p.49, p.148, p.155-158, p.202-203.
 [mentioned] (p.11) Passing mention only.
 
-
-
-
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
-
-
 
 ## y2v10
 
@@ -466,9 +449,5 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 [scene] (p.9) Named in this volume.
 [note] (p.9) Passing mention (locator pages: p.50, p.97, p.119, p.128, p.144-147, p.163-164; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
-
-
-
-
 
 <!-- walk: y2v12 Epilogue → p.228 -->

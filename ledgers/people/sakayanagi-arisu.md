@@ -155,7 +155,6 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:katsuragi-kouhei] (p.80) Katsuragi’s Class D nomination is framed as the safer Class A play; his influence declining.
 [note] (p.80) No dialogue or action from Sakayanagi on these pages.
 
-
 <!-- walk: y1v6 ch5 → p.131 -->
 
 [scene] (p.80) Named as the likely chooser of Class A’s nomination for the short-quiz attack.
@@ -247,7 +246,6 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:ayanokouji-kiyotaka] (p.195) The man who wants her kept busy by a live Ryuuen.
 [rel:horikita-manabu] (p.195) The alternate rooftop witness still unused.
 
-
 <!-- walk: y1v7 ch6 → p.196 -->
 
 ### y1v7 p.204, 206 — Ch.7: the contract side and the postscript teaser
@@ -268,7 +266,6 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [mentioned] (p.83) Passing mention only.
 
 <!-- walk: y1v7 ch7 → p.207 -->
-
 
 ## y1v7.5
 
@@ -739,36 +736,6 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y1v11 ch10 → p.476 -->
 
-### y1v11.5 pp.45–87 — Ch.1: Chess exam confrontation
-
-[scene] (p.45) Sakayanagi meets Ayanokōji while he is waiting and accompanies him.
-[scene] (p.47) She attends a meeting with Ayanokōji, Tsukishiro, Mashima, Chabashira, Sakagami, and Hoshinomiya about the chess exam.
-[scene] (p.54) Sakayanagi states that Ayanokōji was the original winner of the chess game and challenges the official process.
-[says] (p.54) “I was originally the loser of that chess game, Ayanokouji-kun came out victorious.”
-[scene] (p.55) She argues that the issue lies in the process of the match rather than the recorded result.
-[scene] (p.67) Sakayanagi presses the teachers to recognize that Acting Director Tsukishiro manipulated the exam.
-[rel:ayanokouji-kiyotaka] (p.45–87) Meets him and supports exposing the chess exam interference.
-[rel:tsukishiro] (p.47–87) Confronts him over manipulating the chess exam.
-[rel:mashima-tomonari] (p.47–87) Participates in the meeting with him.
-[rel:chabashira-sae] (p.47–87) Participates in the meeting with her.
-[rel:sakagami-kazuma] (p.47–87) Participates in the meeting with him.
-[rel:hoshinomiya-chie] (p.47–87) Participates in the meeting with her.
-
-<!-- walk: y1v11.5 ch1 → p.120 -->
-
-### y1v11.5 pp.378–380, 381–386 — Short stories: After exams and Keyaki mall
-
-[scene] (p.378) In her short story perspective, Sakayanagi waits for Mashima after the end-of-term ceremonies and asks to accompany him.
-[scene] (p.379) She tells Mashima she knows about the planned meeting involving Ayanokōji and Chairman Sakayanagi’s message.
-[scene] (p.380) Sakayanagi accompanies Mashima toward the reception room, anticipating developments involving Ayanokōji and Tsukishiro.
-[scene] (p.382) In Ryūen’s recollection, Sakayanagi approaches him at Keyaki mall and comments on his return and change over the past year.
-[scene] (p.384) She exchanges words with Ryūen about their rivalry before he leaves.
-[rel:mashima-tomonari] (p.378–380) Asks to accompany him to the meeting.
-[rel:ayanokouji-kiyotaka] (p.379–380) Anticipates meeting developments involving him.
-[rel:ryuuen-kakeru] (p.382–386) Speaks with him at Keyaki mall in his recollection.
-
-<!-- walk: y1v11.5 ch7 → p.423 -->
-
 ### y1v11 pp.318–345 — Ch.7: Exam day confrontation
 
 [scene] (p.322) Says Class B came ready to win.
@@ -818,7 +785,41 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:ayanokouji-kiyotaka] (p.400–447) Faces him in chess and speaks afterward.
 [rel:hashimoto-masayoshi] (p.404–414) Plays against Horikita.
 
-### y1v11.5 Ch.1 — Depth review: the secret meeting and teacher confrontation
+## y1v11.5
+
+<!-- walk: y1v11.5 → start -->
+
+### y1v11.5 pp.45–87 — Ch.1: Chess exam confrontation
+
+[scene] (p.45) Sakayanagi meets Ayanokōji while he is waiting and accompanies him.
+[scene] (p.47) She attends a meeting with Ayanokōji, Tsukishiro, Mashima, Chabashira, Sakagami, and Hoshinomiya about the chess exam.
+[scene] (p.54) Sakayanagi states that Ayanokōji was the original winner of the chess game and challenges the official process.
+[says] (p.54) “I was originally the loser of that chess game, Ayanokouji-kun came out victorious.”
+[scene] (p.55) She argues that the issue lies in the process of the match rather than the recorded result.
+[scene] (p.67) Sakayanagi presses the teachers to recognize that Acting Director Tsukishiro manipulated the exam.
+[rel:ayanokouji-kiyotaka] (p.45–87) Meets him and supports exposing the chess exam interference.
+[rel:tsukishiro] (p.47–87) Confronts him over manipulating the chess exam.
+[rel:mashima-tomonari] (p.47–87) Participates in the meeting with him.
+[rel:chabashira-sae] (p.47–87) Participates in the meeting with her.
+[rel:sakagami-kazuma] (p.47–87) Participates in the meeting with him.
+[rel:hoshinomiya-chie] (p.47–87) Participates in the meeting with her.
+
+<!-- walk: y1v11.5 ch1 → p.120 -->
+
+### y1v11.5 pp.378–380, 381–386 — Short stories: After exams and Keyaki mall
+
+[scene] (p.378) In her short story perspective, Sakayanagi waits for Mashima after the end-of-term ceremonies and asks to accompany him.
+[scene] (p.379) She tells Mashima she knows about the planned meeting involving Ayanokōji and Chairman Sakayanagi’s message.
+[scene] (p.380) Sakayanagi accompanies Mashima toward the reception room, anticipating developments involving Ayanokōji and Tsukishiro.
+[scene] (p.382) In Ryūen’s recollection, Sakayanagi approaches him at Keyaki mall and comments on his return and change over the past year.
+[scene] (p.384) She exchanges words with Ryūen about their rivalry before he leaves.
+[rel:mashima-tomonari] (p.378–380) Asks to accompany him to the meeting.
+[rel:ayanokouji-kiyotaka] (p.379–380) Anticipates meeting developments involving him.
+[rel:ryuuen-kakeru] (p.382–386) Speaks with him at Keyaki mall in his recollection.
+
+<!-- walk: y1v11.5 ch7 → p.423 -->
+
+### y1v11.5 p.60–82 — Depth review: the secret meeting and teacher confrontation
 [scene] (p.60) Attends the secret reception-room meeting arranged through Chairman Sakayanagi, alongside Mashima, Chabashira and Ayanokōji.
 [says] (p.65) "Sorry, but is it alright for me to explain?"
 [says] (p.65) "Well, if you may excuse my rudeness, I think I understand the situation a little better than you teachers."
@@ -831,6 +832,7 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:ayanokouji-kiyotaka] (p.60–82) Calls them childhood friends, pledges to stand at his side, and says she will crush Class D once Tsukishiro is gone.
 [rel:mashima-tomonari] (p.80–81) Pledges special treatment for Ayanokōji and warns Mashima not to involve himself too deeply.
 [rel:chabashira-sae] (p.73) Counters her claim to understand Ayanokōji.
+
 ## y1v11.75
 
 <!-- walk: y1v11.75 → start -->
@@ -864,7 +866,6 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [scene] (p.261) He declines; she leaves.
 [rel:ayanokouji-kiyotaka] (p.259–261) Speaks with him.
 
-
 <!-- walk: y2v1 ch5 → p.285 -->
 
 ### y2v1 pp.349, 259–261 — Epilogue: Offering help
@@ -872,7 +873,6 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [scene] (p.259) Meets Ayanokōji at Keyaki Mall.
 [scene] (p.261) Offers to help him find a partner.
 [rel:ayanokouji-kiyotaka] (p.259–261) Speaks with him.
-
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
@@ -924,7 +924,6 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
-
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
 ## y3v3
@@ -951,13 +950,9 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v2 Ch.3 → p.218 -->
 
-
-
 ## y2v3
 
 <!-- walk: y2v3 → start -->
-
-
 
 ### y2v3 p.357–359 — Short story: "An Enjoyable Moment" — with Ayanokōji at the harbor
 [scene] (p.357) From the beach where she remains "half-retired" (unable to walk freely), observes students and is approached by Ayanokōji; her cheeks soften.
@@ -975,8 +970,6 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v4 → start -->
 
-
-
 ### y2v4 p.276–278 — Sakayanagi's promise; 3rd place
 [says] (p.277) "Of course, Ryuuen-kun. Please tell me when the time comes."
 [says] (p.277) "I told him that if he asked me for a favor, I would grant it to him."
@@ -989,8 +982,6 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
-
-
 
 ### y2v4.5 p.78–85 — Sakayanagi: lunch with Ayanokōji; Ichinose's apology
 [says] (p.78) "It was a coincidence. Or so I would like to say, but I've been chasing after you, Ayanokōji-kun."
@@ -1020,8 +1011,6 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v5 → start -->
 
-
-
 ### y2v5 p.168–170 — Sakayanagi's class: the queen bluffs
 [scene] (p.168) Class A reaches Q5; like Horikita, Sakayanagi arranged two controlled "for" votes to keep round one non-unanimous and gauge the class.
 [says] (p.169) "100 class points is surprisingly not ridiculous."
@@ -1033,8 +1022,6 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 ## y2v6
 
 <!-- walk: y2v6 → start -->
-
-
 
 ### y2v6 p.219–222 — Sakayanagi decides to participate
 [says] (p.219) "The situation changes from moment to moment. And today, there has been another new development."
@@ -1077,9 +1064,6 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [scene] (p.7) Named in this volume.
 [note] (p.7) Passing mentions on pages: p.9, p.17-19, p.29, p.42, p.73.
 [mentioned] (p.7) Passing mention only.
-
-
-
 
 ## y2v8
 
@@ -1132,6 +1116,10 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v9 Epilogue → p.202 -->
 
+## y2v9.5
+
+<!-- walk: y2v9.5 → start -->
+
 ### y2v9.5 p.211–216 — Sakayanagi's new-year resolve (POV)
 [scene] (p.211–216) In her own viewpoint she follows reports of Ayanokōji leaving the dorms with Hiyori, notes Karuizawa and Kamuro also tailing him, and reflects that she never expected to feel something for anyone — she recognises his ability and resolves to defeat him to prove her own talent.
 [note] (p.211–216) This is Sakayanagi's interior monologue (her POV); no line is quoted as spoken.
@@ -1139,14 +1127,6 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:ayanokouji-kiyotaka] (p.211–216) She has him followed and resolves to defeat him.
 
 <!-- walk: y2v9.5 Postscript → p.216 -->
-
-
-
-## y2v9.5
-
-<!-- walk: y2v9.5 → start -->
-
-
 
 ## y2v10
 
@@ -1157,9 +1137,6 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.9) Passing mention (locator pages: p.8, p.40-41, p.57-58, p.86, p.96, p.101; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
-
-
-
 ## y2v11
 
 <!-- walk: y2v11 → start -->
@@ -1168,9 +1145,5 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mention (locator pages: p.10-11, p.19, p.21-25, p.29-30, p.40, p.86-91; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
-
-
-
-
 
 <!-- walk: y2v12 Epilogue → p.228 -->
