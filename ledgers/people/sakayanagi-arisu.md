@@ -983,6 +983,30 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v4.5 Epilogue → p.290 -->
 
+### y2v4.5 p.78–85 — Sakayanagi: lunch with Ayanokōji; Ichinose's apology
+[says] (p.78) "It was a coincidence. Or so I would like to say, but I've been chasing after you, Ayanokōji-kun."
+[says] (p.79) "Have you heard of 'Beneath the Wheel'?"
+[says] (p.79) "I don't think he was a genius. Because a true genius would never fail."
+[says] (p.79) "Do you remember?" — recalling her earlier words about human warmth
+[says] (p.80) "Fufu, that's true isn't it. However, this is my trademark."
+[says] (p.80) "Just now, I suddenly remembered something a little nostalgic."
+[says] (p.81) "I just wanted to talk to you, Ayanokōji-kun."
+[says] (p.82) "Please raise your head, Ichinose-san. I'm not angry about anything."
+[says] (p.83) "You have a look on your face that says you feel you need to take responsibility somehow."
+[says] (p.83) "This is nothing but a punishment." — 30 minutes of tea
+[says] (p.84) "You're a hard person to describe. That's why you seem so scary to me at times."
+[trait] (p.78–85) Deductively follows Ayanokōji to his quiet spot, chases him purely to talk (considerate of his image); philosophizes about true genius and Hesse, catches her hat; recounts forgiving Ichinose ("punishing" her with tea) and observes that even the "good" Ichinose frightens people — Sakayanagi sees herself as different from both.
+[rel:ayanokouji-kiyotaka] (p.78–81) Follows and talks with him; shares a quiet, thoughtful moment.
+[rel:ichinose-honami] (p.81–85) Forgave her apology; finds her honest, "scary," and hard to describe.
+
+### y2v4.5 p.287–288 — Short story: "Sakayanagi's Unexpected Assessment" — watching Nanase
+[scene] (p.287) From her own POV, watches Ayanokōji re-enter the ship and then observes Nanase, after she passes by; concludes Nanase is not a White Room student and can be removed from her list.
+[narrates] (p.287) "Maybe that is why boys would want to keep her close by, rather than due to her abilities."
+[narrates] (p.288) "You'd better treasure those talents of yours."
+[narrates] (p.288) "Well, let's chase after Ayanokouji-kun now then."
+[trait] (p.287–288) Perceptive and a little uncharacteristically wistful — judges Ayanokōji incapable of "trust" (he merely keeps Nanase close as a useful piece for first-year intel), admires Nanase's toned body and good upbringing ("blessed with a body from birth"), and finds her own thoughts drifting "in a strange direction"; sets off after him, confident she'll find him ("I had my own kind of weapons").
+[rel:ayanokouji-kiyotaka] (p.287–288) Believes he feels no real trust, only utility; wants him as her opponent.
+[rel:nanase-tsubasa] (p.287–288) Observes her closely and rules her out as a White Room student.
 ## y2v5
 
 <!-- walk: y2v5 → start -->

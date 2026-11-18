@@ -4196,6 +4196,43 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v4.5 Epilogue → p.290 -->
 
+### y2v4.5 p.194–202 — The Kushida lunch: "drop out of school"
+[scene] (p.194) Administering treasure-hunt rewards on the student council with Yagami; takes a break and has lunch with Kushida, who proposed it.
+[says] (p.196) "Is it weird that I'm asking you out?"
+[says] (p.197) "You're trying to hide your past from middle school."
+[says] (p.197) "if I were to put it a little harshly, a people pleaser, or in nicer terms, someone who treats everyone equally."
+[says] (p.198) "What's your guarantee? Can you be 100% sure?"
+[says] (p.200) "let's start with this; Horikita-san, could you drop out of school?"
+[says] (p.201) "I'm trying to graduate with all of my classmates, including you, Kushida-san."
+[says] (p.202) "I'm looking forward to the second semester. I'm sure we'll have a fun time together."
+[trait] (p.194–202) Calmly confronts Kushida about her closeness to Yagami ("more than friends, less than lovers"), calls her a "people pleaser"; listens as Kushida reveals her reasoning — she wants Horikita gone first (same middle school = biggest leak risk), notes Ayanokōji is funding Horikita's "defence plan" and would silence him by proving she can expel Horikita; refuses to be enemies or drop out, and remains committed to graduating with all classmates including Kushida.
+[rel:kushida-kikyou] (p.196–202) Her classmate/rival — Kushida demands she drop out; Horikita tries to ease her burden, calling her "overthinking" and offering cooperation.
+[rel:ayanokouji-kiyotaka] (p.200) Kushida reveals he's been funding Horikita's anti-expulsion defence.
+[rel:yagami-takuya] (p.194–197) Reliable council colleague; his closeness with Kushida is "more than friends, less than lovers."
+
+### y2v4.5 p.236–242 — Horikita's handwriting hunt; the Ishigami encounter
+[scene] (p.236) From her own POV, uses the remaining holiday to hunt the first-year who left the note recommending Ayanokōji's expulsion — borrows the private-pool reservation clipboard at reception to study names and handwriting (the paper version is needed, not a tablet).
+[narrates] (p.237) "I'm borrowing this."
+[narrates] (p.239) "Um, are you going to take much longer?"
+[narrates] (p.240) "…Got it."
+[narrates] (p.240) "May I see the list again, please?"
+[narrates] (p.241) "So you know my name. I don't remember talking to you before though."
+[trait] (p.236–242) Methodical and obsessive — she'd already checked all treasure-hunt participants (66% of first-years) with no handwriting match; now checks pool reservations, eliminates candidates by handwriting, and catches first-year Class A Ishigami Kyo (A95/D-25/B+77/D31/B-61) whose refined penmanship is the closest yet; questions him and covers when he points out she knew his ability before looking it up (claims the OAA was already open in the background).
+[rel:ishigami-kyo-1a] (p.239–242) Suspects him first (closest handwriting); he knows her name, calls her "Horikita-senpai," and parts with "I'll see you again" — unsettling her.
+[rel:amasawa-ichika] (p.240) She tore up and threw away the original note, so Horikita can't crosscheck the paper.
+[rel:hoshinomiya-chie] (p.243–244) Her teacher appears drunk and vomits over the railing (hangover + seasickness); Horikita notes the "hygiene and moral" problems.
+
+### y2v4.5 p.244–249 — Kanzaki and Ibuki on Ishigami
+[narrates] (p.244) "Horikita, what's your connection to Ishigami?" — Kanzaki
+[narrates] (p.245) "By the way, do you see him as a trustworthy underclassman?"
+[narrates] (p.246) "I want to know Ayanokōji's true ability."
+[narrates] (p.247) "The student known as Ishigami is excellent, compassionate and can get things done."
+[narrates] (p.247) "a combination of the best parts of Ichinose and Sakayanagi."
+[narrates] (p.248) "Don't get involved with Ishigami any further."
+[trait] (p.244–249) Trades information with Kanzaki about Ayanokōji's ability in exchange for intel on Ishigami — learns he's the recognized leader of Class 1-A, loyal only to allies and "indifferent" to those who are neither friend nor foe; Kanzaki warns her off, and Ibuki rules him out as the culprit after observing his untoned D- physique at the pool (the culprit would have White Room-level strength).
+[rel:kanzaki-ryuuji] (p.244–249) Will only trade Ishigami info for the truth about Ayanokōji's ability; warns her not to get involved.
+[rel:ibuki-mio] (p.249–251) She deduces Ishigami is innocent — his body isn't trained; the culprit must be physically strong like Amasawa/Ayanokōji.
+[rel:ishigami-kyo-1a] (p.247–248) "A combination of the best parts of Ichinose and Sakayanagi" — Kanzaki's assessment.
 ## y2v5
 
 <!-- walk: y2v5 → start -->

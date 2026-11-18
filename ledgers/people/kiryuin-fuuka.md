@@ -69,6 +69,32 @@ char_id: kiryuin-fuuka · class: unknown · status: unknown
 
 <!-- walk: y2v4.5 Epilogue → p.290 -->
 
+### y2v4.5 p.38–45 — Kiryūin at the pool: teasing Ayanokōji and Kiriyama
+[says] (p.38) "Looks like you might be in trouble, Ayanokōji."
+[says] (p.41) "It looks like quite the frightening strategy to me."
+[says] (p.41) "As expected of the Student Council President. He's played a bizarre, yet effective card against this flawless person in front of me."
+[says] (p.41) "We're comrades that have been through the line of fire together, so I know that your abilities are limitless, right?"
+[says] (p.42) "To Nagumo, you should've been nothing more than a toy."
+[says] (p.42) "I can tell that he's the type of person you're no good at dealing with. Am I right?"
+[says] (p.43) "I'm sorry, but I can't help you with this one."
+[says] (p.43) "If there were a retention system at this school, I might've considered it."
+[says] (p.44) "Ayanokōji and I are in a romantic relationship."
+[says] (p.44) "Fufu, it's a joke Kiriyama."
+[trait] (p.38–45) Relaxed on a deck chair in sunglasses, she reads the third-years' surveillance and Nagumo's strategy clearly, praises Ayanokōji's "limitless" ability (they're "comrades" from I2), declines to help (wants a quiet life, almost wishes she could repeat a year), and deliberately needles the deadpan Kiriyama — even joking that she and Ayanokōji are "in a romantic relationship."
+[rel:ayanokouji-kiyotaka] (p.38–44) Teases and accurately reads him; they're "comrades" from the I2 incident.
+[rel:kiriyama] (p.43–45) Needles the irritable vice president; he tries to escape her.
+[rel:nagumo-miyabi] (p.41–43) Understands his strategy and character well.
+
+### y2v4.5 p.289–290 — Short story: "When You are the Older One" — the stares at the pool
+[scene] (p.289) From her own POV, relaxing by the pool in sunglasses, notices the third-years all look at Ayanokōji in unison; curious, she calls out to him (her "OFF-mode" switch flips ON).
+[narrates] (p.289) "Spending a holiday like this just relaxing ain't bad from time to time."
+[narrates] (p.289) "I see… so that's what's going on."
+[narrates] (p.289) "Looks like you're in for some trouble, Ayanokouji."
+[narrates] (p.290) "I'm talking about the 3rd year students. There's no way you haven't noticed them, am I right?"
+[narrates] (p.290) "So you did notice after all."
+[trait] (p.289–290) Relaxed but sharp — reads Nagumo's surveillance of Ayanokōji at once, notes he's only pretending not to notice, and is fascinated by him (Ayanokōji is seriously an interesting man); wishes, wistfully, that they were the same age so she could observe him for another year — a feeling forming "within me."
+[rel:ayanokouji-kiyotaka] (p.289–290) Finds him interesting; teases him about the stares and senses Nagumo is taking him seriously.
+[rel:nagumo-miyabi] (p.290) Her fellow third-year; his involvement means "trouble is brewing."
 ## y2v6
 
 <!-- walk: y2v6 → start -->

@@ -334,6 +334,16 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 
 <!-- walk: y2v4.5 Epilogue → p.290 -->
 
+### y2v4.5 p.227–233 — Mashima reveals the next special exam
+[scene] (p.227) Sandwiched between the two women, sets down his half-empty beer forcefully and warns that the second-years' success "can invite trouble" — not one second-year has ever dropped out.
+[says] (p.227) "It's not like the school wants anyone to drop out, but still, in reality, not even one of our second-year students has dropped out of school during any special exams so far."
+[says] (p.228) "The outline for the next special exam was announced recently. It will be implemented for the first time in 11 years."
+[says] (p.229) "It's to make sure the contents of the special exams don't get leaked to other students while they're at school, right?"
+[says] (p.231) "you two suffered a great deal with this particular exam."
+[says] (p.232) "Even though Class A is a head above of the rest, there's still a chance for those in Class B and below to turn things around."
+[trait] (p.227–236) Sober and informative — explains the four-year exam rotation and that the "problematic" exam from 11 years ago (their third year) has been reinstated because too few second-years have dropped out; tries to defuse the tension between Chabashira and Hoshinomiya before leaving with the drunk Hoshinomiya.
+[rel:chabashira-sae] (p.227–232) Fellow teacher; informs her of the exam and watches her go silent.
+[rel:hoshinomiya-chie] (p.232–236) Drinks with her and ultimately escorts her home.
 ## y2v7
 
 <!-- walk: y2v7 → start -->

@@ -47,3 +47,21 @@ char_id: kiriyama · class: student council · status: vice president (y2v2)
 [rel:kouenji-rokusuke] (p.104–115) Recognizes him as one of only two who can stop Kōenji; his siege fails but he understands Kōenji's design.
 [rel:nagumo-miyabi] (p.95–115) Acts on his orders; Nagumo was disappointed by the failure.
 [rel:mikitani] (p.106–115) Leads the Free Groups; Kiriyama restrains his impatient, reckless charges.
+
+## y2v4.5
+
+<!-- walk: y2v4.5 → start -->
+
+### y2v4.5 p.43–53 — Kiriyama admits he took Nagumo's Class A ticket
+[says] (p.45) "I won't beat around the bush. What did you do to Nagumo on the last day of the uninhabited island exam?"
+[says] (p.45) "Quit messing around. It's obvious you had something to do with the results of the exam."
+[says] (p.45) "That's a broad interpretation."
+[says] (p.47) "It's true that I wanted to take down Nagumo. If we couldn't beat him, it would be impossible for our class to rise back up to Class A."
+[says] (p.47) "We third-years shifted to an individual competition early on."
+[says] (p.48) "Nagumo handed me a ticket to graduate from Class A, so I decided to follow the rules that he made up."
+[says] (p.48) "graduating from Class A is most important."
+[trait] (p.43–53) Once aiming to take down Nagumo, he's now one of his allies — having accepted a Class A graduation ticket; grips the railing in regret/resignation as he admits his spirit faded and he was the wave of competition of individual competition; still proud and unable to fully admit he was wrong; constantly irritated by Kiryūin's interruptions.
+[rel:ayanokouji-kiyotaka] (p.45–53) Summons him to demand what he did to Nagumo; they spar over whether he's "given up" or switched sides.
+[rel:nagumo-miyabi] (p.47–48) Now his ally — took his Class A ticket and follows his rules.
+[rel:kiryuin-fuuka] (p.43–45) Old rival who needles him at the pool; he tries to escape her.
+[rel:horikita-manabu] (p.47) His name hardens Kiriyama's face — Ayanokōji invokes the old entrustment.

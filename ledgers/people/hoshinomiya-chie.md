@@ -382,6 +382,21 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 
 <!-- walk: y2v4.5 Epilogue → p.290 -->
 
+### y2v4.5 p.225–236 — Hoshinomiya drinks: the exam that ruined Class A
+[scene] (p.225) Slumped face-down on the bar at 1 a.m., demanding a strong drink ("master's choice") — exhausted from the island exam and bitter that teachers get no summer vacation.
+[says] (p.225) "Ahh, I'm so tired. Why do we teachers have to work so late, day in and"
+[says] (p.226) "Please give me a drink strong enough for me to escape from reality. Master's choice."
+[says] (p.228) "Oh my? You've started talking big all of a sudden, Sae-chan."
+[says] (p.233) "How long are you going to chase after your boring love?!"
+[says] (p.233) "Do you know how old we are now? We're 29 you know? I'm saying that romance was years ago!"
+[says] (p.234) "I definitely wasn't at fault…It was all Sae-chan's fault…"
+[says] (p.235) "I absolutely won't let Sae-chan's class graduate from Class A."
+[says] (p.235) "you need to become a demon to win Class A. Just like I tried to do."
+[says] (p.235) "Hirata, Kushida, Horikita, Kōenji, Ayanokōji…No matter how much I think about it, it's too unfair."
+[trait] (p.225–236) Childlike and resentful — drinks herself increasingly drunk (fourth, fifth glass), blames Chabashira for failing to graduate Class A 11 years ago ("if Sae-chan had chosen the right answer, we would've graduated from Class A"), refuses to let Chabashira's class graduate Class A out of spite, and hopes the next exam smashes their "solidarity"; later hangs on Mashima and makes him take her home.
+[rel:chabashira-sae] (p.225–235) Her old classmate and rival — holds a grudge over the special exam that cost them Class A 11 years ago.
+[rel:mashima-tomonari] (p.236) Tries to get her to sleep in her own room; she clings to him.
+[rel:ichinose-honami] (p.235) Believes her class is "not good enough" to win Class A.
 ## y2v5
 
 <!-- walk: y2v5 → start -->

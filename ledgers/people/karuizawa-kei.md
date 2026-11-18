@@ -1667,6 +1667,15 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v4.5 Epilogue → p.290 -->
 
+### y2v4.5 p.277–278 — Short story: "A Dream I Have Seen Before" — the last secret date
+[scene] (p.277) From her own POV, on the last day of summer vacation, reflects on how happy she is — she can see Kiyotaka face to face every day, and they're going public tomorrow.
+[narrates] (p.277) "Oww, so today is the last day of summer vacation"
+[narrates] (p.277) "I really—- realise how happy I am right now."
+[narrates] (p.277) "So I can tell the others about our relationship tomorrow was it?… I think I'm getting nervous now."
+[narrates] (p.278) "I'm definitely going to tell them! If something happens, you will protect me so I'm going to be fine! Right?"
+[narrates] (p.278) "I had an awesome boyfriend I wanted to brag about…"
+[trait] (p.277–278) Happy and relieved — happy he's "an awesome boyfriend" she wants to brag about, nervous about revealing the relationship but certain of his protection; treasures his sturdy, comfortable hand; counts the coming kiss as their second (or third, counting a dream she'd seen before).
+[rel:ayanokouji-kiyotaka] (p.277–278) Her boyfriend — plans to tell her closest friends first, then let it spread "like wildfire."
 ## y2v5
 
 <!-- walk: y2v5 → start -->

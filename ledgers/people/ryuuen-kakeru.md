@@ -2126,6 +2126,15 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v4.5 Epilogue → p.290 -->
 
+### y2v4.5 p.182–191 — Ryūen investigates Komiya's attacker
+[says] (p.183) "Nanase Tsubasa, right?"
+[says] (p.190) "You've started to see things, eh."
+[says] (p.190) "It's obvious ain't it? I'm gonna hunt down this Utomiya brat and get him to talk."
+[says] (p.191) "But if you're lyin', you better be prepared to pay the price, yeah?"
+[trait] (p.182–191) Secretly earned 280,000 points for the exam (most of Class 2-B kept in the dark); wants to hunt down Utomiya (A physical ability — capable of pushing Komiya unnoticed), but Nanase brokers a deal to delay in exchange for a witness in the case; suspicious she's hiding something but accepts.
+[rel:nanase-tsubasa] (p.182–191) Uses her to interrogate Kurachi; agrees to her deal for information.
+[rel:utomiya-riku] (p.190) The suspected attacker — Ryūen wants to confront him directly.
+[rel:komiya] (p.182) Investigating who injured him — a mistake could half destroy the class
 ## y2v5
 
 <!-- walk: y2v5 → start -->

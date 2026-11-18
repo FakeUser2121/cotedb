@@ -1733,6 +1733,20 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v4.5 Epilogue → p.290 -->
 
+### y2v4.5 p.38, 54–58 — Ichinose at the pool; the party she declined
+[scene] (p.38) At the pool with her classmates, is the first to notice Ayanokōji; her shoulders jerk and she hides behind her classmates, awkward after her confession.
+[trait] (p.38, 56) Avoids him at the pool (their eyes meeting is too awkward), and reportedly declined the girls' party invitation — likely to avoid him; Ayanokōji notes their appointment in two days for his reply to her confession.
+[rel:ayanokouji-kiyotaka] (p.38) Hides from him; awaits his answer to her confession.
+[rel:kobashi-yume] (p.56) Her classmate; declined the party Kobashi invited Ayanokōji to.
+
+### y2v4.5 p.81–85 — Ichinose's apology to Sakayanagi (recounted)
+[scene] (p.81) In Sakayanagi's account, comes to her after lunch the previous day to apologize for acting selfishly on the exam's last day.
+[says:sakayanagi-arisu] (p.82) "It's about the special exam…I just felt like I had to apologise. On the last day, I did something really selfish…so, I'm really very sorry!"
+[says:sakayanagi-arisu] (p.83) "Yes. I think that would make me feel better." — accepting the "punishment"
+[says] (p.83) "I wonder if that's true…but if you say so, Sakayanagi-san, I'll agree to it."
+[trait] (p.81–85) Deeply remorseful over her last-day departure (leaving the group for Ayanokōji), bows deeply to Sakayanagi, and accepts her "punishment" of afternoon tea without complaint; Sakayanagi notes her total lack of resentment despite past humiliation, and that her honest "goodness" can unsettle people.
+[rel:sakayanagi-arisu] (p.82–83) Apologizes to her; accepts her unusual "punishment."
+[rel:ayanokouji-kiyotaka] (p.81) Her selfish last-day act was to leave her group to warn him.
 ## y2v5
 
 <!-- walk: y2v5 → start -->

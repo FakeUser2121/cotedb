@@ -704,6 +704,24 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y2v4.5 Epilogue → p.290 -->
 
+### y2v4.5 p.16–26 — Ishizaki befriends Ayanokōji
+[says] (p.18) "Ayanokōji, let's go check out the test results together!"
+[says] (p.20) "I went to see 'World Domination 16' the day it came out."
+[says] (p.20) "I'm curious where Ryūen-san's group ended up placin'."
+[says] (p.21) "You're easy to talk to, Ayanokōji."
+[says] (p.21) "You're way easier to talk to than that weirdo Kaneda."
+[says] (p.21) "when we went to Albert's room before, he had a collection of flags. I dunno, maybe I've been inspired by him, but I've been collectin' them too."
+[says] (p.21) "now he's my best friend." — on Albert
+[says] (p.22) "It's not like I'm the most popular kid in class."
+[says] (p.22) "I'm also part of the cause." — his role in the class split
+[says] (p.22) "Class problems are solved with classmates together. Ryūen-san returned with that determination."
+[says] (p.24) "I'm not invitin' you out like this just to get you to join our class. It's 'cause I like you as a friend, okay?"
+[says] (p.24) "You don't want to eat with me? You're a rude guy."
+[trait] (p.16–26) Energetic, genuine and socially awkward — recovered quickly from the exam, collects flags (inspired by Albert), and insists on dragging Ayanokōji along simply because he likes him as a friend; openly reflects on his complicated position (hailed for defeating Ryūen yet now back under him), with a laugh that's oddly fragile and almost dangerous.
+[rel:ayanokouji-kiyotaka] (p.18–26) He genuinely befriends him — finds him easier to talk to than Kaneda.
+[rel:yamada-albert] (p.21) His best friend; inspired his flag-collecting hobby.
+[rel:ryuuen-kakeru] (p.21–22) His class leader; he's returned to following him with determination.
+[rel:nanase-tsubasa] (p.25) Teases Ayanokōji about "dating" her — thinks she's cute.
 ## y2v5
 
 <!-- walk: y2v5 → start -->

@@ -828,6 +828,19 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v4.5 Epilogue → p.290 -->
 
+### y2v4.5 p.119–127 — Katsuragi confronts Tokitō; his doubts about Ryūen's class
+[says] (p.119) "There's no way to answer. I keep asking you to clarify what you mean by 'following'."
+[says] (p.119) "Obviously it was for the class to win. What else is there to say."
+[says] (p.121) "The current class has already set its course with Ryūen as its leader."
+[says] (p.121) "do you really think I'll be recognized as the leader after having just changed classes?"
+[says] (p.124) "I'm not impressed, Shiina."
+[says] (p.125) "As the only second-year student who has experienced both classes so far, I feel there is a crucial difference between Sakayanagi's class and Ryūen's class."
+[says] (p.126) "a single mistake could half destroy the class."
+[trait] (p.119–127) Calm and principled — rebuffs Tokitō's "dog" accusations with logic (he follows Ryūen because the class chose him, and as a transfer wouldn't be accepted as leader); refuses to badmouth Ryūen or report the rebel; criticizes Hiyori for involving Ayanokōji; privately fears the class's dissatisfied students will destroy it on any downturn.
+[rel:tokitou-hiroya] (p.119–124) Fends off his repeated accusations; refuses to be drawn into rebellion.
+[rel:ryuuen-kakeru] (p.121–126) Defends following him as the class's chosen leader, but worries about the class's cohesion.
+[rel:shiina-hiyori] (p.124–127) Rebukes her judgment; eventually voices his real concerns.
+[rel:sakayanagi-arisu] (p.125) Compares her cohesive class to Ryūen's.
 ## y2v5
 
 <!-- walk: y2v5 → start -->

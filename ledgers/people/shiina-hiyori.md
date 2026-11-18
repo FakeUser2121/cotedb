@@ -534,6 +534,17 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 
 <!-- walk: y2v4.5 Epilogue → p.290 -->
 
+### y2v4.5 p.119–128 — Hiyori: witness to the dispute; serious invitation to Ayanokōji
+[says] (p.119) "Have you seen Katsuragi?"
+[says] (p.121) "Tokitō-kun has always hated Ryūen-kun's way of doing things."
+[says] (p.122) "In the beginning, I didn't have any strong feelings regarding the class either."
+[says] (p.123) "At that time, Ayanokōji-kun…would you join our class?"
+[says] (p.123) "I invited you the other day, but that was half-jokingly just to go along with Ishizaki-kun. This invitation is different."
+[says] (p.125) "Of course. I intend to graduate with all my classmates in Class A after all."
+[trait] (p.119–128) Perceptive and quietly strategic — already relocated the Katsuragi/Tokitō dispute away from the restroom, explains the resentment in Ryūen's class, and makes a *serious* invitation for Ayanokōji to join as an emergency leader (unlike her half-joking earlier one); uses him to help Katsuragi voice his real concerns; aims to graduate with all classmates in Class A.
+[rel:ayanokouji-kiyotaka] (p.119–128) Brings him into the dispute and seriously invites him to join her class.
+[rel:katsuragi-kouhei] (p.124–127) Uses Ayanokōji to draw out his honest concerns; rebuked for her trust in him.
+[rel:ryuuen-kakeru] (p.121–122) Warns his dictatorship breeds resentment and that the class would collapse if he fell.
 ## y2v5
 
 <!-- walk: y2v5 → start -->

@@ -7996,6 +7996,215 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v4.5 Epilogue → p.290 -->
 
+### y2v4.5 p.10–16 — Prologue note; August class points; settling in
+[note] (p.10) The prologue is Ayanokōji's monologue (phones returned, cruise rules stricter — no leaving rooms after 10 p.m., some levels off-limits); recorded as narration on his own page.
+[trivia] (p.13) August class points: A (Sakayanagi) 1206, B (Ichinose) 578, C (Horikita — their class rose from D) 571, D (Ryūen) 551 — Kōenji's 300 points from his solo win lifted them just to Class C, one step short of B.
+[inference] (p.13–15) Reflects Kōenji's "exempted from all cooperation" card would anger the class if public; judges Ryūen's deal with Sakayanagi makes Class D (in name) the "scariest class right now"; considers how to break dominant Class A (remove Sakayanagi's "limbs" — Kamuro, Hashimoto, Kitō).
+[trivia] (p.15–16) Receives 57,100 private points (571 class points × 100); plans to reply to Ichinose's confession in three days; notes the detailed exam results are displayed by the gym (no photos, Tsukishiro's men watching) — likely to avoid leaving evidence of his involvement.
+
+### y2v45 p.16–26 — Ishizaki drags him to see the results; third-years' stares
+[scene] (p.16) In his cabin with roommates Hondō (exhausted), Miyamoto, Miyake, Ishizaki barges in and insists Ayanokōji accompany him to see the exam results.
+[says:ishizaki-daichi] (p.18) "Ayanokōji, let's go check out the test results together!"
+[says] (p.19) "I'm a little tired today."
+[says:miyake-akito] (p.19) "It's possible Ryūen's pulling his strings from behind. You'd best be on your guard."
+[says:ishizaki-daichi] (p.20) "You're easy to talk to, Ayanokōji."
+[says:ishizaki-daichi] (p.21) "You're way easier to talk to than that weirdo Kaneda."
+[says:ishizaki-daichi] (p.24) "I'm not invitin' you out like this just to get you to join our class. It's 'cause I like you as a friend, okay?"
+[trait] (p.16–26) Notices a sick, indescribable feeling and that all the third-years at the results board are staring at him — certain Nagumo is behind it  (one of his plans); declines to involve Ishizaki; struck that Ishizaki genuinely treats him as a friend.
+[rel:ishizaki-daichi] (p.18–26) Insists on his company, talks about collecting flags (inspired by Albert) and his complicated class position; calls him a friend.
+[rel:nagumo-miyabi] (p.23–24) Suspects he orchestrated the third-years' surveillance.
+[rel:nanase-tsubasa] (p.25) She runs up just to talk, then runs off; Ishizaki teases Ayanokōji about dating an underclassman.
+
+### y2v45 p.26–30 — Ike's confession to Shinohara; visiting Komiya
+[scene] (p.26) Finds Ike waiting at his door, awkward about visiting Komiya after confessing his feelings to Shinohara on the ship.
+[says:ike-kanji] (p.26) "I'm thinking of going to visit Komiya right now."
+[says:ike-kanji] (p.27) "I…I'm going out with Shinohara."
+[says] (p.27) "You're prepared to take at least one hit, right?"
+[says] (p.28) "Ehh!? I'm going to get hit!?" — Ike
+[trait] (p.26–30) Listens to Ike's guilt ("stealing a march" on the injured Komiya) and goads him that he must be ready for a punch from his rival; visits Komiya with him.
+[rel:ike-kanji] (p.26–28) Just confessed to Shinohara (she said yes), feels guilty toward Komiya, and fears his confession.
+[rel:komiya] (p.28–30) In the infirmary with an injured leg; Ryūen and classmates had just visited; he notes Ryūen has become "a bit more mellow"; still can't remember being attacked, and Ryūen is investigating who pushed him.
+[rel:ryuuen-kakeru] (p.28–29) Komiya says he's softened; Ryūen left without acknowledging Ayanokōji.
+
+### y2v4.5 p.36–43 — Results check; third-years' stares; Kiryūin at the pool
+[scene] (p.37) Checks the detailed results by the gym — Kōenji 1st, Nagumo 2nd, Sakayanagi 3rd (261), Kiriyama 4th (255, just 6 points behind); all expulsions were third-years.
+[inference] (p.37–38) Heads to the pool to confirm the stares are a coordinated plan, not paranoia — within seconds all third-years at the pool begin watching him; estimates 80–90% chance Nagumo ordered it, but the content is unknown; decides to pretend not to notice.
+[trait] (p.37–43) Finds the surveillance "unsettling" — unlike the White Room's ever-present eyes, this is a new kind of stress he can't easily escape; notes Ichinose hides behind her classmates when their eyes meet (awkward after her confession).
+[rel:kiryuin-fuuka] (p.38–43) She rests on a deck chair and teases him about the stares — calls Nagumo's tactic "bizarre yet effective" against someone like him, and calls him "flawless"/"limitless."
+[rel:ichinose-honami] (p.38) Hides from him at the pool; they have an appointment in two days for his reply.
+[rel:nagumo-miyabi] (p.41–43) Kiryūin explains he's now taking Ayanokōji seriously after the island exam; prefers flashy one-on-ones but will use any strategy (mobilizing the whole third year) to win.
+
+### y2v4.5 p.45–53 — Kiriyama's confrontation: why he stopped fighting Nagumo
+[scene] (p.45) Kiriyama brings him to a quiet upper deck (having paid off the third-years there) and demands what he did to Nagumo on the exam's last day.
+[says:kiriyama] (p.45) "I won't beat around the bush. What did you do to Nagumo on the last day of the uninhabited island exam?"
+[says] (p.46) "Initially, it looked like you were working to take down Nagumo. At what point did you stop fighting…? Did you give up?"
+[says:kiriyama] (p.47) "It's true that I wanted to take down Nagumo."
+[says:kiriyama] (p.48) "Nagumo handed me a ticket to graduate from Class A, so I decided to follow the rules that he made up."
+[inference] (p.46–53) Probes whether Kiriyama gave up the fight or became Nagumo's ally; deduces from his gaffe that he's conscious of being seen on the president's side; learns the third-years shifted to individual competition early, Nagumo ran off with a 900-point lead, and Kiriyama accepted a Class A graduation ticket — admitting defeat and changing sides are not the same.
+[rel:kiriyama] (p.45–53) He admits he stopped fighting Nagumo and took his Class A ticket — a "regret/resignation" he can't fully hide.
+[rel:horikita-manabu] (p.47) Ayanokōji invokes Manabu's entrustment; Kiriyama admits involving him was a mistake.
+
+### y2v4.5 p.54–58 — Nanase and Kobashi; the girls' party invitation
+[scene] (p.54) In the corridor, Nanase runs up and whispers something serious, but is interrupted by Kobashi Yume (Ichinose's classmate).
+[says] (p.54) "Ayanokouji-senpai!"
+[says:kobashi-yume] (p.55) "Actually, the girls in my class are going to have a party tonight."
+[says:kobashi-yume] (p.56) "We also wanted to thank you for helping Chihiro-chan."
+[says] (p.57) "Room 5034…You're doing it in someone's room?"
+[trait] (p.54–58) Notes Ichinose turned down the invitation to the party (to avoid him); decides to attend — a girls' party in room 5034 — as it's not the right time to speak to Ichinose face to face yet.
+[rel:nanase-tsubasa] (p.54) She runs up eagerly to talk but flees when Kobashi appears.
+[rel:kobashi-yume] (p.55–57) Invites him to the party and thanks him for helping Chihiro; tells him not to tell Ichinose she invited him.
+[rel:ichinose-honami] (p.56) Declined the party, likely because of him.
+
+### y2v4.5 p.73–77 — Lunch alone; Nanase on the bow deck
+[scene] (p.73) Eats a cheap store rice ball and tea (250 pts) on the bow deck to save money, after a 7 a.m. breakfast (8–9 slot full); notes the third-years' stares continue.
+[says] (p.75) "Nanase."
+[says:nanase-tsubasa] (p.75) "Gulp…Um, I'm sorry, but actually…I was eating lunch."
+[says] (p.77) "Ah no, you seemed like you wanted to talk to me yesterday."
+[says:nanase-tsubasa] (p.77) "I'm sorry, but I've already solved the problem myself, so could you just forget about it?"
+[trait] (p.73–77) Uses Nanase as an excuse to stop on the crowded deck (so he doesn't look like he's "running away" from the stares); feels bad when she panics at his sudden call; respects that she's solved her problem and leaves.
+[rel:nanase-tsubasa] (p.75–77) She was about to tell him something yesterday (interrupted by Kobashi) but says she's solved it herself and asks him to forget it.
+
+### y2v4.5 p.78–81 — Sakayanagi catches him: "Beneath the Wheel" and the sea
+[scene] (p.78) Eats on the quiet fifth-floor stern; Sakayanagi appears, having deduced his destination from his behavior (snacks, search for an ocean view).
+[says:sakayanagi-arisu] (p.78) "It was a coincidence. Or so I would like to say, but I've been chasing after you, Ayanokōji-kun."
+[says] (p.79) "Yes, that's right, I think so too. However, I did actually see the ocean once before entering this school."
+[says:sakayanagi-arisu] (p.79) "Have you heard of 'Beneath the Wheel'?"
+[says] (p.79) "I don't think he was a genius. Because a true genius would never fail."
+[says] (p.80) "It's dangerous to wear it on the deck, you know." — catching her hat in the wind
+[says:sakayanagi-arisu] (p.80) "Fufu, that's true isn't it. However, this is my trademark."
+[says:sakayanagi-arisu] (p.81) "I just wanted to talk to you, Ayanokōji-kun."
+[trait] (p.78–81) Discusses Hesse's "Beneath the Wheel" (protagonist Hans, a "genius" who fails and dies — Sakayanagi calls true genius something that never fails, and Hans's death "the height of stupidity"); reveals he first saw the ocean at 14, emotionless; catches her trademark hat in a gust; she chased him purely to talk, considerate of his dislike of being seen with her.
+[rel:sakayanagi-arisu] (p.78–81) She reads his patterns, joins him, and shares literary/philosophical reflections — a quiet, mutual moment.
+
+### y2v4.5 p.81–85 — Sakayanagi's account of Ichinose's apology
+[scene] (p.81) As they talk, Sakayanagi recounts how Ichinose came to see her the previous day to apologize for her selfish last-day actions.
+[says:sakayanagi-arisu] (p.81) "Yesterday, Ichinose came to see me."
+[says:sakayanagi-arisu] (p.82) "Please raise your head, Ichinose-san. I'm not angry about anything."
+[says:sakayanagi-arisu] (p.83) "You have a look on your face that says you feel you need to take responsibility somehow."
+[says:sakayanagi-arisu] (p.83) "Go ahead; please order whatever you would like." — her "punishment": 30 minutes of afternoon tea
+[says:sakayanagi-arisu] (p.84) "You're a hard person to describe. That's why you seem so scary to me at times."
+[inference] (p.82–85) Learns Sakayanagi forgave Ichinose (her contribution outweighed the few points lost), "punished" her with tea, and observed that Ichinose — conventionally "good" — can still frighten people; Ayanokōji reflects he's never met a "purely good" person, including Ichinose.
+[rel:ichinose-honami] (p.81–85) Sakayanagi's account — Ichinose's remorse and honesty; Ayanokōji's view of her.
+[rel:sakayanagi-arisu] (p.81–85) She tells him about Ichinose and shares her observations on goodness.
+
+### y2v4.5 p.97–106 — The private pool: Airi and Haruka's bold swimsuits
+[scene] (p.97) With the Ayanokōji group (Akito, Haruka, Airi, Keisei) at a rented private pool; Akito asks his opinion of Airi.
+[says:miyake-akito] (p.99) "Hey, Ayanokōji. What do you think of Airi?"
+[says:miyake-akito] (p.99) "I'd be lying if I said I felt nothing like that whatsoever."
+[says:miyake-akito] (p.99) "But if it might destroy this group, I'm not gonna push it."
+[says:hasebe-haruka] (p.102) "It means that she's desperately trying to change."
+[says:hasebe-haruka] (p.102) "I can't let her stumble during the first step of the Airi remodelling project. It's called willpower."
+[says:hasebe-haruka] (p.104) "you're more like a saint than the other boys, Kiyopon."
+[trait] (p.97–106) Politely averts his eyes from Haruka and Airi's daring swimsuits ("I'm trying to be careful not to look"); learns Haruka designed the "Airi remodelling project" to encourage Airi's self-confidence, matching swimsuits so Airi couldn't back out; Haruka calls him a "saint" for his restrained gaze; notes the group has grown close ("shared a lot of things from top to bottom").
+[rel:hasebe-haruka] (p.102–105) Confides the "Airi remodelling project" and her self-consciousness about her body.
+[rel:miyake-akito] (p.99) He admits possible feelings for Airi/Haruka but won't risk the group.
+[rel:sakura-airi] (p.100–101) Her bold new swimsuit and attempt to jump into the pool.
+
+### y2v4.5 p.106–113 — Airi's determination to change
+[scene] (p.106) Sits beside Airi after she's tired from water volleyball; she explains why she chose to be brave.
+[says] (p.106) "You looked like you were having a great time."
+[says:sakura-airi] (p.107) "I thought maybe I can change now…It might be the only time…"
+[says:sakura-airi] (p.107) "I've started to think that I should change, that I have to change."
+[says] (p.107) "No, it's not too late." / "I'm rooting for you."
+[says:hasebe-haruka] (p.108) "It means the original material was already top-notch."
+[trait] (p.106–113) Encourages Airi's resolution — she and Haruka talked deeply during the island exam (childhood, middle school) and decided to change; Airi removed her fake glasses and changed her hairstyle (the "image change" kept secret until second semester); Keisei is flustered by her transformed appearance; Ayanokōji genuinely praises her decision.
+[rel:sakura-airi] (p.106–113) She confides her wish to change; he roots for her.
+[rel:ishigami-kyou] (p.108) Flustered by Airi's appearance — "totally attractive."
+[rel:miyake-akito] (p.108) Also caught off guard by her transformation.
+
+### y2v4.5 p.114–117 — Nanase and the Ike/Shinohara reveal
+[scene] (p.114) Nanase appears near the pool (a "new record" of meeting him every day); she denies having any purpose beyond coincidence, then leaves.
+[says:ike-kanji] (p.115) "Oh, next is Ike huh?"
+[says:hasebe-haruka] (p.116) "What a rare combination, Shinohara and Ike hanging out together."
+[says:ishigami-kyou] (p.116) "Ike and Shinohara are like oil and water, why would those two date each other?"
+[trait] (p.114–117) Puzzled why Nanase keeps appearing; suppressed a laugh at Ike and Shinohara arriving together holding hands — they're now dating, which shocks oblivious Keisei.
+[rel:nanase-tsubasa] (p.114) Appears daily, claims coincidence — Ayanokōji suspicious.
+[rel:ike-kanji] (p.115–116) Arrives holding Shinohara's hand; their relationship is revealed to the group.
+[rel:shinohara] (p.116) With Ike.
+[rel:ishigami-kyou] (p.116) Completely unaware Ike and Shinohara are dating.
+
+### y2v4.5 p.118–128 — Katsuragi vs Tokitō; Hiyori's serious invitation
+[scene] (p.118) Hears of a dispute at the restroom between Katsuragi and Tokitō Hiroya (distant relative of Tokitō Katsumi); goes to investigate, finding Hiyori already there.
+[says:hiyori] (p.119) "Have you seen Katsuragi?"
+[says:tokitou-hiroya] (p.119) "Katsuragi, are you really followin' Ryūen?"
+[says:katsuragi-kouhei] (p.121) "The current class has already set its course with Ryūen as its leader."
+[says:hiyori] (p.123) "At that time, Ayanokōji-kun…would you join our class?"
+[says:hiyori] (p.123) "This invitation is different."
+[says:katsuragi-kouhei] (p.124) "I'm not impressed, Shiina."
+[inference] (p.118–128) Learns Tokitō Hiroya (selfish, vindictive) and Okabe resent Katsuragi being Ryūen's "dog" and want to use him to rebel; Katsuragi defends following Ryūen (the class's chosen leader); Hiyori seriously invites Ayanokōji to join Class 2-B as an emergency leader if Ryūen falls, and uses him to draw out Katsuragi's honest concerns about the class's cohesion.
+[rel:shiina-hiyori] (p.119–128) She brings him to witness the dispute and makes a serious invitation for him to join the class.
+[rel:katsuragi-kouhei] (p.120–127) Defends following Ryūen; voices worry that dissatisfaction will destroy the class if it hits a downturn; criticizes Hiyori's trust in Ayanokōji.
+[rel:tokitou-hiroya] (p.118–124) Resents Katsuragi, plots rebellion — a new "troublesome enemy" for Ryūen.
+[rel:ryuuen-kakeru] (p.122–126) His dictatorship breeds hidden resentment; Hiyori worries the class would collapse if he were expelled.
+
+### y2v4.5 p.159–166 — The surprise treasure hunt game announced
+[scene] (p.159) A bonus treasure-hunt game is announced by email (free to enter, QR codes with cash rewards); rules explained by Takatō-sensei in the theater.
+[trivia] (p.162) Student council members (Horikita, Ichinose, etc.) can't participate — they administer it; participants get a hint paper and pay 10,000 points to enter; 100 QR codes around the ship with values from 5,000 to 1,000,000 points.
+[trait] (p.162) Notes Ichinose sits with the student council (the tears she shed yesterday still on his mind, and the possibility that revealing his dating will erase her feelings); decides to participate, avoids pairing with Kei (who paired with Mori Nene for appearances).
+[rel:ichinose-honami] (p.162) Her membership in the council prevents her joining; his planned public dating announcement may end her feelings.
+[rel:karuizawa-kei] (p.165) His girlfriend — deliberately doesn't pair with her so their secret stays hidden.
+
+### y2v4.5 p.167–181 — Teaming with Satō; QR-code deduction; Nagumo's orders
+[scene] (p.167) Bumps into Satō, who asks him to pair up; she has ~180,000 points.
+[says:satou-maya] (p.167) "You know…Ayanokōji-kun, have you partnered up with anyone yet?"
+[says:satou-maya] (p.168) "Would you…pair up with me?"
+[says] (p.169) "Okay, I got it. If you're okay with me, Satō, we can pair up."
+[says:satou-maya] (p.170) "Ehh? Really?"
+[trait] (p.168–181) Accepts (no reason to refuse); notes Satō had been the first to confess to him last year; reasons the hint codes are modest (not the top 300,000) since it's a "luck" game, solves the riddle easily, and uses his phone's camera/flash with Satō's to find and photograph hidden QR codes — a two-phone advantage.
+[rel:satou-maya] (p.167–181) His partner — she trusts him to lead; her honest delight pleases him.
+[rel:matsushita-chiaki] (p.172–174) She and third-year Tatara appear; Tatara (under Nagumo's order not to engage him) flees.
+[rel:nagumo-miyabi] (p.172) Confirms an order went out to all third-years regarding him.
+
+### y2v4.5 p.176–178 — Nanase's daily visits; Nakaizumi watching her
+[scene] (p.176) Nanase appears again (breaking his record of seeing her daily); Satō teases her about becoming more mature.
+[says:nanase-tsubasa] (p.176) "I'm glad to see that you're doing well today, Ayanokōji-senpai."
+[says:satou-maya] (p.177) "M-mental? So not like drinking milk or getting a massage every day?"
+[inference] (p.178) Realizes Nanase has been checking on his condition daily (from when she was his ally), and that Nakaizumi has been following her — likely investigating her, or marking her due to 20-million-bounty suspicions; decides she's "completely innocent" of the cliff attack.
+[rel:nanase-tsubasa] (p.176–178) Checks on him daily; he notes her continued vigilance.
+[rel:nakaizumi] (p.178) Following Nanase — under whose orders is unclear.
+
+### y2v4.5 p.192–193 — Satō's self-doubt; asking to learn
+[says:satou-maya] (p.192) "I wonder what I should do. What do I need to work on so that I don't cause trouble for the class?"
+[says:satou-maya] (p.192) "this isn't just any high school; it's a hell of a place."
+[says] (p.193) "If you want to work hard for your classmates, I suppose studying is essential."
+[says:satou-maya] (p.193) "A-Ayanokōji-kun, I don't suppose you could teach me how to study…"
+[trait] (p.192–193) Listens to Satō's doubts about being a burden; gently redirects — studying is essential, recommends Horikita (who trained Sudō) and agrees to be the bridge, avoiding the awkwardness of teaching her himself (Karuizawa would be angry).
+[rel:satou-maya] (p.192–193) She asks him to bridge her to Horikita for tutoring.
+[rel:horikita-suzune] (p.193) Recommended as a tutor; Ayanokōji brokers the request.
+
+### y2v4.5 p.194–196 — Student council shift; Kushida's lunch invitation
+[says] (p.194) "Horikita-senpai, it's time for your shift change." — Yagami
+[says] (p.195) "Well then, I'll see you later, Kushida-senpai." — Yagami
+[trait] (p.194–196) Administering rewards with the council; judges Yagami a reliable, skilled underclassman — a candidate for the next Student Council President; notes his "more than friends, less than lovers" closeness with Kushida; accepts Kushida's unusual lunch invitation as a chance to ask his lingering questions.
+[rel:yagami-takuya] (p.194–195) Reliable council worker; best next-generation president candidate.
+[rel:kushida-kikyou] (p.195–196) Her closeness with Yagami "more than friends, less than lovers"; accepts her lunch invitation, sensing an opportunity.
+
+### y2v4.5 p.217–224 — The "I love you" phone call with Kei
+[scene] (p.217) At ~9 p.m., receives a message from Kei wanting to talk on the phone (no emoticons — serious); slips out to the deck and calls her.
+[says:karuizawa-kei] (p.217) "I heard some unpleasant rumours about you, you know?"
+[says] (p.218) "I can't think of anything."
+[says:karuizawa-kei] (p.219) "You've been, like, messing around with an underclassman! That rumour!"
+[says] (p.219) "She's just an underclassman, nothing more."
+[says:karuizawa-kei] (p.220) "Even though I actually wanted to pair up with you, Kiyotaka."
+[says] (p.222) "Yeah, I love you."
+[says:karuizawa-kei] (p.222) "I'll never forgive you if you cheat on me."
+[says:karuizawa-kei] (p.222) "Get it?"
+[says] (p.223) "…I love you."
+[says:karuizawa-kei] (p.223) "Yep, I knew it, you're the best… I'm absolutely never giving you to anyone else."
+[says:karuizawa-kei] (p.224) "…Please say it." / "…I love you."
+[trait] (p.217–224) Carefully feigns ignorance of the rumor (Nanase) so as not to say the wrong thing; realizes the rumor likely came from Nagumo (who saw him with Ichinose) spread via third-years; confirms going public about dating is necessary; checks the deck is empty before saying "I love you" (Kei laughs at his caution); finds the repeated, awkward exchanges a genuine expression of affection — "the thing called love really was interesting."
+[rel:karuizawa-kei] (p.217–224) His girlfriend — jealous over the Nanase rumor and the Satō pairing, anxious about going public, demands repeated "I love you"s.
+[rel:nanase-tsubasa] (p.219) Source of the rumor that he was involved with an underclassman — their many meetings were witnessed.
+[rel:nagumo-miyabi] (p.218) Suspects he spread the rumor after seeing his exchange with Ichinose.
+[rel:satou-maya] (p.220) Kei knows he paired with her in the treasure hunt.
+
+### y2v4.5 p.268–274 — Epilogue: the last secret date; learning to kiss
+[scene] (p.268) Back at school after the cruise, reflects on a lazy remaining vacation but a vastly expanded circle of friends (Ayanokōji group, Sudō/Ike, Ishizaki/Hiyori, even Ichinose's class) — unthinkable a year ago; spends the last day of summer vacation with Kei in his room.
+[says] (p.268) "Ahh, today's the last day of summer vacation…" — Kei
+[says] (p.268) "There's no need for you to force yourself to tell people. I won't be held responsible if your status drops."
+[says] (p.269) "I'll absolutely tell them. Even if something happens, you'll protect me so I'll be fine. Right, Kiyotaka?"
+[trait] (p.268–274) Holds her hand and, after a first tentative kiss, repeats it — learning timing through practice ("the only way to learn the timing was to repeat it over and over again"); reflects that they've finished "the first half of the curriculum of love" and will face an "arduous trial" when they graduate ("a given"), when Kei will have to stand up on her own without her host.
+[rel:karuizawa-kei] (p.268–274) His girlfriend — they'll go public in second semester; they learn to kiss together.
 ## y2v5
 
 <!-- walk: y2v5 → start -->

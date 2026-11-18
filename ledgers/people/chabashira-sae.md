@@ -1249,6 +1249,18 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v4.5 Epilogue → p.290 -->
 
+### y2v4.5 p.225–232 — The late-night bar: Chabashira on the next special exam
+[scene] (p.225) After 1 a.m. in the adults-only bar lounge, meets Mashima and Hoshinomiya; admonishes the slumped, complaining Hoshinomiya ("you've had more than enough rest").
+[says] (p.226) "you never change."
+[says] (p.227) "Anyway, I'm relieved about this uninhabited island exam. That the second-years didn't lose, that is."
+[says] (p.228) "Nobody said that. However, I'm just saying that this class is superior to the classes from previous years."
+[says] (p.229) "What in the world are you talking about? When did I rely on Ayanokōji?"
+[says] (p.231) "I thought last year's class poll…wasn't that supposed to be a substitute for this?"
+[says] (p.232) "I'm going back to my room."
+[trait] (p.225–233) Professional but secretly troubled —Dismisses Hoshinomiya's complaints, insists this year's Class D is better than past years, and admits no reliance on Ayanokōji; when Mashima reveals the next special exam (the one she and Hoshinomiya suffered 11 years ago) she falls silent, eyes closed, and leaves rather than discuss it — still haunted by having failed to save her class then.
+[rel:hoshinomiya-chie] (p.225–233) Her drinking companion and old rival; they spar, and Hoshinomiya brutally needles her for chasing after her "boring love."
+[rel:mashima-tomonari] (p.225–232) Fellow teacher; reveals the next exam's outline.
+[rel:ayanokouji-kiyotaka] (p.229) Defends him as one of many promising students; denies relying on him.
 ## y2v5
 
 <!-- walk: y2v5 → start -->

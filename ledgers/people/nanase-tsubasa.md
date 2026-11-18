@@ -490,6 +490,29 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 <!-- walk: y2v4.5 Epilogue → p.290 -->
 
+### y2v4.5 p.182–191 — Nanase and Ryūen interrogate Kurachi (the cliff attacker)
+[scene] (p.182) Ryūen (investigating who pushed Komiya) stops Nanase during the treasure hunt; she agrees to help question Kurachi Naohiro, the first-year who attacked Ayanokōji on day seven.
+[says:ryuuen-kakeru] (p.183) "Nanase Tsubasa, right?"
+[says:nanase-tsubasa] (p.188) "Tell me why you were targeting Ayanokōji-senpai during the uninhabited island exam."
+[says:nanase-tsubasa] (p.188) "is urgently trying to find the culprit who almost attacked Ayanokōji-senpai."
+[says:nanase-tsubasa] (p.189) "I was told I'd be given money if I attacked Ayanokōji-senpai…"
+[says:nanase-tsubasa] (p.191) "Give me time. Of course, I don't mean for free."
+[trait] (p.182–191) Deftly interrogates Kurachi using the threat of Hōsen's fists (plus Ryūen behind her), learns Utomiya Riku paid him (anonymously, before the exam) to "pretend" to attack Ayanokōji; brokers a deal with Ryūen — she'll reveal a witness in Komiya's case if he doesn't contact Utomiya yet.
+[rel:ryuuen-kakeru] (p.182–191) Works with him (reluctantly) to find the attacker; he wants to confront Utomiya, she negotiates delay.
+[rel:utomiya-riku] (p.189–190) Revealed as the one who paid Kurachi to attack Ayanokōji.
+[rel:ayanokouji-kiyotaka] (p.188) Investigates his attacker without his permission — a "defence plan" of her own.
+
+### y2v4.5 p.283–286 — Short story: "A Double-sided Favour Repayment" — tailing Kurachi
+[scene] (p.283) From her own POV, tails first-year Kurachi through the store, buying a sandwich and milk to blend in — he appeared on her GPS search for Ayanokōji's attacker.
+[narrates] (p.283) "Because if I could leave behind at least something for Ayanokouji-senpai, it would have been worth it."
+[narrates] (p.283) "Yes, this is my own decision."
+[narrates] (p.284) "Nanase."
+[narrates] (p.284) "Phease huht waid a bid."
+[narrates] (p.285) "Sorry, That's something I've already taken care of so can I ask you to forget about it?"
+[narrates] (p.286) "I'm sorry, Ayanokouji-senpai… I already knew I should have just told you all this upfront."
+[trait] (p.283–286) Devoted and secretive — she's investigating the attack on her own (keeping it from Ayanokōji) to leave behind "some accomplishments," refuses the easy path of letting him "pamper" her, and hides the tailing from him even when he calls her out — apologizing internally, resolved to "work hard" for him; the "double-sided favour" of the title reflects her divided loyalty.
+[rel:ayanokouji-kiyotaka] (p.284–286) She hides her investigation from him, then regrets it — he's too kind and would have stopped her.
+[rel:kurachi] (p.283–285) The first-year she tails — suspect in the attack on Ayanokōji.
 ## y2v6
 
 <!-- walk: y2v6 → start -->

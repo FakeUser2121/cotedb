@@ -153,6 +153,22 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 
 <!-- walk: y2v4.5 Epilogue → p.290 -->
 
+### y2v4.5 p.251–254 — Yagami summons Amasawa: her real intentions
+[scene] (p.251) In a guest cabin, Amasawa (now a "civilian" after Tsukishiro's disqualification) meets Yagami, who has calculated that their roommates won't return; she warns he'd normally question the timing.
+[says] (p.251) "What are you going to say if one of your roommates comes back at this time?"
+[says] (p.251) "Then let me in on the details of this plan of yours…Takuya."
+[says] (p.252) "You never learn, do you, Ichika?"
+[says] (p.252) "Certainly, you're no longer a person on the side the White Room. That's why, to me, you are an enemy."
+[says] (p.252) "I wouldn't raise my hand in a place like this."
+[says] (p.252) "I called you out here because I wanted to find out your real intentions."
+[says] (p.252) "Why did you interfere with Kushida and Kurachi, who I sent after Ayanokōji during the uninhabited island exam?"
+[says] (p.252) "I have no idea what you're talking about, nya~"
+[says] (p.253) "It's because it's a painful strategy for Ayanokōji-senpai."
+[trait] (p.251–254) Calm and calculating — he's orchestrated a "plan" and isn't fooled by her playful evasion; admits he'd hoped a recording of Ayanokōji fighting Nanase/Kurachi would be leverage, admires that Ayanokōji declined to use GPS because he saw through the trap, and notes Nanase/Ryūen are chasing the wrong lead (Utomiya) while Horikita is close to identifying Amasawa's handwriting.
+[rel:amasawa-ichika] (p.251–254) Calls her "Ichika," calls her an enemy now she's left the White Room, and questions her interference; they know each other intimately from the White Room.
+[rel:ayanokouji-kiyotaka] (p.252–253) His target with a "painful strategy"; admires his ability to read situations.
+[rel:kushida-kikyou] (p.252) Sent her after Ayanokōji on the island with a camera; Amasawa stopped her.
+[rel:kurachi] (p.252) Sent him to attack Ayanokōji; Amasawa interfered.
 ## y2v5
 
 <!-- walk: y2v5 → start -->

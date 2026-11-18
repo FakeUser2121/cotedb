@@ -1097,6 +1097,16 @@ aliases used for anchors: sakura, airi, sakura-san
 
 <!-- walk: y2v4.5 Epilogue → p.290 -->
 
+### y2v4.5 p.100–113 — Airi's "remodelling": new swimsuit, no glasses, a resolve to change
+[says] (p.100) "P-pushing me like that…you're awful Haruka-chan!"
+[says] (p.101) "I-I think I'll go swim in the pool too!"
+[says] (p.107) "I thought maybe I can change now…It might be the only time…"
+[says] (p.107) "Yeah. I can't say it clearly yet, but I've started to think that I should change, that I have to change."
+[says] (p.107) "T-thank you, Kiyotaka-kun. I'll try my best."
+[trait] (p.100–113) Shyly embarrassed but determined — agreed to a daring swimsuit (to Haruka's "Airi remodelling project"), removed her "unnecessary fake glasses" and changed her hairstyle, keeping it secret until second semester; talked deeply with Haruka on the island and decided she must stop being bad at both studies and sports; flustered by Keisei's "totally attractive" verdict; Ayanokōji genuinely roots for her.
+[rel:hasebe-haruka] (p.100–113) Her best friend, who devised the remodelling project and pushed her to be brave.
+[rel:ayanokouji-kiyotaka] (p.106–107) Confides her resolve to change; he encourages her.
+[rel:ishigami-kyou] (p.108) His "totally attractive" judgment confirms the makeover's success.
 ## y2v5
 
 <!-- walk: y2v5 → start -->

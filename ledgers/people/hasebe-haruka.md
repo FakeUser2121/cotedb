@@ -573,6 +573,18 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 
 <!-- walk: y2v4.5 Epilogue → p.290 -->
 
+### y2v4.5 p.99–113 — Haruka's "Airi remodelling project"; her body image
+[says] (p.99) "I never asked you to do that!"
+[says] (p.100) "It's because you wouldn't hurry up and get out here."
+[says] (p.102) "It means that she's desperately trying to change."
+[says] (p.102) "I can't let her stumble during the first step of the Airi remodelling project. It's called willpower."
+[says] (p.103) "You really haven't done anything wrong, Kiyopon. I know I'm too self-conscious to begin with."
+[says] (p.104) "As I thought, you're more like a saint than the other boys, Kiyopon."
+[says] (p.105) "I get the feeling you've become closer since fighting through the uninhabited island exam together."
+[trait] (p.99–113) Playful and supportive — pushed Airi into a bold swimsuit (matching her own so Airi couldn't back out) as the "first step" of her confidence-building "remodelling project"; self-conscious about her body ("when I think it's me, I can't help but feel bad") yet determined not to break while Airi is trying; calls Ayanokōji a "saint" for his restrained gaze; notes the group has grown close.
+[rel:sakura-airi] (p.100–113) Her best friend; devises the remodelling project and encourages her.
+[rel:ayanokouji-kiyotaka] (p.103–104) Talks with him at the pool; trusts him not to leer.
+[rel:ishigami-kyou] (p.105) Teases the obligation-focused Keisei.
 ## y2v5
 
 <!-- walk: y2v5 → start -->

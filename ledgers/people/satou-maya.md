@@ -391,6 +391,32 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 
 <!-- walk: y2v4.5 Epilogue → p.290 -->
 
+### y2v4.5 p.167–181, 192–193, 204–205 — Satō partners with Ayanokōji
+[says] (p.167) "You know…Ayanokōji-kun, have you partnered up with anyone yet?"
+[says] (p.168) "Would you…pair up with me?"
+[says] (p.168) "We've been together for a while now. It's not something we can keep a secret forever." — on Ayanokōji/Karuizawa going public
+[says] (p.168) "I suggested that we partner up because…"
+[says] (p.172) "C-can I go to the restroom for a second? I've had too much to drink…"
+[says] (p.192) "I wonder what I should do. What do I need to work on so that I don't cause trouble for the class?"
+[says] (p.192) "I wish I could tell my overexcited self from before I started school…"
+[says] (p.193) "A-Ayanokōji-kun, I don't suppose you could teach me how to study…"
+[says] (p.205) "Even though it was so hard to find! This is so frustrating!"
+[trait] (p.167–205) Honest and earnest — partnered with Ayanokōji (trusting him fully), delighted when a code is found, suspects (correctly) he's dating Kei and wonders about the public announcement; voices her insecurity about being a burden and asks for tutoring, then asks Ayanokōji to bridge her to Horikita; frustrated when scanned codes are already claimed.
+[rel:ayanokouji-kiyotaka] (p.167–205) His treasure-hunt partner; trusts him, asks him for help studying and to bridge her to Horikita.
+[rel:karuizawa-kei] (p.168) Suspects she's dating Ayanokōji; knew they'd announce it in second semester.
+[rel:horikita-suzune] (p.193) Doesn't get along with her, but Ayanokōji arranges tutoring through her.
+
+### y2v4.5 p.279–282 — Short story: "A Bad Girl, But Just a Little Bit" — the QR-code treasure
+[scene] (p.279) From her own POV, near the end of the treasure hunt with Ayanokōji, holds his phone to look at the gallery of 15 QR codes — happy he has no photos of Kei in it ("I'm such a bad girl…").
+[narrates] (p.279) "Could you open the camera app?"
+[narrates] (p.279) "Which should we scan first?"
+[narrates] (p.280) "Ah, this one is no good. It says it has been claimed already."
+[narrates] (p.281) "Y-you do it, A-Ayanokouji-kun!"
+[narrates] (p.281) "Wah, You're so daring, Ayanokouji-kun!"
+[narrates] (p.282) "I had such a good time that I ended up thinking I maybe was a bad girl after all, only slightly though."
+[trait] (p.279–282) Anxious and giddy — panics at choosing a bad code ("pressure is way too heavy"), delighted when a treasure chest appears (100,000 points after the 10,000 fee = 90,000 profit), thrilled to be close to him, and secretly apologizes to Kei-chan ("but this is a game").
+[rel:ayanokouji-kiyotaka] (p.279–282) Her treasure-hunt partner — she lets him tap the treasure chest; he credits her for finding the code.
+[rel:karuizawa-kei] (p.279) Secretly glad his gallery has no photos of Kei — guilt mixed with delight.
 ## y2v5
 
 <!-- walk: y2v5 → start -->

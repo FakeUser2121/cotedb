@@ -1778,6 +1778,21 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y2v4.5 Epilogue → p.290 -->
 
+### y2v4.5 p.194–202 — Kushida's lunch with Horikita: demanding her expulsion
+[says] (p.196) "You're going to take a break now, right Horikita-san? Would you have lunch together with me?"
+[says] (p.196) "The reason why I'm close to Yagami-kun?"
+[says] (p.197) "It's unfortunate, but there's nothing like that."
+[says] (p.198) "the best way to get rid of someone who's in your way is to get into their pocket."
+[says] (p.198) "Yagami-kun seems to have feelings for me that are beyond that of a normal senior and junior relationship, so sticking close to him is a lot easier than you think."
+[says] (p.200) "let's start with this; Horikita-san, could you drop out of school?"
+[says] (p.200) "Ayanokōji-kun is supporting me with private points." — Horikita (pretending not to know)
+[says] (p.201) "The reason why I absolutely want you to be the first to disappear is because you went to the same middle school as me."
+[says] (p.201) "I─di─ot."
+[says] (p.202) "No matter what I try, it's impossible, isn't it…"
+[trait] (p.194–202) Manipulative and consumed — reveals she's getting close to Yagami to get into his pocket and eliminate him too (even a 1–2% chance he knows her past is unacceptable); demands Horikita drop out first (same-middle-school leak risk, and to pressure Ayanokōji via her funding of Horikita); keeps a calm, smiling facade while hiding "anger and hatred"; frustrated she's failed for 1.5 years but vows to prove she can expel Horikita by second semester.
+[rel:horikita-suzune] (p.196–202) Her middle-school peer and enemy — demands she drop out, curses her an "idiot," remains committed to expelling her.
+[rel:ayanokouji-kiyotaka] (p.200–201) Knows/claims he funds Horikita's defence; plans to silence him by proving she can remove Horikita.
+[rel:yagami-takuya] (p.197–198) He has feelings for her; she's using that closeness to watch/eliminate him.
 ## y2v5
 
 <!-- walk: y2v5 → start -->

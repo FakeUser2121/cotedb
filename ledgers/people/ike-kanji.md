@@ -1181,6 +1181,18 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y2v4.5 Epilogue → p.290 -->
 
+### y2v4.5 p.26–30 — Ike's confession; visiting the injured Komiya
+[says] (p.26) "I'm thinking of going to visit Komiya right now."
+[says] (p.27) "I…I'm going out with Shinohara."
+[says] (p.27) "It's like I was stealing a march on Komiya."
+[says] (p.27) "I was so relieved that the island exam was over, Shinohara was right by my side…and then…it just hit me that I didn't want to give her to Komiya…"
+[says] (p.28) "Ehh!? I'm going to get hit!?"
+[says] (p.29) "Ryūen's just as scary as ever… Anyway, what did he want?"
+[says] (p.29) "You can willingly follow Ryūen?…I don't get it…"
+[trait] (p.26–30) Nervous and guilt-ridden but committed — confessed to Shinohara and is going to report it properly to his rival Komiya (even bracing for a punch); stunned that Komiya now says he can honestly follow Ryūen, and terrified at the prospect of being hit.
+[rel:shinohara] (p.26–27) His new girlfriend — he confessed on the ship and she accepted.
+[rel:komiya] (p.26–30) His rival in love; visits him in the infirmary, feeling he stole a march on him.
+[rel:ayanokouji-kiyotaka] (p.26–28) Asks him to come along for moral support; Ayanokōji goads him about the coming punch.
 ## y2v5
 
 <!-- walk: y2v5 → start -->
