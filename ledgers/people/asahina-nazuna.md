@@ -196,6 +196,14 @@ char_id: asahina-nazuna · class: Class 2-A · status: supporting
 [rel:kiryuin-fuuka] (p.79–83) Kiryūin tells her about Kijima; Asahina takes in every word of her confession about never becoming anyone.
 
 <!-- walk: y2v11 ch2 → p.84 -->
+
+### y2v11 p.178–179 — Ch.7: The precious Asahina-senpai
+[scene] (p.179) The 1 a.m. cafeteria confrontation; Asahina is named by Amasawa as the hostage in the threat.
+[says:amasawa-ichika] (p.179) “I would've beaten up your precious Asahina-senpai, Nagumo-senpai.”
+[note] (p.179) She threatens to beat up Asahina — as leverage, not as the target; she respects Asahina as Nagumo's precious person; the vendetta is not against her.
+[mentioned] (p.179) Named as the threatened hostage; not present on these pages.
+
+<!-- walk: y2v11 ch7 → p.181 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

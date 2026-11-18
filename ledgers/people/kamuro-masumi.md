@@ -425,3 +425,11 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [note] (p.92) Kitō is remembered as Kamuro's closest friend in Class A.
 
 <!-- walk: y2v11 ch3 → p.99 -->
+
+### y2v11 p.172–174 — Ch.7: The other side of the scales
+[scene] (p.172) Yamamura confesses to Kiyotaka in the dark; the fate of Sakayanagi's Kamuro is reopened.
+[note] (p.172–174) The survival and elimination exam she dropped out of: Sakayanagi saved Kamuro and discarded Yamamura — the lottery was the hinge; Kamuro stayed.
+[note] (p.173) “I strongly felt that Sakayanagi-san wanted me to withdraw at that moment.” — the quote is Yamamura's, about her own exit; Kamuro's exit is the pin this scene turns on.
+[mentioned] (p.172–174) Named as the other side of Yamamura's trauma; not present on these pages.
+
+<!-- walk: y2v11 ch7 → p.181 -->

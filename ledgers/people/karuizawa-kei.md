@@ -1960,3 +1960,10 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:ayanokouji-kiyotaka] (p.34–44) Sticks to him on the way there; freezes at his reaction; keeps arguing he's too close to Ichinose.
 
 <!-- walk: y2v11 ch2 → p.84 -->
+
+### y2v11 p.179–180 — Ch.7: The possible target
+[scene] (p.179) The 1 a.m. cafeteria confrontation; Amasawa names her as the possible target.
+[note] (p.179) Amasawa considers beating up Karuizawa-senpai and expelling her, then drops it: Ayanokōji's personal goals make it off-limits.
+[mentioned] (p.179) Named in Amasawa's abandoned plan; not present on these pages.
+
+<!-- walk: y2v11 ch7 → p.181 -->

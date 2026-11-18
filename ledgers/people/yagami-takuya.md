@@ -263,7 +263,17 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 [note] (p.149) “The Yagami-kun incident” is named in passing; Ibuki suspects something about it; the text never elaborates; he is absent on these pages.
 [mentioned] (p.149) Named in Ibuki's suspicions; not present on these pages.
 
+
 <!-- walk: y2v11 ch6 → p.167 -->
+
+### y2v11 p.179–180 — Ch.7: Siblings who surpassed that
+[scene] (p.179) The 1 a.m. cafeteria confrontation; Yagami's fate is named by Amasawa.
+[says:amasawa-ichika] (p.179) “That's not it, but we were like siblings who had surpassed that kind of relationship.”
+[says:nagumo-miyabi] (p.179) “Yagami? Don't tell me, you were Yagami's girlfriend?”
+[note] (p.179) Her grief is not romantic; it's the loss of a sibling-like bond; his expulsion from the school is the root of her vendetta.
+[mentioned] (p.179) Named as the expelled first-year; not present on these pages.
+
+<!-- walk: y2v11 ch7 → p.181 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

@@ -376,4 +376,73 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 [says:ayanokouji-kiyotaka] (p.161) “You hadn't practiced archery other than yesterday's game, right?”
 [note] (p.161) He watched tutorials in the middle of the night; Nagumo may be irritated; she applauds him despite losing by a single point.
 
+
 <!-- walk: y2v11 ch6 → p.167 -->
+
+### y2v11 p.177–181 — Ch.7: The personal vendetta
+[scene] (p.177) Past 11 p.m. the previous day; Nagumo walks down the darkened hallway alone; she is waiting in the darkened cafeteria; he walks in with his hands in his pockets.
+[says] (p.177) “You came as promised.”
+[says:nagumo-miyabi] (p.177) “I've never refused a woman's call before,”
+[says] (p.177) “Yawn, what a cheesy line. Honestly, I hate your type.”
+[says:nagumo-miyabi] (p.177) “Relax. I'm not into women like you either.”
+[says] (p.177) “So, there was no need to threaten me. That might've been an unnecessary move.”
+[says:nagumo-miyabi] (p.177) “Amasawa, did you really want to be alone with me that much?”
+[says] (p.177) “Opportunities to be alone with a former student council president don't come around often, do they?”
+[says:nagumo-miyabi] (p.177) “I want to confirm something. What would you have done if I hadn't come?”
+[says] (p.177) “I would've beaten up your precious Asahina-senpai, Nagumo-senpai.”
+[says:nagumo-miyabi] (p.178) “Did you show your skills in archery with Ayanokōji to make your threats more effective?”
+[says] (p.178) “Well, yeah. If I don't show that I'm capable, people might dismiss a woman's threats.”
+[says:nagumo-miyabi] (p.178) “Okay, let's get to the point. So, why did you threaten me to call me out?”
+[says] (p.178) “There's a problem that only you can solve, Nagumo-senpai. That's what I want to talk about.”
+[says:nagumo-miyabi] (p.178) “You had plenty of chances to talk during the exchange meeting.”
+[says] (p.178) “By the way, I'm thinking of seriously injuring you, Nagumo-senpai.”
+[says:nagumo-miyabi] (p.178) “Seriously injuring me? That's quite sudden.”
+[says] (p.178) “Is it too unrealistic? Or do you think you can't lose to a girl?”
+[says:nagumo-miyabi] (p.178) “I wonder. Maybe it's both.”
+[says] (p.178) “Will you run away?”
+[says:nagumo-miyabi] (p.178) “Can I at least hear the reason?”
+[says] (p.178) “The reason? Hmm, let's just say it's a personal vendetta.”
+[says:nagumo-miyabi] (p.178) “Personal vendetta, huh?”
+[says] (p.178) “Yes, a personal vendetta. Now, if we take too long, the teachers might find us, and it would be embarrassing if the fact that you were beaten by a girl got out, so can we start?”
+[says:nagumo-miyabi] (p.178) “Just to confirm, do you really think you can beat me?”
+[says] (p.178) “Haha, I've been waiting for you to say that. Let's give it a try.”
+[says:nagumo-miyabi] (p.178) “It's easy to say, but there's nothing in it for me. It would be a problem if I retaliated against a girl who came at me out of personal vendetta.”
+[says] (p.178) “It's pointless to resist anyway, you can just let me beat you up. That way, you'll lose your pride, but you won't get penalized by the school. I recommend it.”
+[says:nagumo-miyabi] (p.178) “Aren't you afraid of being expelled?”
+[says] (p.179) “Of course not. If I get expelled, I have nothing to lose.”
+[says:nagumo-miyabi] (p.179) “So, persuasion is impossible?”
+[says] (p.179) “Yes, I have no 'value.' In other words, I'm invincible.”
+[says:nagumo-miyabi] (p.179) “Did you get cautious because of the recording? Go ahead and answer without holding back. State the reasons behind this so-called personal vendetta.”
+[says] (p.179) “You teamed up with Ayanokōji-senpai and expelled Yagami Takuya, right? It's payback.”
+[says:nagumo-miyabi] (p.179) “Yagami? Don't tell me, you were Yagami's girlfriend?”
+[says] (p.179) “That's not it, but we were like siblings who had surpassed that kind of relationship.”
+[says:nagumo-miyabi] (p.179) “Then aren't you targeting the wrong person? I wasn't the one who led that.”
+[says] (p.179) “I know that. I told you, this is just a personal vendetta. Unfortunately, even if I stand on my head, I can't beat Ayanokōji-senpai, and I thought about beating up Karuizawa-senpai and expelling her, but that's a bit scary.”
+[says:nagumo-miyabi] (p.179) “Scary? Of getting revenge from Ayanokōji? I don't think he cares about what happens to Karuizawa.”
+[says] (p.179) “Ayanokōji-senpai has his own goals. I don't want to interfere with that.”
+[says] (p.179) “People like Nagumo-senpai are well-suited for stories where the character ultimately faces their downfall at the conclusion.”
+[says:nagumo-miyabi] (p.179) “It suits me, huh?”
+[says] (p.179) “Last year and the year before, the one always causing a stir at this school was Horikita Manabu.”
+[says] (p.179) “This year it's Ayanokōji.”
+[says] (p.179) “I'm sure it'll be the same next year after I'm gone.”
+[says] (p.179) “I was indeed enrolled at this school for three years.”
+[says] (p.180) “Even if I attracted attention within my year, it didn't resonate at all with the upper or lower years.”
+[note] (p.179–180) A page break falls inside her speech across these lines; the phrase completes on the next page; the content is unaffected.
+[says] (p.180) “I realized it just before graduation. It's not Horikita-senpai or Ayanokōji that's to blame. It's me who couldn't reach that realm.”
+[says:nagumo-miyabi] (p.180) “But… that's not the case. I wouldn't have been satisfied with that situation either.”
+[says:nagumo-miyabi] (p.180) “That's why I won't quit this game. Next year I'll do it again with Horikita-senpai. And someday I'll have a real match with Ayanokōji and settle it.”
+[says:nagumo-miyabi] (p.180) “Before you put anything into action, I have a gift for you.”
+[says] (p.180) “A gift? I'm the type to throw away presents from men I'm not interested in without opening them.”
+[says:nagumo-miyabi] (p.180) “I see. Then it might end with you throwing it away without opening it. After all, it's just a message from Ayanokōji.”
+[says] (p.180) “...Ayanokōji-senpai...?”
+[says:nagumo-miyabi] (p.180) “If it's a lie to save yourself, it will only widen the wound.”
+[says:nagumo-miyabi] (p.181) “Believe my words or not, it's up to you. The message from Ayanokōji is 'You still have value. Don't waste it.'”
+[note] (p.177–181) She lays everything bare: the summons, the threat, Yagami's expulsion, the vendetta; the gift she can't refuse; the message foresees her.
+[rel:nagumo-miyabi] (p.177–181) She targets him as a revenge punching bag; he hands her the one line that disarms her; she is left speechless in the dark.
+[rel:yagami-takuya] (p.179) “You were Yagami's girlfriend?” — no; they were like siblings who had surpassed that kind of relationship.
+[rel:karuizawa-kei] (p.179) She floats beating up Karuizawa-senpai and expelling her; she drops it out of consideration for Ayanokōji's goals.
+[rel:horikita-manabu] (p.179–180) She names Manabu as the always-causing-a-stir figure of the two years before.
+
+
+
+<!-- walk: y2v11 ch7 → p.181 -->

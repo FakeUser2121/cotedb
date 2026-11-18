@@ -1343,3 +1343,13 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:hashimoto-masayoshi] (p.110) She plants the warning deliberately; she wants him to keep his mouth shut.
 
 <!-- walk: y2v11 ch4 → p.113 -->
+
+### y2v11 p.172–176 — Ch.7: The lottery lives in Yamamura
+[scene] (p.172) Yamamura confesses to Kiyotaka in the dark; the survival and elimination exam haunts her.
+[says:yamamura-miki] (p.173) “If you didn't have the courage to draw a lot, it was the same as abstaining...”
+[note] (p.172–174) The draw: she was on Sakayanagi's side of the scales in the survival and elimination exam — except Kamuro was the other side; Sakayanagi chose the lottery because that was the most equitable decision; she had to be persuaded not to stop it.
+[note] (p.173) She is the one Sakayanagi discarded in an instant — the two are a matched pair by the exam's design; neither is named for the other in the class anymore.
+[note] (p.176) Her two wishes for Kiyotaka's intervention — to know what Sakayanagi thought of her then and now; and that Sakayanagi, who doesn't suit losing, should not struggle in the end-of-year exam.
+[rel:yamamura-miki] (p.172–176) She haunts Sakayanagi's sleep and her decisions; the camp's final act brings the two to the dog park.
+
+<!-- walk: y2v11 ch7 → p.181 -->

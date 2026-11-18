@@ -1086,7 +1086,14 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [says] (p.159) “Katsuragi apparently practiced quite a bit yesterday, and he scored a maximum of 36 points. There's a chance you could lose if you face him.”
 [note] (p.159–161) He faces Hirata Yōsuke; the result is not narrated in these pages; Kiyotaka's 58 takes the match for their group; his group takes four of five.
 
+
 <!-- walk: y2v11 ch6 → p.167 -->
+
+### y2v11 p.168 — Ch.7: The boys are still awake
+[scene] (p.168) Past 11 p.m.; the room is still awake; the uncomfortable atmosphere is long gone; he is involved in the late-night chatter.
+[note] (p.168–169) “Eh? Hey, it's past lights-out, you know? If they find you, you'll get in trouble.” — speaker unattributed in the text; the lights are off; he stays behind as Kiyotaka slips out.
+
+<!-- walk: y2v11 ch7 → p.181 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

@@ -10250,4 +10250,38 @@ walk: y1v1 → DONE
 [note] (p.167) Nagumo: “I'll go a step ahead and start the second phase at Horikita-senpai's place.” — the note is transferred; the target is Horikita Manabu (same university).
 [rel:nagumo-miyabi] (p.165–167) He accepts the charge without laughing at it; he understands the gravity in it; he carries it to his new post.
 
+
 <!-- walk: y2v11 ch6 → p.167 -->
+
+### y2v11 p.168–176 — Ch.7: The vending machine
+[scene] (p.168) Past 11 p.m., long past lights-out; Hiyori texts him — Yamamura is missing from the girls' room; he slips out into the dark corridor to look himself.
+[says:shiina-hiyori] (p.168) “Are you still awake?”
+[says] (p.168) “I'm awake. All the boys are still awake, so don't worry.”
+[says:shiina-hiyori] (p.168) “It seems to be left in the room. I was contemplating whether to go and look for her now... I was wondering if I could ask for your help, Ayanokōji-kun.”
+[says] (p.168) “I'm going looking for something. I'll try to come back without being noticed, if possible. If something happens, you guys can get mad at me.”
+[note] (p.169) A patrolling teacher sweeps the lobby with a flashlight; he waits it out; he heads straight for the vending machine; she is there, leaning against it, staring at a single point.
+[says] (p.170) “The teachers probably don't even think there's a student here.”
+[says:yamamura-miki] (p.170) “Wh-wh-wh-why are you here...?”
+[says] (p.170) “They'll get mad if they find you. I came to take you back before that happens.”
+[says:yamamura-miki] (p.170) “I was confident that… I wouldn't be found… but if you found me, I can't use that excuse, can I…?”
+[says:yamamura-miki] (p.170) “Yes. When I listen to the sound of the vending machine, the unnecessary voices in my mind disappear...”
+[says:yamamura-miki] (p.171) “Usually, they stop immediately and it's resolved… usually...”
+[says] (p.171) “If you have something bothering you, you should try expressing it.”
+[says:yamamura-miki] (p.171) “...No. I'm fine.”
+[says:yamamura-miki] (p.171) “It's not about liking or disliking, I just… don't have that kind of experience...”
+[says] (p.171) “I'm not good at talking either. If there's a small problem, I tend to keep it to myself or try to solve it on my own. So I rarely have the opportunity to consult with someone about my troubles.”
+[says:yamamura-miki] (p.171) “You too, Ayanokōji-kun? But to me… you seem normal. You seem to have a lot of friends. And Shiina-san too. She's bright and cute… I'm jealous...”
+[says:yamamura-miki] (p.172) “I'm… probably scared. Of voicing my thoughts. And of those thoughts spreading unintentionally. I'm scared of being known...”
+[note] (p.172) He opens: can she talk? — the survival and elimination exam — the draw; Kamuro; the lottery; her two wishes; he promises to get her to Sakayanagi's dog-park wait; “I'll get stuck in between some vending machines and talk it over.”
+[says:yamamura-miki] (p.172) “Since the last special exam ended, I've had one question in my mind...”
+[says:yamamura-miki] (p.173) “When I hesitated to draw a lot, Sakayanagi-san said she would stop the lottery. If you didn't have the courage to draw a lot, it was the same as abstaining...”
+[says:yamamura-miki] (p.173) “I strongly felt that Sakayanagi-san wanted me to withdraw at that moment.”
+[says:yamamura-miki] (p.173) “Sakayanagi-san doesn't suit losing... I don't want to see her struggle in the end-of-year exam... I hope she wins.”
+[says] (p.176) “Why don't you try telling her? No one has the right to condemn your actions.”
+[says:yamamura-miki] (p.176) “What if... what if... she doesn't even want to listen to me...?”
+[says] (p.176) “In that case, let's say, I'll get stuck in between some vending machines and talk it over.”
+[note] (p.174) Yamamura watches Tokitō get restrained by Ryūen; she is impressed he stayed silent; she knows everything; he tells her he'll get her there before the end of the camp.
+[rel:yamamura-miki] (p.168–176) He finds her at the vending machine; he listens for hours to the lottery story; he offers to stand between them.
+[rel:shiina-hiyori] (p.168) He delegates the search report to her phone line; she stays in her room as lookout.
+
+<!-- walk: y2v11 ch7 → p.181 -->

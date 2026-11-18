@@ -2349,3 +2349,11 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [note] (p.132) He warns that Kitō is the wild card now; the end-of-year exams will detonate; everything hinges on them.
 
 <!-- walk: y2v11 ch5 → p.144 -->
+
+### y2v11 p.174 — Ch.7: The purge witnessed
+[scene] (p.174) Yamamura confesses to Kiyotaka in the dark; her account of Tokitō's clash with Ryūen surfaces again.
+[says:yamamura-miki] (p.174) “As a result, Tokitō-kun was... forcibly restrained and threatened by Ryūen-kun and his group.”
+[note] (p.174) Her account: Ryūen's 4 p.m. report convinced cutthroat expectations; he corners Tokitō for indulging Sakayanagi; she watched and knows everything.
+[mentioned] (p.174) Named by Yamamura as the threatener; not present on these pages.
+
+<!-- walk: y2v11 ch7 → p.181 -->

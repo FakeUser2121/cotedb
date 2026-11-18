@@ -281,4 +281,31 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 [note] (p.146–147) “Who comes to mind when you think of a student with a small presence?” — Horikita answers “You, Ayanokōji-kun.” — he says to himself: all of these characteristics fit Yamamura.
 [mentioned] (p.146–147) Named in the narration as the archetype of invisibility; not present on these pages.
 
+
 <!-- walk: y2v11 ch6 → p.167 -->
+
+### y2v11 p.168–176 — Ch.7: The vending machine
+[scene] (p.168) Past 11 p.m., long past lights-out; Hiyori texts Ayanokōji that she is missing; he finds her leaning against the vending machine.
+[says] (p.170) “Wh-wh-wh-why are you here...?”
+[says] (p.170) “I was confident that… I wouldn't be found… but if you found me, I can't use that excuse, can I…?”
+[says] (p.170) “Yes. When I listen to the sound of the vending machine, the unnecessary voices in my mind disappear...”
+[says] (p.170) “Usually, they stop immediately and it's resolved… usually...”
+[says] (p.171) “It's not about liking or disliking, I just… don't have that kind of experience...”
+[says] (p.171) “You too, Ayanokōji-kun? But to me… you seem normal. You seem to have a lot of friends. And Shiina-san too. She's bright and cute… I'm jealous...”
+[says] (p.171) “...No. I'm fine.”
+[says] (p.172) “I'm… probably scared. Of voicing my thoughts. And of those thoughts spreading unintentionally. I'm scared of being known...”
+[says] (p.172) “Since the last special exam ended, I've had one question in my mind...”
+[says] (p.173) “When I hesitated to draw a lot, Sakayanagi-san said she would stop the lottery. If you didn't have the courage to draw a lot, it was the same as abstaining...”
+[says] (p.173) “I strongly felt that Sakayanagi-san wanted me to withdraw at that moment.”
+[says] (p.173) “I understand that it can't be helped. At least, when comparing me and Kamuro-san, the value was clear. I didn't wish to have special treatment. I didn't even want to be greedy and wish to be considered a friend. But... I was shocked to know that my existence was something that could be discarded in an instant... even though she used me, saying I was a valuable person...”
+[says] (p.173) “Sakayanagi-san doesn't suit losing... I don't want to see her struggle in the end-of-year exam... I hope she wins.”
+[says] (p.174) “As a result, Tokitō-kun was... forcibly restrained and threatened by Ryūen-kun and his group.”
+[says] (p.176) “What if... what if... she doesn't even want to listen to me...?”
+[note] (p.172–174) She confesses to him the one question her mind keeps returning to — the survival and elimination exam — the draw; Sakayanagi's verdict; being the one Sakayanagi wanted to discard; the conversation includes the camp's lottery and the Kamuro comparison.
+[note] (p.176) He offers: “I'll get stuck in between some vending machines and talk it over.” — she looks at the vending machine shyly and nods.
+[rel:ayanokouji-kiyotaka] (p.168–176) He finds her; he listens for hours; he promises to stand between her and Sakayanagi.
+[rel:sakayanagi-arisu] (p.172–176) The two wishes: to know what Sakayanagi thought of her then, and what she thinks of her now; and that Sakayanagi, who doesn't suit losing, should not struggle in the end-of-year exam.
+[rel:shiina-hiyori] (p.168) Her disappearance triggers Hiyori's worried text; Hiyori stays in the room as lookout.
+
+
+<!-- walk: y2v11 ch7 → p.181 -->

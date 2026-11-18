@@ -650,4 +650,14 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [says] (p.152) “The last time I saw her was at breakfast. She left with you, right?”
 [note] (p.152) She is in the lineup with Kiyotaka, Morishita, Hashimoto, Tsubaki; her check saves them from a wild goose chase inside.
 
+
 <!-- walk: y2v11 ch6 → p.167 -->
+
+### y2v11 p.168–169 — Ch.7: The missing girl
+[scene] (p.168) Past 11 p.m.; she texts Ayanokōji — Yamamura is missing from the girls' room; she weighs going herself, knows she can't be stealthy, and asks for help.
+[says] (p.168) “Are you still awake?”
+[says] (p.168) “It seems to be left in the room. I was contemplating whether to go and look for her now... I was wondering if I could ask for your help, Ayanokōji-kun.”
+[says] (p.169) “Thank you.”
+[note] (p.169) Her reply carries a cute animal stamp; he goes to search while she stays in the room as lookout.
+
+<!-- walk: y2v11 ch7 → p.181 -->
