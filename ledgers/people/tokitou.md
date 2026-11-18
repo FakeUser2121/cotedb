@@ -70,7 +70,7 @@ char_id: tokitou · class: unknown · status: unknown
 
 ### y2v11 p.123–132 — Ch.5: The Tokitō page (unresolvable)
 [scene] (p.123) He is verbally hunted in the experiential hallway from dinner until after dark; he takes the whole beating standing.
-[note] (p.123–132) This Tokitō takes Ryūen\'s fists for talking with Sakayanagi; identity between the two roster Tokitōs (Tokitō Hiroya, Tokitō Katsumi) can not be established on these pages; see volume ledger; no scene rows here.
+[note] (p.123–132) This Tokitō takes Ryūen\'s fists for talking with Sakayanagi; identity between the two roster Tokitōs (Tokitō Hiroya, Tokitō Katsumi) can not be established on these pages; see this volume's coverage notes; no scene rows here.
 
 <!-- walk: y2v11 ch5 → p.144 -->
 ## y2v12

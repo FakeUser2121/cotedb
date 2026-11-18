@@ -590,7 +590,7 @@ walk: y1v1 → DONE
 [thinks] (p.15) System recap for the reader: "We used these private points to purchase daily necessities, meals, even electrical appliances. At this school, points are currency. They are very important."
 [thinks] (p.15) "If you didn’t have any private points, you were forced to live day-today without spending money. You couldn’t use real currency anywhere on campus."
 [status:points] (p.15–16) Class D sat at zero class points since June; every class started with 1000 class points; deposit = class points × 100 paid into each private account on day 1.
-[thinks] (p.16) "However, my perspective changed when I bought a point for the midterm test." — private points can change your situation; you "could likely purchase more than just test points."
+[thinks] (p.16) "However, my perspective changed when I bought a point for the midterm test." — private points can reshape one's situation; one "could likely purchase more than just test points."
 [says] (p.17) "Are you disappointed because the gap between the classes has widened, Horikita?"
 [thinks] (p.18) "The sharp-witted Hirata hadn’t missed a beat. Splendid." (Hirata decoding Horikita's "get something")
 [trait] (p.16–19) Reads Chabashira's hedged closing ("If there are still points left, that is.") as deliberate: "There was deeper meaning behind Chabashira-sensei’s words."
@@ -5874,7 +5874,7 @@ walk: y1v1 → DONE
 [rel:matsushita-chiaki] (p.46–48) Tests her with selected fragments of the past investigation; accepts her as a mind worth recognizing; asks for discretion.
 [scene] (p.49) Night, after 10 PM; Hashimoto from Class 2-A arrives casual-dressed via the stairs; is ambushed into sitting; discusses the exam: he had expected to help Ryūen but even he is blind on the rules; he wants Ayanokōji to transfer to Ryūen's class to make graduating Class A viable.
 [says:hashimoto-masayoshi] (p.49) "Is anyone watching?"
-[scene] (p.50–52) Points discussed: the camp's 3-million reward (he got 600k of 3M, AK got the same — he takes no more than others); the 20M transfer price; Hashimoto's stance: siding with Ryūen regardless; lies are his weapon; AK's parting advice: don't lie to yourself.
+[scene] (p.50–52) Points discussed: the camp's 3-million reward (he got 600k of 3M, AK got the same — he takes no more than others); the 20M transfer price; Hashimoto's stance: siding with Ryūen regardless; lies are his weapon; AK's parting advice: lies are unsustainable.
 [note] (p.49–52) The transfer idea hangs: Hashimoto openly asks him to jump to Class C; he neither confirms nor denies — watches Hashimoto leave; the night's job list advances.
 [rel:hashimoto-masayoshi] (p.49–52) Hears the transfer pitch; hears his own 600k acknowledged; reports the Nagumo payout math.
 

@@ -1089,7 +1089,7 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [scene] (p.49) Night, just after 10 PM; he lets himself in via the stairs, casual clothes, eyes roving the dorm; he asks for advice on the exam; he reveals his position: still siding with Ryūen (his survival requires Ryūen to win); he hoped to leak prep intel but the school disclosed nothing.
 [says] (p.49) "Is anyone watching?"
 [scene] (p.50) He extrapolates: with no disclosed rules, Sakayanagi's preemptive traps fail; the only cost is getting passed over as a representative; he asks the transfer question openly — would Ayanokōji jump to Class C? Fee is 20 million; Ryūen's war chest is deep from first- and third-years; his own share from Nagumo was 600k (he got 3M, spread 20% to him, the rest 160k each); AK covers only 3% of the total.
-[scene] (p.51–52) AK tells him lies will fail against Sakayanagi; he admits lies are his only tool; AK advises: don't lie to yourself; Hashimoto leaves; AK decides this may be the last time he sees him.
+[scene] (p.51–52) AK tells him lies will fail against Sakayanagi; he admits lies are his only tool; AK advises: lies are unsustainable; Hashimoto leaves; AK decides this may be the last time he sees him.
 [note] (p.49–52) His request hangs: should Ayanokōji transfer? Unresolved on-page; he leaves without a yes.
 [rel:ayanokouji-kiyotaka] (p.49–52) Asks him to jump to Ryūen's class; expects it as a final fixture before tomorrow's match.
 

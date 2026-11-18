@@ -856,6 +856,6 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [note] (p.123–132) His hint was meant as urgency only; he didn't know the aim; Ryūen catches him lying about the no-cameras note; he flinches from Hōsen's glare; he reports everything upward.
 [rel:ryuuen-kakeru] (p.123–132) He is Ryūen's trap-setter; he is also terrified of him.
 [rel:housen-kazuomi] (p.129–132) He waves Hōsen over and gets shaken off; he flinches at his stare.
-[note] (p.123–132) The target of the trap is Tokitō; the roster holds two y2v11 Tokitōs and the pages never print his given name; see volume ledger.
+[note] (p.123–132) The target of the trap is Tokitō; the roster holds two y2v11 Tokitōs and the pages never print his given name; see this volume's chapter pages for the full account.
 
 <!-- walk: y2v11 ch5 → p.144 -->

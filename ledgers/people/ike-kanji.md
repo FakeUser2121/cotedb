@@ -93,7 +93,7 @@ aliases used for anchors: ike, kanji, ike-kun
 <!-- walk: y1v1 ch8 → p.202 -->
 
 ### y1v1 p.206, 210–211, 218–220, 227 — Back in, outbidding Sudou, Bacon's triumph
-[action] (p.206) Arrives with Yamauchi under cloud nine from Kushida's invitation; shoots guilty looks at Ayanokōji (silently: Did you tell her about the chat?).
+[action] (p.206) Arrives with Yamauchi under cloud nine from Kushida's invitation; shoots guilty looks at Ayanokōji (silent: had he told Kushida about the chat?).
 [says] (p.206) “Huh? S-study group? No. I mean, studying’s so boring, and Hirata is annoyingly popular. Besides, we planned to cram the day before. Things should work out. We’ve gotten by since junior high doing exactly that.”
 [action] (p.210–211) Erupts at AK's Kushida-boyfriend proposition and competitively bids for the date.
 [says] (p.210) “Huh?! Wh-what are you saying, Ayanokouji! No, date me, Kushida! I’ll get fifty-one points!”

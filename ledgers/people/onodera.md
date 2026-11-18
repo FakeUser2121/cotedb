@@ -171,7 +171,7 @@ char_id: onodera · class: Class 1-D · status: minor
 
 ### y2v11 p.134 — Ch.5: The Onodera question (unresolved)
 [scene] (p.134) Minamikawa's group is named as Satō's conqueror.
-[note] (p.134) Onodera is said to be in Minamikawa's group; it is not clear from these pages whether this is Onodera (roster onodera) or Onodera Kayano (roster onodera-kayano); see volume ledger; no scene rows here.
+[note] (p.134) Onodera is said to be in Minamikawa's group; it is not clear from these pages whether this is Onodera (roster onodera) or Onodera Kayano (roster onodera-kayano); see this volume's coverage notes; no scene rows here.
 
 <!-- walk: y2v11 ch5 → p.144 -->
 ## y2v12
