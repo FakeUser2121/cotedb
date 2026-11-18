@@ -39,14 +39,11 @@ char_id: akiyama · class: unknown · status: unknown
 
 <!-- walk: y2v10.25 → start -->
 
-### y2v10.25 p.1-10 — akiyama mentioned in passing
-[scene] (p.1) Named in this volume.
-[note] (p.1) Passing mentions on pages: p.2.
-[mentioned] (p.1) Passing mention only.
+### y2v10.25 p.2 — SS
+[scene] (p.2) Gym staff; appears to Ichinose and Amikura; asks Ichinose to the counter to rewrite a paperwork mistake; they both go to the counter.
+[note] (p.2) Brief appearance; her lines are instruction only; no character traits shown beyond staff duty.
 
-
-
-
+<!-- walk: y2v10.25 Epilogue → p.2 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

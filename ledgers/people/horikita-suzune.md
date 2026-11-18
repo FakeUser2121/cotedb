@@ -4514,13 +4514,18 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v9.75 → start -->
 
-### y2v9.75 p.1-17 — horikita-suzune mentioned in passing
-[scene] (p.1) Named in this volume.
-[note] (p.1) Passing mentions on pages: p.4-8, p.17.
-[mentioned] (p.1) Passing mention only.
+### y2v9.75 p.4–8 — Horikita at the supermarket and at her own place
+[scene] (p.4) Accepts Kushida's suggestion to shop together on impulse, walks into the supermarket with her; at the end of her shopping, she catches Ibuki in the ready-made food corner.
+[scene] (p.5–6) Stalks Ibuki's basket with Kushida; forces Ibuki to put the instant noodles and sweet bread back; in front of everyone, orders her body back into shape for their martial arts match someday.
+[scene] (p.7–8) Offers Ibuki lunch at her room; tells Kushida and Ayanokōji they may join; cooking lesson follows; the fire drill goes predictably.
+[says] (p.5) "Well, that might be a good idea."
+[says] (p.7) "You've been living on a similar diet during this winter break, haven't you? If you continue like this, you won't grow anything, you know."
+[says] (p.7) "You're free after this, right? Come to my room. I'll let you have lunch. I'll also teach you how to make some simple dishes."
+[rel:kushida-kikyou] (p.4–8) On the offense against Ibuki's diet.
+[rel:ibuki-mio] (p.6–8) Cleans up Ibuki's basket; assumes responsibility for her meal.
+[rel:ayanokouji-kiyotaka] (p.8) Mentions he'll accept; she has him watch her cook.
 
-<!-- walk: y2v9.75 Epilogue → p.17 -->
-
+<!-- walk: y2v9.75 Epilogue → p.8 -->
 ## y2v10
 
 <!-- walk: y2v10 → start -->

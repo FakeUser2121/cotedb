@@ -9425,13 +9425,15 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v9.75 → start -->
 
-### y2v9.75 p.1-17 — ayanokouji-kiyotaka mentioned in passing
-[scene] (p.1) Named in this volume.
-[note] (p.1) Passing mentions on pages: p.4.
-[mentioned] (p.1) Passing mention only.
+### y2v9.75 p.4–8 — The supermarket trip with Kushida, Horikita and Ibuki
+[scene] (p.4) On January 3rd he heads to the supermarket alone; Kushida greets him and spots Horikita heading the same way; she ropes them into shopping together; all three put ingredients in their baskets.
+[scene] (p.5–6) They spot Ibuki sulking over the ready-made food; Kushida stalks behind her and peeks in her basket (instant ramen, sweet bread); Ibuki yells; Horikita grabs the basket and puts the ready-made items back.
+[scene] (p.7–8) Horikita declares war with Ibuki, offers to cook her lunch at her room after learning she doesn't cook; Kushida gets invited too; he accepts; the four go to Horikita's room; the lunch party is famously "extremely difficult and tumultuous."
+[rel:horikita-suzune] (p.4–8) She invites the three of them to lunch at her room; she cooks.
+[rel:kushida-kikyou] (p.4–8) She fishes him along with them.
+[rel:ibuki-mio] (p.5–8) Shares a ready-made-food-free lunch with him at Horikita's room.
 
-<!-- walk: y2v9.75 Epilogue → p.17 -->
-
+<!-- walk: y2v9.75 Epilogue → p.8 -->
 ## y2v10
 
 <!-- walk: y2v10 → start -->
@@ -9445,11 +9447,18 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v10.25 → start -->
 
-### y2v10.25 p.1-10 — ayanokouji-kiyotaka mentioned in passing
-[scene] (p.1) Named in this volume.
-[note] (p.1) Passing mentions on pages: p.1-2, p.4.
-[mentioned] (p.1) Passing mention only.
+### y2v10.25 p.1–9 — SS: From That Time On…
+[scene] (p.1) After the survival exam ends, the first break arrives; he goes to the gym early; remembers to look up a certain word — a red-panda photo article about the exam question he'd gotten wrong.
+[scene] (p.2) Ichinose and Amikura arrive; AMI Ichinose ribs him about flubbing the tapioca question; Amikura teases about not watching TV.
+[scene] (p.3–8) With Amikura alone after Ichinose leaves for the counter, she tells the story of Ichinose's misdirected message to Ishizaki (“I want to calm down and talk. Can we meet in person?”) during the deserted-island exam period, the rumor that she liked him, and how the girls secretly helped rescue her; she implores him not to hurt Honami-chan.
+[scene] (p.8–9) Ichinose returns; he exchanges texts with her; she guesses he and Amikura talked about her ("Mako-chan"); he deflects ("Looks like you've got a good best friend."); she replies with a stamp; he heads home, framing the story as a new, valuable insight about Honami-chan.
+[says] (p.2) "Is it related to the exam question? Ayanokōji-kun, you got it wrong, didn't you?"
+[says] (p.8) "Were you having another private talk with Mako-chan? About me?"
+[says] (p.9) "Looks like you've got a good best friend."
+[rel:ichinose-honami] (p.1–9) She notices his curiosity; the both check up on each other.
+[rel:amikura-mako] (p.3–8) Listens to her warning; accepts the boundary; doesn't promise easy answers.
 
+<!-- walk: y2v10.25 Epilogue → p.9 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

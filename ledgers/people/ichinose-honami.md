@@ -1902,11 +1902,14 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v10.25 → start -->
 
-### y2v10.25 p.1-10 — ichinose-honami mentioned in passing
-[scene] (p.1) Named in this volume.
-[note] (p.1) Passing mentions on pages: p.1-9.
-[mentioned] (p.1) Passing mention only.
+### y2v10.25 p.1–9 — SS: From That Time On…
+[scene] (p.1–2) Joins Ayanokōji at the gym with Amikura; says his recent forgetting of his TV special exam is amusing; goes with Akiyama to the counter over paperwork.
+[scene] (p.9) Sends him a message afterward, guessing he and Amikura talked about her with a bit of anxiety ("Mako-chan"); he deflects; she sends a stamp with the utmost happiness.
+[says] (p.2) "Is it related to the exam question? Ayanokōji-kun, you got it wrong, didn't you?"
+[says] (p.9) "Were you having another private talk with Mako-chan? About me?"
+[rel:amikura-mako] (p.1–9) Her steady alibi; she trusts her to manage Ayanokōji.
 
+<!-- walk: y2v10.25 Epilogue → p.9 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->
