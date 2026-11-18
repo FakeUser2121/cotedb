@@ -335,11 +335,6 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — amasawa-ichika mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.40, p.62, p.64-66, p.92-95, p.100-102, p.104-107; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.62–66 — Ch.2: She promotes herself
 [scene] (p.62) Just before the group disbands, Amasawa appears down the hallway, impatient, pretending she wasn't waiting; Kiyotaka and Nagumo are caught off guard.
 [says] (p.62) “Ah, finally you're out. You're done talking, right?”

@@ -1944,11 +1944,6 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — hirata-yousuke mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.40, p.73, p.86, p.121, p.160, p.163; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.40 — Ch.2: Named in the stacked group
 [scene] (p.40) The organization chart lists Nagumo's group on the bus printout.
 [mentioned] (p.40) Named as the second-year Class B member of Nagumo's group: Horikita Suzune, Hirata Yōsuke.

@@ -1115,11 +1115,6 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — ibuki-mio mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.93-94, p.100-106, p.115, p.117, p.145-151, p.161; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.93–95 — Ch.3: The sparring partner on cue
 [scene] (p.93) She reveals she was hiding nearby; she and Horikita are both willing to fight Amasawa again.
 [says] (p.93) “Tch, you noticed.”

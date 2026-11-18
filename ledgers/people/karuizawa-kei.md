@@ -1936,11 +1936,6 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — karuizawa-kei mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.19, p.21, p.26, p.30, p.34-35, p.37-38; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.34–44 — Ch.2: The way there, with Kiyotaka
 [scene] (p.34) 9:30 Thursday morning; she's seated right by Kiyotaka on the bus; group 7 with Tanaka-senpai; her movie date March 26 fixed on the bus.
 [says] (p.34) “I'll sit with Kiyotaka.”

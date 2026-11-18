@@ -2294,11 +2294,6 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — ryuuen-kakeru mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.20, p.24-25, p.40, p.68, p.86, p.98; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.40–41 — Ch.2: The absence on the list
 [scene] (p.40) The organization chart is read on the bus; Ryūen is named as an example of high-OAA chemistry in any group.
 [mentioned] (p.40) Named as the example: a group with Sakayanagi or Ryūen might beat Nagumo's group.
@@ -2336,7 +2331,6 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:ishizaki-daichi] (p.123–132) He sets the trap; he is dragged through Ryūen's punishing session; he reports everything.
 [rel:housen-kazuomi] (p.128–132) He appears at the right moment; Ryūen sizes him up; Hōsen refuses to leave.
 [rel:yamada-albert] (p.130–132) Albert engages Hōsen; his fist gets numbed.
-
 
 [says] (p.129) “Get lost. You're in the way.”
 [says] (p.132) “Don't make me laugh. If it's just simple power, he might be able to compete with him, but if you compare their overall strength, there's no comparison. The source of Ayanokōji's strength is not so simple.”

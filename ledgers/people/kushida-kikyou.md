@@ -1940,11 +1940,6 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — kushida-kikyou mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.115-117, p.121, p.150, p.185-186, p.188, p.197; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.115 — Ch.5: On Kushida's lips
 [scene] (p.115) She is named as the opposing group's anchor at the sculpture; sixth consecutive participation.
 [says] (p.115) “It seems that your group had a good start with five consecutive wins yesterday, Ayanokōji-kun.”

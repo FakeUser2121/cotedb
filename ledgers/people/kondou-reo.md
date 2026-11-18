@@ -23,11 +23,6 @@
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — kondou-reo mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.124; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.126 — Ch.5: The Kondō warning
 [scene] (p.126) Ryūen had particularly warned Kondō and Jima, in Sakayanagi's group from the bus announcement on.
 [note] (p.126) Kondō — very likely Kondō Reo (only rostered Kondō with y2v11); Jima is not on the roster; no scene; purely a warning named on these pages.

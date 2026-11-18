@@ -119,11 +119,6 @@ char_id: utomiya-riku · class: Class 1-C · status: unknown
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — utomiya-riku mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.130-131, p.174; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.130–132 — Ch.5: The mediator nobody asked for
 [scene] (p.130) He catches the commotion; talks straight into Ryūen; the third-years gather.
 [says] (p.130) “Excuse me, but could you let go of your hand, Ryūen-senpai?”

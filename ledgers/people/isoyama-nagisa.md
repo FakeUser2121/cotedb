@@ -44,11 +44,6 @@ char_id: isoyama-nagisa · class: unknown · status: unknown
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — isoyama-nagisa mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.126; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.126 — Ch.5: The witness who kept quiet
 [scene] (p.126) Ryūen mocks Tokitō for telling Isoyama to stay silent.
 [note] (p.126) He saw them talking; Tokitō ordered him to keep quiet; which order he chose is not stated — Ryūen only asks the question.

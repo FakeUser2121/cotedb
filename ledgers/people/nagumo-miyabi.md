@@ -732,11 +732,6 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — nagumo-miyabi mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.39, p.53-62, p.64-65, p.67-72, p.78, p.84; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.53–62 — Ch.2: The bet he sets before graduation
 [scene] (p.53) Rest Area, just before one; drooping of boredom with Asahina; beckons Kiyotaka over; Asahina muscles into the sofa next to him.
 [says] (p.53) “Need? Well, it's not much of a need, but I do have something to talk about.”

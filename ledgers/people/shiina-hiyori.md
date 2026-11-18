@@ -602,11 +602,6 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — shiina-hiyori mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.46, p.48-49, p.108, p.137, p.140, p.171; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.47–52 — Ch.2: The gentle magnet
 [scene] (p.47) She walks up to the Group 20 gathering; she greets Ayanokōji warmly; she talks Yamamura into trusting her.
 [says] (p.47) “Good morning, Ayanokōji-kun.”

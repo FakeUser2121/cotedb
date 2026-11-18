@@ -264,11 +264,6 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — housen-kazuomi mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.49, p.58, p.62, p.87, p.109, p.116; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.50 — Ch.2: The immovable first-year
 [scene] (p.50) After the group lunch orders; Hashimoto reasons that even first-years with strong personalities like Hōsen would not object.
 [note] (p.50) Cited as an example of a strong personality among the first-years; no further detail on these pages.

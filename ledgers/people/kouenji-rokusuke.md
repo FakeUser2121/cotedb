@@ -976,11 +976,6 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — kouenji-rokusuke mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.13, p.40, p.49-50, p.72-79, p.81, p.83; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.49–50 — Ch.2: The desertion from Group 6
 [scene] (p.49) During the Group 20 lunch line-up; in another group nearby, Kōenji slips away from his leader without listening; the first-years are bewildered; Inogashira looks at Ayanokōji with an awkward lift of the shoulders.
 [note] (p.50) “Wait a minute, hey! Kōenji!” — untagged speaker; translation leaves attribution unresolved.

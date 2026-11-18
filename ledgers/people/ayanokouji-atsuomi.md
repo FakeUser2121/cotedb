@@ -597,12 +597,3 @@ char_id: ayanokouji-atsuomi · role: White Room director, Ayanokōji’s father 
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — ayanokouji-atsuomi mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.15, p.19, p.22, p.26-28, p.32, p.46-50; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
-
-
-
-

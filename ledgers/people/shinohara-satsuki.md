@@ -472,11 +472,6 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — shinohara-satsuki mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.90; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.90 — Ch.3: Named with Sakayanagi's group
 [scene] (p.90) Shinohara is named as assigned to the same group as Sakayanagi.
 [note] (p.90) Kiyotaka considers extracting info from her, but she is not the type to keep her mouth shut or act; the scouting plan goes nowhere.

@@ -260,11 +260,6 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — kitou-hayato mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.88, p.91, p.98, p.111-113, p.121, p.123-124; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.88–98 — Ch.3: The angriest man in Class A
 [scene] (p.88) Hashimoto whispers that Kitō is really angry at the betrayal; also recalled for pillow-fighting Ryūen on a school trip.
 [note] (p.88) He is named as Class A's angriest man; Hashimoto expects him to act when the betrayal goes public.

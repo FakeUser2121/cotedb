@@ -1319,11 +1319,6 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — ike-kanji mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.10, p.13-17, p.19, p.21, p.23-24, p.26-27; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.39 — Ch.2: Sizing up Nagumo's group
 [scene] (p.39) On the bus, reading the freshly distributed organization chart; after Sonoda asks about the bias, Ike speaks up about the group led by Nagumo.
 [says] (p.39) “Wow, it's true. Isn't Nagumo-senpai's group quite dangerous?”

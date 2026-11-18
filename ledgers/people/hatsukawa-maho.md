@@ -16,11 +16,6 @@ char_id: hatsukawa-maho · class: unknown · status: unknown
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — hatsukawa-maho mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.46, p.140; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.46 — Ch.2: Group 20's second-year Class D
 [scene] (p.46) At the inn, Kiyotaka reads the Group 20 roster.
 [mentioned] (p.46) Named as the second-year Class D member of Group 20.

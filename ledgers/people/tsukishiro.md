@@ -381,11 +381,6 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — tsukishiro mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.65-66, p.180, p.183; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.65 — Ch.2: The information chain
 [scene] (p.65) In the hallway; Amasawa explains how she knew about the exchange meeting in advance.
 [note] (p.65) Tsukishiro is the other (\“who that man prepared and had Tsukishiro manage\”) through whom the camp plans were leaked in advance; no further detail on these pages.

@@ -1281,11 +1281,6 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — sakayanagi-arisu mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.10-11, p.19, p.21-25, p.29-30, p.40, p.86-91; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.40–41 — Ch.2: The absence on the list
 [scene] (p.40) The organization chart is read on the bus; Sakayanagi is named as an example of high-OAA chemistry in any group.
 [mentioned] (p.40) Named as the example: a group with Sakayanagi or Ryūen might beat Nagumo's group.

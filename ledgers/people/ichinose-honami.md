@@ -1887,11 +1887,6 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — ichinose-honami mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.37-38, p.121, p.194, p.209; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.37–38 — Ch.2: Absent, feared, unseen
 [scene] (p.37) In the bus printouts, Ichinose is named as one of the two absent second-year students.
 [note] (p.37) Kiyotaka will not get the chance to involve her at the camp; her roommate dread of sharing with Ichinose is Kei's story and never materializes on these pages.

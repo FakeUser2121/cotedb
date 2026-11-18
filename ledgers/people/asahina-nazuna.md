@@ -159,11 +159,6 @@ char_id: asahina-nazuna · class: Class 2-A · status: supporting
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — asahina-nazuna mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.53-57, p.59, p.61, p.64, p.79, p.81-83; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.53–63 — Ch.2: Ride-or-die Nazuna
 [scene] (p.53) Rest Area, just before one; bored to death with Nagumo; she muscle-sits into the sofa beside him as Kiyotaka arrives.
 [says] (p.53) “Hey there, Ayanokōji-kun.”

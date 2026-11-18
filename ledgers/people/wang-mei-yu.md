@@ -338,11 +338,6 @@ char_id: wang-mei-yu · status: minor
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — wang-mei-yu mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.73; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.73 — Ch.2: Mii-chan
 [scene] (p.73) Kiyotaka reflects on his policy toward Kōenji, solidified after his last conversation with Mii-chan.
 [note] (p.73) \“Mii-chan\” is Wang Mei-Yu's alias; Kiyotaka's last Kōenji interaction in his head traces to her; no further detail on these pages.

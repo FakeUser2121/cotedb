@@ -251,11 +251,6 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — yagami-takuya mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.65, p.148-149, p.179; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.65 — Ch.2: The information chain
 [scene] (p.65) In the hallway; Amasawa explains how she knew about the exchange meeting in advance.
 [note] (p.65) Yagami is one of the two (\“Yagami who that man prepared\”) through whom the camp plans were leaked in advance; no further detail on these pages.
