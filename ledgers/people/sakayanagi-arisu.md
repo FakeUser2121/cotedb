@@ -917,15 +917,67 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v12.5 → start -->
 
-### y2v12.5 pp.31-42, 93-99, 128-138, 194-203 — Ch.2, Ch.6, Ch.7, Ch.9
+### y2v12.5 p.31–42 — Ch.2: Her farewell conversation with Ryūen
+[scene] (p.31) Sakayanagi waits at the outskirts of the school, admiring the scenery, cane in hand, before Ryūen arrives.
+[says] (p.31) “Regrettably, since my legs are quite inadequate, I have to carry out my schedule a bit earlier than the average person.”
+[says] (p.31) “And besides, knowing this is going to be the last time I get to see this scenery, I end up feeling reluctant to part with it.”
+[says] (p.32) “Thank you for giving me this grace period right up until the time of my voluntary withdrawal. There was still unfinished business I needed to take care of, which did require some time, and having it granted was helpful.”
+[says] (p.32) “Oh, was that not the case?”
+[says] (p.32) “I see. So it was just for your own sake. I shall retract my words of thanks then.”
+[says] (p.32) “As promised, I will be leaving this school soon, but what business did you have with me?”
+[says] (p.32) “Please feel free to ask. If it’s something I can answer, I will gladly do so.”
+[says] (p.33) “Well, what do you think? How did I appear in your eyes?”
+[says] (p.33) “Not satisfied? The matter was settled clearly, wasn’t it?”
+[says] (p.33) “You judged that you exerted your full strength and stepped down from the battle. But that was just your premature calculation. It wasn’t the real conclusion.”
+[says] (p.34) “Whether you accept it or not, the result is the result. It’s unchangeable.”
+[says] (p.34) “Even so… I understand your feelings, Ryūen-kun. It must feel like a fishbone stuck in your throat when you don’t understand the reason why I accepted defeat all on my own.”
+[says] (p.34) “The message I received from him through you and Hashimoto-kun was about the future Ayanokōji-kun envisions.”
+[says] (p.34) “He has one more year of school life left. He wanted you, not me. If one of us had to be expelled and disappear, he wanted to fight Ryūen Kakeru, not Sakayanagi Arisu—”
+[says] (p.34) “Well, I find it interesting to leave that unpleasant feeling as it is... but since I said I would answer what I can, let me tell you in detail.”
+[says] (p.35) “You might’ve done so. You are simpler than you think.”
+[says] (p.35) “Indeed, if this message had been conveyed directly by you, Hashimoto-kun, or some third party, I wouldn’t have stepped down from the match either.”
+[says] (p.35) “Because it was a hidden message, I judged that picking up on it was the best course of action.”
+[says] (p.35) “Yes, I suppose this is something only I can understand.”
+[says] (p.35) “Of course, I don’t completely agree. Honestly, I was bedridden for half a day afterward.”
+[says] (p.35) “I understand it’s frustrating not to have been able to overcome the challenge yourself. But even if I had forcibly defeated you... no, let’s not dwell on what-ifs.”
+[says] (p.36) “I see. Indeed, that is true. But even if you’d kept the traitor rights and used it strategically, I wouldn’t have lost.”
+[says] (p.36) “You’re in a more unsettled state right now than you imagine. Do you think you can beat Ayanokōji-kun like that?”
+[says] (p.36) “I see. But do you think you can win in just one more year?”
+[says] (p.36) “Do you really feel that way? Right now, you seem quite unsteady. Ayanokōji-kun would probably have the same impression if he saw you now.”
+[says] (p.36) “You don’t like it, huh? You’ve been saying some pretty idealistic things. Isn’t it your principle to use any means necessary to win? You couldn’t ignore the message Ayanokōji-kun wanted to send to me, and you were manipulated. Your strength was simply insufficient. I accepted defeat knowing the content of the message, and my strength was insufficient. Isn’t that all there is to it?”
+[says] (p.36) “Don’t mistake me for a saint. The core of Ayanokōji-kun’s actions is selfish. If it benefits him, others are nothing but disposable pawns. I think you and I are similar types of people, but there’s no comparison, Ryūen-kun. He truly believes this from the bottom of his heart. And he has evolved further in this school. He found a purpose. And for that purpose, he would hurt someone, push them to expulsion, and even manipulate others’ victories and defeats. That is the person called Ayanokōji Kiyotaka. He will use anything and anyone if it benefits him. Someone’s faint romantic feelings, special relationships—everything is used for his own ends.”
+[says] (p.37) “I pride myself on having feelings for Ayanokōji-kun that are second to none.”
+[says] (p.37) “I understand—the feeling of not liking it.”
+[says] (p.37) “Considering the outcome, he even calculated that you would agonize over it. The only way his calculation could be wrong is if you suffer mentally and lose your fighting spirit over something of this magnitude.”
+[says] (p.37) “It’s really regrettable, isn’t it? Not being able to continue watching Ayanokōji-kun’s actions from the front row.”
+[says] (p.37) “Unfortunately, I have no such intention. I’ve already packed my bags. Besides, I think this incident has been a good learning experience for me. It has broadened my perspective.”
+[says] (p.38) “Let’s not make such graceless gestures.”
+[says] (p.38) “Still, it was unexpected. Considering how you provoked me when we met, I thought you would be happy with this result...”
+[says] (p.38) “I will give you a solution. If you are unwilling to accept the reality that you have won, it would be best for you to simply withdraw from school.”
+[says] (p.38) “Right? If you want to lose to me, feel free to lose even now. If you choose to withdraw before me, that would undoubtedly be a defeat.”
+[says] (p.38) “Fufu, well, those were my honest feelings, but I admit it was said in a rather mean way.”
+[says] (p.38) “Fighting against Ayanokōji-kun means you will also have to confront the contradictions you currently hold. He cannot be measured by simple standards. Without turning your contradictions into your weapons, you cannot possibly stand against him. Even I felt I had misjudged him.”
+[says] (p.39) “What I said earlier about you withdrawing is true. However, losing is always an option. Fortunately, you have won. Therefore, you still have the right to continue fighting. To easily give that up would be foolish, wouldn’t it?”
+[says] (p.39) “You have no choice but to continue fighting tenaciously and to cling on. There are things that can only be obtained by doing so. Eventually, they will benefit you. However, I cannot guarantee that what awaits at the end is hope.”
+[says] (p.39) “While you struggle, I intend to wait in anticipation for the day I can have a rematch with him.”
+[says] (p.39) “Of course. I did stop for a moment at that time, but my feelings haven’t changed at all. I’m repeating myself at this point, but Ayanokōji-kun is special to me.”
+[says] (p.39) “Even though you are weakened, it seems your spirit isn’t dead.”
+[says] (p.39) “I’ve experienced similar humiliation at this school before. Perhaps those experiences were useful.”
+[says] (p.39) “Let me give you my greatest advice—know that you cannot defeat him alone.”
+[says] (p.41) “You should be well aware of the height of the wall that is Ayanokōji-kun. You have grown over the two years of school life here, but you cannot possibly overcome that wall. You may utilize brutality and violence, but to Ayanokōji-kun, those are child’s play. He can fight in your area of expertise without hesitation.”
+[says] (p.41) “You need to change your way of thinking and adopt more flexible thinking. It’s nearly impossible to defeat the nearly flawless Ayanokōji Kiyotaka-kun. Not only directly, but even cunning strategies won’t work. Therefore… I will create a special weakness in him for you.”
+[says] (p.41) “Yes. That might help you someday. No matter how brilliant his mind is, or rather because it is so brilliant, unexpected weaknesses can arise.”
+[says] (p.41) “It might be good to continue wandering for a while. If you don’t give up, a path will open up.”
+[says] (p.41) “That is the highest compliment, I suppose.”
+[says] (p.41) “Is it about time? I have another appointment after this.”
+[says] (p.41) “I was given the name of the school where Masumi-san transferred. I intend to visit her first to apologize.”
+[says] (p.41) “Well… knowing her, the first thing she’ll probably do is sigh.”
+[says] (p.41) “Let’s meet again sometime. Until then, please avoid an unsightly expulsion.”
+[rel:ryuuen-kakeru] (p.31–42) She warns him he cannot defeat Ayanokōji alone; she will create a special weakness in Ayanokōji to help him someday.
+[rel:ayanokouji-kiyotaka] (p.34–42) She lost to him willingly for the sake of his hidden message; she will watch for a rematch.
+[rel:kamuro-masumi] (p.41) She intends to visit the school Masumi transferred to, to apologize.
 
-[scene] (p.31-42) Mentioned/appears in Ch.2, Ch.6, Ch.7, Ch.9.
-[rel:ayanokouji-kiyotaka] (pp.31-42, 93-99, 128-138, 194-203) Appears in this volume.
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
+<!-- walk: y2v12.5 Ch.2 → p.42 -->
 ## y3v3
 
 <!-- walk: y3v3 → start -->

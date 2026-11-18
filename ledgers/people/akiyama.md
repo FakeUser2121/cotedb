@@ -44,6 +44,14 @@ char_id: akiyama · class: unknown · status: unknown
 [note] (p.2) Brief appearance; her lines are instruction only; no character traits shown beyond staff duty.
 
 <!-- walk: y2v10.25 Epilogue → p.2 -->
+## y2v12
+
+<!-- walk: y2v12 → start -->
+
+### y2v12 p.12-228 — akiyama: no page hits
+[scene] (p.12) Rostered for this volume.
+[note] (p.12) No occurrence of this name (or its published/aliased forms) found anywhere in the volume text on a full read of pp.10-228. The roster listing for y2v12 appears stale for this character; not investigated further.
+
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

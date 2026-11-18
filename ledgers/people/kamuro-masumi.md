@@ -283,15 +283,14 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 
 <!-- walk: y2v12.5 → start -->
 
-### y2v12.5 pp.93-99 — Ch.6
+### y2v12.5 p.41, p.95, p.98 — Kamuro Masumi: passing mentions
+[scene] (p.41) Named in this volume.
+[mentioned] (p.41) Sakayanagi says she was given the name of the school where Masumi transferred; she intends to visit her first to apologize.
+[mentioned] (p.95) Sakayanagi tells Ayanokōji: “Previously, it would’ve been Masumi-san, Hashimoto-kun, and then Kitō-kun.” Kamuro had withdrawn from school.
+[mentioned] (p.98) Sakayanagi resolves to go meet Masumi-san after completing her requests of Ayanokōji.
+[note] (p.41, 95, 98) Kamuro Masumi does not appear on-page; only named in dialogue and narration.
 
-[scene] (p.93-99) Mentioned/appears in Ch.6.
-[rel:ayanokouji-kiyotaka] (pp.93-99) Appears in this volume.
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
+<!-- walk: y2v12.5 Ch.6 → p.98 -->
 ## y3v1
 
 <!-- walk: y3v1 → start -->
