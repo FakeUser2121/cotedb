@@ -1033,7 +1033,7 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v4.5 → start -->
 ### y2v4.5 p.136–151 — The Amasawa investigation pact
-[scene] (p.136–151) Horikita summons her to the deck (twice-baked strategy); about Amasawa: revenge-match talk, handwriting analysis, "beautiful handwriting...a first-year possibility", alliance of two against the White Room student and Nagumo.
+[scene] (p.136–151) Horikita summons her to the deck (twice-baked strategy); about Amasawa: revenge-match talk, handwriting analysis ("beautiful handwriting"), an alliance of two against the White Room student and Nagumo.
 [says] (p.137) “Huh? As I see it, you're the one harassing me by calling me out.”
 [says] (p.137) “Huh?…Fuckin' hell.”
 [says] (p.138) “That shitty arrogant first-year.”
@@ -1050,7 +1050,7 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [says] (p.149) “The other side has two, so we should have two as well.”
 [says] (p.149) “If you absolutely insist, then I guess I've got no choice but to lend a hand.”
 [says] (p.150) “You know…I'm gonna say it again, but are you incapable of being honest?”
-[trait] (p.136–151) Rough-spoken martial artist; proud of her undefeated second-year status; thaws into cooperation with Horikita — her "he can handle it on his own" logic "You can have no idea how strong Amasawa is"; senses when someone is lying (about Amasawa).
+[trait] (p.136–151) Rough-spoken martial artist; proud of her undefeated second-year status; thaws into cooperation with Horikita — she holds Amasawa "in a completely different dimension to the world we live in" (p.141); senses when someone is lying (about Amasawa).
 [rel:horikita-suzune] (p.136–151) Accepts her offered investigation because losing to Amasawa would gall worse than anything; takes the tea and the alliance.
 [rel:amasawa-ichika] (p.136–151) The subject of Horikita's questions; a woman whose strength "ain't normal for a first-year" — in "a completely different dimension."
 [rel:ayanokouji-kiyotaka] (p.141, 147–149) Learns, from Horikita, about the rooftop incident and his immeasurable ability — "anybody would think that considering his strength."

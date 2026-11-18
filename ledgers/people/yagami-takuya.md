@@ -152,7 +152,7 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 [mentioned] (p.200) "What about Yagami-kun? Even if I drop out, there will still be people that know about you."
 [mentioned] (p.201) "In the meantime, I'll just have to think up another way to get rid of Ayanokōji-kun, and then it's all over. And as for Yagami-kun, I think he'll be okay even if I don't do anything. He's a serious guy who just likes me."
 [mentioned] (p.255) "Yagami would keep talking forever, even when he was left alone."
-[mentioned] (p.256) "Yagami grinned awkwardly."
+[mentioned] (p.256) "a grin with his teeth showing awkwardly" — unlike his usual refreshing one.
 [mentioned] (p.257) "Yagami opened the door to the guest cabin and sent Amasawa off like a gentleman."
 
 <!-- walk: y2v4.5 ch6 → p.267 -->

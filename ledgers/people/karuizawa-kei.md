@@ -1793,7 +1793,7 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [says] (p.223) “…I love you.”
 [says] (p.223) “Yep, I knew it, you're the best… I'm absolutely never giving you to anyone else.”
 [says] (p.224) “…I love you.”
-[note] (p.220–223) She misunderstands him as dating Nanase ("an underclassman was seen repeatedly meeting with some first-year girl"); he lets it lie; Nagumo's broadcast.
+[note] (p.220–223) She misunderstands him as dating Nanase; the rumour that rides on his meetings with her — "you were seen repeatedly meeting with some first-year girl" (Nagumo, p.219); he lets it lie; Nagumo's broadcast.
 [rel:ayanokouji-kiyotaka] (p.217–224) She calls him from her room; they say "I love you"; she says he'll protect her; he calls her "I love you" back, awkwardly.
 
 

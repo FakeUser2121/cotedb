@@ -22,7 +22,7 @@ char_id: kurachi · class: unknown · status: unknown
 [says] (p.189) “Yeah. He said he wanted me to attack Ayanokōji-senpai and would give me the money after the special exam ended.”
 [says] (p.189) “Seriously, really, it's the truth!”
 [says] (p.190) “Komiya? What are you talking about? I got no idea. No, I really don't know. Anyway, don't tell Hōsen that I had anything to do with it, yeah?”
-[note] (p.186–191) Kurachi Naohiro is a first-year Class C; strong on the OAA only in physical ability (per Ryūen's check p.190 — an A); he took the money but did nothing; the story he was given was a "pretend attack."
+[note] (p.186–191) Kurachi Naohiro is a first-year Class C; strong on the OAA only in physical ability (per Ryūen's check p.190 — an A); he took the money but did nothing; the story he was given was a pretend attack he was told to fake.
 [rel:utomiya-riku] (p.189–191) Fingered by him as the planner; he knows the money trail but not the mastermind.
 [rel:nanase-tsubasa] (p.183–191) Breaks under her questioning; begs her to keep Hōsen away.
 

@@ -218,8 +218,8 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 
 ### y2v4.5 p.127, 168, 218, 220 — Mentions
 [mentioned] (p.127) "Starting with Matsushita, many students had become skeptical of my abilities."
-[mentioned] (p.168) "Matsushita was aware of the relationship — judging from Matsushita's behaviour, there was no doubt about the fact that Satō told her."
-[mentioned] (p.218) "the thing with Satō, who'd once confessed to me, and had a chat with Matsushita also crossed my mind."
+[mentioned] (p.168) Matsushita was aware of the relationship — Satō told her; her behaviour confirms it.
+[mentioned] (p.218) "the fact that I paired up with Satō, who'd once confessed to me, and had a chat with Matsushita also crossed my mind."
 [mentioned] (p.220) "numerous people would've seen us. Even Matsushita knew about it."
 
 <!-- walk: y2v4.5 ch6 → p.267 -->

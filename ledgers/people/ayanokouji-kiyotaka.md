@@ -8735,7 +8735,7 @@ walk: y1v1 → DONE
 [says:sakayanagi-arisu] (p.89) “That wish will end up strangling him soon enough”
 [note] (p.89) Sakayanagi's phone rings; she answers, says "Is that so? I'll be right there." and leaves immediately — her "appointment with someone after this."
 [note] (p.85–89) She is, in substance, his ally and his enemy on the same coin — she will hurt Ichinose to win her trust and she warns him to be careful — "And to go along with that, you've been getting a lot of strange looks from the third-year students, right?" (p.86).
-[rel:sakayanagi-arisu] (p.85–89) Her "ally/enemy" paradox is now explicit to him.
+[rel:sakayanagi-arisu] (p.85–89) Her ally/enemy paradox is now explicit to him.
 
 
 <!-- walk: y2v4.5 ch3 → p.95 -->

@@ -217,7 +217,7 @@ char_id: wang-mei-yu · status: minor
 ### y2v4.5 p.209–210 — Wang–Kōenji's 500,000-point treasure-hunt pair
 [mentioned] (p.209) Horikita reports a pair that won 500,000 points: Wang-san and Kōenji-kun.
 [note] (p.209) Wang is never on-page in this volume; the pair's find is reported secondhand; whether they coordinated or it was chance is unstated.
-[note] (p.209–210) Ayanokōji can't recall Kōenji at the briefing; the circumstances are unknown even to Horikita — "whatever he does, he's out of this world."
+[note] (p.209–210) Ayanokōji can't recall Kōenji at the briefing; the circumstances are unknown even to Horikita — "he's out of this world."
 
 <!-- walk: y2v4.5 ch5 → p.216 -->
 

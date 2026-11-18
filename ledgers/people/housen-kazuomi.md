@@ -203,7 +203,7 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 [says] (p.181) “Don't worry 'bout it. If I half kill you…nah even if I fully kill you in this place, it won't make me feel any better. The number of targets I gotta kill's gone from one to two, so it's gonna get busy.”
 [says] (p.181) “Ha? Anyway fucker, I heard you been secretly buyin' up the effects of 'Free Ride' cards from first-years. Sounds like ya bet it all on that third-year Nagumo so you must 'ave made a good bit of money, eh?”
 [note] (p.181–182) Ryūen bought up 280,000 points of 'Free Ride' cards from first-years betting on Nagumo; most of his classmates don't know.
-[note] (p.182) Hōsen's "targets to kill" count moved from one to two — whatever Ryūen did the other day left two targets; the referent is never spelled out on these pages.
+[note] (p.182) Hōsen's target count moved “from one to two” — whatever Ryūen did the other day left two targets; the referent is never spelled out on these pages.
 [rel:ryuuen-kakeru] (p.181–182) Mutually loathing frenemies; Ryūen fears facing him again; their casual hallway hostility hides a serious grudge.
 
 <!-- walk: y2v4.5 ch5 → p.216 -->

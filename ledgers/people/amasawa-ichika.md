@@ -293,7 +293,7 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 [says] (p.257) “I don't use violence except for the minimum necessary.”
 [says] (p.257) “The competition that I will have to beat Ayanokōji in will be a battle of wits.”
 [note] (p.251–257) Yagami placed the expulsion-note with the planted handwriting; he watches Horikita narrowing in; he plans his genuine confrontation with Ayanokōji — "either I get expelled or he does."
-[note] (p.251–257) Yagami admits Tsukishiro is withdrawn; the need for the charade faded; he could crush her now “with the minimum requirement of violence,” but he enjoys the game more.
+[note] (p.251–257) Yagami admits Tsukishiro is withdrawn; the need for the charade faded; he could crush her now — “the minimum requirement of violence” — but he enjoys the game more.
 [rel:yagami-takuya] (p.251–257) Meets him as an equal ex-White Room rival; a game of wits they both know; he wants a real fight with Ayanokōji.
 [rel:ayanokouji-kiyotaka] (p.251–257) Yagami offers a battle of wits vs Ayanokōji — "either I get expelled or he does."
 [rel:ishigami-kyo-1a] (p.253) He taunts that Horikita is closing in on him by the paper he wrote: "I'm sure if I give her a few more hints, she'll get to me eventually."

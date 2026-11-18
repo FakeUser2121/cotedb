@@ -30,7 +30,7 @@ char_id: tokitou-hiroya · class: unknown · status: unknown
 [trait] (p.119–124) Vindictive, emotional, unpredictable — known as rough with his words and quick to fight; his hatred of Ryūen is total; he seeks sympathetic rebels against Ryūen and sees Katsuragi's calm as betrayal.
 [note] (p.118) Hiroya is distinct from Tokitō Katsumi (Ichinose's classmate) — distant relatives sharing the rare surname; Ayanokōji once shared food and shelter with Katsumi in the Y1 mixed-training camp; they are not acquainted now.
 [rel:katsuragi-kouhei] (p.119–124) Confronts him alone at a restroom, drags in Okabe, punishes his calm; the grievance is Katsuragi's defection to Ryūen.
-[rel:okabe-fuyu] (p.119–124) Partner in the confrontation; she voices the "class traitor" reading explicitly.
+[rel:okabe-fuyu] (p.119–124) Partner in the confrontation; she voices the traitor reading explicitly.
 [rel:ryuuen-kakeru] (p.119–124) Despises him with a personal grudge; the source of his anger is never stated on these pages.
 
 <!-- walk: y2v4.5 ch4 → p.158 -->

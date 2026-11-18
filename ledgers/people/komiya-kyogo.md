@@ -182,7 +182,7 @@ char_id: komiya-kyogo · class: Class 1-C (enrolled April 2015) · status: minor
 <!-- walk: y2v4.5 → start -->
 
 ### y2v4.5 p.178, 183–185, 190–191 — Mentions: the culprit hunt front
-[mentioned] (p.178) "Ryūen — he's looking for the culprit who injured Komiya and the others."
+[mentioned] (p.178) Ryūen was "looking for the culprit who injured Komiya and the others."
 [mentioned] (p.183) "Komiya was injured. I'm lookin' for the one who did it."
 [mentioned] (p.184) Ryūen to Nanase: "The first ones to arrive at the crime scene were Sudō, Ayanokōji, Ike, Hondō and also you."
 [mentioned] (p.190) "there is a witness to Komiya-senpai's case that you don't know about, Ryūen-senpai."

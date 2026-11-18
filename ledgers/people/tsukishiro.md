@@ -326,9 +326,9 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 <!-- walk: y2v4.5 → start -->
 
 ### y2v4.5 p.22, 59, 127, 254 — Mentions
-[mentioned] (p.22) "the exam was likely to avoid leaving unnecessary evidence due to Tsukishiro's involvement this time."
+[mentioned] (p.22) "avoid leaving unnecessary evidence due to Tsukishiro's involvement this time."
 [mentioned] (p.30) "If Amasawa or another White Room student, or someone else related to Tsukishiro was involved, there was no guarantee that even Ryūen would be safe."
-[mentioned] (p.59) "the uninhabited island exam had only just ended. …I was more nervous now than when I had to face Tsukishiro during the uninhabited island exam."
+[mentioned] (p.59) "nervous now than when I had to face Tsukishiro during the uninhabited island exam." (p.16: "uninhabited island exam had only just ended")
 [mentioned] (p.127) "Tsukishiro's presence turned out to be a good thing."
 [mentioned] (p.254) "now that he's withdrawn, that need has also faded. It wouldn't mean anything if I beat Ayanokōji to a pulp in a prepared and advantageous situation after all."
 
@@ -350,7 +350,7 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 [note] (p.266–267) Tsukishiro's real goal: get him expelled by any means; after being stripped of his office, he lost his leverage but not his hostility.
 [rel:ayanokouji-kiyotaka] (p.261–267) Tsukishiro tries one last time to break him; fails; leaves politely and dangerously.
 [rel:chabashira-sae] (p.263–267) Uses her exposure to pressure both of them; dismisses her as irrelevant now.
-[mentioned] (p.16) Ayanokōji notes the detailed exam results display on the ship is "likely to avoid leaving unnecessary evidence due to Tsukishiro's involvement this time."
+[mentioned] (p.16) Ayanokōji notes the detailed exam results display on the ship is "to avoid leaving unnecessary evidence due to Tsukishiro's involvement this time."
 [mentioned] (p.161) "Tsukishiro" and Shiba both absent from the treasure-hunt briefing.
 
 <!-- walk: y2v4.5 ch6 → p.267 -->

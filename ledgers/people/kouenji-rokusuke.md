@@ -884,9 +884,9 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 ### y2v4.5 p.207–210 — Wang and Kōenji's 500,000-point pair
 [mentioned] (p.209) Horikita tells Ayanokōji the highest is "Wang-san and Kōenji-kun" — they teamed up and found a 500,000-point sticker; she hasn't seen what led to it.
-[mentioned] (p.209) "Ayanokōji, I didn't notice the presence of Kōenji at the briefing because there were so many people." — Kōenji attended? Ayanokōji can't recall him there.
+[mentioned] (p.209) Ayanokōji can't recall: "I didn't notice the presence of Kōenji at the briefing because there were so many people."
 [note] (p.209) Kōenji is not present in any of the on-page scenes of this volume; he and Wang simply aren't on-page; his participation is reported secondhand.
-[note] (p.209–210) "he's made a considerable amount of money in the last couple of weeks" — his first place on the exam plus this bonus; Horikita insists he must be used; Ayanokōji refuses; they agree to leave him alone — protecting the class from the one asset they can't control.
+[note] (p.209–210) "he's made a considerable amount money in the last couple of weeks" — the translation drops the "of" and is kept as printed; his first place on the exam plus this bonus; Horikita insists he must be used; Ayanokōji refuses; they agree to leave him alone — protecting the class from the one asset they can't control.
 
 <!-- walk: y2v4.5 ch5 → p.216 -->
 
