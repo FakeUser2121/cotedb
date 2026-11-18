@@ -1401,7 +1401,6 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [scene] (p.37–46) Answers Horikita's question; hands back to the class; friction appears immediately.
 [says] (p.32) "Survival and Elimination? That sounds very dangerous..."
 [says] (p.40) "Wow… E-expulsion, seriously… I thought it was possible, but…!"
-[src] None
 [rel:ike-kanji] (p.32) Blurts out the expected reaction first.
 [rel:hirata-yousuke] (p.47) Responds to his prompt defense of Horikita.
 
