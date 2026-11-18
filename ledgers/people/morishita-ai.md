@@ -290,11 +290,14 @@ char_id: morishita-ai · class: Class 2-A · status: unknown
 ## y2v10
 
 <!-- walk: y2v10 → start -->
+### y2v10 p.53–59 — Ch.2: Morishita waits on a bench in the cold
+[scene] (p.53–58) Kei and Ayanokōji spot her lying on a bench in mid-January; he tries to ignore her; Kei asks; she surfaces; waits for him specifically; recaps her observation of him on the way home; asks Kei about Yōsuke's popularity; scores them both ("casual woman"); doesn't apologize; walks away.
+[rel:karuizawa-kei] (p.53–58) Rates her highly then insults her warmly.
+[rel:ayanokouji-kiyotaka] (p.53–59) Waits just for him; decides he's her next project.
 
-### y2v10 p.9-235 — morishita-ai mentioned in passing
-[scene] (p.9) Named in this volume.
-[note] (p.9) Passing mention (locator pages: p.53, p.55-59, p.192, p.194-195, p.206, p.221; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.9) Passing mention only.
+<!-- walk: y2v10 Ch.2 → p.59 -->
+
+
 
 
 

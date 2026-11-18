@@ -1395,12 +1395,20 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:ayanokouji-kiyotaka] (p.12–13) Says the February meeting may be necessary for him.
 
 <!-- walk: y2v10 Ch.1 → p.13 -->
+### y2v10 p.31–46 — Ch.2: Announcing Survival and Elimination
+[scene] (p.31–33) Morning homeroom: announces the exam; reports that the teacher-side has been monitoring students all along; launches into the rules; warning that this exam is dangerous; second-years only; the rotation shown on screen.
+[scene] (p.34–40) She explains elimination rules; rewards excluding zero; protection mechanics; written rules for leaders; eliminated leaders can't be replaced; she disagrees with collusion logic in the written rules; closes with a vote-refreshing vote.
+[scene] (p.37–46) Answers Horikita's question; hands back to the class; friction appears immediately.
+[says] (p.32) "Survival and Elimination? That sounds very dangerous..."
+[says] (p.40) "Wow… E-expulsion, seriously… I thought it was possible, but…!"
+[src] None
+[rel:ike-kanji] (p.32) Blurts out the expected reaction first.
+[rel:hirata-yousuke] (p.47) Responds to his prompt defense of Horikita.
+
+<!-- walk: y2v10 Ch.2 → p.46 -->
 
 
-### y2v10 p.9-235 — chabashira-sae mentioned in passing
-[scene] (p.9) Named in this volume.
-[note] (p.9) Passing mention (locator pages: p.12-14, p.30-32, p.34, p.36, p.38, p.40; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.9) Passing mention only.
+
 
 ## y2v11
 

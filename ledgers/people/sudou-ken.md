@@ -1925,12 +1925,15 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:ayanokouji-kiyotaka] (p.10–11) Envies his closeness; confides fatigue.
 
 <!-- walk: y2v10 Ch.1 → p.11 -->
+### y2v10 p.50 — Ch.2: Sudō forces Kōenji into the discussion
+[scene] (p.50) Stripped bare of fear; voices a silent problem nobody wants to touch: what do we do about Kōenji, who isn't present; demands protection for him; nobody answers.
+[says] (p.50) "What're we going to do about the guy who isn't here, Kōenji? Do we have to protect him? That's what we promised, right?"
+[rel:kouenji] (p.50) Forces the issue.
+
+<!-- walk: y2v10 Ch.2 → p.50 -->
 
 
-### y2v10 p.9-235 — sudou-ken mentioned in passing
-[scene] (p.9) Named in this volume.
-[note] (p.9) Passing mention (locator pages: p.10-11, p.34, p.50, p.130, p.132, p.136; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.9) Passing mention only.
+
 
 ## y2v11
 

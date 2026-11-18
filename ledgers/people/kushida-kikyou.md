@@ -1957,12 +1957,14 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:ayanokouji-kiyotaka] (p.16–26) His human shield.
 
 <!-- walk: y2v10 Ch.1 → p.26 -->
+### y2v10 p.47–48 — Ch.2: Kushida in the discussion
+[scene] (p.47–48) Named only: used as an example for Horikita's indecision; she smiles through it; can't tell if it's warm or not; hinted she's still not fully herself.
+[mentioned] (p.47) Mentioned in passing in the discussion.
+
+<!-- walk: y2v10 Ch.2 → p.50 -->
 
 
-### y2v10 p.9-235 — kushida-kikyou mentioned in passing
-[scene] (p.9) Named in this volume.
-[note] (p.9) Passing mention (locator pages: p.16-27, p.44, p.47-48, p.60, p.168, p.170-171; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.9) Passing mention only.
+
 
 
 

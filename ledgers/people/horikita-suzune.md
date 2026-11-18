@@ -4543,10 +4543,6 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 <!-- walk: y2v10 Ch.1 → p.26 -->
 
 
-### y2v10 p.9-235 — horikita-suzune mentioned in passing
-[scene] (p.9) Named in this volume.
-[note] (p.9) Passing mention (locator pages: p.16-24, p.26-28, p.31, p.40, p.43-51, p.58; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.9) Passing mention only.
 
 ## y2v11
 

@@ -1286,6 +1286,18 @@ aliases used for anchors: ike, kanji, ike-kun
 ## y2v10
 
 <!-- walk: y2v10 → start -->
+### y2v10 p.81–92 — Ch.4: Ike's idea and Horikita's rejection
+[scene] (p.81–84) He stands up and declares his strategy aloud; slow evolution from mild inspiration to the absolute 68-point scheme; everyone stands skeptical; Shinohara behind him and others distant; he counts on fingers; abandons it onto a phone.
+[scene] (p.84–88) Horikita politely explains why it won't work; he drops to the floor; she tells him thanks for speaking up; he thaws; she praises him; he gets a light feeling; he's always like this — exciting people without considering the whole.
+[says] (p.81) "Wh-what? You do, Kanji? No way!"
+[says] (p.84) "Damn! I thought we could win! I feel bad for getting everyone together!"
+[note] (p.87) Kishich's idea seemed inspired but needed a specific condition he missed.
+[says] (p.85) "It wasout of such confidence that Ike pushed to learn the reason."
+[rel:shinohara-satsuki] (p.81–82) His girlfriend; the most surprised; helps him process the rejection.
+[rel:horikita-suzune] (p.85–89) She is one of the few patient ones who listened before dismissing.
+
+<!-- walk: y2v10 Ch.4 → p.89 -->
+
 ### y2v10 p.12 — Ch.1: Ike's outburst
 [scene] (p.12) Hungered with the announcement of the first-ever student-teacher discussion; jumped in before anyone else could: "I didn't know we had such a thing at this school. I actually thought we didn't."
 [says] (p.12) "I didn't know we had such a thing at this school. I actually thought we didn't."
@@ -1295,10 +1307,6 @@ aliases used for anchors: ike, kanji, ike-kun
 <!-- walk: y2v10 Ch.1 → p.13 -->
 
 
-### y2v10 p.9-235 — ike-kanji mentioned in passing
-[scene] (p.9) Named in this volume.
-[note] (p.9) Passing mention (locator pages: p.8-13, p.15, p.17-21, p.23, p.26-28, p.31-32; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.9) Passing mention only.
 
 ## y2v11
 

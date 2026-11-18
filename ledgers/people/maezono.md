@@ -116,11 +116,28 @@ char_id: maezono · class: Class 1-D · status: minor
 ## y2v10
 
 <!-- walk: y2v10 → start -->
+### y2v10 p.81–89 — Ch.4: Ike's "fake illness" strategy — rejected
+[scene] (p.81–84) Ike declares he has a winning strategy that will give 68 points; it means faking illness; Horikita instantly grasps; if caught, the school can't prove it; "too perfect!" bursts from Ike.
+[scene] (p.85–87) Horikita explains the loophole: if Ryūen ran this exact strategy, the three other classes would surely conspire to earn >67; he'd lose and be expelled; Ike deflates.
+[scene] (p.88–89) Horikita praises Ike's bravery for speaking up; he thaws; suggestion that everyone should pitch in; no one has anything else.
+[says] (p.81) "Dude... I think... I might have an incredible winning strategy...!"
+[says] (p.83) "While it’s risky, we could secure exactly 68 points. We do this by feigning sickness right as the exam starts."
+[says] (p.87) "I think you understand which is better, aiming for a win with 66 points or securing 17 or more points in 10 turns with your own abilities."
+[rel:keisei-ishigami] (p.14) The 68-point strategy nearly worked, but Horikita punted — concerns about Sakayanagi and Ryūen conspiring against Ryūen (won't work if everyone targets them).
+[rel:horikita-suzune] (p.81–89) Listens without premature judgment; peers of her instruction.
 
-### y2v10 p.9-235 — maezono mentioned in passing
-[scene] (p.9) Named in this volume.
-[note] (p.9) Passing mention (locator pages: p.46-49, p.120-121; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.9) Passing mention only.
+<!-- walk: y2v10 Ch.4 → p.89 -->
+
+### y2v10 p.47–49 — Ch.2: Maezono questions Horikita
+[scene] (p.47) Goes straight to the heart of it: the unanimous vote exam; Horikita wavered; that was a decisive failure point; now the leader is once again the sole decision-maker; reinforces that Horikita is untested.
+[scene] (p.48) Presses; asks who else might be better; suggests asking around; she withdraws after Kōenji is proposed (and Horikita's counter-offer is convincing).
+[says] (p.47) "I don't doubt Horikita-san's abilities at all. But is she really the best option? I think there's some room for discussion."
+[rel:horikita-suzune] (p.47) Directly challenges her decisiveness.
+[rel:kushida-kikyou] (p.47) Uses her survival as a check point.
+
+<!-- walk: y2v10 Ch.2 → p.49 -->
+
+
 
 
 

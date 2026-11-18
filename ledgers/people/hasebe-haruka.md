@@ -690,11 +690,14 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 ## y2v10
 
 <!-- walk: y2v10 → start -->
+### y2v10 p.48 — Ch.2: Hasebe silent
+[scene] (p.48) Maintains a stern expression; clouds slightly at the mention of her own past hesitation; doesn't go so far as to glare at Horikita; understands; sits with it silently.
+[note] (p.48) Her only line-of-thought in this scene; no dialogue.
+[rel:horikita-suzune] (p.48) Does not weigh in publicly; retains her private doubt.
 
-### y2v10 p.9-235 — hasebe-haruka mentioned in passing
-[scene] (p.9) Named in this volume.
-[note] (p.9) Passing mention (locator pages: p.48, p.132, p.148, p.188; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.9) Passing mention only.
+<!-- walk: y2v10 Ch.2 → p.48 -->
+
+
 
 
 

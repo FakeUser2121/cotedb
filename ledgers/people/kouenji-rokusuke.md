@@ -954,6 +954,18 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 ## y2v10
 
 <!-- walk: y2v10 → start -->
+### y2v10 p.66–80 — Ch.3: Kōenji, the secret benefactor
+[scene] (p.66–67) At the gym; he and a female student sit at a two-person table; Mii-chan spots him first; he asks about her food and water gifts; she quizzes whether he's the sender; he confirms openly.
+[scene] (p.70–76) The mystery aside; they return to the mall entrance; she confesses to him about shopkeepers noticing that he and Ayanokōji cooked; she hands over the gift bag which says "towels"; he finds it preposterous; refuses; she asks what she did for him; he says nothing.
+[scene] (p.78–80) Ayanokōji presses on protection promises; he brushes both of them off; he and the two have an awkward parting; they don't know yet what his intention is.
+[says] (p.76) "It was me who gave you those items, but why does it matter?"
+[says] (p.78) "If ‘someone’ tries to ostracize me, they’d better be prepared."
+[says] (p.79) "So be it. I have dates after this, so I’d better get going."
+[rel:wang-mei-yu] (p.66–80) She unexpectedly figured out he was her benefactor; a long-overdue payback.
+[rel:ayanokouji-kiyotaka] (p.66–80) Asks precisely what he owes and whether he'll agree to the deal — Kōenji will not agree.
+
+<!-- walk: y2v10 Ch.3 → p.80 -->
+
 
 ### y2v10 p.9-235 — kouenji-rokusuke mentioned in passing
 [scene] (p.9) Named in this volume.
