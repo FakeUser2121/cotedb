@@ -659,11 +659,11 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
+### y2v4.5 p.63–65 — Ayanokōji's private read of Ichinose's class: Kanzaki is the only one who could speak up
+[note] (p.64) Ayanokōji, leaving the party, judges that "The only person I could think of who could do that right now was Kanzaki from the boys in the class" — someone who could point out errors in Ichinose's decisions — but doubts he could "appeal to the whole class and control the girls."
+[note] (p.64) Kanzaki is Ichinose's classmate, male, and the only voice Ayanokōji trusts there; no direct appearance on these pages.
 
-### y2v4.5 p.10-290 — kanzaki-ryuuji mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.64, p.243-246, p.248-249.
-[mentioned] (p.10) Passing mention only.
+<!-- walk: y2v4.5 ch2 → p.72 -->
 
 ## y2v5
 

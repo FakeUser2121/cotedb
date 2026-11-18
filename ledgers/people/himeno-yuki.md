@@ -49,10 +49,10 @@ char_id: himeno-yuki · class: Class 2-A · status: unknown
 ### y2v4.5 p.62–72 — Himeno leaves the party with a faked headache; the stern and the scream
 [scene] (p.62–63) Mid-party, she raises her hand: “The usual headache” — can she go back to her room? Ichinose and the girls fuss; she snaps about their overprotective behavior.
 [scene] (p.64–65) Ayanokōji, slipping out behind her, catches a glimpse of her distinctive hair color turning away from the guest cabins — and follows her to the stern of the ship, where her OAA scores (p.65) are Academic B- (63), Physical C (51), Adaptability C+ (58), Social Contribution C+ (58), Overall C+ (57).
-[says] (p.65) “Is your headache gone?” — that is Ayanokōji's line; she mutters mostly drowned by the wind, the word “annoying” discernible.
+[says:ayanokouji-kiyotaka] (p.65) “Is your headache gone?” — she mutters mostly drowned by the wind, the word “annoying” discernible.
 [says] (p.67) “It's because I get migraines.”
 [says] (p.69) “Strange? If you ask me, the people in my class are too good-natured. Our class tends to get together in large groups to do everything. Well, I don't mind that in and of itself, but the problem is that these meetings take too long, and nobody ever wants to leave.”
-[says] (p.70) “Not many students come to the back of the ship, and when you consider the sound of the engine and the wind, even if you screamed, it wouldn't be heard.” — that is Ayanokōji's line.
+[says:ayanokouji-kiyotaka] (p.70) “Not many students come to the back of the ship, and when you consider the sound of the engine and the wind, even if you screamed, it wouldn't be heard.”
 [scene] (p.70–71) He screamed first into the ocean ("Ah─────"), a feeble “your voice didn’t have a shred of volume” critique follows, then she puts her whole body into it:
 [says] (p.71) “WA────────────!!!”
 [voice] (p.70–71) Her usual speech is low and subdued, yet her scream rolls "a voice, twice as loud as I had imagined"; the ship does not move, but he feels it rock.

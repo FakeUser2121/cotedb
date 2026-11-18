@@ -253,10 +253,28 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — amasawa-ichika mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.30, p.89-91, p.93-95, p.138, p.140-141.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.89–95 — Amasawa and Sakayanagi face to face
+[scene] (p.89–95) Alone on a deck, muttering “I want to go see Ayanokōji-senpai~”, she is approached by Sakayanagi — the chairman's daughter — who found her via Class A students and admits she's crippled; Amasawa notices her surveillance; they fence; Sakayanagi invites her to any setting, any means; Kamuro appears at a cane-tap signal.
+[says] (p.90) “I want to go see Ayanokōji-senpai~”
+[says] (p.90) “Sakayanagi…senpai? Do you have business with me?”
+[says] (p.91) “It's okay that you're so motivated to do this, but does that mean you have permission from Ayanokōji-senpai?”
+[says] (p.91) “You've got an awful lot of self-confidence, haven't you, Arisu-senpai?”
+[says] (p.93) “Fuu, I see. So it was the chairman's daughter that Ayanokōji-senpai relied on.”
+[says] (p.93) “Ah, I have one question~ I'm the kind of girl who can hit a cripple without hesitation, is that okay?”
+[says] (p.93) “So you want to have a battle of wits with me? You make me laugh.”
+[says] (p.94) “Ahahaha, that was supposed to be hiding? That's cute.”
+[says] (p.94) “I'll give you a win or a loss in any setting, is what I mean.”
+[says] (p.94) “Oh, really? Even if we were using violence like you were just talking about?”
+[says] (p.94) “I'll make sure to remember you, senpai.”
+[says] (p.94) “Even without Ayanokōji-senpai, I might be able to enjoy myself a little. Play around a bit with Kushida-senpai or enjoy watching Arisu-senpai's crying face…? Under normal circumstances, I'd be in an excited mood…”
+[trait] (p.90–94) Goaded, playful, fascinated more by Sakayanagi than anyone since the exam; unbothered by the surveillance; calls Sakayanagi's Class A followers failures except Ayanokōji; her abdomen aches — "It would take some more time before she was back in perfect condition" (p.94).
+[rel:sakayanagi-arisu] (p.89–95) Sakayanagi demanded a meeting face-to-face, tracked her with Class A students, and promised any means; Amasawa accepts the stakes gleefully.
+[rel:kamuro-masumi] (p.93–94) Spots him as the follower Class A sent; amused by his clumsiness.
+[note] (p.89–95) She wants to see Ayanokōji badly; Sakayanagi is his rival, not a substitute; her interest in Sakayanagi is strategic appetite, not affection.
+
+<!-- walk: y2v4.5 ch3 → p.95 -->
+
 
 
 

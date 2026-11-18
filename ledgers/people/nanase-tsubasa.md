@@ -516,6 +516,16 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 <!-- walk: y2v4.5 → start -->
 
 
+### y2v4.5 p.73–77 — Nanase on the bow deck; lunch interrupted
+[scene] (p.73–77) Ayanokōji, giving up on the crowded bow deck, finds Nanase alone on a bench with a sandwich and milk — "It was the opposite of yesterday, where she was the one that found me." She freezes mid-bite; he asks about yesterday; she deflects — she solved it herself.
+[says] (p.75) “Ah, senfai.”
+[says] (p.75) “Gulp…Um, I'm sorry, but actually…I was eating lunch.”
+[says] (p.77) “I'm sorry, but I've already solved the problem myself, so could you just forget about it?”
+[note] (p.75) "senfai" is printed as such in the translation; kept as printed.
+[note] (p.77) Yesterday's problem is never stated; she keeps it rather than shares it (the main text and the short story both keep her secret).
+[rel:ayanokouji-kiyotaka] (p.73–77) Uses him as an excuse to face the deck; he uses her as an excuse to stop and eat; both pretend it's coincidence.
+
+<!-- walk: y2v4.5 ch3 → p.95 -->
 
 ### y2v4.5 p.182–191 — Nanase and Ryūen interrogate Kurachi (the cliff attacker)
 [scene] (p.182) Ryūen (investigating who pushed Komiya) stops Nanase during the treasure hunt; she agrees to help question Kurachi Naohiro, the first-year who attacked Ayanokōji on day seven.

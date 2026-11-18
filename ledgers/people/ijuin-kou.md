@@ -19,10 +19,13 @@ char_id: ijuin-kou · class: unknown · status: unknown
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — ijuin-kou mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.74.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.74 — Named at the bow-deck lunch scene
+[mentioned] (p.74) Ayanokōji, scouting the bow deck for a lunch spot, notes second-years eating outdoors overlooking the ocean: "my classmates Ijūin and Okitani, Sakayanagi from Class A, and Nakaizumi and Suzuki from Ryūen's class."
+[note] (p.74) The Ijūin surname belongs to two rostered Class-2 students (Ijuin Kō and Ijuin Wataru); the text never separates them, so the y2v4.5 presence is not assignable between them and is recorded for both.
+
+<!-- walk: y2v4.5 ch3 → p.95 -->
+
 
 
 

@@ -19,10 +19,13 @@ char_id: okitani-kyousuke · class: unknown · status: unknown
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — okitani-kyousuke mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.74.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.74 — Named at the bow-deck lunch scene
+[mentioned] (p.74) Ayanokōji, scouting the bow deck for a lunch spot, notes second-years eating outdoors overlooking the ocean: "my classmates Ijūin and Okitani, Sakayanagi from Class A, and Nakaizumi and Suzuki from Ryūen's class."
+[note] (p.74) Okitani is named alone among Ayanokōji's classmates at the deck; no line, action or detail beyond the sighting.
+
+<!-- walk: y2v4.5 ch3 → p.95 -->
+
 
 
 

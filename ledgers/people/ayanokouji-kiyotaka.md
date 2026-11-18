@@ -8618,6 +8618,8 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v4.5 → start -->
 
+
+
 ### y2v4.5 p.10–16 — Prologue note; August class points; settling in
 [note] (p.10) The prologue is Ayanokōji's monologue (phones returned, cruise rules stricter — no leaving rooms after 10 p.m., some levels off-limits); recorded as narration on his own page.
 [trivia] (p.13) August class points: A (Sakayanagi) 1206, B (Ichinose) 578, C (Horikita — their class rose from D) 571, D (Ryūen) 551 — Kōenji's 300 points from his solo win lifted them just to Class C, one step short of B.
@@ -8725,6 +8727,18 @@ walk: y1v1 → DONE
 [inference] (p.82–85) Learns Sakayanagi forgave Ichinose (her contribution outweighed the few points lost), "punished" her with tea, and observed that Ichinose — conventionally "good" — can still frighten people; Ayanokōji reflects he's never met a "purely good" person, including Ichinose.
 [rel:ichinose-honami] (p.81–85) Sakayanagi's account — Ichinose's remorse and honesty; Ayanokōji's view of her.
 [rel:sakayanagi-arisu] (p.81–85) She tells him about Ichinose and shares her observations on goodness.
+
+### y2v4.5 p.85–89 — Sakayanagi's Ryūen bargain; the phone call
+[scene] (p.85–89) Sakayanagi warns him about the third-years; admits she used Ryūen against Hōsen to hold third place; Ayanokōji floats the "considerable compensation" theory (a big private-points sum); she denies paying any points and refuses details.
+[says] (p.86) “But why are you telling me all this?”
+[says] (p.88) “Took full advantage? Meaning?”
+[says:sakayanagi-arisu] (p.89) “That wish will end up strangling him soon enough”
+[note] (p.89) Sakayanagi's phone rings; she answers, says "Is that so? I'll be right there." and leaves immediately — her "appointment with someone after this."
+[note] (p.85–89) She is, in substance, his ally and his enemy on the same coin — she will hurt Ichinose to win her trust and she warns him to be careful — "And to go along with that, you've been getting a lot of strange looks from the third-year students, right?" (p.86).
+[rel:sakayanagi-arisu] (p.85–89) Her "ally/enemy" paradox is now explicit to him.
+
+
+<!-- walk: y2v4.5 ch3 → p.95 -->
 
 ### y2v4.5 p.97–106 — The private pool: Airi and Haruka's bold swimsuits
 [scene] (p.97) With the Ayanokōji group (Akito, Haruka, Airi, Keisei) at a rented private pool; Akito asks his opinion of Airi.

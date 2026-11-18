@@ -179,10 +179,13 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — yamamura-miki mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.95.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.95 — Sakayanagi's call: Yamamura is her new watcher
+[scene] (p.95) After Kamuro is stood down and Amasawa has noticed the Class A tail, Sakayanagi phones: "Could you continue for me please?" — the only person she can rely on from the class, Yamamura-san; the watch resumes through him.
+[note] (p.95) Yamamura never appears on-page in this volume; his is a phone call only. No actions or lines are attributable beyond the single exchange quoted in narration.
+
+<!-- walk: y2v4.5 ch3 → p.95 -->
+
 
 
 
