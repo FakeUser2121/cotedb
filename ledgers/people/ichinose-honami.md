@@ -1892,6 +1892,18 @@ aliases used for anchors: ichinose, honami, ichinose-san
 ## y2v10
 
 <!-- walk: y2v10 → start -->
+### y2v10 p.106–109 — Ch.5: The surprise tea party
+[scene] (p.106–109) Amikura and Kanzaki coordinate a secret visit; girls ply him with snacks; the four gather at his dorm; Watanabe is also there; also buddies with the rivalry group; the meeting is a big turn toward her direction.
+[scene] (p.110–118) After the others leave, Ichinose returns alone claiming she left her phone behind; she performs the predictable surprise; declares her love; Watanabe bursts in at that moment; panic collapses into cold farce; she locks the door on Watanabe with practiced calm; he breaks; the four stories blur.
+[says] (p.111) "What do you think, Ayanokōji-kun?"
+[says] (p.112) "I love you, Ayanokōji-kun. I'm helplessly in love with you... I've never been in love before."
+[says] (p.117) "I think I understand you better after our conversation today, Watanabe-kun. You like Mako-chan, don't you?"
+[rel:kanzaki-ryuuji] (p.106–118) Best friend and heir to her throne; she lets him run his experiment but pivots on her own terms.
+[rel:amikura-mako] (p.106–118) Tetto; her closest ally; she was there too.
+[rel:watanabe-norihito] (p.110–118) Stoops to her orders to protect himself; amused by his weakness.
+
+<!-- walk: y2v10 Ch.5 → p.118 -->
+
 
 ### y2v10 p.9-235 — ichinose-honami mentioned in passing
 [scene] (p.9) Named in this volume.

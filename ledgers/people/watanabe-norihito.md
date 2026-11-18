@@ -103,6 +103,17 @@ char_id: watanabe-norihito · class: unknown · status: unknown
 ## y2v10
 
 <!-- walk: y2v10 → start -->
+### y2v10 p.106–118 — Ch.5: Watanabe: stumbles into Ichinose's control
+[scene] (p.106–109) Watanabe strolls in with Kanzaki unannounced; pretends to be invited; Ichinose arrives late with Amikura; they all settle in; the conversation shifts; Ichinose's heart-on-the-line speech is emotional and unanchored.
+[scene] (p.110–118) Watanabe storms in without knocking after Ichinose has already left; he flees; she comes back abruptly; he is forced to hear her; she effectively commands him; his junior-high crush story spills out; she tries to corner him via Amikura by predicting his feelings; he's overwhelmed; agrees to keep it secret; he stays; cannot leave.
+[says] (p.110) "W-wait. Ichinose, if you're okay with it… I'd like you to hear my story too."
+[says] (p.112) "Oh, uh, um, sorry, I didn't knock... so um, I'll be going!"
+[says] (p.116) "When I was in junior high, second year, I had a fateful encounter. I became friends quickly with a girl I met when the classes were shuffled."
+[rel:kanzaki-ryuuji] (p.106–118) Follows him to the dorm room; watches him get coerced by Ichinose.
+[rel:ichinose-honami] (p.110–118) He's totally neutralized; she controls him through guilt and romantic interest.
+
+<!-- walk: y2v10 Ch.5 → p.118 -->
+
 
 ### y2v10 p.9-235 — watanabe-norihito mentioned in passing
 [scene] (p.9) Named in this volume.
