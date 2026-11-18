@@ -65,6 +65,15 @@ char_id: sonoda-chiyo · class: unknown · status: unknown
 
 <!-- walk: y2v11 → start -->
 
+### y2v11 p.39 — Ch.2: The unaskable fairness question
+[scene] (p.39) On the bus, a Sonoda raises a hand to ask about group fairness; the text does not distinguish the twins.
+[note] (p.39) “Um... Chabashira-sensei. May I ask a question?” — unattributed in the text; both rostered twins (Chiyo and Masashi) are possible; attribution unresolved.
+[note] (p.39) “If we're going to play games in separate groups, is this... fair? ... I feel that way about Nagumo-senpai's group, for example.” — the Sonoda question is about Nagumo's stacked group; Chabashira answers with a curt look.
+[mentioned] (p.39) One of the twins is the questioner; the pages do not say which.
+
+<!-- walk: y2v11 ch2 → p.84 -->
+
+
 ## y2v12
 
 <!-- walk: y2v12 → start -->
