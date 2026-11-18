@@ -217,6 +217,23 @@ char_id: asahina-nazuna · class: Class 2-A · status: supporting
 [mentioned] (p.177) Named as the threatened party; not present on these pages.
 
 <!-- walk: y2v11 Coverage gate → p.223 -->
+## y2v5
+
+<!-- walk: y2v5 → start -->
+
+### y2v5 p.22–24 — Mii-chan: the maid-café proposal writer
+[scene] (p.22) Sitting in the special-wing classroom in a Chinese-style maid suit for the "Maimai" maid-café demonstration; shyly watching the customers.
+[scene] (p.23) Satō motions sharply towards her; she produces a clear file with three pages of details in beautiful, clean letters — rental quotes from three companies (cheapest vs most expensive tableware), expected headcount, guest-capacity differences.
+[says] (p.23) "Well, I've summarized as much as I can..."
+[note] (p.23) "Well, I've summarized as much as I can..." is printed untagged right after "Satō motioned towards Mii-chan sharply." — adjacent narration points at Mii-chan as the speaker; the print does not name her in the line itself.
+[scene] (p.24) Satō and Matsushita poke her side when Ayanokōji praises her proposal ("This is head and shoulders above any proposal I've seen so far."); she still looks embarrassed and bows her head lightly to him.
+[rel:satou-maya] (p.22–24) Co-planner; the three of them plus Maezono planned the café.
+[rel:matsushita-chiaki] (p.22–24) Co-planner; both tease her about the praise.
+[rel:maezono] (p.23) Guard for their demonstration.
+[rel:horikita-suzune] (p.23) Her clear-file proposal wins Horikita's serious review; "quintessential" praise.
+
+<!-- walk: y2v5 Ch.2 → p.28 -->
+
 ## y2v6
 
 <!-- walk: y2v6 → start -->

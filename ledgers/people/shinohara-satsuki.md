@@ -397,10 +397,13 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — shinohara-satsuki mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.9, p.14, p.29, p.32, p.48.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.9, 14 — Sudō's yardstick; the middle-school festival line
+[says] (p.14) "Hey, it's kind of like a middle school cultural festival."
+[note] (p.9) Sudō gauges his romantic progress against the Ike–Shinohara couple ("do you think that Kanji guy has already kissed Shinohara"); she is not on p.9 — the mention is Sudō's envy.
+[note] (p.14) Her one line is followed by the narration "It may not be exactly the same, but I could understand why Shinohara would say that." — adjacent-narration attribution; the print does not name her in the quotation line itself.
+[rel:ike-kanji] (p.9) The couple Sudō aspires to.
+
+<!-- walk: y2v5 Ch.2 → p.28 -->
 
 ## y2v6
 

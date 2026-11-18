@@ -250,10 +250,16 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — matsushita-chiaki mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.18, p.22-24, p.26, p.54, p.172.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.18, 22–25 — Matsushita: the budget-conscious maid-café planner
+[says] (p.18) "But... Oh, I don't mean to say anything bad about the current idea, but I think some people will be reluctant to do anything if they have to pay for it themselves."
+[says] (p.23) "About four days of preparation. I think the cost I incurred is surprisingly reasonable. All in all, 13,200 private points. The three of us here and Maezono planned it and split the cost, so it's 3,300 points per person."
+[scene] (p.22) Dressed as a maid for the "Maimai" maid-café demonstration; tableware is their own (no cost) — she kept the event cheap on purpose.
+[rel:satou-maya] (p.22–24) Co-planner; dressed as a maid alongside her; pocketed the praise (pokes Mii-chan's side too, p.24).
+[rel:asahina-nazuna] (p.23–24) Mii-chan wrote the three-page proposal; both poke her side when praised (p.24).
+[rel:horikita-suzune] (p.22–24) Defended her own numbers under Horikita's interrogation.
+[mentioned] (p.26) Ayanokōji notes privately that "for now that I've got Satō and Matsushita down" the waitress list can be built.
+
+<!-- walk: y2v5 Ch.2 → p.28 -->
 
 ## y2v6
 

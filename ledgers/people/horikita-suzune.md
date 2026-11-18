@@ -4421,6 +4421,31 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ayanokouji-kiyotaka] (p.17–18) Her proposal system; he listens as usual.
 [rel:hirata-yousuke] (p.17) Builds on his point about the limited budget.
 
+### y2v5 p.19–27 — Horikita scrutinizes Satō's maid-café pitch
+[scene] (p.19) Satō comes to her with a festival pitch; the reward system has drawn many half-baked proposals from the class, which she filters hard (Hondō's fried-chicken idea is shut down for lacking substance).
+[scene] (p.20) Asks Satō to show her the demonstration in an empty classroom after school; brings Ayanokōji along as a customer.
+[says] (p.23) "How long did it take, Matsushita-san?"
+[says] (p.23) "I wonder if you've created a budget for the whole thing. I'd like to see a concrete process."
+[says] (p.24) "That's certainly an interesting proposal."
+[says] (p.24) "I'm going to check again, but no one saw this performance, right?"
+[says] (p.24) "Very well. I'll do my best to make sure this maid café goes through."
+[says] (p.24) "It's too early to rejoice. Don't forget that we're still in the process of reviewing the proposal."
+[says] (p.25) "I'm going to ask for your help Ayanokōji-kun to ensure that the girls' project is a success."
+[note] (p.25) The reply to Maezono's "I'm kind of surprised how well that went." — "I wouldn't readily admit it was a good idea if I didn't feel that way. In fact, most of the ideas that were brought to me were rejected on the spot, or at best, put on hold." — is printed untagged; the ideas were pitched to Horikita, so the voice is probably hers; kept as untagged, no speaker assigned from context.
+[says] (p.26) "So, I'll leave the selection of people to you first."
+[says] (p.26) "There's no single program for this festival."
+[says] (p.26) "So, you're accepting my offer, right?"
+[says] (p.26) "I'm going to head to the student council room."
+[trait] (p.19–27) Demands concrete evidence, not enthusiasm — makes the planners demonstrate the idea at their own cost, interrogates their budget (outfits 4,000 points each; 40,000 for 10 outfits; 50,000 snacks; 90,000 before decorations), praises Satō's presentation as "head and shoulders above any proposal" (noted by Ayanokōji) yet keeps the decision strictly provisional; assigns Ayanokōji the boys' side and the budget management to keep the information pool minimal.
+[rel:satou-maya] (p.19–26) Accepts her pitch for serious review; demands cost reduction.
+[rel:matsushita-chiaki] (p.22–24) Questions her cost breakdown; the maid-café project depends on it.
+[rel:asahina-nazuna] (p.22–24) Mii-chan's clear-file proposal earns sincere praise.
+[rel:maezono] (p.22, 25) Guards the demonstration site; waves them off.
+[rel:ayanokouji-kiyotaka] (p.19–26) Coerces him into managing the boys' side and the budget; he resists; she insists.
+[rel:hirata-yousuke] (p.17–18) Built on his list; this proposal system is now in motion (her section for p.17–18 covers the opening move).
+
+<!-- walk: y2v5 Ch.2 → p.28 -->
+
 ### y2v5 p.45, 56–59 — Horikita: emergency leader; consults Ayanokōji
 [says] (p.45) "Yes. It's possible that other classes will have similar strategies, and you'll be able to use them if you have a difference of opinion."
 [says] (p.45) "If you don't feel comfortable following my instructions when the time comes, you can let me know now."

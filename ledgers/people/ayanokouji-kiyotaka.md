@@ -8940,6 +8940,28 @@ walk: y1v1 → DONE
 [rel:hirata-yousuke] (p.17) Lists festival event options on the monitor.
 [rel:matsushita-chiaki] (p.18) Warns some students won't contribute if they must pay personally.
 
+### y2v5 p.19–28 — Satō's summons; the maid-café audition; Horikita taps him
+[scene] (p.19) Two weeks into September, watches Satō approach Horikita; Satō's pitch passes the filter and Horikita asks her to demonstrate — and then calls on him.
+[says] (p.20) "Me? I don't have any particular plans today."
+[says] (p.22) "This is head and shoulders above any proposal I've seen so far."
+[says] (p.23) "Didn't it take a lot of time and money just to prepare this?"
+[says] (p.25) "No well... I know what you mean, but... I'm sure there are other suitable people."
+[says] (p.25) "Can't deny that."
+[says] (p.25) "I see."
+[says] (p.26) "Wait, wait. You're taking a big leap at once. You're just going to leave it to me?"
+[says] (p.26) "I suppose so."
+[says] (p.26) "I'll head back too then."
+[says] (p.27) "Under Horikita's direction, I've been assigned to direct the performance."
+[says] (p.27) "Well, I don't mind. If I have plans, I'll make myself available."
+[trait] (p.19–28) Gets recruited into the maid-café project against his will — Satō tests Horikita's interest with a live demonstration and pulls him along as a surprise customer; Horikita then hands him the boys'-side selection and budget management, against his own protests; Chabashira-sensei finds the assignment hilarious ("Horikita makes some pretty interesting suggestions") and asks him to give her a few minutes of his time next time he's free.
+[rel:horikita-suzune] (p.19–28) She drafts him to handle the boys' side of the maid café; keeps the information pool minimal; taps his organizational sense.
+[rel:satou-maya] (p.19–22) She invites him to the demonstration; her elaborate preparation impresses him.
+[rel:matsushita-chiaki] (p.22–23) Met at the demonstration; impressed by her cost breakdown.
+[rel:chabashira-sae] (p.26–27) Runs into her at the special building; she asks for his time; he agrees to make himself available.
+[rel:maezono] (p.22, 25) On guard duty at the demonstration; waves happily at them afterwards.
+
+<!-- walk: y2v5 Ch.2 → p.28 -->
+
 ### y2v5 p.29–44 — The Unanimous Voting Exam briefing
 [scene] (p.29) In homeroom, Chabashira announces a surprise special exam *before* the sports festival — held only for second-years, tomorrow.
 [trivia] (p.31–42) The "Unanimous Voting Exam": 5 questions, up to 4 options each; all 39 classmates vote anonymously (60 seconds); not unanimous → 10-minute discussion → revote; 5-hour limit; 90 seconds cumulative overtime penalty = expulsion; 50 class points for clearing, −300 for failing; protection points disabled; phones collected; binding agreements/money exchanges forbidden.

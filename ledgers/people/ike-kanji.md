@@ -1234,10 +1234,13 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — ike-kanji mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.9-11, p.13-14, p.17, p.20, p.23-25.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.9, 13, 25, 27 — Mentions: Sudō's envy; the festival group
+[mentioned] (p.9) Sudō wonders whether "that Kanji guy has already kissed Shinohara" — Ike is the romantic benchmark for the class boys.
+[mentioned] (p.13) Sudō starts chatting with his good friends Ike and Hondō once at school.
+[mentioned] (p.25) Horikita names him as better suited to the maid café than the boys'-side selection ("Ike-kun, Hondō-kun and the others may have better eyes for this kind of thing. But if you tell them about this, it could lead to a leak.").
+[mentioned] (p.27) Chabashira-sensei agrees with Ayanokōji that "people like Ike and Hondō are many times more suited to this kind of thing.
+
+<!-- walk: y2v5 Ch.2 → p.28 -->
 
 ## y2v6
 

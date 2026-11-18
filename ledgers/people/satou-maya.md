@@ -474,6 +474,9 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [rel:matsushita-chiaki] (p.22–23) Co-planner, dressed as a maid; presents the cost breakdown.
 [rel:asahina-nazuna] (p.22–23) Mii-chan, in a Chinese-style maid outfit; wrote the detailed proposal.
 [rel:maezono] (p.22) Stands guard outside the classroom.
+
+<!-- walk: y2v5 Ch.2 → p.28 -->
+
 ## y2v6
 
 <!-- walk: y2v6 → start -->

@@ -1887,13 +1887,17 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — hirata-yousuke mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.11-12, p.17, p.31, p.45, p.49-50.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.17 — Hirata opens the festival discussion
+[scene] (p.17) Gets permission to use the classroom monitor; lists the orthodox festival options one by one (food, haunted houses, mazes, cafes, live music, plays); caps the discussion with the 195,000-point budget for 39 students.
+[says] (p.17) "When it comes to cultural festivals, food, haunted houses, and the like are the orthodox ones, aren't they?"
+[note] (p.17) The lines that follow — "The event will be held from 10 a.m. to 3 p.m…", "It's just a matter of budget…", "We have 39 students in our class…" — are printed untagged in the same presenting sequence; no speaker is name-tagged in the print; attribution by adjacency points to Hirata, kept as a note, not a [says] row.
+[rel:horikita-suzune] (p.17) Her budget critique and decision to test proposals with private points build directly on his list.
+[rel:ayanokouji-kiyotaka] (p.17) He listens from the back as usual; Hirata anchors the class's first festival talk.
 
 
 
+
+<!-- walk: y2v5 Ch.2 → p.28 -->
 
 ## y2v6
 

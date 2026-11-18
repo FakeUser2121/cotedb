@@ -1831,6 +1831,9 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:horikita-suzune] (p.10) Hoping/worried Ayanokōji's girlfriend might be Horikita.
 [rel:ike-kanji] (p.9) Jealous that he's "ahead" with Shinohara.
 [rel:karuizawa-kei] (p.11–12) Can't believe it's her; whispers rumors about her past.
+
+<!-- walk: y2v5 Ch.2 → p.28 -->
+
 ## y2v6
 
 <!-- walk: y2v6 → start -->

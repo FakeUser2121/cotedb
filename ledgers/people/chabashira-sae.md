@@ -1427,6 +1427,39 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v5 Ch.1 → p.8 -->
 
+### y2v5 p.13–16 — Chabashira announces the second-semester events
+[scene] (p.13) Arrives in homeroom looking the same as the first semester; outlines a packed second semester — an October sports festival, a November cultural festival (the school's first), midterm and final exams, plus a school trip.
+[says] (p.13) "In this second semester, there are a few big events coming up for you guys."
+[says] (p.13) "And in November, we will be holding a cultural festival, which will be our first cultural festival in the history of Advanced Nurturing High School."
+[says] (p.13) "Furthermore, in between these events, there will of course be midterm and final exams."
+[says] (p.14) "The cultural festival will be held with a large number of guests."
+[says] (p.15) "It is possible that there will be conflicts with other classes and grades regarding the location of the stall, but only one class per location can use that location."
+[says] (p.15) "The school will not disclose which class will be doing what kind of performance or where the stalls will be until the day of the festival."
+[says] (p.15) "If the information is leaked, you should expect to be faced with consequences."
+[says] (p.15) "If there's something you can't get on the premises, you can apply for and get it from outside if you gain permission."
+[says] (p.16) "These are the descriptions of the cultural festival and its rules."
+[trivia] (p.14) Cultural festival: second-years get 5,000 private points each (first-years 5,500; third-years 4,500), usable only for the festival; extra funds for student-council/club contributions; 100 class points for 1st–4th place, 50 for 5th–8th, none for 9th–12th; unused funds confiscated.
+[trivia] (p.15) Stall locations cost points (Main Gate 1 = 10,000); one class per location; conflicts settled by bidding war to the school; stall details secret until the day; outside items allowed with permission.
+[trait] (p.13–16) Straightforward and professional — no drama in the delivery; explains the cultural festival first precisely because preparations need two months; Ayanokōji notes the straightforwardness makes him suspect there is more to it.
+[rel:ayanokouji-kiyotaka] (p.13–16) Delivers the briefing; he notes she looks the same as first semester and suspects a hidden "more to it."
+
+### y2v5 p.26–27 — Chabashira checks in on Ayanokōji after the maid-café reveal
+[scene] (p.26) Catches Ayanokōji at the special building as Satō's demonstration winds down; remarks on the performance and what they're planning.
+[says] (p.26) "You've seen Satō and the others?"
+[says] (p.26) "Not a bad idea."
+[says] (p.27) "I was wondering how you were doing personally, so I thought I'd come check on you. How have things been going?"
+[says] (p.27) "Ayanokōji leading a maid café...?"
+[says] (p.27) "Horikita makes some pretty interesting suggestions."
+[says] (p.27) "As for understanding otaku culture, that may be true."
+[says] (p.27) "That's why it's important for you to supervise them."
+[says] (p.27) "You've got to be hungry for the opportunity to learn something other than studying."
+[says] (p.27) "Ayanokōji. Next time you're free... can you give me a few minutes of your time?"
+[says] (p.27) "I'll send you a message soon. Would that be okay?"
+[note] (p.26–27) "Ayanokōji leading a maid café...?" is followed by "Chabashira-sensei laughed somewhat mirthlessly as she gave me a pitiful look." — adjacent-narration attribution; kept as printed.
+[rel:ayanokouji-kiyotaka] (p.26–27) She asks for a few minutes of his time; he agrees, though she gives no reason on these pages.
+
+<!-- walk: y2v5 Ch.2 → p.28 -->
+
 ### y2v5 p.29–44 — Chabashira: the Unanimous Voting Exam briefing
 [says] (p.29) "Before the sports festival in October, you will have to undergo a new special exam."
 [says] (p.30) "The school is giving you the recognition you deserve; you second years have performed very well."

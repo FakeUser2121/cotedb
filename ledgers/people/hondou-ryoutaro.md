@@ -129,10 +129,14 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — hondou-ryoutaro mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.13, p.19-20, p.25, p.27, p.91.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.13, 19–20, 25, 27 — Mentions: the boys' group; the fried-chicken proposal
+[mentioned] (p.13) Sudō chats with Ike and Hondō once at school.
+[mentioned] (p.19) On the day the proposal reward was announced, Hondō "immediately proposed that we sell fried chicken because it was delicious" — Horikita shut him down, telling him to come up with an actual pitch.
+[mentioned] (p.20) The next day, undaunted, he submitted an Internet-recipe proposal — "an impassioned speech about how much he would sell it for and how tasty it would be" — still not adopted; Horikita reiterated what a real proposal needs (cost, location, human resources, price, expected customers).
+[mentioned] (p.25) Horikita names him as better suited to the maid café ("Hondō-kun... may have better eyes for this kind of thing").
+[mentioned] (p.27) Chabashira-sensei sides with Ayanokōji that Ike and Hondō suit otaku culture better.
+
+<!-- walk: y2v5 Ch.2 → p.28 -->
 
 ## y2v7
 

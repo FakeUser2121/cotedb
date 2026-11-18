@@ -1834,10 +1834,21 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — karuizawa-kei mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.10-13, p.19, p.46, p.48-50, p.53-56.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.10–13 — Kei catches up to Ayanokōji on the way to school
+[scene] (p.10) Catches up with him and Sudō on the way to school after he slipped out of the dorm — puffing out her cheeks and pouting, annoyed he didn't tell her he was leaving.
+[says] (p.10) "We were supposed to go to school together, but you didn't tell me you weren't in your room!"
+[says] (p.10) "That's because... I was nervous until the last minute."
+[says] (p.11) "It's not like I'm going to announce it as soon as I get to school."
+[says] (p.11) "Well, that's the thing, isn't it?"
+[action] (p.11) Grins and bumps him on the shoulder with her own when he finally says "We're dating" out loud.
+[action] (p.13) Gathers a group of girls to talk about the summer vacation once at school.
+[trait] (p.10–13) Nervous to make the announcement — teases out the timing, thrilled when he says it first; slips into being annoyed when Sudō gawked at them; quick to assemble her girls at school.
+[rel:ayanokouji-kiyotaka] (p.10–13) Her boyfriend; she wanted to announce the relationship herself but let him speak up first.
+[rel:sudou-ken] (p.10–12) Sudō notices the first-name basis; doesn't get it until "We're dating"; she barely engages him.
+[rel:hirata-yousuke] (p.11–12) Sudō asks her how she got declared when she was with Yōsuke — she deflects ("This is a completely different situation").
+[note] (p.10) Untagged lines in the exchange are assigned by alternation with the narrator's first-person voice ("You never told me you wanted to go to school with me..." is the narrator answering her); kept as adjacent-narration attribution, not name-tagged in the print.
+
+<!-- walk: y2v5 Ch.2 → p.28 -->
 
 ## y2v6
 
