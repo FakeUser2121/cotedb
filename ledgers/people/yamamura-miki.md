@@ -28,6 +28,14 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 [note] (p.106) No dialogue or action is printed for her on these pages; the role is never disclosed.
 
 <!-- walk: y2v12 ch5 → p.118 -->
+
+### y2v12 p.210, 214 — Epilogue: The investigator
+[scene] (p.210) Sakayanagi notes she had Yamamura-san investigate various things for a long time — for Hashimoto's habit of hiding in the toilet when troubled.
+[scene] (p.214) “Images of Yamamura and her classmates flashed through her mind. Maybe there was a future where she’d fulfill her promise with Kamuro, or join hands with Hashimoto again.”
+[note] (p.210) Sakayanagi's surveillance of her own classmates for months; nothing came of it except her own paranoia.
+[rel:sakayanagi-arisu] (p.210–214) Her eyes — the woman who watched everyone, trusted no one.
+
+<!-- walk: y2v12 epilogue → p.228 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

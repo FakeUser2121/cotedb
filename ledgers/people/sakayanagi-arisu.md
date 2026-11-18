@@ -1001,6 +1001,33 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:ryuuen-kakeru] (p.172–199) The defeat of the man who wanted to be her rival — she cuts him down fairly; she owns him completely.
 
 <!-- walk: y2v12 ch8 → p.204 -->
+
+### y2v12 p.208–217 — Epilogue: The message only she can hear
+[scene] (p.208) Hashimoto is laughing in the interrogation room — “Was that it?” — she sits with her cane; he is pale; she knows him completely.
+[says] (p.209) “I won’t be able to meet your expectations, so shall I quickly confess? I’m the traitor.”
+[says] (p.209) “I called you here to find out about the message you heard from Ayanokōji-kun.”
+[scene] (p.209–211) She asks where he got the message — he denies everything; she digs into his childhood — the dirty deserted restroom; the ritual of hiding there; she sees him clearly; he weeps.
+[says:hashimoto-masayoshi] (p.211) “It’s not an unusual story. Back in the day, I was often chased around by people who didn’t like me.”
+[says] (p.212) “Maybe I’ve come to understand you better, Hashimoto-kun. I promised Masumi-san I would expel you.”
+[scene] (p.214) She looks at him and cries for him — “He’s also... a liar, isn’t he?” — the impossible click — she understands AK wanted her to lose.
+[says] (p.215) “He’s also... a liar, isn’t he?”
+[thinks] (p.215) “‘Please lose here.’”
+[scene] (p.216) She smiles — “The traitor’s not you. Right, you are not a traitor.” — she declares innocence for a traitor she knows is guilty — five lives fall; the exam ends; two new departures.
+[says] (p.216) “Is that so? The traitor’s not you. Right, you are not a traitor.”
+[says] (p.216) “Because this is a message from Ayanokōji-kun. That’s all there is to it.”
+[note] (p.217) The final announcement declares her expelled — she was too proud to see it coming; she hopes, sensed, she lost him.
+[rel:hashimoto-masayoshi] (p.208–217) She spares him out of understanding AK's knife-twist; she loses herself instead.
+[rel:ayanokouji-kiyotaka] (p.214–216) The man who remade her; she finally hears him clearly — and it destroys her.
+[rel:kamuro-masumi] (p.214) The girl whose expulsion started this; Sakayanagi might have given Hashimoto the same chance now — she never gets to.
+
+### y2v12 p.224–225 — Short Story: Wavelength
+[scene] (p.224) A sleepless night; she crawls into bed with her phone; she makes the call; he answers; “Fufu...”; even talking to him calms her.
+[says] (p.224) “Fufu...”
+[scene] (p.224–225) She relives the call — he asks about Ryūen's challenge; she brags her superiority is irrefutable; she imagines defeating him and then finally expressing all her feelings; she drifts to sleep.
+[says] (p.225) “Feeling happy over the phone, I gradually succumbed to sleepiness.”
+[note] (p.225) Her SS mirrors her phone-call — the calm before the exam; the page never shows what she dreamed.
+
+<!-- walk: y2v12 epilogue → p.228 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

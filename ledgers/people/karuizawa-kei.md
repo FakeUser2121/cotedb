@@ -1487,6 +1487,12 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:shibata-sou] (p.92–93) They try to sandwich him — the seating is the whole plan.
 
 <!-- walk: y2v12 ch4 → p.100 -->
+
+### y2v12 p.219 — Epilogue: Ichinose SS — the girlfriend named Karuizawa
+[scene] (p.219) Ichinose's short story names Karuizawa-san as Ayanokōji's current girlfriend; Ichinose wrestles with it for one bench and forces herself back to calm.
+[note] (p.219) She is not present; she is invoked as the boundary Ichinose cannot cross — the same rule that shaped the walk-home scene in Chapter 1.
+
+<!-- walk: y2v12 epilogue → p.228 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

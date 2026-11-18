@@ -3742,6 +3742,17 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ayanokouji-kiyotaka] (p.141–151) Her hope is him; he finds her on the hallway after her loss and embraces her — "You have allies."
 
 <!-- walk: y2v12 ch6 → p.152 -->
+
+### y2v12 p.220–221 — Short Story: Familiar Everyday Life
+[scene] (p.220) She sits at the café where he'll meet her; the exam is announced; she muses on never having imagined this life; she notes the passing of time.
+[thinks] (p.221) “Two years ago, following my brother, I enrolled into this school as well.”
+[thinks] (p.221) “Well... I wonder whether counting those two as friends is appropriate.”
+[scene] (p.221) She feels embarrassed yet proud of her changing self — the distance between enrollment-day Horikita and now; he arrives; the day is ordinary, and that is the treasure.
+[rel:ayanokouji-kiyotaka] (p.220–221) The person at the center of all her growth; she waits for him in the café of an exam-day Thursday.
+[rel:kushida-kikyou] (p.221) One of the two she wonders about — she counts them as friends, cautiously.
+[rel:ibuki-mio] (p.221) One of the two she wonders about — she counts them as friends, cautiously.
+
+<!-- walk: y2v12 epilogue → p.228 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

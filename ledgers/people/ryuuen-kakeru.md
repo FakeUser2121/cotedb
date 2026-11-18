@@ -1843,6 +1843,32 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:ayanokouji-kiyotaka] (p.201) AK predicted this; Ryūen realizes it as the room empties.
 
 <!-- walk: y2v12 ch8 → p.204 -->
+
+### y2v12 p.205–208 — Epilogue: The restroom ambush
+[scene] (p.205) Ryūen waits at the restroom at the far end of the stalls — cross arms, guard up — he assumes it is Sakayanagi; instead Ayanokōji arrives — “I see you noticed my call.”
+[says:ayanokouji-kiyotaka] (p.205) “I see you noticed my call.”
+[says] (p.205) “Get to the point. I don’t have time to deal with you today.”
+[scene] (p.205–207) AK wants him to carry a message to Sakayanagi during the exam — only during; Ryūen scoffs — “Are you kidding me?”; AK leaves without explaining — “It’s a special message that only Sakayanagi can understand during the special exam.”
+[says:ayanokouji-kiyotaka] (p.205) “During the special exam, I want to send a message to Sakayanagi through you.”
+[says] (p.205) “Huh? A message? Then say it yourself. Are you kidding me?”
+[says:ayanokouji-kiyotaka] (p.206) “The content of the message is only known to Hashimoto.”
+[says:ayanokouji-kiyotaka] (p.207) “It’s a special message that only Sakayanagi can understand during the special exam.”
+[scene] (p.207) Ryūen clicks his tongue — “What kind of message is that?” — concludes the whole thing is stupid; he pockets it for the end-of-game; he absolutely intends to use it.
+[says] (p.207) “What kind of message is that? Damn it, making it unnecessarily difficult to convey to her.”
+[rel:ayanokouji-kiyotaka] (p.205–207) He is the reason Ryūen's whole endgame exists; Ryūen doesn't see it yet.
+[rel:hashimoto-masayoshi] (p.206) The only one who knows the message; Ryūen doesn't know whether to trust this either.
+
+### y2v12 p.222–223 — Short Story: True Intentions
+[scene] (p.222) He waits in the silent karaoke room; imagines spilling the grape juice on Ayanokōji; decides not to do it — “If I kept on setting traps for him, his guard would only increase.”
+[says:ayanokouji-kiyotaka] (p.222) “I’d prefer to refrain if possible. Are you planning on pouring grape juice on me this time?”
+[says] (p.222) “Don’t be shy, sit down.”
+[scene] (p.223) He tells him to his face — fair and square, not like him; he needs AK to acknowledge him based on results; the vow carries the revenge he is building.
+[says] (p.223) “I’ll show you and Sakayanagi what my serious effort looks like.”
+[thinks] (p.223) “It wouldn’t be bad to employ any means necessary for that. However, this time that would be a hindrance.”
+[rel:ayanokouji-kiyotaka] (p.222–223) The man he wants to avenge himself on — and the one he most respects.
+[rel:sakayanagi-arisu] (p.223) She is named in the vow he makes in his heart right before the karaoke meeting ends.
+
+<!-- walk: y2v12 epilogue → p.228 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

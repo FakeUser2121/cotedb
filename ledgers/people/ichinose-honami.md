@@ -1554,6 +1554,16 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:maezono] (p.166–167) Her classmate is expelled on her table — she loses a member to his plan and cannot find her voice.
 
 <!-- walk: y2v12 ch7 → p.171 -->
+
+### y2v12 p.219 — Short Story: Approaching Promise
+[scene] (p.219) Ichinose arrives before the meeting; sits on the bench; rehearses sitting with Ayanokōji — the date is the same deferred anniversary promise from last year.
+[thinks] (p.219) “Ayanokōji-kun currently has a girlfriend named Karuizawa-san. I must accept that as a human being and make a calm judgment.”
+[thinks] (p.219) “Just thinking about him filled my heart with comfort and happiness.”
+[scene] (p.219) He arrives; she greets him; she seals her feelings for this one afternoon; they part after the meeting — he heads for the gym; she for classmates.
+[rel:ayanokouji-kiyotaka] (p.219) The closest thing to a date she will ever get; she knows Karuizawa comes first.
+[rel:karuizawa-kei] (p.219) The woman who has him; Ichinose handles this with practiced dignity.
+
+<!-- walk: y2v12 epilogue → p.228 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

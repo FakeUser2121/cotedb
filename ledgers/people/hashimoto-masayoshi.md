@@ -1094,3 +1094,22 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [rel:ayanokouji-kiyotaka] (p.49–52) Asks him to jump to Ryūen's class; expects it as a final fixture before tomorrow's match.
 
 <!-- walk: y2v12 ch2 → p.62 -->
+
+### y2v12 p.208–217 — Epilogue: The message he doesn't know
+[scene] (p.208) He is called into the interrogation room; he laughs — “This feels kind of bad, doesn’t it?”; Sakayanagi arrives with her cane; he sits, heart racing.
+[says] (p.208) “This feels kind of bad, doesn’t it?”
+[scene] (p.208–209) She tells him his timing was bad — Ryūen used the traitor rights on his group; he feigns calm; she uses his habits against him — the toilet stall when troubled; he twitches.
+[says] (p.208) “The moment my group was chosen, Ryūen used his traitor rights. The timing was bad.”
+[scene] (p.209–210) She presses — she had Yamamura-san investigate him for a long time; his childhood; he gives truthful-ish fragments; he cries; he begs to be let go.
+[says] (p.210) “No, that was really surprising... How and when did you find out?”
+[says] (p.211) “Enough already. Let’s get on with the confession.”
+[scene] (p.211–212) She doesn't reject him — as close to mercy as Sakayanagi comes; she understands him better now; he weeps openly; he says the quiet part aloud.
+[says] (p.212) “I’m definitely going to be betrayed... I have to... defeat you...”
+[scene] (p.214–216) She closes her eyes — the message lands — “He’s also... a liar, isn’t he?” — she tells him he is not the traitor; she refuses to withdraw; five lives fall; he leaves as the destroyed man; the school announces two new departures.
+[says] (p.215) “He’s also... a liar, isn’t he?”
+[note] (p.216–217) The expulsion he cannot compute — he is dismissed from the school alongside Sakayanagi; her last words: “Because this is a message from Ayanokōji-kun. That’s all there is to it.”
+[rel:sakayanagi-arisu] (p.209–217) The woman who understood him best — he is expelled anyway; she chooses the message over mercy.
+[rel:ryuuen-kakeru] (p.208) The ally he betrayed her for; Ryūen doesn't even know this is happening.
+[rel:maezono] (p.208–217) The girl who told him about AK's plan; she is already gone; he carries the chain of strangers who destroyed him.
+
+<!-- walk: y2v12 epilogue → p.228 -->

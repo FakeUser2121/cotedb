@@ -6035,6 +6035,33 @@ walk: y1v1 → DONE
 [rel:ryuuen-kakeru] (p.195–204) The rematch they both wanted dies in this room; he loses to her, but the real prize transfers away.
 
 <!-- walk: y2v12 ch8 → p.204 -->
+
+### y2v12 p.205–208 — Epilogue: The man in the restroom
+[scene] (p.205) He arrives at the restroom — Ryūen is waiting, arms crossed, guard up (he thinks it is Sakayanagi); he smiles; “Get to the point. I don’t have time to deal with you today.”
+[says] (p.205) “I see you noticed my call.”
+[says] (p.205) “During the special exam, I want to send a message to Sakayanagi through you.”
+[says] (p.205) “Huh? A message? Then say it yourself.”
+[scene] (p.205–207) He tells Ryūen the message is for Sakayanagi only; only Hashimoto knows it; Ryūen scoffs and walks away with AK's impossible demand in his head.
+[says] (p.206) “It’s a lost cause. Not sure if there will be any meaning at that point, but convey her that message yourself after the exam.”
+[says] (p.207) “It’s a special message that only Sakayanagi can understand during the special exam.”
+[note] (p.205–207) He engineers Ryūen to carry his final card — or watch it fail; Ryūen has no idea what he is holding.
+[rel:ryuuen-kakeru] (p.205–207) The messenger for his last gambit; Ryūen won't betray this.
+[rel:sakayanagi-arisu] (p.207) The person this all bends toward; he never faces her in the final; the message is her verdict.
+
+### y2v12 p.219–225 — Short Stories: Seen from three benches
+[scene] (p.219) Ichinose SS — she waits on the bench; she sees him approach from the corner of her eye; he greets her; she seals her feelings away for this one afternoon.
+[thinks] (p.219) “Just the thought had made my heart pound heavily.”
+[scene] (p.222) Ryūen SS — he waits in the karaoke room; watches him arrive; hears his lines exactly as in Chapter 2; nods to himself about grape juice.
+[thinks] (p.222) “If I kept on setting traps for him, his guard would only increase.”
+[scene] (p.224) Sakayanagi SS — late phone call; she smiles before he answers; she makes the call; he answers; she is happy just to have him on the line.
+[says:sakayanagi-arisu] (p.224) “I’m sorry for being late. Is it okay to talk now?”
+[thinks] (p.224) “Why does his voice always calm my heart? It was the perfect wavelength.”
+[note] (p.219–225) Three SS PoVs — Ichinose, Ryūen, Sakayanagi — each of them waiting for him, in their own way, on the same Sunday.
+[rel:ichinose-honami] (p.219) The one-sided love she cannot say; she knows Karuizawa is his girlfriend; she settles for this one meeting.
+[rel:ryuuen-kakeru] (p.222) The man who wants to beat him; he comes in anyway.
+[rel:sakayanagi-arisu] (p.224) The girl who wants to surpass him; she gets one phone call instead.
+
+<!-- walk: y2v12 epilogue → p.228 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

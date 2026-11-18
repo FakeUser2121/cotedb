@@ -274,11 +274,11 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — kamuro-masumi mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.59-60, p.214, p.216; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.214 — Epilogue: The girl Sakayanagi lost
+[scene] (p.214) Named in Sakayanagi's reflection — “she’d never trusted anyone... she lost Kamuro due to her immature heart.”
+[note] (p.214) She does not appear; her expulsion hangs over everything the A/C final means; Sakayanagi contemplates winning the exam and bringing Hashimoto back into the fold, “Maybe it’s okay to give him a chance” — for Kamuro too.
 
+<!-- walk: y2v12 epilogue → p.228 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
