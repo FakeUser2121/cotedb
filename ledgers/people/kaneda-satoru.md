@@ -334,9 +334,11 @@ aliases used for anchors: kaneda, kaneda satoru, kaneda-kun
 [note] (p.9) Passing mention (locator pages: p.109, p.144, p.147; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.109 — Ch.5: The polite comparison pair
+[mentioned] (p.109) Passing mention: "If it were Hirata-kun or Kaneda-kun here, your response would’ve been completely different." — Kaneda named as the comparison classmate against whom Kanzaki's frankness doesn't measure up.
+[note] (p.109) Mention only; no dialogue attributed to Kaneda on these pages.
 
-
-
+<!-- walk: y2v10 Ch.5 → p.122 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

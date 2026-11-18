@@ -1396,7 +1396,6 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [says] (p.105) "Lately, we've been doing recreational activities like cultural festivals and school trips."
 [rel:hashimoto-masayoshi] (p.103–122) She amuses herself by being unhelpful to him.
 
-<!-- walk: y2v10 Ch.5 → p.122 -->
 
 
 ### y2v10 p.9-235 — sakayanagi-arisu mentioned in passing
@@ -1426,6 +1425,37 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.96) The Totsuka reference — Sakayanagi's dislike-target profile — is left exactly as printed; no example of a Sakayanagi move is given on these pages.
 
 <!-- walk: y2v10 Ch.4 → p.100 -->
+
+### y2v10 p.103–105, 119–122 — Ch.5: The public tea party; the evening call
+[scene] (p.103) She's indifferent to time and place; today it's the vibrant Keyaki Mall café; she selects a popular seat with Kamuro and Kitō behind her; the exam tomorrow, no urgent plans.
+[says] (p.103) “You seem quite close to her, don’t you?”
+[says] (p.104) “Special exam? No, you’re mistaken, Hashimoto-kun. Today is just a simple tea party.”
+[says] (p.104) “It’s for public appeal.”
+[says] (p.104) “There’s a benefit. It makes the other three classes more serious, doesn’t it?”
+[says] (p.104) “I want to enjoy the battle. Lately, we’ve been doing recreational activities like cultural festivals and school trips.”
+[scene] (p.119) The evening call; classical music in the background; her calm is intact; she plays dumb so well that Hashimoto cannot tell if she knows.
+[says] (p.119) “It’s unusual for you to call at this hour, Hashimoto-kun.”
+[says] (p.119) “Don’t worry. Please tell me what you have on your mind.”
+[says] (p.119) “What risk are you referring to?”
+[says] (p.120) “You seem rather worried about such a small issue.”
+[says] (p.120) “These three classes are fighting their hardest to get to Class A. They want to win as many class points as possible in the special exam. It won’t be easy for them to join hands just to bring down Class A.”
+[says] (p.120) “I won’t completely deny that possibility. But is that why you called me?”
+[says] (p.120) “You certainly worked hard to gather information, Hashimoto-kun.”
+[says] (p.120) “You’re a hard worker. Are you dating Maezono-san for information, not love?”
+[says] (p.121) “I’ve noticed that you’ve been in contact with her a lot recently. The audio data regarding the Ayanokōji ‘threat discussion’ that you shared with Masumi-san, was prepared by her, wasn’t it?”
+[says] (p.121) “I will sincerely accept your kindness. I’m not sure how much use I can make out of it, but I’ll put it to good use.”
+[says] (p.121) “I already have a basic strategy. I will not rely solely on the information you’ve collected. However, now that I’ve heard it, there are parts I’ll inevitably have to incorporate.”
+[says] (p.121) “Yes. During the special exam, unexpected things can lead to fun. You actually stole some of my fun.”
+[says] (p.121) “I won’t lose. You’ll understand if you watch from the sidelines.”
+[says] (p.121) “Please do. Then...”
+[note] (p.103) She keeps the meeting public to manufacture tension in the other three classes; the strategy meeting is a show, not a working session.
+[note] (p.119) She never shares her plan; she never confirms or denies she already knew what he told her; she treats his intel as a nuisance and his presence as a mild endorsement of her own strategy.
+[voice] (p.104, 120) Whim-driven; bored of guaranteed results; greedy for chaos and novelty inside the game's rules; intensely competitive under the performance.
+[rel:hashimoto-masayoshi] (p.103–122) Her unwitting errand-boy; his paranoia is a feature, not a bug, for her enjoyment.
+[rel:kamuro-masumi] (p.103–104) Kitō and Kamuro orbit her; she permits them to keep her entertained.
+[rel:kitou-hayato] (p.101, 103) He delivers the intel she never asked for; she lets him in on none of it.
+
+<!-- walk: y2v10 Ch.5 → p.122 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

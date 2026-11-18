@@ -413,6 +413,19 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [note] (p.9) Passing mention (locator pages: p.103-104, p.121, p.138, p.146, p.150, p.154; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.103–104 — Ch.5: The café behind the princess
+[scene] (p.103) The vibrant Keyaki Mall café; the popular seat; Kamuro follows behind Sakayanagi; the exam tomorrow, and she behaves as if nothing is happening.
+[says] (p.103) “So? What’s today’s talk about?”
+[says] (p.103) “Hey. Don’t call me by my first name.”
+[says] (p.103) “What kind of habit is that? You’ve hardly ever called me that.”
+[says] (p.103) “Gross.”
+[scene] (p.104) She is sharp about the collusion math — the simpler reading of it — which is why she thinks it unlikely; she doesn't press Sakayanagi for her plan either.
+[note] (p.103) She is not told either whether to trust Hashimoto's intel — her job is to keep her mouth shut, nothing else.
+[rel:sakayanagi-arisu] (p.103–104) The loyal lieutenant; self-aware about her own use; quietly resents the pet-name.
+[rel:kitou-hayato] (p.103) Same docket of unwanted information; they manage each other.
+[rel:hashimoto-masayoshi] (p.103–104) Her suspicion-filter; bad at calming him.
+
+<!-- walk: y2v10 Ch.5 → p.122 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

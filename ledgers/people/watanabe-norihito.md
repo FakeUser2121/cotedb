@@ -120,9 +120,45 @@ char_id: watanabe-norihito · class: unknown · status: unknown
 [note] (p.9) Passing mention (locator pages: p.106-107, p.109, p.112-118, p.127; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.106–118 — Ch.5: The interrogation that wasn't
+[scene] (p.106) Brought along with Kanzaki for unstated reasons; waves at AK and Kei; the fourth-floor entrance; friendly enough that Kei approves of him instantly.
+[says] (p.106) “Yeah, it was just a coincidence.”
+[scene] (p.107) He's shy, visibly nervous in the sudden closeness; his coincidence story holds; nobody questions it.
+[says] (p.109) “I wasn’t sure how today would go, but it turned out to be quite fun.”
+[scene] (p.113) He opens the door without knocking; the impossible tableau; the instinctive bolt to flee — stopped by her.
+[says] (p.113) “Oh, uh, um, sorry, I didn’t knock... so um, I’ll be going!”
+[says] (p.113) “Y-yes!?”
+[says] (p.113) “But I’m intruding, and my business isn’t anything major!”
+[says] (p.113) “...Y-yes.”
+[scene] (p.114) Frightened by their calm demeanors; he complies; he accepts her sympathy-play; his guilt is cultivated.
+[says] (p.114) “Y-yes, of course.”
+[says] (p.114) “S-sorry...”
+[scene] (p.115) He asks to be heard; the junior-high story pours out; the girl he never had the words for; the dating-her-friend betrayal.
+[says] (p.115) “I was in the wrong. Not knocking before entering someone’s room is a breach of manners. I don’t think that something like this would serve as a guarantee for staying silent because of this incident… I came back because I had something to discuss with Ayanokōji. So, um, along with that, would you mind hearing a story from my junior high days...?”
+[says] (p.115) “When I was in junior high, second year, I had a fateful encounter. I became friends quickly with a girl I met when the classes were shuffled. We were seated together—that was the first connection. She said she found me interesting, and we became increasingly close. We were in the same group on a school trip and I was convinced it was destiny.”
+[says] (p.115) “I even thought she might’ve liked me since we were so close, but I was clueless back then... she was dating a pretty cheerful guy from the next class. I didn’t know that and my feelings for her only intensified.”
+[says] (p.116) “Every day, I would call her and chat about gibberish even late into the night—”
+[says] (p.116) “But one day, we really hit it off over the phone. I was shocked when she told me that she liked me. I was so happy... I couldn’t answer when she asked me what I thought of her. It probably took me about five minutes to say ‘I like you too.’”
+[says] (p.116) “No... She was dumped by him before that. I don’t know when, but I think their relationship was probably bad around the time she started talking to me on the phone.”
+[says] (p.116) “I didn’t know about her past relationships at that time, but she fell for me, the second in line, thanks to being dumped by the normie. I was over the moon, not knowing any of that context.”
+[says] (p.116) “We managed to kiss twice, you know? Well, she initiated though...”
+[says] (p.116) “In the end—she apologized to me on the phone while crying. ‘I’m sorry, we can’t date anymore...’ she said. Telling me she liked me on the phone, then telling me she didn’t like me on the phone. It’s laughable.”
+[says] (p.116) “I guess it couldn’t be helped... but it was hard. What really stung was when my close friend laughed while telling me he had dumped her a few months later.”
+[says] (p.117) “I’m shy about love... I thought I would never fall for anyone, but then I fell for another girl as soon as I entered this school... Go figure, right?”
+[says] (p.117) “So, there you have it. I never intended to share such an embarrassing past with anyone. So, I want you to believe me... I won’t tell anyone about today.”
+[says] (p.117) “Today’s talk was going to be about... well, the girl I like. Not that anything has developed, but you know, sometimes you want to talk to friends, right?”
+[says] (p.117) “I-I see… A whim…”
+[says] (p.118) “Wh-what!? H-how did you...!?”
+[says] (p.118) “R-really? Are you sure?”
+[says] (p.118) “R-right!”
+[note] (p.115) His shame-thread is consistent: he tells on himself before anyone asks; his loyalty is won by being treated gently.
+[note] (p.117) His love-interest declaration eschews any actual request; Ichinose hears it anyway.
+[voice] (p.115) Timid, remorseful, chronically under-equipped for directness; the junior-high story is the confession he cannot hold back.
+[rel:ichinose-honami] (p.112–118) The witness-to-lover pivot; he becomes her operative.
+[rel:amikura-mako] (p.106–109) Amikura is the girl he likes (his own admission); Mako-chan watches him fumble.
+[rel:kanzaki-ryuuji] (p.106–108) The plus-one orchestrated by Ichinose; he knows nothing of it until it happens.
 
-
-
+<!-- walk: y2v10 Ch.5 → p.122 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

@@ -10282,7 +10282,7 @@ walk: y1v1 → DONE
 [says:horikita-suzune] (p.98) “That’s not necessarily the case, right? I might unexpectedly be from the area.”
 [says] (p.98) “It’s not something I can share. I want to keep certain things to myself.”
 [scene] (p.99) The coffee goes cold; the synchronized "it's gotten cold" exchange; her smile-shock; she denies knowing why she laughed; she finishes the cup.
-[says:horikita-suzune] (p.99) “It’s gotten cold.”
+[says] (p.99) “It’s gotten cold.”
 [says:horikita-suzune] (p.99) “It’s gotten cold, hasn’t it?”
 [says] (p.99) “Don’t copy me.”
 [says:horikita-suzune] (p.99) “Please don’t copy me.”
@@ -10313,6 +10313,134 @@ walk: y1v1 → DONE
 [note] (p.100) News, lifestyle, and food = AK's own exclusions, noted as such on the page; the three matches she suspected ("Same choices as mine") are entertainment, music, subculture.
 [rel:horikita-suzune] (p.90–100) The two-coffee mentorship session; she walks away with his awareness planted and her priorities reshuffled; she registers his exclusions without questioning them.
 [rel:ike-kanji] (p.81–88) His plan sharpens Horikita's thinking — the 68-point arithmetic was valuable even in failure; he leaves believing he helped.
+
+### y2v10 p.106–109 — Ch.5: The day off; the four-person gathering
+[scene] (p.106) On the day off, he spends the morning with Kei at Keyaki Mall; his phone rings — Kanzaki; Kei waves it off.
+[says] (p.106) “What’s up?”
+[says:kanzaki-ryuuji] (p.106) “Where are you right now? I went straight to your room, but it seems you haven’t returned yet.”
+[says] (p.106) “I’m just on my way back. Do you need something?”
+[says:kanzaki-ryuuji] (p.106) “Could you spare some time to talk? Watanabe and I will be there. Is that alright with you?”
+[says] (p.106) “I’m on my way back now. Can you please tell Watanabe as well?”
+[says:kanzaki-ryuuji] (p.106) “Ok. Can I wait in front of your room?”
+[scene] (p.106) The visit lands after six; Kei recognizes the dynamic and waves goodbye; the dorm entrance at the fourth floor.
+[says:karuizawa-kei] (p.106) “What’s up with Kanzaki-kun and Watanabe-kun?”
+[says] (p.106) “I don’t know. It seems they want to talk. They’re waiting in front of my room. I’m sorry, but I think we should call it a day.”
+[says:karuizawa-kei] (p.106) “That’s fine, but are you close to those two, Kiyotaka?”
+[says] (p.106) “I was in the same group as Watanabe during the school trip. I’ve been seeing him quite a lot recently.”
+[note] (p.106) The parting words to the guests are printed untagged; none assigned.
+[says:karuizawa-kei] (p.106) “Oh, you’re making more and more friends, I see.”
+[says:kanzaki-ryuuji] (p.106) “Sorry for the sudden visit. Were you planning to spend time together later?”
+[says] (p.107) “Don’t worry about it. It’s rare for you two to visit together. Come on in.”
+[scene] (p.107) The living room reads strongly feminine and colorful; they brought snacks from Keyaki Mall as a gift; Kanzaki asks permission to invite two more people.
+[says:kanzaki-ryuuji] (p.107) “I was told to keep it quiet since they didn’t know if they’d be able to go, but when I mentioned meeting up with you, they responded saying they could come. Sorry for the sudden addition, but can I invite two more people?”
+[says:kanzaki-ryuuji] (p.107) “Is that so? Guess I’ll have to prepare with that in mind. Who’s coming?”
+[says:kanzaki-ryuuji] (p.107) “Ichinose and Amikura.”
+[says:kanzaki-ryuuji] (p.107) “The class strategy regarding the upcoming special exam is settled, and Ichinose said she wanted to confirm some final checks with you. It might not be beneficial for you though.”
+[says] (p.107) “I don’t mind. What’s with Watanabe and Amikura coming over?”
+[says:kanzaki-ryuuji] (p.107) “For Watanabe, it was completely coincidental. I bumped into him on the way to your place.”
+[says:watanabe-norihito] (p.107) “Yeah, it was just a coincidence.”
+[scene] (p.107–108) The exam is settled; she wants to talk; Kanzaki took the initiative to raise the collusion question first.
+[says:ichinose-honami] (p.107) “You might’ve already heard from Kanzaki-kun, but regarding tomorrow’s special exam, I wanted to discuss something with you, Ayanokōji-kun. I’m sorry for the sudden request.”
+[says] (p.108) “I don’t mind in particular, but unfortunately, I’m not the leader. If you want to know about our class’s internal affairs or strategies, you should negotiate directly with Horikita.”
+[says:ichinose-honami] (p.108) “That’s okay. Rather, I want you to listen to our side of the story.”
+[says:kanzaki-ryuuji] (p.108) “Hold on. Before you talk to Ayanokōji, there’s something I would like to ask first.”
+[says:kanzaki-ryuuji] (p.108) “If you want to collaborate or something like that, I’ll firmly oppose it.”
+[says] (p.108) “You’re worried about the possibility of me tying the scores for all four classes, aren’t you?”
+[says:kanzaki-ryuuji] (p.108) “To be blunt, yes, that’s exactly it.”
+[says:kanzaki-ryuuji] (p.108) “Even if I were to express my opinion against colluding, if you approved of it, Ichinose, the majority of the class would concur. I didn’t want to let that happen. If behind-the-scenes discussions were happening without me knowing, I wouldn’t be able to do anything. However, if a discussion took place in front of me, I’d be able to speak against it.”
+[says:amikura-mako] (p.108) “The special exam is tomorrow, right? Isn’t it too late to push for the four classes to collude now?”
+[says:kanzaki-ryuuji] (p.108) “Normally, yes. But considering it’s Ichinose, I wouldn’t be surprised if she was still contemplating until the very end to avoid risking anyone’s expulsion. She might change her decision last minute to protect her classmates.”
+[says:amikura-mako] (p.108) “If the four classes could coordinate and ensure a clear victory, her suggestion is worth considering. Even if we lose class points, as long as all classes”
+[says:amikura-mako] (p.109) “face the same fate, it wouldn’t be unfair. As Kanzaki-kun said, it might still be possible to realize that plan.”
+[says:kanzaki-ryuuji] (p.108) “Nevertheless... If we lose the chance to rise—”
+[says:ichinose-honami] (p.109) “Don’t worry. I didn’t come to beg Ayanokōji-kun to agree to this. If I intended that, it would be proper to talk to Horikita-san directly.”
+[scene] (p.109) Kanzaki relaxes; the pretense of friendship; they all leave past six; Watanabe's broad smile; he exchanges a glance with AK.
+[says] (p.109) “Kanzaki-kun, you’ve become quite close to Ayanokōji-kun, haven’t you?”
+[says:kanzaki-ryuuji] (p.109) “Really?”
+[says] (p.109) “Indeed. Even if your former self had these thoughts, you would’ve hesitated to talk so openly about the class’s internal affairs. If it were Hirata-kun or Kaneda-kun here, your response would’ve been completely different.”
+[says:kanzaki-ryuuji] (p.109) “Nevermind me, let’s get on with the conversation.”
+[says:ichinose-honami] (p.110) “The reason I came to Ayanokōji-kun before Horikita-san was—”
+[says:watanabe-norihito] (p.109) “I wasn’t sure how today would go, but it turned out to be quite fun.”
+[note] (p.109) The narration credits Watanabe with lightening the mood; AK signals him with his eyes; he returns a broad smile.
+
+### y2v10 p.110–113 — Ch.5: Ichinose returns alone
+[scene] (p.110) The TV seems suddenly loud; he reaches to turn it off; the doorbell pings — Ichinose, alone, claiming she forgot her phone.
+[says:ichinose-honami] (p.110) “Sorry, Ayanokōji-kun. It seems I left my phone here...”
+[says:ichinose-honami] (p.110) “I think it’s under the table. Really sorry.”
+[says:ichinose-honami] (p.110) “See you around.”
+[says:ichinose-honami] (p.110) “...Oh, can we talk for a bit?”
+[says:ichinose-honami] (p.110) “No, not a good idea. If the door was locked and someone came... That would be even worse.”
+[says:ichinose-honami] (p.110) “Mako-chan and the others just left. I clearly told them that I forgot my phone in your room, so even if someone sees us now, we have a good excuse.”
+[scene] (p.111) He asks whether she intentionally forgot it; she just smiles; she approaches; he catches her fall; the situation ossifies into a shared fiction.
+[says] (p.111) “Did you intentionally forget your phone to be alone with me?”
+[says:ichinose-honami] (p.111) “What do you think, Ayanokōji-kun?”
+[says] (p.111) “My suspicions are probably correct. Your ‘forgetting’ was intentional.”
+[says:ichinose-honami] (p.111) “I wanted to see you, Ayanokōji-kun. Just the two of us, in any way possible... Do you think I’m repulsive...?”
+[says] (p.111) “Repulsive? Why would you say that?”
+[says:ichinose-honami] (p.111) “Why...? Because I went out of my way to see a boy who has a girlfriend...”
+[says] (p.111) “It’s weird for you to boldly meet a guy with a girlfriend. You’re actually being considerate.”
+[says:ichinose-honami] (p.111) “...Really? You really don’t think I’m repulsive?”
+[says] (p.111) “Yeah.”
+[scene] (p.111) She leans against his chest — the "accident"; he lets the fiction stand.
+[says:ichinose-honami] (p.111) “This was an accident... I lost my footing, and you just happened to catch me... right?”
+[says] (p.111) “Yeah. There’s no evidence to deny it.”
+[says:ichinose-honami] (p.112) “I love you, Ayanokōji-kun. I’m helplessly in love with you... I’ve never been in love before. Yet, I have a strong suspicion that this might be my first and last love—it’s strange, isn’t it?”
+[says:ichinose-honami] (p.112) “If we weren’t in different classes, we could’ve spent more time together...”
+[scene] (p.112–113) The door flies open — Watanabe; the impossible gasps; the reaction determines the course.
+[says:watanabe-norihito] (p.113) “Oh, uh, um, sorry, I didn’t knock... so um, I’ll be going!”
+[says:ichinose-honami] (p.113) “Watanabe-kun.”
+[says:watanabe-norihito] (p.113) “Y-yes!?”
+[says:ichinose-honami] (p.113) “Can you come in?”
+[says:watanabe-norihito] (p.113) “But I’m intruding, and my business isn’t anything major!”
+[says:ichinose-honami] (p.113) “Can you come in? Please.”
+[says:watanabe-norihito] (p.113) “...Y-yes.”
+
+### y2v10 p.114–118 — Ch.5: The Watanabe interview
+[scene] (p.114) Three in the cramped genkan; she locks the genkan door with his approval; she owns the accident; the formal-speech complaint; the guilt-technology pitch.
+[says:ichinose-honami] (p.114) “Come in.”
+[says:ichinose-honami] (p.114) “About what happened earlier, I did that on my own. Ayanokōji-kun isn’t at fault.”
+[says:watanabe-norihito] (p.114) “Y-yes, of course.”
+[says:ichinose-honami] (p.114) “I don’t quite like your blatant use of formal speech though.”
+[says:watanabe-norihito] (p.114) “S-sorry...”
+[says:ichinose-honami] (p.114) “I was just hugging him on my own. You saw the situation, so I assume you understand.”
+[says:ichinose-honami] (p.114) “I did something bad. I know there’s no obligation for you to keep this a secret, Watanabe-kun, but I believe you aren’t someone who acts out of malice. I believe you won’t spread this story to harm others.”
+[says:ichinose-honami] (p.114) “I’m really sorry, Ayanokōji-kun. I acted on my own volition.”
+[says:ichinose-honami] (p.114) “I’m glad you say so, but if Karuizawa-san learns about this, she’d get angry… No, she’d be deeply distressed. I’m prepared to take any punishment.”
+[says] (p.114) “Anyway, you two should go home for today.”
+[scene] (p.115) Watanabe doesn't move; he confesses his junior-high story — the fateful encounter, the girl, the near-declaration, the ruin.
+[says] (p.115) “Watanabe?”
+[says:watanabe-norihito] (p.115) “I was in the wrong. Not knocking before entering someone’s room is a breach of manners. I don’t think that something like this would serve as a guarantee for staying silent because of this incident… I came back because I had something to discuss with Ayanokōji. So, um, along with that, would you mind hearing a story from my junior high days...?”
+[says:watanabe-norihito] (p.115) “When I was in junior high, second year, I had a fateful encounter. I became friends quickly with a girl I met when the classes were shuffled. We were seated together—that was the first connection. She said she found me interesting, and we became increasingly close. We were in the same group on a school trip and I was convinced it was destiny.”
+[says:watanabe-norihito] (p.115) “I even thought she might’ve liked me since we were so close, but I was clueless back then... she was dating a pretty cheerful guy from the next class. I didn’t know that and my feelings for her only intensified.”
+[says:watanabe-norihito] (p.116) “Every day, I would call her and chat about gibberish even late into the night—”
+[says:watanabe-norihito] (p.116) “But one day, we really hit it off over the phone. I was shocked when she told me that she liked me. I was so happy... I couldn’t answer when she asked me what I thought of her. It probably took me about five minutes to say ‘I like you too.’”
+[says] (p.116) “She was dating another guy before you, wasn’t she?”
+[says:watanabe-norihito] (p.116) “No... She was dumped by him before that. I don’t know when, but I think their relationship was probably bad around the time she started talking to me on the phone.”
+[says:watanabe-norihito] (p.116) “I didn’t know about her past relationships at that time, but she fell for me, the second in line, thanks to being dumped by the normie. I was over the moon, not knowing any of that context.”
+[says:watanabe-norihito] (p.116) “We managed to kiss twice, you know? Well, she initiated though...”
+[says:watanabe-norihito] (p.116) “In the end—she apologized to me on the phone while crying. ‘I’m sorry, we can’t date anymore...’ she said. Telling me she liked me on the phone, then telling me she didn’t like me on the phone. It’s laughable.”
+[says:watanabe-norihito] (p.116) “I guess it couldn’t be helped... but it was hard. What really stung was when my close friend laughed while telling me he had dumped her a few months later.”
+[says:watanabe-norihito] (p.117) “I’m shy about love... I thought I would never fall for anyone, but then I fell for another girl as soon as I entered this school... Go figure, right?”
+[says:watanabe-norihito] (p.117) “So, there you have it. I never intended to share such an embarrassing past with anyone. So, I want you to believe me... I won’t tell anyone about today.”
+[says:watanabe-norihito] (p.117) “Today’s talk was going to be about... well, the girl I like. Not that anything has developed, but you know, sometimes you want to talk to friends, right?”
+[says:watanabe-norihito] (p.117) “I-I see… A whim…”
+[scene] (p.117) Ichinose names his crush; the Mako-chan declaration lands; she positions herself as his ally with a story about her own "repulsive" feelings.
+[says:ichinose-honami] (p.117) “My unrequited love. Nothing more, nothing less. It’s a fact that Mako-chan and Chihiro-chan also know I’m in love with Ayanokōji-kun.”
+[says:ichinose-honami] (p.117) “I just went back to get something I forgot, and on a whim...”
+[says:ichinose-honami] (p.118) “I think I understand you better after our conversation today, Watanabe-kun. You like Mako-chan, don’t you?”
+[says:watanabe-norihito] (p.118) “Wh-what!? H-how did you...!?”
+[says:ichinose-honami] (p.118) “It’s obvious if you look at it. Recently, you’ve been especially fixated on Mako-chan.”
+[says:ichinose-honami] (p.118) “Mako-chan still seems to like her middle school classmate, but she also wants to embark on a new love. I don’t know who Mako-chan’s feelings will be for, but as her best friend, I feel I can trust you.”
+[says:watanabe-norihito] (p.118) “R-really? Are you sure?”
+[says:ichinose-honami] (p.118) “Of course. First off, you’ll need to slowly close the distance with Mako-chan.”
+[says:watanabe-norihito] (p.118) “R-right!”
+[note] (p.110) Kei often leaves her phone; the Ichinose "forgotten" phone echoes that routine — the pages wink at the difference without naming it.
+[note] (p.118) Watanabe's 100→120% loyalty flip; Ichinose converts a compromised witness into her ally; the love-triangle framing favors whoever loses nothing.
+[rel:ichinose-honami] (p.110–118) She engineers the private moment, contains Watanabe with craft, and gains a devoted operator inside the class.
+[rel:watanabe-norihito] (p.106–118) The innocent reunion-guest; the junior-high confession; Ichinose's insurance play converts him.
+[rel:kanzaki-ryuuji] (p.106–109) Arrives with Watanabe; collusion objection voiced; Ichinose's side expanded with a fourth person.
+[rel:amikura-mako] (p.107–108) Joins with Ichinose; the four-person combination; she speculates about tied scores.
+[rel:karuizawa-kei] (p.106) Eagerly parallel to the dorm visit; her jealousy is mild, her tolerance high.
 
 ### y2v10 p.123–127 — Ch.6: Special exam setup; Sakagami-sensei supervises
 [scene] (p.123) The exam begins; interlude with the class reshuffling seats; she says she won't use protection slots on Ayanokōji; Sudō gulps; Sakagami arrives too; Sakayanagi is ready.

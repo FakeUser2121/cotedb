@@ -253,9 +253,16 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 [note] (p.9) Passing mention (locator pages: p.101, p.103, p.136, p.146, p.148, p.150-151; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.101, 103 — Ch.5: The policy text to Hashimoto
+[scene] (p.101) His message reaches Hashimoto just before the exam —Sakayanagi has decided on something; he also coasts behind her at the café.
+[says] (p.101) “It seems that the princess has finally decided on a policy.”
+[scene] (p.103) The vibrant café; he trails behind Sakayanagi; he stays in the background of the "tea party"; doesn't ask for the plan.
+[note] (p.101) His tipping-off is the first sign that Sakayanagi is always three steps ahead of Class A's guards.
+[rel:sakayanagi-arisu] (p.101, 103) Quiet executor; the intel delivery service.
+[rel:hashimoto-masayoshi] (p.101) The recipient of the message; his paranoia is a feature, not a bug.
+[rel:kamuro-masumi] (p.103) Fellow orbit; same deal.
 
-
-
+<!-- walk: y2v10 Ch.5 → p.122 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

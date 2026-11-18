@@ -192,3 +192,9 @@ char_id: hamaguchi-tetsuya · class: Class 1-B · status: minor
 
 
 <!-- walk: y2v12 Epilogue → p.228 -->
+
+### y2v10 p.107 — Ch.5: Kanzaki's unseen allies
+[mentioned] (p.107) Passing mention: "There were no signs of Himeno and Hamaguchi, who supported Kanzaki." — their absence is the page's way of signalling the meeting's importance.
+[note] (p.107) Mention only; he does not speak on these pages.
+
+<!-- walk: y2v10 Ch.5 → p.122 -->

@@ -907,15 +907,85 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 
 <!-- walk: y2v10 Ch.7 → p.214 -->
 
-### y2v10 p.101–122 — Ch.5: Hashimoto: "princess" and paranoia
-[scene] (p.101–102) Hashimoto smokes after touching his phone rarely; wakes to a message from Kitō about Sakayanagi's policy decision; he can sleep at all.
-[scene] (p.103–105) Goes to the café; calls Sakayanagi "princess"; Kamuro bitterly calls him out; Sakayanagi refuses to discuss strategy; claims it's a casual tea party to avoid making classes tense; he wants to warn about collusion; she refuses.
-[scene] (p.106–122) At his dorm room after dinner; he makes the call; the news goes to him; Kōenji or Ryūen moving against her; he stews; she keeps quiet; he feels locked out and helpless; he resolves to observe.
-[says] (p.101) "Lack of sleep really is bad for you... So sleepy..."
-[says] (p.103) "My bad, my bad. It's just a habit."
-[says] (p.119) "Princess."
-[rel:sakayanagi-arisu] (p.101–122) Follows the tea pot; she's indifferent to collusion talk; he spirals.
-[rel:kitou-hayato] (p.101) Texts him about Sakayanagi's decision.
+### y2v10 p.101–102 — Ch.5: The insomnia
+[scene] (p.101) Thursday morning, the day before the exam; he wakes with a message from Kitō: Sakayanagi has finally decided on a policy.
+[says:kitou-hayato] (p.101) “It seems that the princess has finally decided on a policy.”
+[says] (p.101) “Tsk...”
+[scene] (p.101) Dozens of messages await from the girl he's currently dating — trivial loops of what-to-eat/where-next/“I want to see you, I’m lonely”; he answers with a cute-emote emotionless reply.
+[says] (p.101) “Sorry, I fell asleep. I’ll make it up to you next time.”
+[scene] (p.102) Exam anxiety — losing to Ryūen with class points on the line is absolutely unacceptable.
+
+### y2v10 p.103–105 — Ch.5: The café theatre
+[scene] (p.103) Sakayanagi isn't bound to any time or place; today it's the most vibrant Keyaki Mall café; she picks a popular seat with Kamuro and Kitō behind her.
+[says] (p.103) “My apologies, Princess. I’m a bit late,”
+[says] (p.103) “Hehe, I promise I won’t tell anyone.”
+[says:sakayanagi-arisu] (p.103) “You seem quite close to her, don’t you?”
+[says:kamuro-masumi] (p.103) “So? What’s today’s talk about?”
+[says] (p.103) “You know it even if you don’t ask, Masumi-chan.”
+[says:kamuro-masumi] (p.103) “Hey. Don’t call me by my first name.”
+[says] (p.103) “My bad, my bad. It’s just a habit.”
+[says:kamuro-masumi] (p.103) “What kind of habit is that? You’ve hardly ever called me that.”
+[says] (p.103) “In my heart, it’s always Masumi-chan.”
+[says:kamuro-masumi] (p.103) “Gross.”
+[says] (p.104) “So, shall we start, Princess? It’s about the special exam, right?”
+[says:sakayanagi-arisu] (p.104) “Special exam? No, you’re mistaken, Hashimoto-kun. Today is just a simple tea party.”
+[says] (p.104) “If that’s the case, you wouldn’t have needed to gather the executive members here, Princess.”
+[says:sakayanagi-arisu] (p.104) “It’s for public appeal.”
+[says] (p.104) “What’s the benefit of doing all that? I don’t get it. Can you explain?”
+[says:sakayanagi-arisu] (p.104) “There’s a benefit. It makes the other three classes more serious, doesn’t it?”
+[says:sakayanagi-arisu] (p.104) “I want to enjoy the battle. Lately, we’ve been doing recreational activities like cultural festivals and school trips.”
+[scene] (p.104) After the "casual tea party," he goes to a restroom near the east entrance — an unbreakable "place of refuge" habit; (TL Note: "Origin" is metaphorical — a place to reset to one's roots).
+[says] (p.105) “Even in ANHS, I find myself going to the toilet out of habit. Habits are really hard to break.”
+[says] (p.105) “Shall I go home?”
+[says:ryuuen-kakeru] (p.105) “Looks like the long shit is over.”
+[says] (p.105) “You surprised me. How long have you been here?”
+[says:ryuuen-kakeru] (p.105) “I was just wondering what you were up to.”
+[says] (p.105) “Give me a break. Tomorrow is the special exam, right? I wonder what kind of suspicion I’d be under if I were seen with you here. Couldn’t you have visited my room or used some other way?”
+[says:ryuuen-kakeru] (p.105) “If you’re innocent, then act with confidence.”
+[says] (p.105) “You ask too much. Keep it short.”
+[note] (p.105) The pages never print a door-knock from Ryūen; he was leaning against the wall with his phone in hand.
+[rel:sakayanagi-arisu] (p.103–105) He feeds her the collusion-risk alarm for the third time; she treats it as noise; the "princess" nickname is his own invention.
+[rel:kitou-hayato] (p.101) Texts him the policy decision news.
+[rel:kamuro-masumi] (p.103–104) Calls her out on the nickname game — habit or obsession.
+[rel:ryuuen-kakeru] (p.105) The restroom run-in; mutual low-grade surveillance; he dismisses it as petty.
+
+### y2v10 p.119–122 — Ch.5: The evening call
+[scene] (p.119) 8 p.m.; alone in his room; big sigh — no contact from Sakayanagi as expected; she's just relaxing and waiting.
+[says:sakayanagi-arisu] (p.119) “It’s unusual for you to call at this hour, Hashimoto-kun.”
+[says] (p.119) “Sorry for calling so late, princess.”
+[says:sakayanagi-arisu] (p.119) “Don’t worry. Please tell me what you have on your mind.”
+[scene] (p.119) He tests her with a fabricated "potential risk isn't present" and lets her play dumb.
+[says] (p.119) “Today’s tea party was fun, but there are some things that I need to address. Based on my investigations, it seems that the potential risk isn’t present. I thought I would report that to assure you.”
+[says:sakayanagi-arisu] (p.119) “What risk are you referring to?”
+[says] (p.119) “It’s obvious, isn’t it? The possibility that the three classes will join hands and attack Class A. If the three classes join hands, they can manipulate the majority of points. There’d be no chance of winning if done fairly.”
+[says:sakayanagi-arisu] (p.120) “You seem rather worried about such a small issue.”
+[says] (p.120) “I’m worried. You may not be, Princess, but for me, forming alliances is a threat in itself. It allows them to fire concentrated attacks at Class A.”
+[says:sakayanagi-arisu] (p.120) “These three classes are fighting their hardest to get to Class A. They want to win as many class points as possible in the special exam. It won’t be easy for them to join hands just to bring down Class A.”
+[says] (p.120) “But if someone capable of carrying that out lurks in the shadows, then it’s a different story.”
+[says:sakayanagi-arisu] (p.120) “I won’t completely deny that possibility. But is that why you called me?”
+[says] (p.120) “No, there’s more. In fact, this is the main part. I want to contribute to the class.”
+[says] (p.120) “So... this is all the information I have about Horikita’s class.”
+[says:sakayanagi-arisu] (p.120) “You certainly worked hard to gather information, Hashimoto-kun.”
+[says] (p.120) “Of course. With a rival earning an astonishing number of Class Points, I want to gather every small piece of information and share it with you, Princess. The best time would have been during that tea party though.”
+[says:sakayanagi-arisu] (p.120) “You’re a hard worker. Are you dating Maezono-san for information, not love?”
+[says] (p.121) “Well, that’s also part of the strategy. When did you find out?”
+[says:sakayanagi-arisu] (p.121) “I’ve noticed that you’ve been in contact with her a lot recently. The audio data regarding the Ayanokōji ‘threat discussion’ that you shared with Masumi-san, was prepared by her, wasn’t it?”
+[says] (p.121) “Oh, dear. Did Masumi-chan tell you that?”
+[says] (p.121) “Anyway, I hope you can utilize the information, Princess.”
+[says:sakayanagi-arisu] (p.121) “I will sincerely accept your kindness. I’m not sure how much use I can make out of it, but I’ll put it to good use.”
+[says] (p.121) “If I heard correctly, it doesn’t sound like you want to utilize the information.”
+[says:sakayanagi-arisu] (p.121) “I already have a basic strategy. I will not rely solely on the information you’ve collected. However, now that I’ve heard it, there are parts I’ll inevitably have to incorporate.”
+[says] (p.121) “Is it unnecessary?”
+[says:sakayanagi-arisu] (p.121) “Yes. During the special exam, unexpected things can lead to fun. You actually stole some of my fun.”
+[says] (p.121) “So, can you guarantee that you can win this time?”
+[says:sakayanagi-arisu] (p.121) “I won’t lose. You’ll understand if you watch from the sidelines.”
+[says] (p.121) “Jeez, you’re so confident... I get it. Then don’t worry about what I said. I’ll just observe, as long as no problems arise.”
+[says:sakayanagi-arisu] (p.121) “Please do. Then...”
+[scene] (p.122) The call ends; she was suppressing unease; he vents his remaining resolve; Sakayanagi never shares her plans.
+[note] (p.120) His information package: Kōenji's promise to Horikita, Ryūen's scheming contacts, expulsion candidates, private-points speculation, Horikita's class details; every whisper he had.
+[note] (p.121) Sakayanagi stole the Maezono-connection from him; she has "many eyes"; his audio data was prepared by Maezono all along.
+[rel:sakayanagi-arisu] (p.119–122) He dumps his lifework of intel; she treats it as a minor inconvenience; he resolves to watch and do his part.
+[rel:maezono] (p.120–121) Publicly dating him; Sakayanagi already knew; the "threat discussion" audio was hers.
 
 <!-- walk: y2v10 Ch.5 → p.122 -->
 

@@ -2416,6 +2416,16 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [note] (p.85) Rank speculation on these pages: the page places Ryūen's class among the bottom two with Ichinose's.
 
 <!-- walk: y2v10 Ch.4 → p.100 -->
+
+### y2v10 p.105 — Ch.5: The restroom run-in
+[scene] (p.105) Leaning against the wall beside the entrance with his phone in his hand; snorted a laugh at Hashimoto's refuge habit; they trade barbs about being seen together before the exam.
+[says] (p.105) “Looks like the long shit is over.”
+[says] (p.105) “I was just wondering what you were up to.”
+[says] (p.105) “If you’re innocent, then act with confidence.”
+[note] (p.105) He's curious, not hostile; the pages never say whether he knows why Hashimoto was there.
+[note] (p.105) He is also Class A; the two of them pass each other at least outwardly civil; neither says why he was there. The pages leave the reason for the restroom encounter unspoken.
+
+<!-- walk: y2v10 Ch.5 → p.122 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

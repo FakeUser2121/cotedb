@@ -1975,6 +1975,56 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [mentioned] (p.96) Passing mention: "On the contrary, in Ichinose’s case, she doesn’t think about expelling the other party." — the page contrasts her style with Ryūen's and Sakayanagi's.
 
 <!-- walk: y2v10 Ch.4 → p.100 -->
+
+### y2v10 p.106–118 — Ch.5: The pre-exam inspection visit
+[scene] (p.106) The day off; she texts ahead via Kanzaki; the four of them arrive together — Kanzaki, Watanabe, Ichinose, Amikura — coded around the unstated reason; snacks in hand; she wants his ear but not his agreement.
+[says] (p.107) “You might’ve already heard from Kanzaki-kun, but regarding tomorrow’s special exam, I wanted to discuss something with you, Ayanokōji-kun. I’m sorry for the sudden request.”
+[says] (p.108) “That’s okay. Rather, I want you to listen to our side of the story.”
+[says] (p.109) “Don’t worry. I didn’t come to beg Ayanokōji-kun to agree to this. If I intended that, it would be proper to talk to Horikita-san directly.”
+[says] (p.110) “Nevermind me, let’s get on with the conversation.”
+[says] (p.110) “The reason I came to Ayanokōji-kun before Horikita-san was—”
+[scene] (p.110) After six, the departing guests; the phone; the text; the doorbell pings — she stands alone with her phone in hand, having left it deliberately.
+[says] (p.110) “Sorry, Ayanokōji-kun. It seems I left my phone here...”
+[says] (p.110) “I think it’s under the table. Really sorry.”
+[says] (p.110) “See you around.”
+[says] (p.110) “...Oh, can we talk for a bit?”
+[says] (p.110) “No, not a good idea. If the door was locked and someone came... That would be even worse.”
+[says] (p.110) “Mako-chan and the others just left. I clearly told them that I forgot my phone in your room, so even if someone sees us now, we have a good excuse.”
+[scene] (p.111) The "forgetting" confirmed as intentional; she approaches; he catches her; she uses the fiction.
+[says] (p.111) “What do you think, Ayanokōji-kun?”
+[says] (p.111) “I wanted to see you, Ayanokōji-kun. Just the two of us, in any way possible... Do you think I’m repulsive...?”
+[says] (p.111) “Why...? Because I went out of my way to see a boy who has a girlfriend...”
+[says] (p.111) “...Really? You really don’t think I’m repulsive?”
+[says] (p.111) “This was an accident... I lost my footing, and you just happened to catch me... right?”
+[says] (p.112) “I love you, Ayanokōji-kun. I’m helplessly in love with you... I’ve never been in love before. Yet, I have a strong suspicion that this might be my first and last love—it’s strange, isn’t it?”
+[says] (p.112) “If we weren’t in different classes, we could’ve spent more time together...”
+[scene] (p.112–113) Watanabe bursts in without knocking; she instantly adapts; the genkan; the contingency lock.
+[says] (p.113) “Watanabe-kun.”
+[says] (p.113) “Can you come in?”
+[says] (p.113) “Can you come in? Please.”
+[says] (p.114) “Come in.”
+[says] (p.114) “About what happened earlier, I did that on my own. Ayanokōji-kun isn’t at fault.”
+[says] (p.114) “I don’t quite like your blatant use of formal speech though.”
+[says] (p.114) “I was just hugging him on my own. You saw the situation, so I assume you understand.”
+[says] (p.114) “I did something bad. I know there’s no obligation for you to keep this a secret, Watanabe-kun, but I believe you aren’t someone who acts out of malice. I believe you won’t spread this story to harm others.”
+[says] (p.114) “I’m really sorry, Ayanokōji-kun. I acted on my own volition.”
+[says] (p.114) “I’m glad you say so, but if Karuizawa-san learns about this, she’d get angry… No, she’d be deeply distressed. I’m prepared to take any punishment.”
+[scene] (p.117) She reads Watanabe like an open book; she names his forbidden crush; she positions herself as his ally.
+[says] (p.117) “My unrequited love. Nothing more, nothing less. It’s a fact that Mako-chan and Chihiro-chan also know I’m in love with Ayanokōji-kun.”
+[says] (p.117) “I just went back to get something I forgot, and on a whim...”
+[says] (p.118) “I think I understand you better after our conversation today, Watanabe-kun. You like Mako-chan, don’t you?”
+[says] (p.118) “It’s obvious if you look at it. Recently, you’ve been especially fixated on Mako-chan.”
+[says] (p.118) “Mako-chan still seems to like her middle school classmate, but she also wants to embark on a new love. I don’t know who Mako-chan’s feelings will be for, but as her best friend, I feel I can trust you.”
+[says] (p.118) “Of course. First off, you’ll need to slowly close the distance with Mako-chan.”
+[note] (p.112) Her strategic evolution past the Ichinose first met; the pages note the aspect of her love that is attractive to the opposite sex; AK prepares actors on both lines.
+[note] (p.114) Her handling of Watanabe: she doesn't just silence him — she reaches his guilt and contains him with his own remorse.
+[voice] (p.111) Collective-target charm turned single-target; scandalous-advice persona; masterful absence of fluster.
+[rel:ayanokouji-kiyotaka] (p.110–118) She engineers the isolation; he lets it happen; she gains a man devoted to her class's side.
+[rel:watanabe-norihito] (p.112–118) The witness; the junior-high story; the Mako-chan revelation; her 120% insurance.
+[rel:kanzaki-ryuuji] (p.106–109) She rides in under his auspices; he resents it; she manages him gently.
+[rel:amikura-mako] (p.107–109) Her best friend; the fourth seat; she minds the breach with gentle rebuke.
+
+<!-- walk: y2v10 Ch.5 → p.122 -->
 ## y2v10.25
 
 <!-- walk: y2v10.25 → start -->

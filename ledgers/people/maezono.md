@@ -158,6 +158,13 @@ char_id: maezono · class: Class 1-D · status: minor
 [rel:kushida-kikyou] (p.47) Uses the Kushida expulsion flow as her exhibit.
 
 <!-- walk: y2v10 Ch.2 → p.59 -->
+
+### y2v10 p.120–121 — Ch.5: The Maezono reveal
+[mentioned] (p.120) Passing mention: Sakayanagi asks, "Are you dating Maezono-san for information, not love?" — Hashimoto's covers are blown; she saw him openly dating Maezono several times.
+[mentioned] (p.121) Passing mention: "The audio data regarding the Ayanokōji 'threat discussion' that you shared with Masumi-san, was prepared by her, wasn’t it?" — the threat-discussion audio came from Maezono herself.
+[note] (p.120) The pages reveal the Maezono–Hashimoto pairing as a working relationship with unclear boundaries; Sakayanagi treats it as an open secret.
+
+<!-- walk: y2v10 Ch.5 → p.122 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

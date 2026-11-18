@@ -2022,6 +2022,19 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [mentioned] (p.98) Passing mention: "you started dating Karuizawasan, you started to help the class knowing that it’d make you stand out." — Horikita's read-back of AK's arc.
 
 <!-- walk: y2v10 Ch.4 → p.100 -->
+
+### y2v10 p.106–109 — Ch.5: Her morning, her guests
+[scene] (p.106) A day off with AK at Keyaki Mall; his phone rings mid-morning with Kanzaki; she waves it away; they head back to the dorm; at the fourth floor they part ways — she had plans with friends, not interest in the awkward visit.
+[says] (p.106) “What’s up with Kanzaki-kun and Watanabe-kun?”
+[says] (p.106) “That’s fine, but are you close to those two, Kiyotaka?”
+[says] (p.106) “Oh, you’re making more and more friends, I see.”
+[note] (p.106) The pages don't narrate her further movements that day; she was not present for the room visit.
+[note] (p.106) Her tearlessness reads as composure; her jealousy registers as mild curiosity rather than anger.
+[rel:ayanokouji-kiyotaka] (p.106–109) She's his anchor; the flip side: he protects her from the details.
+[rel:kanzaki-ryuuji] (p.106) She sizes him instantly; friendly but measuring.
+[rel:watanabe-norihito] (p.106) The school-trip group member AK mentioned.
+
+<!-- walk: y2v10 Ch.5 → p.122 -->
 ## y2v10.25
 
 <!-- walk: y2v10.25 → start -->
