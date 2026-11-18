@@ -9518,6 +9518,38 @@ walk: y1v1 → DONE
 [rel:sakayanagi-arisu] (p.119–122) Calls her about collusion; she shrugs him off; he burns her playing into his own hands.
 
 <!-- walk: y2v10 Ch.5 → p.122 -->
+### y2v10 p.123–127 — Ch.6: Special exam setup; Sakagami-sensei supervises
+[scene] (p.123) The exam begins; interlude with the class reshuffling seats; she says she won't use protection slots on Ayanokōji; Sudō gulps; Sakagami arrives too; Sakayanagi is ready.
+[scene] (p.124–127) Sakagami lays the ground rules — everyone takes their seats in the front-of-class desk, the rest of the class sits in the rows behind; rule of limited communal activity; he turns on the monitor with the board design and names order.
+[says] (p.123) "You had a tough time when you got a fever during the first deserted island exam."
+[says] (p.124) "I am Sakagami, appointed as the teacher in charge of this class for this exam."
+[scene] (p.126–127) Parameters of the exam emerge; the meaning of expulsion looms; the order of fight matches the board; first to attack is Horikita.
+[note] (p.126) Ayanokōji's prediction: this is the exam that guarantees an elimination among the four classes.
+[rel:ryuuen-kakeru] (p.124–127) Receiver of Ichinose's aid; Sakayanagi and Horikita know he's not reliable.
+
+<!-- walk: y2v10 Ch.6 → p.127 -->
+
+### y2v10 p.128–163 — Ch.6: Ichinose attacks, Horikita defends
+[scene] (p.128) Ichinose attacks and Horikita nominates five for the quiz; they answer and score points.
+[scene] (p.141–143) Horikita leads lunch break; she proactively announces expulsions will happen; she says if it comes to it, she'll make the difficult call.
+[scene] (p.155–157) Cafeteria: she eats restlessly with Ayanokōji; Sakayanagi joins and trades banter about point math and probable outcomes; she treats the exam as a puzzle she must solve without cruelty.
+
+<!-- walk: y2v10 Ch.6 → p.163 -->
+### y2v10 p.164–188 — Ch.6: Exam review; Kei near-eliminated
+[scene] (p.167–170) Ayanokōji discusses points with Horikita; Kei-sama receives nearly consecutive nominations from Ichinose; Haruka warns Kei to stay shut.
+[scene] (p.172–176) Ryūen's tactic emerges; he berates the four classes; Horikita announces she's not worried about outcome.
+[scene] (p.181–184) Ichinose's class crushes Ryūen despite his beast-like outbursts; Ichinose sees her class selflessly; the outcome is closer than anyone initially expected.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.213–229 — Epilogue: Sakayanagi's humbling; new beginnings
+[scene] (p.213–214) Hashimoto reveals his collusion; Sakayanagi looks upon Ryūen without anger; she passes the examinator role to the four classes.
+[scene] (p.225–229) Ayanokōji saddled regular commutes with Ichinose and Kei; he wants to pass Kasasoka earlier over summer vacation; then Akimi withdraws her election pledge.
+[scene] (p.213–228) Peril and calculation head toward exams; Ichinose pays for him gently; he travels to Keyaki Mall with Kei; Sakura today is formal.
+
+<!-- walk: y2v10 Epilogue → p.229 -->
+
+
 
 
 ### y2v10 p.66–80 — Ch.3: Kōenji is the benefactor; the gift-hunt
