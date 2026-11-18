@@ -945,6 +945,16 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 ## y2v10
 
 <!-- walk: y2v10 → start -->
+### y2v10 p.209–214 — Ch.7: Hashimoto's betrayal revealed
+[scene] (p.209–211) Sakayanagi confronts Hashimoto; he's been channelling her every move and reporting elsewhere; Sakayanagi remains composed; she presents the evidence; he accepts the inevitable.
+[scene] (p.213–214) He reveals Ryūen's tactics; he worked as a low-key operative; Sakayanagi exposes him; the class waits; expulsion hangs in the air; the cold calculus closes.
+[says] (p.210) "I'm worried."
+[says] (p.213) "It was hard for me too."
+[rel:sakayanagi-arisu] (p.209–214) Once trusted bond turned rivals; she exposes him to his face.
+[rel:ryuuen-kakeru] (p.213) Exposes Ryūen as an agent of chaos.
+
+<!-- walk: y2v10 Ch.7 → p.214 -->
+
 ### y2v10 p.101–122 — Ch.5: Hashimoto: "princess" and paranoia
 [scene] (p.101–102) Hashimoto smokes after touching his phone rarely; wakes to a message from Kitō about Sakayanagi's policy decision; he can sleep at all.
 [scene] (p.103–105) Goes to the café; calls Sakayanagi "princess"; Kamuro bitterly calls him out; Sakayanagi refuses to discuss strategy; claims it's a casual tea party to avoid making classes tense; he wants to warn about collusion; she refuses.

@@ -2268,6 +2268,16 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 ## y2v10
 
 <!-- walk: y2v10 → start -->
+### y2v10 p.172–188 — Ch.6: Ryūen's POV; the wild comeback
+[scene] (p.172–176) Ryūen POV; he remembers the past defeat by Ayanokōji; resolves to strike Sakayanagi first, then Ichinose; he stands by watching, running his own game.
+[scene] (p.173) He commands Tokitō to nominate five names without sounding human; his class looks poisoned without saying anything.
+[says] (p.175) "Don't joke around. It's not just the class's problem. Ryūen, you must understand that it's hard for other classes to get perfect scores too. As a leader, you should use your wisdom to protect as many people as possible."
+[says] (p.176) "Gambling can be fun. It's like randomly tossing a dice."
+[says] (p.176) "Heh. It seems you can't do anything, Sakayanagi."
+[note] (p.172) Ryūen, intent on revenge; he abandoned the face he had at twelve, chasing the revenge.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
+
 
 ### y2v10 p.9-235 — ryuuen-kakeru mentioned in passing
 [scene] (p.9) Named in this volume.

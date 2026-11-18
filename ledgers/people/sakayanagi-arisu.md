@@ -1155,6 +1155,17 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 ## y2v10
 
 <!-- walk: y2v10 → start -->
+### y2v10 p.189–217 — Ch.7: Sakayanagi falls; the lottery
+[scene] (p.189) The second half begins; Ryūen's scheming has been in motion; Sakayanagi obstructs for fun from afar; she watches the queues sway.
+[scene] (p.192–197) After the exam, she pulls the rug on her own classmates; she calls her eliminated thelucky lottery; she doesn't regret; she wants to show she's unafraid of letting anyone go.
+[scene] (p.194–199) Morishita holds the lots; Kamuro draws and smiles; Yamamura's fate breaks; Sakayanagi's cold logic crystallizes.
+[scene] (p.197) "Yamamura and I will draw at the same time," said by Kamuro, sparking the exchange.
+[says] (p.194) "Are you dissatisfied? Unfortunately, it won't make a big difference who is expelled."
+[says] (p.197) "Come quickly."
+[note] (p.198) The result separates the close from tools; Sakayanagi sees them all at the same level now.
+
+<!-- walk: y2v10 Ch.7 → p.217 -->
+
 ### y2v10 p.103–122 — Ch.5: Sakayanagi: enjoy the battle
 [scene] (p.103–105) Virtually no reaction to the collusion suspicion; the three classes can't plausibly come together; she refuses to waste strategy contradicting on what she sees as motivation to engage them; treats games as playtime; she picks fights for her own amusement.
 [scene] (p.119–122) Sakayanagi accepts Hashimoto's call late at night; she doesn't believe the classes will actually collude; she doesn't care about the outcome; she wants to know what it feels like to play the battle; she'll return what she has; he's frustrated; she steadfastly refuses.

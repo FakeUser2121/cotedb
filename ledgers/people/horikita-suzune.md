@@ -4529,6 +4529,18 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 ## y2v10
 
 <!-- walk: y2v10 → start -->
+### y2v10 p.123–125 — Ch.6: Special exam begins; Sakagami-sensei
+[scene] (p.123–125) Horikita leads the pre-exam seating; calm; Sakagami joins; she confronts Sakayanagi directly.
+[scene] (p.128–127) The first five are nominated by Horikita to answer, class B goes on the edge; she starts the sequence.
+[scene] (p.141–143) Lunch break; she remains composed; she says expulsion is the price of losing; Kei and Satō worry too.
+[scene] (p.155–161) Cafeteria before the second half; she and Ayanokōji and Sakayanagi banter; she meets Sakayanagi-led chaos luck; she warns herself to stay patient.
+[scene] (p.163–164) Straightforwardly explains the exam to the class; assures Hou-era-level “can do.”
+[note] (p.128) Horikita's first turn yields both well above and below expectations; she logs each turn's data methodically.
+[note] (p.123) She's in full command; she single-handedly shaped the first half to a draw.
+[rel:sakayanagi-arisu] (p.155–161) Lunch meeting clashes with SakayanagiMadeleine's rise; she's a calm leader.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
+
 ### y2v10 p.16–26 — Ch.1: "Ibuki-san's lunchbox" wager
 [scene] (p.16) After Kei's group heads off to cafeteria, she appears behind him and offers to treat him; she proposes eating Ibuki's first-ever home bento on an empty outdoor bench as a full-blooded gamble.
 [scene] (p.17–20) She forces Ayanokōji and Kushida into the plan, brings him along reluctantly; they drag him outdoors to the cold bench; Ibuki arrives with a lunchbox wrapped in furoshiki from a 100-yen shop; everybody shares it with disposable chopsticks.
