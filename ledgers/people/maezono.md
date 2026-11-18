@@ -146,11 +146,27 @@ char_id: maezono · class: Class 1-D · status: minor
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — maezono mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.159-162, p.165-167, p.169-170; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.159–167 — Ch.7: The traitor who leaked
+[scene] (p.159) She sits in the interrogation room opposite Ayanokōji — the traitor room; says “Is it my turn this time?”; he tells her he is lost about who the traitor is, randomly calling classmates.
+[says] (p.159) “Is it my turn this time?”
+[scene] (p.160) He asks her to formally confirm she is not the traitor — “Maezono, you’re not the traitor, right?” — she says she is not; then she hesitates and looks at him with eyes full of rage.
+[says:ayanokouji-kiyotaka] (p.160) “Right. For the sake of progress, let me formally confirm things.”
+[says] (p.160) “…Hey, if I was the traitor and was found lying, what would happen to you?”
+[scene] (p.161–162) Asked why she leaked it, she confesses — she was in the gathering of “a few of our classmates,” spread unsettling information about him, and passed it to Hashimoto; she named him; he'd pressured her.
+[says] (p.162) “Masayoshi! I told Masayoshi!”
+[says] (p.162) “I understand, but… but this information wasn’t even that important!”
+[scene] (p.165) He tells her that even Hashimoto wants obedience more than truth; he knows her type; she swears she won't do it again; he asks her to confess formally; she denies everything.
+[says] (p.165) “I wouldn’t do that! There’s no way I would!”
+[says] (p.165) “Okay, okay, I get it! I absolutely won’t do anything like that anymore!”
+[scene] (p.165–166) He declares her guilty of being the traitor; expulsion is handed down; she screams she won't leave until he takes it back; she chases after him; the examiners stop her at the door — she is expelled.
+[says] (p.166) “No! I won’t leave until you take it back!”
+[says] (p.166) “Take it back! Take it back right now!”
+[says] (p.166) “I will never forgive you!!”
+[note] (p.166–167) Her expulsion is real (recorded in the official announcement); the exam staff seemed unwilling to let this route be used; the line “this special exam was hastily…” is cut off on-page — the special circumstances are withheld from the reader.
+[rel:hashimoto-masayoshi] (p.162–167) The man who owned her — she leaked for him; she is discarded the moment she loses value.
+[rel:ayanokouji-kiyotaka] (p.159–167) The man she called to evaluate her — he evaluates her and she is expelled for owing someone loyalty.
 
+<!-- walk: y2v12 ch7 → p.171 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

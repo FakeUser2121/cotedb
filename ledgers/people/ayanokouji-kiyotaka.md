@@ -5940,6 +5940,92 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v12 ch3 → p.86 -->
 
+### y2v12 p.99–100 — Ch.4: The waiting room
+[scene] (p.99) He sits next to Horikita in the waiting room as the announcement lands — Hirata out, middle guards Kanzaki and Horikita to prepare; she addresses him with brief resolve — “I’ll be going now.”
+[says] (p.99) “Good luck.”
+[note] (p.99) His words sounded somewhat indifferent; she doesn’t hold it against him — she knows he contributed to the class in his own ways, this exam included.
+[rel:horikita-suzune] (p.99) He blesses her with two words; he knows what winning costs her.
+
+<!-- walk: y2v12 ch4 → p.100 -->
+
+### y2v12 p.146–152 — Ch.6: The generals' battle
+[scene] (p.146) The monitor announcement lands — Horikita's 0 against Ichinose's 10; Yōsuke sighs; he explains why it doesn't matter — her complete defeat wasn't chance; this result is proof she was no match for Ichinose.
+[says] (p.146) “No, that would be irrelevant. Horikita’s complete defeat wasn’t just a coincidence.”
+[scene] (p.146–148) He heads for the rooms he needs; Ryūen follows fast — “The bathroom is the other way.”; he deflects the Ryūen compliments; he finds Horikita feebly walking the hallway; she apologizes; he tells her she defeated both vanguard and middle guard herself.
+[says] (p.147) “The bathroom is the other way.”
+[says] (p.147) “You should worry more about yourself.”
+[says] (p.147) “You returned quite early. I thought you might bring back the generals head.”
+[scene] (p.148–151) He comforts her in the hallway — no one around — he gently pulls her into an embrace; tells her she has allies, don't bear it alone; she stops resisting.
+[says] (p.148) “I understand the pressure you were under.”
+[says] (p.149) “You have allies. Don’t forget that.”
+[says] (p.151) “You’ll likely face similar situations in the future.”
+[says] (p.151) “Just leave the rest to me. I don’t intend to let your class lose in this special exam.”
+[scene] (p.152) He arrives at the duel's stage; the door opens; Ichinose's smile greets him.
+[rel:horikita-suzune] (p.146–151) She lost; he comforts her in person; the two have been through weeks of secrets together; this is the tenderest privacy they've had so far.
+[rel:ryuuen-kakeru] (p.146–147) Ryūen follows to size up his own exam; he is the lesser threat of the two waiting generals.
+
+<!-- walk: y2v12 ch6 → p.152 -->
+
+### y2v12 p.153–158 — Ch.7: The proposal that is the exam
+[scene] (p.153) In the room, Ichinose waves her hand gently; he sits; he apologizes first — he participated as the general after all; she forgives instantly; Ichinose is unbothered.
+[says:ichinose-honami] (p.153) “I didn’t expect you to completely defeat Horikita.”
+[says] (p.153) “I was just lucky. I did better than usual, for my own standards.”
+[scene] (p.154–155) He pivots — the existence of the traitor; she agrees; he proposes both abandon the traitor right — show the tablet, then identify vis-à-vis through the interrogation.
+[says:ichinose-honami] (p.154) “Yes. The existence of a traitor is the only unpredictable element.”
+[says] (p.155) “It’s about the traitor role I was just referring to.”
+[says:ichinose-honami] (p.155) “I agree. Being misled by the traitor system is scary, and I’d like to avoid causing trouble for everyone if possible.”
+[says] (p.155) “There’s only one reason why I wanted to abandon this system.”
+[scene] (p.156–157) She hesitates — what about the traitor right; he steers her into agreement; she picks Mako — he sets his own traitor right via her tablet; they show each other their screens; he moves his chair in front of her — blocks her monitor — she accepts.
+[says:ichinose-honami] (p.156) “Then, I guess I’ll go with Mako-chan.”
+[says:ichinose-honami] (p.156) “No, I wouldn’t be satisfied otherwise.”
+[says:ichinose-honami] (p.156) “Then, for fairness’s sake, I’ll tell you the information I’ll gain from the traitor’s effect until it’s over.”
+[says:ichinose-honami] (p.157) “Move your seat back immediately. This is an act of obstruction.”
+[scene] (p.157–158) Both pass haphazardly; interrogations happen — he interrogates Okitani; she interrogates someone unrelated; the announcement: both traitors remain; Mitarai is revealed an ordinary student to Ichinose; he smiles.
+[says] (p.158) “Ichinose, since you’ve decided to overlook it too, you should exercise the right to initiate an interrogation at least a few times haphazardly.”
+[note] (p.158–159) The traitor he designates is never shown to anyone but him — his plan runs on invisible rails; the whole cooperative-vibe performance with Ichinose is a bluff.
+
+### y2v12 p.159–166 — Ch.7: The Maezono interrogation
+[scene] (p.159) He calls Maezono to the third interrogation; she sits, uneasy — “Is it my turn this time?”; he tells her he is completely lost, just randomly calling classmates.
+[says:maezono] (p.159) “Is it my turn this time?”
+[scene] (p.160) He tells her she is not the traitor — “participants can't end the interrogation without confessing” — then, calmly, “I’m convinced and want to declare that Maezono is this class’s traitor.”
+[says] (p.160) “Right. For the sake of progress, let me formally confirm things.”
+[says] (p.160) “Maezono, you’re not the traitor, right?”
+[says] (p.165) “the representative declares whether that is true or false.”
+[says] (p.161) “I’m convinced and want to declare that Maezono is this class’s traitor.”
+[scene] (p.161–162) She panics; he says it’s too late to redo the confession; she breaks and names him — she says she was in the gathering, spread unsettling talk about him, passed it to Hashimoto.
+[says:maezono] (p.161) “That’s not fair!”
+[says:maezono] (p.162) “Indeed, I might have… leaked it…”
+[says:maezono] (p.162) “Masayoshi! I told Masayoshi!”
+[scene] (p.162–165) He tells her about herself — the leak, the gathering, the Hashimoto courtship — was her first offense; asks her about a future of forced betrayal; she clings to denials; he judges her guilty; she is expelled.
+[says:maezono] (p.163) “That is—”
+[says] (p.165) “Do you think this was your first offense?”
+[says] (p.165) “I’m afraid I don’t believe that at all.”
+[says] (p.165) “My judgment remains unchanged. There’s no need to redo the confession. Maezono is a traitor.”
+[scene] (p.166–167) She screams for him to take it back — examiners stop her at the door; expulsion is final; Ichinose asks him why — he tells her the traitor system itself is what he was dismantling; he disposes of her as a tool.
+[says:maezono] (p.166) “I will never forgive you!!”
+[says:ichinose-honami] (p.167) “Ayanokōji-kun... why... why is Maezono-san being expelled?”
+[says] (p.167) “Why…? I said I would remove the traitor system—my purpose in doing so was to expel Maezono. That’s all there is to it.”
+[rel:maezono] (p.159–167) The tool — she is used and discarded; the exam staff seemed to want this route closed; she is expelled for nothing.
+[rel:hashimoto-masayoshi] (p.162) She names him as her recipient; he is now the leak's source — Horikita's participation was never safe.
+
+### y2v12 p.167–171 — Ch.7: The name in the mailbox
+[scene] (p.167) After Maezono's expulsion, he returns with a calm surface; Ichinose is broken — she lost a classmate to him; the discussion resumes; he smiles at her.
+[says] (p.167) “Thank you for cooperating, Ichinose. Thanks to you, it was easy for me to dispose of the defective tool.”
+[scene] (p.168) He pivots to last year — the shoplifting incident; the accusatory letter in the mailbox; the rumors that spread before it was exposed; “You thought that it was probably Sakayanagi who spread those rumors...”
+[says] (p.168) “Do you remember? Last year, a minor incident occurred in our year. It was exposed that a female class leader had shoplifted in the past, and it came to light.”
+[says:ichinose-honami] (p.168) “It’s about me, isn’t it?”
+[scene] (p.169) He plants the doubt — the letter might have been him; “I could take that material away. By helping you, my credibility inevitably increased.” — she falls silent.
+[says] (p.169) “The accusatory letter found in the dormitory’s mailbox—did you ever doubt whether it was really Sakayanagi who planted it?”
+[says] (p.169) “You might think it’s a bad joke, but can you say for sure that it isn’t true?”
+[scene] (p.170) He twists the knife — “Everything I’ve been involved in regarding you had an ulterior motive. Even during the deserted island exam and the night of the school trip, I acted solely for my own sake.”
+[says] (p.170) “I understand that you don’t want to believe it, but it’s the truth.”
+[says] (p.170) “Even during the deserted island exam and the night of the school trip, I acted solely for my own sake.”
+[scene] (p.171) The discussion continues — time passes; her thoughts are scattered; her mind refuses to engage; the announcement comes: he identifies the honor student — Ichinose loses three lives — she is defeated — he wins.
+[note] (p.171) The announcement text: “Ayanokōji-kun has successfully identified the honor student, so Ichinose-san will lose three lives. As this brings her lives to zero, Ichinose-san is defeated... please leave the room.” — the end-of-year special exam's B/D side is over; Horikita's class wins.
+[rel:ichinose-honami] (p.168–171) The psychological annihilation — the exam ends inside her head before it ends in the room; he wins without ever raising anything but a sentence.
+[rel:sakayanagi-arisu] (p.169) The Sakayanagi did it — that's the lie/truth she must now carry home; the letter in the mailbox is unexplained on-page.
+
+<!-- walk: y2v12 ch7 → p.171 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

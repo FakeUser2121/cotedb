@@ -67,10 +67,8 @@ char_id: okitani-kyousuke · class: unknown · status: unknown
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — okitani-kyousuke mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.158-159; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.158–159 — Ch.7: The first interrogation
+[scene] (p.158–159) He is called into the interrogation room before the traitor is revealed; he denies being the traitor; Ayanokōji declares him innocent; he is released.
+[note] (p.159) No dialogue from him is printed on these pages; his role is never disclosed.
 
-
-
+<!-- walk: y2v12 ch7 → p.171 -->

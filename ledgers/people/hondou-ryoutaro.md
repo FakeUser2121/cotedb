@@ -199,11 +199,12 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — hondou-ryoutaro mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.156, p.159; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.156, 159 — Ch.7: Named in the traitor calculus
+[scene] (p.156) Named as the kind of student who could be lured by sweet temptations — cited as a potential traitor scenario.
+[scene] (p.159) An earlier interrogation with him is referenced — he said that Maezono seemed suspicious; his interrogation itself is not printed.
+[note] (p.156, 159) He is present in the chapter only as a name and as a reference to an off-page interrogation; no line of his is printed.
 
+<!-- walk: y2v12 ch7 → p.171 -->
 ## y3v1
 
 <!-- walk: y3v1 → start -->

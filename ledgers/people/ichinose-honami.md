@@ -1531,6 +1531,29 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:ayanokouji-kiyotaka] (p.153) His rival — she will meet him in the arena next; she says she is very nervous, and honestly says just being together with him makes her feel this way.
 
 <!-- walk: y2v12 ch6 → p.152 -->
+
+### y2v12 p.153–171 — Ch.7: The opponent in the velvet cage
+[scene] (p.153) She greets him warmly; she accepts his lie about participation instantly; she tells him she is nervous, just being together with him makes her feel this way; she says she's very confident she can win, but that traitor is the only unpredictable element.
+[says] (p.153) “But can I ask you one thing? Ayanokōji-kun, what are you feeling right now?”
+[says] (p.153) “I am... very nervous. Just being together like this with you naturally makes me feel this way.”
+[scene] (p.154–157) He proposes the mutual abandonment of traitor rights; she hesitates — what about the comeback; she asks if he really wants to invalidate it this much; he steers her agreement; she picks Mako-chan as her traitor; she gets shown his screen — he turns his chair in front of her monitor; she accepts obstruction without objection.
+[says:ayanokouji-kiyotaka] (p.155) “Of course, there should be no problems with this exchange.”
+[says] (p.156) “Then, for fairness’s sake, I’ll tell you the information I’ll gain from the traitor’s effect until it’s over.”
+[says] (p.157) “No, not at all. I also won’t do anything in this discussion. That makes us equal.”
+[scene] (p.158) She shows him her tablet — Mitarai is an ordinary student; the announcements say both traitors remain; the board is reset.
+[says] (p.158) “Ah... so this is how the messages arrive. I just got this on my tablet.”
+[scene] (p.166) The unbelievable lands — Maezono is expelled; she asks why; she is silent, gutted; he says it was the tool of the system itself; she says nothing for a moment.
+[says] (p.166) “But, but, you already knew, right? Then why did you do such a thing...?”
+[scene] (p.168–170) He drags her into the dark — the shoplifting incident; the mailbox letter — “What if it was me who planted that letter...”; she falls silent; her hard-won composure shatters; she knows it's probably true.
+[says] (p.168) “It’s about me, isn’t it?”
+[says] (p.169) “What are you saying...?”
+[says] (p.170) “...I can’t believe it...”
+[scene] (p.171) The discussion resumes; her thoughts are scattered; her vision narrows; her heart rate rises; her mind blanks — she loses three lives; she is defeated; he wins.
+[note] (p.171) The announcement: “Ayanokōji-kun has successfully identified the honor student, so Ichinose-san will lose three lives. As this brings her lives to zero, Ichinose-san is defeated... please leave the room.”
+[rel:ayanokouji-kiyotaka] (p.153–171) His rival — he lures her in velvet, then empties her brain for the room; she learns what she is fighting at the exact moment the exam decides itself.
+[rel:maezono] (p.166–167) Her classmate is expelled on her table — she loses a member to his plan and cannot find her voice.
+
+<!-- walk: y2v12 ch7 → p.171 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
