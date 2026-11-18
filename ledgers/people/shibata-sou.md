@@ -374,7 +374,9 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 
 <!-- walk: y2v9.5 → start -->
 
-
+### y2v9.5 p.10-219 — Sou: no page hits
+[scene] (p.10) Rostered for this volume.
+[note] (p.10) Page locator found no matches for this name in this volume; possible spelling/alias variant missed. Not read line-by-line.
 
 ## y2v9.75
 

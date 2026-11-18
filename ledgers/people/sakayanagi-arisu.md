@@ -1119,6 +1119,30 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
+### y2v9.5 p.90–98 — Ch.4: Sakayanagi at the mall with Sanada
+[scene] (p.90) Sits on a bench in the supermarket; calls Ayanokōji over; he explains the failed cake quest; she teases him.
+[scene] (p.92–94) Sanada, her classmate, arrives; she fields his nervousness about Ayanokōji; Sanada takes him aside to lecture about Sakayanagi; the two smile at each other.
+[scene] (p.96–98) She reveals her Christmas "date" with Sanada was a joke (Miya-san only recently started dating him); she pre-empts his instinct to buy convenience-store sweets; tells him to take his revenge next year; waves him off.
+[says] (p.94) "Today, I was on a date with Sanada-kun. I spent Christmas with him."
+[says] (p.98) "If I were you, I would quietly go home and take my revenge next year."
+[note] (p.94) On a second viewing the whole "date" story is a playful fabrication; the page confirms it a moment later.
+[rel:ayanokouji-kiyotaka] (p.90–98) Knows his Kei is down with the flu; shows up uninvited; insists he wait until next year's cakes.
+[rel:sanada-kousei] (p.92–98) Plays wingman for him; he buys the Christmas birthday present for Miya with her advice.
+
+
+### y2v9.5 p.99–111 — Ch.4: Sakayanagi: the cake; the snow walk; the confession
+[scene] (p.99) Phones him at 8 p.m.; checks whether Karuizawa has recovered (two-day room rule); cuts the call and appears at his dormitory door a moment later.
+[scene] (p.100–104) Hands him a small box she calls Santa's; two famous-shop cakes bought from Sawada (delayed-delivery famous shop); pays private points properly; eats with him; asks him to walk outside.
+[scene] (p.105–111) Walks with him in the snow; he catches her when she nearly falls; she tests him about Class A's strengths and weaknesses; at the parting, says she has come to like him — not as a human being, but as a person of the opposite sex; asks for nothing; he asks if she can turn that emotion from a weakness into a strength; she laughs; he leaves.
+[scene] (p.110–111) (Sakayanagi POV) Her monologue to the wind; he is, to her, an enemy she must defeat; she loves him; his plan has been going awry since the summer island exam; she's excited to obstruct him next.
+[says] (p.100) "Merry Christmas. Santa has arrived."
+[says] (p.108) "I have come to like you."
+[says] (p.108) "This is not as a human being, but as a person of the opposite sex."
+[says] (p.110) "I love you."
+[rel:ayanokouji-kiyotaka] (p.90–111) Confession by remote exit; wants him changed by unexpected emotion; plans to obstruct his White Room plan.
+
+<!-- walk: y2v9.5 Ch.4 → p.111 -->
+
 
 ### y2v9.5 p.211–216 — Sakayanagi's new-year resolve (POV)
 [scene] (p.211–216) In her own viewpoint she follows reports of Ayanokōji leaving the dorms with Hiyori, notes Karuizawa and Kamuro also tailing him, and reflects that she never expected to feel something for anyone — she recognises his ability and resolves to defeat him to prove her own talent.

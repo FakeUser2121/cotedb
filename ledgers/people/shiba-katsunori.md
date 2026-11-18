@@ -72,4 +72,9 @@ char_id: shiba-katsunori · class: Class 1-D · status: unknown
 
 <!-- walk: y2v9.5 → start -->
 
+### y2v9.5 p.48 — Shiba mentioned in passing
+[scene] (p.48) Named in this volume.
+[note] (p.48) Passing mention (locator pages: p.48; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.48) Passing mention only.
 
+<!-- walk: y2v9.5 Ch.3 → p.48 -->

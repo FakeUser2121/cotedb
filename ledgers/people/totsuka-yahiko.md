@@ -283,7 +283,12 @@ char_id: totsuka-yahiko · class: Class 1-A (enrolled April 2015) · status: min
 
 <!-- walk: y2v9.5 → start -->
 
+### y2v9.5 p.120 — Totsuka mentioned in passing
+[scene] (p.120) Named in this volume.
+[note] (p.120) Passing mention (locator pages: p.120; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.120) Passing mention only.
 
+<!-- walk: y2v9.5 Ch.5 → p.120 -->
 
 ## y2v10
 

@@ -707,6 +707,13 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y2v9.5 → start -->
 
+### y2v9.5 p.49-175 — Nagumo mentioned in passing
+[scene] (p.49) Named in this volume.
+[note] (p.49) Passing mention (locator pages: p.49, p.52, p.56, p.57, p.120, p.175; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.49) Passing mention only.
+
+<!-- walk: y2v9.5 Ch.6 → p. p.175 -->
+
 ## y2v10
 
 <!-- walk: y2v10 → start -->

@@ -1925,6 +1925,18 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
+### y2v9.5 p.167–175 — Ch.6: Sudō's teammate at the convenience store
+[scene] (p.167–168) Catches Ayanokōji at the school entrance alongside Sudō; they walk to the convenience store together; Sudō teases about Oka's reconciliation; Hirata asks Ayanokōji straight out whether Karuizawa's Kei is all right; asks if he's close with Shiina.
+[scene] (p.169–172) Coins the pair as his lunch partners; jokes Sudō's "highest growth rate in academics" is being watched by some girl; glances over Ayanokōji's books (one with a cover, the others library classics).
+[scene] (p.173–175) Career talk; Sudō already planning retirement from club activities; he asks about AP classes with polite optimism; notes Ayanokōji might handle anything.
+[says] (p.168) "Kiyotaka-kun, is everything alright with the Karuizawa-san matter? It seems like you're having a hard time."
+[says] (p.169) "Are you close with Shiina-san?"
+[rel:sudou-ken] (p.167–175) Classmate and basketball mate; suspicious Sudō's recent popularity; watches over his quiet captain.
+[rel:shiina-hiyori] (p.169–172) Notices him calling her by first name; gently disapproves.
+[rel:ayanokouji-kiyotaka] (p.167–175) Asks about his business; watches him closely.
+
+<!-- walk: y2v9.5 Ch.6 → p.175 -->
+
 
 
 

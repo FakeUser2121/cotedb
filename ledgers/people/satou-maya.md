@@ -500,7 +500,6 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [says] (p.125) "Come on, let's forget about all the unpleasant stuff and have fun!"
 [rel:karuizawa-kei] (p.123–126) Best friend; helped her through the flu; plans their make-up with Ayanokōji.
 
-<!-- walk: y2v9.5 Ch.5 → p.126 -->
 
 ### y2v9.5 p.145–148 — Ch.5: Satō calls about Kei
 [scene] (p.145) Calls Ayanokōji about Kei; worries about whether they will make up; gets the message that he's about to call Kei tonight.

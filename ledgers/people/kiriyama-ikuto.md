@@ -226,6 +226,13 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 
 <!-- walk: y2v9.5 → start -->
 
+### y2v9.5 p.120 — Kiriyama mentioned in passing
+[scene] (p.120) Named in this volume.
+[note] (p.120) Passing mention (locator pages: p.120; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.120) Passing mention only.
+
+<!-- walk: y2v9.5 Ch.5 → p.120 -->
+
 ## y2v12
 
 <!-- walk: y2v12 → start -->

@@ -24,7 +24,12 @@ char_id: kimura · class: Keyaki Mall Pharmacy staff · status: minor
 
 <!-- walk: y2v9.5 → start -->
 
+### y2v9.5 p.218 — Kimura mentioned in passing
+[scene] (p.218) Named in this volume.
+[note] (p.218) Passing mention (locator pages: p.218; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.218) Passing mention only.
 
+<!-- walk: y2v9.5 Postscript → p.218 -->
 
 ## y2v10
 

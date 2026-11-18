@@ -271,6 +271,17 @@ char_id: wang-mei-yu · status: minor
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
+### y2v9.5 p.66–78 — Ch.4: Wang at Maezono's gathering
+[scene] (p.66) Attends Maezono's secret café gathering of the eight; not part of the original three-gathering plan.
+[scene] (p.67) Named in passing: her crush on Hirata became well-known, and she was saved by Matsushita and her friends' support.
+[scene] (p.68) Takes up the discussion, accepting Maezono's candid evaluation that Ayanokōji is hard to deal with: "Ayanokōji-kun isn't a troublemaker, and he doesn't forcefully invoke interactions, right?"
+[scene] (p.78) Even her expression became clouded at the mention of the Hasebe case.
+[says] (p.68) "Ayanokōji-kun isn't a troublemaker, and he doesn't forcefully invoke interactions, right?"
+[rel:hirata-yousuke] (p.67) Known crush; rescued by her circle afterward.
+[rel:maezono] (p.66–70) She's at peace with the gathering, follows her lead.
+
+<!-- walk: y2v9.5 Ch.4 → p.78 -->
+
 
 
 
