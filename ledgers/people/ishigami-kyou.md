@@ -154,3 +154,14 @@ char_id: ishigami-kyou · class: unknown · status: unknown
 [trait] (p.95–103) Decisive and strategic — sacrifices himself in rock-paper-scissors for the class; reframes halved private points as an "upfront investment" (with +200–300 class points by semester's end, transfers rise ~50%; a protection point is worth ~7M private points), convincing the class to grant one to Horikita — Ayanokōji admires the logic.
 [rel:ayanokouji-kiyotaka] (p.100–103) His argument wins Ayanokōji's support despite his own preference for other options.
 [rel:horikita-suzune] (p.100–103) Argues for giving her a protection point ("protect our leader").
+
+## y2v10
+
+<!-- walk: y2v10 → start -->
+
+### y2v10 p.14 — Ch.1: Keisei on Class A privileges (mention)
+[scene] (p.14) "Keisei, a top student in our class" — opened the mouth and calculated the value of entering a top company with Class A; logic: a big responsibility, generally impossible to fire easily.
+[note] (p.14) The translation spells him "Keisei"; this is Ishigami Kyō (Class 2-D), the class's top academic; the text puts him in the career-talk discussion but never stages him on-page this volume.
+[mentioned] (p.14) Mentioned in the career discussion; spelling variance kept as printed.
+
+<!-- walk: y2v10 Ch.1 → p.15 -->

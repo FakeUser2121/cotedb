@@ -4529,6 +4529,19 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 ## y2v10
 
 <!-- walk: y2v10 → start -->
+### y2v10 p.16–26 — Ch.1: "Ibuki-san's lunchbox" wager
+[scene] (p.16) After Kei's group heads off to cafeteria, she appears behind him and offers to treat him; she proposes eating Ibuki's first-ever home bento on an empty outdoor bench as a full-blooded gamble.
+[scene] (p.17–20) She forces Ayanokōji and Kushida into the plan, brings him along reluctantly; they drag him outdoors to the cold bench; Ibuki arrives with a lunchbox wrapped in furoshiki from a 100-yen shop; everybody shares it with disposable chopsticks.
+[scene] (p.22–26) Her honest verdict: not delicious but visually better than zero; seasoning too rough; Ibuki tries to swallow it; fight; she walks off disgusted but with stamina; declares the match a clean win for her.
+[says] (p.16) "Kushida is coming along too. That's quite unusual."
+[says] (p.18) "She's the type who never did any home cooking before. So she usually only had imbalanced meals."
+[says] (p.22) "I'd give you a bonus 30 points for how it looks, perhaps."
+[rel:ibuki-mio] (p.17–26) Dangles the challenge; baits her into serving them.
+[rel:kushida-kikyou] (p.16–26) Adds you the co-conspirator.
+[rel:ayanokouji-kiyotaka] (p.16–26) Wants to feed him Ibuki's bento as comedy.
+
+<!-- walk: y2v10 Ch.1 → p.26 -->
+
 
 ### y2v10 p.9-235 — horikita-suzune mentioned in passing
 [scene] (p.9) Named in this volume.

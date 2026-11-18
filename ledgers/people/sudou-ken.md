@@ -1918,6 +1918,14 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 ## y2v10
 
 <!-- walk: y2v10 → start -->
+### y2v10 p.10–11 — Ch.1: Sudō: too much hurry spoils the curry
+[scene] (p.10–11) In classroom; already arrived; reproaches him for arm-in-arm showing; raises the first-years' penalty email; quickly turns it toward his own worry — he's been flagging late in both studies and sports.
+[says] (p.11) "Too much hurry spoils the curry."
+[note] (p.11) Rare for him to sigh; his rougher exterior seems to be thinning.
+[rel:ayanokouji-kiyotaka] (p.10–11) Envies his closeness; confides fatigue.
+
+<!-- walk: y2v10 Ch.1 → p.11 -->
+
 
 ### y2v10 p.9-235 — sudou-ken mentioned in passing
 [scene] (p.9) Named in this volume.

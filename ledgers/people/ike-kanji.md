@@ -1286,6 +1286,14 @@ aliases used for anchors: ike, kanji, ike-kun
 ## y2v10
 
 <!-- walk: y2v10 → start -->
+### y2v10 p.12 — Ch.1: Ike's outburst
+[scene] (p.12) Hungered with the announcement of the first-ever student-teacher discussion; jumped in before anyone else could: "I didn't know we had such a thing at this school. I actually thought we didn't."
+[says] (p.12) "I didn't know we had such a thing at this school. I actually thought we didn't."
+[note] (p.12) He's Ike, so regularly — brazenly curious, unfiltered.
+[rel:chabashira-sae] (p.12) Reacts to her announcement.
+
+<!-- walk: y2v10 Ch.1 → p.13 -->
+
 
 ### y2v10 p.9-235 — ike-kanji mentioned in passing
 [scene] (p.9) Named in this volume.

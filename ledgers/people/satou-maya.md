@@ -514,6 +514,13 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 ## y2v10
 
 <!-- walk: y2v10 → start -->
+### y2v10 p.11 — Ch.1: Satō's wave
+[scene] (p.11) Passes him in the corridor as Kei's entourage spreads; murmurs about seeing him with Kei; thanks him with a cheeky quip.
+[says] (p.11) "You two seemed quite close this morning."
+[rel:karuizawa-kei] (p.11) Kei's best friend; watches his affections.
+
+<!-- walk: y2v10 Ch.1 → p.11 -->
+
 
 ### y2v10 p.9-235 — satou-maya mentioned in passing
 [scene] (p.9) Named in this volume.

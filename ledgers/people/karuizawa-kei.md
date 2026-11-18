@@ -1878,6 +1878,14 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 ## y2v10
 
 <!-- walk: y2v10 → start -->
+### y2v10 p.9–10 — Ch.1: Last morning of winter break
+[scene] (p.9) January 3rd; last Sunday of break; she wakes with him; walks to school holding his right arm; he doesn't mind; the routine is comfortable to her.
+[scene] (p.10) He separates at the school gate; she waves; both feel the deadline.
+[says] (p.9) "It's not that I dislike it, but... Hmm, I want to kiss you again. A lot."
+[note] (p.10) She waves goodbye repeating "see you later."
+
+<!-- walk: y2v10 Ch.1 → p.10 -->
+
 
 ### y2v10 p.9-235 — karuizawa-kei mentioned in passing
 [scene] (p.9) Named in this volume.

@@ -9437,6 +9437,42 @@ walk: y1v1 → DONE
 ## y2v10
 
 <!-- walk: y2v10 → start -->
+### y2v10 p.9–10 — Ch.1: Third term opens; Kei walks him to school
+[scene] (p.9) The last morning before the third term began; crowds on the way to school; Kei holds his right arm and chats; he pets against her hand; the daily routine; his inward tug toward solitude.
+[scene] (p.10) Third term opens arakawa; Kei and he separate at the gate; Sudō piles on about the school email warning first-years caught during winter break; he warns carelessly about cameras.
+[says] (p.9) "It's not that I dislike it, but... Hmm, I want to kiss you again. A lot."
+[note] (p.9) Both siblings' insecurities acknowledged: his "time left" theme continues.
+[rel:karuizawa-kei] (p.9–10) Walks to school arm in arm; she's his anchor.
+
+<!-- walk: y2v10 Ch.1 → p.10 -->
+
+### y2v10 p.11 — Ch.1: Sudō's fatigue
+[scene] (p.10–11) Sudō mocks him for it, then flags an email about first-year pairs being penalized; asks about the email; Sudō sighs heavily; he's worn down juggling studies and sports; Ayanokōji warns him not to rush.
+[says] (p.11) "Too much hurry spoils the curry."
+[rel:sudou-ken] (p.10–11) Surprisingly tender and weary; studies + basketball.
+
+<!-- walk: y2v10 Ch.1 → p.11 -->
+
+### y2v10 p.12–15 — Ch.1: Chabashira's morning notice
+[scene] (p.12–13) Homeroom opens; Chabashira announces first 'student-teacher discussion'; "That man might come again"; Ike speaks first; she pats her own hair realizing her bedhead.
+[scene] (p.14–15) Yōsuke says he'll attend university regardless of Class A privileges; Sudō/Keisei weigh top-company job strategies; career talk.
+[rel:chabashira-sae] (p.12–13) Honest, slightly tired; realizes she looked rough this morning.
+[rel:hirata-yousuke] (p.14–15) Plans to go to university.
+
+<!-- walk: y2v10 Ch.1 → p.15 -->
+
+### y2v10 p.16–26 — Ch.1: The Ibuki lunchbox wager
+[scene] (p.16) At lunchtime, watching Kei's retreating form; Horikita offers to treat him; he accepts reluctantly (bad past experiences).
+[scene] (p.17–20) They head out of the cafeteria area; she pulls him toward Ibuki's cooking; Kushida turns up with them; the three grab him into this; Ibuki shows up with her lunch box and a full-bellied claim.
+[scene] (p.21–26) The seven-dish bento looks decent; taste test: not delicious, salty, eyeball seasoning; Ibuki argues her process, giving up halfway; she concedes she doesn't know how to cook.
+[rel:horikita-suzune] (p.16–26) Proposes to feed him; enlists him against Ibuki.
+[rel:kushida-kikyou] (p.16–26) Helps her bait him.
+[rel:ibuki-mio] (p.18–26) Her first home bento ever — a failed bet.
+[rel:keisei-ishigami] (p.14) Keisei (top student) — actually text p.14 says "Keisei"; this is Ishigami-Kyō in this translation; mention only.
+[rel:hirata-yousuke] (p.14) Discussed career with him.
+
+<!-- walk: y2v10 Ch.1 → p.26 -->
+
 
 ### y2v10 p.9-235 — ayanokouji-kiyotaka mentioned in passing
 [scene] (p.9) Named in this volume.
