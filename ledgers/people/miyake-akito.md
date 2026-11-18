@@ -528,17 +528,15 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 
 <!-- walk: y3v1 → start -->
 
+### y3v1 p.24 — Akito: not a word beforehand
+[scene] (p.24) Classmates ask Ayanokōji's inner circle whether they knew anything; Akito answers from the bench.
+[says:miyake-akito] (p.24) "No, not a word… We've been a bit distant lately. If even Horikita and the others don't know, then probably no one does."
+[note] (p.24) The question "Did you hear anything beforehand, Akito?" is untagged in the translation; the reply is Akito's by name. He and Yukimura are named as the circle Ayanokōji was closest to, all unaware of the transfer.
+[rel:yukimura-teruhiko] (p.24) Named beside him as inner-circle, equally uninformed.
+
 <!-- walk: y3v1 Epilogue → p.287 -->
 
-
 <!-- walk: y3v1 Epilogue → p.287 -->
-
-### y3v1 p.40–74 — Ch.3 — depth read: Akito's plea
-[scene] (p.70) Joins the confrontation behind the dorm, relaying how Hasebe took the transfer.
-[says] (p.70) "She kept repeating over and over that"
-[says] (p.74) "We're still friends even if you left the class. If you ever encounter any problems, feel free to consult us."
-[rel:ayanokouji-kiyotaka] (p.70–74) Says they remain friends and offers help despite the transfer.
-[rel:hasebe-haruka] (p.70) Reports that she blamed herself for the transfer over their earlier reconciliation talk.
 
 ### y3v1 p.70–74 — Akito asks, then offers friendship
 [says] (p.70) "So, what's the real reason?"

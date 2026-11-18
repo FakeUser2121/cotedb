@@ -1488,32 +1488,6 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
-### y3v1 p.163–202 — Ch.7 — depth read: Karuizawa's heartbreak and the exam
-[scene] (p.163) Arrives at school early, still unable to smile since the breakup; sees Ayanokōji sitting on a bench and her heart constricts.
-[says] (p.165) "Are you… uh, are you and Ayanokouji-kun… dating…?"
-[says] (p.166) "If you're holding back from telling the truth for my sake—"
-[says] (p.172) "What if I… asked for help… from you, Ichinose-san… would you help me?"
-[trait] (p.163–173) Still deeply in love and jealous; tries to act strong but is crushed by the realization that Ayanokōji has no lingering attachment.
-[rel:ayanokouji-kiyotaka] (p.163–173) Watches him from afar, still harboring strong feelings; hopes he might not have left her for another.
-[rel:ichinose-honami] (p.164–173) Questions whether she is dating Ayanokōji; is devastated when Ichinose admits her feelings, and asks her for help only to be refused.
-[note] (p.173) Hides in the bushes so no one sees her crying after Ichinose walks away with Ayanokōji.
-
-### y3v1 p.203–224 — Ch.8 — depth read: Karuizawa reaches out
-[scene] (p.209) Sees Ibuki kick Horikita from the bench; approaches and offers a hand, helping her up and brushing dirt from her uniform.
-[says] (p.209) "Are you okay?"
-[says] (p.210) "I don't think it's your fault. If we had scored more points, we could've won the full-class battle."
-[says] (p.210) "I won't laugh. I'm just as weak."
-[says] (p.211) "He's a crucial person to me. Someone important… someone I love…"
-[says] (p.211) "I can't say. Not saying it… that's become my reason for existence."
-[says] (p.214) "We both got involved with a really difficult person, didn't we?"
-[says] (p.215) "Kiyotaka—no, Ayanokouji-kun… he saved me from the darkness."
-[says] (p.215) "Let's make him regret transferring out of our class."
-[feat] (p.209–215) Comforts Horikita and reveals her bullying past and her "secret" with Ayanokōji, deepening their bond.
-[trait] (p.211–215) Still loves Ayanokōji and uses not telling her past as her "reason for existence"; shows unexpected kindness and strength.
-[rel:horikita-suzune] (p.209–215) Helps her up and confides in her — they become close, realizing they share feelings for the same person.
-[rel:ayanokouji-kiyotaka] (p.211–215) Says he saved her from darkness; still loves him and wants him to regret leaving.
-[rel:satou-maya] (p.213) Notes even Maya-chan doesn't know her secret.
-
 ### y3v1 p.14–26 — Karuizawa after the breakup, questioned about the transfer
 [scene] (p.14) Sits near the back by the window, listless, gazing outside; blatantly avoiding Ayanokōji since morning.
 [says] (p.26) "…I don't know. I really don't know anything. It's not that I'm hiding anything; I truly don't know."

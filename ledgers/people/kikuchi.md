@@ -20,3 +20,15 @@ char_id: kikuchi · class: unknown · status: unknown
 
 
 <!-- walk: y2v10.25 Epilogue → p.10 -->
+
+## y3v1
+
+<!-- walk: y3v1 → start -->
+
+### y3v1 p.16 — Kikuchi waves at the unresponsive Chabashira
+[scene] (p.16) From the front seat closest to Chabashira, calls out tentatively; when she does not respond, stands and waves a hand in front of her face, which finally draws her glance.
+[says] (p.16) "Um… Sensei?"
+[note] (p.16) The class grows anxious at Chabashira's unresponsiveness; Kikuchi's gesture is the only thing that briefly registers with her.
+[rel:chabashira-sae] (p.16) Tries to get her attention; she only registers them in passing before her gaze settles on Horikita's direction.
+
+<!-- walk: y3v1 Epilogue → p.287 -->

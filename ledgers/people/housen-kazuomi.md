@@ -125,20 +125,8 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
-
 <!-- walk: y3v1 Epilogue → p.287 -->
 
-### y3v1 p.75–97 — Ch.4 — depth read: Hōsen hunts for a fight
-[scene] (p.85) Approaches Ayanokōji at Keyaki Mall while he waits for Ichinose, drawn by the rumors of his transfer.
-[says] (p.85) "I've been hearing some flashy rumors lately about a stupid senpai who voluntarily transferred to Class C amidst its fall."
-[says] (p.86) "It's just that my skills have been getting dull lately, and it's bothering me. I'm looking for someone to be my punching bag. Got any ideas?"
-[says] (p.86) "That guy is a chicken who won't fight one-on-one." — on Ryūen
-[says] (p.86) "Who knows? As long as I get money, that's all I care about. I've thrown that responsibility to Nanase."
-[says] (p.87) "See you later, Paisen. I'll have fun with some interesting first years for a while, and after that, you'll be my sparring partner."
-[trait] (p.85–87) Aggressive and spoiling for a fight; delegates class leadership to Nanase and cares only about money, unafraid of Ryūen because of their prior clash.
-[rel:ayanokouji-kiyotaka] (p.85–87) Targets him as a future sparring partner; Ayanokōji deflects, suggesting he ask Ryūen.
-[rel:nanase-tsubasa] (p.86) Has delegated the responsibility of leading Class D to her.
-[rel:chabashira-sae] (p.87) Walks away when she intervenes.
 ## y3v2
 
 <!-- walk: y3v2 → start -->
@@ -281,7 +269,8 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 [note] (p.11) Passing mention (locator pages: p.49, p.58, p.62, p.87, p.109, p.116; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
+### y2v11 p.50 — Ch.2: The immovable first-year
+[scene] (p.50) After the group lunch orders; Hashimoto reasons that even first-years with strong personalities like Hōsen would not object.
+[note] (p.50) Cited as an example of a strong personality among the first-years; no further detail on these pages.
 
-
-
-
+<!-- walk: y2v11 ch2 → p.84 -->

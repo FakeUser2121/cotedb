@@ -978,3 +978,10 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [note] (p.11) Passing mention (locator pages: p.27, p.39-40, p.54, p.56-57, p.59, p.65; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
+### y2v11 p.54–57 — Ch.2: The university Nagumo admires
+[scene] (p.54) Rest Area; the third-years' exam season; Horikita Manabu's generation is named as the one that likely struggled at the earlier mixed camp.
+[note] (p.56) Nagumo reveals Horikita Manabu is at the same university he is entering; admiration for Manabu drives his choice.
+[note] (p.56) Nagumo: “Horikita-senpai is also at the university where Nagumo-senpai is going.” — Horikita-senpai here is Manabu, not Suzune.
+[note] (p.57) No on-page presence; he is named as absent text only.
+
+<!-- walk: y2v11 ch2 → p.84 -->

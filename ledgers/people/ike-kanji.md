@@ -1087,6 +1087,16 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y3v1 → start -->
 
+### y3v1 p.18–25 — Ike presses for an answer; downplays the transfer
+[scene] (p.18) Frustrated by Chabashira's vague demeanor, presses her for a quicker explanation while she stands motionless.
+[says] (p.18) "No, no, what is it? Something happened to Ayanokouji, right? Please tell us."
+[note] (p.25) The lines "Kanji… Ayanokouji being gone isn't such a simple issue." and "You're saying that it's not that simple? Even if Ayanokouji-kun leaves, it's not even that big of a—" are untagged; they read as the low-key faction (Ike among them) playing the transfer down against Kushida's pushback.
+[note] (p.25) Kushida answers the group: "Ike-kun, Shinohara-san, sorry, but Ayanokouji-kun is much more important than you two think." — he and Shinohara are treated as not grasping Ayanokōji's significance.
+[note] (p.25) The reply "Important, you say…" is untagged in the translation; it follows Kushida's address to Ike and Shinohara and is not pinned to either.
+[rel:chabashira-sae] (p.18) Presses her for answers; she turns to survey the class before answering.
+[rel:kushida-kikyou] (p.25) She scolds him and Shinohara for not understanding Ayanokōji's value.
+[rel:shinohara-satsuki] (p.25) Addressed together with him as not taking the transfer seriously.
+
 <!-- walk: y3v1 Epilogue → p.287 -->
 
 <!-- walk: y3v1 Epilogue → p.287 -->

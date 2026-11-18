@@ -69,9 +69,11 @@ char_id: sanada-kousei · class: unknown · status: unknown
 [note] (p.11) Passing mention (locator pages: p.40, p.90-91, p.120-122; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
+### y2v11 p.40 — Ch.2: Named in the stacked group
+[scene] (p.40) The printout lists Group "Nagumo"'s members on the bus.
+[mentioned] (p.40) Named as a second-year Class A member of Nagumo's group: Sanada Kōsei, Sawada Yasumi.
 
-
-
+<!-- walk: y2v11 ch2 → p.84 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -80,6 +82,3 @@ char_id: sanada-kousei · class: unknown · status: unknown
 [scene] (p.12) Named in this volume.
 [note] (p.12) Passing mention (locator pages: p.69, p.77, p.101-112, p.117, p.131; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.12) Passing mention only.
-
-
-

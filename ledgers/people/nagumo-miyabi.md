@@ -741,9 +741,9 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [scene] (p.53) Rest Area, just before one; drooping of boredom with Asahina; beckons Kiyotaka over; Asahina muscles into the sofa next to him.
 [says] (p.53) “Need? Well, it's not much of a need, but I do have something to talk about.”
 [says] (p.54) “Many of us third-years are dealing with exams and job hunting at this time.”
-[says] (p.56) “Do you want to know?”
-[says] (p.56) “I'm going to university. I have no intention of using the Class A privilege.”
-[says] (p.56) “That’s one of the reasons I dominated the third-year and became an overwhelming presence. Whether I'm in Class B or Class D at graduation, I believe I can get into the university I want and get a job at the company I desire with my own power.”
+[says] (p.55) “Do you want to know?”
+[says] (p.55) “I'm going to university. I have no intention of using the Class A privilege.”
+[says] (p.55) “That’s one of the reasons I dominated the third-year and became an overwhelming presence. Whether I'm in Class B or Class D at graduation, I believe I can get into the university I want and get a job at the company I desire with my own power.”
 [says] (p.56) “Do you know why Horikita Suzune joined the student council, Nazuna?”
 [says] (p.56) “This guy right here. Ayanokōji was using Suzune to keep an eye on me.”
 [says] (p.57) “Horikita-senpai did pass the baton to me, after all.”
@@ -751,7 +751,7 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [says] (p.57) “Actually, calling it a match is an exaggeration. It's more like a small bet.”
 [says] (p.58) “You participate in all the games. And when you lose three times, that's your defeat.”
 [says] (p.58) “Yeah. Even if Kiryūin's group loses 19 times in a row, if you don't lose to anyone, it's a win.”
-[says] (p.59) “If I make being undefeated a condition and you lose in the first battle, it would be a real turn-off, right?”
+[says] (p.58) “If I make being undefeated a condition and you lose in the first battle, it would be a real turn-off, right?”
 [says] (p.59) “That’s the way I like to treat you.”
 [says] (p.60) “Nazuna seems to misunderstand, but victory or defeat is not determined solely by whether one is excellent. If the person on top isn’t more capable, using a skilled person will only lead to their loss.”
 [says] (p.60) “Ah, everything's going smoothly. It's going to be a match between me and Ayanokōji as planned”

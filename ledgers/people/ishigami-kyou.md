@@ -94,9 +94,11 @@ char_id: ishigami-kyou · class: unknown · status: unknown
 [note] (p.11) Passing mention (locator pages: p.37; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
+### y2v11 p.37 — Ch.2: The absent first-year
+[scene] (p.37) In the bus printouts, Ishigami's name is among the four absent first-years.
+[note] (p.37) Kiyotaka will not get the chance to involve him at the camp; he gets no other mention on these pages.
 
-
-
+<!-- walk: y2v11 ch2 → p.84 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -133,13 +135,6 @@ char_id: ishigami-kyou · class: unknown · status: unknown
 ## y3v1
 
 <!-- walk: y3v1 → start -->
-
-### y3v1 p.70–74 — Keisei asks the real reason
-[says] (p.71) "She's been troubled even before today's events. Kiyotaka, you've helped her, and she hasn't even been able to properly express her gratitude."
-[says] (p.72) "I also thought so at first too. That's why I was concerned that there might've been something behind the transfer."
-[trait] (p.70–74) Adjusts his glasses, presses for hidden circumstances behind the transfer, and relays that Hasebe has been heartbroken and blaming herself; accepts Ayanokōji's departure.
-[rel:hasebe-haruka] (p.70–71) She's been troubled, blaming herself for the transfer.
-[rel:ayanokouji-kiyotaka] (p.70–74) Asks for the real reason; gets only the cold "Private Points" answer.
 
 ## y2v5
 

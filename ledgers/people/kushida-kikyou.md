@@ -1616,44 +1616,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
-
 <!-- walk: y3v1 Epilogue → p.287 -->
-
-### y3v1 p.13–28 — Ch.1 — depth read: Kushida defends Ayanokōji's worth
-[scene] (p.25) Remains calm amid the class's confusion over the transfer and challenges Ike and Shinohara's dismissal.
-[says] (p.25) "That's a possibility."
-[says] (p.25) "Ike-kun, Shinohara-san, sorry, but Ayanokouji-kun is much more important than you two think."
-[says] (p.25) "Just because it hasn't come to light doesn't mean he hasn't contributed to the class in countless unseen ways. Right, Horikita-san?"
-[trait] (p.25) Stays composed while others panic; reads the situation more clearly than her classmates.
-[rel:ayanokouji-kiyotaka] (p.25) Publicly asserts his hidden importance to the class.
-[rel:horikita-suzune] (p.25) Passes the question to Horikita, who agrees.
-[rel:ike-kanji] (p.25) Corrects his and Shinohara's underestimation of Ayanokōji.
-
-### y3v1 p.98–145 — Ch.5 — depth read: Kushida's isolation and barbed concern
-[scene] (p.126) Having bought a café au lait to go, spots Horikita on a bench and stops despite intending to walk past.
-[says] (p.126) "Ugh, annoying." — muttered when no one is in earshot
-[says] (p.127) "Why the questioning tone? I mean, I'm not going to ask what you're doing here. You're waiting to bump into Ayanokouji-kun by pretending it's a coincidence, aren't you?"
-[says] (p.127) "I'd like to leave you alone, but I can't overlook such a gloomy face. If the class leader looks like that, it definitely affects morale."
-[says] (p.130) "Okay? How could I be okay? Without Ayanokouji-kun, this façade of a class wouldn't stand a chance."
-[says] (p.130) "I have to pretend to be calm. I'm good at pretending to be a kind person, just like I'm good at pretending to be okay."
-[says] (p.131) "Even in these circumstances, a class leader is supposed to win regardless."
-[trait] (p.126–131) Isolated and irritable since her true nature was exposed; masks with a smile around others, drops it in private, and needs Horikita to remain strong for her own graduation hopes.
-[rel:horikita-suzune] (p.126–132) Needles her, then presses her to deal with Ibuki and win the exam — but leaves cold words about waiting for Ayanokōji.
-[rel:ayanokouji-kiyotaka] (p.130) Fears he will expose her secret to other classes now that he has left.
-[rel:ibuki-mio] (p.131) Says Ibuki has been coming to her for food because Horikita stopped cooking.
-
-### y3v1 p.203–224 — Ch.8 — depth read: Kushida's betrayal proposition
-[scene] (p.216) Meets Ayanokōji by the railing at dusk, having been called out by him.
-[says] (p.216) "When we first entered school, you saw quite a lot of things you shouldn't have, Ayanokouji-kun."
-[says] (p.220) "It was something like an accident, but I was really anxious when you threatened me."
-[says] (p.221) "What? Are you seriously asking me to betray my class?"
-[says] (p.221) "Do you think that counts as a threat? Ryuuen-kun knows about it too."
-[says] (p.222) "You don't even need my strength to take down Horikita's pathetic class."
-[says] (p.224) "Let me think about it a little."
-[trait] (p.220–224) Perceptive and guarded — sees through his intent, refuses to reveal where her feelings stand, and neither accepts nor rejects the offer outright.
-[rel:ayanokouji-kiyotaka] (p.216–224) Is offered a deal to feed him Class A information for Private Points, under threat of exposure; says she will think about it.
-[rel:horikita-suzune] (p.222) Disparages Horikita's class and is asked to betray it.
-[rel:ryuuen-kakeru] (p.221) Notes Ryūen also knows her secret, blunting Ayanokōji's threat.
 
 ### y3v1 p.25–28 — Kushida: Ayanokōji was more important than assumed
 [says] (p.25) "That's a possibility."

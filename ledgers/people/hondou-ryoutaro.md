@@ -197,3 +197,15 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 [scene] (p.12) Named in this volume.
 [note] (p.12) Passing mention (locator pages: p.156, p.159; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.12) Passing mention only.
+
+## y3v1
+
+<!-- walk: y3v1 → start -->
+
+### y3v1 p.24 — Hondou responds in kind
+[scene] (p.24) Reacts to Shinohara's doubts with a similar suspicion amid the class's speculation over the transfer.
+[note] (p.24) The unattributed lines in this exchange include "Or is that what this is about?" and "Could he have betrayed us?"; the narration says Hondou responded to Shinohara with a similar suspicion, without pinning lines to speakers.
+[rel:shinohara-satsuki] (p.24) Echoes her speculation.
+[rel:ayanokouji-kiyotaka] (p.24) Shares the sense that the transfer is "just not normal," while Sakayanagi's departure makes it hard to read.
+
+<!-- walk: y3v1 Epilogue → p.287 -->

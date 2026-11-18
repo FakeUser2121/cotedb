@@ -308,7 +308,7 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 ### y2v12.5 p.11-216 — shinohara-satsuki mentioned in passing
 [scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.56; not line-by-line verified; substring false positives possible). Not a scene presence.
+[note] (p.56) Passing mention only: Mii-chan takes a phone call "from Shinohara-san" during the Keyaki Mall conversation (p.56). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
 ## y3v2
@@ -486,3 +486,15 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.12) Passing mention (locator pages: p.88; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.12) Passing mention only.
 
+
+## y3v1
+
+<!-- walk: y3v1 → start -->
+
+### y3v1 p.24 — Shinohara mutters her doubts
+[scene] (p.24) Among the Class 3-A students speculating about the transfer after the OAA confirms it.
+[note] (p.24) The translation leaves the speculation lines in this stretch unattributed; the narration says Shinohara muttered her doubts, to which Hondou responded with a similar suspicion. Lines such as "Could he have betrayed us?" and "Or is that what this is about?" cannot be assigned to her with certainty.
+[rel:hondou-ryoutaro] (p.24) Echo each other's suspicions; the text does not pin specific lines to either of them.
+[rel:ayanokouji-kiyotaka] (p.24) Considers with Hondou whether he might have betrayed the class, though the transfer makes little sense to them ("It's not like he's jumping on the winning horse").
+
+<!-- walk: y3v1 Epilogue → p.287 -->

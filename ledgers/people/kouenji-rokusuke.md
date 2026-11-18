@@ -981,3 +981,25 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [note] (p.11) Passing mention (locator pages: p.13, p.40, p.49-50, p.72-79, p.81, p.83; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
+### y2v11 p.49–50 — Ch.2: The desertion from Group 6
+[scene] (p.49) During the Group 20 lunch line-up; in another group nearby, Kōenji slips away from his leader without listening; the first-years are bewildered; Inogashira looks at Ayanokōji with an awkward lift of the shoulders.
+[note] (p.50) “Wait a minute, hey! Kōenji!” — untagged speaker; translation leaves attribution unresolved.
+[note] (p.50) The second-years in his group are used to this; Inogashira is anxious; he does not come back.
+[note] (p.73) At the oshibana workshop site, Kiryūin asks if the situation might turn around if Kōenji were competent; he was not.
+
+### y2v11 p.74–78 — Ch.2: Why he will not play
+[scene] (p.74) Interval before the next game; Kiyotaka tracks him to the old dog park behind the inn; he kicks up the wasteland on horse-like legs.
+[says] (p.74) “Ayanokōji boy, do you need something from me?”
+[says] (p.75) “I'll tell you something special. One plus one equals two. The answer doesn't change no matter how many times you solve it.”
+[says] (p.75) “Hahaha, you have a sense of humor. But your answer is nonsense. You see things in a twisted way, with logic-biased thinking. One plus one equals two is the answer. The world is always simple and clear.”
+[says] (p.75) “If a paper test is conducted here without any prior notice. Let's say, a test that questions basic academic abilities, who do you think would win, you or me?”
+[says] (p.76) “Your high confidence is not bad. Let's assume that your answer is yes in this situation. Then, do you think that our superiority, excellence, and value as human beings are determined by that alone?”
+[says] (p.77) “The answer is extremely simple. Whether it's me or not. That determines the superiority or inferiority.”
+[says] (p.77) “I'll gladly tell you. The source is adaptability. I won't succumb to any environment. I have the confidence to survive in any of them.”
+[says] (p.77) “I also think it would be more meaningful to devote myself to training by revisiting China than entering this school. I had circumstances that prevented me from doing so.”
+[says] (p.78) “If that's the case, there's no need to hesitate. You can try to exclude me at any time.”
+[note] (p.75) His stated reason for refusing: kindergarteners beneath him; he won the island test only to distance himself from them.
+[note] (p.78) He names Horikita Suzune's fight as the reason Kiyotaka will keep drawing closer to him.
+[rel:ayanokouji-kiyotaka] (p.74–78) He refuses all participation; Kiyotaka cannot recruit him; he leaves for self-improvement.
+
+<!-- walk: y2v11 ch2 → p.84 -->

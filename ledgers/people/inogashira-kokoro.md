@@ -109,5 +109,20 @@ char_id: inogashira-kokoro · class: Class 1-D · status: minor
 [note] (p.11) Passing mention (locator pages: p.50, p.72-74, p.118, p.151; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
+### y2v11 p.50 — Ch.2: The desertion, eyes meeting
+[scene] (p.50) During the Group 20 lunch line-up; in the next group over, Kōenji slips away from his leader; the first-years are bewildered; Inogashira is stuck with managing him.
+[note] (p.50) “Wait a minute, hey! Kōenji!” — untagged speaker; translation leaves attribution unresolved.
+[note] (p.50) She and Kiyotaka make eye contact for a moment; she turns away; she looks anxious; she lets it go.
 
+### y2v11 p.72–73 — Ch.2: The desperate plea
+[scene] (p.72) Oshibana workshop; she watches from afar; Tatebayashi's temper forced her to take responsibility for Kōenji; she begs Kiyotaka for help.
+[says] (p.72) “Um… uh, you're good friends with Kōenji-kun, aren't you, Ayanokōji-kun?”
+[says] (p.73) “Well, Tatebayashi-senpai told me to bring Kōenji-kun back...”
+[says] (p.73) “He was really angry.”
+[says] (p.73) “I can't ask Hirata-kun to do something like this... It's too much to ask.”
+[says] (p.73) “I see... I'm sorry, I'll try to figure something out...”
+[note] (p.72–73) She approaches with nervousness; Kiyotaka refuses to help; she bows and leaves.
+[rel:kouenji-rokusuke] (p.72–73) She is responsible for managing him per Tatebayashi's order.
+[rel:hirata-yousuke] (p.73) She will not ask Hirata for help either.
 
+<!-- walk: y2v11 ch2 → p.84 -->

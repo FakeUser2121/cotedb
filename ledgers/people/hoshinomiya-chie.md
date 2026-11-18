@@ -337,6 +337,73 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 [note] (p.30) She resolves to take action herself, from outside the rules, to save the class.
 
 <!-- walk: y2v12.5 Ch.1 → p.30 -->
+### y2v12.5 p.58–62 — Ch.4: Hoshinomiya-sensei at the café
+[scene] (p.58) Hoshinomiya-sensei is seated at the Keyaki Mall café at 12:17, playing with her phone; she needles Ayanokōji for being 17 minutes late.
+[says] (p.58) “You’re really late, Ayanokōji-kun. It’s too impudent of you to be 17 minutes late when you’re meeting with me.”
+[says] (p.58) “Eh, that’s it? You could at least tell me why you were late.”
+[says] (p.58) “...If this were a date, it would 100% fail here—a complete failure.”
+[says] (p.58) “Well, scolding you won’t bring back the time; it just wastes it. So? You said you wanted to meet me. What’s your intention?”
+[says] (p.58) “Stop it. I don’t feel like I can get along with someone who oversleeps on the first date.”
+[says] (p.58) “Huh? At this point?”
+[says] (p.59) “So anything is fine as long as it leads to victory? Even using the feelings of girls you like would be fine with you?”
+[says] (p.59) “That’s the worst.”
+[says] (p.59) “...Quite a rude thing to say.”
+[says] (p.59) “Anyway. You mentally cornered Ichinose-san in the exam, and as a result, our class is a mess both inside and out. Do you understand the situation here? In the first place, I don’t feel like having this sort of talk at length here, okay?”
+[says] (p.59) “I was thinking something like… talking about a student’s worries?”
+[says] (p.60) “...That is...”
+[says] (p.60) “Ha? It’s too late now. The special exam is already over and the results are significantly different. And now you want to cooperate? No, no, it’s too late. Are you stupid?”
+[says] (p.60) “No. Even so, it’s too suspicious. What I proposed to you was for you to lose to me, Ayanokōji-kun. In other words, it meant betraying your class.”
+[says] (p.61) “now, you say it’s okay to let me win in future special exams? That’s too nonsensical.”
+[says] (p.61) “...Huh? Are you serious? You want to sleep with me so you’ll betray your class?”
+[says] (p.61) “...What other conditions?”
+[says] (p.61) “...Are you serious?”
+[says] (p.61) “I know you’re not very concerned about Class A, but sorry, I can’t believe it. This kind of consultation is too suspicious. After all, what can you even do, Ayanokōji-kun? The final showdown is already over.”
+[says] (p.61) “Even so, what you alone can do is limited. Even if your class falls, Sakagami-sensei’s class will become the next obstacle. And there’s no hope for my class to rise. It’s like pouring water on a hot stone.”
+[says] (p.61) “I gave you the chance before the end-of-year special exam. That time was the first and last. Understand?”
+[says] (p.61) “That’s none of your business. We’ll manage somehow on our own.”
+[says] (p.61) “There are ways to rise to Class A without doing that. I won’t tell you though.”
+[says] (p.62) “I will absolutely make it to Class A. By any means necessary.”
+[says] (p.62) “I have no intention of spending any more of my precious time off with a boring child.”
+[says] (p.62) “Behind?”
+[says] (p.62) “What’s going on…? Why are Sae-chan and the others here?”
+[rel:ayanokouji-kiyotaka] (p.58–62) He rejects her exemption; the meeting ends with three teachers approaching.
+
+<!-- walk: y2v12.5 Ch.4 → p.62 -->
+
+### y2v12.5 p.70–76 — Ch.4: The confrontation; her grudge surfaces
+[scene] (p.70) Confronted by Chabashira, Mashima and Sakagami in Mashima's room, Hoshinomiya-sensei denies everything, then reveals her grudge against Chabashira.
+[says] (p.70) “So? What’s this about? Why has it come to this?”
+[says] (p.70) “I wouldn’t be asking if I knew, would I?”
+[says] (p.70) “Huh? What are you talking about? I don’t understand what you mean at all —”
+[says] (p.71) “Does that mean you were connected to a phone call at the cafe or something??”
+[says] (p.71) “Hmm. But I don’t remember having any bad conversations. If you have evidence, let me hear it.”
+[says] (p.71) “That’s not evidence. Aren’t the three of you just trying to set me up??”
+[says] (p.71) “Even if I asked Ayanokōji-kun for help, is that a problem? Isn’t it a bit too far to call it misconduct just because of that.”
+[says] (p.71) “Then report it. If I’m to be punished, I’ll gladly accept it.”
+[says] (p.71) “Oh come on, Sae-chan. I wouldn’t do anything improper, you know. I don’t know what you overheard in my conversation with Ayanokōji-kun, but that’s a misunderstanding. It was just a little threat.”
+[says] (p.71) “Right? You’re making too much of it. Well, Ayanokōji-kun is just a kid, right? Maybe he took my joke seriously. Even during the exam, I never seriously intended to have him turn traitor; I just wanted to shock him a bit. As a teacher to a class that seemed likely to lose, I just wanted to help them win.”
+[says] (p.72) “Isn’t it obvious, Sae-chan? Teachers don’t take part in battles between students.”
+[says] (p.72) “...What’s this? I feel like throwing up, so please stop.”
+[says] (p.72) “Are you seriously worried? You don’t need to worry. If you’re going to worry, I wish you wouldn’t aim for that unsuitable Class A spot.”
+[says] (p.72) “There’s no way I can watch your class graduate from Class A, Sae-chan.”
+[says] (p.72) “Of course it’s wrong.”
+[says] (p.73) “Sae-chan might selfishly settle her past. That’s what I can’t stand.”
+[says] (p.73) “That’s right, you can’t defend yourself. You understand, right? I’m the worst kind of woman. But it’s okay, I’m used to being called that. I’ve lived like this since the beginning, and I’m thoroughly hated by those who dislike me. You know that well, don’t you, Sae-chan? We’ve been together since the first year of high school.”
+[says] (p.73) “If you want me to stop, give up your dream of reaching Class A.”
+[says] (p.74) “You can. After all, you were like that in the past. You were a cold homeroom teacher and disliked by your students. Even if that’s all you do now, it might help me.”
+[says] (p.74) “Don’t hesitate. Promise me you’ll be cold like before, right now. If you can’t do that, then never interfere again.”
+[says] (p.74) “That’s fine. Of course, I won’t commit any violations. But I will struggle to the end in my own way, and if any misconduct ends up being discovered, I will accept being fired.”
+[says] (p.75) “I will never accept you.”
+[says] (p.75) “Even if you hold off, I won’t change my mind.”
+[says] (p.75) “Well, if that’s all...”
+[note] (p.73) Her grudge traces to the unanimous-vote special exam when they were students: her class’s dreams were cut short by Chabashira-sensei’s refusal to sacrifice her classmates (p.73). She wants Chabashira to regret it forever, and losing this way of coping would leave her with nothing.
+[rel:chabashira-sae] (p.70–76) She demands Chabashira give up Class A; Chabashira breaks down.
+[rel:mashima-tomonari] (p.70–76) Mashima suggests waiting over spring break.
+[rel:sakagami] (p.70–76) Sakagami warns she could be fired.
+[rel:ichinose-honami] (p.70–76) She wants Ichinose’s class to rise; her removal would adversely affect the class.
+
+<!-- walk: y2v12.5 Ch.4 → p.76 -->
+
 ## y3v1
 
 <!-- walk: y3v1 → start -->

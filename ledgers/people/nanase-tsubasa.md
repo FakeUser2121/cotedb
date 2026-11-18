@@ -178,21 +178,8 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
-
 <!-- walk: y3v1 Epilogue → p.287 -->
 
-### y3v1 p.225–287 — Epilogue — depth read: Nanase's secret call
-[scene] (p.241) Is with Horikita in the student council room when the three eavesdroppers arrive; after Horikita leaves, takes a phone call.
-[says] (p.242) "It's not like that. It's all thanks to your precise instructions, President Horikita."
-[says] (p.242) "Yes, I definitely want to graduate from Class A. However, as long as I can finish my school life safely, that would be the best outcome for me."
-[says] (p.243) "We agreed not to make any unnecessary calls, didn't we, Tsukishiro-san?"
-[says] (p.246) "I'll continue to monitor Ayanokouji-senpai for another year."
-[says] (p.247) "Senpai, what might you guys be doing in a place like this?"
-[feat] (p.243–247) Is revealed to be in contact with Tsukishiro, monitoring Ayanokōji, possessing two phones against school rules, and noticing the eavesdroppers.
-[trait] (p.241–247) Polite and diligent in public, secretly duplicitous — plays the loyal student council member while carrying out Tsukishiro's surveillance.
-[rel:tsukishiro] (p.243–246) Calls him and reports on monitoring Ayanokōji, Ishigami Kyou and a notable first-year.
-[rel:horikita-suzune] (p.241–243) Works alongside her in the student council and praises her instructions.
-[rel:ayanokouji-kiyotaka] (p.246) Is monitoring him on Tsukishiro's orders.
 ## y3v2
 
 <!-- walk: y3v2 → start -->
@@ -634,7 +621,12 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [note] (p.11) Passing mention (locator pages: p.70-71; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
+### y2v11 p.70–71 — Ch.2: The oshibana match
+[scene] (p.70) Group 9 — Horikita's class — lines up against Group 20 for the Day 1 oshibana match; Nanase asks Kiyotaka about oshibana.
+[says] (p.70) “Do you also make oshibana, Ayanokōji-senpai?”
+[says] (p.71) “I see. I thought you were good at it because you were the only boy participating.”
+[says] (p.71) “Please go easy on me.”
+[note] (p.71) Nine out of ten participants are girls; Kiyotaka wins his head-to-head with her; the group takes 3–2.
+[rel:ayanokouji-kiyotaka] (p.70–71) She meets him as an opponent and loses; he compliments the field.
 
-
-
-
+<!-- walk: y2v11 ch2 → p.84 -->

@@ -173,7 +173,7 @@ char_id: asahina-nazuna · class: Class 2-A · status: supporting
 [says] (p.56) “Isn't it because she wanted to follow in her brother's footsteps?”
 [says] (p.56) “Is that so? Then what was her motive?”
 [says] (p.57) “Wait, wait a minute. Eh, what? This is a bit different from what I thought.”
-[says] (p.58) “Eh? Isn't that too disadvantageous for Ayanokōji-kun? Card games are all about luck.”
+[says] (p.59) “Eh? Isn't that too disadvantageous for Ayanokōji-kun? Card games are all about luck.”
 [says] (p.59) “Ah, well, yeah... Well, that might be true.”
 [says] (p.61) “Fūka-chan is always cool.”
 [says] (p.61) “Wow, that's a terrible thing to say, Nagumo. In this day and age, you can't complain even if you're killed.”
@@ -198,7 +198,7 @@ char_id: asahina-nazuna · class: Class 2-A · status: supporting
 [says] (p.83) “Whether it's Miyabi or Fūka-chan, inviting Ayanokōji-kun, it must be something special, huh?”
 [says] (p.83) “See you later!”
 [note] (p.79–83) She's angling for Kiryūin's admiration; she learns the politician dream and its source; she nearly face-plants running off.
-[rel:kiryuin-fuuka] (p.79–83) Kiryūin tells her about Kijima; Asahina takes in every word of the "I don't want to become anyone" confession.
+[rel:kiryuin-fuuka] (p.79–83) Kiryūin tells her about Kijima; Asahina takes in every word of her confession about never becoming anyone.
 
 <!-- walk: y2v11 ch2 → p.84 -->
 ## y2v6

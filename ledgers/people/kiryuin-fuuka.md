@@ -187,6 +187,58 @@ char_id: kiryuin-fuuka · class: unknown · status: unknown
 [rel:hashimoto-masayoshi] (p.32) He introduces himself as Class A; she lightly brushes off his offered hand.
 
 <!-- walk: y2v11 ch1 → p.33 -->
+
+### y2v11 p.45–52 — Ch.2: Hands in her pockets
+[scene] (p.45) After the highway stop; she waits with hands in her jersey jacket pockets as the leader of Group 20; the first face he sees at the inn.
+[says] (p.45) “I'm counting on you.”
+[says] (p.49) “Now that the greetings are over, let's have lunch. Let's disband for now.”
+[says] (p.49) “Then I'll leave it to you.”
+[note] (p.49) She leaves Hashimoto to run the lunch; she disappears into the inn alone.
+[note] (p.46) Her list: 16 first/second-years; Kiyotaka is Group 20.
+[rel:ayanokouji-kiyotaka] (p.45–52) Chosen by Nagumo to watch the match; she gives him a lead-the-group offer.
+
+### y2v11 p.60–62 — Ch.2: She sniffed out the bet
+[scene] (p.60) Break room; she strolls in late; she already knows about the Nagumo match and proposes handing over leader authority.
+[says] (p.60) “I'm sorry I'm late. Has the discussion been settled?”
+[says] (p.60) “If you want, I can even give you the authority as the leader. Of course, on the surface, I'll make it look like I chose the participants. That way, we can compete as a group, can't we?”
+[says] (p.60) “I don't know much about your current friendships. It was a chance encounter, and I just let you choose randomly. If you're uncomfortable in the group, it would be hard to show your true abilities, right?”
+[says] (p.61) “Anyway, I'm glad the match seems to be happening, Nagumo. It's a shame that third-year students can't participate in the game directly.”
+[says] (p.61) “It's a rare opportunity involving Ayanokōji. Of course I want to meet his expectations.”
+[says] (p.61) “Sorry, but I'll decline. That ticket price is soaked with the blood and sweat of the entire year. It's too heavy for me, who hasn't been involved, to accept, isn't it?”
+[note] (p.60–61) She volunteered the leader role the moment she smelled the match; Kiyotaka declines her authority offer; she declines Nagumo's Class A-bet.
+[rel:nagumo-miyabi] (p.60–62) She knows about the bet before anyone else; she challenges his presumption with cool disinterest.
+[rel:ayanokouji-kiyotaka] (p.60–62) She wants him to shine; he sees through her.
+
+### y2v11 p.71–73 — Ch.2: Between matches
+[scene] (p.71) Post-oshibana in the workshop; she calls him over to talk tension and the match with Nagumo.
+[says] (p.71) “A victory's a good start. Though, I didn't feel any tension.”
+[says] (p.71) “But if it's a competition based on experiential learning, it's not strange for anyone to win or lose.”
+[says] (p.72) “Hashimoto made this list for me, which makes things easier. He's surprisingly useful.”
+[says] (p.72) “I'm grateful for that. All I want to see is the match between you and Nagumo.”
+[note] (p.72–73) She lets Inogashira approach with the Kōenji problem; she suggests trying to recruit him only if he wins for the private points; she takes no personal responsibility.
+[says] (p.72) “There's still some time until the next game, why not give it a shot? From what I've seen, Tatebayashi's group is small and unlikely to win, but if Kōenji is competent, the situation might turn around somewhat. Right?”
+[says] (p.73) “Of course, the decision is up to you. Regardless of the details, the fact that she came to us first is significant.”
+[rel:ayanokouji-kiyotaka] (p.71–73) She stays detached; only the match with Nagumo interests her.
+[rel:kouenji-rokusuke] (p.72–73) She sees him as a lost cause unless money motivates him.
+
+### y2v11 p.79–83 — Ch.2: The swings
+[scene] (p.79) East park; she is on the swing with Asahina; Kiyotaka arrives to report Kōenji's refusal.
+[says] (p.79) “Are you that happy to talk to me?”
+[says] (p.81) “It's their law department. But I'm not particularly attached to the department.”
+[says] (p.81) “Hmm? I’m not aiming for anything. I’m not trying to become anything.”
+[says] (p.81) “I have a dream of not becoming anyone. Does that answer your question?”
+[says] (p.82) “If I had to choose a job to achieve something, I might aim to be a politician.”
+[says] (p.82) “No? It was because of opportunities like that that I decided against becoming a politician. I just let their talk go in from one ear and out the other.”
+[says] (p.82) “Because it's such a corrupt world, there are also those who shine. He was one of the few people I admired.”
+[says] (p.82) “It's Kijima-san. He's become quite important now.”
+[says] (p.83) “I don't plan to at the moment.”
+[says] (p.83) “Didn't I tell you there's a lot going on?”
+[says] (p.83) “I see. Since I'm also aiming for the same path, we're both dream chasers in our own way.”
+[note] (p.81–83) Her dream: be a politician like Kijima (now important / the Prime Minister); she admired him from childhood family ties; she refuses to aim for it because the Kiryūin name follows her.
+[rel:asahina-nazuna] (p.79–83) Asahina hangs on her every word about Kijima and her future.
+[rel:ayanokouji-kiyotaka] (p.79–83) She teases that he might become a politician; he declines; she is entertained by his defeat with Kōenji.
+
+<!-- walk: y2v11 ch2 → p.84 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

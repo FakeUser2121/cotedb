@@ -196,14 +196,31 @@ aliases used for anchors: sakagami, sakagami-sensei
 
 <!-- walk: y2v12.5 → start -->
 
-### y2v12.5 pp.65-76, 194-203 — Ch.4, Ch.9
+### y2v12.5 p.65–76 — Ch.4: Gathered at Keyaki Mall and Mashima's room
+[scene] (p.65) Sakagami-sensei in plain clothes approaches the meeting; as the one without a personal connection to the dispute, he is the impartial party.
+[says] (p.66) “What’s going on here? Explain so we can understand.”
+[says] (p.66) “I see. But who is Akiyama-san? I don’t recall such a student.”
+[says] (p.67) “In fact, I think Hoshinomiya-sensei didn’t need to use the restroom. After talking to me, she went straight back to the waiting room.”
+[says] (p.68) “Both of you are being quite lenient, even if it was an attempted issue. If it’s true, it should be reported.”
+[says] (p.68) “Don’t jump to conclusions. I’m not saying we need to report this to the school immediately.”
+[says] (p.68) “Wanting to make your class win by any means necessary is unavoidable, given this school’s system. This isn’t something limited to just the students. Even adults sometimes resort to dirty tactics. I myself have taken somewhat biased actions before, thinking it was for my class’s sake.”
+[says] (p.68) “Whether we report it or settle it among ourselves, we need to be cautious about the situation’s credibility. We don’t know if what Ayanokōji-kun is saying is true. It’s only his testimony so far.”
+[says] (p.68) “I’m not saying that, but we still need solid evidence. If it turns out Hoshinomiya-sensei was falsely accused of misconduct, she would be outraged. Then, the people who doubted her, us, would be the ones in trouble. We can’t predict what kind of punishment would be imposed.”
+[says] (p.68) “We can’t say there’s zero possibility that Hoshinomiya-sensei and Ayanokōji-kun have already conspired together, trying to set a trap for us. Isn’t that right, Ayanokōji-kun?”
+[says] (p.68) “Given the way you’re speaking, you have a good idea, don’t you?”
+[says] (p.69) “No, that’s the best approach. I think this is the most suitable method to verify whether she’ll reveal the truth from her own mouth. Chabashira-sensei, that’s fine with you, right?”
+[says] (p.69) “While I can’t go so far as to tell you to rest assured, if we do catch Hoshinomiya-sensei attempting misconduct, and she decides to stop, I have no intention of escalating the matter.”
+[says] (p.69) “Yes. If I play the villain in front of both of you here, it would leave me with concerns for next year. If my class ends up taking fire concentrated from all three classes and loses, it would be my responsibility.”
+[says] (p.71) “You’re quite stubborn, aren’t you? We wouldn’t mind going ahead and reporting this to the higher-ups, you know.”
+[says] (p.71) “I see, so that’s your approach. Indeed, if you behave from now on, Hoshinomiya-sensei, maybe there’s no need to raise this as an issue.”
+[says] (p.74) “But if we don’t interfere, we will report any violations we notice to the higher-ups. You might be expelled from your position as a homeroom teacher, you know?”
+[says] (p.74) “I see. You seem to be truly resolved, but... I don’t understand.”
+[says] (p.75) “Then our discussion is over. Let’s disperse here.”
+[rel:ayanokouji-kiyotaka] (p.65–76) He verifies Ayanokōji's testimony before acting; he declines to play the villain.
+[rel:hoshinomiya-chie] (p.70–76) He pressures her to comply or risk dismissal.
+[rel:chabashira-sae] (p.65–76) He plays the impartial role opposite her old schoolmates.
 
-[scene] (p.65-76) Mentioned/appears in Ch.4, Ch.9.
-[rel:ayanokouji-kiyotaka] (pp.65-76, 194-203) Appears in this volume.
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
+<!-- walk: y2v12.5 Ch.4 → p.76 -->
 
 ## y3v1
 
