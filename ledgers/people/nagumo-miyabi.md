@@ -634,7 +634,7 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 ### y2v4.5 p.41–53 — Kiryūin's profile; Nagumo arrives at the pool
 [note] (p.42) Kiryūin's profile for him: Academic A, Physical A, Adaptability A+, Social Contribution A+ — “He cannot be faulted”; the only student with all A or higher; the only person in the school he recognized as his equal, Horikita Manabu, has graduated.
-[note] (p.41–43) Per Kiryūin: his strategy favors flashy one-on-ones but he'll use any strategy to win — “He'll prioritise winning, no matter what it takes”; “The Nagumo administration is rock solid” — his year cannot oppose him while he holds their Class A tickets (see ledgers/volumes/y2v4.5.md); she judges him “the type of person you're no good at dealing with.”
+[note] (p.41–43) Per Kiryūin: his strategy favors flashy one-on-ones but he'll use any strategy to win — “He'll prioritise winning, no matter what it takes”; “The Nagumo administration is rock solid” — his year cannot oppose him while he holds their Class A tickets (see the volume record for the ticket mechanics); she judges him “the type of person you're no good at dealing with.”
 [scene] (p.53) Kiriyama spots Nagumo arriving at the pool and flees rather than be seen with Ayanokōji; Kiriyama must give him an answer before Nagumo's next move.
 
 <!-- walk: y2v4.5 ch2 → p.72 -->

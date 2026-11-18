@@ -25,7 +25,7 @@ char_id: komiya-kyogo · class: Class 1-C (enrolled April 2015) · status: minor
 ### y1v5 p.100 — Ch.6 sec. 6: passing mention
 [scene] (p.100) Named with Sakazaki as one of the Class C students from the earlier fight with Sudou, assembled for capture the flag.
 [rel:sudou-ken] (p.100) Recalled among those involved in the fight that almost got Sudou expelled.
-[note] (p.100) Sakazaki is named on the same page but has no roster row; only Komiya is ledgered here.
+[note] (p.100) Sakazaki is named on the same page but has no roster row; only Komiya appears here.
 
 ### y1v5 p.120 — Ch.6 sec. 6: passing mention
 [scene] (p.120) Named as one of the three Class D horsemen supporting Horikita’s jockey in the girls’ cavalry.
@@ -207,7 +207,7 @@ char_id: komiya-kyogo · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:ike-kanji] (p.31–32) His rival in love; accepts the confession gracefully, grabs Ike's shoulder, presses a fist to his chest and extracts a promise that he won't make Shinohara cry.
 [rel:ryuuen-kakeru] (p.28–30) Ryūen visited him in person; snacks and juice were left at his bedside; he worries Ryūen will go too far hunting the culprit.
 [rel:ayanokouji-kiyotaka] (p.33–34) Asks him to keep an eye on Ryūen's culprit hunt in case Shinohara saw the attacker; they exchange contact information.
-[note] (p.28–35) The same scene is recorded in the duplicate ledger komiya.md (this file is the roster entry tracked in content/characters.tsv with y2v4.5 in its volumes cell); the two rows for Komiya are a pre-existing duplication flagged to the owner, not resolved here.
+[note] (p.28–35) The same scene is recorded in duplicate form in the other rostered file komiya.md (that file tracks y2v3 only); the two roster rows for Komiya are a pre-existing duplication flagged to the owner, not resolved here.
 
 <!-- walk: y2v4.5 ch1 → p.35 -->
 

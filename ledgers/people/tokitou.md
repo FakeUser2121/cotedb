@@ -19,7 +19,7 @@ char_id: tokitou · class: unknown · status: unknown
 
 ### y2v4.5 p.118 — Tokitō Katsumi: not the troublemaker
 [mentioned] (p.118) Ayanokōji: “the first person that came to mind was Ichinose's classmate Tokitō Katsumi, who was in the same group as me during last year's mixed training camp. The one who was making trouble right now was someone else, Tokitō Hiroya. I remember being surprised when I heard that their both having the same relatively rare surname, Tokitō, wasn't just a coincidence, but because they were distant relatives. We haven't built up any deep friendship since then, but I have shared food, clothing and shelter with Tokitō Katsumi.”
-[note] (p.118) Katsumi (this ledger) is distinct from Tokitō Hiroya (tokitou-hiroya) — the Ryūen-class bully; no Katsumi presence on these pages; no lines.
+[note] (p.118) Katsumi (this entry) is distinct from Tokitō Hiroya (tokitou-hiroya) — the Ryūen-class bully; no Katsumi presence on these pages; no lines.
 
 <!-- walk: y2v4.5 ch4 → p.158 -->
 

@@ -1808,7 +1808,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 
 ### y2v4.5 p.59–63 — At her own celebration party, seated by his side
-[scene] (p.59–63) The exam-celebration party in room 5034 is her class's thank-you — ten girls, no boys; Ayanokōji is seated beside her by Kobashi's design; she says nothing about it; he slips out the moment Himeno leaves.
+[scene] (p.59–63) The exam-celebration party in room 5034 is for her class — ten girls, no boys; Ayanokōji is seated beside her by Kobashi's design; she says nothing about it; he slips out the moment Himeno leaves.
 [rel:ayanokouji-kiyotaka] (p.60–63) Sits beside her; neither acknowledges it; her party energy survives it only barely — he was the awkward guest of honour.
 
 <!-- walk: y2v4.5 ch2 → p.72 -->

@@ -8688,7 +8688,7 @@ walk: y1v1 → DONE
 [says] (p.64) “Phew…I was about to break into a strange sweat.”
 [says] (p.67) “Isn't your headache just an excuse to get out of an unpleasant situation?”
 [says] (p.69) “If you want to relieve stress, isn't screaming the best thing to do?”
-[note] (p.60–64) Nobody in the room is a boy; the gathering is a thank-you for Chihiro and a celebration of the exam's end; he escapes as soon as Himeno leaves, "less than 30 seconds after Himeno left the room" (p.64).
+[note] (p.60–64) Nobody in the room is a boy; the gathering is to thank Chihiro and to mark the exam's end; he escapes as soon as Himeno leaves, "less than 30 seconds after Himeno left the room" (p.64).
 [rel:kobashi-yume] (p.59–60) Escorts him in; pre-assigns his seat next to Ichinose.
 [rel:ichinose-honami] (p.60–63) Sat beside her; the room's blind faith in her is visible; she declines to walk him out — nothing said aloud.
 [rel:himeno-yuki] (p.65–72) Follows her to the stern; screams with her into the ocean.
