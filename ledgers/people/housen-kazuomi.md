@@ -100,10 +100,9 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — housen-kazuomi mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.16, p.28, p.42, p.65-66, p.70, p.72; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.10-228 — housen-kazuomi
+[scene] (p.28) Named in passing — “Class D had Hōsen”; the only Class D roster leader named for the first years.
+[note] (p.12-228) Every other locator hit is a substring false positive; this is the only verified occurrence of the name in the volume text on a line-by-line read.
 
 ## y2v12.5
 

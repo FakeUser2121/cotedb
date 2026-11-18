@@ -279,6 +279,14 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [note] (p.214) She does not appear; her expulsion hangs over everything the A/C final means; Sakayanagi contemplates winning the exam and bringing Hashimoto back into the fold, “Maybe it’s okay to give him a chance” — for Kamuro too.
 
 <!-- walk: y2v12 epilogue → p.228 -->
+
+### y2v12 p.59–60, 216 — Mentioned in passing
+[scene] (p.59) Named in passing — “confidants like Kamuro, Hashimoto, and Kitō” (Sakayanagi's old trust circle); “She couldn’t talk to Kamuro anymore since she had already been expelled.”
+[scene] (p.60) Named in passing — “This change began with Kamuro and Yamamura, significantly influenced by that recent incident.”
+[scene] (p.216) Named in passing — “Maybe it's okay to win this special exam and bring Hashimoto back into the fold.”
+[mentioned] (p.59–60, 216) Passing mention only.
+
+<!-- walk: y2v12 coverage → p.228 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

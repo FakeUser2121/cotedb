@@ -33,3 +33,9 @@ char_id: nakaizumi-shouhei · class: unknown · status: unknown
 [rel:takarajima-miko] (p.180–181) The real traitor is his teammate Miko; his denial buys the room nothing but time.
 
 <!-- walk: y2v12 ch8 → p.204 -->
+
+### y2v12 p.179 — Mentioned in passing
+[scene] (p.179) Named in passing — “testimony. And it was Tamiya and Nakaizumi who pointed out those glances. It’s quite possible that one of these sides could very well be the pair of honor students.”
+[mentioned] (p.179) Passing mention only; his scene entries are recorded separately in his own ledger.
+
+<!-- walk: y2v12 coverage → p.228 -->

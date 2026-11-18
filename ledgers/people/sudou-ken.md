@@ -1531,6 +1531,13 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:horikita-suzune] (p.121) The girl who recruited him — she watches him perform and nearly cries with pride.
 
 <!-- walk: y2v12 ch6 → p.152 -->
+
+### y2v12 p.28, 31, 227 — Mentioned in passing
+[scene] (p.28) Named in passing — “dead weight like Sudō from back when we first enrolled” (Horikita on Class D’s history).
+[scene] (p.31) Named in passing — “Students specialized in physical abilities like Sudō or Onodera should be avoided” (Ayanokōji on the representatives’ picks).
+[mentioned] (p.227) Named only in the translators’ credits — “Eff Ayano x Hori, where's my Sudo x Onodera?”
+
+<!-- walk: y2v12 coverage → p.228 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

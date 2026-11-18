@@ -66,3 +66,14 @@ char_id: ishigami-kyo-1a · class: Class 1-A · status: first-year honor student
 [rel:amasawa-ichika] (p.61–62) His Class A classmate, who recognizes him and describes him as the class's strategist.
 [rel:ayanokouji-kiyotaka] (p.62) He meets Ayanokōji's gaze with a silent stare and shows no sign of agitation at the unexpected first meeting.
 [note] (p.66) Ayanokōji notes the Class D option is also an easy solution "given that she'd been turned down by Ishigami."
+
+## y2v12
+
+<!-- walk: y2v12 → start -->
+
+### y2v12 p.27-28 — Mentioned in passing
+[scene] (p.28) Named in passing — “Class A had well-defined leaders like Takahashi or Ishigami” (Horikita on the first-year rankings; the Class A co-leader named alongside Takahashi Osamu).
+[note] (p.28) The referent is almost certainly this roster row (Class 1-A Ishigami Kyō), not the Class 2-D Keisei Ishigami; identity unconfirmed on the pages.
+[mentioned] (p.27-28) Passing mention only.
+
+<!-- walk: y2v12 coverage → p.228 -->

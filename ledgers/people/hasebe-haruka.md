@@ -509,6 +509,12 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [rel:amasawa-ichika] (p.39–40) She deliberately crashed Hasebe's attempt, on his finger-signal.
 
 <!-- walk: y2v12 ch2 → p.62 -->
+
+### y2v12 p.91 — Mentioned in passing
+[scene] (p.91) Named in passing — “Nowadays, he spent time with Hasebe and Miyake whenever possible and learned to get along with people” (Yukimura's interiority).
+[mentioned] (p.91) Passing mention only.
+
+<!-- walk: y2v12 coverage → p.228 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

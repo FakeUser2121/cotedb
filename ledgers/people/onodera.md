@@ -182,3 +182,11 @@ char_id: onodera · class: Class 1-D · status: minor
 [scene] (p.12) Named in this volume.
 [note] (p.12) Passing mention (locator pages: p.31, p.120, p.227; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.12) Passing mention only.
+
+### y2v12 p.31, 227 — Mentioned in passing (ambiguous)
+[scene] (p.31) Named in passing — “Students specialized in physical abilities like Sudō or Onodera should be avoided.” — the Class B debate on representatives; which Onodera this is cannot be established from the pages.
+[scene] (p.227) Named in passing — translators’ credits — “Eff Ayano x Hori, where's my Sudo x Onodera? I won't accept any other relationship.” — same ambiguity.
+[note] (p.31, 227) The roster carries both onodera and onodera-kayano for this volume; no page establishes which Onodera is meant; both rows are flagged.
+[mentioned] (p.31, 227) Passing mention only; identity unconfirmed.
+
+<!-- walk: y2v12 coverage → p.228 -->

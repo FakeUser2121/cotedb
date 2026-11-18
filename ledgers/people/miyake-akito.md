@@ -514,6 +514,14 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [rel:horikita-suzune] (p.121) She reads him correctly as the honor student; Kanzaki is fooled; the split decision decides the middle-guard battle.
 
 <!-- walk: y2v12 ch6 → p.152 -->
+
+### y2v12 p.30, 38-39, 91 — Mentioned in passing
+[scene] (p.30) Named in passing — “selecting Miyake with that in mind could impair Hatsukawa's ability to make sound judgements” (Ayanokōji's compatibility thought experiment).
+[scene] (p.38-39) Named in passing — Hasebe's cut-off sentence: “let's, with Miyacchi and Yukimū—” (Gagakochibo refs him).
+[scene] (p.91) Named in passing — “he spent time with Hasebe and Miyake whenever possible and learned to get along with people” (Yukimura on his own growth).
+[mentioned] (p.30, 38-39, 91) Passing mention only.
+
+<!-- walk: y2v12 coverage → p.228 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

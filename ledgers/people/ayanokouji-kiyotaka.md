@@ -6062,6 +6062,16 @@ walk: y1v1 → DONE
 [rel:sakayanagi-arisu] (p.224) The girl who wants to surpass him; she gets one phone call instead.
 
 <!-- walk: y2v12 epilogue → p.228 -->
+
+### y2v12 p.87, 119–120, 123–127, 139–141, 209–217, 226–227 — Mentioned in passing (dialogue and narration)
+[scene] (p.87) Named in passing — “This was exactly what the participants heard from Ayanokōji and the others” — the participants learned of his participation from his own announcement.
+[scene] (p.119–120, 123–127) Named in passing — “Whose idea was it to put Ayanokōji as the general?”; “You’re giving Ayanokōji-kun quite a high evaluation.”; “defeat me and Ayanokōji-kun alone.”
+[scene] (p.139–141) Named in passing — “But even though she doesn’t say it, she must feel the same as me.”
+[scene] (p.209–217) Named in passing — “The content of the message is only known to Hashimoto.”; “Because this is a message from Ayanokōji-kun. That’s all there is to it.”
+[scene] (p.226–227) Named in passing — translators’ credits — “Kiyotaka really put the work on everyone this volume”; “Eff Ayano x Hori”.
+[mentioned] (p.87, 119–141, 209–227) Passing mention only; his scene entries are recorded separately in his own ledger.
+
+<!-- walk: y2v12 coverage → p.228 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

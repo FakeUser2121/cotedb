@@ -873,6 +873,12 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [rel:nakanishi] (p.93) He names him first to the room; the provocation leads the discussion off the rails.
 
 <!-- walk: y2v12 ch4 → p.100 -->
+
+### y2v12 p.95–96 — Mentioned in passing
+[scene] (p.95–96) Named in passing — “Yukimura's persistent remarks directed at Nakanishi caused more agitation than expected, leading to a situation where Nakanishi, under intense criticism from those around him, was on the verge of panic.”
+[mentioned] (p.95–96) Passing mention only; these are the same pages as his scene entries, listing the full crossfire.
+
+<!-- walk: y2v12 coverage → p.228 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

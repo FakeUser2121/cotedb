@@ -1035,6 +1035,13 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [rel:totsuka-yahiko] (p.145) His revenge dies here — April, in the room across from her.
 
 <!-- walk: y2v12 ch6 → p.152 -->
+
+### y2v12 p.147, 172 — Mentioned in passing
+[scene] (p.147) Named in passing — “Katsuragi had swiftly defeated the vanguard and middle guard, but it was still uncertain how well he would fare against Sakayanagi.”
+[scene] (p.172) Named in passing — “ALTHOUGH IT WAS ONLY by one point, Katsuragi managed to reduce Sakayanagi’s life to nine.”
+[mentioned] (p.147, 172) Passing mention only; his scene entries are recorded separately in his own ledger.
+
+<!-- walk: y2v12 coverage → p.228 -->
 ## y3v1
 
 <!-- walk: y3v1 → start -->

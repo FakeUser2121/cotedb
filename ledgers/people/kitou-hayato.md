@@ -305,6 +305,15 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 [rel:sakayanagi-arisu] (p.113) His nomination pattern is her instruction — he volunteers as a high-risk attempt at even one honor-student hit.
 
 <!-- walk: y2v12 ch5 → p.118 -->
+
+### y2v12 p.59, 105, 117, 130–131 — Mentioned in passing
+[scene] (p.59) Named in passing — “confidants like Kamuro, Hashimoto, and Kitō.”
+[scene] (p.105) Named in passing — “Then defeat Kitō, who was waiting for his turn, next.”
+[scene] (p.117) Named in passing — “Bitterly muttering, Kitō turned his back on Katsuragi and opened the door somewhat roughly.”
+[scene] (p.130–131) Named in passing — “Was it because Kitō-kun, entrusted as the middle guard, was defeated and lashed out at you in frustration?”
+[mentioned] (p.59, 105, 117, 130–131) Passing mention only; his scene entries are recorded separately in his own ledger.
+
+<!-- walk: y2v12 coverage → p.228 -->
 ## y3v1
 
 <!-- walk: y3v1 → start -->

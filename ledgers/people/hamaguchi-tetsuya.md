@@ -123,6 +123,16 @@ char_id: hamaguchi-tetsuya · class: Class 1-B · status: minor
 [rel:hirata-yousuke] (p.94–98) Cautious mirror-image duel; no blow lands until Hirata's eighth-round miss.
 
 <!-- walk: y2v12 ch4 → p.100 -->
+
+### y2v12 p.30, 99–101, 119, 132–135, 146 — Mentioned in passing (dialogue and narration)
+[scene] (p.30) Named in passing — “Hamaguchi-kun, and Niiura-kun could also be likely candidates” (Ayanokōji's list of Class D candidates for Horikita).
+[scene] (p.99–101) Named in passing — the announcement lands: “With Hamaguchi-kun’s victory, Hirata-kun will leave the room.”
+[scene] (p.119) Named in passing — “Having defeated Hamaguchi without a scratch, Horikita was now waiting in her chair for their middle guard, Kanzaki.”
+[scene] (p.132–135) Named in passing — Horikita's recall during Ichinose's approach: the three battles, Hamaguchi among them.
+[scene] (p.146) Named in passing — “Even if Yōsuke had defeated Hamaguchi and Kanzaki, the outcome would’ve likely been similar.”
+[mentioned] (p.30, 99–101, 119, 132–135, 146) Passing mention only; his scenes are recorded separately in his own ledger.
+
+<!-- walk: y2v12 coverage → p.228 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

@@ -844,6 +844,15 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 
 <!-- walk: y2v12 ch1 → p.25 -->
 
+### y2v12 p.220 — Mentioned in passing
+[scene] (p.220) Named in passing — “Two years ago, following my brother, I enrolled into this school as well.” (Horikita's SS).
+[mentioned] (p.220) Passing mention only; his name anchors Horikita's enrollment story.
+
+### y2v12 p.220 — Mentioned in passing
+[scene] (p.220) Named in passing — “Two years ago, following my brother, I enrolled into this school as well.” (Horikita's SS).
+[mentioned] (p.220) Passing mention only; his name anchors Horikita's enrollment story.
+
+<!-- walk: y2v12 coverage → p.228 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

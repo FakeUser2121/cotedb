@@ -24,10 +24,10 @@ char_id: nishi-haruka · status: minor
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — nishi-haruka mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.65-66, p.69, p.91, p.93, p.95-96, p.98; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.10-228 — nishi-haruka
+[scene] (p.196-197) Named in the announcement — “Ryūen-kun has successfully identified Nishi-san as an honor student, so Sakayanagi-san will lose three lives”; she is the first honor student identified in the fifth-discussion battle.
+[note] (p.196) The fifth discussion’s participant list is never printed; which Nishi this is cannot be established from the pages — nishi-haruka (Class A) is the only matching roster row for this volume; identity unconfirmed.
+[note] (p.65-194) Every other locator hit is the substring match on “Nishino” — not this student; this is the only verified occurrence.
 
 
 

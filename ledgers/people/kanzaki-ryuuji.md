@@ -476,6 +476,18 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [rel:ichinose-honami] (p.122–127) His whole pitch rests on her as Class D's leader; Horikita suspects he never asked her permission first.
 
 <!-- walk: y2v12 ch6 → p.152 -->
+
+### y2v12 p.30, 84, 132–133, 135, 139, 146 — Mentioned in passing (dialogue and narration)
+[scene] (p.30) Named in passing — “I suppose Kanzaki-kun would be a safe bet.”
+[scene] (p.84) Named in passing — Hoshinomiya-sensei approached; Kanzaki is among the nine already seated; the unfamiliar adult observes.
+[scene] (p.132) Named in passing — the monitor lands: Horikita's 0 lives vs Ichinose's 10; she faces Ichinose; Kanzaki is eliminated behind her arithmetic.
+[scene] (p.133) Named in passing — “the same special exam” — Kanzaki passes the way Hamaguchi did; he doesn't even show much interest.
+[scene] (p.135) Named in passing — “Although she wasn’t clear on the details, Hirata, who’d been defeated earlier, was probably no exception.”
+[scene] (p.139) Named in passing — “so he tried to do his best as the middle guard, but you took the initiative, and his hopes faded.”
+[scene] (p.146) Named in passing — “Do you think there’s any chance of winning?” — the outcome proof that Horikita was no match for Ichinose; Kanzaki's despair as confirmation.
+[mentioned] (p.30, 84, 132–133, 135, 139, 146) Passing mention only; his scene entries are recorded separately in his own ledger.
+
+<!-- walk: y2v12 coverage → p.228 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

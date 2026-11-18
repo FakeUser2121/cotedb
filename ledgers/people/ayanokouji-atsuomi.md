@@ -75,10 +75,9 @@ char_id: ayanokouji-atsuomi · role: White Room director, Ayanokōji’s father 
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — ayanokouji-atsuomi mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.31, p.33, p.38, p.43, p.46, p.50; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.10-228 — ayanokouji-atsuomi
+[scene] (p.12) No occurrence of this name anywhere in the volume text — every locator hit is the substring match on Ayanokōji Kiyotaka’s surname.
+[note] (p.12) Zero occurrences on a line-by-line read (pp.10-228); the y2v12 roster listing for this character appears stale and is left unchanged (add only; never remove).
 
 ## y2v12.5
 

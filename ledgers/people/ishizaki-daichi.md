@@ -610,6 +610,13 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [rel:kaneda-satoru] (p.177–178) Kaneda shields him; he keeps himself together just long enough.
 
 <!-- walk: y2v12 ch8 → p.204 -->
+
+### y2v12 p.41, 222 — Mentioned in passing
+[scene] (p.41) Named in passing — Ryūen, wistfully: “if Ibuki or Ishizaki were here, then they would’ve been able to do something about this tense atmosphere.”
+[scene] (p.222) Named in passing — the identical Ryūen line, retold in his short-story POV: “if Ibuki or Ishizaki were here, then they would’ve been able to do something about this tense atmosphere.”
+[mentioned] (p.41, 222) Passing mention only.
+
+<!-- walk: y2v12 coverage → p.228 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

@@ -1068,10 +1068,10 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — ike-kanji mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.12, p.16, p.18-24, p.26-31, p.33-34, p.37-39; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.10-228 — ike-kanji
+[scene] (p.79) Named in passing — “I’m still worried about how much Ike-kun and the others can understand.” (Horikita); one of the likely participant-discussion leaders in the B/D match.
+[scene] (p.156) Named in passing — “students like Ike or Hondō might be lured in by sweet temptations and could slip up” (Ayanokōji on the traitor risk).
+[note] (p.12-228) Both is all; the remaining locator hits are the substring match on “like” (227 lines) — not a presence.
 
 ## y2v12.5
 

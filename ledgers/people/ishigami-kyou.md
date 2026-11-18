@@ -103,10 +103,9 @@ char_id: ishigami-kyou · class: unknown · status: unknown
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — ishigami-kyou mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.28; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.10-228 — ishigami-kyou
+[scene] (p.28) Unverifiable — the volume names “Ishigami” as one of two first-year Class A leaders; the referent is almost certainly the Class 1-A Ishigami Kyō (a different Ishigami from this roster row).
+[note] (p.28) Identity between this roster row (Keisei Ishigami, Class 2-D) and the Class A co-leader named on p.28 cannot be established from these pages; no other occurrence of this name appears in the volume text on a line-by-line read.
 
 
 

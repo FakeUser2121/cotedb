@@ -1028,6 +1028,18 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.225) Her SS mirrors her phone-call — the calm before the exam; the page never shows what she dreamed.
 
 <!-- walk: y2v12 epilogue → p.228 -->
+
+### y2v12 p.13, 16–17, 20–21, 29, 33, 41–45, 49–52, 54, 62, 82, 105, 108, 112, 122–124, 147–148, 162, 168–170, 201–207, 222–224 — Mentioned in passing (dialogue and narration)
+[scene] (p.13, 16–17, 20–21) Named in passing — Class A by Sakayanagi on the rankings page; her challenge accepted; the win-or-expelled stakes.
+[scene] (p.29, 33) Named in passing — she has no preparation to make either; Sakayanagi and Ryūen are no different.
+[scene] (p.41–45, 49–52, 54, 62) Named in passing — the karaoke room visit; the betrayal chat; the third conversation; the wire over the expulsions.
+[scene] (p.82, 105, 108, 112) Named in passing — the unified front in the discussion; the Katsuragi duel; the witness toward the final.
+[scene] (p.122–124, 147–148) Named in passing — her rematch referenced in the Class B rooms; her keyword on every side.
+[scene] (p.162, 168–170) Named in passing — her classmate, her trust; the letter in the mailbox.
+[scene] (p.201–207, 222–224) Named in passing — the interrogation room; the message; the SS.
+[mentioned] (p.13–227) Passing mention only; her scene entries are recorded separately in her own ledger.
+
+<!-- walk: y2v12 coverage → p.228 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

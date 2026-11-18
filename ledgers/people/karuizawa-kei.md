@@ -1493,6 +1493,13 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [note] (p.219) She is not present; she is invoked as the boundary Ichinose cannot cross — the same rule that shaped the walk-home scene in Chapter 1.
 
 <!-- walk: y2v12 epilogue → p.228 -->
+
+### y2v12 p.39, 61 — Mentioned in passing
+[scene] (p.39) Named in passing — “Even though you have Karuizawa-senpai as your girlfriend, now you’re plotting on making this busty one your girlfriend too?” — Amasawa's arrival line.
+[scene] (p.61) Named in passing — “Karuizawa-san and Ichinose-san like you because you boldly step into people’s hearts, disrupt them, and then foster growth.”
+[mentioned] (p.39, 61) Passing mention only; her scene entries are recorded separately in her own ledger.
+
+<!-- walk: y2v12 coverage → p.228 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

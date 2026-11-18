@@ -52,3 +52,10 @@ char_id: minami-setsuya · class: unknown · status: unknown
 [note] (p.137) The B vs D participants' generals'-discussion list is never printed; which of the two Minami roster members this is cannot be established from the pages — the printed name is kept as printed, identity unconfirmed.
 
 <!-- walk: y2v12 ch6 → p.152 -->
+
+### y2v12 p.91 — Mentioned in passing (ambiguous)
+[scene] (p.91) The printed Class B participant list includes “Minami Hakuo” — the surname matches both Minami roster rows; which of the two students attends cannot be established from the pages.
+[note] (p.91) The list prints the full name as “Minami Hakuo”; this file is the other candidate only by elimination failure — no evidence favors this row over hakuo.
+[mentioned] (p.91) Passing mention only; identity unconfirmed.
+
+<!-- walk: y2v12 coverage → p.228 -->

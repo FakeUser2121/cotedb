@@ -141,3 +141,9 @@ char_id: yoshida-kenta · class: unknown · status: unknown
 [note] (p.183) No dialogue or action is printed for this student on these pages; the role is never disclosed.
 
 <!-- walk: y2v12 ch8 → p.204 -->
+
+### y2v12 p.102 — Named in passing
+[scene] (p.102) Named in passing — “Then, her focus landed on Yoshida’s name, and she tried to recall the earlier discussion.”
+[note] (p.102) She suspects Yoshida as an honor student; he is not — her panic picks him at random; no role of his is ever disclosed.
+
+<!-- walk: y2v12 coverage → p.228 -->

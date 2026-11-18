@@ -1869,6 +1869,20 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:sakayanagi-arisu] (p.223) She is named in the vow he makes in his heart right before the karaoke meeting ends.
 
 <!-- walk: y2v12 epilogue → p.228 -->
+
+### y2v12 p.13, 16–17, 20–21, 28–29, 33, 49–52, 58–62, 78, 80, 82, 84, 101, 105, 108, 114, 117, 124, 130, 135, 145, 148, 162, 168, 208–211, 214–217, 224, 227 — Mentioned in passing (dialogue and narration)
+[scene] (p.13, 16–17, 20–21) Named in passing — Class C by Ryūen on the rankings page; the inter-team balance on his class; Sakayanagi's win-or-expelled terms.
+[scene] (p.28–29, 33) Named in passing — his class's choice of representatives; his gamble referenced; his low- academics path noted.
+[scene] (p.49–52) Named in passing — Hashimoto weighs his future; the transfer-fee mathematics.
+[scene] (p.58–62) Named in passing — he has already texted a reply; Sakayanagi's exasperation on the phone; his fight mode.
+[scene] (p.78, 80, 82, 84) Named in passing — the discussion-battle suspicion around Hiyori's absence from the representative role; his tailwind under the talk about his choice.
+[scene] (p.101, 105, 108, 114, 117, 124, 130, 135, 145, 148) Named in passing — the vanguard choice; the Katsuragi duel's commentary; the witness toward the final; his attitude, his resentment, his growth.
+[scene] (p.162, 168) Named in passing — a name in the interrogation room; the rivalries in the mailbox rumors.
+[scene] (p.208–211, 214–217) Named in passing — his name appears in every instruction inside the interrogation room; he is expelled.
+[scene] (p.224, 227) Named in passing — he landed in the short story; translators’ credits mention the character.
+[mentioned] (p.13–227) Passing mention only; his scene entries are recorded separately in his own ledger.
+
+<!-- walk: y2v12 coverage → p.228 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

@@ -1657,7 +1657,8 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 <!-- walk: y2v12 ch1 → p.25 -->
 
 ### y2v12 p.65, 67, 79–82 — Ch.3: The last representatives to arrive
-[scene] (p.65) He, Horikita and Ayanokōji are the last to arrive; he greets him cheerfully; then the phones are surrendered, the body checks pass, and he sits through the monitor reveal — his face registered no shock at Nishino's name; his larger worry is whether his classmates can function as participants.
+[scene] (p.64) He, Horikita and Ayanokōji are the last to arrive; he greets him cheerfully; then the phones are surrendered, the body checks pass, and he sits through the monitor reveal — his face registered no shock at Nishino's name; his larger worry is whether his classmates can function as participants.
+[says] (p.64) “Good morning, Kiyotaka-kun.”
 [says] (p.65) “They’re quite thorough, aren’t they?”
 [scene] (p.79) Walking to the waiting room with Horikita and Ayanokōji, he looks at the nine people ahead; he says the burden on the participants is greater than imagined; that conditions are the same for everyone; and that he can't even imagine how the discussion will go.
 [says] (p.79) “I’d be lying if I said I’m not worried, but that should be the same for the other classes.”
@@ -1693,6 +1694,17 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:ayanokouji-kiyotaka] (p.146) They watch the end together in silence; neither speaks until the announcement lands.
 
 <!-- walk: y2v12 ch6 → p.152 -->
+
+### y2v12 p.30–31, 69, 84, 101, 119, 135 — Mentioned in passing (dialogue and narration)
+[scene] (p.30–31) Named in passing — “the vanguard and middle guard would be Yōsuke and Kushida” (Ayanokōji's hypothetical); “Hirata-kun and Kushida-san being the top candidates is inevitable.”
+[scene] (p.69) Named in passing — first name on the Class B representatives monitor: “Vanguard: Hirata Yōsuke”.
+[scene] (p.84) Named in passing — “I excused myself to Horikita and Yōsuke and headed out to the special building corridor.”
+[scene] (p.101) Named in passing — “AS THE BATTLE BETWEEN Hirata and Hamaguchi was about to begin”
+[scene] (p.119) Named in passing — “Hirata’s defensive approach led to his defeat”; “much like Hirata or Hamaguchi.”
+[scene] (p.135) Named in passing — “although she wasn’t clear on the details, Hirata, who’d been defeated earlier, was probably no exception.”
+[mentioned] (p.30–31, 69, 84, 101, 119, 135) Passing mention only; his scene entries are recorded separately in his own ledger.
+
+<!-- walk: y2v12 coverage → p.228 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

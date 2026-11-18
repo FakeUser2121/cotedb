@@ -77,10 +77,9 @@ char_id: sonoda-chiyo · class: unknown · status: unknown
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — sonoda-chiyo mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.101; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.10-228 — sonoda-chiyo
+[scene] (p.12) Zero occurrences of this name in the volume text on a line-by-line read (pp.10-228); the one locator hit (p.101) is the “Sonoda Masashi” entry in the first-discussion participant list, not this student.
+[note] (p.12) The y2v12 roster listing for this character appears stale and is left unchanged (add only; never remove).
 
 
 

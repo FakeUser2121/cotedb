@@ -1174,6 +1174,13 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [note] (p.67) "You better quiet down now" is printed with no speaker tag; it is unattributable on these pages (see this volume's attribution gaps).
 
 <!-- walk: y2v12 ch3 → p.86 -->
+
+### y2v12 p.29, 78 — Mentioned in passing
+[scene] (p.29) Named in passing — “Even Chabashira-sensei doesn't know the details of the exam” (Horikita).
+[scene] (p.78) Named in passing — “as Chabashira-sensei had mentioned, physical abilities were not necessary, and the academic abilities needed were proven to be minimal” (Mashima's explanation aftermath).
+[mentioned] (p.29, 78) Passing mention only; neither appearance is a scene presence.
+
+<!-- walk: y2v12 coverage → p.228 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

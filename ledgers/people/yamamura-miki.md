@@ -36,6 +36,15 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 [rel:sakayanagi-arisu] (p.210–214) Her eyes — the woman who watched everyone, trusted no one.
 
 <!-- walk: y2v12 epilogue → p.228 -->
+
+### y2v12 p.47, 59–60, 216 — Mentioned in passing
+[scene] (p.47) Named in passing — “based on information I had obtained from Yamamura” — the video evidence anchoring everything he tells Matsushita.
+[scene] (p.59) Named in passing — “confidants like Kamuro, Hashimoto, and Kitō” — her old trust circle named by Sakayanagi.
+[scene] (p.60) Named in passing — “This change began with Kamuro and Yamamura, significantly influenced by that recent incident.”
+[scene] (p.216) Named in passing — “Maybe it's okay to win this special exam and bring Hashimoto back into the fold.”
+[mentioned] (p.47, 59–60, 216) Passing mention only; her scene entries are recorded separately in her own ledger.
+
+<!-- walk: y2v12 coverage → p.228 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

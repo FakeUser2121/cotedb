@@ -1564,6 +1564,17 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:karuizawa-kei] (p.219) The woman who has him; Ichinose handles this with practiced dignity.
 
 <!-- walk: y2v12 epilogue → p.228 -->
+
+### y2v12 p.13, 16–17, 19, 22, 30, 33, 35, 37, 42–43, 55–56, 59, 61, 65, 82–86, 99, 122–128, 146–151 — Mentioned in passing (dialogue and narration)
+[scene] (p.13, 16–17, 19, 22) Named in passing — Class D by Ichinose on the rankings page; her class's perfect record; the 40-person class.
+[scene] (p.30, 33, 35, 37, 42–43) Named in passing — “Ichinose's class is a formidable enemy. From the impression given by the rules.”
+[scene] (p.55–56, 59, 61) Named in passing — Kanzaki's despair; the Sunday call; the promise of watching Sakayanagi vs Ryūen.
+[scene] (p.65, 82–86) Named in passing — “Ichinose's Class D, there were Hamaguchi and Kanzaki”; “...It’s inevitable that our classes will clash.”
+[scene] (p.99, 122–128) Named in passing — “Ichinose must’ve trusted Kanzaki and entrusted him with the middle guard position.”
+[scene] (p.146–151) Named in passing — “Horikita lost to Ichinose.”; “Ichinose must have been tough... No, she might be in a completely different league.”
+[mentioned] (p.13–151) Passing mention only; her scene entries are recorded separately in her own ledger.
+
+<!-- walk: y2v12 coverage → p.228 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

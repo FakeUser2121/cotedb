@@ -75,3 +75,12 @@ char_id: shimizu-naoki · class: Class 1-A · status: minor
 [rel:tokitou-hiroya] (p.184–188) The rival he hunts; he provokes him through the entire second discussion.
 
 <!-- walk: y2v12 ch8 → p.204 -->
+
+### y2v12 p.189–194 — Mentioned in passing (physical presence, no line printed)
+[scene] (p.189) Named in passing — “Shimizu’s words are infuriating, but half of it seems to be true. I don’t like Ryūen.” — Shiina's response to him, not to Tokitō.
+[scene] (p.193) Named in passing — in the third round Shimizu challenges Tokitō again; this time, Tokitō shows no irritation; he could not betray Shiina’s expectations — a resolve that was evident even through the screen.
+[scene] (p.194) Named in passing — “Machida-kun as an honor student, resulting in a draw.’” — the announcement lands on a table he is leaning on.
+[note] (p.189–194) No line of his is printed in these pages; his provocation is now background noise — neither representative nominates him once during the whole battle.
+[rel:shiina-hiyori] (p.189) He is the target of her one direct statement of the chapter — she does not hate him the way he hates Tokitō.
+
+<!-- walk: y2v12 coverage → p.228 -->

@@ -43,10 +43,9 @@ char_id: ijuin-wataru · class: unknown · status: unknown
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — ijuin-wataru mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.120; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.10-228 — ijuin-wataru
+[scene] (p.12) Zero occurrences of this name in the volume text on a line-by-line read (pp.10-228); the p.120 locator hit is “Ijūin Kou” in the middle-guard-discussion participant list — a different Ijūin (roster ijuin-kou), not this student.
+[note] (p.12) The y2v12 roster listing for this character appears stale and is left unchanged (add only; never remove).
 
 
 

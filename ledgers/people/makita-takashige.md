@@ -26,10 +26,9 @@ char_id: makita-takashige · class: unknown · status: unknown
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — makita-takashige mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.91, p.97; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.10-228 — makita-takashige
+[scene] (p.12) No occurrence of this student’s full name in the volume text on a line-by-line read (pp.10-228).
+[note] (p.91, p.97) The participant lists print “Makita Susumu” — surname matches this roster row’s family name but the given name does not (Susumu vs Takashige); the Makida Susumu roster row is the likelier referent; neither is confirmed from these pages.
 
 
 

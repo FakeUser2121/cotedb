@@ -1045,6 +1045,12 @@ aliases used for anchors: sakura, airi, sakura-san
 [note] (p.12) Passing mention (locator pages: p.38; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.12) Passing mention only.
 
+### y2v12 p.38–39 — Mentioned in passing
+[scene] (p.38) Named in passing — “Whether it’s because I’ve come to accept Airi through the cultural festival, or simply because too much time has passed.”
+[note] (p.38) She is named by Hasebe; no scene presence; she was expelled at the Unanimous Voting special exam (previous volumes).
+[rel:hasebe-haruka] (p.38) Her name is the hinge of Hasebe's recovery arc — the festival Airi is the wound Hasebe is healing around.
+
+<!-- walk: y2v12 coverage → p.228 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

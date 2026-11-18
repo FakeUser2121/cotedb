@@ -39,10 +39,9 @@ char_id: yuki · class: unknown · status: unknown
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — yuki mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.39, p.91-93, p.95, p.97, p.120; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.10-228 — yuki
+[scene] (p.12) Zero occurrences of this name in the volume text on a line-by-line read (pp.10-228); every locator hit is the substring match on “Yuki” inside “Yukimura” and “Himeno Yuki”.
+[note] (p.12) The y2v12 roster listing for this character appears stale and is left unchanged (add only; never remove).
 
 
 

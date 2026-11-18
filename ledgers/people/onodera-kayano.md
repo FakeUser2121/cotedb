@@ -34,6 +34,14 @@ char_id: onodera-kayano · status: minor
 [note] (p.120) No dialogue or action is printed for her on these pages; the role is never disclosed.
 
 <!-- walk: y2v12 ch6 → p.152 -->
+
+### y2v12 p.31, 227 — Mentioned in passing (ambiguous)
+[scene] (p.31) Named in passing — “Students specialized in physical abilities like Sudō or Onodera should be avoided.” — the Class B debate on representatives; which Onodera this is cannot be established from the pages.
+[scene] (p.227) Named in passing — translators’ credits — “Eff Ayano x Hori, where's my Sudo x Onodera? I won't accept any other relationship.” — same ambiguity.
+[note] (p.31, 227) The roster carries both onodera and onodera-kayano for this volume; no page establishes which Onodera is meant; both rows are flagged.
+[mentioned] (p.31, 227) Passing mention only; identity unconfirmed.
+
+<!-- walk: y2v12 coverage → p.228 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

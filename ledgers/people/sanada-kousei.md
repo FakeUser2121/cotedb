@@ -131,4 +131,32 @@
 [rel:katsuragi-kouhei] (p.105) The Class A/Class C middle-guard battle; he notes their shared history in Class A.
 [rel:nishino-takeko] (p.102–103) He wins against an opponent who nominates herself into defeat; he does not enjoy it.
 
+### y2v12 p.106–112 — Ch.5: The Katsuragi duel
+[scene] (p.106–107) Katsuragi declares he won't be easy; he watched every Class A participant this time; he gambles — nominates Morishige as executive role, correctly; Sanada loses one life (5→4).
+[says:katsuragi-kouhei] (p.107) “Having experienced the exam first—is it… an advantage?”
+[says:katsuragi-kouhei] (p.107) “Are you wondering whether to nominate?”
+[says] (p.107) “Yes. There are participants I’m concerned about, so making a bold nomination might be an option.”
+[says] (p.107) “No, I’ll stop. It seems difficult to narrow it down, at least for now.”
+[scene] (p.108) Sanada reels — his confidence is shattered; Katsuragi explains: he watched his own class's participants ignore; he, Sanada, has no information he can use; one life down (4).
+[says:katsuragi-kouhei] (p.108) “Rather, how didn’t you know, Sanada? Morishige is a student from your class, right?”
+[says] (p.108) “There were students among the participants who were suspicious, but it seems you didn’t notice.”
+[says] (p.108) “...Did you completely discard half of your view?”
+[scene] (p.109) Sanada nominates Morofuji as an honor student — wrong; Moroshita (printed name) leaves frustrated; 4→2.
+[says] (p.109) “Was I wrong…?”
+[says:katsuragi-kouhei] (p.110) “That’s not like you, Sanada. It’s not like you to step in with uncertain information.”
+[says] (p.110) “Morishita-san’s gestures seemed a bit suspicious.”
+[scene] (p.111–112) In the last round, Katsuragi says he'll take the offensive — a lie; Sanada nominates anyway, loses his last two lives; zero.
+[says] (p.112) “Honor student... That backfired as well... But what about Katsuragi-kun, did you end up being right or wrong?”
+[says:katsuragi-kouhei] (p.112) “I chose to pass this time.”
+[says] (p.112) “Eh...?”
+[says] (p.112) “Is that so? I didn’t even realize that.”
+[rel:katsuragi-kouhei] (p.107–112) He is dismantled by Katsuragi's experience and audacity; Katsuragi was never confused once.
+
 <!-- walk: y2v12 ch5 → p.118 -->
+
+### y2v12 p.117, 131 — Mentioned in passing
+[scene] (p.117) Named in passing — “It wouldn’t pan out like it did with Sanada or Kitō. Katsuragi resolved himself for that.”
+[scene] (p.131) Named in passing — “student like Sanada could never substitute for this role.”
+[mentioned] (p.117, 131) Passing mention only; his scene entries are recorded separately in his own ledger.
+
+<!-- walk: y2v12 coverage → p.228 -->

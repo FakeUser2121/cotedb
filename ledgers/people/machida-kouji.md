@@ -185,3 +185,9 @@ Manabe nodded. (he anchors the room’s conclusion)
 [rel:shimizu-naoki] (p.188) He doesn't buy a word Shimizu says; he plays along anyway.
 
 <!-- walk: y2v12 ch8 → p.204 -->
+
+### y2v12 p.184 — Mentioned in passing (physical presence, no line printed)
+[scene] (p.184) Motodoi from Class A, who was closest to both, hurriedly tried to stand up to stop them, but Machida stopped him before he could leave his seat.
+[note] (p.184) No dialogue from him is printed; his presence in the room is stated in the narration — the only one who moved to intervene during Shimizu's provocation.
+
+<!-- walk: y2v12 coverage → p.228 -->

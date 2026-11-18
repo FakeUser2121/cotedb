@@ -854,6 +854,14 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [note] (p.106) No dialogue or action is printed for this student on these pages; the role is never disclosed.
 
 <!-- walk: y2v12 ch5 → p.118 -->
+
+### y2v12 p.41, 220-221 — Mentioned in passing
+[scene] (p.41) Named in passing — “if Ibuki or Ishizaki were here, then they would've been able to do something about this tense atmosphere” (Ryūen, on who he'd have brought).
+[scene] (p.221) Named in passing — “I found myself spending more and more time idly with Kushida-san and Ibuki-san” (Horikita's SS, on her changing self).
+[scene] (p.222) Named in passing — “I was just thinking that if Ibuki or Ishizaki were here, then they would’ve been able to do something about this tense atmosphere.” (Ryūen's SS).
+[mentioned] (p.41, 221) Passing mention only.
+
+<!-- walk: y2v12 coverage → p.228 -->
 ## y3v1
 
 <!-- walk: y3v1 → start -->

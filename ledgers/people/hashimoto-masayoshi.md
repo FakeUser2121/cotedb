@@ -1113,3 +1113,14 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [rel:maezono] (p.208–217) The girl who told him about AK's plan; she is already gone; he carries the chain of strangers who destroyed him.
 
 <!-- walk: y2v12 epilogue → p.228 -->
+
+### y2v12 p.59–60, 162, 165–166, 173–174, 201–204, 206–207 — Mentioned in passing (dialogue and narration)
+[scene] (p.59) Named in passing — “confidants like Kamuro, Hashimoto, and Kitō” (Sakayanagi's old trust circle).
+[scene] (p.162) Named in passing — “That’s right, Hashimoto. It’s fine for you to date whoever you want...” (Ayanokōji to Maezono's confession).
+[scene] (p.165–166) Named in passing — “passed that information onto Hashimoto? Did that not happen either?”; “all you can do now in this special exam is hope that Hashimoto gets expelled.”
+[scene] (p.173–174) Named in passing — “Hashimoto-kun, who could’ve been used as a spy or a back-stabber” (Sakayanagi on the exam's purges); Hashimoto's group excluded exactly as she planned.
+[scene] (p.201–204) Named in passing — “I dunno. All I know for sure is that Hashimoto has that message.”; “the odds of Sakayanagi employing Hashimoto’s group were highly unlikely.”
+[scene] (p.206–207) Named in passing — “The content of the message is only known to Hashimoto.”
+[mentioned] (p.59–60, 162, 165–166, 173–174, 201–204, 206–207) Passing mention only; his scene entries are recorded separately in his own ledger.
+
+<!-- walk: y2v12 coverage → p.228 -->
