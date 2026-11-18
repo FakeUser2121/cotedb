@@ -414,3 +414,10 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [note] (p.11) Passing mention (locator pages: p.11, p.20-21, p.23, p.88, p.90-91, p.111-112; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
+### y2v11 p.88–92 — Ch.3: The name that tore the class
+[scene] (p.88) Hashimoto mutters whether her leaking-role damage from losing Kamuro explains the three losses.
+[note] (p.88) Kamuro is named as Hashimoto's imagined source of Sakayanagi's weakness; no on-page presence since her departure.
+[note] (p.90) Sanada raises the rumor Kiyotaka repeats: Hashimoto had a hand in Kamuro's expulsion.
+[note] (p.92) Kitō is remembered as Kamuro's closest friend in Class A.
+
+<!-- walk: y2v11 ch3 → p.99 -->

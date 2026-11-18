@@ -593,14 +593,6 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 
 <!-- walk: y3v3 Epilogue → p.256 -->
 
-### y3v3 p.14–45 — Ch.1 — depth read: Hashimoto's read on the exam
-[says] (p.15) "Ah~, I'm sleepy. I should've gone to bed a little earlier yesterday."
-[says] (p.15) "But isn't this unbearable for students preparing for entrance exams? Being pulled away from their desks at this time of year."
-[says] (p.23) "An expulsion from the class whose three VIP's get taken out first, huh? Well, I figured they'd pull something like that."
-[says] (p.29) "For now, we keep our distance from the other classes and wait things out, yeah? Let's just have them crush each other."
-[trait] (p.14–32) Sleepy and complaining about the timing, but reads the exam's expulsion mechanic quickly; favors a passive strategy of letting other classes fight.
-[rel:ayanokouji-kiyotaka] (p.14–32) Chats through the rules and strategy with him.
-
 ### y3v3 p.46–85 — Ch.2 — depth read: Hashimoto's reactions to the ambush
 [says] (p.47) "Let's hear it."
 [says] (p.50) "If Ryuuen and his crew are heading for B10, that means they'll come out by the sea."
@@ -1004,6 +996,37 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [rel:ryuuen-kakeru] (p.68) He mentions Ryūen cannot ignore this move.
 
 <!-- walk: y2v11 ch2 → p.84 -->
+
+### y2v11 p.85–89 — Ch.3: The evening session in the shared room
+[scene] (p.85) Night of the first day; eight in the room; Hashimoto freed up the first-years; Kiyotaka watches from the side.
+[says] (p.85) “Don't worry about it. From what I saw today, about half of the students haven't participated. Honestly, the gaming aspect is really just a bonus. For those who haven’t participated, their role is just to experience the games.”
+[says:oda-takumi] (p.86) “Nagumo-senpai's group is a first-place contender, aren’t they?”
+[note] (p.86) Ryūen's group lost twice; Sakayanagi's group lost three; he questions why Sakayanagi would leave command to Iki despite the stakes.
+[says] (p.87) “If Sakayanagi wanted to win, it would be normal for her to take command, regardless of whether it's a third-year or whatever. She wouldn't back down even if her opponents were Nagumo-senpai or Kiryūin-senpai. Especially Iki-senpai, right? No matter how you think about it, she would quickly seize control... No, even before that, she's the type who would want to leave everything to competent comrades.”
+[says] (p.88) “Could it be that the damage she took from losing Kamuro was significant?”
+[says] (p.88) “If she's really getting weaker, it's a good thing for me. If we go into the end-of-year exams like this, I might have a chance to win.”
+[says] (p.88) “Please spare me this time. I'm Class A’s most wanted man right now. Especially Kitō—he seems to be really angry. It's okay for now because Sakayanagi hasn't said anything, but who knows what will happen when my betrayal becomes clear.”
+[says] (p.88) “If I can't even bluff, I wouldn't have the right to betray the class.”
+[says] (p.89) “I understand. I'll just consider it as a bonus, okay?”
+[note] (p.88–89) He wants Kiyotaka to scout Sakayanagi's state; he suspects her losses from Kamuro's departure; he wants the information for the end-of-year exams.
+[rel:ayanokouji-kiyotaka] (p.85–89) He draws Kiyotaka close with whispered pleas; Kiyotaka agrees only as a formality.
+[rel:sakayanagi-arisu] (p.86–89) He was by her side all along; her three losses trouble him deeply.
+
+### y2v11 p.96–99 — Ch.3: Between Kōenji and Tatebayashi
+[scene] (p.96) Night; he de-escalates the Tatebayashi–Kōenji stand-off in the third-year Class D room; later sorts the sleeping order.
+[says] (p.96) “Kōenji really is a handful. Should we just watch for now?”
+[note] (p.96) The first-years disgusted; Tatebayashi cannot get Kōenji to budge; Hashimoto slips in soothing Kōenji-proofing words ("Okay? You still must obey the leader's instructions, right?").
+[says] (p.98) “Come on, Senpai, calm down.”
+[says] (p.98) “Let's go back.”
+[says] (p.98) “He calmed down. It seems he was desperate because he really wanted to win.”
+[says] (p.98) “Nagumo-senpai and the other senpais took most of the good students, so they didn't have much leeway. So they took Kōenji from the leftovers and aimed for a one-shot reversal, and that's what happened.”
+[says] (p.99) “...You seem to be admired in a short time.”
+[note] (p.98–99) Class 3-D is cash-poor (tribute to Nagumo, low class points); pocket money matters; Kiyotaka is now aspirational to Toyohashi and Shintoku.
+[rel:kouenji-rokusuke] (p.96–98) Kōenji refuses even the futon; Tatebayashi loses it; Hashimoto shields both.
+[rel:tatebayashi] (p.96–98) He berates Kōenji about responsibility to the group; Hashimoto stops him before he lands a blow.
+[rel:ayanokouji-kiyotaka] (p.85–99) He leans on Kiyotaka as a scout; Kiyotaka refuses open support but lets him talk.
+
+<!-- walk: y2v11 ch3 → p.99 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

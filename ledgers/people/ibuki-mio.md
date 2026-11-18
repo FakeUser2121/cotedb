@@ -1120,3 +1120,14 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [note] (p.11) Passing mention (locator pages: p.93-94, p.100-106, p.115, p.117, p.145-151, p.161; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
+### y2v11 p.93–95 — Ch.3: The sparring partner on cue
+[scene] (p.93) She reveals she was hiding nearby; she and Horikita are both willing to fight Amasawa again.
+[says] (p.93) “Tch, you noticed.”
+[says] (p.93) “Of course. I can't stand losing to a little girl who's only been here a year.”
+[says] (p.94) “I'm ready to do it right now, you know?”
+[note] (p.93–94) Her debt is similar to Horikita's; she immediately agrees to take part; the camp's absence of watchful eyes suits her. Note: smaller than Amasawa in physique despite the shared year; ready to land a kick.
+[note] (p.94) Kiyotaka cuts off Horikita's private-points offer and orders quiet; she keeps quiet.
+[rel:horikita-suzune] (p.93–95) She joins the Amasawa-rematch plan despite a history of sparring fatigue.
+[rel:ayanokouji-kiyotaka] (p.93–95) He spots her eavesdropping instantly.
+
+<!-- walk: y2v11 ch3 → p.99 -->

@@ -978,6 +978,50 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:kamuro-masumi] (p.41) She intends to visit the school Masumi transferred to, to apologize.
 
 <!-- walk: y2v12.5 Ch.2 → p.42 -->
+### y2v12.5 p.93–101 — Ch.6: Her farewell at the main gate
+[scene] (p.93) On March 31st, Sakayanagi arrives at the school's main gate with a cane and no luggage; a taxi is booked for 11 AM. Her father, Chairman Sakayanagi, Yamamura and Morishita are there to see her off.
+[says] (p.94) “You mustn’t do this, Father. What are you trying to discuss with Ayanokōji-kun without my permission?”
+[says] (p.94) “Yes. It seems we’ll have a pleasant conversation as a family.”
+[says] (p.95) “There’s plenty of time before the taxi arrives. Could I have a moment to talk with Ayanokōji-kun alone?”
+[says] (p.95) “Previously, it would’ve been Masumi-san, Hashimoto-kun, and then Kitō-kun.”
+[note] (p.93) Chairman Sakayanagi arrives before her, greets Ayanokōji first; he and Ayanokōji talk until her taxi time approaches.
+[scene] (p.96) She asks him frankly how he feels about intervening in the match; she wants honesty.
+[says] (p.96) “Ryūen-kun, Horikita-san, and Ichinose-san too. They all still have clear room for growth. It’s unpredictable what changes they will undergo.”
+[says] (p.96) “Even knowing the answer, it still hurts to hear it said.”
+[says] (p.96) “It’s okay, I’ve come to understand that’s how you are. Besides, my withdrawal was my own decision. I can only blame my own excellence for understanding the message.”
+[says] (p.96) “Although you’ve said various mean things, I don’t intend to blame you, Ayanokōji-kun. However, I’d like to clarify the matter of our debts.”
+[says] (p.96) “Then, may I ask for two favors?”
+[says] (p.96) “The first one, well, I would like a passionate kiss right here.”
+[says] (p.97) “Fufu. Just kidding.”
+[says] (p.97) “My first request is this: I’m asking with the confidence that I’m not being conceited, but my role isn’t over yet, is it?”
+[says] (p.97) “You’re someone who thinks ten or twenty steps ahead. Then, there must’ve been benefits to choosing my voluntary withdrawal other than just keeping Ryūen-kun, right?”
+[says] (p.97) “That’s fine. Just hearing that you’ve considered it as groundwork is enough for me.”
+[says] (p.97) “Even so, I don’t wish to lose contact with you. Although our interactions at this school will be severed, I haven’t given up on battling you again in the future, Ayanokōji-kun. I intend to impose on myself trials over the next year to become a more suitable opponent. So, promise me that you will meet me again after you leave this school.”
+[says] (p.97) “Yes.”
+[says] (p.97) “I will trust you.”
+[says] (p.97) “The environment surrounding you—the White Room—I’m of course aware of it. But remember, the way you live your life is for you to decide. Don’t forget that.”
+[says] (p.98) “Well... it would be tactless to include the class’s future after I leave, so I really struggled with this.”
+[says] (p.98) “It’s about Hashimoto-kun’s future treatment. I haven’t told the class in detail about him.”
+[says] (p.98) “However, there must be someone who knows what he did and what he was trying to do—and they’ll have to make a decision. May I entrust you with the judgment? There is no deadline.”
+[says] (p.98) “Yes. I have both a forgiving and unforgiving heart within me. Ideally, I would’ve liked to walk together and see its conclusion, but that’s no longer possible.”
+[says] (p.98) “Thank you. Then, with that in mind, I will go meet Masumi-san.”
+[says] (p.98) “Well then, shall we call those people back soon?”
+[says] (p.98) “Oh, then she and you—?”
+[says] (p.98) “Is that so? If she truly has a strong will, she will surely stand up again.”
+[says] (p.98) “But is that so? Then that would mean you’re now back to being free again, Ayanokōji-kun.”
+[says] (p.98) “Then I didn’t need to hesitate when I asked for the kiss.”
+[says] (p.98) “Wouldn’t it be alright to give this as a bonus?”
+[says] (p.99) “Feeling reluctant to part, wanting to speak more—I still have so many similar emotions, but having these still remain in me is just fine. I look forward to the day we can meet again.”
+[scene] (p.99) He draws her closer; she is small, giving off a fragile feeling of helplessness, yet stronger than anyone he has met.
+[scene] (p.102) She exchanges renewed promises to reunite with her classmates; Yamamura cries.
+[rel:ayanokouji-kiyotaka] (p.93–101) She extracts two requests: a reunion promise after graduation, and Hashimoto's fate entrusted to him with no deadline.
+[rel:yamamura-miki] (p.93–102) Her Class A friend sees her off, weeping at the gate and later at the renewed promise.
+[rel:morishita-ai] (p.93–99) Morishita sees her off clinging to Yamamura.
+[rel:hashimoto-masayoshi] (p.98) She entrusts his judgment to Ayanokōji.
+[rel:kamuro-masumi] (p.98) She will go meet Masumi-san next.
+
+<!-- walk: y2v12.5 Ch.6 → p.102 -->
+
 ## y3v3
 
 <!-- walk: y3v3 → start -->
@@ -1248,3 +1292,11 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.41) The printout's stacked Group Nagumo effectively shadows hers and Ryūen's; she is not at the camp.
 
 <!-- walk: y2v11 ch2 → p.84 -->
+
+### y2v11 p.86–92 — Ch.3: The three-loss group
+[scene] (p.86) The first-day results are announced; Sakayanagi's group lost three times; Hashimoto scrapes together how she could have lost.
+[note] (p.86–87) Iki is named as the 3-D leader of her group; Hashimoto suspects a Kamuro-shaped hole behind the losses.
+[note] (p.90–91) Sanada reports she did not participate in the exchange meeting at all; she is not at school on these pages.
+[rel:sanada-kousei] (p.88–92) Sanada tries to probe her team's inner workings; he cannot tell Kiyotaka anything solid; she avoids the camp matches.
+
+<!-- walk: y2v11 ch3 → p.99 -->

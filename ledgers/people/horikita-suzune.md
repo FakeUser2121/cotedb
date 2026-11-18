@@ -4557,3 +4557,33 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (p.56) He claims Kiyotaka used her to keep an eye on him; whether that is true is not established on these pages.
 
 <!-- walk: y2v11 ch2 → p.84 -->
+
+### y2v11 p.91–95 — Ch.3: The debt
+[scene] (p.91) She pulls Ayanokōji to the edge of the lobby; her favor is personal; she owes Amasawa a debt she cannot repay in school life.
+[says] (p.91) “I'm glad I ran into you. I have a little favor to ask... Is that okay?”
+[says] (p.91) “It's about Amasawa-san... It's not something I can talk about out loud.”
+[says] (p.92) “Did you know how good her physical abilities are? It seems that she’s also quite skilled in martial arts.”
+[says] (p.92) “Well, various things.”
+[says] (p.92) “I've been doing my best every day. But I don't know if I'm at a level that can compete with her. So, I want you to evaluate my current strength.”
+[says] (p.93) “It would be under normal circumstances, but her strength isn’t normal.”
+[says] (p.93) “You just need to judge my strength in your own way. Of course, I would be happy if you could give me some advice.”
+[says] (p.93) “Not yet.”
+[says] (p.93) “If she refuses my proposal, I won't force her to do it.”
+[says] (p.93) “Would you... accept my request?”
+[says] (p.93) “Unfortunately, I'm tired of sparring with Ibuki-san. There's little to gain from fighting the same opponent over and over.”
+[says] (p.93) “You're strong, so you should be willing to help a little.”
+[says] (p.94) “It would be too conspicuous to have a fighting rematch at school.”
+[says] (p.94) “I wonder... Honestly, there’s nothing in it for you...”
+[says] (p.94) “But if you were to accept, I'm willing to offer private points as compensation—”
+[says] (p.94) “Really? I wasn't expecting that at all...”
+[says] (p.94) “Thank you. I couldn't ask for more cooperation. So, what are the conditions?”
+[says] (p.94) “Of course, I understand that. What are the other conditions?”
+[says] (p.95) “If I get permission from Amasawa-san, I'll send a message.”
+[says] (p.95) “I don't quite understand, but I just need to keep that in mind, right?”
+[says] (p.95) “I understand. It's not a big deal.”
+[note] (p.92–93) The debt's stage was likely the island exam (martial arts + debt); Kiyotaka silently knows Amasawa's strength.
+[note] (p.94–95) She will challenge Amasawa at dawn on the last day; she agrees to investigate something for him; she is told not to tell Amasawa.
+[rel:ayanokouji-kiyotaka] (p.91–95) She appeals to him for an evaluation; he sets a condition: Talk to Amasawa first, at dawn, no third party.
+[rel:ibuki-mio] (p.93–95) Sparring fatigue; she brings up Ibuki's help; the prearranged plan is exposed.
+
+<!-- walk: y2v11 ch3 → p.99 -->

@@ -2305,3 +2305,9 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [note] (p.41) He is not at the camp; Hashimoto later reflects the match acts as a check on him.
 
 <!-- walk: y2v11 ch2 → p.84 -->
+
+### y2v11 p.86 — Ch.3: The two-loss group
+[scene] (p.86) Hashimoto reports the first-day results on the memo; Ryūen's group lost twice.
+[note] (p.86) No further detail on these pages; named only as the leader of the group that lost twice on Day 1.
+
+<!-- walk: y2v11 ch3 → p.99 -->

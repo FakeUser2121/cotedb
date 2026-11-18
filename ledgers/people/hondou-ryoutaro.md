@@ -189,6 +189,12 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 [rel:karuizawa-kei] (p.37) Kei takes the printouts from him and passes them further back.
 
 <!-- walk: y2v11 ch2 → p.84 -->
+
+### y2v11 p.90 — Ch.3: Named with Sakayanagi's group
+[scene] (p.90) Hondō is named as assigned to the same group as Sakayanagi.
+[note] (p.90) Kiyotaka considers extracting info from him, but he is not the type to keep his mouth shut or act; the scouting plan goes nowhere.
+
+<!-- walk: y2v11 ch3 → p.99 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->
