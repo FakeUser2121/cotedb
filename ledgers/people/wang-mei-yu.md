@@ -173,6 +173,17 @@ char_id: wang-mei-yu · status: minor
 [rel:kushida-kikyou] (p.18) Kushida and Matsushita raised their hands; Mii-chan followed conservatively, making three.
 
 <!-- walk: y2v12.5 Ch.1 → p.22 -->
+### y2v12.5 p.54–57 — Ch.4: The trio at Keyaki Mall
+[scene] (p.54) Mii-chan greets Ayanokōji despite his role in Maezono's expulsion; later she takes a phone call from Shinohara-san and moves away to talk.
+[says] (p.54) “Ah... G-Good morning, Ayanokōji-kun.”
+[says] (p.55) “It feels like the school atmosphere has been bad lately. I hope nothing strange happens.”
+[says] (p.56) “Excuse me. It’s from Shinohara-san.”
+[rel:shinohara-satsuki] (p.56) Shinohara calls her during the conversation.
+[rel:matsushita-chiaki] (p.54–57) The trio walks together to Keyaki Mall.
+[rel:onodera] (p.54–57) The trio walks together to Keyaki Mall.
+
+<!-- walk: y2v12.5 Ch.4 → p.57 -->
+
 ## y3v2
 
 <!-- walk: y3v2 → start -->
@@ -332,7 +343,8 @@ char_id: wang-mei-yu · status: minor
 [note] (p.11) Passing mention (locator pages: p.73; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
+### y2v11 p.73 — Ch.2: Mii-chan
+[scene] (p.73) Kiyotaka reflects on his policy toward Kōenji, solidified after his last conversation with Mii-chan.
+[note] (p.73) \“Mii-chan\” is Wang Mei-Yu's alias; Kiyotaka's last Kōenji interaction in his head traces to her; no further detail on these pages.
 
-
-
-
+<!-- walk: y2v11 ch2 → p.84 -->

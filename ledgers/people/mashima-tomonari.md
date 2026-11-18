@@ -264,14 +264,24 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 
 <!-- walk: y2v12.5 → start -->
 
-### y2v12.5 pp.65-76, 194-203 — Ch.4, Ch.9
+### y2v12.5 p.65–76 — Ch.4: Gathered at Keyaki Mall and Mashima's room
+[scene] (p.65) Mashima and Sakagami arrive at the Keyaki Mall meeting; Mashima is the first to voice doubt about being summoned under false pretenses.
+[says] (p.66) “What’s this all about, Ayanokōji? Wasn’t I the only one you called?”
+[says] (p.66) “I don’t appreciate you calling teachers under false pretenses. It’s a problem.”
+[says] (p.66) “No, that won’t do. There must be an appropriate distance between teachers and students. Above all, there must be no lies between us to maintain trust.”
+[says] (p.66) “I’ll overlook it this time, but be careful next time.”
+[says] (p.66) “I thought it would be a waste of the teacher’s time to continue lecturing here.”
+[says] (p.66) “Don’t worry about it. Listen, Ayanokōji, I have something to discuss with you later. Got it?”
+[says] (p.69) “Eavesdropping on the conversation? I can’t say I agree with your approach.”
+[says] (p.70) “Sorry, but we were listening to your conversation with Ayanokōji. Any poor excuse will only backfire, Hoshinomiya.”
+[says] (p.75) “Chabashira-sensei, why don’t we give Hoshinomiya-sensei a little more time?”
+[says] (p.75) “Yes. Whether Hoshinomiya-sensei makes her decision now or you change your way of thinking, there’s no need to draw a conclusion here. Of course, it would be best if we could resolve it, but given the current situation, it seems difficult. However, fortunately, it’s spring break now. There’s enough time to organize thoughts and calm down. A third option might emerge during this time.”
+[rel:ayanokouji-kiyotaka] (p.66–76) Ayanokōji was to deliver information on Akiyama-san (Keyaki Mall gym staff); Mashima turns the lecture on its head mid-way when Ayanokōji volunteers it.
+[rel:chabashira-sae] (p.65–76) Fellow former classmate; he agrees not to escalate.
+[rel:sakagami] (p.65–76) Sakagami plays the impartial bad cop; Mashima tolerates it.
+[rel:hoshinomiya-chie] (p.70–76) He proposes delaying the issue over spring break.
 
-[scene] (p.65-76) Mentioned/appears in Ch.4, Ch.9.
-[rel:ayanokouji-kiyotaka] (pp.65-76, 194-203) Appears in this volume.
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
+<!-- walk: y2v12.5 Ch.4 → p.76 -->
 
 ## y3v1
 

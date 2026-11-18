@@ -1184,34 +1184,99 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:ayanokouji-kiyotaka] (p.11–22) She observes objectively as he explains the expulsion to the class.
 
 <!-- walk: y2v12.5 Ch.1 → p.22 -->
+### y2v12.5 p.63–69 — Ch.4: The Keyaki Mall gathering
+[scene] (p.63) Ayanokōji asks to meet her at Keyaki Mall at 11:00; she arrives early and spots him at 10:50, uneasy about meeting a student there.
+[says] (p.63) “You’re quite early.”
+[says] (p.63) “You haven’t really kept me waiting. There’s still some time before our appointment; no need to worry.”
+[says] (p.63) “I never thought I’d be meeting a student at Keyaki Mall.”
+[says] (p.63) “Of course not.”
+[says] (p.63) “Ayanokōji. You speak too lightly.”
+[says] (p.64) “An apology is not enough, isn’t it?”
+[says] (p.64) “Horikita... and Hirata too? Is the situation much worse than I imagined?”
+[says] (p.64) “Is that so? I thought you were being put on the spot because of that incident...”
+[says] (p.64) “...Then that’s good.”
+[says] (p.64) “How students fight within the rules is up to them. I’m pleased that the class won and how it’s likely to move up to Class A.”
+[says] (p.65) “...It’s certainly not pleasant, but as a teacher, getting too involved in student or class issues often leads to trouble. I’ve learned the hard way from trying to use you before. I’d rather not repeat that.”
+[says] (p.65) “Well, I’m not sure if I should call it a blessing in disguise, but thanks to that, I was able to wake myself up too... It’s because you’re a student who doesn’t show any mercy, even when going up against teachers, that I was able to do so.”
+[says] (p.65) “I’m not good at considering others’ intentions. It looks like one person has arrived.”
+[says] (p.65) “Hmm…? Sakagami-sensei...?”
+[says] (p.66) “Mashima-sensei, I haven’t been informed of the details by Ayanokōji either, but perhaps it isn’t too late now to hear what he has to say—”
+[says] (p.66) “...Chie, no, Hoshinomiya-sensei?”
+[says] (p.67) “So it was just an excuse to talk with you, Ayanokōji-kun?”
+[says] (p.68) “Don’t tell me you intend to doubt a student?”
+[says] (p.69) “...Well... yes.”
+[rel:ayanokouji-kiyotaka] (p.63–76) She agrees to confront Hoshinomiya; he tells her he will change Hoshinomiya's mind by the end of spring break.
+[rel:sakagami] (p.65–76) Sakagami insists on impartial evidence before acting.
+[rel:mashima-tomonari] (p.65–76) Mashima scolds Ayanokōji, then stays for the confrontation.
+[rel:hoshinomiya-chie] (p.70–76) The unanimous-vote special exam grudge between them resurfaces.
+
+<!-- walk: y2v12.5 Ch.4 → p.69 -->
+
+### y2v12.5 p.70–76 — Ch.4: Mashima's room; Hoshinomiya's grudge
+[scene] (p.70) The three teachers confront Hoshinomiya-sensei; the discussion moves to Mashima-sensei's room in the teachers' dormitory.
+[says] (p.70) “You know what this is about, Chie.”
+[says] (p.70) “Using students... No, teachers deviating from the rules to win an exam is not something to overlook.”
+[says] (p.71) “It’s not just about using Ayanokōji for misconduct. We can’t just watch as you continue to engage in it, Chie.”
+[says] (p.72) “I’m not joking. I’m seriously worried.”
+[says] (p.72) “...It can’t be helped that you hate me. But now we aren’t students—we’re teachers. Is it wrong to aim for Class A for the sake of the students?”
+[says] (p.73) “There’s no way I can do that. Teachers holding back their students’ progress—”
+[says] (p.73) “To think to that extent, you… No, I suppose it’s natural… I can’t make any excuses.”
+[says] (p.75) “...Give her time...?”
+[says] (p.76) “I’m sorry I couldn’t be of more help, even though you confided in me.”
+[says] (p.76) “I couldn’t solve it immediately, but I deeply appreciate that you had the courage to tell me.”
+[says] (p.76) “That is… Ah, yes, but—”
+[says] (p.76) “You will change...? What are you talking about—”
+[says] (p.76) “You are—! Who are you really...”
+[rel:hoshinomiya-chie] (p.70–76) Her grudge: Hoshinomiya vows she will never let Chabashira graduate her class from Class A.
+[rel:mashima-tomonari] (p.70–76) Mashima proposes giving Hoshinomiya time to think over spring break.
+[rel:sakagami] (p.70–76) Sakagami threatens escalation if she acts.
+
+<!-- walk: y2v12.5 Ch.4 → p.76 -->
+
 ## y3v1
 
 <!-- walk: y3v1 → start -->
 
-<!-- walk: y3v1 Epilogue → p.287 -->
-
-<!-- walk: y3v1 Epilogue → p.287 -->
-
-### y3v1 p.13–28 — Ch.1 — depth read: the stunned homeroom teacher and speculation
-[scene] (p.16) Arrives at the classroom panicked and pale, her gaze unfocused and hollow; does not respond to Hirata or Kikuchi at first.
+### y3v1 p.16–28 — Chabashira announces the transfer; ends the homeroom with a warning
+[scene] (p.16) Arrives pale with unfocused, lifeless eyes and does not respond to Hirata or Kikuchi; after a long silence she murmurs that she is fine.
 [says] (p.17) "I'm fine."
 [says] (p.18) "There's something I need to tell all of you. This morning—no, just a little while ago—a certain student used their Private Points to exercise a certain right… or so it seems."
-[says] (p.18) "…Class… transfer."
 [says] (p.18) "The student who's absent from the classroom right now… Ayanokouji. He's the one who exercised that right."
+[says] (p.18) "…Class… transfer."
+[says] (p.19) "I understand that what I'm saying is hard to grasp. However… it's the truth."
+[says] (p.19) "Take out your phone and display the class OAA."
 [says] (p.20) "Ayanokouji has been transferred from this class to Class C as of today."
-[trait] (p.16–21) Uncharacteristically shaken; keeps glancing at her tablet and struggles to explain clearly.
-[rel:ayanokouji-kiyotaka] (p.17–21) Delivers the news of his transfer; her demeanor suggests she knew something was wrong before class.
+[note] (p.26) Asked whether an illegal transfer could be canceled, the answer — that an illegal transfer could be canceled but the fraud-committer would face severe punishment and "the arrows would also point at Ayanokouji" — is not speaker-tagged in the translation; on subject matter it reads as Chabashira's, but the attribution is not printed.
+[says] (p.28) "…Y-Yes, that's right."
+[says] (p.28) "Let's end the homeroom period here. However, I ask that you don't take action against Ayanokouji for the sake of blaming or criticizing him. Currently, he hasn't done anything against the rules."
+[says] (p.28) "That's right. Avoid unnecessary contact with Ayanokouji, and make sure not to get into trouble with other classes. If anything happens, make sure to go through me or the school, okay?"
+[trait] (p.16–28) Uncharacteristically shattered — keeps glancing at her tablet and cannot give a straight explanation; students later realize how much they did not know about his standing in the class.
+[rel:ayanokouji-kiyotaka] (p.16–28) Delivers the news of his transfer; instructs the class not to blame or contact him, for rules and safety reasons.
+[rel:hirata-yousuke] (p.16–28) First to ask after her; he then echoes her warning about avoiding unnecessary contact.
+[rel:kushida-kikyou] (p.28) She signals to end the homeroom; Chabashira agrees aloud.
+[note] (p.22–23) The print run leaves these pages without prose (blank).
 
-### y3v1 p.75–97 — Ch.4 — depth read: Chabashira's suspicion
-[scene] (p.87) Pulls Ayanokōji aside near the gym, having followed him from the dorm to ask about the transfer.
+### y3v1 p.87–89 — Chabashira tails Ayanokōji; asks whether the transfer was on her account
+[scene] (p.87) Appears at the mall and pulls Ayanokōji aside; she admits her colleagues had noticed him and that Hoshinomiya's issue is resolved.
+[says] (p.87) "Come with me for a moment."
 [says] (p.88) "…I wanted to talk to you. As your homeroom teacher… no, as your former homeroom teacher, I thought it might be inappropriate to carelessly make contact, but I couldn't help wanting to check something."
+[says] (p.88) "…You noticed?"
+[says] (p.88) "That doesn't matter. What I want to hear about is the class transfer… the transfer matter. What were you thinking when you decided to transfer without telling anyone…?"
 [says] (p.88) "Isn't there something inconvenient… something that forced you to transfer?"
 [says] (p.88) "Is it really because of me? Because I was troubled with Chie's problem… Did you sacrifice yourself to solve it?"
 [says] (p.89) "What's the reason then? Why do something so meaningless…?"
-[trait] (p.87–89) Still cares for him as his former teacher; visibly worried and unable to accept his vague answers, but respects that he need not explain.
-[rel:ayanokouji-kiyotaka] (p.87–89) Followed him to ask why he transferred; he reassures her it was not on her account and that Hoshinomiya's issue is resolved.
-[rel:hoshinomiya-chie] (p.88) The prior trouble with her is what Chabashira suspects prompted the transfer.
-[note] (p.87) Ayanokōji notes her tailing skills are "on par with Morishita's" — and not good.
+[says] (p.89) "It doesn't seem like you're simply being considerate…"
+[says] (p.89) "Yes…"
+[says] (p.89) "Understood. I see… sorry for taking your time."
+[trait] (p.87–89) Quietly relieved yet still chasing answers — stays calm in the open but visibly cannot accept losing him without knowing why; Ayanokōji notes she might still share the talk with others.
+[rel:ayanokouji-kiyotaka] (p.87–89) Tails him from the dorm; he tells her the transfer was not on her account and that it was decided even before Hoshinomiya's issue surfaced.
+[rel:hoshinomiya-chie] (p.88) Her trouble is what Chabashira feared had cost them Ayanokōji.
+[note] (p.87) Ayanokōji rates her tailing skills as on par with Morishita's — "and to put it nicely, they weren't good."
+
+<!-- walk: y3v1 Epilogue → p.287 -->
+
+<!-- walk: y3v1 Epilogue → p.287 -->
+
 ## y3v2
 
 <!-- walk: y3v2 → start -->

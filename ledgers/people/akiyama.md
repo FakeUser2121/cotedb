@@ -58,7 +58,7 @@ char_id: akiyama · class: unknown · status: unknown
 
 ### y2v12.5 p.11-216 — akiyama mentioned in passing
 [scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.66, p.76; not line-by-line verified; substring false positives possible). Not a scene presence.
+[note] (p.66, 76) Passing mentions only: Mashima-sensei asks who Akiyama-san is (p.66); Ayanokōji has gathered information on Akiyama-san (the Keyaki Mall gym staff member Mashima-sensei is interested in) for him (p.66, 76). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
 ## y3v2

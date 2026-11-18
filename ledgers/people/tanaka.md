@@ -15,7 +15,8 @@ char_id: tanaka · class: unknown · status: unknown
 [note] (p.11) Passing mention (locator pages: p.37; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
+### y2v11 p.37 — Ch.2: The Group 7 senpai
+[scene] (p.37) Kei finds her name at the middle of the first page; she was placed in group seven.
+[note] (p.37) She is paired with a Tanaka-senpai; the translation does not identify which Tanaka; no Tanaka is rostered beyond a single y2v11 entry; attribution unresolved.
 
-
-
-
+<!-- walk: y2v11 ch2 → p.84 -->

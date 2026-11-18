@@ -114,26 +114,35 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 [rel:kushida-kikyou] (p.18) Both raise their hands together supporting Ayanokōji.
 
 <!-- walk: y2v12.5 Ch.1 → p.22 -->
+### y2v12.5 p.54–57 — Ch.4: The trio at Keyaki Mall
+[scene] (p.54) Matsushita explains the trio's chance meeting; the three walk to Keyaki Mall together talking about Sakayanagi's withdrawal.
+[says] (p.54) “Mii-chan was about to go to Keyaki Mall, and we were meeting here. So, we thought we might as well join her.”
+[says] (p.54) “Hey Ayanokōji-kun, did you know that Sakayanagi-san is withdrawing? We were just talking about that.”
+[says] (p.55) “Besides, not only did the strongest enemy, Class A, lose in the special exam, but there’s also the bonus of Sakayanagi-san’s withdrawal. The wind is definitely blowing in our favor.”
+[says] (p.56) “I’d rather they keep falling. In terms of sheer ability, Sakayanagi-san’s class is scary. Just because the leader got expelled doesn’t mean their academic abilities will drop.”
+[says] (p.56) “I’ve always been the type to look at things objectively. I have to take advantage of any benefits without hesitating. It isn’t an easy task to get to Class A.”
+[says] (p.56) “It seems your abilities are finally being recognized, Ayanokōji-kun.”
+[says] (p.56) “I just had a feeling. Until now, he didn’t want to stand out and wasn’t showing his true abilities. However, this time, he took on the general’s role and delivered results. It feels like he’s going full throttle from here.”
+[rel:ayanokouji-kiyotaka] (p.54–57) She reads his special-exam surge correctly and praises it.
+[rel:wang-mei-yu] (p.54–57) The trio walks together.
+[rel:onodera] (p.54–57) The trio walks together.
+
+<!-- walk: y2v12.5 Ch.4 → p.57 -->
+
 ## y3v1
 
 <!-- walk: y3v1 → start -->
 
-<!-- walk: y3v1 Epilogue → p.287 -->
+### y3v1 p.20–21 — Matsushita, flustered at the announcement
+[scene] (p.21) Raises her voice in a way unlike her; some students cannot hide their surprise at the unusual behavior.
+[says] (p.21) "T-This is a lie, right, Sensei? That Ayanokouji-kun has transferred to Class C…"
+[rel:chabashira-sae] (p.21) Demands confirmation; Chabashira holds that it is not a mistake.
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
-### y3v1 p.29–39 — Ch.2 — depth read: exposed as a schemer
-[scene] (p.31) Catches up with Horikita in the hallway and insists on coming to see Ayanokōji.
-[says] (p.31) "I know. You're going to see Ayanokouji-kun, right? Let me come with you."
-[says] (p.31) "…I want to know the reason behind Ayanokouji-kun's transfer. Just to confirm once more, this isn't part of your strategy, Horikita-san, right?"
-[says] (p.36) "I'm just accompanying her. I'm only here to convey to my class what I've seen and heard as a normal classmate rather than a leader."
-[says] (p.36) "Oh no, Ayanokouji-kun, you really seem to be overestimating me."
-[says] (p.38) "You're okay with not answering anything? Ayanokouji-kun, you'll be treated as a traitor, you know?"
-[trait] (p.31–39) Composed and sharp; Ayanokōji calls her one of the sharpest minds in Class A who works behind the scenes, and her calm is visibly shaken when he reveals their cooperation.
-[rel:ayanokouji-kiyotaka] (p.31–39) Came to verify his true intentions; has secretly cooperated with him, including over Maezono's expulsion.
-[rel:horikita-suzune] (p.31–39) Accompanies her but is more clear-sighted than Ayanokōji gives her credit for.
+<!-- walk: y3v1 Epilogue → p.287 -->
 
-### y3v1 p.30–37 — Matsushita accompanies Horikita; Ayanokōji exposes their partnership
+### y3v1 p.30–39 — Matsushita accompanies Horikita; Ayanokōji exposes their partnership
 [says] (p.31) "I know. You're going to see Ayanokouji-kun, right? Let me come with you."
 [says] (p.31) "…I want to know the reason behind Ayanokouji-kun's transfer. Just to confirm once more, this isn't part of your strategy, Horikita-san, right?"
 [says] (p.36) "I'm just accompanying her. I'm only here to convey to my class what I've seen and heard as a normal classmate rather than a leader."
@@ -142,6 +151,8 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 [rel:ayanokouji-kiyotaka] (p.31–37) secretly cooperated with him; came to verify his reasons for transferring.
 [rel:horikita-suzune] (p.31–36) Accompanies her, claiming to be a neutral classmate reporter.
 [note] (p.37) Ayanokōji calls her "one of the sharpest minds in Horikita's class," usually working behind the scenes.
+[says] (p.38) "You're okay with not answering anything? Ayanokouji-kun, you'll be treated as a traitor, you know?"
+[note] (p.39) Her persistence produces the only answer he gives — that there is nothing more to say; Horikita gives up and leaves.
 ## y3v2
 
 <!-- walk: y3v2 → start -->

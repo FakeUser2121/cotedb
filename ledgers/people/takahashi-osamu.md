@@ -71,9 +71,12 @@ char_id: takahashi-osamu · class: unknown · status: unknown
 [note] (p.11) Passing mention (locator pages: p.40, p.70, p.84, p.164; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
+### y2v11 p.70–84 — Ch.2: Nagumo's eyes
+[scene] (p.70) He spectates at the oshibana match among a few onlookers; Nagumo had him follow the games to confirm results.
+[note] (p.84) He keeps following through Day 1's five straight Group 20 wins: oshibana, pottery, table tennis ×2, jewelry making.
+[note] (p.40) Named as a first-year Class A member of Nagumo's group: Takahashi Osamu, Tōdō Rin, Amasawa Ichika.
 
-
-
+<!-- walk: y2v11 ch2 → p.84 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -82,6 +85,3 @@ char_id: takahashi-osamu · class: unknown · status: unknown
 [scene] (p.12) Named in this volume.
 [note] (p.12) Passing mention (locator pages: p.28; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.12) Passing mention only.
-
-
-

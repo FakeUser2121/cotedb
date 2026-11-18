@@ -1675,32 +1675,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
-
 <!-- walk: y3v1 Epilogue → p.287 -->
-
-### y3v1 p.40–74 — Ch.3 — depth read: Hirata pulls him aside
-[scene] (p.69) Waits for Ayanokōji at the dorm lobby and asks to move somewhere private so they can talk.
-[says] (p.69) "Would you mind changing the location a bit? It seems like people might gather here."
-[says] (p.71) "I was once saved by you too, Ayanokouji-kun. If it weren't for you, I probably wouldn't have stayed at this school."
-[says] (p.71) "But during the unanimous special exam and the end-of-year special exam, there were things I couldn't digest, no, couldn't accept."
-[says] (p.71) "It's not just Sudou-kun and the others here. Everyone in the class is very worried and confused."
-[says] (p.74) "left the class on his own free will. We have to respect that."
-[trait] (p.69–74) Sensitive to class trouble; respected Ayanokōji's strength but had come to distrust him over the last two exams — hints at a rift, and unusually calls him "Kiyotaka."
-[rel:ayanokouji-kiyotaka] (p.69–74) Seeks the reason for the transfer, then accepts it is his choice and leaves.
-[rel:sudou-ken] (p.69–74) Holds him back from confronting Ayanokōji too aggressively.
-
-### y3v1 p.10–12 — Hirata enters Class 3-A, seated beside Ayanokōji
-[scene] (p.10) Arrives early, climbs to the third-year floor and stops before the "Class 3-A" nameplate.
-[narrates] (p.10) "I've finally made it here…"
-[narrates] (p.10) "From Class 1-D to Class 3-A."
-[trivia] (p.10) Reflects on the journey — built on the sacrifices of Yamauchi, Sakura and Maezono, who had to leave the class; he came to school only to follow his older brother, but came to understand his brother's true feelings through being pushed away.
-[narrates] (p.11) "Though his inscrutable demeanor sometimes troubles me, that is part of his charm."
-[narrates] (p.11) "Not just for my brother or for myself—But to share the joy with everyone in the class, starting with Ayanokouji-kun."
-[narrates] (p.11) "Ryuuen-kun's class is quickly catching up right behind us."
-[narrates] (p.12) "To think I'd be next to him again, huh…?"
-[trait] (p.10–12) Grateful and determined — now on the student council and a congratulatory entrance-ceremony speaker, he resolves to graduate from Class A with everyone, aware of the rivals closing in.
-[rel:ayanokouji-kiyotaka] (p.10–12) Credits his presence for who he has become; delighted to be seated next to him again as in their first year.
-[rel:horikita-manabu] (p.10) His older brother, whom he followed to school and whose true feelings he came to understand.
 
 ### y3v1 p.16–28 — Hirata checks on Chabashira; urges accepting reality
 [says] (p.16) "Sensei, are you alright?"
@@ -1716,7 +1691,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 ### y3v1 p.66–74 — Hirata's private talk and respectful acceptance
 [says] (p.69) "Would you mind changing the location a bit? It seems like people might gather here."
 [says] (p.70) "Sudou-kun. If we keep talking here, more and more people will gather."
-[says] (p.71) "I was once saved by you too, Ayanokouji-kun. If it weren't for you, I probably wouldn't have stayed at this school."
+[note] (p.71) The "I was once saved by you too" line is Keisei's (Yukimura Teruhiko); the translation leaves the exchanges in this stretch unattributed.
 [says] (p.74) "We have to respect that."
 [says] (p.74) "Is there anything you need to tell the class?"
 [trait] (p.69–74) Calm and mediating — tries to move the confrontation away from onlookers, admits he came to distrust Ayanokōji somewhat during the examinations, then respectfully accepts his departure and leaves, addressing him as "Kiyotaka."
@@ -1974,7 +1949,9 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [note] (p.11) Passing mention (locator pages: p.40, p.73, p.86, p.121, p.160, p.163; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
+### y2v11 p.40 — Ch.2: Named in the stacked group
+[scene] (p.40) The organization chart lists Nagumo's group on the bus printout.
+[mentioned] (p.40) Named as the second-year Class B member of Nagumo's group: Horikita Suzune, Hirata Yōsuke.
+[mentioned] (p.73) Inogashira declines to ask Hirata for help with Kōenji: \“I can't ask Hirata-kun to do something like this...\”
 
-
-
-
+<!-- walk: y2v11 ch2 → p.84 -->

@@ -55,11 +55,21 @@ char_id: onodera · class: Class 1-D · status: minor
 
 <!-- walk: y2v12.5 → start -->
 
-### y2v12.5 p.11-216 — onodera mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.54-56; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
+### y2v12.5 p.54–57 — Ch.4: The trio at Keyaki Mall
+[scene] (p.54) Matsushita, Mii-chan and Onodera stop to chat on the way to Keyaki Mall; Ayanokōji joins briefly before heading ahead to his appointment.
+[note] (p.54) “Yeah, I heard about it just recently too.” — unattributed; the text does not say whether Onodera or Mii-chan said it.
+[says] (p.55) “No, I am happy, of course. But, you know, it feels a bit like an accident, doesn’t it? If I were a student in Class A, I think I’d be incredibly stressed.”
+[says] (p.55) “Maybe it would be better if everyone, regardless of gender, had a little fight to clear the air.”
+[says] (p.56) “Yeah, it’s an extreme example. However, if they don’t vent what they’re holding in, how can they keep going?”
+[says] (p.56) “Recently, Sudō-kun has been praising you a lot, Ayanokōji-kun. ‘He’s amazing,’ is what he says.”
+[says] (p.56) “At first, I only half-listened, but when I saw the impression that Horikita raised the flag to Ichinose-san, I kind of understood. Ah... of course, regarding Maezono-san, it was unfortunate... right?”
+[says] (p.56) “Heh, a capable hawk hides its claws? How reassuring.”
+[note] (p.56) The roster holds two Onoderas; the 1-D context (Matsushita, Mii-chan, Shinohara-san’s call) favors this Onodera (Class 1-D). The text prints only "Onodera".
+[rel:ayanokouji-kiyotaka] (p.54–57) She praises his special-exam performance to his face.
+[rel:matsushita-chiaki] (p.54–57) The trio walks together to Keyaki Mall.
+[rel:wang-mei-yu] (p.54–57) The trio walks together to Keyaki Mall.
 
+<!-- walk: y2v12.5 Ch.4 → p.57 -->
 ## y3v3
 
 <!-- walk: y3v3 → start -->

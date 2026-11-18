@@ -496,47 +496,6 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
-### y3v1 p.29–39 — Ch.2 — depth read: guarding the "leader candidate"
-[scene] (p.34) At the café with Ayanokōji, Morishita and Ichinose; notices Horikita and Matsushita approaching.
-[says] (p.34) "Hey, Horikita. We're in the middle of a strategy meeting right now, but do you need something?"
-[says] (p.35) "If you want to talk to our leader candidate, you'll have to go through me first."
-[says] (p.35) "It's not sudden. I've been waiting for this moment all along. Right, Ayanokouji?"
-[says] (p.35) "I see, as the class leader, huh? Well, it's certainly natural since a classmate suddenly left, but that makes it all the more reason why I can't let you check."
-[says] (p.38) "So Horikita, it's about time you stated your business here. We're busy discussing things."
-[trait] (p.34–38) Sly and vigilant; deliberately blocks Horikita, relishing Class A's trouble and calling Ayanokōji their "leader candidate."
-[rel:ayanokouji-kiyotaka] (p.34–38) Acts as his gatekeeper in Class C; seeks his agreement on calling him a leader candidate.
-[rel:horikita-suzune] (p.34–38) Treats her as an unwanted guest and turns her away.
-
-### y3v1 p.98–145 — Ch.5 — depth read: Hashimoto pushes Ayanokōji to lead
-[scene] (p.108) In Class C after homeroom, proposes leaving the exam entirely to Ayanokōji.
-[says] (p.108) "Alright. So, we're all good with leaving this special exam up to Ayanokouji, right?"
-[says] (p.108) "Lose? Don't be stupid, there's no way we'll lose. Right, Ayanokouji?"
-[says] (p.110) "Come on, be more decisive. It makes the rest of us worried."
-[says] (p.115) "Even if we get hit by some of their penalty points, we'll still be far ahead."
-[trait] (p.108–117) Eager to back Ayanokōji as leader and confident of victory; pushes the class toward entrusting him with the exam.
-[rel:ayanokouji-kiyotaka] (p.108–117) Secures the class's agreement to let him lead; strategizes with him at the café.
-[rel:shimazaki-ikkei] (p.109–110) Argues with him over whether to entrust the exam to Ayanokōji.
-
-### y3v1 p.163–202 — Ch.7 — depth read: Hashimoto caught in the middle
-[says] (p.189) "Calm down, Shimazaki. We won the exam, so it's all the same in the end."
-[says] (p.190) "We're busy here, you know? Geez, I only have one body."
-[says] (p.191) "Give me a break, Ryuuen. I'm busy today."
-[says] (p.192) "Don't just assume things. Regardless of the process, we won the special exam."
-[trait] (p.189–192) Tries desperately to mediate between Shimazaki and Ryūen, lamenting he has only one body and silently clicking his tongue at Ryūen.
-[rel:ayanokouji-kiyotaka] (p.189–192) Defends him as leader, emphasizing the win.
-[rel:shimazaki-ikkei] (p.189–192) Tries to calm him and keep the dispute private.
-[rel:ryuuen-kakeru] (p.190–191) Is shoved aside by him.
-
-### y3v1 p.225–287 — Epilogue — depth read: Hashimoto's read on Ayanokōji
-[says] (p.237) "Hey, that hurts, Morishita. Don't call me out so violently—"
-[says] (p.240) "He's not a robot. You're thinking too much. He does have emotions, even if there isn't much."
-[says] (p.240) "That's good then. But I recommend not getting too involved."
-[says] (p.247) "Man, that really scared me. I broke out in a cold sweat."
-[trait] (p.239–247) More trusting of Ayanokōji than Morishita; banters with her and plays detective over Nanase's suspicious call.
-[rel:morishita-chiaki] (p.237–240) Is dragged along by her; defends Ayanokōji against her accusations.
-[rel:ayanokouji-kiyotaka] (p.239–240) Defends him as having emotions, if few.
-[rel:nanase-tsubasa] (p.246–247) Overhears her suspicious phone call with "Tsukishiro."
-
 ### y3v1 p.34–35 — Hashimoto the gatekeeper
 [says] (p.34) "Hey, Horikita. We're in the middle of a strategy meeting right now, but do you need something?"
 [says] (p.35) "If you want to talk to our leader candidate, you'll have to go through me first."
@@ -1005,6 +964,46 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [note] (p.28) To deflect Morishita he falls back on the “there are things that only guys can talk about” line.
 
 <!-- walk: y2v11 ch1 → p.33 -->
+
+### y2v11 p.46–52 — Ch.2: The coordinator of Group 20
+[scene] (p.46) At the inn; he appoints himself Group 20's coordinator before Kiryūin will engage; builds the confidence-rating survey over lunch.
+[says] (p.46) “I'm both happy and disappointed. I wish we could’ve been together in some high-stakes special exam.”
+[says] (p.46) “Even if it's just an exchange meeting, I would be grateful to receive a decent amount of money if I can get to the top. At least exchanging contact information with the first-years is a must. I'll invite you to join the group later.”
+[says] (p.46) “Hey, hey, stop with the Morishita-like unfunny jokes.”
+[says] (p.47) “Um, is that everyone? Ah, no, are we one short? One, two, three—”
+[says] (p.47) “Fifteen, and sixteen including me. Looks like we're still one short.”
+[says] (p.47) “Oh, really, everyone was here... Sorry, Yamamura.”
+[says] (p.49) “Wait a minute, Kiryūin-senpai. Wouldn't it be better for us to have lunch together to strengthen the camaraderie of the group?”
+[says] (p.50) “Man, seriously? We've got quite a leader here.”
+[says] (p.51) “Yeah. The number of people participating in one game is up to five, and the same person can participate as many times as they want. It seems pretty flexible.”
+[says] (p.51) “For now, all we can do is to try our best.”
+[says] (p.51) “Looking at Kiryūin-senpai, it seems like she's not interested in the exchange meeting, so we can just do whatever we want... but I wish she had at least told us what she’d do.”
+[says] (p.51) “There was a reason why I suggested we all eat together. Let's rate our confidence in the game contents written on the printout on a scale of one to five. One means you’re not confident.”
+[says] (p.52) “...This isn't going to work.”
+[says] (p.52) “Maybe we should just give up on the exchange meeting and just play around.”
+[note] (p.46–52) He overlooks Yamamura in the head-count; his confidence survey shows almost no 4–5 ratings; he wants the group to win for the money.
+[rel:ayanokouji-kiyotaka] (p.46–52) He courts him for the games; Kiyotaka lets him take the lead.
+[rel:kiryuin-fuuka] (p.49–52) He counters her disbandment; he takes her silence as a blank cheque.
+
+### y2v11 p.53 — Ch.2: Holding the first-years
+[scene] (p.53) Just before one; he keeps the first-years busy while Kiyotaka slips to the Rest Area to meet Nagumo.
+[says] (p.53) “Yeah, that's fine. I'll take the first-years and do some experiential learning or something.”
+
+### y2v11 p.67–69 — Ch.2: The hands and feet deal
+[scene] (p.67) Next morning; game details announced; he hears about the Nagumo arrangement in the shared room.
+[says] (p.67) “You always do things that are beyond my imagination. You know that, right?”
+[says] (p.67) “Even so, it's incredible that you're competing with Nagumo-senpai. And it's not about the results of this group battle, but about your individual performance. That's amazing. You're being asked to win 17 out of 19 games.”
+[says] (p.68) “All right, then, let's make the best of it. First, I'll loosen up the first-year students and try to get along with them by tonight.”
+[says] (p.68) “I'll also try to extract as much information as possible at that time, but if Kiryūin-senpai doesn't make a move, your power is indispensable. So when it gets dark, you'll have to cooperate to get along with the first-year students, okay?”
+[says] (p.68) “Leave it to me. I'm pretty good at this kind of thing. I'm grateful to be able to act as your hands and feet. It will also serve as a check on the princess, and it's not something Ryūen can ignore.”
+[says] (p.69) “By the way, how much would you get for beating Nagumo-senpai?”
+[says] (p.69) “I'm relieved to hear that. However, I'd be happy if you could give us different amounts based on our performance, not uniformly.”
+[says] (p.69) “Well then, I'll leave for a bit. I should be able to have a talk or two during my free time.”
+[note] (p.67–69) He wants a scaled cut on top of the pool and to milk first-years for information; he frames himself as a check on the princess.
+[rel:ayanokouji-kiyotaka] (p.67–69) He offers to be his hands and feet for a share of the reward.
+[rel:ryuuen-kakeru] (p.68) He mentions Ryūen cannot ignore this move.
+
+<!-- walk: y2v11 ch2 → p.84 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

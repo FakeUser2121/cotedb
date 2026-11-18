@@ -36,9 +36,11 @@ char_id: nishimura-ryuuko · class: unknown · status: unknown
 [note] (p.11) Passing mention (locator pages: p.46; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
+### y2v11 p.46 — Ch.2: Group 20's second-year Class B
+[scene] (p.46) At the inn, Kiyotaka reads the Group 20 roster.
+[mentioned] (p.46) Named as a second-year Class B member of Group 20: Ayanokōji Kiyotaka, Nishimura Ryūko.
 
-
-
+<!-- walk: y2v11 ch2 → p.84 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

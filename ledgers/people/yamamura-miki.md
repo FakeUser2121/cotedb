@@ -208,3 +208,16 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 [note] (p.31) Morishita notes it's rare to see Yamamura talking to a boy; her own classmates struggle with her.
 
 <!-- walk: y2v11 ch1 → p.33 -->
+
+### y2v11 p.46–49 — Ch.2: The seventeenth in the count
+[scene] (p.46) Group 20 gathers at the inn; Hashimoto's head-count misses her; Hiyori talks with her; she stiffens.
+[says] (p.47) “No... I'm sorry.”
+[says] (p.48) “Ah—that... you're completely different from what I thought...”
+[says] (p.48) “I thought you were more... indifferent...”
+[says] (p.48) “I'm sorry. I'm not good at talking to people, so I might’ve said something rude...”
+[says] (p.48) “Ayanokōji-kun...?”
+[note] (p.47–48) Being overlooked by Hashimoto and unnoticed by Kiryūin; Hiyori draws her out; she expected Hiyori to be more indifferent.
+[rel:hashimoto-masayoshi] (p.47) He apologizes for missing her in the count.
+[rel:shiina-hiyori] (p.48) Hiyori takes her hand and says it's thanks to Ayanokōji-kun that she loves talking.
+
+<!-- walk: y2v11 ch2 → p.84 -->

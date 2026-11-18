@@ -624,3 +624,18 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [note] (p.11) Passing mention (locator pages: p.46, p.48-49, p.108, p.137, p.140, p.171; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
+### y2v11 p.47–52 — Ch.2: The gentle magnet
+[scene] (p.47) She walks up to the Group 20 gathering; she greets Ayanokōji warmly; she talks Yamamura into trusting her.
+[says] (p.47) “Good morning, Ayanokōji-kun.”
+[says] (p.47) “I feel the same way. I was relieved to know that we’re in the same group.”
+[says] (p.47) “What do you mean?”
+[says] (p.48) “It's totally fine. I'm not good at talking to people either, so we're comrades.”
+[says] (p.48) “You don't see it? If so, I think it's thanks to Ayanokōji-kun.”
+[says] (p.48) “Yes. Even though I'm not good at it, I've come to love talking with my friends. So I think you will surely come to love talking too.”
+[says] (p.49) “I'm Shiina. Nice to meet you, Morishita-san.”
+[says] (p.50) “I wonder what happened to Kōenji-kun.”
+[note] (p.70–71) Her oshibana work guided Kiyotaka's first match; she is far better than him.
+[rel:yamamura-miki] (p.47–49) She opens up Yamamura with patience Kiyotaka attributes to himself.
+[rel:ayanokouji-kiyotaka] (p.47–52) He finds her reliability rare; he owes his oshibana to her coaching.
+
+<!-- walk: y2v11 ch2 → p.84 -->

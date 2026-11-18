@@ -105,23 +105,7 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
-
 <!-- walk: y3v1 Epilogue → p.287 -->
-
-### y3v1 p.75–97 — Ch.4 — depth read: Amasawa's venomous probing
-[scene] (p.90) Approaches Ichinose at Keyaki Mall, professing fondness for Ayanokōji and probing for a reaction.
-[says] (p.90) "Did you go to the gym today?"
-[says] (p.91) "It does matter. I like Ayanokouji-senpai a lot."
-[says] (p.91) "I was just kidding~ Actually, I really do love him in that way."
-[says] (p.91) "I definitely don't have the courage to confess, but I do feel a bit jealous when I see Ichinose-senpai getting along so well with Ayanokouji-senpai."
-[says] (p.92) "Ichinose-senpai, are you perhaps getting a bit carried away lately?"
-[says] (p.92) "After all… you've slept with Ayanokouji-senpai, right?"
-[says] (p.96) "…Shoot. I'm the one getting carried away here."
-[says] (p.97) "It's going to be an interesting fight for all the third-year senpai."
-[trait] (p.91–97) Plays the innocent kouhai then turns venomous; sharp and observant but is outmaneuvered by Ichinose's White Room bluff.
-[rel:ayanokouji-kiyotaka] (p.90–97) Obsessed with him — the reason she stays at the school; wants to make him happy and warns Ichinose off.
-[rel:ichinose-honami] (p.90–96) Probes and tries to provoke her, but ends up flustered and revising her opinion of her.
-[note] (p.94–96) She does not actually know whether Ichinose and Ayanokōji are physical; her goal was to see Ichinose's agitation.
 
 ### y3v1 p.90–97 — Amasawa probes Ichinose about Ayanokōji
 [scene] (p.90) Calls out to Ichinose in Keyaki Mall, smiling innocently; brings up the gym and Ayanokōji.
@@ -356,7 +340,18 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 [note] (p.11) Passing mention (locator pages: p.40, p.62, p.64-66, p.92-95, p.100-102, p.104-107; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
+### y2v11 p.62–66 — Ch.2: She promotes herself
+[scene] (p.62) Just before the group disbands, Amasawa appears down the hallway, impatient, pretending she wasn't waiting; Kiyotaka and Nagumo are caught off guard.
+[says] (p.62) “Ah, finally you're out. You're done talking, right?”
+[says] (p.64) “That's why I promoted myself. I promised to contribute to getting first place.”
+[says] (p.64) “Eh~ it is. Look, if I'm aiming for Nagumo-senpai, she's my rival.”
+[says] (p.64) “But you told me to wait because you had important things to discuss with Ayanokōji-senpai, but you kept Asahina-senpai by your side, right? That's special, isn't it?”
+[says] (p.65) “We were told in advance what kind of exchange meeting would be held.”
+[says] (p.65) “Eh? Isn't it simply because the chances of winning seem high? After all, he was the student council president. I'm a girl of age, so I want private points.”
+[says] (p.65) “I thought you and Nagumo-senpai would be competing soon. I thought it might be nice to be on your side and support you, but that wouldn't be fun, would it?”
+[note] (p.65) "We" = Yagami and Tsukishiro management; sound familiar — the same network that runs her; Kiyotaka notes the contradiction.
+[note] (p.66) She knows Nagumo's three-losses rule from him first; she stayed away from the discussion; her real aim is to be near him.
+[rel:nagumo-miyabi] (p.62–66) She strong-arms onto his group; he flinches; she courts his attention openly.
+[rel:ayanokouji-kiyotaka] (p.62–66) She reveals to him alone the advance notice; she smells the match before it starts.
 
-
-
-
+<!-- walk: y2v11 ch2 → p.84 -->

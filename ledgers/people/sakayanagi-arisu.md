@@ -1242,3 +1242,9 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.11) Passing mention (locator pages: p.10-11, p.19, p.21-25, p.29-30, p.40, p.86-91; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
+### y2v11 p.40–41 — Ch.2: The absence on the list
+[scene] (p.40) The organization chart is read on the bus; Sakayanagi is named as an example of high-OAA chemistry in any group.
+[mentioned] (p.40) Named as the example: a group with Sakayanagi or Ryūen might beat Nagumo's group.
+[note] (p.41) The printout's stacked Group Nagumo effectively shadows hers and Ryūen's; she is not at the camp.
+
+<!-- walk: y2v11 ch2 → p.84 -->

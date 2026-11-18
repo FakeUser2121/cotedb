@@ -41,17 +41,8 @@ char_id: tsubaki-sakurako · class: Class 1-C · status: unknown
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
-
 <!-- walk: y3v1 Epilogue → p.287 -->
 
-### y3v1 p.225–287 — Epilogue — depth read: Tsubaki's lingering question
-[scene] (p.225) Encounters Ayanokōji on the way back from school with Utomiya; brings up the rumor of his transfer.
-[says] (p.225) "It feels like it's been a while since I've seen the two of you together."
-[says] (p.226) "What is it? It's creepy when you suddenly call me by my full name."
-[says] (p.227) "Someone other than your family? Who is it?"
-[trait] (p.226–227) Curious and perceptive; her question about whom he would like to meet and her "snow" remark echo his forgotten White Room memories.
-[rel:ayanokouji-kiyotaka] (p.225–227) Speaks with him about the transfer and his hopes for meeting someone; her presence triggers his memory of "Yuki."
-[rel:utomiya-riku] (p.225–226) Is walking back to the dorm with him.
 ## y3v2
 
 <!-- walk: y3v2 → start -->
@@ -181,9 +172,12 @@ char_id: tsubaki-sakurako · class: Class 1-C · status: unknown
 [note] (p.11) Passing mention (locator pages: p.46, p.137, p.142, p.152, p.182-185; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
+### y2v11 p.46 — Ch.2: Group 20's first-year Class C
+[scene] (p.46) At the inn, Kiyotaka reads the Group 20 roster.
+[mentioned] (p.46) Named as a first-year Class C member of Group 20: Tsubaki Sakurako, Shintoku Taro.
+[note] (p.46) Kiyotaka hardly knows the first-years apart from Tsubaki.
 
-
-
+<!-- walk: y2v11 ch2 → p.84 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -192,6 +186,3 @@ char_id: tsubaki-sakurako · class: Class 1-C · status: unknown
 [scene] (p.12) Named in this volume.
 [note] (p.12) Passing mention (locator pages: p.28; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.12) Passing mention only.
-
-
-

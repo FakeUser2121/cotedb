@@ -30,5 +30,8 @@ char_id: toudou-rin · class: unknown · status: unknown
 [note] (p.11) Passing mention (locator pages: p.40; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
+### y2v11 p.40 — Ch.2: Named in the stacked group
+[scene] (p.40) The printout lists Group "Nagumo"'s members on the bus.
+[mentioned] (p.40) Named as a first-year Class A member of Nagumo's group: Takahashi Osamu, Tōdō Rin, Amasawa Ichika.
 
-
+<!-- walk: y2v11 ch2 → p.84 -->
