@@ -60,9 +60,12 @@ char_id: okitani-kyousuke · class: unknown · status: unknown
 [note] (p.9) Passing mention (locator pages: p.129-130; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.129–130 — Ch.6: The two alive
+[scene] (p.129) Standing among the five protected members of our class against Sakayanagi's Arithmetic D1 — Sonoda, Ichihashi, Okitani, Ike, Makida.
+[scene] (p.130) Defensive’s Successfully Protected Members: Okitani Kyōsuke, Ike Kanji — he is one of the two the defence held.
+[note] (p.130) No dialogue attributed to him on these pages.
 
-
-
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

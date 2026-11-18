@@ -11,6 +11,13 @@ char_id: makida-susumu · class: unknown · status: unknown
 [note] (p.9) Passing mention (locator pages: p.129, p.170; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.129, 168 — Ch.6: The protected five; the appreciative clap
+[scene] (p.129) Standing among the five protected members against Sakayanagi's Arithmetic D1 — Sonoda, Ichihashi, Okitani, Ike, Makida.
+[scene] (p.130) He is not on the confirmed protected list; the attack slips past him.
+[scene] (p.170) Reaction to the turn 13 chatter — he clapped, admiring Kushida's read on Satonaka.
+[note] (p.168) The page credits him with the clap alone; no line of his is printed.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v10.25
 
 <!-- walk: y2v10.25 → start -->

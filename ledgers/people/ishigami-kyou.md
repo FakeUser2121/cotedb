@@ -163,3 +163,11 @@ char_id: ishigami-kyou · class: unknown · status: unknown
 [note] (p.15) An untagged classmate then says: “Considering efficiency, Yukimura-kun’s choice might be correct. But I think it’s also important to aim for the job you want.” The speaker of that line is unattributed; not assigned.
 
 <!-- walk: y2v10 Ch.1 → p.30 -->
+
+### y2v10 p.132–133 — Ch.6: The Gourmet Food fumble
+[scene] (p.132) He is the one who made the mistake; he slams the desk after remembering; he apologizes profusely to Horikita; she tells him to try harder next time.
+[says] (p.133) “I’m sorry, Horikita, I was so nervous that the answer didn’t come to me right away... even though I was supposed to know it.”
+[note] (p.132) Not selected to be protected in turn two; his classmates above him all escaped attention; the page does not say why Horikita passed him over.
+[trait] (p.132) Top student; shaky under special-exam pressure; the one who over-apologizes.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->

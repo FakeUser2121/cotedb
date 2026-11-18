@@ -1022,6 +1022,15 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.15) Speaker of that line is unattributed; Yukimura himself does not speak on these pages; his choice's content left empty rather than guessed.
 
 <!-- walk: y2v10 Ch.1 → p.30 -->
+
+### y2v10 p.132, 141–142, 150 — Ch.6: The name printed twice
+[mentioned] (p.132) Named — turn 2 nominee with Kōenji, Hasebe, Hirata and Onodera; the four remaining answer the question.
+[mentioned] (p.141) Named — during the corridor talk Horikita references his knowing laughter at the Gourmet Food question.
+[mentioned] (p.142) Named — “there was no point in aiming for Keisei, who could potentially be protected” — the translation prints Keisei for him here.
+[note] (p.132) The page prints the name "Yukimura Teruhiko"; the surrounding analysis calls the same classmate "Keisei" — this translation uses both names for him on these pages.
+[note] (p.5448, 5451) The same identification confusion; treat the two roster rows as unresolved.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

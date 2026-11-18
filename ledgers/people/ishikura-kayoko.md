@@ -53,6 +53,13 @@ char_id: ishikura-kayoko · class: unknown · status: unknown
 [note] (p.9) Passing mention (locator pages: p.130-131, p.166; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.130–131, 164 — Ch.6: The arithmetic answer she didn't miss
+[scene] (p.130) She answers correctly — the one of the three answering the Arithmetic D1; she steps off without a sound; the next turn passes.
+[scene] (p.164) Turn 12 defense — she is successfully protected; the second turn of her participation is quiet, competent, unspectacular.
+[note] (p.130–131) Mentioned only as a correct answer in the monitor's list; the narration singles her out as "Ishikura is one of the strongest math students in the class."
+[note] (p.131) The print of the monitor's list names "Ishikura Kayoko" — the same student as this entry; no ambiguity detected on these pages.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

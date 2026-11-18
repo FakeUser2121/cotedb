@@ -1017,6 +1017,27 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:ayanokouji-kiyotaka] (p.73–80) AK probes him, floats making him an ally, then floats ostracizing him — Kōenji closes both doors.
 
 <!-- walk: y2v10 Ch.3 → p.80 -->
+
+### y2v10 p.129–138, 150–152 — Ch.6: The immune third
+[scene] (p.129) The first strike lands on his class; Horikita seats him on the bench; he shows the exam exactly zero interest; she pockets gains regardless.
+[says] (p.130) “Do as you like.”
+[says] (p.133) “You’re wrong to blame me. If you’re dissatisfied, all you have to do is guard me next time.”
+[scene] (p.133) Turn two/three — he blanks twice, on schedule; Sudō almost strangles him; Horikita declines to intervene.
+[scene] (p.136) Turn 4 — Sakayanagi spends a point to sharpen the attack; everyone holds their breath; he produces a perfect answer on cue; nobody moves.
+[says] (p.137) “I’ll leave that for you to decide.”
+[says] (p.137) “What’s your intention? I’d like to hear your reasons.”
+[says] (p.137) “Oh?”
+[says] (p.137) “But if I hadn’t gotten the right answer, I would have been eliminated. What’d you think of that?”
+[says] (p.137) “Hmm, indeed. My apologies, it seems I acted preemptively.”
+[scene] (p.137) He walks to her desk after the turn; the exchange is quiet, precise, and laughing-silent; he takes his seat again.
+[note] (p.138) His voice-over; he exactly knows what both factions think.
+[limit] (p.130) He is not protecting himself — he is gaming the rules; but he will never sign anything.
+[trait] (p.130) Blank answers as a strict strategy; perfect, deliberate answers when needed; no motion wasted.
+[rel:horikita-suzune] (p.129–138) The two-stroke gamble he beats by returning a single right answer; she lets him pass; he never thanks her.
+[rel:sakayanagi-arisu] (p.133–152) She studied him for three turns then stopped striking; she learned to leave him alone.
+[rel:ayanokouji-kiyotaka] (p.137, 150) He appreciates the game as much as Kōenji; they read each other constantly.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

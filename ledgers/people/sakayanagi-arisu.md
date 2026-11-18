@@ -1456,6 +1456,88 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:kitou-hayato] (p.101, 103) He delivers the intel she never asked for; she lets him in on none of it.
 
 <!-- walk: y2v10 Ch.5 → p.122 -->
+
+### y2v10 p.127–138, 141–142, 148–153, 154–161, 163–188 — Ch.6: The maths of survival
+[scene] (p.128) She attacks Horikita's class with Arithmetic D1; the arithmetic answer is mental-math; Ishikura answers correctly, the others miss it; one point.
+[scene] (p.131) She switches to Gourmet Food D1; she sticks to the same category twice deliberately — she's reading his class; Kōenji blank no matter what she tries.
+[scene] (p.133) Third turn, same gambit; she overreaches; we pull through — 10 points; she leads by one; the class whispers.
+[scene] (p.135) Fourth turn — she spends a point on D2; Horikita, predictably, does not protect Kōenji; Kōenji answers correctly; she'd blown the trap.
+[scene] (p.136–137) Her stop-read: teaching herself that Horikita won't protect Kōenji now that he's on the brink; she stops targeting him entirely — no profit in eliminating Kōenji.
+[scene] (p.138) First half ends — she leads; Kamuro and Yamamura eliminated; the Class A depth remains dangerous.
+[scene] (p.149) Hashimoto corners her in the corridor — his phone call echo; she plays dumb with him; he's right there.
+[says] (p.149) “Does it look that way to you?”
+[says] (p.149) “Indeed, your phone call last night was a little bit too meddlesome. However, the information received is still information. Of course, since it has been etched in my brain, I don’t intend to just pointlessly ignore it.”
+[says] (p.149) “Horikita-san and Kōenji-kun might have an agreement, however, it’s only to prevent expelling him and letting him do what he pleases.”
+[says] (p.149) “There’s no point in continuously protecting him and wasting a valuable protection slot. We should wait and see, at least until he gets a problem wrong after being targeted. In order to win, we must do at least that much, don’t you think so?”
+[says] (p.149) “Well, if they’re going to be perturbed by that, let them be. Additionally, while fulfilling the promise is important, continuously wasting a valuable protection slot on Kōenji-kun would cause others to question her qualifications as a leader.”
+[says] (p.149) “Don’t worry, Kitō-kun. Hashimoto-kun has a dry tone.”
+[note] (p.150) The printed line splits across the page boundary — the arc of the line has Sakayanagi predicting that Horikita still won’t protect Kōenji and she specifically nominated him for that reason; the page breaks mid-name; only the stem is continuous.
+[says] (p.151) “I was 99% sure that they wouldn’t protect Kōenji-kun, but I decided to do it on the second turn to ensure that they wouldn’t protect him. It’s also important to lay the groundwork to invite his second mistake. What would happen if I had started from the first turn, and Horikita-san had decided to protect Kōenji-kun? After that, it would be hard for me to make a move.”
+[says] (p.152) “Moreover, thanks to him making a mistake on the first easy question, I was able to determine that there’s a higher possibility of him making a wrong answer the second time as well, so the results are satisfactory—all thanks to the information you provided.”
+[says] (p.152) “Now, let’s finish with Kōenji-kun, shall we?”
+[says] (p.152) “I was thinking they might protect him unconditionally, or better yet, we could just eliminate him... but it seems Horikita-san has a different plan. If we keep targeting Kōenji-kun, it would just be pleasurable for her.”
+[says] (p.152) “He’s definitely not involved. If Ayanokōji had been pulling all the strings, she would have felt it beyond the classrooms. The unusual and bizarre feeling would pierce Sakayanagi. She didn’t feel that.”
+[says] (p.152) “It’s only natural that she grows. She sees his back closer than anyone else.”
+[says] (p.152) “The problem is—”
+[says] (p.153) “Whether two or three classes were secretly teaming up… that was more problematic.”
+[says] (p.154) “Masumi-san, would you like to join me for lunch? Since you were eliminated, there won’t be a problem, right?”
+[scene] (p.154) She accepts — Kamuro walks with her; she calls the shots from the bench; Kitō slots into his usual position; they sweep up the wreckage.
+[scene] (p.155) The cafeteria is nearly empty — only politically-irrelevant leaders and the eliminated; she sits at the two-person table across from Horikita; the interrogation-begins.
+[says] (p.155) “Good day, you two Class B students. If you don’t mind, may I join you?”
+[says] (p.155) “Masumi-san and Kitō-kun are buying lunch for me now. They should arrive shortly.”
+[says] (p.155) “Now, both of you please sit down.”
+[says] (p.155) “Why not? It could be a good learning experience for you, Masumi-san.”
+[says] (p.156) “I was rather lenient, wasn’t I? Isn’t that evident from you being in second place?”
+[says] (p.156) “There’s no need to worry, Kitō-kun. He’s here simply because he’s hungry. After all, we have to welcome our weak and pitiful wolf.”
+[says] (p.156) “What he’s after isn’t food, but points from this special exam. He seems to have started off a bit late in the first half.”
+[says] (p.157) “My class is currently first, while you’re at the bottom. Are you really in a position to have this conversation?”
+[says] (p.157) “Do you intend to eliminate people close to me?”
+[says] (p.157) “It’s hard to believe at this point. Given that your peculiar focus on the students who were within your reach during the first half clearly failed. And now, you’re still relentlessly pursuing students like Masumi-san and Kitō-kun.”
+[says] (p.159) “As I said, it’s just his way of provoking. It’s pointless to take him seriously.”
+[says] (p.159) “Whether it’s true or not, I don’t intend to judge individuals as a third party who doesn’t know anything. Kamuro-san and Yamamura-san are both excellent classmates to Sakayanagi-san.”
+[says] (p.160) “I’ll look forward to it.”
+[says] (p.164) “She really is out to corner Ryūen-kun… How bold.”
+[scene] (p.164) Turn 11 — she spends two points on Sports D3 (difficulty 3); total carnage; Katsuragi, Shiina, Tokitō, Nomura, Ibuki — every single one protected; Ryūen gains five points.
+[scene] (p.164) Her attack costs him nothing; the collapse of her calculus is on the monitor for the whole class to see.
+[scene] (p.166) Turn 12 — perfect protections again; four consecutive; the class is on fire; she's watching, waiting.
+[scene] (p.171) Turn 14 — she can't muster a single working countermeasure; the class just watches in silence; the entire table is a mirror of her failure.
+[scene] (p.185) The 15th turn; the score is dead level in three classes; her class sits at 40; she's not even breathing.
+[scene] (p.188) Turns 16–20: the final push; the exam ends with her still in the fight, the class at her back.
+[note] (p.138) This exam becomes the fulcrum: she loses the promise she held from the first turn.
+[limit] (p.164) Five perfect protections dissolve her advantage.
+[rel:hashimoto-masayoshi] (p.148–153) The subordinate who reports to her; his service is absolute; she tolerates the closeness.
+[rel:kamuro-masumi] (p.138, 148–153, 155) The one premium elimination she couldn't protect; the loss is felt in Class A.
+[rel:kitou-hayato] (p.148–153, 155) The second premium elimination she couldn't protect.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.189–192 — Ch.7: The silent loss; the leak hypothesis
+[scene] (p.189) Sakayanagi's POV — she weighs Shiina Hiyori as a possible expulsion target; her 11th-turn attack on Ryūen's class goes perfectly — and fails completely (all five protected); a comprehensive loss with no excuse.
+[scene] (p.190) Two more perfect defender results in a row; she concludes a traitor lives in Class A; she observes her classmates in silence to find it.
+[scene] (p.191) 13th turn — she lingers between names to try to rattle Ryūen's defense; another perfect result; Morishita Ai speaks up.
+[says:morishita-ai] (p.191) “Information is leaking.”
+[scene] (p.192) Sanada agrees with Morishita; Kitō and Hashimoto rise in her defense; she refuses to take any countermeasures; the class thinks she has lost her nerve.
+[rel:hashimoto-masayoshi] (p.189, 192, 209–216) The classmate she engineered to confess; she knows more than she lets on; she waits for him to convict himself.
+[rel:ryuuen-kakeru] (p.189–192) The opponent who perfectly defends every turn; she begins to suspect a leak.
+[rel:morishita-ai] (p.191–192) The only one to voice the leak aloud; she is pushed back by Kitō and Hashimoto.
+[rel:sanada-kousei] (p.192) Soft agreement with Morishita; unwilling to push.
+
+<!-- walk: y2v10 Ch.7 → p.216 -->
+
+### y2v10 p.232 — SS: Arisu Sakayanagi's Short Story: Feelings of Concern
+[scene] (p.232) Sakayanagi recounts the bench scene from her POV — Ayanokōji's lines that cut her deepest; her own reluctant recognition.
+[says:ayanokouji-kiyotaka] (p.232) “I DON’T LIKE IT. I don’t like the idea of being assisted by you.”
+[says:ayanokouji-kiyotaka] (p.232) “But that’s why I’m here. I’m standing here to help you.”
+[note] (p.232) She finds the scene too revealing; the SS recounts the same dialogue from her own POV.
+[says:ayanokouji-kiyotaka] (p.232) “Your miscalculation was that Kamuro's presence was larger than you thought at face value. You made the decision to draw lots because you wanted to think that Kamuro was no different from the rest.”
+[says:ayanokouji-kiyotaka] (p.232) “I haven’t made any friends throughout my time in primary and secondary school. I couldn’t blend in with immature people of a lower intellectual level.”
+[says:ayanokouji-kiyotaka] (p.232) “It hasn’t changed even at this school. Masumi-san, Hashimoto-kun, and Kitō-kun were the same. They were close to me, but only to be used as tools. Nothing more, nothing less. I saw them as strangers.”
+[says:ayanokouji-kiyotaka] (p.232) “So I thought it wouldn’t matter who disappeared...”
+[says:ayanokouji-kiyotaka] (p.232) “It seems that, somewhere along the line, Masumi-san became a friend to me.”
+[says:sakayanagi-arisu] (p.232) “He is truly… a dreadful person.”
+[note] (p.232) The SS recounts the bench scene from her POV; AK's lines dominate; Sakayanagi is mostly silent.
+
+<!-- walk: y2v10 Epilogue → p.235 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

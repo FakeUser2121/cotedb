@@ -426,6 +426,89 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [rel:hashimoto-masayoshi] (p.103–104) Her suspicion-filter; bad at calming him.
 
 <!-- walk: y2v10 Ch.5 → p.122 -->
+
+### y2v10 p.138, 154–157, 187 — Ch.6: The premium elimination
+[scene] (p.138) Eliminated in the first half — the scoreboard shows Sakayanagi's class at 29 points with two eliminated — Kamuro, Yamamura.
+[scene] (p.154) Offered lunch by Sakayanagi; she goes with him; the two leave the exam hall together; she's honoured to be treated as an equal.
+[scene] (p.155) The two-person table across from AK and Horikita; she watches the mafia work; she is neither angry nor embarrassed.
+[scene] (p.157) Ryūen turns on them with his wolf-pack taunt; she pauses with her chopsticks halfway, then glares back without a word.
+[scene] (p.157) Ryūen calls her out on her relaxation; she doesn't reply; he laughs it off himself.
+[scene] (p.159) Referenced in passing by Ryūen — she's as valuable to Sakayanagi as Yamamura; the exam's quietest asset.
+[rel:sakayanagi-arisu] (p.138, 154–157) Her favourite subordinate; the one she trusted most; the loss will hurt.
+[rel:kitou-hayato] (p.154–156) The food courier; he buys her lunch; their respect is mutual.
+[rel:hashimoto-masayoshi] (p.148–153) The intel-provider; he keeps her in the loop on everything.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.193–199, 217–220 — Ch.7/Epilogue: The lottery's colored paper
+[scene] (p.193) She is one of the five eliminated in this exam — Kamuro Masumi, Yamamura Miki, Sugio Hiroshi, Toba Shigeru, Machida Kōji; Sakayanagi refuses to grade them and announces a lottery.
+[says:sakayanagi-arisu] (p.193) “Normally, it would be proper to decide based on the contribution to the class, but we won’t do that. The reason is simple. From my perspective, the five of you are all on the same level.”
+[says:machida-kouji] (p.193) “So, how are we gonna decide then…?”
+[says:sakayanagi-arisu] (p.193) “We should draw lots and decide on who to expel fairly.”
+[says:sakayanagi-arisu] (p.193) “Are you dissatisfied? Unfortunately, it won’t make a big difference who is expelled.”
+[scene] (p.194) Machida draws first; Sugio and Toba follow; plain lots; the survivors relax.
+[says:sakayanagi-arisu] (p.194) “It's pointless to object. The leader has the right to decide on who to expel.”
+[says:morishita-ai] (p.194) “I’ve prepared the lots.”
+[says:sakayanagi-arisu] (p.194) “Who would like to draw first? Whether you’re the first or last to draw, your odds start the same.”
+[says:morishita-ai] (p.194) “Who would like to draw first? Whether you’re the first or last to draw, your odds start the same.”
+[scene] (p.195) Only Kamuro and Yamamura remain; Yamamura freezes; Kamuro forces her to draw a lot together.
+[says:sakayanagi-arisu] (p.194) “You go ahead and draw.”
+[says:yamamura-miki] (p.195) “I-I, I am...”
+[says:kamuro-masumi] (p.195) “Geez. Then I’ll draw it first. Is that okay?”
+[scene] (p.195) They open their hands together; the colored paper is in Kamuro's.
+[says:yamamura-miki] (p.195) “Ah, eh...”
+[scene] (p.196) She gently pats Yamamura's shoulder; she is oddly calm; her classmates stare in silence.
+[scene] (p.197) Class A is engulfed by silence; she returns to her seat; Sakayanagi discharges the class.
+[says:sakayanagi-arisu] (p.197) “Well then, let’s consider this special exam completed.”
+[scene] (p.199) The final results are posted: Class D 69, Class C 62, Class B 59, Class A 53.
+[scene] (p.217–220) She waits outside the staff room after her appointment with the teacher; Ayanokōji and Sakayanagi wait for her; she emerges without apparent shock.
+[says:kamuro-masumi] (p.217) “What are you guys doing here?”
+[says:sakayanagi-arisu] (p.217) “We were waiting for you, Masumi-san. Should we not have done so?”
+[says:kamuro-masumi] (p.217) “That’s not it, but why did you come?”
+[says:sakayanagi-arisu] (p.217) “He’s on a social studies field trip.”
+[says:sakayanagi-arisu] (p.217) “He’s on a social studies field trip.”
+[says:kamuro-masumi] (p.218) “Don’t tell me you feel guilty? That couldn’t be right. What about Ayanokōji?”
+[says:ayanokouji-kiyotaka] (p.218) “A surprising student had to withdraw. I’d be lying if I said I wasn’t curious.”
+[says:kamuro-masumi] (p.218) “You’re surprised by me? Even though I’m the type of person who shoplifts without hesitation?”
+[says:ayanokouji-kiyotaka] (p.218) “That’s in the past. At least, overall, you weren’t one of the bottom students in the class. I don’t know how Sakayanagi chose who to expel, so it’s only natural that I’m surprised.”
+[says:ayanokouji-kiyotaka] (p.218) “The expulsion was chosen by lottery.”
+[says:sakayanagi-arisu] (p.218) “Do you think I made an uncharacteristic decision?”
+[says:ayanokouji-kiyotaka] (p.218) “I wonder. I’d rather ask Kamuro how she feels since she was chosen to be expelled by lottery.”
+[says:kamuro-masumi] (p.218) “How do I feel? I just feel strange. Until this morning, I was leading a normal school life. I was even thinking about trivial things like how to spend my next day off. Then, all of a sudden, I’m expelled. This was completely unexpected.”
+[says:sakayanagi-arisu] (p.218) “It’s my fault. I’ve done something terrible to you, haven’t I?”
+[says:kamuro-masumi] (p.218) “No, that’s okay—”
+[says:kamuro-masumi] (p.218) “I’m not blaming you. I don’t expect you to do anything. I’ve always thought that it wouldn’t matter if I was expelled one day.”
+[says:kamuro-masumi] (p.219) “You’re being unnecessarily nosy.”
+[says:sakayanagi-arisu] (p.219) “I was ready to accept one or two complaints…”
+[says:kamuro-masumi] (p.219) “You’re being unnecessarily nosy.”
+[says:sakayanagi-arisu] (p.219) “What do you plan on doing after dropping out of school?”
+[says:kamuro-masumi] (p.219) “Even if I’m expelled, there are several high schools that will accept me as a transfer student if I pass the exams. My parents are nagging me to graduate high school, so I’m considering that for now.”
+[says:kamuro-masumi] (p.219) “Starting tomorrow, I won’t be here, so find a replacement quickly.”
+[says:sakayanagi-arisu] (p.219) “I understand... Masumi-san—”
+[says:kamuro-masumi] (p.219) “What is it?”
+[says:sakayanagi-arisu] (p.219) “No, it’s nothing.”
+[scene] (p.219) Sakayanagi stumbles; Kamuro comes back to help her up; they walk together.
+[says:sakayanagi-arisu] (p.219) “Don’t you have anything to say?”
+[says:sakayanagi-arisu] (p.219) “Don’t you have anything to say?”
+[says:kamuro-masumi] (p.219) “Huh? Do you want me to blame you? Ask why you made me withdraw?”
+[says:sakayanagi-arisu] (p.219) “That’s not what I mean. I just have a responsibility to listen to you.”
+[says:kamuro-masumi] (p.219) “What nonsense—”
+[says:kamuro-masumi] (p.219) “Honestly, you... although you’re smart, you’re kind of stupid. I’m just realizing this now.”
+[says:sakayanagi-arisu] (p.219) “You can’t just leave it at that. What do you mean?”
+[says:kamuro-masumi] (p.219) “If you have a responsibility to listen, then just listen quietly.”
+[says:kamuro-masumi] (p.219) “Then, here it is. I have no lingering affection for this school, but promise me one thing.”
+[says:sakayanagi-arisu] (p.219) “A promise? What is it?”
+[says:kamuro-masumi] (p.219) “It’s not about me. Just make sure the class traitor goes down the same path. Can you promise that?”
+[says:sakayanagi-arisu] (p.220) “Is that your wish?”
+[says:kamuro-masumi] (p.220) “Yes, just that. Can you do it?”
+[says:sakayanagi-arisu] (p.220) “I promise. I will not forgive the traitor. I promise to get rid of them no matter what. Of course, I will not let the class lose as a consequence.”
+[says:kamuro-masumi] (p.220) “You’re also responsible for checking if Sakayanagi has kept her promise, Ayanokōji.”
+[says:ayanokouji-kiyotaka] (p.220) “It seems like a needless responsibility, but I’ll accept it.”
+[says:kamuro-masumi] (p.220) “Good, then it’s okay. Sorry, but this is where we part ways. I’m not a student of this school anymore, and I don’t need to take care of you, right?”
+[scene] (p.220) Kamuro is gone; Sakayanagi stays; she and Ayanokōji part ways in silence.
+[rel:sakayanagi-arisu] (p.193–218) The most painful lottery in her life — she chose the randomness herself and lost someone real.
+
+<!-- walk: y2v10 Ch.7 → p.216 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

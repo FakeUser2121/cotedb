@@ -58,9 +58,11 @@ char_id: sonoda-masashi · class: unknown · status: unknown
 [note] (p.9) Passing mention (locator pages: p.129; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.129 — Ch.6: The slot not holding
+[mentioned] (p.129) Named in defensive bookkeeping — one of the five Horikita protects; the monitor shows only Okitani and Ike among the successfully protected.
+[note] (p.129) The monitor prints one Sonoda among the successfully protected five; the typeset does not tell the two roster entries (Sonoda Chiyo, Sonoda Masashi) apart on these pages.
 
-
-
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

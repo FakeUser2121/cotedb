@@ -1359,6 +1359,17 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:horikita-suzune] (p.81–88) She takes his strategy seriously; he's crestfallen but oddly relieved.
 
 <!-- walk: y2v10 Ch.4 → p.100 -->
+
+### y2v10 p.128, 131, 165–166, 168 — Ch.6: The canary in the coal mine
+[scene] (p.128) When the English problem appears; his head hits the table; he cries out; he recovers.
+[says] (p.128) “What is this? Isn’t this difficult!?”
+[scene] (p.131) Turn 2 — he's one of the protected; he hears his name; the room breathes; he witnesses the Keisei fumble.
+[scene] (p.166) Turn 12 — the perfect-protection streak; his jaw drops; he clutches his head in both hands in horror.
+[says] (p.166) “What kind of odds are those!? They’re too lucky!?”
+[scene] (p.168) He watches the exam evolve; his trust in Horikita never wavers — not once.
+[voice] (p.128) Open book; reacts instantly; the emotional reactor of the class.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

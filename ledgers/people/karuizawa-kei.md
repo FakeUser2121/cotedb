@@ -2035,6 +2035,25 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:watanabe-norihito] (p.106) The school-trip group member AK mentioned.
 
 <!-- walk: y2v10 Ch.5 → p.122 -->
+
+### y2v10 p.164–170, 183, 185–188 — Ch.6: The long nomination
+[scene] (p.165) She is nominated alongside AK in turn 11's Sports D1; her first mistake — the Infield Fly; she leaves the tablet convinced she has let the class down.
+[says] (p.166) “I’m not being targeted, am I!?”
+[scene] (p.166) She springs to her feet; her voice rises; she cannot hide that she suspects she is being targeted.
+[scene] (p.167) Turn 12, last leg — the tapiru question; she answers correctly; she gets a second wind; she watches AK freeze on it.
+[scene] (p.170) Turn 13 — she is nominated for the third time in a row; Horikita finally protects her; her complexion is off.
+[scene] (p.171) Turn 14 — she is nominated for the fourth time in a row — a new exam record; Horikita protects her again; Satō watches with concern.
+[scene] (p.183) She is still the target — every second-half turn nominates her; ten nominations total; Horikita never lets her go.
+[says] (p.187) “Stop it… What is this…?”
+[says] (p.188) “Why are you only targeting me… That’s not fair…”
+[scene] (p.188) Turns 15–20: the carousel never stops; she survives every onslaught; the class watches her with horror and pride.
+[voice] (p.166) Hyperventilating at any hint of personal attention; her pride gets her through; she cannot hide her feelings.
+[limit] (p.188) She cannot escape the target carousel; Horikita is her only armor.
+[rel:horikita-suzune] (p.164–188) The shield she never asked for; the leader keeps her alive turn after turn.
+[rel:ichinose-honami] (p.164–188) The relentless attacker who never tires of her name.
+[rel:satou-maya] (p.170, 187) Her anchor in the storm; Satō worries aloud; she is the compassionate one.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v10.25
 
 <!-- walk: y2v10.25 → start -->

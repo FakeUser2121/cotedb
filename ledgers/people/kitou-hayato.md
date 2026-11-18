@@ -263,6 +263,16 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 [rel:kamuro-masumi] (p.103) Fellow orbit; same deal.
 
 <!-- walk: y2v10 Ch.5 → p.122 -->
+
+### y2v10 p.146, 156–157, 161 — Ch.6: The food-runner
+[scene] (p.146) Listed among the six Sakayanagi is watching — he's one of the protected five? no; he's one of the Class A members who received Ryūen's attention.
+[scene] (p.154) Buys Sakayanagi's lunch; the trays in hand; the entrance-hall camaraderie; he shields her from everything.
+[scene] (p.156) He stands up with controlled hostility when Ryūen crashes the table; Sakayanagi defuses him with a word; he sits back down.
+[says] (p.156) “Get lost.”
+[scene] (p.157) The wolf taunt is over; he disappears into the background; his purpose is clear — he protects her at all costs.
+[note] (p.156) "Kitō-kun" — the diminutive from Sakayanagi; he's her right-hand man.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

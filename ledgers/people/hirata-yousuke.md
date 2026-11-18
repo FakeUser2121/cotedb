@@ -2024,6 +2024,18 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:horikita-suzune] (p.81) Their secret exam preparation is the connective tissue of Class D's strategy.
 
 <!-- walk: y2v10 Ch.4 → p.100 -->
+
+### y2v10 p.134, 136, 139, 155–156, 159, 187 — Ch.6: The quiet strength
+[scene] (p.134) Kōenji walks past him on his way to his seat; he's sitting right next to AK; he's the one who gives the warning first.
+[says] (p.134) “Kōenji-kun. Although we can’t force you as a class, I think it would be prudent to get this right for your own sake.”
+[scene] (p.136) Turn 4 — Kōenji answers; he's the most surprised in the room; he springs up instantly.
+[scene] (p.139) He genuinely celebrates Horikita's showing; he's her quiet stabilizer.
+[says] (p.139) “Your strategy worked out, Horikita-san,”
+[scene] (p.159) Cafeteria lunch; he's at the two-person table; he does the proper friend thing; he never lets Sakayanagi buy.
+[scene] (p.187) Turn 15 defense; three answered right; he watches Kei with the eyes of an older brother; he speaks for the class with zero hesitation.
+[rel:horikita-suzune] (p.139) His genuine gratitude; the steadying hand; the warm heart behind the wall.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

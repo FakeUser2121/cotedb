@@ -4630,7 +4630,6 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (p.123) She's in full command; she single-handedly shaped the first half to a draw.
 [rel:sakayanagi-arisu] (p.155–161) Lunch meeting clashes with Sakayanagi-arisu's rise; she's a calm leader.
 
-<!-- walk: y2v10 Ch.6 → p.188 -->
 
 ### y2v10 p.16–26 — Ch.1: "Ibuki-san's lunchbox" wager
 [scene] (p.16) After Kei's group heads off to cafeteria, she appears behind him and offers to treat him; she proposes eating Ibuki's first-ever home bento on an empty outdoor bench as a full-blooded gamble.
@@ -4853,6 +4852,107 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:hirata-yousuke] (p.81–90) Their secret exam preparation partnership is what the “usual location” means.
 
 <!-- walk: y2v10 Ch.4 → p.100 -->
+
+### y2v10 p.123–188 — Ch.6: The special exam; the leader's exam
+[scene] (p.123) The classroom is rearranged for the exam; she takes her seat behind him; Sakagami arrives; the monitor does the talking.
+[says] (p.123) “Do you feel at ease?”
+[says] (p.123) “I’m sorry, but I absolutely won’t use the protection on you.”
+[says] (p.123) “Shut up. I’ll stab you.”
+[scene] (p.126–127) First instruction: "we're starting while flying blind"; she reaches for the main tablet; communicates her choices to Sakagami — English D1; the room watches her decisions like a sermon.
+[says] (p.126) “We’re starting while flying blind. Let’s just proceed as discussed with Hirata-kun and the others.”
+[scene] (p.129) Defending, she protects five — Sonoda, Ichihashi, Okitani, Ike, Makida; Kōenji absent; Okitani and Ike successfully protected; she nets two points.
+[says] (p.130) “The exam only puts you at risk of expulsion if you get eliminated. I decided he was safe until he got two questions wrong. There’s no other reason to protect him from the onset.”
+[says] (p.130) “However, in return, of course, Kōenji-kun is free to either answer the given task seriously or leave it blank. Are you fine with that?”
+[scene] (p.131) Second turn — Gourmet Food D1; the nominees are Kōenji, Hasebe, Hirata, Yukimura and Onodera; Kōenji blanks; Yukimura answers wrong and smacks the desk on his way to the correct answer; three points earned; we climb to six.
+[scene] (p.133) Third turn — Gourmet Food D1 again; Kōenji blanks again; Keisei raises his hand for the second time, still unprotected? no — she hints she'll protect him; she protects no one; the four others answer correctly; 10 points.
+[says] (p.133) “I’m not that worried about you. But, just to be safe, if I feel like you’re being attacked in the same category again, I’m going to protect you. Alright?”
+[scene] (p.135) Fourth turn — Sakayanagi spends a point on D2; she held Kōenji out of the five protected; OK shows his hand: Kōenji answers — correctly — avoiding elimination; she improvises, correctly, against the read.
+[scene] (p.137–138) Kōenji confronts her; she dispenses with ceremony — she was ready for him; the exchange is short, violent, polite; he walks back to his seat.
+[says] (p.137) “You’re not out. You don’t have to worry about being eliminated at this point, right?”
+[says] (p.137) “Reasons? Was there a problem?”
+[says] (p.137) “But you gave the correct answer.”
+[says] (p.137) “If you understand, could you go back to your seat? From your height, you’re blocking my view of the monitor.”
+[scene] (p.138) End of the first half — the scoreboard: 29 (Sakayanagi), 28 (her), 24 (Ichinose, zero out), 19 (Ryūen).
+[scene] (p.139) Yōsuke tells her she did well; she doesn't celebrate; she keeps her target firmly on Ichinose.
+[note] (p.139) “Yes, her stance hasn’t changed even in this special exam. Thanks to that, we managed to keep things under control.” — untagged; no attribution assigned; the exchange celebrates her tactic without naming it.
+[note] (p.139) “In the second half, Ichinose-san will have to protect her class from Ryūen-kun. That could be tough.” — untagged; attribution open; the place reading swings both ways.
+[note] (p.140) “Assuming she gives up protecting everyone in the second half, perhaps, but...” — untagged; attribution open.
+[note] (p.139–140) An untagged analysis on these pages states the school designs questions so roughly half answer correctly at D1, about 20% at D2, only around 10% at D3 — with no name on it; attribution open; AK later restates it to himself in the exam's aftermath.
+[scene] (p.141) Lunchtime; she's cornered in the corridor; the naming-order tripwire; she plays it cool.
+[says] (p.141) “I wonder if there was such a pattern... I honestly didn’t pay attention to the order. It wasn’t in alphabetical order, or boys first and then girls either, was it?”
+[says] (p.143) “But then, why did she not target him after the fifth round? I chose not to protect him with the protection slot, didn’t I?”
+[says] (p.142) “...You knew, huh?”
+[says] (p.142) “That’s right. I never promised to protect Kōenji-kun’s Protection Point. As long as he isn’t expelled, my promise holds. There is no reason to hold a grudge.”
+[says] (p.143) “Thank you. I will be careful about that from now on.”
+[says] (p.143) “I didn’t have time to make a boxed lunch, so maybe I should go to the cafeteria. How about you?”
+[scene] (p.143) Lunch with Sakayanagi crashes in; the mafia act; she endures; Ryūen's parting shot lingers.
+[scene] (p.162–173) Second half looms; Sakagami hasn’t yet given the mark; she stands at the podium; the room empties of pretense.
+[says] (p.163) “Class A is truly a formidable enemy. They held the top spot for all 10 turns of the first half. But it’s important not to focus too much on that and face the special exam seriously. After all, the only way for us to accumulate points is for us to solve the questions correctly.”
+[says] (p.163) “Do you remember when I asked for your ideas during the preparation period? I’ve organized that information and I believe I’ve found a hole.”
+[scene] (p.164) Turn 11 — she spends a point, Literature D2; one protection fails; three of four miss; we gain two points.
+[scene] (p.165) Turn 11 defense — Sports D1; Kei nominated alongside AK; she answers wrong; he answers correctly; we temporarily surge past Sakayanagi.
+[scene] (p.167) Turn 12, last leg — News D1; AK and Kei nominated again; he freezes on ‘tapiru’; she answers correctly; we pull four points.
+[scene] (p.170) Turn 13 defense — Ichinose nominates Kei for the third time in a row; she finally protects her; her complexion is off.
+[says] (p.171) “That’s true. It might be best to protect once more.”
+[scene] (p.171) Turn 14 defense — Ichinose nominates Kei for the fourth time in a row; she protects her again; Kei sets a new exam record.
+[scene] (p.185) Turn 15 — the four classes are side by side; she stands on the podium; the moment of truth; no panic rescue.
+[says] (p.185) “Admittedly, the situation is close to dire. Our class has four eliminations at this point. Ichinose-san has taken the lead, and Ryūen-kun’s class, which was in last place, is catching up at an absurd pace with continuous perfect scores. We’ve reached a point where I can’t guarantee that we’ll definitely win.”
+[says] (p.187) “All we can do is fight together until the end.”
+[says] (p.187) “Believe in me.”
+[scene] (p.187) Turn 15 defense — she protects Kei, Satō and Miyake; all correct; five-point leap; Kei short-circuits; the class roars back.
+[scene] (p.188) Turn 16-20 — she protects Kei every single time; the carousel never stops; the class is terrified but still answers; she carries them all the way.
+[note] (p.130) The two-strikes buffer holds until turn four, when Kōenji answers correctly on his own terms.
+[trait] (p.123, 140, 185) Unbreakable public face; gut-level risk calculations absorb the blows; the leader's oath overrides every personal tie.
+[limit] (p.171, 185) Cannot produce a miracle; her class senses fear; she cannot guarantee anything.
+[rel:ayanokouji-kiyotaka] (p.123–188) He sees through her; she sees through him; the exam is the battleground for whatever they're becoming.
+[rel:kouenji-rokusuke] (p.129–138, 142) The two-strike gamble she won; he never trusted her — she never needed him to.
+[rel:karuizawa-kei] (p.165–188) God-target; she protects her every single time because she's too easy a target to leave open.
+[rel:ichinose-honami] (p.106, 165, 187) The foil; she respects Horikita's class; she weaponizes Ichinose's style against her.
+[rel:ibuki-mio] (p.94–96) The hypothetical; it never comes up during the exam.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.200–201 — Ch.7: The debrief hallway talk
+[scene] (p.200) After Ichinose leaves, AK and Horikita walk to the corridor where they can talk; she reflects on the result and what it means for her class.
+[says:ayanokouji-kiyotaka] (p.200) “We lost this time. In the second half, it was clear that there must have been some kind of deal between Ryūen-kun’s and Ichinose-san’s classes... Of course, without any evidence, it’s just speculation, but his class gave points to Ichinose-san’s class, which elevated them to second place, without a single elimination.”
+[says:horikita-suzune] (p.200) “Exactly, but that’s not the main point.”
+[says:horikita-suzune] (p.200) “If two classes colluded, they basically had to start working together from the first half. Only by assisting each other could both parties benefit and share the victory. So I was fully relieved when there were no signs of it even after the first half was over.”
+[says:ayanokouji-kiyotaka] (p.200) “It wasn’t just you. Sakayanagi couldn’t have expected it either.”
+[note] (p.201) “But the turning point of all this was that Ryūen was able to sense all of Sakayanagi’s attack targets beforehand.” — untagged in the print; none assigned.
+[note] (p.201) “Someone leaked Class A’s information to him... That’s the only explanation.” — untagged in the print; none assigned.
+[note] (p.201) “That seems to be the case.” — untagged in the print; none assigned.
+[note] (p.201) “That student is insane. I can’t imagine something like clearly betraying the class. This wasn’t Class D or Class C, but a class that has maintained A since enrollment. What did they get in return for executing this?” — untagged in the print; none assigned.
+[note] (p.201) “They could betray their class if they were being paid 20 million points. Other than that, they probably wouldn’t do it.” — untagged in the print; none assigned.
+[says:horikita-suzune] (p.201) “I’m not thrilled with the outcome, but I can’t complain. Although it’s disappointing not coming in first, Class A ended up being fourth, so there’s basically no damage done. However… I still feel frustrated.”
+[says:ayanokouji-kiyotaka] (p.201) “Take that frustration to the next special exam.”
+[says:horikita-suzune] (p.201) “Okay... I’ll do that.”
+[says:horikita-suzune] (p.201) “I’m going to check out Ryūen’s class. What are you going to do?”
+[says:ayanokouji-kiyotaka] (p.201) “I’ll go home for today. I don’t have the confidence that I can listen to his sarcasm maturely.”
+
+<!-- walk: y2v10 Ch.7 → p.216 -->
+
+### y2v10 p.230–231 — SS: Suzune Horikita’s Short Story: Unconscious Awakening
+[scene] (p.230) Horikita recounts the coffee scene from her own POV — the same one the main volume told chronologically; she finds him wryly funny.
+[says:ayanokouji-kiyotaka] (p.230) “You better take a break to calm down.”
+[says:horikita-suzune] (p.230) “Yes, you’re right...”
+[says:horikita-suzune] (p.230) “It’s gotten cold.”
+[says:ayanokouji-kiyotaka] (p.230) “It’s gotten cold, hasn’t it?”
+[says:ayanokouji-kiyotaka] (p.230) “Don’t copy me.”
+[says:horikita-suzune] (p.230) “Please don’t copy me.”
+[says:horikita-suzune] (p.230) “Eh—?”
+[says:ayanokouji-kiyotaka] (p.230) “What’s wrong?”
+[says:horikita-suzune] (p.230) “No... that... I just... saw you smile a little...”
+[says:ayanokouji-kiyotaka] (p.230) “Huh? So, what’s wrong with that?”
+[says:horikita-suzune] (p.230) “It’s just that I feel like I’ve never seen that expression on your face in the last two years...”
+[says:ayanokouji-kiyotaka] (p.231) “How rude. I’m not a baby who’s just learned to smile.”
+[says:ayanokouji-kiyotaka] (p.231) “You’re right, it might’ve been a rare moment.”
+[says:ayanokouji-kiyotaka] (p.231) “I wonder why I smiled. Would you know if you were the one who smiled?”
+[says:horikita-suzune] (p.231) “I... I wouldn’t know either if you asked me with such a serious face.”
+[says:ayanokouji-kiyotaka] (p.231) “So, it’s not that something particularly funny happened, right?”
+[says:horikita-suzune] (p.231) “...As I said, I wouldn’t know even if you asked me. Because of your strange thinking, I feel like a fool for laughing as well...”
+[note] (p.230–231) The SS recounts the coffee scene from her POV; the same dialogue runs in both directions, mirrored; no new facts.
+
+<!-- walk: y2v10 Epilogue → p.235 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

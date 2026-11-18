@@ -37,9 +37,12 @@ char_id: isoyama-nagisa · class: unknown · status: unknown
 [note] (p.9) Passing mention (locator pages: p.138, p.189; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.128, 138 — Ch.6: Out in the eighth turn
+[mentioned] (p.128) Present in Ryūen's class; the exam is brutal on his class; he's one of the first to go.
+[mentioned] (p.138) Eliminated in the eighth turn alongside Yano; the first half scoreboard shows Ryūen's class at 19 points with four eliminated — Ishizaki, Isoyama, Yano, Morofuji.
+[note] (p.138) No dialogue attributed to him; he is only in the monitor's elimination list.
 
-
-
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

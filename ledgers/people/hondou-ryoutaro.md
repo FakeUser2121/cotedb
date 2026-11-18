@@ -184,6 +184,13 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 [rel:ike-kanji] (p.83–85) Starts as the loudest skeptic; absorbed by the arithmetic; leaves acknowledging it.
 
 <!-- walk: y2v10 Ch.4 → p.100 -->
+
+### y2v10 p.84, 138 — Ch.6: The skeptic gone quiet
+[mentioned] (p.83) Present at the karaoke session; he made fun of Ike's plan with "What? If you did that, we’d be down 32 points right from the start!" — he was the loudest skeptic.
+[mentioned] (p.138) Eliminated in the last turn of the first half; his class's lineup is broken; the scoreboard shows Horikita's class at 28 points with four eliminated — Sotomura, Ijūin, Hondō.
+[note] (p.138) No further dialogue; the page does not give his last answer.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

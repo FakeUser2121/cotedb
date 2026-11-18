@@ -58,9 +58,11 @@ char_id: nomura-yuuji · class: Class 1-C (enrolled April 2015) · status: minor
 [note] (p.9) Passing mention (locator pages: p.164, p.175; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.164, 175–176 — Ch.6: The unlikely rescue
+[mentioned] (p.164) Named in Ryūen's protection list; he is Nomura Yūji — nobody would have predicted he'd be protected; he's one of the perfect five.
+[mentioned] (p.175) Protected in the same breath as Katsuragi, Shiina, Tokitō and Ibuki; the perfect protection streak continues.
 
-
-
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

@@ -375,6 +375,14 @@ char_id: morishita-ai · class: Class 2-A · status: unknown
 [rel:katsuragi-kouhei] (p.57) Class A co-leader named with Sakayanagi as the reason she kept quiet.
 
 <!-- walk: y2v10 Ch.2 → p.59 -->
+
+### y2v10 p.227–228 — SS: Ai Morishita's Short Story: On the Cold Bench
+[scene] (p.227) The bench where she usually sits and waits for Ayanokōji; she tries to relax in several positions before lying face-down on the bench seat.
+[scene] (p.228) Her POV of the earlier scene — the Keyaki Mall bench — from inside her own head.
+[note] (p.228) The SS recounts the same events of the main tale twice — once in narration third person, once in her first person.
+[rel:ayanokouji-kiyotaka] (p.227–228) She has been investigating him for class purposes; her interest in him is academic and warily professional; she wants to see the pattern he brings under stress.
+
+<!-- walk: y2v10 Epilogue → p.235 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

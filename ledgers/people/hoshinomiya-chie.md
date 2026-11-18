@@ -571,3 +571,17 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 [mentioned] (p.9) Passing mention only.
 
 <!-- walk: y2v12 Epilogue → p.228 -->
+
+### y2v10 p.144–153, 172–176 — Ch.6: The teacher in the room
+[scene] (p.144) She supervises Ryūen's class during the exam — at the podium; she calls the turns out; Ryūen ignores her until the last possible second.
+[scene] (p.147) She notices her students aren't panicking — she walks the room pretending to watch, peeking at their phones; Ishizaki has fallen asleep.
+[says] (p.147) “Kaneda-kun, it seems like you’re not doing anything. Are you fully prepared?”
+[scene] (p.149) She bursts out with relief at the lack of panic — she doesn't understand the situation; this class can't be shaken.
+[says] (p.149) “Everyone doesn’t seem to be panicking at all...”
+[scene] (p.172) She takes heat for the delay — Ryūen stalls at the podium; she attempts to move the turn forward; he pushes her aside gently.
+[says] (p.173) “W-wait, wait, wait. I’ll input it quickly.”
+[scene] (p.176) She sits through turn 18-19? — no; she doesn't have a seat on the podium anymore; she watches Ryūen sweep through the turns.
+[note] (p.144) She is the homeroom teacher type who feels outclassed by her own students' strategy — the pages show her struggling to keep up with the tempo.
+[trait] (p.147, 149) No-nonsense; observant; quietly defeated by the class's collective calm.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->

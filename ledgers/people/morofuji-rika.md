@@ -125,9 +125,12 @@ char_id: morofuji-rika · class: Class 1-D · status: minor (allies)
 [note] (p.9) Passing mention (locator pages: p.138, p.189; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.128, 138 — Ch.6: Out in the last turn of the first half
+[mentioned] (p.128) Present in Ryūen's class; the exam is brutal; he's one of the four to go.
+[mentioned] (p.138) Eliminated in the last turn of the first half alongside Hondō and Yamamura; the first half scoreboard shows Ryūen's class at 19 points with four eliminated — Ishizaki, Isoyama, Yano, Morofuji.
+[note] (p.138) No dialogue attributed to him.
 
-
-
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

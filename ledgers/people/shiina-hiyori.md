@@ -621,6 +621,53 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [note] (p.9) Passing mention (locator pages: p.164, p.175, p.189-190, p.229; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.164, 175–176 — Ch.6: The reliable shield
+[mentioned] (p.164) Named in Ryūen's protection list; she is Shiina Hiyori — she never made a sound during the exam; she's one of the perfect five.
+[mentioned] (p.175) Protected in the same breath as Katsuragi, Tokitō, Nomura and Ibuki; the perfect protection streak continues.
+[note] (p.164) The name printed is "Shiina Hiyori"; the roster entry is shiina-hiyori; no ambiguity on these pages.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.202–205 — Ch.7: The worried watcher
+[scene] (p.202) Ayanokōji approaches her and copies her while looking down from the hall window; Ishizaki and Katsuragi celebrate below; she is the one unsmiling among the group.
+[says:ayanokouji-kiyotaka] (p.202) “Just about time to taste the wine of victory, huh?”
+[says:shiina-hiyori] (p.202) “That seems to be the case.”
+[says:ayanokouji-kiyotaka] (p.204) “Aren’t you going?”
+[says:shiina-hiyori] (p.204) “Although I was invited, I declined today.”
+[says:ayanokouji-kiyotaka] (p.204) “Why?”
+[says:shiina-hiyori] (p.204) “Maybe because I just couldn’t feel like celebrating.”
+[says:shiina-hiyori] (p.204) “I felt uneasy seeing Ryūen-kun’s way of thinking and offensive approach today.”
+[says:ayanokouji-kiyotaka] (p.204) “He achieved first place against the odds. I think it was an excellent result.”
+[says:shiina-hiyori] (p.204) “We can say so if we only look at the result. However…”
+[says:shiina-hiyori] (p.205) “I have doubts if we can continue winning without incident using these methods.”
+[says:ayanokouji-kiyotaka] (p.205) “It wasn’t a conventional approach. Rather, it was more like treading carefully when it came to the class’s strengths.”
+[says:shiina-hiyori] (p.205) “We somehow managed this time, but we’re not going to be able to build upon this victory next time. I’m not saying we should lose, but we’ve lost a valuable opportunity for growth.”
+[says:ayanokouji-kiyotaka] (p.205) “You could be right.”
+[says:shiina-hiyori] (p.205) “The parts necessary for us to rise to class A also serve as obstacles. It’s troubling.”
+[says:ayanokouji-kiyotaka] (p.205) “If there’s a student who realizes this, there’s still hope for the class.”
+[scene] (p.205) She asks him to come to the library; he declines politely.
+[says:shiina-hiyori] (p.205) “I was thinking of going to the library later, would you like to come along?”
+[rel:ryuuen-kakeru] (p.202–205) His presence is the measure of her unease; she is loyal to him but not blind to the risks.
+[rel:katsuragi-kouhei] (p.202) He strides toward the mall; she tolerates his posturing silently.
+[rel:ishizaki-daichi] (p.202) He leaps about in the joy of the winner; she doesn’t share it today.
+
+<!-- walk: y2v10 Ch.7 → p.216 -->
+
+### y2v10 p.229 — SS: Shiina Hiyori's Short Story: A Small Spark
+[scene] (p.229) Hiyori recounts the hallway conversation with Ayanokōji from her own POV — the small spark of doubt about Ryūen's approach and the future of her class.
+[says:shiina-hiyori] (p.229) “The parts necessary for us to rise to Class A also serve as obstacles. It’s troubling.”
+[says:ayanokouji-kiyotaka] (p.229) “If there’s a student who realizes this, there’s still hope for the class.”
+[says:shiina-hiyori] (p.229) “I was thinking of going to the library later, would you like to come along?”
+[says:ayanokouji-kiyotaka] (p.229) “No, I’ll pass. I have other things on my mind.”
+[says:shiina-hiyori] (p.229) “You have a lot on your plate, don’t you, Ayanokōji-kun?”
+[says:ayanokouji-kiyotaka] (p.229) “There’s nothing really serious, though.”
+[says:shiina-hiyori] (p.229) “Let’s go together next time then.”
+[says:shiina-hiyori] (p.229) “I’m not doing well either, am I?”
+[note] (p.229) The SS recounts the hallway moments from Hiyori's POV; the text names her as the observer, not the observed.
+[rel:ryuuen-kakeru] (p.229) She has lost faith in his approach but cannot say so to his face; the gap between them is growing.
+[rel:katsuragi-kouhei] (p.229) He is the only one in Class D who truly sees her; his presence is a quiet anchor.
+
+<!-- walk: y2v10 Epilogue → p.235 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

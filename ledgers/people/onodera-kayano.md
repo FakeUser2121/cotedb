@@ -152,9 +152,12 @@ char_id: onodera-kayano · status: minor
 [note] (p.9) Passing mention (locator pages: p.132, p.148, p.188; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.131–132, 188 — Ch.6: The turn-2 answerer and twice-shielded colleague
+[scene] (p.131) Named in turn 2 — Gourmet Food D1, our defence — she answers correctly with Hasebe and Hirata; Kōenji blank, Yukimura-teruhiko misses, we pile up points.
+[scene] (p.188) Turn 18 defence — she stands with Kei and Hasebe Haruka as protected members.
+[note] (p.132) She is among the three correct students of turn 2; the page does not record her demeanor.
 
-
-
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

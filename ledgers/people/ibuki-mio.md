@@ -1164,6 +1164,14 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [note] (p.94) She gets no scene presence; her hypothetical exists only as the breaking point of Horikita's composure.
 
 <!-- walk: y2v10 Ch.4 → p.100 -->
+
+### y2v10 p.164, 175–176 — Ch.6: The vital asset
+[mentioned] (p.164) Named in Ryūen's protection list; she is the one who has absorbed the most attacks — Ibuki Mio; the perfect protection streak begins.
+[mentioned] (p.175) Protected in the same breath as Katsuragi, Shiina, Tokitō and Nomura; the perfect protection streak continues.
+[note] (p.164) Her name anchors Ryūen's protection list; she is the least likely of his five to be left open.
+[rel:ryuuen-kakeru] (p.164, 175) The hidden hand behind Ryūen's comeback; her presence is the move nobody saw coming.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

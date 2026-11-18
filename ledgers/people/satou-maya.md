@@ -540,6 +540,15 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [note] (p.11) Apparently she had witnessed the walk to school from behind.
 
 <!-- walk: y2v10 Ch.1 → p.30 -->
+
+### y2v10 p.134, 170, 187 — Ch.6: The turn-3 answerer and the shielded
+[scene] (p.134) Named in turn 3 — Gourmet Food D1 again — nominees Kōenji, Sōshi, Ijūin, Satō, Azuma; she is among the four who answered correctly.
+[scene] (p.170) Reaction to the Kei nomination — she's the one who spoke up in Kei's defense; "She's not the type to specifically set someone up."
+[says] (p.170) “She’s not the type to specifically set someone up.”
+[scene] (p.187) Turn 15 defence — she is successfully protected, along with Kei and Miyake; three names shielded.
+[rel:karuizawa-kei] (p.170, 187) The quiet defender; she worries aloud about Kei being singled out.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

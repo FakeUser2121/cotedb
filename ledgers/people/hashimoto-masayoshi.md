@@ -1015,6 +1015,46 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [rel:ayanokouji-kiyotaka] (p.8) Named as a possible opponent in his Class A revenge.
 
 <!-- walk: y2v10 Prologue → p.8 -->
+
+### y2v10 p.199–216 — Ch.7: The traitor accused
+[scene] (p.199) After the exam, he and a few others of Ryūen's class celebrate in high spirits; the vindication lap; the comeback payoff.
+[scene] (p.202) He is at Keyaki Mall with his entourage; Hiyori watches from the window.
+[scene] (p.206) He finds Sakayanagi sitting alone at a desk; she summons him to the remains of the exam.
+[says:sakayanagi-arisu] (p.206) “I’ve been waiting for you, Hashimoto-kun.”
+[says:hashimoto-masayoshi] (p.206) “Why did you want to meet me in such a place and with just the two of us?”
+[says:sakayanagi-arisu] (p.206) “It’s a reflection meeting.”
+[says:hashimoto-masayoshi] (p.206) “Well, that would be a little scary.”
+[says:hashimoto-masayoshi] (p.206) “I agree. It was disappointing, but I can’t blame you. No matter how I think about it, the class’s information must have leaked to Ryūen.”
+[says:sakayanagi-arisu] (p.206) “I thought you didn’t care who got expelled as long as it wasn’t you, Hashimoto-kun.”
+[says:hashimoto-masayoshi] (p.207) “We were comrades for two years, weren’t we? Even I would feel angry.”
+[says:sakayanagi-arisu] (p.207) “Yes, I suppose. But how do you think the class’s information was leaked?”
+[says:hashimoto-masayoshi] (p.207) “Normally you would think it was leaked via a phone. Simple and effective.”
+[says:sakayanagi-arisu] (p.207) “If that’s the case, why didn’t you take countermeasures when Morishita spoke up?”
+[says:hashimoto-masayoshi] (p.207) “No, that’s not it. I was just stating the facts.”
+[says:hashimoto-masayoshi] (p.208) “Who do you think is the traitor that caused Masumi-san to be expelled?”
+[says:sakayanagi-arisu] (p.209) “Hashimoto-kun, you’re the traitor who leaked our internal information, aren’t you?”
+[says:hashimoto-masayoshi] (p.209) “I figured that’s why I was called here. It’s not unreasonable to suspect me, after all. As you probably know, I have always been exploring the possibility of transferring to another class. I admit that. But think about it, would I jeopardize my position in Class A? It doesn’t make sense.”
+[says:hashimoto-masayoshi] (p.210) “That was Ryūen approaching me on his own accord. He just dragged me around.”
+[says:hashimoto-masayoshi] (p.210) “Who on earth took these photos? Was it your personal assistant, Yamamura?”
+[says:hashimoto-masayoshi] (p.210) “Gosh. It won’t be as simple as I thought. I admit it. I’ve surrendered.”
+[scene] (p.210–212) The counter-attack — his bluff about showing the phone history; her ask is only the Private Points history; the insurance logic and the borrowed-phone trick; the fee, about 500,000 points; he confesses on his own knees.
+[says:hashimoto-masayoshi] (p.211) “The information fee wasn’t high. About 500,000.”
+[says:sakayanagi-arisu] (p.211) “That’s a cheap price for betrayal.”
+[says:hashimoto-masayoshi] (p.211) “I kept it at that level. Private Points aren’t a problem, but that’s not why I betrayed you.”
+[scene] (p.212–213) He claims the betrayal was a means to an end — a way of guaranteeing Class A status; Ayanokōji is the proposed centerpiece.
+[says:hashimoto-masayoshi] (p.213) “Even if we lost class points this time, even if I turned out to be the traitor, and even if you have to expel me, I’ve decided that it doesn’t matter. That’s the resolution I had made.”
+[says:hashimoto-masayoshi] (p.213) “Unless I did this, I couldn’t convince you that I’m serious. At the end of winter break, I again suggested my idea to you. I want to pull Ayanokōji into our class.”
+[scene] (p.214–215) She reasons through his motives; she offers the transfer option they'd accept; he refuses the moral split.
+[says:sakayanagi-arisu] (p.215) “Of course. If you had pleaded for the class exchange ticket because you wished to transfer, I would’ve gladly given it to you.”
+[says:sakayanagi-arisu] (p.215) “Your intentions are transparent. Even though the future is unclear, you wouldn’t want to give up this class that currently holds the A position. However, Ayanokōji-kun scares you. You want to change classes, but there’s no guarantee after going to Class B. That’s why you won’t use a ticket. If you can’t move yourself, the only option left is to move someone else.”
+[says:hashimoto-masayoshi] (p.216) “I wanted you to understand, but it can’t be helped. I will continue to do the same thing. I will definitely convince Princess to bring in Ayanokōji.”
+[scene] (p.216) The final warning; Sakayanagi delivers it flat and sure.
+[says:sakayanagi-arisu] (p.216) “The special exam isn’t the only chance for expulsion. You understand that, don’t you?”
+[rel:ryuuen-kakeru] (p.206, 209–216) The broker who bought Hashimoto's silence; the price was 500,000 points.
+[rel:sakayanagi-arisu] (p.206–216) He gets caught flat-footed; he surrenders almost immediately once she drops the photo.
+[rel:sakayanagi-arisu] (p.216) The endgame begins — if he pushes again for Ayanokōji, she'll expel him.
+
+<!-- walk: y2v10 Ch.7 → p.216 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

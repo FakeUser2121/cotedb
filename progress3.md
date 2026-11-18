@@ -1832,3 +1832,4 @@ hash: `6bea783884c7cb8573db97157f0b718a`.
 | y2v11 coverage gate + repair | 223 | locator for all 85 roster characters; genuine mentions added; stubs (75) removed | 93c577b0961f22e536945cb796b91858 |
 | y2v11 + y2v12 depth passes merged to rebuild-from-origin | — | merged chain green: verify both ALL PASS; gate/build/check OK; hash docs de8d0590b53035111f4835f2fc2d0b01 (deterministic x2); docs rebuilt in merge | de8d0590b53035111f4835f2fc2d0b01 |
 | y2v10 Prologue+Ch.1 (pp.4-30) | 30 | verify ALL PASS (replica) | pending |
+| y2v10 Ch.6–Epilogue batch (this session) | 226 (Ch.6 66pp + Ch.7 28pp + Epilogue+SS 19pp) | 273 person sections; volume ledger rewritten (Ch.6/Ch.7/Epilogue + 4 SSs); make check/gate OK; R19 80≤baseline; R18 0; docs restored | 1592 | ba6f1ebcb64b8a61f1c3d2b0d2d9dca6 |

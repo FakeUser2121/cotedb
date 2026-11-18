@@ -49,9 +49,12 @@ char_id: sumida-makoto · status: minor
 [note] (p.9) Passing mention (locator pages: p.127; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.127–128 — Ch.6: The first attack
+[scene] (p.127) Named among our attack nominees — English D1; his name is on the list with Kobashi, Watanabe, Ninomiya and Shibata Sō.
+[scene] (p.128) He is not among the Correct Students; the attack's success fell to Kobashi and Shibata.
+[note] (p.128) He did not answer correctly; the page does not record his work or his mood.
 
-
-
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

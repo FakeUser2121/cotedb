@@ -36,9 +36,12 @@ char_id: sugio-hiroshi · class: unknown · status: unknown
 [note] (p.9) Passing mention (locator pages: p.193-194; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.193–196 — Ch.7: Sugio survives
+[scene] (p.194) He draws second — encouraged by Machida's plain lot — pulls an uncolored paper; the class holds a collective breath; he doesn't have it either.
+[scene] (p.195) Only Kamuro and Yamamura remain after he draws; the class shifts its gaze to the two remaining eliminated students.
+[note] (p.193) He is one of the five students eliminated in the special exam; the lottery spared him.
 
-
-
+<!-- walk: y2v10 Ch.7 → p.216 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

@@ -10482,7 +10482,7 @@ walk: y1v1 → DONE
 [scene] (p.135) Turn 4 — spends a point on D2; Horikita does not protect Kōenji (protects Shinohara and Sudō instead); this time Kōenji goes all in — the pen actually moves; he gets it right; no elimination; she smells weakness.
 [says:sudou-ken] (p.136) “What’s the matter, Kōenji? You were scared after all, weren’t you?!”
 [says:kouenji-rokusuke] (p.137) “I’ll leave that for you to decide.”
-[scene] (p.137–138) Kōenji comes to her desk afterward; the 'what’s your intention?' exchange; he returns to his seat; the class remains in disarray; he now has two strikes.
+[scene] (p.137) Kōenji comes to her desk afterward; the intention question — he probes her reasons for leaving him unprotected; she throws the question back at him; he returns to his seat; the class remains in disarray.
 [says:kouenji-rokusuke] (p.137) “What’s your intention? I’d like to hear your reasons.”
 [says:horikita-suzune] (p.137) “Reasons? Was there a problem?”
 [says:kouenji-rokusuke] (p.137) “Oh?”
@@ -10496,7 +10496,7 @@ walk: y1v1 → DONE
 ### y2v10 p.138–142 — Ch.6: The first-half standings; the calibration
 [scene] (p.138) Result — 1st: Sakayanagi [A] 29 (Kamuro, Yamamura out); 2nd: Horikita [B] 28; 3rd: Ichinose [C] 24 — no losses; 4th: Ryūen [D] 19.
 [says:hirata-yousuke] (p.139) “Your strategy worked out, Horikita-san,”
-[says] (p.139) “Yes, her stance hasn’t changed even in this special exam. Thanks to that, we managed to keep things under control.”
+[note] (p.139) “Yes, her stance hasn’t changed even in this special exam. Thanks to that, we managed to keep things under control.” — untagged in the print between Yōsuke's praise and the narration about her targeting of Ichinose; attribution open; the phrase "her stance" is ambiguous between Horikita and Ichinose on these pages.
 [note] (p.140) His own red panda News-question blunder — he wrote “dog”; Horikita's stare was glacial; he analyzes the calibration: D1 ≈ 50% correct, D2 ≈ 20%, D3 ≈ 10%.
 
 ### y2v10 p.141–143 — Ch.6: The lunchtime leak analysis

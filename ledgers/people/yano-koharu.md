@@ -36,9 +36,12 @@ char_id: yano-koharu · class: unknown · status: unknown
 [note] (p.9) Passing mention (locator pages: p.8, p.10, p.16, p.20-22, p.24, p.53; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.128, 138 — Ch.6: Out in the eighth turn
+[mentioned] (p.128) Present in Ryūen's class; the exam is brutal on him; he's one of the first to go.
+[mentioned] (p.138) Eliminated in the eighth turn alongside Isoyama; the first half scoreboard shows Ryūen's class at 19 points with four eliminated — Ishizaki, Isoyama, Yano, Morofuji.
+[note] (p.138) No dialogue attributed to him; he is only in the monitor's elimination list.
 
-
-
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

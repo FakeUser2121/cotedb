@@ -1541,6 +1541,12 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [note] (p.42) Pages 39–42 print the reward table (1st +100; 2nd/3rd −50; 4th −100; extension on tie; all-tie −100 each) and the bottom-rank expulsion rule as displayed slides, not as her speech beyond the line "as follows".
 
 <!-- walk: y2v10 Ch.2 → p.59 -->
+
+### y2v10 p.199 — Ch.7: The dismissal
+[scene] (p.199) She is present at the dismissal — announces the exam is complete; says details including Class A’s expulsion will follow next week; she dismisses class for the day.
+[note] (p.199) She reveals nothing about Class A’s fate beyond the order of events; the dismissal feels surreal after the long exam.
+
+<!-- walk: y2v10 Ch.7 → p.216 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

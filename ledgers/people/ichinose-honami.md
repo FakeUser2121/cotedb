@@ -2025,6 +2025,48 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:amikura-mako] (p.107–109) Her best friend; the fourth seat; she minds the breach with gentle rebuke.
 
 <!-- walk: y2v10 Ch.5 → p.122 -->
+
+### y2v10 p.127–136, 160, 163–188 — Ch.6: The unseen game-changer
+[scene] (p.127) Our class's lead attack lands on her plate: English D1; she protects Ninomiya and Watanabe — her two English-R strugglers; Kobashi and Shibata prove the rest right; she pockets four points.
+[says] (p.177) “We will absolutely avoid having anyone expelled from our class, so don’t get nervous and stay calm.”
+[says] (p.177) “Thank you, Horikita-san.”
+[says] (p.177) “I won’t abandon anyone. You believe me, right?”
+[says] (p.180) “I hope no one in the class, year, and school... gets expelled.”
+[says] (p.180) “Ryūen-kun, this might be sudden, but would you team up with me? I don’t want anyone expelled from my class. To achieve this, we need to finish the exam with zero eliminations. So, I want you to play defensively in the second half, so there are no eliminations from my class.”
+[scene] (p.180) The exchange is shown to the reader as Ichinose's phone screen; the entire gambit unfurls in the open.
+[says] (p.181) “Then, perhaps I’ll have to go all out…”
+[scene] (p.183) Her internal war: she urged herself to act for the class; she considers sacrificing Kei as the calculation the class demands; she finds she cannot shake her own feelings.
+[says] (p.183) “I would like to nominate Karuizawa Kei-san.”
+[scene] (p.184) She holds for half a breath — hold on, why is she calling Kei out? She's the one Horikita protects; her logic is crystal clear.
+[scene] (p.185–188) She nominates Kei without end — 16th, 17th, 18th, 19th, 20th turns — the same name, the same calm hands; every nomination comes back free of charge.
+[note] (p.112) Her earlier letters; she watches him with the mask of a classmate.
+[trait] (p.180) Zero eliminations is the promise she's honoring; the 25-point offer is the price Ryūen won't pay; she chooses principle over points.
+[limit] (p.183) Cannot stop herself from nominating the same name over and over; she loses the high ground; her "power" is Horikita's weakness; the exam becomes personal.
+[rel:ayanokouji-kiyotaka] (p.183–188) She watches him through the glass; she wants to prove something to him; the whole gambit bends toward him.
+[rel:karuizawa-kei] (p.165–188) The target she never tires of naming; her obsession-fueled attack; the target Horikita protects without end.
+[rel:ryuuen-kakeru] (p.180–183) The secret negotiation; she loses him at the final hurdle; her conscience wins (or loses) anyway.
+[rel:horikita-suzune] (p.170–188) The foil; she tests Horikita's promise with the Kei carousel; she discovers what protection means to Horikita.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.199–200 — Ch.7: The burst-in apology
+[scene] (p.199) Ichinose bursts into the Class B room right after the exam is declared complete; apologizes to Karuizawa; Satō jumps protectively in front of Kei; Horikita steps up from the back seat.
+[says:ichinose-honami] (p.199) “Sorry, Karuizawa-san!”
+[says:karuizawa-kei] (p.199) “Eh, Ichinose-san...!?”
+[says:horikita-suzune] (p.199) “Calm down, Karuizawa-san. Those mysterious consecutive nominations were Ichinose-san trying to throw us a lifeline.”
+[says:karuizawa-kei] (p.199) “Eh? What, what does that mean…?”
+[says:horikita-suzune] (p.199) “She was trying, in her own way, to give us points. Right?”
+[scene] (p.199) Ichinose explains the message: giving points wasn't natural to say, so they sent a message through consecutive nominations; she then notes that Horikita-san was the one who contacted her, not the other way around.
+[note] (p.200) Ichinose explains that Horikita was the one who contacted her, not the other way around; the importance is in the direction of contact.
+[note] (p.200) “We were also able to successfully protect a few people later thanks to Ichinose-san informing us of the nominees in advance.” — untagged in the print; none assigned.
+[note] (p.200) “Why would they... Why would they need to do that…?” — untagged in the print; none assigned.
+[note] (p.200) “To defeat Class A, probably. Essentially, every class in second place and below was able to fight so that no one would lose.” — untagged in the print; none assigned.
+[note] (p.200) “Yes, our only option was to face Sakayanagi-san head-on. That’s what we call a godsend.” — untagged in the print; none assigned.
+[says:karuizawa-kei] (p.200) “But, why did that have to be me?”
+[says:ichinose-honami] (p.200) “You, Karuizawa-san, have been playing a central role among the girls, and naturally, Horikita-san would think of protecting you from being eliminated, wouldn’t she? That’s why I planned to keep nominating you from the beginning. However, I thought you must’ve been feeling anxious, so I rushed over here. I’m truly sorry!”
+[scene] (p.201) Ichinose continues to apologize several times before leaving to be with her class; Kei processes the logic; Horikita accepts the end-of-fight read, walks out to the hallway to talk with Ayanokōji.
+
+<!-- walk: y2v10 Ch.7 → p.216 -->
 ## y2v10.25
 
 <!-- walk: y2v10.25 → start -->

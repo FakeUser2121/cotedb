@@ -2386,7 +2386,6 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [says] (p.176) "Heh. It seems you can't do anything, Sakayanagi."
 [note] (p.172) Ryūen, intent on revenge; he abandoned the face he had at twelve, chasing the revenge.
 
-<!-- walk: y2v10 Ch.6 → p.188 -->
 
 
 ### y2v10 p.9-235 — ryuuen-kakeru mentioned in passing
@@ -2426,6 +2425,53 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [note] (p.105) He is also Class A; the two of them pass each other at least outwardly civil; neither says why he was there. The pages leave the reason for the restroom encounter unspoken.
 
 <!-- walk: y2v10 Ch.5 → p.122 -->
+
+### y2v10 p.144–153, 156–161, 172–176, 180–184 — Ch.6: The hidden hand surfaces
+[scene] (p.144) The exam begins; Class C's lead attack lands on his class; he zones out staring at his phone for nearly a minute; classmates freeze; Hoshinomiya intervenes; his decision comes only at the deadline.
+[scene] (p.146) First Category Lifestyle D1: Kitō, Kamuro, Hashimoto, Machida, Yamamura; Sakayanagi protects Machida; three answer right; A gets four points; D receives one.
+[scene] (p.146) Fifth turn — he keeps targeting the same cluster (Kitō, Kamuro, Hashimoto, Yamamura, Machida, Sanada, Satonaka, Matoba); his class's defensive answer rate is dismal; they sit expressionless.
+[scene] (p.147) Kaneda — the advisor — is the only one not even touching his phone; he's the only one working; Ishizaki sleeps at his seat.
+[says:kaneda-satoru] (p.147) “I’ve been focusing on studying, and I try not to unnecessarily cram knowledge. It’s not good to disrupt the routine.”
+[scene] (p.154–158) The cafeteria lunch; he crashes their table — wolf among sheep; plays the threat; Yamamura leaves the table? no; he reveals nothing — he leaves early with a message for AK: watch silently.
+[says] (p.157) “Kuku! I just came as the wolf to check on this flock of sheep.”
+[says] (p.158) “I highly recommend you to fight more intelligently.”
+[says] (p.158) “Speaking of which, the only one not here is Ichinose, right?”
+[says] (p.160) “She’s prepared to lose in order to keep anyone from her class from getting expelled. She’s a seriously stupid woman.”
+[says] (p.161) “But next, I’ll be the one attacking your class. Even if the protection success rate increases as the elimination rate rises, I wonder how many points I can get.”
+[says:sakayanagi-arisu] (p.161) “I’ll look forward to it.”
+[scene] (p.161) He stands; brushes his hair; his face offers AK one glimpse of the beast behind the mask; the message is received.
+[scene] (p.172) POV interiorization — the beast; the promise he made to himself; he slowly gets up before the second half begins.
+[says] (p.173) “Well then—it’s about time to start. Move over.”
+[says] (p.173) “It’s the second half. The difference in points is only ten. In other words, catching up is possible if you get a perfect score a few times. I can count on you guys, right?”
+[scene] (p.175) Turn 11 defense — Sakayanagi attacks with Sports D3; he responds by declaring five names without hesitation: Katsuragi, Shiina, Tokitō, Nomura, Ibuki; every single one answers or is protected; he calls it "gambling".
+[says] (p.175) “Kuku! You’ve made mistakes twice and now have no room for more. If you fail, you’ll be the first to be nominated for expulsion among the rebellious types like you.”
+[says] (p.175) “Don’t joke around. It’s not just the class’s problem. Ryūen, you must understand that it’s hard for other classes to get perfect scores too. As a leader, you should use your wisdom to protect as many people as possible.”
+[says] (p.175) “Katsuragi, Shiina, Tokitō, Nomura, Ibuki. Get on with it.”
+[says] (p.176) “Gambling can be fun. It’s like randomly tossing a dice.”
+[says] (p.176) “Heh. It seems you can’t do anything, Sakayanagi.”
+[scene] (p.176) Turns 12–14: he names the same five; four perfect protections in a row; the class is glued to the monitor; Sakayanagi has no answer.
+[note] (p.176) By the time Sakayanagi figures it out, it's too late — they catch 24 points and tie with Ichinose.
+[scene] (p.180–184) Ichinose's offer; his terms; the actual contract delivered through her phone — he takes what he wants.
+[says] (p.180) “That’s a pretty selfish wish. Do you think I’ll just listen and obediently go along with it?”
+[says] (p.180) “I’ll agree to avoid eliminating any of your classmates, but your guaranteed 25 points are unnecessary. If you act strangely in the first half, Sakayanagi will see through it.”
+[says] (p.180) “After the offense and defense reversal in the second half, accept the points from me as necessary. And no details. Decide whether or not you trust me based on that.”
+[says] (p.183) “Stay quiet and live.”
+[says] (p.183) “Do you think I agreed out of goodwill? You being the last in line wouldn’t have benefited me. I just took the power to control the score as needed.”
+[note] (p.176) Ryūen's gambit relies entirely on Sakayanagi misreading his attack as weakness.
+[note] (p.180) The collusion is not a partnership — it's a transaction; the page prints the full thread.
+[trait] (p.172) The beast in the cage; the promise; the patience; nobody else does this.
+[rel:ichinose-honami] (p.180–184) The deal she can't refuse; he accepts only partial terms; he never explains them.
+[rel:sakayanagi-arisu] (p.172, 176) The target he's hunting; her counter is gambling-adjacent, his is mathematics.
+[rel:hoshinomiya-chie] (p.144, 145, 176) He treats his homeroom teacher as background noise; she is used to it.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.202–205 — Ch.7: The victory seen from the window
+[scene] (p.202) Ryūen's class is in high spirits; Ishizaki leaps for joy; Katsuragi walks majestically toward Keyaki Mall; Hiyori watches from the window with a forced smile.
+[scene] (p.204–205) He arrives to find Hiyori pale and thoughtful; her unease about Ryūen's gambles has not landed him in trouble — yet.
+[note] (p.205) He never once appears on these pages; the whole chapter is anchored on his effect, his entourage, and Hiyori's worry.
+
+<!-- walk: y2v10 Ch.7 → p.216 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

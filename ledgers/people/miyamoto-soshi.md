@@ -157,3 +157,10 @@ char_id: miyamoto-soshi · class: Class 1-D · status: minor
 [note] (p.84) He understood the paradox before Hondō did; his audible "Ah—" is the moment the room begins to believe.
 
 <!-- walk: y2v10 Ch.4 → p.100 -->
+
+### y2v10 p.164–166 — Ch.6: The surprise correct answer
+[scene] (p.165) Named in turn 11 — Ichinose's Sports D1 attack on our class — the question: the Infield Fly rule; he, Kei and AK are the three nominated; he answers correctly alongside AK.
+[scene] (p.166) Reaction from him and classmates — he's the one who answered the baseball question aloud from games; he shares joy with his classmates.
+[note] (p.165) "Miyamoto Sōshi" — not to be confused with Miyamoto whoever; the printed name is exact.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->

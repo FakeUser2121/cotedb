@@ -969,6 +969,22 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.85) Reference only; no scene presence; no dialogue.
 
 <!-- walk: y2v10 Ch.4 → p.100 -->
+
+### y2v10 p.144–145, 164, 175–176 — Ch.6: The stone wall
+[mentioned] (p.144) Referenced — Ryūen's class losing-organ? no; the pages introduce him as the one students turn to when Ryūen goes silent at the podium.
+[scene] (p.145) He does not move; he stands with his eyes closed, crosses his arms, and lets the offensive timer pass; he seems to know exactly what's coming.
+[scene] (p.164) Turn 11 defense — Sakayanagi hurls Sports D3; he and the other four are all successfully protected.
+[scene] (p.175) Turn 12 defense — Sakayanagi attacks again; he and the other four protected again.
+[scene] (p.176) Turn 13 & 14 — he is the perfect-defense anchor for the fourth consecutive time.
+[rel:ryuuen-kakeru] (p.144–145, 164, 175–176) The one the class turns to when Ryūen plays silent; his stillness reads as intent.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.202–205 — Ch.7: The one going to the mall
+[mentioned] (p.202–205) He appears at the celebration; his gait is majestic even when he bows; he is heading to Keyaki Mall early.
+[rel:shiina-hiyori] (p.205) Her worry registers him first; he doesn't reciprocate it in any way she can tell.
+
+<!-- walk: y2v10 Ch.7 → p.216 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

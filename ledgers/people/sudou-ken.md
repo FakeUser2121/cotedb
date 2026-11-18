@@ -1953,6 +1953,23 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [note] (p.50) His reminder forces Horikita to reveal the email on her phone in front of the whole class; the room absorbs that Kōenji demanded protection in writing.
 
 <!-- walk: y2v10 Ch.2 → p.59 -->
+
+### y2v10 p.130, 132–136, 163, 168 — Ch.6: The Kōenji educator persona
+[scene] (p.130) He keeps an eye on Kōenji; notices the non-answer patterns; his temper flares as the class takes hits; he makes himself the class's conscience.
+[says] (p.130) “H-hey, Suzune. Are you sure you don’t need to protect that guy?”
+[says] (p.130) “Well, yeah, that makes sense...”
+[scene] (p.132) He can't hold it in — Kōenji blank again, he explodes; he warns him publicly in front of everyone.
+[says] (p.132) “Hey! Kōenji, you’re not taking this seriously, are you?!”
+[scene] (p.133) Third turn, same blank; he roasts him again; Horikita refuses to intervene but her silence is telling.
+[says] (p.133) “Screw you... You’re just saying whatever you like...”
+[scene] (p.136) Turn 4 — Kōenji finally cracks; Sudō laughs at the timing; Sudō's hot-blooded exasperation cracks into relief.
+[says] (p.136) “What’s the matter, Kōenji? You were scared after all, weren’t you?!”
+[scene] (p.163) The class heads into the second half; he stands as the nervous column of the room; asks the question everyone wanted to ask.
+[says] (p.163) “How are we going to attack?”
+[scene] (p.168) He stays glued to the monitor during turns 11–14; he needs a plan that doesn't rely on mercy.
+[trait] (p.130) Hot-blooded, blunt, loyal to a fault; the conscience of Class B.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->
