@@ -1806,6 +1806,13 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:ayanokouji-kiyotaka] (p.38) Hides from him; awaits his answer to her confession.
 [rel:kobashi-yume] (p.56) Her classmate; declined the party Kobashi invited Ayanokōji to.
 
+
+### y2v4.5 p.59–63 — At her own celebration party, seated by his side
+[scene] (p.59–63) The exam-celebration party in room 5034 is her class's thank-you — ten girls, no boys; Ayanokōji is seated beside her by Kobashi's design; she says nothing about it; he slips out the moment Himeno leaves.
+[rel:ayanokouji-kiyotaka] (p.60–63) Sits beside her; neither acknowledges it; her party energy survives it only barely — he was the awkward guest of honour.
+
+<!-- walk: y2v4.5 ch2 → p.72 -->
+
 ### y2v4.5 p.81–85 — Ichinose's apology to Sakayanagi (recounted)
 [scene] (p.81) In Sakayanagi's account, comes to her after lunch the previous day to apologize for acting selfishly on the exam's last day.
 [says:sakayanagi-arisu] (p.82) "It's about the special exam…I just felt like I had to apologise. On the last day, I did something really selfish…so, I'm really very sorry!"

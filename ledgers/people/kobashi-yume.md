@@ -53,10 +53,25 @@ char_id: kobashi-yume · class: unknown · status: unknown
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — kobashi-yume mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.55-56, p.58-61, p.75, p.77.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.54–65 — Kobashi spots Ayanokōji past the bow deck; corrals him into the girls' party
+[scene] (p.55) Approaching him after the Kobashi interruption resolves, she invites him to the girls' exam-celebration party at room 5034 at 8pm — Ichinose's classmates, thanking him for finding Chihiro; he tries everything to decline; she bulldozes every exit.
+[says] (p.55) “Actually, the girls in my class are going to have a party tonight to celebrate the end of the exam.”
+[note] (p.56) The invitation continues onto page 56; she also wants to thank Ayanokōji-kun for helping Chihiro-chan; the “girls in the class” wording is what spooked him.
+[says] (p.57) “Please! This was like, a fateful meeting, right?”
+[says] (p.57) “You only need to show your face…! Please, even just that! And Honami-chan is coming too!”
+[says] (p.57) “Well then, we'll be waiting for you in room 5034 at 8pm, okay?”
+[says] (p.59) “Oh, you came!”
+[says] (p.59) “I think everyone's already here, so don't hesitate and come in.”
+[says] (p.59) “Ta-da! I brought Ayanokōji-kun!”
+[says] (p.60) “Then, I wonder where we should put Ayanokōji-kun~? Ah, how about next to Honami-chan?”
+[note] (p.55–60) Honami-chan is Ichinose Honami; Kobashi seats him beside Ichinose before he's said a word — the seat was predetermined.
+[rel:ichinose-honami] (p.55–60) Her classmate and co-organizer; seats him by Ichinose on purpose.
+[rel:ayanokouji-kiyotaka] (p.55–60) Wrangles him into the party; he never recovers his exit.
+[mentioned] (p.75) Ayanokōji's sighting of her earlier at the bow deck is what reminded him Nanase had something to say (reported p.74–75).
+
+<!-- walk: y2v4.5 ch2 → p.72 -->
+
 
 
 

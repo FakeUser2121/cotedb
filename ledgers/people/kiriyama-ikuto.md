@@ -175,10 +175,34 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — kiriyama-ikuto mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.36-37, p.43-50, p.52-53, p.153-154.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.36–53 — Kiriyama summons Ayanokōji: the Class A ticket and the expulsion of fifteen third-years
+[scene] (p.36–37) Vice President Kiriyama, message inviting him to the pool, is the most unlikely host imaginable; Ayanokōji memorizes the results by the gym first: Nagumo second, Sakayanagi third, Kiriyama's group fourth with 255 points — six short of the podium; all expulsions were third-years.
+[scene] (p.38–45) Kiriyama waits by the pool; third-years conspicuously absent from the quiet deck he chose; Nagumo's allies are staring candidates; Kiryūin teases them both before Kiriyama abandons the poolside for a deck above.
+[says:ayanokouji-kiyotaka] (p.45) “Why did you want to bring me all the way out here?”
+[says] (p.45) “I won’t beat around the bush. What did you do to Nagumo on the last day of the uninhabited island exam, Ayanokōji?”
+[says] (p.46) “Give up? I don't know what you mean. My personal fight is still going on.”
+[says] (p.46) “Now that Nagumo's plan has changed, the others and I have started to see the adverse effects. I believe I told you before the uninhabited island exam, don't get in my way.”
+[says] (p.47) “It's true that I wanted to take down Nagumo. If we couldn't beat him, it would be impossible for our class to rise back up to Class A. However, that spirit gradually faded away by the time we reached the middle of our second year.”
+[says] (p.47) “We third-years shifted to an individual competition early on. Class points and school rules were of secondary importance, and we started playing according to the original rules proposed by Nagumo.”
+[says] (p.48) “Nagumo handed me a ticket to graduate from Class A, so I decided to follow the rules that he made up…That's what you wanted to hear, right?”
+[says] (p.48) “It was our mission to make sure that Nagumo took first place. But your involvement disrupted the chain of command, leaving Kōenji to take first place while Nagumo fell to second. The result was a significant loss in both class and private points.”
+[says] (p.49) “It costs 20 million points for a ticket to Class A, so we're always looking for the best way to procure points. After this, you could say we're one ticket down.”
+[says] (p.50) “Unable to do anything, those fifteen people were expelled. They didn't even have time to cry out.”
+[says] (p.51) “That guy has been playing around with the entire third year. The students without tickets are made to compete against each other, and then he'll make a show of giving the winning guy a ticket and make him pledge his allegiance.”
+[says] (p.52) “Then what would you have me do? You won't tell me the details, but you won't see Nagumo either. As it is, this is only going to get worse.”
+[says] (p.53) “…That's fine. But you have to make a decision before Nagumo makes his next move.”
+[says] (p.53) “I'm going. If he knew we were meeting, things would become even more troublesome.”
+[note] (p.46–53) His turn from Nagumo's opponent to Nagumo's ally is the structural fact of the third-year; he predicts the stares will escalate and that Nagumo will escalate beyond them; the 20-million-point Class A privilege is the core of Nagumo's hold on his year.
+[note] (p.50) Nagumo holds the Class A tickets personally — held as verbal promises, not electronic transfers; individuals may hold up to 500,000 points, the rest being syphoned to Nagumo.
+[feat] (p.44–45) He pays off third-years to clear the deck — quiet competence at arranging environments.
+[rel:nagumo-miyabi] (p.46–53) Once sworn to take him down; now one of his allies by coercion of 20 million points; he opposes the stares campaign even while following orders.
+[rel:ayanokouji-kiyotaka] (p.45–53) Summons him to extract the exam's last-day secret; admits his own position; asks for a decision before Nagumo's next move.
+[rel:horikita-manabu] (p.47) Ayanokōji invokes Manabu's entrustment; Kiriyama's face hardens at the name.
+[note] (p.37) Fourth place with 255 points, six behind Sakayanagi's third; the loss cost his group the top-three bonus but also broke Nagumo's chain of command; he accepts that his "backup" dispatch on short notice caused it.
+
+<!-- walk: y2v4.5 ch2 → p.72 -->
+
 
 ## y2v7
 

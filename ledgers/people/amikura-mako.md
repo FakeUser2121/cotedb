@@ -79,10 +79,13 @@ char_id: amikura-mako · class: Class 1-B · status: minor (allies)
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — amikura-mako mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.61.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.61 — Amikura hosts the girls' exam-celebration party
+[scene] (p.61) As host of the gathering in room 5034, she calls for order and toasts: “So, without further ado…We're having a party to celebrate the end of the uninhabited island exam and also to thank Ayanokōji-kun for helping Chihiro-chan when she was lost. Cheers!”
+[note] (p.60–61) Ten girls, half of Ichinose's class, all in one room — she appears to be the organizer; most participants are girls Ayanokōji never spoke to before (he knows them only from the OAA app).
+
+<!-- walk: y2v4.5 ch2 → p.72 -->
+
 
 
 

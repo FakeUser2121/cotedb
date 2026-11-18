@@ -70,10 +70,18 @@ char_id: shiranami-chihiro · class: Class 1-B · status: minor (allies)
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — shiranami-chihiro mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.61-62, p.68.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.61–62 — Chihiro thanks him; can't accept the debt
+[scene] (p.61) Sits to Ichinose's left; formally thanks Ayanokōji for finding her during the exam — and, moments later, admits she can't accept the gratitude yet.
+[says] (p.61) “Um, Ayanokōji-kun…”
+[says] (p.61) “I'm grateful to you for your help…but I just can't accept it yet.”
+[says] (p.61) “Phuaa! I can't say any more!”
+[note] (p.61–62) The girls bombard her with encouragement; what she cannot accept is left unspecified — she had been lost on the island and he led her back; whether it is shame or something else is not stated.
+[rel:ayanokouji-kiyotaka] (p.61) Formal gratitude owed; she is not yet ready for it.
+[rel:ichinose-honami] (p.61–62) Her classmate; she joined the girls' celebration to thank the same person.
+
+<!-- walk: y2v4.5 ch2 → p.72 -->
+
 
 
 

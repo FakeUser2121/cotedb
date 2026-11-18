@@ -626,10 +626,15 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — nagumo-miyabi mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.23-24, p.37-38, p.41-43, p.45-54, p.87.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.23–24, 41–43, 53 — Third-year surveillance of Ayanokōji; Kiryūin's profile; the pool
+[scene] (p.23–24) Ayanokōji notices third-years watching him at the results board — all of them third-years; he estimates 80–90% chance it is Nagumo's plan, pushed off in anticipation of the exam.
+[note] (p.42) Kiryūin's profile for him: Academic A, Physical A, Adaptability A+, Social Contribution A+ — “He cannot be faulted”; the only student with all A or higher; the only person in the school he recognized as his equal, Horikita Manabu, has graduated.
+[note] (p.41–43) Per Kiryūin: his strategy favors flashy one-on-ones but he'll use any strategy to win — “He'll prioritise winning, no matter what it takes”; “The Nagumo administration is rock solid” — his year cannot oppose him while he holds their Class A tickets (see ledgers/volumes/y2v4.5.md); she judges him “the type of person you're no good at dealing with.”
+[scene] (p.53) Kiriyama spots Nagumo arriving at the pool and flees rather than be seen with Ayanokōji; Kiriyama must give him an answer before Nagumo's next move.
+
+<!-- walk: y2v4.5 ch2 → p.72 -->
+
 
 ## y2v5
 

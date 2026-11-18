@@ -27,10 +27,13 @@ char_id: yuki · class: unknown · status: unknown
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — yuki mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.63, p.65, p.103, p.108, p.110.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.62–72 — No standalone "Yuki" presence; every hit is Himeno Yuki
+[note] (p.65) All "Yuki" occurrences in this volume are Himeno Yuki (himeno-yuki), a Class B girl semi-forced into the celebration party; no separate character named "Yuki" is on-page anywhere in the volume (front matter, chapters, short stories).
+[note] (p.62) The roster row "yuki" (y0;y2v4.5;y2v12;y3v1) is ambiguous to this walk; no distinct Yuki presence was assignable in y2v4.5 and none is assigned.
+
+<!-- walk: y2v4.5 ch2 → p.72 -->
+
 
 
 

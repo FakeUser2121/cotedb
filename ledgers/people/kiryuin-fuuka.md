@@ -73,6 +73,8 @@ char_id: kiryuin-fuuka · class: unknown · status: unknown
 [rel:kiriyama] (p.43–45) Needles the irritable vice president; he tries to escape her.
 [rel:nagumo-miyabi] (p.41–43) Understands his strategy and character well.
 
+<!-- walk: y2v4.5 ch2 → p.72 -->
+
 ### y2v4.5 p.289–290 — Short story: "When You are the Older One" — the stares at the pool
 [scene] (p.289) From her own POV, relaxing by the pool in sunglasses, notices the third-years all look at Ayanokōji in unison; curious, she calls out to him (her "OFF-mode" switch flips ON).
 [narrates] (p.289) "Spending a holiday like this just relaxing ain't bad from time to time."

@@ -45,10 +45,25 @@ char_id: himeno-yuki · class: Class 2-A · status: unknown
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — himeno-yuki mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.61, p.63-65, p.67-72, p.78.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.62–72 — Himeno leaves the party with a faked headache; the stern and the scream
+[scene] (p.62–63) Mid-party, she raises her hand: “The usual headache” — can she go back to her room? Ichinose and the girls fuss; she snaps about their overprotective behavior.
+[scene] (p.64–65) Ayanokōji, slipping out behind her, catches a glimpse of her distinctive hair color turning away from the guest cabins — and follows her to the stern of the ship, where her OAA scores (p.65) are Academic B- (63), Physical C (51), Adaptability C+ (58), Social Contribution C+ (58), Overall C+ (57).
+[says] (p.65) “Is your headache gone?” — that is Ayanokōji's line; she mutters mostly drowned by the wind, the word “annoying” discernible.
+[says] (p.67) “It's because I get migraines.”
+[says] (p.69) “Strange? If you ask me, the people in my class are too good-natured. Our class tends to get together in large groups to do everything. Well, I don't mind that in and of itself, but the problem is that these meetings take too long, and nobody ever wants to leave.”
+[says] (p.70) “Not many students come to the back of the ship, and when you consider the sound of the engine and the wind, even if you screamed, it wouldn't be heard.” — that is Ayanokōji's line.
+[scene] (p.70–71) He screamed first into the ocean ("Ah─────"), a feeble “your voice didn’t have a shred of volume” critique follows, then she puts her whole body into it:
+[says] (p.71) “WA────────────!!!”
+[voice] (p.70–71) Her usual speech is low and subdued, yet her scream rolls "a voice, twice as loud as I had imagined"; the ship does not move, but he feels it rock.
+[says] (p.71) “Hah…That felt refreshing.”
+[scene] (p.72) She heads back to her room, telling him “If you know that you were in the wrong, that's better yet.”
+[rel:ichinose-honami] (p.62–69) Her classmate; semi-forced into the party by her classmates; Ichinose would never tolerate bullying, so the exclusion is informal and gentle, not cruel.
+[rel:ayanokouji-kiyotaka] (p.65–72) Screams with him into the ocean; lets her voice rip out after all; he is the only witness.
+[note] (p.65–69) AK's read: her flat tone and distance are armor to keep others away; the class's big-group culture is what grinds her down; screaming together was the one honest exchange of the night.
+
+<!-- walk: y2v4.5 ch2 → p.72 -->
+
 
 
 

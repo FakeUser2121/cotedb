@@ -8679,6 +8679,21 @@ walk: y1v1 → DONE
 [rel:kobashi-yume] (p.55–57) Invites him to the party and thanks him for helping Chihiro; tells him not to tell Ichinose she invited him.
 [rel:ichinose-honami] (p.56) Declined the party, likely because of him.
 
+### y2v4.5 p.58–72 — Room 5034; Himeno at the stern
+[scene] (p.59–64) Arrives at 8pm to a room of ten girls — half of Ichinose's class, no boys; Kobashi seats him beside Ichinose by design; Amikura toasts; Chihiro thanks him and breaks down mid-thanks; Himeno feigns a headache and leaves.
+[scene] (p.64–72) Slips out after Himeno; follows her to the stern; calls out; the scream into the ocean — hers dwarfs his.
+[says] (p.59) “No, wouldn't it be wiser to just turn around right now?”
+[says] (p.64) “Phew…I was about to break into a strange sweat.”
+[says] (p.67) “Isn't your headache just an excuse to get out of an unpleasant situation?”
+[says] (p.69) “If you want to relieve stress, isn't screaming the best thing to do?”
+[note] (p.60–64) Nobody in the room is a boy; the gathering is a thank-you for Chihiro and a celebration of the exam's end; he escapes as soon as Himeno leaves, "less than 30 seconds after Himeno left the room" (p.64).
+[rel:kobashi-yume] (p.59–60) Escorts him in; pre-assigns his seat next to Ichinose.
+[rel:ichinose-honami] (p.60–63) Sat beside her; the room's blind faith in her is visible; she declines to walk him out — nothing said aloud.
+[rel:himeno-yuki] (p.65–72) Follows her to the stern; screams with her into the ocean.
+[rel:shiranami-chihiro] (p.61) She thanks him formally; cannot accept it yet.
+
+<!-- walk: y2v4.5 ch2 → p.72 -->
+
 ### y2v4.5 p.73–77 — Lunch alone; Nanase on the bow deck
 [scene] (p.73) Eats a cheap store rice ball and tea (250 pts) on the bow deck to save money, after a 7 a.m. breakfast (8–9 slot full); notes the third-years' stares continue.
 [says] (p.75) "Nanase."
