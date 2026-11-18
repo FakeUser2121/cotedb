@@ -68,7 +68,7 @@ char_id: asakura-mako · class: unknown · status: unknown
 
 ### y2v12 p.12-228 — asakura-mako: no page hits
 [scene] (p.12) Rostered for this volume.
-[note] (p.12) Page locator found no matches for this name in this volume; possible spelling/alias variant missed. Not read line-by-line.
+[note] (p.12) No occurrence of this name (or its published/aliased forms) found anywhere in the volume text on a full read of pp.10-228. The roster listing for y2v12 appears stale for this character; not investigated further.
 
 ## y2v12.5
 

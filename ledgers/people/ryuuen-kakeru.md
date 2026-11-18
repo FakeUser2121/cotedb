@@ -1783,15 +1783,43 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v12.5 → start -->
 
-### y2v12.5 pp.31-42, 194-203 — Ch.2, Ch.9
+### y2v12.5 p.31–42 — Ch.2: His last meeting with Sakayanagi before she withdraws
+[scene] (p.31) On Saturday, March 19, early in the morning, Ryūen leaves the dormitory and meets Sakayanagi at the outskirts of the school; she is admiring the scenery, cane in hand.
+[says] (p.31) “You got here pretty fast.”
+[says] (p.32) “Surely you don’t think that I did it to be considerate of you.”
+[says] (p.32) “You’re terribly mistaken. It was just more convenient for me. It’s better to have some time to deeply engrave the reality of your expulsion into the minds of the Class A students.”
+[says] (p.32) “Oops, you guys aren’t in Class A anymore, huh?”
+[says] (p.32) “As promised, I will be leaving this school soon, but what business did you have with me?”
+[says] (p.33) “Despite your expulsion being decided, you seem the same as always. Just putting on a brave front?”
+[says] (p.33) “I’m not satisfied with that match.”
+[says] (p.33) “Cut the crap. I admitted defeat to you in the final stages.”
+[says] (p.34) “Even so, this time it’s different. If it’d just been between you and me, I would accept it, but the result was overturned because of some message from Ayanokōji. You expect me to easily accept that?”
+[says] (p.34) “If you had wanted to win then and there, you could’ve. But you took the risk of expulsion and overlooked the traitor, Hashimoto. What kind of message could twist that intention?”
+[says] (p.34) “So you’re saying, you lost on your own will, taking into account his wishes? Even though it meant overlooking Hashimoto instead of crushing him…? Impossible.”
+[says] (p.35) “If I had been given such a message, I would’ve ignored it. I’d crush Hashimoto and then go punch him. I wouldn’t let it go like he wishes.”
+[says] (p.35) “I don’t get it—what do you mean?”
+[says] (p.35) “Passing on Ayanokōji’s message to you was a mistake.”
+[says] (p.36) “I will defeat him. It’s decided. That’s why I’m standing here now.”
+[says] (p.36) “Of course.”
+[says] (p.36) “You’re free to blindly believe in Ayanokōji, but I still don’t like it.”
+[says] (p.37) “Ha... I’m impressed that you’re so into such a crazy guy.”
+[says] (p.37) “Then, shouldn’t you be begging me here to let you stay, even if it means bowing your head?”
+[says] (p.38) “That’s too bad. If you’d apologized by rubbing your forehead on the ground, I might’ve been able to negotiate with the school to cancel the bet.”
+[says] (p.38) “That end-of-year special exam was different. That’s what I thought.”
+[says] (p.38) “What should I make of this? This is a new feeling for me. A win is a win. I should be happy as you say. That’s how I’ve always done it, but... doubts are coming up.”
+[says] (p.39) “That’s your advice? Don’t make me laugh.”
+[says] (p.39) “...Even if Ayanokōji deemed you unnecessary, do you intend to keep chasing after him?”
+[says] (p.41) “Then what should I do?”
+[says] (p.41) “Don’t talk as if you can see through someone else’s mind. Are you Ayanokōji or what?”
+[says] (p.41) “What will you do after leaving here?”
+[says] (p.41) “She’ll be startled if you show up.”
+[says] (p.42) “Huh?”
+[says] (p.42) “...Next time, huh? You won’t have a next time, will you? Are you just making excuses?”
+[says] (p.42) “One year. Just one year, huh? Hah... bring it on.”
+[rel:sakayanagi-arisu] (p.31–42) He admits defeat; she advises him he cannot beat Ayanokōji alone and proposes to create a special weakness in Ayanokōji for him.
+[rel:ayanokouji-kiyotaka] (p.33–42) Ayanokōji's hidden message inverted the result; Ryūen resolves to defeat him within one year.
 
-[scene] (p.31-42) Mentioned/appears in Ch.2, Ch.9.
-[rel:ayanokouji-kiyotaka] (pp.31-42, 194-203) Appears in this volume.
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
+<!-- walk: y2v12.5 Ch.2 → p.42 -->
 ## y3v1
 
 <!-- walk: y3v1 → start -->

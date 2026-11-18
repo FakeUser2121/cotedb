@@ -175,6 +175,14 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 [rel:ayanokouji-kiyotaka] (p.351–356) Their reckoning — he expected Ayanokōji might be expelled by now; admits his plan failed and issues a veiled warning.
 [rel:chabashira-sae] (p.351) Sent her to fetch Ayanokōji rather than go to the classroom himself.
 [note] (p.355) Tsukishiro states the White Room student he sent simply disregarded his order to expel Ayanokōji — an enforcer acting on their own, which deeply concerns him.
+## y2v12
+
+<!-- walk: y2v12 → start -->
+
+### y2v12 p.12-228 — tsukishiro: no page hits
+[scene] (p.12) Rostered for this volume.
+[note] (p.12) No occurrence of this name (or its published/aliased forms) found anywhere in the volume text on a full read of pp.10-228. The roster listing for y2v12 appears stale for this character; not investigated further.
+
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
