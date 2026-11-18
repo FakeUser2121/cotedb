@@ -613,6 +613,15 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
+### y2v9.5 p.63–65 — Ch.3: Christmas photo with Ichinose and Hōsen
+[scene] (p.63) Finds Ichinose and Ayanokōji mid-photo-session; joins; together they pose; she bumps into Hōsen and drags him over.
+[scene] (p.64–65) Pushes Hōsen into the photo; later whispers to Ayanokōji that Hōsen came because he likes Ichinose; used her to get close.
+[says] (p.63) "Sorry, can you wait a moment?"
+[rel:ichinose-honami] (p.63–65) Photo partner; ferry service between Hōsen and the mall.
+[rel:housen-kazuomi] (p.64–65) She walks ahead of him; relays his intent to Ayanokōji in confidence.
+
+<!-- walk: y2v9.5 Ch.3 → p.65 -->
+
 
 
 

@@ -260,6 +260,15 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
+### y2v9.5 p.64–65 — Ch.3: Photo day with Ichinose
+[scene] (p.64) Nanase drags him to the Christmas-tree crowd; he glares at Ayanokōji; Nanase pushes him into a photo with Ichinose anyway; he strides up and barks at Ayanokōji for staring.
+[scene] (p.65) Nanase whispers that he "really likes Ichinose-senpai"; he came specifically to check her out; left already; Ayanokōji never got to confirm.
+[says] (p.64) "You've been staring at me. Is there something on my face?"
+[rel:ichinose-honami] (p.64–65) He likes her; dragging himself to the mall to take a photo with her through Nanase's mediation.
+[rel:nanase-tsubasa] (p.64–65) Uses her to approach; she plays wing-woman reluctantly.
+
+<!-- walk: y2v9.5 Ch.3 → p.65 -->
+
 
 
 

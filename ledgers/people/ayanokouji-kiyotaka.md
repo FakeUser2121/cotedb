@@ -9254,6 +9254,18 @@ walk: y1v1 → DONE
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
+### y2v9.5 p.58–65 — Ch.3: Back at the mall; teachers, Ichinose, Hōsen
+[scene] (p.59–60) Returns to the mall; spots Ichinose by the Christmas tree; Hoshinomiya and Chabashira intercept him about his solitary Christmas; they leave for karaoke.
+[scene] (p.60–61) Ichinose has been waiting since 10:30 for "memories" photos; 43 so far; she asks for a photo with him, her "main wish"; he agrees; she adjusts angles with him.
+[scene] (p.63–65) Nanase and Hōsen join the photo; Nanase reveals Hōsen came for Ichinose; third-year girls wave; he joins sweatered crowd and leaves.
+[rel:hoshinomiya-chie] (p.59–60) Ribs him about being alone; exits to karaoke.
+[rel:chabashira-sae] (p.59–60) Same scene.
+[rel:ichinose-honami] (p.60–65) For 43 minutes he posed with her like everyone else; she finally got her wish.
+[rel:nanase-tsubasa] (p.63–65) Spotted together for the photo session.
+[rel:housen-kazuomi] (p.64–65) Glared at him; posed anyway.
+
+<!-- walk: y2v9.5 Ch.3 → p.65 -->
+
 ### y2v9.5 p.10 — Ch.1: Irreplaceable daily life
 [scene] (p.10) Reflects that the second year's winter break has begun; just being able to enjoy an ordinary holiday is best; his remaining time as a student is quietly, surely decreasing; frames the year ahead as a long, extended battle in which every day is irreplaceable.
 [thinks] (p.10) "Just being able to live for myself until today, I was satisfied enough."
