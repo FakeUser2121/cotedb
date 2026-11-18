@@ -151,12 +151,15 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 pp.5-284 — Full volume
+### y2v4 p.185–189 — Kitō mentioned in passing
+[scene] (p.185–186) Named in the context of the exam.
+[scene] (p.188–189) Named in the context of the exam.
+[note] (p.185–189) Passing mentions; not a distinct scene presence.
+[mentioned] (p.185–189) Passing mention only.
 
-[scene] (p.5) Appears in this volume.
+<!-- walk: y2v4 Ch.5 → p.189 -->
 
 
-<!-- walk: y2v4 Epilogue → p.284 -->
 
 ## y2v4.5
 

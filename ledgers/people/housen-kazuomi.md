@@ -174,12 +174,7 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 pp.5-284 — Full volume
 
-[scene] (p.5) Appears in this volume.
-
-
-<!-- walk: y2v4 Epilogue → p.284 -->
 
 ### y2v4 p.168–183 — Hōsen's trap and his brutal fight with Ryūen
 [scene] (p.167) Pretends to follow Tsubaki's instructions to surround Ayanokōji, intending instead to attack him directly; but Ayanokōji anticipated it (via Nanase), and Ryūen intercepts.

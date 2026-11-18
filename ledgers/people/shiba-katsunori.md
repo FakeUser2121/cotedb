@@ -35,12 +35,14 @@ char_id: shiba-katsunori · class: Class 1-D · status: unknown
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 pp.5-284 — Full volume
+### y2v4 p.10–284 — Shiba mentioned in passing
+[scene] (p.10) Named in the context of the exam.
+[note] (p.10–284) Passing mentions; not a distinct scene presence.
+[mentioned] (p.10–284) Passing mention only.
 
-[scene] (p.5) Appears in this volume.
+<!-- walk: y2v4 Ch.6 → p.284 -->
 
 
-<!-- walk: y2v4 Epilogue → p.284 -->
 
 ## y2v4.5
 

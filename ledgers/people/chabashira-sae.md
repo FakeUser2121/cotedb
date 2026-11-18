@@ -1249,12 +1249,14 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 pp.5-284 — Full volume
+### y2v4 p.269–271 — Chabashira mentioned in passing
+[scene] (p.269–271) Named in the context of the exam results.
+[note] (p.269–271) Passing mentions; not a distinct scene presence.
+[mentioned] (p.269–271) Passing mention only.
 
-[scene] (p.5) Appears in this volume.
+<!-- walk: y2v4 Ch.6 → p.271 -->
 
 
-<!-- walk: y2v4 Epilogue → p.284 -->
 
 ## y2v4.5
 

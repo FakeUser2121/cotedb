@@ -39,12 +39,15 @@ char_id: kobashi-yume · class: unknown · status: unknown
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 pp.5-284 — Full volume
+### y2v4 p.86–93 — Kobashi mentioned in passing
+[scene] (p.86–89) Named in the context of the exam.
+[scene] (p.93) Named in the context of the exam.
+[note] (p.86–93) Passing mentions; not a distinct scene presence.
+[mentioned] (p.86–93) Passing mention only.
 
-[scene] (p.5) Appears in this volume.
+<!-- walk: y2v4 Ch.3 → p.93 -->
 
 
-<!-- walk: y2v4 Epilogue → p.284 -->
 
 ## y2v4.5
 

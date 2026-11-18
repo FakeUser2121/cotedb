@@ -314,12 +314,14 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 pp.5-284 — Full volume
+### y2v4 p.269–272 — Mashima mentioned in passing
+[scene] (p.269–272) Named in the context of the exam results.
+[note] (p.269–272) Passing mentions; not a distinct scene presence.
+[mentioned] (p.269–272) Passing mention only.
 
-[scene] (p.5) Appears in this volume.
+<!-- walk: y2v4 Ch.6 → p.272 -->
 
 
-<!-- walk: y2v4 Epilogue → p.284 -->
 
 ## y2v4.5
 

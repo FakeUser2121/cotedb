@@ -1717,12 +1717,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 pp.5-284 — Full volume
 
-[scene] (p.5) Appears in this volume.
-
-
-<!-- walk: y2v4 Epilogue → p.284 -->
 
 ### y2v4 p.195–201 — Ichinose's confession at H3
 [scene] (p.195) Covered in mud and exhausted, walks 4+ hours to H3 to find Ayanokōji, having been threatened by Tsukishiro/Shiba after her watch broke.

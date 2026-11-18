@@ -251,12 +251,14 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 pp.5-284 — Full volume
+### y2v4 p.250 — Albert mentioned in passing
+[scene] (p.250) Named in the context of the exam.
+[note] (p.250) Passing mention; not a distinct scene presence.
+[mentioned] (p.250) Passing mention only.
 
-[scene] (p.5) Appears in this volume.
+<!-- walk: y2v4 Ch.6 → p.250 -->
 
 
-<!-- walk: y2v4 Epilogue → p.284 -->
 
 ## y2v4.5
 

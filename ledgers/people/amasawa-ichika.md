@@ -215,12 +215,7 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 pp.5-284 — Full volume
 
-[scene] (p.5) Appears in this volume.
-
-
-<!-- walk: y2v4 Epilogue → p.284 -->
 
 ### y2v4 p.5–7 — Prologue: Amasawa's monologue on the White Room
 [scene] (p.5) In her own monologue, reveals she is an IVF ("test-tube") baby brought into the White Room, with no knowledge of her parents.

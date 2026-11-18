@@ -40,12 +40,15 @@ char_id: takahashi-osamu · class: unknown · status: unknown
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 pp.5-284 — Full volume
+### y2v4 p.48, 121 — Takahashi mentioned in passing
+[scene] (p.48) Named in the context of the exam.
+[scene] (p.121) Named in the context of the exam.
+[note] (p.48, 121) Passing mentions; not a distinct scene presence.
+[mentioned] (p.48, 121) Passing mention only.
 
-[scene] (p.5) Appears in this volume.
+<!-- walk: y2v4 Ch.4 → p.121 -->
 
 
-<!-- walk: y2v4 Epilogue → p.284 -->
 
 ## y2v8
 

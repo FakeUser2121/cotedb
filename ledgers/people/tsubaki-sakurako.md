@@ -132,12 +132,7 @@ char_id: tsubaki-sakurako · class: Class 1-C · status: unknown
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 pp.5-284 — Full volume
 
-[scene] (p.5) Appears in this volume.
-
-
-<!-- walk: y2v4 Epilogue → p.284 -->
 
 ### y2v4 p.127–139, 152–185 — Tsubaki's siege plan; its failure
 [scene] (p.127) On day nine, contacts Hōsen (via Nanase and an errand boy Katagiri with a walkie-talkie) to propose a plan to rescue the sinking first-year groups and expel Ayanokōji.

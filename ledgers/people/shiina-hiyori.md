@@ -513,12 +513,7 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 pp.5-284 — Full volume
 
-[scene] (p.5) Appears in this volume.
-
-
-<!-- walk: y2v4 Epilogue → p.284 -->
 
 ### y2v4 p.116–120 — Hiyori's six-person group at sunset
 [says] (p.116) "What? Isn't it Ayanokouji-kun?"

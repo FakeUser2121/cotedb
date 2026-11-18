@@ -1178,12 +1178,17 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 pp.5-284 — Full volume
+### y2v4 p.10, 14, 42, 47 — Ike mentioned in passing
+[scene] (p.10) Named in the context of the island exam.
+[scene] (p.14) Named in the context of the exam rules.
+[scene] (p.42) Named in the context of Housen's water incident.
+[scene] (p.47) Named in the context of the group discussion.
+[note] (p.10, 14, 42, 47) Passing mentions; not a distinct scene presence.
+[mentioned] (p.10, 14, 42, 47) Passing mention only.
 
-[scene] (p.5) Appears in this volume.
+<!-- walk: y2v4 Ch.1 → p.47 -->
 
 
-<!-- walk: y2v4 Epilogue → p.284 -->
 
 ## y2v4.5
 

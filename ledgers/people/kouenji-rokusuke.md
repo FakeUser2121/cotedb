@@ -846,12 +846,7 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 pp.5-284 — Full volume
 
-[scene] (p.5) Appears in this volume.
-
-
-<!-- walk: y2v4 Epilogue → p.284 -->
 
 ### y2v4 p.99–115 — Kōenji vs the third-year "Free Groups" siege
 [scene] (p.99) Besieged on day eleven by Kiriyama's group plus six "Free Groups" (15 third-years) mobilized by Nagumo to stop his top-stREAK; he's caught sleeping in broad daylight (from exhaustion).
