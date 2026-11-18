@@ -65,9 +65,10 @@ char_id: kobashi-yume · class: unknown · status: unknown
 
 <!-- walk: y2v10 → start -->
 
-### y2v10 pp.9-235 — Full volume
+### y2v10 p.9-235 — kobashi-yume mentioned in passing
+[scene] (p.9) Named in this volume.
+[note] (p.9) Passing mention (locator pages: p.127-128; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.9) Passing mention only.
 
-[scene] (p.9) Appears in this volume.
 
 
-<!-- walk: y2v10 Epilogue → p.235 -->

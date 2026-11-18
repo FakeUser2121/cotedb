@@ -242,9 +242,10 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 pp.12-228 — Full volume
+### y2v12 p.12-228 — kiriyama-ikuto mentioned in passing
+[scene] (p.12) Named in this volume.
+[note] (p.12) Passing mention (locator pages: p.169; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.12) Passing mention only.
 
-[scene] (p.12) Appears in this volume.
 
 
-<!-- walk: y2v12 Epilogue → p.228 -->

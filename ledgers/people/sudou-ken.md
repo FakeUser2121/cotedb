@@ -1533,6 +1533,15 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [trait] (p.321–338) Fiercely protective of Horikita but outmatched — loses his cool in the brawl, turned his back for a fatal instant, and is brutally knocked around; struggles to his feet and is relieved and awed by Ayanokōji's calm with the knife through his hand.
 [rel:housen-kazuomi] (p.321–325) Fights him to defend Horikita but is overpowered by the stronger first-year.
 [rel:horikita-suzune] (p.321) His concern for her causes the opening Hōsen exploits.
+## y2v12
+
+<!-- walk: y2v12 → start -->
+
+### y2v12 p.12-228 — sudou-ken mentioned in passing
+[scene] (p.12) Named in this volume.
+[note] (p.12) Passing mention (locator pages: p.28, p.31, p.120-121, p.227; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.12) Passing mention only.
+
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
@@ -1935,23 +1944,25 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v10 → start -->
 
-### y2v10 pp.9-235 — Full volume
+### y2v10 p.9-235 — sudou-ken mentioned in passing
+[scene] (p.9) Named in this volume.
+[note] (p.9) Passing mention (locator pages: p.10-11, p.34, p.50, p.130, p.132, p.136; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.9) Passing mention only.
 
-[scene] (p.9) Appears in this volume.
 
 
-<!-- walk: y2v10 Epilogue → p.235 -->
 
 ## y2v11
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 pp.11-223 — Full volume
+### y2v11 p.11-223 — sudou-ken mentioned in passing
+[scene] (p.11) Named in this volume.
+[note] (p.11) Passing mention (locator pages: p.185-186; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.11) Passing mention only.
 
-[scene] (p.11) Appears in this volume.
 
 
-<!-- walk: y2v11 Epilogue → p.223 -->
 
 
 <!-- walk: y2v12 Epilogue → p.228 -->

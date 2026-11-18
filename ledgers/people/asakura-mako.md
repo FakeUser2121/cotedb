@@ -43,31 +43,37 @@ char_id: asakura-mako · class: unknown · status: unknown
 
 <!-- walk: y2v10 → start -->
 
-### y2v10 pp.9-235 — Full volume
+### y2v10 p.9-235 — asakura-mako: no page hits
+[scene] (p.9) Rostered for this volume.
+[note] (p.9) Page locator found no matches for this name in this volume; possible spelling/alias variant missed. Not read line-by-line.
 
-[scene] (p.9) Appears in this volume.
 
 
-<!-- walk: y2v10 Epilogue → p.235 -->
 
 ## y2v10.25
 
 <!-- walk: y2v10.25 → start -->
 
-### y2v10.25 pp.1-10 — Full volume
+### y2v10.25 p.1-10 — asakura-mako mentioned in passing
+[scene] (p.1) Named in this volume.
+[note] (p.1) Passing mentions on pages: none.
+[mentioned] (p.1) Passing mention only.
 
-[scene] (p.1) Appears in this volume.
 
 
-<!-- walk: y2v10.25 Epilogue → p.10 -->
 
 ## y2v12
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 pp.12-228 — Full volume
+### y2v12 p.12-228 — asakura-mako: no page hits
+[scene] (p.12) Rostered for this volume.
+[note] (p.12) Page locator found no matches for this name in this volume; possible spelling/alias variant missed. Not read line-by-line.
 
-[scene] (p.12) Appears in this volume.
+## y2v12.5
 
+<!-- walk: y2v12.5 → start -->
 
-<!-- walk: y2v12 Epilogue → p.228 -->
+### y2v12.5 p.11-216 — asakura-mako: no page hits
+[scene] (p.11) Rostered for this volume.
+[note] (p.11) Page locator found no matches for this name in this volume; possible spelling/alias variant missed. Not read line-by-line.

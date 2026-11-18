@@ -96,6 +96,15 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 [rel:horikita-suzune] (p.296–324) Bullies her, demands five million points, slaps her.
 [rel:sudou-ken] (p.321–325) Sucker-punches and kicks him.
 [rel:amasawa-ichika] (p.334) She helped refine his knife plot and retrieved the knife; he calls her a "random chick" he shouldn't have trusted.
+## y2v12
+
+<!-- walk: y2v12 → start -->
+
+### y2v12 p.12-228 — housen-kazuomi mentioned in passing
+[scene] (p.12) Named in this volume.
+[note] (p.12) Passing mention (locator pages: p.16, p.28, p.42, p.65-66, p.70, p.72; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.12) Passing mention only.
+
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
@@ -258,12 +267,13 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 pp.11-223 — Full volume
+### y2v11 p.11-223 — housen-kazuomi mentioned in passing
+[scene] (p.11) Named in this volume.
+[note] (p.11) Passing mention (locator pages: p.49, p.58, p.62, p.87, p.109, p.116; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.11) Passing mention only.
 
-[scene] (p.11) Appears in this volume.
 
 
-<!-- walk: y2v11 Epilogue → p.223 -->
 
 
 <!-- walk: y2v12 Epilogue → p.228 -->

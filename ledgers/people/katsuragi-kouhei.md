@@ -759,6 +759,15 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [rel:yukimura-teruhiko] (p.271–280) Gives him information out of hatred for Sakayanagi.
 [rel:ayanokouji-kiyotaka] (p.274, 279) Speaks with him about Sakayanagi.
 
+## y2v12.5
+
+<!-- walk: y2v12.5 → start -->
+
+### y2v12.5 p.11-216 — katsuragi-kouhei mentioned in passing
+[scene] (p.11) Named in this volume.
+[note] (p.11) Passing mention (locator pages: p.152; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.11) Passing mention only.
+
 ## y3v3
 
 <!-- walk: y3v3 → start -->
@@ -937,34 +946,37 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v10 → start -->
 
-### y2v10 pp.9-235 — Full volume
+### y2v10 p.9-235 — katsuragi-kouhei mentioned in passing
+[scene] (p.9) Named in this volume.
+[note] (p.9) Passing mention (locator pages: p.39, p.57, p.85, p.145, p.164, p.175; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.9) Passing mention only.
 
-[scene] (p.9) Appears in this volume.
 
 
-<!-- walk: y2v10 Epilogue → p.235 -->
 
 ## y2v11
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 pp.11-223 — Full volume
+### y2v11 p.11-223 — katsuragi-kouhei mentioned in passing
+[scene] (p.11) Named in this volume.
+[note] (p.11) Passing mention (locator pages: p.40, p.115, p.159-160, p.199; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.11) Passing mention only.
 
-[scene] (p.11) Appears in this volume.
 
 
-<!-- walk: y2v11 Epilogue → p.223 -->
 
 ## y2v12
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 pp.12-228 — Full volume
+### y2v12 p.12-228 — katsuragi-kouhei mentioned in passing
+[scene] (p.12) Named in this volume.
+[note] (p.12) Passing mention (locator pages: p.17, p.65, p.69, p.101, p.105-115, p.117-118; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.12) Passing mention only.
 
-[scene] (p.12) Appears in this volume.
 
 
-<!-- walk: y2v12 Epilogue → p.228 -->
 
 ## y3v1
 

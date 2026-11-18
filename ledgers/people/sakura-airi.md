@@ -1036,6 +1036,15 @@ aliases used for anchors: sakura, airi, sakura-san
 
 <!-- walk: y1v11 ch6 → p.280 -->
 
+## y2v12
+
+<!-- walk: y2v12 → start -->
+
+### y2v12 p.12-228 — sakura-airi mentioned in passing
+[scene] (p.12) Named in this volume.
+[note] (p.12) Passing mention (locator pages: p.38; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.12) Passing mention only.
+
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

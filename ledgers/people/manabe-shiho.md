@@ -362,9 +362,16 @@ char_id: manabe-shiho · class: Class 1-C · status: minor
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 pp.12-228 — Full volume
+### y2v12 p.12-228 — manabe-shiho mentioned in passing
+[scene] (p.12) Named in this volume.
+[note] (p.12) Passing mention (locator pages: p.17; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.12) Passing mention only.
 
-[scene] (p.12) Appears in this volume.
+## y2v12.5
 
+<!-- walk: y2v12.5 → start -->
 
-<!-- walk: y2v12 Epilogue → p.228 -->
+### y2v12.5 p.11-216 — manabe-shiho mentioned in passing
+[scene] (p.11) Named in this volume.
+[note] (p.11) Passing mention (locator pages: p.78; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.11) Passing mention only.

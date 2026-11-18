@@ -6,6 +6,15 @@ char_id: naoe · class: unknown · status: unknown
 
 <!-- walk: y2v2 → start -->
 
+## y2v12.5
+
+<!-- walk: y2v12.5 → start -->
+
+### y2v12.5 p.11-216 — naoe mentioned in passing
+[scene] (p.11) Named in this volume.
+[note] (p.11) Passing mention (locator pages: p.129, p.131-132; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.11) Passing mention only.
+
 ## y0
 
 <!-- walk: y0 → start -->

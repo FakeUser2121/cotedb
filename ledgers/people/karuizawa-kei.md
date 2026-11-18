@@ -1453,6 +1453,15 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [trait] (p.362–363) Awe-struck by his casually stated 400 points (an A-equivalent) and his claim that he controls his score; decides to study with "my boyfriend," and is delighted when he comes to sit beside her — "a gentle breeze had taken his scent along with it" — resolving to focus so they can spend a fun school life together.
 [rel:ayanokouji-kiyotaka] (p.362–363) Her boyfriend; amazed by his ability and happy to study side by side with him.
 [rel:ishigami-kyou] (p.362) 400 points would let him compete with Yukimura.
+## y2v12
+
+<!-- walk: y2v12 → start -->
+
+### y2v12 p.12-228 — karuizawa-kei mentioned in passing
+[scene] (p.12) Named in this volume.
+[note] (p.12) Passing mention (locator pages: p.20-24, p.39, p.45-46, p.53, p.61, p.91-92; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.12) Passing mention only.
+
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
@@ -1882,9 +1891,12 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v9.75 → start -->
 
-### y2v9.75 pp.4-8 — Full volume
+### y2v9.75 p.1-17 — karuizawa-kei mentioned in passing
+[scene] (p.1) Named in this volume.
+[note] (p.1) Passing mentions on pages: p.4.
+[mentioned] (p.1) Passing mention only.
 
-[scene] (p.4) Appears in this volume.
+
 
 
 <!-- walk: y2v9.75 Epilogue → p.17 -->
@@ -1893,34 +1905,37 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v10 → start -->
 
-### y2v10 pp.9-235 — Full volume
+### y2v10 p.9-235 — karuizawa-kei mentioned in passing
+[scene] (p.9) Named in this volume.
+[note] (p.9) Passing mention (locator pages: p.9-11, p.14, p.16-17, p.29, p.51-53, p.55-60; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.9) Passing mention only.
 
-[scene] (p.9) Appears in this volume.
 
 
-<!-- walk: y2v10 Epilogue → p.235 -->
 
 ## y2v10.25
 
 <!-- walk: y2v10.25 → start -->
 
-### y2v10.25 pp.1-10 — Full volume
+### y2v10.25 p.1-10 — karuizawa-kei mentioned in passing
+[scene] (p.1) Named in this volume.
+[note] (p.1) Passing mentions on pages: p.3.
+[mentioned] (p.1) Passing mention only.
 
-[scene] (p.1) Appears in this volume.
 
 
-<!-- walk: y2v10.25 Epilogue → p.10 -->
 
 ## y2v11
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 pp.11-223 — Full volume
+### y2v11 p.11-223 — karuizawa-kei mentioned in passing
+[scene] (p.11) Named in this volume.
+[note] (p.11) Passing mention (locator pages: p.19, p.21, p.26, p.30, p.34-35, p.37-38; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.11) Passing mention only.
 
-[scene] (p.11) Appears in this volume.
 
 
-<!-- walk: y2v11 Epilogue → p.223 -->
 
 
 <!-- walk: y2v12 Epilogue → p.228 -->

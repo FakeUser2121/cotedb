@@ -5805,6 +5805,15 @@ walk: y1v1 → DONE
 ### y2v1 p.356–357 — Final class standings
 [trivia] (p.356) Special Exam Overall Ranking: 1st Class 2-A (725 avg), 2nd 2-C (673), 3rd 2-D (640), 4th 2-B (621) — Class D achieved Horikita's goal of third place or higher.
 [trivia] (p.357) Class points as of May 1: 2-A (Sakayanagi) 1169, 2-B (Ryūen) 565 [note: corpus labels swapped], 2-C (Ichinose) 539, 2-D (Horikita) 283.
+## y2v12
+
+<!-- walk: y2v12 → start -->
+
+### y2v12 p.12-228 — ayanokouji-kiyotaka mentioned in passing
+[scene] (p.12) Named in this volume.
+[note] (p.12) Passing mention (locator pages: p.21, p.23, p.31, p.33, p.38, p.43; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.12) Passing mention only.
+
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
@@ -9278,9 +9287,12 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v9.75 → start -->
 
-### y2v9.75 pp.4-8 — Full volume
+### y2v9.75 p.1-17 — ayanokouji-kiyotaka mentioned in passing
+[scene] (p.1) Named in this volume.
+[note] (p.1) Passing mentions on pages: p.4.
+[mentioned] (p.1) Passing mention only.
 
-[scene] (p.4) Appears in this volume.
+
 
 
 <!-- walk: y2v9.75 Epilogue → p.17 -->
@@ -9289,34 +9301,37 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v10 → start -->
 
-### y2v10 pp.9-235 — Full volume
+### y2v10 p.9-235 — ayanokouji-kiyotaka mentioned in passing
+[scene] (p.9) Named in this volume.
+[note] (p.9) Passing mention (locator pages: p.8-11, p.16, p.20-22, p.24, p.51, p.53; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.9) Passing mention only.
 
-[scene] (p.9) Appears in this volume.
 
 
-<!-- walk: y2v10 Epilogue → p.235 -->
 
 ## y2v10.25
 
 <!-- walk: y2v10.25 → start -->
 
-### y2v10.25 pp.1-10 — Full volume
+### y2v10.25 p.1-10 — ayanokouji-kiyotaka mentioned in passing
+[scene] (p.1) Named in this volume.
+[note] (p.1) Passing mentions on pages: p.1-2, p.4.
+[mentioned] (p.1) Passing mention only.
 
-[scene] (p.1) Appears in this volume.
 
 
-<!-- walk: y2v10.25 Epilogue → p.10 -->
 
 ## y2v11
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 pp.11-223 — Full volume
+### y2v11 p.11-223 — ayanokouji-kiyotaka mentioned in passing
+[scene] (p.11) Named in this volume.
+[note] (p.11) Passing mention (locator pages: p.15, p.19, p.22, p.26-28, p.32, p.34; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.11) Passing mention only.
 
-[scene] (p.11) Appears in this volume.
 
 
-<!-- walk: y2v11 Epilogue → p.223 -->
 
 
 <!-- walk: y2v12 Epilogue → p.228 -->

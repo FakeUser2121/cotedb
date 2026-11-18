@@ -6,15 +6,30 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 
 <!-- walk: y2v2 → start -->
 
+## y2v12
+
+<!-- walk: y2v12 → start -->
+
+### y2v12 p.12-228 — yamamura-miki mentioned in passing
+[scene] (p.12) Named in this volume.
+[note] (p.12) Passing mention (locator pages: p.44-45, p.47, p.59-60, p.106, p.210, p.216; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.12) Passing mention only.
+
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
 
-### y2v12.5 — Mentioned
+### y2v12.5 p.11-216 — Yamamura peers at the letter
+[scene] (p.105) Flustered alongside the others; peers into the envelope over Ayanokōji's shoulder and mutters that it is a phone number.
+[says] (p.105) “A phone number... it seems.”
 
-[scene] (p.43) Appears in this volume.
+<!-- walk: y2v12.5 Ch.6 → p.106 -->
 
-<!-- walk: y2v12.5 Epilogue → p.216 -->
+### y2v12.5 p.43-218 — Yamamura elsewhere in this volume
+[scene] (p.43) Named in this volume.
+[note] (p.43) Locator pages beyond p.105-106: p.43, p.45, p.47, p.50-52, p.54, p.94-95, p.102-103, p.211-212; not line-by-line verified; substring false positives possible. Not a verified scene presence.
+
+<!-- walk: y2v12.5 Epilogue → p.212 -->
 
 ## y3v1
 
@@ -138,23 +153,25 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 
 <!-- walk: y2v10 → start -->
 
-### y2v10 pp.9-235 — Full volume
+### y2v10 p.9-235 — yamamura-miki mentioned in passing
+[scene] (p.9) Named in this volume.
+[note] (p.9) Passing mention (locator pages: p.138, p.146, p.157-160, p.193-196, p.209; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.9) Passing mention only.
 
-[scene] (p.9) Appears in this volume.
 
 
-<!-- walk: y2v10 Epilogue → p.235 -->
 
 ## y2v11
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 pp.11-223 — Full volume
+### y2v11 p.11-223 — yamamura-miki mentioned in passing
+[scene] (p.11) Named in this volume.
+[note] (p.11) Passing mention (locator pages: p.10, p.30-32, p.46-49, p.60, p.111, p.120-121; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.11) Passing mention only.
 
-[scene] (p.11) Appears in this volume.
 
 
-<!-- walk: y2v11 Epilogue → p.223 -->
 
 
 <!-- walk: y2v12 Epilogue → p.228 -->

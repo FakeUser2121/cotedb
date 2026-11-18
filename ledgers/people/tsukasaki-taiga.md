@@ -71,9 +71,10 @@ char_id: tsukasaki-taiga · class: Class 2-A · status: minor
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 pp.12-228 — Full volume
+### y2v12 p.12-228 — tsukasaki-taiga mentioned in passing
+[scene] (p.12) Named in this volume.
+[note] (p.12) Passing mention (locator pages: p.106; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.12) Passing mention only.
 
-[scene] (p.12) Appears in this volume.
 
 
-<!-- walk: y2v12 Epilogue → p.228 -->

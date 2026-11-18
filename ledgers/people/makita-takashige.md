@@ -26,9 +26,10 @@ char_id: makita-takashige · class: unknown · status: unknown
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 pp.12-228 — Full volume
+### y2v12 p.12-228 — makita-takashige mentioned in passing
+[scene] (p.12) Named in this volume.
+[note] (p.12) Passing mention (locator pages: p.91, p.97; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.12) Passing mention only.
 
-[scene] (p.12) Appears in this volume.
 
 
-<!-- walk: y2v12 Epilogue → p.228 -->

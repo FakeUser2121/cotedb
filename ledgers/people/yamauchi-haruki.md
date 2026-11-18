@@ -891,5 +891,11 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [note] (p.11) Passing mentions on pages: p.14.
 [mentioned] (p.11) Passing mention only.
 
+## y2v12.5
 
+<!-- walk: y2v12.5 → start -->
 
+### y2v12.5 p.11-216 — yamauchi-haruki mentioned in passing
+[scene] (p.11) Named in this volume.
+[note] (p.11) Passing mention (locator pages: p.20-21, p.123; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.11) Passing mention only.

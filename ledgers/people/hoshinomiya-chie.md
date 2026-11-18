@@ -289,6 +289,15 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
+## y2v12
+
+<!-- walk: y2v12 → start -->
+
+### y2v12 p.12-228 — hoshinomiya-chie mentioned in passing
+[scene] (p.12) Named in this volume.
+[note] (p.12) Passing mention (locator pages: p.10, p.20, p.40, p.50, p.65, p.84-86; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.12) Passing mention only.
+
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
@@ -453,12 +462,13 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 
 <!-- walk: y2v10 → start -->
 
-### y2v10 pp.9-235 — Full volume
+### y2v10 p.9-235 — hoshinomiya-chie mentioned in passing
+[scene] (p.9) Named in this volume.
+[note] (p.9) Passing mention (locator pages: p.50, p.97, p.119, p.128, p.144-147, p.163-164; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.9) Passing mention only.
 
-[scene] (p.9) Appears in this volume.
 
 
-<!-- walk: y2v10 Epilogue → p.235 -->
 
 
 <!-- walk: y2v12 Epilogue → p.228 -->

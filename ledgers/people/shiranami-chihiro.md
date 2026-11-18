@@ -119,12 +119,12 @@ char_id: shiranami-chihiro · class: Class 1-B · status: minor (allies)
 
 <!-- walk: y2v10 → start -->
 
-### y2v10 pp.9-235 — Full volume
+### y2v10 p.9-235 — shiranami-chihiro: no page hits
+[scene] (p.9) Rostered for this volume.
+[note] (p.9) Page locator found no matches for this name in this volume; possible spelling/alias variant missed. Not read line-by-line.
 
-[scene] (p.9) Appears in this volume.
 
 
-<!-- walk: y2v10 Epilogue → p.235 -->
 
 
 <!-- walk: y2v12 Epilogue → p.228 -->

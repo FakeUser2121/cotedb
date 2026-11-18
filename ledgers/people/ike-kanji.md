@@ -1061,6 +1061,15 @@ aliases used for anchors: ike, kanji, ike-kun
 [says] (p.53) "W-w-w-what should I do, Hirata!? My Academic Ability rating is an E! I'm screwed!"
 [trait] (p.27–53) Restless and easily panicked — asks the obvious question, is frustrated by cross-year involvement, laments nobody would pair with "an idiot like me," and begs Hirata for help with his E rating; breathes a sigh of relief at the random-partner safety net.
 [rel:hirata-yousuke] (p.53) Begs him for help when he panics about his E rating.
+## y2v12
+
+<!-- walk: y2v12 → start -->
+
+### y2v12 p.12-228 — ike-kanji mentioned in passing
+[scene] (p.12) Named in this volume.
+[note] (p.12) Passing mention (locator pages: p.12, p.16, p.18-24, p.26-31, p.33-34, p.37-39; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.12) Passing mention only.
+
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
@@ -1301,23 +1310,25 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y2v10 → start -->
 
-### y2v10 pp.9-235 — Full volume
+### y2v10 p.9-235 — ike-kanji mentioned in passing
+[scene] (p.9) Named in this volume.
+[note] (p.9) Passing mention (locator pages: p.8-13, p.15, p.17-21, p.23, p.26-28, p.31-32; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.9) Passing mention only.
 
-[scene] (p.9) Appears in this volume.
 
 
-<!-- walk: y2v10 Epilogue → p.235 -->
 
 ## y2v11
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 pp.11-223 — Full volume
+### y2v11 p.11-223 — ike-kanji mentioned in passing
+[scene] (p.11) Named in this volume.
+[note] (p.11) Passing mention (locator pages: p.10, p.13-17, p.19, p.21, p.23-24, p.26-27; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.11) Passing mention only.
 
-[scene] (p.11) Appears in this volume.
 
 
-<!-- walk: y2v11 Epilogue → p.223 -->
 
 
 <!-- walk: y2v12 Epilogue → p.228 -->

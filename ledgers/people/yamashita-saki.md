@@ -45,6 +45,15 @@ char_id: yamashita-saki · class: Class 1-C · status: minor (allies)
 
 <!-- walk: y1v8 ch5 → p.152 -->
 
+## y2v12.5
+
+<!-- walk: y2v12.5 → start -->
+
+### y2v12.5 p.11-216 — yamashita-saki mentioned in passing
+[scene] (p.11) Named in this volume.
+[note] (p.11) Passing mention (locator pages: p.78; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.11) Passing mention only.
+
 ## y3v3
 
 <!-- walk: y3v3 → start -->
@@ -67,20 +76,22 @@ char_id: yamashita-saki · class: Class 1-C · status: minor (allies)
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 pp.11-223 — Full volume
+### y2v11 p.11-223 — yamashita-saki mentioned in passing
+[scene] (p.11) Named in this volume.
+[note] (p.11) Passing mention (locator pages: p.141; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.11) Passing mention only.
 
-[scene] (p.11) Appears in this volume.
 
 
-<!-- walk: y2v11 Epilogue → p.223 -->
 
 ## y2v12
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 pp.12-228 — Full volume
+### y2v12 p.12-228 — yamashita-saki mentioned in passing
+[scene] (p.12) Named in this volume.
+[note] (p.12) Passing mention (locator pages: p.101; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.12) Passing mention only.
 
-[scene] (p.12) Appears in this volume.
 
 
-<!-- walk: y2v12 Epilogue → p.228 -->

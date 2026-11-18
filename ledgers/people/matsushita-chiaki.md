@@ -88,6 +88,15 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
+## y2v12
+
+<!-- walk: y2v12 → start -->
+
+### y2v12 p.12-228 — matsushita-chiaki mentioned in passing
+[scene] (p.12) Named in this volume.
+[note] (p.12) Passing mention (locator pages: p.46-48, p.66, p.87, p.120; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.12) Passing mention only.
+
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
@@ -243,12 +252,13 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 
 <!-- walk: y2v10 → start -->
 
-### y2v10 pp.9-235 — Full volume
+### y2v10 p.9-235 — matsushita-chiaki mentioned in passing
+[scene] (p.9) Named in this volume.
+[note] (p.9) Passing mention (locator pages: p.166-167; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.9) Passing mention only.
 
-[scene] (p.9) Appears in this volume.
 
 
-<!-- walk: y2v10 Epilogue → p.235 -->
 
 
 <!-- walk: y2v12 Epilogue → p.228 -->

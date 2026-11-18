@@ -76,6 +76,15 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 [trait] (p.176–189) Cheerful, playful and sharp — deliberately omits cilantro to prevent him identifying the dish, checks his technique closely, eats every bite, and meticulously cleans the kitchen (used to helping her mother); refuses to be an intermediary because she isn't close to her Class 1-A classmates.
 [rel:ayanokouji-kiyotaka] (p.176–189) Tests his cooking; agrees to partner with Sudō out of respect, and declines his intermediary request.
 [rel:sudou-ken] (p.187–188) Agrees to partner with him and submits the application.
+## y2v12
+
+<!-- walk: y2v12 → start -->
+
+### y2v12 p.12-228 — amasawa-ichika mentioned in passing
+[scene] (p.12) Named in this volume.
+[note] (p.12) Passing mention (locator pages: p.39-40; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.12) Passing mention only.
+
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
@@ -337,12 +346,13 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 pp.11-223 — Full volume
+### y2v11 p.11-223 — amasawa-ichika mentioned in passing
+[scene] (p.11) Named in this volume.
+[note] (p.11) Passing mention (locator pages: p.40, p.62, p.64-66, p.92-95, p.100-102, p.104-107; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.11) Passing mention only.
 
-[scene] (p.11) Appears in this volume.
 
 
-<!-- walk: y2v11 Epilogue → p.223 -->
 
 
 <!-- walk: y2v12 Epilogue → p.228 -->
