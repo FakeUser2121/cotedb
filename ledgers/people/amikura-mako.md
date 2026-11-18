@@ -122,6 +122,15 @@ char_id: amikura-mako · class: Class 1-B · status: minor (allies)
 
 <!-- walk: y2v8 Ch.3 → p.129 -->
 
+### y2v8 p.130–139 — The tour debate; the silent satirist
+[scene] (p.130–139) She fumbles the map app (typing destinations at random); she funny-looks Ayanokōji after Watanabe's Karuizawa dig; she sidles behind the majority; she wants no fight.
+[says] (p.132) “Hmm. Even if I tried to give a route on a map app, I wouldn't even know where things are, so the order would be messed up.”
+[rel:watanabe-norihito] (p.136) They exchange cowardly-conspicuous glances after the Karuizawa quip.
+[rel:kushida-kikyou] (p.135–139) She defers to Kushida's strategy, barely involved.
+[rel:kitou-hayato] (p.133–139) He chooses the same side; she's relieved.
+
+<!-- walk: y2v8 Ch.4 → p.161 -->
+
 ### y2v8 p.11-208 — amikura-mako mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.46-47, p.49-50, p.67, p.79, p.83.

@@ -108,6 +108,16 @@ char_id: watanabe-norihito · class: unknown · status: unknown
 
 <!-- walk: y2v8 Ch.3 → p.129 -->
 
+### y2v8 p.130–139 — The tour debate; the dreaded stranger role
+[scene] (p.130–139) He's the most terrified of Ryūen and the most polite to everyone; when the debate stalls he jumps in with "Oh, calm down, Kitō!"; he trades directions with Kushida's eyes; he learns everyone's read by noon.
+[says] (p.135) “Oh, calm down, Kitō!”
+[says] (p.136) “You're dating Karuizawa, aren't you?”
+[rel:kushida-kikyou] (p.136) He corners her about Ayanokōji's relationship status; she covers for both of them.
+[rel:kitou-hayato] (p.130–139) He fears him without admitting it to himself.
+[rel:amikura-mako] (p.136) Her amused glance lands on him too.
+
+<!-- walk: y2v8 Ch.4 → p.161 -->
+
 ### y2v8 p.11-208 — watanabe-norihito mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.46-47, p.49-51, p.56, p.65-70, p.78-84.

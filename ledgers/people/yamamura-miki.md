@@ -216,6 +216,15 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 
 <!-- walk: y2v8 Ch.2 → p.89 -->
 
+### y2v8 p.130–139 — The tour debate; hands in pockets
+[scene] (p.130–139) She sides with the majority silently (no opinion of her own on spots); when Ayanokōji's majority gambit wins, she exhales quietly; she stays a ghost through the argument.
+[scene] (p.138–139) After the resolution she nods along with the sightseeing plan; her relief is invisible but real.
+[rel:kushida-kikyou] (p.135–139) She reads Kushida's pull on the group; hangs back.
+[rel:nishino-takeko] (p.130–139) They swap small talk on the bus rides.
+[rel:amikura-mako] (p.132) She stands near Amikura during the map-app stupor.
+
+<!-- walk: y2v8 Ch.4 → p.161 -->
+
 ### y2v8 p.11-208 — yamamura-miki mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.46-47, p.50, p.55-57, p.63-64, p.79.

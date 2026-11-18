@@ -1875,6 +1875,48 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y2v8 Ch.3 → p.129 -->
 
+### y2v8 p.130–139 — Sapporo: the spot-tour debate and the strategy meeting
+[scene] (p.130–132) The bus stops at Sapporo Station; each group gets a pamphlet of 15 spots; the deal: visit six, photograph each; 20+ points = 30,000 private points; fewer than six spots and you lose tomorrow's free day (study session instead); the groups must travel as a unit.
+[scene] (p.133–139) The eight of them split: Ryūen wants the points; Kitō wants nothing to do with it; Nishino and Amikura want fun; she bridges both camps; Ayanokōji proposes the majority-vote solution; she covers for his strategy session from Watanabe's jealous sideways glance.
+[says] (p.131) “I'm not surprised. It's very typical of this school to do this...”
+[says] (p.131) “It hurts to know that if I don't do it right, I'll lose a whole day to study sessions. I wonder if the reason they let us have a whole day of free time yesterday without any restrictions had something to do with this tour.”
+[says] (p.135) “Hey, can I have a word? What do you think we should do about this situation?”
+[says] (p.135) “I thought it would be safer to follow Ryūen-kun, but Kitō-kun has ended up like that as well. That said, Ryūen-kun won't budge if I go along with Kitō-kun. They're really selfish people.”
+[says] (p.136) “It's not cheap... Right?”
+[says] (p.136) “Huh? That kind of bullshit... This is so bothersome.”
+[says:ayanokouji-kiyotaka] (p.138) “I don't want to waste this precious day either. We're going to have to endure the pain to get things going.”
+[says] (p.138) “What are you going to do about it?”
+[says] (p.138) “Ryūen-kun, we're still not going to try to win private points. We all want to discuss where we want to go together today and have a fun day.”
+[says] (p.138) “I agree.”
+[says:ayanokouji-kiyotaka] (p.137) “That's right. It's basically a contest of endurance already?”
+[trait] (p.130–139) She works the room like a demagogue — nudging everyone to either points-vision or leisure-vision; positions herself as Ryūen's advisor to him (fake) while lobbying against him with Ayanokōji; her mitosis instinct sees through everyone except Ayanokōji.
+[rel:ayanokouji-kiyotaka] (p.135–139) She pulls him aside for a strategy session; covers for him when Watanabe notices the whisper-huddle.
+[rel:ryuuen-kakeru] (p.133–139) She discredits him publicly but handles him with silk gloves — publicly and privately two different women.
+[rel:kitou-hayato] (p.133–139) She counts him on her side; she doesn't want to court him.
+[rel:watanabe-norihito] (p.137) She deflects his jealous glance with her usual charm — Watanabe buys the cover.
+[rel:amikura-mako] (p.131–139) She and Amikura exchange silent signals throughout.
+
+### y2v8 p.146–150 — The Ryūen showdown; the wall; the meltdown
+[scene] (p.146–150) She waits at the entrance for Ryūen; confronts him alone about the provocations; demands he stop; Ryūen is calm; Ayanokōji reveals himself and intervenes; she slumps against a wall, slaps it, goes dizzy; she covers the embarrassment with theatrical normalcy; she limps away.
+[says] (p.146) “Ryūen-kun, may I have a word with you?”
+[says] (p.146) “It's... Here, I'd like to go somewhere else, is that okay?”
+[says] (p.146) “Haha, that's not what I meant. I mean, don't worry. I don't want you to die, yet.”
+[says] (p.146) “It's about my relationship with Ryūen-kun. Even when we were working as… a group, you sometimes said unnecessary things. Can you please stop that kind of thing?”
+[says] (p.147) “Yes, you're right. I believe that's true.”
+[says] (p.147) “You can speculate all you want, but you're wrong.”
+[says] (p.147) “What are you going to do? Do you plan to get down on your knees and ask me to keep my mouth shut? Or are you going to try and expel me?”
+[says] (p.148) “Let's not talk about this. I'm not going to use Kikyō's story to attack your class in the first place.”
+[says] (p.148) “You don't know this, but he told me yesterday that he was no longer going to expel you. That's why I won't be able to attack you using that.”
+[says] (p.149) “I've kind of been saved by Ayanokōji-kun, haven't I?”
+[says] (p.150) “I'm fine! I'm fine! Don't worry!”
+[says] (p.150) “I got a little dizzy, but I'm fine! I'm fine!”
+[trait] (p.146–150) She finally shows the crack — seizure-like wall palms and stumbling; masks it all as dizziness; stands by her own combo of gratitude and fury toward Ayanokōji.
+[rel:ryuuen-kakeru] (p.146–150) She confronts him solo; he terrifies her without raising his voice; Ayanokōji's intervention saves her.
+[rel:ayanokouji-kiyotaka] (p.146–150) She owes him one and hates knowing it; he won anyway by knowing exactly what to do.
+[rel:horikita-suzune] (p.146–150) This is the first time she realizes Horikita's people are actively shielding her (not just Ayanokōji being Ayanokōji).
+
+<!-- walk: y2v8 Ch.4 → p.161 -->
+
 ### y2v8 p.11-208 — kushida-kikyou mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.12, p.46-47, p.49-50, p.52, p.55-64.

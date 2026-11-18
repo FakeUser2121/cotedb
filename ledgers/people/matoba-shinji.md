@@ -81,6 +81,16 @@ char_id: matoba-shinji · class: Class 1-A (enrolled April 2015) · status: mino
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.144–145 — The quarantine keeper
+[scene] (p.144) Matoba shadows Katsuragi's table; he physically blocks Oda twice; he intercepts Ayanokōji with a warning — "I'm in the middle of a little group activity with Katsuragi. Can you leave him alone?"; he abandons the warning when Ryūen interposes in disgust.
+[says] (p.145) “I'm in the middle of a little group activity with Katsuragi. Can you leave him alone?”
+[trait] (p.144–145) Class A's wet blanket; serious about blocking non-Class-A contact; no stomach for Ryūen physically.
+[rel:katsuragi-kouhei] (p.144–145) He's Katsuragi's handler for the duration of the quarantine.
+[rel:ryuuen-kakeru] (p.145) Ryūen steamrolls his warning with a stare and a seat; Matoba vanishes.
+[rel:oda-takumi] (p.144) He blocks the Oda walk-up twice.
+
+<!-- walk: y2v8 Ch.4 → p.161 -->
+
 ### y2v8 p.11-208 — matoba-shinji mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.144-145.
@@ -97,6 +107,3 @@ char_id: matoba-shinji · class: Class 1-A (enrolled April 2015) · status: mino
 [scene] (p.9) Named in this volume.
 [note] (p.9) Passing mention (locator pages: p.146; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
-
-
-

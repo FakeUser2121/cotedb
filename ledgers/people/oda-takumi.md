@@ -24,6 +24,14 @@ char_id: oda-takumi · class: Class 1-C · status: minor
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.144–145 — The approach that isn't allowed
+[scene] (p.144) Oda spots Katsuragi alone at the corner table and moves to sit with him; Matoba and Baba cut him off; he withdraws to a different table under watch.
+[note] (p.144) Oda is named but not rostered with this volume; no given name printed; kept as a one-line presence only.
+[rel:matoba-shinji] (p.144) Matoba freezes his approach twice; he doesn't push it further.
+[rel:katsuragi-kouhei] (p.144–145) He carries information Katsuragi shouldn't hear in public.
+
+<!-- walk: y2v8 Ch.4 → p.161 -->
+
 ### y2v8 p.11-208 — oda-takumi mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.12, p.16, p.22-23, p.28-29, p.32.

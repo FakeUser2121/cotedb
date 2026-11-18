@@ -227,6 +227,32 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 
 <!-- walk: y2v8 Ch.2 → p.89 -->
 
+### y2v8 p.130–139 — The tour obstruction; siding with the five
+[scene] (p.130–139) He holds his peace through the debate; when the majority runs, he sides against Ryūen regardless of cost; he accepts the leisure tour without grumbling.
+[says] (p.133) “I have no objection.”
+[says] (p.134) “You want all of us to obey you for your satisfaction?”
+[says] (p.134) “I refuse. If you insist on getting private points and ignoring the opinions of everybody else, I won't cooperate with your tour of this spot.”
+[says] (p.138) “That's a good proposal. I'll take you up on it.”
+[trait] (p.130–139) His opposition is principled, not personal — he will not countenance Ryūen's "shut up" approach to the group; when offered the clean majority path, he takes it without gloating; his honesty re-centers the group.
+[rel:ryuuen-kakeru] (p.130–139) Ideological enemies of convenience; Kitō holds the line so Ryūen spends his own capital.
+[rel:ayanokouji-kiyotaka] (p.137–138) Ayanokōji frets about him getting isolated; Kitō picks the right side.
+[rel:kushida-kikyou] (p.135–139) She's the conductor; he trusts her baton.
+[rel:watanabe-norihito] (p.133–135) Watanabe fears Kitō loved by default — Kitō tolerates it.
+
+### y2v8 p.159–161 — Fashion magazines; the fashion designer speech
+[scene] (p.159–161) After dinner he keeps the ryokan's magazines; he reads a lot of fashion magazines; Watanabe interrogates him relentlessly; he admits his dream — fashion designer; the room goes quiet.
+[says] (p.160) “I'm going to become a fashion designer.”
+[says] (p.160) “I know you must think it's surprising. You can't imagine that from my appearance.”
+[says] (p.161) “I'm used to it. Most people are surprised and unconvinced when I talk about my dreams. I don't expect them to readily accept me if I pursue that path honestly.”
+[says] (p.161) “But it doesn't matter if you graduate with Class A. You can jump into that world with no questions asked. Once you jump in, all you have to do is silence those around you with your skills.”
+[scene] (p.160) Ryūen cracks the ugly-adjacent joke ("assassin"); Watanabe desperately tries to soften it; Kitō absorbs the blow without reaction.
+[trait] (p.159–161) A gentle giant with the soul of a couture house — fashion magazines at 9 a.m. are his quiet manifesto; he does not waver under banter or disbelief; the room recalculates around him.
+[rel:watanabe-norihito] (p.159–161) Watanabe gets the most honest answers he's ever gotten; both are changed by the exchange.
+[rel:ryuuen-kakeru] (p.160) The "assassin" jab misfires; Kitō doesn't bite.
+[rel:ayanokouji-kiyotaka] (p.159–161) Ayanokōji witnesses his humanity; stops underestimating him.
+
+<!-- walk: y2v8 Ch.4 → p.161 -->
+
 ### y2v8 p.11-208 — kitou-hayato mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.46-48, p.50-52, p.55-56, p.65-68, p.80-85.

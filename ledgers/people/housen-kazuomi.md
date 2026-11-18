@@ -223,6 +223,11 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.152 — Twenty million private points (back)
+[back] (p.152) The Hōsen reference: Ayanokōji reminds Horikita that Hōsen knew firsthand — he was the one trying to get her expelled for the 20,000,000 private points prize; Horikita confirms it ("Twenty million private points, that was the prize.").
+
+<!-- walk: y2v8 Ch.4 → p.161 -->
+
 ### y2v8 p.11-208 — housen-kazuomi mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.16-17, p.46, p.56, p.108, p.152.

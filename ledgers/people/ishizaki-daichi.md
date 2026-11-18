@@ -800,6 +800,22 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y2v8 Ch.2 → p.89 -->
 
+### y2v8 p.139–144 — All-you-can-eat: crab, ramen logic
+[scene] (p.139–140) Dinner is a buffet; Ishizaki "yo-yells" Ayanokōji from instinct; invites him and Nishino to join; Albert is already seated.
+[says] (p.140) “Yo, Ayanokōji. Are you planning to eat alone?”
+[says] (p.140) “Well, come eat with me. I asked Nishino earlier too, because she was alone. And you must be lonely eating by yourself, right?”
+[says] (p.141) “Hey! I brought a ton of crab! I'm on a crab binge!"
+[says] (p.141) “What's vulgar? This is a Viking! You can take all you want!”
+[says] (p.141) “Buffet? No, that's just lame, isn't it?”
+[says] (p.143) “You're not bothering Ryūen-san, are you?”
+[says] (p.144) “I've always wondered, isn't Nishino afraid of Ryūen-san?”
+[trait] (p.139–144) Loud and odorous but kind; he brims with off-putting enthusiasm; surrounds himself with food the way others surround themselves with friends; the Ass-fast friend-type.
+[rel:nishino-takeko] (p.140, 143–144) He invites her to keep him company; she trades barbs across the table.
+[rel:yamada-albert] (p.140, 143) Partner-in-crime-banter; Albert ignores the noise and eats Japanese food, content.
+[rel:katsuragi-kouhei] (p.144) He sits nearby; Ayanokōji notices him alone; Ishizaki pretends not to stare.
+
+<!-- walk: y2v8 Ch.4 → p.161 -->
+
 ### y2v8 p.11-208 — ishizaki-daichi mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.63, p.140-141, p.143-144, p.165.

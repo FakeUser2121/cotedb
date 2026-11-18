@@ -2366,6 +2366,53 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v8 Ch.2 → p.89 -->
 
+### y2v8 p.130–139 — The tour-test obstruction; the backing-down
+[scene] (p.130–139) The group debates the spot tour: he wants the 30,000 (800M plan is in motion); Kitō blocks him; Ayanokōji out-thinks him using Kitō's rebellion and the five-eighths majority; he backs down to avoid breaking the group for free.
+[says] (p.133) “I'm going to score.”
+[says] (p.133) “Of course, it's a matter of private points. I don't think it's just 30,000.”
+[says] (p.133) “There's no reason not to pick up the money that's falling in front of you. You guys need to just shut up and follow.”
+[says] (p.134) “Don't make me laugh. Since when did this group become a democracy?”
+[says] (p.134) “Then what would that make you?”
+[says] (p.134) “Actually, you might be right. It's funny to see you get pissed off.”
+[says] (p.135) “Kukuku, you're the one who will be in the minority, Kitō. They'll have no choice but to follow me after a while anyway.”
+[says] (p.137) “Even so. Even if the reward drops to nearly 20,000, I'm not going to give up on it.”
+[says] (p.137) “So what? I ain't gonna change my opinion no matter what you say, Ayanokōji.”
+[says] (p.138) “You've gone the extra mile, Ayanokōji.”
+[says] (p.138) “I'm not going to come all the way to a tourist destination to study. I'll listen to you.”
+[trait] (p.130–139) He tries the obstruction first; when Ayanokōji sidelines him with Kitō and the majority, he backs down bloodlessly (but not happily) — he can see where the adverse math is; better to take the tour and recoup elsewhere.
+[rel:kitou-hayato] (p.133–139) He picks a losing fight with Kitō on principle; Kitō holds; he retreats.
+[rel:ayanokouji-kiyotaka] (p.137–139) He recognizes the checkmate in time to save face; he doesn't forgive it.
+[rel:nishino-takeko] (p.133–139) He'd hoped the list would bend her; it doesn't.
+
+### y2v8 p.144–150 — Katsuragi's table; Kushida's showdown; the room
+[scene] (p.144–146) He finds Katsuragi eating alone, quarantined by Matoba and Baba; he paralyzes Matoba with a stare; he sits down opposite Katsuragi; he makes Ayanokōji fetch him water; he needles Katsuragi about betrayal.
+[says] (p.145) “I wanted to take a closer look at your miserable face.”
+[says] (p.145) “‘I don't understand’. That's what it means to betray your class. It's too late to regret it now, Katsuragi.”
+[says] (p.145) “Bring me some water, Ayanokōji.”
+[says] (p.146) “Huh? What do you want?”
+[says] (p.146) “So? What do you want to talk about after going through all the trouble of being alone with me?”
+[says] (p.146) “Well, okay, I'll at least listen to you. I'd better get rid of the troublemaker, right?”
+[says] (p.147) “What do you want with me?”
+[says] (p.147) “So you mean you're going to do something about me someday?”
+[says] (p.147) “You sold your soul to the devil because you wanted to expel Suzune, didn't you? Of course, that comes with risks. You can't just pretend the past didn't happen now, can you?”
+[says] (p.147) “Kukuku. Either way, you're one of the keys to my class strategy. Whenever I have to deal with Suzune's class, I'll use this weapon without mercy.”
+[says] (p.147) “What are you going to do? Do you plan to get down on your knees and ask me to keep my mouth shut? Or are you going to try and expel me?”
+[says] (p.148) “Kukuku! What, Ayanokōji, you're also in on it, aren't you?”
+[says] (p.148) “Sorry, but this is getting even more interesting. I'm not going to let you ruin it with your interference.”
+[says] (p.148) “If I decide to expose you, there is nothing anyone can do to stop me.”
+[says] (p.148) “What do you mean...?”
+[says] (p.148) “That's right, I've already thought of a countermeasure for that situation.”
+[says] (p.148) “It's meaningless if I hit you with a strategy that doesn't work and lose out because of it, right?”
+[says] (p.149) “if I want to defeat you.”
+[says] (p.149) “I'm going back to my room now. Bye Kushida, enjoy the rest of your school life as much as you can.”
+[trait] (p.144–150) He circles Katsuragi like a wolf (without touching him); he weaponizes the Kushida thread knowing every side of it; the moment Ayanokōji shows "that face" he backs off completely — his equilibrium intact but unmistakably shaken.
+[rel:katsuragi-kouhei] (p.145) He torments him publicly as a loyalty test he isn't allowed to finish.
+[rel:matoba-shinji] (p.144–145) He vaporizes his interference with two words and a glance.
+[rel:kushida-kikyou] (p.146–150) He'd happily unload her; Ayanokōji's intervention locks it down.
+[rel:ayanokouji-kiyotaka] (p.145–150) The checkmate face; Ryūen leaves first this time.
+
+<!-- walk: y2v8 Ch.4 → p.161 -->
+
 ### y2v8 p.11-208 — ryuuen-kakeru mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.12, p.14, p.46-47, p.49-53, p.55-57.

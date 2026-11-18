@@ -138,6 +138,22 @@ char_id: nishino-takeko · class: Class 1-C · status: minor
 
 <!-- walk: y2v8 Ch.3 → p.129 -->
 
+### y2v8 p.130–144 — The Sapporo sightseeing debate; table chatter
+[scene] (p.133–139) She holds for sightseeing; she barks at Ryūen's starvation pitch; she calls his obstruction out; she laughs with Amikura/Watanabe when the matter resolves; she and Amikura stay for the leisure drive.
+[scene] (p.139–144) Ishizaki drags her to the crab table; she eats Japanese food in pointed silence; she needles Ishizaki for crusty manners; her brother's own drop-out story leaks out.
+[says] (p.135) “It's easy to give him a hard time, but there's no way he'll change his mind. I won't do anything unnecessary.”
+[says] (p.140) “I wanted to turn him down, but he was insistent.”
+[says] (p.141) “You're so annoying. Don't let scraps of food fly. They're so dirty.”
+[says] (p.143) “The details don't matter. I was looking forward to the buffet, you know.”
+[says] (p.143) “Why don't you take the other students into consideration? Crab is one of the signature dishes.”
+[says] (p.144) “Well, when he's serious, he does seem menacing. My idiot brother was also a delinquent, so maybe I have built a tolerance.”
+[says] (p.144) “A local construction company picked him up, and he's working hard every day at their site. He's getting paid a low salary, though.”
+[rel:ishizaki-daichi] (p.139–144) She sits where he points; she fights back verbally like it's muscle memory.
+[rel:ryuuen-kakeru] (p.133–139) She covers for Ryūen's mania with flat practicality.
+[rel:yamada-albert] (p.143) She matches his tempo if somewhat worse.
+
+<!-- walk: y2v8 Ch.4 → p.161 -->
+
 ### y2v8 p.11-208 — nishino-takeko mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.46-47, p.50, p.55, p.79-81, p.83.

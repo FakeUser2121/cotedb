@@ -312,6 +312,15 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.140–143 — The quiet table
+[scene] (p.140) Albert eats silently at the table with Ishizaki and Nishino and Ayanokōji; he deftly works chopsticks with his huge hands; everything on his tray is Japanese food; he approves of it.
+[scene] (p.143) When Ayanokōji remarks about Japanese food, Albert lines up his chopsticks, sets them down, and gives a single thumbs-up; back to the meal.
+[trait] (p.140–143) Silent, careful, methodical — the only person at the table eating at a human pace; sunglasses indoors.
+[rel:ishizaki-daichi] (p.140, 143) His shadow and his best-mannered friend.
+[rel:nishino-takeko] (p.143) He tolerates her non-stop commentary with perfect bowls-pause discipline.
+
+<!-- walk: y2v8 Ch.4 → p.161 -->
+
 ### y2v8 p.11-208 — yamada-albert mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: none.

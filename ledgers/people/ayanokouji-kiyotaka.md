@@ -9533,6 +9533,49 @@ walk: y1v1 → DONE
 [rel:ryuuen-kakeru] (p.145–149) He threatens Kushida; Ayanokōji forces him to back off by invoking the final exam.
 [rel:katsuragi-kouhei] (p.144–146) He's eating with Class A — Ryūen and Ayanokōji note his situation.
 
+### y2v8 p.150–153 — The appointment: cultural festival, Yagami, "Who you are"
+[scene] (p.150–151) Waiting in the corridor outside the guest room for Horikita; she arrives flustered; both walk toward the large-bath vending machines for the talk; her answers are clipped, angry, wounded.
+[scene] (p.152–153) They climb to the second-floor rest area where the two drinking teachers hog the massage chairs; the talk lands on the cultural festival: she questions him about Yagami — was he behind the expulsion-trap, and why does he behave like that at all?
+[says:horikita-suzune] (p.150) “Sorry, I'm a little late.”
+[says:horikita-suzune] (p.151) “About the cultural festival the other day. I'm sure I didn't get a chance to talk to you about it.”
+[says:horikita-suzune] (p.152) “You knew firsthand that Hōsen was trying to get me expelled, didn't you?”
+[says] (p.152) “Twenty million private points, that was the prize.”
+[says:horikita-suzune] (p.152) “Who you are. I can't possibly think of you as a normal student like the rest.”
+[says] (p.152) “For example, I was involved in the Yagami case that you're so interested in.”
+[says:horikita-suzune] (p.152) “You're not kidding, are you? Because Yagami-kun was trying to get you expelled from school?”
+[says] (p.153) “I set a trap for a student who was planning to expel me, and Yagami fell for it. I was the one who set the whole thing up.”
+[trait] (p.150–153) He finally discloses one true thing to her — the Yagami trap — as a strategic disclosure, not a friendship offering; he tells her partially, but clearly enough that she knows there is more.
+[rel:horikita-suzune] (p.150–153) She closes in on his past; he gives her a partial answer and defers the rest.
+[rel:yagami-takuya] (p.152) He confirms the trap directly; Yagami's expulsion had nothing to do with rewards — the trap took him out.
+[rel:housen-kazuomi] (p.152) The Hōsen reference: he knows the 20M-point bounty on her expulsion.
+
+### y2v8 p.153–161 — Second floor: the Daifugō speech; Kitō's dream
+[scene] (p.153–159) The rest area — two mid-40s? female teachers monopolizing the massage chairs, drunk; Horikita and Ayanokōji wander in; Hoshinomiya recognizes Suzune; starts bragging/Daifugō-gambling the merits of teachers; Chabashira defends her (“Sorry for everything.”); Hoshinomiya storms off; Horikita: “What I'm aiming for is Class A.”
+[says:horikita-suzune] (p.155) “Isn't it still before the students' bedtime? Aren't the teachers on duty?”
+[says] (p.155) “I was kind of curious. I thought the stronger the better it would be.”
+[says:chabashira-sae] (p.155) “Of course not! There's a strength that suits each person!”
+[says:hoshinomiya-chie] (p.156) “By the way, Horikita-san, you've totally become a leader. Are you still comfortable in Class B? Ah, how could a former homeroom teacher of Class B ask you such a question?”
+[says:horikita-suzune] (p.156) “It isn't good. What I'm aiming for is Class A. This is merely a checkpoint.”
+[says:hoshinomiya-chie] (p.157) “Yes, it's cheating. Sae-chan's class is the only one with a joker.”
+[says:hoshinomiya-chie] (p.157) “There's no way we can win.”
+[says:horikita-suzune] (p.158) “Regardless of whether your statement is right or wrong, what are you going to do if the Class D students hear it?”
+[says:chabashira-sae] (p.158) “It's not that I don't think about it, to be honest. The situation is too different from that of the class I taught three years ago.”
+[says:horikita-suzune] (p.158) “I don't know whether or not Ayanokōji-kun's a joker, but there's no denying that he's a powerful classmate. However, I'm not going to hold back on that.”
+[says:horikita-suzune] (p.158) “As long as it's a card that was dealt to the class, I will use it to fight with all my might.”
+[says:chabashira-sae] (p.158) “Well, I'm going after Chie. If I let her go like that, she might drink heavily until the sun rises.”
+[scene] (p.159–161) Kitō reads fashion magazines; Ayanokōji asks about higher education; Watanabe quizzes Kitō; Kitō says he'll become a fashion designer; Watanabe is doubly floored; the four exchange ceiling-talk about futures and Class A dreams.
+[says:kitou-hayato] (p.160) “I'm going to become a fashion designer.”
+[says:watanabe-norihito] (p.160) “Everyone here's from a different class, right? That means, normally, only one of the four of us could graduate in Class A.”
+[trait] (p.153–161) He plays the massage-machine teaser on Chabashira (level 5); the teachers' school politics land on him (the "joker" nickname is born); he ends the night with a quiet group — the conversation no longer about his brilliance but about Kitō's dreams.
+[rel:horikita-suzune] (p.150–159) She corners him but loses the upper hand — twice; the joker talk inflames her rather than humbles her.
+[rel:hoshinomiya-chie] (p.153–158) The drunk Daifugō speech; she points out the joker; she storms off mid-apology.
+[rel:chabashira-sae] (p.153–159) Her former homeroom teacher; capable of protecting Horikita without mercy either.
+[rel:kitou-hayato] (p.159–161) He passes Kitō the magazines unasked; Kitō talks dreams like a real man — first time.
+[rel:watanabe-norihito] (p.159–161) He pushes Watanabe to open up; Watanabe lands the "only one of the four" line.
+[rel:ryuuen-kakeru] (p.160) Ryūen's "assassin" jab — he's silent, unusually.
+
+<!-- walk: y2v8 Ch.4 → p.161 -->
+
 ### y2v8 p.162–174 — Final day: the snowball fight; Yamamura's thanks
 [scene] (p.162) Day 4: an informal snowball fight (1,000-pt entry, winner takes the pot); 42 students, 6 teams; he, Ibuki and Yamamura team with Horikita's group against Sudō's boys' team.
 [says] (p.169) "Let's do our best together, Yamamura."

@@ -4665,6 +4665,35 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v8 Ch.3 → p.129 -->
 
+### y2v8 p.150–159 — The appointment; the "Joker" speech
+[scene] (p.150) Waiting against the guest-room wall by the appointment; she arrives; she's angry-wounded; they walk to the big-bath vending machines; she leads him to the second floor when the common area fails.
+[says] (p.150) “Sorry, I'm a little late.”
+[says] (p.151) “There is a vending machine in front of the baths that sells fruit milk. It's delicious.”
+[says] (p.151) “About the cultural festival the other day. I'm sure I didn't get a chance to talk to you about it. It's been nagging at me for a long time, but I couldn't find a good time until today.”
+[says] (p.151) “Do you want to be kicked?”
+[says] (p.151) “I can't believe a boy saw me sleeping. You've just tarnished my reputation.”
+[says] (p.152) “The events that happened that day in the student council room–weren't you involved in those series of events?”
+[says] (p.152) “You knew firsthand that Hōsen was trying to get me expelled, didn't you?”
+[says] (p.152) “Who you are. I can't possibly think of you as a normal student like the rest.”
+[says] (p.153) “Then what do you want to know?”
+[says] (p.153) “Well, if I ask you, will you answer my questions, one at a time? Where are you from? Which elementary and middle schools did you graduate from?”
+[scene] (p.153–159) The second floor: drunk teachers on the massage chairs; Hoshinomiya recognizes her; the Daifugō speech ("the only one with a joker"); Chabashira does damage control; Horikita all but recites her creed; she nicknames him "Mr. Joker".
+[says] (p.155) “Isn't it still before the students' bedtime? Aren't the teachers on duty?”
+[says] (p.156) “It isn't good. What I'm aiming for is Class A. This is merely a checkpoint.”
+[says] (p.156) “Regardless of whether your statement is right or wrong, what are you going to do if the Class D students hear it?”
+[says] (p.158) “Sensei, you seem to be a little concerned about what she said earlier.”
+[says] (p.158) “I don't know whether or not Ayanokōji-kun's a joker, but there's no denying that he's a powerful classmate. However, I'm not going to hold back on that.”
+[says] (p.158) “As long as it's a card that was dealt to the class, I will use it to fight with all my might. The place we're aiming for is Class A, you know.”
+[says] (p.158) “I still have a lot more to ask you, though, don't I? Mr. Joker.”
+[says] (p.159) “You'll answer my questions later. Am I correct in assuming that?”
+[trait] (p.150–159) She's pushing at his walls; he gives her just enough to keep her in orbit — she takes the "joker" line personally and answers it with a vow; the whole scene is her mark on the trip.
+[rel:ayanokouji-kiyotaka] (p.150–159) She corners him; he hands her one piece of the puzzle and promises another; she accepts the terms.
+[rel:chabashira-sae] (p.153–159) She spars with her former homeroom teacher about Class goals.
+[rel:hoshinomiya-chie] (p.155–158) She pricks at her drunk Daifugō monologue; she considers the ramblings rhetorically dangerous only.
+[rel:housen-kazuomi] (p.152) The 20M-point bounty — she's the person it was placed on.
+
+<!-- walk: y2v8 Ch.4 → p.161 -->
+
 ## y2v9
 
 <!-- walk: y2v9 → start -->
