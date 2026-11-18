@@ -659,11 +659,31 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
+
+
 ### y2v4.5 p.63–65 — Ayanokōji's private read of Ichinose's class: Kanzaki is the only one who could speak up
 [note] (p.64) Ayanokōji, leaving the party, judges that "The only person I could think of who could do that right now was Kanzaki from the boys in the class" — someone who could point out errors in Ichinose's decisions — but doubts he could "appeal to the whole class and control the girls."
 [note] (p.64) Kanzaki is Ichinose's classmate, male, and the only voice Ayanokōji trusts there; no direct appearance on these pages.
 
 <!-- walk: y2v4.5 ch2 → p.72 -->
+
+### y2v4.5 p.243–249 — Kanzaki and Horikita: Ishigami and Ayanokōji
+[scene] (p.243–249) Hoshinomiya-sensei stumbles away to the deck after vomiting over the rail; Kanzaki calls Horikita over; trade: him on Ishigami (first-year Class A leadership, dangerous to friends and foes alike) for her read on Ayanokōji's true ability.
+[says] (p.244) “We've been shown things like that around three times in morning homeroom.”
+[says] (p.245) “You were talking to him, right?”
+[says] (p.245) “By the way, do you see him as a trustworthy underclassman?”
+[says] (p.245) “If you answer my questions, I don't mind telling you about Ishigami.”
+[says] (p.247) “The student known as Ishigami is excellent, compassionate and can get things done. Already recognised as the leader of first-year Class A, his comrades no doubt have complete confidence in him. The best way to describe him might be to say he is a combination of the best parts of Ichinose and Sakayanagi.”
+[says] (p.247) “He's likely the type to bare his fangs without mercy.”
+[says] (p.248) “Ishigami did? No, he's not the kind of man who says things like that easily. Did he really say that?”
+[says] (p.248) “The only person you need to worry about among the first-years is Ishigami”
+[says] (p.248) “I'll give you one piece of advice. Don't get involved with Ishigami any further.”
+[rel:ishigami-kyo-1a] (p.243–249) The first-year Class A leader; dangerous to anyone classified as friend or foe; a man who picks sides instantly.
+[rel:horikita-suzune] (p.243–249) Wants Ayanokōji's true ability out of her; offers Ishigami intel in trade; gets nothing; warns her off.
+
+
+<!-- walk: y2v4.5 ch6 → p.267 -->
+
 
 ## y2v5
 

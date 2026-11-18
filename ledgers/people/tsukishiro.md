@@ -325,10 +325,27 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — tsukishiro mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.16, p.22, p.30, p.59, p.127.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.257–267 — Tsukishiro's last performance: the concert hall
+[scene] (p.261–267) Tsukishiro reveals himself from the darkness in the concert hall; dismissed as Acting Director — the Chancellor reinstated; negotiates his last interview with Ayanokōji; the left-handed handshake; the five-minute dispersion warning.
+[says] (p.261) “Beethoven, Für Elise, right?”
+[says] (p.261) “It's a shame that it was only me and Chabashira-sensei watching.”
+[says] (p.263) “As of today, I have been dismissed from my position as Acting Director. Now that it has been decided that Chancellor Sakayanagi will be reinstated, I am just an irrelevant civilian. I will not report this to the school.”
+[says] (p.265) “If you'd prefer I leave my seat, I will.”
+[says] (p.265) “No matter how much you want to stay in this world, you certainly can't fight against it.”
+[says] (p.266) “However, this school is surprisingly fascinating. It's probably the only school in the world that can hold special exams on an uninhabited island. It reminded me of a period when I was a little boy and I was enthusiastic about the Boy Scouts.”
+[says] (p.266) “With this, it's farewell, Ayanokōji-kun. Could you shake my hand?”
+[says] (p.266) “Well then──let's meet again soon.”
+[says] (p.266) “Oh and also, make sure to disperse within five minutes. If you don't, I will report you.”
+[note] (p.266) Tsukishiro's handshake with the left hand is not a slight — Boy Scouts shake left hands; whether it's hospitality or a threat is left open; Ayanokōji reads both.
+[note] (p.266–267) Tsukishiro's real goal: get him expelled by any means; after being stripped of his office, he lost his leverage but not his hostility.
+[rel:ayanokouji-kiyotaka] (p.261–267) Tsukishiro tries one last time to break him; fails; leaves politely and dangerously.
+[rel:chabashira-sae] (p.263–267) Uses her exposure to pressure both of them; dismisses her as irrelevant now.
+[mentioned] (p.16) Ayanokōji notes the detailed exam results display on the ship is "likely to avoid leaving unnecessary evidence due to Tsukishiro's involvement this time."
+[mentioned] (p.161) "Tsukishiro" and Shiba both absent from the treasure-hunt briefing.
+
+<!-- walk: y2v4.5 ch6 → p.267 -->
+
 
 ## y2v5
 

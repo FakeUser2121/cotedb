@@ -54,10 +54,12 @@ char_id: ninomiya-yui · class: unknown · status: unknown
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — ninomiya-yui mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.285.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.285 — Ninomiya: the SS's interrupter (defect)
+[mentioned] (p.285) Nanase's short story has Ayanokōji recount his interruption: "It kinda fizzled out when Ninomiya interrupted, you see."
+[note] (p.285) The main volume (pp.55–58, Ch.2) names Kobashi Yume as the one who interrupted the bow-deck meeting, not Ninomiya. The discrepancy is kept as printed; the short story's attribution is unexplained by the text; no Ninomiya presence is verified elsewhere in y2v4.5 (corpus search).
+
+
 
 
 

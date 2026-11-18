@@ -539,6 +539,9 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [rel:utomiya-riku] (p.189–190) Revealed as the one who paid Kurachi to attack Ayanokōji.
 [rel:ayanokouji-kiyotaka] (p.188) Investigates his attacker without his permission — a "defence plan" of her own.
 
+<!-- walk: y2v4.5 ch5 → p.216 -->
+
+
 ### y2v4.5 p.283–286 — Short story: "A Double-sided Favour Repayment" — tailing Kurachi
 [scene] (p.283) From her own POV, tails first-year Kurachi through the store, buying a sandwich and milk to blend in — he appeared on her GPS search for Ayanokōji's attacker.
 [narrates] (p.283) "Because if I could leave behind at least something for Ayanokouji-senpai, it would have been worth it."

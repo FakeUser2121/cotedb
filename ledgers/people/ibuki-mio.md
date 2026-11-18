@@ -1032,8 +1032,6 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
-
-
 ### y2v4.5 p.136–151 — The Amasawa investigation pact
 [scene] (p.136–151) Horikita summons her to the deck (twice-baked strategy); about Amasawa: revenge-match talk, handwriting analysis, "beautiful handwriting...a first-year possibility", alliance of two against the White Room student and Nagumo.
 [says] (p.137) “Huh? As I see it, you're the one harassing me by calling me out.”
@@ -1059,6 +1057,17 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v4.5 ch4 → p.158 -->
 
+
+### y2v4.5 p.249–251 — Ibuki unroots Ishigami as the culprit
+[scene] (p.249–251) Ibuki and Horikita walk; Ibuki summarily rules out the Ishigami suspect — an untoned build is not the handwriting culprit; she pushes for continued cooperation until the second semester; he may be investigated further.
+[says] (p.250) “This Ishigami is innocent.”
+[says] (p.250) “The day before yesterday, I was just kinda watchin' people playing around from the floor overlooking the pool.”
+[says] (p.250) “Fuckin' hell… He was tall, so he stood out a little and came into view. He had no upper or lower body training, just a normal body. He definitely doesn't work out.”
+[says] (p.250) “Strength and the body are always proportional. If you can move well, you'll definitely have a toned body, and if you're strong, it'd be strange if you didn't have well-developed muscles.”
+[says] (p.251) “How long will this take?”
+[rel:ishigami-kyo-1a] (p.249–251) Ibuki rules him out — a physique no match for the expulsion-note culprit.
+
+<!-- walk: y2v4.5 ch6 → p.267 -->
 
 ## y2v5
 

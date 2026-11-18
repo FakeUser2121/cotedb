@@ -1782,6 +1782,38 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:ayanokouji-kiyotaka] (p.129–135) He adjusts to whatever timing she picks; she still hides the relationship from the class until the second semester.
 
 <!-- walk: y2v4.5 ch4 → p.158 -->
+### y2v4.5 p.217–224 — The "I love you" phone call with Kei
+[scene] (p.217–224) 9pm; Kei calls him on the phone after the ban on messaging lifted; they talk about the Satō pairing, her worry, the “I love you” exchanged; her anxiety about rivals.
+[says] (p.218) “I want to talk to you on the phone for a bit, is that okay?”
+[says] (p.218) “I heard some unpleasant rumours about you, you know? You'll give me a detailed explanation, right?”
+[says] (p.219) “You've been, like, messing around with an underclassman! That rumour!”
+[says] (p.220) “Even though I actually wanted to pair up with you, Kiyotaka.”
+[says] (p.221) “Isn't the purpose of the declaration to keep the unnecessary bugs away?”
+[says] (p.222) “Do you…love me?”
+[says] (p.223) “…I love you.”
+[says] (p.223) “Yep, I knew it, you're the best… I'm absolutely never giving you to anyone else.”
+[says] (p.224) “…I love you.”
+[note] (p.220–223) She misunderstands him as dating Nanase ("an underclassman was seen repeatedly meeting with some first-year girl"); he lets it lie; Nagumo's broadcast.
+[rel:ayanokouji-kiyotaka] (p.217–224) She calls him from her room; they say "I love you"; she says he'll protect her; he calls her "I love you" back, awkwardly.
+
+
+
+
+<!-- walk: y2v4.5 ch6 → p.267 -->
+
+### y2v4.5 p.268–274 — The last secret date; the kiss
+[scene] (p.268–274) The last day of summer vacation at the dorms; Kei slumps on the bed; they hold hands; he kisses her; she objects "K-Kiyotaka…"; second kiss; five to ten seconds; both keep moving forward.
+[says] (p.268) “Ahh, today's the last day of summer vacation…”
+[says] (p.268) “From tomorrow, it's okay for me to tell others about my relationship with you… I feel kinda nervous.”
+[says] (p.269) “I'll absolutely tell them. Even if something happens, you'll protect me so I'll be fine. Right, Kiyotaka?”
+[says] (p.271) “Y-yeah, I was surprised. C-couldn't you give me a little more… advanced notice?”
+[says] (p.273) “At least, my heart wasn't ready for it…”
+[says] (p.273) “…You caught me off guard again.”
+[says] (p.273) “Then, are you ready for it this time?”
+[note] (p.268–274) Her POV continues the same day; the day closes the loop with the SS; the season turns summer → autumn; Ayanokōji's final narration projects the future of the relationship.
+[rel:ayanokouji-kiyotaka] (p.268–274) Hands held; kisses; they walk into the second semester openly.
+
+<!-- walk: y2v4.5 Epilogue → p.274 -->
 
 ### y2v4.5 p.277–278 — Short story: "A Dream I Have Seen Before" — the last secret date
 [scene] (p.277) From her own POV, on the last day of summer vacation, reflects on how happy she is — she can see Kiyotaka face to face every day, and they're going public tomorrow.

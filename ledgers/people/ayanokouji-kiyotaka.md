@@ -8834,6 +8834,22 @@ walk: y1v1 → DONE
 [rel:yagami-takuya] (p.194–195) Reliable council worker; best next-generation president candidate.
 [rel:kushida-kikyou] (p.195–196) Her closeness with Yagami "more than friends, less than lovers"; accepts her lunch invitation, sensing an opportunity.
 
+### y2v4.5 p.204–216 — The reward report; Sudō; the Kushida transfer
+[scene] (p.204–211) After Satō chooses the sofa QR code on instinct and it pings back already-claimed ×2, the third loads a treasure chest worth 100,000 points; he lets Satō handle the screen; reports to Horikita; Wang and Kōenji have 500,000; Sudō vents about Ike beating him to a girlfriend and wants Ike in Horikita's study group; Kushida — he calls her and offers half of his 90,000 for "good faith."
+[says] (p.211) “Just going for a little walk before dinner.”
+[says] (p.212) “There might be other members joining you, you know?”
+[says] (p.212) “It's Satō, only Satō.”
+[says] (p.213) “In moderation, right? After all, it's not easy to fall in love with something that you used to hate, like studying.”
+[says] (p.215) “To be honest with you…I want you to take them, as a sign of good faith.”
+[says] (p.215) “The way I see it, it's more dangerous to make an enemy of you, whose personal life comes into play, than a student like Sakayanagi or Ryūen, who we have to fight in special exams.”
+[says] (p.216) “Yeah. I'd like to keep our mutually beneficial relationship going.”
+[rel:satou-maya] (p.204–211) She picked the code that paid out; he let her pick it; they both get 45,000 after the fee.
+[rel:sudou-ken] (p.211–213) Shares the corridor news — Ike wants to study with him; Satō might tag along; Sudō's competitive pride.
+[rel:kushida-kikyou] (p.213–216) Buys her silence with half of the treasure-hunt winnings; "good faith" is a two-way street.
+
+
+<!-- walk: y2v4.5 ch5 → p.216 -->
+
 ### y2v4.5 p.217–224 — The "I love you" phone call with Kei
 [scene] (p.217) At ~9 p.m., receives a message from Kei wanting to talk on the phone (no emoticons — serious); slips out to the deck and calls her.
 [says:karuizawa-kei] (p.217) "I heard some unpleasant rumours about you, you know?"
@@ -8853,6 +8869,25 @@ walk: y1v1 → DONE
 [rel:nagumo-miyabi] (p.218) Suspects he spread the rumor after seeing his exchange with Ichinose.
 [rel:satou-maya] (p.220) Kei knows he paired with her in the treasure hunt.
 
+### y2v4.5 p.257–267 — 2 a.m., the concert hall; Tsukishiro's farewell
+[scene] (p.257–267) Chabashira summons him at 2am; piano ("Für Elise"); Tsukishiro reveals himself dismissed; the Boy Scouts handshake; the five-minute rule.
+[says] (p.257) “Don't say that. This was the only time when we could be sure that it was just the two of us.”
+[says] (p.258) “Yes, I suppose so. Last year we went straight into the sports festival.”
+[says] (p.259) “It seems so. However, if I may correct one thing, Tsukishiro was never interested in the Chancellor's position to begin with. He was only using the position to get rid of me.”
+[says] (p.259) “Yes that's right; without a doubt, I think that it has the highest potential among all the second-year classes.”
+[says] (p.259) “A teacher who, while thinking she can't win, can't give up hope. In a nutshell, is it something like that?”
+[says] (p.260) “If you say you're going to throw it away, then I'll throw away my way of thinking up until now too. If you seriously aim for Class A, then I won't hold back any longer.”
+[says] (p.263) “It's simple. Suppose I was punished, I can't be expelled for something like this.”
+[says] (p.264) “You will act in any situation if it's in your best interest to do so. That's my analysis of the kind of person you are.”
+[says] (p.265) “I won't drop out.”
+[says] (p.267) “I didn't see it that way though.”
+[says] (p.267) “I said it just before, but whether the class will stay afloat or sink going forward isn't something completely irrelevant you, sensei. It would be better if you understood that.”
+[note] (p.259–264) Chabashira gauges his class's Class A potential; Tsukishiro watches from the dark; the dismissal is effective today; he played “Für Elise” flawlessly — an ability Tsukishiro never saw coming.
+[rel:chabashira-sae] (p.257–267) She asked him to help unite the class; she heard him out about the next exam.
+[rel:tsukishiro] (p.261–267) Tsukishiro's last play: dropping him to pressure him; fails; the left-hand handshake as a Boy Scouts courtesy.
+
+<!-- walk: y2v4.5 ch6 → p.267 -->
+
 ### y2v4.5 p.268–274 — Epilogue: the last secret date; learning to kiss
 [scene] (p.268) Back at school after the cruise, reflects on a lazy remaining vacation but a vastly expanded circle of friends (Ayanokōji group, Sudō/Ike, Ishizaki/Hiyori, even Ichinose's class) — unthinkable a year ago; spends the last day of summer vacation with Kei in his room.
 [says] (p.268) "Ahh, today's the last day of summer vacation…" — Kei
@@ -8860,20 +8895,8 @@ walk: y1v1 → DONE
 [says] (p.269) "I'll absolutely tell them. Even if something happens, you'll protect me so I'll be fine. Right, Kiyotaka?"
 [trait] (p.268–274) Holds her hand and, after a first tentative kiss, repeats it — learning timing through practice ("the only way to learn the timing was to repeat it over and over again"); reflects that they've finished "the first half of the curriculum of love" and will face an "arduous trial" when they graduate ("a given"), when Kei will have to stand up on her own without her host.
 [rel:karuizawa-kei] (p.268–274) His girlfriend — they'll go public in second semester; they learn to kiss together.
-### y2v4.5 p.204–216 — The reward report; Sudō; the Kushida transfer
-[scene] (p.204–211) After Satō chooses the sofa QR code on instinct and it pings back already-claimed ×2, the third loads a treasure chest worth 100,000 points; he lets Satō handle the screen; reports to Horikita; Wang and Kōenji have 500,000; Sudō vents about Ike beating him to a girlfriend and wants Ike in Horikita's study group; Kushida — he calls her and offers half of his 90,000 for "good faith."
-[says] (p.211) “Just going for a little walk before dinner.”
-[says] (p.212) “There might be other members joining you, you know?”
-[says] (p.212) “It's Satō, only Satō.”
-[says] (p.213) “In moderation, right? After all, it's not easy to fall in love with something that you used to hate, like studying.”
-[says] (p.215) “To be honest with you…I want you to take them, as a sign of good faith.”
-[says] (p.215) “The way I see it, it's more dangerous to make an enemy of you, whose personal life comes into play, than a student like Sakayanagi or Ryūen, who we have to fight in special exams.”
-[says] (p.216) “Yeah. I'd like to keep our mutually beneficial relationship going.”
-[rel:satou-maya] (p.204–211) She picked the code that paid out; he let her pick it; they both get 45,000 after the fee.
-[rel:sudou-ken] (p.211–213) Shares the corridor news — Ike wants to study with him; Satō might tag along; Sudō's competitive pride.
-[rel:kushida-kikyou] (p.213–216) Buys her silence with half of the treasure-hunt winnings; "good faith" is a two-way street.
+<!-- walk: y2v4.5 Epilogue → p.274 -->
 
-<!-- walk: y2v4.5 ch5 → p.216 -->
 
 ## y2v5
 

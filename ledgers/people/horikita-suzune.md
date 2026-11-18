@@ -4399,6 +4399,9 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:kanzaki-ryuuji] (p.244–249) Will only trade Ishigami info for the truth about Ayanokōji's ability; warns her not to get involved.
 [rel:ibuki-mio] (p.249–251) She deduces Ishigami is innocent — his body isn't trained; the culprit must be physically strong like Amasawa/Ayanokōji.
 [rel:ishigami-kyo-1a] (p.247–248) "A combination of the best parts of Ichinose and Sakayanagi" — Kanzaki's assessment.
+
+<!-- walk: y2v4.5 ch6 → p.267 -->
+
 ## y2v5
 
 <!-- walk: y2v5 → start -->

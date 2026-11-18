@@ -42,10 +42,13 @@ char_id: ishigami-kyou · class: unknown · status: unknown
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — ishigami-kyou mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.239-250.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.236–242 — The handwriting suspect is NOT this Ishigami
+[note] (p.236–242) The first-year Class A Ishigami Kyo (academic ability A, 95) suspected by Horikita for the expulsion-note handwriting is ishigami-kyo-1a — a different roster row tracked in this volume's coverage; no occurrence of a Keisei Ishigami (this file) appears anywhere in the volume.
+[note] (p.239–242) The roster calls this file "Ishigami Kyō" without class; the 1-A handwriting suspect is tracked under ishigami-kyo-1a; the y2v4.5 presence is therefore recorded there, not here.
+
+<!-- walk: y2v4.5 ch6 → p.267 -->
+
 
 
 

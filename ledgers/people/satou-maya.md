@@ -439,6 +439,9 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [rel:karuizawa-kei] (p.168) Suspects she's dating Ayanokōji; knew they'd announce it in second semester.
 [rel:horikita-suzune] (p.193) Doesn't get along with her, but Ayanokōji arranges tutoring through her.
 
+<!-- walk: y2v4.5 ch5 → p.216 -->
+
+
 ### y2v4.5 p.279–282 — Short story: "A Bad Girl, But Just a Little Bit" — the QR-code treasure
 [scene] (p.279) From her own POV, near the end of the treasure hunt with Ayanokōji, holds his phone to look at the gallery of 15 QR codes — happy he has no photos of Kei in it ("I'm such a bad girl…").
 [narrates] (p.279) "Could you open the camera app?"

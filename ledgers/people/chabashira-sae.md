@@ -1358,6 +1358,7 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v4.5 → start -->
 
+
 ### y2v4.5 p.225–232 — The late-night bar: Chabashira on the next special exam
 [scene] (p.225) After 1 a.m. in the adults-only bar lounge, meets Mashima and Hoshinomiya; admonishes the slumped, complaining Hoshinomiya ("you've had more than enough rest").
 [says] (p.226) "you never change."
@@ -1370,6 +1371,34 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:hoshinomiya-chie] (p.225–233) Her drinking companion and old rival; they spar, and Hoshinomiya brutally needles her for chasing after her "boring love."
 [rel:mashima-tomonari] (p.225–232) Fellow teacher; reveals the next exam's outline.
 [rel:ayanokouji-kiyotaka] (p.229) Defends him as one of many promising students; denies relying on him.
+### y2v4.5 p.257–267 — Chabashira and Tsukishiro in the concert hall
+[scene] (p.257–267) Past 2am at the concert hall; Chabashira and Ayanokōji meet; Tsukishiro reveals himself — dismissed as Acting Director; the Chancellor reinstated; the last negotiation; the left-hand handshake.
+[says] (p.257) “Students aren't allowed to leave their cabins at this time, you know?”
+[says:ayanokouji-kiyotaka] (p.257) “Don't say that. This was the only time when we could be sure that it was just the two of us.”
+[says] (p.257) “Don't worry. The teachers’ night watch only lasts until midnight.”
+[says] (p.258) “When the summer vacation is over, the second semester will begin. And then, the next exam will take place.”
+[says] (p.259) “How do you analyse your class?”
+[says:ayanokouji-kiyotaka] (p.259) “A teacher who, while thinking she can't win, can't give up hope. In a nutshell, is it something like that?”
+[says] (p.259) “I'm…What kind of teacher do I look like to you?”
+[says] (p.260) “What if I told you I'm throwing my past self behind?”
+[says] (p.261) “Acting Director Tsukishiro, this is…”
+[says] (p.263) “You don't have to trust me. However, from the moment I showed up here, Ayanokōji-kun was aware of my presence. If there is a disturbance in emotions, it's communicated through the performance, but I didn't see even the slightest hint unrest in your performance… Why was that?”
+[says] (p.264) “Tsk…”
+[says] (p.264) “That's all right.”
+[says:tsukishiro] (p.264) “I'm not bothered.”
+[says:tsukishiro] (p.265) “But no matter how exceptional you are, you are still only a child. You should understand that that man sent me here with your strength in mind.”
+[says:ayanokouji-kiyotaka] (p.267) “I didn't see it that way though.”
+[says] (p.267) “I'm sorry. On account of me calling you out so easily, I gave Acting Director Tsukishiro an opportunity to take advantage you.”
+[note] (p.257) Ayanokōji reports Chabashira called him out at 2am — technically an off-cabin violation; the meeting is also about the next exam.
+[note] (p.261–264) Tsukishiro plays on the sexual misconduct framing; Chabashira steps back; the scene ends with the Boy Scouts left-hand handshake and a warning to disperse within five minutes.
+[rel:tsukishiro] (p.261–267) He corners her too — he knows she knows about the next exam; both are expendable to him now that Chancellor Sakayanagi is reinstated.
+[rel:ayanokouji-kiyotaka] (p.257–267) He talks to her about uniting the class; plays the piano ("Für Elise"); she applauds.
+
+
+
+<!-- walk: y2v4.5 ch6 → p.267 -->
+
+
 ## y2v5
 
 <!-- walk: y2v5 → start -->

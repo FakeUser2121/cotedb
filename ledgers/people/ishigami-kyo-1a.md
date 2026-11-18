@@ -19,6 +19,8 @@ char_id: ishigami-kyo-1a · class: Class 1-A · status: first-year honor student
 [rel:ibuki-mio] (p.250) She observes his untrained body at the pool and declares him innocent of the attack.
 [rel:ayanokouji-kiyotaka] (p.240, 249) Suspected of having written the note recommending his expulsion.
 
+<!-- walk: y2v4.5 ch6 → p.267 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

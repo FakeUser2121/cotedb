@@ -10,10 +10,13 @@ char_id: kibayashi · class: unknown · status: unknown
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — kibayashi mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.238.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.238 — Kibayashi: handwriting match ruled out
+[mentioned] (p.238) Horikita, excluding candidates by handwriting: "Kibayashi-kun of first-year Class B" — checked and excluded.
+[note] (p.238) First-year Class B; no other presence; the roster holds no other Kibayashi.
+
+<!-- walk: y2v4.5 ch6 → p.267 -->
+
 
 
 

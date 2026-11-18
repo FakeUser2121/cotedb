@@ -279,6 +279,28 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 
 
 
+### y2v4.5 p.251–257 — Amasawa and Yagami Takuya in the guest cabin
+[scene] (p.251–257) Amasawa visits Yagami Takuya (second-year Class B, White Room) in his guest cabin; they discuss the White Room, the Kushida/Kurachi interference, the planted note, his plans for Ayanokōji, and her expulsion from the White Room.
+[says] (p.252) “You never learn, do you, Ichika?”
+[says] (p.252) “I have no idea what you're talking about, nya~”
+[says] (p.252) “Did you repeatedly interfere with my plans because you want to protect Ayanokōji-senpai with all your heart?”
+[says] (p.253) “I know that you'll remain quiet, Ichika.”
+[says] (p.253) “Instead of going about it in such a roundabout way, why don't you settle it with your fists like men?” — that's Amasawa's line, not Yagami's.
+[says] (p.254) “I feel sorry for Utomiya-kun too. He's only thinking of his friends, but to think he'd team up with you to protect Tsubaki-chan.”
+[says] (p.255) “Oh my, you're really saying it.”
+[says] (p.255) “If you had made the decision to completely side with Ayanokōji, I would've finished it already.”
+[says] (p.256) “Can't you understand that what I'm doing right now is the minimum requirement of violence?”
+[says] (p.257) “I don't use violence except for the minimum necessary.”
+[says] (p.257) “The competition that I will have to beat Ayanokōji in will be a battle of wits.”
+[note] (p.251–257) Yagami placed the expulsion-note with the planted handwriting; he watches Horikita narrowing in; he plans his genuine confrontation with Ayanokōji — "either I get expelled or he does."
+[note] (p.251–257) Yagami admits Tsukishiro is withdrawn; the need for the charade faded; he could crush her now “with the minimum requirement of violence,” but he enjoys the game more.
+[rel:yagami-takuya] (p.251–257) Meets him as an equal ex-White Room rival; a game of wits they both know; he wants a real fight with Ayanokōji.
+[rel:ayanokouji-kiyotaka] (p.251–257) Yagami offers a battle of wits vs Ayanokōji — "either I get expelled or he does."
+[rel:ishigami-kyo-1a] (p.253) He taunts that Horikita is closing in on him by the paper he wrote: "I'm sure if I give her a few more hints, she'll get to me eventually."
+[rel:horikita-suzune] (p.253–255) Watches her narrow in on Yagami; he's fine being identified — it feeds his game; Yagami let her see his face openly at the reservation desk.
+
+<!-- walk: y2v4.5 ch6 → p.267 -->
+
 ## y2v5
 
 <!-- walk: y2v5 → start -->

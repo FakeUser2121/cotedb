@@ -371,6 +371,9 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 [trait] (p.227–236) Sober and informative — explains the four-year exam rotation and that the "problematic" exam from 11 years ago (their third year) has been reinstated because too few second-years have dropped out; tries to defuse the tension between Chabashira and Hoshinomiya before leaving with the drunk Hoshinomiya.
 [rel:chabashira-sae] (p.227–232) Fellow teacher; informs her of the exam and watches her go silent.
 [rel:hoshinomiya-chie] (p.232–236) Drinks with her and ultimately escorts her home.
+
+<!-- walk: y2v4.5 ch6 → p.267 -->
+
 ## y2v7
 
 <!-- walk: y2v7 → start -->

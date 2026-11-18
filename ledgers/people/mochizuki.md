@@ -10,10 +10,13 @@ char_id: mochizuki · class: unknown · status: unknown
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — mochizuki mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.238.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.238 — Mochizuki: handwriting match ruled out
+[mentioned] (p.238) Horikita, excluding candidates by handwriting: "Mochizuki-san of first-year Class D… Etou-san" — checked and excluded.
+[note] (p.238) First-year Class D; no other presence; the roster holds no other Mochizuki.
+
+<!-- walk: y2v4.5 ch6 → p.267 -->
+
 
 
 
