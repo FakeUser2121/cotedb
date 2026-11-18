@@ -334,6 +334,21 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [note] (p.12) Passing mention (locator pages: p.66, p.183, p.189, p.191-194, p.227; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.12) Passing mention only.
 
+### y2v12 p.183, 189–193 — Ch.8: The accidental bodyguard
+[scene] (p.183) Named in the second discussion's participant list for Class C — the group Ryūen deliberately chose; she appears next to Tokitō exactly when his fist is already swinging.
+[says] (p.189) “Shimizu’s words are infuriating, but half of it seems to be true. I don’t like Ryūen.”
+[says] (p.191) “You aren’t that kind of person.”
+[says] (p.191) “Ryūen-kun said that you’d never be rough with girls.”
+[says] (p.191) “It’s no coincidence that you and I ended up in the same group.”
+[says] (p.192) “You have one. You always have and always will.”
+[scene] (p.189–192) She gently stops his fist — “Shimizu’s words are infuriating”; she tells him Ryūen said he’d never be rough with girls; explains the group was deliberate; he calms; apologizes.
+[scene] (p.192–193) She steers everyone back to the discussion — “Well, we still have some time. Shall we discuss?”; the room shifts; Tokitō sits back down.
+[note] (p.193) Sakayanagi understands this wasn’t chance — Ryūen placed her in the group to watch Tokitō; she says nothing; the pawn moves complete.
+[rel:tokitou-hiroya] (p.189–192) She is the only reason he survives the second discussion without an incident report; his fist never lands.
+[rel:shimizu-naoki] (p.184–193) She is his only healthy opponent in the room; she never lets him corner Tokitō fully.
+[rel:ryuuen-kakeru] (p.183–193) Ryūen's engineering — she is his designated safety net; she knows it too.
+
+<!-- walk: y2v12 ch8 → p.204 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

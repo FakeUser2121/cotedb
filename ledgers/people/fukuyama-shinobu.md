@@ -44,3 +44,12 @@ char_id: fukuyama-shinobu · class: unknown · status: unknown
 [note] (p.103) Her dismissal comes after Nishino's second incorrect nomination; 13 remain.
 
 <!-- walk: y2v12 ch5 → p.118 -->
+
+### y2v12 p.183, 184 — Ch.8: Second-discussion participant for Class A
+[scene] (p.183) Named in the second discussion's participant list for Class A.
+[scene] (p.184) She interjects early — “Isn’t that irrelevant now, Shimizu-kun?”; the room has grown more composed in its second outing; she keeps her distance from the Tokitō storm.
+[says] (p.184) “Isn’t that irrelevant now, Shimizu-kun?”
+[note] (p.184) Her remark is ignored; Shimizu keeps provoking.
+[rel:shimizu-naoki] (p.184) She tries to cut his rant short; he doesn't stop.
+
+<!-- walk: y2v12 ch8 → p.204 -->

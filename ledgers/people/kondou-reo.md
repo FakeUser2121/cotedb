@@ -41,3 +41,11 @@
 [scene] (p.12) Named in this volume.
 [note] (p.12) Passing mention (locator pages: p.183, p.191-192, p.227; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.12) Passing mention only.
+
+### y2v12 p.183, 191–192 — Ch.8: The complainant
+[scene] (p.183) Named in the second discussion's participant list for Class C.
+[says] (p.191) “Then let’s at least make Shimizu apologize.”
+[note] (p.191) He complains as if wronged; he wants Shimizu to pay; Shiina's statement about Shimizu's circumstances takes the wind from him.
+[rel:shimizu-naoki] (p.191) He wants Shimizu to pay for the provocation; he gets satisfaction nowhere.
+
+<!-- walk: y2v12 ch8 → p.204 -->

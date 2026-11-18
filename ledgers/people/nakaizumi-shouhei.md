@@ -25,10 +25,11 @@ char_id: nakaizumi-shouhei · class: unknown · status: unknown
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — nakaizumi-shouhei mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.177-180; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.177–182 — Ch.8: The first interrogation
+[scene] (p.177) Named in the first-discussion participant list for Class C — one of the seven; he agrees with Tamiya's honor-student eye-contact theory.
+[says] (p.178) “Ah, indeed. I also felt that was suspicious.”
+[scene] (p.180–181) Ryūen calls him first for the interrogation — he denies being the traitor; Ryūen returns after two minutes; he is declared innocent; the announcement says he is safe.
+[note] (p.181) His interrogation is the first the representatives conduct; the traitor in the room is Takarajima — not him; Class C survives the first round.
+[rel:takarajima-miko] (p.180–181) The real traitor is his teammate Miko; his denial buys the room nothing but time.
 
-
-
+<!-- walk: y2v12 ch8 → p.204 -->

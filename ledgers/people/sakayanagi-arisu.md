@@ -978,6 +978,29 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:kitou-hayato] (p.113–116) Her marksmanship with the sacrificial lamb — she asked him to take the hit for her read.
 
 <!-- walk: y2v12 ch6 → p.152 -->
+
+### y2v12 p.172–199 — Ch.8: The finals
+[scene] (p.172) Ryūen bursts into the room — she politely gestures him to a seat; he crosses his legs; “Today marks the beginning of your departure on a new journey.” — she mocks him with courtesy; they spar verbally.
+[says] (p.172) “Today marks the beginning of your departure on a new journey.”
+[says] (p.172) “Even if you were to defeat me, would you really be fit to serve as an opponent to Ayanokōji-kun?”
+[says:ryuuen-kakeru] (p.173) “That’s my line, Sakayanagi. I’m the one who’s going to win.”
+[scene] (p.173–174) She lets him ramble about anti-heroes; she selects Hashimoto's group for exclusion — she knows he will betray her; she uses the traitor rights immediately.
+[says] (p.174) “I will now use my right to select the traitor.”
+[scene] (p.176–183) Rounds 1–5 wheel past — she scores first blood; she out-reads him three interrogations deep; Shimazaki, Kaneda, Takarajima — all identified; Ryūen has six lives after discussion 1; she has eight.
+[says] (p.180) “Best of luck to you.”
+[scene] (p.183–193) Second discussion — the Shimizu/Tokitō powder keg goes off; Shiina quietly defuses it; both pass and draw twice; Asagaya, Machida, Rokkaku — all drawn; no lives change.
+[scene] (p.194–195) Third discussion drags; fourth discussion — she crushes him back; fifth discussion — he hits Nishi; she hits Hoashi; he's down to one life.
+[says:ryuuen-kakeru] (p.195) “What an unpleasant woman.”
+[says:ryuuen-kakeru] (p.196) “What are you able to see, Sakayanagi?”
+[says] (p.196) “I always see what you see, but there are things I notice that you don’t.”
+[scene] (p.196–199) The gap is too wide; he declares defeat early — a verbal white flag before the last discussion; she tells him he fought well, worthy opponent; he laughs about her never letting her guard down — they part with more respect than they started.
+[says:ryuuen-kakeru] (p.198) “This match... I’ve lost.”
+[says:ryuuen-kakeru] (p.199) “Yeah. I admit it.”
+[says] (p.199) “I won’t ease up one bit until the results are out from the school.”
+[note] (p.199) Entering the sixth discussion — her final life count is five, Ryūen's one; everything is set for the last stand.
+[rel:ryuuen-kakeru] (p.172–199) The defeat of the man who wanted to be her rival — she cuts him down fairly; she owns him completely.
+
+<!-- walk: y2v12 ch8 → p.204 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

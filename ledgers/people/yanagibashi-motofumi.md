@@ -10,10 +10,10 @@ char_id: yanagibashi-motofumi · class: unknown · status: unknown
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — yanagibashi-motofumi mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.177, p.182; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.177, 182–183 — Ch.8: The fifth-round honor student
+[scene] (p.177) Named in the first-discussion participant list for Class A — one of the seven; he does not engage in the early accusations.
+[scene] (p.182–183) In the fifth round, Sakayanagi nominates him as an honor student — correct; the discussion ends; his role is disclosed — honor student.
+[note] (p.183) His identification as honor student ends the first discussion; Sakayanagi's claim goes to her tablet's final reveal; the A/C generals' battle moves to the second discussion without him.
+[rel:sakayanagi-arisu] (p.183) Her pre-emptive read ends the discussion; she got there before Ryūen.
 
-
-
+<!-- walk: y2v12 ch8 → p.204 -->

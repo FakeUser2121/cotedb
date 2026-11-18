@@ -175,3 +175,13 @@ Manabe nodded. (he anchors the room’s conclusion)
 [note] (p.101) No dialogue or action is printed for this student on these pages; the role is never disclosed.
 
 <!-- walk: y2v12 ch5 → p.118 -->
+
+### y2v12 p.183, 188, 193–194 — Ch.8: The honor-student identified
+[scene] (p.183) Named in the second discussion's participant list for Class A.
+[scene] (p.188) He asks Shimizu where such a thing came from — “Who told you such a thing?” — clearly suspecting he knows what happened.
+[says] (p.188) “Who told you such a thing?”
+[scene] (p.193–194) He is identified as an honor student — both representatives nominate him correctly; the third discussion accelerates.
+[note] (p.193–194) He is identified as an honor student in the third round; both representatives hit; his role is disclosed — honor student.
+[rel:shimizu-naoki] (p.188) He doesn't buy a word Shimizu says; he plays along anyway.
+
+<!-- walk: y2v12 ch8 → p.204 -->

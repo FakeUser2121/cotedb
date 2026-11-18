@@ -72,10 +72,8 @@ char_id: suzuki-hidetoshi · class: Class 1-C (enrolled April 2015) · status: m
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — suzuki-hidetoshi mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.183; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.183 — Ch.8: Second-discussion participant list
+[scene] (p.183) Named in the second discussion's participant list for Class C — the group that plays in the second discussion of the A/C generals' battle.
+[note] (p.183) No dialogue or action is printed for this student on these pages; the role is never disclosed.
 
-
-
+<!-- walk: y2v12 ch8 → p.204 -->

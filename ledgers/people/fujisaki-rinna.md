@@ -10,10 +10,10 @@ char_id: fujisaki-rinna · class: unknown · status: unknown
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — fujisaki-rinna mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.183, p.185; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.183, 185 — Ch.8: The uncertain questioner
+[scene] (p.183) Named in the second discussion's participant list for Class C.
+[says] (p.185) “Eh... Is that true? Tokitō-kun, are you serious right now?”
+[note] (p.185) She asks after hearing the rumor of Tokitō's betrayal — she is not sure whether to believe it; nobody in the room has an answer.
+[rel:tokitou-hiroya] (p.185) She asks him to his face; he doesn't answer.
 
-
-
+<!-- walk: y2v12 ch8 → p.204 -->

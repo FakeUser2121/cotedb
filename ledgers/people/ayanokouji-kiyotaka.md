@@ -6026,6 +6026,15 @@ walk: y1v1 → DONE
 [rel:sakayanagi-arisu] (p.169) The Sakayanagi did it — that's the lie/truth she must now carry home; the letter in the mailbox is unexplained on-page.
 
 <!-- walk: y2v12 ch7 → p.171 -->
+
+### y2v12 p.172, 195, 201 — Ch.8: Named by the generals
+[scene] (p.172) Sakayanagi needles Ryūen with him as the benchmark — “Even if you were to defeat me, would you really be fit to serve as an opponent to Ayanokōji-kun?”
+[scene] (p.195–204) Both generals circle him in dialogue — Sakayanagi brings up his childhood ("Ayanokōji-kun is a very special person"); Ryūen's whole arc is framed as a rematch with Ayanokōji; the battle happens in the A/C room — he isn't there, yet the outcome is built around him.
+[note] (p.205) The final message is carried into the interrogation room during the final discussion — recorded in the Epilogue chapter of this volume.
+[rel:sakayanagi-arisu] (p.173–204) She keeps him as her secret prize; she designs the whole exam to win him a second time legitimately.
+[rel:ryuuen-kakeru] (p.195–204) The rematch they both wanted dies in this room; he loses to her, but the real prize transfers away.
+
+<!-- walk: y2v12 ch8 → p.204 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

@@ -39,10 +39,9 @@ char_id: toba-shigeru · class: unknown · status: unknown
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — toba-shigeru mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.177, p.182; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.177, 182 — Ch.8: The ordinary-student reveal
+[scene] (p.177) Named in the first-discussion participant list for Class A — one of the seven; he does not engage in the early accusations.
+[scene] (p.182) Komiya and he are both disclosed as ordinary students — “It was revealed that Komiya and Toba were both ordinary students.”
+[note] (p.182) No accusations land on him; his role is ordinary student; he survives the first discussion unscathed.
 
-
-
+<!-- walk: y2v12 ch8 → p.204 -->

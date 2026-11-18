@@ -23,13 +23,15 @@ char_id: tamiya-emi · class: unknown · status: unknown
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — tamiya-emi mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.177-179, p.181; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.177–182 — Ch.8: The eye-contact accusation
+[scene] (p.178) She spots (or pretends to spot) the honor-student eye contact — “I noticed that honor students seem to make eye contact with one another. Komiya-kun and Takanashi were looking at each other just before the discussion started, right?”
+[says] (p.178) “I’ve been watching everyone’s discussions, and I noticed that honor students seem to make eye contact with one another.”
+[says] (p.178) “Komiya-kun and Takanashi were looking at each other just before the discussion started, right?”
+[scene] (p.178) She pushes the theory — Nakaizumi agrees; Ryūen nominates her as an honor student in the first round — wrong; he loses one life; an honor-student dismissal later removes her.
+[note] (p.179–181) Ryūen's miss named her; one life gone; their honor-student sources remain anonymous.
+[rel:takanashi-ko] (p.178–179) She accuses him as the other half of the eye-contact pair; Ryūen nominates Takanashi correctly in round four — her story was correct on him.
 
-
-
+<!-- walk: y2v12 ch8 → p.204 -->
 ## y3v2
 
 <!-- walk: y3v2 → start -->

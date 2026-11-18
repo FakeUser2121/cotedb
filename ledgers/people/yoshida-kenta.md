@@ -135,3 +135,9 @@ char_id: yoshida-kenta · class: unknown · status: unknown
 [note] (p.101) No dialogue or action is printed for this student on these pages; the role is never disclosed.
 
 <!-- walk: y2v12 ch5 → p.118 -->
+
+### y2v12 p.183 — Ch.8: Second-discussion participant list
+[scene] (p.183) Named in the second discussion's participant list for Class A — the group that plays in the second discussion of the A/C generals' battle.
+[note] (p.183) No dialogue or action is printed for this student on these pages; the role is never disclosed.
+
+<!-- walk: y2v12 ch8 → p.204 -->

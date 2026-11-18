@@ -232,10 +232,10 @@ char_id: komiya-kyogo · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — komiya-kyogo mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.177-179, p.182; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.177–182 — Ch.8: The eye-contact accused
+[scene] (p.177) Named in the first-discussion participant list for Class C — one of the seven; Tamiya claims he and Takanashi made eye contact before the discussion started — “Komiya-kun and Takanashi were looking at each other just before the discussion started, right?”
+[scene] (p.182) The fifth round proves it — Takanashi is the honor student, but Komiya is not; Komiya and Toba are both disclosed as ordinary students by the system reveal.
+[note] (p.182) “It was revealed that Komiya and Toba were both ordinary students.”; he is not the honor student Tamiya claimed.
+[rel:tamiya-emi] (p.178–182) She pointed at him as her suspect; she was wrong about him and right about Takanashi.
 
-
-
+<!-- walk: y2v12 ch8 → p.204 -->

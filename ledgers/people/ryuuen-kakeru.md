@@ -1814,6 +1814,35 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:horikita-suzune] (p.147) Her defeat is a mirror for his match against Sakayanagi — he knows the same wall is coming.
 
 <!-- walk: y2v12 ch6 → p.152 -->
+
+### y2v12 p.172–199, 201–204 — Ch.8: The final stand
+[scene] (p.172) He enters forcibly; she offers him a seat; he crosses his legs; he tells her she's the one leaving on a new journey; they spar verbally about anti-heroes and who belongs in the leading role.
+[says] (p.172) “That’s my line, Sakayanagi. I’m the one who’s going to win.”
+[says] (p.173) “There’s no one more suited for that than me.”
+[says] (p.173) “Huh?”
+[scene] (p.174) He sees she excluded Hashimoto's group; she uses the traitor rights first — “Kuku, this as the first move...”; he commits to finding the traitor — triple-interrogation failure.
+[says] (p.176) “Don’t you get it? That there is a theory out there, stating that whoever uses their trump card first loses.”
+[scene] (p.179–183) He misses Tamiya — loses a life; Morishita double-hit — loses another; triple-interrogation failure against the hidden traitor — he discovers it only in the fourth round; discussion 1 ends 6-8 against him.
+[says] (p.180) “It’s no big deal.”
+[scene] (p.183–193) Second discussion — he rides the Shimizu/Tokitō storm without nominating once; Shiina keeps Tokitō from self-destructing; both pass; both ID Asagaya — draw; no lives change.
+[says] (p.186) “I’m not falling for your cheap provocations.”
+[says] (p.187) “Was Shimizu part of your setup?”
+[scene] (p.194–199) The grind continues; he recovers his first life (an underclassman); she dominates; fifth discussion — he hits Nishi, she hits Hoashi; he's down to one life; he declares defeat early.
+[says] (p.195) “Not now. But if I continue relentlessly targeting him, he’ll surely show an opening somewhere.”
+[says] (p.196) “No, it isn’t that simple. At least in this nomination, your insight surpassed mine.”
+[says] (p.198) “This match... I’ve lost.”
+[scene] (p.201–204) Ryūen tells her about AK's message — only Hashimoto would know it; she picks Hashimoto's group; he uses his traitor rights randomly; she goes to interrogation; he closes his eyes — the end is coming.
+[says] (p.202) “I dunno. All I know for sure is that Hashimoto has that message.”
+[says] (p.203) “I don’t know either. But if I were to make a wild guess, it’d be a setup.”
+[says] (p.203) “It’s kind of you to show that you aren’t playing any tricks.”
+[says] (p.204) “Damn it...”
+[thinks] (p.201) “This morning, after receiving the explanation on the special exam, that guy called me out.”
+[note] (p.204) “Ryūen Kakeru had lost.” — the announcement ends the special exam for him; he will never see the results of this final battle.
+[rel:sakayanagi-arisu] (p.172–204) He loses to her; she was simply better; he accepts it with his chin up.
+[rel:hashimoto-masayoshi] (p.201–204) The man who carried the message — Ryūen doesn't even know whether it is true.
+[rel:ayanokouji-kiyotaka] (p.201) AK predicted this; Ryūen realizes it as the room empties.
+
+<!-- walk: y2v12 ch8 → p.204 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

@@ -598,11 +598,18 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — ishizaki-daichi mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.41, p.177-178, p.222; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.177–178 — Ch.8: The first accusation
+[scene] (p.177) Class A's Morishita Ai names him first — she tells him to prove he is not an honor student; he stammers.
+[says] (p.177) “Hah? Eh? Me!? Why me all of a sudden!?”
+[says] (p.177) “No way... I mean, I’m not an honor student!”
+[says] (p.177) “How can I prove that!? How should I prove it!”
+[scene] (p.178) Kaneda jumps in to calm him; Morishita keeps pressing; he nearly loses his temper — “Who did you say looks like a fool!?” — he swallows it.
+[says] (p.178) “Ha, what!? Don’t talk nonsense!”
+[says] (p.178) “Who did you say looks like a fool!?”
+[rel:morishita-ai] (p.177–178) She labels him the prime suspect; he is not; her read is wrong on him and she knows it by the end.
+[rel:kaneda-satoru] (p.177–178) Kaneda shields him; he keeps himself together just long enough.
 
+<!-- walk: y2v12 ch8 → p.204 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

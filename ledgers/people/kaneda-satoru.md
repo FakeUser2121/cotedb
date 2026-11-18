@@ -355,7 +355,16 @@ aliases used for anchors: kaneda, kaneda satoru, kaneda-kun
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — kaneda-satoru mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.177-178, p.181-182; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.177–183 — Ch.8: The glasses-adjusting mediator
+[scene] (p.177) Ishizaki is hammered by Morishita; Kaneda smoothly intervenes — “Please wait, Morishita-shi. Ishizaki-shi, you don’t need to answer her” — he pulls her focus off Ishizaki onto Morishita herself, adjusts his glasses.
+[says] (p.177) “Please wait, Morishita-shi. Ishizaki-shi, you don’t need to answer her.”
+[scene] (p.178) He answers Morishita's impossible demand — “So you were just trying to impose an impossible task on Ishizaki-shi?”; she mouths off; he redirects everyone to stay calm.
+[says] (p.178) “So you were just trying to impose an impossible task on Ishizaki-shi?”
+[note] (p.178) That line is not tagged to a speaker in the translation; the page does not state it; it is written under Kaneda, who had been mediating.
+[says] (p.178) “Please calm down.”
+[scene] (p.182) He is identified as an upperclassman — Sakayanagi names and hits him; one life she gains; his upperclassman ability (reveal two participants' roles) reveals nothing further on-page.
+[note] (p.182) He leaves the room in the fourth round — Sakayanagi hits him as an upperclassman; his assigned role is disclosed in the reveal.
+[rel:ishizaki-daichi] (p.177–178) He shields him from Morishita's cross-examination; Ishizaki keeps face in the room.
+[rel:morishita-ai] (p.177–178) He counters her interrogation twice; she sees through him faster than he thinks.
+
+<!-- walk: y2v12 ch8 → p.204 -->

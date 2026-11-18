@@ -81,7 +81,18 @@ char_id: tokitou-hiroya · class: unknown · status: unknown
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — tokitou-hiroya mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.183-189, p.191-195; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.183–196 — Ch.8: The explosive accused
+[scene] (p.183) Named in the second discussion's participant list for Class C; he is the rumor-mill’s target — Shimizu hammers him through the whole discussion.
+[says] (p.184) “Why does it matter if I hate Ryūen? What does that have to do with the current discussion?”
+[says] (p.184) “Shut up, Shimizu. Be quiet.”
+[scene] (p.184–188) He endures everything; his grip on himself is slipping; his fist swings at Shimizu — Shiina gently stops him; he and Shiina figure out why she is in their group — Ryūen arranged it
+[says] (p.188) “It makes no sense. So what if I clash with him?”
+[says] (p.188) “Cut it out, Shimizu!”
+[says] (p.188) “Then tell me the reason!”
+[scene] (p.191–192) He realizes Shiina is there for him specifically; he understands Ryūen’s plan — he calms; apologizes to Shiina; withdraws his fist; he holds his ground.
+[note] (p.191–192) Machida stops Motodoi from intervening earlier; “Shimizu is obviously lying” — the room nearly breaks; Shiina's intervention defuses him completely.
+[rel:shiina-hiyori] (p.189–192) She sits next to him on purpose; she stops his fist; he realizes Ryūen placed her there for him specifically.
+[rel:shimizu-naoki] (p.183–188) The rumor-monger he cannot shake; he endures everything until Shiina ends it.
+[rel:ryuuen-kakeru] (p.192–193) Ryūen's design — the group exists so he will not lose to himself; Ryūen needed him in this discussion precisely as he is.
+
+<!-- walk: y2v12 ch8 → p.204 -->

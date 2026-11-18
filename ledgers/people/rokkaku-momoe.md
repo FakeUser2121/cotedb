@@ -53,3 +53,10 @@ char_id: rokkaku-momoe · status: minor
 [note] (p.101) No dialogue or action is printed for this student on these pages; the role is never disclosed.
 
 <!-- walk: y2v12 ch5 → p.118 -->
+
+### y2v12 p.183, 194 — Ch.8: The honor student of discussion two
+[scene] (p.183) Named in the second discussion's participant list for Class A.
+[scene] (p.194) She is identified as an honor student — “‘Sakayanagi-san, Ryūen-kun, both of you have successfully identified Rokkaku-san as an honor student, resulting in another draw.’”; her role is disclosed.
+[note] (p.194) Both representatives hit; the announcement lands anyway; she leaves the room afterward with her role disclosed.
+
+<!-- walk: y2v12 ch8 → p.204 -->

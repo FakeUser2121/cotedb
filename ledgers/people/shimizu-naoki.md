@@ -58,3 +58,20 @@ char_id: shimizu-naoki · class: Class 1-A · status: minor
 [rel:kinoshita-minori] (p.104) He mis-reads her as not an honor student; he is wrong about her and about himself.
 
 <!-- walk: y2v12 ch5 → p.118 -->
+
+### y2v12 p.183–188 — Ch.8: The rumor monger
+[scene] (p.183) Named in the second discussion's participant list for Class A; he starts the second discussion with a bang — “seems like Sakayanagi used the traitor rights in the previous discussion... There’s a rumor that you hate Ryūen to death, Tokitō.”
+[says] (p.184) “We don’t know how our discussion affects the representative battle.”
+[says] (p.184) “Seems like Sakayanagi used the traitor rights in the previous discussion, but I thought it would be used in this one. There’s a rumor that you hate Ryūen to death, Tokitō.”
+[scene] (p.184–185) He ignores every subject; provokes Tokitō relentlessly — “You often clash with Ryūen”; “There’s a rumor saying you teamed up with other classes just to take down Ryūen”; he keeps pushing until the room nearly breaks into violence.
+[says] (p.184) “I’m not saying it does. I just thought the traitor role suited you, that’s all.”
+[says] (p.185) “You know it without me having to say anything. You often clash with Ryūen.”
+[says] (p.185) “You know, there’s a rumor saying you teamed up with other classes just to take down Ryūen.”
+[scene] (p.186) Sakayanagi owns him as her pawn — she had told him before the exam that Tokitō could be a weak point; he glares furiously; Shiina shields him; the room relaxes.
+[says] (p.186) “I judged that this is necessary to deduce the participants’ roles in my own way. You seem pretty suspicious, don’t you think?”
+[scene] (p.188) Even restrained, he won’t quit — “I’m not saying it does. I just thought the traitor role suited you”; he keeps hammering Tokitō until Shiina shuts him down.
+[note] (p.187) Sakayanagi nominates her answer after his provocation — both identify Asagaya as an executive role; both draw; he draws first blood of the discussion, on her instruction.
+[rel:sakayanagi-arisu] (p.183–186) He is her pawn — obedient, aggressive, deniable; she told him what to say and he said it.
+[rel:tokitou-hiroya] (p.184–188) The rival he hunts; he provokes him through the entire second discussion.
+
+<!-- walk: y2v12 ch8 → p.204 -->

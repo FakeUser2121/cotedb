@@ -10,10 +10,8 @@ char_id: hatate-kaoru · class: unknown · status: unknown
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — hatate-kaoru mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.177; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.177 — Ch.8: First-discussion participant for Class C
+[scene] (p.177) Named in the first-discussion participant list for Class C — one of the seven.
+[note] (p.177) No dialogue or action is printed for her on these pages; her role is never disclosed.
 
-
-
+<!-- walk: y2v12 ch8 → p.204 -->

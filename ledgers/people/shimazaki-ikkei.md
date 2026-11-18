@@ -119,14 +119,13 @@ char_id: shimazaki-ikkei · class: unknown · status: unknown
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — shimazaki-ikkei mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.177, p.181-182; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.177, 181–182 — Ch.8: The underclassman nomination
+[scene] (p.177) Named in the first-discussion participant list for Class A — one of the seven.
+[scene] (p.181–182) Ryūen nominates him as an executive role; Sakayanagi identifies him as an underclassman; both hit; he is identified and eliminated; his role is disclosed — underclassman.
+[note] (p.182) “‘Shimazaki-kun has been successfully identified by Ryūen-kun as an executive role, and by Sakayanagi-san as an underclassman’” — the exact announcement; he exits with his role disclosed.
+[rel:ryuuen-kakeru] (p.181) His accurate read gets him an executive-role hit; Ryūen keeps him honest.
 
-
-
-
+<!-- walk: y2v12 ch8 → p.204 -->
 ## y3v1
 
 <!-- walk: y3v1 → start -->

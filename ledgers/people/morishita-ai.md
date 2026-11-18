@@ -15,6 +15,18 @@ char_id: morishita-ai · class: Class 2-A · status: unknown
 [note] (p.12) Passing mention (locator pages: p.109-110, p.177-179, p.181; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.12) Passing mention only.
 
+### y2v12 p.177–182 — Ch.8: The bulldozer of the discussion
+[scene] (p.177) The traitor rights are immediately used; it is Class A's Morishita Ai who makes the first move — “Ishizaki Daichi, could you first prove to us that you aren’t an honor student?”
+[says] (p.177) “Ishizaki Daichi, could you first prove to us that you aren’t an honor student?”
+[says] (p.177) “Whether you’re a police officer or detective, approaching suspicious individuals first is something you’d consistently be doing.”
+[scene] (p.177–178) She corners Ishizaki relentlessly; Kaneda intervenes to protect him; she insists there is no way to prove it definitively within the rules — “Because he looked like a fool who might slip up.”
+[says] (p.178) “There’s no way to prove it definitively within the rules of this discussion, is there?”
+[says] (p.178) “Because he looked like a fool who might slip up.”
+[scene] (p.181) Sakayanagi nominates her as a graduate — Ryūen nominates her as an executive role; both correct; she is identified and eliminated in the second round; her role (graduate) is disclosed.
+[note] (p.181–182) Her dismissal leaves Class A one pair-member short of the honor students; her graduate ability (identify traitors' roles, one per round, cannot detect traitor) is lost from the room.
+[rel:kaneda-satoru] (p.177–178) He deflects her twice; she presses twice; neither blinks.
+
+<!-- walk: y2v12 ch8 → p.204 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
