@@ -614,6 +614,9 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [rel:sakura-airi] (p.100–113) Her best friend; devises the remodelling project and encourages her.
 [rel:ayanokouji-kiyotaka] (p.103–104) Talks with him at the pool; trusts him not to leer.
 [rel:ishigami-kyou] (p.105) Teases the obligation-focused Keisei.
+
+<!-- walk: y2v4.5 ch4 → p.158 -->
+
 ## y2v5
 
 <!-- walk: y2v5 → start -->

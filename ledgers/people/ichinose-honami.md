@@ -1821,6 +1821,23 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [trait] (p.81–85) Deeply remorseful over her last-day departure (leaving the group for Ayanokōji), bows deeply to Sakayanagi, and accepts her "punishment" of afternoon tea without complaint; Sakayanagi notes her total lack of resentment despite past humiliation, and that her honest "goodness" can unsettle people.
 [rel:sakayanagi-arisu] (p.82–83) Apologizes to her; accepts her unusual "punishment."
 [rel:ayanokouji-kiyotaka] (p.81) Her selfish last-day act was to leave her group to warn him.
+### y2v4.5 p.151–158 — Nagumo reveals Karuizawa; her smile cracks
+[scene] (p.151–158) Waiting at the agreed spot, she talks bank strategy with him; pulls her face close to whisper her reply about the exam; Nagumo appears behind them and informs her, gently, that Ayanokōji and Karuizawa are dating — "You're free to think what you like about my methods. But I haven't even gotten started yet, you know?" (p.155).
+[says] (p.151) “Yeah. We decided there was no harm in keeping it up. We'll save up as much as we can and then, should we not need it, I can just return all the points that were deposited at the time back to everyone. It's easy.”
+[says] (p.152) “What do you think we're lacking, Ayanokōji-kun?”
+[says] (p.152) “Y-yeah…that's right, that's what we're here to talk about, isn't it?”
+[says] (p.153) “U-umm…”
+[says] (p.154) “Is that…true?”
+[says] (p.156) “A-ahaha…Somehow, our conversation got a little sidetracked…”
+[says] (p.157) “Could you…forget about it?”
+[says] (p.157) “I'm sorry…for not knowing anything. I got carried away in my excitement and said something strange…”
+[says] (p.157) “Goodbye.”
+[note] (p.154–157) Her eyes fill with tears she refuses to shed; she runs off; Nagumo has turned a gift for her into a humiliation — and, at this moment, pushes her toward a decision she is not ready for.
+[rel:nagumo-miyabi] (p.153–157) He addresses her as Honami, a fellow student council member; he plays the protector while using her as bait.
+[rel:karuizawa-kei] (p.154–157) Learns of the rival in public — the wound is sealed behind the smile.
+
+<!-- walk: y2v4.5 ch4 → p.158 -->
+
 ## y2v5
 
 <!-- walk: y2v5 → start -->

@@ -1871,10 +1871,14 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — hirata-yousuke mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.133-134, p.235.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.133–135, 235 — Hirata: Karuizawa's ex; named in a moment of trouble
+[mentioned] (p.133) Karuizawa Kei, in the café with Satō, flashes back to Hirata: "Did you never do anything with Hirata-kun, Karuizawa-san? You were together for quite a while, weren't you?" — she spins a cover story that Hirata was "passive...so he didn't make a move even if I wanted him to."
+[mentioned] (p.235) Hoshinomiya, in the bar, grumbles about how "unfair" Sae-chan's class is — "Hirata, Kushida, Horikita, Kōenji, Ayanokōji…No matter how much I think about it, it's too unfair."
+[note] (p.133) Hirata has no on-page presence in this volume; his role in the story is as Kei's ex-boyfriend, used by her as a face-saving story for Satō.
+
+<!-- walk: y2v4.5 ch4 → p.158 -->
+
 
 
 

@@ -19,10 +19,13 @@ char_id: kisarazu · class: unknown · status: unknown
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — kisarazu mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.131.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.131 — Kisarazu: eavesdropping third-years
+[mentioned] (p.131) Three third-year girls at the next table gossip about "Kisarazu-kun from Class B" while Karuizawa and Satō talk in the café; they laugh at the mismatch as if it were scandal.
+[note] (p.131) Kisarazu-kun is Class B, never on-page; the overheard chatter is unattached to any storyline in this volume.
+
+<!-- walk: y2v4.5 ch4 → p.158 -->
+
 
 
 

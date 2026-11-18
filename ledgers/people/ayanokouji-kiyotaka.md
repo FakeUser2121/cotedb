@@ -8790,6 +8790,8 @@ walk: y1v1 → DONE
 [rel:tokitou-hiroya] (p.118–124) Resents Katsuragi, plots rebellion — a new "troublesome enemy" for Ryūen.
 [rel:ryuuen-kakeru] (p.122–126) His dictatorship breeds hidden resentment; Hiyori worries the class would collapse if he were expelled.
 
+<!-- walk: y2v4.5 ch4 → p.158 -->
+
 ### y2v4.5 p.159–166 — The surprise treasure hunt game announced
 [scene] (p.159) A bonus treasure-hunt game is announced by email (free to enter, QR codes with cash rewards); rules explained by Takatō-sensei in the theater.
 [trivia] (p.162) Student council members (Horikita, Ichinose, etc.) can't participate — they administer it; participants get a hint paper and pay 10,000 points to enter; 100 QR codes around the ship with values from 5,000 to 1,000,000 points.

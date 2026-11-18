@@ -597,10 +597,22 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — miyake-akito mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.16-17, p.118.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.96–113, 117–118 — The private pool; Katsuragi vs Tokitō
+[scene] (p.96–113) Akito arrives late to the rented private pool (and is the only one not picked to partner in any games); thrilled by the bold swimsuits, jumps in to flee the sight; wins the games; asks about Airi vs Haruka; admits feelings are smouldering but "if it might destroy this group, I'm not gonna push it."
+[says] (p.96) “Wow, it's huge…”
+[says] (p.99) “Mixed-gender groups can be a little complicated, right? It's not unusual for someone to end up liking someone else.”
+[says] (p.99) “But if it might destroy this group, I'm not gonna push it.”
+[says] (p.100) “Airi gives off a very different impression, doesn't she?”
+[says] (p.106) “You're the same, aren't you?” — and later: "it was hell 'cause there were so many things to take care of" about the girls group (p.18).
+[scene] (p.117–118) In the cabin, reports Tokitō had Katsuragi by the collar near the restroom; refuses to intervene: "It's none of my business and I'd get in trouble if I got involved."
+[rel:hasebe-haruka] (p.96–113) Walks on eggshells around her swimsuit; escapes by jumping in the pool.
+[rel:sakura-airi] (p.96–113) Complimentary without flirting; Akito admires the remodel.
+[rel:ayanokouji-kiyotaka] (p.96–113) Quietly probes him about Airi.
+[mentioned] (p.159–160) Has a fever the next morning; stays in bed while the others go to the treasure hunt.
+
+<!-- walk: y2v4.5 ch4 → p.158 -->
+
 
 
 

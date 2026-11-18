@@ -404,6 +404,25 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
+### y2v4.5 p.129–135 — Satō and Karuizawa's café afternoon
+[scene] (p.129–135) Satō summons Karuizawa for a private coffee; they take the sun-empty back seats; Satō pries about her relationship with Kiyotaka — the reveal plans, the hidden kiss, Hirata.
+[says] (p.131) “So…what did you want to talk about?”
+[says] (p.131) “Strange? I don't think there's anything though…”
+[says] (p.131) “Ahaha, I feel the same. But if we keep going like this every day, we'll run out of money.”
+[says] (p.132) “Everyone'll be really surprised when they find out, won't they? That the two of you are dating.”
+[says] (p.132) “So when do you plan to tell everyone?”
+[says] (p.132) “You guys are all lovey-dovey?”
+[says] (p.132) “Have you kissed and stuff?”
+[says] (p.133) “Did you never do anything with Hirata-kun, Karuizawa-san? You were together for quite a while, weren't you?”
+[says] (p.134) “Just to be sure, if you dump Ayanokōji-kun…It's fine right?”
+[says] (p.134) “You know, I think you could aim for better guys, Karuizawa-san.”
+[says] (p.135) “Okay! I said something unnecessary, thank you for the meal!”
+[note] (p.130–131) She detects the same 'strange atmosphere' Karuizawa does — Kiyotaka's radar; a sign she's absorbing his habits.
+[note] (p.132–135) She lets slip she suspects more than friendship, needles about Hirata, and needles about "better guys" — Tsukasaki and Nagumo — and teases until Kei's poker face fails her ("Jeez… My poker face can't get past Satō-san").
+[rel:karuizawa-kei] (p.129–135) Friend, confidante and inquisitor; mutual care laced with competition.
+[rel:ayanokouji-kiyotaka] (p.132–135) Picks at him through her friend; he is, for her, the unattainable benchmark.
+
+<!-- walk: y2v4.5 ch4 → p.158 -->
 
 ### y2v4.5 p.167–181, 192–193, 204–205 — Satō partners with Ayanokōji
 [says] (p.167) "You know…Ayanokōji-kun, have you partnered up with anyone yet?"

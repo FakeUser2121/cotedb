@@ -109,10 +109,18 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 ### y2v4.5 p.16–18 — The cabin, exhausted; refuses the results viewing
 [scene] (p.17) Turned to the wall with the duvet over his head, too exhausted to walk; says he felt like dying when he moved and couldn't eat.
 [says] (p.17) “Hmm…pass… I can't walk, I'm a wreck. Right now I just want to lie in my bed…”
-[mentioned] (p.160) The three roommates (with Miyamoto and Hondō) head for the treasure hunt venue, leaving Akito behind with a fever.
-[mentioned] (p.217) Roommate; by the evening his fever has broken and Akito is recovering.
 
 <!-- walk: y2v4.5 ch1 → p.35 -->
+
+### y2v4.5 p.160 — Mentions: the treasure hunt venue
+[mentioned] (p.160) The three roommates (with Miyamoto and Hondō) head for the treasure hunt venue, leaving Akito behind with a fever.
+
+<!-- walk: y2v4.5 ch5 → p.216 -->
+
+### y2v4.5 p.217 — Mentions: the evening cabin
+[mentioned] (p.217) Roommate; by the evening his fever has broken and Akito is recovering.
+
+<!-- walk: y2v4.5 ch6 → p.267 -->
 
 
 ## y2v5

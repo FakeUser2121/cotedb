@@ -1033,10 +1033,32 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — ibuki-mio mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.136, p.138-143, p.146-150, p.249-250.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.136–151 — The Amasawa investigation pact
+[scene] (p.136–151) Horikita summons her to the deck (twice-baked strategy); about Amasawa: revenge-match talk, handwriting analysis, "beautiful handwriting...a first-year possibility", alliance of two against the White Room student and Nagumo.
+[says] (p.137) “Huh? As I see it, you're the one harassing me by calling me out.”
+[says] (p.137) “Huh?…Fuckin' hell.”
+[says] (p.138) “That shitty arrogant first-year.”
+[says] (p.138) “I'll listen to what you have to say properly, but you have to agree to a revenge match! Do you understand?!”
+[says] (p.141) “I've been at the top for as long as I can remember.”
+[says] (p.141) “I'm the strongest of the second-years.”
+[says] (p.142) “Intuition?”
+[says] (p.143) “You're free to think about it all you want, but I think it would be best to just let it go.”
+[note] (p.144) “Something happened without my knowledge, didn't it?” — speaker untagged; the translation assigns no owner. Horikita's narration ("I'll give a little push here") follows it, so it is either Ibuki murmuring a dawning realization or Horikita testing her; not assigned either way.
+[note] (p.144) “Did he keep you in the dark about all that? Did he not? I've forgotten…” — speaker untagged; ambiguous whether it is Horikita pressing Ibuki or Ibuki doubting herself; not assigned.
+[says] (p.147) “Anyway, now you know, right? That guy's strength ain't normal.”
+[says] (p.148) “Given that it concerns Ayanokōji and Amasawa, then sure, they could be a strong one.”
+[says] (p.149) “Then it's fine to put me as number one provisionally, right? Why do I have to be second?”
+[says] (p.149) “The other side has two, so we should have two as well.”
+[says] (p.149) “If you absolutely insist, then I guess I've got no choice but to lend a hand.”
+[says] (p.150) “You know…I'm gonna say it again, but are you incapable of being honest?”
+[trait] (p.136–151) Rough-spoken martial artist; proud of her undefeated second-year status; thaws into cooperation with Horikita — her "he can handle it on his own" logic "You can have no idea how strong Amasawa is"; senses when someone is lying (about Amasawa).
+[rel:horikita-suzune] (p.136–151) Accepts her offered investigation because losing to Amasawa would gall worse than anything; takes the tea and the alliance.
+[rel:amasawa-ichika] (p.136–151) The subject of Horikita's questions; a woman whose strength "ain't normal for a first-year" — in "a completely different dimension."
+[rel:ayanokouji-kiyotaka] (p.141, 147–149) Learns, from Horikita, about the rooftop incident and his immeasurable ability — "anybody would think that considering his strength."
+
+<!-- walk: y2v4.5 ch4 → p.158 -->
+
 
 ## y2v5
 

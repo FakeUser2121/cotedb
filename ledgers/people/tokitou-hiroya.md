@@ -19,10 +19,22 @@ char_id: tokitou-hiroya · class: unknown · status: unknown
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — tokitou-hiroya mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.117-127.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.117–128 — Tokitō Hiroya: the dispute with Katsuragi
+[scene] (p.117–128) Hiroya begins the confrontation at the restroom — he has Katsuragi by the collar, demanding why he's following Ryūen after all their hostility; Okabe tags along; Katsuragi stays unruffled; Hiyori is drawn in when Tokitō loses patience and walks off.
+[says] (p.119) “Katsuragi, are you really followin' Ryūen?”
+[says] (p.120) “I'm talkin' about you being his dog and doin' whatever he tells you to do.”
+[says] (p.120) “Sorry, but I don't think so. If that's the case, why did you team up with him for the uninhabited island exam?”
+[says] (p.121) “After all that hostility, you were won over so easily. I thought you'd have more backbone than that.”
+[says] (p.124) “Shut up.”
+[trait] (p.119–124) Vindictive, emotional, unpredictable — known as rough with his words and quick to fight; his hatred of Ryūen is total; he seeks sympathetic rebels against Ryūen and sees Katsuragi's calm as betrayal.
+[note] (p.118) Hiroya is distinct from Tokitō Katsumi (Ichinose's classmate) — distant relatives sharing the rare surname; Ayanokōji once shared food and shelter with Katsumi in the Y1 mixed-training camp; they are not acquainted now.
+[rel:katsuragi-kouhei] (p.119–124) Confronts him alone at a restroom, drags in Okabe, punishes his calm; the grievance is Katsuragi's defection to Ryūen.
+[rel:okabe-fuyu] (p.119–124) Partner in the confrontation; she voices the "class traitor" reading explicitly.
+[rel:ryuuen-kakeru] (p.119–124) Despises him with a personal grudge; the source of his anger is never stated on these pages.
+
+<!-- walk: y2v4.5 ch4 → p.158 -->
+
 
 
 

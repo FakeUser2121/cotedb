@@ -4325,6 +4325,28 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v4.5 → start -->
 
+### y2v4.5 p.136–151 — Calling in Ibuki-san: the Amasawa watch
+[scene] (p.136–151) Horikita summons Ibuki to the deck via Yamaga (her cabin mate) to talk about Amasawa — the fight, the paper, handwriting, possible first-year suspect; Ibuki agrees to cooperate; drinks become an IOU.
+[says] (p.136) “Geh, you're still here?”
+[says] (p.136) “Could you not use other people to call me out? They'll misunderstand and think you and I are close.”
+[says] (p.136) “Unfortunately there was no other way to contact you. Or did you want me to approach you during a meal with many people present?”
+[says] (p.137) “You don't seem to have been delayed by some special circumstance. By any chance, are you trying to be Miyamoto Musashi?”
+[says] (p.138) “I've been thinking I should investigate Amasawa-san's background for a bit.”
+[says] (p.140) “It's not for me. It's for Ayanokōji-kun.”
+[says] (p.141) “Certainly, she's a dangerous opponent. But I have a feeling that bad things will happen in the future if we leave her alone.”
+[says] (p.141) “He's my classmate. If there's anything I can do to help, of course I'll do it.”
+[says] (p.143) “It would be best if it didn't turn into a rematch, but…”
+[says] (p.148) “if they have such exceptional strength, it's also possible for this other person.”
+[says] (p.149) “Given that it concerns Ayanokōji and Amasawa, then sure, they could be a strong one.”
+[says] (p.150) “Nothing is more expensive than something that was given for free.”
+[says] (p.150) “In that case, I'll take three million points.”
+[note] (p.148) The handwriting candidate is a first-year with unusual penmanship; she rules out the 66% of first-years who played the treasure hunt (no match), leaving the 34% who abstained — Ishigami logged himself on their list as the best candidate yet (pp.239–242).
+[note] (p.144–146) The "beautiful handwriting" deduction: whoever wrote the note passed it to her tent; whether it was Ibuki or Horikita who forgot its owner is left untagged — the translation gives no owner for the line "Did he keep you in the dark about all that?" (p.144) nor for "Something happened without my knowledge, didn't it?" (p.144). Not assigned either way.
+[rel:ibuki-mio] (p.136–151) Recruits Ibuki into a joint watch over Amasawa and the note-writer; Ibuki agrees to stand guard opposite Amasawa and pays the price of a three-million-point lemon tea (a running debt).
+[rel:amasawa-ichika] (p.136–151) Wants to understand the strength she showed on the uninhabited island; admits to investigating her background.
+
+<!-- walk: y2v4.5 ch4 → p.158 -->
+
 ### y2v4.5 p.194–202 — The Kushida lunch: "drop out of school"
 [scene] (p.194) Administering treasure-hunt rewards on the student council with Yagami; takes a break and has lunch with Kushida, who proposed it.
 [says] (p.196) "Is it weird that I'm asking you out?"

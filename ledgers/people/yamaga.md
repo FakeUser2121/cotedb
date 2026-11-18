@@ -10,10 +10,13 @@ char_id: yamaga · class: unknown · status: unknown
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — yamaga mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.136.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.136–137 — Yamaga: Horikita's cabin mate
+[scene] (p.136–137) Horikita uses her classmate and cabin mate to summon Ibuki — "I approached Yamaga-san, who was from her class and shared a guest cabin with her." Ibuki takes the call, comes ten minutes late, and complains about the unconventional summons.
+[mentioned] (p.136–137) Named once as the summoning go-between; no line or action of her own; exists only as a name on another's lips.
+
+<!-- walk: y2v4.5 ch4 → p.158 -->
+
 
 
 

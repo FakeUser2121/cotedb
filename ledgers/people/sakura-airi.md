@@ -1145,6 +1145,9 @@ aliases used for anchors: sakura, airi, sakura-san
 [rel:hasebe-haruka] (p.100–113) Her best friend, who devised the remodelling project and pushed her to be brave.
 [rel:ayanokouji-kiyotaka] (p.106–107) Confides her resolve to change; he encourages her.
 [rel:ishigami-kyou] (p.108) His "totally attractive" judgment confirms the makeover's success.
+
+<!-- walk: y2v4.5 ch4 → p.158 -->
+
 ## y2v5
 
 <!-- walk: y2v5 → start -->

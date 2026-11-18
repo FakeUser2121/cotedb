@@ -59,10 +59,13 @@ char_id: tsukasaki-taiga · class: Class 2-A · status: minor
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — tsukasaki-taiga mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.135.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.135 — Tsukasaki: Satō's "better guys" shortlist
+[mentioned] (p.135) Satō, teasing Karuizawa about Ayanokōji: "You know, I think you could aim for better guys, Karuizawa-san." Pressed for names she offers "like Tsukasaki-kun, or Nagumo-senpai."
+[note] (p.135) Tsukasaki never appears on-page; he is the example of an attractive, high-status third-year available as an alternative to her boyfriend — Karuizawa dismisses both.
+
+<!-- walk: y2v4.5 ch4 → p.158 -->
+
 
 
 

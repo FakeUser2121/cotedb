@@ -1769,6 +1769,19 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
+### y2v4.5 p.129–135 — Kei and Satō's café afternoon; her POV
+[scene] (p.129–135) Karuizawa takes Satō's invitation to a private coffee; nervous about telling her; Satō pries about the first kiss, Hirata, and "better guys."
+[says] (p.130) “If only we could keep living on this cruise ship forever…”
+[says] (p.132) “Eh?! Ehhh?”
+[says] (p.132) “Y-yeah. Well, I mean, it'd be weird if we weren't lovey-dovey given that we're a couple.”
+[says] (p.132) “…J-just once, by surprise.”
+[says] (p.133) “R-really? I wasn't able to prepare or anything…Even though it was my first time…”
+[says] (p.133) “Hirata-kun's a passive guy, so he didn't make a move even if I wanted him to. It was a bit unsatisfying for me~”
+[says] (p.134) “Satō-san…I…” — nothing more gets out before Satō cuts in with an apology of her own.
+[rel:satou-maya] (p.129–135) Her closest gossip partner; Satō knows the details better than anyone.
+[rel:ayanokouji-kiyotaka] (p.129–135) He adjusts to whatever timing she picks; she still hides the relationship from the class until the second semester.
+
+<!-- walk: y2v4.5 ch4 → p.158 -->
 
 ### y2v4.5 p.277–278 — Short story: "A Dream I Have Seen Before" — the last secret date
 [scene] (p.277) From her own POV, on the last day of summer vacation, reflects on how happy she is — she can see Kiyotaka face to face every day, and they're going public tomorrow.

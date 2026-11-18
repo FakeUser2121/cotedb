@@ -963,10 +963,23 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — yukimura-teruhiko mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: none.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.97–113 — The private pool; the study talk
+[scene] (p.97, 105–106) Keisei arrives last (stomach trouble has lingered); jumps in the pool alone to escape Haruka's swimsuit; watches the games.
+[says] (p.108) “…It's…not bad, is it? I mean, no, it's totally attractive…”
+[says] (p.109) “The first step is to find out what you can and can't do, isn't it?”
+[says] (p.110) “Uh, that means I'm an idiot, right?…Ugh.”
+[says] (p.111) “W-wait, Akito. I'm at an overwhelming disadvantage then!”
+[trait] (p.108–113) Honest to a fault about Airi's new look; lets Akito sit into her game as helper; teaches Airi the fundamentals of learning ("Beginning with the 1st year of elementary school, we all start running side by side").
+[rel:sakura-airi] (p.108–113) Rates her "totally attractive" under Haruka's pressure; agrees to teach her study habits.
+
+<!-- walk: y2v4.5 ch4 → p.158 -->
+
+### y2v4.5 p.167 — Announces he won't play
+[mentioned] (p.167) Free to participate in the treasure hunt but announces he isn't interested in the game.
+
+<!-- walk: y2v4.5 ch5 → p.216 -->
+
 
 ## y2v5
 

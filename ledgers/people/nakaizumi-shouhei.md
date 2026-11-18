@@ -2,10 +2,6 @@
 
 char_id: nakaizumi-shouhei · class: unknown · status: unknown
 
-## y2v5
-
-<!-- walk: y2v5 → start -->
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
@@ -17,10 +13,20 @@ char_id: nakaizumi-shouhei · class: unknown · status: unknown
 
 <!-- walk: y2v4.5 ch3 → p.95 -->
 
+### y2v4.5 p.114–115 — The pool level, after Nanase
+[mentioned] (p.114–115) Passes by the private pool level right after Nanase leaves; Akito notices them wander in a place students never go.
+
+<!-- walk: y2v4.5 ch4 → p.158 -->
+
+### y2v4.5 p.177–178 — The Nanase shadow
+[mentioned] (p.177–178) He keeps appearing behind Nanase — "Nakaizumi never once showed any sign of paying attention to me" — Ayanokōji concludes they are monitoring Nanase, likely on Ryūen's orders; the shadow behind Nakaizumi is Ryūen.
+
+<!-- walk: y2v4.5 ch5 → p.216 -->
 
 
+## y2v5
 
-
+<!-- walk: y2v5 → start -->
 
 <!-- walk: y2v5 Epilogue → p.243 -->
 

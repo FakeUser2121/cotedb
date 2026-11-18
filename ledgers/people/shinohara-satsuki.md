@@ -374,8 +374,6 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
-
-
 ### y2v4.5 p.26–35 — Ike's confession to her; her reply; rivalry with Komiya
 [scene] (p.27) Ike, waiting at Ayanokōji's door, admits he confessed his feelings to her on the way back to the ship after the exam — they were alone for a moment — and he was "so relieved that the island exam was over, Shinohara was right by my side…and then…it just hit me that I didn't want to give her to Komiya."
 [mentioned] (p.27) Ike reports he got the okay — they are dating now; the question of Komiya's reaction hangs over him.
@@ -384,6 +382,12 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y2v4.5 ch1 → p.35 -->
 
+
+### y2v4.5 p.115–116 — Shinohara and Ike at the private pool
+[scene] (p.115–116) Appeared with Ike at the private pool's next reservation slot; Haruka recognizes the combination at once: “It means they started dating” (Haruka); the two leave holding hands.
+[rel:ike-kanji] (p.115–116) Hand in hand; his first public display of the relationship to classmates.
+
+<!-- walk: y2v4.5 ch4 → p.158 -->
 
 ## y2v5
 

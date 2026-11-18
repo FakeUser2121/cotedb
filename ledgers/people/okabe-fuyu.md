@@ -10,10 +10,17 @@ char_id: okabe-fuyu · class: unknown · status: unknown
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — okabe-fuyu mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.119, p.121-122, p.124-125.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.119–124 — Okabe: Katsuragi's "traitor" case
+[scene] (p.119–124) Okabe is present at the Katsuragi–Tokitō dispute, quiet at first; taps Tokitō's shoulder to tell him it's pointless to press further; then voices the "class traitor" case herself.
+[says] (p.121) “That's why I told you, Tokitō. Katsuragi-kun isn't worth talking to.”
+[says] (p.121) “In the end, you, who had no place in Class A, were happy to be picked up by Ryūen, right Katsuragi-kun? In other words, you're his dog.”
+[note] (p.122) Hiyori names Okabe as one of the girls in Ryūen's class who "want to embrace Katsuragi and rebel against Ryūen."
+[rel:tokitou-hiroya] (p.119–124) Aligns with him against Ryūen's leadership; voices the "picked up by Ryūen" reading.
+[rel:katsuragi-kouhei] (p.119–124) Confronts him as a defector; sees his move to Ryūen's class as a betrayal of his original position.
+
+<!-- walk: y2v4.5 ch4 → p.158 -->
+
 
 
 

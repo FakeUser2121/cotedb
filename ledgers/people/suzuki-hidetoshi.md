@@ -43,9 +43,10 @@ char_id: suzuki-hidetoshi · class: Class 1-C (enrolled April 2015) · status: m
 
 <!-- walk: y2v4.5 ch3 → p.95 -->
 
+### y2v4.5 p.114–115 — With Nakaizumi; the pool level
+[mentioned] (p.114–115) Walks with Nakaizumi past the three boys after Nanase leaves; no line or action; named only.
 
-
-
+<!-- walk: y2v4.5 ch4 → p.158 -->
 
 ## y2v5
 

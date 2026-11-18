@@ -1204,7 +1204,6 @@ aliases used for anchors: ike, kanji, ike-kun
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
-
 ### y2v4.5 p.26–30 — Ike's confession; visiting the injured Komiya
 [says] (p.26) "I'm thinking of going to visit Komiya right now."
 [says] (p.27) "I…I'm going out with Shinohara."
@@ -1219,6 +1218,13 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:ayanokouji-kiyotaka] (p.26–28) Asks him to come along for moral support; Ayanokōji goads him about the coming punch.
 
 <!-- walk: y2v4.5 ch1 → p.35 -->
+
+### y2v4.5 p.115–116 — Ike and Shinohara at the private pool
+[scene] (p.115–116) Ike arrives as the pool's next reservation, restless and stuck for words; Shinohara appears behind him, "What a rare combination, Shinohara and Ike hanging out together." Haruka deduces the dating at once; the two bolt to the reception desk holding hands.
+[says:hasebe-haruka] (p.116) “It means they started dating”
+[rel:shinohara-satsuki] (p.115–116) Hand in hand; the restless announcement of the relationship the classmates put together before he can say a word.
+
+<!-- walk: y2v4.5 ch4 → p.158 -->
 
 ## y2v5
 
