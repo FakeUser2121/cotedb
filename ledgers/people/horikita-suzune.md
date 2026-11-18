@@ -4607,6 +4607,32 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (p.11) Passing mentions on pages: p.12-14, p.16-18, p.41-42, p.44-45, p.57-58.
 [mentioned] (p.11) Passing mention only.
 
+### y2v8 p.70–78 — The bathhouse: Kushida, the elegance, the endurance war
+[scene] (p.70) 8:37 p.m.; after dinner she slips to the outdoor bath; she spots Kushida and Rokkaku already there; Kushida waves (not her real intent, Horikita knows); she takes the far edge.
+[says] (p.71) “Why didn't you go out with Rokkaku-san?”
+[says] (p.71) “No, that wasn't what I was thinking.”
+[says] (p.71) “You're coming at me, aren't you?”
+[says] (p.71) “You really have a wide circle of friends. I've never even spoken to Rokkaku-san.”
+[says] (p.72) “What? Why are you coming here?”
+[says] (p.72) “I understand too well that you don't truly want to do that.”
+[says] (p.72) “Of course I do. People can see this place from the inner bath, so I can't do anything bad.” (defending her elegant smile)
+[scene] (p.72–73) Ibuki splashes in without warning; demands a swim race; Horikita refuses; Ibuki exits annoyed rather than risk it.
+[scene] (p.73–74) Kushida touts Horikita's luck (the Ayanokōji seat-draw); Horikita owns her luck without surrendering ground; the two out-last each other in the bath.
+[says] (p.73) “I can't completely deny that.”
+[scene] (p.74–78) Ichinose arrives talking with friends; Kushida pivots to interrogation; Horikita answers for herself in one-word bursts; the three hold the bath past safe tolerance — Ichinose, already called back inside by her friends, returns to order them up; the three part without resolution.
+[says] (p.75) “No.” (refusing any romance — one syllable)
+[says] (p.75) “I don't have anybody like that. But what about you? You seem to be close with boys from other classes. I wonder if Ichinose-san is wondering about that too.” (her attempt to escape the spotlight)
+[says] (p.77) “I guess so.” (settling into the cover-up)
+[says] (p.78) “I don't know anything about love.”
+[says] (p.78) “I don't know what you're talking about.”
+[says] (p.78) “Aren't you the one who... didn't hear Ichinose-san's words?” (returning the favor)
+[rel:kushida-kikyou] (p.70–78) Nemesis-in-charm; both know the game; neither can leave first; the bath is a stalemate with no winner announced.
+[rel:ibuki-mio] (p.72–73) She crash-lands on them; demands a race; is refused; storms out.
+[rel:ichinose-honami] (p.74–78) She draws the arrow away with target-avoidance.
+[rel:rokkaku-momoe] (p.71) The Class A girl Kushida pretends to be chummy with; she leaves early.
+
+<!-- walk: y2v8 Ch.2 → p.89 -->
+
 ## y2v9
 
 <!-- walk: y2v9 → start -->

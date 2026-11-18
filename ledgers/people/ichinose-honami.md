@@ -1863,6 +1863,29 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [note] (p.11) Passing mentions on pages: p.10, p.13-14, p.49, p.65, p.69.
 [mentioned] (p.11) Passing mention only.
 
+### y2v8 p.69–78 — Bathhouse business before bed; the love interrogation
+[mentioned] (p.69) Watanabe leaks heard gossip in the corridor: "Well, now I can understand why Ichinose likes you so much…" (and later, that the girls were talking about Ichinose); Ayanokōji clearly hears him; he corrects himself fast.
+[scene] (p.74) The open-air bath again; she arrives with friends; Kushida's press confers; pins about a boy's room come later. She arrives after Rokkaku leaves. (Horikita's POV; she is the third party.)
+[says] (p.74) “...Sorry to bother you.”
+[says] (p.74) “Ahaha... It just sort of happened.”
+[says] (p.74) “Oh, no! It's not like that at all! Never mind!”
+[says] (p.75) “E-eeeh? What?!”
+[says] (p.75) “N-no, there's no one!”
+[says] (p.76) “No, I don't. Really, I don't have anything like that.”
+[says] (p.76) “Yeah, yeah? Really? I don't know much about love either, so... I just think it's a waste to fall in love while you're still a student.”
+[says] (p.77) “Yes. I hear that most student relationships don't come to fruition.”
+[says] (p.77) “I see... Somehow, I think I understand…”
+[says] (p.77) “Yes. I'd still like to talk to Horikita-san too, if it's possible.”
+[says] (p.78) “You two look a little different from usual, don't you?”
+[says] (p.78) “I think it's time for both of you to get up, don't you? Your faces are turning really red.”
+[says] (p.78) “Is something wrong with you two after all?”
+[trait] (p.74–78) Her friends call her inside; she walks back out anyway to settle Horikita/Kushida; she dodges the love talk the only two ways she knows — flat no and nonsense.
+[rel:kushida-kikyou] (p.74–78) Kushida interrogates her for information about Ayanokōji; she yields nothing.
+[rel:horikita-suzune] (p.74–78) She partners with her to break the Kushida-Kushida staring contest.
+[rel:ayanokouji-kiyotaka] (p.69–78) The man she likes; she refuses every probe about him in the bath.
+
+<!-- walk: y2v8 Ch.2 → p.89 -->
+
 ## y2v9
 
 <!-- walk: y2v9 → start -->

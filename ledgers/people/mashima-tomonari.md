@@ -384,6 +384,11 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.46 — Class A's homeroom teacher gives the send-off speech
+[scene] (p.46) Mashima-sensei, Class A's homeroom teacher, gives a speech before boarding; the four 2nd-year homeroom teachers split by class across the four buses: Mashima (No.1), Chabashira (No.2), Sakagami (No.3), Hoshinomiya (No.4).
+
+<!-- walk: y2v8 Ch.2 → p.89 -->
+
 ### y2v8 p.11-208 — mashima-tomonari mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.46, p.49, p.156.

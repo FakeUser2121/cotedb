@@ -302,6 +302,12 @@ aliases used for anchors: kaneda, kaneda satoru, kaneda-kun
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.62–63 — Ryūen's conclave on the advanced course
+[scene] (p.62–63) Distant view only: he's among the quiet Class C group gathered below (with Ishizaki and Todo) that Ryūen listens to without looking at anyone.
+[rel:ryuuen-kakeru] (p.62–63) He reports to Ryūen at the advanced course.
+
+<!-- walk: y2v8 Ch.2 → p.89 -->
+
 ### y2v8 p.11-208 — kaneda-satoru mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.63, p.111.

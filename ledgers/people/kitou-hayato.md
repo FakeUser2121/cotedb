@@ -198,6 +198,35 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.46–52 — Group 6: the quiet Class A threat
+[scene] (p.46) Boards with Class A; his name (with Yamamura) anchors group 6 in the master list; Ayanokōji is caught flat-footed by the pairing with Ryūen.
+[trivia] (p.47) Ayanokōji's private numbering: Kitō = 9 (Kushida/Ryūen = 6, Yamamura = 14); Kitō in particular might rank Ryūen low given his pro-Sakayanagi lean.
+[scene] (p.50–52) He registers glares at Ryūen; flatly declines to sit with him; moves away; Watanabe chooses him over Ryūen — he's usually very quiet, and not as scary as he looks.
+[says] (p.51) “There's no way I'm sitting with him.”
+[rel:ryuuen-kakeru] (p.50–52) Open hostility, no words wasted; Kitō declines even proximity to Ryūen on the bus.
+[rel:watanabe-norihito] (p.51–52) Watanabe's preferred seatmate.
+[rel:yamamura-miki] (p.46) His Class A groupmate.
+[rel:sakayanagi-arisu] (p.52–53) His loyalty to Class A already reads as Sakayanagi-aligned to Ayanokōji.
+
+### y2v8 p.65–88 — Ryokan: the Boston bag and the war of wills
+[scene] (p.65) In the lobby when Ryūen hurls his Boston bag at Watanabe ("Take it to the room."); Kitō lunges for it ("Give it to me.").
+[says] (p.65) “I'll take it.” (he tries to intercept the bag from Watanabe)
+[scene] (p.67) He sits in zazen-like silence in the corner; surveys the room quietly; absent from the girls'-night chit-chat.
+[says] (p.68) “I'm not ready.” (to joining the baths)
+[scene] (p.79–80) He listens to the girls' arrival; keeps quiet; asks about the benefit of the face-to-face meeting ("Is this something we should all gather here to do? We can just use our cell phones.").
+[scene] (p.81–88) He opposes Ryūen's futon claim ("I don't approve." / "I'm free to speak when, where, and how I want."); he concedes only when out-voted; enters the pillow fight ("Darkness ball!"); stops when told it's bothering others.
+[says] (p.82) “I don't approve.” (vetoing Ryūen's futon claim)
+[says] (p.82) “I'm free to speak when, where, and how I want.”
+[says] (p.85) “Darkness ball!”
+[says] (p.87) “I'm not going to continue if I'm bothering others.”
+[trait] (p.65–88) Rigid principle ("Everything should be done by themselves") against Ryūen's predatory calm; loses gracefully when out-voted; twice chooses others' comfort over his own win (futon veto, pillow-fight stop).
+[rel:ryuuen-kakeru] (p.65–88) Constant low-grade hostility; each is the other's most dangerous opponent on the trip.
+[rel:watanabe-norihito] (p.65–67) He tries to save Watanabe from the bag-carrying order.
+[rel:ayanokouji-kiyotaka] (p.65–85) Ayanokōji mediates twice on his behalf; Kitō accepts the mediation.
+[rel:kushida-kikyou] (p.79–85) She's the judge at the pillow fight; he respects her authority.
+
+<!-- walk: y2v8 Ch.2 → p.89 -->
+
 ### y2v8 p.11-208 — kitou-hayato mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.46-48, p.50-52, p.55-56, p.65-68, p.80-85.

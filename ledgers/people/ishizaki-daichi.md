@@ -794,6 +794,12 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.62–63 — Ryūen's conclave on the advanced course
+[scene] (p.62–63) Distant view only: he's among the Class C group gathered below (with Kaneda and Todo) that Ryūen regards without eye contact.
+[rel:ryuuen-kakeru] (p.62–63) He reports to Ryūen at the advanced course.
+
+<!-- walk: y2v8 Ch.2 → p.89 -->
+
 ### y2v8 p.11-208 — ishizaki-daichi mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.63, p.140-141, p.143-144, p.165.

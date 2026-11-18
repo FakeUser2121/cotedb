@@ -9447,6 +9447,29 @@ walk: y1v1 → DONE
 [rel:horikita-suzune] (p.70–75) She's in the bath; admits Ayanokōji's role in her survival; Ibuki challenges her.
 [rel:ryuuen-kakeru] (p.65–67) He dumps his luggage on Watanabe and heads to the baths — "clumsy kindness" noted later.
 
+### y2v8 p.78–89 — Girls' night visit; futon politics; the pillow fight
+[scene] (p.78) Ten o'clock; two gentle knocks on the door; Kushida leads the four girls to the doorway and announces them; Watanabe scrambles; the air fills with a scent the boys can't place (their own is cheap soy-milk shampoo); Amikura whispers she's nervous.
+[scene] (p.79–80) Kushida relocates everyone to the main room (behind the shoji) — Ryūen refuses to come off the sofa; she forces the meeting anyway; the girls settle on the two futons nearest the entrance.
+[trait] (p.79–80) He notes the layout (four futons, the close quarters) before the negotiation begins; he keeps quiet about the shampoo mystery, knowing he can't ask.
+[scene] (p.81–85) Kitō and Ryūen lock horns over the end futon ("I don't approve." / "I won't approve of an unbiased approach."); Watanabe quietly gives up the end; Ayanokōji mediates; Ryūen produces a pillow and calls the fight (Kitō answers with "Darkness ball!"); the pillow bursts open and showers buckwheat chaff across the room.
+[says:ryuuen-kakeru] (p.80) “I'm fine right here. I can hear you just fine.”
+[says:ryuuen-kakeru] (p.82) “Hey, Kitō. If you have something to say, don't hesitate to say it, okay?”
+[says] (p.83) “I'll pass too.”
+[says] (p.83) “You can compete and decide as you like.”
+[says] (p.84) “I'll let you take the spot you want before Watanabe and me from the remaining three, okay?”
+[says] (p.84) “And please don't use violence to decide.” (his arbitration)
+[says:kushida-kikyou] (p.85) “I thought that all the boys did this in their elementary and junior high school trips.”
+[says:kitou-hayato] (p.85) “Darkness ball!”
+[scene] (p.86–89) Cleanup; tomorrow's plan: skiing together for everyone; Kushida runs logistics; Ryūen relinquishes his vote ("Suit yourself.").
+[rel:kushida-kikyou] (p.78–89) She judges the futon contest, fronts the meeting and organizes tomorrow; no drama.
+[rel:kitou-hayato] (p.81–88) He vetoes Ryūen's claim, then stands down once the veto is pointless; destroys the pillow when provoked.
+[rel:ryuuen-kakeru] (p.78–88) He angles for the end futon, then weaponizes a pillow when denied.
+[rel:watanabe-norihito] (p.79–84) He gives up the end futon without being asked; floats in boyish awe of the girls.
+[rel:yamamura-miki] (p.81) She half-steps away when Watanabe slides in next to her.
+[rel:amikura-mako] (p.83, 85–88) She nearly intervenes in the Ryūen–Kitō standoff; mutters at the flying pillows; defers all plans to the group.
+
+<!-- walk: y2v8 Ch.2 → p.89 -->
+
 ### y2v8 p.90–108 — Skiing day 2; Yamamura's cold; Ryūen's "clumsy kindness"
 [scene] (p.90) Morning at the ryokan; Ryūen proposes a contest (magazines about kittens); the group goes skiing.
 [trait] (p.98–100) Notices Yamamura shivering without gloves; Ryūen (of all people) points it out and orders Ayanokōji to lend his gloves — "clumsy kindness, typical of Ryūen"; Ayanokōji gives his gloves to Yamamura (costing him some comfort, not points); later skiing with Kushida/Ryūen/Kitō, he notes Ryūen/Kitō are experts ("true role models") and hides that this is only his second time skiing.

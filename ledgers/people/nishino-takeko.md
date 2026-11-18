@@ -106,6 +106,25 @@ char_id: nishino-takeko · class: Class 1-C · status: minor
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.46–88 — Group 6: the quiet defender
+[scene] (p.46) Boards on the Class C bus; her name (with Ryūen) anchors group 6.
+[trivia] (p.47) Ayanokōji's private numbering: Nishino = 18 (lower-middle; Yamamura 14, Watanabe 18).
+[scene] (p.49–51) Kushida calls out to her; she arrives awkwardly ("Nishino looked a little awkward, as if she hadn't had much interaction with Kushida or Amikura"); she holds her own silent distance behind Ryūen.
+[scene] (p.79–81) She opens the shoji with vigor; she is "neither frightened nor timid" with Ryūen; she pulls Amikura's sleeve to stop her interrupting the futon argument.
+[scene] (p.81) She bluntly addresses Ryūen across the room ("Don't just say things that annoy me, get your ass over here.") — neither frightened nor timid about him.
+[says] (p.81) “Don't just say things that annoy me, get your ass over here.”
+[says] (p.81) “I've always been like this. I just didn't get more involved than necessary until now.”
+[says] (p.87) “You know, we don't have time for this.”
+[says] (p.87) “It's annoying.”
+[trait] (p.79–88) First to object to the boys' futon nonsense and the pillow fight; protective at a distance; keeps her boundaries intact, especially with strangers.
+[rel:ryuuen-kakeru] (p.49–88) She keeps a civil but wary distance without fear.
+[rel:amikura-mako] (p.79–88) She reins her in, softly.
+[rel:kushida-kikyou] (p.79–88) She props up Kushida's authority at the futon dispute.
+[rel:yamamura-miki] (p.46) Group 6.
+[rel:kitou-hayato] (p.46) Group 6.
+
+<!-- walk: y2v8 Ch.2 → p.89 -->
+
 ### y2v8 p.11-208 — nishino-takeko mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.46-47, p.50, p.55, p.79-81, p.83.

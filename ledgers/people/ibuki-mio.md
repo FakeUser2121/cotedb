@@ -1085,6 +1085,21 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.72–73 — The bathhouse crash
+[scene] (p.72) She storms into the outdoor bath in a crash of water; targets Horikita at once; declares swim race; drapes a face towel over her shoulders and refuses to wait.
+[says] (p.72) “Horikita!” (her greeting; no warning)
+[says] (p.73) “I know, but I don't care about that. Let's play!”
+[says] (p.73) “What? This is such a big bathing area, there's only one thing to do. Let's see who can swim from one end to the other the fastest!”
+[says] (p.73) “It doesn't matter. It's not like there's other people here, and no one's watching us.”
+[says] (p.73) “Kushida said it's okay too, so we'll play!”
+[says] (p.73) “What? I came here thinking I could compete with you. I lost.”
+[says] (p.73) “I don't want to go in there with you.” (she flees the outdoor bath after losing the dare)
+[trait] (p.72–73) Chummy menace; impulsive; weaponizes directness to break taboos; she exits the bath when losing rather than risk it.
+[rel:horikita-suzune] (p.72–73) Her rival-friend; competed with her since year 1.
+[rel:kushida-kikyou] (p.73) She sides with Kushida's mediation without noticing.
+
+<!-- walk: y2v8 Ch.2 → p.89 -->
+
 ### y2v8 p.11-208 — ibuki-mio mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.72-74, p.110, p.163-165, p.169, p.171-172.

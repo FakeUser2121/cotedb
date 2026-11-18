@@ -288,6 +288,11 @@ aliases used for anchors: sakagami, sakagami-sensei
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.46 — Boarding bus No.3 (Class C)
+[scene] (p.46) Sakagami boards No.3 (by class order A to D).
+
+<!-- walk: y2v8 Ch.2 → p.89 -->
+
 ### y2v8 p.11-208 — sakagami mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.46, p.49.

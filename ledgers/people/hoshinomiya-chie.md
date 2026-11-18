@@ -542,6 +542,11 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.46 — Boarding bus No.4 (Class D)
+[scene] (p.46) Hoshinomiya-sensei boards No.4 (by class order A to D).
+
+<!-- walk: y2v8 Ch.2 → p.89 -->
+
 ### y2v8 p.11-208 — hoshinomiya-chie mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.46, p.49, p.148, p.155-158, p.202-203.

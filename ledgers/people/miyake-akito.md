@@ -650,6 +650,13 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.46–53 — Paired with Kei on the trip
+[scene] (p.46) The bus departs for Haneda; Akito is assigned to Kei's group for the trip — the two have "usually had no contact at all."
+[scene] (p.48) The seating debate resolves: Kei and Akito, along with Satō, occupy the row's far side; Ayanokōji/Yōsuke get the far side of the bus.
+[rel:karuizawa-kei] (p.48) His groupmate this week; their mandated closeness rankles both.
+
+<!-- walk: y2v8 Ch.2 → p.89 -->
+
 ### y2v8 p.11-208 — miyake-akito mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: none.

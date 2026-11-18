@@ -91,6 +91,23 @@ char_id: amikura-mako · class: Class 1-B · status: minor (allies)
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.46–88 — Group 6: the nervous girl
+[scene] (p.46) Boards on the Class D bus; her name closes group 6.
+[trivia] (p.47) Ayanokōji's private numbering: Amikura = 14.
+[scene] (p.49–50) She waves alongside Watanabe; she and Kushida rejoice visibly at landing in the same group — they took each other's hands and rejoiced at being in the same group; she makes friends easily where Yamamura cannot.
+[scene] (p.78–85) She whispers to the other girls, nervous ("I'm a little nervous thinking about a boy's room."); she nearly intervenes in the Ryūen–Kitō futon feud; she mutters at the pillow fight; she says “This is still… a pillow fight, right?”
+[says] (p.79) “I'm a little nervous thinking about a boy's room.”
+[says] (p.85) “This is still… a pillow fight, right?”
+[scene] (p.88–89) On tomorrow's plan: she concedes skiing because she doesn't want to be the holdout; she swallows her unease and defers to the group.
+[says] (p.88) “We're a group.”
+[trait] (p.46–88) Sweet but easily unsettled; better around girls; she defers to group harmony even at her own discomfort.
+[rel:watanabe-norihito] (p.46, 49) Her Class D groupmate.
+[rel:kushida-kikyou] (p.49–79) They're friendly; Kushida guides her through the trip.
+[rel:nishino-takeko] (p.79) Nishino reins her in at the futon dispute.
+[rel:yamamura-miki] (p.46) Group 6.
+
+<!-- walk: y2v8 Ch.2 → p.89 -->
+
 ### y2v8 p.11-208 — amikura-mako mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.46-47, p.49-50, p.67, p.79, p.83.

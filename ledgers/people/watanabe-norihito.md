@@ -62,6 +62,36 @@ char_id: watanabe-norihito · class: unknown · status: unknown
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.46–52 — Group 6: the C+ guy who hopes
+[scene] (p.46) Boards on the Class D bus; his name (with Amikura) closes group 6 in the master list.
+[trivia] (p.47) Ayanokōji's private numbering: Watanabe = 18 — C+ academic/physical, slightly above average, no obvious flaws, "a good guy" (narrator's estimate).
+[scene] (p.47–52) On the bus he follows in everyone's wake; he checks Ayanokōji's mood rhythmically; at the airport he, Amikura, Nishino and Ryūen all appear; he shivers at Ryūen while being befriended by Kitō — he's usually very quiet, and not as scary as he looks (Watanabe's read).
+[scene] (p.50–51) He orients toward the group's mechanics; he puts himself forward for the unpleasant seat next to Kitō over Ryūen.
+[says] (p.51) “It's true that Kitō isn't as scary as he looks.”
+[rel:kitou-hayato] (p.51–52) He chooses Kitō as his preferred seatmate over Ryūen.
+[rel:ryuuen-kakeru] (p.51–52) He finds him unreadable and lets Kitō absorb the menace.
+[rel:amikura-mako] (p.46) His Class D groupmate.
+[rel:kushida-kikyou] (p.49–52) She leads; she comforts the socially anxious better than he can help himself.
+
+### y2v8 p.65–88 — Ryokan: girls' night and the end futon
+[scene] (p.65) He receives the keys to Room 203 and grieves openly; he's saddled with Ryūen's Boston bag for the room — Ryūen throws it at him and vanishes to the baths.
+[says] (p.65) “I knew it. I'm sleeping with these people.”
+[scene] (p.67–68) He nearly melts at the girls' arrival; he rushes to the baths early; in the corridor he whispers his terror at four nights with Kitō and Ryūen.
+[says] (p.68) “Will you live until morning?”
+[scene] (p.69) He blunders into Ichinose's name — then instantly covers; he reveals he heard it from the girls.
+[says] (p.69) “Well, now I can understand why Ichinose likes you so much…”
+[scene] (p.78–82) Watanabe opens the door at the girls' arrival; he clears space for them to sit; he welcomes them and notes the shampoo smell; he pulls the futons for them without asking; he gives his end futon to Kitō.
+[says] (p.82) “I… Well, I don't care where I sleep.” (surrendering his spot like a frog staring at a snake)
+[says] (p.84) “I've got to build up a little tolerance too.” (giving up the end futon)
+[trait] (p.65–88) A sweet disposition under a C+ exterior; wilts politely under pressure; tries to be useful without courage; he leaks gossip he regrets.
+[rel:ryuuen-kakeru] (p.65) Ryūen dumps the bag on him; he doesn't resist.
+[rel:kushida-kikyou] (p.67–84) She runs the girls' visit; he works hard to impress her; he gives up his futon when the group's harmony needs it.
+[rel:ayanokouji-kiyotaka] (p.65–85) Ayanokōji trains him in composure; they conspire to keep Ryūen honest.
+[rel:amikura-mako] (p.46) Group 6.
+[rel:ichinose-honami] (p.69) He repeats her name with new weight; she doesn't know he's heard.
+
+<!-- walk: y2v8 Ch.2 → p.89 -->
+
 ### y2v8 p.11-208 — watanabe-norihito mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.46-47, p.49-51, p.56, p.65-70, p.78-84.

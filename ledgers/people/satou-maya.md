@@ -490,6 +490,18 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [note] (p.11) Passing mentions on pages: p.25-28, p.48.
 [mentioned] (p.11) Passing mention only.
 
+### y2v8 p.46–53 — Haneda on four buses; seated with Kei
+[scene] (p.46) The trip begins; Satō boards relaxed; the lists show her paired with Okitani.
+[scene] (p.47–48) The seating fight resolves as Ayanokōji/Yōsuke window seat pair + Kei/Satō across the aisle; the silly chatter continues until they land.
+[says] (p.48) “How are you and Kei doing these days, Ayanokōji-kun? Are things going well?”
+[mentioned] (p.48) "Satō was in the same group as Okitani."
+[note] (p.48) "Maybe she's just trying to be nice" is untagged in the translation — possibly Yōsuke's or Satō's; not assigned.
+[rel:karuizawa-kei] (p.48) She sits across the aisle from her; asks Ayanokōji about her over the ride.
+[rel:okitani-kyousuke] (p.48) Her trip groupmate.
+[rel:hirata-yousuke] (p.48) The man Kei ends up next to.
+
+<!-- walk: y2v8 Ch.2 → p.89 -->
+
 ## y2v9
 
 <!-- walk: y2v9 → start -->

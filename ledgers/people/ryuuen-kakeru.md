@@ -2329,6 +2329,43 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v8 Ch.1 → p.45 -->
 
+### y2v8 p.46–57 — Group 6: boarding; the bus conversation; advanced skiing
+[scene] (p.46) Boards on the Class C bus; his name anchors group 6 with Nishino; Ayanokōji is the other Class B slot member.
+[trivia] (p.47) Ayanokōji's private numbering: Ryūen = 6 (Kushida = 6); "the highest ratings went to Kushida and Ryūen" — though Ryūen might be given an extremely low number for being disliked.
+[scene] (p.51–54) He sits eyeing Kitō; karaoke break; he opens with "That first-year kid, Yagami... How do you know him?"; he lets slip that information left with Yagami and hints ("there's another girl left, Amasawa"); "Oh well. It'll be a little while before I fuck with you anyway."
+[says] (p.52) “I felt some similar vibes as you from that first-year kid, Yagami.”
+[says] (p.52) “That ain't gonna happen.”
+[says] (p.53) “It's true that that guy has left, but I hear there's another girl left, Amasawa, who's been with you from the first years.”
+[says] (p.53) “It doesn't matter if you focus on that first year.”
+[says] (p.53) “It'll be a little while before I fuck with you anyway.”
+[scene] (p.55–57) Advanced course skier, no lesson; correct form walking heels-to-tail; he sees Ayanokōji fall on the beginner slope and walks away amused ("raised the corners of his mouth slightly").
+[says] (p.56) “Hey, Ayanokōji, you're on the beginner course over there, and this is the advanced course.”
+[says] (p.56) “Oh? That's an unexpected line from the guy who was penguin-walking a moment ago.”
+[rel:kitou-hayato] (p.46, 55) Their battle line is drawn across Class A and C; he'd happily fight him.
+[rel:ayanokouji-kiyotaka] (p.52–53) He views him as someone worth opening a side conversation with; fascinated by the Yagami connection.
+[rel:nishino-takeko] (p.46) His Class C groupmate.
+[rel:kushida-kikyou] (p.46, 49) Her still-tenuous connection to him (former partners in the year-1 scheme) is not mentioned on this page.
+
+### y2v8 p.62–88 — The advanced course; Ryokan: bag, shoji, and the pillow fight
+[scene] (p.62–64) Advanced course; a quiet conclave of Ryūen's class people (Kaneda, Ishizaki, Todo) gathers near where he waits; Ayanokōji observes from above without acting.
+[scene] (p.65) In the lobby he hurls his Boston bag at Watanabe with a grunt — shouldered ride for the girls' arrival; he vanishes to the baths.
+[says] (p.65) “Take it to the room.”
+[says] (p.65) “I'm going to the bathroom.”
+[scene] (p.79–80) Behind the shoji, relaxing with his cell phone; he declines to join the group meeting; he needles Kushida about her true position ("If you don't get it, I can make you understand, can't I?").
+[says] (p.80) “You seem to be all worked up, but you do understand your position, don't you?”
+[scene] (p.81–85) He claims the futon at the end first; Kitō objects; he calls Kitō's bluff; he unveils a pillow and forces the contest; he pummels the pillow into oblivion ("Then I'll kill you without mercy, Kitō!" — his own pillow-kill call, p.84).
+[says] (p.85) “Then I'll kill you without mercy, Kitō!”
+[says] (p.88) “Suit yourself.” (relinquishing the ski plan vote — twice: bus and room)
+[trait] (p.62–88) Weaponizes guile over direct force; enjoys testing limits (vomit bags etiquette, futon, pillow); chooses humiliation-adjacent mind games over fair ones.
+[rel:kushida-kikyou] (p.79–85) He needles her about her role in the group — her panic is entertainment for him.
+[rel:kitou-hayato] (p.62–88) Escalating contest: glances on the lift, futon rivalry, pillow fight.
+[rel:watanabe-norihito] (p.65) He dumps Watanabe with the bag without asking.
+[rel:kaneda-satoru] (p.63) One of the class members reporting to him on the slope.
+[rel:ishizaki-daichi] (p.63) Same.
+[rel:todo-chikon] (p.63) Same.
+
+<!-- walk: y2v8 Ch.2 → p.89 -->
+
 ### y2v8 p.11-208 — ryuuen-kakeru mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.12, p.14, p.46-47, p.49-53, p.55-57.

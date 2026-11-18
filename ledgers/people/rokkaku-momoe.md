@@ -36,6 +36,14 @@ char_id: rokkaku-momoe · status: minor
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.70–72 — The outdoor bath (background)
+[scene] (p.70–71) She shares the outdoor bath with Kushida when Horikita arrives; she's the Class A student Kushida was chumming for cover; Rokkaku and Kushida chat idly; Rokkaku leaves after a few minutes.
+[mentioned] (p.71) Horikita barely knows her: "I've never even spoken to Rokkaku-san."
+[rel:kushida-kikyou] (p.70–71) Kushida pretends to befriend her; Rokkaku doesn't notice the play.
+[rel:horikita-suzune] (p.71) She's the reason Kushida doesn't perform around Horikita — Kushida won't reveal herself in front of her.
+
+<!-- walk: y2v8 Ch.2 → p.89 -->
+
 ### y2v8 p.11-208 — rokkaku-momoe mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.71.

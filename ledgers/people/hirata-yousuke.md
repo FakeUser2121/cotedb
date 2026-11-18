@@ -1950,8 +1950,18 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [note] (p.11) Passing mentions on pages: p.13, p.16, p.21-27, p.41, p.47-48.
 [mentioned] (p.11) Passing mention only.
 
+### y2v8 p.46–53 — The bus: popularity and diplomacy
+[scene] (p.46) The trip begins; Hirata boards the bus relaxed; the class schools him on the group lists.
+[scene] (p.47–48) Before boarding he pleads Ayanokōji for the seat next to him only until the airport — a bid to dodge the seating firestorm from girls who want him; he relocates himself to the aisle; the four seats settle as Ayanokōji/Yōsuke window, Kei/Satō aisle.
+[says] (p.47) “Kiyotaka-kun, may I have a word with you?”
+[says] (p.48) “I don't mean to be popular.”
+[says:karuizawa-kei] (p.48) “It would've been great if Kiyotaka had also been in my group.”
+[trait] (p.47–48) The class notices: girls stare at him; he handles the crowd without gloating (Yōsuke was looking them in the eye and appealing to them); the ability to perceive the unwritten rules of the class is outstanding (narrator); he shields Kei from a competition he can't win.
+[rel:karuizawa-kei] (p.47–48) She owes him a debt of gratitude for clearing the way for their seating; he moves her situation without claiming credit.
+[rel:ayanokouji-kiyotaka] (p.47–48) He asks to sit until the airport; he clears Kei's path.
+[rel:satou-maya] (p.48) Aisle-mate to Kei, across from him.
 
-
+<!-- walk: y2v8 Ch.2 → p.89 -->
 
 ## y2v9
 

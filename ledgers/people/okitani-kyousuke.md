@@ -43,6 +43,11 @@ char_id: okitani-kyousuke · class: unknown · status: unknown
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.46–53 — Satō's groupmate
+[mentioned] (p.48) "Satō was in the same group as Okitani."
+
+<!-- walk: y2v8 Ch.2 → p.89 -->
+
 ### y2v8 p.11-208 — okitani-kyousuke mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.48.

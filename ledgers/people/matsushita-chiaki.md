@@ -263,6 +263,11 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 [note] (p.11) Passing mentions on pages: p.48.
 [mentioned] (p.11) Passing mention only.
 
+### y2v8 p.46–53 — Hirata's groupmate
+[mentioned] (p.48) "Yōsuke was in the same group as Matsushita."
+
+<!-- walk: y2v8 Ch.2 → p.89 -->
+
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->

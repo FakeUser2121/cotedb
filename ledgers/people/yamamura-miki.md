@@ -191,6 +191,31 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.46–64 — Group 6: the girl no one notices
+[scene] (p.46) Boards with Class A; on the master group list she shares Group 6 with Kitō and the others.
+[trivia] (p.47) Ayanokōji's private numbering: 14 (above Nishino at 18, below Kushida/Ryūen at 6).
+[scene] (p.49–50) She approaches downcast, ignores Kushida's greeting with a short nod; she doesn't warm to Watanabe's chattiness either.
+[scene] (p.55–57) Watching Ayanokōji fall on the beginner slope ("Are you okay?"); she slips onto the wrong (advanced) lift, following Kitō's back by accident or on sight.
+[says] (p.55) “Are you okay?”
+[scene] (p.62–64) She hovers above the Ryūen group (Kaneda, Ishizaki, Todo gathered below); she steps onto the steep slope alone and disappears down it; she lets no one see her struggle.
+[rel:kitou-hayato] (p.46, 56) Her Class A groupmate; she rides the lift after him (either by sighting or by mistake — pages keep it open).
+[rel:ryuuen-kakeru] (p.55–64) She doesn't understand why everyone treats this trip as tense; he notices her staring.
+[rel:nishino-takeko] (p.63) She doesn't flinch when Nishino engages, just keeps quiet.
+[note] (p.64) The "Yamamura is on the move" line is untagged in the translation (Kushida or Ayanokōji); not assigned.
+
+### y2v8 p.78–89 — Girls' night visit: the silent attendee
+[scene] (p.78–79) She accepts the girls' visit but doesn't lean in like Amikura; she sits behind Watanabe.
+[scene] (p.81) She half-steps back when Watanabe slides next to her — the only one bothered by proximity.
+[says] (p.81) “No, don't worry about it.”
+[scene] (p.85) During "Here we are~", "Darkness ball!" and the pillow fight she remains an observer; she passes on speaking.
+[scene] (p.88–89) Asked to pick ski plans: "I'm okay with anything." — her non-preference is taken as fitting in.
+[says] (p.88) “I'm okay with anything.”
+[trait] (p.78–89) She defaults to invisibility: minimal talk, maximum absorption of others' energy; she feels out of place even in the one room that's "hers" this week.
+[rel:watanabe-norihito] (p.81) He startles her with his sudden closeness.
+[rel:amikura-mako] (p.78–79) Both keep quiet, but Amikura has the social nerve to whisper; Yamamura hasn't figured out what to wear to be noticed (yet).
+
+<!-- walk: y2v8 Ch.2 → p.89 -->
+
 ### y2v8 p.11-208 — yamamura-miki mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.46-47, p.50, p.55-57, p.63-64, p.79.

@@ -1838,6 +1838,19 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v8 Ch.1 → p.45 -->
 
+### y2v8 p.46–53 — Haneda on four buses; seating politics
+[scene] (p.46) The trip begins: below-five-degree cold, gloves/coats checked, four buses by class; the group-six list shows her paired with Akito (her group, no contact) — she usually sits with him when forced but not willingly.
+[scene] (p.47–48) At the bus: she navigates the seating crunch — Ayanokōji courts Yōsuke's cooperation; Yōsuke requests the seat next to Ayanokōji only until the airport (to free the aisle, pre-empting a firestorm of seat competition); Kei is compelled to agree.
+[says] (p.48) “It would've been great if Kiyotaka had also been in my group.”
+[says] (p.48) “I guess so….”
+[says] (p.48) “We're super in love. Right?”
+[rel:ayanokouji-kiyotaka] (p.47–48) Their seating arrangement is arranged through Yōsuke's diplomacy; she envies his free pairing.
+[rel:hirata-yousuke] (p.47–48) He resolves the seat tension to protect her; she owes him a debt of gratitude ("very open to Yōsuke, to whom she owed a debt of gratitude").
+[rel:miyake-akito] (p.48) Her group-partner on the trip — "with whom she usually had no contact at all."
+[rel:satou-maya] (p.48) Aisle-mate; feels for Ayanokōji's taste in girls.
+
+<!-- walk: y2v8 Ch.2 → p.89 -->
+
 ## y2v9
 
 <!-- walk: y2v9 → start -->
