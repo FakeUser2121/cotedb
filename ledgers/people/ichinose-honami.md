@@ -1822,6 +1822,19 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v9 Ch.4 → p.140 -->
 
+### y2v9.5 p.59–65 — Ichinose: the 46-photo memory day at Keyaki Mall
+[scene] (p.59–63) On Christmas she takes photos with everyone at Keyaki Mall — 43 people by one count, eventually 46 — and shyly asks Ayanokōji for a photo together "to make memories," careful that many photos (not just one with a boy) avoid a rift with Kei.
+[says] (p.61) "Hey, Ayanokōji-kun, could you take a picture with me?"
+[says] (p.61) "To make some memories, I took pictures with various people here today."
+[scene] (p.63–65) She asks after Ayanokōji's meeting with Chihiro the day before, and is joined by Nanase and Hōsen; she waves him off as she smoothly turns to the next photo request.
+[says] (p.63) "By the way, Ayanokōji-kun, you met with Chihiro-chan yesterday, right?"
+[trait] (p.59–65) Cheerful, sociable and principled — she turns the holiday into a memory-making marathon and cleverly protects both herself and Ayanokōji from rumors by keeping the photos public.
+[rel:ayanokouji-kiyotaka] (p.61–63) Takes a commemorative photo with him; asks about his talk with Shiranami.
+[rel:shiranami-chihiro] (p.63) Refers to her as "Chihiro-chan," showing closeness.
+[rel:nanase-tsubasa] (p.63–65) Joins for a photo; Nanase also brings Hōsen.
+
+<!-- walk: y2v9.5 Ch.3 → p.65 -->
+
 ### y2v9 p.33–35 — Ichinose withdraws; resigns from the student council
 [says] (p.33) "I'm—not going to run for the student council this time."
 [says] (p.33) "I believe it's a problem that goes beyond that. I have always believed that belonging to the student council and becoming the student council president was for my own good and for the good of those around me. But now I realize that it was just my own conceitedness."
@@ -1856,12 +1869,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v9.5 → start -->
 
-### y2v9.5 pp.10-219 — Full volume
 
-[scene] (p.10) Appears in this volume.
-
-
-<!-- walk: y2v9.5 Epilogue → p.219 -->
 
 ## y2v10
 

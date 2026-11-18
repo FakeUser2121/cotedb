@@ -900,12 +900,20 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v9.5 → start -->
 
-### y2v9.5 pp.10-219 — Full volume
+### y2v9.5 p.113–128 — Katsuragi: the leaked warning of a dangerous third-term exam
+[scene] (p.113–116) Ryūen summons him and Ayanokōji; as they walk to the meeting he shares that Ryūen calls them out unilaterally, then confides his read of the class — Ryūen's strength and the "strange" students he deliberately doesn't use — trusting Ayanokōji with the secret.
+[says] (p.114) "It's a bad habit of Ryūen to unilaterally call us out whenever something..."
+[says] (p.114) "You've become quite the strategist. It seems that even Ryūen trusts your..."
+[scene] (p.117–128) They compare sources — Kiryūin of Class 3-B and Ibeyama of Class 3-D both leaked, three days earlier, that a risky special exam may come at the start of the third term; they discuss class voting, multiple expulsions, and whom to target, then part with Katsuragi offering to help if Ayanokōji has problems.
+[says] (p.120) "There will be several special exams in the third term—one in early January..."
+[says] (p.127) "I owe you a lot, Ayanokōji. If you have any problems, feel free to consult..."
+[trait] (p.113–128) Serious and strategic — he shares intelligence candidly, weighing who benefits from the leak and how to protect the class, and openly values Ayanokōji.
+[rel:ayanokouji-kiyotaka] (p.113–128) Trusts him with class secrets and thanks him.
+[rel:ryuuen-kakeru] (p.113–122) His class leader; summoned by him, he analyses his intentions.
 
-[scene] (p.10) Appears in this volume.
+<!-- walk: y2v9.5 Ch.5 → p.128 -->
 
 
-<!-- walk: y2v9.5 Epilogue → p.219 -->
 
 ## y2v10
 

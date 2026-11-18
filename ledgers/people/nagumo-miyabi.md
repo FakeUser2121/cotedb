@@ -692,12 +692,7 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y2v9.5 → start -->
 
-### y2v9.5 pp.10-219 — Full volume
 
-[scene] (p.10) Appears in this volume.
-
-
-<!-- walk: y2v9.5 Epilogue → p.219 -->
 
 ## y2v10
 

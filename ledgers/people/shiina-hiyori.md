@@ -593,12 +593,29 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 
 <!-- walk: y2v9.5 → start -->
 
-### y2v9.5 pp.10-219 — Full volume
+### y2v9.5 p.161–163 — Hiyori: guiding Ayanokōji's reading in the library
+[scene] (p.161–163) At the library over the New Year she greets Ayanokōji and offers to guide his book choice; she starts with famous mysteries (asking if he has read The Glass Key) and recommends a little-known author.
+[says] (p.161) "Happy New Year, Ayanokōji-kun."
+[says] (p.162) "Then please allow me to guide your choice."
+[trait] (p.161–163) Helpful and quietly proud of her literary knowledge — a "bookworm girl" who takes seriously the task of picking his next read.
+[rel:ayanokouji-kiyotaka] (p.161–163) Helps him choose books; glad he will visit again.
 
-[scene] (p.10) Appears in this volume.
+<!-- walk: y2v9.5 Ch.6 → p.163 -->
+
+### y2v9.5 p.186–207 — Hiyori: the library outing and her father's book
+[scene] (p.186–188) Ayanokōji escorts her from the library; she asks whether Kei approved of them being together, and learns he told Kei to read a book so they would have a common topic.
+[says] (p.187) "Um, was Karuizawa-san okay with this? I mean, is she okay with you going..."
+[scene] (p.193–207) At the group outing with Hashimoto, Kamuro and Kitō she calls Kōenji-like Kitō a "good guy," listens to the Class A students probe Ayanokōji, then reveals the book she gave him was written by her father, Shiina Katsumi.
+[says] (p.205) "Shiina Katsumi. My father's name."
+[scene] (p.209–210) She gives Ayanokōji another of her father's books as a gift — one she had carried around daily and that is not in the library — and is anxious he will accept it.
+[trait] (p.186–210) Gentle, considerate and a little shy — checks Kei's permission, sees good in others, and is quietly proud of her writer father while nervous about giving his book.
+[rel:ayanokouji-kiyotaka] (p.161–210) He escorts her and recommends books; she gifts him her father's book.
+[rel:karuizawa-kei] (p.187) She is careful to check Kei approved the outing.
+[rel:hashimoto-masayoshi] (p.197–203) Teases her and joins the group; she calls him and Kitō "rare specimens."
+
+<!-- walk: y2v9.5 Postscript → p.210 -->
 
 
-<!-- walk: y2v9.5 Epilogue → p.219 -->
 
 ## y2v10
 

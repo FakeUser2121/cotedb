@@ -377,18 +377,27 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 
 <!-- walk: y2v9 Ch.5 → p.149 -->
 
+### y2v9.5 p.80–81, 189–203 — Kamuro: intel, warnings and probing Ayanokōji
+[scene] (p.80–81) She listens to Hashimoto's eavesdropping report but says she already knew much of it; she is dismissive of his casual charm.
+[says] (p.80) "I knew some of it to some extent."
+[scene] (p.189–193) On the library outing she warns Hiyori that being seen with Ayanokōji looks abnormal, then interrogates him about snooping around Class A (Morishita) and says he is the only one who can influence Sakayanagi.
+[says] (p.189) "It seems like you're being quite ostentatious early in the new year."
+[says] (p.193) "You're the only one who can influence Sakayanagi."
+[scene] (p.199–203) At the group outing she is impatient with Hashimoto's hectoring, calls Kitō a "rare specimen," and leaves rather than join his "rampage," admitting she still dislikes Sakayanagi but must think of the class.
+[trait] (p.80–203) Sharp, blunt and pragmatic — she collects and weighs information, watches appearances, and acts in Class A's interest despite personal dislike of its leader.
+[rel:hashimoto-masayoshi] (p.80–203) Her classmate; rebukes his antics repeatedly.
+[rel:shiina-hiyori] (p.189–190) Warns her about being seen with Ayanokōji.
+[rel:sakayanagi-arisu] (p.193, 203) Dislikes her personally but now thinks in the class's interest.
+
+<!-- walk: y2v9.5 Epilogue → p.203 -->
+
 
 
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
 
-### y2v9.5 pp.10-219 — Full volume
 
-[scene] (p.10) Appears in this volume.
-
-
-<!-- walk: y2v9.5 Epilogue → p.219 -->
 
 ## y2v10
 

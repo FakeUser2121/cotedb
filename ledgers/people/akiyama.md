@@ -10,12 +10,15 @@ char_id: akiyama · class: unknown · status: unknown
 
 <!-- walk: y2v9.5 → start -->
 
-### y2v9.5 pp.10-219 — Full volume
+### y2v9.5 p.20–23 — Akiyama: the gym employee Mashima is smitten with
+[scene] (p.20–21) Named and briefly on-site — a gym employee who checks that Mashima has not overworked himself, notices Ayanokōji with him, and says they have met at the reception before; Mashima later asks Ayanokōji to investigate her.
+[says] (p.20) "Mashima-san, you overworked yourself again today, didn't you?"
+[trait] (p.20–23) Attentive to Mashima's training; the object of his unspoken interest.
+[rel:mashima-tomonari] (p.20–23) He asks Ayanokōji to investigate whether she has a boyfriend and her tastes.
 
-[scene] (p.10) Appears in this volume.
+<!-- walk: y2v9.5 Ch.2 → p.23 -->
 
 
-<!-- walk: y2v9.5 Epilogue → p.219 -->
 
 
 <!-- walk: y2v9.75 Epilogue → p.17 -->

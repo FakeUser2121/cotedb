@@ -81,12 +81,34 @@ char_id: shiranami-chihiro · class: Class 1-B · status: minor (allies)
 
 <!-- walk: y2v9.5 → start -->
 
-### y2v9.5 pp.10-219 — Full volume
+### y2v9.5 p.26–35 — Shiranami: a heartbreak song and questions about Ichinose
+[scene] (p.26–27) Ayanokōji finds her in a rental shop wearing headphones, listening to a melancholic heartbreak song; startled, she takes them off and asks what he wants.
+[says] (p.27) "W-w-what do you want?!"
+[scene] (p.29–30) She asks to talk somewhere that won't stand out, then leads him to a vending-machine rest area where she keeps a deliberate distance and refuses a drink or a seat.
+[says] (p.29) "Um... do you have a little time... right now...?"
+[scene] (p.30–35) She presses him on his relationship with Ichinose — are they just friends, is there romance — and voices the rumors about the gym and his room; she reveals she feels she has been "an unpleasant girl" for venting.
+[says] (p.30) "What is your relationship with Honami-chan, Ayanokōji-kun?"
+[says] (p.34) "I'm kind of an unpleasant girl, huh?"
+[scene] (p.35) She thanks him for helping her during the uninhabited island exam and stammers that it isn't that she dislikes him.
+[trait] (p.26–35) Jealous and lovesick over Ichinose, but self-aware and apologetic — she is careful not to be seen with a boy, yet desperate to confirm Ayanokōji's feelings.
+[rel:ayanokouji-kiyotaka] (p.30–35) Questions him closely about Ichinose; trusts him enough to ask.
+[rel:ichinose-honami] (p.30–35) Worried that Ichinose is falling for Ayanokōji; brings up the gym/room rumors.
 
-[scene] (p.10) Appears in this volume.
+<!-- walk: y2v9.5 Ch.2 → p.35 -->
+
+### y2v9.5 p.156–157, 187–193 — Shiranami: the library outing and Kamuro's warning
+[scene] (p.156–157) At the vending machines she admits she was eavesdropping (she is "good at catching such things") and noticed he made up with Kei; she stays vague about Sakayanagi's reaction.
+[says] (p.157) "Please don't worry about it. You seem to have made up with Karuizawa-san."
+[scene] (p.187–193) On the library outing she asks whether Kei approved, and learns Ayanokōji told her to read a book to have a common topic; Kamuro warns her that being seen with him looks abnormal, and she agrees to be careful.
+[says] (p.187) "Um, was Karuizawa-san okay with this? I mean, is she okay with you going..."
+[says] (p.189) "Today, he invited me to hang out as a friend."
+[trait] (p.156–193) Careful about appearances and others' opinions — she checks Kei's permission and takes Kamuro's warning seriously.
+[rel:kamuro-masumi] (p.189–190) Warns her that being seen with Ayanokōji looks suspicious.
+[rel:shiina-hiyori] (p.189, 193) Ayanokōji's library companion; she notes they are close.
+
+<!-- walk: y2v9.5 Epilogue → p.193 -->
 
 
-<!-- walk: y2v9.5 Epilogue → p.219 -->
 
 ## y2v10
 

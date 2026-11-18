@@ -92,12 +92,21 @@ char_id: maezono · class: Class 1-D · status: minor
 
 <!-- walk: y2v9.5 → start -->
 
-### y2v9.5 pp.10-219 — Full volume
+### y2v9.5 p.66–80 — Maezono: the secret meeting to size up Ayanokōji
+[scene] (p.66–68) She gathers a small group (Ike, Sudō, Shinohara, Matsushita, Mori, Wang, Maezono, Onodera) at Keyaki Mall, deliberately excluding Karuizawa and her close friends, and opens the discussion of Ayanokōji — whom she says she dislikes as "dark and hard-to-get-along-with."
+[says] (p.68) "To be honest, perhaps it's problematic for me to say this, but I don't like..."
+[says] (p.68) "That's true, but I don't like dark and hard-to-get-along-with people... I feel"
+[scene] (p.69–80) She argues his OAA understates his real ability (he solved hard questions in the special exam, was fast in the relay, is a strategic threat), warns that he named Sakura for expulsion, and opposes making him the class's leader — though she cannot name an alternative.
+[says] (p.73) "I heard this from someone else, but... during the uninhabited island exam"
+[says] (p.79) "I strongly oppose Ayanokōji-kun being the leader."
+[trait] (p.66–80) Perceptive and outspoken — she sees through Ayanokōji's facade and organizes the meeting to decide how the class should treat him, but remains evasive when asked for her own preferred leader.
+[rel:ayanokouji-kiyotaka] (p.68–79) The subject of the meeting; she senses he is "hiding" something.
+[rel:matsushita-chiaki] (p.66) Co-organizer who agrees with her.
+[rel:ike-kanji] (p.69–72) Defends Ayanokōji; she challenges him sharply.
 
-[scene] (p.10) Appears in this volume.
+<!-- walk: y2v9.5 Ch.4 → p.80 -->
 
 
-<!-- walk: y2v9.5 Epilogue → p.219 -->
 
 ## y2v10
 

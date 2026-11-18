@@ -418,18 +418,21 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y2v9 Ch.5 → p.142 -->
 
+### y2v9.5 p.66–77 — Shinohara: in on the Ayanokōji discussion
+[scene] (p.66–77) She attends Maezono's gathering, is teased about the public "lovey-dovey" display with Ike, and bluntly tells him off when he postures about fighting Ayanokōji.
+[says] (p.76) "You've never been in a proper fight, have you?"
+[trait] (p.66–77) Pragmatic and unimpressed by Ike's bravado.
+[rel:ike-kanji] (p.76) Shuts down his fighting boast.
+
+<!-- walk: y2v9.5 Ch.4 → p.77 -->
+
 
 
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
 
-### y2v9.5 pp.10-219 — Full volume
 
-[scene] (p.10) Appears in this volume.
-
-
-<!-- walk: y2v9.5 Epilogue → p.219 -->
 
 ## y2v10
 
