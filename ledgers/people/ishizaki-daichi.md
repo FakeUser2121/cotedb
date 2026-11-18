@@ -777,14 +777,15 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [rel:hashimoto-masayoshi] (p.262–265) Hashimoto tries to reason with him; he holds out until the "apology."
 ## y2v7
 
+
+### y2v7 p.7-207 — ishizaki-daichi mentioned in passing
+[scene] (p.7) Named in this volume.
+[note] (p.7) Passing mentions on pages: p.27-28, p.91, p.96-98, p.189.
+[mentioned] (p.7) Passing mention only.
+
 <!-- walk: y2v7 → start -->
 
-### y2v7 pp.7-207 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v7 Epilogue → p.207 -->
 
 ## y2v8
 

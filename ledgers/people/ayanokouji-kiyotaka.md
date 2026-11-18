@@ -8874,12 +8874,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 pp.7-207 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v7 Epilogue → p.207 -->
 
 ### y2v7 p.7–16 — Cultural festival rules; OAA results; maid café prep
 [scene] (p.7) Chabashira reviews the cultural festival rules and additional funds — Horikita's class has the most (39,400 pts: 10,000 each for Horikita/Sudō/Onodera), ahead of Ichinose (26,600) and Sakayanagi/Ryūen.

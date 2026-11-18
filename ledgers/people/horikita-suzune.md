@@ -4466,12 +4466,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 pp.7-207 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v7 Epilogue → p.207 -->
 
 ### y2v7 p.8–29 — Horikita: festival prep; the Ryūen alliance leak
 [says] (p.10) "very extreme, but what happens if all classes receive the same amount of 320,000 points and are side by side?"

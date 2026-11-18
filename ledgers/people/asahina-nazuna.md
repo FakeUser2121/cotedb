@@ -128,12 +128,7 @@ char_id: asahina-nazuna · class: Class 2-A · status: supporting
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 pp.7-207 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v7 Epilogue → p.207 -->
 
 ### y2v7 p.36–41 — Mii-chan warns Ayanokōji about Nagumo
 [says] (p.38) "Nagumo is saying that he's going to let the non-A's compete and pick one student from the class that takes first place."

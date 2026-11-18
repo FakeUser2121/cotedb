@@ -2197,12 +2197,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 pp.7-207 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v7 Epilogue → p.207 -->
 
 ### y2v7 p.28–31 — Ryūen: the "declaration of war"
 [says] (p.29) "I helped you in the sports festival to destroy Class A."

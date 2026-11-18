@@ -928,14 +928,15 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 
 ## y2v7
 
+
+### y2v7 p.7-207 — horikita-manabu mentioned in passing
+[scene] (p.7) Named in this volume.
+[note] (p.7) Passing mentions on pages: p.6, p.8-11, p.13-15, p.17-22, p.27-32.
+[mentioned] (p.7) Passing mention only.
+
 <!-- walk: y2v7 → start -->
 
-### y2v7 pp.7-207 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v7 Epilogue → p.207 -->
 
 ## y2v8
 

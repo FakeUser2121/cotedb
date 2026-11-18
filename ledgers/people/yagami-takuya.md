@@ -183,12 +183,7 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 pp.7-207 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v7 Epilogue → p.207 -->
 
 ### y2v7 p.75–83 — Yagami: the letter's intended reader
 [note] (p.75–83) At the student council meeting, Yagami is present and reacts to Nagumo's odd behavior (late arrival, mentions of "secret notes," offering to show meeting records); he also called/approached Kushida around this time (see Ch.4). The "love letter" Horikita delivered is an anagram Yagami is expected to decode — a trap set in motion; his reactions are watched by Ayanokōji and Nagumo.

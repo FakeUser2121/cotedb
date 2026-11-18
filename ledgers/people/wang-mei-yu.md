@@ -231,14 +231,15 @@ char_id: wang-mei-yu · status: minor
 
 ## y2v7
 
+
+### y2v7 p.7-207 — wang-mei-yu mentioned in passing
+[scene] (p.7) Named in this volume.
+[note] (p.7) Passing mentions on pages: p.12-13, p.15-16, p.18, p.20, p.26-27.
+[mentioned] (p.7) Passing mention only.
+
 <!-- walk: y2v7 → start -->
 
-### y2v7 pp.7-207 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v7 Epilogue → p.207 -->
 
 ## y2v8
 

@@ -118,14 +118,15 @@ char_id: yoshida-kenta · class: unknown · status: unknown
 [trait] (p.72–73) Angry and frustrated at being ambushed so early; vents at the scale of the casualties.
 ## y2v7
 
+
+### y2v7 p.7-207 — yoshida-kenta mentioned in passing
+[scene] (p.7) Named in this volume.
+[note] (p.7) Passing mentions on pages: p.112.
+[mentioned] (p.7) Passing mention only.
+
 <!-- walk: y2v7 → start -->
 
-### y2v7 pp.7-207 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v7 Epilogue → p.207 -->
 
 ## y2v10
 

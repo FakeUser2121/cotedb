@@ -341,14 +341,15 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 [rel:hoshinomiya-chie] (p.232–236) Drinks with her and ultimately escorts her home.
 ## y2v7
 
+
+### y2v7 p.7-207 — mashima-tomonari mentioned in passing
+[scene] (p.7) Named in this volume.
+[note] (p.7) Passing mentions on pages: p.54-57, p.175-176, p.181-182.
+[mentioned] (p.7) Passing mention only.
+
 <!-- walk: y2v7 → start -->
 
-### y2v7 pp.7-207 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v7 Epilogue → p.207 -->
 
 ## y2v8
 

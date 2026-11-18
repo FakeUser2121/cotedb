@@ -667,12 +667,7 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 pp.7-207 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v7 Epilogue → p.207 -->
 
 ### y2v7 p.44–53 — Nagumo: loses his "game" to Ayanokōji's sincerity
 [says] (p.46) "the game with you is over and so is my school life. As a result, I don't give a shit about the cultural festival."

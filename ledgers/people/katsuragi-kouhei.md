@@ -892,14 +892,15 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [rel:horikita-suzune] (p.201–212) He senses her growth and agrees to collaborate on the paperwork.
 ## y2v7
 
+
+### y2v7 p.7-207 — katsuragi-kouhei mentioned in passing
+[scene] (p.7) Named in this volume.
+[note] (p.7) Passing mentions on pages: p.19, p.30, p.188-190.
+[mentioned] (p.7) Passing mention only.
+
 <!-- walk: y2v7 → start -->
 
-### y2v7 pp.7-207 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v7 Epilogue → p.207 -->
 
 ## y2v8
 

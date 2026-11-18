@@ -1852,14 +1852,15 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:asahina-nazuna] (p.173–174) She tells Mii-chan she doesn't intend to get along with her — though she apologizes for exposing her secret.
 ## y2v7
 
+
+### y2v7 p.7-207 — kushida-kikyou mentioned in passing
+[scene] (p.7) Named in this volume.
+[note] (p.7) Passing mentions on pages: p.12, p.75, p.84-86, p.101-105, p.121-122.
+[mentioned] (p.7) Passing mention only.
+
 <!-- walk: y2v7 → start -->
 
-### y2v7 pp.7-207 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v7 Epilogue → p.207 -->
 
 ## y2v8
 
