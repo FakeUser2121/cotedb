@@ -4106,6 +4106,14 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v2 Epilogue → p.335 -->
 
+### y2v3 p.43–46 — Horikita at the start of the island exam
+[scene] (p.43–46) She walks with Ayanokōji at the start; they discuss their Tables, Kōenji's reliability, and point averaging.
+[says] (p.46) "I lent you some points just the other day. I'd be mad if I didn't get any"
+[trait] (p.43–46) Cautious but prepared — she has a contract with Kushida for points.
+[rel:ayanokouji-kiyotaka] (p.43–46) They walk together.
+
+<!-- walk: y2v3 Ch.2 → p.46 -->
+
 <!-- walk: y2v2 Ch.1 → p.38 -->
 
 
@@ -4171,12 +4179,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 pp.7-368 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v3 Epilogue → p.368 -->
 
 ### y2v3 p.44–50 — Horikita before and after disembarking
 [says] (p.44) "Good morning. Did you sleep well yesterday?"

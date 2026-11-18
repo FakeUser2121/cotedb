@@ -1148,12 +1148,13 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 pp.7-368 — Full volume
+### y2v3 p.164–186 — Ike searches for Shinohara
+[scene] (p.164–186) He panics when Shinohara is missing; he runs into the forest and finds her; he is relieved.
+[trait] (p.164–186) Emotional and desperate — he is frantic about Shinohara.
 
-[scene] (p.7) Appears in this volume.
+<!-- walk: y2v3 Ch.5 → p.186 -->
 
 
-<!-- walk: y2v3 Epilogue → p.368 -->
 
 ### y2v3 p.169–207 — Ike's ordeal: Shinohara's accident and his confession
 [scene] (p.169) Rushes to Komiya's side; learns Shinohara is missing and calls her name into the forest.

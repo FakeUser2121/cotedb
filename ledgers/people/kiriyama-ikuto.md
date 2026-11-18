@@ -134,18 +134,20 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 
 <!-- walk: y2v2 Ch.4 → p.278 -->
 
+### y2v3 p.127 — Kiriyama warns Ayanokōji
+[scene] (p.127) He approaches Ayanokōji at the Beach Flags Task and warns him not to get in his way.
+[says] (p.127) "I'll say it again just to be sure: Don't get in my way, got it?"
+[trait] (p.127) Hostile and on guard.
+
+<!-- walk: y2v3 Ch.4 → p.127 -->
+
 
 
 ## y2v3
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 pp.7-368 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v3 Epilogue → p.368 -->
 
 ## y2v4
 

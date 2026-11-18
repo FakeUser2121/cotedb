@@ -1718,6 +1718,35 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v2 Ch.3 → p.170 -->
 
+### y2v3 p.48 — Sudō's group situation
+[scene] (p.48) He is mentioned as having a different Table; his group plans are discussed.
+[trait] (p.48) Part of the class's group dynamics.
+
+<!-- walk: y2v3 Ch.2 → p.48 -->
+
+### y2v3 p.84–88 — Sudō warns Ayanokōji about Nanase
+[scene] (p.84–88) He meets Ayanokōji at Task site C6; they discuss points and water; he warns Ayanokōji that Nanase is an enemy.
+[says] (p.85) "I'm doin' aight' on points. Took third in one of our designated areas"
+[says] (p.87) "…Ey Ayanokōji, c'mere a sec."
+[trait] (p.84–88) Protective and perceptive — he warns Ayanokōji about Nanase.
+[rel:ayanokouji-kiyotaka] (p.84–88) He warns him.
+[rel:nanase-tsubasa] (p.87) He identifies her as an enemy.
+
+<!-- walk: y2v3 Ch.3 → p.88 -->
+
+### y2v3 p.113–114 — Sudō joins Ayanokōji's group
+[scene] (p.113–114) He meets Ayanokōji and Nanase; they discuss designated areas and travel together.
+[trait] (p.113–114) Friendly and casual — he joins their group willingly.
+
+<!-- walk: y2v3 Ch.4 → p.114 -->
+
+### y2v3 p.164–186 — Sudō helps in the emergency
+[scene] (p.164–186) He helps carry Komiya and Kinoshita; he is worried about Shinohara.
+[trait] (p.164–186) Protective and concerned — he helps the injured.
+[rel:komiya-kyogo] (p.169–176) He helps carry Komiya.
+
+<!-- walk: y2v3 Ch.5 → p.186 -->
+
 
 
 ### y2v2 p.19–22 — Sudō defends Ayanokōji against the cheating talk
@@ -1735,12 +1764,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 pp.7-368 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v3 Epilogue → p.368 -->
 
 ### y2v3 p.84–96 — Sudō's group: quiz win, Ike's funk, and the beach meetup
 [scene] (p.84) At the quiz Task registration, spots Ayanokōji and warns him only three spots remain.

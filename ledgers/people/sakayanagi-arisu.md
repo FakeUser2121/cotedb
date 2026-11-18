@@ -936,12 +936,7 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 pp.7-368 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v3 Epilogue → p.368 -->
 
 ### y2v3 p.357–359 — Short story: "An Enjoyable Moment" — with Ayanokōji at the harbor
 [scene] (p.357) From the beach where she remains "half-retired" (unable to walk freely), observes students and is approached by Ayanokōji; her cheeks soften.

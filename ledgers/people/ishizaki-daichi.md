@@ -678,12 +678,14 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 pp.7-368 — Full volume
+### y2v3 p.48–49 — Ishizaki motivates his group
+[scene] (p.48–49) He tries to motivate Nishino and Tsube at the start of the exam.
+[says] (p.49) "Let's friggin' goooo! I've got my sights set on numbah one, baby!"
+[trait] (p.48–49) Energetic and motivated.
 
-[scene] (p.7) Appears in this volume.
+<!-- walk: y2v3 Ch.2 → p.49 -->
 
 
-<!-- walk: y2v3 Epilogue → p.368 -->
 
 ## y2v4
 

@@ -19,12 +19,7 @@ char_id: shiba-katsunori · class: Class 1-D · status: unknown
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 pp.7-368 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v3 Epilogue → p.368 -->
 
 ### y2v3 p.342–345 — Shiba moves to silence Ichinose
 [scene] (p.342) Clamps a hand on Ichinose's shoulder from behind as she tries to get her broken watch fixed, towering over her.

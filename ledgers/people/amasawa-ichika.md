@@ -197,12 +197,7 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 pp.7-368 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v3 Epilogue → p.368 -->
 
 ### y2v3 p.309–319 — Amasawa exposes Kushida; declares Ayanokōji "special"
 [scene] (p.309) Revealed as Kushida's walkie-talkie accomplice; records the fight on her tablet, then drags Kushida away and confronts her.

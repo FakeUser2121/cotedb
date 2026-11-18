@@ -115,12 +115,14 @@ char_id: asahina-nazuna · class: Class 2-A · status: supporting
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 pp.7-368 — Full volume
+### y2v3 p.130–132 — Asahina with Nagumo
+[scene] (p.130–132) She is with Nagumo at the Beach Flags Task; she says goodbye to Ayanokōji.
+[says] (p.132) "W-well, good luck."
+[trait] (p.130–132) Present with Nagumo.
 
-[scene] (p.7) Appears in this volume.
+<!-- walk: y2v3 Ch.4 → p.132 -->
 
 
-<!-- walk: y2v3 Epilogue → p.368 -->
 
 ## y2v7
 

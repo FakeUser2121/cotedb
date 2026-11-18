@@ -243,12 +243,7 @@ aliases used for anchors: kaneda, kaneda satoru, kaneda-kun
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 pp.7-368 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v3 Epilogue → p.368 -->
 
 ## y2v4.5
 

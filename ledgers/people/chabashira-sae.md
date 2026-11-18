@@ -1235,12 +1235,13 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 pp.7-368 — Full volume
+### y2v3 p.16–35 — Chabashira present at the briefing
+[scene] (p.16–35) She is present during Mashima's briefing about the uninhabited island exam rules.
+[trait] (p.16–35) Professional and informative.
 
-[scene] (p.7) Appears in this volume.
+<!-- walk: y2v3 Ch.1 → p.35 -->
 
 
-<!-- walk: y2v3 Epilogue → p.368 -->
 
 ## y2v4
 

@@ -534,6 +534,12 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y2v2 Ch.2 → p.82 -->
 
+### y2v3 p.130–132 — Nagumo appears at the Beach Flags Task
+[scene] (p.130–132) He appears at the Beach Flags Task and talks with Ayanokōji; he suggests Ayanokōji should group up with someone.
+[trait] (p.130–132) Calculating and observant.
+
+<!-- walk: y2v3 Ch.4 → p.132 -->
+
 
 
 ### y2v2 p.75–81 — Nagumo admits Horikita; challenges Ayanokōji
@@ -557,12 +563,7 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 pp.7-368 — Full volume
 
-[scene] (p.7) Appears in this volume.
-
-
-<!-- walk: y2v3 Epilogue → p.368 -->
 
 ### y2v3 p.130–132 — Nagumo's beach warning and hidden strategy
 [scene] (p.130) In the ocean near the Task site with Asahina and other third-years, having rented swimsuits and a beach ball; beckons Ayanokōji over.

@@ -312,12 +312,48 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 pp.7-368 — Full volume
+### y2v3 p.7–8 — Nanase's prologue monologue
+[scene] (p.7–8) In her own voice she recalls the suicide of someone she admired (Eiichirō) and vows to defeat Ayanokōji Kiyotaka for real, to send him back to the White Room; her "true objective lies far beyond defeating him."
+[note] (p.7–8) This is Nanase's interior monologue (her POV); no spoken line is quoted.
+[trait] (p.7–8) Determined and burdened by guilt — she fights under her own brand of justice.
+[goal] (p.7–8) To defeat Ayanokōji and send him back to the White Room; her true objective lies beyond that.
+[rel:ayanokouji-kiyotaka] (p.7–8) She has resolved to defeat him for real.
 
-[scene] (p.7) Appears in this volume.
+<!-- walk: y2v3 Prologue → p.8 -->
+
+### y2v3 p.58–59 — Nanase meets Ayanokōji again
+[scene] (p.58–59) She meets Ayanokōji at the first designated area; she has earned 3 points and he earned 2; they part ways.
+[says] (p.59) "I think I'm going to leave. It can't hurt to take a look around."
+[trait] (p.58–59) Independent and proactive — she scouts ahead.
+[rel:ayanokouji-kiyotaka] (p.58–59) They compare points.
+
+<!-- walk: y2v3 Ch.2 → p.59 -->
+
+### y2v3 p.75–88 — Nanase accompanies Ayanokōji
+[scene] (p.75–81) She asks to accompany him, explaining her group's issue; he agrees.
+[says] (p.79) "If it's not too much trouble, would you perhaps allow me to accompany you?"
+[trait] (p.75–88) Proactive and strategic — she seeks out Ayanokōji to avoid falling behind.
+[rel:ayanokouji-kiyotaka] (p.75–88) She accompanies him.
+
+<!-- walk: y2v3 Ch.3 → p.88 -->
+
+### y2v3 p.110–151 — Nanase accompanies Ayanokōji on day 3
+[scene] (p.110–114) She wakes Ayanokōji and discusses Ike's situation; they head out with Sudō and Hondō.
+[scene] (p.118–126) She participates in the Beach Flags Task while Ayanokōji watches.
+[scene] (p.134–151) She walks with him and discusses his solo strategy and water plans.
+[says] (p.135) "Ayanokōji-senpai, why did you decide to take part in the exam alone?"
+[trait] (p.110–151) Curious and concerned — she asks about his solo approach.
+[rel:ayanokouji-kiyotaka] (p.110–151) She accompanies him.
+
+<!-- walk: y2v3 Ch.4 → p.151 -->
+
+### y2v3 p.164–186 — Nanase helps in the emergency
+[scene] (p.164–186) She helps wake the group and search for Shinohara; she takes a flashlight and follows Ayanokōji.
+[trait] (p.164–186) Helpful and alert — she assists in the emergency search.
+
+<!-- walk: y2v3 Ch.5 → p.186 -->
 
 
-<!-- walk: y2v3 Epilogue → p.368 -->
 
 ### y2v3 p.7–8 — Nanase's monologue: resolving to defeat Ayanokōji for real
 [scene] (p.7) Reflects on the shock of discovering the cruel reality about Ayanokōji — the evening sun in an old apartment, a long shadow swinging "like the pendulum of a grandfather clock."
