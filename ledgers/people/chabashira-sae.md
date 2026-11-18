@@ -1159,15 +1159,21 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v12.5 → start -->
 
-### y2v12.5 pp.11-23, 58-76, 107-114, 200-202 — Ch.1, Ch.4, Ch.7, Epilogue
+### y2v12.5 p.11–22 — Ch.1: The class debrief after the special exam
+[scene] (p.11) Chabashira tells the representatives what can be shared and leaves them to discuss the exam's details.
+[says] (p.11) “Of course. It’s up to you to decide what should be done. We’re going to depart soon, but you should discuss and resolve any concerns.”
+[says] (p.11) “Yes, that’s the plan. Even the representatives don’t know in detail what kind of battles were fought individually. We believe it’s necessary to share information.”
+[scene] (p.12) Back in the classroom, Chabashira announces the end-of-year special exam was won; Class 2-B gains significant class points, promotion to Class A near-certain — but Maezono was expelled.
+[says] (p.12) “The end-of-year special exam ended in your victory.”
+[says] (p.12) “Half correct, half incorrect. Indeed, Maezono is processing her expulsion in the staff room, but if you can come up with the necessary private points right here, it’s possible to avoid it.”
+[says] (p.12) “No... I wonder. At least not right away. She’s only just been told about her expulsion and she’s severely shaken. Until that settles, it will be difficult.”
+[says] (p.13) “There are many things you might be curious about, but I’m not allowed to speak on the details. If you have questions, it would be good to discuss them later. That’s all from me.”
+[scene] (p.22) Chabashira observes the student-led discussion in silence, then cuts it off once Kōenji has left.
+[says] (p.22) “Kōenji isn’t here, so maybe we should just disband for now.”
+[note] (p.22) The class points printed after the exam: Horikita's class A 1233, Sakayanagi's class B 1093, Ryūen's class C 1040–1090, Ichinose's class D 714 (p.22). With Sakayanagi's expulsion, her class would drop 300 points to 793 (p.23).
+[rel:ayanokouji-kiyotaka] (p.11–22) She observes objectively as he explains the expulsion to the class.
 
-[scene] (p.11-23) Mentioned/appears in Ch.1, Ch.4, Ch.7, Epilogue.
-[rel:ayanokouji-kiyotaka] (pp.11-23, 58-76, 107-114, 200-202) Appears in this volume.
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
+<!-- walk: y2v12.5 Ch.1 → p.22 -->
 ## y3v1
 
 <!-- walk: y3v1 → start -->

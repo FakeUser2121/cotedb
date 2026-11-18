@@ -158,16 +158,13 @@ char_id: wang-mei-yu · status: minor
 
 <!-- walk: y2v12.5 → start -->
 
-### y2v12.5 pp.54-57 — Ch.4
+### y2v12.5 p.11–22 — Ch.1: The class debrief after the special exam
+[scene] (p.12) Mii-chan asks anxiously whether she can see Maezono before her expulsion is processed; later she raises her hand among the three who knew about Maezono and Hashimoto.
+[says] (p.12) “Will I be able to see her if I wait...?”
+[rel:maezono] (p.12) She and Maezono often hung out together despite appearances.
+[rel:kushida-kikyou] (p.18) Kushida and Matsushita raised their hands; Mii-chan followed conservatively, making three.
 
-[scene] (p.54-57) Mentioned/appears in Ch.4.
-[rel:ayanokouji-kiyotaka] (pp.54-57) Appears in this volume.
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
+<!-- walk: y2v12.5 Ch.1 → p.22 -->
 ## y3v2
 
 <!-- walk: y3v2 → start -->

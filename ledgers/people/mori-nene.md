@@ -24,11 +24,13 @@ char_id: mori-nene · class: Class 1-D · status: minor
 
 <!-- walk: y2v12.5 → start -->
 
-### y2v12.5 p.11-216 — mori-nene mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.21, p.43, p.45, p.47, p.50-54, p.84; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
+### y2v12.5 p.11–22 — Ch.1: The class debrief after the special exam
+[scene] (p.21) Mori echoes Azuma's uneasiness about Ayanokōji.
+[says] (p.21) “Well, I might understand what Azuma-san is saying. It does make me a bit uneasy...”
+[rel:azuma-sana] (p.21) She agrees with his doubts.
+[rel:kushida-kikyou] (p.21) Her defense of Ayanokōji helps lower the raised hands in the class.
 
+<!-- walk: y2v12.5 Ch.1 → p.22 -->
 ## y3v3
 
 <!-- walk: y3v3 → start -->

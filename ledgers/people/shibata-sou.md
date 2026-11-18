@@ -221,16 +221,19 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 
 <!-- walk: y2v12.5 → start -->
 
-### y2v12.5 pp.177-191 — Ch.9
+### y2v12.5 p.28–29 — Ch.1: Hoshinomiya snaps at the class
+[scene] (p.28) Shibata stands and shows a triumphant pose to encourage Ichinose, rallying the class to fight on.
+[says] (p.28) “Right now, we might be in a pinch. But hey, there’s still more to come.”
+[says] (p.28) “So what if we lost this time? We still have a whole year ahead. Hey, isn’t that right, everyone?”
+[says] (p.29) “Uh, uh... Yes...”
+[says] (p.29) “Well, yeah. I mean, it’s too early to give up. In soccer terms, we might be behind but if it’s just a two or three-goal difference, if we can just get the ball rolling—”
+[says] (p.29) “No. But Sensei, if we have one more year—”
+[says] (p.29) “There’s definitely a chance to turn things arou—”
+[says] (p.29) “Sensei, have you heard of the term ‘giant-killing’? If it’s us, we could—”
+[rel:ichinose-honami] (p.28–29) He tries to rally her with a triumphant pose.
+[rel:hoshinomiya-chie] (p.28–29) She cuts him down with the soccer analogy; he swallows his words and returns to his seat.
 
-[scene] (p.177-191) Mentioned/appears in Ch.9.
-[rel:ayanokouji-kiyotaka] (pp.177-191) Appears in this volume.
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
+<!-- walk: y2v12.5 Ch.1 → p.29 -->
 ## y3v3
 
 <!-- walk: y3v3 → start -->

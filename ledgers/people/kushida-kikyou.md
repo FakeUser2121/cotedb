@@ -1596,16 +1596,20 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y2v12.5 → start -->
 
-### y2v12.5 pp.11-25 — Ch.1
+### y2v12.5 p.11–25 — Ch.1: The class debrief and the aftermath
+[scene] (p.18) Kushida and Matsushita raise their hands among the three who knew about Maezono and Hashimoto; Mii-chan also raised hers.
+[says] (p.21) “I’m not sure if I have the right to speak, but may I?”
+[says] (p.21) “We shouldn’t look at it in a bad light, but in a good one, right?”
+[says] (p.24) “Hey, Ayanokōji-kun.”
+[says] (p.24) “Just now in front of Azuma, or rather in front of our classmates, I defended you and smoothed things over, but you actually intentionally got Maezono expelled, right? It was a chance to eliminate a traitor.”
+[says] (p.24) “Sure, Ichinose was strong in the recent exam—no doubt about that. But if it’s you, Ayanokōji-kun, you could’ve cornered her mentally by other means, right?”
+[says] (p.25) “Because you’re the person who pushed me to the brink of expulsion, Ayanokōji-kun. It would be strange if you weren’t thinking something like that.”
+[says] (p.25) “Never mind me, I was impressed by how you handled yourself. It was a perfect intervention. Many students, while wary of you, acknowledged the accuracy of your statements.”
+[says] (p.25) “Stop it. Horikita and I are enemies, but we’re just in a truce for the same goal.”
+[rel:ayanokouji-kiyotaka] (p.18–25) She defends him publicly, then corners him privately; she tells him she must secure a safe position in the class.
+[rel:horikita-suzune] (p.25) “Horikita and I are enemies, but we’re just in a truce for the same goal.”
 
-[scene] (p.11-25) Mentioned/appears in Ch.1.
-[rel:ayanokouji-kiyotaka] (pp.11-25) Appears in this volume.
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
+<!-- walk: y2v12.5 Ch.1 → p.25 -->
 ## y3v1
 
 <!-- walk: y3v1 → start -->

@@ -19,13 +19,13 @@ char_id: himeno-yuki · class: Class 2-A · status: unknown
 
 <!-- walk: y2v12.5 → start -->
 
-### y2v12.5 p.11-216 — Himeno mentioned in passing
-[scene] (p.27) Named in this volume.
-[note] (p.27) Passing mention (locator pages: p.27-28, p.177, p.179-180, p.187-188; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.27) Passing mention only.
+### y2v12.5 p.27–28 — Ch.1: Himeno's frustration goes unvoiced
+[scene] (p.27) Himeno watches the class licking its wounds; she knows they cannot keep turning away from the results. She cannot speak and looks to Kanzaki for a prompt.
+[note] (p.27) They had formed a small group aimed at creating a system where opinions could be expressed to Ichinose; she cannot bring herself to be the first voice.
+[rel:kanzaki-ryuuji] (p.27–28) She looks to him for a prompt; he stays motionless with head bowed.
+[rel:hamaguchi-tetsuya] (p.28) She clings her gaze onto him; he notices, looks baffled and gently shakes his head — it isn't the time.
 
-<!-- walk: y2v12.5 Epilogue → p.188 -->
-
+<!-- walk: y2v12.5 Ch.1 → p.28 -->
 ## y3v3
 
 <!-- walk: y3v3 → start -->

@@ -437,15 +437,11 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 
 <!-- walk: y2v12.5 → start -->
 
-### y2v12.5 pp.177-191 — Ch.9
+### y2v12.5 p.27–28 — Ch.1: Kanzaki does not stand up
+[scene] (p.27) Kanzaki, far from showing a willingness to stand up, isn't even looking around; he sits with his head bowed and motionless, waiting for the meeting to end.
+[rel:himeno-yuki] (p.27–28) Himeno looks to him for a prompt to speak; he gives none.
 
-[scene] (p.177-191) Mentioned/appears in Ch.9.
-[rel:ayanokouji-kiyotaka] (pp.177-191) Appears in this volume.
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
+<!-- walk: y2v12.5 Ch.1 → p.28 -->
 ## y3v3
 
 <!-- walk: y3v3 → start -->

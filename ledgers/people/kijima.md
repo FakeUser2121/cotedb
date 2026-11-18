@@ -10,13 +10,18 @@ char_id: kijima · class: Class 2-A · status: unknown
 
 <!-- walk: y2v12.5 → start -->
 
-### y2v12.5 p.11-216 — Kijima mentioned in passing
-[scene] (p.9) Named in this volume.
-[note] (p.9) Passing mention (locator pages: p.9-10, p.128-137; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.9) Passing mention only.
+### y2v12.5 p.9–10 — Prologue: Behind the Scenes
+[scene] (p.9) Prime Minister Kijima has come to observe the end-of-year special exam; he watches the monitor as Ichinose stands unable to support herself and Ayanokōji leaves the room.
+[says] (p.9) “Thank you for your help this time, Chairman Sakayanagi. I appreciate the thorough preparations you’ve made.”
+[says] (p.9) “It’s truly regrettable that there were expulsions, but the notion that each student has the freedom to utilize the exam’s rules should be respected.”
+[says] (p.10) “I understand. But of course, we can ensure that the student who ended up being expelled will receive thorough support, correct?”
+[says] (p.10) “Is that so? Please take care of it well.”
+[says] (p.10) “As planned, we will visit again on April 1st, so please take care of us well.”
+[says] (p.10) “That’s good to hear. Since it’s been three years, I’m looking forward to meeting him as well.”
+[note] (p.9) The school chairman is addressed as "Chairman Sakayanagi"; Minister Ogiso (Minister of Education, Culture, Sports, Science and Technology) is mentioned by the Chairman as requesting operation "without fear of the risk of expulsion".
+[note] (p.10) Kijima will visit again on April 1st; Company President Kōenji also looks forward to meeting him.
 
-<!-- walk: y2v12.5 Ch.7 → p.137 -->
-
+<!-- walk: y2v12.5 Prologue → p.10 -->
 ## y3v1
 
 <!-- walk: y3v1 → start -->

@@ -112,16 +112,12 @@ char_id: hamaguchi-tetsuya · class: Class 1-B · status: minor
 
 <!-- walk: y2v12.5 → start -->
 
-### y2v12.5 pp.177-191 — Ch.9
+### y2v12.5 p.27–28 — Ch.1: Hamaguchi shakes his head
+[scene] (p.28) Himeno directs her gaze at Hamaguchi as if trying to cling onto him; he quickly notices but looks baffled and gently shakes his head from side to side.
+[note] (p.28) His gesture reads as 'It isn’t the time.' — Himeno couldn't get the push she needed.
+[rel:himeno-yuki] (p.28) He cannot (or will not) give her the push she asks for.
 
-[scene] (p.177-191) Mentioned/appears in Ch.9.
-[rel:ayanokouji-kiyotaka] (pp.177-191) Appears in this volume.
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
+<!-- walk: y2v12.5 Ch.1 → p.28 -->
 ## y3v2
 
 <!-- walk: y3v2 → start -->

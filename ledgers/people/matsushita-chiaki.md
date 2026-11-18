@@ -106,15 +106,14 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 
 <!-- walk: y2v12.5 → start -->
 
-### y2v12.5 pp.54-57 — Ch.4
+### y2v12.5 p.11–22 — Ch.1: The class debrief after the special exam
+[scene] (p.18) Matsushita raises her hand among the three who knew about Maezono and Hashimoto, along with Kushida and Mii-chan.
+[says] (p.19) “It’s because I told him. What Ayanokōji-kun’s saying is true. There’s no mistake.”
+[says] (p.21) “What do you mean by that?”
+[rel:ayanokouji-kiyotaka] (p.18–19) She backs his account of the leak before the class.
+[rel:kushida-kikyou] (p.18) Both raise their hands together supporting Ayanokōji.
 
-[scene] (p.54-57) Mentioned/appears in Ch.4.
-[rel:ayanokouji-kiyotaka] (pp.54-57) Appears in this volume.
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
+<!-- walk: y2v12.5 Ch.1 → p.22 -->
 ## y3v1
 
 <!-- walk: y3v1 → start -->

@@ -73,7 +73,10 @@ char_id: ichihashi-ruri · class: Class 1-D · status: minor
 
 <!-- walk: y2v12.5 → start -->
 
-### y2v12.5 p.11-216 — ichihashi-ruri mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.16-17; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
+### y2v12.5 p.11–22 — Ch.1: The class debrief after the special exam
+[scene] (p.16) Ichihashi mutters agreement that Ichinose-san would be disturbed by what she unknowingly helped with.
+[says] (p.16) “Indeed, that’s true. I think Ichinose-san would be disturbed if she knew she helped in Maezono-san’s expulsion, but that doesn’t guarantee a sure win... right?”
+[says] (p.17) “...I’m pretty sure Horikita-san did tell everyone to keep it absolutely secret, right?”
+[rel:ichinose-honami] (p.16) She acknowledges Ichinose's likely distress.
+
+<!-- walk: y2v12.5 Ch.1 → p.22 -->

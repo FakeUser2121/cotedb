@@ -710,15 +710,15 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y2v12.5 → start -->
 
-### y2v12.5 pp.11-23 — Ch.1
+### y2v12.5 p.11–22 — Ch.1: The class debrief after the special exam
+[scene] (p.13) Kōenji stares at himself in a hand mirror during the discussion instead of listening.
+[scene] (p.21) Kōenji pulls out his chair and reaches for the classroom door mid-discussion; Sudō questions him.
+[says] (p.22) “Where? I was thinking of heading home now.”
+[says] (p.22) “I was just killing time until my date. I don’t want to be late for my rendezvous, so I’ll be excusing myself.”
+[says] (p.22) “Important? I can’t see what’s so important about it at all.”
+[rel:sudou-ken] (p.21–22) Sudō challenges him; he brushes him off.
 
-[scene] (p.11-23) Mentioned/appears in Ch.1.
-[rel:ayanokouji-kiyotaka] (pp.11-23) Appears in this volume.
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
-
+<!-- walk: y2v12.5 Ch.1 → p.22 -->
 ## y3v1
 
 <!-- walk: y3v1 → start -->
