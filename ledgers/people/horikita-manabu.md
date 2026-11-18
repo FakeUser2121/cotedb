@@ -356,6 +356,7 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 
 ### y1v7 p.201 — Ch.7: the former president named by role
 [note] (p.201) Passing mention: Ryuuen’s next-day report is timed because the former student council president already knew what happened on the roof — Horikita Manabu by prior context; the page does not print his name.
+[mentioned] (p.201) Passing mention only.
 
 <!-- walk: y1v7 ch7 → p.207 -->
 
@@ -393,9 +394,13 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 ### y1v7.5 p.117, 119–126, 131–132, 140–141, 145, 151–153 — Ch.5: the debt behind the arm-grab
 [scene] (p.117) Named as the relay rival Ayanokōji beat; later as sibling and Nagumo’s rival.
 [note] (p.117) Passing mention: “you were even quicker than the student council president!” — Satou on the relay.
+[mentioned] (p.117) Passing mention only.
 [note] (p.119) Passing mention: “They definitely weren’t as dour as Horikita.” — Suzune, not Manabu.
+[mentioned] (p.119) Passing mention only.
 [note] (p.123–125) Passing mention: Nagumo fixated on Ayanokōji because of “Horikita-senpai.”
+[mentioned] (p.123–125) Passing mention only.
 [note] (p.131) Passing mention: Nagumo removed anyone who stood in his way — Manabu’s earlier brief restated.
+[mentioned] (p.131) Passing mention only.
 [note] (p.145, 151–153) Passing mention / dialogue: sibling of Suzune; debt from the rooftop; mission to remove Nagumo.
 [rel:nagumo-miyabi] (p.125, 151–153) Rival; his talking to Ayanokōji triggers the theater approach.
 [rel:horikita-suzune] (p.152) Sibling link revealed to Karuizawa as why Manabu notices Ayanokōji.
@@ -406,13 +411,16 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 ### y1v7.5 p.155–159 — Ch.6: the senpai the intel is for
 [scene] (p.155) Named as Kiriyama’s admired Class A senpai; intended recipient if Nagumo is removed.
 [note] (p.155) Passing mention: “I joined the student council because I admired Horikita-senpai.”
+[mentioned] (p.155) Passing mention only.
 [note] (p.156–159) Passing mention: intel handoff plan; Kiriyama still holds school rules in high respect because of Horikita’s endorsement.
+[mentioned] (p.156–159) Passing mention only.
 [rel:kiriyama-ikuto] (p.155–159) Former Class A senpai; the reason Kiriyama approaches first years at all.
 [rel:nagumo-miyabi] (p.155–159) The rival whose fall Kiriyama wants Horikita to exploit.
 
 ### y1v7.5 p.124 — Ch.5: named in the relay callback
 [scene] (p.124) Named once when Nagumo identifies Ayanokōji as the student who squared off against Horikita-senpai.
 [note] (p.124) Passing mention: “He was the student who squared off against Horikita-senpai in the relay race.”
+[mentioned] (p.124) Passing mention only.
 
 <!-- walk: y1v7.5 ch6 → p.170 -->
 
@@ -444,7 +452,9 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 ### y1v8 p.98, 102 — Ch.3: named in Nagumo’s card-room frame
 [scene] (p.98) Not on the page; named twice as the student-council tension behind Nagumo’s third-year party.
 [note] (p.98) Passing mention: “They probably knew of the tension between Nagumo and Horikita Manabu and didn’t want to get involved.”
+[mentioned] (p.98) Passing mention only.
 [note] (p.102) Passing mention: Ishikura to Nagumo — “I don’t like you picking fights with Horikita.”
+[mentioned] (p.102) Passing mention only.
 [rel:nagumo-miyabi] (p.98, 102) The open feud with the former president frames why some third-years refuse to engage and why Ishikura calls the card visit a fight.
 [rel:ishikura] (p.102) Ishikura’s rebuke is aimed at Nagumo’s Horikita campaign, not at anything on the page.
 
@@ -453,7 +463,9 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 ### y1v8 p.116, 118–119 — Ch.4: named as the genius in the way
 [scene] (p.116) Named in Kiriyama’s backstory line; p.118–119 named as Nagumo’s blocker for Ishikura.
 [note] (p.116) Passing mention: Kiriyama’s demotion history — “Horikita’s brother had put us both in touch.”
+[mentioned] (p.116) Passing mention only.
 [note] (p.118) Passing mention: Nagumo to Ishikura — “there’s a genius like Horikita Manabu in your way.”
+[mentioned] (p.118) Passing mention only.
 [rel:nagumo-miyabi] (p.118–119) The three-year campaign target; Nagumo claims many ways to crush him whether or not he is representative.
 [rel:ishikura] (p.118) Ishikura accepts the Class B gap without taking Nagumo’s Manabu-removal frame.
 [rel:kiriyama-ikuto] (p.116) The brother-connection that put Kiriyama and Ayanokōji in touch.
@@ -866,6 +878,7 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 ### y2v3 p.6 — Horikita Manabu mentioned in passing
 [scene] (p.6) Named in the front matter.
 [note] (p.6) Passing mention; not a distinct scene presence.
+[mentioned] (p.6) Passing mention only.
 
 <!-- walk: y2v3 Ch.1 → p.6 -->
 

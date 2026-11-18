@@ -86,6 +86,7 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 ### y1v7.5 p.13 — Ch.2: the Class B comparison
 [scene] (p.13) Named once, as a Class B boy more popular than Ayanokōji.
 [note] (p.13) Passing mention: “Class B’s Shibata-kun” is listed with Yousuke-kun and Tsukasaki-kun as more popular than Ayanokōji.
+[mentioned] (p.13) Passing mention only.
 
 <!-- walk: y1v7.5 ch2 → p.34 -->
 
@@ -108,6 +109,7 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 ### y1v8 p.85 — Ch.3: named as the proactive Class B exception
 [scene] (p.85) Not in the room dialogue; named in Ayanokōji’s read of Class B’s unusual quiet in group six.
 [note] (p.85) Passing mention: Class B had been “unusually quiet so far… with the exception of certain individuals like Kanzaki and Shibata.”
+[mentioned] (p.85) Passing mention only.
 [rel:kanzaki-ryuuji] (p.85) Paired with Kanzaki as the two Class B names Ayanokōji still counts as proactive.
 [rel:ayanokouji-kiyotaka] (p.85) Part of his leadership map — Class B not stepping up except these two.
 
@@ -254,6 +256,7 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 [scene] (p.215) Named in the group formation context.
 [scene] (p.299) Named in Ryūen's alliance meeting.
 [note] (p.215, 299) Passing mentions; not a distinct scene presence.
+[mentioned] (p.215, 299) Passing mention only.
 
 <!-- walk: y2v2 Ch.5 → p.299 -->
 
@@ -267,6 +270,7 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 [scene] (p.234) Named in the context of the class meeting.
 [scene] (p.331–334) Named in the Epilogue context.
 [note] (p.234, 331–334) Passing mentions; not a distinct scene presence.
+[mentioned] (p.234, 331–334) Passing mention only.
 
 <!-- walk: y2v3 Epilogue → p.334 -->
 
@@ -346,6 +350,7 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 [scene] (p.90) Named in Watanabe's conversation — "Shibata would cry if he found out."
 [scene] (p.144) Named in the Ryuuen confrontation — Shibata stops Ishizaki and Albert from barging in.
 [note] (p.90, 144) Passing mentions; not a distinct scene presence.
+[mentioned] (p.90, 144) Passing mention only.
 
 <!-- walk: y2v9 Ch.3 → p.144 -->
 

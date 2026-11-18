@@ -843,7 +843,9 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 ### y1v7 p.34, 78 — Ch.3: the Class B name in the hunt
 [note] (p.34) Passing mention: Horikita reads Ryuuen’s move as a plot against Ichinose-san and Class B.
+[mentioned] (p.34) Passing mention only.
 [note] (p.78) Passing mention: Ayanokōji notes Sakayanagi knew his past and Ichinose probably had as well.
+[mentioned] (p.78) Passing mention only.
 
 <!-- walk: y1v7 ch7 → p.207 -->
 
@@ -854,6 +856,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 ### y1v7.5 p.37–42 — Ch.3: the Achilles heel under discussion
 [scene] (p.37) Named as Ayanokōji’s recent walking companion with Sakayanagi; then the target of Sakayanagi’s cold-reading pitch.
 [note] (p.37) Passing mention: “When I saw you a few days ago, I thought it was strange that you and Ichinose were getting along so well.”
+[mentioned] (p.37) Passing mention only.
 [says:ichinose-honami] (p.37) “Heh,” Sakayanagi chuckled. “Please, enough with the jokes. She and I aren’t friends, you know.” — speaker is Sakayanagi; Ichinose does not speak in this chapter.
 [rel:sakayanagi-arisu] (p.37–42) Not friends; Sakayanagi claims a shared secret and plans to crush her.
 [rel:ayanokouji-kiyotaka] (p.37–42) Topic of his exchange with Sakayanagi; he agrees she is genuinely good-natured.
@@ -864,7 +867,9 @@ aliases used for anchors: ichinose, honami, ichinose-san
 ### y1v7.5 p.78, 88 — Ch.4: the idealist in the Nagumo debate
 [scene] (p.78) Named in the Class A–B–C plan; later as the idealist type.
 [note] (p.78) Passing mention: “Ichinose can’t beat Sakayanagi,” said Ryuuen of the non-aggression pair.
+[mentioned] (p.78) Passing mention only.
 [note] (p.88) Passing mention: “If anyone was such an idealist, it’d probably be Ichinose Honami.” — on helping everyone graduate.
+[mentioned] (p.88) Passing mention only.
 [rel:sakayanagi-arisu] (p.78) The pair Ryuuen says Class A will attack and Ichinose cannot beat.
 [rel:horikita-manabu] (p.88) Contrast to Manabu’s ideal of no expulsions.
 
@@ -874,7 +879,9 @@ aliases used for anchors: ichinose, honami, ichinose-san
 ### y1v7.5 p.119, 123 — Ch.5: with Nagumo’s entourage
 [scene] (p.123) The single first-year with the student-council group outside the theater.
 [note] (p.119) Passing mention: “Kushida and Ichinose were spirited, too.” — Ayanokōji’s type musing.
+[mentioned] (p.119) Passing mention only.
 [note] (p.123) Passing mention: “a single first-year student, too: Ichinose Honami, from Class B. When I noticed her, she only gave me a gentle smile.”
+[mentioned] (p.123) Passing mention only.
 [rel:nagumo-miyabi] (p.123) Walks with his circle — unexpected for Class B’s leader.
 [rel:ayanokouji-kiyotaka] (p.119, 123) Example of “spirited”; the gentle smile at the theater.
 
@@ -900,6 +907,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 ### y1v8 p.94–95 — Ch.3: named in Sakayanagi’s treasurer rumor
 [scene] (p.94) Not on the page; named in Sakayanagi’s hallway speech to Ayanokōji.
 [note] (p.94) Passing mention: “Class B is quite unified. Ichinose Honami-san has earned the trust of her comrades by giving it her all.”
+[mentioned] (p.94) Passing mention only.
 [rel:sakayanagi-arisu] (p.94–95) Subject of the rumor — a tremendous private-point balance, possibly Class B treasurer, possibly investigable as fraud.
 [rel:ayanokouji-kiyotaka] (p.95) Ayanokōji’s defence: “I can’t imagine Ichinose using private points for selfish reasons, though.”
 [status] (p.95) “no one doubts her. Yet.” — Sakayanagi’s own qualifier.
@@ -919,6 +927,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [scene] (p.129) Named via Kanzaki as sharing the Class C help offer and Horikita-honesty view; p.143 named as a cooperation leader.
 [note] (p.129) Named in Kanzaki’s offer: “Ichinose feels the same way, of course.”
 [note] (p.143) Passing mention: with Katsuragi, probably focusing on encouraging cross-class cooperation.
+[mentioned] (p.143) Passing mention only.
 [rel:kanzaki-ryuuji] (p.129) Her view of Horikita’s honesty is what Kanzaki relays to Ayanokōji.
 [rel:katsuragi-kouhei] (p.143) Paired as the other-class cooperation-leadership example.
 [rel:horikita-suzune] (p.129) Her high opinion of Horikita is honesty over ability.

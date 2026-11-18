@@ -158,7 +158,9 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 ### y1v7.5 p.94–95 — Ch.4: named as Ike’s dinner date
 [scene] (p.94) Name-hit only in the lobby eavesdrop — Ike admits dinner with her on Christmas Eve.
 [note] (p.94) Passing mention: “I-It really ain’t that big a deal, but…Shinohara.”
+[mentioned] (p.94) Passing mention only.
 [note] (p.95) Passing mention: “I mean, me and Shinohara going out? There’s just no way.”
+[mentioned] (p.95) Passing mention only.
 [rel:ike-kanji] (p.94–95) The boy who rescued her in the bookstore now taking her to dinner; he insists it is only thanks.
 
 <!-- walk: y1v7.5 ch4 → p.106 -->
@@ -170,6 +172,7 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 ### y1v8 p.11–43 — Ch.2: named at Ike’s cafeteria cheer
 [scene] (p.11) Present on the Class C bus when Ike learns boys and girls still share one cafeteria hour a day.
 [note] (p.26) Passing mention: seated nearby; slightly exasperated at Ike’s energy until her face brightens — Ayanokōji reads it as their Christmas dinner having gone well.
+[mentioned] (p.26) Passing mention only.
 [rel:ike-kanji] (p.26) Reaction shot tied to Ike’s rejoicing.
 
 [note] (p.76) Chapter ends at the bus; no further pages this chapter.

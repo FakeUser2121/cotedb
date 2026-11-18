@@ -33,6 +33,7 @@ char_id: sonoda-masashi · class: unknown · status: unknown
 ### y2v9 p.141 — Sonoda mentioned in the study grind
 [scene] (p.141) Named as one of the sleep-deprived students in the lunch study grind; Mii-chan gives him a pep talk.
 [note] (p.141) Passing mention; Sonoda Chiyo (the female Sonoda) has the scene entry.
+[mentioned] (p.141) Passing mention only.
 
 <!-- walk: y2v9 Ch.5 → p.141 -->
 

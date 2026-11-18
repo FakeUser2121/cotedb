@@ -266,6 +266,7 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 ### y1v7.5 p.103 — Ch.4: the Airi cover
 [scene] (p.103) Name-hit in Airi’s late-night report — she spent the afternoon with Haruka.
 [note] (p.103) Passing mention: “I’ve been hanging out with Haruka-chan since two in the afternoon.”
+[mentioned] (p.103) Passing mention only.
 [rel:sakura-airi] (p.103) The cover afternoon so Airi would not see Ayanokōji with Satou; Airi learned of tomorrow’s plans from her.
 [rel:ayanokouji-kiyotaka] (p.103) Executing the plan from the ch3 phone call.
 
@@ -274,6 +275,7 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 ### y1v7.5 p.112 — Ch.5: the cover still on
 [scene] (p.112) Name-hit in Ayanokōji’s four-person naturalness calculation.
 [note] (p.112) Passing mention: Haruka said she would make sure Airi didn’t bump into them by chance.
+[mentioned] (p.112) Passing mention only.
 [rel:sakura-airi] (p.112) Still running the Airi screen.
 [rel:ayanokouji-kiyotaka] (p.112) The plan from the ch3 call.
 
@@ -286,6 +288,7 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 ### y1v8 p.11–43 — Ch.2: named in the Ayanokōji Group chat
 [scene] (p.11) Not on the bus dialogue line; named in the group chat Ayanokōji checks after texting Horikita and Kei.
 [note] (p.30) Passing mention: “Keisei, Akito, and even Airi and Haruka all happily discussed the exam.”
+[mentioned] (p.30) Passing mention only.
 [rel:ayanokouji-kiyotaka] (p.32) Listed among the friends he hopes will not be expelled.
 
 [note] (p.76) Chapter ends with the group-chat mention; no further pages this chapter.

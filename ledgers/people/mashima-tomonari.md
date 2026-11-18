@@ -115,6 +115,7 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 ### y1v8 p.11–43 — Ch.2: named at the group report
 [scene] (p.11) Not on the bus briefing line; named when Yamauchi’s winning draw is reported to him as the Class A entrant is finalised.
 [note] (p.42) Passing mention: “They reported to Mashima-sensei” after the first large group forms.
+[mentioned] (p.42) Passing mention only.
 
 [note] (p.76) Chapter ends at the group report mention; no further pages this chapter.
 
@@ -287,6 +288,7 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 ### y2v2 p.24 — Mashima mentioned in passing
 [scene] (p.24) Named in the context of Ayanokōji's injured left hand; Chabashira asks about it.
 [note] (p.24) Passing mention; not a distinct scene presence.
+[mentioned] (p.24) Passing mention only.
 
 <!-- walk: y2v2 Ch.1 → p.24 -->
 
@@ -369,6 +371,7 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 ### y2v9 p.124 — Mashima mentioned in passing
 [scene] (p.124) Named in the gym scene — "I often see Mashima-sensei here as well."
 [note] (p.124) Passing mention; not a scene presence.
+[mentioned] (p.124) Passing mention only.
 
 <!-- walk: y2v9 Ch.5 → p.124 -->
 

@@ -1143,6 +1143,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [scene] (p.39) Cited by Ayanokōji in the Sakayanagi debate; later implied as “the only real prize.”
 [says:hirata-yousuke] (p.39) “If we’re talking about Class D, then Hirata does, too. He’s the best example, even.” — speaker is Ayanokōji; Hirata does not speak in ch3.
 [note] (p.65) Passing mention: “Karuizawa-san’s already claimed the only real prize.” — the girls mean Hirata.
+[mentioned] (p.65) Passing mention only.
 [rel:ayanokouji-kiyotaka] (p.39) Best example that uniting people is not general skill.
 [rel:karuizawa-kei] (p.65) The girl who “claimed” him in Class D’s dating market.
 
@@ -1151,6 +1152,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 ### y1v7.5 p.96 — Ch.4: the absent peacekeeper
 [scene] (p.96) Expected at the café as Horikita’s peacekeeper; not present.
 [note] (p.96) Passing mention: “I thought that Hirata would be here as a peacekeeper, but apparently he wasn’t.”
+[mentioned] (p.96) Passing mention only.
 [rel:horikita-suzune] (p.96) The peacekeeper role he usually plays for her group meetings.
 
 <!-- walk: y1v7.5 ch4 → p.106 -->
@@ -1173,21 +1175,32 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 ### y1v7.5 p.158, 163–165 — Ch.6: the almost-ex-boyfriend
 [scene] (p.158) Named as having Nagumo’s respect and envy; later as the fake boyfriend Karuizawa may leave.
 [note] (p.158) Passing mention: Nagumo had “Hirata’s respect and envy,” which is why Ayanokōji concludes Nagumo is no average student.
+[mentioned] (p.158) Passing mention only.
 [note] (p.163–165) Passing mention / dialogue target: Karuizawa’s present was bought as a public gesture for Yousuke-kun; she hesitates to keep the fake couple; Ayanokōji already nudged her off Hirata.
+[mentioned] (p.163–165) Passing mention only.
 [rel:karuizawa-kei] (p.163–165) The relationship she may end; social currency and pressure discussed on the walk.
 [rel:ayanokouji-kiyotaka] (p.158, 164–165) Pawn Ayanokōji is willing to release; “indispensable pawn” test set by Karuizawa.
 
 ### y1v7.5 p.13, 23, 117, 129, 139, 146, 151, 161, 169 — coverage passes
 [scene] (p.13) Name-hit threads outside his dated scenes: popularity rank, class talk, movie gratitude, and the walk home.
 [note] (p.13) Passing mention: “Yousuke-kun” named as more popular than Ayanokōji.
+[mentioned] (p.13) Passing mention only.
 [note] (p.23) Passing mention: “Hirata-kun” named in the class-guys talk; Satou is his girlfriend.
+[mentioned] (p.23) Passing mention only.
 [note] (p.117) Passing mention: “I think Ayanokouji-kun’s kind, too,” said Hirata.
+[mentioned] (p.117) Passing mention only.
 [note] (p.129) Passing mention: “Nicely done,” said Hirata after the movie.
+[mentioned] (p.129) Passing mention only.
 [note] (p.139) Passing mention: “Yousuke-kun” named when Karuizawa suggests heading back.
+[mentioned] (p.139) Passing mention only.
 [note] (p.146) Passing mention: “What happened to Hirata?” — he has already gone home.
+[mentioned] (p.146) Passing mention only.
 [note] (p.151) Passing mention: Karuizawa’s nine-year bullying lie was told to Yousuke-kun to manipulate him.
+[mentioned] (p.151) Passing mention only.
 [note] (p.161) Passing mention: named as Class D’s supporting leader under Horikita.
+[mentioned] (p.161) Passing mention only.
 [note] (p.169) Passing mention: “If my relationship with Hirata-kun ends…” — Karuizawa’s risk if she breaks up.
+[mentioned] (p.169) Passing mention only.
 
 <!-- walk: y1v7.5 ch6 → p.170 -->
 
@@ -1222,6 +1235,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 ### y1v8 p.78 — Ch.3: named as the missing leader
 [scene] (p.78) Not in group six; named when Ishizaki’s morning temper shows what a real leader would have prevented.
 [note] (p.78) Passing mention: “Someone like Hirata would have gotten the group in order, but without a clear leader…”
+[mentioned] (p.78) Passing mention only.
 [rel:ishizaki-daichi] (p.78) The comparison that measures Ishizaki’s failed peacemaking against Hirata’s usual class management.
 [rel:ayanokouji-kiyotaka] (p.78) Ayanokōji’s read of the same gap — no one in the room can hold the group.
 
@@ -1230,6 +1244,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 ### y1v8 p.143 — Ch.4: named as a cooperation leader
 [scene] (p.143) Not on the page; named when Ayanokōji maps who is pushing cross-class cooperation.
 [note] (p.143) Passing mention: “Horikita and Hirata, to speak of our own class, or Ichinose and Katsuragi, to speak of others, were probably focusing on encouraging such cooperation.”
+[mentioned] (p.143) Passing mention only.
 [rel:horikita-suzune] (p.143) Paired as the Class D half of the cooperation-leadership read.
 [rel:ichinose-honami] (p.143) Paired with Katsuragi as the other-class example of the same role.
 [rel:katsuragi-kouhei] (p.143) Named with Ichinose as a likely cooperation driver in their group.

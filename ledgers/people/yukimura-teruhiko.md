@@ -484,6 +484,7 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 ### y1v7.5 p.156 — Ch.6: named as misplaced talent
 [scene] (p.156) Named once in Karuizawa’s risk-model talk as someone “placed in the wrong class.”
 [note] (p.156) Passing mention: “He means people like Horikita and Yukimura.”
+[mentioned] (p.156) Passing mention only.
 
 <!-- walk: y1v7.5 ch6 → p.170 -->
 
@@ -494,6 +495,7 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 ### y1v8 p.11–43 — Ch.2: group chat and the gym huddle
 [scene] (p.11) Named in the Ayanokōji Group chat on the bus approach; later present in the gym when Hirata pulls Keisei and Ayanokōji aside.
 [note] (p.30) Passing mention: “Keisei, Akito, and even Airi and Haruka all happily discussed the exam.”
+[mentioned] (p.30) Passing mention only.
 [rel:hirata-yousuke] (p.38) Takes the lead answering Hirata’s “What do you think?” on Class A’s proposal.
 [rel:ayanokouji-kiyotaka] (p.32) One of the friends on Ayanokōji’s protection list.
 

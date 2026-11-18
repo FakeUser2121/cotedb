@@ -263,7 +263,9 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 ### y1v7 p.78, 83 — Ch.3: Arisu in the past and the irrelevance list
 [note] (p.78) Passing mention: Ayanokōji notes Sakayanagi knew his past and Ichinose probably had as well — this Sakayanagi is Arisu, not the chairman.
+[mentioned] (p.78) Passing mention only.
 [note] (p.83) Passing mention: after the Karuizawa hang-up, he writes off Horikita, Karuizawa, Ryuuen and Sakayanagi as irrelevant to his next move — Arisu as Class A rival.
+[mentioned] (p.83) Passing mention only.
 
 <!-- walk: y1v7 ch7 → p.207 -->
 
@@ -292,8 +294,11 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 ### y1v7.5 p.78, 89–90 — Ch.4: named in the plan and the briefs
 [scene] (p.78) Named as the Class A threat; later in Manabu’s brief context.
 [note] (p.78) Passing mention: “Besides, this’s Sakayanagi we’re talking about. It might be time I looked up what kind of infractions the school punishes with expulsion.”
+[mentioned] (p.78) Passing mention only.
 [note] (p.89) Passing mention: several students in Nagumo’s circle are Class A, including the vice president — Sakayanagi’s class is where that power sits.
+[mentioned] (p.89) Passing mention only.
 [note] (p.90) Passing mention: “people like Sakayanagi and Ryuuen had already learned about me. Sakayanagi, in particular, knew a great deal about my life in the White Room.”
+[mentioned] (p.90) Passing mention only.
 [rel:ayanokouji-kiyotaka] (p.78, 90) White Room leverage; reason he accepts Manabu’s offer rather than staying quieter.
 [rel:ichinose-honami] (p.78) Her planned crush of Class B is the fifty-fifty intel.
 
@@ -302,13 +307,16 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 ### y1v7.5 p.149–150 — Ch.5: named in the threat list
 [scene] (p.149) Internal threat list while Ayanokōji justifies keeping Karuizawa.
 [note] (p.149) Passing mention: “If Ryuuen, or Sakayanagi, or even someone like Nagumo approached her, she wouldn’t crumble.”
+[mentioned] (p.149) Passing mention only.
 [note] (p.150) Passing mention: “On top of that, there was Chabashira-sensei and Chairman Sakayanagi.” — as potential targets; honeypot idea using Karuizawa.
+[mentioned] (p.150) Passing mention only.
 [rel:ayanokouji-kiyotaka] (p.149–150) Ongoing White Room threat; reason Karuizawa stays indispensable.
 [rel:karuizawa-kei] (p.150) Hypothetical honeypot — Ayanokōji’s internal note, not a plan shared with her.
 
 ### y1v7.5 p.49 — Ch.3: named as a non-goal
 [scene] (p.49) Named once in Ayanokōji’s reply as someone he is not competing with for the upper classes.
 [note] (p.49) Passing mention: “Besides, unlike Ryuuen and Sakayanagi, I’m not aiming for the upper classes.”
+[mentioned] (p.49) Passing mention only.
 
 <!-- walk: y1v7.5 ch5 → p.153 -->
 
@@ -319,6 +327,7 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 ### y1v8 p.72 — Ch.2: named as a possible cafeteria watcher
 [scene] (p.72) Not on the page; named in Ayanokōji’s caution about conspicuous contact at the shared meal hour.
 [note] (p.72) Passing mention: “it was quite possible that Sakayanagi and Nagumo were watching.”
+[mentioned] (p.72) Passing mention only.
 [rel:ayanokouji-kiyotaka] (p.72) One of two names that keep him solo at the cafeteria table.
 [rel:nagumo-miyabi] (p.72) Paired with Nagumo as the pair whose eyes matter.
 
@@ -339,6 +348,7 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 ### y1v8 p.113, 125–126 — Ch.4: the crush vow and the defensive plan
 [scene] (p.113) Named from the classroom window — her enthusiastic crush-Ichinose vow shows no surface sign of happening yet.
 [note] (p.113) Passing mention: “Sakayanagi had enthusiastically declared she would crush Ichinose, but I saw no sign of that happening.”
+[mentioned] (p.113) Passing mention only.
 [rel:ichinose-honami] (p.113) The target of the vow, seen only as a cheerful runner from the third floor.
 [rel:karuizawa-kei] (p.125–126) Karuizawa reports her three-class nine-A minimum group; Ayanokōji infers she devised the defensive no-absolute-win plan.
 [rel:kamuro-masumi] (p.125) Kamuro — not Sakayanagi — is who named Ichinose untrustworthy to Class B.
@@ -347,7 +357,9 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 ### y1v8 p.129, 144 — Ch.4: integrity contrast and interested observer
 [scene] (p.129) Named in Kanzaki’s honesty contrast; p.144 named as one of two with a certain interest in Ayanokōji.
 [note] (p.129) Passing mention: Kanzaki on who keeps promises — “You couldn’t expect anything of the sort from Sakayanagi or Ryuuen.”
+[mentioned] (p.129) Passing mention only.
 [note] (p.144) Passing mention: Ayanokōji wants to show Sakayanagi and Nagumo he has no intention of fighting.
+[mentioned] (p.144) Passing mention only.
 [rel:horikita-suzune] (p.129) The negative contrast that defines Horikita’s integrity by what Sakayanagi lacks.
 [rel:nagumo-miyabi] (p.144) Paired with Nagumo as the two interested first/second-year observers he intends to disappoint.
 [rel:kanzaki-ryuuji] (p.129) Source of the integrity contrast line.

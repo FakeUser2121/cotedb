@@ -173,6 +173,7 @@ char_id: wang-mei-yu · status: minor
 ### y2v2 p.66 — Wang (Mii-chan) mentioned in passing
 [scene] (p.66) Named in the student council recruitment context.
 [note] (p.66) Passing mention; not a distinct scene presence.
+[mentioned] (p.66) Passing mention only.
 
 <!-- walk: y2v2 Ch.2 → p.66 -->
 
@@ -242,6 +243,7 @@ char_id: wang-mei-yu · status: minor
 [scene] (p.70) Named — "Yousuke, Mii-chan, and Horikita must've seemed like naturally-born geniuses."
 [scene] (p.141) Named — "Mii-chan, who was teaching Sonoda, gave her a soft pep talk."
 [note] (p.17, 70, 141) Passing mentions; Mii-chan is present in the study group but not in a distinct scene of her own.
+[mentioned] (p.17, 70, 141) Passing mention only.
 
 <!-- walk: y2v9 Ch.5 → p.141 -->
 

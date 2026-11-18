@@ -109,6 +109,7 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 
 ### y1v7 p.176 — Ch.6: bare Albert in Ibuki’s list
 [note] (p.176) Passing mention: Ibuki lists Ishizaki, Komiya, Kondou and even Albert among the classmates Ryuuen beat into obedience — Albert is Yamada Albert.
+[mentioned] (p.176) Passing mention only.
 
 <!-- walk: y1v7 ch7 → p.207 -->
 
@@ -119,7 +120,9 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 ### y1v7.5 p.54–55 — Ch.3: named as one of the three
 [scene] (p.54) Bare “Albert” in Ishizaki’s rooftop report; Ibuki later worries he might talk.
 [note] (p.54) Passing mention: “Yeah. Albert and Ibuki were with me too.” — Albert is Yamada Albert.
+[mentioned] (p.54) Passing mention only.
 [note] (p.55) Passing mention: Ibuki worries whether Albert will stay quiet about the rooftop, and whether Ishizaki will.
+[mentioned] (p.55) Passing mention only.
 [rel:ishizaki-daichi] (p.54) One of the three who brought Ryuuen down.
 [rel:ibuki-mio] (p.54–55) Named in the same lists; Ibuki’s co-conspirator on the roof.
 
@@ -128,6 +131,7 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 ### y1v7.5 p.76 — Ch.4: bare Albert in the roof story
 [scene] (p.76) Bare “Albert” in Ayanokōji’s account of who was on the roof.
 [note] (p.76) Passing mention: “However, Ibuki, Ishizaki, and Albert had been there.” — Albert is Yamada Albert.
+[mentioned] (p.76) Passing mention only.
 [rel:ryuuen-kakeru] (p.76) Roof witness whose shared-blame knowledge mattered.
 [rel:ibuki-mio] (p.76) Named in the same trio.
 

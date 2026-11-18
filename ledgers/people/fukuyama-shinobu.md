@@ -13,6 +13,7 @@ char_id: fukuyama-shinobu · class: unknown · status: unknown
 ### y2v3 p.157 — Fukuyama mentioned in passing
 [scene] (p.157) Named in the Task site context.
 [note] (p.157) Passing mention; not a distinct scene presence.
+[mentioned] (p.157) Passing mention only.
 
 <!-- walk: y2v3 Ch.4 → p.157 -->
 

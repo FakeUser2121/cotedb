@@ -214,6 +214,7 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 ### y1v8 p.85 — Ch.3: named as the proactive Class B exception
 [scene] (p.85) Not in the room dialogue; named in Ayanokōji’s read of Class B’s unusual quiet in group six.
 [note] (p.85) Passing mention: Class B had been “unusually quiet so far… with the exception of certain individuals like Kanzaki and Shibata.”
+[mentioned] (p.85) Passing mention only.
 [rel:shibata-sou] (p.85) Paired with Shibata as the two Class B names Ayanokōji still counts as proactive.
 [rel:ayanokouji-kiyotaka] (p.85) Part of his leadership map — Class B not stepping up except these two.
 

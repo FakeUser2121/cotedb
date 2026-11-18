@@ -912,7 +912,9 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 ### y1v7 p.69, 76 — Ch.3: named in the father and exit talks
 [note] (p.69) Passing mention: Ayanokōji lists Karuizawa among those who enrolled despite their issues.
+[mentioned] (p.69) Passing mention only.
 [note] (p.76) Passing mention: walking away from Chabashira, he notes his identity would be revealed if Karuizawa were caught or betrayed him.
+[mentioned] (p.76) Passing mention only.
 
 <!-- walk: y1v7 ch7 → p.207 -->
 
@@ -941,8 +943,11 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 ### y1v7.5 p.55, 61, 65 — Ch.3: named in loans and love
 [scene] (p.55) Name-hit in Ayanokōji’s risk note; later implied as Hirata’s girlfriend.
 [note] (p.55) Passing mention: “If he decided to talk, even Karuizawa might be in trouble.”
+[mentioned] (p.55) Passing mention only.
 [note] (p.61) Passing mention: “the large number of private points I ‘loaned’ to Karuizawa”
+[mentioned] (p.61) Passing mention only.
 [note] (p.65) Passing mention: “Karuizawa-san’s already claimed the only real prize.” — the girls mean Hirata.
+[mentioned] (p.65) Passing mention only.
 [rel:ayanokouji-kiyotaka] (p.55, 61) Exposure risk; private-point loan.
 [rel:hirata-yousuke] (p.65) The public couple that “claimed” Hirata.
 
@@ -985,15 +990,25 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 ### y1v7.5 p.16, 18, 23, 30, 33, 122, 129, 132, 146, 152 — coverage passes
 [scene] (p.16) POV lead-in and name-hits outside her dated scenes: morning greeting, date logistics, movie talk, and the walk home.
 [note] (p.16) Passing mention: morning greeting at school after the plan is set.
+[mentioned] (p.16) Passing mention only.
 [note] (p.18) Passing mention: named in Satou’s double-date pitch and the idol/type questions.
+[mentioned] (p.18) Passing mention only.
 [note] (p.23) Passing mention: named as Hirata’s girlfriend in the popularity talk.
+[mentioned] (p.23) Passing mention only.
 [note] (p.30) Passing mention: named in the double-date logistics.
+[mentioned] (p.30) Passing mention only.
 [note] (p.33) Passing mention: Karuizawa named in Satou’s plan summary.
+[mentioned] (p.33) Passing mention only.
 [note] (p.122) Passing mention: jealousy interrogation in the movie-seat talk.
+[mentioned] (p.122) Passing mention only.
 [note] (p.129) Passing mention: movie-seat talk; Hirata’s gratitude to her.
+[mentioned] (p.129) Passing mention only.
 [note] (p.132) Passing mention: named in the student-council invitation tangent.
+[mentioned] (p.132) Passing mention only.
 [note] (p.146) Passing mention: “What happened to Hirata?” — she and Ayanokōji peel off first.
+[mentioned] (p.146) Passing mention only.
 [note] (p.152) Passing mention: named in the Manabu sibling-reveal briefing.
+[mentioned] (p.152) Passing mention only.
 
 <!-- walk: y1v7.5 ch6 → p.170 -->
 
@@ -1010,6 +1025,7 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 ### y1v8 p.72 — Ch.2: named as looking for him at the cafeteria
 [scene] (p.72) Not on the page; named in Ayanokōji’s decision to stay solo during the shared hour.
 [note] (p.72) Passing mention: “Horikita and Kei were probably looking for me, but I didn’t set out to search for them.”
+[mentioned] (p.72) Passing mention only.
 [rel:ayanokouji-kiyotaka] (p.72) Polar-opposite reaction expected — she would wait and see; he avoids conspicuous contact because Nagumo knows their special relationship.
 [rel:nagumo-miyabi] (p.72) The watcher whose knowledge of Kei keeps Ayanokōji away from her at the hour.
 

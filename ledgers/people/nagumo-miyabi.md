@@ -132,14 +132,18 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 ### y1v7.5 p.155–159, 161–162 — Ch.6: the enemy Kiriyama describes
 [scene] (p.155) Discussed throughout the Kiriyama meet; not present.
 [note] (p.155) Passing mention: Kiriyama never agreed with Nagumo; Nagumo’s reform pitch of promoting capable students regardless of class.
+[mentioned] (p.155) Passing mention only.
 [note] (p.156–158) Passing mention: almost all second-years under Nagumo; dissatisfied but not enough votes; persons-of-interest list starts third semester; anyone on his bad side expelled across the board.
+[mentioned] (p.156–158) Passing mention only.
 [note] (p.161–162) Passing mention: Ayanokōji’s risk model — dirty play could get people expelled (Sudou/Ishizaki fight as example).
+[mentioned] (p.161–162) Passing mention only.
 [rel:kiriyama-ikuto] (p.155–159) The regime Kiriyama infiltrates and wants removed from office.
 [rel:ayanokouji-kiyotaka] (p.157–162) Already on the radar after the relay; Ayanokōji weighs pretending the relay was a fluke.
 
 ### y1v7.5 p.149 — Ch.5: named in the threat list
 [scene] (p.149) Named once in Ayanokōji’s honeypot math as a threat who would not crumble Karuizawa now.
 [note] (p.149) Passing mention: “If Ryuuen, or Sakayanagi, or even someone like Nagumo approached her, she wouldn’t crumble.”
+[mentioned] (p.149) Passing mention only.
 
 <!-- walk: y1v7.5 ch6 → p.170 -->
 
@@ -150,6 +154,7 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 ### y1v8 p.10 — Ch.1: named as the bulldozer
 [scene] (p.10) Named in Manabu’s graduation soliloquy as the one who took direct action to clear him from the path.
 [note] (p.10) Passing mention: “Nagumo Miyabi continues to take direct action against me” — “Perhaps ‘a bulldozer’ is the description that fits him best.”
+[mentioned] (p.10) Passing mention only.
 [rel:horikita-manabu] (p.10) Pressed Manabu for three years; Manabu had given up responding before graduation.
 
 <!-- walk: y1v8 ch1 → p.10 -->
@@ -157,6 +162,7 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 ### y1v8 p.11–43 — Ch.2: named as the grade-level thread to watch
 [scene] (p.11) Not on the bus or in the gym; named once in Ayanokōji’s protection planning as the exam opens.
 [note] (p.32) Passing mention: given the rare chance for grade levels to intermingle, Ayanokōji resolves to keep an eye on Nagumo’s movements.
+[mentioned] (p.32) Passing mention only.
 [rel:ayanokouji-kiyotaka] (p.32) Outside thread Ayanokōji flags while listing who he will and will not protect.
 
 ### y1v8 p.52–68 — Ch.2: the early draft, the duel, and Kōenji’s bust
@@ -205,6 +211,7 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 ### y1v8 p.146 — Ch.4: named in the corridor assessment
 [scene] (p.146) Not on the page; named throughout Manabu’s corridor brief to Ayanokōji.
 [note] (p.146) Passing mention in Manabu’s assessment: Nagumo’s public average-score challenge, underhanded methods, unusually high second-year expulsion rate, never broken a promise.
+[mentioned] (p.146) Passing mention only.
 [rel:horikita-manabu] (p.146) The two-year student-council history is why Manabu trusts the no-third-parties claim.
 [rel:ayanokouji-kiyotaka] (p.145–146) Ayanokōji withholds his own Nagumo concerns while taking the brief.
 [status] (p.146) Manabu’s group is mostly Class A including first-years — strong chance to win the test; that is why Nagumo’s inaction reads as anxiety fuel.

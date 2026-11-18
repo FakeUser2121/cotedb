@@ -210,7 +210,9 @@ char_id: sotomura-hideo · class: Class 1-D (enrolled April 2015) · status: min
 ### y1v8 p.45–48 — Ch.2: the Professor’s missed Hirata seat
 [scene] (p.45) Named with Ike and Onizuka as wanting Hirata’s group; later one of the five leftover Class C seats.
 [note] (p.45) Passing mention: “Ike, Onizuka, and Sotomura are hoping to join Hirata’s group.”
+[mentioned] (p.45) Passing mention only.
 [note] (p.47–48) Passing mention: “The Professor and Onizuka had wanted to join Hirata’s group, but that group was full up.”
+[mentioned] (p.47–48) Passing mention only.
 [rel:hirata-yousuke] (p.45–48) Blocked from the Hirata group by capacity.
 [rel:onizuka] (p.47–48) Paired with Onizuka as the two who wanted Hirata’s seat and did not get it.
 

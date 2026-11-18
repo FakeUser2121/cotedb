@@ -9,6 +9,7 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 ### y1v7.5 p.89 — Ch.4: named in the brief
 [scene] (p.89) Name-hit in Horikita Manabu’s student-council brief.
 [note] (p.89) Passing mention: “One is Vice President Kiriyama, from the second-year Class B.”
+[mentioned] (p.89) Passing mention only.
 [rel:horikita-manabu] (p.89) Listed among members to keep an eye on; Class B, with Nagumo’s circle.
 [rel:nagumo-miyabi] (p.89) Vice President under the president Ayanokōji must oppose.
 
@@ -17,6 +18,7 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 ### y1v7.5 p.123 — Ch.5: with Nagumo outside the theater
 [scene] (p.123) Name-hit in the entourage list when Nagumo interrupts the double date.
 [note] (p.123) Passing mention: student council members present with Nagumo — Secretaries Mizowaki and Tonokawa, and Vice President Kiriyama (entry records this name).
+[mentioned] (p.123) Passing mention only.
 [rel:nagumo-miyabi] (p.123) Entourage for the karaoke outing after the arm-grab.
 
 <!-- walk: y1v7.5 ch5 → p.153 -->
@@ -45,6 +47,7 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 ### y1v8 p.96–103 — Ch.3: vice president at the card table
 [scene] (p.96) Accompanies Nagumo into group six’s room with Tsunoda and Ishikura for the breakfast-duty Old Maid.
 [note] (p.96) Passing mention: “Vice President Kiriyama and two other third-year students accompanied him.”
+[mentioned] (p.96) Passing mention only.
 [rel:nagumo-miyabi] (p.100–103) Finishes second in the early rounds; next to Nagumo in the late first-year showdown.
 [rel:yukimura-teruhiko] (p.101) Defeats Yukimura in the second round while Yukimura holds the joker.
 [limit] (p.96–103) No line of his own attributed on these pages — presence through Nagumo’s party and the game order.

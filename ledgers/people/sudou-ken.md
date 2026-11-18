@@ -1110,13 +1110,16 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 ### y1v7.5 p.18 — Ch.2: named in the popularity maths
 [scene] (p.18) One-line name-hit among Ayanokōji’s guy friends.
 [note] (p.18) Passing mention: grouped with Ike and Yamauchi as friends most girls disliked.
+[mentioned] (p.18) Passing mention only.
 
 <!-- walk: y1v7.5 ch2 → p.34 -->
 
 ### y1v7.5 p.49, 56 — Ch.3: named in the Ibuki argument
 [scene] (p.49) Name-hit in Ibuki’s accusation that Ayanokōji never lets things slide.
 [note] (p.49) Passing mention: “Even before that, if you let the whole thing with Sudou slide, that would’ve been it.”
+[mentioned] (p.49) Passing mention only.
 [note] (p.56) Passing mention: “unlike Sudou and Ishizaki, I’m not the hotheaded type.” — speaker is Ayanokōji.
+[mentioned] (p.56) Passing mention only.
 [rel:ayanokouji-kiyotaka] (p.49) The expulsion he did not let happen, which Ibuki cites as the start of Ryuuen’s grudge.
 
 <!-- walk: y1v7.5 ch3 → p.72 -->
@@ -1138,6 +1141,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 ### y1v7.5 p.161 — Ch.6: the fight that might have gone differently
 [scene] (p.161) Named in Ayanokōji’s dirty-play hypothetical.
 [note] (p.161) Passing mention: “that one fight between Sudou and those Class C guys—Ishizaki and his friends. If the student council president had backed those Class C boys, Sudou’s fate might’ve been massively different.”
+[mentioned] (p.161) Passing mention only.
 [rel:ayanokouji-kiyotaka] (p.161) Example used to explain how easily expulsion could be engineered.
 
 <!-- walk: y1v7.5 ch6 → p.170 -->
@@ -1163,6 +1167,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 ### y1v8 p.102–103 — Ch.3: named as the athletic first-year
 [scene] (p.102) Not at the card table; named in Ishikura’s club talk.
 [note] (p.102) Passing mention: “Several first-years had joined, but he was probably referring to Sudou, whose skill had even caught the attention of even a retired third-year.”
+[mentioned] (p.102) Passing mention only.
 [rel:ishikura] (p.102–103) The basketball captain’s hope for next year rides on Sudou’s already-noticed skill.
 [rel:nagumo-miyabi] (p.102–103) Nagumo’s soccer-vs-council aside is the frame for Ishikura’s club regrets.
 

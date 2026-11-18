@@ -52,10 +52,16 @@ def scope_bar(years):
             + "".join(f'<button type="button" data-y="{y}">{yname(y)}</button>' for y in years) + "</div>")
 
 
-def vol_runs(P, vols_named, scenes_by_vol):
+def vol_runs(P, vols_named, scenes_by_vol, mentions_by_vol=None, char_id=None):
     """One line per read volume; unread neighbours collapse into one range."""
     m = R.m
     out, run = [], []
+
+    def vol_link(v):
+        href = f"story/v/{v['id']}/index.html"
+        if char_id:
+            href += f"#with={char_id}"
+        return f'<a href="{P.u(href)}">{esc(v["short"] if hasattr(v, "short") else m.vol[v["id"]]["short"])}</a>'
 
     def flush():
         if run:
@@ -66,10 +72,20 @@ def vol_runs(P, vols_named, scenes_by_vol):
             run.clear()
     for v in vols_named:
         n = scenes_by_vol.get(v["id"], 0)
-        if n:
+        mn = (mentions_by_vol or {}).get(v["id"], 0)
+        if n or mn:
             flush()
-            out.append(f'<li data-y="{v["year"]}" data-o="{v["ord"]}">{dot("partial")} {ent(P, "volumes", v["id"])} '
-                       f'<span class="n">{n} scene{"s" if n != 1 else ""} read</span></li>')
+            link = ent(P, "volumes", v["id"])
+            if char_id:
+                link = link.replace(f'story/v/{v["id"]}/index.html',
+                                    f'story/v/{v["id"]}/index.html#with={char_id}')
+            parts = []
+            if n:
+                parts.append(f'{n} scene{"s" if n != 1 else ""} read')
+            if mn:
+                parts.append(f'{mn} mentioned')
+            out.append(f'<li data-y="{v["year"]}" data-o="{v["ord"]}">{dot("partial")} {link} '
+                       f'<span class="n">{" · ".join(parts)}</span></li>')
         else:
             if run and run[-1]["year"] != v["year"]:
                 flush()
@@ -221,7 +237,8 @@ def build_character(c):
     rel = f"people/{cid}.html"
     P = Page(rel)
     sc = m.scenes_of("people", cid)
-    by_vol = Counter(s["vol"] for s in sc)
+    by_vol = Counter(s["vol"] for s in sc if not s.get("mentioned"))
+    mentions_by_vol = Counter(s["vol"] for s in sc if s.get("mentioned"))
     named = [m.vol[v] for v in c["volumes"]]
     years = sorted({v["year"] for v in named}, key=lambda y: y or 9)
     first = sc[0] if sc else None
@@ -250,7 +267,7 @@ def build_character(c):
     body = (scope_bar(years) + info
             + toc(toc_items) + th
             + '<h2 id="scenes">Scenes</h2>' + cards_block(P, items, with_id=cid)
-            + '<h2 id="volumes">Volume by volume</h2>' + vol_runs(P, named, by_vol)
+            + '<h2 id="volumes">Volume by volume</h2>' + vol_runs(P, named, by_vol, mentions_by_vol, char_id=cid)
             + '<h2 id="relationships">Relationships</h2>'
             + (f'<ul class="plain">{rel_html}</ul>' if rel_html else '<p class="n">No relationship notes read yet.</p>')
             + '<h2 id="names">Names</h2>'

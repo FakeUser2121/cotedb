@@ -13,6 +13,7 @@ char_id: makita-takashige · class: unknown · status: unknown
 ### y2v3 p.192 — Makita mentioned in passing
 [scene] (p.192) Named in the Task site context.
 [note] (p.192) Passing mention; not a distinct scene presence.
+[mentioned] (p.192) Passing mention only.
 
 <!-- walk: y2v3 Ch.4 → p.192 -->
 
