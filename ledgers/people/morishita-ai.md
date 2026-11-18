@@ -63,6 +63,43 @@ char_id: morishita-ai · class: Class 2-A · status: unknown
 
 <!-- walk: y2v12.5 Ch.3 → p.53 -->
 
+### y2v12.5 p.93–106 — Ch.6: Sakayanagi's farewell and the advice
+[scene] (p.94) Morishita is at the main gate to see Sakayanagi off; she distances herself with the others for the private talk.
+[says] (p.95) “Close.”
+[scene] (p.98) Sakayanagi smiles mischievously at Ayanokōji after kiss talk; Morishita's face is honestly too scary to look at.
+[scene] (p.102) On the walk back, she suspects the "advice" and searches for its meaning; she refuses to accept it unless convinced.
+[says] (p.102) “Advice? If it’s true, it’s very unwelcome. Should we really listen to it?”
+[says] (p.102) “It’s important advice. Moreover, it’s related to the class. Think about it calmly, Yamamura Miki. The right person to convey this advice should be directly related to our class, not Ayanokōji Kiyotaka. Isn’t that right? Moreover, it’s not something to say at the very end, during one’s final moments.”
+[says] (p.102) “Well, there is a traitor in the class, right? If this is to prevent the tiny possibility of a leak, I could reluctantly understand...”
+[says] (p.102) “So there was a need for you to act as an intermediary. Alright, I’m very suspicious, but whether I’ll be convinced or not, I won’t know unless I listen. Let’s hear it.”
+[says] (p.103) “I see. We have almost no chance of turning things around now. However, if we can implement that, possibilities start to emerge.”
+[says] (p.103) “What are the chances of winning... How much does this increase it by?”
+[says] (p.103) “Let’s assume we can clear those concerns. There’s still a major challenge left.”
+[says] (p.103) “Are you sane?”
+[says] (p.103) “Well, if that solution is possible, it’s more than we could wish for. It wouldn’t be too hard to rally a class that’s about to give up, given the current situation.”
+[says] (p.104) “Ayanokōji Kiyotaka. There’s something I want to ask you.”
+[says] (p.104) “Is this story really a parting gift from Sakayanagi Arisu? Or is it just your personal idea?”
+[says] (p.104) “That was a pointless question. Sakayanagi Arisu has already left this school. There’s no way to verify what is true anymore. Sorry, but let me change my question. Sakayanagi Arisu’s advice, or rather her strategy, that you’ve presented to us, former Class A students—what do you get in return for involving yourself in this matter? It doesn’t seem very beneficial. Unless I’m convinced of that, I won’t accept the proposal.”
+[says] (p.104) “Very suspicious. I would like to say I’ll pass on cooperating...”
+[says] (p.104) “Assuming all of this, including your goal, is true, are you really okay with that, Ayanokōji Kiyotaka? That is to say, before even getting to the topic of Class A and so on, first and foremost, it would mean betraying your comrades.”
+[says] (p.104) “I see. So we can’t simply be happy about this. The hand you’re extending might be poisoned.”
+[says] (p.105) “Once you’ve committed a crime, commit to it. Since we’re already pushed to the limit, deciding to act while knowing the risks seems best. The rest is up to our classmates’ choice.”
+[says] (p.105) “Right after hugging Sakayanagi Arisu, you receive a love letter from a kōhai. You are indeed in a fine position, aren’t you?”
+[says] (p.105) “Nervous expression, plain envelope, and a girl who blushes and runs away... smells fishy.”
+[says] (p.105) “I wouldn’t know. I’m not familiar with your sense of smell, Ayanokōji Kiyotaka.”
+[says] (p.105) “Let’s look. There must be some honest writing inside.”
+[says] (p.105) “Well, isn’t it fine? Instead of a letter, she wants to deepen the relationship through conversation.”
+[says] (p.106) “Let’s call right away. Let’s whisper some words of love.”
+[says] (p.106) “What, are you playing the waiting game? Hmm, how long are you planning on letting it sit?”
+[says] (p.106) “That’s when you graduate, isn’t it?”
+[note] (p.102) She — not Sakayanagi — is the last person who would act on Sakayanagi's advice without proof; she accepts provisionally only because the class has no other options.
+[rel:ayanokouji-kiyotaka] (p.102–106) She interrogates his motives; he claims a goal of keeping the four classes balanced until graduation.
+[rel:yamamura-miki] (p.102–106) She drags Yamamura into evaluating the advice; Yamamura is delighted, she is not.
+[rel:sakayanagi-arisu] (p.93–99) She sees the leader she relied on for two years leave the school; she is noticeably worried about the class's future.
+[rel:negishi] (p.105–106) A first-year girl hands Ayanokōji an envelope.
+
+<!-- walk: y2v12.5 Ch.6 → p.106 -->
+
 ## y3v1
 
 <!-- walk: y3v1 → start -->
@@ -321,3 +358,11 @@ char_id: morishita-ai · class: Class 2-A · status: unknown
 [rel:shiina-hiyori] (p.49) She greets her by name after hearing it.
 
 <!-- walk: y2v11 ch2 → p.84 -->
+
+### y2v11 p.108 — Ch.4: The creepy/cute judge
+[scene] (p.108) Breakfast; she watches the first-year frenzy; she pronounces it creepy.
+[says] (p.108) “I don't really understand, but the boys’ unusual excitement... it's creepy.”
+[note] (p.108) She stares at the first-year boys again after hearing Hiyori call them cute; later dubbed “Shiina Hiyori is strange” territory; she is unmoved.
+[rel:shiina-hiyori] (p.108) She dismisses Hiyori's soft take on the first-years.
+
+<!-- walk: y2v11 ch4 → p.113 -->

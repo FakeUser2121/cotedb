@@ -5836,6 +5836,70 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v12 ch1 → p.25 -->
 
+### y2v12 p.26–37 — Ch.2: The café with Horikita
+[scene] (p.26) Friday after school, Keyaki Mall; he buys a hot coffee and joins her; she fidgets, worried about next week's exam and about the missing first years; he notes the first years are facing their own end-of-year special exams.
+[says:horikita-suzune] (p.26) "Is it that obvious?"
+[says:horikita-suzune] (p.26) "...What do you mean?"
+[scene] (p.27–28) She shows him the first-year rankings (Class A 991, Class B 697, Class C 532, Class D 510); Class A led by Takahashi or Ishigami, Class D behind Hōsen; Yagami expelled from 1-B; Sudō mentioned as dead weight back then.
+[scene] (p.29–30) She asks for his thoughts on the exam; he lands on choosing students with the fewest weaknesses; she counters that her own class might field Sudō-type gambles; he names Ichinose's safe bets (Kanzaki) and mentions Hatsukawa, Hamaguchi, Niiura as candidates in D; suggests "compatibility"-thinking (Hatsukawa–Miyake); she dislikes the framing.
+[scene] (p.30–32) She circles what she wants: if Kōenji would cooperate when it matters, that would suffice; he answers that Kōenji won't help; she names him, Hirata, Kushida as her expected lineup; he reveals Horikita-strategy, then she accepts his acceptance to be general.
+[says] (p.32) "I said I wouldn't mind participating if you want."
+[says:horikita-suzune] (p.32) "What kind of conditions? Are they difficult?"
+[scene] (p.33–35) Conditions laid out: general seat instead of Horikita; his turn skipped; in exchange he will contribute nothing more to the class — same demand as Kōenji; demands her acknowledgment of his Kōenji-style detachment; she balks, then accepts the premise (Kōenji demands would risk Kōenji-like volatility).
+[says:horikita-suzune] (p.33) "What if I said I can’t give up being the general?"
+[says] (p.33) "I'd just refuse."
+[scene] (p.35–37) He makes the deal sweeter: winner → unchanged relationship; loser but Horikita wins → no Kōenji-style terms; loser and he loses → six months of cooperation (not graduation); she deliberates, then accepts wholesale: he is general, she fights as middle guard beside him, his cost-free participation protected by secrecy; he asks for class consent for his general role, keep Ichinose's class in the dark.
+[says:horikita-suzune] (p.36) "If you’re willing to serve as the general… everything else is trivial."
+[rel:horikita-suzune] (p.26–37) Café negotiation; she gives up the general seat; agrees to keep his general role secret; he demands class consent incl. Kōenji.
+
+### y2v12 p.38–45 — Ch.2: Hasebe, Amasawa, the karaoke room
+[scene] (p.38) Friday evening, Keyaki Mall; he spots Hasebe Haruka waiting and approaches; she was about to confess something about her flagging spirits when Amasawa crashes in, uninvited but with a purpose.
+[scene] (p.39) Amasawa delivers a report: a near-expulsion scare with Nagumo at the last camp — she had prepared to die on that sword; she's chosen to keep attending school instead; he puts her in his pocket for one job: dig into Nanase's real intentions; she salutes.
+[says:amasawa-ichika] (p.39) "Did you dislike talking with Hasebe-senpai?"
+[says:amasawa-ichika] (p.40) "Okay, understood."
+[rel:amasawa-ichika] (p.39–40) Assigns her to research Nanase; he sees through her try-and-see stance on expulsion.
+[rel:hasebe-haruka] (p.38) Blocked by Amasawa; his loss; she leaves without finishing her sentence.
+[scene] (p.41–43) He stops by the karaoke room to see Ryūen at 7 PM; they fence verbally over the Sakayanagi bet (loser expelled); Ryūen resolves to beat her fair and square; warns him that Ichinose is "a wild scent about her" sniffing after Horikita; he relays that whatever he does, it won't matter this time; Ryūen is delighted to have his class lose as long as it's not his own problem.
+[says:ryuuen-kakeru] (p.41) "You sure are spewing quite a lot of shit being the one who called me out here."
+[says:ryuuen-kakeru] (p.42) "It’s the once a year do-or-die-battle."
+[rel:ryuuen-kakeru] (p.41–43) Tests him with the bet's stakes; Ryūen dismisses him but warns him about Ichinose.
+[scene] (p.44–45) Detour: he finds Yamamura Miki by the mall vending machines; he asks about Sakayanagi's people; she shows surveillance video (dec. 26, 7 PM, Keyaki Mall) of two figures interacting closely — a piece for narrowing his suspicions; he tells her to keep her involvement invisible.
+[says:yamamura-miki] (p.44) "...Right. We’ve had more opportunities to talk than before."
+[rel:yamamura-miki] (p.44–45) Hands him the video evidence; she is visibly nervous sharing it.
+[note] (p.44–45) The video's subjects are unidentified on-page; he does not say whose eyes are in the clip; he uses it to guide his next moves.
+
+### y2v12 p.46–52 — Ch.2: Matsushita, then Hashimoto at night
+[scene] (p.46) Later, he summons Matsushita to Keyaki Mall; she remembers the spot from a year ago; answers his test questions (the topics, the members felt off); he validates her read and asks her to keep their meeting secret; at a glance he's checking whether her eye is as keen as he remembers.
+[says:matsushita-chiaki] (p.47) "It feels like I’m being tested."
+[rel:matsushita-chiaki] (p.46–48) Tests her with selected fragments of the past investigation; accepts her as a mind worth recognizing; asks for discretion.
+[scene] (p.49) Night, after 10 PM; Hashimoto from Class 2-A arrives casual-dressed via the stairs; is ambushed into sitting; discusses the exam: he had expected to help Ryūen but even he is blind on the rules; he wants Ayanokōji to transfer to Ryūen's class to make graduating Class A viable.
+[says:hashimoto-masayoshi] (p.49) "Is anyone watching?"
+[scene] (p.50–52) Points discussed: the camp's 3-million reward (he got 600k of 3M, AK got the same — he takes no more than others); the 20M transfer price; Hashimoto's stance: siding with Ryūen regardless; lies are his weapon; AK's parting advice: don't lie to yourself.
+[note] (p.49–52) The transfer idea hangs: Hashimoto openly asks him to jump to Class C; he neither confirms nor denies — watches Hashimoto leave; the night's job list advances.
+[rel:hashimoto-masayoshi] (p.49–52) Hears the transfer pitch; hears his own 600k acknowledged; reports the Nagumo payout math.
+
+### y2v12 p.53–57 — Ch.2: Ichinose on the bench, Kanzaki at the gym
+[scene] (p.53) Sunday, bench along the school route; she is there early; he asks her to keep today's meeting loose; they reminisce about last year's bench-promise — one year hence, meet again alone; she agrees: definitely.
+[says:ichinose-honami] (p.53) "Good morning, Ayanokōji-kun. Is it okay? Calling me out to a place like this."
+[scene] (p.54) The meeting lasts briefly; he says he doesn't plan to be a representative — a real lie (he already accepted the role); she relaxes, slightly relieved; he asks for a rain check on the "by next year, just the two of us" promise, she accepts.
+[says:ichinose-honami] (p.54) "Definitely."
+[rel:ichinose-honami] (p.53–54) Reconfirms the one-year bench promise; she relaxes at his "no" about representing; he knows she doesn't know.
+[scene] (p.55) Sunday at the gym exit; Kanzaki is waiting; asks first whether it's true he won't be a representative; pushes plainly: if Horikita asks, please refuse — she and Ichinose count on that; he lets the rumor die without confirming it.
+[says:kanzaki-ryuuji] (p.55) "No, that’s not it. I heard you were going to the gym and waited."
+[says:kanzaki-ryuuji] (p.56) "...Understood. If you say so, it must just be a rumor. But, if Horikita asks you to be a representative... if possible, please refuse."
+[rel:kanzaki-ryuuji] (p.55–57) Drops the rumor (Ichinose's camp leaked the general assignment); pleads with him to decline if asked.
+
+### y2v12 p.58–62 — Ch.2: The Sunday-night call with Sakayanagi
+[scene] (p.58) Just before 10 PM Sunday; Sakayanagi calls; she is already in bed; hosts the call lying down; his goal is to confirm where each class stands before tomorrow's exam; she delivers: Ryūen and Ichinose met him too; she knows more than the other classes (her information machine reaches students and adults).
+[says:sakayanagi-arisu] (p.58) "I’m sorry for being late. Is it okay to talk now?"
+[scene] (p.59–60) She explains the past two days: she has been holding individual meetings with her classmates (Kamuro's ghost hovering); she lists wanting to know Kamuro and Yamamura better; she half-jokes that it is unproductive, yet she commits to it; she says change began with Kamuro and Yamamura — and with him.
+[says:sakayanagi-arisu] (p.60) "It’s because of you, Ayanokōji-kun. You’re the one who changed me."
+[scene] (p.61–62) He reminds her of the deserted-island debt; asks about the exam prediction — she won't lose to Ryūen; asks whether she could summon him to handle Ryūen; she refuses absolutely; asks, yawning, for tea and a friendly match third year; they go their separate ways; he stays up mulling who he wants to win.
+[says:sakayanagi-arisu] (p.61) "You’ll repay the favor when I’m a third-year."
+[rel:sakayanagi-arisu] (p.58–62) The call swaps shop intel and stakes; she rebuffs his intervention plan; the third-year match teased.
+
+<!-- walk: y2v12 ch2 → p.62 -->
+
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
@@ -9898,3 +9962,73 @@ walk: y1v1 → DONE
 [rel:hashimoto-masayoshi] (p.96–99) He brokers the calm with soothing words; he turns the bedding fight into something Kōenji-proof.
 
 <!-- walk: y2v11 ch3 → p.99 -->
+
+### y2v11 p.100–107 — Ch.4: The circle test at dawn
+[scene] (p.100) Before 6 a.m. on the second day; he slips away early to a quiet spot to avoid being seen; Horikita and Ibuki appear.
+[says:ibuki-mio] (p.100) “Yawn... I'm sleepy. And it's cold.”
+[says:ibuki-mio] (p.101) “You're kidding. I can't let you get revenge on your own.”
+[says:horikita-suzune] (p.100) “It seems she was happy to accept the rematch.”
+[note] (p.100–101) Amasawa agreed at once, but asked to move the rematch to the morning of the third day; Horikita refused; Amasawa gave in.
+[says:horikita-suzune] (p.100) “I asked for the morning of the fourth day as promised with you, but she negotiated to change it to the morning of the third day.”
+[says] (p.100) “If the other party has agreed despite the inconvenience, we should proceed as planned. We should not reduce the number of special training sessions.”
+[says] (p.101) “Yeah. There's only one more condition left. Promise to fight two against one if you judge it's difficult to win. Don’t hesitate.”
+[says] (p.101) “I'd like to sugarcoat it, but yeah, that's about it. I'm sorry, but the chances of beating Amasawa one-on-one are almost zero. I'm not going to go along with something that's just a waste of time.”
+[says] (p.102) “I won't move from here. And I'll only attack with my left hand.”
+[says] (p.103) “It's a kind of Aikido. The result won't change no matter how many times you try.”
+[says] (p.104) “Are you convinced now? How reckless it is to fight Amasawa one-on-one?”
+[says] (p.105) “If we talk about physical ability, if we treat you two as equals and give you a score of 50, then Amasawa would be 60, so a difference of about 10.”
+[note] (p.105) With technique counted, Amasawa is far ahead; the 50–60 physical scale is only a rough guide; he agrees to fight them two at a time.
+[says:ibuki-mio] (p.106) “I'll definitely make you use both hands tomorrow.”
+[note] (p.106–107) After exhausting them; Horikita is quietly encouraged (brother recognition); Ibuki stomps off grumbling; he walks back with Horikita.
+[rel:horikita-suzune] (p.100–107) He puts her through a one-handed Aikido lesson; she accepts the two-on-one condition.
+[rel:ibuki-mio] (p.100–107) He shrugs her off-hand Aikido tap on the back; she takes the defeat hard.
+
+### y2v11 p.107–109 — Ch.4: Breakfast being commandeered
+[scene] (p.107) Just before seven; Hashimoto and he head to the morning bath; first-years invite themselves along.
+[says:hashimoto-masayoshi] (p.107) “Yanagi, Kobayashi, Kozumi, let's go too!”
+[note] (p.107) Unrostered names Kobayashi and “Kozumi” are called; “Kozumi” is probably Kosumi Dan misspelled; unverified.
+[scene] (p.108) Hashimoto's group gathers over breakfast; half the talk is his; Morishita and Hiyori exchange a look.
+[says:morishita-ai] (p.108) “I don't really understand, but the boys’ unusual excitement... it's creepy.”
+[says:shiina-hiyori] (p.108) “Really? I thought it was kind of cute.”
+[note] (p.108) Rapid untagged Morishita–Hiyori exchange on whether they are “cute” or “creepy”; translation leaves the turn-taking unlabeled.
+[says:shiina-hiyori] (p.108) “Ayanokōji-kun, is something wrong?”
+[says] (p.108) “It's nothing. Don't worry about it.”
+[scene] (p.108) A first-year asks to join the bath again that night; AK agrees; the first-years bubble up again.
+[note] (p.108) Untaged first-year: “Ayanokōji-senpai! Can I join you in the bath again tonight!?” — speaker unlabeled; Kiyotaka agrees.
+[scene] (p.109) Kiryūin finishes her meal early; she leans on the table and mutters.
+[says:kiryuin-fuuka] (p.109) “In less than a day, you've tamed the first-year students so well. What kind of magic did you use?”
+[says] (p.109) “Honestly, I'm also confused. I haven't done anything special.”
+[says:kiryuin-fuuka] (p.109) “Do you intend to hide it from me too?”
+[says:hashimoto-masayoshi] (p.109) “Do you not get why your kōhais respect you?”
+[says:hashimoto-masayoshi] (p.109) “Sorry, but it's a secret between men. I can't tell you about it.”
+[says:hashimoto-masayoshi] (p.109) “We'll clean up. You don't have to worry about it, Senpai.”
+[says:hashimoto-masayoshi] (p.109) “Whether it's easy or hard to deal with, she's a difficult senpai to understand.”
+[says:kiryuin-fuuka] (p.109) “I appreciate the thought, but I can clean up after myself. Let's meet again at the next exchange meeting.”
+[note] (p.109) The first-year frenzy is credited to “that,” whatever it is; Kiryūin is satisfied by being shut out; “Fear?” is said without attribution.
+[rel:hashimoto-masayoshi] (p.107–109) He collects the boys for the bath; he runs breakfast; he plays the mysterious senpai.
+[rel:morishita-ai] (p.108) She calls the first-year excitement creepy.
+[rel:shiina-hiyori] (p.108) She finds it cute; her openness has grown.
+[rel:kiryuin-fuuka] (p.109) She probes; he won't tell; she leaves satisfied.
+
+### y2v11 p.110–113 — Ch.4: The sleepy princess on the sofa
+[scene] (p.110) After breakfast; she finds Sakayanagi alone on the lobby sofa; probed; the old smoke-and-mirrors conversation resumes.
+[says:sakayanagi-arisu] (p.110) “Good morning, Ayanokōji-kun.”
+[says] (p.110) “Good morning. You look a bit sleepy.”
+[says:sakayanagi-arisu] (p.110) “Yes. It seems I'm not good at sharing a room, so I couldn't sleep well. I decided to take a short break after I had a light meal.”
+[says:sakayanagi-arisu] (p.110) “Usually, I get eight hours of sleep a day. It seems I'll struggle for a few days.”
+[says:sakayanagi-arisu] (p.110) “Speaking of him, there's a strange rumor going around. Something about him betraying the class. I'd appreciate it if you could warn him to be careful.”
+[says] (p.112) “I understand. It's probably best to be suspicious right now.”
+[says] (p.110) “I don't think a warning would help.”
+[says] (p.111) “That's a bit different from the information I got. Hashimoto said you'd aim to win in any way.”
+[says:sakayanagi-arisu] (p.111) “You're not usually one to take things at face value, Ayanokōji-kun. It's probably just one of the excuses he used to have you scout me.”
+[says:sakayanagi-arisu] (p.111) “Certainly, right after Masumi-san left, there was unexpected damage. You know that too, Ayanokōji-kun. But, I won't dwell on it for long.”
+[says:sakayanagi-arisu] (p.111) “If there's a reason why I didn't do anything at this exchange meeting, it might be because I'm focusing on identifying someone who can become my new hands and feet.”
+[says:sakayanagi-arisu] (p.111) “The person I keep close to me must be someone I can trust as much as possible.”
+[says:kitou-hayato] (p.111) “...There doesn’t seem to be any problems.”
+[says:sakayanagi-arisu] (p.111) “There is no problem at all. Thank you for your concern.”
+[note] (p.110–113) She is focusing on finding a successor to Kamuro; Kitō remains loyal but is not trusted with it due to gender; Amasawa slides in and taunts her; Kitō restrains her.
+[rel:sakayanagi-arisu] (p.110–113) She probes whether he knows more; he shares nothing; he leaves before the noise draws eyes.
+[rel:kitou-hayato] (p.111–113) Kitō checks her from afar; he grabs Amasawa's wrist on her side.
+[rel:amasawa-ichika] (p.112–113) Amasawa waltzes in and taunts Sakayanagi; Kitō holds her back; she names the threat openly.
+
+<!-- walk: y2v11 ch4 → p.113 -->

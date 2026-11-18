@@ -271,6 +271,16 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 [note] (p.98) Recalled for a pillow fight with Ryūen on a school trip between sleeping spots.
 
 <!-- walk: y2v11 ch3 → p.99 -->
+
+### y2v11 p.111–113 — Ch.4: The knight at Sakayanagi's shoulder
+[scene] (p.111) He appears behind the Sakayanagi–Ayanokōji talk; scary-faced; checks her; Amasawa slides in; he grabs her wrist.
+[says] (p.111) “...There doesn’t seem to be any problems.”
+[says] (p.112) “Whether it's Ryūen or anyone else, I'll act if necessary. Of course, I won't choose the means to do so. Be prepared for that.”
+[note] (p.111–112) He scans her; he is her unmatched-loyalty guard; Amasawa's wrist is grabbed hard; he names the threat openly against her.
+[rel:sakayanagi-arisu] (p.111–113) He watches her back; she thanks him for the concern.
+[rel:amasawa-ichika] (p.112–113) He grabs her wrist; she jokes about it; he does not let go.
+
+<!-- walk: y2v11 ch4 → p.113 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

@@ -355,3 +355,19 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 [rel:ayanokouji-kiyotaka] (p.62–66) She reveals to him alone the advance notice; she smells the match before it starts.
 
 <!-- walk: y2v11 ch2 → p.84 -->
+
+### y2v11 p.112–113 — Ch.4: The sunshine taunt
+[scene] (p.112) She slides into the Sakayanagi–Ayanokōji exchange; she taunts the princess about losing three times; Kitō grabs her wrist.
+[says] (p.112) “Good morning!”
+[says] (p.112) “Being energetic is one of my strengths, you know.”
+[says] (p.112) “It seems like Ayanokōji-senpai has been winning all along, but... you lost three times on the first day, Arisu-senpai. I'm worried that you might be in a pinch already.”
+[says] (p.112) “Hmm? So if you lose, it can't be helped? I was hoping for a little bit of interaction with other years this time, as it's a valuable opportunity.”
+[says] (p.112) “You're bluffing. I've heard that you lost in the previous special exam and ended up at the bottom.”
+[says] (p.112) “What are you doing, Kitō-senpai? Isn't this something you should do to Ryūen-senpai or someone?”
+[says] (p.113) “You're like a knight protecting a princess, but it's interesting. I don't mind even if you're violent against a girl... Maybe I went too far with my joke.”
+[says] (p.113) “I'll play with you again next time. Please be ready to give it your all, Arisu-senpai!”
+[note] (p.112–113) She has done her homework on the second-years; she prods Sakayanagi; Kitō doesn't loosen his grip; she backs off.
+[rel:sakayanagi-arisu] (p.112–113) She teases her about the hidden command situation; Sakayanagi stays cool.
+[rel:kitou-hayato] (p.112–113) He restrains her wrist; she flirts with the danger.
+
+<!-- walk: y2v11 ch4 → p.113 -->
