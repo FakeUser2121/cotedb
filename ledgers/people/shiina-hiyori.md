@@ -514,6 +514,15 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 
 <!-- walk: y2v4 Epilogue → p.284 -->
 
+### y2v4 p.116–120 — Hiyori's six-person group at sunset
+[says] (p.116) "What? Isn't it Ayanokouji-kun?"
+[says] (p.116) "You look better than I thought."
+[says] (p.116) "Everyone has worked very hard. We have expanded our group to a maximum of six people."
+[says] (p.118) "I don't think there is anything to worry about, but you have to be careful."
+[says] (p.119) "It's a great idea!"
+[trait] (p.116–120) Notices Ayanokōji from afar and waves; merged her Class 2-B group with Ishizaki's to six members, providing the "brains" (though her physical capacity is low); doesn't ask his score — convinced he won't be expelled — and simply sits with him watching the sea; agrees he should camp with them.
+[rel:ayanokouji-kiyotaka] (p.116–118) Trusts he's safe; watches the sea with him and warns him to be careful.
+[rel:ishizaki-daichi] (p.116–119) Her group merged with his; she supports his invitation to Ayanokōji.
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

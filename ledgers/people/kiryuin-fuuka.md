@@ -46,6 +46,18 @@ char_id: kiryuin-fuuka · class: unknown · status: unknown
 
 <!-- walk: y2v4 Epilogue → p.284 -->
 
+### y2v4 p.261–273 — Kiryūin intervenes at I2
+[scene] (p.261) Appears during the 2-on-1 fight — had watched from behind a tree, deliberately broke her watch so her GPS wouldn't show her approach.
+[says] (p.261) "I wonder what the Acting Director and the classroom teacher do with a student in such a deserted place."
+[says] (p.262) "Actually, I've been watching you from behind the big tree for a while, but I couldn't take the two-on-one situation."
+[says] (p.263) "Of course. As your senpai, shouldn't it be normal for me to protect my kouhai?"
+[says] (p.263) "I'll tell you. I'll hold them for a minute or two at least."
+[says] (p.263) "Keep your fists up and try to create an atmosphere of tension."
+[says] (p.264) "I am a lady. What do you think?" — on whether she's hit anyone
+[trait] (p.261–273) Playful and bold — breaks her own watch to sneak up, appears to protect her "kouhai," holds Shiba (a "ridiculous level" fighter) through defense alone, and teases Ayanokōji into a fighting pose; afterward exhausted but proud.
+[rel:ayanokouji-kiyotaka] (p.261–272) Intervenes on his behalf, calls him "kouhai," and helps him win.
+[rel:shiba-katsunori] (p.263–270) Holds him off while Ayanokōji fights Tsukishiro.
+[rel:tsukishiro] (p.261) Confronts the acting director over fighting a student in a deserted place.
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

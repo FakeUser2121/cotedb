@@ -4172,6 +4172,19 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v4 Epilogue → p.284 -->
 
+### y2v4 p.55–59 — Horikita rejoins Ayanokōji; the Shinohara rescue plan
+[scene] (p.55) Reunites with Ayanokōji in F7 on day eight; heading to G8, she travels with him.
+[says] (p.56) "I'm heading to G8. I ended up passing through here on the way."
+[says] (p.56) "Is it really so hard for you to believe that I'm still in such good shape?"
+[says] (p.57) "I had no reason to do that; I had to prevent Shinohara-san from getting kicked out of school."
+[says] (p.57) "Shinohara-san's group ranking has been dropping lower and lower every day."
+[says] (p.57) "If worse comes to worst and we can't find another group for her to join, I'll take matters into my own hands."
+[says] (p.57) "I was lucky enough to secure first place in a Task that rewarded me with three additional spaces in my group."
+[says] (p.59) "Look who's talking. If you've really run low on food, then you ought to be a bit more pressed yourself."
+[trait] (p.55–59) In good shape (never in bottom ten), having won a Task granting three extra group slots; learned of the cliff incident from Sakayanagi and agreed to cooperate to save Shinohara; notes the spread of walkie-talkies among upper-year students and agrees to head to a food Task with him.
+[rel:ayanokouji-kiyotaka] (p.55–59) Reunites and coordinates the rescue; travel together.
+[rel:sakayanagi-arisu] (p.56) Was urged to meet her near the starting area and told of the retirements and Ayanokōji's plan.
+[rel:shinohara] (p.57) Seven from bottom; she fights to prevent her expulsion.
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

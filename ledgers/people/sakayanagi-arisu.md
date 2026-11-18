@@ -963,6 +963,15 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v4 Epilogue → p.284 -->
 
+### y2v4 p.276–278 — Sakayanagi's promise; 3rd place
+[says] (p.277) "Of course, Ryuuen-kun. Please tell me when the time comes."
+[says] (p.277) "I told him that if he asked me for a favor, I would grant it to him."
+[says] (p.277) "that wish is like strangling yourself in the near future."
+[says] (p.278) "I get it. Ayanokouji-kun now wants to lead a quiet life as much as possible."
+[says] (p.278) "Do not rush. We still have almost a year and a half of school life left."
+[trait] (p.276–278) Made a dangerous open-ended promise to Ryūen (a "favor" that may "strangle" the asker), which secured his help against Hōsen; placed 3rd with her seven-member group (261 pts), having kept her members clear of the dangerous assignments; thanks Ayanokōji and looks forward to a future rematch, telling him not to rush.
+[rel:ryuuen-kakeru] (p.276–277) Her promise bought his cooperation against Hōsen.
+[rel:ayanokouji-kiyotaka] (p.277–278) Thanks him for the GPS-timing help; promises a future chance to compete.
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

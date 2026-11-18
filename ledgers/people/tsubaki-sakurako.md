@@ -143,6 +143,20 @@ char_id: tsubaki-sakurako · class: Class 1-C · status: unknown
 
 <!-- walk: y2v4 Epilogue → p.284 -->
 
+### y2v4 p.127–139, 152–185 — Tsubaki's siege plan; its failure
+[scene] (p.127) On day nine, contacts Hōsen (via Nanase and an errand boy Katagiri with a walkie-talkie) to propose a plan to rescue the sinking first-year groups and expel Ayanokōji.
+[says] (p.131) "You already know that, right? Four of the last ten groups are freshmen."
+[says] (p.133) "The head, the brain." — her advantage over Hōsen
+[says] (p.135) "we are going to stay together as one in our grade, like all the other students in the upper grades."
+[says] (p.136) "The organizers of this test have made a proposal. They said they wouldn't mind bringing you down with an act of violence."
+[says] (p.137) "I will take responsibility for expelling him as the brain that gave instructions to the first graders."
+[says] (p.166) "It is not that my group has been caught, it is that I have caught the other group."
+[trait] (p.127–185) The mastermind — orchestrates the first-years' plan to save their own by sinking solo second/third-years (especially Ayanokōji), offering 500,000 points and relying on Hōsen as the violent one to make the first move; uses multiple GPS tablets (including one from Ayanokōji's box) and is willing to self-destruct (she and her group have points and half-price cards); on day 12 her GPS trap is countered and Hōsen is stopped by Ryūen — she realizes the plan was doomed from early on.
+[rel:housen-kazuomi] (p.127–168) Recruits him as the violent muscle; he only pretends to follow.
+[rel:utomiya-riku] (p.130–138) Her Class 1-C partner; keeps secrets from him.
+[rel:yagami-takuya] (p.141–159) Fellow plotter; offers "insurance" with reserve tablets.
+[rel:nanase-tsubasa] (p.132) Questions whether she's on their side; Nanase is secretly Ayanokōji's ally.
+[rel:ayanokouji-kiyotaka] (p.152–185) Her target; her siege is thwarted.
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

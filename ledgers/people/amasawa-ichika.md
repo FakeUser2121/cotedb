@@ -211,6 +211,35 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 
 <!-- walk: y2v4 Epilogue → p.284 -->
 
+### y2v4 p.5–7 — Prologue: Amasawa's monologue on the White Room
+[scene] (p.5) In her own monologue, reveals she is an IVF ("test-tube") baby brought into the White Room, with no knowledge of her parents.
+[narrates] (p.5) "I am one of those born from that very process. A human brought about through in vitro fertilization."
+[narrates] (p.5) "my existence runs in direct conflict with that of the White Room."
+[narrates] (p.6) "I personally concluded long ago that it's impossible to homogenize intellect, personality, and ethics."
+[narrates] (p.6) "Wouldn't that be like, you know, kinda pathetic? Wouldn't you want to live more freely?"
+[narrates] (p.6) "Ayanokōji Kiyotaka. The being whose preeminent success stood out from the rest of the White Room."
+[narrates] (p.7) "However, I'm sorry Senpai. I really want to take your side, but that's just not how fate is going to play out."
+[narrates] (p.7) "As one of your faithful admirers, I'll be looking on from a distance once 'that time' finally comes."
+[trait] (p.5–7) Proud of being different, secretly questions the White Room's purpose (it seeks to prove ability comes from environment, not genetics — her existence refutes it), and admires Ayanokōji from afar; resolved not to devote her life to the facility's ideals; hints she has aligned with people she's known much longer (not Ayanokōji), despite admiring him.
+[rel:ayanokouji-kiyotaka] (p.6–7) She idolizes him but says fate prevents her from taking his side.
+
+### y2v4 p.8–21 — Amasawa confronts Ayanokōji in the storm; reveals she is the White Room student
+[scene] (p.8) Appears behind Ayanokōji and Nanase in the rain, red hair swaying, holding a whittled wooden stick — having tracked them (same Table or GPS relay).
+[says] (p.8) "Seems it's gonna really start coming down, huh Sen~pai?"
+[says] (p.9) "Oh? Nanase-chan, shouldn't you be happy to see me? How aw~fully cold you are to a dear companion from your very own group."
+[says] (p.9) "I'm super-duper cute~!"
+[says] (p.11) "Ahaha, so I was seen after all."
+[says] (p.12) "I can swear it, sure, but it doesn't really matter whether I keep my word or not, right?"
+[says] (p.13) "Ding ding ding~ Correct~! Whether intentionally done or not, a broken watch is a broken watch."
+[says] (p.16) "Well there's no way I could do that. It has to do with the White Room, after all~"
+[says] (p.18) "It's cuz I wanted to tell you that I'm not your enemy, Senpai."
+[says] (p.18) "they chose the wrong person. They didn't predict that I was but a young maiden who secretly idolized you."
+[says] (p.19) "You've gotta talk with them and meet face-to-face before your admiration starts to feel justified."
+[note] (p.20) Dismisses the idea that anyone else in her generation would have been won over — she alone idolized him.
+[says] (p.20) "So please, don't go and get yourself crushed without my permission, okay?"
+[trait] (p.8–21) Playful, evasive and theatrical (tosses the stick down as a "good faith" show), admits to watching them but not to pushing Komiya/Kinoshita; reveals White Room-only knowledge to prove her identity (his childhood curricula, the pure-white facility) and claims she intends to admire him, not destroy him — her true allegiance and motive remain ambiguous; brushes his cheek and departs with a cryptic warning.
+[rel:ayanokouji-kiyotaka] (p.8–21) Reveals herself as the White Room student, claims to admire him and not be his enemy.
+[rel:nanase-tsubasa] (p.9–16) Spars with her, who accuses her of the cliff attack; calls her an "outsider" and a "loyal dog."
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

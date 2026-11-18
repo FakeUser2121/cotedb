@@ -185,6 +185,17 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 
 <!-- walk: y2v4 Epilogue → p.284 -->
 
+### y2v4 p.168–183 — Hōsen's trap and his brutal fight with Ryūen
+[scene] (p.167) Pretends to follow Tsubaki's instructions to surround Ayanokōji, intending instead to attack him directly; but Ayanokōji anticipated it (via Nanase), and Ryūen intercepts.
+[says] (p.168) "Housen."
+[says] (p.168) "I know Nanase came to see you to gently warn you."
+[says] (p.169) "That's my line, Housen. You have nothing to do here, do you?" — Ryūen
+[trait] (p.168–183) Walks into Ryūen's trap — a fierce brawler who dominates the one-on-one exchange with overwhelming punches (Ryūen's Warning then Emergency Alert sounds), but is outmaneuvered when Ishizaki and Albert (with broken/disabled GPS so unseen) restrain him, turning it into a 3-on-1 beating; stripped of his confidence (Ryūen calls him a "shitty little fish" who can't fight alone in a real fight), he loses consciousness and retires with Ryūen.
+[rel:ryuuen-kakeru] (p.168–183) His rival — Ryūen stops him from reaching Ayanokōji and defeats him with a setup; both retire together.
+[rel:tsubaki-sakurako] (p.167–168) Pretends to follow her plan; drops out of her network when he makes his move.
+[rel:nanase-tsubasa] (p.168) His classmate; her warning was secretly Ayanokōji's tip-off.
+[rel:ishizaki-daichi] (p.177) Restrains him from behind; part of the 3-on-1 trap.
+[rel:yamada-albert] (p.177) Restrains his dominant arm — a man stronger than Ryūen himself.
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

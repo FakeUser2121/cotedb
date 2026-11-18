@@ -454,6 +454,31 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 <!-- walk: y2v4 Epilogue → p.284 -->
 
+### y2v4 p.8–26 — Nanase guards Ayanokōji; accuses Amasawa
+[says] (p.9) "Please get behind me, Senpai."
+[says] (p.9) "You─ cannot be trusted."
+[says] (p.10) "Please don't listen to her, she's dangerous."
+[says] (p.10) "While you were gone, I noticed that someone had been watching us from nearby, so I tried chasing after them."
+[says] (p.11) "Back then, the one watching us from the shadows was you, wasn't it Amasawa-san?"
+[says] (p.11) "You also hurt Komiya-senpai and Kinoshita-senpai, didn't you?"
+[says] (p.11) "I don't believe you. Not at all."
+[says] (p.15) "What's with this, Nanase-chan?" — Amasawa; Nanase responds
+[says] (p.15) "You were about to lay your hands on Ayanokōji-senpai, weren't you?"
+[says] (p.25) "Senpai, let's do a GPS Search right now!"
+[trait] (p.8–26) Fiercely protective of Ayanokōji (having become his ally), steps in front of him and grabs Amasawa's arm; correctly identifies Amasawa as the earlier watcher (saw her hair) and suspects her of the cliff attack, though Ayanokōji notes the evidence is only circumstantial; remains "loyal dog" devoted to him.
+[rel:ayanokouji-kiyotaka] (p.8–26) Now his ally — guards him from Amasawa.
+[rel:amasawa-ichika] (p.9–25) Accuses her of watching them and pushing Komiya/Kinoshita; sharp, suspicious exchanges.
+
+### y2v4 p.120–122 — Nanase's midnight warning about the day-12 plot
+[says] (p.120) "It's me, Nanase."
+[says] (p.120) "I'm fine; I was in I9 like you. In fact, I even saw you from afar at night, but since I was working with Housen-kun, so I decided to avoid contact."
+[says] (p.120) "Housen-kun told me that on the twelfth day, the first years will make a great play on Ayanokouji-senpai."
+[says] (p.121) "I don't know, but Tsubaki was the main person I spoke to on the walkie-talkie."
+[says] (p.122) "Yes, I'll let you know if there is more important news."
+[trait] (p.120–122) Risks sneaking to his tent at 2:30 a.m., terrified, to pass on intelligence — the first-years (led by Tsubaki via walkie-talkie) plan to force his withdrawal on day twelve; explains the errand-boy contact and Hōsen's feigned cooperation; agrees to keep him informed but is told to stop helping him.
+[rel:ayanokouji-kiyotaka] (p.120–122) Warns him of the plot at personal risk; he sends her away so she won't be exposed.
+[rel:housen-kazuomi] (p.120–121) Only pretending to cooperate with the first-years; Hōsen told her about the day-12 plan.
+[rel:tsubaki-sakurako] (p.121) The main contact on the walkie-talkie.
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

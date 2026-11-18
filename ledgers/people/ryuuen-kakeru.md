@@ -2099,6 +2099,22 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v4 Epilogue → p.284 -->
 
+### y2v4 p.168–183 — Ryūen stops Hōsen; retires with him
+[scene] (p.168) Intercepts Hōsen as he moves to attack Ayanokōji, having agreed to help after Ayanokōji explained the threat.
+[says] (p.169) "That's my line, Housen. You have nothing to do here, do you?"
+[says] (p.175) "Wait. You think you've won."
+[says] (p.176) "The game is not over yet."
+[says] (p.176) "If so, will you quit after all?"
+[says] (p.178) "It's a simple story. If you break your watch, the GPS won't recognize it."
+[says] (p.179) "I'm not stupid enough to fight a gorilla"
+[says] (p.179) "the last man standing is the winner."
+[says] (p.180) "It's just camaraderie" — on Albert
+[says] (p.182) "But he's a great guy."
+[trait] (p.168–183) Fights Hōsen one-on-one first (taking a brutal beating, his watch hitting Emergency Alert, deliberately not turning it off to play the victim), then springs the trap — Ishizaki and Albert, with disabled GPS, restrain Hōsen for a 3-on-1 beating; refuses to face the "gorilla" fairly ("I'm not stupid enough"), wins by any means, then retires with the unconscious Hōsen to protect Ayanokōji.
+[rel:housen-kazuomi] (p.168–183) He stops and defeats him, then retires with him.
+[rel:ayanokouji-kiyotaka] (p.162–183) Agreed to help after learning the threat; retires to protect his exam standing.
+[rel:yamada-albert] (p.177–181) Kind-hearted, stronger than Ryūen, follows him out of camaraderie — restrains Hōsen.
+[rel:ishizaki-daichi] (p.177) Restrains Hōsen's other arm.
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

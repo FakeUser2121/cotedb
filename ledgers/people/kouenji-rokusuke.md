@@ -847,6 +847,31 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y2v4 Epilogue → p.284 -->
 
+### y2v4 p.99–115 — Kōenji vs the third-year "Free Groups" siege
+[scene] (p.99) Besieged on day eleven by Kiriyama's group plus six "Free Groups" (15 third-years) mobilized by Nagumo to stop his top-stREAK; he's caught sleeping in broad daylight (from exhaustion).
+[says] (p.103) "I'm sure you will agree. I am a human being like you."
+[says] (p.104) "Take the day off? That's kind of funny."
+[says] (p.104) "My physical strength has already recovered perfectly. I don't want you to talk about me as a normal person."
+[says] (p.104) "I have a very short dream. I have an extremely low REM phase."
+[says] (p.106) "I'm not one to accept advice, Kiriyama."
+[says] (p.111) "I don't obey anyone."
+[says] (p.111) "It is not a pretty situation. I don't like male sexuality."
+[says] (p.112) "I have no intention of showing mercy to those who prevent me from moving forward."
+[says] (p.114) "You are a real monster." — Mikitani; Kōenji breaks their spirits
+[trait] (p.99–115) Effortlessly evades the encirclement — reveals he has an extremely short REM sleep phase (recovering fully in naps), outruns the third-years in a sprint, and when they physically try to block him, simply walks through them ("as if a large rock was slowly crashing into him"), making Morooka fake a broken arm; breaks all 18 pursuers' fighting spirit without throwing a single punch, then leaves — Kiriyama realizes that making the third-years look like no big deal was exactly what Kōenji intended.
+[rel:kiriyama] (p.104–115) Recognizes him as one of only two (with Nagumo) who can stop Kōenji; calmly analyzes his "super short sleep."
+[rel:mikitani] (p.103–115) The third-year who confronts him, demands he stay put, and is humiliated when Kōenji walks through him.
+[rel:nagumo-miyabi] (p.95–109) Nagumo (behind the siege) was "very disappointed" at the failure.
+
+### y2v4 p.281–282 — Kōenji wins first place alone
+[scene] (p.281) Announced 1st place with 327 points (just 2 ahead of Nagumo) — the only group to win alone, hailed by all students.
+[says:horikita-suzune] (p.281) "You really have done it, Kouenji-kun."
+[says] (p.281) "I'm sure you understand, right?"
+[says] (p.282) "Yes, that's right. Now let's go up again."
+[says] (p.282) "... Do not say foolishness." — Horikita
+[trait] (p.281–282) Wins first alone under the harshest conditions, gaining 300 class points, 1 million private points and a Protection Point; as promised he's granted immunity until graduation ("do whatever he wanted"); remains utterly self-focused, already talking of ascending again, while Horikita celebrates the 300 points toward reaching Class A and warns him not to cause trouble this month.
+[rel:horikita-suzune] (p.281–282) His class leader — their deal grants him freedom; she celebrates the class points but rebukes his "foolishness."
+[rel:nagumo-miyabi] (p.281) Beat him by 2 points.
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
