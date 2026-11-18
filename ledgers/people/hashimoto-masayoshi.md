@@ -915,18 +915,26 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 
 <!-- walk: y2v9 Ch.5 → p.151 -->
 
+### y2v9.5 p.80–81, 189–203 — Hashimoto: eavesdropping and probing Ayanokōji
+[scene] (p.80–81) He tells Kamuro he eavesdropped on Class 2-D's discussion of Ayanokōji, concluding Horikita is not really the core of Class B and that Ayanokōji can make ruthless decisions.
+[says] (p.80) "Horikita isn't the core of Class B after all."
+[scene] (p.189–203) In the new-year group outing with Hiyori, Kamuro and Kitō, he teases Hiyori, tries to hit on her, then questions Ayanokōji about whether he will ditch Kei for her and whether he is Class B's "true leader," and proposes Class A headhunt him.
+[says] (p.200) "So, do you plan to ditch Karuizawa and switch to Shiina?"
+[says] (p.202) "Show us, Ayanokōji. If you prove your strength to us in Class A, we'll use..."
+[trait] (p.80–203) Nosy and provocative — he gathers intel on rivals and openly tests Ayanokōji's loyalties and strength, acting as Class A's mood-maker/instigator.
+[rel:kamuro-masumi] (p.80–203) His partner in eavesdropping and the outing; she repeatedly rebukes him.
+[rel:ayanokouji-kiyotaka] (p.192–203) Probes his relationship and strength; proposes headhunting him to Class A.
+[rel:shiina-hiyori] (p.197–198) Hits on her; she is unfazed.
+
+<!-- walk: y2v9.5 Epilogue → p.203 -->
+
 
 
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
 
-### y2v9.5 pp.10-219 — Full volume
 
-[scene] (p.10) Appears in this volume.
-
-
-<!-- walk: y2v9.5 Epilogue → p.219 -->
 
 ## y2v10
 

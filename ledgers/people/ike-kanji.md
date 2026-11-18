@@ -1260,18 +1260,23 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y2v9 Ch.5 → p.142 -->
 
+### y2v9.5 p.66–78 — Ike: defending Ayanokōji in the class meeting
+[scene] (p.66–78) At Maezono's gathering he defends Ayanokōji as no troublemaker, insists he isn't just gloomy since he dates Karuizawa, and even offers to test his fighting ability with a sneak attack; Shinohara and Maezono shoot him down.
+[note] (p.71) He studies the displayed OAA with a serious expression.
+[says] (p.76) "Who knows? I'm pretty confident in my fighting skills."
+[trait] (p.66–78) Loyal and defensive of Ayanokōji, but his bluster about fighting is exposed as empty.
+[rel:ayanokouji-kiyotaka] (p.68–76) Defends him against the group's suspicion.
+[rel:shinohara-satsuki] (p.76) She tells him to sit down, exasperated by his posturing.
+
+<!-- walk: y2v9.5 Ch.4 → p.78 -->
+
 
 
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
 
-### y2v9.5 pp.10-219 — Full volume
 
-[scene] (p.10) Appears in this volume.
-
-
-<!-- walk: y2v9.5 Epilogue → p.219 -->
 
 ## y2v10
 

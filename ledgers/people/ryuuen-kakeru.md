@@ -2271,12 +2271,21 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v9.5 → start -->
 
-### y2v9.5 pp.10-219 — Full volume
+### y2v9.5 p.113–128 — Ryūen: the summoned meeting on the third-term exam
+[scene] (p.113–117) He abruptly calls Ayanokōji and Katsuragi out to Keyaki Mall — ordering Ayanokōji to postpone his plans — and tears into a cake when they arrive, brushing off the suggestion that he apologize.
+[says] (p.113) "Hey, answer it faster when I call."
+[says] (p.116) "Shouldn't you apologize to Ayanokōji at least?"
+[scene] (p.117–128) He reveals he heard from third-years that a big, risky exam looms at the start of the third term; he wants a one-on-one shot at Sakayanagi in the final exam rather than a class vote, and parts telling Ayanokōji their match is in the third year.
+[says] (p.121) "In the next special exam, if the rules allow a one-on-one battle, I'll take on..."
+[says] (p.128) "Our match will be in the third year. Don't forget that."
+[trait] (p.113–128) Pushy and aggressive as ever — self-centered in his summons, dismissive of etiquette, and intent on humiliating Sakayanagi directly.
+[rel:katsuragi-kouhei] (p.113–128) His lieutenant, whom he also summons; they debate strategy.
+[rel:ayanokouji-kiyotaka] (p.113–128) Calls him out and reminds him of their pending match.
+[rel:sakayanagi-arisu] (p.121–122) Wants to defeat her personally in the final exam.
 
-[scene] (p.10) Appears in this volume.
+<!-- walk: y2v9.5 Ch.5 → p.128 -->
 
 
-<!-- walk: y2v9.5 Epilogue → p.219 -->
 
 ## y2v10
 

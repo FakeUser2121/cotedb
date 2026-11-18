@@ -1120,18 +1120,21 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v9 Epilogue → p.202 -->
 
+### y2v9.5 p.211–216 — Sakayanagi's new-year resolve (POV)
+[scene] (p.211–216) In her own viewpoint she follows reports of Ayanokōji leaving the dorms with Hiyori, notes Karuizawa and Kamuro also tailing him, and reflects that she never expected to feel something for anyone — she recognises his ability and resolves to defeat him to prove her own talent.
+[note] (p.211–216) This is Sakayanagi's interior monologue (her POV); no line is quoted as spoken.
+[trait] (p.211–216) Cold, competitive and self-aware — she admits a rare emotion toward Ayanokōji and turns it into a goal to beat him.
+[rel:ayanokouji-kiyotaka] (p.211–216) She has him followed and resolves to defeat him.
+
+<!-- walk: y2v9.5 Postscript → p.216 -->
+
 
 
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
 
-### y2v9.5 pp.10-219 — Full volume
 
-[scene] (p.10) Appears in this volume.
-
-
-<!-- walk: y2v9.5 Epilogue → p.219 -->
 
 ## y2v10
 

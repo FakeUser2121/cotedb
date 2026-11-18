@@ -1878,18 +1878,25 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v9 Ch.2 → p.71 -->
 
+### y2v9.5 p.66–78 — Sudō: defending Ayanokōji's ability in the class meeting
+[scene] (p.66–78) At Maezono's secret gathering he reveals he once fought Ayanokōji and lost, argues his physical ability and speed exceed even his own, and defends the Sakura expulsion as an unavoidable decision; his classmates notice how much more mature his speech has become.
+[says] (p.74) "You guys saw it too, right? Ayanokōji's speed in the relay race. He's faster..."
+[says] (p.75) "If I can beat him in anything, it's probably just basketball. And even then..."
+[says] (p.78) "I mean, if it was the previous Sudō-kun, you wouldn't have been able to say..."
+[trait] (p.66–78) Candid and fair — he acknowledges Ayanokōji's superiority without jealousy and has matured enough to reason about his decisions and notice others' growth.
+[rel:ayanokouji-kiyotaka] (p.74–75) Lost a fight to him; credits his speed and overall ability.
+[rel:onodera] (p.78) Onodera agrees that his speech has matured and looks pleased on his behalf.
+[rel:maezono] (p.78) Discusses whether Ayanokōji should lead the class.
+
+<!-- walk: y2v9.5 Ch.4 → p.78 -->
+
 
 
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
 
-### y2v9.5 pp.10-219 — Full volume
 
-[scene] (p.10) Appears in this volume.
-
-
-<!-- walk: y2v9.5 Epilogue → p.219 -->
 
 ## y2v10
 

@@ -119,12 +119,17 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 
 <!-- walk: y2v9.5 → start -->
 
-### y2v9.5 pp.10-219 — Full volume
+### y2v9.5 p.128–129 — Yamamura: tailing Ayanokōji
+[scene] (p.128–129) Ayanokōji catches her hiding in a blind spot near a vending machine; she admits, by silence, that she has been following him for about ten minutes — and the day before as well — but he tells her Ryūen and Katsuragi did not notice.
+[says] (p.128) "What are you doing in a place like that?"
+[says] (p.129) "Really? I felt like Ryūen-kun was trying to lure me out..."
+[trait] (p.128–129) Stealthy and anxious — she tails him out of concern about Ryūen's trap and is flustered at being caught.
+[rel:ayanokouji-kiyotaka] (p.128–129) She follows him; he calls her out gently.
+[rel:ryuuen-kakeru] (p.129) She fears he was trying to lure Ayanokōji out.
 
-[scene] (p.10) Appears in this volume.
+<!-- walk: y2v9.5 Ch.5 → p.129 -->
 
 
-<!-- walk: y2v9.5 Epilogue → p.219 -->
 
 ## y2v10
 

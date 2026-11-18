@@ -376,12 +376,20 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 
 <!-- walk: y2v9.5 → start -->
 
-### y2v9.5 pp.10-219 — Full volume
+### y2v9.5 p.15–23 — Mashima: gym training, and a favor to investigate Akiyama
+[scene] (p.15–19) At the gym he is pleased to find Ayanokōji is now a member, shows him his bench-press routine (80–100 kg, using safety bars), trains absorbed for two hours and accepts Ayanokōji's advice to stop.
+[says] (p.15) "Hm? Ayanokōji? Are you a gym member too?"
+[says] (p.16) "When doing bench presses, never forget these safety bars."
+[scene] (p.19–23) In the break room he asks Ayanokōji to investigate a gym employee, Akiyama — whether she has a boyfriend, her type and hobbies — explaining he dismissed Hoshinomiya and Chabashira as too flirtatious/serious and picked Ayanokōji as discreet and trustworthy.
+[says] (p.21) "I want you to investigate her. As carefully and discreetly as possible."
+[says] (p.22) "You're the only one who goes to the gym, remains discreet, and seems trustworthy."
+[trait] (p.15–23) Cheerful and dedicated to training but secretly smitten — he delegates a discreet Investigation rather than confess himself, showing a calculating side behind the simple enthusiasm.
+[rel:ayanokouji-kiyotaka] (p.15–23) Gym buddy whom he trusts with a personal favor.
+[rel:akiyama] (p.20–23) The gym employee he is interested in; asks Ayanokōji to investigate her.
 
-[scene] (p.10) Appears in this volume.
+<!-- walk: y2v9.5 Ch.2 → p.23 -->
 
 
-<!-- walk: y2v9.5 Epilogue → p.219 -->
 
 ## y2v10
 

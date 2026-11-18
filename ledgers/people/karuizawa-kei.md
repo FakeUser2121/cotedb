@@ -1794,12 +1794,51 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v9.5 → start -->
 
-### y2v9.5 pp.10-219 — Full volume
+### y2v9.5 p.11–13, 106 — Kei: bedridden with the flu
+[scene] (p.11–13) On Christmas Eve Ayanokōji tries to call her; after an hour she calls back, coughing, with one word — "Influenza." She had wanted to keep the 24th promise even crawling, but he urges her to rest and reschedule; he confirms a friend has bought her everything she needs.
+[says] (p.12) "Influenza."
+[scene] (p.106) Satō calls to check on her; Kei has recovered and gone out, and Satō is relieved.
+[trait] (p.11–13, 106) Dependent and eager to keep promises — sick as she is she still wants to meet, but she accepts rest.
+[rel:ayanokouji-kiyotaka] (p.11–13) Reschedules their Christmas promise with him.
+[rel:satou-maya] (p.106) Her best friend checks on her flu.
 
-[scene] (p.10) Appears in this volume.
+<!-- walk: y2v9.5 Ch.2 → p.13 -->
+
+### y2v9.5 p.123–126 — Kei: venting to Satō over the "cold war"
+[scene] (p.123–126) At Keyaki Mall she thanks Satō for coming out, admits she told Ayanokōji she is better and they agreed to talk about their promise, but worries he may have started liking Ichinose.
+[says] (p.124) "Kiyotaka might actually have started to like Ichinose-san."
+[says] (p.124) "It can be serious for some people, you know."
+[scene] (p.125–126) Satō takes her hand to make her forget the unpleasant things; Kei calls her a truly good friend.
+[trait] (p.123–126) Still insecure about Ichinose despite the recovery — she needs reassurance and leans on Satō.
+[rel:satou-maya] (p.125) Grabs her hand; calls her a "truly good friend."
+[rel:ayanokouji-kiyotaka] (p.124) Fears he now likes Ichinose.
+
+<!-- walk: y2v9.5 Ch.5 → p.126 -->
+
+### y2v9.5 p.150–157 — Kei: Christmas date, necklace and reconciliation
+[scene] (p.150–152) On their rescheduled date she meets Ayanokōji at Keyaki Mall, still awkward after three weeks apart, and apologizes for the misunderstanding; he gives her the Christmas present — the necklace she had searched for repeatedly.
+[says] (p.150) "It's been a while..."
+[says] (p.152) "Did I tell you, Kiyotaka, that I wanted this...!?"
+[scene] (p.152–155) Overjoyed, she asks to go back to the way things were, asks if she can really trust him, puts on the necklace and wraps her arms around him.
+[says] (p.155) "So, it's really okay to… go back to the way things were?"
+[says] (p.155) "It's really, really okay to trust you, right?"
+[scene] (p.156–157) They head to karaoke; when Yamamura appears at the vending machines Kei links arms with him again, wanting meals, baths and sleep together as before.
+[trait] (p.150–157) Emotionally starved by the cold war — the necklace and his reassurance restore her completely; she is openly affectionate and wants their old closeness back.
+[rel:ayanokouji-kiyotaka] (p.150–157) Reconciles fully; accepts the necklace and asks to return to normal.
+[rel:shiranami-chihiro] (p.157) Spots her eavesdropping near the vending machine with a hand towel.
+
+<!-- walk: y2v9.5 Ch.6 → p.157 -->
+
+### y2v9.5 p.184–185 — Kei: anxious before his "one day" outing
+[scene] (p.184–185) She clings to him, anxious about the day-long condition he set ("only for today"), and demands a kiss before letting him go.
+[says] (p.184) "Make sure you come back by tonight, okay?"
+[says] (p.185) "Then give me a kiss!"
+[trait] (p.184–185) Possessive and anxious — still shaken by the Ichinose rumors, she needs reassurance before letting him out alone.
+[rel:ayanokouji-kiyotaka] (p.184–185) Reluctantly lets him go for the day.
+
+<!-- walk: y2v9.5 Epilogue → p.185 -->
 
 
-<!-- walk: y2v9.5 Epilogue → p.219 -->
 
 ## y2v9.75
 

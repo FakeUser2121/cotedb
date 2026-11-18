@@ -219,12 +219,17 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 
 <!-- walk: y2v9.5 → start -->
 
-### y2v9.5 pp.10-219 — Full volume
+### y2v9.5 p.66–77 — Matsushita: in on Maezono's Ayanokōji meeting
+[scene] (p.66–77) She attends Maezono's secret gathering, nods along as the group questions whether Ayanokōji is really just a gloomy classmate, and sides with Maezono in challenging Ike's defense of him.
+[says:maezono] (p.66) "Ahem, thank you everyone for gathering today."
+[says] (p.69) "Lately, you've been talking to Ayanokōji a lot, haven't you? When did you..."
+[trait] (p.66–77) A participant in the class's attempt to understand Ayanokōji; she notes his changed interactions and presses Ike on his closeness to him.
+[rel:maezono] (p.66) Attends the meeting she called.
+[rel:ike-kanji] (p.69) Questions his recent frequent contact with Ayanokōji.
 
-[scene] (p.10) Appears in this volume.
+<!-- walk: y2v9.5 Ch.4 → p.77 -->
 
 
-<!-- walk: y2v9.5 Epilogue → p.219 -->
 
 ## y2v10
 
