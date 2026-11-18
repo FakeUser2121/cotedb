@@ -89,3 +89,6 @@ char_id: kiriyama · class: student council · status: vice president (y2v2)
 [rel:nagumo-miyabi] (p.47–48) Now his ally — took his Class A ticket and follows his rules.
 [rel:kiryuin-fuuka] (p.43–45) Old rival who needles him at the pool; he tries to escape her.
 [rel:horikita-manabu] (p.47) His name hardens Kiriyama's face — Ayanokōji invokes the old entrustment.
+
+<!-- walk: y2v4.5 ch2 → p.72 -->
+

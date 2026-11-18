@@ -874,6 +874,9 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [rel:ryuuen-kakeru] (p.121–126) Defends following him as the class's chosen leader, but worries about the class's cohesion.
 [rel:shiina-hiyori] (p.124–127) Rebukes her judgment; eventually voices his real concerns.
 [rel:sakayanagi-arisu] (p.125) Compares her cohesive class to Ryūen's.
+
+<!-- walk: y2v4.5 ch4 → p.158 -->
+
 ## y2v5
 
 <!-- walk: y2v5 → start -->

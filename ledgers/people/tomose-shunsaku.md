@@ -30,7 +30,7 @@ char_id: tomose-shunsaku · role: Illustrator · status: minor
 ### y2v4.5 p.3 — Translator credit only; no story presence
 [note] (p.3) "Illustrations by Tomoseshunsaku" — appears on the title page only; no character presence anywhere in the volume (corpus searched). Zero-finding record.
 
-<!-- walk: y2v4.5 ch5 → p.216 -->
+<!-- walk: y2v4.5 coverage → p.290 -->
 
 
 

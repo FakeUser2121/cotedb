@@ -1212,6 +1212,20 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v4.5 ch1 → p.35 -->
 
+### y2v4.5 p.73–89 — Lunch with Ayanokōji on the stern deck; the Ryūen bargain
+[scene] (p.78–85) Ayanokōji eats his rice ball alone on the stern deck when Sakayanagi appears — she read his pattern: the crowded bow deck, the snacks, the ocean. She asks after the exam's aftermath, tells him Ichinose came to apologize for the last day ("B-but…"), and, impulsively, talks about Hesse and "Beneath the Wheel."
+[says] (p.78) “It was a coincidence. Or so I would like to say, but I've been chasing after you, Ayanokōji-kun.”
+[says] (p.86) “Fufufu, it's in my nature after all.”
+[says] (p.88) “I was aiming for third place, but one of my rivals in the final stages was Ryūen-kun's group. He was only in a small group of two with Katsuragi-kun, but he showed exceptional tenacity.”
+[says] (p.89) “I haven't paid a single point, and I don't plan to in the future either.”
+[says] (p.89) “It sounds like a riddle, but I can't tell even you the details right now, Ayanokōji-kun. This is an agreement made between him and myself.”
+[note] (p.88–89) She concedes the consideration is deliberately vague — "an agreement made between him and myself"; not private points; she expects it to strangle him eventually; whether anyone else knows is unknown.
+[note] (p.85–87) She warns him the White Room students are still around and he has now "also got to deal with the third-years" — and that she already knows he's being watched by the third-years from a short glance at the situation.
+[rel:ryuuen-kakeru] (p.85–89) She made Ryūen fight Hōsen to secure her third place; he readily complied at considerable hidden cost to himself.
+[mentioned] (p.74) Ayanokōji spots her on the bow deck with Sakayanagi-from-Class-A's name in the lunch crowd.
+
+
+
 ### y2v4.5 p.78–85 — Sakayanagi: lunch with Ayanokōji; Ichinose's apology
 [says] (p.78) "It was a coincidence. Or so I would like to say, but I've been chasing after you, Ayanokōji-kun."
 [says] (p.79) "Have you heard of 'Beneath the Wheel'?"
@@ -1227,19 +1241,6 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [trait] (p.78–85) Deductively follows Ayanokōji to his quiet spot, chases him purely to talk (considerate of his image); philosophizes about true genius and Hesse, catches her hat; recounts forgiving Ichinose ("punishing" her with tea) and observes that even the "good" Ichinose frightens people — Sakayanagi sees herself as different from both.
 [rel:ayanokouji-kiyotaka] (p.78–81) Follows and talks with him; shares a quiet, thoughtful moment.
 [rel:ichinose-honami] (p.81–85) Forgave her apology; finds her honest, "scary," and hard to describe.
-
-### y2v4.5 p.73–89 — Lunch with Ayanokōji on the stern deck; the Ryūen bargain
-[scene] (p.78–85) Ayanokōji eats his rice ball alone on the stern deck when Sakayanagi appears — she read his pattern: the crowded bow deck, the snacks, the ocean. She asks after the exam's aftermath, tells him Ichinose came to apologize for the last day ("B-but…"), and, impulsively, talks about Hesse and "Beneath the Wheel."
-[says] (p.78) “It was a coincidence. Or so I would like to say, but I've been chasing after you, Ayanokōji-kun.”
-[says] (p.86) “Fufufu, it's in my nature after all.”
-[says] (p.88) “I was aiming for third place, but one of my rivals in the final stages was Ryūen-kun's group. He was only in a small group of two with Katsuragi-kun, but he showed exceptional tenacity.”
-[says] (p.89) “I haven't paid a single point, and I don't plan to in the future either.”
-[says] (p.89) “It sounds like a riddle, but I can't tell even you the details right now, Ayanokōji-kun. This is an agreement made between him and myself.”
-[note] (p.88–89) She concedes the consideration is deliberately vague — "an agreement made between him and myself"; not private points; she expects it to strangle him eventually; whether anyone else knows is unknown.
-[note] (p.85–87) She warns him the White Room students are still around and he has now "also got to deal with the third-years" — and that she already knows he's being watched by the third-years from a short glance at the situation.
-[rel:ryuuen-kakeru] (p.85–89) She made Ryūen fight Hōsen to secure her third place; he readily complied at considerable hidden cost to himself.
-[mentioned] (p.74) Ayanokōji spots her on the bow deck with Sakayanagi-from-Class-A's name in the lunch crowd.
-
 
 <!-- walk: y2v4.5 ch3 → p.95 -->
 

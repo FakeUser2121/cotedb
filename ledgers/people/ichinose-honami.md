@@ -1821,6 +1821,9 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [trait] (p.81–85) Deeply remorseful over her last-day departure (leaving the group for Ayanokōji), bows deeply to Sakayanagi, and accepts her "punishment" of afternoon tea without complaint; Sakayanagi notes her total lack of resentment despite past humiliation, and that her honest "goodness" can unsettle people.
 [rel:sakayanagi-arisu] (p.82–83) Apologizes to her; accepts her unusual "punishment."
 [rel:ayanokouji-kiyotaka] (p.81) Her selfish last-day act was to leave her group to warn him.
+
+<!-- walk: y2v4.5 ch3 → p.95 -->
+
 ### y2v4.5 p.151–158 — Nagumo reveals Karuizawa; her smile cracks
 [scene] (p.151–158) Waiting at the agreed spot, she talks bank strategy with him; pulls her face close to whisper her reply about the exam; Nagumo appears behind them and informs her, gently, that Ayanokōji and Karuizawa are dating — "You're free to think what you like about my methods. But I haven't even gotten started yet, you know?" (p.155).
 [says] (p.151) “Yeah. We decided there was no harm in keeping it up. We'll save up as much as we can and then, should we not need it, I can just return all the points that were deposited at the time back to everyone. It's easy.”

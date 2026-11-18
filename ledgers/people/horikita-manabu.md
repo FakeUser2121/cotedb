@@ -909,10 +909,13 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 p.10-290 — horikita-manabu mentioned in passing
-[scene] (p.10) Named in this volume.
-[note] (p.10) Passing mentions on pages: p.13, p.15, p.36, p.41-43, p.46-47.
-[mentioned] (p.10) Passing mention only.
+
+### y2v4.5 p.47, 54 — Manabu: the entrustment named at the pool
+[mentioned] (p.47) Ayanokōji, pressing Kiriyama: "this was a case that Horikita Manabu entrusted to me" — Kiriyama's face hardens at the name.
+[note] (p.47) Manabu never appears on-page; his role is as the ghost over the student-council storyline — the teacher who assigned Ayanokōji the Horikita–Nagumo file.
+
+<!-- walk: y2v4.5 ch2 → p.72 -->
+
 
 ## y2v5
 

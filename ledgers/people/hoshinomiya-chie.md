@@ -495,17 +495,6 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
-### y2v4.5 p.243–244 — Hoshinomiya vomits on deck in front of Horikita
-[scene] (p.243–244) Appears at the private-pool reception looking "unwell" (a disease specific to adults); Kanzaki is with her; she sees Ishigami leaving and vomits over the deck railing, blaming a mix of hangover and seasickness; she bolts back into the ship.
-[says] (p.243) “Um, are you feeling unwell?” — that is Horikita's line.
-[says] (p.243) “Ohh~ this? Don't worry about it; it's a disease specific to adults.”
-[says] (p.244) “Bluurrgghhhh!!”
-[says] (p.244) “Agh, ugghh, eek!”
-[says] (p.244) “Ugh, it's a mix of hangover and seasickness, sowwy, Horikitasa──Bluurrgghh!”
-[rel:kanzaki-ryuuji] (p.243–245) Delivers her embarrassing behavior with him in tow; she recognizes him as Hoshinomiya's class talent (the "clever face").
-[rel:ishigami-kyo-1a] (p.243) She half-remembers the cool kid from before as Ishigami — "I think I saw him at school once a while ago, but…maybe I saw wrong."
-
-
 ### y2v4.5 p.225–236 — Hoshinomiya drinks: the exam that ruined Class A
 [scene] (p.225) Slumped face-down on the bar at 1 a.m., demanding a strong drink ("master's choice") — exhausted from the island exam and bitter that teachers get no summer vacation.
 [says] (p.225) "Ahh, I'm so tired. Why do we teachers have to work so late, day in and"
@@ -522,7 +511,20 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 [rel:mashima-tomonari] (p.236) Tries to get her to sleep in her own room; she clings to him.
 [rel:ichinose-honami] (p.235) Believes her class is "not good enough" to win Class A.
 
+### y2v4.5 p.243–244 — Hoshinomiya vomits on deck in front of Horikita
+[scene] (p.243–244) Appears at the private-pool reception looking "unwell" (a disease specific to adults); Kanzaki is with her; she sees Ishigami leaving and vomits over the deck railing, blaming a mix of hangover and seasickness; she bolts back into the ship.
+[says] (p.243) “Um, are you feeling unwell?” — that is Horikita's line.
+[says] (p.243) “Ohh~ this? Don't worry about it; it's a disease specific to adults.”
+[says] (p.244) “Bluurrgghhhh!!”
+[says] (p.244) “Agh, ugghh, eek!”
+[says] (p.244) “Ugh, it's a mix of hangover and seasickness, sowwy, Horikitasa──Bluurrgghh!”
+[rel:kanzaki-ryuuji] (p.243–245) Delivers her embarrassing behavior with him in tow; she recognizes him as Hoshinomiya's class talent (the "clever face").
+[rel:ishigami-kyo-1a] (p.243) She half-remembers the cool kid from before as Ishigami — "I think I saw him at school once a while ago, but…maybe I saw wrong."
+
+
+
 <!-- walk: y2v4.5 ch6 → p.267 -->
+
 
 ## y2v5
 

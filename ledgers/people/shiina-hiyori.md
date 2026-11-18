@@ -550,6 +550,9 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [rel:ayanokouji-kiyotaka] (p.119–128) Brings him into the dispute and seriously invites him to join her class.
 [rel:katsuragi-kouhei] (p.124–127) Uses Ayanokōji to draw out his honest concerns; rebuked for her trust in him.
 [rel:ryuuen-kakeru] (p.121–122) Warns his dictatorship breeds resentment and that the class would collapse if he fell.
+
+<!-- walk: y2v4.5 ch4 → p.158 -->
+
 ## y2v5
 
 <!-- walk: y2v5 → start -->

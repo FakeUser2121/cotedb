@@ -175,6 +175,9 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 [rel:ayanokouji-kiyotaka] (p.252–253) His target with a "painful strategy"; admires his ability to read situations.
 [rel:kushida-kikyou] (p.252) Sent her after Ayanokōji on the island with a camera; Amasawa stopped her.
 [rel:kurachi] (p.252) Sent him to attack Ayanokōji; Amasawa interfered.
+
+<!-- walk: y2v4.5 ch6 → p.267 -->
+
 ## y2v5
 
 <!-- walk: y2v5 → start -->
