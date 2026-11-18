@@ -3811,7 +3811,6 @@ walk: y1v1 → DONE
 [rel:komiya-kyogo] (p.181) Named among the tailed Class D students.
 [rel:kouenji-rokusuke] (p.181) The open move against him that bought Ayanokōji thinking time.
 
-
 <!-- walk: y1v7 ch6 → p.196 -->
 
 ### y1v7 p.205–206 — Ch.7 sec. 7.2: the mirror and the tool
@@ -3828,9 +3827,7 @@ walk: y1v1 → DONE
 [rel:katsuragi-kouhei] (p.206) Same.
 [rel:hirata-yousuke] (p.206) Same.
 
-
 <!-- walk: y1v7 ch7 → p.207 -->
-
 
 ## y1v7.5
 
@@ -4203,7 +4200,6 @@ walk: y1v1 → DONE
 
 <!-- walk: y1v8 ch8 → p.215 -->
 
-
 ### y1v8 p.216–228 — Ch.9 half 1: the sandbag and the van
 [scene] (p.216) Final camp day as one of the temporary guys’ alliance; narrates the whole exam from briefing through the results open.
 [rel:yukimura-teruhiko] (p.216, 220–222) Handshake circle around the representative; steadies him after zazen; confirms the ~95 written plan.
@@ -4216,7 +4212,6 @@ walk: y1v1 → DONE
 [feat] (p.219, 221) Perfect zazen by his own read; deliberately misses one hard written question for a solid 95 so the school does not see successive perfect scores.
 [trait] (p.223–224) Turns down Kōenji’s whim because trust on a whim can reverse on a whim.
 [limit] (p.225) Cold close: dead last for the large group would not touch him — still hopes no one is expelled.
-
 
 ### y1v8 p.229–241 — Ch.9 half 2: the trap read aloud
 [scene] (p.229) Gym floor as the girls’ results land; later the corridor debrief with Karuizawa after he walks out on the showdown.
@@ -5048,6 +5043,68 @@ walk: y1v1 → DONE
 
 <!-- walk: y1v11 ch10 → p.476 -->
 
+### y1v11 pp.217–229, 248–270 — Ch.5: Manabu and Horikita
+
+[scene] (p.217) Greets Manabu on the way to school.
+[says] (p.217) “Is the special exam going well?”
+[scene] (p.256) Says Horikita is the last person to talk about kindness.
+[says] (p.256) “You of all people are telling me that?”
+[scene] (p.261) Says Horikita didn’t think he’d read her notebook so seriously.
+[says] (p.261) “Dinner aside, you didn’t think I’d read through this so seriously, did you?”
+[scene] (p.262) Asks Horikita to play chess.
+[says] (p.262) “About that, I’d like you to be the one to take part in it.”
+[scene] (p.264) Says Horikita’s fascination with chess is not just about knowing the rules.
+[says] (p.264) “Your fascination with the chess event isn’t just because you know the rules, is it?”
+[scene] (p.269) Says he doesn’t know much about the class.
+[says] (p.269) “I don’t really know all that much about our class anyway.”
+[rel:horikita-manabu] (p.217–229) Talks with him about Suzune.
+[rel:horikita-suzune] (p.248–270) Has dinner with her and discusses the notebook.
+
+### y1v11 pp.282, 295–306 — Ch.6: Searching for Hirata
+
+[scene] (p.282) Says he wonders whether Hirata has changed.
+[says] (p.282) “I wonder about that.”
+[scene] (p.295) Asks Hirata for some time.
+[says] (p.295) “Can you spare some time?”
+[scene] (p.305) Says it is not Horikita’s fault Yamauchi was expelled.
+[says] (p.305) “There’s something I want to make clear to you. It’s not Horikita’s fault that Yamauchi got expelled from the school, and, of course, it’s not my fault either.”
+[rel:hirata-yousuke] (p.295–308) Confronts him on the bench.
+
+### y1v11 pp.329–337 — Ch.7: Facing Sakayanagi
+
+[scene] (p.329) Asks whether Sakayanagi is afraid to wake from her dream.
+[says] (p.329) “Aren’t you afraid to wake up from your dream?”
+[scene] (p.336) Says Horikita warned him not to say too much.
+[says] (p.336) “Horikita warned me not to say anything excessive to you.”
+[scene] (p.337) Clarifies that Horikita may not be the one instructing him.
+[says] (p.337) “No, I just said that Horikita warned me... The instructions could’ve come from somebody else.”
+[rel:sakayanagi-arisu] (p.329–345) Faces her in the exam.
+
+### y1v11 pp.430, 439–450 — Epilogue: After the exam
+
+[scene] (p.430) Is asked whether he hid his abilities.
+[says] (p.430) “The heck? Does this mean you’ve been hiding your abilities until now?”
+[scene] (p.439) Says Sakayanagi won, so there is nothing more.
+[says] (p.439) “You’re the one who won. What more could there be to it?”
+[scene] (p.441) Says he lost at the end of the day.
+[says] (p.441) “What are you talking about? At the end of the day, I lost.”
+[scene] (p.445) Asks about a chessboard in the library.
+[says] (p.445) “Did you know that there’s a chessboard in the library?”
+[scene] (p.446) Says Sakayanagi is honest about her defeat.
+[says] (p.446) “You sure are honest about it.”
+[scene] (p.447) Says he was objectively stating facts.
+[says] (p.447) “That’s not it. I was just objectively stating the facts.”
+[scene] (p.449) Says Sakayanagi is honest.
+[says] (p.449) “Fufu, how honest.”
+[scene] (p.450) Says he will put the chessboard away.
+[says] (p.450) “I’ll put it away. Just sit there and wait for a bit.”
+[rel:sakayanagi-arisu] (p.439–450) Speaks with her after the exam.
+[rel:tsukishiro] (p.439–444) Is confronted by him.
+
+## y1v11.5
+
+<!-- walk: y1v11.5 → start -->
+
 ### y1v11.5 pp.13–120 — Ch.1: Graduation ceremony and farewells
 
 [scene] (p.13) On March 24, Ayanokōji attends the third-year graduation ceremony curious about the outcome of Horikita Manabu and Nagumo’s conflict and the ceremony itself.
@@ -5204,65 +5261,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y1v11.5 ch7 → p.423 -->
 
-### y1v11 pp.217–229, 248–270 — Ch.5: Manabu and Horikita
-
-[scene] (p.217) Greets Manabu on the way to school.
-[says] (p.217) “Is the special exam going well?”
-[scene] (p.256) Says Horikita is the last person to talk about kindness.
-[says] (p.256) “You of all people are telling me that?”
-[scene] (p.261) Says Horikita didn’t think he’d read her notebook so seriously.
-[says] (p.261) “Dinner aside, you didn’t think I’d read through this so seriously, did you?”
-[scene] (p.262) Asks Horikita to play chess.
-[says] (p.262) “About that, I’d like you to be the one to take part in it.”
-[scene] (p.264) Says Horikita’s fascination with chess is not just about knowing the rules.
-[says] (p.264) “Your fascination with the chess event isn’t just because you know the rules, is it?”
-[scene] (p.269) Says he doesn’t know much about the class.
-[says] (p.269) “I don’t really know all that much about our class anyway.”
-[rel:horikita-manabu] (p.217–229) Talks with him about Suzune.
-[rel:horikita-suzune] (p.248–270) Has dinner with her and discusses the notebook.
-
-### y1v11 pp.282, 295–306 — Ch.6: Searching for Hirata
-
-[scene] (p.282) Says he wonders whether Hirata has changed.
-[says] (p.282) “I wonder about that.”
-[scene] (p.295) Asks Hirata for some time.
-[says] (p.295) “Can you spare some time?”
-[scene] (p.305) Says it is not Horikita’s fault Yamauchi was expelled.
-[says] (p.305) “There’s something I want to make clear to you. It’s not Horikita’s fault that Yamauchi got expelled from the school, and, of course, it’s not my fault either.”
-[rel:hirata-yousuke] (p.295–308) Confronts him on the bench.
-
-### y1v11 pp.329–337 — Ch.7: Facing Sakayanagi
-
-[scene] (p.329) Asks whether Sakayanagi is afraid to wake from her dream.
-[says] (p.329) “Aren’t you afraid to wake up from your dream?”
-[scene] (p.336) Says Horikita warned him not to say too much.
-[says] (p.336) “Horikita warned me not to say anything excessive to you.”
-[scene] (p.337) Clarifies that Horikita may not be the one instructing him.
-[says] (p.337) “No, I just said that Horikita warned me... The instructions could’ve come from somebody else.”
-[rel:sakayanagi-arisu] (p.329–345) Faces her in the exam.
-
-### y1v11 pp.430, 439–450 — Epilogue: After the exam
-
-[scene] (p.430) Is asked whether he hid his abilities.
-[says] (p.430) “The heck? Does this mean you’ve been hiding your abilities until now?”
-[scene] (p.439) Says Sakayanagi won, so there is nothing more.
-[says] (p.439) “You’re the one who won. What more could there be to it?”
-[scene] (p.441) Says he lost at the end of the day.
-[says] (p.441) “What are you talking about? At the end of the day, I lost.”
-[scene] (p.445) Asks about a chessboard in the library.
-[says] (p.445) “Did you know that there’s a chessboard in the library?”
-[scene] (p.446) Says Sakayanagi is honest about her defeat.
-[says] (p.446) “You sure are honest about it.”
-[scene] (p.447) Says he was objectively stating facts.
-[says] (p.447) “That’s not it. I was just objectively stating the facts.”
-[scene] (p.449) Says Sakayanagi is honest.
-[says] (p.449) “Fufu, how honest.”
-[scene] (p.450) Says he will put the chessboard away.
-[says] (p.450) “I’ll put it away. Just sit there and wait for a bit.”
-[rel:sakayanagi-arisu] (p.439–450) Speaks with her after the exam.
-[rel:tsukishiro] (p.439–444) Is confronted by him.
-
-### y1v11.5 Ch.1 — Depth review: graduation ceremony & the Tsukishiro meeting
+### y1v11.5 p.13–82 — Depth review: graduation ceremony & the Tsukishiro meeting
 [scene] (p.13) Attends the third-years' graduation ceremony, curious whether Manabu Horikita graduated from Class A or Nagumo stopped him.
 [says] (p.60) "I will explain that now."
 [says] (p.64) "If I said that I'm the reason why Tsukishiro replaced Chairman Sakayanagi after being confined for suspected wrongdoing, what would you say, Mashima-sensei?"
@@ -5275,7 +5274,7 @@ walk: y1v1 → DONE
 [rel:mashima-tomonari] (p.64–79) Wins him over as an ally against Tsukishiro's exam interference.
 [rel:chabashira-sae] (p.64–80) Briefs her and enlists her help.
 
-### y1v11.5 Ch.2 — Depth review: the date with Hiyori
+### y1v11.5 p.124–143 — Depth review: the date with Hiyori
 [scene] (p.124) Meets Hiyori at Keyaki Mall on the first day of spring break; she is already waiting and shows him the new library books.
 [says] (p.124) "Good morning."
 [says] (p.136) "Yes. But, since it's you I'm asking, I don't think I need to elaborate on it."
@@ -5288,7 +5287,7 @@ walk: y1v1 → DONE
 [rel:shiina-hiyori] (p.124–142) Accepts her question about changing Ryūen, tests her reasoning, then entrusts her with the message to Ryūen.
 [rel:karuizawa-kei] (p.142–143) Deliberately upsets Kei afterward by arranging the meeting in front of her.
 
-### y1v11.5 Ch.3 — Depth review: the challenge and the confessions
+### y1v11.5 p.144–212 — Depth review: the challenge and the confessions
 [scene] (p.144) Anticipates Ichinose's meeting and the question of whether the Class B–Class D cooperation will continue into the second year.
 [says] (p.156) "I'm happy that you invited me, but I'll have to refuse. It's more fun being opponents than allies anyway."
 [says] (p.183) "Because I thought our best chance of winning came from opposing Class A"
@@ -5303,7 +5302,7 @@ walk: y1v1 → DONE
 [rel:ishizaki-daichi] (p.154–157) Declines his "ultimate strategy" to transfer to Class D.
 [rel:shiina-hiyori] (p.206) Her message to Ryūen prompted this meeting.
 
-### y1v11.5 Ch.4 — Depth review: Manabu's farewell and the "parting gifts"
+### y1v11.5 p.237–270 — Depth review: Manabu's farewell and the "parting gifts"
 [scene] (p.237) Waits at the school's main entrance at 11:40 for Manabu Horikita's noon departure; Suzune has not yet arrived.
 [says] (p.240) "Sorry. If only I could have done more for you when you were on the student council."
 [says] (p.241) "I don't think that's very reasonable considering the fact you've stayed in Class A for three whole years."
@@ -5317,7 +5316,7 @@ walk: y1v1 → DONE
 [note] (p.242) March class points given by Manabu: Nagumo's Class A 1491, Class B 889, Class C 280, Class D 76.
 [note] (p.249) Manabu gives Ayanokōji his own and Tachibana's phone numbers to memorise, to be deleted later.
 
-### y1v11.5 Ch.5 — Depth review: the truth about Matsushita (Ayanokōji's POV)
+### y1v11.5 p.296–351 — Depth review: the truth about Matsushita (Ayanokōji's POV)
 [scene] (p.351) Confronts Matsushita; she has deduced his hidden ability and pressed about his relationship with Kei.
 [says] (p.351) "I've got one request, my thing with Karuizawa-"
 [says:matsushita-chiaki] (p.351) "I know. I won't tell anyone, no matter what."
@@ -5325,7 +5324,7 @@ walk: y1v1 → DONE
 [rel:matsushita-chiaki] (p.296–351) Confirmed she had seen through him; extracted her silence about his relationship with Kei in exchange for information.
 [note] (p.351) The chapter is mostly Matsushita's first-person narration (pp.296–307); the confrontation is resolved by p.351.
 
-### y1v11.5 Epilogue — Depth review: the confession to Kei
+### y1v11.5 p.355–373 — Depth review: the confession to Kei
 [scene] (p.355) Calls Kei and asks her to come to his room, saying he has remembered what he wanted to tell her.
 [says] (p.357) "It's me. I'm sorry to call you."
 [says] (p.364) "If you don't like it, then just ignore it."
@@ -5340,6 +5339,7 @@ walk: y1v1 → DONE
 [rel:karuizawa-kei] (p.355–373) Confesses his feelings, has her say she likes him in return, and embraces her — a major step in their relationship.
 [rel:shiina-hiyori] (p.365) Used the book date with Hiyori as the setup to provoke Kei's jealousy.
 [note] (p.370–372) Reflects that he is "learning to fall in love" through Kei — something the White Room could not teach — and that the relationship is also necessary for her growth.
+
 ## y1v11.75
 
 <!-- walk: y1v11.75 → start -->
@@ -5358,7 +5358,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y1v11.75 Section → p.18 -->
 
-### y1v11.75 SS — Depth review: the first phone call with Kei
+### y1v11.75 p.3–14 — Depth review: the first phone call with Kei
 [scene] (p.3) On the last night of spring break, reflects on the coming second year — the Horikita bet and the White Room first-year Tsukishiro mentioned.
 [says] (p.4) "Karuizawa Kei."
 [says] (p.5) "I was waiting for your call."
@@ -5405,7 +5405,6 @@ walk: y1v1 → DONE
 [rel:horikita-suzune] (p.51–65) Discusses the exam with her.
 [rel:ichinose-honami] (p.61–62) Notes her meet-and-greet message.
 
-
 <!-- walk: y2v1 ch2 → p.65 -->
 
 ### y2v1 pp.66–141 — Ch.3: Observing and strategizing
@@ -5422,7 +5421,6 @@ walk: y1v1 → DONE
 [rel:housen-kazuomi] (p.82–95) Observes his confrontation.
 [rel:amasawa-ichika] (p.120–141) Is set up for her cooking test.
 
-
 <!-- walk: y2v1 ch3 → p.141 -->
 
 ### y2v1 pp.142–193 — Ch.4: White Room threat and Amasawa test
@@ -5437,7 +5435,6 @@ walk: y1v1 → DONE
 [rel:nanase-tsubasa] (p.148–155) Is approached by her.
 [rel:horikita-suzune] (p.156–162) Discusses strategy with her.
 [rel:amasawa-ichika] (p.160–189) Cooks for her test.
-
 
 <!-- walk: y2v1 ch4 → p.203 -->
 
@@ -5455,7 +5452,6 @@ walk: y1v1 → DONE
 [rel:tsubaki-sakurako] (p.268–275) Meets her.
 [rel:utomiya-riku] (p.268–275) Meets him.
 
-
 <!-- walk: y2v1 ch5 → p.285 -->
 
 ### y2v1 pp.286–343 — Ch.6: Self-stabbing and conditions
@@ -5470,7 +5466,6 @@ walk: y1v1 → DONE
 [rel:sudou-ken] (p.286–343) Protects Horikita with him.
 [rel:nanase-tsubasa] (p.333–335) Hears her explanation.
 
-
 <!-- walk: y2v1 ch6 → p.343 -->
 
 ### y2v1 pp.344–357 — Epilogue: Perfect score and Tsukishiro
@@ -5482,7 +5477,6 @@ walk: y1v1 → DONE
 [scene] (p.355) Is warned the enforcer is acting independently.
 [rel:chabashira-sae] (p.349–352) Is called by her.
 [rel:tsukishiro] (p.352–357) Meets him and learns the truth.
-
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
@@ -5844,7 +5838,6 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
-
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
 ## y3v1
@@ -5852,7 +5845,6 @@ walk: y1v1 → DONE
 <!-- walk: y3v1 → start -->
 
 <!-- walk: y3v1 Epilogue → p.287 -->
-
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
@@ -7453,8 +7445,6 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v2 Epilogue → p.335 -->
 
-
-
 ### y2v2 p.23–26 — After Tsukishiro's office; Chabashira's carelessness
 [scene] (p.23) Leaves the reception room after Tsukishiro, breathing a short sigh; his left hand (from Hōsen's knife) still wounded, he reflects he "escaped to this school" but a chain now follows him forever — only expulsion could free him.
 [says:chabashira-sae] (p.23) "Looks like you're done talking?"
@@ -7778,8 +7768,6 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v3 Ch.5 → p.186 -->
 
-
-
 ### y2v3 p.9–11 — Arriving at the island; Hirata's resolve
 [scene] (p.9) On July 20, sails toward a much larger deserted island under a blue sky — the exam site for the next two weeks; temperature near 40°C.
 [says:hirata-yousuke] (p.9) "This is a much bigger island than the last one, just like Mashima-sensei said it'd be."
@@ -8098,8 +8086,6 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v4 → start -->
 
-
-
 ### y2v4 p.5–7 — Prologue note (Amasawa's monologue — her own page)
 [note] (p.5) The prologue is Amasawa Ichika's own monologue (an IVF/"test-tube" baby raised in the White Room) — recorded on her own page, not attributed here.
 
@@ -8299,15 +8285,13 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v4.5 → start -->
 
-
-
 ### y2v4.5 p.10–16 — Prologue note; August class points; settling in
 [note] (p.10) The prologue is Ayanokōji's monologue (phones returned, cruise rules stricter — no leaving rooms after 10 p.m., some levels off-limits); recorded as narration on his own page.
 [trivia] (p.13) August class points: A (Sakayanagi) 1206, B (Ichinose) 578, C (Horikita — their class rose from D) 571, D (Ryūen) 551 — Kōenji's 300 points from his solo win lifted them just to Class C, one step short of B.
 [inference] (p.13–15) Reflects Kōenji's "exempted from all cooperation" card would anger the class if public; judges Ryūen's deal with Sakayanagi makes Class D (in name) the "scariest class right now"; considers how to break dominant Class A (remove Sakayanagi's "limbs" — Kamuro, Hashimoto, Kitō).
 [trivia] (p.15–16) Receives 57,100 private points (571 class points × 100); plans to reply to Ichinose's confession in three days; notes the detailed exam results are displayed by the gym (no photos, Tsukishiro's men watching) — likely to avoid leaving evidence of his involvement.
 
-### y2v45 p.16–26 — Ishizaki drags him to see the results; third-years' stares
+### y2v4.5 p.16–26 — Ishizaki drags him to see the results; third-years' stares
 [scene] (p.16) In his cabin with roommates Hondō (exhausted), Miyamoto, Miyake, Ishizaki barges in and insists Ayanokōji accompany him to see the exam results.
 [says:ishizaki-daichi] (p.18) "Ayanokōji, let's go check out the test results together!"
 [says] (p.19) "I'm a little tired today."
@@ -8320,7 +8304,7 @@ walk: y1v1 → DONE
 [rel:nagumo-miyabi] (p.23–24) Suspects he orchestrated the third-years' surveillance.
 [rel:nanase-tsubasa] (p.25) She runs up just to talk, then runs off; Ishizaki teases Ayanokōji about dating an underclassman.
 
-### y2v45 p.26–30 — Ike's confession to Shinohara; visiting Komiya
+### y2v4.5 p.26–30 — Ike's confession to Shinohara; visiting Komiya
 [scene] (p.26) Finds Ike waiting at his door, awkward about visiting Komiya after confessing his feelings to Shinohara on the ship.
 [says:ike-kanji] (p.26) "I'm thinking of going to visit Komiya right now."
 [says:ike-kanji] (p.27) "I…I'm going out with Shinohara."
@@ -8514,8 +8498,6 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v5 → start -->
 
-
-
 ### y2v5 p.9–12 — Second semester begins; the dating reveal to Sudō
 [scene] (p.9) Walks to school with Sudō (yawning, up all night studying to raise his Academics to B); asks whether Ike has already kissed Shinohara.
 [says:sudou-ken] (p.9) "Suzune warned me about the possibility of a written exam early in the second semester, so I'm staying up all night."
@@ -8690,8 +8672,6 @@ walk: y1v1 → DONE
 ## y2v6
 
 <!-- walk: y2v6 → start -->
-
-
 
 ### y2v6 p.15–19 — Aftermath analysis: why he supported Horikita's "wrong" choice
 [scene] (p.15) Monday, September 20 — reflects on the two causes of the class's fracture: Kushida's explosive revelations and the broken promise to expel only the "traitor."
@@ -8883,8 +8863,6 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v7 → start -->
 
-
-
 ### y2v7 p.7–16 — Cultural festival rules; OAA results; maid café prep
 [scene] (p.7) Chabashira reviews the cultural festival rules and additional funds — Horikita's class has the most (39,400 pts: 10,000 each for Horikita/Sudō/Onodera), ahead of Ichinose (26,600) and Sakayanagi/Ryūen.
 [trivia] (p.9–10) 283 adults (10,000 pts each) + 202 minors (5,000) = 3,840,000 points across 485 guests; stall locations cost 1,000–50,000 pts (first floor = 50,000); equal sales = equal rank (collusion theoretically possible).
@@ -9059,8 +9037,6 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v8 → start -->
 
-
-
 ### y2v8 p.11–18 — Final exam results; the anonymous evaluation task; school trip to Hokkaido
 [scene] (p.11) Late November; school trip to Hokkaido approaches; former Ayanokōji group (Haruka/Akito/Keisei) walks ahead — he notes the "group of three" remains separate.
 [trivia] (p.13–14) Final exams: Horikita and Keisei tie 1st (93.5 avg), Sudō 10th (solid); Kei 56 avg; Class A 1st, Class B 2nd (+25 pts); lowest-ranked students get extra "guidance" but no expulsion.
@@ -9185,8 +9161,6 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v9 → start -->
 
-
-
 ### y2v9 p.8–17 — The end-of-semester special exam: a cooperative written test
 [scene] (p.8) Summoned by Nagumo to the student council room after school; Chabashira announces the final special exam of the second semester — Class A (Sakayanagi, 1250 pts) vs Class B (Horikita, 985 pts), winner takes 50 class points from the loser.
 [trivia] (p.13–15) Special rules: a cooperative written test done by one student at a time in a separate room; no rules to memorize; time bonus (10 pts/hour remaining), and per-question points *inversely* tied to OAA rating (A=1 pt ... E=5 pts) — so lower-rated students score more per correct answer; a fixed number of questions are randomly "unanswerable" (based on absences) — zero points; Dec 22 exam, Dec 23 results.
@@ -9281,8 +9255,6 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v9.5 → start -->
 
-
-
 ## y2v9.75
 
 <!-- walk: y2v9.75 → start -->
@@ -9291,9 +9263,6 @@ walk: y1v1 → DONE
 [scene] (p.1) Named in this volume.
 [note] (p.1) Passing mentions on pages: p.4.
 [mentioned] (p.1) Passing mention only.
-
-
-
 
 <!-- walk: y2v9.75 Epilogue → p.17 -->
 
@@ -9306,9 +9275,6 @@ walk: y1v1 → DONE
 [note] (p.9) Passing mention (locator pages: p.8-11, p.16, p.20-22, p.24, p.51, p.53; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
-
-
-
 ## y2v10.25
 
 <!-- walk: y2v10.25 → start -->
@@ -9318,9 +9284,6 @@ walk: y1v1 → DONE
 [note] (p.1) Passing mentions on pages: p.1-2, p.4.
 [mentioned] (p.1) Passing mention only.
 
-
-
-
 ## y2v11
 
 <!-- walk: y2v11 → start -->
@@ -9329,9 +9292,5 @@ walk: y1v1 → DONE
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mention (locator pages: p.15, p.19, p.22, p.26-28, p.32, p.34; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
-
-
-
-
 
 <!-- walk: y2v12 Epilogue → p.228 -->

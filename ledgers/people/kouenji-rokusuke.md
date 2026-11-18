@@ -100,7 +100,6 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 ## y1v3
 
-
 ### y1v3 p.52–63, p.97–98 — Ch.2 sec. 2.3 & sec. 2.8: the forest walk, and the retirement that costs thirty points
 [scene] (p.52) Volunteer circle for the forest search; he raises a hand last, "The sun certainly is refreshing. My body needs energy."
 [rel:ayanokouji-kiyotaka] (p.55–57) Answers Ayanokōji's worry about getting lost with the perfect-human disclaimer — "I am a perfect human being. I would never foolishly lose my way in a forest. If any problem occurs, it would most likely be because you two lost sight of me. When that happens, you should give up."
@@ -302,7 +301,6 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:okiya-kyousuke] (p.83) Paired with Okiya on the short quiz — a sufficiently high score as hoped.
 [note] (p.83) Crosses arms, grins, laughs when the pairings are read.
 
-
 <!-- walk: y1v6 ch5 → p.131 -->
 
 [scene] (p.79) Legs across desk, combing hair; refuses neither support nor rejection of Horikita’s plan.
@@ -406,7 +404,6 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:ryuuen-kakeru] (p.181) The Class C leader who walked into a useful distraction.
 [rel:ayanokouji-kiyotaka] (p.181) The X who used the pressure as free time.
 [rel:komiya-kyogo] (p.181) One of the tails on the same campaign.
-
 
 <!-- walk: y1v7 ch6 → p.196 -->
 
@@ -538,7 +535,6 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [limit] (p.211) No further presence in chapter 7 after half 1.
 
 <!-- walk: y1v8 ch7 → p.211 -->
-
 
 ### y1v8 p.216–228 — Ch.9 half 1: flawless zazen and the whim offer
 [scene] (p.216) The group’s stated worry on final day; perfect in the dojo, then the van offer and the anchor leg.
@@ -721,7 +717,6 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
-
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
 ## y3v1
@@ -729,7 +724,6 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 <!-- walk: y3v1 → start -->
 
 <!-- walk: y3v1 Epilogue → p.287 -->
-
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
@@ -824,20 +818,9 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y2v2 Epilogue → p.335 -->
 
-### y2v3 p.48 — Kōenji's reliability questioned
-[scene] (p.48) Horikita and Ayanokōji discuss whether Kōenji will take the exam seriously; it's a coin flip.
-[says] (p.48) "Who knows… While he's agreed to my bet, there's no telling what he'll do."
-[trait] (p.48) Unpredictable — his participation is uncertain.
-
-<!-- walk: y2v3 Ch.2 → p.48 -->
-
-
-
 ## y2v3
 
 <!-- walk: y2v3 → start -->
-
-
 
 ### y2v3 p.221–237 — Kōenji's dominance: Tug of War and swimming
 [scene] (p.221) Already at the C5 summit when Ayanokōji arrives — traveled light with only a bottle of water, no tablet/bag; pours water over himself, basking in his own "masculine beauty."
@@ -851,11 +834,17 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:ayanokouji-kiyotaka] (p.224–226) His first direct one-on-one opponent; reads him like an open book.
 [rel:nanase-tsubasa] (p.224) His self-talk baffles her.
 [rel:sakayanagi-arisu] (p.237) She notes his "surprisingly motivated" performance.
+
+### y2v3 p.48 — Kōenji's reliability questioned
+[scene] (p.48) Horikita and Ayanokōji discuss whether Kōenji will take the exam seriously; it's a coin flip.
+[says] (p.48) "Who knows… While he's agreed to my bet, there's no telling what he'll do."
+[trait] (p.48) Unpredictable — his participation is uncertain.
+
+<!-- walk: y2v3 Ch.2 → p.48 -->
+
 ## y2v4
 
 <!-- walk: y2v4 → start -->
-
-
 
 ### y2v4 p.99–115 — Kōenji vs the third-year "Free Groups" siege
 [scene] (p.99) Besieged on day eleven by Kiriyama's group plus six "Free Groups" (15 third-years) mobilized by Nagumo to stop his top-stREAK; he's caught sleeping in broad daylight (from exhaustion).
@@ -891,14 +880,9 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [note] (p.10) Passing mentions on pages: p.13, p.37, p.45, p.48-49, p.87-88.
 [mentioned] (p.10) Passing mention only.
 
-
-
-
 ## y2v5
 
 <!-- walk: y2v5 → start -->
-
-
 
 ### y2v5 p.103–120 — Kōenji votes to expel; makes a deal with Horikita
 [scene] (p.103) Breaks his silence on Q3, backing Keisei's protection-point plan because he wants Horikita to "work harder."
@@ -915,8 +899,6 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 ## y2v6
 
 <!-- walk: y2v6 → start -->
-
-
 
 ### y2v6 p.44–47 — Kōenji: conditional trust, calculated freedom
 [says] (p.45) "You are a very lucky girl, it looks like."
@@ -936,9 +918,6 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [note] (p.7) Passing mentions on pages: p.74, p.84, p.184, p.186.
 [mentioned] (p.7) Passing mention only.
 
-
-
-
 ## y2v8
 
 <!-- walk: y2v8 → start -->
@@ -947,9 +926,6 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.16, p.24, p.103-104, p.118-119.
 [mentioned] (p.11) Passing mention only.
-
-
-
 
 ## y2v9
 
@@ -963,13 +939,9 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y2v9 Ch.6 → p.180 -->
 
-
-
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
-
-
 
 ## y2v10
 
@@ -980,9 +952,6 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [note] (p.9) Passing mention (locator pages: p.45, p.48-50, p.67-80, p.97-98, p.120, p.129-130; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
-
-
-
 ## y2v11
 
 <!-- walk: y2v11 → start -->
@@ -991,9 +960,5 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mention (locator pages: p.13, p.40, p.49-50, p.72-79, p.81, p.83; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
-
-
-
-
 
 <!-- walk: y2v12 Epilogue → p.228 -->

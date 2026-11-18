@@ -2628,9 +2628,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ibuki-mio] (p.182) The opponent the page says would still win.
 [rel:ayanokouji-kiyotaka] (p.182) The narrator’s comparison, not her presence.
 
-
 <!-- walk: y1v7 ch6 → p.196 -->
-
 
 ## y1v7.5
 
@@ -2759,7 +2757,6 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [limit] (p.215) “very few comrades I could trust” — powerless close; must choose her.
 
 <!-- walk: y1v8 ch8 → p.215 -->
-
 
 ### y1v8 p.229 — Ch.9: in the winning large group
 [scene] (p.229) Named with Kushida inside Ayase’s first-place large group — a first-year Class C small group may have earned quite a few points.
@@ -3390,7 +3387,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [scene] (p.16) In Ichinose’s reflections, Horikita is named among the rival class leaders Ayanokōji faced during the first year.
 [rel:ayanokouji-kiyotaka] (p.3, 16) Is mentioned in his reflection and in Ichinose’s comparison of rival classes.
 
-### y1v11.5 Ch.3 — Depth review: ending the partnership, challenging Ayanokōji
+### y1v11.5 p.160–185 — Ch.3: Depth review: ending the partnership, challenging Ayanokōji
 [scene] (p.160) Arrives early at the café and, with Ayanokōji, waits for Ichinose; presses him about what he knows.
 [says] (p.163) "You really don't know? If it turns out you do, then I won't let you off that easily.."
 [says] (p.163) "At first, I thought she was a hypocrite who acted like a good person."
@@ -3408,7 +3405,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ayanokouji-kiyotaka] (p.182–185) Confronts him on the stairs about acting alone to target Class A and about his ties to Sakayanagi.
 [rel:sakayanagi-arisu] (p.185) Suspects he and Sakayanagi planned the Class A match in advance.
 
-### y1v11.5 Ch.4 — Depth review: the farewell she almost missed
+### y1v11.5 p.259–270 — Ch.4: Depth review: the farewell she almost missed
 [scene] (p.259) Arrives at the main entrance after noon, out of breath, just as Manabu is about to leave.
 [says] (p.260) "Brother——!"
 [says] (p.260) "I'm sorry, I'm late…!"
@@ -3467,7 +3464,6 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:housen-kazuomi] (p.82–95) Confronts him in the hallway.
 [rel:amasawa-ichika] (p.120–141) Negotiates with her.
 
-
 <!-- walk: y2v1 ch3 → p.141 -->
 
 ### y2v1 pp.150–162, 190 — Ch.4: Strategy and Amasawa
@@ -3477,7 +3473,6 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [scene] (p.160) Discusses Hirata’s report on Class A and C.
 [scene] (p.190) Calls Ayanokōji calculated.
 [rel:ayanokouji-kiyotaka] (p.150–190) Strategizes with him.
-
 
 <!-- walk: y2v1 ch4 → p.203 -->
 
@@ -3490,7 +3485,6 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [scene] (p.233) Agrees to meet Hōsen on Sunday.
 [rel:nanase-tsubasa] (p.204–233) Negotiates with her.
 [rel:ayanokouji-kiyotaka] (p.204–233) Strategizes with him.
-
 
 <!-- walk: y2v1 ch5 → p.285 -->
 
@@ -3512,7 +3506,6 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:housen-kazuomi] (p.290–331) Confronts him.
 [rel:nanase-tsubasa] (p.290–333) Negotiates with her mediation.
 
-
 <!-- walk: y2v1 ch6 → p.343 -->
 
 ### y2v1 pp.344–349 — Epilogue: Exam results and bet
@@ -3520,7 +3513,6 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [scene] (p.344) Is told Ayanokōji scored a perfect 100 in math.
 [scene] (p.349) Admits defeat in their bet.
 [rel:ayanokouji-kiyotaka] (p.344–349) Loses the competition to him.
-
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
@@ -3669,7 +3661,6 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
-
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
 ## y3v1
@@ -3677,7 +3668,6 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 <!-- walk: y3v1 → start -->
 
 <!-- walk: y3v1 Epilogue → p.287 -->
-
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
@@ -4126,18 +4116,6 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v2 Epilogue → p.335 -->
 
-### y2v3 p.43–46 — Horikita at the start of the island exam
-[scene] (p.43–46) She walks with Ayanokōji at the start; they discuss their Tables, Kōenji's reliability, and point averaging.
-[says] (p.46) "I lent you some points just the other day. I'd be mad if I didn't get any"
-[trait] (p.43–46) Cautious but prepared — she has a contract with Kushida for points.
-[rel:ayanokouji-kiyotaka] (p.43–46) They walk together.
-
-<!-- walk: y2v3 Ch.2 → p.46 -->
-
-<!-- walk: y2v2 Ch.1 → p.38 -->
-
-
-
 ### y2v2 p.27–30 — Horikita stays back to smooth things over
 [scene] (p.27) Remains in the classroom after Ayanokōji's summons (having not answered his call), having assessed that the remaining students are waiting for him.
 [says] (p.28) "Well, let me explain this."
@@ -4199,8 +4177,6 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v3 → start -->
 
-
-
 ### y2v3 p.44–50 — Horikita before and after disembarking
 [says] (p.44) "Good morning. Did you sleep well yesterday?"
 [says] (p.45) "I see you're still patronizing me about what happened last year."
@@ -4226,11 +4202,20 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [narrates] (p.364) "First priority is to fight in the best way only I knew possible"
 [trait] (p.363–364) Reflects she needn't worry about him — having watched him up close all year, always calm, always finding the right answer and winning; acknowledges his flaws (needing to reveal some ability, poor communication) but that he shields them using others; realizes she wants to become someone who can "cover his back, a partner he could rely on," but that mimicking his style is useless — her priority is to fight her own way on the island.
 [rel:ayanokouji-kiyotaka] (p.363–364) She wants to become someone who can stand shoulder-to-shoulder with him and cover his back — a feeling she can't quite name.
+
+### y2v3 p.43–46 — Horikita at the start of the island exam
+[scene] (p.43–46) She walks with Ayanokōji at the start; they discuss their Tables, Kōenji's reliability, and point averaging.
+[says] (p.46) "I lent you some points just the other day. I'd be mad if I didn't get any"
+[trait] (p.43–46) Cautious but prepared — she has a contract with Kushida for points.
+[rel:ayanokouji-kiyotaka] (p.43–46) They walk together.
+
+<!-- walk: y2v3 Ch.2 → p.46 -->
+
+<!-- walk: y2v2 Ch.1 → p.38 -->
+
 ## y2v4
 
 <!-- walk: y2v4 → start -->
-
-
 
 ### y2v4 p.55–59 — Horikita rejoins Ayanokōji; the Shinohara rescue plan
 [scene] (p.55) Reunites with Ayanokōji in F7 on day eight; heading to G8, she travels with him.
@@ -4248,8 +4233,6 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
-
-
 
 ### y2v4.5 p.194–202 — The Kushida lunch: "drop out of school"
 [scene] (p.194) Administering treasure-hunt rewards on the student council with Yagami; takes a break and has lunch with Kushida, who proposed it.
@@ -4291,8 +4274,6 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 ## y2v5
 
 <!-- walk: y2v5 → start -->
-
-
 
 ### y2v5 p.17–18 — Horikita's festival proposal system
 [says] (p.17) "As Hirata-kun said, the budget we can allocate for the festival is limited."
@@ -4374,8 +4355,6 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 ## y2v6
 
 <!-- walk: y2v6 → start -->
-
-
 
 ### y2v6 p.20–24, 41–47 — Horikita: owning her choice; defending Kushida
 [says] (p.23) "Because I forced us to keep Kushida-san, your group's relationship was changed."
@@ -4475,8 +4454,6 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v7 → start -->
 
-
-
 ### y2v7 p.8–29 — Horikita: festival prep; the Ryūen alliance leak
 [says] (p.10) "very extreme, but what happens if all classes receive the same amount of 320,000 points and are side by side?"
 [says] (p.19) "A sports festival is a sports festival, a cultural festival is a cultural festival."
@@ -4516,14 +4493,9 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (p.11) Passing mentions on pages: p.12-14, p.16-18, p.41-42, p.44-45, p.57-58.
 [mentioned] (p.11) Passing mention only.
 
-
-
-
 ## y2v9
 
 <!-- walk: y2v9 → start -->
-
-
 
 ### y2v9 p.26–37 — Horikita: endorsing Ichinose; becoming student council president
 [says] (p.27) "I believe that Ichinose-san would be a good choice for student council president. I don't think she has any faults."
@@ -4538,8 +4510,6 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v9.5 → start -->
 
-
-
 ## y2v9.75
 
 <!-- walk: y2v9.75 → start -->
@@ -4548,9 +4518,6 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [scene] (p.1) Named in this volume.
 [note] (p.1) Passing mentions on pages: p.4-8, p.17.
 [mentioned] (p.1) Passing mention only.
-
-
-
 
 <!-- walk: y2v9.75 Epilogue → p.17 -->
 
@@ -4563,9 +4530,6 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (p.9) Passing mention (locator pages: p.16-24, p.26-28, p.31, p.40, p.43-51, p.58; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
-
-
-
 ## y2v11
 
 <!-- walk: y2v11 → start -->
@@ -4574,9 +4538,5 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mention (locator pages: p.27, p.40, p.54, p.56-57, p.70, p.72; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
-
-
-
-
 
 <!-- walk: y2v12 Epilogue → p.228 -->

@@ -593,7 +593,6 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y1v8 ch7 → p.211 -->
 
-
 ### y1v8 p.216–228 — Ch.9 half 1: representative to second place
 [scene] (p.216) Closes the temporary alliance with a handshake; runs the day as group representative from zazen through the results.
 [says:yukimura-teruhiko] (p.216) “For the time being, we’ve done all we can. No matter what the outcome, we have no regrets.”
@@ -771,20 +770,6 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y1v11 ch8 → p.367 -->
 
-### y1v11.5 pp.14–23 — Ch.1: After the final exam
-
-[scene] (p.14) Keisei greets Ayanokōji in the elevator on the morning of the graduation ceremony and laments Class D’s demotion.
-[says] (p.14) “Good morning.”
-[scene] (p.16) He explains that he pushed to recruit Katsuragi before the final exam and feels responsible for the class’s loss.
-[scene] (p.17) Keisei says Horikita did not blame him and discusses how the class views Ayanokōji’s command.
-[scene] (p.19) Keisei asks Ayanokōji why he did not report the Katsuragi plan.
-[scene] (p.21) He reflects that Horikita did not scold him harshly but made clear the consequences if he had failed.
-[scene] (p.22) Keisei discusses Horikita’s leadership and notes he has changed since the start of school.
-[rel:ayanokouji-kiyotaka] (p.14–23) Confides in him about the final exam and Horikita.
-[rel:horikita-suzune] (p.16–23) Discusses her response and leadership after the exam.
-
-<!-- walk: y1v11.5 ch1 → p.120 -->
-
 ### y1v11 pp.238–244, 271–280 — Ch.5: Intel gathering and Katsuragi
 
 [scene] (p.238) Urges Horikita to start collecting intel.
@@ -807,7 +792,25 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [rel:katsuragi-kouhei] (p.271–280) Negotiates with him for information.
 [rel:ayanokouji-kiyotaka] (p.240–244, 271–280) Works with him on the plan.
 
-### y1v11.5 Ch.1 — Depth review: the graduation conversation
+## y1v11.5
+
+<!-- walk: y1v11.5 → start -->
+
+### y1v11.5 pp.14–23 — Ch.1: After the final exam
+
+[scene] (p.14) Keisei greets Ayanokōji in the elevator on the morning of the graduation ceremony and laments Class D’s demotion.
+[says] (p.14) “Good morning.”
+[scene] (p.16) He explains that he pushed to recruit Katsuragi before the final exam and feels responsible for the class’s loss.
+[scene] (p.17) Keisei says Horikita did not blame him and discusses how the class views Ayanokōji’s command.
+[scene] (p.19) Keisei asks Ayanokōji why he did not report the Katsuragi plan.
+[scene] (p.21) He reflects that Horikita did not scold him harshly but made clear the consequences if he had failed.
+[scene] (p.22) Keisei discusses Horikita’s leadership and notes he has changed since the start of school.
+[rel:ayanokouji-kiyotaka] (p.14–23) Confides in him about the final exam and Horikita.
+[rel:horikita-suzune] (p.16–23) Discusses her response and leadership after the exam.
+
+<!-- walk: y1v11.5 ch1 → p.120 -->
+
+### y1v11.5 p.14–23 — Depth review: the graduation conversation
 [scene] (p.14) Greets Ayanokōji in the elevator and laments that Class C's promotion was undone, returning them to Class D.
 [says] (p.14) "We worked so hard to get promoted to Class C only to get pushed back to where we started… At least we didn't suffer as much damage as I thought we would."
 [says] (p.19) "…Kiyotaka, I need to ask you something."
@@ -819,6 +822,7 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [rel:ayanokouji-kiyotaka] (p.14–23) Confides in him and asks why the Katsuragi plan was not reported; they agree to put the matter to rest.
 [rel:horikita-suzune] (p.20–23) Says Horikita did not blame him but told him to consult her next time; calls out her condescension while affirming her growth.
 [rel:katsuragi-kouhei] (p.19–21) Regrets his failed solo attempt to recruit him before the final exam.
+
 ## y2v1
 
 <!-- walk: y2v1 → start -->
@@ -835,7 +839,6 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [scene] (p.101) Listens to Miyake’s account of Hōsen.
 [rel:ayanokouji-kiyotaka] (p.101–104) Discusses him with the group.
 
-
 <!-- walk: y2v1 ch4 → p.203 -->
 
 ### y2v1 pp.101–104 — Ch.5: Hōsen’s reputation
@@ -843,14 +846,12 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [scene] (p.101) Listens to Miyake’s account.
 [rel:ayanokouji-kiyotaka] (p.101–104) Discusses him.
 
-
 <!-- walk: y2v1 ch5 → p.285 -->
 
 ### y2v1 pp.101–104 — Epilogue: Hōsen’s reputation
 
 [scene] (p.101) Listens to Miyake’s account.
 [rel:ayanokouji-kiyotaka] (p.101–104) Discusses him.
-
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
@@ -874,7 +875,6 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
-
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
 ## y3v1
@@ -882,7 +882,6 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 <!-- walk: y3v1 → start -->
 
 <!-- walk: y3v1 Epilogue → p.287 -->
-
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
@@ -939,8 +938,6 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y2v2 Epilogue → p.328 -->
 
-
-
 ### y2v2 p.12–18 — Yukimura's agitation over the perfect score
 [scene] (p.12) Waits restlessly in the classroom for Ayanokōji (called away by Chabashira), his right leg trembling repeatedly despite Hasebe's attempts to calm him.
 [says] (p.14) "It's not a question of whether it's hard or not. I didn't even understand the meaning of the question during the exam."
@@ -962,9 +959,6 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.10) Passing mentions on pages: none.
 [mentioned] (p.10) Passing mention only.
 
-
-
-
 ## y2v5
 
 <!-- walk: y2v5 → start -->
@@ -973,9 +967,6 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [scene] (p.7) Named in this volume.
 [note] (p.7) Passing mentions on pages: p.101.
 [mentioned] (p.7) Passing mention only.
-
-
-
 
 ## y2v6
 
@@ -986,9 +977,6 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.11) Passing mentions on pages: p.24, p.181, p.327.
 [mentioned] (p.11) Passing mention only.
 
-
-
-
 ## y2v7
 
 <!-- walk: y2v7 → start -->
@@ -997,9 +985,6 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [scene] (p.7) Named in this volume.
 [note] (p.7) Passing mentions on pages: p.93.
 [mentioned] (p.7) Passing mention only.
-
-
-
 
 ## y2v8
 
@@ -1010,14 +995,9 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.11) Passing mentions on pages: none.
 [mentioned] (p.11) Passing mention only.
 
-
-
-
 ## y2v9
 
 <!-- walk: y2v9 → start -->
-
-
 
 ## y2v10
 
@@ -1028,9 +1008,6 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.9) Passing mention (locator pages: p.15, p.132, p.141, p.148; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
-
-
-
 ## y2v11
 
 <!-- walk: y2v11 → start -->
@@ -1038,9 +1015,5 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 ### y2v11 p.11-223 — yukimura-teruhiko: no page hits
 [scene] (p.11) Rostered for this volume.
 [note] (p.11) Page locator found no matches for this name in this volume; possible spelling/alias variant missed. Not read line-by-line.
-
-
-
-
 
 <!-- walk: y2v12 Epilogue → p.228 -->

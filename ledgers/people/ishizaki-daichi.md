@@ -95,7 +95,7 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [rel:shiina-hiyori] (p.49) Parallel Class C observation routes.
 [rel:miyake-akito] (p.49) The club-side half of the pattern.
 
-### y1v7 — Ch.3 half2
+### y1v7 p.65–97 — Ch.3 half2: not named in the second half
 [note] (pp.65–97) Not named in the second half of this chapter.
 
 <!-- walk: y1v7 ch3 → p.97 -->
@@ -190,7 +190,6 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [rel:komiya-kyogo] (p.176) Listed with the beaten-into-obedience crew.
 [rel:kondou-reo] (p.176) Same list.
 
-
 <!-- walk: y1v7 ch6 → p.196 -->
 
 ### y1v7 p.198, 201–203, 205 — Ch.7: the hostage who won’t leave
@@ -218,7 +217,6 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [mentioned] (p.175) Passing mention only.
 
 <!-- walk: y1v7 ch7 → p.207 -->
-
 
 ## y1v7.5
 
@@ -380,7 +378,6 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y1v8 ch7 → p.211 -->
 
-
 ### y1v8 p.216–228 — Ch.9 half 1: handshake, baton, and the kill line
 [scene] (p.216) Part of the closing handshake circle; zazen, written debrief, and the 3.6 km relay leg into Ayanokōji’s hands.
 [rel:yukimura-teruhiko] (p.216) Handshake with the representative; later rubs his own numb legs while asking if Keisei made it.
@@ -503,6 +500,21 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y1v11 ch9 → p.399 -->
 
+### y1v11 pp.375–388 — Ch.8: Asking Ryūen for help
+
+[scene] (p.375) Asks Ryūen for a moment.
+[says] (p.375) “Uhh─ could ya spare a moment, Ryūen-san?”
+[scene] (p.376) Begs Ryūen to lend his strength.
+[says] (p.376) “Ryūen-san, please... lend your strength to Class D for this special exam!”
+[scene] (p.378) Asks whether they should go for Class C.
+[says] (p.378) “...So what should we do? Should we go for Class C after all?”
+[rel:ryuuen-kakeru] (p.375–388) Begs him for help.
+[rel:ibuki-mio] (p.382–388) Waits with her for Ryūen.
+
+## y1v11.5
+
+<!-- walk: y1v11.5 → start -->
+
 ### y1v11.5 pp.153–157 — Ch.3: Meeting before seeing Ryūen
 
 [scene] (p.153) Ishizaki catches up to Ibuki and Ayanokōji on the way to Keyaki mall and accidentally reveals they are meeting Ryūen.
@@ -524,18 +536,7 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y1v11.5 ch7 → p.423 -->
 
-### y1v11 pp.375–388 — Ch.8: Asking Ryūen for help
-
-[scene] (p.375) Asks Ryūen for a moment.
-[says] (p.375) “Uhh─ could ya spare a moment, Ryūen-san?”
-[scene] (p.376) Begs Ryūen to lend his strength.
-[says] (p.376) “Ryūen-san, please... lend your strength to Class D for this special exam!”
-[scene] (p.378) Asks whether they should go for Class C.
-[says] (p.378) “...So what should we do? Should we go for Class C after all?”
-[rel:ryuuen-kakeru] (p.375–388) Begs him for help.
-[rel:ibuki-mio] (p.382–388) Waits with her for Ryūen.
-
-### y1v11.5 Ch.3 — Depth review: the "ultimate strategy"
+### y1v11.5 p.152–157 — Depth review: the "ultimate strategy"
 [scene] (p.152) Catches up with Ibuki and Ayanokōji on the way to Keyaki Mall after a covert meeting with Ryūen's group.
 [says] (p.152) "Yo, Ibuki, wait for me-!"
 [says] (p.152) "But that's because you didn't respond-oh? Ayanokouji's with you, huh? What are you two doing? Could it be… a date?"
@@ -548,6 +549,7 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [rel:ayanokouji-kiyotaka] (p.152–157) Invites him to transfer to Class D to fight alongside Ryūen; accepts the refusal.
 [rel:ryuuen-kakeru] (p.153) Was meeting covertly with Ryūen's group; believes Ryūen would cooperate to get Ayanokōji.
 [rel:shiina-hiyori] (p.153) Referred to by Ibuki as someone being investigated — see Hiyori's Ch.2 section.
+
 ## y2v1
 
 <!-- walk: y2v1 → start -->
@@ -568,7 +570,6 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [scene] (p.201) Questions Ryūen’s strategy.
 [rel:ryuuen-kakeru] (p.200–203) Discusses strategy with him.
 
-
 <!-- walk: y2v1 ch4 → p.203 -->
 
 ### y2v1 pp.200–203 — Ch.5: Strategy session
@@ -577,13 +578,11 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [scene] (p.201) Questions Ryūen’s strategy.
 [rel:ryuuen-kakeru] (p.200–203) Discusses strategy with him.
 
-
 <!-- walk: y2v1 ch5 → p.285 -->
 
 ### y2v1 pp.311 — Ch.6: Mention
 
 [scene] (p.311) Mentioned as Class 2-C student.
-
 
 <!-- walk: y2v1 ch6 → p.343 -->
 
@@ -592,7 +591,6 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [scene] (p.200) Reports Class 1-B student put offer on hold.
 [scene] (p.201) Questions Ryūen’s strategy.
 [rel:ryuuen-kakeru] (p.200–203) Discusses strategy with him.
-
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
@@ -616,7 +614,6 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
-
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
 ## y3v1
@@ -624,7 +621,6 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 <!-- walk: y3v1 → start -->
 
 <!-- walk: y3v1 Epilogue → p.287 -->
-
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
@@ -675,8 +671,6 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y2v2 Ch.3 → p.194 -->
 
-
-
 ### y2v2 p.152–166 — Ishizaki's group proposal to Ayanokōji
 [scene] (p.152) Spots Ayanokōji at school, calls out with a smile, and brings him to meet Albert and Hiyori — proposing they form a group for the island exam.
 [says] (p.155) "We stand out here a lot. We should move, Ishizaki-kun?" — Ayanokōji
@@ -701,8 +695,6 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y2v3 Ch.2 → p.49 -->
 
-
-
 ## y2v4
 
 <!-- walk: y2v4 → start -->
@@ -716,13 +708,9 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y2v4 Ch.4 → p.125 -->
 
-
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
-
-
 
 ### y2v4.5 p.16–26 — Ishizaki befriends Ayanokōji
 [says] (p.18) "Ayanokōji, let's go check out the test results together!"
@@ -751,14 +739,9 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [note] (p.7) Passing mentions on pages: p.140, p.142-148, p.151, p.155, p.160-161.
 [mentioned] (p.7) Passing mention only.
 
-
-
-
 ## y2v6
 
 <!-- walk: y2v6 → start -->
-
-
 
 ### y2v6 p.226–232 — Ishizaki apologizes; proposes a double birthday party
 [scene] (p.226) Runs into Ayanokōji and Kei at Keyaki Mall while shopping with Albert for Ryūen's birthday (Oct 20); realizes his insensitivity about the rooftop bullying of Kei.
@@ -793,9 +776,6 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [note] (p.7) Passing mentions on pages: p.27-28, p.91, p.96-98, p.189.
 [mentioned] (p.7) Passing mention only.
 
-
-
-
 ## y2v8
 
 <!-- walk: y2v8 → start -->
@@ -804,9 +784,6 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.63, p.140-141, p.143-144, p.165.
 [mentioned] (p.11) Passing mention only.
-
-
-
 
 ## y2v9
 
@@ -822,13 +799,9 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y2v9 Ch.5 → p.145 -->
 
-
-
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
-
-
 
 ## y2v10
 
@@ -839,9 +812,6 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [note] (p.9) Passing mention (locator pages: p.138, p.147, p.157, p.189, p.202; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
-
-
-
 ## y2v10.25
 
 <!-- walk: y2v10.25 → start -->
@@ -851,9 +821,6 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [note] (p.1) Passing mentions on pages: p.4.
 [mentioned] (p.1) Passing mention only.
 
-
-
-
 ## y2v11
 
 <!-- walk: y2v11 → start -->
@@ -862,9 +829,5 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mention (locator pages: p.123-124, p.126-130, p.132, p.148; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
-
-
-
-
 
 <!-- walk: y2v12 Epilogue → p.228 -->

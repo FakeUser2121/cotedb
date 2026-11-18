@@ -68,7 +68,7 @@ char_id: komiya-kyogo · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:hasebe-haruka] (p.51) Disgust without disguise.
 [rel:ryuuen-kakeru] (p.50) His man on the mall watch.
 
-### y1v7 — Ch.3 half2
+### y1v7 p.65–97 — Ch.3 half2: not named in the second half
 [note] (pp.65–97) Not named in the second half of this chapter.
 
 <!-- walk: y1v7 ch3 → p.97 -->

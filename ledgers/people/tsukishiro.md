@@ -75,6 +75,10 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 
 <!-- walk: y1v11 → start -->
 
+## y1v11.5
+
+<!-- walk: y1v11.5 → start -->
+
 ### y1v11.5 pp.47–87 — Ch.1: Confronted over chess interference
 
 [scene] (p.47) Tsukishiro attends a meeting with Ayanokōji, Sakayanagi, and the teachers regarding the chess exam.
@@ -130,7 +134,6 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 [scene] (p.355) Warns the enforcer is acting independently.
 [rel:ayanokouji-kiyotaka] (p.352–357) Meets him.
 
-
 <!-- walk: y2v1 Epilogue → p.369 -->
 
 ### y2v1 p.7–10 — Tsukishiro's briefing: the mission to expel Ayanokōji
@@ -183,7 +186,6 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
-
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
 ## y3v1
@@ -191,7 +193,6 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 <!-- walk: y3v1 → start -->
 
 <!-- walk: y3v1 Epilogue → p.287 -->
-
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
@@ -246,8 +247,6 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 
 <!-- walk: y2v2 → start -->
 
-
-
 ### y2v2 p.336–337 — Tsukishiro's final push before losing his position
 [says] (p.336) "We're in late July already. It's certainly getting hotter, right?"
 [says] (p.336) "Please, are you done with your analysis yet? Prolonging it anymore won't help you."
@@ -269,8 +268,6 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 
 <!-- walk: y2v3 Ch.1 → p.34 -->
 
-
-
 ### y2v3 p.342–346 — Tsukishiro threatens Ichinose; expects his trap to spring
 [scene] (p.342) Arrives (slightly late) with Ichinose's backpack, reining in Shiba from disposing of her; questions her about what she overheard.
 [says] (p.342) "If I'm not mistaken, you're Ichinose Honami from Class 2-C, correct?"
@@ -290,8 +287,6 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 ## y2v4
 
 <!-- walk: y2v4 → start -->
-
-
 
 ### y2v4 p.252–272 — Tsukishiro's final trap at I2; his defeat
 [scene] (p.252) Waits at I2's tip with Shiba for Ayanokōji — the final trap to "bury" him where there's no watch signal.
@@ -319,9 +314,6 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 [note] (p.10) Passing mentions on pages: p.16, p.22, p.30, p.59, p.127.
 [mentioned] (p.10) Passing mention only.
 
-
-
-
 ## y2v5
 
 <!-- walk: y2v5 → start -->
@@ -330,9 +322,6 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 [scene] (p.7) Named in this volume.
 [note] (p.7) Passing mentions on pages: p.66, p.72.
 [mentioned] (p.7) Passing mention only.
-
-
-
 
 ## y2v6
 
@@ -343,9 +332,6 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 [note] (p.11) Passing mentions on pages: p.163, p.321.
 [mentioned] (p.11) Passing mention only.
 
-
-
-
 ## y2v7
 
 <!-- walk: y2v7 → start -->
@@ -354,9 +340,6 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 [scene] (p.7) Named in this volume.
 [note] (p.7) Passing mentions on pages: p.115, p.171.
 [mentioned] (p.7) Passing mention only.
-
-
-
 
 ## y2v8
 
@@ -367,14 +350,9 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 [note] (p.11) Passing mentions on pages: p.34-36, p.60, p.190.
 [mentioned] (p.11) Passing mention only.
 
-
-
-
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
-
-
 
 ## y2v11
 
@@ -384,9 +362,5 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mention (locator pages: p.65-66, p.180, p.183; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
-
-
-
-
 
 <!-- walk: y2v12 Epilogue → p.228 -->

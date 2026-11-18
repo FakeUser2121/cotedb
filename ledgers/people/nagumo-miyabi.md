@@ -2,6 +2,27 @@
 
 char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · status: minor
 
+## y1v11.5
+
+<!-- walk: y1v11.5 → start -->
+
+### y1v11.5 pp.94–104 — Ch.1: Graduation farewells
+
+[scene] (p.94) As current student council president, Nagumo approaches Horikita Manabu after the graduates’ meeting and congratulates him on graduating.
+[says] (p.94) “Congratulations on graduating, Horikita-senpai.”
+[scene] (p.94) He tells Manabu he was unable to threaten him, attributing it in part to being in a different year.
+[scene] (p.95) Nagumo shakes Manabu’s hand and exchanges words with him about the past year.
+[scene] (p.97) He declares he will use his remaining year to turn the school into a meritocracy based on ability.
+[scene] (p.98) After parting from Manabu, Nagumo approaches Horikita Suzune and speaks to her as Manabu’s sister.
+[scene] (p.100) In conversation with Asahina and others, Nagumo maintains that he did not lose to Horikita Manabu despite Manabu graduating from Class A.
+[rel:horikita-manabu] (p.94–98) Congratulates him and exchanges parting words as successor and graduate.
+[rel:horikita-suzune] (p.98–104) Approaches and speaks to her during the farewells.
+[rel:asahina-nazuna] (p.94–104) Is accompanied by her and discusses the outcome with her.
+[rel:kiriyama-ikuto] (p.94) Appears with him among student council members at the farewell.
+[rel:ayanokouji-kiyotaka] (p.94–104) Is observed by him during the farewell exchanges.
+
+<!-- walk: y1v11.5 ch1 → p.120 -->
+
 ## y2v1
 
 <!-- walk: y2v1 → start -->
@@ -113,7 +134,6 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [rel:ayanokouji-kiyotaka] (p.87–89) Warned about him; still declines the student-council game.
 
 <!-- walk: y1v7 ch3 → p.97 -->
-
 
 ## y1v7.5
 
@@ -293,7 +313,6 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [goal] (p.209–210) Win tomorrow with groundwork laid — least damage path for Manabu is abstention.
 
 <!-- walk: y1v8 ch7 → p.211 -->
-
 
 ### y1v8 p.227–228 — Ch.9 half 1: second place with a smile
 [scene] (p.227) Their large group announced second; Nagumo smiles beside Ayanokōji with no sign of upset.
@@ -481,23 +500,6 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y1v10 Ch4 → p.181 -->
 
-### y1v11.5 pp.94–104 — Ch.1: Graduation farewells
-
-[scene] (p.94) As current student council president, Nagumo approaches Horikita Manabu after the graduates’ meeting and congratulates him on graduating.
-[says] (p.94) “Congratulations on graduating, Horikita-senpai.”
-[scene] (p.94) He tells Manabu he was unable to threaten him, attributing it in part to being in a different year.
-[scene] (p.95) Nagumo shakes Manabu’s hand and exchanges words with him about the past year.
-[scene] (p.97) He declares he will use his remaining year to turn the school into a meritocracy based on ability.
-[scene] (p.98) After parting from Manabu, Nagumo approaches Horikita Suzune and speaks to her as Manabu’s sister.
-[scene] (p.100) In conversation with Asahina and others, Nagumo maintains that he did not lose to Horikita Manabu despite Manabu graduating from Class A.
-[rel:horikita-manabu] (p.94–98) Congratulates him and exchanges parting words as successor and graduate.
-[rel:horikita-suzune] (p.98–104) Approaches and speaks to her during the farewells.
-[rel:asahina-nazuna] (p.94–104) Is accompanied by her and discusses the outcome with her.
-[rel:kiriyama-ikuto] (p.94) Appears with him among student council members at the farewell.
-[rel:ayanokouji-kiyotaka] (p.94–104) Is observed by him during the farewell exchanges.
-
-<!-- walk: y1v11.5 ch1 → p.120 -->
-
 ### y1v10 pp.257–259 — Ch.6: Lending points to Ichinose
 
 [scene] (p.257) Takes Ichinose’s call and confirms their arrangement.
@@ -530,7 +532,6 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
-
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
 ## y3v1
@@ -538,7 +539,6 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 <!-- walk: y3v1 → start -->
 
 <!-- walk: y3v1 Epilogue → p.287 -->
-
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
@@ -563,14 +563,6 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y2v2 Ch.2 → p.82 -->
 
-### y2v3 p.130–132 — Nagumo appears at the Beach Flags Task
-[scene] (p.130–132) He appears at the Beach Flags Task and talks with Ayanokōji; he suggests Ayanokōji should group up with someone.
-[trait] (p.130–132) Calculating and observant.
-
-<!-- walk: y2v3 Ch.4 → p.132 -->
-
-
-
 ### y2v2 p.75–81 — Nagumo admits Horikita; challenges Ayanokōji
 [scene] (p.75) In the student council office, receives Horikita and Ayanokōji; welcomes the conversation but invites her straight to the point.
 [says] (p.75) "So what did you want to talk to me about? You didn't come just to talk, right?"
@@ -592,8 +584,6 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y2v3 → start -->
 
-
-
 ### y2v3 p.130–132 — Nagumo's beach warning and hidden strategy
 [scene] (p.130) In the ocean near the Task site with Asahina and other third-years, having rented swimsuits and a beach ball; beckons Ayanokōji over.
 [says] (p.130) "I'll say it again just to be sure: Don't get in my way, got it?"
@@ -607,6 +597,13 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [rel:asahina-nazuna] (p.131–132) Class 2-C's Mii-chan playing in the ocean; tries to warn Ayanokōji about Nagumo.
 [rel:horikita-suzune] (p.131) References her — knows of their connection.
 [rel:masuwaka] (p.131) Third-year who calls Nagumo away for a private talk.
+
+### y2v3 p.130–132 — Nagumo appears at the Beach Flags Task
+[scene] (p.130–132) He appears at the Beach Flags Task and talks with Ayanokōji; he suggests Ayanokōji should group up with someone.
+[trait] (p.130–132) Calculating and observant.
+
+<!-- walk: y2v3 Ch.4 → p.132 -->
+
 ## y2v4
 
 <!-- walk: y2v4 → start -->
@@ -620,8 +617,6 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y2v4 Ch.1 → p.37 -->
 
-
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
@@ -630,9 +625,6 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [scene] (p.10) Named in this volume.
 [note] (p.10) Passing mentions on pages: p.23-24, p.37-38, p.41-43, p.45-54, p.87.
 [mentioned] (p.10) Passing mention only.
-
-
-
 
 ## y2v5
 
@@ -643,14 +635,9 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [note] (p.7) Passing mentions on pages: p.241-242.
 [mentioned] (p.7) Passing mention only.
 
-
-
-
 ## y2v6
 
 <!-- walk: y2v6 → start -->
-
-
 
 ### y2v6 p.50–57 — Nagumo's challenge; lunch with Ichinose
 [says] (p.50) "Yo, Ayanokouji. Anything unusual happen in your daily life lately?"
@@ -676,8 +663,6 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y2v7 → start -->
 
-
-
 ### y2v7 p.44–53 — Nagumo: loses his "game" to Ayanokōji's sincerity
 [says] (p.46) "the game with you is over and so is my school life. As a result, I don't give a shit about the cultural festival."
 [says] (p.48) "You ran away from the last chance I gave you at the sports festival."
@@ -694,9 +679,6 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.61, p.207.
 [mentioned] (p.11) Passing mention only.
-
-
-
 
 ## y2v9
 
@@ -725,8 +707,6 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y2v9.5 → start -->
 
-
-
 ## y2v10
 
 <!-- walk: y2v10 → start -->
@@ -736,9 +716,6 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [note] (p.9) Passing mention (locator pages: p.234; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
-
-
-
 ## y2v11
 
 <!-- walk: y2v11 → start -->
@@ -747,9 +724,5 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mention (locator pages: p.39, p.53-62, p.64-65, p.67-72, p.78, p.84; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
-
-
-
-
 
 <!-- walk: y2v12 Epilogue → p.228 -->

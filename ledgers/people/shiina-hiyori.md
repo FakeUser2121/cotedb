@@ -80,7 +80,7 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [trait] (p.39–46) Bookish, decisive once engaged, openly lonely for a reading peer; claims zero interest in conflict while standing next to Ryuuen’s orbit.
 [note] (p.48–49) Group treats the lunch as possible romance; Ayanokōji files it as a probe.
 
-### y1v7 — Ch.3 half2
+### y1v7 p.65–97 — Ch.3 half2: not named in the second half
 [note] (pp.65–97) Not named in the second half of this chapter.
 
 <!-- walk: y1v7 ch3 → p.97 -->
@@ -136,7 +136,6 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [mentioned] (p.85) Passing mention only.
 [rel:ryuuen-kakeru] (p.84–85) His pick to carry the groundwork after stepping down.
 [rel:kaneda-satoru] (p.84–85) Paired as the next leadership.
-
 
 <!-- walk: y1v7.5 ch4 → p.106 -->
 
@@ -238,6 +237,24 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 
 <!-- walk: y1v11 ch9 → p.399 -->
 
+### y1v11 pp.383–386 — Ch.8: Karaoke wait
+
+[scene] (p.383) Describes the group as Ishizaki and his merry band.
+[says] (p.383) “How shall we put it... This is Ishizaki-kun and his merry band of friends?”
+[scene] (p.384) Says she already invited Ryūen.
+[says] (p.384) “Yes. I’ve already invited him.”
+[scene] (p.385) Says Ryūen is just a tiny bit late.
+[says] (p.385) “It looks like he’s just a tiny bit late.”
+[scene] (p.386) Says she has a feeling Ryūen will come.
+[says] (p.386) “I’ve just got a feeling that he is.”
+[rel:ishizaki-daichi] (p.383–386) Waits with him.
+[rel:ibuki-mio] (p.383–386) Waits with her.
+[rel:ryuuen-kakeru] (p.383–386) Invites him.
+
+## y1v11.5
+
+<!-- walk: y1v11.5 → start -->
+
 ### y1v11.5 pp.124–142 — Ch.2: Café meeting with Ayanokōji
 
 [scene] (p.124) Hiyori meets Ayanokōji at Keyaki mall at the start of spring break, already waiting with newly added library books.
@@ -268,21 +285,7 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 
 <!-- walk: y1v11.5 ch7 → p.423 -->
 
-### y1v11 pp.383–386 — Ch.8: Karaoke wait
-
-[scene] (p.383) Describes the group as Ishizaki and his merry band.
-[says] (p.383) “How shall we put it... This is Ishizaki-kun and his merry band of friends?”
-[scene] (p.384) Says she already invited Ryūen.
-[says] (p.384) “Yes. I’ve already invited him.”
-[scene] (p.385) Says Ryūen is just a tiny bit late.
-[says] (p.385) “It looks like he’s just a tiny bit late.”
-[scene] (p.386) Says she has a feeling Ryūen will come.
-[says] (p.386) “I’ve just got a feeling that he is.”
-[rel:ishizaki-daichi] (p.383–386) Waits with him.
-[rel:ibuki-mio] (p.383–386) Waits with her.
-[rel:ryuuen-kakeru] (p.383–386) Invites him.
-
-### y1v11.5 Ch.2 — Depth review: she deduced the Ryūen change
+### y1v11.5 p.124–141 — Depth review: she deduced the Ryūen change
 [scene] (p.124) Arrives early at Keyaki Mall to meet Ayanokōji, carrying newly-arrived library books by their shared favourite author.
 [says] (p.124) "Hello, Ayanokouji-kun."
 [says] (p.125) "I wanted to share some information with Ayanokouji-kun as soon as possible."
@@ -299,6 +302,7 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [rel:ryuuen-kakeru] (p.137–141) Believes he would not listen to her, but that he would heed criticism from someone he acknowledges — hence the message.
 [rel:ishizaki-daichi] (p.137) Contacted him to investigate Ryūen.
 [rel:ibuki-mio] (p.137) Contacted her to investigate Ryūen.
+
 ## y2v1
 
 <!-- walk: y2v1 → start -->
@@ -311,7 +315,6 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 
 <!-- walk: y2v1 ch5 → p.285 -->
 
-
 <!-- walk: y2v1 ch5 → p.285 -->
 
 ### y2v1 pp.206, 226 — Epilogue: Library
@@ -319,7 +322,6 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [scene] (p.206) Greets Horikita and Ayanokōji at the library.
 [scene] (p.226) Reserves seats for them.
 [rel:ayanokouji-kiyotaka] (p.206, 226) Helps them.
-
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
@@ -343,7 +345,6 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
-
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
 ## y3v1
@@ -351,7 +352,6 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 <!-- walk: y3v1 → start -->
 
 <!-- walk: y3v1 Epilogue → p.287 -->
-
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
@@ -499,8 +499,6 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 
 <!-- walk: y2v2 Ch.3 → p.167 -->
 
-
-
 ### y2v2 p.157–166 — Hiyori supports Ishizaki's group plan
 [scene] (p.157) Approaches the group with a gentle smile "like a leader," having listened to Ishizaki's proposal.
 [note] (p.159–166) Hiyori supports Ishizaki's plan and listens with great interest, but also points out its problems (along with Ayanokōji), knowing forming a group with him won't be easy; she gently places a hand on his shoulder as he reluctantly agrees.
@@ -522,8 +520,6 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 
 <!-- walk: y2v4 → start -->
 
-
-
 ### y2v4 p.116–120 — Hiyori's six-person group at sunset
 [says] (p.116) "What? Isn't it Ayanokouji-kun?"
 [says] (p.116) "You look better than I thought."
@@ -536,8 +532,6 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
-
-
 
 ### y2v4.5 p.119–128 — Hiyori: witness to the dispute; serious invitation to Ayanokōji
 [says] (p.119) "Have you seen Katsuragi?"
@@ -559,9 +553,6 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [note] (p.7) Passing mentions on pages: p.164, p.166-167, p.242.
 [mentioned] (p.7) Passing mention only.
 
-
-
-
 ## y2v6
 
 <!-- walk: y2v6 → start -->
@@ -570,9 +561,6 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: none.
 [mentioned] (p.11) Passing mention only.
-
-
-
 
 ## y2v7
 
@@ -583,9 +571,6 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [note] (p.7) Passing mentions on pages: none.
 [mentioned] (p.7) Passing mention only.
 
-
-
-
 ## y2v8
 
 <!-- walk: y2v8 → start -->
@@ -594,9 +579,6 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: none.
 [mentioned] (p.11) Passing mention only.
-
-
-
 
 ## y2v9.5
 
@@ -624,8 +606,6 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 
 <!-- walk: y2v9.5 Postscript → p.210 -->
 
-
-
 ## y2v10
 
 <!-- walk: y2v10 → start -->
@@ -635,9 +615,6 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [note] (p.9) Passing mention (locator pages: p.164, p.175, p.189-190, p.229; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
-
-
-
 ## y2v11
 
 <!-- walk: y2v11 → start -->
@@ -646,9 +623,5 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mention (locator pages: p.46, p.48-49, p.108, p.137, p.140, p.171; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
-
-
-
-
 
 <!-- walk: y2v12 Epilogue → p.228 -->

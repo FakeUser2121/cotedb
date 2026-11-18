@@ -545,7 +545,6 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:katsuragi-kouhei] (p.194) Named in the contract-void warning.
 [rel:sakayanagi-arisu] (p.194) Same.
 
-
 <!-- walk: y1v7 ch6 → p.196 -->
 
 ### y1v7 p.198–203 — Ch.7: the eight-hundred-million checkmate
@@ -574,7 +573,6 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:ishizaki-daichi] (p.198, 202) Named in the fight memory and the teacher’s list.
 [rel:yamada-albert] (p.198, 202) Same.
 [rel:ayanokouji-kiyotaka] (p.198) The one-loss she throws in his face.
-
 
 <!-- walk: y1v7 ch7 → p.207 -->
 
@@ -611,7 +609,6 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [mentioned] (p.84) Passing mention only.
 [rel:ryuuen-kakeru] (p.76, 80) Present on the roof; asked the eight-hundred-million question that exposed the class-wide point plan.
 [rel:ayanokouji-kiyotaka] (p.80, 84) The outsider who took Ryuuen down; still disliked by her.
-
 
 <!-- walk: y1v7.5 ch4 → p.106 -->
 
@@ -730,6 +727,24 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y1v11 ch9 → p.399 -->
 
+### y1v11 pp.385–388 — Ch.8: Waiting for Ryūen
+
+[scene] (p.385) Says she does not have time for this.
+[says] (p.385) “I don’t have the time for this...”
+[scene] (p.386) Says she is having fun with Ishizaki and Shiina.
+[says] (p.386) “Besides, I’m having tons of fun spending time with you two. Won’t you stay?”
+[scene] (p.387) Says she is at her limit.
+[says] (p.387) “I can’t take it anymore! I’m at my limit!”
+[scene] (p.388) Threatens to kick Ryūen’s ass.
+[says] (p.388) “I’ll kick your ass if you leave me here in karaoke hell any longer.”
+[rel:ishizaki-daichi] (p.382–388) Waits with him.
+[rel:shiina-hiyori] (p.383–388) Waits with her.
+[rel:ryuuen-kakeru] (p.383–388) Waits for him.
+
+## y1v11.5
+
+<!-- walk: y1v11.5 → start -->
+
 ### y1v11.5 pp.150–156 — Ch.3: Encounter on the way to the mall
 
 [scene] (p.150) Ibuki encounters Ayanokōji in the dormitory elevator and walks toward Keyaki mall at the same pace despite her irritation.
@@ -752,21 +767,7 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y1v11.5 ch7 → p.423 -->
 
-### y1v11 pp.385–388 — Ch.8: Waiting for Ryūen
-
-[scene] (p.385) Says she does not have time for this.
-[says] (p.385) “I don’t have the time for this...”
-[scene] (p.386) Says she is having fun with Ishizaki and Shiina.
-[says] (p.386) “Besides, I’m having tons of fun spending time with you two. Won’t you stay?”
-[scene] (p.387) Says she is at her limit.
-[says] (p.387) “I can’t take it anymore! I’m at my limit!”
-[scene] (p.388) Threatens to kick Ryūen’s ass.
-[says] (p.388) “I’ll kick your ass if you leave me here in karaoke hell any longer.”
-[rel:ishizaki-daichi] (p.382–388) Waits with him.
-[rel:shiina-hiyori] (p.383–388) Waits with her.
-[rel:ryuuen-kakeru] (p.383–388) Waits for him.
-
-### y1v11.5 Ch.3 — Depth review: the hostile walk to the mall
+### y1v11.5 p.149–157 — Depth review: the hostile walk to the mall
 [scene] (p.149) Bumps into Ayanokōji in the dorm elevator, then ends up walking beside him toward Keyaki Mall.
 [says] (p.149) "You again…"
 [says] (p.150) "You say that… but I don't want to have anything to do with you anymore."
@@ -781,6 +782,7 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [rel:ayanokouji-kiyotaka] (p.149–157) Walks with him in tense silence; remains dismissive but now able to hold a conversation.
 [rel:ryuuen-kakeru] (p.153) Went along with the covert gathering for his sake, showing she regards him as integral to the class.
 [rel:ishizaki-daichi] (p.152–156) Kicks him for teasing her and dismisses his recruitment plan as impossible.
+
 ## y2v1
 
 <!-- walk: y2v1 → start -->
@@ -801,7 +803,6 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [scene] (p.201) Questions Ryūen’s strategy.
 [rel:ryuuen-kakeru] (p.200–203) Discusses strategy with him.
 
-
 <!-- walk: y2v1 ch4 → p.203 -->
 
 ### y2v1 pp.200–203 — Ch.5: Strategy session
@@ -810,13 +811,11 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [scene] (p.201) Questions Ryūen’s strategy.
 [rel:ryuuen-kakeru] (p.200–203) Discusses strategy with him.
 
-
 <!-- walk: y2v1 ch5 → p.285 -->
 
 ### y2v1 pp.311 — Ch.6: Mention
 
 [scene] (p.311) Mentioned as Class 2-C student.
-
 
 <!-- walk: y2v1 ch6 → p.343 -->
 
@@ -825,7 +824,6 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [scene] (p.200) Reports Class 1-B student put offer on hold.
 [scene] (p.201) Questions Ryūen’s strategy.
 [rel:ryuuen-kakeru] (p.200–203) Discusses strategy with him.
-
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
@@ -849,7 +847,6 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
-
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
 ## y3v1
@@ -857,7 +854,6 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 <!-- walk: y3v1 → start -->
 
 <!-- walk: y3v1 Epilogue → p.287 -->
-
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
@@ -999,13 +995,9 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v2 Ch.5 → p.325 -->
 
-
-
 ## y2v3
 
 <!-- walk: y2v3 → start -->
-
-
 
 ### y2v3 p.14–16 — Ibuki at the briefing, stuck beside Ayanokōji
 [says] (p.15) "…Ugh. Why the hell are you sitting here?"
@@ -1017,8 +1009,6 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 ## y2v4
 
 <!-- walk: y2v4 → start -->
-
-
 
 ### y2v4 p.67–78 — Ibuki alone and dehydrated; trades with Ayanokōji
 [scene] (p.67) Encountered alone, eating homemade jerky (Class 2-B's jerky strategy) — exhausted, dark circles, out of water for over a day.
@@ -1047,9 +1037,6 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [note] (p.10) Passing mentions on pages: p.136, p.138-143, p.146-150, p.249-250.
 [mentioned] (p.10) Passing mention only.
 
-
-
-
 ## y2v5
 
 <!-- walk: y2v5 → start -->
@@ -1059,14 +1046,9 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [note] (p.7) Passing mentions on pages: p.146, p.149-152, p.162.
 [mentioned] (p.7) Passing mention only.
 
-
-
-
 ## y2v6
 
 <!-- walk: y2v6 → start -->
-
-
 
 ### y2v6 p.112–145 — Ibuki: the cryptic message; breaking into Kushida's room
 [scene] (p.112) Corners Ayanokōji at the dorm elevator, shoving her phone at him over a message he sent ("If you get expelled because of something that has nothing to do with me, naturally, it will count as a loss against me") — she spent a week trying to understand it.
@@ -1098,9 +1080,6 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [note] (p.7) Passing mentions on pages: p.88, p.119-120, p.130, p.165, p.167-170.
 [mentioned] (p.7) Passing mention only.
 
-
-
-
 ## y2v8
 
 <!-- walk: y2v8 → start -->
@@ -1110,9 +1089,6 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [note] (p.11) Passing mentions on pages: p.72-74, p.110, p.163-165, p.169, p.171-172.
 [mentioned] (p.11) Passing mention only.
 
-
-
-
 ## y2v9.75
 
 <!-- walk: y2v9.75 → start -->
@@ -1121,9 +1097,6 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [scene] (p.1) Named in this volume.
 [note] (p.1) Passing mentions on pages: p.5-7, p.17.
 [mentioned] (p.1) Passing mention only.
-
-
-
 
 <!-- walk: y2v9.75 Epilogue → p.17 -->
 
@@ -1136,9 +1109,6 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [note] (p.9) Passing mention (locator pages: p.18-21, p.23-27, p.94-96, p.145, p.164, p.175; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
-
-
-
 ## y2v11
 
 <!-- walk: y2v11 → start -->
@@ -1147,9 +1117,5 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mention (locator pages: p.93-94, p.100-106, p.115, p.117, p.145-151, p.161; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
-
-
-
-
 
 <!-- walk: y2v12 Epilogue → p.228 -->

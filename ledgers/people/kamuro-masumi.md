@@ -250,7 +250,6 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [scene] (p.199) Sighs at Sakayanagi’s explanations.
 [rel:sakayanagi-arisu] (p.194–199) Discusses strategy with her.
 
-
 <!-- walk: y2v1 ch5 → p.285 -->
 
 ### y2v1 pp.194–199 — Epilogue: Strategy discussion
@@ -258,7 +257,6 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [scene] (p.194) Reports findings to Sakayanagi.
 [scene] (p.199) Sighs at Sakayanagi’s explanations.
 [rel:sakayanagi-arisu] (p.194–199) Discusses strategy with her.
-
 
 <!-- walk: y2v1 Epilogue → p.369 -->
 
@@ -292,7 +290,6 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
-
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
 ## y3v1
@@ -300,7 +297,6 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 <!-- walk: y3v1 → start -->
 
 <!-- walk: y3v1 Epilogue → p.287 -->
-
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
@@ -321,8 +317,6 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 
 <!-- walk: y2v2 Ch.5 → p.299 -->
 
-
-
 ## y2v3
 
 <!-- walk: y2v3 → start -->
@@ -334,8 +328,6 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 
 <!-- walk: y2v3 Ch.4 → p.126 -->
 
-
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
@@ -344,9 +336,6 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [scene] (p.10) Named in this volume.
 [note] (p.10) Passing mentions on pages: p.15, p.93-95.
 [mentioned] (p.10) Passing mention only.
-
-
-
 
 ## y2v6
 
@@ -357,9 +346,6 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [note] (p.11) Passing mentions on pages: p.219-222.
 [mentioned] (p.11) Passing mention only.
 
-
-
-
 ## y2v7
 
 <!-- walk: y2v7 → start -->
@@ -369,9 +355,6 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [note] (p.7) Passing mentions on pages: p.17-18.
 [mentioned] (p.7) Passing mention only.
 
-
-
-
 ## y2v8
 
 <!-- walk: y2v8 → start -->
@@ -380,9 +363,6 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.109.
 [mentioned] (p.11) Passing mention only.
-
-
-
 
 ## y2v9
 
@@ -394,6 +374,10 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [rel:sakayanagi-arisu] (p.149) Explains to her why studying in public aids concentration.
 
 <!-- walk: y2v9 Ch.5 → p.149 -->
+
+## y2v9.5
+
+<!-- walk: y2v9.5 → start -->
 
 ### y2v9.5 p.80–81, 189–203 — Kamuro: intel, warnings and probing Ayanokōji
 [scene] (p.80–81) She listens to Hashimoto's eavesdropping report but says she already knew much of it; she is dismissive of his casual charm.
@@ -409,14 +393,6 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 
 <!-- walk: y2v9.5 Epilogue → p.203 -->
 
-
-
-## y2v9.5
-
-<!-- walk: y2v9.5 → start -->
-
-
-
 ## y2v10
 
 <!-- walk: y2v10 → start -->
@@ -426,9 +402,6 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [note] (p.9) Passing mention (locator pages: p.103-104, p.121, p.138, p.146, p.150, p.154; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
-
-
-
 ## y2v11
 
 <!-- walk: y2v11 → start -->
@@ -437,9 +410,5 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mention (locator pages: p.11, p.20-21, p.23, p.88, p.90-91, p.111-112; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
-
-
-
-
 
 <!-- walk: y2v12 Epilogue → p.228 -->

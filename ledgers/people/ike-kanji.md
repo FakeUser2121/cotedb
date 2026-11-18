@@ -180,7 +180,6 @@ aliases used for anchors: ike, kanji, ike-kun
 [trait] (p.41–48) The volume's loudest id: he condemns a classmate, is reeled in by one girl's request, then spends the rest of the scene narrating his sex drive out loud. Nothing about him is strategic.
 [rel:kushida-kikyou] (p.47–50) He claims her publicly ("my Kushida-chan"), and her single request is what converts him into Sudou's helper; AK's pity: "In some ways, I felt a little sorry for Kushida."
 
-
 ### y1v2 p.50–53 — Ch.3 sec. 3.1: the phone, the ranking, the contest
 [says] (p.50) “Do you want to know? I bet you both want to know.” — AK: "Ike whipped out his phone with an air of unavoidable weariness."
 [says] (p.50) “You can track your registered friends’ locations on your school phones.”
@@ -195,7 +194,6 @@ aliases used for anchors: ike, kanji, ike-kun
 [trait] (p.50–52) He ranks women out loud as a tiered market ("one rank below her", a "7 outta 10") and treats surveillance as romance logistics; AK names it without softening: "What he was doing sounded just like stalking."
 [rel:ayanokouji-kiyotaka] (p.52) He recruits AK into the girlfriend contest and offers to set him up; AK's only counter is "Isn’t it kind of pathetic that you’re trying to introduce me to girls when you don’t have a girlfriend yourself?" and Ike can only answer "W-well…yeah."
 [rel:yamauchi-haruki] (p.50–52) Co-dependent rivals for the same girl — they trade fantasies, check each other for "outdone" moves, and leave AK as the audience.
-
 
 ### y1v2 p.61–64 — Ch.3 sec. 3.2–3.3: Kushida's entourage, in Class B
 [scene] (p.61) Kept behind at the table while Kushida and AK chase Horikita: “Ike-kun, Yamauchi-kun, could you two please wait here? We’ll be back right away,” and "“Okay!” the boys chorused." — AK's aside: "You certainly couldn’t claim those two were friendly with Horikita."
@@ -1008,6 +1006,16 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y1v11 ch10 → p.476 -->
 
+### y1v11 p.189 — Ch.5: Inviting Shinohara
+
+[scene] (p.189) Invites Shinohara to hang out on Sunday.
+[says] (p.189) “...A-are you free on Sunday... or, something?”
+[rel:shinohara-satsuki] (p.189) Invites her out.
+
+## y1v11.5
+
+<!-- walk: y1v11.5 → start -->
+
 ### y1v11.5 pp.128–134 — Ch.2: Café conversation
 
 [scene] (p.128) Ike sits at the Keyaki mall café with Shinohara during spring break, unaware that Ayanokōji and Hiyori are nearby.
@@ -1023,13 +1031,7 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y1v11.5 ch2 → p.143 -->
 
-### y1v11 p.189 — Ch.5: Inviting Shinohara
-
-[scene] (p.189) Invites Shinohara to hang out on Sunday.
-[says] (p.189) “...A-are you free on Sunday... or, something?”
-[rel:shinohara-satsuki] (p.189) Invites her out.
-
-### y1v11.5 Ch.2 — Depth review: near-confession and jealousy
+### y1v11.5 p.128–135 — Depth review: near-confession and jealousy
 [scene] (p.128) Sits at the café next to Ayanokōji and Hiyori with Shinohara, unaware they are being overheard.
 [says] (p.129) "It's me, it was my fault."
 [says] (p.129) "No, I'm serious, I think that I was one of the reasons that we lost. To be honest, we could have won if our class was more unified."
@@ -1040,6 +1042,7 @@ aliases used for anchors: ike, kanji, ike-kun
 [trait] (p.129–131) Blames himself for the exam loss, resolves to work harder in academics and sports, and fears being the next candidate for expulsion now that Yamauchi is gone.
 [rel:shinohara-satsuki] (p.129–135) Has grown close to her over break; is about to confess when she notices Ayanokōji and Hiyori, and the two argue their way out of the café.
 [rel:ayanokouji-kiyotaka] (p.133) Is startled to be overheard; accuses him of being "sneaky" for not greeting him.
+
 ## y2v1
 
 <!-- walk: y2v1 → start -->
@@ -1081,7 +1084,6 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
-
 <!-- walk: y2v12.5 Epilogue → p.216 -->
 
 ## y3v1
@@ -1089,7 +1091,6 @@ aliases used for anchors: ike, kanji, ike-kun
 <!-- walk: y3v1 → start -->
 
 <!-- walk: y3v1 Epilogue → p.287 -->
-
 
 <!-- walk: y3v1 Epilogue → p.287 -->
 
@@ -1147,8 +1148,6 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y2v2 Ch.1 → p.18 -->
 
-
-
 ### y2v2 p.169–176 — Ike wants to group with Shinohara
 [says] (p.169) "uh, it's gotta do with that. Ya know, the groups for this new uninhabited island exam… Have you talked to anyone about grouping up yet?"
 [says] (p.170) "you're feeling troubled… uh, I can form a group with you, yeah?"
@@ -1165,8 +1164,6 @@ aliases used for anchors: ike, kanji, ike-kun
 [trait] (p.164–186) Emotional and desperate — he is frantic about Shinohara.
 
 <!-- walk: y2v3 Ch.5 → p.186 -->
-
-
 
 ### y2v3 p.169–207 — Ike's ordeal: Shinohara's accident and his confession
 [scene] (p.169) Rushes to Komiya's side; learns Shinohara is missing and calls her name into the forest.
@@ -1197,13 +1194,9 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y2v4 Ch.1 → p.47 -->
 
-
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
-
-
 
 ### y2v4.5 p.26–30 — Ike's confession; visiting the injured Komiya
 [says] (p.26) "I'm thinking of going to visit Komiya right now."
@@ -1226,9 +1219,6 @@ aliases used for anchors: ike, kanji, ike-kun
 [note] (p.7) Passing mentions on pages: p.9-11, p.13-14, p.17, p.20, p.23-25.
 [mentioned] (p.7) Passing mention only.
 
-
-
-
 ## y2v6
 
 <!-- walk: y2v6 → start -->
@@ -1237,9 +1227,6 @@ aliases used for anchors: ike, kanji, ike-kun
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.11-12, p.15, p.17, p.19-22, p.24-29.
 [mentioned] (p.11) Passing mention only.
-
-
-
 
 ## y2v7
 
@@ -1250,9 +1237,6 @@ aliases used for anchors: ike, kanji, ike-kun
 [note] (p.7) Passing mentions on pages: p.6, p.8, p.10-12, p.14, p.16-23.
 [mentioned] (p.7) Passing mention only.
 
-
-
-
 ## y2v8
 
 <!-- walk: y2v8 → start -->
@@ -1261,9 +1245,6 @@ aliases used for anchors: ike, kanji, ike-kun
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.11, p.15-18, p.20-21, p.23-25, p.27.
 [mentioned] (p.11) Passing mention only.
-
-
-
 
 ## y2v9
 
@@ -1288,6 +1269,10 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y2v9 Ch.5 → p.142 -->
 
+## y2v9.5
+
+<!-- walk: y2v9.5 → start -->
+
 ### y2v9.5 p.66–78 — Ike: defending Ayanokōji in the class meeting
 [scene] (p.66–78) At Maezono's gathering he defends Ayanokōji as no troublemaker, insists he isn't just gloomy since he dates Karuizawa, and even offers to test his fighting ability with a sneak attack; Shinohara and Maezono shoot him down.
 [note] (p.71) He studies the displayed OAA with a serious expression.
@@ -1298,14 +1283,6 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y2v9.5 Ch.4 → p.78 -->
 
-
-
-## y2v9.5
-
-<!-- walk: y2v9.5 → start -->
-
-
-
 ## y2v10
 
 <!-- walk: y2v10 → start -->
@@ -1315,9 +1292,6 @@ aliases used for anchors: ike, kanji, ike-kun
 [note] (p.9) Passing mention (locator pages: p.8-13, p.15, p.17-21, p.23, p.26-28, p.31-32; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
-
-
-
 ## y2v11
 
 <!-- walk: y2v11 → start -->
@@ -1326,9 +1300,5 @@ aliases used for anchors: ike, kanji, ike-kun
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mention (locator pages: p.10, p.13-17, p.19, p.21, p.23-24, p.26-27; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
-
-
-
-
 
 <!-- walk: y2v12 Epilogue → p.228 -->

@@ -148,7 +148,6 @@ aliases used for anchors: tachibana, secretary, student council secretary
 
 <!-- walk: y1v8 ch7 → p.211 -->
 
-
 ### y1v8 p.232–237 — Ch.9: the named target and the revocation
 [scene] (p.232) The single Class A student in Ikari’s small group; named aloud in the gym; apologizes in tears; then saved by Manabu’s lifeline.
 [says:tachibana-akane] (p.233) “Horikita-kun, I’m sorry…!”
@@ -210,6 +209,18 @@ aliases used for anchors: tachibana, secretary, student council secretary
 
 <!-- walk: y1v11 ch6 → p.280 -->
 
+### y1v11 p.229 — Ch.5: Flag remark
+
+[scene] (p.229) Warns that calling Ayanokōji and Manabu a couple could become a flag.
+[says] (p.229) “T-that’s no good. You do know saying something like that can become a flag, right?”
+[scene] (p.229) Explains the idea of situational irony.
+[says] (p.229) “No, uh, I guess it’s like, situational irony or something…? Y’know, the type of thing that happens from time to time where two people who never thought they’d get together end up going out? It’s a common scenario.”
+[rel:horikita-manabu] (p.229) Interrupts his conversation with Ayanokōji.
+
+## y1v11.5
+
+<!-- walk: y1v11.5 → start -->
+
 ### y1v11.5 pp.94–98 — Ch.1: Graduation farewell
 
 [scene] (p.94) Tachibana Akane is present among the graduates and third-years during Horikita Manabu’s farewell after the graduates’ meeting.
@@ -219,16 +230,7 @@ aliases used for anchors: tachibana, secretary, student council secretary
 
 <!-- walk: y1v11.5 ch1 → p.120 -->
 
-### y1v11 p.229 — Ch.5: Flag remark
-
-[scene] (p.229) Warns that calling Ayanokōji and Manabu a couple could become a flag.
-[says] (p.229) “T-that’s no good. You do know saying something like that can become a flag, right?”
-[scene] (p.229) Explains the idea of situational irony.
-[says] (p.229) “No, uh, I guess it’s like, situational irony or something…? Y’know, the type of thing that happens from time to time where two people who never thought they’d get together end up going out? It’s a common scenario.”
-[rel:horikita-manabu] (p.229) Interrupts his conversation with Ayanokōji.
-
 ## y2v9
 
 <!-- walk: y2v9 → start -->
-
 

@@ -79,6 +79,16 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 
 <!-- walk: y2v2 Ch.3 → p.169 -->
 
+## y2v3
+
+<!-- walk: y2v3 → start -->
+
+### y2v3 p.84–88 — Hondō at Task site C6
+[scene] (p.84–88) He is present at Task site C6 with Sudō and Ike.
+[trait] (p.84–88) Present but not very engaged.
+
+<!-- walk: y2v3 Ch.3 → p.88 -->
+
 ### y2v3 p.84–88 — Hondō at Task site C6
 [scene] (p.84–88) He is at Task site C6 with Sudō and Ike; he seems disinterested.
 [trait] (p.84–88) Present but not very engaged.
@@ -91,20 +101,6 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 
 <!-- walk: y2v3 Ch.4 → p.114 -->
 
-
-
-## y2v3
-
-<!-- walk: y2v3 → start -->
-
-### y2v3 p.84–88 — Hondō at Task site C6
-[scene] (p.84–88) He is present at Task site C6 with Sudō and Ike.
-[trait] (p.84–88) Present but not very engaged.
-
-<!-- walk: y2v3 Ch.3 → p.88 -->
-
-
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
@@ -113,9 +109,6 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 [scene] (p.10) Named in this volume.
 [note] (p.10) Passing mentions on pages: p.16-18, p.160, p.183-184.
 [mentioned] (p.10) Passing mention only.
-
-
-
 
 ## y2v5
 
@@ -126,9 +119,6 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 [note] (p.7) Passing mentions on pages: p.13, p.19-20, p.25, p.27, p.91.
 [mentioned] (p.7) Passing mention only.
 
-
-
-
 ## y2v7
 
 <!-- walk: y2v7 → start -->
@@ -137,9 +127,6 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 [scene] (p.7) Named in this volume.
 [note] (p.7) Passing mentions on pages: p.112, p.118.
 [mentioned] (p.7) Passing mention only.
-
-
-
 
 ## y2v8
 
@@ -150,9 +137,6 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 [note] (p.11) Passing mentions on pages: p.13, p.15, p.18-19, p.93.
 [mentioned] (p.11) Passing mention only.
 
-
-
-
 ## y2v9
 
 <!-- walk: y2v9 → start -->
@@ -162,13 +146,9 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 
 <!-- walk: y2v9 Ch.1 → p.9 -->
 
-
-
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
-
-
 
 ## y2v10
 
@@ -179,9 +159,6 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 [note] (p.9) Passing mention (locator pages: p.81, p.83-84, p.88, p.92, p.138; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
-
-
-
 ## y2v11
 
 <!-- walk: y2v11 → start -->
@@ -191,9 +168,6 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 [note] (p.11) Passing mention (locator pages: p.37, p.90; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
-
-
-
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -202,6 +176,4 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 [scene] (p.12) Named in this volume.
 [note] (p.12) Passing mention (locator pages: p.156, p.159; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.12) Passing mention only.
-
-
 

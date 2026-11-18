@@ -253,6 +253,16 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y1v11 ch8 → p.367 -->
 
+### y1v11 p.190 — Ch.5: Accepting Ike’s invitation
+
+[scene] (p.190) Tells Ike not to get the wrong idea about accepting.
+[says] (p.190) “D-don’t get the wrong idea, kay? The special exam is coming up soon, so this is just my last chance to relax. And since you’re saying you’ll pay and everything, how could I say no?”
+[rel:ike-kanji] (p.190) Accepts his White Day invitation.
+
+## y1v11.5
+
+<!-- walk: y1v11.5 → start -->
+
 ### y1v11.5 pp.128–135 — Ch.2: Café conversation
 
 [scene] (p.128) Shinohara sits at the Keyaki mall café with Ike during spring break, talking without noticing Ayanokōji and Hiyori nearby.
@@ -280,13 +290,7 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y1v11.5 ch5 → p.351 -->
 
-### y1v11 p.190 — Ch.5: Accepting Ike’s invitation
-
-[scene] (p.190) Tells Ike not to get the wrong idea about accepting.
-[says] (p.190) “D-don’t get the wrong idea, kay? The special exam is coming up soon, so this is just my last chance to relax. And since you’re saying you’ll pay and everything, how could I say no?”
-[rel:ike-kanji] (p.190) Accepts his White Day invitation.
-
-### y1v11.5 Ch.2 — Depth review: Shinohara and Ike's near-confession
+### y1v11.5 p.128–135 — Depth review: Shinohara and Ike's near-confession
 [scene] (p.128) Sits beside Ike at the café, not noticing Ayanokōji and Hiyori at the next table.
 [says] (p.129) "Hmm, that's how you see this, huh? You saying this is really surprising to me, Ike."
 [says] (p.130) "Don't use my first name, Shinohara."
@@ -297,6 +301,7 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [trait] (p.131) Sympathises with Ike's fear of expulsion and resolves to work harder herself, refusing to laugh at someone trying.
 [rel:ike-kanji] (p.129–135) Mutual resolve to improve; interrupts his confession by noticing Ayanokōji, then argues with him out of the café.
 [rel:ayanokouji-kiyotaka] (p.134) Asks teasingly whether he is on a date with Hiyori.
+
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
@@ -341,8 +346,6 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y2v2 Ch.1 → p.37 -->
 
-
-
 ## y2v3
 
 <!-- walk: y2v3 → start -->
@@ -353,8 +356,6 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [trait] (p.179–181) Terrified and traumatized — she was too scared to move.
 
 <!-- walk: y2v3 Ch.5 → p.181 -->
-
-
 
 ## y2v4
 
@@ -370,8 +371,6 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y2v4 Ch.3 → p.59 -->
 
-
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
@@ -380,9 +379,6 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [scene] (p.10) Named in this volume.
 [note] (p.10) Passing mentions on pages: p.27, p.31-34, p.116-117, p.211.
 [mentioned] (p.10) Passing mention only.
-
-
-
 
 ## y2v5
 
@@ -393,9 +389,6 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.7) Passing mentions on pages: p.9, p.14, p.29, p.32, p.48.
 [mentioned] (p.7) Passing mention only.
 
-
-
-
 ## y2v6
 
 <!-- walk: y2v6 → start -->
@@ -404,9 +397,6 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.27-28, p.41-44, p.60, p.66, p.72-74.
 [mentioned] (p.11) Passing mention only.
-
-
-
 
 ## y2v7
 
@@ -417,9 +407,6 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.7) Passing mentions on pages: p.26, p.54, p.110, p.132-133, p.177.
 [mentioned] (p.7) Passing mention only.
 
-
-
-
 ## y2v8
 
 <!-- walk: y2v8 → start -->
@@ -428,9 +415,6 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.21, p.32, p.39, p.129.
 [mentioned] (p.11) Passing mention only.
-
-
-
 
 ## y2v9
 
@@ -456,6 +440,10 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y2v9 Ch.5 → p.142 -->
 
+## y2v9.5
+
+<!-- walk: y2v9.5 → start -->
+
 ### y2v9.5 p.66–77 — Shinohara: in on the Ayanokōji discussion
 [scene] (p.66–77) She attends Maezono's gathering, is teased about the public "lovey-dovey" display with Ike, and bluntly tells him off when he postures about fighting Ayanokōji.
 [says] (p.76) "You've never been in a proper fight, have you?"
@@ -463,14 +451,6 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [rel:ike-kanji] (p.76) Shuts down his fighting boast.
 
 <!-- walk: y2v9.5 Ch.4 → p.77 -->
-
-
-
-## y2v9.5
-
-<!-- walk: y2v9.5 → start -->
-
-
 
 ## y2v10
 
@@ -481,9 +461,6 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.9) Passing mention (locator pages: p.81-84, p.88, p.136, p.151, p.164; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
-
-
-
 ## y2v11
 
 <!-- walk: y2v11 → start -->
@@ -493,9 +470,6 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.11) Passing mention (locator pages: p.90; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
-
-
-
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -504,6 +478,4 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [scene] (p.12) Named in this volume.
 [note] (p.12) Passing mention (locator pages: p.88; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.12) Passing mention only.
-
-
 

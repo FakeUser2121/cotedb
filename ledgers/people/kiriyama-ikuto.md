@@ -107,6 +107,10 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 
 <!-- walk: y1v9 Epilogue → p.225 -->
 
+## y1v11.5
+
+<!-- walk: y1v11.5 → start -->
+
 ### y1v11.5 pp.94–104 — Ch.1: Graduation farewells
 
 [scene] (p.94) Kiriyama appears with Nagumo Miyabi and other student council members during the third-year farewells after the graduates’ meeting.
@@ -137,15 +141,6 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 
 <!-- walk: y2v2 Ch.4 → p.278 -->
 
-### y2v3 p.127 — Kiriyama warns Ayanokōji
-[scene] (p.127) He approaches Ayanokōji at the Beach Flags Task and warns him not to get in his way.
-[says] (p.127) "I'll say it again just to be sure: Don't get in my way, got it?"
-[trait] (p.127) Hostile and on guard.
-
-<!-- walk: y2v3 Ch.4 → p.127 -->
-
-
-
 ## y2v3
 
 <!-- walk: y2v3 → start -->
@@ -158,7 +153,12 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 
 <!-- walk: y2v3 Ch.4 → p.130 -->
 
+### y2v3 p.127 — Kiriyama warns Ayanokōji
+[scene] (p.127) He approaches Ayanokōji at the Beach Flags Task and warns him not to get in his way.
+[says] (p.127) "I'll say it again just to be sure: Don't get in my way, got it?"
+[trait] (p.127) Hostile and on guard.
 
+<!-- walk: y2v3 Ch.4 → p.127 -->
 
 ## y2v4
 
@@ -171,8 +171,6 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 
 <!-- walk: y2v4 Ch.6 → p.284 -->
 
-
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
@@ -182,9 +180,6 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 [note] (p.10) Passing mentions on pages: p.36-37, p.43-50, p.52-53, p.153-154.
 [mentioned] (p.10) Passing mention only.
 
-
-
-
 ## y2v7
 
 <!-- walk: y2v7 → start -->
@@ -193,9 +188,6 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 [scene] (p.7) Named in this volume.
 [note] (p.7) Passing mentions on pages: p.78-79.
 [mentioned] (p.7) Passing mention only.
-
-
-
 
 ## y2v9
 
@@ -230,13 +222,9 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 
 <!-- walk: y2v9 Ch.6 → p.190 -->
 
-
-
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
-
-
 
 ## y2v12
 
@@ -246,6 +234,4 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 [scene] (p.12) Named in this volume.
 [note] (p.12) Passing mention (locator pages: p.169; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.12) Passing mention only.
-
-
 
