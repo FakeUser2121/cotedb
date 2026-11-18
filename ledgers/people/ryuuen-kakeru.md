@@ -1803,6 +1803,17 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [scene] (p.69) His name is on the monitor under 2nd Year Class C — Vanguard: Nishino Takeko, Middle Guard: Katsuragi Kōhei, General: Ryūen Kakeru.
 
 <!-- walk: y2v12 ch3 → p.86 -->
+
+### y2v12 p.146–147 — Ch.6: In the hallway after the result
+[scene] (p.146–147) As the recess timer ends, Ayanokōji leaves for the room; Ryūen follows fast; “The bathroom is the other way.” — then comments she lost in an anti-climatic fashion, “it was right not to entrust her as the general.”
+[says] (p.147) “She lost in such an anti-climatic fashion too. It was right not to entrust her as the general.”
+[says] (p.147) “Ichinose right now seems quite formidable.”
+[says] (p.147) “Totally like how a cornered rat will bite a cat. It wouldn’t surprise me if you ended up the same.”
+[says] (p.147) “It’s a pity I won’t be able to directly see how you’ll challenge the current Ichinose.”
+[scene] (p.147) He acknowledges with a laugh that Ayanokōji is asked to sit the bench this time; advises him to worry about himself; returns to the waiting room with dignity.
+[rel:horikita-suzune] (p.147) Her defeat is a mirror for his match against Sakayanagi — he knows the same wall is coming.
+
+<!-- walk: y2v12 ch6 → p.152 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

@@ -127,10 +127,9 @@ char_id: watanabe-norihito · class: unknown · status: unknown
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — watanabe-norihito mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.120; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.120–121 — Ch.6: The suspect honor student
+[scene] (p.120) Named in the discussion participant list for the middle-guard battle — Class D side.
+[scene] (p.121) Miyake, claiming to be a graduate, points at him as honor student; a debate ensues; he denies it — “Miyake, claiming to be a graduate, pointed out that Norihito was an honor student. Naturally, a debate ensued with Norihito denying it”; Kanzaki nominates him — wrong; he is not the honor student.
+[note] (p.121) Kanzaki believed him to be an honor student and paid one life for it; the remaining honor student is Ninomiya.
 
-
-
+<!-- walk: y2v12 ch6 → p.152 -->

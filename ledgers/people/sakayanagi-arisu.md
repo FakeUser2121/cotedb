@@ -956,6 +956,28 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:totsuka-yahiko] (p.117) The dead name — she drove him to expulsion; Katsuragi's grudge stands on it.
 
 <!-- walk: y2v12 ch5 → p.118 -->
+
+### y2v12 p.129–131, 142–145 — Ch.6: The Katsuragi duel
+[scene] (p.129) First round; he looks nervous; she probes — perhaps he noticed nothing; she tells him not to let his guard down; she plays the calm aristocrat.
+[says] (p.129) “If you think you’re being lenient towards me, you’d better stop.”
+[says] (p.129) “Our positions may differ, but if you let your guard down, you’ll be swept off your feet.”
+[says] (p.129) “How very noble of you. You’re not getting worked up at all against me, are you?”
+[scene] (p.130) She laughs — observes his loosened tie — reveals Kitō was instructed to mess it up — evidence of his true feelings; he tightens it; she smiles at the monitor.
+[says] (p.130) “Fufufu.”
+[scene] (p.132) Round two discussion resumed.
+[scene] (p.142) She has taken him to his last life; she toys — he's been thinking a long time; when making a nomination he must tap three times; passing also costs three taps — invisible.
+[says] (p.142) “You’ve been thinking for a long time, it seems.”
+[scene] (p.143) She turns her tablet toward him — taps ‘yes’ — her pick is Sawada, an honor student — “Well, it seems you didn't know who the honor student was. Since we've come this far, wouldn't you want to enjoy the game a little longer?” — he passes; she takes his last three.
+[says] (p.143) “See, this way, your opponent’s choice is completely exposed, right?”
+[says] (p.143) “Well, it seems you didn’t know who the honor student was.”
+[says] (p.144) “A lie? That’s an outrageous assumption. You should graciously accept the kindness of others.”
+[scene] (p.145) She tells him “you did well,” praises his composure, warns him away from the Totsuka revenge — “Your anger is justified, but your revenge won’t be fulfilled” — the door closes on him.
+[says] (p.145) “You did well, considering your position.”
+[says] (p.145) “You adopted quite a straightforward strategy.”
+[rel:katsuragi-kouhei] (p.129–145) She wins by predicting him completely — the tie trap was her masterstroke of read-the-man.
+[rel:kitou-hayato] (p.113–116) Her marksmanship with the sacrificial lamb — she asked him to take the hit for her read.
+
+<!-- walk: y2v12 ch6 → p.152 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

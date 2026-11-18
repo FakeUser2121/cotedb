@@ -44,7 +44,8 @@ char_id: sawada-yasumi · class: unknown · status: unknown
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — sawada-yasumi mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.143-144; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.143–144 — Ch.6: Named in the tablet reveal
+[scene] (p.143–144) Sakayanagi shows Katsuragi her own answer — Sawada's name and the label of an honor student; he is an honor student; the discussion ends; Sakayanagi wins.
+[note] (p.143–144) The Sakayanagi–Katsuragi discussion's participant list is never printed; his class and role beyond honor student are unknown; he is present only as a reveal.
+
+<!-- walk: y2v12 ch6 → p.152 -->

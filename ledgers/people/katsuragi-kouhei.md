@@ -1012,6 +1012,29 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [rel:totsuka-yahiko] (p.117–118) The reason for all of it — avenged in the exam if at all; she chose Katsuragi over him once, she reminds him.
 
 <!-- walk: y2v12 ch5 → p.118 -->
+
+### y2v12 p.129–131, 142–145 — Ch.6: The Sakayanagi duel
+[scene] (p.129) First round, Cat-and-mouse quiet; he watches her every micro-cue; his heart is not steady — her superior thinking rattles him.
+[says] (p.129) “Not at all. It’s true that I’m here to defeat you, but unlike Kitō, I don’t intend to fight with my personal feelings at the forefront. This is a team battle.”
+[scene] (p.130) She laughs — points at his loosened tie on camera 3; he realizes when it happened; she reveals she instructed Kitō to mess it up — a trap to read his motives; he steadies himself.
+[says] (p.130) “...Tie?”
+[scene] (p.131) She toys — as we both still know nothing, shall we proceed to round two — and she observes the monitors with a smile.
+[scene] (p.142) He has pushed her to 9 lives; he is at 1; he agonizes — pass and gamble, or attack; she notes he's been thinking for a long time.
+[says:sakayanagi-arisu] (p.143) “If you’ve found someone, just hurry up and nominate them.”
+[says] (p.143) “...What?”
+[scene] (p.143) She turns the tablet toward him — her choice is exposed — Sawada's name and the label of an honor student; he passes in clever denial; both reach the same answer — draw — but only hers hits; she wins.
+[says] (p.143) “What are you trying to do?”
+[says] (p.144) “Is this a lie to lure me out?”
+[says] (p.144) “I’m not falling for that trick.”
+[scene] (p.145) She takes his last three lives; his revenge ends — April, in the room across from her; he exits with honest analysis of his own defeat.
+[says] (p.145) “How idiotic. You were telling the truth...? What benefit was there for you to expose such a thing!?”
+[says] (p.145) “How is that advantageous to you…?”
+[says] (p.145) “I wanted to reduce your lives a bit more, but it was my own mistake to be caught up in the situation.”
+[says] (p.145) “I’d like that corrected.”
+[rel:sakayanagi-arisu] (p.129–145) The sworn-enemy rematch — she is better by one full class.
+[rel:totsuka-yahiko] (p.145) His revenge dies here — April, in the room across from her.
+
+<!-- walk: y2v12 ch6 → p.152 -->
 ## y3v1
 
 <!-- walk: y3v1 → start -->

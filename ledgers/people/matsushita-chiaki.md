@@ -119,6 +119,12 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 [note] (p.88) Shinohara also complains here that they cannot see any progress until the exam is over; the examiner answers him without pause; the explanations rule out any guessing strategy outright.
 
 <!-- walk: y2v12 ch4 → p.100 -->
+
+### y2v12 p.120 — Ch.6: Discussion participant list (Horikita vs Kanzaki)
+[scene] (p.120) Named in the discussion participant list for the middle-guard battle — Class B side, in the calm/bold/poker-face group.
+[note] (p.120) No dialogue or action is printed for her on these pages; the role is never disclosed.
+
+<!-- walk: y2v12 ch6 → p.152 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

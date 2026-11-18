@@ -6,12 +6,11 @@ char_id: iguchi-yuri · class: unknown · status: unknown
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — iguchi-yuri mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.120; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.120 — Ch.6: Discussion participant list (Horikita vs Kanzaki)
+[scene] (p.120) Named in the discussion participant list as “Iguchi Mashiro” for the middle-guard battle — Class D side.
+[note] (p.120) The roster carries iguchi-yuri (Iguchi Yuri) as the only Iguchi row for this volume; the printed given name “Mashiro” does not match; the page is recorded as an occurrence, and the identity is unconfirmed — see this volume's coverage notes.
 
-
+<!-- walk: y2v12 ch6 → p.152 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

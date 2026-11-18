@@ -1507,6 +1507,30 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [scene] (p.80) During the hour-long group formation, Ichinose's class forms a small circle of three and discusses group selection seriously — no sign of the other classes' open secretive ways.
 
 <!-- walk: y2v12 ch3 → p.86 -->
+
+### y2v12 p.128, 132–141 — Ch.6: The generals' battle
+[scene] (p.132) She appears about five minutes after Kanzaki falls; smiles at Horikita's gratitude-for-punctuality remark; asks whether she'd appreciate a bit of small talk; Horikita compliments her softened presence.
+[says] (p.132) “Amazing, Horikita-san. To defeat even Kanzaki-kun without a scratch.”
+[says] (p.132) “Let’s each give it our all and do our best.”
+[says] (p.132) “By the way, I feel like your image has changed a bit from before, Horikita-san.”
+[says] (p.133) “Hm? From everyone.”
+[scene] (p.135) Round one passes; she nominates Chiba as an executive role — correct; Horikita loses one life.
+[says] (p.135) “That’s right. I thought so about Chiba-kun.”
+[scene] (p.135–137) She claims to have observed people very closely — even without Chiba's words she can tell truth from lies by gesture; Horikita goes cold; she names Minami correctly too — two hits in two rounds.
+[says] (p.137) “Yes. She was one of the few that I was hesitating on in the first round.”
+[says] (p.139) “Then I’ll have to put more effort into it.”
+[scene] (p.139) Horikita suggests an executive-role bias split; she uses the hint neutrally; Horikita probes her about Kanzaki; she denies point-blank and deduces Kanzaki despaired around Ayanokōji's news — Horikita's face told her enough.
+[says] (p.139) “...I didn’t hear anything.”
+[says] (p.139) “Honestly, I do think that it’ll be tough. But now that I’ve started the exam as the representative, I’m convinced—I’ll be okay in this special exam.”
+[scene] (p.140) She meets Horikita's panicked gaze; softly smiles; does not look away; declares the honor students' identities; says she can defeat Ayanokōji.
+[says] (p.140) “I can defeat Ayanokōji-kun.”
+[says] (p.140) “Ah…Yeah, I’m fine.”
+[says] (p.140) “I’ve already figured out who all the honor students are.”
+[note] (p.140–141) She wins; the battle is decided in under 20 minutes; her invincibile read is confirmed; Horikita's defeat follows quickly after — no honor-student hit is printed in the text before the off-page collapse.
+[rel:horikita-suzune] (p.132–141) She out-reads Horikita completely; the battle leaves Horikita broken; Ichinose wins without ever seeming to strain.
+[rel:ayanokouji-kiyotaka] (p.153) His rival — she will meet him in the arena next; she says she is very nervous, and honestly says just being together with him makes her feel this way.
+
+<!-- walk: y2v12 ch6 → p.152 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

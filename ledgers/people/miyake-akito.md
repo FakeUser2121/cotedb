@@ -505,11 +505,15 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — miyake-akito mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.30, p.38, p.91, p.120-122; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.120–122 — Ch.6: The honor student who came forward
+[scene] (p.120) Named in the discussion participant list for the middle-guard battle — Class B side.
+[scene] (p.121) He claims to be a graduate and points at Watanabe as the honor student; Kanzaki believes him — nominates Watanabe — wrong; Horikita reads him correctly as an honor student; both representatives hit or miss in opposite directions.
+[note] (p.121) “‘Horikita-san has successfully identified Miyake-kun as an honor student, so Kanzaki-kun will lose three lives.’” — the exact announcement.
+[scene] (p.122) He is dismissed — his departure visibly unsettles Ninomiya, the only other honor student.
+[note] (p.122) He opted for the strategy where honor students collect reward by executive-role nominations; “Miyake seemed to have opted for the latter this time” — an hour of his silence was not accidental.
+[rel:horikita-suzune] (p.121) She reads him correctly as the honor student; Kanzaki is fooled; the split decision decides the middle-guard battle.
 
+<!-- walk: y2v12 ch6 → p.152 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

@@ -3696,6 +3696,52 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:hirata-yousuke] (p.99–100) She receives his apology without resentment; his vanguard defeat is not his failure in her eyes — it is the exam's nature.
 
 <!-- walk: y2v12 ch4 → p.100 -->
+
+### y2v12 p.119–128 — Ch.6: The middle-guard battle
+[scene] (p.119) In the waiting room, the countdown begins; she waits for the middle-guard match; she imagines Kanzaki's game-plan — defensive, like Hirata or Hamaguchi — and wonders if offense is likelier.
+[says] (p.119) “But, there’s also a good chance he might go on the offensive to change the flow...”
+[scene] (p.120) Kanzaki enters with four minutes left; he surveys the room; sits; refuses small talk — asks her bluntly whose idea it was to make Ayanokōji the general, how and when it was decided.
+[says] (p.120) “Whose idea was it to put Ayanokōji as the general?”
+[says] (p.120) “That’s quite a sudden question.”
+[says] (p.120) “Whoever decided to make him the general, for what reason, and when, is our choice to make, isn’t it?”
+[says] (p.120) “Maybe. Perhaps even he’s changing little by little.”
+[says] (p.120) “Are we done here? I’d like to focus on the exam.”
+[scene] (p.120–122) The match begins; she selects the bold/poker-face group (Ijūin, Sudō, Miyake, Ichihashi, Onodera, Nishimura, Matsushita); in round three, Miyake claims graduate; she reads him as honor student — both nominate; she is right; Kanzaki loses four lives (7→3).
+[scene] (p.122) She considers a second discussion group; Ichinose's side faces the same problem; then she pauses — Kanzaki approaches her after the first discussion ends.
+[scene] (p.122–126) He pleads for concession — to be let into the end-of-year win via her mercy; he apologizes, bows so low his head touches his knees; she refuses flatly; he claims that Ichinose must feel as he does — there is no chance of winning once Ayanokōji walked in; Horikita bristles — don't underestimate Ichinose.
+[says] (p.122) “Are you serious? Sorry, but those words are difficult to believe.”
+[says] (p.123) “If you understand, then you shouldn’t be making such an impossible request in the first place.”
+[says] (p.124) “You’re underestimating Ichinose-san, who’s the leader of your class.”
+[says] (p.124) “I don’t like it.”
+[says] (p.126) “I won’t hold back.”
+[scene] (p.126–128) She tells him at least not to lie to himself; he can't win; she fights at full strength; in the second discussion he passes blankly, waits to lose; she nominates — Mine-kun is an honor student; Kanzaki hits zero; the battle is hers, 7-0.
+[says] (p.127) “Have you given up?”
+[says] (p.127) “...Then you should face this special exam with the resolve to defeat me and Ayanokōji-kun alone.”
+[thinks] (p.128) “I’m fighting to move up to Class A. That’s my goal...”
+[rel:kanzaki-ryuuji] (p.119–128) He comes to her begging; she wins as cleanly as an exam can be won; she refuses to gloat but does not flinch from the win.
+[rel:sudou-ken] (p.121) She watches him composed on the monitor and nearly cries with pride.
+
+### y2v12 p.132–141 — Ch.6: The generals' battle
+[scene] (p.132) Ichinose appears about five minutes later; Horikita observes every move; Ichinose notes Horikita's change — presence softened, easier to approach; Horikita denies, then concedes she might be.
+[says] (p.132) “...It’s just a coincidence.”
+[says] (p.132) “Is that so? I don’t think I’ve changed at all...”
+[says] (p.132) “...Really? It’s not my intention to be like that.”
+[scene] (p.135) Round one passes; then Ichinose calmly nominates Chiba as an executive role — Horikita loses one life; Ichinose's words flow smoothly, without a hint of hesitation.
+[scene] (p.137) Round two — Ichinose nominates ANOTHER executive role (Minami) — Horikita burns a nomination (incorrect) — she loses one life for getting it wrong AND one for Ichinose's hit; dizzied, she nearly loses her nerve.
+[says] (p.137) “Did you really know that Minami-san had an executive role?”
+[scene] (p.138) Round three — Ichinose passes; Horikita identifies an executive role (Hatsutori) — an underclassman — she recovers only one life; two honor students still unaccounted for.
+[scene] (p.139) She probes whether Ichinose heard Kanzaki's despair before the exam — “You’re being mischievous, aren’t you?” — Ichinose denies point-blank and explains she deduced it herself.
+[says] (p.139) “You’re being mischievous, aren’t you?”
+[says] (p.139) “You heard from Kanzaki-kun, didn’t you?”
+[scene] (p.140) Ichinose claims to know all the honor students — “I’m fine” — Horikita can feel her defeat being decided in real time; Ichinose's eyes meet hers and she softly smiles and doesn't look away.
+[thinks] (p.140) “‘I’m fine’? What does that even mean?”
+[says] (p.140) “...What are you... intending...”
+[scene] (p.141) Horikita slaps her own cheeks — defeat not yet certain; she can still drag it to a draw; she reopens her eyes on the monitor — the opponent isn't a machine; Ichinose must make mistakes.
+[note] (p.141–146) The rest of the battle is not printed in this volume's text; the waiting-room announcement (p.146) shows her remaining lives: 0 — she is defeated by Ichinose.
+[rel:ichinose-honami] (p.132–141) The generals' battle — Ichinose reads Horikita completely; Horikita loses without landing a decisive hit.
+[rel:ayanokouji-kiyotaka] (p.141–151) Her hope is him; he finds her on the hallway after her loss and embraces her — "You have allies."
+
+<!-- walk: y2v12 ch6 → p.152 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

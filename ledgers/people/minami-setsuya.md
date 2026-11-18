@@ -47,10 +47,8 @@ char_id: minami-setsuya · class: unknown · status: unknown
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — minami-setsuya mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.91, p.137; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.137–138 — Ch.6: Named in the monitor reveal
+[scene] (p.137–138) Ichinose identifies “Minami-san” as an executive role in the Horikita–Ichinose discussion — announced mid-battle; Horikita loses one life.
+[note] (p.137) The B vs D participants' generals'-discussion list is never printed; which of the two Minami roster members this is cannot be established from the pages — the printed name is kept as printed, identity unconfirmed.
 
-
-
+<!-- walk: y2v12 ch6 → p.152 -->

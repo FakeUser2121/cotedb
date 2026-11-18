@@ -10,10 +10,8 @@ char_id: hatsutori · class: unknown · status: unknown
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — hatsutori mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.138; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.138 — Ch.6: Named in the monitor reveal
+[scene] (p.138) Identified as an executive role in the Horikita–Ichinose discussion — “Hatsutori-kun” — announced mid-battle; Horikita recovers one life for getting it right.
+[note] (p.138) The B vs D participants' generals'-discussion list is never printed; his class and role are unknown; no dialogue or action from him is printed in this volume.
 
-
-
+<!-- walk: y2v12 ch6 → p.152 -->

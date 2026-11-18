@@ -78,10 +78,9 @@ char_id: ninomiya-yui · class: unknown · status: unknown
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — ninomiya-yui mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.120, p.122; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.120, 122 — Ch.6: The second honor student
+[scene] (p.120) Named in the discussion participant list for the middle-guard battle — Class D side.
+[scene] (p.122) After Miyake falls, Ninomiya visibly unsettles — “Everyone, rather than thinking that this was an act, firmly believed that he was the other honor student”; both representatives nominate him without fear of error — he is revealed to be the honor student; the discussion ends quickly; ordinary students win.
+[note] (p.122) His exposure ends the middle-guard battle's first discussion; two honor students confirmed — Miyake and Ninomiya.
 
-
-
+<!-- walk: y2v12 ch6 → p.152 -->

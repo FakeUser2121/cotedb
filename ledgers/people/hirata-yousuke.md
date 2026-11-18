@@ -1684,6 +1684,15 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:hamaguchi-tetsuya] (p.94–98) The mirror-image duel; his only loss-condition is an eighth-round gamble into a deadlocked discussion.
 
 <!-- walk: y2v12 ch4 → p.100 -->
+
+### y2v12 p.146–148 — Ch.6: The vanguard watches the monitor
+[scene] (p.146) He sits next to Ayanokōji in the waiting room as the result lands — Horikita's 0 lives against Ichinose's 10; he sighs deep; he apologizes — if only he had fought a little better.
+[says] (p.146) “If only I had fought a little better...”
+[scene] (p.147) Leaving early for the restrooms, he meets Horikita in the hallway — the first to see her defeat.
+[note] (p.148) The text gives him no further pages in this chapter; he is seen once on the way out and once passing her without registering him.
+[rel:ayanokouji-kiyotaka] (p.146) They watch the end together in silence; neither speaks until the announcement lands.
+
+<!-- walk: y2v12 ch6 → p.152 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

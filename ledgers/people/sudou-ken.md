@@ -1525,11 +1525,12 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — sudou-ken mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.28, p.31, p.120-121, p.227; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.120–121 — Ch.6: The poker face
+[scene] (p.120) Named in the discussion participant list for the middle-guard battle — Class B side; Horikita picks him for the calm/bold/poker-face group; she is quietly proud seeing him composed on the monitor.
+[note] (p.121) He maintains his composure on-screen; no dialogue is printed for him; she notes that he would not have been a candidate for such a group in the past, and feels a parental emotion watching him hold.
+[rel:horikita-suzune] (p.121) The girl who recruited him — she watches him perform and nearly cries with pride.
 
+<!-- walk: y2v12 ch6 → p.152 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
@@ -1929,4 +1930,3 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mention (locator pages: p.185-186; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
-

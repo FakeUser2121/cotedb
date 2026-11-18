@@ -454,6 +454,28 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [scene] (p.69) His name is on the monitor under 2nd Year Class D — Vanguard: Hamaguchi Tetsuya, Middle Guard: Kanzaki Ryūji, General: Ichinose Honami.
 
 <!-- walk: y2v12 ch3 → p.86 -->
+
+### y2v12 p.119–128 — Ch.6: The middle-guard battle ends
+[scene] (p.119) He waits in the classroom; four minutes into the recess he surveys the room; he takes the middle-guard seat and questions her — whose idea Ayanokōji as general was, and when decided.
+[says] (p.119) “I’ll be in your care”
+[says] (p.120) “Whose idea was it to put Ayanokōji as the general?”
+[scene] (p.120) He presses — the Ayanokōji he knows isn't the type to put himself forward; someone must have put him up for it; Horikita concedes he's changing.
+[says] (p.120) “The Ayanokōji I know isn’t the type to put himself forward.”
+[scene] (p.120–122) The rounds begin; in round three he judges Miyake a graduate and nominates Watanabe as honor student — wrong; Horikita is right about Miyake; he loses four lives total; he asks Horikita to concede the exam to Class D.
+[says] (p.122) “I have a favor to ask… I can’t afford to be picky anymore.”
+[says] (p.122) “It may sound like an absurd request, but I’m serious.”
+[scene] (p.123–126) He swears Ichinose's class has nothing left; he shall kneel and beg if necessary; Horikita refuses flatly; he vows full support in the third year battles if she concedes; he asks to stay — she dismisses him with her gaze.
+[says:horikita-suzune] (p.123) “If you understand, then you shouldn’t be making such an impossible request in the first place.”
+[scene] (p.126–127) He persists; begging; she tells him at least not to lie to himself; in the second discussion he passes blankly — not seriously engaged; “Have you given up?” — he gives up.
+[says] (p.126) “Please—!”
+[says] (p.127) “...No matter what results I achieve here, the outcome is already clear.”
+[says] (p.127) “You’re the one who’s acting strange. Don’t send salt to your enemy... just leave it be.”
+[says] (p.128) “...Ah, right. I just lost...”
+[note] (p.128) He mutters it like it's someone else's loss; he doesn't move until Horikita calls his name; he stands and leaves without goodbye.
+[rel:horikita-suzune] (p.119–128) His plea and his surrender are one arc — the exam breaks something in him rather than revealing strength.
+[rel:ichinose-honami] (p.122–127) His whole pitch rests on her as Class D's leader; Horikita suspects he never asked her permission first.
+
+<!-- walk: y2v12 ch6 → p.152 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

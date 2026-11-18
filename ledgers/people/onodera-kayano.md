@@ -29,11 +29,11 @@ char_id: onodera-kayano · status: minor
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — onodera-kayano mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.31, p.120, p.227; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.120 — Ch.6: Discussion participant list (Horikita vs Kanzaki)
+[scene] (p.120) Named in the discussion participant list for the middle-guard battle — Class B side, in the calm/bold/poker-face group.
+[note] (p.120) No dialogue or action is printed for her on these pages; the role is never disclosed.
 
+<!-- walk: y2v12 ch6 → p.152 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

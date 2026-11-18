@@ -41,6 +41,12 @@ char_id: minami-hakuo · class: unknown · status: unknown
 
 ### y2v12 p.91 — Ch.4: First-discussion participant for Class B
 [scene] (p.91) Named in the first-discussion participant list for Class B — one of the seven B participants in the exam's opening discussion.
-[note] (p.91) No dialogue or action is printed for him on these pages; which of the two Minami roster members this is cannot be established from these pages alone.
+[note] (p.91) No dialogue or action is printed for him on these pages; the role is never disclosed; the printed name matches this roster row.
 
 <!-- walk: y2v12 ch4 → p.100 -->
+
+### y2v12 p.137–138 — Ch.6: Named in the monitor reveal
+[scene] (p.137–138) Ichinose identifies “Minami-san” as an executive role in the Horikita–Ichinose discussion — announced mid-battle; Horikita loses one life.
+[note] (p.137) The B vs D participants' generals'-discussion list is never printed; which of the two Minami roster members this is cannot be established from the pages — the printed name is kept as printed, identity unconfirmed.
+
+<!-- walk: y2v12 ch6 → p.152 -->
