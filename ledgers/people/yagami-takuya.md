@@ -190,14 +190,28 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — yagami-takuya mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.70-75, p.241.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.70–75 — Yagami briefs Kushida: the expulsion play
+[scene] (p.70) Kushida visits him in the first-year dormitory; fresh tea on the table (no poison, he assures her); a recording of Chabashira's special-exam briefing played for her.
+[says] (p.70) "There's nothing like poison or drugs in it, you know?"
+[says] (p.70) "Kushida-senpai wants to crush Horikita Suzune and Ayanokōji Kiyotaka. That's what it was about, wasn't it?"
+[says] (p.71) "Well, here's the main thing. We are already in the middle of our second year. But while I'd like to expel those two, I haven't had the best opportunity to do it so far."
+[says] (p.71) "As far as I'm concerned, you're a little bit responsible for that, but that doesn't matter right now."
+[says] (p.71) "It is possible that you can crush the one you want to crush."
+[says] (p.72) "Of course, I don't think it will be the same word for word."
+[says] (p.72) "Don't you understand? Do you remember what I said when we first met?"
+[says] (p.73) "I know you're wary, but think of me as a guest in a special position."
+[says] (p.73) "However, my goal is to play with Ayanokōji-senpai."
+[says] (p.73) "Well, what do you think? It's a trivial matter for Kushida-senpai. Shall we turn our attention to the special examination for now?"
+[says] (p.74) "Expel or be expelled."
+[says] (p.74) "No matter what sacrifices you have to make, you have to get rid of them."
+[says] (p.74) "I can feel it, and finally I can confirm that your conviction is genuine."
+[trait] (p.70–75) Calculating and startlingly well-informed — a first-year with a copy of Chabashira's briefing recording before anyone else; claims to know Kushida's past (possibly the same secondary school) without naming it; frames the exam as the only chance to crush Horikita/Ayanokōji; grips Kushida's shoulders when she backs off; his stated hobby: "try different things without Ayanokōji-senpai noticing."
+[rel:kushida-kikyou] (p.70–75) His handler of choice; he plays her with precision.
+[rel:ayanokouji-kiyotaka] (p.70–75) His "game" — to play with Ayanokōji without Ayanokōji noticing.
+[rel:amasawa-ichika] (p.74) Names Amasawa as his co-threat against Kushida ("such as myself and Amasawa-san, who continue to threaten your daily safety and livelihood").
+[note] (p.75) Kushida's closing thought — "Sometime in the future, he'll have to be expelled too" — is in her ledger, not here.
 
-
-
-
+<!-- walk: y2v5 Ch.3 → p.75 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

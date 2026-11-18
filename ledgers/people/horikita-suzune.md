@@ -4460,6 +4460,21 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:kushida-kikyou] (p.45) She proposed her as leader — Horikita accepts.
 [rel:karuizawa-kei] (p.56) Gracefully left alone in the elevator by Kei (no romantic threat).
 
+### y2v5 p.60–61 — Horikita warns him; her secret message
+[scene] (p.60) In his room, she delivers the real reason for visiting: she cannot determine who voted which way no matter how much they discuss — and she names Kushida and Kōenji as the likely dissenters.
+[says] (p.60) "Due to the rules of this special test, there is no way to determine with certainty who voted which way, no matter how much we discuss it. Even if you get a statement, it may not be 100% true."
+[says] (p.60) "In some cases, yes." — answering his "Does that mean you can lie and lie and lie?"
+[says] (p.60) "As for the former, I'm sure she'll lie about everything, and as for the latter, he might even dare to vote for someone different from his classmates if his vicious nature shows through."
+[says] (p.60) "Hey, why did you tell me all the details? It's weird. It's not every day that you give me a warning like this."
+[says] (p.60) "Am I right in saying that that's a compliment...?"
+[says] (p.60) "Yes... I'm feeling a bit restless..."
+[says] (p.61) "Please give me one minute. I need to message them back otherwise they may get a wrong idea."
+[says] (p.61) "Anyway, I've got my message across. Good luck with the special exam tomorrow."
+[trait] (p.60–61) Drops her composure for once — her usual control cracks as she fields his compliment ("Am I right in saying that that's a compliment...?"); restless at the intimacy; exits to answer a two-minute-long message whose recipient she won't name.
+[rel:ayanokouji-kiyotaka] (p.60–61) He warns her about Kushida/Kōenji; she leaves for a secret message.
+
+<!-- walk: y2v5 Ch.3 → p.75 -->
+
 ### y2v5 p.85–105 — Horikita leads the class through questions 1–4
 [scene] (p.85) As agreed emergency leader, rises to guide the class after the first (non-unanimous) vote; explains her reasoning for choosing Class B as the exam opponent (fair fight, currently B, on a downward slope, unlikely to outsmart them).
 [says] (p.87) "As the votes are scattered, each of us must have something to think about."

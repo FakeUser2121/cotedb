@@ -897,6 +897,11 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y2v5 → start -->
 
+### y2v5 p.44 — Kōenji doesn't blink at the protection-point override
+[mentioned] (p.44) With protection points temporarily disabled (expulsion unappealable except by paying 20 million private points — the class has none), "it would be no wonder if he complained, but Kōenji didn't seem bothered by this."
+
+<!-- walk: y2v5 Ch.3 → p.75 -->
+
 ### y2v5 p.103–120 — Kōenji votes to expel; makes a deal with Horikita
 [scene] (p.103) Breaks his silence on Q3, backing Keisei's protection-point plan because he wants Horikita to "work harder."
 [says] (p.103) "For the amount of protection points we give up, we can have the Horikita girl work harder than anyone else."

@@ -308,14 +308,10 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — amasawa-ichika mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.74.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.74 — Named as a threat to Kushida
+[mentioned] (p.74) Yagami, cornering Kushida, names his allies: "such as myself and Amasawa-san, who continue to threaten your daily safety and livelihood".
 
-
-
-
+<!-- walk: y2v5 Ch.3 → p.75 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

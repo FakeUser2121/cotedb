@@ -1262,6 +1262,24 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v5 → start -->
 
+### y2v5 p.66–69 — The Chairman calls Ayanokōji: festival guests
+[scene] (p.66) Phones Ayanokōji shortly after 10 p.m. — unannounced: the October sports festival and the November cultural festival will welcome certain guests (government officials and their families); his father may be among them.
+[says] (p.66) "I'm sorry it's so late at night, can I have a moment now?"
+[says] (p.66) "I'm sure I've caused you a lot of anxiety too, but everything's okay now."
+[says] (p.67) "About that... Actually, there is something that hasn't been announced yet, but I'm going to tell you about it first."
+[says] (p.67) "If you go back to the beginning, sports festivals are for the parents of the students to come and watch."
+[says] (p.67) "The selection of people is entirely up to the higher-ups, and the teachers in charge can't rule out the possibility that... your father may be involved."
+[says] (p.68) "So I'm going to have to ask you to sit out the sports festival."
+[says] (p.68) "I'm going to ask you to stay in your dormitory on sick leave on the assumption that you've had a medical check."
+[says] (p.69) "Of course, I can't force you to do anything, so I'll leave the final decision to you."
+[says] (p.69) "Yes. I'll ask you to answer a week before the sports festival. We have some preparations to make too."
+[note] (p.66) "It just so happens. If he had been serious, I wouldn't still be here right now." is Ayanokōji's reply, printed untagged — see his ledger.
+[trait] (p.66–69) Measured and generous — offers a sick-leave solution so trusted observers from the school can watch his safety without Ayanokōji being singled out; tells him his father may be involved; accepts refusal in advance and gives a week.
+[rel:ayanokouji-kiyotaka] (p.66–69) The Chairman's personal project — keeps him safe ahead of the guests; Ayanokōji is unmoved by the special treatment.
+[rel:tsukishiro] (p.66) Acting Director; the Chairman mentions him having filled in.
+
+<!-- walk: y2v5 Ch.3 → p.75 -->
+
 ### y2v5 p.168–170 — Sakayanagi's class: the queen bluffs
 [scene] (p.168) Class A reaches Q5; like Horikita, Sakayanagi arranged two controlled "for" votes to keep round one non-unanimous and gauge the class.
 [says] (p.169) "100 class points is surprisingly not ridiculous."

@@ -1899,6 +1899,24 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y2v5 Ch.2 → p.28 -->
 
+### y2v5 p.29–66 — Ch.3: the special exam briefing; the war council
+[scene] (p.29) In class as the special exam is announced — present at the Unanimous Voting Exam briefing (Chabashira's third-period-like surprise).
+[scene] (p.31) Immediately asks for clarification — whether they aren't competing against another class (the exam is in-class only).
+[scene] (p.45) Gets permission to leave his seat to call for the class to hear everyone's opinion before lunch.
+[says] (p.45) "Can we do this before lunch?"
+[says] (p.45) "Yes, I agree. I agree with you, Kushida. But it's going to be a big responsibility for the leader."
+[note] (p.45) "Yes, I agree..." is untagged in the print but tied to Hirata by Kushida's callback in the same exchange ("Of course, it's a big responsibility, as Hirata-kun said"); adjacent-context attribution, kept as such.
+[scene] (p.62–66) Recruited into the pre-exam war council in Ayanokōji's room with Kei; learns the shadow-support role ( Horikita's support from the sidelines); trusted with the "forceful measures" contingency (under 2 hours left and not clearing).
+[says] (p.62) "I'm not sure what to make of it." — tagged "he said" in the print
+[says] (p.64) "shouldn't Horikita-san also be included in this conversation?"
+[note] (p.64) The line is not name-tagged in the print but is tied to Hirata by adjacent narration ("Yōsuke's point is a natural one."); kept as adjacent-narration attribution.
+[note] (p.63) The rice/bread answers are printed untagged in the exchange; the print gives no name tags; no speakers assigned from context.
+[rel:ayanokouji-kiyotaka] (p.62–66) War council ally; schemes with him ahead of the exam.
+[rel:karuizawa-kei] (p.62–66) War council ally.
+[rel:horikita-suzune] (p.45) He endorses Kushida's Horikita-as-leader idea while warning it's a big responsibility.
+[rel:kushida-kikyou] (p.45) He seconds her leader proposal.
+
+<!-- walk: y2v5 Ch.3 → p.75 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

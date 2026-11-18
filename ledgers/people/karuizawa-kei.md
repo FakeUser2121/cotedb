@@ -1850,6 +1850,26 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v5 Ch.2 → p.28 -->
 
+### y2v5 p.46–66 — Kei's lunchroom claim; the war council; the text
+[scene] (p.46) Rushes to the lunchroom to claim him as her priority in front of the whole class (all 37 students looked at them at once).
+[says] (p.46) "Kiyotaka! Lunch, let's go."
+[says] (p.46) "Sorry guys, I'm going to eat with Kei today." — his line; untagged in the print, adjacent to her approach
+[says] (p.46) "It's not really a rule to not interrupt, is it? Didn't you hear Kiyotaka's refusal just now?"
+[says] (p.46) "Sorry, but I'm his girlfriend and I'm his priority, you know?"
+[scene] (p.56) Walks him back to the dormitory from Keyaki Mall; parts with him at the elevator good-humouredly — Horikita gets the floor.
+[scene] (p.62) Arrives for the pre-exam strategy talk in his room; surprised it's happening at all; recruited for the shadow-support system.
+[says] (p.62) "It's kind of new or unusual to get together like this, isn't it?"
+[says] (p.63) "I would definitely eat bread. I wouldn't be able to eat no bread until I graduated."
+[says] (p.63) "No, I wouldn't. Because it's a ban until you graduate. I'll keep voting for bread."
+[note] (p.51) Her text message: "I'll be waiting for you at Keyaki Mall afterwards. It was hard for me to dig up all the answers!" — printed in message brackets; kept verbatim as the print shows it.
+[mention] (p.48–55) Named constantly by Haruka and Airi's group as the "flashy" rival; her lunchtime crying-through moment referenced.
+[trait] (p.46–66) Public, possessive and a bit embarrassed — claims him in front of everyone; face turns red as she tugs his arm out of the classroom; keeps her composure in the war council; an influential but untrained lever in the shadow system (not told the "forceful measures" instruction).
+[rel:ayanokouji-kiyotaka] (p.46–66) Publicly dating; claims him as "his priority"; part of the secret pre-exam support ring.
+[rel:hirata-yousuke] (p.62–65) War council ally for tomorrow's exam.
+[rel:hasebe-haruka] (p.46) Haruka begins to understand the first-name basis as Kei claims him.
+[rel:sakura-airi] (p.46–55) The rival claim — Airi's quiet collapse at lunch referenced.
+
+<!-- walk: y2v5 Ch.3 → p.75 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

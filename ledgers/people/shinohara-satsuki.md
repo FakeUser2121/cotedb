@@ -405,6 +405,14 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y2v5 Ch.2 → p.28 -->
 
+### y2v5 p.32, 48 — Shinohara: the for-vote confusion; the couple's publicity
+[says] (p.32) "Hmm? What's this?"
+[says] (p.32) "Is it a gain? Is it a loss?"
+[note] (p.32) "Shinohara said aloud, folding her fingers and trying to calculate the gain and loss in her head." — adjacent-narration attribution.
+[mentioned] (p.48) The Ike–Shinohara pair went public during summer vacation; by now "the sight of them going home together, as well as going on dates together, was becoming increasingly frequent."
+
+<!-- walk: y2v5 Ch.3 → p.75 -->
+
 ## y2v6
 
 <!-- walk: y2v6 → start -->

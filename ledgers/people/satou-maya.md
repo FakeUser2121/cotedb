@@ -477,6 +477,7 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 
 <!-- walk: y2v5 Ch.2 → p.28 -->
 
+<!-- walk: y2v5 Ch.3 → p.75 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

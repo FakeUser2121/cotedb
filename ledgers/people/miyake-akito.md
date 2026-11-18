@@ -626,14 +626,13 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — miyake-akito mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: none.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.46, 50 — "Miyacchi": the Ayanokōji Group member
+[mentioned] (p.46) Rostered but unsearchable as printed: the text gives "Miyacchi" — "The two guys stood up in agreement with Haruka" (Yukimū and Miyacchi).
+[mentioned] (p.50) "I talked to Yukimū and Miyacchi for a bit and they felt the same as me."
+[note] (p.46) The alias "Miyacchi" is not in the roster aliases cell; the locator cannot find him; spelling/alias question flagged for the owner (see progress2.md).
+[rel:hasebe-haruka] (p.46, 50) Members of her Ayanokōji Group circle.
 
-
-
-
+<!-- walk: y2v5 Ch.3 → p.75 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

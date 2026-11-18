@@ -1472,6 +1472,8 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:ayanokouji-kiyotaka] (p.29–44) Delivers the exam; he reads her restrained pride.
 [rel:horikita-suzune] (p.30–31) She calmly accepts the risk-as-benefit framing, winning approval.
 
+<!-- walk: y2v5 Ch.3 → p.75 -->
+
 ### y2v5 p.106–125 — Chabashira's collapse; her old story
 [scene] (p.106) As the final question begins, her complexion has visibly worsened over the exam; Hirata asks if she's okay, but she denies it, unaware (or unwilling to admit) her own condition.
 [says] (p.107) "The... 60-second count will now begin. Students are asked to... begin voting." — her voice shaky

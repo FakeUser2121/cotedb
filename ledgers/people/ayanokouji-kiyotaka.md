@@ -9004,6 +9004,41 @@ walk: y1v1 → DONE
 [rel:horikita-suzune] (p.56–59) Comes to his room for advice on the exam; their closeness has grown dramatically.
 [rel:karuizawa-kei] (p.56) Gracefully yields the elevator to Horikita, judging she's no romantic threat.
 
+### y2v5 p.60–61 — Horikita stays to message; the warning
+[scene] (p.60) In his room, Horikita warns him that the class is not truly united as one — naming Kushida ("she'll lie about everything") and Kōenji (he might vote differently if his "vicious nature" shows) as the likely dissenters.
+[says] (p.60) "You mean the existence of Kushida-san and Kōenji-kun." — unmarked line, narrator's voice answering Horikita
+[says:horikita-suzune] (p.60) "As for the former, I'm sure she'll lie about everything, and as for the latter, he might even dare to vote for someone different from his classmates if his vicious nature shows through."
+[says:horikita-suzune] (p.61) "Anyway, I've got my message across. Good luck with the special exam tomorrow."
+[note] (p.60) "You mean the existence of Kushida-san and Kōenji-kun." — the line is the narrator's spoken reply, printed untagged; kept as adjacent-voice attribution.
+[trait] (p.60–61) Horikita senses the changes in him ("Hey, why did you tell me all the details? It's weird."); he deflects with praise ("I decided that the current Horikita would be flexible enough to listen to me..."). She exits to handle a phone message (unknown recipient).
+[rel:horikita-suzune] (p.60–61) He warns her about Kushida and Kōenji before the exam; her signing-off line shows the intimacy that frustrates her.
+
+### y2v5 p.62–65 — The pre-exam war council in his room
+[scene] (p.62) Around 6 p.m., summons Yōsuke and Kei to his room; Kei arrives as a surprise; they sit down to plan tomorrow's Unanimous Voting Exam.
+[says:hirata-yousuke] (p.62) "I mean, I guess the fact that it's easy means that there's a good chance that we'll be presented with a question that will divide opinions."
+[says] (p.63) "From now until you graduate, you will only be able to eat either rice or bread. Make your choice."
+[says] (p.65) "It could be a sudden illness or an unexpected withdrawal from school, right?"
+[says] (p.65) "Also, I'm going to set some instructions and cues that only Kei and Yōsuke will know."
+[trait] (p.62–65) Builds the shadow-support system for Horikita's leadership — arms Yōsuke and Kei with secret cues (coughing, tapping) for the 10-minute intervals; warns Yōsuke that if under 2 hours remain and the exam isn't clearing, "you might have to resort to forceful measures"; insists they keep the meeting confidential and support Horikita from the shadows.
+[rel:hirata-yousuke] (p.62–65) Recruits him as Horikita's shadow support; gives him the "forceful measures" contingency instruction.
+[rel:karuizawa-kei] (p.62–65) Recruits her to the same shadow system.
+[rel:horikita-suzune] (p.64–65) "Just keep what goes on here confidential" — the class does not know she is being supported.
+
+### y2v5 p.66–69 — The Chairman's call: guests at the festival
+[scene] (p.66) Shortly after 10 p.m., a call from Chairman Sakayanagi; he reveals unannounced guests ("government officials and their families") are coming to the sports and cultural festivals — and Ayanokōji's father may be involved.
+[says] (p.66) "I'm glad to hear you're doing well."
+[says] (p.66) "It just so happens. If he had been serious, I wouldn't still be here right now."
+[says] (p.66) "It's nothing for the chairman of the board to apologise for. I'm sure the students are looking forward to it."
+[says] (p.67) "Guests of honour at a sports festival?"
+[says] (p.68) "Even if I were to follow Chairman Sakayanagi's instructions, it would be unnatural for a student to have a monitoring officer."
+[says] (p.69) "Can you give me some time to think about it?"
+[says:sakayanagi-arisu] (p.69) "Yes. I'll ask you to answer a week before the sports festival. We have some preparations to make too."
+[note] (p.67–69) The suggestion is that he sit out the sports festival on sick leave while trusted observers from the school watch him — he is told his father may be among the guests; he doesn't accept on the call.
+[rel:sakayanagi-arisu] (p.66–69) The Chairman calls him personally about the guests; offers dormitory sick leave with an observer posted outside; Ayanokōji asks for a week to think.
+[rel:tsukishiro] (p.66) Acting Director mentioned — "Tsukishiro, who had been filling in as Acting Director for Chairman Sakayanagi"; Ayanokōji has kept his presence low despite both men knowing.
+
+<!-- walk: y2v5 Ch.3 → p.75 -->
+
 ### y2v5 p.78–84 — Exam day: pre-vote analysis; the "spread the votes" strategy
 [scene] (p.78) On the day of the Unanimous Voting Exam, observes the class; Chabashira notes a teacher who interferes with the exam's nature would be questioned.
 [inference] (p.82–84) Reaffirms the pact with Horikita: he votes for the first option in round one to prevent accidental unanimity and gauge true class opinion; the exam allows one hour per question, and the greatest danger is a question that divides the class; realizes there's no room for cheating (anonymous votes, snooping impossible) — unanimity is everything.

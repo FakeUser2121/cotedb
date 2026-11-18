@@ -1242,6 +1242,20 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y2v5 Ch.2 → p.28 -->
 
+### y2v5 p.29, 34, 37–38 — Ike at the special-exam briefing
+[scene] (p.29) In homeroom when the special exam is announced — first voice of frustration heard ("Ike's frustration leaking out was the first thing that could be heard").
+[says] (p.29) "I've just got through the gruelling deserted island exam and now I've got to take another special exam..."
+[says] (p.34) "Oh, what?"
+[says] (p.34) "Why is it so much the other way around?"
+[note] (p.34) The surrounding line is attributed by adjacency: "Ike, who seemed to have voted in favour of the proposal, looked around at his classmates and asked curiously."
+[says] (p.37) "Oh, it's me? Yes!"
+[note] (p.37) "Oh, it's me? Yes!" follows the monitor naming Ike as the specific student in the demonstration; adjacent-narration attribution.
+[note] (p.38) "What? Does that mean my chances of getting them are now zero?" is untagged; the demonstration singles Ike's million points out; adjacent-context attribution points to him; kept as a note, not a [says] row.
+[trait] (p.29–38) Impulsive and luck-seeking — votes "in favour" of the 10,000-point example on instinct, is picked as the specific student for the 1,000,000 private-points demonstration, and is shut out entirely when the class unanimously votes against awarding him the points.
+[rel:sudou-ken] (p.37) Sudō voices the class verdict to him ("No ones gonna give you a million private points.").
+[rel:horikita-suzune] (p.34) Delivers the "just in case" majority explanation; he doesn't buy it.
+
+<!-- walk: y2v5 Ch.3 → p.75 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

@@ -1834,6 +1834,17 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v5 Ch.2 → p.28 -->
 
+### y2v5 p.29, 35, 37 — Sudō at the special-exam briefing
+[scene] (p.29) Pumps his fist at the news of another special exam before the sports festival.
+[says] (p.29) "What the hell guys. We'll just have to get through a few extra exams before we get to the sports festival."
+[note] (p.29) Horikita's "Please don't get carried away Sudō-kun." immediately sits him down — his athletic confidence outruns his judgment.
+[note] (p.35) The call-and-response after the second round ("Oh, hey, hey, hey, who's still voting yes after what you just said?" / "I'm sorry, it's me, Sudō-kun. I tried to avoid being unanimous. It seems that there is someone else who had the same idea as me, but...") is printed untagged; the narrator says of the latter only "She didn't look at me, but I think she was referring to me." — both lines are an attribution gap; no speakers assigned from context.
+[says] (p.37) "No ones gonna give you a million private points."
+[note] (p.37) "No ones gonna give you a million private points." — printed with the doubled-letter typo "No ones"; kept as printed; "Sudō spoke for all of us in the class" — adjacent-narration attribution.
+[rel:ike-kanji] (p.37) Shuts the million-point hope down in front of everyone.
+[rel:horikita-suzune] (p.29) His instant obedience to her one-line rebuke shows the nascent master/student bond.
+
+<!-- walk: y2v5 Ch.3 → p.75 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

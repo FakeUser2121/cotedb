@@ -1829,6 +1829,26 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:horikita-suzune] (p.45) Nominates her as leader — her apparent fairness wins class approval.
 [rel:ayanokouji-kiyotaka] (p.45) Her proposal noted by him; he watches for hidden motives.
 
+### y2v5 p.70–75 — Kushida visits Yagami: the conspiracy for the exam
+[scene] (p.70) Visits first-year Takuya Yagami in the first-year dormitory; he recorded (via a phone recording of) Chabashira's exam briefing and played it for her.
+[says] (p.70) "I don't care about that, can you just get on with it?"
+[says] (p.70) "Excuse me, senpai. Then let me ask you without hesitation."
+[says] (p.72) "I was in a hurry at the time. So what?"
+[says] (p.72) "Pathetic? What do you mean weak?"
+[says] (p.73) "Who the hell are you? How do you know about my past when we didn't even go to the same secondary school...?"
+[says] (p.74) "You think I can do it...?"
+[says] (p.74) "That's ...yes, but..."
+[says] (p.74) "I want to expel Horikita, I want to expel Ayanokōji. I'm definitely going to get them expelled...!"
+[scene] (p.71) Yagami believes he's counted the exam's only condition for expulsion — the cumulative voting penalty — but interprets that there are other ways; he expects the very question that divides the class and has already drafted the play: make her steer the class to crown Horikita as expulsion candidate.
+[scene] (p.74) Yagami grips her shoulders (she reflexively tries to flee; he overwhelms her); she plays along but is frightened by how firmly he has her cornered — she neither wants nor refuses the expulsions; he releases her.
+[trait] (p.70–75) Hunted but committed — spends a year and a half plotting to expel Horikita and Ayanokōji; Yagami (a stranger who claims a special connection to her past, possibly the same secondary school) plays her with expert psychological pressure; she walks out resolved to do it, while privately noting that "Sometime in the future, he'll have to be expelled too."
+[rel:yagami-takuya] (p.70–75) Her handler/co-conspirator; he knows about her past (possibly the same secondary school or another route); she fears him.
+[rel:horikita-suzune] (p.70–75) Target of the plot.
+[rel:ayanokouji-kiyotaka] (p.70–75) Target of the plot.
+[rel:amasawa-ichika] (p.74) Yagami names Amasawa as one of the threats to her daily safety and livelihood ("such as myself and Amasawa-san").
+
+<!-- walk: y2v5 Ch.3 → p.75 -->
+
 ### y2v5 p.181–215 — Kushida's plot exposed; her mask shatters; she is saved
 [says] (p.185) "I think... and I think Ayanokōji, who was the leader of this special exam, Horikita-san... who urged people to vote in favour, should take responsibility for that."
 [says] (p.190) "Yes, you did. It was you who, when urged to vote against it, stubbornly continued to vote for it."

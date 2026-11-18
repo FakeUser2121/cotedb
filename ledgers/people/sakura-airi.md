@@ -1158,6 +1158,18 @@ aliases used for anchors: sakura, airi, sakura-san
 
 
 
+### y2v5 p.46–55 — Airi's silence after the lunchroom reveal
+[scene] (p.46) One of the Ayanokōji Group gathered for lunch; Kei publicly claims Kiyotaka in front of her; she and Haruka mutter at the same time — "Haruka and Airi muttered at the same time, although their reactions were quite different."
+[mentioned] (p.48) She refuses to look at him once since lunch ("a certain girl hadn't looked at me once since lunch").
+[mentioned] (p.49) "She was trying to hold it together in the classroom, but she was crying all throughout lunchtime." — Haruka to Ayanokōji.
+[mentioned] (p.50) Haruka says Airi's shock was bigger than theirs ("I haven't heard directly from them, but I think Airi's shock was bigger than ours.").
+[mentioned] (p.53–55) Haruka agrees to talk to her about the maid café only once she's "a bit more relaxed"; warns Ayanokōji that "aren't so light that they'll be shaken because of something like this" and that a one-percent chance of Airi holding hope is real.
+[rel:hasebe-haruka] (p.46–55) Her guardian — walks Ayanokōji home to confront him; shields her from the talk.
+[rel:ayanokouji-kiyotaka] (p.46–55) He hurt her; she hasn't forgiven him; her feelings are the live drama.
+[rel:karuizawa-kei] (p.46) The rival who claimed him in public.
+
+<!-- walk: y2v5 Ch.3 → p.75 -->
+
 ### y2v5 p.219–229 — Sakura Airi's voluntary expulsion
 [says] (p.223) "If there is one student in the class who deserve it... maybe it's me."
 [says] (p.223) "You're right about everything. If someone has to drop out, then I, the biggest drag on the class, should disappear."

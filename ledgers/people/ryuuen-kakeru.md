@@ -2274,6 +2274,12 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v5 → start -->
 
+### y2v5 p.43, 58 — Mentioned: the surveilling power
+[mentioned] (p.43) "The mere mention of it would probably incur a heavy penalty, so even people like Ryūen would be unlikely to make any overt moves." — the anti-collusion rule, and the implicit shadow of Ryūen over the whole class.
+[mentioned] (p.58) "If this had been a dictatorial class like the one led by Ryūen-kun, it might have been easier for us." — Horikita in Ayanokōji's room, p.58; the anonymity point is why even Ryūen can't command a unanimity.
+
+<!-- walk: y2v5 Ch.3 → p.75 -->
+
 ### y2v5 p.140–151 — Ryūen's class: the dictator yields to the majority
 [scene] (p.140) Class D's Q5 first vote is 14 in favour / 26 against — far more "for" votes than other classes; a third of the class initially prioritizes points over a classmate.
 [says] (p.141) "It's been a boring time up to this point, but I guess the school didn't intend for it to be just a game."
