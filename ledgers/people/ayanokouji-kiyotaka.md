@@ -10442,30 +10442,125 @@ walk: y1v1 → DONE
 [rel:amikura-mako] (p.107–108) Joins with Ichinose; the four-person combination; she speculates about tied scores.
 [rel:karuizawa-kei] (p.106) Eagerly parallel to the dorm visit; her jealousy is mild, her tolerance high.
 
-### y2v10 p.123–127 — Ch.6: Special exam setup; Sakagami-sensei supervises
-[scene] (p.123) The exam begins; interlude with the class reshuffling seats; she says she won't use protection slots on Ayanokōji; Sudō gulps; Sakagami arrives too; Sakayanagi is ready.
-[scene] (p.124–127) Sakagami lays the ground rules — everyone takes their seats in the front-of-class desk, the rest of the class sits in the rows behind; rule of limited communal activity; he turns on the monitor with the board design and names order.
-[says] (p.123) "You had a tough time when you got a fever during the first deserted island exam."
-[says] (p.124) "I am Sakagami, appointed as the teacher in charge of this class for this exam."
-[scene] (p.126–127) Parameters of the exam emerge; the meaning of expulsion looms; the order of fight matches the board; first to attack is Horikita.
-[note] (p.126) Ayanokōji's prediction: this is the exam that guarantees an elimination among the four classes.
-[rel:ryuuen-kakeru] (p.124–127) Receiver of Ichinose's aid; Sakayanagi and Horikita know he's not reliable.
+### y2v10 p.123–127 — Ch.6: The exam opens
+[scene] (p.123) The classroom is re-arranged for the exam; five front-row desks pushed forward; dividers; tablets with peep-proof filters; five empty seats for the nominees.
+[says] (p.123) “Did you sleep well last night?”
+[says:horikita-suzune] (p.123) “About the usual. There was nothing more I could do, and all I had to do was manage my health appropriately.”
+[says] (p.123) “You had a tough time when you got a fever during the first deserted island exam.”
+[says:horikita-suzune] (p.123) “Shut up. I’ll stab you.”
+[says] (p.123) “I’m sorry.”
+[says:horikita-suzune] (p.123) “Do you feel at ease?”
+[says] (p.123) “Not at all. In fact, I might become a burden, so please be understanding.”
+[says:horikita-suzune] (p.123) “I’m sorry, but I absolutely won’t use the protection on you.”
+[scene] (p.124) Chabashira-sensei leaves with words of encouragement; Sakagami-sensei, Ryūen's homeroom teacher, takes charge.
+[says:sakagami] (p.124) “I am Sakagami, appointed as the teacher in charge of this class for this exam. I will notify you of the order of attack and some notes for this special exam.”
+[scene] (p.125) The notice on the monitor: toilet only during 10-minute breaks every four turns; 40-minute lunch break after turn 10; whispering/phones allowed outside the solving turns; ill-health = elimination; cheating = eliminated with all points forfeited; order B→C→D→A repeated 20 turns.
+[scene] (p.126) Attack order locked; Horikita starts texting immediately after the flow shows; the page does not say who gets the texts.
+[says:sakagami] (p.126) “Now, let’s commence the special exam. For the first turn, this class makes the first attack. Please select the category and difficulty level as previously explained and nominate five students.”
+[says:horikita-suzune] (p.126) “We’re starting while flying blind. Let’s just proceed as discussed with Hirata-kun and the others.”
+[scene] (p.127) Sakagami processes her choices: Category English, Difficulty 1, Nominees Kobashi, Watanabe, Sumida, Ninomiya, Shibata.
 
+### y2v10 p.128–138 — Ch.6: First half; Kōenji's gambit
+[scene] (p.128) A full turn needs B→C→D→A: our English attack gives Ichinose four points; Ichinose counterattacks Ryūen (Economics) for one; Ryūen hits Sakayanagi (Lifestyle D1) for four; she hits us (Arithmetic D1) for three — our first score of the exam.
+[scene] (p.129) Sakayanagi attacks Horikita's class with Arithmetic D1; nominees Ishikura, Kikuchi, Inogashira; Ishikura answers correctly, the other two don't; one point for us.
+[says:nishimura-ryuuko] (p.127) “So that means these two are protected, right?”
+[says:horikita-suzune] (p.127) “...That’s right. Ichinose-san’s class has unconditionally earned two points. It was up to the remaining three to decide whether they get more points or not.”
+[scene] (p.130) Horikita protects Sonoda, Ichihashi, Okitani, Ike, Makida — Kōenji absent; Sudō objects; she explains the two-mistakes buffer.
+[says:sudou-ken] (p.130) “H-hey, Suzune. Are you sure you don’t need to protect that guy?”
+[says:horikita-suzune] (p.130) “The exam only puts you at risk of expulsion if you get eliminated. I decided he was safe until he got two questions wrong. There’s no other reason to protect him from the onset.”
+[says:horikita-suzune] (p.130) “However, in return, of course, Kōenji-kun is free to either answer the given task seriously or leave it blank. Are you fine with that?”
+[says:kouenji-rokusuke] (p.130) “Do as you like.”
+[scene] (p.131) Turn 2 — Sakayanagi stays on Gourmet Food D1; the question: the meaning of a knife and fork on a plate shaped ‘八’ during French dining; Kōenji leaves it blank; Keisei answers wrong — he smacks the desk a beat too late; we pull to six points in total.
+[says:sudou-ken] (p.132) “Hey! Kōenji, you’re not taking this seriously, are you?!”
+[says:kouenji-rokusuke] (p.133) “You’re wrong to blame me. If you’re dissatisfied, all you have to do is guard me next time.”
+[says:sudou-ken] (p.133) “Screw you... You’re just saying whatever you like...”
+[scene] (p.132–133) Keisei answers wrong and smacks the desk the moment the announcement lands — a beat too late; he apologizes; Horikita promises to protect him next same-category attack.
+[says:ishigami-kyou] (p.133) “I’m sorry, Horikita, I was so nervous that the answer didn’t come to me right away... even though I was supposed to know it.”
+[says:horikita-suzune] (p.133) “I’m not that worried about you. But, just to be safe, if I feel like you’re being attacked in the same category again, I’m going to protect you. Alright?”
+[scene] (p.133) Turn 3 — Gourmet Food D1 again; Sakayanagi goes in with Kōenji first; he leaves it blank again; the four others answer correctly; 10 points; us at 2nd behind Sakayanagi.
+[says:hirata-yousuke] (p.134) “Kōenji-kun. Although we can’t force you as a class, I think it would be prudent to get this right for your own sake.”
+[scene] (p.135) Turn 4 — spends a point on D2; Horikita does not protect Kōenji (protects Shinohara and Sudō instead); this time Kōenji goes all in — the pen actually moves; he gets it right; no elimination; she smells weakness.
+[says:sudou-ken] (p.136) “What’s the matter, Kōenji? You were scared after all, weren’t you?!”
+[says:kouenji-rokusuke] (p.137) “I’ll leave that for you to decide.”
+[scene] (p.137–138) Kōenji comes to her desk afterward; the 'what’s your intention?' exchange; he returns to his seat; the class remains in disarray; he now has two strikes.
+[says:kouenji-rokusuke] (p.137) “What’s your intention? I’d like to hear your reasons.”
+[says:horikita-suzune] (p.137) “Reasons? Was there a problem?”
+[says:kouenji-rokusuke] (p.137) “Oh?”
+[says:horikita-suzune] (p.137) “You’re not out. You don’t have to worry about being eliminated at this point, right?”
+[says:kouenji-rokusuke] (p.137) “But if I hadn’t gotten the right answer, I would have been eliminated. What’d you think of that?”
+[says:horikita-suzune] (p.137) “But you gave the correct answer.”
+[says:kouenji-rokusuke] (p.137) “Hmm, indeed. My apologies, it seems I acted preemptively.”
+[says:horikita-suzune] (p.137) “If you understand, could you go back to your seat? From your height, you’re blocking my view of the monitor.”
+[scene] (p.138) End of the first half; Ishizaki (turn 7, Ryūen), Sotomura and Ijūin (our class, turn 8), Isoyama and Yano (Ryūen, turn 8), Kamuro (Sakayanagi), Hondō (last turn, our class), Morofuji (Ryūen), Yamamura (Sakayanagi) — all eliminated.
 
-### y2v10 p.128–163 — Ch.6: A 65-point tank battle; leaks emerge
-[scene] (p.128) Ichinose attacks Ryūen; four people correct; Ishizaki, Isoyama, Yano, and Morofuji — all eliminated in this half; Horikita-Kobayashi, Shibata, and Sonoda selected as protected; Ishikura gets the answer correct by misunderstanding her own instruction — three points.
-[scene] (p.129) Class A attacks Class B (Horikita); Sakayanagi selects Arithmetic difficulty 1; seven exempt — Kōenji, Ishikura, Hasebe, Hirata, Yukimura, Onodera; protected Okitani, Ike, Sonoda; the question = 15×24×16=? answer is 5,760; Ishikura correct, others miss.
-[scene] (p.131) Class A switches to Gourmet Food; protected Sonoda, Ichihashi, Okitani, Ike, Makida — zero success; ATENominees: Kōenji, Hasebe, Hirata, Yukimura, Onodera; Kōenji leaves answer blank; Keisei strikes the desk too late; Class B has 6 points; third at this stage.
-[scene] (p.138–140) Class A attacks again; Sakayanagi nominates victims aligned with past rounds; the pattern becomes visible — told through Horikita's analysis.
-[scene] (p.141–143) Horikita leads lunch break: she announces who is willing to shoulder the difficult decision; silence; she announces she will be the one to make the hard call.
-[scene] (p.144–154) Sakayanagi's reliable nominations keep flowing; her class feels her edge slip because of the unknown variable — the attacks pattern reveals a leak.
-[scene] (p.155–157) Cafeteria; Horikita status-review with AK; Sakayanagi joins; they confirm questions and selections; AK overhears; Sakayanagi improvises; she heads straight danger — priority.
+### y2v10 p.138–142 — Ch.6: The first-half standings; the calibration
+[scene] (p.138) Result — 1st: Sakayanagi [A] 29 (Kamuro, Yamamura out); 2nd: Horikita [B] 28; 3rd: Ichinose [C] 24 — no losses; 4th: Ryūen [D] 19.
+[says:hirata-yousuke] (p.139) “Your strategy worked out, Horikita-san,”
+[says] (p.139) “Yes, her stance hasn’t changed even in this special exam. Thanks to that, we managed to keep things under control.”
+[note] (p.140) His own red panda News-question blunder — he wrote “dog”; Horikita's stare was glacial; he analyzes the calibration: D1 ≈ 50% correct, D2 ≈ 20%, D3 ≈ 10%.
 
-### y2v10 p.164–188 — Ch.6: Back half battle; traitor outed; Ryūen wins
-[scene] (p.167–170) Ayanokōji discusses points with Horikita; Ichinose targets Kei repeatedly — ten consecutive nominations; she is protected each time (probably as Ichinose-faction signal); Haruka warns Kei to stay shut.
-[scene] (p.172–176) Ryūen lives up to category; he bullies through everything in sight; Horikita announces she's not worried about outcome — the class seems lost; only Ryūen's class remains dangerous.
-[scene] (p.181–184) Final half: Sakayanagi, confronted with consecutive nominations that render everything mute, breaks — Morishita says "Information is leaking."; Sanada nods; Kitō and Hashimoto rise together; Sakayanagi refuses to change plans.
-[scene] (p.185–188) Result posted; Ryūen wins 69 points vs Class C 62; Class B (Ayanokōji) 59; Class A 53; Chabashira dismisses class; Horikita is relieved — the danger threshold is now imminent; Kōenji's class has climbed back to competitive.
+### y2v10 p.141–143 — Ch.6: The lunchtime leak analysis
+[scene] (p.141) Lunch break; he steers Horikita into the corridor; first, the red panda confession; then the real topic — the naming-order anomaly.
+[says] (p.141) “Just kidding. But I didn’t think you would call me out. Did you have some advice for me?”
+[says:horikita-suzune] (p.141) “Not exactly advice, but have you noticed the pattern in the order of the names when the attackers designated five names this time?”
+[says] (p.141) “I wonder if there was such a pattern... I honestly didn’t pay attention to the order. It wasn’t in alphabetical order, or boys first and then girls either, was it?”
+[says:horikita-suzune] (p.141) “I can’t say for sure unless I ask the attackers from other classes, but there was no consistent pattern on the five people you named. In other words, they show in the same order as the leader voices them.”
+[says] (p.141) “I see. That might be true. So?”
+[says:horikita-suzune] (p.141) “What caught my attention was Sakayanagi’s naming order from the second to the fourth turn. At that time, Kōenji was targeted three times in a row, and he was first each time.”
+[scene] (p.142) The chain of reasoning: Sakayanagi knew the ‘68-point’ plan was dead; she wanted Horikita to burn a protection slot on Kōenji; when Horikita never took the bait, attacking him again had zero upside; Sakayanagi knew the promise was known through someone's phone; Horikita followed his logic — or at least accepted the leak hypothesis.
+[says:horikita-suzune] (p.143) “But then, why did she not target him after the fifth round? I chose not to protect him with the protection slot, didn’t I?”
+[says] (p.142) “That choice is exactly why. When her aim to force you to use up one protection slot on Kōenji fell through, she saw no benefit in eliminating Kōenji. Rather, she decided it would be a loss.”
+[says:horikita-suzune] (p.142) “Even though she can get us to lose a point with each elimination?”
+[says] (p.142) “Yes. You said before the test that you had a way to keep the damage to a minimum in case we ended up at the bottom. That choice was to eliminate Kōenji, wasn’t it?”
+[says:horikita-suzune] (p.142) “...You knew, huh?”
+[says] (p.142) “That’s right. I never promised to protect Kōenji-kun’s Protection Point. As long as he isn’t expelled, my promise holds. There is no reason to hold a grudge.”
+[says:horikita-suzune] (p.143) “Thank you. I will be careful about that from now on.”
+[says] (p.143) “Let’s end the discussion here. What are you going to do for lunch?”
+[says:horikita-suzune] (p.143) “I didn’t have time to make a boxed lunch, so maybe I should go to the cafeteria. How about you?”
+[says] (p.143) “Well, I might as well. Kei is probably having a staring contest with her phone.”
+[note] (p.143) The pretended casual finish — she thanks him for the warning; the two of them part for lunch.
+
+### y2v10 p.162–188 — Ch.6: The storm builds; the Kei nominations
+[scene] (p.162–173) The second half is about to start; Sakagami signal looms; Horikita gathers everyone’s eyes; she addresses the class with composure.
+[says:horikita-suzune] (p.163) “Class A is truly a formidable enemy. They held the top spot for all 10 turns of the first half. But it’s important not to focus too much on that and face the special exam seriously. After all, the only way for us to accumulate points is for us to solve the questions correctly.”
+[says:sudou-ken] (p.163) “How are we going to attack?”
+[says:horikita-suzune] (p.163) “Do you remember when I asked for your ideas during the preparation period? I’ve organized that information and I believe I’ve found a hole.”
+[scene] (p.164) Turn 11 — she spends a point; Literature D2; Class A gives up one protection; 3 of 4 miss; we pull two points.
+[scene] (p.164) Turn 11, second leg — Sakayanagi throws Sports D3 against Ryūen; his class perfect-protects all five; he jumps to 24 points and temporarily ties Ichinose.
+[scene] (p.165) Turn 11, last leg — Ichinose attacks; she nominates AK and Kei; the question: the Infield Fly rule; he answers, Kei misses it; our defense gives us four points; we temporarily surge past Sakayanagi.
+[says:ike-kanji] (p.166) “What kind of odds are those!? They’re too lucky!?”
+[says:horikita-suzune] (p.166) “...I wonder if we can just dismiss this as good luck.”
+[note] (p.166) Kei shouted that she was being targeted; the answer (Calm down... doesn’t necessarily mean we’re being specially targeted) is printed untagged — none assigned.
+[scene] (p.167) Turn 12, last leg — Ichinose attacks again; AK and Kei nominated for the second time in a row; the question: what does ‘tapiru’ mean; he freezes solid; Kei nails it; Matsushita salvages the turn; four points.
+[says:horikita-suzune] (p.168) “Do you... know even less about the world than I thought?”
+[scene] (p.168) Turn 13 — Horikita’s attack; Kanji D1; she sails through the first four picks, stalls on the fifth; Kushida murmurs the next name; Horikita nominates Satonaka on the spot; he misses kanji.
+[says:kushida-kikyou] (p.168) “Why not choose Satonaka?”
+[note] (p.168) Kushida floats the shelter suggestion — Satonaka's off-week bid; Horikita says nothing of the tip source.
+[scene] (p.168) Satonaka nominated; he misses kanji; information flows again.
+[says:kushida-kikyou] (p.170) “That kind of information comes from everywhere.”
+[scene] (p.170) Turn 13 — Ichinose attacks again (our third defensive turn); Kei nominated for the third time; Horikita chooses to protect her; she is pale to the core; Satō objects.
+[note] (p.170) “Maybe… It’s a bit too much.” and “She’s not the type to specifically set someone up.” — printed untagged in the mouth-to-mouth exchange; Satō "responded in agreement" but which line is hers is not stated; none assigned.
+[says:kushida-kikyou] (p.171) “Not really. I just judged it based on what I’ve seen of Ichinose-san up until now.”
+[scene] (p.171) Turn 14 — Ichinose attacks again; Kei is nominated for the fourth time, a new exam record (Kōenji’s three retired); Horikita protects her again; the class bristles.
+[says:horikita-suzune] (p.171) “That’s true. It might be best to protect once more.”
+[scene] (p.172–173) Ryūen POV — the beast inside; the recurring 'most powerful and brutal' man; the promise he makes to himself; he stands up — “it’s about time to start. Move over.”
+[says:ryuuen-kakeru] (p.173) “Well then—it’s about time to start. Move over.”
+[says:ryuuen-kakeru] (p.173) “It’s the second half. The difference in points is only ten. In other words, catching up is possible if you get a perfect score a few times. I can count on you guys, right?”
+[says:tokitou-hiroya] (p.175) “Don’t joke around. It’s not just the class’s problem. Ryūen, you must understand that it’s hard for other classes to get perfect scores too. As a leader, you should use your wisdom to protect as many people as possible.”
+[scene] (p.175–176) The five perfect protections (Katsuragi, Shiina, Tokitō, Nomura, Ibuki Mio) sprint turns 11 through 14 for Sakayanagi without a single miss; she is thrown.
+[says:ryuuen-kakeru] (p.176) “Gambling can be fun. It’s like randomly tossing a dice.”
+[says:ryuuen-kakeru] (p.176) “Heh. It seems you can’t do anything, Sakayanagi.”
+[scene] (p.177–184) Ichinose POV — the original plan; the extended exchange with Ryūen; the 25-point deal; Ryūen accepts only the partial condition; Ichinose accepts; she targets Kei relentlessly.
+[says:ichinose-honami] (p.180) “Ryūen-kun, this might be sudden, but would you team up with me? I don’t want anyone expelled from my class. To achieve this, we need to finish the exam with zero eliminations. So, I want you to play defensively in the second half, so there are no eliminations from my class.”
+[note] (p.180) Ichinose's secret exchange; the scene is her POV via a cell phone; the pages print the full thread.
+[says:ichinose-honami] (p.183) “Then, perhaps I’ll have to go all out…”
+[says:ichinose-honami] (p.184) “I would like to nominate Karuizawa Kei-san.”
+[scene] (p.185) Turn 15 opens — the four classes are nearly side-by-side; Horikita stands and addresses the class; she answers with belief.
+[says:horikita-suzune] (p.185) “Admittedly, the situation is close to dire. Our class has four eliminations at this point. Ichinose-san has taken the lead, and Ryūen-kun’s class, which was in last place, is catching up at an absurd pace with continuous perfect scores. We’ve reached a point where I can’t guarantee that we’ll definitely win.”
+[says:horikita-suzune] (p.187) “All we can do is fight together until the end.”
+[says:horikita-suzune] (p.187) “Believe in me.”
+[scene] (p.187) 15th turn defense — Kei, Satō, Miyake protected; perfect score; five points; the Kei-targeting carousel.
+[scene] (p.188) Turns 16–20 — Ichinose nominates Kei without end; Horikita protects her every time; the whole class is uneasy; AK watches in silence.
 
 <!-- walk: y2v10 Ch.6 → p.188 -->
 
