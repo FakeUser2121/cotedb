@@ -1425,6 +1425,8 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:hoshinomiya-chie] (p.7) Her best friend "Chie," who angrily grabbed her in the nightmare — they were on opposite sides.
 [note] (p.8) The "companion" is unnamed in these pages; the text describes him as an irreplaceable friend and opposite-sex person — no roster id assigned (no name on the page).
 
+<!-- walk: y2v5 Ch.1 → p.8 -->
+
 ### y2v5 p.29–44 — Chabashira: the Unanimous Voting Exam briefing
 [says] (p.29) "Before the sports festival in October, you will have to undergo a new special exam."
 [says] (p.30) "The school is giving you the recognition you deserve; you second years have performed very well."
