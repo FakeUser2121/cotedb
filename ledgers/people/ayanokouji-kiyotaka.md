@@ -9397,6 +9397,27 @@ walk: y1v1 → DONE
 [rel:kiryuin-fuuka] (p.175) Recalls their end-of-year talk as he passes her reminder about college.
 
 <!-- walk: y2v9.5 Ch.6 → p.183 -->
+### y2v9.5 p.184–185 — Epilogue: Kei sees him off
+[scene] (p.184–185) Two days left; wakes with Kei clinging to him; she insists on seeing him off; demands a kiss; they part; he goes for the Hiyori plan.
+[says] (p.185) "Make sure you come back by tonight, okay?"
+
+### y2v9.5 p.186–195 — Epilogue: Hiyori; Kamuro; the café group gathers
+[scene] (p.186–189) Complains to Hiyori; invites her out; the librarian reveals Hiyori spends all day in the library; he sits on a bench waiting; Kamuro appears with a warning about his behavior with Hiyori in public.
+[scene] (p.190–195) Kamuro stays to interrogate him about snooping on Class A; Hashimoto arrives with Kitō; they become a five-person gaggle at the café; Hiyori agrees to have fun.
+[rel:shiina-hiyori] (p.184–195) Tells Kei he'll be out; accepts her offer to spend the day; gratitude/awkwardness from her side.
+[rel:kamuro-masumi] (p.189–195) She intercepts the pair and warns him not to cause misunderstandings; then probes his Class A snoop.
+[rel:hashimoto-masayoshi] (p.194–195) Appears with Kitō; turns the group into a five-person farce; invites them all to the café.
+
+### y2v9.5 p.196–207 — Epilogue: Hiyori's father revealed
+[scene] (p.196–200) The group walks to the mall; Kitō whispers to Shiina; someone asks about her status; they sit at a café; Hashimoto grills him about switching to Shiina; the talk turns to Class A headhunting — he floats a class-recruitment idea; he deflects.
+[scene] (p.202–204) Hashimoto suggests Class A headhunt him; Kamuro walks out; he concedes Hashimoto's vision of collective recruitment; they leave before the first years.
+[scene] (p.205–207) On the way back from the bookstore, conversation turns reflective; Hiyori reveals the book she gave him was written by her father — Shiina Katsumi; she asks for his views on the battles ahead; asks him to graduate together.
+[says] (p.207) "Our classes may be different and we may be competing, but let's definitely graduate together, alright?"
+[rel:hiyori-shiina] (p.205–207) Opens up about her father; the wish she drops: graduate together.
+[rel:hashimoto-masayoshi] (p.196–203) Class A's recruiting scheme; praises his openness; wants to draft him.
+
+<!-- walk: y2v9.5 Epilogue → p.207 -->
+
 
 
 

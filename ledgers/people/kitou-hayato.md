@@ -223,6 +223,18 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 
 <!-- walk: y2v9.5 → start -->
 
+### y2v9.5 p.194–204 — Epilogue: Kitō with the mall-day crowd
+[scene] (p.194) Hashimoto calls out Kita; scary-looking, aspiring fashion designer, wears a flashy full-fledged outfit; joins the group; doesn't react to Hashimoto's jokes; stares Kitō down when she laughs.
+[scene] (p.196–199) He nods in agreement that Ayanokōji is popular with the first-years; taps Shiina's shoulder, tells her Hashimoto and Kamuro are causing trouble; says he doesn't snap at everyone, only those deserving basic courtesy; warns about her feeling discomfort.
+[scene] (p.199–204) Introduces himself as a good guy who gets nervous; disappoints Hashimoto by muttering confirmation; Kamuro uses him as a sanity check; admits Shiina is "rare too."
+[says] (p.196) "Good morning, Hashimoto-senpai, Kamuro-senpai."
+[rel:hashimoto-masayoshi] (p.194–204) Tolerates his ridiculousness; kicks him under the table on occasion; otherwise indifferent.
+[rel:kamuro-masumi] (p.194–198) She appreciates his tact; he shares his unpopular-company flashiness.
+[rel:shiina-hiyori] (p.199–204) Finds her interesting; watches her with interest; gets her jokes.
+
+<!-- walk: y2v9.5 Epilogue → p.204 -->
+
+
 
 
 ## y2v10
