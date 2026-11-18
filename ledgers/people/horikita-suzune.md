@@ -4536,6 +4536,98 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ichinose-honami] (p.14–20) She lost to Ichinose in the representative battle.
 
 <!-- walk: y2v12.5 Ch.1 → p.22 -->
+### y2v12.5 p.61, p.64, p.75 — Ch.4: Horikita, mentioned
+[scene] (p.61) Hoshinomiya tells Ayanokōji his class is "pretty much like your class, isn't it?" and that if he passes information to fighting Horikita's class next year, she could gain an advantage.
+[note] (p.64) Chabashira guesses the Keyaki Mall meeting might be about "Horikita... and Hirata too?" when Ayanokōji says it has nothing to do with the class or Maezono.
+[note] (p.75) Hoshinomiya's fall would mean Ichinose's class loses its chance to rise; Mashima argues holding off now is beneficial to everyone, including the students in Horikita's class.
+[mentioned] (p.61, p.64, p.75) Passing mention only; not a scene presence.
+
+<!-- walk: y2v12.5 Ch.4 → p.76 -->
+
+### y2v12.5 p.96 — Ch.6: Horikita, mentioned
+[scene] (p.96) Sakayanagi tells Ayanokōji that Horikita-san (like Ryūen-kun and Ichinose-san) still has clear room for growth and that it is unpredictable what changes they will undergo.
+[mentioned] (p.96) Passing mention only; not a scene presence.
+
+<!-- walk: y2v12.5 Ch.6 → p.106 -->
+
+### y2v12.5 p.112 — Ch.7: Horikita, mentioned
+[scene] (p.112) Chabashira, hearing Kiyotaka is interested in the university where "my senpai who took care of me here" went, asks: “Are you talking about Horikita and Nagumo?”
+[note] (p.112) Horikita's name is invoked as one of the senpai whose university Kiyotaka wants to aim for; she does not appear on-page in this chapter.
+[mentioned] (p.112) Passing mention only; not a scene presence.
+
+<!-- walk: y2v12.5 Ch.7 → p.138 -->
+
+### y2v12.5 p.141–147 — Ch.8: Celebration, planned; and what stayed behind
+[scene] (p.141) She proposes they skip the full café and buy vending-machine drinks; she sits on a bench and asks point-blank whether Ayanokōji and Karuizawa really broke up.
+[says] (p.141) “That’s troublesome.”
+[says] (p.141) “...Alright, let’s change the location. Maybe just find a bench or something?”
+[says] (p.142) “While crying and screaming that you didn’t want to break up, you desperately clung to Karuizawa-san’s legs or something.”
+[says] (p.142) “I can’t imagine someone as calm as you doing such a thing, but maybe it’s true?”
+[says] (p.142) “Just kidding. Even Kushida-san didn’t know exactly how the breakup went.”
+[says] (p.142) “Really? It didn’t seem like that. I thought Karuizawa-san cared about you a lot.”
+[says] (p.142) “I thought you’d be down, and I was kind of looking forward to seeing it, but you seem fine.”
+[says] (p.142) “That’s right.”
+[says] (p.142) “Kushida-san was quite excited to tell me, saying you were dumped pretty badly. Should I give you the details?”
+[says] (p.142) “It’s not my place to comment on matters of love, so let’s leave it at that.”
+[says] (p.143) “Yes. That’s why I thought, before we become third years, we should have a small celebration for our promotion with everyone in class.”
+[says] (p.143) “Nothing fancy. Just getting everyone together for a toast.”
+[says] (p.143) “If nearly 40 people gather, we might bother others if we choose a poor location, right? So, I was thinking about using a classroom at school on a day off. It won’t cost much, just drinks. How about next Friday?”
+[says] (p.143) “Will you also participate?”
+[says] (p.143) “Good, that’s settled then.”
+[says] (p.144) “I was a little worried about whether you were doing okay emotionally.”
+[says] (p.144) “You prioritized winning for the sake of the class. As a result, Maezono-san was expelled. That decision puts a lot of burden on you.”
+[says] (p.144) “It’s not just this time. It was the same with Sakura-san’s case. You took on roles nobody else wanted to bear to help the class, right?”
+[says] (p.144) “Because I’m weak, I’ve forced an incredible burden on you...”
+[says] (p.144) “I can feel it. I can’t help but feel it. But I also understand my own inability. I want to at least support you emotionally. If you’re feeling the strain, I want you to talk to me honestly and let me be of help to you.”
+[says] (p.144) “...Really?”
+[says] (p.144) “That’s not it at all... I just wanted to be of help to you.”
+[says] (p.144) “...Misleading?”
+[says] (p.144) “...What?”
+[says] (p.144) “...Hah, you’ve started to say some rather ridiculous things, haven’t you?”
+[says] (p.144) “That’s the part I just can’t understand—you don’t seem that way at all.”
+[note] (p.145) It was because Horikita couldn’t talk to everyone the way she talked to Ayanokōji.
+[thinks] (p.145–147) “A girlfriend candidate, huh?” … “But he’s the only one I’ve become able to talk that way with.” … “But still, being his girlfriend…” … “Ridiculous.” … “...What was that just now...?” … “Nervousness?” … “No, it’s just a joke anyway, so it’s silly to take it seriously.” … “...No good, I should stop thinking.”
+[note] (p.142) "I chose a karaoke room, mindful of the public eye." — narration of how the breakup unfolded.
+[rel:ayanokouji-kiyotaka] (p.141–147) The "girlfriend candidate" joke lands; her heartbeat quickens inexplicably; she blames herself for his burden.
+[rel:karuizawa-kei] (p.142) She mourns the loss of Kei's presence in the class.
+[rel:kushida-kikyou] (p.142) Kushida eagerly told her the dumped-badly rumor.
+
+<!-- walk: y2v12.5 Ch.8 → p.147 -->
+
+### y2v12.5 p.152, p.157, p.165–170 — Ch.9: horikita-suzune, mentioned
+[scene] (p.152, p.157, p.165–170) Named in this chapter; no on-page presence.
+[mentioned] (p.152, p.157, p.165–170) Ishizaki rejects her class as the destination; her class is about to move up to Class A; the 500-points gap is discussed.
+[note] (p.152, p.157, p.165–170) Passing mention only; not a scene presence.
+
+<!-- walk: y2v12.5 Ch.9 → p.191 -->
+
+### y2v12.5 p.192–198 — Ch.10: Goals — Horikita’s turn
+[scene] (p.192) New semester, final year as third-years; she and Ayanokōji were the first to arrive at the 2-B classroom; the celebration begins without Karuizawa and Kōenji.
+[says] (p.192) “Karuizawa-san doesn’t seem to be participating... Was she really the one who dumped you, like you said?”
+[says] (p.192) “Maybe she simply had other plans or wasn’t feeling well?”
+[says] (p.193) “Have you heard about Karuizawa’s condition, Yōsuke?”
+[says] (p.193) “Deep down, he understands it too—that the choice you made was actually the right one.”
+[says:ayanokouji-kiyotaka] (p.193) “Horikita, is there really a need to force ourselves to think it was right? However, the world doesn’t just revolve around idealism. And people don’t grow easily. Things aren’t that simple. That’s why it’s fine for him to struggle all he wants with it.”
+[says] (p.193) “You really are strong, Ayanokōji-kun.”
+[says] (p.193) “I see... but I am grateful to you. I wanted to express that to you properly.”
+[says] (p.193) “It was an exam where we couldn’t have won without someone’s expulsion. Besides, in the end, it’s not your problem—it’s mine. I need to grow more. And I don’t just need one option, but I need to be able to choose from two or three of them. I need to gain enough strength to win without having to expel anyone anymore.”
+[says] (p.194) “I’ve thought that way many times, but I never quite seem to get there.”
+[says] (p.195) “Even just basing off Ike and the others’ discussion, it looks like most of the class is gradually growing.”
+[says] (p.195) “That’s true. It’s a world of difference compared to when we first enrolled, Ayanokōji-kun.”
+[says] (p.195) “Me? My goal is...”
+[says] (p.196) “To believe in myself and in my classmates… I think. If we can achieve that... we should definitely be able to graduate from Class A.”
+[says] (p.196) “I-Is it? It might seem obvious, but...”
+[says] (p.196) “...Yes... that’s true.”
+[says] (p.196) “What’s your goal?”
+[says] (p.196) “Hey, wait a minute, that’s not fair!”
+[says] (p.196) “Well... fine. Tell me next time.”
+[says] (p.198) “In another year, I want to become a classmate you can acknowledge again.”
+[says] (p.198) “I won’t ask you to help me with everything, but I want you to keep watching over me…”
+[note] (p.192–198) Her POV: he disappears from the classroom without a word; the loneliness lands; she tells him her next goal aloud.
+[rel:ayanokouji-kiyotaka] (p.192–198) She thanks him for the burden; he deflects; he disappears mid-conversation.
+[rel:hirata-yousuke] (p.193) He visits to tell Horikita about Karuizawa; he intends to help her when she needs it.
+
+<!-- walk: y2v12.5 Ch.10 → p.199 -->
 ## y3v1
 
 <!-- walk: y3v1 → start -->

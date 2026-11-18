@@ -1117,6 +1117,22 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:ayanokouji-kiyotaka] (p.19) He questions Ayanokōji's knowledge of the secret meeting.
 
 <!-- walk: y2v12.5 Ch.1 → p.22 -->
+### y2v12.5 p.126 — Ch.7: ike-kanji, mentioned
+[scene] (p.126) Named in this chapter's dialogue or narration; no on-page presence.
+[mentioned] (p.126) Ayanokōji tells Kōenji that empty words could even be said by Ike or Hondō — Kōenji must actually prove it.
+[note] (p.126) Passing mention only; not a scene presence.
+
+<!-- walk: y2v12.5 Ch.7 → p.138 -->
+
+### y2v12.5 p.195 — Ch.10: Ike’s reckoning
+[scene] (p.195) At the celebration, Ike stands to speak; Sudō expects something silly; instead he raises Maezono's expulsion — can she really manage from now on?
+[says] (p.195) “...You know, I’ve been thinking all spring break—Maezono, who’s expelled now… can she really manage from now on?”
+[says] (p.195) “No, that’s not it. But it was sudden, right? It means that it wouldn’t be strange if any of us were next... Truthfully, I began to realize it’s wrong to just live carelessly every day.”
+[says] (p.195) “I’ve never seriously thought about my own future. Not even once.”
+[rel:sudou-ken] (p.195) Sudō tries to stop him from bringing it up; he shakes his head and pushes on.
+[rel:yukimura-teruhiko] (p.195) Yukimura backs him: it’s important to be prepared for whatever may happen.
+
+<!-- walk: y2v12.5 Ch.10 → p.199 -->
 ## y3v1
 
 <!-- walk: y3v1 → start -->
