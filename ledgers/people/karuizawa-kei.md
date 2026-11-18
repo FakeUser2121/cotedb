@@ -1761,6 +1761,14 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v9 Epilogue → p.225 -->
 
+### y2v9 p.203–205 — Kei's "relationship trouble": confiding in Satō
+[scene] (p.203) The only student not celebrating the exam win — sat with Satō at Keyaki Mall, sighing repeatedly; she's been "suffering" through the "cold war" with Ayanokōji while keeping up appearances at school.
+[says] (p.204) "I think my relationship with Kiyotaka might be in trouble..."
+[says] (p.204) "I'd like to think that's not true, but... I can't help but feel that way lately."
+[says] (p.205) "I focused on my studies that Kiyotaka told me to work hard on, and I answered 3 out of 4 questions correctly on the exam. I thought I could do this."
+[trait] (p.203–205) She reveals to Satō that she and Ayanokōji have been distant ("a cold war") after a fight she started ("I was the one who got angry"); despite studying hard (3/4 correct) and trying to approach him after the exam, Nagumo and Horikita kept calling him away — she's uncertain whether he's angry or sulking ("He's always expressionless").
+[rel:ayanokouji-kiyotaka] (p.203–205) Her relationship with him is in trouble ("might be in trouble") — a "cold war" she can't read.
+[rel:satou-maya] (p.203–205) She confides in her best friend (who had been waiting for it) — Satō advises "aren't there a lot of fights in relationships?"
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->

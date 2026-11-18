@@ -1813,6 +1813,24 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v9 Epilogue → p.225 -->
 
+### y2v9 p.33–35 — Ichinose withdraws; resigns from the student council
+[says] (p.33) "I'm—not going to run for the student council this time."
+[says] (p.33) "I believe it's a problem that goes beyond that. I have always believed that belonging to the student council and becoming the student council president was for my own good and for the good of those around me. But now I realize that it was just my own conceitedness."
+[says] (p.33) "a person like me can't be the student council president. A criminal, that's why…"
+[says] (p.34) "Before the election, I would like to resign from the student council today."
+[says] (p.34) "I'm sorry I couldn't help you until the end."
+[says] (p.35) "I'm sure you'll be a wonderful student council president, Horikita-san. I'll be rooting for you."
+[trait] (p.33–35) Shaken by Kiryūin's "criminal" remark (her shoplifting past, unknown to Kiryūin but known to her), she withdraws from the election and resigns from the student council — not a spur-of-the-moment choice ("something I've been thinking about since a little before the trip"); blames her own "conceitedness" for her class's fall from Class A, and leaves smiling, rooting for Horikita.
+[rel:horikita-suzune] (p.35) She endorses her as the next president — "I'll be rooting for you."
+[rel:nagumo-miyabi] (p.33–35) She declines his election — "I apologize for not being able to live up to your expectations."
+[rel:kiryuin-fuuka] (p.33) Kiryūin's "shoplifter"/"criminal" remark deeply affects her — "No matter how much time passes, the sins of the past will not disappear."
+
+### y2v9 p.144–147 — Ichinose withstands Ryūen's provocation
+[says] (p.145) "It wouldn't look good if the student council president was a shoplifter."
+[says] (p.147) "That blatant provocation?"
+[trait] (p.144–147) Ryūen arrives to provoke her about quitting the student council (infiltrated it to earn good points), calling her a "shoplifter" — but she, having "developed a resistance to such discussions," is no longer shaken; she calmly endures it, and Kanzaki steps in to defend her — a sign of her new strength.
+[rel:ryuuen-kakeru] (p.145–147) He tries to break her before the special exam by taunting her about the student council/shoplifting — "If you lose to me in the next special exam, you're going to fall off a cliff."
+[rel:kanzaki-ryuuji] (p.146) He interrupts to defend her — "Cut it out, Ryuuen."
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->

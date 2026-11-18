@@ -676,6 +676,15 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y2v9 Epilogue → p.225 -->
 
+### y2v9 p.18–38 — Nagumo: his final act as president; exposed by Kiryūin
+[says] (p.24) "If I win, I want to get some private points from you."
+[says] (p.33) "I'm sorry for interrupting, but I want to talk about what you said earlier." — Kiryūin
+[says] (p.35) "It was impossible to replace Honami now."
+[says] (p.36) "You're a student in Suzune's class. Please help me gather members for the student council."
+[trait] (p.18–38) Steps down as president, arranging an election between Horikita and Ichinose (with 1/3 of votes at his discretion) and betting 20 million points with Ayanokōji — but Kiryūin publicly exposes that he ordered first-year Yamanaka to shoplift as a "mission"; he refuses to acknowledge it (no evidence), but Ichinose's withdrawal ends his "match"; he hands the presidency to an unopposed Horikita, tasks her (and Ayanokōji) with recruiting, and accepts Hokkaido souvenirs — "You're very disciplined in a strange way."
+[rel:ayanokouji-kiyotaka] (p.24–37) He loses his 20-million-point bet (Ichinose withdrew) but still ropes him into helping recruit.
+[rel:kiryuin-fuuka] (p.29–33) She bursts in and exposes the shoplifting order — he tries to "make a pass" at her but she's unmoved; "You are full of faults, but I appreciate what you said."
+[rel:ichinose-honami] (p.33–35) He wanted her in the election ("I don't get it") — her withdrawal frustrates him ("Damn it…").
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->

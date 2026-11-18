@@ -4489,6 +4489,15 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v9 Epilogue → p.225 -->
 
+### y2v9 p.26–37 — Horikita: endorsing Ichinose; becoming student council president
+[says] (p.27) "I believe that Ichinose-san would be a good choice for student council president. I don't think she has any faults."
+[says] (p.27) "I'm perfectly fine with it being Ichinose-san."
+[says] (p.35) "Ichinose-san has left the student council, what should I do?"
+[says] (p.36) "I'll do my best." — on recruiting two new members
+[trait] (p.26–37) Freely endorses Ichinose for president (she never wanted the role herself); when Ichinose withdraws and resigns, she's unopposed and becomes president; Nagumo orders her to fill the vacancies (one second-year, one first-year for Yagami) — she accepts without hesitation, and Ayanokōji agrees to help.
+[rel:ichinose-honami] (p.27, 34) She endorses her, then is surprised by her withdrawal — "Ichinose-san…"
+[rel:nagumo-miyabi] (p.35–37) He handovers the presidency and assigns her the recruitment task.
+[rel:ayanokouji-kiyotaka] (p.37) He's roped in to help recruit — "It looks like we've come to an agreement."
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
