@@ -1515,6 +1515,32 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [note] (p.12) Her talk of parent-teacher conferences lands ominously for Ayanokōji (his parent might come again) — his interior beat, not hers.
 
 <!-- walk: y2v10 Ch.1 → p.30 -->
+
+### y2v10 p.31–42 — Ch.2: The announcement and the rules
+[scene] (p.31) Thursday of the third term; she arrives stern-faced as ever; her expression is always severe; she straightens herself; several students already sense something is different.
+[says] (p.31) “Good morning. Today I want to talk about our first special exam of this third term.”
+[says] (p.31) “This special exam has slightly complicated rules.”
+[says] (p.31) “This special exam will only be conducted among second-year students.”
+[says] (p.32) “In this special exam, there are diversified tasks based on categories prepared by the school. Each class will choose a category, select a difficulty, and issue a task to the target class in a specific order.”
+[says] (p.34) “Indeed, some areas might not be primarily related to a student’s responsibilities. But those who are ignorant of the world are often eliminated when they step into society. In other words, even if you can’t study, those who can follow the conversation are often treasured. This means that this time, your general knowledge as a human being will be tested.”
+[says] (p.34) “It seems there are some who find it hard to understand, so let me simplify it. Basically, it has aspects similar to a quiz. The attacking class will present a quiz, and the defending class will solve it. It’s as simple as that.”
+[says] (p.36) “Be careful with your careless remarks, Ike.”
+[says] (p.36) “The attacking class will select the difficulty level after choosing the category. The basic, first level is of average difficulty. The second and third levels”
+[says] (p.37) “with higher difficulties can also be chosen, but to do so, you need to spend the points that you have acquired. For every point you spend, you can increase the difficulty level by one.”
+[note] (p.36–37) The rule sentence runs across the page boundary; the extraction splits it there; kept as printed.
+[says] (p.37) “The attacking side will nominate five people from the defending class and assign them tasks. You can keep selecting the same student, or you can change who you select. The same applies to categories.”
+[says] (p.38) “Also… if a class with any eliminated students sinks to the bottom of the four classes, one of those eliminated students will be expelled.”
+[says] (p.39) “And the reward for this special exam is as follows:”
+[says] (p.40) “To answer the easier question first, even if you are eliminated, you just won’t be nominated by the attacker afterward. You’ll continue to wait in the same place as the other students and are free to participate in the conversation.”
+[says] (p.41) “As for a leader getting eliminated, the leader does not participate in any tasks to begin with. This means that they cannot be nominated by the attacker and therefore have no fear of being eliminated.”
+[says] (p.41) “Correct. Those who are chosen as leaders are effectively exempted from the risk of expulsion. Whether they consider this a perk or not is up to the individuals.”
+[says] (p.41) “Also, it’s important to note that during this special exam, the use of mobile phones will be permitted at all times, except when the defensive side is solving a problem.”
+[says] (p.42) “The special exam will be conducted next Friday. First of all, by the end of school next Monday, find time, decide the leader through mutual discussion, and let me know. If you can’t choose a leader, as you can probably guess, we will randomly select one.”
+[says] (p.42) “I understand everything, but it’s going to be a tough fight. All I can say is—.”
+[says] (p.42) “Do your best not to place last. That’s it.”
+[note] (p.42) Pages 39–42 print the reward table (1st +100; 2nd/3rd −50; 4th −100; extension on tie; all-tie −100 each) and the bottom-rank expulsion rule as displayed slides, not as her speech beyond the line "as follows".
+
+<!-- walk: y2v10 Ch.2 → p.59 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

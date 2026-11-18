@@ -137,11 +137,27 @@ char_id: maezono · class: Class 1-D · status: minor
 
 <!-- walk: y2v10 Ch.2 → p.49 -->
 
+### y2v10 p.46–49 — Ch.2: Maezono's challenge
+[scene] (p.46) Raises her hand despite hesitating as the class drifts toward Horikita-as-leader.
+[says] (p.46) “Hold on a second!”
+[says] (p.46) “I think there may be a little room for discussion...”
+[scene] (p.47) Appeals to the room, including Yōsuke; her point: the unanimous-vote exam's expulsion decision is the template for leader decisions.
+[says] (p.47) “Certainly, I think Horikita-san is reliable. It’s greatly appreciated that she’s willing to take on such a responsible role as a leader. However... we can’t afford to lose this special exam, right? If we rank last and have an elimination, that person will be expelled from class. Therefore, shouldn’t we appoint the person who would give us the highest chance of winning as the leader?”
+[says] (p.47) “I don’t doubt Horikita-san’s abilities at all. But is she really the best option? I think there’s some room for discussion. Can’t we find someone who can make better decisions in the class?”
+[says] (p.47) “Calm down. It’s just my personal opinion, but can I mention it?”
+[says] (p.47) “During the unanimous vote special exam, Horikita-san changed her opinion due to the flow of Kushida-san’s expulsion, right? The person who should’ve taken responsibility at that time should’ve been a student who continued to vote against it. But I just have a feeling that she didn’t stick to it where she should have. This time, the leader decides everything, right?”
+[note] (p.47) The rest of her printed speech (choosing who to expel; "Kushida-san is still in the class is a big plus") continues on the same page; quoted in part.
+[scene] (p.48) Presses for alternatives: "recommendations"; meets Horikita's standard (raise your hand or nothing).
+[says] (p.48) “Even if no one has come forward, there may still be recommendations. If you ask other people, including myself, they may be able to give you more suitable candidates. Isn’t it worth asking?”
+[says] (p.48) “But—”
+[scene] (p.49) Her line is the formal withdrawal.
+[says] (p.49) “Certainly, as Horikita-san said, we can’t make someone who doesn’t nominate themselves a leader.”
+[note] (p.49) The pages show her "unable to come up with a counterargument and stuttered" at this point; her actual hand stays down.
+[rel:horikita-suzune] (p.46–49) Questions her decisiveness in public; withdraws when the class asks for volunteers instead.
+[rel:hirata-yousuke] (p.46–47) He weathers her challenge with a smile; she respects the question enough to press it.
+[rel:kushida-kikyou] (p.47) Uses the Kushida expulsion flow as her exhibit.
 
-
-
-
-
+<!-- walk: y2v10 Ch.2 → p.59 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

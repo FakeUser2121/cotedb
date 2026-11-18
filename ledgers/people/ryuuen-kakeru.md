@@ -2399,6 +2399,14 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:hashimoto-masayoshi] (p.8) Named in Hashimoto's monologue as a possible opponent in his Class A revenge.
 
 <!-- walk: y2v10 Prologue → p.8 -->
+
+### y2v10 p.39–42 — Ch.2: Ryūen, the collusion exception named
+[mentioned] (p.39) Passing mention: the page cites "the contract Ryūen and Katsuragi made during the deserted island exam last year in summer, in which they forfeited class points in exchange for Private Points" as the rare collusion exception.
+[mentioned] (p.40) Passing mention: "setting aside Horikita and Ichinose, the possibility of such a proposal getting through to Ryūen or Sakayanagi was low."
+[mentioned] (p.42) Passing mention: "someone like Ryūen or Sakayanagi might easily undertake such merciless tasks" (the expulsion-nomination burden of a losing leader).
+[note] (p.39) The deserted-island contract is referenced, not narrated; no scene, no dialogue.
+
+<!-- walk: y2v10 Ch.2 → p.59 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

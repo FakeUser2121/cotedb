@@ -1944,6 +1944,15 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:ayanokouji-kiyotaka] (p.10–11) Envies him; envious of the peak of cheerful people; Sudō sighs; AK answers the sensei question awkwardly.
 
 <!-- walk: y2v10 Ch.1 → p.30 -->
+
+### y2v10 p.34, 50 — Ch.2: Sudō on entertainment categories; the Kōenji question
+[scene] (p.34) He openly voices aversion to the entertainment category being on the table.
+[says] (p.34) “Do students need stuff like entertainment...? I’m not good at that...”
+[scene] (p.50) As ideas begin flowing, he speaks somewhat forcefully, as if he had been thinking about it all along.
+[says] (p.50) “What’re we going to do about the guy who isn’t here, Kōenji? Do we have to protect him? That’s what we promised, right?”
+[note] (p.50) His reminder forces Horikita to reveal the email on her phone in front of the whole class; the room absorbs that Kōenji demanded protection in writing.
+
+<!-- walk: y2v10 Ch.2 → p.59 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

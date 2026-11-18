@@ -717,3 +717,9 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 
 
 <!-- walk: y2v12 Epilogue → p.228 -->
+
+### y2v10 p.48 — Ch.2: Hasebe's clouding
+[scene] (p.48) During the unanimous-vote flashback, Hasebe, maintaining a stern expression, shows a momentary clouding on her face but does not go so far as to glare at Horikita.
+[note] (p.48) The page credits her with understanding why Horikita made that tough decision at the time — irritation, not hostility.
+
+<!-- walk: y2v10 Ch.2 → p.59 -->

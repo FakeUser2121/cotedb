@@ -1971,6 +1971,43 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [note] (p.29) The sketchbook and colored pencils he bought with private points shortly after enrolling sat untouched in the second drawer; Kei's puzzled look when she discovered them is recalled here; his inability to decide what to draw is the page's quiet beat.
 
 <!-- walk: y2v10 Ch.1 → p.30 -->
+
+### y2v10 p.51–59 — Ch.2: The shop detour; the bench; the handshake
+[scene] (p.51) School ended; they stopped by Keyaki Mall though unplanned; she requested the detour; she is gloomier than usual; in the mall she finally breaks — fears being targeted and losing it.
+[says] (p.51) “Ah... well...”
+[says] (p.51) “Hey, hey, Kiyotaka. What will happen to me in this exam…? If I continue to be targeted, I think it’s absolutely impossible to keep answering correctly... Can you protect me?”
+[says] (p.51) “It would be better if you’re the leader... then I would definitely be protected...”
+[says] (p.51) “Th-that’s right. I’m Kiyotaka’s girlfriend. Horikita-san won’t choose me easily.”
+[says] (p.52) “...Exactly.”
+[scene] (p.53) Outside, still mid-January; a girl lies on a bench with her eyes closed; Kei is unsure if she's dead; she is not.
+[says] (p.53) “No, she’s not.”
+[says] (p.53) “Eh, do you know each other?”
+[scene] (p.55) Kei cross-exams him like a teacher; her arms folded; her gaze prying; she is both jealous-mischievous and genuinely suspicious.
+[says] (p.55) “You sure know many girls from other classes”
+[note] (p.54–55) The printed line ending in Kiyotaka-kun? splits across the page boundary, with the tail kun? orphaned at the top of page 55 before the line's beginning — kept as printed; only the contiguous interior fragment is quoted.
+[says] (p.55) “It doesn’t matter who talks first. The fact that the conversation took place is the problem.”
+[says] (p.55) “Eh, me?”
+[says] (p.55) “Curious? What do you mean?”
+[says] (p.55) “What? What’s this?”
+[says] (p.56) “Wait, wait, aren’t you saying something rude?”
+[says] (p.56) “...What do you mean by casual?”
+[says] (p.56) “That’s... That’s just my choice.”
+[says] (p.56) “Well, um, maybe because I was cute?”
+[says] (p.56) “What’s up with you…”
+[scene] (p.56–57) Morishita strokes her cheek with an index finger; she orders her hands off; flustered when Morishita bows deeply and smoothly continues.
+[says] (p.56) “Don’t touch me without permission.”
+[says] (p.57) “You don’t have to apologize that much, I understand.”
+[says] (p.57) “Eh? Well… that’s fine, but it doesn’t sit well with me?”
+[says] (p.58) “Uh, you’re welcome.”
+[says] (p.58) “Huh, wait… We just finished talking, and you want to talk more? Can’t you read the room…?”
+[says] (p.58) “No, no, no, we’re not exchanging anything! Right?”
+[says] (p.59) “Wait a minute!”
+[says] (p.59) “Ugh~ Kiyotaka, that side of you is kind of cute, I can’t get mad at you!”
+[note] (p.58) Morishita only has a few people registered on her chat app; Kei and Kiyotaka end up exchanging contact info against her better judgment; she calls his willingness "cute".
+[rel:ayanokouji-kiyotaka] (p.51–59) Her anchor; the exam shakes her; he triages her anxiety with numbers; together they get folded into Morishita's orbit.
+[rel:morishita-ai] (p.53–59) Cross-examined Kei about Hirata, her makeup, her "casual" charm; flusters her; forces the contact exchange.
+
+<!-- walk: y2v10 Ch.2 → p.59 -->
 ## y2v10.25
 
 <!-- walk: y2v10.25 → start -->

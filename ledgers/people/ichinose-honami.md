@@ -1964,6 +1964,11 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [note] (p.9) Passing mention (locator pages: p.40, p.86-87, p.96, p.107-115, p.117-118, p.120; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.40 — Ch.2: Ichinose, named as the anti-collusion baseline
+[mentioned] (p.40) Passing mention: "This method was fair to all classes and could also purchase safety. However, setting aside Horikita and Ichinose, the possibility of such a proposal getting through to Ryūen or Sakayanagi was low." — Ichinose is grouped with Horikita as one of the two classes collusion proposals might survive; she does not appear on the page.
+[note] (p.40) Mention only; no scene presence; no dialogue.
+
+<!-- walk: y2v10 Ch.2 → p.59 -->
 ## y2v10.25
 
 <!-- walk: y2v10.25 → start -->

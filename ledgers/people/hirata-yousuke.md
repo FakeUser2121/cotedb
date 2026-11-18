@@ -1991,6 +1991,24 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [voice] (p.14) Humble, practical; doesn’t overrate his own sporting aptitude; consistent with his studies and stated ability.
 
 <!-- walk: y2v10 Ch.1 → p.30 -->
+
+### y2v10 p.43, 45–50 — Ch.2: Yōsuke shepherds the room
+[scene] (p.43) After Chabashira-sensei leaves, he takes the lead to calm the class with a recap of the exam's main points.
+[says] (p.43) “Since we have limited time, let’s recap the main points of the special exam’s contents for now.”
+[says] (p.43) “The areas of concern for this special exam are that it’s difficult to imagine placing last without an expulsion. Inevitably, there will be an expulsion from the class in last place. And while the odds are low, if a tie for last place occurs, multiple classes might have expulsions.”
+[says] (p.43) “Be careful that the eliminations won’t only consist of students with lower abilities. It’s natural for other classes to want to force capable students to be eliminated, looking at the future. If the class misjudges who to protect, even competent students could be at risk.”
+[scene] (p.45) Opens the discussion by asking Horikita in front of everyone; the class likely wanted exactly this question.
+[says] (p.45) “Horikita-san, I have one question before we begin our official discussion. If we ask you to take on the role of the leader in this special exam, would you accept?”
+[scene] (p.46) After ~30 seconds of silence, he nods — "the correct answer" — and tries to settle the decision early.
+[says] (p.46) “I guess that’s the correct answer. To be honest, I don’t think the leader’s exemption from elimination or expulsion is a great benefit. If there’s no other student who can take on such an important responsibility for the class, I would really like to leave it to you, Horikita-san. What do you think?”
+[scene] (p.46–47) Momentarily stiffens when Maezono stops the decision; quickly regains composure, keeps his smile; stays steady when the room gets nervous.
+[says] (p.47) “Surely, as you said, it would be best if the person who would give us the highest chance of winning becomes leader, but wouldn’t Horikita-san make the appropriate decisions to win?”
+[scene] (p.49–50) Closes the leader debate; turns the class back to the exam itself; later alternates explaining while Horikita eats, and vice versa.
+[says] (p.49) “It seems like we can move forward at last. Let’s get back to discussing what this special exam is. We should also continue eating. Everyone stopped eating because of the tension.”
+[note] (p.50) "While Horikita was speaking, Yōsuke continued eating, and while Yōsuke was speaking, Horikita did the same."
+[rel:horikita-suzune] (p.43–50) Her staunchest supporter in the room; scripts the recap; nominates her early.
+
+<!-- walk: y2v10 Ch.2 → p.59 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

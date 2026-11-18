@@ -1319,6 +1319,19 @@ aliases used for anchors: ike, kanji, ike-kun
 [voice] (p.12) The first to speak up, as always, as Chabashira-sensei finished the morning notice; no one in the class was surprised.
 
 <!-- walk: y2v10 Ch.1 → p.30 -->
+
+### y2v10 p.32, 36, 47 — Ch.2: Ike's candor, the difficulty-level slip
+[scene] (p.32) Straight away he voices the room's fear aloud over the exam's name.
+[says] (p.32) “Survival and elimination? That sounds very dangerous...”
+[scene] (p.36) During her explanation, a thought escapes his mouth before he can stop it; covers his mouth too late; timidly looks up at Chabashira-sensei.
+[says] (p.36) “Won’t everyone just pick the highest difficulty level for their opponents?”
+[says] (p.36) “Y-yes, I’m sorry!”
+[scene] (p.36) She lets it slide with only a sigh — "albeit sighing, didn’t seem too harsh on him".
+[scene] (p.47) He reacts to Maezono's challenge unexpectedly; cuts straight to the point.
+[says] (p.47) “So, Maezono, do you have someone better in mind? I don’t get it.”
+[note] (p.39) Unnamed student screams at the expulsion prospect; he is not that voice.
+
+<!-- walk: y2v10 Ch.2 → p.59 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

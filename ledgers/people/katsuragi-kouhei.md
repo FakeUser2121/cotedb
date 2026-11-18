@@ -957,9 +957,12 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.9) Passing mention (locator pages: p.39, p.57, p.85, p.145, p.164, p.175; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.39, 57 — Ch.2: Katsuragi, the other Class A leader named
+[mentioned] (p.39) Passing mention: "the contract Ryūen and Katsuragi made during the deserted island exam last year in summer, in which they forfeited class points in exchange for Private Points."
+[mentioned] (p.57) Passing mention: Morishita names "Sakayanagi Arisu and Katsuragi Kōhei leading the class as leaders" as the reason Class A protected everyone.
+[note] (p.39) Both mentions are references; no scene presence; no dialogue attributed to him on these pages.
 
-
-
+<!-- walk: y2v10 Ch.2 → p.59 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

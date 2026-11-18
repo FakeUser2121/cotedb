@@ -4706,6 +4706,39 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ayanokouji-kiyotaka] (p.16–28) Forces the tasting on him; her first real treat-him-to-lunch of the year.
 
 <!-- walk: y2v10 Ch.1 → p.30 -->
+
+### y2v10 p.31, 40–41, 43–50 — Ch.2: The leader question, asked and answered
+[scene] (p.31) She received hints from senpais and was already more concerned than the class; her demeanor gives nothing away.
+[scene] (p.40) Horikita raises her hand — "may I ask a question?" — to probe the leader-elimination mechanics.
+[says] (p.40) “Excuse me, may I ask a question?”
+[says] (p.40) “What happens if the leader is eliminated midway through the special exam? Also, will those who are eliminated be required to do something like leaving the room?”
+[says] (p.41) “The leader only directs and doesn’t fight...”
+[scene] (p.43) Without her speaking yet, the class naturally gathers around her after the homeroom; she listens before claiming.
+[scene] (p.44) She gets the floor; her stated fear honestly named, her answer to it: do not become overly anxious.
+[says] (p.44) “Just hearing this, naturally, you’d want to avoid elimination at all costs. However, what I really want to say is to avoid becoming overly anxious. While we are still unclear about the essence of the special exam, let’s first start by unifying our overall awareness without causing a fuss.”
+[scene] (p.44) She decides to gather the class at lunch; participation encouraged but not mandatory.
+[scene] (p.45) Ten minutes into lunch, 37 classmates, Kōenji absent; Yōsuke asks her in front of everyone.
+[says] (p.45) “If I’m nominated by many, I have no intention of refusing. But in this special exam, while the leader carries great responsibility, there’s also a rule that excuses them from the risk of expulsion or leaving school. If there are other potential candidates, I would like to listen to their ideas.”
+[scene] (p.46) She moves to the podium; thirty seconds of silence; no one volunteers; she intends to take the role regardless but keeps her reservations formal.
+[says] (p.46) “Is there anyone here who wants to be the leader? If so, please tell us.”
+[says] (p.46) “Yes, of course, I intend to. I showed a reserved attitude to hear other people’s opinions, but I always intended to take on the role of the leader. If there are no objections...”
+[scene] (p.47) Maezono demands a discussion on Horikita's decisiveness; the unanimous-vote flashback; Hasebe clouds; Horikita concedes the hesitation publicly.
+[says] (p.48) “I see... that’s a hard truth. Indeed, at that time, I hesitated. I refused to follow the wishes of the class majority and made a personal decision. There’s no denying that it’s a fact.”
+[says] (p.48) “I know that I have many immature aspects. I can’t declare that I’m the best choice for the leader. Nevertheless, right now, no one else is stepping up to take the role.”
+[says] (p.48) “I see—a recommendation. Of course, there might be some in the class who think someone else would be better than me. But I have already asked the class once. If there was a student who wanted to be a leader, they would have raised their hand. Is it okay to leave the decision to someone who doesn’t nominate themselves?”
+[says] (p.48) “Or should we ask Kōenji-kun, who is the only one who hasn’t participated in this discussion? He has a sharp edge and can undoubtedly make decisions.”
+[scene] (p.48–49) Her counter-offer is a trap she is willing to spring: anyone better can have it.
+[says] (p.49) “Your thinking is correct too. I agree with the opinion that we should search for someone stronger and faster in good decision-making. So after listening to what you just said, I am asking the whole class. In this special exam, students who are confident that they can lead and guide the class to victory, please raise your hand. If someone emerges who I think is more suitable than me, I would gladly give up the leadership role.”
+[note] (p.49) The hand-raise challenge is clearly aimed at Ayanokōji; no one moves; she understood he would not volunteer.
+[scene] (p.50) Sudō's question lands; she answers with the email — polite, written, expulsion-protection demand.
+[says] (p.50) “A timely topic. I just received a polite email that said, ‘It goes without saying, but I’d be in trouble if you don’t protect me from expulsion.’”
+[says] (p.50) “Don’t jump to conclusions. We can’t say for certain that we need to constantly protect him. We’ll think of some countermeasures. I won’t discuss it in detail now, but don’t worry too much.”
+[note] (p.50) She flags Kōenji-strategy talk as off-limits for public spaces and phones, and commits to no details.
+[rel:maezono] (p.46–49) Faces her challenge head-on; answers it with the class ask; Maezono withdraws.
+[rel:hirata-yousuke] (p.45–50) He backs her from the first pre-lunch question to the end; they alternate explaining and eating.
+[trait] (p.31) Received hints from senpais; more concerned than the class; keeps it off her face.
+
+<!-- walk: y2v10 Ch.2 → p.59 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

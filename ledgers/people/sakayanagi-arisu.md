@@ -1409,6 +1409,16 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:hashimoto-masayoshi] (p.8) Named in Hashimoto's monologue as a possible opponent in his Class A revenge.
 
 <!-- walk: y2v10 Prologue → p.8 -->
+
+### y2v10 p.40, 42, 55–58 — Ch.2: Sakayanagi, the expected refusal
+[mentioned] (p.40) Passing mention: "setting aside Horikita and Ichinose, the possibility of such a proposal getting through to Ryūen or Sakayanagi was low."
+[mentioned] (p.42) Passing mention: "someone like Ryūen or Sakayanagi might easily undertake such merciless tasks" (a losing leader nominating a pupil for expulsion).
+[mentioned] (p.55) Passing mention: "For a student in Sakayanagi’s class, you’re quite unique, aren’t you?" — Morishita's class is Sakayanagi's.
+[mentioned] (p.57) Passing mention: Morishita evokes "the flow of Sakayanagi Arisu and Katsuragi Kōhei leading the class as leaders".
+[mentioned] (p.58) Passing mention: AK recalls "if I had been in Class A like Morishita when I enrolled, and if Sakayanagi and I hadn’t known each other, the situation would be completely different."
+[note] (p.40) All mentions; she never speaks on these pages.
+
+<!-- walk: y2v10 Ch.2 → p.59 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

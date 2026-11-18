@@ -1970,6 +1970,14 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:ayanokouji-kiyotaka] (p.18–27) Hands him her share of the tasting verdict; watches his fate with amusement.
 
 <!-- walk: y2v10 Ch.1 → p.30 -->
+
+### y2v10 p.44, 47–48 — Ch.2: Kushida, the unspoken exhibit
+[mentioned] (p.44) Passing mention: "even excellent students like Yōsuke and Kushida would buckle if they were continuously bombarded with questions".
+[mentioned] (p.47) Passing mention: Maezono invokes "Horikita-san changed her opinion due to the flow of Kushida-san’s expulsion" — the unanimous-vote episode is the room's shared reference.
+[scene] (p.48) When her name comes up, her smile is still on; the page notes it "had more chances to take off her mask lately" but she was smiling in the room — "But whether that smile was warm or not was another matter…"
+[note] (p.48) She does not speak on these pages; her presence is social pressure embodied.
+
+<!-- walk: y2v10 Ch.2 → p.59 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

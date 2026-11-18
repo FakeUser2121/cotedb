@@ -972,6 +972,14 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [note] (p.9) Passing mention (locator pages: p.45, p.48-50, p.67-80, p.97-98, p.120, p.129-130; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.45, 50 — Ch.2: Kōenji, the absent constant
+[mentioned] (p.45) Passing mention: the 37 gathered for lunch exclude Kōenji — "About 10 minutes after the lunch break started, 37 classmates, excluding Kōenji, had gathered in the classroom." The page recalls he placed first alone in the deserted-island exam on an advanced-payment promise, gaining the right to complete freedom — unconditional protection for this exam.
+[mentioned] (p.50) Passing mention: absent from the discussion; Sudō asks about him aloud; Horikita reveals his email: polite, in writing, demanding protection from expulsion.
+[says:kouenji-rokusuke] (p.50) “It goes without saying, but I’d be in trouble if you don’t protect me from expulsion.”
+[note] (p.50) The email's wording is printed inside Horikita's speech as the text she shows the class on her phone screen; the page frames it as Kōenji's email.
+[note] (p.45) The advanced-payment/immunity background is narration, not his speech; no scene presence; he never speaks on these pages.
+
+<!-- walk: y2v10 Ch.2 → p.59 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->
