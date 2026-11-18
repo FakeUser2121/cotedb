@@ -125,3 +125,16 @@ char_id: nishino-takeko · class: Class 1-C · status: minor
 [note] (p.70) The rule — each class must contain at least one representative from each gender — is stated at p.15; her selection fulfills it for C.
 
 <!-- walk: y2v12 ch3 → p.86 -->
+
+### y2v12 p.101–105 — Ch.5: The vanguard nobody expected
+[scene] (p.101) She sits rigid, arms crossed, unable to shake her immense nervousness; she drifts through the first round unable to follow the discussion at all; her focus lands on Yoshida's name for no good reason.
+[says] (p.102) “Ah, uh... has everyone finished checking their roles already...?”
+[says] (p.102) “What? Already, um, five minutes have passed...?”
+[scene] (p.102–103) She nominates twice, baselessly — loses one life, then two; her courage to nominate collapses entirely by the third round.
+[says] (p.102) “They weren’t an honor student... ugh... I don’t get this at all...”
+[scene] (p.104) Shimizu claims to be a graduate; she nominates — wrong; he is the honor student; she loses two lives and is ordered to leave the room without even time to feel frustrated.
+[says] (p.104) “What’s going on, this makes no sense...!”
+[note] (p.104) She never makes a correct nomination; her defeat is a collapse in real time — she is outclassed by Nishino-spotting opponents.
+[rel:ryuuen-kakeru] (p.101–105) Ryūen's gamble — choosing the nobody as his vanguard; it backfires completely; Sanada never nominates once.
+
+<!-- walk: y2v12 ch5 → p.118 -->

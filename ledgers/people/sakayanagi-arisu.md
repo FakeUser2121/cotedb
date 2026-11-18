@@ -943,6 +943,19 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [scene] (p.80) During the hour-long group formation, Sakayanagi's class never closes the distance or shows signs of discussion — "Those two seem to be making all the groups by themselves."
 
 <!-- walk: y2v12 ch3 → p.86 -->
+
+### y2v12 p.117–118 — Ch.5: The general walks in
+[scene] (p.117) After Kitō falls, she enters the room and sits; notes to Katsuragi how pleased she is with his sweep; concedes he defeated her vanguard and middle guard on points.
+[says] (p.117) “I’m surprised you only lost one life while both defeating my vanguard and middle guard.”
+[says] (p.117) “Choosing Kitō as the representative was a clear mistake.”
+[scene] (p.117–118) She explains — Kitō volunteered to face Ryūen-kun; as long as the general stayed in the match, she discarded two slots without concern; admits Katsuragi's sweep exceeded expectations; hears his reason — Totsuka Yahiko — and accepts it.
+[says] (p.118) “You can take it however you like. Your anger is justified, but your revenge won’t be fulfilled.”
+[scene] (p.118) As the announcement comes, they close their mouths and straighten their postures; the final match begins.
+[rel:kitou-hayato] (p.113–116) She ordered the four nominations (or had them volunteered) — his overdraw was hers; she calls his selection a mistake unprompted.
+[rel:katsuragi-kouhei] (p.117–118) The rematch of the exiles — she recognizes the grudge, warns it won't be fulfilled; mutually respectful antagonism.
+[rel:totsuka-yahiko] (p.117) The dead name — she drove him to expulsion; Katsuragi's grudge stands on it.
+
+<!-- walk: y2v12 ch5 → p.118 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

@@ -19,10 +19,9 @@ char_id: tsukaji-shihori · class: unknown · status: unknown
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — tsukaji-shihori mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.106, p.110; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.106, 110 — Ch.5: First-discussion participant for Class A
+[scene] (p.106) Named in the first-discussion participant list for the Katsuragi match — Class A side.
+[scene] (p.110) Katsuragi nominates him as executive role; the nomination misses — Katsuragi loses one life (7→6); his own role is never disclosed.
+[note] (p.110) One of two misses in the whole match for Katsuragi.
 
-
-
+<!-- walk: y2v12 ch5 → p.118 -->

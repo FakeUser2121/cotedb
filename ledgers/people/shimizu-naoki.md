@@ -51,10 +51,10 @@ char_id: shimizu-naoki · class: Class 1-A · status: minor
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — shimizu-naoki mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.101, p.104, p.183-189, p.191-194; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.101, 104 — Ch.5: The self-proclaimed graduate
+[scene] (p.101) Named in the first-discussion participant list for Class A.
+[scene] (p.104) He claims to be a graduate and says Kinoshita is NOT honor student — but Yoshimoto declares he is the real graduate and that Kinoshita IS honor student; it is certain at least one of them is lying.
+[note] (p.104) He is revealed to be the honor student himself — "it had been a major self-destruction"; Nishino nominated him (believed graduate) and loses two lives; Sanada passes.
+[rel:kinoshita-minori] (p.104) He mis-reads her as not an honor student; he is wrong about her and about himself.
 
-
-
+<!-- walk: y2v12 ch5 → p.118 -->

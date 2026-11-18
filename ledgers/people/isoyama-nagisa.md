@@ -58,7 +58,9 @@ char_id: isoyama-nagisa · class: unknown · status: unknown
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — isoyama-nagisa mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.101, p.103; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.101, 103 — Ch.5: First-discussion participant for Class C
+[scene] (p.101) Named in the first-discussion participant list for Class C — one of the fourteen in the vanguard discussion.
+[scene] (p.103) In the third round, both representatives pass; the honor student nominates him to leave the room — dismissed; role never disclosed.
+[note] (p.103) 12 or fewer remain; his exit lands while Nishino is still losing her mind.
+
+<!-- walk: y2v12 ch5 → p.118 -->

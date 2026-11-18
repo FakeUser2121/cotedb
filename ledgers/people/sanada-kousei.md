@@ -118,3 +118,17 @@
 [note] (p.78) He is the only representative who speaks during the whole explanation; no other reps ask anything.
 
 <!-- walk: y2v12 ch3 → p.86 -->
+
+### y2v12 p.101–105 — Ch.5: The vanguard who only passes
+[scene] (p.101) In the examination room he greets Nishino politely as a nervous equal; she is overwhelmed; he suppresses an inadvertent kindness that may strangle him; the discussion begins.
+[says] (p.101) “Please take good care of me, Nishino-san.”
+[scene] (p.102–103) He passes in round one and round two — Nishino burns two lives on baseless nominations; he wins by doing nothing, reading her panic as the whole game.
+[note] (p.104) He wins the vanguard battle entirely by passing and by Nishino's self-destruction; he never makes a single nomination — "In order to win, taking it slow is definitely the best approach for me."
+[says] (p.104) “Phew… While I’m glad that it was Nishino-san…”
+[says] (p.105) “In order to win, taking it slow is definitely the best approach for me......”
+[scene] (p.105) After the win, heavy with guilt: five more minutes pass; Katsuragi enters; they greet; the Sanada–Katsuragi match awaits.
+[says] (p.105) “Katsuragi-kun, please take good care of me.”
+[rel:katsuragi-kouhei] (p.105) The Class A/Class C middle-guard battle; he notes their shared history in Class A.
+[rel:nishino-takeko] (p.102–103) He wins against an opponent who nominates herself into defeat; he does not enjoy it.
+
+<!-- walk: y2v12 ch5 → p.118 -->

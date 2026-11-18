@@ -47,10 +47,9 @@ char_id: satonaka-satoru · class: Class 1-B · status: minor
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — satonaka-satoru mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.106, p.110; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.106, 110 — Ch.5: First-discussion participant for Class A
+[scene] (p.106) Named in the first-discussion participant list for the Katsuragi match — Class A side.
+[scene] (p.110) He is ordered to leave the room in the third discussion's nomination round — the honor student nominates him; role never disclosed.
+[note] (p.110) His exit ends any chance for Class A to expand on the monitor; fewer than eight participants remain.
 
-
-
+<!-- walk: y2v12 ch5 → p.118 -->

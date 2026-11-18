@@ -30,10 +30,9 @@ aliases used for anchors: yoshimoto, kosetsu
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — yoshimoto-kosetsu mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.101, p.104; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.101, 104 — Ch.5: The real graduate
+[scene] (p.101) Named in the first-discussion participant list for Class C — one of the fourteen in the vanguard discussion.
+[scene] (p.104) Countering Shimizu's claim, he declares himself the real graduate and reports that Kinoshita is an honor student.
+[note] (p.104) He is correct — but his identity as the graduate does not save the discussion from collapse; both representatives still guess wrong.
 
-
-
+<!-- walk: y2v12 ch5 → p.118 -->

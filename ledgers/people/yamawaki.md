@@ -37,10 +37,8 @@ char_id: yamawaki · class: unknown · status: unknown
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — yamawaki mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.114; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.113–114 — Ch.5: Named in the reveal
+[scene] (p.114) Identified by the announcement as an honor student — Katsuragi's winning nomination in the fourth round.
+[note] (p.114) The Kitō–Katsuragi discussion's participant list is never printed in the text; neither his year nor his class is established; he is present in the match only as a reveal announcement.
 
-
-
+<!-- walk: y2v12 ch5 → p.118 -->

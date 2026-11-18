@@ -127,10 +127,9 @@ char_id: kinoshita-minori · class: Class 1-C (enrolled April 2015) · status: m
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — kinoshita-minori mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.101, p.104; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.101, 104 — Ch.5: The honor student at the center of the dispute
+[scene] (p.101) Named in the first-discussion participant list for Class C — one of the fourteen in the vanguard discussion.
+[scene] (p.104) Shimizu claims this student is NOT honor student; Yoshimoto declares this student IS honor student; at least one claim is a lie.
+[note] (p.104) Which claim is correct is never stated on these pages; the two men argue past each other without resolution.
 
-
-
+<!-- walk: y2v12 ch5 → p.118 -->

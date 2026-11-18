@@ -356,11 +356,11 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — yamada-albert mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.101; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.101 — Ch.5: First-discussion participant list (A vs C, vanguards)
+[scene] (p.101) Named in the first-discussion participant list for the vanguard battle — Yamada Albert (Class C) is one of the fourteen called into the vanguard discussion.
+[note] (p.101) No dialogue or action is printed for this student on these pages; the role is never disclosed.
 
+<!-- walk: y2v12 ch5 → p.118 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

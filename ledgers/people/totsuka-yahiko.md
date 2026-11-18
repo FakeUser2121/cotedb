@@ -306,10 +306,8 @@ char_id: totsuka-yahiko · class: Class 1-A (enrolled April 2015) · status: min
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — totsuka-yahiko mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.117; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.117 — Ch.5: The grudge behind the exam
+[scene] (p.117) Named by Sakayanagi as the reason for Katsuragi's fight — “Totsuka Yahiko-kun, whom I drove to expulsion?” — the expulsion that anchors his revenge.
+[note] (p.117) He does not appear; the name is the fulcrum of the Katsuragi match; everything about the middle-guard bout and this final exists to settle this.
 
-
-
+<!-- walk: y2v12 ch5 → p.118 -->

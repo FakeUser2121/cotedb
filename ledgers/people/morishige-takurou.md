@@ -48,10 +48,10 @@ char_id: morishige-takurou · class: Class 1-A · status: minor (allies)
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — morishige-takurou mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.106-108; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.106–108 — Ch.5: The marked man of the discussion
+[scene] (p.106) Named in the first-discussion participant list for the Katsuragi match — Class A side; restless since entering, never making eye contact, occasionally raising the corners of his mouth.
+[scene] (p.107–108) Katsuragi reads him instantly — “it was written on Morishige's face that he was given a special role”; nominates him as executive role; scores first blood; Sanada misses him entirely.
+[note] (p.108) Morishige is knocked out for the match; his role is never stated — only that it was executive-adjacent.
+[rel:katsuragi-kouhei] (p.107–108) The opening hit of the whole match; Katsuragi wins his first blood against Class A from outside it.
 
-
-
+<!-- walk: y2v12 ch5 → p.118 -->

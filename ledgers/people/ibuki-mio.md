@@ -831,10 +831,6 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — ibuki-mio mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.41, p.106, p.220, p.222; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
 
 ### y2v12.5 p.83–84 — Ch.5: The same screening
 [scene] (p.83) Ibuki is in the same screening as Ayanokōji and Karuizawa; she is seated next to Kei and leaves in the middle of the credits.
@@ -853,6 +849,11 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v12.5 Ch.5 → p.84 -->
 
+### y2v12 p.106 — Ch.5: First-discussion participant list (A vs C, Sanada vs Katsuragi)
+[scene] (p.106) Named in the first-discussion participant list for the Katsuragi match — Ibuki Mio (Class C) is one of the fourteen called into the discussion.
+[note] (p.106) No dialogue or action is printed for this student on these pages; the role is never disclosed.
+
+<!-- walk: y2v12 ch5 → p.118 -->
 ## y3v1
 
 <!-- walk: y3v1 → start -->

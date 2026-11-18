@@ -132,10 +132,9 @@ char_id: morofuji-rika · class: Class 1-D · status: minor (allies)
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — morofuji-rika mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.106, p.109; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.106, 109 — Ch.5: Sanada's wrong guess
+[scene] (p.106) Named in the first-discussion participant list for the Katsuragi match — Class C side.
+[scene] (p.109) Sanada nominates her as honor student — a decisive wrong move; he loses two lives (4→2); the printed text then names “Morishita” leaving the room looking frustrated.
+[note] (p.109) The participant lists for this discussion contain no Morishita; the printed name is kept as printed and is flagged in this volume's coverage notes as a translation defect.
 
-
-
+<!-- walk: y2v12 ch5 → p.118 -->

@@ -38,10 +38,9 @@ char_id: fukuyama-shinobu · class: unknown · status: unknown
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — fukuyama-shinobu mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.101, p.103, p.183-184; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.101, 103 — Ch.5: First-discussion participant for Class A
+[scene] (p.101) Named in the first-discussion participant list for Class A — one of the fourteen in the vanguard discussion.
+[scene] (p.103) The honor student nominates her to leave the room — she is dismissed in the second round; her role is never disclosed.
+[note] (p.103) Her dismissal comes after Nishino's second incorrect nomination; 13 remain.
 
-
-
+<!-- walk: y2v12 ch5 → p.118 -->

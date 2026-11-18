@@ -996,9 +996,22 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v12 ch3 → p.86 -->
 
+### y2v12 p.113–118 — Ch.5: The counterattack continues
+[scene] (p.113) After Nishino falls he takes the room opposite Kitō; his third battle; he passes in round one, then starts hunting honor students immediately — the opposite style from his calm opener against Sanada.
+[scene] (p.113–114) He baits Kitō's sense of urgency with probing comments; watches him burn four lives on bad nominations; in the fourth round, with 25% odds, he identifies Yamawaki as an honor student correctly — Kitō loses three lives and is eliminated.
+[says] (p.114) “That’s typical of you, Kitō.”
+[scene] (p.114–115) After Kitō grabs his collar and the speakers warn violence will be deemed violent action, he stays calm — “Stop it. Acts of violence are strictly prohibited.”; he tells Kitō plainly that this exam isn’t his forte; Kitō releases and leaves into his defeat.
+[says] (p.115) “Stop it. Acts of violence are strictly prohibited.”
+[says] (p.115) “This isn’t an exam you can win without a plan.”
+[scene] (p.117–118) Sakayanagi enters for the final match of the A/C side; they greet with wary courtesy; she praises his vanguard-middle-guard sweep; he declares his reason — Totsuka Yahiko; she notes the rules favor her; the battle for the final starts.
+[says:sakayanagi-arisu] (p.117) “I’m surprised you only lost one life while both defeating my vanguard and middle guard.”
+[says] (p.118) “I have been striving for this day—to avenge a grudge.”
+[rel:nishino-takeko] (p.101–105) Her collapse hands him the vanguard as his warm-up; he wins without landing a nomination.
+[rel:kitou-hayato] (p.113–116) Disposes of him with a 4-for-4 record against his nomination style; he calls it.
+[rel:sakayanagi-arisu] (p.117–118) The sworn-enemy battle he has been striving for; she accepts his grudge honestly.
+[rel:totsuka-yahiko] (p.117–118) The reason for all of it — avenged in the exam if at all; she chose Katsuragi over him once, she reminds him.
 
-
-
+<!-- walk: y2v12 ch5 → p.118 -->
 ## y3v1
 
 <!-- walk: y3v1 → start -->

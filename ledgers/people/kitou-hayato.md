@@ -292,6 +292,19 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 [note] (p.69) No line from Kitō is printed on these pages.
 
 <!-- walk: y2v12 ch3 → p.86 -->
+
+### y2v12 p.113–116 — Ch.5: The middle guard who only sacrifices
+[scene] (p.113) He glares silently at Katsuragi and takes his seat; no words are exchanged; the moment the first round ends, he makes a decisive nomination without any hints.
+[says] (p.113) “There’s only one thing to do. Keep moving forward...”
+[scene] (p.113–114) He nominates an honor student every single round regardless of the odds — 14.3%, then 16.7% (hits teacher/graduate, −2), then −1 (down to three lives), then the final −3; he slams the desk with the tablet, open fury.
+[says] (p.114) “...Of course.”
+[scene] (p.114) Katsuragi reads his pattern, identifies Yamawaki as an honor student correctly; Kitō loses his last three lives; the middle-guard match is over in four rounds; he screams at the desktop; Katsuragi tells him to leave the room — he pounds the desk instead; the speakers demand immediate departure.
+[says] (p.114) “Why... Damn it!! Why can you get it right but not me!!”
+[says] (p.116) “...This is my defeat...”
+[rel:katsuragi-kouhei] (p.113–116) He loses to a man who studied both their classes; the margin is not the nomination count, it is the planning gap.
+[rel:sakayanagi-arisu] (p.113) His nomination pattern is her instruction — he volunteers as a high-risk attempt at even one honor-student hit.
+
+<!-- walk: y2v12 ch5 → p.118 -->
 ## y3v1
 
 <!-- walk: y3v1 → start -->
