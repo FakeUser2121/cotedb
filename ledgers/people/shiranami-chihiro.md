@@ -60,25 +60,25 @@ char_id: shiranami-chihiro · class: Class 1-B · status: minor (allies)
 
 ## y2v4.5
 
+<!-- walk: y2v4.5 → start -->
 
 ### y2v4.5 p.10-290 — shiranami-chihiro mentioned in passing
 [scene] (p.10) Named in this volume.
 [note] (p.10) Passing mentions on pages: p.61-62, p.68.
 [mentioned] (p.10) Passing mention only.
 
-<!-- walk: y2v4.5 → start -->
 
 
 
 ## y2v5
 
+<!-- walk: y2v5 → start -->
 
 ### y2v5 p.7-243 — shiranami-chihiro mentioned in passing
 [scene] (p.7) Named in this volume.
 [note] (p.7) Passing mentions on pages: p.136.
 [mentioned] (p.7) Passing mention only.
 
-<!-- walk: y2v5 → start -->
 
 
 

@@ -163,25 +163,25 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 
 ## y2v4.5
 
+<!-- walk: y2v4.5 → start -->
 
 ### y2v4.5 p.10-290 — kitou-hayato mentioned in passing
 [scene] (p.10) Named in this volume.
 [note] (p.10) Passing mentions on pages: p.15-20, p.96-100, p.105-112, p.114-127, p.160.
 [mentioned] (p.10) Passing mention only.
 
-<!-- walk: y2v4.5 → start -->
 
 
 
 ## y2v6
 
+<!-- walk: y2v6 → start -->
 
 ### y2v6 p.11-346 — kitou-hayato mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.22-23, p.44, p.168, p.170-171, p.176-177.
 [mentioned] (p.11) Passing mention only.
 
-<!-- walk: y2v6 → start -->
 
 
 
@@ -189,12 +189,13 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 
 <!-- walk: y2v8 → start -->
 
-### y2v8 pp.11-208 — Full volume
+### y2v8 p.11-208 — kitou-hayato mentioned in passing
+[scene] (p.11) Named in this volume.
+[note] (p.11) Passing mentions on pages: p.46-48, p.50-52, p.55-56, p.65-68, p.80-85.
+[mentioned] (p.11) Passing mention only.
 
-[scene] (p.11) Appears in this volume.
 
 
-<!-- walk: y2v8 Epilogue → p.208 -->
 
 ## y2v9
 

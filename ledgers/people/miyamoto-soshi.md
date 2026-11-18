@@ -88,25 +88,25 @@ char_id: miyamoto-soshi · class: Class 1-D · status: minor
 
 ## y2v4.5
 
+<!-- walk: y2v4.5 → start -->
 
 ### y2v4.5 p.10-290 — miyamoto-soshi mentioned in passing
 [scene] (p.10) Named in this volume.
 [note] (p.10) Passing mentions on pages: p.16-18, p.117-119, p.137, p.160.
 [mentioned] (p.10) Passing mention only.
 
-<!-- walk: y2v4.5 → start -->
 
 
 
 ## y2v5
 
+<!-- walk: y2v5 → start -->
 
 ### y2v5 p.7-243 — miyamoto-soshi mentioned in passing
 [scene] (p.7) Named in this volume.
 [note] (p.7) Passing mentions on pages: p.179.
 [mentioned] (p.7) Passing mention only.
 
-<!-- walk: y2v5 → start -->
 
 
 
@@ -114,12 +114,13 @@ char_id: miyamoto-soshi · class: Class 1-D · status: minor
 
 <!-- walk: y2v8 → start -->
 
-### y2v8 pp.11-208 — Full volume
+### y2v8 p.11-208 — miyamoto-soshi mentioned in passing
+[scene] (p.11) Named in this volume.
+[note] (p.11) Passing mentions on pages: p.162.
+[mentioned] (p.11) Passing mention only.
 
-[scene] (p.11) Appears in this volume.
 
 
-<!-- walk: y2v8 Epilogue → p.208 -->
 
 ## y2v10
 

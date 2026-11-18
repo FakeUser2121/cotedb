@@ -735,13 +735,13 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [rel:nanase-tsubasa] (p.25) Teases Ayanokōji about "dating" her — thinks she's cute.
 ## y2v5
 
+<!-- walk: y2v5 → start -->
 
 ### y2v5 p.7-243 — ishizaki-daichi mentioned in passing
 [scene] (p.7) Named in this volume.
 [note] (p.7) Passing mentions on pages: p.140, p.142-148, p.151, p.155, p.160-161.
 [mentioned] (p.7) Passing mention only.
 
-<!-- walk: y2v5 → start -->
 
 
 
@@ -777,13 +777,13 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [rel:hashimoto-masayoshi] (p.262–265) Hashimoto tries to reason with him; he holds out until the "apology."
 ## y2v7
 
+<!-- walk: y2v7 → start -->
 
 ### y2v7 p.7-207 — ishizaki-daichi mentioned in passing
 [scene] (p.7) Named in this volume.
 [note] (p.7) Passing mentions on pages: p.27-28, p.91, p.96-98, p.189.
 [mentioned] (p.7) Passing mention only.
 
-<!-- walk: y2v7 → start -->
 
 
 
@@ -791,12 +791,13 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y2v8 → start -->
 
-### y2v8 pp.11-208 — Full volume
+### y2v8 p.11-208 — ishizaki-daichi mentioned in passing
+[scene] (p.11) Named in this volume.
+[note] (p.11) Passing mentions on pages: p.63, p.140-141, p.143-144, p.165.
+[mentioned] (p.11) Passing mention only.
 
-[scene] (p.11) Appears in this volume.
 
 
-<!-- walk: y2v8 Epilogue → p.208 -->
 
 ## y2v9
 

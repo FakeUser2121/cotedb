@@ -195,49 +195,49 @@ char_id: wang-mei-yu · status: minor
 
 ## y2v4.5
 
+<!-- walk: y2v4.5 → start -->
 
 ### y2v4.5 p.10-290 — wang-mei-yu mentioned in passing
 [scene] (p.10) Named in this volume.
 [note] (p.10) Passing mentions on pages: p.209.
 [mentioned] (p.10) Passing mention only.
 
-<!-- walk: y2v4.5 → start -->
 
 
 
 ## y2v5
 
+<!-- walk: y2v5 → start -->
 
 ### y2v5 p.7-243 — wang-mei-yu mentioned in passing
 [scene] (p.7) Named in this volume.
 [note] (p.7) Passing mentions on pages: p.22-24, p.54, p.172, p.184, p.207.
 [mentioned] (p.7) Passing mention only.
 
-<!-- walk: y2v5 → start -->
 
 
 
 ## y2v6
 
+<!-- walk: y2v6 → start -->
 
 ### y2v6 p.11-346 — wang-mei-yu mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.27, p.59-60, p.85-87, p.93, p.100-102.
 [mentioned] (p.11) Passing mention only.
 
-<!-- walk: y2v6 → start -->
 
 
 
 ## y2v7
 
+<!-- walk: y2v7 → start -->
 
 ### y2v7 p.7-207 — wang-mei-yu mentioned in passing
 [scene] (p.7) Named in this volume.
 [note] (p.7) Passing mentions on pages: p.12-13, p.15-16, p.18, p.20, p.26-27.
 [mentioned] (p.7) Passing mention only.
 
-<!-- walk: y2v7 → start -->
 
 
 
@@ -245,12 +245,13 @@ char_id: wang-mei-yu · status: minor
 
 <!-- walk: y2v8 → start -->
 
-### y2v8 pp.11-208 — Full volume
+### y2v8 p.11-208 — wang-mei-yu mentioned in passing
+[scene] (p.11) Named in this volume.
+[note] (p.11) Passing mentions on pages: p.16, p.47, p.162.
+[mentioned] (p.11) Passing mention only.
 
-[scene] (p.11) Appears in this volume.
 
 
-<!-- walk: y2v8 Epilogue → p.208 -->
 
 ## y2v9
 

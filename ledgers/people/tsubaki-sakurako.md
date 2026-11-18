@@ -150,25 +150,25 @@ char_id: tsubaki-sakurako · class: Class 1-C · status: unknown
 [rel:ayanokouji-kiyotaka] (p.152–185) Her target; her siege is thwarted.
 ## y2v4.5
 
+<!-- walk: y2v4.5 → start -->
 
 ### y2v4.5 p.10-290 — tsubaki-sakurako mentioned in passing
 [scene] (p.10) Named in this volume.
 [note] (p.10) Passing mentions on pages: p.254-255.
 [mentioned] (p.10) Passing mention only.
 
-<!-- walk: y2v4.5 → start -->
 
 
 
 ## y2v7
 
+<!-- walk: y2v7 → start -->
 
 ### y2v7 p.7-207 — tsubaki-sakurako mentioned in passing
 [scene] (p.7) Named in this volume.
 [note] (p.7) Passing mentions on pages: p.191, p.193, p.195-196, p.198.
 [mentioned] (p.7) Passing mention only.
 
-<!-- walk: y2v7 → start -->
 
 
 

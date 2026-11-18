@@ -31,25 +31,25 @@ char_id: ishigami-kyou · class: unknown · status: unknown
 [rel:ayanokouji-kiyotaka] (p.232–233) Questions why Atsuomi didn't help; his father asks Atsuomi to take him into politics later.
 ## y2v4.5
 
+<!-- walk: y2v4.5 → start -->
 
 ### y2v4.5 p.10-290 — ishigami-kyou mentioned in passing
 [scene] (p.10) Named in this volume.
 [note] (p.10) Passing mentions on pages: p.239-250.
 [mentioned] (p.10) Passing mention only.
 
-<!-- walk: y2v4.5 → start -->
 
 
 
 ## y2v6
 
+<!-- walk: y2v6 → start -->
 
 ### y2v6 p.11-346 — ishigami-kyou mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: none.
 [mentioned] (p.11) Passing mention only.
 
-<!-- walk: y2v6 → start -->
 
 
 
@@ -57,12 +57,13 @@ char_id: ishigami-kyou · class: unknown · status: unknown
 
 <!-- walk: y2v8 → start -->
 
-### y2v8 pp.11-208 — Full volume
+### y2v8 p.11-208 — ishigami-kyou mentioned in passing
+[scene] (p.11) Named in this volume.
+[note] (p.11) Passing mentions on pages: p.180, p.182-185, p.196, p.207.
+[mentioned] (p.11) Passing mention only.
 
-[scene] (p.11) Appears in this volume.
 
 
-<!-- walk: y2v8 Epilogue → p.208 -->
 
 ## y2v9
 

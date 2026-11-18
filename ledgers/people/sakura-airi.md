@@ -1150,25 +1150,25 @@ aliases used for anchors: sakura, airi, sakura-san
 [rel:horikita-suzune] (p.229) Passes her in the corridor; Horikita is speechless.
 ## y2v6
 
+<!-- walk: y2v6 → start -->
 
 ### y2v6 p.11-346 — sakura-airi mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.12, p.18-20, p.22-23, p.27, p.58-59.
 [mentioned] (p.11) Passing mention only.
 
-<!-- walk: y2v6 → start -->
 
 
 
 ## y2v7
 
+<!-- walk: y2v7 → start -->
 
 ### y2v7 p.7-207 — sakura-airi mentioned in passing
 [scene] (p.7) Named in this volume.
 [note] (p.7) Passing mentions on pages: p.6, p.13, p.25, p.102, p.131.
 [mentioned] (p.7) Passing mention only.
 
-<!-- walk: y2v7 → start -->
 
 
 
@@ -1176,12 +1176,13 @@ aliases used for anchors: sakura, airi, sakura-san
 
 <!-- walk: y2v8 → start -->
 
-### y2v8 pp.11-208 — Full volume
+### y2v8 p.11-208 — sakura-airi mentioned in passing
+[scene] (p.11) Named in this volume.
+[note] (p.11) Passing mentions on pages: p.11, p.13-14, p.40.
+[mentioned] (p.11) Passing mention only.
 
-[scene] (p.11) Appears in this volume.
 
 
-<!-- walk: y2v8 Epilogue → p.208 -->
 
 ## y2v9
 

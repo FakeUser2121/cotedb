@@ -27,13 +27,13 @@ char_id: yajima-mariko · class: Class 1-C (enrolled April 2015) · status: mino
 
 ## y2v5
 
+<!-- walk: y2v5 → start -->
 
 ### y2v5 p.7-243 — yajima-mariko mentioned in passing
 [scene] (p.7) Named in this volume.
 [note] (p.7) Passing mentions on pages: p.154-155.
 [mentioned] (p.7) Passing mention only.
 
-<!-- walk: y2v5 → start -->
 
 
 

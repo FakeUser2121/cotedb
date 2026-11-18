@@ -1806,13 +1806,13 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 ## y2v4.5
 
+<!-- walk: y2v4.5 → start -->
 
 ### y2v4.5 p.10-290 — sudou-ken mentioned in passing
 [scene] (p.10) Named in this volume.
 [note] (p.10) Passing mentions on pages: p.33, p.35, p.42, p.109, p.115.
 [mentioned] (p.10) Passing mention only.
 
-<!-- walk: y2v4.5 → start -->
 
 
 
@@ -1870,13 +1870,13 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:horikita-suzune] (p.297) She congratulates him on winning every event.
 ## y2v7
 
+<!-- walk: y2v7 → start -->
 
 ### y2v7 p.7-207 — sudou-ken mentioned in passing
 [scene] (p.7) Named in this volume.
 [note] (p.7) Passing mentions on pages: p.8-9, p.11-13, p.23-25, p.27, p.98-100.
 [mentioned] (p.7) Passing mention only.
 
-<!-- walk: y2v7 → start -->
 
 
 
@@ -1884,12 +1884,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v8 → start -->
 
-### y2v8 pp.11-208 — Full volume
 
-[scene] (p.11) Appears in this volume.
-
-
-<!-- walk: y2v8 Epilogue → p.208 -->
 
 ### y2v8 p.39–42 — Sudō: planning to confess to Horikita
 [says] (p.39) "Sorry for suddenly showing up without calling."

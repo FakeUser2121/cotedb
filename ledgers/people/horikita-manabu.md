@@ -892,49 +892,49 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 
 ## y2v4.5
 
+<!-- walk: y2v4.5 → start -->
 
 ### y2v4.5 p.10-290 — horikita-manabu mentioned in passing
 [scene] (p.10) Named in this volume.
 [note] (p.10) Passing mentions on pages: p.13, p.15, p.36, p.41-43, p.46-47.
 [mentioned] (p.10) Passing mention only.
 
-<!-- walk: y2v4.5 → start -->
 
 
 
 ## y2v5
 
+<!-- walk: y2v5 → start -->
 
 ### y2v5 p.7-243 — horikita-manabu mentioned in passing
 [scene] (p.7) Named in this volume.
 [note] (p.7) Passing mentions on pages: p.11, p.17, p.19-27, p.29-31, p.34.
 [mentioned] (p.7) Passing mention only.
 
-<!-- walk: y2v5 → start -->
 
 
 
 ## y2v6
 
+<!-- walk: y2v6 → start -->
 
 ### y2v6 p.11-346 — horikita-manabu mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.15-25, p.27-30, p.36-37, p.40-52, p.54.
 [mentioned] (p.11) Passing mention only.
 
-<!-- walk: y2v6 → start -->
 
 
 
 ## y2v7
 
+<!-- walk: y2v7 → start -->
 
 ### y2v7 p.7-207 — horikita-manabu mentioned in passing
 [scene] (p.7) Named in this volume.
 [note] (p.7) Passing mentions on pages: p.6, p.8-11, p.13-15, p.17-22, p.27-32.
 [mentioned] (p.7) Passing mention only.
 
-<!-- walk: y2v7 → start -->
 
 
 
@@ -942,12 +942,13 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 
 <!-- walk: y2v8 → start -->
 
-### y2v8 pp.11-208 — Full volume
+### y2v8 p.11-208 — horikita-manabu mentioned in passing
+[scene] (p.11) Named in this volume.
+[note] (p.11) Passing mentions on pages: p.12-14, p.16-18, p.41-42, p.44-45, p.57-58.
+[mentioned] (p.11) Passing mention only.
 
-[scene] (p.11) Appears in this volume.
 
 
-<!-- walk: y2v8 Epilogue → p.208 -->
 
 ## y2v9
 

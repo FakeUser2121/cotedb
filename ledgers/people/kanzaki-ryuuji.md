@@ -599,13 +599,13 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 
 ## y2v4.5
 
+<!-- walk: y2v4.5 → start -->
 
 ### y2v4.5 p.10-290 — kanzaki-ryuuji mentioned in passing
 [scene] (p.10) Named in this volume.
 [note] (p.10) Passing mentions on pages: p.64, p.243-246, p.248-249.
 [mentioned] (p.10) Passing mention only.
 
-<!-- walk: y2v4.5 → start -->
 
 
 
@@ -649,12 +649,21 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 
 <!-- walk: y2v8 → start -->
 
-### y2v8 pp.11-208 — Full volume
+### y2v8 p.180–183 — Kanzaki and Sakayanagi confer about first-year Ishigami
+[scene] (p.180) Sakayanagi's questions about first-year Ishigami stiffen Kanzaki; he admits he went to the same cram school.
+[scene] (p.182) Kanzaki explains Ishigami approaches Ayanokōji-sensei and that he considers him undeniably a genius, coming up with ideas he cannot; he says leave the current Ishigami alone.
+[scene] (p.183) He asks why Sakayanagi is devoted to Ayanokōji and says he has no intention of getting involved with Ishigami.
+[says] (p.182) “He seems to be fascinated with Ayanokōji-sensei.”
+[says] (p.182) “I noticed him as soon as I saw the OAA.”
+[says] (p.182) “I just went to the same cram school as Ishigami.”
+[says] (p.183) “I don't understand what you mean.”
+[says] (p.183) “But why are you so devoted to Ayanokōji?”
+[says] (p.183) “I have no intention of getting involved with Ishigami-kun.”
+[rel:ishigami-kyo-1a] (p.180–183) Same-cram-school acquaintance; Kanzaki admires his ability but refuses to be drawn in.
+[rel:sakayanagi-arisu] (p.180–183) She interrogates him about Ishigami; he stays uninvolved.
+[note] (p.180–183) Ayanokōji overhears this consultation.
 
-[scene] (p.11) Appears in this volume.
-
-
-<!-- walk: y2v8 Epilogue → p.208 -->
+<!-- walk: y2v8 Ch.5 → p.183 -->
 
 ## y2v9
 

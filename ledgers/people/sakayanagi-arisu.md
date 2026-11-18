@@ -1062,13 +1062,13 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:ayanokouji-kiyotaka] (p.333–335) Her rival — she acknowledges she's being used and vows to use him back.
 ## y2v7
 
+<!-- walk: y2v7 → start -->
 
 ### y2v7 p.7-207 — sakayanagi-arisu mentioned in passing
 [scene] (p.7) Named in this volume.
 [note] (p.7) Passing mentions on pages: p.9, p.17-19, p.29, p.42, p.73.
 [mentioned] (p.7) Passing mention only.
 
-<!-- walk: y2v7 → start -->
 
 
 
@@ -1076,12 +1076,24 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v8 → start -->
 
-### y2v8 pp.11-208 — Full volume
+### y2v8 p.180–184 — Sakayanagi and Kanzaki confer on Ishigami; she phones him
+[scene] (p.180) Ayanokōji asks how they know each other; Sakayanagi explains a parental connection through well-known families, then says she wants to know more about Ishigami-kun, the only first-year student at the school with that surname.
+[scene] (p.182) She presses Kanzaki on whether Ishigami is excellent and speculates he enrolled to check Ayanokōji's ability.
+[scene] (p.183) She declares she will ask him directly, dials his number, and puts the call on speaker.
+[scene] (p.184) She and Ishigami speak; he warns her off intervening, says he will leave Ayanokōji alone for now, and that only Ayanokōji-sensei's instruction would change that.
+[says] (p.180) “This story is exactly what's relevant to the reason I called you.”
+[says] (p.180) “You may take it that way.”
+[says] (p.182) “He’s one of the young men who admire your father.”
+[says] (p.182) “Is he excellent?”
+[says] (p.182) “I think that Kanzaki, who’s close to him, knows more about that aspect than I do.”
+[says] (p.183) “Of course, I'll ask him directly.”
+[says] (p.184) “I don't think Ayanokōji-kun will be defeated by someone who isn’t me.”
+[says:ishigami-kyo-1a] (p.184) “In the unlikely event that Ayanokōji-sensei instructs me to eliminate him, I will do so.”
+[rel:ishigami-kyo-1a] (p.180–184) She draws him out by phone before deciding how to deal with him; he warns her off.
+[rel:kanzaki-ryuuji] (p.180–183) She questions Kanzaki about Ishigami; he refuses to get involved.
+[note] (p.180–184) Ayanokōji overhears the consultation and the call in this scene.
 
-[scene] (p.11) Appears in this volume.
-
-
-<!-- walk: y2v8 Epilogue → p.208 -->
+<!-- walk: y2v8 Ch.5 → p.184 -->
 
 ## y2v9
 
