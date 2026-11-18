@@ -9880,7 +9880,7 @@ walk: y1v1 → DONE
 [says:horikita-suzune] (p.50) “A timely topic. I just received a polite email that said, ‘It goes without saying, but I’d be in trouble if you don’t protect me from expulsion.’”
 [says:horikita-suzune] (p.50) “Don’t jump to conclusions. We can’t say for certain that we need to constantly protect him. We’ll think of some countermeasures. I won’t discuss it in detail now, but don’t worry too much.”
 [note] (p.50) Strategy talk moved off-limits for public spaces and phones; Horikita signals Kōenji-protection-countermeasures exist but shares none.
-[rel:maezono] (p.46–49) Challenges Horikita's decisiveness in public; cites the unanimous-vote expulsion; no one backs her; she withdraws when offered the same standard (raise your hand or nothing).
+[rel:maezono] (p.46–49) Challenges Horikita's decisiveness in public; cites the unanimous-vote expulsion; no one backs her; she withdraws when asked to meet the same standard — a raised hand or silence.
 [rel:horikita-suzune] (p.46–50) Takes the leader role after the room fails to produce an alternative; the Kōenji card is her closing move.
 [rel:ike-kanji] (p.47) Speaks for the room against Maezono's softball challenge.
 [rel:sudou-ken] (p.50) Asks the promise question everyone was circling.

@@ -1959,7 +1959,7 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [says] (p.9) “What? You were staring at my face.”
 [says] (p.9) “It’s not that I dislike it, but... Hmm, I want to kiss you again. A lot.”
 [says] (p.10) “Everyone, good morning~”
-[action] (p.9–10) Stuck to him from start to finish except the shoe-changing at the gate; waved and winked ‘see you later’ leaving behind deep affection; went off to greet her friends.
+[action] (p.9–10) Stuck to him from start to finish except the shoe-changing at the gate; waved and winked “see you later” leaving behind deep affection; went off to greet her friends.
 [trait] (p.9) Loves to chat; the daily life with her is at least free from boredom; her favorite lipstick before leaving; her moist lips caught his eye.
 [rel:ayanokouji-kiyotaka] (p.9–11) Arm in arm through the gates and to her friends; the public show he accepts because of Kei.
 

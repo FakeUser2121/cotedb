@@ -147,7 +147,7 @@ char_id: maezono · class: Class 1-D · status: minor
 [says] (p.47) “Calm down. It’s just my personal opinion, but can I mention it?”
 [says] (p.47) “During the unanimous vote special exam, Horikita-san changed her opinion due to the flow of Kushida-san’s expulsion, right? The person who should’ve taken responsibility at that time should’ve been a student who continued to vote against it. But I just have a feeling that she didn’t stick to it where she should have. This time, the leader decides everything, right?”
 [note] (p.47) The rest of her printed speech (choosing who to expel; "Kushida-san is still in the class is a big plus") continues on the same page; quoted in part.
-[scene] (p.48) Presses for alternatives: "recommendations"; meets Horikita's standard (raise your hand or nothing).
+[scene] (p.48) Presses for alternatives: "recommendations"; she is told to meet the same standard — a raised hand or silence.
 [says] (p.48) “Even if no one has come forward, there may still be recommendations. If you ask other people, including myself, they may be able to give you more suitable candidates. Isn’t it worth asking?”
 [says] (p.48) “But—”
 [scene] (p.49) Her line is the formal withdrawal.
