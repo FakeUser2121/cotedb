@@ -800,7 +800,7 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y2v8 Ch.2 → p.89 -->
 
-### y2v8 p.139–144 — All-you-can-eat: crab, ramen logic
+### y2v8 p.139–144 — Crab battle: the buffet at the ryokan
 [scene] (p.139–140) Dinner is a buffet; Ishizaki "yo-yells" Ayanokōji from instinct; invites him and Nishino to join; Albert is already seated.
 [says] (p.140) “Yo, Ayanokōji. Are you planning to eat alone?”
 [says] (p.140) “Well, come eat with me. I asked Nishino earlier too, because she was alone. And you must be lonely eating by yourself, right?”

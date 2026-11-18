@@ -1383,7 +1383,6 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:kanzaki-ryuuji] (p.180–183) She questions Kanzaki about Ishigami; he refuses to get involved.
 [note] (p.180–184) Ayanokōji overhears the consultation and the call in this scene.
 
-<!-- walk: y2v8 Ch.5 → p.184 -->
 
 ### y2v8 p.14, 16, 47–52, 64, 104–105, 148, 158, 168, 180–186, 190, 192, 194 — Passing-mention records
 [mentioned] (p.14) Her class takes 1st again; the gap to Class B is "minute, but it was still there."

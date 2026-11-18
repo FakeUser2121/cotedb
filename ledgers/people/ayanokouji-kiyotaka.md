@@ -9590,7 +9590,7 @@ walk: y1v1 → DONE
 [scene] (p.174) The day winds down: everyone slides the gentle beginners' course one last time together; Ryūen is bored but behaves; souvenir shopping for first-years soaks up the spare hour.
 [scene] (p.175) Message from Sakayanagi; he goes to the lobby at 8 p.m.; she's already waiting; the hall is nearly empty; the last-night talk is about to begin.
 [trait] (p.174–175) The trip is nearly over; the real game resumes in the lobby.
-[note] (p.174–175) From here through p.195 the volume shifts focus to Sakayanagi and Ichinose; see the corresponding ledgers.
+[note] (p.174–175) From here through p.195 the volume shifts focus to Sakayanagi and Ichinose; see the corresponding person entries.
 
 <!-- walk: y2v8 Ch.5 → p.186 -->
 

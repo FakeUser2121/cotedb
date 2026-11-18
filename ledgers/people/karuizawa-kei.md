@@ -1828,7 +1828,7 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 ### y2v8 p.11–45 — Kei: studying, eavesdropping, the bet
 [says] (p.11) "I think I should spend more time studying with you, just like Sudō-kun."
-[note] (p.25) The "It's kind of like a double date" quip is Satō's (corpus p.25: "Saying so, Satō, standing nearby, mumbled this."), misattributed to Kei in an earlier pass; corrected here — the quip lives on Satō's ledger.
+[note] (p.25) The "It's kind of like a double date" quip is Satō's (corpus p.25: "Saying so, Satō, standing nearby, mumbled this."), misattributed to Kei in an earlier pass; corrected here — the quip lives on Satō's entry.
 [says] (p.43) "How did you know?"
 [says] (p.44) "Oh God, please let us be together!" — praying to be in his group
 [says] (p.45) "If I win, I want an expensive Christmas present."
@@ -1866,7 +1866,7 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [says] (p.126) “Hmmm? You seem to be having a lot of fun with her?! You're so rude! Cheater!” (her text)
 [says] (p.127) “Really? Then let's go have fun!” (her text)
 [says] (p.127) “Oh... I see.” (her text)
-[says] (p.127) “[I'm in my room, but I think the three girls are still in the bathtub. I was with them a while ago, but I came back first to call you.]” — brackets are corpus; keep her text unbracketed: “I'm in my room, but I think the three girls are still in the bathtub. I was with them a while ago, but I came back first to call you.”
+[says] (p.127) “I'm in my room, but I think the three girls are still in the bathtub. I was with them a while ago, but I came back first to call you.”
 [trait] (p.126–129) Her "Touwa!" cat-growl name for him leaks through any radio silence in her arsenal; she can pivot from scorned lover to eager girlfriend within seconds; her news network of the girls/behind-the-scenes brain is precise (knows there were three girls, knows they were in the bath, knew she'd be caught between time zones of irritation and pose).
 [rel:ayanokouji-kiyotaka] (p.126–129) He manages her jealousy via texts; he listens patiently; she stays happy as long as she continues to feel in the loop.
 [rel:kushida-kikyou] (p.126) She's the gossip channel closest to the eleventh-group mission.

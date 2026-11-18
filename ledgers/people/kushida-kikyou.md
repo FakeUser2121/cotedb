@@ -1876,7 +1876,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 <!-- walk: y2v8 Ch.3 → p.129 -->
 
 ### y2v8 p.130–139 — Sapporo: the spot-tour debate and the strategy meeting
-[scene] (p.130–132) The bus stops at Sapporo Station; each group gets a pamphlet of 15 spots; the deal: visit six, photograph each; 20+ points = 30,000 private points; fewer than six spots and you lose tomorrow's free day (study session instead); the groups must travel as a unit.
+[scene] (p.130–132) The bus stops at Sapporo Station; each group gets a pamphlet of 15 spots; the deal: visit six, photograph each; 20+ points = 30,000 private points; fewer than six spots and the group loses tomorrow's free day (study session instead); groups must travel as a unit.
 [scene] (p.133–139) The eight of them split: Ryūen wants the points; Kitō wants nothing to do with it; Nishino and Amikura want fun; she bridges both camps; Ayanokōji proposes the majority-vote solution; she covers for his strategy session from Watanabe's jealous sideways glance.
 [says] (p.131) “I'm not surprised. It's very typical of this school to do this...”
 [says] (p.131) “It hurts to know that if I don't do it right, I'll lose a whole day to study sessions. I wonder if the reason they let us have a whole day of free time yesterday without any restrictions had something to do with this tour.”
