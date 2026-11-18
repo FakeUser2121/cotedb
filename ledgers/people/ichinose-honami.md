@@ -1851,6 +1851,31 @@ aliases used for anchors: ichinose, honami, ichinose-san
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
+### y2v9.5 p.13–14 — Ch.2: Texts to check on him
+[scene] (p.13–14) On the morning of the 24th she texts to ask after him and Karuizawa's flu; offers help; asks his plans; jokes that meeting at the gym would seem deliberate; signs off with a sent-back mascot "OK."
+[says] (p.13) "Good morning, Ayanokōji-kun. I heard that Karuizawa-san has the flu. Are you okay?"
+[says] (p.14) "Because it may seem like we're meeting up. Of course, it's just a coincidence!"
+[note] (p.13) Her network is fast: already knows several students across years are ill.
+[rel:ayanokouji-kiyotaka] (p.13–14) Checks on him; he keeps his distance with a joke; she mirrors it breezily.
+
+### y2v9.5 p.18–19 — Ch.2: Side-by-side treadmills
+[scene] (p.18–19) Greets him at the gym, explains she arrived late after talking with a friend; they run 30 minutes side by side without talking; trains another hour; he leaves after she appears with Amikura.
+[says] (p.19) "That might be true. In that sense, starting with Amikura was the right choice."
+[note] (p.18) Christmas Eve is lost on boys; quiet 30-minute silence is her idea of companionable.
+[rel:ayanokouji-kiyotaka] (p.18–19) Works out beside him in near-silence; he's just another training partner to her.
+
+<!-- walk: y2v9.5 Ch.2 → p.19 -->
+
+### y2v9.5 p.37–38 — Ch.3: The morning call about Karuizawa
+[scene] (p.37–38) She calls Ayanokōji in the 9 a.m. hour on the 25th, asks whether he's going to Keyaki Mall for the sale; says school issued a flu advisory; offers to support both him and Karuizawa-san; he promises nothing.
+[says] (p.37) "Good morning. Is it okay if I call you later? Will it bother you?"
+[says] (p.38) "If you ever need help, just let me know. I want to support you and Karuizawa-san."
+[note] (p.38) He cannot figure out what she actually wanted on the call; it ends soon.
+[rel:ayanokouji-kiyotaka] (p.37–38) Reaches out with support; he gives practical answers and no commitment.
+
+<!-- walk: y2v9.5 Ch.3 → p.38 -->
+
+
 
 ### y2v9.5 p.59–65 — Ichinose: the 46-photo memory day at Keyaki Mall
 [scene] (p.59–63) On Christmas she takes photos with everyone at Keyaki Mall — 43 people by one count, eventually 46 — and shyly asks Ayanokōji for a photo together "to make memories," careful that many photos (not just one with a boy) avoid a rift with Kei.
