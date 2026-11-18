@@ -1859,12 +1859,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y2v6 → start -->
 
-### y2v6 pp.11-346 — Full volume
 
-[scene] (p.11) Appears in this volume.
-
-
-<!-- walk: y2v6 Epilogue → p.346 -->
 
 ### y2v6 p.80–89 — Hirata seeks guidance; confesses his guilt over Airi
 [scene] (p.80) Visits Ayanokōji's room after club activities; Kei is already there (he's glad to see her genuine and cheerful).

@@ -749,12 +749,7 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y2v6 → start -->
 
-### y2v6 pp.11-346 — Full volume
 
-[scene] (p.11) Appears in this volume.
-
-
-<!-- walk: y2v6 Epilogue → p.346 -->
 
 ### y2v6 p.226–232 — Ishizaki apologizes; proposes a double birthday party
 [scene] (p.226) Runs into Ayanokōji and Kei at Keyaki Mall while shopping with Albert for Ryūen's birthday (Oct 20); realizes his insensitivity about the rooftop bullying of Kei.

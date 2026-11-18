@@ -443,12 +443,7 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 
 <!-- walk: y2v6 → start -->
 
-### y2v6 pp.11-346 — Full volume
 
-[scene] (p.11) Appears in this volume.
-
-
-<!-- walk: y2v6 Epilogue → p.346 -->
 
 ### y2v6 p.234–237 — Satou: a first-year whispers "you'd have a chance"
 [scene] (p.234) From her own POV, after running off from Ayanokōji and Kei holding arms at the mall, sits by the girls' restroom feeling guilty; an unfamiliar first-year student approaches with an "urgent message."

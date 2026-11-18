@@ -1025,12 +1025,7 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v6 → start -->
 
-### y2v6 pp.11-346 — Full volume
 
-[scene] (p.11) Appears in this volume.
-
-
-<!-- walk: y2v6 Epilogue → p.346 -->
 
 ### y2v6 p.219–222 — Sakayanagi decides to participate
 [says] (p.219) "The situation changes from moment to moment. And today, there has been another new development."

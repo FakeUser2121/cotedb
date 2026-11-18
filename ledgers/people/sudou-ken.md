@@ -1843,12 +1843,7 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v6 → start -->
 
-### y2v6 pp.11-346 — Full volume
 
-[scene] (p.11) Appears in this volume.
-
-
-<!-- walk: y2v6 Epilogue → p.346 -->
 
 ### y2v6 p.90–97 — Sudō: doubles with Onodera; asking Hirata to mediate
 [scene] (p.90) Invites Ayanokōji to the toilet as an excuse to talk about the class's awkward relationships; Onodera intercepts to propose a doubles pairing.

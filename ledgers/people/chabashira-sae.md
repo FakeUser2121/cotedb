@@ -1339,12 +1339,7 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v6 → start -->
 
-### y2v6 pp.11-346 — Full volume
 
-[scene] (p.11) Appears in this volume.
-
-
-<!-- walk: y2v6 Epilogue → p.346 -->
 
 ### y2v6 p.336–338 — Short story: "Something That Can't be Forgiven" — Hoshinomiya notices
 [scene] (p.336) From her own POV, after advising Horikita to decide for herself what to do about Kushida, she heads back to the staff room; Hoshinomiya (Chie) runs up behind her, having overheard the "thanks" at the end.

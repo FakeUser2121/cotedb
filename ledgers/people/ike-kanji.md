@@ -1222,14 +1222,15 @@ aliases used for anchors: ike, kanji, ike-kun
 
 ## y2v6
 
+
+### y2v6 p.11-346 — ike-kanji mentioned in passing
+[scene] (p.11) Named in this volume.
+[note] (p.11) Passing mentions on pages: p.11-12, p.15, p.17, p.19-22, p.24-29.
+[mentioned] (p.11) Passing mention only.
+
 <!-- walk: y2v6 → start -->
 
-### y2v6 pp.11-346 — Full volume
 
-[scene] (p.11) Appears in this volume.
-
-
-<!-- walk: y2v6 Epilogue → p.346 -->
 
 ## y2v7
 

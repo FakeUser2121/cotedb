@@ -970,14 +970,15 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 
 ## y2v6
 
+
+### y2v6 p.11-346 — yukimura-teruhiko mentioned in passing
+[scene] (p.11) Named in this volume.
+[note] (p.11) Passing mentions on pages: p.24, p.181, p.327.
+[mentioned] (p.11) Passing mention only.
+
 <!-- walk: y2v6 → start -->
 
-### y2v6 pp.11-346 — Full volume
 
-[scene] (p.11) Appears in this volume.
-
-
-<!-- walk: y2v6 Epilogue → p.346 -->
 
 ## y2v7
 

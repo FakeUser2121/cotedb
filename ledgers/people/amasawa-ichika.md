@@ -274,12 +274,7 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 
 <!-- walk: y2v6 → start -->
 
-### y2v6 pp.11-346 — Full volume
 
-[scene] (p.11) Appears in this volume.
-
-
-<!-- walk: y2v6 Epilogue → p.346 -->
 
 ### y2v6 p.339–341 — Short story: "The Truth is, I've Always…" — Amasawa checks his room
 [scene] (p.339) From her own POV, enters Ayanokōji's room (while he's sitting out) to check whether it's wiretapped — but her true goal is to see him.
