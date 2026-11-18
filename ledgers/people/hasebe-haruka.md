@@ -578,12 +578,7 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 pp.10-290 — Full volume
 
-[scene] (p.10) Appears in this volume.
-
-
-<!-- walk: y2v4.5 Epilogue → p.290 -->
 
 ### y2v4.5 p.99–113 — Haruka's "Airi remodelling project"; her body image
 [says] (p.99) "I never asked you to do that!"

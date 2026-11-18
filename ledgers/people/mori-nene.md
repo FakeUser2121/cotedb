@@ -28,14 +28,15 @@ char_id: mori-nene · class: Class 1-D · status: minor
 
 ## y2v4.5
 
+
+### y2v4.5 p.10-290 — mori-nene mentioned in passing
+[scene] (p.10) Named in this volume.
+[note] (p.10) Passing mentions on pages: p.30, p.37, p.80, p.167-168, p.220.
+[mentioned] (p.10) Passing mention only.
+
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 pp.10-290 — Full volume
 
-[scene] (p.10) Appears in this volume.
-
-
-<!-- walk: y2v4.5 Epilogue → p.290 -->
 
 ## y2v5
 

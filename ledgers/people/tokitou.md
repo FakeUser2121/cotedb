@@ -11,14 +11,15 @@ char_id: tokitou · class: unknown · status: unknown
 [scene] (p.7) Appears in this volume.
 ## y2v4.5
 
+
+### y2v4.5 p.10-290 — tokitou mentioned in passing
+[scene] (p.10) Named in this volume.
+[note] (p.10) Passing mentions on pages: p.117-127.
+[mentioned] (p.10) Passing mention only.
+
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 pp.10-290 — Full volume
 
-[scene] (p.10) Appears in this volume.
-
-
-<!-- walk: y2v4.5 Epilogue → p.290 -->
 
 
 <!-- walk: y2v5 Epilogue → p.243 -->

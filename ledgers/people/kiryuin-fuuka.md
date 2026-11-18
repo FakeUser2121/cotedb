@@ -55,12 +55,7 @@ char_id: kiryuin-fuuka · class: unknown · status: unknown
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 pp.10-290 — Full volume
 
-[scene] (p.10) Appears in this volume.
-
-
-<!-- walk: y2v4.5 Epilogue → p.290 -->
 
 ### y2v4.5 p.38–45 — Kiryūin at the pool: teasing Ayanokōji and Kiriyama
 [says] (p.38) "Looks like you might be in trouble, Ayanokōji."

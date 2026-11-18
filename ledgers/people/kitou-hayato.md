@@ -163,14 +163,15 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 
 ## y2v4.5
 
+
+### y2v4.5 p.10-290 — kitou-hayato mentioned in passing
+[scene] (p.10) Named in this volume.
+[note] (p.10) Passing mentions on pages: p.15-20, p.96-100, p.105-112, p.114-127, p.160.
+[mentioned] (p.10) Passing mention only.
+
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 pp.10-290 — Full volume
 
-[scene] (p.10) Appears in this volume.
-
-
-<!-- walk: y2v4.5 Epilogue → p.290 -->
 
 ## y2v6
 

@@ -1711,12 +1711,7 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 pp.10-290 — Full volume
 
-[scene] (p.10) Appears in this volume.
-
-
-<!-- walk: y2v4.5 Epilogue → p.290 -->
 
 ### y2v4.5 p.277–278 — Short story: "A Dream I Have Seen Before" — the last secret date
 [scene] (p.277) From her own POV, on the last day of summer vacation, reflects on how happy she is — she can see Kiyotaka face to face every day, and they're going public tomorrow.

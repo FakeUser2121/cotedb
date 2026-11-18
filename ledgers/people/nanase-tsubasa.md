@@ -519,12 +519,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 pp.10-290 — Full volume
 
-[scene] (p.10) Appears in this volume.
-
-
-<!-- walk: y2v4.5 Epilogue → p.290 -->
 
 ### y2v4.5 p.182–191 — Nanase and Ryūen interrogate Kurachi (the cliff attacker)
 [scene] (p.182) Ryūen (investigating who pushed Komiya) stops Nanase during the treasure hunt; she agrees to help question Kurachi Naohiro, the first-year who attacked Ayanokōji on day seven.

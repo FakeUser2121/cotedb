@@ -1262,12 +1262,7 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 pp.10-290 — Full volume
 
-[scene] (p.10) Appears in this volume.
-
-
-<!-- walk: y2v4.5 Epilogue → p.290 -->
 
 ### y2v4.5 p.225–232 — The late-night bar: Chabashira on the next special exam
 [scene] (p.225) After 1 a.m. in the adults-only bar lounge, meets Mashima and Hoshinomiya; admonishes the slumped, complaining Hoshinomiya ("you've had more than enough rest").

@@ -68,14 +68,15 @@ char_id: amikura-mako · class: Class 1-B · status: minor (allies)
 
 ## y2v4.5
 
+
+### y2v4.5 p.10-290 — amikura-mako mentioned in passing
+[scene] (p.10) Named in this volume.
+[note] (p.10) Passing mentions on pages: p.61.
+[mentioned] (p.10) Passing mention only.
+
 <!-- walk: y2v4.5 → start -->
 
-### y2v4.5 pp.10-290 — Full volume
 
-[scene] (p.10) Appears in this volume.
-
-
-<!-- walk: y2v4.5 Epilogue → p.290 -->
 
 ## y2v8
 
