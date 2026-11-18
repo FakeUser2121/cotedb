@@ -51,7 +51,14 @@ char_id: ishigami-kyo-1a · class: Class 1-A · status: first-year honor student
 [scene] (p.196) The postscript notes that the character “Ishigami Kyō” from 1st year Class A has appeared several times in the 2nd year version and that his correct surname is “Ishigami.”
 [mentioned] (p.196) Named only in the translator's note.
 
-<!-- walk: y2v8 Postscript → p.196 -->
+
+### y2v8 p.207 — The credits: Nagumo > Ishigami
+[mentioned] (p.207) BGS003 (Illustration Cleaner): "Nagumo > Ishigami".
+
+### y2v8 p.185 — Passing-mention record
+[mentioned] (p.185) "at least in all my interactions with Ishigami, I had never sensed any danger, and the same went for the current phone call." (Int.: Ayanokōji, after the call ends)
+
+<!-- walk: y2v8 Postscript → p.208 -->
 
 ## y2v9
 

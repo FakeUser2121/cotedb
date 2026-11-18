@@ -35,10 +35,15 @@ char_id: matsuo · role: former butler to Ayanokōji · status: deceased (this v
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.35–38 — Matsuo, the father: did he really die?
+[mentioned] (p.35) Nanase's feelings were "exploited by Tsukishiro in order to avenge the death of Matsuo Eiichirou" — that death is the motive as she was given it.
+[mentioned] (p.37) Ayanokōji asks: did Matsuo really commit suicide? Did his son Eiichirō die? Nanase's account loses credibility if the story was staged; no answer exists on these pages.
+[mentioned] (p.38) Whether this was true or false, it "didn't affect the situation very much" either way, per Ayanokōji.
+[note] (p.37) Both deaths are reported speech, unverified by these pages; kept as recorded, not as fact.
+
+<!-- walk: y2v8 Ch.1 → p.45 -->
+
 ### y2v8 p.11-208 — matsuo mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.35, p.37-38.
 [mentioned] (p.11) Passing mention only.
-
-
-

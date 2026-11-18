@@ -19,6 +19,12 @@ char_id: yano-koharu · class: unknown · status: unknown
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.170–171 — The snowball that hit Yamamura
+[scene] (p.170–171) Class A's Yano spots the moment; she fires at Yamamura and lands the hit square in the head with ice; Yamamura is knocked out of the round; Yano doesn't come back over to gloat — the match goes on.
+[rel:yamamura-miki] (p.170–171) She eliminates her coldly and effectively.
+
+<!-- walk: y2v8 Ch.5 → p.186 -->
+
 ### y2v8 p.11-208 — yano-koharu mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.10-11, p.25, p.28-29, p.31-33, p.35-38.

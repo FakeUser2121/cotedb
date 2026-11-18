@@ -74,6 +74,11 @@ char_id: naoe · class: unknown · status: unknown
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.91 — The breaking news: Dr. Naoe's words quoted
+[mentioned] (p.91) Dr. Naoe — mentor figure quoted by the Prime Minister on news TV: "'Let the man be with you, and the horse with you.' These words were given to me by Dr. Naoe shortly after I met him." The former Secretary-General Naona Ee reportedly died after "a long period of recuperation."
+
+<!-- walk: y2v8 Ch.3 → p.129 -->
+
 ### y2v8 p.11-208 — naoe mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.91.

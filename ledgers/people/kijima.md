@@ -58,6 +58,11 @@ char_id: kijima · class: Class 2-A · status: unknown
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.91 — The breaking news: the Prime Minister speaks
+[mentioned] (p.91) Breaking news mention: "former Secretary-General Naona Ee had passed away... From the Prime Minister's Office, Prime Minister Kijima Onikijima had something to say"; he relays words from "Dr. Naoe" ("Let the man be with you, and the horse with you."); the screen then darkens.
+
+<!-- walk: y2v8 Ch.3 → p.129 -->
+
 ### y2v8 p.11-208 — kijima mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.91.

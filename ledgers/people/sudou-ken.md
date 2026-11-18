@@ -1871,6 +1871,21 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.12–13 — Sudō: 10th place, a new personal best
+[scene] (p.12) Final exam results are announced; the Paper Shuffle comparison looms; lower ranks called before higher.
+[mentioned] (p.13) Sudō is 10th, "a solid score to move into the top group"; he improved his ranking by one and set a personal best; Horikita and Keisei tie for first (93.5).
+[rel:horikita-suzune] (p.13) His growth "is unmistakably attributed to the talent of his educator, Horikita" (Ayanokōji's assessment).
+[rel:chabashira-sae] (p.13) She names him in the top 10.
+
+### y2v8 p.19–20 — Sudō explains the Sun Tzu theme
+[scene] (p.19) Chabashira sets the trip's theme: "If you know the enemy and know yourself, you will not be in danger in a hundred battles." Hondō is lost; Sudō steps in.
+[says] (p.19) “Understand the reality of the opponent you are fighting, and know your… own strength.”
+[says] (p.20) “It's just what the phrase means.”
+[trait] (p.20) No conceit about his knowledge ("Oh, wow, you can understand all that?" / "It's not that amazing."); he explains the proverb before anyone else without showing off.
+[note] (p.19) The Sun Tzu line is Chabashira's, not Sudō's.
+
+<!-- walk: y2v8 Ch.1 → p.45 -->
+
 ### y2v8 p.39–42 — Sudō: planning to confess to Horikita
 [says] (p.39) "Sorry for suddenly showing up without calling."
 [says] (p.41) "I'm going to officially confess to Suzune on the school trip. I'm serious, I"
@@ -1879,6 +1894,55 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:horikita-suzune] (p.41) The girl he loves — he'll confess on the trip ("Suzune").
 [rel:onodera-kayano] (p.40) Ayanokōji notes Onodera has feelings for Sudō — but Sudō still sees her as "a good friend."
 [rel:karuizawa-kei] (p.39) He's awkward about her being there (and about "couples" Ike/Shinohara etc.).
+
+### y2v8 p.118–125 — The bath; the confession; the fall
+[scene] (p.118–119) The bath: effusive cold-water scooping ("Ka! It works!"); Hashimoto crashes the mood with Kōenji's ranch story; both agree there is no sane way to corral Kōenji.
+[says] (p.118) “Ka! It works!”
+[says] (p.120) “I'm... Ready for this, Ayanokōji.”
+[scene] (p.120–121) After the bath he steels himself; he calls Horikita; she answers instantly; he checks with Ayanokōji about confessing quickly; Ayanokōji warns him ("Don't confess right away"); they agree on timing.
+[says] (p.120) “Anyway, yes... I'll try calling her on her cell phone.”
+[says] (p.120) “As one would expect from you, Ayanokōji, you're a good friend to have.”
+[says] (p.120) “...Oh, hey, it's me. Where are you?”
+[says] (p.120) “In the lobby? Okay, just wait there for a minute. I'll be right there.”
+[scene] (p.121–123) He meets her; he asks the wrong first question ("Am I... Changing?"); she helps him talk; he finally blurts it out ("I love you! Please go out with me!"), mustering the masculine full-throated voice; he offers his outstretched right hand; she doesn't take it; he waits.
+[says] (p.121) “Hey, Suzune. Am I... Changing?”
+[says] (p.123) “I love you! Please go out with me!”
+[says] (p.123) “If you'll go out with me, I want you to hold my right hand in return!”
+[scene] (p.124–125) She answers kindly and firmly: she has never been in love; she decided she doesn't want his inducement; she thanks him and takes his trembling hand; the connection is a debt of gratitude, not romance. Sudō absorbs the blow with amazing steadiness — no snapping.
+[says] (p.124) “Well, thanks for...For telling me.”
+[scene] (p.126–128) Standing alone in the corridor; Ayanokōji finds him; Sudō is frustrated but radiant ("It was a stunningly disastrous defeat"); he will not bite back; he sets a goal ("My immediate goal is to get to Hirata's level"); he will still spend time with Onodera fairly.
+[says] (p.127) “I knew I couldn't do it...!”
+[says] (p.128) “She's like a flower that I long for, one I can't reach.”
+[says] (p.128) “My immediate goal is to get to Hirata's level.”
+[rel:horikita-suzune] (p.120–125) He confesses; she declines kindly; he holds his ground; it ends with her hand holding his — friendship earned honestly, romance deferred.
+[rel:ayanokouji-kiyotaka] (p.118–128) Watched from afar; friendship confirmed in the bath and after the fall.
+[rel:onodera-kayano] (p.128) He stays open with her as a friend; the future is undecided.
+[rel:hirata-yousuke] (p.128) His immediate benchmark — the level he means to reach.
+
+<!-- walk: y2v8 Ch.3 → p.129 -->
+
+### y2v8 p.165–174 — The boys' match; his frustration plays out
+[scene] (p.162–164) Watching the snowball fight crowd; 1,000 points; six teams; boys-vs-boys energy; he catches sight of Horikita nearby and tries not to look interested.
+[scene] (p.165) His team vs Ishizaki's team: 14 players; snowballs fly in 10 seconds; six players down; Ishizaki goes quickly; his own frustration at being rejected channels into pinpoint throws; wins on agility.
+[scene] (p.169–174) His teammate role is done; he cheers Horikita's fight with the rest of the crowd; Onodera also seems to be cheering him on, innocently, from a distance.
+[trait] (p.162–174) Everything he does is either aimed at Suzune or filtered through it — basketball, exams, snowball fights; he can't hide it.
+[rel:ishizaki-daichi] (p.165) Beats him clean.
+[rel:horikita-suzune] (p.162–174) He watches her fight with an athlete's appreciation and a broken heart.
+[rel:onodera-kayano] (p.169) "At a distance, Onodera also seemed to be cheering him on in an innocent manner" — he pretends not to notice.
+
+<!-- walk: y2v8 Ch.5 → p.186 -->
+
+### y2v8 p.11, 18, 44–45, 69, 76, 129 — Passing-mention records
+[mentioned] (p.11) “I think I should spend more time studying with you, just like Sudō-kun.” (Kei)
+[mentioned] (p.18) "Sudō and the others, who had been wanting to go to Okinawa, also showed signs of having already accepted the situation."
+[mentioned] (p.44) "About what Sudō said earlier...." (Ayanokōji to Kei, reopening the subject)
+[mentioned] (p.45) "About what Sudō said earlier...." (Kei bets on it; the Christmas-present wager)
+[mentioned] (p.69) "This was definitely true for Sudō; he was determined to confess his feelings to Horikita on the school trip. Was that not an unusual thing to do, or was it an important event for students?"
+[mentioned] (p.76) "Sudō and the others seem like they'd be friendly." (Kushida, testing Horikita in the bath)
+[mentioned] (p.129) "That's what Sudō asked me to do. He asked me to watch over him as he confessed." (Horikita to Ayanokōji)
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ## y2v9
 
 <!-- walk: y2v9 → start -->

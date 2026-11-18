@@ -399,6 +399,24 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.34–38 — Ayanokōji's theory: this was never a real mission
+[mentioned] (p.34–36) Ayanokōji doubts Nanase's story out loud: why did Tsukishiro never tell her what the White Room planned? "He was using his influential position to employ a number of forceful methods" — he never had need of subtle expulsion, so why go through the motions?
+[mentioned] (p.36–38) His hypothesis: Tsukishiro had no intention of expelling him from the start; Nanase was "an aid to me" — assigned to support while watching him; the fight over Matsuo was itself "a way to get me to let my guard down"; Amasawa and Yagami never knew the true purpose either.
+[note] (p.35, 37–38) His theory is labeled a hypothesis even by him ("It's just a theory"); it inverts every assumption about Nanase's recruitment; no confirmation exists on these pages.
+
+<!-- walk: y2v8 Ch.1 → p.45 -->
+
+### y2v8 p.191 — The White Room words surface
+[mentioned] (p.191) Ichinose reveals what she overheard in the Uninhabited Island Exam: "I heard the former acting chairman and Shiba-sensei talking during the Uninhabited Island Exam. There were few parts I could hear clearly, but I heard that he wanted to expel you and the words ‘White Room.’"
+
+<!-- walk: y2v8 Ch.6 → p.195 -->
+
+### y2v8 p.60, 190–191 — Passing-mention records
+[mentioned] (p.60) "He probably faked it based on the information given to him by Tsukishiro, and it was likely he had Yagami pretend to be her junior in order to avoid the risk of learning about his past." (Ayanokōji, surmising Yagami's cover story)
+[mentioned] (p.190) "Sakayanagi's image flashed through my mind. There were some situations where the class leaders were getting to know each other, such as cooperation between classes these days. But I don't think she would easily talk about such things." — wait, that's p.190? no. Tsukishiro's mention on p.190–191 — the actual token: p.190–191: "I heard the former acting chairman and Shiba-sensei talking during the Uninhabited Island Exam." — "Tsukishiro" per se doesn't appear on p.190: the name used is "the former acting chairman" — the connection Tsukishiro-as-former-acting-chairman comes from prior volumes. Do NOT assign identity; keep it as-is: [mentioned] (p.190–191) "I heard the former acting chairman and Shiba-sensei talking during the Uninhabited Island Exam." (identity of "the former acting chairman" not assigned — see coverage notes)
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ### y2v8 p.11-208 — tsukishiro mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.34-36, p.60, p.190.

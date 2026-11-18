@@ -10,6 +10,11 @@ char_id: toudou-rin · class: unknown · status: unknown
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.63 — Passing-mention record
+[mentioned] (p.63) "The gathered members were those who often received instructions from Ryūen, such as Kaneda, Ishizaki, and Chikon Todo." (Ryūen's class trio on the advanced course)
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ### y2v8 p.11-208 — toudou-rin mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.63.

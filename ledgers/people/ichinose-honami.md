@@ -1883,10 +1883,92 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.9–10 — Kanzaki's monologue: why he entered Advanced Nurturing High School
+[mentioned] (p.10) Kanzaki enters the school intending to socialize and help Ichinose as the recognized class leader; "However, in the end, I was not able to do so, and my heart was broken." (Kanzaki's monologue; his account, not her deeds; appears as the volume's front matter.)
+
+<!-- walk: y2v8 Prologue → p.10 -->
+
+### y2v8 p.12–14 — Class D finished third behind Class B
+[back] (p.12–13) Last year's Paper Shuffle recap (Kushida's plans and Ryūen's influence vs Horikita's strategy) frames this year's standardized exam; not present.
+[mentioned] (p.13–14) Chabashira reports Class B surpassed "Ichinose's class" to take second; first Class A, second Class B, third Class D (her class), fourth Class C.
+
+<!-- walk: y2v8 Ch.1 → p.45 -->
+
+### y2v8 p.185–186 — Missing
+[mentioned] (p.185–186) Ichinose is missing; Amikura chases leads; the girl's yukata is still at the inn; no one knows where she is; she was last seen "distressed in the evening" (Amikura's report).
+
+<!-- walk: y2v8 Ch.5 → p.186 -->
+
+### y2v8 p.185–195 — Missing; the hill; the breakdown
+[scene] (p.185–186) Reported missing at 9 p.m.; Amikura leads the search; she's ruled out the bathhouse; Ayanokōji spots her on the hill behind the ryokan.
+[scene] (p.187–188) She's alone on the wooden deck above the inn; she's freezing; she won't come inside; she lied about how long she'd been there (30–40 minutes); the snow stops then starts again.
+[says] (p.187) “Y-yes, coincidence.”
+[says] (p.188) “I think I want to be… By myself for right now.”
+[says] (p.189) “Karuizawa-san would be upset if she knew that you and I were alone in a place like this.”
+[scene] (p.189–191) He sits down; the snow catches them both; she challenges him about why he followed; he stays put; she names what she overheard (the former acting chairman and Shiba-sensei); the words "White Room" surface for the first time this book.
+[says] (p.189) “My affairs are none of your business, are they? Why are you waiting...?”
+[says] (p.190) “Actually, I've been wanting to ask you something for a long time.”
+[says] (p.190) “Have you ever heard of the White Room...?”
+[says] (p.191) “I heard the former acting chairman and Shiba-sensei talking during the Uninhabited Island Exam.”
+[says] (p.191) “But why were the teachers trying to expel you? Are you out of trouble now?”
+[scene] (p.191–193) She draws out; confesses the real weight — her class is falling behind, no tactics left, her lead role is crushing; she wants to be like Sakayanagi/Ryūen/Horikita; tears fall.
+[says] (p.191) “I'm having fun.”
+[says] (p.192) “With my way of doing things, I can't beat any class anymore.”
+[says] (p.192) “Our class is definitely moving farther away from Class A. This is obvious to everyone.”
+[says] (p.192) “If only I could command my classmates like Sakayanagi-san.”
+[says] (p.193) “I'm so frustrated...”
+[says] (p.194) “I'm sorry, Ayanokōji-kun...”
+[says] (p.194) “Many, many things. Crying like this only troubles you.”
+[scene] (p.194–195) Her tears freeze on her face; she breaks; he takes her right shoulder and pulls her into a hug; she doesn't run; she spares everything.
+[says] (p.194) “W-what? Ayanokōji-kun!?”
+[says] (p.195) “I… No. What I wanted is no longer...”
+[rel:ayanokouji-kiyotaka] (p.187–195) He drags her back from the edge; she lets him.
+[rel:karuizawa-kei] (p.189, 191–194) She names her as the obstacle she can't beat — her restraint, her shame, her heart.
+[rel:sakayanagi-arisu] (p.192) She envies the class leader Ryūen-bender — wishes she could be Sakayanagi for an hour.
+
+<!-- walk: y2v8 Ch.6 → p.195 -->
+
+### y2v8 p.204, 207 — The Horikita SS and Ichisamui's credit
+[mentioned] (p.204) "Ichinose-san, who had resolved the fight, was called by Ando-san, from her class, as she was leaving."
+[mentioned] (p.207) Ichisamui (translator, Short Stories): "I told you didn't I? Honami is the one and only queen! You must be pretty salty, do you mind rubbing your hands on my popcorn?"
+
+### y2v8 p.49, 65, 79, 84, 110, 157 — Passing-mention records
+[mentioned] (p.49) "a boy and a girl from Ichinose's class raised their hands." (Watanabe and Amikura, claiming their Group 6 seats)
+[mentioned] (p.65) "Watanabe is a student from Ichinose's class." (Kitō, defending Watanabe to Ayanokōji)
+[mentioned] (p.79) "After we're done talking, why don't we go to Honami's room? They're having a girls' gathering until just before lights out." (the girls discussing her afterparty invitation)
+[mentioned] (p.84) "I wonder if the students in Ichinose's class were fundamentally made up of goodness."
+[mentioned] (p.110) "Just as Ichinose had gradually pooled everyone's private points in trust, Ryūen also needed to work with his classmates to reach the target amount."
+[mentioned] (p.157) "If the students in Ichinose's class were to hear this, they'd be shocked."
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ### y2v8 p.11-208 — ichinose-honami mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.10, p.13-14, p.49, p.65, p.69.
 [mentioned] (p.11) Passing mention only.
+
+### y2v8 p.69–78 — Bathhouse business before bed; the love interrogation
+[mentioned] (p.69) Watanabe leaks heard gossip in the corridor: "Well, now I can understand why Ichinose likes you so much…" (and later, that the girls were talking about Ichinose); Ayanokōji clearly hears him; he corrects himself fast.
+[scene] (p.74) The open-air bath again; she arrives with friends; Kushida's press confers; pins about a boy's room come later. She arrives after Rokkaku leaves. (Horikita's POV; she is the third party.)
+[says] (p.74) “...Sorry to bother you.”
+[says] (p.74) “Ahaha... It just sort of happened.”
+[says] (p.74) “Oh, no! It's not like that at all! Never mind!”
+[says] (p.75) “E-eeeh? What?!”
+[says] (p.75) “N-no, there's no one!”
+[says] (p.76) “No, I don't. Really, I don't have anything like that.”
+[says] (p.76) “Yeah, yeah? Really? I don't know much about love either, so... I just think it's a waste to fall in love while you're still a student.”
+[says] (p.77) “Yes. I hear that most student relationships don't come to fruition.”
+[says] (p.77) “I see... Somehow, I think I understand…”
+[says] (p.77) “Yes. I'd still like to talk to Horikita-san too, if it's possible.”
+[says] (p.78) “You two look a little different from usual, don't you?”
+[says] (p.78) “I think it's time for both of you to get up, don't you? Your faces are turning really red.”
+[says] (p.78) “Is something wrong with you two after all?”
+[trait] (p.74–78) Her friends call her inside; she walks back out anyway to settle Horikita/Kushida; she dodges the love talk the only two ways she knows — flat no and nonsense.
+[rel:kushida-kikyou] (p.74–78) Kushida interrogates her for information about Ayanokōji; she yields nothing.
+[rel:horikita-suzune] (p.74–78) She partners with her to break the Kushida-Kushida staring contest.
+[rel:ayanokouji-kiyotaka] (p.69–78) The man she likes; she refuses every probe about him in the bath.
+
+<!-- walk: y2v8 Ch.2 → p.89 -->
 
 ## y2v9
 

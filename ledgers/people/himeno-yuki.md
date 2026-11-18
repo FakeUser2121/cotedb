@@ -111,6 +111,11 @@ char_id: himeno-yuki · class: Class 2-A · status: unknown
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.194 — Kanzaki and Himeno's quiet move
+[mentioned] (p.194) Ayanokōji's private read on the board: "Although Kanzaki and Himeno were starting to make a move, there won’t be enough time for the growth of their fellow students."
+
+<!-- walk: y2v8 Ch.6 → p.195 -->
+
 ### y2v8 p.11-208 — himeno-yuki mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.194.

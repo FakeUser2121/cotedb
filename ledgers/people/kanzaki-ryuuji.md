@@ -724,6 +724,17 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.9–10 — Kanzaki Ryūji's Monologue: the childhood fight; why he chose to help
+[scene] (p.9) Kanzaki's monologue opens the volume: as a child he watched a group turn on a lying kid over an autograph story; an unseen accomplice then shielded the liar "simply because he was his friend"; an adult (placed his hand on Kanzaki's head) told him the line he still remembers.
+[says] (p.9) “If you don't have the power to help, you can run away or ignore it. But if you have the power and don't use it, you are a fool.”
+[trait] (p.9–10) A deliberately lone child, he chose to socialize when he entered Advanced Nurturing High School, learning to help others "if only a little"; he hoped to support Ichinose, the recognized class leader — "However, in the end, I was not able to do so, and my heart was broken."
+[says] (p.10) “Ayanokōji Kiyotaka's words rescued me from such a situation.”
+[thinks] (p.10) “Ayanokōji... Truly, fate is a mysterious thing.”
+[rel:ichinose-honami] (p.10) He chose the school year intending to support her as class leader; he failed and his heart broke.
+[rel:ayanokouji-kiyotaka] (p.10) Ayanokōji's words saved him after the failure.
+
+<!-- walk: y2v8 Prologue → p.10 -->
+
 ### y2v8 p.180–183 — Kanzaki and Sakayanagi confer about first-year Ishigami
 [scene] (p.180) Sakayanagi's questions about first-year Ishigami stiffen Kanzaki; he admits he went to the same cram school.
 [scene] (p.182) Kanzaki explains Ishigami approaches Ayanokōji-sensei and that he considers him undeniably a genius, coming up with ideas he cannot; he says leave the current Ishigami alone.
@@ -739,6 +750,12 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [note] (p.180–183) Ayanokōji overhears this consultation.
 
 <!-- walk: y2v8 Ch.5 → p.183 -->
+
+### y2v8 p.178, 194 — Passing-mention records
+[mentioned] (p.178) "Thanks for waiting." (Kanzaki's arrival line at the lobby meeting)
+[mentioned] (p.194) "Although Kanzaki and Himeno were starting to make a move, there won’t be enough time for the growth of their fellow students." (narration — the second-year endgame is already in motion)
+
+<!-- walk: y2v8 Postscript → p.208 -->
 
 ## y2v9
 

@@ -424,6 +424,14 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.21, 32, 39, 129 — Passing-mention records
+[mentioned] (p.21) "Especially for Ike, who has only had a girlfriend for a short period of time, it was understandable that he was upset; he might not have the chance to form a group with Shinohara, depending on the details."
+[mentioned] (p.32) "Ike and Shinohara have been doing some pretty remarkable things lately, holding hands and sitting on her boyfriend's lap without being afraid to be seen."
+[mentioned] (p.39) "Today, too, I think she said she was going to karaoke with him as soon as they left from school."
+[mentioned] (p.129) "we couldn’t go everywhere like Ike and Shinohara." (public-couple comparison — Ayanokōji and Kei aren't that visible)
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ### y2v8 p.11-208 — shinohara-satsuki mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.21, p.32, p.39, p.129.

@@ -4623,10 +4623,173 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.12–14, 18 — Final exam results: Horikita and Keisei tie 1st (93.5 avg)
+[scene] (p.12) Chabashira announces the second-semester final exam results; the class holds its breath; last year's Paper Shuffle aftermath is recalled; this year is "purely a competition for class points."
+[trivia] (p.12) Final exam stakes: first place 50 pts, second 25, third −25, fourth −50; expulsion cutoff averages of 39 or less in all subjects; the ranking was a class-based competition.
+[trivia] (p.13–14) Horikita and Keisei tie for 1st with an average of 93.5; Sudō moves into the top 10 (10th, a new personal best); Kei scores about 56; Class A takes 1st place, Class B 2nd (+25 pts), Class D 3rd, Class C 4th; the gap between Class A and Class B was "minute, but it was still there"; Horikita's back at the Hokkaido vote shows no disappointment (p.18); the anonymous 0–37 evaluation task follows the announcement (p.14–17).
+[rel:ishigami-kyou] (p.13) She ties him for first place (93.5) — their usual arrangement.
+[rel:chabashira-sae] (p.12–13) She announces the results; Class B takes second.
+[rel:sudou-ken] (p.13) His rise into the top 10 is Horikita's work as much as his.
+[rel:sakayanagi-arisu] (p.14) Her class takes 1st again.
+
+### y2v8 p.17–18 — The trip vote: Kyoto lost; Hokkaido wins
+[scene] (p.17) The destinations vote results are revealed: Hokkaido, the class's choice, wins (three class votes); Ayanokōji, Horikita and Keisei were among the minority who voted Kyoto.
+[mentioned] (p.17–18) Horikita voted Kyoto; Hokkaido wins anyway; from her back she doesn't appear disappointed; Sudō (Okinawa) "showed signs of having already accepted the situation."
+[rel:ishigami-kyou] (p.17) Keisei also voted Kyoto.
+[rel:sudou-ken] (p.18) He had wanted Okinawa.
+
+### y2v8 p.39–45 — Sudō's confession plan points at her
+[scene] (p.39–42) Sudō visits at night; Ayanokōji learns he will formally confess to Horikita on the school trip — "I want to say, 'please go out with me.'"
+[mentioned] (p.39–45) She is the target of the planned confession; Ayanokōji (and Kei, betting against him) assess her: Kei doubts she is interested in love at all; Ayanokōji suspects she is learning and could step into that stage ("Horikita is also at the stage where she's learning a lot right now" — Ayanokōji's thought, p.45).
+[rel:sudou-ken] (p.39–45) He intends to confess on the trip with Ayanokōji as a witness ("I'm going to offer you my hand, and ask you to watch over me"); her agreement is far from certain.
+[rel:karuizawa-kei] (p.44–45) Kei bets against the confession ("I'll bet on failure... I don't think she's interested in love"); Ayanokōji holds out hope ("I feel like it's possible").
+
+<!-- walk: y2v8 Ch.1 → p.45 -->
+
+### y2v8 p.162–174 — Final morning; the snowball fight; the vow
+[scene] (p.162) She lingers in the public baths; the snowball fight chatter reaches her; she's drawn to it; she seethes at being needed.
+[scene] (p.164) Ibuki challenges her on the spot; they donate 1,000 points each; she changes her mind on the fly; the call-out is a dare.
+[says] (p.164) “It's just a game after all, and I can play with you if you want.”
+[scene] (p.165–174) The third match: her team vs Ayanokōji + Ibuki + Yamamura; she ends alone on the field; her standout throws graze Ibuki, disperse, and hit wet fragments over Ibuki's arm — wins the match on Yōsuke's call; she pretends it's nothing ("tried to act calm") but the loss stings; she gives Ibuki the 1,000 points and the win glows in Ibuki's hands.
+[says] (p.171) “I don't like this one bit, but oh well. I can concentrate on Ibuki-san alone.”
+[says] (p.174) “That's not going to happen.”
+[trait] (p.162–174) She takes the loss honestly and gives Ibuki the win without a grumble — but Ibuki knows just how much that costs.
+[rel:ibuki-mio] (p.162–174) The rival-turned-foil — they settle this exclusively on snow.
+[rel:ayanokouji-kiyotaka] (p.162–171) She reads him through the fight; he lets Ibuki have it.
+[rel:sudou-ken] (p.165) He cheers her on at a distance.
+
+<!-- walk: y2v8 Ch.5 → p.186 -->
+
+### y2v8 p.204–205 — Short Story "Did you enjoy a long bath?" (Horikita POV)
+[scene] (p.204) The bathhouse afterglow; Kushida wraps her in a towel and needles her about the endurance match; Ibuki was there too; neither admits any of it meant anything.
+[says:kushida-kikyou] (p.204) “You're really tough, Horikita-san. Well, if I had persisted in that situation, I would have won.”
+[says:kushida-kikyou] (p.204) “Well, if I had persisted in that situation, I would have won.” — split single.
+[says] (p.204) “That's an illusion. If we had kept going, you'd be the first one to fall, right?”
+[says:kushida-kikyou] (p.204) “Here, Horikita-san. This is cold water.”
+[says] (p.204) “It's rare for you to be so understanding.”
+[says:kushida-kikyou] (p.204) “No, that's not true. I always care about others, don't I?”
+[says] (p.204) “The walls have ears too, so I hope you'll be careful about what you say.”
+[says:kushida-kikyou] (p.204) “And then again, Horikita-san must be very thirsty right now, right? After all that time in the bath.”
+[says] (p.204) “Hydration is another matter, but the bathing endurance race is a draw, right?”
+[says:kushida-kikyou] (p.204) “That's fine. Please, I'll drink after Horikita-san finishes her drink.”
+[says] (p.205) “You're the one who should drink it before you get dehydrated. I'll get my own share.”
+[note] (p.204) The SS recaps the bath race from her side; the translation keeps the "~" trail-offs and straight quotes — kept as printed.
+[rel:kushida-kikyou] (p.204–205) They play at war with towels and hydration; the friendship is real even when they deny it.
+[rel:ibuki-mio] (p.204) Referenced as "possessed by Ibuki-san"; Ibuki has nothing to answer for but victory.
+[rel:ichinose-honami] (p.204) "Ichinose-san, who had resolved the fight, was called by Ando-san, from her class, as she was leaving." — she protects everyone by leaving.
+[rel:andou-sayo] (p.204) Ando-san calls Ichinose out of the bath by name.
+
+### y2v8 p.57–58, 60–61, 69, 93, 110–111, 147–149, 181, 183, 192, 194, 202 — Passing-mention records
+[mentioned] (p.57) "I'm confident in my ability to read a person's aura and understand what others are thinking. This applies to Horikita-san and Ryūen-kun as well." (Kushida to Ayanokōji)
+[mentioned] (p.58) "As soon as Horikita decided to keep you, the line of me expelling you from the school disappeared. If I wanted to keep that possibility open even now, I would’ve told off Horikita." (Ayanokōji to Kushida)
+[mentioned] (p.60) "The only people who went to the same junior high school as me were the Horikita siblings." (Kushida, on her affinity)
+[mentioned] (p.61) "I had been in contact with Nagumo, Ryūen, and Horikita, several people who either knew of or suspected my involvement." (Ayanokōji, chronicling his suspects)
+[mentioned] (p.69) "This was definitely true for Sudō; he was determined to confess his feelings to Horikita on the school trip. Was that not an unusual thing to do, or was it an important event for students?"
+[mentioned] (p.93) "fourth group. She should be with Hondō and Onodera from Horikita's class." (Ayanokōji, piecing together her sighting of Sakayanagi)
+[mentioned] (p.110) "I'm sure that since that time last year, when he and I discussed it, Horikita's class had been able to move so freely that they'd partially forgotten about Ryūen's presence."
+[mentioned] (p.111) "If Horikita and you, along with both classes really clash, and you win and move up to Class A, our side will be the only one to have made fools of ourselves."
+[mentioned] (p.147) "Whenever I have to deal with Suzune's class, I'll use this weapon without mercy." (Ryūen's plan to use Kushida as a weapon on her class)
+[mentioned] (p.148) "That's right. Kushida is now taking a new step forward as Horikita's classmate. I'm not going to let you destroy that with your provocations." (Ayanokōji to Ryūen)
+[mentioned] (p.149) "I'm sure that he'll challenge Horikita's class to a fight with a strategy that I can't even think of."
+[mentioned] (p.181) "If there was a child of Ayanokōji-sensei in Horikita's class, he must have been a powerful card."
+[mentioned] (p.183) "It's my role to bury Horikita's class, including Ayanokōji." (Sakayanagi)
+[mentioned] (p.192) "If only I could command my classmates like Sakayanagi-san. If only I could lead as strongly as Ryūen-kun. If only I could coordinate like Horikita-san."
+[mentioned] (p.194) "Neither Horikita, Ryūen, nor Sakayanagi, who walk in front of the pack, will stand still and allow her to catch up."
+[mentioned] (p.202) "It's okay, it's just a joke after drinking, I'll put a deaf ear to it. Horikita said something unlike a student."
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ### y2v8 p.11-208 — horikita-suzune mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.12-14, p.16-18, p.41-42, p.44-45, p.57-58.
 [mentioned] (p.11) Passing mention only.
+
+### y2v8 p.70–78 — The bathhouse: Kushida, the elegance, the endurance war
+[scene] (p.70) 8:37 p.m.; after dinner she slips to the outdoor bath; she spots Kushida and Rokkaku already there; Kushida waves (not her real intent, Horikita knows); she takes the far edge.
+[says] (p.71) “Why didn't you go out with Rokkaku-san?”
+[says] (p.71) “No, that wasn't what I was thinking.”
+[says] (p.71) “You're coming at me, aren't you?”
+[says] (p.71) “You really have a wide circle of friends. I've never even spoken to Rokkaku-san.”
+[says] (p.72) “What? Why are you coming here?”
+[says] (p.72) “I understand too well that you don't truly want to do that.”
+[says] (p.72) “Of course I do. People can see this place from the inner bath, so I can't do anything bad.” (defending her elegant smile)
+[scene] (p.72–73) Ibuki splashes in without warning; demands a swim race; Horikita refuses; Ibuki exits annoyed rather than risk it.
+[scene] (p.73–74) Kushida touts Horikita's luck (the Ayanokōji seat-draw); Horikita owns her luck without surrendering ground; the two out-last each other in the bath.
+[says] (p.73) “I can't completely deny that.”
+[scene] (p.74–78) Ichinose arrives talking with friends; Kushida pivots to interrogation; Horikita answers for herself in one-word bursts; the three hold the bath past safe tolerance — Ichinose, already called back inside by her friends, returns to order them up; the three part without resolution.
+[says] (p.75) “No.” (refusing any romance — one syllable)
+[says] (p.75) “I don't have anybody like that. But what about you? You seem to be close with boys from other classes. I wonder if Ichinose-san is wondering about that too.” (her attempt to escape the spotlight)
+[says] (p.77) “I guess so.” (settling into the cover-up)
+[says] (p.78) “I don't know anything about love.”
+[says] (p.78) “I don't know what you're talking about.”
+[says] (p.78) “Aren't you the one who... didn't hear Ichinose-san's words?” (returning the favor)
+[rel:kushida-kikyou] (p.70–78) Nemesis-in-charm; both know the game; neither can leave first; the bath is a stalemate with no winner announced.
+[rel:ibuki-mio] (p.72–73) She crash-lands on them; demands a race; is refused; storms out.
+[rel:ichinose-honami] (p.74–78) She draws the arrow away with target-avoidance.
+[rel:rokkaku-momoe] (p.71) The Class A girl Kushida pretends to be chummy with; she leaves early.
+
+<!-- walk: y2v8 Ch.2 → p.89 -->
+
+### y2v8 p.120–125 — The confession on the corridor deck (Ayanokōji's POV)
+[scene] (p.120–121) Sudō works up his nerve in the bath; calls her; she answers on the first ring; both walk back toward the lobby; the corridor leads to the backyard's wooden deck; Ayanokōji follows at a distance and plants himself in the blind spot.
+[scene] (p.121–123) The confession unfolds: Sudō stutters his case; she helps him talk (“Are you still worried about what people think of you?”); he seizes the moment and blurts it out (“I love you! Please go out with me!”); she freezes; the silence stretches.
+[says] (p.122) “What's wrong?”
+[says] (p.122) “Are you still worried about what people think of you?”
+[says] (p.123) “E-eh...?”
+[says] (p.123) “Hey... Is that seriously...?”
+[says] (p.123) “I have never once thought that I would be the one to receive a confession from someone.”
+[says] (p.124) “You're not being fair, Sudō-kun. I have to deduct points for you asking him to observe.” — no wait, p.128–129. Keep in next section.
+[scene] (p.124–125) She answers honestly and quietly: no feelings, never has, "I thought... there might be a chance that I could fall in love with you over time. But... I decided I don't want that kind of inducement."; she thanks him and gently grabs his trembling hand ("I certainly received your feelings. Thank you for liking me.").
+[says] (p.124) “Sudō-kun. Thank you for liking someone like me.”
+[says] (p.124) “I've never been in love with another person before.”
+[says] (p.124) “I certainly received your feelings. Thank you for liking me.”
+[rel:sudou-ken] (p.120–125) She answers kindly and firmly; she doesn't make a fool of him.
+[rel:ayanokouji-kiyotaka] (p.120–125) She knows he's there the whole time; she doesn't look (mostly).
+
+### y2v8 p.126–129 — She catches him watching; tomorrow night it is
+[scene] (p.126–129) After the confession and a corridor near-miss, Horikita waits by the guest room; she accuses him of spectating the confession ("You saw it, didn't you?"); half-points deduction; she corners him about Karuizawa-san ("so it's Karuizawa-san, is it?"); he owes her a talk tomorrow night ("I'll forgive you if you can promise to lend me your ear").
+[says] (p.128) “I was waiting for you.”
+[says] (p.128) “You're mean as well, Ayanokōji-kun. You saw it, didn't you?”
+[says] (p.128) “You're thinking of trying to avoid being seen next time, aren't you?”
+[says] (p.128) “You're not being fair, Sudō-kun.” (calls him Sudō-kun — translation keeps it as printed)
+[says] (p.129) “Yes.” (she came all the way for him)
+[says] (p.129) “I see, so it's Karuizawa-san, is it?”
+[says] (p.129) “Tomorrow night then. I'll forgive you if you can promise to lend me your ear at that time.”
+[note] (p.128) The translation has her call him "Sudō-kun" while addressing Ayanokōji — kept as printed; almost certainly "Ayanokōji-kun" in the original intent, not assignable from these pages.
+[rel:ayanokouji-kiyotaka] (p.126–129) She names his snooping aloud; she wins a promise of tomorrow night's attention; she also flushes Karuizawa as her prime suspect.
+[rel:sudou-ken] (p.128–129) She jokes about deducting points for his observer; she doesn't blame him genuinely.
+[rel:karuizawa-kei] (p.129) She names her as the "different person" applying pressure to him; the Karuizawa-san reading is hers to make aloud.
+
+<!-- walk: y2v8 Ch.3 → p.129 -->
+
+### y2v8 p.150–159 — The appointment; the "Joker" speech
+[scene] (p.150) Waiting against the guest-room wall by the appointment; she arrives; she's angry-wounded; they walk to the big-bath vending machines; she leads him to the second floor when the common area fails.
+[says] (p.150) “Sorry, I'm a little late.”
+[says] (p.151) “There is a vending machine in front of the baths that sells fruit milk. It's delicious.”
+[says] (p.151) “About the cultural festival the other day. I'm sure I didn't get a chance to talk to you about it. It's been nagging at me for a long time, but I couldn't find a good time until today.”
+[says] (p.151) “Do you want to be kicked?”
+[says] (p.151) “I can't believe a boy saw me sleeping. You've just tarnished my reputation.”
+[says] (p.152) “The events that happened that day in the student council room–weren't you involved in those series of events?”
+[says] (p.152) “You knew firsthand that Hōsen was trying to get me expelled, didn't you?”
+[says] (p.152) “Who you are. I can't possibly think of you as a normal student like the rest.”
+[says] (p.153) “Then what do you want to know?”
+[says] (p.153) “Well, if I ask you, will you answer my questions, one at a time? Where are you from? Which elementary and middle schools did you graduate from?”
+[scene] (p.153–159) The second floor: drunk teachers on the massage chairs; Hoshinomiya recognizes her; the Daifugō speech ("the only one with a joker"); Chabashira does damage control; Horikita all but recites her creed; she nicknames him "Mr. Joker".
+[says] (p.155) “Isn't it still before the students' bedtime? Aren't the teachers on duty?”
+[says] (p.156) “It isn't good. What I'm aiming for is Class A. This is merely a checkpoint.”
+[says] (p.156) “Regardless of whether your statement is right or wrong, what are you going to do if the Class D students hear it?”
+[says] (p.158) “Sensei, you seem to be a little concerned about what she said earlier.”
+[says] (p.158) “I don't know whether or not Ayanokōji-kun's a joker, but there's no denying that he's a powerful classmate. However, I'm not going to hold back on that.”
+[says] (p.158) “As long as it's a card that was dealt to the class, I will use it to fight with all my might. The place we're aiming for is Class A, you know.”
+[says] (p.158) “I still have a lot more to ask you, though, don't I? Mr. Joker.”
+[says] (p.159) “You'll answer my questions later. Am I correct in assuming that?”
+[trait] (p.150–159) She's pushing at his walls; he gives her just enough to keep her in orbit — she takes the "joker" line personally and answers it with a vow; the whole scene is her mark on the trip.
+[rel:ayanokouji-kiyotaka] (p.150–159) She corners him; he hands her one piece of the puzzle and promises another; she accepts the terms.
+[rel:chabashira-sae] (p.153–159) She spars with her former homeroom teacher about Class goals.
+[rel:hoshinomiya-chie] (p.155–158) She pricks at her drunk Daifugō monologue; she considers the ramblings rhetorically dangerous only.
+[rel:housen-kazuomi] (p.152) The 20M-point bounty — she's the person it was placed on.
+
+<!-- walk: y2v8 Ch.4 → p.161 -->
 
 ## y2v9
 

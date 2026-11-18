@@ -120,6 +120,20 @@ char_id: onodera-kayano · status: minor
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.40, 93, 128, 169 — Onodera (identity unassigned): Sudō's friend; Group 4
+[mentioned] (p.40–42) The Onodera who keeps asking Sudō to play; she doesn't realize he knows she has feelings for him; Ayanokōji reads her as "cute enough" and compatible on paper; the translation never prints her given name here.
+[mentioned] (p.93) "She should be with Hondō and Onodera from Horikita's class" — Group 4's Class B members; this Onodera is therefore from Class 2-B, like Sudō (Hondō is Class B).
+[mentioned] (p.128) After the confession, Ayanokōji asks Sudō what he'll do about Onodera; Sudō says she is a nice girl they share interests with; he refuses to burn the bridge.
+[mentioned] (p.169) At the snowball fight, "At a distance, Onodera also seemed to be cheering him on in an innocent manner."
+[note] (p.40, 93, 128, 169) The roster carries both `onodera` (class cell: Class 1-D) and `onodera-kayano` for this volume; the pages never print a given name, and the only class marker is p.93's "from Horikita's class" (2-B) — at odds with the `onodera` row's 1-D cell; identity unassigned and flagged for the owner, not decided here.
+
+<!-- walk: y2v8 Ch.1 → p.45 -->
+
+### y2v8 p.93 — Sakayanagi's group: Onodera
+[mentioned] (p.93) Group 4 (Sakayanagi's sightseeing group) includes Onodera from Horikita's class ("She should be with Hondō and Onodera from Horikita's class.") — Class 2-B, like the Onodera Sudō has feelings for.
+
+<!-- walk: y2v8 Ch.3 → p.129 -->
+
 ### y2v8 p.11-208 — onodera-kayano mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.40-42, p.93, p.128, p.169.

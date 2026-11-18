@@ -596,6 +596,18 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [rel:ayanokouji-kiyotaka] (p.32–38) She worried about him on the trip — "I can't believe I'm the one worried about Ayanokōji-senpai."
 [rel:yagami-takuya] (p.32) He was "afraid of fighting" Ayanokōji — explains his rampage.
 [rel:amasawa-ichika] (p.34–37) He brings up Amasawa; she has no new information about her plans for the trip.
+
+### y2v8 p.126 — Chocolate-coated potatoes, site-seeing day
+[mentioned] (p.126) Ayanokōji remembers Nanase asked about chocolate-coated potatoes as a souvenir; he still has no idea what they are; he'll hunt for them on tomorrow's tour or the final free day.
+[rel:ayanokouji-kiyotaka] (p.126) He takes her souvenir wish seriously.
+
+<!-- walk: y2v8 Ch.3 → p.129 -->
+
+### y2v8 p.176 — Passing-mention record
+[mentioned] (p.176) "Including what I felt from Nanase, it remained very unclear whether or not the caller was an enemy." (Ayanokōji, mid-Sakayanagi meeting)
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ## y2v9
 
 <!-- walk: y2v9 → start -->

@@ -108,6 +108,11 @@ char_id: morofuji-rika · class: Class 1-D · status: minor (allies)
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.52 — Group 4's Class C members
+[mentioned] (p.52) "Sakayanagi was in group 4. I recalled the members who were assigned to the group. From Ryūen's class, it was Tokitō Hiroya, and Morofuji Rika."
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ### y2v8 p.11-208 — morofuji-rika mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.52.

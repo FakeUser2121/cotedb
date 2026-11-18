@@ -376,6 +376,11 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.109 — The mobility workaround
+[mentioned] (p.109) "This was mostly compensated for by Kamuro and Hashimoto."
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ### y2v8 p.11-208 — kamuro-masumi mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.109.

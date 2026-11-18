@@ -94,6 +94,66 @@ char_id: amikura-mako · class: Class 1-B · status: minor (allies)
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.46–88 — Group 6: the nervous girl
+[scene] (p.46) Boards on the Class D bus; her name closes group 6.
+[trivia] (p.47) Ayanokōji's private numbering: Amikura = 14.
+[scene] (p.49–50) She waves alongside Watanabe; she and Kushida rejoice visibly at landing in the same group — they took each other's hands and rejoiced at being in the same group; she makes friends easily where Yamamura cannot.
+[scene] (p.78–85) She whispers to the other girls, nervous ("I'm a little nervous thinking about a boy's room."); she nearly intervenes in the Ryūen–Kitō futon feud; she mutters at the pillow fight; she says “This is still… a pillow fight, right?”
+[says] (p.79) “I'm a little nervous thinking about a boy's room.”
+[says] (p.85) “This is still… a pillow fight, right?”
+[scene] (p.88–89) On tomorrow's plan: she concedes skiing because she doesn't want to be the holdout; she swallows her unease and defers to the group.
+[says] (p.88) “We're a group.”
+[trait] (p.46–88) Sweet but easily unsettled; better around girls; she defers to group harmony even at her own discomfort.
+[rel:watanabe-norihito] (p.46, 49) Her Class D groupmate.
+[rel:kushida-kikyou] (p.49–79) They're friendly; Kushida guides her through the trip.
+[rel:nishino-takeko] (p.79) Nishino reins her in at the futon dispute.
+[rel:yamamura-miki] (p.46) Group 6.
+
+<!-- walk: y2v8 Ch.2 → p.89 -->
+
+### y2v8 p.92–104 — The snowman girl; the quiet climb
+[scene] (p.92) The bus runs late; she proposes building a snowman to pass the time; she's the spark for the morning's only wholesome event.
+[says] (p.92) “Hey, hey, since it's a special occasion, why don't we all build a snowman?”
+[scene] (p.97) She's the first to rally the group to browse the shops (most are closed); she walks ahead; she doesn't notice Yamamura's absence.
+[says] (p.97) “Let's all go browse more shops.”
+[scene] (p.103–104) She signs up for the beginner course despite being able to ski normally — she will not leave Yamamura behind; she volunteers to support her openly.
+[says] (p.103) “Oh, that's okay, Kushida-san. I'll do it in the beginner's area.”
+[rel:nishino-takeko] (p.103) They skied the same slow line together.
+[rel:yamamura-miki] (p.103–104) She protects her without making it weird.
+[rel:kushida-kikyou] (p.103–104) They agree without words.
+[rel:watanabe-norihito] (p.92) Snowman co-conspirator.
+
+<!-- walk: y2v8 Ch.3 → p.129 -->
+
+### y2v8 p.130–139 — The tour debate; the silent satirist
+[scene] (p.130–139) She fumbles the map app (typing destinations at random); she funny-looks Ayanokōji after Watanabe's Karuizawa dig; she sidles behind the majority; she wants no fight.
+[says] (p.132) “Hmm. Even if I tried to give a route on a map app, I wouldn't even know where things are, so the order would be messed up.”
+[rel:watanabe-norihito] (p.136) They exchange cowardly-conspicuous glances after the Karuizawa quip.
+[rel:kushida-kikyou] (p.135–139) She defers to Kushida's strategy, barely involved.
+[rel:kitou-hayato] (p.133–139) He chooses the same side; she's relieved.
+
+<!-- walk: y2v8 Ch.4 → p.161 -->
+
+### y2v8 p.162–174, 185–186 — The morning crowd; the missing girl report
+[scene] (p.162–164) She tags along to the fight; she doesn't throw either; she's thrilled by the spectacle.
+[scene] (p.164) She exchanges a look with Watanabe at the boys'-v-boys chaos; they're conspirators in spectate-only mode.
+[scene] (p.185–186) After the fight, she bursts into the lobby: Honami's missing; the group is scouring the inn; she takes the news hard; she asks Ayanokōji to find her.
+[says] (p.185) “Look, the school trip is over already, right? So we decided to get together with everyone in the class and chat until lights out, but we couldn't find Honami, so we were worried.”
+[says] (p.185) “I heard that she looked distressed in the evening... so I was a little worried.”
+[rel:ichinose-honami] (p.185–186) She reports her missing; she pulls everyone into the search.
+[rel:watanabe-norihito] (p.162–164) The fight couple-of-the-mind; they watch together.
+[rel:kushida-kikyou] (p.162–174) She tags along with her.
+
+<!-- walk: y2v8 Ch.5 → p.186 -->
+
+### y2v8 p.108, 114, 187, 200 — Passing-mention records
+[mentioned] (p.108) "I've learned to ski pretty well. I'm still not as good as Amikura and Nishino, though." (Watanabe, rating himself)
+[mentioned] (p.114) "I instructed Kushida, Amikura, and Watanabe not to move." (Ayanokōji, holding the group back during the Gifu incident)
+[mentioned] (p.187) "My bad, it's not really a coincidence. Amikura and the others were making a fuss that they couldn’t find you."
+[mentioned] (p.200) "Kushida-san, Nishino-san, Amikura-san and everyone in the group watched me and saw me as a companion." (Yamamura's SS credit)
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ### y2v8 p.11-208 — amikura-mako mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.46-47, p.49-50, p.67, p.79, p.83.

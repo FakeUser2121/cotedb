@@ -1879,13 +1879,64 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 ### y2v8 p.11–45 — Kei: studying, eavesdropping, the bet
 [says] (p.11) "I think I should spend more time studying with you, just like Sudō-kun."
-[says] (p.25) "It's kind of like a double date, isn't it, Ayanokōji-kun?"
+[note] (p.25) The "It's kind of like a double date" quip is Satō's (corpus p.25: "Saying so, Satō, standing nearby, mumbled this."), misattributed to Kei in an earlier pass; corrected here — the quip lives on Satō's entry.
 [says] (p.43) "How did you know?"
 [says] (p.44) "Oh God, please let us be together!" — praying to be in his group
 [says] (p.45) "If I win, I want an expensive Christmas present."
 [trait] (p.11–45) Wants to study with him "just like Sudō" (unaware her growth doesn't work that way); looks forward to the trip but is upset at the ~5% chance of being in his group ("If I'm not with you, I'll die of loneliness"); eavesdrops on his talk with Sudō (he catches her easily), accepts his motivation to gather class info, and makes a bet on Sudō's confession (Christmas present if she wins).
 [rel:ayanokouji-kiyotaka] (p.11–45) His girlfriend — he wants her to gather intel and enjoy the trip even if they're not grouped.
 [rel:sudou-ken] (p.44–45) She bets he'll be rejected by Horikita; Ayanokōji bets on success.
+
+<!-- walk: y2v8 Ch.1 → p.45 -->
+
+### y2v8 p.46–53 — Haneda on four buses; seating politics
+[scene] (p.46) The trip begins: below-five-degree cold, gloves/coats checked, four buses by class; the group-six list shows her paired with Akito (her group, no contact) — she usually sits with him when forced but not willingly.
+[scene] (p.47–48) At the bus: she navigates the seating crunch — Ayanokōji courts Yōsuke's cooperation; Yōsuke requests the seat next to Ayanokōji only until the airport (to free the aisle, pre-empting a firestorm of seat competition); Kei is compelled to agree.
+[says] (p.48) “It would've been great if Kiyotaka had also been in my group.”
+[says] (p.48) “I guess so….”
+[says] (p.48) “We're super in love. Right?”
+[rel:ayanokouji-kiyotaka] (p.47–48) Their seating arrangement is arranged through Yōsuke's diplomacy; she envies his free pairing.
+[rel:hirata-yousuke] (p.47–48) He resolves the seat tension to protect her; she owes him a debt of gratitude ("very open to Yōsuke, to whom she owed a debt of gratitude").
+[rel:miyake-akito] (p.48) Her group-partner on the trip — "with whom she usually had no contact at all."
+[rel:satou-maya] (p.48) Aisle-mate; feels for Ayanokōji's taste in girls.
+
+<!-- walk: y2v8 Ch.2 → p.89 -->
+
+### y2v8 p.207 — The credits: Kei fanatics
+[mentioned] (p.207) Amadeus's (Senior Editor) credit line: "Dear Kei fanatics... please overlook the NTRing you had to endure. It's clearly just bait, after all. Or is it? Can't wait for the Karuizawa/Ichinose cat fight next volume! Fufu."
+
+
+### y2v8 p.126–129 — The jealousy spiral; the Touwa! call; the eleventh-group report
+[scene] (p.126) In the souvenir corner; his screen lights up: her message wall + a call — "[Touwa!]" (cat-growl); "[Are you mad at me?]"; she checks in on his safety; she's pissed he's being inattentive; he checks in: "I've already confirmed that you're doing a good job of getting information about the eleventh group from Kushida, so I was relieved on my own."
+[scene] (p.127) She's back to sweet when he invites her to meet — then cancels; she says the three girls are still in the bathtub; the scars are behind her now, it seems — she's no longer hiding them; he returns to his room to fetch the key first.
+[scene] (p.128–129) After seeing Sudō; he calls and waits; she waits for him at a private-bath area; she scolds him severely on meeting, then softens at the hug; the evening stays theirs.
+[says] (p.126) “Where are you?” (her text)
+[says] (p.126) “I miss you.” (her text)
+[says] (p.126) “Are you mad at me?” (her text)
+[says] (p.126) “Why don't you at least give me a little attention?” (her text)
+[says] (p.126) “Hmmm? You seem to be having a lot of fun with her?! You're so rude! Cheater!” (her text)
+[says] (p.127) “Really? Then let's go have fun!” (her text)
+[says] (p.127) “Oh... I see.” (her text)
+[says] (p.127) “I'm in my room, but I think the three girls are still in the bathtub. I was with them a while ago, but I came back first to call you.”
+[trait] (p.126–129) Her "Touwa!" cat-growl name for him leaks through any radio silence in her arsenal; she can pivot from scorned lover to eager girlfriend within seconds; her news network of the girls/behind-the-scenes brain is precise (knows there were three girls, knows they were in the bath, knew she'd be caught between time zones of irritation and pose).
+[rel:ayanokouji-kiyotaka] (p.126–129) He manages her jealousy via texts; he listens patiently; she stays happy as long as she continues to feel in the loop.
+[rel:kushida-kikyou] (p.126) She's the gossip channel closest to the eleventh-group mission.
+
+<!-- walk: y2v8 Ch.3 → p.129 -->
+
+### y2v8 p.69, 76, 136, 139, 148, 175, 189, 191, 194 — Passing-mention records
+[mentioned] (p.69) "you're dating Karuizawa, who's in the same class as you, right?" (Watanabe leaks it to him in the corridor)
+[mentioned] (p.76) "she'd be able to talk about Karuizawa or something more in-depth" (Kushida hoping Ichinose would open up about him and her in the bath)
+[mentioned] (p.136) "You're dating Karuizawa, aren't you?" (Watanabe, catching Ayanokōji and Kushida in a huddle)
+[mentioned] (p.139) "Kei was also with many girls today, and I could hear them laughing from time to time even from afar." (buffet crowd)
+[mentioned] (p.148) "Just like when he once fearlessly abducted Kei, or even more so." (Ayanokōji's cold face reminder — Ryūen's smile dies on the spot)
+[mentioned] (p.175) "if Karuizawa-san sees you like this, she'll suspect our relationship" (Sakayanagi, joking about being seen meeting)
+[mentioned] (p.189) "Karuizawa-san would be upset if she knew that you and I were alone in a place like this." (Ichinose)
+[mentioned] (p.191) "But because of what happened with Kei, Ichinose seemed to have pushed the question to the back of her mind."
+[mentioned] (p.194) "Her love for me and the presence of Karuizawa Kei." (narration — the wedge between them)
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ## y2v9
 
 <!-- walk: y2v9 → start -->

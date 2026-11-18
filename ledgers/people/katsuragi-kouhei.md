@@ -926,6 +926,25 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.144–146 — The quarantine table; the betrayal talk
+[scene] (p.144) Katsuragi sits eating silently at a corner table, quarantined by Matoba and Baba; Ayanokōji marks the pattern and decides to make contact.
+[says] (p.145) “I'm eating. What do you want?”
+[says] (p.145) “I don't understand.” (as Ryūen presses him about betrayal)
+[says] (p.146) “I have no regrets. I'm ready to die with the current class.”
+[scene] (p.146) As the trio leaves, he peels off alone to the room — better to vanish before the Kushida–Ryūen collision.
+[trait] (p.144–146) Silent and starved-looking; carries his class's secret like a lit wick; composure intact but unmistakably hollowed from inside.
+[rel:ryuuen-kakeru] (p.144–146) Ryūen tests his loyalty publicly; he refuses to break.
+[rel:matoba-shinji] (p.144) Matoba blocks Oda and Ayanokōji from reaching him — their Class A handler.
+[rel:ayanokouji-kiyotaka] (p.144–146) Ayanokōji notices the quarantine; approaches; Ryūen slides in on the contact.
+
+<!-- walk: y2v8 Ch.4 → p.161 -->
+
+### y2v8 p.105–112 — The pull-out candidate
+[mentioned] (p.105) "the only personnel we needed from Class A was Katsuragi. Kitō and Hashimoto are good enough as small fries, but not good enough to be our pawns."
+[mentioned] (p.112) "Up till this point, we've spent money on pulling out Katsuragi and using the first-year brats, but now it's the time to recoup it."
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ### y2v8 p.11-208 — katsuragi-kouhei mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.105, p.112, p.144-146.

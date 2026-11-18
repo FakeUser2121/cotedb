@@ -129,6 +129,20 @@ char_id: onodera · class: Class 1-D · status: minor
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.40, 93, 128, 169 — Onodera (identity unassigned)
+[mentioned] (p.40–42) The girl Sudō has feelings he won't admit to; she keeps inviting him to play; Ayanokōji notes she doesn't realize he knows; given name not printed this volume.
+[mentioned] (p.93) Listed with Hondō as Group 4's Class B members ("from Horikita's class").
+[mentioned] (p.128) Sudō on Onodera after the confession: she is nice, they share interests, "Whatever will be, will be."
+[mentioned] (p.169) She cheers Sudō on at the snowball fight from a distance.
+[note] (p.40, 93, 128, 169) See onodera-kayano; the corpus never prints her given name this volume, the only class marker is p.93's "from Horikita's class" (2-B), which sits at odds with this row's 1-D class cell; identity unassigned — both rows left flagged, not assigned.
+
+<!-- walk: y2v8 Ch.1 → p.45 -->
+
+### y2v8 p.93 — Sakayanagi's group: Onodera
+[mentioned] (p.93) Group 4 (Sakayanagi's sightseeing group) includes Onodera from Horikita's class — Class 2-B; the only Onodera this volume names; given name still not printed.
+
+<!-- walk: y2v8 Ch.3 → p.129 -->
+
 ### y2v8 p.11-208 — onodera mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.40-42, p.93, p.128, p.169.

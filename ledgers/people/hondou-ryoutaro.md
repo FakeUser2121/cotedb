@@ -147,6 +147,27 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.13, 15, 18 — Last place at 53; the random-pair mutter; the special-exam fear
+[scene] (p.13) The lowest-ranked student is called: Hondō, with an average of 53 — he doesn't fail, but places last, probably for the first time.
+[says] (p.13) “But I got 53 points, so that's not so bad, right?”
+[says] (p.15) “Seriously, there are a lot of girls I've never spoken to, and I have no idea about their OAA or anything like that, so it's going to be random, is that okay…?”
+[scene] (p.15) Asked to rank every second-year student 1–37 with no data but memory and feelings, he mutters about never having spoken to half the girls in his class.
+[says] (p.18) “You don't think there would be any special exams, do you...?”
+[rel:chabashira-sae] (p.13, 18) She gives him the lowest rank; at his special-exam fear she laughs a little, and "a sigh of relief escaped from the entire class" at her clear statement.
+[note] (p.13) "Hondō's joy must've been bittersweet, considering he didn't fail but was still at the bottom of the class" (narrator).
+
+<!-- walk: y2v8 Ch.1 → p.45 -->
+
+### y2v8 p.93 — Sakayanagi's group: Hondō from Horikita's class
+[mentioned] (p.93) Ayanokōji infers Sakayanagi is sightseeing with Hondō and Onodera from Horikita's class — Group 4 (if the one-boy-one-girl-per-class reading is right, Hondō + Onodera fill the Class B slots).
+
+<!-- walk: y2v8 Ch.3 → p.129 -->
+
+### y2v8 p.19 — Passing-mention record
+[mentioned] (p.19) "Hondō tilted his head, unable to understand the famous quote from Sun Tzu's The Art of War."
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ### y2v8 p.11-208 — hondou-ryoutaro mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.13, p.15, p.18-19, p.93.

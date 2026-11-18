@@ -1320,6 +1320,80 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.14 — Class A first again
+[mentioned] (p.14) Her class takes 1st place; even the lower-ranked students in Class A performed well, and Class B failed to take first again; the gap between the classes "was minute, but it was still there."
+
+<!-- walk: y2v8 Ch.1 → p.45 -->
+
+### y2v8 p.93–95, 108–114 — The slip; Ryūen's all-out war
+[scene] (p.93) It's snowing; she speaks from the fourth-group cluster (Hondō and Onodera from Horikita's class); her voice is familiar; she's probably headed for the sightseeing spots while others ski.
+[says] (p.93) “It's snowing all over, isn't it?”
+[scene] (p.94) Walking with her cane on the unfamiliar snow she slips and goes down; Tokitō (Class C, same group) rushes up; he extends his hand; she takes it (shyly); he picks her up carefully and slowly; he board-checks her "you have a bad leg" question.
+[says] (p.94) “Thank you, Tokitō-kun.”
+[says] (p.94) “I'm sorry. Fortunately the snow was soft and it didn't hurt.”
+[says] (p.94) “Thank you for your help.”
+[says] (p.94) “I thought Tokitō-kun was a much scarier person.”
+[says] (p.94) “Because you usually seem to walk with a scary look plastered on your face when we pass each other in the hallway.”
+[says] (p.94) “Because we are both second-year students. I know Tokitō-kun very well.”
+[scene] (p.95) She boards the city-center bus slowly; he lets her board first; she walks off with her cane to the sightseeing loops; Ryūen tracks her departure with great interest from afar.
+[mentioned] (p.108–114) Ayanokōji relays Ryūen's all-out-war declaration: "Sakayanagi seems to know that very well" — the trip is a reconnaissance battle; she uses her minions to gather information; Kamuro and Hashimoto cover her limited mobility; Ryūen means to crush her by any means necessary in the end-of-year exam.
+[rel:tokitou-hiroya] (p.94–95) Their meeting ends with her boarding first and a small shift in how Tokitō sees her.
+[rel:kitou-hayato] (p.113–114) Her "loyal dog" gets called out at the food court; he defends her honor without hesitation.
+[rel:ryuuen-kakeru] (p.108–114) He declares war on her in public terms; he plans to rip off their limbs (her information network's enablers) before the exam.
+[rel:kamuro-masumi] (p.108–109) Ayanokōji notes Kamuro and Hashimoto help compensate her limited mobility — the info pipeline she depends on.
+
+<!-- walk: y2v8 Ch.3 → p.129 -->
+
+### y2v8 p.175–186 — The final-night meeting: the Ishigami revelation
+[scene] (p.175) He finds her at a corner chair in the lobby at 8 p.m.; the last night; very few students about; they talk about his enjoyed trip; she needles him about Yamamura and Kitō.
+[scene] (p.175–176) She validates her grouping analysis: she suspected bias in the assignment (high/low/middle), and she doesn't hate him for it; the final exam discussion: she's calm and certain she'll beat Ryūen; his own confidence rattles her briefly; she sets up the Kanzaki meeting.
+[scene] (p.176–178) He warns her her plan will be noticed; she brushes it aside; the visitor arrives — Kanzaki.
+[scene] (p.178–180) She and Kanzaki are older acquaintances; the parental-connection framing; she asks about Ishigami's ability; Kanzaki concedes the genius; the only student with that surname in the year.
+[scene] (p.180–184) The Ishigami facts surface: he'd contacted Ayanokōji twice earlier, indirectly helped on Yagami's expulsion at the cultural festival; he calls Ayanokōji Senior "Ayanokōji-sensei"; chose the school on his recommendation; he spent less than a minute on the phone with Sakayanagi and revealed he knew all about it in advance.
+[scene] (p.184–185) She ends the call; she decides to hold off involving herself; the Ichinose crisis interrupts — she lets him go with a line about Ichinose being "still indispensable to you"; he leaves the ryokan to search for Ichinose.
+[says] (p.175) “It was short, but did you enjoy the school trip?”
+[says] (p.175) “Are you done with small talk? Are you in a hurry by any chance? If Karuizawa-san sees you like this, she'll suspect our relationship.”
+[says] (p.175) “I see. I'm not particularly surprised, since you're Ayanokōji-kun. You have a voracious appetite for absorbing knowledge.”
+[says] (p.176) “I don't see any of my classmates as special. I see them all as equals.”
+[says] (p.177) “How did you feel about this grouping?”
+[says] (p.177) “I agree. The students who ranked the highest and the students who ranked the lowest. And the middle group who were not in either of those groups.”
+[says] (p.177) “In that vein, I'd like to ask you something as well.”
+[says] (p.177) “What do you think about the final exams?”
+[says] (p.177) “I really enjoy talking with you. We always harbor the same thoughts. I'm sure the end-of-year exams will be even tougher than last year.”
+[says] (p.177) “Do you think I would lose in a direct confrontation with Ryūen-kun? It's a foregone conclusion that I will beat him.”
+[says] (p.177) “He certainly has some interesting ideas. There's a term called giant-killing, and he seems to have the power to hunt big game at times. However, that will not happen in a confrontation with me.”
+[says] (p.178) “For you, no matter how things unfold between Ryūen-kun and I, there won't be any obstruction to your plan will there?”
+[says] (p.178) “But Ayanokōji-kun, the future doesn't always turn out the way you want it to.”
+[says] (p.178) “Let's continue with our idle chit-chat until they arrive.”
+[says] (p.178) “The first thing to do is to gather the people we need to get started. I'm going to start right away, so can you please come this way, Kanzaki-kun?”
+[says] (p.178) “First of all, Ayanokōji-kun. What do you make of the combination of Kanzaki-kun and I?”
+[says] (p.178) “Please tell me your frank impression.”
+[says] (p.179) “How many years has it been since I have spoken with you like this?” — no wait, Kanzaki's line. Skip.
+[says] (p.180) “Kanzaki-kun's father is the head of a company called Kanzaki Engineers.”
+[says] (p.180) “I was hoping you could tell me more about Ishigami-kun, who's enrolled in our school.”
+[says] (p.182) “The very student Ishigami was the one who approached us, it seemed.”
+[says] (p.182) “I think that Kanzaki, who's close to him, knows more about that aspect than I do.”
+[says] (p.182) “Ishigami is testing Ayanokōji's ability...? You can't deny it?”
+[says] (p.183) “I just genuinely want to have fun,”
+[says] (p.183) “It's my role to bury Horikita's class, including Ayanokōji. It's frustrating when someone suddenly appears and has taken your purpose away from you, isn't it?”
+[says] (p.183) “Thank you very much, Kanzaki-kun. From here on out, I think Ayanokōji-kun and I will work out a plan to deal with Ishigami-kun together.”
+[says] (p.183) “Of course, I'll ask him directly. That would be the fastest way, right?”
+[says] (p.184) “Let's just say it's as good as it gets. I've heard rumors about you from inside and outside.”
+[says] (p.184) “I hoped to avoid contact. You don't need to get involved with me either, do you?”
+[says] (p.184) “If so, what are you going to do about it?”
+[says] (p.184) “I don't think Ayanokōji-kun will be defeated by someone who isn't me, but I don't like the idea of him being yanked aside by someone else. If you're going to intervene, I may have no choice but to stop you.”
+[says] (p.184) “For now, huh? That's a worrisome implication, isn't it?”
+[says] (p.184) “You've increased your loyalty a lot without realizing it, haven't you?”
+[says] (p.184) “I'll let you know if I feel like it. I'll greet you at school next time.”
+[says] (p.185) “I see. If you make that choice, I will respect it.”
+[rel:kanzaki-ryuuji] (p.178–183) Meets him on the Ishigami question; he refuses to get involved.
+[rel:ishigami-kyo-1a] (p.180–185) She dials him on speaker; he reads her move in advance; she hears the loyalty question; she ends the call unilaterally.
+[rel:ayanokouji-kiyotaka] (p.175–186) She reveals Ishigami; she positions herself as a keeper.
+[rel:ichinose-honami] (p.186) She releases him to go find Ichinose: "Her presence is probably still indispensable to you for now."
+[rel:karuizawa-kei] (p.175) She jokes about his being seen meeting her — "If Karuizawa-san sees you like this..."
+
+<!-- walk: y2v8 Ch.5 → p.186 -->
+
 ### y2v8 p.180–184 — Sakayanagi and Kanzaki confer on Ishigami; she phones him
 [scene] (p.180) Ayanokōji asks how they know each other; Sakayanagi explains a parental connection through well-known families, then says she wants to know more about Ishigami-kun, the only first-year student at the school with that surname.
 [scene] (p.182) She presses Kanzaki on whether Ishigami is excellent and speculates he enrolled to check Ayanokōji's ability.
@@ -1337,7 +1411,25 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:kanzaki-ryuuji] (p.180–183) She questions Kanzaki about Ishigami; he refuses to get involved.
 [note] (p.180–184) Ayanokōji overhears the consultation and the call in this scene.
 
-<!-- walk: y2v8 Ch.5 → p.184 -->
+
+### y2v8 p.14, 16, 47–52, 64, 104–105, 148, 158, 168, 180–186, 190, 192, 194 — Passing-mention records
+[mentioned] (p.14) Her class takes 1st again; the gap to Class B is "minute, but it was still there."
+[mentioned] (p.16) "It would be fine to base all decisions on simple likes and dislikes as a person... the safest thing to do would be to consider the current overall ability value from my point of view... it was set in stone that Sakayanagi will place as number one in Class A."
+[mentioned] (p.47) "Especially for Ryūen, as there were many students who disliked him... Would Kitō in particular, who supported Sakayanagi, give Ryūen a high number?"
+[mentioned] (p.51) "The battle between me and Sakayanagi has already begun." (Ryūen, unprompted, to Ayanokōji on the bus)
+[mentioned] (p.52) "Sakayanagi was in group 4. I recalled the members who were assigned to the group. From Ryūen's class, it was Tokitō Hiroya, and Morofuji Rika."
+[mentioned] (p.64) "Sakayanagi-san, right. But I don't think she has any connection with Yamamura." (Kushida, in the advanced ski resort)
+[mentioned] (p.104) "It's a rare chance. Kitō seems to have gained some trust from Sakayanagi. I thought you might be thinking of using this as an opportunity to get into their pocket."
+[mentioned] (p.105) "The lift arrived and we got off at the advanced course. Kitō, who was waiting ahead of us, called Ryūen to the starting point with a glance."
+[mentioned] (p.148) "But if you do that, you won’t be able to achieve your goal of fighting Sakayanagi in the final exams." (Ayanokōji to Ryūen)
+[mentioned] (p.158) "Class A, led by Sakayanagi, also has an abundance of solid cards available."
+[mentioned] (p.168) "I was wondering how someone feels seeing a competent Class A leader from the perspective of their peers." + "I've hardly ever talked to Sakayanagi-san." + "Kitō is also very close to Sakayanagi." (Yamamura)
+[mentioned] (p.186) "I bid Sakayanagi farewell and left the lobby."
+[mentioned] (p.190) "For a moment, Sakayanagi's image flashed through my mind." (Ichinose is asking about the White Room; his first association is Sakayanagi)
+[mentioned] (p.192) "If only I could command my classmates like Sakayanagi-san." (Ichinose)
+[mentioned] (p.194) "Neither Horikita, Ryūen, nor Sakayanagi, who walk in front of the pack, will stand still and allow her to catch up."
+
+<!-- walk: y2v8 Postscript → p.208 -->
 
 ## y2v9
 

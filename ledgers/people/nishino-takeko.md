@@ -112,6 +112,66 @@ char_id: nishino-takeko · class: Class 1-C · status: minor
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.46–88 — Group 6: the quiet defender
+[scene] (p.46) Boards on the Class C bus; her name (with Ryūen) anchors group 6.
+[trivia] (p.47) Ayanokōji's private numbering: Nishino = 18 (lower-middle; Yamamura 14, Watanabe 18).
+[scene] (p.49–51) Kushida calls out to her; she arrives awkwardly ("Nishino looked a little awkward, as if she hadn't had much interaction with Kushida or Amikura"); she holds her own silent distance behind Ryūen.
+[scene] (p.79–81) She opens the shoji with vigor; she is "neither frightened nor timid" with Ryūen; she pulls Amikura's sleeve to stop her interrupting the futon argument.
+[scene] (p.81) She bluntly addresses Ryūen across the room ("Don't just say things that annoy me, get your ass over here.") — neither frightened nor timid about him.
+[says] (p.81) “Don't just say things that annoy me, get your ass over here.”
+[says] (p.81) “I've always been like this. I just didn't get more involved than necessary until now.”
+[says] (p.87) “You know, we don't have time for this.”
+[says] (p.87) “It's annoying.”
+[trait] (p.79–88) First to object to the boys' futon nonsense and the pillow fight; protective at a distance; keeps her boundaries intact, especially with strangers.
+[rel:ryuuen-kakeru] (p.49–88) She keeps a civil but wary distance without fear.
+[rel:amikura-mako] (p.79–88) She reins her in, softly.
+[rel:kushida-kikyou] (p.79–88) She props up Kushida's authority at the futon dispute.
+[rel:yamamura-miki] (p.46) Group 6.
+[rel:kitou-hayato] (p.46) Group 6.
+
+<!-- walk: y2v8 Ch.2 → p.89 -->
+
+### y2v8 p.92–117 — Snowman, wandering, the Gifu ambush
+[scene] (p.92–93) She joins the snowman without protest (easier than expected); she exhales into her gloves.
+[scene] (p.97–98) She wanders the closed shops with Watanabe; neither shops, both watch the crowd.
+[scene] (p.103–104) She takes the beginner course with Yamamura; she won't admit she can't handle the advanced hill.
+[scene] (p.114–117) She's grabbed by a boy from Gifu; she slaps him across the face; Ryūen and Kitō rescue the pair and wreck his mates; she and Yamamura shelter together.
+[says] (p.115) “Huh? I'm not interested. Who would play with you guys?”
+[rel:yamamura-miki] (p.114–117) She shields her in the ambush — grabs her shoulders to keep her away from the boys.
+[rel:kitou-hayato] (p.114–117) He fights for her and Yamamura without being asked; she measures him with flat eyes.
+[rel:ryuuen-kakeru] (p.114–117) He saves her; she hasn't forgiven him anything; she hasn't forgiven anyone either.
+[rel:amikura-mako] (p.92) Snowman partner.
+
+<!-- walk: y2v8 Ch.3 → p.129 -->
+
+### y2v8 p.130–144 — The Sapporo sightseeing debate; table chatter
+[scene] (p.133–139) She holds for sightseeing; she barks at Ryūen's starvation pitch; she calls his obstruction out; she laughs with Amikura/Watanabe when the matter resolves; she and Amikura stay for the leisure drive.
+[scene] (p.139–144) Ishizaki drags her to the crab table; she eats Japanese food in pointed silence; she needles Ishizaki for crusty manners; her brother's own drop-out story leaks out.
+[says] (p.135) “It's easy to give him a hard time, but there's no way he'll change his mind. I won't do anything unnecessary.”
+[says] (p.140) “I wanted to turn him down, but he was insistent.”
+[says] (p.141) “You're so annoying. Don't let scraps of food fly. They're so dirty.”
+[says] (p.143) “The details don't matter. I was looking forward to the buffet, you know.”
+[says] (p.143) “Why don't you take the other students into consideration? Crab is one of the signature dishes.”
+[says] (p.144) “Well, when he's serious, he does seem menacing. My idiot brother was also a delinquent, so maybe I have built a tolerance.”
+[says] (p.144) “A local construction company picked him up, and he's working hard every day at their site. He's getting paid a low salary, though.”
+[rel:ishizaki-daichi] (p.139–144) She sits where he points; she fights back verbally like it's muscle memory.
+[rel:ryuuen-kakeru] (p.133–139) She covers for Ryūen's mania with flat practicality.
+[rel:yamada-albert] (p.143) She matches his tempo if somewhat worse.
+
+<!-- walk: y2v8 Ch.4 → p.161 -->
+
+### y2v8 p.162–174 — The snowball fight crowd
+[scene] (p.162–164) She attends with Kushida; declines to throw; she's the event's quiet interpreter for Yamamura.
+[rel:yamamura-miki] (p.162–174) She shelters her shadow friend for a day.
+[rel:kushida-kikyou] (p.162–174) She walks with her; it's the only comfortable place.
+
+<!-- walk: y2v8 Ch.5 → p.186 -->
+
+### y2v8 p.200 — Passing-mention record
+[mentioned] (p.200) "But Kushida-san, Nishino-san, Amikura-san and everyone in the group watched me and saw me as a companion." (Yamamura's SS, on her group)
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ### y2v8 p.11-208 — nishino-takeko mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.46-47, p.50, p.55, p.79-81, p.83.

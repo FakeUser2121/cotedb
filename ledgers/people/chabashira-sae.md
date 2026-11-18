@@ -1490,6 +1490,73 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.12–16 — Final exam results; the anonymous 0–37 evaluation task
+[scene] (p.12) Final exam results are announced in homeroom; she knows this time last year was the Paper Shuffle; the rules were standardized this year; first place gains 50 Class Points, fourth loses 50; cutoff averages of 39 or less in all subjects mean expulsion.
+[says] (p.13) “Regarding this year's final exam results, I'll start with the lowest-ranked student.”
+[scene] (p.13) She calls Hondō last (53), then moves up the ranks; top 10: Sudō; finally Horikita and Keisei (93.5); announces Class A 1st, Class B 2nd (+25 pts).
+[scene] (p.14–17) She then unveils the anonymous evaluation task: each student numbers every second-year classmate 0–37 except themselves, on memory and feelings alone — no OAA, no internet, no speaking; the teachers will never see the lists; one hour; groups for the trip will be built from it.
+[says] (p.14) “But there's one thing I want you to do before we discuss it.”
+[says] (p.15) “The numbers you're about to assign represent how you evaluate your fellow classmates from your point of view.”
+[says] (p.15) “You have one hour to finish. If you fail to finish within the time limit, you will not receive the full explanation for the school trip.”
+[says:hondou-ryoutaro] (p.15) “Seriously, there are a lot of girls I've never spoken to, and I have no idea about their OAA or anything like that, so it's going to be random, is that okay…?”
+[trait] (p.13–17) She deliberately agitates the students ("It seemed as though she was trying to agitate the students") while calling results from the bottom up; she fields the trip-briefing questions with mild teasing; she allowed the whole school trip to hinge on this one hour.
+[rel:horikita-suzune] (p.12–14) She announces Horikita's tie for first.
+[rel:hondou-ryoutaro] (p.13) She gives him the lowest rank.
+[rel:sudou-ken] (p.13) She names him 10th.
+
+### y2v8 p.17–24 — Hokkaido wins; the trip's rules and purpose
+[scene] (p.17) The class-vote results are revealed: Hokkaido, which received three of the class votes, is designated as the destination; Ayanokōji, Horikita and Keisei had voted Kyoto.
+[says] (p.17) “As a result of each class's choice, Hokkaido, which received three of the class votes, was designated as the school trip destination.”
+[says] (p.18) “Rest assured, there will be no special exam to compete for class points.”
+[scene] (p.19) She frames the trip with Sun Tzu: "If you know the enemy and know yourself, you will not be in danger in a hundred battles. That's the theme of this school trip."
+[says] (p.19) “If you know the enemy and know yourself, you will not be in danger in a hundred battles.”
+[scene] (p.20–24) She lays out the stakes: the school's strict structure hinders friendships; the trip exists to remove those boundaries; mixed fixed groups (one boy, one girl per second-year class), eight per group (two groups of six), fixed for five days, group behavior mandatory outside the ryokan ("deprivation of freedom" if disrespected), cell phones allowed, cash exchange up to 10,000 yen private points.
+[says] (p.21) “The most important thing for you is whether or not you graduate in Class A.”
+[says] (p.23) “Even in free activities, individuals are not allowed to do as they please.”
+[says] (p.24) “You made a good point, Hirata.”
+[trait] (p.17–24) She answers Hondō's special-exam fear with a laugh; fields Hirata's questions about group rotation; the whole trip is themed on breaking down inter-class barriers — possibly a set piece for an exam to come.
+[rel:hirata-yousuke] (p.21–24) She fields his questions and defends the fixed-group decision ("superficial acquaintanceships").
+[rel:hondou-ryoutaro] (p.18) She teases his fear of a special exam.
+
+<!-- walk: y2v8 Ch.1 → p.45 -->
+
+### y2v8 p.202–203 — Short Story "Confused and Enlightened" (Chabashira POV)
+[scene] (p.202) Chie storms off after the drunk eruption; Chabashira is rattled; the evening's fallout pleats into her own self-recrimination about three years ago.
+[says:hoshinomiya-chie] (p.202) “I'm going back to my room! Bye!”
+[says:hoshinomiya-chie] (p.202) “I'm sorry for what happened earlier.”
+[says:hoshinomiya-chie] (p.202) “You're a little concerned, aren't you, sensei?”
+[says] (p.202) “To be honest, it's impossible not to think about it. Your class is so different from the one I took three years ago.”
+[says] (p.202) “I don't know if Ayanokoji-kun is a Joker, however I can't deny that he is strong as a fellow classmate. But I don't plan to have any scruples about it.”
+[says] (p.203) “Okay... I'm going to go find Chie, if I leave her alone she might drink until dawn.”
+[trait] (p.202–203) The professional weariness of a former homeroom teacher who mugged Class B of three years ago and started over with this new cohort; the joker metaphor sits heavy; she aims — she will not hold his talent against her own duty.
+[note] (p.202) The SS keeps the original slanted quotation punctuation (straight quotes, "~" trail-offs) — kept as printed.
+[rel:hoshinomiya-chie] (p.202–203) She will not surrender her ex-colleague to the bottle; the two lost souls keep saving each other.
+[rel:horikita-suzune] (p.202) Horikita's composure vs Chabashira's restraint — two leaders who respect each other's edges.
+[rel:ayanokouji-kiyotaka] (p.202) The "Joker" naming is hers to carry now.
+
+### y2v8 p.153–159 — The second-floor Daifugō speech
+[scene] (p.153–158) Two mid-level teachers hogging the massage chairs; the room is tense; Horikita and Ayanokōji wander in; the banter escalates; Chie turns on Ayanokōji first, then on Chabashira's Class B; the Daifugō analogy unfolds; the Joker gets named; Chie storms off drunk; Horikita chides her about it later down the hall.
+[scene] (p.155) The massage intensity is set to five; the machine screams; Chabashira howls; Ayanokōji's curiosity is to blame.
+[says] (p.155) “Nn, hya, nn, nn!”
+[says] (p.155) “Of course not! There's a strength that suits each person!”
+[says] (p.157) “Chie. Stop it already.” (Chabashira, under her breath)
+[says] (p.157) “I don't know what you want to say, but you're not free to say whatever you're thinking.” (Chabashira)
+[says] (p.158) “Chie. Stop it already.”
+[says] (p.158) “It's not that I don't think about it, to be honest. The situation is too different from that of the class I taught three years ago.”
+[says] (p.158) “That's right. I would expect nothing less...”
+[says] (p.158) “Well, I'm going after Chie. If I let her go like that, she might drink heavily until the sun rises.”
+[says] (p.158) “That's all for today, Horikita.”
+[trait] (p.153–159) Ex-Class-B homeroom teacher; brought low but not bowed; the Daifugō monologue is Chabashira's own view filtered through Chie's mouth — she'd actually use the joker honestly and never say so.
+[rel:hoshinomiya-chie] (p.153–159) They bicker over stiff shoulders and old failures; she's the only one Chie listens to.
+[rel:horikita-suzune] (p.153–159) Awkward confrontation about the class lineage; she takes the teaching role seriously.
+[rel:ayanokouji-kiyotaka] (p.153–159) He malfunctions a massage chair for fun; she tries to cover him from Chie's glare.
+
+### y2v8 p.46, 49 — The bus assignments
+[mentioned] (p.46) "Chabashira-sensei No. 2" (the Class B bus)
+[mentioned] (p.49) "Chabashira-sensei was in charge of groups 6 through 10" (the ski-group teacher assignments)
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ### y2v8 p.11-208 — chabashira-sae mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.13-18, p.20, p.23-24, p.46, p.49.

@@ -1877,13 +1877,202 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.12 — Paper Shuffle aftermath (back)
+[back] (p.12) Chabashira recalls last year's Paper Shuffle: "Kushida's plans and Ryuen's influence nearly jeopardized the exam, but Horikita's strategy and capabilities were equally as strong." This year's exam is standardized — the first under the new rules.
+
+<!-- walk: y2v8 Ch.1 → p.45 -->
+
+### y2v8 p.92–117 — Snowman; browsing; the lift signal; the 800M whisper; Gifu
+[scene] (p.92–93) She invites Ryūen to join the snowman build as pure payback; he ignores her; she rubs her gloved hands for warmth; Sakayanagi arrives, slips and falls; the city bus takes her sightseeing.
+[says] (p.92) “Hey, Ryūen-kun, why don't you come over here and make a snowman with us? I think it would be fun.”
+[scene] (p.97–103) She browses the closed shops; she accepts Amikura's detour; she takes the lift with Ayanokōji; she asks to be told the split for the advanced course with Kitō vs Ryūen; she watches Ayanokōji ski like a hero in a comic book.
+[says] (p.97) “Ummm… it's cold in Hokkaido this morning, isn't it? It was warmer in the bus, so I can feel the temperature difference even more.”
+[says] (p.105) “Both of you, be careful.” (the countdown command)
+[says] (p.105) “Start!”
+[says] (p.106) “The three of you are too fast, or rather, Ayanokōji-kun was quite abnormal...!”
+[says] (p.107) “It's no wonder he's so angry, I mean, you were skiing spectacularly. It was like the hero of a comic book who does everything perfectly with his talent, even if he doesn't work hard.”
+[scene] (p.108–112) Soup curry benchmark; she nudges about Yamamura; Ryūen summons Ayanokōji mid-lunch; she texts Ayanokōji about Yamamura's approach; she tries to spot the reconnaissance battle forming in the cafeteria.
+[says] (p.109) “Yamamura-san is on her way to you.” (her warning text)
+[scene] (p.114–117) She finds Nishino and Yamamura surrounded by five Gifu boys; she reports; she holds the table per Ayanokōji's instruction; she watches Ryūen and Kitō handle the cleanup; final dry line: "Never a dull moment, huh?"
+[says] (p.117) “Never a dull moment, huh?”
+[rel:ryuuen-kakeru] (p.92–117) She baits him at the snowman every chance she gets; he declines to fight back; jury's out.
+[rel:yamamura-miki] (p.97–117) She checks on the invisible girl twice.
+[rel:kitou-hayato] (p.105) She counts down his race; he wins nothing.
+
+<!-- walk: y2v8 Ch.3 → p.129 -->
+
+### y2v8 p.130–139 — Sapporo: the spot-tour debate and the strategy meeting
+[scene] (p.130–132) The bus stops at Sapporo Station; each group gets a pamphlet of 15 spots; the deal: visit six, photograph each; 20+ points = 30,000 private points; fewer than six spots and the group loses tomorrow's free day (study session instead); groups must travel as a unit.
+[scene] (p.133–139) The eight of them split: Ryūen wants the points; Kitō wants nothing to do with it; Nishino and Amikura want fun; she bridges both camps; Ayanokōji proposes the majority-vote solution; she covers for his strategy session from Watanabe's jealous sideways glance.
+[says] (p.131) “I'm not surprised. It's very typical of this school to do this...”
+[says] (p.131) “It hurts to know that if I don't do it right, I'll lose a whole day to study sessions. I wonder if the reason they let us have a whole day of free time yesterday without any restrictions had something to do with this tour.”
+[says] (p.135) “Hey, can I have a word? What do you think we should do about this situation?”
+[says] (p.135) “I thought it would be safer to follow Ryūen-kun, but Kitō-kun has ended up like that as well. That said, Ryūen-kun won't budge if I go along with Kitō-kun. They're really selfish people.”
+[says] (p.136) “It's not cheap... Right?”
+[says] (p.136) “Huh? That kind of bullshit... This is so bothersome.”
+[says:ayanokouji-kiyotaka] (p.138) “I don't want to waste this precious day either. We're going to have to endure the pain to get things going.”
+[says] (p.138) “What are you going to do about it?”
+[says] (p.138) “Ryūen-kun, we're still not going to try to win private points. We all want to discuss where we want to go together today and have a fun day.”
+[says] (p.138) “I agree.”
+[says:ayanokouji-kiyotaka] (p.137) “That's right. It's basically a contest of endurance already?”
+[trait] (p.130–139) She works the room like a demagogue — nudging everyone to either points-vision or leisure-vision; positions herself as Ryūen's advisor to him (fake) while lobbying against him with Ayanokōji; her mitosis instinct sees through everyone except Ayanokōji.
+[rel:ayanokouji-kiyotaka] (p.135–139) She pulls him aside for a strategy session; covers for him when Watanabe notices the whisper-huddle.
+[rel:ryuuen-kakeru] (p.133–139) She discredits him publicly but handles him with silk gloves — publicly and privately two different women.
+[rel:kitou-hayato] (p.133–139) She counts him on her side; she doesn't want to court him.
+[rel:watanabe-norihito] (p.137) She deflects his jealous glance with her usual charm — Watanabe buys the cover.
+[rel:amikura-mako] (p.131–139) She and Amikura exchange silent signals throughout.
+
+### y2v8 p.146–150 — The Ryūen showdown; the wall; the meltdown
+[scene] (p.146–150) She waits at the entrance for Ryūen; confronts him alone about the provocations; demands he stop; Ryūen is calm; Ayanokōji reveals himself and intervenes; she slumps against a wall, slaps it, goes dizzy; she covers the embarrassment with theatrical normalcy; she limps away.
+[says] (p.146) “Ryūen-kun, may I have a word with you?”
+[says] (p.146) “It's... Here, I'd like to go somewhere else, is that okay?”
+[says] (p.146) “Haha, that's not what I meant. I mean, don't worry. I don't want you to die, yet.”
+[says] (p.146) “It's about my relationship with Ryūen-kun. Even when we were working as… a group, you sometimes said unnecessary things. Can you please stop that kind of thing?”
+[says] (p.147) “Yes, you're right. I believe that's true.”
+[says] (p.147) “You can speculate all you want, but you're wrong.”
+[says] (p.147) “What are you going to do? Do you plan to get down on your knees and ask me to keep my mouth shut? Or are you going to try and expel me?”
+[says] (p.148) “Let's not talk about this. I'm not going to use Kikyō's story to attack your class in the first place.”
+[says] (p.148) “You don't know this, but he told me yesterday that he was no longer going to expel you. That's why I won't be able to attack you using that.”
+[says] (p.149) “I've kind of been saved by Ayanokōji-kun, haven't I?”
+[says] (p.150) “I'm fine! I'm fine! Don't worry!”
+[says] (p.150) “I got a little dizzy, but I'm fine! I'm fine!”
+[trait] (p.146–150) She finally shows the crack — seizure-like wall palms and stumbling; masks it all as dizziness; stands by her own combo of gratitude and fury toward Ayanokōji.
+[rel:ryuuen-kakeru] (p.146–150) She confronts him solo; he terrifies her without raising his voice; Ayanokōji's intervention saves her.
+[rel:ayanokouji-kiyotaka] (p.146–150) She owes him one and hates knowing it; he won anyway by knowing exactly what to do.
+[rel:horikita-suzune] (p.146–150) This is the first time she realizes Horikita's people are actively shielding her (not just Ayanokōji being Ayanokōji).
+
+<!-- walk: y2v8 Ch.4 → p.161 -->
+
+### y2v8 p.162–174 — The snowball fight; the Ibuki-Horikita showdown
+[scene] (p.162) She hears the fight plan through Watanabe; she comes along as crowd control.
+[scene] (p.163–164) She arrives with Yamamura, Nishino and Amikura; Ibuki dares Horikita; her line: she can't throw a snowball at anyone without feeling sorry for them; they laugh her off; Horikita's chop to Ibuki's side starts the war.
+[says] (p.164) “I don't want to hit someone with a snowball. I can't throw that kind of thing because I'd feel sorry for them.”
+[says] (p.164) “Hmm? A snowball fight?”
+[scene] (p.164–167) She holds up the crowd; she doesn't throw; she exhales tiny breaths of relief for everyone involved.
+[rel:yamamura-miki] (p.162–174) She drags her along; shields her without making a show of it.
+[rel:ishizaki-daichi] (p.164) She politely ignores him.
+[rel:ibuki-mio] (p.163–174) She doesn't want to cross Ibuki; she edges away from the dare.
+[rel:horikita-suzune] (p.162–174) She watches the duel like a true believer who bet on the loser.
+
+<!-- walk: y2v8 Ch.5 → p.186 -->
+
+### y2v8 p.197–199 — Short Story "Absolutely Haunted" (Kushida POV)
+[scene] (p.197) Retells the confrontation from her POV: her reasons survive the criticism of her own heart; she catastrophises the control room inside her chest.
+[says] (p.197) “Why ..... to come to my rescue? It's not good for Ayanokoji-kun, right?”
+[says] (p.197) “I must guard my place.”
+[says] (p.197) “Huh? What is this…”
+[says] (p.197) “What an unpleasant thing to say. Does the class need my strength so much?”
+[says] (p.199) “I'm just a little dizzy, but I'm fine! It's oka-!”
+[voice] (p.197–199) Dense, self-sabotaging monologue; the prose is her panic made fluent; every thought is interrupted by a truer one; she discovers, in horror, that her own limbs are disobeying her.
+[trait] (p.197–199) She develops undeniable feelings; the breast-coercion memory (year 1) re-surfaces as a shame loop she can't resolve; the sensation of falling for him is, to her, "absolutely haunted."
+[thinks] (p.197) “I couldn't be… falling for him? Impossible. Impossible. Impossible, impossible... Impossible!”
+[thinks] (p.198) “Didn't Ayanokoji-kun touch my breasts? No, instead of saying he touched my breasts I should say I forced him to touch them.”
+[thinks] (p.199) “It's the other feelings that are the big problem. I'm in love with someone else ......? Ha-?”
+[note] (p.198–199) The translation throughout this SS loosens its typography (straight quotes, double spaces, kanji drift) — kept as printed.
+[rel:ayanokouji-kiyotaka] (p.197–199) He likes her mind as it is; she can't process that fact at all — the haunting begins here.
+[rel:ryuuen-kakeru] (p.197) The threat that started the whole conversation — she's furious at herself for needing rescue.
+
+### y2v8 p.207 — The credits: Kushida is the strongest girl in ANHS
+[mentioned] (p.207) Rhymar's (Translator) credit line: "Kushida is the strongest girl in ANHS".
+
+### y2v8 p.63–64, 66–68, 126, 200, 204–205, 208 — Passing-mention records
+[mentioned] (p.63) "Sure enough, in the direction Kushida was looking, was Yamamura. ... 'There she is, Ayanokōji-kun. Yamamura-san.'"
+[mentioned] (p.64) "I denied it, but Kushida laughed in a funny way."
+[mentioned] (p.66) "At about the same time, Kushida and the other three girls also received their keys."
+[mentioned] (p.66–67) "It was important to make plans in advance... 'So, I was thinking that at night, the girls can visit the boys' room.'" (she drafts the plan; the others agree; lights-out is at 11:00)
+[mentioned] (p.68) "Maybe I'll have a chance to use it in discussions with Kushida and the other girls."
+[mentioned] (p.126) "about the eleventh group from Kushida, so I was relieved on my own." (Kei's update from Kushida's gossip channel)
+[mentioned] (p.200) "Kushida-san, Nishino-san, Amikura-san and everyone in the group watched me and saw me as a companion." (Yamamura's SS)
+[mentioned] (p.204) "It's rare for you to be so understanding." — wait, that's Horikita's line to Kushida, fine. Cite: [mentioned] (p.204) "You're really tough, Horikita-san. Well, if I had persisted in that situation, I would have won." (Kushida to Horikita, re the bath-race)
+[mentioned] (p.205) "Kushida-san didn't take it either. As a result, neither of us drank water where we could see each other." (Horikita's SS)
+[mentioned] (p.208) "Damn Kushida end game girl" (editor's credit line)
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ### y2v8 p.11-208 — kushida-kikyou mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.12, p.46-47, p.49-50, p.52, p.55-64.
 [mentioned] (p.11) Passing mention only.
 
+### y2v8 p.46–62 — Boarding; the Class A challenge; the lift talk
+[scene] (p.46) Her name lands on the group-6 list; she's in Ayanokōji's group with Ryūen, Kitō, Nishino and the others — an uncomfortable pairing by every public measure.
+[trivia] (p.47) Ayanokōji's private numbering: 6 — jointly highest with Ryūen ("the highest ratings went to Kushida and Ryūen").
+[scene] (p.49–52) At the airport she makes the opening moves: rejoices with Amikura, greets Nishino politely, cool-eyes Ryūen, and organizes the boys first ("I think it's better to seat us by gender.").
+[says] (p.49) “I'm not sure... Ryūen-kun is a bit unwelcoming.”
+[says] (p.51) “I think it's better to seat us by gender.”
+[says] (p.50) “The only ones left are Kitō and Yamamura,” (marking attendance)
+[scene] (p.53–54) Across the aisle: the trip joins Haneda–Hokkaido; the etiquette-bag banter happens without her; she sits with the girls.
+[scene] (p.55–57) She warns him against the advanced slope (70% hard humps), then takes the lift with him because someone must; she spells out her read-people theory and its one flaw.
+[says] (p.56) “I don't think you should, Ayanokōji-kun. I was a little scared too because about 70% of it was hard humps and steep slopes.”
+[says] (p.57) “I can't help it. I actually feel that way.”
+[says] (p.57) “I'm confident in my ability to read a person's aura and understand what others are thinking.”
+[scene] (p.58–62) She pries him about expulsion; he gives her nothing (he plays along with the ambiguity); she concedes she can't read him; he gifts her two truths (Yagami & Amasawa); the lift opens; her hat escapes; his hand catches it; their fingers almost touch; she thanks him stiffly.
+[says] (p.58) “This is important, so I need to confirm it here and now, but you're not trying to get me expelled, are you?”
+[says] (p.58) “Are you kidding me?”
+[says] (p.59) “I still can't read you, Ayanokōji-kun.”
+[says] (p.59) “But for me, I've always found any event to be a hassle.”
+[says] (p.60) “Yagami-kun... Knew about my past.”
+[says] (p.61) “Wait, even if that's the case, it's weird. How could he know about me?”
+[says] (p.61) “I...” (her charged one-word reaction to his honesty)
+[says] (p.62) “Sorry, thanks...” (hat moment; stiff)
+[trait] (p.46–62) She light-reads everyone, loses at him, and covers the wound with chatter; her true question — the expulsion line — surfaces candidly for the first time this book.
+[rel:ayanokouji-kiyotaka] (p.46–62) She can't read him; discovering that frightens her more than Ryūen does.
+[rel:amikura-mako] (p.49) She rejoices with her at landing the same group.
+[rel:nishino-takeko] (p.49–50) She greets her politely (no depth on page).
+[rel:ryuuen-kakeru] (p.49, 51) She avoids him and wins him a window seat by not fighting over seats.
 
+### y2v8 p.70–89 — The bath scene (from the other POV); girls' visit; the pillow fight
+[scene] (p.70–72) The outdoor bath: she poses as Rokkaku's friend for show; when Rokkaku leaves she drops the mask; needles Horikita about her wide friend circle and her "lucky" Ayanokōji seat; Ibuki crash-lands and demands a race; she plays referee.
+[says] (p.71) “Ah, Horikita-san.”
+[says] (p.71) “Huh? I don't have any reason to. I love hot springs. Did you think I wanted to talk to you?”
+[says] (p.71) “Really? I thought you asked me because you were aware of me.”
+[says] (p.71) “Momoe came crying to me, asking me to come with her.”
+[says] (p.71) “You're… well, you're as well-endowed as you'd expect. It's not so interesting for us, though.”
+[says] (p.71) “Nothing. It's just that the distance between us is unnatural. Isn't it strange? You and I are classmates. If it were me, I'd be talking to you from closer.”
+[says] (p.72) “You're right. The best thing would be for you to get out of here and go to the indoor baths.”
+[says] (p.72) “You're pretty stubborn, aren't you, Horikita-san?”
+[says] (p.72) “You have a very elegant smile.”
+[says] (p.72) “If you care that much about having the upper hand, maybe you should've spent your school life in a way that prevented others from finding out about you.”
+[says] (p.72) “I'd say swimming constitutes even worse manners than jumping in.” (referee for Ibuki's dare)
+[says] (p.73) “Are you going to play rock-paper-scissors?”
+[says] (p.73) “That's fine. I'll be watching you fairly, so why don't you do it?”
+[says] (p.73) “It's okay because Horikita-san and Ibuki-san will pretend that they started it on their own without asking me to stop them.”
+[says] (p.73) “You're an idiot, Ibuki-san.”
+[says] (p.73) “By the way, you were lucky, weren't you Horikita-san?”
+[says] (p.73) “Because Ayanokōji-kun was seated next to you as soon as he entered the school.”
+[says] (p.74) “If it weren't for Ayanokōji-kun, you would've been expelled by me by now.”
+[says] (p.74) “Living only on the premise of building new relationships. You had to vent somehow, right?”
+[says] (p.74) “You're free to continue hating me. If that makes you contribute to the class, I have no complaints. I saw your performance at the cultural festival, and it was remarkable.”
+[says] (p.74) “Ichinose-san, you're alone? That's kind of unusual.”
+[says] (p.75) “There's no need to leave, Horikita-san. Ichinose-san says this too, so let's chat together, shall we?”
+[says] (p.75) “Is there anyone you're dating, Ichinose-san?”
+[says] (p.75) “Recently, many guys in various classes have been asking me if you're single.”
+[says] (p.76) “Then is there someone you like?”
+[scene] (p.76–78) She presses Ichinose about her love life with fake innocence (she knows exactly whom Ichinose likes); Ichinose dodges; she praises Ichinose's circle-wide presence; the endurance bath ends when Ichinose, called back inside, returns to order them up.
+[says] (p.77) “Are you sure you're okay? It would be a disaster if you fell over.”
+[says] (p.77) “Maybe it's because we were talking about love.”
+[says] (p.78) “Didn't you hear her, Horikita-san?”
+[says] (p.78) “It was a nice bath, wasn't it?”
+[scene] (p.78–79) She leads four girls to the boys' room (“Here we are~”); apologizes for late soaking; she agrees to Ichinose's gathering with polite enthusiasm.
+[says] (p.78) “Here we are~”
+[says] (p.78) “Sorry. I took a long soak in the bath, so I'm late.”
+[says] (p.79) “Really? Yeah, I'm totally fine with that.” (Ichinose's invitation)
+[says] (p.80) “You heard me, didn't you? Gather around.”
+[says] (p.80) “I'm trying to build group solidarity.”
+[says] (p.84) “Well, I'll be the judge then, right?”
+[says] (p.85) “It's already very tattered, isn't it?”
+[says] (p.88) “We're free to go anywhere as long as we return to the ryokan by 19:00, the final time for dinner, right?”
+[says] (p.88) “I guess we could take a train or a bus and go out to some extent, but what should we do...? Nishino-san, do you have any ideas about where you want to go?” (3 sentences one pair — corpus pair, keep)
+[says] (p.88) “What about you, Ryūen-kun?”
+[trait] (p.70–88) She hides the real endgame (knowing Ichinose's secret) under gossip and bath games; she's the only one who leaves the bath ahead of her own mask; session chair for the boys' meeting; calls the pillow fight a settlement of honor.
+[rel:horikita-suzune] (p.70–78) She picks a fight over the bath purely to test her; wins nothing and concedes nothing.
+[rel:ichinose-honami] (p.74–78) She probes her for what she knows about Ayanokōji's love life; yields nothing.
+[rel:ibuki-mio] (p.72–73) She referees the Ibuki–Horikita stare-down; fails gracefully.
+[rel:ryuuen-kakeru] (p.80–88) She faces him down in front of everyone; she calls rules, he concedes the pillow fight.
+[rel:watanabe-norihito] (p.65, 78–88) She notices him from the doorway on; he's obsessed.
+[rel:rokkaku-momoe] (p.70–71) Her fake friend for cover; drops the mask the moment Rokkaku leaves.
 
+<!-- walk: y2v8 Ch.2 → p.89 -->
 
 ## y2v9
 
