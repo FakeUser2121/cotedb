@@ -4537,7 +4537,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says] (p.18) "She's the type who never did any home cooking before. So she usually only had imbalanced meals."
 [says] (p.22) "I'd give you a bonus 30 points for how it looks, perhaps."
 [rel:ibuki-mio] (p.17–26) Dangles the challenge; baits her into serving them.
-[rel:kushida-kikyou] (p.16–26) Adds you the co-conspirator.
+[rel:kushida-kikyou] (p.16–26) Brings him into the plan.
 [rel:ayanokouji-kiyotaka] (p.16–26) Wants to feed him Ibuki's bento as comedy.
 
 <!-- walk: y2v10 Ch.1 → p.26 -->
