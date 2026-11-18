@@ -9805,6 +9805,18 @@ walk: y1v1 → DONE
 [rel:hirata-yousuke] (p.14) Discussed career with him.
 
 <!-- walk: y2v10 Ch.1 → p.26 -->
+### y2v10 p.27–30 — Ch.1: Sketchbook, empty of meaning
+[scene] (p.27) He walks beside Horikita after lunch; she remarks that the trio's bond is strange; he says it formed at a time of shared hardship; he considers friendship emerging between her and the others.
+[scene] (p.28) Horikita forces him to eat at the cafeteria; refuses; pays; she orders for both; the food arrives; she eats well; he pretends balance; they step out into the evening.
+[scene] (p.29) Evening; Kei sometimes leaves the TV on; a guess-the-real-painting variety show; he answers "number 4" without thinking; turns it off; silence.
+[scene] (p.29) He pulls out the sketchbook and colored pencils bought with private points; tries to use it for the first time; stares at the blank page; can't decide what to draw.
+[scene] (p.30) He closes the sketchbook; mutters that the third term may pass quickly; the White Room taught him technique but not purpose; his indecision "another day has come to an end".
+[note] (p.29–30) First hint that AK's much-vaunted capability is asymmetric — only imitational, not creative; the White Room removed original thought from him.
+[rel:horikita-suzune] (p.27–28) She rested her arms on the table; she still can't resent him eating well.
+[rel:ibuki-mio] (p.27) An odd friendship has formed among the three girls out of forced exposure; not someone he plans to keep up to.
+
+<!-- walk: y2v10 Ch.1 → p.30 -->
+
 ### y2v10 p.31–45 — Ch.2: Survival and Elimination Special Exam announced
 [scene] (p.31–33) Thursday of the third term; Chabashira announces the term's first exam; the name hits the room; everyone suspects it means expulsion; the rotation goes A→B→C→D this half.
 [scene] (p.34–40) Rules: categories from literature through entertainment; elimination for three misses; protection by the leader for five students per round; elimination if a class bottom-ranks; rewards all negative except first place; leaders make all decisions; parentheses advisory councils; 20 turns total; negative points track forever.
@@ -9819,6 +9831,24 @@ walk: y1v1 → DONE
 [rel:morishita-ai] (p.53–59) Lying in wait; curious; tracks him.
 
 <!-- walk: y2v10 Ch.2 → p.59 -->
+### y2v10 p.46–59 — Ch.2: The leader nomination battle; Morishita follows
+[scene] (p.46) Chabashira asks the class for a volunteer; silence; Yōsuke finally nods after thirty seconds; Horikita takes the leader role with few obstructions.
+[scene] (p.47–48) Maezono challenges: Horikita hesitated during the Kushida expulsion vote — questionable decision-maker; Hasebe tenses; Kōenji stays eerily quiet; Ike grumbles.
+[scene] (p.49) Horikita opens the floor: she explicitly offers to resign if someone emerges whom she thinks is better suited, intending it as a trap.
+[says:maezono] (p.49) “Certainly, as Horikita-san said, we can’t make someone who doesn’t nominate themselves a leader.”
+[says:horikita-suzune] (p.49) “In this special exam, students who are confident that they can lead and guide the class to victory, please raise your hand.”
+[scene] (p.51–52) Kei panics after lunch — will he be safe? He reassures her precisely: 5 protected spots, 20 turns, ~40 classmates, her need for protection is real but her worth is assured; she clings to him.
+[scene] (p.53–59) On the way back from school; Morishita lies on a bench; she intercepts him; she's been watching him for days; she compliments him; his mind is elsewhere; she leaves with a grin.
+[says:hirata-yousuke] (p.46) “I guess that’s the correct answer. To be honest, I don’t think the leader’s exemption from elimination or expulsion is a great benefit. If there’s no other student who can take on such an important responsibility for the class, I would really like to leave it to you, Horikita-san. What do you think?”
+[says:horikita-suzune] (p.48) “Or should we ask Kōenji-kun, who is the only one who hasn’t participated in this discussion? He has a sharp edge and can undoubtedly make decisions.”
+[says:horikita-suzune] (p.49) “If someone emerges who I think is more suitable than me, I would gladly give up the leadership role.”
+[rel:maezono] (p.47–50) She challenges Horikita's decisiveness; no one backs the challenge; the whole room realizes she isolated herself; she folds.
+[rel:horikita-suzune] (p.46–50) She accepts the nomination; forces Maezono to state it; then calls the silence she wants.
+[rel:morishita-ai] (p.53–59) She sees him studying the pattern of people; watches him; she waits on the bench; no reason left unknown yet.
+[rel:karuizawa-kei] (p.51–52) He reassures her about her worth in the exam.
+
+<!-- walk: y2v10 Ch.2 → p.59 -->
+
 ### y2v10 p.60–65 — Ch.3: Mii-chan's secret pursuit
 [scene] (p.60–63) On Friday, Mii-chan corners him about someone who sent her food once during those three weeks; she hasn't worked out who it was; the basket contents she lists are too detailed for random chance; she wants to find out.
 [scene] (p.62–65) She's been nervous for six days without knowing; he suggests asking the convenience-store clerk; they walk to a convenience store together.
@@ -9826,6 +9856,63 @@ walk: y1v1 → DONE
 [rel:wang-mei-yu] (p.60–65) She swallowed pride asking him; nervously trusts him along for the way.
 
 <!-- walk: y2v10 Ch.3 → p.65 -->
+### y2v10 p.66–80 — Ch.3: Kōenji is the benefactor; the gift-hunt
+[scene] (p.66–68) They wait in a bench by the vending area; the clerk reveals "Kōenji, um, Rokusuke-kun" — long-haired blond; the secret deliveries were from Kōenji all along; she thanks him indirectly; watches him harder.
+[scene] (p.68–73) Mii-chan handles the implications fairly calmly; she fakes ordinary gratitude; realizes Kōenji must appreciate charm/Wang-girl gifts; she buys him towels and watches from outside the gym; he benches 200 kg; they wait for him to finish; 40 minutes pass.
+[scene] (p.74–80) They tail him to the mall; he rescues himself with cold outward calm; he tells them he won't accept the gifts; implies her debt goes unnamed; he ignores them; they part with ambiguous farewells; she thanks him for nothing concrete.
+[says] (p.67) "Wang girl."
+[says] (p.67) "He ... Was it really Kōenji-kun?"
+[says] (p.76) "It was me who gave you those items, but why does it matter?"
+[rel:kouenji-rokusuke] (p.66–80) She hunts him down and tries to give thanks for a gift she didn’t ask for.
+[rel:wang-mei-yu] (p.66–80) Together Kōenji and Ayanokōji face down the gift attempt.
+
+<!-- walk: y2v10 Ch.3 → p.80 -->
+
+
+
+
+
+### y2v10 p.81–92 — Ch.4: Ike's 68-point plan rejected
+[scene] (p.81) Wednesday afternoon, two days before the exam; Ike stands up: he has figured out an unbeatable strategy for the special exam; class wakes just enough to watch him; others walk out; he stays confident and counts on his fingers.
+[says:ike-kanji] (p.81) “Dude... I think... I might have an incredible winning strategy...!”
+[says:shinohara-satsuki] (p.81) “Wh-what? You do, Kanji? No way!”
+[scene] (p.82) He leaves the school with Horikita, Yōsuke, Shinohara, Hondō, and Miyamoto to karaoke; room 5; usual ordering for two; he counts on his fingers; Shinohara smiles knowing his plan — she's already heard it.
+[scene] (p.83) Ike reveals his proposal: Class B can win by forcing an elimination zone plan — every class member except Horikita + five protected eliminated; everyone else scores points through 20 turns regardless; a perfect score is impossible to block; 68 points secured.
+[says:ike-kanji] (p.83) “While it’s risky, we could secure exactly 68 points. We do this by feigning sickness right as the exam starts.”
+[says:horikita-suzune] (p.85) “If it weren’t for ‘a certain rule’ in this special exam, this might’ve remained a candidate that we could have implemented.”
+[scene] (p.86–87) Horikita slowly explains why the plan collapses: Ryūen would use it radically — eliminates 34; but the rest of the 3 classes would counter through Sanada & Ichinose collusion — boots Ryūen's rank to 4th; Ike crashes; she confirms value of the conversation.
+[says:ike-kanji] (p.85) “Wh-why? Well, I’m not insisting that you adopt it...”
+[says] (p.87) “Your strategy has a chance of winning. If the other three classes can’t cooperate, the chances of winning would increase.”
+[says] (p.87) “It became clear that this special exam would be troublesome if the others gang up on us.”
+[note] (p.85–87) Ike's 68-point plan was the strongest play anyone proposed but collapsed on one assumption — alliances.
+[rel:ike-kanji] (p.81–88) He's a real thinker; Horikita listens to him seriously — he's no enemy; she values his earnestness; he is crushed when his idea fails, but smiles at her praise.
+[rel:shinohara-satsuki] (p.82) His girlfriend; she's already heard the idea; smiles through the lecture.
+[rel:horikita-suzune] (p.81–89) She breaks his ego gently; then confirms his idea was valuable; he's oddly relieved.
+
+<!-- walk: y2v10 Ch.4 → p.92 -->
+
+### y2v10 p.92–100 — Ch.4: One-on-one with Horikita; the Ibuki question
+[scene] (p.92–93) Café by the window; they wait in line; he orders two blended coffees; sits her down; she slowly opens up; silent long seconds; trickles complaints; she admits she has been worried for the exam ranking.
+[says:horikita-suzune] (p.92) “I want to ask you frankly. Have you decided what to do if we come in last place in this special exam?”
+[scene] (p.93–94) He asks her about the three possible futures in a hard fight against another class — win, loss, draw — which would she prefer; Horikita answers without hesitation: win. He pushes harder — adds condition that the defeated class has an expulsion; she now wavers.
+[says:horikita-suzune] (p.94) “I’m sorry, but we prioritize our victory. That’s the right choice, isn’t it?”
+[scene] (p.94–95) He adds the hardest condition: the class will be Ryūen’s — the person expelled will be Ibuki Mio — which would she choose; she shatters; reveals she can’t consider this — Horikita understands she now faces impossible choices.
+[says:horikita-suzune] (p.94) “...Ibuki-san...?”
+[says] (p.95) “Ibuki’s position and safety aren’t guaranteed. With Ibuki’s OAA assessment, she is perfectly disposable.”
+[scene] (p.96) He continues by demanding awareness: everyone has their own style of battle; her class's habits are too protective; she has to refine how she perceives this exam's decisions.
+[says] (p.96) “No one said it was a mistake.”
+[says:horikita-suzune] (p.97) “I don’t think I can maintain that awareness at this moment.”
+[says] (p.97) “I can’t say for sure what will happen in the future.”
+[says] (p.97) “You don’t normally think about losing first...”
+[scene] (p.98–100) She finally asks him directly who he is; he reassures the topic by pivoting to Kōenji; then they close down; he suggests based on the original question — and she reveals she has picked expulsion categories: entertainment, music, subculture; she matches his selection exactly.
+[says:horikita-suzune] (p.91) “It’s been almost a year since I cut it short.”
+[says] (p.98) “What would happen if a tragic accident occurred here, and I grabbed you and poured hot coffee directly into your shirt?”
+[note] (p.92–100) AK tests Horikita’s moral limit with Ibuki as the hypothetical target of expulsion; Horikita’s internal fear surfaces at this hypothetical; AK's job is to push her to walk that path regardless of friendship.
+[rel:horikita-suzune] (p.92–100) She admits she can’t decide if Ibuki is expulsion candidate; she will likely be the person to force a difficult call at the special exam — and for the first time she must accept she may not be fit for this.
+[rel:ibuki-mio] (p.94–96) Considered as a hypothetical target of expulsion; Horikita realizes this could be the hardest decision she will ever make in her life.
+
+<!-- walk: y2v10 Ch.4 → p.100 -->
+
 ### y2v10 p.101–109 — Ch.5: Hashimoto overhears; Sakayanagi shrugs
 [scene] (p.101–102) Hashimoto agonizes over whether he should sleep; his class's anxiety about losing to Ryūen's class is on the eve of the exam; regrets the underprepared state; decides to call Sakayanagi with his intel.
 [scene] (p.103–105) They meet at the Keyaki Mall café with Kamuro and Kitō; Sakayanagi denies it's a strategy meeting, calls it a tea party — enjoying it for her own reasons; Hashimoto that turns it into a stealth intel-drop.
@@ -9862,48 +9949,51 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v10 Ch.6 → p.127 -->
 
-### y2v10 p.128–163 — Ch.6: Ichinose attacks, Horikita defends
-[scene] (p.128) Ichinose attacks and Horikita nominates five for the quiz; they answer and score points.
-[scene] (p.141–143) Horikita leads lunch break; she proactively announces expulsions will happen; she says if it comes to it, she'll make the difficult call.
-[scene] (p.155–157) Cafeteria: she eats restlessly with Ayanokōji; Sakayanagi joins and trades banter about point math and probable outcomes; she treats the exam as a puzzle she must solve without cruelty.
+### y2v10 p.128–163 — Ch.6: A 65-point tank battle; leaks emerge
+[scene] (p.128) Ichinose attacks Ryūen; four people correct; Ishizaki, Isoyama, Yano, and Morofuji — all eliminated in this half; Horikita-Kobayashi, Shibata, and Sonoda selected as protected; Ishikura gets the answer correct by misunderstanding her own instruction — three points.
+[scene] (p.129) Class A attacks Class B (Horikita); Sakayanagi selects Arithmetic difficulty 1; seven exempt — Kōenji, Ishikura, Hasebe, Hirata, Yukimura, Onodera; protected Okitani, Ike, Sonoda; the question = 15×24×16=? answer is 5,760; Ishikura correct, others miss.
+[scene] (p.131) Class A switches to Gourmet Food; protected Sonoda, Ichihashi, Okitani, Ike, Makida — zero success; ATENominees: Kōenji, Hasebe, Hirata, Yukimura, Onodera; Kōenji leaves answer blank; Keisei strikes the desk too late; Class B has 6 points; third at this stage.
+[scene] (p.138–140) Class A attacks again; Sakayanagi nominates victims aligned with past rounds; the pattern becomes visible — told through Horikita's analysis.
+[scene] (p.141–143) Horikita leads lunch break: she announces who is willing to shoulder the difficult decision; silence; she announces she will be the one to make the hard call.
+[scene] (p.144–154) Sakayanagi's reliable nominations keep flowing; her class feels her edge slip because of the unknown variable — the attacks pattern reveals a leak.
+[scene] (p.155–157) Cafeteria; Horikita status-review with AK; Sakayanagi joins; they confirm questions and selections; AK overhears; Sakayanagi improvises; she heads straight danger — priority.
 
 <!-- walk: y2v10 Ch.6 → p.163 -->
-### y2v10 p.164–188 — Ch.6: Exam review; Kei near-eliminated
-[scene] (p.167–170) Ayanokōji discusses points with Horikita; Kei-sama receives nearly consecutive nominations from Ichinose; Haruka warns Kei to stay shut.
-[scene] (p.172–176) Ryūen's tactic emerges; he berates the four classes; Horikita announces she's not worried about outcome.
-[scene] (p.181–184) Ichinose's class crushes Ryūen despite his beast-like outbursts; Ichinose sees her class selflessly; the outcome is closer than anyone initially expected.
+### y2v10 p.164–188 — Ch.6: Back half battle; traitor outed; Ryūen wins
+[scene] (p.167–170) Ayanokōji discusses points with Horikita; Ichinose targets Kei repeatedly — ten consecutive nominations; she is protected each time (probably as Ichinose-faction signal); Haruka warns Kei to stay shut.
+[scene] (p.172–176) Ryūen lives up to category; he bullies through everything in sight; Horikita announces she's not worried about outcome — the class seems lost; only Ryūen's class remains dangerous.
+[scene] (p.181–184) Final half: Sakayanagi, confronted with consecutive nominations that render everything mute, breaks — Morishita says "Information is leaking."; Sanada nods; Kitō and Hashimoto rise together; Sakayanagi refuses to change plans.
+[scene] (p.185–188) Result posted; Ryūen wins 69 points vs Class C 62; Class B (Ayanokōji) 59; Class A 53; Chabashira dismisses class; Horikita is relieved — the danger threshold is now imminent; Kōenji's class has climbed back to competitive.
 
 <!-- walk: y2v10 Ch.6 → p.188 -->
 
-### y2v10 p.213–229 — Epilogue: Sakayanagi's humbling; new beginnings
-[scene] (p.213–214) Hashimoto reveals his collusion; Sakayanagi looks upon Ryūen without anger; she passes the examinator role to the four classes.
-[scene] (p.225–229) Ayanokōji saddled regular commutes with Ichinose and Kei; he wants to pass Kasasoka earlier over summer vacation; then Akimi withdraws her election pledge.
-[scene] (p.213–228) Peril and calculation head toward exams; Ichinose pays for him gently; he travels to Keyaki Mall with Kei; Sakura today is formal.
+### y2v10 p.189–215 — Ch.7: Class A betrayals; Morishita's warning; lottery decides
+[scene] (p.189–192) After exam ends, Sakayanagi obsesses over Shiina Hiyori possibility — but eats bread first; after three consecutive failures, she suspects a leak within her class; Morishita speaks (first time); says there are 100% signs of betrayal; Sanada agrees but won't move; Kitō/Hashimoto smile generously at her announcement.
+[scene] (p.193–199) Each class counts: Final results: Ryūen Class D wins (69); Ichinose Class C second (62); Horikita Class B and Sakayanagi tie third (53) — wait Horikita 59, SA 53; Class A loses 100 points; Sakayanagi expelled for first time.
+[scene] (p.200–216) Ryūen and Ichinose agree on side deal: protect each other from their own nominations; second half climaxes; Sakayanagi notices pattern and tears down her own failed predictions; the truth becomes clear — the leak came from within her own class.
+[scene] (p.215) Sakayanagi goes pale; Morishita confirms the leaked info saves RT targets inside Ryūen's class; she reacts violently; eventually accepts Class A cannot win.
+[scene] (p.218–224) Credits: Ayanokōji forces Sakayanagi to celebrate with him at a bench; she accepts the truth — she lost a classmate to someone she didn't see coming; she will pay any price she needs to to figure out who betrayed her.
+[scene] (p.225) Sakayanagi updates: her lost class points force a rebuild vs Sakaya's pride — worst wound of the year.
+[rel:sakayanagi-arisu] (p.189–220) Her rule-of-thumb fails viciously — her strategy to eliminate others collapses on her own leaks; she expelled Kamuro by the lottery to save herself from further damage.
+[rel:kamuro-masumi] (p.189–216) Kamuro becomes the epicentre — Sakayanagi expelled her by lottery instead of by rank; kamuro can't believe she was removed; Sakayanagi will never forget this.
+[rel:ryuuen-kakeru] (p.189–200) Ryūen's class rallied and won; Sakayanagi's pass network leaked to him through Hashimoto.
+[rel:sakayanagi-arisu] (p.205–220) She admits to losing the frequency war; begs Ayanokōji to show her the way; she break -down seeking aid.
 
-<!-- walk: y2v10 Epilogue → p.229 -->
+<!-- walk: y2v10 Ch.7 → p.216 -->
 
+### y2v10 p.217–235 — Epilogue: Sakayanagi waits by the staff room; AK watches her break
+[scene] (p.217) Outside the staff room; Sakayanagi stands silent — waiting for Kamuro.
+[says] (p.220) "I will not forgive the traitor. I promise to get rid of them no matter what."
+[scene] (p.217–218) Kamuro steps out with a stack of papers; she catches sight of both; no apparent surprise — Sakayanagi's blanks and smiles; AK's simple stare takes them all in.
+[says] (p.217) "You're also responsible for checking if Sakayanagi has kept her promise, Ayanokōji."
+[scene] (p.218–220) Outside the staff room; Sakayanagi loses feeling; she finally cracks — makes promise to chase the traitor to her death; Ayanokōji stays for the rest.
+[scene] (p.221–225) He sits at a familiar park bench; Morishita arrives slowly; Sakayanagi collects herself; he gives her space; Sakayanagi witnesses the possibility of hurt instead of just commitment.
+[says] (p.224) "You know you're strong. That's why you don't have much empathy for others' weaknesses."
+[scene] (p.225–229) She finally admits Kamuro mattered; he tells her about the further exams coming; she bows to him; leaves; he remains to wait for them; silence.
+[rel:sakayanagi-arisu] (p.217–228) Loses first elimination match; devastated by Kamuro's expulsion; she carried the second half of the exam on her shoulders and made the fatal mistake; she cannot recover her momentum until someone breaks through her stone-wall defense.
+[rel:kamuro-masumi] (p.218–225) Sakayanagi's friend; drawn-lots expelled by Sakayanagi; the class buys her one last farewell picnic; Sakayanagi doesn't attend; AK arrives to see her leave school.
 
-
-
-### y2v10 p.66–80 — Ch.3: Kōenji is the benefactor; the gift-hunt
-[scene] (p.66–68) They wait in a bench by the vending area; the clerk reveals "Kōenji, um, Rokusuke-kun" — long-haired blond; the secret deliveries were from Kōenji all along; she thanks him indirectly; watches him harder.
-[scene] (p.68–73) Mii-chan handles the implications fairly calmly; she fakes ordinary gratitude; realizes Kōenji must appreciate charm/Wang-girl gifts; she buys him towels and watches from outside the gym; he benches 200 kg; they wait for him to finish; 40 minutes pass.
-[scene] (p.74–80) They tail him to the mall; he rescues himself with cold outward calm; he tells them he won't accept the gifts; implies her debt goes unnamed; he ignores them; they part with ambiguous farewells; she thanks him for nothing concrete.
-[says] (p.67) "Wang girl."
-[says] (p.67) "He ... Was it really Kōenji-kun?"
-[says] (p.76) "It was me who gave you those items, but why does it matter?"
-[rel:kouenji-rokusuke] (p.66–80) She hunts him down and tries to give thanks for a gift she didn’t ask for.
-[rel:wang-mei-yu] (p.66–80) Together Kōenji and Ayanokōji face down the gift attempt.
-
-<!-- walk: y2v10 Ch.3 → p.80 -->
-
-
-
-
-
-## y2v10.25
-
-<!-- walk: y2v10.25 → start -->
+<!-- walk: y2v10 Epilogue → p.235 -->
 
 ### y2v10.25 p.1–9 — SS: From That Time On…
 [scene] (p.1) After the survival exam ends, the first break arrives; he goes to the gym early; remembers to look up a certain word — a red-panda photo article about the exam question he'd gotten wrong.
