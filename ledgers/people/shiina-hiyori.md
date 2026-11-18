@@ -661,3 +661,23 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [note] (p.169) Her reply carries a cute animal stamp; he goes to search while she stays in the room as lookout.
 
 <!-- walk: y2v11 ch7 → p.181 -->
+
+### y2v11 p.211–213 — Short Story: Memories I Don't Want to Forget
+[scene] (p.211) Hiyori's POV on the joker-card scene; she remembers the moment she draws the isolated card and feels validated.
+[narrates] (p.211) “Please go ahead, Shiina Hiyori. Feel free to draw any card you like.”
+[narrates] (p.211) “So... does that mean the single card in her left hand is suspicious?”
+[narrates] (p.211) “Is that so? This is the advanced strategy I came up with.”
+[narrates] (p.211) “Somehow... I'm a little curious about this one card.”
+[narrates] (p.211) “Instinctively, I felt I should choose one from the four, but Morishita-san's composure was palpable.”
+[narrates] (p.211) “No, perhaps that was exactly her plan, and that was the Joker?”
+[narrates] (p.211) “‘The isolated card Morishita-san was holding was the Joker.’ I felt like he was looking at it that way.”
+[narrates] (p.213) “When I turned it over... that card was indeed the Joker.”
+[narrates] (p.213) “I felt validated that what I sensed from Ayanokōji-kun wasn't wrong.”
+[narrates] (p.213) “School life, where I could spend precious time with friends I couldn't have imagined when I first enrolled.”
+[narrates] (p.213) “Memories I wanted to remember forever.”
+[narrates] (p.213) “I couldn't help but wish that this school life would continue for even one more day.”
+[note] (p.211–213) She reads his thoughts through the Joker moment — the isolated card is the Joker; she pulls it deliberately; she feels his gaze on her the whole time.
+[rel:ayanokouji-kiyotaka] (p.211–213) Her silent communication with him via the Joker; she cherishes the school life he helped unlock.
+[rel:morishita-ai] (p.211–213) The advanced-bluff battle; she loses gracefully; she remembers the moment forever.
+
+<!-- walk: y2v11 Epilogue → p.223 -->

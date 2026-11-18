@@ -2357,3 +2357,36 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [mentioned] (p.174) Named by Yamamura as the threatener; not present on these pages.
 
 <!-- walk: y2v11 ch7 → p.181 -->
+
+### y2v11 p.205–209 — Epilogue: The bet Sakayanagi can't win
+[scene] (p.205) A few days after the exchange meeting; the career counseling room; he's five minutes late; his homeroom teacher Sakagami behind him; Sakayanagi waits with Mashima.
+[says:sakayanagi-arisu] (p.205) “You're five minutes late, Ryūen-kun.”
+[says] (p.205) “The star of the show always makes a late entrance.”
+[says] (p.206) “You seem energetic for someone who's sunk so low.”
+[says:sakayanagi-arisu] (p.206) “Heh, Ayanokōji did something unnecessary too.”
+[says] (p.206) “I indeed felt emotions I had never experienced before, but if you thought that was the end, it's too early.”
+[says:sakayanagi-arisu] (p.206) “So you were also saved by Ayanokōji-kun.”
+[says] (p.206) “Huh, don't make me laugh. We'll never get along. I don't remember being saved by Ayanokōji. Rather, what I got was hatred. Hatred for revenge.”
+[says] (p.206) “Are you any different?”
+[says:sakayanagi-arisu] (p.206) “I see. Hatred—so that's what drove you here.”
+[says] (p.206) “I lost to Ayanokōji. I thought it was okay to lose as many times as I wanted as long as I won in the end, but that man mercilessly crushed that indomitable spirit. I was so drained.”
+[says] (p.207) “Are you saying you had your eye on him earlier?”
+[says:sakayanagi-arisu] (p.207) “Yes. You unfortunately only learned of his existence at this school. However, unlike you, I've been following him with my own eyes since childhood.”
+[says] (p.207) “In front of Sakayanagi, who stood up on her cane, Ryūen also stood up and turned around, facing the teachers.”
+[says:sakayanagi-arisu] (p.207) “Although our motives are different, it seems that our final goals are the same, Ryūen-kun. I have been wishing to fight him since long before you. We only have one year left in our school life. I need to get rid of any obstacles before then.”
+[says] (p.207) “I completely agree. I'll defeat you quickly and take my revenge on him.”
+[says:sakayanagi-arisu] (p.207) “Your revenge will not be fulfilled. You will stumble just before it.”
+[says:sakayanagi-arisu] (p.207) “You're probably planning for a showdown on the throne, but that scheme will fail.”
+[says:sakayanagi-arisu] (p.208) “For the end-of-year exam, the loser will leave this school—that's what it's about.”
+[says:sakagami] (p.208) “A Protection Point is meaningless if we're voluntarily withdrawing. For fairness, it's been decided that we'd request additional private points to fill the difference that the Protection Point makes, but the amount is kept to a minimum. If we take away his money, his class will really have nothing left.”
+[says:mashima-tomonari] (p.208) “Are both of you really okay with this? If we agree, we will have to enforce the expulsion forcibly based on the end-of-year results. Both of you are in important positions; you two play the leader role in your classes. Major disruption is inevitable.”
+[says:sakayanagi-arisu] (p.209) “Please don't hope for a draw to invalidate the bet, okay?”
+[says] (p.209) “I won't recognize a draw. If that happens, we can decide by lottery, just like how you abandoned Kamuro.”
+[says:sakayanagi-arisu] (p.209) “That's also fun. Let's look forward to it.”
+[note] (p.205–209) The hatred is real on both sides; the bet is sealed; both teachers witness it; the end-of-year special exam begins with stakes set on expulsion and no escape; a showdown on the throne is being planned without Ayanokōji.
+[rel:sakayanagi-arisu] (p.205–209) The hatred; the bet; the showdown; the throne.
+[rel:ayanokouji-kiyotaka] (p.205–209) The target waits beyond Sakayanagi; the two fuse their motives without speaking them.
+[rel:mashima-tomonari] (p.205–209) The witness; he knows what the contract means; he says nothing now.
+[rel:sakagami] (p.205–209) The witness; the Protection Point; he knows what the contract means; he says nothing now.
+
+<!-- walk: y2v11 Epilogue → p.223 -->

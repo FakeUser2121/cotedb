@@ -1398,4 +1398,34 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:yamamura-miki] (p.188–193) The two finally meet at the dog park; the inseparable pair.
 [rel:ayanokouji-kiyotaka] (p.188–193) He lends her his legs; he doesn't stay for the reveal; he trusts the process.
 
+
 <!-- walk: y2v11 ch8 → p.193 -->
+
+### y2v11 p.194–198 — Epilogue: The morning alone
+[scene] (p.194) A few days after the exchange meeting; she is in the classroom when he passes; he nods; she nods back.
+[note] (p.194) The exchange meeting ended; the two are still in disarray; each has their own plans.
+[rel:ayanokouji-kiyotaka] (p.194–198) The morning; the nod; the exam stakes.
+
+### y2v11 p.205–209 — Epilogue: The bet Ryūen can't win
+[scene] (p.205) A few days after the exchange meeting; the career counseling room; she waits for someone; Mashima stands with arms crossed in confusion.
+[says:ryuuen-kakeru] (p.205) “Heh, Ayanokōji did something unnecessary too.”
+[says:ryuuen-kakeru] (p.206) “Huh, don't make me laugh. We'll never get along. I don't remember being saved by Ayanokōji. Rather, what I got was hatred. Hatred for revenge.”
+[says:ryuuen-kakeru] (p.207) “I lost to Ayanokōji. I thought it was okay to lose as many times as I wanted as long as I won in the end, but that man mercilessly crushed that indomitable spirit. I was so drained.”
+[says:ryuuen-kakeru] (p.207) “Are you saying you had your eye on him earlier?”
+[says] (p.207) “Yes. You unfortunately only learned of his existence at this school. However, unlike you, I've been following him with my own eyes since childhood.”
+[says] (p.207) “Although our motives are different, it seems that our final goals are the same, Ryūen-kun. I have been wishing to fight him since long before you. We only have one year left in our school life. I need to get rid of any obstacles before then.”
+[says:ryuuen-kakeru] (p.207) “Your revenge will not be fulfilled. You will stumble just before it.”
+[says:ryuuen-kakeru] (p.207) “You're probably planning for a showdown on the throne, but that scheme will fail.”
+[says:mashima-tomonari] (p.207) “You seem to be moving the conversation along on your own, but could you explain the situation?”
+[says:mashima-tomonari] (p.208) “Are both of you really okay with this? If we agree, we will have to enforce the expulsion forcibly based on the end-of-year results. Both of you are in important positions; you two play the leader role in your classes. Major disruption is inevitable.”
+[says] (p.208) “Yes. It will be virtually impossible to repair the defeated class, and it will be impossible to avoid dropping out of the four-way battle before advancing to the third-year.”
+[says] (p.209) “Please don't hope for a draw to invalidate the bet, okay?”
+[says:ryuuen-kakeru] (p.209) “I won't recognize a draw. If that happens, we can decide by lottery, just like how you abandoned Kamuro.”
+[says] (p.209) “That's also fun. Let's look forward to it.”
+[note] (p.207) She follows Ayanokōji with her own eyes since childhood; Ryūen knows nothing of it; the showdown is being planned without either knowing it.
+[rel:ryuuen-kakeru] (p.205–209) The hatred; the bet; the showdown; the throne.
+[rel:ayanokouji-kiyotaka] (p.205–209) The target waits beyond Ryūen; the two fuse their motives without speaking them.
+[rel:mashima-tomonari] (p.205–209) The witness; he knows what the contract means; he says nothing now.
+[rel:sakagami] (p.205–209) The witness; the Protection Point; he knows what the contract means; he says nothing now.
+
+<!-- walk: y2v11 Epilogue → p.223 -->

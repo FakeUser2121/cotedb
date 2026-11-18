@@ -316,3 +316,11 @@ aliases used for anchors: sakagami, sakagami-sensei
 
 <!-- walk: y2v11 → start -->
 
+### y2v11 p.205–209 — Epilogue: The witness
+[scene] (p.205) The career counseling room; he follows Ryūen Kakeru in; he does not know what is happening; he is asked to wait.
+[says:sakagami] (p.208) “A Protection Point is meaningless if we're voluntarily withdrawing. For fairness, it's been decided that we'd request additional private points to fill the difference that the Protection Point makes, but the amount is kept to a minimum. If we take away his money, his class will really have nothing left.”
+[note] (p.208) The Protection Point is meaningless; the withdrawal voids the contract; he knows what the contract means; he says nothing now.
+[rel:ryuuen-kakeru] (p.205–209) The homeroom teacher witnessing the contract; the end-of-year exam.
+[rel:sakayanagi-arisu] (p.205–209) The homeroom teacher witnessing the contract; the end-of-year exam.
+
+<!-- walk: y2v11 Epilogue → p.223 -->

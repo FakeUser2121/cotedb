@@ -10346,6 +10346,77 @@ walk: y1v1 → DONE
 [rel:ibuki-mio] (p.185–188) The two-on-one fight; today it costs them; she leaves without a comment.
 [rel:horikita-suzune] (p.185–188) The rematch happens off-page; the two lose together.
 
-### y2v11 p.194 — Epilogue: The morning alone
-
 <!-- walk: y2v11 ch8 → p.193 -->
+
+### y2v11 p.194–198 — Epilogue: The morning alone
+[scene] (p.194) A few days after the exchange meeting; usual morning — but he leaves alone, 20 minutes early; soon February ends; Kei's problem waits; Ichinose's problem needs revisiting; one unexpected problem arose that wasn't in the plan.
+[note] (p.194) “One problem arose that wasn't in the plan. That forced me to, in turn, make changes. There would be some negative effects as a result, but not all changes would be bad.” — the narration hints at an unnamed complication.
+[says:horikita-suzune] (p.195) “You're early.”
+[says:horikita-suzune] (p.195) “Good morning, Ayanokōji-kun.”
+[says:horikita-suzune] (p.195) “In a way? That's a scary way to put it.”
+[says] (p.195) “There's nothing to be wary of.”
+[says] (p.195) “I wanted to have a meaningless conversation with you, unrelated to our interests.”
+[says:horikita-suzune] (p.195) “Huh? Sorry, I don't understand. What do you mean?”
+[says:horikita-suzune] (p.195) “Forever is an exaggeration. Sure, that's true, but we still have over a year until graduation, right? We don't have to arrange meetings like this, I can chat anytime.”
+[says] (p.195) “What if I were to be expelled at the end-of-year exam?”
+[note] (p.195) She laughs a little at her own words — a serious answer, then amusement, back and forth.
+[says:horikita-suzune] (p.196) “Then why don't you try to remember more common sense questions? You're good at studying.”
+[says] (p.196) “So, can you memorize game and anime terms as effectively as studying for other subjects?”
+[says:horikita-suzune] (p.196) “Don't worry. From a class perspective, your existence is essential. Even if you struggle with common sense questions, I'll always back you up. In other words, you won't be expelled.”
+[says] (p.196) “That's reassuring.”
+[says] (p.196) “Do you really worry about your own expulsion? It doesn't seem like it. What's the real issue?”
+[says:horikita-suzune] (p.196) “Actually, I'm not worried about myself, but about the possibility of your expulsion.”
+[says:horikita-suzune] (p.196) “In reality, that seems more likely.”
+[note] (p.196) She expects several dropouts in the end-of-year exam; the school's annual ten-dropout target; the prior year had none, so one was forced; the government is involved in the school's operation; second-years had been spared.
+[says:horikita-suzune] (p.197) “Haha, you invited me to chat, but in the end, we're talking about the exam.”
+[says:horikita-suzune] (p.197) “Right. There's no point in calling you here if it's like this. Alright, let's end the discussion about the exam.”
+[says:horikita-suzune] (p.197) “I heard about the results from Kushida, it seems you fought well, but you lost.”
+[says:horikita-suzune] (p.197) “She's really strong, isn't she? Even if we fought two against one, we still couldn't win in the end.”
+[says:horikita-suzune] (p.197) “You should be able to have a better fight next time.”
+[says] (p.198) “I'll think about it.”
+[note] (p.194–198) The special-training aftermath: Horikita expects a few expulsions; he decides to cooperate when needed; Horikita promises she'll always back him; the two laugh at the shared absurdity; the conversation never stops being about the exam.
+[rel:horikita-suzune] (p.194–198) The walk to school together; the end-of-year exam stakes; the promise of a backup.
+[rel:karuizawa-kei] (p.194) The Kei problem; nothing special needed; he'll proceed with it as originally planned.
+[rel:ichinose-honami] (p.194) The Ichinose problem; some adjustments may be needed; he can decide after the end-of-year exam results.
+
+### y2v11 p.199–204 — Epilogue: The betrayal Hashimoto hides
+[scene] (p.199) Back to a few weeks earlier — when Hashimoto came to his room asking for help shortly before the exchange meeting; the night before everything.
+[says:hashimoto-masayoshi] (p.199) “...Before I tell you what's next, there's something I really need to confirm with you.”
+[says:hashimoto-masayoshi] (p.199) “I've been tempted to betray Ryūen since before the previous special exam. Not just temporarily teaming up, but moving classes based on that premise.”
+[says:hashimoto-masayoshi] (p.199) “Of course, I didn't take such an invitation seriously at first. However, right after that, I heard from Ryūen that if I didn't move classes, I'd definitely regret it at the end of the school year.”
+[says] (p.200) “Regret? Is it because Ryūen himself is confident that he'll win?”
+[says:hashimoto-masayoshi] (p.200) “It seems that even you don't know about the content of the bet that Ryūen and Sakayanagi agreed on.”
+[says] (p.200) “A bet, huh? I don't know if it applies, but I've heard a little about the exchange in the last deserted island exam. Unfortunately, I don't know the details.”
+[says:hashimoto-masayoshi] (p.202) “I'm glad. Then there was a reason for me to come here.”
+[says:hashimoto-masayoshi] (p.202) “It's not unreasonable to doubt the bet itself, right? No matter how you look at it, Sakayanagi is at a disadvantage.”
+[says] (p.202) “That's true. However, Sakayanagi wouldn't choose to reject the bet just because of the disadvantage.”
+[says:hashimoto-masayoshi] (p.202) “Both are possible, but the details of the bet will eventually come to light. Considering that, it must be the latter. She must've allowed Ryūen to accumulate private points.”
+[says:hashimoto-masayoshi] (p.202) “Who else knows about this bet besides you and the parties involved?”
+[says:hashimoto-masayoshi] (p.202) “Unless Ryūen was lying, no one. You're the fourth. Well, both would hate to lose the bet by having it leaked.”
+[says:hashimoto-masayoshi] (p.202) “It took a while... for this day to come.”
+[says:hashimoto-masayoshi] (p.202) “Whether Sakayanagi wins or Ryūen wins, honestly, I couldn't make a judgment... No, I was kinda thinking that Sakayanagi might win.”
+[says:hashimoto-masayoshi] (p.202) “But even then, it's like 55 to 45. Seriously, it's not decisive, is it?”
+[says:hashimoto-masayoshi] (p.202) “So I've been looking for a decisive factor, and what I thought that would be was—”
+[says] (p.203) “Me?”
+[says:hashimoto-masayoshi] (p.203) “If you were to follow Sakayanagi, I would've been ready to die with my current class without hesitation. That's why I advised Sakayanagi... to recruit you as an ally.”
+[says:hashimoto-masayoshi] (p.203) “I will make Ryūen win. No matter what the content of the end-of-year special exam is, I will thoroughly assist them. If I miss this opportunity, I will most likely be the one to disappear.”
+[says:hashimoto-masayoshi] (p.203) “If Sakayanagi had followed my instructions, whether that would be before or after I betrayed her in the previous special exam, I was planning to betray Ryūen and join her at the end of the year.”
+[says] (p.203) “It's fine if you want to make Ryūen win, but did you propose the same thing to him as you did to Sakayanagi?”
+[says:hashimoto-masayoshi] (p.203) “You mean about recruiting you? Yes, of course. The answer was the same as Sakayanagi's, but there was a condition. If we could defeat Sakayanagi in the end-of-year exam, he would recruit the both of us to his class.”
+[says:hashimoto-masayoshi] (p.204) “What do you want from me?”
+[note] (p.199–204) The whole betrayal arc: the bet; Hashimoto's 55–45 denial; the decisive-factor hunt; Sakayanagi refused to recruit him; he betrays her anyway; the 20M-points safety net he claims Ryūen offered; he expects to disappear if he fails; he smiles nervously.
+[rel:hashimoto-masayoshi] (p.199–204) The flashback reveals the entire mechanism — the bet, the class move, the 20M, the timing.
+[rel:sakayanagi-arisu] (p.199–204) She refused his recruitment of him; that refusal explains everything that followed.
+[rel:ryuuen-kakeru] (p.199–204) Hashimoto claims he would recruit the both of them for 20M; Ryūen's promise is shallow but Hashimoto hunted for it himself.
+
+### y2v11 p.209 — Epilogue: The bet is sealed
+[scene] (p.209) The career counseling room; two students and two homeroom teachers; the loser will voluntarily drop out; the exam will decide everything.
+[note] (p.205–209) Sakayanagi and Ryūen acknowledge the contract; both teachers understand it; the loser will disappear; the end-of-year special exam begins with stakes set on expulsion and no escape.
+[note] (p.208) The Protection Point is meaningless if they voluntarily withdraw; he fills the gap with additional private points, kept to a minimum; the bet is serious, not a joke.
+[note] (p.209) “Please don't hope for a draw to invalidate the bet, okay?” — the Ryūen proposal; Sakayanagi agrees to the lottery clause; the exchange begins with the end-of-year special exam.
+[rel:sakayanagi-arisu] (p.205–209) She bets everything she has on herself; she stakes Kamuro's ghost as witness.
+[rel:ryuuen-kakeru] (p.205–209) He puts on the show; he bets he beats her; his hatred is real; his resolve is worse.
+[rel:mashima-tomonari] (p.205–209) He witnesses the contract; he knows what it means; he says nothing now.
+[rel:sakagami] (p.205–209) He witnesses the contract with a Protection Point caveat; he knows what it means; he says nothing now.
+
+<!-- walk: y2v11 Epilogue → p.223 -->

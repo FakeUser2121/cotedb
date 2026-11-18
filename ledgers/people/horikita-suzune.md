@@ -4683,4 +4683,41 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ibuki-mio] (p.185–188) The two-on-one plan; they fight side by side; they lose together.
 [rel:amasawa-ichika] (p.185–188) The island debt; the grudge; the rematch.
 
+
 <!-- walk: y2v11 ch8 → p.193 -->
+
+### y2v11 p.194–198 — Epilogue: The morning alone
+[scene] (p.194) A few days after the exchange meeting; she waits alone in the cold morning; he sees her from the corner of his eye and approaches.
+[says] (p.195) “Good morning, Ayanokōji-kun.”
+[says] (p.195) “You're early.”
+[says] (p.195) “In a way? That's a scary way to put it.”
+[says:ayanokouji-kiyotaka] (p.195) “I often talk to you about special exams and class-related matters, but sometimes I want to talk about things that have nothing to do with that.”
+[says] (p.195) “Forever is an exaggeration. Sure, that's true, but we still have over a year until graduation, right? We don't have to arrange meetings like this, I can chat anytime.”
+[says:ayanokouji-kiyotaka] (p.195) “What if I were to be expelled at the end-of-year exam?”
+[says] (p.195) “That's a jump. I don't think you'll be expelled. But seeing how easily you get common sense questions wrong, maybe there's a possibility...”
+[says] (p.195) “Are you really worried that you might be expelled? Is that why you wanted to talk so early in the morning...?”
+[says:ayanokouji-kiyotaka] (p.195) “The last special exam has become a bit of a trauma for me.”
+[says] (p.196) “Then why don't you try to remember more common sense questions? You're good at studying.”
+[says:ayanokouji-kiyotaka] (p.196) “So, can you memorize game and anime terms as effectively as studying for other subjects?”
+[says] (p.196) “Don't worry. From a class perspective, your existence is essential. Even if you struggle with common sense questions, I'll always back you up. In other words, you won't be expelled.”
+[says] (p.196) “Actually, I'm not worried about myself, but about the possibility of your expulsion.”
+[says] (p.196) “In reality, that seems more likely.”
+[says] (p.196) “That many?”
+[says:ayanokouji-kiyotaka] (p.196) “To comply with the government's policy, they'll make the rules more strict?”
+[says] (p.196) “Last year, because there were no dropouts, it was forcibly changed from zero to one expulsion. I wouldn't be surprised if several people will get expelled in the upcoming end-of-year exam.”
+[says] (p.196) “Aren't you overthinking...?”
+[says] (p.196) “In that case, I guess so. I'd like you to work hard too.”
+[says] (p.196) “That's a rather unusual answer for you. Between the special training and now, you've been a bit too cooperative lately. Even with the Amasawa-san situation, you didn't look displeased even once.”
+[says] (p.197) “I heard about the results from Kushida, it seems you fought well, but you lost.”
+[says] (p.197) “She's really strong, isn't she? Even if we fought two against one, we still couldn't win in the end.”
+[says] (p.197) “You should be able to have a better fight next time.”
+[says:ayanokouji-kiyotaka] (p.197) “Ibuki-san said she wouldn't team up with me again.”
+[says] (p.197) “It's fine. She forgets things quickly.”
+[says:ayanokouji-kiyotaka] (p.198) “She's my ex-girlfriend.”
+[says:ayanokouji-kiyotaka] (p.198) “It was a bad joke.”
+[says] (p.198) “Someday, I want to hear the truth from your own mouth, Ayanokōji-kun.”
+[says] (p.198) “I'm not.”
+[note] (p.194–198) She expects several dropouts in the end-of-year exam; the government's annual 10-dropout target; she promises she'll always back him; she laughs at the bad ex-girlfriend joke; the conversation never stops being about the exam.
+[rel:ayanokouji-kiyotaka] (p.194–198) The morning walk; the exam stakes; the promise of backup; the bad joke.
+
+<!-- walk: y2v11 Epilogue → p.223 -->

@@ -409,3 +409,30 @@ char_id: morishita-ai · class: Class 2-A · status: unknown
 [note] (p.161) The group takes four of five; her six points hang in the air; Kiyotaka says the groups will aim higher tomorrow.
 
 <!-- walk: y2v11 ch6 → p.167 -->
+
+### y2v11 p.218–220 — Short Story: Please Listen in My Stead
+[scene] (p.218) Morishita's POV on the voice-of-the-forest prank; she explains her real reason for staying behind.
+[note] (p.218) The exchange meeting was already on its third day — the line is printed as “HE EXCHANGE MEETING was already on its third day.” in the source (a drop-cap artifact of the translation layout); kept as printed.
+[narrates] (p.218) “I was keeping my eye on Ayanokōji Kiyotaka to track Hashimoto Masayoshi's movements, and by chance, we happened to be in the same group.”
+[narrates] (p.218) “I wondered if those two had connected.”
+[narrates] (p.218) “Have they decided to team up, or is it just me needlessly worrying? I wanted to know.”
+[narrates] (p.218) “Not to protect Sakayanagi Arisu, nor to protect Class A. I did it for myself. And to satisfy the approaching needs for esteem.”
+[narrates] (p.218) “Surely, detectives who came across murder scenes must've been fighting such impulses every day.”
+[says] (p.218) “It's almost time for the exchange meeting.”
+[narrates] (p.218) “I heard a voice from behind.”
+[narrates] (p.220) ““Could you please be quiet? I was listening to the voice of the forest.” I shook off the disturbance from behind and focused my attention.”
+[narrates] (p.220) “How noisy. It seemed he fell into the trap I set, but he was a bit of a nuisance right now.”
+[narrates] (p.220) ““...Huh? The voice of the forest? What is that?””
+[narrates] (p.220) ““Don't you understand? The forest is alive.” I continued to give a simple explanation.”
+[narrates] (p.220) ““...I see?” It seems he didn't get it.”
+[narrates] (p.220) “Well, that was fine. It seemed I'd successfully lured him out.”
+[narrates] (p.220) “Ayanokōji Kiyotaka was a very interesting existence.”
+[narrates] (p.220) “No matter how close I got, I couldn't see his true nature as a human being.”
+[narrates] (p.220) “The line between how much was serious and how much was a joke wasn't clear.”
+[narrates] (p.220) “I wanted to know. I wanted to know more about him. I couldn't help but want to know.”
+[narrates] (p.220) “Let's have him listen to the voice of the forest instead of me.”
+[rel:ayanokouji-kiyotaka] (p.218–220) The mystery hunt; the prank; her real motive — curiosity; the esteem-needs.
+[rel:hashimoto-masayoshi] (p.218) The person she tracks through Kiyotaka; she needs to know if they've connected.
+[rel:sakayanagi-arisu] (p.218) Explicitly NOT her motive — not to protect Sakayanagi nor Class A.
+
+<!-- walk: y2v11 Epilogue → p.223 -->

@@ -412,3 +412,14 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 
 <!-- walk: y2v11 → start -->
 
+### y2v11 p.205–209 — Epilogue: The witness
+[scene] (p.205) The career counseling room; he stands with arms crossed in confusion; he does not know what is happening; he is asked to wait.
+[says:mashima-tomonari] (p.205) “What are you planning to talk about? And with whom?”
+[says:mashima-tomonari] (p.207) “You seem to be moving the conversation along on your own, but could you explain the situation?”
+[says:mashima-tomonari] (p.208) “Are both of you really okay with this? If we agree, we will have to enforce the expulsion forcibly based on the end-of-year results. Both of you are in important positions; you two play the leader role in your classes. Major disruption is inevitable.”
+[note] (p.207) He remembers the story Sakayanagi told him before — Ayanokōji as a childhood friend; he stays silent.
+[note] (p.208) The Protection Point is meaningless; the withdrawal voids the contract; he knows what the contract means; he says nothing now.
+[rel:sakayanagi-arisu] (p.205–209) The homeroom teacher witnessing the contract; the Protection Point; the end-of-year exam.
+[rel:ryuuen-kakeru] (p.205–209) The homeroom teacher witnessing the contract; the end-of-year exam.
+
+<!-- walk: y2v11 Epilogue → p.223 -->

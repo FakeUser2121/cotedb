@@ -1508,6 +1508,11 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [note] (p.16–17) The father first told her a proxy would attend; then called to say he would come himself; he wants notice of any change to the whole class's schedule.
 [rel:ayanokouji-kiyotaka] (p.11–18) She interviews him as homeroom teacher; he gives no complaints and no plans; she takes his word at face value.
 
+### y2v11 p.15 — Ch.1: The unpleasant question
+[scene] (p.15) The interview runs long; she presses about his future; he gives nothing.
+[says] (p.15) “I'm sorry. That might have been an unpleasant question.”
+[note] (p.15) She sails past her own discomfort; the interview is done for today.
+
 <!-- walk: y2v11 ch1 → p.33 -->
 
 ### y2v11 p.35–45 — Ch.2: Her briefing on the bus
@@ -1527,3 +1532,37 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:ayanokouji-kiyotaka] (p.35–45) She runs the briefing; the routine turns to her exchange-meeting rules.
 
 <!-- walk: y2v11 ch2 → p.84 -->
+
+### y2v11 p.214–217 — Short Story: The Student in Front of Me
+[scene] (p.214) Chabashira's POV on the two-person interviews; she remembers the two oddballs — Kōenji first, Ayanokōji last.
+[says] (p.214) “Phew... Kōenji is such a troublesome student.”
+[narrates] (p.214) “His career aspiration was to be a free person, he didn't need human relationships, his only concerns were about improving his own body, and so on.”
+[says] (p.214) “If I submit this, who knows what the higher-ups will say.”
+[narrates] (p.214) “The last one left was Ayanokōji, who could be equally as troublesome as Kōenji.”
+[narrates] (p.214) “Honestly, I couldn't imagine what kind of one-on-one meeting it would be.”
+[says] (p.214) “You're finally here. Have a seat.”
+[says] (p.214) “As a homeroom teacher, I can't help but be busy during this time. But I feel a little better knowing that the two-person interviews will be over today. It was a good decision to leave the two oddballs for last.”
+[says] (p.214) “Two oddballs, you say?”
+[says] (p.215) “Do you think Kōenji is more of an oddball? Well, I can understand why you'd think that, but to me, there's not much difference. You're quite the oddball yourself.”
+[narrates] (p.215) “One thing was for certain, he didn't want to be compared to Kōenji.”
+[says] (p.215) “Well, I don't have many opportunities to talk with each student. Before we talk about your future plans, let's talk about your school life. If there's anything you want the school to improve, I'd like to hear it.”
+[says] (p.215) “I don't have anything in particular. As an individual, I'm satisfied.”
+[says] (p.215) “I see. Do you have any trouble in your relationships with friends, or anything you want to consult about?”
+[says] (p.215) “I don't.”
+[narrates] (p.215) “He was definitely an oddball. Unlike Kōenji, he was concise and efficient, but like Kōenji, he lacked substance.”
+[says] (p.217) “Chabashira-sensei, you've changed quite a bit too.”
+[narrates] (p.217) “I felt as if Ayanokōji was interviewing me, which was strange.”
+[says] (p.217) “I don't think I've changed. But I might've become more honest than before.”
+[narrates] (p.217) “The student in front of me is a whole generation younger than me. Yet, why does he sometimes seem like someone who's lived as long or even longer than me? It took courage for me to accept this feeling.”
+[narrates] (p.217) “A teacher's gaze upon the children in the class must always be equal.”
+[narrates] (p.217) “Ayanokōji would casually cross that boundary. There were times when I felt like I wanted him to know my weaknesses.”
+[narrates] (p.217) “Though, this was originally the feeling that we wanted students to have toward their teachers.”
+[says] (p.217) “... Anyway. If there's anything you're concerned about in your school life, don't hesitate to tell me.”
+[narrates] (p.217) “I cleared my throat to dispel unnecessary thoughts.”
+[narrates] (p.217) “The person in front of me now was an important student. Nothing more, nothing less.”
+[says] (p.217) “I'd like to know whether you're hoping to go on to higher education or get a job. If you've made up your mind, please tell me.”
+[narrates] (p.217) “I decided to move the conversation forward to distract myself from that strange feeling.”
+[rel:ayanokouji-kiyotaka] (p.214–217) She interviews him as homeroom teacher; he crosses the teacher-student boundary casually; she distracts herself with the meeting mechanics.
+[rel:kouenji-rokusuke] (p.214–215) The other oddball; the two troublemakers for last.
+
+<!-- walk: y2v11 Epilogue → p.223 -->

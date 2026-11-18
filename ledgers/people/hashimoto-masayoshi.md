@@ -1094,6 +1094,34 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [note] (p.168–169) “Eh? Hey, it's past lights-out, you know? If they find you, you'll get in trouble.” — speaker unattributed in the text; the lights are off; he stays behind as Kiyotaka slips out.
 
 <!-- walk: y2v11 ch7 → p.181 -->
+
+### y2v11 p.199–204 — Epilogue: The betrayal Hashimoto hides
+[scene] (p.199) Back to a few weeks earlier — his room visit to ask for help shortly before the exchange meeting began; the night before everything.
+[says] (p.199) “...Before I tell you what's next, there's something I really need to confirm with you.”
+[says] (p.199) “I've been tempted to betray Ryūen since before the previous special exam. Not just temporarily teaming up, but moving classes based on that premise.”
+[says] (p.199) “Of course, I didn't take such an invitation seriously at first. However, right after that, I heard from Ryūen that if I didn't move classes, I'd definitely regret it at the end of the school year.”
+[says:ayanokouji-kiyotaka] (p.200) “Regret? Is it because Ryūen himself is confident that he'll win?”
+[says] (p.200) “It seems that even you don't know about the content of the bet that Ryūen and Sakayanagi agreed on.”
+[says] (p.202) “It's not unreasonable to doubt the bet itself, right? No matter how you look at it, Sakayanagi is at a disadvantage.”
+[says] (p.202) “Both are possible, but the details of the bet will eventually come to light. Considering that, it must be the latter. She must've allowed Ryūen to accumulate private points.”
+[says] (p.202) “Who else knows about this bet besides you and the parties involved?”
+[says] (p.202) “Unless Ryūen was lying, no one. You're the fourth. Well, both would hate to lose the bet by having it leaked.”
+[says] (p.202) “It took a while... for this day to come.”
+[says] (p.202) “Whether Sakayanagi wins or Ryūen wins, honestly, I couldn't make a judgment... No, I was kinda thinking that Sakayanagi might win.”
+[says] (p.202) “But even then, it's like 55 to 45. Seriously, it's not decisive, is it?”
+[says] (p.202) “So I've been looking for a decisive factor, and what I thought that would be was—”
+[says:ayanokouji-kiyotaka] (p.203) “Me?”
+[says] (p.203) “If you were to follow Sakayanagi, I would've been ready to die with my current class without hesitation. That's why I advised Sakayanagi... to recruit you as an ally.”
+[says] (p.203) “I will make Ryūen win. No matter what the content of the end-of-year special exam is, I will thoroughly assist them. If I miss this opportunity, I will most likely be the one to disappear.”
+[says] (p.203) “If Sakayanagi had followed my instructions, whether that would be before or after I betrayed her in the previous special exam, I was planning to betray Ryūen and join her at the end of the year.”
+[says] (p.203) “You mean about recruiting you? Yes, of course. The answer was the same as Sakayanagi's, but there was a condition. If we could defeat Sakayanagi in the end-of-year exam, he would recruit the both of us to his class.”
+[says] (p.204) “What do you want from me?”
+[note] (p.199–204) The whole mechanism — the bet, the class move, the 20M-points safety net he claims Ryūen offered; Sakayanagi refused to recruit him; he betrays her anyway; he smiles nervously.
+[rel:ayanokouji-kiyotaka] (p.199–204) The night before; the full confession; the bet's 55–45 denial; the decisive factor is him.
+[rel:sakayanagi-arisu] (p.199–204) She refused his recruitment of him; that refusal explains everything.
+[rel:ryuuen-kakeru] (p.199–204) Hashimoto claims Ryūen would recruit both of them; the 40-million-price; the shallow lie; the 20M-points safety net.
+
+<!-- walk: y2v11 Epilogue → p.223 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->
