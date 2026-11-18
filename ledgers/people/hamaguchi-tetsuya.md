@@ -109,6 +109,20 @@ char_id: hamaguchi-tetsuya · class: Class 1-B · status: minor
 [note] (p.69) No line is printed for him on these pages.
 
 <!-- walk: y2v12 ch3 → p.86 -->
+
+### y2v12 p.94–98 — Ch.4: The vanguard battle
+[scene] (p.94) He and Hirata sit facing each other in the special building's examination room, one adult observing from a corner, no second-year homeroom teacher present; he probes skeptically; passes in round one.
+[says] (p.94) “It’s a tough exam. Even you don’t seem to understand it right away, Hirata-kun. Right?”
+[says] (p.94) “...Alright.”
+[scene] (p.96) In the third round he gambles: knowing Nakanishi isn't the overacting type, he nominates him as an honor student — a reckless nomination driven by impatience that pays off; Hirata loses three lives.
+[scene] (p.97) Yukimura claims to be a graduate; both vanguards lose one life each on incorrect nominations.
+[says] (p.97) “Yeah. Of course, I understand.”
+[scene] (p.98) With no progress possible in the deadlocked discussion, Hirata gambles an incorrect nomination in the eighth round and is eliminated; Hamaguchi wins by holding on.
+[note] (p.98) His victory rests on exactly one successful nomination — Nakanishi, round three.
+[rel:nakanishi] (p.96) Identifies him as an honor student on impatience and a read of his restraint; it works.
+[rel:hirata-yousuke] (p.94–98) Cautious mirror-image duel; no blow lands until Hirata's eighth-round miss.
+
+<!-- walk: y2v12 ch4 → p.100 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

@@ -344,11 +344,16 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — satou-maya mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.91-92, p.106, p.110, p.169, p.177; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.91–93 — Ch.4: Into the first discussion
+[scene] (p.91) She is the other student called into the first discussion — hurrying to join Karuizawa at the door; on the way she asks Yukimura for advice on what to do in the discussion.
+[says] (p.91) “Hey Yukimura-kun, what should we do?”
+[says] (p.91) “That’s true, but… we still don’t quite understand what ‘best’ means...”
+[note] (p.91) The speaker of the second line is not tagged in the translation; it is written under Satō as the one who had been asking Yukimura for advice; the TL NOTE printed beside it concerns the word "best" (最善).
+[scene] (p.92–93) She and Karuizawa fidget nearby; answers hang untagged — one of the pair has played Werewolf a few times, the other hasn't, and asks whether there is a trick; Karuizawa then explains it to her; they sit together trying to be close.
+[rel:yukimura-teruhiko] (p.91–93) She leans on his experience as a regular student; he gives them both advice.
+[rel:karuizawa-kei] (p.91–93) The two are drawn into the same first discussion; she is the still-visible half of the pair.
 
+<!-- walk: y2v12 ch4 → p.100 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

@@ -37,11 +37,13 @@ char_id: azuma-sana · class: unknown · status: unknown
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — azuma-sana mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.91, p.97; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.91, 97 — Ch.4: First-discussion participant for Class B
+[scene] (p.91) Named in the first-discussion participant list for Class B.
+[note] (p.91) No dialogue is printed for her on these pages.
+[scene] (p.97) In the third round, the remaining honor student dismisses her from the room — forced out along with Ōnuki and Makita.
+[note] (p.97) Her role is never disclosed; her exit comes during the honor student's dismissal chain.
 
+<!-- walk: y2v12 ch4 → p.100 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

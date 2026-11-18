@@ -39,10 +39,8 @@ char_id: minami-hakuo · class: unknown · status: unknown
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — minami-hakuo mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.91, p.137; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.91 — Ch.4: First-discussion participant for Class B
+[scene] (p.91) Named in the first-discussion participant list for Class B — one of the seven B participants in the exam's opening discussion.
+[note] (p.91) No dialogue or action is printed for him on these pages; which of the two Minami roster members this is cannot be established from these pages alone.
 
-
-
+<!-- walk: y2v12 ch4 → p.100 -->

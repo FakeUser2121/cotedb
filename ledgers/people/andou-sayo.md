@@ -44,10 +44,8 @@ char_id: andou-sayo · class: unknown · status: unknown
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — andou-sayo mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.15-16, p.72-73, p.76, p.91, p.127, p.155; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.91 — Ch.4: First-discussion participant for Class D
+[scene] (p.91) Named in the first-discussion participant list for Class D — one of the seven D participants in the exam's opening discussion.
+[note] (p.91) No dialogue or action is printed for her on these pages; her role is never disclosed.
 
-
-
+<!-- walk: y2v12 ch4 → p.100 -->

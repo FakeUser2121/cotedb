@@ -3685,6 +3685,17 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v12 ch3 → p.86 -->
 
+### y2v12 p.99–100 — Ch.4: After Hirata's defeat
+[scene] (p.99) In the waiting room, she hears the announcement: Hamaguchi's victory, Hirata eliminated, middle guards — herself and Kanzaki — to prepare; she tells Ayanokōji “I’ll be going now.”
+[says] (p.99) “I’ll be going now.”
+[scene] (p.100) In the changeover she meets Hirata face-to-face; “I can somewhat guess the situation. There’s no need for you to feel down.” — the tone she gives a defeated classmate before her own battle.
+[says] (p.100) “I can somewhat guess the situation. There’s no need for you to feel down.”
+[scene] (p.100) She asks him what he noticed; he shares the timing-of-attack insight; she thanks him and tells him to rest; then she takes a breath and opens the door of the room where Hamaguchi is waiting.
+[says] (p.100) “Did you notice anything?”
+[says] (p.100) “Thank you. You should rest for now.”
+[rel:hirata-yousuke] (p.99–100) She receives his apology without resentment; his vanguard defeat is not his failure in her eyes — it is the exam's nature.
+
+<!-- walk: y2v12 ch4 → p.100 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

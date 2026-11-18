@@ -113,6 +113,12 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 [rel:yamamura-miki] (p.47) His information source for the names he recites; he refuses to reveal who told him.
 
 <!-- walk: y2v12 ch2 → p.62 -->
+
+### y2v12 p.87–88 — Ch.4: The question on everyone's lips
+[scene] (p.87–88) In the unfamiliar examiners' explanations in the participants' rooms, she asks the question the whole class is thinking — what are the victory conditions for the representatives — on behalf of her classmates; the examiner answers that there is no point in trying to guess, and that the answers are sealed until the exam is over.
+[note] (p.88) Shinohara also complains here that they cannot see any progress until the exam is over; the examiner answers him without pause; the explanations rule out any guessing strategy outright.
+
+<!-- walk: y2v12 ch4 → p.100 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

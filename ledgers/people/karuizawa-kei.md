@@ -1475,6 +1475,18 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [note] (p.46) No direct dialogue from Kei is printed on these pages; her role is the relay that makes the Matsushita meeting happen.
 
 <!-- walk: y2v12 ch2 → p.62 -->
+
+### y2v12 p.91–95 — Ch.4: First into the discussion, first out
+[scene] (p.91) Called into the first discussion; she hurries from her bored phone-less seat; Satō joins her; on the way they seek Yukimura's advice; in the room they try to sit as close as possible, sandwiching Shibata from Class D.
+[says] (p.91) “Ah, I’m first... Maya-chan too...”
+[scene] (p.92) The two girls' answers are untagged — one has played a few times, the other hasn't; Karuizawa seems to be the one who picks it up and explains it to Satō; she vaguely understands ("Ah, I can see that. Where you’re looking and so on is important after all.") and explains it to Satō.
+[says] (p.92) “Ah, I can see that. Where you’re looking and so on is important after all.”
+[scene] (p.95) In the first round, the honor student nominates Karuizawa to leave; she quietly exits the classroom in an instant, before frustration can even surface — gone after one round, without ceremony.
+[note] (p.95) She never learns what her role was — nominated out by the honor student, her role is never disclosed.
+[rel:satou-maya] (p.91–93) The pair called first into the discussion; she is removed while Satō remains.
+[rel:shibata-sou] (p.92–93) They try to sandwich him — the seating is the whole plan.
+
+<!-- walk: y2v12 ch4 → p.100 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

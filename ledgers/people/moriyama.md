@@ -78,10 +78,8 @@ char_id: moriyama · status: minor
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — moriyama mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.91; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.91 — Ch.4: First-discussion participant for Class D
+[scene] (p.91) Named in the first-discussion participant list for Class D — one of the seven D participants in the exam's opening discussion.
+[note] (p.91) No dialogue or action is printed for him on these pages; his role is never disclosed.
 
-
-
+<!-- walk: y2v12 ch4 → p.100 -->

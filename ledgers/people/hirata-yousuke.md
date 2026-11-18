@@ -1669,6 +1669,21 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:chabashira-sae] (p.65) She is the homeroom teacher he answered to that morning; the "quiet down" line printed at p.67 has no speaker tag.
 
 <!-- walk: y2v12 ch3 → p.86 -->
+
+### y2v12 p.94–100 — Ch.4: The vanguard battle ends in defeat
+[scene] (p.94) He and Hamaguchi face each other in the special building's examination room, one adult observing; Hirata nods in agreement at Hamaguchi's skepticism; both pass in round one.
+[says] (p.94) “Trying to figure out who’s suspicious makes everyone look suspicious. It’s not easy to decide at first glance.”
+[note] (p.94) The speaker of the line above is not tagged in the translation; it is written under Hirata as the one who had just nodded in agreement.
+[scene] (p.96) Nakanishi's actions seem forced to him — the opposite read from Hamaguchi; he passes; Hamaguchi hits; Hirata is down to two lives.
+[says] (p.96) “Let’s not hold grudges against each other, Hirata-kun.”
+[scene] (p.97) Yukimura claims to be a graduate; Hirata, impatient, nominates — both vanguards are wrong; he plans to nominate Yukimura as a graduate immediately next round, but the room stalls.
+[scene] (p.98) With no information left, in the eighth round he gambles an incorrect nomination; his lives reach zero; he is ordered to leave — he loses the vanguard battle.
+[scene] (p.99–100) He passes Horikita in the recess changeover; apologizes; on her paving probe he shares what he noticed — the timing of the attack could swing the outcome; she sends him to rest.
+[says] (p.99) “I’m sorry, Horikita-san… I couldn’t be of any help…”
+[says] (p.100) “Well, I couldn’t control the content of the discussion, but the timing of the attack, whether to go first or second, could greatly influence the outcome.”
+[rel:hamaguchi-tetsuya] (p.94–98) The mirror-image duel; his only loss-condition is an eighth-round gamble into a deadlocked discussion.
+
+<!-- walk: y2v12 ch4 → p.100 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

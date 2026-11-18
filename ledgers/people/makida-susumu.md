@@ -25,9 +25,9 @@ char_id: makida-susumu · class: unknown · status: unknown
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — makida-susumu: no page hits
-[scene] (p.12) Rostered for this volume.
-[note] (p.12) Page locator found no matches for this name in this volume; possible spelling/alias variant missed. Not read line-by-line.
+### y2v12 p.91, 97 — Makida Susumu: the spelling-variant mention
+[scene] (p.91) Named in the first-discussion participant list as “Makita Susumu” — surname spelled differently from the roster entry.
+[note] (p.91) The printed name is “Makita Susumu”; the roster carries makida-susumu (Makida Susumu, this volume) and makita-takashige (Makita Takashige, different given name). Whether this participant row refers to makida-susumu cannot be established from the pages; it is recorded as an occurrence, not as a confirmed presence by identity.
+[mentioned] (p.91) Passing mention only; identity unconfirmed.
 
-
-
+<!-- walk: y2v12 ch4 → p.100 -->

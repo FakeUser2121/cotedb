@@ -212,11 +212,12 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — shibata-sou mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.91-92; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.91–93 — Ch.4: First-discussion participant for Class D
+[scene] (p.91) Named in the first-discussion participant list for Class D — one of the seven D participants in the exam's opening discussion.
+[scene] (p.92–93) She sits between Karuizawa and Satō — the two Class B girls "sandwiching Shibata from Class D in between them" during the first discussion.
+[note] (p.93) No dialogue is printed for her on these pages; her role is never disclosed.
 
+<!-- walk: y2v12 ch4 → p.100 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
@@ -426,8 +427,3 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 ### y2v11 p.11-223 — shibata-sou: no page hits
 [scene] (p.11) Rostered for this volume.
 [note] (p.11) Page locator found no matches for this name in this volume; possible spelling/alias variant missed. Not read line-by-line.
-
-
-
-
-

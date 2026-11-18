@@ -10,10 +10,10 @@ char_id: onuki-nagisa · class: unknown · status: unknown
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — onuki-nagisa mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.91, p.97; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.91, 97 — Ch.4: First-discussion participant for Class D
+[scene] (p.91) Named in the first-discussion participant list for Class D.
+[note] (p.91) No dialogue is printed for him on these pages.
+[scene] (p.97) In the third round, the remaining honor student dismisses him from the room — forced out along with Makita and Azuma, the honor student’s consecutive dismissals.
+[note] (p.97) His role is never disclosed; his exit comes after Yukimura’s false declaration backfires.
 
-
-
+<!-- walk: y2v12 ch4 → p.100 -->

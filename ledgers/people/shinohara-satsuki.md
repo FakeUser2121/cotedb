@@ -486,12 +486,11 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — shinohara-satsuki mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.88; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.88 — Ch.4: The complaint in the explanation room
+[scene] (p.88) In the unfamiliar examiners' explanations for the participants, a student complains that they cannot see any progress until the exam is over — the examiner answers him without pause.
+[note] (p.88) The printed scene names him only as “Shinohara” — no speaker tag; no other lines of his are printed in this volume.
 
-
+<!-- walk: y2v12 ch4 → p.100 -->
 ## y3v1
 
 <!-- walk: y3v1 → start -->

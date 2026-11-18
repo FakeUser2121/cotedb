@@ -859,11 +859,20 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — yukimura-teruhiko mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.91-93, p.95, p.97; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.91–93 — Ch.4: The first to act in the discussion
+[scene] (p.91) Called into the first discussion; he offers advice to Satō and Karuizawa on the way; he openly works at getting an opening, launching an offensive attack by naming Nakanishi.
+[says] (p.91) “Just follow the instructions.”
+[says] (p.92) “Maybe... it’s not just you guys who are nervous and panicking.”
+[says] (p.92) “You’ve played the Werewolf game before, right?”
+[says] (p.92) “…I’m fine…”
+[scene] (p.93) First to speak in the discussion; asks Nakanishi to confirm he is not an honor student; launches the opening offensive that rapidly unravels.
+[says] (p.93) “Let’s get to it. Can you confirm that you aren’t an honor student, Nakanishi?”
+[says] (p.93) “Sorry, but you were the first one I made eye contact with.”
+[scene] (p.97) In the fourth round he declares himself a graduate — a bluff; claims his checks found only regular students; his false claim fails, costing both representatives one life each; dismissed in the same round he gambled in.
+[note] (p.97) He “wasn’t a graduate” — an honor student beat the monitor; the page records his pretense as a bid to break the stalemate and hunt the honor student.
+[rel:nakanishi] (p.93) He names him first to the room; the provocation leads the discussion off the rails.
 
+<!-- walk: y2v12 ch4 → p.100 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
@@ -1009,4 +1018,3 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 ### y2v11 p.11-223 — yukimura-teruhiko: no page hits
 [scene] (p.11) Rostered for this volume.
 [note] (p.11) Page locator found no matches for this name in this volume; possible spelling/alias variant missed. Not read line-by-line.
-
