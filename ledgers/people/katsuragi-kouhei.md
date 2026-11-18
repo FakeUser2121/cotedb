@@ -535,6 +535,7 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 ### y1v7.5 p.84 — Ch.4: the Class A contract remembered
 [scene] (p.84) Internal recall only while Ayanokōji weighs Ryuuen’s price.
 [note] (p.84) Passing mention: “I thought about his contract with Katsuragi. Ryuuen was happy to slip a hand into his opponent’s pocket.”
+[mentioned] (p.84) Passing mention only.
 [rel:ryuuen-kakeru] (p.84) The island contract that still shapes Class C’s point math.
 
 
@@ -557,6 +558,7 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 ### y1v8 p.102 — Ch.3: named as Yahiko’s deference model
 [scene] (p.102) Not at the card table; named when Yahiko’s calm under senior pressure is explained.
 [note] (p.102) Passing mention: Yahiko “was used to treating Katsuragi with the deference due an older student.”
+[mentioned] (p.102) Passing mention only.
 [rel:totsuka-yahiko] (p.102) Explains why Yahiko stays relatively calm beside third-years in Old Maid.
 
 <!-- walk: y1v8 ch3 → p.109 -->
@@ -808,6 +810,7 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [scene] (p.213–218) Named in the Ryūen meeting context.
 [scene] (p.276) Named in the class meeting context.
 [note] (p.66, 213–218, 276) Passing mentions; not a distinct scene presence.
+[mentioned] (p.66, 213–218, 276) Passing mention only.
 
 <!-- walk: y2v3 Ch.6 → p.276 -->
 

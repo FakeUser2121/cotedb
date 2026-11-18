@@ -823,6 +823,7 @@ aliases used for anchors: sakura, airi, sakura-san
 ### y1v7.5 p.71 — Ch.3: named in the feelings talk
 [scene] (p.71) Phone-call topic only — Haruka’s warning about Airi seeing Ayanokōji with Satou.
 [note] (p.71) Passing mention: “If Airi sees you and Satou-san on a Christmas date, chances are she’ll faint, Kiyopon.”
+[mentioned] (p.71) Passing mention only.
 [rel:hasebe-haruka] (p.71–72) Haruka will handle Airi and move her own party.
 [rel:ayanokouji-kiyotaka] (p.71) Feelings he acknowledges are not what she feels for most people; a baby bird leaving the nest.
 
@@ -845,7 +846,9 @@ aliases used for anchors: sakura, airi, sakura-san
 ### y1v7.5 p.112, 142 — Ch.5: named in the safety net
 [scene] (p.112) Named as the person Haruka is keeping away from the date; p.142 as the same answer Ayanokōji would give her.
 [note] (p.112) Passing mention: Haruka’s plan so Airi would not bump into the date — Ayanokōji notes a four-person look would be more natural.
+[mentioned] (p.112) Passing mention only.
 [note] (p.142) Passing mention: “I’d give Airi the same answer if she ever decided to tell me about her feelings.”
+[mentioned] (p.142) Passing mention only.
 [rel:ayanokouji-kiyotaka] (p.112, 142) The feelings he would refuse with the same “not ready” line.
 [rel:hasebe-haruka] (p.112) The cover afternoon still in force.
 
@@ -858,6 +861,7 @@ aliases used for anchors: sakura, airi, sakura-san
 ### y1v8 p.11–43 — Ch.2: named in the Ayanokōji Group chat
 [scene] (p.11) Not on the bus dialogue line; named in the group chat Ayanokōji checks after texting Horikita and Kei.
 [note] (p.30) Passing mention: “Keisei, Akito, and even Airi and Haruka all happily discussed the exam.”
+[mentioned] (p.30) Passing mention only.
 [rel:ayanokouji-kiyotaka] (p.32) Listed among the friends he hopes will not be expelled.
 
 [note] (p.76) Chapter ends with the group-chat mention; no further pages this chapter.
@@ -1176,6 +1180,7 @@ aliases used for anchors: sakura, airi, sakura-san
 ### y2v9 p.44 — Sakura mentioned in the study group context
 [scene] (p.44) Named in Horikita's speech — she references Sakura-san's withdrawal as mental pressure on the class.
 [note] (p.44) Passing mention only; not a scene presence.
+[mentioned] (p.44) Passing mention only.
 
 <!-- walk: y2v9 Ch.2 → p.44 -->
 

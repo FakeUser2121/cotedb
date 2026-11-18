@@ -19,6 +19,7 @@ char_id: matsuo-eiichirou · role: former butler to Ayanokōji · status: deceas
 [scene] (p.299–302) Named in the Ryūen meeting context.
 [scene] (p.347–352) Named in the short stories context.
 [note] (p.299–302, 347–352) Passing mentions; not a distinct scene presence.
+[mentioned] (p.299–302, 347–352) Passing mention only.
 
 <!-- walk: y2v3 Ch.8 → p.352 -->
 

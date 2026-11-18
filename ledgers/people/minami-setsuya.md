@@ -37,6 +37,7 @@ char_id: minami-setsuya · class: unknown · status: unknown
 ### y2v9 p.114 — Minami mentioned in the Sakayanagi ultimatum scene
 [scene] (p.114) Named in the study session context — Horikita quizzes Ayanokōji about who is waiting for whom, naming Minami as one option.
 [note] (p.114) Passing mention only; not a scene presence.
+[mentioned] (p.114) Passing mention only.
 
 <!-- walk: y2v9 Ch.5 → p.114 -->
 

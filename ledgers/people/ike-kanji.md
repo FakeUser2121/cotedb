@@ -773,7 +773,9 @@ aliases used for anchors: ike, kanji, ike-kun
 ### y1v7.5 p.18, 23 — Ch.2: named in the popularity maths
 [scene] (p.18) One-line name-hit among Ayanokōji’s guy friends.
 [note] (p.18) Passing mention: most girls disliked his friends “such as Ike-kun, Yamauchi-kun, and Sudou-kun.”
+[mentioned] (p.18) Passing mention only.
 [note] (p.23) Passing mention: Satou’s “most of the guys in our class are really immature” is read as Ike and Yamauchi.
+[mentioned] (p.23) Passing mention only.
 
 <!-- walk: y1v7.5 ch2 → p.34 -->
 
@@ -831,6 +833,7 @@ aliases used for anchors: ike, kanji, ike-kun
 ### y1v8 p.132 — Ch.4: gathered around the draw
 [scene] (p.132) Among Ike, Shibata and the others ready to object to Yamauchi’s draw call.
 [note] (p.132) Passing mention: “Ike, Shibata, and the others gathered around, ready to object, but Yamauchi’s judgment seemed sound.”
+[mentioned] (p.132) Passing mention only.
 [rel:yamauchi-haruki] (p.132) Would have objected to the Sudou–Katsuragi draw; accepts it when the eye test agrees.
 [rel:sudou-ken] (p.132) Part of the circle that cannot determine who is bigger either.
 [limit] (p.132) Presence only — no line of his own in half 2.

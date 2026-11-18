@@ -28,6 +28,7 @@ char_id: matoba-shinji · class: Class 1-A (enrolled April 2015) · status: mino
 ### y1v8 p.124 — Ch.4: named as leading the Class A group
 [scene] (p.124) Not at dinner with Ayanokōji; named in Karuizawa’s memorized group map.
 [note] (p.124) Passing mention: “What about Tsukasaki from Class A?” — “He’s with mostly Class A students led by Matoba.”
+[mentioned] (p.124) Passing mention only.
 [rel:tsukasaki-taiga] (p.124) Tsukasaki sits in Matoba’s mostly-Class A group per Karuizawa’s map.
 [rel:karuizawa-kei] (p.124) One of the names she had memorized for the brief.
 

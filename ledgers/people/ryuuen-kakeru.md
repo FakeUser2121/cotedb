@@ -1296,16 +1296,22 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 ### y1v7.5 p.117, 149 — Ch.5: named in the roof and the honeypot math
 [scene] (p.117) Name-hit in Karuizawa’s sarcasm; p.149 as a threat who would not crumble her now.
 [note] (p.117) Passing mention: “if someone close to him came down with a bad flu, he wouldn’t even visit them” — Karuizawa’s jab after the roof with Ryuuen.
+[mentioned] (p.117) Passing mention only.
 [note] (p.149) Passing mention: “If Ryuuen, or Sakayanagi, or even someone like Nagumo approached her, she wouldn’t crumble.”
+[mentioned] (p.149) Passing mention only.
 [rel:karuizawa-kei] (p.117, 149) The rooftop bully she survived; the reason her trust in Ayanokōji grew.
 [rel:sakayanagi-arisu] (p.149) Paired as threats she would no longer fold under.
 
 ### y1v7.5 p.33, 39, 48, 62 — coverage passes
 [scene] (p.33) Name-hits outside his meetings: Karuizawa’s bullying memory, the warehouse fight, and Ibuki’s grudge.
 [note] (p.33) Passing mention: Karuizawa recalls that Kiyotaka manipulated Ryuuen and the others into bullying her.
+[mentioned] (p.33) Passing mention only.
 [note] (p.39) Passing mention: named in the Sakayanagi–Ichinose pitch as the Class C threat.
+[mentioned] (p.39) Passing mention only.
 [note] (p.48) Passing mention: Ibuki’s warehouse fight is framed against Ryuuen’s Class C.
+[mentioned] (p.48) Passing mention only.
 [note] (p.62) Passing mention: named in Ibuki’s rooftop rant about the earlier fight.
+[mentioned] (p.62) Passing mention only.
 
 <!-- walk: y1v7.5 ch5 → p.153 -->
 
@@ -1316,6 +1322,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 ### y1v8 p.11–43 — Ch.2: the absent Class D leader
 [scene] (p.11) In the gym but deliberately outside the group-forming huddle while Kaneda speaks for Class D.
 [note] (p.43) Passing mention: keeps his distance, does not look like he is paying attention; common knowledge that he vacated authority earlier in the third semester.
+[mentioned] (p.43) Passing mention only.
 [rel:kaneda-satoru] (p.43) Shibata asks whether Kaneda is still acting for him; Kaneda says his opinions are irrelevant.
 [rel:shibata-sou] (p.43) Object of Shibata’s probe into whether the fall from power was a charade.
 [status] (p.43) Students who do not know the details still suspect the whole thing was staged.
@@ -1333,8 +1340,11 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 ### y1v8 p.78–90 — Ch.3: named as the path and the template
 [scene] (p.78) Not on the page; named twice as the shadow over Ishizaki’s behaviour and Yukimura’s fear.
 [note] (p.78) Passing mention: Kōenji calls Ishizaki “heading down the same delinquent path as Red-Hair-kun.”
+[mentioned] (p.78) Passing mention only.
 [note] (p.85) Passing mention: Yukimura notes Ishizaki never talked this way under Ryuuen; Ayanokōji maps Ishizaki and Albert as third-in-command types Ryuuen should have kept there.
+[mentioned] (p.85) Passing mention only.
 [note] (p.90) Passing mention: Yukimura warns the dojo situation “might end up being like Ryuuen all over again.”
+[mentioned] (p.90) Passing mention only.
 [rel:ishizaki-daichi] (p.78, 85, 90) The reference point for every read of Ishizaki’s new hierarchy and temper.
 
 <!-- walk: y1v8 ch3 → p.109 -->

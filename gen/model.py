@@ -211,6 +211,7 @@ class Model:
                      "ord": self.vol[b["vol"]]["ord"], "pages": b["pages"], "p0": p0,
                      "title": b["title"], "rows": b["rows"], "quotes": quotes, "with": with_,
                      "setup": " ".join(r["text"] for r in b["rows"] if r["m"] == "scene"),
+                     "mentioned": any(r["m"] == "mentioned" for r in b["rows"]),
                      "places": [r["t"] for r in b["rows"] if r["m"] == "place" and r["t"] in self.places],
                      "exams": [r["t"] for r in b["rows"] if r["m"] == "exam" and r["t"] in self.exams],
                      "prev": None, "next": None}
@@ -247,10 +248,13 @@ class Model:
                                   "supporting" if share >= CFG["supporting_share"] else
                                   "minor") if (n or key == "all") else ""
             sc = self.scenes_of("people", c["id"])
-            lines = sum(len(s["quotes"]) for s in sc)
-            c["scenes"], c["lines"] = len(sc), lines
-            c["read_vols"] = sorted({s["vol"] for s in sc}, key=lambda v: self.vol[v]["ord"])
-            c["has_page"] = (len(sc) >= CFG["page_min_scenes"] or lines >= CFG["page_min_lines"])
+            real_sc = [s for s in sc if not s.get("mentioned")]
+            mentions = [s for s in sc if s.get("mentioned")]
+            lines = sum(len(s["quotes"]) for s in real_sc)
+            c["scenes"], c["lines"] = len(real_sc), lines
+            c["mentions"] = len(mentions)
+            c["read_vols"] = sorted({s["vol"] for s in real_sc}, key=lambda v: self.vol[v]["ord"])
+            c["has_page"] = (len(real_sc) >= CFG["page_min_scenes"] or lines >= CFG["page_min_lines"])
             led = self.ledger.get(("people", c["id"]), {"meta": {}, "blocks": []})
             m = re.search(r"Class\s+([0-9]-[A-D])", led["meta"].get("class", ""))
             roles = sorted({r["t"] for b in led["blocks"] for r in b["rows"] if r["m"] == "role" and r["t"]})

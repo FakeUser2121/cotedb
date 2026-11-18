@@ -13,6 +13,7 @@ char_id: tomioka · class: unknown · status: unknown
 ### y2v3 p.124–125 — Tomioka mentioned in passing
 [scene] (p.124–125) Named in the Beach Flags Task context.
 [note] (p.124–125) Passing mention; not a distinct scene presence.
+[mentioned] (p.124–125) Passing mention only.
 
 <!-- walk: y2v3 Ch.4 → p.125 -->
 

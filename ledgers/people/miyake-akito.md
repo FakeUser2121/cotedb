@@ -227,6 +227,7 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 
 ### y1v7 p.36 — Ch.3: the study-group line
 [note] (p.36) Passing mention: Horikita notes a study group formed specifically to help Hasebe-san and Miyake.
+[mentioned] (p.36) Passing mention only.
 
 <!-- walk: y1v7 ch7 → p.207 -->
 
@@ -237,6 +238,7 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 ### y1v8 p.11–43 — Ch.2: named in the Ayanokōji Group chat
 [scene] (p.11) Not on the bus dialogue line; named in the group chat Ayanokōji opens after texting Horikita and Kei.
 [note] (p.30) Passing mention: “Keisei, Akito, and even Airi and Haruka all happily discussed the exam” in the Ayanokōji Group thread.
+[mentioned] (p.30) Passing mention only.
 [rel:ayanokouji-kiyotaka] (p.30, 32) Listed among the friends Ayanokōji hopes will not be expelled, though they are not his top-priority protectees.
 
 ### y1v8 p.44–56 — Ch.2: the Ryuuen seat for the lion’s share
@@ -254,6 +256,7 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 ### y1v8 p.128 — Ch.4: named as the inside man in Ryuuen’s group
 [scene] (p.128) Not on the page; named when Kanzaki reports three days without Ryuuen rumors.
 [note] (p.128) Passing mention: “It was three days since Akito had entered Ryuuen’s group… we hardly ever spoke.”
+[mentioned] (p.128) Passing mention only.
 [rel:ryuuen-kakeru] (p.128) Three days inside with no scheming reports — the quiet is what Kanzaki and Ayanokōji mark as probably true.
 [rel:kanzaki-ryuuji] (p.128) Bathhouse proximity exists but they barely speak; Kanzaki’s no-rumor line is the channel.
 
@@ -565,6 +568,7 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 ### y2v3 p.110–114 — Miyake mentioned in passing
 [scene] (p.110–114) Named in the group discussion context.
 [note] (p.110–114) Passing mentions; not a distinct scene presence.
+[mentioned] (p.110–114) Passing mention only.
 
 <!-- walk: y2v3 Ch.4 → p.114 -->
 

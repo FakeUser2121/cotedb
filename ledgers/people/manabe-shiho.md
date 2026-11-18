@@ -295,6 +295,7 @@ char_id: manabe-shiho · class: Class 1-C · status: minor
 ### y1v7.5 p.52 — Ch.3: named in the crossfire list
 [scene] (p.52) Name-hit in Ayanokōji’s risk assessment if the roof story spreads.
 [note] (p.52) Passing mention: “Manabe and her friends might get caught in the crossfire.”
+[mentioned] (p.52) Passing mention only.
 [rel:ibuki-mio] (p.52) Grouped with the rooftop witnesses who would be implicated.
 [rel:ayanokouji-kiyotaka] (p.52) The bully he goaded; exposure could suspend him at worst.
 

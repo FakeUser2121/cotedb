@@ -609,7 +609,9 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 ### y1v7.5 p.18, 23 — Ch.2: named in the popularity maths
 [scene] (p.18) One-line name-hit among Ayanokōji’s guy friends.
 [note] (p.18) Passing mention: grouped with Ike and Sudou as friends the girls dislike.
+[mentioned] (p.18) Passing mention only.
 [note] (p.23) Passing mention: read as one of the “really immature” boys Satou means.
+[mentioned] (p.23) Passing mention only.
 
 <!-- walk: y1v7.5 ch2 → p.34 -->
 
@@ -627,6 +629,7 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 ### y1v7.5 p.135 — Ch.5: the unpopularity comparison
 [scene] (p.135) Name-hit in Satou’s defence of Ayanokōji’s love life.
 [note] (p.135) Passing mention: “Like, if you were obviously unpopular like Yamauchi-kun or Onizuka-kun, that’d be one thing.”
+[mentioned] (p.135) Passing mention only.
 [rel:satou-maya] (p.135) Used as the unpopularity benchmark she says Ayanokōji does not meet.
 
 <!-- walk: y1v7.5 ch5 → p.153 -->
@@ -837,6 +840,7 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 [scene] (p.33) Named in Horikita's cover story — she mentions Yamauchi as someone who was expelled.
 [scene] (p.62) Named — "Yamauchi would have been more careful."
 [note] (p.33, 62) Passing mentions; not a distinct scene presence.
+[mentioned] (p.33, 62) Passing mention only.
 
 <!-- walk: y2v2 Ch.1 → p.62 -->
 

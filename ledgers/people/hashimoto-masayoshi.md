@@ -833,6 +833,7 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [scene] (p.215) Named in the group formation context.
 [scene] (p.299–300) Named in Ryūen's alliance meeting.
 [note] (p.215, 299–300) Passing mentions; not a distinct scene presence.
+[mentioned] (p.215, 299–300) Passing mention only.
 
 <!-- walk: y2v2 Ch.5 → p.300 -->
 
@@ -846,6 +847,7 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [scene] (p.141–145) Named in the Beach Flags Task context.
 [scene] (p.332, 334) Named in the Epilogue context.
 [note] (p.141–145, 332, 334) Passing mentions; not a distinct scene presence.
+[mentioned] (p.141–145, 332, 334) Passing mention only.
 
 <!-- walk: y2v3 Ch.4 → p.334 -->
 

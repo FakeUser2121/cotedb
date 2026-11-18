@@ -2639,6 +2639,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 ### y1v7.5 p.18 — Ch.2: named as Kiyotaka’s usual talk partner
 [scene] (p.18) One-line name-hit in Karuizawa’s popularity maths.
 [note] (p.18) Passing mention: “he only ever seemed to talk to Horikita-san” — why Ayanokōji still isn’t popular with the girls.
+[mentioned] (p.18) Passing mention only.
 [rel:ayanokouji-kiyotaka] (p.18) The classmate he appears to talk to almost exclusively.
 
 <!-- walk: y1v7.5 ch2 → p.34 -->
@@ -2673,8 +2674,11 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [scene] (p.119) Named as the dour contrast to “spirited”; later the old group-chat grievance.
 [says:horikita-suzune] (p.122) “There’s nothing going on between Horikita and me.” — speaker is Ayanokōji; Suzune does not speak in ch5.
 [note] (p.119) Passing mention: “They definitely weren’t as dour as Horikita.”
+[mentioned] (p.119) Passing mention only.
 [note] (p.120) Passing mention: “So, what’s going on between you and Horikita-san?” — Karuizawa.
+[mentioned] (p.120) Passing mention only.
 [note] (p.140) Passing mention: Satou once proposed messing with Horikita in a group chat.
+[mentioned] (p.140) Passing mention only.
 [rel:ayanokouji-kiyotaka] (p.119–122, 140–141) The relationship Karuizawa probes; Satou’s insecurity about the old chat.
 [rel:horikita-manabu] (p.152) Sibling revelation is what draws Nagumo’s eye to Ayanokōji — mentioned via Manabu context, not her presence.
 
@@ -2683,15 +2687,20 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 ### y1v7.5 p.156, 160–161 — Ch.6: capable, in another role
 [scene] (p.156) Named as an example of someone “placed in the wrong class”; p.161 as the leader Ayanokōji wants developed.
 [note] (p.156) Passing mention: “He means people like Horikita and Yukimura.”
+[mentioned] (p.156) Passing mention only.
 [note] (p.160–161) Passing mention / dialogue: Karuizawa asks if Horikita-san is okay with the partnership; Ayanokōji says she just sits next to him, wants her leading with Hirata and Karuizawa supporting.
+[mentioned] (p.160–161) Passing mention only.
 [rel:ayanokouji-kiyotaka] (p.160–161) Not the partner; the future leader he is shaping Class D around.
 [rel:karuizawa-kei] (p.160–161) The “better partner” question on the walk home.
 
 ### y1v7.5 p.85, 131, 145 — coverage passes
 [scene] (p.85) Named alongside Manabu at the secret meeting and as the beneficiary of the deal.
 [note] (p.85) Passing mention: Ryuuen — “That’s probably useful for Suzune too.”
+[mentioned] (p.85) Passing mention only.
 [note] (p.131) Passing mention: Kushida “was working against Horikita.”
+[mentioned] (p.131) Passing mention only.
 [note] (p.145) Passing mention: the mystery caller cites what Horikita-senpai talked about — taking down Nagumo; the elder Horikita is Manabu by prior context.
+[mentioned] (p.145) Passing mention only.
 
 <!-- walk: y1v7.5 ch6 → p.170 -->
 
@@ -2715,6 +2724,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 ### y1v8 p.115 — Ch.4: named as not grouped with Sakayanagi
 [scene] (p.115) Not on the page; named when the two class-leader girls’ groups are compared.
 [note] (p.115) Passing mention: with Ichinose and Shiina as two class leaders, “it wouldn’t have been strange for Horikita and Sakayanagi to be together too—but they were apparently in different groups.”
+[mentioned] (p.115) Passing mention only.
 [rel:sakayanagi-arisu] (p.115) The expected-but-absent co-grouping with the other first-year class leader.
 [rel:shiina-hiyori] (p.115) Part of the same two-class-leaders-in-one-group frame that makes the Horikita–Sakayanagi split notable.
 
@@ -2722,6 +2732,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [scene] (p.129) Named via Kanzaki’s Ichinose relay; p.143 named as a Class D cooperation leader with Hirata.
 [note] (p.129) Kanzaki’s read: high opinion for honesty more than ability — integrity and promise-keeping.
 [note] (p.143) Passing mention: with Hirata, probably focusing on encouraging cooperation in Class D.
+[mentioned] (p.143) Passing mention only.
 [rel:kanzaki-ryuuji] (p.129) The honesty frame comes through him from Ichinose.
 [rel:hirata-yousuke] (p.143) Paired as the Class D cooperation-leadership half.
 [rel:sakayanagi-arisu] (p.129) The promise-keeping contrast that defines her by what Sakayanagi lacks.

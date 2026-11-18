@@ -10,6 +10,7 @@ char_id: takahashi-osamu · class: unknown · status: unknown
 [scene] (p.267–277) Named in the first-year representative meeting context.
 [scene] (p.322) Named in the Epilogue context.
 [note] (p.267–277, 322) Passing mentions; not a distinct scene presence.
+[mentioned] (p.267–277, 322) Passing mention only.
 
 <!-- walk: y2v3 Ch.7 → p.322 -->
 

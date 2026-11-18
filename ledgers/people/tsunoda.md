@@ -19,6 +19,7 @@ char_id: tsunoda · status: minor
 ### y1v8 p.145 — Ch.4: named as a possible note helper
 [scene] (p.145) Not on the page; named when Ayanokōji works out who could have placed the “25” bed note.
 [note] (p.145) Passing mention: “It was probably either Ishikura or Tsunoda, the third-year students who’d played cards with Nagumo.”
+[mentioned] (p.145) Passing mention only.
 [rel:horikita-manabu] (p.145) The only plausible channel for Manabu to know which bed was Ayanokōji’s — unconfirmed.
 [rel:ishikura] (p.145) Paired with Ishikura as the card-night third-years who knew the room.
 

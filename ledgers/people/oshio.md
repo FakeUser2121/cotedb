@@ -14,6 +14,7 @@ char_id: oshio · class: unknown · status: unknown
 [scene] (p.65) Named in the student council recruitment context.
 [scene] (p.67) Named in the context of students applying.
 [note] (p.65, 67) Passing mentions; not a distinct scene presence.
+[mentioned] (p.65, 67) Passing mention only.
 
 <!-- walk: y2v3 Ch.2 → p.67 -->
 

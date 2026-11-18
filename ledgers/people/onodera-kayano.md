@@ -58,6 +58,7 @@ char_id: onodera-kayano · status: minor
 ### y2v3 p.243 — Onodera mentioned in passing
 [scene] (p.243) Named in the context of the first-year meeting.
 [note] (p.243) Passing mention; not a distinct scene presence.
+[mentioned] (p.243) Passing mention only.
 
 <!-- walk: y2v3 Ch.7 → p.243 -->
 

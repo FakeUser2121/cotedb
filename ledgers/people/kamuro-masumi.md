@@ -75,6 +75,7 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 ### y1v8 p.94 — Ch.3: named as Sakayanagi’s missing shadow
 [scene] (p.94) Not on the page; named when Sakayanagi is alone in the hallway after the bump.
 [note] (p.94) Passing mention: “Kamuro was usually by her side, but wasn’t here. She’d probably been placed in a different group.”
+[mentioned] (p.94) Passing mention only.
 [rel:sakayanagi-arisu] (p.94) Usual companion absent — first signal the girls’ groups are split from the usual pairings.
 
 <!-- walk: y1v8 ch3 → p.109 -->
@@ -307,6 +308,7 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 ### y2v2 p.299 — Kamuro mentioned in passing
 [scene] (p.299) Named in Ryūen's alliance meeting.
 [note] (p.299) Passing mention; not a distinct scene presence.
+[mentioned] (p.299) Passing mention only.
 
 <!-- walk: y2v2 Ch.5 → p.299 -->
 

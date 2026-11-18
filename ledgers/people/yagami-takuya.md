@@ -227,6 +227,7 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 [note] (p.61) Named — there was still a vacancy with Yagami leaving.
 [scene] (p.65–66) Named — "Yagami-kun this year" in the context of students applying to join the student council.
 [note] (p.36, 61, 65–66) Passing mentions; Yagami is not present in any scene.
+[mentioned] (p.36, 61, 65–66) Passing mention only.
 
 <!-- walk: y2v9 Ch.2 → p.66 -->
 

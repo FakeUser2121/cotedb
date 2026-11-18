@@ -604,8 +604,11 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 ### y1v7.5 p.76, 80, 84 — Ch.4: named in the bench talk
 [scene] (p.76) Name-hit in Ayanokōji’s explanation of why Ryuuen surrendered — Ibuki’s presence on the roof.
 [note] (p.76) Passing mention: Ibuki, Ishizaki, and Albert had been there; their shared-blame knowledge hastened the surrender.
+[mentioned] (p.76) Passing mention only.
 [note] (p.80) Passing mention: “Ibuki spilled the beans, huh?” — Ryuuen; Ayanokōji says she only asked whether eight hundred million was possible.
+[mentioned] (p.80) Passing mention only.
 [note] (p.84) Passing mention: Ishizaki and Ibuki, in particular, disliked Ayanokōji and might push Class C to challenge Class D.
+[mentioned] (p.84) Passing mention only.
 [rel:ryuuen-kakeru] (p.76, 80) Present on the roof; asked the eight-hundred-million question that exposed the class-wide point plan.
 [rel:ayanokouji-kiyotaka] (p.80, 84) The outsider who took Ryuuen down; still disliked by her.
 
@@ -615,6 +618,7 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 ### y1v7.5 p.129 — Ch.5: not at this movie
 [scene] (p.129) Absence note while Ayanokōji scans the fuller theater.
 [note] (p.129) Passing mention: “I didn’t see Ibuki. Maybe she wasn’t interested in an American animated film, or maybe she was just avoiding the crowds.”
+[mentioned] (p.129) Passing mention only.
 [rel:ayanokouji-kiyotaka] (p.129) The previous mall movie is why he checks for her; she is not here.
 
 <!-- walk: y1v7.5 ch5 → p.153 -->
@@ -626,6 +630,7 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 ### y1v8 p.143 — Ch.4: named as the island blind-spot precedent
 [scene] (p.143) Not on the page; named when Ayanokōji lists school-rule blind spots from past exams.
 [note] (p.143) Passing mention: “Such as how Ibuki and Horikita had traded blows back on the uninhabited island, even though violence was prohibited.”
+[mentioned] (p.143) Passing mention only.
 [rel:horikita-suzune] (p.143) The paired example of rule-breaking that still did not sink the exam — violence prohibited, blows traded.
 [rel:ayanokouji-kiyotaka] (p.143) Part of his theory that every special exam has loopholes the school cannot fully close.
 
@@ -981,6 +986,7 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [scene] (p.163) Named in the Ryūen alliance meeting context.
 [scene] (p.315–325) Named in the Ryūen-Katsuragi negotiation.
 [note] (p.163, 188, 315–325) Passing mentions; not a distinct scene presence.
+[mentioned] (p.163, 188, 315–325) Passing mention only.
 
 <!-- walk: y2v2 Ch.5 → p.325 -->
 

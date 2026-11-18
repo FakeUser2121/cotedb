@@ -91,6 +91,7 @@ aliases used for anchors: tachibana, secretary, student council secretary
 ### y1v7.5 p.89, 100–101 — Ch.4: the secretary’s number
 [scene] (p.100) Called by Kushida to reach Horikita Manabu; contact forwarded to Suzune.
 [note] (p.89) Passing mention: brief context — student-council secretaries listed with the Nagumo circle brief (Tachibana named as “my brother’s secretary” on p.100).
+[mentioned] (p.89) Passing mention only.
 [says:tachibana-akane] (p.100) “Thank you, senpai. Yes, I understand. Goodbye,” said Kushida, who’d just called Tachibana. — Tachibana does not speak on-page; the line is Kushida’s.
 [rel:horikita-manabu] (p.100) His secretary; Kushida has her contact information.
 [rel:kushida-kikyou] (p.100) “I’ve talked to Tachibana-senpai a lot.”

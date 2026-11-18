@@ -213,7 +213,9 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 ### y1v7 p.22, 175 — Ch.2 and Ch.6: the follower’s name in the talk
 [note] (p.22) Passing mention: the group blames Class C’s island win on Ryuuen staying with Ishizaki and the others.
+[mentioned] (p.22) Passing mention only.
 [note] (p.175) Passing mention: Ryuuen asks whether Ishizaki agrees when declaring the game; the answer “Y-yes” sits on the same page.
+[mentioned] (p.175) Passing mention only.
 
 <!-- walk: y1v7 ch7 → p.207 -->
 
@@ -237,14 +239,18 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 ### y1v7.5 p.73, 76, 84 — Ch.4: named in the bench talk
 [scene] (p.73) Spotted with Ryuuen the day before; later named as roof witness.
 [note] (p.73) Passing mention: Ayanokōji says he saw Ryuuen the day before, plus Ishizaki and some other guys.
+[mentioned] (p.73) Passing mention only.
 [note] (p.76) Passing mention: roof witness whose presence shared the blame and hastened Ryuuen’s decision.
+[mentioned] (p.76) Passing mention only.
 [note] (p.84) Passing mention: dislikes Ayanokōji and might push Class C to challenge Class D.
+[mentioned] (p.84) Passing mention only.
 [rel:ryuuen-kakeru] (p.73, 76) One of the three who stopped the dropout; still near the former leader.
 [rel:ayanokouji-kiyotaka] (p.84) Still hostile.
 
 ### y1v7.5 p.161 — Ch.6: named in the risk model
 [scene] (p.161) Named once in Ayanokōji’s Nagumo risk model as part of the Sudou fight.
 [note] (p.161) Passing mention: “that one fight between Sudou and those Class C guys—Ishizaki and his friends.”
+[mentioned] (p.161) Passing mention only.
 
 <!-- walk: y1v7.5 ch4 → p.106 -->
 
@@ -255,6 +261,7 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 ### y1v8 p.11–43 — Ch.2: named as the group-mate Sudou refuses
 [scene] (p.11) Not in the dialogue line; named when Class C objects to blending all four classes into one small group.
 [note] (p.42) Passing mention: Sudou interrupts Hirata with “I don’t wanna join a group with someone like Ishizaki in it.”
+[mentioned] (p.42) Passing mention only.
 [rel:sudou-ken] (p.42) Named as the friction that could drag down an all-four-class group’s scores.
 
 ### y1v8 p.45–71 — Ch.2: from outcast-adjacent to bed war

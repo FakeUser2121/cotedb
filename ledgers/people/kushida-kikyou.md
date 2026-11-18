@@ -1223,6 +1223,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 ### y1v7.5 p.41 — Ch.3: the extreme hidden self
 [scene] (p.41) Internal comparison only while Ayanokōji weighs Kamuro’s secret-self remark.
 [note] (p.41) Passing mention: “Usually, that hidden personality wasn’t as extreme as Kushida’s, but all humans had a dark side.”
+[mentioned] (p.41) Passing mention only.
 [rel:ayanokouji-kiyotaka] (p.41) His private yardstick for how far a secret self can go.
 
 <!-- walk: y1v7.5 ch3 → p.72 -->
@@ -1247,9 +1248,13 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [scene] (p.122) Name-hit in Karuizawa’s interrogation; later as the class-collapse risk Hirata might snap over.
 [says:kushida-kikyou] (p.123) “I think Kushida gets along with everybody,” — speaker is Ayanokōji; Kushida does not speak in ch5.
 [note] (p.119) Passing mention: “Kushida and Ichinose were spirited, too.”
+[mentioned] (p.119) Passing mention only.
 [note] (p.123) Passing mention: “Aren’t most guys in love with Kushida-san, though?”
+[mentioned] (p.123) Passing mention only.
 [note] (p.131) Passing mention: Kushida caused junior-high class collapse and still works against Horikita.
+[mentioned] (p.131) Passing mention only.
 [note] (p.141) Passing mention: “No matter who asked me out right now…whether it was you, Satou, or someone like Horikita or Kushida.” — Ayanokōji’s rejection line.
+[mentioned] (p.141) Passing mention only.
 [rel:ayanokouji-kiyotaka] (p.122–123, 141) Named as a fallback he would refuse the same way.
 [rel:horikita-suzune] (p.131) The target of her ongoing sabotage.
 [rel:hirata-yousuke] (p.131) The fragile leader who might snap if the class collapses again.
@@ -1257,6 +1262,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 ### y1v7.5 p.78 — Ch.3: the inside cancer
 [scene] (p.78) Named once in Ryuuen’s Class C talk as the inside threat targeting Horikita.
 [note] (p.78) Passing mention: “Kushida was targeting Horikita at the moment.”
+[mentioned] (p.78) Passing mention only.
 
 <!-- walk: y1v7.5 ch5 → p.153 -->
 
@@ -1278,12 +1284,14 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 ### y1v8 p.125 — Ch.4: named as the other trustworthy option
 [scene] (p.125) Not on the page; named in Ayanokōji’s inner tally after Kamuro’s Ichinose distrust.
 [note] (p.125) Passing mention: “there were probably more than a few people who’d name Kushida, if asked the same question.”
+[mentioned] (p.125) Passing mention only.
 [rel:ichinose-honami] (p.125) Paired with Ichinose as the two first-year names that would win a cross-class trust poll in Ayanokōji’s read.
 [rel:ayanokouji-kiyotaka] (p.125) His private ranking still puts Ichinose first for the most trustworthy person in our grade level.
 
 ### y1v8 p.144 — Ch.4: named as a past exam opponent
 [scene] (p.144) Not on the page; named when Ayanokōji lists his own special-exam interventions.
 [note] (p.144) Passing mention: “And I shut Kushida down during the Paper Shuffle.”
+[mentioned] (p.144) Passing mention only.
 [rel:ayanokouji-kiyotaka] (p.144) One of four past interventions he contrasts with this exam’s sit-and-observe rule.
 [status] (p.144) Framed as a completed Paper Shuffle move, not a live camp thread.
 

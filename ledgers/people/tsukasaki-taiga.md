@@ -10,11 +10,14 @@ char_id: tsukasaki-taiga · class: Class 2-A · status: minor
 ### y1v7.5 p.13, 18 — Ch.2: the Class A comparison
 [scene] (p.13) Named as a Class A boy more popular than Ayanokōji.
 [note] (p.13) Passing mention: Yousuke-kun, Class A’s Tsukasaki-kun, and Class B’s Shibata-kun were way more popular than Kiyotaka.
+[mentioned] (p.13) Passing mention only.
 [note] (p.18) Passing mention: A good-looking partner is a status symbol; Tsukasaki is the looks benchmark Satou could not match Ayanokōji against.
+[mentioned] (p.18) Passing mention only.
 
 ### y1v7.5 p.17 — Ch.2: the looks benchmark
 [scene] (p.17) Named once as the Class A boy Satou offers as a partner alternative.
 [note] (p.17) Passing mention: “maybe a guy like Tsukasaki-kun from that other class?”
+[mentioned] (p.17) Passing mention only.
 
 <!-- walk: y1v7.5 ch2 → p.34 -->
 
@@ -25,6 +28,7 @@ char_id: tsukasaki-taiga · class: Class 2-A · status: minor
 ### y1v8 p.124 — Ch.4: named in the Class A group map
 [scene] (p.124) Not at dinner; named when Karuizawa is quizzed on Class A placements.
 [note] (p.124) Passing mention: “What about Tsukasaki from Class A?” — with mostly Class A students led by Matoba.
+[mentioned] (p.124) Passing mention only.
 [rel:matoba-shinji] (p.124) Placed in Matoba’s group on Karuizawa’s map.
 [rel:karuizawa-kei] (p.124) One of her memorized names for Ayanokōji’s brief.
 

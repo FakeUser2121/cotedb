@@ -795,6 +795,7 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 ### y1v7 p.85 — Ch.3: name-checked in the father talk
 [note] (p.85) Passing mention: Ayanokōji recalls Chabashira-sensei’s expulsion threat while weighing his father’s return; no new dialogue.
+[mentioned] (p.85) Passing mention only.
 
 <!-- walk: y1v7 ch7 → p.207 -->
 
@@ -812,6 +813,7 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 ### y1v7.5 p.150 — Ch.5: named as a potential target
 [scene] (p.150) Internal threat list only.
 [note] (p.150) Passing mention: “On top of that, there was Chabashira-sensei and Chairman Sakayanagi.” — still potential targets alongside the chairman.
+[mentioned] (p.150) Passing mention only.
 [rel:ayanokouji-kiyotaka] (p.150) Teacher who knows his leverage; listed with the chairman as residual risk.
 
 <!-- walk: y1v7.5 ch5 → p.153 -->
