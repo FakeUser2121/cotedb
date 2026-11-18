@@ -31,4 +31,13 @@ char_id: tatebayashi · class: unknown · status: unknown
 [note] (p.97–98) He is the third-year Class D leader; cash-poor; angry because Kōenji was all they had left; Hashimoto calms him down before it lands.
 [rel:kouenji-rokusuke] (p.96–98) Kōenji refuses every order; the clash ends in stalemate.
 
+
 <!-- walk: y2v11 ch3 → p.99 -->
+
+### y2v11 p.118 — Ch.5: The patchwork opponent
+[scene] (p.118) The second-day patchwork match; the opponent group is Tatebayashi's; all five participants are experienced sewers.
+[note] (p.118) “The opponent who appeared here was the Tatebayashi group, which had a dispute on the first day due to Kōenji's selfish behavior. Their record so far was one win and nine losses.” — unattributed narration.
+[note] (p.118) Inogashira excels among the experienced sewers; the match costs Kiyotaka his second individual loss; the group suffers its third.
+[mentioned] (p.118) Named as the opposing group's leader; not present on these pages.
+
+<!-- walk: y2v11 ch5 → p.144 -->

@@ -174,6 +174,11 @@ char_id: tsubaki-sakurako · class: Class 1-C · status: unknown
 
 <!-- walk: y2v11 ch2 → p.84 -->
 
+### y2v11 p.137–140 — Ch.5: Surprisingly enthusiastic
+[scene] (p.137) The girls' shared room; the first-years get drawn into the card game.
+[note] (p.137) “it seemed that the other first-year students, Tsubaki included, were surprisingly enthusiastic.” — unattributed narration; she is expected to be shy; she is not.
+[mentioned] (p.137) Named in the room's enthusiasm; not separately quoted on these pages.
+
 ### y2v11 p.142 — Ch.5: The cute one
 [scene] (p.142) On the way to the rooms; the first-year boys buzz about girls' rooms; Tsubaki makes an impression.
 [note] (p.142) “And wasn't Tsubaki-san cute?” — untagged first-year; Tsubaki is a first-year of their group; the boys gawk.
