@@ -446,6 +446,10 @@ aliases used for anchors: ayanokouji/ayanokōji, kiyotaka, ayano, kiyopon, ayano
 [says:kushida-kikyou] (p.185) "I absolutely despise gloomy, ordinary guys like you."
 [feat] (p.186) **AK deduction: she knew Horikita's name before intros** ("The only person who knew was Sudou... You got close to me so you could spy on her, right?") — she shudders; prior-school connection implied, not confirmed
 [rel:kushida-kikyou] (p.186-187) pact of secrecy ("even if I did, it's not like anyone would believe me"); her read of AK: "fundamentally indifferent to other people" — bus-seat observation as proof; Horikita trust analysis: "she seems to trust you more than anyone else"
+[narrates] (p.183) “I’d kicked the door much louder than I’d anticipated. It’d been unexpectedly loud, really.”
+[note] (p.183) The printed English attributes the thump to AK's foot on the door as he tries to leave; no railing and no Kushida kicking anything appear on these pages — the English wording is flagged as ambiguous and kept as printed; visual stagings in adaptations depict a different arrangement entirely and are not reflected here.
+[narrates] (p.187) “She kicked my thigh as hard she could. Panicking, I grabbed the railing.”
+[narrates] (p.187) “Hey, watch it! I could’ve fallen and gotten seriously hurt!”
 [trait] (p.188) **Jekyll switch**: furious → kicks his thigh → grabs bag → returns beaming "Let's head back together" — "I couldn't tell which Kushida was the real one"; AK unshattered ("Most people possessed both a public face and a private, inner self")
 
 ### y1v1 p.189-191 — Group-chat bullying plot + apathy crisis

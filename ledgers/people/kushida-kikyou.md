@@ -166,6 +166,15 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:horikita-suzune] (p.182) Secret, venomous obsession and hatred; wishes she would die; considers her an unbearable, stuck-up harpy.
 [rel:ayanokouji-kiyotaka] (p.183–186) Traps him via manufactured sexual-assault evidence (fingerprints, unwashed uniform) and an unwinnable credibility contest; extracts a sworn oath, then reverts to warmth; establishes an uneasy, deadly truce.
 
+### y1v1 p.187–188 — Landing & stairs: kicked thigh, railing, her beaming return
+[scene] (p.187) Same rooftop evening, continuing the trust-analysis exchange; then the breasts remark; she kicks his thigh; he grabs the railing.
+[says:kushida-kikyou] (p.187) “Even so, she seems to trust you more than anyone else. Out of all the people I’ve ever met, Horikita seems the most wary of others and yet also the most self-confident. She certainly wouldn’t trust anyone worthless, even if they were unbelievably kind.”
+[says:kushida-kikyou] (p.187) “That’s why I said I believed you. Ayanokouji-kun, you’re fundamentally indifferent to other people, aren’t you?”
+[narrates] (p.187) “She kicked my thigh as hard she could. Panicking, I grabbed the railing.”
+[says:kushida-kikyou] (p.187) “I kicked you because you said something stupid!”
+[action] (p.187) Her stern expression melts into one of impatience; tromps back up the stairs, grabs her bag, then returns wearing a huge grin.
+[says:kushida-kikyou] (p.188) “Let’s head back together,” (said brightly — the Jekyll and Hyde switch, back to sunny mode)
+
 <!-- walk: y1v1 ch8 → p.202 -->
 
 ### y1v1 p.204–217, 226, 233–235 — Class A partnership, the ally test & the secret bond
