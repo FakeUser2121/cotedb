@@ -842,6 +842,13 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 
 <!-- walk: y2v3 → start -->
 
+### y2v3 p.141–145, 332, 334 — Hashimoto mentioned in passing
+[scene] (p.141–145) Named in the Beach Flags Task context.
+[scene] (p.332, 334) Named in the Epilogue context.
+[note] (p.141–145, 332, 334) Passing mentions; not a distinct scene presence.
+
+<!-- walk: y2v3 Ch.4 → p.334 -->
+
 
 
 ## y2v4.5

@@ -121,6 +121,15 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 
 <!-- walk: y2v3 → start -->
 
+### y2v3 p.15, 37, 40, 55 — Kitō mentioned in passing
+[scene] (p.15) Named in the briefing context.
+[scene] (p.37) Named in the exam rules context.
+[scene] (p.40) Named in the Housen water incident.
+[scene] (p.55) Named in the group discussion.
+[note] (p.15, 37, 40, 55) Passing mentions; not a distinct scene presence.
+
+<!-- walk: y2v3 Ch.1 → p.55 -->
+
 
 
 ## y2v4

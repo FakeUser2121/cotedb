@@ -863,6 +863,12 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 
 <!-- walk: y2v3 → start -->
 
+### y2v3 p.6 — Horikita Manabu mentioned in passing
+[scene] (p.6) Named in the front matter.
+[note] (p.6) Passing mention; not a distinct scene presence.
+
+<!-- walk: y2v3 Ch.1 → p.6 -->
+
 
 
 ## y2v4

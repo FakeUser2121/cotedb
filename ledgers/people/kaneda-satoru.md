@@ -249,6 +249,12 @@ aliases used for anchors: kaneda, kaneda satoru, kaneda-kun
 
 <!-- walk: y2v3 → start -->
 
+### y2v3 p.216 — Kaneda mentioned in passing
+[scene] (p.216) Named in the Ryūen meeting context.
+[note] (p.216) Passing mention; not a distinct scene presence.
+
+<!-- walk: y2v3 Ch.6 → p.216 -->
+
 
 
 ## y2v4.5

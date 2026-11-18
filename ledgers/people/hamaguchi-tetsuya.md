@@ -123,6 +123,12 @@ char_id: hamaguchi-tetsuya · class: Class 1-B · status: minor
 
 <!-- walk: y2v3 → start -->
 
+### y2v3 p.251–258 — Hamaguchi mentioned in passing
+[scene] (p.251–258) Named in the first-year representative meeting context.
+[note] (p.251–258) Passing mentions; not a distinct scene presence.
+
+<!-- walk: y2v3 Ch.7 → p.258 -->
+
 
 
 ## y2v9

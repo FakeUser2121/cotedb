@@ -263,6 +263,13 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 
 <!-- walk: y2v3 → start -->
 
+### y2v3 p.234, 331–334 — Shibata mentioned in passing
+[scene] (p.234) Named in the context of the class meeting.
+[scene] (p.331–334) Named in the Epilogue context.
+[note] (p.234, 331–334) Passing mentions; not a distinct scene presence.
+
+<!-- walk: y2v3 Epilogue → p.334 -->
+
 
 
 ## y2v4

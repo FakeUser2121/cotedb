@@ -442,6 +442,13 @@ char_id: ayanokouji-atsuomi · role: White Room director, Ayanokōji’s father 
 
 <!-- walk: y2v3 → start -->
 
+### y2v3 p.49–50, 125 — Ayanokōji (father) mentioned in passing
+[scene] (p.49–50) Named in the context of the White Room.
+[scene] (p.125) Named in the context of the exam.
+[note] (p.49–50, 125) Passing mentions; not a distinct scene presence.
+
+<!-- walk: y2v3 Ch.2 → p.125 -->
+
 
 
 ## y2v4

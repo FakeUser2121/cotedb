@@ -94,6 +94,12 @@ char_id: shimazaki-ikkei · class: unknown · status: unknown
 
 <!-- walk: y2v3 → start -->
 
+### y2v3 p.157 — Shimazaki mentioned in passing
+[scene] (p.157) Named in the context of the Task site.
+[note] (p.157) Passing mention; not a distinct scene presence.
+
+<!-- walk: y2v3 Ch.4 → p.157 -->
+
 
 
 ## y2v12
