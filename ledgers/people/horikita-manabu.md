@@ -980,3 +980,11 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [note] (p.57) No on-page presence; he is named as absent text only.
 
 <!-- walk: y2v11 ch2 → p.84 -->
+
+### y2v11 p.164–167 — Ch.6: The farewell message
+[scene] (p.165) The exchange meeting closes; Nagumo is stopped with one last request: a message to pass to Horikita-senpai.
+[says:nagumo-miyabi] (p.165) “Huh? A message? To Horikita-senpai?”
+[note] (p.166–167) He doesn't laugh it off; “That's a strange message.” — the second phase at Horikita-senpai's place; Nagumo reads the message as addressed to Horikita Manabu; the page never confirms which Horikita it is for; the two readings are both possible on these pages.
+[mentioned] (p.165–167) Named as the recipient of the farewell message; not present on these pages.
+
+<!-- walk: y2v11 ch6 → p.167 -->

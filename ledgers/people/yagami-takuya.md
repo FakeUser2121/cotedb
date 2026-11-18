@@ -256,6 +256,14 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 [note] (p.65) Yagami is one of the two (\“Yagami who that man prepared\”) through whom the camp plans were leaked in advance; no further detail on these pages.
 
 <!-- walk: y2v11 ch2 → p.84 -->
+
+### y2v11 p.149 — Ch.6: The Yagami-kun incident
+[scene] (p.149) The morning training; a name comes up that alarms Ibuki.
+[says:ibuki-mio] (p.149) “Yagami? Why is Yagami coming up now? I don't use violence against my kōhais. I'd like to exclude the Hōsen incident though.”
+[note] (p.149) “The Yagami-kun incident” is named in passing; Ibuki suspects something about it; the text never elaborates; he is absent on these pages.
+[mentioned] (p.149) Named in Ibuki's suspicions; not present on these pages.
+
+<!-- walk: y2v11 ch6 → p.167 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

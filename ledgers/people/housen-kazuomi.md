@@ -289,4 +289,13 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 [rel:yamada-albert] (p.130–132) They trade brags; Albert loses his poise.
 [rel:utomiya-riku] (p.131) He yells at Utomiya to stop; Utomiya talks past him.
 
+
 <!-- walk: y2v11 ch5 → p.144 -->
+
+### y2v11 p.149 — Ch.6: The Hōsen incident
+[scene] (p.149) The morning training; Ibuki's exclusions name him too.
+[says:ibuki-mio] (p.149) “…I'd like to exclude the Hōsen incident though.”
+[note] (p.149) “The Hōsen incident” is named in passing; the text never elaborates; he is absent on these pages.
+[mentioned] (p.149) Named in Ibuki's exclusions; not present on these pages.
+
+<!-- walk: y2v11 ch6 → p.167 -->

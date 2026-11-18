@@ -23,3 +23,9 @@ char_id: shintoku-taro · class: unknown · status: unknown
 [note] (p.99) He and Toyohashi both revere Kiyotaka; “Me too, Ayanokōji-senpai! I respect you!” — the text does not separate the two speakers.
 
 <!-- walk: y2v11 ch3 → p.99 -->
+
+### y2v11 p.159–161 — Ch.6: Kanzaki vs Shintoku
+[scene] (p.159) The 17th match; he is named in the lineup: Kanzaki vs Shintoku.
+[note] (p.160) “Kanzaki Ryūji vs Shintoku Tarō.” — the lineup announcement; the result is not narrated in these pages.
+
+<!-- walk: y2v11 ch6 → p.167 -->

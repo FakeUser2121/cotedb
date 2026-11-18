@@ -366,3 +366,14 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 [rel:kitou-hayato] (p.112–113) He restrains her wrist; she flirts with the danger.
 
 <!-- walk: y2v11 ch4 → p.113 -->
+
+### y2v11 p.159–161 — Ch.6: Fifty-seven points
+[scene] (p.159) The 17th match; she draws the Amasawa line; she fires; the scoreboard reads 9, 9, 10, 9, 10, 10.
+[says] (p.160) “No way...”
+[note] (p.160) Her 57 is the match's peak; Katsuragi at 37; the instructors are surprised along with the students.
+[says] (p.161) “You're amazing, Senpai. It's frustrating, but I lost, didn't I?”
+[says] (p.161) “I was trying to put pressure on you, but it didn't work, did it?”
+[says:ayanokouji-kiyotaka] (p.161) “You hadn't practiced archery other than yesterday's game, right?”
+[note] (p.161) He watched tutorials in the middle of the night; Nagumo may be irritated; she applauds him despite losing by a single point.
+
+<!-- walk: y2v11 ch6 → p.167 -->

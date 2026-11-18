@@ -767,3 +767,27 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [rel:horikita-manabu] (p.54–57) Horikita Manabu's university choice drew Nagumo; the baton passed to Nagumo as president.
 
 <!-- walk: y2v11 ch2 → p.84 -->
+
+### y2v11 p.159–161 — Ch.6: The leader's silent table
+[scene] (p.159) The 17th match; he attends as the leader; he says not a word; his bet comes due to watch him from afar.
+[note] (p.159–161) His group wins four of five; his record stands at 18–1; the card-game loss is his only loss.
+
+### y2v11 p.162–164 — Ch.6: The empty rest area
+[scene] (p.162) After the final 19th game; just the two of them in the rest area; the bet's terms settle; the money is transferred; he offers the university.
+[says] (p.162) “Allowing me to lose up to two times was what caused your defeat, wasn't it?”
+[says] (p.162) “Indeed, I'd like to say so.”
+[says] (p.163) “That's irrelevant. Even if I tried to pick up a win by buying my opponent's defeat, if you were serious, you'd buy it back. You could've also tried preventing it in advance. You have control over all the third-years, so you should be good at that kind of thing.”
+[says] (p.164) “When I decide to win, I strive towards it without mercy. It's only natural.”
+[says] (p.164) “I have no intention of belittling your victory. I've transferred the money. Check it.”
+[says] (p.164) “If you want, come to the same university. I'll make your boring personality a little better.”
+[note] (p.162–164) He pays without a written receipt; he says he has several million yen just in his personal pocket; he pats Kiyotaka's right shoulder as he passes.
+[rel:ayanokouji-kiyotaka] (p.162–164) The bet settles; the money moves; the invitation is offered and left on the table.
+
+### y2v11 p.165–167 — Ch.6: The message to carry
+[scene] (p.165) Just after the games end; he is stopped at the exit with one last request: a message to pass to Horikita-senpai.
+[says] (p.165) “Huh? A message? To Horikita-senpai?”
+[says] (p.167) “I'll go a step ahead and start the second phase at Horikita-senpai's place.”
+[note] (p.166–167) “That's a strange message.” — he doesn't laugh it off; he is asked to carry one line: feel free to join, if it suits the other party; the decision is up to the addressee.
+[note] (p.167) He says it is a gift from the exchange meeting, a farewell; the message is entrusted to him unfinished; the same Horikita-senpai at his side.
+
+<!-- walk: y2v11 ch6 → p.167 -->

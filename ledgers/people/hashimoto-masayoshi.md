@@ -1074,7 +1074,19 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [note] (p.143–144) Sakayanagi 5–7; Ryūen 3–9; both out of first place; Hashimoto spirals over Sakayanagi's abrupt exit; he heads to an empty bathroom.
 [rel:ayanokouji-kiyotaka] (p.142–144) He fishes for Sakayanagi info; he unravels in front of him.
 
+
 <!-- walk: y2v11 ch5 → p.144 -->
+
+### y2v11 p.152 — Ch.6: The missing shogi player
+[scene] (p.152) The shogi lineup is announced; Morishita is missing; he checks inside while Kiyotaka checks outside.
+[note] (p.152) “Where the hell did Morishita go? It's her turn next...” — he says it at the lobby; he checks the dining hall side; Kiyotaka finds her outside in minutes.
+
+### y2v11 p.159–161 — Ch.6: The 17th match
+[scene] (p.159) The 17th match; he is named in the lineup: Hirata vs Hashimoto.
+[says] (p.159) “Katsuragi apparently practiced quite a bit yesterday, and he scored a maximum of 36 points. There's a chance you could lose if you face him.”
+[note] (p.159–161) He faces Hirata Yōsuke; the result is not narrated in these pages; Kiyotaka's 58 takes the match for their group; his group takes four of five.
+
+<!-- walk: y2v11 ch6 → p.167 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

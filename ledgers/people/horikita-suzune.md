@@ -3641,6 +3641,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:horikita-manabu] (p.361) Her best memory of him must not be tainted by "unrequited love."
 [rel:sudou-ken] (p.360–361) He raises the loudest voice about her hair and guesses "unrequited love."
 [rel:kushida-kikyou] (p.361) She is more interested in why she cut it than the image change.
+
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -4645,3 +4646,29 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (p.115) She wants Horikita and Ibuki to lose; the three are said to have a miraculously balanced trio; she spits venom on her own side with a smile.
 
 <!-- walk: y2v11 ch5 → p.144 -->
+
+### y2v11 p.145–151 — Ch.6: The blindfold joke and Red Panda
+[scene] (p.145) Third day of living with other years; before breakfast; Ibuki demands a blindfolded match; she backs Kiyotaka's rejection; they run special training.
+[says] (p.147) “...That's about all I noticed... Will it be of any use?”
+[says] (p.147) “You, Ayanokōji-kun.”
+[says] (p.147) “Hmm, is that so? If you want to be unnoticed or don't want to stand out, I think you naturally become inconspicuous. You probably won't speak much either.”
+[note] (p.147) Asked who comes to mind when thinking of a student with a small presence — “You, Ayanokōji-kun.” — at least when he first entered school; the rest he says to himself. The difference, in her words: a person who wants to be unnoticed naturally becomes inconspicuous.
+[says] (p.149) “...Fine. We don't have much time, so can we start the special training?”
+[says] (p.150) “You say that so casually. How can your body not be tired after all that action?”
+[says] (p.150) “You say that, but you're not even breathing heavily. It's not convincing at all.”
+[says] (p.151) “Didn't he lose twice yesterday?”
+[says] (p.151) “Speaking of which, Nagumo-senpai was really happy. He sarcastically said it was a disappointing end to a winning streak, losing at cards, of all things. Did you lose another game after that?”
+[says] (p.151) “I don't know about ‘on purpose,’ but he does seem to regret it. At least, judging by his current state, those two defeats were genuine. Right, Red Panda-kun?”
+[note] (p.146) She works out the injury-risk motive for the last-day slot; her group is a candidate for first place; Ibuki's group lost the chance on day 2.
+[note] (p.151) “Red Panda-kun” — her nickname for him; she keeps it; he hates it.
+[rel:ayanokouji-kiyotaka] (p.145–151) She drives the training forward; she fields the small-presence answer; she hands him a nickname he can't shake.
+[rel:ibuki-mio] (p.145–151) She tolerates the Ibuki situation; the two of them rub oil and water.
+
+### y2v11 p.159–161 — Ch.6: The 17th match, horikita vs Yanagi
+[scene] (p.159) Final stretch; the 17th match against Nagumo's group; she draws Yanagi's line in archery.
+[note] (p.160) The lineup announcement — Horikita vs Yanagi; the group fights one man down after Morishita goes missing; Kiyotaka takes Amasawa; Hirata vs Hashimoto; Kanzaki vs Shintoku; Katsuragi vs Morishita.
+[note] (p.161) She wins her match against Yanagi; Horikita–Kiyotaka–Amasawa–Yanagi–Katsuragi–Hirata–Kanzaki–Shintoku–Morishita; the group takes four of five; Kiyotaka notes the match was worth watching.
+[rel:yanagi-yasuhisa] (p.160–161) She beats him in archery.
+
+<!-- walk: y2v11 ch6 → p.167 -->
+

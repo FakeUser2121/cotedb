@@ -273,4 +273,12 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 [rel:morishita-ai] (p.135–141) She is not even a player in Morishita's advance-strategy homework.
 [rel:ayanokouji-kiyotaka] (p.135–142) He alone notices her invisibility; he points it out.
 
+
 <!-- walk: y2v11 ch5 → p.144 -->
+
+### y2v11 p.146–147 — Ch.6: The small presence
+[scene] (p.146) The morning training; the small-presence question floats in the air; nobody answers it out loud.
+[note] (p.146–147) “Who comes to mind when you think of a student with a small presence?” — Horikita answers “You, Ayanokōji-kun.” — he says to himself: all of these characteristics fit Yamamura.
+[mentioned] (p.146–147) Named in the narration as the archetype of invisibility; not present on these pages.
+
+<!-- walk: y2v11 ch6 → p.167 -->

@@ -30,3 +30,9 @@ char_id: yanagi-yasuhisa · class: unknown · status: unknown
 [mentioned] (p.107) Named in the bath invitation; the actual bath and the conversation are not on these pages.
 
 <!-- walk: y2v11 ch4 → p.113 -->
+
+### y2v11 p.159–161 — Ch.6: Yanagi vs Horikita
+[scene] (p.159) The 17th match; he is named in the lineup: Horikita vs Yanagi.
+[note] (p.160–161) “Horikita Suzune vs Yanagi Yasuhisa.” — he loses; Nagumo's group takes four of five; Kiyotaka's 58 takes his individual duel.
+
+<!-- walk: y2v11 ch6 → p.167 -->

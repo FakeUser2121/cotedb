@@ -974,7 +974,15 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [scene] (p.115) Kushida reports that yesterday Katsuragi was immersed in practicing glasswork because he couldn't do it well.
 [note] (p.115) He lined up many times at the activity; no scene; glassed over for his group.
 
+
 <!-- walk: y2v11 ch5 → p.144 -->
+
+### y2v11 p.159–161 — Ch.6: Katsuragi vs Morishita
+[scene] (p.159) The 17th match; he is named in the lineup: Katsuragi vs Morishita.
+[note] (p.159) “Katsuragi Kōhei vs Morishita Ai.” — lineup announcement; his archery was drilled to the point of a 37-point maximum (per Hashimoto's intel).
+[note] (p.161) He wins his match; Nagumo's group takes four of five.
+
+<!-- walk: y2v11 ch6 → p.167 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

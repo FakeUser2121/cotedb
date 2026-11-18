@@ -383,4 +383,29 @@ char_id: morishita-ai · class: Class 2-A · status: unknown
 [rel:shiina-hiyori] (p.137–141) Hiyori draws the wrong card; she loses; Morishita wins on pure psychology.
 [rel:yamamura-miki] (p.137–141) Yamamura watches from the corner; Morishita never looks at her.
 
+
 <!-- walk: y2v11 ch5 → p.144 -->
+
+### y2v11 p.152–158 — Ch.6: The voice of the forest
+[scene] (p.152) The third-day shogi lineup is announced; she is missing; she is found standing at a tree with her eyes closed; she'd been lying awake in the shared room.
+[says] (p.153) “Could you please be quiet? I was listening to the voice of the forest.”
+[says] (p.153) “The forest is alive. If you touch a large tree like this, close your eyes, calm your mind, and listen, then you might understand what I'm saying.”
+[says] (p.155) “Breathe in through your nose and out through your mouth.”
+[says] (p.155) “I was recording Ayanokōji Kiyotaka being fooled by my lies in high definition.”
+[says] (p.156) “Can I ask you something?”
+[says] (p.156) “What do you think about Hashimoto Masayoshi?”
+[says] (p.157) “Of course, I think we should unite as a class and exclude him.”
+[says] (p.157) “I do think that both Hashimoto and Sakayanagi should fight without holding back. It's best to decide the winner after they both exert all they're able to. That's just my opinion though.”
+[says] (p.158) “Well, let's get going. Don't play in the forest forever. You're such a child.”
+[note] (p.156–157) She estimates Sakayanagi beats Hashimoto nine times out of ten; with him siding with Hashimoto, she calls the odds at risk; she doesn't mince words.
+[note] (p.158) Her verdict is honest; she says the infighting would be a drag half a year or even a year and would be a detriment to Class A.
+[rel:ayanokouji-kiyotaka] (p.152–158) She probes him in circles; she finds the stratagems he uses; she lets him sit with the tree.
+
+### y2v11 p.159–161 — Ch.6: Six points
+[scene] (p.159) She volunteers for the second archery game despite the first one's disgrace; she refuses to back down.
+[says] (p.159) “Of course, I'm here to do archery. I came to fight.”
+[says] (p.159) “That's how it is. You can think of it as being on the winning ship, Ayanokōji Kiyotaka.”
+[note] (p.160) Her score is six points; the only one who scored a total of six points and suffered a big loss in this game.
+[note] (p.161) The group takes four of five; her six points hang in the air; Kiyotaka says the groups will aim higher tomorrow.
+
+<!-- walk: y2v11 ch6 → p.167 -->

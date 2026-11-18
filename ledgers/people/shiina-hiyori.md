@@ -641,4 +641,13 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [rel:morishita-ai] (p.137–141) Morishita outmaneuvers her in the advanced-bluff; she loses graciously.
 [rel:yamamura-miki] (p.141) She invites Yamamura to the game when the archer mood sours.
 
+
 <!-- walk: y2v11 ch5 → p.144 -->
+
+### y2v11 p.152 — Ch.6: The missing Morishita
+[scene] (p.152) The shogi lineup is announced; Morishita is missing; she calls the phone; nothing; she reports honestly.
+[says] (p.152) “The call doesn't seem to be connecting.”
+[says] (p.152) “The last time I saw her was at breakfast. She left with you, right?”
+[note] (p.152) She is in the lineup with Kiyotaka, Morishita, Hashimoto, Tsubaki; her check saves them from a wild goose chase inside.
+
+<!-- walk: y2v11 ch6 → p.167 -->

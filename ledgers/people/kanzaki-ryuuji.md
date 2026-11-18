@@ -706,3 +706,9 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [mentioned] (p.40) Named as the second-year Class D member of Nagumo's group.
 
 <!-- walk: y2v11 ch2 → p.84 -->
+
+### y2v11 p.159–161 — Ch.6: Kanzaki vs Shintoku
+[scene] (p.159) The 17th match; he is named in the lineup: Kanzaki vs Shintoku.
+[note] (p.160) “Kanzaki Ryūji vs Shintoku Tarō.” — the lineup announcement; the result is not narrated in these pages.
+
+<!-- walk: y2v11 ch6 → p.167 -->

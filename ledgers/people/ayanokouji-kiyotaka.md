@@ -10159,3 +10159,95 @@ walk: y1v1 → DONE
 [rel:hashimoto-masayoshi] (p.142–144) He fishes for Sakayanagi intel; he unravels anyway; he hints he might misjudge Sakayanagi's reach; he heads to the empty lobby toilet.
 
 <!-- walk: y2v11 ch5 → p.144 -->
+
+### y2v11 p.145–151 — Ch.6: The blindfold, the small-presence question and Red Panda
+[scene] (p.145) Third day of living with other years; Horikita and Ibuki appear early as usual; the Nagumo battle looms; blindfold demand to open the morning session.
+[says:ibuki-mio] (p.145) “You, do the match with us blindfolded today.”
+[says] (p.145) “I have to kick you at least once, or I'll be frustrated.”
+[note] (p.145) “Blindfolding him won't help with the training, so rejected.” — Kiyotaka's own words; the request is rejected on risk grounds; Horikita backs him instantly.
+[says:ibuki-mio] (p.145) “I can understand your feelings, Ayanokōji-kun. But first, we should prioritize defeating Amasawa-san, right?”
+[note] (p.145) She and Horikita are determined to succeed in the revenge against Amasawa no matter what.
+[says:horikita-suzune] (p.146) “The main reason you chose the last day was to manage the risk of injury, wasn't it? If I get injured in a selfish fight before the exchange meeting is settled, it would be unacceptable to those who were seriously participating.”
+[note] (p.146) Her answer to “With your skills, you can handle these sessions without injuring me, right?” — “No, it isn't.” His deadpan answer earns an irritated expression and a blindfold joke from her.
+[says] (p.146) “This is completely unrelated, but who comes to mind when you think of a student with a small presence?”
+[note] (p.147) Horikita's answer, in full: “You, Ayanokōji-kun.” — at least when he first entered school, he was one of the less noticeable ones in the class; he muses the characteristics fit Yamamura perfectly.
+[note] (p.147) He asks Horikita in passing what factors determine how noticeable or inconspicuous someone is (the printed line break splits the sentence across the page break; the fragment “is.” sits at the top of the page).
+[says:horikita-suzune] (p.147) “Hmm, is that so? If you want to be unnoticed or don't want to stand out, I think you naturally become inconspicuous. You probably won't speak much either.”
+[note] (p.147) Horikita reports on the task he gave her in the lobby at dawn (Ch.3); “That's about all I noticed.” — she never asks the meaning; he considers the request fulfilled.
+[says:horikita-suzune] (p.147) “…That's about all I noticed... Will it be of any use?”
+[says] (p.147) “Yes, it will be very useful. Thanks for looking into it. You can consider the request fulfilled.”
+[note] (p.147) While they wait for Ibuki, Kiyotaka does the math: if Ibuki doesn't return, today's training is cancelled; her phone is left in her room; Ibuki shows up in seconds anyway, announcing her attack.
+[says:ibuki-mio] (p.148) “Damn! I missed! I even took the long way back!”
+[says] (p.148) “It's fine to be frustrated, but don't announce your attack. You're doing the same thing as Ishizaki.”
+[says] (p.148) “Ishizaki-kun? Have you had a dispute with Ishizaki-kun too?”
+[says:ibuki-mio] (p.148) “You had a dispute with Ryūen-kun on the rooftop, didn't you? It was that time, right?”
+[note] (p.148) She changes to a malicious grin; she pretends not to know more than she does; the rooftop Ryūen fight is public knowledge to her.
+[says] (p.148) “I can't deny it in this situation.”
+[says:ibuki-mio] (p.149) “Yagami? Why is Yagami coming up now? I don't use violence against my kōhais. I'd like to exclude the Hōsen incident though.”
+[note] (p.149) “Who's Yagami? Was there someone like that?” — speaker unattributed in the text; Horikita cuts the conversation short to start the training.
+[says:horikita-suzune] (p.149) “…Fine. We don't have much time, so can we start the special training?”
+[note] (p.150) After the training, the cyborg joke; “Are you a cyborg or something?” — speaker unattributed in the text; Kiyotaka then says “I'm tired too. I just don't show it on my face.”
+[says] (p.150) “I'm tired too. I just don't show it on my face.”
+[says] (p.150) “It's getting brighter. Should we head back soon?”
+[says] (p.150) “By the way, Ibuki-san, what are you planning to do today?”
+[says:ibuki-mio] (p.150) “Oh, that? I don't know. I haven't participated even once.”
+[note] (p.150) Ibuki's group 2–10; her stamp card blank; she joins Horikita to keep an eye on Amasawa “for tomorrow” (the rematch).
+[says:horikita-suzune] (p.151) “Didn't he lose twice yesterday?”
+[says:horikita-suzune] (p.151) “Speaking of which, Nagumo-senpai was really happy. He sarcastically said it was a disappointing end to a winning streak, losing at cards, of all things. Did you lose another game after that?”
+[says] (p.151) “I was completely beaten by Inogashira in ‘Patchwork.’”
+[says:horikita-suzune] (p.151) “He doesn't seem to mind losing, does he? He might even lose on purpose.”
+[says:horikita-suzune] (p.151) “I don't know about ‘on purpose,’ but he does seem to regret it. At least, judging by his current state, those two defeats were genuine. Right, Red Panda-kun?”
+[note] (p.151) The nickname — “Red Panda” — sticks; he is annoyed; Horikita keeps it; it returns in later chapters.
+[says] (p.151) “Are you still going with that joke...”
+[says:ibuki-mio] (p.151) “Well, I guess I'll go with Horikita. I'd like to keep an eye on Amasawa too.”
+[rel:horikita-suzune] (p.145–151) She deduces the injury-risk motive for the last-day slot; she fields the small-presence question with “You, Ayanokōji-kun”; she keeps the Red Panda joke alive.
+[rel:ibuki-mio] (p.145–151) She pretends her toilet run was casual; she announces attacks; she adds herself as a second spectator for the rematch.
+
+### y2v11 p.152–158 — Ch.6: Morishita and the forest
+[scene] (p.152) Third day; shogi match announced; Morishita missing near her turn; he and Hashimoto search; he finds her standing at a tree doing nothing.
+[note] (p.152) The participants Kiryūin picked: Kiyotaka, Morishita, Hashimoto, Hiyori, Tsubaki; group faces defeat one member short.
+[says] (p.153) “Could you please be quiet? I was listening to the voice of the forest.”
+[note] (p.153) She presses her hand to the tree and closes her eyes; he cannot hear anything.
+[says] (p.155) “Breathe in through your nose and out through your mouth.”
+[note] (p.155) He repeats hospital breathing advice; she realizes the analogy from her cold came from the doctor's office; she films him with her phone in high definition.
+[says] (p.155) “I was recording Ayanokōji Kiyotaka being fooled by my lies in high definition.”
+[says:morishita-ai] (p.156) “Can I ask you something?”
+[says:morishita-ai] (p.156) “What do you think about Hashimoto Masayoshi?”
+[note] (p.156–157) She has hunted him for the question for several attempts; she asks openly; her measure of him: he is Sakayanagi's subordinate; she thought nine times out of ten Sakayanagi wins — but with him siding, the odds change.
+[says:morishita-ai] (p.157) “I thought you'd ask. Of course, I think we should unite as a class and exclude him.”
+[says:morishita-ai] (p.157) “I do think that both Hashimoto and Sakayanagi should fight without holding back. It's best to decide the winner after they both exert all they're able to. That's just my opinion though.”
+[note] (p.158) She bows slightly and smiles; she wants the problem resolved before it drags half a year or a year; the problem's end date is already decided, and he knows it.
+[rel:morishita-ai] (p.152–158) She solicits his verdict on Hashimoto; she uncovers his position; she shows a rare honest self.
+
+### y2v11 p.159–161 — Ch.6: The 17th match, archery
+[scene] (p.159) The 17th match, two personal defeats down; the still-undefeated Nagumo group; game: archery — second archery game of the tournament; skill-based, favors muscle memory.
+[note] (p.159) Nagumo present as leader; silent; the personal bet is unknown to almost everyone.
+[note] (p.159) Katsuragi practiced archery; his max was 37 points; Hashimoto warns Kiyotaka — Hashimoto's legwork impresses him. Kiyotaka's 2nd-day scores: 2, 2, 4, 6, 6, 9 (30 total).
+[note] (p.160) Lineups: Horikita vs Yanagi; Hirata vs Hashimoto; Kiyotaka vs Amasawa; Kanzaki vs Shintoku; Katsuragi vs Morishita. In 16 matches prior, always third.
+[says:amasawa-ichika] (p.160) “No way...”
+[note] (p.160) Amasawa draws; her scores: 9, 9, 10, 9, 10, 10 — 57; Katsuragi scores 37; instructors surprised.
+[note] (p.160–161) He fires 58 (8, 10, 10, 10, 10, 10); his repeatability wins; Amasawa applauds despite losing; she watched tutorial videos in the middle of the night; Nagumo may get angry.
+[says:amasawa-ichika] (p.161) “It's frustrating, but I lost, didn't I?”
+[note] (p.161) Morishita shoots six points and loses badly; Horikita wins vs Yanagi; the Nagumo group takes four of five; Kiyotaka personally 17 wins 2 losses.
+[rel:amasawa-ichika] (p.159–161) She is beaten by raw repeatability; he blocks out all surrounding noise; she applauds anyway.
+[rel:nagumo-miyabi] (p.159–161) He watches his own bet come due without interfering.
+
+### y2v11 p.162–164 — Ch.6: The money and the university
+[scene] (p.162) The round-robin ends: 19 games total; Group 20 finishes 15–4 (fourth place, their podium); personal record 17–2; Nagumo's group 18–1 (lost to a card game against a group with only three wins).
+[note] (p.162) The 19th; the defeat: a card game in the final match, picked against a three-win group; Nagumo acknowledges the matchup was played by the card games.
+[says:nagumo-miyabi] (p.162) “Allowing me to lose up to two times was what caused your defeat, wasn't it?”
+[note] (p.163) He wonders aloud whether Kiryūin's authority could have saved three wins; Nagumo says Kiryūin wouldn't have found it either.
+[note] (p.164) Nagumo texts a transfer: he trusts the terms are his own funds; he invites Kiyotaka to his university; says he'll make his boring personality a little better; pats his right shoulder as he passes.
+[says:nagumo-miyabi] (p.164) “I have no intention of belittling your victory. I've transferred the money. Check it.”
+[says:nagumo-miyabi] (p.164) “If you want, come to the same university. I'll make your boring personality a little better.”
+[rel:nagumo-miyabi] (p.162–164) The bet's terms settle; the money clears; the university invitation is offered sideways and left on the table.
+
+### y2v11 p.165–167 — Ch.6: The farewell message
+[scene] (p.165) The empty rest area, just after the games end; he asks Nagumo for one last favor — a message to pass to Horikita-senpai.
+[says] (p.165) “Can I ask you to pass on a message for me, Nagumo-senpai, since you're graduating?”
+[says:nagumo-miyabi] (p.165) “Huh? A message? To Horikita-senpai?”
+[note] (p.166–167) Nagumo reads the message twice; doesn't fully believe it; it amounts to: "Feel free to join if you feel like it." — the second phase, Namu? no: the second phase at Horikita-senpai's place. The 'decision is up to the other party.'
+[note] (p.167) Nagumo: “I'll go a step ahead and start the second phase at Horikita-senpai's place.” — the note is transferred; the target is Horikita Manabu (same university).
+[rel:nagumo-miyabi] (p.165–167) He accepts the charge without laughing at it; he understands the gravity in it; he carries it to his new post.
+
+<!-- walk: y2v11 ch6 → p.167 -->

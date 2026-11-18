@@ -1956,3 +1956,9 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [note] (p.86) Named as a blending-in type; no on-page presence; Hashimoto says he is cut from a different cloth.
 
 <!-- walk: y2v11 ch3 → p.99 -->
+
+### y2v11 p.159–161 — Ch.6: Hirata vs Hashimoto
+[scene] (p.159) The 17th match; he is named in the lineup: Hirata vs Hashimoto.
+[note] (p.160) “Hirata Yōsuke vs Hashimoto Masayoshi.” — the lineup announcement; the result is not narrated in these pages.
+
+<!-- walk: y2v11 ch6 → p.167 -->

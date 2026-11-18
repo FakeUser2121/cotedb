@@ -1150,4 +1150,25 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [scene] (p.115) Kushida leaks her rivalry with the two Horikita-team girls; she roots against them.
 [note] (p.115) She wants Horikita and Ibuki to lose; the three are said to have a miraculously balanced trio; she spits venom on her own side with a smile.
 
+
 <!-- walk: y2v11 ch5 → p.144 -->
+
+### y2v11 p.145–151 — Ch.6: The blindfold demand and watching
+[scene] (p.145) Third day of living with other years; morning training; she demands the blindfolded match; she goes to the toilet and returns twenty minutes later by surprise.
+[says] (p.145) “You, do the match with us blindfolded today.”
+[says] (p.145) “I have to kick you at least once, or I'll be frustrated.”
+[says] (p.148) “Damn! I missed! I even took the long way back!”
+[says] (p.148) “Ugh...!? I don't want to hear that...! But I just instinctively shouted!”
+[says] (p.148) “You had a dispute with Ryūen-kun on the rooftop, didn't you? It was that time, right?”
+[says] (p.148) “Hmph, I don't remember you telling me to keep my mouth shut. Even if you did, I'm free to talk about it.”
+[says] (p.150) “Oh, that? I don't know. I haven't participated even once.”
+[says] (p.150) “I might get to see you lose at the exchange meeting or something.”
+[note] (p.150) Her group 2–10; her stamp card blank; she joins the spectators for the rematch; she wants to see Horikita lose but doesn't want to fight.
+[note] (p.151) She decides to tag along to watch Amasawa (the rematch is tomorrow); her refrain — winning by headcount — runs through this and every room.
+[rel:horikita-suzune] (p.145–151) Oil and water; she tags along anyway; she kicks the ground on her way out.
+
+### y2v11 p.159–161 — Ch.6: Spectator
+[scene] (p.161) The 17th match; she watches from afar and blatantly looks away in boredom.
+[note] (p.161) Kiyotaka's 58 outlasts Amasawa's 57; the spectators' interest dries up.
+
+<!-- walk: y2v11 ch6 → p.167 -->
