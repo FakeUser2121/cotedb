@@ -8281,7 +8281,7 @@ walk: y1v1 → DONE
 [rel:ike-kanji] (p.172, 178) Restrains him from rushing off; supports him reaching Shinohara.
 [rel:nanase-tsubasa] (p.166–189) She accompanies him, points out an "out-of-place" sound (a phone vibration), later comes to find them and leads the way back.
 [rel:komiya] (p.169–179) Finds him injured at the bottom of the slope.
-[rel:shinohara] (p.177–180) Finds her alive but frantic.
+[rel:shinohara-satsuki] (p.177–180) Finds her alive but frantic.
 
 ### y2v3 p.180–192 — Shinohara's claim of a "third party"; the GPS contradiction
 [says:shinohara] (p.181) "Somebody… I saw somebody push─"
@@ -8289,7 +8289,7 @@ walk: y1v1 → DONE
 [inference] (p.190–192) Reasons with Nanase that Shinohara's story of an "unknown third party" is inconsistent — a pusher would have finished the job, and Komiya didn't notice anyone; Nanase reaches the same conclusion; suspects the culprit might not be a student (teachers don't wear watches/GPS) and asks Chabashira to investigate discreetly.
 [rel:nanase-tsubasa] (p.189–192) They discuss the testimony; she agrees someone likely pushed them but is skeptical of Shinohara's framing.
 [rel:chabashira-sae] (p.198–199) Shows him GPS data — only Shinohara's signal was nearby at 4:56:24 AM (Komiya's Emergency Alert), so the school concludes she fabricated the third party; he whispers a request for a discreet investigation.
-[rel:shinohara] (p.181–192) Her claim of being pushed; he doubts it but investigates.
+[rel:shinohara-satsuki] (p.181–192) Her claim of being pushed; he doubts it but investigates.
 
 ### y2v3 p.199–207 — Ike's confession; the plan to save Shinohara
 [says] (p.205) "In order to guarantee that you save Shinohara, she'll have to join up with a group with at least three slots for extra group members."
@@ -8299,7 +8299,7 @@ walk: y1v1 → DONE
 [says] (p.207) "Sudō, take care of Ike and the others."
 [trait] (p.199–207) Watches Ike finally declare he'll save Shinohara "whether you like it or not" (an inelegant but heartfelt "confession"); decides not to reveal his plan (it would weaken their resolve), instructs Ike to protect her and earn points, and sets up a "contingency plan" while warning they may have to abandon her if others also fall into the bottom five; entrusts Sudō to watch Ike.
 [rel:ike-kanji] (p.201–207) His growth moves him to protect Shinohara; Ayanokōji supports and warns him.
-[rel:shinohara] (p.200–207) Works to save her; arranges the rescue plan.
+[rel:shinohara-satsuki] (p.200–207) Works to save her; arranges the rescue plan.
 [rel:sudou-ken] (p.207) Entrusted to take care of Ike and the others — "the one capable of making the most sensible decisions."
 [rel:komiya] (p.199–200) His parting words to Ike ("Show me how much of a man you are") entrust Shinohara to his rival — Ayanokōji realizes Komiya knew Shinohara cared for Ike.
 
@@ -8481,7 +8481,7 @@ walk: y1v1 → DONE
 [trait] (p.55–59) Notes Horikita is unexpectedly fresh and never in the bottom ten (she's taking first in contested Tasks); learns from her that Sakayanagi told her of his rescue plan and they're negotiating; keeps Amasawa's role to himself; both head to a food Task that becomes fiercely competitive.
 [rel:horikita-suzune] (p.55–59) Reunites with her, coordinates the Shinohara rescue (she won 3 extra group slots in a Task), and heads to the food Task together.
 [rel:sakayanagi-arisu] (p.56–57) Horikita is negotiating with her over the rescue plan.
-[rel:shinohara] (p.56–57) Seventh from bottom — at risk of expulsion by day's end.
+[rel:shinohara-satsuki] (p.56–57) Seventh from bottom — at risk of expulsion by day's end.
 
 ### y2v4 p.60–66 — Ranking analysis; the top-ten dynamics
 [scene] (p.61) Reviews his standing — 112 points, risen to 13th, 11 behind Kuronaga's 10th-place group (123); notes the danger of showing up in the top ten (it draws attacks) and the effect of the "More People" card.
@@ -8773,7 +8773,7 @@ walk: y1v1 → DONE
 [trait] (p.114–117) Puzzled why Nanase keeps appearing; suppressed a laugh at Ike and Shinohara arriving together holding hands — they're now dating, which shocks oblivious Keisei.
 [rel:nanase-tsubasa] (p.114) Appears daily, claims coincidence — Ayanokōji suspicious.
 [rel:ike-kanji] (p.115–116) Arrives holding Shinohara's hand; their relationship is revealed to the group.
-[rel:shinohara] (p.116) With Ike.
+[rel:shinohara-satsuki] (p.116) With Ike.
 [rel:ishigami-kyou] (p.116) Completely unaware Ike and Shinohara are dating.
 
 ### y2v4.5 p.118–128 — Katsuragi vs Tokitō; Hiyori's serious invitation
@@ -8816,7 +8816,7 @@ walk: y1v1 → DONE
 [says:satou-maya] (p.177) "M-mental? So not like drinking milk or getting a massage every day?"
 [inference] (p.178) Realizes Nanase has been checking on his condition daily (from when she was his ally), and that Nakaizumi has been following her — likely investigating her, or marking her due to 20-million-bounty suspicions; decides she's "completely innocent" of the cliff attack.
 [rel:nanase-tsubasa] (p.176–178) Checks on him daily; he notes her continued vigilance.
-[rel:nakaizumi] (p.178) Following Nanase — under whose orders is unclear.
+[rel:nakaizumi-shouhei] (p.178) Following Nanase — under whose orders is unclear.
 
 ### y2v4.5 p.192–193 — Satō's self-doubt; asking to learn
 [says:satou-maya] (p.192) "I wonder what I should do. What do I need to work on so that I don't cause trouble for the class?"
@@ -8897,6 +8897,13 @@ walk: y1v1 → DONE
 [rel:karuizawa-kei] (p.268–274) His girlfriend — they'll go public in second semester; they learn to kiss together.
 <!-- walk: y2v4.5 Epilogue → p.274 -->
 
+
+### y2v4.5 p.10–290 — Relations in this volume (depth pass)
+[rel:amasawa-ichika] (p.251–257) Yagami plans "a battle of wits" with him; she is the White Room rival he keeps in orbit; Ayanokōji never meets her on-page.
+[rel:ibuki-mio] (p.141, 147–149) Through Horikita, he learns Ibuki rates Amasawa beyond anyone else she has fought; he never speaks to her on-page.
+[rel:ishigami-kyo-1a] (p.240, 249) Horikita's handwriting hunt pulls Ishigami 1-A into the orbit of Kiriyama's Class A; Ayanokōji never meets him on-page.
+[rel:kiriyama-ikuto] (p.45–53) Kiriyama's Class A ticket binds his hands; they talk twice on-page (Ch.2): the summon to the quiet deck and the answer demanded before Nagumo's next move.
+[rel:komiya-kyogo] (p.33–34) Komiya asks him to watch Ryūen's culprit hunt; Ayanokōji agrees to keep an eye out and gives no promises.
 
 ## y2v5
 
@@ -9099,7 +9106,7 @@ walk: y1v1 → DONE
 [scene] (p.35) Chabashira explains the sports festival rules ("Ability" based, with Class Change Tickets and 2 million points for first place); Sudō and Ike are excited, but part of the class is cold toward Horikita's leadership.
 [trait] (p.35–47) Watches as Horikita publicly apologizes for breaking her promise (keeping Kushida), and as Shinohara challenges her — Horikita holds firm, arguing past contributions can't be erased and offering to "take responsibility" if Kushida can't be brought back; sees Kōenji agree to compete (for the cash prizes) and confirm he won't change classes yet — but learns he never fully trusted Horikita ("I would never trust someone else with my life. Neither would you").
 [rel:horikita-suzune] (p.41–47) Her public apology and iron will; Kōenji's deal with her.
-[rel:shinohara] (p.41–43) Challenges Horikita over keeping Kushida — one of the people hurt by her revelations.
+[rel:shinohara-satsuki] (p.41–43) Challenges Horikita over keeping Kushida — one of the people hurt by her revelations.
 [rel:hirata-yousuke] (p.43) Requests the class keep Kushida's secret internal.
 [rel:matsushita-chiaki] (p.44) Points out leaking the secret would only give a "temporary sense of victory."
 [rel:kouenji-rokusuke] (p.44–47) Agrees to compete for money; calmly reveals he'd have voted against his own expulsion — his "trust" in Horikita was conditional; Ayanokōji admits he can never fully analyze him.
@@ -9123,7 +9130,7 @@ walk: y1v1 → DONE
 [says] (p.77) "A perspective that only Kushida has. Thoughts that only Kushida has. Statements that only Kushida can make."
 [trait] (p.65–80) Tender and attentive — cooks for Kei (something she's never done herself), endures her playful clinging, and kisses her repeatedly after the meal; explains to Kei why keeping Kushida (not Airi) made sense: Kushida offers a unique perspective, thoughts and statements that only Kushida has that can support Horikita in a way Airi couldn't; Kei remains unconvinced but accepts it.
 [rel:karuizawa-kei] (p.65–80) His girlfriend — they share an intimate evening; she calls him out on his "perfect answer" habit.
-[rel:shinohara] (p.72–74) Kei is trying to repair her friendship with Shinohara (hurt by Kushida's leaked remarks).
+[rel:shinohara-satsuki] (p.72–74) Kei is trying to repair her friendship with Shinohara (hurt by Kushida's leaked remarks).
 [rel:kushida-kikyou] (p.76–78) He argues her unique perspective justifies keeping her; Kei feels she should have been expelled.
 
 ### y2v6 p.80–89 — Hirata's visit: leader development; Mii-chan; his guilt

@@ -39,6 +39,9 @@ char_id: tokitou-hiroya · class: unknown · status: unknown
 
 
 
+### y2v4.5 p.10–290 — Relations in this volume (depth pass)
+[rel:ayanokouji-kiyotaka] (p.118–124) He watches Hiohota; Ayanokōji comes over to hear it out — Hiroya doesn't like it.
+
 ## y2v5
 
 <!-- walk: y2v5 → start -->

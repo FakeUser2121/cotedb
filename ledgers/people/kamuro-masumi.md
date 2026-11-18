@@ -351,6 +351,9 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 <!-- walk: y2v4.5 ch1 → p.35 -->
 
 
+### y2v4.5 p.10–290 — Relations in this volume (depth pass)
+[rel:amasawa-ichika] (p.93–94) His follower role ends; she clocked him; he reported back to Sakayanagi.
+
 ## y2v6
 
 <!-- walk: y2v6 → start -->

@@ -389,6 +389,10 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y2v4.5 ch4 → p.158 -->
 
+### y2v4.5 p.10–290 — Relations in this volume (depth pass)
+[rel:ayanokouji-kiyotaka] (p.116) Ayanokōji watches from the reception line; he barely knows her.
+[rel:ike-kanji] (p.26–27) Ike's confession — her answer was yes; they're dating now.
+
 ## y2v5
 
 <!-- walk: y2v5 → start -->

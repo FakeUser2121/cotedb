@@ -877,6 +877,10 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v4.5 ch4 → p.158 -->
 
+### y2v4.5 p.10–290 — Relations in this volume (depth pass)
+[rel:ayanokouji-kiyotaka] (p.120–127) He probes his Ryūen arrangement obliquely; Ayanokōji offers no opinion either way.
+[rel:okabe-fuyu] (p.119–124) She wants him out of Ryūen's orbit; she can't swallow his calm.
+
 ## y2v5
 
 <!-- walk: y2v5 → start -->

@@ -659,6 +659,11 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y2v4.5 ch5 → p.216 -->
 
+### y2v4.5 p.10–290 — Relations in this volume (depth pass)
+[rel:kiriyama-ikuto] (p.47–48) Kiriyama's Class A ticket ties him to Nagumo's public face; Nagumo holds his ticket.
+[rel:kiriyama-ikuto] (p.152–157) He meets Honami with the Karuizawa reveal; Kiriyama had seen them together.
+[rel:kiryuin-fuuka] (p.290) Kiryūin's SS watches him assemble the third-years; he has not turned on her.
+
 ## y2v5
 
 <!-- walk: y2v5 → start -->

@@ -53,6 +53,11 @@ char_id: ishigami-kyou · class: unknown · status: unknown
 
 
 
+### y2v4.5 p.10–290 — Relations in this volume (depth pass)
+[rel:ayanokouji-kiyotaka] (p.116) The pool-side Keisei reference points at Yukimura, not at this file; recorded for completeness.
+[rel:hasebe-haruka] (p.105) The Keisei label in Haruka's file is Yukimura; kept for completeness.
+[rel:sakura-airi] (p.108) Airi's Keisei reference is Yukimura; no separate presence in this row.
+
 ## y2v6
 
 <!-- walk: y2v6 → start -->

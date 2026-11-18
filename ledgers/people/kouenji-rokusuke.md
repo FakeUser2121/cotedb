@@ -890,6 +890,9 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y2v4.5 ch5 → p.216 -->
 
+### y2v4.5 p.10–290 — Relations in this volume (depth pass)
+[rel:horikita-suzune] (p.209–210) His 500,000-point pair; she wants to use him; he shows no interest either way.
+
 ## y2v5
 
 <!-- walk: y2v5 → start -->

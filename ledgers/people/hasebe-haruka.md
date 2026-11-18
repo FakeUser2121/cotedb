@@ -617,6 +617,9 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 
 <!-- walk: y2v4.5 ch4 → p.158 -->
 
+### y2v4.5 p.10–290 — Relations in this volume (depth pass)
+[rel:miyake-akito] (p.96–113) Pool remodel-side; she counts on the boys' reactions.
+
 ## y2v5
 
 <!-- walk: y2v5 → start -->

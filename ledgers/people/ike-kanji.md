@@ -1160,7 +1160,7 @@ aliases used for anchors: ike, kanji, ike-kun
 [says] (p.170) "you're feeling troubled… uh, I can form a group with you, yeah?"
 [note] (p.169–176) Ike essentially wants a reason to group with Shinohara (he "just wanted a reason to group up with her"); Ayanokōji suggests he discuss it with her directly; Ike is shocked to learn Shinohara has already decided on a group.
 [trait] (p.169–176) Eager and lovestruck — wants to be Shinohara's group partner, tries to help Ayanokōji as a pretext, and is flustered when he learns she's already grouped.
-[rel:shinohara] (p.169–176) Wants to form a group with her.
+[rel:shinohara-satsuki] (p.169–176) Wants to form a group with her.
 [rel:ayanokouji-kiyotaka] (p.169–176) Asks his advice about grouping.
 ## y2v3
 
@@ -1183,7 +1183,7 @@ aliases used for anchors: ike, kanji, ike-kun
 [says] (p.202) "I won't! You think I'm gonna let you get expelled cuz of somethin' like this?"
 [says] (p.204) "There is! There's all sorts of stuff! I really don't want you to get expelled! That's why I'm gonna save you whether you like it or not!"
 [trait] (p.169–207) Desperate and lovesick but transformed — defends Shinohara furiously against Sakagami's suggestion she's lying, and after Komiya entrusts her to him ("Show me how much of a man you are"), repeatedly takes her wrist and finally blurts an inelegant, emotion-filled declaration that he'll save her "whether you like it or not" — his own way of confessing.
-[rel:shinohara] (p.172–204) Desperately searches for her and refuses to let her be expelled.
+[rel:shinohara-satsuki] (p.172–204) Desperately searches for her and refuses to let her be expelled.
 [rel:komiya] (p.195–200) His rival in love; defends his account and receives his entrustment.
 [rel:sudou-ken] (p.203) Sudō and Hondō back his resolve; Sudō beats his chest to encourage him.
 [rel:ayanokouji-kiyotaka] (p.205–207) Receives his plan and instructions for protecting Shinohara.
@@ -1213,7 +1213,7 @@ aliases used for anchors: ike, kanji, ike-kun
 [says] (p.29) "Ryūen's just as scary as ever… Anyway, what did he want?"
 [says] (p.29) "You can willingly follow Ryūen?…I don't get it…"
 [trait] (p.26–30) Nervous and guilt-ridden but committed — confessed to Shinohara and is going to report it properly to his rival Komiya (even bracing for a punch); stunned that Komiya now says he can honestly follow Ryūen, and terrified at the prospect of being hit.
-[rel:shinohara] (p.26–27) His new girlfriend — he confessed on the ship and she accepted.
+[rel:shinohara-satsuki] (p.26–27) His new girlfriend — he confessed on the ship and she accepted.
 [rel:komiya] (p.26–30) His rival in love; visits him in the infirmary, feeling he stole a march on him.
 [rel:ayanokouji-kiyotaka] (p.26–28) Asks him to come along for moral support; Ayanokōji goads him about the coming punch.
 
@@ -1225,6 +1225,10 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:shinohara-satsuki] (p.115–116) Hand in hand; the restless announcement of the relationship the classmates put together before he can say a word.
 
 <!-- walk: y2v4.5 ch4 → p.158 -->
+
+### y2v4.5 p.10–290 — Relations in this volume (depth pass)
+[rel:komiya-kyogo] (p.31–32) Komiya grabs his shoulder and warns him about Shinohara; Ike accepts his fortune gracefully.
+[rel:sudou-ken] (p.211–213) Ike asks Sudō to train him; Sudō agrees given the motivation; summer training starts right after the cruise.
 
 ## y2v5
 

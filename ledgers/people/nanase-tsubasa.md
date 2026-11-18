@@ -411,7 +411,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [says] (p.205) "rather than going through the effort of forming another group, it may very well be more realistic for her to prioritize accumulating points."
 [trait] (p.164–207) Composed and insightful — points out the "out-of-place" vibration that leads to finding people, analyzes Shinohara's testimony with Ayanokōji (reaching the same skeptical conclusion), holds his tablet, comes to find them, proposes Shinohara bunker near the harbor to survive, and advises against trying to merge into another group — all while monitoring Ayanokōji.
 [rel:ayanokouji-kiyotaka] (p.190–205) Reasons with him about the "culprit," holds his tablet, and discusses the rescue plan.
-[rel:shinohara] (p.200) Proposes the harbor-survival strategy to save her.
+[rel:shinohara-satsuki] (p.200) Proposes the harbor-survival strategy to save her.
 [rel:ike-kanji] (p.189) Comes looking for him and Shinohara.
 
 ### y2v3 p.260–266 — Nanase's cliff struggle and her strange air
@@ -553,6 +553,11 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [trait] (p.283–286) Devoted and secretive — she's investigating the attack on her own (keeping it from Ayanokōji) to leave behind "some accomplishments," refuses the easy path of letting him "pamper" her, and hides the tailing from him even when he calls her out — apologizing internally, resolved to "work hard" for him; the "double-sided favour" of the title reflects her divided loyalty.
 [rel:ayanokouji-kiyotaka] (p.284–286) She hides her investigation from him, then regrets it — he's too kind and would have stopped her.
 [rel:kurachi] (p.283–285) The first-year she tails — suspect in the attack on Ayanokōji.
+
+### y2v4.5 p.10–290 — Relations in this volume (depth pass)
+[rel:ishizaki-daichi] (p.25) Ishizaki teases Ayanokōji about dating her; she runs away.
+[rel:sakayanagi-arisu] (p.287–288) Sakayanagi's SS watches her; she never sees it.
+
 ## y2v6
 
 <!-- walk: y2v6 → start -->

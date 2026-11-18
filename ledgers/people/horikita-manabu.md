@@ -917,6 +917,10 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 <!-- walk: y2v4.5 ch2 → p.72 -->
 
 
+### y2v4.5 p.10–290 — Relations in this volume (depth pass)
+[rel:ayanokouji-kiyotaka] (p.47) The student-council case he entrusted to Kiriyama, now entrusted toward Ayanokōji; he never appears on-page.
+[rel:kiriyama-ikuto] (p.47) Kiriyama's face hardens at the name; Manabu never appears on-page.
+
 ## y2v5
 
 <!-- walk: y2v5 → start -->

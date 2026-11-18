@@ -276,6 +276,9 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 
 
 
+### y2v4.5 p.10–290 — Relations in this volume (depth pass)
+[rel:ishizaki-daichi] (p.21) Albert's flags inspired him; they're best friends.
+
 ## y2v5
 
 <!-- walk: y2v5 → start -->

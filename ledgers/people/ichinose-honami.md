@@ -1841,6 +1841,11 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v4.5 ch4 → p.158 -->
 
+### y2v4.5 p.10–290 — Relations in this volume (depth pass)
+[rel:himeno-yuki] (p.62–69) Her classmate slips out of her own celebration with a faked headache; no bullying, no villainy — just tired.
+[rel:hoshinomiya-chie] (p.235) Hoshinomiya drinks to ruin her class's Class A dreams; she never names her directly.
+[rel:shiranami-chihiro] (p.61–62) Chihiro thanks him; the girls fuss; Ichinose is the host of ceremony even when unnoticed.
+
 ## y2v5
 
 <!-- walk: y2v5 → start -->

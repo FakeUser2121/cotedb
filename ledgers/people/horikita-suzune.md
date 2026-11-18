@@ -4320,7 +4320,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [trait] (p.55–59) In good shape (never in bottom ten), having won a Task granting three extra group slots; learned of the cliff incident from Sakayanagi and agreed to cooperate to save Shinohara; notes the spread of walkie-talkies among upper-year students and agrees to head to a food Task with him.
 [rel:ayanokouji-kiyotaka] (p.55–59) Reunites and coordinates the rescue; travel together.
 [rel:sakayanagi-arisu] (p.56) Was urged to meet her near the starting area and told of the retirements and Ayanokōji's plan.
-[rel:shinohara] (p.57) Seven from bottom; she fights to prevent her expulsion.
+[rel:shinohara-satsuki] (p.57) Seven from bottom; she fights to prevent her expulsion.
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
@@ -4401,6 +4401,10 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ishigami-kyo-1a] (p.247–248) "A combination of the best parts of Ichinose and Sakayanagi" — Kanzaki's assessment.
 
 <!-- walk: y2v4.5 ch6 → p.267 -->
+
+### y2v4.5 p.10–290 — Relations in this volume (depth pass)
+[rel:satou-maya] (p.193) Satō asks for a bridge to Horikita; Ayanokōji says Horikita wouldn't refuse; Horikita never says so on-page.
+[rel:sudou-ken] (p.212–213) Sudō runs the study group; Ike wants in; Satō might join too; Sudō dreads the competition.
 
 ## y2v5
 
@@ -4497,7 +4501,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [trait] (p.20–47) Accepts the heavy responsibility of keeping Kushida — waits by her door from dawn, apologizes to the class, and when Shinohara challenges her, holds firm: Kushida's past contributions can't be erased, and if she can't bring her back, she'll take responsibility in any way possible; also secures Kōenji's participation for the sports festival.
 [rel:ayanokouji-kiyotaka] (p.23–24) Apologizes for the burden; he tells her not to apologize again.
 [rel:kushida-kikyou] (p.20–21, 44) She's been trying to counsel the holed-up Kushida; vows to bring her back or take responsibility.
-[rel:shinohara] (p.41–43) She challenges her over keeping Kushida; Horikita argues past contributions matter.
+[rel:shinohara-satsuki] (p.41–43) She challenges her over keeping Kushida; Horikita argues past contributions matter.
 [rel:kouenji-rokusuke] (p.45–46) Confirms his participation, warns him about changing classes.
 
 ### y2v6 p.101–111 — Horikita's doubt; Chabashira's counsel

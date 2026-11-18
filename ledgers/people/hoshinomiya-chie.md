@@ -526,6 +526,9 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 <!-- walk: y2v4.5 ch6 → p.267 -->
 
 
+### y2v4.5 p.10–290 — Relations in this volume (depth pass)
+[rel:horikita-suzune] (p.243–244) She vomits over the deck railing in front of Horikita; Horikita rates the display a teaching moment, not a mystery.
+
 ## y2v5
 
 <!-- walk: y2v5 → start -->

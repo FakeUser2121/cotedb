@@ -453,6 +453,10 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [trait] (p.279–282) Anxious and giddy — panics at choosing a bad code ("pressure is way too heavy"), delighted when a treasure chest appears (100,000 points after the 10,000 fee = 90,000 profit), thrilled to be close to him, and secretly apologizes to Kei-chan ("but this is a game").
 [rel:ayanokouji-kiyotaka] (p.279–282) Her treasure-hunt partner — she lets him tap the treasure chest; he credits her for finding the code.
 [rel:karuizawa-kei] (p.279) Secretly glad his gallery has no photos of Kei — guilt mixed with delight.
+
+### y2v4.5 p.10–290 — Relations in this volume (depth pass)
+[rel:matsushita-chiaki] (p.172–176) Matsushita invites her partner-in-treasure-hunt; Satō rescues the pairing by force.
+
 ## y2v5
 
 <!-- walk: y2v5 → start -->

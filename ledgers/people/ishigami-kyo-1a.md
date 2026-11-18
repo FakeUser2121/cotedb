@@ -21,6 +21,10 @@ char_id: ishigami-kyo-1a · class: Class 1-A · status: first-year honor student
 
 <!-- walk: y2v4.5 ch6 → p.267 -->
 
+### y2v4.5 p.10–290 — Relations in this volume (depth pass)
+[rel:amasawa-ichika] (p.253) Yagami let Horikita's hunt land on him deliberately; he planted the note; she has no idea — yet.
+[rel:hoshinomiya-chie] (p.243) Hoshinomiya half-remembers him as the "cool kid from before"; she vomits on deck for reasons she calls hangover-and-seasickness.
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

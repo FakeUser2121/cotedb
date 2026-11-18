@@ -301,6 +301,9 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 
 <!-- walk: y2v4.5 ch6 → p.267 -->
 
+### y2v4.5 p.10–290 — Relations in this volume (depth pass)
+[rel:ibuki-mio] (p.136–151) The Ibuki–Horikita Amasawa watch is reflected on this side too (pp.136–151).
+
 ## y2v5
 
 <!-- walk: y2v5 → start -->

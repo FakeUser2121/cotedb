@@ -109,6 +109,11 @@ char_id: utomiya-riku · class: Class 1-C · status: unknown
 
 
 
+### y2v4.5 p.10–290 — Relations in this volume (depth pass)
+[rel:kurachi] (p.189–191) Kurachi fingers him as the planner; he never appears on-page.
+[rel:nanase-tsubasa] (p.189–190) She confronts his tent-plan; he's not there.
+[rel:ryuuen-kakeru] (p.190) Ryūen wants to hunt him; she stalls him.
+
 ## y2v7
 
 <!-- walk: y2v7 → start -->

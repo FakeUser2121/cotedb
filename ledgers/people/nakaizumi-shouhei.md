@@ -10,6 +10,7 @@ char_id: nakaizumi-shouhei · class: unknown · status: unknown
 ### y2v4.5 p.74 — Named at the bow-deck lunch scene
 [mentioned] (p.74) Ayanokōji, scouting the bow deck for a lunch spot, notes second-years eating outdoors overlooking the ocean: "my classmates Ijūin and Okitani, Sakayanagi from Class A, and Nakaizumi and Suzuki from Ryūen's class."
 [note] (p.74) Nakaizumi is named with Suzuki as Ryūen's-class companions at the deck; he is the shadow behind Nanase's daily movements (Ayanokōji's read, pp.177–178).
+[rel:ayanokouji-kiyotaka] (p.178) He shadows Nanase; Ayanokōji infers Ryūen's shadow behind him; they never meet on-page.
 
 <!-- walk: y2v4.5 ch3 → p.95 -->
 

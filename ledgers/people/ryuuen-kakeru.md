@@ -2262,6 +2262,14 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v4.5 ch5 → p.216 -->
 
+### y2v4.5 p.10–290 — Relations in this volume (depth pass)
+[rel:ayanokouji-kiyotaka] (p.122–126) He holds his own class; Ayanokōji probes it through Hiyori and Katsuragi.
+[rel:katsuragi-kouhei] (p.121–126) His Class A transfer, Katsuragi — Ryūen brought him aboard; the class's new stability rests on him.
+[rel:komiya-kyogo] (p.28–30) He visits Komiya; Komiya likes his change in him.
+[rel:sakayanagi-arisu] (p.85–89) Their mutual 'deal' — the Hōsen gambit; she denies payment.
+[rel:shiina-hiyori] (p.121–122) Shiina watches his class's implosion risk; he barely knows her.
+[rel:tokitou-hiroya] (p.119–124) The one who hates him most; the rebellion against him.
+
 ## y2v5
 
 <!-- walk: y2v5 → start -->

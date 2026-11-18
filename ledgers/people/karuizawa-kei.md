@@ -1824,6 +1824,12 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [narrates] (p.278) "I had an awesome boyfriend I wanted to brag about…"
 [trait] (p.277–278) Happy and relieved — happy he's "an awesome boyfriend" she wants to brag about, nervous about revealing the relationship but certain of his protection; treasures his sturdy, comfortable hand; counts the coming kiss as their second (or third, counting a dream she'd seen before).
 [rel:ayanokouji-kiyotaka] (p.277–278) Her boyfriend — plans to tell her closest friends first, then let it spread "like wildfire."
+
+### y2v4.5 p.10–290 — Relations in this volume (depth pass)
+[rel:ichinose-honami] (p.154–157) Nagumo tells Honami; Kei hears nothing of it on-page.
+[rel:mori-nene] (p.167) Mori is her public-facing pair in the treasure hunt; he doesn't know why she really paired.
+[rel:nagumo-miyabi] (p.154) Nagumo's reveal makes her public existence a liability with no upside; he has not approached her on-page.
+
 ## y2v5
 
 <!-- walk: y2v5 → start -->
@@ -1843,7 +1849,7 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [says] (p.80) "I love you…"
 [trait] (p.65–80) Playful and affectionate — clings to him while cooking, nuzzles and kisses him repeatedly (the kisses tasted of omurice), and says "I love you"; still sharp about class matters, she believes Kushida should have been expelled and struggles to accept Horikita's choice, but comes to partly accept Ayanokōji's explanation of Kushida's unique value.
 [rel:ayanokouji-kiyotaka] (p.65–80) His girlfriend — a tender evening together.
-[rel:shinohara] (p.72–74) Trying to repair her friendship with Shinohara, whom Kushida's leaks hurt.
+[rel:shinohara-satsuki] (p.72–74) Trying to repair her friendship with Shinohara, whom Kushida's leaks hurt.
 [rel:kushida-kikyou] (p.76–78) Thinks she should have been expelled; unconvinced by his argument that Kushida has a unique value.
 
 ### y2v6 p.223–233 — Kei's birthday date; forgiving Ishizaki

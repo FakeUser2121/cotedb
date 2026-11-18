@@ -1807,6 +1807,9 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v4.5 ch5 → p.216 -->
 
+### y2v4.5 p.10–290 — Relations in this volume (depth pass)
+[rel:ayanokouji-kiyotaka] (p.211–213) He warns about study habits to Ayanokōji; the study-group plan is taking off.
+
 ## y2v5
 
 <!-- walk: y2v5 → start -->

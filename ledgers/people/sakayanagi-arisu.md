@@ -1252,6 +1252,12 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [trait] (p.287–288) Perceptive and a little uncharacteristically wistful — judges Ayanokōji incapable of "trust" (he merely keeps Nanase close as a useful piece for first-year intel), admires Nanase's toned body and good upbringing ("blessed with a body from birth"), and finds her own thoughts drifting "in a strange direction"; sets off after him, confident she'll find him ("I had my own kind of weapons").
 [rel:ayanokouji-kiyotaka] (p.287–288) Believes he feels no real trust, only utility; wants him as her opponent.
 [rel:nanase-tsubasa] (p.287–288) Observes her closely and rules her out as a White Room student.
+
+### y2v4.5 p.10–290 — Relations in this volume (depth pass)
+[rel:amasawa-ichika] (p.89–95) Amasawa shows up in person; the chairman's daughter meets the White Room directly.
+[rel:kamuro-masumi] (p.93–95) Her follower; she notices her followers get noticed.
+[rel:katsuragi-kouhei] (p.125) His clash with Hōsen secured her third place; he now gives Ryūen his loyalty.
+
 ## y2v5
 
 <!-- walk: y2v5 → start -->

@@ -685,6 +685,9 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 <!-- walk: y2v4.5 ch6 → p.267 -->
 
 
+### y2v4.5 p.10–290 — Relations in this volume (depth pass)
+[rel:hoshinomiya-chie] (p.243–245) Her morning oversharing; he has seen it three times and learned not to react.
+
 ## y2v5
 
 <!-- walk: y2v5 → start -->

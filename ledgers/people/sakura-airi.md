@@ -1148,6 +1148,10 @@ aliases used for anchors: sakura, airi, sakura-san
 
 <!-- walk: y2v4.5 ch4 → p.158 -->
 
+### y2v4.5 p.10–290 — Relations in this volume (depth pass)
+[rel:miyake-akito] (p.96–113) His opinion of her mattered to her even if she never says so.
+[rel:yukimura-teruhiko] (p.108–113) Keisei calls her "totally attractive"; she doesn't buy it.
+
 ## y2v5
 
 <!-- walk: y2v5 → start -->
