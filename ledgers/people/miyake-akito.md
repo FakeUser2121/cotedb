@@ -602,12 +602,7 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 
 <!-- walk: y2v6 → start -->
 
-### y2v6 pp.11-346 — Full volume
 
-[scene] (p.11) Appears in this volume.
-
-
-<!-- walk: y2v6 Epilogue → p.346 -->
 
 ### y2v6 p.11–14 — Miyake's prologue: falling in love with Haruka; joining a "revenge"
 [scene] (p.11) From his own POV, describes himself as neither a good guy nor a bad guy — an average person who coasts through life, taking up archery on a whim.

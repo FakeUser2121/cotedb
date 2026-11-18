@@ -1738,12 +1738,7 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v6 → start -->
 
-### y2v6 pp.11-346 — Full volume
 
-[scene] (p.11) Appears in this volume.
-
-
-<!-- walk: y2v6 Epilogue → p.346 -->
 
 ### y2v6 p.65–80 — Kei visits Ayanokōji's room; omurice and affection
 [scene] (p.67) Arrives at his room grinning, adopts it as her own ("Welcome, make yourself home~" when Hirata later arrives); eats the omurice he cooks with obvious pleasure.

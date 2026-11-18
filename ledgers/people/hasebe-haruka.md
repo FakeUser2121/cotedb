@@ -628,12 +628,7 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 
 <!-- walk: y2v6 → start -->
 
-### y2v6 pp.11-346 — Full volume
 
-[scene] (p.11) Appears in this volume.
-
-
-<!-- walk: y2v6 Epilogue → p.346 -->
 
 ### y2v6 p.162–176 — Haruka: a "temporary" return; still won't speak to Ayanokōji
 [scene] (p.168) Through Akito, Ayanokōji learns Haruka will return Monday — a "temporary return" arranged by Miyake; she still refuses to speak to him.

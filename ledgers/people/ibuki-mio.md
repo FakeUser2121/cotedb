@@ -1057,12 +1057,7 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v6 → start -->
 
-### y2v6 pp.11-346 — Full volume
 
-[scene] (p.11) Appears in this volume.
-
-
-<!-- walk: y2v6 Epilogue → p.346 -->
 
 ### y2v6 p.112–145 — Ibuki: the cryptic message; breaking into Kushida's room
 [scene] (p.112) Corners Ayanokōji at the dorm elevator, shoving her phone at him over a message he sent ("If you get expelled because of something that has nothing to do with me, naturally, it will count as a loss against me") — she spent a week trying to understand it.

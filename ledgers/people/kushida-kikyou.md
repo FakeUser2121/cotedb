@@ -1835,12 +1835,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y2v6 → start -->
 
-### y2v6 pp.11-346 — Full volume
 
-[scene] (p.11) Appears in this volume.
-
-
-<!-- walk: y2v6 Epilogue → p.346 -->
 
 ### y2v6 p.121–145, 172–175 — Kushida returns: a hostile alliance; the angel facade drops
 [scene] (p.121) Holed up in her room for five days; Ibuki forcibly opens the door and berates her, and Horikita comes to negotiate.

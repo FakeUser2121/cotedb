@@ -8682,12 +8682,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v6 → start -->
 
-### y2v6 pp.11-346 — Full volume
 
-[scene] (p.11) Appears in this volume.
-
-
-<!-- walk: y2v6 Epilogue → p.346 -->
 
 ### y2v6 p.15–19 — Aftermath analysis: why he supported Horikita's "wrong" choice
 [scene] (p.15) Monday, September 20 — reflects on the two causes of the class's fracture: Kushida's explosive revelations and the broken promise to expel only the "traitor."

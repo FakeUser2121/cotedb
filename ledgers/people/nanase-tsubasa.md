@@ -546,14 +546,15 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [rel:kurachi] (p.283–285) The first-year she tails — suspect in the attack on Ayanokōji.
 ## y2v6
 
+
+### y2v6 p.11-346 — nanase-tsubasa mentioned in passing
+[scene] (p.11) Named in this volume.
+[note] (p.11) Passing mentions on pages: p.274, p.276, p.279-284.
+[mentioned] (p.11) Passing mention only.
+
 <!-- walk: y2v6 → start -->
 
-### y2v6 pp.11-346 — Full volume
 
-[scene] (p.11) Appears in this volume.
-
-
-<!-- walk: y2v6 Epilogue → p.346 -->
 
 ## y2v7
 
