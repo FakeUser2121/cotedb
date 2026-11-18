@@ -596,12 +596,13 @@ char_id: ayanokouji-atsuomi · role: White Room director, Ayanokōji’s father 
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — ayanokouji-atsuomi mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.15, p.19, p.22, p.26-28, p.32, p.46-50; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
+### y2v11 p.14–18 — Ch.1: The father, never named on these pages
+[scene] (p.14) The interview's subtext: the three-person meeting set for April 1st; the specter of the man behind the White Room.
+[note] (p.14) “The school data showed that my mother wasn't present.” — unattributed narration; his mother never surfaces on these pages.
+[note] (p.16) Chabashira: the father first replied he would send a proxy; then called to say he would come himself, and asked to be told of any schedule change for the entire class, not only his son's meeting.
+[note] (p.17–18) The three-person meetings run March 26th, 28th, 30th and April 1st; he is in the last slot at 5 PM on the 1st; Kiyotaka reads the sudden change of heart as a trap — "It was obvious" that no White Room man would voluntarily attend; yet he suspects a reason he cannot yet see.
+[note] (p.16) “it was impossible not to think there was a catch.” — unattributed narration on the proxy's reversal.
+[mentioned] (p.14–18) Referenced only as “my father” / “that man”; not named on these pages.
 
-
-
-
+<!-- walk: y2v11 ch1 → p.33 -->
 

@@ -104,11 +104,6 @@ char_id: inogashira-kokoro · class: Class 1-D · status: minor
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — inogashira-kokoro mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.50, p.72-74, p.118, p.151; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.50 — Ch.2: The desertion, eyes meeting
 [scene] (p.50) During the Group 20 lunch line-up; in the next group over, Kōenji slips away from his leader; the first-years are bewildered; Inogashira is stuck with managing him.
 [note] (p.50) “Wait a minute, hey! Kōenji!” — untagged speaker; translation leaves attribution unresolved.
@@ -126,3 +121,21 @@ char_id: inogashira-kokoro · class: Class 1-D · status: minor
 [rel:hirata-yousuke] (p.73) She will not ask Hirata for help either.
 
 <!-- walk: y2v11 ch2 → p.84 -->
+
+### y2v11 p.74 — Ch.2: The desperate plea
+[scene] (p.74) The Kōenji mountain path; she finds him near the oshibana room.
+[note] (p.74) “Inogashira was looking for you. She appeared quite anxious.” — her anxiety; he sees her from a distance.
+[note] (p.74) “I'll tell you something special. One plus one equals two. The answer doesn't change no matter how many times you solve it.” — Kōenji's verdict on the group; her plea is irrelevant to him.
+[mentioned] (p.74) Named in dialogue; not present on these pages.
+
+### y2v11 p.118 — Ch.5: Patchwork
+[scene] (p.118) The patchwork match; she is the sewer who beats him.
+[note] (p.118) “The misfortune of colliding with Inogashira, who excelled among the experienced sewers, resulted in my second individual loss.” — his loss; her excellence in passing.
+[mentioned] (p.118) Named in narration; not present in the match record proper.
+
+### y2v11 p.151 — Ch.6: The win that isn't
+[scene] (p.151) The morning training; he tells Horikita the truth.
+[note] (p.151) “I was completely beaten by Inogashira in ‘Patchwork.’” — his only admission; her name in dialogue.
+[mentioned] (p.151) Named in dialogue; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->

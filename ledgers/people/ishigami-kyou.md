@@ -89,14 +89,10 @@ char_id: ishigami-kyou · class: unknown · status: unknown
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — ishigami-kyou mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.37; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
-### y2v11 p.37 — Ch.2: The absent first-year
-[scene] (p.37) In the bus printouts, Ishigami's name is among the four absent first-years.
-[note] (p.37) Kiyotaka will not get the chance to involve him at the camp; he gets no other mention on these pages.
+### y2v11 p.37 — Ch.2: No on-page presence for Class 2-D
+[scene] (p.37) The only Ishigami on these pages is named among the four absent first-years; Class 2-D Ishigami is a second-year and cannot be that entry.
+[note] (p.37) The first-year absence belongs to Ishigami Kyō of Class 1-A; repaired 2026-11-18 — a prior pass had filed that absence under this entry in error.
+[mentioned] (p.37) Not named on these pages in any form distinguishing him from the first-year.
 
 <!-- walk: y2v11 ch2 → p.84 -->
 ## y2v12

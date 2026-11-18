@@ -3641,6 +3641,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:horikita-manabu] (p.361) Her best memory of him must not be tainted by "unrequited love."
 [rel:sudou-ken] (p.360–361) He raises the loudest voice about her hair and guesses "unrequited love."
 [rel:kushida-kikyou] (p.361) She is more interested in why she cut it than the image change.
+
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -4650,10 +4651,13 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — horikita-suzune mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.27, p.40, p.54, p.56-57, p.70, p.72; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
+### y2v11 p.27 — Ch.1: Her class's internal affairs, overheard
+[scene] (p.27) One clause of her class's affairs surfaces inside the convenience-store probing.
+[note] (p.27) “However, Morishita seemed to become even more suspicious.” — unattributed narration; Hashimoto's cover attempt backfires.
+[note] (p.27) “Whether she had been investigating Horikita's class's internal affairs, she had a good grasp of things that even Hashimoto didn't know.” — unattributed narration; Horikita's class is named as the object of Morishita's investigation.
+[mentioned] (p.27) Her class named; she herself is not present on these pages.
+
+<!-- walk: y2v11 ch1 → p.33 -->
 
 ### y2v11 p.40 — Ch.2: Named in the stacked group
 [scene] (p.40) The organization chart lists Nagumo's group on the bus printout.
@@ -4723,3 +4727,125 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (p.115) She wants Horikita and Ibuki to lose; the three are said to have a miraculously balanced trio; she spits venom on her own side with a smile.
 
 <!-- walk: y2v11 ch5 → p.144 -->
+
+### y2v11 p.145–151 — Ch.6: The blindfold joke and Red Panda
+[scene] (p.145) Third day of living with other years; before breakfast; Ibuki demands a blindfolded match; she backs Kiyotaka's rejection; they run special training.
+[says] (p.147) “...That's about all I noticed... Will it be of any use?”
+[says] (p.147) “You, Ayanokōji-kun.”
+[says] (p.147) “Hmm, is that so? If you want to be unnoticed or don't want to stand out, I think you naturally become inconspicuous. You probably won't speak much either.”
+[note] (p.147) Asked who comes to mind when thinking of a student with a small presence — “You, Ayanokōji-kun.” — at least when he first entered school; the rest he says to himself. The difference, in her words: a person who wants to be unnoticed naturally becomes inconspicuous.
+[says] (p.149) “...Fine. We don't have much time, so can we start the special training?”
+[says] (p.150) “You say that so casually. How can your body not be tired after all that action?”
+[says] (p.150) “You say that, but you're not even breathing heavily. It's not convincing at all.”
+[says] (p.151) “Didn't he lose twice yesterday?”
+[says] (p.151) “Speaking of which, Nagumo-senpai was really happy. He sarcastically said it was a disappointing end to a winning streak, losing at cards, of all things. Did you lose another game after that?”
+[says] (p.151) “I don't know about ‘on purpose,’ but he does seem to regret it. At least, judging by his current state, those two defeats were genuine. Right, Red Panda-kun?”
+[note] (p.146) She works out the injury-risk motive for the last-day slot; her group is a candidate for first place; Ibuki's group lost the chance on day 2.
+[note] (p.151) “Red Panda-kun” — her nickname for him; she keeps it; he hates it.
+[rel:ayanokouji-kiyotaka] (p.145–151) She drives the training forward; she fields the small-presence answer; she hands him a nickname he can't shake.
+[rel:ibuki-mio] (p.145–151) She tolerates the Ibuki situation; the two of them rub oil and water.
+
+### y2v11 p.159–161 — Ch.6: The 17th match, horikita vs Yanagi
+[scene] (p.159) Final stretch; the 17th match against Nagumo's group; she draws Yanagi's line in archery.
+[note] (p.160) The lineup announcement — Horikita vs Yanagi; the group fights one man down after Morishita goes missing; Kiyotaka takes Amasawa; Hirata vs Hashimoto; Kanzaki vs Shintoku; Katsuragi vs Morishita.
+[note] (p.161) She wins her match against Yanagi; Horikita–Kiyotaka–Amasawa–Yanagi–Katsuragi–Hirata–Kanzaki–Shintoku–Morishita; the group takes four of five; Kiyotaka notes the match was worth watching.
+[rel:yanagi-yasuhisa] (p.160–161) She beats him in archery.
+
+<!-- walk: y2v11 ch6 → p.167 -->
+
+### y2v11 p.185–188 — Ch.8: The fight that happens off-page
+[scene] (p.185) They arrive at dawn; the Amasawa rematch is set for 7 o'clock; Kushida shows up as a spectator; Tsubaki is already gone.
+[note] (p.185) The three of them wait with the morning bird; Kushida leaks nothing she shouldn't; her chip-on-shoulder spans both fighters.
+[says:ibuki-mio] (p.186) “But I can knock him down with my kick!”
+[says:ibuki-mio] (p.186) “How this guy's so popular—I just don't understand at allllllllllllllllllllllllll.”
+[says] (p.188) “Yes, thank you. Thanks to you, our chances have increased.”
+[note] (p.188) Horikita bows politely and thanks him; she urges Ibuki to thank him too; Ibuki turns away and snorts; he leaves before the rematch starts.
+[note] (p.188) The Epilogue records that they lost; Amasawa analyzes them mid-fight; the fight itself is never narrated.
+[rel:ibuki-mio] (p.185–188) The two-on-one plan; they fight side by side; they lose together.
+[rel:amasawa-ichika] (p.185–188) The island debt; the grudge; the rematch.
+
+
+<!-- walk: y2v11 ch8 → p.193 -->
+
+### y2v11 p.194–198 — Epilogue: The morning alone
+[scene] (p.194) A few days after the exchange meeting; she waits alone in the cold morning; he sees her from the corner of his eye and approaches.
+[says] (p.195) “Good morning, Ayanokōji-kun.”
+[says] (p.195) “You're early.”
+[says] (p.195) “In a way? That's a scary way to put it.”
+[says:ayanokouji-kiyotaka] (p.195) “I often talk to you about special exams and class-related matters, but sometimes I want to talk about things that have nothing to do with that.”
+[says] (p.195) “Forever is an exaggeration. Sure, that's true, but we still have over a year until graduation, right? We don't have to arrange meetings like this, I can chat anytime.”
+[says:ayanokouji-kiyotaka] (p.195) “What if I were to be expelled at the end-of-year exam?”
+[says] (p.195) “That's a jump. I don't think you'll be expelled. But seeing how easily you get common sense questions wrong, maybe there's a possibility...”
+[says] (p.195) “Are you really worried that you might be expelled? Is that why you wanted to talk so early in the morning...?”
+[says:ayanokouji-kiyotaka] (p.195) “The last special exam has become a bit of a trauma for me.”
+[says] (p.196) “Then why don't you try to remember more common sense questions? You're good at studying.”
+[says:ayanokouji-kiyotaka] (p.196) “So, can you memorize game and anime terms as effectively as studying for other subjects?”
+[says] (p.196) “Don't worry. From a class perspective, your existence is essential. Even if you struggle with common sense questions, I'll always back you up. In other words, you won't be expelled.”
+[says] (p.196) “Actually, I'm not worried about myself, but about the possibility of your expulsion.”
+[says] (p.196) “In reality, that seems more likely.”
+[says] (p.196) “That many?”
+[says:ayanokouji-kiyotaka] (p.196) “To comply with the government's policy, they'll make the rules more strict?”
+[says] (p.196) “Last year, because there were no dropouts, it was forcibly changed from zero to one expulsion. I wouldn't be surprised if several people will get expelled in the upcoming end-of-year exam.”
+[says] (p.196) “Aren't you overthinking...?”
+[says] (p.196) “In that case, I guess so. I'd like you to work hard too.”
+[says] (p.196) “That's a rather unusual answer for you. Between the special training and now, you've been a bit too cooperative lately. Even with the Amasawa-san situation, you didn't look displeased even once.”
+[says] (p.197) “I heard about the results from Kushida, it seems you fought well, but you lost.”
+[says] (p.197) “She's really strong, isn't she? Even if we fought two against one, we still couldn't win in the end.”
+[says] (p.197) “You should be able to have a better fight next time.”
+[says:ayanokouji-kiyotaka] (p.197) “Ibuki-san said she wouldn't team up with me again.”
+[says] (p.197) “It's fine. She forgets things quickly.”
+[says:ayanokouji-kiyotaka] (p.198) “She's my ex-girlfriend.”
+[says:ayanokouji-kiyotaka] (p.198) “It was a bad joke.”
+[says] (p.198) “Someday, I want to hear the truth from your own mouth, Ayanokōji-kun.”
+[says] (p.198) “I'm not.”
+[note] (p.194–198) She expects several dropouts in the end-of-year exam; the government's annual 10-dropout target; she promises she'll always back him; she laughs at the bad ex-girlfriend joke; the conversation never stops being about the exam.
+[rel:ayanokouji-kiyotaka] (p.194–198) The morning walk; the exam stakes; the promise of backup; the bad joke.
+
+
+<!-- walk: y2v11 Epilogue → p.223 -->
+
+### y2v11 p.70–78 — Ch.2: Her class
+[scene] (p.70) The group-9 match; her class is the opponent.
+[note] (p.70) “From Horikita's class, Ike and Keisei were there.” — her class (2-B) is the opposing group; she is not present on these pages' match.
+[note] (p.72) “Even the great Nagumo couldn't foresee or determine whether Horikita and the others could make good oshibana.” — Nagumo's blind spot; she is named.
+[note] (p.73) “Tatebayashi is the leader of the group to which Inogashira and Kōenji belong, the third-year Class D.” — her class named again in contrast.
+[note] (p.78) “Because if you step out of the class, you won't be able to protect Horikita girl, right?” — Kōenji names her exact role: the prize to be protected.
+[mentioned] (p.70–78) Named throughout; not present on these pages.
+
+### y2v11 p.85 — Ch.3: The request chapter
+[scene] (p.85) The chapter opens at the shared room; she is not in it.
+[note] (p.85) “Request from Horikita and Request from Ayanokōji” — the chapter title; the two requests both point at her.
+[mentioned] (p.85) Named in the chapter title; not present in the shared-room scene.
+
+### y2v11 p.90 — Ch.3: Honda and Shinohara
+[scene] (p.90) The lobby reconnaissance; she is not in it.
+[note] (p.90) “Hondō and Shinohara from Horikita's class are assigned to the same group as Sakayanagi” — her class named as the group Sakayanagi sits in.
+[mentioned] (p.90) Named in dialogue; not present on these pages.
+
+### y2v11 p.121 — Ch.5: Her class's bench
+[scene] (p.121) Sanada's concern; she is named.
+[note] (p.121) “Even if we limited it to Horikita's class, Yōsuke and Kushida would be much more capable.” — class 1-B named.
+[mentioned] (p.121) Named in dialogue; not present on these pages.
+
+### y2v11 p.163 — Ch.6: The leverage Nagumo holds
+[scene] (p.163) The empty rest area; he holds cards on her.
+[note] (p.163) “Well… if I was told to win at all costs, I might’ve manipulated Horikita and Yōsuke to miss the target so that I could win.” — Nagumo names her as his leverage.
+[mentioned] (p.163) Named in dialogue; not present on these pages.
+
+### y2v11 p.182–183 — Ch.8: The morning she arrives
+[scene] (p.182) The camp's final morning; she and Ibuki are the 7 o'clock fight.
+[note] (p.182) “Horikita and Ibuki were still showing up early in the morning.” — the morning she shows up; he doesn't see her yet; the special training is hers.
+[note] (p.183) “Anyway, I was planning to go outside to accompany Horikita and Ibuki for their final special training.” — the walk-out with her.
+[mentioned] (p.182–183) Named in narration; on-page from p.185.
+
+### y2v11 p.199 — Epilogue: The morning commute
+[scene] (p.199) The flashback opens; the commute from days earlier.
+[note] (p.199) “Rewinding time a little from my commute to school with Horikita and the exchange meeting.” — the morning commute established.
+[mentioned] (p.199) Named in narration; the flashback is not hers.
+
+### y2v11 p.221 — Postscript
+[scene] (p.221) The translator's afterword; she is named as missing.
+[note] (p.221) “Horikita and Ibuki's fight with Ichika was done off screen” — the translator's complaint about the off-screen fight; she is named as one of the two missing fighters.
+[mentioned] (p.221) Named in the afterword; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->

@@ -52,11 +52,6 @@ char_id: ichihashi-ruri · class: Class 1-D · status: minor
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — ichihashi-ruri mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.36-37; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.36–37 — Ch.2: The absent classmate
 [scene] (p.36) On the bus; Chabashira names Ichihashi among those kept home by illness.
 [note] (p.37) Listed as absent in the group printouts: two second-years, Ichihashi and Ichinose, and four first-years; Ichihashi gets no other mention on these pages.

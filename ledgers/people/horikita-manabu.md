@@ -982,11 +982,6 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — horikita-manabu mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.27, p.39-40, p.54, p.56-57, p.59, p.65; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.54–57 — Ch.2: The university Nagumo admires
 [scene] (p.54) Rest Area; the third-years' exam season; Horikita Manabu's generation is named as the one that likely struggled at the earlier mixed camp.
 [note] (p.56) Nagumo reveals Horikita Manabu is at the same university he is entering; admiration for Manabu drives his choice.
@@ -994,3 +989,20 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [note] (p.57) No on-page presence; he is named as absent text only.
 
 <!-- walk: y2v11 ch2 → p.84 -->
+
+### y2v11 p.164–167 — Ch.6: The farewell message
+[scene] (p.165) The exchange meeting closes; Nagumo is stopped with one last request: a message to pass to Horikita-senpai.
+[says:nagumo-miyabi] (p.165) “Huh? A message? To Horikita-senpai?”
+[note] (p.166–167) He doesn't laugh it off; “That's a strange message.” — the second phase at Horikita-senpai's place; Nagumo reads the message as addressed to Horikita Manabu; the page never confirms which Horikita it is for; the two readings are both possible on these pages.
+[mentioned] (p.165–167) Named as the recipient of the farewell message; not present on these pages.
+
+
+<!-- walk: y2v11 ch6 → p.167 -->
+
+### y2v11 p.179–181 — Ch.7: The always-causing-a-stir figure
+[scene] (p.180) The 1 a.m. cafeteria confrontation; Manabu is named twice by Amasawa as the figure who always caused a stir.
+[says:amasawa-ichika] (p.179) “Last year and the year before, the one always causing a stir at this school was Horikita Manabu.”
+[note] (p.179–180) She ranks Manabu and Ayanokōji as the two outlier years of her three-year run; she doesn't hate them — she couldn't reach their realm either; her verdict is about her own limit.
+[mentioned] (p.179–181) Named by Amasawa as the proximate cause of the summons; not present on these pages.
+
+<!-- walk: y2v11 ch7 → p.181 -->

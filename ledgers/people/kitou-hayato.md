@@ -260,11 +260,6 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — kitou-hayato mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.88, p.91, p.98, p.111-113, p.121, p.123-124; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.88–98 — Ch.3: The angriest man in Class A
 [scene] (p.88) Hashimoto whispers that Kitō is really angry at the betrayal; also recalled for pillow-fighting Ryūen on a school trip.
 [note] (p.88) He is named as Class A's angriest man; Hashimoto expects him to act when the betrayal goes public.
@@ -281,6 +276,18 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 [rel:amasawa-ichika] (p.112–113) He grabs her wrist; she jokes about it; he does not let go.
 
 <!-- walk: y2v11 ch4 → p.113 -->
+
+### y2v11 p.121 — Ch.5: The edge
+[scene] (p.120) The rest-area check-in; Sanada names him.
+[note] (p.121) “After the last exam, Kitō-kun has been on edge, but I think he's still able to keep his self-control in check because you're by Hashimoto-kun's side.” — Sanada's observation.
+[mentioned] (p.121) Named in dialogue; not present on these pages.
+
+### y2v11 p.132 — Ch.5: The class-A priority
+[scene] (p.132) The Ryūen–Tokitō–Hōsen scene; he is named.
+[note] (p.132) “We'll focus on Class A. The most troublesome one right now is Kitō, not Sakayanagi. He could go berserk at any moment.” — Ryūen's verdict; he is the priority target.
+[mentioned] (p.132) Named in dialogue; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

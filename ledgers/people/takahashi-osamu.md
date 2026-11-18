@@ -66,17 +66,19 @@ char_id: takahashi-osamu · class: unknown · status: unknown
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — takahashi-osamu mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.40, p.70, p.84, p.164; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.70–84 — Ch.2: Nagumo's eyes
 [scene] (p.70) He spectates at the oshibana match among a few onlookers; Nagumo had him follow the games to confirm results.
 [note] (p.84) He keeps following through Day 1's five straight Group 20 wins: oshibana, pottery, table tennis ×2, jewelry making.
 [note] (p.40) Named as a first-year Class A member of Nagumo's group: Takahashi Osamu, Tōdō Rin, Amasawa Ichika.
 
 <!-- walk: y2v11 ch2 → p.84 -->
+
+### y2v11 p.164 — Ch.6: The clumsy signature
+[scene] (p.164) The empty rest area; he is cited as a witness.
+[note] (p.164) “Nagumo had always wanted to know my strength. So, in some form or another, he must've been able to see my true self without any of my clumsiness since his group members, such as Takahashi, were glued to all the games.” — the confirmation mechanism; his group's eyes in every match.
+[mentioned] (p.164) Named in narration; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

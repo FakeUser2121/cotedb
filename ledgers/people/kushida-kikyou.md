@@ -1940,11 +1940,6 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — kushida-kikyou mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.115-117, p.121, p.150, p.185-186, p.188, p.197; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.115 — Ch.5: On Kushida's lips
 [scene] (p.115) She is named as the opposing group's anchor at the sculpture; sixth consecutive participation.
 [says] (p.115) “It seems that your group had a good start with five consecutive wins yesterday, Ayanokōji-kun.”
@@ -1958,3 +1953,36 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:ayanokouji-kiyotaka] (p.114–117) She negotiates for the win bribe; he wins 3–2 anyway.
 
 <!-- walk: y2v11 ch5 → p.144 -->
+
+### y2v11 p.185–188 — Ch.8: The spectator
+[scene] (p.185) She shows up at dawn for the fight; she tags along with Horikita and Ibuki; she plans to watch everything on her phone.
+[says:horikita-suzune] (p.185) “Ibuki-san here carelessly leaked about her rematch with Amasawa-san. Carelessly.”
+[says] (p.185) “For me, it's like a win-win situation no matter who loses.”
+[says] (p.185) “About Tsubaki-san earlier, was it about love? I've been thinking for a while, but Ayanokōji-kun, you're surprisingly popular, aren't you?”
+[says] (p.186) “...Well, it's not that he doesn't have any appeal, right? If you look around, you can see that there are no other decent men, right? Compared to such riffraffs, he might look better.”
+[says] (p.186) “Then, if you had to date either Ryūen-kun or Ayanokōji-kun, who would you choose, Ibuki-san?”
+[says] (p.188) “Eh? Aren't you going to watch, Ayanokōji-kun? I thought we were going to watch together.”
+[note] (p.185) She has a dispute with Amasawa herself from the cultural festival; she wants either side to lose; her glee is indiscriminate.
+[note] (p.188) She declares she'll watch the whole thing and brought her phone as a witness.
+[rel:amasawa-ichika] (p.185–188) The cultural-festival dispute; today's rematch.
+[rel:horikita-suzune] (p.185–188) The borrowed fight; the dawn show.
+
+
+<!-- walk: y2v11 ch8 → p.193 -->
+
+### y2v11 p.121 — Ch.5: The capable second-year
+[scene] (p.121) Sanada's worry; her class is named.
+[note] (p.121) “Even if we limited it to Horikita's class, Yōsuke and Kushida would be much more capable.” — her class 2-B named; she is the benchmark.
+[mentioned] (p.121) Named in dialogue; not present on these pages.
+
+### y2v11 p.150 — Ch.6: The Kushida-level spite
+[scene] (p.150) The morning training; the narration compares them.
+[note] (p.150) “Just like Kushida, did she really want to see Horikita lose that much?” — his comparison of Ibuki to her.
+[mentioned] (p.150) Named in narration; not present on these pages.
+
+### y2v11 p.197 — Epilogue: The report from Kushida
+[scene] (p.194) The commute with Horikita; the results reported.
+[note] (p.197) “I heard about the results from Kushida, it seems you fought well, but you lost.” — Horikita relays the report.
+[mentioned] (p.197) Named in dialogue; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->

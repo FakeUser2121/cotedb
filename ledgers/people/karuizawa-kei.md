@@ -1969,10 +1969,15 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — karuizawa-kei mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.19, p.21, p.26, p.30, p.34-35, p.37-38; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
+### y2v11 p.19–30 — Ch.1: Due after the interview
+[scene] (p.19) His room carries Kei's traces; Hashimoto reads the whole scene with a whistle and sits on the bed.
+[mentioned] (p.19) Named as the girl due later that night; her presence is felt only through her traces on the room.
+[mentioned] (p.21) Kiyotaka keeps to himself the fact that Kei would be coming to the room later tonight; Hashimoto would not schedule around it anyway.
+[says:hashimoto-masayoshi] (p.26) “Sorry. Karuizawa is coming after this, right? I've talked too long.”
+[mentioned] (p.30) Kiyotaka contacts Kei by phone from the convenience store to settle what to buy her for dinner.
+[note] (p.30) Her replies are not shown on these pages; the dinner order is reached without on-page dialogue from her.
+
+<!-- walk: y2v11 ch1 → p.33 -->
 
 ### y2v11 p.34–44 — Ch.2: The way there, with Kiyotaka
 [scene] (p.34) 9:30 Thursday morning; she's seated right by Kiyotaka on the bus; group 7 with Tanaka-senpai; her movie date March 26 fixed on the bus.
@@ -1988,3 +1993,38 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:ayanokouji-kiyotaka] (p.34–44) Sticks to him on the way there; freezes at his reaction; keeps arguing he's too close to Ichinose.
 
 <!-- walk: y2v11 ch2 → p.84 -->
+
+### y2v11 p.179–180 — Ch.7: The possible target
+[scene] (p.179) The 1 a.m. cafeteria confrontation; Amasawa names her as the possible target.
+[note] (p.179) Amasawa considers beating up Karuizawa-senpai and expelling her, then drops it: Ayanokōji's personal goals make it off-limits.
+[mentioned] (p.179) Named in Amasawa's abandoned plan; not present on these pages.
+
+<!-- walk: y2v11 ch7 → p.181 -->
+
+### y2v11 p.45 — Ch.2: The bon viveur
+[scene] (p.45) The morning departure; she is not in the group scene proper.
+[note] (p.45) “Well, see you later, Kiyotaka.” — her goodbye on the bus platform; she rides a different bus.
+[mentioned] (p.45) Named in dialogue; not present on these pages.
+
+### y2v11 p.47 — Ch.2: The side-glance
+[scene] (p.47) The Group 20 roster assembly; she is not there.
+[note] (p.47) “I don't want you to take it the wrong way, but I think you two look more natural together than when you're with Karuizawa.” — Hashimoto's observation; she is the comparison point.
+[mentioned] (p.47) Named in dialogue; not present on these pages.
+
+### y2v11 p.172 — Ch.7: The human nature line
+[scene] (p.168) The vending machine conversation; she is not in the scene.
+[note] (p.172) “Whether it was Yōsuke, Kei, Ryūen, Sakayanagi, or any other student, human nature was the same.” — Kiyotaka's internal read; she is named in the roll of ordinary hearts.
+[mentioned] (p.172) Named in narration; not present on these pages.
+
+### y2v11 p.185 — Ch.8: The girlfriend
+[scene] (p.185) The dawn arrival; the rematch wait.
+[note] (p.185) “On the contrary, let me ask you in return, are you confident that you're popular?” — Horikita's jab; she is the subject of the popularity question.
+[note] (p.185) “You're dating Karuizawa-san after all.” — Horikita states it; she is the girlfriend in the open.
+[mentioned] (p.185) Named in dialogue; not present on these pages.
+
+### y2v11 p.194 — Epilogue: The plan
+[scene] (p.194) The morning commute; her problem waits ahead.
+[note] (p.194) “First, I had to deal with the issue concerning Karuizawa Kei. Nothing special was needed for this. I just needed to proceed with the process as originally planned.” — the plan for her; he leaves alone on purpose.
+[mentioned] (p.194) Named in narration; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->

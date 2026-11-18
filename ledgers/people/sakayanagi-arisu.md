@@ -1408,10 +1408,24 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — sakayanagi-arisu mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.10-11, p.19, p.21-25, p.29-30, p.40, p.86-91; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
+### y2v11 p.19–30 — Ch.1: The betrayal she owns
+[scene] (p.19) Her class name hangs over Ch.1: the man at his door is “a student from Sakayanagi's class”; the shadow of her Class A looms over every page of the interview aftermath.
+[note] (p.19) “It was Hashimoto Masayoshi, a student from Sakayanagi's class.” — unattributed narration.
+[note] (p.20–21) The leak during the special exam left Class A at the bottom; Kamuro dropped out; the 100 class points lost; the betrayal's price was too high to justify.
+[note] (p.22) “Drawing a bow against Sakayanagi was tantamount to aiming for the general's head.” — unattributed narration; the target written on pp.22–25.
+[says:hashimoto-masayoshi] (p.25) “I won't deny it. But Ryūen and Sakayanagi are the same, right? Other people are useless.”
+[note] (p.28–29) Walking to the convenience store, Hashimoto mixes truth and lies in similar proportions; Kiyotaka suspects the whole encounter was engineered so that Sakayanagi would indirectly learn he contacted Kiyotaka.
+[note] (p.30) Back in the store, the question recurs: whether Yamamura is acting alone or whether Sakayanagi is hiding behind her.
+
+<!-- walk: y2v11 ch1 → p.33 -->
+### y2v11 p.10 — Prologue: named in Yamamura's monologue
+[scene] (p.10) Her name surfaces in Yamamura Miki's Prologue monologue as the person whose defeat is being felt: the opening image of the volume.
+[note] (p.10) The monologue holds an unattributed remembered line about her — “...After all... I don't think losing suits Sakayanagi-san...” — the speaker is not identified on these pages.
+[note] (p.10) A second remembered line, also unattributed: “Why don't you try telling her? No one has the right to criticize your actions.”
+[note] (p.10) She does not appear on these pages; the Prologue establishes her as the emotional axis of the volume before the lottery confession of Ch.7.
+[mentioned] (p.10) Named in the Prologue monologue only.
+
+<!-- walk: y2v11 Prologue → p.10 -->
 
 ### y2v11 p.40–41 — Ch.2: The absence on the list
 [scene] (p.40) The organization chart is read on the bus; Sakayanagi is named as an example of high-OAA chemistry in any group.
@@ -1456,3 +1470,157 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:hashimoto-masayoshi] (p.110) She plants the warning deliberately; she wants him to keep his mouth shut.
 
 <!-- walk: y2v11 ch4 → p.113 -->
+
+### y2v11 p.172–176 — Ch.7: The lottery lives in Yamamura
+[scene] (p.172) Yamamura confesses to Kiyotaka in the dark; the survival and elimination exam haunts her.
+[says:yamamura-miki] (p.173) “If you didn't have the courage to draw a lot, it was the same as abstaining...”
+[note] (p.172–174) The draw: she was on Sakayanagi's side of the scales in the survival and elimination exam — except Kamuro was the other side; Sakayanagi chose the lottery because that was the most equitable decision; she had to be persuaded not to stop it.
+[note] (p.173) She is the one Sakayanagi discarded in an instant — the two are a matched pair by the exam's design; neither is named for the other in the class anymore.
+[note] (p.176) Her two wishes for Kiyotaka's intervention — to know what Sakayanagi thought of her then and now; and that Sakayanagi, who doesn't suit losing, should not struggle in the end-of-year exam.
+[rel:yamamura-miki] (p.172–176) She haunts Sakayanagi's sleep and her decisions; the camp's final act brings the two to the dog park.
+
+
+<!-- walk: y2v11 ch7 → p.181 -->
+
+### y2v11 p.188–193 — Ch.8: The legs he lends
+[scene] (p.188) The morning everything ends; 7 o'clock; the fight; he leaves before it starts; he has one thing to do; she waits on a bench at the promised time.
+[says:ayanokouji-kiyotaka] (p.188) “It's cold, isn't it? You didn't have to come earlier than the promised time.”
+[says] (p.188) “Don't worry about it. It's not often that you call out to me, Ayanokōji-kun. I enjoyed waiting.”
+[says:ayanokouji-kiyotaka] (p.189) “Can I sit next to you?”
+[says] (p.189) “I've kept it open for that purpose.”
+[says:ayanokouji-kiyotaka] (p.189) “I'll get straight to the point. I've got Yamamura waiting in the dog park nearby.”
+[says] (p.189) “Eh? The dog park? Yamamura-san? What do you mean?”
+[says:ayanokouji-kiyotaka] (p.189) “You knew about it. That Yamamura and I were in the same group.”
+[says] (p.189) “That's a surprise. Naturally, I had already figured out which group each student in the class was assigned to when we got on the bus. I was just observing this time, so I didn't interfere with the exchange meeting.”
+[says:ayanokouji-kiyotaka] (p.189) “On the second day of the camp, when we talked in the lobby, do you remember what you said? 'Hashimoto-kun and Morishita-san are in the same group. How is Hashimoto-kun doing?' That's what you said. It's impossible for you to overlook Class A's group assignments, as you seem to pride yourself on. Yet, you didn't even mention Yamamura's name, did you?”
+[says] (p.190) “...Yes, that's right. I admit that I didn't mention Yamamura-san's name at that time. But it's none of your business, is it, Ayanokōji-kun?”
+[says:ayanokouji-kiyotaka] (p.190) “Indeed, it's none of my business. I'm probably meddling in others' affairs by doing this.”
+[says:ayanokouji-kiyotaka] (p.190) “You lost Kamuro. And at the same time, you were entrusted with her feelings. But that doesn't mean everything is back to normal. You haven't even finished choosing who to keep by your side, have you?”
+[says] (p.190) “Indeed, I haven't decided yet, but are you suggesting that I should appoint Yamamura-san?”
+[says:ayanokouji-kiyotaka] (p.190) “That's not what I meant. People have their own strengths and weaknesses.”
+[says:ayanokouji-kiyotaka] (p.190) “The survival and elimination special exam—there are some people that still seem to be trapped in that exam.”
+[says] (p.190) “...Are you talking about me and Yamamura-san?”
+[says:ayanokouji-kiyotaka] (p.190) “That's right. Yamamura is suffering and can't move forward, even though her situation is very different from yours.”
+[says:ayanokouji-kiyotaka] (p.190) “If you're still bothered by that, you should resolve it.”
+[says] (p.190) “...What you're saying is strange, Ayanokōji-kun.”
+[says:ayanokouji-kiyotaka] (p.190) “Strange?”
+[says] (p.190) “I thought you were just going to stand on the sidelines from now on. Isn't your unnecessary intervention excessive?”
+[says:ayanokouji-kiyotaka] (p.190) “That's right. I also thought until a little while ago that I should just stand on the sidelines from here on.”
+[says:ayanokouji-kiyotaka] (p.190) “I don't particularly want you to have anything to do with Yamamura. I don't have any such hopes at all. Whether you want to get closer or more distant, or even cut ties, is up to you. But if you're going to talk, now is the only time.”
+[says] (p.190) “Wouldn't it be smartest to leave everything behind at this training camp?”
+[says:ayanokouji-kiyotaka] (p.190) “As I said earlier, I have Yamamura waiting in the dog park. She's been waiting for you in the cold for over 20 minutes now.”
+[says] (p.190) “If that's the case, aren't you being a bit mean, Ayanokōji-kun? The time you promised to meet me was 7 o'clock. We haven't even been talking for ten minutes yet. Doesn't that mean she's been waiting since before that?”
+[says:ayanokouji-kiyotaka] (p.191) “This is also part of my strategy.”
+[says] (p.191) “I guess there's no choice. I can't let her catch a cold because of me. Let's go pick her up for now.”
+[says:ayanokouji-kiyotaka] (p.191) “It's a bit of a distance, but even you can walk there in about five minutes. Go ahead.”
+[says] (p.191) “...My... leg...”
+[says] (p.191) “My leg... I can't move it... I wonder why.”
+[says:ayanokouji-kiyotaka] (p.191) “Don't feel like you can show this side to anyone else?”
+[says] (p.191) “...Yes, that's right...”
+[says:ayanokouji-kiyotaka] (p.191) “Then, just for now, I'll be your legs. That should make it easy for you to walk.”
+[says] (p.192) “...I'm sorry.”
+[says:ayanokouji-kiyotaka] (p.192) “It's okay. It's my own meddling that started this.”
+[note] (p.191) The Kamuro wound; her body refuses to walk; he takes her left hand; he doesn't let go; they walk in silence.
+[note] (p.193) She raised her hand slowly from the distance; he gently pushes her back; the two walk ahead on their own; the exchange meeting ends; he leaves a different way.
+[rel:yamamura-miki] (p.188–193) The two finally meet at the dog park; the inseparable pair.
+[rel:ayanokouji-kiyotaka] (p.188–193) He lends her his legs; he doesn't stay for the reveal; he trusts the process.
+
+
+<!-- walk: y2v11 ch8 → p.193 -->
+
+### y2v11 p.194–198 — Epilogue: The morning alone
+[scene] (p.194) A few days after the exchange meeting; she is in the classroom when he passes; he nods; she nods back.
+[note] (p.194) The exchange meeting ended; the two are still in disarray; each has their own plans.
+[rel:ayanokouji-kiyotaka] (p.194–198) The morning; the nod; the exam stakes.
+
+### y2v11 p.205–209 — Epilogue: The bet Ryūen can't win
+[scene] (p.205) A few days after the exchange meeting; the career counseling room; she waits for someone; Mashima stands with arms crossed in confusion.
+[says:ryuuen-kakeru] (p.205) “Heh, Ayanokōji did something unnecessary too.”
+[says:ryuuen-kakeru] (p.206) “Huh, don't make me laugh. We'll never get along. I don't remember being saved by Ayanokōji. Rather, what I got was hatred. Hatred for revenge.”
+[says:ryuuen-kakeru] (p.207) “I lost to Ayanokōji. I thought it was okay to lose as many times as I wanted as long as I won in the end, but that man mercilessly crushed that indomitable spirit. I was so drained.”
+[says:ryuuen-kakeru] (p.207) “Are you saying you had your eye on him earlier?”
+[says] (p.207) “Yes. You unfortunately only learned of his existence at this school. However, unlike you, I've been following him with my own eyes since childhood.”
+[says] (p.207) “Although our motives are different, it seems that our final goals are the same, Ryūen-kun. I have been wishing to fight him since long before you. We only have one year left in our school life. I need to get rid of any obstacles before then.”
+[says:ryuuen-kakeru] (p.207) “Your revenge will not be fulfilled. You will stumble just before it.”
+[says:ryuuen-kakeru] (p.207) “You're probably planning for a showdown on the throne, but that scheme will fail.”
+[says:mashima-tomonari] (p.207) “You seem to be moving the conversation along on your own, but could you explain the situation?”
+[says:mashima-tomonari] (p.208) “Are both of you really okay with this? If we agree, we will have to enforce the expulsion forcibly based on the end-of-year results. Both of you are in important positions; you two play the leader role in your classes. Major disruption is inevitable.”
+[says] (p.208) “Yes. It will be virtually impossible to repair the defeated class, and it will be impossible to avoid dropping out of the four-way battle before advancing to the third-year.”
+[says] (p.209) “Please don't hope for a draw to invalidate the bet, okay?”
+[says:ryuuen-kakeru] (p.209) “I won't recognize a draw. If that happens, we can decide by lottery, just like how you abandoned Kamuro.”
+[says] (p.209) “That's also fun. Let's look forward to it.”
+[note] (p.207) She follows Ayanokōji with her own eyes since childhood; Ryūen knows nothing of it; the showdown is being planned without either knowing it.
+[rel:ryuuen-kakeru] (p.205–209) The hatred; the bet; the showdown; the throne.
+[rel:ayanokouji-kiyotaka] (p.205–209) The target waits beyond Ryūen; the two fuse their motives without speaking them.
+[rel:mashima-tomonari] (p.205–209) The witness; he knows what the contract means; he says nothing now.
+[rel:sakagami] (p.205–209) The witness; the Protection Point; he knows what the contract means; he says nothing now.
+
+
+<!-- walk: y2v11 Epilogue → p.223 -->
+
+### y2v11 p.11 — Ch.1: The new dropout
+[scene] (p.11) February; the interviews; the year opens.
+[note] (p.11) “Due to her close position to Sakayanagi, Kamuro becoming a new dropout surprised the second-year students.” — the year opens with her shadow.
+[mentioned] (p.11) Named in narration; not present on these pages.
+
+### y2v11 p.95 — Ch.3: The empty lobby
+[scene] (p.95) The rendezvous attempt; she is nowhere.
+[note] (p.95) “I decided to look for Sakayanagi a little longer.” — his hunt; she is the quarry.
+[note] (p.95) “However, I wandered around the training ground aimlessly, but I couldn't find Sakayanagi.” — the failure.
+[mentioned] (p.95) Named in narration; not present on these pages.
+
+### y2v11 p.121 — Ch.5: The special treatment
+[scene] (p.120) The rest area; her treatment of him.
+[note] (p.121) “It's largely because of how Sakayanagi-san sees it. Even I can tell that she treats you in a special way.” — Sanada's read.
+[mentioned] (p.121) Named in dialogue; not present on these pages.
+
+### y2v11 p.124–128 — Ch.5: The Tokitō purge
+[scene] (p.124) The Tokitō trap; she is the reason.
+[note] (p.124) “Ryūen had particularly warned Kondō and Jima, who were in the same group as Sakayanagi when they were announced on the bus.” — the warning he gave.
+[note] (p.126) “It doesn't. And I told you this before too, right? Either ignore Sakayanagi or, if possible, inflict psychological damage and corner her thoroughly.” — Ryūen's order.
+[note] (p.127) “Then shall I make you understand with your body?” — the punishment she prompted? no; the punishment he prompted.
+[note] (p.128) “Got it? This is my advice. If you understand, don't ever help Sakayanagi again.” — the advice.
+[mentioned] (p.124–128) Named in dialogue; not present on these pages.
+
+### y2v11 p.132 — Ch.5: The priority
+[scene] (p.132) The Ryūen–Tokitō–Hōsen scene; she is named.
+[note] (p.132) “The most troublesome one right now is Kitō, not Sakayanagi. He could go berserk at any moment.” — the hierarchy of threats.
+[note] (p.132) “We'll focus on Class A.” — Ryūen's class-A priority; she is the target.
+[mentioned] (p.132) Named in dialogue; not present on these pages.
+
+### y2v11 p.133 — Ch.5: The sofa
+[scene] (p.133) The lobby; the war.
+[note] (p.133) “It was right next to the seat where Sakayanagi was sitting this morning.” — his position relative to her.
+[mentioned] (p.133) Named in narration; not present on these pages.
+
+### y2v11 p.142–144 — Ch.5: The walk back
+[scene] (p.142) The walk back; the standings.
+[note] (p.143) “Sakayanagi and Ryūen dropped out of the winning lineup on the second day.” — her fall from the top.
+[mentioned] (p.142–144) Named in dialogue; not present on these pages.
+
+### y2v11 p.156–158 — Ch.6: The forest verdict
+[scene] (p.156) Morishita's verdict on Hashimoto; she is named.
+[note] (p.157) “it would be, yes. I think Sakayanagi Arisu would win nine out of ten times” — Morishita's estimate of the match-up.
+[note] (p.157) “The problem between Sakayanagi and Hashimoto was already set to end soon.” — Kiyotaka's certainty.
+[mentioned] (p.156–158) Named in dialogue; not present on these pages.
+
+### y2v11 p.171 — Ch.7: The other student
+[scene] (p.168) The vending machine conversation; he is named.
+[note] (p.171) “She probably wasn't helping Sakayanagi at the time, so she wouldn't know.” — his read of her visibility to Yamamura.
+[mentioned] (p.171) Named in dialogue; not present on these pages.
+
+### y2v11 p.199–204 — Epilogue: The bet flashback
+[scene] (p.199) The flashback; she is the architect.
+[note] (p.199) “I've been tempted to betray Ryūen since before the previous special exam.” — Hashimoto's motive; she refused him.
+[note] (p.200) “That's true. However, Sakayanagi wouldn't choose to reject the bet just because of the disadvantage.” — her character.
+[note] (p.201) “Do you think Sakayanagi simply conceded or were there certain conditions” — the question he asks, split across the page break in the print.
+[note] (p.203) “If Sakayanagi had followed my instructions, whether that would be before or after I betrayed her in the previous special exam, I was planning to betray Ryūen and join her at the end of the year.” — his plan.
+[note] (p.204) “The reason he approached me and told me the details of the betrayal was all for himself.” — Kiyotaka's read of Hashimoto's motive.
+[mentioned] (p.199–204) Named in dialogue; not present on these pages.
+
+### y2v11 p.218 — Short Story: Please Listen in My Stead
+[scene] (p.218) Morishita's POV on the voice-of-the-forest prank.
+[note] (p.218) “Not to protect Sakayanagi Arisu, nor to protect Class A. I did it for myself.” — Morishita's disclaimer; she is the one not protected.
+[mentioned] (p.218) Named in the short story; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->

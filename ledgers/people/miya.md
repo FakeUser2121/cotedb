@@ -26,11 +26,6 @@ char_id: miya · class: unknown · status: unknown
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — miya mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.55, p.59, p.62, p.82-83, p.121-122, p.130-131; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.121–122 — Ch.5: The Miya crossing
 [scene] (p.121) At the rest area; Sanada panics when he nearly says the wrong thing about Miya; she appears on cue.
 [note] (p.121–122) Miya (class 1-B) catches up to Sanada; they get along in the brass band; she bows when she sees he's mid-conversation; she leaves.

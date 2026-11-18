@@ -625,11 +625,6 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — shiina-hiyori mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.46, p.48-49, p.108, p.137, p.140, p.171; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.47–52 — Ch.2: The gentle magnet
 [scene] (p.47) She walks up to the Group 20 gathering; she greets Ayanokōji warmly; she talks Yamamura into trusting her.
 [says] (p.47) “Good morning, Ayanokōji-kun.”
@@ -669,4 +664,56 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [rel:morishita-ai] (p.137–141) Morishita outmaneuvers her in the advanced-bluff; she loses graciously.
 [rel:yamamura-miki] (p.141) She invites Yamamura to the game when the archer mood sours.
 
+
 <!-- walk: y2v11 ch5 → p.144 -->
+
+### y2v11 p.152 — Ch.6: The missing Morishita
+[scene] (p.152) The shogi lineup is announced; Morishita is missing; she calls the phone; nothing; she reports honestly.
+[says] (p.152) “The call doesn't seem to be connecting.”
+[says] (p.152) “The last time I saw her was at breakfast. She left with you, right?”
+[note] (p.152) She is in the lineup with Kiyotaka, Morishita, Hashimoto, Tsubaki; her check saves them from a wild goose chase inside.
+
+
+<!-- walk: y2v11 ch6 → p.167 -->
+
+### y2v11 p.168–169 — Ch.7: The missing girl
+[scene] (p.168) Past 11 p.m.; she texts Ayanokōji — Yamamura is missing from the girls' room; she weighs going herself, knows she can't be stealthy, and asks for help.
+[says] (p.168) “Are you still awake?”
+[says] (p.168) “It seems to be left in the room. I was contemplating whether to go and look for her now... I was wondering if I could ask for your help, Ayanokōji-kun.”
+[says] (p.169) “Thank you.”
+[note] (p.169) Her reply carries a cute animal stamp; he goes to search while she stays in the room as lookout.
+
+<!-- walk: y2v11 ch7 → p.181 -->
+
+### y2v11 p.211–213 — Short Story: Memories I Don't Want to Forget
+[scene] (p.211) Hiyori's POV on the joker-card scene; she remembers the moment she draws the isolated card and feels validated.
+[narrates] (p.211) “Please go ahead, Shiina Hiyori. Feel free to draw any card you like.”
+[narrates] (p.211) “So... does that mean the single card in her left hand is suspicious?”
+[narrates] (p.211) “Is that so? This is the advanced strategy I came up with.”
+[narrates] (p.211) “Somehow... I'm a little curious about this one card.”
+[narrates] (p.211) “Instinctively, I felt I should choose one from the four, but Morishita-san's composure was palpable.”
+[narrates] (p.211) “No, perhaps that was exactly her plan, and that was the Joker?”
+[narrates] (p.211) “‘The isolated card Morishita-san was holding was the Joker.’ I felt like he was looking at it that way.”
+[narrates] (p.213) “When I turned it over... that card was indeed the Joker.”
+[narrates] (p.213) “I felt validated that what I sensed from Ayanokōji-kun wasn't wrong.”
+[narrates] (p.213) “School life, where I could spend precious time with friends I couldn't have imagined when I first enrolled.”
+[narrates] (p.213) “Memories I wanted to remember forever.”
+[narrates] (p.213) “I couldn't help but wish that this school life would continue for even one more day.”
+[note] (p.211–213) She reads his thoughts through the Joker moment — the isolated card is the Joker; she pulls it deliberately; she feels his gaze on her the whole time.
+[rel:ayanokouji-kiyotaka] (p.211–213) Her silent communication with him via the Joker; she cherishes the school life he helped unlock.
+[rel:morishita-ai] (p.211–213) The advanced-bluff battle; she loses gracefully; she remembers the moment forever.
+
+
+<!-- walk: y2v11 Epilogue → p.223 -->
+
+### y2v11 p.46 — Ch.2: The Group 20 roster
+[scene] (p.46) The Group 20 roster; she is on it.
+[note] (p.46) “• Class C Oda Takumi, Shiina Hiyori” — her name on the roster.
+[mentioned] (p.46) Named in the roster; not present in the bus scene.
+
+### y2v11 p.171 — Ch.7: The bright and cute
+[scene] (p.168) The vending machine conversation; his read.
+[note] (p.171) “You too, Ayanokōji-kun? But to me… you seem normal. You seem to have a lot of friends. And Shiina-san too. She's bright and cute… I'm jealous...” — Yamamura's envy.
+[mentioned] (p.171) Named in dialogue; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->

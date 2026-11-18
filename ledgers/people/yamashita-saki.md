@@ -76,11 +76,6 @@ char_id: yamashita-saki · class: Class 1-C · status: minor (allies)
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — yamashita-saki mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.141; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.141 — Ch.5: The name that wasn't hers
 [scene] (p.141) The girls' room, joker game; a student addresses Yamamura as \“Yamashita-senpai\”.
 [note] (p.141) The text says \“They got her name wrong\” — it is a misname of Yamamura by a first-year in the circle; this Saki Yamashita is not shown on these pages; the rows are notes, not presence; see this volume's chapter pages for the full account.

@@ -1124,11 +1124,6 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — ibuki-mio mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.93-94, p.100-106, p.115, p.117, p.145-151, p.161; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.93–95 — Ch.3: The sparring partner on cue
 [scene] (p.93) She reveals she was hiding nearby; she and Horikita are both willing to fight Amasawa again.
 [says] (p.93) “Tch, you noticed.”
@@ -1164,4 +1159,60 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [scene] (p.115) Kushida leaks her rivalry with the two Horikita-team girls; she roots against them.
 [note] (p.115) She wants Horikita and Ibuki to lose; the three are said to have a miraculously balanced trio; she spits venom on her own side with a smile.
 
+
 <!-- walk: y2v11 ch5 → p.144 -->
+
+### y2v11 p.145–151 — Ch.6: The blindfold demand and watching
+[scene] (p.145) Third day of living with other years; morning training; she demands the blindfolded match; she goes to the toilet and returns twenty minutes later by surprise.
+[says] (p.145) “You, do the match with us blindfolded today.”
+[says] (p.145) “I have to kick you at least once, or I'll be frustrated.”
+[says] (p.148) “Damn! I missed! I even took the long way back!”
+[says] (p.148) “Ugh...!? I don't want to hear that...! But I just instinctively shouted!”
+[says] (p.148) “You had a dispute with Ryūen-kun on the rooftop, didn't you? It was that time, right?”
+[says] (p.148) “Hmph, I don't remember you telling me to keep my mouth shut. Even if you did, I'm free to talk about it.”
+[says] (p.150) “Oh, that? I don't know. I haven't participated even once.”
+[says] (p.150) “I might get to see you lose at the exchange meeting or something.”
+[note] (p.150) Her group 2–10; her stamp card blank; she joins the spectators for the rematch; she wants to see Horikita lose but doesn't want to fight.
+[note] (p.151) She decides to tag along to watch Amasawa (the rematch is tomorrow); her refrain — winning by headcount — runs through this and every room.
+[rel:horikita-suzune] (p.145–151) Oil and water; she tags along anyway; she kicks the ground on her way out.
+
+### y2v11 p.159–161 — Ch.6: Spectator
+[scene] (p.161) The 17th match; she watches from afar and blatantly looks away in boredom.
+[note] (p.161) Kiyotaka's 58 outlasts Amasawa's 57; the spectators' interest dries up.
+
+<!-- walk: y2v11 ch6 → p.167 -->
+
+### y2v11 p.185–188 — Ch.8: The fight that happens off-page
+[scene] (p.185) They arrive at dawn; the Amasawa rematch is set for 7 o'clock; Kushida shows up as a spectator; Tsubaki has already left.
+[note] (p.185) Kushida is a cultural-festival enemy of Amasawa; she doesn't care who wins or loses.
+[says] (p.185) “It's not my fault! It's Kushida's fault for tricking me into it!”
+[says] (p.186) “But I can knock him down with my kick!”
+[says] (p.186) “How this guy's so popular—I just don't understand at allllllllllllllllllllllllll.”
+[note] (p.186) “I think they're the same to me...!” — speaker unattributed in the text.
+[note] (p.186–187) The comparison — curry-flavored shit vs shit-flavored curry; she doesn't want to hear which; the AK story tracks — it burns.
+[says] (p.188) “I won't say thank you. I think my way of thanking you is to kick you someday.”
+[note] (p.188) She leaves before the fight; her gratitude is her own business; the Epilogue records that they lost.
+[rel:horikita-suzune] (p.185–188) The two-on-one fight; the island debt; the side-by-side loss.
+[rel:amasawa-ichika] (p.185–188) The rematch; the grudge.
+
+
+<!-- walk: y2v11 ch8 → p.193 -->
+
+### y2v11 p.182–183 — Ch.8: The morning she shows up
+[scene] (p.182) The camp's final morning; she and Horikita arrive at dawn.
+[note] (p.182) “Horikita and Ibuki were still showing up early in the morning.” — the morning she shows up.
+[note] (p.183) “Anyway, I was planning to go outside to accompany Horikita and Ibuki for their final special training.” — he walks with them.
+[mentioned] (p.182–183) Named in narration; on-page from p.185.
+
+### y2v11 p.198–199 — Epilogue: The second-hand report
+[scene] (p.198) The commute with Horikita; he reports the rematch outcome.
+[note] (p.198) “Well, yes. Ibuki-san said she wouldn't team up with me again.” — Horikita relays his refusal.
+[mentioned] (p.198–199) Named in dialogue; not present on these pages.
+
+### y2v11 p.221–222 — Postscript
+[scene] (p.221) The translator's afterword; she is named as missing.
+[note] (p.221) “Horikita and Ibuki's fight with Ichika was done off screen” — the translator's complaint; she is named as one of the two missing fighters.
+[note] (p.222) ““Huh? Ichika v.s. Hori/Ibuki happened? When? Where? Who even is Ichika?”” — the editor's credit line; her name in the editors' quotes as a joke.
+[mentioned] (p.221–222) Named in the postscript; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->

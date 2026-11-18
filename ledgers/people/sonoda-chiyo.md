@@ -65,14 +65,21 @@ char_id: sonoda-chiyo · class: unknown · status: unknown
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — sonoda-chiyo mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.39-40; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
+### y2v11 p.39 — Ch.2: The unaskable fairness question
+[scene] (p.39) On the bus, a Sonoda raises a hand to ask about group fairness; the text does not distinguish the twins.
+[note] (p.39) “Um... Chabashira-sensei. May I ask a question?” — unattributed in the text; both rostered twins (Chiyo and Masashi) are possible; attribution unresolved.
+[note] (p.39) “If we're going to play games in separate groups, is this... fair? ... I feel that way about Nagumo-senpai's group, for example.” — the Sonoda question is about Nagumo's stacked group; Chabashira answers with a curt look.
+[mentioned] (p.39) One of the twins is the questioner; the pages do not say which.
 
+<!-- walk: y2v11 ch2 → p.84 -->
 
+### y2v11 p.40 — Ch.2: The answer sets him back
+[scene] (p.40) The bus ride; the Sonoda question.
+[note] (p.40) “Sonoda, who asked, shrank back at her expression.” — her answer to her own question; the teacher's stern look lands.
+[note] (p.40) “In response to the question, Chabashira-sensei gave a curt answer.” — the stern answer; she flinches.
+[mentioned] (p.40) Named in the exchange; the text does not distinguish her from Masashi on these pages.
 
-
+<!-- walk: y2v11 Coverage gate → p.223 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

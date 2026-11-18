@@ -10291,3 +10291,288 @@ walk: y1v1 → DONE
 [rel:hashimoto-masayoshi] (p.142–144) He fishes for Sakayanagi intel; he unravels anyway; he hints he might misjudge Sakayanagi's reach; he heads to the empty lobby toilet.
 
 <!-- walk: y2v11 ch5 → p.144 -->
+
+### y2v11 p.145–151 — Ch.6: The blindfold, the small-presence question and Red Panda
+[scene] (p.145) Third day of living with other years; Horikita and Ibuki appear early as usual; the Nagumo battle looms; blindfold demand to open the morning session.
+[says:ibuki-mio] (p.145) “You, do the match with us blindfolded today.”
+[says] (p.145) “I have to kick you at least once, or I'll be frustrated.”
+[note] (p.145) “Blindfolding him won't help with the training, so rejected.” — Kiyotaka's own words; the request is rejected on risk grounds; Horikita backs him instantly.
+[says:ibuki-mio] (p.145) “I can understand your feelings, Ayanokōji-kun. But first, we should prioritize defeating Amasawa-san, right?”
+[note] (p.145) She and Horikita are determined to succeed in the revenge against Amasawa no matter what.
+[says:horikita-suzune] (p.146) “The main reason you chose the last day was to manage the risk of injury, wasn't it? If I get injured in a selfish fight before the exchange meeting is settled, it would be unacceptable to those who were seriously participating.”
+[note] (p.146) Her answer to “With your skills, you can handle these sessions without injuring me, right?” — “No, it isn't.” His deadpan answer earns an irritated expression and a blindfold joke from her.
+[says] (p.146) “This is completely unrelated, but who comes to mind when you think of a student with a small presence?”
+[note] (p.147) Horikita's answer, in full: “You, Ayanokōji-kun.” — at least when he first entered school, he was one of the less noticeable ones in the class; he muses the characteristics fit Yamamura perfectly.
+[note] (p.147) He asks Horikita in passing what factors determine how noticeable or inconspicuous someone is (the printed line break splits the sentence across the page break; the fragment “is.” sits at the top of the page).
+[says:horikita-suzune] (p.147) “Hmm, is that so? If you want to be unnoticed or don't want to stand out, I think you naturally become inconspicuous. You probably won't speak much either.”
+[note] (p.147) Horikita reports on the task he gave her in the lobby at dawn (Ch.3); “That's about all I noticed.” — she never asks the meaning; he considers the request fulfilled.
+[says:horikita-suzune] (p.147) “…That's about all I noticed... Will it be of any use?”
+[says] (p.147) “Yes, it will be very useful. Thanks for looking into it. You can consider the request fulfilled.”
+[note] (p.147) While they wait for Ibuki, Kiyotaka does the math: if Ibuki doesn't return, today's training is cancelled; her phone is left in her room; Ibuki shows up in seconds anyway, announcing her attack.
+[says:ibuki-mio] (p.148) “Damn! I missed! I even took the long way back!”
+[says] (p.148) “It's fine to be frustrated, but don't announce your attack. You're doing the same thing as Ishizaki.”
+[says] (p.148) “Ishizaki-kun? Have you had a dispute with Ishizaki-kun too?”
+[says:ibuki-mio] (p.148) “You had a dispute with Ryūen-kun on the rooftop, didn't you? It was that time, right?”
+[note] (p.148) She changes to a malicious grin; she pretends not to know more than she does; the rooftop Ryūen fight is public knowledge to her.
+[says] (p.148) “I can't deny it in this situation.”
+[says:ibuki-mio] (p.149) “Yagami? Why is Yagami coming up now? I don't use violence against my kōhais. I'd like to exclude the Hōsen incident though.”
+[note] (p.149) “Who's Yagami? Was there someone like that?” — speaker unattributed in the text; Horikita cuts the conversation short to start the training.
+[says:horikita-suzune] (p.149) “…Fine. We don't have much time, so can we start the special training?”
+[note] (p.150) After the training, the cyborg joke; “Are you a cyborg or something?” — speaker unattributed in the text; Kiyotaka then says “I'm tired too. I just don't show it on my face.”
+[says] (p.150) “I'm tired too. I just don't show it on my face.”
+[says] (p.150) “It's getting brighter. Should we head back soon?”
+[says] (p.150) “By the way, Ibuki-san, what are you planning to do today?”
+[says:ibuki-mio] (p.150) “Oh, that? I don't know. I haven't participated even once.”
+[note] (p.150) Ibuki's group 2–10; her stamp card blank; she joins Horikita to keep an eye on Amasawa “for tomorrow” (the rematch).
+[says:horikita-suzune] (p.151) “Didn't he lose twice yesterday?”
+[says:horikita-suzune] (p.151) “Speaking of which, Nagumo-senpai was really happy. He sarcastically said it was a disappointing end to a winning streak, losing at cards, of all things. Did you lose another game after that?”
+[says] (p.151) “I was completely beaten by Inogashira in ‘Patchwork.’”
+[says:horikita-suzune] (p.151) “He doesn't seem to mind losing, does he? He might even lose on purpose.”
+[says:horikita-suzune] (p.151) “I don't know about ‘on purpose,’ but he does seem to regret it. At least, judging by his current state, those two defeats were genuine. Right, Red Panda-kun?”
+[note] (p.151) The nickname — “Red Panda” — sticks; he is annoyed; Horikita keeps it; it returns in later chapters.
+[says] (p.151) “Are you still going with that joke...”
+[says:ibuki-mio] (p.151) “Well, I guess I'll go with Horikita. I'd like to keep an eye on Amasawa too.”
+[rel:horikita-suzune] (p.145–151) She deduces the injury-risk motive for the last-day slot; she fields the small-presence question with “You, Ayanokōji-kun”; she keeps the Red Panda joke alive.
+[rel:ibuki-mio] (p.145–151) She pretends her toilet run was casual; she announces attacks; she adds herself as a second spectator for the rematch.
+
+### y2v11 p.152–158 — Ch.6: Morishita and the forest
+[scene] (p.152) Third day; shogi match announced; Morishita missing near her turn; he and Hashimoto search; he finds her standing at a tree doing nothing.
+[note] (p.152) The participants Kiryūin picked: Kiyotaka, Morishita, Hashimoto, Hiyori, Tsubaki; group faces defeat one member short.
+[says] (p.153) “Could you please be quiet? I was listening to the voice of the forest.”
+[note] (p.153) She presses her hand to the tree and closes her eyes; he cannot hear anything.
+[says] (p.155) “Breathe in through your nose and out through your mouth.”
+[note] (p.155) He repeats hospital breathing advice; she realizes the analogy from her cold came from the doctor's office; she films him with her phone in high definition.
+[says] (p.155) “I was recording Ayanokōji Kiyotaka being fooled by my lies in high definition.”
+[says:morishita-ai] (p.156) “Can I ask you something?”
+[says:morishita-ai] (p.156) “What do you think about Hashimoto Masayoshi?”
+[note] (p.156–157) She has hunted him for the question for several attempts; she asks openly; her measure of him: he is Sakayanagi's subordinate; she thought nine times out of ten Sakayanagi wins — but with him siding, the odds change.
+[says:morishita-ai] (p.157) “I thought you'd ask. Of course, I think we should unite as a class and exclude him.”
+[says:morishita-ai] (p.157) “I do think that both Hashimoto and Sakayanagi should fight without holding back. It's best to decide the winner after they both exert all they're able to. That's just my opinion though.”
+[note] (p.158) She bows slightly and smiles; she wants the problem resolved before it drags half a year or a year; the problem's end date is already decided, and he knows it.
+[rel:morishita-ai] (p.152–158) She solicits his verdict on Hashimoto; she uncovers his position; she shows a rare honest self.
+
+### y2v11 p.159–161 — Ch.6: The 17th match, archery
+[scene] (p.159) The 17th match, two personal defeats down; the still-undefeated Nagumo group; game: archery — second archery game of the tournament; skill-based, favors muscle memory.
+[note] (p.159) Nagumo present as leader; silent; the personal bet is unknown to almost everyone.
+[note] (p.159) Katsuragi practiced archery; his max was 37 points; Hashimoto warns Kiyotaka — Hashimoto's legwork impresses him. Kiyotaka's 2nd-day scores: 2, 2, 4, 6, 6, 9 (30 total).
+[note] (p.160) Lineups: Horikita vs Yanagi; Hirata vs Hashimoto; Kiyotaka vs Amasawa; Kanzaki vs Shintoku; Katsuragi vs Morishita. In 16 matches prior, always third.
+[says:amasawa-ichika] (p.160) “No way...”
+[note] (p.160) Amasawa draws; her scores: 9, 9, 10, 9, 10, 10 — 57; Katsuragi scores 37; instructors surprised.
+[note] (p.160–161) He fires 58 (8, 10, 10, 10, 10, 10); his repeatability wins; Amasawa applauds despite losing; she watched tutorial videos in the middle of the night; Nagumo may get angry.
+[says:amasawa-ichika] (p.161) “It's frustrating, but I lost, didn't I?”
+[note] (p.161) Morishita shoots six points and loses badly; Horikita wins vs Yanagi; the Nagumo group takes four of five; Kiyotaka personally 17 wins 2 losses.
+[rel:amasawa-ichika] (p.159–161) She is beaten by raw repeatability; he blocks out all surrounding noise; she applauds anyway.
+[rel:nagumo-miyabi] (p.159–161) He watches his own bet come due without interfering.
+
+### y2v11 p.162–164 — Ch.6: The money and the university
+[scene] (p.162) The round-robin ends: 19 games total; Group 20 finishes 15–4 (fourth place, their podium); personal record 17–2; Nagumo's group 18–1 (lost to a card game against a group with only three wins).
+[note] (p.162) The 19th; the defeat: a card game in the final match, picked against a three-win group; Nagumo acknowledges the matchup was played by the card games.
+[says:nagumo-miyabi] (p.162) “Allowing me to lose up to two times was what caused your defeat, wasn't it?”
+[note] (p.163) He wonders aloud whether Kiryūin's authority could have saved three wins; Nagumo says Kiryūin wouldn't have found it either.
+[note] (p.164) Nagumo texts a transfer: he trusts the terms are his own funds; he invites Kiyotaka to his university; says he'll make his boring personality a little better; pats his right shoulder as he passes.
+[says:nagumo-miyabi] (p.164) “I have no intention of belittling your victory. I've transferred the money. Check it.”
+[says:nagumo-miyabi] (p.164) “If you want, come to the same university. I'll make your boring personality a little better.”
+[rel:nagumo-miyabi] (p.162–164) The bet's terms settle; the money clears; the university invitation is offered sideways and left on the table.
+
+### y2v11 p.165–167 — Ch.6: The farewell message
+[scene] (p.165) The empty rest area, just after the games end; he asks Nagumo for one last favor — a message to pass to Horikita-senpai.
+[says] (p.165) “Can I ask you to pass on a message for me, Nagumo-senpai, since you're graduating?”
+[says:nagumo-miyabi] (p.165) “Huh? A message? To Horikita-senpai?”
+[note] (p.166–167) Nagumo reads the message twice; doesn't fully believe it; it amounts to: "Feel free to join if you feel like it." — the second phase, Namu? no: the second phase at Horikita-senpai's place. The 'decision is up to the other party.'
+[note] (p.167) Nagumo: “I'll go a step ahead and start the second phase at Horikita-senpai's place.” — the note is transferred; the target is Horikita Manabu (same university).
+[rel:nagumo-miyabi] (p.165–167) He accepts the charge without laughing at it; he understands the gravity in it; he carries it to his new post.
+
+
+<!-- walk: y2v11 ch6 → p.167 -->
+
+### y2v11 p.168–176 — Ch.7: The vending machine
+[scene] (p.168) Past 11 p.m., long past lights-out; Hiyori texts him — Yamamura is missing from the girls' room; he slips out into the dark corridor to look himself.
+[says:shiina-hiyori] (p.168) “Are you still awake?”
+[says] (p.168) “I'm awake. All the boys are still awake, so don't worry.”
+[says:shiina-hiyori] (p.168) “It seems to be left in the room. I was contemplating whether to go and look for her now... I was wondering if I could ask for your help, Ayanokōji-kun.”
+[says] (p.168) “I'm going looking for something. I'll try to come back without being noticed, if possible. If something happens, you guys can get mad at me.”
+[note] (p.169) A patrolling teacher sweeps the lobby with a flashlight; he waits it out; he heads straight for the vending machine; she is there, leaning against it, staring at a single point.
+[says] (p.170) “The teachers probably don't even think there's a student here.”
+[says:yamamura-miki] (p.170) “Wh-wh-wh-why are you here...?”
+[says] (p.170) “They'll get mad if they find you. I came to take you back before that happens.”
+[says:yamamura-miki] (p.170) “I was confident that… I wouldn't be found… but if you found me, I can't use that excuse, can I…?”
+[says:yamamura-miki] (p.170) “Yes. When I listen to the sound of the vending machine, the unnecessary voices in my mind disappear...”
+[says:yamamura-miki] (p.171) “Usually, they stop immediately and it's resolved… usually...”
+[says] (p.171) “If you have something bothering you, you should try expressing it.”
+[says:yamamura-miki] (p.171) “...No. I'm fine.”
+[says:yamamura-miki] (p.171) “It's not about liking or disliking, I just… don't have that kind of experience...”
+[says] (p.171) “I'm not good at talking either. If there's a small problem, I tend to keep it to myself or try to solve it on my own. So I rarely have the opportunity to consult with someone about my troubles.”
+[says:yamamura-miki] (p.171) “You too, Ayanokōji-kun? But to me… you seem normal. You seem to have a lot of friends. And Shiina-san too. She's bright and cute… I'm jealous...”
+[says:yamamura-miki] (p.172) “I'm… probably scared. Of voicing my thoughts. And of those thoughts spreading unintentionally. I'm scared of being known...”
+[note] (p.172) He opens: can she talk? — the survival and elimination exam — the draw; Kamuro; the lottery; her two wishes; he promises to get her to Sakayanagi's dog-park wait; “I'll get stuck in between some vending machines and talk it over.”
+[says:yamamura-miki] (p.172) “Since the last special exam ended, I've had one question in my mind...”
+[says:yamamura-miki] (p.173) “When I hesitated to draw a lot, Sakayanagi-san said she would stop the lottery. If you didn't have the courage to draw a lot, it was the same as abstaining...”
+[says:yamamura-miki] (p.173) “I strongly felt that Sakayanagi-san wanted me to withdraw at that moment.”
+[says:yamamura-miki] (p.173) “Sakayanagi-san doesn't suit losing... I don't want to see her struggle in the end-of-year exam... I hope she wins.”
+[says] (p.176) “Why don't you try telling her? No one has the right to condemn your actions.”
+[says:yamamura-miki] (p.176) “What if... what if... she doesn't even want to listen to me...?”
+[says] (p.176) “In that case, let's say, I'll get stuck in between some vending machines and talk it over.”
+[note] (p.174) Yamamura watches Tokitō get restrained by Ryūen; she is impressed he stayed silent; she knows everything; he tells her he'll get her there before the end of the camp.
+[rel:yamamura-miki] (p.168–176) He finds her at the vending machine; he listens for hours to the lottery story; he offers to stand between them.
+[rel:shiina-hiyori] (p.168) He delegates the search report to her phone line; she stays in her room as lookout.
+
+
+<!-- walk: y2v11 ch7 → p.181 -->
+
+### y2v11 p.182–193 — Ch.8: The morning everything ends
+[scene] (p.182) Sunday, fourth day; the camp ends today; the fight with Amasawa is set for 7 o'clock; before 6 he comes to the dim lobby; only one message from Nagumo: “I won't say thank you.”
+[note] (p.182) The hidden special exam — a student who expelled him would get 20 million private points — has been canceled by Tsukishiro; he is disappointed to lose the right to expel in a dignified manner.
+[says] (p.182) “It seems everything is fine.”
+[note] (p.185) Horikita, Ibuki and Kushida appear; Kushida declares she will watch the whole thing on her phone; the fight itself is never narrated.
+[says:kushida-kikyou] (p.186) “For me, it's like a win-win situation no matter who loses.”
+[note] (p.186) Kushida has a cultural-festival dispute with Amasawa; she wants either side to lose; she stays as witness; Tsubaki returns to the building before they arrive.
+[says] (p.188) “We've done what we can. Now let's see how far you'll get in the real match.”
+[says:horikita-suzune] (p.188) “Yes, thank you. Thanks to you, our chances have increased.”
+[says:ibuki-mio] (p.188) “I won't say thank you. I think my way of thanking you is to kick you someday.”
+[says:kushida-kikyou] (p.188) “Eh? Aren't you going to watch, Ayanokōji-kun? I thought we were going to watch together.”
+[note] (p.188) He doesn't stay for it; the rematch could be ruined if Amasawa senses him; he has one more thing to do this morning.
+[says] (p.188) “It's cold, isn't it? You didn't have to come earlier than the promised time.”
+[says:sakayanagi-arisu] (p.188) “Don't worry about it. It's not often that you call out to me, Ayanokōji-kun. I enjoyed waiting.”
+[says] (p.189) “Can I sit next to you?”
+[says:sakayanagi-arisu] (p.189) “I've kept it open for that purpose.”
+[says] (p.189) “I'll get straight to the point. I've got Yamamura waiting in the dog park nearby.”
+[says:sakayanagi-arisu] (p.189) “Eh? The dog park? Yamamura-san? What do you mean?”
+[says] (p.189) “Didn't you expect Yamamura's name to come up?”
+[says:sakayanagi-arisu] (p.189) “She was in the same exchange meeting group as you, wasn't she? Did she do something problematic?”
+[says] (p.189) “You knew about it. That Yamamura and I were in the same group.”
+[says:sakayanagi-arisu] (p.189) “That's a surprise. Naturally, I had already figured out which group each student in the class was assigned to when we got on the bus. I was just observing this time, so I didn't interfere with the exchange meeting.”
+[says] (p.189) “On the second day of the camp, when we talked in the lobby, do you remember what you said? 'Hashimoto-kun and Morishita-san are in the same group. How is Hashimoto-kun doing?' That's what you said. It's impossible for you to overlook Class A's group assignments, as you seem to pride yourself on. Yet, you didn't even mention Yamamura's name, did you?”
+[says:sakayanagi-arisu] (p.190) “...Yes, that's right. I admit that I didn't mention Yamamura-san's name at that time. But it's none of your business, is it, Ayanokōji-kun?”
+[says] (p.190) “Indeed, it's none of my business. I'm probably meddling in others' affairs by doing this.”
+[says] (p.190) “You lost Kamuro. And at the same time, you were entrusted with her feelings. But that doesn't mean everything is back to normal. You haven't even finished choosing who to keep by your side, have you?”
+[says:sakayanagi-arisu] (p.190) “Indeed, I haven't decided yet, but are you suggesting that I should appoint Yamamura-san?”
+[says] (p.190) “That's not what I meant. People have their own strengths and weaknesses.”
+[says] (p.190) “The survival and elimination special exam—there are some people that still seem to be trapped in that exam.”
+[says:sakayanagi-arisu] (p.190) “...Are you talking about me and Yamamura-san?”
+[says] (p.190) “That's right. Yamamura is suffering and can't move forward, even though her situation is very different from yours.”
+[says] (p.190) “If you're still bothered by that, you should resolve it.”
+[says:sakayanagi-arisu] (p.190) “...What you're saying is strange, Ayanokōji-kun.”
+[says] (p.190) “Strange?”
+[says:sakayanagi-arisu] (p.190) “I thought you were just going to stand on the sidelines from now on. Isn't your unnecessary intervention excessive?”
+[says] (p.190) “That's right. I also thought until a little while ago that I should just stand on the sidelines from here on.”
+[says] (p.190) “I don't particularly want you to have anything to do with Yamamura. I don't have any such hopes at all. Whether you want to get closer or more distant, or even cut ties, is up to you. But if you're going to talk, now is the only time.”
+[says:sakayanagi-arisu] (p.190) “Wouldn't it be smartest to leave everything behind at this training camp?”
+[says] (p.190) “As I said earlier, I have Yamamura waiting in the dog park. She's been waiting for you in the cold for over 20 minutes now.”
+[says:sakayanagi-arisu] (p.190) “If that's the case, aren't you being a bit mean, Ayanokōji-kun? The time you promised to meet me was 7 o'clock. We haven't even been talking for ten minutes yet. Doesn't that mean she's been waiting since before that?”
+[says] (p.191) “This is also part of my strategy.”
+[says:sakayanagi-arisu] (p.191) “I guess there's no choice. I can't let her catch a cold because of me. Let's go pick her up for now.”
+[says] (p.191) “It's a bit of a distance, but even you can walk there in about five minutes. Go ahead.”
+[says:sakayanagi-arisu] (p.191) “...My... leg...”
+[says:sakayanagi-arisu] (p.191) “My leg... I can't move it... I wonder why.”
+[says] (p.191) “Don't feel like you can show this side to anyone else?”
+[says:sakayanagi-arisu] (p.191) “...Yes, that's right...”
+[says] (p.191) “Then, just for now, I'll be your legs. That should make it easy for you to walk.”
+[says:sakayanagi-arisu] (p.192) “...I'm sorry.”
+[says] (p.192) “It's okay. It's my own meddling that started this.”
+[note] (p.191–192) The Kamuro wound; her body won't walk; he takes her left hand; he doesn't let go; they walk in silence.
+[note] (p.193) Sakayanagi raised her hand slowly to make her presence known; he gently pushes her back; the two walk ahead on their own; the exchange meeting ends; he leaves a different way.
+[rel:sakayanagi-arisu] (p.182–193) He meddles for once with full knowledge; he lends her his legs; he leaves before the reunion to keep it private.
+[rel:yamamura-miki] (p.182–193) The vending-machine plan in action; the reunion happens off-page.
+[rel:tsubaki-sakurako] (p.182–185) She intercepts him in the lobby in the cold; her hypothetical about a hidden sibling; she leaves before Horikita and Ibuki arrive.
+[rel:kushida-kikyou] (p.185–188) She spectates the whole fight on her phone; today she wins no matter who loses.
+[rel:ibuki-mio] (p.185–188) The two-on-one fight; today it costs them; she leaves without a comment.
+[rel:horikita-suzune] (p.185–188) The rematch happens off-page; the two lose together.
+
+<!-- walk: y2v11 ch8 → p.193 -->
+
+### y2v11 p.194–198 — Epilogue: The morning alone
+[scene] (p.194) A few days after the exchange meeting; usual morning — but he leaves alone, 20 minutes early; soon February ends; Kei's problem waits; Ichinose's problem needs revisiting; one unexpected problem arose that wasn't in the plan.
+[note] (p.194) “One problem arose that wasn't in the plan. That forced me to, in turn, make changes. There would be some negative effects as a result, but not all changes would be bad.” — the narration hints at an unnamed complication.
+[says:horikita-suzune] (p.195) “You're early.”
+[says:horikita-suzune] (p.195) “Good morning, Ayanokōji-kun.”
+[says:horikita-suzune] (p.195) “In a way? That's a scary way to put it.”
+[says] (p.195) “There's nothing to be wary of.”
+[says] (p.195) “I wanted to have a meaningless conversation with you, unrelated to our interests.”
+[says:horikita-suzune] (p.195) “Huh? Sorry, I don't understand. What do you mean?”
+[says:horikita-suzune] (p.195) “Forever is an exaggeration. Sure, that's true, but we still have over a year until graduation, right? We don't have to arrange meetings like this, I can chat anytime.”
+[says] (p.195) “What if I were to be expelled at the end-of-year exam?”
+[note] (p.195) She laughs a little at her own words — a serious answer, then amusement, back and forth.
+[says:horikita-suzune] (p.196) “Then why don't you try to remember more common sense questions? You're good at studying.”
+[says] (p.196) “So, can you memorize game and anime terms as effectively as studying for other subjects?”
+[says:horikita-suzune] (p.196) “Don't worry. From a class perspective, your existence is essential. Even if you struggle with common sense questions, I'll always back you up. In other words, you won't be expelled.”
+[says] (p.196) “That's reassuring.”
+[says] (p.196) “Do you really worry about your own expulsion? It doesn't seem like it. What's the real issue?”
+[says:horikita-suzune] (p.196) “Actually, I'm not worried about myself, but about the possibility of your expulsion.”
+[says:horikita-suzune] (p.196) “In reality, that seems more likely.”
+[note] (p.196) She expects several dropouts in the end-of-year exam; the school's annual ten-dropout target; the prior year had none, so one was forced; the government is involved in the school's operation; second-years had been spared.
+[says:horikita-suzune] (p.197) “Haha, you invited me to chat, but in the end, we're talking about the exam.”
+[says:horikita-suzune] (p.197) “Right. There's no point in calling you here if it's like this. Alright, let's end the discussion about the exam.”
+[says:horikita-suzune] (p.197) “I heard about the results from Kushida, it seems you fought well, but you lost.”
+[says:horikita-suzune] (p.197) “She's really strong, isn't she? Even if we fought two against one, we still couldn't win in the end.”
+[says:horikita-suzune] (p.197) “You should be able to have a better fight next time.”
+[says] (p.198) “I'll think about it.”
+[note] (p.194–198) The special-training aftermath: Horikita expects a few expulsions; he decides to cooperate when needed; Horikita promises she'll always back him; the two laugh at the shared absurdity; the conversation never stops being about the exam.
+[rel:horikita-suzune] (p.194–198) The walk to school together; the end-of-year exam stakes; the promise of a backup.
+[rel:karuizawa-kei] (p.194) The Kei problem; nothing special needed; he'll proceed with it as originally planned.
+[rel:ichinose-honami] (p.194) The Ichinose problem; some adjustments may be needed; he can decide after the end-of-year exam results.
+
+### y2v11 p.199–204 — Epilogue: The betrayal Hashimoto hides
+[scene] (p.199) Back to a few weeks earlier — when Hashimoto came to his room asking for help shortly before the exchange meeting; the night before everything.
+[says:hashimoto-masayoshi] (p.199) “...Before I tell you what's next, there's something I really need to confirm with you.”
+[says:hashimoto-masayoshi] (p.199) “I've been tempted to betray Ryūen since before the previous special exam. Not just temporarily teaming up, but moving classes based on that premise.”
+[says:hashimoto-masayoshi] (p.199) “Of course, I didn't take such an invitation seriously at first. However, right after that, I heard from Ryūen that if I didn't move classes, I'd definitely regret it at the end of the school year.”
+[says] (p.200) “Regret? Is it because Ryūen himself is confident that he'll win?”
+[says:hashimoto-masayoshi] (p.200) “It seems that even you don't know about the content of the bet that Ryūen and Sakayanagi agreed on.”
+[says] (p.200) “A bet, huh? I don't know if it applies, but I've heard a little about the exchange in the last deserted island exam. Unfortunately, I don't know the details.”
+[says:hashimoto-masayoshi] (p.202) “I'm glad. Then there was a reason for me to come here.”
+[says:hashimoto-masayoshi] (p.202) “It's not unreasonable to doubt the bet itself, right? No matter how you look at it, Sakayanagi is at a disadvantage.”
+[says] (p.202) “That's true. However, Sakayanagi wouldn't choose to reject the bet just because of the disadvantage.”
+[says:hashimoto-masayoshi] (p.202) “Both are possible, but the details of the bet will eventually come to light. Considering that, it must be the latter. She must've allowed Ryūen to accumulate private points.”
+[says:hashimoto-masayoshi] (p.202) “Who else knows about this bet besides you and the parties involved?”
+[says:hashimoto-masayoshi] (p.202) “Unless Ryūen was lying, no one. You're the fourth. Well, both would hate to lose the bet by having it leaked.”
+[says:hashimoto-masayoshi] (p.202) “It took a while... for this day to come.”
+[says:hashimoto-masayoshi] (p.202) “Whether Sakayanagi wins or Ryūen wins, honestly, I couldn't make a judgment... No, I was kinda thinking that Sakayanagi might win.”
+[says:hashimoto-masayoshi] (p.202) “But even then, it's like 55 to 45. Seriously, it's not decisive, is it?”
+[says:hashimoto-masayoshi] (p.202) “So I've been looking for a decisive factor, and what I thought that would be was—”
+[says] (p.203) “Me?”
+[says:hashimoto-masayoshi] (p.203) “If you were to follow Sakayanagi, I would've been ready to die with my current class without hesitation. That's why I advised Sakayanagi... to recruit you as an ally.”
+[says:hashimoto-masayoshi] (p.203) “I will make Ryūen win. No matter what the content of the end-of-year special exam is, I will thoroughly assist them. If I miss this opportunity, I will most likely be the one to disappear.”
+[says:hashimoto-masayoshi] (p.203) “If Sakayanagi had followed my instructions, whether that would be before or after I betrayed her in the previous special exam, I was planning to betray Ryūen and join her at the end of the year.”
+[says] (p.203) “It's fine if you want to make Ryūen win, but did you propose the same thing to him as you did to Sakayanagi?”
+[says:hashimoto-masayoshi] (p.203) “You mean about recruiting you? Yes, of course. The answer was the same as Sakayanagi's, but there was a condition. If we could defeat Sakayanagi in the end-of-year exam, he would recruit the both of us to his class.”
+[says:hashimoto-masayoshi] (p.204) “What do you want from me?”
+[note] (p.199–204) The whole betrayal arc: the bet; Hashimoto's 55–45 denial; the decisive-factor hunt; Sakayanagi refused to recruit him; he betrays her anyway; the 20M-points safety net he claims Ryūen offered; he expects to disappear if he fails; he smiles nervously.
+[rel:hashimoto-masayoshi] (p.199–204) The flashback reveals the entire mechanism — the bet, the class move, the 20M, the timing.
+[rel:sakayanagi-arisu] (p.199–204) She refused his recruitment of him; that refusal explains everything that followed.
+[rel:ryuuen-kakeru] (p.199–204) Hashimoto claims he would recruit the both of them for 20M; Ryūen's promise is shallow but Hashimoto hunted for it himself.
+
+### y2v11 p.209 — Epilogue: The bet is sealed
+[scene] (p.209) The career counseling room; two students and two homeroom teachers; the loser will voluntarily drop out; the exam will decide everything.
+[note] (p.205–209) Sakayanagi and Ryūen acknowledge the contract; both teachers understand it; the loser will disappear; the end-of-year special exam begins with stakes set on expulsion and no escape.
+[note] (p.208) The Protection Point is meaningless if they voluntarily withdraw; he fills the gap with additional private points, kept to a minimum; the bet is serious, not a joke.
+[note] (p.209) “Please don't hope for a draw to invalidate the bet, okay?” — the Ryūen proposal; Sakayanagi agrees to the lottery clause; the exchange begins with the end-of-year special exam.
+[rel:sakayanagi-arisu] (p.205–209) She bets everything she has on herself; she stakes Kamuro's ghost as witness.
+[rel:ryuuen-kakeru] (p.205–209) He puts on the show; he bets he beats her; his hatred is real; his resolve is worse.
+[rel:mashima-tomonari] (p.205–209) He witnesses the contract; he knows what it means; he says nothing now.
+[rel:sakagami] (p.205–209) He witnesses the contract with a Protection Point caveat; he knows what it means; he says nothing now.
+
+
+<!-- walk: y2v11 Epilogue → p.223 -->
+
+### y2v11 p.132 — Ch.5: The brick-grade senpai
+[scene] (p.132) The Ryūen–Tokitō–Hōsen scene; he is named only in others’ dialogue.
+[note] (p.132) “His fighting ability may be equal to or greater than Ayanokoji.” — Albert's verdict; named in dialogue, not present.
+[mentioned] (p.132) Named in dialogue; not present on these pages.
+
+### y2v11 p.178–181 — Ch.7: The 1 a.m. summons
+[scene] (p.178) The cafeteria at 1 a.m.; the Yagami vendetta; he is the subject of the whole scene.
+[note] (p.178) “You teamed up with Ayanokōji-senpai and expelled Yagami Takuya, right?” — Amasawa's vendetta; he is the target, absent from the scene.
+[note] (p.179) “I thought about beating up Karuizawa-senpai and expelling her, but that's a bit scary.” — his goals off-limits; he is discussed, not present.
+[note] (p.180) “This year it's Ayanokōji.” — Amasawa names him as the year's chaos-maker.
+[note] (p.181) “The message from Ayanokōji is 'You still have value. Don't waste it.'” — the message Nagumo carries; he does not appear on these pages.
+[mentioned] (p.178–181) Named throughout; not present on these pages.
+
+### y2v11 p.211–223 — Short Stories and the afterword
+[scene] (p.213) Hiyori's POV ends on him silently reading the Joker.
+[note] (p.213) “I strangely felt like I could read Ayanokōji-kun's thoughts.” — Hiyori's silent read of his look at the Joker.
+[note] (p.211–213) Hiyori's POV centers on his gaze and her resolve; he never speaks in his own voice here.
+[note] (p.221) “Horikita and Ibuki's fight with Ichika was done off screen” — the translator's complaint about the off-screen fight; he is named as missing from the translation.
+[note] (p.223) “Hail the glorious king Ayanokoji” — the credits; a translator's jest, printed as such.
+[mentioned] (p.211–223) Named throughout the short stories and afterword; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->

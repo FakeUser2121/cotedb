@@ -417,10 +417,14 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — kamuro-masumi mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.11, p.20-21, p.23, p.88, p.90-91, p.111-112; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
+### y2v11 p.11–21 — Ch.1: The new dropout
+[scene] (p.11) February; the fifth and final day of the two-person interviews; the year's first shadow is the Class A dropout everyone knows about.
+[note] (p.11) “Due to her close position to Sakayanagi, Kamuro becoming a new dropout surprised the second-year students. However, since Kamuro didn't have any close friends from other classes, the shock didn't last long.” — unattributed narration.
+[note] (p.21) Recounted as the cost of the betrayal: only a by-product of the ordeal, and the likelihood of her being included in the negotiations and rewards was low; the price of betraying the class was too high to justify.
+[mentioned] (p.20) Named as the reason for the suspected leak's gravity: a Class A student (Sakayanagi's side) leaked to Ryūen; Class A ended up at the bottom.
+[note] (p.20) The text's account of the leak is given through the two speakers; the narration on p.11 records the surprise, not the culprit.
+
+<!-- walk: y2v11 ch1 → p.33 -->
 
 ### y2v11 p.88–92 — Ch.3: The name that tore the class
 [scene] (p.88) Hashimoto mutters whether her leaking-role damage from losing Kamuro explains the three losses.
@@ -429,3 +433,47 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [note] (p.92) Kitō is remembered as Kamuro's closest friend in Class A.
 
 <!-- walk: y2v11 ch3 → p.99 -->
+
+### y2v11 p.172–174 — Ch.7: The other side of the scales
+[scene] (p.172) Yamamura confesses to Kiyotaka in the dark; the fate of Sakayanagi's Kamuro is reopened.
+[note] (p.172–174) The survival and elimination exam she dropped out of: Sakayanagi saved Kamuro and discarded Yamamura — the lottery was the hinge; Kamuro stayed.
+[note] (p.173) “I strongly felt that Sakayanagi-san wanted me to withdraw at that moment.” — the quote is Yamamura's, about her own exit; Kamuro's exit is the pin this scene turns on.
+[mentioned] (p.172–174) Named as the other side of Yamamura's trauma; not present on these pages.
+
+<!-- walk: y2v11 ch7 → p.181 -->
+
+### y2v11 p.23 — Ch.1: The किंमत
+[scene] (p.23) The Sakayanagi weigh-in; he is named in his boyfriend's musings.
+[note] (p.23) “Drawing a bow against Sakayanagi was tantamount to aiming for the general's head.” — Kamuro named by implication as the general's head; she is the cost.
+[mentioned] (p.23) Named in narration; not present on these pages.
+
+### y2v11 p.91–112 — Ch.3–4: The successor search
+[scene] (p.91) Sakayanagi names her losses.
+[note] (p.91) “right after Masumi-san left, there was unexpected damage. You know that too, Ayanokōji-kun. But, I won't dwell on it for long.” — the vacancy she left.
+[note] (p.111) “right after Masumi-san left” — the same refrain from Sakayanagi.
+[note] (p.112) “at a time when she was unstable after losing Kamuro, not only would it be reasonable to be sensitive to contact from Hashimoto” — the context of her fragility.
+[mentioned] (p.91–112) Named in dialogue; not present on these pages.
+
+### y2v11 p.157 — Ch.6: The forest verdict
+[scene] (p.156) Morishita's verdict on Hashimoto; the damage is named.
+[note] (p.157) “it's typically disappointing, so I had lowered the hurdle” — Kiyotaka's read of Morishita's expectations; Kamuro named as the reason for the hurdle.
+[mentioned] (p.157) Named in narration; not present on these pages.
+
+### y2v11 p.189 — Ch.8: The light of Class A
+[scene] (p.189) The bench; the dog park.
+[note] (p.189) “You lost Kamuro. And at the same time, you were entrusted with her feelings.” — Kiyotaka names her loss directly.
+[note] (p.191) “It seems that the change in her heart, the change that Kamuro brought to light, was also evident here.” — the change in Sakayanagi's heart.
+[mentioned] (p.189–191) Named in dialogue; not present on these pages.
+
+### y2v11 p.196 — Epilogue: The expulsion that remains
+[scene] (p.194) The morning commute; the future.
+[note] (p.196) “The last special exam resulted in only Kamuro's expulsion.” — the exchange's one expulsion on the record.
+[mentioned] (p.196) Named in dialogue; not present on these pages.
+
+### y2v11 p.206–209 — Epilogue: The abandonment
+[scene] (p.206) The career counseling room; her abandonment weaponized.
+[note] (p.206) “she felt a change in her emotional switch within her, starting with the incident involving Kamuro and Yamamura.” — Kiyotaka's read of her change.
+[note] (p.209) “If that happens, we can decide by lottery, just like how you abandoned Kamuro.” — Ryūen's taunt.
+[mentioned] (p.206–209) Named in dialogue; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->

@@ -964,11 +964,6 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — katsuragi-kouhei mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.40, p.115, p.159-160, p.199; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.40 — Ch.2: Named in the stacked group
 [scene] (p.40) The printout lists Group "Nagumo"'s members on the bus.
 [mentioned] (p.40) Named as a second-year Class C member of Nagumo's group: Kaneda Satoru, Katsuragi Kōhei.
@@ -979,7 +974,22 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [scene] (p.115) Kushida reports that yesterday Katsuragi was immersed in practicing glasswork because he couldn't do it well.
 [note] (p.115) He lined up many times at the activity; no scene; glassed over for his group.
 
+
 <!-- walk: y2v11 ch5 → p.144 -->
+
+### y2v11 p.159–161 — Ch.6: Katsuragi vs Morishita
+[scene] (p.159) The 17th match; he is named in the lineup: Katsuragi vs Morishita.
+[note] (p.159) “Katsuragi Kōhei vs Morishita Ai.” — lineup announcement; his archery was drilled to the point of a 37-point maximum (per Hashimoto's intel).
+[note] (p.161) He wins his match; Nagumo's group takes four of five.
+
+<!-- walk: y2v11 ch6 → p.167 -->
+
+### y2v11 p.199 — Epilogue: The lost place
+[scene] (p.205) The career counseling room; the backstory.
+[note] (p.199) “Except for cases like Katsuragi who lost his place, if you were to look at it from a while ago, Class A should’ve established a more stable position than its current status.” — the cost of the special exam.
+[mentioned] (p.199) Named in narration; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

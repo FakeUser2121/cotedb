@@ -1828,3 +1828,5 @@ hash: `6bea783884c7cb8573db97157f0b718a`.
 | rebuild-from-origin push | — | filter-branch normalize identity; verify/hash green | 384bb8285992b890decd34b623f501b5 |
 
 | y2v12 depth pass | 228 | 432 quotes / 282 sections | 24af8babd74feccf7ee4d480a3557dd6 |
+| y2v11 depth pass complete | 223 | 324 sections (142 evidence / 182 mention) | 93c577b0961f22e536945cb796b91858 (x2 deterministic) |
+| y2v11 coverage gate + repair | 223 | locator for all 85 roster characters; genuine mentions added; stubs (75) removed | 93c577b0961f22e536945cb796b91858 |

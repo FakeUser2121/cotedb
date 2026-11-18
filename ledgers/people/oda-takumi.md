@@ -36,11 +36,6 @@ char_id: oda-takumi · class: Class 1-C · status: minor
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — oda-takumi mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.11, p.19, p.26-27, p.32, p.39-40, p.46-47; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.46 — Ch.2: Group 20's second-year Class C
 [scene] (p.46) At the inn, Kiyotaka reads the Group 20 roster.
 [mentioned] (p.46) Named as a second-year Class C member of Group 20: Oda Takumi, Shiina Hiyori.
@@ -54,6 +49,13 @@ char_id: oda-takumi · class: Class 1-C · status: minor
 [note] (p.86–87) He fit in well with the room despite being a 2-C outsider; the three losses bug him too.
 
 <!-- walk: y2v11 ch3 → p.99 -->
+
+### y2v11 p.168 — Ch.7: The participant
+[scene] (p.168) The lights are out; the room is still awake.
+[note] (p.168) “While occasionally participating in conversations with Hashimoto, Oda, and kōhais, nodding in agreement now and then” — Oda was in those conversations.
+[mentioned] (p.168) Named in narration; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

@@ -251,16 +251,31 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — yagami-takuya mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.65, p.148-149, p.179; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.65 — Ch.2: The information chain
 [scene] (p.65) In the hallway; Amasawa explains how she knew about the exchange meeting in advance.
 [note] (p.65) Yagami is one of the two (\“Yagami who that man prepared\”) through whom the camp plans were leaked in advance; no further detail on these pages.
 
 <!-- walk: y2v11 ch2 → p.84 -->
+
+### y2v11 p.148–149 — Ch.6: The Yagami-kun incident
+[scene] (p.148) The morning training; a name comes up that alarms Ibuki (the sentence sits at the foot of the page).
+[scene] (p.149) The training continues; Ibuki steers the conversation away.
+[says:ibuki-mio] (p.149) “Yagami? Why is Yagami coming up now? I don't use violence against my kōhais. I'd like to exclude the Hōsen incident though.”
+[note] (p.148) “Really…? I still have a few things I'm suspicious about, like the Yagami-kun incident.” — Horikita's line; the name's first full appearance lands at the foot of the page.
+[note] (p.149) “Yagami? Why is Yagami coming up now? I don't use violence against my kōhais. I'd like to exclude the Hōsen incident though.” — Ibuki's answer.
+[mentioned] (p.148–149) Named in the suspicion list; not present on these pages.
+
+
+<!-- walk: y2v11 ch6 → p.167 -->
+
+### y2v11 p.179–180 — Ch.7: Siblings who surpassed that
+[scene] (p.179) The 1 a.m. cafeteria confrontation; Yagami's fate is named by Amasawa.
+[says:amasawa-ichika] (p.179) “That's not it, but we were like siblings who had surpassed that kind of relationship.”
+[says:nagumo-miyabi] (p.179) “Yagami? Don't tell me, you were Yagami's girlfriend?”
+[note] (p.179) Her grief is not romantic; it's the loss of a sibling-like bond; his expulsion from the school is the root of her vendetta.
+[mentioned] (p.179) Named as the expelled first-year; not present on these pages.
+
+<!-- walk: y2v11 ch7 → p.181 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

@@ -263,11 +263,6 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — housen-kazuomi mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.49, p.58, p.62, p.87, p.109, p.116; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.50 — Ch.2: The immovable first-year
 [scene] (p.50) After the group lunch orders; Hashimoto reasons that even first-years with strong personalities like Hōsen would not object.
 [note] (p.50) Cited as an example of a strong personality among the first-years; no further detail on these pages.
@@ -293,4 +288,35 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 [rel:yamada-albert] (p.130–132) They trade brags; Albert loses his poise.
 [rel:utomiya-riku] (p.131) He yells at Utomiya to stop; Utomiya talks past him.
 
+
 <!-- walk: y2v11 ch5 → p.144 -->
+
+### y2v11 p.149 — Ch.6: The Hōsen incident
+[scene] (p.149) The morning training; Ibuki's exclusions name him too.
+[says:ibuki-mio] (p.149) “…I'd like to exclude the Hōsen incident though.”
+[note] (p.149) “The Hōsen incident” is named in passing; the text never elaborates; he is absent on these pages.
+[mentioned] (p.149) Named in Ibuki's exclusions; not present on these pages.
+
+<!-- walk: y2v11 ch6 → p.167 -->
+
+### y2v11 p.123 — Ch.5: The class partner of Tokitō
+[scene] (p.123) The experiential hallway; he is in Group 6 with Hōsen.
+[note] (p.123) “Hōsen Kazuomi, the most problematic first-year student, was in Tokitō's group. However, Tokitō didn't see Hōsen's existence as a problem and even criticized his arrogant attitude.” — the narrative's verdict.
+[mentioned] (p.123) Named in narration; the Hōsen scenes belong to the Tokitō page.
+
+### y2v11 p.133 — Ch.5: The sofa after the bath
+[scene] (p.133) The lobby; the war between Ryūen and Class A.
+[note] (p.133) “It was right next to the seat where Sakayanagi was sitting this morning.” — Kiyotaka's position; Hōsen named in the same breath in the war.
+[mentioned] (p.133) Named in passing; not present on these pages.
+
+### y2v11 p.174 — Ch.7: The witness's account
+[scene] (p.174) Yamamura's account to Kiyotaka.
+[note] (p.174) “However, Tokitō's groupmates, Hōsen and Utomiya, joined in, and there was a risk of a brawl. It seemed that the situation was resolved when the number of students who heard the commotion suddenly increased all at once, and they dispersed.” — the witness's whole story of his entry.
+[mentioned] (p.174) Named as one of the groupmates who joined; not present on these pages.
+
+### y2v11 p.49–50 — Ch.2: The strong personality clause
+[scene] (p.49) The first-years' objections; he is the ruled-out case.
+[note] (p.49) “objections were unlikely except from people with strong personalities like Hōsen.” — the one exception named.
+[mentioned] (p.49–50) Named in the narration's exception; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->

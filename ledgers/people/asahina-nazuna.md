@@ -159,11 +159,6 @@ char_id: asahina-nazuna · class: Class 2-A · status: supporting
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — asahina-nazuna mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.53-57, p.59, p.61, p.64, p.79, p.81-83; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.53–63 — Ch.2: Ride-or-die Nazuna
 [scene] (p.53) Rest Area, just before one; bored to death with Nagumo; she muscle-sits into the sofa beside him as Kiyotaka arrives.
 [says] (p.53) “Hey there, Ayanokōji-kun.”
@@ -201,6 +196,27 @@ char_id: asahina-nazuna · class: Class 2-A · status: supporting
 [rel:kiryuin-fuuka] (p.79–83) Kiryūin tells her about Kijima; Asahina takes in every word of her confession about never becoming anyone.
 
 <!-- walk: y2v11 ch2 → p.84 -->
+
+### y2v11 p.178–179 — Ch.7: The precious Asahina-senpai
+[scene] (p.179) The 1 a.m. cafeteria confrontation; Asahina is named by Amasawa as the hostage in the threat.
+[says:amasawa-ichika] (p.179) “I would've beaten up your precious Asahina-senpai, Nagumo-senpai.”
+[note] (p.179) She threatens to beat up Asahina — as leverage, not as the target; she respects Asahina as Nagumo's precious person; the vendetta is not against her.
+[mentioned] (p.179) Named as the threatened hostage; not present on these pages.
+
+<!-- walk: y2v11 ch7 → p.181 -->
+
+### y2v11 p.64 — Ch.2: The Asahina-senpai question
+[scene] (p.64) Nazuna runs off; Kiyotaka and Nagumo remain.
+[note] (p.64) “Eh, oh my gosh, it's already this late!? I have to go, but feel free to consult me if you have any problems!” — Nazuna's exit line; she almost trips on her way out.
+[note] (p.64) “Amasawa smirked and leaned in towards Nagumo, who was sighing in disbelief.” — her exit is noted in passing; she is named here only by being gone.
+[mentioned] (p.64) Named in passing; not present for the Amasawa exchange.
+
+### y2v11 p.177 — Ch.7: The precious Asahina-senpai
+[scene] (p.177) The 1 a.m. cafeteria summons; Kiyotaka does not participate (the scene is Nagumo's POV).
+[note] (p.177) “I would’ve beaten up your precious Asahina-senpai, Nagumo-senpai.” — Amasawa's threat; Asahina is treated as precious.
+[mentioned] (p.177) Named as the threatened party; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

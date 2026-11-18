@@ -19,11 +19,6 @@ char_id: toyohashi-goro · class: unknown · status: unknown
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — toyohashi-goro mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.46, p.85, p.87, p.95-96, p.99, p.143; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.46 — Ch.2: Group 20's first-year Class A
 [scene] (p.46) At the inn, Kiyotaka reads the Group 20 roster: five classes, 16 people.
 [mentioned] (p.46) Named as a first-year Class A member of Group 20: Toyohashi Goro, Kosumi Dan.
@@ -39,3 +34,10 @@ char_id: toyohashi-goro · class: unknown · status: unknown
 [note] (p.85–99) He beams after his table tennis turns; he denies SAKAYANAGI's first-years are bad; he ends up revering Kiyotaka like a hero.
 
 <!-- walk: y2v11 ch3 → p.99 -->
+
+### y2v11 p.143 — Ch.5: The first-years
+[scene] (p.143) The walk back; the first-years are named.
+[note] (p.143) “It's not like Toyohashi and the other first-years have already been won over by Sakayanagi, right?” — his group is named; he is one of the first-years.
+[mentioned] (p.143) Named in dialogue; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->

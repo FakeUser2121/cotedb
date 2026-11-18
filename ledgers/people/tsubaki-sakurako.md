@@ -167,11 +167,6 @@ char_id: tsubaki-sakurako · class: Class 1-C · status: unknown
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — tsubaki-sakurako mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.46, p.137, p.142, p.152, p.182-185; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.46 — Ch.2: Group 20's first-year Class C
 [scene] (p.46) At the inn, Kiyotaka reads the Group 20 roster.
 [mentioned] (p.46) Named as a first-year Class C member of Group 20: Tsubaki Sakurako, Shintoku Taro.
@@ -179,11 +174,63 @@ char_id: tsubaki-sakurako · class: Class 1-C · status: unknown
 
 <!-- walk: y2v11 ch2 → p.84 -->
 
+### y2v11 p.137–140 — Ch.5: Surprisingly enthusiastic
+[scene] (p.137) The girls' shared room; the first-years get drawn into the card game.
+[note] (p.137) “it seemed that the other first-year students, Tsubaki included, were surprisingly enthusiastic.” — unattributed narration; she is expected to be shy; she is not.
+[mentioned] (p.137) Named in the room's enthusiasm; not separately quoted on these pages.
+
 ### y2v11 p.142 — Ch.5: The cute one
 [scene] (p.142) On the way to the rooms; the first-year boys buzz about girls' rooms; Tsubaki makes an impression.
 [note] (p.142) “And wasn't Tsubaki-san cute?” — untagged first-year; Tsubaki is a first-year of their group; the boys gawk.
 
 <!-- walk: y2v11 ch5 → p.144 -->
+
+### y2v11 p.182–185 — Ch.8: The walk in the cold
+[scene] (p.182) Sunday, fourth day; the camp ends today; she spots him in the dim lobby; they walk outside into the cold; the rematch with Amasawa is set for 7 o'clock.
+[note] (p.182) She heard from Hashimoto-senpai that he gets up early; she doesn't change her attitude toward anyone; her smile, if any, is rare.
+[says] (p.182) “It's still quite early in the morning after all, isn't it?”
+[says] (p.182) “For the past two days, I heard from Hashimoto-senpai that you've been getting up early in the morning.”
+[says:ayanokouji-kiyotaka] (p.182) “So, you came looking for me?”
+[says] (p.182) “Not so much looking for you, but I just thought I'd check if you were here.”
+[says] (p.182) “But if you were here, that would change things quite a bit.”
+[says:ayanokouji-kiyotaka] (p.182) “I don't think there's any reason for you to come see me anymore. The special exam given only to first-year students has been canceled.”
+[says] (p.183) “I wasn't interested in the prize money from the start, but I'm disappointed. I'm lamenting the loss of the right to expel you in a dignified manner.”
+[says:ayanokouji-kiyotaka] (p.183) “That's dangerous talk. I don't remember you ever resenting me.”
+[says] (p.183) “Don't you think there are more things you don't realize? People unknowingly incur resentment, you know?”
+[says:ayanokouji-kiyotaka] (p.183) “I can't tell if you're joking or serious.”
+[says] (p.183) “Someone might come here, so why don't we take a walk?”
+[says:ayanokouji-kiyotaka] (p.183) “It's still dark outside.”
+[says] (p.183) “I thought it would be snowing quite a bit in the mountains of Tochigi, but it's not as much as I thought.”
+[says:ayanokouji-kiyotaka] (p.183) “February has a drastic temperature difference. Maybe it's because we've had a few warm days recently.”
+[says] (p.183) “Do you like snow, Senpai?”
+[says:ayanokouji-kiyotaka] (p.183) “I don't particularly like or dislike it. I just think I enjoy the scenery when it snows. Do you like snow, Tsubaki?”
+[says] (p.183) “...I guess I do. At least more than you, Senpai.”
+[says] (p.183) “Can you look at this?”
+[says] (p.184) “Being in this school feels like being cut off from the outside world, doesn't it? Who do you want to see first when you graduate next year, Senpai?”
+[says:ayanokouji-kiyotaka] (p.184) “You ask strange questions.”
+[says:ayanokouji-kiyotaka] (p.184) “Probably just my family.”
+[says] (p.184) “Family... Anyone else?”
+[says:ayanokouji-kiyotaka] (p.184) “Not really. I don't have any close friends, so that's about it.”
+[says] (p.184) “I see... Then, can I ask you one more strange question?”
+[says] (p.184) “Imagine if you had a brother, and you didn't know about his existence because your parents hid it from you for years. But one day, you were told he was actually family, would you be able to love him as a family member? Of course, assuming there is a genuine blood connection.”
+[says:ayanokouji-kiyotaka] (p.184) “That's a difficult question.”
+[says] (p.184) “I see. I think I would probably feel the same way as you. But, if I knew that the other person had special circumstances and a sad past, I would want to grow closer. I would like to know more about my sister, who I had been separated from.”
+[says:ayanokouji-kiyotaka] (p.184) “I might not feel anything. Of course, I think it would greatly depend on the other person's personality and situation.”
+[note] (p.184–185) Her hypothetical — a hidden sibling kept secret for years; the way she frames it (“my sister, who I had been separated from”) strongly suggests personal experience; the brother-sister switch is a deliberate evasion.
+[note] (p.185) “I am confused. Ayanokōji-senpai, from this school—” — the sentence is intentionally vague and fragmented; she stops mid-sentence when Horikita, Ibuki and Kushida appear.
+[says] (p.185) “We've been interrupted... Let's talk again later.”
+[rel:ayanokouji-kiyotaka] (p.182–185) She tests him with the sibling hypothetical; her real subject is never named on these pages.
+[rel:hashimoto-masayoshi] (p.182–183) She heard from him that he rises early; she knows more than she lets on.
+
+
+<!-- walk: y2v11 ch8 → p.193 -->
+
+### y2v11 p.152 — Ch.6: The shogi five
+[scene] (p.152) The shogi lineup; she is named in it.
+[note] (p.152) “The participants Kiryūin chose were me, Morishita, Hashimoto, Hiyori, and Tsubaki.” — she is picked for the shogi match; she is in the room.
+[mentioned] (p.152) Named in narration; not present in the shogi scene.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

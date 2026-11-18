@@ -395,4 +395,107 @@ char_id: morishita-ai · class: Class 2-A · status: unknown
 [rel:shiina-hiyori] (p.137–141) Hiyori draws the wrong card; she loses; Morishita wins on pure psychology.
 [rel:yamamura-miki] (p.137–141) Yamamura watches from the corner; Morishita never looks at her.
 
+
 <!-- walk: y2v11 ch5 → p.144 -->
+
+### y2v11 p.152–158 — Ch.6: The voice of the forest
+[scene] (p.152) The third-day shogi lineup is announced; she is missing; she is found standing at a tree with her eyes closed; she'd been lying awake in the shared room.
+[says] (p.153) “Could you please be quiet? I was listening to the voice of the forest.”
+[says] (p.153) “The forest is alive. If you touch a large tree like this, close your eyes, calm your mind, and listen, then you might understand what I'm saying.”
+[says] (p.155) “Breathe in through your nose and out through your mouth.”
+[says] (p.155) “I was recording Ayanokōji Kiyotaka being fooled by my lies in high definition.”
+[says] (p.156) “Can I ask you something?”
+[says] (p.156) “What do you think about Hashimoto Masayoshi?”
+[says] (p.157) “Of course, I think we should unite as a class and exclude him.”
+[says] (p.157) “I do think that both Hashimoto and Sakayanagi should fight without holding back. It's best to decide the winner after they both exert all they're able to. That's just my opinion though.”
+[says] (p.158) “Well, let's get going. Don't play in the forest forever. You're such a child.”
+[note] (p.156–157) She estimates Sakayanagi beats Hashimoto nine times out of ten; with him siding with Hashimoto, she calls the odds at risk; she doesn't mince words.
+[note] (p.158) Her verdict is honest; she says the infighting would be a drag half a year or even a year and would be a detriment to Class A.
+[rel:ayanokouji-kiyotaka] (p.152–158) She probes him in circles; she finds the stratagems he uses; she lets him sit with the tree.
+
+### y2v11 p.159–161 — Ch.6: Six points
+[scene] (p.159) She volunteers for the second archery game despite the first one's disgrace; she refuses to back down.
+[says] (p.159) “Of course, I'm here to do archery. I came to fight.”
+[says] (p.159) “That's how it is. You can think of it as being on the winning ship, Ayanokōji Kiyotaka.”
+[note] (p.160) Her score is six points; the only one who scored a total of six points and suffered a big loss in this game.
+[note] (p.161) The group takes four of five; her six points hang in the air; Kiyotaka says the groups will aim higher tomorrow.
+
+<!-- walk: y2v11 ch6 → p.167 -->
+
+### y2v11 p.218–220 — Short Story: Please Listen in My Stead
+[scene] (p.218) Morishita's POV on the voice-of-the-forest prank; she explains her real reason for staying behind.
+[note] (p.218) The exchange meeting was already on its third day — the line is printed as “HE EXCHANGE MEETING was already on its third day.” in the source (a drop-cap artifact of the translation layout); kept as printed.
+[narrates] (p.218) “I was keeping my eye on Ayanokōji Kiyotaka to track Hashimoto Masayoshi's movements, and by chance, we happened to be in the same group.”
+[narrates] (p.218) “I wondered if those two had connected.”
+[narrates] (p.218) “Have they decided to team up, or is it just me needlessly worrying? I wanted to know.”
+[narrates] (p.218) “Not to protect Sakayanagi Arisu, nor to protect Class A. I did it for myself. And to satisfy the approaching needs for esteem.”
+[narrates] (p.218) “Surely, detectives who came across murder scenes must've been fighting such impulses every day.”
+[says] (p.218) “It's almost time for the exchange meeting.”
+[narrates] (p.218) “I heard a voice from behind.”
+[narrates] (p.220) ““Could you please be quiet? I was listening to the voice of the forest.” I shook off the disturbance from behind and focused my attention.”
+[narrates] (p.220) “How noisy. It seemed he fell into the trap I set, but he was a bit of a nuisance right now.”
+[narrates] (p.220) ““...Huh? The voice of the forest? What is that?””
+[narrates] (p.220) ““Don't you understand? The forest is alive.” I continued to give a simple explanation.”
+[narrates] (p.220) ““...I see?” It seems he didn't get it.”
+[narrates] (p.220) “Well, that was fine. It seemed I'd successfully lured him out.”
+[narrates] (p.220) “Ayanokōji Kiyotaka was a very interesting existence.”
+[narrates] (p.220) “No matter how close I got, I couldn't see his true nature as a human being.”
+[narrates] (p.220) “The line between how much was serious and how much was a joke wasn't clear.”
+[narrates] (p.220) “I wanted to know. I wanted to know more about him. I couldn't help but want to know.”
+[narrates] (p.220) “Let's have him listen to the voice of the forest instead of me.”
+[rel:ayanokouji-kiyotaka] (p.218–220) The mystery hunt; the prank; her real motive — curiosity; the esteem-needs.
+[rel:hashimoto-masayoshi] (p.218) The person she tracks through Kiyotaka; she needs to know if they've connected.
+[rel:sakayanagi-arisu] (p.218) Explicitly NOT her motive — not to protect Sakayanagi nor Class A.
+
+
+<!-- walk: y2v11 Epilogue → p.223 -->
+
+### y2v11 p.46 — Ch.2: The Group 20 roster
+[scene] (p.46) The Group 20 roster lands on his face.
+[note] (p.46) “• Class A Hashimoto Masayoshi, Yamamura Miki, Morishita Ai” — the roster prints her name third.
+[mentioned] (p.46) Named in the roster; present from p.47 onward? no — present from p.49.
+
+### y2v11 p.47 — Ch.2: The assembly
+[scene] (p.47) The Group 20 assembly; she says little.
+[note] (p.47) “Good morning, Ayanokōji-kun.” — her greeting, soft.
+[mentioned] (p.47) Named in narration; on-page from p.49.
+
+### y2v11 p.60 — Ch.2: The deciding factor
+[scene] (p.60) Kiryūin reveals how the group was assembled.
+[note] (p.60) “When Hashimoto and Morishita stopped by the convenience store, they ran into Yamamura, and Kiryūin happened to be there at the same time.” — the deciding factor in choosing the same group.
+[mentioned] (p.60) Named in dialogue; not present on these pages.
+
+### y2v11 p.110–111 — Ch.4: The sleepy princess
+[scene] (p.110) The lobby sofa; she is named.
+[note] (p.110) “Ayanokōji-kun, you're in the same group as Hashimoto-kun and Morishita-san. How is Hashimoto-kun doing?” — Sakayanagi's probe; she is named.
+[note] (p.111) “The only girls in Class A that I interacted with were Yamamura and Morishita. Both of them had their strengths, but they weren't suitable for taking care of Sakayanagi.” — she is excluded on both counts.
+[mentioned] (p.110–111) Named in dialogue; not present on these pages.
+
+### y2v11 p.118 — Ch.5: The archery volunteer
+[scene] (p.118) The archery match; she volunteers.
+[note] (p.118) “Morishita, who volunteered to participate, entered the game but was unable to handle it well and couldn't hit the target even once, a slight accident, but both the group and I were successful in avoiding consecutive losses.” — Kiyotaka's verdict.
+[mentioned] (p.118) Named in narration; present in the match.
+
+### y2v11 p.120–121 — Ch.5: The Sanada inquiry
+[scene] (p.120) The rest area; Sanada asks about her.
+[note] (p.121) “Then there's Morishita... Well, cooperative... no, creative, I guess.” — Kiyotaka's honest report; her own assessment.
+[note] (p.121) “It wasn't like Ichinose's class, where everyone was friendly. There were people you liked and people you didn't. It was normal to show it in your everyday attitude.” — Sanada's class comparison; she is the outsider in it.
+[mentioned] (p.120–121) Named in dialogue; not present on these pages.
+
+### y2v11 p.135 — Ch.5: The girls' room card game
+[scene] (p.135) The girls' room; the joke gap.
+[note] (p.135) “Playing cards is the most classic of classics, isn't it, Ayanokōji?” — no her line; Hashimoto says it.
+[note] (p.136) “I can't say whether I like it or not. I've never done it before.” — her line; she has never played a card game.
+[mentioned] (p.135–136) Named in dialogue; on-page from p.135.
+
+### y2v11 p.189 — Ch.8: The bench
+[scene] (p.189) The bench; her name surfaces.
+[note] (p.189) “You knew about it. That Yamamura and I were in the same group.” — no her; hmm — p.189 is Sakayanagi's dialogue; she is not named here.
+[mentioned] (p.189) Named in narration; not present on these pages.
+
+### y2v11 p.211 — Short Story: The Student in Front of Me
+[scene] (p.218) Her short story; she is not present on these pages.
+[note] (p.211) Hiyori's POV on the Joker scene: Morishita extends her arm, the isolated card is the Joker, she dominates the game. The page renders with a drop-cap artifact of the translation layout.
+[mentioned] (p.211) Named in the short story; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->

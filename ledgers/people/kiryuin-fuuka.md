@@ -250,6 +250,68 @@ char_id: kiryuin-fuuka · class: unknown · status: unknown
 [rel:ayanokouji-kiyotaka] (p.109) She reads that he hides something from her too.
 
 <!-- walk: y2v11 ch4 → p.113 -->
+
+### y2v11 p.38 — Ch.2: The group 20 leader
+[scene] (p.38) The bus ride; Kiryūin is named in the printout.
+[note] (p.38) “I seem to be in group 20 with Kiryūin-senpai, at the end of the fifth page.” — his assignment; he reads all 20 groups.
+[mentioned] (p.38) Named in narration; not present on these pages.
+
+### y2v11 p.57–59 — Ch.2: The bet negotiation
+[scene] (p.57) The break room; the bet is being set.
+[note] (p.57) “You can clearly refuse if you don't like it, you know? Even if you say you won't pay anything when you lose, the fact that you lost will remain.” — Kiryūin's role in the negotiation; she is consulted by Nagumo.
+[note] (p.58) “You participate in all the games. And when you lose three times, that's your defeat.” — the terms; she knows in advance.
+[note] (p.59) “Of course, I've told Kiryūin that you're participating in all the games.” — her role in setting the stage.
+[mentioned] (p.57–59) Named in dialogue; not present on these pages.
+
+### y2v11 p.68 — Ch.2: The leader lever
+[scene] (p.67) The Telling Hashimoto scene; she is named.
+[note] (p.68) “I'll also try to extract as much information as possible at that time, but if Kiryūin-senpai doesn't make a move, your power is indispensable.” — his leverage phrase; she is the ceiling on what he can do.
+[mentioned] (p.68) Named in dialogue; not present on these pages.
+
+### y2v11 p.87 — Ch.3: The third-year context
+[scene] (p.87) The Sakayanagi verdict evening; she is named.
+[note] (p.87) “If Sakayanagi wanted to win, it would be normal for her to take command, regardless of whether it's a third-year or whatever.” — she is one of the third-year leaders named as comparison points.
+[mentioned] (p.87) Named in dialogue; not present on these pages.
+
+### y2v11 p.108 — Ch.4: The breakfast table
+[scene] (p.108) The breakfast; he is captivated.
+[note] (p.108) “Kiryūin, who had finished her meal early, leaned on the table and muttered with interest.” — she watches the first-year frenzy.
+[mentioned] (p.108) Named in narration; on-page from p.109.
+
+### y2v11 p.116 — Ch.5: The 16-game streak
+[scene] (p.114) The sculpture experience; she is named.
+[note] (p.116) “Even if the Kiryūin group could win 16 or 17 games in a row by repeatedly buying off their opponents” — Kiyotaka's analysis; she is the presumed winner.
+[mentioned] (p.116) Named in narration; not present on these pages.
+
+### y2v11 p.120 — Ch.5: The tied-for-sixth
+[scene] (p.120) The rest area; the rankings.
+[note] (p.120) “Kiryūin's group was tied for sixth place with nine wins and three losses. Depending on tomorrow's results, it was possible to aim for the podium.” — the standings; her group is mid-pack.
+[mentioned] (p.120) Named in narration; not present on these pages.
+
+### y2v11 p.135–136 — Ch.5: The girls' room
+[scene] (p.135) The girls' room; she plays one-liner foil to Hashimoto.
+[note] (p.135) “Playing cards is the most classic of classics, isn't it, Ayanokōji?” — her line; she sits and watches.
+[note] (p.136) “Isn't it suspicious to say you're confident in playing cards? That's why I left you out.” — her verdict on Morishita.
+[mentioned] (p.135–136) Named in dialogue; not present in the card game itself.
+
+### y2v11 p.152 — Ch.6: The shogi five
+[scene] (p.152) The shogi match lineup.
+[note] (p.152) “The participants Kiryūin chose were me, Morishita, Hashimoto, Hiyori, and Tsubaki.” — her five picks; she is the selector.
+[mentioned] (p.152) Named in narration; not present in the shogi five.
+
+### y2v11 p.156 — Ch.6: The forest wait
+[scene] (p.152) The forest scene; she is waiting at the building.
+[note] (p.158) “Morishita started walking away from under the tree.” — the walk back toward the inn; she is somewhere ahead of them.
+[mentioned] (p.156) Named in narration; not present in the forest scene.
+
+### y2v11 p.159–162 — Ch.6: The 17th match
+[scene] (p.159) The 17th match; her group loses one match.
+[note] (p.159) “Following a game of table tennis, the upcoming game was 'archery', making it the second 'archery' match in the exchange meeting.” — the matchup she selects.
+[note] (p.161) “By the way, the only one who scored a total of six points and suffered a big loss in this game was Morishita.” — her group wins four of five; she does not see it.
+[note] (p.162) “Kiryūin's group's final record was fifteen wins and four losses within the 19 games.” — the final record; her group finishes fourth.
+[mentioned] (p.159–162) Named in narration; not present in the match itself.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

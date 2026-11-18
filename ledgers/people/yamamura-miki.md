@@ -241,6 +241,24 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 ## y2v11
 
 <!-- walk: y2v11 → start -->
+### y2v11 p.10 — Prologue: Yamamura's monologue
+[scene] (p.10) Her own POV, addressed to no one: in kindergarten, elementary and junior high she spent her life alone; she was inconspicuous and lacking presence — too forgettable to be liked, too forgettable to be hated.
+[narrates] (p.10) “REALIZED THAT I was alone.”
+[narrates] (p.10) “It wasn't that anyone particularly disliked me.”
+[narrates] (p.10) “I just didn't catch anyone's eye.”
+[narrates] (p.10) “I was inconspicuous, lacking presence.”
+[narrates] (p.10) “Before anyone could like me, they couldn't even hate me.”
+[narrates] (p.10) “That was why I was always alone.”
+[narrates] (p.10) “Even after becoming a high school student, nothing changed.”
+[narrates] (p.10) “But I thought that was okay.”
+[narrates] (p.10) “I forced myself to believe that it was my strength…”
+[narrates] (p.10) “I thought it would be okay to live quietly alone even as an adult.”
+[narrates] (p.10) “—Until this day.”
+[note] (p.10) Two unattributed lines surface in her monologue as remembered speech: “...After all... I don't think losing suits Sakayanagi-san...” and “Why don't you try telling her? No one has the right to criticize your actions.” — the speaker is not identified on these pages; recorded as unattributed recollection.
+[note] (p.10) The Prologue is interior monologue; no other named on-page presence. Sakayanagi is referenced, never present.
+[rel:sakayanagi-arisu] (p.10) The remembered line being turned over: that losing does not suit Sakayanagi; the trigger of the monologue is the lottery scene alluded to later in Ch.7.
+
+<!-- walk: y2v11 Prologue → p.10 -->
 
 ### y2v11 p.30–33 — Ch.1: Three or four items she can't refuse
 [scene] (p.30) In the convenience-store beverage section she collides almost with Kiyotaka; she had been watching Hashimoto on the emergency stairs.
@@ -269,6 +287,13 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 
 <!-- walk: y2v11 ch2 → p.84 -->
 
+### y2v11 p.111 — Ch.4: One of the only girls in Class A he interacts with
+[scene] (p.111) Sakayanagi's search for a Kamuro successor runs into the same two names.
+[note] (p.111) “The only girls in Class A that I interacted with were Yamamura and Morishita. Both of them had their strengths, but they weren't suitable for taking care of Sakayanagi.” — unattributed narration.
+[mentioned] (p.111) Named as one of the two Class A girls Kiyotaka knows; not present on these pages.
+
+<!-- walk: y2v11 ch4 → p.113 -->
+
 ### y2v11 p.135–142 — Ch.5: Watching from the corner
 [scene] (p.135) The girls'room; she watches the room; she refuses to play; Hiyori coaxes her in.
 [says] (p.137) “Um... I'll... watch.”
@@ -278,4 +303,67 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 [rel:morishita-ai] (p.135–141) She is not even a player in Morishita's advance-strategy homework.
 [rel:ayanokouji-kiyotaka] (p.135–142) He alone notices her invisibility; he points it out.
 
+
 <!-- walk: y2v11 ch5 → p.144 -->
+
+### y2v11 p.146–147 — Ch.6: The small presence
+[scene] (p.146) The morning training; the small-presence question floats in the air; nobody answers it out loud.
+[note] (p.146–147) “Who comes to mind when you think of a student with a small presence?” — Horikita answers “You, Ayanokōji-kun.” — he says to himself: all of these characteristics fit Yamamura.
+[mentioned] (p.146–147) Named in the narration as the archetype of invisibility; not present on these pages.
+
+
+<!-- walk: y2v11 ch6 → p.167 -->
+
+### y2v11 p.168–176 — Ch.7: The vending machine
+[scene] (p.168) Past 11 p.m., long past lights-out; Hiyori texts Ayanokōji that she is missing; he finds her leaning against the vending machine.
+[says] (p.170) “Wh-wh-wh-why are you here...?”
+[says] (p.170) “I was confident that… I wouldn't be found… but if you found me, I can't use that excuse, can I…?”
+[says] (p.170) “Yes. When I listen to the sound of the vending machine, the unnecessary voices in my mind disappear...”
+[says] (p.170) “Usually, they stop immediately and it's resolved… usually...”
+[says] (p.171) “It's not about liking or disliking, I just… don't have that kind of experience...”
+[says] (p.171) “You too, Ayanokōji-kun? But to me… you seem normal. You seem to have a lot of friends. And Shiina-san too. She's bright and cute… I'm jealous...”
+[says] (p.171) “...No. I'm fine.”
+[says] (p.172) “I'm… probably scared. Of voicing my thoughts. And of those thoughts spreading unintentionally. I'm scared of being known...”
+[says] (p.172) “Since the last special exam ended, I've had one question in my mind...”
+[says] (p.173) “When I hesitated to draw a lot, Sakayanagi-san said she would stop the lottery. If you didn't have the courage to draw a lot, it was the same as abstaining...”
+[says] (p.173) “I strongly felt that Sakayanagi-san wanted me to withdraw at that moment.”
+[says] (p.173) “I understand that it can't be helped. At least, when comparing me and Kamuro-san, the value was clear. I didn't wish to have special treatment. I didn't even want to be greedy and wish to be considered a friend. But... I was shocked to know that my existence was something that could be discarded in an instant... even though she used me, saying I was a valuable person...”
+[says] (p.173) “Sakayanagi-san doesn't suit losing... I don't want to see her struggle in the end-of-year exam... I hope she wins.”
+[says] (p.174) “As a result, Tokitō-kun was... forcibly restrained and threatened by Ryūen-kun and his group.”
+[says] (p.176) “What if... what if... she doesn't even want to listen to me...?”
+[note] (p.172–174) She confesses to him the one question her mind keeps returning to — the survival and elimination exam — the draw; Sakayanagi's verdict; being the one Sakayanagi wanted to discard; the conversation includes the camp's lottery and the Kamuro comparison.
+[note] (p.176) He offers: “I'll get stuck in between some vending machines and talk it over.” — she looks at the vending machine shyly and nods.
+[rel:ayanokouji-kiyotaka] (p.168–176) He finds her; he listens for hours; he promises to stand between her and Sakayanagi.
+[rel:sakayanagi-arisu] (p.172–176) The two wishes: to know what Sakayanagi thought of her then, and what she thinks of her now; and that Sakayanagi, who doesn't suit losing, should not struggle in the end-of-year exam.
+[rel:shiina-hiyori] (p.168) Her disappearance triggers Hiyori's worried text; Hiyori stays in the room as lookout.
+
+
+
+<!-- walk: y2v11 ch7 → p.181 -->
+
+### y2v11 p.188–193 — Ch.8: The dog park
+[scene] (p.188) The morning everything ends; she waits at the dog park in the cold for 20 minutes; the girl who always waits for others finally gets to wait for herself.
+[note] (p.188) She is in sight from the bench from the start; he positions her as the end goal; her waiting is patient and anxious.
+[note] (p.193) Sakayanagi walks in on her own after he pushes her back; the two see each other; the scene closes without a single line of dialogue.
+[rel:sakayanagi-arisu] (p.188–193) The end of the long thread — the lottery, the verdict, the forgiveness; the two finally meet on their own terms.
+
+
+<!-- walk: y2v11 ch8 → p.193 -->
+
+### y2v11 p.60 — Ch.2: The chance encounter
+[scene] (p.60) The break room; their paths cross.
+[note] (p.60) “When Hashimoto and Morishita stopped by the convenience store, they ran into Yamamura, and Kiryūin happened to be there at the same time.” — the choosing of the group; she is the reason.
+[mentioned] (p.60) Named in dialogue; not present on these pages.
+
+### y2v11 p.120–121 — Ch.5: The support role
+[scene] (p.120) The rest area; she is named.
+[note] (p.120) “support role. Yamamura is participating in the matches, and her honesty is helpful.” — his honest report.
+[note] (p.121) “However, Yamamura had seemed listless lately, but I didn't mention that.” — his silence.
+[mentioned] (p.120–121) Named in dialogue; not present on these pages.
+
+### y2v11 p.206 — Epilogue: The inseparable pair
+[scene] (p.206) The career counseling room; her fall from grace.
+[note] (p.206) “She felt a change in her emotional switch within her, starting with the incident involving Kamuro and Yamamura.” — the origin of her change.
+[mentioned] (p.206) Named in dialogue; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->

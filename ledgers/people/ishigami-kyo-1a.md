@@ -66,6 +66,17 @@ char_id: ishigami-kyo-1a · class: Class 1-A · status: first-year honor student
 [rel:amasawa-ichika] (p.61–62) His Class A classmate, who recognizes him and describes him as the class's strategist.
 [rel:ayanokouji-kiyotaka] (p.62) He meets Ayanokōji's gaze with a silent stare and shows no sign of agitation at the unexpected first meeting.
 [note] (p.66) Ayanokōji notes the Class D option is also an easy solution "given that she'd been turned down by Ishigami."
+## y2v11
+
+<!-- walk: y2v11 → start -->
+
+### y2v11 p.37 — Ch.2: The absent first-year
+[scene] (p.37) In the bus printouts, Ishigami's name is among the four absent first-years on the camp roster.
+[note] (p.37) The first-year qualifier resolves the name: the only Ishigami the text gives here is a first-year; the Class 2-D Ishigami is a second-year and is not this entry.
+[note] (p.37) Kiyotaka will not get the chance to involve him at the camp; he gets no other mention on these pages.
+[mentioned] (p.37) Named in the absentee list; not present on these pages.
+
+<!-- walk: y2v11 ch2 → p.84 -->
 
 ## y2v12
 

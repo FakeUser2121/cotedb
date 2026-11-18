@@ -13,11 +13,6 @@ char_id: yanagi-yasuhisa · class: unknown · status: unknown
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — yanagi-yasuhisa mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.10-11, p.19, p.21-25, p.29-30, p.40, p.46; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.46 — Ch.2: Group 20's first-year Class B
 [scene] (p.46) At the inn, Kiyotaka reads the Group 20 roster.
 [mentioned] (p.46) Named as a first-year Class B member of Group 20: Yanagi Yasuhisa, Eikura Mani.
@@ -31,3 +26,16 @@ char_id: yanagi-yasuhisa · class: unknown · status: unknown
 [note] (p.85) He had a turn at table tennis in the third and fourth rounds; that probably lifted his mood.
 
 <!-- walk: y2v11 ch3 → p.99 -->
+
+### y2v11 p.107 — Ch.4: Invited to the morning bath
+[scene] (p.107) A shouted invitation drags him along to the morning bath.
+[note] (p.107) Hashimoto: “Yanagi, Kobayashi, Kozumi, let's go too!” — speaker tagged in the text (Hashimoto); he is bundled along with other first-years without being asked.
+[mentioned] (p.107) Named in the bath invitation; the actual bath and the conversation are not on these pages.
+
+<!-- walk: y2v11 ch4 → p.113 -->
+
+### y2v11 p.159–161 — Ch.6: Yanagi vs Horikita
+[scene] (p.159) The 17th match; he is named in the lineup: Horikita vs Yanagi.
+[note] (p.160–161) “Horikita Suzune vs Yanagi Yasuhisa.” — he loses; Nagumo's group takes four of five; Kiyotaka's 58 takes his individual duel.
+
+<!-- walk: y2v11 ch6 → p.167 -->

@@ -976,10 +976,12 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — kouenji-rokusuke mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.13, p.40, p.49-50, p.72-79, p.81, p.83; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
+### y2v11 p.13 — Ch.1: Named on the same level
+[scene] (p.13) Chabashira's interview patter names him as the other oddball in the school.
+[says:chabashira-sae] (p.13) “What, are you shocked to be treated on the same level as Kōenji?”
+[mentioned] (p.13) Named, not present on these pages.
+
+<!-- walk: y2v11 ch1 → p.33 -->
 
 ### y2v11 p.49–50 — Ch.2: The desertion from Group 6
 [scene] (p.49) During the Group 20 lunch line-up; in another group nearby, Kōenji slips away from his leader without listening; the first-years are bewildered; Inogashira looks at Ayanokōji with an awkward lift of the shoulders.
@@ -1015,3 +1017,40 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:tatebayashi] (p.96–98) Every order hits a wall; the leader breaks down; nothing is settled.
 
 <!-- walk: y2v11 ch3 → p.99 -->
+
+### y2v11 p.40 — Ch.2: The exception named
+[scene] (p.40) The bus ride; the stacked group discussion.
+[note] (p.40) “If we talked about individual abilities, there were students with outstanding abilities such as Sakayanagi, Ryuuen, and Koenji, but it was unknown what kind of chemistry would occur when they were thrown in the mix together.” — the third exception named outright.
+[mentioned] (p.40) Named in narration; not present on these pages.
+
+### y2v11 p.72–73 — Ch.2: The stuck group
+[scene] (p.72) The Inogashira plea; he is the one who won't move.
+[note] (p.72) “um... uh, you're good friends with Kōenji-kun, aren't you, Ayanokōji-kun?” — her plea; he is the one who won't move.
+[note] (p.73) “I can't help you. There's nothing I can do.” — his verdict on Kōenji.
+[mentioned] (p.72–73) Named in dialogue; not present on these pages.
+
+### y2v11 p.79–83 — Ch.2: The swings scene Kōenji info
+[scene] (p.79) The east-side park; she asks about him.
+[note] (p.79) “Ayanokōji, you're back.” — Kiryūin's greeting; he is the topic.
+[note] (p.81) “It seemed better to tell her about Kōenji's situation later. With that thought, I asked about the content of the conversation.” — her refusal to discuss him.
+[note] (p.82) “Did you get to meet Kōenji?” — Asahina asks; he is the subject.
+[note] (p.83) “It would be nice if he could be tough on Kōenji, but it doesn't affect him.” — Kiryūin's read on him.
+[mentioned] (p.79–83) Named in dialogue; not present on these pages.
+
+### y2v11 p.118 — Ch.5: The patchwork opponent
+[scene] (p.118) The patchwork match; his behaviour is the backdrop.
+[note] (p.118) “The opponent who appeared here was the Tatebayashi group, which had a dispute on the first day due to Kōenji's selfish behavior.” — the backstory of his dispute.
+[mentioned] (p.118) Named in narration; not present on these pages.
+
+### y2v11 p.157 — Ch.6: The female version
+[scene] (p.157) Morishita's forest verdict; she is compared to him.
+[note] (p.157) “A female version of Kōenji—it would be rude to call Morishita that, but in terms of archetype, they might be a little similar.” — Kiyotaka's aside; he is the comparison point.
+[mentioned] (p.157) Named in narration; not present on these pages.
+
+### y2v11 p.214–215 — Short Story: The Student in Front of Me
+[scene] (p.214) Chabashira's POV on the two-person interviews.
+[note] (p.214) “Phew... Kōenji is such a troublesome student.” — Chabashira's exhausted verdict.
+[note] (p.214) “His career aspiration was to be a free person, he didn't need human relationships, his only concerns were about improving his own body, and so on.” — his exact profile.
+[mentioned] (p.214–215) Named in the short story; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->

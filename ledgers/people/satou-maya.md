@@ -536,11 +536,6 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — satou-maya mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.40, p.133-134; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.133–134 — Ch.5: The heartbreak of the last loss
 [scene] (p.133) After the bath; passing the lobby, she pulls back from returning to her room when she sees Ayanokōji.
 [says] (p.133) “Ah~! Ayanokōji-kun! Hey, can you listen to my story~!?”

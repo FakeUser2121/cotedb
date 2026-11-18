@@ -616,11 +616,6 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — nanase-tsubasa mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.70-71; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.70–71 — Ch.2: The oshibana match
 [scene] (p.70) Group 9 — Horikita's class — lines up against Group 20 for the Day 1 oshibana match; Nanase asks Kiyotaka about oshibana.
 [says] (p.70) “Do you also make oshibana, Ayanokōji-senpai?”

@@ -756,13 +756,14 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — kanzaki-ryuuji mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.40, p.160; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.40 — Ch.2: Named in the stacked group
 [scene] (p.40) The printout lists Group "Nagumo"'s members on the bus.
 [mentioned] (p.40) Named as the second-year Class D member of Nagumo's group.
 
 <!-- walk: y2v11 ch2 → p.84 -->
+
+### y2v11 p.159–161 — Ch.6: Kanzaki vs Shintoku
+[scene] (p.159) The 17th match; he is named in the lineup: Kanzaki vs Shintoku.
+[note] (p.160) “Kanzaki Ryūji vs Shintoku Tarō.” — the lineup announcement; the result is not narrated in these pages.
+
+<!-- walk: y2v11 ch6 → p.167 -->

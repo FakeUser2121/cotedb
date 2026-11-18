@@ -2398,10 +2398,14 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — ryuuen-kakeru mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.20, p.24-25, p.40, p.68, p.86, p.98; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
+### y2v11 p.20–25 — Ch.1: The leak's other end
+[scene] (p.20) Named as the destination of the leaked information during the special exam, the act that left Class A at the bottom.
+[note] (p.20) “Someone leaked information to Ryūen during the special exam.” — Kiyotaka's account in the interview aftermath; the leak cost Class A the win.
+[note] (p.24) “No, even if you were prepared for a mutual kill, it was difficult to defeat Sakayanagi.” — unattributed narration on the imbalance of power.
+[note] (p.24) “If that happened, Ryūen could avoid accepting the troublesome existence of the traitor Hashimoto, and at the same time, he could bury a strong enemy, which would be killing two birds with one stone for Ryūen.” — unattributed narration.
+[says:hashimoto-masayoshi] (p.25) “But Ryūen and Sakayanagi are the same, right? Other people are useless.”
+
+<!-- walk: y2v11 ch1 → p.33 -->
 
 ### y2v11 p.40–41 — Ch.2: The absence on the list
 [scene] (p.40) The organization chart is read on the bus; Ryūen is named as an example of high-OAA chemistry in any group.
@@ -2441,7 +2445,6 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:housen-kazuomi] (p.128–132) He appears at the right moment; Ryūen sizes him up; Hōsen refuses to leave.
 [rel:yamada-albert] (p.130–132) Albert engages Hōsen; his fist gets numbed.
 
-
 [says] (p.129) “Get lost. You're in the way.”
 [says] (p.132) “Don't make me laugh. If it's just simple power, he might be able to compete with him, but if you compare their overall strength, there's no comparison. The source of Ayanokōji's strength is not so simple.”
 [says] (p.132) “Tokitō is not that stupid. We should leave it at that. We've already nailed him enough.”
@@ -2450,3 +2453,106 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [note] (p.132) He warns that Kitō is the wild card now; the end-of-year exams will detonate; everything hinges on them.
 
 <!-- walk: y2v11 ch5 → p.144 -->
+
+### y2v11 p.174 — Ch.7: The purge witnessed
+[scene] (p.174) Yamamura confesses to Kiyotaka in the dark; her account of Tokitō's clash with Ryūen surfaces again.
+[says:yamamura-miki] (p.174) “As a result, Tokitō-kun was... forcibly restrained and threatened by Ryūen-kun and his group.”
+[note] (p.174) Her account: Ryūen's 4 p.m. report convinced cutthroat expectations; he corners Tokitō for indulging Sakayanagi; she watched and knows everything.
+[mentioned] (p.174) Named by Yamamura as the threatener; not present on these pages.
+
+<!-- walk: y2v11 ch7 → p.181 -->
+
+### y2v11 p.205–209 — Epilogue: The bet Sakayanagi can't win
+[scene] (p.205) A few days after the exchange meeting; the career counseling room; he's five minutes late; his homeroom teacher Sakagami behind him; Sakayanagi waits with Mashima.
+[says:sakayanagi-arisu] (p.205) “You're five minutes late, Ryūen-kun.”
+[says] (p.205) “The star of the show always makes a late entrance.”
+[says] (p.206) “You seem energetic for someone who's sunk so low.”
+[says:sakayanagi-arisu] (p.206) “Heh, Ayanokōji did something unnecessary too.”
+[says] (p.206) “I indeed felt emotions I had never experienced before, but if you thought that was the end, it's too early.”
+[says:sakayanagi-arisu] (p.206) “So you were also saved by Ayanokōji-kun.”
+[says] (p.206) “Huh, don't make me laugh. We'll never get along. I don't remember being saved by Ayanokōji. Rather, what I got was hatred. Hatred for revenge.”
+[says] (p.206) “Are you any different?”
+[says:sakayanagi-arisu] (p.206) “I see. Hatred—so that's what drove you here.”
+[says] (p.206) “I lost to Ayanokōji. I thought it was okay to lose as many times as I wanted as long as I won in the end, but that man mercilessly crushed that indomitable spirit. I was so drained.”
+[says] (p.207) “Are you saying you had your eye on him earlier?”
+[says:sakayanagi-arisu] (p.207) “Yes. You unfortunately only learned of his existence at this school. However, unlike you, I've been following him with my own eyes since childhood.”
+[says] (p.207) “In front of Sakayanagi, who stood up on her cane, Ryūen also stood up and turned around, facing the teachers.”
+[says:sakayanagi-arisu] (p.207) “Although our motives are different, it seems that our final goals are the same, Ryūen-kun. I have been wishing to fight him since long before you. We only have one year left in our school life. I need to get rid of any obstacles before then.”
+[says] (p.207) “I completely agree. I'll defeat you quickly and take my revenge on him.”
+[says:sakayanagi-arisu] (p.207) “Your revenge will not be fulfilled. You will stumble just before it.”
+[says:sakayanagi-arisu] (p.207) “You're probably planning for a showdown on the throne, but that scheme will fail.”
+[says:sakayanagi-arisu] (p.208) “For the end-of-year exam, the loser will leave this school—that's what it's about.”
+[says:sakagami] (p.208) “A Protection Point is meaningless if we're voluntarily withdrawing. For fairness, it's been decided that we'd request additional private points to fill the difference that the Protection Point makes, but the amount is kept to a minimum. If we take away his money, his class will really have nothing left.”
+[says:mashima-tomonari] (p.208) “Are both of you really okay with this? If we agree, we will have to enforce the expulsion forcibly based on the end-of-year results. Both of you are in important positions; you two play the leader role in your classes. Major disruption is inevitable.”
+[says:sakayanagi-arisu] (p.209) “Please don't hope for a draw to invalidate the bet, okay?”
+[says] (p.209) “I won't recognize a draw. If that happens, we can decide by lottery, just like how you abandoned Kamuro.”
+[says:sakayanagi-arisu] (p.209) “That's also fun. Let's look forward to it.”
+[note] (p.205–209) The hatred is real on both sides; the bet is sealed; both teachers witness it; the end-of-year special exam begins with stakes set on expulsion and no escape; a showdown on the throne is being planned without Ayanokōji.
+[rel:sakayanagi-arisu] (p.205–209) The hatred; the bet; the showdown; the throne.
+[rel:ayanokouji-kiyotaka] (p.205–209) The target waits beyond Sakayanagi; the two fuse their motives without speaking them.
+[rel:mashima-tomonari] (p.205–209) The witness; he knows what the contract means; he says nothing now.
+[rel:sakagami] (p.205–209) The witness; the Protection Point; he knows what the contract means; he says nothing now.
+
+
+<!-- walk: y2v11 Epilogue → p.223 -->
+
+### y2v11 p.68 — Ch.2: The hands and feet
+[scene] (p.67) The Telling Hashimoto scene; he is named.
+[note] (p.68) “It will also serve as a check on the princess, and it's not something Ryūen can ignore.” — Hashimoto's leverage; Ryūen is the unseen party.
+[mentioned] (p.68) Named in dialogue; not present on these pages.
+
+### y2v11 p.98 — Ch.3: The pillow fight
+[scene] (p.96) The Tatebayashi corridor; he is named.
+[note] (p.98) “Especially on school trips, it was a big deal when Ryūen and Kitō had a pillow fight.” — the school-trip precedent.
+[mentioned] (p.98) Named in narration; not present on these pages.
+
+### y2v11 p.109 — Ch.4: The intimidation
+[scene] (p.109) The breakfast table; he is named by comparison.
+[note] (p.109) “Though, I don't remember using any form of intimidation like Ryūen or Hōsen...” — Kiyotaka's denial of menace.
+[mentioned] (p.109) Named in narration; not present on these pages.
+
+### y2v11 p.112 — Ch.4: The knight's wrist
+[scene] (p.112) The Sakayanagi sofa; she names him.
+[note] (p.112) “isn't this something you should do to Ryūen-senpai or someone?” — Amasawa's taunt; Kitō is the knight.
+[mentioned] (p.112) Named in dialogue; not present on these pages.
+
+### y2v11 p.117 — Ch.5: The mastermind
+[scene] (p.114) The second day; he is named.
+[note] (p.117) “It sounds like something Ryūen-kun would happily use.” — Kiyotaka's read; he is the social saboteur.
+[mentioned] (p.117) Named in narration; not present on these pages.
+
+### y2v11 p.133 — Ch.5: The bath
+[scene] (p.133) The lobby; the war.
+[note] (p.133) “At the time, I had no way of knowing that there was a war going on between Ryūen, Tokitō, and Hōsen.” — the war he fights.
+[mentioned] (p.133) Named in narration; not present on these pages.
+
+### y2v11 p.143 — Ch.5: The special points
+[scene] (p.143) The walk back; he is named.
+[note] (p.143) “Ryūen valued private points, but as announced beforehand, the private points available at this camp were special. They were limited to shopping.” — his mispriced card points.
+[mentioned] (p.143) Named in narration; not present on these pages.
+
+### y2v11 p.148 — Ch.6: The rooftop dispute
+[scene] (p.148) The morning training; he is named.
+[note] (p.148) “You had a dispute with Ryūen-kun on the rooftop, didn't you? It was that time, right?” — Ibuki's question; the rooftop dispute is public.
+[mentioned] (p.148) Named in dialogue; not present on these pages.
+
+### y2v11 p.172 — Ch.7: The human nature
+[scene] (p.168) The vending machine conversation; he is named.
+[note] (p.172) “Whether it was Yōsuke, Kei, Ryūen, Sakayanagi, or any other student, human nature was the same.” — the roll of ordinary hearts.
+[mentioned] (p.172) Named in narration; not present on these pages.
+
+### y2v11 p.186 — Ch.8: The comparison
+[scene] (p.185) The dawn arrival; she is named.
+[note] (p.186) “Then, if you had to date either Ryūen-kun or Ayanokōji-kun, who would you choose, Ibuki-san?” — Kushida's calculus; he is the control case.
+[mentioned] (p.186) Named in dialogue; not present on these pages.
+
+### y2v11 p.199–204 — Epilogue: The bet flashback
+[scene] (p.199) The flashback; he is the architect.
+[note] (p.199) “It was when Hashimoto came to my room asking for help shortly before the exchange meeting began.” — the flashback starts; he is the architect.
+[note] (p.199) “Regret? Is it because Ryūen himself is confident that he'll win?” — Kiyotaka's question in the flashback.
+[note] (p.200) “She was the type who, like Ryūen, believed in her ultimate victory without a doubt.” — his mirror.
+[note] (p.202) “She must've allowed Ryūen to accumulate private points.” — the terms.
+[note] (p.204) “If he helped defeat Sakayanagi in the end-of-year exam and took the credit, he'd gain that privilege from Ryūen.” — the 20M-point prize.
+[mentioned] (p.199–204) Named in dialogue; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->

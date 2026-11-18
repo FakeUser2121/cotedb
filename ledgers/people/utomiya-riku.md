@@ -119,11 +119,6 @@ char_id: utomiya-riku · class: Class 1-C · status: unknown
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — utomiya-riku mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.130-131, p.174; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.130–132 — Ch.5: The mediator nobody asked for
 [scene] (p.130) He catches the commotion; talks straight into Ryūen; the third-years gather.
 [says] (p.130) “Excuse me, but could you let go of your hand, Ryūen-senpai?”
@@ -139,6 +134,13 @@ char_id: utomiya-riku · class: Class 1-C · status: unknown
 [rel:housen-kazuomi] (p.131) He treats him like Ryūen; Hōsen erupts.
 
 <!-- walk: y2v11 ch5 → p.144 -->
+
+### y2v11 p.174 — Ch.7: The witness's account
+[scene] (p.173) Yamamura's account to Kiyotaka.
+[note] (p.174) “However, Tokitō's groupmates, Hōsen and Utomiya, joined in, and there was a risk of a brawl. It seemed that the situation was resolved when the number of students who heard the commotion suddenly increased all at once, and they dispersed.” — the witness's account of his joining.
+[mentioned] (p.174) Named as one of the groupmates who joined; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

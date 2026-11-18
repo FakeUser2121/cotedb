@@ -13,11 +13,6 @@ char_id: iki · class: unknown · status: unknown
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — iki mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.10, p.27, p.30-31, p.40, p.46-47, p.54; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.86–87 — Ch.3: Named for Sakayanagi's three losses
 [scene] (p.86) He is named as the third-year Class D leader of Sakayanagi's group; he is said to have generally poor academics (D+).
 [note] (p.87) Hashimoto questions why Sakayanagi would take command of an Iki-led group and then lose three times; Iki's election of competent members didn't save them.

@@ -847,11 +847,6 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — ishizaki-daichi mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.123-124, p.126-130, p.132, p.148; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.123–132 — Ch.5: The errand gone wrong
 [scene] (p.123) After dinner; he calls Tokitō with a can't-say-why summons; he walks into Ryūen's trap.
 [says] (p.123) “Don't you know what I want?”
@@ -873,3 +868,10 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [note] (p.123–132) The target of the trap is Tokitō; the roster holds two y2v11 Tokitōs and the pages never print his given name; see this volume's chapter pages for the full account.
 
 <!-- walk: y2v11 ch5 → p.144 -->
+
+### y2v11 p.148 — Ch.6: The Ishizaki pariah
+[scene] (p.148) The morning training; Ibuki snaps at him via her accusation.
+[note] (p.148) “It's fine to be frustrated, but don't announce your attack. You're doing the same thing as Ishizaki.” — Kiyotaka's comparison of her to him.
+[mentioned] (p.148) Named in dialogue; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->

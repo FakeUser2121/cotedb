@@ -1933,7 +1933,14 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — sudou-ken mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.185-186; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
+### y2v11 p.185 — Ch.8: The Sudō angle
+[scene] (p.185) The dawn arrival; the popularity talk.
+[note] (p.185) “At least Sudō has shown some interest, hasn't he?” — Horikita's line; he is the named rival.
+[mentioned] (p.185) Named in dialogue; not present on these pages.
+
+### y2v11 p.186 — Ch.8: The idiot line
+[scene] (p.185) The dawn arrival; the curry comparison.
+[note] (p.185) “At least Sudō has shown some interest, hasn't he?” — Horikita's line; he is the named rival.
+[mentioned] (p.186) Named in dialogue; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->

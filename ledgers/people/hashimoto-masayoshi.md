@@ -1074,7 +1074,112 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [note] (p.143–144) Sakayanagi 5–7; Ryūen 3–9; both out of first place; Hashimoto spirals over Sakayanagi's abrupt exit; he heads to an empty bathroom.
 [rel:ayanokouji-kiyotaka] (p.142–144) He fishes for Sakayanagi info; he unravels in front of him.
 
+
 <!-- walk: y2v11 ch5 → p.144 -->
+
+### y2v11 p.152 — Ch.6: The missing shogi player
+[scene] (p.152) The shogi lineup is announced; Morishita is missing; he checks inside while Kiyotaka checks outside.
+[note] (p.152) “Where the hell did Morishita go? It's her turn next...” — he says it at the lobby; he checks the dining hall side; Kiyotaka finds her outside in minutes.
+
+### y2v11 p.159–161 — Ch.6: The 17th match
+[scene] (p.159) The 17th match; he is named in the lineup: Hirata vs Hashimoto.
+[says] (p.159) “Katsuragi apparently practiced quite a bit yesterday, and he scored a maximum of 36 points. There's a chance you could lose if you face him.”
+[note] (p.159–161) He faces Hirata Yōsuke; the result is not narrated in these pages; Kiyotaka's 58 takes the match for their group; his group takes four of five.
+
+
+<!-- walk: y2v11 ch6 → p.167 -->
+
+### y2v11 p.168 — Ch.7: The boys are still awake
+[scene] (p.168) Past 11 p.m.; the room is still awake; the uncomfortable atmosphere is long gone; he is involved in the late-night chatter.
+[note] (p.168–169) “Eh? Hey, it's past lights-out, you know? If they find you, you'll get in trouble.” — speaker unattributed in the text; the lights are off; he stays behind as Kiyotaka slips out.
+
+<!-- walk: y2v11 ch7 → p.181 -->
+
+### y2v11 p.199–204 — Epilogue: The betrayal Hashimoto hides
+[scene] (p.199) Back to a few weeks earlier — his room visit to ask for help shortly before the exchange meeting began; the night before everything.
+[says] (p.199) “...Before I tell you what's next, there's something I really need to confirm with you.”
+[says] (p.199) “I've been tempted to betray Ryūen since before the previous special exam. Not just temporarily teaming up, but moving classes based on that premise.”
+[says] (p.199) “Of course, I didn't take such an invitation seriously at first. However, right after that, I heard from Ryūen that if I didn't move classes, I'd definitely regret it at the end of the school year.”
+[says:ayanokouji-kiyotaka] (p.200) “Regret? Is it because Ryūen himself is confident that he'll win?”
+[says] (p.200) “It seems that even you don't know about the content of the bet that Ryūen and Sakayanagi agreed on.”
+[says] (p.202) “It's not unreasonable to doubt the bet itself, right? No matter how you look at it, Sakayanagi is at a disadvantage.”
+[says] (p.202) “Both are possible, but the details of the bet will eventually come to light. Considering that, it must be the latter. She must've allowed Ryūen to accumulate private points.”
+[says] (p.202) “Who else knows about this bet besides you and the parties involved?”
+[says] (p.202) “Unless Ryūen was lying, no one. You're the fourth. Well, both would hate to lose the bet by having it leaked.”
+[says] (p.202) “It took a while... for this day to come.”
+[says] (p.202) “Whether Sakayanagi wins or Ryūen wins, honestly, I couldn't make a judgment... No, I was kinda thinking that Sakayanagi might win.”
+[says] (p.202) “But even then, it's like 55 to 45. Seriously, it's not decisive, is it?”
+[says] (p.202) “So I've been looking for a decisive factor, and what I thought that would be was—”
+[says:ayanokouji-kiyotaka] (p.203) “Me?”
+[says] (p.203) “If you were to follow Sakayanagi, I would've been ready to die with my current class without hesitation. That's why I advised Sakayanagi... to recruit you as an ally.”
+[says] (p.203) “I will make Ryūen win. No matter what the content of the end-of-year special exam is, I will thoroughly assist them. If I miss this opportunity, I will most likely be the one to disappear.”
+[says] (p.203) “If Sakayanagi had followed my instructions, whether that would be before or after I betrayed her in the previous special exam, I was planning to betray Ryūen and join her at the end of the year.”
+[says] (p.203) “You mean about recruiting you? Yes, of course. The answer was the same as Sakayanagi's, but there was a condition. If we could defeat Sakayanagi in the end-of-year exam, he would recruit the both of us to his class.”
+[says] (p.204) “What do you want from me?”
+[note] (p.199–204) The whole mechanism — the bet, the class move, the 20M-points safety net he claims Ryūen offered; Sakayanagi refused to recruit him; he betrays her anyway; he smiles nervously.
+[rel:ayanokouji-kiyotaka] (p.199–204) The night before; the full confession; the bet's 55–45 denial; the decisive factor is him.
+[rel:sakayanagi-arisu] (p.199–204) She refused his recruitment of him; that refusal explains everything.
+[rel:ryuuen-kakeru] (p.199–204) Hashimoto claims Ryūen would recruit both of them; the 40-million-price; the shallow lie; the 20M-points safety net.
+
+
+<!-- walk: y2v11 Epilogue → p.223 -->
+
+### y2v11 p.189–190 — Ch.8: The suspicion he can't shake
+[scene] (p.189) The bench scene; his name surfaces in the Sakayanagi exchange.
+[note] (p.189) “Hashimoto-kun and Morishita-san are in the same group. How is Hashimoto-kun doing?” — Sakayanagi asks about him; Kiyotaka shares nothing concrete.
+[note] (p.190) “It's not like Toyohashi and the other first-years have already been won over by Sakayanagi, right?” — his fear of Sakayanagi having spies in his group.
+[mentioned] (p.189–190) Named in dialogue; not present on these pages.
+
+### y2v11 p.60 — Ch.2: The convenience store he didn't see
+[scene] (p.60) Kiryūin reveals how the group was assembled.
+[note] (p.60) “When Hashimoto and Morishita stopped by the convenience store, they ran into Yamamura, and Kiryūin happened to be there at the same time.” — the deciding factor in choosing the same group.
+[mentioned] (p.60) Named in dialogue; not present on these pages.
+
+### y2v11 p.70–72 — Ch.2: The oshibana reference
+[scene] (p.70) The oshibana match; he watches on Nagumo's orders? no — on his own initiative.
+[note] (p.70) “Among them was Takahashi Osamu, a first-year Class A student from the Nagumo group.” — the spectators include Hashimoto.
+[note] (p.72) “Hashimoto made this list for me, which makes things easier. He's surprisingly useful.” — Kiryūin's verdict on his list.
+[mentioned] (p.70–72) Named in passing; not present in the match scene proper.
+
+### y2v11 p.110–112 — Ch.4: The sleepy princess
+[scene] (p.110) The Sakayanagi sofa scene; he is named twice.
+[note] (p.110) “Ayanokōji-kun, you're in the same group as Hashimoto-kun and Morishita-san.” — Sakayanagi's probe.
+[note] (p.110) “Hashimoto said you'd aim to win in any way.” — her read of his line.
+[note] (p.112) “that's right. I admit that I didn't mention Yamamura-san's name at that time.” — he is among the people named in the exchange.
+[mentioned] (p.110–112) Named in dialogue; not present on these pages.
+
+### y2v11 p.120–121 — Ch.5: The rest-area check-in
+[scene] (p.120) The rest area; Sanada asks about the group.
+[note] (p.120) “Hashimoto hasn't participated in any activities yet. He's in more of a support role.” — Kiyotaka's honest report.
+[note] (p.121) “It's largely because of how Sakayanagi-san sees it. Even I can tell that she treats you in a special way.” — Sanada's observation.
+[mentioned] (p.120–121) Named in dialogue; not present on these pages.
+
+### y2v11 p.132–134 — Ch.5: The Satō regret
+[scene] (p.133) The lobby; he is named only in the context of Ryūen's war.
+[note] (p.133) “It was right next to the seat where Sakayanagi was sitting this morning.” — Kiyotaka's position; Hashimoto is named in the same breath as the war he's not part of.
+[note] (p.134) “I'm going to the girls' room, so let's meet up there.” — his message to Kiyotaka; the girls' room invite.
+[mentioned] (p.132–134) Named in passing; not present in these pages' scenes.
+
+### y2v11 p.156–158 — Ch.6: The forest verdict
+[scene] (p.156) Morishita's forest scene; he is the subject of the inquiry.
+[note] (p.156) “What do you think about Hashimoto Masayoshi?” — Morishita's question to Kiyotaka.
+[note] (p.157) “I intend to respond to your honesty, but frankly, since I'm from another class, I don't think it's a problem that has anything to do with me.” — the answer she's waiting for.
+[note] (p.158) “The problem between Sakayanagi and Hashimoto was already set to end soon.” — Kiyotaka's certainty; the problem has an end date.
+[mentioned] (p.156–158) Named as the subject of the inquiry; not present on these pages.
+
+### y2v11 p.182 — Ch.8: The 1:30 a.m. message
+[scene] (p.182) The camp's final morning; his warning is cited.
+[note] (p.182) “For the past two days, I heard from Hashimoto-senpai that you've been getting up early in the morning.” — Tsubaki says it; he told her.
+[mentioned] (p.182) Named in dialogue; not present on these pages.
+
+### y2v11 p.205–218 — Epilogue–Short Stories
+[scene] (p.205) The career counseling room; his betrayal is the subject of the whole scene.
+[note] (p.205) “Even if you were to deceive Hashimoto-kun, you made him do something quite bold.” — the bet's existence named in dialogue.
+[note] (p.206) “Ayanokōji did something unnecessary too.” — Ryūen grasps the Ayanokōji–Hashimoto connection instantly.
+[note] (p.218) “I was keeping my eye on Ayanokōji Kiyotaka to track Hashimoto Masayoshi's movements, and by chance, we happened to be in the same group.” — Morishita's POV; he is the subject.
+[mentioned] (p.205–218) Named as the subject of two scenes and one short story; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

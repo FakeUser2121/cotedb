@@ -732,11 +732,6 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 p.11-223 — nagumo-miyabi mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.39, p.53-62, p.64-65, p.67-72, p.78, p.84; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.11) Passing mention only.
-
 ### y2v11 p.53–62 — Ch.2: The bet he sets before graduation
 [scene] (p.53) Rest Area, just before one; drooping of boredom with Asahina; beckons Kiyotaka over; Asahina muscles into the sofa next to him.
 [says] (p.53) “Need? Well, it's not much of a need, but I do have something to talk about.”
@@ -772,3 +767,175 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [rel:horikita-manabu] (p.54–57) Horikita Manabu's university choice drew Nagumo; the baton passed to Nagumo as president.
 
 <!-- walk: y2v11 ch2 → p.84 -->
+
+### y2v11 p.159–161 — Ch.6: The leader's silent table
+[scene] (p.159) The 17th match; he attends as the leader; he says not a word; his bet comes due to watch him from afar.
+[note] (p.159–161) His group wins four of five; his record stands at 18–1; the card-game loss is his only loss.
+
+### y2v11 p.162–164 — Ch.6: The empty rest area
+[scene] (p.162) After the final 19th game; just the two of them in the rest area; the bet's terms settle; the money is transferred; he offers the university.
+[says] (p.162) “Allowing me to lose up to two times was what caused your defeat, wasn't it?”
+[says] (p.162) “Indeed, I'd like to say so.”
+[says] (p.163) “That's irrelevant. Even if I tried to pick up a win by buying my opponent's defeat, if you were serious, you'd buy it back. You could've also tried preventing it in advance. You have control over all the third-years, so you should be good at that kind of thing.”
+[says] (p.164) “When I decide to win, I strive towards it without mercy. It's only natural.”
+[says] (p.164) “I have no intention of belittling your victory. I've transferred the money. Check it.”
+[says] (p.164) “If you want, come to the same university. I'll make your boring personality a little better.”
+[note] (p.162–164) He pays without a written receipt; he says he has several million yen just in his personal pocket; he pats Kiyotaka's right shoulder as he passes.
+[rel:ayanokouji-kiyotaka] (p.162–164) The bet settles; the money moves; the invitation is offered and left on the table.
+
+### y2v11 p.165–167 — Ch.6: The message to carry
+[scene] (p.165) Just after the games end; he is stopped at the exit with one last request: a message to pass to Horikita-senpai.
+[says] (p.165) “Huh? A message? To Horikita-senpai?”
+[says] (p.167) “I'll go a step ahead and start the second phase at Horikita-senpai's place.”
+[note] (p.166–167) “That's a strange message.” — he doesn't laugh it off; he is asked to carry one line: feel free to join, if it suits the other party; the decision is up to the addressee.
+[note] (p.167) He says it is a gift from the exchange meeting, a farewell; the message is entrusted to him unfinished; the same Horikita-senpai at his side.
+
+
+<!-- walk: y2v11 ch6 → p.167 -->
+
+### y2v11 p.177–181 — Ch.7: The cafeteria at 1 a.m.
+[scene] (p.177) Past 11 p.m. the previous day; long past lights-out; he walks down the darkened hallway alone; Amasawa is waiting in the darkened cafeteria.
+[says:amasawa-ichika] (p.177) “You came as promised.”
+[says] (p.177) “I've never refused a woman's call before,”
+[says:amasawa-ichika] (p.177) “Yawn, what a cheesy line. Honestly, I hate your type.”
+[says] (p.177) “Relax. I'm not into women like you either.”
+[says:amasawa-ichika] (p.177) “So, there was no need to threaten me. That might've been an unnecessary move.”
+[says] (p.177) “Amasawa, did you really want to be alone with me that much?”
+[says:amasawa-ichika] (p.177) “Opportunities to be alone with a former student council president don't come around often, do they?”
+[says] (p.177) “I want to confirm something. What would you have done if I hadn't come?”
+[says:amasawa-ichika] (p.177) “I would've beaten up your precious Asahina-senpai, Nagumo-senpai.”
+[says] (p.178) “Did you show your skills in archery with Ayanokōji to make your threats more effective?”
+[says:amasawa-ichika] (p.178) “Well, yeah. If I don't show that I'm capable, people might dismiss a woman's threats.”
+[says] (p.178) “Okay, let's get to the point. So, why did you threaten me to call me out?”
+[says:amasawa-ichika] (p.178) “There's a problem that only you can solve, Nagumo-senpai. That's what I want to talk about.”
+[says] (p.178) “You had plenty of chances to talk during the exchange meeting.”
+[says:amasawa-ichika] (p.178) “By the way, I'm thinking of seriously injuring you, Nagumo-senpai.”
+[says] (p.178) “Seriously injuring me? That's quite sudden.”
+[says:amasawa-ichika] (p.178) “Is it too unrealistic? Or do you think you can't lose to a girl?”
+[says] (p.178) “I wonder. Maybe it's both.”
+[says:amasawa-ichika] (p.178) “Will you run away?”
+[says] (p.178) “Can I at least hear the reason?”
+[says:amasawa-ichika] (p.178) “The reason? Hmm, let's just say it's a personal vendetta.”
+[says] (p.178) “Personal vendetta, huh?”
+[says:amasawa-ichika] (p.178) “Yes, a personal vendetta. Now, if we take too long, the teachers might find us, and it would be embarrassing if the fact that you were beaten by a girl got out, so can we start?”
+[says] (p.178) “Just to confirm, do you really think you can beat me?”
+[says:amasawa-ichika] (p.178) “Haha, I've been waiting for you to say that. Let's give it a try.”
+[says] (p.178) “It's easy to say, but there's nothing in it for me. It would be a problem if I retaliated against a girl who came at me out of personal vendetta.”
+[says:amasawa-ichika] (p.178) “It's pointless to resist anyway, you can just let me beat you up. That way, you'll lose your pride, but you won't get penalized by the school. I recommend it.”
+[says] (p.178) “Aren't you afraid of being expelled?”
+[says:amasawa-ichika] (p.179) “Of course not. If I get expelled, I have nothing to lose.”
+[says] (p.179) “So, persuasion is impossible?”
+[says:amasawa-ichika] (p.179) “Yes, I have no 'value.' In other words, I'm invincible.”
+[says] (p.179) “Did you get cautious because of the recording? Go ahead and answer without holding back. State the reasons behind this so-called personal vendetta.”
+[says:amasawa-ichika] (p.179) “You teamed up with Ayanokōji-senpai and expelled Yagami Takuya, right? It's payback.”
+[says] (p.179) “Yagami? Don't tell me, you were Yagami's girlfriend?”
+[says:amasawa-ichika] (p.179) “That's not it, but we were like siblings who had surpassed that kind of relationship.”
+[says] (p.179) “Then aren't you targeting the wrong person? I wasn't the one who led that.”
+[says:amasawa-ichika] (p.179) “I know that. I told you, this is just a personal vendetta. Unfortunately, even if I stand on my head, I can't beat Ayanokōji-senpai, and I thought about beating up Karuizawa-senpai and expelling her, but that's a bit scary.”
+[says] (p.179) “Scary? Of getting revenge from Ayanokōji? I don't think he cares about what happens to Karuizawa.”
+[says:amasawa-ichika] (p.179) “Ayanokōji-senpai has his own goals. I don't want to interfere with that.”
+[says:amasawa-ichika] (p.179) “People like Nagumo-senpai are well-suited for stories where the character ultimately faces their downfall at the conclusion.”
+[says] (p.180) “It suits me, huh?”
+[says:amasawa-ichika] (p.179) “Last year and the year before, the one always causing a stir at this school was Horikita Manabu.”
+[says:amasawa-ichika] (p.179) “I'm sure it'll be the same next year after I'm gone.”
+[says:amasawa-ichika] (p.179) “I was indeed enrolled at this school for three years.”
+[says:amasawa-ichika] (p.180) “There's nothing more empty than that.”
+[says:amasawa-ichika] (p.180) “I realized it just before graduation. It's not Horikita-senpai or Ayanokōji that's to blame. It's me who couldn't reach that realm.”
+[says] (p.180) “But… that's not the case. I wouldn't have been satisfied with that situation either.”
+[says] (p.180) “That's why I won't quit this game. Next year I'll do it again with Horikita-senpai. And someday I'll have a real match with Ayanokōji and settle it.”
+[says] (p.180) “Before you put anything into action, I have a gift for you.”
+[says:amasawa-ichika] (p.180) “A gift? I'm the type to throw away presents from men I'm not interested in without opening them.”
+[says] (p.180) “I see. Then it might end with you throwing it away without opening it. After all, it's just a message from Ayanokōji.”
+[says:amasawa-ichika] (p.180) “...Ayanokōji-senpai...?”
+[says] (p.180) “If it's a lie to save yourself, it will only widen the wound.”
+[says] (p.181) “Believe my words or not, it's up to you. The message from Ayanokōji is 'You still have value. Don't waste it.'”
+[says] (p.181) “Is this just a coincidence? The message seems to have foreseen even the fact that you would despairingly declare yourself someone without 'value.'”
+[says] (p.181) “I'm tired, so I'm going back first. You should return to your room before you catch a cold.”
+[note] (p.181) The message from Ayanokōji arrives in exactly the moment of her declaration that she has no 'value'; the exchange ends with him walking out and her left standing still.
+[rel:amasawa-ichika] (p.177–181) The 1 a.m. summons; her planned vengeance for Yagami's expulsion; the message that foresees her and strips the threat of meaning.
+
+
+
+
+<!-- walk: y2v11 ch7 → p.181 -->
+
+### y2v11 p.182 — Ch.8: The message from 1:30 a.m.
+[scene] (p.182) The 4th day morning; the single message from him in the middle of the night — “I won't say thank you.”
+[note] (p.182) The message came in at 1:30 in the morning; it closes the bet's aftermath; the school trip ends Sunday.
+[mentioned] (p.182) Named in the one message received; not present on these pages.
+
+
+<!-- walk: y2v11 ch8 → p.193 -->
+
+### y2v11 p.39 — Ch.2: The stacked group reveal
+[scene] (p.39) The bus ride; the printout lists him.
+[note] (p.39) “Um... Chabashira-sensei. May I ask a question?” — the Sonoda question; Nagumo's group is the example.
+[note] (p.39) “Wow, it's true. Isn't Nagumo-senpai's group quite dangerous?” — Ike's line; the stacked group is public knowledge.
+[mentioned] (p.39) Named in dialogue; not present on these pages.
+
+### y2v11 p.67–72 — Ch.2: The hands and feet
+[scene] (p.67) The Telling Hashimoto scene; he is named.
+[note] (p.67) “Even if it's an informal exchange meeting, it's still selfish. It’s an act that disrupts the group's dynamic.” — Hashimoto's objection; Nagumo is the unseen hand.
+[note] (p.68) “Kiryūin-senpai is amazing, isn't she? Maybe she already knows about us?” — his stack's architecture; he built it.
+[note] (p.70) “Among them was Takahashi Osamu, a first-year Class A student from the Nagumo group.” — his group's reach.
+[note] (p.71) “Takahashi was following all the games, probably because Nagumo had instructed him to confirm the results.” — his eyes in the oshibana room.
+[note] (p.72) “Even the great Nagumo couldn't foresee or determine whether Horikita and the others could make good oshibana.” — his one blind spot.
+[mentioned] (p.67–72) Named in dialogue; not present on these pages.
+
+### y2v11 p.78 — Ch.2: The bet's price
+[scene] (p.74) The Kōenji dog park; he is named.
+[note] (p.78) “It could waste time and potentially affect my bet with Nagumo.” — his bet hangs over Kiyotaka's head.
+[mentioned] (p.78) Named in narration; not present on these pages.
+
+### y2v11 p.84 — Ch.2: The first day closes
+[scene] (p.84) The first day closes 5–0; he is not in it.
+[note] (p.84) “Overall, it was a good first day.” — Kiyotaka's verdict; Nagumo's group is undefeated.
+[note] (p.84) “Including the oshibana, Takahashi was following all the games, probably because Nagumo had instructed him to confirm the results.” — his orders in the hall.
+[mentioned] (p.84) Named in narration; not present on these pages.
+
+### y2v11 p.86–92 — Ch.3: The first-place contender
+[scene] (p.86) The shared room; his group's standings.
+[note] (p.86) “Nagumo-senpai's group is a first-place contender, aren't they?” — Oda's verdict; his group wins all five.
+[note] (p.87) “If we don't take action, there's a high chance of that happening.” — Kiyotaka's read; his group is the problem to solve.
+[note] (p.92) “It was common knowledge that Nagumo's group had been undefeated and was in first place with five consecutive wins since the first day.” — the standings at the start of day 2.
+[mentioned] (p.86–92) Named in dialogue; not present on these pages.
+
+### y2v11 p.98 — Ch.3: The stacked class
+[scene] (p.96) The Tatebayashi corridor; he is named.
+[note] (p.98) “Nagumo-senpai and the other senpais took most of the good students, so they didn't have much leeway.” — Hashimoto's read of his group's luck.
+[mentioned] (p.98) Named in dialogue; not present on these pages.
+
+### y2v11 p.115–116 — Ch.5: The determined winner
+[scene] (p.114) The second day; the sculpture match; he is named.
+[note] (p.115) “Nagumo is determined to win, and his members are serious, so he won't hold back.” — Kushida's verdict; his determination is public.
+[note] (p.116) “If you ask with a certain amount of money and sincerity, there should be plenty of room for negotiation, right?” — Kiyotaka's counter-scenario.
+[mentioned] (p.115–116) Named in dialogue; not present on these pages.
+
+### y2v11 p.133 — Ch.5: The concentration of wins
+[scene] (p.133) The lobby; the standings.
+[note] (p.133) “The difference between the third-place group and Satō's group was three wins. Quite a significant amount.” — his group is the benchmark.
+[note] (p.133) “The wins were concentrated in groups like the Nagumo group, who were taking it seriously.” — the league's center of gravity.
+[mentioned] (p.133) Named in narration; not present on these pages.
+
+### y2v11 p.135 — Ch.5: The blonde senpai
+[scene] (p.135) Kiyotaka borrows a deck of cards.
+[note] (p.135) “Huh? Could it be Nagumo?” — Kiyotaka wonders if the blonde senpai was Nagumo.
+[note] (p.135) “That man also does such cliché things.” — Kiryūin's verdict on him.
+[mentioned] (p.135) Named in dialogue; not present on these pages.
+
+### y2v11 p.145 — Ch.6: The battle looming
+[scene] (p.145) The third day; the exchange meeting ends.
+[note] (p.145) “The exchange meeting was nearing its end, and a battle with Nagumo's group was looming” — the countdown to the final match.
+[mentioned] (p.145) Named in narration; not present on these pages.
+
+### y2v11 p.151 — Ch.6: The happy Nagumo
+[scene] (p.150) The morning training; she reports Nagumo's reaction.
+[note] (p.151) “Nagumo-senpai was really happy. He sarcastically said it was a disappointing end to a winning streak, losing at cards, of all things.” — his verdict on the loss.
+[mentioned] (p.151) Named in dialogue; not present on these pages.
+
+### y2v11 p.221 — Postscript
+[scene] (p.221) The translator's afterword; she is named as missing.
+[note] (p.221) “or the lack of detail surrounding Kiyo and Nagumo's match.” — the translator's complaint; his match is named.
+[mentioned] (p.221) Named in the afterword; not present on these pages.
+
+<!-- walk: y2v11 Coverage gate → p.223 -->
