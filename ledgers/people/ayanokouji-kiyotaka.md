@@ -6069,7 +6069,7 @@ walk: y1v1 → DONE
 [scene] (p.139–141) Named in passing — “But even though she doesn’t say it, she must feel the same as me.”
 [scene] (p.209–217) Named in passing — “The content of the message is only known to Hashimoto.”; “Because this is a message from Ayanokōji-kun. That’s all there is to it.”
 [scene] (p.226–227) Named in passing — translators’ credits — “Kiyotaka really put the work on everyone this volume”; “Eff Ayano x Hori”.
-[mentioned] (p.87, 119–141, 209–227) Passing mention only; his scene entries are recorded separately in his own ledger.
+[mentioned] (p.87, 119–141, 209–227) Passing mention only; his scene entries are recorded separately in his own sections.
 
 <!-- walk: y2v12 coverage → p.228 -->
 ## y2v12.5

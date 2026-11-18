@@ -485,7 +485,7 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [scene] (p.135) Named in passing — “Although she wasn’t clear on the details, Hirata, who’d been defeated earlier, was probably no exception.”
 [scene] (p.139) Named in passing — “so he tried to do his best as the middle guard, but you took the initiative, and his hopes faded.”
 [scene] (p.146) Named in passing — “Do you think there’s any chance of winning?” — the outcome proof that Horikita was no match for Ichinose; Kanzaki's despair as confirmation.
-[mentioned] (p.30, 84, 132–133, 135, 139, 146) Passing mention only; his scene entries are recorded separately in his own ledger.
+[mentioned] (p.30, 84, 132–133, 135, 139, 146) Passing mention only; his scene entries are recorded separately in his own sections.
 
 <!-- walk: y2v12 coverage → p.228 -->
 ## y2v12.5

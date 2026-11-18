@@ -171,7 +171,7 @@ char_id: maezono · class: Class 1-D · status: minor
 ### y2v12 p.169–170 — Mentioned in passing
 [scene] (p.169) Named in passing — “I could take that material away. By helping you, my credibility inevitably increased.”
 [scene] (p.170) Named in passing — “Even the matter of Maezono’s expulsion now seemed like a distant past, almost obscured.”
-[mentioned] (p.169–170) Passing mention only; her expulsion is recorded in full in other ledgers — this section covers only the direct references.
+[mentioned] (p.169–170) Passing mention only; her expulsion is recorded in full in her own entry — this section covers only the direct references.
 
 <!-- walk: y2v12 coverage → p.228 -->
 ## y2v12.5

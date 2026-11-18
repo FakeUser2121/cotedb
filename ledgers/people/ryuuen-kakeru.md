@@ -1880,7 +1880,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [scene] (p.162, 168) Named in passing — a name in the interrogation room; the rivalries in the mailbox rumors.
 [scene] (p.208–211, 214–217) Named in passing — his name appears in every instruction inside the interrogation room; he is expelled.
 [scene] (p.224, 227) Named in passing — he landed in the short story; translators’ credits mention the character.
-[mentioned] (p.13–227) Passing mention only; his scene entries are recorded separately in his own ledger.
+[mentioned] (p.13–227) Passing mention only; his scene entries are recorded separately in his own sections.
 
 <!-- walk: y2v12 coverage → p.228 -->
 ## y2v12.5

@@ -1037,7 +1037,7 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [scene] (p.122–124, 147–148) Named in passing — her rematch referenced in the Class B rooms; her keyword on every side.
 [scene] (p.162, 168–170) Named in passing — her classmate, her trust; the letter in the mailbox.
 [scene] (p.201–207, 222–224) Named in passing — the interrogation room; the message; the SS.
-[mentioned] (p.13–227) Passing mention only; her scene entries are recorded separately in her own ledger.
+[mentioned] (p.13–227) Passing mention only; her scene entries are recorded separately in her own sections.
 
 <!-- walk: y2v12 coverage → p.228 -->
 ## y2v12.5

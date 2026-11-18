@@ -157,6 +157,6 @@
 ### y2v12 p.117, 131 — Mentioned in passing
 [scene] (p.117) Named in passing — “It wouldn’t pan out like it did with Sanada or Kitō. Katsuragi resolved himself for that.”
 [scene] (p.131) Named in passing — “student like Sanada could never substitute for this role.”
-[mentioned] (p.117, 131) Passing mention only; his scene entries are recorded separately in his own ledger.
+[mentioned] (p.117, 131) Passing mention only; his scene entries are recorded separately in his own sections.
 
 <!-- walk: y2v12 coverage → p.228 -->

@@ -1702,7 +1702,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [scene] (p.101) Named in passing — “AS THE BATTLE BETWEEN Hirata and Hamaguchi was about to begin”
 [scene] (p.119) Named in passing — “Hirata’s defensive approach led to his defeat”; “much like Hirata or Hamaguchi.”
 [scene] (p.135) Named in passing — “although she wasn’t clear on the details, Hirata, who’d been defeated earlier, was probably no exception.”
-[mentioned] (p.30–31, 69, 84, 101, 119, 135) Passing mention only; his scene entries are recorded separately in his own ledger.
+[mentioned] (p.30–31, 69, 84, 101, 119, 135) Passing mention only; his scene entries are recorded separately in his own sections.
 
 <!-- walk: y2v12 coverage → p.228 -->
 ## y2v12.5

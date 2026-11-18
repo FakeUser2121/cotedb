@@ -1572,7 +1572,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [scene] (p.65, 82–86) Named in passing — “Ichinose's Class D, there were Hamaguchi and Kanzaki”; “...It’s inevitable that our classes will clash.”
 [scene] (p.99, 122–128) Named in passing — “Ichinose must’ve trusted Kanzaki and entrusted him with the middle guard position.”
 [scene] (p.146–151) Named in passing — “Horikita lost to Ichinose.”; “Ichinose must have been tough... No, she might be in a completely different league.”
-[mentioned] (p.13–151) Passing mention only; her scene entries are recorded separately in her own ledger.
+[mentioned] (p.13–151) Passing mention only; her scene entries are recorded separately in her own sections.
 
 <!-- walk: y2v12 coverage → p.228 -->
 ## y2v12.5

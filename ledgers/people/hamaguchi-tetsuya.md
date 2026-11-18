@@ -130,7 +130,7 @@ char_id: hamaguchi-tetsuya · class: Class 1-B · status: minor
 [scene] (p.119) Named in passing — “Having defeated Hamaguchi without a scratch, Horikita was now waiting in her chair for their middle guard, Kanzaki.”
 [scene] (p.132–135) Named in passing — Horikita's recall during Ichinose's approach: the three battles, Hamaguchi among them.
 [scene] (p.146) Named in passing — “Even if Yōsuke had defeated Hamaguchi and Kanzaki, the outcome would’ve likely been similar.”
-[mentioned] (p.30, 99–101, 119, 132–135, 146) Passing mention only; his scenes are recorded separately in his own ledger.
+[mentioned] (p.30, 99–101, 119, 132–135, 146) Passing mention only; his scenes are recorded separately in his own sections.
 
 <!-- walk: y2v12 coverage → p.228 -->
 ## y2v12.5

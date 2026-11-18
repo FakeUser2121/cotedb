@@ -275,7 +275,7 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 ### y2v12 p.80, 83 — Mentioned in passing
 [scene] (p.80) Named in passing — “I walked towards Horikita with Yōsuke under Mashima-sensei’s instructions.”
 [scene] (p.83) Named in passing — “All that was left was to sit in any available seat and wait for the signal to start the special exam...” — Mashima collects the tablets.
-[mentioned] (p.80, 83) Passing mention only; his scene entries are recorded separately in his own ledger.
+[mentioned] (p.80, 83) Passing mention only; his scene entries are recorded separately in his own sections.
 
 <!-- walk: y2v12 coverage → p.228 -->
 ## y2v12.5

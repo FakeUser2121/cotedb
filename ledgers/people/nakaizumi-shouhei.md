@@ -36,6 +36,6 @@ char_id: nakaizumi-shouhei · class: unknown · status: unknown
 
 ### y2v12 p.179 — Mentioned in passing
 [scene] (p.179) Named in passing — “testimony. And it was Tamiya and Nakaizumi who pointed out those glances. It’s quite possible that one of these sides could very well be the pair of honor students.”
-[mentioned] (p.179) Passing mention only; his scene entries are recorded separately in his own ledger.
+[mentioned] (p.179) Passing mention only; his scene entries are recorded separately in his own sections.
 
 <!-- walk: y2v12 coverage → p.228 -->

@@ -128,7 +128,7 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 
 ### y2v12 p.66 — Named in passing
 [scene] (p.66) Named in passing — “Therefore, we could afford to have students like Kushida and Matsushita as substitutes, but Ryūen’s class was different.”
-[mentioned] (p.66) Passing mention only; her scene entries are recorded separately in her own ledger.
+[mentioned] (p.66) Passing mention only; her scene entries are recorded separately in her own sections.
 
 <!-- walk: y2v12 coverage → p.228 -->
 ## y2v12.5

@@ -42,7 +42,7 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 [scene] (p.59) Named in passing — “confidants like Kamuro, Hashimoto, and Kitō” — her old trust circle named by Sakayanagi.
 [scene] (p.60) Named in passing — “This change began with Kamuro and Yamamura, significantly influenced by that recent incident.”
 [scene] (p.216) Named in passing — “Maybe it's okay to win this special exam and bring Hashimoto back into the fold.”
-[mentioned] (p.47, 59–60, 216) Passing mention only; her scene entries are recorded separately in her own ledger.
+[mentioned] (p.47, 59–60, 216) Passing mention only; her scene entries are recorded separately in her own sections.
 
 <!-- walk: y2v12 coverage → p.228 -->
 ## y2v12.5

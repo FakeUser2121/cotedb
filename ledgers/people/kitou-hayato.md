@@ -311,7 +311,7 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 [scene] (p.105) Named in passing — “Then defeat Kitō, who was waiting for his turn, next.”
 [scene] (p.117) Named in passing — “Bitterly muttering, Kitō turned his back on Katsuragi and opened the door somewhat roughly.”
 [scene] (p.130–131) Named in passing — “Was it because Kitō-kun, entrusted as the middle guard, was defeated and lashed out at you in frustration?”
-[mentioned] (p.59, 105, 117, 130–131) Passing mention only; his scene entries are recorded separately in his own ledger.
+[mentioned] (p.59, 105, 117, 130–131) Passing mention only; his scene entries are recorded separately in his own sections.
 
 <!-- walk: y2v12 coverage → p.228 -->
 ## y3v1

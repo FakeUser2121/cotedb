@@ -354,7 +354,7 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [scene] (p.66) Named in passing — “I thought Shiina-san would be chosen from the girls’ slots, but she’s missing?”
 [scene] (p.194) Named in passing — “Then let’s at least make Shimizu apologize.” — Kondō's complaint; Shiina answered it; she became the honor student and was dismissed.
 [scene] (p.227) Named in passing — translators’ credits — “Every main heroines’ stock = plummeted. Long live Hiyori Shiina!”
-[mentioned] (p.66, 194, 227) Passing mention only; her scene entries are recorded separately in her own ledger.
+[mentioned] (p.66, 194, 227) Passing mention only; her scene entries are recorded separately in her own sections.
 
 <!-- walk: y2v12 coverage → p.228 -->
 ## y2v12.5

@@ -1121,6 +1121,6 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [scene] (p.173–174) Named in passing — “Hashimoto-kun, who could’ve been used as a spy or a back-stabber” (Sakayanagi on the exam's purges); Hashimoto's group excluded exactly as she planned.
 [scene] (p.201–204) Named in passing — “I dunno. All I know for sure is that Hashimoto has that message.”; “the odds of Sakayanagi employing Hashimoto’s group were highly unlikely.”
 [scene] (p.206–207) Named in passing — “The content of the message is only known to Hashimoto.”
-[mentioned] (p.59–60, 162, 165–166, 173–174, 201–204, 206–207) Passing mention only; his scene entries are recorded separately in his own ledger.
+[mentioned] (p.59–60, 162, 165–166, 173–174, 201–204, 206–207) Passing mention only; his scene entries are recorded separately in his own sections.
 
 <!-- walk: y2v12 coverage → p.228 -->

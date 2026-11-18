@@ -3763,7 +3763,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [scene] (p.162) Named in passing — “From Hashimoto’s perspective, if he had to choose whether Horikita’s class should win or lose, he would naturally prefer them to lose.”
 [scene] (p.165) Named in passing — “At the very least, Horikita must’ve conveyed it as a very important piece of information.”
 [scene] (p.167–171) Named in passing — “It wasn’t hard to imagine how Horikita’s and Ichinose’s class representatives had been fighting up to this point.”; “Horikita perceived Ichinose’s overwhelming ability to observe her classmates as truly formidable.”; “They competed and Horikita was subsequently defeated.”; “Horikita’s class had secured a major victory.”
-[mentioned] (p.13–171) Passing mention only; her scene entries are recorded separately in her own ledger.
+[mentioned] (p.13–171) Passing mention only; her scene entries are recorded separately in her own sections.
 
 <!-- walk: y2v12 coverage → p.228 -->
 ## y2v12.5

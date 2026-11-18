@@ -100,6 +100,6 @@ char_id: tokitou-hiroya · class: unknown · status: unknown
 ### y2v12 p.193–196 — Mentioned in passing
 [scene] (p.193–194) Named in passing — in the third round Shimizu challenges Tokitō again; this time, Tokitō shows no irritation; he could not betray Shiina’s expectations — a resolve that was evident even through the screen.
 [scene] (p.195–196) Named in passing — “Ryuen had been conducting himself calmly up until this point, fighting with vigor that he received from Tokitō.”
-[mentioned] (p.193–196) Passing mention only; his scene entries are recorded separately in his own ledger.
+[mentioned] (p.193–196) Passing mention only; his scene entries are recorded separately in his own sections.
 
 <!-- walk: y2v12 coverage → p.228 -->
