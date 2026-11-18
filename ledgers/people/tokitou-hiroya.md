@@ -43,6 +43,20 @@ char_id: tokitou-hiroya · class: unknown · status: unknown
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.94–95 — Sakayanagi slips; Tokitō helps her up
+[scene] (p.94) Walking slightly behind, he sees Sakayanagi slip and fall on her buttocks; the snow cushions her; he rushes up without hesitation; he offers his hand; he lifts her gently and slowly, though he could haul her up easily.
+[says] (p.94) “Are you okay...?”
+[says] (p.94) “Don't push yourself. You have a bad leg...”
+[says] (p.94) “So there's no problem...?”
+[says] (p.94) “Nothing, it's... It's..., I mean, I'm glad it didn't turn out to be a big deal.”
+[says] (p.94) “Eh? Me? ...No, I don't know.”
+[says] (p.94) “Hey, how do you even know me?”
+[scene] (p.95) He lets her board the bus first; they're second-year rivals; neither has reason to pretend warmth exists; the distance between them is visibly easing anyway.
+[trait] (p.94–95) Stern face, considerate hands; embarrassed under attention; first-time proximity to a class leader and Class A's pride.
+[rel:sakayanagi-arisu] (p.94–95) He helps her up; she remembers his name and he doesn't know how she knows him.
+
+<!-- walk: y2v8 Ch.3 → p.129 -->
+
 ### y2v8 p.11-208 — tokitou-hiroya mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.52, p.94-95.

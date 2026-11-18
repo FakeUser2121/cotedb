@@ -125,6 +125,19 @@ char_id: nishino-takeko · class: Class 1-C · status: minor
 
 <!-- walk: y2v8 Ch.2 → p.89 -->
 
+### y2v8 p.92–117 — Snowman, wandering, the Gifu ambush
+[scene] (p.92–93) She joins the snowman without protest (easier than expected); she exhales into her gloves.
+[scene] (p.97–98) She wanders the closed shops with Watanabe; neither shops, both watch the crowd.
+[scene] (p.103–104) She takes the beginner course with Yamamura; she won't admit she can't handle the advanced hill.
+[scene] (p.114–117) She's grabbed by a boy from Gifu; she slaps him across the face; Ryūen and Kitō rescue the pair and wreck his mates; she and Yamamura shelter together.
+[says] (p.115) “Huh? I'm not interested. Who would play with you guys?”
+[rel:yamamura-miki] (p.114–117) She shields her in the ambush — grabs her shoulders to keep her away from the boys.
+[rel:kitou-hayato] (p.114–117) He fights for her and Yamamura without being asked; she measures him with flat eyes.
+[rel:ryuuen-kakeru] (p.114–117) He saves her; she hasn't forgiven him anything; she hasn't forgiven anyone either.
+[rel:amikura-mako] (p.92) Snowman partner.
+
+<!-- walk: y2v8 Ch.3 → p.129 -->
+
 ### y2v8 p.11-208 — nishino-takeko mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.46-47, p.50, p.55, p.79-81, p.83.

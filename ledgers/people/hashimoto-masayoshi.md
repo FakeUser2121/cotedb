@@ -854,6 +854,24 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.118–119 — The bath: Kōenji's horse wake and Ayanokōji's one-move recipe
+[scene] (p.118–119) After skiing, he joins the big public bath to decompress; Hashimoto (Class A) slides in next to Ayanokōji; he unloads about Kōenji's ranch rampage; the class has to wait it out because riding on would violate the rules.
+[says] (p.118) “Well... I've been really tired today.”
+[says] (p.118) “Nothing happened, I've just been worrying about a problem child in my group.”
+[says] (p.118) “Correct. Free activities are supposed to be all hands on deck, right?”
+[says] (p.118) “Why would you ask that? Is it any wonder if you saw the commotion he caused?”
+[says] (p.119) “We were planning on having lunch at a famous TV restaurant before noon, but that guy Kōenji said he was going skiing.”
+[says] (p.119) “What is it? Let me hear it.”
+[says] (p.119) “Well, that's about all that's left, isn't it?”
+[says] (p.119) “I'll do that, and we'll consider it seriously.”
+[trait] (p.118–119) Shouldered the Kōenji disaster all morning; seeks tactical advice when shaken; accepts the one quiet escape move Ayanokōji offers.
+[rel:kouenji-rokusuke] (p.118–119) His trouble child — the man who rode the ranch and the ski resort while staff chased on horseback.
+[rel:sudou-ken] (p.118–119) Bath companion; both agree Kōenji is beyond reasoning.
+[rel:ayanokouji-kiyotaka] (p.119) Ayanokōji offers him the exact one-move recipe for freeing the group; he takes it under advisement.
+[rel:sakayanagi-arisu] (p.118–119) Her classmate; she's a bad-legs girl on the sightseeing side.
+
+<!-- walk: y2v8 Ch.3 → p.129 -->
+
 ### y2v8 p.11-208 — hashimoto-masayoshi mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.105, p.109, p.118-119.

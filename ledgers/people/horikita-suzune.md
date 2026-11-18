@@ -4633,6 +4633,38 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v8 Ch.2 → p.89 -->
 
+### y2v8 p.120–125 — The confession on the corridor deck (Ayanokōji's POV)
+[scene] (p.120–121) Sudō works up his nerve in the bath; calls her; she answers on the first ring; both walk back toward the lobby; the corridor leads to the backyard's wooden deck; Ayanokōji follows at a distance and plants himself in the blind spot.
+[scene] (p.121–123) The confession unfolds: Sudō stutters his case; she helps him talk (“Are you still worried about what people think of you?”); he seizes the moment and blurts it out (“I love you! Please go out with me!”); she freezes; the silence stretches.
+[says] (p.122) “What's wrong?”
+[says] (p.122) “Are you still worried about what people think of you?”
+[says] (p.123) “E-eh...?”
+[says] (p.123) “Hey... Is that seriously...?”
+[says] (p.123) “I have never once thought that I would be the one to receive a confession from someone.”
+[says] (p.124) “You're not being fair, Sudō-kun. I have to deduct points for you asking him to observe.” — no wait, p.128–129. Keep in next section.
+[scene] (p.124–125) She answers honestly and quietly: no feelings, never has, "I thought... there might be a chance that I could fall in love with you over time. But... I decided I don't want that kind of inducement."; she thanks him and gently grabs his trembling hand ("I certainly received your feelings. Thank you for liking me.").
+[says] (p.124) “Sudō-kun. Thank you for liking someone like me.”
+[says] (p.124) “I've never been in love with another person before.”
+[says] (p.124) “I certainly received your feelings. Thank you for liking me.”
+[rel:sudou-ken] (p.120–125) She answers kindly and firmly; she doesn't make a fool of him.
+[rel:ayanokouji-kiyotaka] (p.120–125) She knows he's there the whole time; she doesn't look (mostly).
+
+### y2v8 p.126–129 — She catches him watching; tomorrow night it is
+[scene] (p.126–129) After the confession and a corridor near-miss, Horikita waits by the guest room; she accuses him of spectating the confession ("You saw it, didn't you?"); half-points deduction; she corners him about Karuizawa-san ("so it's Karuizawa-san, is it?"); he owes her a talk tomorrow night ("I'll forgive you if you can promise to lend me your ear").
+[says] (p.128) “I was waiting for you.”
+[says] (p.128) “You're mean as well, Ayanokōji-kun. You saw it, didn't you?”
+[says] (p.128) “You're thinking of trying to avoid being seen next time, aren't you?”
+[says] (p.128) “You're not being fair, Sudō-kun.” (calls him Sudō-kun — translation keeps it as printed)
+[says] (p.129) “Yes.” (she came all the way for him)
+[says] (p.129) “I see, so it's Karuizawa-san, is it?”
+[says] (p.129) “Tomorrow night then. I'll forgive you if you can promise to lend me your ear at that time.”
+[note] (p.128) The translation has her call him "Sudō-kun" while addressing Ayanokōji — kept as printed; almost certainly "Ayanokōji-kun" in the original intent, not assignable from these pages.
+[rel:ayanokouji-kiyotaka] (p.126–129) She names his snooping aloud; she wins a promise of tomorrow night's attention; she also flushes Karuizawa as her prime suspect.
+[rel:sudou-ken] (p.128–129) She jokes about deducting points for his observer; she doesn't blame him genuinely.
+[rel:karuizawa-kei] (p.129) She names her as the "different person" applying pressure to him; the Karuizawa-san reading is hers to make aloud.
+
+<!-- walk: y2v8 Ch.3 → p.129 -->
+
 ## y2v9
 
 <!-- walk: y2v9 → start -->

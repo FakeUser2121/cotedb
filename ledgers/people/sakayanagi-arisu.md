@@ -1297,6 +1297,25 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v8 Ch.1 → p.45 -->
 
+### y2v8 p.93–95, 108–114 — The slip; Ryūen's all-out war
+[scene] (p.93) It's snowing; she speaks from the fourth-group cluster (Hondō and Onodera from Horikita's class); her voice is familiar; she's probably headed for the sightseeing spots while others ski.
+[says] (p.93) “It's snowing all over, isn't it?”
+[scene] (p.94) Walking with her cane on the unfamiliar snow she slips and goes down; Tokitō (Class C, same group) rushes up; he extends his hand; she takes it (shyly); he picks her up carefully and slowly; he board-checks her "you have a bad leg" question.
+[says] (p.94) “Thank you, Tokitō-kun.”
+[says] (p.94) “I'm sorry. Fortunately the snow was soft and it didn't hurt.”
+[says] (p.94) “Thank you for your help.”
+[says] (p.94) “I thought Tokitō-kun was a much scarier person.”
+[says] (p.94) “Because you usually seem to walk with a scary look plastered on your face when we pass each other in the hallway.”
+[says] (p.94) “Because we are both second-year students. I know Tokitō-kun very well.”
+[scene] (p.95) She boards the city-center bus slowly; he lets her board first; she walks off with her cane to the sightseeing loops; Ryūen tracks her departure with great interest from afar.
+[mentioned] (p.108–114) Ayanokōji relays Ryūen's all-out-war declaration: "Sakayanagi seems to know that very well" — the trip is a reconnaissance battle; she uses her minions to gather information; Kamuro and Hashimoto cover her limited mobility; Ryūen means to crush her by any means necessary in the end-of-year exam.
+[rel:tokitou-hiroya] (p.94–95) Their meeting ends with her boarding first and a small shift in how Tokitō sees her.
+[rel:kitou-hayato] (p.113–114) Her "loyal dog" gets called out at the food court; he defends her honor without hesitation.
+[rel:ryuuen-kakeru] (p.108–114) He declares war on her in public terms; he plans to rip off their limbs (her information network's enablers) before the exam.
+[rel:kamuro-masumi] (p.108–109) Ayanokōji notes Kamuro and Hashimoto help compensate her limited mobility — the info pipeline she depends on.
+
+<!-- walk: y2v8 Ch.3 → p.129 -->
+
 ### y2v8 p.180–184 — Sakayanagi and Kanzaki confer on Ishigami; she phones him
 [scene] (p.180) Ayanokōji asks how they know each other; Sakayanagi explains a parental connection through well-known families, then says she wants to know more about Ishigami-kun, the only first-year student at the school with that surname.
 [scene] (p.182) She presses Kanzaki on whether Ishigami is excellent and speculates he enrolled to check Ayanokōji's ability.

@@ -108,6 +108,20 @@ char_id: amikura-mako · class: Class 1-B · status: minor (allies)
 
 <!-- walk: y2v8 Ch.2 → p.89 -->
 
+### y2v8 p.92–104 — The snowman girl; the quiet climb
+[scene] (p.92) The bus runs late; she proposes building a snowman to pass the time; she's the spark for the morning's only wholesome event.
+[says] (p.92) “Hey, hey, since it's a special occasion, why don't we all build a snowman?”
+[scene] (p.97) She's the first to rally the group to browse the shops (most are closed); she walks ahead; she doesn't notice Yamamura's absence.
+[says] (p.97) “Let's all go browse more shops.”
+[scene] (p.103–104) She signs up for the beginner course despite being able to ski normally — she will not leave Yamamura behind; she volunteers to support her openly.
+[says] (p.103) “Oh, that's okay, Kushida-san. I'll do it in the beginner's area.”
+[rel:nishino-takeko] (p.103) They skied the same slow line together.
+[rel:yamamura-miki] (p.103–104) She protects her without making it weird.
+[rel:kushida-kikyou] (p.103–104) They agree without words.
+[rel:watanabe-norihito] (p.92) Snowman co-conspirator.
+
+<!-- walk: y2v8 Ch.3 → p.129 -->
+
 ### y2v8 p.11-208 — amikura-mako mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.46-47, p.49-50, p.67, p.79, p.83.

@@ -129,6 +129,11 @@ char_id: onodera-kayano · status: minor
 
 <!-- walk: y2v8 Ch.1 → p.45 -->
 
+### y2v8 p.93 — Sakayanagi's group: Onodera
+[mentioned] (p.93) Group 4 (Sakayanagi's sightseeing group) includes Onodera from Horikita's class ("She should be with Hondō and Onodera from Horikita's class.") — Class 2-B, like the Onodera Sudō has feelings for.
+
+<!-- walk: y2v8 Ch.3 → p.129 -->
+
 ### y2v8 p.11-208 — onodera-kayano mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.40-42, p.93, p.128, p.169.

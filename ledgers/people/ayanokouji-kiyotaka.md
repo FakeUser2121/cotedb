@@ -9487,6 +9487,36 @@ walk: y1v1 → DONE
 [rel:sakayanagi-arisu] (p.109–112) They discuss how to defeat her — Ryūen wants to "crush her by any means necessary" in the end-of-year exam.
 [rel:kushida-kikyou] (p.110) She texted him, worried about being summoned by Ryūen.
 
+### y2v8 p.114–119 — The Gifu eruption; Hashimoto in the bath
+[scene] (p.113–117) Nishino and Yamamura don't return from tray-drop; Kushida finds them surrounded by five Gifu boys; Ayanokōji orders the group to hold; Ryūen and Kitō handle the five personally (the two girls are unharmed); the group returns having subdued them; Kushida: "Never a dull moment, huh?"
+[says:kushida-kikyou] (p.117) “Never a dull moment, huh?”
+[scene] (p.118–119) After dinner, Sudō invites him to the big public bath; Hashimoto (Class A) joins mid-soak, defeated by Kōenji's horseback rampage at the ranch; Sudō proposes to sidestep it; Ayanokōji gives him the one cold-hard option that could free their group.
+[says:hashimoto-masayoshi] (p.118) “Well, there's Kōenji.”
+[says:hashimoto-masayoshi] (p.118) “Correct. Free activities are supposed to be all hands on deck, right?”
+[rel:ryuuen-kakeru] (p.114–117) He handles the Gifu boys with relish; Yamamura and Nishino owe him their safe exit.
+[rel:nishino-takeko] (p.114–117) She slaps away the boy's arm grab; she survives the skirmish unharmed.
+[rel:yamamura-miki] (p.114–117) She bears the "female ghost" insult silently; Ryūen does the protecting she never asked for.
+[rel:hashimoto-masayoshi] (p.118–119) He gets Ayanokōji's lawful evasion recipe; he's going to sleep on it.
+[rel:sudou-ken] (p.118–119) Sauna partners; sweat and dread.
+
+### y2v8 p.120–129 — The confession; Kei's angry texts; Horikita corners him
+[scene] (p.120–121) Sudō steels himself in the men's bath ("I'm... Ready for this, Ayanokōji."); he calls Horikita; she answers instantly; both walk toward the lobby's quiet backyard corridor; Ayanokōji trails at a distance.
+[scene] (p.122–125) He waits in the blind spot; the confession happens anyway — Sudō blurts his feelings, hands her his outstretched palm; Horikita freezes; she finally declines, kindly ("I have never once thought that I would be the one to receive a confession from someone."); she grabs his trembling hand at the end ("I certainly received your feelings. Thank you for liking me.").
+[scene] (p.126–127) Souvenir section; translation of Nanase's "chocolate-coated fries" mystery; Kei's wall of angry messages ("[Where are you?]" through "Cheater!"); he answers every one; he denies there's anything between him and Kushida; he calms her down.
+[says:karuizawa-kei] (p.126) “Where are you?”
+[says:karuizawa-kei] (p.127) “Really? Then let's go have fun!”
+[scene] (p.127–128) He hunts for Sudō; finds him collapsed against the wall ("I knew I couldn't do it...!"); Sudō reframes: he won't bite back; he still loves her; he'll just study ("My immediate goal is to get to Hirata's level.").
+[scene] (p.128–129) Horikita waits by the guest room; accuses him of spying on the confession ("You saw it, didn't you?"); half-joking points deduction; she demands tomorrow's ear; Karuizawa-san is named as her suspect.
+[says:horikita-suzune] (p.128) “You saw it, didn't you?”
+[says:horikita-suzune] (p.129) “I see, so it's Karuizawa-san, is it?”
+[says:horikita-suzune] (p.129) “Tomorrow night then. I'll forgive you if you can promise to lend me your ear at that time.”
+[rel:sudou-ken] (p.120–128) He watches the confession from afar as promised; Sudō is flattened but unbroken.
+[rel:horikita-suzune] (p.128–129) She corners him and wins — he owes her tomorrow night's attention.
+[rel:karuizawa-kei] (p.126–127) He navigates her jealousy and calms her; she references the eleventh group she must infiltrate for him.
+[rel:nanase-tsubasa] (p.126) Her souvenir wish — "chocolate-coated fries" — is on his list for tomorrow.
+
+<!-- walk: y2v8 Ch.3 → p.129 -->
+
 ### y2v8 p.130–139 — Sapporo sightseeing: the group's 20-point challenge
 [scene] (p.130) Day 3: Sapporo sightseeing; groups must visit 6 of 15 spots (score by location, 20+ points = 30,000 private points), with a photo at each.
 [trait] (p.131–139) The sixth group debates sightseeing vs points; Ryūen (bound to his 800M goal) and Kitō (rebellious) refuse the majority's choice to tour; Ayanokōji deliberately steers Kitō (giving him "the ball") so Ryūen backs down — convincing the group to enjoy sightseeing while keeping the option open (they'd get private points another way) — "a meaningful and satisfying" outcome; notes proximity to Kushida drew attention (Ryūen noticed).

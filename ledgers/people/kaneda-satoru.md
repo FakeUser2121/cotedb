@@ -308,6 +308,11 @@ aliases used for anchors: kaneda, kaneda satoru, kaneda-kun
 
 <!-- walk: y2v8 Ch.2 → p.89 -->
 
+### y2v8 p.111 — Year-1 errand: get the word out to Kaneda
+[mentioned] (p.111) Ryūen says of his year-1 arrangement: "And you were only supposed to be in charge of getting the word out to Kaneda and Hiyori. But now you're back on the stage."
+
+<!-- walk: y2v8 Ch.3 → p.129 -->
+
 ### y2v8 p.11-208 — kaneda-satoru mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.63, p.111.

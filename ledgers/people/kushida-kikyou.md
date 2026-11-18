@@ -1856,6 +1856,25 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y2v8 Ch.1 → p.45 -->
 
+### y2v8 p.92–117 — Snowman; browsing; the lift signal; the 800M whisper; Gifu
+[scene] (p.92–93) She invites Ryūen to join the snowman build as pure payback; he ignores her; she rubs her gloved hands for warmth; Sakayanagi arrives, slips and falls; the city bus takes her sightseeing.
+[says] (p.92) “Hey, Ryūen-kun, why don't you come over here and make a snowman with us? I think it would be fun.”
+[scene] (p.97–103) She browses the closed shops; she accepts Amikura's detour; she takes the lift with Ayanokōji; she asks to be told the split for the advanced course with Kitō vs Ryūen; she watches Ayanokōji ski like a hero in a comic book.
+[says] (p.97) “Ummm… it's cold in Hokkaido this morning, isn't it? It was warmer in the bus, so I can feel the temperature difference even more.”
+[says] (p.105) “Both of you, be careful.” (the countdown command)
+[says] (p.105) “Start!”
+[says] (p.106) “The three of you are too fast, or rather, Ayanokōji-kun was quite abnormal...!”
+[says] (p.107) “It's no wonder he's so angry, I mean, you were skiing spectacularly. It was like the hero of a comic book who does everything perfectly with his talent, even if he doesn't work hard.”
+[scene] (p.108–112) Soup curry benchmark; she nudges about Yamamura; Ryūen summons Ayanokōji mid-lunch; she texts Ayanokōji about Yamamura's approach; she tries to spot the reconnaissance battle forming in the cafeteria.
+[says] (p.109) “Yamamura-san is on her way to you.” (her warning text)
+[scene] (p.114–117) She finds Nishino and Yamamura surrounded by five Gifu boys; she reports; she holds the table per Ayanokōji's instruction; she watches Ryūen and Kitō handle the cleanup; final dry line: "Never a dull moment, huh?"
+[says] (p.117) “Never a dull moment, huh?”
+[rel:ryuuen-kakeru] (p.92–117) She baits him at the snowman every chance she gets; he declines to fight back; jury's out.
+[rel:yamamura-miki] (p.97–117) She checks on the invisible girl twice.
+[rel:kitou-hayato] (p.105) She counts down his race; he wins nothing.
+
+<!-- walk: y2v8 Ch.3 → p.129 -->
+
 ### y2v8 p.11-208 — kushida-kikyou mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.12, p.46-47, p.49-50, p.52, p.55-64.

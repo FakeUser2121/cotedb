@@ -92,6 +92,22 @@ char_id: watanabe-norihito · class: unknown · status: unknown
 
 <!-- walk: y2v8 Ch.2 → p.89 -->
 
+### y2v8 p.90–114 — Morning TV, snowman, food-court guard duty
+[scene] (p.90) Morning TV; he whispers that Kitō reads like a murder manual; he gets glared down for it; he hides behind Ayanokōji.
+[says] (p.90) “It's so disturbing to see that he's just reading a book and it looks so menacing… It's like he's reading a murder manual.”
+[scene] (p.92–97) Traffic-jam morning; he shivers under the roof; he browses the closed shops; he comments on Kitō's footprints.
+[says] (p.92) “It's cold, but I guess we have no choice but to wait outside.”
+[says] (p.97) “By the way, Kitō's feet are so big. They look like a snowman's footprint, man.”
+[scene] (p.103–104) Begins the beginner course with Yamamura; humble but proud of improvement.
+[scene] (p.108–114) Ryūen pushes his tray at him; Ayanokōji gets summoned mid-meal; he keeps an eye on the table; he waits with Kushida per instructions.
+[says] (p.113) “... Are you okay? Did you get hit or anything?”
+[rel:kushida-kikyou] (p.114) They wait together per Ayanokōji's order — he's the nervous lookout.
+[rel:kitou-hayato] (p.97) Feet worship; someday he might be invited to be normal around him.
+[rel:ryuuen-kakeru] (p.108) He gets handed Ryūen's tray again; no complaints.
+[rel:ayanokouji-kiyotaka] (p.90–114) He follows Ayanokōji's example of poise under fire.
+
+<!-- walk: y2v8 Ch.3 → p.129 -->
+
 ### y2v8 p.11-208 — watanabe-norihito mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.46-47, p.49-51, p.56, p.65-70, p.78-84.

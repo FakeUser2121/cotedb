@@ -1100,6 +1100,11 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v8 Ch.2 → p.89 -->
 
+### y2v8 p.110 — Ryūen suspects her of knowing the 800 million plan
+[mentioned] (p.110) "The only person in Ryūen's class who knew about the strategy to accumulate 800 million points must be Ibuki. Even Ibuki probably only learned about it by accident and didn't know the specifics."
+
+<!-- walk: y2v8 Ch.3 → p.129 -->
+
 ### y2v8 p.11-208 — ibuki-mio mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.72-74, p.110, p.163-165, p.169, p.171-172.

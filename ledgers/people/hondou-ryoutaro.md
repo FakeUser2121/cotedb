@@ -143,6 +143,11 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 
 <!-- walk: y2v8 Ch.1 → p.45 -->
 
+### y2v8 p.93 — Sakayanagi's group: Hondō from Horikita's class
+[mentioned] (p.93) Ayanokōji infers Sakayanagi is sightseeing with Hondō and Onodera from Horikita's class — Group 4 (if the one-boy-one-girl-per-class reading is right, Hondō + Onodera fill the Class B slots).
+
+<!-- walk: y2v8 Ch.3 → p.129 -->
+
 ### y2v8 p.11-208 — hondou-ryoutaro mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.13, p.15, p.18-19, p.93.

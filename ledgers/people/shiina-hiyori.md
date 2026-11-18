@@ -581,6 +581,14 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.111–112 — Year-1 errand mention; the wave from a distant seat
+[mentioned] (p.111) Ryūen names "Kaneda and Hiyori" as the pair he was tasked to spread word to back in year 1 ("But now you're back on the stage").
+[scene] (p.112) Hiyori watches Ryūen and Ayanokōji from a somewhat distant seat at the resort cafeteria; she notices them and waves; Ayanokōji waves back; her group apparently came to ski too.
+[rel:ryuuen-kakeru] (p.111) His year-1 contact point — the word-out pair he was meant to activate.
+[rel:ayanokouji-kiyotaka] (p.112) She waves to him from across the food court.
+
+<!-- walk: y2v8 Ch.3 → p.129 -->
+
 ### y2v8 p.11-208 — shiina-hiyori mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: none.
