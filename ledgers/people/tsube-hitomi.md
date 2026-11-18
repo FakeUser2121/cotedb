@@ -25,9 +25,12 @@ char_id: tsube-hitomi · class: unknown · status: unknown
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 pp.5-284 — Full volume
+### y2v4 p.116–119 — Tsube mentioned in passing
+[scene] (p.116) Named in the context of the group discussion.
+[scene] (p.118–119) Named in the context of the Hōsen confrontation.
+[note] (p.116–119) Passing mentions; not a distinct scene presence.
+[mentioned] (p.116–119) Passing mention only.
 
-[scene] (p.5) Appears in this volume.
+<!-- walk: y2v4 Ch.4 → p.119 -->
 
 
-<!-- walk: y2v4 Epilogue → p.284 -->

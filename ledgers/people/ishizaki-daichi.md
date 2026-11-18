@@ -698,12 +698,16 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 pp.5-284 — Full volume
+### y2v4 p.116–125 — Ishizaki in the Hōsen confrontation
+[scene] (p.116) Named in the context of the group discussion.
+[scene] (p.118–119) Named in the context of the Hōsen confrontation.
+[scene] (p.123–125) Named in the context of the battle.
+[note] (p.116–125) Passing mentions; Ishizaki is present in these scenes.
+[mentioned] (p.116–125) Passing mention only.
 
-[scene] (p.5) Appears in this volume.
+<!-- walk: y2v4 Ch.4 → p.125 -->
 
 
-<!-- walk: y2v4 Epilogue → p.284 -->
 
 ## y2v4.5
 

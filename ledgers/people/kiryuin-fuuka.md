@@ -37,12 +37,7 @@ char_id: kiryuin-fuuka · class: unknown · status: unknown
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 pp.5-284 — Full volume
 
-[scene] (p.5) Appears in this volume.
-
-
-<!-- walk: y2v4 Epilogue → p.284 -->
 
 ### y2v4 p.261–273 — Kiryūin intervenes at I2
 [scene] (p.261) Appears during the 2-on-1 fight — had watched from behind a tree, deliberately broke her watch so her GPS wouldn't show her approach.

@@ -602,12 +602,16 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 pp.5-284 — Full volume
+### y2v4 p.10–37 — Nagumo mentioned in passing
+[scene] (p.10) Named in the context of the exam.
+[scene] (p.35–36) Named in the context of the student council.
+[scene] (p.40) Named in the context of Tsukishiro's actions.
+[note] (p.10–37) Passing mentions; not a distinct scene presence.
+[mentioned] (p.10–37) Passing mention only.
 
-[scene] (p.5) Appears in this volume.
+<!-- walk: y2v4 Ch.1 → p.37 -->
 
 
-<!-- walk: y2v4 Epilogue → p.284 -->
 
 ## y2v4.5
 

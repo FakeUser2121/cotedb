@@ -291,12 +291,7 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 pp.5-284 — Full volume
 
-[scene] (p.5) Appears in this volume.
-
-
-<!-- walk: y2v4 Epilogue → p.284 -->
 
 ### y2v4 p.252–272 — Tsukishiro's final trap at I2; his defeat
 [scene] (p.252) Waits at I2's tip with Shiba for Ayanokōji — the final trap to "bury" him where there's no watch signal.

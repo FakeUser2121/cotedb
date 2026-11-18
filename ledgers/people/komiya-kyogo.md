@@ -165,12 +165,17 @@ char_id: komiya-kyogo · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 pp.5-284 — Full volume
+### y2v4 p.10–23 — Komiya mentioned in passing
+[scene] (p.10) Named in the context of the exam.
+[scene] (p.13–14) Named in the context of the exam.
+[scene] (p.21) Named in the context of the exam.
+[scene] (p.23) Named in the context of the exam.
+[note] (p.10–23) Passing mentions; not a distinct scene presence.
+[mentioned] (p.10–23) Passing mention only.
 
-[scene] (p.5) Appears in this volume.
+<!-- walk: y2v4 Ch.1 → p.23 -->
 
 
-<!-- walk: y2v4 Epilogue → p.284 -->
 
 ## y2v4.5
 

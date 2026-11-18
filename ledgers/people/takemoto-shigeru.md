@@ -47,9 +47,13 @@ char_id: takemoto-shigeru · class: Class 1-A · status: minor (allies)
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 pp.5-284 — Full volume
+### y2v4 p.87–94, 160–164 — Takemoto mentioned in passing
+[scene] (p.87–94) Named in the context of the exam.
+[scene] (p.160–161) Named in the context of the exam.
+[scene] (p.164) Named in the context of the exam.
+[note] (p.87–94, 160–164) Passing mentions; not a distinct scene presence.
+[mentioned] (p.87–94, 160–164) Passing mention only.
 
-[scene] (p.5) Appears in this volume.
+<!-- walk: y2v4 Ch.4 → p.164 -->
 
 
-<!-- walk: y2v4 Epilogue → p.284 -->

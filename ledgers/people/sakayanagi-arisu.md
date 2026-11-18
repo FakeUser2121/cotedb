@@ -966,12 +966,7 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 pp.5-284 — Full volume
 
-[scene] (p.5) Appears in this volume.
-
-
-<!-- walk: y2v4 Epilogue → p.284 -->
 
 ### y2v4 p.276–278 — Sakayanagi's promise; 3rd place
 [says] (p.277) "Of course, Ryuuen-kun. Please tell me when the time comes."

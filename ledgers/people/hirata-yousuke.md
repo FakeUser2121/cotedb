@@ -1822,12 +1822,14 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 pp.5-284 — Full volume
+### y2v4 p.278 — Hirata mentioned in passing
+[scene] (p.278) Named in the context of the exam results.
+[note] (p.278) Passing mention; not a distinct scene presence.
+[mentioned] (p.278) Passing mention only.
 
-[scene] (p.5) Appears in this volume.
+<!-- walk: y2v4 Epilogue → p.278 -->
 
 
-<!-- walk: y2v4 Epilogue → p.284 -->
 
 ## y2v4.5
 

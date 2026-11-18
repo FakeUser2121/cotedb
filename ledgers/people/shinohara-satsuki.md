@@ -351,12 +351,17 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 pp.5-284 — Full volume
+### y2v4 p.10–59 — Shinohara mentioned in passing
+[scene] (p.10) Named in the context of the exam.
+[scene] (p.13–14) Named in the context of the exam.
+[scene] (p.56–57) Named in the context of the exam.
+[scene] (p.59) Named in the context of the exam.
+[note] (p.10–59) Passing mentions; not a distinct scene presence.
+[mentioned] (p.10–59) Passing mention only.
 
-[scene] (p.5) Appears in this volume.
+<!-- walk: y2v4 Ch.3 → p.59 -->
 
 
-<!-- walk: y2v4 Epilogue → p.284 -->
 
 ## y2v4.5
 

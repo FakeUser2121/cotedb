@@ -1772,12 +1772,15 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 pp.5-284 — Full volume
+### y2v4 p.227, 236 — Kushida mentioned in passing
+[scene] (p.227) Named in the context of the exam.
+[scene] (p.236) Named in the context of the exam.
+[note] (p.227, 236) Passing mentions; not a distinct scene presence.
+[mentioned] (p.227, 236) Passing mention only.
 
-[scene] (p.5) Appears in this volume.
+<!-- walk: y2v4 Ch.6 → p.236 -->
 
 
-<!-- walk: y2v4 Epilogue → p.284 -->
 
 ## y2v4.5
 

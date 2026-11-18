@@ -1102,12 +1102,17 @@ aliases used for anchors: sakura, airi, sakura-san
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 pp.5-284 — Full volume
+### y2v4 p.160, 167, 186, 262 — Sakura mentioned in passing
+[scene] (p.160) Named in the context of the exam.
+[scene] (p.167) Named in the context of the exam.
+[scene] (p.186) Named in the context of the exam.
+[scene] (p.262) Named in the context of the exam.
+[note] (p.160, 167, 186, 262) Passing mentions; not a distinct scene presence.
+[mentioned] (p.160, 167, 186, 262) Passing mention only.
 
-[scene] (p.5) Appears in this volume.
+<!-- walk: y2v4 Ch.6 → p.262 -->
 
 
-<!-- walk: y2v4 Epilogue → p.284 -->
 
 ## y2v4.5
 

@@ -1009,12 +1009,7 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 pp.5-284 — Full volume
 
-[scene] (p.5) Appears in this volume.
-
-
-<!-- walk: y2v4 Epilogue → p.284 -->
 
 ### y2v4 p.67–78 — Ibuki alone and dehydrated; trades with Ayanokōji
 [scene] (p.67) Encountered alone, eating homemade jerky (Class 2-B's jerky strategy) — exhausted, dark circles, out of water for over a day.

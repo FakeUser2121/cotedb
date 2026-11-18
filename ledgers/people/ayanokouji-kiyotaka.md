@@ -8089,12 +8089,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 pp.5-284 — Full volume
 
-[scene] (p.5) Appears in this volume.
-
-
-<!-- walk: y2v4 Epilogue → p.284 -->
 
 ### y2v4 p.5–7 — Prologue note (Amasawa's monologue — her own page)
 [note] (p.5) The prologue is Amasawa Ichika's own monologue (an IVF/"test-tube" baby raised in the White Room) — recorded on her own page, not attributed here.

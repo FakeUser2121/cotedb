@@ -46,12 +46,14 @@ char_id: tsukasaki-taiga · class: Class 2-A · status: minor
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 pp.5-284 — Full volume
+### y2v4 p.160 — Tsukasaki mentioned in passing
+[scene] (p.160) Named in the context of the exam.
+[note] (p.160) Passing mention; not a distinct scene presence.
+[mentioned] (p.160) Passing mention only.
 
-[scene] (p.5) Appears in this volume.
+<!-- walk: y2v4 Ch.5 → p.160 -->
 
 
-<!-- walk: y2v4 Epilogue → p.284 -->
 
 ## y2v4.5
 

@@ -2104,12 +2104,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 pp.5-284 — Full volume
 
-[scene] (p.5) Appears in this volume.
-
-
-<!-- walk: y2v4 Epilogue → p.284 -->
 
 ### y2v4 p.168–183 — Ryūen stops Hōsen; retires with him
 [scene] (p.168) Intercepts Hōsen as he moves to attack Ayanokōji, having agreed to help after Ayanokōji explained the threat.
