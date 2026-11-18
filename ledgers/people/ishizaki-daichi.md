@@ -823,11 +823,12 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y2v10.25 → start -->
 
-### y2v10.25 p.1-10 — ishizaki-daichi mentioned in passing
-[scene] (p.1) Named in this volume.
-[note] (p.1) Passing mentions on pages: p.4.
-[mentioned] (p.1) Passing mention only.
+### y2v10.25 p.4–5 — SS: mentioned in the misdirected-message rumor
+[scene] (p.4–5) Named as the boy the message was meant for: the text "I want to calm down and talk. Can we meet in person?" had been sent to him; he innocently marched into Honami-chan's class and displayed it, demanding to know what it meant.
+[note] (p.4–5) Never on-page in this story; present only in the retelling; not shown.
+[mentioned] (p.4) Passing mention only.
 
+<!-- walk: y2v10.25 Epilogue → p.5 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

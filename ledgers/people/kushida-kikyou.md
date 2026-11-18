@@ -1927,11 +1927,18 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y2v9.75 → start -->
 
-### y2v9.75 p.1-17 — kushida-kikyou mentioned in passing
-[scene] (p.1) Named in this volume.
-[note] (p.1) Passing mentions on pages: p.4-7, p.17.
-[mentioned] (p.1) Passing mention only.
+### y2v9.75 p.4–8 — Kushida: supermarkets and ready-made food
+[scene] (p.4) Greets Ayanokōji; spots Horikita heading to the supermarket; jokingly enlists her in a trio shopping trip; they shop through the aisles until Horikita catches Ibuki.
+[scene] (p.5–6) Stalks behind Ibuki and peeks in her basket (instant ramen, sweet bread, yakisoba); Ibuki lunges at her; she escapes; sings the contents aloud; she walks over to Ibuki; says she has an unhealthy diet; steals a glance at her chest.
+[scene] (p.7–8) Pokes at Horikita's offer; asks if she may join; ends up at Horikita's room for launch.
+[says] (p.4) "Good morning, Ayanokōji-kun. Happy New Year."
+[says] (p.4) "It doesn't particularly matter, but I thought it might be fun to go shopping with two classmates who happened to be together."
+[says] (p.6) "Instant ramen, instant yakisoba, sweet bread, and processed foods. Lovely shopping you've done there."
+[says] (p.7) "Then maybe I should have you make lunch for me too, Horikita-san."
+[rel:horikita-suzune] (p.4–8) Shares the same goal of cleaning up Ibuki's diet.
+[rel:ibuki-mio] (p.5–8) Silently inspects her diet; apologizes to the audience, smiles.
 
+<!-- walk: y2v9.75 Epilogue → p.8 -->
 
 
 

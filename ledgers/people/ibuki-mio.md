@@ -1093,13 +1093,16 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v9.75 → start -->
 
-### y2v9.75 p.1-17 — ibuki-mio mentioned in passing
-[scene] (p.1) Named in this volume.
-[note] (p.1) Passing mentions on pages: p.5-7, p.17.
-[mentioned] (p.1) Passing mention only.
+### y2v9.75 p.5–8 — Ibuki: her basket and Horikita's ambush
+[scene] (p.5–6) Hides in the ready-made food corner, staring at her phone, when the three spot her; feels Horikita's gaze; stashes the basket behind her back; teases about private points; admits she shops for a similar diet every winter break; tells Kushida she knows peace; Ibuki bites back awkwardly.
+[scene] (p.6–7) Kushida stalks behind her and peeks at instant ramen and sweet bread; she swings the basket at her; Horikita grabs the rim and takes out the ready-made food herself; calls her diet "shockingly unhealthy" and offers a lunch invitation; her budget is strained; accepts.
+[scene] (p.8) The four go to Horikita's room; she ends up in a culinary ambush; "extremely difficult and tumultuous."
+[says] (p.6) "H-hey, stop peeking in there!"
+[says] (p.7) "Who would go to your room! Besides, I don't feel like eating!"
+[rel:horikita-suzune] (p.6–8) She goes to her room for lunch; bushes become alliance.
+[rel:kushida-kikyou] (p.5–8) Gets on her nerves; laughs a lot; she refuses to admit being pleased.
 
-<!-- walk: y2v9.75 Epilogue → p.17 -->
-
+<!-- walk: y2v9.75 Epilogue → p.8 -->
 ## y2v10
 
 <!-- walk: y2v10 → start -->

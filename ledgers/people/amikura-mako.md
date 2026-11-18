@@ -146,17 +146,17 @@ char_id: amikura-mako · class: Class 1-B · status: minor (allies)
 
 <!-- walk: y2v10.25 → start -->
 
-### y2v10.25 p.1-10 — amikura-mako mentioned in passing
-[scene] (p.1) Named in this volume.
-[note] (p.1) Passing mentions on pages: p.1-3, p.5, p.7-9.
-[mentioned] (p.1) Passing mention only.
+### y2v10.25 p.1–9 — SS: From That Time On…
+[scene] (p.1–2) Arrives at the gym with Ichinose; they join Ayanokōji; Amikura comments on his tapioca answer; Amikura's Ichinose is called aside by the gym staff; they wait together.
+[scene] (p.3–8) Alone with him: recounts how the girls knew who Honami-chan meant to send the misdirected message to; the boys misread the alphabet (“a” and “i” adjacent in Gojuuon); Ishizaki came to the class and asked what the message meant; Honami-chan froze; nobody knew she'd rather have died than tell; they saved her.
+[scene] (p.8–9) Expresses the wish that he doesn't hurt her; the conversation is hard, but she says it with certainty.
+[says] (p.3) "Honami-chan's really changed, huh? It's like, unimaginable from a few months ago…"
+[says] (p.8) "I'm telling you this because… I don't want you to make Honami-chan sad or hurt her."
+[says] (p.8) "It's tough for Honami-chan, falling for a guy who has a girlfriend."
+[rel:ichinose-honami] (p.3–8) Her best friend; watched her fall apart; stayed.
+[rel:ayanokouji-kiyotaka] (p.3–8) Warns him; tests whether he understands.
 
-
-
-
-
-<!-- walk: y2v12 Epilogue → p.228 -->
-
+<!-- walk: y2v10.25 Epilogue → p.9 -->
 ## y3v1
 
 <!-- walk: y3v1 → start -->
