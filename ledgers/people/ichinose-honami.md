@@ -1758,6 +1758,17 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v5 Epilogue → p.243 -->
 
+### y2v5 p.127–138 — Ichinose's class: Kanzaki's one-vote revolt
+[scene] (p.127) Class B reaches Q5 early; the class expects a smooth unanimous "against," but Kanzaki cast the single "for" vote intentionally.
+[says:kanzaki-ryuuji] (p.128) "I don't think there's anything to discuss for the time being, and we'll just wait until the next vote-"
+[says:kanzaki-ryuuji] (p.128) "I can only believe that everyone is suffering from normality bias if they don't think it's abnormal that 39 opposing votes were gathered without any hesitation or doubt."
+[says:ichinose-honami] (p.131) "we're not going to change our minds, okay? We definitely don't want to be in a class where we blame our friends for sacrificing themselves to gain class points."
+[says:kanzaki-ryuuji] (p.134) "You can choose to agree with me and then expel me."
+[says:kanzaki-ryuuji] (p.134) "I've made up my mind. I won't let this be unanimous."
+[trait] (p.127–138) Refuses to simply protect friends — argues the class is "on the edge of a cliff," suffering "normality bias" (assuming no one would prioritize points over classmates); recognizes Ichinose's flaw: her kindness mass-produces followers who refuse to see the dirty things in the world. When nobody will support sacrificing someone, he offers himself as the one to be expelled to force the class to confront the choice — then finally gives up and chooses to protect his classmates.
+[rel:ichinose-honami] (p.131–134) She refuses to put "class points and friends on a balance sheet"; her idealism frustrates him — he sees it as the class's greatest weakness.
+[rel:hoshinomiya-chie] (p.127–135) Their homeroom teacher, who privately hopes for a split vote but can't openly support him; later tells the class she took the same exam 11 years ago (the same fifth question).
+[rel:shibata] (p.128) Dismisses the "for" vote as a misclick — the class's lack of crisis awareness that angers Kanzaki.
 ## y2v6
 
 <!-- walk: y2v6 → start -->

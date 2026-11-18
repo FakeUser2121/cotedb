@@ -2146,6 +2146,21 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v5 Epilogue → p.243 -->
 
+### y2v5 p.140–151 — Ryūen's class: the dictator yields to the majority
+[scene] (p.140) Class D's Q5 first vote is 14 in favour / 26 against — far more "for" votes than other classes; a third of the class initially prioritizes points over a classmate.
+[says] (p.141) "It's been a boring time up to this point, but I guess the school didn't intend for it to be just a game."
+[says] (p.141) "All those who voted in favour, raise your hands."
+[says] (p.142) "Anyone who doesn't want to raise their hand doesn't have to. For now."
+[says] (p.144) "Did you guys really reflect your intentions in your votes the first and second time?"
+[says] (p.145) "I voted 'in favour' on this question, all three times."
+[says] (p.146) "even after three iterations, the vote was still more against than in favour. In other words, more than half of the class voted 'against' to this question. If that's the case, I'm going to respect their wishes and consolidate my vote in opposition."
+[says] (p.146) "if this hadn't been an anonymous name, I might have let you vote unanimously in favour without reservation."
+[trait] (p.140–151) Masterfully controls his class — with Q1/Q3/Q4 unanimously decided by his word, he currently allows debate on Q5, forcing students to reveal their "true intentions" through repeated votes and show of hands; though he voted "for" three times, he respects the majority's "against" and changes his vote (because anonymity makes "for" unanimity impractical), explaining to Ibuki he'd otherwise have forced it through.
+[rel:ishizaki-daichi] (p.141–146) His follower — repeatedly asks for instructions, startled by Ryūen's uncharacteristic silence and deference to the majority.
+[rel:ibuki-mio] (p.146) Calls out his out-of-character behavior — suspects he actually wanted the points.
+[rel:kaneda] (p.144–145) One of the "for" voters — argues his value to the class exceeds 100 points, so he can't be expelled.
+[rel:nishino] (p.145) "For" voter — likes the quickest way to get points and doesn't like sneaking around.
+[rel:komiya] (p.142) Urges silent "for" voters to raise their hands so no one is blamed.
 ## y2v6
 
 <!-- walk: y2v6 → start -->

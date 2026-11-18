@@ -1804,6 +1804,28 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y2v5 Epilogue → p.243 -->
 
+### y2v5 p.45 — Kushida proposes Horikita as emergency leader
+[says] (p.45) "Um, this special exam means that there are going to be separate options and there's going to be trouble, right?"
+[says] (p.45) "Then I think it's better to have a clear leader in case there's a contingency where the choices don't add up."
+[says] (p.45) "I think if we follow the options that that leader eventually decides on, we can pass the special exam without any problems."
+[says] (p.45) "Yes. You've been a leader many times before, and most importantly, I thought you could bring everyone together so that there would be no unfairness."
+[trait] (p.45) Publicly constructive — proposes Horikita as emergency leader to bring everyone together, a reasonable suggestion that passes easily; Ayanokōji notes the move but can't tell whether it's genuine or strategic (her openly friendly mask).
+[rel:horikita-suzune] (p.45) Nominates her as leader — her apparent fairness wins class approval.
+[rel:ayanokouji-kiyotaka] (p.45) Her proposal noted by him; he watches for hidden motives.
+
+### y2v5 p.181–215 — Kushida's plot exposed; her mask shatters; she is saved
+[says] (p.185) "I think... and I think Ayanokōji, who was the leader of this special exam, Horikita-san... who urged people to vote in favour, should take responsibility for that."
+[says] (p.190) "Yes, you did. It was you who, when urged to vote against it, stubbornly continued to vote for it."
+[says] (p.195) "Enough is enough... I can't take it anymore, my heart can't take it any more..."
+[says] (p.196) "So... I'll drop out... and then we'll all be back to normal again, right?"
+[says] (p.201) "I really want to be friends with Horikita-san and Ayanokōji-kun. I've never voted in favour of expelling someone...!"
+[says] (p.204) "I couldn't stand Horikita-san and Ayanokōji-kun. I just couldn't forgive the two of them for knowing my secret that I kept hidden."
+[says] (p.205) "In the next vote I will be expelled. This class will get class points because of my sacrifice, huh? Good for you guys."
+[says] (p.206) "Shinohara-san is not particularly cute or pretty, or rather a bit ugly, isn't she?"
+[trait] (p.181–215) The hidden "in favour" voter who wanted Ayanokōji/Horikita expelled for knowing her middle-school secret; preemptively names them to take the blame, but Ayanokōji exposes her (the private-points deal, her true nature). Her mask shatters — she admits everything, lashes out by revealing every classmate's secrets (Shinohara/Ike/Komiya, Mii-chan/Hirata, Haruka), and volunteers for expulsion to return to normal; Horikita's unexpected defense and blunt honesty reach her, and she breaks down in tears — a major turning point.
+[rel:ayanokouji-kiyotaka] (p.185–205) Exposed by him; she fought him for a year and a half; her plot to expel him fails.
+[rel:horikita-suzune] (p.211–215) Horikita protects her from expulsion and understands her — the person she hated most becomes the first to reach her.
+[rel:asahina-nazuna] (p.207) Mii-chan — her close friend; Horikita's observation hints Kushida's regret may involve her.
 ## y2v6
 
 <!-- walk: y2v6 → start -->

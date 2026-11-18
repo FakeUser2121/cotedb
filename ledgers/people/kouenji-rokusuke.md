@@ -894,6 +894,18 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y2v5 Epilogue → p.243 -->
 
+### y2v5 p.103–120 — Kōenji votes to expel; makes a deal with Horikita
+[scene] (p.103) Breaks his silence on Q3, backing Keisei's protection-point plan because he wants Horikita to "work harder."
+[says] (p.103) "For the amount of protection points we give up, we can have the Horikita girl work harder than anyone else."
+[says] (p.113) "Very well, it's getting interesting in this special exam. This is quite enjoyable."
+[says] (p.113) "You'll get 100 more class points, right? That means you'll inevitably get more private points every month."
+[says] (p.113) "Friends? I've never thought of any of you as my friends."
+[says] (p.119) "Class points are not important."
+[says] (p.119) "It's not impossible to raise the price, but I need the Horikita girl to be a reliable ally."
+[trait] (p.103–120) Deliberately provocative — votes "in favour" of expelling a classmate twice (for the private points, to replace what he lost in Q3), openly declares the class aren't his friends, and enjoys the chaos; but it was a calculated performance to sell his vote — he accepts Horikita's deal (10,000 private points/month until graduation) and switches to "against," having wanted "the Horikita girl to be a reliable ally" all along.
+[rel:horikita-suzune] (p.113–120) Openly provokes her but makes a private deal to switch his vote; calls her "Horikita girl."
+[rel:sudou-ken] (p.113–119) Needles him mercilessly ("Red Hair-kun"); they trade barbs about who contributes more.
+[rel:ishigami-kyou] (p.100–103) Backs his protection-point argument on Q3.
 ## y2v6
 
 <!-- walk: y2v6 → start -->

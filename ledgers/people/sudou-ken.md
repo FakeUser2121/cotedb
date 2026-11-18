@@ -1780,6 +1780,23 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v5 Epilogue → p.243 -->
 
+### y2v5 p.9–12 — Sudō studies hard; shocked by Ayanokōji's dating news
+[says] (p.9) "Suzune warned me about the possibility of a written exam early in the second semester, so I'm staying up all night."
+[says] (p.9) "I've got a full curriculum to go through. I want to get higher scores so I can bring my OAA's academic performance up to B or something."
+[says] (p.9) "I'm going to ask you something weird, but do you think that Kanji guy has already kissed Shinohara or something?"
+[says] (p.9) "It's great that he's got a girlfriend, but it's frustrating that he's getting ahead of me."
+[says] (p.10) "I've never asked, but have you ever had a girlfriend, Ayanokōji?"
+[says] (p.10) "S-seriously? You're serious?"
+[says] (p.10) "No, no, no, no, no, no, no!"
+[says] (p.10) "Really? You're sure it's not Suzune, aren't you?"
+[says] (p.11) "Ha... hahaha! Oh my god!"
+[says] (p.11) "Wow, my bad. But, no, eh! Hey, why is it Karuizawa?"
+[says] (p.12) "I'm sorry to say this, but... Karuizawa was dating Hirata, and before that, I don't know what kind of flashy relationships she had in junior high school."
+[trait] (p.9–12) Diligent and lovelorn — up all night studying (now "both literary and military arts"), jealous of Ike's relationship with Shinohara, and utterly floored that Ayanokōji is dating; relieved it's not Horikita, then whispers worried gossip about Kei's past to Ayanokōji — his genuine concern and naive judgment both show.
+[rel:ayanokouji-kiyotaka] (p.9–12) Confides in him about Ike/Shinohara and his own love life; shocked by the dating reveal.
+[rel:horikita-suzune] (p.10) Hoping/worried Ayanokōji's girlfriend might be Horikita.
+[rel:ike-kanji] (p.9) Jealous that he's "ahead" with Shinohara.
+[rel:karuizawa-kei] (p.11–12) Can't believe it's her; whispers rumors about her past.
 ## y2v6
 
 <!-- walk: y2v6 → start -->

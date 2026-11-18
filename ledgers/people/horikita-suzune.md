@@ -4244,6 +4244,83 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v5 Epilogue → p.243 -->
 
+### y2v5 p.17–18 — Horikita's festival proposal system
+[says] (p.17) "As Hirata-kun said, the budget we can allocate for the festival is limited."
+[says] (p.17) "maybe we should bring our ideas to the class and test them repeatedly, even if we have to use private points."
+[says] (p.18) "That's fine. I don't want to waste my time with a random idea."
+[says] (p.18) "If you come up with an idea for an event that you think is a good idea, you should actively present it."
+[says] (p.18) "I'll divide this by the number of people who planned it and give it to them as a reward."
+[says] (p.18) "The other thing we need to do is to keep all the information private so that no one can steal our ideas."
+[trait] (p.17–18) Practical and organized — demands real, tested proposals (rejects Hondō's bare fried-chicken recipe), rewards planners from class-point earnings (100 class points = 390,000 private points/month split), and insists on total secrecy; Ayanokōji privately approves of the incentives.
+[rel:ayanokouji-kiyotaka] (p.17–18) Her proposal system; he listens as usual.
+[rel:hirata-yousuke] (p.17) Builds on his point about the limited budget.
+
+### y2v5 p.45, 56–59 — Horikita: emergency leader; consults Ayanokōji
+[says] (p.45) "Yes. It's possible that other classes will have similar strategies, and you'll be able to use them if you have a difference of opinion."
+[says] (p.45) "If you don't feel comfortable following my instructions when the time comes, you can let me know now."
+[says] (p.56) "Ayanokōji-kun, can I have a word with you?"
+[says] (p.56) "How long have you been seeing her?"
+[says] (p.56) "Rumour has it that it's spring break, but I think the relationship started developing even earlier than that."
+[says] (p.57) "I was prepared for you to refuse."
+[says] (p.57) "If you want to make sure that you clear this special exam, I was thinking about making it semi-compulsory before the exam."
+[says] (p.59) "I have a proposal for a special exam tomorrow. I could ask someone else, but I want to ask someone who understands me."
+[trait] (p.45–59) Chosen by Kushida's proposal as emergency leader for the voting exam (accepts with conditions); later comes to Ayanokōji's room for exam advice, mildly angry about his dating but setting it aside — surprised and relieved when he agrees readily; proposes a "semi-compulsory" pre-exam briefing to unify the class.
+[rel:ayanokouji-kiyotaka] (p.56–59) Consults him privately on the exam; their alone-time would have been unthinkable a year ago.
+[rel:kushida-kikyou] (p.45) She proposed her as leader — Horikita accepts.
+[rel:karuizawa-kei] (p.56) Gracefully left alone in the elevator by Kei (no romantic threat).
+
+### y2v5 p.85–105 — Horikita leads the class through questions 1–4
+[scene] (p.85) As agreed emergency leader, rises to guide the class after the first (non-unanimous) vote; explains her reasoning for choosing Class B as the exam opponent (fair fight, currently B, on a downward slope, unlikely to outsmart them).
+[says] (p.87) "As the votes are scattered, each of us must have something to think about."
+[says] (p.87) "Ichinose-san is likely to be a fair fight, a clash of pure potential."
+[says] (p.110) "my policy is to not let anyone drop out of school."
+[says] (p.116) "We can get through this special exam without anyone dropping out."
+[trait] (p.85–105) Skillful and fair — wins unanimity on Q1 with clear reasons, navigates the Hokkaido/Okinawa deadlock on Q2, and accepts Keisei's protection-point argument on Q3 (even though it benefits her); her growth into a "pillar of support" is evident.
+[rel:ayanokouji-kiyotaka] (p.85–105) Her pre-exam voting pact holds; he protects her image and backs her strategy.
+[rel:ishigami-kyou] (p.100–103) Accepts his protection-point argument.
+[rel:ichinose-honami] (p.87) Argues for targeting her class as a "fair fight."
+
+### y2v5 p.107–126 — Horikita and the deadlocked fifth question
+[says] (p.110) "It's up to the individual to decide which way to vote. I don't think it's wrong in itself to vote in favour in order to grab class points."
+[says] (p.111) "Why did you vote in favour for the second time?"
+[says] (p.112) "If you want everyone to vote in favour, I'd like to see a reasonable presentation."
+[says] (p.114) "I made a promise to Kōenji-kun before the island exam started."
+[says] (p.115) "Give me some time to think about it."
+[says] (p.121) "If the number of votes in favour still doesn't reach zero... then I'll have no choice but to speak the name."
+[says] (p.125) "I'm not your enemy. I'm on your side."
+[trait] (p.107–126) Under immense pressure, stays principled and calm — explains the voting pact, refuses to publicly name the unseen "in favour" voter (it would cost her future standing as a leader), negotiates Kōenji's vote with a private-points deal (10,000/month until graduation), and pleads with the unidentified voter without naming them — "like a cry of grief."
+[rel:kouenji-rokusuke] (p.113–120) She refuses to break her promise to protect him, and buys his vote with a deal.
+[rel:karuizawa-kei] (p.121) Takes Kei's hint that she suspects someone — acknowledges she may know who.
+[rel:sudou-ken] (p.110) He demands she name the "in favour" voter; she refuses without certainty.
+[rel:chabashira-sae] (p.124–125) The teacher's old story gives her "words to face this special exam again."
+
+### y2v5 p.171–181 — Horikita's one-vote-at-a-time appeal fails
+[says] (p.171) "If you placed your vote against... please raise your hand."
+[says] (p.175) "No, no, no! Why? There's more votes for it!" — on the "for" vote returning
+[says] (p.179) "I know who's been voting in favour."
+[trait] (p.171–181) Goes to extraordinary lengths — personally visits every classmate, asks them to raise hands, refuses to name the suspect without certainty; Ayanokōji pressures her toward the "for" vote she can't accept; realizes too late that the unseen voter is trying to defeat *her*.
+[rel:ayanokouji-kiyotaka] (p.177–181) He lies about his vote and pushes her toward "for"; she remains unaware he's steering events.
+[rel:sudou-ken] (p.188) Sudō threatens to "kill" anyone who voted for her expulsion; she tells him to stop.
+
+### y2v5 p.210–217 — Horikita defends Kushida
+[says] (p.211) "Don't go any further, Kushida-san. You won't be able to turn back."
+[says] (p.211) "But we all have two sides to our story, don't we?"
+[says] (p.211) "Think again how difficult it is to be kind. Do you have the talent to smile at everyone, to reach out to everyone, to help everyone?"
+[says] (p.211) "I think... I think I want to keep Kushida-san in this class."
+[says] (p.212) "I don't like to make jokes, unfortunately. I'm serious."
+[says] (p.213) "You never know. It's only when I knew everything about you that I developed a great liking for you."
+[trait] (p.210–217) Breaks with Ayanokōji's plan — after a moment of introspection (p.208–210) she realizes she alone can save Kushida; rebukes the classmates who want Kushida expelled for leaking their secrets (everyone has two sides), praises Kushida's hard-won talent for kindness, and deliberately provokes her with brutal honesty ("a mere foolish idiot") — reaching the real Kushida, who breaks down in tears.
+[rel:kushida-kikyou] (p.211–217) She protects her from expulsion and reaches her through honest bluntness — a turning point for Kushida.
+[rel:ayanokouji-kiyotaka] (p.217) Her refusal to expel Kushida forces him to take over the "cruel" role of cutting Airi.
+
+### y2v5 p.228–230 — Aftermath: Horikita's apology to Ayanokōji
+[says] (p.228) "Sorry."
+[says] (p.228) "This special exam... I was not good enough... I was not good enough."
+[says] (p.229) "Don't do that. You don't need to act unreasonably cruel."
+[says] (p.229) "But we've lost... Sakura-san."
+[trait] (p.228–230) Follows him into the corridor, bows deeply, apologizes for shackling him with all the responsibility; calls out his unreasonable cruelty (he'd been suppressing his pain), seeming to grow through the ordeal; she is unable to find words when Airi passes them.
+[rel:ayanokouji-kiyotaka] (p.228–230) Apologizes and calls him out; their bond deepens via shared burden.
+[rel:sakura-airi] (p.229) Speechless as Airi leaves — can't think of what to say to someone being expelled.
 ## y2v6
 
 <!-- walk: y2v6 → start -->

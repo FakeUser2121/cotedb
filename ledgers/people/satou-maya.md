@@ -428,6 +428,19 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 
 <!-- walk: y2v5 Epilogue → p.243 -->
 
+### y2v5 p.19–25 — Satō's elaborate maid-café pitch
+[scene] (p.19) Approaches Horikita with a "winning" festival idea, then invites Ayanokōji too — secretly setting up a live demonstration in a rented special-building classroom with a guard (Maezono) and shaded windows.
+[narrates] (p.20) "Hey, Ayanokōji-kun. Do you have some time later...?"
+[narrates] (p.20) "That's a secret for now. You'll know when you get here."
+[narrates] (p.22) "Welcome~. We're Maimai, the maid café!"
+[narrates] (p.23) "What would you like to order, master?"
+[narrates] (p.24) "Yes, that's true, but I think we can raise the sales price to counter that."
+[trait] (p.19–25) Confident and thorough — teamed with Matsushita, Mii-chan and Maezono (guard), spent 4 days and 13,200 private points (3,300 each) on a live maid-café demo with costumes, handmade menu (800 pts/tea), clear-file budget breakdown, and contingency plans; deftly handles Horikita's cost questions and wins her serious consideration.
+[rel:ayanokouji-kiyotaka] (p.20) Invites him to the presentation (secret reason); later wants his help for the boys' side.
+[rel:horikita-suzune] (p.19–24) Pitches to her and answers her scrutiny; earns "head and shoulders above any proposal" praise.
+[rel:matsushita-chiaki] (p.22–23) Co-planner, dressed as a maid; presents the cost breakdown.
+[rel:asahina-nazuna] (p.22–23) Mii-chan, in a Chinese-style maid outfit; wrote the detailed proposal.
+[rel:maezono] (p.22) Stands guard outside the classroom.
 ## y2v6
 
 <!-- walk: y2v6 → start -->

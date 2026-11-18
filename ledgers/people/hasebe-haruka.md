@@ -596,6 +596,32 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 
 <!-- walk: y2v5 Epilogue → p.243 -->
 
+### y2v5 p.46–55 — Haruka: heartbroken over Airi, yet reaches out
+[scene] (p.46) Stunned as Kei publicly claims Ayanokōji (his girlfriend and his priority); Airi is too shocked to speak.[says] (p.48) "Hey Kiyopon, would you like to walk home with me?"
+[says] (p.49) "is it true that you started going out with Karuizawasan? I still can't believe it, even now."
+[says] (p.49) "It's not that I care who you go out with, it's just that I didn't think it was going to be Karuizawa-san."
+[says] (p.49) "She was trying to hold it together in the classroom, but she was crying all throughout lunchtime."
+[says] (p.54) "I can't make any promises. But when I'm a bit more relaxed, I'll talk to Airi."
+[says] (p.55) "don't you think you're taking Airi's feelings too lightly?"
+[says] (p.55) "Her feelings towards Kiyopon aren't so light that they'll be shaken because of something like this."
+[says] (p.55) "I'm sure you'll be going on lots of dates with Karuizawa-san, but make sure you show up to our group gatherings."
+[trait] (p.46–55) Loyal "guardian" of Airi — walks home with Ayanokōji to question him about the relationship, forgives him logically ("you're entitled to go out with whoever you want") but is angry on Airi's behalf, rebukes him for assuming Airi will move on, yet still asks him not to drift from the group and agrees to talk to Airi about the maid café.
+[rel:ayanokouji-kiyotaka] (p.48–55) Confronts him about dating Kei; remains attached to the group.
+[rel:sakura-airi] (p.49–55) Her best friend — cried all lunch; Haruka defends the depth of her feelings.
+[rel:karuizawa-kei] (p.49) Dismissive of her due to her reputation; shocked she's the girlfriend.
+
+### y2v5 p.219–226 — Haruka's desperate fight to save Airi
+[says] (p.219) "Don't joke around at a time like this." — on Ayanokōji naming Airi
+[says] (p.220) "Then who do you think should be expelled?"
+[says] (p.220) "It's disgusting. It can't be. What is this... I thought we were friends?"
+[says] (p.220) "Enough. I'm not going to expel Airi. If you want, you can vote for me. I'll happily be expelled from the school."
+[says] (p.221) "OK? Airi, you must definitely vote in favour."
+[says] (p.221) "I can't vote in favour of that..!" — Airi; Haruka insists
+[says] (p.224) "I don't like it, I don't like it, I don't like it!"
+[trait] (p.219–226) Fiercely protective of Airi — lashes out at Ayanokōji and Keisei (whose "losing 300 class points is critical" remark wounds her), volunteers herself for expulsion, and refuses to accept Airi's self-sacrifice until Ayanokōji breaks her resolve by arguing that self-sacrifice is a "weak choice" that will only make others exploit her; collapses in sobs as Airi is expelled, unable to stand.
+[rel:sakura-airi] (p.219–226) Her best friend — she tries to take Airi's place, then is forced by Airi to vote "for" her; devastated by the loss.
+[rel:ayanokouji-kiyotaka] (p.219–226) Blames him for choosing Airi; he deliberately breaks her to force Airi's acceptance.
+[rel:ishigami-kyou] (p.220) Keisei's pragmatic aside ("losing 300 class points is critical") betrays his real feelings and angers her.
 ## y2v6
 
 <!-- walk: y2v6 → start -->

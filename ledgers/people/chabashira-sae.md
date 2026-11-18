@@ -1272,6 +1272,59 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v5 Epilogue → p.243 -->
 
+### y2v5 p.7–8 — Chabashira's monologue: the nightmare of the exam that cost her Class A
+[scene] (p.7) From her own POV, reveals a recurring nightmare she's never told anyone about — the events of the special exam in her third year, which always ends the same way.
+[narrates] (p.7) "I keep having a recurring nightmare."
+[narrates] (p.7) "By the time I reached my third-year, the number of classmates who had left me had swelled to six."
+[narrates] (p.7) "I believed that I could graduate from Class A without having to leave anyone behind."
+[narrates] (p.7) "My best friend, Chie, approaches me with an angry expression and grabs my chest."
+[narrates] (p.7) "The class, which had been united as one, collapsed in an instant."
+[narrates] (p.8) "The relationship between the two of us ended just as it had begun."
+[trait] (p.7–8) Haunted by guilt — she was in Class B, close to Class A, and vowed to graduate without leaving anyone; the graduation special exam destroyed the class and cost her a "companion" (a boy who reached for her hand under the evening sky, whom she called "irreplaceable"). The memory is the source of her drive to protect her current class and her trauma over the coming exam.
+[rel:hoshinomiya-chie] (p.7) Her best friend "Chie," who angrily grabbed her in the nightmare — they were on opposite sides.
+[note] (p.8) The "companion" is unnamed in these pages; the text describes him as an irreplaceable friend and opposite-sex person — no roster id assigned (no name on the page).
+
+### y2v5 p.29–44 — Chabashira: the Unanimous Voting Exam briefing
+[says] (p.29) "Before the sports festival in October, you will have to undergo a new special exam."
+[says] (p.30) "The school is giving you the recognition you deserve; you second years have performed very well."
+[says] (p.30) "Happiness and sadness are two sides of the same coin. So the risk is the benefit, right?"
+[says] (p.31) "You'll be taking part in what's known as the 'Unanimous Voting Exam'."
+[says] (p.41) "In order to pass this special test, you must unanimously complete five questions within five hours."
+[says] (p.41) "If you do not complete all questions within 5 hours you will lose 300 class points."
+[says] (p.43) "it is strictly forbidden to make any agreements with other students that bind them to vote for a particular option in this exam."
+[trait] (p.29–44) Professional and quietly proud — frames the exam as recognition of the second-years' strong performance, walks the class through examples, and stresses the anti-collusion and overtime-expulsion rules; Ayanokōji senses she's inwardly happy (her "sweet side" showing more than ever).
+[rel:ayanokouji-kiyotaka] (p.29–44) Delivers the exam; he reads her restrained pride.
+[rel:horikita-suzune] (p.30–31) She calmly accepts the risk-as-benefit framing, winning approval.
+
+### y2v5 p.106–125 — Chabashira's collapse; her old story
+[scene] (p.106) As the final question begins, her complexion has visibly worsened over the exam; Hirata asks if she's okay, but she denies it, unaware (or unwilling to admit) her own condition.
+[says] (p.107) "The... 60-second count will now begin. Students are asked to... begin voting." — her voice shaky
+[says] (p.124) "Teachers are not allowed to guide the students to a particular choice."
+[says] (p.124) "However, may I tell you an old story?"
+[says] (p.125) "I also attended the Advanced Nurturing High School. And I've taken this special exam when I was a student."
+[says] (p.125) "the last one you're facing right now is the same word for word."
+[says] (p.125) "That is to give it your all with no regrets."
+[says] (p.125) "Whichever choice you decide to find a path that will not leave you regretting the outcome."
+[trait] (p.106–125) Visibly ill but determined — stumbles and nearly falls at the podium; risks punishment by telling an "old story" (she took this same exam 11 years ago, the last question identical) — offering not guidance but heartfelt advice to choose without regret; the monitoring teacher lets her speak to the end.
+[rel:ayanokouji-kiyotaka] (p.106–125) He notes her condition is tied to the final question (her own trauma); she provides the students words to face the exam.
+[rel:hirata-yousuke] (p.106) He asks if she's okay; she brushes it off.
+
+### y2v5 p.232–239 — Chabashira's confession on the roof: a farewell to the past
+[scene] (p.232) Meets Ayanokōji on the rooftop stairs (as promised at 6 p.m.), unlocks the roof and leans on the railing, stressed after the exam; offers her "confession" (the "Sacrament of Forgiveness").
+[says] (p.232) "Every year, the school's attitude toward rooftop use is getting tougher."
+[says] (p.233) "If you forgive me, you can listen to my confession..."
+[says] (p.233) "We, the 3rd year Class B, were on the verge of catching up with Class A before the graduation exam."
+[says] (p.234) "Eventually, my classmates slowly began to lean towards the idea that Class A would make the sacrifice to get the 100 class points."
+[says] (p.235) "I, of all people, was the one who kept voting against it."
+[says] (p.235) "For me, that student was a leader, a friend, and a... and a lover more important than anyone else."
+[says] (p.236) "I protect him, he protects me. Such a stalemate went on and on."
+[says] (p.236) "But when the unanimous special exams ended, our relationship naturally ended as well."
+[says] (p.239) "I will fulfill my role as a teacher to guide the students in my class to continue fighting without regret."
+[says] (p.239) "I've decided, Ayanokōji. I'm going to make sure our class graduates from Class A, anyway I can."
+[trait] (p.232–239) Finally unburdened — recounts how, 11 years ago, her class (then Class B, 73 points from Class A) faced the same exam; her lover (a "combination of Hirata and Ike," the class leader) volunteered to be expelled, and she alone voted against to protect him, costing them 300 points and a 523-point deficit; they never saw each other again. Hearing Ayanokōji's analysis of her mistake, she makes peace with the past ("a farewell to the past") and resolves to lead her current class to Class A — visibly "radiant," her mind finally caught up to her age.
+[rel:ayanokouji-kiyotaka] (p.232–239) Confides in him and accepts his blunt analysis; admits she could never make decisions "without hesitation" as he does.
+[rel:hirata-yousuke] (p.234) Her old lover was "a combination of Hirata and Ike" — leader and mood-maker.
+[rel:sakura-airi] (p.237) Asks whether he could have saved Sakura.
 ## y2v6
 
 <!-- walk: y2v6 → start -->

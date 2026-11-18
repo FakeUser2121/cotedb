@@ -8216,6 +8216,177 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v5 Epilogue → p.243 -->
 
+### y2v5 p.9–12 — Second semester begins; the dating reveal to Sudō
+[scene] (p.9) Walks to school with Sudō (yawning, up all night studying to raise his Academics to B); asks whether Ike has already kissed Shinohara.
+[says:sudou-ken] (p.9) "Suzune warned me about the possibility of a written exam early in the second semester, so I'm staying up all night."
+[says:sudou-ken] (p.9) "I want to get higher scores so I can bring my OAA's academic performance up to B or something."
+[says:sudou-ken] (p.10) "I've never asked, but have you ever had a girlfriend, Ayanokōji?"
+[says] (p.10) "There's no use in lying to you, so I'll confess to you that I got my first girlfriend a little while ago."
+[says:sudou-ken] (p.10) "Really? You're sure it's not Suzune, aren't you?"
+[says] (p.11) "We're dating."
+[says:sudou-ken] (p.11) "Wow, my bad. But, no, eh! Hey, why is it Karuizawa?"
+[trait] (p.9–12) Amused by Sudō's transformation (diligent, no longer late, "both literary and military arts"); honestly reveals he has a girlfriend rather than fake it (it would spread from Kei anyway), tells Sudō it's not Horikita, and lets him be the first "icebreaker" — Sudō's whispered concern that Kei's "flashy" past makes her a "hurdle" for a first girlfriend is left unchallenged.
+[rel:sudou-ken] (p.9–12) Proud of his growth; becomes the first person told of the Ayanokōji-Karuizawa relationship.
+[rel:karuizawa-kei] (p.10–12) His girlfriend; she arrives to walk with him and pouts about the timing of the public announcement.
+[rel:horikita-suzune] (p.10) Sudō assumed (hopefully/worriedly) she might be the girlfriend.
+[rel:hirata-yousuke] (p.12) Sudō references Kei's past relationship with him.
+
+### y2v5 p.13–16 — Chabashira announces the second-semester events
+[scene] (p.13) In homeroom, Chabashira outlines a packed second semester: an October sports festival, a November cultural festival (the school's first), plus midterm/final exams and a school trip.
+[trivia] (p.14) Cultural festival: each 2nd-year given 5,000 private points (1st-years 5,500, 3rd-years 4,500) for preparation; 100 class points to 1st–4th place, 50 to 5th–8th, none below; extra funds for student council/club contributions; unused funds confiscated.
+[trivia] (p.15) Stall locations cost points (Main Gate 1 = 10,000); only one class per location, conflicts settled by bidding war to the school; stall details kept secret until the day (leaks penalized); outside items allowed with permission.
+[trait] (p.13–16) Analyzes the rules — the cultural festival is announced first because preparation must start early; suspects there's more to it than the straightforward rules ("evidence that I've become deeply ingrained in the structure of this school").
+[rel:chabashira-sae] (p.13–16) Delivers the briefing; he notes she looks the same as first semester.
+
+### y2v5 p.17–18 — The class's festival discussion; Horikita's proposal system
+[says:hirata-yousuke] (p.17) "When it comes to cultural festivals, food, haunted houses, and the like are the orthodox ones, aren't they?"
+[says:horikita-suzune] (p.17) "maybe we should bring our ideas to the class and test them repeatedly, even if we have to use private points."
+[says:matsushita-chiaki] (p.18) "I think some people will be reluctant to do anything if they have to pay for it themselves."
+[trait] (p.17–18) Listens as usual; learns Horikita's system — test ideas with real money, reward planners from the class-point windfall (100 class points = 390,000 private points/month split), and maintain total secrecy; judges it sensible (active students benefit, slackers benefit later).
+[rel:horikita-suzune] (p.17–18) Proposes the reward-for-ideas and confidentiality system; he approves privately.
+[rel:hirata-yousuke] (p.17) Lists festival event options on the monitor.
+[rel:matsushita-chiaki] (p.18) Warns some students won't contribute if they must pay personally.
+
+### y2v5 p.29–44 — The Unanimous Voting Exam briefing
+[scene] (p.29) In homeroom, Chabashira announces a surprise special exam *before* the sports festival — held only for second-years, tomorrow.
+[trivia] (p.31–42) The "Unanimous Voting Exam": 5 questions, up to 4 options each; all 39 classmates vote anonymously (60 seconds); not unanimous → 10-minute discussion → revote; 5-hour limit; 90 seconds cumulative overtime penalty = expulsion; 50 class points for clearing, −300 for failing; protection points disabled; phones collected; binding agreements/money exchanges forbidden.
+[trivia] (p.36–38) If a vote awards points to "one student," that student is chosen by majority nomination (their own vote removed), then the class votes for/against; a unanimous "against" removes them and picks another; candidates may volunteer.
+[inference] (p.32–35) Analyzes the sample questions — 5 class points are worth 9,000 private points over the remaining 18 months, so the 10,000-point instant gain is marginally better, but the "just in case" risk of losing Class A matters more; deliberately votes "for" in the practice rounds to avoid unanimity and teach the class how the exam works (Sudō does the same).
+[trait] (p.29–44) Watchful — notes Horikita's growth as a "pillar of support" (calmly reframes risk as benefit, winning class approval), sees Chabashira's hidden sweetness, and realizes the exam's real difficulty is the anonymous vote (people can lie about how they voted) and the impossibility of enforced agreements.
+[rel:chabashira-sae] (p.29–44) Delivers the briefing; he notes she must be inwardly pleased with the class.
+[rel:horikita-suzune] (p.30–31) Her calming leadership earns the class's approval.
+
+### y2v5 p.45–46 — Kushida proposes Horikita as emergency leader; Kei reveals the relationship
+[says] (p.45) "Then I think it's better to have a clear leader in case there's a contingency where the choices don't add up." — Kushida
+[says] (p.45) "Yes. It's possible that other classes will have similar strategies, and you'll be able to use them if you have a difference of opinion." — Horikita
+[says] (p.46) "Sorry guys, I'm going to eat with Kei today."
+[says] (p.46) "Sorry, but I'm his girlfriend and I'm his priority, you know?" — Kei
+[trait] (p.45–46) Watches Kushida's proposal to make Horikita emergency leader pass easily (she's the unifying figure); then plays along as Kei dramatically "kidnaps" him at lunch, Calling her by her first name and confirming they're dating in front of the stunned class — the relationship goes public in one stroke.
+[rel:kushida-kikyou] (p.45) Proposes Horikita as leader — a move he notes with interest.
+[rel:horikita-suzune] (p.45) Accepts the emergency-leader role.
+[rel:karuizawa-kei] (p.46) She publicly claims him as her boyfriend; he goes along.
+[rel:hasebe-haruka] (p.46) She's stunned by the reveal (first-name basis, "girlfriend").
+
+### y2v5 p.48–55 — Haruka walks home: Airi's heartbreak; the maid-café request
+[says] (p.48) "Hey Kiyopon, would you like to walk home with me?" — Haruka
+[says] (p.49) "is it true that you started going out with Karuizawasan? I still can't believe it, even now."
+[says] (p.50) "I was in the same group as Kei in the Cruise Ship special exam last year."
+[says] (p.53) "we've decided on one of the events for the cultural festival." — the maid café
+[says] (p.55) "don't you think you're taking Airi's feelings too lightly?" — Haruka
+[trait] (p.48–55) Walks home with Haruka (Airi too heartbroken to speak to him); honestly confirms the relationship, explains how it developed from the cruise-ship exam, and admits he confessed first; asks Haruka and Airi to be maid-café waitresses (Airi's second chance). Haruka insists Airi's feelings are too deep to change so easily; he misreads this and angers her.
+[rel:hasebe-haruka] (p.48–55) She becomes his confidante about the relationship; sharply rebukes him for underestimating Airi.
+[rel:sakura-airi] (p.48–55) Heartbroken — cried all through lunch; Haruka shields her; Ayanokōji sees a "gem" who could shine as a waitress.
+[rel:karuizawa-kei] (p.49–50) Haruka is shocked it's her (her poor reputation); admits he confessed first.
+[rel:horikita-suzune] (p.53) The maid café is a secret known only to him, Horikita and the organizers.
+
+### y2v5 p.56–59 — Horikita's late-night visit: consulting on the exam
+[scene] (p.56) In the dorm elevator and then his room, Horikita catches him — a year ago their being alone together would have been unthinkable; Kei good-naturedly leaves them alone.
+[says] (p.56) "How long have you been seeing her?"
+[says] (p.57) "I was prepared for you to refuse."
+[says] (p.57) "If you want to make sure that you clear this special exam, I was thinking about making it semi-compulsory before the exam."
+[says] (p.59) "I have a proposal for a special exam tomorrow. I could ask someone else, but I want to ask someone who understands me."
+[trait] (p.56–59) Delights in how readily she accepts his help (she'd expected refusal because of the maid café); amused that she's slightly angry about his dating (she guessed it began before spring break); agrees to advise her on the exam and notices her anger dissipate as she gets to the point.
+[rel:horikita-suzune] (p.56–59) Comes to his room for advice on the exam; their closeness has grown dramatically.
+[rel:karuizawa-kei] (p.56) Gracefully yields the elevator to Horikita, judging she's no romantic threat.
+
+### y2v5 p.78–84 — Exam day: pre-vote analysis; the "spread the votes" strategy
+[scene] (p.78) On the day of the Unanimous Voting Exam, observes the class; Chabashira notes a teacher who interferes with the exam's nature would be questioned.
+[inference] (p.82–84) Reaffirms the pact with Horikita: he votes for the first option in round one to prevent accidental unanimity and gauge true class opinion; the exam allows one hour per question, and the greatest danger is a question that divides the class; realizes there's no room for cheating (anonymous votes, snooping impossible) — unanimity is everything.
+[trait] (p.78–84) Calmly trusts Horikita's leadership (they pre-agreed their voting roles); notes Airi is being pushed by Haruka to reconcile over the dating news (she remains withdrawn).
+[rel:horikita-suzune] (p.82–84) Their pre-exam pact — she votes second option, he votes first, to keep round one non-unanimous.
+[rel:sakura-airi] (p.84) Withdrawn and upset over the relationship reveal; Haruka urges her to speak to Ayanokōji.
+
+### y2v5 p.85–90 — Questions 1 and 2: opponent class and school trip
+[trivia] (p.85–90) Q1: choose an opponent class for a special exam (extra class points for beating higher classes). First vote: A 5, B 21, D 13; Horikita argues for Class B (Ichinose — fair fight, currently B, on a downward slope, unlikely to outsmart them); Hirata and Kei back her; second vote 39 for B. Q2: school trip destination (Hokkaido/Kyoto/Okinawa); split 17/3/19 then 18/4/17.
+[says] (p.86) "I had agreed with Horikita that I would always vote for the first choice, so without hesitation, I chose Class A, the first choice." — narration
+[trait] (p.86–90) Follows the pact (votes Class A first round, then B), and observes Horikita's skillful persuasion and the class's debate; Q2's deadlock between Hokkaido and Okinawa is settled when Keisei volunteers for rock-paper-scissors and loses quickly; Sudō's vote for Okinawa ("the ocean") is overridden.
+[rel:horikita-suzune] (p.87–90) Her arguments unify the class; he supports her from behind the scenes.
+[rel:ishigami-kyou] (p.95) Keisei volunteers for rock-paper-scissors to break the Q2 tie, loses.
+[rel:sudou-ken] (p.92) Votes for Okinawa because of the ocean; angry that his view was overridden.
+
+### y2v5 p.97–104 — Question 3: protection points; Keisei's "upfront investment" argument
+[trivia] (p.97–98) Q3: choose among (1) give up protection points, (2) halve private points for 6 months to protect one student, (3) similar — bottom-five students lose private points for 6 months regardless. First vote: 12 grant 3 random, 5 grant 1 chosen, 22 grant none.
+[note] (p.100) Keisei argued that with class points set to rise over the next six months, the lost private points are an investment in the future.
+[says] (p.103) "This option will result in losing half of our private points for six months."
+[says:kouenji-rokusuke] (p.103) "For the amount of protection points we give up, we can have the Horikita girl work harder than anyone else."
+[inference] (p.100–104) Keisei reframes lost private points as an "upfront investment" — with +300 class points by semester's end, transfers rise ~50% (~20M), so a protection point is worth ~7M private points; Kōenji unexpectedly supports it; Ayanokōji agrees despite personally preferring options 1/3, since opposing without a good reason would be "for the good of the class" only in name; the class votes 39 to grant one protection point to Horikita.
+[rel:ishigami-kyou] (p.100–103) Keisei's strategic argument wins over the class; Ayanokōji admires its logic.
+[rel:horikita-suzune] (p.104) Unanimously granted a protection point — a purchase that was not cheap but not too expensive
+[rel:kouenji-rokusuke] (p.103) Unexpectedly backs Keisei's plan — he wants Horikita to "work harder."
+
+### y2v5 p.104–105 — Question 4: written-exam rules
+[trivia] (p.104) Q4: choose one disadvantage for the end-of-semester written exam — increased difficulty, increased penalty, or decreased reward. First vote 6/18/15; second vote unanimous for "increase penalty" after Horikita argues diligent study avoids penalties.
+[trait] (p.104–105) Notes these are "nasty choices" with no upside; the class reaches unanimity quickly on Horikita's persuasion.
+
+### y2v5 p.106–115 — Question 5: expel a classmate for 100 class points; the deadlock
+[scene] (p.106) Reaches the final question in about an hour; Chabashira's complexion has visibly worsened as the exam progresses.
+[trivia] (p.107) Q5: "Gain 100 class points in exchange for one classmate being expelled" — if unanimously in favour, identify and vote on the student. Ayanokōji reasons 100 points aren't worth a classmate now (unlike his third-year scenario), so almost everyone should vote against — but the voting pact means round one must not be unanimous; he votes "against" anyway (deviating from the pact) to avoid needless conflict, leaving Kōenji as the only visible "for" vote.
+[says] (p.111) "I voted against both the first vote and just now, in the second vote."
+[says] (p.111) "But because of the content of the question, I took the liberty of deciding that it would be better to vote for the against option."
+[inference] (p.111–115) Realizes there's a *second* unseen "in favour" voter — someone clinging not to the 100 points but to "the right to expel someone"; hides his own second vote against, lets Horikita explain the pact away, and watches as Kōenji openly admits voting in favour ("I've never thought of any of you as my friends"), then agrees to switch after Horikita's deal (10,000 points/month until graduation).
+[trait] (p.106–115) Deliberately stays sidelined, intervening only with a subtle cough to prompt Kei to realize Horikita suspects someone; understands Horikita will never name the unseen voter (it would cost her future standing), and that the real battle is against the anonymous "in favour" vote.
+[rel:horikita-suzune] (p.109–115) His pact partner; he shields her by taking the "for" vote on Q1 – Q4 and quietly voting against on Q5; notes her calm leadership and that she won't name the suspect.
+[rel:kouenji-rokusuke] (p.109–114) The visible "in favour" voter; Ayanokōji knows he's bluffing for attention but watches Horikita buy him off.
+[rel:karuizawa-kei] (p.121) His cough prompts Kei to ask Horikita if she knows who's voting in favour.
+[rel:sudou-ken] (p.109–113) Suspects Kōenji and lashes out; Ayanokōji notes the danger of mob justification (rationalizing expelling whoever is "holding back the class").
+[rel:hirata-yousuke] (p.112) Makes the heartfelt appeal not to cut off classmates for points.
+
+### y2v5 p.171–181 — The final battle: pushing the vote to unanimity "for"
+[scene] (p.171) As the ninth round ends with the single unseen "for" vote unchanged, Horikita goes down the row asking each classmate to raise a hand if they voted "against" — all but Kōenji do; she personally visits everyone, even Ayanokōji, but nobody confesses.
+[says] (p.177) "Horikita, I voted in favour on the 14th round just now." — Ayanokōji (a deliberate lie; he'd actually voted "for" on the 12th)
+[says] (p.177) "If we can't make this unanimous, we won't move up to Class A."
+[says] (p.179) "Be prepared, Horikita. Your opponent is trying to defeat you."
+[inference] (p.173–181) Realizes the unseen voter is prepared to run out the clock to force an expulsion; with under two hours left, he decides to abandon opposition and deliberately push the class toward unanimous "for" — calculating that the class will then have to choose someone to expel, and he can direct that choice; persuades Hirata (who agrees to vote "for" to expel the persistent voter) and secures Horikita's reluctant approval.
+[trait] (p.171–181) Ruthless pragmatism — knowingly lies about when he switched his vote, tells Horikita her "opponent is trying to defeat you," and engineers the shift to "for" to avoid losing 300 class points; accepts that someone must be cut.
+[rel:horikita-suzune] (p.171–181) He pushes her toward the "for" vote she can't bring herself to make; she resists to the end.
+[rel:hirata-yousuke] (p.179–181) Persuades him to vote "for" (to expel the culprit); Hirata agrees.
+
+### y2v5 p.181–191 — Unanimous "for"; Hirata volunteers; Kushida named
+[scene] (p.181) The sixteenth round is 39 in favour / 0 against; Hirata volunteers as the specific student to be expelled (6 for / 32 against), then Horikita offers herself (16 / 22). Ayanokōji offers to take the blame if his accusation is wrong; the class waits for him to name the persistent "for" voter.
+[says] (p.190) "Kushida. It's you."
+[says] (p.192) "It wasn't long after I started school that I had the accidental opportunity to see Kushida's true nature."
+[says] (p.197) "Kushida thought I was on her side. You didn't think I would expose your whole school life like this, did you?"
+[inference] (p.190–191) Names Kushida — the unseen voter who wanted him and Horikita expelled (because they knew her middle-school secret); he'd known since the first vote; prepared for her counterattack by publicly offering to take the blame if wrong.
+[rel:kushida-kikyou] (p.190–205) Exposes her as the anonymous "for" voter and reveals her secret; she is ultimately expelled.
+[rel:hirata-yousuke] (p.182) He volunteers to be expelled to force a resolution; Ayanokōji later uses his vote.
+
+### y2v5 p.192–205 — Exposing Kushida: the secret, the deal, the collapse
+[scene] (p.192) Reveals Kushida and Horikita attended the same middle school and that Kushida destroyed her class there when her "true nature" (jealous, needing to be first) was exposed; recounts her deal — half his monthly private points in exchange for not expelling him — and bluffs that he recorded the conversation (he does not actually have the recording; he recites it from memory, knowing she made her own).
+[says] (p.198) "Kushida threatened to expel me from school, and I made a deal with her which involved me giving her half of my monthly private points in exchange for her not expelling me."
+[says] (p.200) "You may have enough to spend as pocket money, but you can never have too much in the case of an emergency."
+[says] (p.204) "Why are you betraying me?! You promised not to be hostile, remember?"
+[inference] (p.198–205) His bluff works — Kushida admits the deal; her counterattack (claiming he touched her breasts, with a supposed uniform bearing fingerprints) is dismantled; her carefully built mask crumbles and she admits she wanted Horikita and Ayanokōji expelled; she begins venting every classmate's secrets to ensure her expulsion.
+[trait] (p.192–205) Cold, precise and ruthless — methodically breaks Kushida's defenses with bluff and psychology (we need to make the best of it), calculating that her self-destruction (revealing everyone's secrets) will eliminate the last resistance to her expulsion.
+[rel:karuizawa-kei] (p.186, 202) Kei furiously defends him against Kushida's expulsion proposal; Kushida later attacks him via Kei's jealousy (claiming he once pursued her).
+
+### y2v5 p.205–226 — Horikita saves Kushida; Airi's voluntary expulsion
+[scene] (p.211) Horikita unexpectedly defends Kushida — argues everyone has two sides, praises Kushida's talent for kindness (faking kindness — think how difficult it is to be kind), and refuses to let her be expelled, vowing to "make the most of her"; Kushida breaks down in tears.
+[says] (p.211) "I think I want to keep Kushida-san in this class."
+[says] (p.212) "It wasn't dumb, it wasn't funny, it was just plain ugly. I saw nothing but a mere foolish idiot." — Horikita to Kushida
+[trait] (p.205–226) Realizes Horikita's plan to save Kushida could throw away 350 class points; steps in to take the "cruel role" of choosing the expendable student himself — argues the lowest OAA student should go, identifies Airi (lowest at 36), lets Haruka volunteer to be expelled in Airi's place, then turns Airi herself against Haruka's sacrifice; Airi voluntarily offers herself and is expelled 38–0.
+[rel:sakura-airi] (p.219–229) He engineers Airi's expulsion (lowest OAA, fewest friends, self-sacrificing nature) to secure 100 class points; she accepts and leaves with a big smile, having revealed her new look (no glasses, styled hair) — a "brave" farewell.
+[rel:hasebe-haruka] (p.220–226) Haruka fights desperately to be expelled instead of Airi; Ayanokōji breaks her resolve by arguing self-sacrifice only enables future exploitation; she collapses, sobbing.
+[rel:horikita-suzune] (p.217–229) Horikita chose to protect Kushida; he takes on the "evil" role of cutting Airi so she needn't; afterward she apologizes and calls him out on acting unreasonably cruel.
+
+### y2v5 p.227–230 — Aftermath: Keisei's anger; Horikita's apology; Airi's goodbye
+[says] (p.227) "You're something else, aren't you? I'm not going to tell you that you did anything wrong. It's just that I'm still not sure if I can say you did the right thing." — Keisei
+[trait] (p.227–230) Accepts Keisei's unspoken condemnation and Horikita's apology; plays along with Horikita's accusation of unreasonable cruelty to hide his own pain (he was probably trying to suppress his painful feelings); watches Airi leave without looking back — the losers always look back on their inability and regret it when it is far too late, a fact he knows from the White Room and this school.
+[rel:ishigami-kyou] (p.227) Keisei walks away, unable to say he did right or wrong.
+[rel:nanase-tsubasa] (p.228) Warns her not to get desperate after her true nature is exposed (no one speaks to her).
+
+### y2v5 p.232–239 — Rooftop with Chabashira: her confession, his cold logic
+[scene] (p.232) Meets Chabashira on the rooftop stairs as promised; she leads the way to the roof, where she leans on the railing against the sunset and confesses the story of her own third-year special exam (a confession).
+[says] (p.232) "By the way, did it end the way you wanted it to? Or was it the other way around?"
+[says:chabashira-sae] (p.233) "there is no real right answer in that test. I believe that."
+[says] (p.236) "I mean, you can't choose to be leaderless."
+[says] (p.238) "There is no need for persuasion."
+[says] (p.238) "Wasn't there a way to save Sakura and blame the sacrifice on others?"
+[says] (p.238) "Didn't it hurt your... heart?"
+[says] (p.238) "People may call me a monster. No one wants to be the one who made the 'evil' choice. In the end, someone needs to make these decisions. It's the only way to succeed in this world."
+[trait] (p.232–239) Listens to her 11-year-old trauma (she refused to let the leader, friend, and lover she once had be expelled, costing the class 300 points and their dream of Class A), then analyzes her mistake with cold precision — her class could have cleared for 50 points rather than chase 100, but her lover's strategy was flawed; reveals he deliberately chose Airi (lowest OAA, few friends, self-sacrificing personality) and manipulated Haruka and Airi into accepting; admits he'd act the same again ("monster"), but Chabashira concludes she could never make such a decision "without hesitation."
+[rel:chabashira-sae] (p.232–239) Confides in him; they "make a deal with the past" — she resolves to graduate her class from Class A, "unlike before," having grown through the exam; he notes her mind has finally caught up to her current age.
+[rel:sakura-airi] (p.237–238) Discusses his choice of her for expulsion with Chabashira — he knew she had "special feelings" for him and used her personality.
+[rel:horikita-suzune] (p.237) Says Horikita "had the power to make change" but not enough time — she's the one who nearly saved Kushida.
 ## y2v6
 
 <!-- walk: y2v6 → start -->

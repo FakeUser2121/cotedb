@@ -129,3 +129,17 @@ char_id: ishigami-kyou · class: unknown · status: unknown
 [trait] (p.70–74) Adjusts his glasses, presses for hidden circumstances behind the transfer, and relays that Hasebe has been heartbroken and blaming herself; accepts Ayanokōji's departure.
 [rel:hasebe-haruka] (p.70–71) She's been troubled, blaming herself for the transfer.
 [rel:ayanokouji-kiyotaka] (p.70–74) Asks for the real reason; gets only the cold "Private Points" answer.
+
+## y2v5
+
+<!-- walk: y2v5 → start -->
+
+### y2v5 p.95, 100–103 — Keisei: rock-paper-scissors; the protection-point pitch
+[scene] (p.95) Volunteers for rock-paper-scissors to break the Q2 tie (Hokkaido vs Okinawa), loses in under ten seconds; later stands up to argue for protection points on Q3.
+[says] (p.100) "For the next six months, we're going to increase our class points."
+[says] (p.100) "Fifty for this special exam, and a hundred points if we place high in the cultural festival."
+[says] (p.100) "Can I assume that?"
+[says] (p.103) "I don't believe we can beat Class A without taking a risk. I've been fighting at this school for a year and a half myself."
+[trait] (p.95–103) Decisive and strategic — sacrifices himself in rock-paper-scissors for the class; reframes halved private points as an "upfront investment" (with +200–300 class points by semester's end, transfers rise ~50%; a protection point is worth ~7M private points), convincing the class to grant one to Horikita — Ayanokōji admires the logic.
+[rel:ayanokouji-kiyotaka] (p.100–103) His argument wins Ayanokōji's support despite his own preference for other options.
+[rel:horikita-suzune] (p.100–103) Argues for giving her a protection point ("protect our leader").

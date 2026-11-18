@@ -595,6 +595,17 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 
 <!-- walk: y2v5 Epilogue → p.243 -->
 
+### y2v5 p.127–138 — Kanzaki's principled one-vote stand
+[says] (p.128) "I can only believe that everyone is suffering from normality bias if they don't think it's abnormal that 39 opposing votes were gathered without any hesitation or doubt."
+[says] (p.130) "If the lower classes prioritize class points over a classmate, then we'll fall down to Class D in this special exam."
+[says] (p.130) "it's the process that I'm focusing on."
+[says] (p.131) "I'm sorry, but I'm... not going to let you be unanimous in your opposition to this choice."
+[says] (p.132) "Let's face it, Shibata. The situation is very different from last year. We're in a tight spot right now."
+[says] (p.134) "You can choose to agree with me and then expel me."
+[says] (p.134) "If you don't have the courage to take a step forward in this special exam, then you won't be able to move up to Class A."
+[trait] (p.127–138) The "general advisor" who quietly supported the class but can no longer endure its lack of crisis awareness — deliberately votes "for" repeatedly to force debate, names "normality bias," and offers himself for expulsion as the only way to shake the class; after hours of deadlock he finally gives up and chooses to protect his classmates, letting the vote become unanimous against.
+[rel:ichinose-honami] (p.131–132) Her refusal to weigh points against friends defeats him; he calls her class's kindness its "major disadvantage."
+[rel:hoshinomiya-chie] (p.127–135) His teacher — the only one who listened to his plea but couldn't sympathize publicly.
 ## y2v7
 
 <!-- walk: y2v7 → start -->

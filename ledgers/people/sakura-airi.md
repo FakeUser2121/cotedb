@@ -1118,6 +1118,18 @@ aliases used for anchors: sakura, airi, sakura-san
 
 <!-- walk: y2v5 Epilogue → p.243 -->
 
+### y2v5 p.219–229 — Sakura Airi's voluntary expulsion
+[says] (p.223) "If there is one student in the class who deserve it... maybe it's me."
+[says] (p.223) "You're right about everything. If someone has to drop out, then I, the biggest drag on the class, should disappear."
+[says] (p.225) "Vote in favour of me."
+[says] (p.225) "Thank you, Haruka... Thank you for all the help you've given me."
+[says] (p.229) "I really wanted to show you, Kiyotaka-kun, at the end. How about...?"
+[says] (p.229) "It's a bit... late to be brave, though... hehe."
+[says] (p.229) "Bye-bye, Kiyotaka-kun."
+[trait] (p.219–229) The lowest OAA student (36 overall), target chosen by Ayanokōji; initially refuses to accept Haruka's sacrifice, then realizes her friend's self-sacrifice would only burden her and volunteers herself — expelled 38–0; leaves with a smile, having removed her fake glasses and styled her hair (her new look), having finally wanted to show her "brave" self to Kiyotaka at the end; walks away without looking back, crying quietly.
+[rel:hasebe-haruka] (p.220–226) Her best friend fights desperately to be expelled in her place; Airi refuses, asking Haruka to vote "for" her instead.
+[rel:ayanokouji-kiyotaka] (p.219–229) He chose her as the expendable student; she thanks him and shows him her new look at the end — "Bye-bye, Kiyotaka-kun."
+[rel:horikita-suzune] (p.229) Passes her in the corridor; Horikita is speechless.
 ## y2v6
 
 <!-- walk: y2v6 → start -->
