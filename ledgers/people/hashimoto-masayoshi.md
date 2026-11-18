@@ -924,7 +924,7 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 
 <!-- walk: y2v9.5 → start -->
 
-### y2v9.5 p.80–81, 189–203 — Hashimoto: eavesdropping and probing Ayanokōji
+### y2v9.5 p.80–87, 189–203 — Hashimoto: eavesdropping and probing Ayanokōji
 [scene] (p.80–81) He tells Kamuro he eavesdropped on Class 2-D's discussion of Ayanokōji, concluding Horikita is not really the core of Class B and that Ayanokōji can make ruthless decisions.
 [says] (p.80) "Horikita isn't the core of Class B after all."
 [scene] (p.189–203) In the new-year group outing with Hiyori, Kamuro and Kitō, he teases Hiyori, tries to hit on her, then questions Ayanokōji about whether he will ditch Kei for her and whether he is Class B's "true leader," and proposes Class A headhunt him.
@@ -934,6 +934,11 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [rel:kamuro-masumi] (p.80–203) His partner in eavesdropping and the outing; she repeatedly rebukes him.
 [rel:ayanokouji-kiyotaka] (p.192–203) Probes his relationship and strength; proposes headhunting him to Class A.
 [rel:shiina-hiyori] (p.197–198) Hits on her; she is unfazed.
+
+[scene] (p.82–84) He insists Ryūen lost to Ayanokōji; that Ayanokōji undoubtedly knows he's being used; that Class A's fate rides on the third term's final exam; floats the class-change ticket option; notes 20M points cannot move either class.
+[scene] (p.85–87) Kamuro rejects his pessimism; he teases her with "if I break up with her, will you go out with me?"; she refuses; they agree to scout Ayanokōji together — she alone makes contact; she leaves cold.
+[rel:kamuro-masumi] (p.82–87) Agrees to the Ayanokōji probe; only she may contact him.
+[rel:sakayanagi-arisu] (p.84) Notices her asking about him; swallows the answer.
 
 <!-- walk: y2v9.5 Epilogue → p.203 -->
 
