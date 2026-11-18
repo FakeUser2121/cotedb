@@ -23,3 +23,10 @@ char_id: yanagi-yasuhisa · class: unknown · status: unknown
 [note] (p.85) He had a turn at table tennis in the third and fourth rounds; that probably lifted his mood.
 
 <!-- walk: y2v11 ch3 → p.99 -->
+
+### y2v11 p.107 — Ch.4: Invited to the morning bath
+[scene] (p.107) A shouted invitation drags him along to the morning bath.
+[note] (p.107) Hashimoto: “Yanagi, Kobayashi, Kozumi, let's go too!” — speaker tagged in the text (Hashimoto); he is bundled along with other first-years without being asked.
+[mentioned] (p.107) Named in the bath invitation; the actual bath and the conversation are not on these pages.
+
+<!-- walk: y2v11 ch4 → p.113 -->

@@ -257,6 +257,13 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 
 <!-- walk: y2v11 ch2 → p.84 -->
 
+### y2v11 p.111 — Ch.4: One of the only girls in Class A he interacts with
+[scene] (p.111) Sakayanagi's search for a Kamuro successor runs into the same two names.
+[note] (p.111) “The only girls in Class A that I interacted with were Yamamura and Morishita. Both of them had their strengths, but they weren't suitable for taking care of Sakayanagi.” — unattributed narration.
+[mentioned] (p.111) Named as one of the two Class A girls Kiyotaka knows; not present on these pages.
+
+<!-- walk: y2v11 ch4 → p.113 -->
+
 ### y2v11 p.135–142 — Ch.5: Watching from the corner
 [scene] (p.135) The girls'room; she watches the room; she refuses to play; Hiyori coaxes her in.
 [says] (p.137) “Um... I'll... watch.”
