@@ -171,9 +171,12 @@ char_id: onodera · class: Class 1-D · status: minor
 [note] (p.9) Passing mention (locator pages: p.132, p.148, p.188; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.132–188 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.132) Passing mention — Teruhiko,' Onodera Kayano'
+[mentioned] (p.148) Passing mention — Teruhiko, Onodera Kayano'
+[mentioned] (p.188) Passing mention — Karuizawa Kei,' Hasebe Haruka,' Onodera Kayano'
 
-
-
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

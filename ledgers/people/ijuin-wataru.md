@@ -39,9 +39,11 @@ char_id: ijuin-wataru · class: unknown · status: unknown
 [note] (p.9) Passing mention (locator pages: p.134, p.138; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.134–138 — Ch.6: Out in the eighth turn
+[mentioned] (p.134–138) Eliminated in the eighth turn; he was perfected early? no; the first half scoreboard shows his class at 28 points with four eliminated — Sotomura, Ijūin, Hondō.
+[note] (p.134–138) No dialogue attributed to him; he is only in the elimination list; the page does not give his last answer.
 
-
-
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -49,6 +51,3 @@ char_id: ijuin-wataru · class: unknown · status: unknown
 ### y2v12 p.10-228 — ijuin-wataru
 [scene] (p.12) Zero occurrences of this name in the volume text on a line-by-line read (pp.10-228); the p.120 locator hit is “Ijūin Kou” in the middle-guard-discussion participant list — a different Ijūin (roster ijuin-kou), not this student.
 [note] (p.12) The y2v12 roster listing for this character appears stale and is left unchanged (add only; never remove).
-
-
-

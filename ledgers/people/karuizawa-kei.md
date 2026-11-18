@@ -2055,9 +2055,155 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v10 Ch.2 → p.58 -->
 
+### y2v10 p.9–11 — Ch.1: Kei walks him to school
+[scene] (p.9) Last morning before the third term; winter crowds on the way to school; Kei wrapped his right arm in warmth and chatted on autopilot; on the first day back, arm in arm through the gate into the classroom.
+[says] (p.9) “What’s the matter, Kiyotaka? You’ve stopped.”
+[says] (p.9) “What? You were staring at my face.”
+[says] (p.9) “It’s not that I dislike it, but... Hmm, I want to kiss you again. A lot.”
+[says] (p.10) “Everyone, good morning~”
+[action] (p.9–10) Stuck to him from start to finish except the shoe-changing at the gate; waved and winked “see you later” leaving behind deep affection; went off to greet her friends.
+[trait] (p.9) Loves to chat; the daily life with her is at least free from boredom; her favorite lipstick before leaving; her moist lips caught his eye.
+[rel:ayanokouji-kiyotaka] (p.9–11) Arm in arm through the gates and to her friends; the public show he accepts because of Kei.
+
+### y2v10 p.16 — Ch.1: Watching the girls to the cafeteria
+[scene] (p.16) Lunchtime; Kei had already formed a group with the girls, Satō included, and was headed to the cafeteria; he watched her retreating figure from the corridor; the girls were neatly lined up in a row.
+
+### y2v10 p.29 — Ch.1: The TV and the untouched sketchbook
+[scene] (p.29) After 9 p.m., Kei returned home after coming over; the TV left on aired a variety show (five paintings, guess the real one); she loves watching TV and often leaves it on when the two of them are alone; he found himself not especially fond of variety shows.
+[note] (p.29) The sketchbook and colored pencils he bought with private points shortly after enrolling sat untouched in the second drawer; Kei's puzzled look when she discovered them is recalled here; his inability to decide what to draw is the page's quiet beat.
 
 
+### y2v10 p.51–59 — Ch.2: The shop detour; the bench; the handshake
+[scene] (p.51) School ended; they stopped by Keyaki Mall though unplanned; she requested the detour; she is gloomier than usual; in the mall she finally breaks — fears being targeted and losing it.
+[says] (p.51) “Ah... well...”
+[says] (p.51) “Hey, hey, Kiyotaka. What will happen to me in this exam…? If I continue to be targeted, I think it’s absolutely impossible to keep answering correctly... Can you protect me?”
+[says] (p.51) “It would be better if you’re the leader... then I would definitely be protected...”
+[says] (p.51) “Th-that’s right. I’m Kiyotaka’s girlfriend. Horikita-san won’t choose me easily.”
+[says] (p.52) “...Exactly.”
+[scene] (p.53) Outside, still mid-January; a girl lies on a bench with her eyes closed; Kei is unsure if she's dead; she is not.
+[says] (p.53) “No, she’s not.”
+[says] (p.53) “Eh, do you know each other?”
+[scene] (p.55) Kei cross-exams him like a teacher; her arms folded; her gaze prying; she is both jealous-mischievous and genuinely suspicious.
+[says] (p.55) “You sure know many girls from other classes”
+[note] (p.54–55) The printed line ending in Kiyotaka-kun? splits across the page boundary, with the tail kun? orphaned at the top of page 55 before the line's beginning — kept as printed; only the contiguous interior fragment is quoted.
+[says] (p.55) “It doesn’t matter who talks first. The fact that the conversation took place is the problem.”
+[says] (p.55) “Eh, me?”
+[says] (p.55) “Curious? What do you mean?”
+[says] (p.55) “What? What’s this?”
+[says] (p.56) “Wait, wait, aren’t you saying something rude?”
+[says] (p.56) “...What do you mean by casual?”
+[says] (p.56) “That’s... That’s just my choice.”
+[says] (p.56) “Well, um, maybe because I was cute?”
+[says] (p.56) “What’s up with you…”
+[scene] (p.56–57) Morishita strokes her cheek with an index finger; she orders her hands off; flustered when Morishita bows deeply and smoothly continues.
+[says] (p.56) “Don’t touch me without permission.”
+[says] (p.57) “You don’t have to apologize that much, I understand.”
+[says] (p.57) “Eh? Well… that’s fine, but it doesn’t sit well with me?”
+[says] (p.58) “Uh, you’re welcome.”
+[says] (p.58) “Huh, wait… We just finished talking, and you want to talk more? Can’t you read the room…?”
+[says] (p.58) “No, no, no, we’re not exchanging anything! Right?”
+[says] (p.59) “Wait a minute!”
+[says] (p.59) “Ugh~ Kiyotaka, that side of you is kind of cute, I can’t get mad at you!”
+[note] (p.58) Morishita only has a few people registered on her chat app; Kei and Kiyotaka end up exchanging contact info against her better judgment; she calls his willingness "cute".
+[rel:ayanokouji-kiyotaka] (p.51–59) Her anchor; the exam shakes her; he triages her anxiety with numbers; together they get folded into Morishita's orbit.
+[rel:morishita-ai] (p.53–59) Cross-examined Kei about Hirata, her makeup, her "casual" charm; flusters her; forces the contact exchange.
 
+<!-- walk: y2v10 Ch.2 → p.59 -->
+
+### y2v10 p.60, 69–70 — Ch.3: Kei, mentioned around the errands
+[mentioned] (p.60) Passing mention: Kei had already made plans to hang out with friends until late this weekend, so she was already gone.
+[mentioned] (p.69) Passing mention: "I have a date with Kei tomorrow morning" — the Saturday date; adjusted rather than cancelled.
+[mentioned] (p.70) Passing mention: "Kei, who had stealthily stayed over in my room Friday night and spent the early hours of the morning with me, was fast asleep."
+[note] (p.69) The page does not print whether the morning-after date ever happened; only the adjustment plan.
+
+<!-- walk: y2v10 Ch.3 → p.80 -->
+
+### y2v10 p.88, 98 — Ch.4: Karuizawa, named over the karaoke exit
+[mentioned] (p.88) Passing mention: Horikita jokes — "Unless it’s about trouble with Karuizawa-san, in which case I’d like to decline." — the exam-eve nickname stands for the known relationship drama.
+[mentioned] (p.98) Passing mention: "you started dating Karuizawasan, you started to help the class knowing that it’d make you stand out." — Horikita's read-back of AK's arc.
+
+
+### y2v10 p.106–109 — Ch.5: Her morning, her guests
+[scene] (p.106) A day off with AK at Keyaki Mall; his phone rings mid-morning with Kanzaki; she waves it away; they head back to the dorm; at the fourth floor they part ways — she had plans with friends, not interest in the awkward visit.
+[says] (p.106) “What’s up with Kanzaki-kun and Watanabe-kun?”
+[says] (p.106) “That’s fine, but are you close to those two, Kiyotaka?”
+[says] (p.106) “Oh, you’re making more and more friends, I see.”
+[note] (p.106) The pages don't narrate her further movements that day; she was not present for the room visit.
+[note] (p.106) Her tearlessness reads as composure; her jealousy registers as mild curiosity rather than anger.
+[rel:ayanokouji-kiyotaka] (p.106–109) She's his anchor; the flip side: he protects her from the details.
+[rel:kanzaki-ryuuji] (p.106) She sizes him instantly; friendly but measuring.
+[rel:watanabe-norihito] (p.106) The school-trip group member AK mentioned.
+
+
+### y2v10 p.164–170, 183, 185–188 — Ch.6: The long nomination
+[scene] (p.165) She is nominated alongside AK in turn 11's Sports D1; her first mistake — the Infield Fly; she leaves the tablet convinced she has let the class down.
+[says] (p.166) “I’m not being targeted, am I!?”
+[scene] (p.166) She springs to her feet; her voice rises; she cannot hide that she suspects she is being targeted.
+[scene] (p.167) Turn 12, last leg — the tapiru question; she answers correctly; she gets a second wind; she watches AK freeze on it.
+[scene] (p.170) Turn 13 — she is nominated for the third time in a row; Horikita finally protects her; her complexion is off.
+[scene] (p.171) Turn 14 — she is nominated for the fourth time in a row — a new exam record; Horikita protects her again; Satō watches with concern.
+[scene] (p.183) She is still the target — every second-half turn nominates her; ten nominations total; Horikita never lets her go.
+[says] (p.187) “Stop it… What is this…?”
+[says] (p.188) “Why are you only targeting me… That’s not fair…”
+[scene] (p.188) Turns 15–20: the carousel never stops; she survives every onslaught; the class watches her with horror and pride.
+[voice] (p.166) Hyperventilating at any hint of personal attention; her pride gets her through; she cannot hide her feelings.
+[limit] (p.188) She cannot escape the target carousel; Horikita is her only armor.
+[rel:horikita-suzune] (p.164–188) The shield she never asked for; the leader keeps her alive turn after turn.
+[rel:ichinose-honami] (p.164–188) The relentless attacker who never tires of her name.
+[rel:satou-maya] (p.170, 187) Her anchor in the storm; Satō worries aloud; she is the compassionate one.
+
+
+### y2v10 p.110–115 — Ch.5: passing mentions (locator cross-check)
+[mentioned] (p.110) Passing mention — As I had not yet contacted Kei, it was unlikely anyone would be visiting
+[mentioned] (p.111) Passing mention — If she had forced her way to visit, patching things up with Kei would be
+[mentioned] (p.114) Passing mention (see p.114).
+[mentioned] (p.115) Passing mention — the people in his situation could be replaced with myself, Kei, and Ichinose.
+
+<!-- walk: y2v10 Ch.5 → p.122 -->
+
+### y2v10 p.143–155 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.143) Passing mention — Well, I might as well. Kei is probably having a staring contest with her
+[mentioned] (p.155) Passing mention — classrooms, glued to their phones just like Kei.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.17–17 — Ch.1: passing mentions (locator cross-check)
+[mentioned] (p.17) Passing mention — Today, since Kei isn't around, there wasn't a problem hanging out with
+
+<!-- walk: y2v10 Ch.1 → p.30 -->
+
+### y2v10 p.199–201 — Ch.7: The burst-in apology; Kei receives it
+[scene] (p.199) Ichinose bursts into the Class B room right after the exam is officially declared over; the monitor shows the final results (Class D 69, Class C 62, Class B 59, Class A 53); Satō slips in front of Kei protectively; Horikita rises from the back row.
+[says:ichinose-honami] (p.199) “Sorry, Karuizawa-san!” — the name anchor is on-page (“… stiffened at Ichinose’s appearance”).
+[note] (p.199) “Eh, Ichinose-san...!?” — untagged in the print; Kei stiffened at the entrance, but no name is attached to this line; none assigned.
+[says:horikita-suzune] (p.199) “Calm down, Karuizawa-san. Those mysterious consecutive nominations were Ichinose-san trying to throw us a lifeline.” — Horikita stood up from the very back row just before this line; the name anchor is on-page.
+[note] (p.199) The page prints that Ichinose apologized while agreeing with Horikita’s words.
+[note] (p.199) “Eh? What, what does that mean…?” — untagged in the print; none assigned.
+[note] (p.199) “She was trying, in her own way, to give us points. Right?” — untagged in the print; none assigned.
+[note] (p.199) Ichinose explains — she had considered contacting Kei through text or by call, but saying so directly wasn’t natural (“unnatural to say that we would be giving your points”), so the class sent the message through consecutive nominations; Horikita-san got suspicious and contacted her, not the other way around — the direction of the contact is the important part.
+[scene] (p.200) Kei processes — the year’s most embarrassing run of nominations was a kindness she’d been waiting to despise.
+[note] (p.200) “Why would they... Why would they need to do that…?” — untagged; none assigned.
+[note] (p.200) “To defeat Class A, probably. Essentially, every class in second place and below was able to fight so that no one would lose.” — untagged; none assigned.
+[note] (p.200) “Yes, our only option was to face Sakayanagi-san head-on. That’s what we call a godsend.” — untagged; none assigned.
+[note] (p.200) “If it wasn’t for Ichinose’s support, the six-point difference might’ve been a setback.” — free indirect narration; no speaker tag.
+[rel:ichinose-honami] (p.199–200) The source of Kei’s private hell was, to Ichinose, a gift; Kei has to survive ten nominations to receive it.
+[rel:satou-maya] (p.199) First shield on the scene, wordless.
+[rel:horikita-suzune] (p.199–200) The anchor of the room; Kei trusts her reading of the nomination strategy.
+
+<!-- walk: y2v10 Ch.7 → p.216 -->
+
+### y2v10 p.224–224 — Epilogue: passing mentions (locator cross-check)
+[mentioned] (p.224) Passing mention — About Karuizawa Kei.
+
+### y2v10 p.227–227 — SS/Credits: passing mentions (locator cross-check)
+[mentioned] (p.227) Passing mention — I responded to Karuizawa Kei's accurate answer.
+
+<!-- walk: y2v10 Epilogue → p.235 -->
+
+### y2v10 p.99–99 — Ch.4: passing mentions (locator cross-check)
+[mentioned] (p.99) Passing mention — Not in front of Kei, nor in front of a friend like Yōsuke.
+
+<!-- walk: y2v10 Ch.4 → p.100 -->
 ## y2v10.25
 
 <!-- walk: y2v10.25 → start -->

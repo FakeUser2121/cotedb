@@ -123,9 +123,10 @@ char_id: yoshida-kenta · class: unknown · status: unknown
 [note] (p.9) Passing mention (locator pages: p.212; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.212–212 — Ch.7: passing mentions (locator cross-check)
+[mentioned] (p.212) Passing mention (see p.212).
 
-
-
+<!-- walk: y2v10 Ch.7 → p.216 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

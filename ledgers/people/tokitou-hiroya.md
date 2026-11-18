@@ -94,9 +94,18 @@ char_id: tokitou-hiroya · class: unknown · status: unknown
 [note] (p.9) Passing mention (locator pages: p.164, p.175; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.175–176 — Ch.6: The defended five
+[mentioned] (p.175) Named by Ryūen in the protection declaration; he is Tokitō Hiroya — the one who called out Ryūen's "fool" team-gaming; he had made two mistakes already.
+[says] (p.175) “Don’t joke around. It’s not just the class’s problem. Ryūen, you must understand that it’s hard for other classes to get perfect scores too. As a leader, you should use your wisdom to protect as many people as possible.”
+[mentioned] (p.175) Protected in the same breath as Katsuragi, Shiina, Nomura and Ibuki; the perfect protection streak begins with him.
+[note] (p.176) He was the one most at risk of being expelled — Ryūen defused his own threat by protecting him and keeping him alive.
 
+### y2v10 p.164–175 — Ch.6: The perfect-protection anchor
+[mentioned] (p.164) “Tokitō Hiroya” is one of the five names in Sakayanagi’s attack line on Ryūen’s class — Katsuragi, Shiina, Tokitō, Nomura, Ibuki; all five protected again; he was one of the answerers.
+[mentioned] (p.175) He is one of the five who didn’t flinch — the fourth consecutive perfect result in the turns 11–14 stretch; the exam’s turning point belongs to these five.
+[rel:ryuuen-kakeru] (p.164–175) One of the five perfect-protection members of Ryūen’s class; the price of that safety is the note Hiyori found impossible to celebrate.
 
-
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

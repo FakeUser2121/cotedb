@@ -1030,6 +1030,23 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [note] (p.9) Passing mention (locator pages: p.15, p.132, p.141, p.148; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.15 — Ch.1: Yukimura's choice, referenced
+[mentioned] (p.15) Passing mention: an untagged classmate says “Considering efficiency, Yukimura-kun’s choice might be correct. But I think it’s also important to aim for the job you want.” — his choice is praised as the efficiency case; its content is not detailed on the page.
+[note] (p.15) Speaker of that line is unattributed; Yukimura himself does not speak on these pages; his choice's content left empty rather than guessed.
+
+<!-- walk: y2v10 Ch.1 → p.30 -->
+
+### y2v10 p.132, 141–142, 150 — Ch.6: The name printed twice
+[mentioned] (p.132) Named — turn 2 nominee with Kōenji, Hasebe, Hirata and Onodera; the four remaining answer the question.
+[mentioned] (p.141) Named — during the corridor talk Horikita references his knowing laughter at the Gourmet Food question.
+[mentioned] (p.142) Named — “there was no point in aiming for Keisei, who could potentially be protected” — the translation prints Keisei for him here.
+[note] (p.132) The page prints the name "Yukimura Teruhiko"; the surrounding analysis calls the same classmate "Keisei" — this translation uses both names for him on these pages.
+[note] (p.5448, 5451) The same identification confusion; treat the two roster rows as unresolved.
+
+### y2v10 p.148–148 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.148) Passing mention — 'Kōenji Rokusuke,' Hasebe Haruka,' Hirata Yōsuke,' Yukimura
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

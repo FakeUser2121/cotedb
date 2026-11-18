@@ -792,6 +792,36 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [note] (p.9) Passing mention (locator pages: p.106-109, p.112, p.118; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.106–109 — Ch.5: The visit with Watanabe in tow
+[scene] (p.106) He calls ahead to set up the visit — Watanabe in tow, unannounced as company; the room is strongly feminine; Kei leaves with a friendly smile.
+[says] (p.106) “Where are you right now? I went straight to your room, but it seems you haven’t returned yet.”
+[says] (p.106) “Could you spare some time to talk? Watanabe and I will be there. Is that alright with you?”
+[says] (p.106) “Ok. Can I wait in front of your room?”
+[says] (p.106) “Sorry for the sudden visit. Were you planning to spend time together later?”
+[scene] (p.107) He asks for permission to invite two more — Ichinose and Amikura; the combination confuses AK; he suspects Watanabe knew all along.
+[says] (p.107) “I was told to keep it quiet since they didn’t know if they’d be able to go, but when I mentioned meeting up with you, they responded saying they could come. Sorry for the sudden addition, but can I invite two more people?”
+[says] (p.107) “Is that so? Guess I’ll have to prepare with that in mind. Who’s coming?”
+[says] (p.107) “Ichinose and Amikura.”
+[says] (p.107) “The class strategy regarding the upcoming special exam is settled, and Ichinose said she wanted to confirm some final checks with you. It might not be beneficial for you though.”
+[says] (p.107) “For Watanabe, it was completely coincidental. I bumped into him on the way to your place.”
+[scene] (p.108) He intervenes before Ichinose opens — firm opposition to anything resembling a tie-break collusion; his stated reason, presented honestly.
+[says] (p.108) “Hold on. Before you talk to Ayanokōji, there’s something I would like to ask first.”
+[says] (p.108) “If you want to collaborate or something like that, I’ll firmly oppose it.”
+[says] (p.108) “To be blunt, yes, that’s exactly it.”
+[says] (p.108) “Even if I were to express my opinion against colluding, if you approved of it, Ichinose, the majority of the class would concur. I didn’t want to let that happen. If behind-the-scenes discussions were happening without me knowing, I wouldn’t be able to do anything. However, if a discussion took place in front of me, I’d be able to speak against it.”
+[says] (p.108) “Normally, yes. But considering it’s Ichinose, I wouldn’t be surprised if she was still contemplating until the very end to avoid risking anyone’s expulsion. She might change her decision last minute to protect her classmates.”
+[says] (p.108) “Nevertheless... If we lose the chance to rise—”
+[scene] (p.109) Ichinose defuses him; he takes the warning gracefully; he relaxes enough to note AK's closeness to him with genuine surprise.
+[says] (p.109) “Nevermind me, let’s get on with the conversation.”
+[says] (p.109) “Really?”
+[says] (p.109) “That’s a relief. I’m sorry for abruptly interrupting you. I’m terrible at conversations. I always cause trouble.”
+[note] (p.107) His reformist drive is aimed at the class, not at Ayanokōji; he's a genuine reformer; Ichinose dances at the center of his strategy.
+[rel:ayanokouji-kiyotaka] (p.106–109) The blunt collusion alarm; the visit's real purpose; respect disguised as warning.
+[rel:ichinose-honami] (p.108–109) He draws his line in the sand; she ignores it with a smile.
+[rel:watanabe-norihito] (p.106–107) The accidental plus-one; his presence is engineered by Ichinose.
+[rel:amikura-mako] (p.107–109) The extra seat; watches the proceedings; no loyalty to either faction.
+
+<!-- walk: y2v10 Ch.5 → p.122 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

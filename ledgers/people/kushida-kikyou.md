@@ -2154,12 +2154,69 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y2v10 Ch.2 → p.50 -->
 
+### y2v10 p.16–27 — Ch.1: The corridor, the line of girls, the bento verdict
+[scene] (p.16) Kei and the girls head to the cafeteria; AK and Horikita exchange words about girls walking side by side; Kushida turns up behind them and trades barbs with Horikita.
+[says] (p.16) “That’s a harsh question to ask Horikita-san. She doesn’t have enough friends to form a line.”
+[scene] (p.17) Joins the lunch trap with Horikita and AK; switches from battle mode to angel mode.
+[says] (p.17) “Yeah, I’m good to go.”
+[scene] (p.19) Grabbed AK's arm at the crossroads to keep him from escaping; delivers the biologically-classified-as-a-girl line.
+[says] (p.19) “You’re lucky. You get to eat homemade food by someone biologically classified as a girl.”
+[says] (p.19) “Well, yeah. Even I have something in this, you know.”
+[says] (p.19) “...I just wanted to see Ibuki fail and apologize for it.”
+[says] (p.20) “I can tell she’s going to fail and bring us a nasty lunch box, isn’t she?”
+[says] (p.20) “I see... So now I have to eat the failed dish, huh?”
+[says] (p.20) “You seem confident, maybe a miracle occurred and you actually cooked well?”
+[scene] (p.22) Monotone "lovely memory" speech; tongue-click anticipation; enlightened hand-off to AK.
+[says] (p.22) “This is the first time I’m not looking forward to tasting something~ Such a lovely memory~”
+[says] (p.22) “How is it?”
+[says] (p.22) “Tsk, you’re too strict.”
+[says] (p.22) “Ahh… I see. Here you go, Ayanokōji-kun.”
+[note] (p.22) The tongue-click lines and the "Here you go" hand-off carry no explicit dialogue tag; the surrounding narration names Kushida ("Kushida said in a monotone voice"; "After finishing eating in silence, Kushida asked her"; "there was Kushida’s intense tongue clicking"; "From Kushida’s enlightened face, the baton of gross food was passed to me") — attribution rests on that adjacent narration, not on name tags inside the quotation lines.
+[says] (p.23) “I don’t want to eat anymore. So this is what it means to waste a meal.”
+[note] (p.23–24) Preceded by Horikita's salt/chopping verdict; the page then calls Ibuki's retort a response "to Kushida’s caustic comment" — attributing the waste-a-meal line to Kushida.
+[says] (p.25) “Ahahaha, that’s true. Not just your mentality, your physical growth seems stagnant too.”
+[says] (p.26) “Then I’ll bother you at seven o’clock too.”
+[says] (p.26) “That’s fine. I want to save as many private points as possible. And a meal paid for with your money isn’t bad. I’ll enjoy eating it.”
+[says] (p.26) “I’m far from having enough. I was supposed to receive money from someone every month, but unexpectedly, plans have changed.”
+[voice] (p.17) Angel/devil alternation; shameless about free meals; strategic appetite for Horikita's misery.
+[trait] (p.18) Drops by Horikita's room hoping a fight will break out; that's how she knew about Ibuki's imbalanced meals.
+[rel:horikita-suzune] (p.16–27) Entangled in the Ibuki bento gauntlet; free meals; enjoys inflicting damage.
+[rel:ibuki-mio] (p.19–26) Prods and needles her; wants to see Ibuki fail and apologize; Ibuki swings back.
+[rel:ayanokouji-kiyotaka] (p.18–27) Hands him her share of the tasting verdict; watches his fate with amusement.
 
+<!-- walk: y2v10 Ch.1 → p.30 -->
 
+### y2v10 p.44, 47–48 — Ch.2: Kushida, the unspoken exhibit
+[mentioned] (p.44) Passing mention: "even excellent students like Yōsuke and Kushida would buckle if they were continuously bombarded with questions".
+[mentioned] (p.47) Passing mention: Maezono invokes "Horikita-san changed her opinion due to the flow of Kushida-san’s expulsion" — the unanimous-vote episode is the room's shared reference.
+[scene] (p.48) When her name comes up, her smile is still on; the page notes it "had more chances to take off her mask lately" but she was smiling in the room — "But whether that smile was warm or not was another matter…"
+[note] (p.48) She does not speak on these pages; her presence is social pressure embodied.
 
+<!-- walk: y2v10 Ch.2 → p.59 -->
 
+### y2v10 p.60 — Ch.3: The Kushida revelation, retold
+[mentioned] (p.60) Passing mention: "after Kushida revealed in the unanimous voting exam that Mii-chan had a crush on Hirata" — the reveal is referenced, not re-narrated; what happened after the reveal on these pages is unknown.
 
+<!-- walk: y2v10 Ch.3 → p.80 -->
 
+### y2v10 p.168–171 — Ch.6: The rare information network
+[scene] (p.168) The turn-13 attack stalls — “Why not choose Satonaka?” A bored student simply murmurs; this is Kushida, who hadn’t been selected once during the special exam and had too much free time; Horikita doesn’t even ask why — Satonaka isn’t protected; he answers incorrectly.
+[says:kushida-kikyou] (p.168) “Why not choose Satonaka?”
+[says:horikita-suzune] (p.168) “Thank you, Kushida-san. Then, Sensei, I would like the last person to be Satonaka-kun.”
+[says:horikita-suzune] (p.168) “Where did you find out that Satonaka has trouble with kanji?”
+[scene] (p.170) Horikita thanks her without pressing; Makida claps, admiring her.
+[says:kushida-kikyou] (p.170) “That kind of information comes from everywhere.”
+[says:kushida-kikyou] (p.170) “Not really.”
+[trait] (p.170) The rare information network — a wide circle of friends, exceptional memory for opponents’ weaknesses; she wasn’t showing all her cards, but the pages say she had fed Horikita lots of information in advance.
+[note] (p.170) Her position in the class wasn’t illustrious, so visibly contributing wasn’t a bad thing; the narration treats her as a genuinely reassuring presence.
+[scene] (p.171) Turn 14 — Kei’s nomination comes again; Horikita weighs protecting her; Kushida counsels the hesitant leader.
+[says:kushida-kikyou] (p.171) “What about trying to protect her once more? I think she might be aiming for it.”
+[note] (p.171) The answer back to her — “Do you think so from the flow so far?” — is printed without a name; none assigned.
+[says:kushida-kikyou] (p.171) “Not really. I just judged it based on what I’ve seen of Ichinose-san up until now.”
+[rel:horikita-suzune] (p.168–171) Her supply line for target intelligence; Horikita wields her without auditing the source — the trust is total and it works.
+[note] (p.170) Makida’s admiration (he clapped) belongs to her read on Satonaka, not to anyone else in the scene.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

@@ -326,6 +326,14 @@ aliases used for anchors: sakagami, sakagami-sensei
 [note] (p.9) Passing mention (locator pages: p.124, p.126-127, p.132, p.163; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.124–163 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.124) Passing mention — Shortly after, Sakagami-sensei, Ryūen's homeroom teacher, appeared in the
+[mentioned] (p.126) Passing mention — Sakagami-sensei signaled to start the special exam.
+[mentioned] (p.127) Passing mention — Following Horikita's instructions, Sakagami-sensei immediately reflected
+[mentioned] (p.132) Passing mention — Sakagami-sensei the names of her five protected members.
+[mentioned] (p.163) Passing mention — In a few minutes, Sakagami-sensei would signal the beginning of the 11th
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

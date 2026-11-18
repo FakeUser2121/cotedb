@@ -107,3 +107,9 @@ char_id: matoba-shinji · class: Class 1-A (enrolled April 2015) · status: mino
 [scene] (p.9) Named in this volume.
 [note] (p.9) Passing mention (locator pages: p.146; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
+
+### y2v10 p.146 — Ch.6: The named cluster
+[mentioned] (p.146) Named — he is part of the cluster of students Ryūen keeps targeting; his name surfaces in the attack list Hashimoto overhears.
+[note] (p.146) The page lists his name alongside Kitō, Kamuro, Hashimoto, Yamamura, Machida and Sanada; no dialogue attributed to him on these pages.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->

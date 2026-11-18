@@ -297,9 +297,11 @@ char_id: sotomura-hideo · class: Class 1-D (enrolled April 2015) · status: min
 [note] (p.9) Passing mention (locator pages: p.136, p.138; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.134–138 — Ch.6: Out in the eighth turn
+[mentioned] (p.134–138) Eliminated in the eighth turn alongside Ijūin; the scoreboard lists his class at 28 points with four eliminated — Sotomura, Ijūin, Hondō.
+[note] (p.134–138) No dialogue attributed to him; he is only in the monitor's elimination list; the page does not give his last answer.
 
-
-
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

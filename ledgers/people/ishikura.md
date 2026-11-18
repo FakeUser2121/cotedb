@@ -119,6 +119,15 @@ char_id: ishikura · class: Class 1-D · status: minor
 [note] (p.9) Passing mention (locator pages: p.130-131, p.166; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.130 — Ch.6: The name on the monitor
+[mentioned] (p.130) Passing mention: the monitor's list names "Ishikura Kayoko" — the strongest math student in the class; the other three answering the Arithmetic D1 — Ishikura, Kikuchi and Inogashira — two of them miss it.
+[note] (p.130) The text refers to her only as "Ishikura" after the first mention; whether this roster entry and ishikura-kayoko are the same individual has not been established on the page; do not merge without evidence.
+
+### y2v10 p.131–166 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.131) Passing mention — The other two, excluding Ishikura, missed the answer and returned to their
+[mentioned] (p.166) Passing mention — Ishikura Kayoko,' Sudō Ken'
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

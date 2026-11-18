@@ -1834,3 +1834,6 @@ hash: `6bea783884c7cb8573db97157f0b718a`.
 | y2v4.5 depth pass | 290 | 199 sections; coverage gate run (81 locator rows; d610f50... fresh-build hash) | docs/ restored to committed state; parent rebuilds at merge |
 | y2v4.5 depth pass (verifier close-out) | 290 | verify y2v4.5 ALL PASS (513 says + 267 non-says); fresh-build hash c86a4219093d2ca33750a5fa02ad988a | docs/ restored |
 | y2v4.5 depth pass final | 290 | 215 sections | docs/ restored to committed; parent rebuilds at merge |
+| y2v10 Prologue+Ch.1 (pp.4-30) | 30 | verify ALL PASS (replica) | pending |
+| y2v10 Ch.6–Epilogue batch (this session) | 226 (Ch.6 66pp + Ch.7 28pp + Epilogue+SS 19pp) | 273 person sections; volume ledger rewritten (Ch.6/Ch.7/Epilogue + 4 SSs); make check/gate OK; R19 80≤baseline; R18 0; docs restored | 1592 | ba6f1ebcb64b8a61f1c3d2b0d2d9dca6 |
+| y2v10 coverage gate + DONE | 235 | 84 roster characters gated; ~116 mention anchors added; verify replica ALL PASS (1612); gate/check OK; R19 80≤baseline; DONE stamp | 1612 | 9cf06c99d80350f98b770751cd7b6efd |

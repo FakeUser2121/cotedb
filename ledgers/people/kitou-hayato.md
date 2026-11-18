@@ -337,9 +337,49 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 [note] (p.9) Passing mention (locator pages: p.101, p.103, p.136, p.146, p.148, p.150-151; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.101, 103 — Ch.5: The policy text to Hashimoto
+[scene] (p.101) His message reaches Hashimoto just before the exam —Sakayanagi has decided on something; he also coasts behind her at the café.
+[says] (p.101) “It seems that the princess has finally decided on a policy.”
+[scene] (p.103) The vibrant café; he trails behind Sakayanagi; he stays in the background of the "tea party"; doesn't ask for the plan.
+[note] (p.101) His tipping-off is the first sign that Sakayanagi is always three steps ahead of Class A's guards.
+[rel:sakayanagi-arisu] (p.101, 103) Quiet executor; the intel delivery service.
+[rel:hashimoto-masayoshi] (p.101) The recipient of the message; his paranoia is a feature, not a bug.
+[rel:kamuro-masumi] (p.103) Fellow orbit; same deal.
 
+<!-- walk: y2v10 Ch.5 → p.122 -->
 
+### y2v10 p.146, 156–157, 161 — Ch.6: The food-runner
+[scene] (p.146) Listed among the six Sakayanagi is watching — he's one of the protected five? no; he's one of the Class A members who received Ryūen's attention.
+[scene] (p.154) Buys Sakayanagi's lunch; the trays in hand; the entrance-hall camaraderie; he shields her from everything.
+[scene] (p.156) He stands up with controlled hostility when Ryūen crashes the table; Sakayanagi defuses him with a word; he sits back down.
+[says] (p.156) “Get lost.”
+[scene] (p.157) The wolf taunt is over; he disappears into the background; his purpose is clear — he protects her at all costs.
+[note] (p.156) "Kitō-kun" — the diminutive from Sakayanagi; he's her right-hand man.
 
+### y2v10 p.148–160 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.148) Passing mention — on so soon. Sensing a change from his usual cheerful demeanor, Kitō slowly pulled
+[mentioned] (p.150) Passing mention — Having understood those words, Kitō muttered so.
+[mentioned] (p.151) Passing mention — Rather than thinking negatively, Kitō advised that they should target Kōenji
+[mentioned] (p.155) Passing mention — Masumi-san and Kitō-kun are buying lunch for me now. They should arrive
+[mentioned] (p.158) Passing mention — of about eight people, centering on the students supporting Sakayanagi, like Kitō,
+[mentioned] (p.160) Passing mention — instead, only push key players like Kamuro or Yamamura, as well as Kitō or
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.192–212 — Ch.7: passing mentions (locator cross-check)
+[mentioned] (p.192) Passing mention — Kitō and Hashimoto immediately rose.
+[mentioned] (p.212) Passing mention — If she showed signs of whispering to Kamuro or Kitō, Hashimoto would
+
+<!-- walk: y2v10 Ch.7 → p.216 -->
+
+### y2v10 p.217–223 — Epilogue: passing mentions (locator cross-check)
+[mentioned] (p.217) Passing mention — Kitō told me when I went to check on Class A.
+[mentioned] (p.223) Passing mention — Kitō-kun were the same. They were close to me, but only to be used as tools.
+
+### y2v10 p.232–232 — SS/Credits: passing mentions (locator cross-check)
+[mentioned] (p.232) Passing mention — Kitō-kun were the same. They were close to me, but only to be used as tools.
+
+<!-- walk: y2v10 Epilogue → p.235 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

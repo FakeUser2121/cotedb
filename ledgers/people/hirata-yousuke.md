@@ -2039,12 +2039,89 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y2v10 Ch.2 → p.50 -->
 
+### y2v10 p.14–15 — Ch.1: Yōsuke's university plan
+[scene] (p.14) After Chabashira-sensei left the room, the class was engrossed in the student-teacher conference and careers; the girls surrounding him started the conversation; he has a clear plan.
+[says] (p.14) “I’m planning to go to university, irrespective of the Class A privileges. My parents have told me from a young age that that’s what they want.”
+[says] (p.14) “Haha, not quite. Even if I do use the Class A privileges to forcibly become a professional, if my skills don’t match, it’s clear that I’d be let go soon. Even if I go to university, I’m planning to continue playing soccer, but only as a hobby.”
+[goal] (p.14–15) University, based on natural aptitude; soccer stays a hobby; driven by his parents' wish, not by privileges.
+[voice] (p.14) Humble, practical; doesn’t overrate his own sporting aptitude; consistent with his studies and stated ability.
+
+<!-- walk: y2v10 Ch.1 → p.30 -->
+
+### y2v10 p.43, 45–50 — Ch.2: Yōsuke shepherds the room
+[scene] (p.43) After Chabashira-sensei leaves, he takes the lead to calm the class with a recap of the exam's main points.
+[says] (p.43) “Since we have limited time, let’s recap the main points of the special exam’s contents for now.”
+[says] (p.43) “The areas of concern for this special exam are that it’s difficult to imagine placing last without an expulsion. Inevitably, there will be an expulsion from the class in last place. And while the odds are low, if a tie for last place occurs, multiple classes might have expulsions.”
+[says] (p.43) “Be careful that the eliminations won’t only consist of students with lower abilities. It’s natural for other classes to want to force capable students to be eliminated, looking at the future. If the class misjudges who to protect, even competent students could be at risk.”
+[scene] (p.45) Opens the discussion by asking Horikita in front of everyone; the class likely wanted exactly this question.
+[says] (p.45) “Horikita-san, I have one question before we begin our official discussion. If we ask you to take on the role of the leader in this special exam, would you accept?”
+[scene] (p.46) After ~30 seconds of silence, he nods — "the correct answer" — and tries to settle the decision early.
+[says] (p.46) “I guess that’s the correct answer. To be honest, I don’t think the leader’s exemption from elimination or expulsion is a great benefit. If there’s no other student who can take on such an important responsibility for the class, I would really like to leave it to you, Horikita-san. What do you think?”
+[scene] (p.46–47) Momentarily stiffens when Maezono stops the decision; quickly regains composure, keeps his smile; stays steady when the room gets nervous.
+[says] (p.47) “Surely, as you said, it would be best if the person who would give us the highest chance of winning becomes leader, but wouldn’t Horikita-san make the appropriate decisions to win?”
+[scene] (p.49–50) Closes the leader debate; turns the class back to the exam itself; later alternates explaining while Horikita eats, and vice versa.
+[says] (p.49) “It seems like we can move forward at last. Let’s get back to discussing what this special exam is. We should also continue eating. Everyone stopped eating because of the tension.”
+[note] (p.50) "While Horikita was speaking, Yōsuke continued eating, and while Yōsuke was speaking, Horikita did the same."
+[rel:horikita-suzune] (p.43–50) Her staunchest supporter in the room; scripts the recap; nominates her early.
 
 
+### y2v10 p.60 — Ch.3: The Hirata crush, retold
+[mentioned] (p.60) Passing mention: the Friday encounter opens with Mii-chan's reluctant admission — "it was about Hirata-kun" — the crush revealed in the unanimous-voting exam; the three-week absence; the anonymous food deliveries.
+[note] (p.60) The page gives no dialogue of his own on these pages; his involvement is her account of events.
 
 
+### y2v10 p.81 — Ch.4: The usual location
+[scene] (p.81) After Ike blurts the plan, Yōsuke steers the conversation to the private location — evidence he and Horikita have been meeting frequently in secret to prepare for the exam.
+[says] (p.81) “Horikita-san, let’s go to the usual location.”
+[note] (p.81) "It seemed like he was frequently meeting with Horikita in secret. That much was evident just from the conversation." — the page's own assessment.
+[note] (p.81) No dialogue of his own beyond the location line on these pages; he defers to the karaoke process as the knowledgeable insider.
+[rel:horikita-suzune] (p.81) Their secret exam preparation is the connective tissue of Class D's strategy.
 
 
+### y2v10 p.134, 136, 139, 155–156, 159, 187 — Ch.6: The quiet strength
+[scene] (p.134) Kōenji walks past him on his way to his seat; he's sitting right next to AK; he's the one who gives the warning first.
+[says] (p.134) “Kōenji-kun. Although we can’t force you as a class, I think it would be prudent to get this right for your own sake.”
+[scene] (p.136) Turn 4 — Kōenji answers; he's the most surprised in the room; he springs up instantly.
+[scene] (p.139) He genuinely celebrates Horikita's showing; he's her quiet stabilizer.
+[says] (p.139) “Your strategy worked out, Horikita-san,”
+[scene] (p.159) Cafeteria lunch; he's at the two-person table; he does the proper friend thing; he never lets Sakayanagi buy.
+[scene] (p.187) Turn 15 defense; three answered right; he watches Kei with the eyes of an older brother; he speaks for the class with zero hesitation.
+[rel:horikita-suzune] (p.139) His genuine gratitude; the steadying hand; the warm heart behind the wall.
+
+
+### y2v10 p.109–109 — Ch.5: passing mentions (locator cross-check)
+[mentioned] (p.109) Passing mention — to talk so openly about the class's internal affairs. If it were Hirata-kun or Kanedakun…
+
+<!-- walk: y2v10 Ch.5 → p.122 -->
+
+### y2v10 p.126–188 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.126) Passing mention — Hirata-kun and the others.
+[mentioned] (p.128) Passing mention — At the same time, academically capable students like Horikita and Yōsuke
+[mentioned] (p.132) Passing mention — Kōenji Rokusuke,' Hasebe Haruka,' Hirata Yōsuke,' Yukimura
+[mentioned] (p.137) Passing mention — The class was troubled by this, and even Yōsuke couldn't easily verify the
+[mentioned] (p.148) Passing mention — 'Kōenji Rokusuke,' Hasebe Haruka,' Hirata Yōsuke,' Yukimura
+[mentioned] (p.188) Passing mention — Karuizawa Kei,' Hirata Yōsuke'
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.51–56 — Ch.2: passing mentions (locator cross-check)
+[mentioned] (p.51) Passing mention — If it came down to a selection between Kei and Yōsuke, no matter how much
+[mentioned] (p.55) Passing mention (see p.55).
+[mentioned] (p.56) Passing mention — I researched Hirata Yōsuke in my own way too. He's supposedly the most
+
+<!-- walk: y2v10 Ch.2 → p.59 -->
+
+### y2v10 p.67–67 — Ch.3: passing mentions (locator cross-check)
+[mentioned] (p.67) Passing mention — Mii-chan, who likes Yōsuke, definitely wouldn't want her to misunderstand.
+
+<!-- walk: y2v10 Ch.3 → p.80 -->
+
+### y2v10 p.88–99 — Ch.4: passing mentions (locator cross-check)
+[mentioned] (p.88) Passing mention — I'm going home. Until yesterday, I was meeting Hirata-kun and the others
+[mentioned] (p.91) Passing mention (see p.91).
+[mentioned] (p.99) Passing mention — Not in front of Kei, nor in front of a friend like Yōsuke.
+
+<!-- walk: y2v10 Ch.4 → p.100 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

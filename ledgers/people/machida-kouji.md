@@ -163,9 +163,19 @@ Manabe nodded. (he anchors the room’s conclusion)
 [note] (p.9) Passing mention (locator pages: p.146, p.193-194; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.146 — Ch.6: The one protected of the cluster
+[mentioned] (p.146) Named — he is part of the cluster of students Ryūen keeps targeting; his name surfaces in the attack list Hashimoto overhears.
+[scene] (p.146) Turn 1 defense — he is the one successfully protected when Sakayanagi strikes with Lifestyle D1.
+[note] (p.146) No dialogue attributed to him on these pages.
 
+<!-- walk: y2v10 Ch.6 → p.188 -->
 
+### y2v10 p.193–196 — Ch.7: The first to draw
+[scene] (p.194) He is the first to draw; the room holds its breath; he pulls a plain lot and shows the biggest victory pose so far; the tension breaks.
+[scene] (p.195) Sugio and Toba follow, both uncolored; the survivors go ahead of the remaining two; only Kamuro and Yamamura remain.
+[note] (p.193) He is one of the five students eliminated in the special exam; the lottery spared him.
 
+<!-- walk: y2v10 Ch.7 → p.216 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

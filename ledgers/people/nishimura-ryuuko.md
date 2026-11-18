@@ -24,9 +24,13 @@ char_id: nishimura-ryuuko · class: unknown · status: unknown
 [note] (p.9) Passing mention (locator pages: p.127, p.187; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.127, 187–188 — Ch.6: The confused but protected
+[scene] (p.127) Monitoring the monitor — the question hits our screen — he speaks first; "So that means these two are protected, right?" he asks Horikita.
+[says] (p.127) “So that means these two are protected, right?”
+[scene] (p.187) Turn 16 defence — he and Kei stand protected together.
+[note] (p.127) He is not among the students who gave correct answers — the page lists Kobashi and Shibata for that honour.
 
-
-
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

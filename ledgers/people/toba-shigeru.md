@@ -32,9 +32,15 @@ char_id: toba-shigeru · class: unknown · status: unknown
 [note] (p.9) Passing mention (locator pages: p.146, p.193-194, p.207; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.193–196 — Ch.7: Toba survives
+[scene] (p.194) He draws third — after Sugio's plain lot — pulls an uncolored paper; he survives; the room becomes a long, aching silence.
+[scene] (p.195) Only Kamuro and Yamamura remain after he draws; the remaining two know one of them must be expelled.
+[note] (p.193) He is one of the five students eliminated in the special exam; the lottery spared him.
 
+### y2v10 p.207–207 — Ch.7: passing mentions (locator cross-check)
+[mentioned] (p.207) Passing mention — Toba or the others expelled instead.
 
-
+<!-- walk: y2v10 Ch.7 → p.216 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

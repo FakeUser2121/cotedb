@@ -896,6 +896,29 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [note] (p.9) Passing mention (locator pages: p.138, p.147, p.157, p.189, p.202; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.128, 138, 147 — Ch.6: Out in the seventh turn
+[mentioned] (p.128) Present in Ryūen's class; the exam is brutal on him; the first to fall.
+[mentioned] (p.138) Eliminated in the seventh turn; the first half scoreboard shows Ryūen's class at 19 points with four eliminated — Ishizaki, Isoyama, Yano, Morofuji.
+[scene] (p.147) Dozing off at his seat during the waiting time — he had already made two mistakes and seemed to have reached the point of giving up.
+[note] (p.147) Hoshinomiya notices him; he presents as the most resigned of the group.
+[note] (p.138) No dialogue attributed to him.
+
+
+### y2v10 p.204–205 — Ch.7: The eliminated winner's celebration
+[mentioned] (p.204–205) He appears at the celebration; he leaps and cheers with the rest of Ryūen's class; he was one of the four eliminated in the first half of the special exam but his class won, so he remains a student.
+[scene] (p.205) He walks alongside his classmates as they splurge at Keyaki Mall; his joy is uncomplicated, his loyalty unshakeable.
+
+
+### y2v10 p.157–157 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.157) Passing mention — But he didn't seem to bring anything. Maybe he's got someone like Ishizaki
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.189–202 — Ch.7: passing mentions (locator cross-check)
+[mentioned] (p.189) Passing mention — people merely in the first half: Ishizaki, Isoyama, Yano, and Morofuji.
+[mentioned] (p.202) Passing mention — A noticeable figure was Ishizaki, who was gesticulating in joy while
+
+<!-- walk: y2v10 Ch.7 → p.216 -->
 ## y2v10.25
 
 <!-- walk: y2v10.25 → start -->

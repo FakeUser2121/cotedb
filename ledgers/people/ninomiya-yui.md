@@ -73,9 +73,11 @@ char_id: ninomiya-yui · class: unknown · status: unknown
 [note] (p.9) Passing mention (locator pages: p.127; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.127–128 — Ch.6: The first protected name
+[scene] (p.127) Named among the English D1 attack nominees from Ichinose's class; she and Watanabe Norihito were the two successfully protected students.
+[note] (p.127) No dialogue from her on these pages; the result on the monitor carries her protection.
 
-
-
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

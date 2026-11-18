@@ -333,13 +333,68 @@ char_id: morishita-ai · class: Class 2-A · status: unknown
 [rel:karuizawa-kei] (p.53–58) Rates her highly then insults her warmly.
 [rel:ayanokouji-kiyotaka] (p.53–59) Waits just for him; decides he's her next project.
 
+### y2v10 p.53–59 — Ch.2: The bench stakeout
+[scene] (p.53) She lies on a bench in the freezing mid-January cold with her eyes closed, drowsy, waiting for Ayanokōji; polite but honorific-less speech; she cuts off Kei's curious question and explains herself.
+[says] (p.53) “That’s correct. I’m not dead.”
+[says] (p.53) “Are you curious?”
+[says] (p.53) “Then, I’ll explain. I was, believe it or not, waiting for you, Ayanokōji Kiyotaka.”
+[says] (p.53) “I wouldn’t say we’re acquaintances. We’ve only talked once.”
+[says] (p.55) “What do you think?”
+[says] (p.55) “As it turns out, I’ve had a stroke of luck. It’s about that girl over there, specifically.”
+[says] (p.55) “Yes. I was curious about what kind of person you are.”
+[says] (p.55) “Karuizawa Kei. You were initially dating Hirata Yōsuke, right?”
+[says] (p.56) “I researched Hirata Yōsuke in my own way too. He’s supposedly the most popular guy in school. He belongs to the soccer club, which factors into his popularity, he has excellent academic performance, he’s blessed in looks, he respects gender equality, and he’s kind, considerate, and intelligent.”
+[says] (p.56) “Do you think he would pick a casual woman like you?”
+[says] (p.56) “I don’t know. It’s the first time I’ve heard the term.”
+[says] (p.56) “It seems you’re holding back now, but initially, despite being a first-year in high school, you were rumored to be wearing heavy makeup.”
+[says] (p.56) “You’re a casual woman, you have nothing unique, and you wear heavy makeup. I can’t figure out why Hirata Yōsuke chose you.”
+[says] (p.56) “If you replace heavy makeup with a mask, it would be easier to understand; you’re a timid and sensitive soul. But if so, being strong-willed and assertive, a leader among girls, seems contradictory.”
+[says] (p.57) “I see, that’s true. I’ve never been in love, so I can’t deny that reason doesn’t apply.”
+[says] (p.57) “I apologize for my earlier rude remarks, Karuizawa Kei.”
+[says] (p.57) “Is that so? Then, since the apology is over, there’s no problem, right?”
+[says] (p.57) “I don’t want to intrude any further, so I think I should take my leave.”
+[says] (p.57) “Certainly, I often hear that—that I’m unique.”
+[says] (p.57) “But it’s funny. I’ve always been aware that I’m a unique person, and I’ve always thought of myself as special. Even so, I don’t really like being reminded constantly, ‘You’re so unique.’”
+[says] (p.57) “I don’t make any moves unless I’m interested. In the flow of Sakayanagi Arisu and Katsuragi Kōhei leading the class as leaders, they have always protected the entirety of Class A, so there was no need for me to do anything. There was no need to show off my individuality. If I live quietly, I can graduate as is. I suppose it can’t be helped if I appeared to lack a distinct personality.”
+[says] (p.58) “I’m glad I was able to meet the two of you today. Thank you for dealing with someone like me.”
+[says] (p.58) “Most of the students who enroll in this school aspire to graduate from Class A. I am one of them, of course. Therefore, I felt a sense of crisis and thought I should speak with various students. After all, you have attracted quite a bit of attention lately.”
+[says] (p.58) “I may need to interact with both of you in the future. I would appreciate your kindness in that regard, Ayanokōji Kiyotaka, Karuizawa Kei.”
+[says] (p.58) “The two of you were about to head home, weren’t you?”
+[says] (p.58) “I intended to return to the dorm as well. Would you like to join me for a chat along the way?”
+[says] (p.58) “This is a great opportunity. Don’t hesitate to ask me anything.”
+[says] (p.58) “Don’t be like that. Shall we even exchange contact information? Ayanokōji Kiyotaka included, of course.”
+[says] (p.59) “It’s better to have more friends.”
+[note] (p.56) "Strange"Aura — the page describes her as having "a unique aura, different from Hiyori. It wasn’t calmness or harmony, but rather simply bizarre."
+[note] (p.55) She claims to have noticed something strange "as I was investigating" — no client or order is named on the page; her motive is stated as "a sense of crisis" because Sakayanagi's attention has shifted.
+[note] (p.59) Only a few people are registered on her chat app; she has been living quietly, friendless, until now.
+[trait] (p.53) Drowsy cold-bench stalker; polite diction, zero honorifics for Ayanokōji.
+[rel:sakayanagi-arisu] (p.57) Her class is Sakayanagi's; she says that under Arisu and Katsuragi's leadership, Class A protected the whole class, so she had no need to act; she drifts "halfway along this quiet route".
+[rel:karuizawa-kei] (p.53–59) Cross-examines her; strokes her cheek; apology too deep; flusters her.
+[rel:ayanokouji-kiyotaka] (p.53–59) Waits for him deliberately; researches him and Kei; exchanges contacts.
+[rel:hirata-yousuke] (p.56) "I researched Hirata Yōsuke in my own way too" — his profile, not Kei's, was her entry point.
+[rel:katsuragi-kouhei] (p.57) Class A co-leader named with Sakayanagi as the reason she kept quiet.
+
 <!-- walk: y2v10 Ch.2 → p.59 -->
 
+### y2v10 p.227–228 — SS: Ai Morishita's Short Story: On the Cold Bench
+[scene] (p.227) The bench where she usually sits and waits for Ayanokōji; she tries to relax in several positions before lying face-down on the bench seat.
+[scene] (p.228) Her POV of the earlier scene — the Keyaki Mall bench — from inside her own head.
+[note] (p.228) The SS recounts the same events of the main tale twice — once in narration third person, once in her first person.
+[rel:ayanokouji-kiyotaka] (p.227–228) She has been investigating him for class purposes; her interest in him is academic and warily professional; she wants to see the pattern he brings under stress.
 
 
+### y2v10 p.192–206 — Ch.7: passing mentions (locator cross-check)
+[mentioned] (p.192) Passing mention — The one who shattered the class's silence was Morishita Ai.
+[mentioned] (p.194) Passing mention (see p.194).
+[mentioned] (p.195) Passing mention — Morishita offered two lots for them to draw.
+[mentioned] (p.206) Passing mention (see p.206).
 
+<!-- walk: y2v10 Ch.7 → p.216 -->
 
+### y2v10 p.221–221 — Epilogue: passing mentions (locator cross-check)
+[mentioned] (p.221) Passing mention — Morishita about a week ago.
 
+<!-- walk: y2v10 Epilogue → p.235 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

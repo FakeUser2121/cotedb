@@ -2003,9 +2003,55 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v10 Ch.2 → p.50 -->
 
+### y2v10 p.10–11 — Ch.1: Sudō, worn thin
+[scene] (p.10) Already in the classroom at the first morning back; awkward and envious of the arm-in-arm entrance; warns him about the school email on winter-break first-years; his face closer to his when he envies.
+[says] (p.10) “Damn, don’t come to school like that. It’s embarrassing, Ayanokōji.”
+[says] (p.10) “Going to school arm in arm, isn’t that the peak of cheerful people? Dammit, I’m envious.”
+[says] (p.10) “Obviously! Hell, it’d be seriously creepy if you’d wanted that, for real.”
+[says] (p.10) “Being lovey-dovey is fine and all, but have you seen the school’s email about first-years being caught during winter break? I’m not worried about you guys, but just be careful.”
+[says] (p.10) “They should’ve just done it indoors. How about you? What are your thoughts as a senpai?”
+[says] (p.10) “Do you... want to do various things... outside?”
+[says] (p.11) “Oh, okay. That sounds like a unique perspective only you would have... It’s a bit off-putting.”
+[says] (p.11) “—Phew.”
+[says] (p.11) “That wasn’t about you. Sorry if it seemed like an unpleasant sigh.”
+[says] (p.11) “Lately, I’ve been feeling a bit tired. I thought I could balance both studies and sports, but it’s getting tougher. Eh... It’s not a big deal.”
+[says] (p.11) “Yeah... Anyway, I’m looking forward to working with you again from today forward.”
+[trait] (p.11) Weary under the raised-voice exterior; masks the tiredness as nothing; visibly deflated when his own sigh slipped out.
+[action] (p.11) Switched gears, smiled and headed to his seat after accepting the ‘Too much hurry spoils the curry’ advice.
+[rel:ayanokouji-kiyotaka] (p.10–11) Envies him; envious of the peak of cheerful people; Sudō sighs; AK answers the sensei question awkwardly.
 
+<!-- walk: y2v10 Ch.1 → p.30 -->
 
+### y2v10 p.34, 50 — Ch.2: Sudō on entertainment categories; the Kōenji question
+[scene] (p.34) He openly voices aversion to the entertainment category being on the table.
+[says] (p.34) “Do students need stuff like entertainment...? I’m not good at that...”
+[scene] (p.50) As ideas begin flowing, he speaks somewhat forcefully, as if he had been thinking about it all along.
+[says] (p.50) “What’re we going to do about the guy who isn’t here, Kōenji? Do we have to protect him? That’s what we promised, right?”
+[note] (p.50) His reminder forces Horikita to reveal the email on her phone in front of the whole class; the room absorbs that Kōenji demanded protection in writing.
 
+<!-- walk: y2v10 Ch.2 → p.59 -->
+
+### y2v10 p.130, 132–136, 163, 168 — Ch.6: The Kōenji educator persona
+[scene] (p.130) He keeps an eye on Kōenji; notices the non-answer patterns; his temper flares as the class takes hits; he makes himself the class's conscience.
+[says] (p.130) “H-hey, Suzune. Are you sure you don’t need to protect that guy?”
+[says] (p.130) “Well, yeah, that makes sense...”
+[scene] (p.132) He can't hold it in — Kōenji blank again, he explodes; he warns him publicly in front of everyone.
+[says] (p.132) “Hey! Kōenji, you’re not taking this seriously, are you?!”
+[scene] (p.133) Third turn, same blank; he roasts him again; Horikita refuses to intervene but her silence is telling.
+[says] (p.133) “Screw you... You’re just saying whatever you like...”
+[scene] (p.136) Turn 4 — Kōenji finally cracks; Sudō laughs at the timing; Sudō's hot-blooded exasperation cracks into relief.
+[says] (p.136) “What’s the matter, Kōenji? You were scared after all, weren’t you?!”
+[scene] (p.163) The class heads into the second half; he stands as the nervous column of the room; asks the question everyone wanted to ask.
+[says] (p.163) “How are we going to attack?”
+[scene] (p.168) He stays glued to the monitor during turns 11–14; he needs a plan that doesn't rely on mercy.
+[trait] (p.130) Hot-blooded, blunt, loyal to a fault; the conscience of Class B.
+
+### y2v10 p.151–188 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.151) Passing mention — Shinohara Satsuki,' Sudō Ken'
+[mentioned] (p.166) Passing mention — Ishikura Kayoko,' Sudō Ken'
+[mentioned] (p.188) Passing mention — Karuizawa Kei,' Sudō Ken'
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

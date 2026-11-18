@@ -2082,6 +2082,153 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [note] (p.9) Passing mention (locator pages: p.40, p.86-87, p.96, p.107-115, p.117-118, p.120; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.40 — Ch.2: Ichinose, named as the anti-collusion baseline
+[mentioned] (p.40) Passing mention: "This method was fair to all classes and could also purchase safety. However, setting aside Horikita and Ichinose, the possibility of such a proposal getting through to Ryūen or Sakayanagi was low." — Ichinose is grouped with Horikita as one of the two classes collusion proposals might survive; she does not appear on the page.
+[note] (p.40) Mention only; no scene presence; no dialogue.
+
+<!-- walk: y2v10 Ch.2 → p.59 -->
+
+### y2v10 p.86, 96 — Ch.4: Ichinose, the anti-collusion leader
+[mentioned] (p.86) Passing mention: "Ichinose-san and Sakayanagi-san will also positively consider this option." — in the gang-up scenario, her class would likely sign on.
+[mentioned] (p.96) Passing mention: "On the contrary, in Ichinose’s case, she doesn’t think about expelling the other party." — the page contrasts her style with Ryūen's and Sakayanagi's.
+
+
+### y2v10 p.106–118 — Ch.5: The pre-exam inspection visit
+[scene] (p.106) The day off; she texts ahead via Kanzaki; the four of them arrive together — Kanzaki, Watanabe, Ichinose, Amikura — coded around the unstated reason; snacks in hand; she wants his ear but not his agreement.
+[says] (p.107) “You might’ve already heard from Kanzaki-kun, but regarding tomorrow’s special exam, I wanted to discuss something with you, Ayanokōji-kun. I’m sorry for the sudden request.”
+[says] (p.108) “That’s okay. Rather, I want you to listen to our side of the story.”
+[says] (p.109) “Don’t worry. I didn’t come to beg Ayanokōji-kun to agree to this. If I intended that, it would be proper to talk to Horikita-san directly.”
+[says] (p.110) “Nevermind me, let’s get on with the conversation.”
+[says] (p.110) “The reason I came to Ayanokōji-kun before Horikita-san was—”
+[scene] (p.110) After six, the departing guests; the phone; the text; the doorbell pings — she stands alone with her phone in hand, having left it deliberately.
+[says] (p.110) “Sorry, Ayanokōji-kun. It seems I left my phone here...”
+[says] (p.110) “I think it’s under the table. Really sorry.”
+[says] (p.110) “See you around.”
+[says] (p.110) “...Oh, can we talk for a bit?”
+[says] (p.110) “No, not a good idea. If the door was locked and someone came... That would be even worse.”
+[says] (p.110) “Mako-chan and the others just left. I clearly told them that I forgot my phone in your room, so even if someone sees us now, we have a good excuse.”
+[scene] (p.111) The "forgetting" confirmed as intentional; she approaches; he catches her; she uses the fiction.
+[says] (p.111) “What do you think, Ayanokōji-kun?”
+[says] (p.111) “I wanted to see you, Ayanokōji-kun. Just the two of us, in any way possible... Do you think I’m repulsive...?”
+[says] (p.111) “Why...? Because I went out of my way to see a boy who has a girlfriend...”
+[says] (p.111) “...Really? You really don’t think I’m repulsive?”
+[says] (p.111) “This was an accident... I lost my footing, and you just happened to catch me... right?”
+[says] (p.112) “I love you, Ayanokōji-kun. I’m helplessly in love with you... I’ve never been in love before. Yet, I have a strong suspicion that this might be my first and last love—it’s strange, isn’t it?”
+[says] (p.112) “If we weren’t in different classes, we could’ve spent more time together...”
+[scene] (p.112–113) Watanabe bursts in without knocking; she instantly adapts; the genkan; the contingency lock.
+[says] (p.113) “Watanabe-kun.”
+[says] (p.113) “Can you come in?”
+[says] (p.113) “Can you come in? Please.”
+[says] (p.114) “Come in.”
+[says] (p.114) “About what happened earlier, I did that on my own. Ayanokōji-kun isn’t at fault.”
+[says] (p.114) “I don’t quite like your blatant use of formal speech though.”
+[says] (p.114) “I was just hugging him on my own. You saw the situation, so I assume you understand.”
+[says] (p.114) “I did something bad. I know there’s no obligation for you to keep this a secret, Watanabe-kun, but I believe you aren’t someone who acts out of malice. I believe you won’t spread this story to harm others.”
+[says] (p.114) “I’m really sorry, Ayanokōji-kun. I acted on my own volition.”
+[says] (p.114) “I’m glad you say so, but if Karuizawa-san learns about this, she’d get angry… No, she’d be deeply distressed. I’m prepared to take any punishment.”
+[scene] (p.117) She reads Watanabe like an open book; she names his forbidden crush; she positions herself as his ally.
+[says] (p.117) “My unrequited love. Nothing more, nothing less. It’s a fact that Mako-chan and Chihiro-chan also know I’m in love with Ayanokōji-kun.”
+[says] (p.117) “I just went back to get something I forgot, and on a whim...”
+[says] (p.118) “I think I understand you better after our conversation today, Watanabe-kun. You like Mako-chan, don’t you?”
+[says] (p.118) “It’s obvious if you look at it. Recently, you’ve been especially fixated on Mako-chan.”
+[says] (p.118) “Mako-chan still seems to like her middle school classmate, but she also wants to embark on a new love. I don’t know who Mako-chan’s feelings will be for, but as her best friend, I feel I can trust you.”
+[says] (p.118) “Of course. First off, you’ll need to slowly close the distance with Mako-chan.”
+[note] (p.112) Her strategic evolution past the Ichinose first met; the pages note the aspect of her love that is attractive to the opposite sex; AK prepares actors on both lines.
+[note] (p.114) Her handling of Watanabe: she doesn't just silence him — she reaches his guilt and contains him with his own remorse.
+[voice] (p.111) Collective-target charm turned single-target; scandalous-advice persona; masterful absence of fluster.
+[rel:ayanokouji-kiyotaka] (p.110–118) She engineers the isolation; he lets it happen; she gains a man devoted to her class's side.
+[rel:watanabe-norihito] (p.112–118) The witness; the junior-high story; the Mako-chan revelation; her 120% insurance.
+[rel:kanzaki-ryuuji] (p.106–109) She rides in under his auspices; he resents it; she manages him gently.
+[rel:amikura-mako] (p.107–109) Her best friend; the fourth seat; she minds the breach with gentle rebuke.
+
+
+### y2v10 p.127–136, 160, 163–188 — Ch.6: The unseen game-changer
+[scene] (p.127) Our class's lead attack lands on her plate: English D1; she protects Ninomiya and Watanabe — her two English-R strugglers; Kobashi and Shibata prove the rest right; she pockets four points.
+[says] (p.177) “We will absolutely avoid having anyone expelled from our class, so don’t get nervous and stay calm.”
+[says] (p.177) “Thank you, Horikita-san.”
+[says] (p.177) “I won’t abandon anyone. You believe me, right?”
+[says] (p.180) “I hope no one in the class, year, and school... gets expelled.”
+[says] (p.180) “Ryūen-kun, this might be sudden, but would you team up with me? I don’t want anyone expelled from my class. To achieve this, we need to finish the exam with zero eliminations. So, I want you to play defensively in the second half, so there are no eliminations from my class.”
+[scene] (p.180) The exchange is shown to the reader as Ichinose's phone screen; the entire gambit unfurls in the open.
+[says] (p.181) “Then, perhaps I’ll have to go all out…”
+[scene] (p.183) Her internal war: she urged herself to act for the class; she considers sacrificing Kei as the calculation the class demands; she finds she cannot shake her own feelings.
+[says] (p.183) “I would like to nominate Karuizawa Kei-san.”
+[scene] (p.184) She holds for half a breath — hold on, why is she calling Kei out? She's the one Horikita protects; her logic is crystal clear.
+[scene] (p.185–188) She nominates Kei without end — 16th, 17th, 18th, 19th, 20th turns — the same name, the same calm hands; every nomination comes back free of charge.
+[note] (p.112) Her earlier letters; she watches him with the mask of a classmate.
+[trait] (p.180) Zero eliminations is the promise she's honoring; the 25-point offer is the price Ryūen won't pay; she chooses principle over points.
+[limit] (p.183) Cannot stop herself from nominating the same name over and over; she loses the high ground; her "power" is Horikita's weakness; the exam becomes personal.
+[rel:ayanokouji-kiyotaka] (p.183–188) She watches him through the glass; she wants to prove something to him; the whole gambit bends toward him.
+[rel:karuizawa-kei] (p.165–188) The target she never tires of naming; her obsession-fueled attack; the target Horikita protects without end.
+[rel:ryuuen-kakeru] (p.180–183) The secret negotiation; she loses him at the final hurdle; her conscience wins (or loses) anyway.
+[rel:horikita-suzune] (p.170–188) The foil; she tests Horikita's promise with the Kei carousel; she discovers what protection means to Horikita.
+
+
+### y2v10 p.199–200 — Ch.7: The burst-in apology
+[scene] (p.199) Ichinose bursts into the Class B room right after the exam is declared complete; apologizes to Karuizawa; Satō jumps protectively in front of Kei; Horikita steps up from the back seat.
+[says:ichinose-honami] (p.199) “Sorry, Karuizawa-san!”
+[says:karuizawa-kei] (p.199) “Eh, Ichinose-san...!?”
+[says:horikita-suzune] (p.199) “Calm down, Karuizawa-san. Those mysterious consecutive nominations were Ichinose-san trying to throw us a lifeline.”
+[says:karuizawa-kei] (p.199) “Eh? What, what does that mean…?”
+[says:horikita-suzune] (p.199) “She was trying, in her own way, to give us points. Right?”
+[scene] (p.199) Ichinose explains the message: giving points wasn't natural to say, so they sent a message through consecutive nominations; she then notes that Horikita-san was the one who contacted her, not the other way around.
+[note] (p.200) Ichinose explains that Horikita was the one who contacted her, not the other way around; the importance is in the direction of contact.
+[note] (p.200) “We were also able to successfully protect a few people later thanks to Ichinose-san informing us of the nominees in advance.” — untagged in the print; none assigned.
+[note] (p.200) “Why would they... Why would they need to do that…?” — untagged in the print; none assigned.
+[note] (p.200) “To defeat Class A, probably. Essentially, every class in second place and below was able to fight so that no one would lose.” — untagged in the print; none assigned.
+[note] (p.200) “Yes, our only option was to face Sakayanagi-san head-on. That’s what we call a godsend.” — untagged in the print; none assigned.
+[says:karuizawa-kei] (p.200) “But, why did that have to be me?”
+[says:ichinose-honami] (p.200) “You, Karuizawa-san, have been playing a central role among the girls, and naturally, Horikita-san would think of protecting you from being eliminated, wouldn’t she? That’s why I planned to keep nominating you from the beginning. However, I thought you must’ve been feeling anxious, so I rushed over here. I’m truly sorry!”
+[scene] (p.201) Ichinose continues to apologize several times before leaving to be with her class; Kei processes the logic; Horikita accepts the end-of-fight read, walks out to the hallway to talk with Ayanokōji.
+
+
+### y2v10 p.120–120 — Ch.5: passing mentions (locator cross-check)
+[mentioned] (p.120) Passing mention — drop from the top. Ichinose and Ryūen's classes wouldn't profit substantially.
+
+<!-- walk: y2v10 Ch.5 → p.122 -->
+
+### y2v10 p.123–164 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.123) Passing mention — There was no way Sakayanagi or Ichinose would attack me with a
+[mentioned] (p.125) Passing mention — First, the turn began with Class B, Horikita's class, attacking Ichinose's
+[mentioned] (p.126) Passing mention — against Ichinose's class and Sakayanagi's class.
+[mentioned] (p.128) Passing mention — In Ichinose's class, three students had opted out of doing the English'
+[mentioned] (p.129) Passing mention — It was a painful situation, as Ichinose had gained four points in comparison,
+[mentioned] (p.131) Passing mention — Ichinose's class failed to protect any students, and two of them got the
+[mentioned] (p.134) Passing mention — points, Horikita's class in second place with 10 points, Ichinose's class in third
+[mentioned] (p.138) Passing mention — 3rd: Ichinose【Class C】24 points, with no losses.
+[mentioned] (p.139) Passing mention — In spite of this, only Ichinose's class had yet to have any eliminations.
+[mentioned] (p.144) Passing mention — Ryūen, who received the first attack from Ichinose's class, had only one
+[mentioned] (p.145) Passing mention — who were up against her class led by Ichinose, score points. If they kept getting
+[mentioned] (p.160) Passing mention — Speaking of which, the only one not here is Ichinose, right?
+[mentioned] (p.163) Passing mention — However, compared to Ichinose's class, information seemed scarce, and it
+[mentioned] (p.164) Passing mention — with 24 points and temporarily tied with Ichinose.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.189–215 — Ch.7: passing mentions (locator cross-check)
+[mentioned] (p.189) Passing mention — In the first half, Ichinose's way of fighting was more determined than
+[mentioned] (p.193) Passing mention — that Ichinose was assisting Horikita. A strategy was being constructed—to use a
+[mentioned] (p.204) Passing mention — I also wanted to see how Ichinose's and Sakayanagi's classes were doing.
+[mentioned] (p.211) Passing mention — benefits, he'll accept it without hesitation. Horikita and Ichinose wouldn't have
+[mentioned] (p.215) Passing mention — On the other hand, Horikita and Ichinose possess passion. It's strange.
+
+<!-- walk: y2v10 Ch.7 → p.216 -->
+
+### y2v10 p.223–224 — Epilogue: passing mentions (locator cross-check)
+[mentioned] (p.223) Passing mention — Ichinose, Sakayanagi, whomever.
+[mentioned] (p.224) Passing mention — About Ichinose Honami.
+
+### y2v10 p.233–235 — SS/Credits: passing mentions (locator cross-check)
+[mentioned] (p.233) Passing mention — haven't seen a special exam in a very long time so that was nice. Ichinose seemed
+[mentioned] (p.234) Passing mention — Ichinose stocks up, I kneel to our new queen. Also hi Nathan :D
+[mentioned] (p.235) Passing mention — Ichinose still the goat, my queen on the come up. Let's go Ichinose!!!!
+
+<!-- walk: y2v10 Epilogue → p.235 -->
+
+### y2v10 p.87–87 — Ch.4: passing mentions (locator cross-check)
+[mentioned] (p.87) Passing mention — and Ichinose's classes, the bottom two, would want as many class points as
+
+<!-- walk: y2v10 Ch.4 → p.100 -->
 ## y2v10.25
 
 <!-- walk: y2v10.25 → start -->

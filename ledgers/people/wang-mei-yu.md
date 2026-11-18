@@ -335,7 +335,6 @@ char_id: wang-mei-yu · status: minor
 [rel:kouenji-rokusuke] (p.66–80) She recognizes his subtle kindness to her during her absence; out-and-proud attempt to return the favor.
 [rel:ayanokouji-kiyotaka] (p.60–80) Present throughout; he carries the embarrassing conversations.
 
-<!-- walk: y2v10 Ch.3 → p.80 -->
 
 
 ### y2v10 p.9-235 — wang-mei-yu mentioned in passing
@@ -343,9 +342,116 @@ char_id: wang-mei-yu · status: minor
 [note] (p.9) Passing mention (locator pages: p.60-78, p.80-81, p.164; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.60–80 — Ch.3: The secret gifts; the clerk names Kōenji
+[scene] (p.60) Friday after school; she calls out to him as the classroom empties — the first time she has sought him out about the three-week absence's anonymous food deliveries.
+[says] (p.60) “Ayanokōji-kun… umm, do you have a moment?”
+[says] (p.60) “I’d like to talk somewhere else if possible... not in this classroom.”
+[says] (p.60) “Do you remember when I was absent from school for a while? It’s... embarrassing to say, but it was about Hirata-kun... Well...”
+[scene] (p.61) Shows him the grocery-bag note with only the room number; the handwriting was deliberately unidentifiable; the items all came from a convenience store; a newly assigned clerk and a transferred shift leader are the last threads.
+[says] (p.61) “I heard that someone was delivering food while I couldn’t go out... “
+[says] (p.61) “I’ve mentioned it to you before, Ayanokōji-kun, and I wanted to ask for your help...”
+[says] (p.61) “Uh, I haven’t yet, but I think we can find out if we try...”
+[scene] (p.62) The clerk unexpectedly recognized her the other day and tried to tell her; she ran; today is the sixth day of avoiding him; she is shaken.
+[says] (p.62) “I got caught off guard, or rather, I was shaken by the unexpected news, and I said I’d come back later to hear the details, and ran away.”
+[says] (p.62) “...Today is the sixth day.”
+[says] (p.62) “I’ve... been running...”
+[says] (p.62) “I think I should go soon, but... I get nervous... If I don’t know who it is, I can just ignore it, but once I know, I can no longer feign ignorance. Most importantly, the person who gave the gifts hasn’t come forward, so there’s a chance they don’t want it to be known, right?”
+[scene] (p.63) She is flabbergasted at the boy-who-secretly-likes-her theory; she nearly falls over; she tries to remain discreet and fails; she is noticeably flustered.
+[says] (p.63) “Eh, what?”
+[says] (p.63) “Eeh!? What!?”
+[says] (p.63) “W-w-w-w-w-well yes, you’re right!?”
+[says] (p.63) “I guess that makes sense.”
+[scene] (p.64) She weighs ignoring it; guilt wins; she decides.
+[says] (p.64) “I’m not sure what to do at this point. Should I find out who it is? Should I thank them?”
+[says] (p.64) “What would you do in this situation, Ayanokōji-kun?”
+[says] (p.64) “So you’re saying there’s a possibility you might not thank them even if you knew who they were?”
+[says] (p.65) “I… I want to know…”
+[says] (p.65) “...Yes.”
+[says] (p.65) “Shall we go to the convenience store together?”
+[says] (p.65) “C-Can we?”
+[says] (p.65) “Th…Thank you, Ayanokōji-kun!”
+[scene] (p.66) The store is empty in a flash; the clerk — a woman in her 20s — stops mid-"Welcome—Ah." at the sight of her; Mii-chan bows and apologizes for running away.
+[says] (p.66) “Hello. Um, I’m sorry for running away the other day!”
+[says] (p.66) “Eh, eh, eh? M-my boyfriend?”
+[says] (p.66) “There isn’t!!”
+[scene] (p.67) The reveal lands — Kōenji. She is flabbergasted; she cannot fully take it in; the items match his taste exactly.
+[says] (p.67) “Huh...?”
+[says] (p.67) “He… Was it really Kōenji-kun?”
+[scene] (p.68) The money question; she intends to buy a gratitude gift roughly equal in price; he advises half; she refuses to half-measure.
+[says] (p.68) “Kōenji-kun...? Why?”
+[says] (p.68) “What should I do…?”
+[says] (p.68) “Eh, what!? No, I can’t!”
+[says] (p.68) “Well... He’s our classmate, and he also spent a considerable amount of money on the gifts.”
+[says] (p.68) “I’m thinking of buying a thank-you gift. Should it be roughly equivalent to what was spent on the gifts?”
+[says] (p.68) “O-Okay, got it. I’ll do that.”
+[says] (p.68) “Would you come with me?”
+[says] (p.69) “To… Kōenji-kun’s place.”
+[says] (p.69) “I understand. Thank you.”
+[says] (p.69) “It’s sudden, but would it be alright if we go early tomorrow? If we wait too long, I might have trouble sleeping...”
+[says] (p.69) “Thank you for today. We’ll be meeting again tomorrow, but for now, please have my most heartfelt thanks.”
+[scene] (p.70) Saturday 11:30 a.m.; the lobby couch; the towels in a paper bag; she has no contact info for Kōenji; she thought AK arranged the meeting; she breaks into tears at the oversight; he stops her spiral.
+[says] (p.70) “Good morning, Ayanokōji-kun.”
+[says] (p.70) “Eh?”
+[says] (p.70) “Yes.”
+[says] (p.70) “...I’m not, actually...”
+[says] (p.70) “Ah, that should’ve been the obvious course of action, isn’t it? I wasn’t thinking at all because of the nerves and tension and all that. I don’t even have Kōenji-kun’s contact information. I thought you had arranged it. I interpreted it arbitrarily... I’m really sorry!”
+[says] (p.70) “Really?”
+[scene] (p.71) Eyes still slightly red; she sets off as they head for the Keyaki Mall gym.
+[says] (p.72) “How was it?”
+[says] (p.72) “Y-yes.”
+[says] (p.72) “I’m starting to get a bit nervous.”
+[says] (p.72) “Neither do I...”
+[scene] (p.72) She reveals the towels — face + hand, about ¥12,000; organic cotton; against his advice of half price.
+[says] (p.72) “Umm, I wasn’t sure what to get him, so I decided on a face towel and a hand towel.”
+[says] (p.72) “You might think so, but I thought it was something he would like. I regularly see Kōenji-kun using both.”
+[says] (p.72) “Yes. I thought if it’s a luxurious, organic cotton towel he might accept it, so… Oh…”
+[says] (p.72) “Uh… y-yes. I’m sorry...”
+[says] (p.72) “Well… about ¥12,000.”
+[says] (p.72) “Yes. I have to properly return the favor for his help.”
+[scene] (p.73) Kōenji exits; ignores them at first; she chases with a shout.
+[says] (p.73) “H-he came out.”
+[says] (p.73) “Um, Kōenji-kun! Can I have a minute of your time!?!”
+[says] (p.73) “Eh, wang-what?”
+[says] (p.73) “I wanted to discuss something with you. Can I take a little bit of your time, please?”
+[scene] (p.74) His walk-off; she is flustered; the courage she mustered may not come back; they decide to tail him.
+[says] (p.74) “Oh, oh no...”
+[says] (p.74) “What should we do now...?”
+[says] (p.74) “Oh... I needed a lot of courage to approach him this time... I might not get it back if I need to try again.”
+[says] (p.74) “Ye-yes! Stealth tailing it is, then!”
+[says] (p.74) “Shouldn’t we be in a hurry? We might lose him.”
+[scene] (p.75) The café; Enoshima Midoriko (class 3-B); the encirclement; the re-entry; he has vanished with his drink.
+[says] (p.76) “So... Does that mean we can’t meet him today?”
+[scene] (p.76) The long-sought supporter; will he admit it?
+[says] (p.76) “Was it you, Kōenji-kun... who left stuff from the convenience store in front of my door while I was absent from school...?”
+[scene] (p.76) He admits it with total confidence and zero hesitation — the fact she longed to discover lands as a flat statement.
+[scene] (p.77) She tries to repay: towels rejected; money rejected; she cannot repay a debt she doesn’t remember incurring.
+[says] (p.77) “...I, I don’t remember doing anything for you. I don’t think you owe me anything. According to what you said, it seems like I’ve helped you before...”
+[says] (p.77) “I don’t remember it at all… but, well, please accept this for now.”
+[says] (p.77) “W-well, if you don’t like this, I don’t mind if you don’t accept it. But in that case, would you at least let me pay you back? The money you spent for me isn’t cheap.”
+[says] (p.78) “B-but that’ll be a problem! That… I can’t get rid of the feeling of guilt… in that case, could you at least tell me what I did for you?”
+[scene] (p.80) He leaves; she remains frozen; she notices his threatening tone made her anxious.
+[says] (p.80) “Ah, um... Ayanokōji-kun.”
+[says] (p.80) “No, it’s nothing.”
+[note] (p.66) The pages imply (but do not print) her crush's origin — Hirata revealed through the unanimous-voting exam; she says so only in the passed-away narration.
+[note] (p.72) She consistently overstates her gratitude and under-measures her repayment budget; ¥12,000 for a towel set she never used.
+[note] (p.74) Her courage is consumable — "I might not get it back if I need to try again"; she agrees to stealth tailing because a second approach costs too much.
+[voice] (p.60–80) Formal, soft, flustered by any surprise; apologizes for everything, for omits and gaffes alike; cannot feign ignorance once the truth is within reach.
+[limit] (p.62) Cannot bring herself to walk into a room where she might learn the sender's identity for six days straight.
+[rel:kouenji-rokusuke] (p.66–80) Her anonymous benefactor; she chases him, fails to repay him, leaves unbalanced.
+[rel:ayanokouji-kiyotaka] (p.60–80) He accompanies her at her request; his calm rationality is what unlocks the store confrontation.
+[rel:hirata-yousuke] (p.60) The crush behind the absence; she has barely seen him since.
 
+<!-- walk: y2v10 Ch.3 → p.80 -->
 
+### y2v10 p.164–164 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.164) Passing mention — Wang Mei-Yui,' Shinohara Satsuki'
 
+<!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.81–81 — Ch.4: passing mentions (locator cross-check)
+[mentioned] (p.81) Passing mention — AVING FIGURED OUT the identity of Mii-chan's benefactor during my day
+
+<!-- walk: y2v10 Ch.4 → p.100 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

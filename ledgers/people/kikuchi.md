@@ -11,6 +11,10 @@ char_id: kikuchi · class: unknown · status: unknown
 [note] (p.9) Passing mention (locator pages: p.130; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.130–130 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.130) Passing mention — Ishikura Kayoko,' Kikuchi Eita,' Inogashira Kokoro'
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v10.25
 
 <!-- walk: y2v10.25 → start -->

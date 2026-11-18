@@ -202,9 +202,21 @@ char_id: amikura-mako · class: Class 1-B · status: minor (allies)
 [note] (p.9) Passing mention (locator pages: p.107-109, p.117; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.107–109 — Ch.5: The fourth seat
+[scene] (p.107) She arrives with Ichinose and Kanzaki carrying snacks; sits by Ichinose; her silence reads as patience; she expected neither the phone story nor the door.
+[says] (p.108) “The special exam is tomorrow, right? Isn’t it too late to push for the four classes to collude now?”
+[says] (p.108) “If the four classes could coordinate and ensure a clear victory, her suggestion is worth considering. Even if we lose class points, as long as all classes”
+[says] (p.109) “face the same fate, it wouldn’t be unfair. As Kanzaki-kun said, it might still be possible to realize that plan.”
+[scene] (p.109) She watches the gathering dissolve; she keeps her own counsel as the guests leave past six.
+[note] (p.107) She came as Watanabe's plausible cover story's fourth presence — no one asks her to confirm anything.
+[rel:ichinose-honami] (p.107–109) Best friend; she knows what the "repulsive" remark means and mischievously enjoys it.
+[rel:watanabe-norihito] (p.106–109) He likes Mako-chan; she is aware; she hears everything.
+[rel:kanzaki-ryuuji] (p.108) She agrees publicly with the coordination logic; he is relieved to find an ally.
 
+### y2v10 p.117–117 — Ch.5: passing mentions (locator cross-check)
+[mentioned] (p.117) Passing mention — What did Amikura look like today? Was she watching me? Was my story
 
-
+<!-- walk: y2v10 Ch.5 → p.122 -->
 ## y2v10.25
 
 <!-- walk: y2v10.25 → start -->

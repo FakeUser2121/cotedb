@@ -2570,7 +2570,6 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [says] (p.176) "Heh. It seems you can't do anything, Sakayanagi."
 [note] (p.172) Ryūen, intent on revenge; he abandoned the face he had at twelve, chasing the revenge.
 
-<!-- walk: y2v10 Ch.6 → p.188 -->
 
 
 ### y2v10 p.9-235 — ryuuen-kakeru mentioned in passing
@@ -2578,6 +2577,144 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [note] (p.9) Passing mention (locator pages: p.8, p.39-41, p.85-87, p.91, p.94-96, p.102; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.8 — Prologue: Hashimoto's vow
+[scene] (p.8) Hashimoto's monologue opens the volume; he names Ryūen as a possible opponent in his Class A revenge.
+[rel:hashimoto-masayoshi] (p.8) Named in Hashimoto's monologue as a possible opponent in his Class A revenge.
+
+<!-- walk: y2v10 Prologue → p.8 -->
+
+### y2v10 p.39–42 — Ch.2: Ryūen, the collusion exception named
+[mentioned] (p.39) Passing mention: the page cites "the contract Ryūen and Katsuragi made during the deserted island exam last year in summer, in which they forfeited class points in exchange for Private Points" as the rare collusion exception.
+[mentioned] (p.40) Passing mention: "setting aside Horikita and Ichinose, the possibility of such a proposal getting through to Ryūen or Sakayanagi was low."
+[mentioned] (p.42) Passing mention: "someone like Ryūen or Sakayanagi might easily undertake such merciless tasks" (the expulsion-nomination burden of a losing leader).
+[note] (p.39) The deserted-island contract is referenced, not narrated; no scene, no dialogue.
+
+
+### y2v10 p.85–86, 91, 96 — Ch.4: Ryūen, the feared rival named
+[mentioned] (p.85) Passing mention: the hypothetical — "If Ryūen-kun’s class were to use that strategy... one person expelled from his class, the addition of Katsuragi-kun has kept their numbers at 40."
+[mentioned] (p.86) Passing mention: "If Ryūen-kun’s class could only get up to 66 points, the other three classes should team up and aim for more."
+[mentioned] (p.91) Passing mention: memory — "When we were at karaoke with Ryūen, Horikita had witnessed the time when I was about to be splashed with orange juice by surprise."
+[mentioned] (p.96) Passing mention: "Ryūen is ruthless to whoever he is up against. He’s always thinking of ways to defeat the enemy’s most capable students."
+[note] (p.85) Rank speculation on these pages: the page places Ryūen's class among the bottom two with Ichinose's.
+
+
+### y2v10 p.105 — Ch.5: The restroom run-in
+[scene] (p.105) Leaning against the wall beside the entrance with his phone in his hand; snorted a laugh at Hashimoto's refuge habit; they trade barbs about being seen together before the exam.
+[says] (p.105) “Looks like the long shit is over.”
+[says] (p.105) “I was just wondering what you were up to.”
+[says] (p.105) “If you’re innocent, then act with confidence.”
+[note] (p.105) He's curious, not hostile; the pages never say whether he knows why Hashimoto was there.
+[note] (p.105) He is also Class A; the two of them pass each other at least outwardly civil; neither says why he was there. The pages leave the reason for the restroom encounter unspoken.
+
+
+### y2v10 p.144–153, 156–161, 172–176, 180–184 — Ch.6: The hidden hand surfaces
+[scene] (p.144) The exam begins; Class C's lead attack lands on his class; he zones out staring at his phone for nearly a minute; classmates freeze; Hoshinomiya intervenes; his decision comes only at the deadline.
+[scene] (p.146) First Category Lifestyle D1: Kitō, Kamuro, Hashimoto, Machida, Yamamura; Sakayanagi protects Machida; three answer right; A gets four points; D receives one.
+[scene] (p.146) Fifth turn — he keeps targeting the same cluster (Kitō, Kamuro, Hashimoto, Yamamura, Machida, Sanada, Satonaka, Matoba); his class's defensive answer rate is dismal; they sit expressionless.
+[scene] (p.147) Kaneda — the advisor — is the only one not even touching his phone; he's the only one working; Ishizaki sleeps at his seat.
+[says:kaneda-satoru] (p.147) “I’ve been focusing on studying, and I try not to unnecessarily cram knowledge. It’s not good to disrupt the routine.”
+[scene] (p.154–158) The cafeteria lunch; he crashes their table — wolf among sheep; plays the threat; Yamamura leaves the table? no; he reveals nothing — he leaves early with a message for AK: watch silently.
+[says] (p.157) “Kuku! I just came as the wolf to check on this flock of sheep.”
+[says] (p.158) “I highly recommend you to fight more intelligently.”
+[says] (p.158) “Speaking of which, the only one not here is Ichinose, right?”
+[says] (p.160) “She’s prepared to lose in order to keep anyone from her class from getting expelled. She’s a seriously stupid woman.”
+[says] (p.161) “But next, I’ll be the one attacking your class. Even if the protection success rate increases as the elimination rate rises, I wonder how many points I can get.”
+[says:sakayanagi-arisu] (p.161) “I’ll look forward to it.”
+[scene] (p.161) He stands; brushes his hair; his face offers AK one glimpse of the beast behind the mask; the message is received.
+[scene] (p.172) POV interiorization — the beast; the promise he made to himself; he slowly gets up before the second half begins.
+[says] (p.173) “Well then—it’s about time to start. Move over.”
+[says] (p.173) “It’s the second half. The difference in points is only ten. In other words, catching up is possible if you get a perfect score a few times. I can count on you guys, right?”
+[scene] (p.175) Turn 11 defense — Sakayanagi attacks with Sports D3; he responds by declaring five names without hesitation: Katsuragi, Shiina, Tokitō, Nomura, Ibuki; every single one answers or is protected; he calls it "gambling".
+[says] (p.175) “Kuku! You’ve made mistakes twice and now have no room for more. If you fail, you’ll be the first to be nominated for expulsion among the rebellious types like you.”
+[says] (p.175) “Don’t joke around. It’s not just the class’s problem. Ryūen, you must understand that it’s hard for other classes to get perfect scores too. As a leader, you should use your wisdom to protect as many people as possible.”
+[says] (p.175) “Katsuragi, Shiina, Tokitō, Nomura, Ibuki. Get on with it.”
+[says] (p.176) “Gambling can be fun. It’s like randomly tossing a dice.”
+[says] (p.176) “Heh. It seems you can’t do anything, Sakayanagi.”
+[scene] (p.176) Turns 12–14: he names the same five; four perfect protections in a row; the class is glued to the monitor; Sakayanagi has no answer.
+[note] (p.176) By the time Sakayanagi figures it out, it's too late — they catch 24 points and tie with Ichinose.
+[scene] (p.180–184) Ichinose's offer; his terms; the actual contract delivered through her phone — he takes what he wants.
+[says] (p.180) “That’s a pretty selfish wish. Do you think I’ll just listen and obediently go along with it?”
+[says] (p.180) “I’ll agree to avoid eliminating any of your classmates, but your guaranteed 25 points are unnecessary. If you act strangely in the first half, Sakayanagi will see through it.”
+[says] (p.180) “After the offense and defense reversal in the second half, accept the points from me as necessary. And no details. Decide whether or not you trust me based on that.”
+[says] (p.183) “Stay quiet and live.”
+[says] (p.183) “Do you think I agreed out of goodwill? You being the last in line wouldn’t have benefited me. I just took the power to control the score as needed.”
+[note] (p.176) Ryūen's gambit relies entirely on Sakayanagi misreading his attack as weakness.
+[note] (p.180) The collusion is not a partnership — it's a transaction; the page prints the full thread.
+[trait] (p.172) The beast in the cage; the promise; the patience; nobody else does this.
+[rel:ichinose-honami] (p.180–184) The deal she can't refuse; he accepts only partial terms; he never explains them.
+[rel:sakayanagi-arisu] (p.172, 176) The target he's hunting; her counter is gambling-adjacent, his is mathematics.
+[rel:hoshinomiya-chie] (p.144, 145, 176) He treats his homeroom teacher as background noise; she is used to it.
+
+
+### y2v10 p.202–205 — Ch.7: The victory seen from the window
+[scene] (p.202) Ryūen's class is in high spirits; Ishizaki leaps for joy; Katsuragi walks majestically toward Keyaki Mall; Hiyori watches from the window with a forced smile.
+[scene] (p.204–205) He arrives to find Hiyori pale and thoughtful; her unease about Ryūen's gambles has not landed him in trouble — yet.
+[note] (p.205) He never once appears on these pages; the whole chapter is anchored on his effect, his entourage, and Hiyori's worry.
+
+
+### y2v10 p.102–120 — Ch.5: passing mentions (locator cross-check)
+[mentioned] (p.102) Passing mention — The future where I might lose to Ryūen in a direct showdown with a
+[mentioned] (p.120) Passing mention — drop from the top. Ichinose and Ryūen's classes wouldn't profit substantially.
+
+<!-- walk: y2v10 Ch.5 → p.122 -->
+
+### y2v10 p.124–185 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.124) Passing mention — Shortly after, Sakagami-sensei, Ryūen's homeroom teacher, appeared in the
+[mentioned] (p.125) Passing mention — Class C. Then Ichinose would attack Ryūen's Class D, followed by Ryūen
+[mentioned] (p.128) Passing mention — Next, Ichinose's class launched an attack on Ryūen's class. The category
+[mentioned] (p.129) Passing mention — In response, Ryūen managed to protect one person.
+[mentioned] (p.131) Passing mention — Ryūen's class successfully protected one student and one of them got the
+[mentioned] (p.134) Passing mention — place with 9 points, and Ryūen's class at the bottom with 5 points. If Kōenji had
+[mentioned] (p.135) Passing mention — happen in the first half of the exam, and everything depended on Ryūen's skill.
+[mentioned] (p.138) Passing mention — Ryūen's class was the first to be out. He was followed in the 8th turn by Sotomura
+[mentioned] (p.139) Passing mention — Knowing Ryūen, he might make a big move in the last turn or two.
+[mentioned] (p.140) Passing mention — bottom two classes were concerning too, especially Ryūen's class, which had
+[mentioned] (p.145) Passing mention — class as Ryūen's advisor.
+[mentioned] (p.159) Passing mention — Ryūen, who evidently wasn't privy to all of Class A's intricacies, expressed
+[mentioned] (p.163) Passing mention — During the first half, she successfully protected against Ryūen's attacks, and
+[mentioned] (p.164) Passing mention — Ryūen.
+[mentioned] (p.165) Passing mention — with four correct answers, but what surprised the class was once again Ryūen's
+[mentioned] (p.166) Passing mention — Ike, having probably assumed that Ryūen's class would be at the bottom,
+[mentioned] (p.171) Passing mention — However, Ryūen's class showed even more momentum. Even though
+[mentioned] (p.177) Passing mention — regular manner, unlike Ryūen. Ichinose used the protection function primarily for
+[mentioned] (p.185) Passing mention — place with 40 points each. In third place was Ryūen's class with 39 points.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.189–215 — Ch.7: passing mentions (locator cross-check)
+[mentioned] (p.189) Passing mention — This time, the target shifted from Horikita's class to Ryūen's.
+[mentioned] (p.190) Passing mention — Some sighed at Ryūen's luck, others desperately clung to their phones to
+[mentioned] (p.191) Passing mention — It wasn't because she was wracking her brain to avoid Ryūen's flawless
+[mentioned] (p.192) Passing mention — touching their phones and check them. Ryūen-kun might have a trick up his
+[mentioned] (p.199) Passing mention — 1st: Ryūen【Class D】69 points
+[mentioned] (p.200) Passing mention — some kind of deal between Ryūen-kun's and Ichinose-san's classes... Of course,
+[mentioned] (p.201) Passing mention — But the turning point of all this was that Ryūen was able to sense all of
+[mentioned] (p.206) Passing mention — about it, the class's information must have leaked to Ryūen.
+[mentioned] (p.209) Passing mention — The screen showed Hashimoto walking with Ryūen at Keyaki Mall.
+[mentioned] (p.210) Passing mention (see p.210).
+[mentioned] (p.211) Passing mention (see p.211).
+[mentioned] (p.214) Passing mention (see p.214).
+[mentioned] (p.215) Passing mention (see p.215).
+
+<!-- walk: y2v10 Ch.7 → p.216 -->
+
+### y2v10 p.223–224 — Epilogue: passing mentions (locator cross-check)
+[mentioned] (p.223) Passing mention — to bring out each class's maximum potential. To do this, I will meddle with Ryūen,
+[mentioned] (p.224) Passing mention — Ryūen had shed a layer and started moving forward.
+
+<!-- walk: y2v10 Epilogue → p.235 -->
+
+### y2v10 p.41–41 — Ch.2: passing mentions (locator cross-check)
+[mentioned] (p.41) Passing mention — While someone like Ryūen or Sakayanagi might easily undertake such
+
+<!-- walk: y2v10 Ch.2 → p.59 -->
+
+### y2v10 p.87–95 — Ch.4: passing mentions (locator cross-check)
+[mentioned] (p.87) Passing mention — Considering the current point differences among the four classes, Ryūen's
+[mentioned] (p.94) Passing mention — class is Ryūen's class, and the one expelled is Ibuki Mio. Which of the three
+[mentioned] (p.95) Passing mention — scenario. Moreover, there's no guarantee that Ryūen can appoint someone to be
+
+<!-- walk: y2v10 Ch.4 → p.100 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

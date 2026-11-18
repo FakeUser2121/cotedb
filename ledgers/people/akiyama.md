@@ -32,9 +32,11 @@ char_id: akiyama · class: unknown · status: unknown
 [note] (p.9) Passing mention (locator pages: p.72; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.72 — Ch.3: The gym staff member named
+[scene] (p.72) As they leave the training room, AK exchanges brief greetings with Akiyama-san, the gym staff member; the detail is a passing beat in the narrative.
+[note] (p.72) No dialogue attributed to him on the page; the gym is where AK had been going recently himself.
 
-
-
+<!-- walk: y2v10 Ch.3 → p.80 -->
 ## y2v10.25
 
 <!-- walk: y2v10.25 → start -->

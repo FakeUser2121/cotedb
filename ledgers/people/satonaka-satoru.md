@@ -40,9 +40,12 @@ char_id: satonaka-satoru · class: Class 1-B · status: minor
 [note] (p.9) Passing mention (locator pages: p.146, p.168; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.146, 168 — Ch.6: The turn-13 pick
+[mentioned] (p.146) Named — he is part of the cluster of students Ryūen keeps targeting; his name surfaces in the attack list Hashimoto overhears.
+[scene] (p.168) He is the off-week answer — Kushida fingers him; Horikita orders the strike without needing a reason; he is the one who answers wrong on the Kanji question.
+[note] (p.168) "Satonaka-kun" — the teacher's translation choice; his name is exact; no dialogue attributed to him on these pages.
 
-
-
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

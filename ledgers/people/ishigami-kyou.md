@@ -173,3 +173,19 @@ char_id: ishigami-kyou · class: unknown · status: unknown
 [mentioned] (p.14) Mentioned in the career discussion; spelling variance kept as printed.
 
 <!-- walk: y2v10 Ch.1 → p.15 -->
+
+### y2v10 p.14–15 — Ch.1: Keisei on the top-company path
+[scene] (p.14) “Keisei, a top student in our class, opened his mouth.” — the class's most credentialed voice on using the Class A privileges.
+[says] (p.14) “If we’re talking about the Class A privileges, then we should definitely opt for a job at a top company. Setting aside the exceptional case where one’s skills are obviously not up to par, as long as we can work as much as others, we won’t be fired easily. For us, jumping into a world where we win as long as we get in might be the best option.”
+[trait] (p.14) Logical; advocates the top-company get-in-and-win play; his statement leaves the classmates nodding, convinced.
+[note] (p.15) An untagged classmate then says: “Considering efficiency, Yukimura-kun’s choice might be correct. But I think it’s also important to aim for the job you want.” The speaker of that line is unattributed; not assigned.
+
+<!-- walk: y2v10 Ch.1 → p.30 -->
+
+### y2v10 p.132–133 — Ch.6: The Gourmet Food fumble
+[scene] (p.132) He is the one who made the mistake; he slams the desk after remembering; he apologizes profusely to Horikita; she tells him to try harder next time.
+[says] (p.133) “I’m sorry, Horikita, I was so nervous that the answer didn’t come to me right away... even though I was supposed to know it.”
+[note] (p.132) Not selected to be protected in turn two; his classmates above him all escaped attention; the page does not say why Horikita passed him over.
+[trait] (p.132) Top student; shaky under special-exam pressure; the one who over-apologizes.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->

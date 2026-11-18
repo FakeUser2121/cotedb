@@ -322,3 +322,10 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 [mentioned] (p.9) Passing mention only.
 
 <!-- walk: y2v12 Epilogue → p.228 -->
+
+### y2v10 p.166–167 — Ch.6: The unexpected tapioca pearl
+[scene] (p.166) Named in turn 12 — Ichinose's News D1, the question: what does ‘tapiru’ mean — he, AK and Kei are nominated; he answers correctly, escaping any wrong answer.
+[scene] (p.167) His name is among the correct students; Kei answered correctly too — only AK missed; four points.
+[note] (p.166) The term 'tapiru' is not explained on the page; the correct answer per the translation is ‘sipping a drink with tapioca pearls.’
+
+<!-- walk: y2v10 Ch.6 → p.188 -->

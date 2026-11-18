@@ -1335,8 +1335,83 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y2v10 Ch.1 → p.13 -->
 
+### y2v10 p.12 — Ch.1: Student-teacher discussions announced
+[scene] (p.12) First to speak after Chabashira-sensei's notice, as always, was Ike; the class had not known such a discussion existed at this school.
+[says] (p.12) “I didn’t know we had such a thing at this school. I actually thought we didn’t.”
+[voice] (p.12) The first to speak up, as always, as Chabashira-sensei finished the morning notice; no one in the class was surprised.
+
+<!-- walk: y2v10 Ch.1 → p.30 -->
+
+### y2v10 p.32, 36, 47 — Ch.2: Ike's candor, the difficulty-level slip
+[scene] (p.32) Straight away he voices the room's fear aloud over the exam's name.
+[says] (p.32) “Survival and elimination? That sounds very dangerous...”
+[scene] (p.36) During her explanation, a thought escapes his mouth before he can stop it; covers his mouth too late; timidly looks up at Chabashira-sensei.
+[says] (p.36) “Won’t everyone just pick the highest difficulty level for their opponents?”
+[says] (p.36) “Y-yes, I’m sorry!”
+[scene] (p.36) She lets it slide with only a sigh — "albeit sighing, didn’t seem too harsh on him".
+[scene] (p.47) He reacts to Maezono's challenge unexpectedly; cuts straight to the point.
+[says] (p.47) “So, Maezono, do you have someone better in mind? I don’t get it.”
+[note] (p.39) Unnamed student screams at the expulsion prospect; he is not that voice.
 
 
+### y2v10 p.81–88 — Ch.4: The 68-point strategy, dissected
+[scene] (p.81) Wednesday afternoon, two days before the exam; he slams his hands on his desk: an unbeatable strategy; the class empties skeptically; he recalculates on his fingers and pulls out his phone; undeterred.
+[says] (p.81) “Dude... I think... I might have an incredible winning strategy...!”
+[says] (p.81) “No, seriously. But wait, let me recalculate a little...”
+[says] (p.81) “No doubt! This is a winning idea!? Can I talk about it?!”
+[says] (p.81) “Ah, okay. It’d be serious if my too-perfect strategy got leaked...!”
+[scene] (p.83) Karaoke, the usual crew; his proposal on Horikita's serious face — 68 guaranteed points.
+[says] (p.83) “Alright, let’s get to the point. Suppose we were to guarantee that we get 68 points for our class. Can we agree that this would be a winning score?”
+[says] (p.83) “While it’s risky, we could secure exactly 68 points. We do this by feigning sickness right as the exam starts. Our class has 38 students—if we only leave five for defense, plus the leader, and then have the remaining 32 eliminated...”
+[says] (p.83) “That’s fine. Even if we subtract 32 points for the eliminated students, we are guaranteed to get 68 points.”
+[says] (p.84) “But, you know, the opponent can only nominate five students, right? We can protect five students each round, but we only have five students left to nominate, right?”
+[says] (p.84) “Moreover! No one even needs to study for the exam! Not a bad idea, huh?”
+[says] (p.84) “Feigning illness... It’s a bit of a gray area in terms of the rules, but I suspect the school wouldn’t be able to stop us, even if they found it suspicious. No one can prove we’ve faked it.”
+[says] (p.85) “Wh-why? Well, I’m not insisting that you adopt it...”
+[says] (p.85) “Sure, but there’s no guarantee that the other three classes will each be able to score 67 points or more, right? While there might be a risk of coming last, isn’t there a higher probability of coming first?”
+[says] (p.85) “Why? We won’t know how difficult the questions are until the actual exam, right? So then—”
+[says] (p.86) “Wait a minute. I don’t quite get it, but if we gang up on them, they’d lose?”
+[scene] (p.87) His shoulders drop; he succumbs; he apologizes unprompted; he accepts her critique; the 68-point idea was real, only beatable by cooperation.
+[says] (p.87) “Damn! I thought we could win! I feel bad for getting everyone together!”
+[says] (p.87) “Uh, oh... I feel happy, but it’s a bit complicated...”
+[says] (p.88) “S-so, if that’s the case, uh, good. Hehe.”
+[voice] (p.81) Aims high, cares about fair play (leak anxiety), fingers-counting procrastination, humility when corrected; apologizes earnestly.
+[trait] (p.83–87) Genuinely clever — the 32-elimination 68-point guarantee was a real idea; he absorbs rigorous critique and leaves with more understanding than he came.
+[rel:horikita-suzune] (p.81–88) She takes his strategy seriously; he's crestfallen but oddly relieved.
+
+
+### y2v10 p.128, 131, 165–166, 168 — Ch.6: The canary in the coal mine
+[scene] (p.128) When the English problem appears; his head hits the table; he cries out; he recovers.
+[says] (p.128) “What is this? Isn’t this difficult!?”
+[scene] (p.131) Turn 2 — he's one of the protected; he hears his name; the room breathes; he witnesses the Keisei fumble.
+[scene] (p.166) Turn 12 — the perfect-protection streak; his jaw drops; he clutches his head in both hands in horror.
+[says] (p.166) “What kind of odds are those!? They’re too lucky!?”
+[scene] (p.168) He watches the exam evolve; his trust in Horikita never wavers — not once.
+[voice] (p.128) Open book; reacts instantly; the emotional reactor of the class.
+
+### y2v10 p.129–167 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.129) Passing mention — Sonoda Chiyoda,' Ichihashi Ruri,' Okitani Kyōsuke,' Ike Kanji,' Makida
+[mentioned] (p.130) Passing mention — Okitani Kyōsuke,' Ike Kanji'
+[mentioned] (p.132) Passing mention — (TL NOTE: 八 is the kanji for 8, they are meant to trace this shape.)
+[mentioned] (p.167) Passing mention — The genre was Kanji' with a difficulty level of 1. However, to my surprise,
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.34–34 — Ch.2: passing mentions (locator cross-check)
+[mentioned] (p.34) Passing mention — kanji, and history, to subjects which are not related to academics, such as
+
+<!-- walk: y2v10 Ch.2 → p.59 -->
+
+### y2v10 p.8–8 — Prologue: passing mentions (locator cross-check)
+[mentioned] (p.8) Passing mention — (TL Note: Masayoshi's kanji can be interpreted as justice)
+
+<!-- walk: y2v10 Prologue → p.8 -->
+
+### y2v10 p.91–92 — Ch.4: passing mentions (locator cross-check)
+[mentioned] (p.91) Passing mention (see p.91).
+[mentioned] (p.92) Passing mention — I couldn't deny that. There were days when Ike was at the bottom and days
+
+<!-- walk: y2v10 Ch.4 → p.100 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

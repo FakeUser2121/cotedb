@@ -987,9 +987,39 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.9) Passing mention (locator pages: p.39, p.57, p.85, p.145, p.164, p.175; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.39, 57 — Ch.2: Katsuragi, the other Class A leader named
+[mentioned] (p.39) Passing mention: "the contract Ryūen and Katsuragi made during the deserted island exam last year in summer, in which they forfeited class points in exchange for Private Points."
+[mentioned] (p.57) Passing mention: Morishita names "Sakayanagi Arisu and Katsuragi Kōhei leading the class as leaders" as the reason Class A protected everyone.
+[note] (p.39) Both mentions are references; no scene presence; no dialogue attributed to him on these pages.
 
+<!-- walk: y2v10 Ch.2 → p.59 -->
 
+### y2v10 p.85 — Ch.4: Katsuragi, the class number named
+[mentioned] (p.85) Passing mention: "Even though there was one person expelled from his class, the addition of Katsuragi-kun has kept their numbers at 40." — in the hypothetical Ryūen-class scenario, his enrollment keeps the arithmetic honest.
+[note] (p.85) Reference only; no scene presence; no dialogue.
 
+<!-- walk: y2v10 Ch.4 → p.100 -->
+
+### y2v10 p.144–145, 164, 175–176 — Ch.6: The stone wall
+[mentioned] (p.144) Referenced — Ryūen's class losing-organ? no; the pages introduce him as the one students turn to when Ryūen goes silent at the podium.
+[scene] (p.145) He does not move; he stands with his eyes closed, crosses his arms, and lets the offensive timer pass; he seems to know exactly what's coming.
+[scene] (p.164) Turn 11 defense — Sakayanagi hurls Sports D3; he and the other four are all successfully protected.
+[scene] (p.175) Turn 12 defense — Sakayanagi attacks again; he and the other four protected again.
+[scene] (p.176) Turn 13 & 14 — he is the perfect-defense anchor for the fourth consecutive time.
+[rel:ryuuen-kakeru] (p.144–145, 164, 175–176) The one the class turns to when Ryūen plays silent; his stillness reads as intent.
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.202–205 — Ch.7: The one going to the mall
+[mentioned] (p.202–205) He appears at the celebration; his gait is majestic even when he bows; he is heading to Keyaki Mall early.
+[rel:shiina-hiyori] (p.205) Her worry registers him first; he doesn't reciprocate it in any way she can tell.
+
+<!-- walk: y2v10 Ch.7 → p.216 -->
+
+### y2v10 p.229–229 — SS/Credits: passing mentions (locator cross-check)
+[mentioned] (p.229) Passing mention — Perhaps only Katsuragi-kun in my class understood this. He was much more
+
+<!-- walk: y2v10 Epilogue → p.235 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

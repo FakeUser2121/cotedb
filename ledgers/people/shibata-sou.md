@@ -407,9 +407,12 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 [note] (p.9) Passing mention (locator pages: p.127-128; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.127–128 — Ch.6: The first attack
+[scene] (p.127) Named among our class's five attack nominees — English D1; she is on the list with Kobashi, Watanabe, Sumida and Ninomiya.
+[scene] (p.128) Correct Students: Kobashi Yume, Shibata Sō — they are the ones who answered; six gate passes; no complacency.
+[note] (p.128) She answered the English question; the page does not record whether she struggled.
 
-
-
+<!-- walk: y2v10 Ch.6 → p.188 -->
 ## y2v10.25
 
 <!-- walk: y2v10.25 → start -->

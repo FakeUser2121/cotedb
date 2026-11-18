@@ -996,7 +996,6 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:wang-mei-yu] (p.66–80) She unexpectedly figured out he was her benefactor; a long-overdue payback.
 [rel:ayanokouji-kiyotaka] (p.66–80) Asks precisely what he owes and whether he'll agree to the deal — Kōenji will not agree.
 
-<!-- walk: y2v10 Ch.3 → p.80 -->
 
 
 ### y2v10 p.9-235 — kouenji-rokusuke mentioned in passing
@@ -1004,6 +1003,95 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [note] (p.9) Passing mention (locator pages: p.45, p.48-50, p.67-80, p.97-98, p.120, p.129-130; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.9) Passing mention only.
 
+### y2v10 p.45, 50 — Ch.2: Kōenji, the absent constant
+[mentioned] (p.45) Passing mention: the 37 gathered for lunch exclude Kōenji — "About 10 minutes after the lunch break started, 37 classmates, excluding Kōenji, had gathered in the classroom." The page recalls he placed first alone in the deserted-island exam on an advanced-payment promise, gaining the right to complete freedom — unconditional protection for this exam.
+[mentioned] (p.50) Passing mention: absent from the discussion; Sudō asks about him aloud; Horikita reveals his email: polite, in writing, demanding protection from expulsion.
+[says:kouenji-rokusuke] (p.50) “It goes without saying, but I’d be in trouble if you don’t protect me from expulsion.”
+[note] (p.50) The email's wording is printed inside Horikita's speech as the text she shows the class on her phone screen; the page frames it as Kōenji's email.
+[note] (p.45) The advanced-payment/immunity background is narration, not his speech; no scene presence; he never speaks on these pages.
+
+
+### y2v10 p.66–80 — Ch.3: The benefactor is named; the gifts refused
+[scene] (p.66) The convenience-store reveal: the transferred shift leader, remembering the buyer, identifies him — Kōenji.
+[scene] (p.67) The clerk describes him: long-haired, blond, acting high and mighty, losing himself in the store-glass reflection, fixing his hair with a hand mirror — "this is Kōenji-kun, right?"
+[scene] (p.70) Kept between AK and the bench by the gym's entrance; he exits after the bench press; he spots them and crosses without a word.
+[says] (p.73) “Do you need something from me, Wang girl?”
+[note] (p.73) "Wang girl" — a portmanteau of her family name Wang 王(ワン)Mei-Yui; a nickname likely only Kōenji would use; she cannot place it.
+[says] (p.73) “I’m sorry, but I’m a bit in a rush right now. Let’s talk another time. Hahaha.”
+[scene] (p.74) He walks off mid-refusal; AK takes responsibility for the tail; they track him to the café.
+[says] (p.75) “Oh? Wang girl and Ayanokōji boy. You’ve come to chase after me again? It’s tough being popular. Hahaha.”
+[says] (p.76) “Of course. My personal business finished quicker than expected.”
+[scene] (p.76) The cafe table with Enoshima; his drink is missing when they return — only she is there, scrolling her phone; then he reappears walking back the way he came.
+[says] (p.76) “It was me who gave you those items, but why does it matter?”
+[says] (p.76) “Why? If someone is in trouble, I help them. Aren’t you the same type of person?”
+[says] (p.77) “You sure choose your words well, Ayanokōji boy. You won’t let me get away with implying it was a whim. It’s not like I helped Wang girl out on a whim. I detest hypocrisy. But that doesn’t mean I disrespect goodwill. When I feel a sincere debt, I consider it natural to repay it. It’s just that.”
+[says] (p.77) “Hahaha!”
+[says] (p.77) “That’s why it’s not out of hypocrisy but goodwill. Just a trivial matter that you don’t even need to remember.”
+[says] (p.77) “I don’t need this. I don’t think it’s a matter of receiving thanks.”
+[says] (p.77) “Unfortunately, I’m not in need of money at the moment. I don’t want it.”
+[says] (p.78) “Oh, dear. You seem to have quite a difficult personality. Didn’t I say? It’s a trivial matter that you don’t even need to remember. It’s neither more nor less than that. There’s nothing more to say.”
+[says] (p.78) “That’s nonsense, Ayanokōji boy. I’m needed for the class to win, and for that, you have to show goodwill towards me. That becomes hypocrisy, you see?”
+[says] (p.78) “Maybe.”
+[says] (p.78) “You should already know this. There’s no way you can make me your ally, not by any means.”
+[says] (p.78) “That’s right. I won’t change until I graduate, even after that. No matter how much cleverness you guys squeeze out, it won’t reach or resonate with my heart. Of course, this includes you as well.”
+[says] (p.79) “I’ve always protected myself. It’s as simple as that.”
+[says] (p.79) “Do as you please. Regardless, there’s no point in trying to obligate me when I won’t reciprocate.”
+[says] (p.79) “If ‘someone’ tries to ostracize me, they’d better be prepared.”
+[says] (p.79) “That’s part of the surprise.”
+[says] (p.79) “So be it. I have dates after this, so I’d better get going.”
+[note] (p.73) "Wang girl" is a portmanteau of Wang 王(ワン) Mei-Yui; the page says it's likely a nickname only Kōenji would use.
+[note] (p.79) TL Note kept as printed: his word for dates is a corrupt spelling that isn't how "Date" is spelled/pronounced — used to sound more "Englishy" and to show off.
+[note] (p.79) The ostracism warning is never explained; the page says it would not be as simple as attacking a specific person, and that one should prepare for actions that could shake the class’s position — the mechanism is unknown.
+[voice] (p.73–80) Grandiose, performatively casual; detests hypocrisy; repays hidden debts of goodwill with deniable generosity; zero need of money.
+[limit] (p.78–79) Immune to being obligated; refuses the ally-at-any-price frame outright; "I won't change until I graduate".
+[rel:wang-mei-yu] (p.66–80) He secretly helped her for three weeks; he wants no thanks, no money, no contact, ever.
+[rel:ayanokouji-kiyotaka] (p.73–80) AK probes him, floats making him an ally, then floats ostracizing him — Kōenji closes both doors.
+
+<!-- walk: y2v10 Ch.3 → p.80 -->
+
+### y2v10 p.129–138, 150–152 — Ch.6: The immune third
+[scene] (p.129) The first strike lands on his class; Horikita seats him on the bench; he shows the exam exactly zero interest; she pockets gains regardless.
+[says] (p.130) “Do as you like.”
+[says] (p.133) “You’re wrong to blame me. If you’re dissatisfied, all you have to do is guard me next time.”
+[scene] (p.133) Turn two/three — he blanks twice, on schedule; Sudō almost strangles him; Horikita declines to intervene.
+[scene] (p.136) Turn 4 — Sakayanagi spends a point to sharpen the attack; everyone holds their breath; he produces a perfect answer on cue; nobody moves.
+[says] (p.137) “I’ll leave that for you to decide.”
+[says] (p.137) “What’s your intention? I’d like to hear your reasons.”
+[says] (p.137) “Oh?”
+[says] (p.137) “But if I hadn’t gotten the right answer, I would have been eliminated. What’d you think of that?”
+[says] (p.137) “Hmm, indeed. My apologies, it seems I acted preemptively.”
+[scene] (p.137) He walks to her desk after the turn; the exchange is quiet, precise, and laughing-silent; he takes his seat again.
+[note] (p.138) His voice-over; he exactly knows what both factions think.
+[limit] (p.130) He is not protecting himself — he is gaming the rules; but he will never sign anything.
+[trait] (p.130) Blank answers as a strict strategy; perfect, deliberate answers when needed; no motion wasted.
+[rel:horikita-suzune] (p.129–138) The two-stroke gamble he beats by returning a single right answer; she lets him pass; he never thanks her.
+[rel:sakayanagi-arisu] (p.133–152) She studied him for three turns then stopped striking; she learned to leave him alone.
+[rel:ayanokouji-kiyotaka] (p.137, 150) He appreciates the game as much as Kōenji; they read each other constantly.
+
+
+### y2v10 p.120–120 — Ch.5: passing mentions (locator cross-check)
+[mentioned] (p.120) Passing mention — Kōenji made a promise with Horikita, and she was going to honor it. I
+
+<!-- walk: y2v10 Ch.5 → p.122 -->
+
+### y2v10 p.161–171 — Ch.6: passing mentions (locator cross-check)
+[mentioned] (p.161) Passing mention — Like her setup against Kōenji, Sakayanagi read what the opponent's leader
+[mentioned] (p.170) Passing mention — when Kōenji-kun was targeted in the first half. I wonder what Ichinose-san is
+[mentioned] (p.171) Passing mention — Kōenji's three consecutive nominations. There were some inexplicable aspects, but
+
+<!-- walk: y2v10 Ch.6 → p.188 -->
+
+### y2v10 p.48–49 — Ch.2: passing mentions (locator cross-check)
+[mentioned] (p.48) Passing mention — Or should we ask Kōenji-kun, who is the only one who hasn't participated
+[mentioned] (p.49) Passing mention — Kōenji certainly possessed strong individuality that could answer any
+
+<!-- walk: y2v10 Ch.2 → p.59 -->
+
+### y2v10 p.97–98 — Ch.4: passing mentions (locator cross-check)
+[mentioned] (p.97) Passing mention (see p.97).
+[mentioned] (p.98) Passing mention — I brought up Kōenji's name to divert the topic from myself, but it was easy
+
+<!-- walk: y2v10 Ch.4 → p.100 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->
