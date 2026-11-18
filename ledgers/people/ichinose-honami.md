@@ -1774,25 +1774,25 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [rel:shibata] (p.128) Dismisses the "for" vote as a misclick — the class's lack of crisis awareness that angers Kanzaki.
 ## y2v6
 
+<!-- walk: y2v6 → start -->
 
 ### y2v6 p.11-346 — ichinose-honami mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.20, p.33, p.53-55, p.57, p.82.
 [mentioned] (p.11) Passing mention only.
 
-<!-- walk: y2v6 → start -->
 
 
 
 ## y2v7
 
+<!-- walk: y2v7 → start -->
 
 ### y2v7 p.7-207 — ichinose-honami mentioned in passing
 [scene] (p.7) Named in this volume.
 [note] (p.7) Passing mentions on pages: p.9, p.29, p.32-33, p.41-43, p.52.
 [mentioned] (p.7) Passing mention only.
 
-<!-- walk: y2v7 → start -->
 
 
 
@@ -1800,12 +1800,13 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v8 → start -->
 
-### y2v8 pp.11-208 — Full volume
+### y2v8 p.11-208 — ichinose-honami mentioned in passing
+[scene] (p.11) Named in this volume.
+[note] (p.11) Passing mentions on pages: p.10, p.13-14, p.49, p.65, p.69.
+[mentioned] (p.11) Passing mention only.
 
-[scene] (p.11) Appears in this volume.
 
 
-<!-- walk: y2v8 Epilogue → p.208 -->
 
 ## y2v9
 

@@ -1822,3 +1822,4 @@ hash: `6bea783884c7cb8573db97157f0b718a`.
 | y2v8 depth pass | 208 | 33 quotes / 88 scenes | 05096153fabf6ed7ce07f595739189ce |
 | y2v9 depth pass | 225 | 34 quotes / 70 scenes | 6164911dab665ab8c29b8849a259be7f |
 | y2v9 full scene pass + stub removal | 225 | 63 scenes / all quotes verified | a587279814e83182f63990f9e30ee8e1 |
+| y2v4–y2v8 stub removal + passing-mention fill; gen with= id fix (R04) | 208 | verify/gate/hash green; make check green after gen fix | 9273b35457ea54b1fe16f23dfcaae73b |

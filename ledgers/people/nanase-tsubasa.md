@@ -546,25 +546,25 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [rel:kurachi] (p.283–285) The first-year she tails — suspect in the attack on Ayanokōji.
 ## y2v6
 
+<!-- walk: y2v6 → start -->
 
 ### y2v6 p.11-346 — nanase-tsubasa mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.274, p.276, p.279-284.
 [mentioned] (p.11) Passing mention only.
 
-<!-- walk: y2v6 → start -->
 
 
 
 ## y2v7
 
+<!-- walk: y2v7 → start -->
 
 ### y2v7 p.7-207 — nanase-tsubasa mentioned in passing
 [scene] (p.7) Named in this volume.
 [note] (p.7) Passing mentions on pages: p.108.
 [mentioned] (p.7) Passing mention only.
 
-<!-- walk: y2v7 → start -->
 
 
 
@@ -572,12 +572,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 <!-- walk: y2v8 → start -->
 
-### y2v8 pp.11-208 — Full volume
 
-[scene] (p.11) Appears in this volume.
-
-
-<!-- walk: y2v8 Epilogue → p.208 -->
 
 ### y2v8 p.28–38 — Nanase: Yagami's fear; warnings about the trip
 [says] (p.32) "I think he was scared. Yagami was afraid of fighting Ayanokōji-senpai."

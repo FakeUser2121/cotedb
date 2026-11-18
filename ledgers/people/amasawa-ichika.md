@@ -248,25 +248,25 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 [rel:nanase-tsubasa] (p.9–16) Spars with her, who accuses her of the cliff attack; calls her an "outsider" and a "loyal dog."
 ## y2v4.5
 
+<!-- walk: y2v4.5 → start -->
 
 ### y2v4.5 p.10-290 — amasawa-ichika mentioned in passing
 [scene] (p.10) Named in this volume.
 [note] (p.10) Passing mentions on pages: p.30, p.89-91, p.93-95, p.138, p.140-141.
 [mentioned] (p.10) Passing mention only.
 
-<!-- walk: y2v4.5 → start -->
 
 
 
 ## y2v5
 
+<!-- walk: y2v5 → start -->
 
 ### y2v5 p.7-243 — amasawa-ichika mentioned in passing
 [scene] (p.7) Named in this volume.
 [note] (p.7) Passing mentions on pages: p.74.
 [mentioned] (p.7) Passing mention only.
 
-<!-- walk: y2v5 → start -->
 
 
 
@@ -286,13 +286,13 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 [rel:yagami-takuya] (p.339) She wants to expose "Takuya" so he'll fight Ayanokōji.
 ## y2v7
 
+<!-- walk: y2v7 → start -->
 
 ### y2v7 p.7-207 — amasawa-ichika mentioned in passing
 [scene] (p.7) Named in this volume.
 [note] (p.7) Passing mentions on pages: p.104, p.108, p.126-130, p.161, p.168.
 [mentioned] (p.7) Passing mention only.
 
-<!-- walk: y2v7 → start -->
 
 
 
@@ -300,12 +300,13 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 
 <!-- walk: y2v8 → start -->
 
-### y2v8 pp.11-208 — Full volume
+### y2v8 p.11-208 — amasawa-ichika mentioned in passing
+[scene] (p.11) Named in this volume.
+[note] (p.11) Passing mentions on pages: p.28-36, p.38, p.53, p.59-61, p.107.
+[mentioned] (p.11) Passing mention only.
 
-[scene] (p.11) Appears in this volume.
 
 
-<!-- walk: y2v8 Epilogue → p.208 -->
 
 ## y2v9
 

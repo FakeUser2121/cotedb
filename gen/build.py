@@ -364,7 +364,7 @@ def build_volume(v):
     cast.sort(key=lambda c: (-cnt.get(c["id"], 0), fold(c["sort"]), fold(c["name"])))
     sections.append(("cast", "Who is named"))
     body += (f'<h2 id="cast">Who is named <span class="n">{len(cast)}</span></h2><ul class="plain cols">'
-             + "".join(f'<li>{ent(P, "people", c["id"])}</li>' for c in cast) + "</ul>")
+             + "".join(f'<li id="with={c["id"]}">{ent(P, "people", c["id"])}</li>' for c in cast) + "</ul>")
     ex = [e for e in m.exams.values() if vid in e["volumes"]]
     pl = [p for p in m.places.values() if vid in p["volumes"]]
     if ex:

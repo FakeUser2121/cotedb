@@ -9050,12 +9050,7 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v8 → start -->
 
-### y2v8 pp.11-208 — Full volume
 
-[scene] (p.11) Appears in this volume.
-
-
-<!-- walk: y2v8 Epilogue → p.208 -->
 
 ### y2v8 p.11–18 — Final exam results; the anonymous evaluation task; school trip to Hokkaido
 [scene] (p.11) Late November; school trip to Hokkaido approaches; former Ayanokōji group (Haruka/Akito/Keisei) walks ahead — he notes the "group of three" remains separate.

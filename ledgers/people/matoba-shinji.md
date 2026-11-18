@@ -67,13 +67,13 @@ char_id: matoba-shinji · class: Class 1-A (enrolled April 2015) · status: mino
 [trait] (p.102–105) Anxious and insistent on a breakout or consolidation; Ayanokōji concludes he never considered the plan from the enemy's perspective.
 ## y2v6
 
+<!-- walk: y2v6 → start -->
 
 ### y2v6 p.11-346 — matoba-shinji mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.258-259, p.261-262, p.265.
 [mentioned] (p.11) Passing mention only.
 
-<!-- walk: y2v6 → start -->
 
 
 
@@ -81,12 +81,13 @@ char_id: matoba-shinji · class: Class 1-A (enrolled April 2015) · status: mino
 
 <!-- walk: y2v8 → start -->
 
-### y2v8 pp.11-208 — Full volume
+### y2v8 p.11-208 — matoba-shinji mentioned in passing
+[scene] (p.11) Named in this volume.
+[note] (p.11) Passing mentions on pages: p.144-145.
+[mentioned] (p.11) Passing mention only.
 
-[scene] (p.11) Appears in this volume.
 
 
-<!-- walk: y2v8 Epilogue → p.208 -->
 
 ## y2v10
 

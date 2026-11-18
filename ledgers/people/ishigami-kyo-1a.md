@@ -19,6 +19,34 @@ char_id: ishigami-kyo-1a · class: Class 1-A · status: first-year honor student
 [rel:ibuki-mio] (p.250) She observes his untrained body at the pool and declares him innocent of the attack.
 [rel:ayanokouji-kiyotaka] (p.240, 249) Suspected of having written the note recommending his expulsion.
 
+## y2v8
+
+<!-- walk: y2v8 → start -->
+
+### y2v8 p.180–184 — Sakayanagi and Kanzaki confer on Ishigami; Sakayanagi phones him
+[scene] (p.180) Ayanokōji asks how they know each other; Sakayanagi explains a parental connection through well-known families, then says she wants to know more about Ishigami-kun, the only first-year student at the school with that surname.
+[scene] (p.182) Ishigami's devotion to Ayanokōji-sensei is discussed: he contacted Ayanokōji several times and indirectly helped with Yagami's expulsion at the cultural festival; Kanzaki of the same cram school calls him undeniably a genius with ideas he could not produce himself.
+[scene] (p.183) Sakayanagi reasons Ishigami enrolled to check Ayanokōji's ability; she says she will ask him directly and dials his number.
+[scene] (p.184) Ishigami answers the phone as if he foresaw the call, says he chose the school on Ayanokōji-sensei's recommendation, will not interfere for now, and will only act if Ayanokōji-sensei instructs him.
+[says] (p.184) “I figured it was about time you called, Sakayanagi.”
+[says] (p.184) “I chose this school on Ayanokōji-sensei's recommendation so that I could spend my time as a normal student.”
+[says] (p.184) “You can assume that I won’t try eliminating Ayanokōji from this school for now.”
+[says] (p.184) “In the unlikely event that Ayanokōji-sensei instructs me to eliminate him, I will do so.”
+[says] (p.184) “Don't go any further, Sakayanagi.”
+[says:kanzaki-ryuuji] (p.182) “I just went to the same cram school as Ishigami.”
+[says:sakayanagi-arisu] (p.183) “Of course, I'll ask him directly.”
+[rel:sakayanagi-arisu] (p.180–184) She seeks him out to deal with his watching of Ayanokōji; he warns her off interfering.
+[rel:kanzaki-ryuuji] (p.180–184) Kanzaki, who went to the same cram school, knows him well but refuses to get involved.
+[note] (p.180–183) Ayanokōji is present and overhears the whole conversation and the call; the text leaves this surname-search scene framed as Sakayanagi interviewing Kanzaki on Ayanokōji's behalf.
+
+<!-- walk: y2v8 Ch.5 → p.184 -->
+
+### y2v8 p.196 — Postscript translator's note
+[scene] (p.196) The postscript notes that the character “Ishigami Kyō” from 1st year Class A has appeared several times in the 2nd year version and that his correct surname is “Ishigami.”
+[mentioned] (p.196) Named only in the translator's note.
+
+<!-- walk: y2v8 Postscript → p.196 -->
+
 ## y2v9
 
 <!-- walk: y2v9 → start -->

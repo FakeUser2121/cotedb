@@ -37,13 +37,13 @@ char_id: shimizu-naoki · class: Class 1-A · status: minor
 [trait] (p.64) The first to voice dissatisfaction at aiming for second — an orthodox honors student who cannot hide his objection to the passive target.
 ## y2v6
 
+<!-- walk: y2v6 → start -->
 
 ### y2v6 p.11-346 — shimizu-naoki mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.258-262, p.265-266.
 [mentioned] (p.11) Passing mention only.
 
-<!-- walk: y2v6 → start -->
 
 
 
