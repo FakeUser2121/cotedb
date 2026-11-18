@@ -9586,6 +9586,14 @@ walk: y1v1 → DONE
 [rel:ibuki-mio] (p.171–174) She wins the final match, demands 1,000 pts from Horikita — "You're responsible for getting the souvenir money."
 [rel:sudou-ken] (p.165) His team wins the first match — "quintessential top-class athlete."
 
+### y2v8 p.174–175 — Last ski together; Sakayanagi's request
+[scene] (p.174) The day winds down: everyone slides the gentle beginners' course one last time together; Ryūen is bored but behaves; souvenir shopping for first-years soaks up the spare hour.
+[scene] (p.175) Message from Sakayanagi; he goes to the lobby at 8 p.m.; she's already waiting; the hall is nearly empty; the last-night talk is about to begin.
+[trait] (p.174–175) The trip is nearly over; the real game resumes in the lobby.
+[note] (p.174–175) From here through p.195 the volume shifts focus to Sakayanagi and Ichinose; see the corresponding ledgers.
+
+<!-- walk: y2v8 Ch.5 → p.186 -->
+
 ### y2v8 p.175–184 — The final night: Sakayanagi, Kanzaki, the "Ishigami" revelation
 [says] (p.175) "It was short, but did you enjoy the school trip?"
 [says] (p.177) "Do you think I would lose in a direct confrontation with Ryūen-kun?"

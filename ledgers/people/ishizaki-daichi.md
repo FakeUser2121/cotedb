@@ -816,6 +816,15 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y2v8 Ch.4 → p.161 -->
 
+### y2v8 p.162–169 — The boys' match; the humiliation
+[scene] (p.162–164) He gets his team together; talks trash; Albert and Sudō are the main threats.
+[scene] (p.165) His team is wiped within ten seconds; he takes one in the chest inside ten seconds too; his pride is visibly bruised; Sudō's side takes the match.
+[scene] (p.169) He cheers the final with the crowd; he's fine, mostly; the trip is almost over.
+[rel:sudou-ken] (p.165) He loses to him; respects him.
+[rel:yamada-albert] (p.165) He watches Albert's misfires with resignation.
+
+<!-- walk: y2v8 Ch.5 → p.186 -->
+
 ### y2v8 p.11-208 — ishizaki-daichi mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.63, p.140-141, p.143-144, p.165.

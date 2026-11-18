@@ -1858,6 +1858,11 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v8 Ch.1 → p.45 -->
 
+### y2v8 p.185–186 — Missing
+[mentioned] (p.185–186) Ichinose is missing; Amikura chases leads; the girl's yukata is still at the inn; no one knows where she is; she was last seen "distressed in the evening" (Amikura's report).
+
+<!-- walk: y2v8 Ch.5 → p.186 -->
+
 ### y2v8 p.11-208 — ichinose-honami mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.10, p.13-14, p.49, p.65, p.69.

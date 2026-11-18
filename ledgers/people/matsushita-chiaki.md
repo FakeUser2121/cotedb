@@ -258,6 +258,11 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 
 <!-- walk: y2v8 Ch.1 → p.45 -->
 
+### y2v8 p.162 — The disqualified Group 15
+[mentioned] (p.162) Group 15, to which both Mii-chan and Miyamoto belong, is disqualified for failing the time limit on the tour test; the members sit a study session at the inn; they miss the final free day.
+
+<!-- walk: y2v8 Ch.5 → p.186 -->
+
 ### y2v8 p.11-208 — matsushita-chiaki mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.48.

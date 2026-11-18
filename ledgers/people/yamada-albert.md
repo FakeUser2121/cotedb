@@ -321,6 +321,14 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 
 <!-- walk: y2v8 Ch.4 → p.161 -->
 
+### y2v8 p.162–169 — The boys' match; the accuracy problem
+[scene] (p.162–165) He matches Ishizaki's energy; he attacks tirelessly; his raw power isn't the issue — his mark is; six of fourteen down in seconds.
+[scene] (p.169) He watches the final from the side; Ayanokōji notices the pattern — strength isn't skill; Sudō wins by contrast.
+[rel:ishizaki-daichi] (p.165) Partners in defeat.
+[rel:sudou-ken] (p.165) He admires his speed; understands why he lost.
+
+<!-- walk: y2v8 Ch.5 → p.186 -->
+
 ### y2v8 p.11-208 — yamada-albert mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: none.

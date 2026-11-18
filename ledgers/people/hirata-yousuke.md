@@ -1945,6 +1945,21 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y2v8 Ch.1 → p.45 -->
 
+### y2v8 p.162–174 — The snowball fight: the man behind the curtain
+[scene] (p.162) He hears the first-year idea spreading; he asks the inn in advance; he organizes the 42-student snowball fight; he handles the money (1,000-pt entry; winners take the pot).
+[scene] (p.163) He recruits tricksters — Horikita and Ibuki are the final pairing (third match of the day); he stands near the entrance, clutching his phone.
+[scene] (p.164) He greets Kushida & company warmly; he notices her discomfort; he watches Ibuki lock horns with Horikita.
+[scene] (p.165) He assigns the third match last on purpose — the event of the day; the crowd buzzes.
+[scene] (p.169–174) He referees the final; he calls the hit; he keeps the peace on a thin margin.
+[says] (p.174) “Horikita-san hit! Ibuki-san wins!”
+[rel:horikita-suzune] (p.163–174) He scripts the duel; protects her dignity either way; she takes the hit with grace.
+[rel:ibuki-mio] (p.163–174) He engineers the hype.
+[rel:kushida-kikyou] (p.163–164) She barely survives his warm welcome.
+[rel:ishizaki-daichi] (p.165) His team loses; he doesn't care.
+[rel:yamamura-miki] (p.165–174) He helps draw her into the fight without forcing.
+
+<!-- walk: y2v8 Ch.5 → p.186 -->
+
 ### y2v8 p.11-208 — hirata-yousuke mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.13, p.16, p.21-27, p.41, p.47-48.

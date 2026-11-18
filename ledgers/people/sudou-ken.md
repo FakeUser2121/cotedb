@@ -1908,6 +1908,17 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v8 Ch.3 → p.129 -->
 
+### y2v8 p.165–174 — The boys' match; his frustration plays out
+[scene] (p.162–164) Watching the snowball fight crowd; 1,000 points; six teams; boys-vs-boys energy; he catches sight of Horikita nearby and tries not to look interested.
+[scene] (p.165) His team vs Ishizaki's team: 14 players; snowballs fly in 10 seconds; six players down; Ishizaki goes quickly; his own frustration at being rejected channels into pinpoint throws; wins on agility.
+[scene] (p.169–174) His teammate role is done; he cheers Horikita's fight with the rest of the crowd; Onodera also seems to be cheering him on, innocently, from a distance.
+[trait] (p.162–174) Everything he does is either aimed at Suzune or filtered through it — basketball, exams, snowball fights; he can't hide it.
+[rel:ishizaki-daichi] (p.165) Beats him clean.
+[rel:horikita-suzune] (p.162–174) He watches her fight with an athlete's appreciation and a broken heart.
+[rel:onodera-kayano] (p.169) "At a distance, Onodera also seemed to be cheering him on in an innocent manner" — he pretends not to notice.
+
+<!-- walk: y2v8 Ch.5 → p.186 -->
+
 ## y2v9
 
 <!-- walk: y2v9 → start -->

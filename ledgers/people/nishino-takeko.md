@@ -154,6 +154,13 @@ char_id: nishino-takeko · class: Class 1-C · status: minor
 
 <!-- walk: y2v8 Ch.4 → p.161 -->
 
+### y2v8 p.162–174 — The snowball fight crowd
+[scene] (p.162–164) She attends with Kushida; declines to throw; she's the event's quiet interpreter for Yamamura.
+[rel:yamamura-miki] (p.162–174) She shelters her shadow friend for a day.
+[rel:kushida-kikyou] (p.162–174) She walks with her; it's the only comfortable place.
+
+<!-- walk: y2v8 Ch.5 → p.186 -->
+
 ### y2v8 p.11-208 — nishino-takeko mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.46-47, p.50, p.55, p.79-81, p.83.

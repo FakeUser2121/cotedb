@@ -1105,6 +1105,22 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v8 Ch.3 → p.129 -->
 
+### y2v8 p.163–174 — The dare; the final whistle; glory
+[scene] (p.163–164) She dares Horikita to the snowball fight from the crowd; she enjoys the dare; she wins it with a chop to Horikita's side.
+[says] (p.163) “Losing is losing, no matter if it's just a game or not. Don't come up with excuses later on like a little kid, okay?”
+[says] (p.164) “Of course I'm not going to lose. I'll make you cry for sure!”
+[scene] (p.169–174) The final one-on-one: Ibuki vs Horikita; she drops her gloves for precision; her eighth shot grazes Horikita's cheek; the last volley disperses mid-air; fragments strike Horikita's left arm; Yōsuke calls it; she exults.
+[says] (p.171) “You're in my way.” (to Ayanokōji before the duel)
+[says] (p.172) “You're moving so much!” (at Horikita's evasion)
+[says] (p.173) “You're gonna have to give me the win!”
+[says] (p.174) “Hell yeah!”
+[says] (p.174) “Look, loser! Give me 1,000 points, now!”
+[rel:horikita-suzune] (p.163–174) The rivalry keeps the crown; she's earned the win.
+[rel:ayanokouji-kiyotaka] (p.169–171) She shoves him aside; he obliges silently.
+[rel:sudou-ken] (p.165) His team wins the boys' match; she watches for him in crowd.
+
+<!-- walk: y2v8 Ch.5 → p.186 -->
+
 ### y2v8 p.11-208 — ibuki-mio mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.72-74, p.110, p.163-165, p.169, p.171-172.

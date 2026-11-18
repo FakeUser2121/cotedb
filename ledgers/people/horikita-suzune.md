@@ -4602,6 +4602,20 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v8 Ch.1 → p.45 -->
 
+### y2v8 p.162–174 — Final morning; the snowball fight; the vow
+[scene] (p.162) She lingers in the public baths; the snowball fight chatter reaches her; she's drawn to it; she seethes at being needed.
+[scene] (p.164) Ibuki challenges her on the spot; they donate 1,000 points each; she changes her mind on the fly; the call-out is a dare.
+[says] (p.164) “It's just a game after all, and I can play with you if you want.”
+[scene] (p.165–174) The third match: her team vs Ayanokōji + Ibuki + Yamamura; she ends alone on the field; her standout throws graze Ibuki, disperse, and hit wet fragments over Ibuki's arm — wins the match on Yōsuke's call; she pretends it's nothing ("tried to act calm") but the loss stings; she gives Ibuki the 1,000 points and the win glows in Ibuki's hands.
+[says] (p.171) “I don't like this one bit, but oh well. I can concentrate on Ibuki-san alone.”
+[says] (p.174) “That's not going to happen.”
+[trait] (p.162–174) She takes the loss honestly and gives Ibuki the win without a grumble — but Ibuki knows just how much that costs.
+[rel:ibuki-mio] (p.162–174) The rival-turned-foil — they settle this exclusively on snow.
+[rel:ayanokouji-kiyotaka] (p.162–171) She reads him through the fight; he lets Ibuki have it.
+[rel:sudou-ken] (p.165) He cheers her on at a distance.
+
+<!-- walk: y2v8 Ch.5 → p.186 -->
+
 ### y2v8 p.11-208 — horikita-suzune mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.12-14, p.16-18, p.41-42, p.44-45, p.57-58.

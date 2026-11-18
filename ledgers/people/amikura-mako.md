@@ -131,6 +131,18 @@ char_id: amikura-mako · class: Class 1-B · status: minor (allies)
 
 <!-- walk: y2v8 Ch.4 → p.161 -->
 
+### y2v8 p.162–174, 185–186 — The morning crowd; the missing girl report
+[scene] (p.162–164) She tags along to the fight; she doesn't throw either; she's thrilled by the spectacle.
+[scene] (p.164) She exchanges a look with Watanabe at the boys'-v-boys chaos; they're conspirators in spectate-only mode.
+[scene] (p.185–186) After the fight, she bursts into the lobby: Honami's missing; the group is scouring the inn; she takes the news hard; she asks Ayanokōji to find her.
+[says] (p.185) “Look, the school trip is over already, right? So we decided to get together with everyone in the class and chat until lights out, but we couldn't find Honami, so we were worried.”
+[says] (p.185) “I heard that she looked distressed in the evening... so I was a little worried.”
+[rel:ichinose-honami] (p.185–186) She reports her missing; she pulls everyone into the search.
+[rel:watanabe-norihito] (p.162–164) The fight couple-of-the-mind; they watch together.
+[rel:kushida-kikyou] (p.162–174) She tags along with her.
+
+<!-- walk: y2v8 Ch.5 → p.186 -->
+
 ### y2v8 p.11-208 — amikura-mako mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.46-47, p.49-50, p.67, p.79, p.83.

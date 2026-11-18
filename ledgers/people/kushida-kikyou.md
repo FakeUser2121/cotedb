@@ -1917,6 +1917,19 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y2v8 Ch.4 → p.161 -->
 
+### y2v8 p.162–174 — The snowball fight; the Ibuki-Horikita showdown
+[scene] (p.162) She hears the fight plan through Watanabe; she comes along as crowd control.
+[scene] (p.163–164) She arrives with Yamamura, Nishino and Amikura; Ibuki dares Horikita; her line: she can't throw a snowball at anyone without feeling sorry for them; they laugh her off; Horikita's chop to Ibuki's side starts the war.
+[says] (p.164) “I don't want to hit someone with a snowball. I can't throw that kind of thing because I'd feel sorry for them.”
+[says] (p.164) “Hmm? A snowball fight?”
+[scene] (p.164–167) She holds up the crowd; she doesn't throw; she exhales tiny breaths of relief for everyone involved.
+[rel:yamamura-miki] (p.162–174) She drags her along; shields her without making a show of it.
+[rel:ishizaki-daichi] (p.164) She politely ignores him.
+[rel:ibuki-mio] (p.163–174) She doesn't want to cross Ibuki; she edges away from the dare.
+[rel:horikita-suzune] (p.162–174) She watches the duel like a true believer who bet on the loser.
+
+<!-- walk: y2v8 Ch.5 → p.186 -->
+
 ### y2v8 p.11-208 — kushida-kikyou mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.12, p.46-47, p.49-50, p.52, p.55-64.

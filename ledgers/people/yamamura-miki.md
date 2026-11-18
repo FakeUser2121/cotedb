@@ -225,6 +225,29 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 
 <!-- walk: y2v8 Ch.4 → p.161 -->
 
+### y2v8 p.162–174 — The morning; the snowball fight; the head hit
+[scene] (p.162–163) Final morning; she hears the snowball fight go up and goes quiet — she wants to watch.
+[scene] (p.165) She watches the boys' match, gloveless, answering casual talk with minimal nods; Ayanokōji joins her.
+[says] (p.165) “Ah, it seems so.”
+[scene] (p.166–168) She admits her own sadness isn't about her own self ("I'm not interested" sort of talk); she expresses gratitude to Kushida, Nishino, Amikura, and acknowledges Yamamura-is-invisible image; Ayanokōji nudges her toward liking her own presence.
+[says] (p.167) “I don't really know. I'm not close to anyone in particular to begin with, and moreover, I've hardly ever talked to Sakayanagi-san.”
+[says] (p.168) “Little by little, I think Kitō-kun's curses for Ryūen-kun are decreasing.” — no wait, that's her too: "`Little by little, I think Kitō-kun's curses for Ryūen-kun are decreasing.'`" — speaker Yamamura ✓ hers? Hmm — let me re-check: p.167–168: ““Little by little, I think Kitō-kun's curses for Ryūen-kun are decreasing.” Speaker? Sequence: AK notices her attention drift to Kitō... she says this. Attribute: Yamamura ✓. Keep.
+[scene] (p.169–171) She joins Ayanokōji's team on the third match reluctantly; she'd rather die than throw; she's hit square in the head by Yano's snowball; she scrambles out, frustrated; she apologizes to Ayanokōji.
+[says] (p.169) “Eh, eh! Wow, I can't do that.”
+[says] (p.171) “I'm sorry, I'm just kidding. I brought my own gloves.” — no wait, that's HER? No — p.165: AK says "Perhaps you forgot your gloves again?" and she says "Yes, I did." then "'I'm sorry, I'm just kidding. I brought my own gloves.'" — SHE says it ✓ — it's her line. Hmm wait — looking at my Ch.5 read: p.165: "'Perhaps you forgot your gloves again?' / 'Yes, I did.' / I tried to take off my gloves, but Yamamura stopped me. / 'I'm sorry, I'm just kidding. I brought my own gloves.' / She pulled her gloves out of her pocket." — hmm, WHO says "I'm sorry, I'm just kidding"? The narrator "I" = AK. AK tried to take his gloves OFF to offer — Yamamura stops him; AK says "I'm sorry, I'm just kidding. I brought my own gloves." — AK (he doesn't want to give his own gloves after all?) NO wait — AK was about to offer HIS gloves; Yamamura stops him; then AK's line "I'm sorry, I'm just kidding. I brought my own gloves." — AK speaks as if HE brought gloves as a joke? That doesn't fit... Re-read: "'Perhaps you forgot your gloves again?' / 'Yes, I did.' / I tried to take off my gloves, but Yamamura stopped me. / 'I'm sorry, I'm just kidding. I brought my own gloves.' / With that, she pulled her gloves out of her pocket." — "With that, she pulled her gloves out of her pocket" — SHE. So the "I'm sorry, I'm just kidding. I brought my own gloves." line — speaker: YAMAMURA ✓ (she stops him from offering his by revealing she has them). ✓ Yamamura's line. Keep in her file.
+[says] (p.171) “I'm sorry, I'm just kidding. I brought my own gloves.”
+[says] (p.172) “I'm sorry, I couldn't help you at all.”
+[says] (p.172) “Yes. I wish I could've tried harder.”
+[scene] (p.174) She waves him off as they part; she carries the Kitō possibility in her pocket; nothing resolved yet.
+[trait] (p.162–174) A hunted person learning to accept being watched; she wants to try but can't; the trip changes how she watches herself.
+[rel:ayanokouji-kiyotaka] (p.162–174) He rescues her from the match without being asked; she owes him; he owes her honesty.
+[rel:kitou-hayato] (p.167–168) She considers him aloud (almost); Ayanokōji hears it.
+[rel:yano-koharu] (p.170–171) Class A's Yano hits her in the head; she takes it manfully.
+[rel:nishino-takeko] (p.165) They watch together.
+[rel:kushida-kikyou] (p.165–166) She came with Kushida; kept her head down.
+
+<!-- walk: y2v8 Ch.5 → p.186 -->
+
 ### y2v8 p.11-208 — yamamura-miki mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.46-47, p.50, p.55-57, p.63-64, p.79.
