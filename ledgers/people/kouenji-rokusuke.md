@@ -942,6 +942,14 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
+### y2v9.5 p.17–18 — Ch.2: Gym showcase at Christmas Eve
+[scene] (p.17) Arrives at the gym and begins training; draws unconcealed attention from other members (high schoolers and adults) for his obvious physical prowess; Mashima-sensei stops his own set to watch.
+[scene] (p.18) Nobody dares to approach; his form is efficient and his usual eccentricity absent; others murmur that he's "always very popular."
+[note] (p.17–18) The page draws the contrast pointedly: Kōenji is not just unusual, he's the biggest draw in the building.
+[rel:ayanokouji-kiyotaka] (p.17–18) Observed from a distance; the two never interact here.
+
+<!-- walk: y2v9.5 Ch.2 → p.18 -->
+
 
 ## y2v10
 

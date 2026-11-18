@@ -9254,6 +9254,70 @@ walk: y1v1 → DONE
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->
+### y2v9.5 p.10 — Ch.1: Irreplaceable daily life
+[scene] (p.10) Reflects that the second year's winter break has begun; just being able to enjoy an ordinary holiday is best; his remaining time as a student is quietly, surely decreasing; frames the year ahead as a long, extended battle in which every day is irreplaceable.
+[thinks] (p.10) "Just being able to live for myself until today, I was satisfied enough."
+[thinks] (p.10) "And eventually, it will come— Parting"
+[note] (p.10) No other characters appear; the condition of "the time left for me" hangs over the volume.
+
+<!-- walk: y2v9.5 Ch.1 → p.10 -->
+
+### y2v9.5 p.11–14 — Ch.2: Christmas Eve morning, Kei's flu, Ichinose's messages
+[scene] (p.11) Wakes on the 24th with a bad dreams; Kei has been out of contact since last night; their Christmas morning date is off after the term's end and the rain.
+[scene] (p.12) He called Kei last night and got no answer; an hour later she called back, coughing: she said the one word "Influenza."
+[scene] (p.13) Kei is bedridden; he reschedules the Christmas promise and ends the call; Ichinose texts about others being ill and asks about his plans; he tells her he'll go to the gym around noon.
+[says:karuizawa-kei] (p.12) "Influenza."
+[note] (p.12) The conversation with Kei happened on the 23rd and is summarized as backstory; this morning's page also notes several students across years already have confirmed cases.
+[rel:karuizawa-kei] (p.11–13) The cold war holds; the flu forces a reschedule, not a cancellation — both agree time matters.
+[rel:ichinose-honami] (p.13–14) She texts at 9 to check on him and on Kei; offers help; he says gym around noon; she proposes "it may seem like we're meeting up" as a joke.
+
+### y2v9.5 p.15–19 — Ch.2: The gym on Christmas Eve
+[scene] (p.15) Drops in at the Keyaki Mall gym before noon, intending a solo workout; Mashima-sensei is in the training room doing bench presses in class-2-A gym attire.
+[scene] (p.16–17) Mashima walks him through his routine (80 kg now, says 100 kg is possible, safety bars first), lifts three sets, then declines to train him personally; Kōenji arrives and begins training in perfect silence while others watch.
+[scene] (p.18) Kōenji's form draws unconcealed awe from other members; Ichinose appears, says she was late after talking with a friend; they work 30 minutes side by side on treadmills, then keep training an hour.
+[scene] (p.19) He notices Amikura has arrived to train with Ichinose; he tells Ichinose he's leaving; Mashima, ~3 hours without break, calls him back to the break room: "Can we talk for a minute?"
+[note] (p.16–18) Kōenji's workout draws stares and quiet commentary ("Kōenji really is amazing"); Mashima-sensei stops to watch him first.
+[rel:mashima-tomonari] (p.15–19) Mashima welcomes a new face; shows him the bench, eggs him on; notices him leaving after two hours.
+[rel:kouenji-rokusuke] (p.17–18) Star attraction at the gym; his effortless physical prowess draws a crowd.
+[rel:ichinose-honami] (p.18–19) They run treadmills side by side in silence; she says working out together makes a difference; she starts with Amikura.
+
+### y2v9.5 p.19–23 — Ch.2: Mashima's favor
+[scene] (p.19–20) Mashima asks him to the break room: "Can we talk for a minute?" — his mood is off; Akiyama passes by, compliments Mashima on working too hard, knows Ayanokōji by sight from the reception.
+[scene] (p.21–22) Mashima confesses he has feelings for Akiyama-san, the gym staff member; dismisses Hoshinomiya (too lighthearted) and Chabashira (too serious) as candidates; asserts she can't be like them; asks Ayanokōji to investigate her boyfriend status, her type and hobbies — carefully and discreetly.
+[scene] (p.23) Ayanokōji accepts, expecting little; Mashima says there is no rush since Akiyama has already seen them together; Mashima is eerily composed about it, methodical, exactly the discreet method he wanted.
+[says:mashima-tomonari] (p.21) "I want you to investigate her. As carefully and discreetly as possible."
+[says] (p.22) "Well, then there was no other way to describe it."
+[note] (p.22) Mashima claims knowing both Chabashira and Hoshinomiya "since we were students" and says neither could become his partner.
+[rel:mashima-tomonari] (p.15–23) Asks a student, not a colleague, to quietly investigate a staff member he likes.
+[rel:akiyama] (p.20–23) The gym employee at the center of the favor; greets Mashima; knows Ayanokōji by sight.
+
+### y2v9.5 p.26–35 — Ch.2: Shiranami intercepts him in the rental shop
+[scene] (p.26) Spots Shiranami Chihiro in the rental-shop music corner wearing headphones to a heartbreak song; she startles, takes them off, and asks wary questions; he leaves, then she calls after him wanting time.
+[scene] (p.29–31) She pulls him to a vending-machine rest area, refuses a drink and a seat, and asks point blank whether his relationship with Honami-chan is more than classmates.
+[scene] (p.32–34) She probes his feelings, mentions the rumors (alone at the gym, Kei, her room), accepts his answers with halting apologies; he answers honestly but with insurance, wishing her no grief; she admits she is "an unpleasant girl."
+[scene] (p.35) After profuse apologies (80% apology, 20% explanation) she trails off; he lets her finish; they part.
+[rel:shiranami-chihiro] (p.26–35) He startles her; she redirects the same nervous energy at Ichinose; he deflects with honesty and insurance rather than comfort.
+[rel:ichinose-honami] (p.30–35) She surveils his relationship with Honami-chan; he tells her the truth — nothing beyond classmates — but carefully.
+
+<!-- walk: y2v9.5 Ch.2 → p.35 -->
+
+### y2v9.5 p.36–58 — Ch.3: The morning; the Keyaki Mall sale; Kiryūin
+[scene] (p.36–37) Wakes, opens the curtains on falling snow; makes coffee; sees Keyaki Mall's pre-Christmas web ads; wants a yogurt maker at the sale price; doubts mention of a limited-stock special.
+[scene] (p.37–38) Ichinose calls to ask about Keyaki Mall; tells him the school flu advisory; offers support; hangs up; he resolves to go at 10 a.m.
+[scene] (p.40–42) First in line; seven students present; no classmate; Hondō was hyped in the group chat but didn't show up (confused; misread date; concludes it was today); leaves at the 10 a.m. open.
+[scene] (p.43–44) Hears that last year a Class B girl was injured in the opening rush; staff now control the north exit; he misses the yogurt maker — sold out — passes the supermarket dairy aisle; can't bring himself to leave.
+[scene] (p.45–57) Kiryūin finds him in a trance. She explains the internet price, talks through Class A, the school's ban on repeating a year, her grandfather, her future; probes him about repeating, privilege and freedom; warns him to watch the third term.
+[scene] (p.58) She starts to leave, stops, and predicts they will meet again somewhere — "soon in the future."
+[says:kiryuin-fuuka] (p.57) "If there was a system to repeat a grade in this school."
+[rel:ichinose-honami] (p.37–38) Her call feels caring and slightly purposeful; he stays noncommittal.
+[rel:hondo-ryotaro] (p.40) Chat hype over; the first-years ignore the sale.
+[rel:kiryuin-fuuka] (p.45–58) She follows him from curiosity ("your hunched-over back"); he listens, learns her plan: a normal life funded by herself.
+[rel:nagumo-miyabi] (p.55–56) She hints that the third term may bring trouble.
+
+<!-- walk: y2v9.5 Ch.3 → p.58 -->
+
+
+
 
 ## y2v9.75
 

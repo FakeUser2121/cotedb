@@ -155,6 +155,21 @@ char_id: kiryuin-fuuka · class: unknown · status: unknown
 
 <!-- walk: y2v9.5 → start -->
 
+### y2v9.5 p.45–58 — Ch.3: Kiryūin at the mall; the yogurt-maker exchange
+[scene] (p.45) Finds Ayanokōji staring at the supermarket's dairy section, hunched-over and bereft over the sold-out yogurt maker from the Keyaki Mall sale; walks him out of his daze.
+[scene] (p.46–47) Laughs at his loss, advises buying online; shows him the same model at the same price as the sale; reveals she knew it wasn't a real sale; reveals she followed him only from curiosity about his unusual name.
+[scene] (p.48–50) Confesses that she once wanted to repeat a grade to keep watching him train; declines even 20 million private points to rush to Class A; says private points can't buy everything (e.g. she remarks she once tried to use points to fire the teachers she didn't like — no-comment).
+[scene] (p.51–53) Reveals she was a grandchild raised by her ojii-sama ("ojou-sama" at home); picked this school to escape being born into wealth; plans scholarship + part-time to live a normal unremarkable life — like his.
+[scene] (p.55–57) Says Nagumo is gathering rumors of second-years for the third term, that the special exam ahead might be more troublesome than he thinks; her memory of last year's second-term special exam is oddly vague; they part.
+[says] (p.47) "Before feeling down, try looking online. You might find it surprisingly cheap."
+[says] (p.48) "If there was a system to repeat a grade in this school."
+[says] (p.57) "This is just my intuition, but I have a feeling that we'll meet again somewhere."
+[rel:ayanokouji-kiyotaka] (p.45–58) Follows him to the mall, talks about privilege, Class A and self-funded lives; he listens but reveals nothing; mutual respect under the odds.
+[feat] (p.45–58) Her "failure" to join any class battle teams her with a person who genuinely doesn't care about rank.
+
+<!-- walk: y2v9.5 Ch.3 → p.58 -->
+
+
 
 
 ## y2v11
