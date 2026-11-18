@@ -208,6 +208,15 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 [says] (p.177) “Gimme a break. Class D is scary enough as it is.”
 [rel:ichinose-honami] (p.171, 177) Discusses the harassment with her.
 
+## y2v12
+
+<!-- walk: y2v12 → start -->
+
+### y2v12 p.12-228 — shibata-sou mentioned in passing
+[scene] (p.12) Named in this volume.
+[note] (p.12) Passing mention (locator pages: p.91-92; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.12) Passing mention only.
+
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
@@ -371,9 +380,12 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 
 <!-- walk: y2v9.75 → start -->
 
-### y2v9.75 pp.4-8 — Full volume
+### y2v9.75 p.1-17 — shibata-sou mentioned in passing
+[scene] (p.1) Named in this volume.
+[note] (p.1) Passing mentions on pages: none.
+[mentioned] (p.1) Passing mention only.
 
-[scene] (p.4) Appears in this volume.
+
 
 
 <!-- walk: y2v9.75 Epilogue → p.17 -->
@@ -382,34 +394,36 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 
 <!-- walk: y2v10 → start -->
 
-### y2v10 pp.9-235 — Full volume
+### y2v10 p.9-235 — shibata-sou mentioned in passing
+[scene] (p.9) Named in this volume.
+[note] (p.9) Passing mention (locator pages: p.127-128; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.9) Passing mention only.
 
-[scene] (p.9) Appears in this volume.
 
 
-<!-- walk: y2v10 Epilogue → p.235 -->
 
 ## y2v10.25
 
 <!-- walk: y2v10.25 → start -->
 
-### y2v10.25 pp.1-10 — Full volume
+### y2v10.25 p.1-10 — shibata-sou mentioned in passing
+[scene] (p.1) Named in this volume.
+[note] (p.1) Passing mentions on pages: none.
+[mentioned] (p.1) Passing mention only.
 
-[scene] (p.1) Appears in this volume.
 
 
-<!-- walk: y2v10.25 Epilogue → p.10 -->
 
 ## y2v11
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 pp.11-223 — Full volume
+### y2v11 p.11-223 — shibata-sou: no page hits
+[scene] (p.11) Rostered for this volume.
+[note] (p.11) Page locator found no matches for this name in this volume; possible spelling/alias variant missed. Not read line-by-line.
 
-[scene] (p.11) Appears in this volume.
 
 
-<!-- walk: y2v11 Epilogue → p.223 -->
 
 
 <!-- walk: y2v12 Epilogue → p.228 -->

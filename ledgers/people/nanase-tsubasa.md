@@ -149,6 +149,15 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [trait] (p.368–369) Boldly voices her belief that he is a wicked, filthy human being yet looks like a regular human — testing him about his true nature (good or evil); retreats when she fears she's come too close, while noting he seemed to understand exactly what she wanted to ask; uses the masculine "boku" (katakana), hinting at her link to him.
 [rel:ayanokouji-kiyotaka] (p.368–369) Presses him on what kind of person he is; he sees through her intended question.
 [rel:horikita-suzune] (p.368) Admires her and wishes to become as splendid as her by next year.
+## y2v12
+
+<!-- walk: y2v12 → start -->
+
+### y2v12 p.12-228 — nanase-tsubasa mentioned in passing
+[scene] (p.12) Named in this volume.
+[note] (p.12) Passing mention (locator pages: p.40; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.12) Passing mention only.
+
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
@@ -611,12 +620,13 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 pp.11-223 — Full volume
+### y2v11 p.11-223 — nanase-tsubasa mentioned in passing
+[scene] (p.11) Named in this volume.
+[note] (p.11) Passing mention (locator pages: p.70-71; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.11) Passing mention only.
 
-[scene] (p.11) Appears in this volume.
 
 
-<!-- walk: y2v11 Epilogue → p.223 -->
 
 
 <!-- walk: y2v12 Epilogue → p.228 -->

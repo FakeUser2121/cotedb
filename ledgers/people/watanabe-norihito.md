@@ -6,6 +6,14 @@ char_id: watanabe-norihito · class: unknown · status: unknown
 
 <!-- walk: y2v2 → start -->
 
+## y2v12.5
+
+<!-- walk: y2v12.5 → start -->
+
+### y2v12.5 p.11-216 — watanabe-norihito: no page hits
+[scene] (p.11) Rostered for this volume.
+[note] (p.11) Page locator found no matches for this name in this volume; possible spelling/alias variant missed. Not read line-by-line.
+
 ## y3v2
 
 <!-- walk: y3v2 → start -->
@@ -96,20 +104,22 @@ char_id: watanabe-norihito · class: unknown · status: unknown
 
 <!-- walk: y2v10 → start -->
 
-### y2v10 pp.9-235 — Full volume
+### y2v10 p.9-235 — watanabe-norihito mentioned in passing
+[scene] (p.9) Named in this volume.
+[note] (p.9) Passing mention (locator pages: p.106-107, p.109, p.112-118, p.127; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.9) Passing mention only.
 
-[scene] (p.9) Appears in this volume.
 
 
-<!-- walk: y2v10 Epilogue → p.235 -->
 
 ## y2v12
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 pp.12-228 — Full volume
+### y2v12 p.12-228 — watanabe-norihito mentioned in passing
+[scene] (p.12) Named in this volume.
+[note] (p.12) Passing mention (locator pages: p.120; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.12) Passing mention only.
 
-[scene] (p.12) Appears in this volume.
 
 
-<!-- walk: y2v12 Epilogue → p.228 -->

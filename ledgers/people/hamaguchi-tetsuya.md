@@ -99,6 +99,15 @@ char_id: hamaguchi-tetsuya · class: Class 1-B · status: minor
 
 <!-- walk: y1v4 ch5 → p.243 -->
 
+## y2v12
+
+<!-- walk: y2v12 → start -->
+
+### y2v12 p.12-228 — hamaguchi-tetsuya mentioned in passing
+[scene] (p.12) Named in this volume.
+[note] (p.12) Passing mention (locator pages: p.30, p.65, p.69, p.94-101, p.119, p.132-133; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.12) Passing mention only.
+
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
@@ -152,12 +161,13 @@ char_id: hamaguchi-tetsuya · class: Class 1-B · status: minor
 
 <!-- walk: y2v10 → start -->
 
-### y2v10 pp.9-235 — Full volume
+### y2v10 p.9-235 — hamaguchi-tetsuya mentioned in passing
+[scene] (p.9) Named in this volume.
+[note] (p.9) Passing mention (locator pages: p.107; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.9) Passing mention only.
 
-[scene] (p.9) Appears in this volume.
 
 
-<!-- walk: y2v10 Epilogue → p.235 -->
 
 
 <!-- walk: y2v12 Epilogue → p.228 -->

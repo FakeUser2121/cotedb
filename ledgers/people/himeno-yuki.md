@@ -6,15 +6,25 @@ char_id: himeno-yuki · class: Class 2-A · status: unknown
 
 <!-- walk: y2v2 → start -->
 
+## y2v12
+
+<!-- walk: y2v12 → start -->
+
+### y2v12 p.12-228 — himeno-yuki mentioned in passing
+[scene] (p.12) Named in this volume.
+[note] (p.12) Passing mention (locator pages: p.120; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.12) Passing mention only.
+
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
 
-### y2v12.5 — Mentioned
+### y2v12.5 p.11-216 — Himeno mentioned in passing
+[scene] (p.27) Named in this volume.
+[note] (p.27) Passing mention (locator pages: p.27-28, p.177, p.179-180, p.187-188; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.27) Passing mention only.
 
-[scene] (p.43) Appears in this volume.
-
-<!-- walk: y2v12.5 Epilogue → p.216 -->
+<!-- walk: y2v12.5 Epilogue → p.188 -->
 
 ## y3v3
 
@@ -123,12 +133,13 @@ char_id: himeno-yuki · class: Class 2-A · status: unknown
 
 <!-- walk: y2v10 → start -->
 
-### y2v10 pp.9-235 — Full volume
+### y2v10 p.9-235 — himeno-yuki mentioned in passing
+[scene] (p.9) Named in this volume.
+[note] (p.9) Passing mention (locator pages: p.107, p.109, p.112, p.117; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.9) Passing mention only.
 
-[scene] (p.9) Appears in this volume.
 
 
-<!-- walk: y2v10 Epilogue → p.235 -->
 
 
 <!-- walk: y2v12 Epilogue → p.228 -->

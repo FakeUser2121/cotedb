@@ -1583,6 +1583,15 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [trait] (p.21–24) Cant hide her bewilderment at Horikita's new look and probes for the reason; her remark about growing her own hair out is read by Ayanokōji as disgust at matching her hated rival's hair length — innocent-sounding words hiding raging emotions.
 [rel:horikita-suzune] (p.21–24) Same-middle-school acquaintance and secret rival; hides her true reaction behind a cute, innocent front.
 [rel:sudou-ken] (p.23) Is asked to agree the short hair looks good.
+## y2v12
+
+<!-- walk: y2v12 → start -->
+
+### y2v12 p.12-228 — kushida-kikyou mentioned in passing
+[scene] (p.12) Named in this volume.
+[note] (p.12) Passing mention (locator pages: p.19, p.30-31, p.66, p.81-82, p.220; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.12) Passing mention only.
+
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
@@ -1913,9 +1922,12 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y2v9.75 → start -->
 
-### y2v9.75 pp.4-8 — Full volume
+### y2v9.75 p.1-17 — kushida-kikyou mentioned in passing
+[scene] (p.1) Named in this volume.
+[note] (p.1) Passing mentions on pages: p.4-7, p.17.
+[mentioned] (p.1) Passing mention only.
 
-[scene] (p.4) Appears in this volume.
+
 
 
 <!-- walk: y2v9.75 Epilogue → p.17 -->
@@ -1924,23 +1936,25 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y2v10 → start -->
 
-### y2v10 pp.9-235 — Full volume
+### y2v10 p.9-235 — kushida-kikyou mentioned in passing
+[scene] (p.9) Named in this volume.
+[note] (p.9) Passing mention (locator pages: p.16-27, p.44, p.47-48, p.60, p.168, p.170-171; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.9) Passing mention only.
 
-[scene] (p.9) Appears in this volume.
 
 
-<!-- walk: y2v10 Epilogue → p.235 -->
 
 ## y2v11
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 pp.11-223 — Full volume
+### y2v11 p.11-223 — kushida-kikyou mentioned in passing
+[scene] (p.11) Named in this volume.
+[note] (p.11) Passing mention (locator pages: p.115-117, p.121, p.150, p.185-186, p.188, p.197; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.11) Passing mention only.
 
-[scene] (p.11) Appears in this volume.
 
 
-<!-- walk: y2v11 Epilogue → p.223 -->
 
 
 <!-- walk: y2v12 Epilogue → p.228 -->

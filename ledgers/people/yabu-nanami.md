@@ -43,6 +43,15 @@ char_id: yabu-nanami · class: Class 1-C · status: minor (allies)
 
 <!-- walk: y1v8 ch5 → p.152 -->
 
+## y2v12.5
+
+<!-- walk: y2v12.5 → start -->
+
+### y2v12.5 p.11-216 — yabu-nanami mentioned in passing
+[scene] (p.11) Named in this volume.
+[note] (p.11) Passing mention (locator pages: p.78; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.11) Passing mention only.
+
 ## y3v3
 
 <!-- walk: y3v3 → start -->

@@ -6,15 +6,30 @@ char_id: morishita-ai · class: Class 2-A · status: unknown
 
 <!-- walk: y2v2 → start -->
 
+## y2v12
+
+<!-- walk: y2v12 → start -->
+
+### y2v12 p.12-228 — morishita-ai mentioned in passing
+[scene] (p.12) Named in this volume.
+[note] (p.12) Passing mention (locator pages: p.109-110, p.177-179, p.181; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.12) Passing mention only.
+
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
 
-### y2v12.5 — Mentioned
+### y2v12.5 p.105-106 — Morishita at the Keyaki Mall visit
+[scene] (p.105) Class 2-D; at the post–love-letter gathering she stands to act, saying "I'll start preparing right away—", until Negishi calls out and the moment breaks; Ayanokōji opens the envelope she encouraged him to open.
+[says] (p.105) “I’ll start preparing right away–”
 
-[scene] (p.43) Appears in this volume.
+<!-- walk: y2v12.5 Ch.6 → p.106 -->
 
-<!-- walk: y2v12.5 Epilogue → p.216 -->
+### y2v12.5 p.43-218 — Morishita elsewhere in this volume
+[scene] (p.43) Named in this volume.
+[note] (p.43) Locator pages beyond p.105-106: p.43, p.45, p.47, p.50-54, p.84, p.94-95, p.102-104, p.211-212; not line-by-line verified; substring false positives possible. Not a verified scene presence.
+
+<!-- walk: y2v12.5 Epilogue → p.212 -->
 
 ## y3v1
 
@@ -265,23 +280,25 @@ char_id: morishita-ai · class: Class 2-A · status: unknown
 
 <!-- walk: y2v10 → start -->
 
-### y2v10 pp.9-235 — Full volume
+### y2v10 p.9-235 — morishita-ai mentioned in passing
+[scene] (p.9) Named in this volume.
+[note] (p.9) Passing mention (locator pages: p.53, p.55-59, p.192, p.194-195, p.206, p.221; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.9) Passing mention only.
 
-[scene] (p.9) Appears in this volume.
 
 
-<!-- walk: y2v10 Epilogue → p.235 -->
 
 ## y2v11
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 pp.11-223 — Full volume
+### y2v11 p.11-223 — morishita-ai mentioned in passing
+[scene] (p.11) Named in this volume.
+[note] (p.11) Passing mention (locator pages: p.26-29, p.31-32, p.46-47, p.49-50, p.60, p.108; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.11) Passing mention only.
 
-[scene] (p.11) Appears in this volume.
 
 
-<!-- walk: y2v11 Epilogue → p.223 -->
 
 
 <!-- walk: y2v12 Epilogue → p.228 -->

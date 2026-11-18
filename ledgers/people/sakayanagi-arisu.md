@@ -904,6 +904,15 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [trait] (p.265–267) Perceptive and quietly supportive — knew from the start about the White Room enforcer threat and deliberately left "safe" first-years available to help him; declines to press when he refuses, never doubting he'll survive, and looks forward to their rematch.
 [rel:ayanokouji-kiyotaka] (p.265–267) Warns him about the enforcer, offers a safe partner (refused), and places great trust in him.
 [rel:tsukishiro] (p.266) Knows the White Room may send an enforcer to expel him.
+## y2v12
+
+<!-- walk: y2v12 → start -->
+
+### y2v12 p.12-228 — sakayanagi-arisu mentioned in passing
+[scene] (p.12) Named in this volume.
+[note] (p.12) Passing mention (locator pages: p.13, p.16-17, p.20-21, p.24-25, p.29, p.33; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.12) Passing mention only.
+
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
@@ -1143,23 +1152,25 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v10 → start -->
 
-### y2v10 pp.9-235 — Full volume
+### y2v10 p.9-235 — sakayanagi-arisu mentioned in passing
+[scene] (p.9) Named in this volume.
+[note] (p.9) Passing mention (locator pages: p.8, p.40-41, p.57-58, p.86, p.96, p.101; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.9) Passing mention only.
 
-[scene] (p.9) Appears in this volume.
 
 
-<!-- walk: y2v10 Epilogue → p.235 -->
 
 ## y2v11
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 pp.11-223 — Full volume
+### y2v11 p.11-223 — sakayanagi-arisu mentioned in passing
+[scene] (p.11) Named in this volume.
+[note] (p.11) Passing mention (locator pages: p.10-11, p.19, p.21-25, p.29-30, p.40, p.86-91; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.11) Passing mention only.
 
-[scene] (p.11) Appears in this volume.
 
 
-<!-- walk: y2v11 Epilogue → p.223 -->
 
 
 <!-- walk: y2v12 Epilogue → p.228 -->

@@ -272,6 +272,15 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 [trait] (p.194–196) Frustrated and eager to act — relays Hashimoto's intelligence about the rival classes' point offers and repeatedly urges Sakayanagi to fight back with points; can't accept her sitting idle against Ryūen, but it's loyalty rather than a desire to win for herself.
 [rel:sakayanagi-arisu] (p.194–196) Her classmate; argues with her about countering Ryūen's bids.
 [rel:hashimoto-masayoshi] (p.194) On the phone with him, relaying his findings.
+## y2v12
+
+<!-- walk: y2v12 → start -->
+
+### y2v12 p.12-228 — kamuro-masumi mentioned in passing
+[scene] (p.12) Named in this volume.
+[note] (p.12) Passing mention (locator pages: p.59-60, p.214, p.216; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.12) Passing mention only.
+
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
@@ -412,23 +421,25 @@ char_id: kamuro-masumi · class: Class 1-A · status: minor
 
 <!-- walk: y2v10 → start -->
 
-### y2v10 pp.9-235 — Full volume
+### y2v10 p.9-235 — kamuro-masumi mentioned in passing
+[scene] (p.9) Named in this volume.
+[note] (p.9) Passing mention (locator pages: p.103-104, p.121, p.138, p.146, p.150, p.154; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.9) Passing mention only.
 
-[scene] (p.9) Appears in this volume.
 
 
-<!-- walk: y2v10 Epilogue → p.235 -->
 
 ## y2v11
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 pp.11-223 — Full volume
+### y2v11 p.11-223 — kamuro-masumi mentioned in passing
+[scene] (p.11) Named in this volume.
+[note] (p.11) Passing mention (locator pages: p.11, p.20-21, p.23, p.88, p.90-91, p.111-112; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.11) Passing mention only.
 
-[scene] (p.11) Appears in this volume.
 
 
-<!-- walk: y2v11 Epilogue → p.223 -->
 
 
 <!-- walk: y2v12 Epilogue → p.228 -->

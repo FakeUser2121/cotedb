@@ -24,12 +24,13 @@ char_id: nishi-haruka · status: minor
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 pp.12-228 — Full volume
+### y2v12 p.12-228 — nishi-haruka mentioned in passing
+[scene] (p.12) Named in this volume.
+[note] (p.12) Passing mention (locator pages: p.65-66, p.69, p.91, p.93, p.95-96, p.98; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.12) Passing mention only.
 
-[scene] (p.12) Appears in this volume.
 
 
-<!-- walk: y2v12 Epilogue → p.228 -->
 ## y3v2
 
 <!-- walk: y3v2 → start -->

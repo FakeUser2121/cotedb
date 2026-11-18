@@ -1148,6 +1148,15 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [trait] (p.350–352) Helped keep Ayanokōji's knife wound confidential, worries Tsukishiro might forcibly remove him ("take you out of the school by force"), and is proven right that his perfect math score reveals his special nature; leads him to Tsukishiro's office.
 [rel:ayanokouji-kiyotaka] (p.350–352) Is secretly allied with him; keeps his secret and summons him.
 [rel:tsukishiro] (p.351) Reports his apparent inactivity during the exam; is uneasy about his intentions.
+## y2v12
+
+<!-- walk: y2v12 → start -->
+
+### y2v12 p.12-228 — chabashira-sae mentioned in passing
+[scene] (p.12) Named in this volume.
+[note] (p.12) Passing mention (locator pages: p.10, p.12-14, p.16, p.18-19, p.29, p.67; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.12) Passing mention only.
+
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
@@ -1396,23 +1405,25 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v10 → start -->
 
-### y2v10 pp.9-235 — Full volume
+### y2v10 p.9-235 — chabashira-sae mentioned in passing
+[scene] (p.9) Named in this volume.
+[note] (p.9) Passing mention (locator pages: p.12-14, p.30-32, p.34, p.36, p.38, p.40; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.9) Passing mention only.
 
-[scene] (p.9) Appears in this volume.
 
 
-<!-- walk: y2v10 Epilogue → p.235 -->
 
 ## y2v11
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 pp.11-223 — Full volume
+### y2v11 p.11-223 — chabashira-sae mentioned in passing
+[scene] (p.11) Named in this volume.
+[note] (p.11) Passing mention (locator pages: p.11, p.13-17, p.34-41, p.44, p.214, p.217; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.11) Passing mention only.
 
-[scene] (p.11) Appears in this volume.
 
 
-<!-- walk: y2v11 Epilogue → p.223 -->
 
 
 <!-- walk: y2v12 Epilogue → p.228 -->

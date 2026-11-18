@@ -1772,6 +1772,15 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [trait] (p.77–100) Appears sudden and daring beside Horikita on the first-year floor, taunting her; when Hōsen demands he prostrate himself to partner, he refuses with a cutting insult, declining a physical fight with the stronger delinquent; had already been buying up first-year honor students with points (per Shiratori).
 [rel:horikita-suzune] (p.77) Taunts her on the first-year floor.
 [rel:housen-kazuomi] (p.99–100) Stands off against him; calls him a "wild gorilla."
+## y2v12
+
+<!-- walk: y2v12 → start -->
+
+### y2v12 p.12-228 — ryuuen-kakeru mentioned in passing
+[scene] (p.12) Named in this volume.
+[note] (p.12) Passing mention (locator pages: p.13, p.16-17, p.20-21, p.24-25, p.28-29, p.33; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.12) Passing mention only.
+
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
@@ -2279,23 +2288,25 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v10 → start -->
 
-### y2v10 pp.9-235 — Full volume
+### y2v10 p.9-235 — ryuuen-kakeru mentioned in passing
+[scene] (p.9) Named in this volume.
+[note] (p.9) Passing mention (locator pages: p.8, p.39-41, p.85-87, p.91, p.94-96, p.102; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.9) Passing mention only.
 
-[scene] (p.9) Appears in this volume.
 
 
-<!-- walk: y2v10 Epilogue → p.235 -->
 
 ## y2v11
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 pp.11-223 — Full volume
+### y2v11 p.11-223 — ryuuen-kakeru mentioned in passing
+[scene] (p.11) Named in this volume.
+[note] (p.11) Passing mention (locator pages: p.20, p.24-25, p.40, p.68, p.86, p.98; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.11) Passing mention only.
 
-[scene] (p.11) Appears in this volume.
 
 
-<!-- walk: y2v11 Epilogue → p.223 -->
 
 
 <!-- walk: y2v12 Epilogue → p.228 -->

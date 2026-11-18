@@ -25,9 +25,9 @@ char_id: todo-chikon · class: unknown · status: unknown
 
 <!-- walk: y2v11 → start -->
 
-### y2v11 pp.11-223 — Full volume
+### y2v11 p.11-223 — todo-chikon: no page hits
+[scene] (p.11) Rostered for this volume.
+[note] (p.11) Page locator found no matches for this name in this volume; possible spelling/alias variant missed. Not read line-by-line.
 
-[scene] (p.11) Appears in this volume.
 
 
-<!-- walk: y2v11 Epilogue → p.223 -->

@@ -36,6 +36,15 @@ char_id: amikura-mako · class: Class 1-B · status: minor (allies)
 
 <!-- walk: y1v11.75 Section → p.18 -->
 
+## y2v12
+
+<!-- walk: y2v12 → start -->
+
+### y2v12 p.12-228 — amikura-mako mentioned in passing
+[scene] (p.12) Named in this volume.
+[note] (p.12) Passing mention (locator pages: p.157; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.12) Passing mention only.
+
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
@@ -120,23 +129,25 @@ char_id: amikura-mako · class: Class 1-B · status: minor (allies)
 
 <!-- walk: y2v10 → start -->
 
-### y2v10 pp.9-235 — Full volume
+### y2v10 p.9-235 — amikura-mako mentioned in passing
+[scene] (p.9) Named in this volume.
+[note] (p.9) Passing mention (locator pages: p.107-109, p.117; not line-by-line verified; substring false positives possible). Not a scene presence.
+[mentioned] (p.9) Passing mention only.
 
-[scene] (p.9) Appears in this volume.
 
 
-<!-- walk: y2v10 Epilogue → p.235 -->
 
 ## y2v10.25
 
 <!-- walk: y2v10.25 → start -->
 
-### y2v10.25 pp.1-10 — Full volume
+### y2v10.25 p.1-10 — amikura-mako mentioned in passing
+[scene] (p.1) Named in this volume.
+[note] (p.1) Passing mentions on pages: p.1-3, p.5, p.7-9.
+[mentioned] (p.1) Passing mention only.
 
-[scene] (p.1) Appears in this volume.
 
 
-<!-- walk: y2v10.25 Epilogue → p.10 -->
 
 
 <!-- walk: y2v12 Epilogue → p.228 -->
