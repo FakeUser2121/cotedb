@@ -1833,3 +1833,4 @@ hash: `6bea783884c7cb8573db97157f0b718a`.
 | y2v11 + y2v12 depth passes merged to rebuild-from-origin | — | merged chain green: verify both ALL PASS; gate/build/check OK; hash docs de8d0590b53035111f4835f2fc2d0b01 (deterministic x2); docs rebuilt in merge | de8d0590b53035111f4835f2fc2d0b01 |
 | y2v4.5 depth pass | 290 | 199 sections; coverage gate run (81 locator rows; d610f50... fresh-build hash) | docs/ restored to committed state; parent rebuilds at merge |
 | y2v4.5 depth pass (verifier close-out) | 290 | verify y2v4.5 ALL PASS (513 says + 267 non-says); fresh-build hash c86a4219093d2ca33750a5fa02ad988a | docs/ restored |
+| y2v4.5 depth pass final | 290 | 215 sections | docs/ restored to committed; parent rebuilds at merge |
