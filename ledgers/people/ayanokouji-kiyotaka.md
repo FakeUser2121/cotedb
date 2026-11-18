@@ -6008,6 +6008,62 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v12.5 Ch.5 → p.91 -->
 
+### y2v12.5 p.93–99 — Ch.6: Sakayanagi's farewell at the main gate
+[scene] (p.93) Early morning, March 31: he sees the main gate where Sakayanagi will leave in a taxi booked for 11 AM; Satō has been sending calls and messages after the breakup.
+[note] (p.93) Sakayanagi's message: “Ryūen-kun has given me permission to stay at the school for a while. There’s a lot we need to talk about, but I plan on doing it on March 31st—in front of the main gate, the day I leave this school.”
+[scene] (p.93) Chairman Sakayanagi — not Arisu, but her father — arrives about ten minutes early to see her off.
+[scene] (p.95) Yamamura and Morishita are also there to see Sakayanagi off; the three onlookers distance themselves when she asks to speak to him alone.
+[says] (p.96) “I’d like to say that I feel guilty, but such superficial lies wouldn’t work on you, would they?”
+[says] (p.96) “If I may speak frankly, you were too strong, Sakayanagi. I have no doubts about your abilities, and although I don’t know the details of the end-of-year special exam, you definitely surpassed Ryūen. However—”
+[says] (p.96) “That’s right. I want to see that.”
+[says] (p.96) “Sorry.”
+[says] (p.96) “That’s right. I also want to settle that matter if possible. What do you desire?”
+[says] (p.97) “That’s a bad joke.”
+[says] (p.97) “I’d considered it as setting the groundwork. I can’t see a future where that’s going to happen yet, though.”
+[says] (p.97) “I might just be using you, you know.”
+[says] (p.97) “Is that your first wish?”
+[says] (p.97) “There are some things that are beyond even my control. Are you really okay with that wish?”
+[says] (p.97) “...I see. If it’s with you, a reunion might indeed be possible.”
+[says] (p.97) “That’s right. I hope the day comes when I can think that way.”
+[says] (p.98) “What about the second wish?”
+[says] (p.98) “There might be students who are suspicious of him, but without definitive proof, they’re left with presuming his innocence.”
+[says] (p.98) “So, you’re asking me to decide whether he’s guilty or innocent in the coming year?”
+[says] (p.98) “I understand. I will take on the arbitrator role.”
+[says] (p.98) “No, there’s something I have to tell you before we part.”
+[says] (p.98) “I’d prepared it just in case, but now there’s no need to use it anymore.”
+[says] (p.98) “Karuizawa herself knew the outcome.”
+[says] (p.98) “That’s right.”
+[scene] (p.98) He takes out his phone, displays a photo of Sakayanagi taken in his room, and deletes it in front of her — Karuizawa already knew the outcome.
+[scene] (p.99) Sakayanagi spreads her arms; he draws her closer; she says she looks forward to the day they meet again.
+[rel:sakayanagi-arisu] (p.93–101) Her farewell; his intercession: two requests granted, photo deleted, hug, promise to meet again after graduation.
+[rel:morishita-ai] (p.94–99) She sees Sakayanagi off, clinging to Yamamura.
+[rel:yamamura-miki] (p.94–99) She sees Sakayanagi off; Yamamura cries at the renewed promise to reunite (p.102).
+
+<!-- walk: y2v12.5 Ch.6 → p.101 -->
+
+### y2v12.5 p.102–106 — Ch.6: The advice and the letter
+[scene] (p.102) On the walk back to the dormitory, he claims Sakayanagi entrusted him with advice for the former Class A; Morishita is suspicious.
+[says] (p.102) “Actually, while I was talking with Sakayanagi earlier, she entrusted me with some important advice for the former Class A.”
+[says] (p.102) “There are various things to consider, but it’s advice that I need to convey.”
+[says] (p.103) “This is the advice Sakayanagi left. It’s about how the former Class A should fight next year.”
+[says] (p.103) “Allowed or not, there have been similar situations before.”
+[says] (p.103) “Last time I said 10%, but if this is realized, it will be at least 25%. Including values for latent potential, we might be able to get an even higher number. However, there will be inconvenient cases later on—there are many causes for concerns. Can it really be realized?”
+[says] (p.103) “I want to hear your honest opinion.”
+[says] (p.104) “What is it?”
+[says] (p.104) “I said it was.”
+[says] (p.104) “I have a goal I want to achieve by the time I graduate from this school. That goal is to maintain the balance among the four classes until the very end of our third year, making it possible for any class to achieve victory. Sakayanagi’s advice was simply the best for that purpose. For the sake of that goal, whether I graduate from Class A or who moves up is secondary.”
+[says] (p.104) “It’s not the first time. I’ve been doing things as I please behind the scenes.”
+[says] (p.104) “If you judge it to be dangerous, another option is to quit trying.”
+[says] (p.105) “What is this?”
+[says] (p.106) “No, I won’t call. It’s not necessary right now.”
+[says] (p.106) “Well, if I were to call, it’d be at least a year from now.”
+[scene] (p.105) A first-year girl named Negishi thrusts an envelope into his hands with a trembling voice and runs away; inside is a single white sheet with an eleven-digit phone number and the initial N.
+[rel:morishita-ai] (p.102–106) He manipulates her into taking the "advice" to the class; his stated goal: keep the four classes balanced until graduation.
+[rel:yamamura-miki] (p.102–106) She tears up and agrees to try the advice.
+[rel:negishi] (p.105–106) A first-year hands him the phone-number letter.
+
+<!-- walk: y2v12.5 Ch.6 → p.106 -->
+
 ## y3v1
 
 <!-- walk: y3v1 → start -->
@@ -6540,35 +6596,6 @@ walk: y1v1 → DONE
 ## y3v3
 
 <!-- walk: y3v3 → start -->
-
-### y3v3 pp.14–251 — Depth review: survival game mastermind
-[scene] (p.14) Leads Class C onto the uninhabited island for the third straight year, under the Survival Game exam rules.
-[says] (p.241) "I surrender."
-[says] (p.248) "There's nothing in the rules against it."
-[says] (p.249) "I'll make it official here."
-[feat] (p.241) Runs out of ammunition against Ryuuen and Ibuki, eliminates Ibuki with a paintball to the thigh, then defeats Ryuuen by throwing a deliberately damaged paintball that bursts on impact.
-[tactic] (p.249) Allowed Class B's surprise attack on his own class so that cornered Class C would be forced to accept an alliance with Ichinose's Class D — then declares that alliance after Class A is eliminated.
-[tactic] (p.231) Identified Class A's three VIPs by attacking at night and watching the guards rush to protect Wang Mei-Yu, Satō Maya and Yukimura Teruhiko; passed the names to Class B.
-[status] (p.252) Class C places second; the alliance with Class D is now open.
-[rel:shiina-hiyori] (p.12–251) Is the object of Hiyori's unspoken confession; she resolves to defeat him in this exam.
-[rel:ryuuen-kakeru] (p.236–250) Fights him on the beach; Ryuuen concedes and vows no mercy from here on.
-[rel:ichinose-honami] (p.249) Declares the C–D alliance with her class.
-[rel:hashimoto-masayoshi] (p.117–229) Commands him in Class C; Hashimoto loses a duel to Hirata.
-[rel:shiraishi-asuka] (p.117–232) Uses her as recon commander over the radio.
-
-<!-- walk: y3v3 Epilogue → p.256 -->
-
-### y3v3 p.14–45 — Ch.1 — depth read: the survival game opens
-[scene] (p.14) Arrives on the same uninhabited island for his third straight year; notes the grid is now A–O × 1–15 (larger than last year's A–J × 1–10).
-[says] (p.16) "Maybe. But speculating now won't tell us anything."
-[says:hashimoto-masayoshi] (p.16) "Looks like we're finally arriving."
-[says:hashimoto-masayoshi] (p.23) "An expulsion from the class whose three VIP's get taken out first, huh? Well, I figured they'd pull something like that."
-[inference] (p.24) Concludes the expulsion can be minimized (victims with Protection Points) but that fear of expulsion will force combat eventually — a draw decided by luck is worse.
-[status] (p.30) Class C starts at area E12 (Ryūen C12, Horikita G12, Ichinose I12).
-[rel:hashimoto-masayoshi] (p.14–32) Talks through the rules and strategy with him on the ship and beach.
-[rel:sanada-kousei] (p.29) Has him draw the starting-position lot.
-[rel:shiraishi-asuka] (p.31) Hears her point about the food shortage forcing event participation.
-[note] (p.20) Exam rules: 3 nights/4 days; roles Commander/VIP/Guard/Analyst/Scout; Global GPS Shutdown ×1, Individual ×3, Identity Check ×5; first wiped-out class selects one for expulsion.
 
 ### y3v3 p.46–85 — Ch.2 — depth read: the ambush and the alliance reveal
 [says] (p.49) "Even if we were to pick up the pace, the enemy would find out within five minutes. If they knew we'd quickened our movement, Class A would do the same."
@@ -9822,5 +9849,52 @@ walk: y1v1 → DONE
 [says:hashimoto-masayoshi] (p.89) “That's reasonable. But as long as you and I are in the same group, Sakayanagi will be more wary than usual. I don't want you to expect useful information.”
 [note] (p.88) Hashimoto hints Kitō is the angriest about the betrayal; he is \“Class A’s most wanted man\”; his mask could crack when the betrayal lands.
 [rel:hashimoto-masayoshi] (p.85–89) He asks Kiyotaka to scout Sakayanagi; Kiyotaka agrees in name only.
+
+### y2v11 p.90–92 — Ch.3: The lobby; Sanada's question
+[scene] (p.90) After the evening wind-down; he goes to the lobby to organize his thoughts; runs into Sanada, fresh from the bath.
+[says] (p.90) “Like how he had a hand in Kamuro's expulsion?”
+[says] (p.90) “There's nothing particularly different from usual. He seems to be doing well, not just putting on a brave face.”
+[says] (p.91) “But how about Sakayanagi? Has there been any change with her?”
+[says] (p.91) “I thought the fact that her group had lost three times at the exchange meeting might have had some effect.”
+[says] (p.91) “But didn't you play a game against Sakayanagi's group today?”
+[says:sanada-kousei] (p.90) “It's about Hashimoto-kun from your group. I guess you've heard various rumors about him.”
+[says:sanada-kousei] (p.90) “Can we talk for a bit? There's something I've been meaning to ask you.”
+[says:sanada-kousei] (p.91) “She didn't participate. I didn't see her giving any instructions nearby either.”
+[says:sanada-kousei] (p.92) “I'd be happy if you could keep an eye on Hashimoto-kun, as well as Sakayanagi-san, even a little.”
+[note] (p.91) Sakayanagi apparently has not been involved in the exchange meeting at all; Sanada's read matches Hashimoto's suspicion.
+[rel:sanada-kousei] (p.90–92) He probes for news of Hashimoto and Sakayanagi; Kiyotaka shares what he can.
+
+### y2v11 p.92–95 — Ch.3: Horikita's request
+[scene] (p.91) Horikita catches him at the edge of the lobby and pulls his sleeve; a personal favor, nothing to do with schoolwork.
+[says:horikita-suzune] (p.91) “I'm glad I ran into you. I have a little favor to ask... Is that okay?”
+[says:horikita-suzune] (p.91) “It's about Amasawa-san... It's not something I can talk about out loud.”
+[says:horikita-suzune] (p.92) “Did you know how good her physical abilities are? It seems that she’s also quite skilled in martial arts.”
+[says:horikita-suzune] (p.92) “I think you wouldn't know about it unless you heard it from Amasawa-san, but I owe her a bit of a 'debt'—something I can't repay in my typical school life.”
+[says:horikita-suzune] (p.92) “I've been doing my best every day. But I don't know if I'm at a level that can compete with her. So, I want you to evaluate my current strength.”
+[says] (p.93) “Even if you say 'strength,' I don't know how strong Amasawa is. I can't be of much help.”
+[says] (p.93) “It's up to you if you want a rematch, but has Amasawa agreed?”
+[says] (p.93) “Why don't you ask Ibuki over there? She would be happy to help.”
+[says] (p.94) “You decided to do this during the training camp because you wouldn't have trouble finding a place to spar, right?”
+[says] (p.94) “Indeed, I don’t have anything to gain from this.”
+[says] (p.94) “I don't know how much it will help, but if you accept my conditions, I'm willing to take it on.”
+[says] (p.94) “Whether or not both parties agree to it, there are more disadvantages to getting into a fight at school. If you want to pay back some kind of debt, you don't want to miss such a great opportunity. However, you can't just go out at night.”
+[says] (p.94) “The first is to talk to Amasawa today. You're in the same group, so it shouldn't be hard to find an opportunity to do so. Of course, to avoid making a fuss, make sure no third party finds out. The timing should be early morning on the last day. You should get Amasawa to accept the rematch at that time.”
+[says] (p.94) “I'll talk about that once you've finished this one. There's no point in special training if Amasawa doesn't accept. Besides, we can't do it in the middle of the night at the training camp, can we?”
+[says] (p.95) “Yeah. Don't tell Amasawa.”
+[says] (p.95) “This isn’t related to the exchange meeting, but there's something I want you to investigate.”
+[note] (p.92–94) The debt stems from the deserted island exam; Kiyotaka knows Amasawa's strength but keeps it to himself; he conditions the rematch on talking to Amasawa at dawn on the last day.
+[note] (p.95) She agrees to keep quiet; he asks her to investigate something he refuses to explain.
+[rel:horikita-suzune] (p.91–95) She asks him to train her against Amasawa; he sets conditions instead of training her himself.
+[rel:ibuki-mio] (p.93–95) He ropes Ibuki into the evaluation; she shows up on cue to eavesdrop.
+
+### y2v11 p.96–99 — Ch.3: The Kōenji and Tatebayashi clash
+[scene] (p.96) After an hour at the large bath; they pass a third-year Class D man icing down in front of a shared room; inside, Kōenji is already stretching.
+[says] (p.98) “Was everything okay?”
+[note] (p.96–98) Tatebayashi cannot reach Kōenji: he slept at the wrong futon, turns away, turns over Tatebayashi's words into nothing; Hashimoto shields the calm.
+[note] (p.98) Hashimoto tells him Class 3-D got nothing but Kōenji for a Hail-Mary; first-years now respect Kiyotaka.
+[note] (p.98) Pillow-fight memory of Ryūen and Kitō on school trips.
+[rel:tatebayashi] (p.96–99) He is furious; Kiyotaka and his group watch from the hallway.
+[rel:kouenji-rokusuke] (p.96–98) He refuses everything; Tatebayashi implodes; nothing is resolved.
+[rel:hashimoto-masayoshi] (p.96–99) He brokers the calm with soothing words; he turns the bedding fight into something Kōenji-proof.
 
 <!-- walk: y2v11 ch3 → p.99 -->

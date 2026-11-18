@@ -1955,3 +1955,9 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [mentioned] (p.73) Inogashira declines to ask Hirata for help with Kōenji: \“I can't ask Hirata-kun to do something like this...\”
 
 <!-- walk: y2v11 ch2 → p.84 -->
+
+### y2v11 p.86 — Ch.3: The chameleon benchmark
+[scene] (p.86) Hashimoto is compared to Hirata Yōsuke, who is good at blending into his surroundings.
+[note] (p.86) Named as a blending-in type; no on-page presence; Hashimoto says he is cut from a different cloth.
+
+<!-- walk: y2v11 ch3 → p.99 -->

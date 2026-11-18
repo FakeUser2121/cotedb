@@ -1003,3 +1003,15 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:ayanokouji-kiyotaka] (p.74–78) He refuses all participation; Kiyotaka cannot recruit him; he leaves for self-improvement.
 
 <!-- walk: y2v11 ch2 → p.84 -->
+
+### y2v11 p.96–98 — Ch.3: The emperor on the futon
+[scene] (p.96) Night; he steamrolls into the third-year Class D room; he is on the futon before Tatebayashi finishes looking for him.
+[says] (p.96) “Could you move? You're in the way.”
+[says] (p.97) “Me? It's obvious, isn't it? I'm polishing myself.”
+[says] (p.97) “That's an impossible request.”
+[says] (p.97) “Then I'll sleep at the edge.”
+[says] (p.97) “I refuse. I hate going through unnecessary steps. Can you be quiet now?”
+[says] (p.97) “Don't you know the saying, 'One should undergo hardships in their youth even if they have to pay for it'? At times like this, young people should take the lead and give the better place to their seniors.”
+[rel:tatebayashi] (p.96–98) Every order hits a wall; the leader breaks down; nothing is settled.
+
+<!-- walk: y2v11 ch3 → p.99 -->

@@ -93,7 +93,7 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 
 ### y2v12.5 p.11-216 — kitou-hayato mentioned in passing
 [scene] (p.11) Named in this volume.
-[note] (p.11) Passing mention (locator pages: p.55, p.95; not line-by-line verified; substring false positives possible). Not a scene presence.
+[note] (p.55, 95) Passing mentions only: Mii-chan-san recounts seeing Kitō confront Ryūen in the dorm lobby (p.55); Sakayanagi notes Kitō did not come to see her off, unlike Masumi and Hashimoto (p.95). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
 ## y3v3
@@ -265,9 +265,12 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 [note] (p.11) Passing mention (locator pages: p.88, p.91, p.98, p.111-113, p.121, p.123-124; not line-by-line verified; substring false positives possible). Not a scene presence.
 [mentioned] (p.11) Passing mention only.
 
+### y2v11 p.88–98 — Ch.3: The angriest man in Class A
+[scene] (p.88) Hashimoto whispers that Kitō is really angry at the betrayal; also recalled for pillow-fighting Ryūen on a school trip.
+[note] (p.88) He is named as Class A's angriest man; Hashimoto expects him to act when the betrayal goes public.
+[note] (p.98) Recalled for a pillow fight with Ryūen on a school trip between sleeping spots.
 
-
-
+<!-- walk: y2v11 ch3 → p.99 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

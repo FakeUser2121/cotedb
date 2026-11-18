@@ -74,6 +74,25 @@ char_id: sanada-kousei · class: unknown · status: unknown
 [mentioned] (p.40) Named as a second-year Class A member of Nagumo's group: Sanada Kōsei, Sawada Yasumi.
 
 <!-- walk: y2v11 ch2 → p.84 -->
+
+### y2v11 p.90–92 — Ch.3: The bath, the rumors
+[scene] (p.90) He gets out of the bath with wet hair and glasses; he catches Ayanokōji in the lobby and asks for a talk.
+[says] (p.90) “Can we talk for a bit? There's something I've been meaning to ask you.”
+[says] (p.90) “It's about Hashimoto-kun from your group. I guess you've heard various rumors about him.”
+[says] (p.90) “I don't intend to pry into it without any solid evidence, but regardless of the truth, I'm curious about his current situation... I wonder how he's doing.”
+[says] (p.91) “As far as I could see at school, she seemed to be the same as always.”
+[says] (p.91) “I'm not sure, but that might be the case. However, we haven't seen each other much since we came here, so I don't know the details.”
+[says] (p.91) “She didn't participate. I didn't see her giving any instructions nearby either.”
+[says] (p.91) “What about you, Ayanokōji-kun? Do you know anything?”
+[says] (p.92) “I'd be happy if you could keep an eye on Hashimoto-kun, as well as Sakayanagi-san, even a little.”
+[says] (p.92) “That is—”
+[says] (p.92) “I haven't talked directly with my classmates, so I can't say for sure who thinks what. But there are definitely people who assume that's the case.”
+[note] (p.90–91) He won a game against Sakayanagi's group on the first day; he admits she didn't take the field; he knows Hashimoto is Class A's most wanted.
+[note] (p.92) He cannot bring himself to answer whether his classmates think Hashimoto betrayed them; Kiyotaka names Kitō as the angriest suspect.
+[rel:ayanokouji-kiyotaka] (p.90–92) He tests Kiyotaka's knowledge; shares nothing; both probe Sakayanagi.
+[rel:hashimoto-masayoshi] (p.90–92) Rumors swirl about his deal; Sanada keeps no fixed view; he cannot say whether his classmates blame Hashimoto.
+
+<!-- walk: y2v11 ch3 → p.99 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

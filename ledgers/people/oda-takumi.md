@@ -46,6 +46,14 @@ char_id: oda-takumi · class: Class 1-C · status: minor
 [mentioned] (p.46) Named as a second-year Class C member of Group 20: Oda Takumi, Shiina Hiyori.
 
 <!-- walk: y2v11 ch2 → p.84 -->
+
+### y2v11 p.86–87 — Ch.3: The nagging doubt about Sakayanagi
+[scene] (p.86) Evening in the shared room; he mutters his read of the group results.
+[says] (p.86) “Nagumo-senpai's group is a first-place contender, aren’t they?”
+[says] (p.87) “I think so too. I wonder if she's up to something.”
+[note] (p.86–87) He fit in well with the room despite being a 2-C outsider; the three losses bug him too.
+
+<!-- walk: y2v11 ch3 → p.99 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->
