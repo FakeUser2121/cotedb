@@ -1831,3 +1831,4 @@ hash: `6bea783884c7cb8573db97157f0b718a`.
 | y2v11 depth pass complete | 223 | 324 sections (142 evidence / 182 mention) | 93c577b0961f22e536945cb796b91858 (x2 deterministic) |
 | y2v11 coverage gate + repair | 223 | locator for all 85 roster characters; genuine mentions added; stubs (75) removed | 93c577b0961f22e536945cb796b91858 |
 | y2v11 + y2v12 depth passes merged to rebuild-from-origin | — | merged chain green: verify both ALL PASS; gate/build/check OK; hash docs de8d0590b53035111f4835f2fc2d0b01 (deterministic x2); docs rebuilt in merge | de8d0590b53035111f4835f2fc2d0b01 |
+| y2v4.5 depth pass | 290 | 199 sections; coverage gate run (81 locator rows; d610f50... fresh-build hash) | docs/ restored to committed state; parent rebuilds at merge |
