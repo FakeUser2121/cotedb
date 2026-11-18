@@ -2413,6 +2413,11 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v8 Ch.4 → p.161 -->
 
+### y2v8 p.207 — The credits: Ryūen hot
+[mentioned] (p.207) Akuma's (Editor) credit line: "Ryūen hot".
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ### y2v8 p.11-208 — ryuuen-kakeru mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.12, p.14, p.46-47, p.49-53, p.55-57.

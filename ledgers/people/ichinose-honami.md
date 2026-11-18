@@ -1892,6 +1892,12 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v8 Ch.6 → p.195 -->
 
+### y2v8 p.204, 207 — The Horikita SS and Ichisamui's credit
+[mentioned] (p.204) "Ichinose-san, who had resolved the fight, was called by Ando-san, from her class, as she was leaving."
+[mentioned] (p.207) Ichisamui (translator, Short Stories): "I told you didn't I? Honami is the one and only queen! You must be pretty salty, do you mind rubbing your hands on my popcorn?"
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ### y2v8 p.11-208 — ichinose-honami mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.10, p.13-14, p.49, p.65, p.69.

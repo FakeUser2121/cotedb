@@ -547,6 +547,11 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 
 <!-- walk: y2v8 Ch.2 → p.89 -->
 
+### y2v8 p.202–203 — Named in the Chabashira SS
+[mentioned] (p.202–203) "Confused and Enlightened" retells the drunk Chie scene: she shouts "I'm going back to my room! Bye!" and leaves; Chabashira regrets it immediately and sets off after her ("if I leave her alone she might drink until dawn").
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ### y2v8 p.11-208 — hoshinomiya-chie mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.46, p.49, p.148, p.155-158, p.202-203.

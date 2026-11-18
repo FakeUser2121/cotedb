@@ -1851,6 +1851,11 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v8 Ch.2 → p.89 -->
 
+### y2v8 p.207 — The credits: Kei fanatics
+[mentioned] (p.207) Amadeus's (Senior Editor) credit line: "Dear Kei fanatics... please overlook the NTRing you had to endure. It's clearly just bait, after all. Or is it? Can't wait for the Karuizawa/Ichinose cat fight next volume! Fufu."
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ## y2v9
 
 <!-- walk: y2v9 → start -->

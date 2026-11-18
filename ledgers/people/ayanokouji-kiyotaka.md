@@ -9608,10 +9608,21 @@ walk: y1v1 → DONE
 [scene] (p.187) Back from the trip; meets Ichinose (she needed a way to contact him — "we're in the same group for the school trip"); she avoids the topic of Kei.
 [says] (p.192) "If only I could command my classmates like Sakayanagi-san. If only I could lead as strongly as Ryūen-kun."
 [says] (p.192) "Our class is definitely moving farther [away]."
-[says] (p.194) "I won't let you stop until the final exam"
+[thinks] (p.194) "You aren't allowed to collapse right now, Ichinose."
 [trait] (p.187–195) Ichinose admits she's struggling ("results don't follow," her class falling further behind) and wishes she could lead like Sakayanagi/Ryūen/Horikita; Ayanokōji refuses to let her give up before the final exam, telling her to keep fighting "until the end" — a firm, uncharacteristically harsh push.
 [rel:ichinose-honami] (p.187–195) She opens up about her failings; he refuses to let her stop — "W-what? Ayanokōji-kun!?" (surprised by his intensity).
 [rel:karuizawa-kei] (p.189) Ichinose steers clear of the subject of Kei ("it wasn't that something happened on the school trip").
+
+### y2v8 p.197–205 — The short stories, from where he stands
+[scene] (p.197–199) Kushida's SS ("Absolutely Haunted") — she narrates her slide into feelings; the reader watches him be entirely himself at her, unknowing.
+[scene] (p.200–201) Yamamura's SS ("Weak Presence") — her morning; the gloves; the boy who sees her.
+[scene] (p.202–203) Chabashira's SS ("Confused and Enlightened") — the drunk Chie; the Joker's name lands in writing.
+[scene] (p.204–205) Horikita's SS ("Did you enjoy a long bath?") — the bath's aftermath; the towel games; the unspoken truce.
+[mentioned] (p.197–205) He's present in all four short stories (as himself, quoted and observed); no new events — retellings only.
+[note] (p.197–205) The SS narratives re-traverse scenes from non-POV sides; nothing new is canonically added beyond what the main text established.
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ## y2v9
 
 <!-- walk: y2v9 → start -->

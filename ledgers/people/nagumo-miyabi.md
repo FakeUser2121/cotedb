@@ -680,6 +680,11 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y2v8 → start -->
 
+### y2v8 p.207 — The credits: Nagumo > Ishigami
+[mentioned] (p.207) BGS003's credit line: "Nagumo > Ishigami" — the illustrator's quip.
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ### y2v8 p.11-208 — nagumo-miyabi mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.61, p.207.

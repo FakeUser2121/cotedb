@@ -47,6 +47,11 @@ char_id: ishigami-kyo-1a · class: Class 1-A · status: first-year honor student
 
 <!-- walk: y2v8 Postscript → p.196 -->
 
+### y2v8 p.207 — The credits: Nagumo > Ishigami
+[mentioned] (p.207) BGS003 (Illustration Cleaner): "Nagumo > Ishigami".
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ## y2v9
 
 <!-- walk: y2v9 → start -->

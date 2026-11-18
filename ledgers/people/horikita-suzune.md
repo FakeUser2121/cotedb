@@ -4616,6 +4616,27 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v8 Ch.5 → p.186 -->
 
+### y2v8 p.204–205 — Short Story "Did you enjoy a long bath?" (Horikita POV)
+[scene] (p.204) The bathhouse afterglow; Kushida wraps her in a towel and needles her about the endurance match; Ibuki was there too; neither admits any of it meant anything.
+[says:kushida-kikyou] (p.204) “You're really tough, Horikita-san. Well, if I had persisted in that situation, I would have won.”
+[says:kushida-kikyou] (p.204) “Well, if I had persisted in that situation, I would have won.” — split single.
+[says] (p.204) “That's an illusion. If we had kept going, you'd be the first one to fall, right?”
+[says:kushida-kikyou] (p.204) “Here, Horikita-san. This is cold water.”
+[says] (p.204) “It's rare for you to be so understanding.”
+[says:kushida-kikyou] (p.204) “No, that's not true. I always care about others, don't I?”
+[says] (p.204) “The walls have ears too, so I hope you'll be careful about what you say.”
+[says:kushida-kikyou] (p.204) “And then again, Horikita-san must be very thirsty right now, right? After all that time in the bath.”
+[says] (p.204) “Hydration is another matter, but the bathing endurance race is a draw, right?”
+[says:kushida-kikyou] (p.204) “That's fine. Please, I'll drink after Horikita-san finishes her drink.”
+[says] (p.205) “You're the one who should drink it before you get dehydrated. I'll get my own share.”
+[note] (p.204) The SS recaps the bath race from her side; the translation keeps the "~" trail-offs and straight quotes — kept as printed.
+[rel:kushida-kikyou] (p.204–205) They play at war with towels and hydration; the friendship is real even when they deny it.
+[rel:ibuki-mio] (p.204) Referenced as "possessed by Ibuki-san"; Ibuki has nothing to answer for but victory.
+[rel:ichinose-honami] (p.204) "Ichinose-san, who had resolved the fight, was called by Ando-san, from her class, as she was leaving." — she protects everyone by leaving.
+[rel:andou-sayo] (p.204) Ando-san calls Ichinose out of the bath by name.
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ### y2v8 p.11-208 — horikita-suzune mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.12-14, p.16-18, p.41-42, p.44-45, p.57-58.

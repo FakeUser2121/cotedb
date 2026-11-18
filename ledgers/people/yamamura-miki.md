@@ -248,6 +248,22 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 
 <!-- walk: y2v8 Ch.5 → p.186 -->
 
+### y2v8 p.200–201 — Short Story "Weak Presence" (Yamamura POV)
+[scene] (p.200) The snowball fight, retold from her POV: she pre-resolves to fade, then he is simply there; he asks about her gloves; her carefully built silence cracks on screen.
+[says] (p.200) “Hoo...”
+[says] (p.200) “Yes.”
+[says] (p.200) “I'm sorry, I'm just kidding. I'm carrying them with me.”
+[says] (p.200) “Sure enough… does it not suit my style?”
+[scene] (p.201) She drains the last feeling in her chest — the shadow she has been all her life begins to suspect it might want more; the school trip becomes a hinge.
+[note] (p.201) She questions whether she still believes the trip was only "a school trip to investigate the enemy." Not quoted — inferred from narration.
+[note] (p.201) The internal shift is the story's whole payload — "A school trip to investigate the enemy" turns into a personal negotiation.
+[rel:ayanokouji-kiyotaka] (p.200–201) He notices her; it changes nothing and everything; she belongs to him without meaning to.
+[rel:kushida-kikyou] (p.200) She credits Kushida for seeing her at all.
+[rel:nishino-takeko] (p.200) She credits Nishino ditto.
+[rel:amikura-mako] (p.200) She credits Amikura ditto.
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ### y2v8 p.11-208 — yamamura-miki mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.46-47, p.50, p.55-57, p.63-64, p.79.

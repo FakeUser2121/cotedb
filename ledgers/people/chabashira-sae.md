@@ -1481,6 +1481,22 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v8 Ch.1 → p.45 -->
 
+### y2v8 p.202–203 — Short Story "Confused and Enlightened" (Chabashira POV)
+[scene] (p.202) Chie storms off after the drunk eruption; Chabashira is rattled; the evening's fallout pleats into her own self-recrimination about three years ago.
+[says:hoshinomiya-chie] (p.202) “I'm going back to my room! Bye!”
+[says:hoshinomiya-chie] (p.202) “I'm sorry for what happened earlier.”
+[says:hoshinomiya-chie] (p.202) “You're a little concerned, aren't you, sensei?”
+[says] (p.202) “To be honest, it's impossible not to think about it. Your class is so different from the one I took three years ago.”
+[says] (p.202) “I don't know if Ayanokoji-kun is a Joker, however I can't deny that he is strong as a fellow classmate. But I don't plan to have any scruples about it.”
+[says] (p.203) “Okay... I'm going to go find Chie, if I leave her alone she might drink until dawn.”
+[trait] (p.202–203) The professional weariness of a former homeroom teacher who mugged Class B of three years ago and started over with this new cohort; the joker metaphor sits heavy; she aims — she will not hold his talent against her own duty.
+[note] (p.202) The SS keeps the original slanted quotation punctuation (straight quotes, "~" trail-offs) — kept as printed.
+[rel:hoshinomiya-chie] (p.202–203) She will not surrender her ex-colleague to the bottle; the two lost souls keep saving each other.
+[rel:horikita-suzune] (p.202) Horikita's composure vs Chabashira's restraint — two leaders who respect each other's edges.
+[rel:ayanokouji-kiyotaka] (p.202) The "Joker" naming is hers to carry now.
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ### y2v8 p.11-208 — chabashira-sae mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.13-18, p.20, p.23-24, p.46, p.49.

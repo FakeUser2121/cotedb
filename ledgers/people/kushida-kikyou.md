@@ -1930,6 +1930,27 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y2v8 Ch.5 → p.186 -->
 
+### y2v8 p.197–199 — Short Story "Absolutely Haunted" (Kushida POV)
+[scene] (p.197) Retells the confrontation from her POV: her reasons survive the criticism of her own heart; she catastrophises the control room inside her chest.
+[says] (p.197) “Why ..... to come to my rescue? It's not good for Ayanokoji-kun, right?”
+[says] (p.197) “I must guard my place.”
+[says] (p.197) “Huh? What is this…”
+[says] (p.197) “What an unpleasant thing to say. Does the class need my strength so much?”
+[says] (p.199) “I'm just a little dizzy, but I'm fine! It's oka-!”
+[voice] (p.197–199) Dense, self-sabotaging monologue; the prose is her panic made fluent; every thought is interrupted by a truer one; she discovers, in horror, that her own limbs are disobeying her.
+[trait] (p.197–199) She develops undeniable feelings; the breast-coercion memory (year 1) re-surfaces as a shame loop she can't resolve; the sensation of falling for him is, to her, "absolutely haunted."
+[thinks] (p.197) “I couldn't be… falling for him? Impossible. Impossible. Impossible, impossible... Impossible!”
+[thinks] (p.198) “Didn't Ayanokoji-kun touch my breasts? No, instead of saying he touched my breasts I should say I forced him to touch them.”
+[thinks] (p.199) “It's the other feelings that are the big problem. I'm in love with someone else ......? Ha-?”
+[note] (p.198–199) The translation throughout this SS loosens its typography (straight quotes, double spaces, kanji drift) — kept as printed.
+[rel:ayanokouji-kiyotaka] (p.197–199) He likes her mind as it is; she can't process that fact at all — the haunting begins here.
+[rel:ryuuen-kakeru] (p.197) The threat that started the whole conversation — she's furious at herself for needing rescue.
+
+### y2v8 p.207 — The credits: Kushida is the strongest girl in ANHS
+[mentioned] (p.207) Rhymar's (Translator) credit line: "Kushida is the strongest girl in ANHS".
+
+<!-- walk: y2v8 Postscript → p.208 -->
+
 ### y2v8 p.11-208 — kushida-kikyou mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: p.12, p.46-47, p.49-50, p.52, p.55-64.
