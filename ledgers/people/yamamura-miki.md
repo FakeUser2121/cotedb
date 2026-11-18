@@ -10,11 +10,18 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — yamamura-miki mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.44-45, p.47, p.59-60, p.106, p.210, p.216; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.44–45 — Ch.2: The rest-area vending machines
+[scene] (p.44) Late Friday evening; a rest area on the second floor of Keyaki Mall; she stands in front of a lined-up vending machine; he stops by pretending to choose a product, tells her he hoped to find her there.
+[says:ayanokouji-kiyotaka] (p.44) “How have things been with Sakayanagi since then?”
+[says] (p.44) “We’ve had more opportunities to talk than before.”
+[says:ayanokouji-kiyotaka] (p.44) “I stopped by hoping you would be here, Yamamura. Actually, there’s something I want to ask.”
+[scene] (p.45) He asks about an unnamed matter that does not involve Sakayanagi; she dodges a clear answer, then takes out her phone and plays a silent surveillance video dated December 26, 7 PM, Keyaki Mall — two people interacting closely, cautious of their surroundings; she gives the video of the one person matching his description.
+[says] (p.45) “The only person I found during my investigation that matches what you’re talking about is this person.”
+[says] (p.45) “I hope it helps.”
+[note] (p.45) Nothing in the text names the two people in the video; the names are never printed on these pages. He uses the clip to summon Matsushita the next step.
+[rel:sakayanagi-arisu] (p.44–45) Member of Class A known for surveillance work; she gathers the information for Sakayanagi, per this volume's later reveal.
 
+<!-- walk: y2v12 ch2 → p.62 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

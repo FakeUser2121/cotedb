@@ -97,11 +97,22 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — matsushita-chiaki mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.46-48, p.66, p.87, p.120; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.46–48 — Ch.2: The bench inside Keyaki Mall
+[scene] (p.46) Friday eve; a certain location inside Keyaki Mall; about 15 minutes after the call, Matsushita arrives, excused by Karuizawa for 30 minutes; they last spoke last year at this exact spot when she followed him.
+[says] (p.46) “Sorry to keep you waiting, Ayanokōji-kun. Karuizawa-san told me to contact you… What did you want to talk about?”
+[says] (p.46) “Ah… now that you mention it, it might have been here. Yes, this is the place.”
+[says] (p.46) “Yeah. I feel like you dodged the question somewhat though.”
+[scene] (p.47) He invokes the year-ago conversation (her wanting to know his true abilities); names everyone he suspects, based on the video; she breaks composure, calls it a test, and confirms the topics and members of that discussion felt off.
+[says] (p.47) “It feels like I’m being tested.”
+[says] (p.47) “Since I’m supposedly being tested, I’ll answer seriously.”
+[says:ayanokouji-kiyotaka] (p.47) “That’s enough.”
+[scene] (p.48) He waves off the rest; Matsushita says she can feel secure about the special exam with his approval, agrees the whole class must grow, and smiles about their one day joining forces; he tells her to consider the meeting as never having happened.
+[says:ayanokouji-kiyotaka] (p.48) “For now, let’s pretend today’s meeting didn’t happen. Contact me anytime.”
+[note] (p.47) The names of the involved parties are never printed; only the fact that there was a discussion, that the participants mattered, and that its topics felt off.
+[rel:karuizawa-kei] (p.46) Karuizawa told Matsushita to contact him; Karuizawa could step out for about 30 minutes.
+[rel:yamamura-miki] (p.47) His information source for the names he recites; he refuses to reveal who told him.
 
+<!-- walk: y2v12 ch2 → p.62 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

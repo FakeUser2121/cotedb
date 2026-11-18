@@ -1150,6 +1150,10 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v12 → start -->
 
+### y2v12 p.10–11 — Prologue: named in Hoshinomiya's monologue
+[scene] (p.10) Hoshinomiya Chie's printed monologue names "Sae-chan" as her best friend and rival — Chabashira Sae — and states her motive for becoming a teacher: to eliminate all hope from Sae's dream of graduating a Class A.
+[note] (p.10) Chabashira does not appear; she is named by the monologist. The "defective goods" history the class carries is the trail Hoshinomiya still resents.
+
 ### y2v12 p.12–19 — Ch.1: Announcing the special exam
 [scene] (p.12) Thursday, the second week of March; the morning greetings are sparse; she appears with a calm demeanor and, before announcing the exam, prefaces it with a personal story: her eighth year at Advanced Nurturing High School, six years leading two classes, never moving up from Class D.
 [says] (p.12) "I will now announce the end-of-year special exam and its contents. But before that, I would like to share a little personal story."

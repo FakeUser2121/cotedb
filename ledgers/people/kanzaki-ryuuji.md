@@ -428,11 +428,24 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — kanzaki-ryuuji mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.30, p.55-57, p.64-65, p.69, p.84, p.119-124; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.55–57 — Ch.2: Waiting by the gym entrance
+[scene] (p.55) Sunday morning, near the gym entrance after an hour of training; Kanzaki waits — not a coincidence; Ichinose is likely the source of the tip that Ayanokōji was heading there.
+[says:ayanokouji-kiyotaka] (p.55) “Rare to see you here, Kanzaki.”
+[says] (p.55) “…Yeah.”
+[says:ayanokouji-kiyotaka] (p.55) “If you want to join the gym, I can introduce you.”
+[says] (p.55) “No, that’s not it. I heard you were going to the gym and waited.”
+[scene] (p.55–56) He probes whether it is true that Ayanokōji will not participate; then lets slip the rumor — not just a representative, but the general — the very thing meant to stay secret; he asks him to refuse if Horikita asks.
+[says] (p.55) “I just overheard that you don’t plan to participate as a representative. I wanted to check if that’s true.”
+[says] (p.56) “…No.”
+[says] (p.56) “That’s the rumor.”
+[note] (p.56) The rumor, as he states it: that Ayanokōji agreed early to become a representative — not merely a role, but as the general.
+[scene] (p.56–57) He apologizes for prying and leaves with hidden disappointment; Ayanokōji notes the information leaked only to Ichinose’s side.
+[says] (p.56) “Sorry, this was a conversation I shouldn’t have expected you to accept.”
+[says] (p.56) “I came to see you today just to convey that.”
+[says] (p.56) “I’m grateful to you for many things.”
+[rel:ichinose-honami] (p.55–56) His source is Ichinose; he protects her feelings above all — he fears Ayanokōji's participation would break her composure.
 
+<!-- walk: y2v12 ch2 → p.62 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

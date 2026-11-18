@@ -80,11 +80,21 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — amasawa-ichika mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.39-40; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.38–40 — Ch.2: The Nagumo report and the Nanase assignment
+[scene] (p.39) Friday evening, the mall's edge; she runs up, crashing into Hasebe's half-finished attempt to speak with Ayanokōji, and stays for her real purpose: a report.
+[says] (p.39) “Even though you have Karuizawa-senpai as your girlfriend, now you’re plotting on making this busty one your girlfriend too?”
+[says] (p.40) “Ah, I didn’t come here to annoy you today… When I attacked Nagumo-senpai during the last camp, there was also a surprise counterattack, so I’m here to report that.”
+[scene] (p.40) She lays out her own decision: she attacked Nagumo at the last camp prepared to be expelled; she has reconsidered and will keep attending school for a while; she offers her spare time.
+[says] (p.40) “I haven’t come to a conclusion yet.”
+[scene] (p.40) He assigns her to look into Nanase Tsubasa — not to expel her, only to gather information on her real intentions; she salutes exaggeratedly and accepts, then mutters "...Thank you, Senpai." as she leaves.
+[says] (p.40) “Do you want me to expel her?”
+[says] (p.40) “Okay, understood.”
+[says] (p.40) “…Thank you, Senpai.”
+[rel:nanase-tsubasa] (p.40) He assigns her to dig into Nanase's real intentions; the assignment is intelligence-gathering, not expulsion.
+[rel:hasebe-haruka] (p.39) She ran the interception; his loss — Hasebe left unfinished.
+[rel:nagumo-miyabi] (p.40) Report: her surprise attack on him at the last camp met a counterattack; she survived and will keep attending school for now.
 
+<!-- walk: y2v12 ch2 → p.62 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

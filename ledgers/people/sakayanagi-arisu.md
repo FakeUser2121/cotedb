@@ -908,11 +908,33 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — sakayanagi-arisu mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.13, p.16-17, p.20-21, p.24-25, p.29, p.33; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.24–25 — Ch.1: The Sunday-night call reply
+[scene] (p.24) He messages the four leaders after school Thursday; for her he proposes Saturday or Sunday.
+[scene] (p.25) Her weekend is packed with prior commitments; she asks whether a phone call on Sunday night would be acceptable; he accepts; he notes it answers the largest of the four meetings by phone rather than in person.
 
+<!-- walk: y2v12 ch1 → p.25 -->
+
+### y2v12 p.58–62 — Ch.2: The Sunday-night call
+[scene] (p.58) Almost 10 PM Sunday; a call from Sakayanagi; she has been active since early morning; he takes the call in his room after ending the TV; she is already lying down in pajamas, ready to fall asleep the moment the call ends.
+[says:ayanokouji-kiyotaka] (p.58) “Simply put, I heard you’ve accepted a challenge from Ryūen, staking expulsion.”
+[says] (p.58) “Was that it?”
+[says] (p.58) “Looking at the terms alone, that might be the case.”
+[says] (p.58) “Just witnessing the outcome of the battle will suffice.”
+[scene] (p.59) She reveals she has tried something new — individual meetings with classmates, unrelated to the exam; she names Masumi (Kamuro) and Yamamura as the reason; she yawns; she denies focusing on Ichinose’s or his class.
+[says] (p.59) “By the way, will you be participating as a representative in this special exam, Ayanokōji-kun?”
+[says] (p.59) “I haven’t been focusing on your and Ichinose-san’s class this time.”
+[says] (p.59) “Perhaps unnecessary emotions drove me.”
+[scene] (p.60) She admits the change began with Kamuro and Yamamura, and that it is “because of you, Ayanokōji-kun. You’re the one who changed me.”
+[says] (p.60) “It’s because of you, Ayanokōji-kun.”
+[says] (p.60) “You’ve done something unnecessary.”
+[scene] (p.61) He recalls the debt from the deserted island exam; proposes repaying it now; she declines — repay it when she is a third-year; she says the answer about the favor goes without saying; she asks to sleep, and they end the call.
+[says] (p.61) “The answer goes without saying.”
+[says] (p.61) “You’ll repay the favor when I’m a third-year.”
+[says] (p.61) “Good night.”
+[rel:karuizawa-kei] (p.61) She tells him that Karuizawa and Ichinose both like him because he walks into people’s hearts, disrupts them, and fosters growth.
+[rel:kamuro-masumi] (p.59–60) Her regret: she could not talk to Kamuro anymore — expelled; the change in her began with that incident.
+
+<!-- walk: y2v12 ch2 → p.62 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

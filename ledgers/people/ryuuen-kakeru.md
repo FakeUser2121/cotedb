@@ -1774,11 +1774,28 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — ryuuen-kakeru mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.13, p.16-17, p.20-21, p.24-25, p.28-29, p.33; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.24–25 — Ch.1: The Friday reply
+[scene] (p.24) After school Thursday; he is the first of the four leaders to read Ayanokōji's message; the narrator notes he is the person who "wouldn't be surprised to choose not to meet me."
+[says] (p.24) “[I can make time after school tomorrow.]”
+[scene] (p.25) They settle by message on a karaoke room at 7 PM on Friday; the narrator notes it felt odd that he could not spare even a little weekend time, but reads it as typical of Ryūen rather than as a signal.
 
+<!-- walk: y2v12 ch1 → p.25 -->
+
+### y2v12 p.41–44 — Ch.2: The karaoke room
+[scene] (p.41) A karaoke room, Friday evening; he sits cross-legged in the silent room; comments that neither Ibuki nor Ishizaki is around to break the tension; notes he was thinking of contacting Ayanokōji himself this time, and lets the meeting start.
+[says] (p.41) “None of your lackeys are around today, huh?”
+[says] (p.41) “You sure are spewing quite a lot of shit being the one who called me out here.”
+[says] (p.41) “Well, it’s fine. I was thinking of contacting you myself this time.”
+[scene] (p.42) He laughs about academic-centered exams having been a gamble and rejects last year's juvenile tricks; invokes "Try to mature more effectively" and declares he will crush Sakayanagi fair and square — or at least appear to.
+[says] (p.42) “It’s the once a year do-or-die-battle.”
+[says] (p.42) “I’ll show you and Sakayanagi what I’m really capable of.”
+[scene] (p.43) He shrugs off pressure; baits Ayanokōji about Horikita's fragile situation ("Horikita might just get torn apart"); takes his rival's refusal to fight for him as "good… It's more convenient for us if your class loses."
+[says] (p.43) “Horikita might just get torn apart.”
+[says] (p.43) “Well, good. It’s more convenient for us if your class loses.”
+[note] (p.44) He does not pour the suspicious purple grape juice on him; the escape detour (Yamamura, then Matsushita) is recorded in their own sections.
+[rel:sakayanagi-arisu] (p.42) He frames the exam as a fair-and-square crush against her; Sakayanagi's section mirrors this.
+
+<!-- walk: y2v12 ch2 → p.62 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

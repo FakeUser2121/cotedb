@@ -497,11 +497,18 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — hasebe-haruka mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.38-39, p.91; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.38–40 — Ch.2: The interrupted confession
+[scene] (p.38) Edge of Keyaki Mall near a wall, Friday after school; she approaches Ayanokōji after seeing him with Horikita at the café; she says she has found more opportunities to smile lately, accepting Airi through the cultural festival or just time passing.
+[says] (p.38) “Um, after this… uh…”
+[says] (p.38) “Um… after this… let’s, with Miyacchi and Yukimū—”
+[scene] (p.39) Her sentence is cut off as Amasawa runs up and crashes in, uninvited, accusing him of plotting on a second girlfriend despite Karuizawa-senpai; Hasebe steps back and leaves without finishing.
+[says:amasawa-ichika] (p.39) “Is this a secret meeting here~? Senpai!”
+[says] (p.40) “I’ll go… I’m keeping two people waiting.”
+[note] (p.39) Her unfinished proposal is never spelled out in the text; only the printed words are recorded.
+[rel:ayanokouji-kiyotaka] (p.38–40) She wanted to say something after the festival; Amasawa's arrival ends the chance without her completing the thought.
+[rel:amasawa-ichika] (p.39–40) She deliberately crashed Hasebe's attempt, on his finger-signal.
 
+<!-- walk: y2v12 ch2 → p.62 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

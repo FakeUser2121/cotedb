@@ -1467,6 +1467,14 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v12 ch1 → p.25 -->
 
+### y2v12 p.45–53 — Ch.2: Working as his relay
+[scene] (p.45) After the Yamamura detour, he asks her to get further details from Kei, based on the video — she is the phone line into the class.
+[scene] (p.46) Matsushita is reached through Kei — “Karuizawa-san told me to contact you…”; she steps out for about 30 minutes with Karuizawa's blessing; the meeting happens inside Keyaki Mall, the same place they last spoke a year earlier.
+[rel:matsushita-chiaki] (p.45–46) Kei is how Ayanokōji reaches Matsushita; Matsushita says Karuizawa allowed the 30 minutes.
+[scene] (p.53) Before seeing Ichinose on the bench, he tells Ichinose he has already talked to Kei about today — "Careless secrets and clumsy lies only become shackles in maintaining relationships."
+[note] (p.46) No direct dialogue from Kei is printed on these pages; her role is the relay that makes the Matsushita meeting happen.
+
+<!-- walk: y2v12 ch2 → p.62 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->

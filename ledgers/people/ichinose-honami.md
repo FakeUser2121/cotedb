@@ -1477,11 +1477,28 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v12 → start -->
 
-### y2v12 p.12-228 — ichinose-honami mentioned in passing
-[scene] (p.12) Named in this volume.
-[note] (p.12) Passing mention (locator pages: p.13, p.16-17, p.19, p.22, p.24-25, p.30; not line-by-line verified; substring false positives possible). Not a scene presence.
-[mentioned] (p.12) Passing mention only.
+### y2v12 p.24–25 — Ch.1: The Saturday reply
+[scene] (p.24) He messages the four leaders after school Thursday; for her he asks whether Saturday works, since she has plans with a friend on Sunday.
+[scene] (p.25) She replies suggesting they meet early on Saturday, since she is busy on Sunday with a friend; he answers that it is fine.
 
+<!-- walk: y2v12 ch1 → p.25 -->
+
+### y2v12 p.53–54 — Ch.2: The bench before the gym
+[scene] (p.53) Sunday morning, a bench along the school route before the gym; Ichinose sits waiting; he arrives ten minutes early; she worries that Karuizawa or others might see them, but drops the subject.
+[says] (p.53) “Good morning, Ayanokōji-kun. Is it okay? Calling me out to a place like this.”
+[says:ayanokouji-kiyotaka] (p.53) “What do you mean?”
+[says:ayanokouji-kiyotaka] (p.53) “I don’t plan to participate as a representative in the special exam at the moment.”
+[says] (p.53) “I see. That might be good news for us then.”
+[says] (p.53) “I’d rather not compete against you, but it can’t be helped. It’s inevitable that our classes will clash.”
+[scene] (p.54) He reminds her of the promise from one year ago — meet again one year later, just the two of them — and she answers without hesitation; they agree to meet again if neither is expelled; then she passes on joining him at the gym, with plans to meet classmates.
+[says:ayanokouji-kiyotaka] (p.54) “The reason I called you here today is because the time for our promise is approaching soon. Do you remember?”
+[says] (p.54) “How could I forget? It was about our conversation last year in your room, right?”
+[says:ayanokouji-kiyotaka] (p.54) “If neither of us gets expelled in the special exam, let’s make some time then.”
+[says] (p.54) “Definitely.”
+[says] (p.54) “I have plans to meet with classmates after this, so I’ll pass this time.”
+[rel:karuizawa-kei] (p.53) He notes he has already talked to Kei about today; clumsily kept secrets become shackles.
+
+<!-- walk: y2v12 ch2 → p.62 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
