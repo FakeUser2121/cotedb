@@ -1808,6 +1808,29 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v6 Epilogue → p.346 -->
 
+### y2v6 p.90–97 — Sudō: doubles with Onodera; asking Hirata to mediate
+[scene] (p.90) Invites Ayanokōji to the toilet as an excuse to talk about the class's awkward relationships; Onodera intercepts to propose a doubles pairing.
+[says] (p.91) "Of course. This sports festival is my biggest chance to shine after all."
+[says] (p.93) "Also, I hate to say it, but five or six people coming together to do the team events, how will that go?"
+[says] (p.94) "It ain't that. As if I could complain about your abilities, Onodera." / "Do you not want to pair up with anyone other than Horikita-san?" — Onodera
+[says] (p.95) "Alright then, Onodera. Let's pair up?"
+[says] (p.95) "With our power, let's support our class!"
+[says] (p.96) "Honestly, their relationship is kinda awkward right now."
+[trait] (p.90–97) Well-meaning and reflective — initially hesitant to pair with Onodera (wanting Horikita), but recognizes that's a "pointless reason" and accepts; genuinely worried about Ike/Shinohara's relationship after Kushida's leaks; with Ayanokōji's Socratic prompting, realizes he should ask Hirata (the class's mediator) to help them "lay their feelings bare."
+[rel:onodera-kayano] (p.90–95) Agrees to doubles pairing — "let's get both first places at all costs."
+[rel:horikita-suzune] (p.93–95) Initially wanted to pair with the girl he likes.
+[rel:ike-kanji] (p.95–96) Worried about his and Shinohara's awkward relationship.
+[rel:hirata-yousuke] (p.96–97) Realizes he's the right mediator (Kushida can no longer fill that role).
+
+### y2v6 p.292–301 — Sudō: a clean sweep; beating Hōsen with dignity
+[scene] (p.292) In the doubles match, Hōsen changes his aim from winning to tormenting Sudō; Sudō is provoked but, with Onodera's support, keeps his cool.
+[says] (p.297) "Congratulations on winning every event, Sudou-kun." — Horikita
+[says] (p.298) "Yeah! Thanks Onodera, if you didn't help I would definitely have lost this"
+[says] (p.300) "Oi, Sudou. Don't let this win get to yer head, eh? If I was serious, you'd be..." — Hōsen
+[trait] (p.292–301) Wins every event he enters (a clean sweep) — in the final against Hōsen he controls his anger instead of lashing out (unlike his old self), beats him with powerful shots and snaps out of it when he nearly loses control; Onodera's presence steadies him; even Hōsen grudgingly acknowledges it (though he taunts that Sudō was "better when you came swingin'").
+[rel:onodera-kayano] (p.298) His doubles partner — "if you didn't help I would definitely have lost."
+[rel:housen-kazuomi] (p.292–301) Hōsen tries to provoke him into a fight; Sudō wins without taking the bait — a major display of growth.
+[rel:horikita-suzune] (p.297) She congratulates him on winning every event.
 ## y2v7
 
 <!-- walk: y2v7 → start -->

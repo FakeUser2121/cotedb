@@ -863,6 +863,17 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v6 Epilogue → p.346 -->
 
+### y2v6 p.195–218 — Katsuragi: the honest broker in the alliance
+[says] (p.195) "Sorry for being late." — his punctuality noted as unusual by Ayanokōji
+[says] (p.200) "There is no one I'd be more afraid of trusting my back to." — on Ryūen
+[says] (p.201) "You seem a little different from before, Horikita. So I guess that means you're growing, too, huh."
+[says] (p.201) "I, too, had a plan in mind to join forces with your class this time and defeat Class A."
+[says] (p.202) "If we were to form a cooperative relationship, our classes would naturally take first and second place."
+[says] (p.205) "Ryuuen. It looks like Horikita is different from how she used to be, far more than we could imagine."
+[says] (p.212) "Would you perhaps let me bounce ideas off you for a bit, Katsuragi-kun?" — Horikita
+[trait] (p.195–218) Pragmatic and honest — apologizes for lateness (which earns Horikita's trust), warns her of Ryūen's untrustworthiness from painful experience, urges his class to take the alliance seriously, and helps broker the deal; his addition to Ryūen's class means Ryūen no longer has to lead every negotiation — "a very big advantage for them."
+[rel:ryuuen-kakeru] (p.205) He reevaluates the alliance and talks Ryūen into accepting.
+[rel:horikita-suzune] (p.201–212) He senses her growth and agrees to collaborate on the paperwork.
 ## y2v7
 
 <!-- walk: y2v7 → start -->

@@ -452,6 +452,15 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 
 <!-- walk: y2v6 Epilogue → p.346 -->
 
+### y2v6 p.234–237 — Satou: a first-year whispers "you'd have a chance"
+[scene] (p.234) From her own POV, after running off from Ayanokōji and Kei holding arms at the mall, sits by the girls' restroom feeling guilty; an unfamiliar first-year student approaches with an "urgent message."
+[narrates] (p.235) "It has to do with Ayanokouji-senpai."
+[narrates] (p.235) "If Karuizawa-senpai were expelled─don't you think you'd have a chance, Satou-senpai?"
+[narrates] (p.237) "Whether you want to hear me out or not is up to you, Satou-senpai. However, if you choose not to, I'm sure you will come to regret it for the rest of your life."
+[trait] (p.234–237) Still in love with Ayanokōji (he occupies "99% of her brain's processing capacity"), panicked and guilty about running off; the first-year's words — that if Kei were expelled she'd "have a chance" — awaken an "emotion she didn't want to know," though she's wary; the identity of the first-year (and the plot against Kei) is not revealed here.
+[rel:ayanokouji-kiyotaka] (p.234–235) The boy she likes — the first-year uses him to lure her.
+[rel:karuizawa-kei] (p.235) Her close friend — the first-year suggests her expulsion would give Satou a chance with Ayanokōji; Satou is conflicted.
+[note] (p.234) The first-year student is not named on these pages — no speaker attribution assigned (§7).
 ## y2v7
 
 <!-- walk: y2v7 → start -->

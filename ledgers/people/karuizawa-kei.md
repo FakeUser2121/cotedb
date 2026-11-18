@@ -1698,6 +1698,27 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v6 Epilogue → p.346 -->
 
+### y2v6 p.65–80 — Kei visits Ayanokōji's room; omurice and affection
+[scene] (p.67) Arrives at his room grinning, adopts it as her own ("Welcome, make yourself home~" when Hirata later arrives); eats the omurice he cooks with obvious pleasure.
+[note] (p.70) She clings to his back as he cooks, teasingly telling him to just wait.
+[says] (p.80) "I love you…"
+[trait] (p.65–80) Playful and affectionate — clings to him while cooking, nuzzles and kisses him repeatedly (the kisses tasted of omurice), and says "I love you"; still sharp about class matters, she believes Kushida should have been expelled and struggles to accept Horikita's choice, but comes to partly accept Ayanokōji's explanation of Kushida's unique value.
+[rel:ayanokouji-kiyotaka] (p.65–80) His girlfriend — a tender evening together.
+[rel:shinohara] (p.72–74) Trying to repair her friendship with Shinohara, whom Kushida's leaks hurt.
+[rel:kushida-kikyou] (p.76–78) Thinks she should have been expelled; unconvinced by his argument that Kushida has a unique value.
+
+### y2v6 p.223–233 — Kei's birthday date; forgiving Ishizaki
+[scene] (p.223) On a date at Keyaki Mall, shopping for Ayanokōji's upcoming birthday (Oct 20, which she learns he shares with Ryūen); bent on buying him what he really wants despite his attempts to pick something cheap.
+[says] (p.224) "I'll buy what, you, want! Got it?"
+[says] (p.225) "There's nothing I'm hiding from you anymore. I've let you know anything and everything about me."
+[says] (p.225) "Kiyotaka, you hiding anything from me is a no-no too, you got that?"
+[says] (p.228) "You guys were beaten to a pulp by Kiyotaka, and since you lost you have no choice but to apologize."
+[says] (p.229) "Right now, you are Kiyotaka's friend, right? I won't forgive you but I will stop blaming you."
+[says] (p.233) "I could feel that Ishizaki-kun likes being your friend. Even Kiyotaka needs friends, you know."
+[trait] (p.223–233) Loving and generous — says she's told him "everything" about herself (unaware he's told her nothing true); runs into Ishizaki/Albert, accepts their apology for the rooftop bullying (after knowing Ayanokōji won), and even agrees to a joint birthday party with Ryūen — partly because she knows his group is in pieces and wants him to have friends.
+[rel:ayanokouji-kiyotaka] (p.223–233) His girlfriend — shopping for his birthday; she wants him to have friends.
+[rel:ishizaki-daichi] (p.226–233) She accepts his apology ("I won't forgive you but I will stop blaming you") — a genuine, if grudging, reconciliation.
+[rel:ryuuen-kakeru] (p.230) She won't accept the joint party unless Ryūen himself apologizes — a "pretense to refuse."
 ## y2v7
 
 <!-- walk: y2v7 → start -->

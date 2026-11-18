@@ -917,6 +917,15 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y2v6 Epilogue → p.346 -->
 
+### y2v6 p.44–47 — Kōenji: conditional trust, calculated freedom
+[says] (p.45) "You are a very lucky girl, it looks like."
+[says] (p.45) "I made a bit of money in the Uninhabited Island Test and the treasure hunt, but at this time I need quite some money to spend."
+[says] (p.46) "There's nothing the other classes have for me at this point that beats the agreement I have with you, Ms. Horikita."
+[says] (p.47) "I had it all figured out. If the turn of events would have led to me becoming a candidate for expulsion, I would've voted against the motion before that step."
+[says] (p.47) "I would never trust someone else with my life. Neither would you, isn't that so?"
+[trait] (p.44–47) Agrees to compete in the sports festival for the cash prizes, and confirms (for now) he won't change classes; reveals he never fully trusted Horikita — if he'd been nominated for expulsion he'd have voted himself against — and that his "trust" was conditional on self-preservation; Ayanokōji notes he's "carefree" yet deeply calculating — the one student he can never figure out.
+[rel:horikita-suzune] (p.45–47) Their agreement keeps him in class — for now; he'd have defended himself if needed.
+[rel:ayanokouji-kiyotaka] (p.47) He sees through his eavesdropping and they trade masked insights.
 ## y2v7
 
 <!-- walk: y2v7 → start -->

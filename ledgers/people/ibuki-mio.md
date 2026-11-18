@@ -1064,6 +1064,27 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v6 Epilogue → p.346 -->
 
+### y2v6 p.112–145 — Ibuki: the cryptic message; breaking into Kushida's room
+[scene] (p.112) Corners Ayanokōji at the dorm elevator, shoving her phone at him over a message he sent ("If you get expelled because of something that has nothing to do with me, naturally, it will count as a loss against me") — she spent a week trying to understand it.
+[says] (p.113) "Just how is this intelligent? No, forget it, just tell me what it means!"
+[says] (p.123) "I'm gonna force Kushida out of her room. This will be all or nothing."
+[says] (p.125) "I've never thought positively of you even once." — to Kushida
+[says] (p.145) "You guys gonna keep this up until you've ripped each other apart? You look fucking stupid so I'm going home."
+[trait] (p.112–145) Blunt and impatient — couldn't parse Ayanokōji's warning not to be manipulated into expulsion; chosen by Horikita to break the deadlock, she mashes Kushida's doorbell, forces the door open and curses her out (venting her own stress at Horikita); calls out the absurd cheek-pinching contest between Horikita and Kushida and leaves — Ayanokōji notes her "talent to annoy people" made the meeting possible.
+[rel:ayanokouji-kiyotaka] (p.112–113) He sent her a cryptic warning; she demands an explanation.
+[rel:horikita-suzune] (p.145) She helped her get into Kushida's room but has no patience for their antics.
+[rel:kushida-kikyou] (p.121–125) She berates her and forces her door open — "I've never thought positively of you."
+
+### y2v6 p.243–275 — Ibuki: the endless duel with Horikita
+[says] (p.243) "Come, Horikita! Fight me!!"
+[says] (p.243) "Huh?! What are you saying? You scared of losing to me? You are, aren't you?"
+[says] (p.248) "I did it!" / "Did you see? I won! You lose!!"
+[says] (p.269) "1 Win, 1 Loss! We haven't settled this yet!"
+[says] (p.271) "Then I'll participate too. At any rate, you won't be able to get five players."
+[says] (p.275) "Teaming up with you sucks, but this is a chance to beat that piece of shit brat of a first year!"
+[trait] (p.243–275) Obsessed with settling their rivalry — sprints up exhausted before the 100m, loses by the same narrow margin as last year, beats Horikita in the long jump by 2cm (5.81m), then misses the balance-beam registration (a default loss); badgers Horikita until she begs ("Pl…ease… fight… me!!"), then joins her volleyball team purely to crush Amasawa — her competitive fire and inability to let go are both endearing and exhausting.
+[rel:horikita-suzune] (p.243–275) Her rival — they're 1–1 after the long jump, and she refuses to let the score stand; Horikita notes she has no friends but agrees to team up.
+[rel:amasawa-ichika] (p.273–275) She wants to beat the "piece of shit brat" first-year — joins Horikita's volleyball team for that chance.
 ## y2v7
 
 <!-- walk: y2v7 → start -->

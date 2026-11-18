@@ -633,6 +633,25 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 
 <!-- walk: y2v6 Epilogue → p.346 -->
 
+### y2v6 p.162–176 — Haruka: a "temporary" return; still won't speak to Ayanokōji
+[scene] (p.168) Through Akito, Ayanokōji learns Haruka will return Monday — a "temporary return" arranged by Miyake; she still refuses to speak to him.
+[says] (p.176) "Kiyopon, do you have some time?" — Haruka approaching him in the hallway after school
+[trait] (p.168–176) Returns to school with Akito escorting her (she looks ready to flee), sits silently staring out the window, ignores Kushida's attempt to speak, and glances at Ayanokōji then quickly turns away — her feelings for him now mixed with the pain of Airi's expulsion; she approaches him after school with "forcefulness."
+[rel:ayanokouji-kiyotaka] (p.171, 176) Blames him for Airi's expulsion; refuses to talk at school, then approaches him in the hallway — a watershed moment.
+[rel:miyake-akito] (p.171) He accompanies her to her seat and stays by her side — the group's support keeps her coming.
+[rel:ishigami-kyou] (p.171) Keisei hesitates, then steels himself to call out to her — a small step toward repairing their friendship.
+[rel:kushida-kikyou] (p.175) She ignores Kushida's attempt to speak.
+
+### y2v6 p.327–330 — Epilogue: Haruka's "revenge" — a joke that isn't
+[scene] (p.327) After a week absent, Haruka is coming to school every day; meets Miyake at the entrance and punches his shoulder lightly; she only did the minimum five events at the festival (no results), and speaks to almost nobody except Miyake — she even quit archery (the club Miyake was in).
+[says] (p.328) "At first, I thought, 'let's destroy everything'. Not just Kiyopon, I thought it would be good to take revenge on all our classmates who threw away Airi."
+[says] (p.328) "I won't forgive Kiyopon. I won't forgive our classmates. But, to keep holding them back, to keep tormenting them forever, I thought that was wrong."
+[says] (p.328) "Say, Miyacchi. Will you—help me take revenge, just once?"
+[says] (p.328) "As if! It's just a joke, it's just a joke!"
+[trait] (p.327–330) Still bitter (won't forgive Ayanokōji or the class for Airi's expulsion, estranged from Keisei too), but choosing not to hold everyone back forever — she confesses her dark thoughts to Miyake, then asks him to "help me take revenge, just once," laughing it off as a joke when he hesitates; the "revenge" request mirrors the Prologue's mysterious invitation, and Miyake silently follows her as she walks away.
+[rel:miyake-akito] (p.327–330) The only person she still talks to — she quit archery (his club) and leans on him; he silently follows her.
+[rel:ayanokouji-kiyotaka] (p.328) She won't forgive him — her "revenge" is aimed at him and the class.
+[rel:ishigami-kyou] (p.327) She's slightly estranged from him too, since he agreed to Airi's expulsion.
 ## y2v7
 
 <!-- walk: y2v7 → start -->

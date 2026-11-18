@@ -154,3 +154,17 @@ char_id: asahina-nazuna · class: Class 2-A · status: supporting
 
 
 <!-- walk: y2v11 Epilogue → p.223 -->
+
+## y2v6
+
+<!-- walk: y2v6 → start -->
+
+### y2v6 p.155–161 — Mii-chan: persuaded to return to school
+[scene] (p.155) Visited by Ayanokōji while absent — a hardworking girl who's been receiving food deliveries (from Hirata) and genuinely wants to return, unlike Kushida/Haruka.
+[says] (p.157) "O-of course not! I really want to go to school right away."
+[says] (p.158) "not skipping is because I feel like it would be uncool to do so."
+[says] (p.161) "I—I will definitely go to school properly on Monday."
+[trait] (p.155–161) Ashamed of her absence (Kushida exposed her confession to Hirata) but eager to come back; with Ayanokōji's gentle reasoning (if she returns before Kushida/Haruka she'll be fine), she resolves to return Monday — and does.
+[rel:ayanokouji-kiyotaka] (p.155–161) He persuades her to return; she trusts his reasoning.
+[rel:hirata-yousuke] (p.160) He's been secretly delivering food and is far more worried about her than about Kushida/Haruka.
+[rel:kushida-kikyou] (p.173–174) On her return, Kushida bluntly says she doesn't intend to get along with her — leaving Mii-chan frozen.

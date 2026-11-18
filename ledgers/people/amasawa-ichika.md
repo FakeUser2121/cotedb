@@ -273,6 +273,14 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 
 <!-- walk: y2v6 Epilogue → p.346 -->
 
+### y2v6 p.339–341 — Short story: "The Truth is, I've Always…" — Amasawa checks his room
+[scene] (p.339) From her own POV, enters Ayanokōji's room (while he's sitting out) to check whether it's wiretapped — but her true goal is to see him.
+[narrates] (p.339) "They should just ignore me and enjoy their school life. I highly recommend it."
+[narrates] (p.340) "Drawn in by my underwear? How pervy." — teasing him while showing off
+[narrates] (p.340) "The truth is, I want to be by his side."
+[trait] (p.339–341) Playful, obsessive and possessive — tries to provoke him (showing her underwear, offering to expose the White Room students so they'll fight), but he never bites (he only reads her moves); she admits she wants to be by his side even as a "nuisance," but knows her school life may not last forever.
+[rel:ayanokouji-kiyotaka] (p.339–341) She idolizes him — wants to be close to him; he sees her as untrustworthy and won't take her information.
+[rel:yagami-takuya] (p.339) She wants to expose "Takuya" so he'll fight Ayanokōji.
 ## y2v7
 
 <!-- walk: y2v7 → start -->

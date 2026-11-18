@@ -1837,6 +1837,19 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y2v6 Epilogue → p.346 -->
 
+### y2v6 p.121–145, 172–175 — Kushida returns: a hostile alliance; the angel facade drops
+[scene] (p.121) Holed up in her room for five days; Ibuki forcibly opens the door and berates her, and Horikita comes to negotiate.
+[says] (p.141) "I get it. I, solely for my own sake, will fight for this class and contribute to it for the next year and half. I won't fight for you, nor our classmates."
+[says] (p.142) "I really hate you, Horikita-san."
+[says] (p.142) "I've been so annoyed ever since we met today, and even though we're now allies you're still annoying."
+[says] (p.173) "I heard from Horikita-san that you've been absent because of me."
+[says] (p.174) "It isn't as if you have to like me, Wang-san."
+[says] (p.174) "I don't intend to get along with you."
+[says] (p.175) "I'm not doing it for the class, I'm doing it for myself."
+[trait] (p.121–175) Returns to school changed — agrees to work for the class solely for her own sake, sealing a left-handed (animosity) handshake with Horikita and an absurd cheek-pinching fight; drops the "Kushida the Angel" mask in front of the class, bluntly tells Mii-chan she doesn't intend to get along, offers hollow apologies, and openly warns she'll use her "arsenal" of secrets and show "no mercy" if attacked — but promises not to expose more secrets as long as she's allowed to contribute and graduate Class A.
+[rel:horikita-suzune] (p.141–145) They form an openly hostile alliance — Kushida still really hates her but will work for the class.
+[rel:ibuki-mio] (p.121–125) Ibuki breaks into her room and curses her; Kushida emerges — "I've never thought positively of you."
+[rel:asahina-nazuna] (p.173–174) She tells Mii-chan she doesn't intend to get along with her — though she apologizes for exposing her secret.
 ## y2v7
 
 <!-- walk: y2v7 → start -->

@@ -84,6 +84,17 @@ char_id: onodera-kayano · status: minor
 
 <!-- walk: y2v6 Epilogue → p.346 -->
 
+### y2v6 p.342–344 — Short story: "That's What I Believe In" — Onodera's high-five (hug)
+[scene] (p.342) From her own POV, after the doubles victory over Hōsen, Sudō rushes at her — instead of a high-five he hugs her tightly in excitement; she's flustered but secretly delighted.
+[narrates] (p.343) "We did it! We did it!"
+[narrates] (p.343) "W-w-wha,, wha-wha!?"
+[narrates] (p.343) "I see, then we… are a pretty good combo, right?"
+[narrates] (p.344) "I hate losing and that lit the fighting spirit within me ablaze."
+[narrates] (p.344) "I'm, interested in Sudou-kun."
+[trait] (p.342–344) Competitive and athletic — turned an injury into victory against Hōsen through sheer tenacity (our beliefs and tenacity beat Hōsen's), and realizes she's interested in Sudō-kun — wants to catch up and show results, no matter how far ahead he is, the sportsmanship she believes in.
+[rel:sudou-ken] (p.342–344) Her doubles partner — he hugs her (then worries he hurt her); she's interested in him and wants to keep improving to match him.
+[rel:housen-kazuomi] (p.342) They beat him in doubles; he smashed his racket in frustration.
+[rel:horikita-suzune] (p.343–344) Sudō keeps looking for "Suzune" — Onodera teases him ("Hahaha, absolutely not").
 ## y2v7
 
 <!-- walk: y2v7 → start -->

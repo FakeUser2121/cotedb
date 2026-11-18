@@ -1336,6 +1336,14 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v6 Epilogue → p.346 -->
 
+### y2v6 p.336–338 — Short story: "Something That Can't be Forgiven" — Hoshinomiya notices
+[scene] (p.336) From her own POV, after advising Horikita to decide for herself what to do about Kushida, she heads back to the staff room; Hoshinomiya (Chie) runs up behind her, having overheard the "thanks" at the end.
+[narrates] (p.337) "Is that you, Chie? How are you going to set an example if even you are running full ahead?"
+[narrates] (p.337) "Why have you gotten closer to your students now?"
+[narrates] (p.338) "I won't acknowledge it. There is no way Sae-chan would ever act like a teacher."
+[trait] (p.336–338) Quietly pleased at having grown as a teacher, but Hoshinomiya refuses to acknowledge the change (her eyes "weren't laughing") — a bittersweet, familiar sparring between the two old classmates/rivals; Chabashira admits she "may have been" becoming a teacher.
+[rel:hoshinomiya-chie] (p.336–338) Her old friend and rival — needles her about acting like a teacher now.
+[rel:horikita-suzune] (p.336) She gave her counsel about Kushida; Hoshinomiya overheard the thanks.
 ## y2v7
 
 <!-- walk: y2v7 → start -->

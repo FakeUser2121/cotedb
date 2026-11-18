@@ -744,6 +744,30 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y2v6 Epilogue → p.346 -->
 
+### y2v6 p.226–232 — Ishizaki apologizes; proposes a double birthday party
+[scene] (p.226) Runs into Ayanokōji and Kei at Keyaki Mall while shopping with Albert for Ryūen's birthday (Oct 20); realizes his insensitivity about the rooftop bullying of Kei.
+[says] (p.226) "On a date with Karuizawa? You guys are even linking arms… such normies…"
+[says] (p.227) "I'm… sorry. I think I should have said it earlier… I, on the rooftop───"
+[says] (p.228) "I'm very sorry! And for not apologizing for all this time!"
+[says] (p.230) "This is fate, isn't it!?" — discovering Ayanokōji and Ryūen share a birthday
+[says] (p.230) "I have a suggestion – if it's okay with you, why don't we celebrate both their birthdays together?"
+[says] (p.232) "If Ryuuen says he will apologize, it's fine right?" — Kei's condition
+[trait] (p.226–232) Eager and good-natured — genuinely apologizes for his role in the rooftop bullying, and despite Kei's grudging response, proposes a joint birthday party (conditional on Ryūen apologizing, which is almost impossible); his "passion" reminds Ayanokōji that Ryūen is "evolving" (using good as well as evil), and that Ishizaki has matured — he might no longer blindly follow Ryūen.
+[rel:karuizawa-kei] (p.226–231) He apologizes; she accepts grudgingly, setting an impossible condition (Ryūen's apology) for the party.
+[rel:ayanokouji-kiyotaka] (p.229–232) Calls him "Kiyotaka" — they've grown friendlier; Ayanokōji accepts the idea partly for Kei's sake.
+[rel:ryuuen-kakeru] (p.226–232) Shopping for his birthday; proposes asking him to apologize — likely to get beaten for it.
+[rel:yamada-albert] (p.226–232) Together — Albert's hand on his shoulder stopped his insensitivity; they both feel sorry.
+
+### y2v6 p.258–266 — Ishizaki plays the victim; accepts the apology
+[scene] (p.258) Deliberately bumps shoulders with Class A's Shimizu, then immediately shouts "Watch where you're walking, asshole!"
+[says] (p.259) "Fuck, that hurt…! Watch where you're walking, asshole!"
+[says] (p.260) "You lot were lost in talking to each other and weren't paying attention!"
+[says] (p.260) "I was so worked up I didn't even notice, but… I reckon I might've gotten hurt just now"
+[says] (p.263) "Right!" — defending his "hard work" to Hashimoto
+[says] (p.266) "I'm sorry, Ryuuen-san. You gave me all sorts of advice"
+[trait] (p.258–266) Follows Ryūen's script — fakes injury, demands an apology, refuses to accept the first grudging one, then magnanimously forgives them just as a teacher arrives; Ryūen praises his growth (he dedicated himself fully for the festival) — he's matured into a capable, if unscrupulous, operative.
+[rel:ryuuen-kakeru] (p.260–266) His leader — they run the trap together; he defers to Ryūen's final call.
+[rel:hashimoto-masayoshi] (p.262–265) Hashimoto tries to reason with him; he holds out until the "apology."
 ## y2v7
 
 <!-- walk: y2v7 → start -->

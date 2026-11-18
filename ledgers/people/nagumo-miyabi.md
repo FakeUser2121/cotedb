@@ -615,6 +615,26 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y2v6 Epilogue → p.346 -->
 
+### y2v6 p.50–57 — Nagumo's challenge; lunch with Ichinose
+[says] (p.50) "Yo, Ayanokouji. Anything unusual happen in your daily life lately?"
+[says] (p.51) "As the student council president, you can talk to me about those worries, you know?"
+[says] (p.51) "You've already heard the rules for the Sports Festival, right? It means the time when we can settle our score has come, Ayanokouji."
+[says] (p.52) "if you beat me in even one head-to-head match during this sports festival, everything that's happened between us will be water under the bridge."
+[says] (p.52) "You'll participate in all five competitions I specify."
+[says] (p.53) "Well, that's all you can say for now. I'll give you one week."
+[says] (p.54) "Lately, I've been having lunch together with Honami in the student council room every day."
+[trait] (p.50–58) Arrogant and calculating — sees through Ayanokōji's feigned modesty, demands five head-to-head sports events (one loss = truce) to force a direct defeat, and stages a humiliating lunch with Ichinose (whom he's been meeting daily) to display his control; he controls the entire third year, and his attachment to Ichinose (possibly because of Ayanokōji) may end with her if she fails.
+[rel:ayanokouji-kiyotaka] (p.50–58) His obsession — wants a direct defeat; Ayanokōji sees through his strategy.
+[rel:ichinose-honami] (p.53–57) Eats lunch with her daily and confides; Ayanokōji wonders if his attachment is real or a ploy.
+
+### y2v6 p.241–257 — Nagumo: five wins, no joy, and Ayanokōji's absence
+[scene] (p.241) Delivers the opening speech boldly before the guests (political figures tied to the school), "in no way inferior" to Horikita Manabu's example.
+[says] (p.252) "Don't make me laugh. As if winning a competition of that level would mean anything to me."
+[says] (p.253) "Don't worry, Kiryuuin. You don't need to tell me; I'm not going to play around with Ayanokouji anymore. He chose not to fight me."
+[note] (p.250–257) Wins five consecutive events but stays expressionless (he's guaranteed Class A regardless); Kiryūin needles him that he could have gathered all the weaklings for easy wins and that Ayanokōji "ran away" from their fight; at lunch he tells Horikita that Ayanokōji bailing on him means someone else will pay the price, hinting at trouble for her grade.
+[rel:ayanokouji-kiyotaka] (p.252–257) He wanted a direct fight ("quench my thirst"); Ayanokōji's absence frustrates him.
+[rel:kiryuin-fuuka] (p.251–253) His fellow third-year — she provokes him; they've spoken more in the six months since Ayanokōji's involvement than in two years.
+[rel:horikita-suzune] (p.255–257) He invites her to lunch and presses about Ayanokōji.
 ## y2v7
 
 <!-- walk: y2v7 → start -->

@@ -1828,6 +1828,19 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y2v6 Epilogue → p.346 -->
 
+### y2v6 p.80–89 — Hirata seeks guidance; confesses his guilt over Airi
+[scene] (p.80) Visits Ayanokōji's room after club activities; Kei is already there (he's glad to see her genuine and cheerful).
+[says] (p.81) "it's about the class. As we are right now, going into the Sports Festival would be dangerous."
+[says] (p.81) "I was just talking to Kiyotaka about Shinohara-san. Honestly, I'm not even thinking about the competition right now."
+[says] (p.82) "Kiyotaka-kun would be able to see the big picture, and make the right call. That's what I thought."
+[says] (p.86) "I still remember… how my hands felt at that moment." (of pressing "Support" to expel Airi)
+[says] (p.88) "Have I become stronger, or has my sense of self broken down? I'm scared…"
+[says] (p.89) "For just that, yes. But I believe in you." / "… No. I want to believe in you."
+[trait] (p.80–89) The class's conscience — worries the fractured class can't compete, wants to repair Shinohara/Kei and Mii-chan's feelings; initially resists Ayanokōji's redirect to Horikita, admitting he relies on Ayanokōji's "big picture" judgment; openly confesses the trauma of having voted to expel Airi (his hands remember pressing "Support"), and asks whether he's grown stronger or broken — finally choosing to "want to believe in" Ayanokōji.
+[rel:ayanokouji-kiyotaka] (p.80–89) Seeks his help and guidance; his "I want to believe in you" is a firm request not to be betrayed.
+[rel:karuizawa-kei] (p.80) Glad to see her happy; they've both asked Ayanokōji for help.
+[rel:asahina-nazuna] (p.85–86) Ayanokōji proposes he accept Mii-chan's feelings; he declines (would only hurt her later).
+[rel:sakura-airi] (p.86–88) Deeply guilty about her expulsion — he pressed the Support button.
 ## y2v7
 
 <!-- walk: y2v7 → start -->

@@ -8398,6 +8398,192 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v6 Epilogue → p.346 -->
 
+### y2v6 p.15–19 — Aftermath analysis: why he supported Horikita's "wrong" choice
+[scene] (p.15) Monday, September 20 — reflects on the two causes of the class's fracture: Kushida's explosive revelations and the broken promise to expel only the "traitor."
+[trait] (p.15–19) Logically, expelling Kushida was the only correct choice; Horikita's decision to keep her was "impossible, irrational and wrong," and he'd never have made it before this school — yet he supported it because he wants to "watch [Horikita's] growth," see "the chemical reaction" of leaving Kushida in the class, and find out if it leads to Class A, destruction, or something unexpected; regards the resulting pain as a "necessary and unavoidable cost" and chance to grow.
+[rel:horikita-suzune] (p.15–19) He backed her "illogical mistake" to observe where it leads — a new kind of investment in her.
+[rel:kushida-kikyou] (p.15–17) The "ball of trust" he broke; her mask collapsed, making her a cracked but still potentially useful resource.
+
+### y2v6 p.20–24 — Morning: Horikita waiting for Kushida; checking on the group
+[scene] (p.20) Leaves his room, sees Horikita waiting in the lobby — she's been waiting by Kushida's door since dawn (dark circles under her eyes) but Kushida won't leave her room.
+[says] (p.20) "Are you waiting for Kushida?"
+[says] (p.20) "Looks like you saw through me. Yes. Over the weekend, I went to her room many times, but…"
+[says] (p.22) "I had some contact with Keisei and Akito, but that's about it."
+[says] (p.23) "You don't need to apologize again for the same thing. If you thought that was the right thing to do, I'm fine with that."
+[trait] (p.20–24) Notes the group is fractured — Haruka has blocked/ignored his messages, Keisei and Akito talk but avoid the topic of Airi; decides to watch from a distance rather than force contact; pities Horikita's sleepless vigil but understands she must "follow up" on her choice; notes her lingering "what if" (wishing the clock had run out rather than expel anyone) — thoughts she suppresses as "cowardly."
+[rel:horikita-suzune] (p.20–24) Both apologizing and checking in; she regrets forcing him to take the blame for Airi's expulsion.
+[rel:kushida-kikyou] (p.20–21) Holed up in her room out of humiliation, refusing to see Horikita.
+[rel:hasebe-haruka] (p.22) Hasn't replied to any messages — he hasn't had the "courage" to contact her.
+[rel:sakura-airi] (p.20) Her name is already gone from the OAA — "as if such a student had never existed."
+
+### y2v6 p.35–47 — Sports festival rules; Horikita's apology; Kōenji's deal
+[scene] (p.35) Chabashira explains the sports festival rules ("Ability" based, with Class Change Tickets and 2 million points for first place); Sudō and Ike are excited, but part of the class is cold toward Horikita's leadership.
+[trait] (p.35–47) Watches as Horikita publicly apologizes for breaking her promise (keeping Kushida), and as Shinohara challenges her — Horikita holds firm, arguing past contributions can't be erased and offering to "take responsibility" if Kushida can't be brought back; sees Kōenji agree to compete (for the cash prizes) and confirm he won't change classes yet — but learns he never fully trusted Horikita ("I would never trust someone else with my life. Neither would you").
+[rel:horikita-suzune] (p.41–47) Her public apology and iron will; Kōenji's deal with her.
+[rel:shinohara] (p.41–43) Challenges Horikita over keeping Kushida — one of the people hurt by her revelations.
+[rel:hirata-yousuke] (p.43) Requests the class keep Kushida's secret internal.
+[rel:matsushita-chiaki] (p.44) Points out leaking the secret would only give a "temporary sense of victory."
+[rel:kouenji-rokusuke] (p.44–47) Agrees to compete for money; calmly reveals he'd have voted against his own expulsion — his "trust" in Horikita was conditional; Ayanokōji admits he can never fully analyze him.
+
+### y2v6 p.48–58 — Nagumo summons him; the lunch with Ichinose
+[scene] (p.48) Horikita relays a student-council summons from Yagami (on Nagumo's behalf); Kei tries to intercept but relents ("if it's the student council president").
+[says] (p.50) "Not much has changed. Or so I would like to say, but well, I do have a few worries."
+[says] (p.51) "If you beat me in even one head-to-head match during this sports festival, everything that's happened between us will be water under the bridge."
+[says] (p.52) "You'll participate in all five competitions I specify."
+[says] (p.52) "I also have to consider my class's plan. Could you give me some time?"
+[trait] (p.48–58) Plays humble with Nagumo (knowing it won't satisfy him); accepts the challenge framework — one win in five specified events to end the harassment, with one week to decide; then endures a three-way lunch with Nagumo and Ichinose (Nagumo eating with her daily), silently eating as they talk, and reads Nagumo's strategy: he wants a direct defeat and is using Ichinose to humiliate him; speculates Nagumo may cut Ichinose off if she fails to become president.
+[rel:nagumo-miyabi] (p.50–58) Challenges him to five head-to-head events (one win = truce); he sees through Ayanokōji's feigned distress.
+[rel:ichinose-honami] (p.53–57) Now has lunch with Nagumo daily; downcast and avoiding his eyes; he wonders if her attachment to Nagumo is real or a strategy.
+[rel:karuizawa-kei] (p.48–49) Kei possessively blocks Horikita's invitation, then quickly switches to Satou when she hears it's the student council president.
+[rel:horikita-suzune] (p.48–50) The messenger — Ayanokōji notes she only has Yagami's contact info, not Nagumo's.
+
+### y2v6 p.65–80 — Cooking for Kei; a quiet evening together
+[scene] (p.67) Invites Kei to his room at 7:30 p.m.; she arrives grinning, and he cooks omurice (a dish she likes) while she clings to his back.
+[says] (p.72) "Oh, by the waaay, it's about Shinohara-san, but…"
+[says] (p.76) "Do you know what Kushida has that Airi doesn't?"
+[says] (p.77) "A perspective that only Kushida has. Thoughts that only Kushida has. Statements that only Kushida can make."
+[trait] (p.65–80) Tender and attentive — cooks for Kei (something she's never done herself), endures her playful clinging, and kisses her repeatedly after the meal; explains to Kei why keeping Kushida (not Airi) made sense: Kushida offers a unique perspective, thoughts and statements that only Kushida has that can support Horikita in a way Airi couldn't; Kei remains unconvinced but accepts it.
+[rel:karuizawa-kei] (p.65–80) His girlfriend — they share an intimate evening; she calls him out on his "perfect answer" habit.
+[rel:shinohara] (p.72–74) Kei is trying to repair her friendship with Shinohara (hurt by Kushida's leaked remarks).
+[rel:kushida-kikyou] (p.76–78) He argues her unique perspective justifies keeping her; Kei feels she should have been expelled.
+
+### y2v6 p.80–89 — Hirata's visit: leader development; Mii-chan; his guilt
+[scene] (p.80) Hirata arrives at the room (still in uniform from club activities); Kei treats the place as her own, making Hirata smile.
+[says] (p.82) "Then, moving forward I want you to take these conversations not to me, but to Horikita, the leader of the class."
+[says] (p.83) "It will be a burden on her. I'm not sure if she'll come up with a solution. So I can't rely on her, won't rely on her. If you do that, do you think Horikita will ever become a true leader?"
+[says] (p.85) "you should meet Mii-chan and accept her feelings, Yousuke."
+[says] (p.88) "I wonder… would it have been better to choose to let the time run out…" — Hirata
+[trait] (p.80–89) Deliberately pushes Hirata and Kei to take their problems to Horikita first (so she gains experience as a leader), promising to back them up on anything she can't fix; suggests the "crude" solution for Mii-chan (Hirata accepting her feelings, as he did with Kei's fake relationship); realizes Hirata is suffering just as much from Airi's expulsion, and reassures him.
+[rel:hirata-yousuke] (p.80–89) Comes for advice; he pushes him toward Horikita and helps him work through his guilt — Hirata says he wants to believe in Ayanokōji, not just does.
+[rel:karuizawa-kei] (p.82–84) She also relies on Ayanokōji; he redirects her to Horikita.
+[rel:horikita-suzune] (p.82–83) He wants her to be relied on so she can grow into a true leader.
+[rel:asahina-nazuna] (p.85–86) Mii-chan is absent from school after confessing to Hirata; he proposes Hirata accept her (crude but effective).
+
+### y2v6 p.90–97 — Sudō's toilet talk; Onodera's doubles proposal
+[scene] (p.90) Sudō invites him to the toilet as an excuse to talk; Onodera intercepts, wanting to speak to Sudō about the sports festival.
+[says] (p.91) "The individual rewards for this year's sports festival are separated by gender, right?"
+[says] (p.93) "If you and I worked together, Sudou-kun, there'd be nothing to be worried about."
+[says] (p.94) "It ain't that. As if I could complain about your abilities, Onodera." — Sudō
+[trait] (p.90–97) Facilitates without giving direct answers — lets Onodera propose pairing with Sudō for doubles events (both aiming for first in their gender); observes Sudō's reluctance (wanting to pair with Horikita) and notes pairing with Onodera is better (no distracting feelings); advises Sudō on the Shinohara/Ike issue (they need to "lay their feelings bare" with a mediator present), leading him to realize Hirata is the right person.
+[rel:sudou-ken] (p.90–97) Confides in him about Shinohara/Ike and accepts his advice to ask Hirata to mediate.
+[rel:onodera-kayano] (p.90–95) Proposes a doubles pairing with Sudō — she distrusts Ayanokōji (from the expulsion) but trusts Sudō's ability.
+[rel:ike-kanji] (p.95–96) His relationship with Shinohara is awkward after Kushida's leaks.
+
+### y2v6 p.98–100 — Gym scouting: Class A's serious practice
+[scene] (p.98) Scouts the gym with Hirata; Class A is practicing intensely (volleyball/table tennis), aware they're at a disadvantage in a pure sports contest and following Sakayanagi's instructions to raise their baseline.
+[trait] (p.98–100) Notes his own class hasn't shown up at all (still reeling from the exam), and that Class A is "serious" because a sports-based contest isn't their forte; observes Sakayanagi's strategy forming.
+[rel:sakayanagi-arisu] (p.99) Class A's practice is almost certainly following her instructions.
+[rel:ichinose-honami] (p.99) Her class and Ryūen's are still "fumbling about" in comparison.
+[rel:hirata-yousuke] (p.98) Scouts the competition with him.
+
+### y2v6 p.101–111 — Horikita's resolve; Chabashira's counsel (from Horikita's POV)
+[note] (p.101–111) This opening section is Horikita's POV — recorded on her own page. On Friday (five days of absences), she asks Chabashira about the three missing students; learns their good records earn them a reprieve, but if they remain absent next week the 100 class points will vanish; confides her doubt about whether expelling Airi was right.
+[trait] (p.101–111) Chabashira (changed since the exam) gently advises her: she did well to reach an answer at all, breaking a promise is sometimes necessary for adults, and she must "protect that choice you made"; notes Ayanokōji is likely observing to see how she handles it and considers him "more outstanding than the OAA can evaluate" (still calling him "defective").
+
+### y2v6 p.112–117 — Ibuki confronts Ayanokōji; the plan to get Kushida out
+[scene] (p.112) Ibuki corner him at the dorm elevator, shoving her phone in his face — a message he sent her ("If you get expelled because of something that has nothing to do with me, naturally, it will count as a loss against me. You wouldn't be such an idiot, right?") which she spent a week trying to understand.
+[says] (p.113) "'If you get expelled because of something that has nothing to do with me, naturally, it will count as a loss against me. You wouldn't be such an idiot, right?'" — Ibuki reading
+[says] (p.117) "I'm about to go meet Kushida-san." — Horikita, arriving
+[trait] (p.112–117) Amused by Ibuki's slowness (her message was straightforward advice not to be manipulated into expulsion); when Horikita arrives, realizes she's chosen Ibuki to help force Kushida out — someone outside the group who knows her secret and has no qualms.
+[rel:ibuki-mio] (p.112–113) He sent her a message warning her not to let herself be used/expelled; she couldn't parse it.
+[rel:horikita-suzune] (p.117) She's about to meet Kushida — he suspects why she brought Ibuki.
+
+### y2v6 p.118–145 — The Kushida intervention: Ibuki breaks the door; the left-handed "alliance"
+[scene] (p.121–124) At Kushida's room, Ibuki mashes the doorbell for ten seconds, then forces the door open (slipping her foot in) and berates Kushida — venting her own pent-up stress at Horikita, not actually trying to save her; Kushida emerges in casual clothes.
+[says] (p.123) "I'm gonna force Kushida out of her room. This will be all or nothing." — Ibuki
+[says] (p.125) "I've never thought positively of you even once." — Ibuki to Kushida
+[inference] (p.126–141) Watches Horikita negotiate — she argues Kushida's continued absence only hurts herself (her "revenge" would fail if she's the one expelled), explains her plan to use Kushida as a "weapon" (capable in academics/sports, gather intel from other classes while keeping up her facade), and promises to commit to her until graduation; Kushida finally agrees to fight for the class and contribute to it for the next year and a half — solely for her own sake.
+[trait] (p.118–145) Deliberately stays in the background, letting Horikita handle it, and notes the "left-handed handshake signifies animosity" (they both remember their previous handshake); watches the two women get into a ridiculous cheek-pinching contest until Ibuki leaves in disgust — "She sure has the talent to annoy people," but he admits Ibuki made the meeting possible.
+[rel:ibuki-mio] (p.121–145) Forcefully opens Kushida's door, curses her out; her "talent to annoy" breaks the stalemate.
+[rel:horikita-suzune] (p.126–145) She negotiates Kushida's return alone, growing into her role.
+[rel:kushida-kikyou] (p.141–145) Agrees to return for her own sake (not the class); seals an "animosity" alliance with a left-handed handshake.
+
+### y2v6 p.155–161 — Visiting Mii-chan
+[scene] (p.155) Visits Mii-chan (Wang-san), who's been absent — a genuinely hardworking girl trying to get back on her feet, unlike Kushida/Haruka; someone's been delivering food to her (Hirata).
+[says] (p.158) "not skipping is because I feel like it would be uncool to do so."
+[says] (p.159) "You can just come to school, a nonchalant look on your face."
+[says] (p.161) "I—I will definitely go to school properly on Monday."
+[trait] (p.155–161) Gently reasons with Mii-chan — she can't hide forever, especially with Kushida and Haruka also absent; if she returns and they don't, she'll actually be fine; cites Ike's worry. Mii-chan resolves to return Monday.
+[rel:asahina-nazuna] (p.155–161) He persuades her to return to school; she's been secretly supported by Hirata.
+
+### y2v6 p.162–170 — Haruka's return; the group permanently fractures
+[scene] (p.162) Notes increased security at school (phones collected); receives word via Akito that Haruka will return Monday — "a temporary return," since she still won't talk to Ayanokōji.
+[says] (p.168) "Haruka will be coming to school from Monday next week." — Akito's message
+[says] (p.168) "Could you quietly watch over Haruka for a while?" — Akito
+[trait] (p.162–170) Agrees to "quietly watch over" Haruka from a distance rather than force contact; receives messages indirectly (from Mii-chan, from Haruka via Akito) — the group hasn't met once since the exam.
+[rel:hasebe-haruka] (p.168–170) Will return but refuses to speak to him; he watches over her from afar.
+[rel:miyake-akito] (p.168–169) Relays Haruka's messages and asks him to watch over her.
+
+### y2v6 p.171–176 — The three return; Kushida's new aggressive facade
+[scene] (p.171) Monday: Mii-chan and Haruka return first (with friends supporting them); Haruka glances at Ayanokōji then turns away. Horikita enters alone (stiff) — her attempt to bring Kushida failed — but Kushida arrives just before the bell.
+[says] (p.173) "I heard from Horikita-san that you've been absent because of me." — Kushida to Mii-chan
+[says] (p.174) "I don't intend to get along with you." — Kushida
+[says] (p.174) "Who knows? At the very least, this is who I really am." — Kushida
+[says] (p.175) "if anybody comes at me with hostility, I won't show any mercy" / "I'm not doing it for the class, I'm doing it for myself."
+[trait] (p.171–176) Watches Kushida drop the "Kushida the Angel" facade — she bluntly tells Mii-chan she doesn't intend to get along, apologizes to Shinohara/Matsushita (mostly out of obligation), and openly threatens the class with her arsenal of secrets if crossed, while promising to contribute for her own sake (to graduate Class A); the class regards her "as if she was a tumor"; Chabashira covers for them ("I'm keeping watch").
+[rel:kushida-kikyou] (p.173–175) Returns changed — the mask gone, openly aggressive and self-serving; no longer "Kushida the Angel."
+[rel:chabashira-sae] (p.173) Messages him "I'm keeping watch" — quietly protecting the class's internal affairs.
+[rel:horikita-suzune] (p.171) Enters alone/stiff — her attempt to bring Kushida failed; Kushida beat her to it.
+[rel:hasebe-haruka] (p.171, 176) Returns but still won't speak to him; the group hasn't met at all.
+
+### y2v6 p.194–212 — The karaoke negotiation: Horikita–Ryūen alliance
+[scene] (p.194) Waits with Horikita in a karaoke parlor (their "weird back and forth" of studying while waiting); Ryūen and Katsuragi arrive 25 minutes late.
+[trait] (p.194–212) Deliberately stays in the background ("leave it to Horikita to drive it through the end"); watches her negotiate with Ryūen and Katsuragi — she proposes a cooperative alliance to take down Sakayanagi's Class A, refuses concessions, calls Ryūen the most untrustworthy person yet chooses his class by "process of elimination," and bluffs; sees she's grown (finding out about him even as she uses him).
+[rel:horikita-suzune] (p.194–212) She insisted he just "be present"; he witnesses her growth into a shrewd negotiator.
+[rel:ryuuen-kakeru] (p.206–211) Tests him by seemingly throwing orange juice at him; he dodges (Ryūen: "Ayanokouji is Suzune's Lethal Weapon"); Ryūen demands he leave, Horikita refuses.
+
+### y2v6 p.215–218 — His offer: neutralize Sakayanagi; a "siege on Class A"
+[says] (p.215) "If whether or not Sakayanagi participates is threatening our cooperation, then I may be able to be of help."
+[says] (p.215) "If you leave everything to me, I'll make sure Sakayanagi doesn't participate."
+[says] (p.216) "in exchange for making Sakayanagi not participate, I don't want you to expect even a single point from me at the Sports Festival."
+[says] (p.217) "After I crush Sakayanagi, you're next." — Ryūen
+[trait] (p.215–218) Offers to keep Sakayanagi out of the festival in exchange for scoring no points himself — a strategy only he can execute; also proposes a "different matter" (a siege on Class A with Ryūen's class members), which Ryūen initially rejects out of personal spite but Katsuragi and Horikita accept.
+[rel:sakayanagi-arisu] (p.215–218) He has a strategy to seal her non-participation that none of the others can execute.
+[rel:ryuuen-kakeru] (p.217) He accepts his siege proposal after Katsuragi's urging — "after I crush Sakayanagi, you're next."
+
+### y2v6 p.223–233 — Kei's birthday shopping; Ishizaki's apology; the double-birthday proposal
+[scene] (p.223) On a date at Keyaki Mall with Kei, shopping for his birthday (Oct 20) — he carefully picks something that won't burden her wallet (she sees through him).
+[says] (p.225) "Kiyotaka, you hiding anything from me is a no-no too, you got that?"
+[says] (p.228) "You guys were beaten to a pulp by Kiyotaka, and since you lost you have no choice but to apologize." — Kei
+[says] (p.229) "I won't forgive you but I will stop blaming you." — Kei to Ishizaki
+[trait] (p.223–233) Notes he's told Kei nothing true about himself (family, White Room, his goals); runs into Ishizaki/Albert buying Ryūen a birthday gift (also Oct 20); accepts Kei's grudging forgiveness of Ishizaki and her idea to hold a joint birthday party, moved that she wants him to have friends (his group is in pieces) — though he takes Ishizaki's "double birthday party" proposal "with a grain of salt."
+[rel:karuizawa-kei] (p.223–233) His girlfriend — shopping for his birthday; she accepts Ishizaki's apology partly to give him friends.
+[rel:ishizaki-daichi] (p.226–233) He and Albert apologize for the rooftop bullying; they discover Ayanokōji and Ryūen share a birthday — Ishizaki proposes a double party (conditional on Ryūen apologizing).
+[rel:ryuuen-kakeru] (p.230) Shares his October 20 birthday; Ryūen's evolution (using good as well as evil) noted.
+
+### y2v6 p.234–240 — Satou is approached; Ayanokōji's "sitting out" plan
+[scene] (p.238) The day before the festival, calls Horikita — says he plans to sit out the festival, essential to his "attack on Sakayanagi."
+[says] (p.238) "Sakayanagi-san is set on participating in the Sports Festival tomorrow, you know?" — Horikita
+[says] (p.238) "I'm thinking of sitting out the Sports Festival tomorrow."
+[says] (p.239) "this is my strategy, it's essential."
+[trait] (p.238–240) Keeps his "attack on Sakayanagi" vague; knows his sitting out is connected to sealing her participation — but Sakayanagi has already decided to participate, so his plan must adapt.
+[rel:horikita-suzune] (p.238–240) She's thrown by his announcement (dropping the hair dryer); he won't explain yet.
+[rel:satou-maya] (p.234–237) Off-page — a first-year approaches her (in Satou's POV), saying "if Karuizawa-senpai were expelled, don't you think you'd have a chance" — a plot against Kei; Ayanokōji doesn't yet know.
+
+### y2v6 p.302–317 — Sakayanagi visits; the "special lesson"
+[scene] (p.302) Sitting out the festival in his room; he predicted Sakayanagi would come (having had Director Sakayanagi tell her he was "sick" to draw her in), and she arrives with mont blancs.
+[says] (p.304) "You really are a terrible person, Ayanokouji-kun. This was part of your strategy, wasn't it?"
+[says] (p.313) "Observation.' I decided that it was a good opportunity for me to determine how well the other students would be able to fight when I don't directly participate in the Sports Festival."
+[says] (p.316) "A secret for a secret, and a threat for a threat."
+[says] (p.317) "Let's begin a special lesson, shall we?"
+[trait] (p.302–317) Calmly explains his true aim — he wanted to *observe* how the class fights without him (Sakayanagi's non-participation a "side effect"); reveals he wanted to prove "the White Room is by no means perfect" by building the strongest class with his own hands; then corners Sakayanagi (physically overpowering her, taking a photo) to bind her to secrecy about his plan — registering her with a "special lesson."
+[rel:sakayanagi-arisu] (p.302–317) She sees through his trap, accepts the "lesson" with complicated feelings, and vows to use him in return; they share a secret.
+[rel:tsukishiro] — see note
+[note] (p.302) Director Sakayanagi (the school director, Sakayanagi Arisu's father) arranged his sick leave at his request — part of the trap.
+
+### y2v6 p.320–322 — The mysterious voice at the door
+[scene] (p.320) At ~12:30, a boy's voice speaks through the door — someone he recognizes by voice but can't place (he heard it once after his father visited the school); the visitor warns him not to labor under the "misapprehension" that eliminating the White Room student will bring peace after Tsukishiro is gone.
+[says] (p.320) "Remain as you are and listen to me."
+[says] (p.321) "After eliminating Tsukishiro, peace will return if you eliminate the White Room student."
+[says] (p.321) "Your existence is a bad influence. I want to prevent anything more from happening, that's it."
+[trait] (p.320–322) Doesn't open the door, listens; Sakayanagi notes she recognizes the voice from "five, maybe ten years ago" — meaning he's likely not a White Room student; Ayanokōji decides not to pursue it since no harm has been done.
+[rel:sakayanagi-arisu] (p.321) She's with him and recognizes the voice too.
+[note] (p.321) The visitor is unnamed — a neutral figure, neither enemy nor ally; no roster id assigned (§7).
+
+### y2v6 p.323–326 — Results; Horikita's resolve; his hidden plan
+[scene] (p.323) Days later: rankings — Horikita 1st, Ryūen 2nd, Ichinose 3rd, Sakayanagi 4th; Sudō/Onodera first in individual rankings (both chose private points over class-change tickets); Kōenji won 10 events but placed 2nd overall.
+[trait] (p.324–326) Walks back with Horikita after she calls him; listens as she reaffirms her choice to keep Kushida (a a good shortcut, but a risky promise) and declares she'll move forward with the class's support, calling him "absolutely essential"; privately reflects he's like "training wheels" — he intends to leave her class once she's grown, and secretly hopes for a future where his victory isn't certain ("I hope I am wrong").
+[rel:horikita-suzune] (p.324–326) She's grown, reaffirmed her choice, and grown dependent on him; he plans to leave once she no longer needs him.
 ## y2v7
 
 <!-- walk: y2v7 → start -->

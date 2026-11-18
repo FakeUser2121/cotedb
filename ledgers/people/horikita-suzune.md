@@ -4332,6 +4332,100 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v6 Epilogue → p.346 -->
 
+### y2v6 p.20–24, 41–47 — Horikita: owning her choice; defending Kushida
+[says] (p.23) "Because I forced us to keep Kushida-san, your group's relationship was changed."
+[says] (p.41) "During the special exam last week, I broke my promise to everyone and forced my choice to prevent Kushida-san from getting expelled. I would like to apologize for that."
+[says] (p.42) "You can't know the answer to that question right now."
+[says] (p.44) "I will bring her back. If I can't… I'll take responsibility for it in any way possible."
+[says] (p.45) "I wanted to confirm something with you about the Sports Festival."
+[says] (p.46) "As of now, you're safe."
+[trait] (p.20–47) Accepts the heavy responsibility of keeping Kushida — waits by her door from dawn, apologizes to the class, and when Shinohara challenges her, holds firm: Kushida's past contributions can't be erased, and if she can't bring her back, she'll take responsibility in any way possible; also secures Kōenji's participation for the sports festival.
+[rel:ayanokouji-kiyotaka] (p.23–24) Apologizes for the burden; he tells her not to apologize again.
+[rel:kushida-kikyou] (p.20–21, 44) She's been trying to counsel the holed-up Kushida; vows to bring her back or take responsibility.
+[rel:shinohara] (p.41–43) She challenges her over keeping Kushida; Horikita argues past contributions matter.
+[rel:kouenji-rokusuke] (p.45–46) Confirms his participation, warns him about changing classes.
+
+### y2v6 p.101–111 — Horikita's doubt; Chabashira's counsel
+[scene] (p.101) From her own POV, five days of the three absences; shoulders the student council, studies and sports-festival prep, but refuses to seek Ayanokōji's help — this she must solve herself.
+[says] (p.104) "We gained class points by forcing Sakura-san to drop out. Was it really the right thing to do?"
+[says] (p.104) "At the time, I believed it was the right decision. But… honestly, I'm wavering now."
+[says] (p.105) "Even so—I think I might have lost sight of my surroundings."
+[says] (p.108) "You've changed, haven't you, Chabashira-sensei?"
+[says] (p.111) "Thank you very much. Thanks to you, I have found my resolve."
+[trait] (p.101–111) Doubts her choice but is strengthened by Chabashira's gentle advice (she did well to decide at all; must "protect that choice you made"); learns the three students' clean records buy them a reprieve until next week; notices Chabashira behaves "like a teacher" now; resolves to bring the three back herself.
+[rel:chabashira-sae] (p.102–111) Gives her heartfelt counsel, sees through her mental state; Horikita is baffled by the "new" teacher.
+[rel:ayanokouji-kiyotaka] (p.101, 108) She deliberately avoids asking him for help; Chabashira suggests he's observing her and thinks highly of her.
+
+### y2v6 p.117–145 — Horikita negotiates with Kushida
+[says] (p.131) "You're really an idiot as well, Horikita-san."
+[says] (p.135) "I will hear you out, at least. Tell me what you're planning, Horikita-san."
+[says] (p.141) "I, solely for my own sake, will fight for this class and contribute to it for the next year and half."
+[says] (p.145) "Come to school on Monday."
+[trait] (p.117–145) Goes to Kushida's room (Ibuki having forced the door) and negotiates for hours — points out Kushida's absence only hurts herself, lays out a plan to use her as a "weapon" (academics/sports, intel from other classes), promises to commit to her; the two seal an animosity-filled alliance (a left-handed handshake) and an absurd cheek-pinching fight; Kushida agrees to return Monday.
+[rel:kushida-kikyou] (p.126–145) She reaches an agreement with her — Kushida will work "for her own sake," staying for the class; their "alliance" is openly hostile.
+[rel:ibuki-mio] (p.121–145) Ibuki got her into the room and waited by the elevator afterward (Kushida "has the talent to annoy people").
+
+### y2v6 p.171–176 — Monday: Kushida returns
+[scene] (p.171) Enters the class alone, stiff — her attempt to bring Kushida with her failed; takes her seat staring at the board. Kushida arrives just before homeroom anyway.
+[trait] (p.171–176) Watches Kushida drop the "angel" facade and openly address the class; her own attempt to escort her back failed but Kushida came alone — a small validation of their talk.
+[rel:kushida-kikyou] (p.171) She came back on her own terms.
+
+### y2v6 p.194–212 — Horikita negotiates the alliance with Ryūen
+[says] (p.199) "In order to defeat Sakayanagi-san's class, I propose we form a cooperative relationship for the upcoming Sports Festival."
+[says] (p.200) "the only person more untrustworthy than someone from Sakayanagi-san's class is Ryuuen-kun, your class's leader."
+[says] (p.203) "It's too bad that we were the only ones who chose the correct answer."
+[says] (p.204) "Do you know the way back? Just exit from that door and turn left, you'll be outside."
+[says] (p.209) "You're not trustworthy, but we have to trust you."
+[says] (p.210) "The enemy of my enemy is my friend."
+[says] (p.211) "It was me. This time I asked Ayanokouji-kun to only be present."
+[trait] (p.194–212) Composed and shrewd — negotiates without concessions, bluffs (telling Ryūen to leave), refuses Katsuragi's warnings, and calls Ryūen's bluff — reveals she alone conceived the alliance; grows before their eyes ("You seem a little different from before"), uses Ayanokōji as a "weapon" but keeps her promise that he only needs to "be present."
+[rel:ayanokouji-kiyotaka] (p.194–212) Brought him as a "weapon" and refused to dismiss him when Ryūen demanded it.
+[rel:ryuuen-kakeru] (p.203–211) She bluffs and bargains with him; he finally agrees because the proposal was hers, not Ayanokōji's.
+[rel:katsuragi-kouhei] (p.200–212) She trusts him (he apologized for lateness); he helps broker the deal.
+[rel:sakayanagi-arisu] (p.199) The target they're uniting to defeat.
+
+### y2v6 p.241–249 — Horikita's day: 100m and long jump vs Ibuki
+[scene] (p.241) Sports festival morning; guests (political figures tied to the school) watch from the sidelines as Nagumo gives the opening speech; she notes the alliance with Ryūen's class worked out (they avoided facing each other in individual events, split team points 50/50, max 3 team events per athlete).
+[says] (p.243) "Are you stupid?" — to Ibuki, who sprinted up panting before her race
+[says] (p.243) "Relax. You don't need to tell me, I will fight you."
+[says] (p.245) "If Ibuki-san hadn't helped me, Kushida-san might not have started going to school yet. But that didn't mean I could give her the win."
+[trait] (p.241–249) Calm and focused — beats Ibuki in the 100m by the same narrow margin as last year; takes first in the obstacle course (10 pts), third in tug-of-war; long-jumps 5.79m only for Ibuki to beat her by 2cm (5.81) — they're now 1–1; tries to console/encourage Sudō and Onodera (winning three events each), and tells Sudō not to chase Kōenji.
+[rel:ibuki-mio] (p.243–249) Their 100m and long jump duels; Ibuki's 2cm win makes her gleeful, Horikita's stress rises.
+[rel:sudou-ken] (p.246–247) He and Onodera are their "great expectations" — three straight wins each; she tells him to prioritize class over racing Kōenji.
+[rel:onodera-kayano] (p.246–247) She's won both her events; they'll compete in doubles — the more she can trust Onodera, the less she'll have to worry
+
+### y2v6 p.250–257 — Nagumo's five wins; Sakayanagi's absence
+[scene] (p.250) Watches from the cheering seats as Yagami praises her class's turnaround; Nagumo wins his fifth consecutive event but looks expressionless; Kiryūin needles him.
+[says] (p.251) "He is almost guaranteed to graduate in Class A, regardless of whether he wins or loses."
+[says] (p.255) "Ayanokouji-kun had promised to fight you at the sports festival, I see."
+[says] (p.256) "Yes. This morning, he apologized and informed me he was sitting out." — she covers for Ayanokōji
+[trait] (p.250–257) Realizes Nagumo wanted Ayanokōji to quench his thirst (a direct fight) and that he "ran away" to avoid embarrassment; covers for Ayanokōji's absence (sick) when Nagumo presses at lunch; confirms Ayanokōji did something to hold Sakayanagi back — Class A is floundering without their commander — she feels a little bad but takes the opportunity.
+[rel:ayanokouji-kiyotaka] (p.255–257) She quietly protects the secret of his absence (his strategy to keep Sakayanagi out).
+[rel:nagumo-miyabi] (p.251–257) He invites her to lunch and presses about Ayanokōji; warns someone else will pay the price for Ayanokōji bailing on him.
+[rel:kiryuin-fuuka] (p.251–255) She taunts Nagumo about Ayanokōji's absence ("he ran away," he has a "cute side").
+[rel:sakayanagi-arisu] (p.257) Her absence is clearly Ayanokōji's doing; Class A cannot coordinate.
+
+### y2v6 p.268–284 — The final: assembling a volleyball team; beating Amasawa's first-years
+[scene] (p.268) With an hour left, her class leads Ryūen's by 17 points; Ibuki badgers her for a third match (the balance beam — Ibuki missed registration, a loss by default).
+[says] (p.268) "Whether you're satisfied or not, to the rest of the world, that's called losing by default."
+[says] (p.275) "I don't want to explain my reasons, but to repay that debt, I'm fine with helping you." — Kushida, owing Amasawa a debt
+[trait] (p.268–284) Decides to enter the new mixed-year volleyball event (3 open slots) for 10 points rather than Ibuki's shuttle run; recruits Ibuki (to beat Amasawa), Kushida (who owes Amasawa a debt), then Kushida brings Rokkaku and Fukuyama (Class A) and Himeno (Ichinose's class) — "enemy of my enemy is my friend"; watches Amasawa's team (Nanase, Amasawa) with Nanase carrying them at first, then Amasawa's staggering adaptability; in the final, Kushida's desperate saves and Horikita's own spike (using the last of her strength) seal a 7–6 win — but they're "unsatisfied and depressed" despite the "huge victory," having barely beaten first-years.
+[rel:ibuki-mio] (p.268–275) She agrees to join the volleyball team to beat Amasawa — "teaming up with you sucks."
+[rel:kushida-kikyou] (p.275–278) She joins to repay a debt to Amasawa and recruits three more players — an unexpected ally.
+[rel:amasawa-ichika] (p.273–284) Her first-year volleyball team; Amasawa's "unfathomable ability and instincts" nearly beat them — Horikita gives everything to win.
+[rel:nanase-tsubasa] (p.279–284) She's the real threat in the first-year team, a "cut above" her teammates.
+
+### y2v6 p.323–326 — Horikita reaffirms her choice; calls Ayanokōji "essential"
+[says] (p.323) "There's something I wanted to talk to you about. Is that alright?"
+[says] (p.324) "I did not make a mistake. I was able to recognize once again that I chose to keep Kushida-san, and that that choice was correct."
+[says] (p.324) "I made a poorly thought out promise so we could achieve unanimity."
+[says] (p.325) "We got class points. However, we had to pay dearly for it. That special test has taught me a lot. It showed me both victory and defeat."
+[says] (p.325) "I'm just a second year high school student. I'm a child. Isn't it okay for me to mess up?"
+[says] (p.325) "you are, both to the class and to me, absolutely essential."
+[trait] (p.323–326) Reflects on the Unanimous exam — concludes keeping Kushida was right (she's contributed since), admits her "expel the traitor" promise was a risky "noose," and that she'll handle similar tests better next time; acknowledges she's still a "child" who can mess up, and declares she'll move forward with the class's support (Hirata, Kei, Sudō, Onodera, Kushida, Kōenji) — and tells Ayanokōji he's "absolutely essential."
+[rel:ayanokouji-kiyotaka] (p.325) She calls him essential — unaware he plans to leave once she's grown.
+[rel:kushida-kikyou] (p.324) She reaffirms keeping her was the right choice — Kushida has contributed since returning.
+[rel:hasebe-haruka] (p.324) She still doesn't know what to do about Haruka — an unresolved wound.
 ## y2v7
 
 <!-- walk: y2v7 → start -->

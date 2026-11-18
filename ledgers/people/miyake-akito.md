@@ -600,6 +600,17 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 
 <!-- walk: y2v6 Epilogue → p.346 -->
 
+### y2v6 p.11–14 — Miyake's prologue: falling in love with Haruka; joining a "revenge"
+[scene] (p.11) From his own POV, describes himself as neither a good guy nor a bad guy — an average person who coasts through life, taking up archery on a whim.
+[narrates] (p.12) "I've never once thought of myself as a special person."
+[narrates] (p.12) "Keisei, Kiyotaka, Haruka, Airi."
+[narrates] (p.12) "When did I start gazing at Haruka?"
+[narrates] (p.13) "Will you join me in my revenge?"
+[narrates] (p.14) "Down the road, no matter how many people will hate me…"
+[trait] (p.11–14) Quietly self-aware — found an unexpected sense of belonging in the five-person Ayanokōji group, and during the Unanimous exam, when Haruka declared she'd drop out, realized he was in love with her ("emotions took top priority," even over protecting Airi); at the sports festival's end, an unnamed girl's invitation to join her revenge — her eyes strong, straightforward, and with a dangerous glint — pulls him back from letting her walk away; though he knows it will trouble friends and classmates, he resolves to go with her.
+[rel:hasebe-haruka] (p.12–14) The girl he's fallen in love with — he can't accept being separated from her; his feelings drive his choice.
+[rel:sakura-airi] (p.12) He was willing to "abandon" her (also a group member) to protect Haruka — a conflict he feels guilty about.
+[note] (p.13) The girl inviting him to "revenge" is unnamed on these pages — no speaker attribution assigned (§7).
 ## y2v7
 
 <!-- walk: y2v7 → start -->
