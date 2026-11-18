@@ -2,6 +2,19 @@
 
 char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 
+## y2v1
+
+<!-- walk: y2v1 → start -->
+
+### y2v1 p.18, 108–110, 194 — Kitō mentioned in passing
+[scene] (p.18) Named in the classroom context.
+[scene] (p.108–110) Named in the group context.
+[scene] (p.194) Named in the council context.
+[note] (p.18, 108–110, 194) Passing mentions; not a distinct scene presence.
+[mentioned] (p.18, 108–110, 194) Passing mention only.
+
+<!-- walk: y2v1 Ch.2 → p.194 -->
+
 ## y1v7
 
 <!-- walk: y1v7 → start -->

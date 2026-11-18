@@ -3,6 +3,19 @@
 char_id: sakura-airi · class: Class 1-D (enrolled April 2015) · status: mid (allies)
 aliases used for anchors: sakura, airi, sakura-san
 
+## y2v1
+
+<!-- walk: y2v1 → start -->
+
+### y2v1 p.18, 34, 36 — Sakura mentioned in passing
+[scene] (p.18) Named in the classroom context.
+[scene] (p.34) Named in the context of the exam.
+[scene] (p.36) Named in the context of the student council.
+[note] (p.18, 34, 36) Passing mentions; not a distinct scene presence.
+[mentioned] (p.18, 34, 36) Passing mention only.
+
+<!-- walk: y2v1 Ch.2 → p.36 -->
+
 ## y1v1
 
 <!-- walk: y1v1 → start -->

@@ -3,6 +3,17 @@
 char_id: kanzaki-ryuuji · class: Class 1-B · status: minor (Class B)
 aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 
+## y2v1
+
+<!-- walk: y2v1 → start -->
+
+### y2v1 p.67 — Kanzaki mentioned in passing
+[scene] (p.67) Named in the context of Ichinose's group.
+[note] (p.67) Passing mention; not a distinct scene presence.
+[mentioned] (p.67) Passing mention only.
+
+<!-- walk: y2v1 Ch.2 → p.67 -->
+
 ## y1v2
 
 <!-- walk: y1v2 → start -->
