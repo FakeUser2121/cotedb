@@ -1471,14 +1471,60 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v12.5 → start -->
 
-### y2v12.5 pp.77-92 — Ch.5
+### y2v12.5 p.80–84 — Ch.5: The cinema date
+[scene] (p.80) Kei arrives early at the cinema at 10 AM, waves him in, takes his hand, and pulls him along half a step ahead.
+[says] (p.80) “Good morning, Kiyotaka!”
+[says] (p.80) “I haven’t eaten anything since this morning, so I’m really hungry.”
+[says] (p.80) “I can’t help it. I always end up eating too much popcorn during the screening.”
+[says] (p.80) “Shall we go?”
+[says] (p.80) “Huh? Why? Was there something to blame?”
+[says] (p.81) “Not at all. There’s nothing like that.”
+[says] (p.81) “But—”
+[says] (p.81) “I feel like even those who kind of had the wrong idea about you, or maybe they didn’t really understand you at first, are starting to realize that their initial impression might’ve been wrong. Some even say that Maezono was expelled on purpose as a punishment for betraying us.”
+[says] (p.81) “About whether Maezono was expelled on purpose?”
+[says] (p.81) “Well, yeah. I’m thinking… that it was intentional.”
+[says] (p.81) “Because you have the power to win against anyone. Plus, I’ve learned your way of thinking from observing you up close. If you’ve expelled Maezono, it means there was a purpose other than just winning, right? It was like making her pay the price for betraying the class. Isn’t the impact of having an expulsion huge? What your real abilities or intentions are—things like that would be overshadowed by the impact. I was thinking it might’ve been like a camouflage to prevent people from realizing the truth.”
+[says] (p.81) “Hmm, maybe there’s more. I thought I was mostly right, but... for example, if Ichinose-san was a tougher opponent than I thought, maybe you used Maezono as a surefire move to turn a 99% chance of winning into 100%. Or maybe you were looking ahead, not just at this incident, and decided to thoroughly crush her here.”
+[says] (p.81) “I was right, yeah?”
+[says] (p.82) “Really!? Ehehe, you can be more impressed if you want.”
+[says] (p.82) “Thinking about it that way, yeah. Maybe my worries have vanished.”
+[says] (p.82) “You know, about Ichinose-san. I kind of thought you were being suspicious, Kiyotaka. I wondered if you were going to go easy on her in your battle.”
+[says] (p.82) “Well, it was just my misunderstanding, so I won’t probe any deeper. But I did think you took some unusually conspicuous actions this time.”
+[says] (p.82) “Right. It’s big that Class A was losing behind the scenes, and Sakayanagi-san’s expulsion was at stake. Since it’s hard to talk about Maezono’s expulsion, the topic shifted entirely to that. Not a single day has passed since the exam ended without me hearing about it.”
+[says] (p.82) “Ichinose-san didn’t hold back either.”
+[says] (p.82) “Just kidding?”
+[says] (p.82) “Wow, that sounds so fake...! I’m sure there’s something more behind it because it’s you, Kiyotaka.”
+[says] (p.83) “You like movies too, Ibuki-san?”
+[says] (p.83) “Well, that’s okay. But hey, want some popcorn?”
+[says] (p.83) “Hey, why couldn’t Sakayanagi-san find the traitor, Ibuki-san?”
+[says] (p.83) “That’s why I’m asking. I’m talking to you...”
+[rel:ayanokouji-kiyotaka] (p.77–92) She does not know he is ending it today; she guesses Maezono's expulsion was intentional and scores it 70+ points.
+[rel:ibuki-mio] (p.83–84) She ends up seated with Ibuki between herself and Kiyotaka; she teases Ibuki.
+[rel:maezono] (p.80–82) She tells Kiyotaka that she is not bothered by repercussions for Maezono's expulsion.
 
-[scene] (p.77-92) Mentioned/appears in Ch.5.
-[rel:ayanokouji-kiyotaka] (pp.77-92) Appears in this volume.
+<!-- walk: y2v12.5 Ch.5 → p.84 -->
 
-<!-- walk: y2v12.5 Epilogue → p.216 -->
+### y2v12.5 p.85–91 — Ch.5: The breakup at karaoke
+[scene] (p.85) After the movie, she and Kiyotaka walk hand in hand to karaoke inside Keyaki Mall.
+[says] (p.85) “About the movie, it was generally entertaining, but I think it's better not to set the bar too high after all. What did you think, Kiyotaka?”
+[says] (p.86) “I see, then I'm glad. Which part did you particularly find interesting? For me…”
+[scene] (p.88) In the karaoke room, Kiyotaka says “Let’s break up.”; she answers, surprisingly calm, that it is the only option; she maintains a forced smile to the end.
+[says] (p.88) “...That’s the only option, right?”
+[says] (p.88) “So, I see...”
+[says] (p.88) “Kind of... I understand... I can tell that your feelings have drifted away.”
+[says] (p.89) “No, it’s okay.”
+[says] (p.89) “It’s okay. I also felt... that the atmosphere was kind of heavy, actually.”
+[says] (p.90) “That’s right. Going back to being friends is the most natural thing.”
+[says] (p.90) “Yeah, right? I had a feeling we should do that…”
+[says] (p.90) “...Thank you for everything until now.”
+[says] (p.90) “Eh? Really? Wouldn’t that be a bit embarrassing?”
+[says] (p.90) “See you...”
+[says] (p.90) “See you... see you again... Ayanokōji... kun...”
+[scene] (p.91) Alone in the silent karaoke room, she collapses; she wonders whether she showed him she can stand on her own, and begs him for help.
+[note] (p.88–91) The narration switches to her viewpoint at the section marker on p.88; she never tells him she wants him to stay; she believes resisting would betray his expectations.
+[rel:ayanokouji-kiyotaka] (p.85–91) The breakup she half-expected arrives; she hides her despair behind a forced smile and lets him leave without looking back.
 
-<!-- walk: y2v12.5 Epilogue → p.216 -->
+<!-- walk: y2v12.5 Ch.5 → p.91 -->
 
 ## y3v1
 
