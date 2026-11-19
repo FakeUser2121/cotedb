@@ -61,14 +61,27 @@ char_id: maezono · class: Class 1-D · status: minor
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — maezono mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.22-23, p.25, p.93, p.95.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.22–25 — Maezono on guard duty at the maid-café demonstration
+[scene] (p.22) Posted at the special-wing classroom guarding the maid-café demonstration; a rented room with shaded windows against third parties.
+[says] (p.22) "Oh, I'm on guard duty. I don't think there's anyone coming to the special wing after school, but I had to make sure."
+[action] (p.25) Waves happily to Horikita and Ayanokōji as they leave; the room's commotion must have reached his ears.
+[says] (p.25) "I'm kind of surprised how well that went."
+[note] (p.25) "I'm kind of surprised how well that went." is untagged; adjacent narration ("Maezono, who had been watching us, waved happily at us") supports him as the speaker; the reply is equally untagged and probably Horikita's; neither speaker is name-tagged in the print.
+[rel:satou-maya] (p.22) Co-planner of the maid café; standing guard for her team.
+[rel:horikita-suzune] (p.22–25) Guards her demonstration site; waves them off.
+[rel:ayanokouji-kiyotaka] (p.22, 25) Lets him in as a customer; waves him out.
 
 
 
 
+<!-- walk: y2v5 Ch.2 → p.28 -->
+
+### y2v5 p.93–96 — Maezono: the Hokkaido spearhead
+[says] (p.93) "Wait a minute. I'll admit that Okinawa is one of the standard places, but if you say that, then so is the North Coast Highway. It's not even a close call in terms of votes. Don't you want to go skiing or something?"
+[scene] (p.95–96) Women's team spearhead — "The Hokkaido team, spearheaded by Maezono, middleweight Ishikura, and general Shinohara. This is a women's team." — beats Onodera in the first game.
+[trait] (p.93–96) Ski-or-nothing — argues Hokkaido's merits on snow logic, not ocean logic.
+
+<!-- walk: y2v5 Ch.4 → p.126 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

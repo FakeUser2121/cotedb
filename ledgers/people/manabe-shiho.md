@@ -350,14 +350,10 @@ char_id: manabe-shiho · class: Class 1-C · status: minor
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — manabe-shiho mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.150.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.150 — Manabe: named by Yabu
+[mentioned] (p.150) "You used to be the waist of Manabe. Were you so happy to be the leader of the girls once she was gone?" — Yabu's jab at Ibuki; no scene presence.
 
-
-
-
+<!-- walk: y2v5 Ch.6 → p.167 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

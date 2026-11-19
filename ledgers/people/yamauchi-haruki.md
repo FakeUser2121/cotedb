@@ -850,14 +850,11 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — yamauchi-haruki mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.197, p.221.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.197, 221 — Yamauchi: the ghost of the Class Poll exam
+[mentioned] (p.197) "Last year, for the first time, we had a vote in our class that resulted in a student being expelled from our class. In the end, Yamauchi was expelled from the school, but one of the people who used Yamauchi to try and push the class to expel me was Kushida."
+[mentioned] (p.221) "Even though Yamauchi-kun left the school, I thought that it wouldn't happen again" — Haruka's plea, invoking Yamauchi's expulsion.
 
-
-
-
+<!-- walk: y2v5 Ch.8 → p.231 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

@@ -163,6 +163,29 @@ char_id: ishigami-kyou · class: unknown · status: unknown
 [rel:ayanokouji-kiyotaka] (p.100–103) His argument wins Ayanokōji's support despite his own preference for other options.
 [rel:horikita-suzune] (p.100–103) Argues for giving her a protection point ("protect our leader").
 
+### y2v5 p.101–102 — The print swaps the option-two pitcher
+[note] (p.101) Horikita addresses the option-two pitcher as "Yukimura-kun" ("Then Yukimura-kun, you are saying that we should grant protection points to three students?").
+[note] (p.101–102) The same pitch is credited to Keisei by the narration twice ("I can understand why Keisei pushes that there are many ways to use protection points."; "That's what Horikita is, according to Keisei."); and the adoption is recorded as "Keisei's idea was adopted" (p.103). The print attributes the option-two pitch to two names in this scene; the print does not resolve which classmate pitched it.
+[note] (p.95) His rock-paper-scissors volunteer loss is attributed to "Keisei" consistently in the print ("It was Keisei who expressed his strong will"; "I'm counting on you to take care of me, Keisei").
+
+<!-- walk: y2v5 Ch.4 → p.126 -->
+
+### y2v5 p.171–224 — Keisei: the class's logical hammer
+[scene] (p.171) First voice to demand answers — "Why is that? Is there really anyone who's voting in favour?"
+[says] (p.171) "Why is that? Is there really anyone who's voting in favour?"
+[says] (p.183) "Time is running out, let me ask you both. Who was the student who voted in favour all along?"
+[says] (p.187) "Certainly... decided that Horikita should be given protection. But in the end, if we fail this special test, the action itself will be meaningless; wouldn't it be the same if we lost 350 class points?"
+[says] (p.187) "I'm sure you can reel them in with Suzune!"
+[says] (p.187) "This school is not that sweet. The 300 class points that Kōenji got in the desert island exam was a miracle. If you exclude that, how long did it take us to finally reach the class points we have now?"
+[says] (p.220) "If we're being... honest... losing 300 class points is critical."
+[says] (p.222) "I voted in favour of... and if we don't, the class won't be able to reach Class A..."
+[note] (p.220) "If we're being... honest... losing 300 class points is critical." — printed untagged; alternation with Haruka's challenge ("Haruka bit her lip") and Keisei's standing position throughout; adjacent-context attribution.
+[trait] (p.171–222) The class's built-in classical logic — sees the trap immediately; reluctantly comes around to the sacrifice; can't stomach the Airi choice out loud; ultimately confesses his vote for Haruka's expulsion.
+[rel:horikita-suzune] (p.171–187) Threatens her with the math; fears her protection point is wasted.
+[rel:hasebe-haruka] (p.220) His slip — "losing 300 class points is critical" — ignites her's last stand.
+[rel:haruka group note] (p.219) Haruka, Akito, Keisei — the Ayanokōji Group triad.
+
+<!-- walk: y2v5 Ch.8 → p.231 -->
 ## y2v10
 
 <!-- walk: y2v10 → start -->

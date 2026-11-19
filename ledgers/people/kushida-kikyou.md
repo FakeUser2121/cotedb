@@ -1829,6 +1829,26 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:horikita-suzune] (p.45) Nominates her as leader — her apparent fairness wins class approval.
 [rel:ayanokouji-kiyotaka] (p.45) Her proposal noted by him; he watches for hidden motives.
 
+### y2v5 p.70–75 — Kushida visits Yagami: the conspiracy for the exam
+[scene] (p.70) Visits first-year Takuya Yagami in the first-year dormitory; he recorded (via a phone recording of) Chabashira's exam briefing and played it for her.
+[says] (p.70) "I don't care about that, can you just get on with it?"
+[says] (p.70) "Excuse me, senpai. Then let me ask you without hesitation."
+[says] (p.72) "I was in a hurry at the time. So what?"
+[says] (p.72) "Pathetic? What do you mean weak?"
+[says] (p.73) "Who the hell are you? How do you know about my past when we didn't even go to the same secondary school...?"
+[says] (p.74) "You think I can do it...?"
+[says] (p.74) "That's ...yes, but..."
+[says] (p.74) "I want to expel Horikita, I want to expel Ayanokōji. I'm definitely going to get them expelled...!"
+[scene] (p.71) Yagami believes he's counted the exam's only condition for expulsion — the cumulative voting penalty — but interprets that there are other ways; he expects the very question that divides the class and has already drafted the play: make her steer the class to crown Horikita as expulsion candidate.
+[scene] (p.74) Yagami grips her shoulders (she reflexively tries to flee; he overwhelms her); she plays along but is frightened by how firmly he has her cornered — she neither wants nor refuses the expulsions; he releases her.
+[trait] (p.70–75) Hunted but committed — spends a year and a half plotting to expel Horikita and Ayanokōji; Yagami (a stranger who claims a special connection to her past, possibly the same secondary school) plays her with expert psychological pressure; she walks out resolved to do it, while privately noting that "Sometime in the future, he'll have to be expelled too."
+[rel:yagami-takuya] (p.70–75) Her handler/co-conspirator; he knows about her past (possibly the same secondary school or another route); she fears him.
+[rel:horikita-suzune] (p.70–75) Target of the plot.
+[rel:ayanokouji-kiyotaka] (p.70–75) Target of the plot.
+[rel:amasawa-ichika] (p.74) Yagami names Amasawa as one of the threats to her daily safety and livelihood ("such as myself and Amasawa-san").
+
+<!-- walk: y2v5 Ch.3 → p.75 -->
+
 ### y2v5 p.181–215 — Kushida's plot exposed; her mask shatters; she is saved
 [says] (p.185) "I think... and I think Ayanokōji, who was the leader of this special exam, Horikita-san... who urged people to vote in favour, should take responsibility for that."
 [says] (p.190) "Yes, you did. It was you who, when urged to vote against it, stubbornly continued to vote for it."
@@ -1842,6 +1862,62 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:ayanokouji-kiyotaka] (p.185–205) Exposed by him; she fought him for a year and a half; her plot to expel him fails.
 [rel:horikita-suzune] (p.211–215) Horikita protects her from expulsion and understands her — the person she hated most becomes the first to reach her.
 [rel:asahina-nazuna] (p.207) Mii-chan — her close friend; Horikita's observation hints Kushida's regret may involve her.
+
+### y2v5 p.92–123 — Kushida during Q5: anxious, and silently plotting
+[scene] (p.92–93) Worried about Horikita who hasn't spoken up unlike before; asks twice; Horikita answers with the trip-destination advice; Kushida presses her again ("Oh my... what should we do, Horikita-san?").
+[says] (p.92) "Horikita-san, it looks like we're divided in our opinions, do you have any advice for us?"
+[says] (p.93) "Oh my... what should we do, Horikita-san?"
+[says] (p.101) "So the idea of prioritizing private points is an offensive strategy, while the idea of prioritizing protection points is a defensive strategy, right?"
+[says] (p.112) "Hey, hey, Horikita-san. It's okay... right? No one is going to drop out of the class, right?"
+[says] (p.116) "Losing someone from this class is not a positive thing at all."
+[says] (p.122) "Umm... I'm sorry Ayanokōji-kun. I'm with Hirata-kun, there's no girl that comes to mind."
+[says] (p.122) "But I'll let you know if I realize something."
+[note] (p.112) "Hey, hey, Horikita-san. It's okay... right? No one is going to drop out of the class, right?" is printed untagged; tied to Kushida by adjacent narration ("Kushida was worried, but she couldn't stand the silence and asked Horikita that question.").
+[trait] (p.92–123) Anxious to look cooperative while voting "in favour" — her panic surfaces as repeated questions; she mirrors Yōsuke's cautious stance to Ayanokōji's face ("I'm with Hirata-kun"), performs attentiveness, and stays silent about her own vote.
+[rel:horikita-suzune] (p.92–123) Repeatedly solicits her; Horikita reassures repeatedly.
+[rel:ayanokouji-kiyotaka] (p.122–123) Interrogates her about who could be voting "in favour"; she denies knowing anyone.
+[rel:hirata-yousuke] (p.122) Hides behind his position ("I'm with Hirata-kun").
+
+<!-- walk: y2v5 Ch.4 → p.126 -->
+
+### y2v5 p.172–215 — Kushida's mask: the confession, the collapse, the purge
+[scene] (p.171–172) In the eye-contact interrogation; calm as anyone else; the class trusts her with their secrets.
+[says] (p.171) "Hey, hey. I guess we'll just have to vote in favour, won't we?" — no, that's an unnamed student
+[scene] (p.183–188) Her confession sequence — she wails about regretting her choice; begs the class to understand her; blames Ayanokōji's decision; then the offer — "Ayanokōji, who was the leader of this special exam, Horikita-san... who urged people to vote in favour, should take responsibility for that."
+[says] (p.185) "I think... and I think Ayanokōji, who was the leader of this special exam, Horikita-san... who urged people to vote in favour, should take responsibility for that."
+[scene] (p.188–190) Spams the class with accusations about Kiyotaka's leadership; then volunteers herself as the candidate — "Enough is enough... I can't take it anymore, my heart can't take it any more...!"
+[says] (p.195) "Enough is enough... I can't take it anymore, my heart can't take it any more..."
+[says] (p.196) "So... I'll drop out... and then we'll all be back to normal again, right?"
+[scene] (p.201–206) The last stand — her fake crying begs sympathy; then the purge: she rips through the class's secrets one by one — Shinohara's suitors (Ike/Komiya), Mii-chan's crush on Hirata, Haruka's crush on Kiyotaka, Satō's group dynamics.
+[says] (p.206) "Other than Karuizawa-san just now - yes, Shinohara Satsuki consulted me about various things, right?"
+[says] (p.206) "Shinohara-san is not particularly cute or pretty, or rather a bit ugly, isn't she?"
+[scene] (p.209–213) Horikita confronts her — the class protects her for a moment; Horikita reaffirms her support for her; Kushida screams at Horikita, accusing her of betrayal; begs for mercy; can't face the truth.
+[says] (p.204) "Fufu... I've been a fool, haven't I? That deal was a mistake..."
+[says] (p.205) "In the next vote I will be expelled. This class will get class points because of my sacrifice, huh?"
+[scene] (p.214–215) Total collapse — tears, trembling, repeated "Regret! Regret! Regret!" (TL note flags the ambiguity: regretting her actions in her previous school, her failure to persuade the class, or her treatment of Mii-chan — kept as printed).
+[trait] (p.172–215) The master of false tears — weaponizes the class's secrets she held; the class survives her by one hour; her last act is public self-contempt.
+[rel:ayanokouji-kiyotaka] (p.185–201) Her designated prey — his reveal strips her credibility.
+[rel:horikita-suzune] (p.211–213) The one who defies her to her face; she can't bear it.
+[rel:shinohara-satsuki] (p.206) Her first spear.
+[rel:wang-mei-yu] (p.207) Her second spear.
+[rel:asahina-nazuna] (p.207) Her third spear.
+[rel:hasebe-haruka] (p.207) Her fourth spear.
+
+<!-- walk: y2v5 Ch.8 → p.231 -->
+
+### y2v5 p.57–242 — Coverage-gate mention records
+[mentioned] (p.57) "This was suggested to us by Kushida during the day." — the leader strategy origin.
+[mentioned] (p.60) "You mean the existence of Kushida-san and Kōenji-kun."
+[mentioned] (p.216) "closed that distance to Kushida." — Horikita's unexpected move.
+[mentioned] (p.217) "express my opposition to Kushida-san's expulsion." — Horikita's public stance.
+[mentioned] (p.218) "Kushida, the only student who kept voting in favour of expelling a student, deserves to be expelled."
+[mentioned] (p.220) "You put Kushida-chan first just because you have a little use for her?" — Haruka's eruption.
+[mentioned] (p.222) "Whether it's you who wants to drop out, or Kushida who tried to drop out, I'm not going to change this policy, no matter what new students come forward."
+[mentioned] (p.228) "Didn't you say something to Kushida?" — Horikita's check.
+[mentioned] (p.238) "Kushida was so disturbed by Horikita's presence that she accepted the choice to stay at this school."
+[mentioned] (p.241) "the Kushida simp who's cropped up on the subreddit" — Rhymar's credit.
+[mentioned] (p.242) "People will be disappointed by Kinu's desire to prevent Kushida from being expelled - but I want to see her suffer from humiliation before she gets booted out." — Amadeus's credit.
+
 ## y2v6
 
 <!-- walk: y2v6 → start -->

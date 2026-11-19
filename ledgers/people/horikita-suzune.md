@@ -4421,6 +4421,31 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ayanokouji-kiyotaka] (p.17–18) Her proposal system; he listens as usual.
 [rel:hirata-yousuke] (p.17) Builds on his point about the limited budget.
 
+### y2v5 p.19–27 — Horikita scrutinizes Satō's maid-café pitch
+[scene] (p.19) Satō comes to her with a festival pitch; the reward system has drawn many half-baked proposals from the class, which she filters hard (Hondō's fried-chicken idea is shut down for lacking substance).
+[scene] (p.20) Asks Satō to show her the demonstration in an empty classroom after school; brings Ayanokōji along as a customer.
+[says] (p.23) "How long did it take, Matsushita-san?"
+[says] (p.23) "I wonder if you've created a budget for the whole thing. I'd like to see a concrete process."
+[says] (p.24) "That's certainly an interesting proposal."
+[says] (p.24) "I'm going to check again, but no one saw this performance, right?"
+[says] (p.24) "Very well. I'll do my best to make sure this maid café goes through."
+[says] (p.24) "It's too early to rejoice. Don't forget that we're still in the process of reviewing the proposal."
+[says] (p.25) "I'm going to ask for your help Ayanokōji-kun to ensure that the girls' project is a success."
+[note] (p.25) The reply to Maezono's "I'm kind of surprised how well that went." — "I wouldn't readily admit it was a good idea if I didn't feel that way. In fact, most of the ideas that were brought to me were rejected on the spot, or at best, put on hold." — is printed untagged; the ideas were pitched to Horikita, so the voice is probably hers; kept as untagged, no speaker assigned from context.
+[says] (p.26) "So, I'll leave the selection of people to you first."
+[says] (p.26) "There's no single program for this festival."
+[says] (p.26) "So, you're accepting my offer, right?"
+[says] (p.26) "I'm going to head to the student council room."
+[trait] (p.19–27) Demands concrete evidence, not enthusiasm — makes the planners demonstrate the idea at their own cost, interrogates their budget (outfits 4,000 points each; 40,000 for 10 outfits; 50,000 snacks; 90,000 before decorations), praises Satō's presentation as "head and shoulders above any proposal" (noted by Ayanokōji) yet keeps the decision strictly provisional; assigns Ayanokōji the boys' side and the budget management to keep the information pool minimal.
+[rel:satou-maya] (p.19–26) Accepts her pitch for serious review; demands cost reduction.
+[rel:matsushita-chiaki] (p.22–24) Questions her cost breakdown; the maid-café project depends on it.
+[rel:asahina-nazuna] (p.22–24) Mii-chan's clear-file proposal earns sincere praise.
+[rel:maezono] (p.22, 25) Guards the demonstration site; waves them off.
+[rel:ayanokouji-kiyotaka] (p.19–26) Coerces him into managing the boys' side and the budget; he resists; she insists.
+[rel:hirata-yousuke] (p.17–18) Built on his list; this proposal system is now in motion (her section for p.17–18 covers the opening move).
+
+<!-- walk: y2v5 Ch.2 → p.28 -->
+
 ### y2v5 p.45, 56–59 — Horikita: emergency leader; consults Ayanokōji
 [says] (p.45) "Yes. It's possible that other classes will have similar strategies, and you'll be able to use them if you have a difference of opinion."
 [says] (p.45) "If you don't feel comfortable following my instructions when the time comes, you can let me know now."
@@ -4435,12 +4460,25 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:kushida-kikyou] (p.45) She proposed her as leader — Horikita accepts.
 [rel:karuizawa-kei] (p.56) Gracefully left alone in the elevator by Kei (no romantic threat).
 
+### y2v5 p.60–61 — Horikita warns him; her secret message
+[scene] (p.60) In his room, she delivers the real reason for visiting: she cannot determine who voted which way no matter how much they discuss — and she names Kushida and Kōenji as the likely dissenters.
+[says] (p.60) "Due to the rules of this special test, there is no way to determine with certainty who voted which way, no matter how much we discuss it. Even if you get a statement, it may not be 100% true."
+[says] (p.60) "In some cases, yes." — answering his "Does that mean you can lie and lie and lie?"
+[says] (p.60) "As for the former, I'm sure she'll lie about everything, and as for the latter, he might even dare to vote for someone different from his classmates if his vicious nature shows through."
+[says] (p.60) "Hey, why did you tell me all the details? It's weird. It's not every day that you give me a warning like this."
+[says] (p.60) "Am I right in saying that that's a compliment...?"
+[says] (p.60) "Yes... I'm feeling a bit restless..."
+[says] (p.61) "Please give me one minute. I need to message them back otherwise they may get a wrong idea."
+[says] (p.61) "Anyway, I've got my message across. Good luck with the special exam tomorrow."
+[trait] (p.60–61) Drops her composure for once — her usual control cracks as she fields his compliment ("Am I right in saying that that's a compliment...?"); restless at the intimacy; exits to answer a two-minute-long message whose recipient she won't name.
+[rel:ayanokouji-kiyotaka] (p.60–61) He warns her about Kushida/Kōenji; she leaves for a secret message.
+
+<!-- walk: y2v5 Ch.3 → p.75 -->
+
 ### y2v5 p.85–105 — Horikita leads the class through questions 1–4
 [scene] (p.85) As agreed emergency leader, rises to guide the class after the first (non-unanimous) vote; explains her reasoning for choosing Class B as the exam opponent (fair fight, currently B, on a downward slope, unlikely to outsmart them).
 [says] (p.87) "As the votes are scattered, each of us must have something to think about."
 [says] (p.87) "Ichinose-san is likely to be a fair fight, a clash of pure potential."
-[says] (p.110) "my policy is to not let anyone drop out of school."
-[says] (p.116) "We can get through this special exam without anyone dropping out."
 [trait] (p.85–105) Skillful and fair — wins unanimity on Q1 with clear reasons, navigates the Hokkaido/Okinawa deadlock on Q2, and accepts Keisei's protection-point argument on Q3 (even though it benefits her); her growth into a "pillar of support" is evident.
 [rel:ayanokouji-kiyotaka] (p.85–105) Her pre-exam voting pact holds; he protects her image and backs her strategy.
 [rel:ishigami-kyou] (p.100–103) Accepts his protection-point argument.
@@ -4453,12 +4491,16 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says] (p.114) "I made a promise to Kōenji-kun before the island exam started."
 [says] (p.115) "Give me some time to think about it."
 [says] (p.121) "If the number of votes in favour still doesn't reach zero... then I'll have no choice but to speak the name."
+[says] (p.112) "As I said before, my policy is to not let anyone drop out of school."
+[says] (p.116) "We can get through this special exam without anyone dropping out."
 [says] (p.125) "I'm not your enemy. I'm on your side."
 [trait] (p.107–126) Under immense pressure, stays principled and calm — explains the voting pact, refuses to publicly name the unseen "in favour" voter (it would cost her future standing as a leader), negotiates Kōenji's vote with a private-points deal (10,000/month until graduation), and pleads with the unidentified voter without naming them — "like a cry of grief."
 [rel:kouenji-rokusuke] (p.113–120) She refuses to break her promise to protect him, and buys his vote with a deal.
 [rel:karuizawa-kei] (p.121) Takes Kei's hint that she suspects someone — acknowledges she may know who.
 [rel:sudou-ken] (p.110) He demands she name the "in favour" voter; she refuses without certainty.
 [rel:chabashira-sae] (p.124–125) The teacher's old story gives her "words to face this special exam again."
+
+<!-- walk: y2v5 Ch.4 → p.126 -->
 
 ### y2v5 p.171–181 — Horikita's one-vote-at-a-time appeal fails
 [says] (p.171) "If you placed your vote against... please raise your hand."
@@ -4479,6 +4521,50 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:kushida-kikyou] (p.211–217) She protects her from expulsion and reaches her through honest bluntness — a turning point for Kushida.
 [rel:ayanokouji-kiyotaka] (p.217) Her refusal to expel Kushida forces him to take over the "cruel" role of cutting Airi.
 
+### y2v5 p.171–229 — Horikita: her choice (her POV in Parts One–Two)
+[scene] (p.171) The tenth round ends at 1 in favour / 38 against; she personally rounds up the class and drives them through ten minutes of eye-to-eye interrogation; Kōenji won't raise his hand but claims he votes against.
+[says] (p.172) "What about you, Ayanokōji-kun?"
+[says] (p.172) "Right..."
+[scene] (p.173–180) Three hours of fighting; the deadline two hours away; she cannot force a change; she and Ayanokōji converge on the inevitable — unanimity in favour.
+[scene] (p.177) Questioned by Ayanokōji about her motive, she admits she has a reason tied to Kushida, but gives no answer yet.
+[scene] (p.188) Self-nominates as the expulsion candidate to keep the vote non-unanimous for Kushida's sake — "Right. We're running out of time to vote. You have to do it. Please nominate me for expulsion."
+[says] (p.188) "Right. We're running out of time to vote. You have to do it. Please nominate me for expulsion."
+[says] (p.188) "If I'm going to put one vote between us anyway, I want to make sure it's the right one."
+[note] (p.188) The second line is a continuation of the same speaker; printed untagged after the monitor's interjection; adjacent-context attribution via alternation; named voice is Horikita by the surrounding narration.
+[scene] (p.208–210) Her POV — the frozen clock; she alone has been fighting for Kushida since before any of them knew; she holds the class back from their worst impulse and then chooses to fight; the clock resumes.
+[says] (p.211) "Don't go any further, Kushida-san. You won't be able to turn back."
+[says] (p.211) "Not so fast. I can't listen to any more ugly stories."
+[says] (p.211) "Yes. At least I don't think these revelations are beautiful."
+[says] (p.211) "You guys told Kushida-san a secret you didn't want anyone to know. Why is that?"
+[says] (p.211) "But instead of making her pay for it with expulsion, you can use her skills to pay us back many times over in the future."
+[says] (p.211) "I think... I think I want to keep Kushida-san in this class."
+[says] (p.212) "I don't like to make jokes, unfortunately. I'm serious."
+[says] (p.212) "It wasn't dumb, it wasn't funny, it was just plain ugly."
+[says] (p.212) "You have some personality problems,"
+[note] (p.212–213) The sentence continues onto the next page — the credit line sits between "But" and "you're" — quoted only the in-page fragment ("you're a much harder worker than I am." is on p.213, corpus-exact).
+[says] (p.213) "Be kind with lies. Faking kindness. That's terrible? That's just frivolous."
+[says] (p.213) "She has a talent that no one else has, and to expel her is a huge loss to the class."
+[says] (p.213) "Therefore I cannot agree with Kushida-san's withdrawal from the school."
+[says] (p.213) "It's only when I knew everything about you that I developed a great liking for you."
+[scene] (p.216) She nominates herself again — "We're running out of time. The people who are voting for Kushida-san, please vote for me. I'll explain later."
+[says] (p.216) "We're running out of time."
+[says] (p.216) "I'm the one who's going to get expelled! Just nominate me and vote me out!"
+[says] (p.217) "Now that we are in the interval, I will say it again. I'm going to express my opposition to Kushida-san's expulsion."
+[says] (p.218) "I know that protecting Kushida-san is not the end of the story. I've got my own answers."
+[scene] (p.228) Corners Ayanokōji in the corridor — apologizes for the exam; takes partial blame; the group broken; the points won; the girl lost.
+[says] (p.228) "Sorry."
+[says] (p.228) "This special exam... I was not good enough... I was not good enough."
+[says] (p.228) "No matter how tough the fight was, I put a big shackle on you... and you had to take all the responsibility that should have been spread out."
+[says] (p.229) "Look on the bright side. We've gained 100 valuable class points to move closer to Class A."
+[says] (p.229) "But we've lost... Sakura-san."
+[says] (p.229) "Don't do that. You don't need to act unreasonably cruel."
+[says] (p.229) "You... Sakura-san...?"
+[trait] (p.171–229) The only one who fights for Kushida when she has every reason not to — the class's indestructible center — but she didn't save everyone; she wasn't enough; she stays anyway and takes the blame she deserved, and then walks into business as usual with her head high.
+[rel:kushida-kikyou] (p.208–217) She loves her — she refuses to let the class destroy her; she fails.
+[rel:ayanokouji-kiyotaka] (p.171–229) He'd always known Horikita would see Kushida through; she knew he'd orchestrate the endgame; their pact held; her trust in him was the class's last treasure.
+[rel:sakura-airi] (p.229) Passes her in the corridor; neither of them can find words.
+[rel:hasebe-haruka] (p.226–229) The two who fought too late.
+
 ### y2v5 p.228–230 — Aftermath: Horikita's apology to Ayanokōji
 [says] (p.228) "Sorry."
 [says] (p.228) "This special exam... I was not good enough... I was not good enough."
@@ -4487,6 +4573,36 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [trait] (p.228–230) Follows him into the corridor, bows deeply, apologizes for shackling him with all the responsibility; calls out his unreasonable cruelty (he'd been suppressing his pain), seeming to grow through the ordeal; she is unable to find words when Airi passes them.
 [rel:ayanokouji-kiyotaka] (p.228–230) Apologizes and calls him out; their bond deepens via shared burden.
 [rel:sakura-airi] (p.229) Speechless as Airi leaves — can't think of what to say to someone being expelled.
+
+<!-- walk: y2v5 Ch.8 → p.231 -->
+
+### y2v5 p.9–241 — Coverage-gate mention records
+[mentioned] (p.9) "Suzune warned me about the possibility of a written exam early in the second semester." — Sudō, absent from the class.
+[mentioned] (p.10) "Really? You're sure it's not Suzune, aren't you?" — Sudō.
+[mentioned] (p.11) "What, did you want me to go out with Horikita?" — Sudō.
+[mentioned] (p.29) "Oh." — Sudō deflated by Horikita's warning.
+[mentioned] (p.30) "Horikita, who listened from beside Chabashira-sensei, calmly accepted the situation."
+[mentioned] (p.30) "Horikita's words were met with approval by Satō and the rest of the class."
+[mentioned] (p.31) "Although still incomplete, Horikita's growth as a pillar of support has certainly had a positive influence on her classmates."
+[mentioned] (p.34) "Here is a theoretical explanation of why Horikita, who seems to have voted against it."
+[mentioned] (p.64) "Yes, you're right. But then, shouldn't Horikita-san also be included in this conversation?" — Yōsuke.
+[mentioned] (p.64) "This time, you will support Horikita from the shadows. Just keep what goes on here confidential." — Ayanokōji.
+[mentioned] (p.65) "they can sense what Horikita is thinking and what she wants to do and match it, the class will be much stronger."
+[mentioned] (p.65) "Anyway, I understand. All we have to do is follow Horikita-san well and make sure the special exam goes smoothly, right?"
+[mentioned] (p.70) Yagami: "Kushida-senpai wants to crush Horikita Suzune and Ayanokōji Kiyotaka. That's what it was about, wasn't it?"
+[mentioned] (p.71) "Have you been able to tell your senpais about Horikita?" — Yagami.
+[mentioned] (p.71) "you to know that Horikita-senpai has been entrusted with this role." — Yagami.
+[mentioned] (p.71) "So what? You think you can get Horikita expelled at the next special exam?" — Yagami.
+[mentioned] (p.72) "He then explains how she can corner Horikita and Ayanokōji in that question."
+[mentioned] (p.73) "Not only do you have Ayanokōji-senpai and Horikita-senpai surrounding you" — Yagami.
+[mentioned] (p.74) "such as myself and Amasawa-san, who continue to threaten your daily safety and livelihood." — Yagami.
+[mentioned] (p.139) "That means Ryūen-kun and Horikita-san's classes are still in deliberation, right?"
+[mentioned] (p.140) "Like Horikita's and Ichinose's class, there were against votes. However, compared to those classes, the number of classmates who were in favour of expelling a classmate were considerably larger."
+[mentioned] (p.168) "To avoid any unforeseen circumstances, Sakayanagi, like Horikita, had instructed the four classmates closest to her in advance to make sure that their votes would be split."
+[mentioned] (p.237) "I don't know. Horikita had the power to make change. It wouldn't have been enough time for a serious challenge."
+[mentioned] (p.238) "At that time, Kushida was so disturbed by Horikita's presence that she accepted the choice to stay at this school."
+[mentioned] (p.241) "more specifically, I liked how both Horikita and Ichinose's classes were handled here." — Rhymar's credit.
+
 ## y2v6
 
 <!-- walk: y2v6 → start -->

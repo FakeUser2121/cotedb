@@ -372,11 +372,11 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — tsukishiro mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.66, p.72.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.66, 72 — Mentioned: Acting Director
+[mentioned] (p.66) Ayanokōji recognizes the caller: "Tsukishiro, who had been filling in as Acting Director for Chairman Sakayanagi" — Chairman Sakayanagi himself is on the line.
+[mentioned] (p.72) Yagami, recounting how he knew Kushida's capacity: "Yagami hadn't been told about this special exam by Tsukishiro" — Tsukishiro is not his source.
 
+<!-- walk: y2v5 Ch.3 → p.75 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

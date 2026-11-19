@@ -96,13 +96,18 @@ char_id: morofuji-rika · class: Class 1-D · status: minor (allies)
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — morofuji-rika mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.149-150, p.159.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.149–150 — Morofuji: the second dagger
+[says] (p.149) "If you mean, Ibuki-san, then I agree with you, I guess.... Oh, of course, I've always been against it."
+[note] (p.149) The print spells her name "Fujirika Morofuji" — reversed name order, kept as printed; adjacent narration names her: "As if following Yabu's lead, Fujirika Morofuji also raises her hand in agreement."
+[trait] (p.149–150) Yabu's echo — instantly agrees Ibuki should go, equally ready to retreat.
+[rel:yabu-nanami] (p.149) The caste's shadow.
+[rel:ibuki-mio] (p.149) Her chosen sacrifice.
+[rel:ryuuen-kakeru] (p.149–150) Welcomed with relish by him.
 
+<!-- walk: y2v5 Ch.6 → p.167 -->
 
-
+### y2v5 p.159 — Coverage-gate mention record
+[mentioned] (p.159) "Compared to Yabu and Morofuji, you seem to have a lot of logic, Tokitō." — Ryūen's backhanded compliment.
 
 ## y2v8
 

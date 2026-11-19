@@ -79,14 +79,20 @@ char_id: onodera-kayano · status: minor
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — onodera-kayano mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.95, p.172, p.224.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.95–96 — Onodera: the Okinawa team's spearhead
+[scene] (p.95) Represents Okinawa in rock-paper-scissors — "spearhead, Onodera, middle, Hondō, general, Sudō, mixed gender team." Defeats Maezono (spearhead) in the first game, then Ishikura in the middle game.
+[scene] (p.96) When Shinohara defeats Onodera in the general match, the clash between Sudō and Shinohara ends in a standstill.
+[note] (p.95–96) The print gives no given name for "Onodera" here; the roster carries two rows (onodera and onodera-kayano) for this person; identity is not resolved by these pages — duplicate flagged to owner (see progress2.md).
+[rel:sudou-ken] (p.95–96) Teammates on the Okinawa rock-paper-scissors team.
 
+<!-- walk: y2v5 Ch.4 → p.126 -->
 
+### y2v5 p.172, 207, 224 — Onodera: the interrogation witness
+[mentioned] (p.172) "Whether it was Kushida, Onodera, Okitani, or Mori, everyone answered by looking straight into Horikita's eyes."
+[mentioned] (p.207) On the girls' side of the purge wave.
+[note] (p.224) Asked about volunteering as the expulsion candidate — she declines ("Probably can't-"); printed untagged except the reply fragment; adjacent-context attribution.
 
-
+<!-- walk: y2v5 Ch.8 → p.231 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

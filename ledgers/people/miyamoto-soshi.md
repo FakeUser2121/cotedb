@@ -128,14 +128,10 @@ char_id: miyamoto-soshi · class: Class 1-D · status: minor
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — miyamoto-soshi mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.179.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.179 — Miyamoto: the strategist's challenge
+[mentioned] (p.179) "Miyamoto's reasoning is not correct, but it is certainly not unreasonable to think so." — his position, though not his words, shapes the class's case against Horikita's silence.
 
-
-
-
+<!-- walk: y2v5 Ch.8 → p.231 -->
 ## y2v8
 
 <!-- walk: y2v8 → start -->

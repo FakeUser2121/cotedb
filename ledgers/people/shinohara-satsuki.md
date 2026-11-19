@@ -397,10 +397,43 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — shinohara-satsuki mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.9, p.14, p.29, p.32, p.48.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.9, 14 — Sudō's yardstick; the middle-school festival line
+[says] (p.14) "Hey, it's kind of like a middle school cultural festival."
+[note] (p.9) Sudō gauges his romantic progress against the Ike–Shinohara couple ("do you think that Kanji guy has already kissed Shinohara"); she is not on p.9 — the mention is Sudō's envy.
+[note] (p.14) Her one line is followed by the narration "It may not be exactly the same, but I could understand why Shinohara would say that." — adjacent-narration attribution; the print does not name her in the quotation line itself.
+[rel:ike-kanji] (p.9) The couple Sudō aspires to.
+
+<!-- walk: y2v5 Ch.2 → p.28 -->
+
+### y2v5 p.32, 48 — Shinohara: the for-vote confusion; the couple's publicity
+[says] (p.32) "Hmm? What's this?"
+[says] (p.32) "Is it a gain? Is it a loss?"
+[note] (p.32) "Shinohara said aloud, folding her fingers and trying to calculate the gain and loss in her head." — adjacent-narration attribution.
+[mentioned] (p.48) The Ike–Shinohara pair went public during summer vacation; by now "the sight of them going home together, as well as going on dates together, was becoming increasingly frequent."
+
+<!-- walk: y2v5 Ch.3 → p.75 -->
+
+### y2v5 p.83, 91, 95–96 — Shinohara: the Hokkaido general
+[scene] (p.83) Chats with Ike before the exam about going to Keyaki Mall after — "Ike and Shinohara, who have become a close couple, discuss what to do after school."
+[scene] (p.91) Present at the destination vote; Hokkaido is her camp — she will take the general position in rock-paper-scissors.
+[scene] (p.95–96) Rock-paper-scissors: the Hokkaido team's general; throws par for the second time in a row against Sudō; her par counter ends the Okinawa hopes; the class votes 39-0 for Hokkaido in the third round.
+[note] (p.95) "Definitely Hokkaido! Hot springs and Skiing!" (Hokkaido's chant) and "Definitely Okinawa! Beaches and snorkelling" (Okinawa's chant) are printed untagged team chants; no individual chanter is named in the print; the par-versus-par duel is printed as the decisive moment of the general round.
+
+<!-- walk: y2v5 Ch.4 → p.126 -->
+
+### y2v5 p.172, 206, 219 — Shinohara: the first spear
+[mentioned] (p.172) Eye-contact interrogation — she answered like everyone else.
+[mentioned] (p.206) Kushida: "Shinohara-san is not particularly cute or pretty, or rather a bit ugly, isn't she? Maybe that's why it's so amusing that only ugly boys like Ike-kun and Komiya-kun come on to her." — the first spear wave.
+[mentioned] (p.219) "girls, including Shinohara and Mori, who owed a debt of gratitude to Shinohara, put their hands up" — protects Ike (one of 11 hands).
+
+<!-- walk: y2v5 Ch.8 → p.231 -->
+
+### y2v5 p.29, 98 — Coverage-gate mention records
+[mentioned] (p.29) "Ike's frustration leaking out was the first thing that could be heard. For Ike, who had overcome the fear of being expelled from the school to go out with Shinohara Satsuki, it must be a daunting prospect."
+[mentioned] (p.98) "You're not going to tell me you need money to go on dates with Shinohara, are you?" — Sudō to Ike.
+
+### y2v5 p.207 — Coverage-gate mention record
+[mentioned] (p.207) "In the meantime, Shinohara and Mori and Ike and others continued to force each other to lie about what they had said or didn't say, while Kushida shifted her focus to Haruka."
 
 ## y2v6
 

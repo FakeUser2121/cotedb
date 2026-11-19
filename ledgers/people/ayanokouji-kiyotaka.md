@@ -8940,6 +8940,28 @@ walk: y1v1 → DONE
 [rel:hirata-yousuke] (p.17) Lists festival event options on the monitor.
 [rel:matsushita-chiaki] (p.18) Warns some students won't contribute if they must pay personally.
 
+### y2v5 p.19–28 — Satō's summons; the maid-café audition; Horikita taps him
+[scene] (p.19) Two weeks into September, watches Satō approach Horikita; Satō's pitch passes the filter and Horikita asks her to demonstrate — and then calls on him.
+[says] (p.20) "Me? I don't have any particular plans today."
+[says] (p.22) "This is head and shoulders above any proposal I've seen so far."
+[says] (p.23) "Didn't it take a lot of time and money just to prepare this?"
+[says] (p.25) "No well... I know what you mean, but... I'm sure there are other suitable people."
+[says] (p.25) "Can't deny that."
+[says] (p.25) "I see."
+[says] (p.26) "Wait, wait. You're taking a big leap at once. You're just going to leave it to me?"
+[says] (p.26) "I suppose so."
+[says] (p.26) "I'll head back too then."
+[says] (p.27) "Under Horikita's direction, I've been assigned to direct the performance."
+[says] (p.27) "Well, I don't mind. If I have plans, I'll make myself available."
+[trait] (p.19–28) Gets recruited into the maid-café project against his will — Satō tests Horikita's interest with a live demonstration and pulls him along as a surprise customer; Horikita then hands him the boys'-side selection and budget management, against his own protests; Chabashira-sensei finds the assignment hilarious ("Horikita makes some pretty interesting suggestions") and asks him to give her a few minutes of his time next time he's free.
+[rel:horikita-suzune] (p.19–28) She drafts him to handle the boys' side of the maid café; keeps the information pool minimal; taps his organizational sense.
+[rel:satou-maya] (p.19–22) She invites him to the demonstration; her elaborate preparation impresses him.
+[rel:matsushita-chiaki] (p.22–23) Met at the demonstration; impressed by her cost breakdown.
+[rel:chabashira-sae] (p.26–27) Runs into her at the special building; she asks for his time; he agrees to make himself available.
+[rel:maezono] (p.22, 25) On guard duty at the demonstration; waves happily at them afterwards.
+
+<!-- walk: y2v5 Ch.2 → p.28 -->
+
 ### y2v5 p.29–44 — The Unanimous Voting Exam briefing
 [scene] (p.29) In homeroom, Chabashira announces a surprise special exam *before* the sports festival — held only for second-years, tomorrow.
 [trivia] (p.31–42) The "Unanimous Voting Exam": 5 questions, up to 4 options each; all 39 classmates vote anonymously (60 seconds); not unanimous → 10-minute discussion → revote; 5-hour limit; 90 seconds cumulative overtime penalty = expulsion; 50 class points for clearing, −300 for failing; protection points disabled; phones collected; binding agreements/money exchanges forbidden.
@@ -8982,6 +9004,41 @@ walk: y1v1 → DONE
 [rel:horikita-suzune] (p.56–59) Comes to his room for advice on the exam; their closeness has grown dramatically.
 [rel:karuizawa-kei] (p.56) Gracefully yields the elevator to Horikita, judging she's no romantic threat.
 
+### y2v5 p.60–61 — Horikita stays to message; the warning
+[scene] (p.60) In his room, Horikita warns him that the class is not truly united as one — naming Kushida ("she'll lie about everything") and Kōenji (he might vote differently if his "vicious nature" shows) as the likely dissenters.
+[says] (p.60) "You mean the existence of Kushida-san and Kōenji-kun." — unmarked line, narrator's voice answering Horikita
+[says:horikita-suzune] (p.60) "As for the former, I'm sure she'll lie about everything, and as for the latter, he might even dare to vote for someone different from his classmates if his vicious nature shows through."
+[says:horikita-suzune] (p.61) "Anyway, I've got my message across. Good luck with the special exam tomorrow."
+[note] (p.60) "You mean the existence of Kushida-san and Kōenji-kun." — the line is the narrator's spoken reply, printed untagged; kept as adjacent-voice attribution.
+[trait] (p.60–61) Horikita senses the changes in him ("Hey, why did you tell me all the details? It's weird."); he deflects with praise ("I decided that the current Horikita would be flexible enough to listen to me..."). She exits to handle a phone message (unknown recipient).
+[rel:horikita-suzune] (p.60–61) He warns her about Kushida and Kōenji before the exam; her signing-off line shows the intimacy that frustrates her.
+
+### y2v5 p.62–65 — The pre-exam war council in his room
+[scene] (p.62) Around 6 p.m., summons Yōsuke and Kei to his room; Kei arrives as a surprise; they sit down to plan tomorrow's Unanimous Voting Exam.
+[says:hirata-yousuke] (p.62) "I mean, I guess the fact that it's easy means that there's a good chance that we'll be presented with a question that will divide opinions."
+[says] (p.63) "From now until you graduate, you will only be able to eat either rice or bread. Make your choice."
+[says] (p.65) "It could be a sudden illness or an unexpected withdrawal from school, right?"
+[says] (p.65) "Also, I'm going to set some instructions and cues that only Kei and Yōsuke will know."
+[trait] (p.62–65) Builds the shadow-support system for Horikita's leadership — arms Yōsuke and Kei with secret cues (coughing, tapping) for the 10-minute intervals; warns Yōsuke that if under 2 hours remain and the exam isn't clearing, "you might have to resort to forceful measures"; insists they keep the meeting confidential and support Horikita from the shadows.
+[rel:hirata-yousuke] (p.62–65) Recruits him as Horikita's shadow support; gives him the "forceful measures" contingency instruction.
+[rel:karuizawa-kei] (p.62–65) Recruits her to the same shadow system.
+[rel:horikita-suzune] (p.64–65) "Just keep what goes on here confidential" — the class does not know she is being supported.
+
+### y2v5 p.66–69 — The Chairman's call: guests at the festival
+[scene] (p.66) Shortly after 10 p.m., a call from Chairman Sakayanagi; he reveals unannounced guests ("government officials and their families") are coming to the sports and cultural festivals — and Ayanokōji's father may be involved.
+[says] (p.66) "I'm glad to hear you're doing well."
+[says] (p.66) "It just so happens. If he had been serious, I wouldn't still be here right now."
+[says] (p.66) "It's nothing for the chairman of the board to apologise for. I'm sure the students are looking forward to it."
+[says] (p.67) "Guests of honour at a sports festival?"
+[says] (p.68) "Even if I were to follow Chairman Sakayanagi's instructions, it would be unnatural for a student to have a monitoring officer."
+[says] (p.69) "Can you give me some time to think about it?"
+[says:sakayanagi-arisu] (p.69) "Yes. I'll ask you to answer a week before the sports festival. We have some preparations to make too."
+[note] (p.67–69) The suggestion is that he sit out the sports festival on sick leave while trusted observers from the school watch him — he is told his father may be among the guests; he doesn't accept on the call.
+[rel:sakayanagi-arisu] (p.66–69) The Chairman calls him personally about the guests; offers dormitory sick leave with an observer posted outside; Ayanokōji asks for a week to think.
+[rel:tsukishiro] (p.66) Acting Director mentioned — "Tsukishiro, who had been filling in as Acting Director for Chairman Sakayanagi"; Ayanokōji has kept his presence low despite both men knowing.
+
+<!-- walk: y2v5 Ch.3 → p.75 -->
+
 ### y2v5 p.78–84 — Exam day: pre-vote analysis; the "spread the votes" strategy
 [scene] (p.78) On the day of the Unanimous Voting Exam, observes the class; Chabashira notes a teacher who interferes with the exam's nature would be questioned.
 [inference] (p.82–84) Reaffirms the pact with Horikita: he votes for the first option in round one to prevent accidental unanimity and gauge true class opinion; the exam allows one hour per question, and the greatest danger is a question that divides the class; realizes there's no room for cheating (anonymous votes, snooping impossible) — unanimity is everything.
@@ -8997,12 +9054,28 @@ walk: y1v1 → DONE
 [rel:ishigami-kyou] (p.95) Keisei volunteers for rock-paper-scissors to break the Q2 tie, loses.
 [rel:sudou-ken] (p.92) Votes for Okinawa because of the ocean; angry that his view was overridden.
 
+### y2v5 p.91–96 — Question 2: the school-trip vote; rock-paper-scissors to the finish
+[scene] (p.91) Chabashira announces Q2: choose a late-November school-trip destination; first round splits 17 Hokkaido / 3 Kyoto / 19 Okinawa — no unanimity, interval follows.
+[scene] (p.91–94) The interval devolves into an Okinawa-vs-Hokkaido shouting match (Sudō vs Maezono); Yōsuke extracts Horikita's audience-facing advice; second round barely shifts (18 Hokkaido / 4 Kyoto / 17 Okinawa); a rock-paper-scissors contest is proposed to break the deadlock.
+[scene] (p.95–96) Keisei voluntarily takes the single Kyoto seat and loses within ten seconds; the general standoff ends in a par between Sudō and Shinohara; the Hokkaido group's suspicion lands on Sudō; third vote is 39-0 for Hokkaido — a clean unanimous clear.
+[says:hirata-yousuke] (p.92) "The first time, it was more or less a split between Hokkaido and Okinawa, so what are we going to do now?"
+[note] (p.92) Printed untagged but tied to Yōsuke by adjacent narration ("Wary of getting distracted, Yōsuke pulls the entire class back together.").
+[says:hirata-yousuke] (p.93) "That's a bit... secret... isn't it?"
+[note] (p.93) Printed untagged; tied to Hirata by the surrounding "Hirata-kun picked Hokkaido, right?" / "Hey Hirata, you chose Okinawa, didn't you?" exchange and his "W-Well, I mean..." reply.
+[mentioned] (p.95) The Hokkaido team is women (Maezono, Ishikura, Shinohara); the Okinawa team is mixed (Onodera, Hondō, Sudō); Keisei represents Kyoto alone.
+[trait] (p.91–96) Watches the class solve the dispute through process rather than coercion — the Kyoto minority voice (Keisei) is the one volunteering first; the moment of being outvoted by "39-0" leaves about half the class "dissatisfied"; he notes his own desire for Kyoto (deep history) loses and resigns himself to Hokkaido.
+[rel:sudou-ken] (p.95–96) Sudō throws a powerful par for Okinawa and gets berated for costing the class the unanimity en route to the Hokkaido sweep.
+[rel:ishigami-kyou] (p.95) Keisei steps up first for the hopeless Kyoto case, loses instantly, and Horikita sighs — AK is convinced she wanted Kyoto too.
+[rel:shinohara-satsuki] (p.95–96) She throws par for the second time in a row and takes Hokkaido.
+[rel:hirata-yousuke] (p.92–93) Yōsuke mediates; Hirata dodges the two camps simultaneously.
+
 ### y2v5 p.97–104 — Question 3: protection points; Keisei's "upfront investment" argument
-[trivia] (p.97–98) Q3: choose among (1) give up protection points, (2) halve private points for 6 months to protect one student, (3) similar — bottom-five students lose private points for 6 months regardless. First vote: 12 grant 3 random, 5 grant 1 chosen, 22 grant none.
+[trivia] (p.97–98) Q3: three options, all involving protection points — (1) monthly private points reduced to zero; three RANDOM students receive a protection point each; (2) monthly transfers halved for six months; a SPECIFIC student receives a protection point; (3) no protection points; the bottom five in the next written exam receive zero private points; forfeiture lasts six months. First vote: 12 in favour of three random, 5 of one specific, 22 of none.
 [note] (p.100) Keisei argued that with class points set to rise over the next six months, the lost private points are an investment in the future.
-[says] (p.103) "This option will result in losing half of our private points for six months."
+[says:horikita-suzune] (p.103) "This option will result in losing half of our private points for six months."
+[note] (p.103) Printed untagged; continuation of Horikita's "I understand what you're saying, but... it's an expensive purchase." (p.102) — attributed by alternation, not name-tagged in the print.
 [says:kouenji-rokusuke] (p.103) "For the amount of protection points we give up, we can have the Horikita girl work harder than anyone else."
-[inference] (p.100–104) Keisei reframes lost private points as an "upfront investment" — with +300 class points by semester's end, transfers rise ~50% (~20M), so a protection point is worth ~7M private points; Kōenji unexpectedly supports it; Ayanokōji agrees despite personally preferring options 1/3, since opposing without a good reason would be "for the good of the class" only in name; the class votes 39 to grant one protection point to Horikita.
+[inference] (p.100–104) Keisei pitches the math ("Fifty for this special exam, and a hundred points if we place high in the cultural festival... you might have more than 200 points, or even 300 points depending on the situation"); the narrator computes ~20M given out in six months at +300 points; a protection point's max value ≈ six months of class points income; the option-two (one specific student) pitch lands after the three-random-students angle cools — the print's option-two pitcher is credited to both "Yukimura-kun" (Horikita's address, p.101) and to Keisei ("according to Keisei", p.102; "Keisei's idea was adopted", p.103) — the Keisei/Yukimura swap defect again; Horikita volunteers as the specific student; the class grants her the protection point unanimously; Kōenji approves the "upfront investment" framing; Ayanokōji agrees despite privately preferring options one or three — opposing without a good reason would be empty.
 [rel:ishigami-kyou] (p.100–103) Keisei's strategic argument wins over the class; Ayanokōji admires its logic.
 [rel:horikita-suzune] (p.104) Unanimously granted a protection point — a purchase that was not cheap but not too expensive
 [rel:kouenji-rokusuke] (p.103) Unexpectedly backs Keisei's plan — he wants Horikita to "work harder."
@@ -9023,6 +9096,29 @@ walk: y1v1 → DONE
 [rel:karuizawa-kei] (p.121) His cough prompts Kei to ask Horikita if she knows who's voting in favour.
 [rel:sudou-ken] (p.109–113) Suspects Kōenji and lashes out; Ayanokōji notes the danger of mob justification (rationalizing expelling whoever is "holding back the class").
 [rel:hirata-yousuke] (p.112) Makes the heartfelt appeal not to cut off classmates for points.
+
+### y2v5 p.116–126 — Question 5 continues: the deal with Kōenji; Chabashira's old story
+[scene] (p.116–120) Horikita publicly leads; Yōsuke appeals to reason ("You shouldn't choose to cut off your classmates..."); Sudō rages at Kōenji; Kei notices Horikita may know someone and gives her the hint; in round five, Kōenji confirms he's been voting "in favour" all along (private points) and strikes a deal with Horikita — 10,000 private points monthly until graduation if he votes against.
+[says:sudou-ken] (p.117) "Definitely Ryūen's class, they're going to cut out the right guy, aren't they?"
+[note] (p.117) Printed untagged; tied to Sudō by adjacent narration ("Sudō says without hesitation, crossing his arms at the back of her head.").
+[says:kouenji-rokusuke] (p.120) "Well, well, it looks like things aren't going to be easy."
+[note] (p.120) Printed untagged; alternation with Horikita's "As I said..." line (whose terms are hers) and with Kōenji's later "I know, I know..." — kept as adjacent-context attribution.
+[scene] (p.121–123) Kei pushes Horikita to speak up; Horikita asks Karuizawa about anyone unhappy with the class; Kushida is asked the same question (she suspects no one is unhappy enough); the votes hold at 1 in favour / 38 against (rounds 6, 7, 8); the eighth interval begins — more than an hour into Q5.
+[scene] (p.124–125) Chabashira stumbles and nearly falls at the podium; asks to tell an old story; reveals she took this exact exam eleven years ago; the monitor lets her finish; a ninth vote is cast — 1 in favour / 39 against (print anomaly; 39 + 1 ≠ 39; kept as printed).
+[scene] (p.126) The ninth vote locks at 1 in favour / 39 against; the print itself notes "This is the real truth that only I, or perhaps only two people including Horikita, are aware of." — the persistent "in favour" vote is attributed in the print to one unseen person; the two-hour deadline approaches.
+[says:kouenji-rokusuke] (p.116) "Very well, it's getting interesting in this special exam. This is quite enjoyable."
+[note] (p.116) Printed untagged; named via adjacent narration ("Kōenji started laughing with amusement...").
+[says:kouenji-rokusuke] (p.119) "Of course... I have no idea what you're talking about. Think about how this school works."
+[note] (p.119) Printed untagged; named via adjacent narration ("Hmm... Closing his eyes, Kōenji nodded deeply...").
+[says] (p.120) "I know, I know. If the vote is unanimous in favour, or if the time runs out, I'll just give up."
+[note] (p.123) The printed ninth-round table reads "1 in favour / 39 against" — 40 votes for 39 voters, a print anomaly; kept as printed (see p.124–125).[trait] (p.116–126) Plays his pre-laid plan with the subtlest of touches (coughs between intervals as cues); watches Horikita refuse to name anyone while the ninth vote locks at 1/38; records that only he — and possibly Horikita — know who the lingering "in favour" voter is; does not name them in the narration.
+[rel:horikita-suzune] (p.116–126) She will not name the other "in favour" voter even when time demands it; her dilemma is the story's center.
+[rel:kouenji-rokusuke] (p.116–120) He flips for a deal; his flip doesn't produce unanimity — one person remains.
+[rel:karuizawa-kei] (p.121) Talks Horikita through the moment; notices Horikita may suspect someone.
+[rel:kushida-kikyou] (p.122–123) Asked whether anyone is unhappy enough to vote "in favour"; she suspects no one.
+[rel:chabashira-sae] (p.124–125) Her old story buys the class words to face the exam without regret.
+
+<!-- walk: y2v5 Ch.4 → p.126 -->
 
 ### y2v5 p.171–181 — The final battle: pushing the vote to unanimity "for"
 [scene] (p.171) As the ninth round ends with the single unseen "for" vote unchanged, Horikita goes down the row asking each classmate to raise a hand if they voted "against" — all but Kōenji do; she personally visits everyone, even Ayanokōji, but nobody confesses.
@@ -9067,6 +9163,8 @@ walk: y1v1 → DONE
 [rel:ishigami-kyou] (p.227) Keisei walks away, unable to say he did right or wrong.
 [rel:nanase-tsubasa] (p.228) Warns her not to get desperate after her true nature is exposed (no one speaks to her).
 
+<!-- walk: y2v5 Ch.8 → p.231 -->
+
 ### y2v5 p.232–239 — Rooftop with Chabashira: her confession, his cold logic
 [scene] (p.232) Meets Chabashira on the rooftop stairs as promised; she leads the way to the roof, where she leans on the railing against the sunset and confesses the story of her own third-year special exam (a confession).
 [says] (p.232) "By the way, did it end the way you wanted it to? Or was it the other way around?"
@@ -9080,6 +9178,31 @@ walk: y1v1 → DONE
 [rel:chabashira-sae] (p.232–239) Confides in him; they "make a deal with the past" — she resolves to graduate her class from Class A, "unlike before," having grown through the exam; he notes her mind has finally caught up to her current age.
 [rel:sakura-airi] (p.237–238) Discusses his choice of her for expulsion with Chabashira — he knew she had "special feelings" for him and used her personality.
 [rel:horikita-suzune] (p.237) Says Horikita "had the power to make change" but not enough time — she's the one who nearly saved Kushida.
+
+<!-- walk: y2v5 Ch.9 → p.239 -->
+
+### y2v5 p.70–74, 161, 184–191, 241–242 — Coverage-gate mention records
+[mentioned] (p.70) Yagami plays the briefing recording for Kushida and names the targets: "Kushida-senpai wants to crush Horikita Suzune and Ayanokōji Kiyotaka. That's what it was about, wasn't it?"
+[mentioned] (p.161) Tokitō invokes the year-1 rooftop incident: "Last year, during the incident on the rooftop, when Ayanokōji had a dispute with Ryūen."
+[mentioned] (p.184) Kushida confesses her regret re Horikita and Ayanokōji: "I certainly understand what Horikita and Ayanokōji were saying."
+[mentioned] (p.185) "I think... and I think Ayanokōji, who was the leader of this special exam, Horikita-san... who urged people to vote in favour, should take responsibility for that." — Kushida names him.
+[mentioned] (p.186) Kei's fury at his exam leadership: "Why should Kiyotaka have to be expelled? You were about to run out of time, so you just said let's put it in the same disgusting way and agree."
+[mentioned] (p.189) "I won't let that happen. Taking responsibility also means stopping those opposing votes. If the time comes, I will make Kei vote yes. Do you understand?" — Kushida challenges him.
+[mentioned] (p.241) PrinceYG's credit: "it was enjoyable to see Kiyotaka openly take the wheel for once."
+[mentioned] (p.242) Amadeus's credit: "We finally got bitch Kushida exposed; as well Ayanokouji! The class now knows he is ruthless."
+[mentioned] (p.242) Amadeus: "the impending implusion of the Ayanokōji Group."
+
+### y2v5 p.161 — Coverage-gate mention record
+[mentioned] (p.161) "The story was that Ishizaki had defeated Ryūen and temporarily took control of the class. Tokitō cited that incident." — the year-1 rooftop incident Ayanokōji was part of; named here.
+
+### y2v5 p.71–74, 187 — Coverage-gate mention records
+[mentioned] (p.71) "you to know that Horikita-senpai has been entrusted with this role." — Yagami.
+[mentioned] (p.72) "He then explains how she can corner Horikita and Ayanokōji in that question." — Yagami on the setup.
+[mentioned] (p.73) "my hobby to try different things without Ayanokōji-senpai noticing." — Yagami, on his hobby.
+[mentioned] (p.74) "I want to expel Horikita, I want to expel Ayanokōji. I'm definitely going to get them expelled...!" — Kushida's vow.
+[mentioned] (p.187) "I can't agree with Kiyopon or Horikita's expulsion from the school right now. Because I think they should be listened to first, not because of my personal relationship." — Haruka.
+
+<!-- walk: y2v5 Ch.6 → p.167 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

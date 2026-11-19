@@ -703,6 +703,15 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [trait] (p.127–138) The "general advisor" who quietly supported the class but can no longer endure its lack of crisis awareness — deliberately votes "for" repeatedly to force debate, names "normality bias," and offers himself for expulsion as the only way to shake the class; after hours of deadlock he finally gives up and chooses to protect his classmates, letting the vote become unanimous against.
 [rel:ichinose-honami] (p.131–132) Her refusal to weigh points against friends defeats him; he calls her class's kindness its "major disadvantage."
 [rel:hoshinomiya-chie] (p.127–135) His teacher — the only one who listened to his plea but couldn't sympathize publicly.
+
+<!-- walk: y2v5 Ch.5 → p.139 -->
+
+### y2v5 p.139, 241–242 — Coverage-gate mention records
+[mentioned] (p.139) "exam, Kanzaki quietly got up from his seat and walked out of the room." — Kanzaki exits; the special exam concludes for his class.
+[mentioned] (p.241) "my favourite chapter was 'Ichinose's Choice' even though it was more so Kanzaki's choice. I'm super excited to see how he progresses with this challenge." — Prince's credit.
+[mentioned] (p.242) "Oh, and just F for Kanzaki. It seems like Yagami and Nagumo will become involved in the upcoming volume's more, as a result of their absence in this one, which I'm rather excited to see how Kiyotaka handles." — Rhymar's credit.
+[mentioned] (p.242) "Kanzaki's classmates are a bunch of retards. I have a soft spot for Ichinose though." — Amadeus's credit.
+
 ## y2v7
 
 <!-- walk: y2v7 → start -->

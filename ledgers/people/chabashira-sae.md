@@ -1425,6 +1425,41 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:hoshinomiya-chie] (p.7) Her best friend "Chie," who angrily grabbed her in the nightmare — they were on opposite sides.
 [note] (p.8) The "companion" is unnamed in these pages; the text describes him as an irreplaceable friend and opposite-sex person — no roster id assigned (no name on the page).
 
+<!-- walk: y2v5 Ch.1 → p.8 -->
+
+### y2v5 p.13–16 — Chabashira announces the second-semester events
+[scene] (p.13) Arrives in homeroom looking the same as the first semester; outlines a packed second semester — an October sports festival, a November cultural festival (the school's first), midterm and final exams, plus a school trip.
+[says] (p.13) "In this second semester, there are a few big events coming up for you guys."
+[says] (p.13) "And in November, we will be holding a cultural festival, which will be our first cultural festival in the history of Advanced Nurturing High School."
+[says] (p.13) "Furthermore, in between these events, there will of course be midterm and final exams."
+[says] (p.14) "The cultural festival will be held with a large number of guests."
+[says] (p.15) "It is possible that there will be conflicts with other classes and grades regarding the location of the stall, but only one class per location can use that location."
+[says] (p.15) "The school will not disclose which class will be doing what kind of performance or where the stalls will be until the day of the festival."
+[says] (p.15) "If the information is leaked, you should expect to be faced with consequences."
+[says] (p.15) "If there's something you can't get on the premises, you can apply for and get it from outside if you gain permission."
+[says] (p.16) "These are the descriptions of the cultural festival and its rules."
+[trivia] (p.14) Cultural festival: second-years get 5,000 private points each (first-years 5,500; third-years 4,500), usable only for the festival; extra funds for student-council/club contributions; 100 class points for 1st–4th place, 50 for 5th–8th, none for 9th–12th; unused funds confiscated.
+[trivia] (p.15) Stall locations cost points (Main Gate 1 = 10,000); one class per location; conflicts settled by bidding war to the school; stall details secret until the day; outside items allowed with permission.
+[trait] (p.13–16) Straightforward and professional — no drama in the delivery; explains the cultural festival first precisely because preparations need two months; Ayanokōji notes the straightforwardness makes him suspect there is more to it.
+[rel:ayanokouji-kiyotaka] (p.13–16) Delivers the briefing; he notes she looks the same as first semester and suspects a hidden "more to it."
+
+### y2v5 p.26–27 — Chabashira checks in on Ayanokōji after the maid-café reveal
+[scene] (p.26) Catches Ayanokōji at the special building as Satō's demonstration winds down; remarks on the performance and what they're planning.
+[says] (p.26) "You've seen Satō and the others?"
+[says] (p.26) "Not a bad idea."
+[says] (p.27) "I was wondering how you were doing personally, so I thought I'd come check on you. How have things been going?"
+[says] (p.27) "Ayanokōji leading a maid café...?"
+[says] (p.27) "Horikita makes some pretty interesting suggestions."
+[says] (p.27) "As for understanding otaku culture, that may be true."
+[says] (p.27) "That's why it's important for you to supervise them."
+[says] (p.27) "You've got to be hungry for the opportunity to learn something other than studying."
+[says] (p.27) "Ayanokōji. Next time you're free... can you give me a few minutes of your time?"
+[says] (p.27) "I'll send you a message soon. Would that be okay?"
+[note] (p.26–27) "Ayanokōji leading a maid café...?" is followed by "Chabashira-sensei laughed somewhat mirthlessly as she gave me a pitiful look." — adjacent-narration attribution; kept as printed.
+[rel:ayanokouji-kiyotaka] (p.26–27) She asks for a few minutes of his time; he agrees, though she gives no reason on these pages.
+
+<!-- walk: y2v5 Ch.2 → p.28 -->
+
 ### y2v5 p.29–44 — Chabashira: the Unanimous Voting Exam briefing
 [says] (p.29) "Before the sports festival in October, you will have to undergo a new special exam."
 [says] (p.30) "The school is giving you the recognition you deserve; you second years have performed very well."
@@ -1436,6 +1471,25 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [trait] (p.29–44) Professional and quietly proud — frames the exam as recognition of the second-years' strong performance, walks the class through examples, and stresses the anti-collusion and overtime-expulsion rules; Ayanokōji senses she's inwardly happy (her "sweet side" showing more than ever).
 [rel:ayanokouji-kiyotaka] (p.29–44) Delivers the exam; he reads her restrained pride.
 [rel:horikita-suzune] (p.30–31) She calmly accepts the risk-as-benefit framing, winning approval.
+
+<!-- walk: y2v5 Ch.3 → p.75 -->
+
+### y2v5 p.76–81 — Chabashira's morning (her POV): the mirror, the exam nerves
+[scene] (p.76) At 6 a.m. the alarm clock kept for ten years tumbles off the mini-table; the battery cover taped on with cellophane tape; sleep deprived, dark circles under her eyes; she applies makeup; the skin's elasticity is gone; eleven years since she saw "him."
+[says] (p.76) "It's already six o'clock..."
+[says] (p.76) "I'll be more careful tomorrow, so forgive me."
+[says] (p.77) "Calm down. This isn't my fight. The situation is different from that time. I'm sure my current class will be able to get through this without a hitch."
+[says] (p.77) "Prepare yourself..."
+[scene] (p.78) Morning meeting with the four homeroom teachers (Ikari-sensei auditing); Hoshinomiya-sensei (Chie) questions why homeroom teachers remain assigned to their own class (previously shuffled); Sakayanagi-sensei answers it's the fundamental decision of the top brass; Ikari-sensei explains the exam's reach.
+[says] (p.78) "Um, I know it's a little late, but do you have a minute?" — Chie's line; adjacent-attributed
+[says] (p.78) "In this special exam, our teachers' utmost concern should be to not intervene in the exam." — Ikari-sensei's line; printed untagged in the print; named via the auditing narration
+[scene] (p.80) Outside the staff room Chie confronts her: "It's finally here, Sae-chan... You couldn't sleep last night because you were thinking about the special exam, right?" — "Sae-chan doesn't have the qualifications to aim for Class A. Never forget that." She cannot lift her head until the corner.
+[says] (p.80) "This class has nothing to do with me. It doesn't matter if the students clear it easily or not."
+[note] (p.76–81) The print carries the drop-cap style at the chapter head; translator credit changes mid-volume in this book (PrinceYG#6558 pp.1–28 and pp.76–167 and pp.232–243; Rhymar#7433 pp.29–75 and pp.168–231) — kept as printed; see the volume's notes.
+[note] (p.78–79) "Sakayanagi-sensei" (a teacher at the morning meeting) is not on the roster — two lines are printed under him; no roster id assigned; owner to resolve (ambiguous with sakayanagi-arisu and sakayanagi-narimori).
+[trait] (p.76–81) Eleven years since she saw "him"; applies makeup with trembling hands; lies to herself that "This isn't my fight." — the mirror tells the truth; Ikari-sensei warns the teachers to not intervene ("advice" = warning, repetition = pay cut; malicious intervention = demotion); her sleep has been wrecked for days.
+[rel:hoshinomiya-chie] (p.78–80) Her oldest sparring partner — Chie spotted the insomnia instantly and needles her with it.
+[rel:ikari-sensei] (p.78–79) Auditing teacher; his warning is formal; his imagery is terrifying.
 
 ### y2v5 p.106–125 — Chabashira's collapse; her old story
 [scene] (p.106) As the final question begins, her complexion has visibly worsened over the exam; Hirata asks if she's okay, but she denies it, unaware (or unwilling to admit) her own condition.
@@ -1449,6 +1503,8 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [trait] (p.106–125) Visibly ill but determined — stumbles and nearly falls at the podium; risks punishment by telling an "old story" (she took this same exam 11 years ago, the last question identical) — offering not guidance but heartfelt advice to choose without regret; the monitoring teacher lets her speak to the end.
 [rel:ayanokouji-kiyotaka] (p.106–125) He notes her condition is tied to the final question (her own trauma); she provides the students words to face the exam.
 [rel:hirata-yousuke] (p.106) He asks if she's okay; she brushes it off.
+
+<!-- walk: y2v5 Ch.4 → p.126 -->
 
 ### y2v5 p.232–239 — Chabashira's confession on the roof: a farewell to the past
 [scene] (p.232) Meets Ayanokōji on the rooftop stairs (as promised at 6 p.m.), unlocks the roof and leans on the railing, stressed after the exam; offers her "confession" (the "Sacrament of Forgiveness").
@@ -1466,6 +1522,36 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [rel:ayanokouji-kiyotaka] (p.232–239) Confides in him and accepts his blunt analysis; admits she could never make decisions "without hesitation" as he does.
 [rel:hirata-yousuke] (p.234) Her old lover was "a combination of Hirata and Ike" — leader and mood-maker.
 [rel:sakura-airi] (p.237) Asks whether he could have saved Sakura.
+
+<!-- walk: y2v5 Ch.9 → p.239 -->
+
+### y2v5 p.70–242 — Coverage-gate mention records
+[mentioned] (p.70) Yagami plays the recording of Chabashira's briefing for Kushida: "Yagami pressed the play button and heard Chabashira's voice in the middle of the explanation, giving an overview of the special unanimous voting exam announced for the second-year students."
+[mentioned] (p.83) "On the side of the podium, the facilitator of this special exam, Chabashira-sensei, and the teacher in charge of monitoring, are stationed at the back of the classroom."
+[mentioned] (p.85) "I thought so, but Chabashira-sensei just stood there and stared at the students absentmindedly."
+[mentioned] (p.88) "While checking the time, Chabashira-sensei resumed the proceedings that had been halted."
+[mentioned] (p.91) "the voices were quickly drowned out by the sharp stares of Chabashira-sensei."
+[mentioned] (p.96) "Now, let me move on to the third question." Chabashira-sensei's demeanor hadn't changed since the beginning, but there was a slight change in the tone of her voice.
+[mentioned] (p.171) "Even Chabashira-sensei, who announced the standard phrases, showed signs of fatigue."
+[mentioned] (p.175) "Chabashira-sensei was momentarily at a loss for words."
+[mentioned] (p.181) "Chabashira-sensei muttered to herself as if she were prepared for everything and continued on her way."
+[mentioned] (p.188) "It seemed that all the votes had been cast in about 30 seconds, and Chabashira-sensei displayed the results on a monitor."
+[mentioned] (p.195) "Chabashira-sensei informed us of the time."
+[mentioned] (p.198) "If I were to get a confirmation from Chabashira-sensei, I can say that I know the flow of points at this moment, and you can't avoid that the situation will be bad at once."
+[mentioned] (p.198) "There is some skepticism as to whether the teacher, Chabashira, is aware of the transfer of points between individuals at any time, and whether she would leak personal information."
+[mentioned] (p.200) "If you want, I can ask Chabashira-sensei to bring my phone now."
+[mentioned] (p.200) "You know what Chabashira-sensei said. Private points are for your own protection-"
+[mentioned] (p.221) "Staring at Chabashira-sensei, Haruka makes a formal statement."
+[mentioned] (p.226) "Chabashira-sensei, who had been watching the fierce exchange, forgot to report the end of the exam and just looked at Airi and Haruka."
+[mentioned] (p.226) "Only if you have 20 million private points at this moment and use them..." — she tries to continue the explanation and stops halfway.
+[mentioned] (p.227) "Airi replies to Chabashira-sensei in a quiet voice, but without hesitation."
+[mentioned] (p.227) "As for Sakura, you will have to come with me to the staff room afterwards, so stay in the classroom."
+
+### y2v5 p.84–225 — Coverage-gate mention records
+[mentioned] (p.84) "Two minutes before the start, the homeroom teacher, Chabashira-sensei, begins to explain."
+[mentioned] (p.87) "Raising her hand, Horikita, who was sitting in front of the Chabashira-sensei, stood up and then turned around."
+[mentioned] (p.225) "raised her voice towards Chabashira-sensei."
+
 ## y2v6
 
 <!-- walk: y2v6 → start -->

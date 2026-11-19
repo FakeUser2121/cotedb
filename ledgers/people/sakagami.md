@@ -261,11 +261,17 @@ aliases used for anchors: sakagami, sakagami-sensei
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — sakagami mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.141, p.143, p.155, p.162, p.165.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.141–166 — Sakagami: Class D's silent referee
+[scene] (p.141) Senses Ryūen approaching and distances himself from the podium; knows this is Ryūen's usual stand-up.
+[says] (p.143) "Yes, it is. We will now have a second round of voting, and you have 60 seconds to cast your votes."
+[says] (p.165) "It's been explained to you in advance, but after sixty seconds, penalty time will accumulate."
+[says] (p.165) "Everyone has finished voting. Now I will announce the results."
+[says] (p.166) "Since the vote was unanimous, the question has been rejected. This concludes the special exam."
+[note] (p.165) Adjacent narration: "Sakagami looked up once and glanced at Tokitō."
+[trait] (p.141–166) Class D's teacher — sits at the back and lets the class run; procedural intervention only; no rescue attempt for Ibuki; does not remark on the class's near-miss.
+[rel:ryuuen-kakeru] (p.141–166) His quiet tormentor; Ryūen's proof that no class is truly manageable by consensus alone.
 
+<!-- walk: y2v5 Ch.6 → p.167 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

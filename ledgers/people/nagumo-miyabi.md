@@ -668,11 +668,12 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — nagumo-miyabi mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.241-242.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.241–242 — Credits: PrinceYG's and Amadeus's staff notes
+[mentioned] (p.241) PrinceYG#6558 (Translator, RoyalMTL): the volume has "almost no students from other grades in this volume" — the first and third years are absent except Yagami; Nagumo is flagged by Amadeus for the next volume ("Nagumo vs Ayanōkoji???").
+[mentioned] (p.242) Amadeus#6844 (Editor/Proof Reader): "Nagumo vs Ayanōkoji??? (Please do more than make your third year sheep stare at him, Nagumo.)" — the staff's wishlist, not story.
+[note] (p.241–242) These are translator/editor staff credits, not story content — no scene presence on these pages.
 
+<!-- walk: y2v5 Afterword → p.243 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

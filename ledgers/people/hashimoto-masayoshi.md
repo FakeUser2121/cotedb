@@ -830,11 +830,15 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — hashimoto-masayoshi mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.168-169.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.168–169 — Hashimoto: Class A's Option 1 voter
+[scene] (p.168) Class A reaches Q5; he is the class's designated "option 1" voter in the first round, and therefore cast the controlled "in favour" vote to keep the round non-unanimous.
+[says] (p.169) "When drawing a quick conclusion, I disagree. However, when I think about it calmly, I feel that 100 class points is surprisingly not ridiculous."
+[says] (p.169) "I just don't want to have to cry about that 100 class points in the future"
+[note] (p.168–169) The print does not tag the controlled "in favour" votes to specific classmates; the print names Hashimoto as "in charge of always voting option 1 first" — option 1 in this question is "for"; whether he cast one of the two controlled "for" votes is a strong but unproven reading; recorded as inference.
+[rel:sakayanagi-arisu] (p.168–169) She probes him before setting policy; he misreads her intent.
+[rel:katsuragi-kouhei] (p.170) Cited — departed Class A (same citation counts Yahiko).
 
+<!-- walk: y2v5 Ch.7 → p.170 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

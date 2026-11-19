@@ -626,14 +626,43 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — miyake-akito mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: none.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.46, 50 — "Miyacchi": the Ayanokōji Group member
+[mentioned] (p.46) Rostered but unsearchable as printed: the text gives "Miyacchi" — "The two guys stood up in agreement with Haruka" (Yukimū and Miyacchi).
+[mentioned] (p.50) "I talked to Yukimū and Miyacchi for a bit and they felt the same as me."
+[note] (p.46) The alias "Miyacchi" is not in the roster aliases cell; the locator cannot find him; spelling/alias question flagged for the owner (see progress2.md).
+[rel:hasebe-haruka] (p.46, 50) Members of her Ayanokōji Group circle.
 
+<!-- walk: y2v5 Ch.3 → p.75 -->
 
+### y2v5 p.118–121 — Akito silences his quiet side
+[scene] (p.118) Quietly contributing through Q5 until now; decides it's finally time to break his silence — warns the class about the 100 points.
+[says] (p.118) "It's unlikely. But it's also possible that missing these 100 class points might make us regret our choice, right?"
+[says] (p.118) "Don't get me wrong. I'm clearly against it."
+[says] (p.118) "I'm of the opinion that the best way to get to Class A is without missing anyone from this class."
+[says] (p.118) "It means that we all need to express our opposition after imagining a future in which this special exam is the turning point when graduation approaches."
+[says] (p.118) "Kōenji. I'm well aware of your success in the island exam."
+[says] (p.118) "Class points aren't the only thing that make up a relationship."
+[rel:kouenji-rokusuke] (p.118) Addresses him directly; Kōenji nods deeply, then banks back with school-logic.
+[rel:hasebe-haruka] (p.118) She pins him on the expulsion question; he deflects with unvoted composure.
+[rel:horikita-suzune] (p.118) His intervention doesn't change the vote but stiffens the room's spine.
 
+<!-- walk: y2v5 Ch.4 → p.126 -->
 
+### y2v5 p.172, 190, 218–227 — Akito: the silent one awakens
+[scene] (p.172) In the eye-contact interrogation — everyone claims against.
+[scene] (p.190) Follows Kei's lead to defend Ayanokōji.
+[scene] (p.218) The lowest-OAA debate — he proposes to argue for the class, not to settle it.
+[scene] (p.219) Raises his hand to protect Airi — "Akito and Keisei also raise their hands."
+[scene] (p.222) Meets Ayanokōji's eyes — "I don't want you to be expelled from school... I can't vote yes."
+[says] (p.222) "I don't want you to be expelled from school... I can't vote yes."
+[note] (p.222) Adjacent narration: "While showing a bitter and agonizing expression, Akito and I look each other in the eye and answer clearly."
+[scene] (p.227) Rush to Haruka when she collapses; forces her to stand with Ayanokōji.
+[trait] (p.172–227) The quietest member of the Group — when the moment demands it, he becomes its heart — refusing to sacrifice Airi; the last to speak, and the one Haruka hears.
+[rel:ayanokouji-kiyotaka] (p.222–227) The only one who answers him with unconditional honesty.
+[rel:hasebe-haruka] (p.219–227) Protects Airi alongside her; catches her when she breaks.
+[rel:sakura-airi] (p.222–227) Refuses to forget her; carries her weight out.
+
+<!-- walk: y2v5 Ch.8 → p.231 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

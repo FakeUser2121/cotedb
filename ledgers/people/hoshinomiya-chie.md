@@ -533,11 +533,45 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — hoshinomiya-chie mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.7, p.9, p.34, p.36, p.78-80.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.78–80 — Chie spots Chabashira's collapse coming
+[says] (p.78) "Um, I know it's a little late, but do you have a minute?" — adjacent narration: the reply addresses "Hoshinomiya-sensei"
+[says] (p.78) "As I recall, the last time this exam was held... 11 years ago, a measure was taken to shuffle the teachers so that they would not be assigned to the same class, right?"
+[says] (p.78) "So why is it that this time the homeroom teacher is still looking after their own class? If you are concerned about fairness, I think you should change it."
+[says] (p.79) "That's what I thought."
+[says] (p.79) "Sure, whatever. I'm somewhat convinced, so please proceed."
+[says] (p.80) "It's finally here, Sae-chan."
+[says] (p.80) "You couldn't sleep last night because you were thinking about the special exam, right?"
+[says] (p.80) "Whatever, just know that Sae-chan doesn't have the qualifications to aim for Class A."
+[note] (p.76–80) "Sae-chan" is her nickname for Chabashira; the personal edge to her lines is openly resentment — not aimed at Chabashira's students, but at Chie's standing as the better-class person.
+[rel:chabashira-sae] (p.78–80) Her oldest sparring partner; the one who spots the insomnia and calls it out.
+[rel:ikari-sensei] (p.78–79) Audits; she provokes, he answers.
 
+<!-- walk: y2v5 Ch.4 → p.126 -->
+
+### y2v5 p.127–139 — Hoshinomiya runs Class B's exam
+[scene] (p.127) Operates her tablet announcing the first-vote results — showing a somewhat disappointed look; the single "in favour" surprises her too.
+[scene] (p.133) Interrupts Kanzaki's final appeal and starts the 60-second timer; the class silence is deafening.
+[scene] (p.135) After another 30+ minutes of stalemate, she opens her mouth — invites them to hear a story from her own school days: she also took this unanimous special exam; the content of the fifth question was exactly the same.
+[says] (p.135) "Actually, when I was a student, I had the same experience as everyone else."
+[says] (p.135) "Because I've also taken this unanimous special exam."
+[says] (p.135) "And the content of the fifth question was exactly the same as now."
+[says] (p.136) "Me? I made the choice to... cut out the unnecessary people, of course."
+[says] (p.137) "I can't say much more because I'm being watched closely behind me."
+[says] (p.137) "I will respect you all, whichever choice you make."
+[says] (p.137) "But definitely don't just make vague and ambiguous decisions."
+[says] (p.139) "Yes, everyone~. The other classes are in the middle of their special exams, so please don't disturb them. The teacher will guide you now, so please get out of your seats quietly."
+[note] (p.138) "The answer given by 40 people was..." — the tally anomaly (39 classmates; the print does not explain the 40th vote); Hoshinomiya in particular was not surprised when the results shifted zero votes. Kept as printed.
+[trait] (p.127–139) Nine years into this teaching career she meets the same question with a heartfelt story that guides nothing — she is the closest thing this school has to a veteran of the exam, and she cannot bend the rules for them; she exits the class quietly and makes no public comment on the anomaly.
+[rel:ichinose-honami] (p.127–139) Her brightest student — the class's beacon; she loves her.
+[rel:kanzaki-ryuuji] (p.127–135) Her "general advisor" who votes against her class; she will not endorse him; she merely watches.
+
+<!-- walk: y2v5 Ch.5 → p.139 -->
+
+### y2v5 p.7 — Coverage-gate mention record
+[mentioned] (p.7) "My best friend, Chie, approaches me with an angry expression and grabs my chest." — Chabashira's nightmare; Chie's first appearance in this volume; the dream's POV.
+[note] (p.9) (p.34) (p.36) (p.82) (p.96) (p.112) (p.114) (p.116) (p.155) (p.161) (p.177) (p.178) (p.180) (p.206) — locator hits on those pages are substring noise: the pattern "chie" matches inside "achieve"/"achievable"/"achieved" — no Chie references exist on those pages.
+
+<!-- walk: y2v5 Ch.1 → p.8 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

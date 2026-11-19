@@ -16,10 +16,7 @@ char_id: ichino-yuyu · role: Manga illustrator · status: minor
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — ichino-yuyu mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.86-88, p.90, p.117, p.127, p.131-132.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.7–243 — Ichino Yuyu: absent from this volume
+[note] (p.7–243) The page locator returned 33 hits, ALL of them "Ichinose" (the Class B leader) or "Ichinose's Choice" — substring noise; ZERO occurrences of Yuyu Ichino exist in this volume's pages.
 
-
-
+<!-- walk: y2v5 Ch.1 → p.8 -->

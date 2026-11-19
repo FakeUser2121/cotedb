@@ -2258,7 +2258,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [trait] (p.182–191) Secretly earned 280,000 points for the exam (most of Class 2-B kept in the dark); wants to hunt down Utomiya (A physical ability — capable of pushing Komiya unnoticed), but Nanase brokers a deal to delay in exchange for a witness in the case; suspicious she's hiding something but accepts.
 [rel:nanase-tsubasa] (p.182–191) Uses her to interrogate Kurachi; agrees to her deal for information.
 [rel:utomiya-riku] (p.190) The suspected attacker — Ryūen wants to confront him directly.
-[rel:komiya] (p.182) Investigating who injured him — a mistake could half destroy the class
+[rel:komiya-kyogo] (p.182) Investigating who injured him — a mistake could half destroy the class
 
 <!-- walk: y2v4.5 ch5 → p.216 -->
 
@@ -2274,6 +2274,12 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v5 → start -->
 
+### y2v5 p.43, 58 — Mentioned: the surveilling power
+[mentioned] (p.43) "The mere mention of it would probably incur a heavy penalty, so even people like Ryūen would be unlikely to make any overt moves." — the anti-collusion rule, and the implicit shadow of Ryūen over the whole class.
+[mentioned] (p.58) "If this had been a dictatorial class like the one led by Ryūen-kun, it might have been easier for us." — Horikita in Ayanokōji's room, p.58; the anonymity point is why even Ryūen can't command a unanimity.
+
+<!-- walk: y2v5 Ch.3 → p.75 -->
+
 ### y2v5 p.140–151 — Ryūen's class: the dictator yields to the majority
 [scene] (p.140) Class D's Q5 first vote is 14 in favour / 26 against — far more "for" votes than other classes; a third of the class initially prioritizes points over a classmate.
 [says] (p.141) "It's been a boring time up to this point, but I guess the school didn't intend for it to be just a game."
@@ -2286,9 +2292,50 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [trait] (p.140–151) Masterfully controls his class — with Q1/Q3/Q4 unanimously decided by his word, he currently allows debate on Q5, forcing students to reveal their "true intentions" through repeated votes and show of hands; though he voted "for" three times, he respects the majority's "against" and changes his vote (because anonymity makes "for" unanimity impractical), explaining to Ibuki he'd otherwise have forced it through.
 [rel:ishizaki-daichi] (p.141–146) His follower — repeatedly asks for instructions, startled by Ryūen's uncharacteristic silence and deference to the majority.
 [rel:ibuki-mio] (p.146) Calls out his out-of-character behavior — suspects he actually wanted the points.
-[rel:kaneda] (p.144–145) One of the "for" voters — argues his value to the class exceeds 100 points, so he can't be expelled.
-[rel:nishino] (p.145) "For" voter — likes the quickest way to get points and doesn't like sneaking around.
-[rel:komiya] (p.142) Urges silent "for" voters to raise their hands so no one is blamed.
+[rel:kaneda-satoru] (p.144–145) One of the "for" voters — argues his value to the class exceeds 100 points, so he can't be expelled.
+[rel:nishino-takeko] (p.145) "For" voter — likes the quickest way to get points and doesn't like sneaking around.
+[rel:komiya-kyogo] (p.142) Urges silent "for" voters to raise their hands so no one is blamed.
+
+### y2v5 p.86, 117 — Ryūen named as the likely "for" wildcard
+[mentioned] (p.86) Q1 opponent question: the class's choices are "Sakayanagi, Ryūen, or Ichinose" (Class A, D, B); Ryūen's class is one of the three.
+[mentioned] (p.117) "Definitely Ryūen's class, they're going to cut out the right guy, aren't they?" — Sudō, mid-Q5; Sudō's read: Ryūen's class will push "for".
+[mentioned] (p.88) Kei: "it wouldn't be funny if we lost to Sakayanagi-san's class" — the feared third outcome of Q2; rewards consideration again.
+
+<!-- walk: y2v5 Ch.4 → p.126 -->
+
+### y2v5 p.152–167 — Ryūen's endgame: Yajima, the bluff, the reveal
+[scene] (p.153) Tenth vote comes at six in favour; Ryūen kicks the back of the podium; thunders that seven are betraying him with their faces.
+[says] (p.153) "You guys can't even vote against me without me telling you what to do?"
+[says] (p.154) "It's you, right? Yajima."
+[says] (p.154) "If I say it's black, it's black. And if I say it's white, it's white."
+[says] (p.155) "I have to admit, he's a bonehead. But even so, I'm not satisfied with it."
+[says] (p.155) "If that's the case, we'll have to make it a unanimous vote in favour."
+[says] (p.161) "Fine. Tokitō, I'll give you a chance. The next vote depends entirely on your one vote."
+[says] (p.161) "Kuku. I turned in those four votes during this interval."
+[says] (p.164) "No, I wasn't. I was giving you a chance to not get expelled."
+[says] (p.166) "You can come at me anytime. And when you do, I'll take you on without mercy."
+[trait] (p.152–167) The master in his room — isolates Yajima by name and breaks her will; stalks the five "in favour" votes; flips four of them mid-interval without anyone noticing; turns his intimidation of the rebel into his salvation; reveals that his plan saved Tokitō, not sacrificed him.
+[rel:yajima-mariko] (p.154) Breaks her publicly.
+[rel:tokitou-hiroya] (p.155–166) The duel — he scores the checkmate and lets him live.
+[rel:shiina-hiyori] (p.164–167) Their implicit chess partnership surfaces.
+[rel:katsuragi-kouhei] (p.160–167) His shadow government; Katsuragi saves Tokitō within Ryūen's own design.
+[rel:ishizaki-daichi] (p.153) His loudest echo.
+[rel:nishino-takeko] (p.147–152) His instructed counterweight.
+
+<!-- walk: y2v5 Ch.6 → p.167 -->
+
+### y2v5 p.87–232 — Coverage-gate mention records
+[mentioned] (p.87) "Ryūen, or Ichinose. The opponent chosen here will not be changed." — the Q1 opponent list.
+[mentioned] (p.90) "All that was left was to hope that Sakayanagi and Ryūen's classes would match up, but since Ichinose's class was sometimes easy to target, there might be three classes competing for her."
+[mentioned] (p.102) "you'd be targeted by Sakayanagi and Ryūen at the very least. It's not surprising to think that those two would try to expel you without mercy." — Keisei's line.
+
+[mentioned] (p.130) "Maybe Ryūen is an exception, but this exam requires unanimous approval from the entire class anonymously." — Ichinose's class discussion.
+[mentioned] (p.139) "That means Ryūen-kun and Horikita-san's classes are still in deliberation, right?"
+[mentioned] (p.170) "The classes lead by Ryūen and Ichinose were also unanimous in their opposition to the proposal."
+[mentioned] (p.174) "from signing contracts with people like Sakayanagi and Ryūen, who will invite them into their classes if they let the time run out, or give them large amounts of private points."
+[mentioned] (p.203) "At one time, you were working with Ryūen to get me and Horikita expelled. Isn't that right?" — Ayanokōji to Kushida.
+[mentioned] (p.232) "In addition, the rooftop is also a disadvantage because it can be used for minor abuses, as Ryūen once did."
+
 ## y2v6
 
 <!-- walk: y2v6 → start -->
@@ -2343,7 +2390,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [says] (p.180) "Shut up. Don't yell so close to me, you little bitch."
 [trait] (p.175–182) Arrives at the student council room with Komiya and Kinoshita (having been tipped off), grabs Yagami by the bangs and exposes him — the GPS on Yagami's watch was off during the "accident" that injured Komiya/Kinoshita; when Yagami snaps and attacks, Ryūen stops the teachers ("Pull back. He's not fucking around") and prepares to fight him, telling him "you're only a punk."
 [rel:yagami-takuya] (p.175–182) He identifies and physically confronts him — "he was playing with fire too much."
-[rel:komiya] (p.176) He brought him — Yagami was behind his injury.
+[rel:komiya-kyogo] (p.176) He brought him — Yagami was behind his injury.
 [rel:ibuki-mio] (p.180) She's knocked down by Yagami; Ryūen helps her up and leaves.
 ## y2v8
 
@@ -2570,8 +2617,6 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [says] (p.176) "Heh. It seems you can't do anything, Sakayanagi."
 [note] (p.172) Ryūen, intent on revenge; he abandoned the face he had at twelve, chasing the revenge.
 
-
-
 ### y2v10 p.9-235 — ryuuen-kakeru mentioned in passing
 [scene] (p.9) Named in this volume.
 [note] (p.9) Passing mention (locator pages: p.8, p.39-41, p.85-87, p.91, p.94-96, p.102; not line-by-line verified; substring false positives possible). Not a scene presence.
@@ -2589,14 +2634,12 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [mentioned] (p.42) Passing mention: "someone like Ryūen or Sakayanagi might easily undertake such merciless tasks" (the expulsion-nomination burden of a losing leader).
 [note] (p.39) The deserted-island contract is referenced, not narrated; no scene, no dialogue.
 
-
 ### y2v10 p.85–86, 91, 96 — Ch.4: Ryūen, the feared rival named
 [mentioned] (p.85) Passing mention: the hypothetical — "If Ryūen-kun’s class were to use that strategy... one person expelled from his class, the addition of Katsuragi-kun has kept their numbers at 40."
 [mentioned] (p.86) Passing mention: "If Ryūen-kun’s class could only get up to 66 points, the other three classes should team up and aim for more."
 [mentioned] (p.91) Passing mention: memory — "When we were at karaoke with Ryūen, Horikita had witnessed the time when I was about to be splashed with orange juice by surprise."
 [mentioned] (p.96) Passing mention: "Ryūen is ruthless to whoever he is up against. He’s always thinking of ways to defeat the enemy’s most capable students."
 [note] (p.85) Rank speculation on these pages: the page places Ryūen's class among the bottom two with Ichinose's.
-
 
 ### y2v10 p.105 — Ch.5: The restroom run-in
 [scene] (p.105) Leaning against the wall beside the entrance with his phone in his hand; snorted a laugh at Hashimoto's refuge habit; they trade barbs about being seen together before the exam.
@@ -2605,7 +2648,6 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [says] (p.105) “If you’re innocent, then act with confidence.”
 [note] (p.105) He's curious, not hostile; the pages never say whether he knows why Hashimoto was there.
 [note] (p.105) He is also Class A; the two of them pass each other at least outwardly civil; neither says why he was there. The pages leave the reason for the restroom encounter unspoken.
-
 
 ### y2v10 p.144–153, 156–161, 172–176, 180–184 — Ch.6: The hidden hand surfaces
 [scene] (p.144) The exam begins; Class C's lead attack lands on his class; he zones out staring at his phone for nearly a minute; classmates freeze; Hoshinomiya intervenes; his decision comes only at the deadline.
@@ -2645,14 +2687,13 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:sakayanagi-arisu] (p.172, 176) The target he's hunting; her counter is gambling-adjacent, his is mathematics.
 [rel:hoshinomiya-chie] (p.144, 145, 176) He treats his homeroom teacher as background noise; she is used to it.
 
-
 ### y2v10 p.202–205 — Ch.7: The victory seen from the window
 [scene] (p.202) Ryūen's class is in high spirits; Ishizaki leaps for joy; Katsuragi walks majestically toward Keyaki Mall; Hiyori watches from the window with a forced smile.
 [scene] (p.204–205) He arrives to find Hiyori pale and thoughtful; her unease about Ryūen's gambles has not landed him in trouble — yet.
 [note] (p.205) He never once appears on these pages; the whole chapter is anchored on his effect, his entourage, and Hiyori's worry.
 
-
 ### y2v10 p.102–120 — Ch.5: passing mentions (locator cross-check)
+[mentioned] (p.102) "you'd be targeted by Sakayanagi and Ryūen at the very least. It's not surprising to think that those two would try to expel you without mercy." — Keisei's line.
 [mentioned] (p.102) Passing mention — The future where I might lose to Ryūen in a direct showdown with a
 [mentioned] (p.120) Passing mention — drop from the top. Ichinose and Ryūen's classes wouldn't profit substantially.
 
@@ -2813,7 +2854,6 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:ayanokouji-kiyotaka] (p.205–209) The target waits beyond Sakayanagi; the two fuse their motives without speaking them.
 [rel:mashima-tomonari] (p.205–209) The witness; he knows what the contract means; he says nothing now.
 [rel:sakagami] (p.205–209) The witness; the Protection Point; he knows what the contract means; he says nothing now.
-
 
 <!-- walk: y2v11 Epilogue → p.223 -->
 

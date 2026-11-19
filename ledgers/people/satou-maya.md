@@ -474,6 +474,39 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [rel:matsushita-chiaki] (p.22–23) Co-planner, dressed as a maid; presents the cost breakdown.
 [rel:asahina-nazuna] (p.22–23) Mii-chan, in a Chinese-style maid outfit; wrote the detailed proposal.
 [rel:maezono] (p.22) Stands guard outside the classroom.
+
+<!-- walk: y2v5 Ch.2 → p.28 -->
+
+<!-- walk: y2v5 Ch.3 → p.75 -->
+
+### y2v5 p.30 — Satō asks about the second-years' special exam
+[scene] (p.30) In class at the Unanimous Voting Exam briefing; leans back in her chair and asks for clarification.
+[says] (p.30) "Does that mean that only us second years will have to face a special exam before the sports festival?"
+
+### y2v5 p.98 — Satō: the bottom-five bracket
+[says] (p.98) "Me neither! If we don't get protection points, we'll only lose five people!"
+[note] (p.98) Printed untagged; tied to Satō by adjacent-order attribution ("Ike and Satō were the first to speak up, as they were students who seemed to fall into the bracket for lowest grades."); the Ike line is the preceding one.
+[trait] (p.98) Realizes the five sacrificed students would come from her bracket — panic, not strategy.
+
+<!-- walk: y2v5 Ch.4 → p.126 -->
+
+### y2v5 p.177, 218, 224 — Satō: the small voice
+[scene] (p.177) Watches Ayanokōji confess to the 12th-round "for" vote.
+[scene] (p.218) Listens more carefully than anyone else — "Satō, who had been listening to me more than anyone else, raised her small hand."
+[says] (p.178) "I'm glad to hear that, but it doesn't matter if we don't know who's"
+[note] (p.178–179) The sentence continues onto the next page ("voting... in favour of it. In the end, when the time is up, we'll just have to come up with a random candidate for expulsion. I'm scared." p.179) across the printed page break — quoted only the in-page fragment.
+[says] (p.224) "Wow, me? I'm not really like that-"
+[note] (p.224) Prompted on whether she'd sacrifice herself — she declines ("Wow, me? I'm not really like that-"); printed untagged; adjacent-context attribution via the vocative "Satō".
+[rel:ayanokouji-kiyotaka] (p.177–224) Watches him closely; asked to sacrifice herself; refuses.
+[rel:horikita-suzune] (p.218) Second-guesses the unseen voter more than anyone.
+
+<!-- walk: y2v5 Ch.8 → p.231 -->
+
+### y2v5 p.26–82 — Coverage-gate mention records
+[mentioned] (p.26) "Still, for now that I've got Satō and Matsushita down. Even though it is still a long way off, the list will need to be compiled in the near future."
+[mentioned] (p.54) "she could be as good as Matsushita, Satō, and Mii-chan." — Satō named third among the maid-café trio.
+[mentioned] (p.82) "Satō sat down to my right. The students began to arrive one after another."
+
 ## y2v6
 
 <!-- walk: y2v6 → start -->

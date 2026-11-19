@@ -1834,10 +1834,67 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — karuizawa-kei mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.10-13, p.19, p.46, p.48-50, p.53-56.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.10–13 — Kei catches up to Ayanokōji on the way to school
+[scene] (p.10) Catches up with him and Sudō on the way to school after he slipped out of the dorm — puffing out her cheeks and pouting, annoyed he didn't tell her he was leaving.
+[says] (p.10) "We were supposed to go to school together, but you didn't tell me you weren't in your room!"
+[says] (p.10) "That's because... I was nervous until the last minute."
+[says] (p.11) "It's not like I'm going to announce it as soon as I get to school."
+[says] (p.11) "Well, that's the thing, isn't it?"
+[action] (p.11) Grins and bumps him on the shoulder with her own when he finally says "We're dating" out loud.
+[action] (p.13) Gathers a group of girls to talk about the summer vacation once at school.
+[trait] (p.10–13) Nervous to make the announcement — teases out the timing, thrilled when he says it first; slips into being annoyed when Sudō gawked at them; quick to assemble her girls at school.
+[rel:ayanokouji-kiyotaka] (p.10–13) Her boyfriend; she wanted to announce the relationship herself but let him speak up first.
+[rel:sudou-ken] (p.10–12) Sudō notices the first-name basis; doesn't get it until "We're dating"; she barely engages him.
+[rel:hirata-yousuke] (p.11–12) Sudō asks her how she got declared when she was with Yōsuke — she deflects ("This is a completely different situation").
+[note] (p.10) Untagged lines in the exchange are assigned by alternation with the narrator's first-person voice ("You never told me you wanted to go to school with me..." is the narrator answering her); kept as adjacent-narration attribution, not name-tagged in the print.
+
+<!-- walk: y2v5 Ch.2 → p.28 -->
+
+### y2v5 p.46–66 — Kei's lunchroom claim; the war council; the text
+[scene] (p.46) Rushes to the lunchroom to claim him as her priority in front of the whole class (all 37 students looked at them at once).
+[says] (p.46) "Kiyotaka! Lunch, let's go."
+[says] (p.46) "Sorry guys, I'm going to eat with Kei today." — his line; untagged in the print, adjacent to her approach
+[says] (p.46) "It's not really a rule to not interrupt, is it? Didn't you hear Kiyotaka's refusal just now?"
+[says] (p.46) "Sorry, but I'm his girlfriend and I'm his priority, you know?"
+[scene] (p.56) Walks him back to the dormitory from Keyaki Mall; parts with him at the elevator good-humouredly — Horikita gets the floor.
+[scene] (p.62) Arrives for the pre-exam strategy talk in his room; surprised it's happening at all; recruited for the shadow-support system.
+[says] (p.62) "It's kind of new or unusual to get together like this, isn't it?"
+[says] (p.63) "I would definitely eat bread. I wouldn't be able to eat no bread until I graduated."
+[says] (p.63) "No, I wouldn't. Because it's a ban until you graduate. I'll keep voting for bread."
+[note] (p.51) Her text message: "I'll be waiting for you at Keyaki Mall afterwards. It was hard for me to dig up all the answers!" — printed in message brackets; kept verbatim as the print shows it.
+[mentioned] (p.48–55) Named constantly by Haruka and Airi's group as the "flashy" rival; her lunchtime crying-through moment referenced.
+[trait] (p.46–66) Public, possessive and a bit embarrassed — claims him in front of everyone; face turns red as she tugs his arm out of the classroom; keeps her composure in the war council; an influential but untrained lever in the shadow system (not told the "forceful measures" instruction).
+[rel:ayanokouji-kiyotaka] (p.46–66) Publicly dating; claims him as "his priority"; part of the secret pre-exam support ring.
+[rel:hirata-yousuke] (p.62–65) War council ally for tomorrow's exam.
+[rel:hasebe-haruka] (p.46) Haruka begins to understand the first-name basis as Kei claims him.
+[rel:sakura-airi] (p.46–55) The rival claim — Airi's quiet collapse at lunch referenced.
+
+<!-- walk: y2v5 Ch.3 → p.75 -->
+
+### y2v5 p.176–190, 202, 227–228 — Kei's anger
+[scene] (p.176) Watches the first anti-unanimity collapse; the class wavers; the 12th vote flips.
+[says] (p.186) "You've got to be kidding me!"
+[says] (p.186) "Why should Kiyotaka have to be expelled? You were about to run out of time, so you just said let's put it in the same disgusting way and agree. Where's the responsibility in that?"
+[says] (p.186) "I'm not going to vote for Kiyotaka's expulsion. At that point, you know he's never going to be expelled, right?"
+[says] (p.186) "You're so selfish. If I don't declare my intentions, how am I going to avoid being expelled? You won't be able to go to Class A because your time is up? So what? Kiyotaka is everything to me, I don't care if I'm in Class B or Class D."
+[says] (p.202) "Ha... breasts! What do you mean, "breasts"?"
+[note] (p.202) The print gives no name tag for the breast-scene interjection lines; the vocative "Kei" and the surrounding narration anchor the sequence to her; adjacent-context attribution.
+[note] (p.190) The print carries the utterance “Yeah, I agree with you...! That's the person who should take responsibility for...” — the utterance trails off mid-sentence with no closing quote in the source; speaker adjacent-narration-neutral; kept as a fragment.
+[scene] (p.227–228) Walks out past everyone; not a word to anyone; her mourning is private.
+[note] (p.202) The print gives no name tag for the interjection lines in the breast scene; the vocative "Kei" and the surrounding narration ("Kei has been venting her anger relentlessly") anchor the sequence to her.
+[trait] (p.176–228) Publicly, passionately, and then silently protective — erupts at Kushida's insinuation; spends everything she has to keep him safe; walks out without a word; she is frozen but intact.
+[rel:ayanokouji-kiyotaka] (p.176–228) Her entire universe now stands teetering; she says nothing; she waits.
+[rel:kushida-kikyou] (p.186–202) The enemy of her heart — she stops first.
+[rel:hasebe-haruka] (p.220–227) The two most shattered people in the room.
+
+<!-- walk: y2v5 Ch.8 → p.231 -->
+
+### y2v5 p.19–242 — Coverage-gate mention records
+[mentioned] (p.19) "Surprisingly, the relationship between Kei and I did not spread from Sudō, and there was no sign of anyone new knowing about us."
+[mentioned] (p.88) "Before any opposition could be raised, Yōsuke and Kei quickly solidified their opinions by voting for Class B."
+[mentioned] (p.121) "Horikita's face showed surprise at the unexpected point made by Kei."
+[mentioned] (p.242) "Kei scene, Shiina showing off her own brilliance without getting even a word of dialogue" — Amadeus's credit.
+[note] (p.95) (p.100) (p.101) (p.102) (p.103) (p.171) (p.172) — the locator's "kei" hits on those pages are substring matches inside "Keisei"; no Kei references on those pages.
 
 ## y2v6
 

@@ -897,6 +897,11 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y2v5 → start -->
 
+### y2v5 p.44 — Kōenji doesn't blink at the protection-point override
+[mentioned] (p.44) With protection points temporarily disabled (expulsion unappealable except by paying 20 million private points — the class has none), "it would be no wonder if he complained, but Kōenji didn't seem bothered by this."
+
+<!-- walk: y2v5 Ch.3 → p.75 -->
+
 ### y2v5 p.103–120 — Kōenji votes to expel; makes a deal with Horikita
 [scene] (p.103) Breaks his silence on Q3, backing Keisei's protection-point plan because he wants Horikita to "work harder."
 [says] (p.103) "For the amount of protection points we give up, we can have the Horikita girl work harder than anyone else."
@@ -909,6 +914,22 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:horikita-suzune] (p.113–120) Openly provokes her but makes a private deal to switch his vote; calls her "Horikita girl."
 [rel:sudou-ken] (p.113–119) Needles him mercilessly ("Red Hair-kun"); they trade barbs about who contributes more.
 [rel:ishigami-kyou] (p.100–103) Backs his protection-point argument on Q3.
+
+<!-- walk: y2v5 Ch.4 → p.126 -->
+
+### y2v5 p.46–188 — Coverage-gate mention records
+[mentioned] (p.46) "students, with the exception of Kōenji, looked at us at once."
+[mentioned] (p.60) "You mean the existence of Kushida-san and Kōenji-kun."
+[mentioned] (p.90) "Without Kōenji jokingly putting in a vote for another class, we succeeded in getting the first unanimous vote with a smooth start."
+[mentioned] (p.121) "As long as it's anonymous, there's no way to prove that Kōenji isn't voting yes except by unanimous consent."
+[mentioned] (p.122) "Kōenji-kun." — the print leaves the line untagged; kept as printed.
+[mentioned] (p.171) "The only one who didn't raise his hand was Kōenji."
+[mentioned] (p.171) "Kōenji replied to Yōsuke, who looked at him anxiously."
+[mentioned] (p.172) "Sudō, there is no further reason to poke at Kōenji."
+[mentioned] (p.175) "one of the 37 people who were united, with the exception of Kōenji."
+[mentioned] (p.187) "The 300 class points that Kōenji got in the desert island exam was a miracle." — Keisei's line.
+[mentioned] (p.188) "there's Kōenji, who doesn't want to let go of his only ally, Horikita."
+
 ## y2v6
 
 <!-- walk: y2v6 → start -->

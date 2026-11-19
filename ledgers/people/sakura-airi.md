@@ -1158,6 +1158,27 @@ aliases used for anchors: sakura, airi, sakura-san
 
 
 
+### y2v5 p.46–55 — Airi's silence after the lunchroom reveal
+[scene] (p.46) One of the Ayanokōji Group gathered for lunch; Kei publicly claims Kiyotaka in front of her; she and Haruka mutter at the same time — "Haruka and Airi muttered at the same time, although their reactions were quite different."
+[mentioned] (p.48) She refuses to look at him once since lunch ("a certain girl hadn't looked at me once since lunch").
+[mentioned] (p.49) "She was trying to hold it together in the classroom, but she was crying all throughout lunchtime." — Haruka to Ayanokōji.
+[mentioned] (p.50) Haruka says Airi's shock was bigger than theirs ("I haven't heard directly from them, but I think Airi's shock was bigger than ours.").
+[mentioned] (p.53–55) Haruka agrees to talk to her about the maid café only once she's "a bit more relaxed"; warns Ayanokōji that "aren't so light that they'll be shaken because of something like this" and that a one-percent chance of Airi holding hope is real.
+[rel:hasebe-haruka] (p.46–55) Her guardian — walks Ayanokōji home to confront him; shields her from the talk.
+[rel:ayanokouji-kiyotaka] (p.46–55) He hurt her; she hasn't forgiven him; her feelings are the live drama.
+[rel:karuizawa-kei] (p.46) The rival who claimed him in public.
+
+<!-- walk: y2v5 Ch.3 → p.75 -->
+
+### y2v5 p.84 — Airi: her first move since the reveal
+[scene] (p.84) Pushed by Haruka, Airi goes up to Ayanokōji with freshly painted courage — she appeals with her eyes, asks him about the cultural festival, "Oh, thank you! I'll see you later, then," and takes a far seat, turning her back to him.
+[note] (p.84) All quotes/lines this page are printed untagged — the speaker alternation (Haruka pushing; Airi approaching; Ayanokōji answering) is the only attribution; no speakers are name-tagged in the print on p.84.
+[trait] (p.84) Wounded but trying — her first outward step toward him since the lunchroom reveal; masks everything behind a courteous ask.
+[rel:hasebe-haruka] (p.84) Her coach and shield; pushes her at him; stays in frame.
+[rel:ayanokouji-kiyotaka] (p.84) Meets his eyes; takes the cultural-festival excuse as her bridge.
+
+<!-- walk: y2v5 Ch.4 → p.126 -->
+
 ### y2v5 p.219–229 — Sakura Airi's voluntary expulsion
 [says] (p.223) "If there is one student in the class who deserve it... maybe it's me."
 [says] (p.223) "You're right about everything. If someone has to drop out, then I, the biggest drag on the class, should disappear."
@@ -1170,6 +1191,16 @@ aliases used for anchors: sakura, airi, sakura-san
 [rel:hasebe-haruka] (p.220–226) Her best friend fights desperately to be expelled in her place; Airi refuses, asking Haruka to vote "for" her instead.
 [rel:ayanokouji-kiyotaka] (p.219–229) He chose her as the expendable student; she thanks him and shows him her new look at the end — "Bye-bye, Kiyotaka-kun."
 [rel:horikita-suzune] (p.229) Passes her in the corridor; Horikita is speechless.
+
+<!-- walk: y2v5 Ch.8 → p.231 -->
+
+### y2v5 p.172–242 — Coverage-gate mention records
+[mentioned] (p.172) "Haruka, Airi, Keisei and Akito too. Ike, Sudō, Mii-chan, Matsushita, all of them."
+[mentioned] (p.190) "Airi and Haruka, and even Akito followed this trend to provide support."
+[mentioned] (p.237) "Sakura must have been a member of your close group. And moreover, that girl had special feelings for you." — Chabashira.
+[mentioned] (p.238) "Of course, there are a few students who are not so different from Airi. But if a quarrel starts between students who are on the same side, their friends will naturally take the side of protection."
+[mentioned] (p.242) "Sakura getting yeeted was certainly surprising, but a welcome one in my mind." — Amadeus's credit.
+
 ## y2v6
 
 <!-- walk: y2v6 → start -->

@@ -557,11 +557,18 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — shiina-hiyori mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.164, p.166-167, p.242.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.164–167 — Shiina: the overheard report
+[mentioned] (p.164) Katsuragi's circle-point names the five "in favour" voters: "Shiina, Yamada, Ryūen and myself" — Shiina Hiyori is one of them.
+[mentioned] (p.166) "Shiina overheard me and Tokitō talking about you. I wouldn't be surprised if you knew about it from her report." — Katsuragi to Ryūen.
+[mentioned] (p.167) Ryūen's closing glance: "Shiina smiling and chuckling gently" — she played her part with a smile; Ryūen is honestly impressed.
+[note] (p.164–167) The print names her without her own dialogue on these pages; the reveal frames her as the linchpin of Ryūen's design.
 
+<!-- walk: y2v5 Ch.6 → p.167 -->
+
+### y2v5 p.242 — Coverage-gate mention record
+[mentioned] (p.242) "Kei scene, Shiina showing off her own brilliance without getting even a word of dialogue" — Amadeus's credit.
+
+<!-- walk: y2v5 Afterword → p.243 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

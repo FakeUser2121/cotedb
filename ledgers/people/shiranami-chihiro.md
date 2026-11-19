@@ -88,14 +88,15 @@ char_id: shiranami-chihiro · class: Class 1-B · status: minor (allies)
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — shiranami-chihiro mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.136.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.130, 136 — Shiranami: the instant rebuttal; the chuckle
+[scene] (p.130) "There is no room for debate, and Shirinami instantly shows her rebuttal to Kanzaki." — the print spells her "Shirinami" — kept as printed.
+[says] (p.130) "There's no one in this class who can be expelled."
+[scene] (p.136) Chuckles at Hoshinomiya's story ("Well, that's a little aggressive, isn't it?" Shiranami chuckled).
+[note] (p.130, 136) Printed untagged except the vocative and adjacent narration; adjacent-context attribution.
+[rel:ichinose-honami] (p.130–136) Her class leader; Shiranami's instant rebuttal defends the class's resolve.
+[rel:kanzaki-ryuuji] (p.130) Defends against his challenge.
 
-
-
-
+<!-- walk: y2v5 Ch.5 → p.139 -->
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->

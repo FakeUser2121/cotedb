@@ -1262,14 +1262,55 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v5 → start -->
 
+### y2v5 p.66–69 — The Chairman calls Ayanokōji: festival guests
+[scene] (p.66) Phones Ayanokōji shortly after 10 p.m. — unannounced: the October sports festival and the November cultural festival will welcome certain guests (government officials and their families); his father may be among them.
+[says] (p.66) "I'm sorry it's so late at night, can I have a moment now?"
+[says] (p.66) "I'm sure I've caused you a lot of anxiety too, but everything's okay now."
+[says] (p.67) "About that... Actually, there is something that hasn't been announced yet, but I'm going to tell you about it first."
+[says] (p.67) "If you go back to the beginning, sports festivals are for the parents of the students to come and watch."
+[says] (p.67) "The selection of people is entirely up to the higher-ups, and the teachers in charge can't rule out the possibility that... your father may be involved."
+[says] (p.68) "So I'm going to have to ask you to sit out the sports festival."
+[says] (p.68) "I'm going to ask you to stay in your dormitory on sick leave on the assumption that you've had a medical check."
+[says] (p.69) "Of course, I can't force you to do anything, so I'll leave the final decision to you."
+[says] (p.69) "Yes. I'll ask you to answer a week before the sports festival. We have some preparations to make too."
+[note] (p.66) "It just so happens. If he had been serious, I wouldn't still be here right now." is Ayanokōji's reply, printed untagged — see his file.
+[trait] (p.66–69) Measured and generous — offers a sick-leave solution so trusted observers from the school can watch his safety without Ayanokōji being singled out; tells him his father may be involved; accepts refusal in advance and gives a week.
+[rel:ayanokouji-kiyotaka] (p.66–69) The Chairman's personal project — keeps him safe ahead of the guests; Ayanokōji is unmoved by the special treatment.
+[rel:tsukishiro] (p.66) Acting Director; the Chairman mentions him having filled in.
+
+<!-- walk: y2v5 Ch.3 → p.75 -->
+
 ### y2v5 p.168–170 — Sakayanagi's class: the queen bluffs
 [scene] (p.168) Class A reaches Q5; like Horikita, Sakayanagi arranged two controlled "for" votes to keep round one non-unanimous and gauge the class.
-[says] (p.169) "100 class points is surprisingly not ridiculous."
-[says] (p.169) "it would be rather nonsensical to choose to drop one superior student in order to pick up 100 class points here."
-[says] (p.169) "I just don't want to have to cry about that 100 class points in the future"
-[trait] (p.168–170) Deliberately lies to her class that she'd expel whoever she chose (a "superior student") — but internally knows she'd never sacrifice a student when not in crisis; her bluff pushes the class to unanimous "against" quickly, clearing the exam.
-[rel:hashimoto-masayoshi] (p.169) She questions him about whether to go for the 100 points; he's surprised by the sudden query.
+[scene] (p.168–169) Hashimoto asks for confirmation immediately after the interval — she asks for his opinion, then frames the math out loud ("It would be rather nonsensical to choose to drop one superior student in order to pick up 100 class points here."); he doesn't expect the question and is surprised by the sudden query.
+[says:hashimoto-masayoshi] (p.169) "100 class points is surprisingly not ridiculous."
+[says:hashimoto-masayoshi] (p.169) "I just don't want to have to cry about that 100 class points in the future"
+[says] (p.169) "It would be rather nonsensical to choose to drop one superior student in order to pick up 100 class points here."
+[says] (p.169) "An interesting way to solve this would be to take expel a student and save them using 20 million private points."
+[says] (p.170) "I do not see you and your classmates the same as Katsuragi-kun and Yahiko-kun, who have left us."
+[note] (p.169) "An interesting way to solve this would be to take expel a student..." — the corpus prints "to take expel a student"; kept as printed; the 20-million-point buyout keeps expulsion unappealable.
+[trait] (p.168–170) Deliberately lies to her class that she wouldn't expel a student — the print says outright: "Sakayanagi told such a lie to the class. In the unlikely event that Class A were to be driven to the brink of ruin, Sakayanagi would have no hesitation in choosing to expel a student." She simply decides now is not the time.
+[rel:hashimoto-masayoshi] (p.168–169) She questions him; he doesn't expect the question.
+[rel:katsuragi-kouhei] (p.170) He left Class A for Class D (this volume's Q5 saga); she cites his departure.
+[rel:totsuka-yahiko] (p.170) He also left Class A; cited in the same line.
 [rel:horikita-suzune] (p.168) She used the same tactic of two controlled votes in favour as Horikita.
+
+<!-- walk: y2v5 Ch.7 → p.170 -->
+
+### y2v5 p.78–174 — Coverage-gate mention records
+[mentioned] (p.78) "Sakayanagi-sensei, who was listening to the conversation, analyzed it calmly." — the homeroom meeting.
+[mentioned] (p.86) "In simple terms, the choice of who would you rather fight; Sakayanagi, Ryūen, or Ichinose." — the Q1 opponent list.
+[mentioned] (p.87) "unlike Sakayanagi-san, and Ryūen-kun, Ichinose-san is likely to be a fair fight, a clash of pure potential." — Horikita's pitch.
+[mentioned] (p.88) "The additional reward for defeating Sakayanagi-san and the rest of Class A is huge, but there's no doubt that they are stronger enemies than anyone else." — Hirata's case.
+[mentioned] (p.90) "All that was left was to hope that Sakayanagi and Ryūen's classes would match up, but since Ichinose's class was sometimes easy to target, there might be three classes competing for her."
+[mentioned] (p.102) "you'd be targeted by Sakayanagi and Ryūen at the very least. It's not surprising to think that those two would try to expel you without mercy." — Keisei's line.
+[mentioned] (p.117) "Sakayanagi-san's class will..." — the class's speculation; no name-tag assignee.
+[mentioned] (p.156) "you forced us to pick Sakayanagi's class as our opponents. Of course, you can take responsibility for losing, can't you?" — Tokitō.
+[mentioned] (p.161) "I can't catch up with or overtake Sakayanagi." — Katsuragi.
+[mentioned] (p.167) "Sakayanagi and become Class A. And he knows that he wants to pursue that path together with this class." — the wrap-up.
+[mentioned] (p.174) "from signing contracts with people like Sakayanagi and Ryūen, who will invite them into their classes if they let the time run out, or give them large amounts of private points."
+
+<!-- walk: y2v5 Ch.4 → p.126 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

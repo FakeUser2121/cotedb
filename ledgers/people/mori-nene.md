@@ -63,14 +63,18 @@ char_id: mori-nene · class: Class 1-D · status: minor
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — mori-nene mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.79, p.172, p.197, p.206-207, p.219.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.172, 206–207, 219 — Mori: the pointed weapon
+[mentioned] (p.172) In the eye-contact interrogation — everyone claims to be voting against.
+[mentioned] (p.206) "Karuizawa, Matsushita, Mori and others laughed" at the Ike–Shinohara pairing — her role in the caste's gossip.
+[mentioned] (p.207) Her reaction when the Shinohara spear lands — laughter is common to the group around her.
+[mentioned] (p.219) "girls, including Shinohara and Mori, who owed a debt of gratitude to Shinohara, put their hands up" — protects Ike (11 hands in total).
 
+<!-- walk: y2v5 Ch.8 → p.231 -->
 
+### y2v5 p.79, 197 — Coverage-gate locator-noise catalogue
+[note] (p.79) (p.197) — the page locator's "mori" hits on p.79 and p.197 match "memories" — substring noise ("mem-o-r-ies" contains "mori"); Mori Nene appears nowhere on those pages.
 
-
+<!-- walk: y2v5 Ch.4 → p.126 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

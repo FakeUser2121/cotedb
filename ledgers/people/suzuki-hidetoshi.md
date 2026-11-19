@@ -52,14 +52,10 @@ char_id: suzuki-hidetoshi · class: Class 1-C (enrolled April 2015) · status: m
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — suzuki-hidetoshi mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.144.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.144 — Suzuki: the whispered ballot
+[mentioned] (p.144) "And the next time he approached Suzuki, he spoke in a whisper in a similar fashion." — Ryūen repeats his generic "you're free to agree or disagree" line to Suzuki on his walkthrough.
 
-
-
-
+<!-- walk: y2v5 Ch.6 → p.167 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->

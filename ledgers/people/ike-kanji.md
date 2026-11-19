@@ -1234,10 +1234,69 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — ike-kanji mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.9-11, p.13-14, p.17, p.20, p.23-25.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.9, 13, 25, 27 — Mentions: Sudō's envy; the festival group
+[mentioned] (p.9) Sudō wonders whether "that Kanji guy has already kissed Shinohara" — Ike is the romantic benchmark for the class boys.
+[mentioned] (p.13) Sudō starts chatting with his good friends Ike and Hondō once at school.
+[mentioned] (p.25) Horikita names him as better suited to the maid café than the boys'-side selection ("Ike-kun, Hondō-kun and the others may have better eyes for this kind of thing. But if you tell them about this, it could lead to a leak.").
+[mentioned] (p.27) Chabashira-sensei agrees with Ayanokōji that “I think people like Ike and Hondō are many times more suited to this kind of thing to be perfectly honest.”
+
+<!-- walk: y2v5 Ch.2 → p.28 -->
+
+### y2v5 p.29, 34, 37–38 — Ike at the special-exam briefing
+[scene] (p.29) In homeroom when the special exam is announced — first voice of frustration heard ("Ike's frustration leaking out was the first thing that could be heard").
+[says] (p.29) "I've just got through the gruelling deserted island exam and now I've got to take another special exam..."
+[says] (p.34) "Oh, what?"
+[says] (p.34) "Why is it so much the other way around?"
+[note] (p.34) The surrounding line is attributed by adjacency: "Ike, who seemed to have voted in favour of the proposal, looked around at his classmates and asked curiously."
+[says] (p.37) "Oh, it's me? Yes!"
+[note] (p.37) "Oh, it's me? Yes!" follows the monitor naming Ike as the specific student in the demonstration; adjacent-narration attribution.
+[note] (p.38) "What? Does that mean my chances of getting them are now zero?" is untagged; the demonstration singles Ike's million points out; adjacent-context attribution points to him; kept as a note, not a [says] row.
+[trait] (p.29–38) Impulsive and luck-seeking — votes "in favour" of the 10,000-point example on instinct, is picked as the specific student for the 1,000,000 private-points demonstration, and is shut out entirely when the class unanimously votes against awarding him the points.
+[rel:sudou-ken] (p.37) Sudō voices the class verdict to him ("No ones gonna give you a million private points.").
+[rel:horikita-suzune] (p.34) Delivers the "just in case" majority explanation; he doesn't buy it.
+
+<!-- walk: y2v5 Ch.3 → p.75 -->
+
+### y2v5 p.83, 91, 98 — Ike: the exam's visible side
+[scene] (p.83) Seated near the front, talks school-trip destinations with Shinohara before the start; phones collected by Chabashira's team.
+[says] (p.98) "Hey, wait a minute! I don't understand something about this!"
+[says] (p.98) "That's not fair! Even I need a lot of private points right now!"
+[note] (p.98) Both lines printed untagged; Ike's by bracket-subject matter ("you need money to go on dates with Shinohara" is Sudō's rebuttal to him) and by adjacency order ("Ike and Satō were the first to speak up...").
+[note] (p.83) The pre-exam chit-chat is printed untagged; immediately anchored by "Ike and Shinohara, who have become a close couple, discuss what to do after school."
+[note] (p.98) "Ike and Satō were the first to speak up" — the two bracket-for-lowest-grades students; Ike's line is the preceding one.
+
+<!-- walk: y2v5 Ch.4 → p.126 -->
+
+### y2v5 p.172, 177–178, 193–194, 197, 218, 227 — Ike: the Group's voice cracks
+[scene] (p.172) Present in the eye-contact interrogation — almost certainly answered "I am voting against" like everyone else.
+[scene] (p.177) Watches Ayanokōji confess to voting in favour — nothing for him to do.
+[says] (p.193) "Come on, Ayanokōji. You said you could tell who voted in favour, so I just shut up and listened. That's impossible."
+[says] (p.193) "That's right. What Ayanokōji-kun is saying is ruinous and bitterly unfair."
+[says] (p.193) "What's with the habit of leading people to agree with you, and then only mentioning Kushida-san's name when you're pissed off?"
+[note] (p.193–194) Adjacent narration: "It was Ike who denied it. And his voice soon spread."
+[says] (p.218) "Well, wait a minute, Ayanokōji. The people in the class voted in favour of you because you're not a traitor."
+[note] (p.218) "It's not just Ike who is unhappy, I'm sure it's all of us." — untagged; alternation with Yōsuke's intervening line; adjacent-context attribution.
+[says] (p.183) "Don't worry, Ken. I'll vote against for you... so you can definitely protect me too, okay?"
+[trait] (p.172–227) The Group's loudest defense of Kushida at first, then the first to grasp how bad it is — denies the name-calling at top volume, then falls silent as the evidence lands; never looks at Airi again; walks out with the others.
+[rel:kushida-kikyou] (p.193–194) Defends her instinctively; collapses when the evidence lands.
+[rel:ayanokouji-kiyotaka] (p.193–218) His best friend — the one he finally fails to reach.
+[rel:hasebe-haruka] (p.219–227) Her fury at Kiyopon includes him.
+
+<!-- walk: y2v5 Ch.8 → p.231 -->
+
+### y2v5 p.10–234 — Coverage-gate mention records
+[mentioned] (p.48) "The pairing of Ike and Shinohara, who had became a couple during the summer holiday, didn't cause as much of a stir in terms of publicity as I'd expected."
+[mentioned] (p.99) "Ike and Satō were the first to speak up, as they were students who seemed to fall into the bracket for lowest grades."
+[mentioned] (p.109) "Ike focused on the part of the vote that remained even if Kōenji was excluded."
+[mentioned] (p.184) "Mii-chan rushed over and put her hand on Kushida's back." — the room's crisis, Ike present.
+[mentioned] (p.206) "only ugly boys like Ike-kun and Komiya-kun come on to her" — Kushida's spear.
+[mentioned] (p.207) "In the meantime, Shinohara and Mori and Ike and others continued to force each other to lie about what they had said or didn't say, while Kushida shifted her focus to Haruka."
+[mentioned] (p.219) "A number of boys, including Sudō, and girls, including Shinohara and Mori, who owed a debt of gratitude to Shinohara, put their hands up, and there were 11 clear objections."
+[mentioned] (p.220) "we can have hand-raise votes for Hondō, Okitani, or another student, but it will not be less than three votes for Airi."
+[mentioned] (p.234) "he was a combination of Hirata and Ike" — Chabashira's boy in the past.
+[mentioned] (p.10) "Given Ike's personality, he's going to want to brag about it. If he doesn't say it, then logically he hasn't gone that far, right?" — Sudō (with Ayanokōji correcting him) about Ike.
+[note] (p.11) (p.46) — the locator's "ike" hits on p.11 and p.46 are substring matches inside "like"; no Ike references on those pages.
+[note] (p.14) (p.17) (p.20) (p.23) (p.24) (p.27) (p.31) (p.33) (p.40) (p.42) (p.43) (p.44) (p.45) (p.50) (p.53) (p.54) (p.55) (p.56) (p.57) (p.58) (p.60) (p.62) (p.64) (p.66) (p.67) (p.70) (p.71) (p.72) (p.74) (p.77) (p.78) (p.79) (p.80) (p.87) (p.91) (p.92) (p.93) (p.94) (p.96) (p.97) (p.100) (p.102) (p.103) (p.110) (p.112) (p.113) (p.117) (p.118) (p.119) (p.120) (p.122) (p.123) (p.125) (p.131) (p.134) (p.136) (p.137) (p.139) (p.140) (p.142) (p.144) (p.145) (p.146) (p.148) (p.149) (p.150) (p.152) (p.153) (p.154) (p.156) (p.159) (p.160) (p.161) (p.163) (p.164) (p.168) (p.170) (p.174) (p.175) (p.176) (p.178) (p.182) (p.186) (p.188) (p.192) (p.197) (p.200) (p.202) (p.203) (p.207) (p.208) (p.212) (p.213) (p.214) (p.218) (p.221) (p.223) (p.224) (p.225) (p.227) (p.228) (p.232) (p.233) (p.237) (p.238) (p.239) (p.240) (p.241) — locator hits on those pages are substring noise: the pattern "ike" matches inside "like"; the whole-word check shows real Ike references on p.10, 13, 25, 27, 29, 34, 37, 48, 83, 98, 99, 109, 172, 183, 184, 193, 206, 207, 218, 219, 220, 234 — all anchored in this file's sections and coverage rows.
 
 ## y2v6
 

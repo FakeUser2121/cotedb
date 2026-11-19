@@ -39,14 +39,10 @@ char_id: onizuka · class: Class 1-D · status: minor
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — onizuka mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.186.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.186 — Onizuka: named by Haruka
+[mentioned] (p.186) "Didn't Hondō-kun just promise to vote against you and Onizuka-kun? It's the same thing." — Haruka presses Keisei on his group's split; no scene presence.
 
-
-
-
+<!-- walk: y2v5 Ch.8 → p.231 -->
 ## y2v11
 
 <!-- walk: y2v11 → start -->

@@ -1887,13 +1887,91 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — hirata-yousuke mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.11-12, p.17, p.31, p.45, p.49-50.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.17 — Hirata opens the festival discussion
+[scene] (p.17) Gets permission to use the classroom monitor; lists the orthodox festival options one by one (food, haunted houses, mazes, cafes, live music, plays); caps the discussion with the 195,000-point budget for 39 students.
+[says] (p.17) "When it comes to cultural festivals, food, haunted houses, and the like are the orthodox ones, aren't they?"
+[note] (p.17) The lines that follow — "The event will be held from 10 a.m. to 3 p.m…", "It's just a matter of budget…", "We have 39 students in our class…" — are printed untagged in the same presenting sequence; no speaker is name-tagged in the print; attribution by adjacency points to Hirata, kept as a note, not a [says] row.
+[rel:horikita-suzune] (p.17) Her budget critique and decision to test proposals with private points build directly on his list.
+[rel:ayanokouji-kiyotaka] (p.17) He listens from the back as usual; Hirata anchors the class's first festival talk.
 
 
 
+
+<!-- walk: y2v5 Ch.2 → p.28 -->
+
+### y2v5 p.29–66 — Ch.3: the special exam briefing; the war council
+[scene] (p.29) In class as the special exam is announced — present at the Unanimous Voting Exam briefing (Chabashira's third-period-like surprise).
+[scene] (p.31) Immediately asks for clarification — whether they aren't competing against another class (the exam is in-class only).
+[scene] (p.45) Gets permission to leave his seat to call for the class to hear everyone's opinion before lunch.
+[says] (p.45) "Can we do this before lunch?"
+[says] (p.45) "Yes, I agree. I agree with you, Kushida. But it's going to be a big responsibility for the leader."
+[note] (p.45) "Yes, I agree..." is untagged in the print but tied to Hirata by Kushida's callback in the same exchange ("Of course, it's a big responsibility, as Hirata-kun said"); adjacent-context attribution, kept as such.
+[scene] (p.62–66) Recruited into the pre-exam war council in Ayanokōji's room with Kei; learns the shadow-support role ( Horikita's support from the sidelines); trusted with the "forceful measures" contingency (under 2 hours left and not clearing).
+[says] (p.62) "I'm not sure what to make of it." — tagged "he said" in the print
+[says] (p.64) "shouldn't Horikita-san also be included in this conversation?"
+[note] (p.64) The line is not name-tagged in the print but is tied to Hirata by adjacent narration ("Yōsuke's point is a natural one."); kept as adjacent-narration attribution.
+[note] (p.63) The rice/bread answers are printed untagged in the exchange; the print gives no name tags; no speakers assigned from context.
+[rel:ayanokouji-kiyotaka] (p.62–66) War council ally; schemes with him ahead of the exam.
+[rel:karuizawa-kei] (p.62–66) War council ally.
+[rel:horikita-suzune] (p.45) He endorses Kushida's Horikita-as-leader idea while warning it's a big responsibility.
+[rel:kushida-kikyou] (p.45) He seconds her leader proposal.
+
+<!-- walk: y2v5 Ch.3 → p.75 -->
+
+### y2v5 p.88–122 — Hirata: the class's quiet mediator
+[says] (p.88) "I also agree with what you just said, Horikita-san."
+[says] (p.88) "The additional reward for defeating Sakayanagi-san and the rest of Class A is huge, but there's no doubt that they are stronger enemies than anyone else."
+[note] (p.88) Printed untagged; tied to Yōsuke by adjacent narration ("With the two of them pushing for B class, the direction of the classmates began to take shape.") and by alternation with Kei's "I think I'll go with Ichinose-san too."
+[says] (p.99) "Horikita-san, do you think it's best to choose no grant?"
+[says] (p.99) "It's only one opinion, but I think I should get protection points for this question . For all three of us, of course."
+[note] (p.99) "this question ." — the corpus prints a space before the period; kept as printed.
+[says] (p.112) "You shouldn't choose to cut off your classmates in order to gain class points."
+[says] (p.112) "I don't think the points gained from such a choice are worth anything, even if they were 500 or 1000 class points."
+[says] (p.122) "I want you to wait, Horikita-san."
+[note] (p.122) Printed untagged; tied to Yōsuke by adjacent narration ("Kushida also leaked out anxiously, saying that she agreed with Yōsuke.").
+[trait] (p.88–122) Respectful but firm — seconds Horikita's Class B pitch publicly, asks Horikita the hard Q3 question, and appeals to the class's conscience in Q5; holds together when Kōenji doesn't.
+[rel:horikita-suzune] (p.88–122) Her shadow cabinet — agrees publicly, pushes hard privately.
+[rel:ishigami-kyou] (p.99–103) Q3: his stance (protect three) loses to Keisei's math.
+[rel:kushida-kikyou] (p.122) She hides behind his position ("I'm with Hirata-kun").
+[rel:kouenji-rokusuke] (p.112) Appeals to him directly; Kōenji laughs it off.
+
+<!-- walk: y2v5 Ch.4 → p.126 -->
+
+### y2v5 p.171–218, 225 — Hirata: the desperate mediator
+[scene] (p.171) Requests the class do a reverse pattern — against-voters raise hands; all 38 do; only Kōenji doesn't but lies.
+[scene] (p.177) Spokesman for the opposition — he voices the class's anchor argument ("It's not too late. We should pitch against it, in my opinion."); pushes Horikita and Karuizawa's crowd into action.
+[says] (p.171) "If you placed your vote against... please raise your hand."
+[says] (p.177) "It's not too late. We should pitch against it, in my opinion."
+[says] (p.179) "But, but, but that's... closer to the end of the time limit, I'm sure it will be the other way around..."
+[says] (p.182) "Sensei, you don't mind if I nominate myself, do you?"
+[says] (p.182) "Then please vote for me."
+[says] (p.183) "What are we going to do? Are we really going to be able to expel one of us from here?"
+[says] (p.188) "You're only wasting our time with your fussing. Let's talk more"
+[note] (p.188–189) The sentence continues onto the next page ("constructively." p.189) across the printed page break — the credit line sits between "more" and "constructively." — quoted only the in-page fragment; the p.188–189 boundary splits it.
+[says] (p.189) "Horikita-san is right, Sudō-kun. Unanimity is the ironclad rule for this special exam."
+[says] (p.194) "We should only comment on truth or falsehood when we have all the information. Of course, if it turns out to be false, I won't condone it either."
+[says] (p.194) "Yes, it's something you have to listen to. It's not just Kushida-san who's been named, it's Ayanokōji-kun's own future that's at stake."
+[says] (p.218) "But, Horikita-san. I wonder if protecting Kushida-san means choosing to run out of time."
+[note] (p.193–194) The anti-Ayanokōji interruption lines ("Yo yo, Hirata. It's no use listening to Ayanokōji's lies anymore." / "Is it really worth listening to?") are printed untagged; Hirata is the named recipient ("Yo yo, Hirata"); no speakers assigned from context; kept as notes, not [says] rows.
+[trait] (p.171–225) The class's conscience under fire — insists on the show-a-hand play to break the deadlock, warns the class it's too early, self-nominates as the sacrificial candidate to force the endgame (6 in favour / 32 against), then struggles to stop Horikita and Ayanokōji from expelling Airi; fails at both; walks home silent.
+[rel:horikita-suzune] (p.171–218) Her sternest ally — she begs her to find a way out; she ultimately can't stop what the class does.
+[rel:ayanokouji-kiyotaka] (p.177–218) The friend he could never quite save from this situation — Horikita's co-pilot in the end.
+[rel:kushida-kikyou] (p.183–211) He confronts her; she breaks; he tries to shield her too late.
+[rel:hasebe-haruka] (p.224–227) His last flail at stopping the Airi sacrifice.
+
+<!-- walk: y2v5 Ch.8 → p.231 -->
+
+### y2v5 p.11–234 — Coverage-gate mention records
+[mentioned] (p.11) "It seems like you were quick to declare when you were with Yōsuke." — Kei's history with Hirata named.
+[mentioned] (p.12) Sudō: "Karuizawa was dating Hirata, and before that, I don't know what kind of flashy relationships she had in junior high school."
+[mentioned] (p.49) "Most of them think that she is a selfish girl who went out with the popular Yōsuke early and dumped him for her own convenience."
+[mentioned] (p.87) "As if in response, Yōsuke stands up as well." — Yōsuke backs Horikita's Class B pitch.
+[mentioned] (p.88) "Before any opposition could be raised, Yōsuke and Kei quickly solidified their opinions by voting for Class B."
+[mentioned] (p.123) "Umm... I'm sorry Ayanokōji-kun. I'm with Hirata-kun, there's no girl that comes to mind." — Kushida hides behind Hirata's stance.
+[mentioned] (p.234) "he was a combination of Hirata and Ike" — Chabashira's boy in the past.
+
+### y2v5 p.50 — Coverage-gate mention record
+[mentioned] (p.50) "Considering the fact that she had started dating Yōsuke immediately after enrolling at the school, and that she herself had probably been fabricating her past, this kind of perception arising was unavoidable."
 
 ## y2v6
 

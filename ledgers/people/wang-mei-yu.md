@@ -229,14 +229,24 @@ char_id: wang-mei-yu · status: minor
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — wang-mei-yu mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.22-24, p.54, p.172, p.184, p.207.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.207 — "Wang-san": the identity question
+[mentioned] (p.207) "Speaking of romantic connections, Wang-san has been asking me for advice." — Kushida's spear aimed at the girls' caste.
+[note] (p.207) The print never resolves who Wang-san is — Mii-chan (Chinese surname Wang, a crush on Hirata-kun, "No, please don't!" + her freeze at Hirata) vs a distinct Wang girl; the roster carries both wang-mei-yu and asahina-nazuna; owner decision pending (as flagged since y2v10).
+[mentioned] (p.172) Mii-chan is named among those who answered the eye-contact interrogation.
 
+<!-- walk: y2v5 Ch.8 → p.231 -->
 
+### y2v5 p.184, 214 — Coverage-gate mention records
+[mentioned] (p.184) "Mii-chan rushed over and put her hand on Kushida's back." — the pressure cooker cracks; Mii-chan is present for Kushida's collapse.
+[mentioned] (p.214) "she may be regretting her actions against her best friend Mii-chan" — the TL note (p.214) names her; kept as printed.
 
+### y2v5 p.22–54 — Coverage-gate mention records
+[mentioned] (p.22) "Welcome~. We're Maimai, the maid café!" — the group performance; her Chinese-style maid suit.
+[mentioned] (p.23) "Satō motioned towards Mii-chan sharply."
+[mentioned] (p.24) "I wonder if you've created a budget for the whole thing." — Horikita, addressed at them.
+[mentioned] (p.54) "No, if you include her physical characteristics, she might even be able to beat them." — Satō about her looks.
 
+<!-- walk: y2v5 Ch.2 → p.28 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

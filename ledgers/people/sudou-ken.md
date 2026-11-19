@@ -1831,6 +1831,65 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:horikita-suzune] (p.10) Hoping/worried Ayanokōji's girlfriend might be Horikita.
 [rel:ike-kanji] (p.9) Jealous that he's "ahead" with Shinohara.
 [rel:karuizawa-kei] (p.11–12) Can't believe it's her; whispers rumors about her past.
+
+<!-- walk: y2v5 Ch.2 → p.28 -->
+
+### y2v5 p.29, 35, 37 — Sudō at the special-exam briefing
+[scene] (p.29) Pumps his fist at the news of another special exam before the sports festival.
+[says] (p.29) "What the hell guys. We'll just have to get through a few extra exams before we get to the sports festival."
+[note] (p.29) Horikita's "Please don't get carried away Sudō-kun." immediately sits him down — his athletic confidence outruns his judgment.
+[note] (p.35) The call-and-response after the second round ("Oh, hey, hey, hey, who's still voting yes after what you just said?" / "I'm sorry, it's me, Sudō-kun. I tried to avoid being unanimous. It seems that there is someone else who had the same idea as me, but...") is printed untagged; the narrator says of the latter only "She didn't look at me, but I think she was referring to me." — both lines are an attribution gap; no speakers assigned from context.
+[says] (p.37) "No ones gonna give you a million private points."
+[note] (p.37) "No ones gonna give you a million private points." — printed with the doubled-letter typo "No ones"; kept as printed; "Sudō spoke for all of us in the class" — adjacent-narration attribution.
+[rel:ike-kanji] (p.37) Shuts the million-point hope down in front of everyone.
+[rel:horikita-suzune] (p.29) His instant obedience to her one-line rebuke shows the nascent master/student bond.
+
+<!-- walk: y2v5 Ch.3 → p.75 -->
+
+### y2v5 p.92–96, 98, 109–113, 117–118 — Sudō: the Okinawa champion
+[scene] (p.92) Raises his hand to give his destination opinion — "Okay, I'll start. I want to go to Okinawa. Okinawa is the most popular school trip because of the ocean, right?"
+[says] (p.92) "Okay, I'll start. I want to go to Okinawa."
+[scene] (p.92) Raises his hand to give his destination opinion and pitches Okinawa ("Okinawa is the most popular school trip because of the ocean, right?").
+[scene] (p.95–96) Rock-paper-scissors: middleweight on the Okinawa team; throws a powerful par; loses the match to Shinohara; the class votes 39-0 for Hokkaido; he is berated.
+[says] (p.109) "Hey, who the hell voted in favour of that? Are you kidding me?"
+[note] (p.109) Printed untagged; named via adjacent narration ("Sudō's strong gaze was unilaterally directed at Kōenji.").
+[says] (p.117) "Definitely Ryūen's class, they're going to cut out the right guy, aren't they?"
+[note] (p.117) Printed untagged; named via adjacent narration ("Sudō says without hesitation, crossing his arms at the back of her head.").
+[trait] (p.92–117) Okinawa or bust — the loudest voice for the ocean option; publicly bottom-bracket for private points (his own cash situation is exposed); burns at the 100-points-for-an-expulsion question; suspects Kōenji; thinks Ryūen's class will save the "for" camp — and is talked down only by Horikita.
+[rel:ike-kanji] (p.98) Reassures him about sharing — grudging, decent.
+[rel:shinohara-satsuki] (p.95–96) His Hokkaido rival; he loses to her par.
+[rel:kouenji-rokusuke] (p.109–113) Demands to know Kōenji's vote; Kōenji never takes him seriously.
+[rel:horikita-suzune] (p.110, 117) Her rebukes anchor his outbursts; her calm keeps him inside the class's patience.
+
+<!-- walk: y2v5 Ch.4 → p.126 -->
+
+### y2v5 p.173–188, 223–224 — Sudō: the show of fists
+[says] (p.173) "Oh my God! I'm going out of my mind! I don't know what's going on!"
+[says] (p.173) "Hey, but what are we really going to do? We're running out of time, aren't we?"
+[scene] (p.181) Erupts at the results — "You're all idiots! All those who voted in favour, raise your hands or I'll kill you!"
+[says] (p.181) "You're all idiots! All those who voted in favour, raise your hands or I'll kill you!"
+[note] (p.182) Adjacent narration: "Scratching his head wildly, Sudō slammed his elbow down hard on the desk." — p.173 — and "Sudō stood up irritated, as if he thought that only a few votes at most would be in favour." — p.188
+[says] (p.182) "I can't stop!"
+[says] (p.183) "Naturally, Kanji. That's right. If we protect each other, we'll be absolutely fine, won't we...?"
+[says] (p.224) "No, no... I'm that-"
+[trait] (p.173–224) The can't-stop-trying type — head-slams the desk at the deadlock; threatens the class; votes against religiously; consoles Kushida when she breaks; refuses to consider sacrificing himself.
+[rel:ike-kanji] (p.183) Reciprocal "protect me" pact; both comfort Kushida.
+[rel:horikita-suzune] (p.188) Her one-voter defense is the only thing keeping him inside the exam.
+[rel:kushida-kikyou] (p.184) Comforts her through the collapse.
+[rel:sakura-airi] (p.184–224) His rage at the sacrifice is the most honest in the room.
+
+<!-- walk: y2v5 Ch.8 → p.231 -->
+
+### y2v5 p.13–172 — Coverage-gate mention records
+[mentioned] (p.13) "Sudō started chatting with his good friends Ike and Hondo."
+[mentioned] (p.19) "Surprisingly, the relationship between Kei and I did not spread from Sudō, and there was no sign of anyone new knowing about us."
+[mentioned] (p.64) "If you're an athletic student like Sudō, you're definitely going to choose physical ability"
+[mentioned] (p.118) "In addition to Horikita and Sudō, Akito turns his thoughts to Kōenji as well."
+[mentioned] (p.119) "In reality, both of them were slow to contribute at the start. No, Sudō's portion is worse if you factor in the fluctuations to class points due to his behaviour."
+[mentioned] (p.121) "What the hell, then, get on with it. Who is this guy?" said Sudō as he jumped out of his seat.
+[mentioned] (p.122) "As Sudō stated before, if you voted in favour, you yourself would be put at risk of expulsion."
+[mentioned] (p.172) "Haruka, Airi, Keisei and Akito too. Ike, Sudō, Mii-chan, Matsushita, all of them."
+
 ## y2v6
 
 <!-- walk: y2v6 → start -->

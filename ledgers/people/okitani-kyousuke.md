@@ -34,14 +34,11 @@ char_id: okitani-kyousuke · class: unknown · status: unknown
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — okitani-kyousuke mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.172, p.220.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.172, 220 — Okitani: named in the interrogation
+[mentioned] (p.172) "Whether it was Kushida, Onodera, Okitani, or Mori, everyone answered by looking straight into Horikita's eyes."
+[mentioned] (p.220) "we can have hand-raise votes for Hondō, Okitani, or another student" — Ayanokōji's ruthless comparison set.
 
-
-
-
+<!-- walk: y2v5 Ch.8 → p.231 -->
 ## y2v8
 
 <!-- walk: y2v8 → start -->

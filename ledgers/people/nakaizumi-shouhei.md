@@ -29,8 +29,6 @@ char_id: nakaizumi-shouhei · class: unknown · status: unknown
 
 <!-- walk: y2v5 → start -->
 
-<!-- walk: y2v5 Epilogue → p.243 -->
-
 ## y2v12
 
 <!-- walk: y2v12 → start -->

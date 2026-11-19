@@ -84,14 +84,12 @@ char_id: ishikura · class: Class 1-D · status: minor
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — ishikura mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.95.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.95–96 — Ishikura: Hokkaido's middleweight
+[mentioned] (p.95) "The Hokkaido team, spearheaded by Maezono, middleweight Ishikura, and general Shinohara. This is a women's team."
+[scene] (p.95–96) Onodera defeats Ishikura in the middle game to take the lead for Okinawa ("defeating Ishikura in the middle game to take the lead").
+[note] (p.95) The women's team and the middleweight position imply Kayoko, but the print gives no given name — the roster carries two rows (ishikura and ishikura-kayoko) — identity is not resolved by these pages; duplicate flagged to owner (see progress2.md).
 
-
-
-
+<!-- walk: y2v5 Ch.4 → p.126 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->

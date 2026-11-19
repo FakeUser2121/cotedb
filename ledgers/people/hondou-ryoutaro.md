@@ -129,10 +129,35 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — hondou-ryoutaro mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.13, p.19-20, p.25, p.27, p.91.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.13, 19–20, 25, 27 — Mentions: the boys' group; the fried-chicken proposal
+[mentioned] (p.13) Sudō chats with Ike and Hondō once at school.
+[mentioned] (p.19) On the day the proposal reward was announced, Hondō "immediately proposed that we sell fried chicken because it was delicious" — Horikita shut him down, telling him to come up with an actual pitch.
+[mentioned] (p.20) The next day, undaunted, he submitted an Internet-recipe proposal — "an impassioned speech about how much he would sell it for and how tasty it would be" — still not adopted; Horikita reiterated what a real proposal needs (cost, location, human resources, price, expected customers).
+[mentioned] (p.25) Horikita names him as better suited to the maid café ("Hondō-kun... may have better eyes for this kind of thing").
+[mentioned] (p.27) Chabashira-sensei sides with Ayanokōji that Ike and Hondō suit otaku culture better.
+
+<!-- walk: y2v5 Ch.2 → p.28 -->
+### y2v5 p.91 — Hondō: "can we call this a special test?"
+[says] (p.91) "Hey, hey, can we call this a special test? I mean, it's a piece of cake."
+[note] (p.91) Printed untagged; tied to Hondō by adjacent narration ("When the interval came, Hondō said with a laugh as if he was out of sync.").
+[trait] (p.91) Reassures the room with a laugh; the exam is "a piece of cake" to him — it isn't.
+
+<!-- walk: y2v5 Ch.4 → p.126 -->
+
+### y2v5 p.190–198 — Hondō: her loudest defender
+[scene] (p.190–191) As Kushida's cards crumble, he rushes to her defense — "You're just saying it because of a grudge."
+[says] (p.191) "No, I don't care how many times you say it, Ayanokōji, it can't be Kushida-chan..! You're just saying it because of a grudge."
+[note] (p.191) Adjacent narration: "Seeing Kushida's tears welling up with grief, Hondō hurried to follow up."
+[note] (p.198) "It was Hondō who came out in force. It seemed that he had extraordinarily strong feelings for Kushida." — adjacent narration; no [says] rows on p.198.
+[rel:kushida-kikyou] (p.190–198) Her staunchest defender in the room; his protest collapses as her secrets spread.
+[rel:ayanokouji-kiyotaka] (p.190–198) His rebuttal falls flat before the class's eyes.
+
+<!-- walk: y2v5 Ch.8 → p.231 -->
+
+### y2v5 p.95, 186, 220 — Coverage-gate mention records
+[mentioned] (p.95) "Okinawa team, spearhead, Onodera, middle, Hondō, general, Sudō, mixed gender team." — Hondō named; Okinawa loses.
+[mentioned] (p.186) "Huh? Didn't Hondō-kun just promise to vote against you and Onizuka-kun? It's the same thing." — Haruka.
+[mentioned] (p.220) "we can have hand-raise votes for Hondō, Okitani, or another student, but it will not be less than three votes for Airi." — the comparison set.
 
 ## y2v7
 
