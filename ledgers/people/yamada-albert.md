@@ -232,14 +232,21 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.160–167 — Albert supports inviting Ayanokōji
-[scene] (p.160–167) He nods in agreement when Ishizaki and Hiyori invite Ayanokōji to join Ryūen's group.
+### y2v2 p.152–167 — The wall who carries Ayanokōji
+[scene] (p.153–157) Between the corner and the door, he materializes; his right hand lands on Ayanokōji's shoulder.
+[says] (p.153) “Hey.”
+[says] (p.157) “It’s okay. Yamada-kun is very strong.”
+[says] (p.155) “OK.”
+[scene] (p.158–166) In his room, the plan is laid out over flags; he offers no doubt at all.
+[says:ishizaki-daichi] (p.158) “Albert’s a flag fanatic. Surprised ain’tcha?”
 [says] (p.162) “That was high praise, Ayanokouji-kun, but my opinion is also the same.”
-[trait] (p.160–167) Loyal to Ryūen's faction.
+[says] (p.163) “YES.”
+[note] (p.155–166) His Japanese is serviceable; he understood everything Ishizaki blurted; his room is wallpapered with fabric flags.
+[rel:ayanokouji-kiyotaka] (p.152–167) His classmate; his member; his driver.
+[rel:ishizaki-daichi] (p.152–167) The partner-in-crime.
+[rel:shiina-hiyori] (p.152–167) She leads the capture.
 
 <!-- walk: y2v2 Ch.3 → p.167 -->
-
-
 ## y2v3
 
 <!-- walk: y2v3 → start -->

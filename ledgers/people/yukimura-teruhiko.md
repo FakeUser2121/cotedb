@@ -1009,6 +1009,12 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [rel:miyake-akito] (p.39–45) The one he trusts will just take Kiyotaka as he is.
 
 <!-- walk: y2v2 Ch.1 → p.45 -->
+
+### y2v2 p.120–179 — Keisei's group situation
+[note] (p.120) “Keisei, who usually would quietly listen to the instructions of the special exams, murmured as if recalling memories of that.” — on page, in the classroom, at the exam announcement; not a spoken line.
+[note] (p.179) His name is floated as the “left out” scout — the classes want his mind; his own small group is not settled yet on this page.
+
+<!-- walk: y2v2 Ch.3 → p.179 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

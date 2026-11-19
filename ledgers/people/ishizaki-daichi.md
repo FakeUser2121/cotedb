@@ -677,27 +677,70 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.160–167 — Ishizaki invites Ayanokōji to Ryūen's group
-[scene] (p.160–167) He, Albert and Hiyori invite Ayanokōji to join Ryūen's group for the island exam, offering 20M points; he declines for now.
-[scene] (p.187–194) He helps Ayanokōji investigate Komiya's feelings for Shinohara by calling Komiya.
-[trait] (p.160–194) Enthusiastic and loyal — he pushes the invitation and then helps his friend.
-[rel:ayanokouji-kiyotaka] (p.160–194) He invites and then assists him.
+### y2v2 p.152–167 — Ishizaki's Class B recruitment pitch
+[scene] (p.152–153) He intercepts Ayanokōji in the corridor after school; delivers him to Albert and Hiyori; together they walk him to Albert's room.
+[says] (p.152) “Yo!”
+[says] (p.152) “I contacted you through your cell phone, but there was no response, so I came straight to you.”
+[says] (p.152) “Forget it, it’s fine, just do me a favour and give me some time, alright?”
+[says] (p.152) “Wha, that’s an interesting joke. Does a guy who can intimidate you really exist in this school?”
+[says] (p.152) “Are you busy after this?”
+[says] (p.152) “Really? Then there’s no problem. Come.”
+[scene] (p.158–162) In Albert's flag room he pitches the alliance: Ayanokōji + him + Albert, then merge with another Class B 3-man group mid-exam; 20M points if Class B reaches Class A.
+[says] (p.158) “Let’s cut to the chase, here’s my proposal…. Let’s form a group for the next special exam!”
+[says] (p.159) “More details? That’s all there is to it”
+[says] (p.159) “Right. And then when the exam starts, you’ll combine your group with another three person group from Class B, so it’ll be a perfect six person group. With five people from our class, and you being the sixth, Ayanakouji, let’s aim for first place!”
+[says] (p.160) “Really?”
+[says] (p.161) “Ain’t no point in worrying about things I don’t understand.”
+[says] (p.162) “Well, ‘course it’s just you. I reckon you’re just as powerful as Ryuuen… Nah, if I had to say, it’s cuz I now think that you’re even better than him. You’re strong as hell at fighting, and your mental agility is even acknowledged by him. Plus, in the spring exam, you got a perfect score in math. That was truly incredible. The group which has Ayanokouji has the exam in the bag. So I see no reason for us not to invite you, eh?”
+[says] (p.162) “The heck, of course you can’t be the only one who doesn’t get any benefits! If we’re promoted to Class A, we’ll give you 20 million points to come to our class, Ayanokouji. Waddya say?”
+[says] (p.162) “In other words, you can get either your class into Class A, or our class into Class A. This way, you have a 50% chance of graduating from Class A.”
+[says] (p.163) “It’s my own decision. Ryuuen knows nothing about it.”
+[says] (p.163) “Never thought about it! No need to dwell on that! Even so… I’m ready for that.”
+[says] (p.164) “The rules allow us to form groups with students from within the same year, right? So I thought Ayanokouji was absolutely necessary in order to form the best team. What’s wrong about that? ”
+[says] (p.164) “The key point of this special exam is to prevent the 2nd year students’ class points from being taken away by the others. Of course, it’s also necessary to aim for the top spots in the overall ranking. For which, Ayanokouji is indispensable.”
+[says] (p.164) “Then, will you join our group?”
+[says] (p.164) “Wh-why?”
+[says] (p.165) “Don’t be ridiculous! Do you think Ryuuen-kun will ever approve of our plan!?”
+[says] (p.166) “That’s right.”
+[says] (p.166) “Kaneda-kun is the same, he won’t ignore Ryuuen-kun’s orders and participate in a strategy he’s unsure of.”
+[says] (p.166) “… I get it. Well, if that’s the case, there’s no helping it…”
+[note] (p.160–167) Hiyori quietly reminds everyone of the merge conditions; the 20M offer stays on the table; he blinks and accepts the postponement gracefully.
+[rel:ayanokouji-kiyotaka] (p.152–167) He recruits him; Ayanokōji keeps the meeting open but undecided.
+[rel:yamada-albert] (p.152–167) His right hand in the plan.
+[rel:shiina-hiyori] (p.152–167) She enables and edits the pitch.
+[rel:ryuuen-kakeru] (p.163–167) Deliberately excluded from this.
+[rel:kaneda-satoru] (p.165–166) Named as the alternate sixth.
+
+### y2v2 p.187–194 — The Komiya investigation
+[scene] (p.187–188) Ayanokōji calls him after class; Nishino materializes mid-meeting; the Komiya problem opens up; Nishino coaches the tactic.
+[says] (p.187) “Yo! Are you finally thinking to group up with us!?”
+[says] (p.187) “Sorry, that’s still under deliberation. I’m here for something else today.”
+[says] (p.187) “So, what did you want to discuss with me?”
+[says] (p.188) “Hey, you didn’t listen to me at all! This is why you’re ostracized!”
+[says] (p.188) “Ah no, just that this girl’s isolated in our class right now. That’s become a bit of a problem.”
+[says] (p.188) “Isolated? I’m hardly troubled by that.”
+[says] (p.188) “Hey, you didn’t listen to me at all!”
+[says] (p.189) “He’s just a nice guy in general, right? He also has good motor skills, and because he’s in the basketball club, he has good physical strength as well.”
+[says] (p.189) “It seems like one of them invited the other to form a group, are they dating?”
+[says] (p.190) “Ahh… Eh, what? Don’t tell me, Ayanokouji, that…. You like Shinohara?”
+[says] (p.190) “Wha? She’s the type of girl a blockhead like you’d fall for though? Am I right, am I right?”
+[says] (p.190) “Don’t hide it from me, we’re close friends, eh?”
+[says] (p.190) “But since it’s you, I’m pretty sure you can aim for a cuter girl.”
+[says] (p.191) “I get it now, but, love isn’t something that others can interfere with.”
+[says] (p.192) “Something in return? I won’t ask for anything. It’s normal to want to help out a friend who is in trouble.”
+[says] (p.193) “… Ah, Komiya? Sorry to call you right before club activities start. Ah no, I’ve got something I wanted to ask you. Did you talk to Shinohara from Class D this morning? … Just as I thought. No, we formed a pact of not getting a girlfriend before telling each other, but I think you might be leaving me behind in that respect.”
+[says] (p.193) “You’re telling me you aren’t dating? Really? If you’re lying, then you’ll be in trouble later, eh?”
+[says] (p.193) “Eh… Seriously? Oh, oh, I see, ahh…”
+[says] (p.194) “That Komiya guy, he’s planning to confess to Shinohara on the uninhabited island.”
+[says] (p.194) “What can we do? In the end, there’s no way we can stop it.”
+[says] (p.194) “I said I don’t need anything in return.”
+[says] (p.194) “Thanks, although it’s not easy for you either, do your best.”
+[note] (p.187–194) He calls Komiya with Nishino's coaching; the pact of no-girlfriends-before-telling; he insists on working for nothing.
+[rel:ayanokouji-kiyotaka] (p.187–194) He helps him on instinct.
+[rel:nishino-takeko] (p.187–192) She rides along and improves the plan.
+[rel:komiya-kyogo] (p.193–194) He extracts the planned confession.
 
 <!-- walk: y2v2 Ch.3 → p.194 -->
-
-### y2v2 p.152–166 — Ishizaki's group proposal to Ayanokōji
-[scene] (p.152) Spots Ayanokōji at school, calls out with a smile, and brings him to meet Albert and Hiyori — proposing they form a group for the island exam.
-[says] (p.155) “We stand out here a lot. We should move, Ishizaki-kun?” — Ayanokōji
-[says] (p.159) “Let's cut to the chase, here's my proposal…. Let's form a group for the next”
-[says] (p.159) “when the exam starts, you'll combine your group with another three person group from Class B, so it'll be a perfect six person group.”
-[says] (p.159) “With five people from our class, and you being the sixth, Ayanakouji, let's aim for first place!”
-[says] (p.161) “but Ryuuen-kun is indispensable.”
-[says] (p.163) “Don't be ridiculous! Do you think Ryuuen-kun will ever approve of our” — Hiyori; Ishizaki continues
-[trait] (p.152–166) Cheerful, sociable and unexpectedly strategic — devises a cross-class six-person group plan on his own (not Ryūen's orders), supported by Albert and Hiyori; grows flustered and panicked under Ayanokōji's probing, his brow visibly sweating, but insists on the goal of first place.
-[rel:ayanokouji-kiyotaka] (p.152–166) Proposes the group; wants his academic strength — he calls his math “truly incredible” — for the exam.
-[rel:shiina-hiyori] (p.157–165) His classmate and supporter; she corrects his plan's flaws.
-[rel:yamada-albert] (p.153–165) His classmate, part of the proposed group.
-[rel:ryuuen-kakeru] (p.163) The plan is his own idea; he knows Ryūen wouldn't approve of certain group choices.
 ## y2v3
 
 <!-- walk: y2v3 → start -->

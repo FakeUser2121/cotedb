@@ -10,11 +10,10 @@ char_id: asakura-mako · class: unknown · status: unknown
 
 <!-- walk: y2v2 → start -->
 
+### y2v2 p.168 — Named in passing (Ch.3)
+[mentioned] (p.168) Asakura Mako — Class C; named at p.168 as the holder of the More People card (special card, one per year).
 
-
-
-<!-- walk: y2v3 Epilogue → p.368 -->
-
+<!-- walk: y2v2 Ch.3 → p.168 -->
 ## y2v8
 
 <!-- walk: y2v8 → start -->
@@ -22,7 +21,7 @@ char_id: asakura-mako · class: unknown · status: unknown
 ### y2v8 p.11-208 — asakura-mako mentioned in passing
 [scene] (p.11) Named in this volume.
 [note] (p.11) Passing mentions on pages: none.
-[mentioned] (p.11) Passing mention only.
+[mentioned] (p.168) Asakura Mako — Class C; named at p.168 as the holder of the More People card (special card, one per year).
 
 
 
@@ -57,7 +56,7 @@ char_id: asakura-mako · class: unknown · status: unknown
 ### y2v10.25 p.1-10 — asakura-mako mentioned in passing
 [scene] (p.1) Named in this volume.
 [note] (p.1) Passing mentions on pages: none.
-[mentioned] (p.1) Passing mention only.
+[mentioned] (p.168) Asakura Mako — Class C; named at p.168 as the holder of the More People card (special card, one per year).
 
 
 

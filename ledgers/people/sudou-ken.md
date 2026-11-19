@@ -1864,6 +1864,19 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:ike-kanji] (p.19–22) Old friends on the same fight.
 
 <!-- walk: y2v2 Ch.1 → p.63 -->
+
+### y2v2 p.142–144 — Sudō's alliance idea
+[scene] (p.142–144) The strategy circle runs its third pass; Sudō floats the three-class alliance.
+[says] (p.142) “But, what about the distribution of class points when you win? Although I understand the reason behind it, there’s no benefit in grouping up with other classes. It just feels like we’d be messing around if we do that.”
+[says] (p.144) “Then how about an alliance between the three classes? If the gap is extended by Class A, let’s first establish an alliance from Class B to D. To be able to narrow that gap with Class A wouldn’t be bad.”
+[note] (p.142–145) “The particularly important part of this exam...” and “But if we rely on only our class…” are untagged group-talk in the translation; speakers unassigned as printed.
+[rel:hirata-yousuke] (p.142–144) He works alongside him.
+
+### y2v2 p.169–170 — The OAA bench situation
+[scene] (p.169–170) Ike's Shinohara-pitch references him and Hondō as the "natural" group; Shinohara lets it bounce off.
+[note] (p.169–170) His name is the reason his corner of the class forms its own gravity.
+
+<!-- walk: y2v2 Ch.3 → p.170 -->
 ## y2v3
 
 <!-- walk: y2v3 → start -->

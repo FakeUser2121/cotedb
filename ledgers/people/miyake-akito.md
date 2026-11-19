@@ -646,6 +646,11 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [rel:yukimura-teruhiko] (p.12–22) Sits with him through the uproar.
 
 <!-- walk: y2v2 Ch.1 → p.53 -->
+
+### y2v2 p.179 — Miyake's group
+[scene] (p.179) Airi, Akito and Haruka form their group; Yousuke rates his motor skills.
+
+<!-- walk: y2v2 Ch.3 → p.179 -->
 ## y2v3
 
 <!-- walk: y2v3 → start -->

@@ -254,20 +254,28 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.178–184 — Matsushita proposes cooperation to Ayanokōji
-[scene] (p.178–184) She approaches him with her contact info, proposing they cooperate during the exam; he keeps his options open.
-[says] (p.182) “I do. That's why I think it's important for me to cooperate with you to help”
-[trait] (p.178–184) Strategic and proactive — she seeks alliances early.
-[rel:ayanokouji-kiyotaka] (p.178–184) She proposes cooperation.
+### y2v2 p.179–185 — Matsushita recruits him
+[scene] (p.179–180) She trails him at a distance till Yosuke peels off; edges him into a conversation he didn't plan.
+[says] (p.180) “You don’t seem very surprised. Did you notice from the start?”
+[says] (p.180) “Is that any of your business, Matsushita?”
+[says] (p.180) “It’s not so much about me, as it’s about us. Ayanokouji-kun, you’re an important existence for us to get into Class A.”
+[scene] (p.181–184) She offers to be his point-blank support under the Trial card; he defers the decision.
+[says] (p.181) “Don’t be so cautious, I approached you because I just had something to tell you today as soon as possible.”
+[says] (p.182) “The Trial card is an item with a very powerful effect. But it’s difficult to use it. If you’ve got any problems, I would like to help you, Ayanokouji-kun. How about it?”
+[says] (p.182) “Of course, during the exam, I’ll completely follow your instructions.”
+[says] (p.183) “I do. That’s why I think it’s important for me to cooperate with you to help you.”
+[says] (p.183) “…So I’ve been exposed?”
+[says] (p.183) “I don’t think it’d be difficult to stay in the top ranks if it were you. Even if we don’t end up on the podium, we’re bound to reach the top 30%. It would be more dangerous if I put my friends first and make a half-assed group with them.”
+[says] (p.183) “I thought you’d get snapped up quickly, Ayanokouji-kun.”
+[says] (p.184) “I won’t decide on my group, at least for this month.”
+[says] (p.184) “You mean that you want to wait and watch how things go?”
+[says] (p.184) “It seems like I won’t get a satisfactory answer now. I see, give it some thought.”
+[says] (p.185) “Ah, right. Here’s my contact information.”
+[note] (p.180–185) He handed her his ID; she handed him hers; she's Class D; the Trial card looms over the offer.
+[trait] (p.179–185) Calculated opportunist with genuine respect for strength; she stalks him only on paper; she holds the cards patiently.
+[rel:ayanokouji-kiyotaka] (p.179–185) She wants to sign him; he defers; she keeps the line open.
 
-<!-- walk: y2v2 Ch.3 → p.184 -->
-
-### y2v2 p.182–184 — Matsushita's offer to group with Ayanokōji
-[says] (p.182) “If you've got any problems, I would like to help you, Ayanokouji-kun.”
-[says] (p.183) “Did you judge that your odds of survival are the highest if you grouped up”
-[says] (p.183) “I thought you'd get snapped up quickly, Ayanokouji-kun.”
-[trait] (p.182–184) Shrewd and calculating — holds a “trial card” that makes a group more likely to be expelled, yet offers to assist Ayanokōji despite the danger; explains she chose him because she thought he'd be snapped up quickly and preferred taking the risk with capable people over a “half-assed group” with friends.
-[rel:ayanokouji-kiyotaka] (p.182–184) Offers to group with him; he declines to decide immediately, suspecting she is scheming.
+<!-- walk: y2v2 Ch.3 → p.185 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

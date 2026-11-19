@@ -2019,6 +2019,31 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:ayanokouji-kiyotaka] (p.92–108) He gives her the outline after Amasawa leaves; the trust is forced forward.
 
 <!-- walk: y2v2 Ch.2 → p.108 -->
+
+### y2v2 p.198–202 — Kei asks for his help
+[scene] (p.198) Her visit tonight begins with the exam question.
+[says] (p.198) “Hey… Kiyotaka, who do you plan to group up with for this uninhabited island exam?”
+[says] (p.198) “Eh? Wh-why?”
+[scene] (p.199–200) The stakes turn personal; her 760,000-point gap on the table.
+[says] (p.199) “Kiyotaka, if it’s you, are you able to take first place?”
+[says] (p.199) “I feel like… You’d take first place non-nonchalantly. Eh, but wait a minute. In that case, wouldn’t it be harder to say that we’re dating!?”
+[says] (p.199) “So, so… even you don’t think you can win, Kiyotaka?”
+[says] (p.199) “Just answering that there’s a 50% chance is already super impressive…”
+[says] (p.199) “Right, this special exam does involve expulsion. If you are in the bottom 5 groups, you’ll have to face that penalty. That’s why you can’t randomly choose who you group up with.”
+[says] (p.199) “Yeah. That’s why, I wanted to group up with you, Kiyotaka… I hoped you could protect me.”
+[scene] (p.200–202) The math of her survival; his Trial card is the way out.
+[says] (p.200) “That’s true, but…”
+[says] (p.200) “That’s true, but even if you do form a group of 6 students in the exam, you’ll still need 1 million points to avoid expulsion, right? I don’t have that much.”
+[says] (p.200) “Um… 240,000 points…. E-even so, I’m considered to be someone who has saved up a lot recently!”
+[says] (p.200) “Yeah. How much is that card worth?”
+[says] (p.201) “… Sure enough, that’s true.”
+[says] (p.201) “Kiyotaka, your card is the Trial card, right? It’s a card that has a strong effect if you win, but conversely if you lose it would be tragic… Ah, of course, I know that you’ll have no problem at all. I wanted the Half Off or the Nullify card though.”
+[says] (p.201) “But then, you’ll have to give up the Trial card… Is that really okay?”
+[says] (p.202) “Ye-yeah… Th-thanks.”
+[trait] (p.198–202) She names her fear precisely — 760,000 points short and nowhere else to turn; pride makes her wait until the end of the night to say it.
+[rel:ayanokouji-kiyotaka] (p.198–202) She asks him for protection, then accepts him paying for it.
+
+<!-- walk: y2v2 Ch.3 → p.202 -->
 ## y2v3
 
 <!-- walk: y2v3 → start -->

@@ -730,6 +730,11 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [rel:sakura-airi] (p.43–45) They exchange a glance; Airi worries about her.
 
 <!-- walk: y2v2 Ch.1 → p.53 -->
+
+### y2v2 p.179 — Haruka's group
+[scene] (p.179) She groups with Akito and Airi; the group is well balanced by motor skills.
+
+<!-- walk: y2v2 Ch.3 → p.179 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

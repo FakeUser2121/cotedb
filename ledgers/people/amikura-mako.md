@@ -73,8 +73,10 @@ char_id: amikura-mako · class: Class 1-B · status: minor (allies)
 
 <!-- walk: y2v2 → start -->
 
+### y2v2 p.168 — Named in passing (Ch.3)
+[mentioned] (p.168) Amikura Mako — roster twin of asakura-mako for the same Class C student; the corpus prints “Asakura Mako” at p.168 as the More People card holder; scenes tracked on asakura-mako.md; flagged as a duplicate roster row for the owner, do not merge from this side.
 
-
+<!-- walk: y2v2 Ch.3 → p.168 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

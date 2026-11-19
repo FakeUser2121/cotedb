@@ -130,15 +130,10 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.12, 27, 44, 53, 66 — Kitō mentioned in passing
-[scene] (p.12) Named in the classroom discussion about Ayanokōji's perfect score.
-[scene] (p.66) Named in the student council recruitment context.
-[note] (p.12, 27, 44, 53, 66) Passing mentions; not a distinct scene presence.
-[mentioned] (p.12, 27, 44, 53, 66) Passing mention only.
+### y2v2 p.215 — Named in passing (Ch.3)
+[mentioned] (p.215) Kitō Hayato — Class A, named by Sakayanagi at p.215 as Class A main force.
 
-<!-- walk: y2v2 Ch.2 → p.66 -->
-
-
+<!-- walk: y2v2 Ch.3 → p.215 -->
 ## y2v3
 
 <!-- walk: y2v3 → start -->

@@ -5006,6 +5006,59 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:ichinose-honami] (p.77) She is the standard she's measured against for being a year ahead.
 
 <!-- walk: y2v2 Ch.2 → p.82 -->
+
+### y2v2 p.119–151 — The exam; the alliance debate; the quiet phones
+[scene] (p.119) She asks the timing question from the front row's centre seat.
+[says] (p.119) “When would the special exam begin?”
+[scene] (p.124) The allies-line murmur leaves her mouth on its own.
+[says] (p.124) “Which means… the students in the 2nd year, are our allies…?”
+[scene] (p.133) She raises her hand on the mixed-groups reward question.
+[says] (p.133) “If you form a group with the other classes, the reward will be split equally among the classes. Wouldn’t that rule result in only choosing people from your own class to form the groups?”
+[scene] (p.142–146) The front-row strategy circle thinks aloud — she leads it, Yosuke anchors it.
+[scene] (p.147–151) After school, nobody calls her; she hooks Ayanokōji in the corridor.
+[says] (p.147) “It seems like everyone’s quickly making their move. After all, it’s natural to want to bring the outstanding students into one’s group.”
+[says] (p.147) “No, I didn’t.”
+[says] (p.147) “You knew it already, and you still had to mention it deliberately. You’re a nasty guy. So, did anyone contact you? Ayanokouji-kun, who got a perfect score in math? Your cell phone is surprisingly quiet.”
+[says] (p.148) “If you don’t use your phone frequently, you’ll charge it less often.”
+[says] (p.148) “I’ve already instructed them on what they should do earlier. I summed it up in an easy to understand way and sent it to everyone. But you didn’t seem to notice it, since your battery’s dead.”
+[says] (p.148) “This is not enforced, because this matter ultimately depends on personal judgement.”
+[says] (p.149) “This time’s uninhabited island exam… Can you get first place by yourself?”
+[says] (p.149) “I was wondering if you, who got a perfect score in math, even needed a group.”
+[says] (p.149) “If we come in first place, our Class D will gain points for certain. We can let the 1st and 3rd years fight for the 2nd and 3rd place. Better than letting the other 2nd years get it.”
+[says] (p.149) “If that is the case, we can form the groups with the core objective of avoiding any dropouts, and forming the groups would be easier .”
+[says] (p.150) “Yes. For the students who are a little worried, I would like to collect as many private points as possible, but if the student who lends me points receives the penalty of expulsion, there’s no helping it.”
+[says] (p.150) “Although a method that would result in no dropouts exists, I don’t think anyone would want to do it.”
+[says] (p.150) “It feels like we can only rely on our own strength to survive.”
+[says] (p.150) “That’s true. Can I consult you again?”
+[says] (p.150) “That’s enough, thank you.”
+[note] (p.148) Her instruction text, shown on the tablet: “Please don’t form a group before Class D reaches an agreement.” / “Nevertheless, if you absolutely want to decide on your group as early as possible, please contact Horikita.”
+
+### y2v2 p.174–197 — The Trial card; the Ike plan
+[scene] (p.174–176) She intercepts him in class about the Trial card; then the Ike flare.
+[says] (p.174) “You’re having a string of bad luck, huh, drawing the Trial card and all. I’m sure you’re drawing attention again.”
+[says] (p.174) “It would’ve been nice if we could trade cards freely within the class. No student who isn’t confident of winning would want the Trial card, and yet we cannot just give it to a student who is confident of winning.”
+[says] (p.174) “That being the case, you have no choice but to be in the top 30%, and maybe even get a podium finish, isn’t it?”
+[says] (p.174) “If you really want to rely on me, I’ll certainly lend a hand.”
+[says] (p.175) “What you decide to do is up to you. Although, it would be nice if you could easily find a buyer. The Trial card affects not just the person holding the card but their entire group. It’s a dangerous risk to take.”
+[says] (p.175) “For the record, I’m being sarcastic.”
+[says] (p.175) “I don’t remember teasing you, though…”
+[scene] (p.195–197) She meets him at the cafeteria; the Ike plan; too late — Shinohara-Komiya-Kinoshita is already grouped on the OAA.
+[says] (p.195) “Isn’t it fine to just leave them alone?”
+[says] (p.195) “I thought we had a serious problem on our hands, since you’re the one coming to consult me… but this isn’t our problem to fix. Besides, I’ve evaluated Ike-kun’s ability as a boy scout to be high, so we should group him with regards to his ability, not his feelings.”
+[says] (p.195) “So he could be expelled due to his feelings for Shinohara leading him by the nose?”
+[says] (p.196) “… That would be problematic. This is so stupid.”
+[says] (p.196) “So you’re saying it’s necessary to prevent that? But if we stop them from forming a group, won’t Komiya-kun just change the timing of his confession? Depending on the situation, he might just confess on that same day.”
+[says] (p.196) “This is a lot more complicated than it sounds. We can’t take care of them until they start dating.”
+[says] (p.196) “Why don’t we just make Ike-kun confess? If Shinohara-san accepts, Ike-kun will fight hard to stay at the school no matter what group he’s in, right? On the other hand, if he gets rejected, he can forget about this whole matter and focus on the exam.”
+[says] (p.197) “Although you’re good at many things, you don’t seem to be good at romance at all.”
+[says] (p.197) “I’m studying hard right now.”
+[says] (p.197) “Unfortunately, it seems like we’re too late.”
+[says] (p.197) “Since we’ve already reached this point, we must take measures to prevent Ike-kun’s loss of motivation.”
+[rel:ike-kanji] (p.195–197) The plan aimed at him is stillborn — the OAA betrayed them.
+[rel:ayanokouji-kiyotaka] (p.142–197) He is the Trial card-holder everyone can see.
+[rel:hirata-yousuke] (p.142–186) She leans on his calm in the strategy circle.
+
+<!-- walk: y2v2 Ch.3 → p.197 -->
 ## y2v3
 
 <!-- walk: y2v3 → start -->

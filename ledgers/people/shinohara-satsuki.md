@@ -383,20 +383,39 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.15–19 — Shinohara in the uproar
-[scene] (p.15) She swipes the tablet Yukimura hands her, incredulous that the 2nd-year results are published.
-[says] (p.15) “Do tell me more.”
-[says] (p.15) “I didn’t even notice. You can even see the results of the other classes. Why is that?”
-[says] (p.15) “Waaah, I hate this! Wouldn’t this mean that a lot of people will know my scores? This is the worst!”
-[scene] (p.19) Stands beside Ike; the class's talk turns to cheating; she cannot parse the leap.
-[says] (p.19) “Cheat? How would he even cheat?”
-[scene] (p.37–38) Recruited by Karuizawa to ratify the cover story; plays along with flawless instinct.
-[says] (p.37) “That’s right! I feel like I’ve been seeing Horikita-san and Ayanokouji-kun talking secretly for a long time now, but it turns out that they’re really just doing it for the class!”
-[trait] (p.15–38) Quick, trusting, literal — a player piece without knowing it; the class uses her credibility both ways.
-[rel:karuizawa-kei] (p.37) She does Karuizawa's bidding without realizing the play.
-[rel:yukimura-teruhiko] (p.15–38) She watches his meltdown and echoes it.
+### y2v2 p.15–38 — Shinohara in the uproar (Ch.1 backreference)
+[back] (p.15–38) See the Ch.1 sections above for the perfect-score uproar and her cover-story role.
 
-<!-- walk: y2v2 Ch.1 → p.38 -->
+### y2v2 p.168–177 — The Komiya turn
+[scene] (p.168–169) He hails her in the lobby; she dodges gently; she lets him walk with her.
+[says] (p.169) “No, not yet… Why do you ask?”
+[says] (p.169) “Oh, really? What about you? You’re gonna be with Sudo-kun and Hondo-kun either way, right?”
+[says] (p.170) “Probably, huh~.”
+[says] (p.170) “I guess.”
+[says] (p.170) “The heck? Look at you acting all high and mighty.”
+[says] (p.170) “Well, I guess I can consider it, but… You sure want to be in the same group as me?”
+[says] (p.171) “Huh!? Sacrifice what? I didn’t ask for that!”
+[scene] (p.171) Kushida's invitation pulls Ike away mid-sentence; she watches him leave; he doesn't turn around.
+[says] (p.171) “No, it’s alright, he’s been bothering me since he first called out to me. Take him.”
+[scene] (p.172–173) She stops on the steps; Komiya finds her there; her eyes are red.
+[says] (p.172) “Ah, Komiya-kun… Good morning.”
+[says] (p.172) “Eh? W-why do you ask?”
+[says] (p.172) “Ah, you got me, huh? Something got in my eyes just now… Oww.”
+[says] (p.172) “Yeah, it’s been a long time coming.”
+[scene] (p.175–177) Back in class she announces she's grouped with Komiya; leaves early for the café; Ike deflates behind her.
+[says] (p.175) “Yeah, anything wrong with that?”
+[says] (p.176) “Forbidden what, I haven’t officially confirmed yet. Well, I’m going to confirm today though.”
+[says] (p.176) “And what are you talking about, saying that you invited me. Who’s the one who got all horny and ignored me?”
+[says] (p.176) “Turned someone down? Ah, you’re really pissing me off. You really are a horrible person.”
+[says] (p.176) “What’s it got to do with you?”
+[says] (p.176) “Class B’s Komiya-san. He invited me just after the special exam started yesterday.”
+[says] (p.176) “He isn’t flashy, and I promised to meet up at the cafe after school to discuss it.”
+[note] (p.171–177) She did not cry over Ike; something else reddened her eyes; she chooses Komiya's orbit — he notices, then confesses he likes her.
+[rel:ike-kanji] (p.169–177) She does not return his feelings; she tolerates him politely.
+[rel:komiya-kyogo] (p.168–177) He sees her red eyes; he intends to walk the island with her.
+[rel:kushida-kikyou] (p.171) She hands Ike to her.
+
+<!-- walk: y2v2 Ch.3 → p.177 -->
 ## y2v3
 
 <!-- walk: y2v3 → start -->

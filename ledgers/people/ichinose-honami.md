@@ -1785,32 +1785,64 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.46–52 — Ichinose and Kanzaki at Keyaki mall
-[scene] (p.47) She calls out to Ayanokōji at the mall entrance at 6:30 with Kanzaki beside her.
-[says] (p.47) “Ayanokouji-kun, are you waiting for someone?”
+### y2v2 p.46–53, 203–218 — Ichinose at Keyaki mall; the pact
+[scene] (p.47) At the mall entrance at 6:30 with Kanzaki; she greets Ayanokōji warmly.
 [says] (p.47) “Say, I’ve seen your exam results. You actually got a perfect score in math, that’s amazing!”
-[scene] (p.48–49) She checks Kanzaki's interrogation of Ayanokōji; then private.
+[scene] (p.48–52) She holds off Kanzaki; then privately tells Ayanōji to trust his classmates; she will leave first if anyone must.
 [says] (p.48) “Ayanokouji-kun is not our enemy.”
-[says] (p.48) “That’s…but there’s no point for us to engage in a pointless dispute!”
-[says] (p.49) “However, there’s a limit to test scores. No matter how good you are at studying, the max you can get on a subject is 100 points, and the highest grade is an A+. Even if he gets full marks in all of them, there’s not much of a gap between him and Sakayanagi-san, the second in the year.”
-[says] (p.49) “Our overall scores in Class C are much higher than that. The point difference from Ayanokouji-kun after showing his true strength, we just have to make up for that with our whole class.”
-[says] (p.49) “We should stop here, Kanzaki-kun. You also know that this isn’t a thing we should be arguing about heatedly here, right?”
-[scene] (p.50–52) After Kanzaki leaves, she chooses her path aloud.
 [says] (p.50) “I’m sorry, but given the current situation, Kanzaki-kun definitely doesn’t have much legroom.”
-[says] (p.50) “Do you remember what I told you before?”
 [says] (p.51) “There may be students who want to change their own class appearing from … now on, just like Kanzaki. Or there may be some that are dissatisfied with you and want to stop you. Maybe even some that will betray the class too. It won’t be surprising to think some will do whatever just to make a change. Class 1-B, the class that only you protected, that class doesn’t exist anymore.”
 [says] (p.51) “No matter what happens from here, I want for you to trust your classmates, put their safety first and continue the fight.”
 [says] (p.52) “Dissatisfied…?”
 [says] (p.52) “T-that… y-yeah… I’ll …definitely…stay.”
-[says] (p.52) “Y-you…. Are really amazing, Ayanokouji-kun…”
-[says] (p.52) “Even so that’s still amazing. It just means you have a weapon that won’t lose to anyone else.”
-[says] (p.52) “That would be nice, but…”
 [says] (p.52) “…I need to leave soon. We’re standing too much out here, and I feel bad letting Kanzaki wait for me.”
-[trait] (p.46–52) Chooses trust over suspicion; the Class 2-C collapse (formerly Class B) is certain to her — she is already weighing whether she must be the one to leave first for the class's sake.
-[rel:ayanokouji-kiyotaka] (p.46–52) She sees a king she would follow anywhere.
-[rel:kanzaki-ryuuji] (p.46–52) She knows he is right in practice and loses to him in argument.
 
-<!-- walk: y2v2 Ch.1 → p.52 -->
+### y2v2 p.203–218 — The Sakayanagi pact
+[scene] (p.203–204) On a café night Sakayanagi springs the invitation; Ichinose, taught by betrayal, almost refuses; almost.
+[says] (p.204) “Why? Because I had nothing special planned for today.”
+[says] (p.204) “Well– I don’t think you did anything excessive, Sakayanagi-san. Indeed, I have to reflect on what happened during middle school, as I also think that it was a shameful act. Also, it’s not like I asked you to keep it a secret, so I don’t think it’s right to blame you for exposing it.”
+[says] (p.204) “Am I? I’m not too sure about that.”
+[says] (p.205) “Ahaha… Truly blunt.”
+[says] (p.205) “It’s true that our state of being left out in the cold can’t be called good.”
+[says] (p.206) “I also know just how formidable they are.”
+[says] (p.206) “But, in order to climb the ladder, there’s no avoiding that road. Besides, while it’s true that Ryuuen-kun is a tough opponent, you’re not someone that can be easily defeated either, Sakayanagi-san.”
+[scene] (p.207–211) Sakayanagi walks her through Class 2-C's danger and offers the alliance; she wavers; exposes Sakayanagi's true goal (stopping the three-class alliance); accepts.
+[says] (p.207) “Indeed, there are some interesting talented individuals in Class D. Headed by Hirata-kun and Kushida-san, who have strong communication skills, and have well-balanced grades, along with Sudo-kun, who’s the only one to get an A+ rating in physical ability in the entire 2nd year. Meanwhile, their hidden trump card, Ayanokouji-kun, got a perfect score on an extremely difficult math test. Then, there’s also Kouenji-kun, whose strengths and limits are still a mystery; he too is a dangerous adversary.”
+[says] (p.207) “Horikita-san and her class are also rapidly gaining strength. In terms of individual strength, some of them wouldn’t lose to anyone in the other classes… Looking at it this way, It seems like I really don’t have any room to spare.”
+[says] (p.208) “That… that’s not the case. We’ve grown as well.”
+[says] (p.208) “You might not believe it, Sakayanagi-san, but I don’t think we’ll lose.”
+[says] (p.208) “Ye…Yes.”
+[says] (p.209) “Eh…?”
+[says] (p.209) “No, but that’s—”
+[says] (p.210) “That’s right… partnerships can’t last forever.”
+[says] (p.210) “What makes me sad is that this isn’t a happy proposal. After all, it implies that our class is not worthy of your caution, an insignificant existence to you.”
+[says] (p.210) “I don’t think it’ll be beneficial for you to cooperate with us, Sakayanagi-san.”
+[scene] (p.211–218) The negotiation closes: Sakayanagi offers her trust + 5 people's worth of deposits (3M repaid; 5M total); Sakayanagi can participate in the exam in a “semi-eliminated” position; the More People card; the handshake; the first-place vow.
+[says] (p.211) “Could you be a bit more specific?”
+[says] (p.211) “… That’s right.”
+[says] (p.211) “Right. So I guess we’ll inevitably have to build a winning group from our own class.”
+[says] (p.213) “Although the gap with our class wouldn’t be narrowed, you can catch up with Ryuuen-kun’s class, and widen the gap with Class D.”
+[says] (p.213) “But— If we do that, we’ll lose a chance to catch up to your class.”
+[says] (p.213) “That…”
+[says] (p.213) “It’d be lying if I said I haven’t thought about that before.”
+[says] (p.215) “Special?”
+[says] (p.215) “So Sakayanagi-san, you can participate under this special position?”
+[says] (p.215) “Sakayanagi-san, may I tell you how I really feel?”
+[says] (p.216) “Sakayanagi-san, you don’t want the three classes to fight together, more than I originally thought. Or to say, you’re afraid of that situation, right?”
+[says] (p.216) “What do you mean?”
+[says] (p.216) “You said we were someone you could trust, and I think you meant that. However, the most important thing for you is to prevent Class B, Class C, and Class D from working together to catch up to Class A. Indeed, the amount of class points we can get if we win together will decrease, but there’s no guarantee that such a development wouldn’t appear in the future— That the three classes would continue to help each other.”
+[says] (p.216) “An alliance between the three classes to force Class A out. If that is successful, you would be forced into a bitter battle from now on, Sakayanagi-san… Isn’t that so?”
+[says] (p.217) “Then can you give me five people’s worth? That way I would feel completely reassured.”
+[says] (p.217) “With that our contract is complete. Even if you hadn’t offered to loan me the deposit points, I would have chosen to join forces with you. Our main goal is of course to reach Class A, but as you said, we fell to Class C and we can’t afford to fall even more. Since, if we fall down to Class D, our class’s motivation would surely be greatly reduced, and that is something we want to avoid.”
+[says] (p.217) “The proposal for an alliance between Class 2-C and Class 2-A— I accept it.”
+[says] (p.217) “However, both Ryuuen-kun and Horikita-san are formidable opponents.”
+[note] (p.203–218) Sakayanagi suspects the three-class alliance would beat Class A in the long run; Ichinose spotted it and named it; the handshake sealed the pact.
+[note] (p.211) The trust factor is why she chose her.
+[rel:sakayanagi-arisu] (p.203–218) The alliance partner.
+[rel:kanzaki-ryuuji] (p.47–218) He stays her watchman.
+[rel:horikita-suzune] (p.207–218) Her value to Sakayanagi and Ichinose alike.
+
+<!-- walk: y2v2 Ch.3 → p.218 -->
 ## y2v3
 
 <!-- walk: y2v3 → start -->

@@ -1863,30 +1863,16 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.171 — Kushida relays Kobashi's invitation to Ike
-[scene] (p.171) She interrupts Ike and Shinohara to relay Kobashi's invitation for Ike to join a Class C group.
-[trait] (p.171) Mediating and helpful in group formation.
+### y2v2 p.171 — Kushida redirects Ike
+[scene] (p.171) She runs up behind Ike and taps him at the height of his Shinohara pitch.
+[says] (p.171) “Ah, good morning, Ike-kun, are you free right now?”
+[says] (p.171) “Actually, Kobashi-san from Class C said she wants to invite you to her group, Ike-kun. She seems to be at school already. Could you go discuss it with her?”
+[says] (p.171) “Ah, but just now you seemed to be talking to Shinohara-san about that… Is it alright?”
+[note] (p.171) She clocks the Shinohara interaction and quietly offers him an out — he takes it.
+[rel:ike-kanji] (p.171) She handles him like a crisis manager.
+[rel:shinohara-satsuki] (p.171) She confirms Ike's rescue with her.
 
 <!-- walk: y2v2 Ch.3 → p.171 -->
-
-### y2v2 p.243–261 — Kushida arranges Ayanokōji's meeting with Yagami
-[scene] (p.243–247) She relays Yagami's request to meet Ayanokōji and accompanies them to Keyaki Mall.
-[scene] (p.258–261) After Yagami leaves, she talks with Ayanokōji and reveals her hostility toward him; she warns him about Yagami and mentions she plans to get rid of him.
-[says] (p.262) “I'll have to get rid of him as soon as possible. Yagami-kun, that is.”
-[trait] (p.243–263) Manipulative and calculating — she uses the meeting to gather intelligence and threaten.
-
-<!-- walk: y2v2 Ch.4 → p.263 -->
-
-
-### y2v2 p.250–258 — Kushida learns of the bounty from Yagami
-[scene] (p.250) Walks with Ayanokōji and Yagami to Keyaki Mall; listens dumbfounded as Yagami reveals the secret exam.
-[says] (p.253) “Excuse me, I have no idea what you guys are talking about…”
-[says] (p.254) “Eh?! To get Ayanokouji-kun expelled?”
-[says] (p.255) “Th-that's a lot of points… I-is that sort of thing allowed?”
-[says] (p.255) “Isn't it a bit strange that the student council president is conducting this special exam on his own…?”
-[trait] (p.250–258) Genuinely unaware of the bounty, she is surprised and uneasy at the 20 million points; Ayanokōji worries the information could affect her, and notes she would tell Yagami things anyway.
-[rel:yagami-takuya] (p.252–258) Her middle-school kouhai; he arranged the meeting partly to protect her and explains everything.
-[rel:ayanokouji-kiyotaka] (p.252–255) Walks with him; learns about the bounty on him.
 ## y2v3
 
 <!-- walk: y2v3 → start -->

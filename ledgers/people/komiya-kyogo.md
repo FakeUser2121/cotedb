@@ -139,22 +139,20 @@ char_id: komiya-kyogo · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.172–197 — Komiya in the Shinohara confession plot
-[scene] (p.172–177) He is mentioned as Sudō's friend; Shinohara agrees to meet him at a café.
-[scene] (p.185–197) He is called by Ishizaki and reveals he plans to confess to Shinohara on the uninhabited island.
-[note] (p.172–197) Komiya is discussed but not present in these scenes; the confession plot is reported secondhand.
+### y2v2 p.172–177 — Komiya finds her on the steps
+[scene] (p.172–173) He spots her stopped on the steps with red eyes; walks with her at her pace; she opens up a crack.
+[says] (p.172) “Satsuki.”
+[says] (p.172) “What’s wrong? Are you crying?”
+[says] (p.172) “Well, because your eyes are red.”
+[says] (p.172) “By the way, I heard from Sudo-kun that you’re gonna be a regular on the basketball team?”
+[says] (p.173) “Yeah you always practice until late at night, so I’d be lying if I said you didn’t deserve it.”
+[scene] (p.185–186) He keeps her company at the café; Ike can't watch.
+[note] (p.168–193) He invited her the day after the rules dropped; the group is him, her and Kinoshita Minori of Class B; he told Ishizaki he'll confess on the island.
+[rel:shinohara-satsuki] (p.172–177) He is the one who gets the seat beside her.
+[rel:ike-kanji] (p.172–186) His silent defeat is witnessed.
+[rel:ishizaki-daichi] (p.193) He unknowingly briefs him via the pact question.
 
-<!-- walk: y2v2 Ch.3 → p.197 -->
-
-### y2v2 p.174–194 — Komiya invites Shinohara and plans to confess
-[scene] (p.174–177) He invites Shinohara to meet at a café; she agrees.
-[scene] (p.193–194) Ishizaki calls him and learns he plans to confess to Shinohara on the uninhabited island.
-[trait] (p.174–194) Direct and bold — he pursues Shinohara openly.
-
-<!-- walk: y2v2 Ch.3 → p.194 -->
-
-
-
+<!-- walk: y2v2 Ch.3 → p.193 -->
 ## y2v3
 
 <!-- walk: y2v3 → start -->

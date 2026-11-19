@@ -1160,6 +1160,12 @@ aliases used for anchors: sakura, airi, sakura-san
 [rel:hasebe-haruka] (p.44–45) She notices Haruka freeze.
 
 <!-- walk: y2v2 Ch.1 → p.53 -->
+
+### y2v2 p.179 — Sakura groups up
+[scene] (p.179) Akito tells Ayanokōji she is grouping with Akito and Haruka.
+[note] (p.179) Not present in scenes; her group's arithmetic is recorded.
+
+<!-- walk: y2v2 Ch.3 → p.179 -->
 ## y2v3
 
 <!-- walk: y2v3 → start -->

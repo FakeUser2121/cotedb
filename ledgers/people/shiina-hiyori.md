@@ -498,30 +498,33 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.160–167 — Hiyori supports inviting Ayanokōji
-[scene] (p.160–167) She supports Ishizaki's invitation for Ayanokōji to join Ryūen's group.
-[says] (p.161) “We didn't talk to anyone, and we don't intend to. Right?”
-[trait] (p.160–167) Thoughtful and supportive — she backs the invitation.
+### y2v2 p.152–167 — Hiyori's capture: the recruitment play
+[scene] (p.153) She appears beside Albert and calls out to Ayanokōji; nobody knows how long she was waiting.
+[says] (p.153) “Hi, Ayanokouji-kun.”
+[says] (p.157) “No problem. In a way, it’s also a kind of dissemination.”
+[says] (p.157) “We wouldn’t mind if your room is a bit messy, right?”
+[scene] (p.158–166) She edits Ishizaki in real time; her calculus is the plan's real brain.
+[says] (p.160) “No.”
+[says] (p.160) “If I’d interrupted and tried to explain, I felt like there would’ve been something I needed to correct within 5 seconds. So, I thought it would be better to let him carry on with his momentum.”
+[says] (p.160) “If you organize the exam description, that’s what it means. Basically, depending on the situation, we might have to work with a group we didn’t expect or want.”
+[says] (p.161) “During the exam there might just be certain conditions that we need to meet in order to combine our groups. That’s what I’m talking about.”
+[says] (p.163) “Yes. We’d love to have you.”
+[says] (p.164) “It’s because he has his own class to deal with, right?”
+[says] (p.164) “Besides, I think the terms we’ve offered him are weak as well.”
+[says] (p.164) “I’m not saying anything like that. I think it’s certainly an exceptional amount, that is, in terms of quantity. But in effect, the only thing we’d really be giving him is the right to transfer over to our class, yes?”
+[says] (p.165) “Additionally, Ishizaki-kun did say that it’d be fine so long as Ayanokouji-kun joins up with somebody from Class B, but there’s a problem with that as well. Surviving on the uninhabited island won’t be a one-man effort. If you’re really aiming for the top spot, you’ll be better off with a strong team to back you up.”
+[says] (p.165) “If it was up to me to choose the small group Hmm. Ryuuen-kun, Kaneda-kun, and Ayanokouji-kun, those three. It’s fine if Kaneda-kun is replaced by Yamada-kun, but Ryuuen-kun is indispensable.”
+[says] (p.166) “I don’t think he will.”
+[says] (p.166) “Kaneda-kun is the same, he won’t ignore Ryuuen-kun’s orders and participate in a strategy he’s unsure of.”
+[says] (p.166) “At this stage, I guess it can’t be helped.”
+[says] (p.166) “We were able to convey ours and Ishizaki’s thoughts to you, so we should be satisfied with that for now.”
+[trait] (p.152–166) She runs the room's negotiation with minimal words and maximal effect; she sees through the plan's weaknesses before Ishizaki does; she wanted to deliver the message, not close the deal.
+[rel:ayanokouji-kiyotaka] (p.152–167) She recruits him on behalf of Class B; he is charmed.
+[rel:ishizaki-daichi] (p.152–167) She loves him and fixes his mistakes.
+[rel:yamada-albert] (p.152–167) He echoes "YES" after hers.
+[rel:ryuuen-kakeru] (p.165–166) She rules him necessary.
 
 <!-- walk: y2v2 Ch.3 → p.167 -->
-
-### y2v2 p.157–166 — Hiyori supports Ishizaki's group plan
-[scene] (p.157) Approaches the group with a gentle smile “like a leader,” having listened to Ishizaki's proposal.
-[note] (p.159–166) Hiyori supports Ishizaki's plan and listens with great interest, but also points out its problems (along with Ayanokōji), knowing forming a group with him won't be easy; she gently places a hand on his shoulder as he reluctantly agrees.
-[trait] (p.157–166) Gentle and socially skilled — acts as a calming, leader-like presence, backs Ishizaki while realistically acknowledging the difficulties, and helps soften the negotiation.
-[rel:ishizaki-daichi] (p.157–166) Supports his proposal, corrects its flaws, and comforts him when he's flustered.
-[rel:ayanokouji-kiyotaka] (p.159–166) Listens to his questions about the group plan; knew forming it wouldn't be easy.
-
-### y2v2 p.342–344 — Short story: “An excuse” — the forced invitation
-[scene] (p.342) Waits with Albert around a corner while Ishizaki invites Ayanokōji to form a group; from her own POV, reveals she cooperated only as an excuse to get close to him.
-[narrates] (p.342) “Good day, Ayanokouji-kun.”
-[narrates] (p.343) “I have a really bad feeling about this so, can I leave now?” — Ayanokōji
-[narrates] (p.343) “I am sorry Ayanokouji-kun! But we can't let you leave!”
-[narrates] (p.344) “We are attracting to much attention here so let's move on Ishizaki-kun.”
-[trait] (p.342–344) Clever and quietly infatuated — predicts Ishizaki's forceful invitation would be futile (he'd go solo or with Class D) yet helps anyway, holding Ayanokōji's arm with Albert so she can “meet Ayanokouji-kun” under the pretext of the group; looks forward to even a second longer beside him.
-[rel:ayanokouji-kiyotaka] (p.342–344) Her true reason for joining the invitation — she wanted an excuse to be close to him.
-[rel:ishizaki-daichi] (p.342–344) Helps his plan without advising him, using it as cover.
-[rel:yamada-albert] (p.342–344) Together with her, physically restrains Ayanokōji.
 ## y2v4
 
 <!-- walk: y2v4 → start -->

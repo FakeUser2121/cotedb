@@ -1919,6 +1919,36 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:ayanokouji-kiyotaka] (p.35–38) He understands the situation and silently takes the cue.
 
 <!-- walk: y2v2 Ch.1 → p.38 -->
+
+### y2v2 p.123–126 — Hirata challenges the exam's premise
+[scene] (p.123) In the front rows he challenges the gap between the years on day one.
+[says] (p.123) “Wouldn’t that… be extremely disadvantageous to the first-year students, and advantageous for the third years?”
+[scene] (p.126) He presses the small-group/big-group mechanics next.
+[says] (p.126) “We can’t change groups, but we could form a group of up to 6 for the special exam, right? But so far, we can only form small groups of up to three people. What’s up with that?”
+[note] (p.123–126) He usually leads the class and did so with the homework question yesterday; the briefing exposed the exam's built-in unfairness and he made it visible for everyone.
+
+### y2v2 p.142–145 — The strategy circle
+[scene] (p.142) After the briefing everyone gathers around Horikita's desk; he is explicitly named as the circle's anchor (“Everyone, along with Yosuke”).
+[note] (p.145) Sakayanagi “tended never to let the prey she decided on escape” — his own assessment, used as the class's common sense.
+
+### y2v2 p.177–186 — The café watch
+[scene] (p.177–178) He's watched the whole Ike–Shinohara scene from the back; he intercepts Ayanokōji in the corridor, worried.
+[says] (p.177) “About Ike, I don’t think it’s too good to leave him alone like this.”
+[says] (p.177) “Yeah. He might be a bit arrogant, but Ike’s knowledge and experience will be of use in the uninhabited island survival exam. It’s possible this incident with Shinohara may prevent him from fulfilling his potential.”
+[says] (p.177) “Yes. Seeing that, I’m also worried about what will happen if he watches the discussion between Shinohara and Komiya while he’s like that.”
+[says] (p.178) “I’d like to go see what’s going on. If you’re okay with it, can you come along? I don’t think Ike-kun likes me very much.”
+[says] (p.178) “Yeah. Shall we go and see what’s going on, just in case?”
+[says] (p.178) “It seems like we can only form groups that leave us with no regrets.”
+[says] (p.178) “For me, I’d like to select 2 people from Class D to form a group. Instead of aiming for the top places, I’d rather fight to not get penalized.”
+[says] (p.179) “Miyake-kun has good motor skills, so I feel the group is well balanced.”
+[says] (p.185) “I don’t think it’ll be as bad as it can be, but…”
+[says] (p.186) “Anyway, I wanted to ask about Komiya first. Why did Komiya invite Shinohara to his group? If we’re not sure about that, we can’t take any action.”
+[rel:ike-kanji] (p.177–186) He knows Ike's potential is rotting in private.
+[rel:sakura-airi] (p.179) He worries about Airi in Sakura's circle.
+[rel:miyake-akito] (p.179) He rates his skills.
+[rel:ayanokouji-kiyotaka] (p.177–186) He trusts his read of the room over his own hunches.
+
+<!-- walk: y2v2 Ch.3 → p.186 -->
 ## y2v3
 
 <!-- walk: y2v3 → start -->

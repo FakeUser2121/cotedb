@@ -854,15 +854,27 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.329–335 — Kōenji negotiates with Horikita
-[scene] (p.329–335) He approaches Horikita before the exam and offers to get first place alone in exchange for “full freedom” until graduation; Horikita counters with a condition.
-[says] (p.330) “Promise you full freedom… That's an unexpected proposal.”
-[says] (p.332) “I see, I see. Certainly, you seem like you will be satisfied if I get 1st place by myself, riiight?”
-[trait] (p.329–335) Confident and calculating — he negotiates for freedom but accepts Horikita's condition.
-[rel:horikita-suzune] (p.329–335) He negotiates with her.
+### y2v2 p.137–141 — The sick-leave loophole, priced in
+[scene] (p.137–139) Class over; he leaves faster than usual; Ayanokōji follows him out; the corridor corner; Chabashira and Kouenji face off.
+[says] (p.138) “I just don’t think Teacher explained a crucial point.”
+[says] (p.138) “Fufu, that’s true. I’m an avaricious and insatiable person, so this is quite troubling.”
+[says] (p.138) “Really, I wonder what I should do? You can leave now, teacher.”
+[scene] (p.139–141) Ayanokōji reveals himself; the exchange on the 6-million price tag.
+[says] (p.139) “By the way, who’s the one who’s hiding and spying on me, and from where?”
+[says] (p.139) “Whether you come out or not is up to you.”
+[says] (p.139) “You seem to be good at hiding yourself. But I can’t see through your truths and lies, Ayanokouji boy. I won’t trust the words of someone like that.”
+[says] (p.140) “Fufufu, that’s true. I have no trust in anyone except myself. Rather, it’s more like I have no interest in anyone else.”
+[says] (p.140) “That applies to you as well, Ayanokouji boy.”
+[says] (p.140) “Yeah… Speaking of that, can I join your group?”
+[says] (p.140) “Fufufu, is that so, there’s no helping it then.”
+[says] (p.140) “That’s true, if I quit without doing anything.”
+[says] (p.140) “What should I do? I’ll carefully think about it until it officially starts.”
+[note] (p.137–141) His sick-leave gambit is priced at 6M private points — a sum he cannot produce; the exam's designers anticipated his exact move.
+[trait] (p.137–141) He confesses nothing and hints everything; his silence after the bell rings is a fuse burning in plain sight.
+[rel:ayanokouji-kiyotaka] (p.139–141) He sizes him up and leaves the hook hanging.
+[rel:chabashira-sae] (p.138–139) She burns his excuse in front of him.
 
-<!-- walk: y2v2 Epilogue → p.335 -->
-
+<!-- walk: y2v2 Ch.3 → p.141 -->
 ## y2v3
 
 <!-- walk: y2v3 → start -->
