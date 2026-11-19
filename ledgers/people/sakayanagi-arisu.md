@@ -1036,6 +1036,23 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [note] (p.318–322) The doorbell scene — the boy knows her voice and is unsurprised; she hears it from somewhere five to ten years ago behind a door; not assigned to a named character; he is not the White Room.
 
 <!-- walk: y2v6 Ch.6 → p.326 -->
+
+### y2v6 p.333–335 — Short story: “Complicated Feelings” (Sakayanagi POV)
+[scene] (p.333–335) Her side of the mont blanc scene — she pieces together his hints; “You will be hindrance if you told anyone else about this.”; she sees his eyes — “Shall we start the special lesson?”; she accepts being used by him — “But, do remember this, Ayanokouji-kun. If you are going to use me—I’m going to use you until the very end.”
+[says] (p.333) “You were just observing, but even made me come here and visit you. You are not planning on doing anything during the festival either, right? … I see.”
+[says] (p.333) “In other words—Eh”
+[says] (p.334) “E-excuse me?”
+[says:ayanokouji-kiyotaka] (p.334) “My school life is founded on this plan I have. The fact you would come here today, would show interest in and eventually reach the answer as within possibility.”
+[says:ayanokouji-kiyotaka] (p.334) “You will be hindrance if you told anyone else about this.”
+[says] (p.334) “You think I… would leak this?”
+[says:ayanokouji-kiyotaka] (p.334) “The chances aren’t zero. You may try to blackmail me by saying you’d expose it unless I agreed to have a match with you. I’d have no other options in that case.”
+[says] (p.334) “I see, that’s certainly true… But, couldn’t I just reveal the truth about the White Room instead?”
+[says:ayanokouji-kiyotaka] (p.335) “Shall we start the special lesson?”
+[trait] (p.333–335) Arrogant, calculating, self-aware — she knew he was planning the whole thing; she accepts being used on her own terms — he will be used back until the very end.
+[rel:ayanokouji-kiyotaka] (p.333–335) Her dance with him — she forced herself into his trap and enjoys the fight; “If you are going to use me—I’m going to use you until the very end.”
+[note] (p.333–335) Short story; alternate retelling of the mont blanc scene from Ch.6; the "special lesson" text is not depicted here either; the corpus prints the whole intervention before it happens, but not the lesson itself.
+
+<!-- walk: y2v6 SS → p.344 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

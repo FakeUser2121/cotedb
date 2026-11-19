@@ -390,6 +390,22 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 [rel:kushida-kikyou] (p.275–285) Kushida owes her a debt — she recruits three players for her team anyway.
 
 <!-- walk: y2v6 Ch.5 → p.301 -->
+
+### y2v6 p.339–341 — Short story: “The Truth is, I’ve Always” (Amasawa POV)
+[scene] (p.339–341) She enters Senpai's room — “as expected of him. He had cleaned it all in that short amount of time” — she is checking if the room is wiretapped — “They should just ignore me and enjoy their school life. I highly recommend it.” — she wants to expose Takuya and let them fight it out ASAP — she turns her butt toward him to distract him — “Drawn in by my underwear? How pervy.” — “Clever, but uninteresting.” — she reveals her true feelings — “The truth is, I want to be by his side. … Even if I’m a nuisance, just being close to the person you look up to.” — “But… There is no guarantee that my school life could go on forever.”
+[says:ayanokouji-kiyotaka] (p.339) “They should just ignore me and enjoy their school life. I highly recommend it.”
+[says] (p.339) “Yes, I agree as well. I think I should do that too but…”
+[says] (p.339) “Drawn in by my underwear? How pervy.”
+[says:ayanokouji-kiyotaka] (p.340) “Sorry, I’m more worried about what else you may be doing if I take my eyes off you.”
+[says] (p.340) “I think they may have gone on a rampage by now? I feel like they have gotten their methods and goals all wrong. Instead of returning to the White Room, they are more focused on expelling you.”
+[says:ayanokouji-kiyotaka] (p.340) “What a bothersome topic.”
+[says] (p.340) “That may be true for you, yeah. I have been thinking this for a while, but how about I just reveal them to you and just let you do your thing?”
+[rel:ayanokouji-kiyotaka] (p.339–341) She wants to be by him; she is not trusted; she wants him to fight Takuya.
+[rel:tsukishiro] (p.340) The one who should be exposed — unnamed except “Takuya”; the Takuya referenced could be Yagami Takuya or another first-year; nothing in this volume settles it.
+[note] (p.340) “Takuya” is printed without a surname on this page; Yagami Takuya (Class 1-B / y2v10's student council) is a plausible target; the doorbell boy could also carry the name Amasawa means; identity not assigned from these pages — ambiguity noted, not resolved.
+[note] (p.339–341) Short story; alternate retelling of the Ch.3 Amasawa visit from her POV; confirms she was searching for a planted trick.
+
+<!-- walk: y2v6 SS → p.344 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->

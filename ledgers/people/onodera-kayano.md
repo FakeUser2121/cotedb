@@ -202,6 +202,34 @@ char_id: onodera-kayano · status: minor
 [rel:sudou-ken] (p.323) Her doubles partner — first in every individual ranking.
 
 <!-- walk: y2v6 Ch.6 → p.326 -->
+
+### y2v6 p.342–344 — Short story: “That’s What I Believe In” (Onodera POV)
+[scene] (p.342–344) The tennis doubles final retold — her side; Housen's rage transformed into the game; she feared for her life; she drops her racket; she is injured — but wins; Sudou runs at her — “We won Onodera! All thanks to you!”; the hug; he squeezes harder; she freezes; he finally notices; “Congratulations! You won all your events, Sudou-kun.”; she admits in her heart she is interested in Sudou — “I can catch up and show some results, no matter how far ahead he is. That’s the sportsmanship that I believe in.”
+[says:sudou-ken] (p.342) “HELL YEEEAAAAAAAAAAAHH!!”
+[says:sudou-ken] (p.342) “We did it! We did it!”
+[says] (p.343) “W-w-wha,, wha-wha!?”
+[says] (p.343) “Wai-, ouch, it hurts Sudou-kun!”
+[says:sudou-ken] (p.343) “M-my bad!”
+[says] (p.343) “Congratulations! You won all your events, Sudou-kun.”
+[says:sudou-ken] (p.343) “Yeah, thanks a lot Onodera. If not for you, we’d have lost this match for sure.”
+[says] (p.343) “That’s not true. I was probably a hindrance…”
+[says:sudou-ken] (p.343) “Could have been a fluke, but when you got hurt and I just snapped, I thought we’d lose this. But you were the one to call me back.”
+[says] (p.344) “I see, then we… are a pretty good combo, right?”
+[says:sudou-ken] (p.344) “Of course! Easy to work with and rely on. Yeah, you are the best Onodera. Ah, maybe Suzune was watching me from somewhere too?”
+[says] (p.344) “Suzune…right?”
+[says:sudou-ken] (p.344) “Eh? Where? Where is she!?”
+[says] (p.344) “Ah, eh well, sorry, looks like it was another person.”
+[says:sudou-ken] (p.344) “Shit. I see, maybe she’s on the field then…”
+[says] (p.344) “Let’s eat on our way next time after clubs, okay?”
+[says:sudou-ken] (p.344) “Eh? Ah, sure I guess. More importantly, help me look for Suzune. Where are you, Suzune.”
+[says] (p.344) “Hahaha, absolutely not.”
+[trait] (p.342–344) A firm believer in her own sportsmanship; she freezes before Sudou; she won't chase him; she is interested in him; a person of rare sincerity.
+[rel:sudou-ken] (p.342–344) Her doubles partner; she is interested in him; he keeps looking at Suzune; she lets it be.
+[rel:housen-kazuomi] (p.342–344) The one they beat — “our beliefs and tenacity beat Housen-kun’s by a mile.”
+[rel:horikita-suzune] (p.344) The one Sudou keeps looking for; Onodera mutters “Suzune…right?” — she is wrong this time.
+[note] (p.342–344) Short story; alternate retelling of the tennis doubles final from Ch.5; same scene, her POV; her interest in Sudou is her own conclusion.
+
+<!-- walk: y2v6 SS → p.344 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->

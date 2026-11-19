@@ -581,6 +581,19 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 [note] (p.11) Passing mentions on pages: p.25, p.42, p.134, p.140, p.181.
 [mentioned] (p.11) Passing mention only.
 
+### y2v6 p.336–338 — Short story: “Something That Can’t be Forgiven” (Chie — from Chabashira's POV)
+[scene] (p.336–338) She runs down the hallway — “Sa~~~~e-chan. Yah-ho!”; Chabashira warns her — “How are you going to set an example if even you are running full ahead?”; “Bu~ut, I saw you right ahead!”; she heard the Horikita talk; “even the model student Horikita has lots of worries.”; “Why have you gotten closer to your students now?”; “It is. You are not that kind of a teacher. You have never been until now, have you?”; “I won’t acknowledge it. There is no way Sae-chan would ever act like a teacher.”; Chabashira's reply never reaches her.
+[says] (p.336) “Sa~~~~e-chan. Yah-ho!”
+[says] (p.337) “Bu~ut, I saw you right ahead!”
+[says] (p.337) “By the way, you were taking quite a long time talking with Horikita-san.”
+[says] (p.337) “Looks like even the model student Horikita has lots of worries.”
+[says] (p.337) “She’s just a child, right? But that’s not what I wanted to say.”
+[says] (p.337) “Why have you gotten closer to your students now?”
+[says] (p.337) “It is. You are not that kind of a teacher. You have never been until now, have you?”
+[says] (p.338) “I won’t acknowledge it. There is no way Sae-chan would ever act like a teacher.”
+[rel:chabashira-sae] (p.336–338) She knows her — she does not buy the act; her reply never reaches her.
+
+<!-- walk: y2v6 SS → p.344 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->

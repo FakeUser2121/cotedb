@@ -1245,6 +1245,35 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [note] (p.212) The paperwork route is open — Sakagami-sensei is named in the same breath; nothing is signed on these pages; the alliance exists only as an agreement in the karaoke parlor.
 
 <!-- walk: y2v6 Ch.4 → p.240 -->
+
+### y2v6 p.336–338 — Short story: “Something That Can’t be Forgiven” (Chabashira POV)
+[scene] (p.336) After homeroom with Horikita — she is soon out of time — “The most important thing is what you, Horikita, wants to do with Kushida. Think carefully about this.”; she sends Horikita off; walking back to the staff room; someone running behind her — “Don’t run in the hallway…”; Chie appears — “Sa~~~~e-chan. Yah-ho!” — she warns her — Chie heard the tail end — “There was a huge risk of this leaking If Chie heard about Kushida.”; “even the model student Horikita has lots of worries.” — “She’s just a child, right? But that’s not what I wanted to say.” — “Why have you gotten closer to your students now?” — “There’s nothing weird for a homeroom teacher, is it?” — “That may be true.” — “I won’t acknowledge it. There is no way Sae-chan would ever act like a teacher.” — “… I know.” — her reply never reaches Chie.
+[says] (p.336) “We’re soon out of time. Just let me tell you one last thing, although it may look like I’m meddling too much. The most important thing is what you, Horikita, wants to do with Kushida. Think carefully about this.”
+[says:horikita-suzune] (p.336) “Thank you, teacher. I’ve decided what to do now.”
+[says] (p.336) “Don’t mind it. As your teacher, this is nothing— it’s surely something to be expected after all.”
+[says] (p.336) “Don’t run in the hallway…”
+[says:hoshinomiya-chie] (p.336) “Sa~~~~e-chan. Yah-ho!”
+[says] (p.337) “Is that you, Chie? How are you going to set an example if even you are running full ahead?”
+[says:hoshinomiya-chie] (p.337) “Bu~ut, I saw you right ahead!”
+[says] (p.337) “Stop with that Bu~ut! Just call for me like normal.”
+[says:hoshinomiya-chie] (p.337) “By the way, you were taking quite a long time talking with Horikita-san.”
+[says] (p.337) “… so you even heard that?”
+[says:hoshinomiya-chie] (p.337) “From when I heard her say thanks to you.”
+[says:hoshinomiya-chie] (p.337) “Looks like even the model student Horikita has lots of worries.”
+[says:hoshinomiya-chie] (p.337) “She’s just a child, right? But that’s not what I wanted to say.”
+[says:hoshinomiya-chie] (p.337) “Why have you gotten closer to your students now?”
+[says] (p.337) “There’s nothing weird for a homeroom teacher, is it?”
+[says:hoshinomiya-chie] (p.337) “It is. You are not that kind of a teacher. You have never been until now, have you?”
+[says] (p.338) “That may be true.”
+[says:hoshinomiya-chie] (p.338) “I won’t acknowledge it. There is no way Sae-chan would ever act like a teacher.”
+[says] (p.338) “… I know.”
+[trait] (p.336–338) A teacher — she was not a teacher until now; she keeps her secrets; Chie sees through her; “may have been a lie” — she does not refute it.
+[rel:hoshinomiya-chie] (p.336–338) Chie — the teacher who tracks her — she does not acknowledge the change.
+[rel:horikita-suzune] (p.336) Her protégé — “even the model student Horikita has lots of worries.”
+[rel:kushida-kikyou] (p.336) The one Horikita must bring back — “what you, Horikita, wants to do with Kushida.”
+[note] (p.336–338) Short story; alternate retelling of the corridor scene from Ch.3; built around Chie's observation.
+
+<!-- walk: y2v6 SS → p.344 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->
