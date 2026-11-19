@@ -6,6 +6,15 @@ char_id: ishigami-kyou · class: unknown · status: unknown
 
 <!-- walk: y2v2 → start -->
 
+## y2v6
+
+<!-- walk: y2v6 → start -->
+
+### y2v6 p.11–14 — Prologue: Keisei named in Miyake's group (Miyake's POV)
+[scene] (p.12) Named “Keisei” among the five-person group Miyake drifted into: Keisei, Kiyotaka, Haruka, Airi — a small group that felt strangely comfortable.
+[mentioned] (p.12) “Keisei, Kiyotaka, Haruka, Airi.”
+
+<!-- walk: y2v6 Prologue → p.14 -->
 ## y2v12.5
 
 <!-- walk: y2v12.5 → start -->
@@ -57,18 +66,6 @@ char_id: ishigami-kyou · class: unknown · status: unknown
 [rel:ayanokouji-kiyotaka] (p.116) The pool-side Keisei reference points at Yukimura, not at this file; recorded for completeness.
 [rel:hasebe-haruka] (p.105) The Keisei label in Haruka's file is Yukimura; kept for completeness.
 [rel:sakura-airi] (p.108) Airi's Keisei reference is Yukimura; no separate presence in this row.
-
-## y2v6
-
-<!-- walk: y2v6 → start -->
-
-### y2v6 p.11-346 — ishigami-kyou mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: none.
-[mentioned] (p.11) Passing mention only.
-
-
-
 
 ## y2v8
 

@@ -1036,6 +1036,16 @@ aliases used for anchors: sakura, airi, sakura-san
 
 <!-- walk: y1v11 ch6 → p.280 -->
 
+## y2v6
+
+<!-- walk: y2v6 → start -->
+
+### y2v6 p.11–14 — Prologue: Sakura Airi named in Miyake's group (Miyake's POV)
+[scene] (p.12) Named among the five-person group Miyake drifted into: Keisei, Kiyotaka, Haruka, Airi — a small group he thought of as strangely comfortable.
+[mentioned] (p.12) “Keisei, Kiyotaka, Haruka, Airi.”
+[note] (p.12) Miyake narrates that logic did not weigh his choice — he was willing to abandon Airi, a member of the group he cared about just as much as Haruka, to protect Haruka.
+
+<!-- walk: y2v6 Prologue → p.14 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -1200,18 +1210,6 @@ aliases used for anchors: sakura, airi, sakura-san
 [mentioned] (p.237) "Sakura must have been a member of your close group. And moreover, that girl had special feelings for you." — Chabashira.
 [mentioned] (p.238) "Of course, there are a few students who are not so different from Airi. But if a quarrel starts between students who are on the same side, their friends will naturally take the side of protection."
 [mentioned] (p.242) "Sakura getting yeeted was certainly surprising, but a welcome one in my mind." — Amadeus's credit.
-
-## y2v6
-
-<!-- walk: y2v6 → start -->
-
-### y2v6 p.11-346 — sakura-airi mentioned in passing
-[scene] (p.11) Named in this volume.
-[note] (p.11) Passing mentions on pages: p.12, p.18-20, p.22-23, p.27, p.58-59.
-[mentioned] (p.11) Passing mention only.
-
-
-
 
 ## y2v7
 

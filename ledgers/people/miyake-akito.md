@@ -501,6 +501,31 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [rel:ayanokouji-kiyotaka] (p.108–110) In the Ayanokōji group; shares what he knows of Hōsen.
 [rel:housen-kazuomi] (p.108–110) Rates him far above Sudō and Ryūen; refuses to fight him.
 [rel:hasebe-haruka] (p.108–110) Teases him about having been a delinquent; he scratches his head uncomfortably.
+
+## y2v6
+
+<!-- walk: y2v6 → start -->
+
+### y2v6 p.11–14 — Prologue: Miyake's monologue — an average person falls for Haruka
+[scene] (p.11) From Miyake Akito's own POV: an average person with no special talents who has coasted through life, taking up archery on a whim and keeping a reasonable distance from others.
+[narrates] (p.11) “I’ve never once thought of myself as a special person.”
+[narrates] (p.11) “Even archery I only took up because I saw it randomly on TV and thought I’d try it to kill time.”
+[scene] (p.12) Out of the blue he ends up with a small group — Keisei, Kiyotaka, Haruka, Airi — that feels strangely comfortable; he thought he would spend the rest of school life relaxing in it.
+[narrates] (p.12) “Keisei, Kiyotaka, Haruka, Airi.”
+[scene] (p.12) He falls in love with Haruka — convinced of it when, during the Unanimous Consent Special Exam, she said she would drop out of school; emotions take top priority over logic, even over protecting Airi.
+[narrates] (p.12) “When did I start gazing at Haruka?”
+[narrates] (p.13) “Will you join me in my revenge?”
+[scene] (p.13) The murmur pulls him back from letting her walk away; her eyes carry the same strong, straightforward, dangerous glint as ever — determined, without turbulence or hesitation — and she laughs, turns her back and walks away by herself; he knows it will trouble a lot of his friends and classmates.
+[narrates] (p.13) “Down the road, no matter how many people will hate me…”
+[scene] (p.14) At the end of the sports festival he steeled his nonexistent resolve — his feelings will not allow him to let her go alone.
+[narrates] (p.14) “On this day at the end of the sports festival, I—steeled my nonexistent resolve.”
+[trait] (p.11–14) Quietly self-aware; a drifter who found genuine belonging in the five-person group, fell in love with Haruka, and chooses her over Airi despite knowing the cost to his friends.
+[rel:hasebe-haruka] (p.12–14) The girl he is in love with — during the Unanimous Consent Special Exam she said she would drop out; her “revenge” invitation at the festival's end is the line he cannot ignore.
+[rel:sakura-airi] (p.12–13) A group member he was willing to abandon to protect Haruka — a conflict he is aware of but does not regret.
+[rel:ayanokouji-kiyotaka] (p.12) Named “Kiyotaka” in the comfortable five-person group.
+[rel:ishigami-kyou] (p.12) Named “Keisei” in the comfortable five-person group.
+
+<!-- walk: y2v6 Prologue → p.14 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->
@@ -663,23 +688,6 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [rel:sakura-airi] (p.222–227) Refuses to forget her; carries her weight out.
 
 <!-- walk: y2v5 Ch.8 → p.231 -->
-## y2v6
-
-<!-- walk: y2v6 → start -->
-
-
-
-### y2v6 p.11–14 — Miyake's prologue: falling in love with Haruka; joining a "revenge"
-[scene] (p.11) From his own POV, describes himself as neither a good guy nor a bad guy — an average person who coasts through life, taking up archery on a whim.
-[narrates] (p.12) "I've never once thought of myself as a special person."
-[narrates] (p.12) "Keisei, Kiyotaka, Haruka, Airi."
-[narrates] (p.12) "When did I start gazing at Haruka?"
-[narrates] (p.13) "Will you join me in my revenge?"
-[narrates] (p.14) "Down the road, no matter how many people will hate me…"
-[trait] (p.11–14) Quietly self-aware — found an unexpected sense of belonging in the five-person Ayanokōji group, and during the Unanimous exam, when Haruka declared she'd drop out, realized he was in love with her ("emotions took top priority," even over protecting Airi); at the sports festival's end, an unnamed girl's invitation to join her revenge — her eyes strong, straightforward, and with a dangerous glint — pulls him back from letting her walk away; though he knows it will trouble friends and classmates, he resolves to go with her.
-[rel:hasebe-haruka] (p.12–14) The girl he's fallen in love with — he can't accept being separated from her; his feelings drive his choice.
-[rel:sakura-airi] (p.12) He was willing to "abandon" her (also a group member) to protect Haruka — a conflict he feels guilty about.
-[note] (p.13) The girl inviting him to "revenge" is unnamed on these pages — no speaker attribution assigned (§7).
 ## y2v7
 
 <!-- walk: y2v7 → start -->
