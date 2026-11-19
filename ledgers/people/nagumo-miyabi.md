@@ -613,15 +613,22 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 p.10–37 — Nagumo mentioned in passing
-[scene] (p.10) Named in the context of the exam.
-[scene] (p.35–36) Named in the context of the student council.
-[scene] (p.40) Named in the context of Tsukishiro's actions.
-[note] (p.10–37) Passing mentions; not a distinct scene presence.
-[mentioned] (p.10–37) Passing mention only.
+### y2v4 p.38–43, 48–50 — Nagumo mentioned in passing
+[mentioned] (p.38) “For example, some third-year groups moved fairly unusually throughout the day yesterday. Furthermore, these groups are always closely related to Nagumo’s group or Kiriyama’s group. When I looked into it, I noticed something pretty interesting.”
+[mentioned] (p.38) “To begin with, Nagumo’s group was in area B8 at 7:00 AM that morning.”
+[mentioned] (p.39) “Most likely, the point is to have Nagumo effortlessly secure first-place in any Task they come across by fixing the competition in his favor.”
+[mentioned] (p.39) “Behind the scenes, Nagumo has probably prepared some relief measures of his own.”
+[mentioned] (p.40) “That was exactly why Nagumo’s strategy was so brilliant. If multiple groups all had zero points, it would be far too conspicuous.”
+[mentioned] (p.41) “It’s impossible for the other third-year classes to graduate as Class A by coming out on top through special exams. That being said, what if it’s possible to get into Class A by agreeing to work together with Nagumo instead?”
+[mentioned] (p.41) “In a sense, we should also assume that the groups supporting him are competing with each other.”
+[mentioned] (p.41) “Honestly, you’re probably onto something there as well. Nagumo has the entire third-year in the palm of his hand after all. He’s not here to follow the rules; He’s here to make and dictate them to the rest of us.”
+[mentioned] (p.42) “It probably wouldn’t be an exaggeration to say that, throughout the entire history of the Advanced Nurturing High School, Nagumo was and will be the first and last of his kind.”
+[mentioned] (p.43) “In reality, however, Nagumo’s group was most likely just putting on an act as they slowed down to match pace with Kōenji.”
+[mentioned] (p.48) “2nd Place: Third-Year Group Nagumo – 166 Points” — the printed top-ten.
+[mentioned] (p.49) “If Kōenji were to maintain his current pace and keep diligently racking up points, he’d end up with a final score of around 350, so if I wanted to bridge the gap, I’d have to earn close to 40 points per day for the rest of the exam.”
+[mentioned] (p.50) “Furthermore, there would definitely be groups looking to conserve their stamina for the double points being offered on the final day as well.”
 
-<!-- walk: y2v4 Ch.1 → p.37 -->
-
+<!-- walk: y2v4 Ch.1 → p.50 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

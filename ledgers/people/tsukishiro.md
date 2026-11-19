@@ -304,22 +304,29 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 
 <!-- walk: y2v4 → start -->
 
+### y2v4 p.18, 21, 23 — Tsukishiro mentioned in passing
+[mentioned] (p.18) “And it was too hard for me to imagine that she had heard about it from Tsukishiro. He would never talk about the inner workings of the White Room with someone unrelated – an outsider. As such, it was probably safe to conclude Amasawa’s guilt.” — he reasons about who sent her.
+[mentioned] (p.21) “She said ‘don’t go and get yourself crushed’… but by whom? Tsukishiro? The first-years who had their sights set on the twenty million private point bounty? Or, perhaps…”
+[mentioned] (p.23) “Honestly, I find it hard to believe that someone sent here by Tsukishiro would make a mistake like that.”
+
+<!-- walk: y2v4 Ch.1 → p.50 -->
+
 ### y2v4 p.252–272 — Tsukishiro's final trap at I2; his defeat
-[scene] (p.252) Waits at I2's tip with Shiba for Ayanokōji — the final trap to "bury" him where there's no watch signal.
-[says] (p.256) "You wouldn't call it unfair a two against one, right? After all, you are the best in the"
-[says] (p.256) "Do not worry. It's only Shiba and I who will fight against you."
-[says] (p.260) "I would have killed you now, but your reaction time is not normal."
-[says] (p.261) "It would have been easier if it was like a children's fight, purely fighting and fighting only with our strength and power."
-[says] (p.267) "I admit it, considering that you are a second year high school boy in front of me. You are an undeniable masterpiece."
-[says] (p.267) "I don't like being hard on people, but I'm having a lot of fun."
-[says] (p.270) "Even so, my position is still that of a priest, you know?"
-[says] (p.271) "You are overestimating me. I did everything in my power to get you out of school according to the instructions of my superiors."
-[says] (p.272) "Amasawa Ichika, you are disqualified for disobeying your orders."
-[says] (p.272) "Nothing has occurred here. Ayanokouji-kun and I just had a chat."
-[trait] (p.252–272) The formidable "acting director" — a skilled fighter who intentionally understated his combat rating ("4") as disinformation, fights with Shiba in a coordinated 2-on-1, uses a hidden stun gun and a waiting boat as trump cards; defeated by Ayanokōji (with Kiryūin's aid and teachers summoned), he concedes gracefully but implies he hasn't revealed everything, and declares Amasawa disqualified from the White Room.
-[rel:ayanokouji-kiyotaka] (p.252–272) His target; acknowledges him as a "masterpiece" after losing.
+[scene] (p.252) Waits at I2's tip with Shiba for Ayanokōji — the final trap to “bury” him where there's no watch signal.
+[says] (p.256) “You wouldn't call it unfair a two against one, right? After all, you are the best in the”
+[says] (p.256) “Do not worry. It's only Shiba and I who will fight against you.”
+[says] (p.260) “I would have killed you now, but your reaction time is not normal.”
+[says] (p.261) “It would have been easier if it was like a children's fight, purely fighting and fighting only with our strength and power.”
+[says] (p.267) “I admit it, considering that you are a second year high school boy in front of me. You are an undeniable masterpiece.”
+[says] (p.267) “I don't like being hard on people, but I'm having a lot of fun.”
+[says] (p.270) “Even so, my position is still that of a priest, you know?”
+[says] (p.271) “You are overestimating me. I did everything in my power to get you out of school according to the instructions of my superiors.”
+[says] (p.272) “Amasawa Ichika, you are disqualified for disobeying your orders.”
+[says] (p.272) “Nothing has occurred here. Ayanokouji-kun and I just had a chat.”
+[trait] (p.252–272) The formidable “acting director” — a skilled fighter who intentionally understated his combat rating (“4”) as disinformation, fights with Shiba in a coordinated 2-on-1, uses a hidden stun gun and a waiting boat as trump cards; defeated by Ayanokōji (with Kiryūin's aid and teachers summoned), he concedes gracefully but implies he hasn't revealed everything, and declares Amasawa disqualified from the White Room.
+[rel:ayanokouji-kiyotaka] (p.252–272) His target; acknowledges him as a “masterpiece” after losing.
 [rel:shiba-katsunori] (p.252–270) His accomplice in the trap.
-[rel:amasawa-ichika] (p.272) Disqualifies her for disobeying orders — "no more places to return to."
+[rel:amasawa-ichika] (p.272) Disqualifies her for disobeying orders — “no more places to return to.”
 [rel:kiryuin-fuuka] (p.261–270) Third-year who interrupts and holds Shiba.
 ## y2v4.5
 

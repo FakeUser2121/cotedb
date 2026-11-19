@@ -170,14 +170,25 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 
 <!-- walk: y2v4 → start -->
 
+### y2v4 p.53 — Hōsen mentioned in passing
+[mentioned] (p.53) “How do you plan on joining up with Amasawa and Hōsen?” — Nanase asks Ayanokōji about finding both group members.
+
+<!-- walk: y2v4 Ch.2 → p.59 -->
+
+### y2v4 p.15, 47 — Hōsen mentioned in passing
+[mentioned] (p.15) “Since when were you his knight in shining armor? Weren’t you like, plotting to get him expelled together with Hōsen-kun?” — Amasawa needles Nanase about her own alliance.
+[mentioned] (p.47) “You have your other group member, Hōsen, to watch out for as well.” — Ayanokōji warns Nanase.
+
+<!-- walk: y2v4 Ch.1 → p.50 -->
+
 
 
 ### y2v4 p.168–183 — Hōsen's trap and his brutal fight with Ryūen
 [scene] (p.167) Pretends to follow Tsubaki's instructions to surround Ayanokōji, intending instead to attack him directly; but Ayanokōji anticipated it (via Nanase), and Ryūen intercepts.
-[says] (p.168) "Housen."
-[says] (p.168) "I know Nanase came to see you to gently warn you."
-[says] (p.169) "That's my line, Housen. You have nothing to do here, do you?" — Ryūen
-[trait] (p.168–183) Walks into Ryūen's trap — a fierce brawler who dominates the one-on-one exchange with overwhelming punches (Ryūen's Warning then Emergency Alert sounds), but is outmaneuvered when Ishizaki and Albert (with broken/disabled GPS so unseen) restrain him, turning it into a 3-on-1 beating; stripped of his confidence (Ryūen calls him a "shitty little fish" who can't fight alone in a real fight), he loses consciousness and retires with Ryūen.
+[says] (p.168) “Housen.”
+[says] (p.168) “I know Nanase came to see you to gently warn you.”
+[says] (p.169) “That's my line, Housen. You have nothing to do here, do you?” — Ryūen
+[trait] (p.168–183) Walks into Ryūen's trap — a fierce brawler who dominates the one-on-one exchange with overwhelming punches (Ryūen's Warning then Emergency Alert sounds), but is outmaneuvered when Ishizaki and Albert (with broken/disabled GPS so unseen) restrain him, turning it into a 3-on-1 beating; stripped of his confidence (Ryūen calls him a “shitty little fish” who can't fight alone in a real fight), he loses consciousness and retires with Ryūen.
 [rel:ryuuen-kakeru] (p.168–183) His rival — Ryūen stops him from reaching Ayanokōji and defeats him with a setup; both retire together.
 [rel:tsubaki-sakurako] (p.167–168) Pretends to follow her plan; drops out of her network when he makes his move.
 [rel:nanase-tsubasa] (p.168) His classmate; her warning was secretly Ayanokōji's tip-off.

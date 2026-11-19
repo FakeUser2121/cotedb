@@ -218,37 +218,80 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 
 <!-- walk: y2v4 → start -->
 
+### y2v4 p.51–54 — Amasawa mentioned in passing
+[mentioned] (p.52) “Amasawa’s most likely just going to head to the next designated area, right?” — Nanase.
+[mentioned] (p.52) “Amasawa-san was following us as of the evening of the sixth day or the morning of the seventh, right?” — Nanase.
+[mentioned] (p.52) “Naturally, I’ve referenced this with the data on my tablet already, but… as far as I recall, our score didn’t go down whatsoever yesterday.” — Nanase.
+[mentioned] (p.52) “Although it’s unknown where on the island Amasawa-san was that morning, you and I were traveling quite fast at the time. It wouldn’t have been very easy for her to catch up to us unless she was already somewhere nearby, right?” — Nanase.
+[mentioned] (p.53) “How do you plan on joining up with Amasawa and Hōsen?” — Nanase.
 
+<!-- walk: y2v4 Ch.2 → p.59 -->
 
 ### y2v4 p.5–7 — Prologue: Amasawa's monologue on the White Room
-[scene] (p.5) In her own monologue, reveals she is an IVF ("test-tube") baby brought into the White Room, with no knowledge of her parents.
-[narrates] (p.5) "I am one of those born from that very process. A human brought about through in vitro fertilization."
-[narrates] (p.5) "my existence runs in direct conflict with that of the White Room."
-[narrates] (p.6) "I personally concluded long ago that it's impossible to homogenize intellect, personality, and ethics."
-[narrates] (p.6) "Wouldn't that be like, you know, kinda pathetic? Wouldn't you want to live more freely?"
-[narrates] (p.6) "Ayanokōji Kiyotaka. The being whose preeminent success stood out from the rest of the White Room."
-[narrates] (p.7) "However, I'm sorry Senpai. I really want to take your side, but that's just not how fate is going to play out."
-[narrates] (p.7) "As one of your faithful admirers, I'll be looking on from a distance once 'that time' finally comes."
-[trait] (p.5–7) Proud of being different, secretly questions the White Room's purpose (it seeks to prove ability comes from environment, not genetics — her existence refutes it), and admires Ayanokōji from afar; resolved not to devote her life to the facility's ideals; hints she has aligned with people she's known much longer (not Ayanokōji), despite admiring him.
+[scene] (p.5) In her own monologue, she reveals she is an IVF (“test-tube”) baby brought into the White Room, with no knowledge of her parents.
+[narrates] (p.5) “I am one of those born from that very process. A human brought about through in vitro fertilization.”
+[narrates] (p.5) “my existence runs in direct conflict with that of the White Room.”
+[narrates] (p.6) “I personally concluded long ago that it’s impossible to homogenize intellect, personality, and ethics.”
+[narrates] (p.6) “Wouldn’t that be like, you know, kinda pathetic? Wouldn’t you want to live more freely?”
+[narrates] (p.6) “Ayanokōji Kiyotaka. The being whose preeminent success stood out from the rest of the White Room.”
+[narrates] (p.7) “However, I’m sorry Senpai. I really want to take your side, but that’s just not how fate is going to play out.”
+[narrates] (p.7) “As one of your faithful admirers, I’ll be looking on from a distance once ‘that time’ finally comes.”
+[trait] (p.5–7) Proud of being different, secretly questions the White Room’s purpose (it seeks to prove ability comes from environment, not genetics — her existence refutes it), and admires Ayanokōji from afar; resolved not to devote her life to the facility’s ideals; hints she has aligned with people she’s known much longer (not Ayanokōji), despite admiring him.
 [rel:ayanokouji-kiyotaka] (p.6–7) She idolizes him but says fate prevents her from taking his side.
 
-### y2v4 p.8–21 — Amasawa confronts Ayanokōji in the storm; reveals she is the White Room student
-[scene] (p.8) Appears behind Ayanokōji and Nanase in the rain, red hair swaying, holding a whittled wooden stick — having tracked them (same Table or GPS relay).
-[says] (p.8) "Seems it's gonna really start coming down, huh Sen~pai?"
-[says] (p.9) "Oh? Nanase-chan, shouldn't you be happy to see me? How aw~fully cold you are to a dear companion from your very own group."
-[says] (p.9) "I'm super-duper cute~!"
-[says] (p.11) "Ahaha, so I was seen after all."
-[says] (p.12) "I can swear it, sure, but it doesn't really matter whether I keep my word or not, right?"
-[says] (p.13) "Ding ding ding~ Correct~! Whether intentionally done or not, a broken watch is a broken watch."
-[says] (p.16) "Well there's no way I could do that. It has to do with the White Room, after all~"
-[says] (p.18) "It's cuz I wanted to tell you that I'm not your enemy, Senpai."
-[says] (p.18) "they chose the wrong person. They didn't predict that I was but a young maiden who secretly idolized you."
-[says] (p.19) "You've gotta talk with them and meet face-to-face before your admiration starts to feel justified."
-[note] (p.20) Dismisses the idea that anyone else in her generation would have been won over — she alone idolized him.
-[says] (p.20) "So please, don't go and get yourself crushed without my permission, okay?"
-[trait] (p.8–21) Playful, evasive and theatrical (tosses the stick down as a "good faith" show), admits to watching them but not to pushing Komiya/Kinoshita; reveals White Room-only knowledge to prove her identity (his childhood curricula, the pure-white facility) and claims she intends to admire him, not destroy him — her true allegiance and motive remain ambiguous; brushes his cheek and departs with a cryptic warning.
-[rel:ayanokouji-kiyotaka] (p.8–21) Reveals herself as the White Room student, claims to admire him and not be his enemy.
-[rel:nanase-tsubasa] (p.9–16) Spars with her, who accuses her of the cliff attack; calls her an "outsider" and a "loyal dog."
+### y2v4 p.8–14 — Ch.1: Amasawa confronts them in the rain
+[scene] (p.8) In the downpour, an ominous presence stops behind Ayanokōji and Nanase — she is standing there in the rain, red hair swaying; Class 1-A’s Amasawa Ichika; empty-handed except for a thick wooden stick clasped in her left hand, no backpack or tablet (tracked them via Table, GPS relay, or tailing).
+[says] (p.8) “Seems it’s gonna really start coming down, huh Sen~pai?”
+[says] (p.9) “Oh? Nanase-chan, shouldn’t you be happy to see me? How aw~fully cold you are to a dear companion from your very own group. Wait, are you perhaps nervous about this little stick friend of mine~?”
+[says] (p.9) “How me~an. How could you say something like that? I’m super-duper cute~!”
+[says] (p.9) “Jeez. I’m not some bad guy, right Ayanokōji-senpai~? I just wanna chat for a bit, kay?”
+[says:nanase-tsubasa] (p.9) “You were about to lay your hands on Ayanokōji-senpai, weren’t you?”
+[says:nanase-tsubasa] (p.11) “Back then, the one watching us from the shadows was you, wasn’t it Amasawa-san?”
+[says] (p.11) “Ahaha, so I was seen after all.”
+[says] (p.11) “Eh? Aren’t you just, like, jumping to conclusions? Maybe I just happened to be in the neighborhood.”
+[says] (p.12) “I can swear it, sure, but it doesn’t really matter whether I keep my word or not, right?”
+[says] (p.12) “Ding ding ding~ Correct~! Whether intentionally done or not, a broken watch is a broken watch. And you can get it replaced for free too!”
+[says] (p.13) “Poking holes in the rules is standard practice. If the school can’t even find any evidence, you’re free to do whatever you want.”
+[says] (p.14) “Same difference. Be it my broken GPS or my presence at the scene of the crime, it would only end with suspicion at best.”
+[note] (p.11–14) She admits to tailing them at the slope (Nanase caught her red hair), baits Nanase’s interrogation and stonewalls on the Komiya/Kinoshita attack; she shows them the broken watch to prove she could erase her GPS; she correctly reads that a first-year with a spotless record will not be found guilty without evidence — and that Shinohara only saw a vague figure.
+[trait] (p.8–14) Theatre and evasion — arrives conspicuously, tosses the stick down as a show of good faith (p.9), laughs off being caught red-handed, turns Nanase’s accusation into wordplay; Ayanokōji notes she has “extraordinary acting skills and the uncanny ability to put plans into action” (p.10).
+[rel:nanase-tsubasa] (p.9–14) Nanase orders her “You─ cannot be trusted.” and stays between her and Ayanokōji; Amasawa needles Nanase as his “knight in shining armor” (p.15).
+[rel:ayanokouji-kiyotaka] (p.8–14) She approaches him uninvited carrying a weapon she never uses; he says nothing to signal trust either way.
+
+### y2v4 p.15–20 — Ch.1: The White Room reveal
+[scene] (p.15) She stalls the conversation (offers to pitch camp and spend the night “just the two of us”), Nanase seizes her arm, and she confesses she is the White Room student; he motions Nanase away so the rain masks a private talk.
+[says] (p.15) “What’s with this, Nanase-chan?”
+[says] (p.15) “Since when were you his knight in shining armor? Weren’t you like, plotting to get him expelled together with Hōsen-kun?”
+[says] (p.15) “I just happened to get lost, so I came to try and ask you guys for help.”
+[says] (p.16) “Well there’s no way I could do that. It has to do with the White Room, after all~”
+[says] (p.16) “I’d like to chat with Ayanokōji-senpai, so could you let go and step aside?”
+[says] (p.16) “Do you get it now? Little miss outsider~”
+[says] (p.17) “Senpai, the curriculum you took back when you were 10 years old included Systems’ Theory based on Project 5. And at the age of 11 it was the Theory of Relativity based on Project 7. I took part in both myself, so I remember them well.”
+[says] (p.18) “The classrooms, the corridors, our assigned living chambers… everything was a world of pure white.”
+[says] (p.18) “Sure sure, I figured you’d be curious about that. It’s cuz I wanted to tell you that I’m not your enemy, Senpai.”
+[says] (p.18) “You wouldn’t know this as part of the fourth generation, Ayanokōji-senpai, but the later generations harbor immense feelings of jealousy when it comes to you. The higher-ups probably thought that they could select someone promising and manipulate this jealousy to force your expulsion. However, they chose the wrong person. They didn’t predict that I was but a young maiden who secretly idolized you.”
+[says] (p.19) “Well, no matter how much you might idolize someone, that’s just like, all in your head, you know? You’ve gotta talk with them and meet face-to-face before your admiration starts to feel justified. That takes time.”
+[says] (p.19) “I know exactly what you mean, Senpai. I too have thought about how nice it’d be if I could just enjoy being a student like this up until graduation. I’ve thought about it several times, actually. I suck at making friends though, so I just don’t have very many people to talk to.”
+[says] (p.20) “It’s said that, before the fifth generation, children were often crushed one after another due to their excessive individualism.”
+[says] (p.20) “In my generation, on the other hand, all children were required to maintain a minimum level of interpersonal communication.”
+[says] (p.20) “Still don’t believe me?”
+[says] (p.20) “You’re awfully calm and composed for someone who believes that I’m a White Room student. Perhaps you don’t think I’ll be a threat to you?”
+[says] (p.20) “Jeez~ Didn’t I tell you already~? I admire you, Ayanokōji-senpai. That’s all.”
+[says] (p.20) “So please, don’t go and get yourself crushed without my permission, okay?”
+[note] (p.17–20) She draws the reveal out deliberately (stalling for time); his childhood curricula and the pure-white facility are White Room-only knowledge; she frames her allegiance as the younger generation’s jealousy misdirected into her admiration; the fifth generation’s interpersonal training is her claimed edge over him.
+[trait] (p.15–20) She confesses her White Room past outright, claims she is not his enemy, pushes “ordinary high schooler” dreams (and admits she is bad at making friends), then leaves with a cryptic blessing/warning after brushing his cheek with wet fingers (p.20).
+[rel:ayanokouji-kiyotaka] (p.15–20) Reveals herself as the White Room student; claims admiration, not enmity; her warning leaves the “crushed without my permission” hanging.
+[rel:nanase-tsubasa] (p.15–16) Calls her Nanase-chan his loyal dog; Nanase releases her arm only on his order; she is excluded from the private talk.
+
+### y2v4 p.21–26 — Ch.1: The aftermath she left behind
+[note] (p.21–26) After she departs, Ayanokōji and Nanase trace her footprints (clean and steady on approach) preceded by a larger mystery set that closed in then fled; the whittled-down stick suggests she did not carry the weapon — a third party did; the footprints likely were the mystery person’s; Ayanokōji declines a GPS Search as bait; she may have come to protect him from whoever made those tracks.
+[rel:ayanokouji-kiyotaka] (p.21–26) The mystery his side discusses in her absence — her own tracks are measured against a bigger, fleeing set.
+
+### y2v4 p.43–44 — Ch.1: Her signal, reconstructed
+[note] (p.43) On the sixth-day screenshots, her GPS signal shows two areas south of their designated area, alone, then a faster-than-foot route to B6, then C6 one area right; she participated in three or so Tasks as she diligently made her way to designated areas; nothing suspicious as of 5:00 PM; he reads it as her taking the exam seriously (or at least leaving no GPS-searchable openings).
+[mentioned] (p.43–44) Named throughout the reconstruction; not present on these pages.
+
+<!-- walk: y2v4 Ch.1 → p.50 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

@@ -1778,16 +1778,12 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 p.10, 14, 42, 47 — Sudō mentioned in passing
-[scene] (p.10) Named in the context of the exam.
-[scene] (p.14) Named in the context of the exam.
-[scene] (p.42) Named in the context of the exam.
-[scene] (p.47) Named in the context of the exam.
-[note] (p.10, 14, 42, 47) Passing mentions; not a distinct scene presence.
-[mentioned] (p.10, 14, 42, 47) Passing mention only.
+### y2v4 p.14, 42, 47 — Sudō mentioned in passing
+[mentioned] (p.14) “If it had been one of the more problematic students like Sudō or Ryūen, who had a history of highly violent behavior, the school might have been more suspicious.” — the school’s suspicion calculus on the cliff attack.
+[mentioned] (p.42) “As an example, certain Class 2-A groups would help Class 2-D with increasing the maximum group size of Sudō’s group, and in exchange we would help them increase the maximum size of one of their own that needed it.”
+[mentioned] (p.47) “While they may have her beat in terms of raw physical strength, she’d definitely be far, far ahead of them when it comes to technique and experience.” — Ayanokōji privately compares Amasawa to the likes of Sudō and Ryūen.
 
-<!-- walk: y2v4 Ch.1 → p.47 -->
-
+<!-- walk: y2v4 Ch.1 → p.50 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
@@ -1917,8 +1913,6 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:onodera-kayano] (p.298) His doubles partner — "if you didn't help I would definitely have lost."
 [rel:housen-kazuomi] (p.292–301) Hōsen tries to provoke him into a fight; Sudō wins without taking the bait — a major display of growth.
 [rel:horikita-suzune] (p.297) She congratulates him on winning every event.
-
-<!-- walk: y2v7 → start -->
 
 ## y2v7
 

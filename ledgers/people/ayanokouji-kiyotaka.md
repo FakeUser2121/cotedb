@@ -8420,115 +8420,223 @@ walk: y1v1 → DONE
 <!-- walk: y2v4 → start -->
 
 ### y2v4 p.5–7 — Prologue note (Amasawa's monologue — her own page)
-[note] (p.5) The prologue is Amasawa Ichika's own monologue (an IVF/"test-tube" baby raised in the White Room) — recorded on her own page, not attributed here.
+[note] (p.5) The prologue is Amasawa Ichika’s own monologue (an IVF/“test-tube” baby raised in the White Room) — recorded on her own page, not attributed here.
 
-### y2v4 p.8–16 — Amasawa appears in the rain; reveals she is the White Room student
-[scene] (p.8) On the mountain in the storm after the fight with Nanase, Amasawa appears from behind with a wooden stick, no backpack/tablet — having tracked them (same Table, or GPS/walkie-talkie relay).
-[says:amasawa-ichika] (p.8) "Seems it's gonna really start coming down, huh Sen~pai?"
-[says:nanase-tsubasa] (p.9) "You─ cannot be trusted."
-[says:amasawa-ichika] (p.9) "Oh? Nanase-chan, shouldn't you be happy to see me?"
-[says:nanase-tsubasa] (p.10) "Please don't listen to her, she's dangerous."
-[says:nanase-tsubasa] (p.11) "Back then, the one watching us from the shadows was you, wasn't it Amasawa-san?"
-[says:amasawa-ichika] (p.11) "Ahaha, so I was seen after all."
-[says:amasawa-ichika] (p.15) "there are certain things that only the fifth generation of students that came after you could learn."
-[says:amasawa-ichika] (p.16) "Well there's no way I could do that. It has to do with the White Room, after all~"
-[says:amasawa-ichika] (p.17) "Senpai, the curriculum you took back when you were 10 years old included Systems' Theory based on Project 5."
-[inference] (p.8–18) Considers how she found them (tracked/GPS) and why she's armed; Amasawa reveals White Room-only knowledge (his 10-year-old Systems' Theory/Project 5, 11-year-old Relativity/Project 7, the pure-white facility), proving she's the real White Room student — not something Tsukishiro would tell an outsider.
-[rel:amasawa-ichika] (p.8–20) She reveals her identity, claims to admire him and not be his enemy, and warns him not to get himself crushed without her permission.
-[rel:nanase-tsubasa] (p.9–16) Now his ally, she fiercely guards him, accuses Amasawa of pushing Komiya/Kinoshita, and is called an "outsider"/"loyal dog."
+### y2v4 p.8–14 — Ch.1: Amasawa appears in the rain
+[scene] (p.8) In the storm after the fight with Nanase, an ominous presence stops behind him — Amasawa stands there in the rain, red hair swaying, holding a whittled wooden stick; no backpack or tablet (tracked them via the same Table, or GPS relay, or a long tail).
+[says:amasawa-ichika] (p.8) “Seems it’s gonna really start coming down, huh Sen~pai?”
+[says:amasawa-ichika] (p.9) “How me~an. How could you say something like that? I’m super-duper cute~!”
+[says:amasawa-ichika] (p.11) “Ahaha, so I was seen after all.”
+[says:amasawa-ichika] (p.12) “Ding ding ding~ Correct~! Whether intentionally done or not, a broken watch is a broken watch. And you can get it replaced for free too!”
+[says:nanase-tsubasa] (p.9) “Please get behind me, Senpai.”
+[says:nanase-tsubasa] (p.9) “You─ cannot be trusted.”
+[says:nanase-tsubasa] (p.10) “Please don’t listen to her, she’s dangerous.”
+[says:nanase-tsubasa] (p.11) “Back then, the one watching us from the shadows was you, wasn’t it Amasawa-san?”
+[inference] (p.8–14) He weighs how she found them (tracked them, empty-handed from the start, or a relay) and why she carries a stick — her “extraordinary acting skills and the uncanny ability to put plans into action” (p.10); he remains formally courteous while treating her as a live threat; Komiya and Kinoshita went down on the fourth day under an intact-GPS night raid.
+[rel:amasawa-ichika] (p.8–14) She appears before him in the rain; neither trusts her; she tosses the stick down as a show of good faith; he calls for restraint without revealing what he knows.
+[rel:nanase-tsubasa] (p.8–14) Now his ally, she steps in front of him and grabs Amasawa’s arm; accuses Amasawa of pushing Komiya/Kinoshita; he will not echo the accusation.
+[note] (p.10–11) Komiya and Kinoshita (retired from the exam after the fourth-day attack on the slope near F6/D7) were the reason Ike ran; Amasawa’s signal was the only one missing at the time; Nanase saw her fleeing.
 
-### y2v4 p.18–21 — Amasawa's motive: admiration; the mystery footprints
-[scene] (p.18) Amasawa explains why she revealed herself — later generations harbor immense jealousy toward him; the higher-ups tried to exploit it, but chose the wrong person.
-[says:amasawa-ichika] (p.18) "It's cuz I wanted to tell you that I'm not your enemy, Senpai."
-[says:amasawa-ichika] (p.18) "they didn't predict that I was but a young maiden who secretly idolized you."
-[says:amasawa-ichika] (p.19) "You've gotta talk with them and meet face-to-face before your admiration starts to feel justified."
-[says:amasawa-ichika] (p.19) "I too have thought about how nice it'd be if I could just enjoy being a student like this up until graduation."
-[says:amasawa-ichika] (p.20) "Still don't believe me?"
-[says:amasawa-ichika] (p.20) "Do you understand?"
-[says:amasawa-ichika] (p.20) "So please, don't go and get yourself crushed without my permission, okay?"
-[trait] (p.18–21) Judges her story partially credible (her White Room knowledge proves origin, not motive); notes she's similar to him (poor at making friends, felt distance from others) though she claims better communication skills — a difference she attributes to the fifth generation's training in interpersonal communication; remains calm despite her being a White Room student.
-[rel:amasawa-ichika] (p.18–21) Admires him, claims not to be his enemy, and departs leaving a cryptic warning.
+### y2v4 p.15–20 — Ch.1: The White Room reveal
+[scene] (p.15) He lets the White Room reveal happen in the rain; once Nanase is sent off with a motion, he gets the direct confession with the pure-white-facility detail.
+[says:amasawa-ichika] (p.15) “Since when were you his knight in shining armor? Weren’t you like, plotting to get him expelled together with Hōsen-kun?”
+[says:amasawa-ichika] (p.15) “I just happened to get lost, so I came to try and ask you guys for help.”
+[says:amasawa-ichika] (p.16) “Well there’s no way I could do that. It has to do with the White Room, after all~”
+[says:amasawa-ichika] (p.17) “Senpai, the curriculum you took back when you were 10 years old included Systems’ Theory based on Project 5. And at the age of 11 it was the Theory of Relativity based on Project 7. I took part in both myself, so I remember them well.”
+[says:amasawa-ichika] (p.18) “The classrooms, the corridors, our assigned living chambers… everything was a world of pure white.”
+[says:amasawa-ichika] (p.18) “Sure sure, I figured you’d be curious about that. It’s cuz I wanted to tell you that I’m not your enemy, Senpai.”
+[says:amasawa-ichika] (p.18) “You wouldn’t know this as part of the fourth generation, Ayanokōji-senpai, but the later generations harbor immense feelings of jealousy when it comes to you. The higher-ups probably thought that they could select someone promising and manipulate this jealousy to force your expulsion. However, they chose the wrong person. They didn’t predict that I was but a young maiden who secretly idolized you.”
+[says:amasawa-ichika] (p.19) “Well, no matter how much you might idolize someone, that’s just like, all in your head, you know? You’ve gotta talk with them and meet face-to-face before your admiration starts to feel justified. That takes time.”
+[says:amasawa-ichika] (p.19) “I suck at making friends though, so I just don’t have very many people to talk to.”
+[says:amasawa-ichika] (p.19) “Do you understand?”
+[says:amasawa-ichika] (p.20) “It’s said that, before the fifth generation, children were often crushed one after another due to their excessive individualism.”
+[says:amasawa-ichika] (p.20) “In my generation, on the other hand, all children were required to maintain a minimum level of interpersonal communication.”
+[says] (p.20) “I believe you’re from the White Room, but I’m not convinced with the reason you gave me for why you revealed your identity.”
+[says:amasawa-ichika] (p.20) “So please, don’t go and get yourself crushed without my permission, okay?”
+[says] (p.21) “Ayanokōji-senpai, are you alright? She didn’t do anything to you right?”
+[note] (p.16–21) Her curriculum details (Project 5 Systems’ Theory at 10, Project 7 Theory of Relativity at 11; the pure-white facility) are White Room-only knowledge; he concludes her guilt on origin but doubts her motive — she is the first White Room fifth-generation member to reveal herself openly; the fifth generation’s interpersonal-communication training is her claimed difference from him.
+[trait] (p.15–20) He keeps his composure against a self-declared White Room student; he neither confirms nor denies being her idol; he stays silent when she asks if he thinks she’ll be a threat (p.20).
+[rel:amasawa-ichika] (p.15–20) She reveals her identity and her admiration; her warning not to get himself crushed without her permission hangs over the exam’s endgame.
+[rel:nanase-tsubasa] (p.17) He waves her away so the rain covers a private talk; she obeys reluctantly.
 
-### y2v4 p.21–26 — Investigating Amasawa's footprints and the whittled stick
-[says] (p.21) "The rain. We'd better hurry."
-[says:nanase-tsubasa] (p.21) "Amasawa-san's… footprints? Is there something wrong with her footprints?"
-[says] (p.22) "I found some footprints nearby the scene of the crime. From what I can tell, I'm fairly confident that they're the same size as Amasawa's."
-[says] (p.25) "It's been whittled down in certain places so it can be better used as a weapon."
-[says:nanase-tsubasa] (p.26) "Senpai, let's do a GPS Search right now!"
-[inference] (p.21–26) Notes Amasawa's footprints are clean/steady but preceded by a larger mystery set that approached them then fled; the stick was deliberately whittled into a weapon — likely left by the mystery person, not Amasawa (who had no intention of attacking, only wanted to be noticed, possibly to protect him); reasons the attacker did NOT break their watch (else GPS reveal would be meaningless), so a GPS Search could identify the one missing signal as the culprit.
-[rel:nanase-tsubasa] (p.21–26) Discusses the footprints/stick evidence; she pushes for a GPS search.
+### y2v4 p.21–27 — Ch.1: The footprints; the whittled stick; the GPS verdict
+[says] (p.21) “The rain. We’d better hurry.”
+[says:nanase-tsubasa] (p.21) “Amasawa-san’s… footprints? Is there something wrong with her footprints?”
+[says] (p.22) “I found some footprints nearby the scene of the crime. From what I can tell, I’m fairly confident that they’re the same size as Amasawa’s.”
+[says] (p.23) “As I thought, there’s something about each and every one of Amasawa’s actions that can’t be overlooked.”
+[says] (p.25) “Do you think she was going to use this to try and attack you, Ayanokōji-senpai?”
+[says] (p.25) “If Amasawa really planned on attacking me, then she should’ve tried to catch me off-guard instead of calling out like she did.”
+[says] (p.26) “You still can’t be absolutely certain. She’s well aware that you’re an opponent she ought to be wary of, so it’s reasonable to assume that she took any and all precautions necessary.”
+[says] (p.27) “I won’t be using the GPS Search.”
+[says:nanase-tsubasa] (p.26) “Senpai, let’s do a GPS Search right now!”
+[inference] (p.21–27) Reads her approach tracks (steady, unhurried) against a larger fleeing set that stopped at her tracks and turned back; the whittled stick was the third party’s, not hers; Amasawa had no intention of attacking — she likely wanted to be seen; the mystery person likely did not break their watch; declines the GPS Search as bait — the 10 missing points were for the ten hourly screenshots instead.
+[rel:nanase-tsubasa] (p.21–27) She wants the search; he vetoes it as a trap; the two concur the culprit is “certainly the most likely” reading being Amasawa, but neither has proof.
 
+### y2v4 p.28–30 — Ch.1: The exam canceled; the storm splits the plan
+[scene] (p.28) He peels off drenched clothes; receives the school’s cancellation notice for the seventh day; his all-out second-half plan is now toothless with every group fresh — the cancellation could not have come at a worse time.
+[note] (p.28) The school hints compensation for lost Tasks/movements will be announced when the weather clears.
+
+### y2v4 p.31–36 — Ch.1: Nanase’s visit; the trust test
+[scene] (p.30) In the rain she flies into his tent (less than a second in the rain); she apologizes for her months of hostility and finally comes to terms with her guilty conscience.
+[says:nanase-tsubasa] (p.30) “Hah… I’m sorry for intruding upon your rest, Senpai.”
+[says:nanase-tsubasa] (p.30) “I’m pretty shameless, aren’t I?”
+[says:nanase-tsubasa] (p.30) “I treated you with such hostility for the longest time, Senpai. Saying all sorts of terrible things straight to your face… You must be annoyed that I’m reaching out all buddy-buddy like this.”
+[says] (p.31) “I really don’t mind, so please stop apologizing.”
+[says:nanase-tsubasa] (p.31) “I haven’t been able to get the image of Amasawa-san out of my mind, showing up out of nowhere in the rain… When I started thinking about all the hardships you’ve been put through, I just… I felt like I had to call out to you.”
+[says:nanase-tsubasa] (p.31) “I convinced myself that Amasawa-san was the one who pushed Komiya-senpai and Kinoshita-senpai down the slope. I thought that she was just hiding her true nature because she wanted to hide the truth, but then you said that she wasn’t necessarily the culprit and now I just don’t know what to believe anymore…”
+[says:nanase-tsubasa] (p.32) “That… Uhm, wouldn’t that be strange though?”
+[says:nanase-tsubasa] (p.32) “Even if Amasawa-san isn’t the real culprit, they’d still have to be someone she knows, right? Therefore, isn’t it also possible that she’s an accomplice of some sort?”
+[says] (p.34) “Nanase, I thought we had a relationship where we could trust each other without hiding anything. Or was that just a misunderstanding on my part?”
+[says] (p.34) “What? No! Thank you for placing your trust in me! I’m very grateful!”
+[says] (p.35) “I’m surprised you noticed. Properly speaking, I should have 88 points right now.”
+[inference] (p.31–36) She asks what the culprit’s goal is — he counsels that they cannot know; she worries his score is off; she computes he should have 88; he explains the ten hourly GPS searches and the screenshot archive; he keeps the points analysis to himself until she asks.
+[note] (p.33) Her scent fills the tent; he puzzles over how she smells good after days of sweat; he chalks it up to deodorant.
+
+### y2v4 p.36–44 — Ch.1: Ten screenshots; the third-year coalition
+[says:nanase-tsubasa] (p.35) “There are Arrival Bonuses, Early Bird Bonuses, and Tasks…”
+[says:nanase-tsubasa] (p.35) “But you only have 78, 10 points less. I don’t think I forgot a penalty or something either…”
+[says] (p.36) “For this special exam, designated areas are announced four times per day as students move throughout the island. This time window lasts for ten hours per day, from 7:00 AM to 5:00 PM.”
+[says] (p.36) “The GPS searching feature is an extremely convenient tool that allows you to find out the location of every student on the island. However, if used only a single time, you’d just get a glimpse at everyone’s current location, so its overall usefulness is marginal.”
+[says] (p.36) “Besides, since we’ve been moving together, you should already be able to get a rough estimate of how many points I’ve earned just by thinking back on it.”
+[says:nanase-tsubasa] (p.37) “…I didn’t even realize that you had done this, Senpai.”
+[says:nanase-tsubasa] (p.37) “I say this with all due respect, but is this really worth paying ten whole points for? If it was possible to share the screenshots with someone, then there might be some added value, but it’d take a considerable amount of time for one person to analyze the movement patterns on their own, wouldn’t it?”
+[says:nanase-tsubasa] (p.38) “There are so many groups moving around together… almost like they’re a school of fish.”
+[says:nanase-tsubasa] (p.38) “Are they… doing this to monopolize Tasks?”
+[says] (p.39) “Most likely, the point is to have Nagumo effortlessly secure first-place in any Task they come across by fixing the competition in his favor.”
+[says:nanase-tsubasa] (p.39) “They… they’re all from groups down at the bottom of the rankings…”
+[says] (p.40) “Tell me, what’s stopping students from working together to have a specific group come out on top?”
+[says:nanase-tsubasa] (p.40) “That would be due to class points and the overarching threat of expulsion, of course.”
+[says] (p.40) “The strength of this strategy is that the groups down at the bottom of the rankings are free to do anything they want during the exam. When you’re in last place, there’s no difference between having one point and having fifty. At the end of the day, you’ll still lose class points and get expelled all the same.”
+[says] (p.41) “Behind the scenes, Nagumo has probably prepared some relief measures of his own.”
+[says] (p.41) “It’s impossible for the other third-year classes to graduate as Class A by coming out on top through special exams. That being said, what if it’s possible to get into Class A by agreeing to work together with Nagumo instead?”
+[inference] (p.38–41) Decodes the third-year plot from B8 hour-by-hour: bottom-rank groups appear at Nagumo’s locations at 8–9 AM, then travel as one conglomerate; the point-poor design prevents conspicuous zero-point tells; each supporting group keeps at least one member hitting designated areas to mask the coalition; the third years have effectively conceded the class competition and are bidding Class A admission from Nagumo.
+[says] (p.42) “On the fifth day of the exam, I approached both Ryūen and Sakayanagi with a certain proposal of sorts: to clear specific Tasks together with the help of a ‘select portion’ of the second-year student body.”
+[says:nanase-tsubasa] (p.42) “I think I understand now. You’re saying that, for you, it wasn’t a very big risk to spend ten points in exchange for this information, right Senpai?”
+[says] (p.42) “Somewhat. I haven’t exactly done away with my goal of reaching the top or anything.”
+[says] (p.43) “Kōenji was indeed amazing, but the truth behind what was going on here was probably a little bit different.”
+[inference] (p.42–43) His second-year counter-strategy (allied groups clear designated Tasks together, points not concentrated in any one group) was already in motion before this storm day; he keeps the truth of Kōenji’s “race” quiet as well (a mask Nagumo runs to hide the third-year coalition).
+
+### y2v4 p.45–50 — Ch.1: Compensation; his standing; the storm hangs
+[note] (p.45) The school posts that only one-fourth of the day’s Task/movement quota was done; all Arrival Bonus, Early Bird Bonus and Task points on the final day will be doubled; the forecast expects the weather to improve before tomorrow morning.
+[says:nanase-tsubasa] (p.45) “Senpai, this looks like it could end up changing everything.”
+[says] (p.45) “The school was right to tell us about this so far ahead of time. It’ll give groups the chance to reassess their plans for the second half of the exam.”
+[says:nanase-tsubasa] (p.46) “Eh? Ah…! Sorry!”
+[says:nanase-tsubasa] (p.46) “…I’ll head back to my own tent then.”
+[says:nanase-tsubasa] (p.46) “As soon as the rain stops, I think I’m going to try to chase after Amasawa-san. It’s clear enough that she’s from the White Room, and I’m concerned with what she’s planning to do after this.”
+[says] (p.47) “You have your other group member, Hōsen, to watch out for as well.”
+[says:nanase-tsubasa] (p.47) “I’m not afraid of getting expelled, Ayanokōji-senpai. I’ll do anything if it means protecting you, no matter the cost.”
+[says] (p.47) “I want you to avoid doing anything that may put me at risk.”
+[says] (p.48) “If that’s really true, then in any case, I just ask that you be careful. Got it?”
+[note] (p.48) He reads the public top-ten: Kōenji 168, Nagumo 166, Kiriyama 150, Mizoe 133, Ochiai 133, Ryūen 128, Sakayanagi 127, Takahashi 115, Kanzaki 104, Kuronaga 101; he is 49th with 78; a first-place Early Bird streak (11 pts each; four chances/day) would close the gap in nine more first places; Kōenji’s estimated final ~350.
+[note] (p.49) He plans to silently rise through the lower ranks in the second half; the 10th-place score acts as the barrier between public knowledge and anonymity; the storm day may have triggered a spike of activity for the next two days.
+[trait] (p.45–50) He evaluates the cancellation’s damage but recasts the news as an opening for the second half; warns Nanase off Amasawa/Hōsen — her careless actions may cause him unintended problems.
+[rel:kouenji-rokusuke] (p.48–50) Kōenji 168 pts leads; Ayanokōji notes his own 90-point gap and Kōenji’s likely ~350 final.
+[rel:nanase-tsubasa] (p.46–48) Sends her off with a warning — she vows anything for him; he tells her to protect him by protecting herself.
 ### y2v4 p.51–54 — Day eight: food shortage; parting with Nanase
-[scene] (p.51) After the storm clears, reflects on running out of food — never having undergone starvation training, his immune system at risk; his only real food source is Tasks.
-[says:nanase-tsubasa] (p.52) "Amasawa's most likely just going to head to the next designated area, right?"
-[says] (p.52) "may I continue to accompany you until we reach this first designated area?"
-[says] (p.52) "Without putting too much thought into it, it's probably safe to assume that she approached us using a GPS Search on the morning of the seventh."
-[says:nanase-tsubasa] (p.52) "our score didn't go down whatsoever yesterday."
-[says] (p.53) "I'm guessing she used a trick of some sort to find out my exact location."
-[says:nanase-tsubasa] (p.54) "If I catch wind that something bad is going down, I'll come running"
-[says] (p.54) "Just don't overdo it."
-[inference] (p.52–53) Reasons Amasawa didn't use GPS Search (group score unchanged) but traveled light to close the distance — likely had someone else disclose his location; concludes Nanase is now a useful ally who can infiltrate first-year circles.
-[rel:nanase-tsubasa] (p.51–54) Continues with him to the first area, then parts to rejoin Amasawa/Hōsen and spy on the first-years for him.
-[rel:amasawa-ichika] (p.52–53) Analyzes how she found them.
+[scene] (p.51) After the storm clears by 6:00 AM, he sits with his food shortage — never having undergone starvation training, his immune system is at risk; his only real source is Tasks; Nanase approaches with her backpack ready.
+[says] (p.51) “I’ll have to address the food shortage sooner rather than later…”
+[says:nanase-tsubasa] (p.51) “I’m all packed and ready to go.”
+[says:nanase-tsubasa] (p.52) “Amasawa’s most likely just going to head to the next designated area, right?”
+[says] (p.52) “Without putting too much thought into it, it’s probably safe to assume that she approached us using a GPS Search on the morning of the seventh.”
+[says:nanase-tsubasa] (p.52) “Naturally, I’ve referenced this with the data on my tablet already, but… as far as I recall, our score didn’t go down whatsoever yesterday.”
+[says] (p.52) “That’s probably why she came up with a clever plan to help close the distance.”
+[says] (p.53) “I’m guessing she used a trick of some sort to find out my exact location.”
+[inference] (p.52–53) Nanase’s tablet data (she is a group member) rules out a group GPS Search; Amasawa traveled light and likely had someone else disclose his location — he cannot be certain of the method.
+[scene] (p.53) At area E3 they part ways — she heads off with a one-point Arrival Bonus, chasing her own plan: poke around among the first-years and report anything suspicious.
+[says:nanase-tsubasa] (p.53) “It looks like this is where we part ways, Senpai. At least for now.”
+[says:nanase-tsubasa] (p.53) “I can’t imagine that I’d cross paths with them by aimlessly wandering around the island, but it’s not like I can waste a bunch of points searching for them either. With that being the case, I’ll start out by using the point I just got and try my best to chase after their GPS signals. If I can’t find them after that, I guess I’ll just travel to the next designated area.”
+[says:nanase-tsubasa] (p.54) “I think it’ll take a first-year student like me to poke around and find out what other first-years are up to. If I catch wind that something bad is going down, I’ll come running and let you know, Ayanokōji-senpai.”
+[says] (p.54) “Just don’t overdo it.”
+[inference] (p.54) He is glad she is going after Amasawa/Hōsen but fears she will end up lost; he sends her off with minimal warning; she sets off with her tablet.
+[rel:nanase-tsubasa] (p.51–54) They travel together to E3, then part; she goes undercover among the first-years as his eyes and ears.
+[rel:amasawa-ichika] (p.51–53) He concludes she found him by a trick, not by a group GPS Search.
 
-### y2v4 p.55–59 — Reuniting with Horikita; coordinating the Shinohara rescue
-[scene] (p.55) On day eight, runs into Horikita (first time since day one) near a Task in F7; they head the same direction (his F8, her G8).
-[says] (p.55) "It's been eight days, huh?"
-[says] (p.56) "Yes, I am. It's troublesome in many ways, but being alone tends to make many things easier as well."
-[says] (p.57) "No, not really. I think it could've been both an incident or an accident."
-[says] (p.57) "But if that's how things play out, then it'll be just you and Shinohara scoring all the points."
-[says] (p.58) "I'm running low on food, so I think I'd like to drop by this Task."
-[trait] (p.55–59) Notes Horikita is unexpectedly fresh and never in the bottom ten (she's taking first in contested Tasks); learns from her that Sakayanagi told her of his rescue plan and they're negotiating; keeps Amasawa's role to himself; both head to a food Task that becomes fiercely competitive.
-[rel:horikita-suzune] (p.55–59) Reunites with her, coordinates the Shinohara rescue (she won 3 extra group slots in a Task), and heads to the food Task together.
-[rel:sakayanagi-arisu] (p.56–57) Horikita is negotiating with her over the rescue plan.
-[rel:shinohara-satsuki] (p.56–57) Seventh from bottom — at risk of expulsion by day's end.
+### y2v4 p.55–56 — Ch.2: Reuniting with Horikita
+[scene] (p.55) He crosses the path of Horikita for the first time since day one, at area F7 by a Task site; she’s surprisingly fresh and heading to G8; he’s to F8; they travel together.
+[says:horikita-suzune] (p.55) “Ayanokōji-kun?”
+[says] (p.55) “It’s been eight days, huh?”
+[says] (p.55) “Did you come for the Task, or are you simply passing through? Where are you headed after this, Horikita?”
+[says:horikita-suzune] (p.56) “I’m heading to G8. I ended up passing through here on the way. What about yourself?”
+[says:horikita-suzune] (p.56) “Is it really so hard for you to believe that I’m still in such good shape?”
+[says] (p.56) “Most of the students I’ve come across have looked awfully tired.”
+[says:horikita-suzune] (p.56) “Hmm. Did something unusual happen?”
+[says] (p.56) “Yes, I am. It’s troublesome in many ways, but being alone tends to make many things easier as well.”
+
+### y2v4 p.56–58 — Ch.2: The Shinohara rescue plan, coordinated
+[scene] (p.56) She tells him what she knows: earlier today a Class 2-A contact pulled her near the starting area, urged her to see Sakayanagi; Sakayanagi relayed the retirements of Komiya and Kinoshita and proposed terms; the two began to negotiate; Shinohara is seventh from the bottom and will hit expulsion by day’s end.
+[says] (p.56) “Unusual? Ah… now that you mention it, have you heard about what happened with Shinohara?”
+[says:horikita-suzune] (p.56) “Yes. To be exact, I heard about it today. In light of that, I’m glad that I ran into you.”
+[note] (p.56) Apparently (narrated) it had gone something like this: somebody from Class 2-A reached out to Horikita near the starting area earlier today, urged her to meet with Sakayanagi, and Sakayanagi informed her of Komiya and Kinoshita’s retirement.
+[says] (p.57) “You didn’t refuse to cooperate, right?”
+[says:horikita-suzune] (p.57) “I had no reason to do that; I had to prevent Shinohara-san from getting kicked out of school. I heard that you were one of the first on the scene at the time, do you know the details of what happened?”
+[says] (p.57) “No, not really. I think it could’ve been both an incident or an accident.”
+[says:horikita-suzune] (p.57) “Shinohara-san’s group ranking has been dropping lower and lower every day. Currently, she’s placed seventh from the bottom. At this rate, it seems she’ll fall far enough to qualify for expulsion by the end of the day today, so we have to hurry. If worse comes to worst and we can’t find another group for her to join, I’ll take matters into my own hands. Before I ran into you, I was lucky enough to secure first place in a Task that rewarded me with three additional spaces in my group.”
+[says] (p.57) “But if that’s how things play out, then it’ll be just you and Shinohara scoring all the points.”
+[says:horikita-suzune] (p.57) “At any rate, over these past eight days that I’ve been walking around the island, I’ve really come to realize that a lot more groups have walkie-talkies than I anticipated.”
+[trait] (p.56–58) He shares only what he knows (the slope incident could be incident or accident), keeps the Amasawa surveillance to himself; he notes walkie-talkies are spreading among upper-class groups; he joins her plan to hit the food Task.
+[rel:horikita-suzune] (p.55–59) Reunion; she wins him over to the rescue cause; travel toward a food Task together.
+[rel:shinohara-satsuki] (p.57) Seventh from bottom; expulsion imminent by day’s end; he hopes Sakayanagi’s group merge goes through.
+[rel:sakayanagi-arisu] (p.56–57) The Class 2-A contact summoned Horikita to meet her; the two negotiated the fifth-day rescue proposal; she told her about his strategy.
+
+### y2v4 p.58–59 — Ch.2: The food Task; the day-eight tally
+[scene] (p.58) They divert to a food-for-participation Task with up to fifteen slots — first-years, third-years and second-years converge on it; Horikita and he race there; arrival too late for Early Bird Bonus; they mingle and trade information.
+[says] (p.58) “I’m running low on food, so I think I’d like to drop by this Task. How about you Horikita?”
+[says:horikita-suzune] (p.58) “I don’t have that much food remaining either, so I’ll drop by the Task as well.”
+[says:horikita-suzune] (p.59) “Look who’s talking. If you’ve really run low on food, then you ought to be a bit more pressed yourself.”
+[says] (p.59) “I just don’t have the energy to run anymore.”
+[says:horikita-suzune] (p.59) “And I’m in the same boat.”
+[note] (p.59) The exam holds course: classmates still unaware of Shinohara’s situation; he falls asleep hoping the next designated area leads near the starting area.
+[note] (p.59) His day-eight tally: 4 points from Arrival Bonuses + 14 from four Tasks = 18; overall 96 points, 23rd place; no top-ten changes; Kuronaga’s group still tenth with 111 points.
+[rel:kuronaga] (p.59) Tenth place, 111 points, holding the top-ten barrier.
+
+<!-- walk: y2v4 Ch.2 → p.59 -->
 
 ### y2v4 p.60–66 — Ranking analysis; the top-ten dynamics
-[scene] (p.61) Reviews his standing — 112 points, risen to 13th, 11 behind Kuronaga's 10th-place group (123); notes the danger of showing up in the top ten (it draws attacks) and the effect of the "More People" card.
+[scene] (p.61) Reviews his standing — 112 points, risen to 13th, 11 behind Kuronaga's 10th-place group (123); notes the danger of showing up in the top ten (it draws attacks) and the effect of the “More People” card.
 [inference] (p.61–63) Reasons that top groups must actively impede rivals to protect their position, but doing so costs their own point-earning capacity; expects Nagumo to take countermeasures against Kōenji, but he seems to be simply pouring his energy into scoring points as Kōenji takes first or second.
 [trait] (p.60–66) Deliberately skipped a good Task to protect his ranking; curious about Nagumo's strategy and how many groups use walkie-talkies.
 
 ### y2v4 p.67–78 — Ibuki's dehydration; the water-for-food trade
 [scene] (p.67) Encounters Ibuki eating jerky (Class 2-B's class-wide jerky strategy) — she's alone, exhausted, dark circles, and hasn't had a real conversation since day one (only Horikita).
-[says:ibuki-mio] (p.68) "Just Horikita. You heard me say I wouldn't lose to her, right?"
-[says:ibuki-mio] (p.69) "I don't think of my classmates as 'friends'."
-[says:ibuki-mio] (p.70) "How many points you got right now?"
-[says:ibuki-mio] (p.70) "So you won't tell me."
-[says:ibuki-mio] (p.71) "When you next see that bitch, do me a solid and tell her that I'll absolutely never lose to her."
-[says:ibuki-mio] (p.72) "So? Did Horikita put you up to this? Tryna get in my way?"
-[says] (p.72) "Your pulse is racing."
-[says:ibuki-mio] (p.74) "…A full day… and then some." — out of water
-[says:ibuki-mio] (p.74) "…It did about an hour ago." — first Warning Alert
-[trait] (p.67–78) Diagnoses her dehydration (racing pulse, dry mouth, cracked lips, empty water bottle for a full day+, first Warning Alert already sounded); bluffs a GPS Search to catch her lying about resting; offers a "fair trade" of two 500ml bottles for half her remaining food, and uses Horikita's name as the most effective lever — she accepts; advises her to rest tomorrow, but she refuses (her only goal is beating Horikita).
+[says:ibuki-mio] (p.68) “Just Horikita. You heard me say I wouldn't lose to her, right?”
+[says:ibuki-mio] (p.69) “I don't think of my classmates as 'friends'.”
+[says:ibuki-mio] (p.70) “How many points you got right now?”
+[says:ibuki-mio] (p.70) “So you won't tell me.”
+[says:ibuki-mio] (p.71) “When you next see that bitch, do me a solid and tell her that I'll absolutely never lose to her.”
+[says:ibuki-mio] (p.72) “So? Did Horikita put you up to this? Tryna get in my way?”
+[says] (p.72) “Your pulse is racing.”
+[says:ibuki-mio] (p.74) “…A full day… and then some.” — out of water
+[says:ibuki-mio] (p.74) “…It did about an hour ago.” — first Warning Alert
+[trait] (p.67–78) Diagnoses her dehydration (racing pulse, dry mouth, cracked lips, empty water bottle for a full day+, first Warning Alert already sounded); bluffs a GPS Search to catch her lying about resting; offers a “fair trade” of two 500ml bottles for half her remaining food, and uses Horikita's name as the most effective lever — she accepts; advises her to rest tomorrow, but she refuses (her only goal is beating Horikita).
 [rel:ibuki-mio] (p.67–78) Helps the exhausted, dehydrated Ibuki via a water-for-food trade and warns her to recover — though she misreads his motives as manipulation on Horikita's behalf.
 [rel:horikita-suzune] (p.71–76) Uses her name to motivate Ibuki; notes Horikita looks fresh and well-supplied.
 
 ### y2v4 p.116–120 — Camping with Hiyori's expanded group
 [scene] (p.116) At J10 near sunset, encounters Hiyori's Class 2-B group merged with Ishizaki's (six members: Hiyori, Isoyama, Morofuji, Ishizaki, Nishino, Tsutsube).
-[says:shiina-hiyori] (p.116) "You look better than I thought."
-[says] (p.116) "Everyone has worked very hard."
-[says:shiina-hiyori] (p.118) "I don't think there is anything to worry about, but you have to be careful."
-[says:ishizaki-daichi] (p.118) "Nothing happens. That is one of the good things about you, Ishizaki-kun."
-[trait] (p.116–120) Notices Hiyori doesn't ask his score — "convinced that they will not expel me"; observes the group's warm, balanced atmosphere (Hiyori the "brains," Tsutsube well-integrated) and that Ryūen's class is "starting to change little by little"; accepts their invitation to camp near I9, struck by how comfortable it feels.
+[says:shiina-hiyori] (p.116) “You look better than I thought.”
+[says] (p.116) “Everyone has worked very hard.”
+[says:shiina-hiyori] (p.118) “I don't think there is anything to worry about, but you have to be careful.”
+[says:ishizaki-daichi] (p.118) “Nothing happens. That is one of the good things about you, Ishizaki-kun.”
+[trait] (p.116–120) Notices Hiyori doesn't ask his score — “convinced that they will not expel me”; observes the group's warm, balanced atmosphere (Hiyori the “brains,” Tsutsube well-integrated) and that Ryūen's class is “starting to change little by little”; accepts their invitation to camp near I9, struck by how comfortable it feels.
 [rel:shiina-hiyori] (p.116–118) Sits with her watching the sea; she trusts he won't be expelled and warns him to be careful.
 [rel:ishizaki-daichi] (p.118–120) He happily invites Ayanokōji to camp with them; the others readily agree.
-[note] (p.116) The Class 2-C girl is Hitomi Tsutsube ("Tsutsube"); she has integrated well into Ishizaki's group.
+[note] (p.116) The Class 2-C girl is Hitomi Tsutsube (“Tsutsube”); she has integrated well into Ishizaki's group.
 
 ### y2v4 p.120–122 — Nanase's midnight warning: the first-years' day-12 play
 [scene] (p.120) At 2:30 a.m., Nanase slips to his tent, terrified — she was in I9 and avoided contact because she was with Hōsen's group.
-[says:nanase-tsubasa] (p.120) "It's me, Nanase."
-[says] (p.120) "There is something I need to tell you as soon as possible."
-[says] (p.120) "Housen-kun told me that on the twelfth day, the first years will make a great play on Ayanokouji-senpai."
-[says] (p.121) "I don't know, but Tsubaki was the main person I spoke to on the walkie-talkie."
-[says] (p.122) "that's enough for this uninhabited island exam."
+[says:nanase-tsubasa] (p.120) “It's me, Nanase.”
+[says] (p.120) “There is something I need to tell you as soon as possible.”
+[says] (p.120) “Housen-kun told me that on the twelfth day, the first years will make a great play on Ayanokouji-senpai.”
+[says] (p.121) “I don't know, but Tsubaki was the main person I spoke to on the walkie-talkie.”
+[says] (p.122) “that's enough for this uninhabited island exam.”
 [inference] (p.120–122) Learns the first-years plan to force his withdrawal at the exam's end (day 12), targeting solo seniors; Hōsen was contacted via walkie-talkie by an errand boy and only pretending to cooperate, hasn't received details; suspects Tsubaki as intermediary (with Yagami/Takahashi possibly pulling strings); tells Nanase to stop helping him so she won't be exposed.
 [rel:nanase-tsubasa] (p.120–122) She risks coming at night to warn him about the day-12 plot; he sends her away for her own safety.
 [rel:housen-kazuomi] (p.120–121) Only feigning cooperation with the first-years' plot; received a walkie-talkie.
 
 ### y2v4 p.151–164 — Day 12: evading the first-year siege
 [scene] (p.151) On the twelfth day, uses GPS searches to see the first-years (Utomiya, Tsubaki, Yagami) converging; recognizes from Nanase's warning that today is the trap, with many Class 1-D groups around D4/E6.
-[says] (p.152) "How are you Tsubaki-san?" — narration of Tsubaki's side
-[says] (p.160) "Takuya Yagami-kun? Riku Utomiya-kun? and Sakurako Tsubaki-san? I wonder who" — narration
+[says] (p.152) “How are you Tsubaki-san?” — narration of Tsubaki's side
+[says] (p.160) “Takuya Yagami-kun? Riku Utomiya-kun? and Sakurako Tsubaki-san? I wonder who” — narration
 [inference] (p.151–164) Deliberately swerves to avoid head-on collision, using GPS to stay ahead; realizes the enemy is trying to herd him, but he has the advantage of knowing their plan (via Nanase); arranges second-year groups (Ryūen's) to block the first-year hunters; orchestrates a counter-commander role that leaves Tsubaki's groups baffled.
 [trait] (p.151–164) Calm and anticipatory — turns Nanase's leaked warning into a prepared defense, staying one step ahead of Tsubaki's GPS trap and using the terrain and other students as pieces.
 [rel:nanase-tsubasa] (p.151) Her midnight warning let him prepare for the day-12 trap.
@@ -8542,62 +8650,62 @@ walk: y1v1 → DONE
 [rel:tsukishiro] (p.162) Nanase was one of his sent assassins.
 
 ### y2v4 p.183–185 — Aftermath: Ryūen and Hōsen retire together
-[scene] (p.183) Watches as Ryūen, badly injured, decides to retire together with the unconscious Hōsen — the "only and most beautiful way" to stop him from returning to hunt Ayanokōji.
-[says] (p.183) "I'm going to retire together with Housen"
+[scene] (p.183) Watches as Ryūen, badly injured, decides to retire together with the unconscious Hōsen — the “only and most beautiful way” to stop him from returning to hunt Ayanokōji.
+[says] (p.183) “I'm going to retire together with Housen”
 [trait] (p.183–185) Understands Ryūen's sacrifice (retiring to ensure Hōsen can't come after him again); Tsubaki's plot collapses — Hōsen stopped, her first-year groups neutralized — and she realizes her plan was doomed from early on.
 [rel:ryuuen-kakeru] (p.183) Ryūen retires with Hōsen to protect Ayanokōji's exam standing.
 [rel:housen-kazuomi] (p.183) Neutralized — stops hunting Ayanokōji.
 
 ### y2v4 p.191–201 — Last day: Ichinose's four-hour walk; her confession
 [scene] (p.191) On the final day, reels from six consecutive missed areas (four penalties); Sakayanagi warns via walkie-talkie that Ichinose has disappeared and was seen using GPS near E3/D3.
-[says:sakayanagi-arisu] (p.192) "Good morning, Ayanokouji-kun. You had a lot of problems yesterday."
-[says] (p.192) "Actually, I'm in trouble. At dawn, Ichinose-san disappeared."
-[says:ichinose-honami] (p.195) "I, I came here because I wanted to see you, Ayanokouji-kun."
-[says:ichinose-honami] (p.196) "I have something I have to tell you, no matter what, Ayanokouji-kun!"
-[says:ichinose-honami] (p.197) "I, my watch broke, so I wanted to go back to the starting point to change it… And then, Acting Director Tsukishiro, and Shiba-sensei, those two, they were there…!"
-[says:ichinose-honami] (p.197) "If you're safe in the last day, Ayanokouji-kun, you'll be called to I2 and be buried."
-[says:ichinose-honami] (p.198) "Because I, because I like you, Ayanokouji-kun…!"
-[says] (p.199) "–Thank you, Ichinose."
-[says] (p.200) "I think that there's still a few things that has to be addressed, and I don't think someone can answer yes or no in this state."
-[trait] (p.191–201) Deeply moved that Ichinose walked 4+ hours, exhausted and covered in mud, risking her classmates' expulsion to warn him of Tsukishiro's I2 trap; accepts her confession graciously but can't reciprocate now (hides Kei), deciding the exam climax isn't the place; realizes Tsukishiro's move against him and resolves to go to I2 ("coming back from the dead").
-[rel:ichinose-honami] (p.191–201) She confesses her love and warns him of the trap — a "watershed moment" for him.
-[rel:tsukishiro] (p.197–201) Learned of his I2 "burial" plot via Ichinose.
+[says:sakayanagi-arisu] (p.192) “Good morning, Ayanokouji-kun. You had a lot of problems yesterday.”
+[says] (p.192) “Actually, I'm in trouble. At dawn, Ichinose-san disappeared.”
+[says:ichinose-honami] (p.195) “I, I came here because I wanted to see you, Ayanokouji-kun.”
+[says:ichinose-honami] (p.196) “I have something I have to tell you, no matter what, Ayanokouji-kun!”
+[says:ichinose-honami] (p.197) “I, my watch broke, so I wanted to go back to the starting point to change it… And then, Acting Director Tsukishiro, and Shiba-sensei, those two, they were there…!”
+[says:ichinose-honami] (p.197) “If you're safe in the last day, Ayanokouji-kun, you'll be called to I2 and be buried.”
+[says:ichinose-honami] (p.198) “Because I, because I like you, Ayanokouji-kun…!”
+[says] (p.199) “–Thank you, Ichinose.”
+[says] (p.200) “I think that there's still a few things that has to be addressed, and I don't think someone can answer yes or no in this state.”
+[trait] (p.191–201) Deeply moved that Ichinose walked 4+ hours, exhausted and covered in mud, risking her classmates' expulsion to warn him of Tsukishiro's I2 trap; accepts her confession graciously but can't reciprocate now (hides Kei), deciding the exam climax isn't the place; realizes Tsukishiro's move against him and resolves to go to I2 (“coming back from the dead”).
+[rel:ichinose-honami] (p.191–201) She confesses her love and warns him of the trap — a “watershed moment” for him.
+[rel:tsukishiro] (p.197–201) Learned of his I2 trap via Ichinose.
 [rel:sakayanagi-arisu] (p.192–193) Warns him about Ichinose; he asks her to relay word if seen.
 
 ### y2v4 p.202–251 — Nagumo's private talk; Kiryūin/Amasawa
 [scene] (p.202) At I2 approach, meets Nagumo alone (he claims to have been enjoying the beach at I4); they spar verbally about why he's there and Ichinose.
-[says:nagumo-miyabi] (p.202) "Ayanokouji, what a coincidence."
-[says] (p.202) "President Nagumo, why are you here?"
-[says:nagumo-miyabi] (p.203) "I was having fun on the beach at I4."
-[says:nagumo-miyabi] (p.230) "The more you try to stop me, the more I must go to I2."
+[says:nagumo-miyabi] (p.202) “Ayanokouji, what a coincidence.”
+[says] (p.202) “President Nagumo, why are you here?”
+[says:nagumo-miyabi] (p.203) “I was having fun on the beach at I4.”
+[says:nagumo-miyabi] (p.230) “The more you try to stop me, the more I must go to I2.”
 [note] (p.230–251) Amasawa appears and, with Nagumo, tries to discourage him from I2; he reads that they genuinely don't want him to go — confirming he must. Nagumo's true role and Amasawa's disobedience tie into Tsukishiro's plot.
 [rel:nagumo-miyabi] (p.202–230) He tries to dissuade him from I2 — which only confirms Ayanokōji's resolve.
 [rel:amasawa-ichika] (p.251) She joins the attempt to stop him.
 
 ### y2v4 p.252–272 — The showdown at I2: Ayanokōji vs Tsukishiro and Shiba
-[scene] (p.252) At I2's tip, finds Tsukishiro (in a sweater) and Shiba waiting — Tsukishiro's final trap to "bury" him, with no watch signal there.
-[says] (p.252) "You have decided to take a very strong approach, Acting Director Tsukishiro."
-[says:tsukishiro] (p.256) "You wouldn't call it unfair a two against one, right?"
-[says:tsukishiro] (p.260) "I would have killed you now, but your reaction time is not normal."
-[says] (p.260) "...... You are still a complicated person, Acting Director Tsukishiro."
-[says:tsukishiro] (p.261) "It would have been easier if it was like a children's fight."
-[says] (p.265) "Let's solve this, Acting Director."
-[says:tsukishiro] (p.267) "You are an undeniable masterpiece."
-[says] (p.268) "How did you know?" — Tsukishiro, on the hidden stun gun
-[says] (p.271) "Did you really try to expel me?"
-[trait] (p.252–272) Fights the two adults (Tsukishiro and Shiba, both far stronger than their stated combat ratings — Tsukishiro's "4" was disinformation), nearly overwhelmed in a 2-on-1 with Kiryūin's help (she holds Shiba); analyzes their timing, deduces Tsukishiro's hidden stun gun from a glance at his feet, and beats him — targeting the nose to induce tears, then an uppercut. Tsukishiro's last trump (a boat) is neutralized because Ayanokōji had secretly called Mashima and Chabashira via Sakayanagi's walkie-talkie (reporting a Class A and D student in danger, forcing their teachers to respond).
+[scene] (p.252) At I2's tip, finds Tsukishiro (in a sweater) and Shiba waiting — Tsukishiro's final trap to “bury” him, with no watch signal there.
+[says] (p.252) “You have decided to take a very strong approach, Acting Director Tsukishiro.”
+[says:tsukishiro] (p.256) “You wouldn't call it unfair a two against one, right?”
+[says:tsukishiro] (p.260) “I would have killed you now, but your reaction time is not normal.”
+[says] (p.260) “...... You are still a complicated person, Acting Director Tsukishiro.”
+[says:tsukishiro] (p.261) “It would have been easier if it was like a children's fight.”
+[says] (p.265) “Let's solve this, Acting Director.”
+[says:tsukishiro] (p.267) “You are an undeniable masterpiece.”
+[says] (p.268) “How did you know?” — Tsukishiro, on the hidden stun gun
+[says] (p.271) “Did you really try to expel me?”
+[trait] (p.252–272) Fights the two adults (Tsukishiro and Shiba, both far stronger than their stated combat ratings — Tsukishiro's “4” was disinformation), nearly overwhelmed in a 2-on-1 with Kiryūin's help (she holds Shiba); analyzes their timing, deduces Tsukishiro's hidden stun gun from a glance at his feet, and beats him — targeting the nose to induce tears, then an uppercut. Tsukishiro's last trump (a boat) is neutralized because Ayanokōji had secretly called Mashima and Chabashira via Sakayanagi's walkie-talkie (reporting a Class A and D student in danger, forcing their teachers to respond).
 [rel:tsukishiro] (p.252–272) Defeats him in a one-on-one after seeing through his tricks; Tsukishiro admits defeat but hints he hasn't shown everything, and delivers a message disqualifying Amasawa from the White Room.
 [rel:shiba-katsunori] (p.256–270) Fights him alongside Tsukishiro; held off by Kiryūin.
-[rel:kiryuin-fuuka] (p.261–272) She appears (watch deliberately broken) and helps hold Shiba — "protect my kouhai"; Ayanokōji praises her.
+[rel:kiryuin-fuuka] (p.261–272) She appears (watch deliberately broken) and helps hold Shiba — “protect my kouhai”; Ayanokōji praises her.
 [rel:sakayanagi-arisu] (p.269) Lent him the walkie-talkie that saved him.
 [rel:amasawa-ichika] (p.272) Tsukishiro's message disqualifies her for disobeying orders — free to stay or leave; Ayanokōji doubts the White Room matter is over.
 
 ### y2v4 p.276–278 — After the exam: Sakayanagi's promise with Ryūen
 [scene] (p.276) Back on the ship after two weeks; learns the bottom five groups were notified in advance (so they can pay to avoid expulsion); on deck sees Ryūen (face covered in scars from Hōsen) and Sakayanagi talking.
-[says:ryuuen-kakeru] (p.276) "I'm sorry to interrupt you, but don't forget the promise you made to me, okay? And some money."
-[says:sakayanagi-arisu] (p.277) "Of course, Ryuuen-kun. Please tell me when the time comes."
-[says] (p.276) "Promise?"
-[inference] (p.277) Learns Sakayanagi promised Ryūen a favor if he asked — which is why he confronted Hōsen; the wish is "like strangling yourself in the near future" (a dangerous promise); realizes this explains Ryūen's cooperation.
+[says:ryuuen-kakeru] (p.276) “I'm sorry to interrupt you, but don't forget the promise you made to me, okay? And some money.”
+[says:sakayanagi-arisu] (p.277) “Of course, Ryuuen-kun. Please tell me when the time comes.”
+[says] (p.276) “Promise?”
+[inference] (p.277) Learns Sakayanagi promised Ryūen a favor if he asked — which is why he confronted Hōsen; the wish is “like strangling yourself in the near future” (a dangerous promise); realizes this explains Ryūen's cooperation.
 [rel:sakayanagi-arisu] (p.277–278) She explains the promise to Ryūen and thanks Ayanokōji for the GPS-timing help; looks forward to a future rematch.
 [rel:ryuuen-kakeru] (p.276–277) Collected on his promise from Sakayanagi; both he and Hōsen were removed for treatment.
 
@@ -8611,7 +8719,7 @@ walk: y1v1 → DONE
 [rel:nagumo-miyabi] (p.281–282) Takes 2nd; his failure to answer his partner's walkie-talkie may have cost him 1st.
 
 ### y2v4 p.282 — Closing: Amasawa's side, lingering mysteries
-[trait] (p.282) No second-year was expelled — a "miraculous" summer survived; confirms Amasawa Ichika is a White Room student who now seems to be on his side (not Tsukishiro's), though whether coordinated or betrayal is unknown; notes unresolved mysteries and that the summer may not end quietly.
+[trait] (p.282) No second-year was expelled — a “miraculous” summer survived; confirms Amasawa Ichika is a White Room student who now seems to be on his side (not Tsukishiro's), though whether coordinated or betrayal is unknown; notes unresolved mysteries and that the summer may not end quietly.
 [rel:amasawa-ichika] (p.282) Revealed as a White Room student, apparently now his ally.
 [rel:tsukishiro] (p.282) His opponent — the White Room threat isn't over.
 ## y2v4.5

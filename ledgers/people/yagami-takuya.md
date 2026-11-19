@@ -142,50 +142,51 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 
 
 
+## y2v4.5
+
 <!-- walk: y2v4.5 → start -->
 
 ### y2v4.5 p.193–196 — Yagami takes the reward desk
 [scene] (p.193–195) Yagami-kun approaches with the shift-change request; tells Horikita to take a break and let him handle the reward confirmations; he's the next in line after her.
 [says] (p.194) “That won't do. I have my own job that I've been given. I can't call myself a member of the student council if I leave it to you, Horikita-senpai.”
 [says] (p.195) “Well then, I'll see you later, Kushida-senpai.”
-[note] (p.195) In this volume, Yagami is a first-year student council member; Horikita rates him "a reliable underclassman in the sense that I could trust him" — the best candidate in his cohort for future president; he works well despite being young.
+[note] (p.195) In this volume, Yagami is a first-year student council member; Horikita rates him “a reliable underclassman in the sense that I could trust him” — the best candidate in his cohort for future president; he works well despite being young.
 [rel:horikita-suzune] (p.193–195) Peer; holds him as the standout of his year on the council.
-[rel:kushida-kikyou] (p.193–196) Walks with him to the desk; she's assigned there with him (he's close to her; the "more than friends, less than lovers" vibe).
+[rel:kushida-kikyou] (p.193–196) Walks with him to the desk; she's assigned there with him (he's close to her; the “more than friends, less than lovers” vibe).
 
 <!-- walk: y2v4.5 ch5 → p.216 -->
 
 
 
 ### y2v4.5 p.197–201, 255–257 — Mentions: the Kushida pocket
-[mentioned] (p.197) "Why do you think I'm so close to Yagami-kun?"
-[mentioned] (p.198) "the best way to get rid of someone who's in your way is to get into their pocket."
-[mentioned] (p.200) "What about Yagami-kun? Even if I drop out, there will still be people that know about you."
-[mentioned] (p.201) "In the meantime, I'll just have to think up another way to get rid of Ayanokōji-kun, and then it's all over. And as for Yagami-kun, I think he'll be okay even if I don't do anything. He's a serious guy who just likes me."
-[mentioned] (p.255) "Yagami would keep talking forever, even when he was left alone."
-[mentioned] (p.256) "a grin with his teeth showing awkwardly" — unlike his usual refreshing one.
-[mentioned] (p.257) "Yagami opened the door to the guest cabin and sent Amasawa off like a gentleman."
+[mentioned] (p.197) “Why do you think I'm so close to Yagami-kun?”
+[mentioned] (p.198) “the best way to get rid of someone who's in your way is to get into their pocket.”
+[mentioned] (p.200) “What about Yagami-kun? Even if I drop out, there will still be people that know about you.”
+[mentioned] (p.201) “In the meantime, I'll just have to think up another way to get rid of Ayanokōji-kun, and then it's all over. And as for Yagami-kun, I think he'll be okay even if I don't do anything. He's a serious guy who just likes me.”
+[mentioned] (p.255) “Yagami would keep talking forever, even when he was left alone.”
+[mentioned] (p.256) “a grin with his teeth showing awkwardly” — unlike his usual refreshing one.
+[mentioned] (p.257) “Yagami opened the door to the guest cabin and sent Amasawa off like a gentleman.”
 
 
 
 ### y2v4.5 p.251–254 — Yagami summons Amasawa: her real intentions
-[scene] (p.251) In a guest cabin, Amasawa (now a "civilian" after Tsukishiro's disqualification) meets Yagami, who has calculated that their roommates won't return; she warns he'd normally question the timing.
-[says] (p.251) "What are you going to say if one of your roommates comes back at this time?"
-[says] (p.251) "Then let me in on the details of this plan of yours…Takuya."
-[says] (p.252) "You never learn, do you, Ichika?"
-[says] (p.252) "Certainly, you're no longer a person on the side the White Room. That's why, to me, you are an enemy."
-[says] (p.252) "I wouldn't raise my hand in a place like this."
-[says] (p.252) "I called you out here because I wanted to find out your real intentions."
-[says] (p.252) "Why did you interfere with Kushida and Kurachi, who I sent after Ayanokōji during the uninhabited island exam?"
-[says] (p.252) "I have no idea what you're talking about, nya~"
-[says] (p.253) "It's because it's a painful strategy for Ayanokōji-senpai."
-[trait] (p.251–254) Calm and calculating — he's orchestrated a "plan" and isn't fooled by her playful evasion; admits he'd hoped a recording of Ayanokōji fighting Nanase/Kurachi would be leverage, admires that Ayanokōji declined to use GPS because he saw through the trap, and notes Nanase/Ryūen are chasing the wrong lead (Utomiya) while Horikita is close to identifying Amasawa's handwriting.
-[rel:amasawa-ichika] (p.251–254) Calls her "Ichika," calls her an enemy now she's left the White Room, and questions her interference; they know each other intimately from the White Room.
-[rel:ayanokouji-kiyotaka] (p.252–253) His target with a "painful strategy"; admires his ability to read situations.
+[scene] (p.251) In a guest cabin, Amasawa (now a “civilian” after Tsukishiro's disqualification) meets Yagami, who has calculated that their roommates won't return; she warns he'd normally question the timing.
+[says] (p.251) “What are you going to say if one of your roommates comes back at this time?”
+[says] (p.251) “Then let me in on the details of this plan of yours…Takuya.”
+[says] (p.252) “You never learn, do you, Ichika?”
+[says] (p.252) “Certainly, you're no longer a person on the side the White Room. That's why, to me, you are an enemy.”
+[says] (p.252) “I wouldn't raise my hand in a place like this.”
+[says] (p.252) “I called you out here because I wanted to find out your real intentions.”
+[says] (p.252) “Why did you interfere with Kushida and Kurachi, who I sent after Ayanokōji during the uninhabited island exam?”
+[says] (p.252) “I have no idea what you're talking about, nya~”
+[says] (p.253) “It's because it's a painful strategy for Ayanokōji-senpai.”
+[trait] (p.251–254) Calm and calculating — he's orchestrated a “plan” and isn't fooled by her playful evasion; admits he'd hoped a recording of Ayanokōji fighting Nanase/Kurachi would be leverage, admires that Ayanokōji declined to use GPS because he saw through the trap, and notes Nanase/Ryūen are chasing the wrong lead (Utomiya) while Horikita is close to identifying Amasawa's handwriting.
+[rel:amasawa-ichika] (p.251–254) Calls her “Ichika,” calls her an enemy now she's left the White Room, and questions her interference; they know each other intimately from the White Room.
+[rel:ayanokouji-kiyotaka] (p.252–253) His target with a “painful strategy”; admires his ability to read situations.
 [rel:kushida-kikyou] (p.252) Sent her after Ayanokōji on the island with a camera; Amasawa stopped her.
 [rel:kurachi] (p.252) Sent him to attack Ayanokōji; Amasawa interfered.
 
 <!-- walk: y2v4.5 ch6 → p.267 -->
-
 ## y2v5
 
 <!-- walk: y2v5 → start -->

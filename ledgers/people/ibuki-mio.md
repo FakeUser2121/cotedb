@@ -1013,22 +1013,22 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 ### y2v4 p.67–78 — Ibuki alone and dehydrated; trades with Ayanokōji
 [scene] (p.67) Encountered alone, eating homemade jerky (Class 2-B's jerky strategy) — exhausted, dark circles, out of water for over a day.
-[says] (p.67) "What's it matter to you? It's none of your business."
-[says] (p.68) "Just Horikita. You heard me say I wouldn't lose to her, right?"
-[says] (p.68) "Ain't no way I'm gonna talk with my enemies."
-[says] (p.68) "I don't think of my classmates as 'friends'."
-[says] (p.70) "How many points you got right now?"
-[says] (p.71) "When you next see that bitch, do me a solid and tell her that I'll absolutely never lose to her."
-[says] (p.72) "Haaa? You tryna pull somethin'?"
-[says] (p.72) "I'll admit I can't beat you, sure, but one of these days, I swear I'm gonna get the satisfaction of kickin' your teeth in."
-[says] (p.74) "…A full day… and then some."
-[says] (p.75) "I'll handle it tomorrow, and if push comes to shove I'll even go back to the starting area, so drop it and leave me alone."
-[says] (p.77) "I'm not gonna thank you if that's what you're after."
-[says] (p.77) "So you're sayin' for me to give up on scoring points? You've gotta be kidding me."
-[says] (p.77) "I'm not puttin' in all this work 'cause I don't wanna get expelled. My only goal here is beating Horikita."
+[says] (p.67) “What's it matter to you? It's none of your business.”
+[says] (p.68) “Just Horikita. You heard me say I wouldn't lose to her, right?”
+[says] (p.68) “Ain't no way I'm gonna talk with my enemies.”
+[says] (p.68) “I don't think of my classmates as 'friends'.”
+[says] (p.70) “How many points you got right now?”
+[says] (p.71) “When you next see that bitch, do me a solid and tell her that I'll absolutely never lose to her.”
+[says] (p.72) “Haaa? You tryna pull somethin'?”
+[says] (p.72) “I'll admit I can't beat you, sure, but one of these days, I swear I'm gonna get the satisfaction of kickin' your teeth in.”
+[says] (p.74) “…A full day… and then some.”
+[says] (p.75) “I'll handle it tomorrow, and if push comes to shove I'll even go back to the starting area, so drop it and leave me alone.”
+[says] (p.77) “I'm not gonna thank you if that's what you're after.”
+[says] (p.77) “So you're sayin' for me to give up on scoring points? You've gotta be kidding me.”
+[says] (p.77) “I'm not puttin' in all this work 'cause I don't wanna get expelled. My only goal here is beating Horikita.”
 [trait] (p.67–78) Stubborn, isolated and pushing past her limits — refuses to admit dehydration or rest, suspicious of Ayanokōji (thinks Horikita put him up to it), but ultimately trades half her food for water; driven solely by her obsession with beating Horikita, she rejects his advice to rest; her guardedness and irrationality are slowly destroying her.
 [rel:ayanokouji-kiyotaka] (p.67–78) Deeply suspicious of him, but accepts the water-for-food trade; misreads his concern as manipulation.
-[rel:horikita-suzune] (p.68–77) Her obsession and sole goal — to beat Horikita, whom she calls a "bitch."
+[rel:horikita-suzune] (p.68–77) Her obsession and sole goal — to beat Horikita, whom she calls a “bitch.”
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

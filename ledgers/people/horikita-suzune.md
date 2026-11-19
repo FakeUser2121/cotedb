@@ -4308,19 +4308,43 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 p.55–59 — Horikita rejoins Ayanokōji; the Shinohara rescue plan
-[scene] (p.55) Reunites with Ayanokōji in F7 on day eight; heading to G8, she travels with him.
-[says] (p.56) "I'm heading to G8. I ended up passing through here on the way."
-[says] (p.56) "Is it really so hard for you to believe that I'm still in such good shape?"
-[says] (p.57) "I had no reason to do that; I had to prevent Shinohara-san from getting kicked out of school."
-[says] (p.57) "Shinohara-san's group ranking has been dropping lower and lower every day."
-[says] (p.57) "If worse comes to worst and we can't find another group for her to join, I'll take matters into my own hands."
-[says] (p.57) "I was lucky enough to secure first place in a Task that rewarded me with three additional spaces in my group."
-[says] (p.59) "Look who's talking. If you've really run low on food, then you ought to be a bit more pressed yourself."
-[trait] (p.55–59) In good shape (never in bottom ten), having won a Task granting three extra group slots; learned of the cliff incident from Sakayanagi and agreed to cooperate to save Shinohara; notes the spread of walkie-talkies among upper-year students and agrees to head to a food Task with him.
-[rel:ayanokouji-kiyotaka] (p.55–59) Reunites and coordinates the rescue; travel together.
-[rel:sakayanagi-arisu] (p.56) Was urged to meet her near the starting area and told of the retirements and Ayanokōji's plan.
-[rel:shinohara-satsuki] (p.57) Seven from bottom; she fights to prevent her expulsion.
+### y2v4 p.19 — Horikita mentioned in passing
+[mentioned] (p.19) “Although I could talk to people like Horikita and Ike, it had always felt like there was some sort of distance between us.”
+
+<!-- walk: y2v4 Ch.1 → p.50 -->
+
+### y2v4 p.55–56 — Ch.2: Horikita rejoins him at F7
+[scene] (p.55) She crosses paths with him at F7 — day eight, the first reunion since day one; she looks a little surprised but unusually fresh; she’s heading to G8, he’s to F8; they walk together.
+[says] (p.55) “Ayanokōji-kun?”
+[says:ayanokouji-kiyotaka] (p.55) “That it has.”
+[says] (p.56) “I’m heading to G8. I ended up passing through here on the way. What about yourself?”
+[says] (p.56) “Is it really so hard for you to believe that I’m still in such good shape?”
+[says] (p.56) “Yes. To be exact, I heard about it today. In light of that, I’m glad that I ran into you.”
+[says] (p.56) “Hmm. Did something unusual happen?”
+[note] (p.56) Somebody from Class 2-A reached out to her near the starting area earlier today and urged her to meet with Sakayanagi; Sakayanagi told her of the retirements of Komiya and Kinoshita and proposed a plan; the two began to negotiate.
+[trait] (p.55–56) Never in the bottom ten once during the exam — she moves with a strange calm; her interest in the cliff incident is sudden and purposeful; Sakayanagi’s contact reached her.
+[rel:sakayanagi-arisu] (p.56) Summoned to meet her near the starting area; negotiated terms with her over the Shinohara rescue.
+
+### y2v4 p.57 — Ch.2: The rescue, coordinated
+[scene] (p.57) Walking with him, she relays the rescue plan and her own stake — a Task first place that rewarded three extra group slots; Shinohara seventh from the bottom and falling toward expulsion by day’s end.
+[says] (p.57) “I had no reason to do that; I had to prevent Shinohara-san from getting kicked out of school. I heard that you were one of the first on the scene at the time, do you know the details of what happened?”
+[says] (p.57) “Shinohara-san’s group ranking has been dropping lower and lower every day. Currently, she’s placed seventh from the bottom. At this rate, it seems she’ll fall far enough to qualify for expulsion by the end of the day today, so we have to hurry. If worse comes to worst and we can’t find another group for her to join, I’ll take matters into my own hands. Before I ran into you, I was lucky enough to secure first place in a Task that rewarded me with three additional spaces in my group.”
+[says] (p.57) “At any rate, over these past eight days that I’ve been walking around the island, I’ve really come to realize that a lot more groups have walkie-talkies than I anticipated. I’ve seen students making use of them all over the place, Sakayanagi-san telling her fellow classmates about what happened to Shinohara-san is only one such example.”
+[says] (p.58) “If we trusted one another a little more, I wonder… if we could’ve done that as well…?”
+[says] (p.58) “That’s true enough.”
+[trait] (p.57–58) Honest with him about her stake (Shinohara) and her prize (three extra slots); she notes the spread of walkie-talkies, especially among upper-year groups; she concedes that inter-class trust could have enabled the same among them.
+[rel:shinohara-satsuki] (p.57) Seventh from bottom; fighting to prevent her expulsion today.
+[rel:ayanokouji-kiyotaka] (p.55–59) Travels together; coordinates the rescue; both divert to the food Task.
+
+### y2v4 p.58–59 — Ch.2: The food Task together
+[scene] (p.58) Both nearly out of food; they change course to a participatory food Task with fifteen slots; the site swarms with first-, second- and third-year groups; they arrive too late for Early Bird Bonuses and spend the last minutes trading information.
+[says] (p.58) “I don’t have that much food remaining either, so I’ll drop by the Task as well.”
+[says] (p.59) “Look who’s talking. If you’ve really run low on food, then you ought to be a bit more pressed yourself.”
+[says] (p.59) “And I’m in the same boat.”
+[trait] (p.58–59) No Early Bird Bonuses today — with food at zero they chose the Task together; her stamina is as managed as his; she accepts the late arrival without complaint.
+
+<!-- walk: y2v4 Ch.2 → p.59 -->
+
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

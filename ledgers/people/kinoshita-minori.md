@@ -99,18 +99,20 @@ char_id: kinoshita-minori · class: Class 1-C (enrolled April 2015) · status: m
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 p.10–23 — Kinoshita mentioned in passing
-[scene] (p.10) Named in the context of the exam.
-[scene] (p.13–14) Named in the context of the exam.
-[scene] (p.21) Named in the context of the exam.
-[scene] (p.23) Named in the context of the exam.
-[note] (p.10–23) Passing mentions; not a distinct scene presence.
-[mentioned] (p.10–23) Passing mention only.
+### y2v4 p.56–57 — Kinoshita mentioned in passing
+[mentioned] (p.56) “whereupon she was informed of Komiya and Kinoshita’s retirement.” — narrated; Sakayanagi told Horikita.
 
-<!-- walk: y2v4 Ch.1 → p.23 -->
+<!-- walk: y2v4 Ch.2 → p.59 -->
 
+### y2v4 p.10–14, 21–32 — Kinoshita mentioned in passing
+[mentioned] (p.10) “Back when Shinohara-senpai’s group was attacked and Komiya-senpai and Kinoshita-senpai retired from the exam, do you remember how you left to climb the slope with Ike-senpai?” — Amasawa to Ayanokōji.
+[mentioned] (p.11) “You also hurt Komiya-senpai and Kinoshita-senpai, didn’t you?” — Nanase accuses Amasawa.
+[mentioned] (p.13) “Since Shinohara herself had testified that they had been attacked by someone, the school would definitely investigate the case in detail.”
+[mentioned] (p.14) “What’s more, Komiya and Kinoshita didn’t even testify that they had been attacked in the first place, and Shinohara herself had only been able to make a vague statement, unable to say who it was she saw.”
+[mentioned] (p.21) “Back when Komiya and Kinoshita were attacked, I found some footprints nearby the scene of the crime. From what I can tell, I’m fairly confident that they’re the same size as Amasawa’s.”
+[mentioned] (p.32) “From what we knew: someone had pushed Komiya and Kinoshita down the slope. And, judging from the fact that there were no other GPS signals in the area at the time, it was clear that it had been a premeditated attack, rather than something done in the heat of the moment.”
 
-
+<!-- walk: y2v4 Ch.1 → p.50 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->

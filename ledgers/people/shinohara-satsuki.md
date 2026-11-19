@@ -361,6 +361,16 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y2v4 → start -->
 
+### y2v4 p.10–14, 55–59 — Shinohara mentioned in passing
+[mentioned] (p.10) “Back when Shinohara-senpai’s group was attacked and Komiya-senpai and Kinoshita-senpai retired from the exam, do you remember how you left to climb the slope with Ike-senpai?” — Amasawa to Ayanokōji.
+[mentioned] (p.13) “Since Shinohara herself had testified that they had been attacked by someone, the school would definitely investigate the case in detail.”
+[mentioned] (p.14) “What’s more, Komiya and Kinoshita didn’t even testify that they had been attacked in the first place, and Shinohara herself had only been able to make a vague statement, unable to say who it was she saw.”
+[mentioned] (p.56) “Unusual? Ah… now that you mention it, have you heard about what happened with Shinohara?” — Horikita to Ayanokōji.
+[mentioned] (p.57) “I had no reason to do that; I had to prevent Shinohara-san from getting kicked out of school.” — Horikita to Ayanokōji.
+[mentioned] (p.57) “Shinohara-san’s group ranking has been dropping lower and lower every day. Currently, she’s placed seventh from the bottom.” — Horikita.
+
+<!-- walk: y2v4 Ch.2 → p.59 -->
+
 ### y2v4 p.10–59 — Shinohara mentioned in passing
 [scene] (p.10) Named in the context of the exam.
 [scene] (p.13–14) Named in the context of the exam.
@@ -370,7 +380,6 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 [mentioned] (p.10–59) Passing mention only.
 
 <!-- walk: y2v4 Ch.3 → p.59 -->
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

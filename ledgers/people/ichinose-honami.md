@@ -1778,17 +1778,17 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 ### y2v4 p.195–201 — Ichinose's confession at H3
 [scene] (p.195) Covered in mud and exhausted, walks 4+ hours to H3 to find Ayanokōji, having been threatened by Tsukishiro/Shiba after her watch broke.
-[says] (p.195) "Ayanokouji-kun———!"
-[says] (p.195) "I, I came here because I wanted to see you, Ayanokouji-kun."
-[says] (p.196) "I, I have something I have to tell you, no matter what, Ayanokouji-kun!"
-[says] (p.196) "I've been troubled, troubled. I've always been troubled… to protect my friends and classmates…"
-[says] (p.197) "If you're safe in the last day, Ayanokouji-kun, you'll be called to I2 and be buried."
-[says] (p.198) "If I told this to you… Acting Director Tsukishiro would make my classmates drop out… But I can't turn my back on you no matter what."
-[says] (p.198) "Because I, because I like you, Ayanokouji-kun…!"
-[says] (p.198) "No, that's not right! That, eh, just now, why did I, eh, ehhhhhhhh!?"
-[says] (p.200) "…That…. misunderstanding… it's not a misunderstanding…"
-[says] (p.200) "…I like… you…"
-[trait] (p.195–201) Desperate and selfless — prioritizes Ayanokōji's safety over her classmates despite Tsukishiro's threat, blurts out "I like you" in exhaustion (then panics, as if the words escaped her), and admits it was no misunderstanding; accepts his gentle refusal without disdain.
+[says] (p.195) “Ayanokouji-kun———!”
+[says] (p.195) “I, I came here because I wanted to see you, Ayanokouji-kun.”
+[says] (p.196) “I, I have something I have to tell you, no matter what, Ayanokouji-kun!”
+[says] (p.196) “I've been troubled, troubled. I've always been troubled… to protect my friends and classmates…”
+[says] (p.197) “If you're safe in the last day, Ayanokouji-kun, you'll be called to I2 and be buried.”
+[says] (p.198) “If I told this to you… Acting Director Tsukishiro would make my classmates drop out… But I can't turn my back on you no matter what.”
+[says] (p.198) “Because I, because I like you, Ayanokouji-kun…!”
+[says] (p.198) “No, that's not right! That, eh, just now, why did I, eh, ehhhhhhhh!?”
+[says] (p.200) “…That…. misunderstanding… it's not a misunderstanding…”
+[says] (p.200) “…I like… you…”
+[trait] (p.195–201) Desperate and selfless — prioritizes Ayanokōji's safety over her classmates despite Tsukishiro's threat, blurts out “I like you” in exhaustion (then panics, as if the words escaped her), and admits it was no misunderstanding; accepts his gentle refusal without disdain.
 [rel:ayanokouji-kiyotaka] (p.195–201) Warns him of the I2 trap and confesses her love; he thanks her but can't reciprocate now.
 [rel:tsukishiro] (p.197–198) Threatened her — if she told anyone, her classmates would be forced to drop out.
 [rel:shiba-katsunori] (p.197) Was with Tsukishiro when her watch broke.

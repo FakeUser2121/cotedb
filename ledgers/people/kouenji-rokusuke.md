@@ -846,30 +846,42 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 p.99–115 — Kōenji vs the third-year "Free Groups" siege
-[scene] (p.99) Besieged on day eleven by Kiriyama's group plus six "Free Groups" (15 third-years) mobilized by Nagumo to stop his top-stREAK; he's caught sleeping in broad daylight (from exhaustion).
-[says] (p.103) "I'm sure you will agree. I am a human being like you."
-[says] (p.104) "Take the day off? That's kind of funny."
-[says] (p.104) "My physical strength has already recovered perfectly. I don't want you to talk about me as a normal person."
-[says] (p.104) "I have a very short dream. I have an extremely low REM phase."
-[says] (p.106) "I'm not one to accept advice, Kiriyama."
-[says] (p.111) "I don't obey anyone."
-[says] (p.111) "It is not a pretty situation. I don't like male sexuality."
-[says] (p.112) "I have no intention of showing mercy to those who prevent me from moving forward."
-[says] (p.114) "You are a real monster." — Mikitani; Kōenji breaks their spirits
-[trait] (p.99–115) Effortlessly evades the encirclement — reveals he has an extremely short REM sleep phase (recovering fully in naps), outruns the third-years in a sprint, and when they physically try to block him, simply walks through them ("as if a large rock was slowly crashing into him"), making Morooka fake a broken arm; breaks all 18 pursuers' fighting spirit without throwing a single punch, then leaves — Kiriyama realizes that making the third-years look like no big deal was exactly what Kōenji intended.
-[rel:kiriyama] (p.104–115) Recognizes him as one of only two (with Nagumo) who can stop Kōenji; calmly analyzes his "super short sleep."
+### y2v4 p.42–43, 48–50 — Kōenji mentioned in passing
+[mentioned] (p.42) “Kōenji was indeed amazing, but the truth behind what was going on here was probably a little bit different.”
+[mentioned] (p.42) “Fortunately, Kōenji has been putting in a lot of work of his own, so instead, I’ve been focused on gathering the resources necessary to support my peers who need help.”
+[mentioned] (p.43) “Kōenji-senpai sure is amazing, isn’t he? Giving President Nagumo a run for his money all by himself.” — Nanase to Ayanokōji.
+[mentioned] (p.43) “In reality, however, Nagumo’s group was most likely just putting on an act as they slowed down to match pace with Kōenji.”
+[mentioned] (p.43) “And then, once the rankings were hidden again, he and his group would pick up the pace for the final two days of the exam.”
+[mentioned] (p.48) “1st Place: Second-Year Group Kōenji – 168 Points” — the printed top-ten.
+[mentioned] (p.48) “There was a full, 90 point difference between myself and Kōenji, who was all the way up in first place.”
+[mentioned] (p.49) “If Kōenji were to maintain his current pace and keep diligently racking up points, he’d end up with a final score of around 350, so if I wanted to bridge the gap, I’d have to earn close to 40 points per day for the rest of the exam.”
+
+<!-- walk: y2v4 Ch.1 → p.50 -->
+
+### y2v4 p.99–115 — Kōenji vs the third-year “Free Groups” siege
+[scene] (p.99) Besieged on day eleven by Kiriyama's group plus six “Free Groups” (15 third-years) mobilized by Nagumo to stop his top-stREAK; he's caught sleeping in broad daylight (from exhaustion).
+[says] (p.103) “I'm sure you will agree. I am a human being like you.”
+[says] (p.104) “Take the day off? That's kind of funny.”
+[says] (p.104) “My physical strength has already recovered perfectly. I don't want you to talk about me as a normal person.”
+[says] (p.104) “I have a very short dream. I have an extremely low REM phase.”
+[says] (p.106) “I'm not one to accept advice, Kiriyama.”
+[says] (p.111) “I don't obey anyone.”
+[says] (p.111) “It is not a pretty situation. I don't like male sexuality.”
+[says] (p.112) “I have no intention of showing mercy to those who prevent me from moving forward.”
+[says] (p.114) “You are a real monster.” — Mikitani; Kōenji breaks their spirits
+[trait] (p.99–115) Effortlessly evades the encirclement — reveals he has an extremely short REM sleep phase (recovering fully in naps), outruns the third-years in a sprint, and when they physically try to block him, simply walks through them (“as if a large rock was slowly crashing into him”), making Morooka fake a broken arm; breaks all 18 pursuers' fighting spirit without throwing a single punch, then leaves — Kiriyama realizes that making the third-years look like no big deal was exactly what Kōenji intended.
+[rel:kiriyama] (p.104–115) Recognizes him as one of only two (with Nagumo) who can stop Kōenji; calmly analyzes his “super short sleep.”
 [rel:mikitani] (p.103–115) The third-year who confronts him, demands he stay put, and is humiliated when Kōenji walks through him.
-[rel:nagumo-miyabi] (p.95–109) Nagumo (behind the siege) was "very disappointed" at the failure.
+[rel:nagumo-miyabi] (p.95–109) Nagumo (behind the siege) was “very disappointed” at the failure.
 
 ### y2v4 p.281–282 — Kōenji wins first place alone
 [scene] (p.281) Announced 1st place with 327 points (just 2 ahead of Nagumo) — the only group to win alone, hailed by all students.
-[says:horikita-suzune] (p.281) "You really have done it, Kouenji-kun."
-[says] (p.281) "I'm sure you understand, right?"
-[says] (p.282) "Yes, that's right. Now let's go up again."
-[says] (p.282) "... Do not say foolishness." — Horikita
-[trait] (p.281–282) Wins first alone under the harshest conditions, gaining 300 class points, 1 million private points and a Protection Point; as promised he's granted immunity until graduation ("do whatever he wanted"); remains utterly self-focused, already talking of ascending again, while Horikita celebrates the 300 points toward reaching Class A and warns him not to cause trouble this month.
-[rel:horikita-suzune] (p.281–282) His class leader — their deal grants him freedom; she celebrates the class points but rebukes his "foolishness."
+[says:horikita-suzune] (p.281) “You really have done it, Kouenji-kun.”
+[says] (p.281) “I'm sure you understand, right?”
+[says] (p.282) “Yes, that's right. Now let's go up again.”
+[says] (p.282) “... Do not say foolishness.” — Horikita
+[trait] (p.281–282) Wins first alone under the harshest conditions, gaining 300 class points, 1 million private points and a Protection Point; as promised he's granted immunity until graduation (“do whatever he wanted”); remains utterly self-focused, already talking of ascending again, while Horikita celebrates the 300 points toward reaching Class A and warns him not to cause trouble this month.
+[rel:horikita-suzune] (p.281–282) His class leader — their deal grants him freedom; she celebrates the class points but rebukes his “foolishness.”
 [rel:nagumo-miyabi] (p.281) Beat him by 2 points.
 ## y2v4.5
 

@@ -164,13 +164,11 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 p.10–284 — Kiriyama mentioned in passing
-[scene] (p.10–14) Named in the context of the exam.
-[note] (p.10–284) Passing mentions; not a distinct scene presence.
-[mentioned] (p.10–284) Passing mention only.
+### y2v4 p.38, 48 — Kiriyama mentioned in passing
+[mentioned] (p.38) “For example, some third-year groups moved fairly unusually throughout the day yesterday. Furthermore, these groups are always closely related to Nagumo’s group or Kiriyama’s group. When I looked into it, I noticed something pretty interesting.”
+[mentioned] (p.48) “3rd Place: Third-Year Group Kiriyama – 150 Points” — the printed top-ten.
 
-<!-- walk: y2v4 Ch.6 → p.284 -->
-
+<!-- walk: y2v4 Ch.1 → p.50 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

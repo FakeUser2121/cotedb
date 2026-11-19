@@ -41,15 +41,10 @@ char_id: takahashi-osamu · class: unknown · status: unknown
 <!-- walk: y2v4 → start -->
 
 ### y2v4 p.48, 121 — Takahashi mentioned in passing
-[scene] (p.48) Named in the context of the exam.
-[scene] (p.121) Named in the context of the exam.
-[note] (p.48, 121) Passing mentions; not a distinct scene presence.
-[mentioned] (p.48, 121) Passing mention only.
+[mentioned] (p.48) “8th Place: First-Year Group Takahashi – 115 Points” — the printed top-ten.
+[mentioned] (p.121) The first-years’ day-12 play is being discussed — Takahashi’s involvement is suspected. Named on p.121 only.
 
-<!-- walk: y2v4 Ch.4 → p.121 -->
-
-
-
+<!-- walk: y2v4 Ch.1 → p.50 -->
 ## y2v8
 
 <!-- walk: y2v8 → start -->
