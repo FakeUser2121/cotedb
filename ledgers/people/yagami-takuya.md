@@ -160,21 +160,15 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 
 <!-- walk: y2v3 Ch.7 → p.274 -->
 
-### y2v3 p.321–330 — Yagami confronts Kushida; his plan unravels
-[scene] (p.321–322) On day five, Kushida (via walkie-talkie) arranges to meet Yagami, the de-facto leader of Class 1-B, to demand an explanation for the first-years learning her past.
-[says:kushida-kikyou] (p.322) "I received your report over the walkie-talkie this morning. You're going to explain what happened, right?"
-[says] (p.322) "Yagami-kun."
-[says] (p.322) "Thank you very much for coming all the way out here on such short notice." — Yagami
-[says] (p.322) "Things have their way of taking a turn for the unexpected from time to time, Kushida-senpai."
-[says] (p.323) "Please allow me to apologize for that."
-[says] (p.324) "Yes, I suppose that's true. Looking at it from Senpai's perspective, that must be awfully important."
-[says] (p.324) "For your sake, Kushida-senpai, I'll add on a few things to my strategy."
-[says] (p.325) "You can still come back from this."
-[says] (p.326) "On the fifth day of my time on the uninhabited island, I encountered a lone first-year student." — narration
-[trait] (p.321–330) Calm and evasive — apologizes for the first-years (Takahashi, Tsubaki, Utomiya, Hōsen) learning Kushida's secret, claims it wasn't his fault, and tries to keep her aligned by promising to also expel those four once Ayanokōji is gone; reveals he knows Hōsen/Nanase's violent plan and that Nanase will be the one to fight Ayanokōji — maneuvering Kushida into a "chance" to act.
-[rel:kushida-kikyou] (p.321–326) His accomplice; she angrily confronts him for exposing her past and realizes she followed the wrong person.
-[rel:tsubaki-sakurako] (p.322–324) Names her among the first-years who pressured him into confessing.
-[rel:ayanokouji-kiyotaka] (p.325–326) His expulsion target; knows Nanase will fight him.
+
+### y2v3 p.306–330 — Yagami on the wire (POV switch to Kushida)
+[mentioned] (p.322) “…you can rest assured that Nanase-san knows nothing about your past, Senpai.” — named by Yagami; not present; same scene.
+[mentioned] (p.325) “Do you remember what I told you back on the cruise ship? About how I was devising a strategy to expel Ayanokōji-senpai?” — named by Yagami; not present; same scene.
+[mentioned] (p.327) “Nanase-san will be making her move on the seventh day of the exam. Though the exact timeframe is still unclear, chances are that once they’ve gotten somewhere remote enough…” — named by Yagami; not present; same scene.
+[mentioned] (p.328) “I’d like to entrust the job of recording the video to you, Kushida-senpai.” — named by Yagami as her assignment; not present; same scene.
+[mentioned] (p.328) “Our tablets come with the ability to record videos, right? If we use that to record their fight, it’d be possible for us to get our hands on incriminating video evidence.” — named by Yagami; not present; same scene.
+
+<!-- walk: y2v3 Ch.8 → p.330 -->
 
 ## y2v4
 

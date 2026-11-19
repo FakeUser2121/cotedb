@@ -99,6 +99,7 @@ char_id: tsubaki-sakurako · class: Class 1-C · status: unknown
 [note] (p.192–193) The group composition matches Shinohara's description of the group passing them after 8:30 PM last night (three girls and one boy; the girls 1-A/1-B/1-C, the boy 1-D). The match is an observation, not a conclusion — the identity of the perpetrator is not printed on these pages.
 
 <!-- walk: y2v3 Ch.5 → p.210 -->
+
 ### y2v3 p.267–274 — Tsubaki: the minds behind the bonfire
 [scene] (p.267–274) Class C's Tsubaki; scary-quiet; orchestrated the first-years' meeting under a bonfire; probes Yagami with her thousand-yard stare; the Kushida hook; Utomiya does the hands for her.
 [says] (p.268) “Well, he doesn’t really seem the type to show up on time. Or maybe he’s just not coming.”
@@ -128,6 +129,14 @@ char_id: tsubaki-sakurako · class: Class 1-C · status: unknown
 [rel:kushida-kikyou] (p.267–274) The named lever for Yagami.
 
 <!-- walk: y2v3 Ch.7 → p.274 -->
+
+### y2v3 p.322–329 — Tsubaki named at the walkie-talkie debrief
+[mentioned] (p.322) “Tsubaki-san and the others had been more informed than I anticipated. It was a surprise for me too.” — named by Yagami; not present; POV switch to Kushida.
+[mentioned] (p.324) “If you don’t willingly cooperate starting now, you might end up paying dearly later.” — Tsubaki's earlier line retold in his account; not present; same scene.
+[mentioned] (p.329) “There’s a chance Tsubaki-san is conspiring something too. She might try and pull something at the same time as us, so I’ll be poking around to try and find out what they’re up to as well.” — named by Yagami; not present; same scene.
+[note] (p.306–329) Tsubaki's earlier bonfire lecture (pp.267–274) is the template for the plan Yagami now pitches; the first-year student body's coordination channel is recorded here as contextual fact only.
+
+<!-- walk: y2v3 Ch.8 → p.330 -->
 
 ## y2v4
 
