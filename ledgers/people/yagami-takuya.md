@@ -211,7 +211,13 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 [rel:amasawa-ichika] (p.74) Names Amasawa as his co-threat against Kushida ("such as myself and Amasawa-san, who continue to threaten your daily safety and livelihood").
 [note] (p.75) Kushida's closing thought — "Sometime in the future, he'll have to be expelled too" — is in her ledger, not here.
 
+
+### y2v5 p.241 — Credits: PrinceYG's staff note
+[mentioned] (p.241) PrinceYG#6558 (Translator, RoyalMTL): "I was quite disappointed when I found out there were no appearances from the first years and third years (besides Yagami)" — Yagami is the one first-year appearance; staff credits, not story.
+
 <!-- walk: y2v5 Ch.3 → p.75 -->
+
+<!-- walk: y2v5 Afterword → p.243 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->
