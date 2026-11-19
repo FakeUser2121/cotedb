@@ -13,7 +13,6 @@ char_id: dodo-michimichi · class: Class 3-B · status: student
 [trait] (p.108) The third-years' best — a gifted English talent; even under the third-years' siege he quietly takes the E3 test prize while Kōenji waits in second.
 [rel:kouenji-rokusuke] (p.108) Outscored him by a narrow margin in the English test.
 
+
+
 <!-- walk: y2v4 Ch.4 → p.125 -->
-
-
-<!-- walk: y2v4 Epilogue → p.284 -->

@@ -8421,6 +8421,9 @@ walk: y1v1 → DONE
 
 ### y2v4 p.5–7 — Prologue note (Amasawa's monologue — her own page)
 [note] (p.5) The prologue is Amasawa Ichika’s own monologue (an IVF/“test-tube” baby raised in the White Room) — recorded on her own page, not attributed here.
+[mentioned] (p.6) “Ayanokōji Kiyotaka. The being whose preeminent success stood out from the rest of the White Room.” — Amasawa’s monologue.
+
+<!-- walk: y2v4 Prologue → p.7 -->
 
 ### y2v4 p.8–14 — Ch.1: Amasawa appears in the rain
 [scene] (p.8) In the storm after the fight with Nanase, an ominous presence stops behind him — Amasawa stands there in the rain, red hair swaying, holding a whittled wooden stick; no backpack or tablet (tracked them via the same Table, or GPS relay, or a long tail).
@@ -8532,8 +8535,10 @@ walk: y1v1 → DONE
 [trait] (p.45–50) He evaluates the cancellation’s damage but recasts the news as an opening for the second half; warns Nanase off Amasawa/Hōsen — her careless actions may cause him unintended problems.
 [rel:kouenji-rokusuke] (p.48–50) Kōenji 168 pts leads; Ayanokōji notes his own 90-point gap and Kōenji’s likely ~350 final.
 [rel:nanase-tsubasa] (p.46–48) Sends her off with a warning — she vows anything for him; he tells her to protect him by protecting herself.
-<!-- walk: y2v4 Ch.1 → p.50 -->
 
+
+
+<!-- walk: y2v4 Ch.1 → p.50 -->
 ### y2v4 p.51–54 — Day eight: food shortage; parting with Nanase
 [scene] (p.51) After the storm clears by 6:00 AM, he sits with his food shortage — never having undergone starvation training, his immune system is at risk; his only real source is Tasks; Nanase approaches with her backpack ready.
 [says] (p.51) “I’ll have to address the food shortage sooner rather than later…”
@@ -8591,8 +8596,9 @@ walk: y1v1 → DONE
 [note] (p.59) His day-eight tally: 4 points from Arrival Bonuses + 14 from four Tasks = 18; overall 96 points, 23rd place; no top-ten changes; Kuronaga’s group still tenth with 111 points.
 [rel:kuronaga] (p.59) Tenth place, 111 points, holding the top-ten barrier.
 
-<!-- walk: y2v4 Ch.2 → p.59 -->
 
+
+<!-- walk: y2v4 Ch.2 → p.59 -->
 ### y2v4 p.60–62 — Ch.3: The 11th-place plan holds
 [scene] (p.60) Arrives at the fourth designated area (D5) at 3:00 PM, a punishing walk from H9 — skips a decent Task en route to avoid a penalty; takes third place in the Early Bird Bonus pool; still no sign of reaching the starting area.
 [says] (p.61) “So with all the points I earned today, I’ve upped my total score to 112, huh?”
@@ -8801,8 +8807,9 @@ walk: y1v1 → DONE
 [rel:takemoto-shigeru] (p.93–94) Loan of the walkie-talkie; the relay into Sakayanagi’s channel.
 [rel:sakayanagi-arisu] (p.93–94) The back-channel: he asks via Takemoto about Class D dropouts; Sakayanagi answers and hands him her walkie-talkie.
 
-<!-- walk: y2v4 Ch.3 → p.94 -->
 
+
+<!-- walk: y2v4 Ch.3 → p.94 -->
 ### y2v4 p.116–118 — Ch.4: The six-member group at the sunset
 [scene] (p.116) At J10 just before 5:00 p.m., he barely makes the last zone and spots the merged group — three girls from Class 2-B and three more from another sophomore group (Ishizaki Daichi, Takeko Nishino, Hitomi Tsutsube); only Hiyori notices him first and waves.
 [says:shiina-hiyori] (p.116) “What? Isn't it Ayanokouji-kun?”
@@ -8877,7 +8884,31 @@ walk: y1v1 → DONE
 [note] (p.125) After missing two random designated zones in a row, he is down to 16th place; the last day will decide everything.
 [rel:shiina-hiyori] (p.123–125) She confides she is scared; they part on good terms.
 
+
+
 <!-- walk: y2v4 Ch.4 → p.125 -->
+### y2v4 p.126–149 — Ch.5: The siege from outside (mention records)
+[mentioned] (p.126) “Nanase left Ayanokouji.” — the timeline resumes the day after Nanase’s departure.
+[mentioned] (p.126) “you seem to have had a lot of fun with Ayanokouji, how have you been?” — Hōsen to Nanase.
+[mentioned] (p.127) “It was a mistake for me to try to expel Ayanokouji-kun by myself. So I have come to ask for Housen-kun’s help.” — Nanase.
+[mentioned] (p.134) “Busy is ...... you are trying to expel Ayanokouji-senpai?” — Tsubaki to Hōsen.
+[mentioned] (p.134) “but how do you plan to expel him?” — Tsubaki.
+[mentioned] (p.136) “defeat Ayanokouji-senpai, right?” — Tsubaki.
+[mentioned] (p.136) “Well, it’s the only way.” — Hōsen.
+[mentioned] (p.138) “I have no right to stop you if you are willing to.” — Utomiya.
+[mentioned] (p.139) “Ayanokouji’s camp is on E5; the first years are camped in D4 and E6.” — Tsubaki’s GPS screenshot.
+[mentioned] (p.141) “Tsubaki-san, can we talk?” — Yagami; the insurance tablet is aimed at Ayanokōji.
+[mentioned] (p.144) “How can you be sure that this tablet really is from the same box as Ayanokouji?” — Yagami.
+[mentioned] (p.145) “If I manage to get Ayanokouji-senpai out with this insurance, what if I get 5 million points...” — Yagami.
+
+### y2v4 p.142–157 — AK mentioned in passing
+[mentioned] (p.142) “Tsubaki-san, can we talk?” — Yagami approaches.
+[mentioned] (p.143) “I don't know who you are?” — Yagami probes.
+[mentioned] (p.147) “It's not natural to want to drop out of school as soon as you enter school.” — Tsubaki.
+[mentioned] (p.148) “I would be lying if I said I don't care.” — Utomiya.
+[mentioned] (p.149) “Hmm, not exactly.” — Tsubaki.
+[mentioned] (p.156) “It was as Yagami had said, but Tsubaki felt stuck. Why didn't she think that all the classes would unite to protect Ayanokouji.” — narration.
+[mentioned] (p.157) “We just have to spend time attacking now, but second-year students can't protect Ayanokouji-senpai all the time, right?” — Yagami.
 
 ### y2v4 p.151–152 — Ch.5: The siege morning; he runs south
 [scene] (p.151) Dawn of day thirteen; the GPS shows the three first-year named masterminds (Utomiya, Tsubaki, Yagami) solidified at D4/E6; he knows they have his area from Nanase's leak; he avoids the trap by running south; he ignores six designated areas to survive.
@@ -8887,6 +8918,16 @@ walk: y1v1 → DONE
 [trait] (p.151–152) Cool, informed, unrattled — he reads the siege from the leak and dodges it.
 [rel:nanase-tsubasa] (p.151–152) Her leak saves him.
 [rel:tsubaki-sakurako] (p.151–152) She commands the siege; her trap fails.
+
+### y2v4 p.153–158 — Ch.5: The GPS chase (mention records)
+[mentioned] (p.153) “If you can keep up with the movements, you will find a way to win with no contact.” — Tsubaki.
+[mentioned] (p.153) “9 a.m. passes and Ayanokouji’s third step is confirmed.” — Tsubaki’s GPS log.
+[mentioned] (p.153) “the tablet then indicated that Ayanokouji’s destination was D2; Ayanokouji, who was fleeing towards C6 at the time...” — Tsubaki’s GPS log.
+[mentioned] (p.153) “she instructed the group in C4 to target Ayanokouji going down the mountain.” — Tsubaki’s GPS log.
+[mentioned] (p.154) “Ayanokouji tries to get out of B3, but 3 groups haven’t got out of C4.” — Tsubaki’s GPS log.
+[mentioned] (p.155) “The two groups that were chasing Ayanokoji also stopped moving when they realized it.” — Tsubaki’s GPS log.
+[mentioned] (p.158) “Ayanokouji is running away? No, that’s not possible.” — Tsubaki, thinking aloud.
+[mentioned] (p.158) “I don’t have the full strength to be able to manipulate and direct the other classes.” — Tsubaki.
 
 ### y2v4 p.159–165 — Ch.5: The Sakayanagi bargain
 [scene] (p.160) Three days earlier, on day ten at midnight, he calls Sakayanagi on Takemoto's walkie-talkie and reveals the White Room threat and Nagumo's bounty; she agrees to freeze the first-years in exchange for a "new favor".
@@ -8927,13 +8968,25 @@ walk: y1v1 → DONE
 [rel:tsukishiro] (p.163) He reveals Tsukishiro may be planning something else.
 [rel:nagumo-miyabi] (p.163) The bounty is Nagumo's price for Tsukishiro.
 
-<!-- walk: y2v4 Ch.5 → p.190 -->
-
 ### y2v4 p.162–164 — Revealing Nanase's role to Ryūen
 [scene] (p.162) Explains to Ryūen that Nanase was one of the assassins Tsukishiro sent, and why the lower risk plus new risk tipped the balance — enlisting his help to stop Hōsen.
 [trait] (p.162–164) Shares intel selectively with Ryūen to neutralize the threat without expelling anyone; his intervention leads to Ryūen stopping Hōsen.
 [rel:ryuuen-kakeru] (p.162–164) Informs him about Nanase/Tsukishiro; Ryūen agrees to intercept Hōsen.
 [rel:tsukishiro] (p.162) Nanase was one of his sent assassins.
+
+### y2v4 p.166–190 — Ch.5: The countermove from outside (mention records)
+[mentioned] (p.166) “the five groups sent to expel Ayanokouji-senpai.” — Tsubaki.
+[mentioned] (p.167) “The Siege of Ayanokouji was conceived by Sakurako Tsubaki.” — narration.
+[mentioned] (p.168) “I found you, Ayanokouji-senpai!” — Hōsen.
+[mentioned] (p.170) “If Ryuuen is in command, tablets and walkie-talkies are essential.” — narration; Ryūen’s arrival.
+[mentioned] (p.176) “as long as he had that, he would not allow Ayanokouji to lose, no matter if it was a fight or not.” — narration.
+[mentioned] (p.177) “Not only Ishizaki, but also Albert...” — narration; the 3-on-1.
+[mentioned] (p.190) “Even though Ayanokouji-senpai didn’t bother to give advance notice...” — Utomiya.
+
+### y2v4 p.169–172 — AK mentioned in passing
+[mentioned] (p.169) “I'm afraid I have something to do with it.” — Ryūen to Hōsen.
+[mentioned] (p.171) “So you're obsessed with Ayanokouji too, huh, Ryuuen?” — Hōsen.
+[mentioned] (p.172) “Don't worry. I haven't finished with him, or should I say I haven't even started.” — Ryūen to Hōsen.
 
 ### y2v4 p.183–185 — Aftermath: Ryūen and Hōsen retire together
 [scene] (p.183) Watches as Ryūen, badly injured, decides to retire together with the unconscious Hōsen — the “only and most beautiful way” to stop him from returning to hunt Ayanokōji.
@@ -8941,6 +8994,30 @@ walk: y1v1 → DONE
 [trait] (p.183–185) Understands Ryūen's sacrifice (retiring to ensure Hōsen can't come after him again); Tsubaki's plot collapses — Hōsen stopped, her first-year groups neutralized — and she realizes her plan was doomed from early on.
 [rel:ryuuen-kakeru] (p.183) Ryūen retires with Hōsen to protect Ayanokōji's exam standing.
 [rel:housen-kazuomi] (p.183) Neutralized — stops hunting Ayanokōji.
+
+
+<!-- walk: y2v4 Ch.5 → p.190 -->
+### y2v4 p.191–194 — Ch.6: Day thirteen dawn; the penalty chain
+[scene] (p.191) Waking at E3 on the last day; five freshmen groups circled him; Housen unaccounted for; Sakayanagi reports Ichinose disappeared at dawn; the designated area H3 gives him no mercy — he will have to fight to reach it.
+[says:sakayanagi-arisu] (p.192) “Good morning, Ayanokouji-kun. You had a lot of problems yesterday. ”
+[says] (p.192) “Thank you Sakayanagi for saving me”
+[says:sakayanagi-arisu] (p.192) “Do you agree with the penalty? You seem to have moved a lot during the night. ”
+[says] (p.192) “I’m sure Sakayanagi is aware of my movements through the GPS.”
+[says:sakayanagi-arisu] (p.192) “The first designated area is H3. There is not much time, but I think I can do it. ”
+[says:sakayanagi-arisu] (p.192) “Actually, I’m in trouble. At dawn, Ichinose-san disappeared.”
+[says:sakayanagi-arisu] (p.192) “No, it seems to be an involuntary action. The last few days she has been acting strange.”
+[says] (p.192) “But why did you contact me? I’m sure there is nothing I can do to help you. ”
+[says:sakayanagi-arisu] (p.192) “Actually, when I did a GPS search to find out Ichinose-san’s position, I found that it was at the same E3 as Ayanokouji-kun. However, it is the opposite D3 side.”
+[says:sakayanagi-arisu] (p.193) “What was the final designated area of Ichinose yesterday?”
+[says:sakayanagi-arisu] (p.193) “It was D5. Ichinose-san arrived there. She started performing at dawn without telling anyone, and now she was here at E3 for some reason?....In the morning, I realized that we had lost a point. I checked with the people in the group, but there was no sign that anyone had used the GPS search. It seems that Ichinose used it. It is not known if her objective was E3 or a further area, but it is normal to think that she went to meet someone. ”
+[says] (p.193) “I thought maybe it was to meet Ayanokouji-kun, but ...”
+[says] (p.193) “I’m sorry, but I don’t know. I haven’t seen Ichinose in this special exam. If you wait, Ichinose can get to F3’s side, sorry, I’m in a hurry. What are you going to do?”
+[says:sakayanagi-arisu] (p.193) “The first designated area we had to go to was E6. I’ll discard the reward on a first-come, first-served basis, but I must ignore it. In the worst case, if you withdraw, it will not have a great negative effect on this last day. ”
+[says:sakayanagi-arisu] (p.193) “You are in trouble?”
+[says:sakayanagi-arisu] (p.193) “Accidents are destined to happen, you know. Well, even if you let it, the special exam will be over in half a day, so I don’t think there is any problem. If you ever see her, tell her about the situation. ”
+[note] (p.191–194) Six consecutive missed areas, four consecutive penalties pending; he is pushed below the public visible line; he decides to ignore I2's trap and head to I2 on suspicion alone.
+[rel:sakayanagi-arisu] (p.191–194) The walkie-talkie relay; Ichinose's disappearance disclosed.
+[rel:ichinose-honami] (p.192–194) Her disappearance is his problem only if she reaches him.
 
 ### y2v4 p.191–201 — Last day: Ichinose's four-hour walk; her confession
 [scene] (p.191) On the final day, reels from six consecutive missed areas (four penalties); Sakayanagi warns via walkie-talkie that Ichinose has disappeared and was seen using GPS near E3/D3.
@@ -8958,15 +9035,78 @@ walk: y1v1 → DONE
 [rel:tsukishiro] (p.197–201) Learned of his I2 trap via Ichinose.
 [rel:sakayanagi-arisu] (p.192–193) Warns him about Ichinose; he asks her to relay word if seen.
 
-### y2v4 p.202–251 — Nagumo's private talk; Kiryūin/Amasawa
-[scene] (p.202) At I2 approach, meets Nagumo alone (he claims to have been enjoying the beach at I4); they spar verbally about why he's there and Ichinose.
+### y2v4 p.202–207 — Ch.6: Nagumo on the beach; the guessing game
+[scene] (p.202) He crosses the rock field at I2's border and spots President Miyabi Nagumo standing on the beach, tablet in hand; the third-year's questioning; no one else around.
 [says:nagumo-miyabi] (p.202) “Ayanokouji, what a coincidence.”
 [says] (p.202) “President Nagumo, why are you here?”
-[says:nagumo-miyabi] (p.203) “I was having fun on the beach at I4.”
-[says:nagumo-miyabi] (p.230) “The more you try to stop me, the more I must go to I2.”
-[note] (p.230–251) Amasawa appears and, with Nagumo, tries to discourage him from I2; he reads that they genuinely don't want him to go — confirming he must. Nagumo's true role and Amasawa's disobedience tie into Tsukishiro's plot.
-[rel:nagumo-miyabi] (p.202–230) He tries to dissuade him from I2 — which only confirms Ayanokōji's resolve.
-[rel:amasawa-ichika] (p.251) She joins the attempt to stop him.
+[says:nagumo-miyabi] (p.203) “Don’t worry. We are the only ones here.”
+[says:nagumo-miyabi] (p.203) “I was having fun on the beach at I4. Life on this uninhabited island is coming to an end, after all.”
+[says] (p.203) “Is this the so-called calmness of a king?”
+[says:nagumo-miyabi] (p.203) “But I’ll ask you the same thing, Ayanokouji. This place is not a designated area and doesn’t have an event, so why did you come here? Did you meet up with Honami?”
+[says] (p.203) “Is there a problem with that?”
+[says:nagumo-miyabi] (p.203) “No. If you two are still together now, you would have spoken about quite a bit. But you are here by yourself, so it means you have a different objective. What’s there at I2?”
+[says:nagumo-miyabi] (p.204) “Your critical thinking ain’t bad.”
+[says:nagumo-miyabi] (p.204) “Don’t blame me for the bounty. It wasn’t my proposal in the first place.”
+[says:nagumo-miyabi] (p.204) “It was Acting Director Tsukishiro’s.”
+[says:nagumo-miyabi] (p.204) “Since you know this much, I’ll be blunt. The money’s all from the Acting Director. I just lent the name of the Student Council president to him.”
+[says:nagumo-miyabi] (p.204) “It’s an order from the Acting Director, so you had to accept it. But if it’s the Student Council President I know, I think you would have refused such a proposal, right?”
+[says:nagumo-miyabi] (p.204) “If it’s about the matter of the bounty, I wouldn’t have accepted it, if it were a student other than you. But the one which he named was none other but you, the only man that Horikita-senpai trusted.”
+[says:nagumo-miyabi] (p.205) “Answer me, Ayanokouji. What do you plan to do next?”
+[says] (p.205) “This has nothing to do with you, President Nagumo. Shouldn’t you be concentrating on the end of the exam? The score difference between you and Koenji should be small. If you don’t go back, you won’t get the arrival points, you won’t be able to participate in some events, and that situation will stay the same.”
+[says:nagumo-miyabi] (p.205) “Don’t worry about it. On this last day, I have completely overwhelmed Koenji.”
+[says:nagumo-miyabi] (p.205) “Although I do care what you’re going to do, if you won’t answer, then I’ll change my question. Let me see if you, who hold the expectations of Horikita-senpai, have the strength worthy of my expectations, which of course means that you’ll have to get serious.”
+[trait] (p.202–207) Nagumo is unreadable; he wants to test Ayanokōji for Manabu's shadow; Ayanokōji refuses to confirm anything.
+[rel:nagumo-miyabi] (p.202–207) The stand-off at the beach; Nagumo reveals the bounty was Tsukishiro's order.
+
+### y2v4 p.208–214 — Ch.6: The superpower trick; Nagumo knocked down
+[scene] (p.208) Nagumo pulls a transceiver and guesses his ranking — “11th” — misses by 5; the trap is the 3rd-year lockout plan; Kuronaga holds 10th to block comebacks; Ayanokōji reveals he's 16th; Nagumo is furious; his watch rings a warning; Ayanokōji shoves him hard.
+[says:nagumo-miyabi] (p.207) “Let me guess your group’s ranking at the end of the 12th day.”
+[says:nagumo-miyabi] (p.208) “You’re ranked…11th, right?”
+[says:nagumo-miyabi] (p.208) “A little off? Then you’re ranked around 15th or 16th right?”
+[says] (p.208) “Yeah. Truly admirable of you.”
+[says:nagumo-miyabi] (p.208) “I joked around with that superpower stuff. I just guessed, assuming that you really have hidden your strength.”
+[says:nagumo-miyabi] (p.208) “In order not to attract attention, your ranking is a bit lower than 10th, but still, you’ve maintained an upper-ranking position. If I lose the battle against Koenji, then you’d have a chance to make a comeback.”
+[says:nagumo-miyabi] (p.208) “Kurona from third-year has been keeping the 10th place, right? I had him maintain that rank to block those who had been secretly saving points and aiming to make a comeback.”
+[says:nagumo-miyabi] (p.209) “If I want to earn points, whether that’s 400 or 500 points, I can earn them. However, that’s not interesting, right? Now there’s hope that he might beat the second and first-years. Besides, if he lost in the battle with me, we might be able to see his regretful expression.”
+[says:nagumo-miyabi] (p.209) “In order not to attract attention, I would lurk around this rank before Day 12.”
+[says] (p.209) “Have you noticed? From the very start, this wasn’t possible.”
+[says:nagumo-miyabi] (p.209) “I’ve always doubted whether you were strong enough, but now I understand. You’ve been granted the right to be crushed by me, so rejoice.”
+[says] (p.209) “Was it part of your plan? Your command of the attack on Koenji on the last day?”
+[says] (p.210) “Unfortunately, the leader of Class 2-D is Horikita. Even if there’s a special exam that competes with the third-years, I won’t fight you.”
+[says:nagumo-miyabi] (p.210) “Then I would have to force you to appear on the front stage, which includes using the bounty.”
+[says:nagumo-miyabi] (p.210) “You think you can escape this easily? I won’t let you go before you agree to a fight with me.”
+[says] (p.212) “President Nagumo, although your abilities are different from President Horikita’s, it still allowed you to brilliantly stand at the top of this school. You maintained a top ranking in this special exam with ease, and it’s no exaggeration to say you had complete control over it. Even so, I plan to beat you.”
+[says] (p.212) “It’s just that there are certain areas where you shouldn’t step into. Please understand.”
+[says:nagumo-miyabi] (p.212) “Huh?…. Don’t be ridiculous. You presume to give me orders?”
+[says] (p.212) “It’s because you have the status of being a senpai worthy of my respect that I am not going to be lenient here.”
+[says:nagumo-miyabi] (p.212) “Ah? What are you doing—”
+[says:nagumo-miyabi] (p.212) “Urgh….!?”
+[says] (p.212) “Don’t you understand what I said?”
+[says:nagumo-miyabi] (p.213) “I…!?”
+[says:nagumo-miyabi] (p.213) “Ah, you…!!!”
+[note] (p.212–214) The transceiver kept Nagumo's allies intercepting Koenji three times; he switches it off; he lunges; Ayanokōji drops him with one punch to the chest; his warning alarm sounds; Ayanokōji hides him under a tree; 20-30 minutes before rescue; he walks to I2.
+[trait] (p.212–214) He collapses the 3rd-year king in one punch; the game is now in his hands.
+[rel:nagumo-miyabi] (p.208–214) The showdown ended in a second — Ayanokōji wins the beach fight by forfeit; Nagumo is dragged out of the equation before I2.
+
+### y2v4 p.215–251 — Ch.6: The I2 blocks, from outside (mention records)
+[mentioned] (p.215) “then at noon today, Ayanokouji will be expelled at I2…” — Horikita’s reading of the folded note.
+[mentioned] (p.216) “but the fact that Ayanokouji-kun’s GPS signal was on E3 made me a bit worried.” — Horikita.
+[mentioned] (p.218) “(it's ayanokouji)” — the translation’s own annotation; kept as printed.
+[mentioned] (p.222) “Did she feel there was no need to apologize to me for the way she treated Ayanokouji-kun, and the things she did?” — Horikita’s thought.
+[mentioned] (p.223) “It’s best not to say anything unnecessary about Ayanokouji-kun.” — Horikita.
+[mentioned] (p.226) “Games? What are you planning to involve me and Ayanokouji-kun in?” — Horikita.
+[mentioned] (p.227) “you obviously don’t know anything about Ayanokouji-senpai. You’re just acting like his partner because you’re in the same class.” — Amasawa.
+[mentioned] (p.228) “he…Ayanokouji was my first...friend.” — Horikita’s interior.
+[mentioned] (p.229) “I’m going to I2 to help Ayanokouji-kun.” — Horikita.
+[mentioned] (p.230) “Don’t kid me, how could Ayanokouji-senpai need your help?” — Amasawa.
+[mentioned] (p.233) “I’ll do that, as long as your motive isn’t to stop me from going to Ayanokouji-kun.” — Horikita.
+[mentioned] (p.235) “Who are you? You seem to know the Ayanokouji-kun in the past…” — Horikita.
+[mentioned] (p.236) “you aren’t worthy for Ayanokouji-senpai to rely on.” — Amasawa.
+[mentioned] (p.245) “If Ayanokouji-kun was here, in the same situation as I was, what would he do?” — Horikita.
+[mentioned] (p.251) “Ah, by the way, I don’t think you need to go after Ayanokouji-senpai anymore.” — Amasawa.
+
+### y2v4 p.231 — AK mentioned in passing
+[mentioned] (p.231) “Let me tell you something first. I have experience with martial arts.” — Amasawa.
 
 ### y2v4 p.252–272 — The showdown at I2: Ayanokōji vs Tsukishiro and Shiba
 [scene] (p.252) At I2's tip, finds Tsukishiro (in a sweater) and Shiba waiting — Tsukishiro's final trap to “bury” him, with no watch signal there.
@@ -8986,6 +9126,8 @@ walk: y1v1 → DONE
 [rel:sakayanagi-arisu] (p.269) Lent him the walkie-talkie that saved him.
 [rel:amasawa-ichika] (p.272) Tsukishiro's message disqualifies her for disobeying orders — free to stay or leave; Ayanokōji doubts the White Room matter is over.
 
+
+<!-- walk: y2v4 Ch.6 → p.275 -->
 ### y2v4 p.276–278 — After the exam: Sakayanagi's promise with Ryūen
 [scene] (p.276) Back on the ship after two weeks; learns the bottom five groups were notified in advance (so they can pay to avoid expulsion); on deck sees Ryūen (face covered in scars from Hōsen) and Sakayanagi talking.
 [says:ryuuen-kakeru] (p.276) “I'm sorry to interrupt you, but don't forget the promise you made to me, okay? And some money.”
@@ -9008,6 +9150,12 @@ walk: y1v1 → DONE
 [trait] (p.282) No second-year was expelled — a “miraculous” summer survived; confirms Amasawa Ichika is a White Room student who now seems to be on his side (not Tsukishiro's), though whether coordinated or betrayal is unknown; notes unresolved mysteries and that the summer may not end quietly.
 [rel:amasawa-ichika] (p.282) Revealed as a White Room student, apparently now his ally.
 [rel:tsukishiro] (p.282) His opponent — the White Room threat isn't over.
+
+
+### y2v4 p.283 — AK mentioned in passing
+[mentioned] (p.283) “there may or may not be changes in the love life of Ayanokouji and the other” — the closing monologue (kept as printed).
+
+<!-- walk: y2v4 Epilogue → p.284 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

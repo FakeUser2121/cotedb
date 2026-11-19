@@ -132,5 +132,11 @@ char_id: mikitani · class: Class 3-B · status: student
 [rel:kiriyama-ikuto] (p.109–115) His plan fails; he never tattles; Kiriyama covers for him.
 [rel:kouenji-rokusuke] (p.109–115) He fails to block him; broken spirited by skill without touching him.
 
-<!-- walk: y2v4 Ch.4 → p.125 -->
 
+
+<!-- walk: y2v4 Ch.4 → p.125 -->
+### y2v4 p.279 — Mikitani expelled with the third-years
+[mentioned] (p.279) “The 3rd D Mutou class, the 3rd D Kawakami class, the 3rd C Shinonome class, the 3rd C Katsumata class, and the 3rd B Mikitani class. For a total of 15 people.”
+
+
+<!-- walk: y2v4 Epilogue → p.284 -->

@@ -652,6 +652,7 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 ### y2v4 p.49 — Kanzaki in the printed top-ten
 [mentioned] (p.49) “9th Place: Second-Year Group Kanzaki – 104 Points” — the printed top-ten.
 
+
 <!-- walk: y2v4 Ch.1 → p.50 -->
 ## y2v4.5
 

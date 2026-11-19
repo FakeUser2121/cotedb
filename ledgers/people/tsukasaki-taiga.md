@@ -49,9 +49,8 @@ char_id: tsukasaki-taiga · class: Class 2-A · status: minor
 ### y2v4 p.160 — Tsukasaki mentioned in passing
 [mentioned] (p.160) “Students and teachers commute around the uninhabited island on a daily basis. In fact, don't you think Tsukasaki-kun uses it naturally to choose a safe and fast route? ” — Sakayanagi's point about Tsukasaki's pathing.
 
+
 <!-- walk: y2v4 Ch.5 → p.190 -->
-
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

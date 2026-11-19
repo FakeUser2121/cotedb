@@ -1863,9 +1863,8 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [note] (p.278) Passing mention; not a distinct scene presence.
 [mentioned] (p.278) Passing mention only.
 
-<!-- walk: y2v4 Epilogue → p.278 -->
 
-
+<!-- walk: y2v4 Epilogue → p.284 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

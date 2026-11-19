@@ -83,13 +83,18 @@ char_id: utomiya-riku · class: Class 1-C · status: unknown
 
 <!-- walk: y2v4 → start -->
 
+### y2v4 p.97, 166 — Utomiya mentioned in passing
+[mentioned] (p.97) “if it was one of the top ten, it was Ryuuen's second year group, Sakayanagi's group, or Utomiya's group and the others in first year.” — narration.
+[mentioned] (p.166) “The only thing we should avoid is getting in the way of our efforts to eliminate Ayanokouji-senpai. And the only person capable of eliminating Ayanokouji-Senpai, apart from Utomiya-kun, is Housen-kun...” — Yagami.
+
 ### y2v4 p.121 — Utomiya mentioned in passing
 [mentioned] (p.121) “Housen was summoned by Takahashi, Yagami, Tsubaki, and Utomiya...” — Nanase's report.
 [mentioned] (p.121) “I agree with you, because I had the impression that Class C was more focused on Utomiya.” — Nanase.
 [mentioned] (p.121) “But Utomiya and Housen don't get along, and when it comes to arguing, they quickly get into quarrels, so Tsubaki may have been deliberately chosen to act as an intermediary.” — Nanase.
 
-<!-- walk: y2v4 Ch.4 → p.125 -->
 
+
+<!-- walk: y2v4 Ch.4 → p.125 -->
 ### y2v4 p.128–149 — Ch.5: The negotiation; the scheme's inside man
 [scene] (p.128) Utomiya, Class 1-C's planner, sends Katagiri with the walkie-talkie to Hōsen; he negotiates over the radio from behind the line; he insists no one must touch Katagiri.
 [says] (p.129) “... I didn't want to contact you. But I can't help but do it to carry out my plan.”
@@ -159,10 +164,8 @@ char_id: utomiya-riku · class: Class 1-C · status: unknown
 [says] (p.190) “Very good.”
 [rel:tsubaki-sakurako] (p.185–190) His walkie-talkie is lost to Kitou; she knows her plan has failed.
 
+
 <!-- walk: y2v4 Ch.5 → p.190 -->
-
-
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

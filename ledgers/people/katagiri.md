@@ -20,10 +20,12 @@ char_id: katagiri · class: Class 2-C · status: student
 [rel:utomiya-riku] (p.132) Utomiya warns Hōsen not to lay a hand on him.
 [rel:nanase-tsubasa] (p.133) She talks him into leaving the walkie-talkie with Hōsen.
 
-<!-- walk: y2v4 Ch.5 → p.133 -->
+
+### y2v4 p.139 — Katagiri mentioned in passing
+[mentioned] (p.139) “the walkie-talkie that was taken from Katagiri was prepared for Housen from the beginning.” — narration.
 
 
-<!-- walk: y2v4 Epilogue → p.284 -->
+<!-- walk: y2v4 Ch.5 → p.190 -->
 ## y2v10
 
 <!-- walk: y2v10 → start -->

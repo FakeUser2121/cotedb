@@ -1195,6 +1195,7 @@ aliases used for anchors: ike, kanji, ike-kun
 [mentioned] (p.10) “Back when Shinohara-senpai’s group was attacked and Komiya-senpai and Kinoshita-senpai retired from the exam, do you remember how you left to climb the slope with Ike-senpai?” — Amasawa to Ayanokōji on the fourth-day slope incident; Ike heard a sound and took off in a panic thinking Shinohara might be at the top.
 [mentioned] (p.19) “Although I could talk to people like Horikita and Ike, it had always felt like there was some sort of distance between us.”
 
+
 <!-- walk: y2v4 Ch.1 → p.50 -->
 ## y2v4.5
 

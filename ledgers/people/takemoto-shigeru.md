@@ -58,8 +58,14 @@ char_id: takemoto-shigeru · class: Class 1-A · status: minor (allies)
 [rel:ayanokouji-kiyotaka] (p.93–94) Hands him the walkie-talkie Sakayanagi donated.
 [rel:sakayanagi-arisu] (p.93–94) The intermediary; she answers and instructs via Confidential Mode.
 
-<!-- walk: y2v4 Ch.3 → p.94 -->
+### y2v4 p.88–89 — Takemoto mentioned in passing
+[mentioned] (p.88) “Nothing happened. Instead, Kokobashi and Takemoto are fine right?” — Ayanokōji asks Shiranami.
+[mentioned] (p.88) “There is a possibility that Takemoto will go out alone to look for Shiranami, but there is also the possibility that would become an additional disaster.” — Ayanokōji.
+[mentioned] (p.89) “In any case, wandering aimlessly will only make things worse.” — Ayanokōji.
 
+
+
+<!-- walk: y2v4 Ch.3 → p.94 -->
 ### y2v4 p.159–164 — Ch.5: The walkie-talkie relay at midnight
 [scene] (p.160) Three days earlier, at midnight of day ten, Takemoto's group was contacted by Sakayanagi via walkie-talkie; he was deputized to call Ayanokōji-senpai to Sakayanagi on the walkie-talkie — the whole second-year alliance quietly activating through him.
 [says] (p.161) “What happened at this time? Are you in trouble? ” — Sakayanagi.
@@ -75,7 +81,5 @@ char_id: takemoto-shigeru · class: Class 1-A · status: minor (allies)
 [rel:ayanokouji-kiyotaka] (p.161–164) He hands him the walkie-talkie as per Sakayanagi's instruction.
 [rel:shiranami-chihiro] (p.159–160) — no, Shiranami is not present on these pages; the group leader is Kobashi? Takemoto is with Kobashi + Shiranami. Their group was the one lost; Sakayanagi's five frozen groups sealed the trap.
 
+
 <!-- walk: y2v4 Ch.5 → p.190 -->
-
-
-

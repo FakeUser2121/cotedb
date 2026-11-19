@@ -165,9 +165,6 @@ char_id: komiya-kyogo · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v4 → start -->
 
-
-<!-- walk: y2v4 Ch.2 → p.59 -->
-
 ### y2v4 p.10–14, 21–26, 32 — Komiya mentioned in passing
 [mentioned] (p.10) “Back when Shinohara-senpai’s group was attacked and Komiya-senpai and Kinoshita-senpai retired from the exam, do you remember how you left to climb the slope with Ike-senpai?” — Amasawa to Ayanokōji.
 [mentioned] (p.11) “You also hurt Komiya-senpai and Kinoshita-senpai, didn’t you?” — Nanase accuses Amasawa of the cliff attack.
@@ -177,10 +174,18 @@ char_id: komiya-kyogo · class: Class 1-C (enrolled April 2015) · status: minor
 [mentioned] (p.23) “In other words, Amasawa had definitely been there, just like Nanase claimed she was.”
 [mentioned] (p.32) “From what we knew: someone had pushed Komiya and Kinoshita down the slope. And, judging from the fact that there were no other GPS signals in the area at the time, it was clear that it had been a premeditated attack, rather than something done in the heat of the moment.”
 
+### y2v4 p.31, 34 — Komiya mentioned in passing
+[mentioned] (p.31) “I convinced myself that Amasawa-san was the one who pushed Komiya-senpai and Kinoshita-senpai down the slope.” — Nanase.
+[mentioned] (p.34) “I do have a pretty good idea which Table everyone belongs to.” — Ayanokōji.
 
+
+
+<!-- walk: y2v4 Ch.1 → p.50 -->
 ### y2v4 p.56–57 — Komiya mentioned in passing
 [mentioned] (p.56) “whereupon she was informed of Komiya and Kinoshita’s retirement.” — narrated; Sakayanagi told Horikita.
-<!-- walk: y2v4 Ch.1 → p.50 -->
+
+
+<!-- walk: y2v4 Ch.2 → p.59 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

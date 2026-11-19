@@ -1760,11 +1760,11 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 <!-- walk: y2v4 → start -->
 
 ### y2v4 p.200 — Karuizawa mentioned in passing
-[scene] (p.200) Named in the context of the exam.
-[note] (p.200) Passing mention; not a distinct scene presence.
-[mentioned] (p.200) Passing mention only.
+[mentioned] (p.200) “And it’s also necessary to avoid telling her about Kei right now.” — his interior; Ichinose has just confessed; he cannot tell her about Kei in this moment.
+[note] (p.200) Passing mention; she is the unspoken counterweight to Ichinose’s confession; her name is printed in his thoughts only.
 
-<!-- walk: y2v4 Ch.5 → p.200 -->
+
+<!-- walk: y2v4 Ch.6 → p.275 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

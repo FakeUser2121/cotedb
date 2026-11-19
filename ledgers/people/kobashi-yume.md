@@ -49,8 +49,8 @@ char_id: kobashi-yume · class: unknown · status: unknown
 [rel:takemoto-shigeru] (p.93–94) Her other group member; their luggage moves with them.
 [rel:ayanokouji-kiyotaka] (p.93–94) She thanks him for Chihiro-chan; he plays down the rescue.
 
-<!-- walk: y2v4 Ch.3 → p.94 -->
 
+<!-- walk: y2v4 Ch.3 → p.94 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

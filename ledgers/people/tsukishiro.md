@@ -304,18 +304,37 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 
 <!-- walk: y2v4 → start -->
 
+### y2v4 p.4 — Tsukishiro mentioned in passing
+[note] (p.4) Front-matter name hits only (table of contents): Tsukishiro's name appears on the TOC page with the chapter titles.
+
+<!-- walk: y2v4 Prologue → p.7 -->
+
 ### y2v4 p.18, 21, 23 — Tsukishiro mentioned in passing
 [mentioned] (p.18) “And it was too hard for me to imagine that she had heard about it from Tsukishiro. He would never talk about the inner workings of the White Room with someone unrelated – an outsider. As such, it was probably safe to conclude Amasawa’s guilt.” — he reasons about who sent her.
 [mentioned] (p.21) “She said ‘don’t go and get yourself crushed’… but by whom? Tsukishiro? The first-years who had their sights set on the twenty million private point bounty? Or, perhaps…”
 [mentioned] (p.23) “Honestly, I find it hard to believe that someone sent here by Tsukishiro would make a mistake like that.”
 
-<!-- walk: y2v4 Ch.1 → p.50 -->
 
+
+<!-- walk: y2v4 Ch.1 → p.50 -->
 ### y2v4 p.162–163 — Tsukishiro mentioned in passing
 [mentioned] (p.162) “About the White Room.” — Ayanokōji to Sakayanagi; the assassins story is known to her.
 [mentioned] (p.163) “Besides, Tsukishiro may be planning something .. If possible, I want to focus on that.” — Ayanokōji's caution; the bounty is Nagumo's price for Tsukishiro.
 
+
+
 <!-- walk: y2v4 Ch.5 → p.190 -->
+### y2v4 p.191, 197–202, 204, 210, 214, 274 — Tsukishiro mentioned in passing
+[mentioned] (p.191) “Chapter 6: The Man Known As Tsukishiro” — the chapter heading.
+[mentioned] (p.197) “And then, Acting Director Tsukishiro, and Shiba-sensei, those two, they were there…!” — Ichinose reports.
+[mentioned] (p.198) “If I told this to you… Acting Director Tsukishiro would make my classmates drop out… But I can't turn my back on you no matter what.” — Ichinose.
+[mentioned] (p.199) “I wouldn't have thought that Tsukishiro would have gone to I2. Tsukishiro had threatened Ichinose, but even so, she was here, right before my eyes.” — Ayanokōji.
+[mentioned] (p.201) “It's necessary for me to tell Tsukishiro, that it wasn't the end of the road for me.” — Ayanokōji.
+[mentioned] (p.202) “Ichinose said that this was the place where Tsukishiro prepared to bury me.” — Ayanokōji.
+[mentioned] (p.204) “It was Acting Director Tsukishiro's.” — Nagumo.
+[mentioned] (p.210) “Since the opponent was Tsukishiro, in the worst-case scenario, Nagumo could lose everything he had built up and be expelled under his name.” — Ayanokōji.
+[mentioned] (p.214) “If I didn't solve the issue of Tsukishiro, I wouldn't be able to open a path to the road of the future.” — Ayanokōji.
+[mentioned] (p.274) “the conversation about what happened in I2. I can't tell her about Tsukishiro.” — Ayanokōji.
 
 ### y2v4 p.252–272 — Tsukishiro's final trap at I2; his defeat
 [scene] (p.252) Waits at I2's tip with Shiba for Ayanokōji — the final trap to “bury” him where there's no watch signal.
@@ -334,6 +353,20 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 [rel:shiba-katsunori] (p.252–270) His accomplice in the trap.
 [rel:amasawa-ichika] (p.272) Disqualifies her for disobeying orders — “no more places to return to.”
 [rel:kiryuin-fuuka] (p.261–270) Third-year who interrupts and holds Shiba.
+
+
+<!-- walk: y2v4 Ch.6 → p.275 -->
+### y2v4 p.278–280 — Tsukishiro after the fight
+[note] (p.278) From what Ayanokōji can see, the only crew member on the boat is the pilot — the trap is dead weight now.
+[note] (p.279) At 8 p.m., Sasaki announces the results; the five withdrawn groups are all third-years — 15 students expelled; Tsukishiro is calm despite the beating he took at I2.
+[note] (p.280–281) Tsukishiro announces: 3rd place — Sakayanagi’s seven-member group, 261 points; 2nd place — Nagumo, 325 points; 1st place — Kōenji, alone, 327 points; a 2-point margin.
+
+
+
+### y2v4 p.282–283 — Tsukishiro mentioned in passing
+[mentioned] (p.282–283) “The battle against Tsukishiro will end here for now, but the” — the afterword (kept as printed).
+
+<!-- walk: y2v4 Epilogue → p.284 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

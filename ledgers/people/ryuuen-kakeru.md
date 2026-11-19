@@ -2220,8 +2220,23 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [mentioned] (p.42) “On the fifth day of the exam, I approached both Ryūen and Sakayanagi with a certain proposal of sorts: to clear specific Tasks together with the help of a ‘select portion’ of the second-year student body.”
 [mentioned] (p.47) “In terms of pure combat power, you could say that Amasawa was even a step above the likes of Sudō and Ryūen.” — Ayanokōji privately compares Amasawa to the likes of Sudō and Ryūen.
 
-<!-- walk: y2v4 Ch.1 → p.50 -->
+### y2v4 p.48, 67, 70, 78, 97, 120, 122, 161, 184, 191, 277, 280 — Ryūen mentioned in passing
+[mentioned] (p.48) “6th Place: Second-Year Group Ryūen – 128 Points” — the printed top-ten.
+[mentioned] (p.67) “I hadn't seen what Ryūen's food situation was like back when I crossed paths with him” — Ayanokōji.
+[mentioned] (p.70) “Even if Ryūen was here right now, I had my doubts that even he would be able to solve her problem.” — Ayanokōji.
+[mentioned] (p.78) “Ibuki has hated me ever since she found out that I was the ‘X’ Ryūen had been looking for.” — Ayanokōji.
+[mentioned] (p.97) “if it was one of the top ten, it was Ryuuen's second year group, Sakayanagi's group, or Utomiya's group and the others in first year.” — narration.
+[mentioned] (p.120) “but it seems that Ryuuen's class is also starting to change little by little.” — Ayanokōji.
+[mentioned] (p.122) “The details of first-year D-class are unknown, but Housen is a person who uses a type of power similar to Ryuuen's to control the class and act.” — Ayanokōji.
+[mentioned] (p.161) “Yes. I was able to contact Ryuuen-kun and Horikita-san. We are progressing smoothly.” — Ayanokōji to Sakayanagi.
+[mentioned] (p.184) “He got into a fight with a boy named Ryuuen from the 2nd class. grade B, and they both got very injured.” — Tsubaki recounting Housen's fight.
+[mentioned] (p.191) “after Housen went into a confrontation with the Ryuuen and was resolved, it was evident in the subsequent search that all the groups withdrew and returned to the special exam.” — Ayanokōji.
+[mentioned] (p.277) “Of course, Ryuuen-kun. Please tell me when the time comes.” — Sakayanagi.
+[mentioned] (p.280) “As for the scores, Ryuuen and Katsuragi's group also fought hard,” — narration.
 
+
+
+<!-- walk: y2v4 Ch.1 → p.50 -->
 ### y2v4 p.168–173 — Ch.5: The one-on-one
 [scene] (p.168) Running vigorously through the forest, Hōsen spots Ryūen on the path ahead; Ryūen blocks his way without effort — one man, alone.
 [says:housen-kazuomi] (p.168) “I found you, Ayanokouji-senpai!”
@@ -2329,9 +2344,8 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:ishizaki-daichi] (p.183) He sends them to the starting point with instructions to swap watches.
 [rel:yamada-albert] (p.183) He sends them to the starting point with instructions to swap watches.
 
+
 <!-- walk: y2v4 Ch.5 → p.190 -->
-
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

@@ -138,8 +138,9 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 [mentioned] (p.121) “Housen was summoned by Takahashi, Yagami, Tsubaki, and Utomiya...” — Nanase's report; the first-years' coalition behind the day-12 play.
 [mentioned] (p.121) “There is also the possibility that someone like Yagami or Takahashi is pulling the strings behind the scenes.” — Ayanokōji.
 
-<!-- walk: y2v4 Ch.4 → p.125 -->
 
+
+<!-- walk: y2v4 Ch.4 → p.125 -->
 ### y2v4 p.141–149 — Ch.5: The insurance tablet
 [scene] (p.141) Yagami approaches the first-years on the morning of day thirteen to pitch his “insurance”: he has a tablet from the same box as Ayanokōji-senpai's, borrowed from a Class B first-year friend — the tracking advantage, offered for free in exchange for his success.
 [says] (p.141) “Tsubaki-san, can we talk?”
@@ -223,10 +224,13 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 [rel:tsubaki-sakurako] (p.151–167) His plan runs on her tablet; he is exasperated by her tactics; she keeps him at arm's length.
 [rel:utomiya-riku] (p.151–167) His Class B ally; they scheme in the same group.
 
+### y2v4 p.184–186 — Yagami mentioned in passing
+[mentioned] (p.184) “Yagami presses her, but Tsubaki looks away and mutters with interest.” — narration.
+[mentioned] (p.185) “When she said that, Yagami also pretended to notice Utomiya's absence.” — narration.
+[mentioned] (p.186) “where Sakurako Tsubaki, Hachi, Takuya Yagami and Utomiya Riku are.” — narration.
+
+
 <!-- walk: y2v4 Ch.5 → p.190 -->
-
-
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

@@ -846,9 +846,10 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y2v4 → start -->
 
+### y2v4 p.4 — Kōenji mentioned in passing
+[note] (p.4) Front-matter name hits only (table of contents): Kōenji's name appears on the TOC page with the chapter titles.
 
-<!-- walk: y2v4 Ch.3 → p.94 -->
-
+<!-- walk: y2v4 Prologue → p.7 -->
 
 ### y2v4 p.42–43, 48–50 — Kōenji mentioned in passing
 [mentioned] (p.42) “Kōenji was indeed amazing, but the truth behind what was going on here was probably a little bit different.”
@@ -861,11 +862,14 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [mentioned] (p.49) “If Kōenji were to maintain his current pace and keep diligently racking up points, he’d end up with a final score of around 350, so if I wanted to bridge the gap, I’d have to earn close to 40 points per day for the rest of the exam.”
 
 
+<!-- walk: y2v4 Ch.1 → p.50 -->
 ### y2v4 p.62, 83 — Kōenji mentioned in passing
 [mentioned] (p.62) “With the way things are going, even if I don't win, I won't have any complaints as long as Kōenji takes first or second.” — Ayanokōji.
 [mentioned] (p.83) “Do you think Nagumo is going to release Kouenji as he is right now?” — Kiryūin to Ayanokōji; the two leads are deadlocked.
-<!-- walk: y2v4 Ch.1 → p.50 -->
 
+
+
+<!-- walk: y2v4 Ch.3 → p.94 -->
 ### y2v4 p.99–102 — Ch.4: Surrounded at dawn; he simply bolts
 [scene] (p.99) Besieged on day eleven by Kiriyama’s group plus six “Free Groups” (18 third-years) mobilized by Nagumo’s reserve corps to stop his top-streak; he hums, takes his tablet, and departs on schedule.
 [says] (p.101) “It's on the move, it's Kouenji!” — Mikitani; tracked in his own ledger.
@@ -961,8 +965,22 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:kiriyama-ikuto] (p.111–115) His siege plan collapses in 15 minutes; Kiriyama concedes the match.
 [rel:mikitani] (p.111–115) The spearhead breaks first; Morooka is hospitalized.
 
-<!-- walk: y2v4 Ch.4 → p.125 -->
 
+
+<!-- walk: y2v4 Ch.4 → p.125 -->
+### y2v4 p.205–213 — Kōenji mentioned in passing
+[mentioned] (p.213) “In order to drop Koenji down to 2nd, isn’t it necessary to continue with the attack until the end?” — the interceptors’ transceiver; Nagumo switched it off.
+[mentioned] (p.205) “Although the fierce Koenji still had a chance of reversing it, this was undoubtedly a tough battle.” — narration.
+[mentioned] (p.206) “Well, he certainly exceeded my expectations, as he was the only one who made me take an offensive move in the exam.” — Nagumo.
+[mentioned] (p.206) “Managing the entire third year to take all the arrival bonus points and the events. This is something only the student council president can do.” — Nagumo.
+[mentioned] (p.207) “All the other years that show off by being in the top 3 ranks will be erased. As a result, Kouenji could only get arrival points.” — Nagumo.
+[mentioned] (p.208) “If Kōenji were to maintain his current pace and keep diligently racking up points, he'd end up with a final score of around 350, so if I wanted to bridge the gap, I'd have to earn close to 40 points per day for the rest of the exam.” — Ayanokōji.
+[mentioned] (p.209) “Kōenji-senpai sure is amazing, isn't he? Giving President Nagumo a run for his money all by himself.” — Nanase (she says this to him).
+[mentioned] (p.212) “in the battle with me, we might be able to see his regretful expression.” — Nagumo.
+
+
+
+<!-- walk: y2v4 Ch.6 → p.275 -->
 ### y2v4 p.281–282 — Kōenji wins first place alone
 [scene] (p.281) Announced 1st place with 327 points (just 2 ahead of Nagumo) — the only group to win alone, hailed by all students.
 [says:horikita-suzune] (p.281) “You really have done it, Kouenji-kun.”
@@ -972,6 +990,10 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [trait] (p.281–282) Wins first alone under the harshest conditions, gaining 300 class points, 1 million private points and a Protection Point; as promised he's granted immunity until graduation (“do whatever he wanted”); remains utterly self-focused, already talking of ascending again, while Horikita celebrates the 300 points toward reaching Class A and warns him not to cause trouble this month.
 [rel:horikita-suzune] (p.281–282) His class leader — their deal grants him freedom; she celebrates the class points but rebukes his “foolishness.”
 [rel:nagumo-miyabi] (p.281) Beat him by 2 points.
+
+
+<!-- walk: y2v4 Epilogue → p.284 -->
+
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

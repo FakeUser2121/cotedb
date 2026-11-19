@@ -1197,21 +1197,32 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [mentioned] (p.42) “On the fifth day of the exam, I approached both Ryūen and Sakayanagi with a certain proposal of sorts: to clear specific Tasks together with the help of a ‘select portion’ of the second-year student body.”
 [mentioned] (p.48) “7th Place: Second-Year Group Sakayanagi – 127 Points” — the printed top-ten.
 
-<!-- walk: y2v4 Ch.1 → p.50 -->
 
+
+<!-- walk: y2v4 Ch.1 → p.50 -->
 ### y2v4 p.55–57 — Sakayanagi mentioned in passing
 [mentioned] (p.56) “Apparently it had gone something like this: somebody from Class 2-A had reached out to Horikita while she was near the starting area earlier today, and they had urged her to meet with Sakayanagi, whereupon she was informed of Komiya and Kinoshita’s retirement.”
 [mentioned] (p.56) “Yes. To be exact, I heard about it today.” — Horikita to Ayanokōji.
 [note] (p.57) She and Horikita negotiated the rescue terms after she relayed the retirements and his proposed strategy for the second-years.
 
-<!-- walk: y2v4 Ch.2 → p.59 -->
+### y2v4 p.59–97 — Sakayanagi mentioned in passing
+[mentioned] (p.59) “Tomorrow, my goal was to maintain an ideal rank and, if possible, meet up with Sakayanagi once again.” — Ayanokōji.
+[mentioned] (p.60) “make it back to the starting area and meet up with Sakayanagi.” — Ayanokōji.
+[mentioned] (p.61) “After deciding to put aside the whole situation with Sakayanagi for the time being, I” — Ayanokōji.
+[mentioned] (p.86) “being a C class sophomore it should now have a deep connection to Class A's Sakayanagi.” — Ayanokōji, hearing the lost girl in the dark.
+[mentioned] (p.88) “Ichinose's class now cooperates with Sakayanagi's class. Of course, there are some friendship groups that transcend these borders, but most of them are created by the agreements of the central nucleus.” — Ayanokōji.
+[mentioned] (p.97) “if it was one of the top ten, it was Ryuuen's second year group, Sakayanagi's group, or Utomiya's group and the others in first year.” — narration.
 
+
+
+<!-- walk: y2v4 Ch.2 → p.59 -->
 ### y2v4 p.93–94 — Sakayanagi mentioned in passing
 [mentioned] (p.93) “If you don't mind, I would like to have a little conversation with Sakayanagi. I would like to ask her if any of the class D students she dealt with have returned to the starting point.” — Ayanokōji asks Takemoto.
 [mentioned] (p.94) “Okay then. Also, Sakayanagi asked me to give this to you,Ayanokoji.” — Takemoto hands over her walkie-talkie.
 
-<!-- walk: y2v4 Ch.3 → p.94 -->
 
+
+<!-- walk: y2v4 Ch.3 → p.94 -->
 ### y2v4 p.159–165 — Ch.5: The second-grade countermove
 [scene] (p.159) On the morning of day thirteen, with Tsubaki setting her plan in motion, Sakayanagi — sipping water, tablet in hand — has already dispatched five groups to freeze the first-years; the night-10 call was her preparation.
 [says] (p.159) “It seems they are on the move.”
@@ -1248,7 +1259,6 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [says] (p.164) “All I have to do is stop the first years who are heading to Ayanokouji-kun, right?”
 [says] (p.164) “It would have been a bit boring exam just to help you complete the task, and besides, this story seems like something that could benefit me.”
 [says:ayanokouji-kiyotaka] (p.164) “What do you mean?”
-[says:ayanokouji-kiyotaka] (p.164) “What do you mean?”
 [says] (p.164) “It means that it is too big a commission for me to pay Takemoto-kun's debt .. In other words, it will be a new ' favor ', right?”
 [says:ayanokouji-kiyotaka] (p.164) “I know it hurts to hear this, but if you get rid of them, I'll owe you a ' favor '”
 [says] (p.164) “It's decided. Well, then I'll get to work on my preparations.”
@@ -1261,9 +1271,19 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:takemoto-shigeru] (p.161–164) Carries her channel into Ayanokōji's group.
 [rel:kitou-hayato] (p.185–189) She sends him to unmask the commander.
 
+
+
 <!-- walk: y2v4 Ch.5 → p.190 -->
+### y2v4 p.191–280 — Sakayanagi mentioned in passing
+[mentioned] (p.191) “Sakayanagi reported that she had left immediately in the afternoon...” — Ayanokōji.
+[mentioned] (p.192) “Good morning, Ayanokouji-kun. You had a lot of problems yesterday.” — Sakayanagi.
+[mentioned] (p.193) “The first designated area is H3. There is not much time, but I think I can do it.” — Sakayanagi.
+[mentioned] (p.195) “According to Sakayanagi, Ichinose should have been in E3 now.” — Ayanokōji.
+[mentioned] (p.270) “The walkie-talkie that Sakayanagi lent me was useful to the end.” — Ayanokōji.
+[mentioned] (p.280) “The students who were sent to detain the freshmen were all outside of Sakayanagi's group.” — narration.
 
 
+<!-- walk: y2v4 Ch.6 → p.275 -->
 ### y2v4 p.276–278 — Sakayanagi's promise; 3rd place
 [says] (p.277) “Of course, Ryuuen-kun. Please tell me when the time comes.”
 [says] (p.277) “I told him that if he asked me for a favor, I would grant it to him.”
@@ -1274,9 +1294,8 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:ryuuen-kakeru] (p.276–277) Her promise bought his cooperation against Hōsen.
 [rel:ayanokouji-kiyotaka] (p.277–278) Thanks him for the GPS-timing help; promises a future chance to compete.
 
+
 <!-- walk: y2v4 Epilogue → p.284 -->
-
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

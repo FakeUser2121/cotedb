@@ -168,8 +168,9 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 [mentioned] (p.38) “For example, some third-year groups moved fairly unusually throughout the day yesterday. Furthermore, these groups are always closely related to Nagumo’s group or Kiriyama’s group. When I looked into it, I noticed something pretty interesting.”
 [mentioned] (p.48) “3rd Place: Third-Year Group Kiriyama – 150 Points” — the printed top-ten.
 
-<!-- walk: y2v4 Ch.1 → p.50 -->
 
+
+<!-- walk: y2v4 Ch.1 → p.50 -->
 ### y2v4 p.95–99 — Ch.4: The plan against Kouenji
 [scene] (p.95) On the tenth day after the test ended, Ikuto Kiriyama, third year of Class B, closes his eyes once after a walkie-talkie call — Kouenji sits atop the podium with 230 points to Nagumo’s 236, six points apart, and Kiriyama, Nagumo’s right hand, quietly closes his eyes at the news.
 [says] (p.95) “Kiriyama. Don’t you think Nagumo's answer is a step backwards? If so, you would have been in a position to take the lead by starting of the second part of the test.” — Mikitani.
@@ -274,8 +275,14 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 [rel:mikitani] (p.110–115) The spearhead breaks first.
 [rel:nagumo-miyabi] (p.109–115) His disappointment; Kiriyama’s counter-plot is revealed to himself — weaken Kouenji’s threat perception, not his score.
 
-<!-- walk: y2v4 Ch.4 → p.125 -->
 
+
+<!-- walk: y2v4 Ch.4 → p.125 -->
+### y2v4 p.207, 280 — Kiriyama mentioned in passing
+[mentioned] (p.207) “the vacant space Vice President Kiriyama left intentionally open was reserved for you.” — Nagumo explains the Beach Flags setup.
+[mentioned] (p.280) “However, it was surprising to see how Kiriyama's group was left standing at the end of” — narration.
+
+<!-- walk: y2v4 Ch.6 → p.275 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

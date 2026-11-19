@@ -82,8 +82,8 @@ char_id: shiranami-chihiro · class: Class 1-B · status: minor (allies)
 [rel:kobashi-yume] (p.86–94) Her groupmate; she was out searching for Kobashi “Yume-chan” when he found her.
 [rel:takemoto-shigeru] (p.87–94) The third of their three-person group; found her with Kobashi.
 
-<!-- walk: y2v4 Ch.3 → p.94 -->
 
+<!-- walk: y2v4 Ch.3 → p.94 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

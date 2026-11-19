@@ -77,8 +77,8 @@ char_id: nishino-takeko · class: Class 1-C · status: minor
 [rel:shiina-hiyori] (p.116–125) Her Class 2-B counterpart.
 [rel:tsube-hitomi] (p.116–125) Her merged groupmate.
 
-<!-- walk: y2v4 Ch.4 → p.125 -->
 
+<!-- walk: y2v4 Ch.4 → p.125 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

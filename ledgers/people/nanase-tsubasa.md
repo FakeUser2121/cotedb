@@ -484,9 +484,6 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 
 <!-- walk: y2v4 → start -->
 
-
-<!-- walk: y2v4 Ch.5 → p.190 -->
-
 ### y2v4 p.8–14 — Ch.1: She guards him; names the slope watcher
 [scene] (p.8) In the rain, sensing the presences behind them, she notices Amasawa at once and points the earlier watcher out.
 [says] (p.9) “Please get behind me, Senpai.”
@@ -517,6 +514,19 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [says:amasawa-ichika] (p.17) “Now then, where oh where should I start~?”
 [scene] (p.17) He motions her away so the rain masks a private conversation; reluctant to leave him alone with Amasawa, she eventually gives in and steps back a few meters away — too far to hear.
 [note] (p.16–17) She does not hear the substance of the White Room reveal; she only sees the two of them standing close in the rain.
+
+### y2v4 p.18, 61, 63, 125, 151, 153, 162, 168, 253, 254 — Nanase mentioned in passing
+[mentioned] (p.18) “Nanase did.” — Ayanokōji's interior confirms she was the one who caught sight of Amasawa fleeing.
+[mentioned] (p.61) “...slightly behind schedule due to what happened with Nanase and the rough patch of weather, I had finally secured the strategic position that I'd been aiming for since the very beginning.” — Ayanokōji.
+[mentioned] (p.63) “However, compared to when I had Nanase accompanying me, I was currently a boy traveling on his own.” — Ayanokōji.
+[mentioned] (p.125) “The information Nanase had risked so much to tell me about the trick of the 12th was empty.” — Ayanokōji.
+[mentioned] (p.151) “Remembering what was heard from Nanase the other day, instinctively. Today is when the first graders are installed.” — Ayanokōji.
+[mentioned] (p.152) “Nanase's words, “If they find you, you will become a victim of violence,” will come true.” — Ayanokōji.
+[mentioned] (p.162) “Ayanokouji explains that Nanase was one of the assassins sent by Tsukishiro, since Sakayanagi knows the story of the Acting Director.” — narration.
+[mentioned] (p.168) “I know Nanase came to see you to gently warn you.” — Hōsen.
+[mentioned] (p.253) “Nanase's defeat to me and going our separate ways. He wanted to act just to make a plan to hide around 11th place targeting higher ranks.” — narration.
+[mentioned] (p.254) “Unlike what happened with Nanase, I don't think my method of evading attacks is going to work.” — Ayanokōji.
+
 
 ### y2v4 p.21–27 — Ch.1: The footprints; she pushes the GPS idea
 [says] (p.21) “Senpai…?”
@@ -577,8 +587,9 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [trait] (p.47–50) She hears the warning (Hōsen, no underestimating Amasawa by gender/age) as a rallying cry and vows to protect him at any cost; he reframes it — her carelessness may cost him; she tears up and promises to be careful.
 [rel:housen-kazuomi] (p.47) Her other group member; he tells her Hōsen is beyond her handling; she concedes it.
 
-<!-- walk: y2v4 Ch.1 → p.50 -->
 
+
+<!-- walk: y2v4 Ch.1 → p.50 -->
 ### y2v4 p.51–54 — Ch.2: Parting at area E3
 [scene] (p.51) After the rain clears by 6:00 AM she tells him she’s all packed; the two walk together to E3, both heading to the same area; on the way they compare notes on Amasawa’s movements.
 [says] (p.52) “Amasawa’s most likely just going to head to the next designated area, right?”
@@ -594,8 +605,9 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [rel:ayanokouji-kiyotaka] (p.51–54) Walks with him; parts at E3 with her own plan to spy on the first-years for him.
 [rel:amasawa-ichika] (p.51–54) Her target; she intends to chase Amasawa with GPS searches and watch the first-years.
 
-<!-- walk: y2v4 Ch.2 → p.59 -->
 
+
+<!-- walk: y2v4 Ch.2 → p.59 -->
 ### y2v4 p.120–122 — Ch.4: 2:30 a.m.; Nanase's warning
 [scene] (p.120) In the middle of the night she slips to his tent — she was working with Hōsen all day; she came straight to him with the leak.
 [says] (p.120) “It's me, Nanase.”
@@ -617,8 +629,9 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [rel:housen-kazuomi] (p.120–121) Pretending to cooperate; holds the walkie-talkie.
 [rel:tsubaki-sakurako] (p.121) The main person on the walkie-talkie.
 
-<!-- walk: y2v4 Ch.4 → p.125 -->
 
+
+<!-- walk: y2v4 Ch.4 → p.125 -->
 ### y2v4 p.126–133 — Ch.5: The tent at day nine; the insult over her figure
 [scene] (p.126) A shadow falls beside Hōsen's tent; she approaches as his groupmate to ask for Housen's help with Ayanokōji-senpai; he mocks her body before listening.
 [says] (p.126) “Good morning, Housen-kun.”
@@ -641,12 +654,14 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [says] (p.128) “It seems we have a visitor.”
 [says] (p.127) “I don't know what you're talking about”,
 [scene] (p.139) After the negotiation concludes, she reveals she stayed to tail him — and asks to be by his side until she learns more from Tsubaki-san.
-[says:housen-kazuomi] (p.139) “That would require repeated GPS searches. He decided that if Tsubaki was going to provide him with all these things, it would be in her best interest to do so.”
+[note] (p.139) This would require repeated GPS searches. He decided that if Tsubaki was going to provide him with all these things, it would be in her best interest to do so.
 [says] (p.139) “Because I want to protect the first year D-class group too. Please let me be by your side until I get more information from Tsubaki-san.”
 [says:housen-kazuomi] (p.139) “Do whatever you want.”
 [trait] (p.126–139) She follows Hōsen relentlessly to tail Tsubaki; Hōsen mocks her body; she stays close to the action — and reports back through the walkie-talkie to Ayanokōji.
 [rel:housen-kazuomi] (p.126–139) Her group leader; he tolerates her shadowing him.
 [rel:tsubaki-sakurako] (p.129–139) Her stakeout target — the information she wants.
+
+<!-- walk: y2v4 Ch.5 → p.190 -->
 
 ## y2v4.5
 

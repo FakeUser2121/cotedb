@@ -734,8 +734,9 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [rel:nishino-takeko] (p.116–125) His groupmate; they trade barbs.
 [rel:tsube-hitomi] (p.116–125) His groupmate from the other class.
 
-<!-- walk: y2v4 Ch.4 → p.125 -->
 
+
+<!-- walk: y2v4 Ch.4 → p.125 -->
 ### y2v4 p.177–183 — Ch.5: The ambusher in the 3-on-1
 [scene] (p.177) Disabled his GPS early as part of Ryūen's plan; he waits behind the trees with Albert; when Hōsen turns, Ishizaki grips his left arm; together they wrench the gorilla down.
 [says:housen-kazuomi] (p.177) “What ─── !?”
@@ -751,8 +752,8 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [rel:yamada-albert] (p.177–183) His co-ambusher.
 [rel:housen-kazuomi] (p.177–183) His target; he restrains him.
 
-<!-- walk: y2v4 Ch.5 → p.190 -->
 
+<!-- walk: y2v4 Ch.5 → p.190 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

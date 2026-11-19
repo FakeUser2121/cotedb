@@ -29,8 +29,8 @@ char_id: isoyama-nagisa · class: unknown · status: unknown
 [rel:nishino-takeko] (p.116–125) His merged groupmate.
 [rel:tsube-hitomi] (p.116–125) His merged groupmate.
 
-<!-- walk: y2v4 Ch.4 → p.125 -->
 
+<!-- walk: y2v4 Ch.4 → p.125 -->
 ## y2v10
 
 <!-- walk: y2v10 → start -->

@@ -33,4 +33,5 @@ char_id: tsube-hitomi · class: unknown · status: unknown
 [rel:shiina-hiyori] (p.116–125) Her Class 2-B groupmate.
 [rel:nishino-takeko] (p.116–125) Her merged groupmate.
 
+
 <!-- walk: y2v4 Ch.4 → p.125 -->

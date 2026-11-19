@@ -93,8 +93,8 @@ char_id: morofuji-rika · class: Class 1-D · status: minor (allies)
 [rel:nishino-takeko] (p.116–125) Her merged groupmate.
 [rel:tsube-hitomi] (p.116–125) Her merged groupmate.
 
-<!-- walk: y2v4 Ch.4 → p.125 -->
 
+<!-- walk: y2v4 Ch.4 → p.125 -->
 ## y2v5
 
 <!-- walk: y2v5 → start -->

@@ -293,12 +293,10 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 p.5–284 — Shibata mentioned in passing
-[note] (p.5–284) Shibata has 0 page hits in y2v4; not present.
+### y2v4 p.5–284 — Shibata not present
+[note] (p.5–284) Page locator found zero matches for Shibata in y2v4; he is not on any page of this volume.
 
-<!-- walk: y2v4 Ch.1 → p.284 -->
-
-
+<!-- walk: y2v4 Prologue → p.7 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

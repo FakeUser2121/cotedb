@@ -184,9 +184,8 @@ char_id: kitou-hayato · class: Class 1-A · status: minor (Sakayanagi faction)
 [rel:utomiya-riku] (p.185–189) He is the first-year gatekeeper; Utomiya attacks him and loses the walkie-talkie.
 [rel:tsubaki-sakurako] (p.189) Her voice leaks over the dropped walkie-talkie; he identifies her as the commander.
 
+
 <!-- walk: y2v4 Ch.5 → p.190 -->
-
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

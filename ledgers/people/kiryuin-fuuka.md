@@ -37,8 +37,6 @@ char_id: kiryuin-fuuka · class: unknown · status: unknown
 
 <!-- walk: y2v4 → start -->
 
-
-
 ### y2v4 p.81–85 — Ch.3: Overlook greeting; the Nagumo game
 [scene] (p.81) On day nine at the designated-area arrival he walks up to her at the overlook; she has jumped from 11th or lower to 9th this morning; she debriefs him on the field.
 [says] (p.81) “You have arrived quite late, Ayanokouji.”
@@ -68,8 +66,9 @@ char_id: kiryuin-fuuka · class: unknown · status: unknown
 [rel:ayanokouji-kiyotaka] (p.81–85) Sizes him up as a genuine competitor; he lies about not aspiring to the top ten.
 [rel:nagumo-miyabi] (p.83–84) Expects the Kōenji–Nagumo game to split at some point.
 
-<!-- walk: y2v4 Ch.3 → p.94 -->
 
+
+<!-- walk: y2v4 Ch.3 → p.94 -->
 ### y2v4 p.261–273 — Kiryūin intervenes at I2
 [scene] (p.261) Appears during the 2-on-1 fight — had watched from behind a tree, deliberately broke her watch so her GPS wouldn't show her approach.
 [says] (p.261) “I wonder what the Acting Director and the classroom teacher do with a student in such a deserted place.”
@@ -82,6 +81,10 @@ char_id: kiryuin-fuuka · class: unknown · status: unknown
 [rel:ayanokouji-kiyotaka] (p.261–272) Intervenes on his behalf, calls him “kouhai,” and helps him win.
 [rel:shiba-katsunori] (p.263–270) Holds him off while Ayanokōji fights Tsukishiro.
 [rel:tsukishiro] (p.261) Confronts the acting director over fighting a student in a deserted place.
+
+
+
+<!-- walk: y2v4 Ch.6 → p.275 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

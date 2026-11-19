@@ -1778,10 +1778,15 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v4 → start -->
 
+### y2v4 p.10, 221 — Sudō mentioned in passing
+[mentioned] (p.10) “While you were gone, I noticed that someone had been watching us from nearby, so I tried chasing after them.” — Nanase names the third-day slope watch; Sudō was elsewhere with the group.
+[mentioned] (p.221) “Is Sudo-senpai okay? Horikita-senpai.” — Amasawa asks.
+
 ### y2v4 p.14, 42, 47 — Sudō mentioned in passing
 [mentioned] (p.14) “If it had been one of the more problematic students like Sudō or Ryūen, who had a history of highly violent behavior, the school might have been more suspicious.” — the school’s suspicion calculus on the cliff attack.
 [mentioned] (p.42) “As an example, certain Class 2-A groups would help Class 2-D with increasing the maximum group size of Sudō’s group, and in exchange we would help them increase the maximum size of one of their own that needed it.”
 [mentioned] (p.47) “While they may have her beat in terms of raw physical strength, she’d definitely be far, far ahead of them when it comes to technique and experience.” — Ayanokōji privately compares Amasawa to the likes of Sudō and Ryūen.
+
 
 <!-- walk: y2v4 Ch.1 → p.50 -->
 ## y2v4.5

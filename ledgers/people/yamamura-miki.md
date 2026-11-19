@@ -167,13 +167,10 @@ char_id: yamamura-miki · class: Class 2-A · status: unknown
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 p.5–284 — Yamamura mentioned in passing
-[note] (p.5–284) Passing mentions; not a distinct scene presence.
-[mentioned] (p.5–284) Passing mention only.
+### y2v4 p.5–284 — Yamamura not present
+[note] (p.5–284) Page locator found zero matches for Yamamura Miki in y2v4; she is not on any page of this volume.
 
-<!-- walk: y2v4 Ch.6 → p.284 -->
-
-
+<!-- walk: y2v4 Prologue → p.7 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

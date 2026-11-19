@@ -904,6 +904,21 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 ## y2v4
 
 <!-- walk: y2v4 → start -->
+
+### y2v4 p.97 — Manabu named in the Kiriyama camp
+[mentioned] (p.97) “The only man Nagumo recognized, the only thing left of Manabu Horikita.” — printed inside the Kiriyama–Mikitani camp scene; the “me” in the preceding “An invisible ghost grabbed me by the shoulders” is not tagged in the print; kept unassigned.
+[note] (p.97) “It's no wonder that Nagumo's eyes, which can see the battlefield with an eagle's eye, are clouded.” — the Horikita chase is the scene's buried motive.
+
+<!-- walk: y2v4 Ch.4 → p.125 -->
+
+### y2v4 p.204 — Nagumo sees Ayanokōji as Manabu's man
+[mentioned] (p.204) “So Nagumo did indeed see me as one of Horikita Manabu’s people.” — Ayanokōji's interior on the beach; Nagumo has just admitted the bounty was Tsukishiro's order and named Ayanokōji “the only man that Horikita-senpai trusted”.
+
+### y2v4 p.209 — The chase behind the fight
+[mentioned] (p.209) “Nagumo, who had been chasing after Horikita Manabu, wanted to see his shadow on me.” — Ayanokōji's interior just before the I2 confrontation.
+
+<!-- walk: y2v4 Ch.6 → p.275 -->
+
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

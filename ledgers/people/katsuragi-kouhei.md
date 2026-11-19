@@ -841,15 +841,17 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 p.183, 280 — Katsuragi mentioned in passing
-[scene] (p.183) Named in the context of the exam.
-[scene] (p.280) Named in the context of the exam results.
-[note] (p.183, 280) Passing mentions; not a distinct scene presence.
-[mentioned] (p.183, 280) Passing mention only.
-
-<!-- walk: y2v4 Ch.6 → p.280 -->
+### y2v4 p.183 — Katsuragi mentioned in passing
+[mentioned] (p.183) “I have left everything they need in the hands of Katsuragi. Although the first three groups have become more difficult to win” — Ryūen to Ishizaki and Albert; Katsuragi holds the plans.
 
 
+
+<!-- walk: y2v4 Ch.5 → p.190 -->
+### y2v4 p.280 — Katsuragi mentioned in passing
+[mentioned] (p.280) The results: 3rd place — Sakayanagi’s seven-member group, 261 points; 2nd place — Nagumo, 325; 1st place — Kōenji alone, 327.
+
+
+<!-- walk: y2v4 Epilogue → p.284 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

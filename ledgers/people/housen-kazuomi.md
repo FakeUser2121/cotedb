@@ -170,24 +170,26 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 
 <!-- walk: y2v4 → start -->
 
-
 ### y2v4 p.15, 47 — Hōsen mentioned in passing
 [mentioned] (p.15) “Since when were you his knight in shining armor? Weren’t you like, plotting to get him expelled together with Hōsen-kun?” — Amasawa needles Nanase about her own alliance.
 [mentioned] (p.47) “You have your other group member, Hōsen, to watch out for as well.” — Ayanokōji warns Nanase.
 
-<!-- walk: y2v4 Ch.1 → p.50 -->
 
+
+<!-- walk: y2v4 Ch.1 → p.50 -->
 ### y2v4 p.53 — Hōsen mentioned in passing
 [mentioned] (p.53) “How do you plan on joining up with Amasawa and Hōsen?” — Nanase asks Ayanokōji about finding both group members.
 
-<!-- walk: y2v4 Ch.2 → p.59 -->
 
+
+<!-- walk: y2v4 Ch.2 → p.59 -->
 ### y2v4 p.120–122 — Ch.4: The feigning cooperator
 [mentioned] (p.120) “Housen-kun told me that on the twelfth day, the first years will make a great play on Ayanokouji-senpai.” — Nanase leaks to Ayanokōji; Housen pretended to cooperate with the first-years to get close to her and never intended to deliver.
 [mentioned] (p.121) Her information: around the ninth day an errand boy from one of the first-year groups showed up with a walkie-talkie and asked for Hōsen's help again — he wants to force Ayanokōji-senpai to withdraw at the end of the exam, and to hunt down and remove seniors performing alone. Specifics will come on the day; Housen holds the walkie-talkie but has no intention of cooperating.
 
-<!-- walk: y2v4 Ch.4 → p.125 -->
 
+
+<!-- walk: y2v4 Ch.4 → p.125 -->
 ### y2v4 p.126–139 — Ch.5: The negotiation; the stalking invitation
 [scene] (p.126) Alone in his tent at 7 a.m. on day nine, Hōsen gets a visit from his groupmate Nanase; he ridicules her body and her "woman's weapon"; she pivots to asking his help against Ayanokōji-senpai.
 [says:nanase-tsubasa] (p.126) “It's me, Nanase.”
@@ -242,8 +244,6 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 [rel:utomiya-riku] (p.128–133) Negotiates over the walkie-talkie; Utomiya warns him not to touch Katagiri.
 [rel:yagami-takuya] (p.136) Utomiya observes the conversation from the walkie-talkie.
 
-
-
 ### y2v4 p.168–183 — Hōsen's trap and his brutal fight with Ryūen
 [scene] (p.167) Pretends to follow Tsubaki's instructions to surround Ayanokōji, intending instead to attack him directly; but Ayanokōji anticipated it (via Nanase), and Ryūen intercepts.
 [says] (p.168) “Housen.”
@@ -256,6 +256,9 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 [rel:ishizaki-daichi] (p.177) Restrains him from behind; part of the 3-on-1 trap.
 [rel:yamada-albert] (p.177) Restrains his dominant arm — a man stronger than Ryūen himself.
 
+
+
+<!-- walk: y2v4 Ch.5 → p.190 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

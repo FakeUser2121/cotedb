@@ -584,8 +584,8 @@ aliases used for anchors: shiina, hiyori, hiyori-san, shiina-hiyori
 [rel:ayanokouji-kiyotaka] (p.123–125) Her private benchmark; he keeps walking with her brother's-group pair down the path.
 [rel:ishizaki-daichi] (p.124–125) Laughs him off; she lets the couple-talk slide.
 
-<!-- walk: y2v4 Ch.4 → p.125 -->
 
+<!-- walk: y2v4 Ch.4 → p.125 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

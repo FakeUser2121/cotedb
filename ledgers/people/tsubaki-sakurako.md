@@ -127,10 +127,9 @@ char_id: tsubaki-sakurako · class: Class 1-C · status: unknown
 [mentioned] (p.121) “I don't know, but Tsubaki was the main person I spoke to on the walkie-talkie.” — Nanase names her as the coordinator.
 [mentioned] (p.121) “I agree with you, because I had the impression that Class C was more focused on Utomiya. But Utomiya and Housen don't get along, and when it comes to arguing, they quickly get into quarrels, so Tsubaki may have been deliberately chosen to act as an intermediary.” — Nanase.
 
+
+
 <!-- walk: y2v4 Ch.4 → p.125 -->
-
-
-
 ### y2v4 p.126–139 — Ch.5: The deal with Hōsen
 [scene] (p.126) On day nine, Tsubaki calls Hōsen on the walkie-talkie to pitch a rescue plan for the sinking first-year groups and an attack on Ayanokōji; Satoru-like Tsubaki stays calm; she intends to sacrifice herself if necessary.
 [says] (p.130) “It's ...... because we need you to save us.” — Tsubaki.
@@ -274,6 +273,10 @@ char_id: tsubaki-sakurako · class: Class 1-C · status: unknown
 [rel:ayanokouji-kiyotaka] (p.151–158) Her siege is broken by his counter-move; he escapes without contact.
 [rel:yagami-takuya] (p.154–158) He watches her panic; she silences him.
 
+### y2v4 p.159–160 — Tsubaki mentioned in passing
+[mentioned] (p.159) “Tsubaki replied a bit dejected, and looked at the tablet again.” — narration.
+[mentioned] (p.160) “Takuya Yagami-kun? Riku Utomiya-kun? and Sakurako Tsubaki-san? I wonder who my adversary is. Or is it the three of them?” — Sakayanagi.
+
 ### y2v4 p.165–167 — Ch.5: "I caught the other group"
 [scene] (p.165) Receiving the news of Hōsen's defeat, Tsubaki mutters in interest; she sees Utomiya is missing; her walkie-talkie is taken by Kitou after his fight with Utomiya; she realizes her plan was a dead end.
 [says:yagami-takuya] (p.165) “It didn't go very well, did it?”
@@ -289,9 +292,8 @@ char_id: tsubaki-sakurako · class: Class 1-C · status: unknown
 [rel:utomiya-riku] (p.165–190) Her one trusted partner; his walkie-talkie is lost to Kitou.
 [rel:kitou-hayato] (p.184–189) He was sent to unmask her; Utomiya drops the walkie-talkie and Kitou reads her voice; the plan dies.
 
+
 <!-- walk: y2v4 Ch.5 → p.190 -->
-
-
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->
