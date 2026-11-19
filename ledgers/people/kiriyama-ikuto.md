@@ -125,22 +125,22 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.78–82 — Kiriyama attends the council meeting and is shaken
-[scene] (p.78–82) He attends Horikita's council meeting; Nagumo probes why he came, and Kiriyama nervously claims he was just interested in Horikita's sister.
-[says] (p.82) “I just was interested in Horikita-senpai's little sister, anything wrong with that?”
-[trait] (p.78–82) Nervous and on edge — the battle with Nagumo is already settled against him.
-[rel:nagumo-miyabi] (p.82) Nagumo probes him; he is shaken.
+### y2v2 p.78–82 — Kiriyama attends
+[scene] (p.78) He has remained silent through the whole interview; then he speaks to Nagumo for the first time.
+[says] (p.78) “She doesn’t look that similar to him, but she really is Horikita-senpai’s little sister!”
+[says] (p.78) “I’m kind of comfortable calling you Horikita. I may have referred to you with that already but I’ll call you Suzune from now on, okay?”
+[note] (p.78) “I was troubled since the only member in the student council from the 2nd year was just Honami.” — speaker untagged by the translation (it continues his paragraph to Nagumo); unassigned as printed.
+[scene] (p.80–82) He attends despite having no 1st/2nd-year applicants to care about; Nagumo clocks it and probes.
+[says] (p.80) “What are you thinking, Nagumo? You would even invite him into the council?”
+[says] (p.80) “It’s a pleasure.”
+[says] (p.82) “…What do you mean?”
+[says] (p.82) “I just was interested in Horikita-senpai’s little sister, anything wrong with that?”
+[trait] (p.78–82) He has given up on overthrowing Nagumo but not on attaching himself to the Horikita name; he is rattled when Nagumo names the real reason he came.
+[rel:nagumo-miyabi] (p.78–82) He serves him, watched.
+[rel:horikita-suzune] (p.78–82) He attaches to her arrival; calls her Suzune from now on.
+[rel:ayanokouji-kiyotaka] (p.80–82) He is shaken to see AK inside.
 
 <!-- walk: y2v2 Ch.2 → p.82 -->
-
-### y2v2 p.272–278 — Kiriyama warns Ayanokōji about Horikita
-[scene] (p.272–278) He meets Ayanokōji and warns him not to interfere with Nagumo; he reveals he wanted to battle Nagumo personally but has given up; Horikita appears and he warns about her involvement.
-[says] (p.274) “I don't want you to get in my way.”
-[trait] (p.272–278) Defeated and cautious — he advises Ayanokōji to stay out of Nagumo's way.
-[rel:ayanokouji-kiyotaka] (p.272–278) He warns him about Horikita and Nagumo.
-
-<!-- walk: y2v2 Ch.4 → p.278 -->
-
 ## y2v3
 
 <!-- walk: y2v3 → start -->

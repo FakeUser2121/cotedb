@@ -7767,6 +7767,223 @@ walk: y1v1 → DONE
 [rel:sudou-ken] (p.54–63) Trusts him; he stays silent on the Housen fight.
 
 <!-- walk: y2v2 Ch.1 → p.63 -->
+### y2v2 p.65–74 — The OAA update and the 20-million bounty
+[scene] (p.65) May 2nd: he waits at the lobby for Horikita; two weeks have passed since the summons; he re-opens the just-updated OAA app (2nd-year values).
+[note] (p.66) His second-year evaluation printed: Academics A- (81), Physical Ability B- (61), Adaptability D+ (40), Social Contribution B (68), Overall B- (62); total 386; the class's biggest climber is Sudō (Academics C 54, Physical A+ 96, Adaptability C- 42, Social Contribution C+ 60, Overall B- 63, up from a 1st-year 47); Sudō now outscores Keisei and Akito in the aggregate.
+[scene] (p.67–69) Horikita arrives a little early; they walk to school; the attention has mostly died down; the talk turns to the 20-million-point bounty.
+[says:horikita-suzune] (p.67) “Thanks again. Because of your quick-witted speech, I didn’t need to be baptized under the attentive eyes of my classmates for this to end. It left a similar impression in the other classes as well.”
+[says:horikita-suzune] (p.67) “It’s nothing; I just thought that it would be good for the class in the future. If I said that you were the one who took the liberty of holding back, you’d be disliked, wouldn’t you? By the way, what would you have done if I hadn’t been there at the time?”
+[says] (p.67) “Who knows what I would have done.”
+[says] (p.68) “It’s slowly recovering. It’s going to take a while, but it’s not that big of a deal since it’s not my dominant hand.”
+[says:horikita-suzune] (p.68) “Is your left hand alright now?”
+[says] (p.68) “Not at all. I passed by Housen and Nanase once, but I didn’t say anything.”
+[says:horikita-suzune] (p.68) “They hadn’t come to offer an apology, but at least they’re aware that they’ve done something bad.”
+[says] (p.68) “Who knows, it doesn’t feel like they did.”
+[says:horikita-suzune] (p.68) “Both of them?”
+[says] (p.68) “Yeah.”
+[says:horikita-suzune] (p.68) “That, if someone gets you expelled, they get 20 million points, is that true?”
+[says] (p.68) “I don’t have any proof at the moment. But, if there wasn’t a reward for it, nobody would do something like that.”
+[says] (p.69) “It’ll be clear soon enough if it’s true or not.”
+[says:horikita-suzune] (p.69) “But that’s- that’s not a good development. Although the exam was unreasonable, if it’s a special exam, all four classes should know about it, right?”
+[says] (p.69) “Nanase said so too. In order to make us alert of all the other classes.”
+[says:horikita-suzune] (p.69) “Class A’s Amasawa-san… Although we’re indebted to her since she teamed up with Sudo, she definitely joined Housen-kun, right?”
+[says:horikita-suzune] (p.69) “That’s as far as I’ve noticed.”
+[says:horikita-suzune] (p.69) “That’s a bit weird… Even if I’m trying to be polite here, Housen-kun shouldn’t be that popular in the first year. Could they really ignore him while he confidently snatches those points away?”
+[says] (p.70) “What do you think is the reason why the first years don’t share information between them?”
+[says:horikita-suzune] (p.70) “Yes… If the entire grade was told about the special exam of getting you expelled, there is a high probability that the 2nd and 3rd years will hear about it in a matter of time, not only just the 1st years. Hearing about this unreasonable special exam, our class would surely do everything we could do to fight back. So they did it in a way to prevent us from knowing about it, right?”
+[says] (p.70) “Did the school really approve of such an unreasonable special exam…”
+[says:horikita-suzune] (p.70) “Yes. Although I tried to confirm it with Chabashira-sensei tactfully, she didn’t show signs she knew about it.”
+[says] (p.71) “The other possibility is that it wasn’t really a special exam. In other words, someone offered to pay 20 million private points in order to get me expelled, and thus inciting the first years to go and do it.”
+[says:horikita-suzune] (p.71) “I see. It would make sense if an individual set the bounty on you.”
+[says:horikita-suzune] (p.71) “In other words, there’s someone in the same or a higher grade that had prepared that many points?”
+[says] (p.71) “Although we can’t rule out the chance that this was a game set up by a first year, I don’t think they have the trust or the capital to make a deal under those conditions because they’ve just entered school, so the probability for that is low.”
+[note] (p.71) “Someone who can pay 20 million points, and is also trusted by the first years.” — his inner line; printed in quotes, speaker is himself.
+[says:horikita-suzune] (p.71) “–The student council president.”
+[says:horikita-suzune] (p.71) “Could it be that President Nagumo might have something to do with this?”
+[says] (p.71) “How would that work? It’s true that he doesn’t like me, but using such a large amount of points as 20 million all to get me expelled? I have many doubts about that. And using 1st-year students of unknown ability in itself is extremely strange.”
+[says] (p.72) “But, there might be a chance that it has nothing to do with him.”
+[note] (p.72) “Without realizing it, maybe you aroused Nagumo’s jealousy. President Nagumo had always been interested in brother’s affairs, because he had always been only interested in your affairs. Even if he has complicated feelings like me, it’s not strange.” — the translation leaves the speaker and the referent of “brother”/“your affairs” untagged and unresolvable on page; recorded as printed, speaker unassigned.
+[says:horikita-suzune] (p.72) “Although it’s a bit late, this is the topic of today’s conversation with you. I’m preparing after school to go to the student council, and ask President Nagumo about joining it.”
+[says] (p.72) “I see.”
+[says:horikita-suzune] (p.72) “But if I can’t get Nagumo’s approval, it’s not my responsibility.”
+[says] (p.72) “As I told you before, the president won’t reject anyone who comes to him.”
+[says:horikita-suzune] (p.72) “…You did say that.”
+[says:horikita-suzune] (p.72–73) “The reason why you wanted me to join the student council… It was so I … could spy on President Nagumo, but actually, that’s not the only reason, right?”
+[says] (p.73) “I think you already slightly noticed. What your brother thinks is completely different from what Nagumo thinks. It’s because he values tradition that he thinks Nagumo’s reforms are wrong. He said it to me right before he left. The class is a community that should share the same fate. He didn’t want the framework to be changed.”
+[says] (p.73) “But I’m not going to judge who’s right and who’s wrong. Now, I just want to see Nagumo’s reforms.”
+[says:horikita-suzune] (p.73) “So that’s why you won’t give me specific instructions?”
+[says] (p.73) “Mhm.”
+[says:horikita-suzune] (p.73) “Then why do you need me to join, if the only thing you want is to see Nagumo’s reforms? There’s no need for me to monitor the student council at all, then!”
+[says] (p.73) “If Nagumo is going in the wrong direction, there’s a need to stop him.”
+[says:horikita-suzune] (p.73) “There’s still some things I’m not satisfied with, but I’ll put it as convenient.”
+[says:horikita-suzune] (p.74) “I don’t think it’s good for me to ask anything of you since I lost the match, but will you come with me?”
+[says] (p.74) “Come with you?”
+[says:horikita-suzune] (p.74) “Well, I’d like to show you using the meeting with Nagumo as evidence.”
+[says:horikita-suzune] (p.74) “If President Nagumo has something to do with that bounty, we might also see some kind of reaction.”
+[says] (p.74) “I see. After school, then?”
+[trait] (p.65–74) Reads the OAA like a ledger; weighs the bounty's possibilities — special exam vs private contract vs scam — in sequence, never landing on one until Horikita lands on Nagumo.
+[rel:horikita-suzune] (p.65–74) They walk and reason together; she commits to the council; he gets her in the room for him.
+[rel:nagumo-miyabi] (p.71–74) Suspected of the bounty by elimination; the cold open of the duel.
+[rel:chabashira-sae] (p.70) She shows no sign of knowing about the bounty.
+[rel:nanase-tsubasa] (p.68–72) She is the source of the second-special-exam intelligence; her silence reads as complicity.
+
+### y2v2 p.75–82 — The student council meeting
+[scene] (p.75) Both go to the office; Nagumo welcomes her; the two council members react similarly (surprise without welcome or rejection).
+[says:horikita-suzune] (p.75) “I know that your time is valuable, president, so I’ll get straight into it. I want to join the student council.”
+[says:nagumo-miyabi] (p.75) “Well, what a turn of events! I don’t really want to obediently say yes.”
+[says:horikita-suzune] (p.75) “So I’m not welcome to join you?”
+[says:nagumo-miyabi] (p.75) “Not really, I’m basically one of those people who can’t refuse. As long as there’s space in the student council, I’ll allow people to join. I won’t even care about your reason for joining the council. It doesn’t matter if it’s for the OAA, or wanting to assume a post in the future, or maybe you just have a sense of righteousness. I don’t really care.”
+[says:nagumo-miyabi] (p.76) “But then again, you’re special, Horikita Suzune. Let me at least mention one condition for your membership.”
+[says:horikita-suzune] (p.76) “What condition?”
+[says:nagumo-miyabi] (p.76) “Why do you choose to join the student council at this time? Would you please tell me that?”
+[says:horikita-suzune] (p.76) “I had an argument with my brother in the past, and so I chose to enter this school to settle them. But my relationship with my brother hasn’t changed since I’ve entered this school.”
+[says:horikita-suzune] (p.76) “My brother couldn’t possibly approve of me who hadn’t grown in the slightest. As a result, I hadn’t spoken to him properly this year, at least up until his graduation.”
+[says:nagumo-miyabi] (p.76) “And then? Have you reconciled?”
+[says:horikita-suzune] (p.76–77) “Yes. At the very last second, I’ve reconciled with him. And then, for the first time, I became interested in the student council that my brother devoted … his school life to. Although I’ve taken a long detour, I also want to walk the same path my brother has.”
+[says:nagumo-miyabi] (p.77) “The road brother took, it really is a nice story.”
+[says:nagumo-miyabi] (p.77) “In other words, can I assume that you have the intention to become the student council president?”
+[says:horikita-suzune] (p.77) “That’s right. Just like the road my brother walked, I also want to become student council president.”
+[says:nagumo-miyabi] (p.77) “I see. But Honami has been working hard behind the scenes for a year as a member of the student council. You’re already a year behind her in your quest in becoming the student council president. You can understand that, right?”
+[says:horikita-suzune] (p.77) “I don’t think it’s a distance that can’t be recovered.”
+[says:kiriyama-ikuto] (p.78) “She doesn’t look that similar to him, but she really is Horikita-senpai’s little sister!”
+[says:kiriyama-ikuto] (p.78) “I’m kind of comfortable calling you Horikita. I may have referred to you with that already but I’ll call you Suzune from now on, okay?”
+[says:horikita-suzune] (p.78) “Do as you wish.”
+[note] (p.78) “I was troubled since the only member in the student council from the 2nd year was just Honami.” — speaker untagged by the translation (it follows Horikita's “Do as you wish.” in Kiriyama's paragraph); unassigned, recorded as printed.
+[says:nagumo-miyabi] (p.78) “Welcome to the student council. From today onward, I want you to work for me as a member of the council without any worries, Suzune.”
+[says:horikita-suzune] (p.78) “Of course.”
+[says:nagumo-miyabi] (p.78) “As a congratulations for joining, I’ll tell you something interesting. The past presidents of the student council have always graduated in Class A. Remember that and work towards a higher goal.”
+[says:horikita-suzune] (p.80) “Don’t worry. I don’t plan to graduate outside of Class A.”
+[says:nagumo-miyabi] (p.80) “Then show me that isn’t just all talk.”
+[says:kiriyama-ikuto] (p.80) “It’s a pleasure.”
+[says:nagumo-miyabi] (p.80) “Are you going to join the student council by the way? Ayanokouji.”
+[says:kiriyama-ikuto] (p.80) “What are you thinking, Nagumo? You would even invite him into the council?”
+[says:nagumo-miyabi] (p.80) “It’s nothing strange. He had the attention of Horikita-senpai after all. I don’t have a reason to refuse him. And in the special test the other day he was the only one who got a perfect score in a subject.”
+[says] (p.81) “I’ll pass, my personality isn’t suited to being on the council.”
+[says:nagumo-miyabi] (p.81) “I knew you would say that.”
+[says:nagumo-miyabi] (p.81) “Ayanokouji.”
+[says:nagumo-miyabi] (p.81) “There’s a lot more work in the student council than I thought , but everything has started to calm down now, so when summer starts, I’ll spend my time with my kouhais.”
+[says:nagumo-miyabi] (p.81) “I’ll play with you, so look forward to it.”
+[says:nagumo-miyabi] (p.82) “By the way, Kiriyama, why did you get involved with this today?”
+[says:kiriyama-ikuto] (p.82) “…What do you mean?”
+[says:nagumo-miyabi] (p.82) “When the 1st and 2nd years requested to enter the student council you had no intention to attend. But this time when Horikita Suzune said she wanted to meet me, you showed up. It’s weird isn’t it?”
+[says:kiriyama-ikuto] (p.82) “I just was interested in Horikita-senpai’s little sister, anything wrong with that?”
+[says:nagumo-miyabi] (p.82) “It’s nothing, nothing. Don’t mind it.”
+[says:nagumo-miyabi] (p.82) “Then, Suzune, I want to introduce you to the student council members outside of Kiriyama. You stay right here.”
+[says:horikita-suzune] (p.82) “I understand.”
+[note] (p.81–82) Nagumo has evidently already read 2nd-year results; he voices no suspicion of Ayanokōji's interest — he simply extends the invitation and then dismisses it with one look.
+[trait] (p.75–82) Declines the council; reads Nagumo's “play with you” as an order, not a joke.
+[rel:nagumo-miyabi] (p.75–82) He invites him, then dismisses the answer in one breath.
+[rel:kiriyama-ikuto] (p.75–82) He studies him; he is shaken by the vice-president's attendance.
+
+### y2v2 p.83–92 — Kei's visit; the near-kiss
+[scene] (p.83–84) After the council he checks his phone and replies to Kei's hang-out proposal; he tells her to come over after twenty minutes, with the usual precautions.
+[says:karuizawa-kei] (p.84) “’I’ll come!”
+[says:karuizawa-kei] (p.84) “Is it alright if I come now!?”
+[says:karuizawa-kei] (p.85) “I’m coming in!”
+[says:karuizawa-kei] (p.85) “I really panicked when I saw the elevator stop at the 4th floor~!”
+[says:karuizawa-kei] (p.85) “I know that…”
+[says] (p.85) “That’s good.”
+[says] (p.86) “Do you want something to drink?”
+[says:karuizawa-kei] (p.86) “I’ll do it.”
+[says:karuizawa-kei] (p.86) “That’s a surprise, what made you want to do it? You wouldn’t normally do this.”
+[says:karuizawa-kei] (p.86) “It’s hard when your left hand is injured, right? Look, even I know how to boil water!”
+[says:karuizawa-kei] (p.87) “Ok. I’ll have black tea, what would you like, Kiyotaka?”
+[says] (p.87) “Then… I’ll have the same, Kei.”
+[says:karuizawa-kei] (p.87) “You don’t have any faith in me, do you?”
+[says] (p.87) “…I see, then I’ll have a cup of coffee.”
+[says:karuizawa-kei] (p.87) “Leave it to me! Isn’t it in that cabinet over there?”
+[scene] (p.87–91) They study (as cover); trivial talk; the conversation thins; the mood changes; the kiss nearly happens; the entrance doorbell rings.
+[says:karuizawa-kei] (p.87) “By the way, I was thinking of telling you this when we met, but Kiyotaka, you have a big responsibility.”
+[says:karuizawa-kei] (p.87) “Because you’ve gotten a full score in math, it’s become harder for me to come out with the dating thing.”
+[says] (p.88) “Who knows what would happen if we publicize that we’re dating now…”
+[says:karuizawa-kei] (p.88) “So is this situation going to continue as it is for a while?”
+[says:karuizawa-kei] (p.88) “It can’t be helped… It’s annoying, making it feel like I’m dating you because of your status.”
+[says] (p.88) “Is it bad to date someone for status?”
+[says:karuizawa-kei] (p.88) “No, I’m not saying it’s bad either…”
+[says] (p.88) “Like dating a cute girl is a symbol of status for guys, right? Wouldn’t it be a little too harsh to ask for people not to want that?”
+[says:karuizawa-kei] (p.88) “A-am I cute?”
+[says] (p.88) “Would you want to date someone who’s not cute?”
+[says:karuizawa-kei] (p.89) “Ahhh… me too, I also think you’re super handsome, Kiyotaka.”
+[says:karuizawa-kei] (p.89) “Ahhh… me too, I also think you’re super handsome, Kiyotaka.”
+[scene] (p.90–92) An indoor date; talk winds down; they drift toward each other; one breath from kissing; the doorbell rings.
+[says:karuizawa-kei] (p.91) “Ah, eh, the door…?”
+[rel:karuizawa-kei] (p.83–92) Their near-kiss is interrupted by the call; the secret stays sealed for another day.
+
+### y2v2 p.92–108 — Amasawa's intrusion
+[scene] (p.92–94) Peephole: red hair and a sweet voice; it's Amasawa; he opens the door.
+[says:amasawa-ichika] (p.93) “Senpai~ … It’s me~”
+[says:amasawa-ichika] (p.94) “How did you get into the dormitory?”
+[says] (p.94) “There was another senpai who was returning, so I went in with him. I thought I’d give you a surprise.”
+[says] (p.94) “And?”
+[says:amasawa-ichika] (p.94) “Is your hand alright now? I was worried so I came to see you.”
+[says:amasawa-ichika] (p.94) “This, can you unlock it for me?”
+[says] (p.94) “It’s late in the evening already, so can we talk tomorrow? It’ll be a problem bringing in a kouhai in my room without any reason.”
+[says:amasawa-ichika] (p.94) “Senpai, you look like you are alone anyway, so cook for me.”
+[says:amasawa-ichika] (p.95) “I have that right, right? The thing about teaming up with Sudou-senpai, you haven’t forgotten about that have you?”
+[says] (p.95) “I’m sorry, but I ran out of ingredients. There’s nothing in the fridge.”
+[says:amasawa-ichika] (p.95) “Eeeh—— Is that so—? You should have reserves~”
+[says] (p.95) “If it has to be today, how about I go and get ready now, and we can buy the ingredients together?”
+[says:amasawa-ichika] (p.95) “I see, you don’t have any ingredients~That’s too bad~”
+[says:amasawa-ichika] (p.97) “Did you lie to me because you didn’t want me to come into the room?”
+[says:amasawa-ichika] (p.97) “Senpai is not alone right?”
+[says] (p.98) “Why do you think that?”
+[says:amasawa-ichika] (p.98) “Because~ I saw it. I’ve been watching Karuizawa-senpai all the time since she came back to the dormitories~”
+[says:amasawa-ichika] (p.98) “From the fact that you’ve hidden your girlfriend’s shoes, were you two doing lewd things?”
+[says] (p.98) “It was just a precaution because we didn’t tell anyone that we were dating yet.”
+[says:amasawa-ichika] (p.98) “Ah, are you finally admitting it? Well, it’s not like I don’t understand your feelings of wanting to hide it, but I know about it already, so there’s no need to lie to me, OK?”
+[says:amasawa-ichika] (p.98) “I kept it a secret for now out of goodwill… But, I wonder if I shall reveal it?”
+[says] (p.99) “Hold on, I’ll unlock the door.”
+[says:amasawa-ichika] (p.99) “Okay~”
+[says:amasawa-ichika] (p.99) “This isn’t good, a young couple alone with the door locked~”
+[says:amasawa-ichika] (p.99) “Well~ that’s true. But when I look at you two, I feel something lewd between you.”
+[says:amasawa-ichika] (p.99) “Your clothes aren’t messy, and the bed is tidy, so it doesn’t look like you were doing anything.”
+[says:karuizawa-kei] (p.100) “Well isn’t that normal! Anyway, why did you come here all of a sudden!”
+[says:amasawa-ichika] (p.100) “I thought you would have an illicit sexual relationship for sure… I mean having sex.”
+[says] (p.100) “That’s something forbidden by the school rules.”
+[says:amasawa-ichika] (p.101) “If you go to the convenience store there are contraceptives. In fact I tried to buy it once, and the employee pretended not to see. Well, if everything is forbidden and a young guy goes berserk…and it results in a pregnancy, that would be the real problem, right?”
+[says:amasawa-ichika] (p.101) “Take this as a gift from me… No, take it as an apology.”
+[says] (p.101) “I don’t remember you having anything to apologize for.”
+[says:amasawa-ichika] (p.101) “Quit playing dumb, the wound on your hand, I had a part in that right? Because I teamed up with Housen.”
+[says] (p.102) “Is…that so?”
+[says:amasawa-ichika] (p.102) “Ayanokouji-senpai, I think you’re misunderstanding me a bit?”
+[says] (p.102) “Misunderstand?”
+[says:amasawa-ichika] (p.102) “I’m not Ayanokouji-senpai’s enemy.”
+[says:amasawa-ichika] (p.102) “Is that so? Just because I shared my knowledge out to Housen-kun from the sidelines?”
+[says:amasawa-ichika] (p.102) “Let me guess what senpai is thinking about now. I played a part in Housen’s plan to get you expelled, which raised the possibility of your expulsion. That’s why you think it’s ridiculous for someone like that to say that they were not an enemy. Is that right? I’ve been underestimated by senpai.”
+[says] (p.102) “I don’t remember underestimating you. I’ve made a full evaluation of you.”
+[says:amasawa-ichika] (p.102) “Really? I don’t think so.”
+[says:karuizawa-kei] (p.102–103) “Wa-wait a minute. You said you were going to get Kiyotaka expelled… What does that mean?”
+[says:amasawa-ichika] (p.103) “Ayanokouji-senpai, haven’t you told your girlfriend about that? Then what about the 20 million point bounty?”
+[says:karuizawa-kei] (p.103) “W-what!? You said 20 million?”
+[says:amasawa-ichika] (p.103) “Let your boyfriend tell you the details later, alright, senpai?”
+[says:amasawa-ichika] (p.103) “Housen-kun and I wanted to use that knife to get senpai expelled——And the reason why senpai noticed this was because you went shopping with me, right?”
+[says:amasawa-ichika] (p.104) “How considerate of you.”
+[says:amasawa-ichika] (p.104) “Because senpai suddenly had a bounty for his head, and I thought that it was a pity that you would be expelled without even knowing the situation.”
+[says:amasawa-ichika] (p.104) “Ahh——My mouth is a little dry~. I’d like some coffee or something.”
+[says] (p.105) “Go make a cup of coffee for Amasawa.”
+[says:karuizawa-kei] (p.105) “…I’ll do it.”
+[says:amasawa-ichika] (p.105) “Sugar and milk as well please~”
+[says:karuizawa-kei] (p.105) “Argh! I got it, I got it!”
+[says:amasawa-ichika] (p.105) “Don’t put garbage or sewage into my coffee because you don’t like me.”
+[says:karuizawa-kei] (p.105) “I wouldn’t do anything of the sort!”
+[says:amasawa-ichika] (p.106) “Isn’t it alright? Just a little bit”
+[says:karuizawa-kei] (p.106) “Not at all!”
+[says:amasawa-ichika] (p.106) “Senpai’s girlfriend… seems to have a habit of being angry.”
+[says:karuizawa-kei] (p.106) “Here. You. Are!”
+[says:amasawa-ichika] (p.106) “Thank you, Karuizawa-senpai~”
+[says:amasawa-ichika] (p.107) “Well, I’ve already given you my condolence gift, so it’s time for me to go back. Please feel free to use the ingredients.”
+[says:karuizawa-kei] (p.107) “Huh? What do you mean? Not drinking? You told me to make it though?!”
+[says:amasawa-ichika] (p.107) “I don’t mind relaxing here, but how about you?”
+[says:karuizawa-kei] (p.107) “That…fine…go home.”
+[says:amasawa-ichika] (p.107) “That’s what I thought~ Then I’ll go now~”
+[says:karuizawa-kei] (p.107) “Kiyotaka! What’s wrong with that kid!”
+[says] (p.107) “I’d like to know that too.”
+[says:karuizawa-kei] (p.107) “…Made me so mad!”
+[says:karuizawa-kei] (p.107) “Explain, what exactly is the 20 million point bounty, and does it have anything to do with your injury?”
+[rel:amasawa-ichika] (p.93–108) She forces her way in, drops the contraceptive on the table, and extracts the 20-million bounty confirmation from Kei.
+[rel:karuizawa-kei] (p.83–108) Their secret relationship is now known to Amasawa.
+
+<!-- walk: y2v2 Ch.2 → p.108 -->
 ## y2v3
 
 <!-- walk: y2v3 → start -->

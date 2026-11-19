@@ -1972,6 +1972,53 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:sudou-ken] (p.20) She cites his OAA jump to corner Miyamoto.
 
 <!-- walk: y2v2 Ch.1 → p.39 -->
+
+### y2v2 p.83–92 — Kei's visit; the near-kiss
+[scene] (p.83–84) He replies to her messages at the student council exit; she races to his room; shoes hidden in the closet; the signal chain locked.
+[says] (p.84) “’I’ll come!”
+[says] (p.84) “Is it alright if I come now!?”
+[says] (p.85) “I’m coming in!”
+[says] (p.85) “I really panicked when I saw the elevator stop at the 4th floor~!”
+[says] (p.85) “Whew… I’m relieved.”
+[says] (p.86) “I’ll do it.”
+[says] (p.86) “That’s a surprise, what made you want to do it? You wouldn’t normally do this.”
+[says] (p.86) “It’s hard when your left hand is injured, right? Look, even I know how to boil water!”
+[says] (p.86) “Ok. I’ll have black tea, what would you like, Kiyotaka?”
+[says] (p.87) “You don’t have any faith in me, do you?”
+[says] (p.87) “Leave it to me! Isn’t it in that cabinet over there?”
+[scene] (p.87–89) Tea becomes café-au-lait; they study as cover; the chit-chat thins; the room changes temperature.
+[says] (p.87) “By the way, I was thinking of telling you this when we met, but Kiyotaka, you have a big responsibility.”
+[says] (p.87) “Because you’ve gotten a full score in math, it’s become harder for me to come out with the dating thing.”
+[says] (p.88) “It can’t be helped… It’s annoying, making it feel like I’m dating you because of your status.”
+[says] (p.88) “No, I’m not saying it’s bad either…”
+[says] (p.88) “A-am I cute?”
+[says] (p.89) “Ahhh… me too, I also think you’re super handsome, Kiyotaka.”
+[scene] (p.90–92) They drift into each other; one breath from kissing; the entrance doorbell breaks it.
+[says] (p.91) “Ah, eh, the door…?”
+[note] (p.85–92) The near-kiss is interrupted by Amasawa; their secret stays unbroken this time; the risk-counter (the 1-in-10,000) stays on the books.
+[rel:ayanokouji-kiyotaka] (p.83–92) She measures the distance to “us” and almost crosses it.
+
+### y2v2 p.92–108 — Amasawa in the room with them
+[scene] (p.92–99) The doorbell rings; she watches him unlock the door for the kouhai; Amasawa sweeps in; her shoes argument; she is forced to serve coffee.
+[says] (p.98) “It was just a precaution because we didn’t tell anyone that we were dating yet.”
+[scene] (p.100–108) Amasawa probes the couple; the contraceptive is produced; the 20-million bounty drops on the table; Kei panics and hears it all.
+[says] (p.100) “Well isn’t that normal! Anyway, why did you come here all of a sudden!”
+[says] (p.102–103) “Wa-wait a minute. You said you were going to get Kiyotaka expelled… What does that mean?”
+[says] (p.103) “W-what!? You said 20 million?”
+[says] (p.105) “…I’ll do it.”
+[says] (p.105) “Argh! I got it, I got it!”
+[says] (p.105) “I wouldn’t do anything of the sort!”
+[says] (p.106) “Not at all!”
+[says] (p.106) “Here. You. Are!”
+[says] (p.107) “Huh? What do you mean? Not drinking? You told me to make it though?!”
+[says] (p.107) “Kiyotaka! What’s wrong with that kid!”
+[says] (p.107) “…Made me so mad!”
+[says] (p.107) “Explain, what exactly is the 20 million point bounty, and does it have anything to do with your injury?”
+[trait] (p.92–108) She hates Amasawa openly; her panic at the bounty is real; she is dragged into the open for the first time.
+[rel:amasawa-ichika] (p.92–108) The kouhai who ruins the evening on purpose.
+[rel:ayanokouji-kiyotaka] (p.92–108) He gives her the outline after Amasawa leaves; the trust is forced forward.
+
+<!-- walk: y2v2 Ch.2 → p.108 -->
 ## y2v3
 
 <!-- walk: y2v3 → start -->

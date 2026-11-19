@@ -4947,6 +4947,65 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [rel:karuizawa-kei] (p.37) She covers for her without being asked.
 
 <!-- walk: y2v2 Ch.1 → p.38 -->
+
+### y2v2 p.65–74 — Walking to school; the council decision
+[scene] (p.65) He waits at the lobby as arranged; she arrives a little early; they walk to school and pick apart the second-year OAA.
+[scene] (p.67–69) They compare notes on who could know about the bounty; she suspects the 1st years she does know; she gives him the credit for being the bait.
+[says] (p.67) “Thanks again. Because of your quick-witted speech, I didn’t need to be baptized under the attentive eyes of my classmates for this to end. It left a similar impression in the other classes as well.”
+[says] (p.67) “It’s nothing; I just thought that it would be good for the class in the future. If I said that you were the one who took the liberty of holding back, you’d be disliked, wouldn’t you? By the way, what would you have done if I hadn’t been there at the time?”
+[says] (p.68) “Is your left hand alright now?”
+[says] (p.68) “They hadn’t come to offer an apology, but at least they’re aware that they’ve done something bad.”
+[says] (p.68) “Both of them?”
+[says] (p.68) “That, if someone gets you expelled, they get 20 million points, is that true?”
+[says] (p.69) “But that’s- that’s not a good development. Although the exam was unreasonable, if it’s a special exam, all four classes should know about it, right?”
+[says] (p.69) “Class A’s Amasawa-san… Although we’re indebted to her since she teamed up with Sudo, she definitely joined Housen-kun, right?”
+[says] (p.69) “That’s as far as I’ve noticed.”
+[says] (p.69) “That’s a bit weird… Even if I’m trying to be polite here, Housen-kun shouldn’t be that popular in the first year. Could they really ignore him while he confidently snatches those points away?”
+[says] (p.70) “Yes… If the entire grade was told about the special exam of getting you expelled, there is a high probability that the 2nd and 3rd years will hear about it in a matter of time, not only just the 1st years. Hearing about this unreasonable special exam, our class would surely do everything we could do to fight back. So they did it in a way to prevent us from knowing about it, right?”
+[says] (p.70) “Yes. Although I tried to confirm it with Chabashira-sensei tactfully, she didn’t show signs she knew about it.”
+[says] (p.71) “I see. It would make sense if an individual set the bounty on you.”
+[says] (p.71) “In other words, there’s someone in the same or a higher grade that had prepared that many points?”
+[says] (p.71) “–The student council president.”
+[says] (p.71) “Could it be that President Nagumo might have something to do with this?”
+[note] (p.72) “Without realizing it, maybe you aroused Nagumo’s jealousy. President Nagumo had always been interested in brother’s affairs, because he had always been only interested in your affairs. Even if he has complicated feelings like me, it’s not strange.” — speaker untagged by the translation (Nagumo's name precedes it; Horikita's rapport with Ayanokōji says this is hers); unassigned as printed.
+[says] (p.72) “Although it’s a bit late, this is the topic of today’s conversation with you. I’m preparing after school to go to the student council, and ask President Nagumo about joining it.”
+[says] (p.72) “But if I can’t get Nagumo’s approval, it’s not my responsibility.”
+[says] (p.72) “…You did say that.”
+[says] (p.72–73) “The reason why you wanted me to join the student council… It was so I … could spy on President Nagumo, but actually, that’s not the only reason, right?”
+[says] (p.73) “What the student council is doing now, that’s certainly the complete opposite.”
+[says] (p.73) “So that’s why you won’t give me specific instructions?”
+[says] (p.73) “Then why do you need me to join, if the only thing you want is to see Nagumo’s reforms? There’s no need for me to monitor the student council at all, then!”
+[says] (p.73) “There’s still some things I’m not satisfied with, but I’ll put it as convenient.”
+[says] (p.74) “I don’t think it’s good for me to ask anything of you since I lost the match, but will you come with me?”
+[says] (p.74) “Well, I’d like to show you using the meeting with Nagumo as evidence.”
+[says] (p.74) “If President Nagumo has something to do with that bounty, we might also see some kind of reaction.”
+[note] (p.65–74) The 20-million bounty reasoning lands on Nagumo by elimination; she's the one who says it aloud.
+[rel:ayanokouji-kiyotaka] (p.65–74) They walk together; the plan is hers to execute.
+[rel:nagumo-miyabi] (p.71–74) She suspects him and intends to watch him.
+[rel:chabashira-sae] (p.70) She tactfully checked with her; nothing.
+[rel:nanase-tsubasa] (p.68–74) She treats the 1st-year silence as strategic, not accidental.
+
+### y2v2 p.75–82 — Horikita joins the student council
+[scene] (p.75) She tells the council her reason — a blend of her true and negotiable motives.
+[says] (p.75) “I know that your time is valuable, president, so I’ll get straight into it. I want to join the student council.”
+[says] (p.75) “So I’m not welcome to join you?”
+[says] (p.76) “What condition?”
+[says] (p.76) “I had an argument with my brother in the past, and so I chose to enter this school to settle them. But my relationship with my brother hasn’t changed since I’ve entered this school.”
+[says] (p.76) “My brother couldn’t possibly approve of me who hadn’t grown in the slightest. As a result, I hadn’t spoken to him properly this year, at least up until his graduation.”
+[says] (p.76–77) “Yes. At the very last second, I’ve reconciled with him. And then, for the first time, I became interested in the student council that my brother devoted … his school life to. Although I’ve taken a long detour, I also want to walk the same path my brother has.”
+[says] (p.77) “That’s right. Just like the road my brother walked, I also want to become student council president.”
+[says] (p.77) “I don’t think it’s a distance that can’t be recovered.”
+[says] (p.78) “Do as you wish.”
+[says] (p.78) “Of course.”
+[says] (p.80) “Don’t worry. I don’t plan to graduate outside of Class A.”
+[says] (p.82) “I understand.”
+[note] (p.77–78) Nagumo sees through the half-truths but accepts them; Kiriyama lingers as her handler-ish vice president; “Honami” is the 1st 2nd-year council member she's compared against — an Ichinose mention.
+[trait] (p.75–82) She sells the council a truth-shaped motive; membership earned by admission of intent, and she signs the record as Class D.
+[rel:nagumo-miyabi] (p.75–82) She is admitted on the strength of her ambition; he gives no indication of knowing more.
+[rel:kiriyama-ikuto] (p.78) He attaches the Horikita-senpai comparisons to her; he calls her Suzune from now on.
+[rel:ichinose-honami] (p.77) She is the standard she's measured against for being a year ahead.
+
+<!-- walk: y2v2 Ch.2 → p.82 -->
 ## y2v3
 
 <!-- walk: y2v3 → start -->
