@@ -109,6 +109,17 @@ char_id: maezono · class: Class 1-D · status: minor
 [rel:ike-kanji] (p.27) He brings the lobby rumor; she frightens him with her angry look.
 [rel:ryuuen-kakeru] (p.27–29) His leak turns her open hostility public; she glares without hiding it.
 
+### y2v7 p.84 — The early departure; four booths
+[scene] (p.84) The day before the festival; Maezono asks about Hasebe and Miyake leaving the classroom; four booths in Horikita's class.
+[says] (p.84) “You guys didn't make Hasebe-san and Miyake-kun come?” — Maezono asked as her eyes followed Haruka and Akito leaving.
+[note] (p.84) The four booths: the maid café (main sales: tea, coffee, and other drinks, plus photo shoots with the maids); two outdoor stalls (powdered food — takoyaki, okonomiyaki — and Western-style pasta and bread stalls); and the outdoor quiz competition for children, added on short notice with the extra budget.
+[note] (p.84) 35 people, excluding Kōenji, Hasebe and Miyake, were left alone to run the rehearsal.
+[rel:hasebe-haruka] (p.84) She left early — potentially planning revenge.
+[rel:miyake-akito] (p.84) He left with her.
+[rel:kouenji-rokusuke] (p.84) The only other non-cooperator, along with Hasebe and Miyake.
+[rel:satou-maya] (p.84) The rehearsal proceeds with her and the other planners.
+<!-- walk: y2v7 Ch.4 → p.106 -->
+
 ## y2v9.5
 
 <!-- walk: y2v9.5 → start -->

@@ -669,6 +669,13 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [mentioned] (p.25) Sudō and Ayanokōji spot Akito and Haruka's backs at Keyaki Mall; the pair's situation echoes Yamauchi's withdrawal — Sudō grinds his teeth.
 [note] (p.25) Present in frame only — a sighting, not a scene presence; no lines.
 
+### y2v7 p.84 — The early departure before the rehearsal
+[scene] (p.84) The day before the festival; Akito and Haruka left the classroom before the rehearsal began; Maezono asked about them.
+[note] (p.84) “There's no point in forcing them to do anything. Let's consider this a good opportunity to test whether 35 people, excluding Kōenji-kun, Hasebe and Miyake, can be left alone without any problems.” — Horikita.
+[rel:hasebe-haruka] (p.84) He left with her.
+[rel:horikita-suzune] (p.84) Horikita's read: let them be tested in isolation.
+<!-- walk: y2v7 Ch.4 → p.106 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

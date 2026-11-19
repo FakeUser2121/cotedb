@@ -317,6 +317,32 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 [says] (p.30) “What are you going to do, Horikita-san? We're pretty well prepared, aren't we..?” — Matsushita.
 [note] (p.30) “Is Ryūen really going to turn his class into a maid café?” — printed untagged; Maezono or Yōsuke; not assigned.
 
+### y2v7 p.85–86 — Satō's advocate; the trust line
+[scene] (p.85) Matsushita is unable to bear the sight of Satō's downcast and frustrated face; she goes directly to Horikita.
+[says:horikita-suzune] (p.86) “I know what you mean. But I don't intend to remove her at the moment.” — Horikita, on Kushida.
+[note] (p.86) “But it's a lie that she has to do things every day, isn't it?” — Matsushita; Kushida's behavior as of late has been quite puzzling; it can't be helped that she's been keeping her distance from the others since the unanimous special exam.
+[says:horikita-suzune] (p.86) “That may be so. I don't know why she doesn't participate in practice either.” — Horikita.
+[says:horikita-suzune] (p.86) “Don't worry. She's thinking about the festival and the maid cafe in her own way. Just believe in Kushida-san.” — Horikita.
+[note] (p.86) “Well, I guess you could say that we won't get anywhere if I don't believe in her...” — Matsushita looked unconvinced, but nodded and turned to follow Satō.
+[scene] (p.90–92) The rehearsal; Matsushita is the stabilizer of the rehearsal; she's impressed by her own performance at the rehearsal — she calms Mii-chan after the slip; she fears sabotage.
+[says] (p.90) “I am terribly sorry.” — Matsushita's instinct after Mii-chan's slip.
+[says] (p.90) “Thank you.” — Matsushita to the guest's praise.
+[note] (p.90) “You're doing very well, Matsushita-san, I can't believe it's your very first time as a maid.” — a guest to Matsushita; Horikita was also impressed by Matsushita's outstanding actions.
+[rel:horikita-suzune] (p.85–86, 90–92) She holds the trust line; Horikita matches her steadiness.
+[rel:satou-maya] (p.85–86, 90) Her downcast face — the advocate for Satō.
+[rel:wang-mei-yu] (p.90) She steadies Mii-chan after the slip.
+
+### y2v7 p.92 — The sabotage fear
+[scene] (p.92) After the rehearsal winds down; Matsushita rounds up the rehearsal critique; her voice is a little stiff.
+[says] (p.92) “Thanks. Everyone's getting better. We should be able to start tomorrow in good shape.” — Matsushita said, though her expression was a little stiff.
+[says] (p.92) “I think there might be more sabotage, that's what I'm a little worried about.” — Matsushita; when Ryūen-kun's class came over to the maid cafe, she was afraid they'd bring Ishizaki-kun and the others over and say there were bugs in the cups or something...
+[says:horikita-suzune] (p.92) “Don't worry about that. It's not in their best interest to interfere in the practice stage. Besides, since there is a rule that students can't be guests in the activities, they can't do such a thing.” — Horikita.
+[says] (p.92) “I guess I'll do that.” — Matsushita started to walk away and left the classroom, wobbling slightly.
+[rel:ryuuen-kakeru] (p.92) Her fear: Ryūen's class could sabotage with bugs-in-the-cups claims; Horikita dismisses it.
+[rel:ishizaki-daichi] (p.92) Named as one of the potential saboteurs she fears.
+[rel:ayanokouji-kiyotaka] (p.92) Ayanokōji repeats her reassurance — he may be the calmest of the three on this.
+<!-- walk: y2v7 Ch.4 → p.106 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

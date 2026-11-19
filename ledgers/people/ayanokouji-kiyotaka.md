@@ -9878,33 +9878,212 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v7 Ch.3 → p.83 -->
 
-### y2v7 p.84–92 — Pre-festival prep; Kushida's non-practice; Ryūen's café
-[scene] (p.84) The day before the festival; Horikita's class has four booths (maid café + food stalls); Haruka and Akito left early — suspicion they may sabotage or skip the festival.
-[says] (p.86) "I know what you mean. But I don't intend to remove her." — Horikita, on Kushida
-[says] (p.86) "Don't worry. She's thinking about the festival and the maid cafe in her own way. Just believe in Kushida-san."
-[says] (p.88) "I heard that she had a match with Ryūen-kun for complete exemption from helping at the festival."
-[trait] (p.84–92) Notes Kushida hasn't practiced as a maid at all yet Horikita defends her (she has her own way); watches Ryūen's class set up a Traditional Japanese café (they spent heavily on Japanese attire); Chabashira and Sakayanagi's classes are also preparing; confirms Ryūen can't use his usual tactics with so many guests watching ("there is no need to worry").
-[rel:horikita-suzune] (p.85–86, 91) She refuses to remove Kushida despite others' complaints — "believe in Kushida-san."
-[rel:kushida-kikyou] (p.85–86) She's aloof, doesn't practice with the other maids — but Ayanokōji trusts she has a plan (she visits Horikita late at night).
-[rel:ryuuen-kakeru] (p.88–90) His class runs a competing Traditional Japanese café; he went to check Class A; he had a match with someone (Ichinose?) for exemption from helping.
-[rel:hasebe-haruka] (p.84) She and Akito left early — potentially planning revenge/sabotage.
+### y2v7 p.84–92 — The rehearsal; Kushida's silence; Ryūen's café
+[scene] (p.84) Friday, November 12 — the day before the festival; after school is the rehearsal led by the student council; Horikita's class runs four booths (the maid café; outdoor takoyaki/okonomiyaki stalls; the Western-style pasta and bread stalls; an outdoor quiz competition for children, added on short notice with the extra budget); 35 people, excluding Kōenji, Hasebe and Miyake, were left alone to run the rehearsal.
+[says:maezono] (p.84) “You guys didn't make Hasebe-san and Miyake-kun come?” — Maezono asked as her eyes followed Haruka and Akito leaving the classroom.
+[note] (p.84) “There's no point in forcing them to do anything. Let's consider this a good opportunity to test whether 35 people, excluding Kōenji-kun, Hasebe and Miyake, can be left alone without any problems.” — Horikita.
+[note] (p.84) Kushida hardly interfered in any festival activities in the weeks leading up; she has been going home immediately after school without helping out — but she visits Horikita several times to come up with ideas (some have been adopted, though minor); she did not participate in any practice sessions.
+[scene] (p.85) Satō calls out to Kushida as she gets up — Kushida refuses: she has something she can't miss after school; the atmosphere sours; Horikita was about to get up from her seat, but Yōsuke, standing beside her, stopped her as if he had anticipated this — tactically, to avoid showing Kushida's special treatment to the class.
+[says:satou-maya] (p.85) “I'd like to do some final checks for tomorrow's event and also practice my activities for the day. Do you think you'll have time today?” — Satō, trying as much as possible not to let her guard down.
+[says:kushida-kikyou] (p.85) “I'm sorry, Satō-san. I have something I really can't miss after school.” — Kushida; this was not the first time.
+[says:satou-maya] (p.85) “Listen, you keep refusing me like that. When are you seriously going to cooperate?” — Satō.
+[says:kushida-kikyou] (p.85) “Then why don't you remove me? I don't think there are any other decent candidates.” — a merciless remark, but a fair one.
+[says:kushida-kikyou] (p.85) “I'll see you tomorrow at the festival. Bye.” — though her tone of voice was the same as the gentle Kushida, her actions could be taken as cold.
+[says:horikita-suzune] (p.86) “I know what you mean. But I don't intend to remove her at the moment.” — Horikita, on Kushida.
+[note] (p.86) “But it's a lie that she has to do things every day, isn't it?” — Matsushita; her behavior as of late has been quite puzzling; it can't be helped that she's been keeping her distance from the others since the unanimous special exam.
+[says:horikita-suzune] (p.86) “That may be so. I don't know why she doesn't participate in practice either.” — Horikita.
+[says:horikita-suzune] (p.86) “Don't worry. She's thinking about the festival and the maid cafe in her own way. Just believe in Kushida-san.” — Horikita.
+[note] (p.86) “Well, I guess you could say that we won't get anywhere if I don't believe in her...” — Matsushita; she looked unconvinced, but nodded and turned to follow Satō.
+[scene] (p.86) §1 — the first floor of the special building, stall “Special 02”; the girls did most of the decoration work, with the boys assisting; the concept of Ryūen's class is “Traditional Japanese style” (Japanese sweets and tea); there was a unique presence — a girl sitting alone in a chair reading a book, dressed in the kimono.
+[says:shiina-hiyori] (p.86) “Hello.” — Hiyori lifted her book when she noticed him, for some reason hiding everything but her gaze.
+[scene] (p.88) The checkout talk — Hiyori specializes in checkout; she's not very good at interacting with people; “It's not that I haven't been. I've just, you know, changed my hours a bit.” — she'd changed her library visiting hours.
+[says:shiina-hiyori] (p.88) “I specialize in checkout. I'm not very good at interacting with people. I'm also not very good at moving around, and I practiced carrying food on a tray, but it didn't work out.” — Hiyori.
+[says:shiina-hiyori] (p.88) “By the way, Ibuki-san will be joining us.” — Hiyori.
+[says:shiina-hiyori] (p.88) “I heard that she had a match with Ryūen-kun for complete exemption from helping at the festival.” — Hiyori.
+[says] (p.88) “And she lost.” — Ayanokōji.
+[note] (p.88) “Ibuki? I had an image that she would never wear this kind of costume.” — Ayanokōji.
+[says:shiina-hiyori] (p.88) “So, where is this Ibuki who lost?” — Ayanokōji; Hiyori smiled a little funny as if she was remembering that time.
+[says:shiina-hiyori] (p.88) “She's not participating today. She said she absolutely hates wearing it outside of the festival.” — Hiyori.
+[note] (p.88) Ryūen went to check Class A — “Because they haven't disclosed what kind of presentation they were going to put on.” — the details of Sakayanagi's class had been unknown until the day before the festival.
+[says:shiina-hiyori] (p.89) “Um, Ayanokōji-kun...” — Hiyori seemed to want to say something else, but immediately shook her head from side to side.
+[says:shiina-hiyori] (p.89) “I'll be showing up at the library again next time, so please do so as well, Ayanokōji-kun.” — Hiyori.
+[scene] (p.89) The third floor of the special wing — the farthest from the school gate and the hardest to reach; Sakayanagi's class rented everything there; Hashimoto, keeping an eye on the students coming, approaches and calls out.
+[says:hashimoto-masayoshi] (p.89) “Surprised by the unexpected?” — Hashimoto.
+[says] (p.89) “What's this all about?” — Ayanokōji.
+[says:hashimoto-masayoshi] (p.89) “You can't even understand what you're seeing?” — Hashimoto laughed quietly.
+[says:hashimoto-masayoshi] (p.89) “That's what it means. I'm sorry you had to come all the way up here, but I'm going to have to ask you to leave.” — Hashimoto.
+[note] (p.89) A sign was posted on the stairs leading to this floor: “Due to an issue, the second-year Class A will not be presenting their activities today.”
+[says:hashimoto-masayoshi] (p.89) “It looks like Ryūen will be leaving soon, too.” — Hashimoto.
+[scene] (p.90) Ryūen comes out of a classroom in the back and walks toward them; after a quick glance at the two, he walks straight through and heads downstairs; Hashimoto jokes about Ryūen leaving too.
+[says:hashimoto-masayoshi] (p.90) “Or are you going to do the same as him and take a closer look, even if you know it's useless?” — Hashimoto.
+[says] (p.90) “I'm going back.” — Ayanokōji.
+[says:hashimoto-masayoshi] (p.90) “Good luck. You'll have to wait until we open to see what happens.” — Hashimoto.
+[says:ryuuen-kakeru] (p.90) “Tell Suzune that it will be our class that wins tomorrow.” — Ryūen turned his back to face him and stopped; raised the corner of his mouth slightly.
+[says] (p.90) “I bet the Japanese attire cost more than the maid uniforms, didn't they? If you're going to challenge her to a match, at that point, you could have just worked together.” — Ayanokōji.
+[says:ryuuen-kakeru] (p.90) “It's simply my taste.” — Ryūen; he started walking away.
+[note] (p.84–92) The rehearsal ran; the morning is nearly done; the festival tomorrow.
+[rel:horikita-suzune] (p.84–91) She refuses to remove Kushida; the rehearsal proceeds under her watch.
+[rel:kushida-kikyou] (p.84–86) She's absent from practice; visits Horikita for ideas; Horikita holds the line of trust.
+[rel:matsushita-chiaki] (p.85–92) She advocates for Satō; Mii-chan's spill; the sabotage fear.
+[rel:satou-maya] (p.85) She presses Kushida — and fails.
+[rel:hasebe-haruka] (p.84) She left early — potentially planning revenge.
+[rel:miyake-akito] (p.84) He left early too.
+[rel:shiina-hiyori] (p.86–89) The checkout special-case; her kimono-clad reading; her quiet support for the class.
+[rel:ryuuen-kakeru] (p.86–90) His Traditional Japanese café; he checks Class A; the Japanese-attire wager.
+[rel:hashimoto-masayoshi] (p.89–90) The Class A guard; the sign; the "good luck".
+[rel:sakayanagi-arisu] (p.89–90) Her class's floor is locked down; boxes only; no one allowed.
+[rel:kouenji-rokusuke] (p.84) The only classmate exempted along with Hasebe and Miyake.
 
-### y2v7 p.93–100 — Festival simulation: Ishizaki's protein; Onodera's uniform; Sudō's feelings
-[says] (p.96) "Wow, how did an enforcer like you get permission from Ryūen to do this?" — Kei to Ishizaki
-[says] (p.98) "I'm going to surprise my customers tomorrow."
-[says] (p.99) "you have for Horikita, Onodera has for you." — Ayanokōji to Sudō
-[trait] (p.93–100) During the two-hour simulation, runs into Ishizaki selling protein drinks (Ryūen let him "do whatever you want with your points"); Kei refuses to drink it; Onodera wants a maid uniform but her legs are "too thick" — Sudō crouches to measure; Ayanokōji hints to Sudō that Onodera likes *him* the way he likes Horikita — leaving him to decide between them.
-[rel:ishizaki-daichi] (p.96–98) He runs a protein drink stand at the festival (500 pts/cup) — Kei distrusts him but he's grown.
-[rel:karuizawa-kei] (p.96–98) She refuses Ishizaki's drink and glares at him — still not fully trusting.
-[rel:onodera-kayano] (p.99) She wants to be a maid but is self-conscious about her legs; Ayanokōji notes her feelings for Sudō.
-[rel:sudou-ken] (p.99–100) He's conflicted between Horikita and Onodera — Ayanokōji nudges him to decide.
+### y2v7 p.90–92 — Matsushita's calm; the sabotage fear
+[scene] (p.90) §2 — the rehearsal of the maid café; boys from other classes rushed to watch the girls in cosplay; the girls are not used to being the center of attention; Mii-chan slips a glass of water on the tray; Matsushita immediately moves.
+[says:matsushita-chiaki] (p.90) “I am terribly sorry.” — Matsushita, gently patting Mii-chan on the shoulder.
+[says:matsushita-chiaki] (p.90) “Thank you.” — Matsushita to the praise from a guest.
+[note] (p.90) “You're doing very well, Matsushita-san, I can't believe it's your very first time as a maid.” — a guest to Matsushita.
+[says] (p.91) “Well, no one thinks you're good at putting on a smile, so good luck.” — Ayanokōji.
+[says] (p.91) “Maybe I should reassign you to the stalls too.” — Ayanokōji.
+[says:horikita-suzune] (p.91) “Don't reassign me just because of a personal gripe.” — Horikita.
+[says:horikita-suzune] (p.91) “I'm back. How are things going?” — Horikita returned to the maid café about an hour later.
+[says] (p.92) “Good job Matsushita-san. I'm honestly surprised how well you performed.” — Ayanokōji.
+[says:matsushita-chiaki] (p.92) “Thanks. Everyone's getting better. We should be able to start tomorrow in good shape.” — Matsushita said, though her expression was a little stiff.
+[says:matsushita-chiaki] (p.92) “I think there might be more sabotage, that's what I'm a little worried about.” — Matsushita; she was afraid they'd bring Ishizaki-kun and the others over and say there were bugs in the cups or something...
+[says:horikita-suzune] (p.92) “Don't worry about that. It's not in their best interest to interfere in the practice stage. Besides, since there is a rule that students can't be guests in the activities, they can't do such a thing.” — Horikita.
+[says] (p.92) “Ryūen can't use his usual tactics in the presence of so many eyes at the exhibit. There is no need to worry.” — Ayanokōji; her explanation plus his addendum.
+[says:matsushita-chiaki] (p.92) “Somehow, when the two of you say it, I feel a different sense of relief.” — Matsushita patted her chest in relief, as if she had been somewhat preoccupied.
+[says:matsushita-chiaki] (p.92) “I guess I'll do that.” — Matsushita started to walk away and left the classroom, wobbling slightly.
+[note] (p.92) “Did you notice that?” — "Huh?" "No, it's nothing." — the exchange; he hopes he's just imagining things; Matsushita wobbles slightly as she walks away.
+[note] (p.92) “So how did it go? What did the other classes put on?” — "I don't know if there will be another festival next year, but I learned a lot." — the exchange.
+[rel:matsushita-chiaki] (p.90–92) She's the rehearsal's stabilizer; the sabotage fear; the wobble he alone notices.
 
-### y2v7 p.101–106 — Yagami contacts Kushida; the anagram setup
-[scene] (p.101) Ayanokōji and Horikita discuss mandatory breaks; Yagami contacts Kushida and pushes her to a location — the "love letter" anagram trap is being sprung.
-[says] (p.102) In a unanimous special exam, Yagami expected Kushida to expel Horikita and Ayanokōji.
-[trait] (p.101–106) Sets up the trap: Yagami, believing Kushida failed to expel them, is lured by the anagram "love letter" he decoded — Ayanokōji anticipates he'll come to the student council room seeking confirmation, where Nagumo, Ryūen and others will be waiting.
-[rel:yagami-takuya] (p.101–106) He's the target of the anagram trap — he decoded the letter and will come to the student council room.
-[rel:kushida-kikyou] (p.101–106) She's contacted by Yagami — used as a pawn in the trap.
+### y2v7 p.92–100 — The scouting walk; the shooting game; Ishizaki's protein scam
+[scene] (p.92) §3 — while Horikita does her checks, Ayanokōji decides to parade around the entire school; Kei appears as if she had been waiting for that moment and takes him in her arms.
+[says:karuizawa-kei] (p.92) “Let's go together.” — Kei took him in arms.
+[says] (p.92) “I'd rather not but I don't think you're going to leave me.” — Ayanokōji.
+[says:karuizawa-kei] (p.92) “I won't leave you.” — Kei.
+[says] (p.92) “You're free to go together, but remember that you are only scouting.” — Ayanokōji.
+[says:karuizawa-kei] (p.92) “Yes, yes~” — Kei; she seemed to be at ease from start to finish.
+[scene] (p.93) The first-year stalls — target practice, ring toss, marble-dropping machines; “Oh, it's Yukimura-kun and the others!” — Kei points at Keisei, Sotomura and the other boys busily preparing (baking food with a certain degree of dexterity); they leave them alone.
+[says:karuizawa-kei] (p.93) “Shall we try our hand at ring toss?” — Kei.
+[says:karuizawa-kei] (p.93) “I'll try! Oh, that stuffed animal is kind of cute. I might want one.” — Kei shouted and pointed from behind a student who was experiencing it first.
+[note] (p.93) The ring toss was a demonstration — students wouldn't receive prizes; the shooting game at the 1st year Class B stall across the street was giving away sweets prizes for successful guests (starting at 10 points, even the most expensive ones about 200 points).
+[says:karuizawa-kei] (p.93) “Try it, Kiyotaka!” — Kei urged him to try it and lightly pushed him in front of a table where five shooting guns were placed in a row.
+[note] (p.93–94) The gun seemed to be a type of toy called a cork gun, filled with cork; each of the guns lined up on the table seemed to be more heavily built than expected; the bullets were distorted in shape; his first shot missed by centimeters to the left; the second shot passed diagonally to the right; the third, fourth, fifth shots also missed his target; his first target shooting ended in a disastrous failure.
+[note] (p.94) “Only one challenge per person today” — a sign; he gave up.
+[says:hosen-kazuomi] (p.94) “Ain't no way. The big bad Ayanokouji himself is a shitty shooter?” — Hōsen came out from behind the stall, laughing with a funny smile on his face.
+[says:hosen-kazuomi] (p.94) “When I was a kid, I used to make a killin' with the adults at these kinda stalls.” — Hōsen; what kind of childhood was that...
+[says:hosen-kazuomi] (p.94–95) “I really wanted to do more serious gambling, but the shitty school turned me down 'cause of the rules or whatever. Really though, target shooting? It's the same thing as gambling. This kinda gambling is designed so that the house can win about all the time. It's a one-time cultural festival, so ain't no way they'll know they're getting ripped off.” — Hōsen.
+[says:hosen-kazuomi] (p.95) “If they ain't able to take the limited prizes, it won't be a problem.” — Hōsen.
+[says] (p.95) “Wouldn't that keep the customers from coming back?” — Ayanokōji.
+[says:hosen-kazuomi] (p.95) “Nah, not if we add value to the shitty prizes and hand them out regularly.” — Hōsen.
+[says:hosen-kazuomi] (p.95) “It's a good way to show off as an adult that you gotta memory of participatin' in a cultural festival.” — Hōsen; the fact that many politician-related people will be attending means that some will communicate their participation as a kind of charity or community activity; a large number of student photos printed and laminated as handmade prizes.
+[note] (p.95) Hōsen had a plan — participation prizes for adults (male and female student photos, both as a “charity” signal for the politician-related guests).
+[says] (p.95) “I couldn't win it.” — Ayanokōji to Kei.
+[says:karuizawa-kei] (p.96) “Because I got to see Kiyotaka's cuteness. I'm super satisfied as far as I'm concerned.” — Kei grinned happily and poked him in the stomach area with her elbow.
+[says] (p.96) “What do you mean, 'cuteness'?” — Ayanokōji.
+[says:karuizawa-kei] (p.96) “I was happy that it wasn't like an anime, where you hit it on the first shot. I realized again that you can't do everything.” — Kei.
+[note] (p.96) “I had no good points at all during that time.” — Ayanokōji.
+[says] (p.96) “That's cute, huh? I feel like you usually want your boyfriends to be cool.” — Ayanokōji.
+[says:karuizawa-kei] (p.96) “I've been shown enough of that.” — Kei.
+[scene] (p.96) Ishizaki's booth — a desk, cardboard, disposable chopsticks and cups; protein and citric acid powders; "an enforcer" who wrangled Ryūen's permission to self-run the booth with Ryūen's money... or so he claimed.
+[says:ishizaki-daichi] (p.96) “Yo, Ayanokōji!” — Ishizaki.
+[says:ishizaki-daichi] (p.96) “Yes, it is, isn't it? It's an idea of mine and Albert's, you know.” — Ishizaki.
+[says:karuizawa-kei] (p.96) “Wow, how did an enforcer like you get permission from Ryūen to do this? You couldn't even set up a birthday party.” — Kei stared at Ishizaki suspiciously.
+[says:ishizaki-daichi] (p.96–97) “I wanted to make it happen! I made a proposal just like you told me to do, and I got kicked out of it...” — he held his abdomen as if he was remembering that moment; October 20, the day of Ayanokōji and Ryūen's birthdays; Kei's condition was that Ryūen apologize to her directly for what he did on the rooftop and bow down to her; Ryūen did not accept her conditions.
+[says:ishizaki-daichi] (p.97) “But I'll get my revenge next year! You'll just have to wait for me!” — Ishizaki.
+[says:ishizaki-daichi] (p.97) “Who cares? Do you care? Okay, you guys go ahead and give it a try.” — Ishizaki.
+[says:ishizaki-daichi] (p.97) “This is chocolate flavored protein. Well, just take a light lick.” — Ishizaki.
+[says:karuizawa-kei] (p.97) “I don't want it.” — Kei refused to drink it as soon as it was served.
+[says:ishizaki-daichi] (p.97) “Oh, don't be like that. It's just protein.” — Ishizaki.
+[says:karuizawa-kei] (p.97) “I've never had protein before, and I don't want to. I'm not trying to get muscular.” — Kei.
+[says:yamada-albert] (p.97) “You can't build muscle just by drinking protein shakes.” — Albert stepped forward and mumbled English.
+[says:yamada-albert] (p.97) “Don't worry about that. You can't build muscle by just drinking protein shakes. That's right. Since we're here, why don't you two give it a try?” — Albert.
+[note] (p.97) He took the initiative, picked up a paper cup, and drank the protein; it tasted a little like the old days (the manufacturer differed but the taste was familiar).
+[says:ishizaki-daichi] (p.97) “Well, I'll drink it for you then, just in case... it's bad.” — Kei, who drank protein for the first time, frowned as if it didn't taste good.
+[says:ishizaki-daichi] (p.97) “Tastes bad? Well, it's not undrinkable, right?” — Ishizaki.
+[says:karuizawa-kei] (p.97) “It's not undrinkable, but I don't really want to drink it.” — Kei.
+[says:ishizaki-daichi] (p.97) “Well, you need a palate cleanser.” — Ishizaki; water was handed to him, perhaps to rinse out his mouth.
+[says:ishizaki-daichi] (p.97) “Next, this way.” — Ishizaki prepared a citric acid drink in another paper cup.
+[says:ishizaki-daichi] (p.97) “Well, it's citric acid, I guess.” — Ishizaki.
+[says] (p.97) “I think I like this one better.” — Ayanokōji.
+[says:ishizaki-daichi] (p.98) “Well, that's the last one. The two you just drank aren't bad, are they?” — Ishizaki.
+[says:karuizawa-kei] (p.98) “I didn't like the protein.” — Kei.
+[says:ishizaki-daichi] (p.98) “You're good, Karuizawa, how about Ayanokōji?” — Ishizaki.
+[says] (p.98) “Yes, it wasn't bad at all.” — Ayanokōji.
+[note] (p.98) Ishizaki laughed happily.
+[says:ishizaki-daichi] (p.98) “By the way. If you add citric acid to this chocolate-flavored protein, you get a very strange taste.” — Ishizaki; he handed him the mixed protein.
+[says:ishizaki-daichi] (p.98) “Now drink both of them at the same time.” — Ishizaki.
+[says:karuizawa-kei] (p.98) “I'm kind of scared.” — Kei.
+[says] (p.98) “Well, let's drink it.” — Ayanokōji.
+[note] (p.98) The moment he put it in his mouth, he involuntarily stiffened at the taste spreading from the surface of his tongue.
+[says:karuizawa-kei] (p.98) “Shit!” — Kei screamed next to him and spat it out on the spot; she made a vomiting gesture while thrashing about.
+[says:karuizawa-kei] (p.98) “This, that, that tastes like vomit! Eeeeee!” — Kei.
+[note] (p.98) He remembered that taste too — when he was taught martial arts, a powerful fist to the abdomen sent stomach acid rising alongside the food he was digesting.
+[says:ishizaki-daichi] (p.98) “Hahaha! Yes! That's funny!” — Ishizaki.
+[says:karuizawa-kei] (p.98) “Not funny! Water!!!” — Kei; pushing away Ishizaki, who was laughing exasperatingly, Kei drank from the water bottle.
+[says] (p.98) “This is, how can I say this, certainly a mystery drink.” — Ayanokōji.
+[says:ishizaki-daichi] (p.98) “Even the quintessential Ayanokōji is a bit taken back.” — Ishizaki.
+[says:ishizaki-daichi] (p.98) “I'm going to surprise my customers tomorrow. For 500 points a cup, I'm going to offer them a magical experience.” — Ishizaki.
+[says] (p.98) “I'm amazed that Ryūen allowed you to do this.” — Ayanokōji.
+[says:ishizaki-daichi] (p.98) “He said, ‘Do whatever you want with your points. We're doing something else tomorrow.’” — Ishizaki.
+[note] (p.98) He saw — Ishizaki was just going to rent the extra space for himself; the expenses minimal; about 10 guests curious about the experience.
+[says:karuizawa-kei] (p.98) “Ugh, a fun date turned into the worst...” — Kei just kept giving Ishizaki resentful glances until she left the place; their relationship, which seemed to have improved a bit, may be back to square one.
+[rel:ishizaki-daichi] (p.96–98) The protein scam; Ryūen's blessing; Kei's condition on Ryūen; his “magical experience” plan.
+[rel:yamada-albert] (p.96–97) Albert's mumbled English — the duo of the scam.
+[rel:karuizawa-kei] (p.92–98) She pokes him in the stomach; she demands to watch; the protein scene turns ugly.
+[rel:hosen-kazuomi] (p.94–95) The Class D games stall — the childhood gambler; the ripped-off adults' greed; the student photos for the politician guests; he nailed Ayanokōji's miss.
+[rel:sudou-ken] (p.98) Sudō forcibly interrupted any boy who called out to the maids and asked them to leave the room; the two-hour festival simulation.
+
+### y2v7 p.98–100 — The rehearsal wraps; Sudō and Onodera
+[scene] (p.98) The two-hour festival simulation would soon be over; Sudō-kun, the other boys and he started cleaning up; Onodera showed up.
+[says:onodera-kayano] (p.99) “We're done here, too,” — Onodera; she had been sent out to the outdoor stalls and made a disappointed sound as soon as she returned.
+[says] (p.99) “You wanted to see the maids?” — Ayanokōji.
+[says:onodera-kayano] (p.99) “I like cute things too. Besides, I'm not the kind of person who looks good in a maid's uniform, my legs are too thick.” — Onodera.
+[says] (p.99) “You don't know if it looks good on you or not until you try it on.” — Ayanokōji.
+[says:onodera-kayano] (p.99) “With the limited clothes we have, I'm sure they won't even fit my size.” — Onodera.
+[note] (p.99) Because of her commitment to swimming, Onodera has a well-trained body, including broad shoulders and legs that are more developed than most girls — if they were to provide her with a size-fit maid uniform, it would inevitably be made exclusively for Onodera.
+[note] (p.99) Sudō crouched down and moved his gaze closer to Onodera's thighs.
+[says:sudou-ken] (p.99) “They're the legs of a well-trained athlete. Well, it's certainly a little different from what you'd call a maid.” — Sudō placed his finger to his chin and said exactly what he thought.
+[says:onodera-kayano] (p.99) “I'm so embarrassed!” — Onodera blushed and ran out of the classroom like a rabbit.
+[note] (p.99) “What's with her?” — "As I watched the two of them interact, I could feel the obvious change in Onodera up close."
+[says] (p.99) “Don't you understand? Why Onodera behaved like that? The same feelings you have for Horikita, Onodera has for you.” — Ayanokōji; he said it in a slightly roundabout way, so Sudō didn't immediately understand.
+[says:sudou-ken] (p.99–100) “What?” — Sudō.
+[says:sudou-ken] (p.100) “Huh? Onodera… me?” — Sudō.
+[says] (p.100) “Yeah.” — Ayanokōji.
+[says:sudou-ken] (p.100) “No, no, that ain't it.” — Sudō; he seemed to have thought about it seriously, but denied that it could be true.
+[says] (p.100) “Onodera might not have been interested in you at first, but you've been showing remarkable growth these days. It wouldn't be surprising if she became aware of you as a member of the opposite sex, right?” — Ayanokōji.
+[note] (p.100) Sudō's face turned grim as he began to reorganize his thoughts.
+[says:sudou-ken] (p.100) “What the hell... why me?” — Sudō.
+[says] (p.100) “Of course, there's no guarantee. If you want to know the truth, it might be important to observe Onodera carefully and try to understand her.” — Ayanokōji.
+[says:sudou-ken] (p.100) “No. I'm getting a little confused, I'm going to go cool off while I go see the food stalls.” — Sudō; he'll have to think long and hard to come up with an answer.
+[says:hirata-yousuke] (p.100) “Kiyotaka-kun, was that… okay?” — Yōsuke, who was standing by, seemed to have heard his conversation.
+[says] (p.100) “Is that so? Well, I'm sorry if that was careless of me. I'm still learning how this works.” — Ayanokōji; he apologized with a blank expression.
+[note] (p.100) “I don't think you should have interfered.” — Ayanokōji to Yōsuke; he apologized to Yōsuke with a blank expression on his face.
+[rel:onodera-kayano] (p.99–100) The maid envy; the legs comment; her flight; Ayanokōji plants the seed in Sudō.
+[rel:sudou-ken] (p.98–100) Sudō's face goes grim as he reorganizes; he goes to think at the food stalls.
+[rel:hirata-yousuke] (p.100) Yōsuke heard the Onodera nudge; he worries about Ayanokōji's meddling.
+[note] (p.99) Roster note: the onodera row duplicated onodera-kayano is left untouched; this content is recorded under onodera-kayano.
+
+### y2v7 p.100–101 — The 1-hour break announcement
+[scene] (p.100) After the cleanup, Horikita announces tomorrow's schedule; only Ayanokōji and Horikita remain in the classroom.
+[says] (p.100) “I've been thinking about it a lot, but it just doesn't feel right for you to be a maid,” — Ayanokōji.
+[says] (p.100) “I'm sorry, but it's out of my jurisdiction. I've left it to Kei's will.” — Ayanokōji.
+[says:horikita-suzune] (p.100) “I don't want to do it, but it would be nice to have more hands, wouldn't it? It would have been a little easier if your girlfriend had cooperated.” — Horikita.
+[says] (p.101) “I'm just kidding. It's not something you force anyone to wear. If you're unwilling to wear it, it won't make you look good to tomorrow's guests.” — Ayanokōji.
+[note] (p.101) "It seemed that Satō and the others, including me, had approached Kei, but she refused to wear the maid's uniform. Not everyone understood Kei's body and her past." — Kei's refusal reasoned.
+[says:horikita-suzune] (p.101) “Here, look through this. I've made some adjustments based on today's simulation.” — Horikita handed him the notebook.
+[says] (p.101) “Thank you. It looks like the schedule you've put together is going to be fine.” — Ayanokōji.
+[says:horikita-suzune] (p.101) “All festival participants are required to take a one-hour break before the end of the festival after notifying their homeroom teacher.” — the rule.
+[rule] (p.101) Festival staffing rule: All festival participants must take a one-hour break before the end of the festival, after notifying their homeroom teacher; during the break they are forbidden from assisting with any of the stalls, regardless of business.
+[rel:horikita-suzune] (p.100–101) The schedule sign-off; the Kei-maid question; the mandatory break notice.
+
+### y2v7 p.105–106 — Sakayanagi's midnight call
+[scene] (p.105) §5 — in the middle of the night, he receives a phone call; Sakayanagi lets out a little chuckle on the other end; she cuts right to the chase.
+[says:sakayanagi-arisu] (p.105) “Indeed you may be right. May I have a few minutes of your time now?” — Sakayanagi.
+[says:sakayanagi-arisu] (p.105) “Ayanokōji-kun, you will attend the cultural festival as a matter of course, won't you? My father seems to be concerned that there may be people from the outside who will come to bring you back.” — Sakayanagi.
+[note] (p.105) “The chairman of the board called me a little while ago. He told me that I should consider taking this time off from the main event again, but I politely declined.” — Ayanokōji; he probably would have attended the last sports festival, though, if not for the fact that he had to give Sakayanagi a break.
+[says:sakayanagi-arisu] (p.105) “Aren't you afraid? No, that's a foolish question, I'll change the question a bit. Are you perhaps assuming that the people involved will not move to recapture you?” — Sakayanagi; otherwise, she doesn't see the point of him purposefully putting himself in harm's way.
+[says] (p.105) “It's simply a question between actual harm and potential harm. There's other opportunities coming up, such as the school trip. If the harm would go away after these two festivals, I would act differently. However, there's no guarantee that there won't be spectators at next year's festival too. It's easy to stay in your shell, but the opportunities I will lose by doing so are far more troublesome.” — Ayanokōji.
+[says:sakayanagi-arisu] (p.106) “So you want to experience your remaining school life and what is normal for a student as much as possible.” — Sakayanagi replied in agreement with his way of thinking.
+[rel:sakayanagi-arisu] (p.105–106) The midnight call; the warning about outside threats; the chairman's decline; their alignment.
 
 ### y2v7 p.107–116 — Festival day: the maid café's success; a former guest
 [scene] (p.107) The festival begins at 9 a.m.; rumors swirl that Haruka/Akito may be the ones who leaked the maid café info (Kei says not to jump to conclusions); overall OAA ranking shown — Horikita's class is strong.

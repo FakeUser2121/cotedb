@@ -1924,6 +1924,32 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [says] (p.27) “Hey! Ryūen and the others are coming this way.” — Sudō announces Ryūen's approach.
 [rel:ryuuen-kakeru] (p.28–29) Ryūen arrives with Ishizaki/Albert/Kaneda; publicly leaks and copies the maid café — the “declaration of war.”
 
+### y2v7 p.93–100 — The bodyguard; Sudō's grim discovery
+[scene] (p.98) Sudō suit the role of a bodyguard and was in charge of dealing with trouble — he forcibly interrupted any boy who called out to the maids and asked them to leave the room.
+[scene] (p.98–100) The two-hour festival simulation would soon be over; As Sudō and the other boys started cleaning up, Onodera showed up — wanting to see everyone's maid outfits.
+[says:onodera-kayano] (p.99) “We're done here, too,” — Onodera; she had been sent out to the outdoor stalls and made a disappointed sound as soon as she returned.
+[says:onodera-kayano] (p.99) “I like cute things too. Besides, I'm not the kind of person who looks good in a maid's uniform, my legs are too thick.” — Onodera.
+[note] (p.99) Because of her commitment to swimming, Onodera has a well-trained body, including broad shoulders and legs that are more developed than most girls — if they were to provide her with a size-fit maid uniform, it would inevitably be made exclusively for Onodera.
+[note] (p.99) Sudō crouched down and moved his gaze closer to Onodera's thighs.
+[says] (p.99) “They're the legs of a well-trained athlete. Well, it's certainly a little different from what you'd call a maid.” — Sudō placed his finger to his chin and said exactly what he thought.
+[says:onodera-kayano] (p.99) “I'm so embarrassed!” — Onodera blushed and ran out of the classroom like a rabbit.
+[note] (p.99) “What's with her?” — "As I watched the two of them interact, I could feel the obvious change in Onodera up close. The two of them were not only the same, but they were also very close to each other."
+[says:ayanokouji-kiyotaka] (p.99) “Don't you understand? Why Onodera behaved like that? The same feelings you have for Horikita, Onodera has for you.” — Ayanokōji; he said it in a slightly roundabout way.
+[says] (p.100) “Huh? Onodera… me?” — Sudō.
+[says:ayanokouji-kiyotaka] (p.100) “Yeah.” — Ayanokōji.
+[says] (p.100) “No, no, that ain't it.” — Sudō; he seemed to have thought about it seriously, but denied that it could be true.
+[says:ayanokouji-kiyotaka] (p.100) “Onodera might not have been interested in you at first, but you've been showing remarkable growth these days. It wouldn't be surprising if she became aware of you as a member of the opposite sex, right?” — Ayanokōji.
+[note] (p.100) Sudō's face turned grim as he began to reorganize his thoughts.
+[says] (p.100) “What the hell... why me?” — Sudō.
+[says:ayanokouji-kiyotaka] (p.100) “Of course, there's no guarantee. If you want to know the truth, it might be important to observe Onodera carefully and try to understand her.” — Ayanokōji.
+[note] (p.100) "Nothing else needed to be said to understand the situation. Right now, Sudō's feelings were strongly directed toward Horikita." — the narration; the comment was unnecessary, but he did it anyway.
+[says] (p.100) “No. I'm getting a little confused, I'm going to go cool off while I go see the food stalls.” — Sudō; he'll have to think long and hard to come up with an answer.
+[rel:onodera-kayano] (p.99–100) The maid envy; the legs comment; her flight; Ayanokōji plants the seed.
+[rel:ayanokouji-kiyotaka] (p.99–100) The nudge; the seed grows on the walk home.
+[rel:hirata-yousuke] (p.100) Yōsuke overheard — he worries.
+[rel:horikita-suzune] (p.100) Sudō's feelings were strongly directed toward Horikita.
+<!-- walk: y2v7 Ch.4 → p.106 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

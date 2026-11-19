@@ -1198,6 +1198,13 @@ aliases used for anchors: sakura, airi, sakura-san
 ### y2v7 p.25 — Sudō's “Sakura”
 [mentioned] (p.25) Sudō, grinding his teeth at the sight of Haruka and Akito: “I wasn't particularly close to Sakura, but I've had similar experiences.” — he measures Haruka's situation against his own past with Yamauchi.
 
+### y2v7 p.102 — “Sakura-senpai was expelled”
+[mentioned] (p.102) “…Sakura-senpai was expelled instead of Kushida-senpai. What I want to know are the details of it.” — Yagami; the unanimous exam's casualty was her.
+[note] (p.102) “I did nothing in that special exam. So, Sakura-san, who was the lowest in OAA, was inevitably cut. That's it.” — Kushida's version; the class knew the details were not for outsiders.
+[rel:kushida-kikyou] (p.102) The casualty of the unanimous exam's outcome.
+[rel:yagami-takuya] (p.102) The interrogator who wants the details.
+<!-- walk: y2v7 Ch.4 → p.106 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

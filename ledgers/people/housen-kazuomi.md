@@ -232,13 +232,19 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — housen-kazuomi mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.94-95, p.135, p.163, p.187-188, p.198.
-[mentioned] (p.7) Passing mention only.
-
-
-
+### y2v7 p.94–95 — The 1st-year Class D games stall
+[scene] (p.94) §3 — Hōsen's booth — the 1st-year Class D stalls specialized in “games” — target practice, ring toss, marble-dropping machines; Ayanokōji himself is a shitty shooter.
+[says] (p.94) “Ain't no way. The big bad Ayanokouji himself is a shitty shooter?” — Hōsen came out from behind the stall, laughing with a funny smile on his face.
+[says] (p.94) “When I was a kid, I used to make a killin' with the adults at these kinda stalls.” — Hōsen; what kind of childhood was that...
+[says] (p.94–95) “I really wanted to do more serious gambling, but the shitty school turned me down ‘cause of the rules or whatever. Really though, target shooting? It's the same thing as gambling. This kinda gambling is designed so that the house can win about all the time. It's a one-time cultural festival, so ain't no way they'll know they're getting ripped off.” — Hōsen.
+[note] (p.94) He took out his lighter and put it on the shelf, then came over to this side of the table and picked up the second gun from the far left.
+[says] (p.95) “If they ain't able to take the limited prizes, it won't be a problem.” — Hōsen.
+[says:ayanokouji-kiyotaka] (p.95) “Wouldn't that keep the customers from coming back?” — Ayanokōji.
+[says] (p.95) “Nah, not if we add value to the shitty prizes and hand them out regularly.” — Hōsen.
+[says] (p.95) “It's a good way to show off as an adult that you gotta memory of participatin' in a cultural festival.” — Hōsen; the politician-related guests will communicate their participation as a kind of charity or community activity; his idea of laminated student photos (male and female) as handmade prizes.
+[note] (p.94–95) The bullet fired from the projectile gun he held up flew straighter than imagined and hit the lighter — it shook but showed no sign of falling over; his childhood was clearly not normal.
+[rel:ayanokouji-kiyotaka] (p.94–95) The pinpoint-lighter shot; his philosophy about adults and greed; his pitch for laminated student photos as handmade prizes for the politician guests.
+<!-- walk: y2v7 Ch.4 → p.106 -->
 
 ## y2v8
 

@@ -1876,6 +1876,76 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:ayanokouji-kiyotaka] (p.75) He raises the question; she does not want Kushida "to come back to haunt me."
 <!-- walk: y2v7 Ch.3 → p.83 -->
 
+### y2v7 p.84–86 — Kushida's silence; Satō's failed appeal
+[scene] (p.84) The day before the festival; Kushida hardly interfered with any of the festival's activities in the weeks leading up; she's been going home immediately after school without helping out; she visits Horikita several times to come up with ideas (some have been adopted, though minor) — but she did not participate in any practice sessions to make sure they were all on the same page.
+[scene] (p.85) Satō called out to Kushida as she got up — Kushida stopped and turned around on the spot.
+[says:satou-maya] (p.85) “I'd like to do some final checks for tomorrow's event and also practice my activities for the day. Do you think you'll have time today?” — Satō, trying as much as possible not to let her guard down.
+[says] (p.85) “I'm sorry, Satō-san. I have something I really can't miss after school.” — Kushida; this was not the first time.
+[says:satou-maya] (p.85) “Listen, you keep refusing me like that. When are you seriously going to cooperate?” — Satō.
+[says] (p.85) “Then why don't you remove me? I don't think there are any other decent candidates.” — a merciless remark, but a fair one; a student who isn't playing the maid role wouldn't be a substitute.
+[says] (p.85) “I'll see you tomorrow at the festival. Bye.” — though her tone of voice was the same as the gentle Kushida, her actions could be taken as cold; she refused Satō's proposal until the end and left the classroom.
+[note] (p.85) “Did she simply not want to spend time with classmates who know her true nature? Or was it really that she had something she can't miss? Obviously, the atmosphere in the classroom deteriorated, but that can't be helped.” — the narration.
+[rel:satou-maya] (p.85) Satō's failed appeal — the representative complaint.
+[rel:horikita-suzune] (p.85–86) She visits Horikita for ideas; Horikita holds the line of trust — "Just believe in Kushida-san."
+[rel:matsushita-chiaki] (p.85–86) Matsushita backs Satō's complaint — "That may be so. I don't know why she doesn't participate in practice either."
+
+### y2v7 p.101–104 — §4: the Yagami confrontation; "I'm the leader of the 1st year Class B"
+[scene] (p.101) §4 — on the street leading to Keyaki Mall; a man and a woman face each other; the preliminary preparations for the festival had already begun and there were no students to be seen in this vicinity at all; the Yagami pushed her to this location.
+[says] (p.101) “We can finally talk, Yagami-kun.” — Kushida greets him.
+[says] (p.101) “I didn't think you would barge in on us while we were preparing for the festival.” — Kushida.
+[says:yagami-takuya] (p.101) “I wouldn't have caught you otherwise. It seemed as if you were avoiding me.” — Yagami.
+[says] (p.101) “It's just a coincidence that we didn't meet. By the way, it seems you visited my room several times. Sorry, I was away.” — Kushida.
+[says:yagami-takuya] (p.101) “Were you really away? Or were you using the answering machine to harass me?” — Yagami.
+[says] (p.101–102) “Staying away? Why would I do that? There seems to be some kind of misunderstanding.” — Kushida.
+[says:yagami-takuya] (p.102) “There's no misunderstanding.” — Yagami.
+[says] (p.102) “You cut me off because I was useless. That's all, isn't it?” — Kushida.
+[note] (p.102) “In a unanimous special examin, Yagami expected Kushida to expel Horikita and Ayanokōji. Since she failed to live up to that expectation, and since there was no contact between them, it wasn't surprising for Kushida to judge as such.” — the narration; the “examin” spelling kept as printed.
+[says:yagami-takuya] (p.102) “Do you remember that I contacted you on the night of the unanimous special exam?” — Yagami.
+[says] (p.102) “Yes. Of course, I remember.” — Kushida.
+[note] (p.102) “On the night the exam ended, Yagami called and learned from Kushida's mouth that Horikita and Ayanokōji had not dropped out. Shortly after that, the phone was disconnected, and Kushida had not been able to talk to Yagami since then.” — the narration.
+[says:yagami-takuya] (p.102) “I will be honest with you. I thought Kushida-senpai hated me. That's why I haven't had the courage to face you lately, and maybe I've been unconsciously avoiding you.” — Yagami.
+[says] (p.102) “Stop it. It's no use lying to me like that now. Pretending to be a junior who has a liking for me only gives me the chills after I learned part of your true nature.” — Kushida.
+[says:yagami-takuya] (p.102) “Excuse me. Now, could you tell me again how that day happened?” — Yagami.
+[says] (p.102) “I won't answer.” — Kushida.
+[says:yagami-takuya] (p.102) “Why not? At least we know that Kushida-senpai acted to expel one of those two students. But as a result, Sakura-senpai was expelled instead of Kushida-senpai. What I want to know are the details of it.” — Yagami.
+[says] (p.102) “I did nothing in that special exam. So, Sakura-san, who was the lowest in OAA, was inevitably cut. That's it.” — Kushida.
+[note] (p.102) “Since after the unanimous special exam, Kushida-senpai's behavior routine had changed significantly…” — Yagami's investigation; the narration says it exposed a certain degree of her own true nature.
+[says:yagami-takuya] (p.103) “Since after the unanimous special exam, Kushida-senpai's behavior routine had changed significantly. I have already investigated and understood that you have distanced yourself from your classmates, although you seemed to be getting along with students in other classes as usual. In other words, that unanimous special exam exposed a certain degree of your own true nature.” — Yagami.
+[says] (p.103) “I don't know what you're talking about. I'm still getting along with my classmates as usual.” — Kushida.
+[says:yagami-takuya] (p.103) “It's no use trying to hide it; Kushida-senpai allowed her class to discover all about her past. And it was definitely Ayanokōji-senpai who pushed her into that corner.” — Yagami; he mentioned Ayanokōji instead of Horikita's name — clearly unusual.
+[says] (p.103) “You're imagining things on your own. It doesn't fit at all.” — Kushida.
+[says] (p.103) “You're free to misrepresent it, but... What on earth do you want from me if you have nothing to say? I have to help with the festival, so I'd like to get back as soon as possible.” — Kushida.
+[says] (p.103) “I'm tired of hanging out with you, Yagami-kun.” — Kushida.
+[says:yagami-takuya] (p.103) “You're tired of...?” — Yagami.
+[says] (p.103) “I'm tired of being your friend, Yagami-kun. That's all I wanted to say today.” — Kushida.
+[says:yagami-takuya] (p.103) “You want to end your relationship with me. I understand that feeling. Since Kushida-senpai's past and character are now known in the class, there is no point in pressing Horikita-senpai or Ayanokōji-senpai to be expelled now.” — Yagami.
+[says] (p.103) “I'm not going to correct every single thing anymore. If you want to interpret it as you see fit, go ahead.” — Kushida.
+[says:yagami-takuya] (p.103) “You're an interesting person, Kushida-senpai. What you just said was the truth. Besides, Kushida-senpai herself is beginning to think that it's okay to throw herself into this environment. So, she wants to end her backwards relationship with me and look forward.” — Yagami.
+[note] (p.103) “She wanted to look forward. Those words stuck in her mind.” — the narration.
+[says:yagami-takuya] (p.103) “Aside from Ayanokōji-senpai, have you made peace with Horikita-senpai?” — Yagami.
+[says] (p.104) “I won't answer that either.” — Kushida.
+[says:yagami-takuya] (p.104) “By the looks of it, you've been heartbroken. I'm a little disappointed, Kushida-senpai.” — Yagami.
+[says] (p.104) “I am…!” — Kushida.
+[says:yagami-takuya] (p.104) “Oh, that's okay. You don't have to say anything else. I can tell by looking at you.” — Yagami; his dismissive attitude lacked some of his former politeness.
+[note] (p.104) “Rather, she was clearly more tolerant than the average student, perhaps due to her repeated contact with unusual people like Ayanokōji, Ryūen, or Amasawa.” — the narration; she was surprised and felt a sense of realization when acting tough.
+[says] (p.104) “This is the end of us, Yagami-kun. We have nothing to do with each other, right?” — Kushida.
+[says:yagami-takuya] (p.104) “Rest assured. You're worried that I might go around exposing Kushida-senpai's past, right? That's why you came to check on me while giving me a warning, right?” — Yagami.
+[says] (p.104) “That's right, if Yagami-kun exposes me, rumors about me will go around the school.” — Kushida.
+[says:yagami-takuya] (p.104) “Then will you listen to what I have to say?” — Yagami.
+[says] (p.104) “I'll tell them everything about Yagami-kun, about how you used me to get Ayanokōji and Horikita expelled from school, about how you're a devil with a kind face.” — Kushida; Yagami didn't know if this was a threat.
+[says:yagami-takuya] (p.104) “You have threatened back. Then I will keep that in mind. Are we done?” — Yagami.
+[says:yagami-takuya] (p.104) “I'm the leader of the 1st year Class B. I'm busy with various cultural festival stalls, so I'll see you then.” — Yagami; he broke off the conversation and walked away.
+[says] (p.104) “Don't forget, Yagami-kun, that as long as you keep your promise, I will keep mine.” — Kushida.
+[note] (p.104) “I hope this is the end of it.” — Kushida's wistful thinking; she also realized that it wasn't the end.
+[narrates] (p.105) “No. I can't stop Yagami...” — Kushida.
+[note] (p.105) “Up until now, Kushida had challenged and lost to various opponents, including Horikita.” — the narration.
+[narrates] (p.105) “I realize that I am alone. But even so, the situation has changed drastically. The other side is definitely licking Kushida's chops. Not just on the surface, but from the bottom of their hearts.” — Kushida's inner monologue.
+[note] (p.105) "Even so, she prided herself on being able to read such things." — the narration.
+[narrates] (p.105) “Before I fight that guy, I have something to do.” — Kushida.
+[note] (p.105) "She knew that the problem that needed to be solved goes above just Yagami. She had no desire to go back to being a gentle honor student, but she must show a solid contribution to maintain a firm position in the class. Kushida Kikyo knew how to survive by herself." — the narration.
+[rel:yagami-takuya] (p.101–104) Yagami — the desperate interrogator; the unanimous-exam night call; the lone wolf from the 1st year Class B; the warning and counter-warning.
+<!-- walk: y2v7 Ch.4 → p.106 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

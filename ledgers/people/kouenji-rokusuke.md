@@ -933,6 +933,14 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:horikita-suzune] (p.74) She notes his festival non-assignment; he doesn't engage.
 <!-- walk: y2v7 Ch.3 → p.83 -->
 
+### y2v7 p.84 — The three exempted from festival work
+[scene] (p.84) The day before the festival; Horikita's class runs four booths; 35 people, excluding Kōenji, Hasebe and Miyake, were left alone to run the rehearsal.
+[note] (p.84) “There's no point in forcing them to do anything. Let's consider this a good opportunity to test whether 35 people, excluding Kōenji-kun, Hasebe and Miyake, can be left alone without any problems.” — Horikita.
+[rel:hasebe-haruka] (p.84) The same exemption.
+[rel:miyake-akito] (p.84) The same exemption.
+[rel:horikita-suzune] (p.84) Her reasoning about the non-cooperators.
+<!-- walk: y2v7 Ch.4 → p.106 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

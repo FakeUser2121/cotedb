@@ -1939,6 +1939,16 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:horikita-suzune] (p.28–31) She informed only herself, Ayanokōji and the maid café planners; Yōsuke learns from the scene like everyone else.
 [rel:ryuuen-kakeru] (p.28–31) Yōsuke pushes the clarifying question at him; Ryūen's answer confirms the copy and the wager.
 
+### y2v7 p.100 — Yōsuke heard the Onodera nudge
+[scene] (p.100) §After the cleanup; Yōsuke, standing by, seemed to have heard Ayanokōji's conversation with Sudō.
+[says] (p.100) “Kiyotaka-kun, was that… okay?” — Yōsuke.
+[says:ayanokouji-kiyotaka] (p.100) “I don't think you should have interfered.” — Ayanokōji.
+[says] (p.100) “Is that so? Well, I'm sorry if that was careless of me. I'm still learning how this works.” — Yōsuke; Ayanokōji apologized to him with a blank expression.
+[note] (p.100) Ayanokōji apologized to Yōsuke with a blank expression on his face.
+[rel:ayanokouji-kiyotaka] (p.100) He worries about Ayanokōji's meddling in Sudō's heart; he is a little nervous about how it might look.
+[rel:sudou-ken] (p.100) The nudge was overheard; Yōsuke flags it.
+<!-- walk: y2v7 Ch.4 → p.106 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

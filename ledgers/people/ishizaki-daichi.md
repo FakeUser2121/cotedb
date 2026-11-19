@@ -826,6 +826,55 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [rel:suzuki-hidetoshi] (p.27) He is named by Ike as one of the three in the lobby.
 [rel:nomura-yuuji] (p.27) He is named by Ike as one of the three in the lobby.
 
+### y2v7 p.96–98 — The protein scam
+[scene] (p.96) §3 — Ishizaki's booth — a desk and cardboard; disposable chopsticks and cups on the table give the impression of dining; Kei stares at the booth suspiciously.
+[says] (p.96) “Yo, Ayanokōji!” — Ishizaki.
+[says] (p.96) “Yes, it is, isn't it? It's an idea of mine and Albert's, you know.” — Ishizaki.
+[says:karuizawa-kei] (p.96) “Wow, how did an enforcer like you get permission from Ryūen to do this? You couldn't even set up a birthday party.” — Kei stared at Ishizaki suspiciously.
+[says] (p.96–97) “I wanted to make it happen! I made a proposal just like you told me to do, and I got kicked out of it...” — he held his abdomen as if he was remembering that moment; October 20, the day of Ayanokōji and Ryūen's birthdays; Kei's condition was that Ryūen apologize to her directly for what he did on the rooftop and bow down to her; Ryūen did not accept her conditions.
+[says] (p.97) “But I'll get my revenge next year! You'll just have to wait for me!” — Ishizaki.
+[says] (p.97) “Who cares? Do you care? Okay, you guys go ahead and give it a try.” — Ishizaki.
+[says] (p.97) “This is chocolate flavored protein. Well, just take a light lick.” — Ishizaki.
+[says:karuizawa-kei] (p.97) “I don't want it.” — Kei refused to drink it as soon as it was served.
+[says] (p.97) “Oh, don't be like that. It's just protein.” — Ishizaki.
+[says:karuizawa-kei] (p.97) “I've never had protein before, and I don't want to. I'm not trying to get muscular.” — Kei.
+[says:yamada-albert] (p.97) “You can't build muscle just by drinking protein shakes.” — Albert stepped forward and mumbled English.
+[says:yamada-albert] (p.97) “Don't worry about that. You can't build muscle by just drinking protein shakes. That's right. Since we're here, why don't you two give it a try?” — Albert.
+[note] (p.97) He took the initiative, picked up a paper cup, and drank the protein; it tasted a little like the old days.
+[says] (p.97) “Well, I'll drink it for you then, just in case... it's bad.” — Ishizaki; Kei, who drank protein for the first time, frowned as if it didn't taste good.
+[says] (p.97) “Tastes bad? Well, it's not undrinkable, right?” — Ishizaki.
+[says:karuizawa-kei] (p.97) “It's not undrinkable, but I don't really want to drink it.” — Kei.
+[says] (p.97) “Well, you need a palate cleanser.” — Ishizaki; water was handed to him, perhaps to rinse out his mouth.
+[says] (p.97) “Next, this way.” — Ishizaki; he prepared a citric acid drink in another paper cup.
+[says] (p.97) “Well, it's citric acid, I guess.” — Ishizaki.
+[says:ayanokouji-kiyotaka] (p.97) “I think I like this one better.” — Ayanokōji.
+[says] (p.98) “Well, that's the last one. The two you just drank aren't bad, are they?” — Ishizaki.
+[says:karuizawa-kei] (p.98) “I didn't like the protein.” — Kei.
+[says] (p.98) “You're good, Karuizawa, how about Ayanokōji?” — Ishizaki.
+[says:ayanokouji-kiyotaka] (p.98) “Yes, it wasn't bad at all.” — Ayanokōji.
+[note] (p.98) Ishizaki laughed happily.
+[says] (p.98) “By the way. If you add citric acid to this chocolate-flavored protein, you get a very strange taste.” — Ishizaki; he handed him the mixed protein.
+[says] (p.98) “Now drink both of them at the same time.” — Ishizaki.
+[says:karuizawa-kei] (p.98) “I'm kind of scared.” — Kei.
+[says:ayanokouji-kiyotaka] (p.98) “Well, let's drink it.” — Ayanokōji.
+[note] (p.98) The moment he put it in his mouth, he involuntarily stiffened at the taste spreading from the surface of his tongue.
+[says:karuizawa-kei] (p.98) “Shit!” — Kei screamed next to him and spat it out on the spot; she made a vomiting gesture while thrashing about.
+[says:karuizawa-kei] (p.98) “This, that, that tastes like vomit! Eeeeee!” — Kei.
+[note] (p.98) He remembered that taste too — when he was taught martial arts, a powerful fist to the abdomen sent stomach acid rising alongside the food he was digesting.
+[says] (p.98) “Hahaha! Yes! That's funny!” — Ishizaki.
+[says:karuizawa-kei] (p.98) “Not funny! Water!!!” — Kei; pushing away Ishizaki, who was laughing exasperatingly, Kei drank from the water bottle.
+[says:ayanokouji-kiyotaka] (p.98) “This is, how can I say this, certainly a mystery drink.” — Ayanokōji.
+[says] (p.98) “Even the quintessential Ayanokōji is a bit taken back.” — Ishizaki.
+[says] (p.98) “I'm going to surprise my customers tomorrow. For 500 points a cup, I'm going to offer them a magical experience.” — Ishizaki.
+[says:ayanokouji-kiyotaka] (p.98) “I'm amazed that Ryūen allowed you to do this.” — Ayanokōji.
+[says] (p.98) “He said, ‘Do whatever you want with your points. We're doing something else tomorrow.’” — Ishizaki.
+[note] (p.98) He saw — Ishizaki was just going to rent the extra space for himself; the expenses minimal; about 10 guests curious about the experience.
+[says:karuizawa-kei] (p.98) “Ugh, a fun date turned into the worst...” — Kei just kept giving Ishizaki resentful glances until she left the place; their relationship, which seemed to have improved a bit, may be back to square one.
+[rel:ishizaki-daichi] (p.96–98) The protein scam; Ryūen's blessing; Kei's conditions.
+[rel:yamada-albert] (p.96–97) Albert's mumbled English — the duo.
+[rel:karuizawa-kei] (p.96–98) The scam attempt; her vomiting reflex; the resentful glances.
+<!-- walk: y2v7 Ch.4 → p.106 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

@@ -2330,14 +2330,6 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [scene] (p.9) Chabashira displays the numbers: Ryūen's Class C has 17,000 points in additional funds — third among second-years (this class 39,400; Ichinose's 26,600; Sakayanagi's 18,800).
 [number] (p.9) Ryūen's class additional funds: 17,000 — “17,000 points for Ryūen's Class C.”
 
-### y2v7 p.46 — He pressed Nagumo for a tens-of-millions bet
-[scene] (p.46) At the student council room, Nagumo tells Ayanokōji: Ryūen pressed him to bet tens of millions of points with him; he would give him the right to expel any student he wanted, even himself; Nagumo refused.
-[says:nagumo-miyabi] (p.46) “He was pressing me to bet tens of millions of points with him.” — Nagumo to Ayanokōji.
-[says:nagumo-miyabi] (p.46) “That guy told me he would give me the right to expel any student I wanted, even himself.” — Nagumo, recounting.
-[says:nagumo-miyabi] (p.46) “Last year I would've taken him up on that offer. I'd be dealing with a separate year, but it would've been interesting if we were playing for expulsion.” — Nagumo.
-[note] (p.46) The attempted wager matches the 5-million-point cultural-festival bet he proposed to Horikita at p.29 — he was hunting for a match, not for the money.
-[rel:nagumo-miyabi] (p.46) He tried to buy a wager with him; Nagumo refused.
-
 ### y2v7 p.28–31 — Ryūen: the "declaration of war"
 [says] (p.29) “I helped you in the sports festival to destroy Class A.”
 [says] (p.29) “We'll have the same concept as you guys.” — copying the maid café
@@ -2349,6 +2341,31 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:kaneda-satoru] (p.28) He smirks as he adds the stall-content details.
 [rel:yamada-albert] (p.28) He arrives with Ishizaki, Albert and Kaneda.
 
+### y2v7 p.46 — He pressed Nagumo for a tens-of-millions bet
+[scene] (p.46) At the student council room, Nagumo tells Ayanokōji: Ryūen pressed him to bet tens of millions of points with him; he would give him the right to expel any student he wanted, even himself; Nagumo refused.
+[says:nagumo-miyabi] (p.46) “He was pressing me to bet tens of millions of points with him.” — Nagumo to Ayanokōji.
+[says:nagumo-miyabi] (p.46) “That guy told me he would give me the right to expel any student I wanted, even himself.” — Nagumo, recounting.
+[says:nagumo-miyabi] (p.46) “Last year I would've taken him up on that offer. I'd be dealing with a separate year, but it would've been interesting if we were playing for expulsion.” — Nagumo.
+[note] (p.46) The attempted wager matches the 5-million-point cultural-festival bet he proposed to Horikita at p.29 — he was hunting for a match, not for the money.
+[rel:nagumo-miyabi] (p.46) He tried to buy a wager with him; Nagumo refused.
+
+### y2v7 p.86–90 — The Traditional Japanese café; “Tell Suzune”
+[scene] (p.86) §1 — inside Ryūen's class's stall, “Special 02” is across the way; the concept of Ryūen's class is “Traditional Japanese style.” The food and beverages were also completely different, including Japanese sweets and tea.
+[note] (p.88) “It seems that Ryūen-kun went to check Class A.” — “Class A?” — “Because they haven't disclosed what kind of presentation they were going to put on.” — Hiyori told him.
+[scene] (p.90) Ryūen came out of a classroom in the back and walked toward them with his hands in his pockets; after a quick glance at Ayanokōji and Hashimoto, he walked straight through and headed downstairs.
+[says:hashimoto-masayoshi] (p.90) “Or are you going to do the same as him and take a closer look, even if you know it's useless?” — Hashimoto.
+[says:ryuuen-kakeru] (p.90) “Tell Suzune that it will be our class that wins tomorrow.” — Ryūen turned his back to face him and stopped; raised the corner of his mouth slightly before opening it.
+[says:ayanokouji-kiyotaka] (p.90) “I bet the Japanese attire cost more than the maid uniforms, didn't they? If you're going to challenge her to a match, at that point, you could have just worked together.” — Ayanokōji.
+[says] (p.90) “It's simply my taste.” — Ryūen; he started walking away.
+[note] (p.96) “He said, ‘Do whatever you want with your points. We're doing something else tomorrow.’” — Ishizaki recounts Ryūen's permission for the protein scam booth (Ishizaki self-funds from his own allocation; Ryūen disclaims involvement).
+[note] (p.92) Matsushita's sabotage fear names Ishizaki and the others — but Ryūen can't use his usual tactics in the presence of so many eyes at the exhibit; “There is no need to worry.” — Horikita.
+[rel:matsushita-chiaki] (p.92) Her fear: Ryūen's class coaching Ishizaki to bug the maid café; Horikita rejects the premise.
+[rel:hashimoto-masayoshi] (p.89–90) The Class A guard; his grin about Ryūen's visit.
+[rel:ishizaki-daichi] (p.96–98) The protein scam is union-made by Ryūen's blessing.
+[rel:horikita-suzune] (p.90) “Tell Suzune that it will be our class that wins tomorrow.” — the declaration to deliver.
+[rel:sakayanagi-arisu] (p.88–89) The unknown presentation of Class A; Ryūen went to check.
+<!-- walk: y2v7 Ch.4 → p.106 -->
+
 ### y2v7 p.175–182 — Ryūen exposes Yagami
 [says] (p.176) “So you're Yagami. I heard you're the one who took care of Komiya and Kinoshita.”
 [says] (p.177) “I know that the GPS on your watch was not functioning”
@@ -2358,6 +2375,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:yagami-takuya] (p.175–182) He identifies and physically confronts him — "he was playing with fire too much."
 [rel:komiya-kyogo] (p.176) He brought him — Yagami was behind his injury.
 [rel:ibuki-mio] (p.180) She's knocked down by Yagami; Ryūen helps her up and leaves.
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

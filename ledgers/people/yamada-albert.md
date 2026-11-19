@@ -312,6 +312,14 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 [note] (p.28) “Ryūen led the way, with Ishizaki, Albert, and Kaneda following behind.” — no lines; present as part of the group.
 [rel:ryuuen-kakeru] (p.28) He arrives with Ryūen.
 
+### y2v7 p.96–97 — The protein scam's English mumbler
+[scene] (p.96) §3 — Ishizaki's booth; a desk, cardboard, disposable chopsticks and cups; Albert is Ishizaki's partner — "an idea of mine and Albert's"; Albert mumbles English as the protein expert.
+[says:ishizaki-daichi] (p.96) “Yes, it is, isn't it? It's an idea of mine and Albert's, you know.” — Ishizaki; the booth they set up together.
+[says] (p.97) “You can't build muscle just by drinking protein shakes.” — Albert stepped forward and mumbled English.
+[says] (p.97) “Don't worry about that. You can't build muscle by just drinking protein shakes. That's right. Since we're here, why don't you two give it a try?” — Albert.
+[rel:ishizaki-daichi] (p.96–98) The duo of the protein scam; Ishizaki runs the front; Albert mans the back line.
+<!-- walk: y2v7 Ch.4 → p.106 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

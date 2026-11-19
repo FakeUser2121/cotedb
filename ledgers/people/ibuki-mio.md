@@ -1107,10 +1107,12 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v7 → start -->
 
-### y2v7 p.7-207 — ibuki-mio mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.88, p.119-120, p.130, p.165, p.167-170.
-[mentioned] (p.7) Passing mention only.
+### y2v7 p.88–89 — Ibuki: the match she lost
+[mentioned] (p.88–89) “By the way, Ibuki-san will be joining us.” — “Ibuki? I had an image that she would never wear this kind of costume.” — “I heard that she had a match with Ryūen-kun for complete exemption from helping at the festival.” — “And she lost.” — “She's not participating today. She said she absolutely hates wearing it outside of the festival.” — the Hiyori-Ayanokōji exchange.
+[note] (p.88) “Ibuki? I had an image that she would never wear this kind of costume.” — Ayanokōji.
+[rel:ryuuen-kakeru] (p.88) The match Ryūen won against her for complete exemption.
+[rel:shiina-hiyori] (p.88–89) Hiyori names Ibuki as her upcoming coworker at checkout — she lost.
+<!-- walk: y2v7 Ch.4 → p.106 -->
 
 ## y2v8
 

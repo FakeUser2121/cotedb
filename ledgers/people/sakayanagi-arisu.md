@@ -1325,6 +1325,25 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [rel:hashimoto-masayoshi] (p.17–18) Her silent partner in the probe.
 [rel:kamuro-masumi] (p.17–18) Her scouting partner.
 
+### y2v7 p.88–90 — The Class A floor: locked down
+[scene] (p.88) §1 sweep — the third floor of the special wing is the farthest from the school gate and the hardest to reach; Sakayanagi's class rented everything there; the 2nd year Class A students roamed the third floor corridors as they pleased.
+[note] (p.89) “I didn't think that Sakayanagi's class would rent everything there, though.” — Ayanokōji; there were three classrooms available here, but until the previous day, they were not popular and had not been rented.
+[note] (p.89) “There were only several cardboard boxes scattered about, their contents not visible, and the students were still in their school uniforms.” — no cooking indoors due to fire regulations; that field disappears.
+[note] (p.89) A sign was posted on the stairs leading to this floor: “Due to an issue, the second-year Class A will not be presenting their activities today.”
+[says:hashimoto-masayoshi] (p.89) “Surprised by the unexpected?” — Hashimoto, who was supposedly keeping an eye on the students coming, approached and called out.
+[note] (p.90) Ryūen came out of a classroom in the back and walked toward them with his hands in his pockets; after a quick glance at the two, he walked straight through and headed downstairs.
+[note] (p.88) Ryūen went to check Class A — “Because they haven't disclosed what kind of presentation they were going to put on.” — the details of Sakayanagi's class had been unknown until the day before the festival.
+[scene] (p.105) §5 — the midnight phone call; Sakayanagi's warning.
+[says] (p.105) “Indeed you may be right. May I have a few minutes of your time now?” — Sakayanagi let out a little chuckle.
+[says] (p.105) “Ayanokōji-kun, you will attend the cultural festival as a matter of course, won't you? My father seems to be concerned that there may be people from the outside who will come to bring you back.” — Sakayanagi; her father is strongly implied to be the chairman (the caller) but the pages do not state it outright — inference, not fact.
+[says] (p.105) “Aren't you afraid? No, that's a foolish question, I'll change the question a bit. Are you perhaps assuming that the people involved will not move to recapture you?” — Sakayanagi.
+[says] (p.106) “So you want to experience your remaining school life and what is normal for a student as much as possible.” — Sakayanagi replied in agreement with his way of thinking.
+[note] (p.105) “The chairman of the board called me a little while ago. He told me that I should consider taking this time off from the main event again, but I politely declined.” — Ayanokōji; he probably would have attended the last sports festival, though, if not for the fact that he had to give Sakayanagi a break.
+[rel:ayanokouji-kiyotaka] (p.105–106) The midnight call; the warning; the chairman's decline; their alignment.
+[rel:hashimoto-masayoshi] (p.89–90) The guard of the Class A floor; his amused exchange with Ayanokōji.
+[rel:ryuuen-kakeru] (p.88–90) He came to check; he left satisfied with the mystery.
+<!-- walk: y2v7 Ch.4 → p.106 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

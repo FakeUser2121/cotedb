@@ -869,6 +869,23 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [note] (p.29–30) “He learned of this fact before Horikita's class learned of it” — the narration; Hashimoto would change the subject as if the conversation never took place.
 [rel:ryuuen-kakeru] (p.29–30) He watches amused as Ryūen declares the copy and the five-million-point wager.
 
+### y2v7 p.89–90 — The Class A guard
+[scene] (p.89) §1 — the third floor of the special wing — the exclusive floor of the 2nd year Class A; Hashimoto, keeping an eye on the students coming, approaches and calls out.
+[says] (p.89) “Surprised by the unexpected?” — Hashimoto.
+[says:ayanokouji-kiyotaka] (p.89) “What's this all about?” — Ayanokōji.
+[says] (p.89) “You can't even understand what you're seeing?” — Hashimoto laughed quietly, perhaps amused that he didn't grasp it.
+[says] (p.89) “That's what it means. I'm sorry you had to come all the way up here, but I'm going to have to ask you to leave.” — Hashimoto; the remainder of the exhibit until we open tomorrow.
+[note] (p.89) A sign was posted on the stairs leading to this floor: “Due to an issue, the second-year Class A will not be presenting their activities today.”
+[says] (p.89) “It looks like Ryūen will be leaving soon, too.” — Hashimoto.
+[scene] (p.90) Ryūen came out of a classroom in the back and walked toward them with his hands in his pockets; after a quick glance at the two, he walked straight through and headed downstairs.
+[says] (p.90) “Or are you going to do the same as him and take a closer look, even if you know it's useless?” — Hashimoto.
+[says:ayanokouji-kiyotaka] (p.90) “I'm going back.” — Ayanokōji.
+[says] (p.90) “Good luck. You'll have to wait until we open to see what happens.” — Hashimoto.
+[rel:sakayanagi-arisu] (p.89–90) He guards her class's floor; he says good luck.
+[rel:ryuuen-kakeru] (p.89–90) Ryūen leaves; Hashimoto chats with him about the mystery.
+[rel:ayanokouji-kiyotaka] (p.89–90) The amused exchange; Hashimoto keeps the gate.
+<!-- walk: y2v7 Ch.4 → p.106 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

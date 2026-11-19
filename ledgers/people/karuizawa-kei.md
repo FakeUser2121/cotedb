@@ -1902,6 +1902,81 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [rel:ayanokouji-kiyotaka] (p.54) He declines; she doesn't miss a beat.
 <!-- walk: y2v7 Ch.2 → p.71 -->
 
+### y2v7 p.92–98 — The scouting walk; the shooting game; Ishizaki's protein scam
+[scene] (p.92) §3 — Kei appears as if she had been waiting for that moment and takes him in her arms; they walk the school together — scouting.
+[says] (p.92) “Let's go together.” — Kei took him in arms.
+[says:ayanokouji-kiyotaka] (p.92) “I'd rather not but I don't think you're going to leave me.” — Ayanokōji.
+[says] (p.92) “I won't leave you.” — Kei.
+[says:ayanokouji-kiyotaka] (p.92) “You're free to go together, but remember that you are only scouting.” — Ayanokōji.
+[says] (p.92) “Yes, yes~” — Kei; she seemed to be at ease from start to finish.
+[scene] (p.93) The first-year stalls — target practice, ring toss, marble-dropping machines; “Oh, it's Yukimura-kun and the others!” — Kei points at Keisei, Sotomura and the other boys busily preparing; they leave them alone.
+[says] (p.93) “Shall we try our hand at ring toss?” — Kei.
+[says] (p.93) “I'll try! Oh, that stuffed animal is kind of cute. I might want one.” — Kei shouted and pointed from behind a student who was experiencing it first.
+[says] (p.93) “Try it, Kiyotaka!” — Kei urged him to try it and lightly pushed him in front of a table where five shooting guns were placed in a row.
+[note] (p.93–94) The cork gun; the bullets were distorted in shape; his first shot passed centimeters to the left; his second passed diagonally to the right; his first target shooting ended in a disastrous failure.
+[says:hosen-kazuomi] (p.94) “Ain't no way. The big bad Ayanokouji himself is a shitty shooter?” — Hōsen came out from behind the stall, laughing with a funny smile on his face.
+[says:ayanokouji-kiyotaka] (p.95) “I couldn't win it.” — Ayanokōji to Kei.
+[says] (p.96) “Because I got to see Kiyotaka's cuteness. I'm super satisfied as far as I'm concerned.” — Kei grinned happily and poked him in the stomach area with her elbow.
+[says:ayanokouji-kiyotaka] (p.96) “What do you mean, 'cuteness'?” — Ayanokōji.
+[says] (p.96) “I was happy that it wasn't like an anime, where you hit it on the first shot. I realized again that you can't do everything.” — Kei.
+[says:ayanokouji-kiyotaka] (p.96) “That's cute, huh? I feel like you usually want your boyfriends to be cool.” — Ayanokōji.
+[says] (p.96) “I've been shown enough of that.” — Kei; she didn't blame him, but rather, her emotions seemed to take pleasure in the fact that he didn't take the prize.
+[scene] (p.96) Ishizaki's booth — a desk, cardboard, disposable chopsticks and cups; protein and citric acid powders; Kei stares suspiciously.
+[says:ishizaki-daichi] (p.96) “Yo, Ayanokōji!” — Ishizaki.
+[says:ishizaki-daichi] (p.96) “Yes, it is, isn't it? It's an idea of mine and Albert's, you know.” — Ishizaki.
+[says] (p.96) “Wow, how did an enforcer like you get permission from Ryūen to do this? You couldn't even set up a birthday party.” — Kei; she stared at Ishizaki suspiciously.
+[says:ishizaki-daichi] (p.96–97) “I wanted to make it happen! I made a proposal just like you told me to do, and I got kicked out of it...” — he held his abdomen; October 20, the day of Ayanokōji and Ryūen's birthdays; Kei's condition was that Ryūen apologize to her directly for what he did on the rooftop and bow down to her; Ryūen did not accept her conditions.
+[says:ishizaki-daichi] (p.97) “But I'll get my revenge next year! You'll just have to wait for me!” — Ishizaki.
+[says:ishizaki-daichi] (p.97) “Who cares? Do you care? Okay, you guys go ahead and give it a try.” — Ishizaki.
+[says:ishizaki-daichi] (p.97) “This is chocolate flavored protein. Well, just take a light lick.” — Ishizaki.
+[says] (p.97) “I don't want it.” — Kei refused to drink it as soon as it was served.
+[says:ishizaki-daichi] (p.97) “Oh, don't be like that. It's just protein.” — Ishizaki.
+[says] (p.97) “I've never had protein before, and I don't want to. I'm not trying to get muscular.” — Kei.
+[says:yamada-albert] (p.97) “You can't build muscle just by drinking protein shakes.” — Albert stepped forward and mumbled English.
+[says:yamada-albert] (p.97) “Don't worry about that. You can't build muscle by just drinking protein shakes. That's right. Since we're here, why don't you two give it a try?” — Albert.
+[says:ishizaki-daichi] (p.97) “Well, I'll drink it for you then, just in case... it's bad.” — Ishizaki; Kei, who drank protein for the first time, frowned as if it didn't taste good.
+[says:ishizaki-daichi] (p.97) “Tastes bad? Well, it's not undrinkable, right?” — Ishizaki.
+[says] (p.97) “It's not undrinkable, but I don't really want to drink it.” — Kei.
+[says:ishizaki-daichi] (p.97) “Well, you need a palate cleanser.” — Ishizaki; water was handed to him, perhaps to rinse out his mouth.
+[note] (p.98) “I think I like this one better.” — printed untagged; both muttered their impressions of the citric acid drink to each other; not assigned.
+[says:ishizaki-daichi] (p.98) “Well, that's the last one. The two you just drank aren't bad, are they?” — Ishizaki.
+[says] (p.98) “I didn't like the protein.” — Kei.
+[says:ishizaki-daichi] (p.98) “You're good, Karuizawa, how about Ayanokōji?” — Ishizaki.
+[says:ayanokouji-kiyotaka] (p.98) “Yes, it wasn't bad at all.” — Ayanokōji.
+[note] (p.98) Ishizaki laughed happily.
+[says:ishizaki-daichi] (p.98) “By the way. If you add citric acid to this chocolate-flavored protein, you get a very strange taste.” — Ishizaki; he handed him the mixed protein.
+[says:ishizaki-daichi] (p.98) “Now drink both of them at the same time.” — Ishizaki.
+[says] (p.98) “I'm kind of scared.” — Kei.
+[says:ayanokouji-kiyotaka] (p.98) “Well, let's drink it.” — Ayanokōji.
+[note] (p.98) The moment he put it in his mouth, he involuntarily stiffened at the taste spreading from the surface of his tongue.
+[says] (p.98) “Shit!” — Kei screamed next to him and spat it out on the spot; she made a vomiting gesture while thrashing about.
+[says] (p.98) “This, that, that tastes like vomit! Eeeeee!” — Kei.
+[note] (p.98) He remembered that taste too — a powerful fist to the abdomen in martial arts training.
+[says:ishizaki-daichi] (p.98) “Hahaha! Yes! That's funny!” — Ishizaki.
+[says] (p.98) “Not funny! Water!!!” — Kei; pushing away Ishizaki, who was laughing exasperatingly, Kei drank from the water bottle.
+[says:ayanokouji-kiyotaka] (p.98) “This is, how can I say this, certainly a mystery drink.” — Ayanokōji.
+[says:ishizaki-daichi] (p.98) “Even the quintessential Ayanokōji is a bit taken back.” — Ishizaki.
+[says:ishizaki-daichi] (p.98) “I'm going to surprise my customers tomorrow. For 500 points a cup, I'm going to offer them a magical experience.” — Ishizaki.
+[says:ayanokouji-kiyotaka] (p.98) “I'm amazed that Ryūen allowed you to do this.” — Ayanokōji.
+[says:ishizaki-daichi] (p.98) “He said, ‘Do whatever you want with your points. We're doing something else tomorrow.’” — Ishizaki.
+[says] (p.98) “Ugh, a fun date turned into the worst...” — Kei just kept giving Ishizaki resentful glances until she left the place; their relationship, which seemed to have improved a bit, may be back to square one.
+[rel:ishizaki-daichi] (p.96–98) The protein scam; Ryūen's blessing; her conditions; the magical experience plan.
+[rel:yamada-albert] (p.96–97) Albert's mumbled English; the duo.
+[rel:hosen-kazuomi] (p.94–96) The Class D games stall; the childhood gambler; she poked him in the stomach with her elbow.
+[rel:sudou-ken] (p.98) Sudō's bodyguard role during the simulation.
+[rel:ayanokouji-kiyotaka] (p.92–98) The scouting walk; his missed targets; the armed scam.
+<!-- walk: y2v7 Ch.4 → p.106 -->
+
+### y2v7 p.100–101 — The Kei-maid refusal; the break rule
+[scene] (p.100) After the cleanup; Horikita announces tomorrow's schedule; only Ayanokōji and Horikita remain in the classroom.
+[says:horikita-suzune] (p.100) “I don't want to do it, but it would be nice to have more hands, wouldn't it? It would have been a little easier if your girlfriend had cooperated.” — Horikita.
+[says:ayanokouji-kiyotaka] (p.100) “I'm sorry, but it's out of my jurisdiction. I've left it to Kei's will.” — Ayanokōji.
+[note] (p.101) “It seemed that Satō and the others, including me, had approached Kei, but she refused to wear the maid's uniform… Not everyone understood Kei's body and her past.” — the narration.
+[says:horikita-suzune] (p.101) “I've made some adjustments based on today's simulation.” — Horikita handed him the notebook.
+[says:horikita-suzune] (p.101) “All festival participants are required to take a one-hour break before the end of the festival after notifying their homeroom teacher.” — the rule.
+[rule] (p.101) All festival participants must take a one-hour break before the end of the festival, after notifying their homeroom teacher; they may not assist with any of the stalls during the break.
+[rel:horikita-suzune] (p.100–101) The maid question; the schedule sign-off; the mandatory break notice.
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

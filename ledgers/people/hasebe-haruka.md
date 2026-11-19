@@ -709,6 +709,14 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [mentioned] (p.25) Sudō spots Akito and Haruka's backs at Keyaki Mall; Ayanokōji asks, “It's not a date, is it?” (untagged); Sudō grinds his teeth — “I wasn't particularly close to Sakura, but I've had similar experiences.” — the echo of withdrawal.
 [note] (p.25) Present in frame only — a sighting, not a scene presence; no lines.
 
+### y2v7 p.84 — The early departure before the rehearsal
+[scene] (p.84) The day before the festival; Haruka and Akito left the classroom before the rehearsal began; Maezono asked about them; Horikita notes there's no point in forcing them.
+[note] (p.84) “There's no point in forcing them to do anything. Let's consider this a good opportunity to test whether 35 people, excluding Kōenji-kun, Hasebe and Miyake, can be left alone without any problems.” — Horikita.
+[rel:miyake-akito] (p.84) He left with her.
+[rel:horikita-suzune] (p.84) Horikita's read: let them be tested in isolation.
+<!-- walk: y2v7 Ch.4 → p.106 -->
+
+
 ### y2v7 p.184–186 — Haruka's apology; staying for Airi
 [says] (p.184) "I have not forgiven everyone here."
 [says] (p.184) "But the person I can't forgive the most is myself."

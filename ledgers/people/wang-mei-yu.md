@@ -273,6 +273,14 @@ char_id: wang-mei-yu · status: minor
 [rel:maezono] (p.16) The floor debate: second floor vs third floor.
 [rel:horikita-suzune] (p.15, 20) The planner circle; Horikita decides and applies by phone.
 
+### y2v7 p.90–92 — Mii-chan's slip; the rehearsal
+[scene] (p.90) §2 — the maid café rehearsal; boys from other classes rushed to watch the girls in cosplay; Mii-chan slips a glass of water on the tray; the person in question froze.
+[note] (p.90) “Sato and Mii-chan's movements seemed to be much more sluggish than during practice.” — the narration.
+[says:matsushita-chiaki] (p.90) “I am terribly sorry.” — Matsushita immediately moves after the slip.
+[rel:matsushita-chiaki] (p.90) She steadies Mii-chan after the slip.
+[rel:satou-maya] (p.90) Sato's movements seem sluggish at the rehearsal.
+<!-- walk: y2v7 Ch.4 → p.106 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

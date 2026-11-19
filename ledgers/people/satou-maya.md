@@ -529,6 +529,16 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [rel:ayanokouji-kiyotaka] (p.54) She leaves with the girls instead of him.
 <!-- walk: y2v7 Ch.2 → p.71 -->
 
+### y2v7 p.85 — The failed appeal
+[scene] (p.85) Satō calls out to Kushida as she gets up — Kushida stops and turns around on the spot; Satō tries as much as possible not to let her guard down; the atmosphere turns sour; Yōsuke stops Horikita from intervening.
+[says] (p.85) “I'd like to do some final checks for tomorrow's event and also practice my activities for the day. Do you think you'll have time today?” — Satō.
+[says] (p.85) “Listen, you keep refusing me like that. When are you seriously going to cooperate?” — Satō.
+[rel:kushida-kikyou] (p.85) Her failed appeal; Kushida refuses her until the very end.
+[rel:hirata-yousuke] (p.85) Yōsuke, standing beside Horikita, stops her from intervening.
+[rel:horikita-suzune] (p.85) Horikita wants to act, but Yōsuke stops her; the hard decision deferred.
+[rel:matsushita-chiaki] (p.85–86) Matsushita backs her complaint to Horikita — “But it's a lie that she has to do things every day, isn't it?”
+<!-- walk: y2v7 Ch.4 → p.106 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->
