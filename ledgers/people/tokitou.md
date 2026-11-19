@@ -6,12 +6,23 @@ char_id: tokitou · class: unknown · status: unknown
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — tokitou mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.144, p.155-156, p.159-167.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.144, 155–167 — The Tokitō rebel (roster split)
+[scene] (p.144) Sits two seats behind Suzuki; Ryūen leans in with his generic freedom line.
+[scene] (p.155) Stands up to declare himself the in-favour voter.
+[says] (p.156) "Because I've seen eye to eye with Ryūen a few times. You could have guessed that I was in favour of it. I could have come forward sooner, but it was painful to see that the number of people in favour of the project wasn't decreasing left and right."
+[says] (p.156) "It's to show the class that they're wrong. I'm not trying to embarrass the class, I'm just frustrated that you're in charge."
+[says] (p.157) "Don't make me laugh. If the vote is unanimous in favour of the proposal, you're the one who will be expelled, Ryūen."
+[says] (p.159) "You once stood up to Ryūen, remember? Remember that rebellious spirit."
+[note] (p.159–161) The rooftop rebellion reference — Ishizaki's year-1 story of taking control of Class D; he invokes it to rouse the rebels.
+[says] (p.160) "So what? If I wasn't prepared to stab this guy in the back from the beginning, I wouldn't have come forward in the first place."
+[says] (p.165) "Damn you, Ryūen."
+[note] (p.165) Adjacent narration: "Said Tokitō under his breath as he cast his vote."
+[says] (p.166) "Don't get me wrong, Ryūen, I'm not approving of your methods. If I decide that you've done something that prevents our class from moving up to Class A, I'll eliminate you as soon as I can."
+[note] (p.144, p.155–167) The print gives "Tokitō" alone. The roster carries two rows — tokitou (Katsumi) and tokitou-hiroya (Hiroya). The y2v4.5/y2v8/y2v10 passes recorded this Class D Tokitō as Hiroya-by-context; this pass records the same context (Ryūen's circle, p.144; his rebellion, p.155–167). Recorded as Hiroya-by-context; both roster rows carry the note; owner decision pending.
+[rel:ryuuen-kakeru] (p.144–167) His mortal rival.
+[rel:katsuragi-kouhei] (p.155–167) The chess opponent who saves his life.
 
-
+<!-- walk: y2v5 Ch.6 → p.167 -->
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

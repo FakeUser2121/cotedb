@@ -1073,11 +1073,23 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — ibuki-mio mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.146, p.149-152, p.162.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.146–152 — Ibuki: the designated sacrifice who refuses
+[scene] (p.146) Looking bored through the exam until now, she voices dissatisfaction when Ryūen declares his vote consolidated in opposition.
+[says] (p.146) "Wait a minute. This isn't like you, is it?"
+[says] (p.146) "You're in favour of it, aren't you?"
+[says] (p.146) "I voted against. But it's none of your business what I thought."
+[says] (p.150) "I'm sorry, but I'm not going to let you expel me."
+[says] (p.150) "I don't really care about school, but there are people I want to get revenge on in my own way."
+[says] (p.150) "Not really. I never intended to be friends with you in the first place. You'd do anything to win."
+[says] (p.151) "I still have unfinished business with this school."
+[says] (p.151) "That's what I mean."
+[trait] (p.146–152) The class pariah with nothing to lose except revenge targets — when the girls' caste group (Yabu/Morofuji) names her as the expulsion candidate, she refuses in front of everyone and vows to sink the class with her own against vote.
+[rel:ryuuen-kakeru] (p.146–152) Treats her as his unwelcome extension; she treats him as worse than an enemy.
+[rel:yabu-nanami] (p.149–152) The caste's dagger — named to be the sacrifice.
+[rel:morofuji-rika] (p.149–152) The second dagger.
+[rel:ishizaki-daichi] (p.160) His clumsy defense of her fails.
 
+<!-- walk: y2v5 Ch.6 → p.167 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

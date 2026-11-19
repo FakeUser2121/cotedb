@@ -29,14 +29,15 @@ char_id: yajima-mariko · class: Class 1-C (enrolled April 2015) · status: mino
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — yajima-mariko mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.154-155.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.154–155 — Yajima: named as the wandering voter
+[scene] (p.154) Ryūen calls her out mid-exam — "It's you, right? Yajima." — she stands to deny it.
+[says] (p.154) "W-what? No, no!"
+[says] (p.154) "No, no... I'm...!"
+[note] (p.154) Adjacent narration names her outright: "The one who was named was Mariko Yajima. She hurriedly stood up to deny it, but she was clearly upset and her demeanor was restless."
+[trait] (p.154–155) Exposed as the for/against "wanderer" — denies it, is given an ultimatum, retreats entirely to the against column; the class's most rattled member under Ryūen's gaze.
+[rel:ryuuen-kakeru] (p.154–155) She is his proof that anonymity protects no one who fears him.
 
-
-
-
+<!-- walk: y2v5 Ch.6 → p.167 -->
 ## y2v12
 
 <!-- walk: y2v12 → start -->

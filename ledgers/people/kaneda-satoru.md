@@ -282,14 +282,24 @@ aliases used for anchors: kaneda, kaneda satoru, kaneda-kun
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — kaneda-satoru mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.141, p.143-145, p.147, p.159.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.143–159 — Kaneda: the class's value calculator
+[says] (p.143) "Is this the best answer you guys can come up with?"
+[says] (p.143) "Is it because the number of affirmative votes is decreasing?"
+[note] (p.143) Adjacent narration: "Kaneda asks as he adjusts the position of his glasses, but Ryūen immediately denied it."
+[says] (p.147) "Against, as instructed by Ryūen-san."
+[note] (p.147) Printed untagged; alternation with Nishino's line in Ryūen's "Kaneda, Nishino" call-out (his line is the first of the two); adjacent-context attribution.
+[says] (p.145) "To win, I guess. It's never good to have a student drop out, but I think it's more important to get 100 class points."
+[says] (p.145) "That's a foolish question, Ryūen-san. If you're useless, you can cut out people you don't need, but you won't kick out people you do need. At least in this class, my value is not 100 class points."
+[says] (p.145) "Thank you very much."
+[says] (p.159) "May I ask you one question, Tokitō-kun?"
+[says] (p.159) "It is true that if the special exams fail, it is logical to nod that part of the responsibility lies with the leader. However, if the vote to expel the student by unanimous approval begins, it will definitely be you who will be expelled, right? In fact, many students continue to vote against as instructed."
+[note] (p.159) Adjacent narration: "While adjusting the position of his glasses, Kaneda raised his hand."
+[trait] (p.143–159) Cool, analytical — votes for the points at first, publicly accepts Ryūen's order to flip, and coldly presses Tokitō on the math that the decisive vote will expel him, not Ryūen.
+[rel:ryuuen-kakeru] (p.143–159) His balance sheet vis-à-vis Ryūen's.
+[rel:tokitou-hiroya] (p.159) Applies the decisive-vote logic to him.
+[rel:nishino-takeko] (p.147) His co-analyst in indecision.
 
-
-
-
+<!-- walk: y2v5 Ch.6 → p.167 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->

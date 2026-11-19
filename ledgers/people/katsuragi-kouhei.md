@@ -885,14 +885,27 @@ char_id: katsuragi-kouhei · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — katsuragi-kouhei mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.155-156, p.160-161, p.163-164, p.166-167, p.170.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.155–167 — Katsuragi: the class's unwilling savior
+[scene] (p.155) Grabs Ishizaki's arm as he lunges at Tokitō; warns that violence will disqualify him and end the exam.
+[says] (p.155) "Stop it, Ishizaki. We're in the middle of a special exam. Are you planning on committing violence here? If you make a bad move, Sakagami-sensei will not tolerate it, and will sentence you to stop the exam, isn't that right?"
+[says] (p.155) "Of course. If that happens, of course, this special exam will end with your disqualification."
+[scene] (p.160) Intercedes for Tokitō against Ryūen — stands up uninvited, unruffled by Ryūen's instruction to shut up.
+[says] (p.160) "Wait, Ryūen. Let me give Tokitō a moment of my time?"
+[says] (p.160) "As you say, it's not wrong to think that as long as the number of people who don't follow Ryūen doesn't reach zero, we're safe."
+[says] (p.163) "That's right. If I had voted against, it would have taken the form of one vote in favour and thirty-nine against, as you declared, and it would have been brought to a decisive vote."
+[says] (p.163) "There's one reason. I think that Tokitō is a necessary student for the class."
+[says] (p.163) "I just don't like the way you put the class in danger, just to drag Ryūen down."
+[says] (p.163) "But you didn't realize the possibility and tried to push forward."
+[says] (p.166) "I suppose half of them were. But the other half of you were exploring the possibility that you weren't, weren't you?"
+[note] (p.163) The print once spells him "Katusuragi" (typo for Katsuragi); kept as printed.
+[note] (p.160–167) The revelation: the five "in favour" votes were Shiina, Yamada, Ryūen and Katsuragi himself plus Tokitō — Ryūen planned Tokitō's survival from the start; Katsuragi's vote choice protected him.
+[trait] (p.155–167) The class's external conscience — the Class A transfer who entered to chase Class A, ends up saving the rebel and safeguarding the class; he openly declares this class has "not a single unwanted student" and that he wants to win it the trophy.
+[rel:ryuuen-kakeru] (p.155–167) His rival-teacher in all but name — Ryūen reads him completely and uses him anyway.
+[rel:tokitou-hiroya] (p.155–167) Vouches for him as "a necessary student"; refuses to let him be expelled for pride.
+[rel:ishizaki-daichi] (p.155) Shoved down to stop the assault.
+[rel:shiina-hiyori] (p.164–167) She reported Katsuragi and Tokitō's conversation to Ryūen; Ryūen confirms the trail.
 
-
-
-
+<!-- walk: y2v5 Ch.6 → p.167 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

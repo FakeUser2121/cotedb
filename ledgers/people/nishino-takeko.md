@@ -100,14 +100,23 @@ char_id: nishino-takeko · class: Class 1-C · status: minor
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — nishino-takeko mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.141, p.144-145, p.147-149, p.151-152, p.154.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.141, 144–152 — Nishino: quick to vote for, slow to fold
+[scene] (p.141) Raises her hand for "in favour" while staring out the window, looking unmotivated.
+[says] (p.145) "Huh? No way. I just agreed to the quickest way to get more class points. The only reason I raised my hand is because I don't like sneaking around."
+[says] (p.147) "I'm for it, but I don't want to upset the harmony, so I voted against it."
+[note] (p.147) Alternation with Kaneda's "Against, as instructed by Ryūen-san." — the print order of Ryūen's question is "Kaneda, Nishino" — first line = Kaneda, second = Nishino; untagged in the print; adjacent-context attribution.
+[says] (p.148) "At this rate, how are you going to get the vote to go against?"
+[note] (p.148) Adjacent narration: "Nishino, no longer trying to hide his frustration, asks Ryūen about his policy."
+[says] (p.151) "We're fighting to win. Your half-hearted camaraderie will only create confusion."
+[note] (p.151) Adjacent narration: "It was Nishino, who had been standing next to Ishizaki for some time, who stopped him."
+[says] (p.152) "Why did you have to go through this farce like you just did? Isn't it a complete waste of time?"
+[note] (p.152) Adjacent narration: "Nishino pointed out that Yabu and Ibuki could have stopped arguing earlier..."
+[trait] (p.141–152) The honest "for" voter — votes for the quickest points openly, flips publicly at Ryūen's command, grows openly frustrated as the farce proceeds, and stops Ishizaki from making the fatal misstep.
+[rel:ryuuen-kakeru] (p.144–152) His designated stop-gap; she complies loudly rather than obediently.
+[rel:ishizaki-daichi] (p.151) Physically blocks him from intervening.
+[rel:kaneda-satoru] (p.147) Her co-conspirator in indecision.
 
-
-
-
+<!-- walk: y2v5 Ch.6 → p.167 -->
 ## y2v8
 
 <!-- walk: y2v8 → start -->

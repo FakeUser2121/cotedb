@@ -214,14 +214,16 @@ char_id: komiya-kyogo · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — komiya-kyogo mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.142, p.206.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.142 — Komiya: the compliance chorus
+[says] (p.142) "Hey, there's nothing to be gained by hiding opinions, is there?"
+[says] (p.142) "It's not like we're going to get mad at you for voting in favour once."
+[says] (p.142) "It's not like you were being told what to do. It was your personal choice to vote for or against, right?"
+[note] (p.142) Adjacent narration: "Komiya explains that they can't be blamed for that, and just to be sure, he checks with Ryūen to make sure he's right. However, when Ryūen didn't respond immediately, it caused a moment of tension in Komiya."
+[trait] (p.142) Democracy's costumed advocate — exhorts the silent "in favour" voters to come forward under the guise of fairness.
+[rel:ryuuen-kakeru] (p.142) His check-in backfires into a frozen second of fear.
+[rel:ishizaki-daichi] (p.142) Both prod the class toward compliance.
 
-
-
-
+<!-- walk: y2v5 Ch.6 → p.167 -->
 ## y2v7
 
 <!-- walk: y2v7 → start -->

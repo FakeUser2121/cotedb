@@ -70,10 +70,16 @@ char_id: yabu-nanami · class: Class 1-C · status: minor (allies)
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — yabu-nanami mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.149-152, p.159.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.149–152 — Yabu: the head of the girls' caste
+[says] (p.149) "How about we make it a unanimous vote in favour of it, and ask the kids who can be expelled to leave the school?"
+[says] (p.149) "No, I'm not. I've voted against every time so far. But if the for doesn't work, I'm starting to think I can change my policy that way."
+[says] (p.149) "For example, how about expelling Ibuki?"
+[says] (p.150) "You just don't care about anything. You're trying to be clear, but you're still scared?"
+[says] (p.150) "You used to be the waist of Manabe. Were you so happy to be the leader of the girls once she was gone?"
+[note] (p.149) The print spells her "Yabu Mimi" (roster: Yabu Nanami; two roster rows exist — see progress2.md); kept as printed; adjacency names her: "Yabu Mimi, who had been watching the situation up to this point, made a suggestion."
+[trait] (p.149–152) Class D's girls' queen — volunteers Ibuki as the sacrifice, laughs at her courage, and is snubbed by Ryūen when she oversteps.
+[rel:ibuki-mio] (p.149–152) Her chosen sacrifice; she laughs hardest at her defiance.
+[rel:morofuji-rika] (p.149) Her first co-conspirator.
+[rel:ryuuen-kakeru] (p.149–152) Her ally of convenience; he rebukes her name-calling speed.
 
-
-
+<!-- walk: y2v5 Ch.6 → p.167 -->

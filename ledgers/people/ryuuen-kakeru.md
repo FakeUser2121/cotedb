@@ -2258,7 +2258,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [trait] (p.182–191) Secretly earned 280,000 points for the exam (most of Class 2-B kept in the dark); wants to hunt down Utomiya (A physical ability — capable of pushing Komiya unnoticed), but Nanase brokers a deal to delay in exchange for a witness in the case; suspicious she's hiding something but accepts.
 [rel:nanase-tsubasa] (p.182–191) Uses her to interrogate Kurachi; agrees to her deal for information.
 [rel:utomiya-riku] (p.190) The suspected attacker — Ryūen wants to confront him directly.
-[rel:komiya] (p.182) Investigating who injured him — a mistake could half destroy the class
+[rel:komiya-kyogo] (p.182) Investigating who injured him — a mistake could half destroy the class
 
 <!-- walk: y2v4.5 ch5 → p.216 -->
 
@@ -2292,9 +2292,9 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [trait] (p.140–151) Masterfully controls his class — with Q1/Q3/Q4 unanimously decided by his word, he currently allows debate on Q5, forcing students to reveal their "true intentions" through repeated votes and show of hands; though he voted "for" three times, he respects the majority's "against" and changes his vote (because anonymity makes "for" unanimity impractical), explaining to Ibuki he'd otherwise have forced it through.
 [rel:ishizaki-daichi] (p.141–146) His follower — repeatedly asks for instructions, startled by Ryūen's uncharacteristic silence and deference to the majority.
 [rel:ibuki-mio] (p.146) Calls out his out-of-character behavior — suspects he actually wanted the points.
-[rel:kaneda] (p.144–145) One of the "for" voters — argues his value to the class exceeds 100 points, so he can't be expelled.
-[rel:nishino] (p.145) "For" voter — likes the quickest way to get points and doesn't like sneaking around.
-[rel:komiya] (p.142) Urges silent "for" voters to raise their hands so no one is blamed.
+[rel:kaneda-satoru] (p.144–145) One of the "for" voters — argues his value to the class exceeds 100 points, so he can't be expelled.
+[rel:nishino-takeko] (p.145) "For" voter — likes the quickest way to get points and doesn't like sneaking around.
+[rel:komiya-kyogo] (p.142) Urges silent "for" voters to raise their hands so no one is blamed.
 
 ### y2v5 p.86, 117 — Ryūen named as the likely "for" wildcard
 [mentioned] (p.86) Q1 opponent question: the class's choices are "Sakayanagi, Ryūen, or Ichinose" (Class A, D, B); Ryūen's class is one of the three.
@@ -2302,6 +2302,27 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [mentioned] (p.88) Kei: "it wouldn't be funny if we lost to Sakayanagi-san's class" — the feared third outcome of Q2; rewards consideration again.
 
 <!-- walk: y2v5 Ch.4 → p.126 -->
+
+### y2v5 p.152–167 — Ryūen's endgame: Yajima, the bluff, the reveal
+[scene] (p.153) Tenth vote comes at six in favour; Ryūen kicks the back of the podium; thunders that seven are betraying him with their faces.
+[says] (p.153) "You guys can't even vote against me without me telling you what to do?"
+[says] (p.154) "It's you, right? Yajima."
+[says] (p.154) "If I say it's black, it's black. And if I say it's white, it's white."
+[says] (p.155) "I have to admit, he's a bonehead. But even so, I'm not satisfied with it."
+[says] (p.155) "If that's the case, we'll have to make it a unanimous vote in favour."
+[says] (p.161) "Fine. Tokitō, I'll give you a chance. The next vote depends entirely on your one vote."
+[says] (p.161) "Kuku. I turned in those four votes during this interval."
+[says] (p.164) "No, I wasn't. I was giving you a chance to not get expelled."
+[says] (p.166) "You can come at me anytime. And when you do, I'll take you on without mercy."
+[trait] (p.152–167) The master in his room — isolates Yajima by name and breaks her will; stalks the five "in favour" votes; flips four of them mid-interval without anyone noticing; turns his intimidation of the rebel into his salvation; reveals that his plan saved Tokitō, not sacrificed him.
+[rel:yajima-mariko] (p.154) Breaks her publicly.
+[rel:tokitou-hiroya] (p.155–166) The duel — he scores the checkmate and lets him live.
+[rel:shiina-hiyori] (p.164–167) Their implicit chess partnership surfaces.
+[rel:katsuragi-kouhei] (p.160–167) His shadow government; Katsuragi saves Tokitō within Ryūen's own design.
+[rel:ishizaki-daichi] (p.153) His loudest echo.
+[rel:nishino-takeko] (p.147–152) His instructed counterweight.
+
+<!-- walk: y2v5 Ch.6 → p.167 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->
@@ -2356,7 +2377,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [says] (p.180) "Shut up. Don't yell so close to me, you little bitch."
 [trait] (p.175–182) Arrives at the student council room with Komiya and Kinoshita (having been tipped off), grabs Yagami by the bangs and exposes him — the GPS on Yagami's watch was off during the "accident" that injured Komiya/Kinoshita; when Yagami snaps and attacks, Ryūen stops the teachers ("Pull back. He's not fucking around") and prepares to fight him, telling him "you're only a punk."
 [rel:yagami-takuya] (p.175–182) He identifies and physically confronts him — "he was playing with fire too much."
-[rel:komiya] (p.176) He brought him — Yagami was behind his injury.
+[rel:komiya-kyogo] (p.176) He brought him — Yagami was behind his injury.
 [rel:ibuki-mio] (p.180) She's knocked down by Yagami; Ryūen helps her up and leaves.
 ## y2v8
 

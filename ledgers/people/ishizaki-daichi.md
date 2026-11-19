@@ -780,11 +780,23 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — ishizaki-daichi mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.140, p.142-148, p.151, p.155, p.160-161.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.140, 142–148, 155, 160–161, 166 — Ishizaki: Ryūen's echo, Katsuragi's casualty
+[scene] (p.140) After the results, he is the first to ask for instructions from Ryūen.
+[says] (p.142) "Hurry up and raise your hands before I start getting annoyed!"
+[note] (p.142) Adjacent narration: "Hurrying to change the atmosphere of the place, Ishizaki hurriedly followed up."
+[says] (p.143) "Please, give us some instructions..."
+[note] (p.143) Adjacent narration: "At first, Ishizaki and the others seemed to be able to say so... the more time passed, the more their mouths closed."
+[says] (p.148) "But it's a problem if they don't follow Ryūen-san's instructions!"
+[says] (p.160) "But, but... Even Ibuki is our..."
+[says] (p.160) "What?!"
+[says] (p.166) "Tokitō, you..."
+[trait] (p.140–166) Ryūen's loudest echo — panics at the invisible "in favour" camp, hopes for the expulsion order, cowers under Ryūen's silence, almost leaps at Tokitō until Katsuragi grabs his arm, and is left speechless at the revelation of Ryūen's design.
+[rel:ryuuen-kakeru] (p.140–166) His god; his total devotion is unaffected by the exam's morality.
+[rel:ibuki-mio] (p.160) Tries to defend her clumsily.
+[rel:katsuragi-kouhei] (p.155–160) Katsuragi stops his assault on Tokitō; he resents it.
+[rel:tokitou-hiroya] (p.155–166) The rebellion's poster child; Ishizaki loses his nerve at its climax.
 
+<!-- walk: y2v5 Ch.6 → p.167 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

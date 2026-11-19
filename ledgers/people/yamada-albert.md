@@ -283,14 +283,11 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — yamada-albert mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.164.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.164 — Yamada named among the five "in favour" voters
+[mentioned] (p.164) Katsuragi circles and names the five: "Shiina, Yamada, Ryūen and myself" (plus Tokitō). The roster carries only one Yamada row — yamada-albert. Whether this Yamada is Albert is not resolved by the print; the Class D roster has "Yamada" without a given name.
+[note] (p.164) Recorded, not resolved; owner decision pending (the Albert/Keisei/Yukimura ambiguity documented for y2v10 and this volume).
 
-
-
-
+<!-- walk: y2v5 Ch.6 → p.167 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->
