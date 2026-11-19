@@ -76,6 +76,12 @@ char_id: maezono · class: Class 1-D · status: minor
 
 <!-- walk: y2v5 Ch.2 → p.28 -->
 
+### y2v5 p.93–96 — Maezono: the Hokkaido spearhead
+[says] (p.93) "Wait a minute. I'll admit that Okinawa is one of the standard places, but if you say that, then so is the North Coast Highway. It's not even a close call in terms of votes. Don't you want to go skiing or something?"
+[scene] (p.95–96) Women's team spearhead — "The Hokkaido team, spearheaded by Maezono, middleweight Ishikura, and general Shinohara. This is a women's team." — beats Onodera in the first game.
+[trait] (p.93–96) Ski-or-nothing — argues Hokkaido's merits on snow logic, not ocean logic.
+
+<!-- walk: y2v5 Ch.4 → p.126 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

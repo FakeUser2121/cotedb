@@ -652,6 +652,16 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [rel:sakura-airi] (p.219–226) Her best friend — she tries to take Airi's place, then is forced by Airi to vote "for" her; devastated by the loss.
 [rel:ayanokouji-kiyotaka] (p.219–226) Blames him for choosing Airi; he deliberately breaks her to force Airi's acceptance.
 [rel:ishigami-kyou] (p.220) Keisei's pragmatic aside ("losing 300 class points is critical") betrays his real feelings and angers her.
+
+### y2v5 p.84, 118 — Haruka: pushes Airi forward; probes the vote
+[scene] (p.84) Before the start of the exam, pushes Airi to speak to Ayanokōji — "Look, Airi. You need to go say it properly, okay?" — Airi runs over, pleads with her eyes, invites him to talk about the cultural festival; she watches them part.
+[says] (p.118) "Miyacchi, does that mean we have to get someone to drop out?" — addressed to Miyake Akito during the Q5 debate
+[note] (p.84) The print does not name Haruka in the p.84 narration but the scene is hers (her push + Airi's approach); adjacent-context attribution.
+[rel:sakura-airi] (p.84) Shoves Airi into the conversation she must have; stays present as emotional cover.
+[rel:miyake-akito] (p.118) Interrogates his position on expulsion.
+[rel:ayanokouji-kiyotaka] (p.84) Smugs — pushes Airi at him; he plays it cool.
+
+<!-- walk: y2v5 Ch.4 → p.126 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

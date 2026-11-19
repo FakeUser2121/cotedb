@@ -413,6 +413,13 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y2v5 Ch.3 → p.75 -->
 
+### y2v5 p.83, 91, 95–96 — Shinohara: the Hokkaido general
+[scene] (p.83) Chats with Ike before the exam about going to Keyaki Mall after — "Ike and Shinohara, who have become a close couple, discuss what to do after school."
+[scene] (p.91) Present at the destination vote; Hokkaido is her camp — she will take the general position in rock-paper-scissors.
+[scene] (p.95–96) Rock-paper-scissors: the Hokkaido team's general; throws par for the second time in a row against Sudō; her par counter ends the Okinawa hopes; the class votes 39-0 for Hokkaido in the third round.
+[note] (p.95) "Definitely Hokkaido! Hot springs and Skiing!" (Hokkaido's chant) and "Definitely Okinawa! Beaches and snorkelling" (Okinawa's chant) are printed untagged team chants; no individual chanter is named in the print; the par-versus-par duel is printed as the decisive moment of the general round.
+
+<!-- walk: y2v5 Ch.4 → p.126 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

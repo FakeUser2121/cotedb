@@ -4479,8 +4479,6 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [scene] (p.85) As agreed emergency leader, rises to guide the class after the first (non-unanimous) vote; explains her reasoning for choosing Class B as the exam opponent (fair fight, currently B, on a downward slope, unlikely to outsmart them).
 [says] (p.87) "As the votes are scattered, each of us must have something to think about."
 [says] (p.87) "Ichinose-san is likely to be a fair fight, a clash of pure potential."
-[says] (p.110) "my policy is to not let anyone drop out of school."
-[says] (p.116) "We can get through this special exam without anyone dropping out."
 [trait] (p.85–105) Skillful and fair — wins unanimity on Q1 with clear reasons, navigates the Hokkaido/Okinawa deadlock on Q2, and accepts Keisei's protection-point argument on Q3 (even though it benefits her); her growth into a "pillar of support" is evident.
 [rel:ayanokouji-kiyotaka] (p.85–105) Her pre-exam voting pact holds; he protects her image and backs her strategy.
 [rel:ishigami-kyou] (p.100–103) Accepts his protection-point argument.
@@ -4493,12 +4491,16 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says] (p.114) "I made a promise to Kōenji-kun before the island exam started."
 [says] (p.115) "Give me some time to think about it."
 [says] (p.121) "If the number of votes in favour still doesn't reach zero... then I'll have no choice but to speak the name."
+[says] (p.112) "As I said before, my policy is to not let anyone drop out of school."
+[says] (p.116) "We can get through this special exam without anyone dropping out."
 [says] (p.125) "I'm not your enemy. I'm on your side."
 [trait] (p.107–126) Under immense pressure, stays principled and calm — explains the voting pact, refuses to publicly name the unseen "in favour" voter (it would cost her future standing as a leader), negotiates Kōenji's vote with a private-points deal (10,000/month until graduation), and pleads with the unidentified voter without naming them — "like a cry of grief."
 [rel:kouenji-rokusuke] (p.113–120) She refuses to break her promise to protect him, and buys his vote with a deal.
 [rel:karuizawa-kei] (p.121) Takes Kei's hint that she suspects someone — acknowledges she may know who.
 [rel:sudou-ken] (p.110) He demands she name the "in favour" voter; she refuses without certainty.
 [rel:chabashira-sae] (p.124–125) The teacher's old story gives her "words to face this special exam again."
+
+<!-- walk: y2v5 Ch.4 → p.126 -->
 
 ### y2v5 p.171–181 — Horikita's one-vote-at-a-time appeal fails
 [says] (p.171) "If you placed your vote against... please raise your hand."

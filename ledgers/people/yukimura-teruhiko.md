@@ -992,6 +992,13 @@ char_id: yukimura-teruhiko · class: Class 1-D (enrolled April 2015) · status: 
 [rel:hasebe-haruka] (p.46, 50) Members of her Ayanokōji Group circle.
 
 <!-- walk: y2v5 Ch.3 → p.75 -->
+
+### y2v5 p.101–102 — The print swaps the option-two pitcher
+[note] (p.101) Horikita addresses the option-two pitcher as "Yukimura-kun" ("Then Yukimura-kun, you are saying that we should grant protection points to three students?").
+[note] (p.101–102) The narration attributes the same pitch to Keisei ("I can understand why Keisei pushes that there are many ways to use protection points."; "That's what Horikita is, according to Keisei."), and the adoption is recorded as "Keisei's idea was adopted" (p.103). The print attributes the option-two pitch to two names in this scene; the print itself does not resolve which classmate pitched it.
+[note] (p.100–103) Yukimura Teruhiko has no spoken lines on these pages; the print conflates the option-two pitcher with Keisei. Recorded, not resolved; owner decision pending (the same ambiguity pattern is documented for y2v10, where the print names the turn-2 answerer as both Yukimura and Keisei).
+
+<!-- walk: y2v5 Ch.4 → p.126 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

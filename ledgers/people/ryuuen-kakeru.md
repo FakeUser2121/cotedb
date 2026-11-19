@@ -2295,6 +2295,13 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [rel:kaneda] (p.144–145) One of the "for" voters — argues his value to the class exceeds 100 points, so he can't be expelled.
 [rel:nishino] (p.145) "For" voter — likes the quickest way to get points and doesn't like sneaking around.
 [rel:komiya] (p.142) Urges silent "for" voters to raise their hands so no one is blamed.
+
+### y2v5 p.86, 117 — Ryūen named as the likely "for" wildcard
+[mentioned] (p.86) Q1 opponent question: the class's choices are "Sakayanagi, Ryūen, or Ichinose" (Class A, D, B); Ryūen's class is one of the three.
+[mentioned] (p.117) "Definitely Ryūen's class, they're going to cut out the right guy, aren't they?" — Sudō, mid-Q5; Sudō's read: Ryūen's class will push "for".
+[mentioned] (p.88) Kei: "it wouldn't be funny if we lost to Sakayanagi-san's class" — the feared third outcome of Q2; rewards consideration again.
+
+<!-- walk: y2v5 Ch.4 → p.126 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

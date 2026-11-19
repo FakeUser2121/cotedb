@@ -163,6 +163,12 @@ char_id: ishigami-kyou · class: unknown · status: unknown
 [rel:ayanokouji-kiyotaka] (p.100–103) His argument wins Ayanokōji's support despite his own preference for other options.
 [rel:horikita-suzune] (p.100–103) Argues for giving her a protection point ("protect our leader").
 
+### y2v5 p.101–102 — The print swaps the option-two pitcher
+[note] (p.101) Horikita addresses the option-two pitcher as "Yukimura-kun" ("Then Yukimura-kun, you are saying that we should grant protection points to three students?").
+[note] (p.101–102) The same pitch is credited to Keisei by the narration twice ("I can understand why Keisei pushes that there are many ways to use protection points."; "That's what Horikita is, according to Keisei."); and the adoption is recorded as "Keisei's idea was adopted" (p.103). The print attributes the option-two pitch to two names in this scene; the print does not resolve which classmate pitched it.
+[note] (p.95) His rock-paper-scissors volunteer loss is attributed to "Keisei" consistently in the print ("It was Keisei who expressed his strong will"; "I'm counting on you to take care of me, Keisei").
+
+<!-- walk: y2v5 Ch.4 → p.126 -->
 ## y2v10
 
 <!-- walk: y2v10 → start -->

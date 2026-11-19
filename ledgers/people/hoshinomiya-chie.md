@@ -533,11 +533,20 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 
 <!-- walk: y2v5 → start -->
 
-### y2v5 p.7-243 — hoshinomiya-chie mentioned in passing
-[scene] (p.7) Named in this volume.
-[note] (p.7) Passing mentions on pages: p.7, p.9, p.34, p.36, p.78-80.
-[mentioned] (p.7) Passing mention only.
+### y2v5 p.78–80 — Chie spots Chabashira's collapse coming
+[says] (p.78) "Um, I know it's a little late, but do you have a minute?" — adjacent narration: the reply addresses "Hoshinomiya-sensei"
+[says] (p.78) "As I recall, the last time this exam was held... 11 years ago, a measure was taken to shuffle the teachers so that they would not be assigned to the same class, right?"
+[says] (p.78) "So why is it that this time the homeroom teacher is still looking after their own class? If you are concerned about fairness, I think you should change it."
+[says] (p.79) "That's what I thought."
+[says] (p.79) "Sure, whatever. I'm somewhat convinced, so please proceed."
+[says] (p.80) "It's finally here, Sae-chan."
+[says] (p.80) "You couldn't sleep last night because you were thinking about the special exam, right?"
+[says] (p.80) "Whatever, just know that Sae-chan doesn't have the qualifications to aim for Class A."
+[note] (p.76–80) "Sae-chan" is her nickname for Chabashira; the personal edge to her lines is openly resentment — not aimed at Chabashira's students, but at Chie's standing as the better-class person.
+[rel:chabashira-sae] (p.78–80) Her oldest sparring partner; the one who spots the insomnia and calls it out.
+[rel:ikari-sensei] (p.78–79) Audits; she provokes, he answers.
 
+<!-- walk: y2v5 Ch.4 → p.126 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

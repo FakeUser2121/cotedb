@@ -1845,6 +1845,23 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:horikita-suzune] (p.29) His instant obedience to her one-line rebuke shows the nascent master/student bond.
 
 <!-- walk: y2v5 Ch.3 → p.75 -->
+
+### y2v5 p.92–96, 98, 109–113, 117–118 — Sudō: the Okinawa champion
+[scene] (p.92) Raises his hand to give his destination opinion — "Okay, I'll start. I want to go to Okinawa. Okinawa is the most popular school trip because of the ocean, right?"
+[says] (p.92) "Okay, I'll start. I want to go to Okinawa."
+[scene] (p.92) Raises his hand to give his destination opinion and pitches Okinawa ("Okinawa is the most popular school trip because of the ocean, right?").
+[scene] (p.95–96) Rock-paper-scissors: middleweight on the Okinawa team; throws a powerful par; loses the match to Shinohara; the class votes 39-0 for Hokkaido; he is berated.
+[says] (p.109) "Hey, who the hell voted in favour of that? Are you kidding me?"
+[note] (p.109) Printed untagged; named via adjacent narration ("Sudō's strong gaze was unilaterally directed at Kōenji.").
+[says] (p.117) "Definitely Ryūen's class, they're going to cut out the right guy, aren't they?"
+[note] (p.117) Printed untagged; named via adjacent narration ("Sudō says without hesitation, crossing his arms at the back of her head.").
+[trait] (p.92–117) Okinawa or bust — the loudest voice for the ocean option; publicly bottom-bracket for private points (his own cash situation is exposed); burns at the 100-points-for-an-expulsion question; suspects Kōenji; thinks Ryūen's class will save the "for" camp — and is talked down only by Horikita.
+[rel:ike-kanji] (p.98) Reassures him about sharing — grudging, decent.
+[rel:shinohara-satsuki] (p.95–96) His Hokkaido rival; he loses to her par.
+[rel:kouenji-rokusuke] (p.109–113) Demands to know Kōenji's vote; Kōenji never takes him seriously.
+[rel:horikita-suzune] (p.110, 117) Her rebukes anchor his outbursts; her calm keeps him inside the class's patience.
+
+<!-- walk: y2v5 Ch.4 → p.126 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

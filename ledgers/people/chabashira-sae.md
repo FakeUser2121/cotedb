@@ -1474,6 +1474,23 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v5 Ch.3 → p.75 -->
 
+### y2v5 p.76–81 — Chabashira's morning (her POV): the mirror, the exam nerves
+[scene] (p.76) At 6 a.m. the alarm clock kept for ten years tumbles off the mini-table; the battery cover taped on with cellophane tape; sleep deprived, dark circles under her eyes; she applies makeup; the skin's elasticity is gone; eleven years since she saw "him."
+[says] (p.76) "It's already six o'clock..."
+[says] (p.76) "I'll be more careful tomorrow, so forgive me."
+[says] (p.77) "Calm down. This isn't my fight. The situation is different from that time. I'm sure my current class will be able to get through this without a hitch."
+[says] (p.77) "Prepare yourself..."
+[scene] (p.78) Morning meeting with the four homeroom teachers (Ikari-sensei auditing); Hoshinomiya-sensei (Chie) questions why homeroom teachers remain assigned to their own class (previously shuffled); Sakayanagi-sensei answers it's the fundamental decision of the top brass; Ikari-sensei explains the exam's reach.
+[says] (p.78) "Um, I know it's a little late, but do you have a minute?" — Chie's line; adjacent-attributed
+[says] (p.78) "In this special exam, our teachers' utmost concern should be to not intervene in the exam." — Ikari-sensei's line; printed untagged in the print; named via the auditing narration
+[scene] (p.80) Outside the staff room Chie confronts her: "It's finally here, Sae-chan... You couldn't sleep last night because you were thinking about the special exam, right?" — "Sae-chan doesn't have the qualifications to aim for Class A. Never forget that." She cannot lift her head until the corner.
+[says] (p.80) "This class has nothing to do with me. It doesn't matter if the students clear it easily or not."
+[note] (p.76–81) The print carries the drop-cap style at the chapter head; translator credit changes mid-volume in this book (PrinceYG#6558 pp.1–28 and pp.76–167 and pp.232–243; Rhymar#7433 pp.29–75 and pp.168–231) — kept as printed; see the volume ledger's notes.
+[note] (p.78–79) "Sakayanagi-sensei" (a teacher at the morning meeting) is not on the roster — two lines are printed under him; no roster id assigned; owner to resolve (ambiguous with sakayanagi-arisu and sakayanagi-narimori).
+[trait] (p.76–81) Eleven years since she saw "him"; applies makeup with trembling hands; lies to herself that "This isn't my fight." — the mirror tells the truth; Ikari-sensei warns the teachers to not intervene ("advice" = warning, repetition = pay cut; malicious intervention = demotion); her sleep has been wrecked for days.
+[rel:hoshinomiya-chie] (p.78–80) Her oldest sparring partner — Chie spotted the insomnia instantly and needles her with it.
+[rel:ikari-sensei] (p.78–79) Auditing teacher; his warning is formal; his imagery is terrifying.
+
 ### y2v5 p.106–125 — Chabashira's collapse; her old story
 [scene] (p.106) As the final question begins, her complexion has visibly worsened over the exam; Hirata asks if she's okay, but she denies it, unaware (or unwilling to admit) her own condition.
 [says] (p.107) "The... 60-second count will now begin. Students are asked to... begin voting." — her voice shaky
@@ -1486,6 +1503,8 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 [trait] (p.106–125) Visibly ill but determined — stumbles and nearly falls at the podium; risks punishment by telling an "old story" (she took this same exam 11 years ago, the last question identical) — offering not guidance but heartfelt advice to choose without regret; the monitoring teacher lets her speak to the end.
 [rel:ayanokouji-kiyotaka] (p.106–125) He notes her condition is tied to the final question (her own trauma); she provides the students words to face the exam.
 [rel:hirata-yousuke] (p.106) He asks if she's okay; she brushes it off.
+
+<!-- walk: y2v5 Ch.4 → p.126 -->
 
 ### y2v5 p.232–239 — Chabashira's confession on the roof: a farewell to the past
 [scene] (p.232) Meets Ayanokōji on the rooftop stairs (as promised at 6 p.m.), unlocks the roof and leans on the railing, stressed after the exam; offers her "confession" (the "Sacrament of Forgiveness").

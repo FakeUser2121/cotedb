@@ -1862,6 +1862,24 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [rel:ayanokouji-kiyotaka] (p.185–205) Exposed by him; she fought him for a year and a half; her plot to expel him fails.
 [rel:horikita-suzune] (p.211–215) Horikita protects her from expulsion and understands her — the person she hated most becomes the first to reach her.
 [rel:asahina-nazuna] (p.207) Mii-chan — her close friend; Horikita's observation hints Kushida's regret may involve her.
+
+### y2v5 p.92–123 — Kushida during Q5: anxious, and silently plotting
+[scene] (p.92–93) Worried about Horikita who hasn't spoken up unlike before; asks twice; Horikita answers with the trip-destination advice; Kushida presses her again ("Oh my... what should we do, Horikita-san?").
+[says] (p.92) "Horikita-san, it looks like we're divided in our opinions, do you have any advice for us?"
+[says] (p.93) "Oh my... what should we do, Horikita-san?"
+[says] (p.101) "So the idea of prioritizing private points is an offensive strategy, while the idea of prioritizing protection points is a defensive strategy, right?"
+[says] (p.112) "Hey, hey, Horikita-san. It's okay... right? No one is going to drop out of the class, right?"
+[says] (p.116) "Losing someone from this class is not a positive thing at all."
+[says] (p.122) "Umm... I'm sorry Ayanokōji-kun. I'm with Hirata-kun, there's no girl that comes to mind."
+[says] (p.122) "But I'll let you know if I realize something."
+[note] (p.112) "Hey, hey, Horikita-san. It's okay... right? No one is going to drop out of the class, right?" is printed untagged; tied to Kushida by adjacent narration ("Kushida was worried, but she couldn't stand the silence and asked Horikita that question.").
+[trait] (p.92–123) Anxious to look cooperative while voting "in favour" — her panic surfaces as repeated questions; she mirrors Yōsuke's cautious stance to Ayanokōji's face ("I'm with Hirata-kun"), performs attentiveness, and stays silent about her own vote.
+[rel:horikita-suzune] (p.92–123) Repeatedly solicits her; Horikita reassures repeatedly.
+[rel:ayanokouji-kiyotaka] (p.122–123) Interrogates her about who could be voting "in favour"; she denies knowing anyone.
+[rel:hirata-yousuke] (p.122) Hides behind his position ("I'm with Hirata-kun").
+
+<!-- walk: y2v5 Ch.4 → p.126 -->
+
 ## y2v6
 
 <!-- walk: y2v6 → start -->

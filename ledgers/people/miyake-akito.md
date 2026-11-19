@@ -633,6 +633,20 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [rel:hasebe-haruka] (p.46, 50) Members of her Ayanokōji Group circle.
 
 <!-- walk: y2v5 Ch.3 → p.75 -->
+
+### y2v5 p.118–121 — Akito silences his quiet side
+[scene] (p.118) Quietly contributing through Q5 until now; decides it's finally time to break his silence — warns the class about the 100 points.
+[says] (p.118) "It's unlikely. But it's also possible that missing these 100 class points might make us regret our choice, right?"
+[says] (p.118) "Don't get me wrong. I'm clearly against it."
+[says] (p.118) "I'm of the opinion that the best way to get to Class A is without missing anyone from this class."
+[says] (p.118) "It means that we all need to express our opposition after imagining a future in which this special exam is the turning point when graduation approaches."
+[says] (p.118) "Kōenji. I'm well aware of your success in the island exam."
+[says] (p.118) "Class points aren't the only thing that make up a relationship."
+[rel:kouenji-rokusuke] (p.118) Addresses him directly; Kōenji nods deeply, then banks back with school-logic.
+[rel:hasebe-haruka] (p.118) She pins him on the expulsion question; he deflects with unvoted composure.
+[rel:horikita-suzune] (p.118) His intervention doesn't change the vote but stiffens the room's spine.
+
+<!-- walk: y2v5 Ch.4 → p.126 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

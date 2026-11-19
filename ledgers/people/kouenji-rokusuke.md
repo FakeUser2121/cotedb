@@ -914,6 +914,8 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:horikita-suzune] (p.113–120) Openly provokes her but makes a private deal to switch his vote; calls her "Horikita girl."
 [rel:sudou-ken] (p.113–119) Needles him mercilessly ("Red Hair-kun"); they trade barbs about who contributes more.
 [rel:ishigami-kyou] (p.100–103) Backs his protection-point argument on Q3.
+
+<!-- walk: y2v5 Ch.4 → p.126 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

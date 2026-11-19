@@ -1256,6 +1256,16 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:horikita-suzune] (p.34) Delivers the "just in case" majority explanation; he doesn't buy it.
 
 <!-- walk: y2v5 Ch.3 → p.75 -->
+
+### y2v5 p.83, 91, 98 — Ike: the exam's visible side
+[scene] (p.83) Seated near the front, talks school-trip destinations with Shinohara before the start; phones collected by Chabashira's team.
+[says] (p.98) "Hey, wait a minute! I don't understand something about this!"
+[says] (p.98) "That's not fair! Even I need a lot of private points right now!"
+[note] (p.98) Both lines printed untagged; Ike's by bracket-subject matter ("you need money to go on dates with Shinohara" is Sudō's rebuttal to him) and by adjacency order ("Ike and Satō were the first to speak up...").
+[note] (p.83) The pre-exam chit-chat is printed untagged; immediately anchored by "Ike and Shinohara, who have become a close couple, discuss what to do after school."
+[note] (p.98) "Ike and Satō were the first to speak up" — the two bracket-for-lowest-grades students; Ike's line is the preceding one.
+
+<!-- walk: y2v5 Ch.4 → p.126 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

@@ -477,7 +477,14 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 
 <!-- walk: y2v5 Ch.2 → p.28 -->
 
-<!-- walk: y2v5 Ch.3 → p.75 -->
+<!-- walk: y2v5 Ch.3 → p.75 -->### y2v5 p.98 — Satō: the bottom-five bracket
+[says] (p.98) "Me neither! If we don't get protection points, we'll only lose five people!"
+[note] (p.98) Printed untagged; tied to Satō by adjacent-order attribution ("Ike and Satō were the first to speak up, as they were students who seemed to fall into the bracket for lowest grades."); the Ike line is the preceding one.
+[trait] (p.98) Realizes the five sacrificed students would come from her bracket — panic, not strategy.
+
+<!-- walk: y2v5 Ch.4 → p.126 -->
+
+
 ## y2v6
 
 <!-- walk: y2v6 → start -->

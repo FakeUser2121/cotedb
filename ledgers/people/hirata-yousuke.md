@@ -1917,6 +1917,25 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 [rel:kushida-kikyou] (p.45) He seconds her leader proposal.
 
 <!-- walk: y2v5 Ch.3 → p.75 -->
+
+### y2v5 p.88–122 — Hirata: the class's quiet mediator
+[says] (p.88) "I also agree with what you just said, Horikita-san."
+[says] (p.88) "The additional reward for defeating Sakayanagi-san and the rest of Class A is huge, but there's no doubt that they are stronger enemies than anyone else."
+[note] (p.88) Printed untagged; tied to Yōsuke by adjacent narration ("With the two of them pushing for B class, the direction of the classmates began to take shape.") and by alternation with Kei's "I think I'll go with Ichinose-san too."
+[says] (p.99) "Horikita-san, do you think it's best to choose no grant?"
+[says] (p.99) "It's only one opinion, but I think I should get protection points for this question . For all three of us, of course."
+[note] (p.99) "this question ." — the corpus prints a space before the period; kept as printed.
+[says] (p.112) "You shouldn't choose to cut off your classmates in order to gain class points."
+[says] (p.112) "I don't think the points gained from such a choice are worth anything, even if they were 500 or 1000 class points."
+[says] (p.122) "I want you to wait, Horikita-san."
+[note] (p.122) Printed untagged; tied to Yōsuke by adjacent narration ("Kushida also leaked out anxiously, saying that she agreed with Yōsuke.").
+[trait] (p.88–122) Respectful but firm — seconds Horikita's Class B pitch publicly, asks Horikita the hard Q3 question, and appeals to the class's conscience in Q5; holds together when Kōenji doesn't.
+[rel:horikita-suzune] (p.88–122) Her shadow cabinet — agrees publicly, pushes hard privately.
+[rel:ishigami-kyou] (p.99–103) Q3: his stance (protect three) loses to Keisei's math.
+[rel:kushida-kikyou] (p.122) She hides behind his position ("I'm with Hirata-kun").
+[rel:kouenji-rokusuke] (p.112) Appeals to him directly; Kōenji laughs it off.
+
+<!-- walk: y2v5 Ch.4 → p.126 -->
 ## y2v6
 
 <!-- walk: y2v6 → start -->

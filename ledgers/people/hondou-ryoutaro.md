@@ -137,6 +137,13 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 [mentioned] (p.27) Chabashira-sensei sides with Ayanokōji that Ike and Hondō suit otaku culture better.
 
 <!-- walk: y2v5 Ch.2 → p.28 -->
+### y2v5 p.91 — Hondō: "can we call this a special test?"
+[says] (p.91) "Hey, hey, can we call this a special test? I mean, it's a piece of cake."
+[note] (p.91) Printed untagged; tied to Hondō by adjacent narration ("When the interval came, Hondō said with a laugh as if he was out of sync.").
+[trait] (p.91) Reassures the room with a laugh; the exam is "a piece of cake" to him — it isn't.
+
+<!-- walk: y2v5 Ch.4 → p.126 -->
+
 
 ## y2v7
 
