@@ -1011,24 +1011,92 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 p.67–78 — Ibuki alone and dehydrated; trades with Ayanokōji
-[scene] (p.67) Encountered alone, eating homemade jerky (Class 2-B's jerky strategy) — exhausted, dark circles, out of water for over a day.
-[says] (p.67) “What's it matter to you? It's none of your business.”
-[says] (p.68) “Just Horikita. You heard me say I wouldn't lose to her, right?”
-[says] (p.68) “Ain't no way I'm gonna talk with my enemies.”
-[says] (p.68) “I don't think of my classmates as 'friends'.”
+### y2v4 p.67–70 — Ch.3: Ibuki, dehydrated and alone
+[scene] (p.67) On day nine he finds her one-man tent pitched in a clearing; inside, Ibuki sits chewing on jerky — Class 2-B’s class-wide jerky strategy (everything handmade, cheap, shelf-stable), fresh meat somehow processed first.
+[says] (p.67) “What’s it matter to you? It’s none of your business.”
+[says:ayanokouji-kiyotaka] (p.67) “Jerky…? That wasn’t included in the Uninhabited Island Manuel they handed out to us before the exam, though?” — his line about the Manual.
+[says:ayanokouji-kiyotaka] (p.68) “How many people have you spoken with since the exam started?”
+[says] (p.68) “…Just Horikita. You heard me say I wouldn’t lose to her, right? You were there.”
+[says:ayanokouji-kiyotaka] (p.68) “In other words, you’re saying you haven’t had a proper conversation with someone since day one?”
+[says:ayanokouji-kiyotaka] (p.68) “You should try and find someone to talk to, even if only a little bit.”
+[says] (p.68) “Ain’t no way I’m gonna talk with my enemies.”
+[says:ayanokouji-kiyotaka] (p.68) “Then talk with a classmate. If you wander around long enough, you’re sure to come across someone.”
+[says] (p.69) “I don’t think of my classmates as ‘friends’.”
+[says] (p.70) “Get out already.”
+[note] (p.67) The Uninhabited Island Manual listed no jerky — the meat had to be fresh before dehydration, meaning a group of Class 2-B was tasked with making it for the class; premade dried meat is too expensive at school prices.
+[trait] (p.67–70) Dark circles under her eyes; nine days without a real conversation since day one (only Horikita); cracked lips; staring wreck — the exam’s pressure is eating her alive.
+[rel:horikita-suzune] (p.67–70) Her sole human contact; the benchmark she refuses to lose to.
+[rel:ayanokouji-kiyotaka] (p.67–70) He warns her off in friendly fashion; she treats him as Horikita’s errand boy and drives him off.
+
+### y2v4 p.70–74 — Ch.3: The pulse check; the Warning Alert
+[scene] (p.70) She emerges from her tent, wobbling, hands in pockets, and follows him out to demand his point total.
 [says] (p.70) “How many points you got right now?”
-[says] (p.71) “When you next see that bitch, do me a solid and tell her that I'll absolutely never lose to her.”
-[says] (p.72) “Haaa? You tryna pull somethin'?”
-[says] (p.72) “I'll admit I can't beat you, sure, but one of these days, I swear I'm gonna get the satisfaction of kickin' your teeth in.”
+[says:ayanokouji-kiyotaka] (p.70) “We’re mutual enemies, you do know that right?” — his line.
+[says] (p.70) “So you won’t tell me.”
+[says] (p.71) “…Whatever. It was a waste of time to bother with askin’ you anyway.”
+[says:ayanokouji-kiyotaka] (p.71) “Fair enough. Besides, your true target here is Horikita, right?”
+[says] (p.71) “When you next see that bitch, do me a solid and tell her that I’ll absolutely never lose to her.”
+[says:ayanokouji-kiyotaka] (p.71) “That’s fine and all, but I’m probably not the one you should be giving the middle finger to.”
+[says] (p.71) “You, her, same difference. After all, you two are on real good terms with each other.”
+[says] (p.72) “Haaa? You tryna pull somethin’?”
+[says] (p.72) “I’ll admit I can’t beat you, sure, but one of these days, I swear I’m gonna get the satisfaction of kickin’ your teeth in.”
+[says] (p.72) “So? Did Horikita put you up to this? Tryna get in my way?”
+[says:ayanokouji-kiyotaka] (p.72) “Your pulse is racing.”
+[says:ayanokouji-kiyotaka] (p.73) “The inside of your mouth looks dry too, not to mention how cracked your lips are. You’re obviously dehydrated.”
+[says] (p.73) “I’m not all that thirsty… anymore.”
+[says:ayanokouji-kiyotaka] (p.73) “Anymore? So then, you’re saying you were thirsty at one point?”
+[says] (p.73) “Mind your own business. There ain’t anything wrong with me.”
+[says:ayanokouji-kiyotaka] (p.74) “How long have you been out of water?”
 [says] (p.74) “…A full day… and then some.”
-[says] (p.75) “I'll handle it tomorrow, and if push comes to shove I'll even go back to the starting area, so drop it and leave me alone.”
-[says] (p.77) “I'm not gonna thank you if that's what you're after.”
-[says] (p.77) “So you're sayin' for me to give up on scoring points? You've gotta be kidding me.”
-[says] (p.77) “I'm not puttin' in all this work 'cause I don't wanna get expelled. My only goal here is beating Horikita.”
-[trait] (p.67–78) Stubborn, isolated and pushing past her limits — refuses to admit dehydration or rest, suspicious of Ayanokōji (thinks Horikita put him up to it), but ultimately trades half her food for water; driven solely by her obsession with beating Horikita, she rejects his advice to rest; her guardedness and irrationality are slowly destroying her.
-[rel:ayanokouji-kiyotaka] (p.67–78) Deeply suspicious of him, but accepts the water-for-food trade; misreads his concern as manipulation.
-[rel:horikita-suzune] (p.68–77) Her obsession and sole goal — to beat Horikita, whom she calls a “bitch.”
+[says] (p.74) “Nope. I’ve been resting here all day today.”
+[says:ayanokouji-kiyotaka] (p.74) “What an obvious lie. There were no GPS signals anywhere near here this morning.”
+[says] (p.74) “You did a GPS Search?”
+[says] (p.74) “…It did about an hour ago. That’s why I reluctantly decided to turn in early for the night.”
+[note] (p.74) He bluffs a GPS search — he never ran one; he just knows she wouldn’t rest here voluntarily given Horikita; her first Warning Alert went off about an hour before he arrived.
+[trait] (p.70–74) Seethes at Horikita; trusts nobody as Horikita’s ally; her Warning Alert fired without her drinking a drop since the day before; her body is shutting down.
+[rel:ayanokouji-kiyotaka] (p.70–74) She assumes he’s acting on Horikita’s orders; cannot be reached by reason; her pulse betrays the dehydration.
+
+### y2v4 p.75–78 — Ch.3: The water-for-food trade
+[scene] (p.75) He fetches two 500ml bottles from his own cache and proposes a fair trade; she gags down half a bottle before he finishes the sentence; he demands half her remaining food.
+[says:ayanokouji-kiyotaka] (p.75) “If you don’t rehydrate at some point, it’ll keep ringing even if you rest.”
+[says] (p.75) “I’ll handle it tomorrow, and if push comes to shove I’ll even go back to the starting area, so drop it and leave me alone.”
+[says:ayanokouji-kiyotaka] (p.75) “Trade me.”
+[says:ayanokouji-kiyotaka] (p.75) “It just so happens that I’m running short on food. On the other hand, I have a bit of an oversupply of water. I’m asking you to negotiate with me since I think we can make a fair trade.”
+[says:ayanokouji-kiyotaka] (p.76) “How about it? I’ll say it again just to be sure, but I’m looking to make a fair trade here. You’ll have to give me a suitable amount of food in exchange.”
+[says] (p.76) “Who the hell do you think you are to─”
+[says:ayanokouji-kiyotaka] (p.76) “Feel free to say no, but I won’t be giving you a chance to change your mind.”
+[says:ayanokouji-kiyotaka] (p.76) “If you retire due to dehydration like this, you’ll definitely lose to Horikita. In fact, I met with Horikita a little while ago. Her complexion was perfectly fine, and she didn’t seem to be having any problems with water or food either.”
+[says] (p.76) “I get it… I’ll trade with you. But, how much do you want from me?”
+[says:ayanokouji-kiyotaka] (p.76) “Half of your remaining food. That should be enough.”
+[says] (p.76) “Only that much?”
+[says:ayanokouji-kiyotaka] (p.76) “It’s at least better than sustaining myself by eating random weeds.”
+[says] (p.77) “I’m not gonna thank you if that’s what you’re after. It’s supposed to be a fair trade, remember?”
+[says] (p.77) “Then whatta you want?”
+[says:ayanokouji-kiyotaka] (p.77) “If you’re not doing too badly with points, how about you spend most of the day tomorrow resting? That, or switch to a strategy where you only focus on acquiring food and water?”
+[says] (p.77) “So you’re sayin’ for me to give up on scoring points? You’ve gotta be kidding me.”
+[says] (p.77) “I’m not puttin’ in all this work ‘cause I don’t wanna get expelled. My only goal here is beating Horikita.”
+[says] (p.78) “I’ve got nothin’ more to say to you.”
+[trait] (p.75–78) Her last reserves go into the trade; she downs half a bottle before answering; she flares at the suggestion of rest — her only goal is beating Horikita, not survival; she storms off without a word when he tries once more.
+[rel:ayanokouji-kiyotaka] (p.75–78) He trades two water bottles for half her jerky — any separation from Horikita is the reason he offers; she suspects a trick to her being Horikita’s debt.
+[rel:horikita-suzune] (p.75–78) The single reason he uses to move her; he tells her Horikita is fine, supplied and out of food worries.
+
+### y2v4 p.79–80 — Ch.3: The backpack check
+[scene] (p.79) Next morning, she is caught rummaging through his backpack — checking whether the trade was fair; impossible third-party tablet access; he lets it slide.
+[says:ayanokouji-kiyotaka] (p.79) “Were you trying to sneak a peek at my tablet, or was there something else you wanted?”
+[says] (p.79) “I wouldn’t do somethin’ like that! I just… I just wanted to make sure our trade was actually fair, that’s all.”
+[says:ayanokouji-kiyotaka] (p.79) “You’ve only got one bottle of water left in there, and you’ve already drunk some of it! I thought you said you had too much water?”
+[says:ayanokouji-kiyotaka] (p.80) “So what, were you trying to help me out to get me to owe you a favor?”
+[says:ayanokouji-kiyotaka] (p.80) “If you hadn’t gone through my backpack, you never would’ve felt like you owed me anything though…”
+[says:ayanokouji-kiyotaka] (p.80) “In other words, I’m telling you that the truth doesn’t matter. It was a fair trade either way.”
+[says] (p.80) “I ain’t convinced, but… I get it. If that’s the way it is, I’m not gonna give any water back to you.”
+[says:ayanokouji-kiyotaka] (p.80) “If I did this to have you owe me a favor, would you pay it back?”
+[says] (p.80) “No way.”
+[note] (p.80) She leaves before dawn — gone by the time he wakes; her signal is not observed. He notes she clearly doesn’t trust the trade, but it was fair.
+[rel:ayanokouji-kiyotaka] (p.79–80) She checks his backpack covertly; he accepts the mistrust as mutual after he opened hers without permission.
+
+<!-- walk: y2v4 Ch.3 → p.94 -->
+
+
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

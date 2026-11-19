@@ -218,12 +218,6 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 p.51–54 — Amasawa mentioned in passing
-[mentioned] (p.52) “Amasawa’s most likely just going to head to the next designated area, right?” — Nanase.
-[mentioned] (p.52) “Amasawa-san was following us as of the evening of the sixth day or the morning of the seventh, right?” — Nanase.
-[mentioned] (p.52) “Naturally, I’ve referenced this with the data on my tablet already, but… as far as I recall, our score didn’t go down whatsoever yesterday.” — Nanase.
-[mentioned] (p.52) “Although it’s unknown where on the island Amasawa-san was that morning, you and I were traveling quite fast at the time. It wouldn’t have been very easy for her to catch up to us unless she was already somewhere nearby, right?” — Nanase.
-[mentioned] (p.53) “How do you plan on joining up with Amasawa and Hōsen?” — Nanase.
 
 <!-- walk: y2v4 Ch.2 → p.59 -->
 
@@ -291,6 +285,13 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 [note] (p.43) On the sixth-day screenshots, her GPS signal shows two areas south of their designated area, alone, then a faster-than-foot route to B6, then C6 one area right; she participated in three or so Tasks as she diligently made her way to designated areas; nothing suspicious as of 5:00 PM; he reads it as her taking the exam seriously (or at least leaving no GPS-searchable openings).
 [mentioned] (p.43–44) Named throughout the reconstruction; not present on these pages.
 
+
+### y2v4 p.51–54 — Amasawa mentioned in passing
+[mentioned] (p.52) “Amasawa’s most likely just going to head to the next designated area, right?” — Nanase.
+[mentioned] (p.52) “Amasawa-san was following us as of the evening of the sixth day or the morning of the seventh, right?” — Nanase.
+[mentioned] (p.52) “Naturally, I’ve referenced this with the data on my tablet already, but… as far as I recall, our score didn’t go down whatsoever yesterday.” — Nanase.
+[mentioned] (p.52) “Although it’s unknown where on the island Amasawa-san was that morning, you and I were traveling quite fast at the time. It wouldn’t have been very easy for her to catch up to us unless she was already somewhere nearby, right?” — Nanase.
+[mentioned] (p.53) “How do you plan on joining up with Amasawa and Hōsen?” — Nanase.
 <!-- walk: y2v4 Ch.1 → p.50 -->
 ## y2v4.5
 

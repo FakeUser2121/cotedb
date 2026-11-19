@@ -1193,6 +1193,12 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v4 → start -->
 
+### y2v4 p.42, 48 — Sakayanagi mentioned in passing
+[mentioned] (p.42) “On the fifth day of the exam, I approached both Ryūen and Sakayanagi with a certain proposal of sorts: to clear specific Tasks together with the help of a ‘select portion’ of the second-year student body.”
+[mentioned] (p.48) “7th Place: Second-Year Group Sakayanagi – 127 Points” — the printed top-ten.
+
+<!-- walk: y2v4 Ch.1 → p.50 -->
+
 ### y2v4 p.55–57 — Sakayanagi mentioned in passing
 [mentioned] (p.56) “Apparently it had gone something like this: somebody from Class 2-A had reached out to Horikita while she was near the starting area earlier today, and they had urged her to meet with Sakayanagi, whereupon she was informed of Komiya and Kinoshita’s retirement.”
 [mentioned] (p.56) “Yes. To be exact, I heard about it today.” — Horikita to Ayanokōji.
@@ -1200,11 +1206,11 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v4 Ch.2 → p.59 -->
 
-### y2v4 p.42, 48 — Sakayanagi mentioned in passing
-[mentioned] (p.42) “On the fifth day of the exam, I approached both Ryūen and Sakayanagi with a certain proposal of sorts: to clear specific Tasks together with the help of a ‘select portion’ of the second-year student body.”
-[mentioned] (p.48) “7th Place: Second-Year Group Sakayanagi – 127 Points” — the printed top-ten.
+### y2v4 p.93–94 — Sakayanagi mentioned in passing
+[mentioned] (p.93) “If you don't mind, I would like to have a little conversation with Sakayanagi. I would like to ask her if any of the class D students she dealt with have returned to the starting point.” — Ayanokōji asks Takemoto.
+[mentioned] (p.94) “Okay then. Also, Sakayanagi asked me to give this to you,Ayanokoji.” — Takemoto hands over her walkie-talkie.
 
-<!-- walk: y2v4 Ch.1 → p.50 -->
+<!-- walk: y2v4 Ch.3 → p.94 -->
 
 ### y2v4 p.276–278 — Sakayanagi's promise; 3rd place
 [says] (p.277) “Of course, Ryuuen-kun. Please tell me when the time comes.”
@@ -1215,6 +1221,10 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [trait] (p.276–278) Made a dangerous open-ended promise to Ryūen (a favor that may strangle the asker), which secured his help against Hōsen; placed 3rd with her seven-member group (261 pts), having kept her members clear of the dangerous assignments; thanks Ayanokōji and looks forward to a future rematch, telling him not to rush.
 [rel:ryuuen-kakeru] (p.276–277) Her promise bought his cooperation against Hōsen.
 [rel:ayanokouji-kiyotaka] (p.277–278) Thanks him for the GPS-timing help; promises a future chance to compete.
+
+<!-- walk: y2v4 Epilogue → p.284 -->
+
+
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

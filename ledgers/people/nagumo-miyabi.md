@@ -613,6 +613,10 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 <!-- walk: y2v4 → start -->
 
+
+<!-- walk: y2v4 Ch.3 → p.94 -->
+
+
 ### y2v4 p.38–43, 48–50 — Nagumo mentioned in passing
 [mentioned] (p.38) “For example, some third-year groups moved fairly unusually throughout the day yesterday. Furthermore, these groups are always closely related to Nagumo’s group or Kiriyama’s group. When I looked into it, I noticed something pretty interesting.”
 [mentioned] (p.38) “To begin with, Nagumo’s group was in area B8 at 7:00 AM that morning.”
@@ -628,6 +632,11 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [mentioned] (p.49) “If Kōenji were to maintain his current pace and keep diligently racking up points, he’d end up with a final score of around 350, so if I wanted to bridge the gap, I’d have to earn close to 40 points per day for the rest of the exam.”
 [mentioned] (p.50) “Furthermore, there would definitely be groups looking to conserve their stamina for the double points being offered on the final day as well.”
 
+
+### y2v4 p.61–62, 83–84 — Nagumo mentioned in passing
+[mentioned] (p.62) “I was curious about what Nagumo was going to do moving forward. It seemed like it'd be a good idea for him to take on countermeasures of some sort to deal with Kōenji, his foremost competitor for the top spot.”
+[mentioned] (p.83) “Everyone is competing with each other for the podium. I could not continue with that game. However, if Miyabi Nagumo collapses down, the story could be a little different.” — Kiryūin.
+[mentioned] (p.83) “Do you think Nagumo is going to release Kouenji as he is right now?” — Ayanokōji.
 <!-- walk: y2v4 Ch.1 → p.50 -->
 ## y2v4.5
 

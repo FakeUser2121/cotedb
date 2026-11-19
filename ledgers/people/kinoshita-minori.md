@@ -99,8 +99,6 @@ char_id: kinoshita-minori · class: Class 1-C (enrolled April 2015) · status: m
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 p.56–57 — Kinoshita mentioned in passing
-[mentioned] (p.56) “whereupon she was informed of Komiya and Kinoshita’s retirement.” — narrated; Sakayanagi told Horikita.
 
 <!-- walk: y2v4 Ch.2 → p.59 -->
 
@@ -112,6 +110,9 @@ char_id: kinoshita-minori · class: Class 1-C (enrolled April 2015) · status: m
 [mentioned] (p.21) “Back when Komiya and Kinoshita were attacked, I found some footprints nearby the scene of the crime. From what I can tell, I’m fairly confident that they’re the same size as Amasawa’s.”
 [mentioned] (p.32) “From what we knew: someone had pushed Komiya and Kinoshita down the slope. And, judging from the fact that there were no other GPS signals in the area at the time, it was clear that it had been a premeditated attack, rather than something done in the heat of the moment.”
 
+
+### y2v4 p.56–57 — Kinoshita mentioned in passing
+[mentioned] (p.56) “whereupon she was informed of Komiya and Kinoshita’s retirement.” — narrated; Sakayanagi told Horikita.
 <!-- walk: y2v4 Ch.1 → p.50 -->
 ## y2v7
 

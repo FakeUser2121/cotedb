@@ -170,8 +170,6 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 p.53 — Hōsen mentioned in passing
-[mentioned] (p.53) “How do you plan on joining up with Amasawa and Hōsen?” — Nanase asks Ayanokōji about finding both group members.
 
 <!-- walk: y2v4 Ch.2 → p.59 -->
 
@@ -179,6 +177,9 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 [mentioned] (p.15) “Since when were you his knight in shining armor? Weren’t you like, plotting to get him expelled together with Hōsen-kun?” — Amasawa needles Nanase about her own alliance.
 [mentioned] (p.47) “You have your other group member, Hōsen, to watch out for as well.” — Ayanokōji warns Nanase.
 
+
+### y2v4 p.53 — Hōsen mentioned in passing
+[mentioned] (p.53) “How do you plan on joining up with Amasawa and Hōsen?” — Nanase asks Ayanokōji about finding both group members.
 <!-- walk: y2v4 Ch.1 → p.50 -->
 
 

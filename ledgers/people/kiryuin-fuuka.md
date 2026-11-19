@@ -39,6 +39,37 @@ char_id: kiryuin-fuuka · class: unknown · status: unknown
 
 
 
+### y2v4 p.81–85 — Ch.3: Overlook greeting; the Nagumo game
+[scene] (p.81) On day nine at the designated-area arrival he walks up to her at the overlook; she has jumped from 11th or lower to 9th this morning; she debriefs him on the field.
+[says] (p.81) “You have arrived quite late, Ayanokouji.”
+[says:ayanokouji-kiyotaka] (p.81) “It looks like it is”
+[says] (p.81) “I thought I had a tough competitor for the reward in order of arrival, but was it you?”
+[says:ayanokouji-kiyotaka] (p.81) “I don’t know what’s up with that. It’s not uncommon for there to be different tables in the same area. More than that, I thought that Kiryuuin-senpai was not interested in the top ten groups.”
+[says] (p.83) “This uninhabited island test was more fun than I thought it would be, and I was thrilled beyond my age.”
+[says] (p.83) “I’m going to continue with my current rhythm for a while longer.”
+[says:ayanokouji-kiyotaka] (p.83) “Shouldn’t you be aiming for number one?”
+[says] (p.83) “Everyone is competing with each other for the podium. I could not continue with that game. However, if Miyabi Nagumo collapses down, the story could be a little different.”
+[says] (p.83) “Do you think Nagumo is going to release Kouenji as he is right now?”
+[says:ayanokouji-kiyotaka] (p.83) “In such a state of conflict and struggle, Nor can I say that Nagumo will ever win. Sure you have been watching everything up to now, but the time has come for you to move your chips. Depending on how things go, we could see a period where neither team scores.”
+[says] (p.83) “Because hitting your opponent is an important part of a battle.”
+[says:ayanokouji-kiyotaka] (p.83) “Don’t you aspire to move to the top?”
+[says] (p.83) “I’m sorry, but I don’t see how can I be in the top ten.”
+[says] (p.83) “I see. I thought you would have scored almost as many points as I did.”
+[says] (p.84) “Several groups will soon lose their performance. We just have to keep trying and not give up.”
+[says:ayanokouji-kiyotaka] (p.84) “All I can say is that you can’t let your guard down, not even for a moment.”
+[says] (p.84) “Yesterday I went through the starting point to obtain information. It seems that groups that have started to suffer from food and water shortages are trying to get ahead by separating some of their members to avoid joint collapse.”
+[says] (p.84) “It is a wise decision.”
+[says] (p.84) “I am sure that the last 10 will have some hope, no matter which group will withdraw. A man who has lost his way will use whatever means at his disposal. Stay alert, okay?”
+[says:ayanokouji-kiyotaka] (p.84) “Shouldn’t it be something a woman, Kiryuuin-senpai, should be worried about?”
+[says] (p.84) “Hmm… It’s true that, as a pretty and merciful maiden, I might also feel a sense of danger”
+[says] (p.84) “Well if it comes to that ......., I would just have to force it out.”
+[says] (p.85) “So that’s a.... no, I dare you to go there and see for yourself.”
+[trait] (p.81–85) Enjoys the game, watches from the third-year leaderboard, reads the Kōenji–Nagumo stalemate as a deadlocked chess match; teases him about “a pretty and merciful maiden” and implies she might force it out; she lets him have the first trip to the bonus pool.
+[rel:ayanokouji-kiyotaka] (p.81–85) Sizes him up as a genuine competitor; he lies about not aspiring to the top ten.
+[rel:nagumo-miyabi] (p.83–84) Expects the Kōenji–Nagumo game to split at some point.
+
+<!-- walk: y2v4 Ch.3 → p.94 -->
+
 ### y2v4 p.261–273 — Kiryūin intervenes at I2
 [scene] (p.261) Appears during the 2-on-1 fight — had watched from behind a tree, deliberately broke her watch so her GPS wouldn't show her approach.
 [says] (p.261) “I wonder what the Acting Director and the classroom teacher do with a student in such a deserted place.”

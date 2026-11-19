@@ -47,6 +47,19 @@ char_id: takemoto-shigeru · class: Class 1-A · status: minor (allies)
 
 <!-- walk: y2v4 → start -->
 
+### y2v4 p.87–94 — Ch.3: The walkie-talkie lender
+[scene] (p.87) He has been with Shiranami and Kobashi since the group scattered in the dark; he and Kobashi come searching with their entire luggage; he lends his walkie-talkie and bridges Ayanokōji to Sakayanagi.
+[says] (p.93) “What? A walkie-talkie? I have one, but ...”
+[says] (p.93) “I'll help you with that. Give me a minute.”
+[says] (p.94) “You saved me; I got the information I needed from Sakayanagi.”
+[says] (p.94) “Okay then. Also, Sakayanagi asked me to give this to you,Ayanokoji.”
+[says] (p.94) “No need, and again Ayanokouji-kun thank you for helping us.”
+[note] (p.93–94) The school walkie-talkies are digital with Confidential Mode; he makes the call for Ayanokōji; Sakayanagi answered and asked him to hand the walkie-talkie over to Ayanokōji-kun directly.
+[rel:ayanokouji-kiyotaka] (p.93–94) Hands him the walkie-talkie Sakayanagi donated.
+[rel:sakayanagi-arisu] (p.93–94) The intermediary; she answers and instructs via Confidential Mode.
+
+<!-- walk: y2v4 Ch.3 → p.94 -->
+
 ### y2v4 p.87–94, 160–164 — Takemoto mentioned in passing
 [scene] (p.87–94) Named in the context of the exam.
 [scene] (p.160–161) Named in the context of the exam.

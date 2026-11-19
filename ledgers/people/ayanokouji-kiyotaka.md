@@ -8532,6 +8532,8 @@ walk: y1v1 → DONE
 [trait] (p.45–50) He evaluates the cancellation’s damage but recasts the news as an opening for the second half; warns Nanase off Amasawa/Hōsen — her careless actions may cause him unintended problems.
 [rel:kouenji-rokusuke] (p.48–50) Kōenji 168 pts leads; Ayanokōji notes his own 90-point gap and Kōenji’s likely ~350 final.
 [rel:nanase-tsubasa] (p.46–48) Sends her off with a warning — she vows anything for him; he tells her to protect him by protecting herself.
+<!-- walk: y2v4 Ch.1 → p.50 -->
+
 ### y2v4 p.51–54 — Day eight: food shortage; parting with Nanase
 [scene] (p.51) After the storm clears by 6:00 AM, he sits with his food shortage — never having undergone starvation training, his immune system is at risk; his only real source is Tasks; Nanase approaches with her backpack ready.
 [says] (p.51) “I’ll have to address the food shortage sooner rather than later…”
@@ -8591,25 +8593,215 @@ walk: y1v1 → DONE
 
 <!-- walk: y2v4 Ch.2 → p.59 -->
 
-### y2v4 p.60–66 — Ranking analysis; the top-ten dynamics
-[scene] (p.61) Reviews his standing — 112 points, risen to 13th, 11 behind Kuronaga's 10th-place group (123); notes the danger of showing up in the top ten (it draws attacks) and the effect of the “More People” card.
-[inference] (p.61–63) Reasons that top groups must actively impede rivals to protect their position, but doing so costs their own point-earning capacity; expects Nagumo to take countermeasures against Kōenji, but he seems to be simply pouring his energy into scoring points as Kōenji takes first or second.
-[trait] (p.60–66) Deliberately skipped a good Task to protect his ranking; curious about Nagumo's strategy and how many groups use walkie-talkies.
+### y2v4 p.60–62 — Ch.3: The 11th-place plan holds
+[scene] (p.60) Arrives at the fourth designated area (D5) at 3:00 PM, a punishing walk from H9 — skips a decent Task en route to avoid a penalty; takes third place in the Early Bird Bonus pool; still no sign of reaching the starting area.
+[says] (p.61) “So with all the points I earned today, I’ve upped my total score to 112, huh?”
+[says] (p.62) “With the way things are going, even if I don’t win, I won’t have any complaints as long as Kōenji takes first or second.”
+[inference] (p.60–62) 112 points, now 13th; Kuronaga’s 123 is 11 ahead — exactly the buffer he designed: 11th-place strategy (public top-ten = sabotage magnet); all it needs now is for the 10th place not to inflate or collapse.
+[note] (p.61) He has aimed for 11th place since before the exam; being publicly visible would make him a target; the strategy is hostage to the 10th place group’s score and the top groups’ willingness to let each other run.
+[note] (p.62) Nagumo’s camp shows no interference against Kōenji yet — most likely pouring everything into scoring; possibly simply letting Kōenji stay ahead.
+[trait] (p.60–62) Patient and disciplined; he wants Kōenji first or second; being in the top ten is the one outcome he refuses.
+[rel:kuronaga] (p.61–62) 123 points, 10th place, holding the public/anonymous barrier above him.
+[rel:kouenji-rokusuke] (p.62) His unspoken preferred winner; Kōenji first or second would satisfy his quiet bet.
 
-### y2v4 p.67–78 — Ibuki's dehydration; the water-for-food trade
-[scene] (p.67) Encounters Ibuki eating jerky (Class 2-B's class-wide jerky strategy) — she's alone, exhausted, dark circles, and hasn't had a real conversation since day one (only Horikita).
-[says:ibuki-mio] (p.68) “Just Horikita. You heard me say I wouldn't lose to her, right?”
-[says:ibuki-mio] (p.69) “I don't think of my classmates as 'friends'.”
+### y2v4 p.63–65 — Ch.3: The lone tent in the clearing
+[scene] (p.63) At sunset he spots an isolated one-man tent at the clearing’s edge — entrance zipped in the heat; no one inside detectable; he waits ten minutes, calls out, pitches his own tent at a distance, and finds out who the owner is.
+[says] (p.63) “What a nice spot.”
+[says] (p.63) “Is anyone there?”
+[says] (p.64) “Sorry, but I’d like to set up my tent nearby. Please let me know if you have a problem with that.”
+[says] (p.64) “…I really can’t imagine it.”
+[says] (p.65) “Did I make too much noise?”
+[says:ibuki-mio] (p.64) “I thought I heard some weirdo show up, but to think it was you of all people.”
+[says:ibuki-mio] (p.65) “Not really.”
+[says] (p.65) “You got a minute?”
+[says] (p.65) “I’d like to ask you something.”
+[says] (p.65) “I’m gonna unzip the flap, okay?”
+[says:ibuki-mio] (p.65) “…What do you want?”
+[note] (p.63–65) A lone one-man tent guaranteed a Class 2-B or 2-C loner — he assumed; he kept his distance, called out, and only unzipped after 30 seconds with zero response; found Ibuki inside chewing on something.
+[trait] (p.63–65) Alone by choice, but unnerved by the one-man tent; he stays and confirms the occupant before committing to camp.
+
+### y2v4 p.66–78 — Ch.3: Ibuki, dehydrated; the water-for-food trade
+[scene] (p.67) Inside the tent: Ibuki Mio sits chewing on jerky — Class 2-B’s class-wide strategy of homemade jerky (fresh meat not prepacked, cheaper than the school’s prices); she’s emaciated, dark circles, hasn’t spoken to anyone but Horikita since day one.
+[says] (p.67) “You’re really─ Wait, no, what are you eating?”
+[says:ibuki-mio] (p.67) “Jerky.”
+[says] (p.67) “Jerky…? That wasn’t included in the Uninhabited Island Manuel they handed out to us before the exam, though?”
+[says:ibuki-mio] (p.67) “What’s it matter to you? It’s none of your business.”
+[says] (p.68) “How many people have you spoken with since the exam started?”
+[says:ibuki-mio] (p.68) “Wha…?”
+[says:ibuki-mio] (p.68) “…Just Horikita. You heard me say I wouldn’t lose to her, right? You were there.”
+[says] (p.68) “In other words, you’re saying you haven’t had a proper conversation with someone since day one?”
+[says] (p.68) “You should try and find someone to talk to, even if only a little bit.”
+[says:ibuki-mio] (p.68) “Ain’t no way I’m gonna talk with my enemies.”
+[says] (p.68) “Then talk with a classmate. If you wander around long enough, you’re sure to come across someone.”
+[says:ibuki-mio] (p.69) “I don’t think of my classmates as ‘friends’.”
+[says:ibuki-mio] (p.69) “Get out already.”
 [says:ibuki-mio] (p.70) “How many points you got right now?”
-[says:ibuki-mio] (p.70) “So you won't tell me.”
-[says:ibuki-mio] (p.71) “When you next see that bitch, do me a solid and tell her that I'll absolutely never lose to her.”
+[says] (p.70) “We’re mutual enemies, you do know that right?”
+[says:ibuki-mio] (p.70) “So you won’t tell me.”
+[says:ibuki-mio] (p.71) “…Whatever. It was a waste of time to bother with askin’ you anyway.”
+[says] (p.71) “Fair enough. Besides, your true target here is Horikita, right?”
+[says:ibuki-mio] (p.71) “When you next see that bitch, do me a solid and tell her that I’ll absolutely never lose to her.”
+[says] (p.71) “That’s fine and all, but I’m probably not the one you should be giving the middle finger to.”
+[says:ibuki-mio] (p.71) “You, her, same difference. After all, you two are on real good terms with each other.”
+[says] (p.71) “Hold on a moment.”
+[says:ibuki-mio] (p.72) “Haaa? You tryna pull somethin’?”
+[says] (p.72) “That wasn’t my intention here at all, but─”
+[says:ibuki-mio] (p.72) “The hell are you doing!?”
+[says:ibuki-mio] (p.72) “I’ll admit I can’t beat you, sure, but one of these days, I swear I’m gonna get the satisfaction of kickin’ your teeth in.”
 [says:ibuki-mio] (p.72) “So? Did Horikita put you up to this? Tryna get in my way?”
 [says] (p.72) “Your pulse is racing.”
-[says:ibuki-mio] (p.74) “…A full day… and then some.” — out of water
-[says:ibuki-mio] (p.74) “…It did about an hour ago.” — first Warning Alert
-[trait] (p.67–78) Diagnoses her dehydration (racing pulse, dry mouth, cracked lips, empty water bottle for a full day+, first Warning Alert already sounded); bluffs a GPS Search to catch her lying about resting; offers a “fair trade” of two 500ml bottles for half her remaining food, and uses Horikita's name as the most effective lever — she accepts; advises her to rest tomorrow, but she refuses (her only goal is beating Horikita).
-[rel:ibuki-mio] (p.67–78) Helps the exhausted, dehydrated Ibuki via a water-for-food trade and warns her to recover — though she misreads his motives as manipulation on Horikita's behalf.
-[rel:horikita-suzune] (p.71–76) Uses her name to motivate Ibuki; notes Horikita looks fresh and well-supplied.
+[says] (p.73) “The inside of your mouth looks dry too, not to mention how cracked your lips are. You’re obviously dehydrated.”
+[says:ibuki-mio] (p.73) “I’m not all that thirsty… anymore.”
+[says] (p.73) “Anymore? So then, you’re saying you were thirsty at one point?”
+[says:ibuki-mio] (p.73) “Mind your own business. There ain’t anything wrong with me.”
+[says:ibuki-mio] (p.74) “Wait, wha─? What are you doing!?”
+[says] (p.74) “Show me what’s inside.”
+[says:ibuki-mio] (p.74) “Haaa!? No way in hell I’mma show a guy. No, I wouldn’t even do it for a girl either.”
+[says] (p.74) “Fair enough.”
+[says:ibuki-mio] (p.74) “Hey! I said no!”
+[says] (p.74) “How long have you been out of water?”
+[says:ibuki-mio] (p.74) “I don’t have to tell you anythi─”
+[says] (p.74) “I said, how long have you been out of water?”
+[says:ibuki-mio] (p.74) “…A full day… and then some.”
+[says] (p.74) “Nope. I’ve been resting here all day today.”
+[says] (p.74) “What an obvious lie. There were no GPS signals anywhere near here this morning.”
+[says:ibuki-mio] (p.74) “You did a GPS Search?”
+[says] (p.74) “Has your first Warning Alert gone off yet?”
+[says:ibuki-mio] (p.74) “…It did about an hour ago. That’s why I reluctantly decided to turn in early for the night.”
+[says] (p.75) “If you don’t rehydrate at some point, it’ll keep ringing even if you rest.”
+[says:ibuki-mio] (p.75) “I’ll handle it tomorrow, and if push comes to shove I’ll even go back to the starting area, so drop it and leave me alone.”
+[says] (p.75) “It’s more than two kilometers from here to the starting area. If you were to collapse along the way, it’d be all over.”
+[says:ibuki-mio] (p.75) “Then I’ll just do a nearby Task or some shit.”
+[says] (p.75) “You can’t do that though, can you? Otherwise you wouldn’t be in the state you’re in now.”
+[says] (p.75) “Trade me.”
+[says:ibuki-mio] (p.75) “What?”
+[says] (p.75) “It just so happens that I’m running short on food. On the other hand, I have a bit of an oversupply of water. I’m asking you to negotiate with me since I think we can make a fair trade.”
+[says] (p.76) “How about it? I’ll say it again just to be sure, but I’m looking to make a fair trade here. You’ll have to give me a suitable amount of food in exchange.”
+[says:ibuki-mio] (p.76) “Who the hell do you think you are to─”
+[says] (p.76) “Feel free to say no, but I won’t be giving you a chance to change your mind.”
+[says] (p.76) “If you retire due to dehydration like this, you’ll definitely lose to Horikita. In fact, I met with Horikita a little while ago. Her complexion was perfectly fine, and she didn’t seem to be having any problems with water or food either.”
+[says:ibuki-mio] (p.76) “I get it… I’ll trade with you. But, how much do you want from me?”
+[says] (p.76) “Half of your remaining food. That should be enough.”
+[says:ibuki-mio] (p.76) “Only that much?”
+[says] (p.76) “It’s at least better than sustaining myself by eating random weeds.”
+[says:ibuki-mio] (p.77) “I’m not gonna thank you if that’s what you’re after. It’s supposed to be a fair trade, remember?”
+[says] (p.77) “I don’t want you to thank me.”
+[says:ibuki-mio] (p.77) “Then whatta you want?”
+[says] (p.77) “If you’re not doing too badly with points, how about you spend most of the day tomorrow resting? That, or switch to a strategy where you only focus on acquiring food and water?”
+[says:ibuki-mio] (p.77) “So you’re sayin’ for me to give up on scoring points? You’ve gotta be kidding me.”
+[says:ibuki-mio] (p.77) “I’m not puttin’ in all this work ‘cause I don’t wanna get expelled. My only goal here is beating Horikita.”
+[says:ibuki-mio] (p.78) “I’ve got nothin’ more to say to you.”
+[trait] (p.66–78) He spots the dehydration pattern instantly (pulse, dry mouth, cracked lips, empty bottle); bluffs a GPS Search to trap her lying about resting; engineers a fair-trade offer using Horikita’s name as the lever — the only thing that moves her; she accepts the trade and walks out.
+[rel:ibuki-mio] (p.66–78) She hates him (he’s ‘X’), but she takes the water; he sees her as a lone cannon aimed at Horikita; she bolts without a word.
+[rel:horikita-suzune] (p.76) He uses Horikita as leverage — Ibuki’s entire drive is the match against her.
+
+### y2v4 p.79–80 — Ch.3: The backpack rummaged; the 12-point buffer
+[scene] (p.79) Next morning she is caught rummaging through his backpack — checking whether the trade was fair; his tablet has a lock screen; he accepts the mistrust as fair retaliation for opening hers.
+[says] (p.79) “What are you doing?”
+[says:ibuki-mio] (p.79) “!”
+[says] (p.79) “Were you trying to sneak a peek at my tablet, or was there something else you wanted?”
+[says:ibuki-mio] (p.79) “I wouldn’t do somethin’ like that! I just… I just wanted to make sure our trade was actually fair, that’s all.”
+[says:ibuki-mio] (p.79) “You’ve only got one bottle of water left in there, and you’ve already drunk some of it! I thought you said you had too much water?”
+[says:ibuki-mio] (p.79) “So what, were you trying to help me out to get me to owe you a favor?”
+[note] (p.79) “Grr…” — he privately notes her cheek twitched at his words.
+[says] (p.80) “In other words, I’m telling you that the truth doesn’t matter. It was a fair trade either way.”
+[says:ibuki-mio] (p.80) “I ain’t convinced, but… I get it. If that’s the way it is, I’m not gonna give any water back to you.”
+[says] (p.80) “If I did this to have you owe me a favor, would you pay it back?”
+[says:ibuki-mio] (p.80) “No way.”
+[says] (p.80) “…Is that so?”
+[note] (p.80) At 7:00 AM he spends one point on a GPS Search; Kuronaga is close to him; the one-point spend widens their gap to 12 points — even a first-place Early Bird Bonus keeps him just outside the top ten. Three other groups could contest the bonus; he yields; his first trip to that bonus pool is to save stamina.
+[trait] (p.79–80) He lets her win the argument about the trade but notes she can’t bear to owe him; her distrust is mutual.
+
+### y2v4 p.81–85 — Ch.3: Kiryūin Fuka sizes him up
+[scene] (p.81) A designated-area arrival; he arrives late and catches Fuka Kiryūin at the overlook; she’s just jumped from 11th or lower to 9th this morning; she debriefs him on the field.
+[says:kiryuin-fuuka] (p.81) “You have arrived quite late, Ayanokouji.”
+[says] (p.81) “It looks like it is”
+[says:kiryuin-fuuka] (p.81) “I thought I had a tough competitor for the reward in order of arrival, but was it you?”
+[says] (p.81) “I don’t know what’s up with that. It’s not uncommon for there to be different tables in the same area. More than that, I thought that Kiryuuin-senpai was not interested in the top ten groups.”
+[says:kiryuin-fuuka] (p.83) “This uninhabited island test was more fun than I thought it would be, and I was thrilled beyond my age.”
+[says:kiryuin-fuuka] (p.83) “I’m going to continue with my current rhythm for a while longer.”
+[says] (p.83) “Shouldn’t you be aiming for number one?”
+[says:kiryuin-fuuka] (p.83) “Everyone is competing with each other for the podium. I could not continue with that game. However, if Miyabi Nagumo collapses down, the story could be a little different.”
+[says] (p.83) “In such a state of conflict and struggle, Nor can I say that Nagumo will ever win. Sure you have been watching everything up to now, but the time has come for you to move your chips. Depending on how things go, we could see a period where neither team scores.”
+[says:kiryuin-fuuka] (p.83) “Because hitting your opponent is an important part of a battle.”
+[says] (p.83) “Don’t you aspire to move to the top?”
+[says:kiryuin-fuuka] (p.83) “I’m sorry, but I don’t see how can I be in the top ten.”
+[says:kiryuin-fuuka] (p.83) “I see. I thought you would have scored almost as many points as I did.”
+[says:kiryuin-fuuka] (p.84) “Several groups will soon lose their performance. We just have to keep trying and not give up.”
+[says:kiryuin-fuuka] (p.84) “That said, from what I see in the table so far, what do you think of the fact that no group has withdrawn?”
+[says] (p.84) “All I can say is that you can’t let your guard down, not even for a moment.”
+[says:kiryuin-fuuka] (p.84) “Yesterday I went through the starting point to obtain information. It seems that groups that have started to suffer from food and water shortages are trying to get ahead by separating some of their members to avoid joint collapse.”
+[says] (p.84) “It is a wise decision.”
+[says:kiryuin-fuuka] (p.84) “I am sure that the last 10 will have some hope, no matter which group will withdraw. A man who has lost his way will use whatever means at his disposal. Stay alert, okay?”
+[says] (p.84) “Shouldn’t it be something a woman, Kiryuuin-senpai, should be worried about?”
+[says:kiryuin-fuuka] (p.84) “Hmm… It’s true that, as a pretty and merciful maiden, I might also feel a sense of danger”
+[says:kiryuin-fuuka] (p.84) “Well if it comes to that ......., I would just have to force it out.”
+[note] (p.85) At this time, he believes there are at most two pools of openings for the challenge; if there are more than three rival groups and Kiryūin also goes there, the odds that she participates collapse.
+[says:kiryuin-fuuka] (p.85) “So that’s a.... no, I dare you to go there and see for yourself.”
+[trait] (p.81–85) He catalogues her as a third-year with an insight beyond the OAA — she already reads the three-way Kōenji/Nagumo stalemate from the leaderboard and almost tells him too much about his own strategy; he demurs to stay out of her range.
+[rel:kiryuin-fuuka] (p.81–85) She is drawn to him (why she keeps pace for the score in a two-stop race) and leaves him with a gambit of her own; he notes her cards are as visible as his.
+[rel:nagumo-miyabi] (p.83–84) Both expect the Kōenji–Nagumo deadlock to shatter at some point.
+
+### y2v4 p.86–94 — Ch.3: The Shiranami night search; the walkie-talkie
+[scene] (p.86) After nine at night he hears an unstable flashlight beam wandering the forest and a faint voice calling for “Yume” — Shiranami Chihiro, crying; he triangulates: only one Yume in the school, Kobashi of Class 2-C — so the searcher is a classmate.
+[says:shiranami-chihiro] (p.86) “Um, Ayanokouji-kun ...... good night.”
+[says] (p.87) “It is quite dangerous to go out alone in the middle of the night. What happened to Kobashi and Takemoto?”
+[says:shiranami-chihiro] (p.87) “Oh, I lost track of where I was ... I was in a hurry and didn't know where I was going”
+[says] (p.87) “How long has it been since you parted?”
+[says:shiranami-chihiro] (p.87) “I don't know ...... 15 minutes or ... About 20 minutes or so ......?”
+[says] (p.87) “In any case, wandering aimlessly will only make things worse.”
+[says:shiranami-chihiro] (p.87) “Uh-huh.”
+[says] (p.87) “There are a lot of bugs. You may want to get into the tent first.”
+[says:shiranami-chihiro] (p.87) “Eh!?”
+[says] (p.87) “I'm not going in there, so don't worry.”
+[says:shiranami-chihiro] (p.88) “I'm sorry ...... I was just resting and ....”
+[says] (p.88) “Nothing happened. Instead, Kokobashi and Takemoto are fine right?”
+[says:shiranami-chihiro] (p.88) “Yes.”
+[says] (p.88) “Is there a plan in case someone gets lost?”
+[says] (p.88) “Is the group still a small group of three? Or is it growing to more than four?”
+[says] (p.88) “Very good. You don't have to tell me the details of the situation. Just listen to what I have to say.”
+[says] (p.88) “If I were a member of your group, I would be aware of the current situation. I would have concluded that my companion was wandering alone through the dark forest without being able to return.”
+[says:shiranami-chihiro] (p.88) “... I don't know ... I think we would go look for Yume-chan ...”
+[says] (p.88) “Even if it causes an additional disaster and they risk getting injured and retiring?”
+[says:shiranami-chihiro] (p.88) “I couldn't leave her because she's my friend.”
+[says] (p.89) “Can you pay points? If you use it 2 times, would you be concerned about your rating after using it three times?”
+[says:shiranami-chihiro] (p.89) “That's ... I wonder. I don't think it's good.”
+[says] (p.90) “How strong are you?”
+[says:shiranami-chihiro] (p.90) “What?”
+[says] (p.90) “Do you have the strength to walk?”
+[says:shiranami-chihiro] (p.90) “Uh-huh. Okay, but......”
+[says] (p.90) “Let's move so we can unite from now on”
+[says:shiranami-chihiro] (p.90) “But how?”
+[says] (p.90) “It is not a problem that can be solved by walking in the dark. We will use this.”
+[says] (p.90) “We can use the GPS search to determine where we are going and the approximate distance travelled.”
+[says:shiranami-chihiro] (p.90) “But why….are you going out your way to help me......?”
+[says] (p.90) “Why? Since this exam is a battle based on the same year, that's one aspect of it.”
+[says:shiranami-chihiro] (p.90) “But even using a GPS search is...”
+[says] (p.90) “If I must say. Maybe it's because you're in Ichinose's class.”
+[says:shiranami-chihiro] (p.91) “…Maybe...”
+[says] (p.91) “Hmm?”
+[says:shiranami-chihiro] (p.91) “…Maybe it's because Ayanokouji-kun ... and Honami-chan ..”
+[says:kobashi-yume] (p.93) “Thank you, Ayanokouji-kun, for helping Chihiro-chan”
+[says] (p.93) “No, I think you would have found her eventually, it wasn't a big deal.”
+[says:kobashi-yume] (p.93) “Yes it was. If we had gone further, we would have run in the risk of injuring ourselves and, above all, we would have had a hard time finding her.”
+[says] (p.93) “I have something to ask, do you have a walkie-talkie?”
+[says:takemoto-shigeru] (p.93) “What? A walkie-talkie? I have one, but ...”
+[says] (p.93) “If you don't mind, I would like to have a little conversation with Sakayanagi. I would like to ask her if any of the class D students she dealt with have returned to the starting point.”
+[says:takemoto-shigeru] (p.93) “I'll help you with that. Give me a minute.”
+[says] (p.94) “I just want to talk to her in private.”
+[says] (p.94) “That's it, Sakayanagi. Sorry to bother you at this time of night.”
+[says:takemoto-shigeru] (p.94) “You saved me; I got the information I needed from Sakayanagi.”
+[says:takemoto-shigeru] (p.94) “Okay then. Also, Sakayanagi asked me to give this to you,Ayanokoji.”
+[says] (p.94) “Oh…thank you.”
+[says:takemoto-shigeru] (p.94) “No need, and again Ayanokouji-kun thank you for helping us.”
+[note] (p.93–94) He asks Takemoto to call Sakayanagi: whether any Class D students she dealt with have returned to the starting area; the confession on Takak—it's an exchange about Sakayanagi's Class D dealings; she hands him the walkie-talkie via Takemoto, effectively a gift to him; he sleeps to stories of Classes A and C around him.
+[trait] (p.86–94) He walks Shiranami back in the dark with GPS searches; gets their gratitude without revealing his own stake; the Sakayanagi back-channel — Takemoto hands him the walkie-talkie Sakayanagi arranged.
+[rel:shiranami-chihiro] (p.86–94) He walks her home through the dark; she owes him; she suspects the Honami-chan connection.
+[rel:kobashi-yume] (p.93–94) The lost girl; her companions came searching; he thanks them for the find.
+[rel:takemoto-shigeru] (p.93–94) Loan of the walkie-talkie; the relay into Sakayanagi’s channel.
+[rel:sakayanagi-arisu] (p.93–94) The back-channel: he asks via Takemoto about Class D dropouts; Sakayanagi answers and hands him her walkie-talkie.
+
+<!-- walk: y2v4 Ch.3 → p.94 -->
 
 ### y2v4 p.116–120 — Camping with Hiyori's expanded group
 [scene] (p.116) At J10 near sunset, encounters Hiyori's Class 2-B group merged with Ishizaki's (six members: Hiyori, Isoyama, Morofuji, Ishizaki, Nishino, Tsutsube).

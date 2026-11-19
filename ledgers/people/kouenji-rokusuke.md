@@ -846,6 +846,10 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 
 <!-- walk: y2v4 → start -->
 
+
+<!-- walk: y2v4 Ch.3 → p.94 -->
+
+
 ### y2v4 p.42–43, 48–50 — Kōenji mentioned in passing
 [mentioned] (p.42) “Kōenji was indeed amazing, but the truth behind what was going on here was probably a little bit different.”
 [mentioned] (p.42) “Fortunately, Kōenji has been putting in a lot of work of his own, so instead, I’ve been focused on gathering the resources necessary to support my peers who need help.”
@@ -856,6 +860,10 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [mentioned] (p.48) “There was a full, 90 point difference between myself and Kōenji, who was all the way up in first place.”
 [mentioned] (p.49) “If Kōenji were to maintain his current pace and keep diligently racking up points, he’d end up with a final score of around 350, so if I wanted to bridge the gap, I’d have to earn close to 40 points per day for the rest of the exam.”
 
+
+### y2v4 p.62, 83 — Kōenji mentioned in passing
+[mentioned] (p.62) “With the way things are going, even if I don't win, I won't have any complaints as long as Kōenji takes first or second.” — Ayanokōji.
+[mentioned] (p.83) “Do you think Nagumo is going to release Kouenji as he is right now?” — Kiryūin to Ayanokōji; the two leads are deadlocked.
 <!-- walk: y2v4 Ch.1 → p.50 -->
 
 ### y2v4 p.99–115 — Kōenji vs the third-year “Free Groups” siege

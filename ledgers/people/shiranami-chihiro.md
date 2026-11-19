@@ -56,14 +56,33 @@ char_id: shiranami-chihiro · class: Class 1-B · status: minor (allies)
 
 <!-- walk: y2v4 → start -->
 
-### y2v4 p.86–94 — Shiranami mentioned in passing
-[scene] (p.86–91) Named in the context of the exam.
-[scene] (p.93–94) Named in the context of the exam.
-[note] (p.86–94) Passing mentions; not a distinct scene presence.
-[mentioned] (p.86–94) Passing mention only.
+### y2v4 p.86–94 — Ch.3: Shiranami gets lost; walked home by Ayanokōji
+[scene] (p.86) On night ten at N-area, crying and searching in the dark for “Yume”; Ayanokōji finds her and recognizes her as Kobashi’s groupmate Chihiro; he walks her home.
+[says] (p.86) “…Yume… Yume-chan”
+[says] (p.86) “Um, Ayanokouji-kun ...... good night.”
+[says] (p.87) “Oh, I lost track of where I was ... I was in a hurry and didn't know where I was going”
+[says] (p.87) “I don't know ...... 15 minutes or ... About 20 minutes or so ......?”
+[says] (p.87) “Uh-huh.”
+[says] (p.87) “Eh!?”
+[says] (p.88) “I'm sorry ...... I was just resting and ....”
+[says] (p.88) “Yes.”
+[says] (p.88) “That's……”
+[says] (p.88) “... I don't know ... I think we would go look for Yume-chan ...”
+[says] (p.88) “I couldn't leave her because she's my friend.”
+[says] (p.89) “That's ... I wonder. I don't think it's good.”
+[says] (p.90) “What?”
+[says] (p.90) “Uh-huh. Okay, but......”
+[says] (p.90) “But how?”
+[says] (p.90) “But why….are you going out your way to help me......?”
+[says] (p.90) “But even using a GPS search is...”
+[says] (p.91) “…Maybe...”
+[says] (p.91) “…Maybe it's because Ayanokouji-kun ... and Honami-chan ..”
+[note] (p.91) Her worry is that something is happening between Honami-chan and Ayanokōji-kun — he can read it in her unfinished sentence and, after a startled pause, drops the subject.
+[rel:ayanokouji-kiyotaka] (p.86–94) He finds her; walks her home in the dark; she owes him.
+[rel:kobashi-yume] (p.86–94) Her groupmate; she was out searching for Kobashi “Yume-chan” when he found her.
+[rel:takemoto-shigeru] (p.87–94) The third of their three-person group; found her with Kobashi.
 
 <!-- walk: y2v4 Ch.3 → p.94 -->
-
 
 ## y2v4.5
 
