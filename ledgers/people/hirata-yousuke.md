@@ -1998,7 +1998,7 @@ aliases used for anchors: hirata, yousuke, yōsuke, hirata-kun
 
 ### y2v7 p.7–8 — Additional funds: 3,000-point club activity bonus
 [scene] (p.8) The additional-funds breakdown is displayed: Yōsuke received 3,000 points for his club activity bonus; Akito received 100; Horikita, Sudō and Onodera got the 10,000 maximum; the class total 39,400.
-[number] (p.8) Yōsuke's additional funds: 3,000 (club activity) — “For example, Yōsuke received 3,000 points for his club activity bonus, and Akito received 100. Many students who seemed to be active, mainly in club activities, were mentioned.”
+[number] (p.8) Yōsuke's additional funds: 3,000 (club activity) — “For example, Yōsuke received 3,000 points for his club activity bonus, and Akito received 100 … . Many students who seemed to be active, mainly in club activities, were mentioned.”
 ### y2v7 p.12 — The honor roll
 [scene] (p.12) The midterm results list: Yōsuke is named among the honor roll alongside Kushida, Matsushita and Wang.
 [note] (p.12) “The top rankers from this group were honor students such as Yōsuke, Kushida, Matsushita, and Wang” — the narration.

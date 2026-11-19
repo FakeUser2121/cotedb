@@ -859,7 +859,7 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 [says] (p.97) “This is chocolate flavored protein. Well, just take a light lick.” — Ishizaki.
 [says:karuizawa-kei] (p.97) “I don't want it.” — Kei refused to drink it as soon as it was served.
 [says] (p.97) “Oh, don't be like that. It's just protein.” — Ishizaki.
-[says:karuizawa-kei] (p.97) “I've never had protein before, and I don't want to. I'm not trying to get muscular.” — Kei.
+[says:karuizawa-kei] (p.97) “I've never had protein before, and I don't want to. I'm not trying to get …  muscular.” — Kei.
 [says:yamada-albert] (p.97) “You can't build muscle just by drinking protein shakes.” — Albert stepped forward and mumbled English.
 [says:yamada-albert] (p.97) “Don't worry about that. You can't build muscle by just drinking protein shakes. That's right. Since we're here, why don't you two give it a try?” — Albert.
 [note] (p.97) He took the initiative, picked up a paper cup, and drank the protein; it tasted a little like the old days.

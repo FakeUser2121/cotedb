@@ -24,7 +24,7 @@ char_id: himeno · class: Class 2-D (Ichinose) · status: student (y2v7)
 [says] (p.66) “Damn it!” — the words conveyed her true intentions and unwillingness.
 [says] (p.66) “Can I go now? I won't tell anyone about this. It will only get me into trouble if I do.”
 [says] (p.67) “That's not fair. That's a threat.” — Himeno became upset; her reaction was different from her previous scoffing attitude.
-[says] (p.67) “I don't want to stay.”
+[says] (p.67) “I don't want to …  stay.”
 [says] (p.67) “But I am…” — Himeno, biting her lower lip, closes her eyes tightly.
 [says] (p.67) “Even… I'd like to… win if I could.” — she had not given up the possibility of changing classes and winning in no small measure.
 [says] (p.67) “I understand what you're saying… But still…” — Kanzaki's words stung her strongly.

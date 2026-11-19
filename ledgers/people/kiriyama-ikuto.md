@@ -216,7 +216,7 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 
 ### y2v7 p.78–79 — The vice president: the thorny remark, the Kishi rumor
 [scene] (p.78) §2 — the student council room; the members are already there except for Student Council President Nagumo; Kiriyama-senpai, the third-year vice president, is present; Yagami and Aga chat with Ichinose-san.
-[says] (p.78–79) “It was decided in almost half a day? It seems that the student council president's decision was correct. However, if the decision was made by the student council, I wish you would have informed us a little earlier.” — Kiriyama-senpai, the vice president, made a thorny remark.
+[says] (p.78–79) “It was decided in almost half a day? It seems that the student council president's decision was correct. However, if the decision was made by the student …  council, I wish you would have informed us a little earlier.” — Kiriyama-senpai, the vice president, made a thorny remark.
 [says] (p.79) “From my class?” — Kiriyama.
 [says] (p.79) “Sorry, that's news to me. I don't understand why you would bet a lot of money to get someone expelled in the first place.” — Kiriyama.
 [note] (p.79) “Who told you that nonsense?” — printed untagged; not assigned.

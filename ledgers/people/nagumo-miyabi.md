@@ -815,7 +815,7 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [says] (p.78) “The meeting will begin immediately. Take your seats.” — Nagumo.
 [says] (p.78) “Ichinose, if you have anything to report, let's hear it.” — Nagumo to Ichinose.
 [says:ichinose-honami] (p.78) “Yes. It seems that it has been decided that all classes will participate in the rehearsal the day before the festival.” — Ichinose reports.
-[says:kiriyama-ikuto] (p.78–79) “It was decided in almost half a day? It seems that the student council president's decision was correct. However, if the decision was made by the student council, I wish you would have informed us a little earlier.” — Kiriyama-senpai, the vice president.
+[says:kiriyama-ikuto] (p.78–79) “It was decided in almost half a day? It seems that the student council president's decision was correct. However, if the decision was made by the student …  council, I wish you would have informed us a little earlier.” — Kiriyama-senpai, the vice president.
 [says] (p.79) “It's just an idea. I thought starting a little earlier would make the juniors happy.” — Nagumo replied without any particular apology.
 [note] (p.79) Then there was a sudden silence; Nagumo had his arms crossed and his eyes closed — "It was obvious that he was holding back his anger."
 [says] (p.79) “Listen, I heard a strange rumor.” — Nagumo.
@@ -831,7 +831,7 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [says] (p.79–80) “It's just a rumor. But I'm not willing to sit idly by and let the accusations against me go unchallenged.” — Nagumo.
 [says] (p.80) “The student council will be suspended for a while.” — Nagumo.
 [says:ichinose-honami] (p.80) “Suspended...?” — Ichinose was surprised by this unexpected proposal.
-[note] (p.80) “The student council used to meet like this once a week and repeatedly discuss various topics… It was unusual to suspend them during the regular school year.” — narrated.
+[note] (p.80) “The student council used to meet like this once a week and repeatedly discuss various topics … … It was unusual to suspend them during the regular school year.” — narrated.
 [says] (p.80) “We're done discussing the cultural festival, too. There shouldn't be any problems.” — Nagumo.
 [note] (p.80) “Are you going to look for the culprits?” — printed untagged; not assigned.
 [says] (p.80) “Of course, we'll look for them thoroughly. The next meeting will be held after the festival.” — Nagumo.
@@ -853,9 +853,9 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [note] (p.170) What was with Yagami-kun's calm demeanor, as if he had known that the student council president was coming?
 [says] (p.170) “Then, let's ask you to explain why you're here without permission.” — Nagumo.
 [note] (p.170) If she said she lost her notebook, Yagami-kun might've pointed out that she was lying; on the other hand, if she brought up the subject of the notes, the story would spread to Student Council President Nagumo.
-[says:yagami-takuya] (p.170) “Horikita-senpai seemed to have lost her notebook, and I was going to help her find it… Ibuki-senpai seemed to have mistakenly thought that I was attacking Horikita-senpai and acted like she did for no apparent reason.” — Yagami-kun replied, not trying to corner her, but to defend her lie.
+[says:yagami-takuya] (p.170) “Horikita-senpai s … eemed to have lost her notebook, and I was going to help her find it… Ibuki-senpai seemed to have mistakenly thought that I was attacking Horikita-senpai and acted like she did for no apparent reason.” — Yagami-kun replied, not trying to corner her, but to defend her lie.
 [says] (p.170) “I see, so that's the reason for the restraint.” — Nagumo.
-[says] (p.170) “I think the misunderstanding has been cleared up, and I don't particularly intend to make an issue of it.” — Nagumo.
+[says] (p.170) “I think the misunderstanding has been cleared up, and I don't particularly …  intend to make an issue of it.” — Nagumo.
 [says] (p.170) “Then there's no need for further mention. So, did you find the notebook?” — Nagumo.
 [says:horikita-suzune] (p.170) “No, I did not find it. This was the last place I placed it. Maybe I mistook it for trash and threw it away. I'll just give up.” — Horikita.
 [note] (p.170) Although he could check himself, he probably didn't care about the whereabouts of the notebook; the student body president looked away from her, as if he wasn't interested, and then sat down in his usual seat.
@@ -868,7 +868,7 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [note] (p.170) Were Student Council President Nagumo and Yagami-kun planning to meet up here? If so, then Yagami-kun's prediction that the student body president would come would make sense. But, the exchange between the two was far from indicative.
 [says] (p.171) “I'd be happy to answer you, but before I do, I wanted to ask Yagami-kun something too.” — Nagumo.
 [says:yagami-takuya] (p.171) “Me?” — Yagami.
-[says] (p.171) “You remember the matter we talked about in the student council room the other day, don't you? I told you that there's a rumor that I'm trying to expel some students with a lot of money.” — Nagumo.
+[says] (p.171) “You remember the …  matter we talked about in the student council room the other day, don't you? I told you that there's a rumor that I'm trying to expel some students with a lot of money.” — Nagumo.
 [says:yagami-takuya] (p.171) “Of course. I've been doing some digging on my end, but I haven't been able to find out where the rumors are coming from.” — Yagami.
 [note] (p.171) She couldn't keep up with the sudden rehash of the story.
 [says] (p.170) “But you know, don't you? Where the rumors are coming from.” — Nagumo kicked the underside of the desk lightly in frustration.
@@ -893,9 +893,9 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [note] (p.172) Student Council President Nagumo was facing Yagami-kun, but changed his gaze to them.
 [says] (p.172) “You guys go back now. I'll talk to Yagami from here.” — Nagumo.
 [says:horikita-suzune] (p.172) “I did not know about that matter, but please allow me to speak.” — Horikita.
-[says:yagami-takuya] (p.172) “Horikita-senpai, what are you going to say?” — Yagami-kun attempted to restrain her with his eyes; ‘I covered for you earlier, return the favor’ he seemed to be saying; she had to ignore such a gaze.
+[says:yagami-takuya] (p.172) “Horikita-senpai … , what are you going to say?” — Yagami-kun attempted to restrain her with his eyes; “I covered for you earlier, return the favor” he seemed to be saying; she had to ignore such a gaze.
 [says] (p.172) “Tell me.” — Nagumo.
-[says:horikita-suzune] (p.172) “I don't know if he was the one who spread the rumor about that special exam. But I don't think it's a coincidence that he showed up here; Yagami-kun was following me. Or I now strongly feel that he has been watching around this student council room from the beginning.” — Horikita.
+[says:horikita-suzune] (p.172) “I don't know if he was the one who spread the rumor about that special exam. But I don't think it's a coincidence that he showed up here; Yagami-kun was …  following me. Or I now strongly feel that he has been watching around this student council room from the beginning.” — Horikita.
 [says] (p.172) “You think so, Suzune? Is this true, Yagami?” — Nagumo.
 ### y2v7 p.172–183 — The anagram; the trap; the exit
 [scene] (p.172) Yagami-kun's expression hardened as he was caught between the two sides, but then he exhaled in irritation.
@@ -914,7 +914,7 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [says:yagami-takuya] (p.173) “Please stop playing games. If you analyze the anagrams, you will find the truth.” — Yagami-kun.
 [says:horikita-suzune] (p.173) “What's an anagram?” — Horikita; unlike Ibuki-san, she didn't understand the meaning of the word itself.
 [note] (p.173) An anagram is a rearrangement of letters to change their meanings; a play on words.
-[says] (p.173) “You are very clever, Yagami. Apparently neither Suzune nor I can analyze anagrams right away, right?” — Nagumo.
+[says] (p.173) “You are very clever, Yagami. Apparently neither Suzune nor I can analyze …  anagrams right away, right?” — Nagumo.
 [says] (p.173) “Could it have been written by one of you two? Or was it someone you know in common?” — Nagumo.
 [says:yagami-takuya] (p.173) “Common acquaintance? Who the hell are you talking about?” — Yagami.
 [says:yagami-takuya] (p.173) “I don't know that. But you can trust that I followed the anagram to this place.” — Yagami.
@@ -940,7 +940,7 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [says:horikita-suzune] (p.174) “Wait. I really don't know what you are talking about. I suspected that you came to my tent and put the letter in there, but I only talked to Ibuki-san about it.” — Horikita.
 [note] (p.174) Even when she told him the truth, Yagami-kun did not seem to believe her.
 [says] (p.174) “Explain it to me so I can understand, Yagami.” — Nagumo.
-[says:yagami-takuya] (p.175) “Fuu~ I'm getting tired of your quicksand, Student Council President Nagumo. You were going to meet up with Ayanokōji-senpai here along with Horikita-senpai through the letter. And he was going to talk to me. He must have thought it was dangerous to meet with me alone. Yeah, it was a wise decision.” — Yagami.
+[says:yagami-takuya] (p.175) “Fuu~ I'm getting tired of your quicksand, Student Council President Nagumo. You were going to meet up with Ayanokōji-senpai here along with Horikita-senpai through the letter. And he was going to talk to me. He must have …  thought it was dangerous to meet with me alone. Yeah, it was a wise decision.” — Yagami.
 [note] (p.175) Nagumo pulled out his cell phone and turned the screen toward them; a phone number was displayed, as if there was an incoming call from someone.
 [says] (p.175) “Looks like you've arrived. Come in.” — Nagumo; the other end of the phone hung up.
 [says:yagami-takuya] (p.175) “Ha-ha-ha! I knew Ayanokōji-senpai was here! I'm so happy!” — Yagami-kun.
@@ -975,7 +975,7 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [says] (p.176) “It was just yesterday. We were going to have a discussion today, just me, Ryūen, and Komiya and Kinoshita. Why are the teachers here?” — Nagumo; as if in response to this statement, Student Council President Nagumo also commented.
 [says] (p.176) “I called them here to save you the trouble. I heard that Sakagami rushed over when the two of you were injured.” — Nagumo.
 [says] (p.176–177) “Speaking of Yagami-kun, I'm sure Mashima-sensei recalls as well.” — Nagumo.
-[says:mashima-tomonari] (p.177) “Yes, I don't want to do anything to suspect the students, but I can't deny the possibility.” — Mashima-sensei.
+[says:mashima-tomonari] (p.177) “Yes, I don't want to do anything to suspect the students, but I can't deny the …  possibility.” — Mashima-sensei.
 [says:yagami-takuya] (p.177) “Hey, what are you saying? I didn't do anything!” — Yagami.
 [says:ryuuen-kakeru] (p.177) “Yagami. I know that the GPS on your watch was not functioning when the two alerts went off that day. There were several students whose watches were broken during the special exam, but only two, including you, were able to contact Komiya and the others from the point where you last disappeared. Of course, at the time, Komiya, Kinoshita, and Shinohara could only say that someone had injured them, but they could not give their names. Therefore, we had no choice but to treat it as an accident…” — Ryūen.
 [says:yagami-takuya] (p.177) “He couldn't remember, but later he remembered and gave my name? That's impossible! It's obvious that the two of them must have talked past each other to come up with my name!” — Yagami.

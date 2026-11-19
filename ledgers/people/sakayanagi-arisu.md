@@ -1368,7 +1368,7 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [mentioned] (p.29) “Did you team up with Sakayanagi-san, or Ichinose-san and the others?” — Yōsuke's guess about the leak; Sakayanagi is named as a possible partner B.
 [mentioned] (p.42) “Classes like yours will eventually have to fight against Sakayanagi's class.” — Kanzaki's line.
 [mentioned] (p.73) “If it was Sakayanagi or Ryūen, they would've listened and dismissed it.” — Horikita's read of Sakayanagi's personality.
-[note] (p.112) Section: see Yoshida Kenta's ledger for the peeking-boy entry.
+[note] (p.112) Section: see Yoshida Kenta's person record for the peeking-boy note.
 [mentioned] (p.115) “Sakayanagi. However, as noon approached, there was no sign of any change.” — at the festival, the hot seat was hers alone to sell out.
 [mentioned] (p.182) “Rest assured that we will pass everything on to Chairman Sakayanagi.” — the adults' owners; Chairman Sakayanagi is the school's chairman.
 [mentioned] (p.189) “Yes, Sakayanagi-san heard a lot of information from third parties. I'm sure that Hashimoto-kun and other spies must've told her about this as well. The two classes were supposed to cooperate with each other, but they got into a dispute, and Ryūen-kun unilaterally betrayed them.” — Horikita's explanation to the planners.

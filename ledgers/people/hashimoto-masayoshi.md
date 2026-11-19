@@ -866,7 +866,7 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 [note] (p.17–18) Sakayanagi says nothing; she goes into the class they had watched earlier; Hashimoto's Class A trio watches the second-years scout with relaxed amusement.
 [rel:horikita-suzune] (p.17–18) He probes the Ryūen alliance; she replies on the same level, relaxed.
 [rel:ayanokouji-kiyotaka] (p.17–18) The harem jab; the “teaming up with Ryūen” warning.
-[rel:sakayanagi-arisu] (p.17–18) His silent leader watches with a wry smile; he keeps "the good luck" for last.
+[rel:sakayanagi-arisu] (p.17–18) His silent leader watches with a wry smile; he saves his parting remark for last.
 ### y2v7 p.19, 27, 189 — Hashimoto's name lands in other people's mouths
 [mentioned] (p.19) “Hashimoto-kun said something earlier, did you guys catch it?” — Maezono's line; Hashimoto's probe is now public gossip in the planning room.
 [note] (p.19) “I want to believe you too. But didn't Hashimoto-kun seem to know” — the others study Hashimoto's knowledge; he seems to know; his class A's scouting is too well-informed.

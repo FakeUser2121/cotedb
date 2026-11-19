@@ -991,7 +991,7 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [mentioned] (p.77) “Horikita Manabu, but he was still a senior student and representative of this school.” — the narration's placement; Horikita Manabu is named.
 [note] (p.77) The man was still a senior student and school representative at the time of the island exam.
 
-### y2v7 p.6–202 — Noise hits (surname shared with Suzune) — no content for this ledger
+### y2v7 p.6–202 — Noise hits (surname shared with Suzune) — no content here
 [note] (p.6) "Horikita Suzune" — not this character.
 [note] (p.8) "● Horikita Suzune, Student Council Member Bonus: 10,000 points" — not this character.
 [note] (p.11) Keisei first, Horikita second, Sudō 11th — not this character (this character is not named on this page).
@@ -1016,7 +1016,7 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [note] (p.120) The counter-flyer war — not this character.
 [note] (p.124) Kushida's cookie run — not this character.
 [note] (p.127) Kushida's weakness with Amasawa — not this character.
-[note] (p.130) Ayanokōji's "you should be able to tell us you're not normal" — not this character.
+[note] (p.130) Ayanokōji's distinctive "you’re not normal" observation — recorded to disambiguate the two Horikitas; not this character.
 [note] (p.131) The staffing crisis — not this character.
 [note] (p.143) The Keyaki Mall bench confrontation — not this character.
 [note] (p.147) "Kushida is there, Horikita is there, Yōsuke is there." — not this character.

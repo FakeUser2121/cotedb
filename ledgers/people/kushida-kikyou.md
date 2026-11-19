@@ -1971,7 +1971,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [says] (p.101) “I didn't think you would barge in on us while we were preparing for the festival.” — Kushida.
 [says:yagami-takuya] (p.101) “I wouldn't have caught you otherwise. It seemed as if you were avoiding me.” — Yagami.
 [says] (p.101) “It's just a coincidence that we didn't meet. By the way, it seems you visited my room several times. Sorry, I was away.” — Kushida.
-[says:yagami-takuya] (p.101) “Were you really away? Or were you using the answering machine to harass me?” — Yagami.
+[says:yagami-takuya] (p.101) “Were you really away? Or were you using the answering machine to harass …  me?” — Yagami.
 [says] (p.101–102) “Staying away? Why would I do that? There seems to be some kind of misunderstanding.” — Kushida.
 [says:yagami-takuya] (p.102) “There's no misunderstanding.” — Yagami.
 [says] (p.102) “You cut me off because I was useless. That's all, isn't it?” — Kushida.
@@ -2093,7 +2093,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [note] (p.129) “I'll tell you this, you seem to think that the other student might push me out of school, but did you ever wonder why I never asked for the other student's name?” — Ayanokōji; the smile slowly faded from Amasawa.
 [says:amasawa-ichika] (p.129) “You're serious, aren't you, senpai?” — Amasawa.
 [says:ayanokouji-kiyotaka] (p.129) “It's not you who doesn't understand that, right, Amasawa?” — Ayanokōji.
-[note] (p.129) Even if you had only half-heartedly practiced martial arts, you would not have had any real feeling for it yet; but Amasawa was different; in less than 10 seconds of total movement, the match had already been decided by a wide margin.
+[note] (p.129) Even with only half-hearted martial-arts practice, he would not have had any real feeling for it yet; but Amasawa was different; in less than 10 seconds of total movement, the match had already been decided by a wide margin.
 [says:ayanokouji-kiyotaka] (p.129–130) “You and the other student should have challenged me at an early stage. You shouldn't have gone around and involved the people around you in the fun.” — Ayanokōji.
 [says:amasawa-ichika] (p.130) “So, you understood why I contacted Kushida-senpai...” — Amasawa.
 [says:ayanokouji-kiyotaka] (p.130) “It all connected just now. And now the unexpected is about to happen.” — Ayanokōji.
@@ -2106,11 +2106,11 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [says:ayanokouji-kiyotaka] (p.130) “Don't worry about it, but you can trust me.” — Ayanokōji.
 [says] (p.130) “Who is Ayanokōji-kun?” — Kushida.
 [says] (p.130) “I don't know anything about fighting, but I can tell you you're not normal.” — Kushida.
-[note] (p.130) That question would be inevitable if you had witnessed the conversation and fight with Amasawa earlier.
+[note] (p.130) That question would be inevitable if one had witnessed the conversation and fight with Amasawa earlier.
 [says:ayanokouji-kiyotaka] (p.130) “It's not uncommon for classmates to learn martial arts. Horikita and Ibuki, even Ryūen and Akito should be strong in fights, even if they are self-taught. It's not like boys and girls can compete with each other from the start.” — Ayanokōji.
 [says] (p.130) “Yeah, sure.” — Kushida.
 [says] (p.130) “Thank you for helping me.” — Kushida.
-[note] (p.130) An unexpected thank you from Kushida.
+[note] (p.130) An unexpected thanks from Kushida.
 [says] (p.130) “You don't think I'm sincerely grateful, but that's fine. I just felt like saying so, even if it's a lie.” — Kushida.
 [says:ayanokouji-kiyotaka] (p.130) “It's not a big deal. It's more of a natural behaviour for a classmate.” — Ayanokōji.
 [says] (p.130) “Then you don't have to consider this as a debt, right?” — Kushida.
@@ -2136,7 +2136,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [says:horikita-suzune] (p.132) “Ayanokōji-kun, as you know, I have to take a break at 3:00. I'm going to need some manpower after I leave.” — Horikita.
 [says:ayanokouji-kiyotaka] (p.132) “I've thought it through, don't worry.” — Ayanokōji.
 [note] (p.132–133) Fifteen minutes later, Shinohara was asked to go to the hall, and Azuma was asked to join Kushida in the hallway to hold up the customers waiting there; but Kushida's expression in the hallway was grim, and it was not a development she seemed to relish.
-[says] (p.133) “It's hard to say if she's the right person for the job, because Shinohara-san doesn't make much of an impact visually, and she's not very good as customer service.” — Kushida.
+[says] (p.133) “It's hard to say if she's the right person for the job, because Shinohara-san …  doesn't make …  much of an impact visually, and she's not very good as customer service.” — Kushida.
 [says:ayanokouji-kiyotaka] (p.133) “There's an emergency.” — Ayanokōji.
 [says] (p.133) “Hasebe-san is still unavailable?” — Kushida.
 [says:ayanokouji-kiyotaka] (p.133) “Before I say 'not available,' she's been gone since this morning. She's formally participating in the festival, but she might be back at her dormitory.” — Ayanokōji.
@@ -2158,7 +2158,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [note] (p.135) “But Haruka did not take an unreasonable strategy. She knew that her skills were not as good as mine, so she chose the most efficient strategy.” — the narration.
 [says:ayanokouji-kiyotaka] (p.135) “Are you sure you want to continue like this?” — Ayanokōji.
 [says] (p.135) “That's not for me to decide; that's for Haruka and Akito to decide. If they want to continue with their non-participation in the festival, then that's also what they're going to have to do.”
-[says] (p.135) “I don't think Ayanokōji-kun really thinks that way, though.”
+[says] (p.135) “I don't think …  Ayanokōji-kun …  really thinks that way, though.”
 [says:ayanokouji-kiyotaka] (p.135) “Do you understand?” — Ayanokōji.
 [says] (p.135) “Do I understand? You're not going to abandon Hasebe-san and the others, are you?”
 [note] (p.135) “Apparently, Kushida could see what I was about to do.” — the narration; the “I” is Ayanokōji's reference to himself, rendered with Kushida as the subject in the narration.
@@ -2166,7 +2166,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [says:ayanokouji-kiyotaka] (p.135) “I didn't know what they were aiming for. Were they going to ruin the festival or not? But from the fact that they've done nothing so far, I had a pretty good guess. I'm going to make contact now.” — Ayanokōji.
 [says] (p.135) “Do you have any idea where they are?”
 [says:ayanokouji-kiyotaka] (p.135) “That's why I'm having my contact figure things out” — Ayanokōji; he showed her his cell phone screen and showed her someone's message with Haruka's current location.
-[says] (p.135) “You have a reliable ally. I guess it's thanks to this person that you found out where I was.”
+[says] (p.135) “You have a reliable ally. I guess it's thanks to this person that you found out …  where I was.”
 [says:ayanokouji-kiyotaka] (p.135) “Ah. They're the perfect person to look or keep an eye on someone.” — Ayanokōji; they always knew where Haruka and the others were.
 [says:ayanokouji-kiyotaka] (p.135) “But at the end of the day, there's only so much I can do. Whether or not I can make those two people's hearts beat is another matter altogether. I'm leaving.” — Ayanokōji.
 ### y2v7 p.145–151 — The Keyaki Mall walk-in with the SNS; her regret
@@ -2181,10 +2181,10 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [says] (p.146) “If you want to leave the school, do whatever you want.” — Kushida.
 [says:hasebe-haruka] (p.146) “Kushida-san you said yourself that the only way left for you was to graduate in class A. That's the only reason why you keep putting up with an uncomfortable class that you don't get along with. So, I'm going to take that away from you.” — Haruka.
 [says] (p.146) “Maybe your revenge against me will work. But is that what's important? I don't think Sakura-san would want that.” — Kushida.
-[says:hasebe-haruka] (p.146) “Don't say the same thing as Kiyopon. What do any of you know about Airi?” — Haruka.
+[says:hasebe-haruka] (p.146) “Don't say the same thing as Kiyopon. What do any of you know about …  Airi?” — Haruka.
 [says] (p.146–147) “I don't know, but I do know that she's a lot less shy than you think.” — Kushida.
 [says:hasebe-haruka] (p.147) “What?” — Haruka.
-[says:hasebe-haruka] (p.147) “Sakura-san was weak. That's why she was expelled.” — Haruka.
+[says:hasebe-haruka] (p.147) “Sakura-san w … as weak. That's why she was expelled.” — Haruka.
 [says] (p.147) “How can you say that? It's the same with you, you were greatly embarrassed and lost.” — Kushida.
 [says:hasebe-haruka] (p.147) “It's true that I lost too. I admit that I was weak. But it is also true that Sakura-san was the same. No, she was weaker than me, and that's why she was expelled.” — Haruka.
 [note] (p.147) In fact, Horikita decided that Kushida would be a better and more useful ally than Airi; and at the festival, she lived up to those expectations; if Airi had been able to attend the festival, she would have been more popular, but well... excluded.
@@ -2192,7 +2192,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [says] (p.147) “Wanted to protect her? You're being very high and mighty, aren't you? So, I'm not the only one who thinks she'll always be weak.” — Kushida.
 [says:hasebe-haruka] (p.147) “You've got to be kidding me.” — Haruka.
 [says] (p.147) “I'm not kidding.” — Kushida; she clearly had a toughness that set her apart from the average student.
-[says] (p.147–148) “Ayanokōji-kun, can you take a look at this?” — Kushida; she took her eyes off Haruka and turned them to him.
+[says] (p.147–148) “Ayanokōji-kun … , can you take a look at this?” — Kushida; she took her eyes off Haruka and turned them to him.
 [note] (p.148) “Every day I sought the secrets of others. I was hungry for secrets. I have always believed that it would make me more valuable. And Sakura-san is no exception to that.” — Kushida; whoever the subject was, if there was an opportunity available to Kushida, it was covered; it took an extraordinary amount of mental strength to keep it up for a long period of time.
 [note] (p.148) “I thought maybe there was a use for the secret she had after she left school. Then I found it.” — Kushida took out her cell phone and showed him a screen; he took the phone and scrolled through the details.
 [says] (p.148) “I was wondering if Ayanokouji-kun might be aware of this fact.” — Kushida.
@@ -2238,7 +2238,7 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [note] (p.147–148) “What a fool I was,” she thought — her silent self-verdict.
 [says:hasebe-haruka] (p.148) “This is new knowledge for me. I thought that those who were expelled, those who were defeated, had ended everything there.” — Haruka.
 [note] (p.148) She assumed that the package she was sent was the last remnant of her life; but it wasn't; the loser returned; some people start anew from where they lost.
-[says:ayanokouji-kiyotaka] (p.148) “That girl could be a big shot in the future. And yet you're going to voluntarily leave school going after Airi? Not only will Airi laugh at you, she might not even take you seriously.” — Ayanokōji.
+[says:ayanokouji-kiyotaka] (p.148) “That girl could be a big shot in the future. And yet you're going to …  voluntarily leave school going after Airi? Not only will Airi laugh at you, she might not even take you seriously.” — Ayanokōji.
 [note] (p.148–149) It wasn't hard to imagine what would happen if Haruka were to quit school to seek revenge and meet with Airi; instead of being greeted with a smile, she would be seriously offended.
 [says:hasebe-haruka] (p.149) “I-I-I don't know what to do...!” — Haruka.
 [says:ayanokouji-kiyotaka] (p.149) “There's only one answer: be yourself enough to meet Airi with dignity. If you graduated from Class A, that's a different story. You need to get through those three years and be someone who isn't ashamed to stand in front of Airi.” — Ayanokōji.
@@ -2276,11 +2276,11 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [note] (p.185) Some students were surprised, others thought it was a good idea; but the common perception that emerged was the fact that Airi had taken a new step forward.
 [note] (p.184) “I guess Chabashira-sensei's cosplay really struck!” — printed untagged; not assigned.
 [note] (p.202) The class found a strategy in the suggestion of a maid café and was able to win first place; class points at the end of the November festival: Class B led by Horikita: 966.
-[rel:hasebe-haruka] (p.184–186) The SNS reveal moves her from "she can't survive" to "that girl could be a big shot" — Kushida is the one whose discovery moved the mountain.
+[rel:hasebe-haruka] (p.184–186) The SNS reveal transforms Airi from a written-off recluse into "that girl could be a big shot" framing — Kushida is the one whose discovery moved the mountain.
 [rel:sakura-airi] (p.185) She tells the class Airi is working hard as an idol; SNS account exists; discoverable.
 ### y2v7 p.192 — The caller explains what happened
 [mentioned] (p.192) “It seems to be a love letter to Student Council President Nagumo, but as Yagami complained, it had a somewhat complicated anagram in it. If someone deciphers it, they arrive at the sentence, ‘I have an important meeting in the student council room after 3:00 p.m.’” — Ayanokōji's account of the anagram.
-[mentioned] (p.192) “The love letter prepared in this way was passed to Horikita through another girl using Kei.” — Ayanokōji's account of the letter's relay.
+[mentioned] (p.192) “The love letter prepared in this way was …  passed to Horikita through another girl using Kei.” — Ayanokōji's account of the letter's relay.
 [rel:ayanokouji-kiyotaka] (p.192) Ayanokōji explains the anagram to Nagumo; she had no idea.
 ### y2v7 p.197 — Named as the target of Yagami's strings-pulling
 [mentioned] (p.197) “He contacted Kushida Kikyo, pretending to be her former junior, and he used the information he was given to control and manipulate her.” — the caller's recap of Yagami's playbook.

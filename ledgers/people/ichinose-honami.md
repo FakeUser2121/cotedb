@@ -1927,7 +1927,7 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [scene] (p.78) §2 — the student council room; Ichinose attends and reports; Nagumo arrives with the rumor.
 [says:nagumo-miyabi] (p.78) “Ichinose, if you have anything to report, let's hear it.” — Nagumo to Ichinose.
 [says] (p.78) “Yes. It seems that it has been decided that all classes will participate in the rehearsal the day before the festival.” — Ichinose.
-[says:kiriyama-ikuto] (p.78–79) “It was decided in almost half a day? It seems that the student council president's decision was correct. However, if the decision was made by the student council, I wish you would have informed us a little earlier.” — Kiriyama-senpai, the vice president.
+[says:kiriyama-ikuto] (p.78–79) “It was decided in almost half a day? It seems that the student council president's decision was correct. However, if the decision was made by the student …  council, I wish you would have informed us a little earlier.” — Kiriyama-senpai, the vice president.
 [says] (p.79) “What? What do you mean?” — Ichinose asked back.
 [says] (p.80) “Suspended...?” — Ichinose was surprised by this unexpected proposal.
 [note] (p.79–80) The student council will be suspended for a while; the next meeting will be held after the festival.

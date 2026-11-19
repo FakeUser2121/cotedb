@@ -726,7 +726,7 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [says:ayanokouji-kiyotaka] (p.135) “No matter. I know what you're thinking when you're standing by Haruka's side.” — Ayanokōji.
 [says:ayanokouji-kiyotaka] (p.135) “Let's not worry about that, let's get you to answer my question.” — Ayanokōji.
 [says:ayanokouji-kiyotaka] (p.135) “What are you doing here? The maid café is more successful than you can imagine, and we are short of maids.” — Ayanokōji.
-[says:hasebe-haruka] (p.135–136) “Hmmm… well, maybe things would have been a little different if Airi had been there. I would have been there too, so you wouldn't have been short two people.” — Haruka.
+[says:hasebe-haruka] (p.135–136) “Hmmm… well, maybe things would have been a little different if Airi had …  been there. I would have been there too, so you wouldn't have been short two people.” — Haruka.
 [says:ayanokouji-kiyotaka] (p.136) “In that case, Kushida wouldn't be here, and it would've been a much more dire situation.” — Ayanokōji.
 [says:hasebe-haruka] (p.136) “You responded to sarcasm with sarcasm.” — Haruka.
 [says:ayanokouji-kiyotaka] (p.136) “I'm just stating the facts.” — Ayanokōji.
@@ -778,7 +778,7 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [note] (p.141) Haruka's gaze fell to the cardboard box at her feet; Haruka crouched down and looked at the slip attached to the cardboard; there was his name on it as the recipient and the name of the online store as the sender; he himself did not know about this until he received and searched it.
 [note] (p.141) Inside was a maid's uniform.
 [says:hasebe-haruka] (p.141) “This is...” — Haruka must have known what it meant.
-[says:hasebe-haruka] (p.141) “I was supposed to wear it... Airi and I were supposed to wear it together... Why...?” — Haruka.
+[says:hasebe-haruka] (p.141) “I was supposed to …  wear it... Airi and I were supposed to wear it together... Why...?” — Haruka.
 [says:ayanokouji-kiyotaka] (p.141–142) “She realized that there was a possibility that you would stop and not participate in the festival. That's why this was supposed to be delivered to you, to prevent that from happening, wasn't it?” — Ayanokōji.
 [says:hasebe-haruka] (p.142) “A-ai...” — Haruka muttered looking down at the uniform.
 [says:ayanokouji-kiyotaka] (p.142) “At least I can sense Airi's strong feelings from this message. It doesn't seem like she's just sad. How about you, Haruka?” — Ayanokōji.
@@ -798,8 +798,8 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [note] (p.144) If it had been delivered directly to Haruka, and if she had received the gift honestly, then, he would never have had the chance to make contact with her.
 [says:hasebe-haruka] (p.144) “No, absolutely not!” — Haruka; she grabbed Akito by the chest.
 [says:hasebe-haruka] (p.144) “Don't take things as you will! Don't try to make things convenient and forgive Kiyopon!” — Haruka.
-[says] (p.144) “That's not what I meant...” — Akito.
-[says:hasebe-haruka] (p.144–145) “Even if that were the case, she was deprived of her precious place in the world! That's not going to change that fact! I won't accept a friendship based on sacrifice!” — Haruka.
+[says] (p.144) “That's not what I …  meant...” — Akito.
+[says:hasebe-haruka] (p.144–145) “Even if that were the case, she was deprived of her precious place in the world! That's not going to change that fact! I won't accept a friendship based on …  sacrifice!” — Haruka.
 [says:hasebe-haruka] (p.145) “I know. So, I'm leaving school to find out. I'm going to be there for that girl!” — Haruka; as soon as she completed her revenge against the class, she would go to see Airi herself.
 [says:ayanokouji-kiyotaka] (p.145) “You're being too loud. Even here, if you're not subtle, you'll receive a lot of attention, won't you?” — Ayanokōji.
 [note] (p.145) Kushida was a character he never thought he'd see here; dressed as a maid, which was out of place in this tense atmosphere, she slowly approached.
@@ -813,10 +813,10 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [says:kushida-kikyou] (p.146) “If you want to leave the school, do whatever you want.” — Kushida.
 [says:hasebe-haruka] (p.146) “Kushida-san you said yourself that the only way left for you was to graduate in class A. That's the only reason why you keep putting up with an uncomfortable class that you don't get along with. So, I'm going to take that away from you.” — Haruka.
 [says:kushida-kikyou] (p.146) “Maybe your revenge against me will work. But is that what's important? I don't think Sakura-san would want that.” — Kushida.
-[says:hasebe-haruka] (p.146) “Don't say the same thing as Kiyopon. What do any of you know about Airi?” — Haruka.
+[says:hasebe-haruka] (p.146) “Don't say the same thing as Kiyopon. What do any of you know about …  Airi?” — Haruka.
 [says:kushida-kikyou] (p.146–147) “I don't know, but I do know that she's a lot less shy than you think.” — Kushida.
 [says:hasebe-haruka] (p.147) “What?” — Haruka.
-[says:hasebe-haruka] (p.147) “Sakura-san was weak. That's why she was expelled.” — Haruka.
+[says:hasebe-haruka] (p.147) “Sakura-san w … as weak. That's why she was expelled.” — Haruka.
 [says:kushida-kikyou] (p.147) “How can you say that? It's the same with you, you were greatly embarrassed and lost.” — Kushida.
 [says:hasebe-haruka] (p.147) “It's true that I lost too. I admit that I was weak. But it is also true that Sakura-san was the same. No, she was weaker than me, and that's why she was expelled.” — Haruka.
 [note] (p.147) In fact, Horikita decided that Kushida would be a better and more useful ally than Airi; and at the festival, she lived up to those expectations.
@@ -824,7 +824,7 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [says:kushida-kikyou] (p.147) “Wanted to protect her? You're being very high and mighty, aren't you? So, I'm not the only one who thinks she'll always be weak.” — Kushida.
 [says:hasebe-haruka] (p.147) “You've got to be kidding me.” — Haruka.
 [says:kushida-kikyou] (p.147) “I'm not kidding.” — Kushida.
-[says:kushida-kikyou] (p.147–148) “Ayanokōji-kun, can you take a look at this?” — Kushida; she took her eyes off Haruka and turned them to him.
+[says:kushida-kikyou] (p.147–148) “Ayanokōji-kun … , can you take a look at this?” — Kushida; she took her eyes off Haruka and turned them to him.
 [note] (p.148) Whoever the subject was, if there was an opportunity available to Kushida, it was covered; it took an extraordinary amount of mental strength to keep it up for a long period of time.
 [note] (p.148) “I thought maybe there was a use for the secret she had after she left school. Then I found it.” — Kushida took out her cell phone and showed him a screen; he took the phone and scrolled through the details.
 [says:kushida-kikyou] (p.148) “I was wondering if Ayanokouji-kun might be aware of this fact.” — Kushida.
@@ -870,7 +870,7 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 [note] (p.147–148) “What a fool I was,” she thought — her silent self-verdict.
 [says:hasebe-haruka] (p.148) “This is new knowledge for me. I thought that those who were expelled, those who were defeated, had ended everything there.” — Haruka.
 [note] (p.148) She assumed that the package she was sent was the last remnant of her life; but it wasn't; the loser returned; some people start anew from where they lost.
-[says:ayanokouji-kiyotaka] (p.148) “That girl could be a big shot in the future. And yet you're going to voluntarily leave school going after Airi? Not only will Airi laugh at you, she might not even take you seriously.” — Ayanokōji.
+[says:ayanokouji-kiyotaka] (p.148) “That girl could be a big shot in the future. And yet you're going to …  voluntarily leave school going after Airi? Not only will Airi laugh at you, she might not even take you seriously.” — Ayanokōji.
 [note] (p.148–149) It wasn't hard to imagine what would happen if Haruka were to quit school to seek revenge and meet with Airi; instead of being greeted with a smile, she would be seriously offended.
 [says:hasebe-haruka] (p.149) “I-I-I don't know what to do...!” — Haruka.
 [says:ayanokouji-kiyotaka] (p.149) “There's only one answer: be yourself enough to meet Airi with dignity. If you graduated from Class A, that's a different story. You need to get through those three years and be someone who isn't ashamed to stand in front of Airi.” — Ayanokōji.

@@ -1136,7 +1136,7 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 [says] (p.119) “Shisase!” — the way she handed the leaflets; it reminded him of the lethargic adults at the Keyaki Mall handing out tissues.
 [says:ayanokouji-kiyotaka] (p.119) “Can I have one?” — Ayanokōji.
 [says] (p.119) “Shassu.” — Ibuki.
-[note] (p.119) She offered him a small thank-you and a leaflet; as he took it, her eyes locked onto him.
+[note] (p.119) She offered him a small thanks and a leaflet; as he took it, her eyes locked onto him.
 [says] (p.119–120) “Geez.” — Ibuki.
 [says:ayanokouji-kiyotaka] (p.120) “You've been handing out flyers in a place like this, Ibuki?” — Ayanokōji.
 [says] (p.120) “Go away.” — Ibuki with a disgusted expression on her face.

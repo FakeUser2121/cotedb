@@ -2438,7 +2438,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [mentioned] (p.153) “to the students in Ryūen's class.” — the Japanese concept café's line is full too; “This one is just as busy as the other one.” — Ayanokōji's observation.
 [mentioned] (p.187) “But Ryūen's place is also in second place, and Sakayanagi's class is in fourth place, which is quintessential.” — the final placement.
 [mentioned] (p.187) “assumed from the beginning that Ryūen's class would also be in the top position.” — the intuition confirmed.
-[mentioned] (p.190) “It's not that I, Ryūen, and Katsuragi couldn't have forced the issue by ourselves.” — Ayanokōji's line; the trio's alliance.
+[mentioned] (p.190) “It's not that I, Ryūen, and Katsuragi couldn't have forced the issue by …  ourselves.” — Ayanokōji's line; the trio's alliance.
 [mentioned] (p.199) “Even so, I didn't think you were cooperating with Ryūen's class under the guise of being hostile to them.” — Chabashira's line.
 [mentioned] (p.202) “Class C led by Ryūen: 740” — the final class points of the November festival.
 
@@ -2476,7 +2476,7 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 [says:nagumo-miyabi] (p.176) “It was just yesterday. We were going to have a discussion today, just me, Ryūen, and Komiya and Kinoshita. Why are the teachers here?” — Nagumo.
 [says:nagumo-miyabi] (p.176) “I called them here to save you the trouble. I heard that Sakagami rushed over when the two of you were injured.” — Nagumo.
 [says:nagumo-miyabi] (p.176–177) “Speaking of Yagami-kun, I'm sure Mashima-sensei recalls as well.” — Nagumo.
-[says:mashima-tomonari] (p.177) “Yes, I don't want to do anything to suspect the students, but I can't deny the possibility.” — Mashima-sensei.
+[says:mashima-tomonari] (p.177) “Yes, I don't want to do anything to suspect the students, but I can't deny the …  possibility.” — Mashima-sensei.
 [says:yagami-takuya] (p.177) “Hey, what are you saying? I didn't do anything!” — Yagami.
 [says] (p.177) “Yagami. I know that the GPS on your watch was not functioning when the two alerts went off that day. There were several students whose watches were broken during the special exam, but only two, including you, were able to contact Komiya and the others from the point where you last disappeared. Of course, at the time, Komiya, Kinoshita, and Shinohara could only say that someone had injured them, but they could not give their names. Therefore, we had no choice but to treat it as an accident…” — Ryūen.
 [says:yagami-takuya] (p.177) “He couldn't remember, but later he remembered and gave my name? That's impossible! It's obvious that the two of them must have talked past each other to come up with my name!” — Yagami.

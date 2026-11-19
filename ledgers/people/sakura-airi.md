@@ -1237,7 +1237,7 @@ aliases used for anchors: sakura, airi, sakura-san
 
 
 <!-- walk: y2v7 Ch.4 → p.106 -->
-### y2v7 p.131, 133, 191, 193 — The Airi-thread's footnotes in his ledger
+### y2v7 p.131, 133, 191, 193 — The Airi-thread's footnotes in his person record
 [mentioned] (p.131) “What Airi Left Behind” — the chapter title itself.
 [mentioned] (p.133) “You mean payback for Sakura-san's expulsion? You participated in the preliminary discussion, right?” — Kushida to Ayanokōji; Airi's expulsion is invoked.
 [note] (p.133) “Haruka and Airi were looking forward to the cultural festival. That's why they were going to see it through until the end.” — Ayanokōji's read of the pair.

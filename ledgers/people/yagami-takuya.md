@@ -238,7 +238,7 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 [scene] (p.78) §2 — the student council room; Horikita arrives with the letter; the members are already there except for Student Council President Nagumo; Yagami-kun, a first-year; Aga-kun, also a first-year; Kiriyama-senpai, the third-year vice president; Yagami was sitting down chatting with Ichinose-san.
 [says:nagumo-miyabi] (p.78) “The meeting will begin immediately. Take your seats.” — Nagumo appears; his voice as dark and heavy as he appeared; the air tenses instantly; Horikita puts her hand back on her bag.
 [says:ichinose-honami] (p.78) “Yes. It seems that it has been decided that all classes will participate in the rehearsal the day before the festival.” — Ichinose reports.
-[says:kiriyama-ikuto] (p.78–79) “It was decided in almost half a day? It seems that the student council president's decision was correct. However, if the decision was made by the student council, I wish you would have informed us a little earlier.” — Kiriyama-senpai, the vice president, made a thorny remark.
+[says:kiriyama-ikuto] (p.78–79) “It was decided in almost half a day? It seems that the student council president's decision was correct. However, if the decision was made by the student …  council, I wish you would have informed us a little earlier.” — Kiriyama-senpai, the vice president, made a thorny remark.
 [says:nagumo-miyabi] (p.79) “It's just an idea. I thought starting a little earlier would make the juniors happy.” — Nagumo replied without any particular apology.
 [note] (p.79) "There was a guy, Kishi, who said that I was betting a lot of money to get certain students expelled from school." — Nagumo's announcement; unproven.
 [note] (p.80) "The student council will be suspended for a while." — Nagumo; the council used to meet like this once a week; "It was unusual to suspend them during the regular school year."
@@ -288,7 +288,7 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 [says] (p.83) “Oh, really? I understand.” — Yagami.
 [says:horikita-suzune] (p.83) “Well then, I'm sorry, but I need you to take care of my letter to the student council president.” — Horikita.
 [says] (p.83) “Yes, senpai. Thank you for your hard work, Horikita-senpai.” — Yagami.
-[note] (p.83) "It was as if he was challenging me with a question, 'Did you notice?'... Otherwise, he wouldn't have taken the trouble to open the notebook and show me the handwriting." — Horikita's read.
+[note] (p.83) "It was as if he was challenging me with a question, 'Did you notice … ?'... Otherwise, he wouldn't have taken the trouble to open the notebook and show me the handwriting." — Horikita's read.
 [note] (p.83) "Even so, the handwriting was similar enough to make me certain of the reason for the resemblance. If I assume that he was the person who wrote me that letter... Then that person had been standing by my side for a long time while behaving in a nonchalant manner." — Horikita's poetic close.
 [rel:nagumo-miyabi] (p.78–83) The student council president — the Kishi rumor suspended the council; Horikita-kun delivers the letter to him.
 [rel:horikita-suzune] (p.77–83) Horikita-senpai — the letter's reluctant courier; the handwriting recognition; she decides to watch him.
@@ -304,7 +304,7 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 [says:kushida-kikyou] (p.101) “I didn't think you would barge in on us while we were preparing for the festival.” — Kushida.
 [says] (p.101) “I wouldn't have caught you otherwise. It seemed as if you were avoiding me.” — Yagami.
 [says:kushida-kikyou] (p.101) “It's just a coincidence that we didn't meet. By the way, it seems you visited my room several times. Sorry, I was away.” — Kushida.
-[says] (p.101) “Were you really away? Or were you using the answering machine to harass me?” — Yagami.
+[says] (p.101) “Were you really away? Or were you using the answering machine to harass …  me?” — Yagami.
 [says:kushida-kikyou] (p.101–102) “Staying away? Why would I do that? There seems to be some kind of misunderstanding.” — Kushida.
 [says] (p.102) “There's no misunderstanding.” — Yagami.
 [says:kushida-kikyou] (p.102) “You cut me off because I was useless. That's all, isn't it?” — Kushida.
@@ -453,9 +453,9 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 [note] (p.170) What was with Yagami-kun's calm demeanor, as if he had known that the student council president was coming?
 [says:nagumo-miyabi] (p.170) “Then, let's ask you to explain why you're here without permission.” — Nagumo.
 [note] (p.170) If she said she lost her notebook, Yagami-kun might've pointed out that she was lying; on the other hand, if she brought up the subject of the notes, the story would spread to Student Council President Nagumo.
-[says] (p.170) “Horikita-senpai seemed to have lost her notebook, and I was going to help her find it… Ibuki-senpai seemed to have mistakenly thought that I was attacking Horikita-senpai and acted like she did for no apparent reason.” — Yagami-kun replied, not trying to corner her, but to defend her lie.
+[says] (p.170) “Horikita-senpai s … eemed to have lost her notebook, and I was going to help her find it… Ibuki-senpai seemed to have mistakenly thought that I was attacking Horikita-senpai and acted like she did for no apparent reason.” — Yagami-kun replied, not trying to corner her, but to defend her lie.
 [says:nagumo-miyabi] (p.170) “I see, so that's the reason for the restraint.” — Nagumo.
-[says:nagumo-miyabi] (p.170) “I think the misunderstanding has been cleared up, and I don't particularly intend to make an issue of it.” — Nagumo.
+[says:nagumo-miyabi] (p.170) “I think the misunderstanding has been cleared up, and I don't particularly …  intend to make an issue of it.” — Nagumo.
 [says:nagumo-miyabi] (p.170) “Then there's no need for further mention. So, did you find the notebook?” — Nagumo.
 [says:horikita-suzune] (p.170) “No, I did not find it. This was the last place I placed it. Maybe I mistook it for trash and threw it away. I'll just give up.” — Horikita.
 [note] (p.170) Although he could check himself, he probably didn't care about the whereabouts of the notebook; the student body president looked away from her, as if he wasn't interested, and then sat down in his usual seat.
@@ -465,11 +465,11 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 [says] (p.170) “By the way, Student Council President Nagumo, how did you know we were here?” — Yagami-kun asked such a question beside her and Ibuki-san.
 [says:nagumo-miyabi] (p.171) “Are you curious?” — Nagumo.
 [note] (p.170) It was certainly unnatural; she didn't know if the student body president had a spare key or not, but he should have tried to open the door by inserting the key at least once; it was understandable to be suspicious that he entered the room so naturally without question; it was as if he knew from the beginning that something was going on… like he knew.
-[says:nagumo-miyabi] (p.171) “The door to the student council room was supposed to be locked. But the student council president didn't hesitate to enter the room, so I was a little concerned.” — printed (Yagami's remark to Nagumo); flagged untagged.
+[says:nagumo-miyabi] (p.171) “The door to the student council room w … as supposed to be locked. But the student council president didn't hesitate to enter the room, so I was a little concerned.” — printed (Yagami's remark to Nagumo); flagged untagged.
 [note] (p.170) Were Student Council President Nagumo and Yagami-kun planning to meet up here? If so, then Yagami-kun's prediction that the student body president would come would make sense. But, the exchange between the two was far from indicative.
 [says:nagumo-miyabi] (p.171) “I'd be happy to answer you, but before I do, I wanted to ask Yagami-kun something too.” — Nagumo.
 [says] (p.171) “Me?” — Yagami.
-[says:nagumo-miyabi] (p.171) “You remember the matter we talked about in the student council room the other day, don't you? I told you that there's a rumor that I'm trying to expel some students with a lot of money.” — Nagumo.
+[says:nagumo-miyabi] (p.171) “You remember the …  matter we talked about in the student council room the other day, don't you? I told you that there's a rumor that I'm trying to expel some students with a lot of money.” — Nagumo.
 [says] (p.171) “Of course. I've been doing some digging on my end, but I haven't been able to find out where the rumors are coming from.” — Yagami.
 [note] (p.171) She couldn't keep up with the sudden rehash of the story.
 [says:nagumo-miyabi] (p.170) “But you know, don't you? Where the rumors are coming from.” — Nagumo kicked the underside of the desk lightly in frustration.
@@ -493,9 +493,9 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 [note] (p.172) Student Council President Nagumo was facing Yagami-kun, but changed his gaze to them.
 [says:nagumo-miyabi] (p.172) “You guys go back now. I'll talk to Yagami from here.” — Nagumo.
 [says:horikita-suzune] (p.172) “I did not know about that matter, but please allow me to speak.” — Horikita.
-[says] (p.172) “Horikita-senpai, what are you going to say?” — Yagami-kun attempted to restrain her with his eyes; ‘I covered for you earlier, return the favor’ he seemed to be saying; she had to ignore such a gaze.
+[says] (p.172) “Horikita-senpai … , what are you going to say?” — Yagami-kun attempted to restrain her with his eyes; “I covered for you earlier, return the favor” he seemed to be saying; she had to ignore such a gaze.
 [says:nagumo-miyabi] (p.172) “Tell me.” — Nagumo.
-[says:horikita-suzune] (p.172) “I don't know if he was the one who spread the rumor about that special exam. But I don't think it's a coincidence that he showed up here; Yagami-kun was following me. Or I now strongly feel that he has been watching around this student council room from the beginning.” — Horikita.
+[says:horikita-suzune] (p.172) “I don't know if he was the one who spread the rumor about that special exam. But I don't think it's a coincidence that he showed up here; Yagami-kun was …  following me. Or I now strongly feel that he has been watching around this student council room from the beginning.” — Horikita.
 [says:nagumo-miyabi] (p.172) “You think so, Suzune? Is this true, Yagami?” — Nagumo.
 [scene] (p.172) Yagami-kun's expression hardened as he was caught between the two sides, but then he exhaled in irritation.
 [says] (p.172) “I understand. You two were working together from the beginning, weren't you? From the moment you handed me that letter disguised as a love letter, you decided to force me into a corner here, didn't you?” — Yagami.
@@ -512,8 +512,8 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 [note] (p.173) “[I want you to forgive me for confessing without telling you my name. I have always loved you.]” — the letter's full text.
 [says] (p.173) “Please stop playing games. If you analyze the anagrams, you will find the truth.” — Yagami-kun; Yagami-kun was just as highly wary of them as they were of his growing skepticism.
 [says:horikita-suzune] (p.173) “What's an anagram?” — Horikita; unlike Ibuki-san, she didn't understand the meaning of the word itself.
-[note] (p.173) An anagram is a rearrangement of letters to change their meanings; a play on words; even if you try to find the answer repeatedly, you won't find it right away; maybe you could find it with time, but it's not possible to instantly recognize it.
-[says:nagumo-miyabi] (p.173) “You are very clever, Yagami. Apparently neither Suzune nor I can analyze anagrams right away, right?” — Nagumo.
+[note] (p.173) An anagram is a rearrangement of letters to change their meanings; a play on words; even if one tries to find the answer repeatedly, one won't find it right away; maybe one could find it with time, but it's not possible to instantly recognize it.
+[says:nagumo-miyabi] (p.173) “You are very clever, Yagami. Apparently neither Suzune nor I can analyze …  anagrams right away, right?” — Nagumo.
 [says:nagumo-miyabi] (p.173) “Could it have been written by one of you two? Or was it someone you know in common?” — Nagumo.
 [says] (p.173) “Common acquaintance? Who the hell are you talking about?” — Yagami.
 [says] (p.173) “I don't know that. But you can trust that I followed the anagram to this place.” — Yagami.
@@ -538,7 +538,7 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 [says:horikita-suzune] (p.174) “Wait. I really don't know what you are talking about. I suspected that you came to my tent and put the letter in there, but I only talked to Ibuki-san about it.” — Horikita.
 [note] (p.174) Even when she told him the truth, Yagami-kun did not seem to believe her.
 [says:nagumo-miyabi] (p.174) “Explain it to me so I can understand, Yagami.” — Nagumo.
-[says] (p.175) “Fuu~ I'm getting tired of your quicksand, Student Council President Nagumo. You were going to meet up with Ayanokōji-senpai here along with Horikita-senpai through the letter. And he was going to talk to me. He must have thought it was dangerous to meet with me alone. Yeah, it was a wise decision.” — Yagami.
+[says] (p.175) “Fuu~ I'm getting tired of your quicksand, Student Council President Nagumo. You were going to meet up with Ayanokōji-senpai here along with Horikita-senpai through the letter. And he was going to talk to me. He must have …  thought it was dangerous to meet with me alone. Yeah, it was a wise decision.” — Yagami.
 [note] (p.175) Nagumo pulled out his cell phone and turned the screen toward them; a phone number was displayed, as if there was an incoming call from someone.
 [says:nagumo-miyabi] (p.175) “Looks like you've arrived. Come in.” — Nagumo; the other end of the phone hung up.
 [says] (p.175) “Ha-ha-ha! I knew Ayanokōji-senpai was here! I'm so happy!” — Yagami-kun; Yagami-kun laughed loudly and opened his arms to welcome the slowly opening door.
@@ -573,7 +573,7 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 [says:nagumo-miyabi] (p.176) “It was just yesterday. We were going to have a discussion today, just me, Ryūen, and Komiya and Kinoshita. Why are the teachers here?” — Nagumo.
 [says:nagumo-miyabi] (p.176) “I called them here to save you the trouble. I heard that Sakagami rushed over when the two of you were injured.” — Nagumo.
 [says:nagumo-miyabi] (p.176–177) “Speaking of Yagami-kun, I'm sure Mashima-sensei recalls as well.” — Nagumo.
-[says:mashima-tomonari] (p.177) “Yes, I don't want to do anything to suspect the students, but I can't deny the possibility.” — Mashima-sensei.
+[says:mashima-tomonari] (p.177) “Yes, I don't want to do anything to suspect the students, but I can't deny the …  possibility.” — Mashima-sensei.
 [says] (p.177) “Hey, what are you saying? I didn't do anything!” — Yagami.
 [note] (p.177) No wonder he was so flustered.
 [says:ryuuen-kakeru] (p.177) “Yagami. I know that the GPS on your watch was not functioning when the two alerts went off that day. There were several students whose watches were broken during the special exam, but only two, including you, were able to contact Komiya and the others from the point where you last disappeared. Of course, at the time, Komiya, Kinoshita, and Shinohara could only say that someone had injured them, but they could not give their names. Therefore, we had no choice but to treat it as an accident…” — Ryūen.
@@ -665,7 +665,7 @@ char_id: yagami-takuya · class: Class 1-D · status: unknown
 ### y2v7 p.192 — The letter call explained
 [mentioned] (p.192) “It seems to be a love letter to Student Council President Nagumo, but as Yagami complained, it had a somewhat complicated anagram in it. If someone deciphers it, they arrive at the sentence, ‘I have an important meeting in the student council room after 3:00 p.m.’” — Ayanokōji's account to Nagumo; Yagami's name appears.
 [mentioned] (p.192) “The envelope used for the letter and the stickers that held it together were made available to anyone at any time at the Keyaki Mall.” — same explanation; anything ordinary, except the handwriting.
-[note] (p.192–193) “The love letter prepared in this way was passed to Horikita through another girl using Kei.” — Ayanokōji's recount of the letter's relay; he arranged the whole thing.
+[note] (p.192) “The love letter prepared in this way was” closes the page mid-sentence; the relay to Horikita through another girl using Kei is printed on p.193, including his planning of the whole thing. Two verbatim page-boundary fragments kept as printed.
 ### y2v7 p.195 — The trap on Satō names him
 [mentioned] (p.195) “Then, you most likely told Satō that it was Yagami who was behind the threats, not you.” — Ayanokōji to Tsubaki; Tsubaki framed Yagami as the phantom stalker.
 [mentioned] (p.195) “Yagami-kun is a bad guy, isn't he?” — Tsubaki's bait question; Ayanokōji declined the theatrics.

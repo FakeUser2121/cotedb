@@ -4717,7 +4717,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says:chabashira-sae] (p.10) “If the sales are equal, they are treated as the same rank. If all 12 classes make equal sales, as Horikita says, then all classes get 100 class points as first place.” — Chabashira's answer.
 [number] (p.11) Second-semester midterm: 2nd place, 3 points behind Keisei (Keisei took first place with a perfect score in all subjects); her class had no surprise for Chabashira-sensei.
 [trait] (p.13–16) She leads the maid café planning — she is the public face while Ayanokōji works the details; she gives Haruka and Akito a general role instead of exclusion; she refuses to punish them in advance.
-[says] (p.14) “There's very little we can do in advance… Preaching to them to stop taking revenge will only get on their nerves.” — Horikita, looking off into the distance.
+[says] (p.14) “There's very little we can do in advance … … Preaching to them to stop taking revenge will only get on their nerves.” — Horikita, looking off into the distance.
 [says] (p.14) “If she's really looking for an opportunity for revenge, she certainly won't put it off for months.” — the same run; adjacent narration tags it as Horikita's.
 [says] (p.14) “I've heard from Ayanokōji-kun that Hasebe-san has no intention of working as a maid. So, I gave her and Miyake-kun a general role while letting them know what was going on. If we withhold information or exclude her from the group, it would be a blatant statement that we are suspicious of her.” — Horikita.
 [note] (p.14) “That may be so. But it's also true that, so far, I haven't seen any problematic behavior. She's even participated in the meetings for the festival.” — printed untagged (Horikita or Ayanokōji); flagged.
@@ -4803,7 +4803,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says] (p.73) “That was just foolhardy. I didn't see anything around me back then.” — Horikita; she's starting to broaden her horizons.
 [says] (p.74) “As a class leader, it's not a bad thing to be prepared for both winning and losing patterns. I'm just one of the pawns. I'm just making irresponsible statements.” — Horikita.
 [says] (p.74) “I know, but... Sometimes.” — Horikita.
-[says] (p.74) “What are you doing?” — Horikita, as Ayanokōji pats her on the back with the palm of his hand.
+[says] (p.74) “What are you …  doing?” — Horikita, as Ayanokōji pats her on the back with the palm of his hand.
 [says] (p.74) “I'm not going to...” — Horikita.
 [says] (p.74) “It was a conceited notion, not the result of anything I've done well myself.” — Horikita.
 [says] (p.74) “You mean…?” — Horikita.
@@ -4862,7 +4862,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says:nagumo-miyabi] (p.78) “The meeting will begin immediately. Take your seats.” — Nagumo appears; his voice as dark and heavy as he appeared; the air tenses instantly.
 [says:nagumo-miyabi] (p.78) “Ichinose, if you have anything to report, let's hear it.” — Nagumo to Ichinose.
 [says:ichinose-honami] (p.78) “Yes. It seems that it has been decided that all classes will participate in the rehearsal the day before the festival.” — Ichinose.
-[says:kiriyama-ikuto] (p.78–79) “It was decided in almost half a day? It seems that the student council president's decision was correct. However, if the decision was made by the student council, I wish you would have informed us a little earlier.” — Kiriyama-senpai, the vice president, made a thorny remark.
+[says:kiriyama-ikuto] (p.78–79) “It was decided in almost half a day? It seems that the student council president's decision was correct. However, if the decision was made by the student …  council, I wish you would have informed us a little earlier.” — Kiriyama-senpai, the vice president, made a thorny remark.
 [says:nagumo-miyabi] (p.79) “It's just an idea. I thought starting a little earlier would make the juniors happy.” — Nagumo replied without any particular apology.
 [note] (p.79) “Such a scene from the student council meeting was becoming a regular occurrence.” — student-council things started with an idea from Nagumo; sometimes born from a comment during the meeting; other times created without the council's knowledge.
 [note] (p.79) Then there was a sudden silence; Nagumo had his arms crossed and his eyes closed — "It was obvious that he was holding back his anger."
@@ -5002,7 +5002,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 ### y2v7 p.110–113 — The morning; the café opens; the missing pair debate
 [scene] (p.110) 9:00 a.m. arrives at the maid café; an announcement was made to all students at once; guests stepped through the main gate; the festival was declared open.
 [scene] (p.110–111) The final check — only two students missing; Horikita and Ayanokōji look at each other; the classroom is bursting with the rehearsal's momentum.
-[says] (p.111) “Hasebe-san and Miyake-kun seem to be missing.” — Horikita.
+[says] (p.111) “Hasebe-san and Miyake-kun …  seem to be missing.” — Horikita.
 [says:ayanokouji-kiyotaka] (p.111) “I guess it's not like they're in the restroom.” — Ayanokōji.
 [says] (p.111) “I knew there was something going on at this festival, but ……” — Horikita.
 [says:ayanokouji-kiyotaka] (p.111) “If it's just simply slacking off, I guess I'm rather grateful.” — Ayanokōji.
@@ -5213,9 +5213,9 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (p.170) What was with Yagami-kun's calm demeanor, as if he had known that the student council president was coming?
 [says:nagumo-miyabi] (p.170) “Then, let's ask you to explain why you're here without permission.” — Nagumo.
 [note] (p.170) If she said she lost her notebook, Yagami-kun might've pointed out that she was lying; on the other hand, if she brought up the subject of the notes, the story would spread to Student Council President Nagumo.
-[says:yagami-takuya] (p.170) “Horikita-senpai seemed to have lost her notebook, and I was going to help her find it… Ibuki-senpai seemed to have mistakenly thought that I was attacking Horikita-senpai and acted like she did for no apparent reason.” — Yagami-kun replied, not trying to corner her, but to defend her lie.
+[says:yagami-takuya] (p.170) “Horikita-senpai s … eemed to have lost her notebook, and I was going to help her find it… Ibuki-senpai seemed to have mistakenly thought that I was attacking Horikita-senpai and acted like she did for no apparent reason.” — Yagami-kun replied, not trying to corner her, but to defend her lie.
 [says:nagumo-miyabi] (p.170) “I see, so that's the reason for the restraint.” — Nagumo.
-[says:nagumo-miyabi] (p.170) “I think the misunderstanding has been cleared up, and I don't particularly intend to make an issue of it.” — Nagumo.
+[says:nagumo-miyabi] (p.170) “I think the misunderstanding has been cleared up, and I don't particularly …  intend to make an issue of it.” — Nagumo.
 [says:nagumo-miyabi] (p.170) “Then there's no need for further mention. So, did you find the notebook?” — Nagumo.
 [says] (p.170) “No, I did not find it. This was the last place I placed it. Maybe I mistook it for trash and threw it away. I'll just give up.” — Horikita.
 [note] (p.170) Although he could check himself, he probably didn't care about the whereabouts of the notebook; the student body president looked away from her, as if he wasn't interested, and then sat down in his usual seat.
@@ -5228,7 +5228,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [narrates] (p.170) “Were Student Council President Nagumo and Yagami-kun planning to meet up here? If so, then Yagami-kun's prediction that the student body president would come would make sense. But, the exchange between the two was far from indicative.” — Horikita's internal query.
 [says:nagumo-miyabi] (p.171) “I'd be happy to answer you, but before I do, I wanted to ask Yagami-kun something too.” — Nagumo.
 [says:yagami-takuya] (p.171) “Me?” — Yagami.
-[says:nagumo-miyabi] (p.171) “You remember the matter we talked about in the student council room the other day, don't you? I told you that there's a rumor that I'm trying to expel some students with a lot of money.” — Nagumo.
+[says:nagumo-miyabi] (p.171) “You remember the …  matter we talked about in the student council room the other day, don't you? I told you that there's a rumor that I'm trying to expel some students with a lot of money.” — Nagumo.
 [says:yagami-takuya] (p.171) “Of course. I've been doing some digging on my end, but I haven't been able to find out where the rumors are coming from.” — Yagami.
 [note] (p.171) She couldn't keep up with the sudden rehash of the story.
 [says:nagumo-miyabi] (p.170) “But you know, don't you? Where the rumors are coming from.” — Nagumo kicked the underside of the desk lightly in frustration.
@@ -5255,9 +5255,9 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (p.172) Student Council President Nagumo was facing Yagami-kun, but changed his gaze to them.
 [says:nagumo-miyabi] (p.172) “You guys go back now. I'll talk to Yagami from here.” — Nagumo.
 [says] (p.172) “I did not know about that matter, but please allow me to speak.” — Horikita.
-[says:yagami-takuya] (p.172) “Horikita-senpai, what are you going to say?” — Yagami-kun attempted to restrain her with his eyes; ‘I covered for you earlier, return the favor’ he seemed to be saying; she had to ignore such a gaze.
+[says:yagami-takuya] (p.172) “Horikita-senpai … , what are you going to say?” — Yagami-kun attempted to restrain her with his eyes; “I covered for you earlier, return the favor” he seemed to be saying; she had to ignore such a gaze.
 [says:nagumo-miyabi] (p.172) “Tell me.” — Nagumo.
-[says] (p.172) “I don't know if he was the one who spread the rumor about that special exam. But I don't think it's a coincidence that he showed up here; Yagami-kun was following me. Or I now strongly feel that he has been watching around this student council room from the beginning.” — Horikita.
+[says] (p.172) “I don't know if he was the one who spread the rumor about that special exam. But I don't think it's a coincidence that he showed up here; Yagami-kun was …  following me. Or I now strongly feel that he has been watching around this student council room from the beginning.” — Horikita.
 [says:nagumo-miyabi] (p.172) “You think so, Suzune? Is this true, Yagami?” — Nagumo.
 ### y2v7 p.172–174 — The anagram; the letter; "Ayanokōji-senpai, who created the anagram"
 [scene] (p.172) Yagami-kun's expression hardened as he was caught between the two sides, but then he exhaled in irritation.
@@ -5275,8 +5275,8 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (p.173) “[I want you to forgive me for confessing without telling you my name. I have always loved you.]” — the letter's full text.
 [says:yagami-takuya] (p.173) “Please stop playing games. If you analyze the anagrams, you will find the truth.” — Yagami-kun; Yagami-kun was just as highly wary of them as they were of his growing skepticism.
 [says] (p.173) “What's an anagram?” — Horikita; unlike Ibuki-san, she didn't understand the meaning of the word itself.
-[note] (p.173) An anagram is a rearrangement of letters to change their meanings; a play on words; even if you try to find the answer repeatedly, you won't find it right away; maybe you could find it with time, but it's not possible to instantly recognize it.
-[says:nagumo-miyabi] (p.173) “You are very clever, Yagami. Apparently neither Suzune nor I can analyze anagrams right away, right?” — Nagumo.
+[note] (p.173) An anagram is a rearrangement of letters to change their meanings; a play on words; even if one tries to find the answer repeatedly, one won't find it right away; maybe one could find it with time, but it's not possible to instantly recognize it.
+[says:nagumo-miyabi] (p.173) “You are very clever, Yagami. Apparently neither Suzune nor I can analyze …  anagrams right away, right?” — Nagumo.
 [says:nagumo-miyabi] (p.173) “Could it have been written by one of you two? Or was it someone you know in common?” — Nagumo.
 [says:yagami-takuya] (p.173) “Common acquaintance? Who the hell are you talking about?” — Yagami.
 [says:yagami-takuya] (p.173) “I don't know that. But you can trust that I followed the anagram to this place.” — Yagami.
@@ -5304,7 +5304,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says:nagumo-miyabi] (p.174) “Explain it to me so I can understand, Yagami.” — Nagumo.
 ### y2v7 p.175 — The call; Ryūen walks in — Komiya and Kinoshita
 [scene] (p.175) “Fuu~ I'm getting tired of your quicksand,” — Yagami-kun; Nagumo pulls out his cell phone and turns the screen toward them.
-[says:yagami-takuya] (p.175) “Fuu~ I'm getting tired of your quicksand, Student Council President Nagumo. You were going to meet up with Ayanokōji-senpai here along with Horikita-senpai through the letter. And he was going to talk to me. He must have thought it was dangerous to meet with me alone. Yeah, it was a wise decision.” — Yagami.
+[says:yagami-takuya] (p.175) “Fuu~ I'm getting tired of your quicksand, Student Council President Nagumo. You were going to meet up with Ayanokōji-senpai here along with Horikita-senpai through the letter. And he was going to talk to me. He must have …  thought it was dangerous to meet with me alone. Yeah, it was a wise decision.” — Yagami.
 [note] (p.175) Nagumo pulled out his cell phone and turned the screen toward them; a phone number was displayed, as if there was an incoming call from someone.
 [says:nagumo-miyabi] (p.175) “Looks like you've arrived. Come in.” — Nagumo; the other end of the phone hung up.
 [says:yagami-takuya] (p.175) “Ha-ha-ha! I knew Ayanokōji-senpai was here! I'm so happy!” — Yagami-kun; Yagami-kun laughed loudly and opened his arms to welcome the slowly opening door.
@@ -5339,7 +5339,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [says:nagumo-miyabi] (p.176) “It was just yesterday. We were going to have a discussion today, just me, Ryūen, and Komiya and Kinoshita. Why are the teachers here?” — Nagumo; as if in response to this statement, Student Council President Nagumo also commented.
 [says:nagumo-miyabi] (p.176) “I called them here to save you the trouble. I heard that Sakagami rushed over when the two of you were injured.” — Nagumo.
 [says:nagumo-miyabi] (p.176–177) “Speaking of Yagami-kun, I'm sure Mashima-sensei recalls as well.” — Nagumo; Sakagami-sensei confirmed Mashima-sensei, as if remembering something.
-[says:mashima-tomonari] (p.177) “Yes, I don't want to do anything to suspect the students, but I can't deny the possibility.” — Mashima-sensei.
+[says:mashima-tomonari] (p.177) “Yes, I don't want to do anything to suspect the students, but I can't deny the …  possibility.” — Mashima-sensei.
 [says:yagami-takuya] (p.177) “Hey, what are you saying? I didn't do anything!” — Yagami; no wonder he was so flustered; she was not able to clear her head either.
 [says:ryuuen-kakeru] (p.177) “Yagami. I know that the GPS on your watch was not functioning when the two alerts went off that day. There were several students whose watches were broken during the special exam, but only two, including you, were able to contact Komiya and the others from the point where you last disappeared. Of course, at the time, Komiya, Kinoshita, and Shinohara could only say that someone had injured them, but they could not give their names. Therefore, we had no choice but to treat it as an accident…” — Ryūen.
 [says:yagami-takuya] (p.177) “He couldn't remember, but later he remembered and gave my name? That's impossible! It's obvious that the two of them must have talked past each other to come up with my name!” — Yagami.
@@ -5457,7 +5457,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (p.186) The class learned that this was why she chose to stay at this school.
 [says] (p.186) “You made a good decision, Hasebe-san.” — Horikita.
 [says:hasebe-haruka] (p.186) “I'm going to accept punishment for the trouble I caused.” — Haruka.
-[says:miyake-akito] (p.186) “I'm just as guilty. I didn't help with most of the festival and caused trouble for the class.” — Akito.
+[says:miyake-akito] (p.186) “I'm just as guilty. I didn't help with most of the festival and caused trouble …  for the class.” — Akito.
 [says] (p.186) “Skipping the festival is a problematic behavior, but fortunately it doesn't violate any rules. Kouenji-kun hasn't shown up once since this morning, so it's the same thing.” — Horikita.
 [note] (p.186) Horikita approached Haruka with a look of dismay and relief on her face.
 [says] (p.186) “If you are going to be punished, it will only be by remaining classmates with me. Can you face that reality?” — Horikita.
@@ -5480,7 +5480,7 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [note] (p.188) It had been a tough day, but there had been no particular occasion in which Horikita had shown any fault; since Satō and the others had absolutely nothing in mind, they tilted their heads curiously.
 [says] (p.188) “You remember how Ryūen-kun leaked the maid cafe and how it spread throughout the school, don't you?” — Horikita.
 [says] (p.188) “Yeah. That was a bit of a panic, wasn't it?” — printed untagged; flagged untagged.
-[says] (p.189) “Actually, it was already decided from the beginning that he would leak the maid café.” — Horikita; the story stemmed from his suggestion to somehow join hands in order to cooperate with each other and win the top positions at the festival.
+[says] (p.189) “Actually, it was already decided from the beginning that he would leak the …  maid café.” — Horikita; the story stemmed from his suggestion to somehow join hands in order to cooperate with each other and win the top positions at the festival.
 [says] (p.189) “What do you mean, the leak was set in stone? What do you mean?” — printed untagged; flagged untagged.
 [says] (p.189) “It was all planned. Ryūen-kun and I would work together, he would betray us and make the maid cafe's performance known.” — Horikita.
 [says] (p.189) “What? No way!” — printed untagged; flagged untagged.

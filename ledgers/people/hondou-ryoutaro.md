@@ -171,7 +171,7 @@ char_id: hondou-ryoutaro · class: Class 1-D · status: minor
 [scene] (p.118) Ayanokōji had Hondo and Tonomura take the box down to the ground and remove the duct tape; out of it came a bunch of flyers.
 [note] (p.118) The process was to have them use their feet directly and have Hondo and the others communicate the information to their classmates; in addition to the predetermined points for distributing flyers, he notified the boys who were running the stalls.
 [rel:ike-kanji] (p.112–113, 117–118) The first delivery; the flyer panic; they run the plan together.
-[rel:tonomura] (p.118) The name Tonomura — not rostered; see the volume ledger.
+[rel:tonomura] (p.118) The name Tonomura — not rostered; see the volume walk record.
 [rel:ayanokouji-kiyotaka] (p.118) The counter-flyer handoff.
 <!-- walk: y2v7 Ch.5 → p.130 -->
 

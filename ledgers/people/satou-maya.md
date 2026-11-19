@@ -586,7 +586,7 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [scene] (p.112) “Welcome!” — Satō's cheerful voice echoed in the classroom; the first guest to enter the store was a man who appeared to be in his 40s; Satō showed him to his seat and took the menu list and cold drinks to his table.
 [says] (p.112) “Let me show you to your seat.” — Satō.
 [note] (p.112) Satō's voice was cheerful, but her movements were stiff, since she wasn't entirely comfortable yet; still, thanks to the rehearsal the day before, there were no major mistakes.
-[says] (p.113) “Sato-san will show you around. “ — Satō.
+[says] (p.113) “Sato-san will show you around.” — Satō.
 [says] (p.113) “Well then, if you'll follow me....” — Satō.
 [note] (p.113) Satō immediately approached to serve the customer and began to lead him to an empty seat.
 [rel:karuizawa-kei] (p.110) She backs her firmly; their bond deepened after the hurdle.
@@ -621,7 +621,7 @@ char_id: satou-maya · class: Class 1-D (enrolled April 2015) · status: minor
 [note] (p.184) It was around 5:30 when all the customers left and all the classmates (except Kōenji) gathered at the maid café.
 [note] (p.188–190) After the festival, Horikita called some members of the group to the Class B classroom; they were the three maid cafe planners, with the exception of Matsushita, who was absent due to illness.
 [note] (p.188) The three maid cafe planners met: Satō, Mii-chan (Wang) and Maezono; Matsushita absent.
-[note] (p.189) Horikita's confession — “Actually, it was already decided from the beginning that he would leak the maid café.” — the leak was planned from day one.
+[note] (p.189) Horikita's confession — “Actually, it was already decided from the beginning that he would leak the …  maid café.” — the leak was planned from day one.
 [note] (p.189) “It was all planned. Ryūen-kun and I would work together, he would betray us and make the maid cafe's performance known.” — Horikita, to the three planners.
 [mentioned] (p.190) “It's okay. We were first in the results, hey?” — Satō happily confirmed to Mii-chan and Maezono.
 [mentioned] (p.190) “Well, you know. If you do well, I guess I don't mind so much.” — Mii-chan.

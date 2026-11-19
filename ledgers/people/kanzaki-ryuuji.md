@@ -754,7 +754,7 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [says] (p.43) “I don't know what I'm doing either.” — an uncharacteristic response.
 [says] (p.43) “I didn't have a place to vent. Maybe that's why.”
 [says] (p.43) “You're the only person I thought was capable of understanding my thoughts without talking out of turn.”
-[says] (p.43–44) “I don't care what happened between you and Ichinose or what kind of relationship you two have. The fact that you're having such a bad influence that she can't even do a satisfactory observation of the third-year Class A's exhibit is a major issue.”
+[says] (p.43–44) “I don't care what happened between you and Ichinose or what kind of relationship you two have. The fact that you're having such a bad influence that she can't even do a satisfactory observation of the third-year Class A's exhibit is a …  major issue.”
 [says:ayanokouji-kiyotaka] (p.44) “It's a little harsh when you put it that way.”
 [says] (p.44) “You'll have to forgive me. I'm sure you understand how frustrating it is.”
 [says] (p.44) “Why not now? We can take some time to talk about what's to come.”
@@ -775,7 +775,7 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [says] (p.58) “No, to say I was struggling would be an exaggeration, but I was thinking every day about what I was going to do with myself.” — words not typical of the calm and collected Kanzaki.
 [says] (p.58) “I don't know what I'm going to do with the rest of my school life...”
 [says] (p.58) “I probably don't need to tell you now, but our class can't win.” — not the festival, not the end-of-year exam: the class can't move up.
-[says] (p.59) “We’re not far behind other classes in academic, athletic and leadership skills. In fact, I feel that we have some aspects in which we excel. But I have learned that this doesn't always lead to victory.”
+[says] (p.59) “We’re not far behind other classes in academic, athletic and leadership …  skills. In fact, I feel that we have some aspects in which we excel. But I have learned that this doesn't always lead to victory.”
 [says] (p.59) “I need your advice on... Ichinose.” — why must it be me?
 [says] (p.59) “She never really listens to me. No, it's the same for everyone.” — Kanzaki.
 [says:ayanokouji-kiyotaka] (p.59) “That's only when you're on the same side as Ichinose. I don't need to explain it to you now.” — Ayanokōji dared to test him.
@@ -821,14 +821,14 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 [says] (p.63) “…It's futile. I've seen it firsthand.” — Kanzaki.
 [says:ayanokouji-kiyotaka] (p.63) “If it was just one person, yes. But if two or three people — all but Ichinose — changed their minds, the results of the unanimous special exam would've been different.” — Ayanokōji.
 [says] (p.63) “It's a pipe dream that everyone's consciousness would change. And even if they had, would it have changed the results of the special exam?” — Kanzaki.
-[says:himeno] (p.64) “Wait a minute; Ichinose-san will protect her classmates even if it costs a heavy penalty.” — Himeno, interjecting from the sidelines.
+[says:himeno] (p.64) “Wait a minute; I … chinose-san will protect her classmates even if it costs a heavy penalty.” — Himeno, interjecting from the sidelines.
 [says:ayanokouji-kiyotaka] (p.64) “I wonder if Ichinose really could remain stubborn to the end with 39 people opposing her.” — Ayanokōji.
 [says:himeno] (p.64) “She'll go through with it, Ichinose-san. I think so, right, Kanzaki-kun?” — Himeno asks Kanzaki.
 [says] (p.64) “I think so too, but… I'm also sure she'll be met with inner turmoil.” — Kanzaki.
 [says:ayanokouji-kiyotaka] (p.64) “Whether Ichinose, driven by remorse, would've been able to fulfill her duties as a leader is another matter.” — Ayanokōji.
 [says] (p.64) “That wouldn't have resulted in a worse outcome than the present.” — Kanzaki.
 [says:ayanokouji-kiyotaka] (p.64) “Oh, would it not? It would've ended worse than what we have now. What do you think actually would've happened then, Kanzaki?” — Ayanokōji.
-[says] (p.64) “What if all my classmates had the same idea as I did, to accept that there would be expulsion?” — Kanzaki.
+[says] (p.64) “What if all my classmates had the same idea as I did, to accept that there …  would be expulsion?” — Kanzaki.
 [note] (p.64) Ayanokōji's simulation: 39 people casting votes in favour of the proposal would eventually break Ichinose — she would come around to the side of the proposal and volunteer herself to expel herself; the class would succeed in expelling Ichinose and gain class points, but lose Ichinose's unifying abilities.
 [says] (p.64) “It's impossible,” he said. “The disadvantages would be too great in the unlikely event of such a development.” — Kanzaki.
 [says:ayanokouji-kiyotaka] (p.64) “Of course, I'm not trying to say that Ichinose should be expelled. But if there's a change in the classmates, the class will change. I don't want to change Ichinose, I want to change the mindset of the class. And the first ones to do that will be Kanzaki and Himeno.” — Ayanokōji.

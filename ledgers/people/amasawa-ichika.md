@@ -396,7 +396,7 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 [says] (p.129) “That's because I didn't think they would be a match for me from the start.” — Ayanokōji.
 [says] (p.129) “You're serious, aren't you, senpai?” — Amasawa.
 [says:ayanokouji-kiyotaka] (p.129) “It's not you who doesn't understand that, right, Amasawa?” — Ayanokōji.
-[note] (p.129) Even if you had only half-heartedly practiced martial arts, you would not have had any real feeling for it yet; but Amasawa was different; in less than 10 seconds of total movement, the match had already been decided by a wide margin.
+[note] (p.129) Even with only half-hearted martial-arts practice, he would not have had any real feeling for it yet; but Amasawa was different; in less than 10 seconds of total movement, the match had already been decided by a wide margin.
 [says:ayanokouji-kiyotaka] (p.129–130) “You and the other student should have challenged me at an early stage. You shouldn't have gone around and involved the people around you in the fun.” — Ayanokōji.
 [says] (p.130) “So, you understood why I contacted Kushida-senpai...” — Amasawa.
 [says:ayanokouji-kiyotaka] (p.130) “It all connected just now. And now the unexpected is about to happen.” — Ayanokōji.
@@ -409,11 +409,11 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 [says:ayanokouji-kiyotaka] (p.130) “Don't worry about it, but you can trust me.” — Ayanokōji.
 [says:kushida-kikyou] (p.130) “Who is Ayanokōji-kun?” — Kushida.
 [says:kushida-kikyou] (p.130) “I don't know anything about fighting, but I can tell you you're not normal.” — Kushida.
-[note] (p.130) That question would be inevitable if you had witnessed the conversation and fight with Amasawa earlier.
+[note] (p.130) That question would be inevitable if one had witnessed the conversation and fight with Amasawa earlier.
 [says:ayanokouji-kiyotaka] (p.130) “It's not uncommon for classmates to learn martial arts. Horikita and Ibuki, even Ryūen and Akito should be strong in fights, even if they are self-taught. It's not like boys and girls can compete with each other from the start.” — Ayanokōji; he would explain that it was only overwhelming due to the gender difference.
 [says:kushida-kikyou] (p.130) “Yeah, sure.” — Kushida replied, bowing her head as if she had made up her mind to do something.
 [says:kushida-kikyou] (p.130) “Thank you for helping me.” — Kushida.
-[note] (p.130) An unexpected thank you from Kushida; of course, Kushida was easily more down-to-earth than most people on the external front.
+[note] (p.130) An unexpected thanks from Kushida; of course, Kushida was easily more down-to-earth than most people on the external front.
 [says:kushida-kikyou] (p.130) “You don't think I'm sincerely grateful, but that's fine. I just felt like saying so, even if it's a lie.” — Kushida.
 [says:ayanokouji-kiyotaka] (p.130) “It's not a big deal. It's more of a natural behaviour for a classmate.” — Ayanokōji.
 [says:kushida-kikyou] (p.130) “Then you don't have to consider this as a debt, right?” — Kushida.

@@ -1997,7 +1997,7 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [says:ishizaki-daichi] (p.97) “This is chocolate flavored protein. Well, just take a light lick.” — Ishizaki.
 [says] (p.97) “I don't want it.” — Kei refused to drink it as soon as it was served.
 [says:ishizaki-daichi] (p.97) “Oh, don't be like that. It's just protein.” — Ishizaki.
-[says] (p.97) “I've never had protein before, and I don't want to. I'm not trying to get muscular.” — Kei.
+[says] (p.97) “I've never had protein before, and I don't want to. I'm not trying to get …  muscular.” — Kei.
 [says:yamada-albert] (p.97) “You can't build muscle just by drinking protein shakes.” — Albert stepped forward and mumbled English.
 [says:yamada-albert] (p.97) “Don't worry about that. You can't build muscle by just drinking protein shakes. That's right. Since we're here, why don't you two give it a try?” — Albert.
 [says:ishizaki-daichi] (p.97) “Well, I'll drink it for you then, just in case... it's bad.” — Ishizaki; Kei, who drank protein for the first time, frowned as if it didn't taste good.
@@ -2035,7 +2035,7 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 [scene] (p.100) After the cleanup; Horikita announces tomorrow's schedule; only Ayanokōji and Horikita remain in the classroom.
 [says:horikita-suzune] (p.100) “I don't want to do it, but it would be nice to have more hands, wouldn't it? It would have been a little easier if your girlfriend had cooperated.” — Horikita.
 [says:ayanokouji-kiyotaka] (p.100) “I'm sorry, but it's out of my jurisdiction. I've left it to Kei's will.” — Ayanokōji.
-[note] (p.101) “It seemed that Satō and the others, including me, had approached Kei, but she refused to wear the maid's uniform… Not everyone understood Kei's body and her past.” — the narration.
+[note] (p.101) “It seemed that Satō and the others, including me, had approached Kei, but she refused to wear the maid's uniform … … Not everyone understood Kei's body and her past.” — the narration.
 [says:horikita-suzune] (p.101) “I've made some adjustments based on today's simulation.” — Horikita handed him the notebook.
 [says:horikita-suzune] (p.101) “All festival participants are required to take a one-hour break before the end of the festival after notifying their homeroom teacher.” — the rule.
 [rule] (p.101) All festival participants must take a one-hour break before the end of the festival, after notifying their homeroom teacher; they may not assist with any of the stalls during the break.
@@ -2062,7 +2062,7 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 <!-- walk: y2v7 Ch.6 → p.160 -->
 ### y2v7 p.189–196 — The Kei threads: the secret; the squeeze bait
 [mentioned] (p.189) “I kept this fact a secret from our classmates, including Kei, with the exception of Horikita. And no one in Ryūen's class, except Ryūen and Katsuragi, had heard about it.” — Horikita's confession to the planners; Kei excluded.
-[mentioned] (p.193) “The love letter prepared in this way was passed to Horikita through another girl using Kei. Then, she was led to hand it to Yagami, giving him time to examine it.” — the caller's account; Kei was an unknowing courier.
+[mentioned] (p.193) “The love letter prepared in this way was …  passed to Horikita through another girl using Kei. Then, she was led to hand it to Yagami, giving him time to examine it.” — the caller's account; Kei was an unknowing courier.
 [mentioned] (p.195) “It seems you called Satō to your room and made cheap threats, but it wasn't a serious attempt to manipulate her into ruining our relationship. It was because you wanted to push her to act, or deal with the threat of Kei's relationship, by indirectly letting her know that we were getting close.” — Ayanokōji to Tsubaki; the bait was Kei's relationship with Satō.
 [rel:satou-maya] (p.195) Her close friendship is the handle the squeeze pulls.
 

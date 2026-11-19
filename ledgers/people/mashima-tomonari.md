@@ -424,7 +424,7 @@ char_id: mashima-tomonari · role: Homeroom Instructor, Class 1-A · subject: En
 ### y2v7 p.175–182 — The teacher who stood between them
 [scene] (p.175) §2 — Mashima-sensei showed up later in the student council room; he stood up in pain at the end.
 [says] (p.176) “Ryūen!” — Mashima-sensei scolded him for his violent behavior, but he showed no sign of paying attention.
-[says] (p.177) “Yes, I don't want to do anything to suspect the students, but I can't deny the possibility.” — Mashima-sensei; Sakagami-sensei confirmed Mashima-sensei, as if remembering something.
+[says] (p.177) “Yes, I don't want to do anything to suspect the students, but I can't deny the …  possibility.” — Mashima-sensei; Sakagami-sensei confirmed Mashima-sensei, as if remembering something.
 [note] (p.177) “Speaking of Yagami-kun, I'm sure Mashima-sensei recalls as well.” — Nagumo.
 [scene] (p.180) At 3:00 p.m. the room had been surrounded by Ryūen-kun, Komiya-kun and others who unexpectedly appeared as well as the teachers.
 [says] (p.180) “Stop it, Yagami!” — Mashima-sensei scolded him for his violent behavior.
