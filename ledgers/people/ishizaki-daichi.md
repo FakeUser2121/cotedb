@@ -702,12 +702,17 @@ char_id: ishizaki-daichi · class: Class 1-C (enrolled April 2015) · status: mi
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.48–49 — Ishizaki motivates his group
-[scene] (p.48–49) He tries to motivate Nishino and Tsube at the start of the exam.
-[says] (p.49) "Let's friggin' goooo! I've got my sights set on numbah one, baby!"
-[trait] (p.48–49) Energetic and motivated.
+### y2v3 p.48–49 — Ishizaki's sprint; the group's pace argument
+[scene] (p.48–49) Points himself at the beach in a full-on sprint shouting about numbah one; his group members Nishino (trailing) and Tsube (watching with a smile) dawdle; he argues Early Bird stakes and group cohesion; finally slows to match their pace.
+[says] (p.48) “Let’s friggin’ goooo! I’ve got my sights set on numbah one, baby!”
+[says] (p.49) “Oi, hurry up Nishino! You too Tsube!”
+[says] (p.49) “If we give up, then it’s all over! The first-years might get careless and slip up, you never know!”
+[says] (p.49) “We won’t get the Early Bird Bonus if we do that though! Besides… it’d suck if we got split up or somethin’.”
+[trait] (p.48–49) Restless Early Bird energy — splinters immediately, but re-bundles for the bonus; group friction tolerated for the prize.
+[rel:nishino-takeko] (p.49) Group member; she leaves the running to him.
+[rel:tsube-hitomi] (p.49) Group member; she smoothes things over between them.
 
-<!-- walk: y2v3 Ch.2 → p.49 -->
+<!-- walk: y2v3 Ch.2 → p.74 -->
 
 ### y2v3 p.40–41 — The giant backpack and the water plan
 [scene] (p.40) At the end of the briefing, a loud wail comes from the front of the theater — Class 2-B's Ishizaki is struggling to stand upright with one of the largest-sized backpacks strapped to his back.

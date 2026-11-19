@@ -1852,11 +1852,6 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:ike-kanji] (p.86–90) Notes he's been listless and acting strangely before the exam; celebrates the quiz win with him.
 [rel:hondou-ryoutarou] (p.85) His group member, strong at trivia.
 
-### y2v3 p.48 — Sudō's group situation
-[scene] (p.48) He is mentioned as having a different Table; his group plans are discussed.
-[trait] (p.48) Part of the class's group dynamics.
-
-<!-- walk: y2v3 Ch.2 → p.48 -->
 
 ### y2v3 p.84–88 — Sudō warns Ayanokōji about Nanase
 [scene] (p.84–88) He meets Ayanokōji at Task site C6; they discuss points and water; he warns Ayanokōji that Nanase is an enemy.
@@ -1868,11 +1863,13 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 
 <!-- walk: y2v3 Ch.3 → p.88 -->
 
+
 ### y2v3 p.113–114 — Sudō joins Ayanokōji's group
 [scene] (p.113–114) He meets Ayanokōji and Nanase; they discuss designated areas and travel together.
 [trait] (p.113–114) Friendly and casual — he joins their group willingly.
 
 <!-- walk: y2v3 Ch.4 → p.114 -->
+
 
 ### y2v3 p.164–186 — Sudō helps in the emergency
 [scene] (p.164–186) He helps carry Komiya and Kinoshita; he is worried about Shinohara.
@@ -1880,6 +1877,15 @@ aliases used for anchors: sudou, sudō, sudo, sudou-ken
 [rel:komiya-kyogo] (p.169–176) He helps carry Komiya.
 
 <!-- walk: y2v3 Ch.5 → p.186 -->
+
+### y2v3 p.65–67 — Sudō's first-place grip at C6
+[scene] (p.65) Takes part in the Grip Strength Measurement Task at site C6 without Ike and Hondō, who are nowhere to be seen (he likely split off to grab a spot); Yuu third-year Oshio goes first; registered participants wait their turn.
+[scene] (p.67) Nobody beats his first-place score; when the results come in, Oshio (knocked to second) goes disgruntled; Sudō's group earns five more points (~8 total).
+[rel:ayanokouji-kiyotaka] (p.65–67) Ayanokōji watches his measure; Hoshinomiya-sensei asks who is responsible for his change — he credits Horikita inside.
+[rel:ike-kanji] (p.65) Group member; absent from the Task site.
+[rel:hondou-ryoutaro] (p.65) Group member; absent from the Task site.
+
+<!-- walk: y2v3 Ch.2 → p.74 -->
 
 ## y2v4
 

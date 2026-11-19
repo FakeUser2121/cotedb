@@ -5016,22 +5016,49 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.44–50 — Horikita before and after disembarking
-[says] (p.44) "Good morning. Did you sleep well yesterday?"
-[says] (p.45) "I see you're still patronizing me about what happened last year."
-[says] (p.45) "You're awfully chipper even though such a serious special exam is about to start."
-[says] (p.45) "Yes, I have. I'm just glad that it didn't happen to one of our classmates."
-[says] (p.46) "Mine is F9. Looks like the two of us have different Tables."
-[says] (p.46) "That… would be troublesome."
-[says] (p.47) "I lent you some points just the other day. I'd be mad if I didn't get any back."
-[says] (p.47) "I know you have that contract with Kushida-san, so I can't blame you for being troubled for money."
-[says] (p.48) "Thanks for your most exceptional advice then."
-[says] (p.50) "What do you want?" — to Ibuki
-[says] (p.50) "I don't see myself as her rival at all though?"
-[trait] (p.44–50) Chipper and confident (leagues ahead of a year ago); her Table differs from Ayanokōji's; says she'd be "troubled" if he were expelled (jokingly citing the points she lent him); heads east; wears a hat (he can't afford one); Ibuki declares she'll never lose to her.
-[rel:ayanokouji-kiyotaka] (p.44–48) Chats before departing; would be troubled by his expulsion; he warns her about going solo.
-[rel:ibuki-mio] (p.50) She approaches to declare she'll never lose; Horikita doesn't see her as a rival.
-[rel:kouenji-rokusuke] (p.48) Notes Kōenji strode past smiling — a coin flip whether he'll take the exam seriously.
+### y2v3 p.44–47 — The gangway: provisions checks and the F9 reveal
+[scene] (p.44) Waits at the gangway; approaches Ayanokōji carrying her own backpack; the pre-exam atmosphere; watch hits 9:00 AM; his designated area is D7, hers F9.
+[says] (p.44) “Good morning. Did you sleep well yesterday?”
+[says:ayanokouji-kiyotaka] (p.44) “Well, more or less. How about you? Are you feeling sick at all?”
+[says] (p.44) “I see you’re still patronizing me about what happened last year.”
+[says:ayanokouji-kiyotaka] (p.44) “I’m not patronizing you. Just messing with you is all.”
+[says] (p.44) “You’re awfully chipper even though such a serious special exam is about to start.”
+[says] (p.44) “There’s no use getting worked up at this point. It’d just be a waste of energy. For that matter, have you heard about the third-year boy who got sick?”
+[says:ayanokouji-kiyotaka] (p.44) “Yes, I have. I’m just glad that it didn’t happen to one of our classmates.”
+[says] (p.46) “Mine is F9. Looks like the two of us have different Tables.”
+[says] (p.46) “I won’t worry about you anymore, then. At least try to manage a decently high ranking.”
+[says:ayanokouji-kiyotaka] (p.46) “As much as I’d love to do that, it’d be pretty funny if I were the only one in the class to get expelled from all this.”
+[says] (p.46) “That… would be troublesome.”
+[says] (p.46) “I lent you some points just the other day. I’d be mad if I didn’t get any back.”
+[says:ayanokouji-kiyotaka] (p.46) “…That’s what you’re worried about?”
+[says] (p.46) “That almost hurts to hear.”
+[says:ayanokouji-kiyotaka] (p.46) “You better not push yourself too hard, Horikita. A solitary girl like you has a tough fight ahead of her. You should look to join up with another group or find yourself an opportunity to bring someone into yours as soon as possible.”
+[says] (p.46) “Thanks for your most exceptional advice then.”
+[says] (p.47) “There don’t seem to be any second-year groups in a hurry or anything. Well, it’s not a very good idea to compete for this first designated area anyway. Even if they rushed to try and catch up, they’d still be over 10 minutes behind the first-years in the lead. Closing a gap like that would use up a lot of stamina, don’t you think?”
+[trait] (p.44–47) Leagues ahead of a year ago; owns her solo position — solitary girls face real strain (water, night, toilets); she takes his ironic concern in stride; regards point averaging and six-member bonuses as reasons to merge early; politely deflects his advice on solo travel.
+[rel:ayanokouji-kiyotaka] (p.44–47) Their pre-exam exchange; Tables differ (his D7, hers F9); she deflects his solo-travel warning; he worries about her expulsion math (Kushida contract, his unpaid loan to protect Kei).
+
+### y2v3 p.48–52 — Kōenji’s promise; Ishizaki’s sprint; Ibuki’s visit; the hat
+[scene] (p.48) Kōenji strides past grinning — she and AK wonder whether he’ll take the exam seriously; it’s a coin flip on her bet; her leadership of the class makes a Kōenji betrayal costlier.
+[says] (p.48) “Kōenji… Do you really think that guy will take this special exam seriously?”
+[says:ayanokouji-kiyotaka] (p.48) “Who knows… While he’s agreed to my bet, there’s no telling what he’ll do.”
+[says] (p.48) “It’s a coin flip. That is, whether he’ll really take action or not.”
+[scene] (p.48–49) Ishizaki (2-B) bolts for the beach; she later chats with AK on the harbor side about the heat and the hat; she has one.
+[says] (p.48) “Anyway, it’s really hot, isn’t it…? I’m glad I thought ahead to get a hat. Are you fine without one?”
+[scene] (p.50) Ibuki storms up and corners her with a glaring challenge — Ibuki sets off north alone; she and AK compare Tables one last time before she leaves for the east.
+[says:ibuki-mio] (p.50) “Found you!”
+[says] (p.50) “What do you want?”
+[says:ibuki-mio] (p.50) “Want? I don’t ‘want’ anything. Just makin’ sure you know I’m never gonna lose to you…!”
+[says] (p.50) “Good grief… I wonder if she properly understands just how difficult this exam is?”
+[says:ayanokouji-kiyotaka] (p.50) “She seemed quite motivated. It must be nice to have a rival.”
+[says] (p.50) “I don’t see myself as her rival at all though? Well whatever, she’s going north and I’ll be going east, so it seems we’ve got different Tables too. There’s that at least.”
+[says] (p.50) “Well, it’s about time for me to get going.”
+[scene] (p.50) Sets off east at last; a little way into the walk she stops and looks back once for some reason, then walks on.
+[rel:kouenji-rokusuke] (p.48) Her bet with him; she counts on him more than he counts on himself.
+[rel:ibuki-mio] (p.50) Ibuki rival-visit; tables differ (hers E/F9-ish, Ibuki north).
+[rel:ayanokouji-kiyotaka] (p.48–52) Their last exchange before the exam; she keeps their Tables separate; he watches her walk off.
+
+<!-- walk: y2v3 Ch.2 → p.52 -->
 
 ### y2v3 p.363–364 — Short story: "A Brief Farewell" — leaving Ayanokōji at the starting line
 [scene] (p.363) From her own POV, tells Ayanokōji she's leaving as she adjusts her sun hat, he staying at the starting line having seen her off.
@@ -5041,16 +5068,6 @@ aliases used for anchors: horikita, suzune, horikita-san, horikita-kun
 [narrates] (p.364) "First priority is to fight in the best way only I knew possible"
 [trait] (p.363–364) Reflects she needn't worry about him — having watched him up close all year, always calm, always finding the right answer and winning; acknowledges his flaws (needing to reveal some ability, poor communication) but that he shields them using others; realizes she wants to become someone who can "cover his back, a partner he could rely on," but that mimicking his style is useless — her priority is to fight her own way on the island.
 [rel:ayanokouji-kiyotaka] (p.363–364) She wants to become someone who can stand shoulder-to-shoulder with him and cover his back — a feeling she can't quite name.
-
-### y2v3 p.43–46 — Horikita at the start of the island exam
-[scene] (p.43–46) She walks with Ayanokōji at the start; they discuss their Tables, Kōenji's reliability, and point averaging.
-[says] (p.46) "I lent you some points just the other day. I'd be mad if I didn't get any"
-[trait] (p.43–46) Cautious but prepared — she has a contract with Kushida for points.
-[rel:ayanokouji-kiyotaka] (p.43–46) They walk together.
-
-<!-- walk: y2v3 Ch.2 → p.46 -->
-
-<!-- walk: y2v2 Ch.1 → p.38 -->
 
 ## y2v4
 

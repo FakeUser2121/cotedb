@@ -1127,3 +1127,23 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 [mentioned] (p.188) Passing mention — Karuizawa Kei,' Hasebe Haruka,' Onodera Kayano'
 
 <!-- walk: y2v10 Ch.6 → p.188 -->
+
+## y2v3
+
+<!-- walk: y2v3 → start -->
+
+### y2v3 p.55–57 — Hasebe travels with Haruka's trio to D8
+[scene] (p.55–57) Checks tablets with Haruka, Airi and Akito near the D8 edge; Ayanokōji calls out to them; they swap Table notes and part ways for the next area.
+[note] (p.56) “Our first area was D8, so like, we’re done already, yeah?” — speaker untagged in the translation; recorded unassigned (Akito/Airi/Haruka).
+[note] (p.56) “What area do you have, Kiyotaka?” — speaker untagged in the translation; recorded unassigned (Akito/Airi/Haruka).
+[note] (p.56) “That so? A buncha students have already gone up ahead, but, well, one point is one point I guess.” — speaker untagged in the translation; recorded unassigned (Akito/Airi/Haruka).
+[says:sakura-airi] (p.56) “If we had the same Table, we could have traveled together…” — Sakura's line per the adjacent narration.
+[says] (p.57) “Yeah. We’ve gotta get moving to our next area sometime soon anyway, so go ahead.” — speaker untagged in the translation; recorded unassigned (Akito/Airi/Haruka).
+[says] (p.57) “It kinda sucks though. I hope we can meet up again somewhere when we’ve all got more time to spare.”
+[note] (p.57) “Haruka bid me farewell with Airi waving goodbye from behind her.” — narration ties the farewell to Haruka.
+[note] (p.208) “The lone second-year group was composed of three of my classmates: Akito, Haruka, and Airi.” — the print places Haruka in Ayanokōji's Class 2-D. Her ledger header says Class 1-D; the discrepancy is recorded here, not resolved — identity as Hasebe Haruka is inferred from the printed given name + the trio + prior volumes' usage, not a direct print.
+[rel:sakura-airi] (p.55–57) Her group at D8 — already through; they split for their next area.
+[rel:miyake-akito] (p.55–57) Same trio; Akito's reactivity, Hasebe's politeness.
+[rel:ayanokouji-kiyotaka] (p.55–57) His classmates; tables differ; they part ways for the time being.
+
+<!-- walk: y2v3 Ch.2 → p.74 -->

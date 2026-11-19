@@ -324,18 +324,34 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [goal] (p.7–8) Defeat Ayanokōji Kiyotaka for real — to send him back to where he is meant to be; a second or third victim must be avoided no matter the cost; her true objective lies far beyond defeating him.
 [rel:ayanokouji-kiyotaka] (p.8) Her target; he stands before her with his eyes fixed on her; she resolves to act here and now.
 [note] (p.7–8) Interior monologue; first person. The corpus prints full-width corner brackets 『I』, single curly ‘justice’, and a figure dash in “all of this─ It's right here.” on p.8; the footnote marker “[1]” after “『I』 will.” is printed in the text (p.8). POV Nanase.
-[note] (p.7–8) No Matsuo name prints on these pages; the volume ledger's earlier “Nanase recalls Matsuo Eiichirou's death” claim for the Prologue overreached the print and has been corrected.
+[note] (p.7–8) No Matsuo name prints on these pages; the volume ledger's earlier Prologue summary claim overreached the print and has been corrected.
 
 <!-- walk: y2v3 Prologue → p.8 -->
 
-### y2v3 p.58–59 — Nanase meets Ayanokōji again
-[scene] (p.58–59) She meets Ayanokōji at the first designated area; she has earned 3 points and he earned 2; they part ways.
-[says] (p.59) "I think I'm going to leave. It can't hurt to take a look around."
-[trait] (p.58–59) Independent and proactive — she scouts ahead.
-[rel:ayanokouji-kiyotaka] (p.58–59) They compare points.
 
-<!-- walk: y2v3 Ch.2 → p.59 -->
+### y2v3 p.58–59 — First crossing: Nanase at D7
+[scene] (p.58) Reaches the clearing (29 people); Amasawa and Hōsen nowhere to be seen; she greets him and scouts the crowd.
+[says] (p.58) “Good morning to you, Ayanokōji-senpai.”
+[says:ayanokouji-kiyotaka] (p.58) “What happened to the other two? Aren’t groups supposed to stick together for the most part? Seems better to do it that way to me at least. Especially at first.”
+[says] (p.58) “They said they’d scout out the area and then we all split up. So I decided to come check how many other groups were here.”
+[says] (p.59) “I think I’m going to leave. It can’t hurt to take a look around.”
+[says] (p.59) “Indeed! You’re all alone, so please be careful Senpai. Goodbye, then.”
+[rel:ayanokouji-kiyotaka] (p.58–59) Their first encounter on the island; he gauges her independence; she releases him to probe the area.
 
+### y2v3 p.69 — Evening crossing: second status exchange
+[scene] (p.69) Crosses paths again near the same sort of place, just before 5 PM; the two quietly compare the day’s spoils.
+[says] (p.69) “Senpai.”
+[says:ayanokouji-kiyotaka] (p.69) “Second time today huh?”
+[says] (p.69) “Indeed. What a coincidence.”
+[note] (p.69) “How did it go for you today?” — speaker untagged in the translation; recorded unassigned.
+[note] (p.69) “I did what I could and earned 3 points. You?” — speaker untagged in the translation; recorded unassigned.
+[note] (p.69) “Well, when it comes to designated areas, the three of us earned 8 points. I didn’t manage to make it to the second area in time, but I took first place in a Task instead, so we’re at 13 points altogether.” — speaker untagged in the translation; recorded unassigned.
+[note] (p.69) “Sounds like you’re off to a good start.” — speaker untagged in the translation; recorded unassigned.
+[says] (p.69) “Well then, Senpai, if you’ll excuse me.”
+[trait] (p.58–69) Operates solo within her group; measures him with courteous precision; her group already at 13 points.
+[rel:ayanokouji-kiyotaka] (p.69) Evening crossing; his 3 points vs her 13; she leaves pointedly.
+
+<!-- walk: y2v3 Ch.2 → p.74 -->
 
 ### y2v3 p.75–88 — Nanase accompanies Ayanokōji
 [scene] (p.75–81) She asks to accompany him, explaining her group's issue; he agrees.
@@ -344,6 +360,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [rel:ayanokouji-kiyotaka] (p.75–88) She accompanies him.
 
 <!-- walk: y2v3 Ch.3 → p.88 -->
+
 
 
 ### y2v3 p.110–151 — Nanase accompanies Ayanokōji on day 3
@@ -357,11 +374,13 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 <!-- walk: y2v3 Ch.4 → p.151 -->
 
 
+
 ### y2v3 p.164–186 — Nanase helps in the emergency
 [scene] (p.164–186) She helps wake the group and search for Shinohara; she takes a flashlight and follows Ayanokōji.
 [trait] (p.164–186) Helpful and alert — she assists in the emergency search.
 
 <!-- walk: y2v3 Ch.5 → p.186 -->
+
 
 
 
@@ -379,6 +398,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [rel:ayanokouji-kiyotaka] (p.78–96) Travels with him; he suspects her motives but allows it, using it to gauge her.
 [rel:housen-kazuomi] (p.79) Says he and Amasawa chose independent action.
 [rel:amasawa-ichika] (p.79) Likewise.
+
 
 
 ### y2v3 p.110–138 — Nanase: worry, Beach Flags victory, and mutual probing
@@ -403,6 +423,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [rel:amasawa-ichika] (p.138) Likewise.
 
 
+
 ### y2v3 p.164–207 — Nanase in the cliff crisis and rescue planning
 [scene] (p.164) Joins the pre-dawn search; carries a flashlight and later takes charge of leading the group back.
 [says] (p.189) "I wasn't able to see you and Ike-senpai anymore so I─" — she came to find them
@@ -417,6 +438,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [rel:ike-kanji] (p.189) Comes looking for him and Shinohara.
 
 
+
 ### y2v3 p.260–266 — Nanase's cliff struggle and her strange air
 [says] (p.261) "I… I can do this!"
 [says] (p.261) "Oww, that hurt…!"
@@ -428,6 +450,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [says] (p.265) "While it feels like graduation is a long ways away, it'll probably be here in the blink of an eye."
 [trait] (p.260–266) Falls while tying up her hair to climb, but insists on following Ayanokōji; exhausted, she accepts his hand; afterward she asks if he enjoys the school and speaks of living without regrets — her bearing briefly resembles the Nanase he first met, a faint, unsettling change Ayanokōji notes.
 [rel:ayanokouji-kiyotaka] (p.260–266) Follows him up the cliff; her "loyal dog" devotion and subtle shift in demeanor hint at her true nature.
+
 
 
 ### y2v3 p.287–304 — Nanase's trap: the White Room agent reveals herself and attacks
@@ -449,6 +472,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [rel:matsuo-eiichiro] (p.299) The persona she impersonates — a real boy whose father was connected to Atsuomi.
 
 
+
 ### y2v3 p.347–353 — Nanase's motive; accepting Ayanokōji's hand
 [scene] (p.347) In the rain, defeated, admits her loss and explains why she targeted him.
 [says] (p.347) "It's my loss… Ayanokōji-senpai."
@@ -467,6 +491,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [note] (p.348) Eiichiro's father (the Matsuo butler who served Atsuomi) burned himself to death; "that man" = Atsuomi.
 
 
+
 ### y2v3 p.360–362 — Short story: "Unfathomable" — the cliff climb from her POV
 [scene] (p.360) From her own POV, reflects that her belief in equal stamina with Ayanokōji was naive — he clears obstacles at 50–60% capacity while she struggles, and she fears falling too far behind.
 [narrates] (p.360) "Don't… mind me. I will, catch up to you, at my own pace…!"
@@ -476,6 +501,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [narrates] (p.361) "No, this is the first time I'm moving up like this." — Ayanokōji
 [trait] (p.360–362) Grudgingly accepts his hand after he descends to help — moved that he offers kindness of his own accord; realizes he possesses "unfathomable abilities" and is "not normal," reaffirming her goal to defeat him and drag out "that person" (Matsuo) — the reason she came to this school.
 [rel:ayanokouji-kiyotaka] (p.360–362) Her target and reluctant climbing partner; she's awed by his effortless strength and resolves to defeat him.
+
 
 
 ### y2v3 p.365–366 — Tapestry SS: "What Could Be Seen From that Back" — Beach Flags from her POV

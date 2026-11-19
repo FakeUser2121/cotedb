@@ -880,10 +880,9 @@ aliases used for anchors: kouenji, kōenji, koenji, rokusuke
 [rel:nanase-tsubasa] (p.224) His self-talk baffles her.
 [rel:sakayanagi-arisu] (p.237) She notes his "surprisingly motivated" performance.
 
-### y2v3 p.48 — Kōenji's reliability questioned
-[scene] (p.48) Horikita and Ayanokōji discuss whether Kōenji will take the exam seriously; it's a coin flip.
-[says] (p.48) "Who knows… While he's agreed to my bet, there's no telling what he'll do."
-[trait] (p.48) Unpredictable — his participation is uncertain.
+### y2v3 p.48 — Kōenji strides past the harbor crowd
+[scene] (p.48) A young man gallantly strides past the harbor crowd with a smile, giving off the air of someone who would enjoy these two grueling weeks to the utmost; Ayanokōji and Horikita discuss whether he will take the exam seriously — a coin flip on his bet with her.
+[trait] (p.48) Enigmatic and cheerful — whether he honors the bet to cooperate in the next exam if he fails to take first place is anyone's guess; Horikita's class leadership cuts both ways if he betrays it.
 
 <!-- walk: y2v3 Ch.2 → p.48 -->
 

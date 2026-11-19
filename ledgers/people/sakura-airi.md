@@ -1159,12 +1159,15 @@ aliases used for anchors: sakura, airi, sakura-san
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.56 — Sakura at the first designated area
-[scene] (p.56) She meets Ayanokōji with Miyake and Haruka at the first designated area; she is disappointed they have different Tables.
-[says] (p.56) "It kinda sucks though. I hope we can meet up again somewhere when"
-[trait] (p.56) Friendly and hopeful.
+### y2v3 p.55–57 — Sakura's trio meets Ayanokōji on the way north
+[scene] (p.55–57) Checks tablets with Haruka (Hasebe) and Miyake on the D8 edge; Ayanokōji inserts himself into their conversation; they compare Tables and say goodbye.
+[note] (p.56) “Our first area was D8, so like, we’re done already, yeah?” — speaker untagged in the translation; recorded unassigned.
+[note] (p.56) “What area do you have, Kiyotaka?” — speaker untagged in the translation; recorded unassigned.
+[note] (p.56) “That so? A buncha students have already gone up ahead, but, well, one point is one point I guess.” — speaker untagged in the translation; recorded unassigned.
+[says] (p.56) “If we had the same Table, we could have traveled together…”
+[note] (p.56) “Yeah. We’ve gotta get moving to our next area sometime soon anyway, so go ahead.” — speaker untagged in the translation; recorded unassigned.
 
-<!-- walk: y2v3 Ch.2 → p.56 -->
+<!-- walk: y2v3 Ch.2 → p.57 -->
 
 
 ## y2v4

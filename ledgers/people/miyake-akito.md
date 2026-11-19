@@ -656,6 +656,18 @@ char_id: miyake-akito · class: Class 1-D · status: minor
 <!-- walk: y2v3 Ch.4 → p.114 -->
 
 
+### y2v3 p.55–57 — Miyake at D8 with Haruka and Airi
+[scene] (p.55–57) Checks tablets with Haruka and Airi on the D8 edge; Ayanokōji stops by to talk Tables; he affirms “one point is one point” and lets the trip continue.
+[note] (p.56) “Our first area was D8, so like, we’re done already, yeah?” — speaker untagged in the translation; recorded unassigned (Akito/Airi/Haruka).
+[note] (p.56) “What area do you have, Kiyotaka?” — speaker untagged in the translation; recorded unassigned (Akito/Airi/Haruka).
+[note] (p.56) “That so? A buncha students have already gone up ahead, but, well, one point is one point I guess.” — speaker untagged in the translation; recorded unassigned (Akito/Airi/Haruka).
+[note] (p.56) “Yeah. We’ve gotta get moving to our next area sometime soon anyway, so go ahead.” — speaker untagged in the translation; recorded unassigned (Akito/Airi/Haruka).
+[rel:sakura-airi] (p.55–57) Same trio; D8 cleared together.
+[rel:hasebe-haruka] (p.55–57) Same trio; Haruka bids farewell at the parting.
+[rel:ayanokouji-kiyotaka] (p.55–57) Classmates; Tables differ; they part ways for the time being.
+
+<!-- walk: y2v3 Ch.2 → p.74 -->
+
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

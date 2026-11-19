@@ -1018,6 +1018,17 @@ char_id: ibuki-mio · class: Class 1-C (enrolled April 2015) · status: minor
 
 <!-- walk: y2v3 Ch.1 → p.42 -->
 
+### y2v3 p.50 — The Ibuki rival visit
+[scene] (p.50) A firm, almost angry voice calls out; she approaches Horikita and AK, glares at Horikita; her grievance delivered in one line; she sets off north alone.
+[says] (p.50) “Found you!”
+[says:horikita-suzune] (p.50) “What do you want?”
+[says] (p.50) “Want? I don’t ‘want’ anything. Just makin’ sure you know I’m never gonna lose to you…!”
+[trait] (p.50) Lone-wolf rival who cannot help showing herself; motivated by Horikita; chooses the hard path north.
+[rel:horikita-suzune] (p.50) Declares herself Horikita's rival; she goes north, Horikita east.
+[rel:ayanokouji-kiyotaka] (p.50) Barely acknowledges him; keeps to herself.
+
+<!-- walk: y2v3 Ch.2 → p.74 -->
+
 ## y2v4
 
 <!-- walk: y2v4 → start -->

@@ -157,6 +157,11 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 
 <!-- walk: y2v3 → start -->
 
+### y2v3 p.58 — Hōsen named at D7
+[mentioned] (p.58) “Her fellow group members, Amasawa and Hōsen, were nowhere to be seen, prompting me to wonder if they were out exploring nearby or had come up with a strategy of some sort and left the area already.” — named as Nanase's group member; not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.2 → p.74 -->
+
 ## y2v4
 
 <!-- walk: y2v4 → start -->

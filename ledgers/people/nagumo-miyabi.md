@@ -644,11 +644,17 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 [rel:horikita-suzune] (p.131) References her — knows of their connection.
 [rel:masuwaka] (p.131) Third-year who calls Nagumo away for a private talk.
 
+
 ### y2v3 p.130–132 — Nagumo appears at the Beach Flags Task
 [scene] (p.130–132) He appears at the Beach Flags Task and talks with Ayanokōji; he suggests Ayanokōji should group up with someone.
 [trait] (p.130–132) Calculating and observant.
 
 <!-- walk: y2v3 Ch.4 → p.132 -->
+
+### y2v3 p.51–52 — Nagumo searched for at 3-B's disembarkation
+[mentioned] (p.51–52) “From the numbers, it seemed like students from Class 3-B had just about finished disembarking, so I took a moment to try and catch a glimpse of Nagumo. However, I couldn’t find him anywhere. … As I continued to look for him, the third-year students who were walking toward me eventually caught up and began to pass by. … I continued to linger around the area for a little bit longer, but ultimately never caught sight of Nagumo.” — named as Ayanokōji's target to spot; not seen; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.2 → p.74 -->
 
 ## y2v4
 <!-- walk: y2v4 → start -->

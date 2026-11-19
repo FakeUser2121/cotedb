@@ -213,6 +213,11 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 [rel:kushida-kikyou] (p.309–319) Exposes and defeats her;admires her strength even while mocking her.
 [rel:ayanokouji-kiyotaka] (p.315) Calls him "a very special person" — protective of him against other threats.
 [rel:yagami-takuya] (p.322) Later confronts him too — he had been manipulating Kushida.
+### y2v3 p.58 — Amasawa named at D7
+[mentioned] (p.58) “Her fellow group members, Amasawa and Hōsen, were nowhere to be seen, prompting me to wonder if they were out exploring nearby or had come up with a strategy of some sort and left the area already.” — named as Nanase's group member; not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.2 → p.74 -->
+
 ## y2v4
 
 <!-- walk: y2v4 → start -->

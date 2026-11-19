@@ -1206,6 +1206,7 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y2v3 Ch.5 → p.186 -->
 
+
 ### y2v3 p.169–207 — Ike's ordeal: Shinohara's accident and his confession
 [scene] (p.169) Rushes to Komiya's side; learns Shinohara is missing and calls her name into the forest.
 [says] (p.172) "Shinohara-!!"
@@ -1221,6 +1222,11 @@ aliases used for anchors: ike, kanji, ike-kun
 [rel:komiya] (p.195–200) His rival in love; defends his account and receives his entrustment.
 [rel:sudou-ken] (p.203) Sudō and Hondō back his resolve; Sudō beats his chest to encourage him.
 [rel:ayanokouji-kiyotaka] (p.205–207) Receives his plan and instructions for protecting Shinohara.
+### y2v3 p.65 — Ike named at the Grip Strength Task
+[mentioned] (p.65) “His group members, Ike and Hondō, were nowhere to be seen, suggesting that he had probably split off and rushed here on his own to secure a spot in the Task.” — named as Sudō's group member at the Task site; not present; POV Ayanokōji.
+
+<!-- walk: y2v3 Ch.2 → p.74 -->
+
 ## y2v4
 
 <!-- walk: y2v4 → start -->

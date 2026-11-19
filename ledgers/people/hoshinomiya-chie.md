@@ -473,26 +473,6 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 
 <!-- walk: y2v3 → start -->
 
-### y2v3 p.62–67 — Hoshinomiya tries to recruit Ayanokōji
-[scene] (p.62–67) She meets Ayanokōji at Task site C6 and tries to recruit him to Class 2-C; she complains about her class's state and asks him to aim for Class A with them.
-[says] (p.65) "I really thought that this class would be the one to reach Class A, but…"
-[trait] (p.62–67) Frustrated and desperate — she wants Ayanokōji to join her class.
-[rel:ayanokouji-kiyotaka] (p.62–67) She tries to recruit him.
-
-<!-- walk: y2v3 Ch.2 → p.67 -->
-
-
-### y2v3 p.65–67 — Hoshinomiya at the Task site; her transfer proposal
-[scene] (p.65) Keeps Ayanokōji at the Grip Strength Measurement Task site as an excuse to talk, openly dissatisfied that her Class 2-C fell to Class C.
-[says] (p.65) "Sudō-kun has changed an awful lot, don'tcha think? I wonder who's responsible."
-[says] (p.65) "Anyway, I've really like, lost my cool here. This is the first time I've ever had a class go and drop down to Class C like this."
-[says] (p.65) "there always used to be an order to things. Class A would compete with Class B while Class C and Class D went at each other, you feel me~?"
-[says] (p.66) "you know what, Sensei's got a totally revolutionary idea for you!"
-[says] (p.66) "Ah! Me, me!" — covering her ears when he suggests it's her duty as homeroom teacher
-[says] (p.67) "There are two weeks until the end of the exam. I'm prolly gonna get sent around the island a lot, so maybe we'll meet each other again~."
-[trait] (p.65–67) Childlike and flirtatious ("a woman who had never truly graduated from her years as a student"), uses physical contact as a "weapon" but falters recalling his warning; proposes he transfer to her class (now Class C) to aim for Class A — a "revolutionary" idea Ayanokōji finds not at all clever.
-[rel:ayanokouji-kiyotaka] (p.65–67) Tries to recruit him; he declines with reasoned logic (20M points, uncertain Class A outcome) and hopes not to meet her again.
-[rel:sudou-ken] (p.65) Notes his dramatic growth; Ayanokōji credits Horikita.
 ### y2v3 p.16–27 — Hoshinomiya on stage with the watch
 [scene] (p.16) The Class 2-C homeroom teacher shares the briefing stage with Mashima; she says nothing on-mic.
 [scene] (p.23) She comes up on stage and hands a digital wristwatch to Mashima; a staff member fastens it with a special tool; the metrics appear on the screen.
@@ -502,6 +482,47 @@ aliases used for anchors: hoshinomiya, chie, hoshinomiya-sensei, chie-chan
 [rel:mashima-tomonari] (p.23–24) Stage partner for the briefing; hands him the watch; she models Table B.
 
 <!-- walk: y2v3 Ch.1 → p.42 -->
+
+
+### y2v3 p.62–64 — The C6 ambush: recruitment over a closed Task
+[scene] (p.62) Lies in wait in a tent at the C6 Task site to escape the heat, with nearly 20 students around; registration for Grip Strength Measurement has closed minutes ago; she sizes up Ayanokōji as he arrives.
+[says] (p.62) “You came all the way here, but unfortunately, registration closed up about five minutes ago.”
+[scene] (p.63–64) Grabs his arm to keep him around; laments Class 2-C’s fall to C rank; probes his math perfect score and whether Class 2-D holds secret outstanding students.
+[says] (p.63) “Oh don’t be in such a hurry! Feel free to sit back and watch for a while~.”
+[says:ayanokouji-kiyotaka] (p.63) “Don’t you think it’s wrong for a teacher to encroach on a student’s time just for their own convenience?”
+[says] (p.63) “Awh, c’mon~ Don’t exaggerate! You’ll have oodles of time after this~.”
+[says:ayanokouji-kiyotaka] (p.63) “My last designated area was D7, so it’s more than possible that my next will be here in area C6. If that happens, will you take responsibility for causing me to lose out on the Early Bird Bonus?”
+[says] (p.63) “C-cruel! Don’t be like that Ayanokōji-kun, teasing is a no-no~ I just wanted to chat a lil’ bit, that’s all. It’s like, I’ve been feelin’ pretty grumpy recently, so how ‘bout you sit back and hear me out?”
+[says] (p.63) “It’s been since the end-of-term exam, yeah? Since we’ve talked one-on-one like this, that is.”
+[says] (p.64) “Anywho, you’ve been attracting a lotta attention recently, you know? I didn’t think you were the type that liked standing out.”
+[says:ayanokouji-kiyotaka] (p.64) “I don’t.”
+[says] (p.64) “Then why’d you get that perfect score in math? I mean like, I think it’s pretty weird that you just went and got ‘em all right. There was even a problem that I wouldn’t have been able to get.”
+[says] (p.64) “Are there? Hmm… Are you like, guessing? Even if I assume you’re right here, I’d expect them to be like, Class A or B students at least. And what class are you in again, Ayanokōji-kun? A… B… C… Oh that’s right, Class D. Just say it out loud with me, ‘Class D’. This might sound rude or something, but the first thing that comes to mind for me when I say it is a laughable place chock full of problem children, filled to the brim with nothing but defects. And yet you wanna tell me that there are kids with outrageous specs like you mixed in with all that?”
+[says:ayanokouji-kiyotaka] (p.64) “While I don’t know about me, I think there are plenty of outstanding students in Class 2-D. Moreover, if you take a look at Class 1-D, there are plenty of outstanding students there too, don’t you think?”
+[says] (p.64) “Uh… That’s true and all, but like… the school’s policies have changed a bit since last year, yeah?”
+
+
+### y2v3 p.65–67 — The transfer pitch and Sudō’s first place
+[scene] (p.65) The Grip Strength Measurement Task begins; Sudō steps up without Ike and Hondō; she marvels at Sudō’s change and despairs over Class 2-C; covers her ears at the exam-duty suggestion.
+[says] (p.65) “I’ll agree that there are some outstanding Class D kids out there, sure, but I don’t think they’re good enough to keep their class together or anything. When it comes to you though, I get the impression that you’ve influenced your surroundings.”
+[says] (p.65) “Anyway, I’ve really like, lost my cool here. This is the first time I’ve ever had a class go and drop down to Class C like this. I dunno how to say it exactly. I mean, there always used to be an order to things. Class A would compete with Class B while Class C and Class D went at each other, you feel me~?”
+[says] (p.65) “I really thought that this class would be the one to reach Class A, but… well…”
+[says:ayanokouji-kiyotaka] (p.65) “Isn’t it your duty as the homeroom teacher to do something about that?”
+[says] (p.65) “What a cruel thing to say~!”
+[scene] (p.66–67) Pitches the Katsuragi-style transfer into Class 2-C — her “revolutionary” idea; her hand drifts toward him; he refuses with 20-million-point math and the Class-A uncertainty; Sudō takes first (neither Oshio nor anyone touches his score); she notes his growth and finally lets him go.
+[says] (p.66) “Ah! Me, me! You know what, Sensei’s got a totally revolutionary idea for you! Just like how Katsuragi-kun transferred to Class 2-B, Ayanokōji-kun can transfer over to my class! How ‘bout it?”
+[says:ayanokouji-kiyotaka] (p.66) “I was wondering where you were going with this. You’ve really put forward something outlandish, haven’t you?”
+[says] (p.66) “You’ll aim for Class A together with us, right? Right?”
+[says:ayanokouji-kiyotaka] (p.66) “I wouldn’t be able to come up with 20 million points even if I saved up until the day I graduate. Furthermore, as things are now, even if I found a way to prepare such a large number of points, there’s no way to tell which class will be Class A in the end. So don’t you think it would be wiser to wait until the final moment and see how things play out instead?”
+[says] (p.66) “Y-you don’t have to say it so impartially…”
+[says] (p.67) “Sudō-kun has changed an awful lot, don’t cha think? I wonder who’s responsible.”
+[says:ayanokouji-kiyotaka] (p.67) “Just for the record, it wasn’t me.”
+[says] (p.67) “There are two weeks until the end of the exam. I’m prolly gonna get sent around the island a lot, so maybe we’ll meet each other again~.”
+[trait] (p.62–67) Childlike, flirtatious and unfinished-as-an-adult; the 2-C drop stings her; recruits Ayanokōji with physical closeness; her pitch founders on his cold arithmetic; she lets him go with a pout.
+[rel:ayanokouji-kiyotaka] (p.62–67) Ambushes him at the Task site; pitches the transfer; he refuses; she marks their next encounter for the island.
+[rel:sudou-ken] (p.65–67) Watches Sudō’s first-place grip; wonders who is responsible for his change.
+
+<!-- walk: y2v3 Ch.2 → p.74 -->
 
 ## y2v4.5
 
