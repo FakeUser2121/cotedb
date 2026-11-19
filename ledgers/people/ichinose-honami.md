@@ -1839,8 +1839,8 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [says] (p.331) “What a bother…”
 [says:shibata-sou] (p.331) “Ichinose, is it really broken?”
 [says] (p.331) “Yeah, seems like it. I think it happened this morning when I fell by the river and hit it on a rock.”
-[says] (p.332) “I guess we should be grateful we’re not on the other side of the island, huh?”
-[says:shibata-sou] (p.332) “Yeah, that’s for sure.”
+[note] (p.331) “I guess we should be grateful we’re not on the other side of the island, huh?” — speaker untagged in the print; recorded unassigned.
+[note] (p.331) “Yeah, that’s for sure.” — speaker untagged in the print; recorded unassigned.
 [says:shibata-sou] (p.332) “For the time being, it looks like we’ll have no choice but to go back.”
 [scene] (p.332–334) The regroup; the D5 first day opposite direction; her resolve to rejoin by third designation; the split with Shibata at the E9 beach.
 [note] (p.332) “Well, since it’s busted I guess there’s no helping it, right Masumi-chan?” — speaker untagged in the print; recorded unassigned (candidate: Hashimoto or Kamuro).
@@ -1879,9 +1879,9 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [says:tsukishiro] (p.343) “I’m not so naive as to trust those words of yours. As adults, we always have to assume the worst and act accordingly, so I have no choice but to proceed under the premise that you heard everything.”
 [says:tsukishiro] (p.343) “Accidental as it may have been, you still heard it all. Information that should’ve never reached your ears, and yet, here we are.”
 [says:tsukishiro] (p.343) “If our conversation earlier were to leak to the public, Shiba-sensei and I would be in a great deal of trouble.”
-[says] (p.344) “I-I really didn’t hear anyth─”
+[says] (p.343) “I-I really didn’t hear anyth─”
 [says:tsukishiro] (p.344) “That’s not true. I’m speaking now under the firm premise that you did, remember?”
-[says:tsukishiro] (p.344) “Should we perhaps roughen you up a bit until you forget the memory, Ichinose-san? Your retirement would be soon to follow.”
+[says:tsukishiro] (p.343) “Should we perhaps roughen you up a bit until you forget the memory, Ichinose-san? Your retirement would be soon to follow.”
 [says:tsukishiro] (p.343) “I say that jokingly, of course. As the one entrusted with protecting this school, I would never truly say something like that. …a violent solution if at all possible. Therefore, I’ll offer you a proposal. If you tell a soul about any of this, I’ll personally see to it that a group composed entirely of Class 2-C students retires from the exam.”
 [says:tsukishiro] (p.344) “Naturally, this would be a group that doesn’t have the private points they’d need to save themselves.”
 [says:tsukishiro] (p.344) “Do you perhaps think it’d be impossible for me to do such a thing? As the man in control of the rules, fabricating a justification would be trivial. There’s no telling what might happen, especially out here on such an unsupervised, vast deserted island.”

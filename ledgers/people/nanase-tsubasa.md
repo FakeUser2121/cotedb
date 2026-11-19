@@ -1286,7 +1286,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [scene] (p.347–350) Her story unfurls in one long confession; the rain; her exhaustion; his silence; his patient evaluation.
 [says] (p.347) “I… I enrolled in this school because I wanted to avenge my childhood friend.”
 [says:ayanokouji-kiyotaka] (p.347) “Your childhood friend? You mean─”
-[says] (p.348) “Yes. Matsuo Eiichiro.”
+[says] (p.347) “Yes. Matsuo Eiichiro.”
 [says] (p.348) “I hadn’t truly realized it before enrolling here, but since this school is completely isolated from the outside world, there’s no way you could’ve known what happened, is there?”
 [says] (p.348) “From kindergarten up until the day he graduated from middle school, I was always together with Eiichiro-kun. He was a year above me and better than me at just about anything, from studies to the games we played together… He was my inspiration, my role model.”
 [says] (p.348) “Even after he was kicked out of his home, Eiichiro-kun said he wouldn’t give up until the very end, and that’s when he started working. While we weren’t able to see each other as often, I didn’t think the relationship between us would change.”
@@ -1323,7 +1323,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [scene] (p.360–362) Her POV on the cliff; the resolve to stay on pace; the grab at rock; the cliff-edge confession of her feelings; his rescue logic seen from her eyes.
 [says:ayanokouji-kiyotaka] (p.360) “What are you doing?”
 [says] (p.360) “Don’t… mind me. I will, catch up to you, at my own pace…!”
-[says:ayanokouji-kiyotaka] (p.361) “Retiring will be the least of your worries if you fall from here.”
+[says:ayanokouji-kiyotaka] (p.360) “Retiring will be the least of your worries if you fall from here.”
 [says:ayanokouji-kiyotaka] (p.361) “Grab on.”
 [says] (p.361) “N-no, I won’t have it. Since one of the conditions for following you was that you wouldn’t help me… Don’t mind me and go on, please.”
 [says] (p.361) “But…!”
@@ -1333,7 +1333,7 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [says] (p.361) “Senpai… have you ever climbed before?”
 [says:ayanokouji-kiyotaka] (p.361) “No, this is the first time I’m moving up like this.”
 [says] (p.361) “Is that so…”
-[mentioned] (p.360) “From what he brazenly did during the fight with Housen to this.” — Housen referenced; not present; POV Nanase.
+[mentioned] (p.361) “From what he brazenly did during the fight with Housen to this.” — Housen referenced; not present; POV Nanase.
 [trait] (p.360–362) Her fixation on never losing pace with him; his kindness offered from his own accord; his unfathomability; her vow to drag out “that person.”
 
 ### y2v3 p.365–367 — Nanase Tapestry SS: “What Could Be Seen From that Back” (her POV)
@@ -1345,10 +1345,10 @@ char_id: nanase-tsubasa · class: Year 2 transfer · status: unknown
 [says] (p.366) “I looked at the OAA app for any upperclassmen I had to be wary of when preparing for this special exam.”
 [says:ayanokouji-kiyotaka] (p.366) “That was an overwhelming victory.”
 [says] (p.366) “Thank you so much. I managed to win somehow.”
-[says] (p.367) “H-hey, Ayanokouji-senpai?”
-[says:ayanokouji-kiyotaka] (p.367) “Hmm?”
-[says] (p.367) “I can’t really relax when you are, staring at me like that…”
-[says:ayanokouji-kiyotaka] (p.367) “Whops, you’re right. My bad.”
+[says] (p.366) “H-hey, Ayanokouji-senpai?”
+[says:ayanokouji-kiyotaka] (p.366) “Hmm?”
+[says] (p.366) “I can’t really relax when you are, staring at me like that…”
+[says:ayanokouji-kiyotaka] (p.366) “Whops, you’re right. My bad.”
 [mentioned] (p.367) “Ayanokouji-senpai seems to be talking to Kiriyama-senpai” — Kiriyama named; not present; POV Nanase.
 [trait] (p.365–367) Her awe redirected into embarrassed stillness; her fear of letting her “plan” break; her decision to leave before he can see her unease.
 

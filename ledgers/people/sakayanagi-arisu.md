@@ -1369,7 +1369,7 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 
 ### y2v3 p.336–346 — Sakayanagi named at the slope
-[mentioned] (p.336) “But despite this impatience, she had successfully managed to form a formidable group at the request of Class A's leader, Sakayanagi. Therefore, in order to maintain parity with Class A, she needed now more than ever to demonstrate her competency.” — named as the architect of the Class 2-C combo group; not present; POV Ichinose.
+[mentioned] (p.335) “But despite this impatience, she had successfully managed to form a formidable group at the request of Class A’s leader, Sakayanagi.” — named as the architect of the Class 2-C combo group; not present; POV Ichinose.
 
 <!-- walk: y2v3 Epilogue → p.355 -->
 
@@ -1379,16 +1379,16 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 [says:ayanokouji-kiyotaka] (p.357) “Good day Ayanokouji-kun. It’s a rather hot day today, isn’t it?”
 [says:ayanokouji-kiyotaka] (p.357) “How are you?”
 [says] (p.357) “About as usual, considering it’s me. I’m having Ichinose-san and Shibata-kun do their best so I can’t say it’s been too indulging.”
-[says] (p.358) “I wanted to ask you something, can you still receive the arrival rewards?”
+[says:ayanokouji-kiyotaka] (p.357) “I wanted to ask you something, can you still receive the arrival rewards?”
 [says] (p.358) “I’m glad to say I’m still being recognised for that as it wasn’t my intention to retire after all.”
 [says] (p.358) “By the way, what affairs do you have for coming to the starting spot today, may I ask?”
 [says:ayanokouji-kiyotaka] (p.358) “One of them was a waste of effort in the end.”
 [says:ayanokouji-kiyotaka] (p.358) “The last spot was unfortunately taken by Kouenji already.”
 [says:ayanokouji-kiyotaka] (p.358) “He was 4th in the morning, but now he’s in 2nd place it seems. He really is the Wunderkind of Class 2-D if I may say so.”
-[says] (p.359) “We share the same opinion then.”
-[says] (p.359) “It should take about 30 mins before the task is over and Nanase-san comes back. Please take a seat. It’s rather refreshing here in the shade.”
-[says:ayanokouji-kiyotaka] (p.359) “How did you know about Nanase?”
-[says] (p.359) “I regularly receive information from all over the island.”
+[says] (p.358) “We share the same opinion then.”
+[says] (p.358) “It should take about 30 mins before the task is over and Nanase-san comes back. Please take a seat. It’s rather refreshing here in the shade.”
+[says:ayanokouji-kiyotaka] (p.358) “How did you know about Nanase?”
+[says] (p.358) “I regularly receive information from all over the island.”
 [says] (p.359) “Is that okay with you? I’m your enemy you know?”
 [says] (p.359) “Fufu, I don’t mind.”
 [note] (p.358–359) “The fact that he doesn’t seem to share that sentiment is a pity.” — POV Sakayanagi; his lack of romantic reciprocity noted.

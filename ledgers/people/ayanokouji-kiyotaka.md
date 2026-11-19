@@ -9155,7 +9155,7 @@ walk: y1v1 → DONE
 [says] (p.189) “Are you searching for something?”
 [says:nanase-tsubasa] (p.189) “No, please don’t worry about it.”
 [says:nanase-tsubasa] (p.189) “I’m glad that you managed to find Shinohara-senpai safe and sound.”
-[says] (p.189) “Sudō-senpai and the others are this way.” — NANASE (the one most familiar with the route). Fix: [says:nanase-tsubasa].
+[says:nanase-tsubasa] (p.189) “Sudō-senpai and the others are this way.”
 [says:nanase-tsubasa] (p.189) “It seems that Shinohara and her friends passed a group of first-years last night.”
 [says] (p.190) “First-years, you say?”
 [says] (p.190) “They probably set up camp somewhere nearby. But, she only said that they passed each other, so we can’t really say they’re the culprits here.”
@@ -9266,7 +9266,7 @@ walk: y1v1 → DONE
 [scene] (p.208–210) Day 4 of the exam; standings reveal; bottom ten (seven 3-B/3-D; last = 3-D trio 21 points; two 1st-year 2-person groups; the one second-year group — Akito/Haruka/Airi (classmates), 28 points, ninth from bottom; top rankings to check later (Nagumo first, Kiriyama second)); next area G3; he skips later areas for Shinohara's sake; Nanase consents.
 [says] (p.208) “This─”
 [says:nanase-tsubasa] (p.208) “It seems that some of your classmates are in a dangerous position, Senpai.”
-[says:nanase-tsubasa] (p.208) “All things considered, it’s surprising. To think so many third-year students would be at the bottom…” — Nanase. Fix.
+[says:nanase-tsubasa] (p.208) “All things considered, it’s surprising. To think so many third-year students would be at the bottom…”
 [says] (p.209) “To start out I’m going to aim for the Arrival Bonus at G3. But, I’ll probably skip the designated areas that come after that for a while.”
 [says:nanase-tsubasa] (p.209) “So there’s somewhere you want to go, even if it means missing out on the designated areas?”
 [says] (p.209) “Yeah. If you want to continue going for them, then we’ll have to split up at G3.”
@@ -9640,7 +9640,7 @@ walk: y1v1 → DONE
 [says:nanase-tsubasa] (p.295) “I know what you’re trying to do here, Senpai…”
 [says:nanase-tsubasa] (p.295) “It’s true that it’s improbable that I’ll be able to win against you if we keep going on like this. I’ll admit to that.”
 [says:nanase-tsubasa] (p.295) “‘I’… may not be able to beat you.”
-[says:nanase-tsubasa] (p.295) “Hyaaah!!!” — NANASE's second rush. Fix.
+[says:nanase-tsubasa] (p.295) “Hyaaah!!!”
 [says:nanase-tsubasa] (p.296) “Therefore…『I』will. Right here, right now.”
 [says] (p.296) “Who are you?”
 [says:nanase-tsubasa] (p.296) “『I』came back from ‘that place’ in order to put a stop to you.”
@@ -9705,42 +9705,42 @@ walk: y1v1 → DONE
 
 ### y2v3 p.346–355 — Tsukishiro's smile; Nanase's confession; the promise
 [scene] (p.346–355) The day-7 evening; the rain; Tsukishiro's smile; the aftermath of the fight — Nanase, beaten, tells everything: Eiichiro; his father's suicide; the Tsukishiro offer; his promise; her plan; his cold recognition of himself in it; his extended hand; her acceptance.
-[says:nanase-tsubasa] (p.347) “It’s my loss… Ayanokōji-senpai.” — NANASE. Fix.
+[says:nanase-tsubasa] (p.347) “It’s my loss… Ayanokōji-senpai.”
 [says] (p.347) “Can I take that to mean you’re finally convinced?”
-[says:nanase-tsubasa] (p.347) “Yes. It seems that, despite my best efforts, it truly isn’t possible for me to beat you Senpai.” — NANASE. Fix.
+[says:nanase-tsubasa] (p.347) “Yes. It seems that, despite my best efforts, it truly isn’t possible for me to beat you Senpai.”
 [says] (p.347) “If possible, how about you explain everything in detail? Why were you targeting me? If we don’t clear this up, there will be several issues later.”
-[says:nanase-tsubasa] (p.347) “That’s fair. You have a right to know─ No, I want you to know, Senpai.” — NANASE. Fix.
-[says:nanase-tsubasa] (p.347) “I… I enrolled in this school because I wanted to avenge my childhood friend.” — NANASE. Fix.
+[says:nanase-tsubasa] (p.347) “That’s fair. You have a right to know─ No, I want you to know, Senpai.”
+[says:nanase-tsubasa] (p.347) “I… I enrolled in this school because I wanted to avenge my childhood friend.”
 [says] (p.347) “Your childhood friend? You mean─”
-[says:nanase-tsubasa] (p.348) “Yes. Matsuo Eiichiro.” — NANASE. Fix.
-[says:nanase-tsubasa] (p.348) “I hadn’t truly realized it before enrolling here, but since this school is completely isolated from the outside world, there’s no way you could’ve known what happened, is there?” — NANASE. Fix.
-[says:nanase-tsubasa] (p.348) “From kindergarten up until the day he graduated from middle school, I was always together with Eiichiro-kun. He was a year above me and better than me at just about anything, from studies to the games we played together… He was my inspiration, my role model.” — NANASE. Fix.
-[says:nanase-tsubasa] (p.348) “Even after he was kicked out of his home, Eiichiro-kun said he wouldn’t give up until the very end, and that’s when he started working. While we weren’t able to see each other as often, I didn’t think the relationship between us would change.” — NANASE. Fix.
-[says:nanase-tsubasa] (p.349) “Even though he had given up on his education… Even though he had lost his father… He told me that he wouldn’t give up… That he’d look toward the future and try his best… He even smiled… And yet…” — NANASE. Fix.
-[says:nanase-tsubasa] (p.349) “Earlier this year, on the evening of February 14th, I paid a visit to Eiichiro-kun’s apartment. He was trying so hard, so I was hoping to at least make him feel a little bit better, but─” — NANASE. Fix.
-[says:nanase-tsubasa] (p.349) “‘If you can never meet again, then you’ll never be able to tell them how you feel.’ You said it yourself.” — NANASE. Fix.
-[says:nanase-tsubasa] (p.349) “I didn’t know very much about you or your father at the time. In fact, I had only just sent out my application to another high school when… that person appeared before me.” — NANASE. Fix.
+[says:nanase-tsubasa] (p.347) “Yes. Matsuo Eiichiro.”
+[says:nanase-tsubasa] (p.348) “I hadn’t truly realized it before enrolling here, but since this school is completely isolated from the outside world, there’s no way you could’ve known what happened, is there?”
+[says:nanase-tsubasa] (p.348) “From kindergarten up until the day he graduated from middle school, I was always together with Eiichiro-kun. He was a year above me and better than me at just about anything, from studies to the games we played together… He was my inspiration, my role model.”
+[says:nanase-tsubasa] (p.348) “Even after he was kicked out of his home, Eiichiro-kun said he wouldn’t give up until the very end, and that’s when he started working. While we weren’t able to see each other as often, I didn’t think the relationship between us would change.”
+[says:nanase-tsubasa] (p.349) “Even though he had given up on his education… Even though he had lost his father… He told me that he wouldn’t give up… That he’d look toward the future and try his best… He even smiled… And yet…”
+[says:nanase-tsubasa] (p.349) “Earlier this year, on the evening of February 14th, I paid a visit to Eiichiro-kun’s apartment. He was trying so hard, so I was hoping to at least make him feel a little bit better, but─”
+[says:nanase-tsubasa] (p.349) “‘If you can never meet again, then you’ll never be able to tell them how you feel.’ You said it yourself.”
+[says:nanase-tsubasa] (p.349) “I didn’t know very much about you or your father at the time. In fact, I had only just sent out my application to another high school when… that person appeared before me.”
 [says] (p.349) “You mean Tsukishiro?”
-[says:nanase-tsubasa] (p.349) “Yes. Back then, Acting Director Tsukishiro told me why Eiichiro-kun’s life had been thrown into turmoil. He said that the root cause of all of it had been that someone named Ayanokōji Kiyotaka had escaped from an establishment called ‘The White Room’ by enrolling at a school named ‘Advanced Nurturing High School’, and that he had made arrangements for me to enroll there myself.” — NANASE. Fix.
-[says:nanase-tsubasa] (p.349) “If I could successfully get you expelled, he promised to let me meet your father, Senpai. …and apologize to Eiichiro-kun, but…” — NANASE. Fix.
+[says:nanase-tsubasa] (p.349) “Yes. Back then, Acting Director Tsukishiro told me why Eiichiro-kun’s life had been thrown into turmoil. He said that the root cause of all of it had been that someone named Ayanokōji Kiyotaka had escaped from an establishment called ‘The White Room’ by enrolling at a school named ‘Advanced Nurturing High School’, and that he had made arrangements for me to enroll there myself.”
+[says:nanase-tsubasa] (p.349) “If I could successfully get you expelled, he promised to let me meet your father, Senpai. …and apologize to Eiichiro-kun, but…”
 [says] (p.350) “Tsukishiro told me that he had sent in a student from the White Room. Was that just a bluff?”
-[says:nanase-tsubasa] (p.350) “Uhm, what do you mean by that, Senpai? I don’t really know much about this ‘White Room’ thing to begin with.” — NANASE. Fix.
-[says:nanase-tsubasa] (p.350) “I knew that you weren’t the one at fault, Ayanokōji-senpai, but… I wanted… no, needed someone to take it out on… all my pent-up anger and frustration…” — NANASE. Fix.
-[says:nanase-tsubasa] (p.351) “I… I don’t know how I can face you anymore, Senpai… I’m so, so sorry…” — NANASE. Fix.
+[says:nanase-tsubasa] (p.350) “Uhm, what do you mean by that, Senpai? I don’t really know much about this ‘White Room’ thing to begin with.”
+[says:nanase-tsubasa] (p.350) “I knew that you weren’t the one at fault, Ayanokōji-senpai, but… I wanted… no, needed someone to take it out on… all my pent-up anger and frustration…”
+[says:nanase-tsubasa] (p.351) “I… I don’t know how I can face you anymore, Senpai… I’m so, so sorry…”
 [says] (p.351) “You don’t need to apologize. The anger you feel is perfectly justified.”
-[says:nanase-tsubasa] (p.351) “I’ve failed to carry out the Acting Director’s orders. There’s no point in me staying here anymore.” — NANASE. Fix.
+[says:nanase-tsubasa] (p.351) “I’ve failed to carry out the Acting Director’s orders. There’s no point in me staying here anymore.”
 [says] (p.351) “Will you drop out?”
-[says:nanase-tsubasa] (p.351) “It’s the least I can do to atone for my actions.” — NANASE. Fix.
-[says:nanase-tsubasa] (p.352) “Senpai…?” — NANASE. Fix.
+[says:nanase-tsubasa] (p.351) “It’s the least I can do to atone for my actions.”
+[says:nanase-tsubasa] (p.352) “Senpai…?”
 [says] (p.352) “If you’re really sorry, then please take back what you said just now.”
-[says:nanase-tsubasa] (p.352) “What… do you mean…?” — NANASE. Fix.
+[says:nanase-tsubasa] (p.352) “What… do you mean…?”
 [says] (p.352) “You have nothing to feel ashamed of. You simply tried your best to avenge your friend. But there’s a reason I can’t lose to you, since I believe that staying here at this school is the only way I have of going against ‘that man’, my father.”
 [says] (p.352) “If I could be a bit selfish here, I’d rather not hear about you leaving the school. Instead, I’d like you to cooperate with me. Even now, Tsukishiro is probably scheming to use this special exam to expel me and present me as a gift to my father. If that were to happen, all the painstaking efforts Matsuo Eiichiro went through to get me into this school would be for nothing.”
-[says:nanase-tsubasa] (p.352) “Are you saying that… I should’ve been doing the opposite this entire time?” — NANASE. Fix.
+[says:nanase-tsubasa] (p.352) “Are you saying that… I should’ve been doing the opposite this entire time?”
 [says] (p.352) “Can you lend me your hand?”
 [note] (p.352) “─It’s a promise.” — narration implied; recorded as the concluding gesture, not quoted speech.
 [says] (p.353) “You’ll catch a cold if you stay in the rain for too long, so let’s get going.”
-[says:nanase-tsubasa] (p.353) “…Okay.” — NANASE. Fix.
+[says:nanase-tsubasa] (p.353) “…Okay.”
 [rel:nanase-tsubasa] (p.346–355) The White Room agent, broken; her oath to him; his chess-piece intent.
 
 <!-- walk: y2v3 Epilogue → p.355 -->

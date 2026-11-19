@@ -315,8 +315,8 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 [says] (p.343) “Accidental as it may have been, you still heard it all. Information that should’ve never reached your ears, and yet, here we are.”
 [says] (p.343) “If our conversation earlier were to leak to the public, Shiba-sensei and I would be in a great deal of trouble.”
 [says] (p.343) “That’s not true. I’m speaking now under the firm premise that you did, remember?”
-[says] (p.344) “Should we perhaps roughen you up a bit until you forget the memory, Ichinose-san? Your retirement would be soon to follow.”
-[says] (p.344) “I say that jokingly, of course. As the one entrusted with protecting this school, I would never truly say something like that. …a violent solution if at all possible. Therefore, I’ll offer you a proposal. If you tell a soul about any of this, I’ll personally see to it that a group composed entirely of Class 2-C students retires from the exam.”
+[says] (p.343) “Should we perhaps roughen you up a bit until you forget the memory, Ichinose-san? Your retirement would be soon to follow.”
+[says] (p.343) “I say that jokingly, of course. As the one entrusted with protecting this school, I would never truly say something like that. …a violent solution if at all possible. Therefore, I’ll offer you a proposal. If you tell a soul about any of this, I’ll personally see to it that a group composed entirely of Class 2-C students retires from the exam.”
 [says] (p.344) “Naturally, this would be a group that doesn’t have the private points they’d need to save themselves.”
 [says] (p.344) “Do you perhaps think it’d be impossible for me to do such a thing? As the man in control of the rules, fabricating a justification would be trivial. There’s no telling what might happen, especially out here on such an unsupervised, vast deserted island.”
 [says:shiba-katsunori] (p.344) “Acting Director Tsukishiro, rather than showing such leniency, wouldn’t it be better to exercise your authority here? If Ichinose were to disappear, I doubt that Chabashira and Mashima would notice. Those two are only cautious when it comes to matters regarding Ayanokōji.”

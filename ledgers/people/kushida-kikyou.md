@@ -1958,7 +1958,6 @@ aliases used for anchors: kushida, kikyou, kikyō, kushida-san, kushida-chan
 [says] (p.315) “I’m going to get dirt on Ayanokōji and get him kicked outta here, no matter what it takes…!”
 [says:amasawa-ichika] (p.316) “Even if you get him expelled, that’s not going to solve anything. You do know that right?”
 [says:amasawa-ichika] (p.316) “I’ll say it again. Ayanokōji-senpai is a very special person to me. I’ll never allow him to get expelled by an outsider like you.”
-[says:amasawa-ichika] (p.316) “You freak! You’re not normal…!” — no wait, who says this? Sequence: “Amasawa reached out and mercilessly grabbed hold of my bangs… “You freak! You're not normal…!”” — Kushida crying out — [says]. Fix.
 [says] (p.316) “You freak! You’re not normal…!”
 [says:amasawa-ichika] (p.316) “How curious~! To think you’d start shaking in fear of a girl younger than you. But, well, I think it’s best you cherish that wonderful feeling, Kushida-senpai~.”
 [says:amasawa-ichika] (p.316) “You think you’re cuter than everyone, smarter than everyone, better than everyone… In short, you’re just hopelessly in love with yourself, aren’t you Kushida-senpai? Your mouth waters at the thought of asserting your dominance, always eager to take hold of other people’s secrets. Nonetheless, you hate the thought of losing that control you crave, forever unable to forgive those that know your secrets. Personally, I don’t mind this messed-up personality of yours.”

@@ -288,8 +288,8 @@ char_id: shibata-sou · class: Class 1-B · status: minor
 [scene] (p.331–334) The walk back with Ichinose; her watch broken; he volunteers to stick with her; she insists he return to the front; he consents with the rain warning.
 [says] (p.331) “Ichinose, is it really broken?”
 [says:ichinose-honami] (p.331) “Yeah, seems like it. I think it happened this morning when I fell by the river and hit it on a rock.”
-[says] (p.332) “I guess we should be grateful we’re not on the other side of the island, huh?”
-[says] (p.332) “Yeah, that’s for sure.”
+[note] (p.331) “I guess we should be grateful we’re not on the other side of the island, huh?” — speaker untagged in the print; recorded unassigned.
+[note] (p.331) “Yeah, that’s for sure.” — speaker untagged in the print; recorded unassigned.
 [says] (p.332) “For the time being, it looks like we’ll have no choice but to go back.”
 [says] (p.333) “Well, guess I’ll stick with Ichinose.”
 [says:ichinose-honami] (p.333) “Sorry Shibata-kun, for having to accompany me like this.”
