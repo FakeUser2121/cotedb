@@ -138,20 +138,20 @@ char_id: housen-kazuomi · class: Class 1-D · status: unknown
 
 
 ### y2v2 p.225–231 — Hōsen at the first-year rep gathering
-[scene] (p.225) Arrives last at the gathering, "with his terrifying white teeth as usual," refusing to pay or cooperate.
-[says] (p.225) "Don't call out my name like we're close, or I'll kill ya."
-[says] (p.225) "So y'all decided upon paying up?"
-[says] (p.226) "Oh? You want to get in my way?"
-[says] (p.226) "Huh, interesting. Come and try, if you can."
-[says] (p.227) "Looks like playing with ya is gonna be fun. I'll save it for next time."
-[says] (p.227) "Ah yea, it's a game." — on whether violence is a game
-[says] (p.228) "Ain't it just the small fry imploding as a result of fearing expulsion?"
-[says] (p.228) "If you beg me sincerely, I could also work with ya."
-[says] (p.230) "Your meek attitude is pissing me off, Yagami."
-[trait] (p.225–231) Violent, arrogant and provocative — shoves Takahashi down, nearly fights Utomiya, treats violence as a game, and dismisses Hatano's expulsion as "small fry imploding"; insists he can crush the upperclassmen alone; the entire first-year grade is being forced to negotiate around his refusal to cooperate.
+[scene] (p.225) Arrives last at the gathering, “with his terrifying white teeth as usual,” refusing to pay or cooperate.
+[says] (p.225) “Don't call out my name like we're close, or I'll kill ya.”
+[says] (p.225) “So y'all decided upon paying up?”
+[says] (p.226) “Oh? You want to get in my way?”
+[says] (p.226) “Huh, interesting. Come and try, if you can.”
+[says] (p.227) “Looks like playing with ya is gonna be fun. I'll save it for next time.”
+[says] (p.227) “Ah yea, it's a game.” — on whether violence is a game
+[says] (p.228) “Ain't it just the small fry imploding as a result of fearing expulsion?”
+[says] (p.228) “If you beg me sincerely, I could also work with ya.”
+[says] (p.230) “Your meek attitude is pissing me off, Yagami.”
+[trait] (p.225–231) Violent, arrogant and provocative — shoves Takahashi down, nearly fights Utomiya, treats violence as a game, and dismisses Hatano's expulsion as “small fry imploding”; insists he can crush the upperclassmen alone; the entire first-year grade is being forced to negotiate around his refusal to cooperate.
 [rel:utomiya-riku] (p.226–229) Nearly fights him; Utomiya suspects he got Hatano expelled.
 [rel:takahashi-osamu] (p.225–226) Shoves him down and threatens him.
-[rel:yagami-takuya] (p.230) Dismisses his cooperative, "meek" attitude.
+[rel:yagami-takuya] (p.230) Dismisses his cooperative, “meek” attitude.
 [rel:hatano] (p.228) Claims Hatano's expulsion was just fear-driven implosion.
 ## y2v3
 

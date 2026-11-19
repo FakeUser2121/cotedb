@@ -620,31 +620,25 @@ aliases used for anchors: kanzaki, ryuuji, ryūji, kanzaki-kun
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.46–49 — Kanzaki confronts Ayanokōji at Keyaki Mall
-[scene] (p.46–49) He accompanies Ichinose and is hostile toward Ayanokōji, suspecting he is hiding more than math — his legs, his fighting strength.
-[says] (p.47) "Judging from last year's OAA, you shouldn't have the strength to get a full score."
-[says] (p.49) "Then, what else? Is it just math? No, it can't be just math."
-[trait] (p.46–49) Sharp and on guard — he sees Ayanokōji as a threat to Class B's standing.
+### y2v2 p.46–52 — Kanzaki's interrogation
+[scene] (p.47) Sees Ayanokouji alone at Keyaki mall at 6:30; opens with the OAA discrepancy.
+[says] (p.47) “Judging from last year’s OAA, you shouldn’t have the strength to get a full score.”
+[scene] (p.48–49) He presses; Ichinose holds him back twice; he loses his cool for a moment.
+[says] (p.48) “So you’re saying that you’ve been hiding it all this time. It looks like you’re even more of an issue than I thought.”
+[says] (p.48) “Our alliance has been dissolved. There’s no doubt that Class 2-D is our enemy.”
+[says] (p.48) “This isn’t a dispute. It’s just necessary for us to know the true strength of our opponent.”
+[says] (p.48) “That’s true. He didn’t use dirty tricks as Ryuuen did as well. Still, there’s a few things I don’t like about him. Ichinose, you should be very aware of the fact that it’s not at all easy to be able to solve that extremely difficult question to get full marks. He says he’s following his comrade’s instructions but-”
+[says] (p.49) “Ayanokouji-kun did indeed hide the fact that he was good at math; this was a fact that had been hidden.”
+[says] (p.49) “Then, what else? Is it just math? No, it can’t be just math. What other abilities are you hiding? Did you hide those legs you’re so proud of during last year’s sports festival because of orders from your comrades? To Class B… No, Class C, the worst thing is that you still have other strengths hidden away.”
+[says] (p.49) “That might be true if it’s just a written test… but-”
+[says] (p.49) “It seems like I’ve indeed lost my cool.”
+[scene] (p.50) He leaves first into the mall; the talk is unfinished on purpose.
+[says] (p.50) “I’ll go first.”
+[trait] (p.46–52) The alliance is dead to him; guarding Class C is a duty he will see through to the end; he asks the questions nobody wants to hear.
+[rel:ichinose-honami] (p.46–52) His friend, his opposite, his shield.
+[rel:ayanokouji-kiyotaka] (p.46–52) An enemy whose file he refuses to close.
 
-<!-- walk: y2v2 Ch.1 → p.49 -->
-
-### y2v2 p.294–297 — Kanzaki asks Ayanokōji for help
-[scene] (p.294–297) He meets Ayanokōji at Keyaki Mall and asks if he can trust him; he reveals Ichinose is struggling and asks for help changing her mind.
-[says] (p.295) "Ayanokouji, Ichinose seems to trust you a lot, but can 'we' really trust you?"
-[trait] (p.294–297) Worried and desperate — he wants Ayanokōji to help Ichinose.
-
-<!-- walk: y2v2 Ch.5 → p.297 -->
-
-### y2v2 p.47–50 — Kanzaki's hostility toward Ayanokōji
-[scene] (p.47) Waiting with Ichinose at Keyaki Mall; his gaze is fixed more on her than on Ayanokōji.
-[says] (p.47) "Judging from last year's OAA, you shouldn't have the strength to get a full score."
-[says] (p.48) "So you're saying that you've been hiding it all this time. It looks like you're even more of an issue than I thought."
-[says] (p.49) "What other abilities are you hiding?"
-[says] (p.49) "Our overall scores in Class C are much higher than that."
-[says] (p.50) "It seems like I've indeed lost my cool."
-[trait] (p.47–50) Openly suspicious and thorny — presses Ayanokōji about the perfect score and other hidden abilities, argues Class B can make up the points gap as a whole, and is stopped by Ichinose's rare force; admits he lost his cool and leaves first, his reaction understandable given Class B's fall to Class C.
-[rel:ayanokouji-kiyotaka] (p.47–50) Views him as a hidden threat and potential enemy; rejects his explanation as incomplete.
-[rel:ichinose-honami] (p.48–50) His classmate; her naivety frustrates him, but he accepts her criticism.
+<!-- walk: y2v2 Ch.1 → p.53 -->
 ## y2v4
 
 <!-- walk: y2v4 → start -->

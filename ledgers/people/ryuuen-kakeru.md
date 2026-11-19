@@ -2250,10 +2250,10 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 ### y2v2 p.298–311 — Ryūen proposes a three-class alliance
 [scene] (p.298–303) He summons Ayanokōji and Katsuragi to a café and proposes a three-class alliance (A, B, D) to take down Sakayanagi.
-[says] (p.303) "The reward for getting 1st to 3rd place is enough to get within shooting distance of Class A."
+[says] (p.303) “The reward for getting 1st to 3rd place is enough to get within shooting distance of Class A.”
 [scene] (p.304–311) He reveals he knows Ayanokōji beat him and tries to recruit Katsuragi to Class B.
-[says] (p.304) "Not just you. Ayanokouji as well, who's spaced out over there just listening to us."
-[says] (p.308) "Come to Class B, Katsuragi."
+[says] (p.304) “Not just you. Ayanokouji as well, who's spaced out over there just listening to us.”
+[says] (p.308) “Come to Class B, Katsuragi.”
 [trait] (p.298–311) Calculating and bold — he uses money and leverage to build alliances.
 [rel:ayanokouji-kiyotaka] (p.298–311) He tries to recruit him.
 [rel:katsuragi-kouhei] (p.298–311) He tries to recruit him.
@@ -2262,18 +2262,18 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 ### y2v2 p.298–314 — Ryūen's three-class alliance and Katsuragi buyout
 [scene] (p.298) Summons Ayanokōji and Katsuragi to a Keyaki Mall café — an unlikely pair — to propose an alliance for the island exam.
-[says] (p.298) "What, do you want to stand while we talk? Sit down."
-[says] (p.298) "Kuku, don't admire him too much, Katsuragi– that's in the past."
-[says] (p.299) "Fuck off. Ichinose was off sinking on her own, she was never even on my radar."
-[says] (p.300) "I don't want any of that diplomatic crap, I want just straight answers."
-[says] (p.301) "It looks like it's the end of the road for the loser of the faction war, eh?"
-[says] (p.303) "Even so, Ichinose really did agree to team up with that woman."
-[says] (p.304) "Why would I call you here if you weren't." — to Ayanokōji
-[says] (p.305) "Stop with that poor acting. You're the man who beat me and shut me up."
-[says] (p.308) "Come to Class B, Katsuragi."
-[says] (p.311) "This is your fate. Accept it."
-[says] (p.313) "Why, it's the Trial card he received."
-[says] (p.313) "Sell it to me."
+[says] (p.298) “What, do you want to stand while we talk? Sit down.”
+[says] (p.298) “Kuku, don't admire him too much, Katsuragi– that's in the past.”
+[says] (p.299) “Fuck off. Ichinose was off sinking on her own, she was never even on my radar.”
+[says] (p.300) “I don't want any of that diplomatic crap, I want just straight answers.”
+[says] (p.301) “It looks like it's the end of the road for the loser of the faction war, eh?”
+[says] (p.303) “Even so, Ichinose really did agree to team up with that woman.”
+[says] (p.304) “Why would I call you here if you weren't.” — to Ayanokōji
+[says] (p.305) “Stop with that poor acting. You're the man who beat me and shut me up.”
+[says] (p.308) “Come to Class B, Katsuragi.”
+[says] (p.311) “This is your fate. Accept it.”
+[says] (p.313) “Why, it's the Trial card he received.”
+[says] (p.313) “Sell it to me.”
 [trait] (p.298–314) Bold and manipulative — taunts Katsuragi about his loss and Totsuka, proposes buying Sakayanagi's expulsion (a joke to gauge him), then offers ~20 million points to bring Katsuragi to Class B; wants Ayanokōji not as a group member but to buy his Trial card (aiming for 450 class points with first place).
 [rel:katsuragi-kouhei] (p.298–312) Exploits his vendetta to transfer him to Class B.
 [rel:ayanokouji-kiyotaka] (p.298–314) Knows he beat him; wants his Trial card.

@@ -1946,58 +1946,32 @@ aliases used for anchors: karuizawa, kei, karuizawa-san
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.83–91 — Kei visits Ayanokōji's room
-[scene] (p.83–85) She messages him and comes to his room; they study, talk, and nearly kiss before the doorbell rings.
-[says] (p.85) "I'll come!"
-[scene] (p.87–91) Amasawa arrives and forces her way in; Kei is angry and anxious about exposure.
-[says] (p.90) "Well isn't that normal! Anyway, why did you come here all of a sudden!"
-[trait] (p.83–91) Affectionate and vulnerable — she nearly kisses him, then is rattled by Amasawa's intrusion.
-[rel:ayanokouji-kiyotaka] (p.83–91) They nearly kiss; their secret relationship is threatened.
-[rel:amasawa-ichika] (p.87–91) Amasawa teases her and threatens exposure.
+### y2v2 p.15–22 — Karuizawa's math-genius theory
+[scene] (p.15–16) On the anger-out front of the class argument; she files Ayanokōji under TV-drama math genius.
+[says] (p.16) “Maybe Ayanokouji-kun is just a math genius! You know, sometimes in those TV dramas and stuff, isn’t there, like, a protagonist that only uses math or something to solve the murder case? I’m getting that kind of feeling.”
+[says] (p.16) “What’s the point in asking me that? Well, maybe it’s something like, he studied really hard during the spring break or something?”
+[says] (p.16) “I don’t know anything about that. So can you stop getting so angry so easily? You’re pissing me off.”
+[scene] (p.17) Maezono backs her; she digs into Yukimura with the “Maybe it’s just you” jab.
+[says] (p.17) “You’ve got a big mouth, but couldn’t it just be that you didn’t understand the question? Maybe it’s just you that couldn’t solve the question, but the question itself wasn’t that hard, was it?”
+[says] (p.17) “Then maybe he just happened to know that question?”
+[says] (p.17) “So what’s the problem? That’s what I said, that he was a math genius, right?”
+[says] (p.17) “Ah, sorry for interrupting. I had a thought…”
+[scene] (p.20) Picks Sudō's growth story against Miyamoto; then revives her own math-genius reading.
+[says] (p.20) “Isn’t it just as Sudo-kun says? After all, Sudo-kun’s academic ability surpassed Miyamoto-kun’s too.”
+[says] (p.20) “So that’s why there’s a possibility that he’s holding back, just like Koenji!”
 
-<!-- walk: y2v2 Ch.2 → p.91 -->
+### y2v2 p.36–39 — Karuizawa protects Horikita
+[scene] (p.36–37) She strikes with a casual statement that pulls the room off Ayanokōji and onto Horikita.
+[says] (p.37) “Horikita-san really is good, isn’t she? I’m a little moved.”
+[says] (p.37) “Don’t you think so as well, Shinohara-san?”
+[scene] (p.39) Laughs with the girls at the center as the class empties after the meeting.
+[trait] (p.15–39) Fast, insincere on the surface, shrewd in the play: she senses the temperature of the room and shifts the spotlight when it matters.
+[rel:ayanokouji-kiyotaka] (p.15–39) Her dramas orbit his anomaly.
+[rel:yukimura-teruhiko] (p.15–22) She snipes at him and wins the exchange.
+[rel:shinohara-satsuki] (p.37) She recruits her to the cover.
+[rel:sudou-ken] (p.20) She cites his OAA jump to corner Miyamoto.
 
-### y2v2 p.198–202 — Kei asks to group up with Ayanokōji
-[scene] (p.198–202) She asks to be in his group; he explains he's going solo for flexibility; she worries about expulsion (short 760,000 points), and he offers to sell his Trial card to get her points.
-[says] (p.198) "Kiyotaka, if it's you, are you able to take first place?"
-[says] (p.201) "It's more important to prevent you from getting expelled."
-[trait] (p.198–202) Anxious about expulsion but trusting — she accepts his offer to sell the card.
-[rel:ayanokouji-kiyotaka] (p.198–202) He offers to protect her.
-
-<!-- walk: y2v2 Ch.3 → p.202 -->
-
-### y2v2 p.12–22 — Kei argues with Yukimura over the perfect score
-[scene] (p.16) She laments that her scores are now visible to everyone via the OAA, then suggests Ayanokōji might just be a "math genius" like in TV dramas.
-[says] (p.16) "Maybe Ayanokouji-kun is just a math genius! You know, sometimes in those TV dramas and stuff…"
-[scene] (p.16–17) She and Yukimura clash heatedly; Maezono sides with her.
-[says] (p.17) "You've got a big mouth, but couldn't it just be that you didn't understand the question?"
-[scene] (p.36–37) She covers for Ayanokōji by drawing Shinohara in to support Horikita's story.
-[trait] (p.12–37) Defensive and quick to argue, but loyal and strategically helpful when needed.
-
-<!-- walk: y2v2 Ch.1 → p.37 -->
-
-### y2v2 p.15–18 — Karuizawa's "math genius" theory and the argument
-[says] (p.16) "Maybe Ayanokouji-kun is just a math genius!"
-[says] (p.16) "sometimes in those TV dramas and stuff, isn't there, like, a protagonist that only uses math or something to solve the murder case?"
-[says] (p.16) "Waaah, I hate this! Wouldn't this mean that a lot of people will know my scores? This is the worst!"
-[says] (p.17) "You've got a big mouth, but couldn't it just be that you didn't understand the question?"
-[says] (p.16) "You're pissing me off."
-[trait] (p.15–18) Laments that the tablet lets other classes see everyone's scores; offers the off-the-point "math genius" theory and plays the fool deliberately even knowing her words are far-fetched; grows angry at Yukimura's blunt dismissal.
-[rel:ayanokouji-kiyotaka] (p.16–18) Speculates he's a "math genius" or hid his ability.
-[rel:yukimura-teruhiko] (p.16–18) Arguments escalate with him; he calls her words stupid.
-[rel:maezono] (p.17) Maezono backs her up and fires back at Yukimura.
-
-### y2v2 p.100–107 — Karuizawa and Amasawa in Ayanokōji's room
-[scene] (p.100) Studying with Ayanokōji when Amasawa arrives; she becomes angry (afraid Amasawa will expose their secret relationship) but is lost for words at the lewd questions.
-[narrates:amasawa-ichika] (p.100) "I thought you would have an illicit sexual relationship for sure… I mean having sex."
-[note] (p.100–103) Amasawa openly reveals she helped Hōsen with the knife plot and mentions the 20-million bounty — information Ayanokōji hadn't told Karuizawa; Karuizawa is startled and asks what it means.
-[says] (p.102) "Wa-wait a minute. You said you were going to get Kiyotaka expelled… What does that mean?"
-[says] (p.106) "Hey! Don't go writing in my notebooks without permission!"
-[says] (p.106) "Not at all!"
-[says] (p.107) "Huh? What do you mean? Not drinking? You told me to make it though?!"
-[trait] (p.100–107) Jealous, suspicious and short-tempered — fears Amasawa will expose the relationship, is goaded into making her coffee (with milk and sugar) rather than talk with her, warns her off her notebook, and is openly disgusted by Amasawa's teasing.
-[rel:amasawa-ichika] (p.100–107) Hostile toward her; learns she helped Hōsen and is forced to serve her coffee.
-[rel:ayanokouji-kiyotaka] (p.100–107) His girlfriend; learns new details about the bounty and the knife plot from Amasawa.
+<!-- walk: y2v2 Ch.1 → p.39 -->
 ## y2v3
 
 <!-- walk: y2v3 → start -->

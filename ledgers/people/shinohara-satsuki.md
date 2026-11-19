@@ -383,25 +383,20 @@ char_id: shinohara-satsuki · class: Class 1-D (enrolled April 2015) · status: 
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.168–177 — Shinohara is courted by Ike and Komiya
-[scene] (p.168–171) Ike tries to recruit her into his group; Kushida interrupts with an invitation from Kobashi (Class C); Shinohara is annoyed by Ike's persistence.
-[scene] (p.174–177) She agrees to meet Komiya at a café; Ike is upset.
-[trait] (p.168–177) Pragmatic and slightly exasperated by Ike's advances.
-[rel:ike-kanji] (p.168–177) She is annoyed by his recruitment attempt.
-[rel:komiya-kyogo] (p.174–177) She agrees to meet him at a café.
+### y2v2 p.15–19 — Shinohara in the uproar
+[scene] (p.15) She swipes the tablet Yukimura hands her, incredulous that the 2nd-year results are published.
+[says] (p.15) “Do tell me more.”
+[says] (p.15) “I didn’t even notice. You can even see the results of the other classes. Why is that?”
+[says] (p.15) “Waaah, I hate this! Wouldn’t this mean that a lot of people will know my scores? This is the worst!”
+[scene] (p.19) Stands beside Ike; the class's talk turns to cheating; she cannot parse the leap.
+[says] (p.19) “Cheat? How would he even cheat?”
+[scene] (p.37–38) Recruited by Karuizawa to ratify the cover story; plays along with flawless instinct.
+[says] (p.37) “That’s right! I feel like I’ve been seeing Horikita-san and Ayanokouji-kun talking secretly for a long time now, but it turns out that they’re really just doing it for the class!”
+[trait] (p.15–38) Quick, trusting, literal — a player piece without knowing it; the class uses her credibility both ways.
+[rel:karuizawa-kei] (p.37) She does Karuizawa's bidding without realizing the play.
+[rel:yukimura-teruhiko] (p.15–38) She watches his meltdown and echoes it.
 
-<!-- walk: y2v2 Ch.3 → p.177 -->
-
-### y2v2 p.12–22 — Shinohara joins the speculation
-[scene] (p.15) She joins the group discussion, asking how hard the exam questions were.
-[says] (p.15) "Was the question that hard?"
-[scene] (p.19) She asks Sudō how Ayanokōji could have cheated.
-[says] (p.19) "Cheat? How would he even cheat?"
-[scene] (p.36–37) Kei draws her in to support Horikita's cover story.
-[trait] (p.12–37) Curious and outspoken — engages with the debate directly.
-
-<!-- walk: y2v2 Ch.1 → p.37 -->
-
+<!-- walk: y2v2 Ch.1 → p.38 -->
 ## y2v3
 
 <!-- walk: y2v3 → start -->

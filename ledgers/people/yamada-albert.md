@@ -234,7 +234,7 @@ char_id: yamada-albert · class: Class 1-C (enrolled April 2015) · status: mino
 
 ### y2v2 p.160–167 — Albert supports inviting Ayanokōji
 [scene] (p.160–167) He nods in agreement when Ishizaki and Hiyori invite Ayanokōji to join Ryūen's group.
-[says] (p.162) "That was high praise, Ayanokouji-kun, but my opinion is also the same."
+[says] (p.162) “That was high praise, Ayanokouji-kun, but my opinion is also the same.”
 [trait] (p.160–167) Loyal to Ryūen's faction.
 
 <!-- walk: y2v2 Ch.3 → p.167 -->

@@ -49,18 +49,18 @@ char_id: utomiya-riku · class: Class 1-C · status: unknown
 
 
 ### y2v2 p.221–231, 264–270 — Utomiya: representative and Hōsen-plot mastermind
-[scene] (p.221) Arrives at the first-year rep gathering (Class 1-C), sent because his classmates avoid "troublesome matters"; later approaches Ayanokōji at the convenience store with Tsubaki.
-[says] (p.222) "Although I don't think I'm the type to be a leader, I came because the other students didn't want to come."
-[says] (p.222) "We've recently lost a comrade. Honestly, it's quite a heavy loss."
-[says] (p.222) "He had once said to me that he wanted us to join the student council together and create a livelier environment for everyone in this school." — on Hatano
-[says] (p.226) "Housen, don't bring your violent tendencies here."
-[says] (p.227) "I suspect that you're the one who got Hatano expelled. He's not the kind of student who would easily break the school rules."
-[says] (p.228) "I remember clearly the look on his face when he got expelled. He had been tricked by someone."
-[says] (p.264) "It's about Housen Kazuomi."
-[says] (p.266) "We want to take Housen by surprise on the uninhabited island exam."
-[says] (p.267) "In Class C, a boy named Hatano was expelled from the school. I think Housen had something to do with it."
+[scene] (p.221) Arrives at the first-year rep gathering (Class 1-C), sent because his classmates avoid “troublesome matters”; later approaches Ayanokōji at the convenience store with Tsubaki.
+[says] (p.222) “Although I don't think I'm the type to be a leader, I came because the other students didn't want to come.”
+[says] (p.222) “We've recently lost a comrade. Honestly, it's quite a heavy loss.”
+[says] (p.222) “He had once said to me that he wanted us to join the student council together and create a livelier environment for everyone in this school.” — on Hatano
+[says] (p.226) “Housen, don't bring your violent tendencies here.”
+[says] (p.227) “I suspect that you're the one who got Hatano expelled. He's not the kind of student who would easily break the school rules.”
+[says] (p.228) “I remember clearly the look on his face when he got expelled. He had been tricked by someone.”
+[says] (p.264) “It's about Housen Kazuomi.”
+[says] (p.266) “We want to take Housen by surprise on the uninhabited island exam.”
+[says] (p.267) “In Class C, a boy named Hatano was expelled from the school. I think Housen had something to do with it.”
 [trait] (p.221–270) Calm, reliable and determined — stands up to Hōsen physically (grabs his arm), correctly suspects he engineered Hatano's expulsion, and plots to force Hōsen out of Class 1-D by denying him points/bounty; notes Class C lost 100 points from Hatano's exit.
-[rel:housen-kazuomi] (p.226–270) Confronts him and plots his expulsion; Hōsen finds his resolve "interesting."
+[rel:housen-kazuomi] (p.226–270) Confronts him and plots his expulsion; Hōsen finds his resolve “interesting.”
 [rel:yagami-takuya] (p.221–231) Fellow representative; they debate strategy (Utomiya wants to isolate Class D).
 [rel:takahashi-osamu] (p.223–231) Fellow representative; he proposes isolating Class D.
 [rel:hatano] (p.222–267) His Class 1-C comrade, an A-rated student expelled (suspected Hōsen's doing).

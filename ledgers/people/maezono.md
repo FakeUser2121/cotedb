@@ -48,14 +48,13 @@ char_id: maezono · class: Class 1-D · status: minor
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.12–22 — Maezono sides with Kei in the classroom argument
-[scene] (p.17) She backs Karuizawa against Yukimura during the heated exchange over Ayanokōji's perfect score.
-[says] (p.17) "Yeah, yeah! Isn't it weird that you're taking your anger out on Karuizawa-san?"
-[trait] (p.17) Quick to defend her friends in a dispute.
+### y2v2 p.16–17 — Maezono backs Karuizawa
+[scene] (p.16) Fires back at Yukimura at the boiling point, helping Karuizawa.
+[says] (p.16) “Yeah, yeah! Isn’t it weird that you’re taking your anger out on Karuizawasan?”
+[rel:karuizawa-kei] (p.16–17) His ally in the argument.
+[rel:yukimura-teruhiko] (p.16–17) Target of the jab.
 
 <!-- walk: y2v2 Ch.1 → p.17 -->
-
-
 ## y2v5
 
 <!-- walk: y2v5 → start -->

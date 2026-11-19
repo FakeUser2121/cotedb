@@ -1785,37 +1785,32 @@ aliases used for anchors: ichinose, honami, ichinose-san
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.46–52 — Ichinose meets Ayanokōji at Keyaki Mall
-[scene] (p.46–47) She bumps into Ayanokōji at Keyaki Mall and congratulates him on the perfect score; Kanzaki is suspicious and hostile.
-[says] (p.47) "Say, I've seen your exam results. You actually got a perfect score in math, that's amazing!"
-[scene] (p.48–51) She defuses Kanzaki's argument, then privately tells Ayanokōji to trust his classmates and promises to protect him from expulsion.
-[says] (p.48) "Ayanokouji-kun is not our enemy."
-[says] (p.50) "Class 1-B, the class that only you protected, that class doesn't exist anymore."
-[says] (p.51) "I won't ever let you get expelled."
-[trait] (p.46–52) Pacifist but resolute — she stands up to Kanzaki's hostility and reassures Ayanokōji.
+### y2v2 p.46–52 — Ichinose and Kanzaki at Keyaki mall
+[scene] (p.47) She calls out to Ayanokōji at the mall entrance at 6:30 with Kanzaki beside her.
+[says] (p.47) “Ayanokouji-kun, are you waiting for someone?”
+[says] (p.47) “Say, I’ve seen your exam results. You actually got a perfect score in math, that’s amazing!”
+[scene] (p.48–49) She checks Kanzaki's interrogation of Ayanokōji; then private.
+[says] (p.48) “Ayanokouji-kun is not our enemy.”
+[says] (p.48) “That’s…but there’s no point for us to engage in a pointless dispute!”
+[says] (p.49) “However, there’s a limit to test scores. No matter how good you are at studying, the max you can get on a subject is 100 points, and the highest grade is an A+. Even if he gets full marks in all of them, there’s not much of a gap between him and Sakayanagi-san, the second in the year.”
+[says] (p.49) “Our overall scores in Class C are much higher than that. The point difference from Ayanokouji-kun after showing his true strength, we just have to make up for that with our whole class.”
+[says] (p.49) “We should stop here, Kanzaki-kun. You also know that this isn’t a thing we should be arguing about heatedly here, right?”
+[scene] (p.50–52) After Kanzaki leaves, she chooses her path aloud.
+[says] (p.50) “I’m sorry, but given the current situation, Kanzaki-kun definitely doesn’t have much legroom.”
+[says] (p.50) “Do you remember what I told you before?”
+[says] (p.51) “There may be students who want to change their own class appearing from … now on, just like Kanzaki. Or there may be some that are dissatisfied with you and want to stop you. Maybe even some that will betray the class too. It won’t be surprising to think some will do whatever just to make a change. Class 1-B, the class that only you protected, that class doesn’t exist anymore.”
+[says] (p.51) “No matter what happens from here, I want for you to trust your classmates, put their safety first and continue the fight.”
+[says] (p.52) “Dissatisfied…?”
+[says] (p.52) “T-that… y-yeah… I’ll …definitely…stay.”
+[says] (p.52) “Y-you…. Are really amazing, Ayanokouji-kun…”
+[says] (p.52) “Even so that’s still amazing. It just means you have a weapon that won’t lose to anyone else.”
+[says] (p.52) “That would be nice, but…”
+[says] (p.52) “…I need to leave soon. We’re standing too much out here, and I feel bad letting Kanzaki wait for me.”
+[trait] (p.46–52) Chooses trust over suspicion; the Class 2-C collapse (formerly Class B) is certain to her — she is already weighing whether she must be the one to leave first for the class's sake.
+[rel:ayanokouji-kiyotaka] (p.46–52) She sees a king she would follow anywhere.
+[rel:kanzaki-ryuuji] (p.46–52) She knows he is right in practice and loses to him in argument.
 
 <!-- walk: y2v2 Ch.1 → p.52 -->
-
-### y2v2 p.203–218 — Ichinose meets Sakayanagi
-[scene] (p.203–204) Sakayanagi invites Ichinose to meet at Keyaki Mall; Ichinose is surprised but agrees.
-[says] (p.203) "Is this a good time? Since I asked so suddenly, I was also prepared for you"
-[trait] (p.203–218) Open and willing — she accepts the meeting despite the surprise.
-[rel:sakayanagi-arisu] (p.203–218) They meet at Sakayanagi's invitation.
-
-<!-- walk: y2v2 Ch.3 → p.218 -->
-
-### y2v2 p.47–52 — Ichinose at Keyaki Mall: praise and a warning
-[scene] (p.47) Waiting at Keyaki Mall with Kanzaki, bumps into Ayanokōji and congratulates him on the perfect math score.
-[says] (p.47) "Ayanokouji-kun, are you waiting for someone?"
-[says] (p.47) "You actually got a perfect score in math, that's amazing!"
-[says] (p.48) "Ayanokouji-kun is not our enemy."
-[says] (p.48) "No matter what class it is, they'll have their own ideas, and of course, their own strategies."
-[says] (p.51) "I want for you to trust your classmates, put their safety first and continue the fight."
-[says] (p.51) "It's okay. I'm definitely going to protect them. If there comes a time someone from my class has to leave, I think I will be the first one."
-[says] (p.52) "Y-you…. Are really amazing, Ayanokouji-kun…"
-[trait] (p.47–52) Pleasant to Ayanokōji even after Class B's fall, but still herself (choosing to trust, not merely ignoring Kanzaki's warnings); vows she'd be the first to leave rather than let a classmate be expelled; departs embarrassed but resolved to stay, her eyes lit with Ayanokōji's "fire."
-[rel:ayanokouji-kiyotaka] (p.47–52) Defends him against Kanzaki, receives his promise never to let her be expelled, and renews her resolve to protect her class.
-[rel:kanzaki-ryuuji] (p.48–50) Checks his hostility; insists Ayanokōji isn't their enemy and stops his argument in a rare forceful tone.
 ## y2v3
 
 <!-- walk: y2v3 → start -->

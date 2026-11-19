@@ -600,9 +600,9 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 ### y2v2 p.75–82 — Nagumo accepts Horikita and challenges Ayanokōji
 [scene] (p.75–78) He accepts Horikita into the student council with a condition, warning her that past presidents graduated in Class A; he invites Ayanokōji to join too (declined).
-[says] (p.75) "Well, what a turn of events! I don't really want to obediently say yes."
+[says] (p.75) “Well, what a turn of events! I don't really want to obediently say yes.”
 [scene] (p.79–82) He tells Ayanokōji to look forward to playing together in summer, then probes Kiriyama about why he attended.
-[says] (p.81) "I'll play with you, so look forward to it."
+[says] (p.81) “I'll play with you, so look forward to it.”
 [trait] (p.75–82) Calculating and playful — he tests both Horikita and Ayanokōji while keeping Kiriyama off balance.
 [rel:horikita-suzune] (p.75–78) Accepts her into the council.
 [rel:ayanokouji-kiyotaka] (p.79–82) Challenges him directly.
@@ -611,18 +611,18 @@ char_id: nagumo-miyabi · role: Student Council President-elect (2nd year) · st
 
 ### y2v2 p.75–81 — Nagumo admits Horikita; challenges Ayanokōji
 [scene] (p.75) In the student council office, receives Horikita and Ayanokōji; welcomes the conversation but invites her straight to the point.
-[says] (p.75) "So what did you want to talk to me about? You didn't come just to talk, right?"
-[says] (p.75) "Well, what a turn of events! I don't really want to obediently say yes."
-[says] (p.78) "In other words, can I assume that you have the intention to become the student council president?"
-[says] (p.78) "She doesn't look that similar to him, but she really is Horikita-senpai's little sister!"
-[says] (p.78) "Welcome to the student council. From today onward, I want you to work for me as a member of the council without any worries, Suzune."
-[says] (p.80) "Then show me that isn't just all talk."
-[says] (p.80) "Are you going to join the student council by the way? Ayanokouji."
-[says] (p.81) "I knew you would say that."
-[says] (p.81) "I'll play with you, so look forward to it."
-[says] (p.81) "Sakayanagi, Ichinose, Ryuuen. Those people would probably cry from the joy."
-[trait] (p.75–81) Meritocratic and open (admits anyone to the council regardless of reason, unlike Manabu), with a sharp eye for lies — sees through Horikita's half-truths but values her ambition; after she joins, pivots to Ayanokōji, inviting him then declaring he'll "play" with him over summer — "an order from the strong to the weak."
-[rel:horikita-suzune] (p.75–80) Questions her closely, welcomes her to the council, calls her "Suzune," and motivates her to aim for Class A.
+[says] (p.75) “So what did you want to talk to me about? You didn't come just to talk, right?”
+[says] (p.75) “Well, what a turn of events! I don't really want to obediently say yes.”
+[says] (p.78) “In other words, can I assume that you have the intention to become the student council president?”
+[says] (p.78) “She doesn't look that similar to him, but she really is Horikita-senpai's little sister!”
+[says] (p.78) “Welcome to the student council. From today onward, I want you to work for me as a member of the council without any worries, Suzune.”
+[says] (p.80) “Then show me that isn't just all talk.”
+[says] (p.80) “Are you going to join the student council by the way? Ayanokouji.”
+[says] (p.81) “I knew you would say that.”
+[says] (p.81) “I'll play with you, so look forward to it.”
+[says] (p.81) “Sakayanagi, Ichinose, Ryuuen. Those people would probably cry from the joy.”
+[trait] (p.75–81) Meritocratic and open (admits anyone to the council regardless of reason, unlike Manabu), with a sharp eye for lies — sees through Horikita's half-truths but values her ambition; after she joins, pivots to Ayanokōji, inviting him then declaring he'll “play” with him over summer — “an order from the strong to the weak.”
+[rel:horikita-suzune] (p.75–80) Questions her closely, welcomes her to the council, calls her “Suzune,” and motivates her to aim for Class A.
 [rel:ayanokouji-kiyotaka] (p.80–81) Invites him to the council (he declines), then issues a veiled challenge.
 [rel:horikita-manabu] (p.77) Horikita's brother, whose traditions he replaced with reforms.
 [rel:kiriyama] (p.78, 80) His vice president, who reacts with surprise at his invitation to Ayanokōji.

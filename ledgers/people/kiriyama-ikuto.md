@@ -127,7 +127,7 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 
 ### y2v2 p.78–82 — Kiriyama attends the council meeting and is shaken
 [scene] (p.78–82) He attends Horikita's council meeting; Nagumo probes why he came, and Kiriyama nervously claims he was just interested in Horikita's sister.
-[says] (p.82) "I just was interested in Horikita-senpai's little sister, anything wrong with that?"
+[says] (p.82) “I just was interested in Horikita-senpai's little sister, anything wrong with that?”
 [trait] (p.78–82) Nervous and on edge — the battle with Nagumo is already settled against him.
 [rel:nagumo-miyabi] (p.82) Nagumo probes him; he is shaken.
 
@@ -135,7 +135,7 @@ char_id: kiriyama-ikuto · class: Class 2-B · status: minor (student council)
 
 ### y2v2 p.272–278 — Kiriyama warns Ayanokōji about Horikita
 [scene] (p.272–278) He meets Ayanokōji and warns him not to interfere with Nagumo; he reveals he wanted to battle Nagumo personally but has given up; Horikita appears and he warns about her involvement.
-[says] (p.274) "I don't want you to get in my way."
+[says] (p.274) “I don't want you to get in my way.”
 [trait] (p.272–278) Defeated and cautious — he advises Ayanokōji to stay out of Nagumo's way.
 [rel:ayanokouji-kiyotaka] (p.272–278) He warns him about Horikita and Nagumo.
 

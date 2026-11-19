@@ -1450,36 +1450,16 @@ aliases used for anchors: chabashira, sae, chabashira-sensei, chiyabashira
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.23–26 — Chabashira waits for Ayanokōji after Tsukishiro's summons
-[scene] (p.23–26) She waits for Ayanokōji near the reception room after his summons by Tsukishiro, overjoyed by his perfect score; he worries her presence is unnatural and careless, but she can't suppress her joy.
-[trait] (p.23–26) Emotionally invested in his success — her poker face fails, which he finds comical and risky.
+### y2v2 p.23–26 — Chabashira waits
+[scene] (p.23) Waiting not far from the reception room when Ayanokōji emerges under Tsukishiro's watch; she falls in beside him casually.
+[says] (p.24) “You’ll be a bit of a celebrity from now on.”
+[says] (p.25) “Ignoring the students in the other classes for a moment, how are you going to explain it to your own class? You’ve always done your best to try and seem inconspicuous, but suddenly you get a perfect score in that difficult math test. Of course they won’t leave you alone now. Have you prepared for this scenario beforehand?”
+[says] (p.25) “This is going to be hard for you. Prepare yourself to be bombarded with questions.”
+[note] (p.24–26) The perfect-score uproar has moved her; the homeroom-teacher mask slips — she is overflowing with joy she tries to suppress, and fails with him specifically; she does not know the White Room exists.
+[rel:ayanokouji-kiyotaka] (p.23–26) She waits for him wrongly, eagerly, openly — to him, a manipulable counterpart.
+[rel:tsukishiro] (p.23) She was briefed against leaving without seeing him; the summons was hers to answer for too.
 
 <!-- walk: y2v2 Ch.1 → p.26 -->
-
-### y2v2 p.117–128 — Chabashira announces the uninhabited island exam
-[scene] (p.117–128) She announces the summer special exam: two weeks on an uninhabited island, all school years competing, with a luxury cruise afterward; she explains the group rules (max 3 per same-year group, gender ratios).
-[says] (p.119) "You will have to participate in the \"Uninhabited Island Survival\" special exam and compete with each other."
-[trait] (p.117–128) Informative and measured — she delivers the rules clearly.
-
-<!-- walk: y2v2 Ch.3 → p.128 -->
-
-### y2v2 p.328–329 — Chabashira's pre-exam speech
-[scene] (p.328–329) She gives a serious pre-exam speech, warning the class not to get complacent and hoping no one disappears.
-[says] (p.329) "I've only got one wish for all of you. If you can, don't let a single one of your classmates disappear, and return to this classroom once again."
-[trait] (p.328–329) Stern and caring — she warns the class about the difficulty ahead.
-
-<!-- walk: y2v2 Epilogue → p.329 -->
-
-### y2v2 p.117–132 — Chabashira's island exam briefing
-[says] (p.117) "It's true that we'll be discussing the topic of the special exam after this, but to maintain the suspense for a bit longer, I'll pick it up later."
-[says] (p.118) "From August 4 to August 11, you can enjoy to your heart's content your summer vacation on this luxury cruise for a total of eight days and seven nights."
-[says] (p.118) "But in order to fully enjoy this cruise trip, you must successfully complete the next special exam."
-[says] (p.119) "Looks like you're indeed learning."
-[says] (p.123) "I know what you're saying, but I'm going to state in advance that no exam can be 100% fair."
-[says] (p.128) "this year's exam can be considered to require 'all types of abilities'."
-[trait] (p.117–132) Dangles the cruise then snatches it back — "lifting us up and then bringing us down," a tactic that works because the class has learned to brace itself; wants Class D to prove they differ from a year ago; explains the groups and rewards thoroughly.
-[rel:ayanokouji-kiyotaka] (p.117–132) Delivers the briefing; he reads her motivational intent.
-[rel:horikita-suzune] (p.119) Her smile of admiration at the class's alertness.
 ## y2v3
 
 <!-- walk: y2v3 → start -->

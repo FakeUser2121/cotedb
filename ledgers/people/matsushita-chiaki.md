@@ -256,17 +256,17 @@ char_id: matsushita-chiaki · class: Class 1-D · status: minor
 
 ### y2v2 p.178–184 — Matsushita proposes cooperation to Ayanokōji
 [scene] (p.178–184) She approaches him with her contact info, proposing they cooperate during the exam; he keeps his options open.
-[says] (p.182) "I do. That's why I think it's important for me to cooperate with you to help"
+[says] (p.182) “I do. That's why I think it's important for me to cooperate with you to help”
 [trait] (p.178–184) Strategic and proactive — she seeks alliances early.
 [rel:ayanokouji-kiyotaka] (p.178–184) She proposes cooperation.
 
 <!-- walk: y2v2 Ch.3 → p.184 -->
 
 ### y2v2 p.182–184 — Matsushita's offer to group with Ayanokōji
-[says] (p.182) "If you've got any problems, I would like to help you, Ayanokouji-kun."
-[says] (p.183) "Did you judge that your odds of survival are the highest if you grouped up"
-[says] (p.183) "I thought you'd get snapped up quickly, Ayanokouji-kun."
-[trait] (p.182–184) Shrewd and calculating — holds a "trial card" that makes a group more likely to be expelled, yet offers to assist Ayanokōji despite the danger; explains she chose him because she thought he'd be snapped up quickly and preferred taking the risk with capable people over a "half-assed group" with friends.
+[says] (p.182) “If you've got any problems, I would like to help you, Ayanokouji-kun.”
+[says] (p.183) “Did you judge that your odds of survival are the highest if you grouped up”
+[says] (p.183) “I thought you'd get snapped up quickly, Ayanokouji-kun.”
+[trait] (p.182–184) Shrewd and calculating — holds a “trial card” that makes a group more likely to be expelled, yet offers to assist Ayanokōji despite the danger; explains she chose him because she thought he'd be snapped up quickly and preferred taking the risk with capable people over a “half-assed group” with friends.
 [rel:ayanokouji-kiyotaka] (p.182–184) Offers to group with him; he declines to decide immediately, suspecting she is scheming.
 ## y2v4.5
 

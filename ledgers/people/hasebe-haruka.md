@@ -701,31 +701,35 @@ char_id: hasebe-haruka · class: Class 1-D · status: minor
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.12–22 — Haruka waits with Yukimura and backs the reconciliation
-[scene] (p.12–15) She sits with Yukimura, Sakura and Miyake, trying to calm him; after Ayanokōji returns she stays silent, letting Yukimura vent.
-[scene] (p.40–45) She stays quiet during the hallway confrontation to let Yukimura think, then forces Ayanokōji and Yukimura into a reconciliation handshake.
-[says] (p.43) "Alright, make up!"
-[trait] (p.12–45) Perceptive and socially adept — she reads the room and acts to defuse tension.
+### y2v2 p.12–22 — Haruka watches the uproar
+[scene] (p.12) In the front of the classroom with Yukimura, Sakura and Akito; she is closest to his panic; sighs as she looks out at the May sky.
+[says] (p.12) “Can you calm down a little? It hasn’t even been 5 minutes since Kiyopon left. He was called out by the teacher, right? It’s going to be a while.”
+[says] (p.13) “Was the question that hard?”
+[note] (p.13) She thought about it all over again — how had the situation become like this — and decides to stay and talk with Yukimura about it.
+[scene] (p.22) Miyake packs his archery-club things and she and Sakura see him off the turbulent classroom.
+[trait] (p.12–22) Outspoken, observant, steady; she reads the attributes of the perfect-score uproar faster than her classmates and chooses patience over panic.
+[rel:yukimura-teruhiko] (p.12–22) Her closest counterpart in the room; she keeps him anchored.
+[rel:sakura-airi] (p.12–22) She watches with her.
+[rel:miyake-akito] (p.12–22) Sees him off.
 
-<!-- walk: y2v2 Ch.1 → p.45 -->
-
-### y2v2 p.46–53 — Haruka arrives with the group at Keyaki Mall
-[scene] (p.53) She arrives with Miyake, Yukimura and Sakura and is suspicious about Ayanokōji's conversation with Ichinose, but drops it.
-[rel:ayanokouji-kiyotaka] (p.53) Suspicious about his talk with Ichinose.
+### y2v2 p.39–53 — Haruka mediates and manages
+[scene] (p.39–43) Catches up with Ayanokōji in the hallway with Keisei and Airi; she voices what the group cannot.
+[says] (p.40) “Going back without even saying hello, isn’t that a bit cruel?”
+[says] (p.42) “Yukimuu, are you serious?”
+[says] (p.43) “A reconciliation handshake? That’s nice!”
+[says] (p.43) “Alright, make up!”
+[says] (p.43) “If you don’t shake hands, I won’t let go, alright?”
+[scene] (p.44–45) She glances at Ayanokōji as if she remembered something and stiffens; Airi notices; she covers it with a new subject.
+[says] (p.44) “Oh, ahh. Well, it’s nothing. Anyway, it’s going to be hard for you since you’re a celebrity now!”
+[says] (p.45) “As a commemoration of our conciliation, why don’t we meet at Keyaki mall once Miyacchi’s club activities end?”
+[scene] (p.53) At Keyaki mall with Miyake, Keisei and Airi; the group uniform stare at Ayanokōji talking with Ichinose; she doesn’t push.
+[says] (p.53) “What were you talking about with Ichinose-san just now?”
+[trait] (p.39–53) She keeps the peace and notices what escapes the others; her p.44 stiffness is unexplained on page and is not resolved here.
+[rel:ayanokouji-kiyotaka] (p.39–53) She manages his classmates; she clocks what he will not say.
+[rel:yukimura-teruhiko] (p.39–45) She buffers him from his own anger.
+[rel:sakura-airi] (p.43–45) They exchange a glance; Airi worries about her.
 
 <!-- walk: y2v2 Ch.1 → p.53 -->
-
-
-### y2v2 p.12–15 — Hasebe tries to calm Yukimura
-[says] (p.12) "Can you calm down a little? It hasn't even been 5 minutes since Kiyopon left."
-[says] (p.12) "I'm calm… don't worry." — Yukimura's reply; Hasebe isn't convinced
-[says] (p.13) "It's only been 6 minutes, huh… I don't think he'll come back yet."
-[trivia] (p.12–15) Sits with Sakura and Miyake around the restless Yukimura, knowing he doesn't normally shake his leg; decides there's no point calming him and stays to distract him; marvels that Ayanokōji alone got a perfect score — not explainable by cramming or luck.
-[trait] (p.12–15) Gentle and intuitive — reads Yukimura's agitation, notes the beautiful May sky and how the mood has darkened, and chooses to stay with him rather than leave him alone.
-[rel:yukimura-teruhiko] (p.12–15) Tries to calm him; stays with him to distract him.
-[rel:ayanokouji-kiyotaka] (p.13–15) Wondering how incredible the perfect-score feat is.
-[rel:sakura-airi] (p.12) Sits with her and Miyake.
-[rel:miyake-akito] (p.12, 22) Sits with the group; later leaves for archery club.
 ## y2v4.5
 
 <!-- walk: y2v4.5 → start -->

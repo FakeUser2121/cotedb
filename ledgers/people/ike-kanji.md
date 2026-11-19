@@ -1173,29 +1173,20 @@ aliases used for anchors: ike, kanji, ike-kun
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.168–177 — Ike tries to form a group with Shinohara
-[scene] (p.168–171) He tries to recruit Shinohara into his group, selling his boy-scout skills; Kushida interrupts with an invitation from Kobashi (Class C).
-[scene] (p.174–177) He is upset when Shinohara agrees to meet Komiya at a café.
-[trait] (p.168–177) Anxious and emotionally invested — he worries about Shinohara and wants to protect her.
-[rel:shinohara-satsuki] (p.168–177) He is trying to form a group with her.
-[rel:komiya-kyogo] (p.174–177) He is jealous of Komiya's invitation.
+### y2v2 p.18–22 — Ike's cheating theory
+[scene] (p.18) Remembers the spring past-questions incident; supplies the leaked-paper hypothesis out loud.
+[says] (p.18) “It’s definitely possible. Like seeing the question paper beforehand or something. Remember, didn’t that happen in the 1st year as well? It was the one test that asked the exact same questions as the previous years!”
+[scene] (p.19) He pushes the hacking angle; Shinohara beside him cannot follow the leap.
+[says] (p.19) “Hacking the school computers and stealing the answers or something! Isn’t that possible!”
+[scene] (p.20–21) Pushes Sudō on the fairness front; then, absorbing Karuizawa's holding-back theory, lands his did-not-contribute complaint.
+[says] (p.20) “What do you mean, Ken? Don’t tell me you’re taking Ayanokouji’s side?”
+[says] (p.21) “Well isn’t that even more of a problem? Doesn’t that mean he didn’t contribute to the class?”
+[note] (p.19–22) Ike is a long-time Sudō friend; the betrayal-of-the-circle reading of the perfect score simmers underneath the jokes.
+[rel:sudou-ken] (p.19–22) He goes for the obvious angle with his old friend on the other side.
+[rel:shinohara-satsuki] (p.18–19) She stands beside him.
+[rel:miyamoto-soshi] (p.18–20) They trade the evidence.
 
-<!-- walk: y2v2 Ch.3 → p.177 -->
-
-### y2v2 p.12–22 — Ike suggests cheating via past papers
-[scene] (p.18) He loudly recalls a past cheating incident where a classmate got past exam questions from a third-year, suggesting Ayanokōji might have done the same.
-[says] (p.18) "It's definitely possible. Like seeing the question paper beforehand or something."
-[trait] (p.18) Quick to jump to conspiratorial explanations.
-
-<!-- walk: y2v2 Ch.1 → p.18 -->
-
-### y2v2 p.169–176 — Ike wants to group with Shinohara
-[says] (p.169) "uh, it's gotta do with that. Ya know, the groups for this new uninhabited island exam… Have you talked to anyone about grouping up yet?"
-[says] (p.170) "you're feeling troubled… uh, I can form a group with you, yeah?"
-[note] (p.169–176) Ike essentially wants a reason to group with Shinohara (he "just wanted a reason to group up with her"); Ayanokōji suggests he discuss it with her directly; Ike is shocked to learn Shinohara has already decided on a group.
-[trait] (p.169–176) Eager and lovestruck — wants to be Shinohara's group partner, tries to help Ayanokōji as a pretext, and is flustered when he learns she's already grouped.
-[rel:shinohara-satsuki] (p.169–176) Wants to form a group with her.
-[rel:ayanokouji-kiyotaka] (p.169–176) Asks his advice about grouping.
+<!-- walk: y2v2 Ch.1 → p.22 -->
 ## y2v3
 
 <!-- walk: y2v3 → start -->

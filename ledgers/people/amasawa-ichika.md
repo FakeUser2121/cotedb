@@ -149,52 +149,52 @@ char_id: amasawa-ichika · class: Class 1-D · status: unknown
 <!-- walk: y2v2 → start -->
 
 ### y2v2 p.6–10 — Amasawa: White Room prologue (her POV)
-[scene] (p.6–10) In her own voice she explains she is a fifth-generation White Room student, that she has always been compared to the fourth-generation "god" Ayanokōji Kiyotaka and found wanting, and that she worships only hatred, not him; she watched him through a visiting room and shivered at his figure.
+[scene] (p.6–10) In her own voice she explains she is a fifth-generation White Room student, that she has always been compared to the fourth-generation “god” Ayanokōji Kiyotaka and found wanting, and that she worships only hatred, not him; she watched him through a visiting room and shivered at his figure.
 [note] (p.6–10) This is Amasawa's interior monologue (her POV); no spoken line is quoted.
 [trait] (p.6–10) Driven by hatred rather than worship — she refuses to revere Ayanokōji and treats him as her enemy, the obstacle to her being recognized as the White Room's success story.
 [goal] (p.6–10) To prove Ayanokōji is not number one and to be recognized by the organization as the true success; the opportunity comes now that he has refused to return to the restarted White Room.
-[rel:ayanokouji-kiyotaka] (p.6–10) The fourth-generation "god" she has been measured against her whole life; she has resolved to bury him.
+[rel:ayanokouji-kiyotaka] (p.6–10) The fourth-generation “god” she has been measured against her whole life; she has resolved to bury him.
 
 <!-- walk: y2v2 Prologue → p.10 -->
 
 ### y2v2 p.92–108 — Amasawa forces her way in and teases Kei
 [scene] (p.92–95) She arrives at Ayanokōji's door with ingredients, demands entry, and reveals she watched Kei enter his room.
-[says] (p.92) "Senpai, you look like you are alone anyway, so cook for me."
-[says] (p.97) "Did you lie to me because you didn't want me to come into the room?"
-[scene] (p.98–108) She enters, teases them about sex, and gives Kei a contraceptive as a "gift" and apology for her role in the Hōsen attack.
-[says] (p.100) "I thought you would have an illicit sexual relationship for sure… I mean having sex."
-[says] (p.101) "Take this as a gift from me… No, take it as an apology."
-[says] (p.102) "I'm not Ayanokouji-senpai's enemy."
+[says] (p.92) “Senpai, you look like you are alone anyway, so cook for me.”
+[says] (p.97) “Did you lie to me because you didn't want me to come into the room?”
+[scene] (p.98–108) She enters, teases them about sex, and gives Kei a contraceptive as a “gift” and apology for her role in the Hōsen attack.
+[says] (p.100) “I thought you would have an illicit sexual relationship for sure… I mean having sex.”
+[says] (p.101) “Take this as a gift from me… No, take it as an apology.”
+[says] (p.102) “I'm not Ayanokouji-senpai's enemy.”
 [trait] (p.92–108) Playful, shameless, and calculating — she uses leverage to force entry and gathers intelligence.
 [rel:ayanokouji-kiyotaka] (p.92–108) She pressures him and he concedes.
 [rel:karuizawa-kei] (p.98–108) She teases Kei and threatens exposure.
 
 <!-- walk: y2v2 Ch.2 → p.108 -->
 
-### y2v2 p.100–107 — Amasawa's visit: the condom "gift" and her hints
+### y2v2 p.100–107 — Amasawa's visit: the condom “gift” and her hints
 [scene] (p.100) Visits Ayanokōji's room (where he and Karuizawa were studying), teasing them about an illicit sexual relationship, then places a contraceptive on the table as a supposed gift and apology.
-[says] (p.100) "I thought you would have an illicit sexual relationship for sure… I mean having sex."
-[says] (p.101) "Take this as a gift from me… No, take it as an apology."
-[says] (p.101) "Quit playing dumb, the wound on your hand, I had a part in that right? Because I teamed up with Housen."
-[says] (p.102) "I'm not Ayanokouji-senpai's enemy."
-[says] (p.103) "Ayanokouji-senpai, haven't you told your girlfriend about that? Then what about the 20 million point bounty?"
-[says] (p.104) "Because senpai suddenly had a bounty for his head, and I thought that it was a pity that you would be expelled without even knowing the situation."
-[says] (p.105) "Go make a cup of coffee for Amasawa." — Ayanokōji; she piles on requests
-[says] (p.105) "Don't put garbage or sewage into my coffee because you don't like me."
-[says] (p.106) "Let's see, hmmm? What was the convention adopted at the General Conference of the United Nations Educational, Scientific and Cultural Organization in 1972?" — she correctly writes "World Heritage Convention"
-[trait] (p.100–107) Playful, shameless and razor-sharp — probes the couple mercilessly, openly admits her role in the knife plot, claims she isn't his enemy, and reveals she left a deliberate "trace" (her instant choice of the knife at the store) so Ayanokōji could defend himself; answers a college-level question with ease and has Karuizawa make her coffee purely to tease her, then leaves without drinking it.
+[says] (p.100) “I thought you would have an illicit sexual relationship for sure… I mean having sex.”
+[says] (p.101) “Take this as a gift from me… No, take it as an apology.”
+[says] (p.101) “Quit playing dumb, the wound on your hand, I had a part in that right? Because I teamed up with Housen.”
+[says] (p.102) “I'm not Ayanokouji-senpai's enemy.”
+[says] (p.103) “Ayanokouji-senpai, haven't you told your girlfriend about that? Then what about the 20 million point bounty?”
+[says] (p.104) “Because senpai suddenly had a bounty for his head, and I thought that it was a pity that you would be expelled without even knowing the situation.”
+[says] (p.105) “Go make a cup of coffee for Amasawa.” — Ayanokōji; she piles on requests
+[says] (p.105) “Don't put garbage or sewage into my coffee because you don't like me.”
+[says] (p.106) “Let's see, hmmm? What was the convention adopted at the General Conference of the United Nations Educational, Scientific and Cultural Organization in 1972?” — she correctly writes “World Heritage Convention”
+[trait] (p.100–107) Playful, shameless and razor-sharp — probes the couple mercilessly, openly admits her role in the knife plot, claims she isn't his enemy, and reveals she left a deliberate “trace” (her instant choice of the knife at the store) so Ayanokōji could defend himself; answers a college-level question with ease and has Karuizawa make her coffee purely to tease her, then leaves without drinking it.
 [rel:ayanokouji-kiyotaka] (p.100–107) Admits helping Hōsen, claims not to be his enemy, and leaves clues that raise Ayanokōji's vigilance that she could be the White Room student.
 [rel:karuizawa-kei] (p.100–107) Teases her mercilessly about the relationship, has her make coffee (with milk and sugar), and writes in her notebook; Karuizawa shows undisguised disgust.
 
-### y2v2 p.345–347 — Short story: "What is Reflected in Her Eyes" — staking out Karuizawa
-[scene] (p.345) From her own POV, spends two weeks watching Karuizawa, then stalks her from the dorm to Ayanokōji's floor, changes into cute clothes, buys ingredients and a "small amorous box," and tails another resident through the auto-lock.
-[narrates] (p.345) "Will he think I'm cute?"
-[narrates] (p.346) "Hmm, perfect!"
-[narrates] (p.347) "Se~npai."
-[narrates] (p.347) "It's me!"
-[trait] (p.345–347) Obsessive, playful and calculating — delights in the "hardship" of the stakeout, carefully plans her outfit and props, aims at Ayanokōji's few weaknesses to get invited in, and anticipates all his ways of rejecting her ("two arrows, three arrows").
+### y2v2 p.345–347 — Short story: “What is Reflected in Her Eyes” — staking out Karuizawa
+[scene] (p.345) From her own POV, spends two weeks watching Karuizawa, then stalks her from the dorm to Ayanokōji's floor, changes into cute clothes, buys ingredients and a “small amorous box,” and tails another resident through the auto-lock.
+[narrates] (p.345) “Will he think I'm cute?”
+[narrates] (p.346) “Hmm, perfect!”
+[narrates] (p.347) “Se~npai.”
+[narrates] (p.347) “It's me!”
+[trait] (p.345–347) Obsessive, playful and calculating — delights in the “hardship” of the stakeout, carefully plans her outfit and props, aims at Ayanokōji's few weaknesses to get invited in, and anticipates all his ways of rejecting her (“two arrows, three arrows”).
 [rel:ayanokouji-kiyotaka] (p.345–347) Obsessed with him — wants him to find her cute and to be invited into his room.
-[rel:karuizawa-kei] (p.345–346) Stalks her for two weeks to confirm the secret "date."
+[rel:karuizawa-kei] (p.345–346) Stalks her for two weeks to confirm the secret “date.”
 [rel:nomura-shuuji] (p.346) Follows him through the dorm auto-lock to reach room 401.
 ## y2v3
 

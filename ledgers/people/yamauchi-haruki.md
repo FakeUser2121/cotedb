@@ -836,11 +836,8 @@ aliases used for anchors: yamauchi, haruki, yamauchi-kun
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.33, 62 — Yamauchi mentioned in passing
-[scene] (p.33) Named in Horikita's cover story — she mentions Yamauchi as someone who was expelled.
-[scene] (p.62) Named — "Yamauchi would have been more careful."
-[note] (p.33, 62) Passing mentions; not a distinct scene presence.
-[mentioned] (p.33, 62) Passing mention only.
+### y2v2 p.33 — Yamauchi mentioned in passing
+[mentioned] (p.33) His name comes up in Horikita's retelling of last spring: she says he would have been more careful with his moves had Ayanokōji been serious from the start, and that Sakayanagi's strategy would have been more complex – a passing mention, not a scene presence.
 
 <!-- walk: y2v2 Ch.1 → p.62 -->
 

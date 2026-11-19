@@ -1140,21 +1140,26 @@ aliases used for anchors: sakura, airi, sakura-san
 
 <!-- walk: y2v2 → start -->
 
-### y2v2 p.12–22 — Sakura tries to lighten the mood
-[scene] (p.12–15) She sits with the group and tries to defuse tension by praising Ayanokōji, but her attempt backfires on Yukimura.
-[says] (p.15) "S-so he solved such a question, Kiyotaka-kun sure is amazing!"
-[scene] (p.40–45) She suggests a reconciliation handshake between Ayanokōji and Yukimura.
-[says] (p.43) "H-how about you two do a…reconciliation handshake?"
-[trait] (p.12–45) Gentle and well-meaning, if sometimes tone-deaf.
+### y2v2 p.12–22 — Sakura's soft landing
+[scene] (p.14) Sits with Yukimura, Haruka and Miyake; the class is on edge over the math results; she tries to defuse the tension with a sage smile.
+[says] (p.14) “S-so he solved such a question, Kiyotaka-kun sure is amazing!”
+[note] (p.14–15) The attempt lands badly — Yukimura's face tightens.
+[scene] (p.22) Sees Miyake off with Haruka before the class empties.
+[rel:yukimura-teruhiko] (p.12–22) She tries to soften his agitation.
+[rel:miyake-akito] (p.12–22) Sees him off.
 
-<!-- walk: y2v2 Ch.1 → p.45 -->
+### y2v2 p.39–53 — The reconciliation handshake; Keyaki mall
+[scene] (p.39–43) With Haruka and Keisei in the hallway; she waits behind them and finds the courage to speak.
+[says] (p.43) “H-how about you two do a…reconciliation handshake?”
+[says] (p.44) “What’s wrong, Haruka-chan?”
+[scene] (p.45) Touched that the reconciliation happened; exchanges a glance with Haruka (“Right~?”).
+[scene] (p.53) Arrives with the group at Keyaki mall; does not question the Ichinose conversation directly.
+[trait] (p.39–53) The empath of the group; she names the reconciliation before the boys can, and she sees Haruka's strange moment on p.44.
+[rel:ayanokouji-kiyotaka] (p.39–53) She watches him become a celebrity.
+[rel:yukimura-teruhiko] (p.39–45) She propels the peace process.
+[rel:hasebe-haruka] (p.44–45) She notices Haruka freeze.
 
-
-### y2v2 p.15 — Sakura's praise of Kiyotaka
-[says] (p.15) "S-so he solved such a question, Kiyotaka-kun sure is amazing!"
-[trait] (p.15) Tries to lighten the dreary mood with a sage smile and praise of Ayanokōji — but it has the opposite effect, tightening Yukimura's face.
-[rel:ayanokouji-kiyotaka] (p.15) Admires him; calls him "Kiyotaka-kun."
-[rel:yukimura-teruhiko] (p.15) Her well-meant comment irritates him.
+<!-- walk: y2v2 Ch.1 → p.53 -->
 ## y2v3
 
 <!-- walk: y2v3 → start -->
