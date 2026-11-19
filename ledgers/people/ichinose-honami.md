@@ -1933,6 +1933,8 @@ aliases used for anchors: ichinose, honami, ichinose-san
 [mentioned] (p.206) “Ichinose class will beat Horikita's class in the year end special exam. Ayanokouji will be 'stolen' from Horikita class, and join Ichinose. Best girl Honami will become relevant again. You heard it here first.” — Cast#5942's editor quote in the RoyalMTL's credits page; Ichinose's class is the editor's prediction for the year-end exam.
 <!-- walk: y2v7 Afterword → p.207 -->
 
+<!-- walk: y2v7 Epilogue → p.202 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

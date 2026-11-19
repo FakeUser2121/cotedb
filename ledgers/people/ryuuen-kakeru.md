@@ -2484,6 +2484,8 @@ aliases used for anchors: ryuuen, ryūen, kakeru, ryuuen-kun
 
 <!-- walk: y2v7 Ch.7 → p.183 -->
 
+<!-- walk: y2v7 Ch.2 → p.71 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

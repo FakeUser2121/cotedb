@@ -1837,3 +1837,4 @@ hash: `6bea783884c7cb8573db97157f0b718a`.
 | y2v10 Prologue+Ch.1 (pp.4-30) | 30 | verify ALL PASS (replica) | pending |
 | y2v10 Ch.6–Epilogue batch (this session) | 226 (Ch.6 66pp + Ch.7 28pp + Epilogue+SS 19pp) | 273 person sections; volume ledger rewritten (Ch.6/Ch.7/Epilogue + 4 SSs); make check/gate OK; R19 80≤baseline; R18 0; docs restored | 1592 | ba6f1ebcb64b8a61f1c3d2b0d2d9dca6 |
 | y2v10 coverage gate + DONE | 235 | 84 roster characters gated; ~116 mention anchors added; verify replica ALL PASS (1612); gate/check OK; R19 80≤baseline; DONE stamp | 1612 | 9cf06c99d80350f98b770751cd7b6efd |
+| y2v7 depth pass complete (inc. vol. ledger restore) | 207 | 322 paginated person sections; coverage gate 71 ids (64 clean, 7 matcher-noise ids triaged); volume ledger reconstructed from 6b2984ea^ after 6b2984ea/1929c765 truncation | docs not rebuilt in worktree; parent rebuilds at merge |

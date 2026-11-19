@@ -400,6 +400,8 @@ char_id: tsukishiro · role: Acting Director · status: faculty
 [rel:yagami-takuya] (p.171) Yagami knew about Tsukishiro's involvement.
 <!-- walk: y2v7 Ch.5 → p.130 -->
 
+<!-- walk: y2v7 Ch.7 → p.183 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

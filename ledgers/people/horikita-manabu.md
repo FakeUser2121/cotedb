@@ -959,8 +959,6 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [note] (p.206) “Best girl Honami will become relevant again.” — same editor.
 [rel:nagumo-miyabi] (p.39–54) Nagumo was taught a lesson by Manabu's evasions.
 [rel:horikita-suzune] (p.54, 70) Her class's suffering is the counterweight to Ichinose's.
-<!-- walk: y2v7 Afterword → p.207 -->
-<!-- walk: y2v7 Ch.2 → p.71 -->
 ### y2v7 p.40 — Horikita Manabu's recalled line
 [scene] (p.40) Narration, as Ayanokōji analyzes Nagumo: “I recalled Horikita Manabu's words, ‘Nagumo's methods make a lot of people unhappy.’ That is half true.” — he reflects that the original plan was only to mess with Nagumo's emotions and thought process.
 [says] (p.40) “Nagumo's methods make a lot of people unhappy.” — Horikita Manabu's recalled line.
@@ -974,7 +972,6 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 [rel:nagumo-miyabi] (p.47–49) The Manabu rivalry hangs over the negotiation; Manabu dodged him without involving everyone.
 
 
-<!-- walk: y2v7 Ch.1 → p.53 -->
 
 
 ### y2v7 p.41, 48, 50, 53, 77 — Manabu in the mouths of others
@@ -1046,6 +1043,8 @@ aliases used for anchors: manabu, president, horikita-senpai, horikita-kaichou
 <!-- walk: y2v7 Ch.7 → p.183 -->
 <!-- walk: y2v7 Epilogue → p.202 -->
 <!-- walk: y2v7 Afterword → p.207 -->
+
+<!-- walk: y2v7 Prologue → p.6 -->
 
 ## y2v8
 

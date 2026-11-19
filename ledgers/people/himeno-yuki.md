@@ -107,6 +107,8 @@ char_id: himeno-yuki · class: Class 2-A · status: unknown
 
 <!-- walk: y2v7 Ch.2 → p.71 -->
 
+<!-- walk: y2v7 Ch.5 → p.130 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

@@ -895,6 +895,8 @@ char_id: hashimoto-masayoshi · class: Class 1-A (enrolled April 2015) · status
 
 <!-- walk: y2v7 Ch.4 → p.106 -->
 
+<!-- walk: y2v7 Epilogue → p.202 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->

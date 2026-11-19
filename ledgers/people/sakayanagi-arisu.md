@@ -1365,6 +1365,12 @@ char_id: sakayanagi-arisu · class: Class 1-A (enrolled April 2015) · status: m
 
 <!-- walk: y2v7 Epilogue → p.202 -->
 
+<!-- walk: y2v7 Ch.3 → p.83 -->
+
+<!-- walk: y2v7 Ch.5 → p.130 -->
+
+<!-- walk: y2v7 Ch.7 → p.183 -->
+
 ## y2v8
 
 <!-- walk: y2v8 → start -->
